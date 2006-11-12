@@ -11,7 +11,7 @@ From {{MF.}} ''[[fonction]]'' < {{OF.}} ''[[function#Old French|function]]'' < {
 ===Noun===
 {{en-noun}}
 
-# What something does or is used for
+# What something does or is used for.
 # A [[professional]] or [[official]] position.
 # An [[official]] or [[social]] [[occasion]].
 # A relation where one thing is dependent on another for its existence, value, or significance.
@@ -24,7 +24,7 @@ From {{MF.}} ''[[fonction]]'' < {{OF.}} ''[[function#Old French|function]]'' < {
 *(''what something does or is used for''): [[aim]], [[intention]], [[purpose]], [[role]], [[use]]
 *(''professional or official position''): [[occupation]], [[office]], [[part]], [[role]]
 *(''official or social occasion''): [[affair]], [[occasion]], [[social occasion]], [[social function]]
-*(''analysis: many-to-one relation''): [[many-to-one]] [[map]], many-to-one [[mapping]], [[mathematical function]], [[operation]] (''if it takes two arguments''), [[transformation]]
+*(''analysis: many-to-one relation''): many-to-one [[map]], many-to-one [[mapping]], [[mathematical function]], [[operation]] (''if it takes two arguments''), [[transformation]]
 *(''computing: routine that returns a result''): [[procedure]], [[routine]], [[subprogram]], [[subroutine]]
 
 ====Related terms====
@@ -144,13 +144,13 @@ From {{MF.}} ''[[fonction]]'' < {{OF.}} ''[[function#Old French|function]]'' < {
 *[[function multiplier]]
 *[[function space]]
 *[[function switch]]
+{{mid3}}
 *[[function table]]
 *[[function unit]]
 *[[function-evaluation routine]]
 *[[functional]]
 *[[functionalism]]
 *[[functionality]]
-{{mid3}}
 *[[gamma function]]
 *[[general-purpose function generator]]
 *[[generalized transmission function]]
@@ -372,102 +372,100 @@ From {{MF.}} ''[[fonction]]'' < {{OF.}} ''[[function#Old French|function]]'' < {
 {{bottom}}
 
 ====Translations====
-'''what something does or is used for'''
-{{top}}
+{{top|what something does or is used for}}
 *Czech: [[funkce]] {{f}}, [[účel]] {{m}}
 *Danish: [[funktion]] {{c}}
-* Finnish: [[tehtävä]], [[tarkoitus]]
-* French: [[fonction]] ''f''
-* German: [[Funktion]] ''f'', [[Funktionalität]] ''f''
-*Italian: [[funzione]] ''f''
+*Dutch: [[functie]] {{f}}
+*Finnish: [[tehtävä]], [[tarkoitus]]
+*French: [[fonction]] {{f}}
+*German: [[Funktion]] {{f}}, [[Funktionalität]] {{f}}
+*Italian: [[funzione]] {{f}}
 *Japanese: [[機能]] (kinō)
 {{mid}}
 *Korean: [[기능]]
 *Latin: [[functio]] {{f}}
 *Portuguese: [[função]] {{f}}
 *Swedish: [[funktion]] {{c}}, [[uppgift]] {{c}}
-*Russian: [[функция]] ''f''
+*Russian: [[функция]] {{f}}
 {{bottom}}
 
-'''professional or official position'''
-{{top}}
+{{top|professional or official position}}
 *Czech: [[funkce]] {{f}}
 *Danish: [[funktion]] {{c}}
-* German: [[Funktion]] ''f''
+*Dutch: [[functie]] {{f}}
+*German: [[Funktion]] {{f}}
 {{mid}}
 *Japanese: [[職務]] (shokumu)
 *Portuguese: [[função]] {{f}}
 *Swedish: [[förrättning]] {{c}}, [[kall]] {{n}}, [[syssla]] {{c}}, [[åliggande]] {{n}}, 
 {{bottom}}
 
-'''official or social occasion'''
-{{top}}
+{{top|official or social occasion}}
 *Finnish: [[juhla]], [[tilaisuus]]
 *Italian: [[cerimonia]] {{f}}, [[funzione]] {{f}}, [[ricevimento]] {{m}}
 {{mid}}
 *Swedish: [[bjudning]] {{c}}, [[tillställning]] {{c}}
 {{bottom}}
 
-'''relation where one thing is dependent on another'''
-{{top}}
+{{top|relation where one thing is dependent on another}}
 *Czech: [[funkce]] {{f}}
 *Danish: [[funktion]] {{c}}
+*Dutch: [[functie]] {{f}}
 *Italian: [[funzione]] {{f}}
 {{mid}}
 *Portuguese: [[função]] {{f}}
 *Swedish: [[funktion]] {{c}}
 {{bottom}}
 
-'''analysis: many-to-one relation'''
-{{top}}
-* Chinese: [[函数]]
+{{top|analysis: many-to-one relation}}
+*Chinese: [[函数]]
 *Czech: [[funkce]] {{f}}
 *Danish: [[funktion]] {{c}}
-* Dutch: [[functie]]
-* [[Esperanto]]: [[funkcio]]
-* Estonian: [[funktsioon]]
+*Dutch: [[functie]] {{f}}
+*[[Esperanto]]: [[funkcio]]
+*Estonian: [[funktsioon]]
 *Finnish: [[funktio]]
-* French: [[fonction]] ''f''
-* German: [[Funktion]] ''f''
-* Greek, Modern: [[συνάρτηση]] ''f''
-* Hebrew: [[פונקציה]]
-* Icelandic: [[fall#Icelandic|fall]]
-* [[Ido]] : [[funciono]]
+*French: [[fonction]] {{f}}
+*German: [[Funktion]] {{f}}
+*Greek, Modern: [[συνάρτηση]] {{f}}
+*Hebrew: [[פונקציה]]
+*Icelandic: [[fall#Icelandic|fall]]
+*[[Ido]] : [[funciono]]
 {{mid}}
-* Indonesian: [[fungsi]]
-* Italian: [[funzione]] ''f''
+*Indonesian: [[fungsi]]
+*Italian: [[funzione]] {{f}}
 *Japanese: [[関数]] (kansū)
-* Korean: [[함수]]
-* Polish: [[funkcja]]
-* Portuguese: [[função]] ''f''
-* Romanian: [[funcţie]]
-* Russian: [[функция]]
-* Spanish: [[función]] ''f''
-* Swedish: [[funktion]]
-* Thai: [[ฟังก์ชัน]]
-* Urdu: <font face="urdu naskh asiatype, times new roman">[[عمل]] &nbsp;[[کام]] &nbsp;[[فعل]]</font>
-* Ukrainian: [[ін'єкція]]
+*Korean: [[함수]]
+*Polish: [[funkcja]]
+*Portuguese: [[função]] {{f}}
+*Romanian: [[funcţie]]
+*Russian: [[функция]]
+*Spanish: [[función]] {{f}}
+*Swedish: [[funktion]]
+*Thai: [[ฟังก์ชัน]]
+*Urdu: <font face="urdu naskh asiatype, times new roman">[[عمل]] &nbsp;[[کام]] &nbsp;[[فعل]]</font>
+*Ukrainian: [[ін'єкція]]
 {{bottom}}
 
-'''computing: routine that returns a result'''
-{{top}}
+{{top|computing: routine that returns a result}}
 *Czech: [[funkce]] {{f}}
 *Danish: [[funktion]] {{c}}
-* Finnish: [[funktio]]
-* French: [[fonction]] ''f''
+*Dutch: [[functie]] {{f}}
+*Finnish: [[funktio]]
+*French: [[fonction]] {{f}}
 {{mid}}
-* German: [[Funktion]] {{f}}
+*German: [[Funktion]] {{f}}
 *Italian: [[funzione]] {{f}}
 *Japanese: [[関数]] (kansū)
 *Portuguese: [[função]] {{f}}
 *Swedish: [[funktion]] {{c}}, [[subrutin]] {{c}}
 {{bottom}}
 
-'''biology: physiological activity of an organ or body part'''
-{{top}}
+{{top|biology: physiological activity of an organ or body part}}
 *Czech: [[funkce]] {{f}}
-* French: [[fonction]] ''f''
-* German: [[Funktion]] ''f''
+*Dutch: [[functie]] {{f}}
+*French: [[fonction]] {{f}}
+*German: [[Funktion]] {{f}}
 *Italian: [[funzione]] {{f}}
 {{mid}}
 *Japanese: [[機能]] (kinō)
@@ -475,8 +473,8 @@ From {{MF.}} ''[[fonction]]'' < {{OF.}} ''[[function#Old French|function]]'' < {
 *Swedish: [[funktion]] {{c}}
 {{bottom}}
 
-'''chemistry: characteristic behavior of a chemical compound'''
-{{top}}
+{{top|chemistry: characteristic behavior of a chemical compound}}
+*Dutch: [[functie]] {{f}}
 *Italian: [[funzione]] {{f}}
 *Japanese: [[機能]] (kinō)
 {{mid}}
@@ -488,13 +486,12 @@ From {{MF.}} ''[[fonction]]'' < {{OF.}} ''[[function#Old French|function]]'' < {
 the tables above.-->
 {{checktrans}}
 
-*{{ttbc|Dutch}}: [[functie]] ''f'' (1, 3)
-*{{ttbc|Hebrew}}: [[פונקציה]] ''f'' (1, 3)
-*{{ttbc|Hungarian}}: [[funkció]] ''f'' (1, 2, 3)
-*{{ttbc|Interlingua}}: function (1, 2, 3)
+*{{ttbc|Hebrew}}: [[פונקציה]] {{f}} (1, 3)
+*{{ttbc|Hungarian}}: [[funkció]] {{f}} (1, 2, 3)
+*{{ttbc|Interlingua}}: [[#Interlingua|function]] (1, 2, 3)
 *{{ttbc|Irish}}: [[feidhm]]
-*{{ttbc|Latin}}: [[functio]] ''f''
-*{{ttbc|Polish}}: funkcja ''f'' (1, 3)
+*{{ttbc|Latin}}: [[functio]] {{f}}
+*{{ttbc|Polish}}: [[funkcja]] {{f}} (1, 3)
 
 ===Intransitive Verb===
 {{en-verb}}
@@ -514,9 +511,9 @@ the tables above.-->
 * [[dysfunction]], [[dysfunctional]]
 
 ====Translations====
-'''to have a function'''
-{{top}}
+{{top|to have a function}}
 *Danish: [[fungere]]
+*Dutch: [[fungeren]], [[dienen]]
 *Finnish: [[toimia]]
 *Italian: [[funzionare]]
 {{mid}}
@@ -525,11 +522,12 @@ the tables above.-->
 *Swedish: [[fungera]], [[tjänstgöra]], [[uppträda]], [[verka]]
 {{bottom}}
 
-'''to carry on a function'''
-{{top}}
+{{top|to carry on a function}}
 *Danish: [[fungere]], [[virke]]
+*Dutch: [[functioneren]]
 *Finnish: [[käydä]] ([[olla]] [[käynnissä]])
 *French: [[fonctionner]]
+*German: [[funktionieren]], {{slang}} [[funzen]] 
 *Italian: [[funzionare]]
 {{mid}}
 *Japanese: [[機能する]] (kinō-suru)
@@ -538,8 +536,7 @@ the tables above.-->
 
 =====Translations to be checked=====
 {{checktrans}}
-*{{ttbc|Dutch}}: [[functioneren]]
-*{{ttbc|German}}: [[funktionieren]], {{slang}} [[funzen]] 
+*{{ttbc|German}}: [[funktionieren]]
 *{{ttbc|Polish}}: [[działać]], [[funkcjonować]]
 
 [[fa:function]]
