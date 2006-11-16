@@ -1,21 +1,14 @@
-{{Unreferenced}} {{linkless-date|July 2006}}
+{{linkless-date|July 2006}}
 
-The acronym '''WISA''' refers to the Web Development Stack of Windows in contrast to the [[LAMP (software bundle)|LAMP]] that is being offered by the Free/Open Source Software Advocates.
-
-*WISA, is a set of tools used together to run dynamic Web sites or servers:
-*Windows, the operating system;
-*Internet Information Service (IIS), the Web server;
-*[[Microsoft SQL Server]], the database management system (or database server);
-* ASP.NET
+The acronym '''WISA''' refers to a dynamic website based on Microsoft technologies: Windows (operating system), Internet Information Services (web server), Microsoft SQL Server (database) and ASP (scripting language). The principal alternative is [[LAMP (software bundle)|LAMP]] that is offered by the open source software providers.
 
 ==See also==
-{{portalpar|Free software}}
 * [[Category:Free software]]
 * [[Comparison of WAMPs]]
 * [[List of web application frameworks]]
 * [[List of AMP Packages]] Combined installers for [[Apache HTTP Server|Apache]], [[MySQL]] and [[PHP]].
 
-==External links==
+==References==
 *[http://www.shawnolson.net/a/302/ A Comparison of two major dynamic web platforms (LAMP vs. WISA ) by Andrew Penry]
 
 [[Category:Microsoft server technology]]
