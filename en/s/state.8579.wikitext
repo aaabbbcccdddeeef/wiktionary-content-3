@@ -19,11 +19,11 @@
 #:* '''state''' of being
 #:* '''state''' of emergency
 # {{computing}} The stable condition of a processor during a particular [[clock cycle]].
-#: ''In the fetch state, the address of the next instruction is placed on the address bus.''
+#:* In the fetch state, the address of the next instruction is placed on the address bus.
 # {{computing}} The set of all parameters relevant to a computation.
-#: ''The state here includes a set containing all names seen so far.''
+#:* The state here includes a set containing all names seen so far.
 # {{computing}} The values of all parameters at some point in a computation.
-#: ''A debugger can show the state of a program at any breakpoint.''
+#:* A debugger can show the state of a program at any breakpoint.
 
 ====Translations====
 {{top}}
