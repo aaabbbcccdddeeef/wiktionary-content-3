@@ -52,9 +52,9 @@ From {{ME.}} [[stoppen]] "to stop".
 {{bottom}}
 
 {{top|interruption of travel}}
-*Afrikaans: stop
+*Afrikaans: [[#Afrikaans|stop]]
 *Arabic: {{ARchar|[[وقفة]]}} (wáqfa) {{f}}
-*Dutch: [[#Dutch|stop]] {{m}}
+*Dutch: [[#Dutch|stop]] {{m}}, {{t|nl|pauze|f}}
 *Finnish: [[keskeytys]]
 {{mid}}
 *French: [[arrêt]] {{m}}
@@ -68,7 +68,7 @@ From {{ME.}} [[stoppen]] "to stop".
 {{bottom}}
 
 {{top|consonant sound}}
-*Catalan: oclusiva
+*Catalan: [[oclusiva]]
 *Dutch: [[occlusief]] {{m}}
 *French: [[occlusive]] {{f}}
 {{mid}}
@@ -129,12 +129,12 @@ From {{ME.}} [[stoppen]] "to stop".
 #: ''The sight of the armed men '''stopped''' him in his tracks.''
 # {{transitive}}: To cause (something) to come to an end.
 #: ''The referees '''stopped''' the fight.''
-#{{transitive}}: To close an appeture.
+# {{transitive}}: To close an [[appeture]].
 #:''He '''stopped''' the wound with gauze.''
-#{{transitive}}: To stay a while. 
+# {{intransitive}}: To stay a while. 
 #:''He '''stopped''' for two weeks at the inn.''
-#{{intransitive}}: To tarry.
-#:''He stopped at his friend's house before continuing with his drive.''
+# {{intransitive}}: To [[tarry]].
+#:''He '''stopped''' at his friend's house before continuing with his drive.''
 
 ====Synonyms====
 *{{italbrac|to cease moving}}: [[brake]], [[desist]] [[halt]]
@@ -162,19 +162,16 @@ From {{ME.}} [[stoppen]] "to stop".
 *[[stopwatch]]
 {{bottom}}
 
-=====Translations=====
+====Translations====
 {{COW trans}}
-'''intransitive: To [[cease]] moving'''
-{{top}}
+{{top|intransitive: To cease moving}}
 *Arabic: {{ARchar|[[توقف]]}} {{Unicode|(tawáqqafa)}}
-*Bulgarian: [[спирам]] (spiram) (1)
+*Bulgarian: [[спирам]] (spiram)
 *Catalan: [[parar]], [[aturar]]
 *Chinese: [[停]] (tíng)
-*Dutch: [[stoppen]], [[halthouden]], [[stilstaan]], [[ophouden]]<!-- not verified -->
-*[[Esperanto]]: [[halti]], [[haltigi]], [[cxesigi]] <!-- not verified -->
+*Dutch: [[stoppen#Dutch|stoppen]], [[halthouden]]
 *Finnish: [[pysähtyä]]
-*French: [[s'arrêter]], [[s'immobiliser]], [[cesser]] <!-- not verified -->
-*German: [[anhalten]] (1), [[stehen bleiben]] (1), [[stoppen]] (1)
+*German: [[anhalten]], [[stehen bleiben]], [[stoppen#German|stoppen]]
 *Hungarian: [[állni]], [[megállni]]
 {{mid}}
 *Japanese: [[止まる]], (とまる, tomaru)
@@ -184,20 +181,16 @@ From {{ME.}} [[stoppen]] "to stop".
 *Russian: [[останавливаться]] (ostanávlivat’sja)
 *Scottish Gaelic: [[stad]]
 *Slovak: [[zastaviť sa]]
-*Spanish: [[parar]], [[pararse]], [[imobilisarse]], [[dejar]] de ''(+ infinitive)''
 *Swedish: [[stanna]]
 {{bottom}}
 
-'''intransitive: To come to an end'''
-{{top}}
+{{top|intransitive: To come to an end}}
 *Afrikaans: [[stilhou]]
 *Arabic: {{ARchar|[[توقف]]}} {{Unicode|(tawáqqafa)}}
 *Catalan: [[parar]], [[deixar]]
 *Chinese: [[停]] (tíng)
-*Dutch: [[stoppen]], [[halthouden]], [[stilstaan]], [[ophouden]] <!-- not verified -->
-*[[Esperanto]]: [[halti]], [[haltigi]], [[cxesigi]] <!-- not verified -->
+*Dutch: [[stoppen#Dutch|stoppen]], [[ophouden]]
 *Finnish: [[pysähtyä]]
-*French: [[s'arrêter]], [[s'immobiliser]], [[cesser]] <!-- not verified -->
 *German: [[aufhören]]
 *Hungarian: [[abbahagyni]]
 {{mid}}
@@ -207,18 +200,17 @@ From {{ME.}} [[stoppen]] "to stop".
 *Romanian: [[termina]]
 *Russian: [[переставать]] (perestavát’)
 *Slovak: [[prestať]]
-*Spanish: [[parar]], [[pararse]], [[imobilisarse]], [[dejar]] de ''(+ infinitive)''
 *Swedish: [[sluta]], [[upphöra]]
 {{bottom}}
 
-'''transitive: To cause (something) to cease moving'''
-{{top}}
-*Afrikaans '''stop'''
+{{top|transitive: To cause (something) to cease moving}}
+*Afrikaans: [[#Afrikaans|stop]]
 *Arabic: {{ARchar|[[اوقف]]}} {{Unicode|(’áwqafa)}}
 *Bulgarian: [[спирам]] (spiram)
+*Dutch: [[aanhouden]], [[stoppen#Dutch|stoppen]]
 *Finnish: [[pysäyttää]], [[loppua]]
 *French: [[arrêter]]
-*German: [[anhalten]], [[stoppen]]
+*German: [[anhalten]], [[stoppen#German|stoppen]]
 *Hungarian: [[megállitani]]
 *Italian: [[fermare]]
 {{mid}}
@@ -230,19 +222,41 @@ From {{ME.}} [[stoppen]] "to stop".
 *Swedish: [[stanna]], [[stoppa]] (''generally more abruptly than [[stanna]]'')
 {{bottom}}
 
-'''transitive: To cause (something) to come to an end'''
-{{top}}
-*Afrikaans: '''stop'''
+{{top|transitive: To cause (something) to come to an end}}
+*Afrikaans: [[#Afrikaans|stop]]
 *Arabic: {{ARchar|[[اوقف]]}} {{Unicode|(’áwqafa)}}
 *Bulgarian: [[прекратявам]] (prekratjavam)
+*Dutch: [[stoppen#Dutch|stoppen]], [[beëindigen]], [[afbreken]]
 *Finnish: [[pysäyttää]], [[loppua]]
 *French: [[arrêter]]
-*German: [[stoppen]], [[beenden]]
+*German: [[stoppen#German|stoppen]], [[beenden]]
 {{mid}}
 *Italian: [[fermare]]
 *Slovak: [[prerušiť]]
 *Swedish: [[stoppa]], [[avbryta]]
 {{bottom}}
+
+{{top|transitive: To close an appeture}}
+*Dutch: {{t|nl|deppen}}
+{{mid}}
+{{bottom}}
+
+{{top|transitive: To stay a while}}
+*Dutch: {{t|nl|verblijven}}, {{t|nl|blijven}}, [[stoppen#Dutch|stoppen]]
+{{mid}}
+{{bottom}}
+
+{{top|intransitive: To tarry}}
+*Dutch: {{t|nl|langsgaan}}, [[stoppen#Dutch|stoppen]]
+{{mid}}
+{{bottom}}
+
+=====Translations to be checked=====
+{{checktrans}}
+*{{ttbc|Esperanto}}: [[halti]], [[haltigi]], [[cxesigi]] <!-- not verified -->
+*{{ttbc|French}}: [[s'arrêter]], [[s'immobiliser]], <!-- not verified -->
+*{{ttbc|French}}: [[s'arrêter]], [[cesser]] <!-- not verified -->
+*{{ttbc|Spanish}}: [[parar]], [[pararse]], [[imobilisarse]], [[dejar]] de ''(+ infinitive)''
 
 ===Anagrams===
 *[[opts]]
@@ -263,9 +277,9 @@ From {{ME.}} [[stoppen]] "to stop".
 ===Noun===
 {{nl-noun2|m|pen|je}}
 
-# An electric [[fuse]]
-# An action of stopping
-# A [[plug]] for a kitchen sink
+# An electric [[fuse]].
+# An action of stopping.
+# A [[plug]] for a kitchen sink.
 
 ===Verb===
 '''stop'''
