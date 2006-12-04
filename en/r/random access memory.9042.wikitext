@@ -7,3 +7,102 @@
 #The main memory of a computer available for program execution or data storage.
 
 [[fr:random access memory]]
+The opposite of RAM is serial access memory (SAM). SAM stores data as a series of memory cells that can only be accessed sequentially (like a cassette tape). If the data is not in the current location, each memory cell is checked until the needed data is found. SAM works very well for memory buffers, where the data is normally stored in the order in which it will be used (a good example is the texture buffer memory on a video card). RAM data, on the other hand, can be accessed in any order. 
+
+In this article, you'll learn all about what RAM is, what kind you should buy and how to install it. 
+
+
+
+Similar to a microprocessor, a memory chip is an integrated circuit (IC) made of millions of transistors and capacitors. In the most common form of computer memory, dynamic random access memory (DRAM), a transistor and a capacitor are paired to create a memory cell, which represents a single bit of data. The capacitor holds the bit of information -- a 0 or a 1 (see How Bits and Bytes Work for information on bits). The transistor acts as a switch that lets the control circuitry on the memory chip read the capacitor or change its state. 
+
+A capacitor is like a small bucket that is able to store electrons. To store a 1 in the memory cell, the bucket is filled with electrons. To store a 0, it is emptied. The problem with the capacitor's bucket is that it has a leak. In a matter of a few milliseconds a full bucket becomes empty. Therefore, for dynamic memory to work, either the CPU or the memory controller has to come along and recharge all of the capacitors holding a 1 before they discharge. To do this, the memory controller reads the memory and then writes it right back. This refresh operation happens automatically thousands of times per second.This refresh operation is where dynamic RAM gets its name. Dynamic RAM has to be dynamically refreshed all of the time or it forgets what it is holding. The downside of all of this refreshing is that it takes time and slows down the memory. 
+
+Memory cells are etched onto a silicon wafer in an array of columns (bitlines) and rows (wordlines). The intersection of a bitline and wordline constitutes the address of the memory cell. 
+DRAM works by sending a charge through the appropriate column (CAS) to activate the transistor at each bit in the column. When writing, the row lines contain the state the capacitor should take on. When reading, the sense-amplifier determines the level of charge in the capacitor. If it is more than 50 percent, it reads it as a 1; otherwise it reads it as a 0. The counter tracks the refresh sequence based on which rows have been accessed in what order. The length of time necessary to do all this is so short that it is expressed in nanoseconds (billionths of a second). A memory chip rating of 70ns means that it takes 70 nanoseconds to completely read and recharge each cell. 
+
+Memory cells alone would be worthless without some way to get information in and out of them. So the memory cells have a whole support infrastructure of other specialized circuits. These circuits perform functions such as: 
+
+Identifying each row and column (row address select and column address select) 
+Keeping track of the refresh sequence (counter) 
+Reading and restoring the signal from a cell (sense amplifier) 
+Telling a cell whether it should take a charge or not (write enable) 
+Other functions of the memory controller include a series of tasks that include identifying the type, speed and amount of memory and checking for errors. 
+Static RAM uses a completely different technology. In static RAM, a form of flip-flop holds each bit of memory (see How Boolean Logic Works for details on flip-flops). A flip-flop for a memory cell takes four or six transistors along with some wiring, but never has to be refreshed. This makes static RAM significantly faster than dynamic RAM. However, because it has more parts, a static memory cell takes up a lot more space on a chip than a dynamic memory cell. Therefore, you get less memory per chip, and that makes static RAM a lot more expensive. 
+
+So static RAM is fast and expensive, and dynamic RAM is less expensive and slower. So static RAM is used to create the CPU's speed-sensitive cache, while dynamic RAM forms the larger system RAM space. 
+
+Memory chips in desktop computers originally used a pin configuration called dual inline package (DIP). This pin configuration could be soldered into holes on the computer's motherboard or plugged into a socket that was soldered on the motherboard. This method worked fine when computers typically operated on a couple of megabytes or less of RAM, but as the need for memory grew, the number of chips needing space on the motherboard increased. 
+
+The solution was to place the memory chips, along with all of the support components, on a separate printed circuit board (PCB) that could then be plugged into a special connector (memory bank) on the motherboard. Most of these chips use a small outline J-lead (SOJ) pin configuration, but quite a few manufacturers use the thin small outline package (TSOP) configuration as well. The key difference between these newer pin types and the original DIP configuration is that SOJ and TSOP chips are surface-mounted to the PCB. In other words, the pins are soldered directly to the surface of the board, not inserted in holes or sockets. 
+
+Memory chips are normally only available as part of a card called a module. You've probably seen memory listed as 8x32 or 4x16. These numbers represent the number of the chips multiplied by the capacity of each individual chip, which is measured in megabits (Mb), or one million bits. Take the result and divide it by eight to get the number of megabytes on that module. For example, 4x32 means that the module has four 32-megabit chips. Multiply 4 by 32 and you get 128 megabits. Since we know that a byte has 8 bits, we need to divide our result of 128 by 8. Our result is 16 megabytes! 
+History & Evolution
+The type of board and connector used for RAM in desktop computers has evolved over the past few years. The first types were proprietary, meaning that different computer manufacturers developed memory boards that would only work with their specific systems. Then came SIMM, which stands for single in-line memory module. This memory board used a 30-pin connector and was about 3.5 x .75 inches in size (about 9 x 2 cm). In most computers, you had to install SIMMs in pairs of equal capacity and speed. This is because the width of the bus is more than a single SIMM. For example, you would install two 8-megabyte (MB) SIMMs to get 16 megabytes total RAM. Each SIMM could send 8 bits of data at one time, while the system bus could handle 16 bits at a time. Later SIMM boards, slightly larger at 4.25 x 1 inch (about 11 x 2.5 cm), used a 72-pin connector for increased bandwidth and allowed for up to 256 MB of RAM 
+As processors grew in speed and bandwidth capability, the industry adopted a new standard in dual in-line memory module (DIMM). With a whopping 168-pin or 184-pin connector and a size of 5.4 x 1 inch (about 14 x 2.5 cm), DIMMs range in capacity from 8 MB to 1 GB per module and can be installed singly instead of in pairs. Most PC memory modules and the modules for the Mac G5 systems operate at 2.5 volts, while older Mac G4 systems typically use 3.3 volts. Another standard, Rambus in-line memory module (RIMM), is comparable in size and pin configuration to DIMM but uses a special memory bus to greatly increase speed. 
+
+Many brands of notebook computers use proprietary memory modules, but several manufacturers use RAM based on the small outline dual in-line memory module (SODIMM) configuration. SODIMM cards are small, about 2 x 1 inch (5 x 2.5 cm), and have 144 or 200 pins. Capacity ranges from 16 MB to 1 GB per module. To conserve space, the Apple iMac desktop computer uses SODIMMs instead of the traditional DIMMs. Sub-notebook computers use even smaller DIMMs, known as MicroDIMMs, which have either 144 pins or 172 pins. 
+
+
+Most memory available today is highly reliable. Most systems simply have the memory controller check for errors at start-up and rely on that. Memory chips with built-in error-checking typically use a method known as parity to check for errors. Parity chips have an extra bit for every 8 bits of data. The way parity works is simple. Let's look at even parity first. 
+
+When the 8 bits in a byte receive data, the chip adds up the total number of 1s. If the total number of 1s is odd, the parity bit is set to 1. If the total is even, the parity bit is set to 0. When the data is read back out of the bits, the total is added up again and compared to the parity bit. If the total is odd and the parity bit is 1, then the data is assumed to be valid and is sent to the CPU. But if the total is odd and the parity bit is 0, the chip knows that there is an error somewhere in the 8 bits and dumps the data. Odd parity works the same way, but the parity bit is set to 1 when the total number of 1s in the byte are even. 
+
+The problem with parity is that it discovers errors but does nothing to correct them. If a byte of data does not match its parity bit, then the data are discarded and the system tries again. Computers in critical positions need a higher level of fault tolerance. High-end servers often have a form of error-checking known as error-correction code (ECC). Like parity, ECC uses additional bits to monitor the data in each byte. The difference is that ECC uses several bits for error checking -- how many depends on the width of the bus -- instead of one. ECC memory uses a special algorithm not only to detect single bit errors, but actually correct them as well. ECC memory will also detect instances when more than one bit of data in a byte fails. Such failures are very rare, and they are not correctable, even with ECC. 
+
+The majority of computers sold today use nonparity memory chips. These chips do not provide any type of built-in error checking, but instead rely on the memory controller for error detection. 
+
+The following are some common types of RAM: 
+
+
+SRAM: Static random access memory uses multiple transistors, typically four to six, for each memory cell but doesn't have a capacitor in each cell. It is used primarily for cache. 
+DRAM: Dynamic random access memory has memory cells with a paired transistor and capacitor requiring constant refreshing. 
+FPM DRAM: Fast page mode dynamic random access memory was the original form of DRAM. It waits through the entire process of locating a bit of data by column and row and then reading the bit before it starts on the next bit. Maximum transfer rate to L2 cache is approximately 176 MBps. 
+EDO DRAM: Extended data-out dynamic random access memory does not wait for all of the processing of the first bit before continuing to the next one. As soon as the address of the first bit is located, EDO DRAM begins looking for the next bit. It is about five percent faster than FPM. Maximum transfer rate to L2 cache is approximately 264 MBps. 
+SDRAM: Synchronous dynamic random access memory takes advantage of the burst mode concept to greatly improve performance. It does this by staying on the row containing the requested bit and moving rapidly through the columns, reading each bit as it goes. The idea is that most of the time the data needed by the CPU will be in sequence. SDRAM is about five percent faster than EDO RAM and is the most common form in desktops today. Maximum transfer rate to L2 cache is approximately 528 MBps. 
+DDR SDRAM: Double data rate synchronous dynamic RAM is just like SDRAM except that is has higher bandwidth, meaning greater speed. Maximum transfer rate to L2 cache is approximately 1,064 MBps (for DDR SDRAM 133 MHZ). 
+RDRAM: Rambus dynamic random access memory is a radical departure from the previous DRAM architecture. Designed by Rambus, RDRAM uses a Rambus in-line memory module (RIMM), which is similar in size and pin configuration to a standard DIMM. What makes RDRAM so different is its use of a special high-speed data bus called the Rambus channel. RDRAM memory chips work in parallel to achieve a data rate of 800 MHz, or 1,600 MBps. Since they operate at such high speeds, they generate much more heat than other types of chips. To help dissipate the excess heat Rambus chips are fitted with a heat spreader, which looks like a long thin wafer. Just like there are smaller versions of DIMMs, there are also SO-RIMMs, designed for notebook computers. 
+Credit Card Memory: Credit card memory is a proprietary self-contained DRAM memory module that plugs into a special slot for use in notebook computers. 
+PCMCIA Memory Card: Another self-contained DRAM module for notebooks, cards of this type are not proprietary and should work with any notebook computer whose system bus matches the memory card's configuration. 
+CMOS RAM: CMOS RAM is a term for the small amount of memory used by your computer and some other devices to remember things like hard disk settings -- see Why does my computer need a battery? for details. This memory uses a small battery to provide it with the power it needs to maintain the memory contents. 
+VRAM: VideoRAM, also known as multiport dynamic random access memory (MPDRAM), is a type of RAM used specifically for video adapters or 3-D accelerators. The "multiport" part comes from the fact that VRAM normally has two independent access ports instead of one, allowing the CPU and graphics processor to access the RAM simultaneously. VRAM is located on the graphics card and comes in a variety of formats, many of which are proprietary. The amount of VRAM is a determining factor in the resolution and color depth of the display. VRAM is also used to hold graphics-specific information such as 3-D geometry data and texture maps. True multiport VRAM tends to be expensive, so today, many graphics cards use SGRAM (synchronous graphics RAM) instead. Performance is nearly the same, but SGRAM is cheaper. 
+How Much Do You Need?
+It's been said that you can never have enough money, and the same holds true for RAM, especially if you do a lot of graphics-intensive work or gaming. Next to the CPU itself, RAM is the most important factor in computer performance. If you don't have enough, adding RAM can make more of a difference than getting a new CPU! 
+If your system responds slowly or accesses the hard drive constantly, then you need to add more RAM. If you are running Windows XP, Microsoft recommends 128MB as the minimum RAM requirement. At 64MB, you may experience frequent application problems. For optimal performance with standard desktop applications, 256MB is recommended. If you are running Windows 95/98, you need a bare minimum of 32 MB, and your computer will work much better with 64 MB. Windows NT/2000 needs at least 64 MB, and it will take everything you can throw at it, so you'll probably want 128 MB or more. 
+
+Linux works happily on a system with only 4 MB of RAM. If you plan to add X-Windows or do much serious work, however, you'll probably want 64 MB. Mac OS X systems should have a minimum of 128 MB, or for optimal performance, 512 MB. 
+
+The amount of RAM listed for each system above is estimated for normal usage -- accessing the Internet, word processing, standard home/office applications and light entertainment. If you do computer-aided design (CAD), 3-D modeling/animation or heavy data processing, or if you are a serious gamer, then you will most likely need more RAM. You may also need more RAM if your computer acts as a server of some sort (Web pages, database, application, FTP or network). 
+
+Another question is how much VRAM you want on your video card. Almost all cards that you can buy today have at least 16 MB of RAM. This is normally enough to operate in a typical office environment. You should probably invest in a 32-MB or better graphics card if you want to do any of the following: 
+
+Play realistic games 
+Capture and edit video 
+Create 3-D graphics 
+Work in a high-resolution, full-color environment 
+Design full-color illustrations 
+When shopping for video cards, remember that your monitor and computer must be capable of supporting the card you choose. 
+
+How to Install RAM
+Most of the time, installing RAM is a very simple and straightforward procedure. The key is to do your research. Here's what you need to know: 
+
+How much RAM you have 
+How much RAM you wish to add 
+Form factor 
+RAM type 
+Tools needed 
+Warranty 
+Where it goes 
+RAM is usually sold in multiples of 16 megabytes: 16, 32, 64, 128, 256, 512, 1024 (which is the same as 1GB). This means that if you currently have a system with 64 MB RAM and you want at least 100 MB RAM total, then you will probably need to add another 64 MB module. 
+Once you know how much RAM you want, check to see what form factor (card type) you need to buy. You can find this in the manual that came with your computer, or you can contact the manufacturer. An important thing to realize is that your options will depend on the design of your computer. Most computers sold today for normal home/office use have DIMM slots. High-end systems are moving to RIMM technology, which will eventually take over in standard desktop computers as well. Since DIMM and RIMM slots look a lot alike, be very careful to make sure you know which type your computer uses. Putting the wrong type of card in a slot can cause damage to your system and ruin the card. 
+
+You will also need to know what type of RAM is required. Some computers require very specific types of RAM to operate. For example, your computer may only work with 60ns-70ns parity EDO RAM. Most computers are not quite that restrictive, but they do have limitations. For optimal performance, the RAM you add to your computer must also match the existing RAM in speed, parity and type. The most common type available today is SDRAM. 
+
+Additionally, some computers support Dual Channel RAM configuration either as an option or as a requirement. Dual Channel means that RAM modules are installed in matched pairs, so if there is a 512MB RAM card installed, there is another 512 MB card installed next to it. When Dual Channel is an optional configuration, installing RAM in matched pairs speeds up the performance of certain applications. When it's a requirement, as in computers with the Mac G5 chip(s), the computer will not function properly without matched pairs of RAM chips. 
+
+For complete guidelines on setting up Dual Channel configuration on Intel Pentium 4-based systems, check out this guide. 
+
+Before you open your computer, check to make sure you won't be voiding the warranty. Some manufacturers seal the case and request that the customer have an authorized technician install RAM. If you're set to open the case, turn off and unplug the computer. Ground yourself by using an anti-static pad or wrist strap to discharge any static electricity. Depending on your computer, you may need a screwdriver or nut-driver to open the case. Many systems sold today come in tool-less cases that use thumbscrews or a simple latch. 
+ 
+The actual installation of the memory module does not normally require any tools. RAM is installed in a series of slots on the motherboard known as the memory bank. The memory module is notched at one end so you won't be able to insert it in the wrong direction. For SIMMs and some DIMMs, you install the module by placing it in the slot at approximately a 45-degree angle. Then push it forward until it is perpendicular to the motherboard and the small metal clips at each end snap into place. If the clips do not catch properly, check to make sure the notch is at the right end and the card is firmly seated. Many DIMMs do not have metal clips; they rely on friction to hold them in place. Again, just make sure the module is firmly seated in the slot. 
+
+Once the module is installed, close the case, plug the computer back in and power it up. When the computer starts the POST, it should automatically recognize the memory. That's all there is to it!
