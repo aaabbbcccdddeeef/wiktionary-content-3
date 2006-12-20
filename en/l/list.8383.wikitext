@@ -34,19 +34,38 @@ From Old (and modern) French ''[[liste]]'' ‘strip (of paper)’, probably cogn
 *[[whitelist]]
 
 =====Translations=====
+;A register or roll of paper consisting of an enumeration or compilation of a set of possible items (1)
 {{top}}
-*Dutch: [[lijst]] ''f''
-*German: [[Liste]] ''f''
-*French: [[liste]]
-*[[Limburgish]]: [[lies]]
-*Japanese: [[リスト]] (risuto)
+*Finnish: [[lista]]
 {{mid}}
-*Norwegian: [[liste]] ''mf''
-*Slovak: [[zoznam]] ''m''
-*Slovene: [[seznam]] ''m''
-*Spanish: [[lista]] ''f''
-*Swahili: [[orodha]] ''(noun 9/10)''
-*Swedish: [[lista]] ''c''
+{{bottom}}
+
+;A codified representation of a list (2)
+{{top}}
+*Finnish: [[lista]]
+{{mid}}
+{{bottom}}
+
+;(LISP) a data structure made up of cons pairs the cdr of which contains either another list or nil (3)
+{{top}}
+{{mid}}
+{{bottom}}
+
+=====Translations to be categorized=====
+{{checktrans}}
+{{top}}
+*{{ttbc|Dutch}}: [[lijst]] ''f''
+*{{ttbc|French}}: [[liste]]
+*{{ttbc|German}}: [[Liste]] ''f''
+*{{ttbc|Limburgish}}: [[lies]]
+*{{ttbc|Japanese}}: [[リスト]] (risuto)
+*{{ttbc|Norwegian}}: [[liste]] ''mf''
+{{mid}}
+*{{ttbc|Slovak}}: [[zoznam]] ''m''
+*{{ttbc|Slovene}}: [[seznam]] ''m''
+*{{ttbc|Spanish}}: [[lista]] ''f''
+*{{ttbc|Swahili}}: [[orodha]] ''(noun 9/10)''
+*{{ttbc|Swedish}}: [[lista]] ''c''
 {{bottom}}
 
 ====Verb====
