@@ -2,7 +2,7 @@
 
 {{rank|going|knew|seen|207|better|name|among|done}}
 
-=== Pronunciation ===
+===Pronunciation===
 *(''[[Received Pronunciation|UK]]'') {{IPA|/ˈbɛtə/}}, {{SAMPA|/"bEt@/}}
 *(''[[General American|US]]'') {{IPA|/ˈbɛtɚ/}}, {{SAMPA|/"bEt@`/}}
 *{{audio|en-us-better.ogg|Audio (US)}}
@@ -10,17 +10,18 @@
 *Hyphenation: bet·ter
 
 ===Etymology 1===
-Old English ''[[betera]]''
-==== Adjective ====
+{{OE.}} ''[[betera]]''
+
+====Adjective====
 '''better'''
 
-# Comparative form of [[good]] or [[well]].
+# {{comparative of|[[good]] or [[well]]|lang=English|POS=adjective}}
 
 =====Related terms=====
 *[[best]]
 
-===== Translations =====
-{{top}}
+=====Translations=====
+{{trans-top|comparative of the adjectives ''good'' or ''well''}}
 *Arabic: {{ARchar|[[افضل|أفضل]]}} {{Unicode|(’áfɖal)}}, {{ARchar|[[احسن|أحسن]]}} {{Unicode|(’áħsan)}}
 *Breton: [[gwell]], [[gwelloc'h]]
 *Chinese: [[比较好的]] (bǐjiào hǎode)
@@ -35,7 +36,7 @@ Old English ''[[betera]]''
 *[[Interlingua]]: [[melior]]
 *Irish: [[fearr]]
 *Italian: [[meglio]] di
-{{mid}}
+{{trans-mid}}
 *Japanese: [[もっと]][[いい]] (motto ii), [[より良い]] (yoriyoi)
 *Korean: [[더 좋은]] (deo joheun)
 *Latin: [[melior]]
@@ -49,37 +50,44 @@ Old English ''[[betera]]''
 *Swedish: [[bättre]]
 *Turkish: [[daha]] [[iyi]]
 *Vietnamese: [[tốt hơn]], [[khá hơn]]; [[khoẻ hơn]] ''(comparative form of ''well'', as in "healthier")''
-{{bottom}}
+{{trans-bottom}}
 
 ====Adverb====
 '''better'''
-# Comparative form of [[well]].
+# {{comparative of|[[well]]|lang=English|POS=adverb}}
 
 =====Related terms=====
 *[[best]]
 
 =====Translations=====
+{{trans-top|comparative form of the adverb ''well''}}
 *Hindi: (behtar)
 *[[Interlingua]]: [[melio]]
+{{trans-mid}}
 *Swedish: [[bättre]]
+{{trans-bottom}}
 
 ====Verb====
-{{conj|better|betters|bettered|bettered|bettering}}
-#To improve
+{{en-verb|betters|bettering|bettered|bettered}}
+
+#To [[improve]].
 
 ===Etymology 2===
 ====Noun====
-#variant spelling of [[bettor]]
+{{en-noun}}
 
-== Frisian ==
-=== Adjective ===
+#{{alternative spelling of|[[bettor]]}}
+
+[[Category:Betting]]
+
+----
+
+==Frisian==
+===Adjective===
 '''Better'''
 
 # [[better]]
 
-----
-
-[[Category:Betting]]
 [[Category:Frisian adjectives]]
 
 [[ang:better]]
