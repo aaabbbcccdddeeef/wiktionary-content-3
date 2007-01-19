@@ -1,24 +1,51 @@
 ==English==
-=== Verb ===
-'''to derive'''
 
-#{{transitive}} To [[obtain]] or [[receive]] something from another
-#{{transitive}},{{logic}} To [[deduce]] a [[conclusion]] by [[reasoning]]
-#{{transitive}},{{linguistics}} To find the [[derivation]] of a [[word]]
-#{{transitive}},{{chemistry}} To [[create]] a [[compound]] from another by means of a [[reaction]]
-#{{intransitive}} To [[originate]] or [[stem]]
+{{rfc|please provide some example sentences to make life easier for translators}}
+
+=== Verb ===
+{{en-verb|deriv|ing}}
+
+# {{context|transitive}} To [[obtain]] or [[receive]] something from another.
+# {{context|transitive|logic}} To [[deduce]] a [[conclusion]] by [[reasoning]].
+# {{context|transitive|linguistics}} To find the [[derivation]] of a [[word]].
+# {{context|transitive|chemistry}} To [[create]] a [[compound]] from another by means of a [[reaction]].
+# {{context|intransitive}} To [[originate]] or [[stem]].
 
 ====Translations====
-'''originate''':
-{{top}}
-*French: [[dériver]]
-{{mid}}
-{{bottom}}
+{{trans-top|obtain something from another}}
+*Dutch: {{t|nl|afleiden}}
+{{trans-mid}}
+{{trans-bottom}}
 
-===Translations to be checked===
-*{{ttbc|Dutch}}: [[afleiden]] (van), [[ontlenen]] (aan), [[afstammen]] (van)
+{{trans-top|deduce a conclusion by reasoning}}
+*Dutch: {{t|nl|afleiden}}, {{t|nl|deduceren}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|find the derivation of a word}}
+*Dutch: {{t|nl|afleiden}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|create a compound from another by means of a reaction}}
+*Dutch: {{t|nl|afleiden}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|originate}}
+*Dutch: {{t|nl|ontstaan}}
+*French: [[dériver]]
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans}}
+{{trans-top|Translations to be checked}}
 *{{ttbc|Frisian}}: [[ôfliede]], [[ôfskaaie]], [[ôfstamje]]
 *{{ttbc|German}}: [[ableiten]]
+{{trans-bottom}}
+
+=== ''Derived'' terms ===
+* [[derivation]]
 
 [[fr:derive]]
 [[io:derive]]
