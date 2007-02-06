@@ -9,7 +9,7 @@
 '''else'''
 
 #A word that implies any result with the exception of the one being referred to.
-#A statement in computing that indicates the result of a [[conditional]] statement  ([[if]]) evaluating as [[false]].
+#{{computing}} A statement that indicates the result of a [[conditional]] statement ([[if]]) evaluating as [[false]].
 
 ====Synonyms====
 [[Otherwise]]
@@ -18,16 +18,30 @@
 [[If]], [[then]], [[and]], [[or]], [[not]]
 
 ====Translations====
+{{trans-top|A word that implies any result with the exception of the one being referred to}}
+*Finnish: [[muu]], [[toinen]]
+{{trans-mid}}
+*Swedish: [[annat]] (''things'')
+{{trans-bottom}}
+
+{{trans-top|A statement in computing that indicates the result of a conditional statement (if) evaluating as false}}
+*Finnish: [[muuten]]
+{{trans-mid}}
+*Swedish: [[annars]]
+{{trans-bottom}}
+
+=====Translations to be categorized=====
+{{checktrans}}
 {{top}}
-*[[Danish]]: [[ellers]]
-*[[Dutch]]: [[zoniet]], [[anders]], [[in het andere geval]]
-*[[French]]: [[sinon]], [[autrement]]
-*[[German]]: [[sonst]]
+*{{ttbc|Danish}}: [[ellers]]
+*{{ttbc|Dutch}}: [[zoniet]], [[anders]], [[in het andere geval]]
+*{{ttbc|French}}: [[sinon]], [[autrement]]
+*{{ttbc|German}}: [[sonst]]
 {{mid}}
-*[[Italian]]: [[altrimenti]], [[oppure]], [[sennò]]
-*Serbian: [[u suprotnom]]
-*[[Spanish]]: [[sino]]
-*[[Swedish]]: [[annan]] (''persons''), [[annat]] (''things'') (1), [[annars]] (2)
+*{{ttbc|Italian}}: [[altrimenti]], [[oppure]], [[sennò]]
+*{{ttbc|Serbian}}: [[u suprotnom]]
+*{{ttbc|Spanish}}: [[sino]]
+*{{ttbc|Swedish}}: [[annan]] (''persons'')
 {{bottom}}
 
 [[fr:else]]
