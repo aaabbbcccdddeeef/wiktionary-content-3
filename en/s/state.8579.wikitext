@@ -27,32 +27,96 @@
 #:''A debugger can show the '''state''' of a program at any breakpoint.''
 
 ====Translations====
-{{rfc-trans}}
+{{trans-top|Any sovereign nation}}
+*[[Catalan]]: [[estat]] [[:ca:estat|^]] {{m}}
+*Czech: [[stát]] {{m}}
+*Danish: [[stat]]
+*Dutch: [[staat]] {{f}}
+*[[Esperanto]]: [[lando]], [[ŝtato]]
+*Finnish: [[valtio]], [[maa]]
+*French: [[état]] {{m}}
+*German: [[Staat]] [[:de:Staat|^]] {{m}}
+{{trans-mid}}
+*[[Ido]]: [[stato]]
+*Italian: [[stato]] {{m}}
+*Japanese: [[国]] (くに, kuni)
+*Lithuanian: [[valstybė]] {{f}}
+*Russian: [[государство]] (gosudárstvo) {{n}}
+*Spanish: [[estado]] {{m}}
+*Serbian: [[drzava]]
+*Swedish: [[stat]] {{c}}, [[rike]] {{n}}
+{{trans-bottom}}
+
+{{trans-top|A political division of a federation retaining a degree of autonomy}}
+*[[Catalan]]: [[estat]] [[:ca:estat|^]] {{m}}
+*Czech: [[stát]] {{m}}
+*Danish: [[stat]]
+*Dutch: [[staat]] {{f}}
+*[[Esperanto]]: [[ŝtato]]
+*Finnish: [[osavaltio]]
+*French: [[état]] {{m}}
+*German: [[Staat]] [[:de:Staat|^]] {{m}}, [[Land]] {{n}}
+{{trans-mid}}
+*[[Ido]]: [[stato]]
+*Italian: [[stato]] {{m}}
+*Japanese: [[州]] (しゅう, shū)
+*Lithuanian: [[valstija]] {{f}}
+*Russian: [[штат]] (štat) {{n}}
+*Spanish: [[estado]] {{m}}
+*Swedish: [[stat]] {{c}}
+{{trans-bottom}}
+
+{{trans-top|A condition}}
+*[[Catalan]]: [[estat]] [[:ca:estat|^]] {{m}}
+*Czech: [[stav]] {{m}}
+*Danish: [[tilstand]]
+*Dutch: [[staat]] {{f}}
+*[[Esperanto]]: [[stato]]
+*Finnish: [[tila]]
+*French: [[état]] {{m}}
+*German: Zustand {{m}}
+{{trans-mid}}
+*[[Ido]]: [[stando]]
+*Italian: [[stato]] {{m}}
+*Japanese: [[状態]] (じょうたい, jōtai)
+*Lithuanian: [[būsena]] {{f}}, [[būklė]] {{f}}
+*Spanish: [[estado]] {{m}}
+*Serbian: [[stanje]]
+*Swedish: [[tillstånd]] {{n}}
+{{trans-bottom}}
+
+{{trans-top|(computing) The stable condition of a processor during a particular clock cycle}}
+*Czech: [[stav]] {{m}}
+*Finnish: [[tila]]
+{{trans-mid}}
+*German: Zustand {{m}}
+{{trans-bottom}}
+
+{{trans-top|(computing) The set of all parameters relevant to a computation}}
+*Czech: [[stav]] {{m}}
+{{trans-mid}}
+*Finnish: [[tila]]
+{{trans-bottom}}
+
+{{trans-top|(computing) The values of all parameters at some point in a computation}}
+*Czech: [[stav]] {{m}}
+{{trans-mid}}
+*Finnish: [[tila]]
+{{trans-bottom}}
+
+=====Translations to be categorized=====
+{{checktrans}}
 {{top}}
-*Arabic: {{ARchar|[[ولاية]]}} {{Unicode|(weláya)}} {{f}}
-*[[Catalan]]: [[estat]] [[:ca:estat|^]] {{m}} (1,2,3)
-*Chinese: [[州]] (zhōu)
-*Czech: [[stát]] {{m}} (1,2), [[stav]] {{m}} (3,4,5,6)
-*Danish: [[stat]] (1,2), [[tilstand]] (3)
-*Dutch: [[staat]] {{f}} (1,2,3)
-*[[Esperanto]]: [[lando]] (1), [[ŝtato]] (1,2), [[stato]] (3) 
-*Finnish: [[valtio]] (1), [[maa]] (1), [[osavaltio]] (2), [[tila]] (3)
-*French: [[état]] {{m}} (1,2,3)
-*German: [[Staat]] [[:de:Staat|^]] {{m}} (1,2), [[Land]] {{n}} (2), Zustand {{m}} (3,4)
-*Hungarian: [[állam]]
-*[[Ido]]: [[stato]] (1,2), [[stando]] (3)
+*{{ttbc|Arabic}}: {{ARchar|[[ولاية]]}} {{Unicode|(weláya)}} {{f}}
+*{{ttbc|Chinese}}: [[州]] (zhōu)
+*{{ttbc|Hungarian}}: [[állam]]
+*{{ttbc|Interlingua}}: [[stato]]
+*{{ttbc|Japanese}}: [[国家]] (こっか, kokka)
 {{mid}}
-*[[Interlingua]]: [[stato]]
-*Italian: [[stato]] {{m}} (1,2,3)
-*Japanese: [[国家]] (こっか, kokka), [[国]] (くに, kuni) (1), [[州]] (しゅう, shū) (2), [[状態]] (じょうたい, jōtai) (3)
-*Korean: [[국가]] (gukga)
-*Lithuanian: [[valstybė]] {{f}} (1); [[valstija]] {{f}} (2); [[būsena]] {{f}} (3), [[būklė]] {{f}} (3)
-*Portuguese: [[estado]] {{m}}
-*Russian: [[государство]] (gosudárstvo) {{n}} (1), [[штат]] (štat) {{n}} (2)
-*Spanish: [[estado]] {{m}} (1,2,3)
-*Serbian: [[drzava]] (1); [[stanje]] (3)
-*Swedish: [[stat]] {{c}} (1,2); [[nation]] {{c}}, [[land]] {{n}}, [[rike]] {{n}} (1); [[tillstånd]] {{n}} (3)
-*Turkish: [[devlet]]
+*{{ttbc|Korean}}: [[국가]] (gukga)
+*{{ttbc|Portuguese}}: [[estado]] {{m}}
+*{{ttbc|Swedish}}: [[nation]] {{c}}, [[land]] {{n}}
+*{{ttbc|Turkish}}: [[devlet]]
 {{bottom}}
 
 ====See also====
@@ -71,32 +135,33 @@
 ====Translations====
 {{trans-top|1. To declare to be a fact}}
 *Dutch: [[verklaren]]
+*Finnish: [[sanoa]], [[todeta]], [[ilmoittaa]]
 *French: [[déclarer]]
 *German: [[erklären]]
 {{trans-mid}}
 {{trans-bottom}}
 {{trans-top|2. To make known}}
+*Finnish: [[ilmoittaa]]
 {{trans-mid}}
 *Dutch: [[bekendmaken]]
 {{trans-bottom}}
-{{rfc-trans}}
-{{top}}
-*Arabic: {{ARchar|[[قرر]]}} {{Unicode|(qárara)}}
-*Chinese: [[陳述]], [[陈述]] (chénshù)
-*Finnish: [[sanoa]] (1), [[todeta]] (1), [[ilmoittaa]] (1,2)
-*Hungarian: [[kijelenteni]], [[megállapítani]], [[közölni]]
-*Italian: [[dichiarare]]
-*Japanese: [[述べる]] (のべる, noberu)
-{{mid}}
-*Korean: [[말하다]] (malhada)
-*Portuguese: [[declarar]]
-*Russian: [[заявлять]] (zajavlját’)
-*Spanish: [[declarar]]
-*Swedish: [[förklara]]
-{{bottom}}
 
-===Translations to be checked===
+=====Translations to be categorized=====
+{{checktrans}}
+{{top}}
+*{{ttbc|Arabic}}: {{ARchar|[[قرر]]}} {{Unicode|(qárara)}}
+*{{ttbc|Chinese}}: [[陳述]], [[陈述]] (chénshù)
 *{{ttbc|CJKV Characters}}: [[髳]]
+*{{ttbc|Hungarian}}: [[kijelenteni]], [[megállapítani]], [[közölni]]
+*{{ttbc|Italian}}: [[dichiarare]]
+*{{ttbc|Japanese}}: [[述べる]] (のべる, noberu)
+{{mid}}
+*{{ttbc|Korean}}: [[말하다]] (malhada)
+*{{ttbc|Portuguese}}: [[declarar]]
+*{{ttbc|Russian}}: [[заявлять]] (zajavlját’)
+*{{ttbc|Spanish}}: [[declarar]]
+*{{ttbc|Swedish}}: [[förklara]]
+{{bottom}}
 
 ----
 
