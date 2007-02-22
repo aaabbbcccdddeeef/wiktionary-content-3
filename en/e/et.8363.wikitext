@@ -37,16 +37,42 @@ From the same Uralic root *''e'' as Finnish [[että]] and Hungarian [[ez]]
 *Hyphenation: et
 {{IPA|et}}
 
-===Negation verb form===
-'''et'''
-#Auxiliary verb for negation in the ''second person singular''. Normally translated "[[you]] [[don't]]" (''addressing one person'') (''archaic'': "[[thou]] dost not") in English.
-#:*([[sinä|Sinä]]) '''et''' [[tuntea|tunne]] [[minä|minua]].
-#:**You ''don't'' know me.
-#:*'''Et'''[[-kö|kö]] (sinä) tunne minua?
-#:**''Don't'' you know me?
+===Auxiliary verb form===
+'''en'''
+#The second person singular form of the [[negative]] [[verb]]. The English translations include ''[[do]] [[not]]''/''[[don't|don’t]]'' and ''[[not]]'' (with auxiliary verbs and ''[[be]]'').
 
-===Conjugation===
-*See [[ei#Finnish|ei]].
+====Conjugation====
+*The negative verb has ''no infinitive form''. The negative verb is conjugated only in person, not in tense or mood. (For negative verb in the imperative mood, see ''[[älä]]''.)
+
+{| border="1" cellspacing="0" cellpadding="1" style="border-collapse: collapse;"
+|-
+| || '''singular''' || '''plural'''
+|-
+| first person || [[en#Finnish|en]] || [[emme#Finnish|emme]]
+|-
+| second person || '''et''' || [[ette#Finnish|ette]]
+|-
+| third person || [[ei#Finnish|ei]] || [[eivät#Finnish|eivät]]
+|}
+
+====Usage notes====
+*The negative verb is used with the connegative form of the main verb. That form is identical to the second-person singular imperative in the indicative present. The potential mood connegative ends in the marker for the mood, ''-ne-'', and the conditional mood connegative ends in the marker for the mood, ''-isi-''. In the indicative past, conditional past and potential past, the ''active'' past participle singular (ending -''nut''/-''nyt'') is used. ''The connegative form of the main verb is always used without the personal suffix''.
+
+:*Usage of ''et'':
+::*Indicative:
+
+:::*[[sinä|Sinä]] [[nähdä|näet]]. (You see.) -> Sinä '''et''' näe. (You ''do not'' see.)
+:::*Sinä näit. (You saw.) -> Sinä '''et''' nähnyt. (You ''did not'' see.)
+:::*Sinä [[olla|olet]] nähnyt. (You have seen.) -> Sinä '''et''' ole nähnyt. (You have ''not'' seen.)
+:::*Sinä olit nähnyt. (You had seen.) -> Sinä '''et''' ollut nähnyt. (You had ''not'' seen.)
+
+::*Conditional:
+:::*Sinä näkisit. (You would see.) -> Sinä '''et''' näkisi. (You would ''not'' see.)
+:::*Sinä olisit nähnyt. (You would have seen.) -> Sinä '''et''' olisi nähnyt. (You would ''not'' have seen.)
+
+::*Potential:
+:::*Sinä nähnet. (You probably see.) -> Sinä '''et''' nähne. (You probably ''do not'' see.)
+:::*Sinä lienet nähnyt. (You have probably seen.) -> Sinä '''et''' liene nähnyt. (You have probably ''not'' seen.)
 
 [[Category:Finnish verbs]]
 
