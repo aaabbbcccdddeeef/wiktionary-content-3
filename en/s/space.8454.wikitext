@@ -13,17 +13,35 @@ From {{OF.}} ''[[espace]]''.
 ===Noun===
 {{en-noun|s|-}}
 
-# The intervening contents of a [[volume]].
-# The area beyond a planet's [[atmosphere]] that consists of a [[vacuum]].
-# White area between written characters; [[blank]].
-# A [[set]] of [[point]]s, each of which is [[unique]]ly specified by a set of [[coordinate]]s.  The number of coordinates specifying a point and the number of mutually [[perpendicular]] [[axis|axes]] along which the coordinates lie are the same, and that is the number of [[dimension]]s of the space.
+#The intervening contents of a [[volume]].
+#{{uncountable}} Space occupied by or intended for a person or thing.
+#:''There's not enough space for this couch in this room.''
+#{{countable}} An area or volume of sufficient size to accommodate a person or thing.
+#:''They reserved a space for him to park his car.''
+#:''Write your name in the space below.''
+#The area beyond the [[atmosphere]] of [[planet]]s that consists of a [[vacuum]].
+#An gap between written characters; [[blank]].
+#{{typography}} A piece of type used to separate words.
+#{{geometry}} A [[set]] of [[point]]s, each of which is [[unique]]ly specified by a set of [[coordinate]]s; the number of coordinates specifying a point and the number of mutually [[perpendicular]] [[axis|axes]] along which the coordinates lie are the same, and that is the number of [[dimension]]s of the space.
 #:''We live in a space that has at least four dimensions: up-down, left-right, forward-backward, and future-past.''
 # One's [[personal]] [[freedom]] to [[think]] or be [[oneself]].
 #:''I just need some '''space''', man.''
 # The state of mind one is in when [[daydream]]ing.
-#{{mathematics}} a [[generalized]] [[construct]] or [[set]], the members of which have certain properties in common; often named after a particular [[mathematician]]
-# {{context|Indian Philosophy}} One of the five basic elements
+#{{mathematics}} a [[generalized]] [[construct]] or [[set]], the members of which have certain properties in common; often used in combination with the name of a particular [[mathematician]]
+#{{context|Indian philosophy}} One of the five basic elements.
 
+====Synonyms====
+*(''intervening contents of a volume''):
+*(''space occupied by or intended for a person or thing''): [[room]]
+*(''area or volume of sufficient size to accommodate a person or thing''): [[place]], [[spot]]
+*(''area beyond the atmosphere of planets that consists of a vacuum''): [[outer space]]
+*(''gap between written characters''): [[blank]], [[gap]], [[whitespace]] (''computing'')
+*(''piece of type used to separate words''): 
+*(''set of points each uniquely specified by a set of coordinates''): 
+*(''person freedom to think or be oneself''): 
+*(''state of mind one is in when daydreaming''): 
+*(''generalized construct or set in mathematics''): 
+*(''one of the five basic elements in Indian philosophy''): 
 
 ====Derived terms====
 {{top3}}
@@ -232,8 +250,8 @@ From {{OF.}} ''[[espace]]''.
 *[[workspace]]
 {{bottom}}
 
-===Translations===
-{{trans-top|The intervening contents of a volume}}
+====Translations====
+{{trans-top|intervening contents of a volume}}
 *Arabic: {{ARchar|[[فراغ]]}} {{Unicode|(fará:ğ)}}
 *Bosnian: [[prostor#Bosnian|prostor]] {{m}}
 *Breton: [[egor]] {{m}}
@@ -262,7 +280,19 @@ From {{OF.}} ''[[espace]]''.
 *Vietnamese: [[khoảng]], [[chỗ]]
 {{trans-bottom}}
 
-{{trans-top|The area beyond a planet's atmosphere}}
+{{trans-top|uncountable: space occupied by or intended for a person or thing}}
+*French: [[espace]] {{m}}
+{{trans-mid}}
+*Italian: [[spazio]] {{m}}
+{{trans-bottom}}
+
+{{trans-top|countable: an area or volume of sufficient size to accommodate a person or thing}}
+*French: [[place#French|place]] {{f}}
+{{trans-mid}}
+*Italian: [[posto]] {{m}}
+{{trans-bottom}}
+
+{{trans-top|area beyond atmosphere of planets}}
 *Bosnian: [[svemir]] {{m}}, [[kosmos]] {{m}}, [[vasiona]] {{f}}
 *Breton: [[egor]] {{m}}
 *Estonian: [[maailmaruum]]
@@ -271,6 +301,7 @@ From {{OF.}} ''[[espace]]''.
 *German: [[Weltraum]] {{m}}, [[All]] {{n}}, [[Weltall]] {{n}}
 *Greek: [[διάστημα]] (ðiástima) {{n}}
 *Hebrew: [[חלל]] {{romanization of Hebrew|khalál}} {{m}}
+*Italian: [[spazio]] {{m}}
 {{trans-mid}}
 *Lithuanian: [[kosmosas]] {{m}}
 *Polish: [[przestrzeń]] {{f}}
@@ -286,11 +317,11 @@ From {{OF.}} ''[[espace]]''.
 *Vietnamese: [[không gian]], [[không trung]], [[khoảng không]], [[vũ trụ]]
 {{trans-bottom}}
 
-{{trans-top|White area between written characters}}
+{{trans-top|gap between written characters}}
 *Dutch: [[spatie]] {{m}}
 *Estonian: [[tühik]]
 *Finnish: [[väli]]
-*French: [[espace]] {{f}}
+*French: [[espace]] {{m}}, [[blanc]] {{m}}
 *German: [[Leerzeichen]] {{n}}, [[Leerstelle]] {{f}}
 *Greek: [[κενό]] (cenó) {{n}}, [[διάστημα]] (ðiástima) {{n}}, [[απόσταση]] (apóstasi) {{f}}
 *Hebrew: [[רווח]] {{romanization of Hebrew|révakh}} {{m}}, [[מרווח]] {{romanization of Hebrew|mirvákh}} {{m}}
@@ -304,7 +335,12 @@ From {{OF.}} ''[[espace]]''.
 *Vietnamese: [[khoảng cách]] [[chữ]], [[phiến]] [[cách]] [[chữ]]
 {{trans-bottom}}
 
-{{trans-top|A set of points}}
+{{trans-top|typography: a piece of type used to separate words}}
+*French: [[espace]] {{f}}<!--sic: the gender is feminine-->
+{{trans-mid}}
+{{trans-top}}
+
+{{trans-top|set of points}}
 *Greek: [[χώρος]] (khóros) {{m}}
 *Hebrew: [[מרחב]] {{romanization of Hebrew|merkháv}} {{m}}
 {{trans-mid}}
@@ -314,7 +350,7 @@ From {{OF.}} ''[[espace]]''.
 *Vietnamese: [[không gian]]
 {{trans-bottom}}
 
-{{trans-top|Personal freedom}}
+{{trans-top|personal freedom}}
 *German: [[Freiraum]] {{m}}
 *Greek: [[χώρος]] (khóros) {{m}}
 {{trans-mid}}
@@ -324,7 +360,7 @@ From {{OF.}} ''[[espace]]''.
 
 {{trans-top|mathematical construct}}
 {{trans-mid}}
-*Swedish: [[rum]] {{n}}
+*Swedish: [[rum#Swedish|rum]] {{n}}
 *Vietnamese: [[không gian]]
 {{trans-bottom}}
 
