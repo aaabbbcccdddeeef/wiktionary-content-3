@@ -28,10 +28,25 @@
 *[[magical]] (1, 3)
 
 ====Translations====
-{{trans-top|magic}}
+{{trans-top|having supernatural talents, properties, or qualities}}
+*Finnish: [[maaginen]], [[taika-]]
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|featuring illusions that are usually performed for entertainment}}
+*Finnish: [[taika-]]
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|wonderful, amazing or incredible}}
+*Finnish: [[maaginen]], [[taianomainen]], [[lumoava]]
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|Translations to categorise}}
+{{rfc-trans}}
 *Dutch: [[magie]] ([[magisch]]), [[betoverend]], [[feeëriek]]
 *Esperanto: [[magia]]
-*Finnish: [[maaginen]] (1,3), [[taika-]] (1, 2), [[taianomainen]] (3), [[lumoava]] (3)
 *French: [[magique]]
 *German: [[magisch]]
 *Hebrew: [[קסום]] (kassum) {{m}}, [[קסומה]] (qsuma) {{f}}
@@ -50,37 +65,72 @@
 
 # [[supernatural|Supernatural]] [[occur]]rences or [[feat]]s.
 # An [[illusion]] performed to give the appearance of magic or the supernatural.
-# A [[ritual]] associated with [[mysticism]]].
+# A [[ritual]] associated with [[mysticism]].
 # A cause not quite understood
 #: '''''Magic''' makes the light go on''
 # Something [[spectacular]] or [[wonderful]].
 #: ''movie '''magic'''''
 # The decrypted messages produced by US cryptographers in WWII &mdash; it is usually taken to mean '... from Japanese intercepts'. The equivalent in the UK was Ultra, referring to decrypted German traffic.
-# {{computing}}  A statement or operator used in [[algorithm]] design that satisfies any conceivable formal requirement.  This is used in some methods of [[formal specification]] to allow leaving things unspecified (with the intent of later specification, as ''magic'' in this sense cannot be implemented). Also known as [[miracle]].
+# {{computing}} A statement or operator used in [[algorithm]] design that satisfies any conceivable formal requirement. This is used in some methods of [[formal specification]] to allow leaving things unspecified (with the intent of later specification, as ''magic'' in this sense cannot be implemented). Also known as [[miracle]].
 
 ====Synonyms====
-*[[thaumaturgy]] (1)
-*[[w:Sleight of hand]] (2)
-*[[legerdemain]] (2)
-*[[sorcery]]
-*[[witchcraft]]
-*[[conjuring]]
+*(1): [[thaumaturgy]], [[conjuring]], [[sorcery]], [[witchcraft]]
+*(2): [[w:Sleight of hand]], [[legerdemain]]
 
 ====Translations====
-{{trans-top|magic}}
+{{trans-top|supernatural occurrences or feats}}
+*Finnish: [[taika]], [[magia]]
+*German: [[Magie]] {{f}}, [[Zauber]] {{m}}, [[Zauberei]] {{f}}
+{{trans-mid}}
+*Japanese: [[魔法]] ([[まほう]], mahou)
+{{trans-bottom}}
+
+{{trans-top|illusion performed to give the appearance of magic or the supernatural}}
+*Dutch: [[goochelkunst]] {{f}}
+*Finnish: [[taika]], [[taikuus]]
+*German: [[Magie]] {{f}}
+{{trans-mid}}
+*Japanese: [[手品]] ([[てじな]], tejina)
+{{trans-bottom}}
+
+{{trans-top|ritual associated with mysticism}}
+*Finnish: [[taika]], [[magia]], [[taikuus]]
+*German: [[Magie]] {{f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|a cause not quite understood}}
+*Finnish: [[taika]], [[magia]], [[taikuus]]
+*German: [[Zauberei]] {{f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|something spectacular or wonderful}}
+*Finnish: [[taika]]
+*German: [[Magie]] {{f}}, [[Zauber]] {{m}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|decrypted WWII messages}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|in computer programming}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|Translations to be categorised}}
+{{rfc-trans}}
 *Chinese: [[魔术]] (mó shù)
-*Dutch: [[toverkunst]] {{f}}, [[magie]] {{f}}, [[goochelkunst]] {{f}} (2)
+*Dutch: [[toverkunst]] {{f}}, [[magie]] {{f}}
 *Esperanto: [[magio]]
-*Finnish: [[taika]] (1, 2, 3, 4, 5) [[magia]] (1, 3, 4) [[taikuus]] (2, 3, 4)
 *French: [[magie]] {{f}}
 *[[Frisian]]: [[magy]], [[tsjoenderij]]
-*German: [[Magie]] {{f}} (1,2,3,5), [[Zauber]] {{m}} (1,5), [[Zauberei]] {{f}} (1,4)
 *Greek: [[μαγικός]] (magikós)
 *Hebrew: [[קסם]] (qesem) {{m}}
 *Hungarian: [[varázs]]
 *Italian: [[magia]] {{f}}
 {{trans-mid}}
-*Japanese: [[魔法]] ([[まほう]], mahou, 1), [[手品]] ([[てじな]], tejina, 2)
 *Romanian: [[magie]] {{f}}, [[vrajă]] {{f}}, [[farmec]] {{mf}}
 *Scots Gaelic: [[draoidheachd]] {{f}}, [[geasan]] {{m}}, [[drùidheachd]] {{f}}
 *Spanish: [[magia]] {{f}}
@@ -100,7 +150,15 @@
 *[[hex]]
 
 ====Translations====
-{{trans-top|to magic}}
+{{trans-top|to cast a magic spell}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to produce something, as if by magic}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|Translations to be categorised}}
 *Finnish: [[taikoa]], [[loihtia]], [[lumota]]
 *German: [[verzaubern]]
 *Hebrew: [[לכשף]] (lechashef)
@@ -116,7 +174,7 @@
 *[[magic up]]
 *[[magic carpet]]
 *[[black magic]]
-*[[magic numbers]] = constants used to identify certain file types.
+*[[magic numbers]]
 
 [[category:Occult]]
 
