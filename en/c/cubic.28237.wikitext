@@ -6,47 +6,56 @@
 ===Adjective===
 '''cubic''' {{notcomp}}
 
-# Used in the names of units of volume formed by multiplying a unit of length by itself twice. <!--note: this is correct; although there are three factors, there are only two multiplications-->
+#{{geometry}} Used in the names of units of volume formed by multiplying a unit of length by itself twice. <!--note: this is correct; although there are three factors, there are only two multiplications-->
 #:''cubic metre, cubic foot''
-# {{math}} Of a class of [[polynomial]] of the form <math> a.x^3 + b.x^2 + c.x + d </math>
+# {{alggeom}} Of a class of [[polynomial]] of the form <math> a.x^3 + b.x^2 + c.x + d </math>
 
 ====Translations====
 {{trans-top|in the name of units of volume}}
+*French: {{t|fr|cube}}
 *Greek: [[κυβικός]] (cuvikós) 
-*Italian: [[cubico]]
+*Italian: {{t|it|cubo}}
 {{trans-mid}}
 *Polish: [[sześcienny]]
 *Swedish: [[kubik-]]
 {{trans-bottom}}
 
-{{trans-top|polynomial of third degree}}
-*Italian: [[cubico]]
+{{trans-top|of a polynomial of third degree}}
+*French: {{t|fr|cubique}}
+*Italian: {{t|it|cubico}} {{m}}, cubica {{f}}
 {{trans-mid}}
-*Polish: [[trójmian]] (polynominal), [[sześcienny]] (cubic root)
 *Swedish: [[tredjegrads-]], [[kubisk]]
 {{trans-bottom}}
 
 =====Translations to be categorised=====
 {{checktrans}}
-*{{ttbc|French}}: [[cube]] (1), [[cubique]] (2)
+*{{ttbc|Polish}}: [[trójmian]] (polynominal), [[sześcienny]] (cubic root) This cannot be right: the definition says "of a polynomial of third degree" and does not mention cube roots (there is no term "cubic root" in English, and "polynominal" is incorrect. Ensure these are adjectives and not nouns.)
 
-====Related terms====
-*[[cubic centimetre]], [[cubic centimeter]]
+====Derived terms====
+*[[cubic capacity]]
+*[[cubic centimeter]], [[cubic centimetre]]
 *[[cubic curve]]
 *[[cubic equation]]
 *[[cubic foot]]
 *[[cubic inch]]
-*[[cubic metre]], [[cubic meter]]
+*[[cubic meter]], [[cubic metre]]
 *[[cubic mile]]
 *[[cubic yard]]
 
 ===Noun===
 {{en-noun}}
 
-# {{math}} A [[cubic curve]].
+# {{alggeom}} A [[cubic curve]].
 
 ====Synonyms====
 *[[cubic curve]]
+
+====Translations====
+{{trans-top|cubic curve}}
+*French: {{t|fr|cubique|f}}
+{{trans-mid}}
+*Swedish: [[tredjegradskurva]] {{c}}
+{{trans-bottom}}
 
 ===See also===
 *[[cube]]
@@ -55,9 +64,6 @@
 *[[quartic]]
 *[[quintic]]
 *[[square]]
-
-====Translations====
-*Swedish: [[tredjegradskurva]] {{c}}
 
 [[ar:cubic]]
 [[ko:cubic]]
