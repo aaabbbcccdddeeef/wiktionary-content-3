@@ -1,31 +1,71 @@
-{{letter_disp2|delta|[[image:Greek_uc_epsilon.png|35px]][[image:Greek_lc_epsilon.png|24px]] |zeta|έψιλον|Ε|ε}}
+{{letter_disp2|delta|[[Image:Greek_uc_epsilon.png|35px]][[Image:Greek_lc_epsilon.png|24px]]|zeta|έψιλον|Ε|ε}}
 ==English==
+
 === Etymology ===
-{{Gr.}} ''epsilon'', the letter [[Ε]].
+From {{Gr.}} ''[[έψιλον]]'', ‘epsilon’, the letter [[Ε]].
 
 ===Pronunciation===
 * {{IPA|/ɛpsɪlɒn/}}
 
 ===Noun===
-'''epsilon'''
-# The name for the fifth letter of the [[w:Greek alphabet|Greek Alphabet]], preceded by [[delta]] ('''[[Δ]]''', '''[[δ]]''') and followed by [[zeta]] ('''[[Ζ]]''', '''[[ζ]]''').
-#(''phonetics'') In [[International Phonetic Alphabet|IPA]], the phonetic symbol that represents the front half open unrounded vowel. Represented in [[SAMPA]] as ''E''.
-# (''mathematics'') An arbitrarily small quantity.
-# (''computing, colloquial'') A negligible effect.
-#: ''Yes, we have to convert all the symbol names to upper case at startup, but that's epsilon.''
-# The lowest scientific [[caste]] of people in the novel ''[[w:Brave New World|Brave New World]]'' by [[w:Aldous Huxley|Aldous Huxley]].
+{{en-noun|s|-}}
 
-===Translations===
-{{top}}
+# The name for the fifth letter of the [[Greek alphabet]], [[ε]] or [[Ε]], preceded by [[delta]] ('''[[Δ]]''', '''[[δ]]''') and followed by [[zeta]] ('''[[Ζ]]''', '''[[ζ]]''').
+# {{context|phonetics}} In [[International Phonetic Alphabet|IPA]], the phonetic symbol that represents the [[w:open-mid front unrounded vowel|open-mid front unrounded vowel]]. Represented in [[SAMPA]] as ''E''.
+# {{context|mathematics}} An [[arbitrarily]] small [[quantity]].
+# {{context|computing|colloquial}} A [[negligible]] [[effect]].
+#* ''Yes, we have to convert all the symbol names to upper case at startup, but that’s '''epsilon'''.''
+
+====Translations====
+{{trans-top|name for the fifth letter of the Greek alphabet}}
+*Dutch: {{t|nl|epsilon|mf}}
 *Greek: [[έψιλον]] {{n}}
-*[[Interlingua]]: epsilon (1,2)
-{{mid}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|symbol for front half open unrounded vowel}}
+*Dutch: {{t|nl|epsilon|mf}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|arbitrarily small quantity}}
+*Dutch: {{t|nl|epsilon|mf}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|negligible effect}}
+*Dutch: {{t|nl|kleinigheid|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans}}
+{{trans-top|Translations to be checked}}
+*[[Interlingua]]: {{t|ia|epsilon}} (1,2)
+{{trans-mid}}
 *Portuguese: [[épsilon]] {{m}} (1,2)
 *Russian: [[эпсилон]] (épsilon) {{m}}
-*Swedish: epsilon
-{{bottom}}
+*Swedish: {{t|sv|epsilon}}
+{{trans-bottom}}
 
 [[Category:Greek letters]]
+[[Category:IPA symbols]]
+
+----
+
+==Dutch==
+
+===Etymology===
+From {{Gr.|nl}} ''[[έψιλον]]'', ‘epsilon’, the letter [[Ε]].
+
+===Pronunciation===
+* {{IPA|/ɛpsilɔn/}}
+
+===Noun===
+{{nl-noun2|m|g2=f|s|netje}}
+
+# The name for the fifth letter of the [[Greek alphabet]].
+# {{context|phonetics|lang=nl}} The [[IPA]] symbol that represents the [[w:open-mid front unrounded vowel|open-mid front unrounded vowel]].
+# {{context|mathematics|lang=nl}} An [[arbitrarily]] small [[quantity]].
 
 [[fr:epsilon]]
 [[ko:epsilon]]
