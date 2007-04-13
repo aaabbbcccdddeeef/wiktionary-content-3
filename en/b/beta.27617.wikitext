@@ -77,39 +77,19 @@
 
 {{rfc|strange formatting}}
 ==Swedish==
-#beta; the Greek letter '''Β, β'''
 ===Noun===
-;beta
+{{sv-noun-irreg-n|beta|betat|beta|betan|definitions=1}}
+#beta; the Greek letter [[Β]], [[β]]
+===Noun===
+{{sv-noun-reg-or|bet|beta|definitions=1-3}}
+'''beta''' {{c}}
 #[[beetroot]]
-#{{italbrac|slang}} ''short for'' [[minnesbeta]]
-====Conjugations====
-{| border=1 cellspacing=0 
-| bgcolor=#FFFFF0 colspan=5 align=center | '''Common''' 
-|- 
-|- bgcolor=#FFFFF0 align=center 
-! rowspan=2 | 
-| colspan=2 width=105 | ''Singular'' 
-| colspan=2 | ''Plural'' 
-|- bgcolor=#FFFFF0 align=center 
-| width=105 | ''Indefinite'' 
-| width=105 | ''Definite'' 
-| width=105 | ''Indefinite'' 
-|  width=105 | ''Definite'' 
-|- align=center 
-| width=105 bgcolor=#FFFFF0 | ''Nominative'' 
-| [[beta]] 
-| [[betan]] 
-| [[betor]] 
-| [[betorna]] 
-|- align=center 
-| width=105 bgcolor=#FFFFF0 | ''Genitive'' 
-| [[betas]] 
-| [[betans]] 
-| [[betors]] 
-| [[betornas]]
-|} 
+#{{context|computers|lang=sv}} a beta version of a program
+#{{sv-slang}} ''short for'' [[minnesbeta]]
+
 ===Verb===
-;beta
+{{sv-verb-reg-ar}}
+'''beta'''
 # [[graze]]; to eat grass; to feed on growing herbage.
 # to test software prior to release.
 
