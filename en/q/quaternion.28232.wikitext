@@ -1,16 +1,17 @@
 ==English==
-===Noun===
-{{en-noun}}{{Wikipedia}}
 
-# {{cattag|mathematics}} A four-dimensional [[hypercomplex number]] that consists of a real dimension and 3 imaginary ones (''i'', ''j'', ''k'') that are each a [[square root]] of -1.  They are commonly used in [[vector]] mathematics and three-dimensional games.  [[Quaternion multiplication]] is the most common technique used by mathematicians to avoid [[gimbal lock]] when rotating [[vector]]s.
+===Noun===
+{{en-noun}}{{wikipedia}}
+
+# {{context|mathematics}} A four-dimensional [[hypercomplex number]] that consists of a real dimension and 3 imaginary ones (''i'', ''j'', ''k'') that are each a [[square root]] of -1.  They are commonly used in [[vector]] mathematics and three-dimensional games.  [[Quaternion multiplication]] is the most common technique used by mathematicians to avoid [[gimbal lock]] when rotating [[vector]]s.
 
 ====Translations====
 {{top}}
-*Dutch: [[kwaternion]] ''n''
-*French: [[quaternion]] ''m''
+*Dutch: [[kwaternion]] {{n}}
+*French: [[quaternion]] {{m}}
 {{mid}}
-*Italian: [[quaternione]] ''m''
-* Russian: [[кватернион]] {{m}}
+*Italian: [[quaternione]] {{m}}
+*Russian: [[кватернион]] {{m}}
 {{bottom}}
 
 [[et:quaternion]]
@@ -19,4 +20,3 @@
 [[ru:quaternion]]
 [[vi:quaternion]]
 [[zh:quaternion]]
-{{rfc-auto}}
