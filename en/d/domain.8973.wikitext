@@ -15,108 +15,99 @@
 # a [[sphere]] of [[influence]].
 # a [[group]] of [[related]] [[item]]s, [[topic]]s, or [[subject]]s.
 # {{math}} the [[set]] of all [[possible]] [[point]]s where a given [[function]] is defined.
-# {{cattag|computing|Internet}} any [[Domain Name System|DNS]] [[domain name]], particularly one which has been [[delegate|delegated]] and has become representative of the delegated domain name and it's [[subdomain|subdomains]]
+# {{context|computing|Internet}} any [[Domain Name System|DNS]] [[domain name]], particularly one which has been [[delegate|delegated]] and has become representative of the delegated domain name and it's [[subdomain|subdomains]]
 #*''BIND 9 Administrator Reference Manual (9.3.2)'', Copyright © 2004, 2005 Internet Systems Consortium, Inc. ("ISC"), Copyright © 2000-2003 Internet Software Consortium, http://www.bind9.net/manual/bind/9.3.2/Bv9ARM.ch01.html
 #*:Every name in the DNS tree is a '''domain''', even if it is terminal, that is, has no subdomains.
-# {{cattag|computing|internet}} a collection of [[Domain Name System|DNS]] or DNS-like [[domain name|domain names]] consisting of a [[delegate|delegated]] [[domain name]] and all its [[subdomain|subdomains]]
+# {{context|computing|internet}} a collection of [[Domain Name System|DNS]] or DNS-like [[domain name|domain names]] consisting of a [[delegate|delegated]] [[domain name]] and all its [[subdomain|subdomains]]
 # {{computing}} a collection of information having to do with a '''domain''', the [[computer|computers]] named in the '''domain''', and the [[network]] on which the computers named in the '''domain''' reside
 # {{computing}} the collection of computers identified by a '''domain''''s [[domain name|domain names]]
-#{{taxonomy}} the [[highest]] [[level]] grouping of [[organism]]s, above [[kingdom]]; comprises the [[prokaryota]] (cells have no nucleus) and the [[eukaryota]] (cells have a nucleus)
+# {{taxonomy}} the [[highest]] [[level]] grouping of [[organism]]s, above [[kingdom]]; comprises the [[prokaryota]] (cells have no nucleus) and the [[eukaryota]] (cells have a nucleus)
 
-==== Usage notes ====
+====Usage notes====
 * (''collection of information'') Used in a context in which [[domain name services]], or domain name like services, are managed in a fashion that is [[integrated]] with the management of other computer and network related information.
 * (''collection of computers'') Used in the same context as the ''collection of information'' '''domain''' sense.
 
-==== Translations ====
-;geographic area
-{{top}}
+====Translations====
+{{trans-top|geographic area}}
 *Dutch: [[domein]] {{n}}
 *French: [[domaine]] {{f}}
 *Italian: [[dominio]] {{m}}
 *Polish: [[dziedzina]] {{f}}
-{{mid}}
+{{trans-mid}}
 *Portuguese: [[domínio]] {{m}}
 *Spanish: [[dominio]] {{m}}
 *Vietnamese: [[đất đai]], [[tài sản]], [[dinh cơ]]
-{{bottom}}
+{{trans-bottom}}
 
-;sphere of influence
-{{top}}
+{{trans-top|sphere of influence}}
 *French: [[domaine]] {{f}}
 *Italian: [[sfera]] [[di]] [[influenza]] {{f}}
-{{mid}}
+{{trans-mid}}
 *Polish: [[dziedzina]] {{f}}
 *Portuguese: [[domínio]] {{m}}
 *Scottish Gaelic: [[tighearnas]] {{m}}, [[tighearnachd]] {{f}}
 *Spanish: [[esfera]] {{f}}
 *Swedish: [[domän]] {{c}}
 *Vietnamese: [[lãnh địa]], [[lãnh thổ]]
-{{bottom}}
+{{trans-bottom}}
 
-;group of related items
-{{top}}
+{{trans-top|group of related items}}
 *Portuguese: [[domínio]] {{m}}
-{{mid}}
+{{trans-mid}}
 *Polish: [[dziedzina]] {{f}}
-{{bottom}}
+{{trans-bottom}}
 
-;set of points
-{{top}}
+{{trans-top|set of points}}
 *Hungarian: [[értelmezési tartomány]]
 *Polish: [[dziedzina]] {{f}}
 *Portuguese: [[domínio]] {{m}}
 *Swedish: [[definitionsmängd]] {{c}}
-{{mid}}
+{{trans-mid}}
 *Vietnamese: [[tập]] [[xác định]]
-{{bottom}}
+{{trans-bottom}}
 
-;DNS domain name
-{{top}}
+{{trans-top|DNS domain name}}
 *Italian: [[dominio]] {{m}}
 *Polish: [[domena]] {{f}}
 *Portuguese: [[domínio]] {{m}}
-{{mid}}
+{{trans-mid}}
 *Vietnamese: [[không gian tên]], [[tên]] [[miền]] [[không gian]]
-{{bottom}}
+{{trans-bottom}}
 
-;collection of DNS domain names
-{{top}}
+{{trans-top|collection of DNS domain names}}
 *Polish: [[domena]] {{f}}
 *Portuguese: [[domínio]] {{m}}
-{{mid}}
-{{bottom}}
+{{trans-mid}}
+{{trans-bottom}}
 
-;collection of information
-{{top}}
+{{trans-top|collection of information}}
 *Polish: [[domena]] {{f}}
-{{mid}}
-{{bottom}}
+{{trans-mid}}
+{{trans-bottom}}
 
-;collection of computers
-{{top}}
+{{trans-top|collection of computers}}
 *Polish: [[domena]] {{f}}
-{{mid}}
+{{trans-mid}}
 *Portuguese: [[domínio]] {{m}}
 *Vietnamese: [[không gian tên]], [[tên]] [[miền]] [[không gian]]
-{{bottom}}
+{{trans-bottom}}
 
-;highest-level grouping of organisms
-{{top}}
-{{mid}}
+{{trans-top|highest-level grouping of organisms}}
+{{trans-mid}}
 *Vietnamese: [[lãnh giới]], [[vực]]
-{{bottom}}
+{{trans-bottom}}
 
-=====Translations to be categorized=====
+=====Translations to be checked=====
 {{checktrans}}
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 *{{ttbc|German}}: [[Domäne]] {{f}}
 *{{ttbc|Romanian}}: [[domeniu]], [[sfera]]
 
-==== Antonyms ====
+====Antonyms====
 *[[range]] (4)
 *[[codomain]] (4)
 
-==== Synonyms ====
+====Synonyms====
 *[[domain of definition]] (4)
 *[[domain name]]
 *[[hostname]]
