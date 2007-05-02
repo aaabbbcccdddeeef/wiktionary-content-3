@@ -1,87 +1,92 @@
+{{rfc|some definitions should be merged, standardize formatting}}
 ==English==
 
 {{rank|act|la|further|483|line|added|toward|feeling}}
 
 ===Etymology===
-From {{ME.}} ''[[#Middle English|line]]'' < {{OE.}} ''[[līne]]'' "[[cable]], [[hawser]]"; both probably from {{L.}} ''[[linea]]'' "a [[linen]] [[thread]]", "[[string]]", "line" and from ''[[linum]]'' "[[flax]]", "thread", "linen", "cable". The English word was influenced by the {{F.}} ''[[ligne]]'' "line" from the same Latin word ''[[linea]]''.
+From {{ME.}} ''[[#Middle English|line]]'' < {{OE.}} ''[[līne]]'' ‘[[cable]], [[hawser]]’; both probably from {{L.}} ''[[linea]]'' ‘[[linen]] [[thread]], [[string]], line’ and from ''[[linum]]'' ‘[[flax]], thread, linen, cable’. The English word was influenced by the {{F.}} ''[[ligne]]'' ‘line’ from the same Latin word ''[[linea]]''.
+
+{{rfe|both refers to what?  ‘and’ should probably be ‘or’, right?  Reword in any case}}
 
 ===Pronunciation===
-*{{IPA|/laɪn/}}
-*{{audio|en-us-line.ogg|Audio (US)}}
-*:{{rhymes|aɪn}}
+* {{IPA|/laɪn/}}
+* {{audio|en-us-line.ogg|Audio (US)}}
+* {{rhymes|aɪn}}
 
 ===Noun===
 {{en-noun}}
 
+{{rfex}}
+
 # A [[rope]], [[cord]], or [[string]].
-#:''fishing '''line'''''
-#:''anchor '''line'''''
+#* ''fishing '''line'''''
+#* ''anchor '''line'''''
 # A [[path]] through two or more points (see also [[segment]]).
-# {{geometry}} An [[infinite]]ly extending one-dimensional [[figure]] that has no [[curvature]].
-# {{context|geometry|informal}} A [[line segment]]; a continuous finite segment of such a figure.
+# {{geometry}} An [[infinite]]ly extending [[one-dimensional]] [[figure]] that has no [[curvature]].
+# {{context|geometry|informal}} A [[line segment]]; a continuous finite [[segment]] of such a figure.
 # {{math}} That which has [[length]], but not [[breadth]] or [[thickness]].
 # A sentence of [[dialogue]] in a [[script]] or [[screenplay]], or delivered by an [[actor]] or [[performer]].
-#: ''It's a small part, I have 12 '''lines''' in the movie.'' - Geneveve Bujold in ''Earthquake''
+#* {{rfdate}} ''It’s a small part, I have 12 '''lines''' in the movie.'' — Geneveve Bujold in ''Earthquake''
 # The official, stated [[position]] of an individual or political faction.
-#: ''Remember, your answers must match the party '''line'''.''
+#* ''Remember, your answers must match the party '''line'''.''
 # A [[telephone]] or network [[connection]].
-#: ''I tried to make a call, but the '''line''' was dead.''
+#* ''I tried to make a call, but the '''line''' was dead.''
 # A more-or-less [[straight]] sequence of people, objects, etc., waiting to be processed or dealt with, a [[queue]].
-#: ''The '''line''' forms on the right.''
+#* ''The '''line''' forms on the right.''
 # A single horizontal [[row]] of [[text]] on a [[CRT]] [[screen]], printed [[paper]], etc.
-# The [[product]]s or [[service]]s sold by a [[business]]. (Also called '''''line''' of business'').
+# {{context|‘line of business’}} The [[product]]s or [[service]]s sold by a [[business]].
 # From the services a business sells, the business itself.
-#: ''How many buses does the '''line''' have?''
-#: ''The airline is in danger of bankruptcy.''
-#: ''A ship of the '''line'''.''
-# {{fencing}} The position in which the [[fencer]]s hold their [[swords]]. (Also called '''''line''' of engagement''.)
+#* ''How many buses does the '''line''' have?''
+#* ''The airline is in danger of bankruptcy.''
+#* ''A ship of the '''line'''.''
+# {{context|fencing|‘line of engagement’}} The position in which the [[fencer]]s hold their [[swords]].
 # A [[letter]], a written form of communication.
-#: ''Drop me a '''line'''.''
+#* ''Drop me a '''line'''.''
 # {{graphtheory}} An [[edge]] of a [[graph]].
 # {{cricket}} The [[horizontal]] [[path]] of a [[ball]] towards the [[batsman]] (see also [[length]]).
-# {{context|baseball|slang}} An 1800s baseball term meaning the batter's box, often used with "the"
+# {{context|baseball|slang|‘the line’}} An 1800s baseball term meaning the [[batter]]’s box.
 # {{obsolete}} [[flax|Flax]]; [[linen]].
-#: ''Garments made of '''line'''.'' --Spenser
+#* {{rfdate}} ''Garments made of '''line'''.'' — Spenser
 # {{obsolete}} The [[longer]] and [[fiber]] of [[flax]].
 # [[linen|Linen]] thread or [[string]]; a slender, strong [[cord]]; also, a cord of any thickness; a [[rope]]; a [[hawser]]; as, a [[fishing]] line; a line for snaring birds; a [[clothesline]]; a [[towline]].
-#: ''Who so layeth '''lines''' for to latch fowls.'' --Piers Plowman
-# A more or less threadlike mark of pen, pencil, or graver; any long mark; as, a chalk line.
-# The [[course]] followed by anything in motion; hence, a [[road]] or [[route]]; as, the arrow descended in a curved line; the place is remote from lines of travel.
-# [[direction|Direction]]; as, the line sight or vision.
+#* {{rfdate}} ''Who so layeth '''lines''' for to latch fowls.'' — Piers Plowman
+# A more or less threadlike mark of [[pen]], [[pencil]], or [[graver]]; any long mark; as, a chalk line. <!-- rewrite this as example sentence -->
+# The [[course]] followed by anything in motion; hence, a [[road]] or [[route]]; as, the arrow descended in a curved line; the place is remote from lines of travel. <!-- rewrite this as example sentence -->
+# [[direction|Direction]]; as, the line of sight or vision.
 # A row of letters, words, etc., written or printed; especially, a [[row]] of words extending across a page or column.
-# A short [[letter]]; a [[note]]; as, a line from a friend.
+# A short [[letter]]; a [[note]]; as, a line from a friend. <!-- rewrite this as example sentence -->
 # {{poetic}} A [[verse]], or the words which form a certain number of feet, according to the measure.
-#: ''In the preceding '''line''' Ulysses speaks of Nausicaa.'' --Broome
-# Course of conduct, thought, occupation, or policy; method of argument; department of industry, trade, or intellectual activity.
-#: ''He is uncommonly powerful in his own '''line''', but it is not the '''line''' of a first-rate man.'' --Coleridge
-# The exterior [[limit]] of a figure, plat, or territory; [[boundary]]; [[contour]]; [[outline]].
-#: ''Eden stretched her '''line''' From Auran eastward to the royal towers Of great Seleucia.'' --Milton
-# A threadlike crease marking the face or the hand; hence, characteristic mark.
-#: ''Though on his brow were graven '''lines''' austere.'' --Byron
-#: ''He tipples palmistry, and dines On all her fortune-telling '''lines'''.'' --Cleveland
+#* ''In the preceding '''line''' Ulysses speaks of Nausicaa.'' — Broome
+# Course of [[conduct]], thought, [[occupation]], or [[policy]]; method of [[argument]]; [[department]] of [[industry]], trade, or intellectual activity.
+#* ''He is uncommonly powerful in his own '''line''', but it is not the '''line''' of a first-rate man.'' — Coleridge
+# The exterior [[limit]] of a figure, [[plat]], or territory; [[boundary]]; [[contour]]; [[outline]].
+#* ''Eden stretched her '''line''' From Auran eastward to the royal towers Of great Seleucia.'' — Milton
+# A threadlike [[crease]] marking the face or the hand; hence, characteristic mark.
+#* ''Though on his brow were graven '''lines''' austere.'' — Byron
+#* ''He tipples palmistry, and dines On all her fortune-telling '''lines'''.'' — Cleveland
 # [[lineament|Lineament]]; [[feature]]; [[figure]].
-#: ''The '''lines''' of my boy's face.'' --Shak.
+#* ''The '''lines''' of my boy’s face.'' — Shak.
 # A straight [[row]]; a continued [[series]] or [[rank]];
-#: ''a '''line''' of houses''
-#: ''a '''line''' of soldiers''
-#: ''a '''line''' of barriers''
-#: ''Unite thy forces and attack their '''lines'''.'' --Dryden
-# A [[series]] or [[succession]] of [[ancestor]]s or [[descendant]]s of a given person; a family or race; as, the ascending or descending line; the line of descent; the male line; a line of kings.
-#: ''Of his lineage am I, and his offspring By very '''line''', as of the stock real.'' --Chaucer
+#* ''a '''line''' of houses''
+#* ''a '''line''' of soldiers''
+#* ''a '''line''' of barriers''
+#* ''Unite thy forces and attack their '''lines'''.'' — Dryden
+# A [[series]] or [[succession]] of [[ancestor]]s or [[descendant]]s of a given person; a [[family]] or [[race]]; as, the ascending or descending line; the line of descent; the male line; a line of kings. <!-- rewrite this as example sentence -->
+#* ''Of his lineage am I, and his offspring By very '''line''', as of the stock real.'' — Chaucer
 # A connected series of public conveyances, and hence, an established arrangement for forwarding merchandise, etc.
-#: ''a '''line''' of stages''
-#: ''an express '''line'''''
+#* ''a '''line''' of stages''
+#* ''an express '''line'''''
 # {{geography}} A [[circle]] of [[latitude]] or of [[longitude]], as represented on a [[map]].
 # {{geography}} The [[equator]] (usually called the line, or equinoctial line; as, to cross the line).
 # A long [[tape]], or a narrow [[ribbon]] of steel, etc., marked with subdivisions, as feet and inches, for measuring; a [[tapeline]].
 # {{context|Bible}} A measuring line or cord.
-#: ''He marketh it out with a '''line'''.'' --Is. xliv. 13
+#* ''He marketh it out with a '''line'''.'' — Is. xliv. 13
 # {{context|Bible}} That which was measured by a line, as a field or any piece of land set apart; hence, allotted place of abode.
-#: ''The '''lines''' are fallen unto me in pleasant places; yes. I have a goodly heritage.'' --Ps. xvi. 6
+#* ''The '''lines''' are fallen unto me in pleasant places; yes. I have a goodly heritage.'' — Ps. xvi. 6
 # {{context|Bible}}) [[instruction|Instruction]]; [[doctrine]].
-#: ''Their '''line''' is gone out through all the earth.'' -- Ps. xix. 4
+#* ''Their '''line''' is gone out through all the earth.'' — Ps. xix. 4
 # {{engineering}} The proper relative [[position]] or [[adjustment]] of parts, not as to design or proportion, but with reference to smooth working.
-#: ''the engine is in '''line''' or out of '''line'''''
+#* ''the engine is in '''line''' or out of '''line'''''
 # The [[track]] and [[roadbed]] of a [[railway]]; [[railroad]].
 # {{military}} A [[row]] of [[men]] who are [[abreast]] of one another, whether side by side or some distance apart; opposed to [[column]].
 # {{military}} The regular [[infantry]] of an [[army]], as distinguished from [[militia]], [[guards]], volunteer corps, [[cavalry]], [[artillery]], etc.
@@ -89,11 +94,11 @@ From {{ME.}} ''[[#Middle English|line]]'' < {{OE.}} ''[[līne]]'' "[[cable]], [[
 # {{music}} One of the straight [[horizontal]] and [[parallel]] prolonged [[stroke]]s on and between which the notes are placed.
 # {{context|Stock Exchange}} A number of [[share]]s taken by a [[jobber]].
 # {{context|trade}} A series of various qualities and values of the same general class of articles.
-#: ''a full '''line''' of hosiery''
-#: ''a '''line''' of merinos''
+#* ''a full '''line''' of hosiery''
+#* ''a '''line''' of merinos''
 # The [[wire]] connecting one [[telegraphic]] [[station]] with another, or the whole of a system of [[telegraph]] wires under one management and name.
 # A [[measure]] of [[length]]; one [[twelfth]] of an [[inch]].
-#: ''Hard '''lines''', hard lot.'' --C. Kingsley
+#* ''Hard '''lines''', hard lot.'' — C. Kingsley
 
 ====Synonyms====
 *(''row of text''): [[row]]
