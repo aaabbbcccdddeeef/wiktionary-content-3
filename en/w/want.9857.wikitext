@@ -4,24 +4,36 @@
 {{rank|quite|brought|woman|232|want|home|whose|words}}
 
 ===Pronunciation===
-*(''[[Received Pronunciation|UK]]'') {{AHD|/wônt/}}, {{IPA|/wɒnt/}}, {{SAMPA|/wQnt/}}
-*(''[[General American|US]]'') {{AHD|/wônt/}}, {{IPA|/wɑnt/}}, {{SAMPA|/wAnt/}}
+*{{italbrac|UK}}: {{AHD|/wŏnt/}}, {{IPA|/wɒnt/}}, {{SAMPA|/wQnt/}}
+*{{italbrac|[[General American|US]]}}: {{AHD|/wänt/}}, {{IPA|/wɑnt/}}, {{SAMPA|/wAnt/}}
 *{{audio|en-us-want.ogg|Audio (US)}}
 *:Rhymes: [[Rhymes:English:-ɒnt|-ɒnt]]
 
 ===Etymology===
-{{ME.}} from {{ON.}} ''[[vanta]]''
+{{ME.}}, from {{ON.}} ''[[vanta]]''
 
 ===Transitive verb===
 {{en-verb}}
 
-# To like to have; to [[wish]] for or [[desire]] something.
+# {{transitive}} to [[wish]] for or [[desire]] (something).
 #:''What do you want to eat?''
+# {{transitive}} To lack (something).
+#:''There was something wanting in the play.''
+#{{context|transitive|informal}} To require (something).
+#:''That chair wants fixing.'' (= ''That chair requires to be fixed.'')
+
+====Synonyms====
+*(''desire''): [[desire]], [[wish]] for, [[would]] [[like]]
+*(''lack''): [[lack]]
+*(''require''): [[be in need of]], [[need]], [[require]]
+
+====Derived terms====
+*[[wanted]]<!--adjective, as in "wanted man"-->
+*[[want for]]<!--as in "want for nothing"-->
+*[[wanting]]<!--adjective, as in "leave something wanting"-->
 
 ====Translations====
-
-'''like to have'''
-{{top}}
+{{trans-top|desire}}
 *Arabic: {{ARchar|[[راد]]}}  (ráda)
 *Afrikaans: [[wil]]
 *Albanian: [[do]]
@@ -43,7 +55,7 @@
 *[[Ido]]: [[dezirar]], [[volar]] (want to)
 *Indonesian: [[mau]], [[hendak]], [[ingin|menginginkan]]
 *Italian: [[volere]]
-{{mid}}
+{{trans-mid}}
 *Japanese: [[欲しい]] ([[ほしい]]), [[望む]] ([[のぞむ]])
 *Korean: [[빌다]] (bilda), [[바라다]] (barada), [[원하다]] (wonhada)
 *Kurdish: [[xwestin]], [[viyan]]
@@ -58,13 +70,23 @@
 *Russian: [[хотеть]] (χot'ét')
 *Serbian:
 *:Cyrillic: [[хтети]]
-*:Roman: [[hteti]]
+*:Latin: [[hteti]]
 *Slovene: [[hoteti]]
 *Spanish: [[querer]]
 *Swedish [[vill]]
-*Telugu: [[కోరుకొను]] (korukonu), [[వాంఛించు]] (vamchinchu)
+*[[Telugu]]: [[కోరుకొను]] (korukonu), [[వాంఛించు]] (vamchinchu)
 *Turkish: [[istemek]]
-{{bottom}}
+{{trans-bottom}}
+
+{{trans-top|lack}}
+''See'' '''[[lack]]'''
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|desire}}
+''See'' '''[[desire]]'''
+{{trans-mid}}
+{{trans-bottom}}
 
 ===Noun===
 {{wikipedia}}
@@ -72,31 +94,29 @@
 
 # [[Lack]] (of), [[absence]] of.
 #:And well are worth the ''want'' that you have wanted.--Shakespeare, ''King Lear''
+# [[poverty]]
 
 ====Translations====
-{{top}}
-{{mid}}
-*Telugu: [[వాంఛ]] (vamcha), [[కోరిక]] (korika)
-{{bottom}}
+{{trans-top|lack (of)}}
+{{trans-mid}}
+*[[Telugu]]: [[వాంఛ]] (vamcha), [[కోరిక]] (korika)
+{{trans-bottom}}
 
-===See also===
-*[[wanted]]<!--adjective, as in "wanted man"-->
-*[[want for]]<!--as in "want for nothing"-->
-*[[wanting]]<!--adjective, as in "leave something wanting"-->
+{{trans-top|poverty}}
+{{trans-mid}}
+{{trans-bottom}}
 
 [[Category:English control verbs]]
 
 ----
-
 ==Dutch==
-
 ===Pronunciation===
 
 ====Homophones====
 *[[wand#Dutch|wand]]
 
 ===Noun===
-'''want''' ''f'' (Plural: [[wanten]], diminutive: [[wantje]])
+'''want''' {{f}} (''plural'' '''[[wanten]]''', ''diminutive'' '''[[wantje]]''')
 
 # [[mitten]]
 
@@ -106,14 +126,13 @@
 # [[for]]
 
 ===See also===
-[[omdat]], [[aangezien]]
+*[[aangezien]]
+*[[omdat]]
 
 ----
-
 ==Old High German==
-
 ===Noun===
-'''want''' ''f''
+'''want''' {{f}}
 
 # [[wall]]
 
