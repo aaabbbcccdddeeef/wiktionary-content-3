@@ -8,7 +8,4 @@ Medicines made from [[mercury (element)|mercury]], generally used for purgative 
 {{pharmacy-stub}}
 
 
-{| class="messagebox cleanup metadata" style="width: auto;"
-|-
-| This {{#switch:{{NAMESPACE}}|{{ns:-0}}=article|Category=category|Image=image|Template=template|page}} belongs in one or more [[Wikipedia:Categorization|categories]].<br><small>Please [[Wikipedia:Categorization FAQ#How do I add an article to a category?|categorize]] this {{#switch:{{NAMESPACE}}|{{ns:-0}}=article|Category=category|Image=image|Template=template|page}} to list it with similar {{#switch:{{NAMESPACE}}|{{ns:-0}}=articles|Category=categories|Image=images|Template=templates|Wikipedia=project pages|pages}}.</small>
-|}{{{Category|{{#if:{{{date|}}}|[[Category:Uncategorized from {{{date}}}]]|[[Category:Category needed]]}}[[Category:Uncategorized pages]]}}}
+{{Uncategorized|date=May 2007}}
