@@ -1,16 +1,16 @@
-{{rfc|some definitions should be merged, standardize formatting}}
+{{rfc|some definitions should be merged, similar senses grouped}}
 {{wikipedia}}
 ==English==
 
 {{rank|act|la|further|483|line|added|toward|feeling}}
 
 ===Etymology===
-From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]'' ('[[cable]], [[hawser]]'), probably from {{L.}} ''[[linea]]'' ('[[linen]] [[thread]], [[string]], line') or ''[[linum]]'' ('[[flax]], thread, linen, cable') or a conflation of both of those words. The English word was influenced by the {{F.}} ''[[ligne]]'' ('line'), which derives from the same Latin word, ''[[linea]]''.
+From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]'' (‘[[cable]], [[hawser]]’), probably from {{L.}} ''[[linea]]'' (‘[[linen]] [[thread]], [[string]], line’) or ''[[linum]]'' (‘[[flax]], thread, linen, cable’) or a conflation of both of those words. The English word was influenced by the {{F.}} ''[[ligne]]'' (‘line’), which derives from the same Latin word, ''[[linea]]''.
 
 ===Pronunciation===
-*{{enPR|līn}}, {{IPA|/laɪn/}}, {{SAMPA|/laIn/}}
-*{{audio|en-us-line.ogg|Audio (US)}}
-*{{rhymes|aɪn}}
+* {{enPR|līn}}, {{IPA|/laɪn/}}, {{SAMPA|/laIn/}}
+* {{audio|en-us-line.ogg|Audio (US)}}
+* {{rhymes|aɪn}}
 
 ===Noun===
 {{en-noun}}
@@ -19,7 +19,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 
 # A [[rope]], [[cord]], [[string]], or [[thread]]; a [[slender]], strong [[cord]], or a cord of any thickness; a [[hawser]].
 #* {{rfdate}} ''Who so layeth '''lines''' for to latch fowls.'' — Piers Plowman
-#* ''fishing '''line''''', ''anchor '''line''''', ''[[clothesline|clothes'''line''']]'', ''[[towline|tow'''line''']]''
+#* ''fishing '''line''''', ''anchor '''line''''', ''clothes'''line''''', ''tow'''line'''''
 # A [[path]] through two or more [[point]]s (see also [[segment]]).
 # {{geometry}} An [[infinite]]ly [[extend]]ing [[one-dimensional]] [[figure]] that has no [[curvature]].
 # {{context|geometry|informal}} A [[line segment]]; a [[continuous]] [[finite]] [[segment]] of such a figure.
@@ -79,9 +79,9 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 # {{geography}} The [[equator]] (usually called the line, or equinoctial line.
 #* ''to cross the line''
 # A long [[tape]], or a narrow [[ribbon]] of steel, etc., marked with subdivisions, as feet and inches, for measuring; a [[tapeline]].
-# {{context|Bible}} That which was measured by a line, as a field or any piece of land set apart; hence, [[allot]]ted place of [[abode]].
+# {{context|bible}} That which was measured by a line, as a field or any piece of land set apart; hence, [[allot]]ted place of [[abode]].
 #* {{rfdate}} ''The '''lines''' are fallen unto me in pleasant places; yes. I have a goodly heritage.'' — Ps. xvi. 6
-# {{context|Bible}}) [[instruction|Instruction]]; [[doctrine]].
+# {{context|bible}}) [[instruction|Instruction]]; [[doctrine]].
 #* {{rfdate}} ''Their '''line''' is gone out through all the earth.'' — Ps. xix. 4
 # {{engineering}} The [[proper]] relative [[position]] or [[adjustment]] of parts, not as to design or proportion, but with reference to smooth working.
 #* ''the engine is in '''line''' or out of '''line'''''
@@ -89,8 +89,8 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 # {{military}} A [[row]] of [[men]] who are [[abreast]] of one another, whether side by side or some distance apart; opposed to [[column]].
 # {{military}} The regular [[infantry]] of an [[army]], as distinguished from [[militia]], [[guards]], volunteer corps, [[cavalry]], [[artillery]], etc.
 # {{context|military}} A [[trench]] or [[rampart]].
-#*'''1917''': John Masefield, ''The Old Front Line''
-#*:''This description of the old front line, as it was when the Battle of the Somme began, may some day be of use. ''[...]'' It is hoped that this description of the '''line''' will be followed by an account of our people's share in the battle.''
+#* '''1917''', John Masefield, ''The Old Front Line''
+#*: ''This description of the old front line, as it was when the Battle of the Somme began, may some day be of use. ''[...]'' It is hoped that this description of the '''line''' will be followed by an account of our people's share in the battle.''
 # {{music}} One of the straight [[horizontal]] and [[parallel]] prolonged [[stroke]]s on and between which the [[note]]s are placed.
 # {{context|stock exchange}} A number of [[share]]s taken by a [[jobber]].
 # {{context|trade}} A series of various qualities and values of the same general class of articles.
@@ -179,12 +179,12 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 
 ====Translations====
 {{trans-top|rope, cord, or string}}
-*Dutch: {{t|nl|lijn|f}}
+*Dutch: {{t|nl|lijn|f}}, {{t|nl|touw|n}}
 *Finnish: [[naru]], [[nuora]], [[nyöri]]
 *German: [[Leine]] {{f}}
 *Italian: [[corda]] {{f}}, [[fune]] {{f}}
 {{trans-mid}}
-*Portuguese: [[fio]] {{m}}, [[linha]] {{f}}
+*Portuguese: [[fio]] {{m}}, {{t|pt|linha|f}}
 *Russian: [[верёвка]] (v'er'óvka) {{f}}, [[шнур]] (šnur) {{m}}, [[линь]] (lin') {{m}}, [[леска]] (léska) {{f}}
 *Swedish: [[lina]] {{c}}
 {{trans-bottom}}
@@ -193,7 +193,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 *Dutch: {{t|nl|rechte|f}}, {{t|nl|lijn|f}}
 *Finnish: [[viiva]]
 *German: [[Linie]] {{f}}
-*Italian: [[linea]] {{f}}
+*Italian: {{t|it|linea|f}}
 {{trans-mid}}
 *Russian: [[линия]] (línija) {{f}}
 *Swedish: [[linje]] {{c}}
@@ -205,7 +205,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 *Finnish: [[suora]]
 *French: [[droite]] {{f}}
 *German: [[Gerade]] {{f}}
-*Italian: [[linea]] {{f}}
+*Italian: {{t|it|linea|f}}
 {{trans-mid}}
 *Portuguese: [[reta]] {{f}}
 *Russian: [[линия]] (línija) {{f}}
@@ -225,19 +225,19 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 {{trans-top|mathematics: that which has length, but not breadth or thickness}}
 *Dutch: {{t|nl|rechte|f}}
 *Finnish: [[suora]]
-*Italian: [[linea]] {{f}}
+*Italian: {{t|it|linea|f}}
 {{trans-mid}}
 *Russian: [[линия]] (línija) {{g}}
 {{trans-bottom}}
 
 {{trans-top|single horizontal row of text on a screen, printed paper, etc.}}
-*Dutch: {{t|nl|lijn|f}}, {{t|nl|regel|m}}
+*Dutch: {{t|nl|regel|m}}, {{t|nl|lijn|f}}
 *Finnish: [[rivi]]
 *French: [[ligne]] {{f}}
 *German: [[Zeile]] {{f}}
 *Italian: [[riga]] {{f}}
 {{trans-mid}}
-*Portuguese: [[linha]] {{f}}
+*Portuguese: {{t|pt|linha|f}}
 *Russian: [[строка]] (stroká) {{f}}
 *Swedish: [[rad]] {{c}}
 {{trans-bottom}}
@@ -265,11 +265,11 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 {{trans-bottom}}
 
 {{trans-top|telephone or network connection}}
-*Dutch: {{t|nl|lijn|f}}, {{t|nl|aansluiting|f}}
+*Dutch: {{t|nl|lijn|f}}, {{t|nl|aansluiting|f}}, {{t|nl|verbinding|f}}
 *Finnish: [[linja]]
 *French: [[ligne]] {{f}}
 *German: [[Leitung]] {{f}}
-*Italian: [[linea]] {{f}}
+*Italian: {{t|it|linea|f}}
 {{trans-mid}}
 *Russian: [[линия связи]] (línija sv'ázi) {{f}}, [[линия]] (línija) {{f}}
 *Swedish: [[anslutning]] {{c}}, [[linje]] {{c}}
@@ -287,17 +287,18 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 {{trans-bottom}}
 
 {{trans-top|products or services sold by a business}}
-*Dutch: {{t|nl|productlijn|f}}
+*Dutch: {{t|nl|gamma|n}}, {{t|nl|aanbod|n}}, {{t|nl|productlijn|f}}
 *French: [[ligne]] {{f}}
-*Italian: [[linea]] {{f}}, [[ramo]] {{m}}
+*Italian: {{t|it|linea|f}}, [[ramo]] {{m}}
 {{trans-mid}}
 *Russian: [[линия]] (línija) {{f}}
 *Swedish: [[produktlinje]] {{c}}, [[sortiment]] {{n}}
 {{trans-bottom}}
 
 {{trans-top|business itself}}
+*Dutch: {{t|nl|maatschappij|f}}
 *Finnish: [[linja]]
-*Italian: [[linea]] {{f}}
+*Italian: {{t|it|linea|f}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -308,14 +309,14 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 {{trans-top|graph theory: edge of a graph}}
 *Dutch: {{t|nl|kant|m}}, {{t|nl|lijn|f}}
 *German: [[Kante]] {{f}}
-*Italian: [[linea]] {{f}}
+*Italian: {{t|it|linea|f}}
 {{trans-mid}}
 *Portuguese: [[aresta]] {{f}}
 *Russian: [[ребро]] (r'ebró) {{n}}
 {{trans-bottom}}
 
 {{trans-top|cricket: horizontal path of a ball towards the batsman}}
-*Italian: [[linea]] {{f}}
+*Italian: {{t|it|linea|f}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -325,18 +326,20 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 
 {{trans-top|obsolete: flax; linen}}
 :''See'' '''[[flax]]''' ''and'' '''[[linen]]'''
+*Dutch: {{t|nl|lijn|n}} {{italbrac|obsolete}}
 {{trans-bottom}}
 
 {{trans-top|obsolete: longer and fiber of flax}}
 :''See'' '''[[flax]]'''
+*Dutch: {{t|nl|lijn|n}} {{italbrac|obsolete}}
 {{trans-bottom}}
 
 {{trans-top|threadlike mark of pen, pencil, or graver}}
-*Dutch: {{t|nl|lijn|f}}
+*Dutch: {{t|nl|lijn|f}}, {{t|nl|streep|f}}
 *Finnish: [[viiva]]
 *French: [[trait]] {{m}}
 *German: [[Linie]] {{f}}
-*Italian: [[linea]] {{f}}
+*Italian: {{t|it|linea|f}}
 {{trans-mid}}
 *Portuguese: [[risco]] {{m}}, [[traço]] {{m}}
 *Russian: [[линия]] (línija) {{f}}, [[черта]] (čertá) {{f}}, [[штрих]] (štriχ) {{m}}
@@ -344,10 +347,10 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 {{trans-bottom}}
 
 {{trans-top|course followed by anything in motion}}
-*Dutch: {{t|nl|traject|n}}
+*Dutch: {{t|nl|traject|n}}, {{t|nl|pad|n}}
 *Finnish: [[reitti]], [[rata]]
 *German: [[Weg]] {{m}}, [[Pfad]] {{m}}
-*Italian: [[linea]] {{f}}
+*Italian: {{t|it|linea|f}}
 {{trans-mid}}
 *Russian: [[курс]] (kurs) {{m}}, [[путь]] (put') {{m}}, [[направление]] (napravlénije) {{n}}
 *Swedish: [[bana]] {{c}}
@@ -361,7 +364,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 {{trans-bottom}}
 
 {{trans-top|poetic: verse}}
-*Dutch: {{t|nl|vers|n}}, {{t|nl|stanza|f}}
+*Dutch: {{t|nl|vers|n}}, {{t|nl|regel|m}}, {{t|nl|stanza|f}}
 *Finnish: [[rivi]]
 {{trans-mid}}
 {{trans-bottom}}
@@ -384,7 +387,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 *Dutch: {{t|nl|lijn|f}}, {{t|nl|rimpel|m}}
 *Finnish: [[viiva]]
 *French: [[ride]] {{f}}
-*Italian: [[linea]] {{f}}
+*Italian: {{t|it|linea|f}}
 {{trans-mid}}
 *Russian: [[морщина]] (morš'ína) {{f}}, [[линия]] (línija) {{f}}
 *Swedish: [[linje]] {{c}}
@@ -448,7 +451,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 {{trans-top|military: row of men}}
 *Dutch: {{t|nl|lijn|f}}, {{t|nl|rij|f}}
 *Finnish: [[rivi]]
-*Italian: [[linea]] {{f}}, [[fila]] {{f}}
+*Italian: {{t|it|linea|f}}, [[fila]] {{f}}
 {{trans-mid}}
 *Russian: [[шеренга]] (šer'énga) {{f}}
 *Swedish: [[led]]
@@ -465,7 +468,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 {{trans-top|music: one of the straight horizontal and parallel prolonged strokes on and between which the notes are placed}}
 *Dutch: {{t|nl|regel|m}}
 *Finnish: [[viiva]]
-*Italian: [[linea]] {{f}}
+*Italian: {{t|it|linea|f}}
 {{trans-mid}}
 *Russian: [[линейка]] (lin'éjka) {{f}}
 {{trans-bottom}}
@@ -480,7 +483,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 
 {{trans-top|wire connecting one telegraphic station with another, or the whole of a system of telegraph wires under one management and name}}
 *Finnish: [[linja]]
-*Italian: [[linea]] {{f}}
+*Italian: {{t|it|linea|f}}
 {{trans-mid}}
 *Russian: [[линия]] (línija) {{f}}
 *Swedish: [[linje]]
@@ -500,7 +503,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 *{{ttbc|Finnish}}: [[rivi]]
 *{{ttbc|Interlingua}}: [[linea]] (1,2,4,5,6,7,8); [[fila]], [[cauda]] (6); [[littera]] (10)
 *{{ttbc|Irish}}: [[líne]]
-*{{ttbc|Italian}}: [[linea]] {{f}}
+*{{ttbc|Italian}}: {{t|it|linea|f}}
 *{{ttbc|Korean}}: [[줄]] (jul), [[Hanja]]: [[선]] (seon) (1, 2, 7)
 *{{ttbc|Ido}}: [[lineo]]
 *{{ttbc|Polish}}: [[linia]] {{f}} (1,2,5,10), [[lina]] {{f}} (8)
