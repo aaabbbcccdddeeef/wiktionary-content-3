@@ -14,7 +14,7 @@
 {{en-verb|attribut|ing}}
 
 # {{transitive}} (''used with'' '''to''' ''before the [[object]]'') To associate [[ownership]] or [[authorship]] with.
-#: ''This poem is attributed to Browning.''
+#: ''This poem is '''attributed''' to Browning.''
 
 ====Translations====
 {{trans-top|associate ownership or authorship with}}
@@ -28,12 +28,10 @@
 ===Noun===
 {{en-noun}}
 
-{{rfc|The computing definition contains typos, is unclear and has an example that seems to be for "attribute set" (if there is such a term) rather than "attribute"}}
-
 # A [[characteristic]] or [[quality]] of a thing.
-#: ''His finest attribute is his kindness.''
-# {{computing}} The applicable option selection.
-#: ''This packet has its conherency attribute set.''
+#: ''His finest '''attribute''' is his kindness.''
+# {{computing}} The applicable option selection; a [[variable]] or a [[value]].
+#: ''This packet has its coherency '''attribute''' set to zero.''
 
 ====Translations====
 {{trans-top|characteristic or quality}}
