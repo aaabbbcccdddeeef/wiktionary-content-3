@@ -23,6 +23,8 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 # A [[path]] through two or more [[point]]s (see also [[segment]]); a continuous mark.
 #*'''1816''': [[w:Percy Shelley|Percy Shelley]], ''[http://www.gutenberg.org/etext/4654 The Daemon of the World]''
 #*:''The atmosphere in flaming sparkles flew; / And where the burning wheels / Eddied above the mountain’s loftiest peak / Was traced a '''line''' of lightning.''
+# A more or less threadlike [[mark]] of a [[pen]], [[pencil]], or [[graver]]; any long mark.
+#: ''a chalk '''line'''''
 # {{geometry}} An [[infinite]]ly [[extend]]ing [[one-dimensional]] [[figure]] that has no [[curvature]].
 # {{context|geometry|informal}} A [[line segment]]; a [[continuous]] [[finite]] [[segment]] of such a figure.
 # {{context|math|obsolete}} That which has [[length]], but not [[breadth]] or [[thickness]].
@@ -62,14 +64,12 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 # {{context|baseball|slang|1800s|‘the line’}} The [[batter]]’s box.
 # {{obsolete}} [[flax|Flax]]; [[linen]], particularly the [[longer]] [[fiber]] of [[flax]].
 #: {{rfdate}} ''Garments made of '''line'''.'' — Spenser
-# A more or less threadlike [[mark]] of a [[pen]], [[pencil]], or [[graver]]; any long mark.
-#: ''a chalk '''line'''''
 # The [[course]] followed by anything in [[motion]]; hence, a [[road]] or [[route]]
 #: ''The arrow descended in a curved '''line'''.''
 #: ''[[w:Antarctica|The place]] is remote from '''lines''' of travel.''
 # [[direction|Direction]]
 #: ''the '''line''' of sight'' or ''the '''line''' of vision''
-# {{poetic}} A [[verse]], or the words which form a certain number of [[foot|feet]], according to the [[measure]].
+# {{rfv-sense}} {{poetic}} A [[verse]], or the words which form a certain number of [[foot|feet]], according to the [[measure]].
 #: {{rfdate}} ''In the preceding '''line''' Ulysses speaks of Nausicaa.'' — Broome
 # Course of [[conduct]], thought, [[occupation]], or [[policy]]; method of [[argument]]; [[department]] of [[industry]], trade, or intellectual activity.
 #: {{rfdate}} ''He is uncommonly powerful in his own '''line''', but it is not the '''line''' of a first-rate man.'' — Coleridge
@@ -91,6 +91,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 # A [[connect]]ed series of public [[conveyance]]s, and hence, an [[establish]]ed [[arrangement]] for forwarding [[merchandise]], etc.
 #: ''a '''line''' of stages''
 #: ''an express '''line'''''
+# The [[track]] and [[roadbed]] of a [[railway]]; [[railroad]].
 # {{geography}} A [[circle]] of [[latitude]] or of [[longitude]], as represented on a [[map]].
 # {{context|geography|‘the line’ or ‘equinoctial line’}} The [[equator]].
 #: ''to cross the '''line'''''
@@ -99,7 +100,6 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 #: {{rfdate}} ''The '''lines''' are fallen unto me in pleasant places; yes. I have a goodly heritage.'' — Ps. xvi. 6
 # {{engineering}} The [[proper]] relative [[position]] or [[adjustment]] of parts, not as to design or proportion, but with reference to smooth working.
 #: ''the engine is in '''line''' or out of '''line'''''
-# The [[track]] and [[roadbed]] of a [[railway]]; [[railroad]].
 # {{music}} One of the straight [[horizontal]] and [[parallel]] prolonged [[stroke]]s on and between which the [[note]]s are placed.
 # {{context|stock exchange}} A number of [[share]]s taken by a [[jobber]].
 # <!--redund1?-->{{context|trade}} A series of various qualities and values of the same general class of articles.
@@ -208,6 +208,18 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 *Italian: {{t|it|linea|f}}
 {{trans-mid}}
 *Russian: [[линия]] (línija) {{f}}
+*Swedish: [[linje]] {{c}}
+{{trans-bottom}}
+
+{{trans-top|threadlike mark of pen, pencil, or graver}}
+*Dutch: {{t|nl|lijn|f}}, {{t|nl|streep|f}}
+*Finnish: [[viiva]]
+*French: [[trait]] {{m}}
+*German: [[Linie]] {{f}}
+*Italian: {{t|it|linea|f}}
+{{trans-mid}}
+*Portuguese: [[risco]] {{m}}, [[traço]] {{m}}
+*Russian: [[линия]] (línija) {{f}}, [[черта]] (čertá) {{f}}, [[штрих]] (štriχ) {{m}}
 *Swedish: [[linje]] {{c}}
 {{trans-bottom}}
 
@@ -362,18 +374,6 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 *Dutch: {{t|nl|lijn|n}} {{italbrac|obsolete}}
 {{trans-bottom}}
 
-{{trans-top|threadlike mark of pen, pencil, or graver}}
-*Dutch: {{t|nl|lijn|f}}, {{t|nl|streep|f}}
-*Finnish: [[viiva]]
-*French: [[trait]] {{m}}
-*German: [[Linie]] {{f}}
-*Italian: {{t|it|linea|f}}
-{{trans-mid}}
-*Portuguese: [[risco]] {{m}}, [[traço]] {{m}}
-*Russian: [[линия]] (línija) {{f}}, [[черта]] (čertá) {{f}}, [[штрих]] (štriχ) {{m}}
-*Swedish: [[linje]] {{c}}
-{{trans-bottom}}
-
 {{trans-top|course followed by anything in motion}}
 *Dutch: {{t|nl|traject|n}}, {{t|nl|pad|n}}
 *Finnish: [[reitti]], [[rata]]
@@ -439,6 +439,15 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 {{trans-mid}}
 {{trans-bottom}}
 
+{{trans-top|track and roadbed of a railway; railroad}}
+*Dutch: {{t|nl|spoorlijn|n}}, {{t|nl|spoor|n}}
+*Finnish: [[rata]], [[rautatie]]
+*French: [[ligne]] {{f}}
+*Italian: [[binario]] {{m}}
+{{trans-mid}}
+*Portuguese: [[trilho]] {{m}}
+{{trans-bottom}}
+
 {{trans-top|geography: circle of latitude or of longitude, as represented on a map}}
 *Dutch: {{t|nl|meridiaan|m}}, {{t|nl|lijn|f}}
 *Finnish: [[piiri]]
@@ -466,15 +475,6 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 {{trans-top|engineering: proper relative position or adjustment of parts}}
 *Dutch: {{t|uitlijning|f}}
 {{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|track and roadbed of a railway; railroad}}
-*Dutch: {{t|nl|spoorlijn|n}}, {{t|nl|spoor|n}}
-*Finnish: [[rata]], [[rautatie]]
-*French: [[ligne]] {{f}}
-*Italian: [[binario]] {{m}}
-{{trans-mid}}
-*Portuguese: [[trilho]] {{m}}
 {{trans-bottom}}
 
 {{trans-top|music: one of the straight horizontal and parallel prolonged strokes on and between which the notes are placed}}
