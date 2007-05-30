@@ -27,7 +27,6 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 #: ''a chalk '''line'''''
 # {{geometry}} An [[infinite]]ly [[extend]]ing [[one-dimensional]] [[figure]] that has no [[curvature]].
 # {{context|geometry|informal}} A [[line segment]]; a [[continuous]] [[finite]] [[segment]] of such a figure.
-# {{context|math|obsolete}} That which has [[length]], but not [[breadth]] or [[thickness]].
 # A [[row]] of [[letter]]s, [[text]], [[word]]s, etc, written or [[print]]ed, as on [[paper]] or a [[CRT]] screen; especially a row of words extending across a page or [[column]].
 #*'''1609''': [[w:Shakespeare|Shakespeare]], ''[[s:The Sonnets/71|Sonnet 71]]''
 #*:''Nay if you read this '''line''', remember not, / The hand that writ it''.
@@ -247,15 +246,6 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 *Swedish: [[linje]] {{c}}
 {{trans-bottom}}
 
-{{trans-top|mathematics: that which has length, but not breadth or thickness}}
-*Dutch: {{t|nl|rechte|f}}
-*Finnish: [[suora]]
-*German: [[Gerade]] {{f}}
-*Italian: {{t|it|linea|f}}
-{{trans-mid}}
-*Russian: [[линия]] (línija) {{g}}
-{{trans-bottom}}
-
 {{trans-top|single horizontal row of text on a screen, printed paper, etc.}}
 *Dutch: {{t|nl|regel|m}}, {{t|nl|lijn|f}}
 *Finnish: [[rivi]]
@@ -279,7 +269,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 
 {{trans-top|official, stated position of an individual or political faction}}
 *Dutch: {{t|nl|lijn|f}}
-*Finnish: [[mielipide]], [[näkökanta]]
+*Finnish: [[linja]], [[mielipide]], [[näkökanta]]
 *German: [[Linie]] {{f}} (party line = ''[[Parteilinie]]'')
 {{trans-mid}}
 *Russian: [[линия]] (línija) {{f}}, [[курс]] (kurs) {{m}}
@@ -305,7 +295,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 
 {{trans-top|straight sequence of people, queue}}
 *Dutch: {{t|nl|rij|f}}, {{t|nl|file|f}}
-*Finnish: [[jono]]
+*Finnish: [[jono]], [[rivi]]
 *German: [[Schlange]] {{f}}
 *Italian: [[coda]] {{f}}, [[fila]] {{f}}
 {{trans-mid}}
@@ -329,11 +319,13 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 
 {{trans-top|fortifications: trench or rampart}}
 *Dutch: {{t|nl|loopgraaf|mf}}
+*Finnish: [[linja]]
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|products or services sold by a business}}
 *Dutch: {{t|nl|gamma|n}}, {{t|nl|aanbod|n}}, {{t|nl|productlijn|f}}
+*Finnish: [[linja]]
 *French: [[ligne]] {{f}}
 *Italian: {{t|it|linea|f}}, [[ramo]] {{m}}
 {{trans-mid}}
@@ -354,6 +346,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 
 {{trans-top|graph theory: edge of a graph}}
 *Dutch: {{t|nl|kant|m}}, {{t|nl|lijn|f}}
+*Finnish: [[viiva]]
 *German: [[Kante]] {{f}}
 *Italian: {{t|it|linea|f}}
 {{trans-mid}}
@@ -426,8 +419,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 *Dutch: {{t|nl|lijn|f}}, {{t|nl|kenmerk|n}}
 {{trans-mid}}
 {{trans-bottom}}
-
-{{trans-top|series or succession of ancestors or descendants of a given person}}
+0{{trans-top|series or succession of ancestors or descendants of a given person}}
 *Dutch: {{t|nl|lijn|f}}
 *Finnish: [[linja]], [[sukulinja]], [[jälkeläinen]]
 {{trans-mid}}
@@ -451,7 +443,7 @@ From {{ME.}} ''[[#Middle English|line]]'', from {{OE.}} ''[[#Old English|līne]]
 
 {{trans-top|geography: circle of latitude or of longitude, as represented on a map}}
 *Dutch: {{t|nl|meridiaan|m}}, {{t|nl|lijn|f}}
-*Finnish: [[piiri]]
+*Finnish: [[koordinaattiviiva]]
 {{trans-mid}}
 *Russian: [[линия]] (línija) {{f}}
 {{trans-bottom}}
