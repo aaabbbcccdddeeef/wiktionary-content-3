@@ -1,38 +1,38 @@
+{{rfc|check etymologies, the weapon probably belongs under the second one; check pronunciation; move definitions of derived terms to their own page.}}
 {{wikipediapl}}
 ==English==
 
-===Etymology 1===
-{{OE.}} ''[[sæp]]''; akin to Old High German ''[[saf]]'', German ''[[saft]]'', Icelandic ''[[safi]]''; of uncertain origin; possibly akin to Latin ''[[sapere]]'' to taste, to be wise, ''[[sapa]]'' must or new wine boiled thick; compare '''[[sapid]]''' and '''[[sapient]]'''
-
 {{rfc-level|check placement of Pronunciation}}
-
-====Pronunciation====
+===Pronunciation===
 *{{IPA|/sæp/}}
 *{{audio|en-us-sap.ogg|Audio (US)}}
 *{{rhymes|æp}}
+
+===Etymology 1===
+From {{OE.}} ''[[sæp]]''; akin to Old High German ''[[saf]]'', German ''[[saft]]'', Dutch ''[[#Dutch|sap]]'', Icelandic ''[[safi]]''; of uncertain origin; possibly akin to Latin ''[[sapere]]'' ‘to taste, to be wise’, ''[[sapa]]'' ‘must or new wine boiled thick’; compare ''[[sapid]]'' and ''[[sapient]]''.
 
 ====Noun====
 {{wikipedia}}
 {{en-noun|s|-}}
 
-# {{uncountable}} The juice of plants of any kind, especially the ascending and descending juices or circulating fluid essential to nutrition.
+# {{uncountable}} The [[juice]] of [[plant]]s of any kind, especially the [[ascending]] and [[descending]] juices or [[circulating]] [[fluid]] essential to [[nutrition]].
 # {{uncountable}} The [[sapwood]], or [[alburnum]], of a tree.
 # {{context|slang|countable}} A [[simpleton]]; a [[saphead]]; a [[milksop]]; a [[naive]] person.
-# {{countable}} A leather-covered hand weapon; a [[blackjack]].
+# {{countable}} A leather-covered hand [[weapon]]; a [[blackjack]].
 
 ====Derived terms====
-*[[crude sap]]
-*[[elaborated sap]]
-*[[sap ball]]
-*[[sap green]]
-*[[sap poison]]
-*[[sap rot]]
-*[[sap sucker]]
-*[[sap tube]]
-<!-- from Webster 1913:
+* [[crude sap]]
+* [[elaborated sap]]
+* [[sap ball]]
+* [[sap green]]
+* [[sap poison]]
+* [[sap rot]]
+* [[sap sucker]]
+* [[sap tube]]
 
-=====Derived terms=====
-{{rfc-level|Derived terms at L4+ not in L3 POS section (AutoFormat would have corrected level of Derived terms)}}
+<!-- from Webster 1913:
+====Derived terms====
+{{rfc|Derived terms at L4+ not in L3 POS section (AutoFormat would have corrected level of Derived terms)}}
 *'''[[Sap ball]]''', ''{{botany}}:'' any large fungus of the genus ''[[Polyporus]]''
 *'''[[Sap green]]:''' a dull light green pigment prepared from the juice of the ripe berries of the ''[[Rhamnus catharticus]]'', or [[buckthorn]]. It is used especially by water-color artists
 *'''[[Sap rot]]:''' the dry rot. See under [[dry]]
@@ -41,7 +41,8 @@
 -->
 
 =====Translations=====
-{{trans-top|the juice of plants of any kind}}
+{{trans-top|juice of plant}}
+*Dutch: {{t|nl|sap|n}}
 *Finnish: [[mahla]]
 *French: [[sève]] {{f}}
 *German: [[Saft]] {{m}}
@@ -53,14 +54,16 @@
 *Spanish: [[savia]]
 {{trans-bottom}}
 
-{{trans-top|the sapwood of a tree}}
+{{trans-top|sapwood of a tree}}
+*Dutch: {{t|nl|spint|n}}, {{t|nl|spinthout|n}}
 *German: [[Mantelholz]] {{n}}, [[Splint]] {{m}}
 *Italian: [[alburno]] {{m}}
 {{trans-mid}}
 *Russian: [[сок]] (sok) {{m}}, [[живица]] (živíca) {{f}}
 {{trans-bottom}}
 
-{{trans-top|slang: a saphead}}
+{{trans-top|slang: saphead}}
+*Dutch: {{t|nl|slappeling|m}}, {{t|nl|imbeciel|m}}, {{t|nl|idioot|m}}, {{t|nl|simpele|m}}
 *Finnish: [[hölmö]]
 *Italian: [[sempliciotto]] {{m}}, [[imbecille]] {{m}}, [[stupido]] {{m}}
 {{trans-mid}}
@@ -72,31 +75,48 @@
 {{trans-mid}}
 {{trans-bottom}}
 
-======Translations to be checked======
 {{checktrans}}
-
-*{{ttbc|Dutch}}: sap {{n}}
+{{trans-top|Translations to be checked}}
 *{{ttbc|Interlingua}}: [[succo]]
+{{trans-bottom}}
 
 ===Etymology 2===
-{{F.}} ''[[saper]]'' (compare Spanish ''[[zapar]]'' and Italian ''[[zapare]]'') from ''[[sape]]'' a sort of scythe, from Late Latin ''[[sappa]]'' a sort of mattock
+From {{F.}} ''[[saper]]'' (compare Spanish ''[[zapar]]'' and Italian ''[[zapare]]'') from ''[[sape]]'' ‘sort of scythe’, from {{LL.}} ''[[sappa]]'' ‘sort of mattock’.
 
-====Transitive verb====
+====Noun====
+{{en-noun}}
+
+# {{military}} A [[narrow]] [[ditch]] or [[trench]] made from the foremost [[parallel]] toward the [[glacis]] or [[covert]] way of a [[besiege]]d place by digging under [[cover]] of [[gabions]], etc.
+
+=====Derived terms=====
+*[[sap fagot]]
+*[[sap roller]]
+<!--From Webster 1913:
+*'''Sap fagot,''' ''(Military):'' a [[fascine]] about three feet long, used in sapping, to close the crevices between the [[gabions]] before the [[parapet]] is made
+*'''Sap roller,''' ''(Military):'' a large [[gabion]], six or seven feet long, filled with [[fascine]]s, which the sapper sometimes rolls along before him for protection from the fire of an enemy.
+-->
+=====Translations=====
+{{trans-top|narrow ditch or trench}}
+*Finnish: [[juoksuhauta]] (most often "juoksuhauta" would translate into English as "trench". In Finnish the same word covers also "sap")
+{{trans-mid}}
+{{trans-bottom}}
+
+====Verb====
 {{en-verb|sap|p|ing}}
 
-# To [[subvert]] by digging or wearing away; to mine; to [[undermine]]; to destroy the foundation of.
-#:'''Quotations'''
-#:*Nor safe their dwellings were, for '''sapped''' by floods, / Their houses fell upon their household gods. - [[w:John Dryden|John Dryden]]
-# {{military}} To pierce with saps.
-# To make unstable or infirm; to unsettle; to weaken.
-#:'''Quotations'''
-#:*Ring out the grief that '''saps''' the mind. - [[w:Alfred Tennyson|Alfred Tennyson]]
-# To gradually weaken
-#:to sap one's conscience
+# {{transitive}} To [[subvert]] by [[dig]]ging or [[wear away|wearing away]]; to [[mine]]; to [[undermine]]; to [[destroy]] the [[foundation]] of.
+#* {{rfdate}} ''Nor safe their dwellings were, for '''sapped''' by floods, / Their houses fell upon their household gods.'' — [[w:John Dryden|John Dryden]]
+# {{context|transitive|military}} To [[pierce]] with saps.
+# To make [[unstable]] or [[infirm]]; to [[unsettle]]; to [[weaken]].
+#* {{rfdate}} ''Ring out the grief that '''saps''' the mind.'' — [[w:Alfred Tennyson|Alfred Tennyson]]
+# {{transitive}} To gradually [[weaken]].
+#* ''to '''sap''' one’s conscience''
+# {{intransitive}} To [[proceed]] by mining, or by secretly undermining; to [[execute]] saps — {{rfdate|provide real quote}}W. P. Craighill
+#* {{rfdate}} ''Both assaults carried on by '''sapping'''''. — The Tatler
 
 =====Translations=====
-
 {{trans-top|undermine}}
+*Dutch: {{t|n|ondermijnen}}, {{t|nl|aantasten}}, {{t|nl|ondergraven}}
 *Finnish: [[heikentää]]
 *Italian: [[scalzare]], [[minare]]
 {{trans-mid}}
@@ -107,51 +127,33 @@
 {{trans-bottom}}
 
 {{trans-top|make unstable; weaken}}
+*Dutch: {{t|nl|verzwakken}}, {{t|nl|aantasten}}
 *Finnish: [[uuvuttaa]], [[heikentää]]
 *Italian: [[indebolire]], [[fiaccare]], [[logorare]]
 {{trans-mid}}
 {{trans-bottom}}
 
-====Intransitive verb====
-{{en-verb|sap|p|ing}}
-
-# To proceed by mining, or by secretly undermining; to execute saps - [[W. P. Craighill]]
-#: ''Both assaults carried on by '''sapping'''''. - [[The Tatler]]
-
-=====Translations=====
+{{trans-top|gradually weaken}}
+*Dutch: {{t|nl|knagen}} aan, {{t|nl|aantasten}}
+{{trans-mid}}
+{{trans-bottom}}
 
 {{trans-top|proceed by mining}}
+*Dutch: {{t|nl|ondergraven}}
 {{trans-mid}}
 {{trans-bottom}}
 
-====Noun====
-{{en-noun}}
-
-# {{military}} A narrow ditch or trench made from the foremost parallel toward the glacis or covert way of a besieged place by digging under cover of gabions, etc.
-
-=====Derived terms=====
-*[[sap fagot]]
-*[[sap roller]]
-<!--From Webster 1913:
-*'''Sap fagot,''' ''(Military):'' a [[fascine]] about three feet long, used in sapping, to close the crevices between the [[gabions]] before the [[parapet]] is made
-*'''Sap roller,''' ''(Military):'' a large [[gabion]], six or seven feet long, filled with [[fascine]]s, which the sapper sometimes rolls along before him for protection from the fire of an enemy.
--->
-
-=====Translations=====
-
-{{trans-top|narrow ditch or trench}}
-*Finnish: [[juoksuhauta]] (most often "juoksuhauta" would translate into English as "trench". In Finnish the same word covers also "sap")
-{{trans-mid}}
-{{trans-bottom}}
+[[Category:Liquids]]
+[[Category:Weapons]]
 
 ----
 
 ==Dutch==
 
 ===Noun===
-'''sap''' {{n}}
+{{nl-noun2|n|pen|je}}
 
-# [[sap#English|sap]]
+# [[sap#English|sap]] (fluid in plants)
 # [[juice]]
 
 ----
@@ -159,7 +161,7 @@
 ==Romani==
 
 ===Noun===
-'''sap''' ''m''
+'''sap''' {{m}}
 
 # [[snake]]
 
@@ -185,7 +187,7 @@
 
 # [[wisdom]]
 
-[[Category:Liquids]]
+[[Category:Volapük nouns]]
 
 [[ang:sap]]
 [[fr:sap]]
