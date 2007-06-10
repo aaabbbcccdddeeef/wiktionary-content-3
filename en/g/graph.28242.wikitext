@@ -14,7 +14,7 @@ Shortening of [[graphic]] [[formula]].
 {{en-noun}}
 
 #{{mathematics}} A [[diagram]] displaying data, in particular one showing the relationship between two or more [[variable]]s; specifically, for a function <math>f(x_1, x_2, \ldots, x_n)</math>, the [[set]] of all [[tuple]]s <math>(x_1, x_2, \ldots, x_n, f(x_1, x_2, \ldots, x_n))</math>.
-#{{graphtheory}} An [[ordered pair]] <math>(V,E)</math>, where <math>V</math> is a set of elements called ''[[vertex|vertices]]'' (or ''[[node]]s'') and <math>E</math> is a set of pairs of [[element]]s of <math>V</math>, called ''[[edge]]s''; informally, a set of vertices and a set edges that join these vertices.
+#{{graphtheory}} An [[ordered pair]] <math>(V,E)</math>, where <math>V</math> is a set of elements called ''[[vertex|vertices]]'' (or ''[[node]]s'') and <math>E</math> is a set of pairs of [[element]]s of <math>V</math>, called ''[[edge]]s''; informally, a set of vertices together with a set edges that join these vertices.
 
 ====Synonyms====
 *(''in graph theory''): [[undirected graph]]
