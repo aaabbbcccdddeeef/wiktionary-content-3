@@ -1,11 +1,24 @@
+{{wikipedia}}
 ==English==
 
+===Etymology===
+From ''[[-ary]]'', based on a Latin root.  Compare ''[[adicity]]'' and ''[[adinity]]'', based on the corresponding Greek root.
+{{rfe}}
+{{rfp}}
+
 ===Noun===
-'''arity'''
-# ''(programming):'' The number of [[argument|arguments]] (a.k.a. [[parameter|parameters]]) that are being passed to a [[function]]
+{{en-noun|arities}}
 
-===Translations===
+# {{context|logic|math|computer science}} The number of [[argument]]s or [[operand]]s a [[function]] or [[operation]] takes.  For a [[relation]], the number of [[domain]]s in the [[correspond]]ing [[Cartesian product]].
 
-* German : stelligkeit
-* French : arité
-* [[Ido]] : parametro -op
+====Synonyms====
+* {{italbrac|number of arguments}} [[adinity]], [[adicity]], [[type]], [[rank]]
+
+====Translations====
+{{trans-top|number of arguments}}
+*Dutch: {{t|nl|ariteit|f}}, {{t|nl|plaatsigheid|f}}
+*French: {{t|fr|arité|m}}
+*German: {{t|nl|Stelligkeit|f}}
+*[[Ido]]: {{t|io|parametro}} [[-op]]
+{{trans-mid}}
+{{trans-bottom}}
