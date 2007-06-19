@@ -4,13 +4,13 @@
 {{wikipedia}}
 
 ===Etymology===
-From Middle English '''[[percynne]]''' < Middle French '''[[persien]]''' < Latin '''*[[Persianus]]''' < Latin '''[[Persia]]''' < Greek '''[[Περσίς]]''' < Old Persian '''[[Pārsa]]'''.
+From {{ME.}} '''[[percynne]]''' < {{MF.}} '''[[persien]]''' < {{L.}} '''*[[Persianus]]''' < {{L.}} '''[[Persia]]''' < {{AGr.}} '''[[Περσίς]]''' < {{OP.}} '''[[Pārsa]]'''.
 
 ===Pronunciation===
-*Rhymes: [[Rhymes:English:-ɜː(r)ʒən|-ɜː(r)ʒən]]
+*{{rhymes|ɜː(r)ʒən}}
 
 ===Proper noun===
-'''Persian''' (''plural:'' [[Persians]])
+{{en-proper noun|Persians}}
 
 # The main ethnic group of [[Iran]].
 # A group of very similar languages spoken primarily in Iran, Afghanistan, and Tajikistan, Persian belongs to the Southwestern branch of the [[Iranian]] subfamily of the Indo-Iranian family of languages. Indo-Iranian itself is a subfamily of the Indo-European language family. Closely related languages include [[Kurdish]], [[Pashto]], and [[Avestan]].
@@ -25,7 +25,7 @@ From Middle English '''[[percynne]]''' < Middle French '''[[persien]]''' < Latin
 {{Persian-Farsi}}
 
 ===Adjective===
-'''Persian'''
+{{en-adj|-}}
 
 # Describes a person, place or object referring to Persia or Persians.
 
@@ -36,7 +36,7 @@ From Middle English '''[[percynne]]''' < Middle French '''[[persien]]''' < Latin
 *[[Farsi]]
 
 ====Translations====
-{{top}}
+{{trans-top}}
 *Arabic: {{ARchar|[[فارسي]]}} (fársi)
 *Bulgarian: [[персиец]] (persíets) {{m}}, [[персийка]] (persíjka) {{f}} (1)
 *Danish: [[persianer]] (2)
@@ -51,8 +51,8 @@ From Middle English '''[[percynne]]''' < Middle French '''[[persien]]''' < Latin
 *Hindi: [[फ़ारसी]] (farsī) (1)
 *Hungarian: [[perzsiai]] (2)
 *Indonesian: [[farsi]] (2)
-{{mid}}
 *Italian: [[persiano]] (2), [[persico]]
+{{trans-mid}}
 *Korean: [[페르샤의]] (pereusya-ui) (2)
 *Persian: {{FAchar|[[ایرانی]]}} (irâni), {{FAchar|[[فارسی]]}} (fârsi)
 *Polish: [[perski]] (2)
@@ -64,20 +64,20 @@ From Middle English '''[[percynne]]''' < Middle French '''[[persien]]''' < Latin
 *Swedish: [[perser]] {{m}} {{p}}, [[persiska]] {{f}} (1,2)
 *Turkish: [[farsça]] (2)
 *Urdu: {{FAchar|[[ایرانی]]}} (irâni), {{FAchar|[[فارسی]]}} (fârsi)
-{{bottom}}
+{{trans-bottom}}
 
 ===Adjective===
-'''Persian'''
+{{en-adj}}
 
-# of, from, or pertaining to Persia.
-# of or pertaining to the Persian people.
-# of or pertaining to the Persian language.
+# Of, from, or pertaining to Persia.
+# Of or pertaining to the Persian people.
+# Of or pertaining to the Persian language.
 
 ====Synonyms====
 *[[Iranian]] (2)
 
 ====Translations====
-{{top}}
+{{trans-top}}
 *Azeri: [[fars]]
 *Bulgarian: [[персийски]] (persíjski) {{m}} & {{p}}
 *Chinese: [[波斯]]的 (bōsī de) (1), [[波斯人]]的 (bōsīrén de) (2); [[波斯语]]的 (bōsīyǔ de) (3)
@@ -88,6 +88,7 @@ From Middle English '''[[percynne]]''' < Middle French '''[[persien]]''' < Latin
 *French: [[persan]]
 *German: [[persisch]]
 *Greek: [[περσικός]] (persikós)
+{{trans-mid}}
 *Japanese: [[ペルシア]] (pérushia) (1), [[ペルシアの]] (pérushia no) (2), [[ペルシア人]] (pérushia-jin) (3)
 {{mid}}
 *Kurdish: [[farisî]]
@@ -102,7 +103,7 @@ From Middle English '''[[percynne]]''' < Middle French '''[[persien]]''' < Latin
 *[[Tatar]]: [[farsí]]
 *Turkish: [[İran]]
 *Urdu: {{URchar|[[ایرانی]]}} (irâni), {{URchar|[[فارسی]]}} (fârsi)
-{{bottom}}
+{{trans-bottom}}
 
 ===External links===
 {{ethnologue|code=pes}}
@@ -110,7 +111,6 @@ From Middle English '''[[percynne]]''' < Middle French '''[[persien]]''' < Latin
 
 [[Category:Cats]]
 [[Category:Languages]]
-[[Category:Persian derivations]]
 
 [[fa:Persian]]
 [[gu:Persian]]
