@@ -1,4 +1,5 @@
 ==English==
+{{wikipedia}}
 
 ===Pronunciation===
 */krĭptŏg'''ʹ'''rəfē/
@@ -8,16 +9,17 @@
 ===Etymology===
 From the Greek words kryptós ([[hidden]]) and gráphein (to [[write]])
 
-* '''1658:''' [[w:Thomas Browne|Sir Thomas Browne]] (first use in English)
-*: we might abate...the strange '''cryptography''' of Gaffarell in his Starrie Booke of Heaven
-
 ===Noun===
-'''cryptography'''[[Category:English nouns that lack inflection template]]
+{{en-noun|-}}
 
-# The discipline concerned with communication security (eg, confidentiality of messages, integrity of messages, sender authentication, non-repudiation of messages, and many other related issues); all in the presence of active attackers. Cryptography is not limited to pencil and paper, nor the use of computers, but to the general field and possible solutions to such issues. Subfields include [[encode|encoding]], [[decode|decoding]], [[cryptanalysis]], [[code]]s, [[cipher]]s, etc.
+# The [[discipline]] concerned with [[communication]] [[security]] (eg, [[confidentiality]] of messages, [[integrity]] of messages, sender [[authentication]], non-[[repudiation]] of messages, and many other related issues). 
+#* '''1658:''', [[w:Thomas Browne|Sir Thomas Browne]] (first use in English),
+#*: We might abate...the strange '''cryptography''' of Gaffarell in his Starrie Booke of Heaven.
 
 ====Usage notes====
-In many languages, though less so in English, 'cryptology' is also used with the meaning given above. Cryptography is very closely connected with [[information theory]] as the only adequate theory for it is based on work done in that field, beginning around WWII at Bell Laboratories. Cryptography is also somewhat related to [[steganography]] which is concerned with concealing the very existence of a message. Contrast this with cryptography's indifference, from a confidentiality viewpoint, to whether a message is copied by some attacker.
+Cryptography is not limited to pencil and paper, nor to computing, but to the general field and possible solutions to such issues.  Subfields include [[encode|encoding]], [[decode|decoding]], [[cryptanalysis]], [[code]]s, [[cipher]]s, etc.
+
+In many languages, though less so in English, "cryptology" is also used with the meaning given above. Cryptography is very closely connected with [[information theory]] as the only adequate theory for it is based on work done in that field, beginning around WWII at Bell Laboratories. Cryptography is also somewhat related to [[steganography]] which is concerned with concealing the very existence of a message. Contrast this with cryptography's indifference, from a confidentiality viewpoint, to whether a message is copied by some attacker.
 
 ====Translations====
 *Bulgarian: [[криптография]] {{f}}
@@ -29,11 +31,10 @@ In many languages, though less so in English, 'cryptology' is also used with the
 *Portuguese: [[criptografia]] {{f}}
 *Chinese: [[密码学]] ''名词''
 
-====See also====
+====Related terms====
 * [[cryptology]]
 
-====External links====
-* [http://www.wikipedia.org/wiki/Cryptography Wikipedia page on cryptography]
+===References===
 * [http://www.cryptographyworld.com An introduction to cryptography]
 
 [[Category:Cryptography|*]]
