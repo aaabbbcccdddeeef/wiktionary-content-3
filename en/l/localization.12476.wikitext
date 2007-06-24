@@ -1,37 +1,58 @@
+{{see|localisation}}
 {{wikipedia}}
 ==English==
 
 ===Etymology===
-From [[localize]] + [[-ation]]; compare French ''[[localisation#French|localisation]]''
+From [[localize]] + [[-ation]]; compare French ''[[#French|localisation]]''
 
 ===Alternative spellings===
 * [[localisation]] (''British'')
 
 ===Noun===
-'''localization'''  (''plural:'' '''[[localizations]]''')
-# The act of [[localize|localizing]].
+{{en-noun}}
+
+# The [[act]] of [[localize|localizing]].
 # The [[state]] of being localized.
-# (''software engineering'') The act or process of making a product [[suitable]] for use in a particular country or [[region]], typically by [[translating]] text into the [[language]] of that country or region and, if necessary, ensuring support of non-Latin [[character set]]s.  Abbreviation: [[l10n]] ''(numerals one and zero, for the number of characters between the 'L' and 'N' usually in lowercase.)''
+# {{context|software engineering}} The act or [[process]] of making a [[product]] [[suitable]] for use in a particular [[country]] or [[region]], typically by [[translate|translating]] text into the [[language]] of that country or region and, if necessary, ensuring [[support]] of non-Latin [[character set]]s.
 
-===Derived expressions===
-*[[cerebral localization]]
+====Derived expressions====
+* [[l10n]], [[L10n]]
+* [[cerebral localization]]
 
-===See also===
-*[[internationalization]] / [[i18n]]
+====Related terms====
+* [[internationalization]] / [[i18n]]
 
 ====Translations====
+{{trans-top|act of localizing}}
+*Dutch: {{t|nl|localisatie|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|state of being localized}}
+*Dutch: {{t|nl|localisatie|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|software engineering: act or process of making a product suitable for use in a particular country or region}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans}}
+{{trans-top|Translations to be checked}}
 *Chinese: [[地方化]] (difang-hua)
-*Dutch: [[localisatie]]
-*French: [[localisation]]
+*Dutch: {{t|nl|localisatie|f}}
+*French: {{t|fr|localisation|f}}
 *German: [[Lokalisation]]
 *Greek: [[εντοπισμός]] (entopismós)
 *Italian: [[localizzazione]]
+{{trans-mid}}
 *Japanese: [[局在化]] (kyokuzaika), [[ローカライゼーション]] (rookaraizeeshon)
 *Korean: [[지방화]]
-*Latin: [[localizatio]] ''nominative'', [[localizationis]] ''genitive''
+*Latin: [[localizatio]]
 *Portuguese: [[localização]]
 *Russian: [[локализация]]
 *Spanish: [[localización]]
+{{trans-bottom}}
 
 [[id:localization]]
 [[it:localization]]
