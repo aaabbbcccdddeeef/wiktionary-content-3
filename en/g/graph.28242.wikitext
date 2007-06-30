@@ -13,8 +13,8 @@ Shortening of [[graphic]] [[formula]].
 ===Noun===
 {{en-noun}}
 
-#{{mathematics}} A [[diagram]] displaying data, in particular one showing the relationship between two or more [[variable]]s; specifically, for a function <math>f(x_1, x_2, \ldots, x_n)</math>, the [[set]] of all [[tuple]]s <math>(x_1, x_2, \ldots, x_n, f(x_1, x_2, \ldots, x_n))</math>.
-#{{graphtheory}} An [[ordered pair]] <math>(V,E)</math>, where <math>V</math> is a set of elements called ''[[vertex|vertices]]'' (or ''[[node]]s'') and <math>E</math> is a set of pairs of [[element]]s of <math>V</math>, called ''[[edge]]s''; informally, a set of vertices together with a set edges that join these vertices.
+# {{mathematics}} A [[diagram]] displaying data, in particular one showing the relationship between two or more [[variable]]s; specifically, for a function <math>f(x_1, x_2, \ldots, x_n)</math>, the [[set]] of all [[tuple]]s <math>(x_1, x_2, \ldots, x_n, f(x_1, x_2, \ldots, x_n))</math>.
+# {{graphtheory}} An [[ordered pair]] <math>(V,E)</math>, where <math>V</math> is a set of elements called ''[[vertex|vertices]]'' (or ''[[node]]s'') and <math>E</math> is a set of pairs of [[element]]s of <math>V</math>, called ''[[edge]]s''; informally, a set of vertices together with a set edges that join these vertices.
 
 ====Synonyms====
 *(''in graph theory''): [[undirected graph]]
@@ -35,20 +35,18 @@ Shortening of [[graphic]] [[formula]].
 
 ====Translations====
 
-'''mathematical diagram'''
-{{top}}
+{{trans-top|mathematical diagram}}
 *Dutch: [[grafiek]]
 *Esperanto: [[grafeo]]
 *French: [[graphique]] {{m}}
 *German: [[Graph]] {{m}}, [[Funktionsgraph]] {{m}}
-{{mid}}
+{{trans-mid}}
 *Japanese: [[グラフ]] (gurafu)
 *Portuguese: [[gráfico]] {{m}}
 *Swedish: [[diagram]] {{n}}, [[graf]] {{c}}, [[kurva]] {{c}}
-{{bottom}}
+{{trans-bottom}}
 
-'''in graph theory'''
-{{top}}
+{{trans-top|in graph theory}}
 *Bulgarian: [[граф#Bulgarian|граф]] {{m}}
 *Chinese: [[图]] (tú)
 *Dutch: [[graaf]]
@@ -56,14 +54,14 @@ Shortening of [[graphic]] [[formula]].
 *German: [[Graph]] {{m}}
 *Hungarian: [[gráf]]
 *Italian: [[grafo]] {{m}}
-{{mid}}
+{{trans-mid}}
 *Japanese: [[グラフ]] (gurafu)
 *Polish: [[graf]]
 *Russian: [[граф#Russian|граф]] (graf) {{m}}
 *Slovak: [[graf]] {{m}}
 *Swedish: [[graf]] {{c}}
 *Thai: {{THchar|[[กราฟ]]}} (gràaf)
-{{bottom}}
+{{trans-bottom}}
 
 =====Translations to be checked=====
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
@@ -73,16 +71,16 @@ Shortening of [[graphic]] [[formula]].
 *{{ttbc|Spanish}}: [[grafo]] {{m}}
 
 ===Transitive verb===
+{{rfc-trverb|Transitive verb}}
 {{en-verb}}
 
-#{{mathematics}} To draw a graph of (a function, data).
+# {{mathematics}} To draw a graph of (a function, data).
 
 ====Translations====
 
-'''draw a graph of'''
-{{top}}
-{{mid}}
-{{bottom}}
+{{trans-top|draw a graph of}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ===See also===
 *[[plot]]
