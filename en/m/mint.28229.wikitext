@@ -1,28 +1,26 @@
 {{wikipedia|dab=mint (disambiguation)|mint}}
 ==English==
 
-{{wikipedia}}
 {{rfc}}
 
-===Etymology===
-# From {{L.}} [[moneta]].
-# From the {{Gr.}} mythological figure ''[[Minthe]]''.
-
 ===Pronunciation===
-*Rhymes: [[Rhymes:English:-ɪnt|-ɪnt]]
+*{{IPA|/mɪnt/}}
+*{{rhymes|ɪnt}}
 
-===Adjective===
-{{en-adj|ier}}
+===Etymology 1===
+From {{L.}} '''[[moneta|monēta]]''' "place for making coins" < the temple of Juno Moneta (named for '''[[Moneta|Monēta]]''', mother of the Muses) where coins were made.
 
-# In good condition
+====Adjective====
+{{en-adj|-}}
+
+# In [[good]] [[condition]].
 #: ''in mint condition''.
-# {{slang}} Very good
+# {{context|numismatics}} In near-[[perfect]] condition; [[uncirculated]].
+# {{context|philately}} [[unused|Unused]] with original gum; as issued originally.
+# {{slang}} Very good.
 #: ''that's mint''
-# {{context|numismatics}} In near-perfect condition.
-# {{context|Philately}} Unused with original gum. As issued originally.
-# {{colour}} of a green colour, like that of mint.
 
-====Translations====
+=====Translations=====
 {{trans-top|in good condition}}
 *Dutch: [[piekfijn]], [[piekfijne]], [[ongeschonden]]
 *Finnish: [[virheetön]]
@@ -45,27 +43,15 @@
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|colour}}
-*Catalan: [[menta]]
-*Finnish: [[mintunvihreä]]
-{{trans-mid}}
-{{trans-bottom}}
-
-=====Translations to be checked=====
-{{checktrans}}
-<!--Remove this section once all of the translations below have been moved into the tables above.-->
-*{{ttbc|Romanian}}: [[mentă]] {{f}} (1)
-*{{ttbc|Spanish}}: [[menta]] {{f}} (1)
-
-===Noun===
+====Noun====
 {{en-noun}}
 
 # A building or institution where money (originally just coins) is produced under government licence.
 # A large amount of money.
 #:''worth a mint''
 
-====Translations====
-{{trans-top|money-producing building/institution}}
+=====Translations=====
+{{trans-top|money-producing building or institution}}
 *Catalan: [[seca]] {{f}}
 *Czech: [[mincovna]]
 *Dutch: [[munt]] {{m}}
@@ -88,17 +74,63 @@
 {{trans-mid}}
 {{trans-bottom}}
 
-===Noun===
-[[Image:Mint.jpg|thumb|right|The mint plant.]]
+====Verb====
+{{en-verb}}
+
+# {{transitive}} To reproduce (coins), usually en masse, under licence.
+
+=====Translations=====
+{{trans-top|to reproduce}}
+*Dutch: [[munten]]
+*Finnish: [[lyödä]] (''rahaa'', ''kolikoita'')
+*Italian: [[coniare]]
+{{trans-mid}}
+*Romanian: [[bate monedă]], [[emite]]
+*Russian: [[чеканить]] (čekánit')
+*Slovene: [[kovati denar]]
+*Swedish: [[mynta]], [[prägla]]
+{{trans-bottom}}
+
+====Derived terms====
+*[[mintage]]
+*[[minted]]
+*[[mintmark]]
+
+====See also====
+*[[bullion]]
+
+===Etymology 2===
+From {{L.}} [[menta]] < {{AGr.}} mythological figure ''[[Minthe]]''.
+
+====Adjective====
+{{en-adj|ier}}
+
+# {{colour}} Of a [[green]] colour, like that of the mint plant.
+
+=====Translation=====
+{{trans-top|colour}}
+*Catalan: [[menta]]
+*Finnish: [[mintunvihreä]]
+{{trans-mid}}
+{{trans-bottom}}
+
+======Translations to be checked======
+{{checktrans}}
+<!--Remove this section once all of the translations below have been moved into the tables above.-->
+*{{ttbc|Romanian}}: [[mentă]] {{f}} (1)
+*{{ttbc|Spanish}}: [[menta]] {{f}} (1)
+
+====Noun====
+[[Image:Mint.jpg|thumb|right|A mint plant.]]
 {{en-noun}}
 
-# A plant of the family ''Labiatae''.
-# The flavouring of the plant, either a sweet, a jelly or sauce.
+# Any of several [[plant]]s of the family [[Labiatae]], typically [[aromatic]] with [[square]] stems.
+# The [[flavour]]ing of the plant, either a sweet, a jelly or sauce.
 # {{colour}} a green colour, like that of mint.
 #:<table><tr><td>mint colour: &nbsp;</td><td bgcolor="#BAC483" width="80">&nbsp; </td></tr></table>
 # A mint-flavored [[candy]], often eaten to sweeten the smell of the [[breath]].
 
-====Translations====
+=====Translations=====
 {{trans-top|plant}}
 *Catalan: [[menta]] {{f}}
 *Chinese: [[薄荷]] (bóhé)
@@ -134,60 +166,22 @@
 {{trans-mid}}
 {{trans-bottom}}
 
-=====Translations to be checked=====
+======Translations to be checked======
 {{checktrans}}
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 *{{ttbc|Spanish}}: [[menta]] {{f}} (1), [[dineral]] {{m}} (3), [[fortuna]] {{f}} (3)
 
-====See also====
-*[[salvia]]
-
-===Verb===
-{{en-verb}}
-
-# {{transitive}} To reproduce (coins), usually en masse, under licence.
-
-====Translations====
-{{trans-top|to reproduce}}
-*Dutch: [[munten]]
-*Finnish: [[lyödä]] (''rahaa'', ''kolikoita'')
-*Italian: [[coniare]]
-{{trans-mid}}
-*Romanian: [[bate monedă]], [[emite]]
-*Russian: [[чеканить]] (čekánit')
-*Slovene: [[kovati denar]]
-*Swedish: [[mynta]], [[prägla]]
-{{trans-bottom}}
-
-===Derived terms===
-{{top3}}
-*[[bluecurls]]
-*[[calamint]]
-*[[catmint]]
+====Derived terms====
 *[[horsemint]]
+*[[mint-flavored]], [[mint-flavoured]]
 *[[mint jelly]]
 *[[mint julep]]
-{{mid3}}
 *[[mint sauce]]
-*[[mintage]]
-*[[minted]]
-*[[mint-flavored]], [[mint-flavoured]]
-*[[mintmark]]
-{{mid3}}
 *[[minty]]
 *[[peppermint]]
 *[[spearmint]]
-*[[stone mint]]
-*[[water mint]]
-{{bottom}}
 
-===Related terms===
-*[[bullion]]
-*[[crème de menthe]]
-*[[menthol]]
-*[[sequin]]
-
-===See also===
+====See also====
 {{top3}}
 *[[balm]]
 *[[bee balm]]
@@ -219,6 +213,17 @@
 *[[Wiktionary Appendix:Colours|Appendix:Colours]]
 {{bottom}}
 
+===Derived terms===
+*[[calamint]]
+*[[catmint]]
+*[[stone mint]]
+*[[water mint]]
+
+[[Category:Colors]]
+[[Category:Greens]]
+[[Category:Plants]]
+[[Category:Spices and Herbs]]
+
 ----
 
 ==Hungarian==
@@ -228,11 +233,7 @@
 
 # [[as]], [[like]]
 
-[[Category:Colors]]
-[[Category:Greens]]
 [[Category:Hungarian conjunctions]]
-[[Category:Plants]]
-[[Category:Spices and Herbs]]
 
 [[fa:mint]]
 [[fr:mint]]
