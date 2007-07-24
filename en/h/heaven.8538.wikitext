@@ -49,7 +49,7 @@
 
 ====Translations====
 {{trans-top|sky}}
-*Arabic: {{ARchar|[[سماء|سَمَاء]]}} {{Unicode|(samáː’)}} {{m}} and {{f}}, {{ARchar|[[سماوات|سَمَاوَات]]}} {{Unicode|(samawáːt)}} {{p}}, {{ARchar|[[سموات|سَمَوَات]]}} {{Unicode|(samawáːt)}} {{p}}
+*Arabic: {{ARchar|[[سماء|سَمَاء]]}} {{unicode|(samáː’)}} {{m}} and {{f}}, {{ARchar|[[سماوات|سَمَاوَات]]}} {{unicode|(samawáːt)}} {{p}}, {{ARchar|[[سموات|سَمَوَات]]}} {{unicode|(samawáːt)}} {{p}}
 *[[Aramaic]]:
 *:[[Syriac]]: [[ܫܡܝܐ]] (shmayā, shmayo) {{c}} {{p}}
 *:Hebrew: [[שמיא]] (shmayā, shmayo) {{c}} {{p}}
@@ -84,7 +84,7 @@
 {{trans-bottom}}
 
 {{trans-top|paradise}}
-*Arabic: {{ARchar|[[جنة|جَنّةٌ]]}} {{Unicode|(jánna)}} {{f}}
+*Arabic: {{ARchar|[[جنة|جَنّةٌ]]}} {{unicode|(jánna)}} {{f}}
 *[[Aramaic]]:
 *:[[Syriac]]: [[ܦܪܕܝܣܐ]] (pardaysā, pardayso) {{m}}
 *:Hebrew: [[פרדיסא]] (pardaysā, pardayso) {{m}}
@@ -123,9 +123,11 @@
 {{trans-mid}}
 {{trans-bottom}}
 
-[[Category:Religion]]
+<!--Not an astronomical term... -->
+
+[[Category:Astronomy]]
 [[Category:God]]
-<!--Not an astronomical term... [[Category:Astronomy]]-->
+[[Category:Religion]]
 
 [[ang:heaven]]
 [[zh-min-nan:heaven]]
