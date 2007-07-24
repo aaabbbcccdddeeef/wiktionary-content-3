@@ -1,15 +1,14 @@
+{{see|heavens}}
 {{wikipedia|dab=heaven (disambiguation)|heaven}}
 ==English==
 
 {{rank|Henry|society|boat|798|heaven|v.|difficult|top}}
 
 ===Etymology===
-{{ME.}} ''heven'' < {{OE.}} ''[[heofon]]'', possibly < Proto-Germanic *''[[khiminaz]]'' < {{PIE.}} base ''*kem-''/''*kam-'' (“to cover”).
+{{ME.}} ''heven'', from {{OE.}} ''[[heofon]]'', possibly from [[Proto-Germanic]] *''khiminaz'', from {{PIE.}} base *''kem-''/*''kam-'', to cover
 
 ===Pronunciation===
-*{{AHD|hĕv'ən}}
-*{{IPA|/ˈhɛvən/}}
-*{{SAMPA|/"hEv@n/}}
+*{{enPR|hĕv'ən}}, {{IPA|/ˈhɛvən/}}, {{SAMPA|/"hEv@n/}}
 *{{audio|en-us-heaven.ogg|Audio (US)}}
 *Rhymes: [[Rhymes:English:-ɛvən|-ɛvən]]
 
@@ -17,27 +16,42 @@
 {{wikipedia}}
 {{en-noun}}
 
-# The [[sky]].
-# {{theology}} The [[paradise]] of the [[afterlife]] in certain [[:w:religion|religions]].
-# The home of the [[god]] or the [[deity]].
+# {{italbrac|often in plural}} The [[sky]].
+# {{context|theology}} The [[paradise]] of the [[afterlife]] in certain [[religion]]s, considered to be the home of the [[god]] or gods of those religions.
 #: ''Mommy’s gone to '''heaven''' to be with God.''
+# {{italbrac|used without the article}} A [[blissful]] place or experience.
+#:''Soaking in a warm bath after a long day at work is sheer heaven.''
 
 ====Synonyms====
-*(sky): [[firmament]], [[sky]]
+*{{italbrac|sky}}: [[firmament]], [[sky]]
+*{{italbrac|paradise}}: [[paradise]]
+*{{italbrac|blissful place or experience}}: [[delight]], [[dream]], [[paradise]]
 
 ====Antonyms====
-*(paradise): [[hell]]
+*{{italbrac|sky}}: [[firmament]], [[sky]]
+*{{italbrac|paradise}}: [[hell]]
+*{{italbrac|blissful place or experience}}: [[horror]], [[nightmare]]
 
-====Related terms====
-*[[heavenly]]
+====Derived terms====
+*[[for heaven's sake]]
+<!--given at "heavens": *[[good heavens]]!-->
+*[[heaven forbid]]!
+*[[heavenise]], [[heavenize]]
+*[[heaven knows]]
+*[[heavenly]]<!--whence "heavenly body", etc-->
+<!--given at "heavens": *[[heavens above]]!-->
 *[[heaven-sent]]
 *[[heavenwards]]
+*[[hog heaven]]
+*[[Kingdom of Heaven]]
+*[[seventh heaven]]
+*[[stink to high heaven]]
 
 ====Translations====
 {{trans-top|sky}}
 *Arabic: {{ARchar|[[سماء|سَمَاء]]}} {{Unicode|(samáː’)}} {{m}} and {{f}}, {{ARchar|[[سماوات|سَمَاوَات]]}} {{Unicode|(samawáːt)}} {{p}}, {{ARchar|[[سموات|سَمَوَات]]}} {{Unicode|(samawáːt)}} {{p}}
-*Aramaic:
-*:Syriac: [[ܫܡܝܐ]] (shmayā, shmayo) {{c}} {{p}}
+*[[Aramaic]]:
+*:[[Syriac]]: [[ܫܡܝܐ]] (shmayā, shmayo) {{c}} {{p}}
 *:Hebrew: [[שמיא]] (shmayā, shmayo) {{c}} {{p}}
 *Chinese: [[天空]] (tiānkōng)
 *Dutch: [[hemel]] {{m}}
@@ -45,7 +59,7 @@
 *Finnish: [[taivas]]
 *French: [[ciel]] {{m}}
 *German: [[Himmel]] {{m}}
-*Greek: [[ουρανός]] (uranós) {{m}}, [[ουράνια]] (uránia) ''n/pl''
+*Greek, Modern: [[ουρανός]] (uranós) {{m}}, [[ουράνια]] (uránia) {{npl}}
 *Hebrew: [[שמים]] (šamayím) {{f}}
 *Hungarian: [[ég]], [[mennyek]]
 *Interlingua: [[celo]]
@@ -56,7 +70,7 @@
 *Latin: [[caelum]] {{n}}
 *Latvian: [[debesis]] {{f}} {{p}}
 *Lithuanian: [[dangus]] {{m}}
-*Manchu: [[abka]]
+*[[Manchu]]: [[abka]]
 *Polish: [[niebo]] {{n}}
 *Portuguese: [[céu]] {{m}}
 *Russian: [[небо]] (nébo) {{n}}, [[небо|небеса]] (nebesá) {{p}}
@@ -71,8 +85,8 @@
 
 {{trans-top|paradise}}
 *Arabic: {{ARchar|[[جنة|جَنّةٌ]]}} {{Unicode|(jánna)}} {{f}}
-*Aramaic:
-*:Syriac: [[ܦܪܕܝܣܐ]] (pardaysā, pardayso) {{m}}
+*[[Aramaic]]:
+*:[[Syriac]]: [[ܦܪܕܝܣܐ]] (pardaysā, pardayso) {{m}}
 *:Hebrew: [[פרדיסא]] (pardaysā, pardayso) {{m}}
 *Chinese: [[天堂]] (tiāntáng)
 *Dutch: [[hemel]] {{m}}, [[paradijs]] {{n}}
@@ -81,7 +95,7 @@
 *Filipino: [[paraiso]], [[langit]]
 *Finnish: [[taivas]], [[paratiisi]]
 *German: [[Himmel]] {{m}}
-*Greek: [[παράδεισος]] (paráðisos) {{m}}, [[ουράνια]] (uránia) {{npl}}
+*Greek, Modern: [[παράδεισος]] (parádisos) {{m}}, [[ουράνια]] (uránia) {{npl}}
 *Hebrew: [[גן־עדן]] (gan-éden) {{f}}
 *Hungarian: [[mennyország]], [[paradicsom]]
 *[[Interlingua]]: [[celo]], [[paradiso]]
@@ -105,9 +119,13 @@
 *Turkish: [[cennet]]
 {{trans-bottom}}
 
+{{trans-top|blissful place or experience}}
+{{trans-mid}}
+{{trans-bottom}}
+
 [[Category:Religion]]
 [[Category:God]]
-[[Category:Astronomy]]
+<!--Not an astronomical term... [[Category:Astronomy]]-->
 
 [[ang:heaven]]
 [[zh-min-nan:heaven]]
