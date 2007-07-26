@@ -27,30 +27,35 @@
 * [[reproduction]]
 
 ====Translations====
-{{trans-top|First in a series}}
+{{trans-top|first in a series}}
+*Finnish: [[alkuperäinen]], [[ensimmäinen]]
 *German: [[#German|original]]
 {{trans-mid}}
 *Russian: [[первоначальный]] (p'ervonačál'nyj), [[первичный]] (p'ervíčnyj), [[исходный]] (isχódnyj)
 {{trans-bottom}}
 
-{{trans-top|Newly created}}
+{{trans-top|newly created}}
+*Finnish: [tuore]], [[alkuperäinen]]
 *German: [[#German|original]]
 {{trans-mid}}
 *Russian: [[новый]] (nóvyj), [[свежий]] (sv'éžij)
 {{trans-bottom}}
 
-{{trans-top|Fresh, different}}
+{{trans-top|fresh, different}}
+*Finnish: [[tuore]], [[omaperäinen]], [[originelli]], [[omintakeinen]]
 *German: [[originell]]
 {{trans-mid}}
 *Russian: [[свежий]] (sv'éžij), [[своеобразный]] (svojeobráznyj), [[оригинальный]] (originál'nyj)
 {{trans-bottom}}
 
-{{trans-top|Pioneering}}
+{{trans-top|pioneering}}
+*Finnish: [[alkuperäinen]], [[ensimmäinen]]
 *German: [[ursprünglich]]
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|Having as its origin}}
+{{trans-top|having as its origin}}
+*Finnish: [[peräisin]]
 *German: [[ursprünglich]]
 {{trans-mid}}
 {{trans-bottom}}
@@ -58,7 +63,6 @@
 {{checktrans}}
 *{{ttbc|Chinese}}: [[原始]]的
 *{{ttbc|Dutch}}: [[origineel]], [[originele]]
-*{{ttbc|Finnish}}: [[alkuperäinen]] (1, 2, 5), [[ensimmäinen]] (1, 4), [[omaperäinen]] (3), [[originelli]] (3, ''of people''), [[omintakeinen]] (3), [[ominainen]] (5), [[peräisin]] (5)
 *{{ttbc|French}}: original {{m}}, [[originale]] {{f}}
 *{{ttbc|Greek}}: [[αρχικός]] {{m}}, [[αρχική]] {{f}}, [[αρχικό]] {{n}}
 *{{ttbc|Italian}}: [[originale]] ''m/f''
@@ -69,14 +73,12 @@
 *{{ttbc|Swedish}}: [[original-]] (1), [[ursprunglig]] (1), [[originell]] (3),
 
 ===Noun===
-'''original''' ([[originals]])
+{{en-noun}}
 
-# An object from which all later copies and variations are derived
-#: ''This manuscript is the original''
+# An object (e.g. narrative work) from which all later copies and variations are derived
+#: ''This manuscript is the '''original'''''
 # A person with a unique and interesting personality
-#: ''You're an original''
-# A narrative work from which later narrative works are written after. The first-published of any series of works.
-#: ''series original''
+#: ''You're an '''original'''''
 
 ====Antonyms====
 
@@ -85,21 +87,33 @@
 * [[reproduction]]
 
 ====Translations====
-*Chinese: [[原物]] (yuanwu)
-*Crimean Tatar: [[öz]]
-*Dutch: [[origineel]]
-*Finnish: [[alkuperäinen]] (1), [[alkuperäiskappale]] (1), [[originelli]] [[ihminen]] (2), [[omintakeinen]] [[ihminen]] (2)
-*French: original {{m}}
-*German: [[Vorlage]] {{f}} (1), [[Original]] {{n}} (1,2,3)
-*Greek: [[πρωτότυπος]]
-*Italian: [[originale]] {{m}}
-*Japanese: [[原物]] (hanbutsu)
-*Korean: [[고유]] (goyu)
-*Latin: [[originalis]]
-*Portuguese: original {{m}}
-*Russian: [[оригинал]] {{m}} (original)
-*Spanish: original {{f}}
-*Swedish: [[original#Swedish|original]] {{n}} (1, 2, 3), [[förlaga]] {{c}}
+{{trans-top|object from which all later copies and variations are derived}}
+*Finnish: [[alkuperäinen]], [[alkuperäiskappale]], [[originaali]]
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|person with a unique and interesting personality}}
+*Finnish: [[ainutlaatuinen]] [[ihminen]], [[originelli]] [[persoona]]
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans}}
+{{trans-top|translations to be checked}
+*{{ttbc|Chinese}}: [[原物]] (yuanwu)
+*{{ttbc|Crimean Tatar}}: [[öz]]
+*{{ttbc|Dutch}}: [[origineel]]
+*{{ttbc|French}}: original {{m}}
+*{{ttbc|German}}: [[Vorlage]] {{f}} (1), [[Original]] {{n}} (1,2,3)
+*{{ttbc|Greek}}: [[πρωτότυπος]]
+*{{ttbc|Italian}}: [[originale]] {{m}}
+*{{ttbc|Japanese}}: [[原物]] (hanbutsu)
+*{{ttbc|Korean}}: [[고유]] (goyu)
+*{{ttbc|Latin}}: [[originalis]]
+*{{ttbc|Portuguese}}: original {{m}}
+*{{ttbc|Russian}}: [[оригинал]] {{m}} (original)
+*{{ttbc|Spanish}}: original {{f}}
+*{{ttbc|Swedish}}: [[original#Swedish|original]] {{n}} (1, 2, 3), [[förlaga]] {{c}}
+{{trans-bottom}}
 
 ===Related terms===
 * [[origin]]
