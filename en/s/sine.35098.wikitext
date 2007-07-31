@@ -12,12 +12,16 @@ From {{L.}} ''[[sinus]]''.
 {{en-noun}}
 {{wikipedia|Trigonometric function|Sine}}
 
-# {{trigonometry}} In a [[right triangle]], the [[ratio]] of the [[length]] of the [[side]] [[opposite]] an [[angle]] to the length of the [[hypotenuse]]. Symbol: [[sin]]
-<!--These definitions are exactly equivalent to the definition above, and so do not define different senses of the word:
-# {{mathematics}} The [[y-coordinate|''y''-coordinate]] of the [[point]] on the [[unit]] [[circle]] at the given [[anticlockwise]] angle from the ''x'' [[axis]].
-# {{mathematics}} The [[sum]] of the [[real]] or [[complex]] [[power series]]
-::<math>\sum_1^\infty{{(-1)^{n-1}}\over{(2n-1)!}}x^{2n-1}</math>
--->
+# {{context|trigonometry|mathematics}} In a [[right triangle]], the [[ratio]] of the [[length]] of the [[side]] [[opposite]] an [[angle]] to the length of the [[hypotenuse]].
+
+====Usage notes====
+In various branches of mathematics, the sine of an angle is determined in various ways, including the following:
+* The [[y-coordinate|''y''-coordinate]] of the [[point]] on the [[unit]] [[circle]] at the given [[anticlockwise]] angle from the ''x'' [[axis]].
+* The [[sum]] of the [[real]] or [[complex]] [[power series]]
+*:<math>\sum_1^\infty{{(-1)^{n-1}}\over{(2n-1)!}}x^{2n-1}</math>
+
+====Synonyms====
+* Symbol: [[sin]]
 
 ====Derived terms====
 *[[arcsine]]
@@ -48,8 +52,6 @@ From {{L.}} ''[[sinus]]''.
 *[[secant]]
 *[[tangent]]
 *[[trigonometry]]
-
-[[Category:English nouns that lack inflection template]]
 
 ----
 
