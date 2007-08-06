@@ -1,5 +1,5 @@
 ==English==
-
+{{wikipedia}}
 {{rank|lips|donations|George|666|influence|March|whatever|reach}}
 
 ===Etymology===
@@ -20,11 +20,11 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 #:''He has been a great '''influence''' on the voters during the elections.''
 # {{astrology}} An element believed by some to [[determine]] someone's character or individual [[tendency|tendencies]], caused by the position of the stars and planets at the time of one's birth.
 # {{obsolete}} The action of flowing in; [[influx]].
-# {{electricity}} [[Induction]].
+# {{electricity}} [[electrostatic]] [[induction]].
 
 ====Translations====
-{{trans-top|The power to affect, control or manipulate something or someone}}
-*Finnish: [[vaikutusvalta]]
+{{trans-top|power to affect, control or manipulate}}
+*Finnish: [[vaikutus]], [[vaikutusvalta]]
 *German: [[Einfluss]] {{m}}
 {{trans-mid}}
 *Japanese: {{JAchar|[[影響力]]}} ([[えいきょうりょく]], eikyōryoku)
@@ -32,7 +32,7 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 *Slovene: [[vpliv]] {{m}}
 {{trans-bottom}}
 
-{{trans-top|An action exerted by a person or thing with such power on another to cause change}}
+{{trans-top|action exerted by a person or thing with power to cause change}}
 *Finnish: [[vaikutus]]
 *German: [[Beeinflussung]] {{f}}
 *Japanese: {{JAchar|[[影響]]}} ([[えいきょう]], eikyō)
@@ -41,7 +41,7 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 *Slovene: [[vpliv]] {{m}}
 {{trans-bottom}}
 
-{{trans-top|A person or thing exerting such power or action}}
+{{trans-top|person or thing exerting such power or action}}
 *Finnish: [[vaikuttaja]]
 *German: [[Einfluss]] {{m}}, [[Beeinflusser]] {{m}}
 *Japanese: {{JAchar|[[有力者]]}} ([[ゆうりょくしゃ]], yūryokusha)
@@ -49,25 +49,25 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 *Slovene: [[vpliv]] {{m}}
 {{trans-bottom}}
 
-{{trans-top|An element believed by some to determine someone's character or individual tendencies}}
+{{trans-top|(''astrology'') element determining someone's character or individual tendencies}}
 *Finnish: [[vaikutus]]
 *German: [[Einfluss]] {{m}}
 {{trans-mid}}
 *Slovene: [[vpliv]] {{m}}
 {{trans-bottom}}
 
-{{trans-top|The action of flowing in; influx}}
+{{trans-top|action of flowing in; influx}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|Induction}}
-*Finnish: [[induktio]]
+{{trans-top|electrostatic induction}}
+*Finnish: [[sähköstaattinen]] [[induktio]]
 {{trans-mid}}
 *Russian: [[индукция]] (indúkcija) {{f}}
 {{trans-bottom}}
 
 =====Translations to be checked=====
-{{checktrans}}
+{{checktrans-top}}
 {{top}}
 *{{ttbc|Arabic}}: [[تأثير]]
 *{{ttbc|Bulgarian}}: [[влияние]] (vlijanie) {{n}}
@@ -76,14 +76,13 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 *{{ttbc|French}}: [[Influence]]
 *{{ttbc|Hebrew}}: [[השפעה]] {{f}}
 *{{ttbc|Ido}}: [[influo]]+, influeso -
-{{mid}}
 *{{ttbc|Italian}}: [[Influenza]]
 *{{ttbc|Lithuanian}}: [[įtaka]] {{f}}
 *{{ttbc|Polish}}: [[wpływ]] {{m}}
-*{{ttbc|Swedish}}: [[Inflytande]]
+*{{ttbc|Swedish}}: [[inflytande]] {{n}}
 *{{ttbc|Spanish}}: [[influencia]] {{f}}
 *{{ttbc|Telugu}}: [[ప్రభావము]] (prabhaavamu)
-{{bottom}}
+{{check-trans-bottom}}
 
 ====See also====
 *[[under the influence]]
