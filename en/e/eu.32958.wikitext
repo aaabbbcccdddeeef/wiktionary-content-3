@@ -39,40 +39,62 @@ Latin ''[[ego]]''
 # [[I]]
 
 ====Declension====
-{| style="width:30em;background:#F0F0F0"
+
+{| style="background:#F0F0F0" cellpadding="3"
+|-
+! colspan="4" style="height:3em;background:#e2e4c0" | Nominative
+|-
+| colspan="4"  align="center"| eu
 
 |-
-! colspan="3" style="background:#e2e4c0" | eu
+! colspan="4" style="height:3em;background:#e2e4c0" | Accusative
+|-
+! colspan="2" width="50%" style="background:#e2e4cb" | <small>stressed</small>
+! colspan="2" width="50%" style="background:#e2e4cb" | <small>unstressed</small>
+|-
+| colspan="2" align="center"| [[mine]]
+| colspan="2" align="center"| [[mă]]
 
 |-
-| style="background:#e2e4cb" | 
-! style="background:#e2e4cb" | stressed
-! style="background:#e2e4cb" | unstressed
+! colspan="4" style="height:3em;background:#e2e4c0" | Genitive
+|-
+! colspan="2" width="50%" style="background:#e2e4cb" | <small>Singular</small>
+! colspan="2" width="50%" style="background:#e2e4cb" | <small>Plural</small>
+|-
+! width="25%" style="background:#e2e4cb" | <small>{{m}} & {{n}}</small>
+! width="25%" style="background:#e2e4cb" | <small>{{f}}</small>
+! width="25%" style="background:#e2e4cb" | <small>{{m}}</small>
+! width="25%" style="background:#e2e4cb" | <small>{{f}} & {{n}}</small>
+|-
+| align="center" | [[meu]]
+| align="center" | [[mea]]
+| align="center" | [[mei]]
+| align="center" | [[mele]]
 
 |-
-! style="height:3em;background:#e2e4cb" | Nominative
-| align="center"| eu
-| 
+! colspan="4" style="height:3em;background:#e2e4c0" | Dative
+|-
+! colspan="2" width="50%" style="background:#e2e4cb" | <small>stressed</small>
+! colspan="2" width="50%" style="background:#e2e4cb" | <small>unstressed</small>
+|-
+| colspan="2" align="center"| [[mie]]
+| colspan="2" align="center"| [[îmi]]
 
 |-
-! style="height:3em;background:#e2e4cb" | Accusative
-| align="center"| (pe) [[mine]]
-| align="center"| [[mă]]
-
+! colspan="4" style="height:3em;background:#e2e4c0" | Reflexive
 |-
-! style="height:3em;background:#e2e4cb" | Genitive
-| align="center"| [[meu]]
-| 
-
+! colspan="2" width="50%" style="background:#e2e4cb" | <small>Accusative</small>
+! colspan="2" width="50%" style="background:#e2e4cb" | <small>Dative</small>
 |-
-! style="height:3em;background:#e2e4cb" | Dative
-| align="center"| [[mie]]
-| align="center"| [[îmi]]
-
+! width="25%" style="background:#e2e4cb" | <small>stressed</small>
+! width="25%" style="background:#e2e4cb" | <small>unstressed</small>
+! width="25%" style="background:#e2e4cb" | <small>stressed</small>
+! width="25%" style="background:#e2e4cb" | <small>unstressed</small>
 |-
-! style="height:3em;background:#e2e4cb" | Reflexive
-| align="center"| [[mă]]
-| 
+| align="center" | [[mă]]
+| align="center" | [[mine]]
+| align="center" | [[mie]]
+| align="center" | [[îmi]]
 |}
 
 [[Category:Romanian personal pronouns]]
