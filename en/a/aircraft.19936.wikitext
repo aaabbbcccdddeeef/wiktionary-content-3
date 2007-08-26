@@ -6,15 +6,19 @@
 *{{audio|en-us-aircraft.ogg|Audio (US)}}
 
 ===Etymology===
-[[air]] + [[craft]]
+From ''[[air]]'' + ''[[craft]]''.
 
 ===Noun===
-{{en-noun-irreg|aircraft}}
+{{en-noun|pl=aircraft}}
 
-# A [[machine]] capable of atmospheric [[flight]] due to interaction with the [[air]], such as [[buoyancy]] or [[lift]]. This excludes [[rocket]]s (although there are [[rocket aircraft]]).
+# A [[machine]] capable of atmospheric [[flight]] due to interaction with the [[air]], such as [[buoyancy]] or [[lift]].
+# {{plural of|[[aircraft]]}}
 
-===Translations===
-{{rfc-level|Translations at L3+ (AutoFormat would have corrected level of Translations)}}
+====Usage notes====
+*The word ''aircraft'' is a [[Appendix:Glossary#countable|countable]] noun, but with the same plural form as singular; hence "one aircraft", "two aircraft", etc.
+*When the term ''aircraft'' is used without qualification, it is not usually taken to include [[rocket aircraft]].
+
+====Translations====
 {{trans-top|machine capable of atmospheric flight}}
 *Chinese: [[航空器]] (hángkōng qì)
 *Czech: [[letadlo]] {{n}}
@@ -24,9 +28,9 @@
 *Frisian: [[fleantúch]] {{n}}, [[fleanmasine]]
 *German: [[Flugzeug]] {{n}}
 *Greek: [[αεροσκάφος]] (aeroskáfos) {{n}}
-*Hebrew: [[כלי טיס|כְּלִי טַיִס]] (kli-t'ayis) {{m}}
-{{trans-mid}}
+*Hebrew: {{t-|he|כלי טיס|sc=Hebr|alt=כְּלִי טַיִס|kli-tayis}} {{m}}
 *Interlingua: [[aeronave]], [[avion]]
+{{trans-mid}}
 *Japanese: [[飛行機]] (hikōki)
 *Latvian: [[lidmašīna]] {{f}}, [[lidaparāts]] {{m}}
 *Maltese: [[ajruplan]]
@@ -39,8 +43,15 @@
 *Tok Pisin: [[balus]]
 {{trans-bottom}}
 
-===Related terms===
-*[[aeroplane]] ''(UK)'', [[airplane]] ''(US)''
+====Derived terms====
+*[[rocket aircraft]]
+
+====Related terms====
+*[[spacecraft]]
+*[[watercraft]]
+
+===See also===
+*[[aeroplane]] {{italbrac|UK}}, [[airplane]] {{italbrac|US}}
 
 [[Category:Aviation]]
 [[Category:English invariant nouns]]
