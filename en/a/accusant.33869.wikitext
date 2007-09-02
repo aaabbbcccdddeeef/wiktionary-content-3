@@ -25,8 +25,7 @@ Latin ''[[accusans]]'', present participle of ''[[accusare]]''  : compare French
 ===Verb===
 '''accusant'''
 
-# {{#ifeq: er | er
- |{{#switch: ant<!--
+# {{#switch: ant<!--
 
 Begin multi-possibilities endings.
 
@@ -88,72 +87,6 @@ Other endings
  | ant = {{form of|Present participle|accuser}}
  | é = {{form of|Neutral and masculine singular participle|accuser}}
  |
-}}
-}}{{#ifeq: er | ir
- |{{#switch: ant<!--
-
-Begin multi-possibilities endings.
-
--->
- | is = {{form of|First- and second-person singular indicative present|accuser}}
-# {{form of|First- and second-person singular indicative past historic|accuser}}
-# {{form of|Second-person singular imperative present|accuser}}
-# {{form of|Masculine plural past participle|accuser}}
- | it = {{form of|Third-person singular indicative present|accuser}}
-# {{form of|Third-person singular indicative past historic|accuser}}
-
-| isse = {{form of|First- and third-person singular subjunctive present|accuser}}
-# {{form of|First-person singular subjunctive past|accuser}}
-| isses = {{form of|Second-person singular subjunctive present|accuser}}
-# {{form of|Second-person singular subjunctive past|accuser}}
- | issent = {{form of|Third-person plural indicative present|accuser}}
-# {{form of|Third-person plural subjunctive present|accuser}}
-
- | issions = {{form of|First-person plural indicative imperfect|accuser}}
-# {{form of|First-person plural subjunctive present|accuser}}
-# {{form of|First-person plural subjunctive past|accuser}}
- | issiez = {{form of|Second-person plural indicative imperfect|accuser}}
-# {{form of|Second-person plural subjunctive present|accuser}}
-# {{form of|Second-person plural subjunctive past|accuser}}
- | issez = {{form of|Second-person plural indicative present|accuser}}
-# {{form of|Second-person plural imperative present|accuser}}
- | issons = {{form of|First-person plural indicative present|accuser}}
-# {{form of|First-person plural imperative present|accuser}}
-
- | issais = {{form of|First- and second-person singular indicative imperfect|accuser}}
- | irais = {{form of|First- and second-person singular conditional present|accuser}}
- | irai = {{form of|First-person singular indicative future|accuser}}
- | iras = {{form of|Second-person singular indicative future|accuser}}
- | ira = {{form of|Third-person singular indicative future|accuser}}
- | irons = {{form of|First-person plural indicative future|accuser}}
- | irez = {{form of|Second-person plural indicative future|accuser}}
- | iront = {{form of|Third-person plural indicative future|accuser}}<!--
-
-Begin indicative endings.
-
--->
- | issait = {{form of|Third-person singular indicative imperfect|accuser}}
- | issaient = {{form of|Third-person plural indicative imperfect|accuser}}
- | îmes = {{form of|First-person plural indicative past historic|accuser}}
- | îtes = {{form of|Second-person plural indicative past historic|accuser}}
- | irent = {{form of|Third-person plural indicative past historic|accuser}}<!--
-
-Begin conditional and subjunctive endings
-
--->
- | irait = {{form of|Third-person singular conditional present|accuser}}
- | irions = {{form of|First-person plural conditional present|accuser}}
- | iriez = {{form of|Second-person plural conditional present|accuser}}
- | iraient = {{form of|Third-person plural conditional present|accuser}}
- | ît = {{form of|Third-person singular subjunctive past|accuser}}<!--
-
-Other endings
-
--->
- | issant = {{form of|Present participle|accuser}}
- | i = {{form of|Neutral and masculine singular participle|accuser}}
- |
-}}
-}}{{#ifeq: er |  |Error: please define verbal declension with er or ir}}[[Category:French verb forms]]
+}}[[Category:French verb forms]]
 
 [[fr:accusant]]
