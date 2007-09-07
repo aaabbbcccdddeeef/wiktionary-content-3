@@ -4,39 +4,39 @@
 
 ===Pronunciation===
 *{{audio|en-us-class.ogg|Audio (US)}}
-*:Rhymes: [[Rhymes:English:-ɑːs|-ɑːs]]
+*:{{rhymes|ɑːs}}
 
 ===Etymology===
-From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
+From {{F.}} {{term|classe|lang=fr}}, from {{L.}} {{term|classis|lang=la}}.
 
 ===Noun===
-{{en-noun|es}}
+{{en-noun|es|-}}
 
-# A [[group]], [[collection]], [[category]] or [[set]] sharing [[characteristic]]s or [[attribute]]s
+# {{countable}} A [[group]], [[collection]], [[category]] or [[set]] sharing [[characteristic]]s or [[attribute]]s.
 #: ''The new Ford Fiesta is set to be best in the 'small family' '''class'''.''
 #::Often used to imply membership of a large class.
 #::: ''This word has a whole '''class''' of metaphoric extensions.''
-# A social grouping, based on [[job]], [[wealth]], etc. In Britain, society is commonly split into three main classes; [[upper class]], [[middle class]] and [[working class]].
-# ''(Used without an article)'' The division of society into classes.
+# {{countable}} A social grouping, based on [[job]], [[wealth]], etc. In Britain, society is commonly split into three main classes; [[upper class]], [[middle class]] and [[working class]].
+# {{uncountable}} The division of society into classes.
 #: ''Jane Austen's works deal with '''class''' in 18th-century England.''
-# ''(Used without an article)'' Admirable behavior; elegance.
+# {{uncountable}} Admirable behavior; elegance.
 #: ''Apologizing for losing your temper, even though you were badly provoked, showed real '''class'''.''
-# ''(Used with or without an article.)'' A group of [[student]]s in a regularly scheduled meeting with a teacher.
+# {{countext|countable|and|uncountable}} A group of [[student]]s in a regularly scheduled meeting with a teacher.
 #: ''The '''class''' was noisy, but the teacher was able to get their attention with a story.''
 # A series of classes covering a single subject.
 #: ''I took the cooking '''class''' for enjoyment, but I also learned a lot.''
-# A group of students who commenced or completed their education during a particular year. A [[school class]].
+# {{countable}} A group of students who commenced or completed their education during a particular year. A [[school class]].
 #: ''The '''class''' of 1982 was particularly noteworthy.''
-# A category of seats in an airplane, train or other means of mass transportation.
+# {{countable}} A category of seats in an airplane, train or other means of mass transportation.
 #: ''I used to fly business '''class''', but now my company can only afford economy.''
-# {{context|biology|taxonomy}} A [[rank]] in the classification of [[organism]]s, below [[phylum]] and above [[order]]; a taxon of that rank
+# {{context|biology|taxonomy|countable}} A [[rank]] in the classification of [[organism]]s, below [[phylum]] and above [[order]]; a taxon of that rank
 #: ''Magnolias belong to the '''class''' Magnoliopsida.''
 # {{computing}} A set of [[object]]s possibly differing in [[state]] but not [[behavior]].
 # {{math}} A collection of [[set]]s definable by a shared property.
 #: ''The '''class''' of all sets is not a set.''
 
 ====Translations====
-{{trans-top|A group, collection, category or set sharing characteristics or attributes}}
+{{trans-top|a group, collection, category or set sharing characteristics or attributes}}
 *[[Catalan]]: [[classe]] {{f}}
 *Czech: [[třída]] {{f}}
 *Finnish: [[luokka]]
@@ -48,7 +48,7 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 *Swedish: [[klass]] {{c}}
 {{trans-bottom}}
 
-{{trans-top|A social grouping, based on job, wealth, etc.}}
+{{trans-top|a social grouping, based on job, wealth, etc.}}
 *[[Catalan]]: [[classe]] {{f}}
 *Finnish: [[luokka]]
 *German: [[Klasse]] {{f}}
@@ -60,7 +60,7 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 *Swedish: [[klass]] {{c}}
 {{trans-bottom}}
 
-{{trans-top|The division of society into classes}}
+{{trans-top|the division of society into classes}}
 *[[Catalan]]: [[classe]] {{f}}
 *Czech: [[třída]] {{f}}
 *Finnish: [[luokka]]
@@ -73,7 +73,7 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 *Swedish: [[klass]] {{c}}
 {{trans-bottom}}
 
-{{trans-top|Admirable behavior; elegance}}
+{{trans-top|admirable behavior; elegance}}
 *[[Catalan]]: [[classe]] {{f}}
 *Finnish: [[tyyli]]
 {{trans-mid}}
@@ -81,7 +81,7 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 *Swedish: [[klass]] {{c}}
 {{trans-bottom}}
 
-{{trans-top|A group of students in a regularly scheduled meeting with a teacher}}
+{{trans-top|a group of students in a regularly scheduled meeting with a teacher}}
 *[[Catalan]]: [[classe]] {{f}}
 *Czech: [[třída]] {{f}}
 *Finnish: [[luokka]]
@@ -94,7 +94,7 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 *Swedish: [[klass]] {{c}}
 {{trans-bottom}}
 
-{{trans-top|A series of classes covering a single subject}}
+{{trans-top|a series of classes covering a single subject}}
 *[[Catalan]]: [[curs]] {{m}}
 *Hebrew: [[קורס]] (qurs) {{m}}
 *Polish: [[kurs]]
@@ -102,7 +102,7 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 *Swedish: [[kurs]] {{c}}
 {{trans-bottom}}
 
-{{trans-top|A group of students who commenced or completed their education during a particular year}}
+{{trans-top|a group of students who commenced or completed their education during a particular year}}
 *[[Catalan]]: [[classe]] {{f}}
 *Finnish: [[luokka]], [[vuosikurssi]]
 *German: [[Klasse]] {{f}}
@@ -114,7 +114,7 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 *Swedish: [[årskurs]] {{c}}, [[avgångsklass]] {{c}}
 {{trans-bottom}}
 
-{{trans-top|A category of seats in an airplane, train or other means of mass transportation}}
+{{trans-top|a category of seats in an airplane, train or other means of mass transportation}}
 *[[Catalan]]: [[classe]] {{f}}
 *Czech: [[třída]] {{f}}
 *Finnish: [[luokka]]
@@ -125,7 +125,7 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 *Swedish: [[klass]] {{c}}
 {{trans-bottom}}
 
-{{trans-top|The classification below Phylum and above Order}}
+{{trans-top|the classification below Phylum and above Order}}
 *[[Catalan]]: [[classe]] {{f}}
 *Czech: [[třída]] {{f}}
 *Finnish: [[luokka]]
@@ -135,7 +135,7 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 *Swedish: [[klass]] {{c}}
 {{trans-bottom}}
 
-{{trans-top|A set of objects possibly differing in state but not behavior}}
+{{trans-top|a set of objects possibly differing in state but not behavior}}
 *[[Catalan]]: [[classe]] {{f}}
 *Finnish: [[luokka]]
 *German: [[Klasse]] {{f}}
@@ -144,7 +144,7 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 *Polish: [[klasa]] {{f}}
 {{trans-bottom}}
 
-{{trans-top|A collection of sets definable by a shared property}}
+{{trans-top|a collection of sets definable by a shared property}}
 *Hungarian: [[osztály]]
 *German: [[Klasse]] {{f}}
 {{trans-mid}}
@@ -152,13 +152,10 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 
 =====Translations to be checked=====
 {{checktrans}}
-{{top}}
 *{{ttbc|Interlingua}}: [[classe]]
 *{{ttbc|Indonesian}}: [[kelas]]
-{{mid}}
 *{{ttbc|Portuguese}}: [[classe]]
 *{{ttbc|Romanian}}: [[clasă]] {{f}}
-{{bottom}}
 
 ===Verb===
 {{en-verb|classes|classing|classed}}
@@ -167,7 +164,10 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 #: ''I would '''class''' this with most of the other mediocre works of the period.''
 
 ====Translations====
+{{trans-top|to assign to a class}}
+{{trans-mid}}
 *Swedish: [[klassificera]]
+{{trans-bottom}}
 
 ===Adjective===
 {{en-adj|-}}
@@ -175,7 +175,7 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 # {{context|UK|slang}} [[great]]; [[fabulous]]
 
 ===Related terms===
-{{top3}}
+{{rel-top|related terms}}
 *[[class act]]
 *[[class action]]
 *[[class clown]]
@@ -186,7 +186,7 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 *[[class up]]
 *[[class war]]
 *[[classy]]
-{{mid3}}
+{{rel-mid}}
 *[[coach class]]
 *[[economy class]]
 *[[first class]]
@@ -197,7 +197,7 @@ From {{F.}} ''[[classe]]'', from {{L.}} [[classis]].
 *[[steerage class]]
 *[[upper class]]
 *[[working class]]
-{{bottom}}
+{{rel-bottom}}
 
 [[Category:Semantics]]
 
