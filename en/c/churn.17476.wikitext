@@ -1,52 +1,71 @@
 ==English==
 
 ===Etymology===
-Old English ''[[ċyrin]]''
+From {{OE.}} ''[[cyrin|ċyrin]]''.
 
 ===Pronunciation===
-chû(r)n, /tʃɜː(r)n/, /tS3:(r)n/
-*{{audio|en-us-churn.ogg|Audio (US)}}
-:[[Rhymes:English:-ɜː(r)n|Rhymes: -ɜː(r)n]]
+* {{enPR|chû(r)n}}, {{IPA|/tʃɜː(r)n/}}, {{SAMPA|/tS3:(r)n/}}
+* {{audio|en-us-churn.ogg|Audio (US)}}
+* {{rhymes|ɜː(r)n}}
+{{rfp|split UK/US}}
 
-===Transitive verb===
-{{rfc-trverb|Transitive verb}}
+===Verb===
 {{en-verb}}
 
-# To [[agitate]] [[rapidly]] and [[repetitively]], or to [[stir]] with a [[rowing]] or [[rocking]] motion; generally applies to [[liquids]], notably [[cream]].
+# {{transitive}} To [[agitate]] [[rapid]]ly and [[repetitive]]ly, or to [[stir]] with a [[row]]ing or [[rock]]ing motion; generally applies to [[liquid]]s, notably [[cream]].
 #: ''Now the cream is '''churned''' to make butter.''
-# {{figuratively}} To produce excessive and sometimes [[undesirable]] or [[unproductive]] [[activity]] or motion.
+# {{context|transitive|figuratively}} To [[produce]] [[excessive]] and sometimes [[undesirable]] or [[unproductive]] [[activity]] or [[motion]].
+# {{intransitive}} To move rapidly and repetitively with a rocking motion; to [[tumble]], [[mix]] or [[shake]].
+#: ''I was so nervous my stomach was '''churning'''.''
 
 ====Derived terms====
 *[[churn out]]
-* German: [[in schneller Folge herstellen]]
 
 ====Translations====
-{{top}}
-*Dutch: [[karnen]]
+{{trans-top|agitate rapidly}}
+*Dutch: {{t|nl|karnen}} {{italbrac|butter}}, {{t|nl|door}} {{t|nl|elkaar}} {{t|nl|schudden}}
 *French: [[barrater]]
-{{mid}}
-*German: [[verbuttern]],[[durchschütteln]], [[aufwühlen]]
+{{trans-mid}}
+*German: [[verbuttern]], [[durchschütteln]], [[aufwühlen]]
 *Spanish: [[batir]] {{italbrac|butter}}, [[agitar]] {{italbrac|water}}
-{{bottom}}
+{{trans-bottom}}
 
-===Intransitive verb===
-{{en-verb}}
+{{trans-top|figuratively: produce excessive motion}}
+*Dutch: {{t|nl|woelen}}
+{{trans-mid}}
+{{trans-bottom}}
 
-# To move rapidly and repetitively with a rocking motion; to [[tumble]], [[mix]] or [[shake]].
-#: ''I was so nervous my stomach was '''churning'''.''
+{{trans-top|tumble}}
+*Dutch: {{t|nl|woelen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+*{{ttbc|German}}: [[in schneller Folge herstellen]]
+{{trans-bottom}}
 
 ===Noun===
 {{en-noun}}
 
-# A vessel used for churning.
+# A [[vessel]] used for churning.
 #: ''a butter '''churn'''''
-# In the telecommunication sector {{italbrac|telecommunications}}:
-#: The time when a consumer switches his/her service provider.
-#: The mass of people who are ready to switch carriers.
-#: Formula (percents %): <math>Customer Quits/Customer base</math>.
+# {{context|telecommunications}} The time when a [[consumer]] [[switch]]es his/her [[service provider]].
+# {{context|telecommunications}} The [[mass]] of people who are ready to switch [[carrier]]s, expressed by the formula ''Customer Quits/Customer base''.
 
 ====Translations====
-*Spanish: [[mantequera]] {{f}} {{italbrac|butter}}, [[lechera]] {{f}} {{italbrac|milk}}
+{{trans-top|vessel for churning}}
+*Dutch: {{t|nl|botervat|n}}
+{{trans-mid}}
+*Spanish: {{t|es|mantequera|f}} {{italbrac|butter}}, {{t|es|lechera|f}} {{italbrac|milk}}
+{{trans-bottom}}
+
+{{trans-top|time when customer switches provider}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|people ready to switch carrier}}
+{{trans-mid}}
+{{trans-bottom}}
 
 [[fr:churn]]
 [[hu:churn]]
