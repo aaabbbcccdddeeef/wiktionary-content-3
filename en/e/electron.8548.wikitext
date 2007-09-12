@@ -2,12 +2,12 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{AGr.}} '''[[ήλεκτρον]]''' (''elektron'') "amber", from prefix '''[[έλ-]]''' (''el-'') "sun, bright, shiny".
-See also ''[[electric]]'' + ''[[-on]]''.
+From {{AGr.}} {{term|ήλεκτρον|tr=elektron||amber|lang=grc}} from prefix {{term|έλ-|tr=el-||sun, bright, shiny|lang=grc}}.
+See also {{term|electric}} + {{term|-on}}.
 
 ===Pronunciation===
-*(''[[Received Pronunciation|UK]]'') {{IPA|/ɪˈlɛktɹɒn/}}
-*(''[[General American|US]]'') {{IPA|/ɪˈlɛktɹɑn/}}
+*{{a|RP}} {{IPA|/ɪˈlɛktɹɒn/}}
+*{{a|GenAm}} {{IPA|/ɪˈlɛktɹɑn/}}
 *{{audio|en-us-electron.ogg|Audio (US)}}
 
 ===Noun===
@@ -22,7 +22,7 @@ See also ''[[electric]]'' + ''[[-on]]''.
 
 ====Translations====
 {{trans-top|the negatively charged subatomic particles that orbit atoms}}
-*[[Breton]]: [[elektron]] ''collective noun'' [[elektronenn]] ''singular f''
+*[[Breton]]: [[elektron]] ''collective noun'' [[elektronenn]] {{s}} {{f}}
 *Bulgarian: [[електрон]] {{m}}
 *Chinese: [[電子]], [[电子]]
 *Dutch: [[elektron]] {{n}}
@@ -50,16 +50,16 @@ See also ''[[electric]]'' + ''[[-on]]''.
 ====See also====
 *[[neutron]]
 *[[proton]]
-*{{pedialite|Electron}}
+*{{pedialite}}
 
 ----
 
 ==[[Interlingua]]==
 
 ===Noun===
-{{infl|ia|noun}}
+{{ia-noun|es}}
 
-# [[#English|electron]]
+# {{particles|lang=ia}} [[#English|electron]]
 
 ----
 
@@ -68,7 +68,7 @@ See also ''[[electric]]'' + ''[[-on]]''.
 ===Noun===
 {{ro-noun|gend=m}}
 
-# [[#English|electron]]
+# {{particles|lang=ro}} [[#English|electron]]
 
 [[ar:electron]]
 [[zh-min-nan:electron]]
