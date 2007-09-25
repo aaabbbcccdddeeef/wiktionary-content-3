@@ -21,9 +21,10 @@ More recent meanings (not in 1973 American Heritage dictionary, for example):
 
 ====Translations====
 {{trans-top|difficulty}}
+*Bosnian: {{t|bs|problem|m}}
 *[[Breton]]: [[kudenn]] {{f}}
 *[[Cebuano]]: kalisud
-*Croatian: {{t|hr|problem}}
+*Croatian: {{t|hr|problem|m}}
 *Dutch: [[probleem#Dutch|probleem]] {{n}}
 *Esperanto: [[problemo]]
 *Finnish: [[ongelma]], [[probleemi]] (''old slang'')
@@ -37,28 +38,39 @@ More recent meanings (not in 1973 American Heritage dictionary, for example):
 *Korean: {{ko-inline|문제|munje}}
 *Latvian: [[problēma]] {{f}}
 *Portuguese: [[problema#Portuguese|problema]] {{m}}
+*Serbian:
+*:Cyrillic: {{t|sr|проблем|m}}
+*:Roman: {{t|sr|problem|m}}
 *Spanish: [[problema#Spanish|problema]] {{m}}
 *Swedish: [[#Swedish|problem]] {{m}}
 {{trans-bottom}}
 
 {{trans-top|schoolwork exercise}}
+*Bosnian: {{t|bs|problem|m}}
 *[[Breton]]: [[poelladenn]] {{f}}
-*Croatian: {{t|hr|problem}}
+*Croatian: {{t|hr|problem|m}}
 *Dutch: {{t+|nl|oefening}} {{f}}, [[probleem#Dutch|probleem]] {{n}}
 *Finnish: [[harjoitus]], [[harjoitustehtävä]]
 *French: [[problème]] {{m}}
-{{trans-mid}}
 *German: [[Übung]] {{f}}
+{{trans-mid}}
 *Hungarian: [[feladat]]
 *Korean: {{ko-inline|문제|munje}}
 *Latvian: [[uzdevums]] {{m}}
+*Serbian:
+*:Cyrillic: {{t|sr|проблем|m}}
+*:Roman: {{t|sr|problem|m}}
 {{trans-bottom}}
 
 {{trans-top|puzzling circumstance}}
+*Bosnian: {{t|bs|problem|m}}
 *[[Cebuano]]: problema
-*Croatian: {{t|hr|problem}}
+*Croatian: {{t|hr|problem|m}}
 *Dutch: [[probleem#Dutch|probleem]] {{n}}
 {{trans-mid}}
+*Serbian:
+*:Cyrillic: {{t|sr|проблем|m}}
+*:Roman: {{t|sr|problem|m}}
 {{trans-bottom}}
 
 {{checktrans}}
@@ -81,6 +93,26 @@ More recent meanings (not in 1973 American Heritage dictionary, for example):
 
 ----
 
+==Bosnian==
+
+===Noun===
+{{bs-noun|g=m|problemi}}
+
+# [[#English|problem]]
+
+====Declension====
+{{bs-decl-noun
+|problem|problemi
+|problema|problema
+|problemu|problemima
+|problem|probleme
+|probleme|problemi
+|problemom|problemima
+|problemu|problemima
+}}
+
+----
+
 ==Croatian==
 
 ===Noun===
@@ -97,6 +129,29 @@ More recent meanings (not in 1973 American Heritage dictionary, for example):
 |probleme|problemi
 |problemu|problemima
 |problemom|problemima
+}}
+
+----
+
+==Serbian==
+
+===Noun===
+{{sr-noun|g=m|problemi}}
+
+# [[#English|problem]]
+
+====Cyrillic spelling====
+*[[проблем]]
+
+====Declension====
+{{sr-decl-noun
+|problem|problemi
+|problema|problema
+|problemu|problemima
+|problem|probleme
+|probleme|problemi
+|problemom|problemima
+|problemu|problemima
 }}
 
 [[ar:problem]]
