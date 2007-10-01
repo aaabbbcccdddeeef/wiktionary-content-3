@@ -1,7 +1,6 @@
-{{wikify}}
-== English ==
-===tr. v.===
-: In the context of Microsoft Windows, ''subclassing'' refers to a substitution of a Windows procedure (procedure A) with another (procedure B.) Procedure B intercepts calls to A for its own use, but is also responsible for passing to A any unprocessed messages.
-This can be useful for changing the default function of controls. For example, a Checkbox control  may alternate from checked to unchecked in response to mouse clicks; subclassing might allow an alternation from checked to grayed out.
-===References===
-* "Win32 API Programming" b. Steven Roman
+==English==
+
+===Verb===
+'''subclassing'''
+
+# {{computing}} {{present participle of|[[subclass]]}}
