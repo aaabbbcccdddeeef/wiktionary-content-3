@@ -16,18 +16,33 @@ From {{L.}} ''[[constantem]]''.
 # [[steady|Steady]] in purpose, action, feeling, etc.
 
 ====Translations====
-{{checktrans-top}}
-*Esperanto: [[konstanta]]
-*Finnish: [[pysyvä]] (1), [[muuttumaton]] (1), [[jatkuva]] (1), [[vakio-]] (2, ''in compounds'')
-*French: constant {{m}}, [[constante]] {{f}} (1,2,3)
-*German: [[konstant]]
-*Hebrew: [[קבוע]] (qavua) {{m}}, [[קבועה]] (qvu'a) {{f}} (1,2); [[תמידי]] (tmidy) {{m}}, [[תמידית]] (tmidyt) {{f}} (2)
+{{trans-top|unchanged through time}}
+*Finnish: [[pysyvä]], [[muuttumaton]], [[vakaa]], [[vakio]]-
+*French: '''constant''' {{m}}, [[constante]] {{f}}
 {{trans-mid}}
-*Hungarian: [[állandó]] (1, 2), [[konstans]] (1, 2)
-*Italian: [[costante]] {{m}} & {{f}}
-*Swedish: [[konstant]]
-*Ukrainian: [[сталий]] {{m}} (st'''a'''lyj)
-*Spanish: [[constante]] {{f}}
+{{trans-bottom}}
+
+{{trans-top|consistently recurring over time}}
+*Finnish: [[jatkuva]], [[tasainen]], [[vakio]]-
+*French: '''constant''' {{m}}, [[constante]] {{f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|steady}}
+*Finnish: [[vakaa]], [[muuttumaton]]
+*French: '''constant''' {{m}}, [[constante]] {{f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+*{{ttbc|Esperanto}}: [[konstanta]]
+*{{ttbc|German}}: [[konstant]]
+*{{ttbc|Hebrew}}: [[קבוע]] (qavua) {{m}}, [[קבועה]] (qvu'a) {{f}} (1,2); [[תמידי]] (tmidy) {{m}}, [[תמידית]] (tmidyt) {{f}} (2)
+*{{ttbc|Hungarian}}: [[állandó]] (1, 2), [[konstans]] (1, 2)
+*{{ttbc|Italian}}: [[costante]] {{mf}}
+*{{ttbc|Swedish}}: [[konstant]]
+*{{ttbc|Ukrainian}}: [[сталий]] {{m}} (st'''a'''lyj)
+*{{ttbc|Spanish}}: [[constante]] {{mf}}, [[firme]] {{mf}}
 {{trans-bottom}}
 
 ===Noun===
@@ -38,19 +53,30 @@ From {{L.}} ''[[constantem]]''.
 # {{science}} Any property of an experiment, determined numerically, that does not change under given circumstances.
 # {{computing}} An [[identifier]] that is [[bound]] to an [[invariant]] value.
 
-====See also====
-
-* {{computing}} [[literal]]
-
 ====Translations====
+{{trans-top|that which is permanent or invariable}}
+*Finnish: [[vakio]]
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|algebra: quantity that remains fixed}}
+*Finnish: [[vakio]]
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|science: property that does not change}}
+*Finnish: [[vakio]]
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|identifier that is bound to an invariant value}}
 *Croatian: {{t|hr|konstanta|f}}
 *Czech: [[konstanta]] {{f}}
+*Finnish: [[vakio]]
 {{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-*{{ttbc|Finnish}}: [[vakio]]
 *{{ttbc|French}}: [[constante]] {{f}}
 *{{ttbc|German}}: [[Konstante]] {{f}}
 *{{ttbc|Hungarian}}: [[állandó]], [[konstans]]
@@ -62,6 +88,9 @@ From {{L.}} ''[[constantem]]''.
 ===Related terms===
 * [[constantly]] ''adverb''
 * [[constancy]] ''noun''
+
+====See also====
+* {{computing}} [[literal]]
 
 ----
 
