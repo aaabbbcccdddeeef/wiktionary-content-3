@@ -3,11 +3,11 @@
 
 ===Alternative spellings===
 *[[magick]]
-:''(fantasy)'' used as a deliberate archaism
-:''(occult)'' used for supernatural magic, as distinguished from stage magic
+:{{qualifier|fantasy}} used as a deliberate archaism
+:{{qualifier|occult}} used for supernatural magic, as distinguished from stage magic
 
 ===Etymology===
-{{F.}} '''[[magique]]''', reborrowed from {{L.}} '''[[magice]]''', borrowed from {{AGr.}} '''[[μαγική]]''' ('''[[τέχνη]]''') "magical (art)", derived from '''[[μάγος]]''' (mage) from ''magos magus'', sorcerer, of Iranian origin; akin to Old Persian ''maguš'' "sorcerer".
+{{ME.}} {{term|magik|lang=enm}} from {{OF.}} {{term|magique|lang=fro}}, reborrowed from {{L.}} {{term|magice|lang=la}}, borrowed from {{AGr.}} {{term|sc=polytonic|μαγική|lang=grc||magical}} ({{term|sc=poltonic|τέχνη|lang=grc||art}}, derived from {{term|sc=polytonic|μάγος|tr=mage|lang=grc}} from ''magos magus'', sorcerer, of Iranian origin; akin to Old Persian ''maguš'' "sorcerer".
 
 ===Pronunciation===
 *{{IPA|/ˈmædʒɪk/}}, {{SAMPA|/ˈm{dZIk/}}
@@ -75,8 +75,8 @@
 # {{computing}} A statement or operator used in [[algorithm]] design that satisfies any conceivable formal requirement. This is used in some methods of [[formal specification]] to allow leaving things unspecified (with the intent of later specification, as ''magic'' in this sense cannot be implemented). Also known as [[miracle]].
 
 ====Synonyms====
-*(1): [[thaumaturgy]], [[conjuring]], [[sorcery]], [[witchcraft]]
-*(2): [[w:Sleight of hand]], [[legerdemain]]
+*{{sense|supernatural occurrences or feat}} [[thaumaturgy]], [[conjuring]], [[sorcery]], [[witchcraft]]
+*{{sense|illusion performed to give the appearance of magic or the supernatural}} [[w:Sleight of hand]], [[legerdemain]]
 
 ====Translations====
 {{trans-top|supernatural occurrences or feats}}
@@ -157,7 +157,7 @@
 *{{ttbc|Hungarian}}: [[varázs]]
 *{{ttbc|Italian}}: [[magia]] {{f}}
 {{ttbc-mid}}
-*{{ttbc|Romanian}}: [[magie]] {{f}}, [[vrajă]] {{f}}, [[farmec]] {{mf}}
+*{{ttbc|Romanian}}: [[magie]] {{f}}, [[vrajă]] {{f}}, [[farmec]] {{m|f}}
 *{{ttbc|Scottish Gaelic}}: [[draoidheachd]] {{f}}, [[geasan]] {{m}}, [[drùidheachd]] {{f}}
 *{{ttbc|Spanish}}: [[magia]] {{f}}
 *{{ttbc|Swedish}}: [[magi]] {{c}}
