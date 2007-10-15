@@ -4,37 +4,41 @@
 {{rank|different|care|war|390|short|able|five|need}}
 
 ===Etymology===
-{{OE.}} ''[[scort]]''
+{{OE.}} {{term|scort|lang=ang}}
 
 ===Pronunciation===
-*(''[[Received Pronunciation|UK]]'') {{IPA|/ʃɔːt/}}, {{SAMPA|/SO:t/}}
-*(''[[General American|US]]'') {{IPA|/ʃɔɹt/}}, {{SAMPA|/SOrt/}}
+*{{a|RP}} {{IPA|/ʃɔːt/}}, {{SAMPA|/SO:t/}}
+*{{a|US}} {{IPA|/ʃɔɹt/}}, {{SAMPA|/SOrt/}}
 *{{audio|en-us-short.ogg|Audio (US)}}
 *:Rhymes: [[Rhymes:English:-ɔː(r)t|-ɔː(r)t]]
 
 ===Adjective===
 {{en-adj|er}}
 
-# The state of having a small distance from one terminating point on an object or an area to another terminating point.  Short can apply to both [[horizontal]] and [[vertical]] dimensions.
-#*Short in the positive [[vertical]] dimension is usually said [[short]], but short in the negative vertical dimension is referred to as [[shallow]].
+# Having a small distance from one end or edge to another, either [[horizontal]]ly or [[vertical]]ly dimensions.
 # A word or phrase that can be said or written in less time to represent another word or phrase.
-#: ''Tater is '''short''' for potato.''
-# (''for a person'') Not [[tall]], lower in [[height]]
-# {{cricket}} of a ball, that bounced relatively far from the batsman
-# {{cricket}} of a [[fielder]] or fielding [[position]], relatively [[close]] to the [[batsman]]; opposite of [[long]]
+#: ''“Tater” is '''short''' for “potato”.''
+# {{context|of a person}} With less [[height]]
+# {{cricket|of a ball}} that bounced relatively far from the batsman
+# {{cricket|of a [[fielder]] or fielding [[position]]}} relatively [[close]] to the [[batsman]]
+
+====Usage notes====
+* {{sense|having a small distance between ends or edges}} {{term|short|Short}} is often used in the positive [[vertical]] dimension, but in the negative, {{term|shallow}} is more commonly used.
 
 ====Synonyms====
-[[low]], [[narrow]], [[slim]], [[shallow]], [[brief]], [[concise]]
+* {{sense|having a small distance between ends or edges}} [[low]], [[narrow]], [[slim]], [[shallow]], [[brief]], [[concise]]
 
 ====Antonyms====
-[[tall]], [[high]], [[wide]], [[broad]], [[deep]], [[long]]
+* {{sense|having a small distance between ends or edges}} [[tall]], [[high]], [[wide]], [[broad]], [[deep]], [[long]]
+* {{sense|of a person|with less height}} [[tall]]
+* {{sense|cricket|of a fielder or fielding position|relatively close to the batsman}} [[long]]
 
 ====Derived terms====
 * [[shorten]]
 * [[shortchange]]
 
 ====Translations====
-{{top}}
+{{ttbc-top}}
 *Arabic: {{ARchar|[[قصير]]}} (qɑṣiir)
 *:Egyptian: {{ARchar|[[قصير]]}} (ʔuṣayyɑr)
 *Chinese: [[短]] (duǎn)
@@ -48,7 +52,7 @@
 *Hungarian: [[rövid]]
 *Indonesian: [[pendek]]
 *Italian: [[corto]]
-{{mid}}
+{{ttbc-mid}}
 *Japanese: [[短い]] ([[みじかい]], mijikai)
 *Korean: [[짧다]] (jjalbda, jjap-)
 *Kurdish: {{t+|ku|kurt}}, {{t+|ku|kin}}, {{t|ku|qut}}, {{t|ku|quse}}, {{KUchar|[[کورت]]}}
@@ -61,10 +65,10 @@
 *Spanish: [[corto]]
 *Swedish: [[kort]]
 *[[Telugu]]: [[పొట్టి]] (poTTi)
-{{bottom}}
+{{ttbc-bottom}}
 
 ===Adverb===
-'''short'''
+{{en-adv|er}}
 
 # {{cricket}} of a [[cricket ball]], to [[bounce]] relatively [[far]] from the [[batsman]] so that it bounces higher than normal; opposite of [[full]]
 
@@ -96,15 +100,15 @@
 ==French==
 
 ===Pronunciation===
-*[[w:IPA|IPA]]: /ʃɔʁt/
-*[[w:SAMPA|SAMPA]]: /SORt/
+*{{IPA|lang=fr|/ʃɔʁt/}}
+*{{SAMPA|lang=fr|/SORt/}}
 
 ===Noun===
-'''short'''
+{{fr-noun|m}}
 
 # [[shorts]], kind of clothes mainly used in summer.
 #: ''Avec un pantalon, j'ai moins froid aux jambes qu'avec un '''short'''.''
-#::''With trousers on, I'm not as cold as with shorts on.''
+#::“With trousers on, I'm not as cold as with shorts on.”
 
 [[Category:French nouns]]
 [[Category:fr:Clothing]]
