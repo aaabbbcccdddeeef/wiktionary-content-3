@@ -2,25 +2,23 @@
 ==English==
 
 ===Etymology===
-Middle English [[melodie]], borrowed from Old French [[melodie]], borrowed from Latin [[melodia]], borrowed from Greek [[μελῳδία]] (melōidia) "singing, chanting", derived from [[μέλος]] (melos) "musical phrase" + [[ἀοιδή]] (aoidē)  "song", contracted form [[ᾠδή]] (ōdē).
+{{ME.}} {{term|melodie}}, from {{OF.}} {{term|melodie}}, from {{L.}} {{term|melodia}}, from {{Gr.}} {{term|sc=Grek|μελῳδία|tr=melōidía||singing, chanting}}, from {{term|sc=Grek|μέλος|tr=mélos||musical phrase}} + {{term|sc=Grek|ἀοιδή|tr=aoidḗ||song}}, contracted form {{term|sc=Grek|ᾠδή|tr=ōdḗ}}.
 
 ===Pronunciation===
-{| border=1 cellpadding=5
-! !! ''General American'' !! ''Received Pronunciation''
-|-
-| [[w:IPA|IPA]] || /ˈmɛlədi/ || /ˈmelədi/
-|-
-| [[w:SAMPA|SAMPA]] || /"mEl@di/ || /"mel@di/
-|}
-*{{audio|en-us-melody.ogg|Audio (US)}}
+* {{a|GenAm}} {{IPA|/ˈmɛlədi/}}, {{SAMPA|/"mEl@di/}}
+*:{{audio|en-us-melody.ogg|Audio (US)}}
+* {{a|RP}} {{IPA|/ˈmelədi/}}, {{SAMPA|/"mel@di/}}
 
 ===Noun===
-'''melody''' (''plural'' '''[[melodies]]''')
+{{en-noun|melod|ies}}
 
-# [[tune]]; sequence of notes that makes up a musical phrase
+# sequence of notes that makes up a musical phrase
+
+====Synonyms====
+*{{sense|sequence of notes that makes up a musical phrase}} [[tune]]
 
 ====Translations====
-{{top}}
+{{trans-top|sequence of notes that makes up a musical phrase}}
 *Bosnian: {{t|bs|melodija|f}}
 *Bulgarian: [[мелодия]] (melodija) {{f}}
 *Chinese: [[曲调]], [[歌曲]]
@@ -29,10 +27,10 @@ Middle English [[melodie]], borrowed from Old French [[melodie]], borrowed from 
 *Esperanto: [[melodio]]
 *Estonian: [[meloodia]]
 *Finnish: [[melodia]], [[sävel]]
-*French: [[mélodie]] {{f}}
+*French: {{t|fr|mélodie|f}}
 *German: [[Melodie]] {{f}}
 *Greek, Modern: [[μελωδία]] (melodia)
-{{mid}}
+{{trans-mid}}
 *Kurdish: {{KUchar|[[ئاواز]]}}
 *Hungarian: [[dallam]], [[melódia]]
 *Italian: [[melodia]] {{f}}
@@ -44,10 +42,10 @@ Middle English [[melodie]], borrowed from Old French [[melodie]], borrowed from 
 *:Cyrillic: {{t|sr|мелодија|f}}
 *:Roman: {{t|sr|melodija|f}}
 *Slovene: [[melodija]] {{f}}
-*Spanish: [[melod&iacute;a]] {{f}}
+*Spanish: {{t|es|melodía|f}}
 *Swedish: [[melodi]] {{c}}
 *Turkish: [[melodi]]
-{{bottom}
+{{trans-bottom}}
 
 ====Derived terms====
 *[[melodic]]
@@ -60,8 +58,6 @@ Middle English [[melodie]], borrowed from Old French [[melodie]], borrowed from 
 *[[tune]]
 *[[harmony]]
 *[[music]]
-
-[[Category:Greek derivations]]
 
 [[ang:melody]]
 [[fa:melody]]
