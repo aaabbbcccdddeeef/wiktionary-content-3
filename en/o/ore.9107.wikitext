@@ -2,14 +2,14 @@
 ==English==
 
 ===Pronunciation===
-*(''RP''): ô, /ɔː/, /<tt>O:</tt>/
-*(''US''): ôr, /oʊr/, /ɔːr/, /<tt>O:r</tt>/
-**[[rhymes:English:-ɔː(r)|Rhymes: -ɔː(r)]]
+*{{a|RP}} {{enPR|ô}}, {{IPA|/ɔː/}}, {{SAMPA|/O:/}}
+*{{a|US}} {{enPR|ôr}}, {{IPA|/oʊr/, /ɔːr/}}, {{SAMPA|/O:r/}}
+**{{rhymes|ɔː(r)}}
 *{{audio|en-us-ore.ogg|Audio (US)}}
 *{{audio|en-uk-ore.ogg|Audio (UK)}}
 
 ===Etymology===
-{{OE.}} ''[[ār]]''
+{{OE.}} {{term|ar|ār|lang=ang}}
 
 ====Homophones====
 *[[awe]] (''in [[non-rhotic]] accents'')
@@ -22,10 +22,10 @@
 {{wikipedia}}
 {{en-noun|s|-}}
 
-# [[Rock]] that contains enough of one or more [[metal]]s to be worth processing to obtain the pure metal or metals. Ore usually comes from a [[mine]].
+# [[rock|Rock]] that contains enough of one or more [[metal]]s to be worth processing to obtain the pure metal or metals. Ore usually comes from a [[mine]].
 
 ====Translations====
-{{top}}
+{{trans-top|rock that contains enough material to be process into oure material}}
 *Chinese: [[礦石]], [[矿石]]
 *Dutch: [[erts]] {{n}}
 *Danish: [[malm]] {{c}}
@@ -34,7 +34,7 @@
 *Greek: [[μετάλλευμα]] {{n}}
 *Hebrew: [[עפרה|עַפְרָה]] {{f}}
 *Italian: [[minerale]] {{m}}
-{{mid}}
+{{trans-mid}}
 *Japanese: [[鉱石]]
 *Korean: [[광석]]
 *Portuguese: [[minério]] {{m}}
@@ -44,53 +44,47 @@
 *Swedish: [[malm]] {{c}}
 *Telugu: {{t|te|ముడి ఖనిజం}} (muDi khanijaM)
 *Welsh: [[mwyn]] {{m}}
-{{bottom}}
+{{trans-bottom}}
 
-===See also===
-*[[w:Ore|Wikipedia article on ore]]
+====See also====
+{{pedialite}}
 
 ----
 
 ==Basque==
 
 ===Noun===
-'''ore'''
+{{infl|eu|noun}}
 
 # [[dough]]
-
-[[Category:Basque language]]
 
 ----
 
 ==Guaraní==
 
 ===Pronoun===
-'''ore'''
+{{infl|gn|pronoun}}
 
 # [[us]]
 # [[our]]
-
-[[Category:Guaraní language]]
 
 ----
 
 ==Italian==
 
 ===Noun===
-'''ore''' plural of [[ora]]
+'''ore''' 
 
-# [[hours]]
-
-[[Category:Italian plurals]]
+# {{plural of|[[ora]]|lang=Italian}} ([[hours]])
 
 ----
 
 ==Latin==
-===Noun===
-'''ōre''' {{n}}
-# {{inflection of|os#Latin|ōs|abl|s}}
 
-[[category:Latin noun forms]]
+===Noun===
+{{infl|la|noun form|head=ōre|n}}
+
+# {{inflection of|os#Latin|ōs|abl|s}}
 
 ----
 
@@ -98,7 +92,8 @@
 
 ===Noun===
 {{ro-pl|oră|gend=f}}
-#[[hours]]
+
+# [[hours]]
 
 [[af:ore]]
 [[de:ore]]
