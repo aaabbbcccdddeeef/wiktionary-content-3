@@ -2,28 +2,27 @@
 ==English==
 
 ===Etymology===
-From {{OF.}} ''[[juge]] (noun), [[jugier]] (verb)'', ultimately from Latin ''[[judicare]], [[judicem]]'', from ''[[jus]]'' ‘law’ + ''[[dicus]]'' ‘speaker’.
+From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|lang=fro}}, ultimately from {{L.}} {{term|judicare|lang=la}}, {{term|judicem|lang=la}}, from {{term|jus||law|lang=la}} + {{term|dicus||speaker|lang=la}}.
 
 ===Pronunciation===
-*{{IPA|/dʒʌdʒ/}}
-*{{SAMPA|/dZVdZ/}}
-*{{AHD|/jŭj/}}
-*{{audio|en-us-judge.ogg|Audio (US)}}
-:*{{rhymes|ʌdʒ}}
+* {{IPA|/dʒʌdʒ/}}, {{SAMPA|/dZVdZ/}}, {{enPR|jŭj}}
+* {{audio|en-us-judge.ogg|Audio (US)}}
+* {{rhymes|ʌdʒ}}
 
 ===Noun===
-{{wikipedia}}
 {{en-noun}}
 
-# A public [[official]] whose duty it is to administer the law, especially by [[presiding]] over [[trial]]s and rendering [[judgment]]s; a [[justice]].
-# A [[person]] who [[decide]]s the [[fate]] of someone or something that has been called into question.
-# A person [[officiate|officiating]] at a sports or similar event.
-#:''At a [[boxing match]] the decision of the '''judges''' is final.''
-# A person whose opinion on a subject is respected.
+# A public [[official]] whose duty it is to [[administer]] the [[law]], especially by [[presiding]] over [[trial]]s and [[render]]ing [[judgment]]s; a [[justice]].
+# A [[person]] who [[decide]]s the [[fate]] of someone or something that has been [[call]]ed into [[question]].
+# A person [[officiate|officiating]] at a [[sports]] or similar [[event]].
+#:''At a boxing match the decision of the '''judges''' is final.''
+# A person whose [[opinion]] on a [[subject]] is [[respect]]ed.
 #:''He is a good '''judge''' of wine.''
 
+{{rfex}}
+
 ====Synonyms====
-*{{italbrac|official of the court}}: [[justice]]
+* {{i-c|official of the court}} [[justice]]
 
 ====Translations====
 {{trans-top|public judicial official}}
@@ -31,15 +30,16 @@ From {{OF.}} ''[[juge]] (noun), [[jugier]] (verb)'', ultimately from Latin ''[[j
 *[[Catalan]]: [[jutge]] {{m}}
 *Croatian: {{t|hr|sudac|m}}
 *Czech: [[soudce]] {{m}}
+*Dutch: {{t|nl|rechter|mf}}
 *Finnish: [[tuomari]]
-*French: [[juge]] {{m}}/{{f}}
+*French: [[juge]] {{mf}}
 *Greek:
 *:Ancient: [[κριτής]] {{m}}
 *:Modern: [[δικαστής]] (dikastís) {{c}}
 *Italian: [[giudice]]
 {{trans-mid}}
 *Latin: [[iudex]] {{m}}
-*Malay: hakim
+*{{ttbc|Malay}}: [[hakim]]
 *Portuguese: [[juiz]] {{m}}, [[juíza]] {{f}}
 *Russian: [[судья]] (sud’já) {{mf}}
 *Serbian:
@@ -49,11 +49,12 @@ From {{OF.}} ''[[juge]] (noun), [[jugier]] (verb)'', ultimately from Latin ''[[j
 *Spanish: [[juez]] {{m}}
 {{trans-bottom}}
 
-{{trans-top|someone deciding another's fate}}
+{{trans-top|someone deciding another’s fate}}
 *Bosnian: {{t|bs|sudija|m}}
 *Croatian: {{t|hr|sudac|m}}
+*Dutch: {{t|nl|rechter|mf}}
 *Finnish: [[tuomari]]
-*French: [[juge]] {{m}}/{{f}}
+*French: [[juge]] {{mf}}
 {{trans-mid}}
 *Latin: [[iudex]] {{m}}
 *Portuguese: [[juiz]] {{m}}, [[juíza]] {{f}}
@@ -68,8 +69,9 @@ From {{OF.}} ''[[juge]] (noun), [[jugier]] (verb)'', ultimately from Latin ''[[j
 *Bosnian: {{t|bs|sudija|m}}
 *[[Catalan]]: [[àrbitre]] {{m}}
 *Croatian: {{t|hr|sudac|m}}
+*Dutch: {{t|nl|scheidsrechter|mf}}
 *Finnish: [[tuomari]]
-*French: [[arbitre]] {{m}}/{{f}}
+*French: [[arbitre]] {{mf}}
 *Greek: [[κριτής]] (kritís) {{c}}
 *Italian: [[giudice]], [[arbitro]]
 {{trans-mid}}
@@ -83,6 +85,7 @@ From {{OF.}} ''[[juge]] (noun), [[jugier]] (verb)'', ultimately from Latin ''[[j
 {{trans-bottom}}
 
 {{trans-top|someone with valued opinions}}
+*Dutch: {{t|nl|kenner|m}}, {{t|nl|beoordelaar|m}}
 *Finnish: [[tuntija]], [[asiantuntija]]
 *Greek: [[γνώστης]] (gnóstis) {{c}}
 *Italian: [[intenditore]]
@@ -96,7 +99,6 @@ From {{OF.}} ''[[juge]] (noun), [[jugier]] (verb)'', ultimately from Latin ''[[j
 {{trans-top|Translations to be categorised}}
 *{{ttbc|Albanian}}: [[gjyqtar]] {{m}}
 *{{ttbc|Breton}}: [[barner]] {{m}}
-*{{ttbc|Dutch}}: [[rechter]] {{m}}
 *{{ttbc|Esperanto}}: [[juĝisto]]
 *{{ttbc|German}}: [[Richter]] {{m}}, [[Richterin]] {{f}}
 *{{ttbc|Hungarian}}: [[bíró]]
@@ -111,25 +113,39 @@ From {{OF.}} ''[[juge]] (noun), [[jugier]] (verb)'', ultimately from Latin ''[[j
 ===Verb===
 {{en-verb|judg|ing}}
 
-# {{transitive}} To sit in judgment on; to pass sentence on.
-#:''A higher power will '''judge''' you after you are dead.''
+# {{transitive}} To sit in [[judgment]] on; to [[pass]] [[sentence]] on.
+#: ''A higher power will '''judge''' you after you are dead.''
 # {{intransitive}} To sit in judgment, to act as judge.
-#:''Justices in this country '''judge''' without appeal.''
+#: ''Justices in this country '''judge''' without appeal.''
 # {{transitive}} To [[form]] an [[opinion]] on.
-#:''I '''judge''' a man's character by the cut of his suit.''
-# {{intransitive}} To [[arbitrate]]; to pass opinion on something, especially to settle a dispute etc.
-#:''We cannot both be right: you must '''judge''' between us.''
+#: ''I '''judge''' a man’s character by the cut of his suit.''
+# {{intransitive}} To [[arbitrate]]; to pass [[opinion]] on something, especially to [[settle]] a [[dispute]] etc.
+#: ''We cannot both be right: you must '''judge''' between us.''
 # {{transitive}} To have as an opinion; to [[consider]], [[suppose]].
-#:''I '''judge''' it safe to leave the house once again.''
+#: ''I '''judge''' it safe to leave the house once again.''
 # {{intransitive}} To form an opinion; to [[infer]].
 #: ''I '''judge''' from the sky that it might rain later.''
-# The act of criticizing or labeling another person or thing.
+# {{intransitive}} The [[act]] of [[criticize|criticizing]] or [[label]]ing another person or thing.
+{{rfex}}
+
+====Related terms====
+{{top2}}
+*[[abjudge]]
+*[[abjudicate]]
+*[[adjudicate]]
+{{mid2}}
+*[[judgment]]
+*[[judicator]]
+*[[judicial]]
+*[[judiciary]]
+{{bottom}}
 
 ====Translations====
-{{trans-top|''(transitive)'' To sit in judgment on; to pass sentence on}}
+{{trans-top|sit in judgment on, pass sentence on}}
 *Bosnian: [[suditi]], [[osuditi]], [[presuditi]]
 *[[Catalan]]: [[jutjar]]
 *Croatian: [[suditi]], [[osuditi]], [[presuditi]]
+*Dutch: {{t|nl|oordelen}}
 *French: [[juger]]
 *[[Ancient Greek]]: [[κρίνω]] (krinō)
 {{trans-mid}}
@@ -137,16 +153,17 @@ From {{OF.}} ''[[juge]] (noun), [[jugier]] (verb)'', ultimately from Latin ''[[j
 *Russian: [[судить]] (sudít') {{impf}}
 *Serbian:
 *:Cyrillic: [[судити]], [[осудити]], [[пресудити]]
-*:Roman: [[suditi#Serbian|suditi]], [[osuditi#Serbian|osuditi]], [[presuditi#Serbian|presuditi]]
+*:Roman: {{t|sr|suditi}}, {{t|sr|osuditi}}, {{t|sr|presuditi}}
 *Slovene: [[soditi]]
 *Spanish: [[juzgar]]
 {{trans-bottom}}
 
-{{trans-top|''(intransitive)'' To sit in judgment on, to act as judge}}
+{{trans-top|sit in judgment on, act as judge}}
 *Bosnian: [[suditi]]
 *[[Catalan]]: [[jutjar]]
 *Croatian: [[suditi]]
 *Czech: [[soudit]]
+*Dutch: {{t|nl|oordelen}}, {{t|nl|rechtspreken}}
 *French: [[juger]]
 *[[Ancient Greek]]: [[κρίνω]] (krinō)
 {{trans-mid}}
@@ -154,13 +171,14 @@ From {{OF.}} ''[[juge]] (noun), [[jugier]] (verb)'', ultimately from Latin ''[[j
 *Russian: [[судить]] (sudít') {{impf}}
 *Serbian:
 *:Cyrillic: [[судити]]
-*:Roman: [[suditi#Serbian|suditi]]
+*:Roman: {{t|sr|suditi}}
 *Slovene: [[soditi]]
 *Spanish: [[juzgar]]
 {{trans-bottom}}
 
-{{trans-top|To form an opinion on}}
+{{trans-top|form an opinion on}}
 *[[Ancient Greek]]: [[κρίνω]] (krinō)
+*Dutch: {{t|nl|beoordelen}}
 *French: [[juger]]
 {{trans-mid}}
 *Portuguese: [[julgar]]
@@ -168,8 +186,9 @@ From {{OF.}} ''[[juge]] (noun), [[jugier]] (verb)'', ultimately from Latin ''[[j
 *Slovene: [[soditi]]
 {{trans-bottom}}
 
-{{trans-top|To arbitrate; to pass opinion on something}}
+{{trans-top|arbitrate, to pass opinion on something}}
 *[[Ancient Greek]]: [[κρίνω]] (krinō)
+*Dutch: {{t|nl|oordelen}}, {{t|nl|bemiddelen}}
 *French: [[juger]]
 {{trans-mid}}
 *Portuguese: [[julgar]]
@@ -177,11 +196,24 @@ From {{OF.}} ''[[juge]] (noun), [[jugier]] (verb)'', ultimately from Latin ''[[j
 *Slovene: [[razsoditi]]
 {{trans-bottom}}
 
-{{checktrans}}
-{{trans-top|Translations to be categorised}}
+{{trans-top|have as an opinion, consider, suppose}}
+*Dutch: {{t|nl|oordelen}}, {{t|nl|achten}}, {{t|nl|houden}} {{t|nl|voor}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|form an opinion, infer}}
+*Dutch: {{t|nl|oordelen}}, {{t|nl|afleiden}}, {{t|nl|schatten}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|act of criticizing or labeling another person or thing}}
+*Dutch: {{t|nl|beoordelen}}, {{t|nl|veroordelen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
 *{{ttbc|Albanian}}: [[gjykon]]
 *{{ttbc|Breton}}: [[barn]]
-*{{ttbc|Dutch}}: [[oordelen]]
 *{{ttbc|Esperanto}}: [[juĝi]]
 *{{ttbc|German}}: [[urteilen]] (1), [[richten]] (1), [[beurteilen]] (2), [[verurteilen]] (4)
 *{{ttbc|Hungarian}}: [[ítél]]
@@ -193,23 +225,6 @@ From {{OF.}} ''[[juge]] (noun), [[jugier]] (verb)'', ultimately from Latin ''[[j
 *{{ttbc|[[Novial]]}}: [[judika]]
 *{{ttbc|Turkish}}: [[hükmektmek]], [[yargıya varmak]]
 {{trans-bottom}}
-
-===Related terms===
-{{top2}}
-*[[abjudge]]
-*[[abjudicate]]
-*[[abjudicator]]
-*[[adjudicate]]
-*[[adjudication]]
-*[[adjudicator]]
-{{mid2}}
-*[[adjudicatory]]
-*[[judgment]]
-*[[judicator]]
-*[[judicatory]]
-*[[judicial]]
-*[[judiciary]]
-{{bottom}}
 
 [[Category:1000 English basic words]]
 [[Category:Law]]
