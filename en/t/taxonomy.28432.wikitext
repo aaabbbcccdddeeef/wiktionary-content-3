@@ -2,16 +2,16 @@
 ==English==
 
 ===Etymology===
-:From {{Gr.}} [[τάξις]] (''taxis'') "arrangement, order" + [[-νομία]] (''-nomia'') "method", from [[νόμος]] (''-nomos'') "law, managing" from [[νέμειν]] (''nemein'') "manage".
+From {{Gr.}} {{term|sc=Grek|τάξις|tr=taxis||arrangement, order|lang=el}} + {{term|sc=Grek|-νομία|tr=-nomia||method|lang=el}}, from {{term|sc=Grek|νόμος|tr=-nomos||law, managing|lang=el}} from {{term|sc=Grek|νέμειν|tr=nemein||manage|lang=el}}.
 
 ===Noun===
-{{en-noun-reg-y|taxonom|y}}
+{{en-noun|taxonom|ies}}
 
-# {{context|systematics|uncountable}}: The science of finding, describing, classifying and naming [[organism]]s.
+# {{context|systematics|uncountable}} The science of finding, describing, classifying and naming [[organism]]s.
 # The [[classification]] in a [[hierarchical]] [[system]].
 
 ====Synonyms====
-* [[alpha taxonomy]] (1)
+*{{sense|science of finding, describing, classifying and naming organisms}} [[alpha taxonomy]]
 
 ====Related terms====
 {{top}}
@@ -63,7 +63,7 @@
 {{bottom}}
 
 ====Translations====
-{{top}}
+{{trans-top}}
 *Arabic: {{ARchar|[[التصنيف]]}} (at-taʂnīf) {{m}}
 *Chinese: [[分類學]], [[分类学]] (fēnlèi xué)
 *Croatian: [[taksonomija]] {{f}}
@@ -75,7 +75,7 @@
 *[[Interlingua]]: [[taxinomia]]
 *Italian: [[tassonomia]] {{f}}
 *Japanese: [[分類学]] (bunruigaku)
-{{mid}}
+{{trans-mid}}
 *Korean: [[분류학]] (bunryuhak)
 *Latin: [[taxonomia]] {{f}}
 *Persian: {{FAchar|[[رده بندی]]}} (rad-e bandi)
@@ -86,7 +86,7 @@
 *Slovak: [[taxonómia]] {{f}}
 *Spanish: [[taxonomía]] {{f}}
 *Turkish: [[sınıflandırma bilimi]], [[taksonomi]]
-{{bottom}}
+{{trans-bottom}}
 
 [[id:taxonomy]]
 [[ru:taxonomy]]
