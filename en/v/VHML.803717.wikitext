@@ -2,79 +2,10 @@
 {{rfv}}
 
 ==={{initialism}}===
-{{wikipedia}}
 '''VHML'''
 
-# [[w:VHML|Virtual Human Markup Language]]; a set of tags and rules used to accommodate the various aspects of ''[[Wikipedia:Human-Computer Interaction|Human-Computer Interaction]]'' with regards to ''[[Wikipedia:Computer_facial_animation|Facial Animation]]'', Body Animation, ''[[Wikipedia:Dialog_system|Dialogue Manager]]'' interaction, ''[[Wikipedia:Speech_synthesis|Text to Emotional Speech]]'' production, Emotional Representation plus Hyper and Multi Media information.
+# [[virtual|Virtual]] [[human|Human]] [[markup language|Markup Language]], a proposed application of [[XML]].
 
-====Description====
-{{rfc-header|Description}}
-
-: The language is ''[[XML]]''/''[[XSL]]'' based and consists of the following sub-systems:
-::* EML Emotion Markup Language
-::* SML Speech Markup Language
-::* FAML Facial Animation Markup Language
-::* BAML Body Animation Markup Language
-::* XHTML HyperText Markup Language
-::* DMML Dialogue Manager Markup Language
-
-: Although general in nature, the intent of this language is to facilitate the natural and realistic interaction<br>
-of a Talking Head or Virtual Human with a user via a Web page or application.
-
-====Translations====
-{{top}}
-
-{{bottom}}
-
-====Related terms====
-{{wikipedia| XML}}
-* [[XML]]
-{{wikipedia| SGML}}
-* [[SGML]]
-
-===Example===
-{{top}}
-<table align="wleft" border="0" cellpadding="1" cellspacing="0" >
-<tr>
-<td bgcolor="#eeeeee" width="100%"><table border="0" cellpadding="4" cellspacing="0" width="100%">
-<tr>
-<td class="white_td">
-
-&lt;'''person''' ''gender''="female" ''voice''="english:en1" ''name''="penguin_mermaid"&gt;<br>
-&lt;'''p'''&gt;<br>
-&lt;'''happy'''&gt;<br>
-Hi &lt;'''say-as''' ''sub''="yasinta"&gt;Jacinta&lt;/'''say-as'''&gt;&lt;'''break''' ''size''="large"/&gt;<br>
-Here is a little story about an Owl and a Pussy Cat.<br>
-&lt;/'''happy'''&gt;<br>
-&lt;/'''p'''&gt;<br>
-&lt;'''p'''&gt;<br>
-The Owl and the Pussy-Cat went to sea<br>
-in a &lt;'''prosody''' ''duration''="500ms"&gt;beautiful&lt;/'''prosody'''&gt; pea-green boat.<br>
-They took some honey, &lt;'''smile''' ''intensity''="low" ''duration''="1"/&gt;<br>
-&lt;'''look-left''' ''duration''="250ms"/&gt;<br>
-and plenty of money &lt;'''look-right''' ''duration''="250ms"/&gt;<br>
-wrapped up in a five-pound note.<br>
-&lt;/'''p'''&gt;<br>
-&lt;/'''person'''&gt;
-</td></tr></table></td></tr></table>
-: [http://www.vhml.org/examples/vhml_examples.shtml| Multi-media examples.]
-{{bottom}}
-
-===Home Page===
-http://www.vhml.org/
-
-===VHML Logo===
-[[Image:VHML Logo.jpg|350px]]
-<br clear="all"/>
-
-===References===
-:* [http://www.w3.org/2005/Incubator/emotion/XGR-emotion| Final Report] of the [http://www.w3.org/2005/Incubator/emotion/XGR-emotion/| W3C Emotion Incubator Group]. 10 July 2007.
-:* [http://www.vhml.org/vhml_publications.shtml| Publications on VHML]. http://www.vhml.org
-:* [http://www.vhml.org/vhml_documents.shtml| Specification of VHML]. http://www.vhml.org
-:* [http://www.w3.org/TR/speech-synthesis| Speech Synthesis Markup Language] Specification. September 13 2001.
-
-===See also===
-{{wikipedia| XHTML}}
-* [[XHTML]]
-{{wikipedia| SSML}}
-* [[SSML]]
+===External links===
+*[http://www.vhml.org/ VHML home page]
+{{pedialite|XML}}
