@@ -1,5 +1,6 @@
-==English==
 {{wikipedia}}
+==English==
+
 ===Pronunciation===
 *{{AHD|ĕr'ə(r)}}, {{IPA|/ˈɛrə(ɹ)/}}, {{SAMPA|/"Er@(r)/}}
 *{{audio|en-us-error.ogg|Audio (US)}}
@@ -10,7 +11,7 @@
 {{en-noun|s|-}}
 
 #{{countable}} A [[mistake]].
-#{{mathematics}} The [[difference]] between a [[measured]] [[value]] and a [[calculated]] one
+#{{mathematics}} The [[difference]] between a [[measured]] or [[calculated]] [[value]] and a [[true]] one.
 #{{baseball|countable}} A play which is scored as having been made incorrectly.
 #{{context|appellate|_|law|uncountable}} One or more mistakes in a trial that could be grounds for review of the judgement.
 
@@ -31,37 +32,37 @@
 *[[trial and error]]
 
 ====Translations====
-{{trans-top|A mistake}}
+{{trans-top|mistake}}
+*Finnish: {{t|fi|virhe}}
 {{trans-mid}}
 *Portuguese: [[erro]] {{m}}
 {{trans-bottom}}
 
-{{trans-top|The difference between a measured value and a calculated one}}
+{{trans-top|difference between a measured or calculated value and a true one}}
+*Finnish: {{t|fi|virhe}}
 {{trans-mid}}
 *Portuguese: [[erro]] {{m}}
 {{trans-bottom}}
 
-{{trans-top|A play which is scored as having been made incorrectly}}
+{{trans-top|baseball: play which is scored as having been made incorrectly}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|One or more mistakes in a trial that could be grounds for review of the judgement}}
+{{trans-top|one or more mistakes in a trial that could be grounds for review of the judgement}}
 {{trans-mid}}
 {{trans-bottom}}
-=====Translations to be checked=====
-{{checktrans}}
-{{top}}
+
+{{ttbc-top}}
 *{{ttbc|Bulgarian}}: [[грешка]] {{f}}
 *{{ttbc|Czech}}: [[chyba]] {{f}}, [[omyl]] {{m}}
 *{{ttbc|Danish}}: [[fejl]] ''en'',
 *{{ttbc|Dutch}}: [[fout]], [[vergissing]] {{f}}
-*{{ttbc|Finnish}}: [[virhe]]*
 *{{ttbc|French}}: [[erreur]] {{f}}
 *{{ttbc|German}}: [[Fehler]] {{m}}
 *{{ttbc|Greek}}: [[σφάλμα]] {{n}}
 *{{ttbc|Hebrew}}: [[שגיאה]] {{f}}, [[טעות]] {{f}}
 *{{ttbc|Hungarian}}: [[hiba]]
-{{mid}}
+{{trans-mid}}
 *{{ttbc|Italian}}: [[errore]] {{m}}
 *{{ttbc|Japanese}}: [[誤り]]、[[間違い]]、[[誤差]]
 *{{ttbc|Polish}}: [[błąd]] {{m}}
@@ -71,12 +72,12 @@
 *{{ttbc|Slovene}}: [[napaka]] {{f}}
 *{{ttbc|Spanish}}: error {{m}}, [[yerro]] {{m}}
 *{{ttbc|Swedish}}: [[fel]] {{n}}, [[misstag]] {{n}}
-{{bottom}}
+{{trans-bottom}}
 
 ===Verb===
 {{en-verb}}
 
-# To make a mistake; to result in an error.
+# {{non-standard}} To make a mistake; to result in an error.
 #*'''1993''' December, Arie Kaufman (editor), ''Rendering, Visualization, and Rasterization Hardware'', Springer-Verlag New York LLC
 #*:Pixels which are mathematically outside of a triangle, but which are included for anti-aliasing purposes can be generated with colour and depth information outside of the valid range. The ADE should identify these cases and clamp the output to the minimum or maximum value depending on the direction it has '''errored''' in.
 #*'''2000''' December, Randy W. Kamphaus, ''Clinical Assessment of Child And Adolescent Intelligence'', Allyn & Bacon
@@ -90,18 +91,9 @@
 *[[err]]
 
 ====Translations====
-{{top}}
-*Bulgarian: [[греша]]
-*Czech: [[chybovat]]
-*Danish: [[fejle]]
-*Dutch: een [[fout]] [[maken]], een [[vergissing]] maken, [[zich vergissen]]
-*Finnish: [[erehtyä]], [[tehdä virhe]]
-{{mid}}
-*German: [[Fehler]]
-*Hungarian: [[téved]], [[hibázik]]
-*Portuguese: [[errar]]
-*Swedish: [[fela]], [[göra]] [[misstag]]
-{{bottom}}
+{{trans-top}}
+''See: '' [[err]]
+{{trans-bottom}}
 
 ====Derived terms====
 *[[errored]]
@@ -121,13 +113,13 @@
 *'''[[IPA]]''': [e.ˈroɾ]
 
 ===Noun===
-'''error''' ''m''
+'''error''' {{m}}
 
-# error
+# An '''error'''
 
 ====Synonyms====
-*[[equivocación]]
-*[[yerro]]
+*[[equivocación]] {{f}}
+*[[yerro]] {{m}}
 
 ===Related terms===
 *[[errar]]
