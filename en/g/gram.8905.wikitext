@@ -2,10 +2,13 @@
 ==English==
 
 ===Alternative spellings===
-*(''chiefly [[w:British English|British]], but now old-fashioned'') [[gramme]]
+* {{qualifier|chiefly [[w:British English|British]], but now old-fashioned}} [[gramme]]
 
-===Etymology===
-From French ''[[gramme#French|gramme]]'', from {{AGr.}} '''[[γραμμάριον]]''' (''grammarion'') “weight of two [[obol]]s”, from '''[[γραμμή]]''' (''gramme'') “line”.
+===Alternative forms===
+* Symbol: [[g]]
+
+===Etymology 1===
+From {{F.}} {{term|gramme|lang=fr}}, from {{AGr.}} {{term|sc=polytonic|γραμμάριον|tr=grammárion||weight of two [[obol]]s}}, from {{term|sc=polytonic|γραμμή|tr=grammḗ||line}}.
 
 ===Pronunciation===
 *{{audio|en-us-gram.ogg|Audio (US)}}
@@ -13,13 +16,12 @@ From French ''[[gramme#French|gramme]]'', from {{AGr.}} '''[[γραμμάριο�
 *:Rhymes: [[Rhymes:English:-æm|-æm]]
 
 ===Noun===
-'''gram''' (''plural:'' '''[[grams]]''')
+{{en-noun}}
 
-# A unit of [[mass]] equal to one-[[thousandth]] of a [[kilogram]] (symbol: [[g]]).
+# A unit of [[mass]] equal to one-[[thousandth]] of a [[kilogram]].
 
-===Translations===
-{{rfc-level|Translations at L3+ (AutoFormat would have corrected level of Translations)}}
-{{top}}
+====Translations====
+{{trans-top|unit of mass}}
 *Albanian: gram {{g|Albanian}}
 *Arabic: {{ARchar|[[جرام]]}} (gram) {{m}}
 *Chinese: [[克]] (kè)
@@ -31,7 +33,7 @@ From French ''[[gramme#French|gramme]]'', from {{AGr.}} '''[[γραμμάριο�
 *Greek: [[γραμμάρια]] (grammária) {{f}}
 *[[Gujarati]]: [[ગ્રામ]] (grāma)
 *Hindi: [[ग्राम]] (grāma) {{g|Hindi}}
-{{mid}}
+{{trans-mid}}
 *Italian: [[grammo]] {{m}}
 *Japanese: [[グラム]] (guramu)
 *Korean: [[그램]] geuraem
@@ -40,21 +42,20 @@ From French ''[[gramme#French|gramme]]'', from {{AGr.}} '''[[γραμμάριο�
 *[[Quechua]]: [[k'isura]]
 *Romanian: gram {{n}}
 *Russian: [[грамм]] (gramm) {{m}}
-*Spanish: [[gramo]] {{m}}
+*Spanish: {{t|es|gramo|m}}
 *Swedish: gram {{n}}
 *Vietnamese: [[gam]]
-{{bottom}}
+{{trans-bottom}}
 
-<!--separate etymology here-->
+===Etymology 2===
 
-===Noun===
-'''gram''' (''[[uncountable]]'')
+====Noun====
+{{en-noun|-}}
 
 # A group of [[leguminous]] plants that are grown for their seeds.
 # {{uncountable}} The seeds of these plants.
 
 ===See also===
-*[[g]]
 *[[kilogram]]
 *[[milligram]]
 *[[Appendix:Weights_and_measures#SI_units|List of SI units]]
@@ -64,24 +65,24 @@ From French ''[[gramme#French|gramme]]'', from {{AGr.}} '''[[γραμμάριο�
 ==Dutch==
 
 ===Noun===
-'''gram''' {{m}}
+{{infl|nl|noun|g=m}}
 
-# gram (''unit of mass'')
+# gram (unit of mass)
 
 ----
 
 ==Old English==
 
 ===Etymology===
-Germanic ''*gram-''.
+Germanic *{{term||gram-}}.
 
 ===Pronunciation===
 *{{audio|en-us-gram.ogg|Audio (US)}}
 
-*{{IPA|/gram/}}
+* {{IPA|lang=ang|/gram/}}
 
 ===Adjective===
-'''gram'''
+{{infl|ang|adjective}}
 
 # [[angry]], [[hostile]]
 
@@ -90,36 +91,36 @@ Germanic ''*gram-''.
 ==Polish==
 
 ===Noun===
-'''gram''' {{m}}
+{{infl|pl|noun|g=m}}
 
-# gram (''unit of mass'')
+# gram (unit of mass)
 
 ----
 
 ==Romanian==
 
 ===Noun===
-'''gram''' {{n}}
+{{infl|ro|noun|g=n}}
 
-# gram (''unit of mass'')
+# gram (unit of mass)
 
 ----
 
 ==Swedish==
 
 ===Noun===
-'''gram''' {{n}}
+{{infl|sv|noun|g=n}}
 
-# gram (''unit of mass'')
+# gram (unit of mass)
 
 ----
 
 ==Tatar==
 
 ===Noun===
-'''gram'''
+{{infl|tt|noun}}
 
-# gram (''unit of mass'').
+# gram (unit of mass).
 
 ====Declension====
 {{tt-latin-noun|nıñ|ga|nı|da|nan}}
@@ -128,7 +129,6 @@ Germanic ''*gram-''.
 ===References===
 *[http://www.azatliq.org/news/international/tb/archives/2006/09/09.asp 595 gram]
 
-[[Category:Tatar nouns]]
 [[Category:Units of measure]]
 [[Category:tt:Units of measure]]
 
