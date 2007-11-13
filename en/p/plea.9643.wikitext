@@ -1,42 +1,62 @@
-{{rfc}}
+{{rfc|why?}}
 ==English==
 
 ===Pronunciation===
-/<tt>pli:</tt>/
-*Rhymes: [[Rhymes:English:-iː|-iː]]
+* {{SAMPA|/pli:/}}
+* {{rhymes|iː}}
+{{rfp}}
 
 ===Noun===
-'''plea'''
+{{en-noun}}
 
-# ([[Law]]) That which is alleged by a party in support of his cause; in a stricter sense, an allegation of [[fact]] in a [[cause]], as distinguished from a [[demurrer]]; in a still more limited sense, and in modern practice, the defendant's answer to the [[plaintiff]]'s declaration and [[demand]]. That which the plaintiff alleges in his declaration is answered and repelled or justified by the [[defendant]]'s plea. In chancery practice, a plea is a special answer showing or relying upon one or more things as a cause why the suit should be either dismissed, delayed, or barred. In criminal practice, the plea is the defendant's formal answer to the indictment or information presented against  him / her.
-# (Law) A cause in court; a [[lawsuit]]; as, the Court of Common Pleas. See under [[Common]].
-#:''The Supreme Judicial Court shall have cognizance of '''pleas''' real, personal, and mixed.''      --Laws of Massachusetts.
-# That which is alleged or pleaded, in defense or in justification; an excuse; an apology.
-#: ''Necessity, the tyrant's '''plea'''.'' --Milton.
-#: ''No '''plea''' must serve; 't is cruelty to spare.'' --Denham.
-# An urgent prayer or entreaty.
+# {{context|law}} That which is [[allege]]d by a [[party]] in [[support]] of his [[cause]]; in a stricter sense, an [[allegation]] of [[fact]] in a cause, as [[distinguish]]ed from a [[demurrer]]; in a still more limited sense, and in modern practice, the defendant’s answer to the [[plaintiff]]’s declaration and [[demand]]. That which the plaintiff alleges in his declaration is answered and repelled or justified by the [[defendant]]’s plea. In [[chancery]] practice, a plea is a special answer showing or relying upon one or more things as a cause why the suit should be either dismissed, delayed, or barred. In criminal practice, the plea is the defendant’s formal answer to the [[indictment]] or information presented against  him/her.
+# {{context|law}} A cause in court; a [[lawsuit]]; as, the Court of Common Pleas. See under [[Common]].
+#: {{rfdate}} ''The Supreme Judicial Court shall have cognizance of '''pleas''' real, personal, and mixed.''      --Laws of Massachusetts.
+# That which is alleged or [[plead]]ed, in [[defense]] or in [[justification]]; an [[excuse]]; an [[apology]].
+#: {{rfdate}} ''Necessity, the tyrant’s '''plea'''.'' --Milton.
+#: {{rfdate}} ''No '''plea''' must serve; ‘t is cruelty to spare.'' --Denham.
+# An [[urgent]] [[prayer]] or [[entreaty]].
 
 ====Related terms====
-*"Pleas of the [[crown]]" (English Law), criminal actions.
-*[[plead]] Verb, to make a plea.
+* [[Pleas of the crown]] <!--move this to <-that page -->(English Law), criminal actions.
+* [[plead]]
 
 ====Translations====
-{{trans-top|}}
-*Arabic: {{Arab|[[دعوى قضائية]]}} {{IPAchar|(dáʕwa qaɖa’íyya)}} {{f}}
-*Chinese: [[请求]] (qǐngqiú)
-*Dutch: [[smeking]] {{f}}
-*Finnish: [[vetoomus]]
-*French: [[supplication]] {{f}}
-*German: [[Plädoyer]] {{n}}
-*Hungarian: [[védőbeszéd]]
+{{trans-top|answer to plaintiff’s declaration}}
+* Dutch: {{t|nl|pleidooi|n}}
 {{trans-mid}}
-*Italian: [[supplica]] {{f}}
-*Japanese: [[弁解]] (べんかい, benkai)
-*Korean: [[간청]] (gancheong)
-*Portuguese: [[súplica]] {{f}}
-*Russian: [[оправдание]] (opravdánije) {{n}}
-*Spanish: [[súplica]] {{f}}
-*Swedish: [[försvar]] {{c}}
+{{trans-bottom}}
+
+{{trans-top|cause in court}}
+* Dutch: {{t|nl|zaak|f}}, {{t|nl|rechtszaak|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|excuse}}
+* Dutch: {{t|nl|pleidooi|n}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|urgent prayer}}
+* Dutch: {{t|nl|pleidooi|n}}, {{t|nl|smeekbede|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+*{{ttbc|Arabic}}: {{Arab|[[دعوى قضائية]]}} {{IPAchar|(dáʕwa qaɖa’íyya)}} {{f}}
+*{{ttbc|Chinese}}: [[请求]] (qǐngqiú)
+*{{ttbc|Finnish}}: [[vetoomus]]
+*{{ttbc|French}}: [[supplication]] {{f}}
+*{{ttbc|German}}: [[Plädoyer]] {{n}}
+*{{ttbc|Hungarian}}: [[védőbeszéd]]
+{{trans-mid}}
+*{{ttbc|Italian}}: [[supplica]] {{f}}
+*{{ttbc|Japanese}}: [[弁解]] (べんかい, benkai)
+*{{ttbc|Korean}}: [[간청]] (gancheong)
+*{{ttbc|Portuguese}}: [[súplica]] {{f}}
+*{{ttbc|Russian}}: [[оправдание]] (opravdánije) {{n}}
+*{{ttbc|Spanish}}: [[súplica]] {{f}}
+*{{ttbc|Swedish}}: [[försvar]] {{c}}
 {{trans-bottom}}
 
 [[fr:plea]]
