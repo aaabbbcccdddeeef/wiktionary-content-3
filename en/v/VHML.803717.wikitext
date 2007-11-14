@@ -1,17 +1,27 @@
 ==English==
-{{rfv}}
 
 ==={{initialism}}===
+{{wikipedia}}
 '''VHML'''
 
-# [[virtual|Virtual]] [[human|Human]] [[markup language|Markup Language]], a proposed application of [[XML]].
-#* '''2001''', Marriott ''et al''., "VHML — Directing a Talking Head", in Jiming Liu, ed., ''Active Media Technology: 6th International Computer Science Conference'', page 90
-#*: '''VHML''' is currently being used in several Talking Head applications as well.
-#* '''2004''', Matthias Klusch et al., "Interactive Information Agents and Interfaces", in Robert W. Proctor and Kim-Phuong L. Vu (eds.), ''Handbook Of Human Factors In Web Design'',<sup>[http://books.google.com/books?id=VDH-avkyfVkC]</sup> Routledge, ISBN 0-8058-4612-3, page 229,
-#*: As an alternative to character-specific adjuncts to programming languages, XML-compliant character scripting languages have been be defined,<!-- [sic] --> such as '''VHML''' (www.vhml.org) or MPML (www.miv.t.u-tokyo.ac.jp/MPML/).
-#* '''2004''', Gebhard ''et al''., "Coloring Multi-character Conversations through the Expression of Emotions", in Elisabeth André, ed., ''Affective Dialogue Systems: Tutorial and Research Workshop, ADS 2004'', page 138,
-#*: […] this approach shares similarities with proposals for character scripting languages comprising emotion tags, such as AML, APML, MPML, or '''VHML'''.
+# [[w:VHML|Virtual Human Markup Language]]; a set of tags and rules used to accommodate the various aspects of ''[[Wikipedia:Human-Computer Interaction|Human-Computer Interaction]]'' with regards to ''[[Wikipedia:Computer_facial_animation|Facial Animation]]'', Body Animation, ''[[Wikipedia:Dialog_system|Dialogue Manager]]'' interaction, ''[[Wikipedia:Speech_synthesis|Text to Emotional Speech]]'' production, Emotional Representation plus Hyper and Multi Media information.<br/>Although general in nature, the intent of this language is to facilitate the natural and realistic interaction of a Talking Head or Virtual Human with a user via a Web page or application.
+
+===References===
+:* [http://www.w3.org/2005/Incubator/emotion/XGR-emotion| Final Report] of the [http://www.w3.org/2005/Incubator/emotion/XGR-emotion/| W3C Emotion Incubator Group]. 10 July 2007.
+:* [http://www.vhml.org/vhml_publications.shtml| Publications on VHML]. http://www.vhml.org
+:* [http://www.vhml.org/vhml_documents.shtml| Specification of VHML]. http://www.vhml.org
+:* '''2001''', Marriott ''et al''., "VHML - Directing a Talking Head", in Jiming Liu, ed., ''Active Media Technology: 6th International Computer Science Conference'', page 90
+:: '''VHML''' is currently being used in several Talking Head applications as well.
+:* '''2004''', Matthias Klusch et al., "Interactive Information Agents and Interfaces", in Robert W. Proctor and Kim-Phuong L. Vu (eds.), ''Handbook Of Human Factors In Web Design'',<sup>[http://books.google.com/books?id=VDH-avkyfVkC]</sup> Routledge, ISBN 0-8058-4612-3, page 229,
+:: As an alternative to character-specific adjuncts to programming languages, XML-compliant character scripting languages have been be defined,<!-- [sic] --> such as '''VHML''' (www.vhml.org) or MPML (www.miv.t.u-tokyo.ac.jp/MPML/).
+:* '''2004''', Gebhard ''et al''., "Coloring Multi-character Conversations through the Expression of Emotions", in Elisabeth André, ed., ''Affective Dialogue Systems: Tutorial and Research Workshop, ADS 2004'', page 138,
+:: [] this approach shares similarities with proposals for character scripting languages comprising emotion tags, such as AML, APML, MPML, or '''VHML'''.
 
 ===External links===
-*[http://www.vhml.org/ VHML home page] - permission problem
-{{pedialite|XML}}
+* [http://www.vhml.org/ VHML home page]
+
+===See also===
+{{pedialite| XML}}<br/>
+{{pedialite| SGML}}<br/>
+{{pedialite| XHTML}}<br/>
+{{pedialite| SSML}}<br/>
