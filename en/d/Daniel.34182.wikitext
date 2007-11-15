@@ -13,11 +13,12 @@ From the Greek {{polytonic|[[Δανιήλ]]}} from the Hebrew [[דניּאל]] m
 ===Proper noun===
 '''Daniel''' (Dan&middot;iel)
 
-# The book in the [[Old Testament]] of the [[Bible]]
-# {{given name|male|from Hebrew|}} A male [[given name]]. (Abbreviation: [[Dan]]) (Casual: [[Danny]])
-#: ''Ranked #8 in the U.S. as a male given name during 2003 (20947 males)''
-#:: ''From the [http://www.ssa.gov Social Security Administration], "Popular Baby Names"
-# A female [[given name]]. (Abbreviation: [[Dan]])
+# The book in the [[Old Testament]] of the [[Bible]].
+# {{biblical character}} The prophet whose story is told in the Book of Daniel.
+# {{given name|male|from Hebrew|}} in regular use since the Middle Ages and recently quite popular.
+<!-- no need to specify this, or we should give exact data on all names in all countries:#: ''Ranked #8 in the U.S. as a male given name during 2003 (20947 males)''
+#:: ''From the [http://www.ssa.gov Social Security Administration], "Popular Baby Names"-->
+# {{context|rare}}{{given name|female}}.
 # A surname.
 # A location in the state of [[Wyoming]] in the [[United States]] (Zip Code: 83115). (From the U.S. Census Bureau 1990)
 
@@ -29,26 +30,43 @@ From the Greek {{polytonic|[[Δανιήλ]]}} from the Hebrew [[דניּאל]] m
 * [[Danielsville]]
 * [[McDaniels]]
 
-====See also====
-* [[Dan]]
-* [[Dann]]
-* [[Dany]]
-* [[Danny]]
+====Related terms====
+*''variants and pet forms'': [[Dan]], [[Danny]]
+*''feminine given names'': [[Dana]], [[Daniela]], [[Daniella]], [[Danielle]]
 
 ====Translations====
+{{trans-top|biblical person}}
+*Danish: Daniel
+*Finnish: Daniel
+*French: Daniel
+*German: Daniel
+*Greek: {{t|el|sc=Grek|Δανιήλ|m|tr=Daniíl}}
+{{trans-mid}}
+*Norwegian: Daniel
+*Swedish: Daniel
+{{trans-bottom}}
+{{trans-top|male given name}}
+*Danish: Daniel
+*Finnish: [[Taneli]]
+*French: [[#French|Daniel]]
+*German: [[#German|Daniel]]
+*Greek: {{t|el|sc=Grek|Ντάνιελ|m|tr=Dániel}} 
+{{trans-mid}}
+*Italian: [[Daniele]]
+*Norwegian: [[#Norwegian|Daniel]]
+*Russian: [[Даниил]] (Daniíl)
+*Spanish: [[#Spanish|Daniel]] 
+*Swedish: [[#Swedish|Daniel]]
+*Welsh: [[Deiniol]]
+{{trans-bottom}}
 {{checktrans-top}}
 * Ancient Greek: [[Δανιήλ]] (Daniel)
 * Arabic: {{Arab|[[دانيال]]}} (Danyal)
 * Chinese - Simplified: [[丹尼尔]] (Dānníěr)
 * Chinese - Traditional [[丹尔爾]] (Dānníěr)
 * Czech: [[#Czech|Daniel]] {{m}}
-* Dutch: [[Daniël]] {{m}}, [[Daan]] {{m}}
-* Finnish: [[Taneli]]
-* French: [[#French|Daniel]]
-* German: [[#German|Daniel]]
-* Greek: {{t|el|sc=Grek|Ντάνιελ|m|tr=Dániel}} (personal name), {{t|el|sc=Grek|Δανιήλ|m|tr=Daniíl}} (Biblical)
+* Dutch: [[Daniël]] {{m}}<!-- no pet forms please: [[Daan]] {{m}}-->
 * Hebrew: [[דניאל|דָּנִיֵּאל]] (daniel) {{m|f}}
-* Italian: [[Daniele]]
 {{checktrans-mid}}
 * [[Inuktitut]]: [[ᑕᓃᓪ]] (Taniil)
 * Japanese: [[ダニエル]] (Danieru)
@@ -56,12 +74,9 @@ From the Greek {{polytonic|[[Δανιήλ]]}} from the Hebrew [[דניּאל]] m
 * Latin: [[Danielis]]
 * Maltese: [[Danjel]]
 * Romanian: [[Danez]]
-* Russian: [[Даниил]] (Daniíl)
 * Slovak: [[#Slovak|Daniel]] {{m}}
 * Slovene: [[#Slovene|Daniel]], [[Danijel]]
-* Spanish: [[#Spanish|Daniel]] {{m}}, [[Daniela]] {{f}}
 * Ukrainian: [[Данило]] (Danylo)
-* Welsh: [[Deiniol]]
 {{checktrans-bottom}}
 
 [[Category:Missing-gloss]]
@@ -80,12 +95,68 @@ From the Greek {{polytonic|[[Δανιήλ]]}} from the Hebrew [[דניּאל]] m
 
 ----
 
+==Danish==
+
+===Proper noun===
+{{infl|da|proper noun}}
+
+# {{biblical character|lang=da}} [[#English|Daniel]]
+# {{given name|male||da:}}.
+
+===Related terms===
+*''variants'': [[Dan]], [[Danni]], [[Danny]]
+*''feminine given names'': [[Daniella]], [[Danielle]]
+
+----
+
+==Finnish==
+
+===Proper noun===
+{{fi-noun|Daniel|type=tuoli|proper=true}}
+
+# {{biblical character|lang=fi}} [[#English|Daniel]].
+
+===Related terms===
+*''given name'': [[Taneli]]
+
+----
+
 ==French==
 
 ===Proper noun===
-'''Daniel'''
+{{infl|fr|proper noun|g=m}}
 
-# A man's or boy's name; [[#English|Daniel]].
+# {{biblical character|lang=fr}} [[#English|Daniel]].
+# {{given name|male||fr:}}
+
+===Related terms===
+*''feminine names'': [[Danièle]], [[Danielle]]
+
+----
+
+==German==
+
+===Proper noun===
+{{infl|de|proper noun}}
+
+# {{biblical character|lang=de}} [[#English|Daniel]].
+# {{given name|male||de:}}.
+
+===Related terms===
+*''feminine given name'': [[Daniela]]
+
+----
+
+==Norwegian==
+
+===Proper noun===
+{{infl|no|proper noun}}
+
+# {{biblical character|lang=no}} [[#English|Daniel]]
+# {{given name|male||no:}}.
+
+===Related terms===
+*[[Dan]]
 
 ----
 
@@ -100,6 +171,20 @@ From Hebrew דניאל
 : declension pattern {{chlap}}
 
 # [[Daniel#English|Daniel]].  Familiars: [[Daňo]] {{m}}, [[Danko]] {{m}}
+
+----
+
+==Swedish==
+
+===Proper noun===
+{{infl|sv|proper noun}}
+
+# {{biblical character|lang=sv}} [[#English|Daniel]].
+# {{given name|male||sv:}}.
+
+===Related terms===
+*[[Dan]]
+*''feminine names'': [[Daniela]], [[Daniella]]
 
 [[de:Daniel]]
 [[es:Daniel]]
