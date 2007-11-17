@@ -43,7 +43,7 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 * Portuguese: {{t+|pt|juiz|m}}, {{t|pt|juíza|f}}
 * Russian: [[судья]] (sud’já) {{m|f}}
 * Serbian:
-*: Cyrillic: {{t-|sr|судија|m}}
+*: Cyrillic: {{t-|sr|судија|m|sc=Cyrl}}
 *: Roman: {{t-|sr|sudija|m}}
 * Slovene: [[sodnik]] {{m}}, [[sodnica]] {{f}}
 * Spanish: {{t+|es|juez|m}}
@@ -60,7 +60,7 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 * Portuguese: {{t+|pt|juiz|m}}, {{t|pt|juíza|f}}
 * Russian: [[судья]] (sud’já) {{m|f}}
 * Serbian:
-*: Cyrillic: {{t-|sr|судија|m}}
+*: Cyrillic: {{t-|sr|судија|m|sc=Cyrl}}
 *: Roman: {{t-|sr|sudija|m}}
 * Slovene: [[razsodnik]] {{m}}, [[sodnik]] {{m}}, [[sodnica]] {{f}}
 {{trans-bottom}}
@@ -72,13 +72,13 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 * Dutch: {{t|nl|scheidsrechter|m|f}}
 * Finnish: {{t-|fi|tuomari}}
 * French: {{t+|fr|arbitre|m|f}}
-* Greek: {{t+|el|κριτής|c|tr=kritís}}
+* Greek: {{t+|el|κριτής|c|tr=kritís|sc=Grek}}
 * Italian: {{t+|it|giudice}}, {{t-|it|arbitro}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|juiz|m}}, {{t|pt|juíza|f}}
 * Russian: [[судья]] (sud’já) {{m|f}}
 * Serbian:
-*: Cyrillic: {{t-|sr|судија|m}}
+*: Cyrillic: {{t-|sr|судија|m|sc=Cyrl}}
 *: Roman: {{t-|sr|sudija|m}}
 * Slovene: [[sodnik]] {{m}}, [[sodnica]] {{f}}
 * Spanish: {{t|es|árbitro|m}}
@@ -87,7 +87,7 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 {{trans-top|someone with valued opinions}}
 * Dutch: {{t|nl|kenner|m}}, {{t|nl|beoordelaar|m}}
 * Finnish: [[tuntija]], [[asiantuntija]]
-* Greek: {{t|el|γνώστης|c|tr=gnóstis}}
+* Greek: {{t|el|γνώστης|c|tr=gnóstis|sc=Grek}}
 * Italian: {{t+|it|intenditore}}
 {{trans-mid}}
 * Latin: [[existimator]] {{m}}
@@ -143,7 +143,7 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 {{trans-top|sit in judgment on, pass sentence on}}
 * Bosnian: [[suditi]], [[osuditi]], [[presuditi]]
 * [[Catalan]]: [[jutjar]]
-* Croatian: [[suditi]], [[osuditi]], [[presuditi]]
+* Croatian: {{t-|hr|suditi}}, {{t|hr|osuditi}}, {{t|hr|presuditi}}
 * Dutch: {{t-|nl|oordelen}}
 * French: {{t+|fr|juger}}
 * [[Ancient Greek]]: [[κρίνω]] (krinō)
