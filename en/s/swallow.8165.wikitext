@@ -27,32 +27,32 @@
 * [[Afrikaans]]: [[sluk]]
 * Albanian: [[gëlltit]]
 * Arabic: {{ARchar|[[جرع]]}} {{unicode|(járaʕa)}}
-* Bosnian: {{t|bs|gutati}} <!-- The following tag and the corresponding perfective/imperfective forms belong in the Bosnian entries: (''[[impf.]]''), [[progutati]] (''[[pf.]]'') -->
+* Bosnian: {{t-|bs|gutati}} <!-- The following tag and the corresponding perfective/imperfective forms belong in the Bosnian entries: (''[[impf.]]''), [[progutati]] (''[[pf.]]'') -->
 * [[Catalan]]: [[engolir]]
 * Chinese: [[吞]] (tūn)
-* Croatian: {{t|hr|gutati}} <!-- The following tag and the corresponding perfective/imperfective forms belong in the Croatian entries: (''[[impf.]]''), [[progutati]] (''[[pf.]]'') -->
+* Croatian: {{t-|hr|gutati}} <!-- The following tag and the corresponding perfective/imperfective forms belong in the Croatian entries: (''[[impf.]]''), [[progutati]] (''[[pf.]]'') -->
 * Czech: [[polknout]]
 * Dutch: [[slikken]], [[doorslikken]]
 * Esperanto: [[gluti]]
-* Finnish: [[niellä]], [[nielaista]]
-* French: [[avaler]]
-* German: [[schlucken]]
-* Hungarian: [[nyel]]
+* Finnish: {{t-|fi|niellä}}, {{t-|fi|nielaista}}
+* French: {{t+|fr|avaler}}
+* German: {{t-|de|schlucken}}
+* Hungarian: {{t+|hu|nyel}}
 * [[Ido]]: [[glutar]]
 * [[Interlingua]]: [[glutir]], [[inglutir]], [[deglutir]], [[ingurgitar]]
-* Italian: [[deglutire]], [[inghiottire]]
+* Italian: {{t+|it|deglutire}}, {{t+|it|inghiottire}}
 {{trans-mid}}
 * Japanese: [[飲み込む]] (のみこむ, nomikomu)
-* Korean: {{t|ko|sc=Hang|삼키다|tr=samkida}}
+* Korean: {{t|ko|삼키다|tr=samkida|sc=Hang}}
 * Kurdish: {{t|ku|daqurtandin}}, {{t|ku|daûrandin}}, {{t|ku|dabilandin}}
 * Norwegian: [[svelge]]
 * Polish: [[połknąć]], [[połykać]]
 * Portuguese: [[engolir]], [[deglutir]], [[ingurgitar]]
-* Romanian: [[înghiţi]]
+* Romanian: {{t-|ro|înghiţi}}
 * Russian: [[глотать]] (glotát’)
-* Serbian: {{t|sr|sc=Cyrl|гутати}}, {{t|sr|gutati}}, <!-- The following tag and perfective/imperfective pairs belong in the Serbian entry: (''[[impf.]]''), [[прогутати]] (''[[pf.]]'') -->
+* Serbian: {{t-|sr|гутати|sc=Cyrl}}, {{t-|sr|gutati}}, <!-- The following tag and perfective/imperfective pairs belong in the Serbian entry: (''[[impf.]]''), [[прогутати]] (''[[pf.]]'') -->
 * Slovene: [[požirati]], [[pogoltniti]]
-* Spanish: {{t|es|tragar}}, {{t|es|engullir}}, {{t|es|deglutir}}, {{t|es|ingurgitar}}
+* Spanish: {{t-|es|tragar}}, {{t|es|engullir}}, {{t|es|deglutir}}, {{t|es|ingurgitar}}
 * Swedish: [[svälja]]
 {{trans-bottom}}
 
@@ -72,10 +72,10 @@ Late {{OE.}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymology 1,
 =====Translations=====
 {{trans-top|amount swallowed}}
 * [[Afrikaans]]: [[sluk]]
-* Bosnian: [[gutljaj#Bosnian|gutljaj]] {{m}}
-* Croatian: [[gutljaj#Croatian|gutljaj]] {{m}}
+* Bosnian: {{t-|bs|gutljaj|m}}
+* Croatian: {{t-|hr|gutljaj|m}}
 {{trans-mid}}
-* Serbian: {{t|sr|sc=Cyrl|гутљај|m}}, {{t|sr|gutljaj|m}}
+* Serbian: {{t-|sr|гутљај|m|sc=Cyrl}}, {{t-|sr|gutljaj|m}}
 {{trans-bottom}}
 
 ===Etymology 3===
@@ -103,32 +103,32 @@ Late {{OE.}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymology 1,
 * [[Catalan]]: [[oreneta]] {{f}}
 * Chinese: [[燕子]] (yànzi)
 * [[Crimean Tatar]]: [[karılgaş]]
-* Croatian: [[lastavica]] {{f}}, [[lasta]] {{f}}
-* Czech: [[vlaštovka]] {{f}}
+* Croatian: {{t|hr|lastavica|f}}, {{t-|hr|lasta|f}}
+* Czech: {{t-|cs|vlaštovka|f}}
 * Danish: [[svale]], [[landsvale]]
 * Dutch: [[zwaluw]] {{f}}, [[boerenzwaluw]] {{f}}
-* Esperanto: [[hirundo]]
-* Estonian: [[pääsuke]]
-* Faroese: [[svala]]
-* Finnish: [[pääskynen]]
-* French: [[hirondelle]] {{f}}
+* Esperanto: {{t-|eo|hirundo|xs=Esperanto}}
+* Estonian: {{t+|et|pääsuke}}
+* Faroese: {{t-|fo|svala|xs=Faroese}}
+* Finnish: {{t-|fi|pääskynen}}
+* French: {{t|fr|hirondelle|f}}
 * [[Frisian]]: [[swel]], [[boereswel]]
 * [[Friulian]]: [[cisile]], [[sisile]]
 * [[Galician]]: [[andoriña]] {{f}}
-* German: [[Schwalbe]] {{f}}
+* German: {{t+|de|Schwalbe|f}}
 * Greek: [[χελιδόνι]] (kheliðóni)
-* Hungarian: [[fecske]]
+* Hungarian: {{t+|hu|fecske}}
 * Icelandic: [[svala]], [[landsvala]]
 * [[Ido]]: [[hirundo]]
 * [[Interlingua]]: [[hirundine]]
 * Irish: [[fáinleog]]
-* Italian: [[rondine]]
+* Italian: {{t+|it|rondine}}
 * Japanese: [[燕]] ([[つばめ]], tsubame)
 * Korean: [[제비]] (jebi)
 {{trans-mid}}
 * Kurdish: {{KUchar|[[په‌ڕه‌سێلکه‌]]}}
 * [[Ladin]]: [[rondola]]
-* Latin: [[hirundo]]
+* Latin: {{t-|la|hirundo}}
 * Latvian: [[bezdelīga]]
 * Lithuanian: [[kregždė]] {{f}}
 * [[Lower Sorbian]]: [[jaskolicka]]
@@ -139,7 +139,7 @@ Late {{OE.}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymology 1,
 * Norwegian: [[svale]] ([[låvesvale]])
 * [[Occitan]]: [[ironda]]
 * Polish: [[jaskółka]], [[dymówka]]
-* Portuguese: [[andorinha]] {{f}}
+* Portuguese: {{t-|pt|andorinha|f}}
 * Romanian: [[rândunică]] {{f}}, [[lăstun]] {{m}}
 * [[Romansh]]: [[randulina]]
 * [[Romany]]: [[pitsagoy]] {{m}}, [[rindilashka]] {{f}}
@@ -147,7 +147,7 @@ Late {{OE.}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymology 1,
 * [[Sami]]: [[spálfu]], [[suorrespálfu]], [[láhtospálfu]]
 * [[Sardinian]]: [[mongixedda]], [[arrùndine]], [[arrùndini]]
 * [[Scottish]]: [[aileag]]
-* Serbian: {{t|sr|sc=Cyrl|ластавица|f}}, {{t|sr|lastavica|f}}, {{t|sr|sc=Cyrl|ласта|f}}, {{t|sr|lasta|f}}
+* Serbian: {{t|sr|ластавица|f|sc=Cyrl}}, {{t|sr|lastavica|f}}, {{t|sr|ласта|f|sc=Cyrl}}, {{t-|sr|lasta|f}}
 * Slovak: [[lastovička]] {{f}}
 * Slovene: [[lastovka]] {{f}}, [[lastovica]] {{f}}
 * Spanish: [[golondrina]] {{f}}
