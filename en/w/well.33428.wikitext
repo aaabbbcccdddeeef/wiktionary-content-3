@@ -29,7 +29,7 @@
 * Finnish: {{t+|fi|hyvin}}
 * French: {{t+|fr|bien}}
 * German: {{t+|de|gut}}
-* Greek: {{t+|el|καλά|}} (kalá)
+* Greek: {{t+|el|καλά|sc=Grek}} (kalá)
 {{trans-mid}}
 * Japanese: [[良く]] (yoku)
 * Polish: {{t+|pl|dobrze}}
@@ -59,7 +59,7 @@
 * Polish: {{t+|pl|dobrze}}
 * Portuguese: {{t+|pt|bem}}
 * Romanian: {{t-|ro|bine}}
-* Russian: {{t+|ru|хорошо|tr=xorošó}}
+* Russian: {{t+|ru|хорошо|tr=xorošó|sc=Cyrl}}
 * Spanish: {{t+|es|bien}}
 * Swedish: {{t+|sv|väl}}
 {{trans-bottom}}
@@ -105,8 +105,8 @@
 * Dutch: {{t+|nl|gezond}}
 * Finnish: [[terve]], [[hyvä|hyvässä]] [[kunto|kunnossa]]
 * German: {{t+|de|gesund}}
-* Greek: {{t+|el|καλά|}} (kalá)
-* Hebrew: {{t|he|בריא|m}}, {{t|he|בריאה|f}}
+* Greek: {{t+|el|καλά|sc=Grek}} (kalá)
+* Hebrew: {{t|he|בריא|m|sc=Hebr}}, {{t|he|בריאה|f|sc=Hebr}}
 * [[Ido]]: [[bona]]
 * Italian: {{t+|it|bene}}
 {{trans-mid}}
@@ -114,7 +114,7 @@
 * Polish: [[zdrowy]] {{m}}, [[zdrowa]] {{f}}
 * Portuguese: {{t+|pt|bem}}
 * Romanian: {{t-|ro|bine}}
-* Russian: {{t|ru|здоровый|tr=zdoróvyj}}
+* Russian: {{t|ru|здоровый|tr=zdoróvyj|sc=Cyrl}}
 * Slovak: {{t-|sk|dobre}}
 * Slovene: [[zdrav]] {{m}}, [[zdrava]] {{f}}, [[zdravo]] {{n}}
 * Spanish: {{t+|es|bien}}
@@ -146,7 +146,7 @@
 * Finnish: [[jopas]], jopas [[jotakin]]
 * French: [[tiens]]!
 {{trans-mid}}
-* Japanese: {{t|ja|おやおや|tr=oya-oya}}
+* Japanese: {{t|ja|おやおや|tr=oya-oya|sc=Jpan}}
 * Russian: [[так]] (tak), [[так-так]] (tak-tak)
 * Slovene: {{t+|sl|no}}
 {{trans-bottom}}
@@ -192,7 +192,7 @@
 {{trans-top|hole sunk into the ground}}
 * Albanian: {{t-|sq|pus|m|xs=Albanian}}
 * [[Catalan]]: [[pou]] {{m}}
-* Croatian: [[zdenac]] {{m}}
+* Croatian: {{t|hr|zdenac|m}}
 * Czech: [[studna]] {{f}} (''for water''), [[vrt]] {{m}} (''for oil'')
 * Danish: {{t-|da|brønd|c}}
 * Dutch: {{t+|nl|bron}}, {{t+|nl|put}}
@@ -200,7 +200,7 @@
 * Finnish: {{t+|fi|kaivo}}
 * French: {{t+|fr|puits}}
 * German: {{t+|de|Brunnen|m}}
-* Greek: {{t+|el|πηγάδι|n}} (pigádi)
+* Greek: {{t+|el|πηγάδι|n|sc=Grek}} (pigádi)
 * Hungarian: {{t+|hu|kút}}
 * [[Ido]]: [[puteo]]
 * [[Interlingua]]: [[puteo]]
@@ -225,7 +225,7 @@
 {{trans-top|spring}}
 * Finnish: {{t+|fi|lähde}}
 {{trans-mid}}
-* Russian: {{t|ru|родник|m|tr=rodník}}, {{t+|ru|ключ|tr=kl'uč}}, {{t|ru|источник|m|tr=istóčnik}}
+* Russian: {{t|ru|родник|m|tr=rodník|sc=Cyrl}}, {{t+|ru|ключ|tr=kl'uč|sc=Cyrl}}, {{t|ru|источник|m|tr=istóčnik|sc=Cyrl}}
 * Swedish: {{t+|sv|källa}}
 {{trans-bottom}}
 
@@ -262,7 +262,7 @@
 * Finnish: [[pulputa]], [[kummuta]]
 * German: [[quellen]]
 {{trans-mid}}
-* Japanese: {{t|ja|にじみ出る|tr=nijimideru}}
+* Japanese: {{t|ja|にじみ出る|tr=nijimideru|sc=Jpan}}
 * Swedish: [[välla]]
 {{trans-bottom}}
 
