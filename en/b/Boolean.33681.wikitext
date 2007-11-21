@@ -1,21 +1,20 @@
-{{See|boolean}}
 ==English==
-
 {{wikipedia}}
 
 ===Pronunciation===
-*(''UK''): {{IPA|/ˈbuːliən/  ''or'' /buːˈliən/}} , {{SAMPA|/"bu:li@n/ ''or'' /bu:"li@n/}}
+* {{a|UK}} {{IPA|/ˈbuːliən/}} or {{IPAchar|/buːˈliən/}}, {{SAMPA|/"bu:li@n/}} or {{SAMPAchar|/bu:"li@n/}}
 *{{audio|en-uk-Boolean.ogg|Audio (UK)}}
-*(''US''): {{AHD|bo͞oʹliən ''or'' bo͞oliʹən}}, {{IPA|/ˈbuliən/  ''or'' /buˈliən/}} , {{SAMPA|/"buli@n/ ''or'' /bu"li@n/}}
+* {{a|US}} {{enPR|bo͞oʹliən}} or {{enPRchar|bo͞oliʹən}}, {{IPA|/ˈbuliən/}} or {{IPAchar|/buˈliən/}} , {{SAMPA|/"buli@n/}} or {{SAMPAchar|/bu"li@n/}}
 *{{audio|en-us-Boolean.ogg|Audio (US)}}
 
 ===Etymology===
-From the name of [[w:George Boole|George Boole]]
+From the name of [[w:George Boole|George Boole]].
 
 ===Adjective===
 {{en-adj|-}}
 
-# {{context|logic|computing}} Pertaining to data items that can have "[[true]]" and "[[false]]" (or, equivalently, [[1]] and [[0]] respectively) as their only possible values and to operations on such values.
+# Of or pertaining to the work of [[w:George Boole|George Boole]].
+# {{context|logic|computing}} Pertaining to [[data]] items that can have “[[true]]” and “[[false]]” (or, equivalently, [[1]] and [[0]] respectively) as their only possible [[value]]s and to [[operation]]s on such values.
 
 ====Derived terms====
 *[[Boolean algebra]]
@@ -24,14 +23,14 @@ From the name of [[w:George Boole|George Boole]]
 *[[Boolean variable]]
 
 ====Translations====
-{{trans-top|logic: pertaining to data items that have values "true" and "false"}}
-*Dutch: [[booleaans]], [[booleaanse]]
-*French: [[booléen]] {{m}}, booléenne {{f}}, [[boolien]] {{m}}, boolienne {{f}}
+{{trans-top|logic: pertaining to data items that have values “true” and “false”}}
+*Dutch: {{t|nl|booleaans}}
+*French: [[booléen]], [[boolien]]
 *German: [[boolsch]]
 {{trans-mid}}
 *Japanese: [[ブール代数の]] (būrudaisū-no)
 *Polish: [[boolowski]]
-*Russian: [[булев]] {{m}}, [[булева]] {{f}}, [[булево]] {{n}}, [[булевы]] {{p}}
+*Russian: [[булев]]
 {{trans-bottom}}
 
 ===Noun===
@@ -44,11 +43,11 @@ From the name of [[w:George Boole|George Boole]]
 
 ====Translations====
 {{trans-top|logic: a variable}}
-*Dutch: [[booleaanse waarde]]
+*Dutch: {{t|nl|booleaans|alt=booleaanse}} {{t|nl|waarde|f}}
 *Finnish: [[totuusarvomuuttuja]]
-*French: [[variable]] [[booléenne]] {{f}}
+*French: [[variable]] {{t|fr|booléen|alt=booléenne|f}}
 {{trans-mid}}
-*German: [[Boolean#German|Boolean]] {{m}}; (boolsche Variable) {{f}}
+*German: {{t|de|Boolean|m}}, {{t|de|boolsch|alt=boolsche}} {{t|de|Variable|f}}
 *Japanese: [[ブーリアン]] (būrian), [[ブール値]] (būruchi)
 {{trans-bottom}}
 
