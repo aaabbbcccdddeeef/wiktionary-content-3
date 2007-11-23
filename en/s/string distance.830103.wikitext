@@ -1,6 +1,6 @@
 ==English==
 
-===Phrase===
+===Noun===
 {{en-noun|sg=[[string]] [[distance]]}}
 
 #{{computer science}} The distance between two [[string]]s, (think degree of misspelling). The hamming distance is the string distance for strings of the same length. Levenshtein distance is for strings of different length and is a superset of hamming distance but allows insertions.
