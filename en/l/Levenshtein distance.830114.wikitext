@@ -1,4 +1,5 @@
 ==English==
-{{rfc}}
+===Phrase===
+{{en-noun|sg=[[Levenshtein]] [[distance]]}}
 
-#distance between strings that need not be the same length. It is a count of the number of edits(replacements + deletions + insertions)
+# {{computer science}} The [[distance]] between [[string]]s that need not be the same length. It is a count of the number of [[edit]]s ([[replacements]] + [[deletions]] + [[insertions]]).
