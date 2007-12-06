@@ -85,6 +85,9 @@
 # {{transitive}} To set in [[motion]].
 # {{transitive}} To [[begin]].
 # {{transitive}} To initiate a vehicle or machine.
+# {{intransitive}} To begin an [[activity]].  (''The rain ''started'' at 9:00.'')
+# {{intransitive}} To [[jerk]] suddenly in [[surprise]].
+# {{intransitive}} To awaken suddenly. (''I ''started'' from my sleep with horror . . .'' --[[Wikipedia:Mary Shelley|Mary Shelley]])
 
 ====Translations====
 {{trans-top|To set in motion}}
@@ -119,34 +122,6 @@
 * Spanish: {{t-|es|iniciar}}, {{t+|es|arrancar}}
 {{trans-bottom}}
 
-=====Translations to be checked=====
-{{checktrans}}
-{{top}}
-*{{ttbc|Catalan}}: [[començar]]
-*{{ttbc|Chinese}}: [[開始]]/开始
-*{{ttbc|Dutch}}: [[starten]], [[beginnen]], [[aanvangen]]
-*{{ttbc|French}}: [[commencer]], [[débuter]] and also [[initier]], [[entamer]]
-*{{ttbc|Ido}}: [[komencar]]
-*{{ttbc|Italian}}: [[cominciare]]
-*{{ttbc|Japanese}}: 始める, スタート
-{{mid}}
-*{{ttbc|Polish}}: [[zacząć]], [[rozpocząć]]
-*{{ttbc|Portuguese}}: [[começar]]
-*{{ttbc|Romanian}}: [[tresări]], [[porni]], [[începe]]
-*{{ttbc|Romansch}}: [[entschaiver]], [[cumanzar ]], [[iniziar]]
-*{{ttbc|Swedish}}: [[starta]], [[börja]]
-*{{ttbc|Telugu}}: [[మొదలుపెట్టు]] (modalupeTTu), [[ప్రారంభించు]] (praaraMbhiMchu)
-*{{ttbc|Vietnamese}}: [[Bắt đầu]]
-{{bottom}}
-
-===Verb===
-{{en-verb}}
-
-# {{intransitive}} To begin an [[activity]].  (''The rain ''started'' at 9:00.'')
-# {{intransitive}} To [[jerk]] suddenly in [[surprise]].
-# {{intransitive}} To awaken suddenly. (''I ''started'' from my sleep with horror . . .'' --[[Wikipedia:Mary Shelley|Mary Shelley]])
-
-====Translations====
 {{trans-top|To begin an activity}}
 * Finnish: [[alkaa]], [[aloittaa]], [[käynnistyä]] (''of motors'')
 * German: {{t+|de|beginnen}}
@@ -173,7 +148,26 @@
 {{trans-bottom}}
 
 =====Translations to be checked=====
-{{checktrans}}
+{{checktrans|transitive}}
+{{top}}
+*{{ttbc|Catalan}}: [[començar]]
+*{{ttbc|Chinese}}: [[開始]]/开始
+*{{ttbc|Dutch}}: [[starten]], [[beginnen]], [[aanvangen]]
+*{{ttbc|French}}: [[commencer]], [[débuter]] and also [[initier]], [[entamer]]
+*{{ttbc|Ido}}: [[komencar]]
+*{{ttbc|Italian}}: [[cominciare]]
+*{{ttbc|Japanese}}: 始める, スタート
+{{mid}}
+*{{ttbc|Polish}}: [[zacząć]], [[rozpocząć]]
+*{{ttbc|Portuguese}}: [[começar]]
+*{{ttbc|Romanian}}: [[tresări]], [[porni]], [[începe]]
+*{{ttbc|Romansch}}: [[entschaiver]], [[cumanzar ]], [[iniziar]]
+*{{ttbc|Swedish}}: [[starta]], [[börja]]
+*{{ttbc|Telugu}}: [[మొదలుపెట్టు]] (modalupeTTu), [[ప్రారంభించు]] (praaraMbhiMchu)
+*{{ttbc|Vietnamese}}: [[Bắt đầu]]
+{{bottom}}
+
+{{checktrans|intransitive}}
 {{top}}
 *{{ttbc|German}}: [[starten]] (at a race), [[anfangen]], [[zusammenzucken]]
 {{mid}}
