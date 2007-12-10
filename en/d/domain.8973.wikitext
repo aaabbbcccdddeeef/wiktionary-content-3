@@ -14,7 +14,7 @@
 # A [[geographic]] area [[own]]ed or [[controlled]] by a single [[person]] or [[organization]].
 # A [[sphere]] of [[influence]].
 # A [[group]] of [[related]] [[item]]s, [[topic]]s, or [[subject]]s.
-# {{math}} The [[set]] of all [[possible]] [[point]]s where a given [[function]] is defined.
+# {{math}} The [[set]] of all [[possible]] mathematical entities ([[point]]s) where a given [[function]] is defined.
 # {{context|computing|Internet}} Any [[Domain Name System|DNS]] [[domain name]], particularly one which has been [[delegate|delegated]] and has become representative of the delegated domain name and it's [[subdomain|subdomains]]
 #*''BIND 9 Administrator Reference Manual (9.3.2)'', Copyright © 2004, 2005 Internet Systems Consortium, Inc. ("ISC"), Copyright © 2000-2003 Internet Software Consortium, http://www.bind9.net/manual/bind/9.3.2/Bv9ARM.ch01.html
 #*:Every name in the DNS tree is a '''domain''', even if it is terminal, that is, has no subdomains.
@@ -65,6 +65,7 @@
 *Czech: [[definiční obor]] {{m}}
 *Finnish: {{t|fi|määrittelyalue}}
 *Hungarian: [[értelmezési tartomány]]
+*Italian: [[dominio]] {{m}}
 {{trans-mid}}
 *Polish: [[dziedzina]] {{f}}
 *Portuguese: [[domínio]] {{m}}
@@ -74,8 +75,8 @@
 
 {{trans-top|DNS domain name}}
 *Italian: [[dominio]] {{m}}
-{{trans-mid}}
 *Polish: [[domena]] {{f}}
+{{trans-mid}}
 *Portuguese: [[domínio]] {{m}}
 *Vietnamese: [[không gian tên]], [[tên]] [[miền]] [[không gian]]
 {{trans-bottom}}
@@ -87,11 +88,13 @@
 {{trans-bottom}}
 
 {{trans-top|collection of information}}
+*Italian: [[dominio]] {{m}}
 {{trans-mid}}
 *Polish: [[domena]] {{f}}
 {{trans-bottom}}
 
 {{trans-top|collection of computers}}
+*Polish: [[domena]] {{f}}
 {{trans-mid}}
 *Polish: [[domena]] {{f}}
 *Portuguese: [[domínio]] {{m}}
