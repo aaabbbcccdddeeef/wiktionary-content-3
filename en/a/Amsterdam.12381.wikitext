@@ -44,7 +44,7 @@
 *Norwegian: Amsterdam
 *Polish: Amsterdam
 *Portuguese: [[Amsterdã]] ''(Braz.)'' {{f}}, [[Amesterdão]] ''(Port.)'' {{f}}
-*Romanian: Amsterdam
+*Romanian: {{t+|ro|Amsterdam|n}}
 *Russian: [[Амстердам]] (Amsterdám) {{m}}
 *Serbian:
 *:Cyrillic: [[Амстердам#Serbian|Амстердам]] {{m}}
@@ -65,7 +65,7 @@
 ==Bosnian==
 
 ===Proper noun===
-'''Amsterdam''' {{m}}
+{{infl|bs|proper noun|g=m}}
 
 # [[Amsterdam#English|Amsterdam]] (''capital of the [[Netherlands]]'')
 
@@ -76,12 +76,11 @@
 ==Estonian==
 
 ===Proper noun===
-'''Amsterdam'''
+{{infl|et|proper noun}}
 
 # Amsterdam
 
 [[Category:et:Capital cities]]
-[[Category:et:Cities]]
 
 ----
 
@@ -96,17 +95,34 @@
 
 ----
 
+==Romanian==
+
+===Pronunciation===
+{{IPA|[am.ster.dam]|lang=ro}}
+
+===Proper noun===
+{{infl|ro|proper noun|g=n}}
+
+# {{l|en|Amsterdam}}
+
+====Declension====
+{{ro-country|g=n|Amsterdamului}}
+
+[[Category:ro:Capital cities]]
+
+----
+
 ==Serbian==
 
 ===Proper noun===
-'''Amsterdam''' {{m}}
+{{infl|sr|proper noun|g=m}}
 
 # [[Amsterdam#English|Amsterdam]] (''capital of the [[Netherlands]]'')
 
 ====See also====
-*[[Амстердам#Serbian|Амстердам]]
+* {{l|sr|Амстердам}}
 
-[[Category:sr:Cities]]
+[[Category:sr:Capital cities]]
 
 [[de:Amsterdam]]
 [[el:Amsterdam]]
