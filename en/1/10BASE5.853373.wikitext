@@ -1,9 +1,13 @@
-10BASE5 refers to the speed of transmission at 10Mbps. The type of transmission is baseband. The 5 represents the ability of the cable to allow the signal to travel for approx. 500 meters before attenuation could disrupt the ability of the receiver to appropriately interpret the signal being received. 10BASE2 is often referred to as Thicknet. Thicknet is actually a type of network, while 10BASE2 is the cable used in that network.
+==English==
 
-The cable specification of [[IEEE standards]] are [[10BASET]] [[10BASE2]] [[10BASE5]]
+===Abbreviation===
+{{wikipedia}}
+'''10BASE5'''
 
-The new specifications are
-[[100BASEFxEC]]
-[[100BASETeC]]
-[[1000BASEL/I]]
-[[100E3]]
+#{{computing}} An early form of [[Ethernet]] [[cable]]
+
+====Synonyms====
+*[[thicknet]]
+
+====Related terms====
+*[[10BASE2]]
