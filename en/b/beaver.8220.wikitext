@@ -2,9 +2,9 @@
 ==English==
 
 ===Pronunciation===
-*{{a|RP}} /ˈbiːvə/, /<tt>"bi:v@</tt>/
-*{{a|US}} bēʹvər, /ˈbiːvɚ/, /<tt>"bi:v@`</tt>/
-*:Rhymes: [[Rhymes:English:-iːvə(r)|-iːvə(r)]]
+*{{a|RP}} {{IPA|/ˈbiːvə/}}, {{SAMPA|/"bi:v@/}}
+*{{a|US}} {{enPR|bēʹvər}}, {{IPA|/ˈbiːvɚ/}}, {{SAMPA|/"bi:v@`/}}
+*:{{rhymes|iːvə(r)}}
 
 ====Homophones====
 *[[Belvoir]]<!--sic-->
@@ -12,7 +12,7 @@
 
 ===Etymology 1===
 [[Image:Biber-drawing.jpg|thumb|Beavers]]
-Old English ''[[beofor]]'', from Germanic.  Cognate with Dutch ''[[bever]]'', German ''[[Biber]]''.
+{{OE.}} {{term|beofor|lang=ang}}, from {{PG.}}. Cognate with Dutch {{term|bever|lang=nl}}, German {{term|Biber|lang=de}}.
 
 ====Noun====
 {{en-noun|pl2=beaver}}
@@ -20,18 +20,14 @@ Old English ''[[beofor]]'', from Germanic.  Cognate with Dutch ''[[bever]]'', Ge
 # An [[aquatic]] [[mammal]] of the genus ''[[Castor]]'', having a wide, flat tail and webbed feet.
 # {{context|coarse|slang}} The [[pubic hair]] and/or [[vulva]] of a woman.
 
-====Derived terms====
+=====Derived terms=====
 *[[American beaver]]
 *[[European beaver]]
 
-====Related terms====
+=====Related terms=====
 *[[eager beaver]]
 
-====See also====
-*[[Appendix: Animals]]
-
 =====Translations=====
-{{rfc-level|Translations at L4+ not in L3 POS section (AutoFormat would have corrected level of Derived terms)}}
 {{trans-top|aquatic mammal}}
 *Albanian: [[kastori]]
 *[[Basque]]: [[kastore]]
@@ -47,10 +43,10 @@ Old English ''[[beofor]]'', from Germanic.  Cognate with Dutch ''[[bever]]'', Ge
 *Danish: [[bæver]]
 *Dutch: [[bever]] {{m}}
 *Esperanto: [[kastoro]]
-*Estonian: [[kobras]], [[piiber]] (''archaic'')
+*Estonian: [[kobras]], [[piiber]] {{qualifier|archaic}}
 *Faroese: [[bævur]]
 *Finnish: [[majava]]
-*French: [[castor]] {{m}}, [[bièvre]] {{m}} (''archaic'')
+*French: [[castor]] {{m}}, [[bièvre]] {{m}} {{qualifier|archaic}}
 *[[Frisian]]: [[bever]]
 *[[Friulian]]: [[castôr]]
 *[[Galician]]: [[castor]]
@@ -102,22 +98,24 @@ Old English ''[[beofor]]'', from Germanic.  Cognate with Dutch ''[[bever]]'', Ge
 *Italian: [[figa]] {{f}}
 {{trans-bottom}}
 
-=====Translations to be checked=====
-{{checktrans}}
-<!--Remove this section once all of the translations below have been moved into the tables above.-->
-*{{ttbc|Estonian}}: [[piiber]] in sexual sense?
+{{checktrans-top}}
+*{{ttbc|Estonian}}: [[piiber]] {{i|in sexual sense?}}
+{{checktrans-bottom}}
+
+=====See also=====
+*[[Appendix:Animals]]
 
 ===Etymology 2===
-From Old French ''[[baviere]]'', originally ‘child's bib’, from ''[[baver]]'' ‘slaver’.
+From {{OF.}} {{term|baviere|lang=fro||child's bib}}, from {{term|baver||slaver|lang=fro}}.
 
 ====Noun====
 {{en-noun}}
 
-# {{italbrac|obsolete except historical or heraldry}} The lower face-guard of a [[helmet]].
+# {{context|obsolete|_|except|_|historical|_|or in|_|heraldry}} The lower face-guard of a [[helmet]].
 #:*'''1819''': Without alighting from his horse, the conqueror called for a bowl of wine, and opening the '''beaver''', or lower part of his helmet, announced that he quaffed it, “To all true English hearts, and to the confusion of foreign tyrants.” — Walter Scott, ''Ivanhoe''
 
 ===Etymology 3===
-Anglo-Norman, from Old French ''[[beivre]]'', from Latin ''[[bibere]]'' ‘to drink’.
+Anglo-Norman, from {{OF.}} {{term|beivre|lang=fro}}, from {{L.}} {{term|bibere||to drink|lang=la}}.
 
 ====Noun====
 {{en-noun}}
@@ -126,7 +124,6 @@ Anglo-Norman, from Old French ''[[beivre]]'', from Latin ''[[bibere]]'' ‘to dr
 
 ===References===
 {{R:Heraldry 1862}}
-
 {{commons}}
 
 [[Category:Mammals]]
