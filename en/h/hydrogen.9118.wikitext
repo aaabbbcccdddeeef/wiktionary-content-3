@@ -1,12 +1,21 @@
 ==English==
-{| border=1 width=45% align=right
+<!-- template used near the top of each definition of a chemical element after the ==English==
+1 = element symbol
+2 = previous element name
+3 = previous element symbol
+4 = next element name
+5 = next element symbol
+-->
+{| style="border: 1px solid #AAA; padding: 0px 10px 0px 10px;float:right;"
+! colspan="2" cellpadding="0" style="font-size: 90%" | [[chemical element|Chemical element]]
 |-
-|bgcolor="#FFFFE0" valign=top|
-{|
-* '''Chemical element: H'''
-* Next = [[helium|He]]
+| rowspan="2" style="align:center; font-size:250%;padding:0px 10px 5px 0px;vertical-align:middle"| '''H'''
+| align="left"| Previous: '''[[]] ()'''
+|-
+| Next: '''[[He]] (helium)'''
 |}
-|}
+
+{{#if: {{{lang|}}}|[[Category:{{{lang}}}:Chemical elements]]|[[Category:Chemical elements]]}}
 
 ===Etymology===
 From {{F.}} ''[[hydrogène]]'', coined by [[:w:Louis-Bernard Guyton de Morveau|Louis-Bernard Guyton de Morveau]].
