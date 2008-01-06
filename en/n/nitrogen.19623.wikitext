@@ -1,5 +1,4 @@
 ==English==
-{{wikipedia}}
 {{elements|N|carbon|C|oxygen|O}}
 
 ===Etymology===
@@ -12,13 +11,14 @@ From {{F.}} ''[[nitrogène]]'' (coined by [[w:Lavoisier|Lavoisier]]), correspond
 :ni&middot;tro&middot;gen
 
 ===Noun===
+{{wikipedia}}
 {{en-noun|-}}
 
 # A chemical element (''symbol'' N) with an [[atomic number]] of 7 and [[atomic weight]] of 14.0067.
 # Molecular nitrogen (N<sub>2</sub>), a [[colorless]], [[odorless]] gas at room temperature.
 
 ====Synonyms====
-*[[azote]] (''archaic'')
+*[[azote]] {{obsolete}}
 *[[E941]] when used as a [[packaging gas]] or [[propellant]]
 
 ====Derived terms====
@@ -64,7 +64,7 @@ From {{F.}} ''[[nitrogène]]'' (coined by [[w:Lavoisier|Lavoisier]]), correspond
 *[[nitrous]]
 
 ====Translations====
-{{top}}
+{{trans-top|chemical element}}
 *[[Afrikaans]]: [[stikstof]]
 *Albanian: [[azot]]
 *Arabic: {{ARchar|[[نيتروجين]]}} (nítrujin) {{m}}
@@ -74,7 +74,7 @@ From {{F.}} ''[[nitrogène]]'' (coined by [[w:Lavoisier|Lavoisier]]), correspond
 *Bosnian: [[dušik]]
 *[[Breton]]: nitrogen {{m}}, [[azot]]
 *Bulgarian: [[азот]] (azót) {{m}}
-*[[Catalan]]: nitrogen
+*[[Catalan]]: nitrogen {{m}}
 *Chinese: [[氮]] (dàn)
 *[[Cornish]]: [[nytrojen]]
 *Croatian: [[dušik]]
@@ -98,7 +98,7 @@ From {{F.}} ''[[nitrogène]]'' (coined by [[w:Lavoisier|Lavoisier]]), correspond
 *Indonesian: [[zat lemas]]
 *[[Interlingua]]: [[nitrogeno]]
 *Irish: [[nítrigin]]
-{{mid}}
+{{trans-mid}}
 *Italian: [[azoto]] {{m}}
 *Japanese: [[窒素]] (ちっそ, chisso)
 *[[Kashmiri]]: [[tãcheń]]
@@ -133,7 +133,7 @@ From {{F.}} ''[[nitrogène]]'' (coined by [[w:Lavoisier|Lavoisier]]), correspond
 *Uzbek: [[азот]] (azot)
 *Vietnamese: [[nitơ]]
 *Welsh: nitrogen
-{{bottom}}
+{{trans-bottom}}
 
 ====External links====
 For etymology and more information refer to:
@@ -146,7 +146,24 @@ http://elements.vanderkrogt.net/elem/be.html
 *[[laughing gas]]
 *[[saltpeter]], [[saltpetre]]
 
-[[Category:Chemical elements]]
+----
+
+== Catalan ==
+=== Etymology ===
+From {{F.}} [[nitrogène]]
+
+=== Noun ===
+{{ca-noun-m-unc}}
+
+#[[#English|nitrogen]]
+
+[[Category:ca:Chemical elements]]
+
+=== Synonyms ===
+*[[azot]] {{obsolete}}
+
+=== References ===
+*{{R:IEC4}}
 
 [[ast:nitrogen]]
 [[az:nitrogen]]
