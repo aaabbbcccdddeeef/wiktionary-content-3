@@ -43,47 +43,45 @@
 * {{computing}} [[zero based indexing]]
 
 ====Translations====
-<!--DefB-->'''clothing/ornamentation'''
-{{top}}
+{{trans-top|clothing/ornamentation}}
 *German: [[Tracht]] {{f}}, [[Bekleidung]] {{f}}
-{{mid}}
+{{trans-mid}}
 *Russian: [[убор]] (ubór) {{m}}, [[наряд]] (nar'ád) {{m}}, [[одеяние]] (od'ejánije) {{n}}
-{{bottom}}
+{{trans-bottom}}
 
-<!--DefC-->'''collection laid out'''
-{{top}}
+{{trans-top|collection laid out}}
 *German: [[Arrangement]] {{n}}; [[Feld]] {{n}}; [[Übersicht]] {{f}}
-{{mid}}
-{{bottom}}
+{{trans-mid}}
+{{trans-bottom}}
 
-<!--DefD-->'''large collection'''
-{{top}}
+{{trans-top|large collection}}
 *German: [[Fülle]] {{f}}; [[Reihe]] {{f}}; [[Feld]] {{n}}; [[Zahl]] {{f}}; [[Anzahl]] {{f}}
-{{mid}}
+{{trans-mid}}
 *Swedish: [[samling]] {{c}}
-{{bottom}}
+{{trans-bottom}}
 
-<!--DefE-->'''computing - arrangement of memory elements'''
-{{top}}
+<!-- should this be the same trans section for all the computing definitions? -->
+{{trans-top|computing - arrangement of memory elements}}
 *Czech: [[pole]] {{n}}
 *Dutch: [[reeks]] {{f}}
 *Finnish: [[taulukko]]
 *French: [[tableau]] {{m}}
 *German:
-*#[[Feld]] {{n}} (standard term, general);
-*#[[Matrix]] {{f}}, [[Tabelle]] {{f}} (contextual, specific);
-*#[[Reihe]] {{f}}, [[Zeile]] {{f}}, [[Spalte]] {{f}} (less used, contextual, specific)
-{{mid}}
+*:[[Feld]] {{n}} (standard term, general);
+*:[[Matrix]] {{f}}, [[Tabelle]] {{f}} (contextual, specific);
+*:[[Reihe]] {{f}}, [[Zeile]] {{f}}, [[Spalte]] {{f}} (less used, contextual, specific)
+{{trans-mid}}
 *Hebrew: [[מערך]] {{m}}
 *Japanese: [[配列]] (hairetsu)
 *Russian: [[массив]] {{m}}
-{{bottom}}
+*Spanish: {{t|es|vector|m}}, {{t|es|arreglo|m}}
+{{trans-bottom}}
 
 =====Translations to be checked=====
-{{checktrans}}
-<!--Remove this section once all of the translations below have been moved into the tables above.-->
+{{checktrans-top}}
 *{{ttbc|Ido|[[Ido]]}}: [[tabelo]]
 *{{ttbc|Romanian}}: [[tablou]] ''n''
+{{checktrans-bottom}}
 
 [[ar:array]]
 [[fr:array]]
