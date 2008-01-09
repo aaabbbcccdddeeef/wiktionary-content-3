@@ -383,6 +383,7 @@ From {{MF.}} ''[[fonction]]'' < {{OF.}} ''[[function#Old French|function]]'' < {
 * French: {{t-|fr|fonction|f}}
 * German: {{t+|de|Funktion|f}}, {{t+|de|Funktionalität|f}}
 * Hebrew: {{he-translation|תפקיד|tafkíd}} {{m}}
+* Hungarian: {{t|hu|funkció}}
 * Irish: {{t|ga|feidhm|f|xs=Irish}}
 {{trans-mid}}
 * Italian: {{t+|it|funzione|f}}
@@ -403,6 +404,7 @@ From {{MF.}} ''[[fonction]]'' < {{OF.}} ''[[function#Old French|function]]'' < {
 * Dutch: {{t+|nl|functie|f}}
 * German: {{t+|de|Funktion|f}}
 * Hebrew: {{he-translation|תפקיד|tafkíd}} {{m}}
+* Hungarian: {{t|hu|funkció}}
 {{trans-mid}}
 * Irish: {{t|ga|feidhm|f|xs=Irish}}
 * Japanese: [[職務]] (shokumu)
@@ -510,22 +512,19 @@ From {{MF.}} ''[[fonction]]'' < {{OF.}} ''[[function#Old French|function]]'' < {
 * Swedish: {{t+|sv|funktion|c}}
 {{trans-bottom}}
 
-=====Translations to be checked=====
 <!--Remove this section once all of the translations below have been moved into
 the tables above.-->
-{{checktrans}}
-
-*{{ttbc|Hungarian}}: [[funkció]] {{f}} (1, 2, 3)
+{{checktrans-top}}
 *{{ttbc|Interlingua}}: [[#Interlingua|function]] (1, 2, 3)
 *{{ttbc|Latin}}: [[functio]] {{f}}
 *{{ttbc|Polish}}: [[funkcja]] {{f}} (1, 3)
+{{checktrans-bottom}}
 
-===Intransitive verb===
-{{rfc-trverb|Intransitive verb}}
+===Verb===
 {{en-verb}}
 
-# to have a function
-# to carry on a function; to be in action
+# {{intransitive}} to have a function
+# {{intransitive}} to carry on a function; to be in action
 
 ====Synonyms====
 *{{i-c|to have a function}} [[officiate]], [[serve]]
@@ -569,10 +568,10 @@ the tables above.-->
 * Swedish: [[fungera]], [[tjänstgöra]]
 {{trans-bottom}}
 
-=====Translations to be checked=====
-{{checktrans}}
+{{checktrans-top}}
 *{{ttbc|German}}: [[funktionieren]]
 *{{ttbc|Polish}}: [[działać]], [[funkcjonować]]
+{{checktrans-bottom}}
 
 [[Category:Algebra]]
 [[Category:Analysis]]
