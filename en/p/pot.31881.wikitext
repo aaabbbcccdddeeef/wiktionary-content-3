@@ -28,9 +28,9 @@
 
 =====Translations=====
 {{trans-top|a vessel}}
-* Arabic: {{Arab|[[قدر]]}} (qedr) {{m}}, {{Arab|[[إناء|إنَاء]]}} (’inā’) {{m}}, {{Arab|[[طنجرة]]}} {{IPAchar|(ʈánjara)}} {{f}}
-* Chinese: [[锅]] (guō)
-* [[Crimean Tatar]]: [[badiye]]
+* Arabic: {{t|ar|sc=Arab|قدر|tr=qedr|m}}, {{t|ar|sc=Arab|إناء|إنَاء|tr=’inā’|m}}, {{t|ar|sc=Arab|طنجرة|tr=ʈánjara|f}}
+* Chinese: {{t|zh|锅|tr=guō}}
+* [[Crimean Tatar]]: {{t|crh|badiye}}
 * Dutch: {{t+|nl|pot|m}}
 * Finnish: {{t+|fi|ruukku}}, {{t+|fi|pata}}, {{t+|fi|kattila}}
 * French: {{t+|fr|pot|m}}, {{t+|fr|marmite|f}}
@@ -40,11 +40,11 @@
 {{trans-mid}}
 * Japanese: {{t-|ja|鍋|sc=Jpan}} ({{t-|ja|なべ|tr=nabe|sc=Jpan}})
 * Korean: {{t-|ko|단지|tr=danji|sc=Hang}}, {{t+|ko|독|tr=dok|sc=Hang}}
-* Kurdish: {{KUchar|[[قازان]]}}, {{KUchar|[[مه‌نجه‌ڵ]]}}
+* Kurdish: {{t|ku|sc=KUchar|قازان}}, {{t|ku|sc=KUchar|مه‌نجه‌ڵ}}
 * Portuguese: {{t+|pt|pote|m}}
 * Romanian: {{t-|ro|oală|f}}
-* Russian: [[горшок]] (goršók) {{m}}
-* Serbian: [[lonac]] {{m}}, [[šerpa]] {{f}}, [[kotao]] {{m}}
+* Russian: {{t|ru|горшок|tr=goršók|m}}
+* Serbian: {{t|sr|lonac|m}}, {{t|sr|šerpa|f}}, {{t|sr|kotao|m}}
 * Spanish: {{t+|es|olla|f}}, {{t-|es|marmita|f}}
 * Swedish: {{t-|sv|gryta|c}}
 {{trans-bottom}}
@@ -106,18 +106,18 @@
 
 =====Translations=====
 {{trans-top|to put (something) into a pot}}
-* Finnish: [[tölkittää]]
+* Finnish: {{t|fi|tölkittää}}
 * German: etwas in einen [[Topf]] [[werfen]]
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|to preserve}}
-* Finnish: [[tölkittää]]
+* Finnish: {{t|fi|tölkittää}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|to cause a ball to fall into a pocket}}
-* Finnish: [[pussittaa]]
+* Finnish: {{t|fi|pussittaa}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -135,7 +135,7 @@ Possibly a shortened form of Mexican {{S.}} {{term|potiguaya||marijuana leaves|l
 
 =====Translations=====
 {{trans-top|marijuana}}
-* Dutch: [[wiet]]
+* Dutch: {{t|nl|wiet}}
 * Finnish: {{t+|fi|ruoho}}
 * German: {{t+|de|Gras|n}}, {{t+|de|Marihuana|n}}
 {{trans-mid}}
@@ -198,7 +198,7 @@ Possibly a shortened form of Mexican {{S.}} {{term|potiguaya||marijuana leaves|l
 ===Noun===
 {{nl-noun|potten|potje|g=m}}
 
-# [[jar]], pot, [[vase]]
+# [[jar]], [[#English|pot]], [[vase]]
 # {{pejorative|lang=nl}} [[dyke]] ([[lesbian]])
 
 ===Derived terms===
@@ -212,21 +212,21 @@ Possibly a shortened form of Mexican {{S.}} {{term|potiguaya||marijuana leaves|l
 ==French==
 
 ===Etymology===
-From {{VL.}} [[pottum]] 'pot, jar'
+From {{VL.|fr}} {{term|pottum||pot, jar}}.
 
 ===Noun===
 {{fr-noun|m}}
 
-# (common, original sense) metal or baked [[pot]], [[jar]], [[vase]]; ften specified after its intended content which follows after ''à -'', e.g. [[pot à fleurs]] 'flower pot'.
+# {{context|common, original sense}} metal or baked [[pot]], [[jar]], [[vase]]; ften specified after its intended content which follows after ''à -'', e.g. [[pot à fleurs]] 'flower pot'.
 # [[cooking pot]]; culinary [[dish]] prepared in one.
 # [[drink|Drink]], alcoholic [[beverage]].
 # [[#English|Pot]], [[kitty]], [[pool]] of money staked at cards.
 # ancient measure, containing two [[pinte]]s
 # paper size, about 40 by 31 cm
-# (slang, vulgar) [[arse|Arse]], [[bum]], [[behind]].
+# {{context|slang|vulgar|lang=fr}} [[arse|Arse]], [[bum]], [[behind]].
 # [[luck|Luck]], good [[fortune]].
 
-===Derived terms===
+====Derived terms====
 * [[potage]]
 * [[potager]]
 * [[pot-au-feu]]
@@ -242,7 +242,7 @@ From {{VL.}} [[pottum]] 'pot, jar'
 * [[se manier le pot]]
 * [[tourner autour du pot]]
 
-===References===
+====References====
 * {{R:NPLI}}
 
 ----
