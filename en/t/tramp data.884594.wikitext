@@ -1,6 +1,6 @@
 ==English==
 
 ===Noun===
-[[tramp]] [[data]]
+{{en-noun|-|sg=[[tramp]] [[data]]}}
 # {{context|programming}}: A term describing [[data]] which is passed to a [[function]] '''only''' because it must be passed on to another function unchanged.
 #: ''Functions should use matching variable names for '''tramp data''' to improve [[readability]].''
