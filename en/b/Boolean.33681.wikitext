@@ -24,13 +24,13 @@ From the name of [[w:George Boole|George Boole]].
 
 ====Translations====
 {{trans-top|logic: pertaining to data items that have values “true” and “false”}}
-*Dutch: {{t|nl|booleaans}}
-*French: [[booléen]], [[boolien]]
-*German: [[boolsch]]
+* Dutch: {{t|nl|booleaans}}
+* French: [[booléen]], [[boolien]]
+* German: [[boolsch]]
 {{trans-mid}}
-*Japanese: [[ブール代数の]] (būrudaisū-no)
-*Polish: [[boolowski]]
-*Russian: [[булев]]
+* Japanese: [[ブール代数の]] (būrudaisū-no)
+* Polish: [[boolowski]]
+* Russian: {{t+|ru|булев|sc=Cyrl}}
 {{trans-bottom}}
 
 ===Noun===
@@ -43,12 +43,12 @@ From the name of [[w:George Boole|George Boole]].
 
 ====Translations====
 {{trans-top|logic: a variable}}
-*Dutch: {{t|nl|booleaans|alt=booleaanse}} {{t|nl|waarde|f}}
-*Finnish: [[totuusarvomuuttuja]]
-*French: [[variable]] {{t|fr|booléen|alt=booléenne|f}}
+* Dutch: {{t|nl|booleaans|alt=booleaanse}} {{t+|nl|waarde|f}}
+* Finnish: [[totuusarvomuuttuja]]
+* French: [[variable]] {{t|fr|booléen|f|alt=booléenne}}
 {{trans-mid}}
-*German: {{t|de|Boolean|m}}, {{t|de|boolsch|alt=boolsche}} {{t|de|Variable|f}}
-*Japanese: [[ブーリアン]] (būrian), [[ブール値]] (būruchi)
+* German: {{t-|de|Boolean|m}}, {{t|de|boolsch|alt=boolsche}} {{t-|de|Variable|f}}
+* Japanese: [[ブーリアン]] (būrian), [[ブール値]] (būruchi)
 {{trans-bottom}}
 
 [[ru:Boolean]]
