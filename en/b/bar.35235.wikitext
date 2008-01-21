@@ -1,4 +1,5 @@
 {{see|Bar|bär|Bär}}
+{{wikipedia}}
 ==English==
 
 ===Pronunciation===
@@ -7,8 +8,10 @@
 * {{audio|en-us-bar.ogg|Audio (US)}}
 *: Rhymes: [[Rhymes:English:-ɑː(r)|-ɑː(r)]]
 
-===Noun===
-{{wikipedia}}
+===Etymology 1===
+From {{ME.}} {{term|barre||lang=enm}}, from {{OF.}} {{term|barre||lang=fro}}
+
+====Noun====
 {{en-noun}}
 
 # A solid, more or less rigid object with a uniform [[cross-section]] smaller than its length.
@@ -38,12 +41,12 @@
 #: ''See wikipedia article on the topic:'' {{w|Ordinary (heraldry)}}
 # {{sports}} A horizontal pole that must be crossed in [[high jump]] and [[pole vault]]
 
-====Synonyms====
+=====Synonyms=====
 * (''business licensed to sell intoxicating beverages''): [[pub]] (''British''), [[public house]], [[tavern]]
 * (''official order prohibiting some activity''): [[ban]], [[prohibition]]
 * (''section of a staff, in music''): [[measure]]
 
-====Derived terms====
+=====Derived terms=====
 {{rel-top4|derived terms}}
 * [[admitted to the bar]]
 * [[anti-roll bar]]
@@ -133,7 +136,7 @@
 * [[wire bar]]
 {{rel-bottom}}
 
-====Translations====
+=====Translations=====
 {{trans-top|solid object with uniform cross-section}}
 * Dutch: {{t+|nl|stang|m}}, {{t-|nl|staaf|f}}, {{t+|nl|baar|f}}, {{t+|nl|blok|n}}
 * Esperanto: {{t+|eo|stango|xs=Esperanto}}
@@ -265,32 +268,8 @@
 * {{ttbc|Basque}}: [[taberna]], [[ardandegi]] (5)
 {{checktrans-bottom}}
 
-===Noun===
-{{wikipedia|Bar (unit)}}
-{{en-noun}}
-
-# A [[unit]] of [[pressure]] equal to 100,000 [[pascal]]s.
-
-====Derived terms====
-* [[kilobar]]
-* [[megabar]]
-* [[millibar]]
-
-====Related terms====
-* [[isobar]]
-
-====Translations====
-!--DefI-->
-{{trans-top|unit of pressure}}
-* Dutch: {{t+|nl|bar}}
-* Finnish: {{t+|fi|baari}}
-* French: {{t+|fr|bar|m}}
-* German: {{t+|de|Bar|n}}
-{{trans-mid}}
-{{trans-bottom}}
-
-===Verb===
-{{en-verb|bars|barring|barred|barred}}
+====Verb====
+{{en-verb|bar|r|ring}}
 
 # {{transitive}} To [[obstruct]] the passage of (someone or something).
 # {{transitive}} To [[prohibit]].
@@ -298,16 +277,16 @@
 # {{transitive}} To [[lock]] or bolt with a bar.
 #: ''bar the door''
 
-====Synonyms====
+=====Synonyms=====
 * (''obstruct''): [[block]], [[hinder]], [[obstruct]]
 * (''prohibit''): [[ban]], [[interdict]], [[prohibit]]
 * (''lock or bolt with a bar''):
 
-====Derived terms====
+=====Derived terms=====
 * [[outbar]]
 * [[unbar]]
 
-====Translations====
+=====Translations=====
 {{trans-top|to obstruct the passage of}}
 * Dutch: [[blokkeren]], [[versperren]]
 * Esperanto: [[bloki]]
@@ -344,26 +323,52 @@
 * {{ttbc|Spanish}}: [[barrar]]
 {{trans-bottom}}
 
-===Preposition===
-'''bar'''
+====Preposition====
+{{en-prep}}
 
 # [[except|Except]], [[with the exception of]].
 #: ''He invited everyone to his wedding bar his ex-wife.''
 
-====Synonyms====
+=====Synonyms=====
 * [[apart from]], [[barring]], [[except]], except for, [[excluding]], [[other]] than, [[save]]
 
-====Derived terms====
+=====Derived terms=====
 * [[bar none]]
 * [[all over bar the shouting]]
 
-====Translations====
+=====Translations=====
 ''See [[except]]''
 
 ====References====
 {{R:Heraldry 1862}}
 
 [[Category:English prepositions]]
+===Etymology 2===
+By shortening from [[barometer]]
+{{wikipedia|Bar (unit)}}
+
+====Noun====
+{{en-noun}}
+
+# A [[unit]] of [[pressure]] equal to 100,000 [[pascal]]s.
+
+=====Derived terms=====
+* [[kilobar]]
+* [[megabar]]
+* [[millibar]]
+
+=====Related terms=====
+* [[isobar]]
+
+=====Translations=====
+<!--DefI-->
+{{trans-top|unit of pressure}}
+* Dutch: {{t+|nl|bar}}
+* Finnish: {{t+|fi|baari}}
+* French: {{t+|fr|bar|m}}
+* German: {{t+|de|Bar|n}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ----
 
