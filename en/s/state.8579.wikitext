@@ -30,7 +30,7 @@
 #:''A debugger can show the '''state''' of a program at any breakpoint.''
 
 ====Translations====
-{{trans-top|Any sovereign nation}}
+{{trans-top|any sovereign nation}}
 *[[Catalan]]: [[estat]] [[:ca:estat|^]] {{m}}
 *Czech: [[stát]] {{m}}
 *Danish: [[stat]]
@@ -40,7 +40,7 @@
 *French: [[état]] {{m}}
 *German: [[Staat]] [[:de:Staat|^]] {{m}}
 *Greek: [[κράτος]] (kratos) {{n}}, [[καθεστώς]] (kathestos) {{n}}
-*Hungarian: [[állam]]
+*Hungarian: {{t|hu|állam}}
 {{trans-mid}}
 *[[Ido]]: [[stato]]
 *Italian: [[stato]] {{m}}
@@ -53,7 +53,7 @@
 *Swedish: [[stat]] {{c}}, [[rike]] {{n}}
 {{trans-bottom}}
 
-{{trans-top|A political division of a federation retaining a degree of autonomy}}
+{{trans-top|a political division of a federation retaining a degree of autonomy}}
 *Arabic: {{Arab|[[ولاية]]}} {{unicode|(welāya)}} {{f}}
 *[[Catalan]]: [[estat]] [[:ca:estat|^]] {{m}}
 *Czech: [[stát]] {{m}}
@@ -63,7 +63,7 @@
 *Finnish: [[osavaltio]]
 *French: [[état]] {{m}}
 *German: [[Staat]] [[:de:Staat|^]] {{m}}, [[Land]] {{n}}
-*Hungarian: [[állam]]
+*Hungarian: {{t|hu|állam}}
 {{trans-mid}}
 *[[Ido]]: [[stato]]
 *Italian: [[stato]] {{m}}
@@ -75,7 +75,7 @@
 *Swedish: [[stat]] {{c}}
 {{trans-bottom}}
 
-{{trans-top|A condition}}
+{{trans-top|a condition}}
 *Arabic: {{Arab|[[حالة]]}} {{unicode|(ħāla)}} {{f}}
 *[[Catalan]]: [[estat]] [[:ca:estat|^]] {{m}}
 *Czech: [[stav]] {{m}}
@@ -86,7 +86,7 @@
 *French: [[état]] {{m}}
 *German: Zustand {{m}}
 *Greek: [[κατάσταση]] (katastasi) {{f}}
-*Hungarian: [[állapot]]
+*Hungarian: {{t|hu|állapot}}
 {{trans-mid}}
 *[[Ido]]: [[stando]]
 *Italian: [[stato]] {{m}}
@@ -98,7 +98,7 @@
 *Swedish: [[tillstånd]] {{n}}
 {{trans-bottom}}
 
-{{trans-top|(computing) The stable condition of a processor during a particular clock cycle}}
+{{trans-top|(computing) the stable condition of a processor during a particular clock cycle}}
 *Czech: [[stav]] {{m}}
 *Finnish: [[tila]]
 *German: Zustand {{m}}
@@ -106,7 +106,7 @@
 *Russian: [[состояние]] (sostojánije) {{n}}
 {{trans-bottom}}
 
-{{trans-top|(computing) The set of all parameters relevant to a computation}}
+{{trans-top|(computing) the set of all parameters relevant to a computation}}
 *Czech: [[stav]] {{m}}
 *Finnish: [[tila]]
 {{trans-mid}}
@@ -114,7 +114,7 @@
 *Russian: [[состояние]] (sostojánije) {{n}}
 {{trans-bottom}}
 
-{{trans-top|(computing) The values of all parameters at some point in a computation}}
+{{trans-top|(computing) the values of all parameters at some point in a computation}}
 *Czech: [[stav]] {{m}}
 *Finnish: [[tila]]
 {{trans-mid}}
@@ -122,18 +122,16 @@
 *Russian: [[состояние]] (sostojánije) {{n}}
 {{trans-bottom}}
 
-=====Translations to be checked=====
-{{checktrans}}
-{{top}}
+{{checktrans-top}}
 *{{ttbc|Chinese}}: [[州]] (zhōu)
 *{{ttbc|Interlingua}}: [[stato]]
 *{{ttbc|Japanese}}: [[国家]] (こっか, kokka)
-{{mid}}
+{{checktrans-mid}}
 *{{ttbc|Korean}}: [[국가]] (gukga)
 *{{ttbc|Portuguese}}: [[estado]] {{m}}
 *{{ttbc|Swedish}}: [[nation]] {{c}}, [[land]] {{n}}
 *{{ttbc|Turkish}}: [[devlet]]
-{{bottom}}
+{{checktrans-bottom}}
 
 ====Derived terms====
 *[[pseudostate]]
