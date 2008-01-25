@@ -152,11 +152,12 @@
 #:'''''State''' your intentions.''
 
 ====Translations====
-{{trans-top|1. To declare to be a fact}}
+{{trans-top|to declare to be a fact}}
 *Dutch: [[verklaren]]
 *Finnish: [[sanoa]], [[todeta]], [[ilmoittaa]]
 *French: [[déclarer]]
 *German: [[erklären]]
+*Hungarian: {{t|hu|kijelent}}, {{t|hu|megállapít}}
 {{trans-mid}}
 *Spanish: [[declarar]]
 *Russian: [[утверждать]] (utv'erždát') {{impf}}, [[заявлять]] (zajavl'át’) {{impf}},
@@ -164,27 +165,25 @@
 *Serbian: [[izjaviti]], [[izneti]]
 {{trans-bottom}}
 
-{{trans-top|2. To make known}}
-*Finnish: [[ilmoittaa]]
-{{trans-mid}}
+{{trans-top|to make known}}
 *Dutch: [[bekendmaken]]
+*Finnish: [[ilmoittaa]]
+*Hungarian: {{t|hu|közöl}}
+{{trans-mid}}
 *Russian: [[объявлять]] (objavl'át’) {{impf}},  [[объявить]] (objavít’) {{impf}}
 {{trans-bottom}}
 
-=====Translations to be checked=====
-{{checktrans}}
-{{top}}
+{{checktrans-top}}
 *{{ttbc|Arabic}}: {{ARchar|[[قرر]]}} {{unicode|(qárara)}}
 *{{ttbc|Chinese}}: [[陳述]], [[陈述]] (chénshù)
 *{{ttbc|CJKV Characters}}: [[髳]]
-*{{ttbc|Hungarian}}: [[kijelenteni]], [[megállapítani]], [[közölni]]
 *{{ttbc|Italian}}: [[dichiarare]]
+{{checktrans-mid}}
 *{{ttbc|Japanese}}: [[述べる]] (のべる, noberu)
-{{mid}}
 *{{ttbc|Korean}}: [[말하다]] (malhada)
 *{{ttbc|Portuguese}}: [[declarar]]
 *{{ttbc|Swedish}}: [[förklara]]
-{{bottom}}
+{{checktrans-bottom}}
 
 [[Category:English transitive verbs]]
 
