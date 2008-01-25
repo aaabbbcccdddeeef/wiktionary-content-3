@@ -14,7 +14,7 @@ From {{Gr.}} {{term|sc=Grek|τάξις|tr=taxis||arrangement, order|lang=el}} + 
 *{{sense|science of finding, describing, classifying and naming organisms}} [[alpha taxonomy]]
 
 ====Related terms====
-{{top}}
+{{top4}}
 *[[classification]]
 *[[rank]]
 *[[taxon]]
@@ -26,6 +26,7 @@ From {{Gr.}} {{term|sc=Grek|τάξις|tr=taxis||arrangement, order|lang=el}} + 
 *[[subphylum]]
 *[[class]]
 *[[subclass]]
+{{mid4}}
 *[[infraclass]]
 *[[superorder]]
 *[[order]]
@@ -37,9 +38,9 @@ From {{Gr.}} {{term|sc=Grek|τάξις|tr=taxis||arrangement, order|lang=el}} + 
 *[[family]]
 *[[subfamily]]
 *[[genus]]
+{{mid4}}
 *[[species]]
 *[[subspecies]]
-{{mid}}
 *[[superregnum]]
 *[[regnum]]
 *[[subregnum]]
@@ -49,6 +50,7 @@ From {{Gr.}} {{term|sc=Grek|τάξις|tr=taxis||arrangement, order|lang=el}} + 
 *[[classis]]
 *[[subclassis]]
 *[[infraclassis]]
+{{mid4}}
 *[[superordo]]
 *[[ordo]]
 *[[subordo]]
@@ -63,30 +65,40 @@ From {{Gr.}} {{term|sc=Grek|τάξις|tr=taxis||arrangement, order|lang=el}} + 
 {{bottom}}
 
 ====Translations====
-{{trans-top}}
-*Arabic: {{ARchar|[[التصنيف]]}} (at-taʂnīf) {{m}}
-*Chinese: [[分類學]], [[分类学]] (fēnlèi xué)
-*Croatian: [[taksonomija]] {{f}}
-*Dutch: [[taxonomie]] {{f}}
-*French: [[taxonomie]] {{f}}
-*German: [[Taxonomie]] {{f}}
-*Greek: [[ταξινομία]] (taksinomia) {{f}}
-*Icelandic: [[flokkunarfræði]]
-*[[Interlingua]]: [[taxinomia]]
-*Italian: [[tassonomia]] {{f}}
-*Japanese: [[分類学]] (bunruigaku)
+{{trans-top|the science of finding, describing, classifying and naming organisms}}
+* Hungarian: {{t|hu|rendszertan}}, {{t|hu|taxonómia}}
 {{trans-mid}}
-*Korean: [[분류학]] (bunryuhak)
-*Latin: [[taxonomia]] {{f}}
-*Persian: {{FAchar|[[رده بندی]]}} (rad-e bandi)
-*Polish: [[taksonomia]] {{f}}
-*Portuguese: [[taxionomia]] {{f}} (''parallel forms:'' [[taxinomia]], [[taxonomia]])
-*Russian: [[таксономия]] (taksonómija) {{f}}
-*Slovenian: [[taksonomija]] {{f}}
-*Slovak: [[taxonómia]] {{f}}
-*Spanish: [[taxonomía]] {{f}}
-*Turkish: [[sınıflandırma bilimi]], [[taksonomi]]
 {{trans-bottom}}
+
+{{trans-top|the classification in a hierarchical system}}
+* Hungarian: {{t|hu|osztályozás}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+*{{ttbc|Arabic}}: {{ARchar|[[التصنيف]]}} (at-taʂnīf) {{m}}
+*{{ttbc|Chinese}}: [[分類學]], [[分类学]] (fēnlèi xué)
+*{{ttbc|Croatian}}: [[taksonomija]] {{f}}
+*{{ttbc|Dutch}}: [[taxonomie]] {{f}}
+*{{ttbc|French}}: [[taxonomie]] {{f}}
+*{{ttbc|German}}: [[Taxonomie]] {{f}}
+*{{ttbc|Greek}}: [[ταξινομία]] (taksinomia) {{f}}
+*{{ttbc|Icelandic}}: [[flokkunarfræði]]
+*{{ttbc|Interlingua}}: [[taxinomia]]
+*{{ttbc|Italian}}: [[tassonomia]] {{f}}
+*{{ttbc|Japanese}}: [[分類学]] (bunruigaku)
+{{checktrans-mid}}
+*{{ttbc|Korean}}: [[분류학]] (bunryuhak)
+*{{ttbc|Latin}}: [[taxonomia]] {{f}}
+*{{ttbc|Persian}}: {{FAchar|[[رده بندی]]}} (rad-e bandi)
+*{{ttbc|Polish}}: [[taksonomia]] {{f}}
+*{{ttbc|Portuguese}}: [[taxionomia]] {{f}} (''parallel forms:'' [[taxinomia]], [[taxonomia]])
+*{{ttbc|Russian}}: [[таксономия]] (taksonómija) {{f}}
+*{{ttbc|Slovenian}}: [[taksonomija]] {{f}}
+*{{ttbc|Slovak}}: [[taxonómia]] {{f}}
+*{{ttbc|Spanish}}: [[taxonomía]] {{f}}
+*{{ttbc|Turkish}}: [[sınıflandırma bilimi]], [[taksonomi]]
+{{checktrans-bottom}}
 
 [[fa:taxonomy]]
 [[id:taxonomy]]
