@@ -7,8 +7,7 @@
 * Rhymes: [[Rhymes:English:-ɪŋk|-ɪŋk]]
 
 ===Etymology 1===
-
-{{OE.}} {{term|linke}} probably from {{ON.}} ''*hlenkr'', from {{PG.}}. Also from {{L.}} ''[[lychnus]]'', from {{Gk.}} ''[[lukhnos]]'' ([[lamp]]). Used in English since the 14th Century.
+{{OE.}} {{term|linke}} probably from {{ON.}} ''*hlenkr'', from {{PG.}}.  Used in English since the 14th Century.
 
 ====Noun====
 {{en-noun}}
@@ -20,7 +19,8 @@
 #: ''The weakest '''link'''.''
 # {{computing}} The connection between [[bus]]ses or systems.
 #: ''A by-N-'''link''' is composed of N lanes.''
-# {{obsolete}} A [[torch]] used to light dark streets.
+# {{computing}} shortened form of [[hyperlink]], especially one implemented in [[HTML]].
+#: ''The '''link''' on the page points to the sports scores.''
 
 =====Translations=====
 {{trans-top|connection}}
@@ -61,11 +61,30 @@
 
 {{trans-top|computing: connection between busses or systems}}
 * Danish: link, [[forbindelse]]
+* Dutch: link, [[verbinding]]
 * Italian: {{t+|it|connessione|f}}
 {{trans-mid}}
 * Portuguese: [[ligação]] {{f}}
 {{trans-bottom}}
 
+{{trans-top|computing: hyperlink}}
+* Czech: {{t-|cs|odkaz|m}}
+* Danish: {{t-|da|link}}
+* Dutch: {{t+|nl|link}}, [[koppeling]] {{f}}, [[verwijzing]] {{f}}
+* Finnish: {{t+|fi|linkki}}
+* German: {{t+|de|Link}} {{m}}, {{t-|de|Hyperlink}} {{m}}
+* Indonesian: [[pranala]]
+* Italian: {{t+|it|link}} {{m}}, {{t+|it|collegamento|m}}
+* [[Lower Sorbian]]: [[#Lower Sorbian|link]] {{m}}
+{{trans-mid}}
+* Polish: {{t+|pl|link}} {{m}}
+* Romanian: {{t-|ro|hyperlink|n}}, {{t-|ro|legătură|f}}
+* Portuguese: [[ligação]] {{f}}
+* Russian: [[гиперссылка]] {{f}} , [[ссылка]] {{f}}
+* Spanish: {{t-|es|hipervínculo}}
+* Swedish: {{t-|sv|hyperlänk|c}}, {{t-|sv|länk|c}}
+{{trans-bottom}}
+ 
 {{checktrans}}
 * {{ttbc|Romanian}}: [[legătură]] {{f}}
 
@@ -87,39 +106,37 @@
 {{trans-bottom}}
 
 ===Etymology 2===
-Shortened form of [[hyperlink]].
+plausibly a modification of {{ML.}} [[linchinus]] 'candle', an alteration opf {{L.}} [[lynchinus]], itself from {{AGr.}} [[λυχνοσ]] (''lychnos'') 'lamp', akin to {{Gr.}} [[λευκοσ]] (''leukos'') 'white'
 
 ====Noun====
 {{en-noun}}
 
-# {{computing}} A [[hyperlink]], especially one implemented in [[HTML]].
-#: ''The '''link''' on the page points to the sports scores.''
+# {{obsolete}} A [[torch]], used to light dark streets.
+
+=====Derived terms=====
+* [[linkboy]]
+* [[linkman]]
 
 =====Translations=====
-{{trans-top|computing: hyperlink}}
-* Czech: {{t-|cs|odkaz|m}}
-* Danish: {{t-|da|link}}
-* Dutch: {{t+|nl|link}}, [[koppeling]] {{f}}, [[verwijzing]] {{f}}
-* Finnish: {{t+|fi|linkki}}
-* German: {{t+|de|Link}} {{m}}, {{t-|de|Hyperlink}} {{m}}
-* Indonesian: [[pranala]]
-* Italian: {{t+|it|link}} {{m}}, {{t+|it|collegamento|m}}
-* [[Lower Sorbian]]: [[#Lower Sorbian|link]] {{m}}
-{{trans-mid}}
-* Polish: {{t+|pl|link}} {{m}}
-* Romanian: {{t-|ro|hyperlink|n}}, {{t-|ro|legătură|f}}
-* Portuguese: [[ligação]] {{f}}
-* Russian: [[гиперссылка]] {{f}} , [[ссылка]] {{f}}
-* Spanish: {{t-|es|hipervínculo}}
-* Swedish: {{t-|sv|hyperlänk|c}}, {{t-|sv|länk|c}}
-{{trans-bottom}}
+* Dutch: [[lantaardrager]] {{m}}
+
+===Etymology 3===
+origin unknown 
+
+====Verb====
+'''link'''
+
+# (''Scottish'') to [[skip]] or [[trip]] along smartly
+
+===References===
+* {{R:Websters}}
 
 ----
 
 ==Dutch==
 
 ===Adjective===
-'''link'''
+'''link, linke'''
 
 # [[Sly]]; [[Cunning]].
 # [[Dangerous]].
@@ -157,6 +174,9 @@ Shortened form of [[hyperlink]].
 ----
 
 ==Italian==
+
+===Etymology===
+{{E.|it}} {{term|lang=en|link}}.
 
 ===Noun===
 '''link''' {{m}} {{inv}}
