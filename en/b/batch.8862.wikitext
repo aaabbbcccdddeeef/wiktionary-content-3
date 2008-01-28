@@ -1,24 +1,15 @@
 ==English==
 
-===Etymology===
-Old English [[bache]], [[bacche]], from Anglo Saxon [[bacan]] ''to bake''; see also German geb["a]ck and Dutch [[baksel]].
-
-{{etystub}}
-
 ===Pronunciation===
 *{{AHD|băch}}, {{IPA|/bætʃ/}}, {{SAMPA|/<tt>b{tS</tt>/}}
 *{{rhymes|ætʃ}}
 
-===Adjective===
-{{en-adj|-}}
+===Etymology 2===
+Old English [[bache]], [[bacche]], from Anglo Saxon [[bacan]] ''to bake''; see also German geb["a]ck and Dutch [[baksel]].
 
-# Of a process, operating for a defined set of conditions, and then halting.
-#:''The plant had two '''batch''' assembly lines for packaging, as well as a continuous feed production line.
+{{etystub}}
 
-====Antonyms====
-* [[continuous]]
-
-===Noun===
+====Noun====
 {{en-noun|es}}
 
 # The quantity of [[bread]] or other baked goods [[bake]]d at one time.
@@ -30,12 +21,12 @@ Old English [[bache]], [[bacche]], from Anglo Saxon [[bacan]] ''to bake''; see a
 # {{computing}} A set of [[data]] to be processed with one [[execute|execution]] of a program.
 #:''The system throttled itself to '''batches''' of 50 requests at a time to keep the thread count under control.''
 
-====Synonyms====
+=====Synonyms=====
 *(''quantity of baked goods made at one time''): [[recipe]]
 *(''quantity of anything produced in one operation''): [[pressing]], [[run]], [[lot]]
 *(''group or collection of things of the same kind''): [[group]], [[lot]]
 
-====Translations====
+=====Translations=====
 {{trans-top|quantity of baked goods made at one time}}
 {{trans-mid}}
 {{trans-bottom}}
@@ -55,7 +46,7 @@ Old English [[bache]], [[bacche]], from Anglo Saxon [[bacan]] ''to bake''; see a
 *{{ttbc|French}}: [[lot]] {{m}}
 *{{ttbc|Spanish}}: [[lote]] {{m}}
 
-===Verb===
+====Verb====
 {{en-verb|batches|batching|batched}}
 
 # To [[aggregate]] things together into a batch.
@@ -63,12 +54,21 @@ Old English [[bache]], [[bacche]], from Anglo Saxon [[bacan]] ''to bake''; see a
 # {{computing}} To [[batch process]] a set of input data or requests.
 #:''The purchase requests for the day were stored in a queue and '''batched''' for printing the next morning.''
 
-===References===
-{{R:Webster 1913}}
+====Adjective====
+{{en-adj|-}}
 
-===Derived terms===
+# Of a process, operating for a defined set of conditions, and then halting.
+#:''The plant had two '''batch''' assembly lines for packaging, as well as a continuous feed production line.
+
+=====Antonyms=====
+* [[continuous]]
+
+=====Derived terms=====
 *[[batch mode]]
 *[[batch process]]
+
+===References===
+{{R:Webster 1913}}
 
 ===Etymology 2===
 from an abbreviation of {{term|bachelor|lang=en||unmarried adult male}}
