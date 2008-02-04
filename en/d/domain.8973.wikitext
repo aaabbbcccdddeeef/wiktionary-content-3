@@ -1,5 +1,5 @@
 ==English==
-
+{{wikipedia}}
 {{rank|looks|running|garden|887|domain|touch|higher|military}}
 
 ===Pronunciation===
@@ -28,14 +28,28 @@
 * (''collection of information'') Used in a context in which [[domain name services]], or domain name like services, are managed in a fashion that is [[integrated]] with the management of other computer and network related information.
 * (''collection of computers'') Used in the same context as the ''collection of information'' '''domain''' sense.
 
+====Synonyms====
+* [[domain of definition]] (4)
+* [[domain name]]
+* [[hostname]]
+
+====Antonyms====
+* [[range]] (4)
+* [[codomain]] (4)
+
+====Related terms====
+* [[DNS]]
+* [[top-level domain]]
+* [[subdomain]]
+
 ====Translations====
 {{trans-top|geographic area}}
 * Dutch: [[domein]] {{n}}
 * Finnish: {{t+|fi|alue}}
 * French: {{t+|fr|domaine|f}}
 * Italian: {{t+|it|dominio|m}}
-* Polish: {{t+|pl|dziedzina|f}}
 {{trans-mid}}
+* Polish: {{t+|pl|dziedzina|f}}
 * Portuguese: {{t+|pt|domínio|m}}
 * Spanish: {{t-|es|dominio|m}}
 * Vietnamese: [[đất đai]], [[tài sản]], [[dinh cơ]]
@@ -75,8 +89,8 @@
 
 {{trans-top|DNS domain name}}
 * Italian: {{t+|it|dominio|m}}
-* Polish: [[domena]] {{f}}
 {{trans-mid}}
+* Polish: [[domena]] {{f}}
 * Portuguese: {{t+|pt|domínio|m}}
 * Vietnamese: [[không gian tên]], [[tên]] [[miền]] [[không gian]]
 {{trans-bottom}}
@@ -94,7 +108,6 @@
 {{trans-bottom}}
 
 {{trans-top|collection of computers}}
-* Polish: [[domena]] {{f}}
 {{trans-mid}}
 * Polish: [[domena]] {{f}}
 * Portuguese: {{t+|pt|domínio|m}}
@@ -112,20 +125,6 @@
 *{{ttbc|German}}: [[Domäne]] {{f}}
 *{{ttbc|Romanian}}: [[domeniu]], [[sfera]]
 {{trans-bottom}}
-
-====Antonyms====
-*[[range]] (4)
-*[[codomain]] (4)
-
-====Synonyms====
-*[[domain of definition]] (4)
-*[[domain name]]
-*[[hostname]]
-
-====See also====
-* [[DNS]]
-* [[top-level domain]]
-* [[subdomain]]
 
 [[ar:domain]]
 [[fr:domain]]
