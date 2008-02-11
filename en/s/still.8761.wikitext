@@ -17,17 +17,18 @@
 # [[unmoving]]
 
 =====Translations=====
-{{top}}
+{{trans-top|unmoving}}
 * French: {{t+|fr|calme}}, {{t+|fr|immobile}}
 * German: {{t+|de|still}}
 * Dutch: {{t+|nl|stil}}
 * Finnish: [[liikkumaton]]
-{{mid}}
+{{trans-mid}}
+* Japanese: {{qualifier|general}} {{t|ja|sc=Jpan|止まっている|tr=tomatte-iru}}; {{qualifier|formal}} {{t|ja|sc=Jpan|静止した|tr=sēshi shita}}
 * Norwegian: {{t+|no|stille}}
 * Portuguese: [[imóvel]] {{m}}
 * Russian: [[неподвижный]] (nepodvížnyj)
 * Swedish: {{t+|sv|stilla}}
-{{bottom}}
+{{trans-bottom}}
 
 ====Adverb====
 {{en-adv|-}}
@@ -45,9 +46,9 @@
 * French: {{t+|fr|encore}}
 * German: {{t+|de|noch}}
 * Italian: {{t+|it|ancora}}, {{t-|it|tuttora}}
-* Japanese: [[依然として]] (izen toshite)
-* Korean: [[여전히]] (yeojeonhi)
 {{trans-mid}}
+* Japanese: {{qualifier|informal}} {{t|ja|sc=Jpan|まだ|tr=mada}}; {{qualifier|formal}} {{t|ja|sc=Jpan|依然として|tr=izen-to-shite}}
+* Korean: [[여전히]] (yeojeonhi)
 * Kurdish: {{t+|ku|هێشتا|sc=KUchar}}
 * Norwegian: {{t+|no|ennå}}, {{t+|no|fremdeles}}
 * Romanian: {{t-|ro|încă}}
@@ -60,7 +61,7 @@
 * French: {{t+|fr|néanmoins}}
 * German: {{t+|de|doch}}
 {{trans-mid}}
-* Japanese: {{t-|ja|それでも|tr=soré démo|sc=Jpan}}
+* Japanese: {{qualifier|informal}} {{t|ja|sc=Jpan|まだ|tr=mada}}; {{qualifier|general}} {{t-|ja|それでも|tr=soré démo|sc=Jpan}}
 * Kurdish: {{t+|ku|به‌ڵام|sc=KUchar}}
 * Norwegian: {{t+|no|likevel}}, {{t-|no|enda}}
 * Russian: [[всё-таки]] (vs'ó-taki), [[тем не менее]] (t'em n'e m'én'eje)
@@ -72,6 +73,7 @@
 * French: {{t+|fr|encore}}
 * German: {{t+|de|noch}}
 {{trans-mid}}
+* Japanese: {{qualifier|informal}} {{t|ja|sc=Jpan|まだ|tr=mada}}, {{t|ja|sc=Jpan|もっと|tr=motto}}; {{qualifier|general}} {{t|ja|sc=Jpan|更に|tr=sarani}}, {{t|ja|sc=Jpan|より|tr=yori}}
 * Kurdish: {{KUchar|[[هێشتا]]}}
 * Norwegian: {{t-|no|enda}}
 * Russian: [[ещё]] (ješ'ó)
@@ -85,7 +87,6 @@
 *{{ttbc|Ido}}: [[ankore]], [[ankor]]
 *{{ttbc|Italian}}: [[ancora]]
 {{trans-mid}}
-*{{ttbc|Japanese}}: [[まだ]]　(máda), [[もっと]] (motto), [[より]]
 *{{ttbc|Portuguese}}: [[ainda]]
 *{{ttbc|Spanish}}: [[todavía]]
 {{trans-bottom}}
@@ -101,16 +102,18 @@
 {{trans-top|a period of calm or silence}}
 * Finnish: [[tyyni]] [[jakso]]
 {{trans-mid}}
+* Japanese: {{sense|sound}} {{t|ja|sc=Jpan|静寂|tr=sējyaku}}, {{t|ja|sc=Jpan|静けさ|tr=shizukesa}}; {{sense|wind|sea}} {{t|ja|sc=Jpan|凪|tr=nagi}}
 * Kurdish: {{KUchar|[[هێمنی]]}}
 * Russian: {{t+|ru|штиль|m|tr=štil'|sc=Cyrl}}
 {{trans-bottom}}
 
-{{trans-top|(''photography'') a non-moving photograph}}
+{{trans-top|photography: a non-moving photograph}}
 * Finnish: [[pysäytyskuva]], [[stilli]]
 {{trans-mid}}
+* Japanese: {{sense|photography}} {{t|ja|sc=Jpan|スチール|tr=suchīru}}; {{sense|electronics}} {{t|ja|sc=Jpan|スチル|tr=suchiru}}, {{t|ja|sc=Jpan|静止画|tr=sēshi-ga}}
 {{trans-bottom}}
 
-{{trans-top|(''slang'') a resident of the Falkland Islands}}
+{{trans-top|slang: a resident of the Falkland Islands}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -127,18 +130,16 @@ Via {{ME.}}, ultimately from {{L.}} ''[[stilla]]''
 {{wikipedia}}
 
 # a device for [[distill]]ing liquids.
-# (''Catering, stills'') Area in restaurant used to make tea and coffee separate from main kitchen.
-
-=====Related terms=====
-*[[pot still]]
+# {{context|catering, stills}} Area in restaurant used to make tea and coffee separate from main kitchen.
 
 =====Translations=====
 {{trans-top|a device for distilling liquids}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|蒸留器|tr=jōryū-ki}}
 * Russian: [[перегонный куб]] (p'er'egónnyj kub) {{m}}, [[дистиллятор]] (distill'áátor) {{m}}
 {{trans-bottom}}
 
-{{trans-top|(''Catering, stills'') Area in restaurant used to make tea and coffee separate from main kitchen
+{{trans-top|Catering, stills: Area in restaurant used to make tea and coffee separate from main kitchen
 }}
 {{trans-mid}}
 {{trans-bottom}}
@@ -150,6 +151,9 @@ Via {{ME.}}, ultimately from {{L.}} ''[[stilla]]''
 *{{ttbc|Spanish}}: [[alambique]] (1)
 {{bottom}}
 
+=====See also=====
+*[[pot still]]
+
 ===Etymology 3===
 {{OE.}} ''[[stillan]]''
 
@@ -160,8 +164,12 @@ Via {{ME.}}, ultimately from {{L.}} ''[[stilla]]''
 #:  ''Still that animal before it hurts someone.''
 
 =====Translations=====
+{{trans-top|to calm down}}
 * French: {{t+|fr|calmer}}
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|静まる|tr=shizumaru}}
 * Russian: [[успокаивать]] (uspokáivat') {{impf}}, [[успокоить]] (uspokóit') {{pf}}; [[угомонить]] (ugomonít') {{pf}}
+{{trans-bottom}}
 
 ===Anagrams===
 *[[tills]]
