@@ -2,12 +2,12 @@
 
 ===Pronunciation===
 *{{audio|en-uk-homosexual.ogg|Audio (UK)}}
-*{{RP}}:
+*{{a|RP}}:
 **{{IPA|/ˌhəʊməʊˈsɛksjuːəl/}}, {{SAMPA|/%h@Um@U"sEksju:@l/}}
 **{{IPA|/ˌhəʊməʊˈsɛkʃuːəl/}}, {{SAMPA|/%hoUməU"sEkSu:@l/}}
 **{{IPA|/ˌhɒməʊˈsɛksjuːəl/}}, {{SAMPA|/%hQm@U"sEksju:@l/}}
 **{{IPA|/ˌhɒməʊˈsɛkʃuːəl/}}, {{SAMPA|/%hQməU"sEkSu:@l/}}
-*''US'':
+*{{a|US}}:
 **{{enPR|hō'mə-sĕkʹsho͞o-əl}}, {{IPA|/ˌhoʊməˈsɛkʃuːəl/}}, {{SAMPA|/%hoUm@"sEkSu:@l/}}
 **{{enPR|hō'mō-sĕkʹsho͞o-əl}}, {{IPA|/ˌhoʊmoʊˈsɛkʃuːəl/}}, {{SAMPA|/%hoUmoU"sEkSu:@l/}}
 
@@ -28,14 +28,14 @@
 *Because of the similarity of ''homo-'' to the Latin word for ''man'', the term ''homosexual'' is sometimes interpreted as meaning "sexually attracted solely or primarily to [other] men".
 
 ====Synonyms====
-*(''sexually attracted solely or primarily to the same sex''): [[gay]], [[lesbian]] (''used only of women'')
-*(''involving or relating to homosexuals''): [[gay]], [[lesbian]] (''used only of women''), [[same-sex]]
-*(''intended for or used by homosexuals''): [[gay]], [[lesbian]] (''used only of women'')
+*{{sense|sexually attracted solely or primarily to the same sex}} [[gay]], [[lesbian]] {{i|used only of women}}
+*{{sense|involving or relating to homosexuals}} [[gay]], [[lesbian]] {{i|used only of women}}, [[same-sex]]
+*{{sense|intended for or used by homosexuals}} [[gay]], [[lesbian]] {{i|used only of women}}
 
 ====Antonyms====
-*(''sexually attracted solely or primarily to the same sex''): [[heterosexual]], [[straight]]
-*(''involving or relating to homosexuals''): [[heterosexual]], [[mixed-sex]], [[other-sex]], [[straight]]
-*(''intended for or used by homosexuals''): [[heterosexual]], [[straight]]
+*{{sense|sexually attracted solely or primarily to the same sex}} [[heterosexual]], [[straight]]
+*{{sense|involving or relating to homosexuals}} [[heterosexual]], [[mixed-sex]], [[other-sex]], [[straight]]
+*{{sense|intended for or used by homosexuals}} [[heterosexual]], [[straight]]
 
 ====Translations====
 {{trans-top|sexually attracted solely or primarily to the same sex}}
@@ -85,16 +85,16 @@
 # A person who is attracted solely or primarily to others of the same sex.
 
 ====Usage notes====
-*Female homosexuals are also known as [[lesbian]]s, a term preferred by many of them.  As ''homosexual'' applies to people of either sex, the expression ''homosexuals and lesbians'' is a [[pleonasm]] and is best replaced by "homosexuals" or "lesbians" alone as appropriate, or "gay people" (see also the usage notes for the adjective, and for '''[[gay]]''').
+*Female homosexuals are also known as {{term|lesbian|lesbians}}, a term preferred by many of them.  As ''homosexual'' applies to people of either sex, the expression ''homosexuals and lesbians'' is a [[pleonasm]] and is best replaced by "homosexuals" or "lesbians" alone as appropriate, or "gay people" (see also the usage notes for the adjective, and for {{term|gay}}).
 
 ====Synonyms====
 *This section is divided into two tables, one containing synonyms that generally are not derogatory and one containing those that generally are. However, note that the non-derogatory terms can nonetheless be used derogatorily, and that some of the derogatory ones are often used humorously and non-derogatorily by gays and allies.
 
 {{rel-top3|non-derogatory synonyms}}
 ;of either sex:
-*[[gay]] (''but see usage notes at'' [[gay]])
-*[[homosexualist]] (''archaic or humorous'')
-*[[invert]] (''dated psychological term'')
+*[[gay]] {{qualifier|but see usage notes at [[gay]]}}
+*[[homosexualist]] {{qualifier|archaic or humorous}}
+*[[invert]] {{qualifier|dated psychological term}}
 {{rel-mid3}}
 ;only of men:
 *[[company man]]
@@ -106,29 +106,29 @@
 {{rel-top3|derogatory synonyms}}
 ;of either sex:
 *[[bugger]]
-*[[fruit]] (''especially US'')
+*[[fruit]] {{qualifier|especially US}}
 *[[homo]]
-*[[moffie]] (''South African slang'')
+*[[moffie]] {{qualifier|South African slang}}
 *[[queer]]
 {{rel-mid3}}
 ;only of men:
-*[[fag]] (''US slang'')
-*[[faggot]] (''especially US'')
+*[[fag]] {{qualifier|US slang}}
+*[[faggot]] {{qualifier|especially US}}
 *[[fairy]]
-*[[flamer]] (''especially US'')
+*[[flamer]] {{qualifier|especially US}}
 *[[nance]], [[nancy]], [[nancy boy]]
 *[[pansy]]
 *[[queen]]
-*[[pederast]] (''chiefly if the partner is adolescent'')
-*[[sodomite]] (''but see usage notes at'' [[sodomite]])
+*[[pederast]] {{qualifier|chiefly if the partner is adolescent}}
+*[[sodomite]] {{qualifier|but see usage notes at [[sodomite]]}}
 {{rel-mid3}}
 ;only of women:
-*[[lesbo]] (''used only of women'')
+*[[lesbo]] {{qualifier|used only of women}}
 *[[dyke]]
 {{rel-bottom}}
 
 ====Translations====
-{{top}}
+{{trans-top|person who is attracted solely or primarily to others of the same sex}}
 *[[Afrikaans]]: [[homoseksueel]]
 *Arabic: {{ARchar|[[شاذ جنسيا|شاذّ جِنسِيًا]]}} {{IPAchar|(šaððu jinsíyan)}} {{m}}
 *Bulgarian: [[хомосексуалист]] {{m}}, [[гей]] {{m}} <!--, [[педал]] {{m}} (highly offensive) this is not an idiomatic translation - belongs under "queer" and the like -->
@@ -143,7 +143,7 @@
 *Greek: [[ομοιοφιλόφιλος]] {{m}}, [[λεσβία]] {{f}} {{italbrac|woman}}
 *Hungarian: [[homoszexuális]]
 *[[Interlingua]]: [[homosexual#Interlingua|homosexual]]
-{{mid}}
+{{trans-mid}}
 *Italian: [[omosessuale]] {{m|f}}
 *Indonesian: [[homosex]]
 *Latin: [[homosexualis]] {{m}}
@@ -157,7 +157,7 @@
 *:Roman: [[gej]] {{m}}, [[homoseksualac]] {{m}}, [[lezbejka]] {{f}}, ''Vulgar'' [[peder]] {{m}}
 *Spanish: homosexual {{m|f}}
 *Swedish: [[homosexuell]] {{c}}, [[homo]] {{c}}
-{{bottom}}
+{{trans-bottom}}
 
 ----
 
@@ -173,7 +173,7 @@
 ==Romanian==
 
 ===Etymology===
-{{F.|ro}} {{term|lang=fr|homosexuel}}
+{{F.|ro}} {{term|lang=fr|homosexuel}}.
 
 ===Pronunciation===
 {{IPA|[homoseksuˈal]|lang=ro}}
@@ -198,8 +198,8 @@
 * {{l|ro|homosexualitate}}
 * {{l|ro|gay}}
 * {{l|ro|lesbian}} / {{l|ro|lesbiană}}
-* {{l|ro|poponar}} (''pejorative'')
-* {{l|ro|bulangiu}} (''pejorative'')
+* {{l|ro|poponar}} {{qualifier|pejorative}}
+* {{l|ro|bulangiu}} {{qualifier|pejorative}}
 
 [[Category:ro:Sexuality]]
 
@@ -208,7 +208,7 @@
 ==Spanish==
 
 ===Etymology===
-{{prefix|homo|sexual|lang=es}}
+From {{prefix|homo|sexual|lang=es}}.
 
 ===Adjective===
 {{es-adj|pl=homosexuales}}
@@ -225,7 +225,7 @@
 
 ====Related terms====
 * {{l|es|homosexualidad}}
-* {{l|es|maricón}} {{i|pejorative}}
+* {{l|es|maricón}} {{qualifier|pejorative}}
 
 [[ca:homosexual]]
 [[el:homosexual]]
