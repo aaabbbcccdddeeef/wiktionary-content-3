@@ -44,7 +44,7 @@
 {{trans-mid}}
 *[[Ido]]: [[stato]]
 *Italian: [[stato]] {{m}}
-*Japanese: [[国]] (くに, kuni)
+*Japanese: [[国]] (くに, kuni), [[国家]] (こっか, kokka)
 *Lithuanian: [[valstybė]] {{f}}
 *Polish: [[stan]] {{m}}
 *Russian: [[государство]] (gosudárstvo) {{n}}, [[держава]] (d'eržáva) {{f}}
@@ -67,7 +67,7 @@
 {{trans-mid}}
 *[[Ido]]: [[stato]]
 *Italian: [[stato]] {{m}}
-*Japanese: [[州]] (しゅう, shū)
+* Japanese: {{qualifier|Japan, only Tokyo}} {{t|ja|sc=Jpan|都|tr=to}}; {{qualifier|Japan, only Hokkaido|Korea}} {{t|ja|sc=Jpan|道|tr=dō}}; {{qualifier|Japan, only Kyoto and Osaka}} {{t|ja|sc=Jpan|府|tr=fu}}; {{qualifier|Japan|France}} {{t|ja|sc=Jpan|県|tr=ken}}; {{qualifier|China}} {{t|ja|sc=Jpan|省|tr=shō}}; {{qualifier|Canada|Deutsch|US}} {{t|ja|sc=Jpan|州|tr=shū}}
 *Lithuanian: [[valstija]] {{f}}
 *Russian: [[штат]] (štat) {{n}}
 *Serbian: [[krajina]] {{f}}
@@ -98,34 +98,36 @@
 *Swedish: [[tillstånd]] {{n}}
 {{trans-bottom}}
 
-{{trans-top|(computing) the stable condition of a processor during a particular clock cycle}}
+{{trans-top|computing: the stable condition of a processor during a particular clock cycle}}
 *Czech: [[stav]] {{m}}
 *Finnish: [[tila]]
 *German: Zustand {{m}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|状態|tr=jōtai}}
 *Russian: [[состояние]] (sostojánije) {{n}}
 {{trans-bottom}}
 
-{{trans-top|(computing) the set of all parameters relevant to a computation}}
+{{trans-top|computing: the set of all parameters relevant to a computation}}
 *Czech: [[stav]] {{m}}
 *Finnish: [[tila]]
-{{trans-mid}}
 *Hungarian: [[állapot]]
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|状態|tr=jōtai}}, {{t|ja|sc=Jpan|ステート|tr=sutēto}}
 *Russian: [[состояние]] (sostojánije) {{n}}
 {{trans-bottom}}
 
-{{trans-top|(computing) the values of all parameters at some point in a computation}}
+{{trans-top|computing: the values of all parameters at some point in a computation}}
 *Czech: [[stav]] {{m}}
 *Finnish: [[tila]]
-{{trans-mid}}
 *Hungarian: [[állapot]]
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|状態|tr=jōtai}}, {{t|ja|sc=Jpan|ステート|tr=sutēto}}
 *Russian: [[состояние]] (sostojánije) {{n}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 *{{ttbc|Chinese}}: [[州]] (zhōu)
 *{{ttbc|Interlingua}}: [[stato]]
-*{{ttbc|Japanese}}: [[国家]] (こっか, kokka)
 {{checktrans-mid}}
 *{{ttbc|Korean}}: [[국가]] (gukga)
 *{{ttbc|Portuguese}}: [[estado]] {{m}}
@@ -133,15 +135,13 @@
 *{{ttbc|Turkish}}: [[devlet]]
 {{checktrans-bottom}}
 
-====Derived terms====
+====See also====
+*[[department]]
+*[[province]]
 *[[pseudostate]]
 *[[stateside]]
 *[[statesman]]
 *[[statesmanship]]
-
-====See also====
-*[[department]]
-*[[province]]
 
 ===Verb===
 {{en-verb|states|stating|stated}}
@@ -159,6 +159,7 @@
 *German: [[erklären]]
 *Hungarian: {{t|hu|kijelent}}, {{t|hu|megállapít}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|述べる|tr=noberu}}
 *Spanish: [[declarar]]
 *Russian: [[утверждать]] (utv'erždát') {{impf}}, [[заявлять]] (zajavl'át’) {{impf}},
 [[заявить]] (zajavít’) {{impf}}
@@ -170,6 +171,7 @@
 *Finnish: [[ilmoittaa]]
 *Hungarian: {{t|hu|közöl}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|述べる|tr=noberu}}
 *Russian: [[объявлять]] (objavl'át’) {{impf}},  [[объявить]] (objavít’) {{impf}}
 {{trans-bottom}}
 
@@ -179,7 +181,6 @@
 *{{ttbc|CJKV Characters}}: [[髳]]
 *{{ttbc|Italian}}: [[dichiarare]]
 {{checktrans-mid}}
-*{{ttbc|Japanese}}: [[述べる]] (のべる, noberu)
 *{{ttbc|Korean}}: [[말하다]] (malhada)
 *{{ttbc|Portuguese}}: [[declarar]]
 *{{ttbc|Swedish}}: [[förklara]]
