@@ -413,7 +413,7 @@ From {{OF.}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|lang=
 * Albanian: {{t-|sq|sheqer|m|xs=Albanian}}
 * Bulgarian: {{t+|bg|захар|m|tr=záhar|sc=Cyrl}}
 * [[Catalan]]: {{t-|ca|sucre|m}}
-* Czech: {{t-|cs|cukr|m}}
+* Czech: {{t+|cs|cukr|m}}
 * Danish: {{t+|da|sukker|n}}
 * Dutch: {{t+|nl|suiker}}
 * Finnish: {{t+|fi|sokeri}}
@@ -427,18 +427,18 @@ From {{OF.}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|lang=
 * Kurdish:
 *: Sorani: {{t|ku|شه‌کر|tr=shakir|sc=KUchar}}
 * Latvian: {{t|lv|cukurs|m|xs=Latvian}}
-* [[Occitan]]: {{t+|ca|sucre|m}}
-* Romanian: {{t-|ro|zahăr|n}}
+* [[Occitan]]: {{t-|ca|sucre|m}}
+* Romanian: {{t+|ro|zahăr|n}}
 * [[Romansch]]: {{t-|rm|zutger|m|xs=Romansch}}
-* Russian: {{t|ru|сахар|m|tr=sáχar|sc=Cyrl}}
+* Russian: {{t+|ru|сахар|m|tr=sáχar|sc=Cyrl}}
 * [[Sinhala]]: [[සීනි]] (siini)
 * Slovene: {{t+|sl|sladkor|m}}
 * Spanish: {{t+|es|azúcar|m}}
-* Yiddish: {{t|yi|צוקער|m}}
+* Yiddish: {{t+|yi|צוקער|m|sc=Hebr|xs=Yiddish}}
 {{trans-bottom}}
 
 {{trans-top|any of a series of carbohydrates used by organisms to store energy}}
-* Danish: {{t|da|sukker|n}}
+* Danish: {{t+|da|sukker|n}}
 * Finnish: {{t+|fi|sokeri}}
 * German: {{t+|de|Zucker|m}}
 {{trans-mid}}
@@ -447,13 +447,13 @@ From {{OF.}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|lang=
 * Kurdish:
 *: Sorani: {{t|ku|شه‌کر|tr=shakir|sc=KUchar}}
 * Latvian: {{t|lv|cukurs|m|xs=Latvian}}
-* Russian: {{t|ru|сахар|m|tr=sáχar|sc=Cyrl}}
+* Russian: {{t+|ru|сахар|m|tr=sáχar|sc=Cyrl}}
 * Slovene: {{t+|sl|sladkor|m}}
 {{trans-bottom}}
 
 {{trans-top|generic term for sucrose, glucose, fructose, etc}}
-* Czech: {{t-|cs|cukr|m}}
-* Danish: [[sukker]] {{n}}
+* Czech: {{t+|cs|cukr|m}}
+* Danish: {{t+|da|sukker|n}}
 * Finnish: {{t+|fi|sokeri}}
 * German: {{t+|de|Zucker|m}}
 {{trans-mid}}
@@ -462,7 +462,7 @@ From {{OF.}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|lang=
 * Kurdish:
 *: Sorani: {{t|ku|شه‌کر|tr=shakir|sc=KUchar}}
 * Latvian: [[cukurs]] {{m}}
-* Russian: [[сахар]] (sáχar) {{m}}
+* Russian: {{t+|ru|сахар|m|tr=sáχar|sc=Cyrl}}
 * Slovene: [[sladilo]] {{n}}
 * Vietnamese: {{t+|vi|đường|xs=Vietnamese}}
 {{trans-bottom}}
@@ -478,7 +478,7 @@ From {{OF.}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|lang=
 {{trans-top|slang: a kiss}}
 <!--Add SLANG terms to this table, where they exist-->
 * Finnish: {{t-|fi|pusu}}
-* French: {{t-|fr|bise|f}}, {{t+|fr|bisou|m}}, {{t-|fr|bizou|m}}
+* French: {{t+|fr|bise|f}}, {{t+|fr|bisou|m}}, {{t-|fr|bizou|m}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -566,7 +566,7 @@ From {{OF.}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|lang=
 {{trans-top|to add sugar to, to sweeten}}
 * Danish: [[komme]] [[sukker]] i, [[søde]]
 * Finnish: [[sokeroida]]
-* French: {{t-|fr|sucrer}}
+* French: {{t+|fr|sucrer}}
 * German: [[zuckern]]
 * Italian: {{t+|it|zuccherare}}
 {{trans-mid}}
