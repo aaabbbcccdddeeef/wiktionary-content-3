@@ -13,14 +13,26 @@
 
 # One of the methods for a living being to gather data about the world; [[sight]], [[smell]], [[hearing]], [[touch]], [[taste]].
 # A general conscious [[awareness]].
-#: ''a sense of security''
+#: ''a '''sense''' of security''
 # Sound practical judgment, as in common sense
 # The [[meaning]], [[reason]], or [[value]] of something.
-#: ''You don’t make any sense.''
+#: ''You don’t make any '''sense'''.''
 # A natural appreciation or ability
-#: ''A keen musical sense''
-# ''(Pragmatics)'' The way that a [[referent]] is presented.
-# ''(Semantics)'' A single conventional use of a word. I.e., one of the entries for a word in a dictionary.
+#: ''A keen musical '''sense'''''
+# {{context|pragmatics}} The way that a [[referent]] is presented.
+# {{context|semantics}} A single conventional use of a word; one of the entries for a word in a dictionary.
+
+====Derived terms====
+* [[common sense]]
+* [[sixth sense]]
+* [[business sense]]
+
+====Related terms====
+* [[sensation]]
+* [[sensible]]
+* [[sensitive]]
+* [[sensual]]
+* [[sensuous]]
 
 ====Translations====
 {{trans-top|method to gather data}}
@@ -117,21 +129,11 @@
 * Swedish: [[betydelse]] {{c}}
 {{trans-bottom}}
 
-=====Translations to be checked=====
-{{checktrans}}
+{{checktrans-top}}
 * {{ttbc|Chinese}}: [[官能]] (guānnèng), [[感官]] (gǎnguāng), [[识别力]] (shíbié lì)
 * {{ttbc|Japanese}}: [[感覚]] (かんかく, kankaku), [[分別]] (ぶんべつ, bunbetsu)
 * {{ttbc|Polish}}: [[zmysł]] {{m}} (1,2,5), [[sens]] {{m}} (3,7)
-
-====Related terms====
-* [[business sense]]
-* [[common sense]]
-* [[sensation]]
-* [[sensible]]
-* [[sensitive]]
-* [[sensual]]
-* [[sensuous]]
-* [[sixth sense]]
+{{trans-bottom}}
 
 ===Verb===
 {{en-verb|[[senses]]|[[sensing]]|[[sensed]]}}
@@ -156,9 +158,9 @@
 * Portuguese: {{t+|pt|sentir}}
 {{trans-bottom}}
 
-=====Translations to be checked=====
-{{checktrans}}
+{{checktrans-top}}
 * {{ttbc|Latin}}: [[sentire]]
+{{trans-bottom}}
 
 [[Category:1000 English basic words]]
 [[Category:Semantics]]
