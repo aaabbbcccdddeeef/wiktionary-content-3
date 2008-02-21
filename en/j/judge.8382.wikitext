@@ -30,7 +30,7 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 {{trans-top|public judicial official}}
 * Bosnian: {{t-|bs|sudija|m}}
 * [[Catalan]]: [[jutge]] {{m}}
-* Croatian: {{t-|hr|sudac|m}}
+* Croatian: {{t+|hr|sudac|m}}
 * Czech: {{t-|cs|soudce|m}}
 * Dutch: {{t+|nl|rechter|m|f}}
 * Finnish: {{t-|fi|tuomari}}
@@ -55,7 +55,7 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 
 {{trans-top|someone deciding another’s fate}}
 * Bosnian: {{t-|bs|sudija|m}}
-* Croatian: {{t-|hr|sudac|m}}
+* Croatian: {{t+|hr|sudac|m}}
 * Dutch: {{t+|nl|rechter|m|f}}
 * Finnish: {{t-|fi|tuomari}}
 * French: {{t+|fr|juge|m|f}}
@@ -74,11 +74,11 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 {{trans-top|sports official}}
 * Bosnian: {{t-|bs|sudija|m}}
 * [[Catalan]]: [[àrbitre]] {{m}}
-* Croatian: {{t-|hr|sudac|m}}
+* Croatian: {{t+|hr|sudac|m}}
 * Dutch: {{t|nl|scheidsrechter|m|f}}
 * Finnish: {{t-|fi|tuomari}}
 * French: {{t+|fr|arbitre|m|f}}
-* German: {{t+|de|Schiedsrichter|m}}, {{t+|de|Schiedsrichterin|f}} {{i|female}}
+* German: {{t+|de|Schiedsrichter|m}}, {{t-|de|Schiedsrichterin|f}} {{i|female}}
 * Greek: {{t+|el|κριτής|c|tr=kritís|sc=Grek}}
 * Italian: {{t+|it|giudice}}, {{t-|it|arbitro}}
 {{trans-mid}}
@@ -88,13 +88,13 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 *: Cyrillic: {{t-|sr|судија|m|sc=Cyrl}}
 *: Roman: {{t-|sr|sudija|m}}
 * Slovene: [[sodnik]] {{m}}, [[sodnica]] {{f}}
-* Spanish: {{t-|es|árbitro|m}}
+* Spanish: {{t+|es|árbitro|m}}
 {{trans-bottom}}
 
 {{trans-top|someone with valued opinions}}
 * Dutch: {{t|nl|kenner|m}}, {{t|nl|beoordelaar|m}}
 * Finnish: [[tuntija]], [[asiantuntija]]
-* Greek: {{t-|el|γνώστης|c|tr=gnóstis|sc=Grek}}
+* Greek: {{t+|el|γνώστης|c|tr=gnóstis|sc=Grek}}
 * Italian: {{t+|it|intenditore}}
 {{trans-mid}}
 * Latin: [[existimator]] {{m}}
@@ -156,7 +156,7 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 * [[Ancient Greek]]: [[κρίνω]] (krinō)
 * Hungarian: {{t|hu|elbírál}}
 {{trans-mid}}
-* Portuguese: {{t-|pt|julgar}}
+* Portuguese: {{t+|pt|julgar}}
 * Russian: [[судить]] (sudít') {{impf}}
 * Serbian:
 *: Cyrillic: [[судити]], [[осудити]], [[пресудити]]
@@ -176,7 +176,7 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 * [[Ancient Greek]]: [[κρίνω]] (krinō)
 * Hungarian: {{t|hu|ítélkezik}}
 {{trans-mid}}
-* Portuguese: {{t-|pt|julgar}}
+* Portuguese: {{t+|pt|julgar}}
 * Russian: [[судить]] (sudít') {{impf}}
 * Serbian:
 *: Cyrillic: [[судити]]
@@ -189,10 +189,10 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 * [[Ancient Greek]]: [[κρίνω]] (krinō)
 * Dutch: {{t+|nl|beoordelen}}
 * French: {{t+|fr|juger}}
-* German: [[beurteilen]], [[einschätzen]]
+* German: {{t-|de|beurteilen}}, {{t-|de|einschätzen}}
 * Hungarian: {{t|hu|megítél}}
 {{trans-mid}}
-* Portuguese: {{t-|pt|julgar}}
+* Portuguese: {{t+|pt|julgar}}
 * Russian: [[судить]] (sudít') {{impf}}
 * Slovene: [[soditi]]
 {{trans-bottom}}
@@ -204,7 +204,7 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 * German: [[Schiedsrichter]] [[sein]]
 * Hungarian: {{t|hu|dönt}}
 {{trans-mid}}
-* Portuguese: {{t-|pt|julgar}}
+* Portuguese: {{t+|pt|julgar}}
 * Russian: [[рассудить]] (rassudít') {{pf}}
 * Slovene: [[razsoditi]]
 {{trans-bottom}}
@@ -217,14 +217,14 @@ From {{OF.}} {{term|juge||judge (noun)|lang=fro}}, {{term|jugier||judge (verb)|l
 
 {{trans-top|form an opinion, infer}}
 * Dutch: {{t-|nl|oordelen}}, {{t+|nl|afleiden}}, {{t+|nl|schatten}}
-* German: [[schätzen]]
+* German: {{t+|de|schätzen}}
 * Hungarian: {{t|hu|következtet}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|act of criticizing or labeling another person or thing}}
 * Dutch: {{t+|nl|beoordelen}}, {{t+|nl|veroordelen}}
-* German: [[verurteilen]]
+* German: {{t-|de|verurteilen}}
 * Hungarian: {{t|hu|ítél}}
 {{trans-mid}}
 {{trans-bottom}}
