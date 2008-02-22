@@ -26,11 +26,11 @@
 * Dutch: {{t+|nl|stil}}
 * Finnish: [[liikkumaton]]
 {{trans-mid}}
-* Japanese: {{qualifier|general}} {{t|ja|sc=Jpan|止まっている|tr=tomatte-iru}}; {{qualifier|formal}} {{t|ja|sc=Jpan|静止した|tr=sēshi shita}}
+* Japanese: {{qualifier|general}} {{t|ja|止まっている|tr=tomatte-iru|sc=Jpan}}; {{qualifier|formal}} {{t|ja|静止した|tr=sēshi shita|sc=Jpan}}
 * Norwegian: {{t+|no|stille}}
-* Portuguese: [[imóvel]] {{m}}
+* Portuguese: {{t+|pt|imóvel|m}}
 * Russian: [[неподвижный]] (nepodvížnyj)
-* Swedish: {{t+|sv|stilla}}
+* Swedish: {{t-|sv|stilla}}
 {{trans-bottom}}
 
 ====Adverb====
@@ -50,7 +50,7 @@
 * German: {{t+|de|noch}}
 * Italian: {{t+|it|ancora}}, {{t-|it|tuttora}}
 {{trans-mid}}
-* Japanese: {{qualifier|informal}} {{t|ja|sc=Jpan|まだ|tr=mada}}; {{qualifier|formal}} {{t|ja|sc=Jpan|依然として|tr=izen-to-shite}}
+* Japanese: {{qualifier|informal}} {{t-|ja|まだ|tr=mada|sc=Jpan}}; {{qualifier|formal}} {{t|ja|依然として|tr=izen-to-shite|sc=Jpan}}
 * Korean: [[여전히]] (yeojeonhi)
 * Kurdish: {{t+|ku|هێشتا|sc=KUchar}}
 * Norwegian: {{t+|no|ennå}}, {{t+|no|fremdeles}}
@@ -64,11 +64,11 @@
 * French: {{t+|fr|néanmoins}}
 * German: {{t+|de|doch}}
 {{trans-mid}}
-* Japanese: {{qualifier|informal}} {{t|ja|sc=Jpan|まだ|tr=mada}}; {{qualifier|general}} {{t-|ja|それでも|tr=soré démo|sc=Jpan}}
+* Japanese: {{qualifier|informal}} {{t-|ja|まだ|tr=mada|sc=Jpan}}; {{qualifier|general}} {{t-|ja|それでも|tr=soré démo|sc=Jpan}}
 * Kurdish: {{t+|ku|به‌ڵام|sc=KUchar}}
 * Norwegian: {{t+|no|likevel}}, {{t-|no|enda}}
 * Russian: [[всё-таки]] (vs'ó-taki), [[тем не менее]] (t'em n'e m'én'eje)
-* Swedish: {{t+|sv|ändå}}
+* Swedish: {{t-|sv|ändå}}
 {{trans-bottom}}
 
 {{trans-top|to an even greater degree}}
@@ -76,11 +76,11 @@
 * French: {{t+|fr|encore}}
 * German: {{t+|de|noch}}
 {{trans-mid}}
-* Japanese: {{qualifier|informal}} {{t|ja|sc=Jpan|まだ|tr=mada}}, {{t|ja|sc=Jpan|もっと|tr=motto}}; {{qualifier|general}} {{t|ja|sc=Jpan|更に|tr=sarani}}, {{t|ja|sc=Jpan|より|tr=yori}}
+* Japanese: {{qualifier|informal}} {{t-|ja|まだ|tr=mada|sc=Jpan}}, {{t-|ja|もっと|tr=motto|sc=Jpan}}; {{qualifier|general}} {{t|ja|更に|tr=sarani|sc=Jpan}}, {{t-|ja|より|tr=yori|sc=Jpan}}
 * Kurdish: {{KUchar|[[هێشتا]]}}
 * Norwegian: {{t-|no|enda}}
 * Russian: [[ещё]] (ješ'ó)
-* Swedish: {{t+|sv|än}}, {{t+|sv|ännu}}, {{t+|sv|ändå}}
+* Swedish: {{t+|sv|än}}, {{t+|sv|ännu}}, {{t-|sv|ändå}}
 {{trans-bottom}}
 
 {{checktrans}}
@@ -105,7 +105,7 @@
 {{trans-top|a period of calm or silence}}
 * Finnish: [[tyyni]] [[jakso]]
 {{trans-mid}}
-* Japanese: {{sense|sound}} {{t|ja|sc=Jpan|静寂|tr=sējyaku}}, {{t|ja|sc=Jpan|静けさ|tr=shizukesa}}; {{sense|wind|sea}} {{t|ja|sc=Jpan|凪|tr=nagi}}
+* Japanese: {{sense|sound}} {{t-|ja|静寂|tr=sējyaku|sc=Jpan}}, {{t|ja|静けさ|tr=shizukesa|sc=Jpan}}; {{sense|wind|sea}} {{t+|ja|凪|tr=nagi|sc=Jpan}}
 * Kurdish: {{KUchar|[[هێمنی]]}}
 * Russian: {{t+|ru|штиль|m|tr=štil'|sc=Cyrl}}
 {{trans-bottom}}
@@ -113,7 +113,7 @@
 {{trans-top|photography: a non-moving photograph}}
 * Finnish: [[pysäytyskuva]], [[stilli]]
 {{trans-mid}}
-* Japanese: {{sense|photography}} {{t|ja|sc=Jpan|スチール|tr=suchīru}}; {{sense|electronics}} {{t|ja|sc=Jpan|スチル|tr=suchiru}}, {{t|ja|sc=Jpan|静止画|tr=sēshi-ga}}
+* Japanese: {{sense|photography}} {{t|ja|スチール|tr=suchīru|sc=Jpan}}; {{sense|electronics}} {{t|ja|スチル|tr=suchiru|sc=Jpan}}, {{t-|ja|静止画|tr=sēshi-ga|sc=Jpan}}
 {{trans-bottom}}
 
 {{trans-top|slang: a resident of the Falkland Islands}}
@@ -138,7 +138,7 @@ Via {{ME.}}, ultimately from {{L.}} ''[[stilla]]''
 =====Translations=====
 {{trans-top|a device for distilling liquids}}
 {{trans-mid}}
-* Japanese: {{t|ja|sc=Jpan|蒸留器|tr=jōryū-ki}}
+* Japanese: {{t|ja|蒸留器|tr=jōryū-ki|sc=Jpan}}
 * Russian: [[перегонный куб]] (p'er'egónnyj kub) {{m}}, [[дистиллятор]] (distill'áátor) {{m}}
 {{trans-bottom}}
 
@@ -170,7 +170,7 @@ Via {{ME.}}, ultimately from {{L.}} ''[[stilla]]''
 {{trans-top|to calm down}}
 * French: {{t+|fr|calmer}}
 {{trans-mid}}
-* Japanese: {{t|ja|sc=Jpan|静まる|tr=shizumaru}}
+* Japanese: {{t|ja|静まる|tr=shizumaru|sc=Jpan}}
 * Russian: [[успокаивать]] (uspokáivat') {{impf}}, [[успокоить]] (uspokóit') {{pf}}; [[угомонить]] (ugomonít') {{pf}}
 {{trans-bottom}}
 
