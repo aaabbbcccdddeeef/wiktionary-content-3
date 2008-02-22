@@ -20,26 +20,26 @@
 * Finnish: {{t+|fi|alku}}, {{t-|fi|aloitus}}
 * French: {{t+|fr|début|m}}
 * German: der [[Beginn]]
-* Greek: {{t+|el|αρχή|f|sc=Grek}} (archí), {{t-|el|ξεκίνημα|n|sc=Grek}} (xekínima)
+* Greek: {{t+|el|αρχή|f|sc=Grek}} (archí), {{t+|el|ξεκίνημα|n|sc=Grek}} (xekínima)
 * Hebrew: {{he-translation|התחלה|hatkhalá}} {{f}}
 * Icelandic: [[byrjun]] {{f}}, [[upphaf]] {{n}}
 * [[Ido]]: [[komenco]]
 * Italian: {{t+|it|avvio|m}}, {{t+|it|partenza|f}}, {{t+|it|inizio|m}}
 {{trans-mid}}
-* Japanese: {{t|ja|sc=Jpan|開始|tr=kaishi}}, {{t|ja|sc=Jpan|スタート|tr=sutāto}}
-* Kurdish: {{KUchar|[[سه‌ره‌تا]]}}
-* Polish: [[początek]] {{m}}
-* Portuguese: [[começo]] {{m}}
+* Japanese: {{t+|ja|開始|tr=kaishi|sc=Jpan}}, {{t|ja|スタート|tr=sutāto|sc=Jpan}}
+* Kurdish: {{t+|ku|سه‌ره‌تا|sc=KUchar}}
+* Polish: {{t+|pl|początek|m}}
+* Portuguese: {{t+|pt|começo|m}}
 * Russian: {{t+|ru|начало|n|tr=načálo|sc=Cyrl}}
 * Serbian: {{t-|sr|početi}}
-* Swedish: {{t-|sv|start}}
+* Swedish: {{t+|sv|start}}
 {{trans-bottom}}
 
 {{trans-top|a sudden involuntary movement}}
 * Finnish: [[hätkähdys]]
 * Italian: {{t+|it|avvio|m}}
 {{trans-mid}}
-* Russian: [[рывок]] (ryvók) {{m}}
+* Russian: {{t+|ru|рывок|m|tr=ryvók|sc=Cyrl}}
 * Serbian: [[trzaj]], [[pokret]]
 * Swedish: [[ryck]]
 {{trans-bottom}}
@@ -53,10 +53,10 @@
 * Icelandic: [[upphaf]] {{n}}
 * Italian: {{t+|it|avvio|m}}, {{t+|it|partenza|f}}
 {{trans-mid}}
-* Japanese: {{t|ja|sc=Jpan|スタート地点|tr=sutāto chiten}}
+* Japanese: {{t|ja|スタート地点|tr=sutāto chiten|sc=Jpan}}
 * Polish: {{t+|pl|start|m}}
-* Portuguese: [[largada]] {{m}}, [[partida]] {{f}}
-* Russian: [[старт]] (start) {{m}}
+* Portuguese: {{t+|pt|largada|m}}, {{t+|pt|partida|f}}
+* Russian: {{t+|ru|старт|m|tr=start|sc=Cyrl}}
 * Serbian: [[početak]], [[polazište]]
 {{trans-bottom}}
 
@@ -114,7 +114,7 @@
 * [[Galician]]: [[comezar]]
 * Hebrew: {{he-translation|להתחיל|lehatkhíl}}
 {{trans-mid}}
-* Japanese: {{t|ja|sc=Jpan|始める|tr=hajimeru}}
+* Japanese: {{t-|ja|始める|tr=hajimeru|sc=Jpan}}
 * Kurdish: {{KUchar|[[ده‌سپێکردن]]}}
 * Russian: [[начинать]] (načinát') {{impf}}, [[начать]] (načát') {{pf}}
 * Serbian: [[započeti]], [[načnuti]], [[načeti]]
@@ -122,11 +122,11 @@
 {{trans-bottom}}
 
 {{trans-top|to initiate a vehicle or machine}}
-* Finnish: [[startata]], [[käynnistää]]
+* Finnish: {{t+|fi|startata}}, {{t+|fi|käynnistää}}
 * [[Galician]]: [[iniciar]], [[arrancar]]
 * Hebrew: {{he-translation|להתחיל|lehatkhíl}}
 {{trans-mid}}
-* Japanese: {{t|ja|sc=Jpan|始動する|tr=shidō suru}}
+* Japanese: {{t|ja|始動する|tr=shidō suru|sc=Jpan}}
 * Polish: [[zapalić]]
 * Russian: [[запускать]] (zapuskát') {{impf}}, [[запустить]] (zapustít') {{pf}}
 * Serbian: [[pokrenuti]]
@@ -138,9 +138,9 @@
 * German: {{t+|de|beginnen}}
 * Hebrew: {{he-translation|להתחיל|lehatkhíl}}, {{he-translation|לפצוח|liftsó`akh}}
 {{trans-mid}}
-* Japanese: {{t|ja|sc=Jpan|始まる|tr=hajimaru}}
+* Japanese: {{t-|ja|始まる|tr=hajimaru|sc=Jpan}}
 * Kurdish: {{KUchar|[[ده‌سپێکردن]]}}
-* Polish: [[zacząć]], [[rozpocząć]]
+* Polish: {{t-|pl|zacząć}}, {{t+|pl|rozpocząć}}
 * Russian: [[начинаться]] (načinát's'a) {{impf}}, [[начаться]] (načát's'a) {{pf}}, [[стартовать]] (startovát') {{pf}} ''and'' {{impf}}
 * Serbian: [[početi]], [[započeti]]
 * Swedish: {{t+|sv|börja}}
@@ -149,7 +149,7 @@
 {{trans-top|to jerk suddenly in surprise}}
 * Finnish: [[hätkähtää]]
 {{trans-mid}}
-* Japanese: {{t|ja|sc=Jpan|びくっとする|tr=bikuttosuru}}
+* Japanese: {{t|ja|びくっとする|tr=bikuttosuru|sc=Jpan}}
 * Russian: [[дёргаться]] (d'órgat's'a) {{impf}}, [[дёрнуться]] (d'órnut's'a) {{pf}}
 * Serbian: [[trznuti]], [[trgnuti]]
 * Swedish: [[rycka till]]
@@ -157,7 +157,7 @@
 
 {{trans-top|to awaken suddenly}}
 {{trans-mid}}
-* Japanese: {{t|ja|sc=Jpan|飛び起きる|tr=tobi-okiru}}
+* Japanese: {{t|ja|飛び起きる|tr=tobi-okiru|sc=Jpan}}
 * Serbian: [[odjednom]]
 {{trans-bottom}}
 
