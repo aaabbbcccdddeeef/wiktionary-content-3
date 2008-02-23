@@ -25,19 +25,19 @@ French ''[[fil]]'', “thread”, Latin ''[[filum]]'', “thread”.
 * Danish: [[arkivalie]] {{n}}
 * Esperanto: {{t-|eo|dosiero|xs=Esperanto}}
 * Finnish: {{t+|fi|kansio}}
-* French: {{t-|fr|fichier|m}}
+* French: {{t+|fr|fichier|m}}
 * German: [[Kartei]] {{f}}, [[Datei]] {{f}}, [[Akte]] {{f}}
 * Italian: {{t+|it|archivio|m}}
 {{trans-mid}}
 * Japanese: [[綴じ込み]] (tojikomi), [[ファイル]] (fairu)
 * Lithuanian: [[byla]], [[:lt:byla]] {{f}}
 * Maltese: {{t-|mt|arkivju|m|xs=Maltese}}, {{t-|mt|fajl|m|xs=Maltese}}
-* Polish: [[plik]] {{m}}
+* Polish: {{t+|pl|plik|m}}
 * Portuguese: [[arquivo]] {{m}} {{italbrac|Brazil}}, [[ficheiro]] {{m}} {{italbrac|Portugal}}
 * Russian: {{t+|ru|дело|n|tr=délo|sc=Cyrl}}, {{t-|ru|папка|f|tr=pápka|sc=Cyrl}}
 * Spanish: [[archivo]] {{m}} {{italbrac|Latin America}}, [[fichero]] {{m}} {{italbrac|Spain}}
 * Swedish: {{t+|sv|arkiv|n}}
-* Turkish: {{t-|tr|dosya}}
+* Turkish: {{t+|tr|dosya}}
 * Ukrainian: [[справа]] {{f}} (spr'''a'''wa)
 {{trans-bottom}}
 
@@ -49,13 +49,13 @@ French ''[[fil]]'', “thread”, Latin ''[[filum]]'', “thread”.
 * Danish: {{t-|da|fil|c}}
 * Dutch: {{t+|nl|bestand|n}}
 * Esperanto: {{t-|eo|dosiero|xs=Esperanto}}
-* Finnish: [[tiedosto]]
-* French: {{t-|fr|fichier|m}}
+* Finnish: {{t-|fi|tiedosto}}
+* French: {{t+|fr|fichier|m}}
 * German: {{t+|de|Datei|f}}
-* Hebrew: {{t-|he|קובץ|alt=קוֹבֶץ|tr=kovéts|sc=Hebr}} {{m}}
+* Hebrew: {{t-|he|קובץ|alt=קוֹבֶץ|tr=kovéts|sc=Hebr|m}}
 {{trans-mid}}
-* Japanese: {{t-|ja|ファイル|tr=fairu|sc=Jpan}}
-* Lithuanian: {{t+|lt|failas|m}}
+* Japanese: {{t+|ja|ファイル|tr=fairu|sc=Jpan}}
+* Lithuanian: {{t+|lt|failas|m|xs=Lithuanian}}
 * Maltese: {{t-|mt|fajl|m|xs=Maltese}}
 * Polish: [[plik]] {{m}}
 * Portuguese: [[arquivo]] {{m}} {{italbrac|Brazil}}, [[ficheiro]] {{m}} {{italbrac|Portugal}}
@@ -64,7 +64,7 @@ French ''[[fil]]'', “thread”, Latin ''[[filum]]'', “thread”.
 * Slovene: {{t-|sl|datoteka|f}}
 * Spanish: [[archivo]] {{m}} {{italbrac|Latin America}}, [[fichero]] {{m}} {{italbrac|Spain}}
 * Swedish: {{t+|sv|fil|c}}
-* Turkish: {{t-|tr|dosya}}
+* Turkish: {{t+|tr|dosya}}
 * Ukrainian: [[річ]] (rič)
 {{trans-bottom}}
 
@@ -86,7 +86,7 @@ French ''[[fil]]'', “thread”, Latin ''[[filum]]'', “thread”.
 {{trans-bottom}}
 
 {{trans-top|to archive}}
-* Dutch: [[archiveren]]
+* Dutch: {{t+|nl|archiveren}}
 * Finnish: [[arkistoida]]
 {{trans-mid}}
 * Japanese: [[保管する]] (hokan-suru)
@@ -94,7 +94,7 @@ French ''[[fil]]'', “thread”, Latin ''[[filum]]'', “thread”.
 {{trans-bottom}}
 
 {{trans-top|to store computer data}}
-* Dutch: [[opslaan]]
+* Dutch: {{t+|nl|opslaan}}
 * Finnish: {{t+|fi|tallentaa}}
 {{trans-mid}}
 * Japanese: [[保存する]] (hozon-suru)
@@ -117,7 +117,7 @@ French ''[[file#French|file]]'', from ''[[filer]]'', “to spin out”, “arran
 {{trans-top|column of people}}
 * Danish: [[kø]] {{c}}
 * Esperanto: {{t-|eo|vico|xs=Esperanto}}
-* Finnish: {{t-|fi|rivi}}
+* Finnish: {{t+|fi|rivi}}
 * German: {{t+|de|Reihe|f}}
 {{trans-mid}}
 * Japanese: {{t+|ja|列|sc=Jpan}}
@@ -158,12 +158,12 @@ Old English ''[[feol]]''. Cognate with Dutch ''[[vijl]]'', German ''[[Feile]]''.
 {{trans-top|abrasive tool}}
 * Czech: {{t-|cs|pilník|m}}
 * Danish: {{t-|da|fil|c}}
-* Dutch: [[vijl]] {{f}}
+* Dutch: {{t+|nl|vijl|f}}
 * Esperanto: {{t-|eo|fajlilo|xs=Esperanto}}
 * Finnish: {{t-|fi|viila}}
 * French: {{t+|fr|lime|f}}
 * German: {{t-|de|Feile|f}}
-* Greek: {{t-|el|λίμα|f|sc=Grek}}
+* Greek: {{t+|el|λίμα|f|sc=Grek}}
 * Italian: {{t-|it|lima}}
 {{trans-mid}}
 * Japanese: [[鑢]] (yasuri), [[やすり]] (yasuri)
@@ -190,7 +190,7 @@ Old English ''[[feol]]''. Cognate with Dutch ''[[vijl]]'', German ''[[Feile]]''.
 {{trans-top|to smooth with a file}}
 * Dutch: [[vijlen]]
 * Esperanto: {{t-|eo|fajli|xs=Esperanto}}
-* Finnish: [[viilata]]
+* Finnish: {{t-|fi|viilata}}
 * German: [[feilen]]
 * Italian: {{t-|it|limare}}
 {{trans-mid}}
@@ -199,7 +199,7 @@ Old English ''[[feol]]''. Cognate with Dutch ''[[vijl]]'', German ''[[Feile]]''.
 * Maltese: {{t-|mt|jillima|m|xs=Maltese}}, {{t-|mt|tillima|f|xs=Maltese}}
 * Russian: [[подпиливать]] (podpílivat’), [[шлифовать]] (šlifovát’)
 * Slovene: [[piliti]]
-* Spanish: {{t-|es|limar}}
+* Spanish: {{t+|es|limar}}
 * Swedish: {{t-|sv|fila}}
 {{trans-bottom}}
 
