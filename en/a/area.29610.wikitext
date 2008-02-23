@@ -26,12 +26,14 @@ From {{L.}} ''[[#Latin|area]]''.
 * Czech: {{t+|cs|plocha|f}}
 {{trans-mid}}
 * Japanese: {{t+|ja|面積|tr=menseki|sc=Jpan}}
+* Swedish: {{t+|sv|area|c}}
 {{trans-bottom}}
 
 {{trans-top|particular geographic region}}
 * Czech: {{t+|cs|oblast|f}}
 {{trans-mid}}
 * Japanese: {{t+|ja|領域|tr=ryōiki|sc=Jpan}}
+* Swedish: {{t+|sv|område|n}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -50,7 +52,6 @@ From {{L.}} ''[[#Latin|area]]''.
 *Portuguese: [[área]] {{f}}
 *Russian: [[площадь]] {{f}}
 *Spanish: [[área]]
-*Swedish: area
 {{trans-bottom}}
 
 ===See also===
@@ -82,6 +83,12 @@ From {{L.}} ''[[#Latin|area]]''.
 ====Inflection====
 {{ladecl1}}
 {{la-decl-1st|are|āre}}
+
+==Swedish==
+===Noun===
+{{sv-noun-reg-or|1=are}}
+'''area''' {{c}}
+#{{geometry|lang=sv}} [[#English|area]]; a measure of squared distance.
 
 [[ar:area]]
 [[de:area]]
