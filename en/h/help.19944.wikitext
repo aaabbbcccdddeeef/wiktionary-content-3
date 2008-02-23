@@ -38,7 +38,7 @@ From {{OE.}} {{term|lang=ang|help}}.
 * [[Catalan]]: [[ajuda]]
 * Chinese: [[幫]] / [[帮]] (bāng)
 * Czech: {{t+|cs|pomoc|f}}
-* Danish: [[hjælp]]
+* Danish: {{t+|da|hjælp}}
 * Dutch: {{t+|nl|hulp}}
 * Esperanto: {{t-|eo|helpo|xs=Esperanto}}
 * Estonian: {{t-|et|abi}}
@@ -48,7 +48,7 @@ From {{OE.}} {{term|lang=ang|help}}.
 * German: {{t+|de|Hilfe|f}}
 * Greek: {{t+|el|βοήθεια|f|tr=víthia|sc=Grek}}
 * Hebrew: [[עזרה]] (ezra) {{f}}
-* Hungarian: [[segítség]]
+* Hungarian: {{t+|hu|segítség}}
 * Icelandic: [[hjálp]] {{f}}, [[aðstoð]] {{f}}, [[fulltingi]] {{n}} (''archaic'')
 * [[Ido]]: [[helpo]]
 * [[Interlingua]]: [[adjuta]], [[succurso]]
@@ -59,20 +59,20 @@ From {{OE.}} {{term|lang=ang|help}}.
 *: [[Kurmanji]]: [[alîkarî]] {{f}}, [[destek]] {{f}}, [[yarmetî]] {{f}}, [[komekî]] {{f}}, [[piştevanî]] {{f}}, [[piştgirî]] {{f}}, [[misaede]] {{f}}
 *: [[Sorani]]: {{KUchar|[[یارمه‌تی]]}}
 * Latin: {{t-|la|auxilium|n}}
-* Lithuanian: [[pagalba]]
+* Lithuanian: {{t+|lt|pagalba|xs=Lithuanian}}
 * [[Luxembourgish]]: [[Hëllef]]
 * [[Malayalam]]: [[സഹായം]] (sahaayam)
 * Maltese: [[għajnuna]]
 * Norwegian: {{t+|no|hjelp}}
 * Persian: {{FAchar|[[کمک]]}} (komak), {{FAchar|[[یاری]]}} (yâri)
 * Polish: {{t+|pl|pomoc|f}}
-* Portuguese: [[ajuda]] {{f}}, [[socorro]] {{m}}
+* Portuguese: {{t+|pt|ajuda|f}}, {{t+|pt|socorro|m}}
 * Romanian: [[ajutor]] {{n}}, [[asistenţă]] {{f}}
 * Russian: {{t+|ru|помощь|f|tr=pómoš'|sc=Cyrl}}
-* Slovene: [[pomoč]] {{f}}
+* Slovene: {{t+|sl|pomoč|f}}
 * Spanish: {{t+|es|ayuda|f}}, {{t-|es|socorro|m}}, {{t-|es|auxilio|m}}
 * Swahili: {{t-|sw|msaada|xs=Swahili}}
-* Swedish: [[hjälp]]
+* Swedish: {{t+|sv|hjälp}}
 * [[Telugu]]: [[సహాయము]] (sahaayamu), [[సాయము]] (saayamu)
 * Thai: {{THchar|[[ความช่วยเหลือ]]}} (kwaam chûay lĕua)
 * Turkish: {{t+|tr|yardım}}
@@ -94,7 +94,7 @@ From {{OE.}} {{term|lang=ang|help}}.
 {{trans-bottom}}
 
 {{trans-top|textual support of a software application}}
-* Czech: [[nápověda]] {{f}}
+* Czech: {{t-|cs|nápověda|f}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -138,18 +138,18 @@ From {{OE.}} {{term|lang=ang|help}}.
 {{trans-top|transitive: provide assistance to (someone or something)}}
 * Arabic: {{ARchar|[[ساعد]]}} (sáʕada)
 * [[Basque]]: [[lagundu]]
-* Bulgarian: [[помагам]] (pomagam)
+* Bulgarian: {{t+|bg|помагам|tr=pomagam|sc=Cyrl}}
 * [[Catalan]]: [[ajudar]]
 * Czech: {{t+|cs|pomoct}}
 * Dutch: {{t+|nl|helpen}}
-* Esperanto: {{t-|eo|helpi}}
+* Esperanto: {{t-|eo|helpi|xs=Esperanto}}
 * Estonian: {{t-|et|aitama}}
 * Finnish: {{t+|fi|auttaa}}, {{t-|fi|opastaa}}
 * French: {{t+|fr|aider}}
 * [[Frisian]]: [[helpe]]
 * German: {{t+|de|helfen}}
 * Greek: [[βοηθώ]] (vithó), [[συντρέχω]] (sintrékho)
-* Hungarian: [[segít]]
+* Hungarian: {{t+|hu|segít}}
 * Icelandic: {{t+|is|hjálpa}}
 * [[Ido]]: [[helpar]]
 * [[Interlingua]]: [[adjutar]], [[succurrer]]
@@ -159,12 +159,12 @@ From {{OE.}} {{term|lang=ang|help}}.
 * Japanese: [[助ける]] ([[たすける]], tasukeru)
 * Lithuanian: [[padėti]]
 * Old English: {{t-|ang|helpan|xs=Old English}}
-* Polish: [[pomagać]]
-* Portuguese: {{t-|pt|ajudar}}, {{t+|pt|socorrer}}
+* Polish: {{t+|pl|pomagać}}
+* Portuguese: {{t+|pt|ajudar}}, {{t+|pt|socorrer}}
 * Persian: {{FAchar|[[کمک کردن]]}} (komak kardan), {{FAchar|[[یاری کردن]]}} (yâri kardan)
 * Romanian: {{t+|ro|ajuta}}, {{t-|ro|asista}}
-* Russian: {{t|ru|помогать|sc=Cyrl|pomogát’}} {{impf}}, {{t|ru|помочь|sc=Cyrl|pomóč}} {{pf}}
-* Slovene: [[pomagati]]
+* Russian: {{t+|ru|помогать|pomogát’|sc=Cyrl}} {{impf}}, {{t+|ru|помочь|pomóč|sc=Cyrl}} {{pf}}
+* Slovene: {{t+|sl|pomagati}}
 * Spanish: {{t+|es|ayudar}}
 * Swahili: {{t-|sw|kusaidia|xs=Swahili}}
 * Swedish: {{t+|sv|hjälpa}}
@@ -178,7 +178,7 @@ From {{OE.}} {{term|lang=ang|help}}.
 {{trans-top|contribute in some way to}}
 {{trans-mid}}
 * Romanian: {{t+|ro|ajuta}}
-* Russian: {{t|ru|помогать|sc=Cyrl|pomogát’}} {{impf}}, {{t|ru|помочь|sc=Cyrl|pomóč}} {{pf}}
+* Russian: {{t+|ru|помогать|pomogát’|sc=Cyrl}} {{impf}}, {{t+|ru|помочь|pomóč|sc=Cyrl}} {{pf}}
 {{trans-bottom}}
 
 {{trans-top|intransitive: provide assistance}}
@@ -186,7 +186,7 @@ From {{OE.}} {{term|lang=ang|help}}.
 {{trans-mid}}
 * Italian: {{t+|it|aiutare}}
 * Romanian: {{t+|ro|ajuta}}, {{t-|ro|asista}}
-* Russian: {{t|ru|помогать|sc=Cyrl|pomogát’}} {{impf}}, {{t|ru|помочь|sc=Cyrl|pomóč}} {{pf}}
+* Russian: {{t+|ru|помогать|pomogát’|sc=Cyrl}} {{impf}}, {{t+|ru|помочь|pomóč|sc=Cyrl}} {{pf}}
 {{trans-bottom}}
 
 ====Interjection====
