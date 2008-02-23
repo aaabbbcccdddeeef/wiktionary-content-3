@@ -114,9 +114,9 @@
 * Polish: [[zdrowy]] {{m}}, [[zdrowa]] {{f}}
 * Portuguese: {{t+|pt|bem}}
 * Romanian: {{t-|ro|bine}}
-* Russian: {{t-|ru|здоровый|tr=zdoróvyj|sc=Cyrl}}
+* Russian: {{t+|ru|здоровый|tr=zdoróvyj|sc=Cyrl}}
 * Slovak: {{t-|sk|dobre}}
-* Slovene: {{t-|sl|zdrav|m}}, {{t-|sl|zdrava|f}}, {{t-|sl|zdravo|n}}
+* Slovene: {{t+|sl|zdrav|m}}, {{t-|sl|zdrava|f}}, {{t-|sl|zdravo|n}}
 * Spanish: {{t+|es|bien}}
 * Swedish: {{t+|sv|frisk}}
 * [[Telugu]]: [[బాగు]] (baagu)
@@ -137,7 +137,7 @@
 * Finnish: {{t+|fi|no}}
 {{trans-mid}}
 * Japanese: [[うーん]] (ūn)
-* Portuguese: [[bem]]
+* Portuguese: {{t+|pt|bem}}
 * Russian: [[так вот]] (tak vot)
 * Slovene: {{t+|sl|no}}
 * Swedish: {{t-|sv|tja}}, {{t+|sv|nå}}
@@ -159,7 +159,7 @@
 * Japanese: [[えーと]] (ēto)
 * Portuguese: [[é]... (Brazil); [[pois]] (Portugal)
 * Russian: [[ну]] (nu), [[значит]] (znáčit)
-* Slovene: [[no]], [[torej]]
+* Slovene: {{t+|sl|no}}, {{t+|sl|torej}}
 * Swedish: [[tja]], [[öh]], [[eh]]
 {{trans-bottom}}
 
@@ -211,7 +211,7 @@
 * {{trreq|Bengali}}
 * {{trreq|Bosnian}}
 * {{trreq|Breton}}
-* Bulgarian: [[кладенец]] {{m}}
+* Bulgarian: {{t+|bg|кладенец|m|sc=Cyrl}}
 * {{trreq|Burmese}}
 * [[Catalan]]: [[pou]] {{m}}
 * {{trreq|Cebuano}}
@@ -244,7 +244,7 @@
 * Korean: [[샘]] (saem) (''for water''), [[우물]] (umul) (''for water'')
 * Kurdish: {{t-|ku|بیر|sc=KUchar}}
 * {{trreq|Lao}}
-* Latin: [[puteus]] {{m}}
+* Latin: {{t+|la|puteus|m}}
 * Latvian: {{t-|lv|aka|f|xs=Latvian}}
 * [[Limburgish]]: [[pöt]]
 * {{trreq|Lithuanian}}
@@ -254,27 +254,27 @@
 * {{trreq|Mongolian}}
 * {{trreq|Nepali}}
 * [[Norman]]: [[pyit]] {{m}}
-* Norwegian: [[brønn]]
+* Norwegian: {{t+|no|brønn}}
 * [[Ojibwe]]: [[onda'ibaan]]
 * {{trreq|Oriya}}
 * {{trreq|Persian}}
 * Polish: [[studnia]] {{f}}
-* Portuguese: {{t-|pt|poço|m}}
+* Portuguese: {{t+|pt|poço|m}}
 * {{trreq|Punjabi}}
 * Romanian: [[fântână]] {{f}} (for water) [[puţ]] {{n}} (both for water and oil, gas, etc.)
-* Russian: [[колодец]] (kolódec) {{m}}
+* Russian: {{t+|ru|колодец|m|tr=kolódec|sc=Cyrl}}
 * {{trreq|Sanskrit}}
 * Slovak: [[studňa#Slovak|studňa]] {{f}}
 * Slovene: [[vodnjak]] (for water), [[vrtina]] (for oil, gas, etc.)
 * Serbian: [[бунар]] {{m}}
 * Spanish: [[aljibe]] (for water), [[pozo]] (for oil, gas, etc.) {{m}}
-* Swedish: [[brunn]] {{c}}
+* Swedish: {{t+|sv|brunn|c}}
 * {{trreq|Tamil}}
 * [[Telugu]]: [[నుయ్యి]] (nuyyi), [[బావి]] (baavi)
 * Thai: {{Thai|[[ตะพัง]]}} (dtà-pang), {{Thai|[[ตระพัง]]}} (dtrà-pang)
 * {{trreq|Tibetan}}
 * [[Tok Pisin]]: [[hul]] [[bilong]] [[wara]]
-* Turkish: [[kuyu]]
+* Turkish: {{t+|tr|kuyu}}
 * {{trreq|Ukrainian}}
 * {{trreq|Vietnamese}}
 * Welsh: [[ffynnon]] {{f}}
@@ -288,7 +288,7 @@
 * Georgian: [[წყარო]] (ts‘q‘aro)
 * German: {{t+|de|Quelle}}
 {{trans-mid}}
-* Russian: {{t-|ru|родник|m|tr=rodník|sc=Cyrl}}, {{t+|ru|ключ|tr=kl'uč|sc=Cyrl}}, {{t-|ru|источник|m|tr=istóčnik|sc=Cyrl}}
+* Russian: {{t-|ru|родник|m|tr=rodník|sc=Cyrl}}, {{t+|ru|ключ|tr=kl'uč|sc=Cyrl}}, {{t+|ru|источник|m|tr=istóčnik|sc=Cyrl}}
 * Swedish: {{t+|sv|källa}}
 * Thai: {{Thai|[[บ่อน้]]}} (bòr-nám)
 * Yiddish: [[קװאַל]] (kval) {{m}}
@@ -320,7 +320,7 @@
 {{trans-top|to seep out of the surface}}
 * Dutch: {{t-|nl|vloeien}}, {{t-|nl|opwellen}}
 * Finnish: [[pulputa]], [[kummuta]]
-* German: [[quellen]]
+* German: {{t+|de|quellen}}
 {{trans-mid}}
 * Japanese: {{t-|ja|にじみ出る|tr=nijimideru|sc=Jpan}}
 * Swedish: [[välla]]
