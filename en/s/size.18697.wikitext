@@ -13,7 +13,7 @@ From Old French ''[[cise]], [[sise]]'', apheticism of ''[[assise]]'' ‘assize�
 
 # The [[dimensions]] or [[magnitude]] of a thing; how big something is.
 #: ''The '''size''' of the building seemed to have increased since I was last there.''
-# A specific set of dimensions for clothing etc. seen as fitting a person or set of persons.
+# A specific set of [[dimension]]s for [[clothing]] etc. seen as fitting a person or set of persons.
 #: ''I don't think we have the red one in your '''size'''.''
 # {{graph theory}} A number of [[edges]] in a [[graph]].
 # {{dialectal}} An [[assize]].
@@ -25,6 +25,7 @@ From Old French ''[[cise]], [[sise]]'', apheticism of ''[[assise]]'' ‘assize�
 * German: {{t+|de|Größe|f}}
 * Hungarian: {{t|hu|méret}}
 {{trans-mid}}
+* Japanese: {{qualifier|dimension or magnitude}} {{t|ja|sc=Jpan|大きさ|tr=ōkisa}}; {{qualifier|dimension}} {{t|ja|sc=Jpan|寸法|tr=sunpō}}; {{qualifier|magnitude}} {{t|ja|sc=Jpan|規模|tr=kibo}}
 * Russian: {{t+|ru|размер|m|tr=razm'ér|sc=Cyrl}}, {{t+|ru|величина|f|tr=v'eličiná|sc=Cyrl}}, {{t|ru|объём|m|tr=objóm|sc=Cyrl}}
 {{trans-bottom}}
 
@@ -33,10 +34,15 @@ From Old French ''[[cise]], [[sise]]'', apheticism of ''[[assise]]'' ‘assize�
 * German: {{t+|de|Größe|f}}, {{t-|de|Kleidergröße|f}}, {{t-|de|Konfektionsgröße|f}}
 * Hungarian: {{t|hu|méret}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|サイズ|tr=saizu}}
 * Russian: {{t+|ru|размер|m|tr=razm'ér|sc=Cyrl}}
 {{trans-bottom}}
 
-{{trans-top|a number of edges in a graph}}
+{{trans-top|graph theory: a number of edges in a graph}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|dialectal: an assize}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -48,7 +54,6 @@ From Old French ''[[cise]], [[sise]]'', apheticism of ''[[assise]]'' ‘assize�
 * {{ttbc|French}}: [[taille]] {{f}}, [[grandeur]] {{f}}
 * {{ttbc|Italian}}: [[misura]] {{f}}, [[taglia]] {{f}}, [[grandezza]] {{f}}
 {{checktrans-mid}}
-* {{ttbc|Japanese}}: [[大きさ]] (ōkisa), [[寸法]], [[規模]], [[サイズ]] (saizu)
 * {{ttbc|Korean}}: [[크기]] (keugi)
 * {{ttbc|Lithuanian}}: [[dydis]] {{m}}
 * {{ttbc|Portuguese}}: [[tamanho]] {{m}}
@@ -68,11 +73,13 @@ From Old French ''[[cise]], [[sise]]'', apheticism of ''[[assise]]'' ‘assize�
 {{trans-top|to adjust the size of}}
 * Finnish; {{t-|fi|sovittaa}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|合わせる|tr=awaseru}}
 {{trans-bottom}}
 
 {{trans-top|to classify or arrange by size}}
 * Finnish; {{t-|fi|luokitella}}/{{t|fi|lajitella}} [[koko|koon]] [[mukaan]]
 {{trans-mid}}
+* Japanese: {{qualifier|classify}} {{t|ja|sc=Jpan|大きさ順に選別する|tr=ōkisa-jun ni senbetsu-suru}}; {{qualifier|arrange}} {{t|ja|sc=Jpan|大きさ順に並べる|tr=ōkisa-jun ni naraberu}}
 {{trans-bottom}}
 
 {{trans-top|to estimate the size of}}
@@ -88,33 +95,37 @@ Origin uncertain, perhaps related to Etymology 1, above.
 
 # A thin, weak [[glue]] used as [[primer]] for paper or [[canvas]] intended to be painted upon.
 # Wallpaper [[paste]].
-# The thickened crust on coagulated [[blood]].
+# The thickened [[crust]] on coagulated [[blood]].
 
 ====Translations====
-{{trans-top|thin, weak glue used as primer for paper or canvas intended to be painted upon}}
+{{trans-top|thin, weak glue intended to be painted upon}}
 * Finnish: {{t|fi|pohjuste}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|どうさ|tr=dōsa}}
 {{trans-bottom}}
 
 {{trans-top|wallpaper paste}}
 * Finnish: {{t-|fi|liisteri}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|糊|tr=nori}}
 {{trans-bottom}}
 
 {{trans-top|thickened crust on coagulated blood}}
 * Finnish: {{t+|fi|rupi}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|血糊|tr=chinori}}
 {{trans-bottom}}
 
 ====Verb====
 {{en-verb|siz|ing}}
 
-# {{transitive}} To apply glue or other primer to a surface which is to be painted.
+# {{transitive}} To apply [[glue]] or other primer to a surface which is to be painted.
 
 =====Translations=====
 {{trans-top|to apply primer to a surface which is to be painted}}
 * Finnish: {{t|fi|pohjustaa}}, {{t|fi|pohjamaalata}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|どうさをひく|tr=dōsa wo hiku}}
 {{trans-bottom}}
 
 [[Category:1000 English basic words]]
