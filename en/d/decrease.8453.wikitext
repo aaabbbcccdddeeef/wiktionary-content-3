@@ -8,17 +8,19 @@
 ===Etymology===
 From {{OF.}} ''[[descreistre]]'' (French: ''[[décroître]]''), from {{L.}} ''[[decrescere]]''.
 
-===Intransitive verb===
-{{rfc-trverb|Intransitive verb}}
+===Verb===
 {{en-verb|decreas|ing}}
 
-# (''Of a quantity'') to become [[smaller]].
+# {{intransitive}} Of a quantity, to become [[smaller]].
+# {{intransitive}} To make (a quantity) smaller.
 
 ====Synonyms====
-*{{i-c|become smaller}} [[drop]], [[fall]], [[go down]], [[plummet]] (''rapidly''), [[plunge]] (''rapidly''), [[reduce]], [[shrink]], [[sink]]
+*{{sense|become smaller}} [[drop]], [[fall]], [[go down]], [[plummet]] (''rapidly''), [[plunge]] (''rapidly''), [[reduce]], [[shrink]], [[sink]]
+*{{sense|make smaller}} [[cut]], [[decrement]], [[lower]], [[reduce]]
 
 ====Antonyms====
-*{{i-c|become larger}} [[go up]], [[grow]], [[increase]], [[rise]], [[soar]] (''rapidly''), [[shoot up]] (''rapidly'')
+*{{sense|become larger}} [[go up]], [[grow]], [[increase]], [[rise]], [[soar]] (''rapidly''), [[shoot up]] (''rapidly'')
+*{{sense|make larger}} [[increase]], [[increment]], [[raise]], [[up]] (''informal'')
 
 ====Translations====
 {{trans-top|become smaller}}
@@ -30,18 +32,6 @@ From {{OF.}} ''[[descreistre]]'' (French: ''[[décroître]]''), from {{L.}} ''[[
 * Kurdish: {{KUchar|[[که‌م کردن]]}}
 {{trans-bottom}}
 
-===Transitive verb===
-{{en-verb|decreas|ing}}
-
-# To make (a quantity) smaller.
-
-====Synonyms====
-*{{i-c|make smaller}} [[cut]], [[decrement]], [[lower]], [[reduce]]
-
-====Antonyms====
-*{{i-c|make larger}} [[increase]], [[increment]], [[raise]], [[up]] (''informal'')
-
-====Translations====
 {{trans-top|make smaller}}
 * Finnish: {{t+|fi|laskea}}, {{t+|fi|vähentää}}
 * French: {{t+|fr|diminuer}}, {{t+|fr|réduire}}
@@ -65,10 +55,10 @@ From {{OF.}} ''[[descreistre]]'' (French: ''[[décroître]]''), from {{L.}} ''[[
 # An amount by which a quantity is decreased.
 
 ====Synonyms====
-*{{i-c|amount by which a quantity is decreased}} [[cut]], [[decrement]], [[drop]], [[fall]], [[loss]], [[lowering]], [[reduction]], [[shrinkage]]
+*{{sense|amount by which a quantity is decreased}} [[cut]], [[decrement]], [[drop]], [[fall]], [[loss]], [[lowering]], [[reduction]], [[shrinkage]]
 
 ====Antonyms====
-*{{i-c|amount by which a quantity is decreased}} [[gain]], [[increase]], [[increment]], [[raise]] (''US, of pay''), [[rise]]
+*{{sense|amount by which a quantity is decreased}} [[gain]], [[increase]], [[increment]], [[raise]] (''US, of pay''), [[rise]]
 
 ====Translations====
 {{trans-top|amount of decrease}}
