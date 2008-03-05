@@ -15,7 +15,7 @@
 | Next: '''[[helium]] (He)'''
 |}
 
-{{#if: {{{lang|}}}|[[Category:{{{lang}}}:Chemical elements]]|[[Category:Chemical elements]]}}
+{{#if: {{{lang|}}}||}}
 
 ===Etymology===
 From {{F.}} ''[[hydrogène]]'', coined by [[:w:Louis-Bernard Guyton de Morveau|Louis-Bernard Guyton de Morveau]].
@@ -200,6 +200,8 @@ From {{F.}} ''[[hydrogène]]'', coined by [[:w:Louis-Bernard Guyton de Morveau|L
 * [[deuterium]]
 * [[protium]]
 * [[tritium]]
+
+[[Category:{{{lang}}}:Chemical elements]]
 
 ----
 
