@@ -46,6 +46,7 @@
 * Hungarian: {{t+|hu|rövid}}, {{t|hu|kurta}}
 * [[Novial]]: [[kurti]]
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|短い|tr=mijikai}}
 * Russian: {{t+|ru|короткий|tr=korótkij|sc=Cyrl}}
 * Slovene: [[kratek]] {{m}}, [[kratka]] {{f}}, [[kratko]] {{n}}
 * Spanish: {{t+|es|corto|m}}
@@ -55,8 +56,9 @@
 {{trans-top|word or phrase that can be said or written in less time to represent another word or phrase}}
 * Danish: {{t-|da|kort}}
 * Finnish: [[lyhennys]], [[lyhyt]] [[muoto]]
-{{trans-mid}}
 * German: {{t+|de|kurz}} (für)
+{{trans-mid}}
+* Japanese: {{qualifier|noun}} {{t|ja|sc=Jpan|略語|tr=mijikai}}
 * [[Novial]]: [[kurti]]
 * Russian: {{t+|ru|короткий|tr=korótkij|sc=Cyrl}}
 {{trans-bottom}}
@@ -68,6 +70,7 @@
 * German: {{t+|de|klein}}
 * Hungarian: {{t+|hu|alacsony}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|低い|tr=hikui}}
 * [[Novial]]: [[kurti]]
 * Russian: [[низкий]] (nízkij), [[невысокий]] (nevysókij)
 * Slovene: [[majhen]] {{m}}, [[majhna]] {{f}}
@@ -84,7 +87,6 @@
 *{{ttbc|Indonesian}}: [[pendek]]
 *{{ttbc|Italian}}: [[corto]]
 {{checktrans-mid}}
-*{{ttbc|Japanese}}: [[短い]] ([[みじかい]], mijikai)
 *{{ttbc|Korean}}: [[짧다]] (jjapda)
 *{{ttbc|Kurdish}}: {{t+|ku|kurt}}, {{t+|ku|kin}}, {{t|ku|qut}}, {{t|ku|quse}}, {{KUchar|[[کورت]]}}
 *{{ttbc|Lithuanian}}: [[trumpas]]
@@ -107,18 +109,29 @@
 # {{baseball}} shortstop
 #: ''Jones smashes a grounder between third and '''short'''.''
 
+====Translations====
+{{trans-top|a short circuit}}
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|短絡|tr=tanraku}}, {{t|ja|sc=Jpan|ショート|tr=shōto}}
+{{trans-bottom}}
+
+{{trans-top|baseball: shortstop}}
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|ショート|tr=shōto}}
+{{trans-bottom}}
+
 ===Verb===
 {{en-verb}}
 
 # {{transitive}} To cause a [[short circuit]]
 
 ====Translations====
-
-{{trans-top|cause a short circuit}}
+{{trans-top|to cause a short circuit}}
 * Danish: [[kortslutte]]
 * French: {{t+|fr|court-circuiter}}
 * German: [[kurzschließen]]
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|短絡する|tr=tanraku suru}}
 * Russian: [[закорачивать]] (zakoráčivat') {{impf}}, [[закоротить]] (zakorotít') {{pf}}; [[замыкать]] (zamykát') {{impf}}, [[замкнуть]] (zamknút') {{pf}}
 {{trans-bottom}}
 
