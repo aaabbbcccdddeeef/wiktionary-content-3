@@ -4,7 +4,10 @@
 ===Noun===
 {{en-noun|-}}
 
-# {{context|chemistry|obsolete}} [[salt]] (''mainly in the names of various chemical compounds'')
+# {{chemistry|obsolete}} [[salt]] 
+
+====Usage notes====
+Was used predominantly to form the names of various chemical compounds.
 
 ====Derived terms====
 *[[sal ammoniac]]
@@ -23,7 +26,7 @@
 ==Kurdish==
 
 ===Noun===
-{{infl|tr|noun|gender=f}}
+{{infl|tr|noun|g=f}}
 
 # [[year]]
 
@@ -60,13 +63,13 @@
 ==Old English==
 
 ===Etymology===
-From West {{Ger.|ang}} Cognate with Old Saxon {{term|sel|sēl}} (Dutch {{term|zeel|lang=nl}}), Old High German {{term|seil|lang=goh}} (German {{term|Seil|lang=de}}).
+From West {{proto|Germanic|lang=ang}} Cognate with Old Saxon {{term|sel|sēl|lang=osx}} (Dutch {{term|zeel|lang=nl}}), Old High German {{term|seil|lang=goh}} (German {{term|Seil|lang=de}}).
 
 ===Pronunciation===
 *{{IPA|/sɑːl/}}
 
 ===Noun===
-{{infl|ang|noun|head=sāl|g=m|plural|sālas}}
+{{ang-noun|sg=sāl|g=m|pl=salas|plh=sālas}}
 
 # [[rope]], [[cord]], [[rein]]
 
@@ -90,7 +93,7 @@ From West {{Ger.|ang}} Cognate with Old Saxon {{term|sel|sēl}} (Dutch {{term|ze
 *{{IPA|[sal]|lang=ro}}
 
 ===Etymology 1===
-{{Turk.|ro}} ''[[#Turkish|sal]]''
+{{Turk.|ro}} {{term|sal|lang=tr}}.
 
 ====Noun====
 {{ro-noun|gend=n|pl=saluri}}
@@ -101,7 +104,7 @@ From West {{Ger.|ang}} Cognate with Old Saxon {{term|sel|sēl}} (Dutch {{term|ze
 *[[şal]]
 
 ===Etymology 2===
-Shortened form of ''[[salut]]''
+Shortened form of {{term|salut|lang=ro}}.
 
 ====Interjection====
 {{infl|ro|interjection|head=sal!}}
@@ -122,12 +125,15 @@ Shortened form of ''[[salut]]''
 
 ===Noun===
 {{es-noun-f|pl=sales}}
+
 # [[salt]]
-[[Category:es:Seasonings]]
 
 ===Verb===
 {{es-verb-form}}
+
 # {{es-verb form of|mood=imp|num=s|pers=2|formal=n|sense=+|ending=ir|verb=salir}}
+
+[[Category:es:Seasonings]]
 
 ----
 
