@@ -1,6 +1,6 @@
 {{see|Dag|dağ}}
-
 ==Translingual==
+
 ===Symbol===
 '''dag'''
 
@@ -11,27 +11,29 @@
 ==English==
 
 ===Pronunciation===
-*{{IPA|/dæɡ/}}
-*:{{rhymes|æɡ}}
+* {{IPA|/dæɡ/}}
+* {{rhymes|æɡ}}
 
 ===Etymology 1===
-Related to [[dang]] and [[damn]]?
+Related to {{term|dang}} and {{term|damn}}?
+{{rfe}}
 
 ====Interjection====
 '''dag'''
 
-# {{context|US|colloquial}} Expressing shock, awe or surprise; used as a general intensifier.
+# {{context|US|colloquial}} Expressing [[shock]], [[awe]] or [[surprise]]; used as a general [[intensifier]].
 
 ===Etymology 2===
-From '''dag''', a sharp-pointed object. Compare '''dagger'''
+From {{term|dag||a sharp-pointed object}}. Compare {{term|dagger}}.
+{{rfe|dag comes from dag?  Well, no}}
 
 ====Noun====
 {{en-noun}}
 
-# A skewer
-# A sharpened stick, used for roasting food over a fire. Compare '''dogwood''', formerly '''dagwood'''
-# A long [[point]]ed [[strip]] of [[cloth]] at the edge of a piece of [[clothing]]
-# One of a row of decorative strips of cloth, ornamenting a tent, booth, or fairground
+# A [[skewer]].
+# A sharpened stick, used for [[roast]]ing food over a fire. Compare {{term|dogwood}}, formerly {{term|dagwood}}.
+# A long [[point]]ed [[strip]] of [[cloth]] at the edge of a piece of [[clothing]].
+# One of a row of decorative strips of cloth, [[ornament]]ing a [[tent]], [[booth]], or [[fairground]].
 
 ====Verb====
 {{en-verb|dag|g|ed}}
@@ -40,52 +42,53 @@ From '''dag''', a sharp-pointed object. Compare '''dagger'''
 # {{transitive}} To [[cut]] or [[slash]] the edge of a [[garment]] into dags
 
 ===Etymology 3===
-From ''[[daglock]]''
+From {{term|daglock}}.
 
 ====Noun====
 {{en-noun}}
 {{rfv}}
-# A dangling lock of sheep’s wool matted with [[dung]]
+
+# A [[dangle|dangling]] [[lock]] of sheep’s wool matted with [[dung]].
  
 =====Synonyms=====
 *[[daglock]]
 *[[dung tag]]
-*# '''1989''', Paula Simmons, ''Raising Sheep the Modern Way'', revised edition, Storey Communications Inc., Pownal Vermont, page 212
-*:"Remove dung tags, and do not tie them in with the fleece."
+** '''1989''', Paula Simmons, ''Raising Sheep the Modern Way'', revised edition, Storey Communications Inc., Pownal Vermont, page 212
+**: Remove dung tags, and do not tie them in with the fleece.
+<!-- move this to [[dung tag]], once it exists-->
 
-=====Related terms=====
-*[[daggy]]
+=====Derived terms=====
+* [[daggy]]
 
 ===Etymology 4===
 {{back-form|daggy}}
 {{rfv}}
+
 ====Noun====
 {{en-noun}}
 
-# {{context|Australian|_|slang|New Zealand|_|derogatory|_|<nowiki/>slang}} An uncool person commonly not a dork, loser, nerd. May be used as form of endearment emphasizing that they are different.
+# {{context|Australian|_|slang|New Zealand|_|derogatory|_|<nowiki/>slang}} An [[uncool]] person commonly not a [[dork]], [[loser]], [[nerd]]. May be used as form of [[endearment]] emphasising that they are different.
 
 =====Synonyms=====
-*[[dork]]
-*[[loser]]
-*[[nerd]]
+* [[dork]], [[loser]], [[nerd]]
 
 =====Related terms=====
 *[[daggy]]
 
 ===Etymology 5===
-From the initials of ''directed acyclic graph''.
+{{initialism}} for {{term|directed acyclic graph}}.
 
 ====Noun====
 {{en-noun}}
 
-# A [[directed acyclic graph]]; an [[ordered pair]] (''V'', ''E'') such that ''E'' is a [[subset]] of some [[partial ordering relation]] on ''V''.
+# A [[directed acyclic graph]]; an [[ordered pair]] <math>(V, E)</math> such that <math>E</math> is a [[subset]] of some [[partial ordering relation]] on <math>V</math>.
 
 ----
 
 ==Afrikaans==
 
 ===Etymology===
-{{D.}} [[#Dutch|dag]]
+From {{D.|af}} {{term|dag|lang=nl}}.
 
 {{af-noun|dag|[[dae]]}}
 
@@ -102,7 +105,7 @@ From the initials of ''directed acyclic graph''.
 ==Danish==
 
 ===Etymology===
-Old Norse ''[[dagr]]''
+From {{ON.|da}} {{term|dagr|lang=non}}.
 
 ===Noun===
 '''dag''' {{g|Danish}}
@@ -110,17 +113,30 @@ Old Norse ''[[dagr]]''
 # [[day]]
 
 [[Category:Danish nouns]]
+[[Category:da:Time]]
 
 ----
 
 ==Dutch==
 
+===Pronunciation===
+* {{IPA|/dɑx/}}
+
 ===Noun===
-{{nl-noun|g1=m|g2=f|pl=dagen|dim1=daagje|dim2=dagje}}
+{{nl-noun|g1=m|g2=f|pl=dagen|dim=dagje}}
 
 # [[day]]
+# The period of time between sunrise and sunset.
+
+===Interjection===
+{{infl|nl|interjection}}!
+
 # [[goodbye]]
-# Also a greeting, short for ''[[goedendag]]'' ("good day")
+# [[hello]], short for {{term|goedendag||good day|lang=nl}}
+
+====Synonyms====
+* {{sense|bye}} [[daag]], [[ciao]], [[salut]] {{i|Flemish}}, [[vaarwel]], [[tot ziens]], [[tot hoors]], [[doei]] {{i|Netherlands}}, [[doeg]] {{i|Netherlands}}
+* {{sense|hello}} [[hallo]], [[hoi]], [[heei]]/[[hey]], [[goedendag]]/[[goeiendag]], [[jow]] {{i|familiar, Flemish}}, [[hoi]] {{i|Netherlands}}
 
 [[Category:nl:Time]]
 
@@ -129,15 +145,15 @@ Old Norse ''[[dagr]]''
 ==Faroese==
 
 ===Pronunciation===
-* {{IPA|[dɛaː]}}
+* {{IPA|/dɛaː/}}
 
 ===Noun===
-'''dag''' {{m}}, ''accusative singular of'' [[dagur]]
+'''dag'''
 
-# [[day]]
+# {{acc sing of|dagur|nodot=t|L=Faroese}}, [[day]].
 
 ====Derived terms====
-*[[góðan dag]]! - good day!
+* [[góðan dag]]!
 
 ====Declension====
 {{fo-decl-noun-m42|d|a|g|e|ø}}
@@ -147,6 +163,9 @@ Old Norse ''[[dagr]]''
 ----
 
 ==Indonesian==
+
+===Etymology===
+From {{D.|id}} {{term|dag|lang=nl}}.
 
 ===Interjection===
 '''dag'''
@@ -159,6 +178,9 @@ Old Norse ''[[dagr]]''
 
 ==Norwegian==
 
+===Etymology===
+From {{ON.|no}} {{term|dagr|lang=non}}.
+
 ===Noun===
 {{no-noun-m1|dag}}
 
@@ -170,8 +192,11 @@ Old Norse ''[[dagr]]''
 ----
 
 ==Swedish==
-{{sv-noun|gender=Common|dag|dagen|dagar|dagarna|dags|dagens|dagars|dagarnas}}
 
+===Etymology===
+From {{ON.|sv}} {{term|dagr|lang=non}}.
+
+{{sv-noun|gender=Common|dag|dagen|dagar|dagarna|dags|dagens|dagars|dagarnas}}
 ===Noun===
 '''dag''' {{c}}
 
@@ -183,6 +208,7 @@ Old Norse ''[[dagr]]''
 *[[dygn]]
 
 [[Category:Swedish nouns]]
+[[Category:sv:Time]]
 
 [[af:dag]]
 [[ast:dag]]
