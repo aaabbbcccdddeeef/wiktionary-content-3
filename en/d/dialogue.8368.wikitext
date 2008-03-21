@@ -20,42 +20,10 @@ From {{AGr.}} [[διάλογος]] (''dialogos'') "conversation, discourse",  fr
 # A [[literary]] form, where the presentation resembles a conversation.
 #:''A literary historian, she specialized in the '''dialogues''' of ancient Greek philosophers.''
 
-====Translations====
-{{trans-top|conversation or other discourse between individuals}}
-*Chinese: [[对话]]
-*Czech: [[dialog#Czech|dialog]] {{m}}
-*Dutch: [[dialoog]] {{m}}
-*French: dialogue {{m}}
-*Finnish: [[dialogi]], [[vuoropuhelu]]
-*German: [[Dialog]] {{m}}
-*Greek: [[διάλογος]] (''dialogos'')
-{{trans-mid}}
-*Hebrew: [[דו-שיח]] (du-syakh) {{m}} (''conversation between two persons or parties'') 
-*Icelandic: [[samtal]] {{n}}
-*Italian: [[dialogo]] {{m}}
-*Polish: [[dialog]] {{m}}
-*Portuguese: [[diálogo]]
-*Swedish: [[dialog]]
-{{trans-bottom}}
+====Antonyms====
+*[[monologue]]
 
-{{trans-top|verbal part of a literary or dramatic work}}
-*Czech: [[dialog#Czech|dialog]] {{m}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|literary form resembing a conversation}}
-*Czech: [[dialog#Czech|dialog]] {{m}}
-*Finnish: [[dialogi]]
-{{trans-mid}}
-{{trans-bottom}}
-
-===Verb===
-{{en-verb|dialogu|ing}}
-
-# {{context|informal|business}} To [[discuss]] or [[negotiate]] so that all parties can reach an [[understand]]ing.
-#:''Pearson wanted to '''dialogue''' with his overseas counterparts about the new reporting requirements.''
-
-===Derived terms===
+====Derived terms====
 {{top2}}
 *[[dialogic]]
 *[[dialogical]]
@@ -68,9 +36,46 @@ From {{AGr.}} [[διάλογος]] (''dialogos'') "conversation, discourse",  fr
 *[[dialogize]]
 {{bottom2}}
 
-===Related terms===
+====Related terms====
 *[[dialect]]
-*[[monologue]]
+
+====Translations====
+{{trans-top|conversation or other discourse between individuals}}
+*Chinese: [[对话]]
+*Czech: [[dialog#Czech|dialog]] {{m}}
+*Dutch: [[dialoog]] {{m}}
+*French: dialogue {{m}}
+*Finnish: [[dialogi]], [[vuoropuhelu]]
+*German: [[Dialog]] {{m}}
+*Greek: [[διάλογος]] (''dialogos'')
+*Hebrew: [[דו-שיח]] (du-syakh) {{m}} (''conversation between two persons or parties'') 
+*Icelandic: [[samtal]] {{n}}
+*Italian: [[dialogo]] {{m}}
+{{trans-mid}}
+* Japanese: {{qualifier|conversation}} {{t|ja|sc=Jpan|対話|tr=taiwa}}; {{qualifier|discussion}} {{t|ja|sc=Jpan|討論|tr=taiwa}}
+*Polish: [[dialog]] {{m}}
+*Portuguese: [[diálogo]]
+*Swedish: [[dialog]]
+{{trans-bottom}}
+
+{{trans-top|verbal part of a literary or dramatic work}}
+*Czech: [[dialog#Czech|dialog]] {{m}}
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|対話|tr=taiwa}}
+{{trans-bottom}}
+
+{{trans-top|literary form resembing a conversation}}
+*Czech: [[dialog#Czech|dialog]] {{m}}
+*Finnish: [[dialogi]]
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|対話形式|tr=taiwa-keishiki}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb|dialogu|ing}}
+
+# {{context|informal|business}} To [[discuss]] or [[negotiate]] so that all parties can reach an [[understand]]ing.
+#:''Pearson wanted to '''dialogue''' with his overseas counterparts about the new reporting requirements.''
 
 [[Category:Talking]]
 
