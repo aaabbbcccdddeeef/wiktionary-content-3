@@ -3,19 +3,19 @@
 ==English==
 
 ===Pronunciation===
-* {{IPA|/tɪt/}}
-* Rhymes: [[Rhymes:English:-ɪt|-ɪt]]
+*{{IPA|/tɪt/}}
+*:{{rhymes|ɪt}}
 
 ===Etymology 1===
-From {{OE.}} {{term|titt||xs=ang}}. Compare {{term|teat|}}.
+From {{OE.}} {{term|titt|lang=ang}}. Compare {{term|teat}}.
 
 ====Noun====
 {{en-noun}}
 
 # A [[mammary gland]], [[teat]].
-# {{context|slang|vulgar}} A woman's [[breast]].
+# {{slang|vulgar}} A woman's [[breast]].
 #: ''She's got an amazing pair of '''tits'''.''
-# {{context|UK|pejorative|slang}} An [[idiot]]; a [[fool]].
+# {{UK|pejorative|slang}} An [[idiot]]; a [[fool]].
 #: ''Look at that '''tit''' driving on the wrong side of the road!''
 
 =====Quotations=====
@@ -30,8 +30,11 @@ From {{OE.}} {{term|titt||xs=ang}}. Compare {{term|teat|}}.
 =====Synonyms=====
 * {{sense|breast}} ''See'' [[WikiSaurus:breast]].
 
+====Related terms====
+*[[titty]], [[tittie]]
+
 =====Translations=====
-{{trans-top|A mammary gland, teat}}
+{{trans-top|a mammary gland, teat}}
 * Bosnian: (sisna) [[bradavica]] {{f}}
 * Danish: [[brystvorte]] {{c}}
 * Dutch: [[tiet]] {{f}}
@@ -53,7 +56,7 @@ From {{OE.}} {{term|titt||xs=ang}}. Compare {{term|teat|}}.
 * Spanish: [[teta]] {{f}}
 {{trans-bottom}}
 
-{{trans-top|A woman's breast}}
+{{trans-top|a woman's breast}}
 * Armenian: [[ծիծ]], [[ծծեր]] {{p}}
 * Danish: [[bryst]] {{c}}
 * Dutch: [[tiet]] {{f}}
@@ -75,11 +78,12 @@ From {{OE.}} {{term|titt||xs=ang}}. Compare {{term|teat|}}.
 * Spanish: [[macoca]] {{f}}, [[melón]] {{m}}
 {{trans-bottom}}
 
-{{checktrans}}
+{{checktrans-top}}
 * {{ttbc|Malaysian}}: [[tetek]]
+{{checktrans-bottom}}
 
 ===Etymology 2===
-Perhaps imitative of light tap.  Compare earlier ''[[tip for tap]]'', "blow for blow", from "[[tip]]", + "[[tap]]"; compare also dialectal ''[[tint for tant]]''.
+Perhaps imitative of light tap.  Compare earlier {{term|tip for tap||blow for blow}}, from {{term|tip}}, + {{term|tap}}; compare also dialectal {{term|tint for tant}}.
 
 ====Noun====
 {{en-noun}}
@@ -87,7 +91,7 @@ Perhaps imitative of light tap.  Compare earlier ''[[tip for tap]]'', "blow for 
 # {{archaic}} A light [[blow]] or [[hit]] (''now usually in phrase'' [[tit for tat]]).
 
 ===Etymology 3===
-Probably of Scandinavian origin; found earliest in ''[[titling]]'' and ''[[titmouse]]''; compare Icelandic ''[[titlingur]]'' ‘sparrow’, dialectal Norwegain ''[[titling]]'' ‘small stockfish’.
+Probably of Scandinavian origin; found earliest in {{term|titling}} and {{term|titmouse}}; compare Icelandic {{term|titlingur||sparrow|lang=is}}, dialectal Norwegian {{term|titling||small stockfish|lang=no}}.
 
 ====Noun====
 {{en-noun}}
@@ -175,23 +179,22 @@ Probably of Scandinavian origin; found earliest in ''[[titling]]'' and ''[[titmo
 
 [[Category:English palindromes]]
 [[Category:English words with multiple etymologies]]
+[[Category:Birds]]
+[[Category:Vulgarities]]
 
 ----
 
 ==Danish==
 
 ===Adverb===
-'''tit'''
+{{infl|da|adverb}}
 
 # [[often]]
 
 ===Noun===
-'''tit''' {{n}}
+{{infl|da|noun|g=n}}
 
 # [[glimpse]]
-
-[[Category:Danish adverbs]]
-[[Category:Danish nouns]]
 
 ----
 
@@ -199,41 +202,36 @@ Probably of Scandinavian origin; found earliest in ''[[titling]]'' and ''[[titmo
 {{fo-decl-pers-pron}}
 
 ===Pronoun===
-'''tit'''
+{{infl|fo|pronoun}}
 
-# [[you]] ''(plural)''
+# [[you]] {{qualifier|plural}}
 
 {{-}}
-
-[[Category:Faroese pronouns]]
 
 ----
 
 ==Irish==
 
 ===Pronunciation===
-{{IPA|[tʲitʲ]}}
+*{{IPA|[tʲitʲ]}}
 
 ===Verb===
-'''tit''' ([[verbal noun]] [[titim]], [[past participle]] [[tite]])
+{{infl|ga|verb|verbal noun|titim|past participle|tite}}
 
 # to [[fall]]
-
-[[Category:Irish verbs]]
 
 ----
 
 ==Tok Pisin==
 
 ===Etymology===
-From the English word ''[[teeth]]''.
+From the {{E.|tpi}} word {{term|teeth}}.
 
 ===Noun===
-'''tit'''
+{{infl|tpi|noun}}
 
 # [[tooth]]
 
-[[Category:Tok Pisin nouns]]
 [[Category:tpi:Anatomy]]
 
 ----
@@ -241,16 +239,13 @@ From the English word ''[[teeth]]''.
 ==Torres Strait Creole==
 
 ===Etymology===
-From English ''[[teeth]]''.
+From {{E.|tcs}} {{term|teeth}}.
 
 ===Noun===
-'''tit'''
+{{infl|tcs|noun}}
 
 # [[tooth]]
 
-[[Category:Birds]]
-[[Category:Torres Strait Creole nouns]]
-[[Category:Vulgarities]]
 [[Category:tcs:Anatomy]]
 
 [[bg:tit]]
