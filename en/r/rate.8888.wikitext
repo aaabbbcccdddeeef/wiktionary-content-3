@@ -14,54 +14,63 @@
 {{en-noun}}
 
 # An [[amount]] measured in [[relation]] to another amount.
-#: ''The car was travelling at a rate of speed of fifty kilometres per hour.''
-# A price or fee determined in relation to a particular scale or standard.
+#: ''The car was travelling at a '''rate''' of speed of fifty kilometres per hour.''
+# A [[price]] or fee [[determined]] in relation to a particular scale or standard.
 #: ''The central bank sets an [[interest rate]].''
 # A price per [[unit]] for a service or product.
-#: ''Postal rates here are low.''
+#: ''Postal '''rates''' here are low.''
 # The relative speed of change or progress.
-#: ''The rate of production at the factory is skyrocketing.''
+#: ''The '''rate''' of production at the factory is skyrocketing.''
 # {{statistics}} A measure of the [[frequency]] of a given event, typically expressed as the number of occurrences of the event for every thousand or hundred thousand people in the total population considered.
 #: ''The [[mortality rate]] in the country was unusually high.''
 # [[wage|Wages]] [[calculate]]d in relation to a unit of time.
-#: ''The pay rate is ten dollars per hour.''
+#: ''The pay '''rate''' is ten dollars per hour.''
 # A level of quality.
-#: ''This textbook is first rate''.
-
-=====Derived terms=====
-* [[at any rate]]
-* [[flat rate]]
-* [[rate limiting]]
+#: ''This textbook is first '''rate'''''.
 
 =====Translations=====
-{{trans-top|An amount measured in relation to another amount}}
+{{trans-top|an amount measured in relation to another amount}}
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|比率|tr=hiritsu}}
 * Russian: [[пропорция]] (propórtsija) {{f}}, [[отношение]] (otnošénije) {{n}}
 * Spanish: [[tasa]] {{f}}
-{{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|A price or fee determined in relation to a particular scale or standard}}
+{{trans-top|a price or fee determined in relation to a particular scale or standard}}
+{{trans-mid}}
+* Japanese: {{qualifier|fee}} {{t|ja|sc=Jpan|利率|tr=riritsu}}
 * Russian: [[ставка]] (stávka) {{f}}, [[процент]] (procént) {{m}}
-{{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|A price per unit for a service or product}}
+{{trans-top|a price per unit for a service or product}}
 * German: [[Rate]] {{f}}
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|比率|tr=hiritsu}}, {{t|ja|sc=Jpan|割合|tr=wariai}}
 * Polish: [[taryfa]] {{f}}
 * Russian: [[тариф]] (taríf), [[расценка]] (rascénka) {{f}}, [[цена]] (cená) {{f}}
-{{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|relative speed}}
 * German: [[Rate]] {{f}}
+{{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|割合|tr=wariai}}; {{qualifier|production speed}} {{t|ja|sc=Jpan|生産速度|tr=hiritsu}}; {{qualifier|growth of a company, country}} {{t|ja|sc=Jpan|成長率|tr=seichōritsu}}
 * Russian: [[скорость]] (skórost’) {{f}}, [[темп]] (temp) {{m}}
 * Spanish: [[velocidad]] {{f}}
+{{trans-bottom}}
+
+{{trans-top|statistics: a measure of the frequency of a given event}}
+{{trans-mid}}
+* Japanese: {{qualifier|mortality rate}} {{t|ja|sc=Jpan|死亡率|tr=hiritsu}}
+* Russian: [[уровень]] (úroven’) {{m}}
+{{trans-bottom}}
+
+{{trans-top|wages calculated in relation to a unit of time}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|A measure of the frequency of a given event}}
-* Russian: [[уровень]] (úroven’) {{m}}
+{{trans-top|a level of quality}}
 {{trans-mid}}
+* Japanese: {{t|ja|sc=Jpan|級|tr=kyū}}
 {{trans-bottom}}
 
 ======Translations to be checked======
@@ -74,12 +83,17 @@
 * {{ttbc|German}}: [[Verhältnis]] {{n}}
 * {{ttbc|Italian}}: [[proporzione]] {{f}}
 {{trans-mid}}
-* {{ttbc|Japanese}}: [[割合]] (わりあい, wariai)
 * {{ttbc|Korean}}: [[비율]] (biyul)
 * {{ttbc|Portuguese}}: [[razão]] {{f}}
 * {{ttbc|Spanish}}: [[proporción]] {{f}}
 * {{ttbc|Swedish}}: [[proportion]] {{c}}
 {{trans-bottom}}
+
+=====See also=====
+<!-- compounds -->
+* [[at any rate]]
+* [[flat rate]]
+* [[rate limiting]]
 
 ====Verb====
 {{en-verb|rat|ing}}
