@@ -13,26 +13,20 @@
 * (1) [[deposit]]
 
 ====Translations====
-'''receiving'''¨
-{{top}}
-* Finnish: {{t-|fi|nosto}}
-* French: 1,4. [[retrait]] {{m}}
-* Greek: {{t|el|απόσυρση|f|sc=Grek}}
-* Italian: 1. [[ritiro]] 2. [[ritrattazione]]
-* [[Interlingua]]: [[retiramento]]
-{{mid}}
-* Japanese: [[引き出し]] (ひきだし, hikidashi)
-* Portuguese: [[retirada]] {{f}}, [[saque]] {{m}}
-* Spanish: {{t-|es|retirada}}
-* Swedish: [[uttag]] {{c}} (''money from a bank'')
-{{bottom}}
-
-{{trans-top|birth control}}
-* Spanish: {{t-|es|coitus interruptus}}
-* French: [[coïtus interruptus]]
+{{trans-top|receiving from someone's care what one has earlier entrusted to them}}
+* Finnish: {{t-|fi|nosto}} {{qualifier|money from a bank}}, {{t-|fi|otto}} {{qualifier|money from a bank}}
+{{trans-mid}}
+*Swedish: [[uttag]] {{c}} {{qualifier|money from a bank}}
 {{trans-bottom}}
 
-{{trans-top|metabolic shock}}
+{{trans-top|a method of birth control}}
+* Finnish: {{t-|fi|keskeytetty yhdyntä}}
+* French: [[coïtus interruptus]]
+{{trans-mid}}
+* Spanish: {{t-|es|coitus interruptus}}
+{{trans-bottom}}
+
+{{trans-top|a type of metabolic shock}}
 * Chinese: [[戒斷症狀]] / [[戒断症状]] jièduàn zhèngzhuàng 
 * Finnish: {{t-|fi|vierotusoireet|p}}, {{t-|fi|vieroitus}}
 * French: [[sevrage]] {{m}} (process) or [[manque]] {{m}} (status)
@@ -40,6 +34,21 @@
 {{trans-mid}}
 * Swedish: {{t+|sv|abstinens|c}}
 {{trans-bottom}}
+
+{{trans-top|an act of withdrawing}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+*{{ttbc|French}}: [[retrait]] {{m}}
+*{{ttbc|Greek}}: {{t|el|απόσυρση|f|sc=Grek}}
+*{{ttbc|Italian}}: [[ritiro]] [[ritrattazione]]
+*{{ttbc|Interlingua}}: [[retiramento]]
+{{checktrans-mid}}
+*{{ttbc|Japanese}}: [[引き出し]] (ひきだし, hikidashi)
+*{{ttbc|Portuguese}}: [[retirada]] {{f}}, [[saque]] {{m}}
+*{{ttbc|Spanish}}: {{t-|es|retirada}}
+{{checktrans-bottom}}
 
 [[es:withdrawal]]
 [[fr:withdrawal]]
