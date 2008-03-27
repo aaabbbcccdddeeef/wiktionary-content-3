@@ -36,7 +36,9 @@
 * [[Ilocano]]: [[lisa]]
 * Maori: {{t-|mi|riha|xs=Maori}}
 * Russian: {{t+|ru|гнида|f|tr=gnída|sc=Cyrl}}
-* Serbian: {{t|sr|гњида|f|tr=[[gnjida]]|sc=Cyrl}}
+* Serbian:
+*: Cyrillic: {{t|sr|гњида|f|sc=Cyrl}}
+*: Roman: {{t|sr|gnjida|f}}
 * Spanish: [[liendre]] {{f}}
 {{trans-bottom}}
 
@@ -76,6 +78,26 @@ Latin ''[[nitere]]'', to shine
 {{ca-noun-f}}
 
 # [[night]]
+
+----
+
+==Bosnian==
+
+===Noun===
+{{bs-noun|g=f|niti}}
+
+# [[thread]]
+
+====Declension====
+{{bs-decl-noun
+|nit|niti
+|niti|niti
+|niti|nitima
+|nit|niti
+|niti|niti
+|niću / niti|nitima
+|niti|nitima
+}}
 
 ----
 
@@ -129,12 +151,32 @@ Latin ''[[nitere]]'', to shine
 ==Romanian==
 
 ===Etymology===
-{{G.|ro}} {{term|Niete|lang=de}}.
+From {{G.|ro}} {{term|Niete|lang=de}}.
 
 ===Noun===
 {{infl|ro|noun|g=n}}
 
 # [[rivet]]
+
+----
+
+==Serbian==
+
+===Noun===
+{{sr-noun|g=f|pl=niti|cyr=нит}}
+
+# [[thread]]
+
+====Declension====
+{{sr-decl-noun
+|nit|niti
+|niti|niti
+|niti|nitima
+|nit|niti
+|niti|niti
+|niću / niti|nitima
+|niti|nitima
+}}
 
 ----
 
