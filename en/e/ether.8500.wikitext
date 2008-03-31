@@ -20,15 +20,16 @@ From {{L.}} {{term|aether|æther|the upper pure, bright air|lang=la}} < {{AGr.}}
 {{en-noun|s|-}}
 
 # {{organic compound|countable}} A [[compound]] containing an [[oxygen]] atom bonded to two [[hydrocarbon]] [[group]]s.
-# {{organic compound|uncountable}} [[diethyl ether|Diethyl ether]], a [[compound]] used as an early [[anaesthetic]].
-# {{alchemy|uncountable}} In some versions of alchemy, this was the fifth element in addition to [[air]], [[earth]], [[fire]] and [[water]].
-# {{uncountable}} A substance (''[[aether]]'') once thought to [[fill]] all [[space]] that allowed Electromagnetic waves to pass through it and interact with matter, without exerting any resistance to matter or energy (disproved by Einstein in his Theory of Relativity).
+# {{organic compound|uncountable}} [[diethyl ether|Diethyl ether]] (C<sub>4</sub>H<sub>10</sub>O), a [[compound]] used as an early [[anaesthetic]].
+# {{ancient philosophy|and|alchemy|uncountable}} A classical physical [[element]], considered as prevalent in the heavens and inaccessible to humans. In some versions of alchemy, this was the fifth element in addition to [[air]], [[earth]], [[fire]] and [[water]].
+# {{archaic|physics|uncountable}} A substance (''[[aether]]'') once thought to [[fill]] all [[space]] that allowed Electromagnetic waves to pass through it and interact with matter, without exerting any resistance to matter or energy (disproved by Einstein in his Theory of Relativity).
+# {{poetic|_|or|_|literary}} The [[sky]] or [[heavens]]; the [[upper]] [[air]].
 
 ====Quotations====
 {{seeCites}}
 
 ====Translations====
-{{trans-top|chemical compound}}
+{{trans-top|organic chemistry: a compound containing an oxygen atom bonded to two hydrocarbon [[group}}
 * German: {{t|de|Äther|m}}, {{t|de|Ether|m}}
 * Greek: {{t|el|αιθέρας|m|tr=aithéras|sc=Grek}}
 * Icelandic: {{t|is|ljósvaki|m}}
@@ -39,7 +40,11 @@ From {{L.}} {{term|aether|æther|the upper pure, bright air|lang=la}} < {{AGr.}}
 * Swedish: {{t|sv|eter|c}}
 {{trans-bottom}}
 
-{{trans-top|fifth element of alchemy}}
+{{trans-top|organic chemistry: diethyl ether, C<sub>4</sub>H<sub>10</sub>O}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|the fifth classic physical element}}
 * German: {{t|de|Äther|m}}, {{t|de|Ether|m}}
 * Greek: {{t|el|αιθέρας|m|tr=aithéras|sc=Grek}}
 * Icelandic: {{t|is|ljósvaki|m}}
@@ -50,15 +55,23 @@ From {{L.}} {{term|aether|æther|the upper pure, bright air|lang=la}} < {{AGr.}}
 * Swedish: {{t|sv|eter|c}}
 {{trans-bottom}}
 
-{{trans-top|space filling substance}}
+{{trans-top|archaic: space filling substance}}
+* Chinese: {{t|cmn|以太|sc=Hani|xs=Mandarin}}
 * German: {{t|de|Äther|m}}
 * Greek: {{t|el|αιθέρας|m|tr=aithéras|sc=Grek}}
 * Icelandic: {{t|is|ljósvaki|m}}
 {{trans-mid}}
 * Japanese: {{t|ja|エーテル|tr=ēteru|sc=Jpan}}, {{t|ja|イーサー|tr=īsā|sc=Jpan}}
+* Portuguese: {{t+|pt|éter|m}}
 * Russian: {{t|ru|эфир|m|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t|gd|adhar fìnealta|m}}
+* Spanish: {{t-|es|éter|m}}
 * Swedish: {{t|sv|eter|c}}
+{{trans-bottom}}
+
+{{trans-top|poetic and literary: the sky or heavens; the upper air}}
+*Portuguese: {{t+|pt|éter|m}}
+{{trans-mid}}
 {{trans-bottom}}
 
 [[ar:ether]]
