@@ -6,15 +6,6 @@ From Greek ''[[ἀήρ]]'', through Latin ''[[aero-]]'', combining form for '''a
 
 ===Alternative spellings===
 *''(UK):'' [[aeroplane]]
-Private Sub cmdCalc_Click()
-Dim falltime As Single, distance As Single
-Dim grav As Single
-grav = 32.2
-falltime = Val(txttime)
-distance = 0.5 * grav * falltime ^ 2
-lbldistance.Caption = distance
-cmdClear.setfoucs
-End Sub
 
 ===Pronunciation===
 *{{audio|en-us-airplane.ogg|Audio (US)}}
