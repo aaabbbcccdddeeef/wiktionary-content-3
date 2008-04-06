@@ -90,9 +90,9 @@ From {{ME.}} ''h(o)us'' < {{OE.}} ''[[hus|hūs]]'' (dwelling, shelter, house) < 
 {{trans-top|abode}}
 * [[Afrikaans]]: [[huis]]
 * [[Ainu]]: [[チセ]] (cise)
-* [[Akkadian]]: {{t|akk|sc=Xsux|tr=bītu, bētu|𒂍}}
+* [[Akkadian]]: {{tø|akk|𒂍|tr=bītu, bētu|sc=Xsux|xs=Akkadian}}
 * Albanian: [[shtëpi]] {{g|Albanian}}
-* [[Amharic]]: {{t|am|sc=Ethi|ቤት|tr=bet}}
+* [[Amharic]]: {{t-|am|ቤት|tr=bet|sc=Ethi|xs=Amharic}}
 * Arabic: {{Arab|[[بيت|بَيْتٌ]]}} (beyt) {{m}}, {{Arab|[[منزل]]}} (manzil) {{m}}, {{Arab|[[دار|دَارٌ]]}} (dār) {{f}}
 * Aramaic:
 *: Syriac: [[ܒܝܬܐ]] (baytā, bayto) {{m}}
@@ -134,7 +134,7 @@ From {{ME.}} ''h(o)us'' < {{OE.}} ''[[hus|hūs]]'' (dwelling, shelter, house) < 
 * Hebrew: [[בית]] (báyit) {{m}}, [[בתים]] (batím) {{p}}
 * [[Hiligaynon]]: [[balay]]
 * Hindi: [[घर]] (ghar) {{m}}, [[मकान]] (makān) {m}}, [[गृह]] (gṛh) {{m}}
-* [[Hittite]]: {{t|hit|sc=Xsux|tr=É|𒂍}}
+* [[Hittite]]: {{tø|hit|𒂍|tr=É|sc=Xsux|xs=Hittite}}
 * Hungarian: {{t+|hu|ház}}
 * Icelandic: {{t+|is|hús|n}}, {{t+|is|híbýli|n}}
 * [[Ido]]: [[domo]]
@@ -173,12 +173,12 @@ From {{ME.}} ''h(o)us'' < {{OE.}} ''[[hus|hūs]]'' (dwelling, shelter, house) < 
 * {{trreq|Oriya}}
 * [[Pangasinan]]: [[abong]]
 * Persian: {{fa-Arab|[[خانه|خانِه]]}} (xāne)
-* [[Phoenician]]: {{t|phn|sc=Phnx|𐤁𐤉𐤕|tr=byt}}, {{t|phn|sc=Phnx|𐤁𐤕|tr=bt}}
+* [[Phoenician]]: {{tø|phn|𐤁𐤉𐤕|tr=byt|sc=Phnx|xs=Phoenician}}, {{tø|phn|𐤁𐤕|tr=bt|sc=Phnx|xs=Phoenician}}
 * {{trreq|Pitjantjatjara}}
 * Polish: {{t+|pl|dom|m}}
 * [[Pohnpeian]]: [[ihmw]]
 * Portuguese: {{t+|pt|casa|f}}
-* [[Punic]]: {{t|xpu|sc=Phnx|𐤁𐤕|tr=bt}}
+* [[Punic]]: {{tø|xpu|𐤁𐤕|tr=bt|sc=Phnx|xs=Punic}}
 * [[Quechua]]: [[wasi]] {{s}}, [[wasikuna]] {{p}}
 * [[Raratongan]]: [['are]]
 * Romanian: {{t+|ro|casă|f}}
@@ -193,7 +193,7 @@ From {{ME.}} ''h(o)us'' < {{OE.}} ''[[hus|hūs]]'' (dwelling, shelter, house) < 
 * Slovak: {{t-|sk|dom|m}}
 * Slovene: {{t+|sl|hiša|f}}
 * Spanish: {{t+|es|casa|f}}
-* [[Sumerian]]: {{t|sux|𒂍|sc=Xsux|tr=É}}
+* [[Sumerian]]: {{tø|sux|𒂍|tr=É|sc=Xsux|xs=Sumerian}}
 * Swahili: [[nyumba]] ''sg/pl (noun 9/10)''
 * Swedish: {{t+|sv|hus|n}}
 * [[Tagalog]]: [[bahay]]
@@ -203,10 +203,10 @@ From {{ME.}} ''h(o)us'' < {{OE.}} ''[[hus|hūs]]'' (dwelling, shelter, house) < 
 * [[Telugu]]: [[ఇల్లు]] (illu)
 * [[Tetum]]: [[uma]]
 * Thai: {{Thai|[[บ้าน]]}} (bâan)
-* Tongan: [[fale]]
+* Tongan: {{t-|to|fale|xs=Tongan}}
 * Turkish: {{t+|tr|ev}}, {{t+|tr|hane}}
 * [[Tuvaluan]]: [[fale]]
-* [[Ugaritic]]: {{t|uga|sc=Ugar|𐎁𐎚|tr=bt}}
+* [[Ugaritic]]: {{tø|uga|𐎁𐎚|tr=bt|sc=Ugar|xs=Ugaritic}}
 * Ukrainian: [[дім]] (dim) {{m}}
 * {{trreq|Urdu}}: (ghar) {{g|Urdu}}
 * Vietnamese: {{t+|vi|nhà|xs=Vietnamese}}
@@ -316,7 +316,7 @@ From {{ME.}} ''h(o)us'' < {{OE.}} ''[[hus|hūs]]'' (dwelling, shelter, house) < 
 {{trans-mid}}
 * Portuguese: {{t+|pt|alojar}}, {{t+|pt|hospedar}}
 * Russian: [[помещать]] (pomeščát’), [[селить]] (selít’)
-* Spanish: [[alojar]], [[hospedar]], [[albergar]]
+* Spanish: {{t+|es|alojar}}, {{t-|es|hospedar}}, {{t-|es|albergar}}
 {{trans-bottom}}
 
 {{trans-top|dwell within one of the twelve astrological houses}}
