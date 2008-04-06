@@ -413,7 +413,7 @@ From {{OF.}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|lang=
 * Albanian: {{t-|sq|sheqer|m|xs=Albanian}}
 * Bulgarian: {{t+|bg|захар|m|tr=záhar|sc=Cyrl}}
 * [[Catalan]]: {{t-|ca|sucre|m}}
-* Croatian: {{t|hr|šećer|m}}
+* Croatian: {{t-|hr|šećer|m}}
 * Czech: {{t+|cs|cukr|m}}
 * Danish: {{t+|da|sukker|n}}
 * Dutch: {{t+|nl|suiker}}
@@ -421,11 +421,11 @@ From {{OF.}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|lang=
 * French: {{t+|fr|sucre|m}}
 * German: {{t+|de|Zucker|m}}
 * Greek: {{t+|el|ζάχαρη|f|tr=záchari|sc=Grek}}
-* Hungarian: {{t|hu|cukor}}
+* Hungarian: {{t+|hu|cukor}}
 * Indonesian: {{t+|id|gula|xs=Indonesian}}
 * Italian: {{t+|it|zucchero|m}}
 {{trans-mid}}
-* Japanese: {{t-|ja|砂糖|sc=Jpan|tr=[[さとう]], satō}}
+* Japanese: {{t+|ja|砂糖|tr=[[さとう]], satō|sc=Jpan}}
 * Kurdish:
 *: Sorani: {{t|ku|شه‌کر|tr=shakir|sc=KUchar}}
 * Latvian: {{t|lv|cukurs|m|xs=Latvian}}
@@ -433,8 +433,8 @@ From {{OF.}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|lang=
 * Romanian: {{t+|ro|zahăr|n}}
 * [[Romansch]]: {{t-|rm|zutger|m|xs=Romansch}}
 * Russian: {{t+|ru|сахар|m|tr=sáχar|sc=Cyrl}}
-* Sanskrit: {{t|sa|शर्करा|tr=śárkarā|f|sc=Deva}}
-* [[Sinhala]]: {{t|si|සීනි|tr=siini}}
+* Sanskrit: {{t|sa|शर्करा|f|tr=śárkarā|sc=Deva|xs=Sanskrit}}
+* [[Sinhala]]: {{t|si|සීනි|tr=siini|xs=Sinhalese}}
 * Slovene: {{t+|sl|sladkor|m}}
 * Spanish: {{t+|es|azúcar|m}}
 * Yiddish: {{t+|yi|צוקער|m|sc=Hebr|xs=Yiddish}}
@@ -444,8 +444,8 @@ From {{OF.}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|lang=
 * Danish: {{t+|da|sukker|n}}
 * Finnish: {{t+|fi|sokeri}}
 * German: {{t+|de|Zucker|m}}
-* Greek: {{t+|el|σάκχαρο|n|sc=Grek|tr=sákcharo}}, {{t|el|ζάχαρο|n|sc=Grek|tr=zácharo}}
-* Japanese: {{t|ja|糖質|tr=[[とうしつ]], tōshitsu}}
+* Greek: {{t+|el|σάκχαρο|n|tr=sákcharo|sc=Grek}}, {{t|el|ζάχαρο|n|tr=zácharo|sc=Grek}}
+* Japanese: {{t|ja|糖質|tr=[[とうしつ]], tōshitsu|sc=Jpan}}
 {{trans-mid}}
 * Kurdish:
 *: Sorani: {{t|ku|شه‌کر|tr=shakir|sc=KUchar}}
@@ -459,12 +459,12 @@ From {{OF.}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|lang=
 * Danish: {{t+|da|sukker|n}}
 * Finnish: {{t+|fi|sokeri}}
 * German: {{t+|de|Zucker|m}}
-* Greek: {{t+|el|σάκχαρο|n|sc=Grek|tr=sákcharo}}, {{t|el|ζάχαρο|n|sc=Grek|tr=zácharo}}
-* Japanese: {{t|ja|糖|tr=[[とう]], tō}}, {{t|ja|糖類|tr=[[とうるい]], tōrui}}
+* Greek: {{t+|el|σάκχαρο|n|tr=sákcharo|sc=Grek}}, {{t|el|ζάχαρο|n|tr=zácharo|sc=Grek}}
+* Japanese: {{t+|ja|糖|tr=[[とう]], tō|sc=Jpan}}, {{t|ja|糖類|tr=[[とうるい]], tōrui|sc=Jpan}}
 {{trans-mid}}
 * Kurdish:
 *: Sorani: {{t|ku|شه‌کر|tr=shakir|sc=KUchar}}
-* Latvian: {{t|lv|cukurs|m}}
+* Latvian: {{t|lv|cukurs|m|xs=Latvian}}
 * Russian: {{t+|ru|сахар|m|tr=sáχar|sc=Cyrl}}
 * Slovene: {{t|sl|sladilo|n}}
 * Vietnamese: {{t+|vi|đường|xs=Vietnamese}}
@@ -571,7 +571,7 @@ From {{OF.}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|lang=
 * German: {{t|de|zuckern}}
 {{trans-mid}}
 * Italian: {{t+|it|zuccherare}}
-* Russian: {{t|ru|сахарить|tr=sáχarit'}} {{impf}}, {{t|ru|посахарить|tr=posáχarit'}} {{pf}}
+* Russian: {{t|ru|сахарить|tr=sáχarit'|sc=Cyrl}} {{impf}}, {{t|ru|посахарить|tr=posáχarit'|sc=Cyrl}} {{pf}}
 * Slovene: {{t|sl|sladkati}}
 {{trans-bottom}}
 
@@ -581,7 +581,7 @@ From {{OF.}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|lang=
 * German: {{t|de|versüßen}}
 {{trans-mid}}
 * Italian: {{t+|it|zuccherare}}
-* Russian: {{t|ru|подсластить|tr=podslastít'}} {{pf}}
+* Russian: {{t|ru|подсластить|tr=podslastít'|sc=Cyrl}} {{pf}}
 * Slovene: {{t|sl|sladkati}}
 {{trans-bottom}}
 
