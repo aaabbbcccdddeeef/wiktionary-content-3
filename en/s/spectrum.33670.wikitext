@@ -4,16 +4,19 @@
 ===Pronunciation===
 * {{a|Canada|UK}} {{IPA|/ˈspektrəm/}}
 * {{a|unknown}} {{IPA|/ˈspɛktrəm/}}, {{SAMPA|/"spEktr@m/}}
-:* Rhymes: [[Rhymes:English:-ɛktrəm|-ɛktrəm]]
+:*{{rhymes|ɛktrəm}}
 * {{audio|en-us-portmanteau.ogg|Audio (US)}}
 
 ===Noun===
 {{en-noun|spectr|a}}
 
 # A [[range]]; a [[continuous]], [[infinite]], [[one-dimensional]] set, possibly bounded by [[extremes]].
-# ''Specifically,'' a range of [[colour]]s representing [[light]] ([[electromagnetic radiation]]) of contiguous [[frequency|frequencies]]; hence ''[[electromagnetic spectrum]]'', ''[[visible spectrum]]'', ''[[ultraviolet spectrum]]'', etc.
+# Specifically, a range of [[colour]]s representing [[light]] ([[electromagnetic radiation]]) of contiguous [[frequency|frequencies]]; hence [[electromagnetic spectrum]], [[visible spectrum]], [[ultraviolet spectrum]], etc.
 # {{chemistry}} The pattern of [[absorption]] or [[emission]] of [[radiation]] produced by a substance when subjected to energy (radiation, heat, electricity, etc.).
-# {{linearalg}} of a [[bounded linear operator]] ''A'', the [[scalar]] values λ such that the [[operator]] ''A—λI'', where ''I'' denotes the identity operator, does not have a bounded [[inverse]]
+# {{linearalg}} Of a [[bounded linear operator]] ''A'', the [[scalar]] values λ such that the [[operator]] ''A—λI'', where ''I'' denotes the identity operator, does not have a bounded [[inverse]].
+
+====Derived terms====
+* [[light spectrum]]
 
 ====Translations====
 {{trans-top|range}}
@@ -21,17 +24,17 @@
 {{trans-mid}}
 * Japanese: {{t|ja|sc=Jpan|スペクトル|tr=supekutoru}}
 * Romanian: {{t-|ro|spectru|n}}
-* Russian: [[спектр]] (sp'ektr) {{m}}, [[диапазон]] (diapazón) {{m}}
+* Russian: {{t|ru|спектр|tr=sp'ektr|m|sc=Cyrl}}, {{t|ru|диапазон|tr=diapazón|m|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|range of colors}}
 * Czech: {{t-|cs|spektrum|n}}
-* Hebrew: {{he-translation|ספקטרום|spéktrum}}
+* Hebrew: {{t|he|ספקטרום|tr=spéktrum}}
 * Italian: {{t+|it|spettro}}
 {{trans-mid}}
 * Japanese: {{t|ja|sc=Jpan|スペクトル|tr=supekutoru}}, {{t|ja|sc=Jpan|分光特性|tr=bunkō tokusē}}
 * Romanian: {{t-|ro|spectru|n}}
-* Russian: [[спектр]] (sp'ektr) {{m}}
+* Russian: {{t|ru|спектр|tr=sp'ektr|m|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|chemistry: a pattern of absorption or emission of radiation}}
@@ -44,7 +47,7 @@
 {{trans-mid}}
 * Japanese: {{t|ja|sc=Jpan|スペクトル|tr=supekutoru}}
 * Romanian: {{t-|ro|spectru|n}}
-* Russian: [[спектр]] (sp'ektr) {{m}}
+* Russian: {{t|ru|спектр|sp'ektr|m|sc=Cyrl}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -58,24 +61,20 @@
 *: Mandarin: guāngpǔ 
 {{trans-bottom}}
 
-====See also====
-* {{sense|range of colours}} [[light spectrum]]
-
 [[Category:English nouns with irregular plurals]]
+[[Category:Energy]]
 
 ----
 
 ==Latin==
 
 ===Noun===
-'''spectrum, [[Wiktionary Appendix:Latin second declension|spectri]]''' ''n''
+{{infl|la|noun|[[Wiktionary Appendix:Latin second declension|second declension]]|spectri|g=n}}
 
 # a [[specter]]
 
-===Related terms===
+====Related terms====
 *[[spectral]]
-
-[[Category:Energy]]
 
 [[zh-min-nan:spectrum]]
 [[fa:spectrum]]
