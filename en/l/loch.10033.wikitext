@@ -9,16 +9,16 @@
 *: {{rhymes|ɒk}}
 
 ===Etymology===
-From {{Gd.}} ''[[#Scottish Gaelic|loch]]''.
+From {{Gd.}} {{term|loch|lang=gd}}.
 
 ====Noun====
 {{en-noun}}
 
-# {{context|Scotland}} A [[lake]]; a [[bay]] or arm of the [[sea]].
+# {{Scotland}} A [[lake]]; a [[bay]] or arm of the [[sea]].
 
 =====Translations=====
 {{trans-top|lake, bay or arm of the sea}}
-* Finnish: [[järvi]]
+* Finnish: {{t|fi|järvi}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -32,8 +32,8 @@ From {{Gd.}} ''[[#Scottish Gaelic|loch]]''.
 ===Noun===
 {{fr-noun|m}}
 
-# {{nautical|lang=fr}} A [[log]].
-# A [[#English|loch]].
+# {{nautical|lang=fr}} a [[log]]
+# A [[#English|loch]]
 
 ----
 
@@ -58,29 +58,26 @@ From {{Gd.}} ''[[#Scottish Gaelic|loch]]''.
 * {{IPA|/lɔx/}}
 
 ===Etymology===
-From {{Gd.|sco}} ''[[#Scottish Gaelic|loch]]''.
+From {{Gd.|sco}} {{term|loch|lang=gd}}.
 
-====Noun====
-{{rfc-level|Noun at L4+ not in L3 Ety section}}
+===Noun===
 {{sco-noun}}
 
-# [[lake|Lake]], [[#English|loch]].
+# [[lake]], [[#English|loch]]
 
 ----
 
 ==Scottish Gaelic==
 
 ===Pronunciation===
-* X-SAMPA: lOx
+* {{X-SAMPA|lOx}}
 
 ===Noun===
-'''loch''' {{f}} (''genitive'' '''[[locha]]''', ''plural'' '''[[lochan]]''')
+{{infl|gd|noun|g=f|genitive|locha|plural|lochan}}
 
-# [[lake|Lake]].
-# Arm of the [[sea]].
-# [[fiord|Fiord]].
-
-[[Category:Scottish Gaelic nouns]]
+# [[lake]]
+# arm of the [[sea]]
+# [[fiord]]
 
 [[fr:loch]]
 [[ga:loch]]
