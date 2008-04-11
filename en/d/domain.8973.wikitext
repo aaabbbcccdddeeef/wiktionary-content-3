@@ -3,10 +3,10 @@
 {{rank|looks|running|garden|887|domain|touch|higher|military}}
 
 ===Pronunciation===
-*(''[[Received Pronunciation|UK]]'') {{IPA|/dəʊˈmeɪn/}}, {{SAMPA|/d@U"meIn/}}
-*(''[[General American|US]]'') {{IPA|/doʊˈmeɪn/}}, {{SAMPA|/doU"meIn/}}
-*{{audio|en-us-domain.ogg|Audio (US)}}
-*Rhymes: [[Rhymes:English:-eɪn|-eɪn]]
+* (''[[Received Pronunciation|UK]]'') {{IPA|/dəʊˈmeɪn/}}, {{SAMPA|/d@U"meIn/}}
+* (''[[General American|US]]'') {{IPA|/doʊˈmeɪn/}}, {{SAMPA|/doU"meIn/}}
+* {{audio|en-us-domain.ogg|Audio (US)}}
+* Rhymes: [[Rhymes:English:-eɪn|-eɪn]]
 
 ===Noun===
 {{en-noun}}
@@ -16,8 +16,8 @@
 # A [[group]] of [[related]] [[item]]s, [[topic]]s, or [[subject]]s.
 # {{math}} The [[set]] of all [[possible]] mathematical entities ([[point]]s) where a given [[function]] is defined.
 # {{context|computing|Internet}} Any [[Domain Name System|DNS]] [[domain name]], particularly one which has been [[delegate|delegated]] and has become representative of the delegated domain name and it's [[subdomain|subdomains]]
-#*''BIND 9 Administrator Reference Manual (9.3.2)'', Copyright © 2004, 2005 Internet Systems Consortium, Inc. ("ISC"), Copyright © 2000-2003 Internet Software Consortium, http://www.bind9.net/manual/bind/9.3.2/Bv9ARM.ch01.html
-#*:Every name in the DNS tree is a '''domain''', even if it is terminal, that is, has no subdomains.
+#* ''BIND 9 Administrator Reference Manual (9.3.2)'', Copyright © 2004, 2005 Internet Systems Consortium, Inc. ("ISC"), Copyright © 2000-2003 Internet Software Consortium, http://www.bind9.net/manual/bind/9.3.2/Bv9ARM.ch01.html
+#*: Every name in the DNS tree is a '''domain''', even if it is terminal, that is, has no subdomains.
 # {{context|computing|internet}} A collection of [[Domain Name System|DNS]] or DNS-like [[domain name|domain names]] consisting of a [[delegate|delegated]] [[domain name]] and all its [[subdomain|subdomains]]
 # {{computing}} A collection of information having to do with a '''domain''', the [[computer|computers]] named in the '''domain''', and the [[network]] on which the computers named in the '''domain''' reside
 # {{computing}} The collection of computers identified by a '''domain''''s [[domain name|domain names]]
@@ -64,9 +64,9 @@
 * Finnish: {{t|fi|vaikutuspiiri}}
 * French: {{t+|fr|domaine|f}}
 * Italian: [[sfera]] [[di]] [[influenza]] {{f}}
-{{trans-mid}}
 * Polish: [[dziedzina]] {{f}}
 * Portuguese: {{t+|pt|domínio|m}}
+{{trans-mid}}
 * [[Scottish Gaelic]]: [[tighearnas]] {{m}}, [[tighearnachd]] {{f}}
 * Spanish: {{t+|es|esfera|f}}
 * Swedish: {{t+|sv|domän|c}}
@@ -75,9 +75,9 @@
 
 {{trans-top|group of related items}}
 * Finnish: {{t+|fi|luokka}}, {{t+|fi|laji}}, {{t+|fi|suku}}, {{t+|fi|ala}}
+* Polish: [[dziedzina]] {{f}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|domínio|m}}
-* Polish: [[dziedzina]] {{f}}
 {{trans-bottom}}
 
 {{trans-top|(mathematics) set of points}}
@@ -94,15 +94,15 @@
 
 {{trans-top|DNS domain name}}
 * Italian: {{t+|it|dominio|m}}
-{{trans-mid}}
 * Polish: [[domena]] {{f}}
+{{trans-mid}}
 * Portuguese: {{t+|pt|domínio|m}}
 * Vietnamese: [[không gian tên]], [[tên]] [[miền]] [[không gian]]
 {{trans-bottom}}
 
 {{trans-top|collection of DNS domain names}}
-{{trans-mid}}
 * Polish: [[domena]] {{f}}
+{{trans-mid}}
 * Portuguese: {{t+|pt|domínio|m}}
 {{trans-bottom}}
 
@@ -113,9 +113,9 @@
 {{trans-bottom}}
 
 {{trans-top|collection of computers}}
-{{trans-mid}}
 * Polish: [[domena]] {{f}}
 * Portuguese: {{t+|pt|domínio|m}}
+{{trans-mid}}
 * Vietnamese: [[không gian tên]], [[tên]] [[miền]] [[không gian]]
 {{trans-bottom}}
 
@@ -127,8 +127,8 @@
 
 {{ttbc-top}}
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
-*{{ttbc|German}}: [[Domäne]] {{f}}
-*{{ttbc|Romanian}}: [[domeniu]], [[sfera]]
+* {{ttbc|German}}: [[Domäne]] {{f}}
+* {{ttbc|Romanian}}: [[domeniu]], [[sfera]]
 {{trans-bottom}}
 
 [[ar:domain]]
