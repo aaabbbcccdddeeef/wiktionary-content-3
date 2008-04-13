@@ -228,13 +228,13 @@
 ==Irish==
 
 ===Pronunciation===
-* {{IPA|[fʲaɾˠ]}}
+* {{IPA|lang=ga|[fʲaɾˠ]}}
 
 ===Etymology===
 From {{OIr.|ga}} {{term|fer|lang=sga}}, from {{proto|Celtic|''wiro-''|lang=ga}}, from {{proto|Indo-European|''wiro-''|lang=ga}}. Compare Welsh {{term|gŵr|lang=cy}}, Latin {{term|vir|lang=la}}, Old English {{term|wer|lang=ang}}.
 
 ===Noun===
-{{infl|ga|noun|g=m|genitive|fir|plural|fir}}
+{{infl|ga|noun|g=m}}
 
 # [[man]]
 # [[husband]], [[male]] [[spouse]]
@@ -242,6 +242,7 @@ From {{OIr.|ga}} {{term|fer|lang=sga}}, from {{proto|Celtic|''wiro-''|lang=ga}},
 ====Declension====
 {{ga noun m1|f|ear|ir}}
 
+====Mutation====
 {{ga mut cons|f|ear}}
 
 ----
