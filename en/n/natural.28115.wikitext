@@ -13,7 +13,8 @@
 # <!--DefE-->Without artificial [[additive]]s.
 # <!--DefF-->As expected.
 #: ''It's natural for business to be slow on Tuesdays.''
-# <!--DefG-->{{color}} Almost [[white]], with tints of grey, yellow or brown; also, the color of a material that has not been adjusted or added to.
+# <!--DefG-->{{color}} Almost [[white]], with tints of grey, yellow or brown.
+# <!--DefG2-->{{color}} The color of a material that has not been adjusted or added to.
 # <!--DefH-->{{music}} Neither [[sharp]] or [[flat]].  Denoted ♮.
 # <!--DefI--> Without, or prior to, [[modification]] or [[adjustment]].
 #: ''So-called second-generation [[w:Breast implant|silicone breast implants]] looked and felt more like the '''natural''' breast.''
@@ -32,7 +33,7 @@
 * Czech: {{t-|cs|přírodní|m}}
 * Dutch: {{t+|nl|natuurlijk}}
 * Esperanto: {{t-|eo|natura|xs=Esperanto}}
-* Finnish: {{t-|fi|luonnollinen}}
+* Finnish: {{t-|fi|luonnollinen}}, {{t|fi|luonnonmukainen}}
 * French: {{t+|fr|naturel}}
 * German: {{t+|de|natürlich}}
 * Hungarian: {{t+|hu|természetes}}
@@ -81,7 +82,16 @@
 {{trans-bottom}}
 
 <!--DefG-->
-{{trans-top|colour}}
+{{trans-top|colour: almost white}}
+* Finnish: [[luonnonvalkoinen]]
+* Polish: {{t+|pl|cielisty|m}}
+{{trans-mid}}
+* Serbian:
+*: Roman: [[neutralna]] {{f}}
+{{trans-bottom}}
+
+<!--DefG2-->
+{{trans-top|colour: not adjusted}}
 * Finnish: [[luonnonvärinen]], [[luonnollinen]]
 * Polish: {{t+|pl|cielisty|m}}
 {{trans-mid}}
@@ -89,9 +99,17 @@
 *: Roman: [[neutralna]] {{f}}
 {{trans-bottom}}
 
-<!--DefH-->'''musically not sharp or flat'''
+<!--DefH-->
+{{trans-top|musically not sharp or flat}}
+* Finnish: {{t|fi|luonnollinen}}
+{{trans-mid}}
+{{trans-bottom}}
 
-<!--DefI-->'''without adjustment'''
+<!--DefI-->
+{{trans-top|without adjustment}}
+* Finnish: {{t|fi|luonnollinen}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ===Noun===
 {{en-noun}}
