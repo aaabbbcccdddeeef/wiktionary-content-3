@@ -137,13 +137,48 @@ From {{OE.}} '''[[teru]]''', '''[[teoru]]''', from Germanic ''*terwo-'', probabl
 * {{IPA|lang=ga|[t̪ˠaɾˠ]}}
 
 ===Verb===
-{{infl|ga|irregular verb|present|tagann|alternative present|tig|past|tháinig|future|tiocfaidh|conditional|thiocfadh|past participle|tagtha|verbal noun|teacht}}
+{{ga-verb
+ |irreg=yes
+ |pres=tagann
+ |pres1s=tagaim
+ |pres1p=tagaimid
+ |presaut=tagtar
+ |impf=thagadh
+ |impf1s=thagainn
+ |impf2s=thagtá
+ |impf1p=thagaimis
+ |impf3p=thagaidís
+ |impfaut=thagtaí
+ |past=tháinig
+ |past1p=thángamar
+ |pastaut=thángthas
+ |fut=tiocfaidh
+ |fut1p=tiocfaimid
+ |futaut=tiocfar
+ |cond=thiocfadh
+ |cond1s=thiocfainn
+ |cond2s=thiocfá
+ |cond1p=thiocfaimis
+ |cond3p=tiocfaidis
+ |condaut=thiocfaí
+ |subj=taga
+ |psbj=tagadh
+ |psbj1s=tagainn
+ |psbj2s=tagtá
+ |psbj1p=tagaimis
+ |psbj3p=tagaidís
+ |psbjaut=tagtaí
+ |impv2p=tagaigí
+ |pp=tagtha
+ |vn=teacht
+}}
 
 # to [[come]]
 
 ====Mutation====
 {{ga mut cons|t|ar}}
 
+{{-}}
 ----
 
 ==Maltese==
