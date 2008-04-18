@@ -2,8 +2,13 @@
 
 ===Noun===
 
-'''[[programmable]] [[read]]-[[only]] [[memory]]'''
+{{en-noun|-|sg=[[programmable]] [[read]]-[[only]] [[memory]]}} (abbreviated as [[PROM]])
 
-# ([[PROM]], [[EPROM]]) Memory which acts as read-only in the sense that it doesn't require periodic [[refresh]]ing or battery backup, but acts as [[dynamic memory]] in the sense that it can be modified (''[[flashed]]'') or replaced as needed.
+# {{electronics}} a type of [[read-only memory]] which can be written to once ([[write-once read-many memory]] / [[WORM]]), and thereafter becomes fixed in value
 
-[[Category:Computing]]
+====Related terms====
+* [[EEPROM]]
+* [[EPROM]]
+* [[ROM]]
+* [[flash memory]]
+* [[RAM]]
