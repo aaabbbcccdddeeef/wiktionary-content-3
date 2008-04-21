@@ -141,7 +141,7 @@ Possibly from tilting on lists in jousts.[http://www.drbilllong.com/CurrentEvent
 ==Bosnian==
 
 ===Etymology===
-From {{OCS.|bs}} {{term|sc=Cyrl|листъ|tr=listŭ|lang=cu}} < {{proto|Slavic|listъ|lang=bs}}.
+From {{proto|Slavic|listъ|lang=bs|leaf}}.
 
 ===Noun===
 {{bs-noun|g=m|listovi}}
@@ -169,7 +169,7 @@ From {{OCS.|bs}} {{term|sc=Cyrl|листъ|tr=listŭ|lang=cu}} < {{proto|Slavic|
 ==Croatian==
 
 ===Etymology===
-From {{OCS.|hr}} {{term|sc=Cyrl|листъ|tr=listŭ|lang=cu}}, from {{proto|Slavic|listъ|lang=hr}}.
+From {{proto|Slavic|listъ|lang=hr|leaf}}.
 
 ===Noun===
 {{hr-noun|m}}
@@ -183,19 +183,14 @@ From {{OCS.|hr}} {{term|sc=Cyrl|листъ|tr=listŭ|lang=cu}}, from {{proto|Sla
 # Special purpose certificate, e.g. of birth, ownership etc.
 
 ====Declension====
-{{hr-decl-noun
-|list|listovi
-|lista|listova
-|listu|listovima
-|list|listove
-|liste|listovi
-|listu|listovima
-|listom|listovima
-}}
+{{hr-decl-dar}}
 
 ----
 
 ==Czech==
+
+===Etymology===
+From {{proto|Slavic|listъ|lang=cs|leaf}}.
 
 ===Pronunciation===
 * {{audio|Cs-list.ogg|audio}}
@@ -220,7 +215,7 @@ From {{OCS.|hr}} {{term|sc=Cyrl|листъ|tr=listŭ|lang=cu}}, from {{proto|Sla
 ==Dutch==
 
 ===Pronunciation===
-{{IPA/lɪst/}}
+* {{IPA|/lɪst/}}
 
 ===Noun===
 '''list''' {{f}}
@@ -274,7 +269,7 @@ From {{OCS.|hr}} {{term|sc=Cyrl|листъ|tr=listŭ|lang=cu}}, from {{proto|Sla
 ==Old English==
 
 ===Etymology===
-Germanic ''*listiz''.  Cognate with Old Saxon ''list'' (Dutch ''[[#Dutch|list]]''), Old High German ''list'' (German ''[[List]]''), Old Norse ''[[#Old Norse|list]]'' (Swedish ''[[#Swedish|list]]'').
+From {{proto|Germanic|listiz|lang=ang}}.  Cognate with Old Saxon ''list'' (Dutch ''[[#Dutch|list]]''), Old High German ''list'' (German ''[[List]]''), Old Norse ''[[#Old Norse|list]]'' (Swedish ''[[#Swedish|list]]'').
 
 ===Pronunciation===
 {{IPA|/list/}}
@@ -290,6 +285,9 @@ Germanic ''*listiz''.  Cognate with Old Saxon ''list'' (Dutch ''[[#Dutch|list]]'
 ----
 
 ==Polish==
+
+===Etymology===
+From {{proto|Slavic|listъ|lang=pl|leaf}}.
 
 ===Pronunciation===
 * {{IPA|[list]|lang=pl}}
@@ -319,7 +317,7 @@ Germanic ''*listiz''.  Cognate with Old Saxon ''list'' (Dutch ''[[#Dutch|list]]'
 ==Serbian==
 
 ===Etymology===
-From {{OCS.|sr}} {{term|sc=Cyrl|листъ|tr=listŭ|lang=cu}} < {{proto|Slavic|listъ|lang=sr}}.
+From {{proto|Slavic|listъ|lang=sr|leaf}}.
 
 ===Noun===
 {{sr-noun|g=m|pl=listovi|cyr=лист}}
@@ -346,8 +344,11 @@ From {{OCS.|sr}} {{term|sc=Cyrl|листъ|tr=listŭ|lang=cu}} < {{proto|Slavic|
 
 ==Slovak==
 
+===Etymology===
+From {{proto|Slavic|listъ|lang=sk|leaf}}.
+
 ===Noun===
-'''list'''
+{{infl|sk|noun|g=m}}
 
 # [[letter]]; a written message
 
@@ -355,8 +356,11 @@ From {{OCS.|sr}} {{term|sc=Cyrl|листъ|tr=listŭ|lang=cu}} < {{proto|Slavic|
 
 ==Slovene==
 
+===Etymology===
+From {{proto|Slavic|listъ|lang=sl|leaf}}.
+
 ===Noun===
-'''list''' {{m}} {{s}} ({{p}}: '''liste''' or '''listje''')
+{{infl|sl|noun|g=m|plural|liste}}
 
 # piece of [[paper]]
 # [[leaf]]
