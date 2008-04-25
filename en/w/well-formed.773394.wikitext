@@ -1,10 +1,17 @@
+{{rfc|native speaker needed}}
 ==English==
 
 ===Adjective===
 {{en-adj|-}}
 
-#Correctly written, [[syntactically]] correct.  Expressed obeying rules for constructing formulas.
-#''If the parser says it is good, then it must be '''well-formed''' and is part of the language.''
+# {{context|linguistics|computing}} Correctly written, [[syntactically]] correct.  Expressed obeying rules for constructing formulas.
+#: ''If the parser says it is good, then it must be '''well-formed''' and is part of the language.''
+
+====Translations====
+{{trans-top|syntactically correct}}
+* Dutch: {{t|nl|welgevormd}}, {{t|nl|goed}} {{t|nl|gevormd}}
+{{trans-mid}}
+{{trans-bottom}}
 
 [[vi:well-formed]]
 [[tr:well-formed]]
