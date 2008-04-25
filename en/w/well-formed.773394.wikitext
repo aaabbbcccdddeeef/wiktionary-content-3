@@ -2,10 +2,13 @@
 ==English==
 
 ===Adjective===
-{{en-adj|-}}
+{{en-adj|pos=[[well]]-[[formed]]|-}}
 
-# {{context|linguistics|computing}} Correctly written, [[syntactically]] correct.  Expressed obeying rules for constructing formulas.
+# {{context|linguistics|computing}} Correctly written; [[syntactically]] correct; expressed in a way that obeys rules for constructing formulas in a specified language.
 #: ''If the parser says it is good, then it must be '''well-formed''' and is part of the language.''
+
+====Usage notes====
+* In the context of certain computer languages, such as [[XML]], {{term||well-formed}} may have a very specific and precisely defined meaning.
 
 ====Translations====
 {{trans-top|syntactically correct}}
