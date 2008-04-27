@@ -1,12 +1,16 @@
 ==English==
 
+{{rfp}}
+
 ===Adjective===
 {{en-adj}}
 
 # [[cooperating]]
+{{rfex}}
 
 ====Translations====
 {{trans-top|cooperating}}
+* Dutch: {{t|nl|behulpzaam}}
 * Spanish: {{t-|es|coeficiente}}
 {{trans-mid}}
 {{trans-bottom}}
@@ -14,12 +18,13 @@
 ===Noun===
 {{en-noun}}
 
-# A [[constant]] by which an [[algebraic]] [[term]] is multiplied
-# A number, [[value]] or item that serves as a [[measure]] of some [[property]] or characteristic.
+# {{math}} A [[constant]] by which an [[algebraic]] [[term]] is [[multiply|multiplied]].
+# A [[number]], [[value]] or [[item]] that serves as a [[measure]] of some [[property]] or [[characteristic]].
 
 ====Translations====
-{{trans-top|an algebraic constant}}
+{{trans-top|algebraic constant}}
 * Czech: {{t-|cs|koeficient|m}}, {{t-|cs|součinitel|m}}
+* Dutch: {{t|nl|coëfficiënt|m}}
 * Finnish: {{t-|fi|kerroin}}
 * French: {{t+|fr|coefficient|m}}
 * Italian: {{t-|it|coefficiente|m}}
@@ -28,13 +33,25 @@
 * Hungarian: [[együttható]]
 * Spanish: {{t-|es|coeficiente|m}}
 {{trans-bottom}}
+
+{{trans-top|measure of some property or characteristic}}
+* {{ttbc|Czech}}: {{t-|cs|koeficient|m}}, {{t-|cs|součinitel|m}}
+* Dutch: {{t|nl|coëfficiënt|m}}
+* {{ttbc|Finnish}}: {{t-|fi|kerroin}}
+* {{ttbc|French}}: {{t+|fr|coefficient|m}}
+* {{ttbc|Italian}}: {{t-|it|coefficiente|m}}
+{{trans-mid}}
+* {{ttbc|German}}: {{t-|de|Koeffizient|m}}
+* {{ttbc|Hungarian}}: [[együttható]]
+* {{ttbc|Spanish}}: {{t-|es|coeficiente|m}}
+{{trans-bottom}}
+
 ----
 
 ==French==
 
 ===Pronunciation===
-*[[w:IPA|IPA]]: /kɔ.e.fi.sjɑ̃/
-*[[w:SAMPA|SAMPA]]: /kO.e.fi.sjA~/
+* {{IPA|/kɔ.e.fi.sjɑ̃/|lang=fr}}, {{SAMPA|/kO.e.fi.sjA~/|lang=fr}}
 
 ===Noun===
 {{fr-noun|m}}
