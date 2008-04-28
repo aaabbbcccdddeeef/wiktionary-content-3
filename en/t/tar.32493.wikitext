@@ -137,8 +137,12 @@ From {{OE.}} '''[[teru]]''', '''[[teoru]]''', from Germanic ''*terwo-'', probabl
 * {{IPA|lang=ga|[t̪ˠaɾˠ]}}
 
 ===Verb===
-{{ga-verb
- |irreg=yes
+{{ga-verb|irreg=yes}}
+
+# to [[come]]
+
+====Conjugation====
+{{ga-verb-conj
  |pres=tagann
  |pres1s=tagaim
  |pres1p=tagaimid
@@ -173,12 +177,9 @@ From {{OE.}} '''[[teru]]''', '''[[teoru]]''', from Germanic ''*terwo-'', probabl
  |vn=teacht
 }}
 
-# to [[come]]
-
 ====Mutation====
 {{ga mut cons|t|ar}}
 
-{{-}}
 ----
 
 ==Maltese==
