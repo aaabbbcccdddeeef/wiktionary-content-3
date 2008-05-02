@@ -142,39 +142,16 @@ From {{OE.}} '''[[teru]]''', '''[[teoru]]''', from Germanic ''*terwo-'', probabl
 # to [[come]]
 
 ====Conjugation====
-{{ga-verb-conj
- |pres=tagann
- |pres1s=tagaim
- |pres1p=tagaimid
- |presaut=tagtar
- |impf=thagadh
- |impf1s=thagainn
- |impf2s=thagtá
- |impf1p=thagaimis
- |impf3p=thagaidís
- |impfaut=thagtaí
- |past=tháinig
- |past1p=thángamar
- |pastaut=thángthas
- |fut=tiocfaidh
- |fut1p=tiocfaimid
- |futaut=tiocfar
- |cond=thiocfadh
- |cond1s=thiocfainn
- |cond2s=thiocfá
- |cond1p=thiocfaimis
- |cond3p=tiocfaidis
- |condaut=thiocfaí
- |subj=taga
- |psbj=tagadh
- |psbj1s=tagainn
- |psbj2s=tagtá
- |psbj1p=tagaimis
- |psbj3p=tagaidís
- |psbjaut=tagtaí
- |impv2p=tagaigí
- |pp=tagtha
- |vn=teacht
+{{ga-verb-conj irreg|t|a|g|q=broad
+|past1s=thánag
+|past2s=thángais
+|past1p=thángamar
+|past2p=thángabhar
+|past3p=thángadar
+|pastaut=thángthas
+|fut1=t|fut2=io|fut3=c|futq=broad
+|impv2s=tar
+|vn=teacht
 }}
 
 ====Mutation====
