@@ -178,15 +178,42 @@ http://elements.vanderkrogt.net/elem/ne.html
 # [[tetra]], some fish of genus ''Paracheirodon''
 
 ====Declension====
-{{pl-decl-noun
-|[1,2,3] neon|[2,3] neony
-|[1,2] neonu, [3] neona|[2,3] neonów
-|[1,2,3] neonowi| [2,3] neonom
-|[1,2] neon, [3] neona|[2,3] neony
-|[1,2,3] neonem|[2,3] neonami
-|[1,2,3] neonie|[2,3] neonach
-|[1,2,3] neonie|[2,3] neony
+{|
+|-
+|#1
+|#2
+|-
+|{{pl-decl-noun-sing
+|neon
+|neonu
+|neonowi
+|neon
+|neonem
+|neonie
+|neonie
 }}
+|{{pl-decl-noun
+|neon|neony
+|neonu|neonów
+|neonowi|neonom
+|neon|neony
+|neonem|neonami
+|neonie|neonach
+|neonie|neony
+}}
+|-
+|#3
+|-
+|{{pl-decl-noun
+|neon|neony
+|neona|neonów
+|neonowi|neonom
+|neona|neony
+|neonem|neonami
+|neonie|neonach
+|neonie|neony
+}}
+|}
 
 [[ast:neon]]
 [[zh-min-nan:neon]]
