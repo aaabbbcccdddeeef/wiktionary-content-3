@@ -1,7 +1,6 @@
 ==English==
-
 ===Pronunciation===
-* {{IPA|/kæʃ/}}
+* {{enPR|kăsh}}, {{IPA|/kæʃ/}}, {{SAMPA|k{S}}
 * {{audio|en-us-cash.ogg|Audio (US)}}
 *: {{rhymes|æʃ}}
 
@@ -9,7 +8,7 @@
 * [[cache]]
 
 ===Etymology 1===
-From {{MF.}} ''[[caisse]]'' (money box) < {{Pr.}} ''[[caissa]]'' < {{L.}} ''[[capsa]]'' (box, case) < ''[[capere]]'' (to take, to seize, to receive) < {{proto|Indo-European|kap-|to grasp}}.
+From {{MF.}} ''[[caisse]]'', money box, from {{Pr.}} ''[[caissa]]'', from {{L.}} ''[[capsa]]'', box, case, from ''[[capere]]'', to take, to seize, to receive, from {{proto|Indo-European|kap-|to grasp}}.
 
 ====Noun====
 {{en-noun|-}}
@@ -17,11 +16,16 @@ From {{MF.}} ''[[caisse]]'' (money box) < {{Pr.}} ''[[caissa]]'' < {{L.}} ''[[ca
 # [[money|Money]] in the form of [[note]]s/[[bill]]s and [[coin]]s, as opposed to [[cheque]]s/[[check]]s or [[electronic]] [[transaction]]s.
 
 =====Derived terms=====
+{{rel-top|Terms derived from the noun ''cash''}}
 * [[cashback]]
 * [[cash box]]
 * [[cash cow]]
+{{rel-mid}}
 * [[cash flow]]
-* [[cash up]]
+* [[cash point]]
+* [[cash register]]
+<!--this from the verb: * [[cash up]]-->
+{{rel-bottom}}
 
 =====Translations=====
 {{trans-top|money in the form of notes/bills and coins}}
@@ -55,19 +59,24 @@ From {{MF.}} ''[[caisse]]'' (money box) < {{Pr.}} ''[[caissa]]'' < {{L.}} ''[[ca
 ====Verb====
 {{en-verb|cash|es}}
 
-# To exchange a [[check]] for money in the form of notes/bills.
+#{{context|transitive}} To exchange (a check/cheque) for money in the form of notes/bills.
+
+=====Derived terms=====
+{{rel-top|Terms derived from the verb ''to cash''}}
+*[[cash in]]
+*[[cash in on]]
+{{rel-mid}}
+*[[cash out]]
+*[[cash up]]
+{{rel-bottom}}
 
 =====Translations=====
-{{trans-top|exchange a check for money}}
+{{trans-top|exchange (a check/cheque) for money}}
 * Dutch: {{t+|nl|innen}}
 * Russian: [[обналичивать]] (obnalíčivat') {{impf}}, [[обналичить]] (obnalíčit') {{pf}}
 {{trans-mid}}
 * Slovene: [[vnovčiti]]
 {{trans-bottom}}
-
-=====See also=====
-* [[cash in]]
-* [[cash out]]
 
 ===Etymology 2===
 From {{Tamil.}} '''[[காசு]]''' (''kāsu'').
@@ -78,23 +87,20 @@ From {{Tamil.}} '''[[காசு]]''' (''kāsu'').
 # Any of several low-denomination coins of India or China, especially the Chinese copper coin.
 
 ----
-
 ==Dutch==
-
 ===Pronunciation===
 * {{IPA|/kæʃ/}}
 
 ===Noun===
 {{nl-noun2|m|g2=f|-|-}}
 
-# [[#English|Cash]].
+# [[#English|cash]]
 
 ===Adjective===
 {{nl-adj|infl=cash|-|-|-}}
 
 # {{context|of money|lang=nl}} In coins and bills/notes.
-#* ''Heb je '''cash''' geld?''
-#** Do you have cash?
+#* ''Heb je '''cash''' geld?'' &mdash; Do you have cash?
 
 ====Synonyms====
 * [[baar#Dutch|baar]]
