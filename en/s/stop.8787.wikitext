@@ -46,16 +46,16 @@ From {{ME.}} {{term|stoppen||to stop}}.
 * [[Catalan]]: {{t-|ca|parada|f}}
 * Czech: {{t-|cs|zastávka|f}}
 * Dutch: {{t|nl|halte|f}}
-* Esperanto: {{t|eo|haltejo}}
+* Esperanto: {{t|eo|haltejo|xs=Esperanto}}
 * Finnish: {{t+|fi|pysäkki}}, {{t|fi|seisake}}
 * French: {{t+|fr|arrêt|m}}
 {{trans-mid}}
 * German: {{t+|de|Haltestelle|f}}, {{t+|de|Busstopp|m}}
-* Greek: {{t+|el|στάση|f}}
+* Greek: {{t+|el|στάση|f|sc=Grek}}
 * Portuguese: {{t|pt|ponto final|m}}
-* Polish: {{t|pl|przystanek|m}}
+* Polish: {{t+|pl|przystanek|m}}
 * Russian: {{t+|ru|остановка|f|tr=ostanóvka|sc=Cyrl}}
-* Slovak: {{t|sk|zastávka|f}}
+* Slovak: {{t-|sk|zastávka|f}}
 * Spanish: {{t+|es|parada|f}}
 * Swedish: {{t|sv|hållplats|c}}
 {{trans-bottom}}
@@ -68,7 +68,7 @@ From {{ME.}} {{term|stoppen||to stop}}.
 * French: {{t+|fr|arrêt|m}}
 {{trans-mid}}
 * German: {{t+|de|Einhalt|m}}, {{t+|de|Stopp|m}}
-* Greek: {{t+|el|στάση|f}}
+* Greek: {{t+|el|στάση|f|sc=Grek}}
 * Russian: {{t+|ru|остановка|f|tr=ostanóvka|sc=Cyrl}}
 * Swedish: {{t+|sv|stopp|n}}
 {{trans-bottom}}
@@ -76,7 +76,7 @@ From {{ME.}} {{term|stoppen||to stop}}.
 {{trans-top|device to block path}}
 * Dutch: {{t+|nl|stopper|m}}
 * German: {{t+|de|Stopper|m}}
-* Greek: {{t+|el|στοπ|n}}
+* Greek: {{t+|el|στοπ|n|sc=Grek}}
 {{trans-mid}}
 * Russian: {{t|ru|ограничитель|m|tr=ograničítel’|sc=Cyrl}}, {{t|ru|останов|m|tr=ostanóv|sc=Cyrl}}, {{t|ru|стопор|m|tr=stópor|sc=Cyrl}}
 * Swedish: {{t+|sv|stopp|n}}
@@ -189,11 +189,11 @@ From {{ME.}} {{term|stoppen||to stop}}.
 * Chinese: [[停]] (tíng)
 * Czech: {{t-|cs|zastavit}}
 * Dutch: [[stoppen#Dutch|stoppen]], [[halthouden]]
-* Finnish: [[pysähtyä]]
+* Finnish: {{t-|fi|pysähtyä}}
 * German: [[anhalten]], [[stehen bleiben]], [[stoppen#German|stoppen]]
 * Hebrew: {{t-|he|עצר|alt=עָצַר|tr=`atsár|sc=Hebr}}
 * Hungarian: [[állni]], [[megállni]]
-* Irish: {{t|ga|stad}}
+* Irish: {{t-|ga|stad|xs=Irish}}
 {{trans-mid}}
 * Japanese: [[止まる]], (とまる, tomaru)
 * Kurdish: {{KUchar|[[ڕاوه‌سته‌]]}}, {{KUchar|[[بوه‌سته‌]]}}
@@ -213,12 +213,12 @@ From {{ME.}} {{term|stoppen||to stop}}.
 * [[Catalan]]: [[parar]], [[deixar]]
 * Chinese: [[停]] (tíng)
 * Dutch: {{t+|nl|stoppen}}, {{t-|nl|ophouden}}
-* Finnish: [[pysähtyä]]
+* Finnish: {{t-|fi|pysähtyä}}
 * German: {{t+|de|aufhören}}
 * Hebrew: {{t|he|נגמר|tr=nigmár|sc=Hebr}}
 * Hungarian: [[abbahagyni]]
 {{trans-mid}}
-* Irish: {{t|ga|stad}}
+* Irish: {{t-|ga|stad|xs=Irish}}
 * Japanese: [[止まる]], (とまる, tomaru)
 * Korean: [[구치다]] (guchida)
 * Portuguese: [[parar]], [[deixar]] de
@@ -239,7 +239,7 @@ From {{ME.}} {{term|stoppen||to stop}}.
 * Hebrew: {{t-|he|עצר|alt=עָצַר|tr=`atsár|sc=Hebr}}
 * Hungarian: [[megállitani]]
 {{trans-mid}}
-* Irish: {{t|ga|stad}}
+* Irish: {{t-|ga|stad|xs=Irish}}
 * Italian: {{t+|it|fermare}}
 * Korean: [[멈추다]] (meomchuda)
 * Portuguese: {{t+|pt|parar}}
@@ -259,7 +259,7 @@ From {{ME.}} {{term|stoppen||to stop}}.
 * German: {{t+|de|stoppen}}, {{t+|de|beenden}}
 {{trans-mid}}
 * Hebrew: {{t|he|גמר|tr=gamár|sc=Hebr}}
-* Irish: {{t|ga|stad}}
+* Irish: {{t-|ga|stad|xs=Irish}}
 * Italian: {{t+|it|fermare}}
 * Russian: [[прекращать]]/[[прекратить]] (pr'ekraš'át/pr'ekratít)
 * Slovak: [[prerušiť]]
