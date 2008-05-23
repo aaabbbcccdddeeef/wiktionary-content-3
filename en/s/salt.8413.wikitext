@@ -47,11 +47,11 @@ Old English ''[[sealt]]'', from Germanic, from Indo-European.  Cognate with Dutc
 * Kurdish: {{t-|ku|خوێ|sc=KUchar}}
 * Lao: {{t-|lo|ເກືອ|tr=kya|sc=Laoo|xs=Lao}}
 * Latvian: {{t-|lv|sāls|f|xs=Latvian}}
-* Norwegian: {{t-|no|salt|n}}, {{t-|no|bordsalt|n}}
+* Norwegian: {{t+|no|salt|n}}, {{t-|no|bordsalt|n}}
 * [[Old Frisian]]: [[salt]]
 * Russian: [[соль]] (sol´) {{f}}
-* Scottish Gaelic: [[salann]] {{m}}
-* Slovak: [[soľ]] {{f}}
+* Scottish Gaelic: {{t-|gd|salann|m|xs=Scottish Gaelic}}
+* Slovak: {{t-|sk|soľ|f}}
 * Slovene: {{t+|sl|sol|f}}
 * Spanish: {{t+|es|sal|f}}
 * Swedish: {{t+|sv|salt|n}}, {{t+|sv|koksalt|n}}, {{t+|sv|bordssalt|n}}
@@ -72,9 +72,9 @@ Old English ''[[sealt]]'', from Germanic, from Indo-European.  Cognate with Dutc
 * Japanese: [[塩]] ([[えん]], [[en]])
 * Latvian: {{t-|lv|sāls|m|xs=Latvian}}
 {{trans-mid}}
-* Norwegian: {{t-|no|salt|n}}
+* Norwegian: {{t+|no|salt|n}}
 * Russian: [[соль]] (sol´) {{f}}
-* Slovak: [[soľ]] {{f}}
+* Slovak: {{t-|sk|soľ|f}}
 * Slovene: {{t+|sl|sol|f}}
 * Spanish: {{t+|es|sal|f}}
 * Swedish: {{t+|sv|salt|n}}
@@ -194,7 +194,7 @@ Old English ''[[sealt]]'', from Germanic, from Indo-European.  Cognate with Dutc
 {{trans-mid}}
 * Kurdish: {{KUchar|[[سوێر]]}}, {{KUchar|[[خوێواو]]}}
 * Latvian: [[sāļš]] {{m}}, [[sāļa]] {{f}}
-* Norwegian: {{t-|no|salt}}
+* Norwegian: {{t+|no|salt}}
 * Russian: [[солёный]] (sol'ónyj)
 * Slovene: [[slan]] {{m}}, [[slana]] {{f}}, [[slano]] {{n}}
 * Swedish: {{t+|sv|salt}}
@@ -266,7 +266,7 @@ Old English ''[[sealt]]'', from Germanic, from Indo-European.  Cognate with Dutc
 
 {{trans-top|include colorful language}}
 * Danish: [[krydre]]
-* Finnish: [[maustaa]], [[höystää]]
+* Finnish: {{t+|fi|maustaa}}, {{t-|fi|höystää}}
 {{trans-mid}}
 * Swedish: {{t+|sv|krydda}}
 {{trans-bottom}}
