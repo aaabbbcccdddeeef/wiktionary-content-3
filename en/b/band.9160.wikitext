@@ -41,7 +41,7 @@
 * Korean: 묶는끈(띠)
 * Norwegian: {{t+|no|band|n}}, {{t-|no|bånd|n}}
 * Polish: [[taśma]] {{f}}
-* Russian: {{t|ru|лента|f|sc=Cyrl|tr=l'énta}}, {{t|ru|тесьма|f|sc=Cyrl|tr=t'es'má}}, {{t|ru|повязка|f|sc=Cyrl|tr=pov'ázka}}, {{t|ru|обод|m|sc=Cyrl|tr=óbod}}, {{t|ru|обруч|m|sc=Cyrl|tr=óbruč}}
+* Russian: {{t|ru|лента|f|tr=l'énta|sc=Cyrl}}, {{t|ru|тесьма|f|tr=t'es'má|sc=Cyrl}}, {{t|ru|повязка|f|tr=pov'ázka|sc=Cyrl}}, {{t|ru|обод|m|tr=óbod|sc=Cyrl}}, {{t-|ru|обруч|m|tr=óbruč|sc=Cyrl}}
 * Spanish: [[cinta]] {{f}}, [[franja]] {{f}}
 * Swedish: [[band#Swedish|band]] {{n}}, [[bindel]] {{c}}, [[snodd]] {{c}}, [[snöre]] {{n}}
 * [[Telugu]]: [[మోపుతాడు]]
@@ -54,7 +54,7 @@
 * Korean: 책의 고정축(지탱축)
 * Norwegian: {{t-|no|bind|n}}
 * Polish: [[grzbiet]] {{m}}
-* Russian: {{t|ru|манжетка|f|sc=Cyrl|tr=manžétka}}
+* Russian: {{t|ru|манжетка|f|tr=manžétka|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|a group of musicians}}
@@ -63,7 +63,7 @@
 * Dutch: {{t+|nl|band|m}}
 * Esperanto: {{t-|eo|bando|xs=Esperanto}}
 * Estonian: [[bänd]], [[ansambel]]
-* Finnish: {{t|fi|soittokunta}}, {{t+|fi|yhtye}}, {{t+|fi|bändi}}
+* Finnish: {{t-|fi|soittokunta}}, {{t+|fi|yhtye}}, {{t+|fi|bändi}}
 * German: [[Band]] {{f}}, [[Kapelle]] {{f}}, [[Musikkapelle]] {{f}}, [[Combo]] {{f}}
 * Hebrew: [[להקה]] (lehaqa) {{f}}
 {{trans-mid}}
@@ -71,13 +71,13 @@
 * Norwegian: {{t+|no|band|n}}
 * Polish: [[zespół muzyczny]] {{m}}, [[grupa muzyczna]] {{f}}
 * Romanian: {{t-|ro|formaţie|f}}
-* Russian: {{t|ru|оркестр|m|sc=Cyrl|tr=ork'éstr}}, {{t|ru|ансамбль|m|sc=Cyrl|tr=ansámbl'}}
+* Russian: {{t+|ru|оркестр|m|tr=ork'éstr|sc=Cyrl}}, {{t|ru|ансамбль|m|tr=ansámbl'|sc=Cyrl}}
 * Spanish: {{t-|es|banda|f}}, {{t+|es|grupo|m}}
 * Swedish: {{t-|sv|band|n}}
 {{trans-bottom}}
 
 {{trans-top|orchestra originally playing janissary music}}
-* Finnish: {{t|fi|soittokunta}}, {{t|fi|torvisoittokunta}}
+* Finnish: {{t-|fi|soittokunta}}, {{t|fi|torvisoittokunta}}
 {{trans-mid}}
 * Norwegian: {{t-|no|korps|n}}
 {{trans-bottom}}
@@ -92,20 +92,20 @@
 * Korean: {{t-|ko|단체|sc=Hang}}, {{t-|ko|그룹|sc=Hang}}
 * Norwegian: {{t-|no|bande|m}}
 * Polish: {{t+|pl|banda|f}}
-* Russian: {{t|ru|отряд|f|sc=Cyrl|tr=otr'ád}}, {{t|ru|банда|f|sc=Cyrl|tr=bánda}}, {{t|ru|шайка|f|sc=Cyrl|tr=šájka}}
+* Russian: {{t+|ru|отряд|f|tr=otr'ád|sc=Cyrl}}, {{t|ru|банда|f|tr=bánda|sc=Cyrl}}, {{t|ru|шайка|f|tr=šájka|sc=Cyrl}}
 * Spanish: {{t-|es|banda|f}}
 * Swedish: {{t-|sv|band|n}}
 {{trans-bottom}}
 
 {{trans-top|physics: a part of radio spectrum}}
 * Dutch: {{t+|nl|band|m}}
-* Finnish: {{t|fi|kaista}}, {{t|fi|taajuuskaista}}; [[bändi]] (''radio amateur slang'')
+* Finnish: {{t-|fi|kaista}}, {{t|fi|taajuuskaista}}; [[bändi]] (''radio amateur slang'')
 * German: {{t+|de|Frequenzspektrum|n}}
 {{trans-mid}}
 * Korean: {{t-|ko|밴드|sc=Hang}}, {{t-|ko|대역폭|sc=Hang}}
 * Norwegian: {{t-|no|bånd|n}}
 * Polish: {{t-|pl|pasmo|n}}
-* Russian: {{t|ru|полоса|f|sc=Cyrl|tr=polosá}}
+* Russian: {{t+|ru|полоса|f|tr=polosá|sc=Cyrl}}
 * Spanish: {{t-|es|banda|f}}
 * Swedish: {{t-|sv|band|n}}
 {{trans-bottom}}
@@ -120,12 +120,12 @@
 {{trans-bottom}}
 
 {{trans-top|anthropology: small group of people living in a simple society}}
-* Finnish: {{t|fi|klaani}}, {{t|fi|heimo}}
+* Finnish: {{t-|fi|klaani}}, {{t-|fi|heimo}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|Canada: recognized group of aboriginals}}
-* Finnish: {{t|fi|heimo}}
+* Finnish: {{t-|fi|heimo}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -160,7 +160,7 @@
 {{trans-bottom}}
 
 {{trans-top|ornithology: to fasten an identifying band}}
-* Finnish: [[rengastaa]]
+* Finnish: {{t-|fi|rengastaa}}
 * German: [[beringen]]
 {{trans-mid}}
 * Norwegian: {{t|no|ringmerke}}
