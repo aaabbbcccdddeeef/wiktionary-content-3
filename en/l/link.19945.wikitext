@@ -31,7 +31,7 @@ From {{OE.}} {{term|linke}} probably from {{ON.}} *{{term||hlenkr}}, from {{PG.}
 * Chinese: [[連結]] (liánjíe)
 * Czech: {{t-|cs|spojení|n}}, {{t-|cs|propojení|n}}
 * Danish: [[forbindelse]] {{c}}
-* Dutch: {{t|nl|link|m}}, {{t|nl|verbinding|f}}, {{t|nl|relatie|f}}, {{t|nl|koppeling|f}}
+* Dutch: {{t+|nl|link|m}}, {{t+|nl|verbinding|f}}, {{t-|nl|relatie|f}}, {{t|nl|koppeling|f}}
 * Finnish: {{t+|fi|yhteys}}
 * French: {{t+|fr|lien|m}}
 * German: {{t+|de|Verbindung|f}}
@@ -39,7 +39,7 @@ From {{OE.}} {{term|linke}} probably from {{ON.}} *{{term||hlenkr}}, from {{PG.}
 * Hebrew: {{t+|he|קשר|m|sc=Hebr}}, {{t+|he|קישור|m|sc=Hebr}}
 * Italian: {{t+|it|collegamento|m}}, {{t+|it|lega|f}}, {{t+|it|connessione|f}}
 * Portuguese: {{t+|pt|ligação|f}}
-* Russian: [[связь]] {{f}}
+* Russian: {{t+|ru|связь|f|sc=Cyrl}}
 * Spanish: {{t+|es|enlace}}
 * Swedish: {{t-|sv|anknytning|c}}, {{t+|sv|länk|c}}
 * [[West Frisian]]: [[ferbining]], [[keppeling]]
@@ -74,13 +74,13 @@ From {{OE.}} {{term|linke}} probably from {{ON.}} *{{term||hlenkr}}, from {{PG.}
 {{trans-top|computing: hyperlink}}
 * Czech: {{t-|cs|odkaz|m}}
 * Danish: {{t-|da|link}}
-* Dutch: {{t+|nl|link}}, {{t|nl|koppeling|f}}, {{t|nl|verwijzing|f}}
+* Dutch: {{t+|nl|link}}, {{t|nl|koppeling|f}}, {{t-|nl|verwijzing|f}}
 * Finnish: {{t+|fi|linkki}}
 * German: {{t+|de|Link|m}}, {{t-|de|Hyperlink|m}}
 * Indonesian: {{t+|id|pranala|xs=Indonesian}}
 * Italian: {{t+|it|link|m}}, {{t+|it|collegamento|m}}
 {{trans-mid}}
-* [[Lower Sorbian]]: {{t|dsb|link|m}}
+* [[Lower Sorbian]]: {{tø|dsb|link|m|xs=Lower Sorbian}}
 * Polish: {{t+|pl|link|m}}
 * Portuguese: {{t+|pt|ligação|f}}
 * Romanian: {{t-|ro|hyperlink|n}}, {{t-|ro|legătură|f}}
@@ -101,12 +101,12 @@ From {{OE.}} {{term|linke}} probably from {{ON.}} *{{term||hlenkr}}, from {{PG.}
 =====Translations=====
 {{trans-top|connect things}}
 * Danish: [[forbinde]], [[kæde]], [[sammenkæde]]
-* Dutch: {{t|nl|verbinden}}, {{t|nl|linken}} {{i|hyperlinks}}
+* Dutch: {{t+|nl|verbinden}}, {{t|nl|linken}} {{i|hyperlinks}}
 * Finnish: {{t+|fi|yhdistää}}
 * Indonesian: [[menghubungkan]]
 {{trans-mid}}
 * Italian: [[collegare]], [[connettere]], [[linkare]] {{i|hyperlinks}}
-* Portuguese: {{t|pt|ligar|v}}
+* Portuguese: {{t+|pt|ligar|v}}
 * Russian: {{t+|ru|связывать|sc=Cyrl}}
 * Swedish: {{t-|sv|länka}}
 {{trans-bottom}}
@@ -125,7 +125,7 @@ Plausibly a modification of {{ML.}} {{term|linchinus||candle|lang=la}}, an alter
 
 =====Translations=====
 {{trans-top|torch}}
-* Dutch: {{t|nl|fakkel|m}}, {{t|nl|flambouw|m}}, {{t|nl|toorts|f}}
+* Dutch: {{t+|nl|fakkel|m}}, {{t|nl|flambouw|m}}, {{t+|nl|toorts|f}}
 {{trans-mid}}
 * French: {{t+|fr|flambeau|m}}, {{t+|fr|torche|f}}
 {{trans-bottom}}
