@@ -63,14 +63,14 @@
 * Bosnian: {{t-|bs|večera|f}}
 * Cantonese: [[晚飯]] maan<sup>5</sup>faan<sup>6</sup>
 * Danish: {{t-|da|middag}}
-* Dutch: {{t|nl|avondeten|n}}, {{t|nl|avondmaaltijd|m}}, {{t|nl|avondmaal|n}}, {{t|nl|eten|n}}
+* Dutch: {{t+|nl|avondeten|n}}, {{t-|nl|avondmaaltijd|m}}, {{t|nl|avondmaal|n}}, {{t+|nl|eten|n}}
 * Filipino: [[hapunan]]
 * Finnish: {{t+|fi|illallinen}}
 * French: [[dîner]] {{m}} {{italbrac|France}}, [[souper]] {{m}} {{italbrac|Belgium}}
-* German: {{t-|de|Abendessen|n}}
+* German: {{t+|de|Abendessen|n}}
 * Greek: {{t|el|δείπνο|n|sc=Grek}} (deípno)
 * Hungarian: {{t+|hu|vacsora}}
-* Irish: {{t|ga|dinnéar|m}}
+* Irish: {{t-|ga|dinnéar|m|xs=Irish}}
 {{trans-mid}}
 * Italian: {{t+|it|cena|f}}
 * Japanese: {{Jpan|[[夕食]]}} ({{Jpan|[[ゆうしょく]]}}, yūshoku)
@@ -93,7 +93,7 @@
 
 {{trans-top|midday meal}}
 * Danish: {{t-|da|middag}}
-* Dutch: {{t|nl|middageten|n}}, {{t|nl|middagmaaltijd|m}}, {{t|nl|middagmaal|n}}, {{t|nl|lunch|m}}
+* Dutch: {{t|nl|middageten|n}}, {{t|nl|middagmaaltijd|m}}, {{t|nl|middagmaal|n}}, {{t+|nl|lunch|m}}
 * Finnish: {{t+|fi|lounas}}, {{t-|fi|päivällinen}}
 * French: {{t+|fr|déjeuner|m}}
 * German: {{t+|de|Mittagessen|n}}
@@ -101,7 +101,7 @@
 * Hebrew: {{he-translation|ארוחת-ערב|arukhát érev}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|ebéd}}
-* Irish: {{t|ga|dinnéar|m}}
+* Irish: {{t-|ga|dinnéar|m|xs=Irish}}
 * Italian: {{t+|it|pranzo|m}}
 * Japanese: {{Jpan|[[昼食]]}} ({{Jpan|[[ちゅうしょく]]}}, chūshoku)
 * Latvian: [[pusdienas]] {{f|p}}
@@ -113,7 +113,7 @@
 * Finnish: {{t+|fi|illallinen}}, {{t-|fi|päivällinen}}
 * Greek: {{t|el|γεύμα|n|sc=Grek}} (gévma)
 {{trans-mid}}
-* Irish: {{t|ga|dinnéar|m}}
+* Irish: {{t-|ga|dinnéar|m|xs=Irish}}
 * Japanese: {{Jpan|[[正餐]]}} ({{Jpan|[[せいさん]]}}, seisan)
 * Slovene: {{t+|sl|večerja|f}}
 {{trans-bottom}}
