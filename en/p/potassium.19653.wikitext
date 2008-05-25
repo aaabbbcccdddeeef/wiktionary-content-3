@@ -6,13 +6,13 @@
 * {{audio|en-us-potassium.ogg|Audio (US)}}
 
 ===Etymology===
-''Potassium'' derives from the word [[potassa]] ([[potash]]) with the suffix [[-ium]].
+From {{term|potassa||[[potash]]}} + {{term|-ium}}.
 
 ===Noun===
 {{en-noun|-}}
 {{wikipedia}}
 
-# a soft, waxy, silvery reactive [[metal]] that is never found unbound in nature; an element (''symbol'' K) with an [[atomic number]] of 19 and [[atomic weight]] of 39.0983. The symbol is derived from the Latin ''[[kalium]]''.
+# {{element}} A soft, waxy, silvery reactive [[metal]] that is never found unbound in nature; an element (''symbol'' K) with an [[atomic number]] of 19 and [[atomic weight]] of 39.0983. The symbol is derived from the Latin ''[[kalium]]''.
 
 ====Derived terms====
 {{top2}}
@@ -118,8 +118,8 @@
 * [[potassa]]
 
 ====Translations====
-{{top}}
-* [[Afrikaans]]: [[kalium]]
+{{trans-top|the chemical element}}
+* [[Afrikaans]]: {{t|af|kalium}}
 * Albanian: [[kalium]]
 * Arabic: {{Arab|[[بوتاسيوم|بُوتَاسيُوم]]}} (butásyum) {{m}}
 * Armenian: [[կալիում]] (kalium)
@@ -147,18 +147,18 @@
 * Georgian: [[კალიუმი]] (kaliumi)
 * German: [[Kalium]] {{n}}
 * Greek: [[κάλιον]] (kálion) {{n}}
-* Hebrew: {{he-translation|אשלגן|ashlegán}} {{m}}
+* Hebrew: {{t|he|sc=Hebr|אשלגן|tr=ashlegán|m}}
 * Hungarian: [[kálium]]
 * Icelandic: [[kalín]]
 * Indonesia: [[kalium]]
-* [[Interlingua]]: potassium, [[kalium]]
+* [[Interlingua]]: {{t|ia|potassium}}, {{t|ia|kalium}}
 * Irish: [[potaisiam]]
-{{mid}}
+{{trans-mid}}
 * Italian: [[potassio]] {{m}}
-* Japanese: [[カリウム]] (kariumu)
+* Japanese: {{t|ja|カリウム|tr=kariumu|sc=Jpan}}
 * [[Kashmiri]]: [[kali]]
 * Kazakh: [[калий]] (kálii)
-* Korean: [[칼륨]] (kallyum)
+* Korean: {{t|ko|칼륨|tr=kallyum}}
 * Latin: [[kalium]] {{n}}
 * Latvian: [[kālijs]]
 * Lithuanian: [[kalis]]
@@ -169,26 +169,26 @@
 * [[Manx]]: [[potashum]]
 * Mongolian: [[кали]] (kali)
 * Norwegian: [[kalium]]
-* Persian: {{fa-Arab|[[پتاسيم]]}} (potâsim)
+* Persian: {{t|fa|sc=fa-Arab|پتاسيم|tr=potâsim}}
 * Polish: [[potas]] {{m}}
 * Portuguese: [[potássio]] {{m}}
 * Romanian: [[potasiu]] {{n}}, [[kaliu]] {{n}}
 * Russian: [[калий]] (kálij) {{m}}
 * [[Scottish Gaelic]]: [[potaisiam]]
-* Serbian: [[калијум]] (kalijum) {{m}}
+* Serbian: {{t|sr|калијум|tr=kalijum|m}}
 * Slovak: [[draslík]]
 * Slovene: [[kalij]]
 * Spanish: [[potasio]] {{m}}
 * Swedish: [[kalium]]
 * [[Tajik]]: [[kali']]
-* [[Tamil]]: [[வெடியம்]] (vediyam)
-* Thai: {{Thai|[[โพแทสเซียม]]}} (phōthaetsiam)
+* [[Tamil]]: {{t|ta|வெடியம்|tr=vediyam}}
+* Thai: {{t|th|sc=Thai|โพแทสเซียม|tr=phōthaetsiam}}
 * Turkish: [[potasyum]]
 * Ukrainian: [[калій]] (kálij) {{m}}
 * Uzbek: [[калий]] (kalii)
 * Vietnamese: [[kali]]
 * Welsh: [[potasiwm]]
-{{bottom}}
+{{trans-bottom}}
 
 ====References====
 * ''Potassa'' and ''Potassium'' in the ''Webster's New Collegiate Dictionary'', Merriam-Webster, 1974 edition.
@@ -205,8 +205,6 @@ http://elements.vanderkrogt.net/elem/be.html
 * [[potash]]
 * [[saltpeter]], [[saltpetre]]
 * [[sylvite]]
-
-[[Category:Chemical elements]]
 
 [[ast:potassium]]
 [[de:potassium]]
