@@ -38,15 +38,16 @@ French, from Late Latin ''[[mazacrium]]''; compare Provincial German ''[[metzger
 ====Translations====
 {{trans-top|intentional mass killing}}
 * Bosnian: [[masakr#Bosnian|masakr]] {{m}}, [[pokolj#Bosnian|pokolj]] {{m}}, [[krvoproliće#Bosnian|krvoproliće]] {{n}}
-* Czech: [[masakr]] {{m}}
+* Czech: {{t|cs|masakr|m}}
 * Danish: [[massakre]]
-* Finnish: [[joukkomurha]], [[verilöyly]], [[teurastus]]
-* French: [[#French|massacre]] {{m}}
-* German: [[Massaker]] {{n}} (1)
+* Finnish: {{t|fi|joukkomurha}}, {{t|fi|verilöyly}}, {{t|fi|teurastus}}
+* French: {{t|fr|massacre|m}}
+* German: {{t|Massaker|n}}
 * Hebrew: [[טבח]]
 * Korean: [[학살#Korean|학살]]
 * Latin: [[trucidatio]]
 * Norwegian: [[massakre]]
+* Portuguese: {{t|pt|massacre}}
 {{trans-mid}}
 * Russian: [[массовое убийство]], [[резня]]
 * Serbian:
@@ -54,7 +55,7 @@ French, from Late Latin ''[[mazacrium]]''; compare Provincial German ''[[metzger
 *: Roman: [[masakr#Serbian|masakr]] {{m}}, [[pokolj#Serbian|pokolj]] {{m}}, [[krvoproliće#Serbian|krvoproliće]] {{m}}
 * Slovak: [[masakra]] {{f}}
 * Slovene: [[pokol]] {{m}}, [[masaker]] {{m}}
-* Swedish: [[massaker]] {{c}}
+* Swedish: {{t|sv|massaker|c}}
 * [[Telugu]]: [[ఊచకోత]] (oochakOta)
 * Welsh: [[llofruddiaeth]]
 {{trans-bottom}}
@@ -67,21 +68,38 @@ French, from Late Latin ''[[mazacrium]]''; compare Provincial German ''[[metzger
 #*: If James should be pleased to '''massacre''' them all, as Maximian had '''massacred''' the Theban legion
 
 ====Translations====
-{{top}}
+{{trans-top|to kill in considerable numbers}}
 * Bosnian: [[masakrirati#Bosnian|masakrirati]], [[poklati#Bosnian|poklati]], [[poubijati#Bosnian|poubijati]]
 * Danish: [[massakrere]]
-* Finnish: [[joukkomurhata]], [[teurastaa]]
-* French: [[massacrer]]
-* German: [[massakrieren]]
-{{mid}}
+* Finnish: {{t|fi|joukkomurhata}}, {{t|fi|teurastaa}}
+* French: {{t|fr|massacrer}}
+* German: {{t|de|massakrieren}}
+{{trans-mid}}
 * Norwegian: [[massakrere]]
+* Portuguese: {{t|pt|massacrar}}
 * Serbian:
 *: Cyrillic: [[масакрирати#Serbian|масакрирати]], [[поклати#Serbian|поклати]], [[поубијати#Serbian|поубијати]]
 *: Roman: [[masakrirati#Serbian|masakrirati]], [[poklati#Serbian|poklati]], [[poubijati#Serbian|poubijati]]
 * Slovene: [[poklati]]
-{{bottom}}
+{{trans-bottom}}
 
 [[Category:Death]]
+
+----
+
+==Portuguese==
+
+===Noun===
+{{pt-noun-m}}
+
+# [[massacre]]
+
+====Related terms====
+{{rel-top}}
+* [[massacrar]]
+{{rel-mid}}
+* [[massacrante]]
+{{rel-bottom}}
 
 [[de:massacre]]
 [[et:massacre]]
