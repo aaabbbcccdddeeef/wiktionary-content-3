@@ -16,17 +16,17 @@
 # [[business]]
 
 ===Etymology 2===
-Contraction of '''[[omnibus]]'''. From {{L.}} '''[[omnibus]]''', meaning ''for everything/all''; dative plural of ''omnis'', meaning ''all''.
+{{contraction of|[[omnibus]]}}. From {{etyl|la}} {{term|omnibus||for everything/all|lang=la}}; dative plural of {{term|omnis||all|lang=la}}.
 
 ====Noun====
 {{en-noun|pl=buses|pl2=busses}}
 
-# {{context|automotive|vehicle}} A [[motor]] [[vehicle]] for [[transport]]ing large numbers of [[people]] along [[road]]s.
+# {{context|automotive}} A [[motor]] [[vehicle]] for [[transport]]ing large numbers of [[people]] along [[road]]s.
 # An [[electrical]] [[conductor]] serving as a [[common]] [[connection]] for two or more [[circuit]]s.
 
 =====Synonyms=====
-* (''vehicle''): [[coach]], [[omnibus]]
-* (''electrical conductor''): [[busbar]]
+* {{sense|vehicle}} [[coach]], [[omnibus]]
+* {{sense|electrical conductor}} [[busbar]]
 
 =====Translations=====
 {{trans-top|vehicle}}
@@ -68,7 +68,7 @@ Contraction of '''[[omnibus]]'''. From {{L.}} '''[[omnibus]]''', meaning ''for e
 * Russian: {{t+|ru|автобус|m|tr=avtóbus|sc=Cyrl}}
 * Slovak: {{t-|sk|autobus|m}}
 * Slovene: {{t+|sl|avtobus|m}}
-* Spanish: [[autobús]] {{m}}  {{italbrac|especially Spain and Venezuela}}, {{t+|es|bus|m}} {{italbrac|Latin America}}, [[camión]] {{m}} {{italbrac|Mexico}},  [[camioneta]] {{f}} {{italbrac|Guatemala}}, [[cazadora]] {{f}} {{italbrac|Costa Rica}}, [[colectivo]] {{m}} {{italbrac|Argentina}}, [[guagua]] {{f}}  {{italbrac|Caribbean Islands, Spain's Canary Islands}}, [[micro]] {{f}} {{italbrac|Chile}}, [[micro]] {{m}} {{italbrac|Argentina}},   [[ómnibus]] {{m}} {{italbrac|Bolivia|Paraguay|Peru|Uruguay}}, [[bondi]] {{m}} {{italbrac|Argentina|colloquial}}, [[rufa]] {{f}} {{italbrac|Cuba|colloquial}}
+* Spanish: [[autobús]] {{m}}  {{qaulifier|especially Spain and Venezuela}}, {{t+|es|bus|m}} {{qualifier|Latin America}}, [[camión]] {{m}} {{qualifier|Mexico}},  [[camioneta]] {{f}} {{qualifier|Guatemala}}, [[cazadora]] {{f}} {{qualifier|Costa Rica}}, [[colectivo]] {{m}} {{qualifier|Argentina}}, [[guagua]] {{f}}  {{qualifier|Caribbean Islands, Spain's Canary Islands}}, [[micro]] {{f}} {{qualifier|Chile}}, [[micro]] {{m}} {{qualifier|Argentina}},   [[ómnibus]] {{m}} {{qualifier|Bolivia|Paraguay|Peru|Uruguay}}, [[bondi]] {{m}} {{qualifier|Argentina|colloquial}}, [[rufa]] {{f}} {{qualifier|Cuba|colloquial}}
 * Swedish: {{t+|sv|buss|c}}
 * Turkish: {{t+|tr|otobüs}}
 {{trans-bottom}}
@@ -86,9 +86,9 @@ Contraction of '''[[omnibus]]'''. From {{L.}} '''[[omnibus]]''', meaning ''for e
 ====Verb====
 {{en-verb|'''[[busses]]''' or '''[[buses]]'''|'''[[bussing]]''' or '''[[busing]]'''|'''[[bussed]]''' or '''[[bused]]'''}}
 
-# {{context|transitive|automotive|transport}} To [[transport]] via a motor bus.
-# {{context|transitive|automotive|transport}} To transport students to school, often to achieve racial integration.
-# {{context|intransitive|automotive|transport}} To [[travel]] by bus.
+# {{transitive|automotive|transport}} To [[transport]] via a motor bus.
+# {{transitive|automotive|transport|especially|US}} To transport students to school, often to achieve racial integration.
+# {{intransitive|automotive|transport}} To [[travel]] by bus.
 
 =====Translations=====
 {{trans-top|to transport via a motor bus}}
@@ -100,7 +100,7 @@ Contraction of '''[[omnibus]]'''. From {{L.}} '''[[omnibus]]''', meaning ''for e
 {{trans-mid}}
 {{trans-bottom}}
 {{trans-top|to travel by bus}}
-* Norwegian: {{t+|no|busse}} (rarely used)
+* Norwegian: {{t+|no|busse}} {{qualifier|rarely used}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -111,6 +111,7 @@ Contraction of '''[[omnibus]]'''. From {{L.}} '''[[omnibus]]''', meaning ''for e
 * [[bus lane]]
 * [[bus stop]]
 * [[busman's holiday]]
+* [[bustitution]]
 * [[back end of a bus]]/[[look like the back end of a bus]]
 
 ===Etymology 3===
