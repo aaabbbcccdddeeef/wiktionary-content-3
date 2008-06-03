@@ -5,3 +5,9 @@
 {{en-noun}}
 
 # Using a software mapping application, a geofence is a boundary defined around a location on the Earth's surface.
+
+Apparently geofence is indeed a boundary established around something or some place in particular.  Geofence is also used as a geographical limit or boundary, to be crosed by cell phone users, truck or trailer drives en route, etc.  Companies have the need to draw geofences depending on their area of need; thus cell phone companies draw geofences according to their reach or area of coverage; GPS operators or trailer or trucking companies define their geofences depending on the limits of different areas of reach, etc.
+Enclosed please find a link to a site that explains the use of the term more specifically:
+http://msdn.microsoft.com/en-us/library/ms955270.aspx
+This is a quote taken from the mentioned page, which also includes applications and other traits thereof.
+"A geofence is a geographical region that you define and use to trigger an event when a user enters the region. For example, you can create an application that sends an Short Message Service (SMS) message about a current sales promotion to provisioned users when they come within a one-mile radius of your store location." Copyright MSDN.MICROSOFT.COM.
