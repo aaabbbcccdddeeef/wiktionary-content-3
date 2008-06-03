@@ -3,7 +3,7 @@
 ==English==
 
 ===Etymology 1===
-From {{AGr.}} '''{{polytonic|[[ἦτα]]}}'''.
+From {{etyl|grc}} {{term|ἦτα|tr=êta|sc=polytonic}}.
 
 ====Pronunciation====
 * {{IPA|/ˈiːtə/}} {{italbrac|mainly Commonwealth}}
@@ -37,6 +37,8 @@ From Japanese '''[[穢多]]''', literally ‘full of filth’ (now considered de
 
 # A [[social outcast]] in [[Japan]] who is subjected to menial work, making up a class or [[caste]] of such people.
 
+[[Category:Greek letters]]
+
 ----
 
 ==Basque==
@@ -51,7 +53,7 @@ From Japanese '''[[穢多]]''', literally ‘full of filth’ (now considered de
 ==Esperanto==
 
 ===Adjective===
-'''eta'''
+{{eo-adj}}
 
 # [[small]], [[little]], [[minuscule]] (''see [[et#Esperanto|et]])
 
@@ -59,6 +61,8 @@ From Japanese '''[[穢多]]''', literally ‘full of filth’ (now considered de
 
 ==Faroese==
 {{fo-conj-72||e|t|á|ó}}
+===Etymology===
+From {{etyl|non|fo}} {{term|eta|lang=non}}.
 
 ===Verb===
 '''eta'''
@@ -71,17 +75,51 @@ From Japanese '''[[穢多]]''', literally ‘full of filth’ (now considered de
 
 ----
 
-==Old Norse==
+==Icelandic==
 
-===Etymology===
-Common Germanic *''[[etan]]'', akin to Old English ''[[etan]]'', Old High German ''[[ezzan]]'', Gothic ''itan''
+===Etymology 1===
+From {{etyl|non|is}} {{term|eta|lang=non}}.
 
-===Verb===
-'''eta'''
+====Alternative forms====
+*[[éta]] (more common)
+
+====Verb====
+'''eta''' (''strong conjugation:'' [[át]] – [[átum]] – [[etið]])
 
 # to [[eat]]
 
-[[Category:Greek letters]]
+[[Category:Icelandic verbs]]
+
+===Etymology 2===
+From {{etyl|grc}} {{term|ἦτα|tr=êta|sc=polytonic}}.
+
+====Noun====
+{{is-noun|f}}
+
+# [[#English|eta]] (letter of the Greek alphabet)
+
+----
+
+==Old Norse==
+
+===Etymology===
+From {{proto|Germanic|etan|lang=non}}, akin to Old English {{term|etan|lang=ang}} ( > English {{term|eat}}), Old Saxon {{term|etan#Old Saxon|etan}}, Old High German {{term|ezzan|lang=goh}} ( > German {{term|essen}}, Gothic {{term|𐌹𐍄𐌰𐌽|tr=itan|sc=Goth}}. Ultimately from {{proto|Indo-European|ed|lang=non}}. Non-Germanic cognates include Latin {{term|edo|edō|lang=la}}, Ancient Greek {{term|ἔδω|tr=édō|sc=polytonic}}, Lithuanian {{term|ėsti}}, Old Church Slavonic {{term|ясти|tr=jasti}}, Sanskrit {{term|अत्ति|tr=átti|sc=Deva}}, Armenian {{term|ուտել|tr=owtel|sc=Armn}}, Hittite {{term|𒂊𒀉𒈪|tr=e-id-mi|sc=Xsux}}.
+
+===Verb===
+'''eta''' (''strong conjugation:'' [[át]] – [[átu]] – [[etið]])
+
+# to [[eat]]
+
+====Descendants====
+{{top2}}
+*Danish: [[æde]] ( < Old Danish ''ætæ'')
+*Faroese: [[#Faroese|eta]]
+*Icelandic: [[#Icelandic|eta]], [[éta#Icelandic|éta]]
+{{mid2}}
+*Norwegian (nynorsk): [[#Norwegian|eta]]
+*Swedish: [[äta]]
+{{bottom}}
+
 [[Category:Old Norse verbs]]
 
 [[ar:eta]]
