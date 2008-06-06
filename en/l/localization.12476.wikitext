@@ -28,39 +28,38 @@ From [[localize]] + [[-ation]]; compare French ''[[localisation#French|localisat
 * Finnish: {{t+|fi|lokalisoida}}, {{t|fi|kotoistaa}}
 * Greek: {{t+|el|εντοπισμός|m|sc=Grek}} (entopismós)
 {{trans-mid}}
-* Japanese: {{JAchar|[[局在化]]}} ({{JAchar|[[きょくざいか]]}}, kyokuzaika), {{JAchar|[[局所化]]}} ({{JAchar|[[きょくしょか]]}}, kyokushoka), {{JAchar|[[地方化]]}} ({{JAchar|[[ちほうか]]}}, chihōka)
+* Japanese: {{Jpan|[[局在化]]}} ({{Jpan|[[きょくざいか]]}}, kyokuzaika), {{Jpan|[[局所化]]}} ({{Jpan|[[きょくしょか]]}}, kyokushoka), {{Jpan|[[地方化]]}} ({{Jpan|[[ちほうか]]}}, chihōka)
 * Norwegian: {{t-|no|lokalisering|f}}
 * Russian: {{t+|ru|локализация|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|state of being localized}}
 * Dutch: {{t|nl|localisatie|f}}
-{{trans-mid}}
 * Norwegian: {{t-|no|lokalisering|f}}
+{{trans-mid}}
 * Russian: [[локализованность]]
 {{trans-bottom}}
 
 {{trans-top|software engineering: act or process of making a product suitable for use in a particular country or region}}
 * Greek: {{t|el|τοπικοποίηση|f|sc=Grek}} (topikopoíisi)
+* Japanese: {{t-|ja|ローカライゼーション|tr=rōkaraizu|sc=Jpan}}
 {{trans-mid}}
-* Japanese: {{t-|ja|ローカライゼーション|tr=rōkaraizu|sc=JAchar}}
 * Russian: [[локализация]]
 {{trans-bottom}}
 
-{{checktrans}}
-{{trans-top|Translations to be checked}}
-*{{ttbc|Chinese}}: [[地方化]] (difang-hua)
-*{{ttbc|Dutch}}: {{t|nl|localisatie|f}}
-*{{ttbc|French}}: {{t+|fr|localisation|f}}
-*{{ttbc|German}}: [[Lokalisation]]
-*{{ttbc|Italian}}: [[localizzazione]]
+{{checktrans-top}}
+* {{ttbc|Chinese}}: [[地方化]] (difang-hua)
+* {{ttbc|Dutch}}: {{t|nl|localisatie|f}}
+* {{ttbc|French}}: {{t+|fr|localisation|f}}
+* {{ttbc|German}}: [[Lokalisation]]
+* {{ttbc|Italian}}: [[localizzazione]]
 {{trans-mid}}
 (rookaraizeeshon)
-*{{ttbc|Korean}}: [[지방화]]
-*{{ttbc|Latin}}: [[localizatio]]
-*{{ttbc|Portuguese}}: [[localização]]
-*{{ttbc|Spanish}}: [[localización]]
-*{{ttbc|Turkish}}: [[Bölge]]
+* {{ttbc|Korean}}: [[지방화]]
+* {{ttbc|Latin}}: [[localizatio]]
+* {{ttbc|Portuguese}}: [[localização]]
+* {{ttbc|Spanish}}: [[localización]]
+* {{ttbc|Turkish}}: [[Bölge]]
 {{trans-bottom}}
 
 [[fr:localization]]
