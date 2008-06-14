@@ -37,7 +37,6 @@
 # [[otherwise|Otherwise]], if [[not]].
 #: ''How '''else''' (=in what other way) can it be done?''
 #: ''I'm busy Friday; when '''else''' (=what other time) works for you?''
-# {{rfc-sense}} {{computing}} A statement that indicates the result of a [[conditional]] statement ([[if]]) evaluating as [[false]].
 
 ====Usage notes====
 * {{sense|otherwise}} This word frequently follows interrogative adverbs, such as {{term|how}}, {{term|why}}, and {{term|when}}, as well as the derived {{term|however}}, {{term|why ever}}, and {{term|whenever}}.
@@ -82,6 +81,9 @@
 
 # [[for|For]] [[otherwise]]; [[or else]].
 #: ''Then the Wronskian of ''f'' and ''g'' must be nonzero, '''else''' they could not be linearly independent.''
+# {{computing|in many programming languages and [[pseudocode]]}} but [[if]] the [[condition]] of the previous {{term|if}} clause is false, do the following.
+#: ''<tt>if (edits.Count > 0) { NoEditsLabel.Visible = true; }</tt>''
+#: ''<tt>'''else''' { EditHistory.Show(edits); }</tt>''
 
 ===See also===
 * [[and]]
