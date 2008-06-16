@@ -3,7 +3,7 @@
 {{rank|now|then|A|80|should|can|made|did}}
 
 ===Etymology===
-Old English ''sceolde'', preterite form of [[sculan]].
+{{OE.}} {{term|sceolde}}, preterite form of {{term|sculan}}.
 
 ===Pronunciation===
 *{{IPA|/ʃʊd/}}, {{SAMPA|/SUd/}}
@@ -11,24 +11,25 @@ Old English ''sceolde'', preterite form of [[sculan]].
 *:Rhymes: [[Rhymes:English:-ʊd|-ʊd]]
 
 ===Verb===
-'''should''' (''simple past of '''[[shall]]''''')
-# The speaker&mdash;but not necessarily the [[subject]] of the sentence&mdash;[[intend]]s for the subject to execute the sentence [[predicate]].
-#: Contrast with stronger auxiliary verb ''[[must]]'', which indicates that the subject is [[require]]d to execute the predicate.
+{{infl|en|defective verb|simple past of|shall}}
+
+# {{auxiliary}} [[ought]] (to be or do something); {{non-gloss definition|Indicates that the [[subject]] of the sentence has some [[obligation]] to execute the sentence [[predicate]].}}
 #:''You '''should''' brush your teeth every day.''
-# The [[subject]] of the sentence is [[likely]] to execute the sentence [[predicate]].
-#: Contrast with stronger auxiliary verb ''[[must]]'', which indicates that the subject certainly will execute the predicate.
+# {{auxiliary}} will [[likely]] (become or do something) {{non-gloss definition|Indicates that the [[subject]] of the sentence is [[likely]] to execute the sentence [[predicate]].}}
 #:''You '''should''' be warm enough with that coat.''
-# [[if|If]]; [[in case]] of.
-#:'''''Should''' you need extra blankets, you'll find them in the closet.''
+# {{auxiliary|in a [[subordinate]] clause}} [[if|If]]; [[in case]] of; {{non-gloss definition|Indicates that its subordinate clause refers to a [[hypothetical]] [[condition]] for the event expressed by main clause.}}
+#:'''''Should''' you need extra blankets, you’ll find them in the closet.''
 
 ====Usage notes====
-*''See the usage notes at '''[[shall]]'''.''
-
+* {{sense|obligation}} Contrast with stronger auxiliary verb {{term|must}}, which indicates that the subject is [[require]]d to execute the predicate.
+* {{sense|likely}} Contrast with stronger auxiliary verb {{term|must}}, which indicates that the subject [[certainly]] will execute the predicate.
+* See the usage notes at {{term|shall}}.
+ 
 ====Synonyms====
-*[[ought to]]
+* {{sense|obligation}} [[ought]]
 
 ====Antonyms====
-*[[shouldn't]]
+* {{sense|obligation}} [[shouldn't]]; [[must]]
 
 ====Related terms====
 *[[shoulde]] (archaic spelling of should)
@@ -65,7 +66,6 @@ Old English ''sceolde'', preterite form of [[sculan]].
 {{bottom}}
 
 [[Category:English auxiliary verb forms]]
-[[Category:English defective verbs]]
 [[Category:English simple past forms]]
 [[Category:English irregular simple past forms]]
 [[Category:100 English basic words]]
