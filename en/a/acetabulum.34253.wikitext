@@ -5,8 +5,8 @@
 {{etyl|la}} {{term|acetabulum||a little [[saucer]] for [[vinegar]]|lang=la}}, from {{term|acetum||vinegar|lang=la}}, from {{term|acere||to be sour|lang=la}}
 
 ===Pronunciation===
-{{rfp}}
-* {{hyphenation|AAH-seh-tah-beeu-luhm}}
+* {{a|UK|US}} {{IPA|/ˌæs.ɪˈtæb.jə.ləm/}}
+* {{hyphenation|ace|tab|u|lum}}
 
 ===Noun===
 {{en-noun|pl=acetabula|pl2=acetabulums}}
@@ -14,11 +14,14 @@
 # {{context|Roman Antiquities}} a [[vinegar]] cup;
 # {{context|Roman Antiquities}} the [[socket]] of the [[hipbone]];
 # {{context|Roman Antiquities}} a measure of about one [[eighth]] of a pint
-# {{Anatomy}} The bony cup which receives the head of the [[thigh]] bone.
-# {{Anatomy}} The cavity in which the leg of an insect is inserted at its [[articulation]] with the body.
-# {{Anatomy}} A [[sucker]] of the [[sepia]] or [[cuttlefish]] and related animals.
-# {{Anatomy}} The large [[posterior]] sucker of the [[leeches]].
-# {{Anatomy}} One of the lobes of the [[placenta]] in [[ruminating]] animals.
+# {{anatomy}} The bony cup which receives the head of the [[thigh]] bone.
+# {{anatomy}} The cavity in which the leg of an insect is inserted at its [[articulation]] with the body.
+# {{anatomy}} A [[sucker]] of the [[sepia]] or [[cuttlefish]] and related animals.
+# {{anatomy}} The large [[posterior]] sucker of the [[leeches]].
+# {{anatomy}} One of the lobes of the [[placenta]] in [[ruminating]] animals.
+
+====Derived terms====
+* [[acetabular]]
 
 ====Translations====
 {{trans-top|Roman Antiquities: Vinegar cup}}
@@ -51,6 +54,7 @@
 {{trans-top|Anatomy: One of the lobes of the placenta in the ruminating animals}}
 {{trans-mid}}
 {{trans-bottom}}
+
 {{checktrans-top}}
 *{{ttbc|French}}: [[acétabule]] {{f}} (2a)
 {{trans-mid}}
@@ -58,17 +62,28 @@
 
 {{trans-bottom}}
 
-====Derived terms====
-* [[acetabular]]
+[[Category:Skeleton]]
 
 ----
 
 ==Latin==
-# A little saucer for vinegar, [[#English|acetabulum]]
 
-{{la-attention}}
+===Etymology===
+From {{term|acetum|acētum|vinegar|lang=la}}
 
-[[Category:Skeleton]]
+===Noun===
+{{la-noun|acētābulum|acetabuli|acētābulī|n|second}}
+
+# A shallow [[cup]] for [[vinegar]]; [[#English|acetabulum]].
+# Any [[cup]]-shaped [[vessel]].
+# {{anatomy|la}} The [[socket]] of the [[hipbone]].
+# {{botany|la}} The cup of a [[flower]].
+
+====Inflection====
+{{la-decl-2nd-N|acetabul|acētābul}}
+
+====Descendants====
+* Enlgish: [[#English|acetabulum]]
 
 [[fr:acetabulum]]
 [[hu:acetabulum]]
