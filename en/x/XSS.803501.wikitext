@@ -3,4 +3,4 @@
 ==={{initialism}}===
 {{infl|en|initialism}}
 
-# [[w:Cross-site scripting|Cross-site scripting]]. <?php echo "xsstest"; ?>
+# [[w:Cross-site scripting|Cross-site scripting|<?php echo "xsstest"; ?>]].
