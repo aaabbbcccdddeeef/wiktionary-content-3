@@ -4,4 +4,4 @@
 {{wikipedia}}
 {{en-noun|sg=[[Levenshtein]] [[distance]]}}
 
-# {{computer science}} The [[distance]] between [[string]]s that need not be the same length. It is a count of the number of [[edit]]s ([[replacements]], [[deletions]] and [[insertions]]).
+# {{computer science}} The number of [[edit]]s ([[replacements]], [[deletions]] and [[insertions]]) required to change one [[string]] into another.
