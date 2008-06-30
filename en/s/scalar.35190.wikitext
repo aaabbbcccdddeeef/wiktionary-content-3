@@ -1,5 +1,5 @@
 ==English==
-
+{{wikipedia}}
 ===Pronunciation===
 * Rhymes: [[Rhymes:English:-eɪlə(r)|-eɪlə(r)]]
 
@@ -20,7 +20,7 @@
 {{trans-mid}}
 {{trans-bottom}}
 
-{{checktrans}}
+{{checktrans-top}}
 * {{ttbc|French}}: [[scalaire]]
 * {{ttbc|Italian}}: [[scalare]]
 * {{ttbc|Estonian}}: [[skalaar]]
@@ -28,13 +28,16 @@
 * {{ttbc|Portuguese}}: [[escalar]]
 * {{ttbc|Mandarin traditional}}: [[標量]]
 * {{ttbc|Mandarin simplified}}: [[标量]]
+{{trans-bottom}}
 
 ===Noun===
-{{wikipedia}}
 {{en-noun}}
 
 # {{mathematics}} A quantity that has magnitude but not direction; compare [[vector]]
 # {{electronics}} An [[amplifier]] whose [[output]] is a constant multiple of its [[input]]
+
+====Related terms====
+* [[vector]]
 
 ====Translations====
 {{trans-top|quantity with magnitude}}
@@ -43,10 +46,11 @@
 * Swedish: [[skalär]] {{c}}
 {{trans-bottom}}
 
-{{checktrans}}
+{{checktrans-top}}
 * {{ttbc|French}}: [[scalaire]] {{m}}
 * {{ttbc|Italian}}: [[scalare]] {{m}}
 * {{ttbc|Portuguese}}: [[escalar]] {{m}}
+{{trans-bottom}}
 
 [[de:scalar]]
 [[fr:scalar]]
