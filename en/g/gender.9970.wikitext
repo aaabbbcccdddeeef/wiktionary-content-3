@@ -27,7 +27,7 @@ From {{ME.}} < {{MF.}} {{term|gendre}}/{{term|genre}} < {{L.}} {{term|genus||[[k
 
 ====Translations====
 {{trans-top|grammar: division of nouns and pronouns}}
-* [[Afrikaans]]: {{t|af|geslag}}
+* [[Afrikaans]]: {{t|af|geslag|xs=Afrikaans}}
 * Bosnian: {{t-|bs|rod|m}}
 * Chinese: [[性別]] (xìngbié)
 * Czech: {{t+|cs|rod|m}}
@@ -37,7 +37,7 @@ From {{ME.}} < {{MF.}} {{term|gendre}}/{{term|genre}} < {{L.}} {{term|genus||[[k
 * French: {{t+|fr|genre|m}}
 * German: {{t+|de|Geschlecht|n}}
 * Greek: {{t+|el|γένος|n|s|sc=Grek}} (ghénos)
-* Icelandic: {{t-|is|kyn|n}}
+* Icelandic: {{t+|is|kyn|n}}
 * Italian: {{t+|it|genere}}
 {{trans-mid}}
 * Japanese: {{t+|ja|性|tr=sei|sc=Jpan}} ([[せい]])
@@ -58,7 +58,7 @@ From {{ME.}} < {{MF.}} {{term|gendre}}/{{term|genre}} < {{L.}} {{term|genus||[[k
 * French: {{t+|fr|genre|m}}
 {{trans-mid}}
 * German: {{t+|de|Geschlecht|n}}
-* Icelandic: {{t-|is|kyn|n}}
+* Icelandic: {{t+|is|kyn|n}}
 {{trans-bottom}}
 
 {{trans-top|behavioural characteristics}}
@@ -83,8 +83,8 @@ From {{ME.}} < {{MF.}} {{term|gendre}}/{{term|genre}} < {{L.}} {{term|genus||[[k
 * Greek: {{t+|el|φύλο|n|s|sc=Grek}} (fílo)
 * Hebrew: {{t+|he|מגדר|sc=Hebr}}
 {{trans-mid}}
-* Icelandic: {{t-|is|kyn|n}}
-* Japanese: {{t|ja|性|tr=sei|sc=Jpan}}, {{t|ja|性別|tr=seibetsu|sc=Jpan}}
+* Icelandic: {{t+|is|kyn|n}}
+* Japanese: {{t+|ja|性|tr=sei|sc=Jpan}}, {{t-|ja|性別|tr=seibetsu|sc=Jpan}}
 * Latin: {{t+|la|genus|n}}
 * Portuguese: {{t+|pt|gênero|m}}
 * Russian: {{t+|ru|пол|m|sc=Cyrl}} (pol)
@@ -124,7 +124,7 @@ From {{ME.}} < {{MF.}} {{term|gendre}}/{{term|genre}} < {{L.}} {{term|genus||[[k
 {{trans-top|engender}}
 * Dutch: {{t-|nl|voortbrengen}}
 {{trans-mid}}
-* Finnish: [[synnyttää]], [[saada aikaan]], [[tuottaa]]
+* Finnish: {{t-|fi|synnyttää}}, {{t-|fi|saada aikaan}}, {{t+|fi|tuottaa}}
 {{trans-bottom}}
 
 [[de:gender]]
