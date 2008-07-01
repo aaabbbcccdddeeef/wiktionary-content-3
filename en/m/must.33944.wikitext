@@ -4,7 +4,7 @@
 {{rank|did|such|great|86|must|these|two|us}}
 
 ===Etymology===
-From {{OE.}} [[mosten]], past tense of [[motan]], "be able to", cf. Dutch [[moesten]] and [[moeten]].
+From {{OE.}} {{term|mosten}}, past tense of {{term|motan||be able to}}.  Cognate with Dutch {{term|moesten}} and {{term|moeten}} and with German {{term|müssen}}.
 
 ===Pronunciation===
 * {{qualifier|stressed}} {{IPA|/mʌst/}}, {{SAMPA|/mVst/}}
@@ -15,15 +15,17 @@ From {{OE.}} [[mosten]], past tense of [[motan]], "be able to", cf. Dutch [[moes
 ===Verb===
 {{en-verb|inf=-|[[must]]|-|had to|-}}
 
-# ''(modal auxiliary verb, defective)'' The speaker&mdash;but not necessarily the subject of the sentence&mdash;is [[certain]] that the sentence [[predicate]] will be executed.
-#:''If it rained all day, it '''must''' be very wet outside.''
-#:(Compare with weaker auxiliary verb ''[[should]]'', indicating a strong probability of the predicate's execution.)
-# ''(modal auxiliary verb, defective)'' The execution of the sentence [[predicate]] is [[required]], with failure to do so resulting in a negative consequence. This requirement may be '''imperative''' or '''directive'''.
-#: Imperative: a subject is specified or implied, and an obligation is created on the subject to perform the act, with potentially very indirect and subtle negative consequences for failure:
-#::''You '''must''' arrive in class on time.'' (unspecified negative consequences could be anything: missing the teaching, punishment, making parents look bad, destruction of the planet...)
-#: Directive: a subject is not necessary specified. This usage defines conditions that must be met in order for a goal to be attained, in which case the negative consequence is specifically the failure to complete the goal:
-#::''This door handle '''must''' be rotated fully.'' (unspecified negative consequence is very specific: the door will not open.)
-#:(Compare with weaker auxiliary verb ''[[should]]'', indicating intent for the predicate's execution; and stronger auxiliary verb ''[[will]]'', indicating that the negative consequence will be unusually severe.)
+# {{context|modal|_|auxiliary|defective}} To do with [[certainty]]; {{non-gloss definition|indicates that the speaker is [[certain]] that the subject will have executed the [[predicate]]}}
+#: ''If it rained all day, it '''must''' be very wet outside.''
+#: ''You picked one of two, and it wasn't the first: it '''must''' have been the second.''
+# {{context|modal|_|auxiliary|defective}} To do as a [[require]]ment; {{non-gloss definition|indicates that the sentence subject is [[required]] as an imperative or directive to execute the sentence [[predicate]], with failure to do so resulting in a negative consequence}}.
+#: ''You '''must''' arrive in class on time.'' — the requirement is an imperative
+#: ''This door handle '''must''' be rotated fully.'' — the requirement is a directive
+
+====Usage notes====
+* {{sense|auxiliary|to do with certainty}} Compare with weaker auxiliary verb {{term|should}}, indicating a strong probability of the predicate's execution.
+* {{sense|auxiliary|to do as a requirement}} Compare with weaker auxiliary verb {{term|should}}, indicating mere intent for the predicate's execution; and stronger auxiliary verb {{term|will}}, indicating that the negative consequence will be unusually severe.
+* {{term|must|Must}} is not used to indicate obligation '''in the past'''. As indicated above, the usual form is {{term|had to}}. It is possible to use {{term|be bound to}} for the past also.  For this reason, {{term|have to}} and {{term|be bound to}} are also used as alternatives to {{term|must}} in the present and future.
 
 ====Translations====
 {{trans-top|must}}
@@ -45,11 +47,6 @@ From {{OE.}} [[mosten]], past tense of [[motan]], "be able to", cf. Dutch [[moes
 *Swedish: [[måste]]
 *Vietnamese: [[phải]]
 {{trans-bottom}}
-
-====Usage notes====
-* '''Must''' cannot be used to indicate obligation '''in the past'''. As indicated above, the usual form is [[had to]]. It is possible to use [[be bound to]] for the past also.
-* For this reason, [[have to]] and [[be bound to]] are also used as alternatives to '''must''' in the present and future.
-* In the past tense, [[must have]] indicates past logical certainty, not past obligation: ''You picked one of two, and it wasn't the first: it must have been the second''
 
 [[Category:English defective verbs]]
 
