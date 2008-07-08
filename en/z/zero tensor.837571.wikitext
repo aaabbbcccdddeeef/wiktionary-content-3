@@ -1,8 +1,11 @@
-[[Category:Move to Wiktionary 2007-11]]
-The [[origin]].
+==English==
+{{wikipedia|Zero Matrix}}
+===Noun===
+{{en-noun}}
 
-A [[tensor]] with all entries equal to [[zero]].[http://en.wikipedia.org/wiki/Zero_matrix]
+# A [[tensor]] with all entries equal to [[zero]]; where any pattern of [[covariant]] and [[contravariant]] [[indices]] have all components equal to 0.
+# A generalization of the [[zero vector]] to tensor space.
 
-A generalization of the [[zero vector]] to tensor space.
-
-A zero tensor is a tensor of any rank and with any pattern of covariant and contravariant indices all of whose components are equal to 0 (Weinberg 1972, p. 38).[http://mathworld.wolfram.com/ZeroTensor.html]
+===References===
+* [http://mathworld.wolfram.com/ZeroTensor.html Mathworld]]
+* Weinberg 1972, p. 38.
