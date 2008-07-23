@@ -7,7 +7,7 @@
 * {{rhymes|ɪŋk}}
 
 ===Etymology 1===
-From {{OE.}} {{term|linke}} probably from {{ON.}} *{{term||hlenkr}}, from {{PG.}}.  Used in English since the 14th Century.
+From {{OE.}} {{term|linke}} probably from {{ON.}} *{{term||hlenkr}}, from {{PG.}}. Used in English since the 14th century.
 
 ====Noun====
 {{en-noun}}
@@ -21,7 +21,7 @@ From {{OE.}} {{term|linke}} probably from {{ON.}} *{{term||hlenkr}}, from {{PG.}
 #: ''A by-N-'''link''' is composed of N lanes.''
 # {{computing}} Shortened form of [[hyperlink]], especially one [[implement]]ed in [[HTML]].
 #: ''The '''link''' on the page points to the sports scores.''
-# {{math}} A [[space]] [[comprise|comprising]] one or more [[disjoint]] [[knot]]s.
+# {{mathematics}} A [[space]] [[comprise|comprising]] one or more [[disjoint]] [[knot]]s.
 
 =====Derived terms=====
 * [[hyperlink]]
@@ -98,6 +98,8 @@ From {{OE.}} {{term|linke}} probably from {{ON.}} *{{term||hlenkr}}, from {{PG.}
 {{en-verb}}
 
 # {{transitive}} To [[connect]] two or more things.
+# {{intransitive|of a Web page}} To contain a [[hyperlink]] to another page.
+#: ''My homepage '''links''' to my wife's.''
 
 =====Translations=====
 {{trans-top|connect things}}
@@ -158,9 +160,9 @@ Origin unknown.
 ====Adjective====
 {{nl-adj|infl=linke|linker|linkst}}
 
-# {{context|criminal|_|slang}} [[sly]]; [[cunning]]
+# {{context|criminal|_|slang|lang=nl}} [[sly]]; [[cunning]]
 # [[dangerous]]
-# {{context|Dutch boys’ slang}} [[jolly]], [[nice]]
+# {{context|Dutch boys’ slang|lang=nl}} [[jolly]], [[nice]]
 
 =====Derived terms=====
 * [[linkerd]]
@@ -172,7 +174,7 @@ From {{E.|nl}} {{term|link|lang=en}}, only since late 20th century.
 {{nl-noun2|m|s|je}}
 
 # Physical [[connection]], as in a [[hardware]] cable.
-# {{context|metaphorically}} Logical [[connection]], as in [[reason]]ing about [[causality]].
+# {{context|metaphorically|lang=nl}} Logical [[connection]], as in [[reason]]ing about [[causality]].
 # A [[hyperlink]].
 
 =====Synonyms=====
@@ -199,16 +201,14 @@ From {{E.|nl}} {{term|link|lang=en}}, only since late 20th century.
 ==German==
 
 ===Pronunciation===
-* {{IPA|/'liŋk/}}
+* {{IPA|/'liŋk/|lang=de}}
 
 ===Adjective===
-'''link'''
+{{infl|de|adjective}}}
 
 # [[left]]
 # [[sly]]; [[cunning]].
 # [[dangerous]].
-
-[[Category:German adjectives]]
 
 ----
 
@@ -235,7 +235,7 @@ From {{E.|it}} {{term|lang=en|link}}.
 ===Noun===
 '''link''' {{m}} {{inv}}
 
-# {{context|computing|lang=it}} [[link#English|link]] {{i|hyperlink}}
+# {{context|computing|lang=it}} [[link#English|link]] {{qualifier|hyperlink}}
 
 ====Synonyms====
 * [[collegamento]]
