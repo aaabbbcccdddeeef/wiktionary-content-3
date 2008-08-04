@@ -2,14 +2,7 @@
 ==English==
 
 ===Pronunciation===
-{| border=1 cellpadding=5
-| [[w:AHD|AHD]] || māl
-|-
-| [[w:IPA|IPA]] || {{IPAchar|/meɪl/}}
-|-
-| [[w:SAMPA|SAMPA]] || /meIl/
-|}
-
+* {{enPR|māl}}, {{IPA|/meɪl/}}, {{SAMPA|/meIl/}}
 * {{audio|en-us-mail.ogg|Audio (US)}}
 * Rhymes: [[Rhymes:English:-eɪl|-eɪl]]
 
@@ -17,7 +10,7 @@
 * [[male]]
 
 ===Etymology 1===
-From {{etyl|enm}} {{term|male||bag, mail}}, from {{etyl|fro}} {{term|male}}, from a Germanic source, from {{PIE.}} {{term||<nowiki/>*molko-|leather pouch}}.
+From {{etyl|enm|en}} {{term|male||bag, mail|lang=enm}}, from {{etyl|fro|en}} {{term|male|lang=fro}}, from a Germanic source, from {{proto|Indo-European|molko-|leather pouch|lang=en}}.
 
 ====Noun====
 {{en-noun|mails|-}}
@@ -171,7 +164,7 @@ From {{etyl|enm}} {{term|male||bag, mail}}, from {{etyl|fro}} {{term|male}}, fro
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{etyl|enm}} {{term|maille||mail armor}}, from {{etyl|fro}} {{term|maille}}, from {{etyl|la}} {{term|macula||blemish, mesh}}, probably from {{PIE.}} {{term||<nowiki/>*smH₁-tleH₂}}, from {{term||<nowiki/>*smeH₁-|smear, rub}}.
+From {{etyl|enm|en}} {{term|maille||mail armor|lang=enm}}, from {{etyl|fro|en}} {{term|maille|lang=fro}}, from {{etyl|la|en}} {{term|macula||blemish, mesh|lang=la}}, probably from {{proto|Indo-European|smh₁-tleh₂}}, from {{proto|Indo-European|*smeh₁-|smear, rub|lang=en|title=}}.
 
 ====Noun====
 [[Image:Baidana rings.JPG|thumb|right|Mail]]
@@ -212,20 +205,19 @@ From {{etyl|enm}} {{term|maille||mail armor}}, from {{etyl|fro}} {{term|maille}}
 ==Fijian Hindi==
 
 ===Etymology===
-From [[English]] ''[[mile]]'', which is the imperial measure of distance.
+From {{etyl|en|hif}} {{term|mile||imperial measure of distance|lang=en}}.
 
 ===Pronunciation===
 * {{IPA|/maɪl/}}
 
 ===Noun===
-'''mail'''
+{{infl|hif|noun}}
 
 # [[mile]]
 
 ===References===
 * [http://www.geocities.com/fijihindi/FijiHindiEnglishDict.htm#m Fiji Hindi Dictionary]
 
-[[Category:Fijian Hindi nouns]]
 [[Category:hif:English derivations]]
 
 ----
@@ -233,14 +225,12 @@ From [[English]] ''[[mile]]'', which is the imperial measure of distance.
 ==[[Romansch]]==
 
 ===Etymology===
-Latin ''[[malum]]''. Compare Romanian ''[[măr]]''.
+From {{etyl|la|rm}} {{term|malum|lang=la}}. Compare Romanian {{term|măr|lang=ro}}.
 
 ===Noun===
-'''mail''' {{g|Romansch}}
+{{infl|rm|noun}} {{g|Romansch}}
 
 # [[apple]]
-
-[[Category:Romansch nouns]]
 
 [[da:mail]]
 [[es:mail]]
