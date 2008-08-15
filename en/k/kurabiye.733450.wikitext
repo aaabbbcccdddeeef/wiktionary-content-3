@@ -1,39 +1,20 @@
 ==Turkish==
 
 ===Noun===
-'''kurabiye'''
+{{infl|tr|noun}}
 
 # [[cookie]]
 
 ===Declension===
-{| style="background-color:#F0 80 80; border: 1px solid #000; font-size:13px; line-height:14px; font-stretch:extra-expanded;" cellpadding="3" cellspacing="1" 
-|- style="background-color:#d9ebff;"  align=center
-! width=120 rowspan=1 | Declension of ''kurabiye''
-! colspan=1 | Singular
-! colspan=1 | Plural
-|- align=center
-| style="background-color:#ecc3cc;" | ''nominative''
-| kurabiye
-| kurabiyeler
-|- align=center
-| style="background-color:#aff1ff;" | ''genitive''
-| kurabiyenin
-| kurabiyelerin
-|- align=center
-| style="background-color:#ecc3cc;" | ''dative''
-| kurabiyeye
-| kurabiyelere
-|- align=center
-| style="background-color:#aff1ff;" | ''accusative''
-| kurabiyeyi
-| kurabiyeleri
-|- align=center
-| style="background-color:#ecc3cc;" | ''locative''
-| kurabiyede
-| kurabiyelerde
-|}<noinclude>[[Category:Turkish declension templates]]</noinclude>
-
-[[Category:Turkish nouns]]
+{{rfc-decl|lang=tr|ablative missing}}
+{{tr-decl-noun
+| kurabiye | kurabiyeler
+| kurabiyeyi | kurabiyeleri
+| kurabiyeye | kurabiyelere
+| kurabiyede | kurabiyelerde
+||
+| kurabiyenin | kurabiyelerin
+}}
 
 [[ru:kurabiye]]
 [[tr:kurabiye]]
