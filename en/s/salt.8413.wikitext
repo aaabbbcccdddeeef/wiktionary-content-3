@@ -1,14 +1,14 @@
 ==English==
 
 ===Etymology===
-Old English ''[[sealt]]'', from Germanic, from Indo-European.  Cognate with Dutch ''[[zout]]'', German ''[[Salz]]'', Swedish ''[[#Swedish|salt]]''; and with Greek ''[[ἅλς]]'', Latin ''[[sal]]'', Welsh ''[[halen]]'', Russian ''[[соль]]''.
+{{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem}}, from {{proto|Indo-European}}.  Cognate with Dutch {{term|zout|lang=nl}}, German {{term|Salz|lang=de}}, Swedish {{term|salt|lang=sv}}; and with Ancient Greek {{term|ἅλς|sc=Polytonic|lang=grc}}, Latin {{term|sal|lang=la}}, Welsh {{term|halen|lang=cy}}, Russian {{term|соль|sc=Cyrl|lang=ru}}.
 
 ===Pronunciation===
-* {{a|US}} {{IPA|/sɑlt/}}
-* {{a|UK}} {{IPA|/sɒlt/}}
+* {{a|UK}} {{IPA|/sɒlt/}}, {{SAMPA|/sQlt/}}
+* {{a|US}} {{IPA|/sɑlt/}}, {{SAMPA|/sAlt/}}
 * {{audio|en-gb-salt.ogg|Audio (RP)}}
 * {{audio|en-us-salt.ogg|Audio (US)}}
-*: Rhymes: [[Rhymes:English:-ɔːlt|-ɔːlt]]
+* {{rhymes|ɒlt}}
 
 ===Noun===
 {{wikipedia}}
@@ -294,21 +294,19 @@ Old English ''[[sealt]]'', from Germanic, from Indo-European.  Cognate with Dutc
 ==Catalan==
 
 ===Etymology===
-Latin ''[[saltus]]''
+{{etyl|la|ca}} {{term|saltus|lang=ca}}
 
 ===Noun===
-'''salt''' ''m''
+{{infl|ca|noun|g=m}}
 
 # [[jump]]
-
-[[Category:Catalan nouns]]
 
 ----
 
 ==Danish==
 
 ===Adjective===
-'''salt'''
+{{infl|da|adjective}}
 
 # [[salty]], [[#English|salt]]
 
@@ -317,24 +315,21 @@ Latin ''[[saltus]]''
 
 # [[#English|salt]]
 
-[[Category:Danish adjectives]]
-
 ----
 
 ==Faroese==
 
 ===Pronunciation===
-{{IPA|[salt]}}
+{{IPA|[salt]|lang=fo}}
 
 ===Noun===
-'''salt''' {{n}}
+{{infl|fo|noun|g=n}}
 
 # [[#English|salt]]
 
 ====Declension====
 {{fo-decl-noun-n5|s|a|lt|ø}}
 
-[[Category:Faroese nouns]]
 [[Category:fo:Chemistry]]
 [[Category:fo:Spices and herbs]]
 
@@ -346,14 +341,14 @@ Latin ''[[saltus]]''
 * {{audio|Salt.ogg|audio}}
 
 ===Adjective===
-'''salt'''
+{{infl|is|Adjective}}
 
 # [[salty]], ''[[positive degree|positive]]'' neuter {{singular}} {{nominative}} of ''[[saltur]]''
 
 {{Fallbeyging hk sb 01 ö|s|lt}}
 
 ===Noun===
-'''salt''' {{n}} ([[salts|salt-s]], [[sölt]])
+{{infl|is|noun|g=n}} ([[salts|salt-s]], [[sölt]])
 
 # [[#English|salt]]
 #: ''Geturðu rétt mér '''saltið'''?''
@@ -366,25 +361,22 @@ Latin ''[[saltus]]''
 * [[vega salt]]
 
 [[Category:Icelandic adjective forms]]
-[[Category:Icelandic nouns]]
 
 ----
 
 ==Latvian==
 
 ===Verb===
-'''salt'''
+{{infl|lv|verb}}
 
 # [[freeze]]
-
-[[Category:Latvian verbs]]
 
 ----
 
 ==Norwegian==
 
 ===Adjective===
-'''salt''', ''saltere'', ''saltest''
+{{infl|no|adjective|comparative|[[saltere]]|superlative|[[saltest]]
 
 # [[salty]], [[#English|salt]]
 
@@ -406,25 +398,21 @@ Latin ''[[saltus]]''
 ==Old Frisian==
 
 ===Noun===
-'''salt'''
+{{infl|ofs|noun}}
 
 # [[#English|salt]]
-
-[[Category:Old Frisian nouns]]
 
 ----
 
 ==Romanian==
 
 ===Etymology===
-Latin ''[[saltus]]''
+{{etyl|la|ro}} {{term|saltus|lang=la}}
 
 ===Noun===
-'''salt''' {{n}}
+{{infl|lv|noun|g=n}}
 
 # [[leap]]
-
-[[Category:Romanian nouns]]
 
 ----
 
@@ -474,11 +462,9 @@ When used for the salt NaCl (common salt) specifically, the word is uncountable.
 ==Turkish==
 
 ===Adverb===
-'''salt'''
+{{infl|tr|adverb}}
 
 # [[exclusively]]
-
-[[Category:Turkish adverbs]]
 
 [[ar:salt]]
 [[zh-min-nan:salt]]
