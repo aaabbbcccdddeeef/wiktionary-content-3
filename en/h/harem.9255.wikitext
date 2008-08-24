@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From Turkish [[#Turkish|harem]], from Arabic {{Arab|[[حرم]]}} (ḥaram) ‘something prohibited; sanctuary, women’; and later also from {{Arab|[[حريم]]}} (ḥarīm) with same meaning, both from {{Arab|[[حرم]]}} (ḥaruma) ‘be forbidden or unlawful’.  (Eng. usg. 1623)
+From {{Turk.}} {{term|harem|lang=tr}}, from {{Ar.}} {{term|حرم|lang=ar|sc=Arab|tr=ḥaram}} ‘something prohibited; sanctuary, women’; and later also from {{Arab|[[حريم]]}} (ḥarīm) with same meaning, both from {{Arab|[[حرم]]}} (ḥaruma) ‘be forbidden or unlawful’.  (Eng. usg. 1623)
 
 ===Pronunciation===
 * {{audio|en-us-harem.ogg|Audio (US)}}
@@ -18,7 +18,7 @@ From Turkish [[#Turkish|harem]], from Arabic {{Arab|[[حرم]]}} (ḥaram) ‘so
 {{rfc-trans}}
 {{top}}
 * Arabic: {{Arab|[[حريم]]}}
-* Bosnian: [[harem#Bosnian|harem]] {{m}}
+* Bosnian: {{t-|bs|harem|m}}, {{t-|bs|haremluk|m}}
 * Bulgarian: [[харем#Bulgarian|харем]] {{m}}
 * Chinese:
 *: Simplified: [[妻妾]], [[后宫]]
@@ -43,11 +43,11 @@ From Turkish [[#Turkish|harem]], from Arabic {{Arab|[[حرم]]}} (ḥaram) ‘so
 * Portuguese: [[harém]] {{m}}
 * Russian: [[гарем]] {{m}}
 * Serbian:
-*: Cyrillic: [[харем#Serbian|харем]] {{m}}
-*: Roman: [[harem#Serbian|harem]] {{m}}
+*: Cyrillic: {{t-|sr|харем|m}}, {{t-|sr|haremluk|m}}
+*: Roman: {{t-|sr|harem|m}}, {{t-|sr|haremluk|m}}
 * Spanish: [[harén]]
 * Swedish: harem {{n}}
-* Turkish: harem
+* Turkish: {{t|tr|harem}}, {{t|tr|haremlik}}
 * Urdu: {{ur-Arab|[[محل سرا]]}} (mahal-sarā) {{f}}, {{ur-Arab|[[حرم سرا]]}} (haram-sarā) {{f}}
 {{bottom}}
 
@@ -65,16 +65,20 @@ From Turkish [[#Turkish|harem]], from Arabic {{Arab|[[حرم]]}} (ḥaram) ‘so
 
 ==Bosnian==
 
+===Etymology===
+From {{Turk.|bs}} {{term|harem|lang=tr}} < {{Ar.|bs}} {{term|حرم|lang=ar|sc=Arab|tr=ḥaram}}.
+
 ===Noun===
-'''harem''' {{m}} {{s}} ({{p}}: '''haremi''')
+{{bs-noun|g=m|haremi}}
 
-# harem
-
-[[Category:Bosnian nouns]]
+# [[#English|harem]]
 
 ----
 
 ==Croatian==
+
+===Etymology===
+From {{Turk.|hr}} {{term|harem|lang=tr}} < {{Ar.|hr}} {{term|حرم|lang=ar|sc=Arab|tr=ḥaram}}.
 
 ===Noun===
 {{hr-noun|m}}
@@ -85,26 +89,25 @@ From Turkish [[#Turkish|harem]], from Arabic {{Arab|[[حرم]]}} (ḥaram) ‘so
 
 ==Serbian==
 
+===Etymology===
+From {{Turk.|sr}} {{term|harem|lang=tr}} < {{Ar.|sr}} {{term|حرم|lang=ar|sc=Arab|tr=ḥaram}}.
+
 ===Noun===
-'''harem''' {{m}} {{s}} ({{p}}: '''haremi''')
+{{sr-noun|g=m|pl=haremi|cyr=харем}}
 
-# harem
-
-====Cyrillic spelling====
-* [[харем#Serbian|харем]]
-
-[[Category:Serbian nouns]]
+# [[#English|harem]]
 
 ----
 
 ==Turkish==
 
+===Etymology===
+From {{Ar.|tr}} {{term|حرم|lang=ar|sc=Arab|tr=ḥaram}}.
+
 ===Noun===
-'''harem'''
+{{infl|tr|noun}}
 
-# harem
-
-[[Category:Turkish nouns]]
+# [[#English|harem]]
 
 [[el:harem]]
 [[fr:harem]]
