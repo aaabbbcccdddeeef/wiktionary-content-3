@@ -1,16 +1,11 @@
 ==Latin==
 
 ===Adjective===
-{{#if:proximus|<!--
-Irregular Adverb
--->'''prope''' (''[[comparative]]'' '''[[propius#Latin|{{#if:||propius}}]]''', ''[[superlative]]'' '''[[proximus#Latin|{{#if:|{{{5}}}|proximus}}]]''') |{{#if:||Error. ''([[Template_talk:la-adv|Documentation]])''<br/>}}<!--
-Regular Adverb
--->'''{{#if:propius|propius|prope}}{{#ifeq:|e|ē|{{#ifeq:|-||}}}}''' {{#ifeq:|-|''(not [[comparable]])''|(''[[comparative]]'' '''[[propeius#Latin|{{#if:propius|propius|prope}}ius]]''', ''[[superlative]]'' '''[[propeissime#Latin|{{#if:propius|propius|prope}}issimē]]''')}}}}
+{{la-adv|prope|propius||proximus}}
 
 # Near, close to.
 
 [[Category:Latin adverbs]]
-{{rfc-subst}}
 
 [[fr:prope]]
 [[ko:prope]]
