@@ -1,61 +1,33 @@
 {{wikipedia|dab=count (disambiguation)}}
 ==English==
 
-{{rfc|meanings in wrong etymology session}}
-
 ===Pronunciation===
 * {{IPA|/kaʊnt/}}, {{SAMPA|/kAUnt/}}
 * {{audio|en-us-count.ogg|Audio (US)}}
 * {{rhymes|aʊnt}}
 
 ===Etymology 1===
-From {{OF.}} ''[[conte]]''
+From {{OF.}} ''[[conter]]'', [[add up]] and tell a [[story]].
 
 ====Noun====
-{{wikipedia}}
 {{en-noun}}
 
-# The male ruler of a [[county]].  Also known as an [[earl]], especially in England.  (The female equivalent is [[countess]].)
-# The result of a tally that reveals the number of items in a set.
+# The result of a [[tally]] that reveals the [[number]] of items in a set; a [[quantity]] [[counted]].
 # A [[countdown]].
 # {{law}} A [[charge]] of misconduct brought in a [[legal]] proceeding.
 
 =====Translations=====
-{{trans-top|the male ruler of a county}}
-* [[Breton]]: [[kont]] {{m}} -ed {{p}}
-* Czech: {{t-|cs|hrabě|n}}
-* Danish: {{t-|da|greve|c}}
-* Dutch: {{t+|nl|graaf|m}}
-* Finnish: {{t-|fi|kreivi}}
-* French: {{t+|fr|comte|m}}
-* German: {{t+|de|Graf|m}}
-* Hebrew: [[רוזן]] (rozen) {{m}}
-* Hungarian: {{t+|hu|gróf}}
-* Italian: {{t+|it|conte}}
-* Latin: {{t-|la|comes|m}}
-{{trans-mid}}
-* Lithuanian: [[grafas]] {{m}}
-* Old English: {{t-|ang|eorl|m|xs=Old English}}
-* Polish: [[hrabia]] {{m}}
-* Portuguese: {{t-|pt|conde|m}}
-* Romanian: {{t-|ro|conte|m}}
-* Russian: {{t+|ru|граф|m|tr=graf|sc=Cyrl}}
-* [[Scottish Gaelic]]: [[iarla]] {{m}}
-* Slovene: {{t+|sl|grof|m}}
-* Spanish: {{t-|es|conde|m}}
-* Swedish: {{t+|sv|greve}}
-* Turkish: {{t+|tr|kont|m}}
-{{trans-bottom}}
-
 {{trans-top|the result of a tally that reveals the number of items in a set}}
 * [[Breton]]: [[kont]] {{f}} -où {{p}}
 * Czech: {{t+|cs|počet|n}}
 * Dutch: {{t-|nl|telling|f}}
 * Finnish: {{t+|fi|määrä}}
+* German: {{t+|de|Anzahl|g=f}}
 {{trans-mid}}
 * Romanian: [[numărare]] {{f}}
 * Russian: {{t+|ru|счёт|sc=Cyrl}}
 * Slovene: [[rezultat]] {{m}}
+* Spanish: {{t-|es|conteo|g=m}}
 {{trans-bottom}}
 
 {{trans-top|a countdown}}
@@ -79,24 +51,12 @@ From {{OF.}} ''[[conte]]''
 * {{ttbc|Telugu}}: [[లెక్క]] (lekka), [[లెక్కింపు]] (lekkiMpu)
 {{trans-bottom}}
 
-===Etymology 2===
-From {{OF.}} ''[[conter]]'', [[add up]] and tell a [[story]].
-
-====Noun====
-{{en-noun}}
-
-# Counted [[number]], [[quantity]].
-
-=====Translations=====
-* German: {{t+|de|Anzahl|g=f}}
-* Spanish: {{t-|es|conteo|g=m}}
-
 ====Verb====
 {{en-verb}}
 
-# {{intransitive}}: To [[enumerate]] the [[digit]]s of one's [[numeral]] system.
+# {{intransitive}} To [[enumerate]] the [[digit]]s of one's [[numeral]] system.
 #: ''Can you '''count''' to a hundred?''
-# {{transitive}}: To determine the [[number]] (of objects in a group).
+# {{transitive}} To determine the [[number]] (of objects in a group).
 #: ''There are three apples; '''count''' them.''
 # {{intransitive}} To [[matter]].
 #: ''Your views don't '''count''' here.''
@@ -137,6 +97,42 @@ From {{OF.}} ''[[conter]]'', [[add up]] and tell a [[story]].
 {{trans-mid}}
 * Polish: [[liczyć się]]
 * Slovene: [[šteti]]
+{{trans-bottom}}
+
+===Etymology 2===
+{{wikipedia}}
+From {{OF.}} ''[[conte]]''
+
+====Noun====
+{{en-noun}}
+
+# The male ruler of a [[county]].  Also known as an [[earl]], especially in England.  (The female equivalent is [[countess]].)
+
+=====Translations=====
+{{trans-top|the male ruler of a county}}
+* [[Breton]]: [[kont]] {{m}} -ed {{p}}
+* Czech: {{t-|cs|hrabě|n}}
+* Danish: {{t-|da|greve|c}}
+* Dutch: {{t+|nl|graaf|m}}
+* Finnish: {{t-|fi|kreivi}}
+* French: {{t+|fr|comte|m}}
+* German: {{t+|de|Graf|m}}
+* Hebrew: [[רוזן]] (rozen) {{m}}
+* Hungarian: {{t+|hu|gróf}}
+* Italian: {{t+|it|conte}}
+* Latin: {{t-|la|comes|m}}
+{{trans-mid}}
+* Lithuanian: [[grafas]] {{m}}
+* Old English: {{t-|ang|eorl|m|xs=Old English}}
+* Polish: [[hrabia]] {{m}}
+* Portuguese: {{t-|pt|conde|m}}
+* Romanian: {{t-|ro|conte|m}}
+* Russian: {{t+|ru|граф|m|tr=graf|sc=Cyrl}}
+* [[Scottish Gaelic]]: [[iarla]] {{m}}
+* Slovene: {{t+|sl|grof|m}}
+* Spanish: {{t-|es|conde|m}}
+* Swedish: {{t+|sv|greve}}
+* Turkish: {{t+|tr|kont|m}}
 {{trans-bottom}}
 
 [[Category:English ergative verbs]]
