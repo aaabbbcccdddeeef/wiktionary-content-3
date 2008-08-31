@@ -17,11 +17,11 @@
 # {{rfd-sense|not in 2 psych dictionaries in this sense, incl APA}} {{psychology}} a recurring psychosocial issue that stimulates growth and development in the personality
 # the way in which the eyes are drawn across the visual text. The trail that a book cover can encourage the eyes to follow from certain objects to others
 # {{computing}} (operating systems) a memory address containing the address of a [[code entry point]], usually one which is part of a [[table]] and often one that is [[dereference|deferenced]] and [[jump|jumped]] to during the execution of an [[interrupt]]
-# {{complang}} A [[data structure]] consisting of a series of [[contiguous]] [[storage location|storage locations]] which are accessed via an [[integer]] [[offset]] from the [[address]] of the first storage location, thereby allowing a collection of values which utilize a common [[storage layout]] to be referenced either individually or in [[aggregate]], as desired.
-# {{complang}} A one-dimensional [[array]].
+# {{programming}} A [[data structure]] consisting of a series of [[contiguous]] [[storage location|storage locations]] which are accessed via an [[integer]] [[offset]] from the [[address]] of the first storage location, thereby allowing a collection of values which utilize a common [[storage layout]] to be referenced either individually or in [[aggregate]], as desired.
+# {{programming}} A one-dimensional [[array]].
 
 ====Usage notes====
-* {{complang}} The term '''vector''' is used loosely when the indices are not (either postitive or non-negative) integers.
+* {{programming}} The term '''vector''' is used loosely when the indices are not (either postitive or non-negative) integers.
 
 ====Derived terms====
 * [[vectorial]]
