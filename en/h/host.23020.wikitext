@@ -1,33 +1,34 @@
 {{see|höst}}
-{{wikipedia|dab=host}}
 ==English==
+{{wikipedia|dab=host}}
 
 ===Pronunciation===
 * {{audio|en-us-host.ogg|Audio (US)}}
-
-* Rhymes: [[Rhymes:English:-əʊst|-əʊst]]
+* {{rhymes|əʊst}}
+{{rfp}}
 
 ===Etymology 1===
-From {{OF.}} ''[[hoste]]'' (French: ''[[hôte]]''), from {{ML.}} ''[[hospitem]]'' (nominative of ''[[hospes]]''). Used in English since 13th Century.
+From {{etyl|fro}} {{term|hoste|lang=fro}} (French: {{term|hôte|lang=fr}}), from Middle {{etyl|la}} {{term|hospitem|lang=la}} (nominative of {{term|hospes|lang=la}}). Used in English since 13th Century.
 
 ====Noun====
 {{en-noun}}
-{{rfc|Is the computer [[server]] sense correct?  See [[Talk:host]].}}
+{{rfc|Is the computer [[server]] sense correct?  See [[Talk:host]]}}
 
-# A person who allows a [[guest]], particularly into the host's home.
-#: ''A good host is always considerate of the guest's needs.''
-# A person or organization responsible for running an event.
+# A person who allows a [[guest]], particularly into the host’s home.
+#: ''A good host is always considerate of the guest’s needs.''
+# A person or organization responsible for [[run]]ning an [[event]].
 #: ''Our company is host of the annual conference this year.''
-# A moderator or [[master of ceremonies]] for a performance.
+# A [[moderator]] or [[master of ceremonies]] for a [[performance]].
 #: ''The host was terrible, but the acts themselves were good.''
-# {{computing}} {{Internet}} {{context|Unix}} Any computer attached to a [[network]].
-# {{computing}} {{context|networking}} A computer or software component that provides [[service]]s.
+# {{computing|internet|Unix}} Any computer attached to a [[network]].
+# {{computing|networking}} A computer or software component that provides [[service]]s.
 #: ''This machine is the host of the name server.''
-# {{biology}} A cell or organism which harbors another organism or biological entity, usually a parasite.
+# {{biology}} A [[cell]] or [[organism]] which [[harbor]]s another organism or biological entity, usually a [[parasite]].
 #: ''Viruses depend on the host that they infect in order to be able to reproduce''
-# (''evolutionism, genetics'') An organism bearing certain genetic material.
+# {{context|evolutionism|genetics}} An organism bearing certain [[genetic]] material.
 #: ''The so-called junk DNA provides no benefit to its host.''
 
+{{rfc|split up derived terms, move some of the see also’s to synonyms, other nyms}}
 =====Related terms=====
 * [[hostess]]
 * [[hostel]]
@@ -35,13 +36,14 @@ From {{OF.}} ''[[hoste]]'' (French: ''[[hôte]]''), from {{ML.}} ''[[hospitem]]'
 * [[hostname]]
 
 =====Translations=====
-{{trans-top|person who allow a guest}}
+{{trans-top|person who allows a guest}}
 * Bosnian: [[domaćin]] {{m}}, [[domaćinica]] {{f}}, [[gazda]] {{m}}, [[gazdarica]] {{f}}
 * Czech: [[hostitel]] {{m}}
+* Dutch: {{t|nl|gastheer|m}}, {{t|nl|gastvrouw|f}}, {{t|nl|gastgever|m}}
 * French: [[hôte]]
 * German: [[Gastgeber]] {{m}}
 * Hungarian: {{t|hu|házigazda}}
-* Icelandic: [[gestgjafi]] {{m}} (''male and female'')
+* Icelandic: [[gestgjafi]] {{m}}
 * Portuguese: [[anfitrião]]
 {{trans-mid}}
 * Serbian:
@@ -52,6 +54,7 @@ From {{OF.}} ''[[hoste]]'' (French: ''[[hôte]]''), from {{ML.}} ''[[hospitem]]'
 {{trans-bottom}}
 
 {{trans-top|person or organisation responsible for running an event}}
+* Dutch: {{t|nl|organisator|m}}, {{t|nl|gastgever|m}}
 * French: [[organisateur]] {{m}}
 * German: [[Veranstalter]] {{m}}
 * Portuguese: [[organizador]], [[realizador]]
@@ -61,13 +64,25 @@ From {{OF.}} ''[[hoste]]'' (French: ''[[hôte]]''), from {{ML.}} ''[[hospitem]]'
 {{trans-bottom}}
 
 {{trans-top|moderator}}
+* Dutch: {{t|nl|moderator|m}}, {{t|nl|gastheer|m}}, {{t|nl|gastvrouw|f}}, {{t|nl|gastgever|m}}
 * Portuguese: [[mediador]]
 {{trans-mid}}
 * Slovene: [[voditelj]] {{m}}, [[voditeljica]] {{f}}
 {{trans-bottom}}
 
-{{trans-top|cell or organism in which a [[virus]] replicates}}
+{{trans-top|computing: computer attached to a network}}
+* Dutch: {{t|nl|host|m}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|computing: computer or software component that provides services}}
+* Dutch: {{t|nl|host|m}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|biology: cell or organism which harbors another organism}}
 * Czech: [[hostitel]] {{m}}
+* Dutch: {{t|nl|gastheer|m}}
 * Icelandic: [[hýsill]] {{m}}
 * Portuguese: [[hospedeiro]]
 {{trans-mid}}
@@ -75,28 +90,35 @@ From {{OF.}} ''[[hoste]]'' (French: ''[[hôte]]''), from {{ML.}} ''[[hospitem]]'
 * Swedish: [[värd]] {{c}}
 {{trans-bottom}}
 
+{{trans-top|genetics: organism bearing certain genetic material}}
+* Dutch: {{t|nl|drager|m}}
+{{trans-mid}}
+{{trans-bottom}}
+
 ====Verb====
 {{en-verb}}
 
 # To perform the role of a host.
-#:* Our company will host the annual conference this year.
-#:* I was terrible at hosting that show.
-#:* I'll be hosting tonight.  I hope I'm not terrible.
-#:* Kremvax hosts a variety of services.
+#: Our company will host the annual conference this year.
+#: I was terrible at hosting that show.
+#: I’ll be hosting tonight.  I hope I’m not terrible.
+#: Kremvax hosts a variety of services.
 # {{context|computing|Internet}} To run [[software]] made available to a [[remote]] user or [[process]].
-#* '''1987''' May 7, Selden E. Ball, Jr., "Re:  Ethernet Terminal Concentrators", <tt>comp.protocols.tcp-ip</tt>, ''Usenet''
+#* '''1987''' May 7, Selden E. Ball, Jr., ''Re:  Ethernet Terminal Concentrators'', <tt>comp.protocols.tcp-ip</tt>, ''Usenet''
 #*: CMU/TEK TCP/IP software uses an excessive amount of cpu resources for terminal support both outbound, when accessing another system, and inbound, when the local system is '''hosting''' a session.
 
 =====Translations=====
-{{trans-top|to perform the role of a host}}
+{{trans-top|perform the role of a host}}
 * Czech: [[hostit]]
+* Dutch: {{t|nl|ontvangen}}, {{t|nl|onderbrengen}}, {{t|nl|modereren}} {{i|show}}
 * French: [[recevoir]]
 {{trans-mid}}
 * Icelandic: [[hýsa]]
 * Slovene: [[gostiti]]
 {{trans-bottom}}
 
-{{trans-top|computing}}
+{{trans-top|computing: run software for a remote user or process}}
+* Dutch: {{t|nl|hosten}}
 * French: [[héberger]]
 {{trans-mid}}
 * Icelandic: [[hýsa]]
@@ -109,43 +131,50 @@ From {{OF.}} ''[[hoste]]'' (French: ''[[hôte]]''), from {{ML.}} ''[[hospitem]]'
 * [[master of ceremonies]]
 
 ===Etymology 2===
-From {{OF.}} ''[[host#Old French|host]]'', from {{ML.}} ''[[hostis]]'', "foreign enemy" (as opposed to personal enemy, ''[[inimicus]]''), cognate with etymology 1.
+From {{etyl|fro}} {{term|host|lang=fro}}, from Middle {{etyl|la}} {{term|hostis||foreign enemy|lang=la}} (as opposed to {{term|inimicus||personal enemy|lang=la}}), cognate with etymology 1.
 
 ====Noun====
 {{en-noun}}
 
-# A multitude of people arrayed as an army; used also in religious senses, as: ''Heavenly host (of angels)''
-#* '''2001''', Carlos Parada, "Hesione 2", ''Greek Mythology Link'' [http://homepage.mac.com/cparada/GML/Hesione2.html]
+# A [[multitude]] of people [[array]]ed as an [[army]]; used also in religious senses, as: ''Heavenly host (of angels)''
+#* '''2001''', Carlos Parada, ''Hesione 2'', [http://homepage.mac.com/cparada/GML/Hesione2.html Greek Mythology Link]
 #*: the invading '''host''' that had sailed from Hellas in more than one thousand ships was of an unprecedented size.
-# A large number of items; a large inventory.
-#:* A '''host''' of parts for my Model A!
+# A large number of items; a large [[inventory]].
+#: A '''host''' of parts for my Model A!
 
 =====Translations=====
-{{trans-top|a multitude of people arrayed as an army}}
+{{trans-top|multitude of people arrayed as an army}}
+* Dutch: {{t|nl|heerschaar|c}} {{i|archaic}}, {{t|nl|leger|n}}, {{t|nl|troep|m}} {{i|usually plural}}
 * French: [[armée]]
 {{trans-mid}}
 * German: [[Heer]] {{n}}
 {{trans-bottom}}
 
-{{trans-top|a large number of items}}
+{{trans-top|large number of items}}
+* Dutch: {{t|nl|berg|m}}, {{t|nl|troep|m}}
 {{trans-mid}}
 {{trans-bottom}}
 
 ===Etymology 3===
-{{ME.}} also ''[[oist]]'', ''[[ost]]'', {{OF.}} ''[[hoiste]]'', {{L.}}''[[hostia]]'', "sacrificial victim".
+From {{etyl|ang}} also {{term|oist|lang=ang}}, {{term|ost|lang=ang}}, from {{etyl|fro}} {{term|hoiste|lang=fro}}, from {{etyl|la}} {{term|hostia||sacrificial victim|lang=la}}.
 
 ====Noun====
 {{en-noun}}
 
-# (''Catholicism'') the [[consecrated]] [[bread]] or [[wafer]] of the [[eucharist|Eucharist]]
+# {{context|Catholicism}} The [[consecrated]] [[bread]] or [[wafer]] of the [[eucharist]].
 
 =====Translations=====
-{{top}}
+{{trans-top|consecrated bread}}
+* Dutch: {{t|nl|hostie|m}}
 * French: [[hostie]] {{f}}
-* German: [[Hostie]] {{f}} (1)
+* German: [[Hostie]] {{f}}
+{{trans-mid}}
 * Icelandic: [[kynnir]]
-* Spanish: [[anfitrión]], [[propietario]] {{m}}; [[presentador]]
-{{bottom}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* {{ttbc|Spanish}}: [[anfitrión]], [[propietario]] {{m}}; [[presentador]]
+{{trans-bottom}}
 
 [[Category:English words with multiple etymologies]]
 
@@ -154,7 +183,7 @@ From {{OF.}} ''[[host#Old French|host]]'', from {{ML.}} ''[[hostis]]'', "foreign
 ==Catalan==
 
 ===Etymology===
-Latin [[hostis]]
+From {{etyl|la|ca}} {{term|hostis|lang=la}}.
 
 ===Noun===
 '''host'''
@@ -168,7 +197,7 @@ Latin [[hostis]]
 ==Czech==
 
 ===Etymology===
-Common Slavic *''[[gost]]''
+From Common Slavic *{{term||gost}}.
 
 ===Pronunciation===
 * {{audio|Cs-host.ogg|audio}}
@@ -182,22 +211,23 @@ Common Slavic *''[[gost]]''
 
 ==Norwegian==
 
+{{rfp|lang=Norwegian}}
 ===Etymology 1===
-Related to ''[[hoste#Norwegian|hoste]]'' (cough)
+Related to {{term|hoste||to cough|lang=no}}.
 
 ====Noun====
-{{no-noun-m1}} or<br>
+{{no-noun-m1}}<br>
 {{no-noun-n1}}
 
-# A single [[cough]] expulsion.
+# A single [[cough]] [[expulsion]].
 
 ====Verb====
 '''host'''
 
-# ''Imperative'' of [[hoste#Norwegian|hoste]]
+# ''Imperative'' of [[hoste#Norwegian|hoste]].
 
 ===Etymology 2===
-Loanword from {{E.|no}} (computer host)
+From {{etyl|en|no}}.
 
 ====Noun====
 {{no-noun-m1}}
@@ -207,7 +237,6 @@ Loanword from {{E.|no}} (computer host)
 =====Synonyms=====
 * [[vertsmaskin]]
 
-[[Category:Norwegian nouns]]
 [[Category:Norwegian verb forms]]
 
 [[de:host]]
