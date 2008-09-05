@@ -30,9 +30,8 @@ From {{etyl|fro}} {{term|hoste|lang=fro}} (French: {{term|hôte|lang=fr}}), from
 # {{context|evolutionism|genetics}} An organism bearing certain [[genetic]] material.
 #: ''The so-called junk DNA provides no benefit to its host.''
 
-{{rfc|split up derived terms, move some of the see also’s to synonyms, other nyms}}
-
 =====Related terms=====
+{{rfc|split out derived terms, move some of the see also’s to synonyms, other nyms}}
 * [[hostess]]
 * [[hostel]]
 * [[hotel]]
@@ -102,10 +101,10 @@ From {{etyl|fro}} {{term|hoste|lang=fro}} (French: {{term|hôte|lang=fr}}), from
 {{en-verb}}
 
 # To perform the role of a host.
-#: Our company will host the annual conference this year.
-#: I was terrible at hosting that show.
-#: I’ll be hosting tonight.  I hope I’m not terrible.
-#: Kremvax hosts a variety of services.
+#: Our company will '''host''' the annual conference this year.
+#: I was terrible at '''hosting''' that show.
+#: I’ll be '''hosting''' tonight.  I hope I’m not terrible.
+#: Kremvax '''hosts''' a variety of services.
 # {{context|computing|Internet}} To run [[software]] made available to a [[remote]] user or [[process]].
 #* '''1987''' May 7, Selden E. Ball, Jr., ''Re:  Ethernet Terminal Concentrators'', <tt>comp.protocols.tcp-ip</tt>, ''Usenet''
 #*: CMU/TEK TCP/IP software uses an excessive amount of cpu resources for terminal support both outbound, when accessing another system, and inbound, when the local system is '''hosting''' a session.
@@ -209,6 +208,37 @@ From Common Slavic *{{term||gost}}.
 {{cs-noun|g=m}}
 
 # [[guest]]
+
+----
+
+==Dutch==
+
+===Etymology 1===
+From {{term|hossen|lang=nl}}.
+
+====Pronunciation====
+* {{IPA|/hɔst/}}
+
+====Verb====
+'''host'''
+
+# {{nth s ind sim pres of|hossen|nth=2|L=Dutch}}
+# {{archaic}} {{nth form s ind sim pres of|hossen|nth=2|L=Dutch}}
+# {{nth s ind sim pres of|hossen|nth=3|L=Dutch}}
+
+===Etymology 2===
+From {{etyl|en|nl}}.
+
+====Pronunciation====
+Like English, mostly {{IPA|/hoʊst/}}, {{SAMPA|/hoUst/}}.
+
+====Noun====
+{{nl-noun2|m|s|je}}
+
+# {{computing|lang=nl}} [[host#English|host]]
+
+
+[[Category:Dutch verb forms]]
 
 ----
 
