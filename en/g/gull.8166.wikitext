@@ -97,6 +97,9 @@
 
 ==Faroese==
 
+===Etymology===
+From {{etyl|non|fo}} {{term|gull|lang=non}}.
+
 ===Pronunciation===
 * {{IPA|[gʊdl]|lang=fo}}
 
@@ -119,13 +122,18 @@
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|non|is}} {{term|gull||gold|lang=non}} from {{proto|Germanic|gulþ-}}; spelled as {{term|goll|lang=non}} in the oldest manuscripts. Cognate with Ulf. {{term|gulþ}}, the Old English {{term|gold|lang=ang}}, English {{term|gold|lang=en}} and German {{term|Gold|lang=de}}, Danish {{term|guld|lang=da}}, Norse {{term|gull|lang=no}}, Dutch {{term|goud|lang=nl}}, Swedish {{term|guld|lang=sv}}.
+From {{etyl|non|is}} {{term|gull||gold|lang=non}} from {{proto|Germanic|gulþ-|lang=is}}.
+
+===Pronunciation===
+*{{IPA|[kʏtl]|lang=is}}
+*:Rhymes: [[Rhymes:Icelandic:-ʏtl|-ʏtl]]
 
 ===Noun===
 {{is-noun|n}}
 
 # {{uncountable|lang=is}} [[gold]]
 # {{countable|lang=is}} a [[cherish]]ed thing
+# {{countable|lang=is}} a gold [[medal]] or [[prize]]
 
 ====Declension====
 {{is-decl-noun-n-s|g|u|ll}}
@@ -141,6 +149,9 @@ From {{etyl|non|is}} {{term|gull||gold|lang=non}} from {{proto|Germanic|gulþ-}}
 
 ==Norwegian==
 
+===Etymology===
+From {{etyl|non|no}} {{term|gull|lang=no}}
+
 ===Noun===
 {{no-noun-nu|gull}}
 
@@ -152,6 +163,28 @@ From {{etyl|non|is}} {{term|gull||gold|lang=non}} from {{proto|Germanic|gulþ-}}
 * [[gyllen]]
 
 [[Category:no:Chemical elements]]
+
+----
+
+==Old Norse==
+
+===Etymology===
+From {{proto|Germanic|gulþ-|lang=non}}. Spelled as {{term|goll|lang=non}} in the oldest manuscripts. Cognate with Gothic {{term|𐌲𐌿𐌻𐌸|tr=gulþ|sc=Goth}}, Old English {{term|gold|lang=ang}} (English {{term|gold|lang=en}}) and German {{term|Gold|lang=de}}, Dutch {{term|goud|lang=nl}}.
+
+===Noun===
+{{infl|non|noun|g=n}}
+
+# [[gold]]
+
+====Descendants====
+{{top2}}
+* Danish: [[guld]] {{n}}
+* Faroese: [[#Faroese|gull]] {{n}}
+* Icelandic: [[#Icelandic|gull]] {{n}}
+{{mid2}}
+* Norwegian: [[#Norwegian|gull]] {{n}}
+* Swedish: [[guld]] {{n}}
+{{bottom}}
 
 [[zh-min-nan:gull]]
 [[bg:gull]]
