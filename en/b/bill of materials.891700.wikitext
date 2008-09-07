@@ -1,15 +1,23 @@
 ==English==
+{{wikipedia}}
+
+===Alternative forms===
+* [[bill of material]]
 
 ===Noun===
-{{wikipedia}}
-'''[[bill]] [[of]] [[material]]s'''  (''abbreviated as [[BOM]] or [[BoM]]'')
+{{en-noun|sg=[[bill]] [[of]] [[material]]s|bills of materials}}  
 
-# {{context|manufacture}} {{electronics}} A [[list]] of [[materials]] and [[components]] used to make an assembled item.
+# {{manufacturing|design engineering}} A [[list]] of [[materials]] and [[components]] used in a manufactured item, sometimes appended to an engineering [[diagram]] of the item.
+# {{manufacturing|computing}} A [[computerize]]d list of materials and components, [[structure]]d in a manner to support computer-based materials [[procurement]] and production [[scheduling]].
 
 ====Translations====
 {{trans-top|manufacture, electronics: a list of materials and components}}
-{{trans-mid}}
 * Japanese: {{t|ja|部品表|tr=buhinhyō|sc=Jpan}}
+{{trans-mid}}
 {{trans-bottom}}
+
+===See also===
+* [[BOM]], [[BoM]]
+* [[MRP]]
 
 [[vi:bill of materials]]
