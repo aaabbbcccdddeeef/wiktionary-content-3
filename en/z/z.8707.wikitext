@@ -12,20 +12,26 @@
 
 # {{metrology}} {{non-gloss definition|Symbol for the prefix [[zepto-]].}}
 # {{astronomy}} {{non-gloss definition|Symbol for the [[redshift]].}}
+# {{mathematics}} {{non-gloss definition|Used to denote a [[real]] [[variable]] when [[x]] and [[y]] are already in use.}}
+#: <math>f \left ( x , y , z \right ) = \sin x + \cos y + \tan z</math>
+# {{mathematics}} {{non-gloss definition|Used to denote the third [[coordinate]] in [[three-dimensional]] [[Cartesian]] and [[cylindrical]] coordinate systems.}}
+#: <math>x^2 + y^2 + z^2 = 1</math>
 # {{mathematics}} {{non-gloss definition|Used to denote a [[complex]] [[variable]].}}
-#: <math>z = x + i y \rarr \bar{z} = x - i y</math>
+#: <math>\left \Vert z \right \Vert = z \cdot \bar z</math>
 # {{statistics}} {{non-gloss definition|Used to denote a value of a [[standard]] [[normal]] [[random]] [[variable]].}}
 #: <math>P[Z > z] = 1 - P[Z < z] = 1 - \Phi(z)</math>
+# {{context|computational geometry|classical physics}} Quantity along the third axis in a three-dimensional system, vertical when applicable.
+# {{chemistry}} {{non-gloss definition|Symbol for [[atomic number]].}}
 
 ----
 
 ==English==
 
 ===Pronunciation===
-* (''[[Received Pronunciation|UK]]'') {{IPA|/zɛd/}}
-* (''[[General American|US]]'') {{IPA|/zi:/}}
-* {{audio|en-uk-z.ogg|Audio (UK)}}
-* {{audio|en-us-z.ogg|Audio (US)}}
+* {{a|RP}} {{IPA|/zɛd/}}
+*: {{audio|en-uk-z.ogg|Audio (UK)}}
+* {{a|US}} {{IPA|/zi:/}}
+*: {{audio|en-us-z.ogg|Audio (US)}}
 
 ===Letter===
 '''z''' (''lowercase'', ''uppercase'' '''[[Z]]''')
@@ -36,10 +42,6 @@
 {{en-noun|pl=z's}}
 
 # The twenty-sixth letter of the [[Appendix:Roman script|English alphabet]]. ''Sometimes spelt out as [[zed]] or [[zee]].''
-# {{context|mathematics}} The third variable.
-#: ''f(x,y,'''z''''')
-# {{context|computational geometry|classical physics}} Quantity along the third axis in a three-dimensional system, vertical when applicable.
-# {{context|chemistry|italicized}} Symbol for [[atomic number]].
 
 ===Alternative forms===
 {{top2}}
