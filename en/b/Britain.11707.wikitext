@@ -1,34 +1,22 @@
 {{wikipedia|dab=Britain}}
 ==English==
-* (''UK'') {{SAMPA|/"brIt(@)n/}}
-* (''US'') {{SAMPA|/br\`ItIn/}}
-
-===Pronunciation===
-* Rhymes: [[Rhymes:English:-ɪtən|-ɪtən]]
 
 ===Etymology===
-[[Breteyne]], from {{OF.}} ''[[Bretaigne]]'', from {{L.}} ''[[Britannia]]'', deriving from Pretannia, Diodorus's Greek rendering of the indigenous name ''pretani''.
+{{etyl|enm}} {{term|Breteyne|lang=enm}}, from {{etyl|fro}} {{term|Bretaigne|lang=fro}}, from {{L.}} {{term|Britannia|lang=la}}, deriving from {{etyl|grc}} {{term||sc=polytonic|tr=Pretannia|lang=grc}}, Diodorus's rendering of the indigenous name {{term|pretani|lang=cel}}.
+
+{{rfscript|Greek}}
+
+===Pronunciation===
+* (''UK'') {{IPA|/ˈbɹɪt.ən/}}, {{SAMPA|/"brIt(@)n/}}
+* (''US'') {{IPA|/ˈbɹɪt.ɪn/}}, {{SAMPA|/br\`ItIn/}}
+* Rhymes: [[Rhymes:English:-ɪtən|-ɪtən]]
 
 ===Proper noun===
 {{en-proper-noun}}
 
 # An island off the western coast of Europe, consisting of the mainlands of England, Scotland and Wales; also called [[Great Britain]].
-# (''loosely'') The [[United Kingdom]].
-# (''loosely but erroneously'') [[England]].
-
-====Translations====
-{{top}}
-* Croatian: {{t-|hr|Britanija|f}}
-* Dutch: [[Britannië]]
-* Hebrew: [[בריטניה]] (brit'ania)
-* Kurdish: {{KUchar|[[به‌ریتانیا]]}}
-{{mid}}
-* Japanese: {{t-|ja|ブリテン|tr=Buriten|sc=Jpan}}
-* Maltese: [[Brittanja]]
-* [[Scottish Gaelic]]: [[Breatainn]] {{f}}
-{{bottom}}
-''See also the translations of'' [[Great Britain]], [[British Isles]], [[United Kingdom]] and [[England]].
-* Welsh:  prydian
+# {{context|loosely}} The [[United Kingdom]].
+# {{context|loosely|but|erroneously}} [[England]].
 
 ====Related terms====
 * [[Breton]]
@@ -37,6 +25,24 @@
 * [[Brittania]]
 * [[Brittany]]
 * [[Beretania]]
+
+====Translations====
+{{trans-top|island}}
+:See also the translations of {{term|Great Britain}} and {{term|British Isles}}
+* {{ttbc|Croatian}}: {{t-|hr|Britanija|f}}
+* {{ttbc|Dutch}}: [[Britannië]]
+* {{ttbc|Hebrew}}: [[בריטניה]] (brit'ania)
+* {{ttbc|Kurdish}}: {{KUchar|[[به‌ریتانیا]]}}
+{{trans-mid}}
+* {{ttbc|Japanese}}: {{t-|ja|ブリテン|tr=Buriten|sc=Jpan}}
+* {{ttbc|Maltese}}: [[Brittanja]]
+* {{ttbc|Scottish Gaelic}}: [[Breatainn]] {{f}}
+* {{ttbc|Welsh}}:  prydian
+{{trans-bottom}}
+
+{{trans-see|United Kingdom}}
+
+{{trans-see|England}}
 
 ===See also===
 * [[Great Britain]]
@@ -60,3 +66,4 @@
 [[sr:Britain]]
 [[fi:Britain]]
 [[zh:Britain]]
+{{rfc-auto}}
