@@ -1,5 +1,6 @@
 {{wikipedia}}
 {{also|bár|Bar|bär|Bär|bår}}
+{{tearoom}}
 ==English==
 
 ===Pronunciation===
@@ -7,9 +8,10 @@
 * {{a|US}} {{enPR|bär}}, {{IPA|/bɑr/}}, {{SAMPA|/bAr/}}
 * {{audio|en-us-bar.ogg|Audio (US)}}
 *: {{rhymes|ɑː(r)}}
+* {{homophones|baa|bah}}
 
 ===Etymology 1===
-From {{ME.}} {{term|barre||lang=enm}}, from {{OF.}} {{term|barre||lang=fro}}
+From {{etyl|enm}} {{term|barre||lang=enm}}, from {{etyl|fro}} {{term|barre||lang=fro}}
 
 ====Noun====
 {{en-noun}}
@@ -27,10 +29,10 @@ From {{ME.}} {{term|barre||lang=enm}}, from {{OF.}} {{term|barre||lang=fro}}
 # An official order or pronouncement that prohibits some activity.
 # {{computing|whimsical|derived from fubar}} Used to stand for some unspecified entity, usually a second entity following [[foo]].
 #: ''Suppose we have two objects, foo and bar''
-# (''[[legal]]'': '''the Bar''') Short for the [[Bar Exam]], the legal licensing exam.
+# {{legal|"the Bar"}} Short for the [[Bar Exam]], the legal licensing exam.
 #: ''He's studying hard to pass the Bar this time; he's failed it twice before.''
-# (''British'': '''the Bar''') A collective term for [[barrister]]s.
-# (''British'': '''the Bar''') (''loosely'') The profession of barristers.
+# {{UK|legal|"the Bar"}} A collective term for [[barrister]]s.
+# {{UK|legal|loosely|"the Bar"}} The profession of barristers.
 # {{music}} A vertical line across a musical [[staff]] dividing written music into sections, typically of equal durational value.
 # {{music}} One of these musical sections.
 # {{soccer}} The [[crossbar]]
@@ -43,9 +45,9 @@ From {{ME.}} {{term|barre||lang=enm}}, from {{OF.}} {{term|barre||lang=fro}}
 # {{sports}} A horizontal pole that must be crossed in [[high jump]] and [[pole vault]]
 
 =====Synonyms=====
-* (''business licensed to sell intoxicating beverages''): [[pub]] (''British''), [[public house]], [[tavern]]
-* (''official order prohibiting some activity''): [[ban]], [[prohibition]]
-* (''section of a staff, in music''): [[measure]]
+* {{sense|business licensed to sell intoxicating beverages}} [[pub]] (''British''), [[public house]], [[tavern]]
+* {{sense|official order prohibiting some activity}} [[ban]], [[prohibition]]
+* {{sense|section of a staff, in music}}} [[measure]]
 
 =====Derived terms=====
 {{rel-top4|derived terms}}
@@ -284,9 +286,9 @@ From {{ME.}} {{term|barre||lang=enm}}, from {{OF.}} {{term|barre||lang=fro}}
 #: ''bar the door''
 
 =====Synonyms=====
-* (''obstruct''): [[block]], [[hinder]], [[obstruct]]
-* (''prohibit''): [[ban]], [[interdict]], [[prohibit]]
-* (''lock or bolt with a bar''):
+* {{sense|obstruct}} [[block]], [[hinder]], [[obstruct]]
+* {{sense|prohibit}} [[ban]], [[interdict]], [[prohibit]]
+* {{sense|lock or bolt with a bar}}
 * See also [[Wikisaurus:hinder]]
 
 =====Derived terms=====
@@ -377,17 +379,16 @@ From {{AGr.}} {{term|sc=Grek|βάρος|tr=baros||weight}}, coined c. 1900.
 {{trans-bottom}}
 
 [[Category:English prepositions]]
-
+[[Category:English three letter words]]
+[[Category:Units of measure]]
 ----
 
 ==Albanian==
 
 ===Noun===
-'''bar''' {{m}}
+{{infl|sq|noun|g=m}}
 
 # [[grass]]
-
-[[Category:Albanian nouns]]
 
 ----
 
@@ -405,7 +406,7 @@ From {{AGr.}} {{term|sc=Grek|βάρος|tr=baros||weight}}, coined c. 1900.
 ===Noun===
 {{cs-noun|g=m}}
 
-# [[#English|bar]] {{i|business selling beverages}}
+# [[#English|bar]] {{qualifier|business selling beverages}}
 
 ====Derived terms====
 * [[barový]] {{m}}
@@ -418,10 +419,10 @@ From {{AGr.}} {{term|sc=Grek|βάρος|tr=baros||weight}}, coined c. 1900.
 ==Dutch==
 
 ===Etymology 1===
-From English [[bar#English|bar]]
+From {{etyl|en|nl}} {{term|bar}}
 
 ====Noun====
-'''bar''' {{m}} (plural [[bars]], diminutive '''barretje''')
+{{infl|nl|noun|g=m|plural|[[bars]]|diminutive|[[barretje]]}}
 
 # bar, [[counter]], [[drink cabinet]]
 # bar, [[pub]]
@@ -432,13 +433,13 @@ From English [[bar#English|bar]]
 * [[barkruk]] {{f}} or {{m}}
 
 ===Etymology 2===
-cognate with [[barren]]
+cognate with English {{term|barren|lang=en}}
 {{etystub}}
 
 ====Adjective====
-'''bar''' (''no comparative; superlative'' '''[[barst]]''', '''[[barste]]''')
+{{infl|nl|adjective|comparative|—|suparlative|[[barst]], [[barste]]}}
 
-# [[harsh]], [[tough]] (''used mainly with'' '''[[koude]]''' ''(cold), or'' '''[[omstandigheden]]''' ''(conditions)'')
+# [[harsh]], [[tough]] {{qualifier|used mainly with'' '''[[koude]]''' ''(cold), or'' '''[[omstandigheden]]''' ''(conditions)}}
 # [[barren]], [[inhospitable]], [[bare]]
 # [[crude]], [[grim]], [[unfriendly]]
 
@@ -446,12 +447,12 @@ cognate with [[barren]]
 * [[barre]]
 
 ====Adverb====
-'''bar'''
+{{infl|nl|adverb}}
 
 # [[extremely]] (''only in a negative sense'')
 
 ===Etymology 3===
-From {{AGr.}} {{term|sc=Grek|βάρος|tr=baros||weight}}, coined c. 1900.
+From {{etyl|grc|nl}} {{term|sc=Grek|βάρος|tr=baros||weight}}, coined c. 1900.
 {{wikipedia|Bar (unit)}}
 
 ====Noun====
@@ -470,8 +471,7 @@ From {{AGr.}} {{term|sc=Grek|βάρος|tr=baros||weight}}, coined c. 1900.
 ===References===
 * {{R:Koenen}}
 
-[[Category:Dutch adverbs]]
-[[Category:Dutch nouns]]
+[[Category:nl:Units of measure]]
 
 ----
 
@@ -495,15 +495,15 @@ From {{AGr.}} {{term|sc=Grek|βάρος|tr=baros||weight}}, coined c. 1900.
 ==French==
 
 ===Pronunciation===
+* {{IPA|/baːʁ/|lang=fr}}
 * {{audio|Fr-bar.ogg|audio}}
-* {{IPA | /baːʁ/}}
 
 ===Noun===
 {{fr-noun|m}}
 
-# [[bar#English | bar]] (''establishment'')
-# [[bar#English | bar]] (''counter'')
-# [[bass#English | bass]] (''fish'')
+# [[bar#English|bar]] {{qualifier|establishment}}
+# [[bar#English|bar]] {{qualifier|counter}}
+# [[bass#English|bass]] {{qualifier|fish}}
 
 ----
 
@@ -513,31 +513,29 @@ From {{AGr.}} {{term|sc=Grek|βάρος|tr=baros||weight}}, coined c. 1900.
 * {{audio|De-bar.OGG|audio}}
 
 ===Adverb===
-'''bar'''
+{{infl|de|adverb}}
 
 # in [[cash]]
 # [[pure]]
 
 [[Category:2000 German basic words]]
-[[Category:German adverbs]]
 
 ----
 
 ==Icelandic==
 
 ===Noun===
-'''bar''' {{m}} ([[bars|bar-s]], [[barir|bar-ir]])
+{{infl|is|noun|g=m}} ([[bars|bar-s]], [[barir|bar-ir]])
 
 # bar
 
-[[Category:Icelandic nouns]]
-
+{{attention|is|what are "bar-s" and "bar-ir"?}}
 ----
 
 ==Italian==
 
 ===Noun===
-'''bar''' {{m}} (''plural:'' '''bar''')
+{{infl|it|noun|g=m|plural|[[bar]]}}
 
 # [[café]], bar
 
@@ -546,29 +544,24 @@ From {{AGr.}} {{term|sc=Grek|βάρος|tr=baros||weight}}, coined c. 1900.
 ==Old English==
 
 ===Etymology===
-Western Germanic *''[[baira]]''
+{{proto|germanic|baira|lang=ang|title=Western Germanic}}
 
 ===Noun===
-'''bār''' {{m}}
+{{infl|ang|noun|head=bār|g=m}}
 
 # [[boar]]
-
-[[Category:Old English nouns]]
 
 ----
 
 ==Old High German==
 
 ===Etymology===
-Common Germanic *''[[bazaz]]'', whence also Old English ''[[bær]]'', Old Norse ''[[berr]]''
+{{proto|Germanic|bazaz|lang=goh|title=Common Germanic}}, whence also Old English {{term|bær|lang=ang}}, Old Norse {{term|berr|lang=non}}
 
 ===Adjective===
-'''bar'''
+{{infl|goh|adjective}}
 
 # [[bare]]
-
-[[Category:Old High German adjectives]]
-
 ----
 
 ==Romani==
