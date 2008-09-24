@@ -167,16 +167,33 @@
 # {{transitive}} To [[shortchange]].
 # {{transitive}} To provide with a smaller than agreed or labeled amount.
 #: ''This is the third time I've caught them '''shorting''' us.''
-# {{transitive|business}} To sell something, especially securities, that one does not own in hopes of profiting from a decline in the price.
+# {{transitive|business}} To sell something, especially [[security|securities]], that one does not own at the moment for delivery at a later date in hopes of profiting from a decline in the price; to sell '''short'''.
 
 ====Translations====
-{{trans-top|to cause a short circuit}}
+{{trans-top|transitive: to cause a short circuit}}
 * Danish: [[kortslutte]]
+* Finnish: {{t|fi|oikosulkea}}
 * French: {{t+|fr|court-circuiter}}
 * German: [[kurzschließen]]
 {{trans-mid}}
 * Japanese: {{t|ja|短絡する|tr=tanraku suru|sc=Jpan}}
 * Russian: [[закорачивать]] (zakoráčivat') {{impf}}, [[закоротить]] (zakorotít') {{pf}}; [[замыкать]] (zamykát') {{impf}}, [[замкнуть]] (zamknút') {{pf}}
+{{trans-bottom}}
+
+{{trans-top|intransitive: to short circuit}}
+* Finnish: {{t|fi|mennä}} {{t|fi|oikosulku|alt=oikosulkuun}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|shortchange}}
+
+{{trans-top|to provide with smaller than agreed quantity}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|business: to sell sthg one does not own at the moment}}
+* Finnish: {{t|fi|myydä}} {{t|fi|lyhyt|alt=lyhyeksi}}, {{t|fi|shortata}}
+{{trans-mid}}
 {{trans-bottom}}
 
 [[Category:1000 English basic words]]
