@@ -210,16 +210,26 @@
 ----
 
 ==Icelandic==
-{{Icelandic declension hk sb 01 ö|b|nd}}
+
+===Etymology===
+From {{etyl|non|is}} {{term|band|lang=non}}.
+
+===Pronunciation===
+*{{IPA|[pant]|lang=is}}
+*: {{rhymes|ant|lang=is}}
 
 ===Noun===
-'''band''' {{n}} ([[bands|band-s]], [[bönd]])
+{{infl|is|noun|g=n}}
 
 # a [[string]]
 # [[yarn]]
-# [[ties]]
-# (of a book) [[binding]]
-# {{slang|lang=is}} a [[musical]] [[#English|band]]
+# {{context|figurative|in plural|lang=is}} [[ties]], [[connection]], [[relation]]s
+# [[binding]] (of a book)
+# {{music|lang=is}} [[tie]]
+# {{music|slang|lang=is}} a [[musical]] [[#English|band]]
+
+====Declension====
+{{is-decl-noun-n-s|b|a|nd}}
 
 ====Synonyms====
 * {{i-c|band}} [[hljómsveit]] {{f}}
@@ -228,12 +238,11 @@
 * [[vera á bandi]]
 * [[vinna á sitt band]]
 * [[samband]]
-* [[bynda]]
-* [[símasamband]]
-* [[bundinn]]
 * [[myndband]]
 
-[[Category:Icelandic nouns]]
+====Related terms====
+* [[binda]]
+* [[bundinn]]
 
 ----
 
