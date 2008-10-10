@@ -18,6 +18,10 @@ From {{etyl|enm}} {{term|pic|lang=enm}}, from {{etyl|la}} {{term|pix|lang=la}}.
 #: ''They put '''pitch''' on the mast to protect it.'' ''The barrel was sealed with '''pitch'''.''
 #: ''It was '''pitch''' black because there was no moon.''
 
+=====Derived terms=====
+* [[pitch-black]], [[pitchblack]]
+* [[pitchblende]]
+
 =====Translations=====
 {{trans-top|sticky, gummy substance secreted by trees}}
 * Czech: {{t-|cs|smůla|f}}
@@ -51,6 +55,7 @@ From {{etyl|enm}} {{term|pic|lang=enm}}, from {{etyl|la}} {{term|pix|lang=la}}.
 {{trans-bottom}}
 
 ===Etymology 2===
+From {{etyl|enm}} {{term|pitch||lang=enm|to thrust in, fasten, settle}}, from {{etyl|ang|en}} <!--{{term|piccan||lang=enm}}, {{term|piccian||lang=enm}}.-->
 
 ====Noun====
 {{en-noun|es}}
@@ -67,16 +72,12 @@ From {{etyl|enm}} {{term|pic|lang=enm}}, from {{etyl|la}} {{term|pix|lang=la}}.
 # The [[angle]] at which an object sits.
 #: ''The '''pitch''' of the roof or haystack'', ''the propellor blades' '''pitch'''''
 # More specifically, the rotation angle about the transverse axis.
-#: ''The '''pitch''' of an aircraft''
-# {{music}} The perceived [[frequency]] of a [[sound]] or [[note]].
-#: ''The '''pitch''' of middle "C" is familiar to many musicians.''
-# {{music}} In an [[a cappella]] group, the [[singer]] responsible for singing a [[note]] for the other members to [[tune]] themselves by.
-#: '' Bob, our '''pitch''', let out a clear middle "C" and our conductor gave the signal to start.''
 # {{aviation}} A measure of the degree to which an aircraft's nose tilts up or down. Also a measure of the [[angle of attack]] of a [[propeller]].
+#: ''The '''pitch''' of an aircraft''
 # {{nautical}} The measure of extent to which a nautical vessel rotates on its [[athwartships]] axis, causing its bow and stern to go up and down. Compare with [[roll]], [[yaw]] and [[heave]].
 # The place where a [[busker]] performs is called their ''pitch''.
 # An intensity.
-#* '''1748'''.  David Hume.  ''Enquiries concerning the human understanding and concerning the principles of moral.''  London: Oxford University Press, 1973.  § 11.
+#* '''1748''', [[w:David Hume|David Hume]], ''[[w:Enquiries concerning the human understanding and concerning the principles of moral]]''  London: Oxford University Press, 1973.  § 11.
 #*: But, except the mind be disordered by disease or madness, they never can arrive at such a '''pitch''' of vivacity
 # {{mountaineering}} A section of a climb or rock face; specifically, the climbing distance between [[belays]] or [[stances]].
 # {{caving}} A vertical cave passage, only negotiable by using rope or ladders.
@@ -132,25 +133,11 @@ From {{etyl|enm}} {{term|pic|lang=enm}}, from {{etyl|la}} {{term|pix|lang=la}}.
 * Romanian: {{t-|ro|inclinare}}
 {{trans-bottom}}
 
-{{trans-top|the perceived frequency of a sound or note}}
-* Dutch: {{t-|nl|toonhoogte|f}}
-* Finnish: {{t-|fi|sävelkorkeus}}
-* French: {{t+|fr|ton|m}}, {{t+|fr|diapason|m}}
-* German: [[Tonhöhe]] {{f}}, [[Tonlage]] {{f}}
-{{trans-mid}}
-* Indonesian: [[titinada]]
-* Italian: [[altezza]] {{f}} <ref name=oxf-par />
-* Romanian: {{t+|ro|ton}}, {{t-|ro|înălţime|f}}
-{{trans-bottom}}
-
 {{trans-top|level or degree}}
 * Finnish: {{t+|fi|taso}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|grau|m}}
 {{trans-bottom}}
-
-===Etymology 2===
-From {{etyl|enm}} {{term|piccan|lang=enm}}, {{term|piccian|lang=enm}}.
 
 ====Verb====
 {{en-verb|pitch|es}}
@@ -262,9 +249,8 @@ From {{etyl|enm}} {{term|piccan|lang=enm}}, {{term|piccian|lang=enm}}.
 * [[pitch-a-fit]]
 * [[pitch a tent]]
 * [[pitch and putt]]
-* [[pitch-black]]
-{{rel-mid}}
 * [[pitch class]]
+{{rel-mid}}
 * [[pitcher]]
 * [[pitchfork]]
 * [[pitch in]]
@@ -272,6 +258,29 @@ From {{etyl|enm}} {{term|piccan|lang=enm}}, {{term|piccian|lang=enm}}.
 * [[relative pitch]]
 * [[sales pitch]]
 {{rel-bottom}}
+
+===Etymology 3===
+Unknown
+
+====Noun====
+{{en-noun|es}}
+
+# {{music}} The perceived [[frequency]] of a [[sound]] or [[note]].
+#: ''The '''pitch''' of middle "C" is familiar to many musicians.''
+# {{music}} In an [[a cappella]] group, the [[singer]] responsible for singing a [[note]] for the other members to [[tune]] themselves by.
+#: '' Bob, our '''pitch''', let out a clear middle "C" and our conductor gave the signal to start.''
+
+=====Translations=====
+{{trans-top|the perceived frequency of a sound or note}}
+* Dutch: {{t-|nl|toonhoogte|f}}
+* Finnish: {{t-|fi|sävelkorkeus}}
+* French: {{t+|fr|ton|m}}, {{t+|fr|diapason|m}}
+* German: [[Tonhöhe]] {{f}}, [[Tonlage]] {{f}}
+{{trans-mid}}
+* Indonesian: [[titinada]]
+* Italian: [[altezza]] {{f}} <ref name=oxf-par />
+* Romanian: {{t+|ro|ton}}, {{t-|ro|înălţime|f}}
+{{trans-bottom}}
 
 ===References===
 {{R:1913}}
