@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-{{L.}} '''[[praefixus]]''', perfect passive participle of '''[[praefigere]]''' "put in front" < '''[[prae]]''' "before" + '''[[figere]]''' "put, fix"
+From {{etyl|la}} {{term|praefixus|lang=la}}, perfect passive participle of {{term|praefigere||put in front|lang=la}} < {{term|prae||before|lang=la}} + {{term|figere||put, fix|lang=la}}.
 
 ===Pronunciation===
 * {{IPA|/ˈpɹiːfɪks/}}
@@ -11,13 +11,13 @@
 ===Noun===
 {{en-noun|prefixes|pl2=prefices}}
 
-# That which is prefixed; especially one or more letters or syllables added to the beginning of a word to modify its meaning; as, ''[[pre-]]'' in prefix, ''[[con-]]'' in conjure.
+# That which is prefixed; especially one or more [[letter]]s or [[syllable]]s added to the beginning of a word to [[modify]] its meaning; as, ''[[pre-]]'' in prefix, ''[[con-]]'' in conjure.
 
 ====Derived terms====
 * [[prefixal]]
 
 ====Translations====
-{{trans-top|Letters at the beginning of a word}}
+{{trans-top|letters at the beginning of a word}}
 * Chinese: {{zh-ts|前綴|前缀}} ([[qián]][[zhuì]])
 * Croatian: {{t-|hr|prefiks|m}}, {{t-|hr|predmetak|m}}
 * Czech: {{t-|cs|předpona|f}}
@@ -36,10 +36,10 @@
 ===Verb===
 {{en-verb|prefix|es}}
 
-# {{transitive}} put or fix before, or at the beginning of, another thing; as, to prefix a syllable to a word, or a condition to an agreement.
-# {{transitive}} set or appoint beforehand; settle or establish antecedently. [Obs.]
-#: ''Prefixed bounds. '' --Locke.
-#: ''And now he hath to her prefixt a day.'' --Spenser.
+# {{transitive}} Put or [[fix]] before, or at the beginning of, another thing; as, to prefix a syllable to a word, or a condition to an agreement.
+# {{transitive|obsolete}} Set or [[appoint]] beforehand; [[settle]] or [[establish]] [[antecedently]].
+#: {{rfdate}} ''Prefixed bounds.'' — Locke.
+#: {{rfdate}} ''And now he hath to her prefixt a day.'' Spenser.
 
 ====Related terms====
 * [[affix]]
@@ -47,6 +47,19 @@
 * [[postfix]]
 * [[pre-]]
 * [[suffix]]
+* [[circumfix]]
+* [[infix]]
+
+====Translations====
+{{trans-top|put or fix before, or at the beginning of}}
+* Dutch: {{t|nl|voorvoegen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|set or appoint beforehand}}
+* Dutch: {{t|nl|op}} {{t|nl|voorhand}} {{t|nl|vastleggen}}, {{t|nl|arrangeren}}, {{t|nl|regelen}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ===See also===
 * [[:Category:Prefixes]]
@@ -55,13 +68,33 @@
 
 ----
 
+==Dutch==
+
+{{rfe|lang=Dutch}}
+
+===Pronunciation===
+* {{IPA|/prefɪks/|lang=nl}}
+
+===Noun===
+{{nl-noun2|n}}
+
+# [[#English|prefix]]
+
+====Synonyms====
+* [[voorvoegsel]]
+
+====Antonyms====
+* [[suffix]], [[achtervoegsel]]
+
+----
+
 ==Romanian==
 
 ===Etymology===
-{{F.|ro}} ''[[préfixe]]''
+From {{etyl|fr|ro}} {{term|préfixe|lang=fr}}.
 
 ===Pronunciation===
-* {{IPA|[pɾe'fiks]|lang=ro}}
+* {{IPA|/pɾe'fiks/|lang=ro}}
 
 ===Noun===
 {{ro-noun|gend=n|pl=prefixe}}
