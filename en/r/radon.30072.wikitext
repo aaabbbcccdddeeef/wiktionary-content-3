@@ -1,10 +1,10 @@
 {{also|Radon}}
 ==English==
+{{wikipedia}}
 {{elements|Rn|astatine|At|francium|Fr}}
 
 ===Noun===
 {{en-noun|-}}
-{{wikipedia}}
 
 # A [[radioactive]] chemical element (''symbol'' Rn, ''formerly'' Ro) with [[atomic number]] 86, one of the [[noble gas]]es.
 
@@ -21,7 +21,7 @@
 * [[radium]]<!--after which radon is named-->
 
 ====Translations====
-{{top}}
+{{trans-top|chemical element}}
 * [[Afrikaans]]: radon
 * Albanian: radon {{g|Albanian}}
 * Arabic: {{Arab|[[رادون]]}} (rá:dun) {{m}}
@@ -53,8 +53,8 @@
 * Icelandic: {{t+|is|radon|n}}
 * Irish: {{t-|ga|radón|m|xs=Irish}}
 * Italian: {{t+|it|radon|m}}, {{t+|it|rado|m}}
-{{mid}}
 * Japanese: {{t+|ja|ラドン|tr=radon|sc=Jpan}}
+{{trans-mid}}
 * [[Kashmiri]]: [[redón]]
 * Kazakh: {{t-|kk|радон|tr=radon|sc=Cyrl|xs=Kazakh}}
 * Korean: [[라돈]] (radon)
@@ -86,14 +86,14 @@
 * Vietnamese: [[rađơn]]
 * Welsh: radon {{g|Welsh}}
 * [[West Frisian]]: radon {{n}}
-{{bottom}}
+{{trans-bottom}}
 
 ====External links====
 For etymology and more information refer to:
 http://elements.vanderkrogt.net/elem/rn.html
 (A lot of the translations were taken from that site with permission from the author)
 
-===See also===
+====See also====
 * [[actinon]]
 * [[radium emanation]]
 
@@ -104,17 +104,15 @@ http://elements.vanderkrogt.net/elem/rn.html
 ==Crimean Tatar==
 
 ===Noun===
-'''radon'''
+{{infl|crh|noun}}
 
 # [[radon#English|radon]].
 
 ====Declension====
 {{crh-latin-noun|nıñ|ğa|nı|da|dan}}
 
-===References===
+====References====
 {{R:Useinov-Mireev 2002}}
-
-[[Category:Crimean Tatar nouns]]
 
 ----
 
@@ -145,11 +143,30 @@ http://elements.vanderkrogt.net/elem/rn.html
 ==Italian==
 
 ===Noun===
-'''radon''' {{m}}
+{{infl|it|noun|g=m}}
 
 # [[radon#English|radon]]
 
 [[Category:it:Chemical elements]]
+
+----
+
+==Polish==
+{{wikipedia|lang=pl}}
+
+===Pronunciation===
+* {{IPA|lang=pl|/ˈradɔn/}}
+* {{audio|Pl-radon.ogg|audio}}
+
+===Noun===
+{{infl|pl|noun|g=m}}
+
+# [[#English|radon]] (chemical element, Rn, atomic number 86)
+
+====Declension====
+{{pl-decl-noun-sing|radon|radonu|radonowi|radon|radonem|radonie|radonie}}
+
+[[Category:pl:Chemical elements]]
 
 [[br:radon]]
 [[cs:radon]]
