@@ -28,7 +28,7 @@
 
 ====Translations====
 {{trans-top|first in a series}}
-* Arabic: {{Arab|[[اصلي|أصْلِيّ]]}} {{IPAchar|(’aʂlī)}}
+* Arabic: {{Arab|[[اصلي|أصْلِيّ]]}} {{IPAchar|(’áʂlī)}}
 * Chinese: [[原]] (yuán), [[原始]] (yuánshǐ)
 * Czech: {{t-|cs|původní}}
 * Dutch: [[origineel]]
@@ -42,7 +42,7 @@
 * Japanese: [[本来]]の (ほんらいの, honrai no)
 * Korean: [[최초의]] (choechoui)
 * Portuguese: {{t+|pt|original}}
-* Russian: [[первоначальный]] (pervonačál’nyj), [[первичный]] (pervíčnyj), [[исходный]] (isxódnyj)
+* Russian: {{t+|ru|первоначальный|tr=pervonačál’nyj}}, {{t+|ru|первичный|tr=pervíčnyj}}, {{t+|ru|исходный|tr=isxódnyj}}
 * Serbian: [[самобитан]] ([[samobitan]])
 * Spanish: {{t+|es|original}}
 * Swedish: [[original-]]
@@ -61,7 +61,7 @@
 * Finnish: [[tuore]], [[omaperäinen]], [[originelli]], [[omintakeinen]]
 * German: {{t+|de|originell}}
 * Greek: {{t|el|αρχικός|m|sc=Grek}} (archikós)
-* Russian: [[свежий]] (svéžij), [[своеобразный]] (svojeobráznyj), [[оригинальный]] (originál’nyj)
+* Russian: {{t+|ru|свежий|tr=svéžij}}, {{t+|ru|своеобразный|tr=svojeobráznyj}}, {{t+|ru|оригинальный|tr=originál’nyj}}
 {{trans-mid}}
 * Serbian: [[свеж]] ([[svež]])
 * Swedish: {{t+|sv|originell}}
@@ -83,7 +83,7 @@
 {{checktrans-top}}
 * {{ttbc|Chinese}}: [[原始]]的 (yuánshǐ de)
 * {{ttbc|Dutch}}: [[origineel]], [[originele]]
-* {{ttbc|French}}: original {{m}}, [[originale]] {{f}}
+* {{ttbc|French}}: {{t+|fr|original|m}}, [[originale]] {{f}}
 * {{ttbc|Italian}}: [[originale]] {{m|f}}
 * {{ttbc|Japanese}}: [[元]]の (はじめの, hajime no)
 {{trans-mid}}
@@ -99,7 +99,7 @@
 # An object (e.g. narrative work) from which all later copies and variations are derived
 #: ''This manuscript is the '''original'''''
 # A person with a unique and interesting personality
-#: ''You're an '''original'''''
+#: ''You’re an '''original'''''
 
 ====Antonyms====
 
@@ -145,6 +145,15 @@
 
 ----
 
+==French==
+
+===Adjective===
+{{fr-adj|mp=originaux}}
+
+# [[#English|original]]
+
+----
+
 ==German==
 
 ===Adjective===
@@ -167,13 +176,6 @@
 * [[origen]]
 * [[originar]]
 * [[originario]]
-
-==French==
-
-===Adjective===
-{{fr-adj|mp=originaux}}
-
-#[[original]]
 
 [[ang:original]]
 [[ca:original]]
