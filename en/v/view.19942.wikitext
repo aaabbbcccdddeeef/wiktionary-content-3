@@ -7,30 +7,48 @@
 * {{audio|en-us-view.ogg|Audio (US)}}
 
 ===Etymology===
-From {{AF.}} ''vewe'', from {{etyl|fro}} ''veue'' (French: ''[[vue]]''), feminine past participle of ''veoir'' (French: ''[[voir]]'' "to see").
+From {{etyl|xno}} {{term|vewe|lang=xno}}, from {{etyl|fro}} {{term|veue|lang=fro}} (French: {{term|vue|lang=fr}}), feminine past participle of {{term|veoir||to see|lang=fro}} (French: {{term|voir|lang=fr}}).
 
 ===Noun===
 {{en-noun}}
 
-# The act of seeing or looking at something.
+# The act of [[see]]ing or [[look]]ing at something.
 #: ''He changed seat to get a complete '''view''' of the stage.''
-# The range of vision.
+# The [[range]] of [[vision]].
 #: ''If there are any rabbits in this park, they keep carefully out of our '''view'''.''
-# Something to look at, such as a scenery.
+# Something to look at, such as a [[scenery]].
 #: ''My flat has a '''view''' of a junkyard.''
-# A picture.
+# A [[picture]].
 #: ''There was a '''view''' of the accident site on the front page.''
-# A mental image.
+# A [[mental]] [[image]].
 #: ''I need more information to get a better '''view''' of the situation.''
-# A way of understanding something, an opinion, a theory.
+# A way of [[understand]]ing something, an [[opinion]], a [[theory]].
 #: ''Your '''view''' on evolution is based on religion, not on scientific findings.''
-# A point of view.
+# A [[point of view]].
 #: ''From my '''view''' that is a stupid proposition.''
-# An intention or prospect.
+# An [[intention]] or [[prospect]].
 #: ''I gave you the money with the [[view]] that you would invest it wisely.''
+# {{computing|databases}} A [[virtual]] or [[logical]] [[table]] [[compose]]d of the result set of a [[query]] in [[relational]] [[database]]s.
+# {{computing|programming}} The part of a computer [[program]] which is [[visible]] to the user, the part the user [[interact]]s with; a [[user interface]] to the underlying [[logic]] of the program.
+
+====Antonyms====
+* {{sense|part of computer program}} [[model]], [[controller]]
+
+====Derived terms====
+* [[point of view]]
+* [[viewfinder]]
+* [[viewpoint]]
+* [[in view of]]
+
+====Related terms====
+* [[interview]]
+* [[preview]]
+* [[review]]
+* [[overview]]
 
 ====Translations====
 {{trans-top|seeing}}
+* Dutch: {{t|nl|zicht|n}}, {{t|nl|beeld|n}}
 * Estonian: {{t|et|vaade}}
 {{trans-mid}}
 * Finnish: [[näkymä]]
@@ -38,6 +56,7 @@ From {{AF.}} ''vewe'', from {{etyl|fro}} ''veue'' (French: ''[[vue]]''), feminin
 
 {{trans-top|range of vision}}
 * Czech: {{t-|cs|dohled|m}}
+* Dutch: {{t|nl|zicht|n}}
 * Estonian: {{t|et|vaateväli}}
 {{trans-mid}}
 * Finnish: [[näköpiiri]], [[näköala]]
@@ -48,7 +67,7 @@ From {{AF.}} ''vewe'', from {{etyl|fro}} ''veue'' (French: ''[[vue]]''), feminin
 * [[Catalan]]: [[vista]] {{f}}
 * Chinese: [[觀點]], [[观点]] (guāndiǎn)
 * Danish: [[udsigt#Danish|udsigt]]
-* Dutch: {{t+|nl|zicht}}
+* Dutch: {{t+|nl|zicht}}, {{t|nl|uitzicht|n}}
 * Estonian: {{t-|et|vaade}}
 * Finnish: [[näkymä]]
 * French: {{t+|fr|vue|f}}
@@ -68,19 +87,21 @@ From {{AF.}} ''vewe'', from {{etyl|fro}} ''veue'' (French: ''[[vue]]''), feminin
 {{trans-bottom}}
 
 {{trans-top|picture}}
+* Dutch: {{t|nl|beeld|n}}, {{t|nl|afbeelding}}
 * Estonian: {{t|et|kujutis}}
 {{trans-mid}}
 * Finnish: [[näkymä]], [[kuva]]
 {{trans-bottom}}
 
 {{trans-top|mental image}}
+* Dutch: {{t|nl|zicht|n}}, {{t|nl|overzicht|n}}, {{t|nl|visie|f}}
 * Estonian: {{t|et|ettekujutus}}
 {{trans-mid}}
 * Finnish: {{t+|fi|kuva}}, {{t+|fi|käsitys}}
 {{trans-bottom}}
 
 {{trans-top|way of understanding}}
-* Dutch: {{t-|nl|opvatting}}
+* Dutch: {{t-|nl|opvatting}}, {{t|nl|visie|f}}
 * Estonian: {{t|et|arusaam}}
 {{trans-mid}}
 * Finnish: {{t+|fi|näkemys}}
@@ -88,15 +109,27 @@ From {{AF.}} ''vewe'', from {{etyl|fro}} ''veue'' (French: ''[[vue]]''), feminin
 
 {{trans-top|point of view}}
 * Czech: {{t+|cs|pohled|m}}, {{t+|cs|názor|m}}
+* Dutch: {{t|nl|mening|f}}, {{t|nl|visie|f}}
 * Estonian: {{t|et|seisukoht}}
 {{trans-mid}}
 * Finnish: [[näkökulma]]
 {{trans-bottom}}
 
 {{trans-top|intention}}
+* Dutch: {{t|nl|bedoeling|f}}, {{t|nl|vooruitzicht|n}}
 * Estonian: {{t|et|oletus}}
 {{trans-mid}}
 * Finnish: {{t-|fi|oletus}}, {{t+|fi|tarkoitus}}
+{{trans-bottom}}
+
+{{trans-top|computing: logical table in database}}
+* Dutch: {{t|nl|view|c}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|computing: user interface part of program}}
+* Dutch: {{t|nl|view|c}}, {{t|ln|beeld|n}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ===Verb===
@@ -109,7 +142,7 @@ From {{AF.}} ''vewe'', from {{etyl|fro}} ''veue'' (French: ''[[vue]]''), feminin
 * [[Azeri]]: {{t|az|görüş|xs=Azeri}}
 * [[Catalan]]: [[veure]]
 * Croatian: {{t+|hr|vidjeti}}
-* Dutch: ([[bekijken|be]])[[kijken]]
+* Dutch: {{t|nl|bekijken}}, {{t|nl|kijken}} {{t|nl|naar}}
 * Estonian: {{t|et|vaatlema}}
 * Finnish: [[vilkaista]], [[katsoa]], [[nähdä]]
 * French: {{t+|fr|regarder}}
@@ -125,19 +158,9 @@ From {{AF.}} ''vewe'', from {{etyl|fro}} ''veue'' (French: ''[[vue]]''), feminin
 * [[Telugu]]: [[చూచు]] (choochu)
 {{trans-bottom}}
 
-===Derived terms===
-* [[point of view]]
+====Derived terms====
 * [[viewer]]
-* [[viewfinder]]
-* [[viewing]]<!--noun, as in "a viewing of a property"-->
-* [[viewpoint]]
-* [[in view of]]
-
-===Related terms===
-* [[interview]]
-* [[preview]]
-* [[review]]
-* [[overview]]
+* [[viewing]]<!--noun, as in “a viewing of a property”-->
 
 ===See also===
 * [[see]]
