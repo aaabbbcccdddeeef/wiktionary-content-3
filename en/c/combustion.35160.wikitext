@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|fro}} ''[[#French|combustion]]''.
+From {{etyl|fro}} ''[[#French|combustion]]'' (cfr. infra).
 
 ===Pronunciation===
 {{rfap}}
@@ -10,17 +10,19 @@ From {{etyl|fro}} ''[[#French|combustion]]''.
 ===Noun===
 {{en-noun}}
 
-# The act or process of [[burn]]ing.
+# {{chemistry}} The act or process of [[burn]]ing.
+# A process where two [[chemical]]s are combined to produce heat.
 # A process wherein a [[fuel]] is combined with [[oxygen]], usually at high temperature, releasing [[heat]].
-# A process where two chemicals are combined to produce heat.
 
 ====Synonyms====
 '''act or process of burning'''
 * [[incineration]]
 * [[cremation]]
 
-====Derived terms====
-* [[spontaneous combustion]]
+====Related terms====
+* [[combustible]]
+* [[combustor]]
+*[[spontaneous combustion]]
 
 ====Hyponyms====
 * [[deflagration]]
@@ -30,18 +32,11 @@ From {{etyl|fro}} ''[[#French|combustion]]''.
 {{trans-top|the act or process of burning}}
 * Czech: {{t-|cs|spalování|n}}
 * Danish: [[forbrænding]] {{c}}
+* Dutch: [[verbranding]] {{f}} 
 * Finnish: [[palaminen]], [[polttaminen]], [[poltto]]
 {{trans-mid}}
 * German: {{t+|de|Verbrennung|f}}
 * Greek: {{t+|el|καύση|f|tr=káfsi|sc=Grek}}, {{t+|el|ανάφλεξη|f|tr=anáfleksi|sc=Grek}}
-{{trans-bottom}}
-
-{{trans-top|process wherein a fuel is combined with oxygen}}
-* Danish: [[forbrænding]] {{c}}
-* Finnish: [[palaminen]], [[polttaminen]]
-{{trans-mid}}
-* German: {{t+|de|Verbrennung|f}}
-* Greek: {{t+|el|καύση|f|tr=káfsi|sc=Grek}}
 {{trans-bottom}}
 
 {{trans-top|similar process where two chemicals are combined}}
@@ -52,14 +47,22 @@ From {{etyl|fro}} ''[[#French|combustion]]''.
 * Greek: {{t+|el|καύση|f|tr=káfsi|sc=Grek}}
 {{trans-bottom}}
 
+{{trans-top|process wherein a fuel is combined with oxygen}}
+* Danish: [[forbrænding]] {{c}}
+* Dutch: [[verbranding]] {{f}} 
+* Finnish: [[palaminen]], [[polttaminen]]
+{{trans-mid}}
+* German: {{t+|de|Verbrennung|f}}
+* Greek: {{t+|el|καύση|f|tr=káfsi|sc=Grek}}
+{{trans-bottom}}
+
 {{checktrans-top}}
-* {{ttbc|Catalan}}: [[combustió]] ''f''
-* {{ttbc|Dutch}}: [[verbranding]] ''f'' (1, 2)
+* {{ttbc|Catalan}}: [[combustió]] {{f}}
 * {{ttbc|French}}: ''[[#French|combustion]]''
 * {{ttbc|Italian}}: [[combustione]] {{f}} (1,2,3)
 {{trans-mid}}
 * {{ttbc|Portuguese}}: [[combustão]] {{m}} (1, 2)
-* {{ttbc|Spanish}}: [[combustión]] ''f''
+* {{ttbc|Spanish}}: [[combustión]] {{f}}
 * {{ttbc|Swedish}}: [[förbränning]]
 {{trans-bottom}}
 
@@ -68,7 +71,7 @@ From {{etyl|fro}} ''[[#French|combustion]]''.
 ==French==
 
 ===Etymology===
-From {{etyl|la}} ''[[combustionem]]'' (nominative of ''[[combustio]]''), from ''[[comburere]]'' "to burn" (com- + *burere).
+From {{etyl|la}} ''[[combustionem]]'' (accusative of ''[[combustio]]''), from ''[[comburere]]'' "to burn", from the intensifying prefix [[com-]] + the root [[burere]] (a faulty sep. of [[amburere]] "to burn around," itself from [[ambi-]] + [[urere]] "to burn, singe").
 
 ===Pronunciation===
 * {{IPA|/kɔ̃.bys.sjɔ̃/|lang=fr}}
@@ -76,7 +79,11 @@ From {{etyl|la}} ''[[combustionem]]'' (nominative of ''[[combustio]]''), from ''
 ===Noun===
 {{fr-noun|f}}
 
-# [[#Noun|combustion]]
+# [[#Noun|combustion]]: burning, incineration
+
+====Related terms====
+* [[comburant]] {{m}}
+* [[combustible]]
 
 [[ar:combustion]]
 [[et:combustion]]
