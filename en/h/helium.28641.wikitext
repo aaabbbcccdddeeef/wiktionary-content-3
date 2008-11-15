@@ -44,12 +44,12 @@ Modern Latin, from {{etyl|grc}} '''{{polytonic|[[ἥλιος]]}}''' ‘sun’ (b
 {{trans-top|chemical element}}
 * [[Afrikaans]]: {{t|af|helium}}
 * Albanian: helium
-* Arabic: {{t|ar|هيليوم|m|tr=hílyum|sc=ARchar}}
+* Arabic: {{t|ar|هيليوم|m|tr=hílyum|sc=Arab}}
 * Armenian: {{t|hy|Հելիում}}
 * [[Asturian]]: {{t|ast|heliu}}
 * [[Basque]]: {{t|eo|helioa}}
 * Belarusian: {{t|be|гелій|m|tr=gelij}}
-* [[Bengali]]: {{t|bn|হিলিয়াম}}
+* Bengali: {{t|bn|হিলিয়াম}}
 * Bosnian: {{t|bs|helij|m}}, {{t|bs|helijum|m}}
 * [[Breton]]: {{t|br|heliom|m}}
 * Bulgarian: {{t|bg|хелий|m|tr=khélij}}
@@ -83,21 +83,21 @@ Modern Latin, from {{etyl|grc}} '''{{polytonic|[[ἥλιος]]}}''' ‘sun’ (b
 * [[Interlingua]]: helium
 * Irish: {{t|ga|héiliam}}
 * Italian: {{t|it|elio|m}}}
-{{trans-mid}}
 * Japanese: [[ヘリウム]] (heriumu)
 * [[Javanese]]: {{t|jv|helium}}
 * [[Kannada]]: {{t|kn|ಹೀಲಿಯಮ್}}
+{{trans-mid}}
 * [[Kashmiri]]: (él)
 * Kazakh: [[гелий]] ([[gelii]])
 * [[Komi]]: {{t|kv|гелий}}
 * Korean: {{t|ko|헬륨|tr=hellyum}}
 * Kurdish: {{t|ku|hêlyûm}}
-* [[Lojban]]: {{t|jbo|solnavni}}
 * Latin: {{t|la|helium}}
 * Latvian: {{t|lv|hēlijs}}
 * [[Limburgish]]: {{t|li|helium}}
-* [[w:Lingala language|Lingala]]: {{t|ln|eliyúmu}}
+* [[Lingala]]: {{t|ln|eliyúmu}}
 * Lithuanian: {{t|lt|helis}}
+* [[Lojban]]: {{t|jbo|solnavni}}
 * [[Luxembourgish]]: {{t|lb|helium}}
 * [[Macedonian]]: [[хелиум]] (hélium) {{m}}
 * Malay: helium
@@ -119,7 +119,7 @@ Modern Latin, from {{etyl|grc}} '''{{polytonic|[[ἥλιος]]}}''' ‘sun’ (b
 * Slovak: [[hélium]]
 * Slovene: [[helij#Slovene|helij]] {{m}}
 * Spanish: {{t|es|helio|m}}
-* [[Swahili]]: {{t|sw|heli}}
+* Swahili: {{t|sw|heli}}
 * Swedish: helium
 * [[Tamil]]: [[பரிதியம் ]] (paridhiyam)
 * Thai: {{Thai|[[ฮีเลียม]]}} (hīliam)
@@ -135,7 +135,6 @@ Modern Latin, from {{etyl|grc}} '''{{polytonic|[[ἥλιος]]}}''' ‘sun’ (b
 {{checktrans-top}}
 * {{ttbc|Czech}}: {{t|cs|hélium|n}} <!-- cs.wikipedia it's written without an accent-->
 {{trans-bottom}}
-
 
 ====Synonyms====
 * [[E939]] when used as a [[packaging gas]]
@@ -160,16 +159,18 @@ http://elements.vanderkrogt.net/elem/he.html
 
 ----
 
-== Limburgish ==
-=== Pronounciation ===
-* IPA: [ˈheː˨ʎɔ˧m]
+==Limburgish==
 
-=== Noun ===
+===Pronunciation===
+* {{IPA|[ˈheː˨ʎɔ˧m]|lang=li}}
+
+===Noun===
 '''helium''' ''n''
-# (''uncountable'') [[helium#English|helium]] 
+
+# {{uncountable|lang=li}} [[helium#English|helium]]
 # A [[part]] of helium
 
-==== Inflection ====
+====Inflection====
 {{li-noun-um|heli}}
 
 [[Category:li:Chemical elements]]
