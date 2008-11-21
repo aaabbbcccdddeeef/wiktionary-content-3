@@ -17,9 +17,9 @@
 #*: We might abate...the strange '''cryptography''' of Gaffarell in his Starrie Booke of Heaven.
 
 ====Usage notes====
-Subfields include [[encode|encoding]], [[decode|decoding]], [[cryptanalysis]], [[code]]s, [[cipher]]s, etc.
-
-In many languages, though less so in English, cognates to "cryptology" are also used with the meaning given above, and even preferred. Cryptography is also somewhat related to [[steganography]] which is concerned with concealing the very existence of a message. Contrast this with cryptography's indifference, from a confidentiality viewpoint, to whether a message is copied by some attacker.
+* Subfields include [[encode|encoding]], [[decode|decoding]], [[cryptanalysis]], [[code]]s, [[cipher]]s, etc.
+* In many languages, though less so in English, cognates to "cryptology" are also used with the meaning given above, and even preferred.
+* Related to cryptography but distinct, [[steganography]] is the art and science of writing hidden messages in such a way that no-one apart from the sender and intended recipient even realizes there is a hidden message.
 
 ====Derived terms====
 * [[public-key cryptography]]
