@@ -5,7 +5,7 @@
 * {{IPA|/y/|lang=fr}}
 
 ===Verb===
-'''eu''' ''m'' (''f'' '''eue''', ''m plural'' '''eus''', ''f plural'' '''eues''')
+{{infl|fr|verb|g=m|f|[[eue]]|m plural|[[eus]]|f plural|[[eues]]}}
 
 # {{past participle of|lang=French|[[avoir]]}}
 
@@ -19,7 +19,7 @@ From {{etyl|la|gl}} {{term|ego|lang=la}}.
 ===Pronoun===
 {{gl-pron|form=nomonly|obl=min|dat=me|acc=me}}
 
-# [[I]] (''singular first-person personal pronoun'')
+# [[I]] {{qualifier|singular first-person personal pronoun}}
 
 ===See also===
 * [[Appendix:Galician pronouns]]
@@ -33,30 +33,27 @@ From {{etyl|la|gl}} {{term|ego|lang=la}}.
 ==Portuguese==
 {{Template:Portuguese personal pronouns}}
 
+===Etymology===
+{{etyl|la|pt}} {{term|ego|lang=la}}
+
 ===Pronunciation===
-* {{SAMPA|/eu/}}
-* {{IPA|lang=pt|/eu/}}
+* {{IPA|lang=pt|/eu/}},  {{SAMPA|/eu/}}
 * {{hyphenation|eu}}
 
-===Etymology===
-Latin ''[[ego]]''
-
 ===Pronoun===
-'''eu'''
+{{infl|pt|pronoun}}
 
 # [[I]]
-
-[[Category:Portuguese pronouns]]
 
 ----
 
 ==Romanian==
 
 ===Etymology===
-{{etyl|la|ro}} ''[[ego]]''
+{{etyl|la|ro}} {{term|ego|lang=la}}
 
 ===Pronunciation===
-* {{IPA|[jew] or [jo]|lang=ro}}
+* {{IPA|[jew]|[jo]|lang=ro}}
 
 ===Pronoun===
 {{infl|ro|personal pronoun|first-person singular}}
@@ -134,18 +131,22 @@ Latin ''[[ego]]''
 
 ==Welsh==
 
+===Alternative spellings===
+* {{l|cy|i}} {{qualifier|after vowels}}
+
 ===Pronunciation===
-* {{IPA|/i/; /əi/|lang=cy}}
-
-===Pronoun===
-'''eu'''
-
-# [[their]] (''plural'')
+* {{IPA|/i/|/əi/|lang=cy}}
 
 ====Usage notes====
-The pronunciation /əi/ is found mainly in careful speech. Because ''eu'' is homonymic with ''[[ei#Welsh|ei]]'', meaning "his" or "her", ''[[nhw]]'' is often added after the noun. After vowels, ''eu'' is written as ''[['i#Welsh|’i]]''.
+The pronunciation {{IPA|/əi/}} is found mainly in careful speech. Because ''eu'' is homonymic with {{term|ei||his, her|lang=cy}}.
 
-[[Category:Welsh pronouns]]
+===Pronoun===
+{{infl|cy|pronoun}}
+
+# [[their]] {{qualifier|plural}}
+
+====Usage notes====
+{{term|nhw|lang=cy}} is often added after the noun. 
 
 [[de:eu]]
 [[et:eu]]
