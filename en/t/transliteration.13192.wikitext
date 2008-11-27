@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|la}} ''[[transliteratus]]'' past participle of ''[[transliterare]]'' "to transliterate", from ''[[trans-]]'' "across" + ''[[littera]]'' "letter".
+From {{etyl|la}} ''[[transliteratus]]'' past participle of {{term|transliterare||to transliterate}}, from {{term|trans-||across}} + {{term|littera||letter}}.
 
 ===Noun===
 {{en-noun}}
@@ -14,7 +14,7 @@ From {{etyl|la}} ''[[transliteratus]]'' past participle of ''[[transliterare]]''
 * [[transliterator]]
 
 ====Translations====
-{{top}}
+{{trans-top|product of translitering}}
 * [[Afrikaans]]: {{t|af|transliterasie|xs=Afrikaans}}
 * Chinese:
 *: Cantonese: {{tø|yue|譯音|tr=jik6 jam1|sc=Hani|xs=Cantonese}}
@@ -26,7 +26,7 @@ From {{etyl|la}} ''[[transliteratus]]'' past participle of ''[[transliterare]]''
 * German: {{t+|de|Transkription|f}}
 * Greek: {{t|el|μεταγραφή|tr=metagraphé|sc=Grek|f}}
 * Italian: {{t|it|traslitterazione|f}}
-{{mid}}
+{{trans-mid}}
 * Japanese: {{qualifier|lexical translation}} {{t|ja|字訳|tr=jiyaku|sc=Jpan}}, {{qualifier|phonetical translation}}{{t|ja|音訳|tr=on'yaku|sc=Jpan}}
 * Korean: [[음역]] (eumyeok)
 * Latin: (''Classical and Vulgar Latin'') [[transcriptio]] {{f}}, (''Modern Latin'') [[translitteratio]] {{f}}
@@ -35,7 +35,10 @@ From {{etyl|la}} ''[[transliteratus]]'' past participle of ''[[transliterare]]''
 * Russian: {{t|ru|транслитерирование|n|tr=transliterírovanije|sc=Cyrl}}
 * Spanish: {{t|es|transcripción|f}}, {{t+|es|transliteración|f}}
 * Ukrainian: {{t-|uk|транслітерація|f|tr=transliterácija|sc=Cyrl|xs=Ukrainian}}
-{{bottom}}
+{{trans-bottom}}
+
+====See also====
+* [[transcription]]
 
 [[af:transliteration]]
 [[fr:transliteration]]
