@@ -160,7 +160,7 @@
 * Slovene: {{t+|sl|magnezij}}
 * Spanish: {{t+|es|magnesio|m}}
 * Swahili: {{t-|sw|magnesi}}
-* Swedish: {{t+|sv|magnesium}}
+* Swedish: {{t+|sv|magnesium|n}}
 * [[Tajik]]: {{t-|tg|магний|tr=magni'|sc=Cyrl}}
 * [[Tamil]]: {{t-|ta|மக்னீசியம்}}, {{t|ta|வல்லகுவம்|tr=vallaguvam}}
 * Thai: {{t-|th|แมกนีเซียม|tr=maeknīsiam|sc=Thai}}
@@ -221,6 +221,19 @@
 {{li-noun-um|magnesi}}
 
 [[Category:li:Chemical elements]]
+
+
+----
+==Swedish==
+{{wikipedia|lang=sv}}
+
+===Noun===
+{{infl|sv|noun|g=n|uncountable}}
+{{sv-noun-unc-n|2=magnesiumet}}
+{{sv-noun-unc-n|2=magnesiet}}
+
+# {{context|chemical element|lang=sv}} [[#English|magnesium]]
+
 
 [[ast:magnesium]]
 [[de:magnesium]]
