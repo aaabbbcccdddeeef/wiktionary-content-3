@@ -206,7 +206,7 @@ Started to be used in 1812 as an alternative form of [[aluminum]] which was inve
 * Slovene: {{t+|sl|aluminij}}
 * Spanish: {{t+|es|aluminio|m}}
 * Swahili: {{t-|sw|alumini}}
-* Swedish: {{t+|sv|aluminium|lang=Swedish}}
+* Swedish: {{t+|sv|aluminium|n}}
 * [[Tajik]]:
 *: Cyrillic: {{t-|tg|алюминий|sc=Cyrl}}
 *: Roman: {{t|tg|alyumini'|xs=Tajik}}
@@ -312,16 +312,17 @@ http://elements.vanderkrogt.net/elem/al.html
 
 [[Category:pl:Chemical elements]]
 
-----
 
+----
 ==Swedish==
+{{wikipedia|lang=sv}}
 
 ===Noun===
-'''aluminium''' ''~et'', ''uncountable''
+{{infl|sv|noun|g=n|uncountable}}
+{{sv-noun-unc-n|2=aluminiumet}}
+{{sv-noun-unc-n|2=alumniniet}}
 
-# [[aluminium#English|aluminium]]
-
-[[Category:Chemical elements]]
+# {{context|chemical element|lang=sv}} [[#English|aluminium]]
 
 [[ast:aluminium]]
 [[ca:aluminium]]
