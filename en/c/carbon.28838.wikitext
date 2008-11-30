@@ -113,9 +113,10 @@ from {{etyl|la}} [[carbo]]
 ====Translations====
 {{trans-top|chemical element}}
 * [[Afrikaans]]: {{t-|af|koolstof}}
-* Arabic: {{t-|ar|كربون|m|tr=karbú:n|sc=Arab}}
+* Alemannic: {{tø|als|Kohlenstoff|m}}
+* Arabic: {{t-|ar|كربون|m|tr=karbūn|sc=Arab}}
 * Armenian: {{t-|hy|ածխածին|tr=atsχatsin}}
-* [[Asturian]]: {{t+|ast|carbonu}}
+* [[Asturian]]: {{t+|ast|carbonu|m}}
 * [[Azeri]]: {{t-|az|karbon}}
 * [[Banyumasan]]: {{tø|map-bms|karbon}}
 * [[Basque]]: {{t-|eu|karbonoa}}
@@ -126,24 +127,24 @@ from {{etyl|la}} [[carbo]]
 * Bulgarian: {{t-|bg|въглерод|m|vəgleród|sc=Cyrl}}
 * [[Catalan]]: {{t-|ca|carboni|m}}
 * Chinese:
-*: Mandarin: {{t+|zh|碳|tr=taan4}}
-*: Simplified: [[碳]] (tàn)
+*: Mandarin: {{t+|zh|碳|tr=tàn}}
+*: [[Wu]]: {{tø|wuu|碳}}
 * [[Corsican]]: {{t-|co|carboniu}}
 * Croatian: {{t-|hr|ugljik|m}}
 * Czech: {{t+|cs|uhlík|m}}
 * Danish: {{t-|da|carbon}}, {{t|da|karbon}}, {{t-|da|kulstof|n}}
 * Dutch: {{t+|nl|koolstof|n}}
-* [[Erzya]]: {{tø|myv|седь}}
+* [[Erzya]]: {{tø|myv|седь|tr=sedj}}
 * Esperanto: {{t-|eo|karbono}}
 * Estonian: {{t-|et|süsinik}}
 * Finnish: {{t+|fi|hiili}}
 * [[Flemish]]: {{tø|vls|carboun}}
 * French: {{t+|fr|carbone|m}}
 * [[Friulian]]: {{tø|fur|carboni}}
-* [[Galician]]: {{t+|gl|carbono}}
-* Georgian: [[ნახშირბადი]] (naχširbadi)
+* [[Galician]]: {{t+|gl|carbono|m}}
+* Georgian: [[ნახშირბადი]] (naxširbadi)
 * German: {{t+|de|Kohlenstoff|m}}
-* Greek: {{t+|el|άνθρακας|m|tr=ánθrakas|sc=Grek}}, {{t+|el|κάρβουνο|n|tr=kárvuno|sc=Grek}} ''(rare)''
+* Greek: {{t+|el|άνθρακας|m|tr=ánthrakas|sc=Grek}}, {{t+|el|κάρβουνο|n|tr=kárvuno|sc=Grek}} ''(rare)''
 * [[Gujarati]]: {{t-|gu|કાર્બન|tr=kārban}}
 * [[Haitian Creole]]: {{tø|ht|kabòn}}
 * Hawaiian: {{tø|haw|kalepona}}
@@ -162,7 +163,7 @@ from {{etyl|la}} [[carbo]]
 * Kazakh: {{Cyrl|[[көмиртек]]}} (kömirtek)
 * Korean: {{t+|ko|탄소|tr=炭素, tanso}}
 * Kurdish: {{t+|ku|karbon}}
-* [[Kölsch]]: {{tø|ksh|Kohlenstoff}}
+* [[Kölsch]]: {{tø|ksh|Kohlenstoff|m}}
 * Latin: {{t+|la|carbonium}}
 * Latvian: {{t-|lv|ogleklis|m}}
 * [[Limburgish]]: {{t-|li|koolstof}}
@@ -172,7 +173,7 @@ from {{etyl|la}} [[carbo]]
 * [[Lojban]]: {{t-|jbo|tabno}}
 * [[Lombard]]: {{tø|lmo|carbòni}}
 * [[Low Saxon]]: {{t-|nds|kohlenstoff}}
-* [[Luxembourgish]]: {{t-|lb|Kuelestoff}}
+* [[Luxembourgish]]: {{t-|lb|Kuelestoff|m}}
 * [[Macedonian]]: {{t-|mk|јаглерод|sc=Cyrl|tr=jaglerod}}
 * Malay: {{t-|ms|karbon}}
 * [[Malayalam]]: {{t-|ml|കാര്‍ബണ്‍}}
@@ -183,7 +184,7 @@ from {{etyl|la}} [[carbo]]
 * Mongolian: {{t-|mn|нүүрстөрөгч|sc=Cyrl|tr=nüürstörögč}}
 * [[Nahuatl]]: {{t-|nah|tecolli}}
 * Norwegian: {{t+|no|karbon|n}}
-* [[Norwegian Nynorsk]]: {{t-|nn|karbon}}
+*: [[Nynorsk]]: {{t-|nn|karbon}}
 * [[Novial]]: {{tø|nov|karbo}}
 * [[Occitan]]: {{t-|oc|carbòni}}
 * Persian: {{t+|fa|کربن|sc=fa-Arab|tr=karbon}}
@@ -209,7 +210,6 @@ from {{etyl|la}} [[carbo]]
 * [[Tamil]]: {{t-|ta|கரிமம்|tr=karimam}}
 * [[Telugu]]: {{t+|te|కార్బన్|tr=karbanam}}
 * Thai: {{t-|th|คาร์บอน|tr=khārbon|sc=Thai}}
-* [[Tosk Albanian]]: {{t-|als|kohlenstoff}}
 * Turkish: {{t+|tr|karbon}}
 * Ukrainian: {{t-|uk|вуглець|tr=vuhlets’}}
 * [[Upper Sorbian]]: {{t-|hsb|wuhlik}}
@@ -218,8 +218,7 @@ from {{etyl|la}} [[carbo]]
 * [[Walloon]]: {{t-|wa|carbone}}
 * Welsh: {{t-|cy|carbon}}
 * [[West Frisian]]: [[koalstof]]
-* [[Wu]]: {{tø|wuu|碳}}
-* Yiddish: {{t-|yi|קוילנשטאף}}
+* Yiddish: {{t-|yi|קוילנשטאף|tr=koilenshtof|m}}
 {{trans-bottom}}
 
 <!--Add INFORMAL terms here, where these exist-->
@@ -246,7 +245,7 @@ from {{etyl|la}} [[carbo]]
 * Dutch: [[doorslag]] {{m}}
 * Finnish: [[kopsu]]
 * French: [[carbone]] {{m}}
-* Greek: [[αντίγραφο από καρμπόν]] (a[n]díɣrafo apó karbón), [[αντίγραφο με καρμπόν]] (a[n]díɣrafo me karbón), [[καρμπόν]] (karbón) {{n}}
+* Greek: [[αντίγραφο από καρμπόν]] (a[n]dígrafo apó karbón), [[αντίγραφο με καρμπόν]] (a[n]dígrafo me karbón), [[καρμπόν]] (karbón) {{n}}
 * [[Interlingua]]: copia al [[papiro carbon]]
 * Japanese: [[カーボンコピー]] (kābon-kopii)
 {{trans-mid}}
@@ -255,7 +254,7 @@ from {{etyl|la}} [[carbo]]
 * Polish: [[kalka]] {{f}}
 * Portuguese: [[carbono]] {{m}}, cópia a [[papel-carbono]] <!--Doesn't look INFORMAL-->
 * Romanian: [[copie la indigo]], [[copi cu indigoul]] <!--Doesn't look INFORMAL-->
-* Russian: [[копировальная бумага]] (kopirovál’naja bumága) {{f}}, [[копирка]] (kopírka) {{f}}
+* Russian: {{t|ru|копировальная бумага|tr=kopirovál’naja bumága|f}}, {{t|ru|копирка|tr=kopírka|f}}
 * Spanish: copia con [[papel carbón]] <!--Doesn't look INFORMAL-->
 * Swedish: [[genomslagskopia]] {{c}} <!--Doesn't look INFORMAL-->
 * Vietnamese: [[bản sao]] ([[bằng]] [[giấy than]])
@@ -286,7 +285,7 @@ from {{etyl|la}} [[carbo]]
 * Polish: [[węgiel]] {{m}}
 * Portuguese: [[carvão]] {{m}}
 * Romanian: [[cărbune]]
-* Russian: [[уголь]] (úgol’) {{m}}
+* Russian: {{t|ru|уголь|tr=úgol’|m}}
 * Serbian:
 *: Cyrillic: [[угаљ#Serbian|угаљ]] {{m}}, [[ћумур#Serbian|ћумур]] {{m}}
 *: Roman: [[ugalj#Serbian|ugalj]] {{m}}, [[ćumur#Serbian|ćumur]] {{m}}
@@ -304,6 +303,7 @@ from {{etyl|la}} [[carbo]]
 * Greek: [[ξερός πάγος]] (kserós páɣos) (carbon dioxide snow) {{m}}
 {{trans-mid}}
 * Norwegian: [[kulldioksid]] {{m}}, [[kullsyre]] {{f}}
+* Russian: {{t|ru|двуокись углерода|dvuókis’ ugleróda|f}}
 * Swedish: [[koldioxid]]
 * Vietnamese: [[điôxít cacbon]], [[cacbon điôxít]], [[thán khí]], [[anhiđrít cacbonic]], [[khí cacbonic]]
 {{trans-bottom}}
