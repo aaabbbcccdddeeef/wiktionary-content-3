@@ -122,9 +122,9 @@
 * [[Campidanese Sardinian]]: [[morti]] {{f}}
 * [[Catalan]]: [[mort]] {{f}}
 * Chinese: [[死亡]] (sǐwáng)
-* Croatian: {{t+|hr|smrt|alt=smȑt|f}}
-* Czech: {{t-|cs|smrt|f}}
-* Danish: {{t-|da|død|c}}
+* Croatian: {{t+|hr|smrt|f|alt=smȑt}}
+* Czech: {{t+|cs|smrt|f}}
+* Danish: {{t+|da|død|c}}
 * Dutch: {{t+|nl|dood|m}}
 * Esperanto: {{t-|eo|morto|xs=Esperanto}}
 * Estonian: {{t-|et|surm}}
@@ -150,13 +150,13 @@
 * Kurdish: {{t+|ku|mirin|f}}, {{t+|ku|merg|f}}, {{t+|ku|wefat|f}}, {{t+|ku|mewt|f}}, {{t+|ku|emrê Xwedê|m}}, {{t-|ku|مه‌رگ|sc=KUchar}}, {{t-|ku|مردن|sc=KUchar}}
 * Latin: {{t+|la|mors|f}}, {{t-|la|exitium|n}}, {{t-|la|quietus|m}}
 * Latvian: {{t-|lv|nāve|f|xs=Latvian}}
-* Lithuanian: [[mirtis]] {{f}}
+* Lithuanian: {{t+|lt|mirtis|f|xs=Lithuanian}}
 * [[Low Saxon]]: [[dood]] {{m}}
 * [[Macedonian]]: [[смрт]] (smrt) {{f}}
 * [[Malayalam]]: [[മരണം]] (maraNam)
 * Maori: {{t-|mi|mate|xs=Maori}}
 * Mongolian: [[үхэл]] (ühel)
-* Norwegian: {{t-|no|død|m}}
+* Norwegian: {{t+|no|død|m}}
 * [[Occitan]]: {{t+|oc|mòrt|xs=Occitan}} {{f}}
 * Persian: {{fa-Arab|[[موت]]}} (mout), {{fa-Arab|[[مرگ]]}} (marg)
 * Polish: [[śmierć]] {{f}}, [[zgon]] {{m}}
@@ -165,12 +165,12 @@
 * Russian: [[смерть]] (smert’) {{f}}
 * [[Scottish Gaelic]]: [[bàs]] {{m}}
 * Serbian:
-*: Cyrillic: {{t|sr|смрт|f}}
-*: Roman: {{t|sr|smrt|f}}
+*: Cyrillic: {{t-|sr|смрт|f|sc=Cyrl}}
+*: Roman: {{t-|sr|smrt|f}}
 * Slovak: {{t-|sk|smrť|f}}
 * Slovene: {{t+|sl|smrt|f}}
 * Spanish: {{t+|es|muerte|f}}
-* Swahili: {{t-|sw|kifo|xs=Swahili}}
+* Swahili: {{t+|sw|kifo|xs=Swahili}}
 * Swedish: {{t+|sv|död|c}}
 * [[Telugu]]: [[మరణము]] (maranamu), [[చావు]] (chaavu)
 * Tongan: [[mate]]
@@ -181,7 +181,7 @@
 {{trans-bottom}}
 
 {{trans-top|personification of death}}
-* Czech: {{t-|cs|smrtka|f}}, smrt
+* Czech: {{t-|cs|smrtka|f}}, {{t+|cs|smrt}}
 * Dutch: {{t+|nl|dood|m}}
 * German: {{t+|de|Tod|m}}
 * Greek: ,
