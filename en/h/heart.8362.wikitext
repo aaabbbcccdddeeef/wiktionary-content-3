@@ -144,7 +144,7 @@
 * Kurdish: {{t+|ku|dil|m}}, {{t+|ku|qelb|m}}, {{t|ku|دڵ|sc=KUchar}}
 * [[Kyrgyz]]: {{t|ky|жүрөк|tr=žürök|sc=Cyrl|xs=Kyrgyz}}
 * Lao: {{t-|lo|ໃຈ|tr=cay|sc=Laoo|xs=Lao}}
-* Latin: {{t-|la|cor|n}}
+* Latin: {{t+|la|cor|n}}
 {{trans-mid}}
 * Latvian: {{t-|lv|sirds|f|xs=Latvian}}
 * Lithuanian: {{t+|lt|širdis|f|xs=Lithuanian}}
@@ -156,7 +156,7 @@
 * [[Mapudungun]]: {{tø|arn|piwke|xs=Mapudungun}}
 * [[Marathi]]: {{t|mr|ह्रुदय|tr=hruday|sc=Deva|xs=Marathi}}
 * [[Nahuatl]]: {{t-|nah|yollotl|xs=Nahuatl}}
-* Norwegian: {{t-|no|hjerte|n}}
+* Norwegian: {{t+|no|hjerte|n}}
 * [[Occitan]]: {{t+|oc|còr|m|xs=Occitan}}
 * [[Old Church Slavonic]]:
 *: Cyrillic: {{tø|cu|срьдьцє|n|tr=srĭdĭce|sc=Cyrl|xs=Old Church Slavonic}}
@@ -167,7 +167,7 @@
 * [[Old Irish]]: {{tø|sga|cride|xs=Old Irish}}
 * [[Old Norse]]: {{tø|non|hjarta|xs=Old Norse}}
 * [[Old Prussian]]: {{tø|prg|seyr|xs=Old Prussian}}
-* [[Pashto]]: {{t|ps|زره|tr=zrë|sc=fa-Arab}}
+* [[Pashto]]: {{t|ps|زره|tr=zrë|sc=fa-Arab|xs=Pashto}}
 * Persian: {{t+|fa|دل|tr=del|sc=fa-Arab|xs=Persian}}, {{t+|fa|قلب|tr=ghalb|sc=fa-Arab|xs=Persian}}
 * Polish: {{t+|pl|serce|n}}
 * Portuguese: {{t+|pt|coração|m}}
@@ -190,7 +190,7 @@
 * [[Tamazight]]: [[ⵓⵍ]] (ul) {{m}}
 * [[Taos]]: [[píana]]
 * [[Telugu]]: {{t|te|గుండె|tr=guMDe|sc=Telu}}
-* Thai: {{t|th|หัวใจ|tr=hua-jai|sc=Thai|xs=Thai}}
+* Thai: {{t-|th|หัวใจ|tr=hua-jai|sc=Thai|xs=Thai}}
 * [[Tocharian B]]: {{tø|txb|käryāñ|xs=Tocharian B}}
 * Turan: [[yürək]]
 * Turkish: {{t+|tr|yürek}}
@@ -216,7 +216,7 @@
 * Kurdish: {{t+|ku|dil|m}}, {{t+|ku|qelb|m}}
 {{trans-mid}}
 * Maltese: {{t|mt|qalb|f|xs=Maltese}}
-* Norwegian: {{t-|no|hjerte|n}}
+* Norwegian: {{t+|no|hjerte|n}}
 * Old English: {{t-|ang|mod|n|alt=mōd|xs=Old English}}, {{t-|ang|sefa|m|xs=Old English}}, {{t-|ang|hyge|m|alt=hyġe|xs=Old English}}
 * Portuguese: {{t+|pt|amabilidade|f}}, {{t+|pt|bondade|f}}, {{t+|pt|generosidade|f}}
 * Serbian:
@@ -225,14 +225,14 @@
 * Swedish: {{t+|sv|hjärta|n}}
 * [[Tagalog]]: {{t-|tl|puso|xs=Tagalog}}
 * [[Telugu]]: {{t|te|మనసు|sc=Telu}}, {{t|te|హృదయం|sc=Telu}} (manasu, hRdayaM)
-* Thai: {{t|th|หัวใจ|hua-jai|sc=Thai|xs=Thai}}, {{t|th|ดวงใจ|tr=duang-jai|sc=Thai|xs=Thai}}, {{t|th|ฤทัย|tr=ru-tai|sc=Thai|xs=Thai}}, {{t|th|ใจ|tr=jai|sc=Thai|xs=Thai}}
+* Thai: {{t-|th|หัวใจ|hua-jai|sc=Thai|xs=Thai}}, {{t-|th|ดวงใจ|tr=duang-jai|sc=Thai|xs=Thai}}, {{t-|th|ฤทัย|tr=ru-tai|sc=Thai|xs=Thai}}, {{t-|th|ใจ|tr=jai|sc=Thai|xs=Thai}}
 * [[West Frisian]]: {{t-|fy|hert|xs=West Frisian}}
 {{trans-bottom}}
 
 {{trans-top|a shape or symbol}}
-* Arabic: {{t-|ar|قلب|sc=Arab|tr=qalb|m}}
+* Arabic: {{t-|ar|قلب|m|tr=qalb|sc=Arab}}
 * Bosnian: {{t-|bs|srce|n}}
-* [[Catalan]]: {{t|ca|cor}}
+* [[Catalan]]: {{t+|ca|cor}}
 * Czech: {{t-|cs|srdce|n}}
 * Danish: {{t+|da|hjerte|n}}
 * Dutch: {{t+|nl|hart|n}}
@@ -248,21 +248,21 @@
 * [[Jèrriais]]: [[tchoeu]] {{m}}
 {{trans-mid}}
 * Kurdish: {{t+|ku|dil|m}}, {{t+|ku|qelb|m}}
-* Maltese: {{t|mt|qalb|f}}
-* Norwegian: {{t-|no|hjerte|n}}
-* Polish: {{t|pl|serce|n}}, {{t|pl|serduszko|n}}
+* Maltese: {{t|mt|qalb|f|xs=Maltese}}
+* Norwegian: {{t+|no|hjerte|n}}
+* Polish: {{t+|pl|serce|n}}, {{t|pl|serduszko|n}}
 * Portuguese: {{t+|pt|coração|m}}
 * Russian: {{t+|ru|сердце|n|tr=sérdtse|sc=Cyrl}}
-* [[Scottish Gaelic]]: {{t|gd|cridhe|m}}
+* [[Scottish Gaelic]]: {{t-|gd|cridhe|m|xs=Scottish Gaelic}}
 * Serbian:
-*: Cyrillic: {{t|sr|срце|n|sc=Cyrl}}
-*: Roman: {{t|sr|srce|n}}
+*: Cyrillic: {{t-|sr|срце|n|sc=Cyrl}}
+*: Roman: {{t-|sr|srce|n}}
 * Slovene: {{t+|sl|srce|n}}
 * Spanish: {{t+|es|corazón|m}}
 * Swedish: {{t+|sv|hjärta|n}}
 * [[Tagalog]]: {{t-|tl|puso|xs=Tagalog}}
-* [[Telugu]]: {{t|te|ప్రేమ|sc=Telu|tr=prema}}
-* [[West Frisian]]: {{t|fy|hert}}
+* [[Telugu]]: {{t|te|ప్రేమ|tr=prema|sc=Telu}}
+* [[West Frisian]]: {{t-|fy|hert|xs=West Frisian}}
 {{trans-bottom}}
 
 {{trans-top|a suit of cards}}
@@ -270,7 +270,7 @@
 * Czech: {{t-|cs|srdce|p}}
 * Danish: {{t|da|hjerter|p}}
 * Dutch: {{t-|nl|harten|p}}
-* Faroese: {{t|fo|hjørtu|n|p}}
+* Faroese: {{t|fo|hjørtu|n|p|xs=Faroese}}
 * Finnish: {{t+|fi|hertta}}
 * French: {{t+|fr|cœur|m}}
 * German: {{t+|de|Herz|n}}
@@ -288,17 +288,17 @@
 * Portuguese: {{t+|pt|copas|f|p}}
 * Russian: {{t-|ru|черви|f|p|tr=čérvi|sc=Cyrl}}
 * Serbian:
-*: Cyrillic: {{t|sr|херц|m}}
+*: Cyrillic: {{t|sr|херц|m|sc=Cyrl}}
 *: Roman: {{t|sr|herc|m}}
 * Slovene: {{t+|sl|srce|n}}
 * Spanish: {{t-|es|copas|f|p}}
 * Swedish: {{t+|sv|hjärter|n}}
 * [[Telugu]]: {{t|te|ఆఠీను|tr=ATheenu|sc=Telu}}
-* [[West Frisian]]: {{t|fy|herten}}
+* [[West Frisian]]: {{t|fy|herten|xs=West Frisian}}
 {{trans-bottom}}
 
 {{trans-top|centre or core}}
-* Arabic: {{t|ar|sc=Arab|قلب|tr=qalb|m}}
+* Arabic: {{t-|ar|قلب|m|tr=qalb|sc=Arab}}
 * Bosnian: {{t-|bs|srce|n}}
 * Czech: {{t-|cs|srdce|n}}
 * Danish: {{t+|da|hjerte|n}}
@@ -308,26 +308,26 @@
 * French: {{t+|fr|cœur|m}}
 * German: {{t+|de|Kern|m}}, {{t+|de|Herz|n}}
 * Greek: {{t+|el|καρδιά|f|tr=karðiá|sc=Grek}}
-*: Ancient Greek: {{t|grc|sc=polytonic|καρδία|tr=kardia|f}}
-* Hebrew: {{t|he|מרכז|tr=merkáz|m}}, {{t|he|לב|tr=lev|m}}
+*: Ancient Greek: {{tø|grc|καρδία|f|tr=kardia|sc=polytonic|xs=Ancient Greek}}
+* Hebrew: {{t-|he|מרכז|m|tr=merkáz|sc=Hebr}}, {{t+|he|לב|m|tr=lev|sc=Hebr}}
 * Icelandic: {{t+|is|hjarta|n}}
 * Italian: {{t+|it|nocciolo|m}}
-* Japanese: {{t|ja|中心|tr=chūshin}}
+* Japanese: {{t+|ja|中心|tr=chūshin|sc=Jpan}}
 {{trans-mid}}
 * [[Jèrriais]]: [[tchoeu]] {{m}}
 * Kurdish: {{t+|ku|dil|m}}, {{t+|ku|qelb|m}}
-* Maltese: {{t|mt|qalba|f}}, {{t|mt|ġewieni|m}}
+* Maltese: {{t|mt|qalba|f|xs=Maltese}}, {{t|mt|ġewieni|m|xs=Maltese}}
 * Norwegian: {{t-|no|hjertet|n}}
 * Polish: {{t+|pl|serce|n}}
 * Portuguese: {{t+|pt|cerne|m}} (ex: ''o '''cerne''' da questão'' / ''the '''core''' of the question)
-* Russian: {{t|ru|сердце|tr=sérdtse|n}}, {{t|ru|сердцевина|tr=serdtsevína|f}}
+* Russian: {{t+|ru|сердце|n|tr=sérdtse|sc=Cyrl}}, {{t|ru|сердцевина|f|tr=serdtsevína|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|cridhe|m|xs=Scottish Gaelic}}
 * Serbian:
-*: Cyrillic: {{t|sr|срце|n|sc=Cyrl}}
-*: Roman: {{t|sr|srce|n}}
+*: Cyrillic: {{t-|sr|срце|n|sc=Cyrl}}
+*: Roman: {{t-|sr|srce|n}}
 * Spanish: {{t+|es|corazón|m}}
 * Swedish: {{t+|sv|hjärta|n}}
-* [[West Frisian]]: {{t|fy|hert}}
+* [[West Frisian]]: {{t-|fy|hert|xs=West Frisian}}
 {{trans-bottom}}
 
 {{checktrans-top}}
