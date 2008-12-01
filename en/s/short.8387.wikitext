@@ -73,7 +73,7 @@
 * Japanese: {{t+|ja|短い|tr=mijikai|sc=Jpan}}
 * [[Novial]]: [[kurti]]
 * Russian: {{t+|ru|короткий|tr=korótkij|sc=Cyrl}}
-* [[Scottish Gaelic]]: {{t-|gd|goirid}}
+* [[Scottish Gaelic]]: {{t-|gd|goirid|xs=Scottish Gaelic}}
 * Slovene: [[kratek]] {{m}}, [[kratka]] {{f}}, [[kratko]] {{n}}
 * Spanish: {{t+|es|corto|m}}
 * Vietnamese: {{t-|vi|đoản|xs=Vietnamese}}
@@ -85,13 +85,13 @@
 * Finnish: [[lyhennys]], [[lyhyt]] [[muoto]]
 * German: {{t+|de|kurz}} (für)
 {{trans-mid}}
-* Japanese: {{qualifier|noun}} {{t-|ja|略語|tr=mijikai|sc=Jpan}}
+* Japanese: {{qualifier|noun}} {{t+|ja|略語|tr=mijikai|sc=Jpan}}
 * [[Novial]]: [[kurti]]
 * Russian: {{t+|ru|короткий|tr=korótkij|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|of a person, of comparatively little height}}
-* Czech: {{t-|cs|malý}}
+* Czech: {{t+|cs|malý}}
 * Danish: {{t-|da|lav}}
 * Finnish: {{t+|fi|lyhyt}}
 * French: {{t+|fr|petit}}
@@ -101,8 +101,8 @@
 {{trans-mid}}
 * Japanese: {{t+|ja|低い|tr=hikui|sc=Jpan}}
 * [[Novial]]: [[kurti]]
-* Russian: [[низкий]] (nízkij), [[невысокий]] (nevysókij)
-* [[Scottish Gaelic]]: {{t-|gd|beag}}
+* Russian: {{t+|ru|низкий|tr=nízkij|sc=Cyrl}}, {{t+|ru|невысокий|tr=nevysókij|sc=Cyrl}}
+* [[Scottish Gaelic]]: {{t-|gd|beag|xs=Scottish Gaelic}}
 * Slovene: [[majhen]] {{m}}, [[majhna]] {{f}}
 * Spanish: {{t+|es|bajo|m}}
 {{trans-bottom}}
@@ -112,7 +112,7 @@
 * French: {{t+|fr|court}}
 {{trans-mid}}
 * Italian: {{t+|it|corto}}
-* [[Scottish Gaelic]]: {{t-|gd|goirid}}
+* [[Scottish Gaelic]]: {{t-|gd|goirid|xs=Scottish Gaelic}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -187,7 +187,7 @@
 {{trans-top|transitive: to cause a short circuit}}
 * Czech: {{t-|cs|zkratovat}}
 * Danish: [[kortslutte]]
-* Finnish: {{t|fi|oikosulkea}}
+* Finnish: {{t-|fi|oikosulkea}}
 * French: {{t+|fr|court-circuiter}}
 {{trans-mid}}
 * German: [[kurzschließen]]
@@ -196,9 +196,9 @@
 {{trans-bottom}}
 
 {{trans-top|intransitive: to short circuit}}
-* Czech: [[zkratovat|zkratovat se]]
+* Czech: {{t-|cs|zkratovat|alt=zkratovat se}}
 {{trans-mid}}
-* Finnish: {{t|fi|mennä}} {{t|fi|oikosulku|alt=oikosulkuun}}
+* Finnish: {{t+|fi|mennä}} {{t+|fi|oikosulku|alt=oikosulkuun}}
 {{trans-bottom}}
 
 {{trans-see|shortchange}}
@@ -208,7 +208,7 @@
 {{trans-bottom}}
 
 {{trans-top|business: to sell sthg one does not own at the moment}}
-* Finnish: {{t|fi|myydä}} {{t|fi|lyhyt|alt=lyhyeksi}}, {{t|fi|shortata}}
+* Finnish: {{t+|fi|myydä}} {{t+|fi|lyhyt|alt=lyhyeksi}}, {{t-|fi|shortata}}
 {{trans-mid}}
 {{trans-bottom}}
 
