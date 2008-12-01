@@ -119,7 +119,7 @@ From {{etyl|enm}} ''h(o)us'' < {{etyl|ang}} ''[[hus|hūs]]'' (dwelling, shelter,
 * Chinese: [[房屋]] (fángwū)
 * [[Chuvash]]: {{unicode|[[ҫурт]] / [[ҫурт|çурт]] (çurt)}} {{s}}, {{unicode|[[ҫурт|ҫуртсем]] / [[ҫурт|çуртсем]] (çurtsem)}} {{p}}
 * [[Cree]]: [[wikowin]]
-* Croatian: {{t+|hr|kuća|alt=kȕća|f}}
+* Croatian: {{t+|hr|kuća|f|alt=kȕća}}
 * Czech: {{t+|cs|dům|m}}
 * Danish: {{t+|da|hus|n}}
 * [[Dusun]]: [[walai]]
@@ -174,7 +174,7 @@ From {{etyl|enm}} ''h(o)us'' < {{etyl|ang}} ''[[hus|hūs]]'' (dwelling, shelter,
 * [[Novial]]: [[hause]]
 * [[Occitan]]: [[ostal]] {{m}}
 * [[Ojibwe]]: [[waakaa'igan]], [[waakaa'iganan]] {{p}}
-* Old English: {{t|ang|hus|alt=hūs|n}}, {{t|ang|hof|n}}, {{t|ang|ærn|n}}, {{t|ang|stoc|n}}
+* Old English: {{t-|ang|hus|n|alt=hūs|xs=Old English}}, {{t-|ang|hof|n|xs=Old English}}, {{t-|ang|ærn|n|xs=Old English}}, {{t-|ang|stoc|n|xs=Old English}}
 * {{trreq|Oriya}}
 * [[Pangasinan]]: [[abong]]
 * Persian: {{fa-Arab|[[خانه|خانِه]]}} (xāne)
@@ -339,7 +339,7 @@ American Slang: To steal, esp. one's intellectual property, such as ideas, music
 {{trans-bottom}}
 
 {{trans-top|contain or enclose mechanical parts}}
-* Spanish: {{t-|es|encajar}}, {{t-|es|envolver}}
+* Spanish: {{t-|es|encajar}}, {{t+|es|envolver}}
 {{trans-mid}}
 {{trans-bottom}}
 
