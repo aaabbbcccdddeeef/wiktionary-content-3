@@ -60,49 +60,49 @@ From Old (and modern) French ''[[liste]]'' ‘strip (of paper)’, probably cogn
 {{trans-top|register or roll of paper consisting of an enumeration or compilation of a set of possible items}}
 * Arabic: {{Arab|[[قائمة]]}} {{IPAchar|(qā’ima)}} {{f}}
 * Chinese: [[单子]] (dānzi)
-* Czech: [[seznam]] {{m}}
-* Dutch: {{t|nl|lijst|f}}
+* Czech: {{t-|cs|seznam|m}}
+* Dutch: {{t+|nl|lijst|f}}
 * Estonian: {{t|et|loend}}
-* Finnish: {{t|fi|lista}}
-* French: {{t|fr|liste|f}}
-* German: {{t|de|Liste|f}}
-* Hungarian: {{t|hu|lista}}
-* Italian: {{t|it|lista|f}}
+* Finnish: {{t+|fi|lista}}
+* French: {{t+|fr|liste|f}}
+* German: {{t+|de|Liste|f}}
+* Hungarian: {{t+|hu|lista}}
+* Italian: {{t+|it|lista|f}}
 * Japanese: [[一覧]] (ichiran), [[リスト]] (risuto)
 {{trans-mid}}
 * Korean: [[명부]] (myeongbu)
 * [[Limburgish]]: [[lies]]
-* Portuguese: {{t|pt|lista|f}}
-* Russian: {{t|ru|список|tr=spísok|m}}
+* Portuguese: {{t+|pt|lista|f}}
+* Russian: {{t|ru|список|m|tr=spísok|sc=Cyrl}}
 * [[Scots]]: [[leet]]
-* Slovak: {{t|sk|zoznam|m}}
-* Slovene: {{t|sl|seznam|m}}
-* Spanish: {{t|es|lista|f}}
-* Swedish: {{t|sv|lista|c}}
-* [[Telugu]]: {{t|te|జాబితా}} (jaabitaa)
+* Slovak: {{t-|sk|zoznam|m}}
+* Slovene: {{t+|sl|seznam|m}}
+* Spanish: {{t+|es|lista|f}}
+* Swedish: {{t+|sv|lista|c}}
+* [[Telugu]]: {{t|te|జాబితా|sc=Telu}} (jaabitaa)
 {{trans-bottom}}
 
 {{trans-top|computing: codified representation of a list}}
-* Czech: {{t|cs|seznam|m}}
-* Dutch: {{t|nl|lijst|f}}
-* Finnish: {{t|fi|lista}}
+* Czech: {{t-|cs|seznam|m}}
+* Dutch: {{t+|nl|lijst|f}}
+* Finnish: {{t+|fi|lista}}
 {{trans-mid}}
-* German: {{t|de|Liste|f}}
-* Japanese: [[リスト]] (risuto)
+* German: {{t+|de|Liste|f}}
+* Japanese: {{t-|ja|リスト|tr=risuto|sc=Jpan}}
 {{trans-bottom}}
 
 {{trans-top|LISP: data structure made up of cons pairs the cdr of which contains either another list or nil}}
-* Czech: {{t|cs|seznam|m}}
+* Czech: {{t-|cs|seznam|m}}
 {{trans-mid}}
-* Dutch: {{t|nl|lijst|f}}
+* Dutch: {{t+|nl|lijst|f}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|French}}: {{t|fr|liste|f}}
-* {{ttbc|Norwegian}}: {{t|no|liste|m|f}}
+* {{ttbc|French}}: {{t+|fr|liste|f}}
+* {{ttbc|Norwegian}}: {{t+|no|liste|m|f}}
 {{trans-mid}}
 * {{ttbc|Swahili}}: [[orodha]] ''(noun 9/10)''
-* {{ttbc|Swedish}}: {{t|sv|lista|c}}
+* {{ttbc|Swedish}}: {{t+|sv|lista|c}}
 {{trans-bottom}}
 
 ====Verb====
@@ -113,11 +113,11 @@ From Old (and modern) French ''[[liste]]'' ‘strip (of paper)’, probably cogn
 =====Translations=====
 {{trans-top|to create or recite a list}}
 * Estonian: {{t|et|loetlema}}
-* French: [[lister]]
-* German: [[aufzählen]]
+* French: {{t+|fr|lister}}
+* German: {{t-|de|aufzählen}}
 * Japanese: [[列記する]] (rekki-suru), [[リストする]] (risuto suru)
 {{trans-mid}}
-* Norwegian: [[liste]]
+* Norwegian: {{t+|no|liste}}
 * Slovene: [[naštevati]]
 * Spanish: [[hacer]] [[una]] [[lista]], [[leer]] [[una]] [[lista]]
 * Swahili: [[kuorodesha]]
