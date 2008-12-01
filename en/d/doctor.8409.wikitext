@@ -119,7 +119,7 @@ From {{etyl|la|en}} {{term|doctor|lang=la}} from {{term|doceo|doceō|teach|lang=
 * Armenian: [[բժիշկ]] (bžišk)
 * Bulgarian: {{t+|bg|доктор|m|sc=Cyrl}}
 * Chinese: [[醫生]], [[医生]] (yīshēng), [[大夫]] (dàifū)
-* Croatian: {{t|hr|liječnik|alt=lijȇčnīk|m}}, {{t|hr|liječnica|alt=lijȇčnica|f}}
+* Croatian: {{t+|hr|liječnik|m|alt=lijȇčnīk}}, {{t+|hr|liječnica|f|alt=lijȇčnica}}
 * Czech: {{t-|cs|doktor|m}}, {{t-|cs|lékař|m}}
 * Danish: [[læge]], [[doktor]]
 * Dutch: {{t+|nl|dokter|m|f}}, {{t+|nl|arts|m|f}}
@@ -132,16 +132,16 @@ From {{etyl|la|en}} {{term|doctor|lang=la}} from {{term|doceo|doceō|teach|lang=
 * Hebrew: [[רופא]] (rofe) {{m}}, [[רופאה]] (rof'a) {{f}}; [[דוקטור]] (doqt'or) (colloquial, while addressing doctor) {{m}}
 * Hungarian: {{t+|hu|orvos|m}}, {{t+|hu|doktor|m}}, {{t|hu|orvosnő|f}}, {{t|hu|doktornő|f}}
 * Icelandic: {{t+|is|læknir|m}}, {{t-|is|doktor|m}}
-* Indonesian: dokter
+* Indonesian: {{t+|id|dokter|xs=Indonesian}}
 {{trans-mid}}
 * Italian: [[medico]] {{m}}, [[dottore]] {{m}}, [[dottoressa]] {{f}}, [[Dottor]] (''alternative form used before a name'')
 * Japanese: [[医師]] ([[いし]], ishi), [[医者]] ([[いしゃ]], isha)
 * Kurdish: {{KUchar|[[دکتۆر]]}}
-* Latin: {{t-|la|medicus|m}}, {{t-|la|medica|f}}
+* Latin: {{t+|la|medicus|m}}, {{t-|la|medica|f}}
 * Maltese: [[tabib]] {{m}}, [[tabiba]] {{f}}
 * [[Martuthunira]]: [[juwayumarta]]
 * [[Novial]]: [[medike]]
-* Polish: [[lekarz]] {{m}}, [[lekarka]] {{f}}
+* Polish: {{t+|pl|lekarz|m}}, {{t+|pl|lekarka|f}}
 * Portuguese: [[doutor]] {{m}}, [[doutora]] {{f}}
 * Romanian: [[medic]] {{m}}, [[medică]] {{f}}, [[#Romanian|doctor]] {{m}}, [[doctoare]] {{f}}
 * Russian: {{t+|ru|доктор|m|f|tr=doktor|sc=Cyrl}}, {{t+|ru|врач|m|f|tr=vrach|sc=Cyrl}}
@@ -161,7 +161,7 @@ From {{etyl|la|en}} {{term|doctor|lang=la}} from {{term|doceo|doceō|teach|lang=
 * Armenian: [[դոկտոր]] (doktor)
 * Bulgarian: [[доктор]] {{m}}, [[лекар]] {{m}}, [[лекарка]] {{f}}
 * Chinese: [[博士]] (bóshì)
-* Croatian: {{t|hr|doktor|alt=dȍktor|m}}, {{t|hr|doktorica|alt=dȍktorica|f}}
+* Croatian: {{t-|hr|doktor|m|alt=dȍktor}}, {{t-|hr|doktorica|f|alt=dȍktorica}}
 * Czech: {{t-|cs|doktor|m}}
 * Danish: {{t-|da|doktor}}
 * Dutch: doctor {{m|f}}
@@ -172,7 +172,7 @@ From {{etyl|la|en}} {{term|doctor|lang=la}} from {{term|doceo|doceō|teach|lang=
 * Hebrew: [[דוקטור]] (doqt'or) {{m}}
 * Hungarian: {{t+|hu|doktor}}
 * Icelandic: {{t+|is|læknir|m}}, {{t-|is|doktor|m}}
-* Indonesian: doktor
+* Indonesian: {{t-|id|doktor|xs=Indonesian}}
 {{trans-mid}}
 * Italian: {{t+|it|dottore|m}}, {{t+|it|dottoressa|f}}
 * Japanese: [[博士]] ([[はくし]], hakushi, [[はかせ]] hakase)
@@ -193,14 +193,14 @@ From {{etyl|la|en}} {{term|doctor|lang=la}} from {{term|doceo|doceō|teach|lang=
 
 {{trans-top|veterinarian}}
 * Armenian: [[անասնաբույժ]] (anasnabuyž)
-* Croatian: {{t|hr|veterinar|alt=veterìnār|m}}, {{t|hr|veterinarka|alt=veterìnārka|f}}
+* Croatian: {{t-|hr|veterinar|m|alt=veterìnār}}, {{t-|hr|veterinarka|f|alt=veterìnārka}}
 * Czech: {{t-|cs|veterinář|m}}
 * Danish: [[dyrlæge]]
 * Dutch: [[dierenarts]]
 * Finnish: {{t+|fi|eläinlääkäri}}
 * German: [[Tierarzt]] {{m}}, [[Tierärztin]] {{f}}, [[Veterinär]] {{m}}
 * Hungarian: {{t|hu|állatorvos}}
-* Icelandic: [[dýralæknir]] {{m}}
+* Icelandic: {{t+|is|dýralæknir|m}}
 * Indonesian: dokter hewan
 {{trans-mid}}
 * Italian: [[veterinario]] {{m}}, [[dottore]] {{m}} (''[[appellative]]'')
