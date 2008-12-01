@@ -71,12 +71,12 @@
 * Albanian: [[dhelpër]] {{f}}
 * Arabic: {{Arab|[[ثعلب]]}} {{unicode|(θáʕlab)}} {{m}}
 * [[Arapaho]]: [[nouː]], [[beːχou]]
-* Armenian: {{t+|hy|աղվես|sc=Hayeren|xs=Armenian|tr=aġves}}
+* Armenian: {{t+|hy|աղվես|tr=aġves|sc=Hayeren|xs=Armenian}}
 * [[Basque]]: [[azeri]]
 * Belarusian: [[ліса]] (lisa) {{f}}
 * Bosnian: [[lisica]] {{f}}, [[lisac]] {{m}}
 * [[Breton]]: [[louarn]] {{m}}, louarned {{p}}
-* Bulgarian: {{t|bg|лисица|tr=lisitsa|f}}
+* Bulgarian: {{t+|bg|лисица|f|tr=lisitsa|sc=Cyrl}}
 * CJKV Characters: [[貔]], [[豼]], [[狸]], [[貍]]
 * [[Carrier]]: [[naŋʌz]]
 * [[Catalan]]: [[guineu]] {{m}}, [[guilla]] {{f}}, [[rabosa]] {{f}}
@@ -109,7 +109,7 @@
 * Hebrew: [[שועל|שׁוּעָל]] (šu‘al) {{m}}
 * Hindi: {{t-|hi|लोमड़ी|sc=Deva|xs=Hindi}}
 * Hungarian: {{t+|hu|róka}}
-* Icelandic: [[refur]] {{m}}, [[tófa]] {{f}}
+* Icelandic: {{t+|is|refur|m}}, {{t+|is|tófa|f}}
 * Indonesian: [[rubah]]
 * [[Inuktitut]]: [[ᑎᕆᒐᓐᓂᐊᖅ]] (tiriganniaq)
 * Irish: {{t+|ga|sionnach|m|xs=Irish}}, {{t-|ga|madra rua|m|xs=Irish}}
@@ -135,7 +135,7 @@
 * [[Mingo]]: [[unõˀkwatkwá]]
 * [[Mohawk]]: [[tsitsho]]
 * [[Moksha]]: [[келазь]] (kelazj)
-* Norwegian: {{t-|no|rev|m}}
+* Norwegian: {{t+|no|rev|m}}
 * [[Novial]]: [[foxe#Novial|foxe]]
 * [[Occitan]]: [[rainald]] {{m}}
 * [[Ojibwe]]: [[ᐙᑯᔥ]] ([[waagosh]])
@@ -145,13 +145,13 @@
 * [[Paiute]]: [[waŋ̇i’i]]
 * [[Papago]]: [[gaso]]
 * [[Pawnee]]: [[kiwʌ́ku]]
-* Persian: {{fa-Arab|[[روباه]]}} (rubah)
-* Polish: {{t-|pl|lis|m}}
+* Persian: {{t+|fa|روباه|tr=rubah|sc=fa-Arab|xs=Persian}}
+* Polish: {{t+|pl|lis|m}}
 * Portuguese: {{t+|pt|raposa|f}}
 * [[Romani]]: [[xulpa]] {{f}}
 * Romanian: {{t+|ro|vulpe|f}}
 * [[Romansch]]: [[vulp]] {{f}}
-* Russian: {{t|ru|лиса|tr=lisá|f}}, {{t|ru|лисица|tr=lisítsa|f}}, {{t|ru|лис|tr=lis|m}}
+* Russian: {{t+|ru|лиса|f|tr=lisá|sc=Cyrl}}, {{t+|ru|лисица|f|tr=lisítsa|sc=Cyrl}}, {{t+|ru|лис|m|tr=lis|sc=Cyrl}}
 * [[Sami]]: [[rieban]]
 * [[Sardinian]]: [[mrexani]], [[fraitzu]], [[liori]], [[grupi]]
 * [[Scottish Gaelic]]: [[sionnach]] {{m}}
@@ -175,7 +175,7 @@
 * [[Upper Sorbian]]: [[liška]] {{f}}
 * {{trreq|Urdu}}
 * {{trreq|Vietnamese}}
-* Welsh: {{i|Southern}} {{t|cy|cadno|m}}, {{i|Northern}} {{t|cy|llwynog|m}}
+* Welsh: {{i|Southern}} {{t|cy|cadno|m|xs=Welsh}}, {{i|Northern}} {{t|cy|llwynog|m|xs=Welsh}}
 * [[West Frisian]]: [[foks]] {{m}}
 * [[Yucatec]]: [[ohč]]
 {{trans-bottom}}
@@ -184,7 +184,7 @@
 * Finnish: {{t+|fi|kettu}}
 * Irish: {{t+|ga|sionnach|m|xs=Irish}}, {{t-|ga|madra rua|m|xs=Irish}}
 {{trans-mid}}
-* Russian: {{t|ru|лиса|tr=lisá|f}}, {{t|ru|лисица|tr=lisítsa|f}}, {{t|ru|лис|tr=lis|m}}
+* Russian: {{t+|ru|лиса|f|tr=lisá|sc=Cyrl}}, {{t+|ru|лисица|f|tr=lisítsa|sc=Cyrl}}, {{t+|ru|лис|m|tr=lis|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-see|fox terrier}}
@@ -199,7 +199,7 @@
 * [[Macedonian]]: [[лисица]] {{f}}
 * Portuguese: {{t+|pt|matreiro|m}}
 {{trans-mid}}
-* Russian: {{t|ru|ловкий}} {{t|ru|плут|tr=lóvkij plut|m}}, {{t|ru|лиса|tr=lisá|f}}, {{t|ru|лис|tr=lis|m}}
+* Russian: {{t|ru|ловкий|sc=Cyrl}} {{t|ru|плут|m|tr=lóvkij plut|sc=Cyrl}}, {{t+|ru|лиса|f|tr=lisá|sc=Cyrl}}, {{t+|ru|лис|m|tr=lis|sc=Cyrl}}
 * Serbian:
 *: Cyrillic: [[лисица]] {{f}}
 *: Roman: [[lisica]] {{f}}
