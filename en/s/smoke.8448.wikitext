@@ -78,7 +78,7 @@ Old English ''[[smoca]]''
 * Dutch: [[rook#Dutch|rook]] {{m}}, [[walm]] {{m}}
 * Esperanto: {{t-|eo|fumo|xs=Esperanto}}
 * Estonian: {{t-|et|suits}}
-* [[Ewe]]: {{t-|ee|adzudzɔ|m}}
+* [[Ewe]]: {{tø|ee|adzudzɔ|m|xs=Ewe}}
 * Finnish: {{t+|fi|savu}}
 * French: {{t+|fr|fumée|f}}
 * Georgian: [[ბოლი]] (boli), [[კვამლი]] (kvamli)
@@ -99,7 +99,7 @@ Old English ''[[smoca]]''
 * Korean: [[연기]] ([[煙氣]], yeon-gi)
 {{trans-mid}}
 * Kurdish: [[dûkêl]] {{m}}, [[dû]] {{m}}, [[dûxan]] {{m}}, [[moran]] {{m}}, {{KUchar|[[دوکه‌ڵ]]}}
-* Lao: {{t|lo|ຄວັນ|tr=khwan|sc=Laoo}}, {{t|lo|ຄວັນໄຟ|tr=khwan-fai|sc=Laoo}}
+* Lao: {{t|lo|ຄວັນ|tr=khwan|sc=Laoo|xs=Lao}}, {{t|lo|ຄວັນໄຟ|tr=khwan-fai|sc=Laoo|xs=Lao}}
 * Latin: {{t-|la|fumus}}
 * Latvian: {{t-|lv|dūmi|m|p|xs=Latvian}}
 * Lithuanian: {{t-|lt|dūmas|m|xs=Lithuanian}}
@@ -111,7 +111,7 @@ Old English ''[[smoca]]''
 * {{trreq|Nepali}}
 * {{trreq|Persian}}
 * [[Pitjantjatjara]]: [[puyu]]
-* Polish: {{t-|pl|dym|m}}
+* Polish: {{t+|pl|dym|m}}
 * Portuguese: {{t+|pt|fumo|m}}, {{t+|pt|fumaça|f}}
 * [[Rohingya]]: [[dúañ]]
 * [[Romani]]: [[thūv]]
@@ -123,7 +123,7 @@ Old English ''[[smoca]]''
 * Slovene: {{t+|sl|dim|m}}
 * Spanish: {{t+|es|humo|m}}
 * Swahili: {{t-|sw|moshi|xs=Swahili}}
-* Swedish: [[rök]]
+* Swedish: {{t-|sv|rök}}
 * [[Tamazight]]: [[ⴰⴳⴳⵓ]] (aggu) {{m}}
 * {{trreq|Tamil}}
 * [[Telugu]]: [[పొగ]] (poga)
@@ -158,7 +158,7 @@ Old English ''[[smoca]]''
 * Kurdish: {{t+|ku|cigare|f}}, {{t+|ku|sigare|f}}
 * Polish: {{t+|pl|fajka|f}}
 * Portuguese: {{t+|pt|fumo|m}}
-* Russian: [[курево]] (kúrevo) {{n}}
+* Russian: {{t+|ru|курево|n|tr=kúrevo|sc=Cyrl}}
 * Spanish: {{t+|es|pito|m}}
 * Swedish: {{t-|sv|cigg}}
 * [[Tupinambá]]: [[petyma]]
@@ -202,7 +202,7 @@ Old English ''[[smoca]]''
 
 ====Translations====
 {{trans-top|inhale and exhale smoke from a burning cigarette}}
-* Armenian: {{t|hy|ծխել|tr=ç(ë)xel|sc=Armn}}
+* Armenian: {{t|hy|ծխել|tr=ç(ë)xel|sc=Armn|xs=Armenian}}
 * Czech: {{t-|cs|kouřit}}
 * Danish: {{t-|da|ryge}}
 * Dutch: {{t+|nl|roken}}
@@ -217,7 +217,7 @@ Old English ''[[smoca]]''
 {{trans-mid}}
 * Korean: [[피우다]] (piuda)
 * Kurdish: {{KUchar|[[جگه‌ره‌ کێشان]]}}
-* Lao: {{t|lo|ສູບ|tr=suup|sc=Laoo}}
+* Lao: {{t|lo|ສູບ|tr=suup|sc=Laoo|xs=Lao}}
 * Latvian: [[smēķēt]], [[pīpēt]]
 * Polish: [[palić]] (fajkę, papierosa)
 * Russian: {{t+|ru|курить|sc=Cyrl}}
@@ -245,12 +245,12 @@ Old English ''[[smoca]]''
 * Japanese: [[煙る]] (けむる, kemuru)
 * Korean: [[담배피우다]] (dambae-piuda)
 * Kurdish: {{KUchar|[[جگه‌ره‌ کێشان]]}}
-* Lao: {{t|lo|ສູບຢາ|tr=suup-jaa|sc=Laoo}}
+* Lao: {{t|lo|ສູບຢາ|tr=suup-jaa|sc=Laoo|xs=Lao}}
 * Polish: [[palić]] ([[fajkę]], [[papierosa]])
 * Portuguese: {{t+|pt|fumar}}
 * Russian: [[курить]] (kurít’)
 * Slovak: [[fajčiť]]
-* Spanish: {{t-|es|fumar}}
+* Spanish: {{t+|es|fumar}}
 * Swedish: {{t+|sv|röka}}
 * [[Telugu]]: {{t|te|తాగు|sc=Telu}} (taagu)
 * Welsh: [[ysmygu]]
@@ -265,7 +265,7 @@ Old English ''[[smoca]]''
 * Korean: [[훈제하다]] (hunje-hada)
 {{trans-mid}}
 * Latvian: [[kūpināt]]
-* Russian: [[коптить]], [[закоптить]]
+* Russian: {{t+|ru|коптить|sc=Cyrl}}, {{t+|ru|закоптить|sc=Cyrl}}
 * Slovak: [[údiť]]
 * Swedish: {{t+|sv|röka}}
 * Welsh: [[mygu]]
@@ -273,7 +273,7 @@ Old English ''[[smoca]]''
 
 {{trans-top|give off smoke}}
 * Dutch: {{t+|nl|roken}}
-* Finnish: {{t-|fi|savuta}}, {{t-|fi|savuttaa}}
+* Finnish: {{t+|fi|savuta}}, {{t-|fi|savuttaa}}
 * French: {{t+|fr|fumer}}
 * German: {{t+|de|rauchen}}
 * [[Interlingua]]: [[fumar]]
@@ -303,7 +303,7 @@ Old English ''[[smoca]]''
 
 ====Translations====
 {{trans-top|of the colour known as smoke}}
-* Russian: [[дымчатый]] {{m}}
+* Russian: {{t+|ru|дымчатый|m|sc=Cyrl}}
 {{trans-mid}}
 {{trans-bottom}}
 
