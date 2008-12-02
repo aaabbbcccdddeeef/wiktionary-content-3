@@ -88,7 +88,7 @@ From {{etyl|la}} {{term|corona|lang=la||wreath}}
 * Finnish: {{t+|fi|kruunu}}
 * French: {{t+|fr|couronne|f}}
 * German: {{t+|de|Krone|f}}
-* Greek: [[στέμμα]] (stémma) {{n}}, [[κορώνα]] (koróna) {{f}}
+* Greek: {{t+|el|στέμμα|n|tr=stémma|sc=Grek}}, {{t+|el|κορώνα|f|tr=koróna|sc=Grek}}
 * Hebrew: [[כתר]] (keter) {{m}}
 * Hungarian: {{t+|hu|korona}}
 * Icelandic: {{t-|is|kóróna|f}}
@@ -96,7 +96,7 @@ From {{etyl|la}} {{term|corona|lang=la||wreath}}
 * Italian: {{t+|it|corona|f}}
 * Japanese: [[王冠]] ([[おうかん]], ōkan), [[クラウン]] (kuraun)
 * Kurdish:
-*: Sorani: {{t|ku|تاج|tr=tAj|sc=KUchar}}
+*: Sorani: {{t-|ku|تاج|tr=tAj|sc=KUchar}}
 * Latin: {{t-|la|corona|f}}
 * Polish: {{t+|pl|korona|f}}
 * Portuguese: {{t+|pt|coroa|f}}
@@ -142,7 +142,7 @@ From {{etyl|la}} {{term|corona|lang=la||wreath}}
 * Dutch: [[kruin]]
 * Finnish: {{t-|fi|päälaki}}
 * French: {{t+|fr|sommet|m}}
-* Greek: [[κορυφή]] (koryfí) {{f}}, [[κορφή]] (korfí) {{f}}
+* Greek: {{t+|el|κορυφή|f|tr=koryfí|sc=Grek}}, {{t+|el|κορφή|f|tr=korfí|sc=Grek}}
 {{trans-mid}}
 * Icelandic: {{t-|is|krúna|f}}
 * Italian: {{t-|it|cocuzzolo|m}}
@@ -160,8 +160,8 @@ From {{etyl|la}} {{term|corona|lang=la||wreath}}
 {{trans-mid}}
 * Italian: {{t+|it|cima|f}}, {{t+|it|vetta|f}}, {{t-|it|cocuzzolo|m}}
 * Portuguese: {{t+|pt|cume|m}}
-* Russian: {{t|ru|вершина|f|sc=Cyrl|tr=v'eršína}}
-* Spanish: {{t-|es|cumbre|f}}
+* Russian: {{t+|ru|вершина|f|tr=v'eršína|sc=Cyrl}}
+* Spanish: {{t+|es|cumbre|f}}
 {{trans-bottom}}
 
 {{trans-top|centre of a road}}
@@ -184,7 +184,7 @@ From {{etyl|la}} {{term|corona|lang=la||wreath}}
 * French: {{t+|fr|fond|m}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|copa|f}}
-* Russian: {{t|ru|тулья|f|sc=Cyrl|tr=túl'ja}}
+* Russian: {{t|ru|тулья|f|tr=túl'ja|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|splendor, finish, culmination}}
@@ -217,7 +217,7 @@ From {{etyl|la}} {{term|corona|lang=la||wreath}}
 * Finnish: {{t+|fi|kruunu}}
 {{trans-mid}}
 * Italian: {{t+|it|corona|f}}
-* Russian: {{t-|ru|коронка|f|tr=korónka|sc=Cyrl}}
+* Russian: {{t+|ru|коронка|f|tr=korónka|sc=Cyrl}}
 * Slovene: {{t+|sl|krona|f}}
 {{trans-bottom}}
 
@@ -230,14 +230,14 @@ From {{etyl|la}} {{term|corona|lang=la||wreath}}
 * French: {{t+|fr|couronne|f}}
 * Greek: [[κορώνα]] (koróna) {{f}}
 * Italian: {{t+|it|capsula|f}}
-* Russian: {{t-|ru|коронка|f|tr=korónka|sc=Cyrl}}
+* Russian: {{t+|ru|коронка|f|tr=korónka|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|part of an anchor}}
 * Finnish: {{t-|fi|perä}}
 * Italian: {{t+|it|diamante|m}}
 {{trans-mid}}
-* Russian: {{t|ru|тренд|m|sc=Cyrl|tr=trend}},{{t|ru|пятка|f|sc=Cyrl|tr=p'átka}}
+* Russian: {{t|ru|тренд|m|tr=trend|sc=Cyrl}},{{t+|ru|пятка|f|tr=p'átka|sc=Cyrl}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -304,7 +304,7 @@ From {{etyl|la}} {{term|corona|lang=la||wreath}}
 {{trans-top|to formally declare one a king or emperor}}
 * Chinese:
 *: Mandarin: {{zh-ts|加冕|加冕}} ([[jiā]][[miǎn]])
-* Czech: [[korunovat]]
+* Czech: {{t-|cs|korunovat}}
 * Dutch: [[kronen]], [[koning kronen]]
 * Finnish: {{t-|fi|kruunata}}
 {{trans-mid}}
@@ -316,7 +316,7 @@ From {{etyl|la}} {{term|corona|lang=la||wreath}}
 {{trans-bottom}}
 
 {{trans-top|declare one a winner}}
-* Dutch: [[bekronen]]
+* Dutch: {{t+|nl|bekronen}}
 {{trans-mid}}
 * French: {{t+|fr|couronner}}
 {{trans-bottom}}
