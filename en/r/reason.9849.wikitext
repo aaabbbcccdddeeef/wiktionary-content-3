@@ -71,19 +71,19 @@ From {{etyl|xno}} {{term|resoun}} ([[Old French]] {{term|raison|lang=fro}}) < {{
 * Albanian: {{t+|sq|arsye|xs=Albanian}}
 * Arabic: {{Arab|[[سبب]]}} (sábab) {{m}}
 * Chinese: [[原因]] (yuányīn)
-* Croatian: {{t|hr|razlog|alt=rázlog|m}}
+* Croatian: {{t-|hr|razlog|m|alt=rázlog}}
 * Czech: {{t+|cs|důvod|m}}
-* Danish: {{t-|da|grund}}
+* Danish: {{t+|da|grund}}
 * Dutch: {{t+|nl|oorzaak|f}}
 * Estonian: {{t|et|põhjus}}, {{t|et|ajend}}
 * Finnish: {{t+|fi|syy}}, {{t-|fi|peruste}}, {{t-|fi|vaikutin}}
 * French: {{t+|fr|cause|f}}
 * German: {{t+|de|Ursache|f}}, {{t+|de|Grund|m}}
 * Greek: {{t+|el|λόγος|m|sc=Grek}}
-* Hindi: {{t-|hi|कारण|m|sc=Deva}} (kāraṇ), {{t-|hi|वजह|f|sc=Deva}} (wajah)
+* Hindi: {{t-|hi|कारण|m|sc=Deva|xs=Hindi}} (kāraṇ), {{t-|hi|वजह|f|sc=Deva|xs=Hindi}} (wajah)
 {{trans-mid}}
 * Hungarian: {{t+|hu|ok}}
-* Italian: {{t+|it|causa|f}}, {{t|it|ragione|f}}, {{t|it|motivo|m}}
+* Italian: {{t+|it|causa|f}}, {{t+|it|ragione|f}}, {{t+|it|motivo|m}}
 * Japanese: {{Jpan|[[理由]]}} ({{Jpan|[[りゆう]]}}, riyū), {{Jpan|[[訳]]}} ({{Jpan|[[わけ]]}}, wake)
 * Korean: [[이유]] (iyu)
 * Kurdish: {{t+|ku|هۆ|sc=KUchar}}
@@ -94,7 +94,7 @@ From {{etyl|xno}} {{term|resoun}} ([[Old French]] {{term|raison|lang=fro}}) < {{
 * Spanish: {{t+|es|causa|f}}, {{t+|es|razón|f}}
 * Swedish: {{t+|sv|orsak}}
 * [[Telugu]]: [[కారణం]] (kaaraNam)
-* Urdu: {{t-|ur|وجہ|f|sc=ur-Arab}} (wajah)
+* Urdu: {{t-|ur|وجہ|f|sc=ur-Arab|xs=Urdu}} (wajah)
 {{trans-bottom}}
 
 {{trans-top|The faculty of capacity of the human mind}}
@@ -102,7 +102,7 @@ From {{etyl|xno}} {{term|resoun}} ([[Old French]] {{term|raison|lang=fro}}) < {{
 * Arabic: {{Arab|[[عقل]]}} {{IPAchar|(ʕáql)}} {{m}}
 * [[Catalan]]: [[raó]] {{f}}
 * Chinese: [[理致]] (lǐzhì)
-* Croatian: {{t|hr|razum|alt=rȁzūm|m}}
+* Croatian: {{t-|hr|razum|m|alt=rȁzūm}}
 * Czech: {{t-|cs|rozum|m}}
 * Danish: [[fornuft]]
 * Dutch: {{t+|nl|reden|f}}, {{t+|nl|rede|f}}
@@ -110,7 +110,7 @@ From {{etyl|xno}} {{term|resoun}} ([[Old French]] {{term|raison|lang=fro}}) < {{
 * French: {{t+|fr|raison|m}}
 * German: {{t+|de|Verstand|m}}, {{t+|de|Vernunft|f}}
 {{trans-mid}}
-* Greek: {{t+|el|λόγος|m|sc=Grek}}, {{t|el|λογική|f|sc=Grek}}
+* Greek: {{t+|el|λόγος|m|sc=Grek}}, {{t+|el|λογική|f|sc=Grek}}
 * Hungarian: {{t+|hu|értelem}}
 * Italian: {{t+|it|ragione|f}}
 * Japanese: [[思慮]] (しりょ, shiryo)
@@ -157,7 +157,7 @@ From {{etyl|xno}} {{term|resoun}} ([[Old French]] {{term|raison|lang=fro}}) < {{
 {{trans-top|To exercise the rational faculty}}
 * Danish: [[ræsonnere]], [[overveje]]
 * Finnish: {{t+|fi|pohtia}}, {{t-|fi|järkeillä}}
-* Italian: {{t|it|ragionare}}
+* Italian: {{t+|it|ragionare}}
 {{trans-mid}}
 * Polish: [[rozumować]]
 * Russian: [[рассуждать]] (rassuždát’)
@@ -166,9 +166,9 @@ From {{etyl|xno}} {{term|resoun}} ([[Old French]] {{term|raison|lang=fro}}) < {{
 {{trans-top|To carry on a process of deduction or of induction}}
 * Danish: [[slutte]]
 * Finnish: {{t-|fi|järkeillä}}
-* Italian: {{t|it|ragionare}}, {{t|it|argomentare}}
+* Italian: {{t+|it|ragionare}}, {{t+|it|argomentare}}
 {{trans-mid}}
-* Polish: [[przekonywać]]
+* Polish: {{t-|pl|przekonywać}}
 * Russian: [[продумать]] (prodúmat’)
 {{trans-bottom}}
 
