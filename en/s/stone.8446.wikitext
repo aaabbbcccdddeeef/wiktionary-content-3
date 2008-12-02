@@ -104,7 +104,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * Malay: {{t+|ms|batu|xs=Malay}}
 * Maori: {{t-|mi|whatu|xs=Maori}}
 * [[Northern Sami]]: [[geađgi]]
-* [[Occitan]]: {{t+|oc|pèira|f}}
+* [[Occitan]]: {{t+|oc|pèira|f|xs=Occitan}}
 * Old English: {{t-|ang|stan|xs=Old English}}
 * [[Pitjantjatjara]]: [[apu]]
 * Polish: {{t+|pl|kamień|m}}
@@ -121,7 +121,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * Swedish: {{t+|sv|sten|c}}
 * [[Tagalog]]: [[bato]]
 * [[Telugu]]: {{t|te|రాయి|sc=Telu}} (raayi)
-* Thai: {{t+|th|หิน|tr=hĭn}}
+* Thai: {{t-|th|หิน|tr=hĭn|xs=Thai}}
 * [[Tupinambá]]: [[itá]]
 * Turkish: {{t+|tr|taş}}
 * Ukrainian: [[камінь]] (kamіn’) {{m}}
@@ -136,7 +136,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * Bulgarian: {{t+|bg|камък|m|tr=kamǎk|sc=Cyrl}}
 * [[Chuvash]]: [[чул]]
 * Czech: {{t+|cs|kámen|m}}
-* Dutch: [[steen]] {{m}}, [[steentje]] {{n}}
+* Dutch: {{t+|nl|steen|m}}, {{t-|nl|steentje|n}}
 * Estonian: {{t-|et|kivi}}
 * Finnish: {{t+|fi|kivi}}
 * French: {{t+|fr|pierre|f}}
@@ -145,7 +145,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * Hungarian: {{t+|hu|kavics}}
 * Icelandic: {{t+|is|steinn|m}}
 * Irish: [[cloch]] ''f2''
-* Italian: [[pietra]] {{f}}, [[sasso]] {{m}}, [[sassolino]] {{m}}
+* Italian: {{t+|it|pietra|f}}, {{t+|it|sasso|m}}, {{t-|it|sassolino|m}}
 * Japanese: [[小石]] (こいし, koishi)
 {{trans-mid}}
 * Korean: [[돌]] (dol)
@@ -159,7 +159,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * Spanish: {{t+|es|piedra|f}}
 * Swedish: {{t+|sv|sten|c}}
 * [[Telugu]]: {{t|te|రాయి|sc=Telu}} (raayi)
-* Thai: {{t+|th|ก้อนหิน|tr=gôn hĭn}}
+* Thai: {{t+|th|ก้อนหิน|tr=gôn hĭn|xs=Thai}}
 * [[Tupinambá]]: [[itá]]
 * Turkish: {{t+|tr|taş}}
 * Ukrainian: [[камінець]] (kaminets’) {{m}}
@@ -170,12 +170,12 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * French: {{t+|fr|gemme|f}}
 * German: {{t+|de|Edelstein|m}}, {{t-|de|Schmuckstein|m}}
 * Icelandic: [[gimsteinn]] {{m}}, [[eðalsteinn]] {{m}}
-* Italian: {{t-|it|gemma|f}}
+* Italian: {{t+|it|gemma|f}}
 * Japanese: {{t-|ja|宝石|tr=hōseki|sc=Jpan}}
 {{trans-mid}}
 * Korean: [[보석]] ([[寶石]], boseok)
 * Russian: {{t+|ru|камень|m|tr=kámen’|sc=Cyrl}}
-* Spanish: [[gema]] {{f}}, [[piedra preciosa]] {{f}}
+* Spanish: {{t+|es|gema|f}}, {{t+|es|piedra preciosa|f}}
 * Swedish: [[ädelsten]]
 * [[Telugu]]: {{t|te|మణి|sc=Telu}} (maNi), {{t|te|రత్నం|sc=Telu}} (ratnam)
 {{trans-bottom}}
@@ -261,7 +261,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 {{trans-top|kill by pelting with stones}}
 * Arabic: {{Arab|[[رجم]]}} (rajama)
 * [[Breton]]: [[labezañ]], [[meinata]]
-* Czech: {{t|cs|kamenovat}}
+* Czech: {{t-|cs|kamenovat}}
 * Dutch: [[stenigen]]
 * Finnish: {{t+|fi|kivittää}}
 * French: {{t+|fr|lapider}}
