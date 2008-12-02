@@ -65,7 +65,7 @@ From {{etyl|enm|en}} {{term|hom|lang=enm}} < {{etyl|ang|en}} {{term|ham|hām|lan
 * German: {{t+|de|Heim|n}}, {{t+|de|Zuhause|n}}, {{t+|de|Wohnung|f}}
 * Greek: {{t+|el|σπίτι|n|tr=spíti|sc=Grek}}
 * Hebrew: {{he-translation|בית|báyit}} {{m}}
-* Hindi: {{t-|hi|घर|m|sc=Deva}} (ghar)
+* Hindi: {{t-|hi|घर|m|sc=Deva|xs=Hindi}} (ghar)
 * Hungarian: {{t+|hu|otthon}}
 * Italian: {{t+|it|casa|f}}
 * Japanese: [[家]] ([[いえ]], ie)
@@ -84,7 +84,7 @@ From {{etyl|enm|en}} {{term|hom|lang=enm}} < {{etyl|ang|en}} {{term|ham|hām|lan
 * Portuguese: {{t+|pt|lar|m}}, {{t+|pt|casa|f}}
 * [[Punjabi]]: [[ਘਰ]] (ghar)
 * Romanian: {{t+|ro|casă|f}}
-* Russian: {{t|ru|дом|tr=dom|m}}
+* Russian: {{t+|ru|дом|m|tr=dom|sc=Cyrl}}
 * [[Scots]]: [[hame]], [[hyim]]
 * [[Scottish Gaelic]]: [[dachaigh]] {{f}}, [[taigh]] {{m}}
 * Serbian:
@@ -95,11 +95,11 @@ From {{etyl|enm|en}} {{term|hom|lang=enm}} < {{etyl|ang|en}} {{term|ham|hām|lan
 * Swedish: {{t+|sv|hem|n}}
 * [[Tagalog]]: [[bahay]], [[tahanan]]
 * [[Tajik]]: [[хона]] (hona)
-* [[Telugu]]: {{t|te|ఇల్లు|sc=Telu}} (illu)
+* [[Telugu]]: {{t+|te|ఇల్లు|sc=Telu}} (illu)
 * Thai: {{Thai|[[บ้าน]]}} (bâan)
 * [[Tulu]]: [[ಇಲ್ಲು]] (illu)
 * Turkish: {{t+|tr|ev}}, {{t+|tr|yurt}}
-* Urdu: {{t-|ur|گھر|m|sc=ur-Arab}} (ghar)
+* Urdu: {{t-|ur|گھر|m|sc=ur-Arab|xs=Urdu}} (ghar)
 * Vietnamese: [[nhà]], [[nhà cửa]], nhà [[ở]], [[chỗ]] ở; [[nơi sinh]] (birthplace)
 {{trans-bottom}}
 
@@ -114,7 +114,7 @@ From {{etyl|enm|en}} {{term|hom|lang=enm}} < {{etyl|ang|en}} {{term|ham|hām|lan
 * Greek: {{t+|el|πατρίδα|f|tr=patrída|sc=Grek}}
 * Hebrew: {{he-translation|בית|báyit}} {{m}}
 * Hungarian: {{t-|hu|szülőföld}}
-* Italian: {{t-|it|patria|f}}, {{t+|it|paese|m}}
+* Italian: {{t+|it|patria|f}}, {{t+|it|paese|m}}
 {{trans-mid}}
 * Japanese: [[故郷]] ([[こきょう]], kokyō), [[母国]] ([[ぼこく]], bokoku)
 * [[Macedonian]]: [[татковина]] (tatkovina) {{f}}
@@ -140,7 +140,7 @@ From {{etyl|enm|en}} {{term|hom|lang=enm}} < {{etyl|ang|en}} {{term|ham|hām|lan
 * [[Macedonian]]: [[дом#Macedonian|дом]] (dom) {{m}}
 * [[Nahuatl]]: [[chantli]]
 * Portuguese: {{t+|pt|lar|m}}, {{t+|pt|casa|f}}
-* Russian: {{t|ru|дом|tr=dom|m}}
+* Russian: {{t+|ru|дом|m|tr=dom|sc=Cyrl}}
 * Slovene: {{t+|sl|dom|m}}
 * Thai: {{Thai|[[บ้าน]]}} (bâan)
 * Vietnamese: [[nhà]], [[quê hương]], [[nơi chôn]] (lit. "place of burial")
@@ -152,7 +152,7 @@ From {{etyl|enm|en}} {{term|hom|lang=enm}} < {{etyl|ang|en}} {{term|ham|hām|lan
 * [[Macedonian]]: [[дом#Macedonian|дом]] (dom) {{m}}
 * Portuguese: {{t+|pt|lar|m}}, {{t+|pt|casa|f}}
 {{trans-mid}}
-* Russian: {{t|ru|дом|tr=dom|m}}
+* Russian: {{t+|ru|дом|m|tr=dom|sc=Cyrl}}
 * Slovene: {{t+|sl|dom|m}}
 * Vietnamese: {{t+|vi|nhà|xs=Vietnamese}}
 {{trans-bottom}}
@@ -283,7 +283,7 @@ Home is often used in the formation of compound words, many of which need no spe
 * Dutch: {{t+|nl|thuis}}
 * Finnish: {{t+|fi|kotona}}
 * French: {{t+|fr|à la maison}}
-* German: {{t-|de|daheim}}, {{t-|de|zu Hause}}, {{t+|de|zuhause}}
+* German: {{t-|de|daheim}}, {{t+|de|zu Hause}}, {{t+|de|zuhause}}
 * Hungarian: {{t+|hu|otthon}}
 {{trans-mid}}
 * Irish: {{t-|ga|sa bhaile|xs=Irish}}
