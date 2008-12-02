@@ -42,7 +42,7 @@ From {{etyl|ang}} ''pipe'', from {{VL.}} ''*[[pipa]]''.
 * Finnish: {{t+|fi|putki}}
 * French: {{t+|fr|conduit|m}}
 * German: {{t+|de|Rohr|n}}
-* Greek: {{t+|el|σωλήνας|m}}
+* Greek: {{t+|el|σωλήνας|m|sc=Grek}}
 * Hungarian: {{t+|hu|cső}}
 {{trans-mid}}
 * Italian: {{t+|it|condotto|m}}, {{t-|it|tubo|m}}
@@ -50,7 +50,7 @@ From {{etyl|ang}} ''pipe'', from {{VL.}} ''*[[pipa]]''.
 * Korean: [[파이프]] (paipeu)
 * Latvian: [[caurule]] {{f}}
 * Portuguese: {{t+|pt|cano|m}}, {{t+|pt|tubo|m}}, {{t+|pt|duto|m}}
-* Russian: {{t|ru|труба|tr=trubá|f}}
+* Russian: {{t|ru|труба|f|tr=trubá|sc=Cyrl}}
 * Spanish: {{t+|es|tubería|f}}, {{t+|es|tubo|m}}
 * Swedish: {{t+|sv|rör|n}}
 {{trans-bottom}}
@@ -59,11 +59,11 @@ From {{etyl|ang}} ''pipe'', from {{VL.}} ''*[[pipa]]''.
 * Arabic: {{Arab|[[غليون]]}} {{IPAchar|(ğalyūn)}} {{m}}
 * Chinese: [[烟斗]] (yāndǒu)
 * Czech: {{t-|cs|dýmka|f}}
-* Dutch: [[pijp]] {{f}}
+* Dutch: {{t+|nl|pijp|f}}
 * Finnish: {{t-|fi|piippu}}
 * French: {{t+|fr|pipe|f}}
 * German: {{t+|de|Pfeife|f}}
-* Greek: {{t+|el|πίπα|f}}
+* Greek: {{t+|el|πίπα|f|sc=Grek}}
 * Hungarian: {{t+|hu|pipa}}
 {{trans-mid}}
 * Italian: {{t+|it|pipa|f}}
@@ -80,12 +80,12 @@ From {{etyl|ang}} ''pipe'', from {{VL.}} ''*[[pipa]]''.
 * Arabic: {{Arab|[[مزمار]]}} (mizmār) {{m}}
 * Czech: {{t-|cs|píšťala|f}}
 * German: {{t+|de|Flöte|f}}
-* Greek: {{t+|el|φλάουτο|n}}
+* Greek: {{t+|el|φλάουτο|n|sc=Grek}}
 * Kurdish:
 *: Sorani: {{t|ku|شمشاڵ|tr=shimshAL|sc=KUchar}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|flauta|f}}
-* Russian: {{t|ru|свирель|tr=svirél’|f}}, {{t|ru|дудка|tr=dúdka|f}}
+* Russian: {{t|ru|свирель|f|tr=svirél’|sc=Cyrl}}, {{t|ru|дудка|f|tr=dúdka|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|pìob|f|xs=Scottish Gaelic}}
 * Swedish: {{t+|sv|flöjt|c}}, {{t-|sv|pipa|c}}
 {{trans-bottom}}
@@ -96,12 +96,12 @@ From {{etyl|ang}} ''pipe'', from {{VL.}} ''*[[pipa]]''.
 * German: [[Orgelpfeife]] {{f}}
 {{trans-mid}}
 * Hungarian: {{t|hu|orgonasíp}}
-* Russian: {{t|ru|труба|tr=trubá|f}}
+* Russian: {{t|ru|труба|f|tr=trubá|sc=Cyrl}}
 * Swedish: [[orgelpipa]] {{c}}
 {{trans-bottom}}
 
 {{trans-top|computing slang}}
-* Russian: {{t|ru|пайп|tr=pajp|m}}
+* Russian: {{t|ru|пайп|m|tr=pajp|sc=Cyrl}}
 {{trans-mid}}
 * Swedish: {{t+|sv|lina|c}}
 {{trans-bottom}}
