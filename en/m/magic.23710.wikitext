@@ -31,19 +31,19 @@ From {{etyl|enm}} {{term|magik|lang=enm}} from {{etyl|fro}} {{term|magique|lang=
 {{trans-top|having supernatural talents, properties, or qualities}}
 * Czech: {{t-|cs|kouzelný|m}}
 * Finnish: {{t-|fi|maaginen}}, {{t|fi|taika-}}
-* German: {{t|de|magisch}}
+* German: {{t+|de|magisch}}
 * Hungarian: {{t|hu|varázs-}}
 {{trans-mid}}
 * Polish: {{t|pl|magiczny|m}}
 * Portuguese: {{t+|pt|mágico|m}}, {{t+|pt|mágica|f}}
-* Russian: {{t|ru|волшебный|sc=Cyrl|tr=volšébnyj}}, {{t|ru|колдовской|sc=Cyrl|tr=koldovskój}}, {{t|ru|магический|sc=Cyrl|tr=magíčeskijj}}
+* Russian: {{t|ru|волшебный|tr=volšébnyj|sc=Cyrl}}, {{t|ru|колдовской|tr=koldovskój|sc=Cyrl}}, {{t|ru|магический|tr=magíčeskijj|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|featuring illusions that are usually performed for entertainment}}
 * Finnish: {{t|fi|taika-}}, {{t|fi|taikuri-}}
 * Portuguese: {{t+|pt|mágico|m}}, {{t+|pt|mágica|f}}
 {{trans-mid}}
-* Russian: {{t|ru|волшебный|sc=Cyrl|tr=volšébnyj}}
+* Russian: {{t|ru|волшебный|tr=volšébnyj|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|wonderful, amazing or incredible}}
@@ -51,13 +51,13 @@ From {{etyl|enm}} {{term|magik|lang=enm}} from {{etyl|fro}} {{term|magique|lang=
 * Hungarian: {{t|hu|bűvös}}, {{t|hu|varázsos}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|mágico|m}}, {{t+|pt|mágica|f}}
-* Russian: {{t|ru|волшебный|sc=Cyrl|tr=volšébnyj}}
+* Russian: {{t|ru|волшебный|tr=volšébnyj|sc=Cyrl}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 * {{ttbc|Dutch}}: [[magie]] ([[magisch]]), [[betoverend]], [[feeëriek]]
 * {{ttbc|Esperanto}}: [[magia]]
-* {{ttbc|French}}: {{t|fr|magique}}
+* {{ttbc|French}}: {{t+|fr|magique}}
 * {{ttbc|Hebrew}}: [[קסום]] (kassum) {{m}}, [[קסומה]] (qsuma) {{f}}
 * {{ttbc|Italian}}: [[magico]] {{m}}, [[magica]] {{f}}
 {{checktrans-mid}}
@@ -91,16 +91,16 @@ From {{etyl|enm}} {{term|magik|lang=enm}} from {{etyl|fro}} {{term|magique|lang=
 
 ====Translations====
 {{trans-top|supernatural occurrences or feats}}
-* Arabic: {{t|ar|sc=Arab|سحر|tr=seħir|m}}
-* Bosnian: {{t-|bs|magija|f}}, {{t|bs|mađija|f}}, {{t|bs|čarolija|f}}
+* Arabic: {{t-|ar|سحر|m|tr=seħir|sc=Arab}}
+* Bosnian: {{t-|bs|magija|f}}, {{t|bs|mađija|f}}, {{t-|bs|čarolija|f}}
 * Chinese:
-*: Mandarin: {{t|cmn|魔术|tr=móshù}}
-* Dutch: {{t|nl|magie|f}}
-* Finnish: {{t|fi|taikuus}}, {{t+|fi|magia}}
-* French: {{t|fr|magie|f}}
+*: Mandarin: {{t-|cmn|魔术|tr=móshù|sc=Hani|xs=Mandarin}}
+* Dutch: {{t+|nl|magie|f}}
+* Finnish: {{t-|fi|taikuus}}, {{t+|fi|magia}}
+* French: {{t+|fr|magie|f}}
 * German: {{t-|de|Magie|f}}, {{t+|de|Zauber|m}}, {{t|de|Zauberei|f}}
 * Hungarian: {{t+|hu|varázslat}}, {{t+|hu|varázs}}
-* Italian: {{t|it|magia|f}}
+* Italian: {{t+|it|magia|f}}
 * Japanese: {{t+|ja|魔法|tr=[[まほう]], mahou|sc=Jpan}}, {{t+|ja|魔術|tr=[[まじゅつ]], majutsu|sc=Jpan}}
 * Korean: {{t|ko|요술|tr=yosul|sc=Hang}}
 * Kurdish:
@@ -108,20 +108,20 @@ From {{etyl|enm}} {{term|magik|lang=enm}} from {{etyl|fro}} {{term|magique|lang=
 {{trans-mid}}
 * Polish: {{t-|pl|magia|f}}
 * Portuguese: {{t|pt|mágica|f}}
-* Russian: {{t|ru|магия|tr=mágija|f|sc=Cyrl}}, {{t|ru|волшебство|tr=volšebstvó|n|sc=Cyrl}}, {{t|ru|колдовство|tr=koldovstvó|n|sc=Cyrl}}
+* Russian: {{t+|ru|магия|f|tr=mágija|sc=Cyrl}}, {{t|ru|волшебство|n|tr=volšebstvó|sc=Cyrl}}, {{t|ru|колдовство|n|tr=koldovstvó|sc=Cyrl}}
 * Serbian:
 *: Cyrillic: {{t|sr|магија|f|sc=Cyrl}}, {{t|sr|мађија|f|sc=Cyrl}}, {{t|sr|чаролија|f|sc=Cyrl}}
-*: Roman: {{t-|sr|magija|f}}, {{t|sr|mađija|f}}, {{t|sr|čarolija|f}}
-* Spanish: {{t|es|magia|f}}
-* Swedish: {{t|sv|magi}}
-* [[Tagalog]]: {{t|tl|Mahika}}, {{t|tl|Salamangka}} {{qualifier|sorcery}}
+*: Roman: {{t-|sr|magija|f}}, {{t|sr|mađija|f}}, {{t-|sr|čarolija|f}}
+* Spanish: {{t-|es|magia|f}}
+* Swedish: {{t-|sv|magi}}
+* [[Tagalog]]: {{t|tl|Mahika|xs=Tagalog}}, {{t|tl|Salamangka|xs=Tagalog}} {{qualifier|sorcery}}
 * [[West Frisian]]: {{t+|fy|magy|xs=West Frisian}}
 {{trans-bottom}}
 
 {{trans-top|illusion performed to give the appearance of magic or the supernatural}}
-* Bosnian: {{t-|bs|magija|f}}, {{t|bs|mađija|f}}, {{t|bs|čarolija|f}}
+* Bosnian: {{t-|bs|magija|f}}, {{t|bs|mađija|f}}, {{t-|bs|čarolija|f}}
 * Dutch: {{t|nl|goochelkunst|f}}
-* Finnish: {{t|fi|taikatemppu}}, {{t|fi|taikuruus}}, {{t|fi|silmänkääntötemppu}}
+* Finnish: {{t+|fi|taikatemppu}}, {{t|fi|taikuruus}}, {{t|fi|silmänkääntötemppu}}
 * German: {{t-|de|Magie|f}}
 * Hungarian: {{t|hu|mágia}}
 * Japanese: {{t-|ja|手品|tr=[[てじな]], tejina|sc=Jpan}}
@@ -131,11 +131,11 @@ From {{etyl|enm}} {{term|magik|lang=enm}} from {{etyl|fro}} {{term|magique|lang=
 * Portuguese: {{t|pt|mágica|f}}
 * Serbian:
 *: Cyrillic: {{t|sr|магија|f|sc=Cyrl}}, {{t|sr|мађија|f|sc=Cyrl}}, {{t|sr|чаролија|f|sc=Cyrl}}
-*: Roman: {{t-|sr|magija|f}}, {{t|sr|mađija|f}}, {{t|sr|čarolija|f}}
+*: Roman: {{t-|sr|magija|f}}, {{t|sr|mađija|f}}, {{t-|sr|čarolija|f}}
 {{trans-bottom}}
 
 {{trans-top|ritual associated with mysticism}}
-* Bosnian: {{t-|bs|magija|f}}, {{t|bs|mađija|f}}, {{t|bs|čarolija|f}}
+* Bosnian: {{t-|bs|magija|f}}, {{t|bs|mađija|f}}, {{t-|bs|čarolija|f}}
 * Finnish: {{t|fi|taikamenot}}, {{t|fi|noitamenot}}, {{t+|fi|magia}}
 * German: {{t-|de|Magie|f}}
 * Hungarian: {{t|hu|mágia}}
@@ -144,29 +144,29 @@ From {{etyl|enm}} {{term|magik|lang=enm}} from {{etyl|fro}} {{term|magique|lang=
 {{trans-mid}}
 * Serbian:
 *: Cyrillic: {{t|sr|магија|f|sc=Cyrl}}, {{t|sr|мађија|f|sc=Cyrl}}, {{t|sr|чаролија|f|sc=Cyrl}}
-*: Roman: {{t-|sr|magija|f}}, {{t|sr|mađija|f}}, {{t|sr|čarolija|f}}
+*: Roman: {{t-|sr|magija|f}}, {{t|sr|mađija|f}}, {{t-|sr|čarolija|f}}
 {{trans-bottom}}
 
 {{trans-top|a cause not quite understood}}
-* Bosnian: {{t-|bs|magija|f}}, {{t|bs|mađija|f}}, {{t|bs|čarolija|f}}
-* Finnish: {{t-|fi|taika}}, {{t+|fi|magia}}, {{t|fi|taikuus}}, {{t-|fi|noituus}}
+* Bosnian: {{t-|bs|magija|f}}, {{t|bs|mađija|f}}, {{t-|bs|čarolija|f}}
+* Finnish: {{t-|fi|taika}}, {{t+|fi|magia}}, {{t-|fi|taikuus}}, {{t-|fi|noituus}}
 * German: {{t|de|Zauberei|f}}
 * Hungarian: {{t+|hu|varázs}}
 {{trans-mid}}
 * Serbian:
 *: Cyrillic: {{t|sr|магија|f|sc=Cyrl}}, {{t|sr|мађија|f|sc=Cyrl}}, {{t|sr|чаролија|f|sc=Cyrl}}
-*: Roman: {{t-|sr|magija|f}}, {{t|sr|mađija|f}}, {{t|sr|čarolija|f}}
+*: Roman: {{t-|sr|magija|f}}, {{t|sr|mađija|f}}, {{t-|sr|čarolija|f}}
 {{trans-bottom}}
 
 {{trans-top|something spectacular or wonderful}}
-* Bosnian: {{t-|bs|magija|f}}, {{t|bs|mađija|f}}, {{t|bs|čarolija|f}}
-* Finnish: {{t-|fi|taika}}, {{t|fi|taikuus}}
+* Bosnian: {{t-|bs|magija|f}}, {{t|bs|mađija|f}}, {{t-|bs|čarolija|f}}
+* Finnish: {{t-|fi|taika}}, {{t-|fi|taikuus}}
 * German: {{t-|de|Magie|f}}, {{t+|de|Zauber|m}}
 * Hungarian: {{t+|hu|varázs}}
 {{trans-mid}}
 * Serbian:
-*: Cyrillic: {{t|sr|магија|f}}, {{t|sr|мађија|f}}, {{t|sr|чаролија|f}}
-*: Roman: {{t|sr|magija|f}}, {{t|sr|mađija|f}}, {{t|sr|čarolija|f}}
+*: Cyrillic: {{t|sr|магија|f|sc=Cyrl}}, {{t|sr|мађија|f|sc=Cyrl}}, {{t|sr|чаролија|f|sc=Cyrl}}
+*: Roman: {{t-|sr|magija|f}}, {{t|sr|mađija|f}}, {{t-|sr|čarolija|f}}
 {{trans-bottom}}
 
 {{trans-top|decrypted WWII messages}}
