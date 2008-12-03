@@ -25,7 +25,7 @@ From {{etyl|fro}} ''soul'', from {{etyl|la}} '''[[solus]]'''.
 {{trans-top|Only}}
 * Czech: {{t+|cs|jediný|m}}
 * Dutch: {{t+|nl|enig}}
-* Esperanto: {{t|eo|sola}}
+* Esperanto: {{t-|eo|sola|xs=Esperanto}}
 * Finnish: {{t+|fi|ainoa}}
 {{trans-mid}}
 * French: {{t+|fr|unique|m|f}}, {{t+|fr|seul|m}}, {{t+|fr|seule|f}}
@@ -35,7 +35,7 @@ From {{etyl|fro}} ''soul'', from {{etyl|la}} '''[[solus]]'''.
 
 {{trans-top|Unmarried; widowed}}
 * Dutch: [[alleenstaand]], [[ongetrouwd]]
-* Esperanto: {{t|eo|needziĝita}}
+* Esperanto: {{t|eo|needziĝita|xs=Esperanto}}
 {{trans-mid}}
 * Finnish: (''unmarried'') [[naimaton]] ''adj''; (''widowed'') [[leski]] ''noun''
 * German: {{t-|de|alleinstehend}}
@@ -63,31 +63,31 @@ From {{etyl|fro}} ''soul'', from {{etyl|la}} '''[[solus]]'''.
 
 =====Translations=====
 {{trans-top|bottom of the foot}}
-* Belarusian: {{t|be|падэшва}}
+* Belarusian: {{t|be|падэшва|sc=Cyrl|xs=Belarusian}}
 * [[Catalan]]: {{t|ca|planta del peu|f}}
 * Czech: {{t-|cs|chodidlo|n}}
 * Dutch: {{t+|nl|zool}}, {{t+|nl|voetzool}}
-* Esperanto: {{t|eo|plando}}
+* Esperanto: {{t|eo|plando|xs=Esperanto}}
 * Finnish: {{t-|fi|jalkapohja}}
-* French: {{t|fr|plante|f}}, {{t|fr|plante du pied|f}}
+* French: {{t+|fr|plante|f}}, {{t|fr|plante du pied|f}}
 * German: {{t-|de|Fußsohle|f}}
-* Hungarian: {{t|hu|talp}}
+* Hungarian: {{t+|hu|talp}}
 {{trans-mid}}
 * Italian: {{t+|it|pianta|f}}
-* Korean: {{t|ko|발바닥}}
+* Korean: {{t|ko|발바닥|sc=Hang}}
 * Latin: {{t+|la|planta}}
 * Polish: {{t+|pl|podeszwa|f}}
 * Portuguese: {{t+|pt|sola|f}}, {{t|pt|planta do pé|f}}
-* Russian: {{t|ru|подошва|f|tr=podóšva}}, {{t|ru|подножие|f|tr=podnóžije|n}}
+* Russian: {{t|ru|подошва|f|tr=podóšva|sc=Cyrl}}, {{t|ru|подножие|f|n|tr=podnóžije|sc=Cyrl}}
 * Serbian: [[taban]] {{m}}, [[poplat]] {{m}}, [[potplat]] {{m}}
 * Spanish: {{t+|es|planta|f}}, {{t+|es|planta del pie|f}}
 {{trans-bottom}}
 
 {{trans-top|bottom of a shoe or boot}}
-* [[Catalan]]: {{t|ca|sola|f}}
+* [[Catalan]]: {{t-|ca|sola|f}}
 * Czech: {{t-|cs|podrážka|f}}
-* Dutch: {{t|nl|zool|m}}, {{t|nl|schoenzool|m}}
-* Finnish: [[pohja]], [[antura]]
+* Dutch: {{t+|nl|zool|m}}, {{t|nl|schoenzool|m}}
+* Finnish: {{t+|fi|pohja}}, {{t+|fi|antura}}
 * French: {{t+|fr|semelle|f}}
 * German: {{t-|de|Sohle|f}}
 * Greek: {{t+|el|σόλα|f|sc=Grek}}
@@ -96,20 +96,20 @@ From {{etyl|fro}} ''soul'', from {{etyl|la}} '''[[solus]]'''.
 * Italian: {{t+|it|suola|f}}
 * Polish: {{t+|pl|podeszwa|f}}
 * Portuguese: {{t+|pt|sola|f}}
-* Russian: {{t|ru|подошва|f|tr=podóšva}}
+* Russian: {{t|ru|подошва|f|tr=podóšva|sc=Cyrl}}
 * Serbian: [[đon]] {{m}}
-* Spanish: {{t|es|suela|f}}
+* Spanish: {{t-|es|suela|f}}
 {{trans-bottom}}
 
 {{trans-top|fish}}
-* Dutch: {{t|nl|tong|m|f}}, {{t|nl|zeetong|m|f}}
+* Dutch: {{t+|nl|tong|m|f}}, {{t|nl|zeetong|m|f}}
 * Finnish: {{t-|fi|meriantura}}
 * French: {{t+|fr|sole|f}}
 * German: {{t+|de|Seezunge|f}}
-* Greek: {{t|el|γλώσσα|f}}
+* Greek: {{t+|el|γλώσσα|f|sc=Grek}}
 {{trans-mid}}
 * Italian: {{t+|it|sogliola|f}}
-* Polish: {{t-|pl|sola|f}}
+* Polish: {{t+|pl|sola|f}}
 * Portuguese: {{t|pt|solha|f}}
 * Russian: [[морской язык]] (morskój jazýk)
 * Spanish: {{t-|es|lenguado|m}}
@@ -130,13 +130,13 @@ From {{etyl|fro}} ''soul'', from {{etyl|la}} '''[[solus]]'''.
 =====Translations=====
 {{trans-top|put a sole on (a shoe or boot)}}
 * Dutch: {{t+|nl|zolen}}
-* Esperanto: {{t|eo|replandumi}}
+* Esperanto: {{t|eo|replandumi|xs=Esperanto}}
 * Finnish: [[anturoida]]
 * French: {{t+|fr|chausser}}
 {{trans-mid}}
 * German: {{t-|de|besohlen}}
 * Polish: {{t|pl|podzelować}}
-* Russian: {{t|ru|подбить новые подмётки}}
+* Russian: {{t|ru|подбить новые подмётки|sc=Cyrl}}
 {{trans-bottom}}
 
 [[Category:Fish]]
