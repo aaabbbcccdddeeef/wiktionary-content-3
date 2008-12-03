@@ -20,7 +20,7 @@ French ''[[fil]]'', “thread”, Latin ''[[filum]]'', “thread”.
 * Croatian: {{t-|hr|fascikl|m}}, {{t-|hr|datoteka|f}}
 * Czech: {{t-|cs|pořadač|m}}, {{t-|cs|archiv|m}}
 * Danish: [[arkivalie]] {{n}}
-* Dutch: {{t|nl|dossier|n}}
+* Dutch: {{t+|nl|dossier|n}}
 * Esperanto: {{t-|eo|dosiero|xs=Esperanto}}
 * Estonian: {{t|et|toimik}}
 * Finnish: {{t+|fi|kansio}}
@@ -33,7 +33,7 @@ French ''[[fil]]'', “thread”, Latin ''[[filum]]'', “thread”.
 * Maltese: {{t-|mt|arkivju|m|xs=Maltese}}, {{t-|mt|fajl|m|xs=Maltese}}
 * Polish: {{t+|pl|plik|m}}
 * Portuguese: [[arquivo]] {{m}} {{italbrac|Brazil}}, [[ficheiro]] {{m}} {{italbrac|Portugal}}
-* Russian: {{t+|ru|дело|n|tr=délo|sc=Cyrl}}, {{t-|ru|папка|f|tr=pápka|sc=Cyrl}}
+* Russian: {{t+|ru|дело|n|tr=délo|sc=Cyrl}}, {{t+|ru|папка|f|tr=pápka|sc=Cyrl}}
 * Spanish: [[archivo]] {{m}} {{italbrac|Latin America}}, [[fichero]] {{m}} {{italbrac|Spain}}
 * Swedish: {{t+|sv|arkiv|n}}
 * Traditional Chinese: [[檔案]]
@@ -46,9 +46,9 @@ French ''[[fil]]'', “thread”, Latin ''[[filum]]'', “thread”.
 * Croatian: {{t-|hr|datoteka|f}}
 * Czech: {{t-|cs|soubor|m}}
 * Danish: {{t-|da|fil|c}}
-* Dutch: {{t+|nl|bestand|n}}, {{t|nl|file}}
+* Dutch: {{t+|nl|bestand|n}}, {{t+|nl|file}}
 * Esperanto: {{t-|eo|dosiero|xs=Esperanto}}
-* Estonian: {{t|et|fail}}, {{t|et|säilik}}
+* Estonian: {{t+|et|fail}}, {{t|et|säilik}}
 * Finnish: {{t-|fi|tiedosto}}
 * French: {{t+|fr|fichier|m}}
 * German: {{t+|de|Datei|f}}
@@ -60,7 +60,7 @@ French ''[[fil]]'', “thread”, Latin ''[[filum]]'', “thread”.
 * Polish: {{t+|pl|plik|m}}
 * Portuguese: [[arquivo]] {{m}} {{italbrac|Brazil}}, [[ficheiro]] {{m}} {{italbrac|Portugal}}
 * Romanian: {{t-|ro|fişier|n}}
-* Russian: [[файл]] (fajl) {{m}}
+* Russian: {{t+|ru|файл|m|tr=fajl|sc=Cyrl}}
 * Slovene: {{t-|sl|datoteka|f}}
 * Spanish: [[archivo]] {{m}} {{italbrac|Latin America}}, [[fichero]] {{m}} {{italbrac|Spain}}
 * Swedish: {{t+|sv|fil|c}}
@@ -120,7 +120,7 @@ French ''[[file#French|file]]'', from ''[[filer]]'', “to spin out”, “arran
 =====Translations=====
 {{trans-top|column of people}}
 * Danish: [[kø]] {{c}}
-* Dutch: {{t|nl|rij}}, {{t|nl|kolonne}}, {{t|nl|file}} (of cars)
+* Dutch: {{t+|nl|rij}}, {{t|nl|kolonne}}, {{t+|nl|file}} (of cars)
 * Esperanto: {{t-|eo|vico|xs=Esperanto}}
 * Estonian: {{t|et|kolonn}}
 * Finnish: {{t+|fi|jono}}
@@ -130,14 +130,14 @@ French ''[[file#French|file]]'', from ''[[filer]]'', “to spin out”, “arran
 * Korean: [[줄]] (''jul, jur'')
 * Maltese: {{t-|mt|ringiela|f|xs=Maltese}}
 * Portuguese: {{t+|pt|fila|f}}
-* Russian: [[колонна]] (kolónna) {{f}}, [[вереница]] (verenítsa) {{f}}
+* Russian: {{t+|ru|колонна|f|tr=kolónna|sc=Cyrl}}, {{t+|ru|вереница|f|tr=verenítsa|sc=Cyrl}}
 * Slovene: [[kolona]] {{f}}
 * Spanish: {{t+|es|fila|f}}
 * Swedish: {{t+|sv|fil|c}}, {{t-|sv|kö|c}}
 {{trans-bottom}}
 
 {{trans-top|chess: one of the eight vertical lines on a chessboard}}
-* Dutch: {{t|nl|lijn}}
+* Dutch: {{t+|nl|lijn}}
 * Estonian: {{t|et|liin}}
 {{trans-mid}}
 * Japanese: {{t+|ja|列|sc=Jpan}}
@@ -179,14 +179,14 @@ Old English ''[[feol]]''. Cognate with Dutch ''[[vijl]]'', German ''[[Feile]]''.
 * Italian: {{t-|it|lima}}
 * Japanese: [[鑢]] (yasuri), [[やすり]] (yasuri)
 * Korean: [[줄]] (''jul, jur'')
-* [[Macedonian]]: {{t-|mk|турпија|f}}
+* [[Macedonian]]: {{t-|mk|турпија|f|sc=Cyrl|xs=Macedonian}}
 {{trans-mid}}
 * Maltese: {{t-|mt|lima|f|xs=Maltese}}
 * Polish: [[pilnik]]
 * Portuguese: {{t+|pt|lima}}
 * Russian: [[напильник]] (napíl’nik) {{m}}, [[пилка]] (pílka) {{f}} (''nail file'')
 * Serbian:
-*: Cyrillic: {{t-|sr|турпија|f}}
+*: Cyrillic: {{t-|sr|турпија|f|sc=Cyrl}}
 *: Roman: {{t-|sr|turpija|f}}
 * Slovene: {{t+|sl|pila|f}}
 * Spanish: {{t+|es|lima|f}}
