@@ -31,7 +31,7 @@ Homer, Odyssey, 16.15: ''kusse de min kephalen...'' "he kissed his forehead"; Ar
 * Arabic: {{Arab|[[قبل]]}} (qábbala), {{Arab|[[باس]]}} (bāsa)
 * Armenian: [[համբուրել]] (hamburel)
 * Chinese: [[吻]] (wěn)
-* Croatian: {{t|hr|poljubiti|alt=poljúbiti}}, {{t|hr|ljubiti|alt=ljúbiti}}
+* Croatian: {{t-|hr|poljubiti|alt=poljúbiti}}, {{t-|hr|ljubiti|alt=ljúbiti}}
 * Czech: [[líbat]]
 * Danish: {{t-|da|kysse}}
 * Dutch: {{t+|nl|kussen}}, {{t+|nl|zoenen}}
@@ -56,7 +56,7 @@ Homer, Odyssey, 16.15: ''kusse de min kephalen...'' "he kissed his forehead"; Ar
 * Kurdish:
 *: Kurmanji: [[maç]] kirin, [[ramûsandin]]
 *: Sorani: {{t-|ku|ماچ کردن|tr=mâch kirdin|sc=KUchar}}
-* Latin: [[basiare]]
+* Latin: {{t-|la|basiare}}
 * Latvian: [[skūpstīt]]
 * Malay: [[mencium]]
 * [[Malayalam]]: [[ചുംബിയ്ക്കുക]] (chumbiykkuka)
@@ -64,7 +64,7 @@ Homer, Odyssey, 16.15: ''kusse de min kephalen...'' "he kissed his forehead"; Ar
 * Polish: {{t+|pl|całować}}
 * Portuguese: {{t+|pt|beijar}}
 * Romanian: {{t+|ro|săruta}}, {{t+|ro|pupa}}
-* Russian: {{t|ru|целовать|tr=tselovát’}}
+* Russian: {{t+|ru|целовать|tr=tselovát’|sc=Cyrl}}
 * Sardinian (Nugorese): [[basu]] {{m}}
 * [[Scottish Gaelic]]: [[pòg]] {{f}}
 * Serbian: [[пољубити]]/[[poljubiti]], [[целивати]]/[[celivati]]
@@ -83,7 +83,7 @@ Homer, Odyssey, 16.15: ''kusse de min kephalen...'' "he kissed his forehead"; Ar
 * German: {{t+|de|küssen}}
 {{trans-mid}}
 * Greek: [[ακροφιλώ]] (akrofiló)
-* Indonesian: {{t+|id|cium}}
+* Indonesian: {{t+|id|cium|xs=Indonesian}}
 {{trans-bottom}}
 
 {{trans-top|to touch each other’s lips}}
@@ -97,7 +97,7 @@ Homer, Odyssey, 16.15: ''kusse de min kephalen...'' "he kissed his forehead"; Ar
 * Hebrew: [[להתנשק]] (Le'hit'na'shek)
 * Indonesian: {{t+|id|cium|xs=Indonesian}}
 * [[Interlingua]]: [[basiar]] se
-* Italian: {{t+|it|baciarsi}}
+* Italian: {{t-|it|baciarsi}}
 * Kurdish:
 *: Sorani: {{t-|ku|ماچ کردن|tr=mâch kirdin|sc=KUchar}}
 {{trans-mid}}
@@ -107,7 +107,7 @@ Homer, Odyssey, 16.15: ''kusse de min kephalen...'' "he kissed his forehead"; Ar
 * Polish: [[całować się]]
 * Portuguese: [[beijar-se]]
 * Romanian: [[se săruta]]
-* Russian: {{t+|ru|целоваться|tr=tselovát’s’a}}
+* Russian: {{t+|ru|целоваться|tr=tselovát’s’a|sc=Cyrl}}
 * Serbian: [[пољубити се]]/[[poljubiti se]]
 * Slovene: [[poljubljati se]]
 * Spanish: [[besarse]]
@@ -153,8 +153,8 @@ Homer, Odyssey, 16.15: ''kusse de min kephalen...'' "he kissed his forehead"; Ar
 * [[Basque]]: [[pot]], [[pa]]
 * [[Catalan]]: [[bes]] {{m}}
 * Chinese: [[吻]] (wěn)
-* Croatian: {{t|hr|poljubac|alt=pòljubac|m}}
-* Czech: {{t-|cs|polibek|m}}
+* Croatian: {{t-|hr|poljubac|m|alt=pòljubac}}
+* Czech: {{t+|cs|polibek|m}}
 * Danish: {{t+|da|kys}}
 * Dutch: {{t+|nl|kus}}, {{t+|nl|zoen}}
 * Esperanto: {{t+|eo|kiso|xs=Esperanto}}
@@ -181,7 +181,7 @@ Homer, Odyssey, 16.15: ''kusse de min kephalen...'' "he kissed his forehead"; Ar
 * Kurdish:
 *: Kurmanji: [[maç]], [[ramûsan]], [[paç]], [[bûse]]
 *: Sorani: {{t-|ku|ماچ|tr=mâch|sc=KUchar}}
-* Latin: {{t-|la|basium}}, {{t-|la|osculum}}, {{t-|la|suavium}}
+* Latin: {{t-|la|basium}}, {{t+|la|osculum}}, {{t-|la|suavium}}
 * Latvian: [[skūpsts]], [[buča]]
 * Malay: {{t-|ms|ciuman|xs=Malay}}
 * [[Malayalam]]: [[ഉമ്മ]] (umma), [[ചുംബനം]] (chumbanam)
