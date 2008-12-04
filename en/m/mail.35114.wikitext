@@ -69,47 +69,47 @@ From {{etyl|enm|en}} {{term|male||bag, mail|lang=enm}}, from {{etyl|fro|en}} {{t
 * Arabic: {{Arab|[[بريد]]}} {{IPAchar|(barīd)}} {{m}}
 * Armenian: [[փոստ]] (p'ost)
 * Chinese: [[邮件]] (yóujiàn)
-* Czech: {{t|cs|pošta|f}}
-* Dutch: {{t|nl|post|f}}
-* Finnish: {{t|fi|posti}}
-* French: {{t|fr|courrier|m}}
-* German: {{t|de|Post|f}}
-* Hungarian: {{t|hu|posta}}
+* Czech: {{t-|cs|pošta|f}}
+* Dutch: {{t+|nl|post|f}}
+* Finnish: {{t+|fi|posti}}
+* French: {{t+|fr|courrier|m}}
+* German: {{t+|de|Post|f}}
+* Hungarian: {{t+|hu|posta}}
 {{trans-mid}}
-* Italian: {{t|it|posta|f}}
+* Italian: {{t+|it|posta|f}}
 * Japanese: [[郵便]] (ゆうびん, yūbin)
 * Korean: [[우편물]] (upyeonmul)
-* Lithuanian: [[paštas]] {{m}}
+* Lithuanian: {{t+|lt|paštas|m|xs=Lithuanian}}
 * Portuguese: {{t|pt|correio|m}}
-* Russian: {{t|ru|почта|tr=póčta|f}}
-* Spanish: {{t|es|correo|m}}
-* Swedish: {{t|sv|post|c}}
+* Russian: {{t+|ru|почта|f|tr=póčta|sc=Cyrl}}
+* Spanish: {{t-|es|correo|m}}
+* Swedish: {{t+|sv|post|c}}
 {{trans-bottom}}
 
 {{trans-top|organisation}}
 * Armenian: [[փոստ]] (p'ost)
-* Czech: {{t|cs|pošta|f}}
-* Finnish: {{t|fi|posti}}
+* Czech: {{t-|cs|pošta|f}}
+* Finnish: {{t+|fi|posti}}
 {{trans-mid}}
 * Lithuanian: [[paštas]] {{m}}
-* Russian: [[почта]] (póčta) {{f}}
-* Swedish: {{t|sv|post|c}}
+* Russian: {{t+|ru|почта|f|tr=póčta|sc=Cyrl}}
+* Swedish: {{t+|sv|post|c}}
 {{trans-bottom}}
 
 {{trans-top|parcels and letters}}
-* Czech: {{t|cs|pošta|f}}
-* Finnish: {{t|fi|posti}}
+* Czech: {{t-|cs|pošta|f}}
+* Finnish: {{t+|fi|posti}}
 * Lithuanian: [[paštas]] {{m}}
 {{trans-mid}}
-* Russian: {{t|ru|почта|tr=póčta|f}}, {{t|ru|корреспонденция|t=korrespondéncija|f}}
-* Swedish: {{t|sv|post|c}}
+* Russian: {{t+|ru|почта|f|tr=póčta|sc=Cyrl}}, {{t|ru|корреспонденция|t=korrespondéncija|f|sc=Cyrl}}
+* Swedish: {{t+|sv|post|c}}
 {{trans-bottom}}
 
 {{trans-top|electronic mail}}
-* Danish: mail, [[e-mail]], [[e-post]]
-* Finnish: [[meili|meilit]]
+* Danish: {{t+|da|mail}}, {{t-|da|e-mail}}, {{t-|da|e-post}}
+* Finnish: {{t-|fi|meili|alt=meilit}}
 {{trans-mid}}
-* Russian: {{t|ru|электронная почта|tr=elektrónnaja póčta|f}}, {{t|ru|почта|tr=póčta|f}}, {{t|ru|мыло|tr=mýlo|n}} ''(slang)''
+* Russian: {{t-|ru|электронная почта|f|tr=elektrónnaja póčta|sc=Cyrl}}, {{t+|ru|почта|f|tr=póčta|sc=Cyrl}}, {{t+|ru|мыло|n|tr=mýlo|sc=Cyrl}} ''(slang)''
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -139,9 +139,9 @@ From {{etyl|enm|en}} {{term|male||bag, mail|lang=enm}}, from {{etyl|fro|en}} {{t
 =====Translations=====
 {{trans-top|to send via the post}}
 * Arabic: [[بريد]]
-* Bosnian: [[poslati]]
+* Bosnian: {{t-|bs|poslati}}
 * Finnish: [[postittaa]]
-* Hungarian: [[levél]]
+* Hungarian: {{t+|hu|levél}}
 * [[Interlingua]]: [[postar]], [[inviar]]
 {{trans-mid}}
 * Portuguese: [[postar]], [[enviar]], [[remeter]], [[expedir]]
@@ -157,8 +157,8 @@ From {{etyl|enm|en}} {{term|male||bag, mail|lang=enm}}, from {{etyl|fro|en}} {{t
 
 =====Translations=====
 {{trans-top|pertaining to mail/post}}
-* Bosnian: [[poštanski]]
-* Russian: [[почтовый]] (počtóvyj)
+* Bosnian: {{t-|bs|poštanski}}
+* Russian: {{t+|ru|почтовый|tr=počtóvyj|sc=Cyrl}}
 * Serbian:
 *: Cyrillic: [[поштански]]
 *: Latin: [[poštanski]]
@@ -184,7 +184,7 @@ From {{etyl|enm|en}} {{term|maille||mail armor|lang=enm}}, from {{etyl|fro|en}} 
 {{trans-top|armour consisting of metal rings or plates linked together}}
 * Finnish: [[rengaspanssari]]
 {{trans-mid}}
-* Russian: [[кольчуга]] (kol'čúga) {{f}}
+* Russian: {{t+|ru|кольчуга|f|tr=kol'čúga|sc=Cyrl}}
 {{trans-bottom}}
 
 ====Adjective====
