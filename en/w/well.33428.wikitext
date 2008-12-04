@@ -32,7 +32,7 @@
 =====Translations=====
 {{trans-top|accurately; competently}}
 * Czech: {{t+|cs|dobře}}
-* Esperanto: {{t+|eo|bele}}
+* Esperanto: {{t-|eo|bele|xs=Esperanto}}
 * Finnish: {{t+|fi|hyvin}}
 * French: {{t+|fr|bien}}
 * German: {{t+|de|gut}}
@@ -45,7 +45,7 @@
 * Romanian: {{t-|ro|bine}}
 * Russian: [[хорошо]] (xorošó), [[как следует]] (kak sl'édujet)
 * [[Scots]]: [[weel]]
-* [[Scottish Gaelic]]: {{t-|gd|gu math}}
+* [[Scottish Gaelic]]: {{t-|gd|gu math|xs=Scottish Gaelic}}
 * Slovak: {{t-|sk|dobre}}
 * Slovene: {{t+|sl|dobro}}
 * Spanish: {{t+|es|bien}}
@@ -61,7 +61,7 @@
 * Russian: [[хорошо]] (xorošó), [[как следует]] (kak sl'édujet)
 {{trans-mid}}
 * [[Scots]]: [[weel]]
-* [[Scottish Gaelic]]: {{t-|gd|gu math}}
+* [[Scottish Gaelic]]: {{t-|gd|gu math|xs=Scottish Gaelic}}
 * Slovak: {{t-|sk|dobre}}
 * Swedish: [[väl]]-, [[genom]]-
 {{trans-bottom}}
@@ -76,7 +76,7 @@
 {{trans-mid}}
 * Russian: {{t+|ru|хорошо|tr=xorošó|sc=Cyrl}}
 * [[Scots]]: [[weel]]
-* [[Scottish Gaelic]]: {{t-|gd|gu math}}
+* [[Scottish Gaelic]]: {{t-|gd|gu math|xs=Scottish Gaelic}}
 * Slovak: {{t-|sk|dobre}}
 * Spanish: {{t+|es|bien}}
 * Swedish: {{t+|sv|väl}}
@@ -85,7 +85,7 @@
 {{trans-top|''(slang)'' very}}
 * Finnish: {{t+|fi|tosi}}
 {{trans-mid}}
-* Welsh: {{t+|cy|iawn}}
+* Welsh: {{t-|cy|iawn|xs=Welsh}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -136,7 +136,7 @@
 * Swedish: {{t+|sv|frisk}}
 * [[Telugu]]: [[బాగు]] (baagu)
 * [[Tok Pisin]]: [[no]] [[sik]]
-* Welsh: {{t+|cy|iawn}}
+* Welsh: {{t-|cy|iawn|xs=Welsh}}
 {{trans-bottom}}
 
 ====Interjection====
@@ -150,18 +150,18 @@
 
 =====Translations=====
 {{trans-top|used to introduce a statement that may be contrary to expectations}}
-* Czech: {{t-|cs|no}}
+* Czech: {{t+|cs|no}}
 * Finnish: {{t+|fi|no}}
 * Japanese: [[うーん]] (ūn)
 * Portuguese: {{t+|pt|bem}}
-* Russian: {{t|ru|так вот|tr=tak vot}}
+* Russian: {{t|ru|так вот|tr=tak vot|sc=Cyrl}}
 * [[Scots]]: [[weel]]
 {{trans-mid}}
-* [[Scottish Gaelic]]: {{t-|gd|uill}}
+* [[Scottish Gaelic]]: {{t-|gd|uill|xs=Scottish Gaelic}}
 * Slovak: {{t-|sk|no}}
 * Slovene: {{t+|sl|no}}
 * Swedish: {{t+|sv|tja}}, {{t+|sv|nå}}
-* Welsh: {{t+|cy|wel}}
+* Welsh: {{t-|cy|wel|xs=Welsh}}
 {{trans-bottom}}
 
 {{trans-top|exclamation of surprise}}
@@ -170,26 +170,26 @@
 * Japanese: {{t-|ja|おやおや|tr=oya-oya|sc=Jpan}}
 * Portuguese: [[ora, ora]]; [[muito bem]], [[muito que bem]]
 {{trans-mid}}
-* Russian: {{t|ru|так|tr=tak}}, {{t|ru|так-так|tr=tak-tak}}
+* Russian: {{t+|ru|так|tr=tak|sc=Cyrl}}, {{t|ru|так-так|tr=tak-tak|sc=Cyrl}}
 * [[Scots]]: [[weel]]
 * Slovene: {{t+|sl|no}}
-* Welsh: {{t+|cy|bobol bach}}!; {{t+|cy|wel}}
+* Welsh: {{t+|cy|bobol bach|xs=Welsh}}!; {{t-|cy|wel|xs=Welsh}}
 {{trans-bottom}}
 
 {{trans-top|used in conversation to fill space}}
-* Czech: {{t-|cs|no}}
+* Czech: {{t+|cs|no}}
 * Finnish: {{t+|fi|tuota}}, {{t-|fi|niinku}}
-* French: [[ben]]
+* French: {{t+|fr|ben}}
 * Japanese: [[えーと]] (ēto)
 * Portuguese: [[é]]f... (Brazil); [[pois]] (Portugal)
-* Russian: {{t|ru|ну|tr=nu}}, {{t-|ru|значит|tr=znáčit}}
+* Russian: {{t+|ru|ну|tr=nu|sc=Cyrl}}, {{t-|ru|значит|tr=znáčit|sc=Cyrl}}
 {{trans-mid}}
 * [[Scots]]: [[weel]]
-* [[Scottish Gaelic]]: {{t-|gd|uill}}
+* [[Scottish Gaelic]]: {{t-|gd|uill|xs=Scottish Gaelic}}
 * Slovak: {{t-|sk|no}}
 * Slovene: {{t+|sl|no}}, {{t+|sl|torej}}
 * Swedish: [[tja]], [[öh]], [[eh]]
-* Welsh: {{t+|cy|wel}}
+* Welsh: {{t-|cy|wel|xs=Welsh}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -247,12 +247,12 @@
 * {{trreq|Cebuano}}
 * {{trreq|Chechen}}
 * Chinese: [[井]] (jǐng)
-* Croatian: {{t-|hr|zdenac|alt=zdénac|m}}, {{t|hr|studenac|alt=studénac|m}}, {{t|hr|bunar|alt=bùnār|m}}
+* Croatian: {{t-|hr|zdenac|m|alt=zdénac}}, {{t-|hr|studenac|m|alt=studénac}}, {{t-|hr|bunar|m|alt=bùnār}}
 * Czech: [[studna]] {{f}} (''for water''), [[vrt]] {{m}} (''for oil'')
 * Danish: {{t-|da|brønd|c}}
 * Dutch: {{t+|nl|bron|m}}, {{t+|nl|put|m}}
 * Esperanto: {{t-|eo|puto|xs=Esperanto}}
-* Estonian: {{t|et|kaev}}
+* Estonian: {{t-|et|kaev}}
 * Finnish: {{t+|fi|kaivo}}
 * French: {{t+|fr|puits|m}}
 * Georgian: [[ჭა]] (č‘a), [[წყარო]] (ts‘q‘aro)
@@ -264,7 +264,7 @@
 * Icelandic: {{t|is|brunnur|m}}, {{t|is|borhola|f}}
 * [[Ido]]: [[puteo]]
 * {{trreq|Ilocano}}
-* Indonesian: [[sumur]]
+* Indonesian: {{t-|id|sumur|xs=Indonesian}}
 * [[Interlingua]]: [[puteo]]
 * Italian: {{t+|it|pozzo|m}}
 * Japanese: [[井戸]] (ido)
@@ -273,7 +273,7 @@
 * [[Khmer]]: {{Khmr|[[អណ្ដូង]]}} (on-doang)
 * Korean: [[샘]] (saem) (''for water''), [[우물]] (umul) (''for water'')
 * Kurdish: {{t-|ku|بیر|sc=KUchar}}
-* Lao: {{t|lo|ນ້ຳສ້າງ|tr=nam-saang|sc=Laoo}}, {{t|lo|ນ້ຳບໍ່|tr=nam-böö|sc=Laoo}}
+* Lao: {{t-|lo|ນ້ຳສ້າງ|tr=nam-saang|sc=Laoo|xs=Lao}}, {{t|lo|ນ້ຳບໍ່|tr=nam-böö|sc=Laoo|xs=Lao}}
 * Latin: {{t+|la|puteus|m}}
 * Latvian: {{t-|lv|aka|f|xs=Latvian}}
 * [[Limburgish]]: [[pöt]]
@@ -295,7 +295,7 @@
 * Russian: {{t+|ru|колодец|m|tr=kolódec|sc=Cyrl}}
 * {{trreq|Sanskrit}}
 * Serbian: [[бунар]] {{m}}
-* [[Scottish Gaelic]]: {{t-|gd|fuaran|m}}
+* [[Scottish Gaelic]]: {{t-|gd|fuaran|m|xs=Scottish Gaelic}}
 * Slovak: [[studňa#Slovak|studňa]] {{f}}
 * Slovene: [[vodnjak]] (for water), [[vrtina]] (for oil, gas, etc.)
 * Spanish: [[aljibe]] (for water), [[pozo]] (for oil, gas, etc.) {{m}}
@@ -315,7 +315,7 @@
 {{trans-top|spring}}
 * Arabic: {{Arab|[[عين|عَيْن]]}} {{IPAchar|(ʕeyn)}} {{f}}
 * Bulgarian: {{t+|bg|извор|m|sc=Cyrl}}
-* Croatian: {{t|hr|vrelo|alt=vrȅlo|n}}, {{t|hr|vrutak|alt=vrútak}}, {{t|hr|izvor|alt=ìzvor|m}}
+* Croatian: {{t-|hr|vrelo|n|alt=vrȅlo}}, {{t-|hr|vrutak|alt=vrútak}}, {{t-|hr|izvor|m|alt=ìzvor}}
 * Czech: {{t-|cs|studánka|f}}
 * Finnish: {{t+|fi|lähde}}
 * Georgian: [[წყარო]] (ts‘q‘aro)
@@ -323,7 +323,7 @@
 {{trans-mid}}
 * Russian: {{t+|ru|родник|m|tr=rodník|sc=Cyrl}}, {{t+|ru|ключ|tr=kl'uč|sc=Cyrl}}, {{t+|ru|источник|m|tr=istóčnik|sc=Cyrl}}
 * [[Scots]]: [[wall#Scots|wall]]
-* [[Scottish Gaelic]]: {{t-|gd|fuaran|m}}
+* [[Scottish Gaelic]]: {{t-|gd|fuaran|m|xs=Scottish Gaelic}}
 * Swedish: {{t+|sv|källa}}
 * Thai: {{Thai|[[บ่อน้]]}} (bòr-nám)
 * Yiddish: [[קװאַל]] (kval) {{m}}
@@ -357,7 +357,7 @@
 * German: {{t+|de|quellen}}
 {{trans-mid}}
 * Japanese: {{t-|ja|にじみ出る|tr=nijimideru|sc=Jpan}}
-* Swedish: [[välla]]
+* Swedish: {{t+|sv|välla}}
 {{trans-bottom}}
 
 [[Category:English intensifiers]]
