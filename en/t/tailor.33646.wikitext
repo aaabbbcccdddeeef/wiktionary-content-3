@@ -22,9 +22,9 @@
 * Czech: {{t-|cs|krejčí|m}}
 * Danish: {{t|da|skrædder}}
 * Dutch: {{t+|nl|kleermaker|m}}, [[kleermaakster]] {{f}}
-* Finnish: [[räätäli]], [[vaatturi]]
+* Finnish: {{t-|fi|räätäli}}, {{t-|fi|vaatturi}}
 * French: {{t+|fr|tailleur|m}}
-* German: {{t+|de|Schneider|m}}, {{t|de|Schneiderin|f}}
+* German: {{t+|de|Schneider|m}}, {{t+|de|Schneiderin|f}}
 * Hungarian: {{t+|hu|szabó}}
 * Italian: {{t+|it|sarto}}
 * Maltese: [[ħajjat]] {{m}}, [[ħajjata]] {{f}}
@@ -33,7 +33,7 @@
 * Polish: {{t+|pl|krawiec|m}}, {{t|pl|krawcowa|f}}
 * Portuguese: {{t+|pt|alfaiate|m}}
 * Romanian: [[croitor]] {{m}}, [[croitoreasă]] {{f}}
-* Russian: {{t|ru|портной|tr=portnój|m}}, {{t|ru|портниха|tr=portníxa|f}}
+* Russian: {{t|ru|портной|m|tr=portnój|sc=Cyrl}}, {{t|ru|портниха|f|tr=portníxa|sc=Cyrl}}
 * [[Scottish Gaelic]]: [[tàillear]] {{m}}
 * Serbian:
 *: Cyrillic: [[кројач]] {{m}}, [[кројачица]] {{f}}
@@ -45,14 +45,14 @@
 {{trans-bottom}}
 
 {{trans-top|fish}}
-* Bulgarian: {{t|bg|лефер|m}}
+* Bulgarian: {{t|bg|лефер|m|sc=Cyrl}}
 * [[Catalan]]: {{t|ca|tallahams|m}}
 * French: {{t|fr|tassergal|m}}
-* Georgian: {{t|ka|ლუფარი|tr=lup‘ari}}
+* Georgian: {{t|ka|ლუფარი|tr=lup‘ari|xs=Georgian}}
 * German: {{t|de|Blaufisch|m}}
-* Greek: {{t|el|γοφάρι|n}}
+* Greek: {{t|el|γοφάρι|n|sc=Grek}}
 {{trans-mid}}
-* Lithuanian: {{t|lt|melsvieji ešeriai}}
+* Lithuanian: {{t|lt|melsvieji ešeriai|xs=Lithuanian}}
 * Romanian: {{t|ro|lufar}}
 * Spanish: {{t|es|anjora|f}}
 * Swedish: {{t|sv|blåfisk|c}}
@@ -92,7 +92,7 @@
 * Bosnian: [[ukrojiti]]
 * Croatian: [[ukrojiti]]
 * Dutch: {{t+|nl|aanpassen}}
-* German: {{t|de|zuschneiden}}, {{t|de|anpassen}}
+* German: {{t|de|zuschneiden}}, {{t+|de|anpassen}}
 * Serbian:
 *: Cyrillic: [[укројити]]
 *: Roman: [[ukrojiti]]
