@@ -23,47 +23,66 @@
 
 ====Translations====
 {{top}}
-* [[Afrikaans]]: [[Vlaandere]]
-* [[Basque]]: [[Flandes]]
-* [[Breton]]: [[Flandrez]]
-* Bulgarian: [[Фламандия]] {{f}}
-* [[Catalan]]: [[Flandes]]
-* [[Corsican]]: [[Fiandria]]
-* Croatian: [[Flandrija]]
-* Czech: [[Flandry]]
-* Danish: [[Flandern]]
-* Dutch: [[Vlaanderen]] {{n}}
-* Esperanto: [[Flandrujo]]
+* [[Afrikaans]]: {{t-|af|Vlaandere}}
+* [[Basque]]: {{t-|eu|Flandria}}
+* [[Breton]]: {{t-|br|Flandrez}}
+* Bulgarian: {{t-|bg|Фламандия|f}}
+* [[Catalan]]: {{t-|ca|Flandes}}
+* Chinese:
+*: Mandarin: {{t-|zh|佛拉芒|sc=Hani}}
+* [[Corsican]]: {{t-|co|Fiandria}}
+* Croatian: {{t-|hr|Flandrija}}
+* Danish: {{t-|da|Flandern}}
+* [[Dutch Low Saxon]]: {{tø|nds-nl|Vlaonderen}}
+* Dutch: {{t+|nl|Vlaanderen|n}}
+* Esperanto: {{t-|eo|Flandrio}}, {{t-|eo|Flandrujo}}
 * Estonian: [[Flandria]]
-* Finnish: [[Flanderi]]
-* French: [[la Flandre]] {{f}}, [[les Flandres]] {{f|p}}
-* [[West Frisian]]: [[Flaandere]]
-* [[Galician]]: [[Flandes]]
-* German: [[Flandern]] {{n}}
-* Greek: [[Φλάνδρα]]
-* Hungarian: [[Flandria]]
+* Finnish: {{t-|fi|Flanderi}}
+* [[Flemish]]: {{tø|vls|Vloandern}}
+* French: la {{t+|fr|Flandre|f}}, les {{t-|fr|Flandres|f|p}}
+* German: {{t-|de|Flandern|n}}
+* Modern Greek: {{t-|el|Φλάνδρα|sc=Grek}}
+* Hebrew: {{t-|he|פלנדריה|sc=Hebr}}
+* Hungarian: {{t+|hu|Flandria}}
+* Icelandic: {{t-|is|Flæmingjaland}}
 * [[Ido]]: [[Flandria]]
-* Icelandic: [[Flaemingjaland]]
-* Italian: [[Fiandre]]
-{{mid}}
-* Latin: [[Flandria]] {{f}}
-* [[Limburgish]]: [[Vlaandere]]
-* Lithuanian: [[Flandrija]]
-* Norwegian: [[Flandern]]
-* [[Occitan]]: [[Flandra]]
-* Polish: [[Flandria]]
-* Portuguese: [[Flandres]]
-* Romanian: [[Flandra]]
-* Russian: [[Фландрия]] (Flándrija) {{f}}
-* [[Scottish Gaelic]]: [[Flànras]]
-* Slovak: [[Flámsko]]
-* Slovene: [[Flandrija]]
-* Spanish: [[Flandes]] {{m}}
-* Swedish: [[Flandern]]
-* Ukrainian: [[Фландрія]] {{f}}
-* Vietnamese: [[(xứ) Flăng-drơ]]
+* Indonesian: {{t-|id|Flandria}}
+* Irish: {{t-|ga|An Phléimeann}}
+* Italian: {{t-|it|Fiandre}}
+* Japanese: {{t-|ja|フランドル|sc=Jpan}}
+* Korean: {{t-|ko|플란데런|sc=Kore}}
+{{trans-mid}}
+* Latin: {{t-|la|Flandria|f}}
+* Latvian: {{t-|lv|Flandrija}}
+* [[Limburgish]]: {{t-|li|Vlaandere}}
+* Lithuanian: {{t-|lt|Flandrija}}
+* Norwegian: {{t-|no|Flandern}}
+* [[Occitan]]: {{t-|oc|Flandra}}
+* Polish: {{t+|pl|Flandria}}
+* Portuguese: {{t-|pt|Flandres}}
+* Romanian: {{t-|ro|Flandra}}
+* Russian: {{t-|ru|Фландрия|f|Flándrija|sc=Cyrl}}
+* [[Scottish Gaelic]]: {{t-|gd|Flànras}}
+* Serbian:
+*: Cyrillic: {{t-|sr|Фландрија|sc=Cyrl}}
+*: Latin: {{t-|sr|Flandrija}}
+* Slovak: {{t-|sk|Flámsko}}
+* Slovene: {{t-|sl|Flandrija}}
+* Spanish: {{t+|es|Flandes|m}}
+* Swedish: {{t-|sv|Flandern}}
+* Turkish: {{t-|tr|Flaman Ovası}}
+* Ukrainian: {{t-|uk|Фландрія|f|sc=Cyrl}}
+* Vietnamese: {{t-|vi|Flăng-drơ}}, {{t-|vi|xứ Flăng-drơ}}
+* Walloon: {{t-|wa|Flande}}
 * Welsh: [[Fflandrys]]
+* [[West Frisian]]: {{t-|fy|Flaanderen}}
 {{bottom}}
+
+{{checktrans-top}}
+* {{ttbc|Czech}}: {{t-|cs|Vlámsko}}, [[Flandry]]
+{{trans-mid}}
+* {{ttbc|Galician}}: [[Flandes]], {{t-|gl|Flandres}}
+{{trans-bottom}}
 
 ===See also===
 * [[Belgium]]
