@@ -72,7 +72,7 @@ Inflected form of {{term|unus|ūnus|one|lang=la}}
 * {{audio|es-us-uno.ogg|Audio (US)}}
 
 ===Determiner===
-'''uno'''
+{{infl|es|determiner}}
 
 # [[one]]
 # ({{p}}) [[some]]
@@ -83,18 +83,14 @@ Inflected form of {{term|unus|ūnus|one|lang=la}}
 # {{cardinal|lang=es}} [[one]]
 
 ===Pronoun===
-'''uno''' (''plural'' '''[[unos]]''')
+{{infl|es|pronoun|pl=unos}}
 
 # [[one]] ({{p}} [[some]])
 
 ===Verb===
-'''uno'''
+{{es-verb-form|unir}}
 
-# ''first-person singular indicative present of [[unir]]''
-
-[[Category:Spanish determiners]]
-[[Category:Spanish pronouns]]
-[[Category:Spanish verb forms]]
+# {{es-verb form of|person=first-person|number=singular|tense=present|mood=indicative|ending=ir|verb=[[unir]]}}
 
 [[az:uno]]
 [[de:uno]]
