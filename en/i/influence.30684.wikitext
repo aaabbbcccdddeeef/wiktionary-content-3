@@ -3,7 +3,7 @@
 {{rank|lips|donations|George|666|influence|March|whatever|reach}}
 
 ===Etymology===
-Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', an [[astrological]] term, from ''[[influere]]'' "to flow into".
+Old (=modern) French ''[[influence:French|influence]]'', an [[astrological]] term, from {{ML.}} ''[[influentia]]'', from {{etyl|la}} ''[[influere]]'' "to flow into", itself from [[in-]] "in" + [[fluere]] "to flow".
 
 ===Pronunciation===
 * {{IPA|/ˈɪn.flu.əns/}}, {{SAMPA|/"In.flU.@ns/}}
@@ -18,11 +18,14 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 #: ''I'm not able to exercise '''influence''' over him.''
 # A person or thing exerting such power or action.
 #: ''He has been a great '''influence''' on the voters during the elections.''
-# {{astrology}} An element believed by some to [[determine]] someone's character or individual [[tendency|tendencies]], caused by the position of the stars and planets at the time of one's birth.
+# {{astrology}} An element believed to [[determine]] someone's character or individual [[tendency|tendencies]], caused by the position of the stars and planets at the time of one's birth.
 # {{obsolete}} The action of flowing in; [[influx]].
 # {{electricity}} [[electrostatic]] [[induction]].
 
-====Derived terms====
+====Related terms====
+* [[influencer]]
+* [[influent]]
+* [[influential]], [[influentially]]
 * [[social influence]]
 * [[sphere of influence]]
 * [[under the influence]]
@@ -31,6 +34,7 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 {{trans-top|power to affect, control or manipulate}}
 * Czech: {{t-|cs|vliv|m}}
 * Danish: [[indflydelse]]
+* Dutch: [[invloed]]
 * Finnish: {{t+|fi|vaikutus}}, {{t-|fi|vaikutusvalta}}
 * German: {{t+|de|Einfluss|m}}
 * Hungarian: {{t+|hu|befolyás}}
@@ -44,6 +48,7 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 {{trans-bottom}}
 
 {{trans-top|action exerted by a person or thing with power to cause change}}
+* Dutch: [[invloed]], [[beïnvloeding]]
 * Finnish: {{t+|fi|vaikutus}}
 * German: [[Beeinflussung]] {{f}}
 * Japanese: {{Jpan|[[影響]]}} ([[えいきょう]], eikyō)
@@ -55,6 +60,7 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 {{trans-bottom}}
 
 {{trans-top|person or thing exerting such power or action}}
+* Dutch: [[invloed]]
 * Finnish: {{t-|fi|vaikuttaja}}
 * German: [[Einfluss]] {{m}}, [[Beeinflusser]] {{m}}
 {{trans-mid}}
@@ -63,6 +69,7 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 {{trans-bottom}}
 
 {{trans-top|(''astrology'') element determining someone's character or individual tendencies}}
+* Dutch: [[invloed]]
 * Finnish: {{t+|fi|vaikutus}}
 * German: {{t+|de|Einfluss|m}}
 {{trans-mid}}
@@ -81,7 +88,6 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 {{checktrans-top}}
 * {{ttbc|Arabic}}: [[تأثير]]
 * {{ttbc|Bulgarian}}: [[влияние]] (vlijanie) {{n}}
-* {{ttbc|Dutch}}: [[invloed]]
 * {{ttbc|French}}: [[influence]]
 * {{ttbc|Hebrew}}: [[השפעה]] {{f}}
 * {{ttbc|Ido}}: [[influo]]+, influeso -
@@ -107,12 +113,14 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 ====Related terms====
 * [[influent]]
 * [[influential]]
-* [[influenza]]
+* [[influenza]], [[flu]]
 
 ====Translations====
 {{trans-top|to exert an influence upon}}
 * Czech: {{t-|cs|ovlivnit}}
+* Dutch: [[beïnvloeden]]
 * Finnish: {{t+|fi|vaikuttaa}}
+* French: [[influencer]], [[influer]]
 * German: {{t+|de|beeinflussen}}
 {{trans-mid}}
 * Polish: [[wpływać]]
@@ -120,6 +128,7 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 {{trans-bottom}}
 
 {{trans-top|(''intr.'') to exert influence}}
+* Dutch: [[invloed uitoefenen]]
 * Finnish: {{t+|fi|vaikuttaa}}
 * German: {{t+|de|beeinflussen}}
 * Hungarian: {{t|hu|befolyásol}}
@@ -129,21 +138,33 @@ Old and modern French ''influence'', or from medieval Latin ''[[influentia]]'', 
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|Dutch}}: [[beïnvloeden]]
 {{checktrans-bottom}}
 
 ----
 
 ==French==
 
+===Etymology===
+From {{etyl|la}} [[influentia]], from [[influere]] "to flow into", itself from [[in-]] "in" + [[fluere]] "to flow"
+
 ===Pronunciation===
 * {{audio|Fr-influence.ogg|audio}}
 * {{IPA|lang=fr|/ɛ̃.fly.ɑ̃s/}}, {{SAMPA|/E~.fly.A~s/}}
 
 ===Noun===
-'''influence'''
+{{fr-noun|m}}
 
-# Influence.
+# [[influence#English|Influence]].
+
+====Related terms====
+* [[influençable]]
+* [[influencer]]
+* [[influent]]
+* [[influentiel]]
+* [[influenza]] 
+
+===Verb===
+# imperative and singular present imperfect forms of [[influencer]]
 
 [[et:influence]]
 [[el:influence]]
