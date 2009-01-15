@@ -11,21 +11,22 @@
 *: {{rhymes|ɛvə(r)|iːvə(r)}}
 
 ===Etymology 1===
-From {{etyl|fro}} {{term|leveor}}, {{term|leveur||a lifter, a lever (also {{etyl|fro}} and {{etyl|fr}} {{term|levier}})}} < {{etyl|la}} {{term|levator||a lifter}} < {{term|levare}}, pp. {{term|levatus||to raise}}; see [[levant]]. Cf. [[alleviate]], [[elevate]], [[leaven]].
+From {{etyl|fro}} {{term|leveor}}, {{term|leveur||a lifter, lever (also {{etyl|fro}} and {{etyl|fr}} {{term|levier}})}} < {{etyl|la}} {{term|levator||a lifter}} < {{term|levare}}, past part. {{term|levatus||to raise}}; see [[levant]]. Cf. [[alleviate]], [[elevate]], [[leaven]].
 
 ====Noun====
 {{en-noun}}
 
-# {{mechanics}} A rigid piece which is capable of turning about one point, or axis (the fulcrum), and in which are two or more other points where forces are applied; &mdash; used for transmitting and modifying force and motion.
-## Specif., a  bar of metal, wood, or other rigid substance, used to exert a pressure, or sustain a weight, at one point of its length, by receiving a force or power at a second, and turning at a third on a fixed point called a fulcrum. It is usually named as the first of the six mechanical powers, and is of three kinds, according as either the fulcrum F, the weight W, or the power P, respectively, is situated between the other two, as in the figures.
-# {{mechanics}} A bar, as a capstan bar, applied to a rotatory piece to turn it.
-# {{mechanics}} An arm on a rock shaft, to give motion to the shaft or to obtain motion from it.
+# {{mechanics}} A rigid piece which is capable of turning about one point, or [[axis]] (the ''fulcrum''), and in which are two or more other points where forces are applied; &mdash; used for transmitting and modifying force and motion.
+## Specifically, a  [[bar]] of metal, wood or other rigid substance, used to exert a pressure, or sustain a weight, at one point of its length, by receiving a force or power at a second, and turning at a third on a fixed point called a fulcrum. It is usually named as the first of the six mechanical powers, and is of three kinds, according as either the fulcrum F, the weight W, or the power P, respectively, is situated between the other two, as in the figures.
+# A small such piece to [[trigger]] or [[control]] a mechanical device (like a button)
+# {{mechanics}} A [[bar]], as a [[capstan bar]], applied to a rotatory piece to turn it.
+# {{mechanics}} An [[arm]] on a [[rock shaft]], to give motion to the shaft or to obtain motion from it.
 
 =====Translations=====
 {{trans-top|rigid thing turning about an axis, used for transmitting and modifying force and motion}}
 * Croatian: {{t-|hr|poluga|f|alt=pòluga}}
 * Czech: {{t-|cs|páka|f}}
-* Dutch: {{t-|nl|hendel}}
+* Dutch: [[hefboom]] {{m}}
 * French: {{t+|fr|levier|m}}
 * German: {{t+|de|Hebel|m}}
 {{trans-mid}}
@@ -36,19 +37,23 @@ From {{etyl|fro}} {{term|leveor}}, {{term|leveur||a lifter, a lever (also {{etyl
 * Serbian: {{t-|sr|poluga|f}}
 {{trans-bottom}}
 
+{{trans-top|small such piece to trigger or control a mechanical device}}
+* Dutch: {{t-|nl|hendel}}
+* French: {{t+|fr|levier|m}}
+{{trans-bottom}}
+
 {{checktrans-top}}
 * {{ttbc|Afrikaans}}: [[hefboom]]
-* {{ttbc|Dutch}}: [[hefboom]] {{m}}
 * [[Ido]]: [[levero]]
 {{trans-bottom}}
 
 ====Verb====
 {{en-verb|levers|levering|levered|levered}}
 
-# To move with a [[lever#Noun|lever]].
+# To [[move]] with a [[lever#Noun|lever]].
 #: ''With great effort and a big crowbar I managed to '''lever''' the beam off the floor.''
 
-=====Derived terms=====
+====Derived terms====
 * [[leverage]]
 * [[compound lever]]: a machine consisting of two or more levers acting upon each other.
 * [[lever escapement]]: See [[escapement]].
@@ -62,12 +67,15 @@ Old comparative of {{term|leve||dear|lang=en}} (cf. German {{term|lieb|lang=de}}
 ====Adverb====
 '''lever'''
 
-# {{obsolete}} Rather.
+# {{obsolete}} [[rather|Rather]].
 #: ''For lever had I die than see his deadly face.'' &mdash;The Faery Queene, by Edmund Spenser
-#: ''Now therefore take my life from me, for I had lever die then live.'' &mdash;Jonah (Tyndale Translation)
+#: ''Now therefore take my life from me, for I had lever die then live.'' &mdash;Jonah (Tyndale Bible Translation)
 #: '' For him was lever have at his bed's head<br>Twenty bookes, clad in black or red,<br> . . . Than robes rich, or fithel, or gay sawtrie.'' &mdash;The Cantebury Tales, by Geoffrey Chaucer
 #: ''for I had lever be without ye<br>Then have suche besines about ye'' &mdash;The Four PP, by John Heywood.
 #: ''But lever than this worldés good<br>She would have wist how that it stood'' &mdash;Tales of the Seven Deadly Sins, by John Gower.
+
+=====Translations=====
+* Dutch: [[eer]](der)
 
 ===External links===
 * {{R:Webster 1913}}
@@ -92,9 +100,19 @@ Old comparative of {{term|leve||dear|lang=en}} (cf. German {{term|lieb|lang=de}}
 ==Dutch==
 
 ===Noun===
-'''lever'''
+{{nl-lever|levers|levertje}}
 
-# [[liver]]
+# {{anatomy}} the organ [[liver]]
+# liver as a dish or ingredient
+
+====Derived terms====
+* (by species) [[ganzenlever]], [[kalfslever]], [[kippenlever]], [[varkenslever]]
+* [[leverbloem]]
+* [[leverbotziekte]]
+* [[leverextract]] {{n}}
+* [[leverpastei]]
+* [[levertraan]]
+* [[leverworst]]
 
 ===Verb===
 '''lever'''
@@ -126,13 +144,23 @@ From {{etyl|la|fr}} {{term|levo|levare|to elevate|lang=la}} < {{term|levis||ligh
 * [[baisser]]
 
 ====Related terms====
-* [[levage]]
-* [[levant]]
+* [[levage]] {{m}}
+* [[levant]], [[Levant]], [[Levantin]] {{m}}
 * [[levé]]
+* [[lève]]
+* [[lève-Dieu]]
+* [[levée]]
 * [[se lever]]
 * [[lever du soleil]]
 * [[lève-tard]]
-* [[lève-tôt]]
+* [[leveur]] {{m}}
+* [[levure]]
+
+===Noun===
+{{fr-noun|m}}
+
+# [[getting up]] in the [[morning]]
+# [[morning ritual]], extremely elaborated in Versailles
 
 ----
 
