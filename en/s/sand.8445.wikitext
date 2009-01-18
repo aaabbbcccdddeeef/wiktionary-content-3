@@ -128,16 +128,16 @@
 * {{trreq|Estonian}}
 * Finnish: {{t+|fi|hiekka}}
 * French: {{t+|fr|sable|m}}
-* Georgian: {{t|ka|ქვიშა|tr=k‘viša}}, {{t|ka|სილა|tr=sila}}
+* Georgian: {{t-|ka|ქვიშა|tr=k‘viša|xs=Georgian}}, {{t-|ka|სილა|tr=sila|xs=Georgian}}
 * German: {{t+|de|Sand|m}}
-* Greek: {{t|el|άμμος|f}}
+* Greek: {{t|el|άμμος|f|sc=Grek}}
 * Hawaiian: [[one#Hawaiian|one]]
 * Hebrew: [[חול]] (khol) {{m}}
 * Hindi: [[रेत]] (reit) {{g|Hindi}}
 * Hungarian: {{t+|hu|homok}}
 * {{trreq|Icelandic}}
 * Indonesian: {{t+|id|pasir|xs=Indonesian}}
-* Irish: {{t|ga|gaineamh|m}}
+* Irish: {{t|ga|gaineamh|m|xs=Irish}}
 * Italian: {{t+|it|sabbia|f}}
 * Japanese: [[砂]] ([[すな]], suna)
 * Korean: [[모래]] (morae)
@@ -162,7 +162,7 @@
 * Russian: {{t+|ru|песок|m|tr=pesók|sc=Cyrl}}
 * {{trreq|Samoan}}
 * [[Sardinian]]: [[arena]] {{f}}
-* [[Scottish Gaelic]]: {{t-|gd|gainmheach|f}}
+* [[Scottish Gaelic]]: {{t-|gd|gainmheach|f|xs=Scottish Gaelic}}
 * Serbian: [[pesak]] {{m}}
 * [[Sicilian]]: [[rina]] {{f}}
 * Slovak: [[piesok]] {{m}}
@@ -178,7 +178,7 @@
 * {{trreq|Vietnamese}}
 * {{trreq|Welsh}}
 * [[West Frisian]]: {{t+|fy|sân|n|xs=West Frisian}}
-* Yiddish: {{t|yi|זאַמד|tr=zamd|m|n}}
+* Yiddish: {{t|yi|זאַמד|m|n|tr=zamd|sc=Hebr|xs=Yiddish}}
 {{trans-bottom}}
 
 {{trans-top|beach}}
@@ -189,14 +189,14 @@
 * Dutch: [[zandstrand]] {{n}}
 * Finnish: {{t-|fi|hietikko}}, {{t-|fi|hiekkaranta}}
 * French: {{t+|fr|plage|f}}
-* Georgian: {{t|ka|მეჩეჩი|tr=mečeči}}
+* Georgian: {{t|ka|მეჩეჩი|tr=mečeči|xs=Georgian}}
 {{trans-mid}}
 * German: [[Sand]] {{m}} (''sandy islet''), [[Sandstrand]] {{m}}
 * Italian: {{t+|it|spiaggia|f}}
 * Japanese: [[砂浜]] (すなはま, sunahama), [[ビーチ]] (bīchi)
 * Norwegian: {{t-|no|sandstrand}}, {{t+|no|strand}}
 * Portuguese: {{t+|pt|praia|f}}
-* [[Scottish Gaelic]]: {{t-|gd|tràigh|f}}
+* [[Scottish Gaelic]]: {{t-|gd|tràigh|f|xs=Scottish Gaelic}}
 * Swedish: {{t-|sv|sandstrand}}, {{t-|sv|strand}}
 {{trans-bottom}}
 
@@ -256,7 +256,7 @@
 ====Translations====
 {{trans-top|to abrade with sand or sandpaper}}
 * Dutch: {{t+|nl|schuren}}
-* Finnish: {{t|fi|hioa}} ([[hiekkapaperi|hiekkapaperilla]])
+* Finnish: {{t-|fi|hioa}} ([[hiekkapaperi|hiekkapaperilla]])
 * French: [[poncer]] (sandpaper), <!--confirmed correct by Paul G on 2006-03-12--> [[sabler]] (sand jet)
 * German: {{t+|de|schleifen}}, {{t+|de|schmirgeln}}
 {{trans-mid}}
