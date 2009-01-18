@@ -23,10 +23,10 @@ Old English ''[[flocc]]''
 {{trans-top|group of birds}}
 * {{trreq|Albanian}}
 * {{trreq|Basque}}
-* Bulgarian: {{t|bg|ято|n}}
+* Bulgarian: {{t+|bg|ято|n|sc=Cyrl}}
 * {{trreq|Catalan}}
 * {{trreq|Chinese}}
-* Croatian: {{t|hr|jato|n}}
+* Croatian: {{t-|hr|jato|n}}
 * Czech: {{t-|cs|hejno|n}}
 * Danish: [[flok]] {{c}}
 * Finnish: {{t+|fi|parvi}}
@@ -34,7 +34,7 @@ Old English ''[[flocc]]''
 * German: {{t+|de|Schwarm|m}}
 * {{trreq|Greek}}
 * {{trreq|Hebrew}}
-* Hungarian: {{t|hu|sereg}}, {{t|hu|raj}}, {{t|hu|csapat}}
+* Hungarian: {{t+|hu|sereg}}, {{t+|hu|raj}}, {{t+|hu|csapat}}
 * Icelandic: {{t+|is|flokkur|m}}, {{t+|is|hópur|m}}
 * Italian: {{t+|it|stormo|m}}
 {{trans-mid}}
@@ -44,14 +44,14 @@ Old English ''[[flocc]]''
 * Polish: {{t-|pl|stado|n}}
 * Portuguese: {{t+|pt|bando|m}}
 * {{trreq|Romanian}}
-* Russian: {{t+|ru|стая|tr=stája|f|sc=Cyrl}}
-* Serbian: {{t|sr|јато|n}}
+* Russian: {{t+|ru|стая|f|tr=stája|sc=Cyrl}}
+* Serbian: {{t|sr|јато|n|sc=Cyrl}}
 * {{trreq|Slovak}}
 * Slovene: {{t-|sl|jata|f}}
 * Spanish: {{f|es|bandada|f}}
 * Swedish: {{t+|sv|flock|c}}
 * [[Telugu]]: [[గుంపు]] (guMpu)
-* Thai: {{t|th|ฝูง|tr=fŏong|sc=Thai}}, {{t|th|หมู่|tr=mòo|sc=Thai}}
+* Thai: {{t-|th|ฝูง|tr=fŏong|sc=Thai|xs=Thai}}, {{t-|th|หมู่|tr=mòo|sc=Thai|xs=Thai}}
 * Turkish: {{t+|tr|sürü}}
 * {{trreq|Vietnamese}}
 {{trans-bottom}}
@@ -68,7 +68,7 @@ Old English ''[[flocc]]''
 * German: {{t+|de|Herde|f}}
 * {{trreq|Greek}}
 * {{trreq|Hebrew}}
-* Hungarian: {{t|hu|nyáj}}, {{t|hu|falka}}
+* Hungarian: {{t+|hu|nyáj}}, {{t-|hu|falka}}
 * Icelandic: [[hjörð]] {{f}}
 * Italian: {{t+|it|branco|m}}, {{t+|it|gregge|m}}
 * {{trreq|Japanese}}
@@ -78,13 +78,13 @@ Old English ''[[flocc]]''
 * Polish: {{t-|pl|stado|n}}
 * {{trreq|Portuguese}}
 * {{trreq|Romanian}}
-* Russian: {{t+|ru|стадо|tr=stádo|n|sc=Cyrl}}, {{t+|ru|отара|tr=otára|f|sc=Cyrl}}
+* Russian: {{t+|ru|стадо|n|tr=stádo|sc=Cyrl}}, {{t+|ru|отара|f|tr=otára|sc=Cyrl}}
 * {{trreq|Serbian}}
 * {{trreq|Slovak}}
 * {{trreq|Slovene}}
 * Spanish: {{f|es|hato|m}}, {{f|es|manada|f}}, {{f|es|rebaño|m}}
 * Swedish: {{t+|sv|flock|c}}
-* Thai: {{t|th|ฝูง|tr=fŏong|sc=Thai}}, {{t|th|หมู่|tr=mòo|sc=Thai}}
+* Thai: {{t-|th|ฝูง|tr=fŏong|sc=Thai|xs=Thai}}, {{t-|th|หมู่|tr=mòo|sc=Thai|xs=Thai}}
 * Turkish: {{t+|tr|sürü}}
 * {{trreq|Vietnamese}}
 {{trans-bottom}}
@@ -92,21 +92,21 @@ Old English ''[[flocc]]''
 {{trans-top|group of people}}
 * Finnish: {{t+|fi|lauma}}
 * German: {{t+|de|Herde|f}}
-* Hungarian: {{t|hu|sereg}}, {{t|hu|tömeg}}
+* Hungarian: {{t+|hu|sereg}}, {{t+|hu|tömeg}}
 * Icelandic: {{t+|is|hópur|m}}
 * Italian: {{t+|it|folla|f}}
 {{trans-mid}}
-* Russian: {{t+|ru|паства|tr=pástva|f|sc=Cyrl}}, {{t+|ru|группа|tr=grúppa|f|sc=Cyrl}}
+* Russian: {{t+|ru|паства|f|tr=pástva|sc=Cyrl}}, {{t+|ru|группа|f|tr=grúppa|sc=Cyrl}}
 * Spanish: {{f|es|congregación|f}}, {{f|es|muchedumbre|m}}
 * Swedish: [[flock#Swedish|flock]] {{c}}, [[hop]], [[folkmassa]]
-* Thai: , {{t|th|หมู่|tr=mòo|sc=Thai}}, {{t|th|ฝูง|tr=fŏong|sc=Thai}}, {{t|th|เฮ|tr=hay|sc=Thai}}
+* Thai: , {{t-|th|หมู่|tr=mòo|sc=Thai|xs=Thai}}, {{t-|th|ฝูง|tr=fŏong|sc=Thai|xs=Thai}}, {{t|th|เฮ|tr=hay|sc=Thai|xs=Thai}}
 * Turkish: [[sürü]] taboo
 {{trans-bottom}}
 
 {{trans-top|tufts of wool or cotton}}
 * Finnish: {{t+|fi|vanu}}
 {{trans-mid}}
-* Hungarian: {{t|hu|pihe}}, {{t|hu|pamat}}
+* Hungarian: {{t-|hu|pihe}}, {{t|hu|pamat}}
 {{trans-bottom}}
 
 ===Verb===
@@ -125,7 +125,7 @@ Old English ''[[flocc]]''
 {{trans-bottom}}
 
 {{trans-top|to coat}}
-* Finnish: {{t|fi|päällystää}} ([[jollakin]])
+* Finnish: {{t-|fi|päällystää}} ([[jollakin]])
 {{trans-mid}}
 {{trans-bottom}}
 
