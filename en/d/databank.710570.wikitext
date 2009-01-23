@@ -1,5 +1,8 @@
 ==English==
 
+===Etymology===
+[[data]] + [[bank]] 'supply'
+
 ===Noun===
 {{en-noun}}
 
@@ -8,9 +11,18 @@
 # An organization dedicated to maintaining a database.
 
 ====Translations====
-{{top}}
+{{top|database}}
+* Dutch: [[database]]
+{{bottom}}
+
+{{top|organisation maintaining one}}
+* Dutch: [[databank]]
+{{bottom}}
+
+{{checktras-top}}
 * Finnish: [[tietopankki]]
 {{bottom}}
+
 
 ===References===
 <div class="references-small"><references/></div>
@@ -23,12 +35,15 @@
 ===Pronunciation===
 * {{IPA|/xxxx/|lang=nl}}
 
+===Etymology===
+[[data]] + [[bank]] 'bank, supply'
+
 ===Noun===
-{{infl|nl|noun|g=f}}
+{{nl-noun|g=f}}
 
-# [[database]] (collection of information)
+# [[database]], collection of computer-organised information formally collected or coordinated by an organisation
+# such organisation
 
-{{tbot entry|Dutch|database|2009|January|nl}}
 
 [[fr:databank]]
 [[lt:databank]]
