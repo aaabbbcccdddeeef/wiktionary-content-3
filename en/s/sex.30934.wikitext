@@ -226,6 +226,8 @@ From English {{term|sex|lang=en}}
 
 ====Derived terms====
 * [[sexet]]
+
+====Relatec terms====
 * [[seksualitet]] {{c}}
 * [[seksuel]]
 
@@ -234,7 +236,13 @@ From English {{term|sex|lang=en}}
 ==Icelandic==
 
 ===Etymology===
-Old Norse
+From {{etyl|non|is}} {{term|sex|lang=non}}.
+
+===Pronunciation===
+* {{IPA|[sɛks]|lang=is}}
+* {{IPA|[sɛxs]|lang=is}}
+* {{IPA|[sɛɣs]|lang=is}} (''regional'')
+*: {{rhymes|ɛks|lang=is}}
 
 ===Number===
 {{infl|is|cardinal number|cardinal, indeclinable}}
@@ -242,13 +250,11 @@ Old Norse
 # [[six]]; the cardinal number after {{term|fimm|lang=is||five}} and before {{term|sjö|lang=is||seven}}.
 
 ====Related terms====
-* {{qualifier|ordinal form}} [[sjötti]] {{m}}, [[sjötta]] {{f|n}}
+* [[sjötti]] (ordinal)
 
 ====Derived terms====
 * [[klukkan sex]]
-
-====See also====
-* [[sexa]] {{pos n}}
+* [[sexa#Icelandic|sexa]]
 
 ----
 
@@ -259,7 +265,7 @@ Old Norse
 * Symbol: '''VI'''
 
 ===Etymology===
-From {{proto|Indo-European|swéḱs|lang=grc}}. Cognates include Sanskrit {{term|षष्|tr=ṣaṣ|lang=sa|sc=Deva}}, Armenian {{term|վեց|sc=Armn|tr=vets}}, Ancient Greek {{term|ἕξ|tr=heks|sc=polytonic|lang=grc}}, and Old English {{term|siex|lang=ang}} (English {{term|six|lang=en}}).
+From {{proto|Indo-European|swéḱs|lang=la}}. Cognates include Sanskrit {{term|षष्|tr=ṣaṣ|lang=sa|sc=Deva}}, Armenian {{term|վեց|sc=Armn|tr=vets}}, Ancient Greek {{term|ἕξ|tr=heks|sc=polytonic|lang=grc}}, and Old English {{term|siex|lang=ang}} (English {{term|six|lang=en}}).
 
 ===Pronunciation===
 * {{a|Classical}} {{IPA|/seks/|lang=la}}
@@ -284,6 +290,28 @@ From {{proto|Indo-European|swéḱs|lang=grc}}. Cognates include Sanskrit {{term
 
 ====See also====
 * [[Appendix:Latin cardinal numerals]]
+
+----
+
+==Old Norse==
+
+===Etymology===
+From {{proto|Germanic|seks|lang=non}}, whence also Old English {{term|siex|lang=ang}} (English {{term|six|lang=en}}), Old Frisian {{term|sex|lang=ofs}}, Old Saxon {{term|seks}}, Middle Dutch {{term|sesse}} (Dutch {{term|zes}}), Old High German {{term|sehs}} (German {{term|sechs}}), Gothic {{term|𐍃𐌰𐌹𐌷𐍃|tr=saihs|sc=Goth}}. Ultimately from {{proto|Indo-European|swéḱs|lang=non}}, cognate with Sanskrit {{term|षष्|tr=ṣaṣ|lang=sa|sc=Deva}}, Armenian {{term|վեց|sc=Armn|tr=vets}}, Ancient Greek {{term|ἕξ|tr=heks|sc=polytonic|lang=grc}}.
+
+===Number===
+{{infl|non|number}}
+
+# [[six]]
+
+====Descendants====
+{{top2}}
+* Danish: [[seks#Danish|seks]]
+* Faroese: [[seks#Faroese|seks]]
+* Icelandic: [[#Icelandic|sex]]
+{{mid2}}
+* Norwegian: [[seks#Norwegian|seks]]
+* Swedish: [[#Swedish|sex]]
+{{bottom}}
 
 ----
 
@@ -327,20 +355,26 @@ From {{proto|Indo-European|swéḱs|lang=grc}}. Cognates include Sanskrit {{term
 ===Pronunciation===
 * {{audio|Sv-sex.ogg|audio}}
 
-===Noun===
-{{infl|sv|noun}}
+===Etymology 1===
+From {{etyl|non|sv}} {{term|sex|lang=non}}.
 
-# [[sex#English|sex]] (intercourse, sexual activity)
-
-===Number===
+====Number====
 {{infl|sv|cardinal number|cardinal}}
 
 # [[six]]
 
-====Derived terms====
+=====Derived terms=====
 * [[sexa]]
 * [[sjätte]]
 * [[sjättedel]]
+
+===Etymology 2===
+From {{etyl|en|sv}} {{term|sex|lang=en}}.
+
+====Noun====
+{{infl|sv|noun}}
+
+# [[#English|sex]] (intercourse, sexual activity)
 
 [[Category:Sex|*]]
 
