@@ -13,12 +13,12 @@ From {{etyl|la}} {{term|nucleus||kernel, core|lang=la}}, a diminutive of {{term|
 ===Noun===
 {{en-noun|pl=nuclei|pl2=nucleuses}}
 
-# {{context|chemistry|physics}} The massive, positively [[charge]]d central part of an [[atom]] made up of [[proton]]s and [[neutron]]s.
-# {{cytology}} A large [[organelle]] found in [[cell]]s which contains [[genetic]] material.
-# The central part (of something), round which others are collected.
-# An [[initial]] part that will receive additions.
+# The [[core]], central part (of something), round which others are assembled.
+# An [[initial]] part or version that will receive additions.
 #: ''This collection will form the '''nucleus''' of a new library.''
-# {{neuroanatomy}} A cluster of many neuronal bodies where synapsing occurs.
+# {{context|chemistry|physics}} The massive, positively [[charge]]d central part of an [[atom]], made up of [[proton]]s and [[neutron]]s.
+# {{cytology}} A large [[organelle]] found in [[cell]]s which contains [[genetic]] material.
+# {{neuroanatomy}} A [[ganglion]], cluster of many neuronal bodies where [[synaps]]ing occurs.
 
 ====Derived terms====
 {{top2}}
@@ -36,12 +36,35 @@ From {{etyl|la}} {{term|nucleus||kernel, core|lang=la}}, a diminutive of {{term|
 * [[nuclide]]
 * [[atomic nucleus]]
 * [[cell nucleus]]
+* [[syllable nucleus]], the central part of a syllable 
+* [[sentence nucleus]], the syllable which receives the greatest stress in a word
 {{bottom}}
 
 ====Translations====
+{{trans-top|core, central part of something}}
+* Croatian: {{t-|hr|jezgra|f|alt=jézgra}}
+* Dutch: [[kern]] {{m}}
+* Finnish: {{t+|fi|ydin}}
+* Greek: {{t+|el|πυρήνας|m|tr=pyrínas|sc=Grek}}
+{{trans-mid}}
+* Japanese: {{t+|ja|核|tr=[[かく]], kaku|sc=Jpan}}
+* Polish: {{t+|pl|jądro|n}}
+* Russian: {{t+|ru|ядро|n|tr=jadró|sc=Cyrl}}, {{t+|ru|центр|m|tr=centr|sc=Cyrl}}
+* Spanish: {{t+|es|núcleo|m}}
+{{trans-bottom}}
+
+{{trans-top|initial part which will receive additions}}
+* Croatian: {{t-|hr|jezgra|f|alt=jézgra}}
+* Dutch: [[kiem]]
+{{trans-mid}}
+* Finnish: {{t+|fi|ydin}}
+* Russian: {{t+|ru|ядро|n|tr=jadró|sc=Cyrl}}
+{{trans-bottom}}
+
 {{trans-top|physics: massive, positively charged core of an atom}}
 * Croatian: {{t-|hr|jezgra|f|alt=jézgra}}
 * Czech: {{t-|cs|jádro|n}}
+* Dutch: [[nucleus]] {{m}}, [[atoomkern]] {{m}}
 * Finnish: {{t+|fi|ydin}}
 * German: {{t+|de|Atomkern|m}}
 * Greek: {{t+|el|πυρήνας|m|tr=pyrínas|sc=Grek}}
@@ -56,6 +79,7 @@ From {{etyl|la}} {{term|nucleus||kernel, core|lang=la}}, a diminutive of {{term|
 {{trans-top|cytology: large organelle found in cells}}
 * Croatian: {{t-|hr|jezgra|f|alt=jézgra}}
 * Czech: {{t-|cs|jádro|n}}
+* Dutch: [[nucleus]] {{m}}
 * Finnish: {{t+|fi|tuma}}
 * German: {{t|de|Zellkern|m}}
 * Greek: {{t+|el|πυρήνας|m|tr=pyrínas|sc=Grek}}
@@ -66,26 +90,9 @@ From {{etyl|la}} {{term|nucleus||kernel, core|lang=la}}, a diminutive of {{term|
 * Spanish: {{t+|es|núcleo|m}}
 {{trans-bottom}}
 
-{{trans-top|central part of something}}
-* Croatian: {{t-|hr|jezgra|f|alt=jézgra}}
-* Finnish: {{t+|fi|ydin}}
-* Greek: {{t+|el|πυρήνας|m|tr=pyrínas|sc=Grek}}
-* Japanese: {{t+|ja|核|tr=[[かく]], kaku|sc=Jpan}}
-{{trans-mid}}
-* Polish: {{t+|pl|jądro|n}}
-* Russian: {{t+|ru|ядро|n|tr=jadró|sc=Cyrl}}, {{t+|ru|центр|m|tr=centr|sc=Cyrl}}
-* Spanish: {{t+|es|núcleo|m}}
-{{trans-bottom}}
-
-{{trans-top|initial part which will receive additions}}
-* Croatian: {{t-|hr|jezgra|f|alt=jézgra}}
-* Finnish: {{t+|fi|ydin}}
-{{trans-mid}}
-* Russian: {{t+|ru|ядро|n|tr=jadró|sc=Cyrl}}
-{{trans-bottom}}
-
 {{trans-top|neuroanatomy: cluster of many neuronal bodies}}
 * Croatian: {{t-|hr|jezgra|f|alt=jézgra}}
+* Dutch: [[nucleus]] {{m}}
 {{trans-mid}}
 * Russian: {{t+|ru|ядро|n|tr=jadró|sc=Cyrl}}
 {{trans-bottom}}
@@ -93,7 +100,6 @@ From {{etyl|la}} {{term|nucleus||kernel, core|lang=la}}, a diminutive of {{term|
 {{checktrans-top}}
 * {{ttbc|Breton}}: [[derc'han]] {{m}} -où {{p}}
 * {{ttbc|Chinese}}: [[原子核]](1)
-* {{ttbc|Dutch}}: [[kern]] {{m}}, [[atoomkern]] {{m}}
 * {{ttbc|German}}: [[Nukleus]] {{m}}, [[Kern]] {{m}}
 * {{ttbc|Icelandic}}: [[kjarni]] {{m}}
 * {{ttbc|Interlingua}}: [[nucleo]]
@@ -109,14 +115,22 @@ From {{etyl|la}} {{term|nucleus||kernel, core|lang=la}}, a diminutive of {{term|
 * {{ttbc|Urdu}}: [[مرکزہ]] (markazzah) {{m}}
 {{checktrans-bottom}}
 
-===See also===
-* {{pedialite|Atomic nucleus}}
-* {{pedialite|Cell nucleus}}
-* {{pedialite|Comet}}
-* {{pedialite|Nucleus (neuroanatomy)}}
-* {{pedialite|Nucleus (linguistics)}}
-
 [[Category:English nouns with irregular plurals]]
+
+----
+
+==Dutch==
+
+===Noun===
+{{nl-noun}}
+
+# [[#English|nucleus]], [[core]]
+
+====Synonyms====
+* [[kern]]
+
+====Related terms====
+* [[nucleair]]
 
 ----
 
