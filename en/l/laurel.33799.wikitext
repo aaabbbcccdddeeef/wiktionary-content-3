@@ -4,7 +4,7 @@
 [[Image:Laurier.jpg|thumb|''Laurus nobilis'']]
 
 ===Etymology===
-Old English ''[[lorel]]'', ''[[laurer]]'', ''[[lorer]]'', Old French ''[[lorier]]'', ''[[laurier]]'', French ''laurier'', (assumed) Late Latin ''[[Laurarius]]'', from Latin ''[[laurus]]''
+{{etyl|ang}} {{term|lorrer|lang=ang}}, from {{etyl|fro}} {{term|laurier|lang=fro}}, from {{etyl|la}} {{term|laurus||laurel|lang=la}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈlɒɹ.əl/|/ˈlɔːɹ.əl/}}
@@ -13,28 +13,31 @@ Old English ''[[lorel]]'', ''[[laurer]]'', ''[[lorer]]'', Old French ''[[lorier]
 *: {{audio|en-us-laurel.ogg|Audio (US)}}
 
 ===Noun===
-'''laurel'''
+{{en-noun}}
 
-# An evergreen shrub, of the genus ''[[Laurus]] (L. nobilis)'', having aromatic leaves of a [[lanceolate]] shape, with clusters of small, yellowish white flowers in their [[axils]]; -- called also sweet bay. The fruit is a purple berry. It is found about the Mediterranean, and was early used by the ancient Greeks to crown the [[victor]] in the games of Apollo. At a later period, academic [[honor]]s were indicated by a crown of laurel, with the fruit. The leaves and tree yield an [[aromatic]] oil, used to flavor the bay water of commerce.
-#: '''Note:''' The name is extended to other plants which in some respect resemble the true laurel.
+# An evergreen shrub, of the genus ''[[Laurus]]'', having aromatic leaves of a [[lanceolate]] shape, with clusters of small, yellowish white flowers in their [[axil]]s.
 # A [[crown]] of laurel; hence, honor; distinction; fame; -- especially in the plural; as, to win laurels.
 # An English gold [[coin]] made in 1619, and so called because the king's [[head]] on it was crowned with laurel
 
 ====Derived terms====
-* [[laurel water]] - water distilled from the fresh leaves of the [[cherry laurel]], and containing [[prussic acid]] and other products carried over in the process
-* [[laurel wreath]], worn on the head as a symbol of victory in ancient Greece and Rome
-* [[American laurel]], [[mountain laurel]] - ''[[Kalmia latifolia]]''. See under [[mountain]]
-* [[California laurel]] - ''[[Umbellularia]]'' californica
-* [[cherry laurel]] - (in England called laurel). See under [[cherry]]
-* [[great laurel]] - the rosebay ''(Rhododendron maximum)''
-* [[ground laurel]] - trailing arbutus
-* [[New Zealand laurel]] - formerly referred to ''[[Laurelia]] novae-zelandiae'' in the family Monimiaceae, now refers to ''[[Corynocarpus]] laevigata'' in family Corynocarpaceae ''(different plants or different names?)''
-* [[Portugal laurel]] - the ''[[Prunus]] Lusitanica''
-* [[rose laurel]] - the [[oleander]]
-* [[sheep laurel]] - a poisonous shrub, ''[[Kalmia]] angustifolia'', smaller than the mountain laurel, and with smaller and redder flowers
-* [[spurge laurel]] - ''[[Daphne]] Laureola''
-* [[West Indian laurel]] - ''[[Prunus]] occidentalis''
+{{top2}}
+* [[laurel water]]
+* [[laurel wreath]]
+* [[American laurel]]
+* [[California laurel]]
+* [[cherry laurel]]
+* [[great laurel]]
+* [[ground laurel]]
+* [[mountain laurel]]
+{{mid2}}
+* [[New Zealand laurel]]
+* [[Portugal laurel]]
+* [[rose laurel]]
+* [[sheep laurel]]
+* [[spurge laurel]]
+* [[West Indian laurel]]
 * [[rest on one's laurels]]
+{{bottom2}}
 
 ====Translations====
 {{trans-top|An evergreen shrub, of the genus ''Laurus''}}
@@ -51,7 +54,7 @@ Old English ''[[lorel]]'', ''[[laurer]]'', ''[[lorer]]'', Old French ''[[lorier]
 * Romanian: [[laur]], [[dafin]]
 * Russian: [[лавр]] (lavr) {{m}}
 * Serbian: [[lovr]], [[zdravić]]
-* Spanish: laurel {{m}}
+* Spanish: {{t|es|laurel|m}}
 * Swedish: [[lager]]
 {{trans-bottom}}
 
@@ -65,14 +68,37 @@ Old English ''[[lorel]]'', ''[[laurer]]'', ''[[lorer]]'', Old French ''[[lorier]
 * Portuguese: [[coroa]] de [[louro]] (Brazil)
 * Romanian: [[lauri]], [[coroană de lauri]]
 * Russian: [[лавровый венок]] (lávrovyj v'enók) {{m}}, [[лавры]] (lávry) {{p}}
-* Spanish: [[laureles]], [[corona de laurel]]
+* Spanish: {{t|es|laureles}}, {{t|es|corona de laurel}}
 * Swedish: [[lagerkrans]]
 {{trans-bottom}}
+
+====Usage notes====
+*The name is extended to other plants which in some respect resemble the true laurel.
 
 ===See also===
 * [[Laurel and Hardy]]
 
 [[Category:Trees]]
+
+----
+==Spanish==
+
+===Etymology===
+{{etyl|fro|es}} {{term|laurier|lang=fro}}, from {{etyl|la|es}} {{term|laurus||laurel|lang=la}}.
+
+===Noun===
+{{es-noun-m|pl=laurales}}
+
+# {{plants|lang=es}} [[#English|laurel]]
+
+====Derived terms====
+*[[laurel alejandrino]]
+*[[laurel cerezo]]
+*[[laurel real]]
+*[[laurel rosa]]
+
+====Related terms====
+*[[laurear]]
 
 [[et:laurel]]
 [[el:laurel]]
