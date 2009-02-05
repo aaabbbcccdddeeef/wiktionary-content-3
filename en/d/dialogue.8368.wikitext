@@ -4,7 +4,7 @@
 * {{italbrac-colon|US and computing}} [[dialog]]
 
 ===Etymology===
-From {{etyl|grc}} [[διάλογος]] (''dialogos'') "conversation, discourse",  from [[διά]] (''dia'') "through, inter"  + [[λόγος]] (''logos'') "speech, oration, discourse", from [[διαλέγωμαι]] (''dialegomai'') "to converse", from [[διά]] + [[λέγειν]] (''legein'') "to speak".
+From {{etyl|grc}} {{term|διάλογος||conversation, discourse|tr=dialogos|lang=grc}}, from {{term|διά||through, inter|tr=dia|lang=grc}} + {{term|λόγος||speech, oration, discourse|tr=logos|lang=grc}}, from {{term|διαλέγωμαι||to converse|tr=dialegomai|lang=grc}}, from {{term|διά|lang=grc}} + {{term|λέγειν||to speak|tr=legein|lang=grc}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈdaɪælɒg/}} {{SAMPA|/"daI{lQg/}}
@@ -24,19 +24,20 @@ From {{etyl|grc}} [[διάλογος]] (''dialogos'') "conversation, discourse",
 
 ====Antonyms====
 * [[monologue]]
+* [[multilogue]]
 
 ====Derived terms====
-{{top2}}
+{{der-top}}
 * [[dialogic]]
 * [[dialogical]]
 * [[dialogically]]
 * [[dialogism]]
-{{mid2}}
+{{der-mid}}
 * [[dialogist]]
 * [[dialogistic]]
 * [[dialogistically]]
 * [[dialogize]]
-{{bottom2}}
+{{der-bottom}}
 
 ====Related terms====
 * [[dialect]]
@@ -65,6 +66,7 @@ From {{etyl|grc}} [[διάλογος]] (''dialogos'') "conversation, discourse",
 {{trans-top|verbal part of a literary or dramatic work}}
 * Croatian: {{t-|hr|dijalog|m|alt=dijàlog}}
 * Czech: {{t-|cs|dialog|m}}
+* Dutch: {{t+|nl|dialoog|m}}
 {{trans-mid}}
 * Japanese: {{t|ja|対話|tr=taiwa|sc=Jpan}}
 * Norwegian: {{t-|no|dialog|m}}
@@ -73,10 +75,16 @@ From {{etyl|grc}} [[διάλογος]] (''dialogos'') "conversation, discourse",
 {{trans-top|literary form resembling a conversation}}
 * Croatian: {{t-|hr|dijalog|m|alt=dijàlog}}
 * Czech: {{t-|cs|dialog|m}}
+* Dutch: {{t+|nl|dialoog|m}}
 * Finnish: {{t+|fi|dialogi}}
 {{trans-mid}}
 * Japanese: {{t|ja|対話形式|tr=taiwa-keishiki|sc=Jpan}}
 * Norwegian: {{t-|no|dialog|m}}
+{{trans-bottom}}
+
+{{trans-top|computing: dialogue box}}
+* Dutch: {{t|l|dialoogvenster|n}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ===Verb===
@@ -84,6 +92,11 @@ From {{etyl|grc}} [[διάλογος]] (''dialogos'') "conversation, discourse",
 
 # {{context|informal|business}} To [[discuss]] or [[negotiate]] so that all parties can reach an [[understand]]ing.
 #: ''Pearson wanted to '''dialogue''' with his overseas counterparts about the new reporting requirements.''
+
+{{trans-top|discuss}}
+* Dutch: {{t|nl|dialogeren}}, {{t|nl|discussiëren}}, {{t|nl|kortsluiten}}
+{{trans-mid}}
+{{trans-bottom}}
 
 [[Category:Talking]]
 
