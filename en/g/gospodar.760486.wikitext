@@ -1,9 +1,12 @@
 ==Croatian==
 
-===Noun===
-{{hr-noun|g=m|gospodari}}
+===Etymology===
+{{suffix|Gospod|ar|lang=hr}}
 
-# [[master]]
+===Noun===
+{{infl|hr|noun|head=gospòdār|g=m}}
+
+# [[master]] (someone who has control over something or someone)
 
 ====Declension====
 {{hr-decl-noun
@@ -16,6 +19,12 @@
 |gospodarom|gospodarima
 }}
 
+====Derived terms====
+* {{l|hr|gospodariti|gospodáriti}}
+
+====Related terms====
+* {{l|hr|gospodaria|gospodàrica}} {{f}}
+
 ----
 
 ==Slovene==
@@ -24,8 +33,6 @@
 {{infl|sl|noun|g=m}}
 
 # [[master]] (someone who has control over something or someone)
-
-{{tbot entry|Slovene|master|2008|April|sl}}
 
 [[hr:gospodar]]
 [[sl:gospodar]]
