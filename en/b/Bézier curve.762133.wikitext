@@ -8,5 +8,11 @@ Popularized by Pierre Bézier.
 
 #A [[cubic]] curve used as a [[spline]], defined by four [[control point]]s, of which two are the ends, and the other two determine the velocity with respect to the [[parameter]] at the ends.
 
+====Translations====
+{{trans-top|a cubic curve used as a spline}}
+* Czech: {{t|cs|Bézierova křivka|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
 [[Category:English eponyms]]
 [[Category:English words spelled with diacritics|bezier curve]]
