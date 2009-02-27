@@ -2,8 +2,8 @@
 ==English==
 
 ===Pronunciation===
-* {{a|RP}} {{IPA|/'məʊdəm/}}, {{SAMPA|/"m@Ud@m/}} ''or'' {{IPA|/'məʊdɛm/}}, {{SAMPA|/"m@UdEm/}}
-* {{a|US}} mō'dəm, {{IPA|/'mɔʊdəm/}}, {{SAMPA|/"mOUd@m/}} ''or'' mō'dĕm, {{IPA|/'mɔʊdɛm/}}, {{SAMPA|/"mOUdEm/}}
+* {{a|RP}} {{IPA|/ˈməʊdəm/}}, {{SAMPA|/"m@Ud@m/}} ''or'' {{IPA|/ˈməʊdɛm/}}, {{SAMPA|/"m@UdEm/}}
+* {{a|US}} mō'dəm, {{IPA|/ˈmɔʊdəm/}}, {{SAMPA|/"mOUd@m/}} ''or'' mō'dĕm, {{IPA|/ˈmɔʊdɛm/}}, {{SAMPA|/"mOUdEm/}}
 
 ===Etymology===
 {{acronym}} modulator-demodulator
@@ -42,7 +42,7 @@ For reference see Stockwell, R. and Minkova, D. (2001) 'English Words: History a
 ==Dutch==
 
 ===Pronunciation===
-* {{IPA|/'moːdəm/|lang=nl}} ''or'' {{IPA|/'moːdɛm/|lang=nl}}
+* {{IPA|/ˈmoːdəm/|lang=nl}} ''or'' {{IPA|/ˈmoːdɛm/|lang=nl}}
 
 ===Etymology===
 English '''[[#English|modem]]'''
@@ -66,19 +66,43 @@ English '''[[#English|modem]]'''
 {{fr-noun|m}}
 
 # [[#English|modem]]
+----
+==Polish==
+
+===Pronunciation===
+* {{IPA|/ˈmɔd̪ɛm/|lang=pl}}
+
+===Noun===
+{{infl|pl|noun|g=m}}
+
+# [[#English|modem]]
+
+====Declension====
+{{pl-decl-noun
+|modem|modemy
+|modemu|modemów
+|modemowi|modemom
+|modem|modemy
+|modemem|modemami
+|modemie|modemach
+|modemie|modemy
+}}
+
+====Derived terms====
+*[[modemowy]]
 
 ----
 
 ==Spanish==
 
 ===Pronunciation===
-* {{IPA|/'moðem/|lang=es}}
+* {{IPA|/ˈmoðem/|lang=es}}
 
 ===Etymology===
 English '''[[#English|modem]]'''
 
 ===Noun===
-'''modem''' {{m}}
+{{infl|es|noun|g=m}}
 
 # [[#English|modem]]
 
@@ -92,7 +116,7 @@ English '''[[#English|modem]]'''
 English '''[[#English|modem]]'''
 
 ===Noun===
-'''modem''' {{n}} (''plural'' '''modem''', ''definite singular'' '''[[modemet]]''', ''definite plural'' '''[[modemen]]''')
+{{infl|sv|noun|g=n}} (''plural'' '''modem''', ''definite singular'' '''[[modemet]]''', ''definite plural'' '''[[modemen]]''')
 
 # [[#English|modem]]
 
@@ -101,14 +125,14 @@ English '''[[#English|modem]]'''
 ==Vietnamese==
 
 ===Pronunciation===
-* {{IPA|/'modem/|lang=vi}}
+* {{IPA|/ˈmodem/|lang=vi}}
 * Vietnamese transliteration: mô-đêm
 
 ===Etymology===
 English '''[[modem#English|modem]]'''
 
 ===Noun===
-'''modem''' ''m''
+{{infl|vi|noun|g=m}}
 
 # [[#English|modem]]
 
