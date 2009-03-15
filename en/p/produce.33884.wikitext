@@ -77,25 +77,35 @@
 
 # Items produced.
 # Amount produced.
-# Harvested agricultural goods.
+# Harvested agricultural goods collectively, especially vegetables and fruit.
 #: ''This grocery store sells some wonderful fresh '''produce''' as well as dried, canned, and frozen fruit and vegetables.''
+# [[offspring|Offspring]]
 # {{Australia}} Livestock and pet food supplies.
+
 ====Synonyms====
 * {{sense|items produced}} [[product]]s
 
 ====Translations====
 {{trans-top|items produced}}
 * Dutch: {{t-|nl|produkt|n}}
-* Finnish: [[tuotteet]] (''plural'')
+* Finnish: {{t|fi|tuotanto}}, {{t|fi|tuote|alt=tuotteet|p}}
 {{trans-mid}}
 * German: {{t+|de|Produkt|n}}
 * [[Telugu]]: [[ఉత్పత్తి]] (utpatti)
 {{trans-bottom}}
 
-{{trans-top|fruit and vegetables for sale}}
-* Dutch: {{t+|nl|waar|f}}, {{t+|nl|waren|f|p}}
+{{trans-top|amount produced}}
+* Finnish: {{t|fi|tuotanto}}
 {{trans-mid}}
 {{trans-bottom}}
+
+{{trans-top|harvested agricultural goods collectively}}
+* Dutch: {{t+|nl|waar|f}}, {{t+|nl|waren|f|p}}
+* Finnish: {{t|fi|tuotteet|p}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|offspring]]
 
 {{checktrans-top}}
 * {{ttbc|Spanish}}: [[producto]]
