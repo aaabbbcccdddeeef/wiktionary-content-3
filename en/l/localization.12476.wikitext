@@ -19,15 +19,18 @@ From [[localize]] + [[-ation]]; compare French ''[[localisation#French|localisat
 * [[cerebral localization]]
 
 ====Related terms====
-* [[internationalization]] / [[i18n]]
+* [[locale]]
+* [[localism]]
+* [[locality]]
+* [[locate]]
 
 ====Translations====
 {{trans-top|act of localizing}}
 * Dutch: {{t|nl|localisatie|f}}
 * Finnish: {{t+|fi|lokalisoida}}, {{t+|fi|kotoistaa}}
-* Greek: {{t+|el|εντοπισμός|m|sc=Grek}} (entopismós)
+* Greek: {{t+|el|εντοπισμός|m|sc=Grek}} (''entopismós'')
 {{trans-mid}}
-* Japanese: {{Jpan|[[局在化]]}} ({{Jpan|[[きょくざいか]]}}, kyokuzaika), {{Jpan|[[局所化]]}} ({{Jpan|[[きょくしょか]]}}, kyokushoka), {{Jpan|[[地方化]]}} ({{Jpan|[[ちほうか]]}}, chihōka)
+* Japanese: {{Jpan|[[局在化]]}} ({{Jpan|[[きょくざいか]]}}, ''kyokuzaika''), {{Jpan|[[局所化]]}} ({{Jpan|[[きょくしょか]]}}, ''kyokushoka''), {{Jpan|[[地方化]]}} ({{Jpan|[[ちほうか]]}}, ''chihōka'')
 * Norwegian: {{t-|no|lokalisering|f}}
 * Russian: {{t+|ru|локализация|sc=Cyrl}}
 {{trans-bottom}}
@@ -40,15 +43,15 @@ From [[localize]] + [[-ation]]; compare French ''[[localisation#French|localisat
 {{trans-bottom}}
 
 {{trans-top|software engineering: act or process of making a product suitable for use in a particular country or region}}
-* Greek: {{t|el|τοπικοποίηση|f|sc=Grek}} (topikopoíisi)
-* Japanese: {{t-|ja|ローカライゼーション|tr=rōkaraizu|sc=Jpan}}
+* Dutch: landelijke aanpassing
+* Greek: {{t|el|τοπικοποίηση|f|sc=Grek}} (''topikopoíisi'')
+* Japanese: {{t-|ja|ローカライゼーション|tr=''rōkaraizu''|sc=Jpan}}
 {{trans-mid}}
 * Russian: [[локализация]]
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|Chinese}}: [[地方化]] (difang-hua)
-* {{ttbc|Dutch}}: {{t|nl|localisatie|f}}
+* {{ttbc|Chinese}}: [[地方化]] (''difang-hua'')
 * {{ttbc|French}}: {{t+|fr|localisation|f}}
 * {{ttbc|German}}: [[Lokalisation]]
 * {{ttbc|Italian}}: [[localizzazione]]
@@ -60,6 +63,9 @@ From [[localize]] + [[-ation]]; compare French ''[[localisation#French|localisat
 * {{ttbc|Spanish}}: [[localización]]
 * {{ttbc|Turkish}}: [[Bölge]]
 {{trans-bottom}}
+
+====See also====
+* [[internationalization]] / [[i18n]]
 
 [[fr:localization]]
 [[id:localization]]
