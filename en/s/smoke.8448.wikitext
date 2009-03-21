@@ -24,8 +24,8 @@ Old English ''[[smoca]]''
 # {{uncountable}} A light grey colour/color tinted with blue.
 #: {{colour panel|D6E2E2}}
 # {{military|uncountable}} A [[particulate]] of [[solid]] or [[liquid]] particles dispersed into the air on the [[battlefield]] to degrade enemy ground or for [[aerial]] observation. Smoke has many uses--[[smokescreen|screening smoke]], [[signal]]ing smoke, smoke [[curtain]], smoke [[haze]], and smoke [[deception]]. Thus it is an artificial [[aerosol]].
-# {{UK|slang}} ('''The Smoke''') [[London]]
 # {{baseball|slang}} A [[fastball]].
+# {{UK|slang}} ('''The Smoke''') [[London]]
 
 ====Synonyms====
 * {{i-c|cigarette}} [[cig]], [[ciggy]], [[cancer stick]], [[fag]] {{italbrac|UK|Australia}}
@@ -64,7 +64,7 @@ Old English ''[[smoca]]''
 {{rel-bottom}}
 
 ====Translations====
-{{trans-top|particles and vapour given off by burning material}}
+{{trans-top|visible particles and vapour given off by burning material}}
 * {{trreq|Afrikaans}}
 * Albanian: {{t-|sq|tym|m|xs=Albanian}}
 * Arabic: {{Arab|[[دخان]]}} {{unicode|(duχán)}}
@@ -142,16 +142,8 @@ Old English ''[[smoca]]''
 * {{trreq|Yiddish}}
 {{trans-bottom}}
 
-{{trans-top|an instance of smoking}}
-* Finnish: {{t-|fi|savut|p}}
-* Hebrew: {{t|he|עישון|m|tr=i'shun|sc=Hebr}}
-{{trans-mid}}
-* Kurdish: {{KUchar|[[جگه‌ره‌ کێشان]]}}
-* Russian: {{t+|ru|курение|n|tr=kurénije|sc=Cyrl}}
-{{trans-bottom}}
-
-{{trans-top|slang: a cigarette}}
-<!--Note: add SLANG terms to this table, where these exist-->
+{{trans-top|colloquial: cigarette}}
+<!--Note: add COLLOQUIAL terms to this table, where these exist-->
 * Bulgarian: [[цигара]] (tsigara) {{f}}
 * Dutch: {{t+|nl|sigaret|f}}
 * Estonian: [[suits]], [[pläru]], [[tobi]], [[kiur]], [[kaur]]
@@ -172,8 +164,26 @@ Old English ''[[smoca]]''
 * Welsh: [[mwgyn]]
 {{trans-bottom}}
 
+{{trans-top|colloquial: instance of smoking}}
+* Finnish: {{t-|fi|savut|p}}
+* Hebrew: {{t|he|עישון|m|tr=i'shun|sc=Hebr}}
+{{trans-mid}}
+* Kurdish: {{KUchar|[[جگه‌ره‌ کێشان]]}}
+* Russian: {{t+|ru|курение|n|tr=kurénije|sc=Cyrl}}
+{{trans-bottom}}
+
+{{trans-top|figurative: fleeting illusion}}
+* Finnish: {{t|fi|harha}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|something used to obscure or conceal}}
+* Finnish: {{t|fi|savuverho}}, {{t|fi|sumutus}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|colour}}
-* Finnish: [[savunharmaa]]
+* Finnish: {{t|fi|savunharmaa}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -181,6 +191,8 @@ Old English ''[[smoca]]''
 * Finnish: {{t+|fi|savu}}, {{t-|fi|savuverho}}
 {{trans-mid}}
 {{trans-bottom}}
+
+{{trans-see|baseball slang:fastball|fastball}}
 
 ===Verb===
 {{en-verb|smokes|smoking|smoked}}
