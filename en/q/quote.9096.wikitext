@@ -1,6 +1,9 @@
 {{also|Quote}}
 ==English==
 
+===Etymology===
+Recorded since 1387 "to mark (a book) with chapter numbers or marginal references", from {{etyl|fro}} [[coter]], from Medieval Latin [[quotare]] "to distinguish by numbers, number chapters," from {{etyl|la}}  [[quotus]] "which, what number (in sequence)," from [[quot]] "how many" (related to [[quis]] "who"). The sense developped via "to give as a reference, to cite as an authority" to "to copy out exact words" (since 1680); the business sense "to state the price of a commodity" (1866) revives the etymological meaning. The noun, in the sense of "quotation," is attested from 1885.
+
 ===Pronunciation===
 * {{IPA|/kwəʊt/}}
 * {{audio|en-us-quote.ogg|Audio (US)}}
@@ -10,13 +13,31 @@
 ===Verb===
 {{en-verb|quotes|quoting|quoted}}
 
-# To refer to a statement that has been made by someone else.
-# To prepare a summary of work to be done and set a price.
-# {{context|Commerce}} To name the current price of.
+# {{transitive}} To [[refer]] to (part of) a statement that has been made by someone else.
+# {{transitive}} To prepare a [[summary]] of work to be done and set a [[price]].
+# {{context|Commerce}} {{transitive}} To [[name]] the current price, notably of a financial security.
+# {{intransitive}} To indicate verbally or by equivalent signs that a quotation is starting
+
+====Synonyms====
+* [[cite]]
+
+====Antonyms====
+* [[unquote]]
+
+====Derived terms====
+* [[quotable]]
+* [[misquote]]
+
+====Related terms====
+* [[quota]]
+* [[quotation]]
+* [[quotidian]]
+* [[quotient]]
 
 ====Translations====
 {{trans-top|to refer to a statement that has been made by someone else}}
 * Czech: {{t-|cs|citovat}}
+* Dutch: [[aanhalen]], [[citeren]]
 * Estonian: {{t-|et|osundama}}
 * Finnish: {{t+|fi|lainata}}
 {{trans-mid}}
@@ -24,62 +45,60 @@
 * Polish: {{t|pl|cytować}}
 {{trans-bottom}}
 
-{{trans-top|to name the current price of a financial security}}
+{{trans-top|to prepare a [[summary]] of work to be done and set a [[price}}
+* Dutch: een bestek [[opmaken]], een (prijs)offerte doen
+{{trans-bottom}}
+
+{{trans-top|to name the current price }}
 * Czech: {{t-|cs|kótovat}}, {{t-|cs|kotovat}}
 {{trans-mid}}
+* Dutch: [[quoteren]]
 {{trans-bottom}}
+
 {{checktrans-top}}
 <!--added {{ttbc}}s here.-->
 * {{ttbc|Spanish}}: [[citar]]
 * {{ttbc|Portuguese}}: [[citar]]
-* {{ttbc|Dutch}}: [[citaat]]
 {{trans-bottom}}
 
 ===Noun===
 {{en-noun}}
 
-# A [[statement]] attributed to [[someone]] else.
+# A [[quotation]], [[statement]] attributed to [[someone]] else.
 # A [[quotation mark]].
-# A summary of work to be done with a set price.
-# A [[quotation]].
+# A [[summary]] of work to be done with a set price.
+#:''After going over the hefty '''quotes''', the board decided it was cheaper to have the project executed by its own staff
 
 ====Usage notes====
 {{unreferenced}}
-In technically accurate English, "quote" is not a noun&mdash;it is a verb.  For meanings 1, 3, 4 above use "quotation"; for 2 use "quotation mark".  "Quote" has seen common use for well over a hundred years, however, so if you misuse it you are still likely to be understood and are unlikely to be corrected except in a highly formal or academic context.
+In a technical sense, "quote" is not a noun but a verb. "a Quote" has seen common use for well over a hundred years, however, so if you (mis)use it you are still likely to be understood and are unlikely to be corrected except in a highly formal or academic context.
+
+===Derived terms===
+* [[pull-quote]]
 
 ====Translations====
 {{trans-top|a statement attributed to someone else}}
+* Dutch: [[citaat]] {{n}}, (tekst)[[aanhaling]]
 * Estonian: {{t-|et|osundus}}
-* Polish: {{t+|pl|cytat}}
 {{trans-mid}}
+* Polish: {{t+|pl|cytat}}
 * Russian: [[цитата]], [[фраза]]
 {{trans-bottom}}
 
 {{trans-top|a quotation mark}}
-* Polish: {{t+|pl|cudzysłów}}
+* Dutch: [[aanhalingsteken]]
 {{trans-mid}}
+* Polish: {{t+|pl|cudzysłów}}
 {{trans-bottom}}
 
 {{trans-top|a summary of work to be done with a set price}}
+* Dutch: [[bestek]] {{n}}, (prijs)[[offerte]], [[prijsopgave]]
 {{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|a quotation}}
-* Estonian: {{t-|et|osundus}}
-* Polish: {{t+|pl|cytat}}
-{{trans-mid}}
-* Russian: [[цитата]]
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|French}}: [[citation]]
-* {{ttbc|Dutch}}: [[citaat]]
+* {{ttbc|French}}: [[citation]], [[devis]] {{m}}
 {{checktrans-bottom}}
-
-===Derived terms===
-* [[pull-quote]]
-* [[quotable]]
-* [[quotation]]
 
 ===External links===
 * [[wikiquote:|Wikiquote]]
@@ -89,7 +108,6 @@ In technically accurate English, "quote" is not a noun&mdash;it is a verb.  For 
 
 ===See also===
 * [[attest]]
-* [[cite]]
 * [[w:MSRP|MSRP]]
 * [[w:invoice|invoice]].
 
