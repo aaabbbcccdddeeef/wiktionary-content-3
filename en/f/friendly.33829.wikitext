@@ -11,12 +11,13 @@
 {{en-adj}}
 
 # Generally warm, approachable and easy to relate with in character.
+#:Pets must be '''friendly''', working animals rather obedient
 # Inviting, characteristic of friendliness.
 #: ''He gave a '''friendly''' smile.''
-#: '''a''' Having an easy relationship with something, as in user-friendly etc.
-#: '''b''' Without any relationship based on negativity, as in friendly competition.
-# {{military}} Of or pertaining to friendlies (''friendly'' noun sense 2, below). Also applied to other bipolar confrontations, such as team sports
-#: ''The soldier was killed by [[friendly fire|'''friendly''' fire]].
+# Having an [[easy]] relationship with something, as in user-friendly etc.
+# Without any [[hostility]], as in friendly competition.
+# {{military}} Of or pertaining to [[friendlies]] (''friendly'' noun sense 2, below). Also applied to other bipolar confrontations, such as team sports
+#: ''The soldier was killed by '''friendly''' fire]].
 
 ====Antonyms====
 * [[unfriendly]]
@@ -25,6 +26,7 @@
 * [[friendliness]]
 * [[friendly fire]]
 * [[Friendly Islands]]
+* [[user-friendly]]
 
 ====Translations====
 {{trans-top|warm, approachable}}
@@ -36,7 +38,7 @@
 * German: {{t+|de|freundlich}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|barátságos}}
-* Japanese: {{t-|ja|親切な|tr=shinsetsuna|sc=Jpan}}, {{t|ja|愛想のよい|tr=aisō no yoi|sc=Jpan}}, {{t|ja|人当たりのよい|tr=hitoatari no yoi|sc=Jpan}},
+* Japanese: {{t-|ja|親切な|tr=''shinsetsuna''|sc=Jpan}}, {{t|ja|愛想のよい|tr=''aisō no yoi''|sc=Jpan}}, {{t|ja|人当たりのよい|tr=''hitoatari no yoi''|sc=Jpan}},
 * Polish: [[przyjazny]] {{m}}, [[przyjazna]] {{f}}, [[przyjazne]] {{n}}
 * Romanian: {{t-|ro|prietenos}}
 * Swedish: {{t+|sv|vänlig}}
@@ -50,18 +52,22 @@
 * French: {{t+|fr|amical|m}}, {{t+|fr|amicale|f}}, {{t+|fr|aimable|m|f}}, {{t+|fr|gentil|m}}, {{t+|fr|gentille|f}}
 {{trans-mid}}
 * German: {{t+|de|freundlich}}
-* Japanese: {{t|ja|気さくな|tr=kisakuna|sc=Jpan}}, {{t|ja|友好的な|tr=yūkōtekina|sc=Jpan}}
+* Japanese: {{t|ja|気さくな|tr=''kisakuna''|sc=Jpan}}, {{t|ja|友好的な|tr=''yūkōtekina''|sc=Jpan}}
 * Polish: [[przyjazny]] {{m}}, [[przyjazna]] {{f}}, [[przyjazne]] {{n}}
 * Swedish: {{t+|sv|vänlig}}
 {{trans-bottom}}
 
-{{trans-top|military sense}}
+{{trans-top|without hostility}}
+* Dutch: [[vriendschappelijk]]
+{{trans-bottom}}
+
+{{trans-top|pertaining to friendlies in the conflict sense}}
 * Dutch: {{t+|nl|bevriend}}
 * Finnish: {{t+|fi|oma}}
 * French: {{t+|fr|allié|m}}, {{t+|fr|alliée|f}}
 {{trans-mid}}
 * Hungarian: {{t-|hu|baráti}}
-* Japanese: {{t-|ja|味方|tr=mikata|sc=Jpan}}の (''adnominal'')
+* Japanese: {{t-|ja|味方|tr=''mikata''|sc=Jpan}}の (''adnominal'')
 * Polish: [[przyjazny]] {{m}}, [[przyjazna]] {{f}}, [[przyjazne]] {{n}}
 {{trans-bottom}}
 
@@ -91,8 +97,9 @@
 ===Noun===
 {{en-noun|friendlies}}
 
-# {{sport}} A game which is of no consequence in terms of ranking, betting etc.
-# Entity on the same side of a conflict.
+# {{sport}} A [[game]] which is of no consequence in terms of ranking, betting etc.
+#:''Even as '''friendlies''', derbies soften arouse string emotions
+# Person or entity on the same side of a conflict.
 
 ====Translations====
 {{trans-top|(''sports'') game}}
@@ -100,8 +107,8 @@
 * Finnish: [[ystävyysottelu]]
 * German: {{t+|de|Freundschaftsspiel|n}}
 {{trans-mid}}
-* Greek: {{t|el|φιλικός|m|sc=Grek}} (filikós)
-* Japanese: {{t|ja|親善試合|tr=shinzenjiai|sc=Jpan}}, {{t|ja|フレンドシップマッチ|tr=furendoshippu macchi|sc=Jpan}}
+* Greek: {{t|el|φιλικός|m|sc=Grek}} (''filikós'')
+* Japanese: {{t|ja|親善試合|tr=''shinzenjiai''|sc=Jpan}}, {{t|ja|フレンドシップマッチ|tr=''furendoshippu macchi''|sc=Jpan}}
 * Swedish: [[träningsmatch]] {{c}}, [[vänskapsmatch]] {{c}}
 {{trans-bottom}}
 
@@ -109,7 +116,7 @@
 * Dutch: [[bevriende]] (partij/soldaat etc.), [[bondgenoot]] {{m}}
 * Finnish: {{t+|fi|oma}}
 {{trans-mid}}
-* Japanese: {{t-|ja|味方|tr=mikata|sc=Jpan}}
+* Japanese: {{t-|ja|味方|tr=''mikata''|sc=Jpan}}
 {{trans-bottom}}
 
 {{checktrans-top}}
