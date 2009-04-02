@@ -18,6 +18,7 @@ From {{etyl|la}} ''[[continuus]]'', from ''[[continere]]'', â€˜to hold togetherâ
 #* ''a continuous line of railroad''
 # {{botany}} Not [[deviate|deviating]] or [[vary]]ing from [[uniformity]]; not interrupted; not joined or articulated.
 # {{analysis}} Of a [[map]], having the mathematical property that has the following formal <math>\epsilon</math>-<math>\delta</math>-definition: Given <math>I,D\subset\mathbb{R}</math> (''I'' and ''D'' are subsets of the [[real numbers]]), continuity of <math>f(x):I \to D</math> (<math>f(x)</math> maps the [[interval]] ''I'' to the interval ''D'') at <math>c\in\mathbb{R}</math> means, for all <math>\varepsilon>0</math>, there exists a <math>\delta>0</math> such that <math>|x-c|<\delta</math> and <math>x\in I</math> [[implies]] <math>|f(x)-f(c)|<\varepsilon</math>.
+#* ''A <b>continuous</b> function from the real line to the rationals is not possible unless the function is constant. This is because continuous functions preserve connectedness and the real line is connected, whereas the set of rationals is totally disconnected: the only subset of rationals that is connected is a singleton.''
 # {{grammar}} Expressing an ongoing action or state.
 
 ====Usage notes====
