@@ -1,22 +1,21 @@
-{{wikipedia|mul=Pawn (chess)}}
 ==English==
-[[Image:Chess pawn 0968.jpg|thumb|A pawn (chess)]]
-
+{{wikipedia|mul=Pawn (chess)}}
 ===Pronunciation===
 * {{IPA|/pɔːn/}}
 * {{rhymes|ɔːn}}
 
-===Noun===
+===Etymology 1===
+[[Image:Chess pawn 0968.jpg|thumb|A pawn (chess)]]
+From {{etyl|xno}} {{term|paun}}, {{term|poun||pawn, pedestrian}} ( = Old French {{term|poon}}, {{term|paon}}), from {{LL.}} {{term|pedo|pedo(n-)|footsoldier}}, from {{etyl|la}} {{term|pes|pēs, ped-|foot}}.
+
+====Noun====
 {{en-noun}}
 
 # {{chess}} The most common [[chess]] piece, each side having eight.  Moves are only [[forward]]; [[attack]]s are only forward diagonally or [[en passant]].
 # {{colloquial}}: Someone who is being [[manipulate]]d or used to some end, usually not the end that individual would prefer.
 #: Though a '''pawn''' of the gods, her departure is the precipitating cause of the Trojan War.
-# A type of [[shop]] that allows someone to buy and sell used items.
-# An item sold to a pawn shop.
-# An instance of selling to a pawn shop.
 
-====Translations====
+=====Translations=====
 {{trans-top|chess piece}}
 * Armenian: {{t-|hy|զինվոր|tr=zinvor|sc=Armn|xs=Armenian}}
 * Bosnian: {{t-|bs|pješak|m}}, {{t-|bs|pion|m}}
@@ -62,7 +61,47 @@
 * Swedish: {{t+|sv|bonde|c}}
 {{trans-bottom}}
 
-{{trans-top|type of shop}}
+{{checktrans-top}}
+* {{ttbc|Romanian}}: [[pion]] ''m''
+{{trans-bottom}}
+
+====Verb====
+{{en-verb}}
+
+# {{video games}} To render one's opponent a mere pawn, especially in a [[real-time strategy]] games.
+
+===Etymology 2===
+From {{etyl|frm}} {{term|pan||pledge, security}}, apparently from a Germanic language (compare Middle Dutch {{term|pant|lang=dum}}, Old High German {{term|pfant}}).
+
+====Noun====
+{{en-noun}}
+
+# The state of being held as [[security]] for a loan, or as a pledge.
+#:''All our jewelery was in '''pawn''' by this stage.''
+# An instance of pawning something.
+# {{context|now|_|rare}} An item given as [[security]] on a loan, or as a pledge.
+#*'''1621''', Robert Burton, ''The Anatomy of Melancholy'', New York 2001, p. 106:
+#*:Brokers, takers of '''pawns''', biting userers, I will not admit; yet [...] I will tolerate some kind of usery.
+# {{rare}} A [[pawn shop]], [[pawnbroker]].
+
+=====Translations=====
+{{trans-top|instance of pawning something}}
+* Dutch: [[verpanding]] {{f}}
+* Finnish: [[panttaus]]
+{{trans-mid}}
+* German: [[Verpfändung]] {{f}}
+* Norwegian: {{t-|no|pantsette}}
+{{trans-bottom}}
+
+{{trans-top|item sold to a pawn shop}}
+* Dutch: {{t-|nl|pand|n}}
+* French: {{t+|fr|occasion|f}}
+{{trans-mid}}
+* German: {{t+|de|Pfand|n}}
+* Norwegian: {{t+|no|pant|n}}
+{{trans-bottom}}
+
+{{trans-top|(rare) type of shop}}
 * Dutch: [[pandjes]], [[pandjeshuis]] {{n}}
 * Esperanto: {{t-|eo|garantipruntejo|xs=Esperanto}}, {{t-|eo|lombardejo|xs=Esperanto}}
 * German: [[Pfandleiher]] {{m}}
@@ -74,45 +113,23 @@
 * Spanish: {{t-|es|casa de empeños|m}}
 {{trans-bottom}}
 
-{{trans-top|item sold to a pawn shop}}
-* Dutch: {{t-|nl|pand|n}}
-* French: {{t+|fr|occasion|f}}
-{{trans-mid}}
-* German: {{t+|de|Pfand|n}}
-* Norwegian: {{t+|no|pant|n}}
-{{trans-bottom}}
-
-{{trans-top|instance of selling to a pawn shop}}
-* Dutch: [[verpanding]] {{f}}
-* Finnish: [[panttaus]]
-{{trans-mid}}
-* German: [[Verpfändung]] {{f}}
-* Norwegian: {{t-|no|pantsette}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* {{ttbc|Romanian}}: [[pion]] ''m''
-{{trans-bottom}}
-
-===Verb===
+====Verb====
 {{en-verb}}
 
-# to sell something to a pawn shop.
-# {{video games}} to render one's opponent as a mere pawn, especially in a [[real-time strategy]] games
+# To [[pledge]]; to [[stake]] or [[wager]].
+# To give as [[security]] on a loan of money; especially, to deposit (something) at a pawn shop.
 
-====Synonyms====
-* (''to sell something at a pawn shop''): [[hock]]
+=====Synonyms=====
+* (''to deposit at a pawn shop''): [[hock]]
 
-====Translations====
-{{trans-top|to sell something to a pawn shop}}
+=====Translations=====
+{{trans-top|give as security for loan}}
 * Dutch: {{t+|nl|verpanden}}
 * German: {{t-|de|verpfänden}}
 {{trans-mid}}
 * Romanian: {{t-|ro|a amaneta}}
 * Spanish: {{t-|es|empeñar}}
 {{trans-bottom}}
-
-[[Category:Chess]]
 
 [[zh-min-nan:pawn]]
 [[et:pawn]]
