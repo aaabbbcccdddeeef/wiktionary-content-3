@@ -8,7 +8,7 @@
 * {{audio|en-us-apostrophe.ogg|Audio (US)}}
 
 ===Etymology 1===
-From {{etyl|fr}} {{term|apostrophe|lang=fr}}, or {{etyl|la}} {{term|apostrophus|lang=la}}, from {{etyl|el}} {{term|απόστροφος||accent of elision|lang=grc|tr=apostrophos}}, a noun use of an adjective from {{term|αποστρέφειν||turn away|lang=grc|tr=apostrephein}}.
+From {{etyl|fr}} {{term|apostrophe|lang=fr}}, or {{etyl|la}} {{term|apostrophus|lang=la}}, from {{etyl|grc}} {{term|ἀπόστροφος||accent of elision|lang=grc|tr=apostrophos|sc=Polytonic}}, a noun use of an adjective from {{term|ἀποστρέφω||I turn away|lang=grc|tr=apostrephō|sc=Polytonic}}.
 
 ====Alternative spellings====
 * [[apostrophë]]
@@ -21,6 +21,7 @@ From {{etyl|fr}} {{term|apostrophe|lang=fr}}, or {{etyl|la}} {{term|apostrophus|
 =====Translations=====
 {{trans-top|the character ’}}
 * Albanian: {{t+|sq|apostrof|m|xs=Albanian}}
+* Armenian: {{t|hy|ապաթարց|sc=Armn|tr=apat’arc’}}
 * Bosnian: {{t-|bs|apostrof|m}}
 * Bulgarian: {{t-|bg|апостроф|m|sc=Cyrl}}
 * [[Catalan]]: [[apòstrof]] {{m}}
@@ -60,7 +61,7 @@ From {{etyl|fr}} {{term|apostrophe|lang=fr}}, or {{etyl|la}} {{term|apostrophus|
 * {{pedia}}
 
 ===Etymology 2===
-From {{etyl|la}} {{term|apostrophe|lang=la}}, from {{etyl|grc}} {{term|ἀποστροφή|sc=polytonic}}, from {{term|ἀποστρέφειν||turn away|sc=polytonic}}, from {{term|ἀπό|sc=polytonic}} + {{term|στρέφειν||turn|sc=polytonic}}.
+From {{etyl|la}} {{term|apostrophe|lang=la}}, from {{etyl|grc}} {{term|ἀποστροφή|sc=polytonic}}, from {{term|ἀποστρέφω||I turn away|sc=Polytonic}}, from {{term|ἀπό|sc=Polytonic}} + {{term|στρέφω||I turn|sc=Polytonic}}.
 
 ====Noun====
 {{en-noun}}
@@ -97,22 +98,26 @@ From {{etyl|la}} {{term|apostrophe|lang=la}}, from {{etyl|grc}} {{term|ἀποσ
 
 ==French==
 
-{{rfc|which sense of apostrophe?  both?  Then also different etymologies?}}
-
-===Etymology===
-From {{etyl|la|fr}} {{term|apostrophus|lang=la}}, from {{etyl|el|fr}} {{term|απόστροφος|lang=el}}
-
-{{rfe|el or grc?  Transliterations}}
-
 ===Pronunciation===
 * {{audio|Fr-apostrophe.ogg|Audio}}
 
-===Noun===
+===Etymology 1===
+From {{etyl|la|fr}} {{term|apostrophus|lang=la}}, from {{etyl|grc|fr}} {{term|ἀπόστροφος||accent of elision|lang=grc|tr=apostrophos|sc=Polytonic}}, a noun use of an adjective from {{term|ἀποστρέφω||I turn away|lang=grc|tr=apostrephō|sc=Polytonic}}.
+
+====Noun====
 {{fr-noun|f}}
 
-# [[#English|apostrophe]]
+# {{orthography|lang=fr}} [[#English|apostrophe]]
 
-====Related terms====
+===Etymology 2===
+From {{etyl|la|fr}} {{term|apostrophe|lang=la}}, from {{etyl|grc|fr}} {{term|ἀποστροφή|sc=polytonic}}, from {{term|ἀποστρέφω||I turn away|sc=Polytonic}}, from {{term|ἀπό|sc=Polytonic}} + {{term|στρέφω||I turn|sc=Polytonic}}.
+
+====Noun====
+{{fr-noun|f}}
+
+# {{rhetoric|lang=fr}} [[#English|apostrophe]]
+
+=====Related terms=====
 * [[apostropher]]
 
 [[et:apostrophe]]
