@@ -410,10 +410,10 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 
 ====Translations====
 {{trans-top|sucrose from sugar cane or sugar beet and used to sweeten food and drink}}
-* [[Adyghe]]: {{t|ady|шъоущыгъу|tr=š’ouščyg"u}}
+* [[Adyghe]]: {{tø|ady|шъоущыгъу|tr=š’ouščyg"u|sc=Cyrl|xs=Adyghe}}
 * Albanian: {{t-|sq|sheqer|m|xs=Albanian}}
 * Armenian: {{t+|hy|շաքար|tr=šak’ar|sc=Armn|xs=Armenian}}
-* Bengali: {{t-|bn|চিনি|tr=cini|sc=Beng}}
+* Bengali: {{t-|bn|চিনি|tr=cini|sc=Beng|xs=Bengali}}
 * Bulgarian: {{t+|bg|захар|m|tr=záhar|sc=Cyrl}}
 * [[Catalan]]: {{t-|ca|sucre|m}}
 * Chinese: [[糖]] (táng)
@@ -421,7 +421,7 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 * Czech: {{t+|cs|cukr|m}}
 * Danish: {{t+|da|sukker|n}}
 * Dutch: {{t+|nl|suiker}}
-* Esperanto: {{t|eo|sukero}}
+* Esperanto: {{t-|eo|sukero|xs=Esperanto}}
 * Finnish: {{t+|fi|sokeri}}
 * French: {{t+|fr|sucre|m}}
 * German: {{t+|de|Zucker|m}}
@@ -430,7 +430,7 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 * Hungarian: {{t+|hu|cukor}}
 * Icelandic: {{t+|is|sykur|m}}
 * Indonesian: {{t+|id|gula|xs=Indonesian}}
-* Irish: {{t|ga|siúcra|m}}
+* Irish: {{t|ga|siúcra|m|xs=Irish}}
 * Italian: {{t+|it|zucchero|m}}
 {{trans-mid}}
 * Japanese: {{t+|ja|砂糖|tr=[[さとう]], satō|sc=Jpan}}
@@ -449,9 +449,9 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 * [[Sinhala]]: {{t|si|සීනි|tr=siini|xs=Sinhalese}}
 * Slovene: {{t+|sl|sladkor|m}}
 * Spanish: {{t+|es|azúcar|m}}
-* Swedish: {{t|sv|socker|n}}
+* Swedish: {{t+|sv|socker|n}}
 * [[Taos]]: [[kophà’ąsíne]]
-* Welsh: {{t|cy|siwgr|m}}
+* Welsh: {{t|cy|siwgr|m|xs=Welsh}}
 * [[West Frisian]]: {{t+|fy|sûker|c|xs=West Frisian}}
 * Yiddish: {{t+|yi|צוקער|m|sc=Hebr|xs=Yiddish}}
 {{trans-bottom}}
@@ -461,7 +461,7 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 * Finnish: {{t+|fi|sokeri}}
 * German: {{t+|de|Zucker|m}}
 * Greek: {{t+|el|σάκχαρο|n|tr=sákcharo|sc=Grek}}, {{t|el|ζάχαρο|n|tr=zácharo|sc=Grek}}
-* Irish: {{t|ga|siúcra|m}}
+* Irish: {{t|ga|siúcra|m|xs=Irish}}
 * Japanese: {{t|ja|糖質|tr=[[とうしつ]], tōshitsu|sc=Jpan}}
 * Kurdish:
 *: Sorani: {{t|ku|شه‌کر|tr=shakir|sc=ku-Arab}}
@@ -470,8 +470,8 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 * Polish: {{t+|pl|cukier|m}}
 * Russian: {{t+|ru|сахар|m|tr=sáχar|sc=Cyrl}}
 * Slovene: {{t+|sl|sladkor|m}}
-* Swedish: {{t|sv|socker|n}}
-* Welsh: {{t|cy|siwgr|m}}
+* Swedish: {{t+|sv|socker|n}}
+* Welsh: {{t|cy|siwgr|m|xs=Welsh}}
 {{trans-bottom}}
 
 {{trans-top|generic term for sucrose, glucose, fructose, etc}}
@@ -480,7 +480,7 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 * Finnish: {{t+|fi|sokeri}}
 * German: {{t+|de|Zucker|m}}
 * Greek: {{t+|el|σάκχαρο|n|tr=sákcharo|sc=Grek}}, {{t|el|ζάχαρο|n|tr=zácharo|sc=Grek}}
-* Irish: {{t|ga|siúcra|m}}
+* Irish: {{t|ga|siúcra|m|xs=Irish}}
 * Japanese: {{t+|ja|糖|tr=[[とう]], tō|sc=Jpan}}, {{t|ja|糖類|tr=[[とうるい]], tōrui|sc=Jpan}}
 * Kurdish:
 *: Sorani: {{t|ku|شه‌کر|tr=shakir|sc=ku-Arab}}
@@ -489,13 +489,13 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 * Polish: {{t+|pl|cukier|m}}
 * Russian: {{t+|ru|сахар|m|tr=sáχar|sc=Cyrl}}
 * Slovene: {{t|sl|sladilo|n}}
-* Swedish: {{t|sv|socker|n}}
+* Swedish: {{t+|sv|socker|n}}
 * Vietnamese: {{t+|vi|đường|xs=Vietnamese}}
-* Welsh: {{t|cy|siwgr|m}}
+* Welsh: {{t|cy|siwgr|m|xs=Welsh}}
 {{trans-bottom}}
 
 {{trans-top|term of endearment}}
-* Danish: {{t|da|skat}}
+* Danish: {{t-|da|skat}}
 * Finnish: {{t-|fi|kultanen|alt=kultaseni}}
 {{trans-mid}}
 * French: {{t|fr|mon chéri|m}}, {{t|fr|ma chérie|f}}, {{t|fr|mon chou|m}}
@@ -592,7 +592,7 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 * Polish: {{t|pl|słodzić}}, {{t|pl|posłodzić}}
 * Russian: {{t|ru|сахарить|tr=sáχarit'|sc=Cyrl}} {{impf}}, {{t|ru|посахарить|tr=posáχarit'|sc=Cyrl}} {{pf}}
 * Slovene: {{t|sl|sladkati}}
-* Swedish: {{t|sv|sockra}}
+* Swedish: {{t-|sv|sockra}}
 {{trans-bottom}}
 
 {{trans-top|to make something seem less unpleasant}}
