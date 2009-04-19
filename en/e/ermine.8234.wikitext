@@ -26,7 +26,7 @@ From {{etyl|fro}} {{term|hermine|lang=fro}}, either from {{ML.}} {{term|mus|mūs
 ====Translations====
 {{trans-top|Mustela erminea}}
 * Albanian: [[ermelina]]
-* Armenian: {{t|hy|կնգում|sc=Armn|tr=kngum}}, {{t|hy|սպիտակ աքիս|sc=Armn|tr=spitak ak’is}}
+* Armenian: {{t-|hy|կնգում|tr=kngum|sc=Armn|xs=Armenian}}, {{t-|hy|սպիտակ աքիս|tr=spitak ak’is|sc=Armn|xs=Armenian}}
 * [[Basque]]: [[erbinude zuri]]
 * Belarusian: [[гарнастай]]
 * [[Breton]]: [[erminig]]
@@ -35,43 +35,43 @@ From {{etyl|fro}} {{term|hermine|lang=fro}}, either from {{ML.}} {{term|mus|mūs
 * Croatian: [[zerdav]]
 * Czech: {{t-|cs|hranostaj|m}}
 * Danish: [[hermelin/lækat]]
-* Dutch: [[hermelijn]] {{m}}
+* Dutch: {{t+|nl|hermelijn|m}}
 * Esperanto: [[ermeno]]
 * Estonian: [[kärp]], [[lahits]], [[hermeliin]]
 * Faroese: [[roysikøttur]]
-* Finnish: [[kärppä]]
-* French: [[hermine]] {{f}}
+* Finnish: {{t+|fi|kärppä}}
+* French: {{t+|fr|hermine|f}}
 * [[Friulian]]: [[armelin]]
 * [[Galician]]: [[armiño]]
-* German: [[Hermelin]] {{n}}
+* German: {{t+|de|Hermelin|n}}
 * Greek: [[ερμίνα]] '' ''
 * Hungarian: [[hermelin]]
-* Icelandic: [[hreysiköttur]]
+* Icelandic: {{t+|is|hreysiköttur}}
 * Irish: [[easóg]]
-* Italian: [[ermellino]] {{m}}
+* Italian: {{t+|it|ermellino|m}}
 * [[Ladin]]: [[armelin]]
 * Latin: [[Mustela erminea]] '' ''
 {{trans-mid}}
 * Latvian: [[sermulis]]
-* Lithuanian: [[šermuonėlis]]
+* Lithuanian: {{t-|lt|šermuonėlis|xs=Lithuanian}}
 * [[Lower Sorbian]]: [[hermelin]]
 * [[Macedonian]]: [[хермелин]] ([[hermelin]])
 * Maltese: [[ermellin]]
-* Norwegian: [[røyskatt]]
+* Norwegian: {{t+|no|røyskatt}}
 * [[Occitan]]: [[ermina]]
 * Polish: [[gronostaj]] '' ''
-* Portuguese: [[arminho]] {{m}}
+* Portuguese: {{t-|pt|arminho|m}}
 * [[Romani]]: [[ermina]] {{f}}
 * Romanian: [[hermelina]]
 * [[Romansch]]: [[ermelin]]
 * Russian: [[горностай]] ([[gornostaj]]) '' ''
 * [[Sami]]: [[buoidda]]
 * [[Sardinian]]: [[ermellinu]]
-* [[Scottish Gaelic]]: {{t-|gd|neas|f}}, {{t-|gd|neas mhòr|f}}
+* [[Scottish Gaelic]]: {{t-|gd|neas|f|xs=Scottish Gaelic}}, {{t-|gd|neas mhòr|f|xs=Scottish Gaelic}}
 * Serbian: [[zerdav]] {{m}}
 * Slovak: [[lasica hranostaj]]
-* Slovene: [[hermelin]]
-* Spanish: [[armiño]] {{m}}
+* Slovene: {{t+|sl|hermelin}}
+* Spanish: {{t+|es|armiño|m}}
 * Swedish: [[hermelin]]
 * Turkish: [[kakim]]
 * Ukrainian: [[горностай]] ([[gornostaj]])
@@ -95,7 +95,7 @@ From {{etyl|fro}} {{term|hermine|lang=fro}}, either from {{ML.}} {{term|mus|mūs
 {{trans-bottom}}
 
 {{trans-top|(heraldry) a white field with black spots}}
-* Finnish: [[kärpännahka]]
+* Finnish: {{t-|fi|kärpännahka}}
 {{trans-mid}}
 {{trans-bottom}}
 
