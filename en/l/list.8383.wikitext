@@ -70,9 +70,9 @@ From Middle English ''liste'' (roll of names, contestants in the ''[[lists]]'' i
 * Finnish: {{t+|fi|lista}}
 * French: {{t+|fr|liste|f}}
 * German: {{t+|de|Liste|f}}
-* Greek: {{t+|el|κατάλογος|m}}
+* Greek: {{t+|el|κατάλογος|m|sc=Grek}}
 * Hungarian: {{t+|hu|lista}}
-* Italian: {{t+|it|lista|f}}
+* Italian: {{t-|it|lista|f}}
 {{trans-mid}}
 * Japanese: [[一覧]] (ichiran), [[リスト]] (risuto)
 * Korean: [[명부]] (myeongbu)
@@ -93,7 +93,7 @@ From Middle English ''liste'' (roll of names, contestants in the ''[[lists]]'' i
 * Finnish: {{t+|fi|lista}}
 {{trans-mid}}
 * German: {{t+|de|Liste|f}}
-* Japanese: {{t-|ja|リスト|tr=risuto|sc=Jpan}}
+* Japanese: {{t+|ja|リスト|tr=risuto|sc=Jpan}}
 {{trans-bottom}}
 
 {{trans-top|LISP: data structure made up of cons pairs the cdr of which contains either another list or nil}}
