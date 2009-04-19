@@ -48,8 +48,8 @@ From {{etyl|ang}} {{term|libban||lang=ang}}
 {{trans-top|be alive}}
 * Albanian: {{t-|sq|jeton|xs=Albanian}}
 * Arabic: {{Arab|[[عاش]]}} (ʻāša), {{Arab|[[سكن]]}} (sákana)
-* Armenian: {{t|hy|ապրել|sc=Armn|tr=aprel}}
-** Old Armenian: {{t|hy|կեամ|sc=Armn|tr=keam}}
+* Armenian: {{t+|hy|ապրել|tr=aprel|sc=Armn|xs=Armenian}}
+** Old Armenian: {{t-|hy|կեամ|tr=keam|sc=Armn|xs=Armenian}}
 * [[Breton]]: [[beva]]
 * [[Catalan]]: [[viure]]
 * Chinese: [[住]] (zhù), [[生活]] (shēnghuó)
@@ -58,7 +58,7 @@ From {{etyl|ang}} {{term|libban||lang=ang}}
 * Danish: {{t+|da|leve}}
 * Dutch: {{t+|nl|leven}}
 * Esperanto: {{t-|eo|vivi|xs=Esperanto}}
-* Faroese: {{t+|fo|líva}}
+* Faroese: {{t-|fo|líva|xs=Faroese}}
 * Filipino: [[mabuhay]]
 * Finnish: {{t+|fi|elää}}
 * French: {{t+|fr|vivre}}
@@ -88,14 +88,14 @@ From {{etyl|ang}} {{term|libban||lang=ang}}
 
 {{trans-top|have permanent residence}}
 * Arabic: {{Arab|[[عاش]]}} (ʻāša), {{Arab|[[سكن]]}} (sákana)
-* Armenian: {{t|hy|ապրել|sc=Armn|tr=aprel}}
+* Armenian: {{t+|hy|ապրել|tr=aprel|sc=Armn|xs=Armenian}}
 * [[Catalan]]: [[viure]]
 * Chinese: [[居住]] (jūzhù), [[住]] (zhù)
 * Czech: {{t+|cs|žít}}
 * Danish: {{t-|da|bo}}
 * Dutch: {{t+|nl|wonen}}
-* Esperanto: {{t|eo|loĝi}}
-* Faroese: {{t+|fo|búgva}}
+* Esperanto: {{t-|eo|loĝi|xs=Esperanto}}
+* Faroese: {{t-|fo|búgva|xs=Faroese}}
 * Filipino: [[manirahan]]
 * Finnish: {{t+|fi|asua}}, {{t+|fi|elää}}
 * French: {{t+|fr|habiter}}
@@ -120,7 +120,7 @@ From {{etyl|ang}} {{term|libban||lang=ang}}
 {{trans-bottom}}
 
 {{trans-top|survive, persevere}}
-* Armenian: {{t|hy|ապրել|sc=Armn|tr=aprel}}
+* Armenian: {{t+|hy|ապրել|tr=aprel|sc=Armn|xs=Armenian}}
 * [[Catalan]]: [[viure]]
 * Czech: {{t+|cs|žít}}
 * Danish: [[overleve]]
@@ -203,7 +203,7 @@ See [[alive]]
 * [[Campidanese Sardinian]]: [[biu]]
 * [[Catalan]]: [[viu]]
 * Croatian: {{t-|hr|živ}}
-* Dutch: {{t-|nl|levend}}, {{t-|nl|levende}}
+* Dutch: {{t+|nl|levend}}, {{t-|nl|levende}}
 * Finnish: {{t+|fi|elävä}}
 * French: {{t+|fr|vivant}}
 * German: {{t+|de|lebend}}
@@ -220,14 +220,14 @@ See [[alive]]
 * Old English: {{t-|ang|cwic|xs=Old English}}
 * Polish: {{t+|pl|żywy}}
 * Romanian: {{t-|ro|viu}}
-* Russian: {{t|ru|живой|sc=Cyrl|tr=živój}}
+* Russian: {{t+|ru|живой|tr=živój|sc=Cyrl}}
 * Slovene: [[živ]] {{m}}, [[živa]] {{f}}, [[živo]] {{n}}
 * Spanish: {{t+|es|vivo}}
 * Swedish: {{t+|sv|levande}}
 {{trans-bottom}}
 
 {{trans-top|capable of causing harm}}
-* Dutch: [[scherp]], [[scherpe]]
+* Dutch: {{t+|nl|scherp}}, {{t-|nl|scherpe}}
 * German: {{t+|de|scharf}}
 * Greek: [[άσκαστος]] (áskastos) {{m}}, [[άκαυστος]] (ákafstos) {{m}}, [[άκαυτος]] (ákaftos) {{m}}
 {{trans-mid}}
