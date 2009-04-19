@@ -50,8 +50,8 @@ Old French ''plate'' ← Medieval Latin ''plata'' ← Vulgar Latin ''*plat(t)us'
 ====Translations====
 {{trans-top|a serving dish}}
 * Albanian: [[pjatë]] {{f}}
-* Arabic: {{t|ar|طبق|m|sc=Arab|head='''طَبَقْ'''|tr={{IPAchar|tˤábakˁ}}}}
-*: Egyptian Arabic: {{t|arz|طبق|m|sc=Arab|tr={{IPAchar|tˤábaʔ}}}}
+* Arabic: {{t-|ar|طبق|m|head='''طَبَقْ'''|tˤábakˁ|tr={{IPAchar|sc=Arab}}}}
+*: Egyptian Arabic: {{tø|arz|طبق|m|tˤábaʔ|tr={{IPAchar|sc=Arab|xs=Egyptian Arabic}}}}
 * Armenian: [[ափսե]] (ap'se)
 * [[Catalan]]: [[plat]] {{m}}
 * Chinese: [[盘子]] (pánzi)
@@ -72,7 +72,7 @@ Old French ''plate'' ← Medieval Latin ''plata'' ← Vulgar Latin ''*plat(t)us'
 * Kurdish: {{t+|ku|قاپ|sc=ku-Arab}}
 * Latin: [[catillus]]  {{m}}
 * Norwegian:
-*: Bokmål: {{t-|no|tallerken|m}}, {{t-|no|asjett|m}}
+*: Bokmål: {{t+|no|tallerken|m}}, {{t-|no|asjett|m}}
 * [[Occitan]]: [[sieta]] {{f}}
 * Polish: {{t+|pl|talerz|m}}
 * Portuguese: {{t+|pt|prato|m}}
@@ -174,7 +174,7 @@ Old French ''plate'' ← Medieval Latin ''plata'' ← Vulgar Latin ''*plat(t)us'
 * French: {{t+|fr|plaquer}}
 {{trans-mid}}
 * German: [[ueberziehen|berziehen]]
-* Spanish: {{t-|es|chapar}}
+* Spanish: {{t+|es|chapar}}
 {{trans-bottom}}
 
 {{trans-top|put meal on a plate}}
