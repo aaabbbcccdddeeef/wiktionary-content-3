@@ -36,13 +36,13 @@
 =====Translations=====
 {{trans-top|a mammary gland, teat}}
 * [[American Sign Language]]: [[Claw@NearInsideChesthigh-PalmBack-Claw@NearInsideChesthigh-PalmBack]]
-* Bosnian: (sisna) {{t|bs|bradavica|f}}
+* Bosnian: (sisna) {{t-|bs|bradavica|f}}
 * Czech: {{t-|cs|bradavka|f}}
 * Danish: {{t-|da|brystvorte|c}}
 * Dutch: {{t-|nl|tiet|f}}
-* Finnish: {{t|fi|nänni}} (teat), {{t|fi|maitorauhanen}} (mammary gland)
-* German: {{t|de|Zitze|f}}, [[Euter]] (Bovine)
-* Greek: {{t|el|θήλη|f}}
+* Finnish: {{t+|fi|nänni}} (teat), {{t+|fi|maitorauhanen}} (mammary gland)
+* German: {{t+|de|Zitze|f}}, [[Euter]] (Bovine)
+* Greek: {{t|el|θήλη|f|sc=Grek}}
 * Hindi: {{t-|hi|स्तन|sc=Deva|xs=Hindi}}
 * Irish: [[faireog mhamach]] {{f}}
 {{trans-mid}}
@@ -53,9 +53,9 @@
 * Norwegian: [[pupp]] {{m}}
 * Polish: {{t+|pl|cyc|f}}, {{t+|pl|cycek|f}}, {{t+|pl|pierś|f}}
 * Portuguese: {{t+|pt|teta|f}}
-* Russian: {{t|ru|молочная железа|tr=molóčnaja železá|f}}, {{t|ru|сосок|tr=sosók|m}}
+* Russian: {{t|ru|молочная железа|f|tr=molóčnaja železá|sc=Cyrl}}, {{t|ru|сосок|m|tr=sosók|sc=Cyrl}}
 * [[Scottish Gaelic]]: [[cìoch]] {{f}}
-* Spanish: {{t-|es|teta|f}}
+* Spanish: {{t+|es|teta|f}}
 {{trans-bottom}}
 
 {{trans-top|''(slang, vulgar)''a woman's breast}}
@@ -69,14 +69,14 @@
 * French: {{t+|fr|nichon|m}}
 * German: {{t+|de|Titte|f}}, {{t+|de|Brust|f}}
 * [[Gilbertese]]: [[mamma]]
-* Greek: {{t|el|βύζι|n}}
+* Greek: {{t|el|βύζι|n|sc=Grek}}
 {{trans-mid}}
 * [[Interlingua]]: [[tetta]]
 * Irish: [[brollach]] {{m}}
 * Italian: [[tetta]] {{f}} (''slang''), [[poppa]] {{f}} (''informal'', ''slang''), [[seno]] {{m}}, [[mammella]] {{f}}
 * [[Malayalam]]: [[മുല]] (mula), [[സ്‌തനം]] (sthanam)
 * Norwegian: {{t|no|pupp|m}}
-* Polish: {{t|pl|cyc|m}}, {{t|pl|cycek|m}}
+* Polish: {{t+|pl|cyc|m}}, {{t|pl|cycek|m}}
 * Portuguese: {{t+|pt|teta|f}}
 * Russian: {{t+|ru|титька|f|tr=tít’ka|sc=Cyrl}}, {{t+|ru|сиська|tr=sís’ka|sc=Cyrl}}
 * [[Scottish Gaelic]]: [[cìoch]] {{f}}
@@ -121,7 +121,7 @@ Probably of Scandinavian origin; found earliest in {{term|titling}} and {{term|t
 * German: {{t+|de|Meise|f}}
 * Greek: [[παπαδίτσα]] {{f}}
 * Irish: [[méantán]] {{m}}
-* Italian: {{t+|it|cincia|f}}
+* Italian: {{t-|it|cincia|f}}
 * Latin: {{t-|la|parus}}
 * Lithuanian: {{t+|lt|zylė|f|xs=Lithuanian}}
 {{trans-mid}}
