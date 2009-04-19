@@ -143,8 +143,8 @@
 *: Ancient: [[θάνατος]] (thánatos) {{m}}, [[θανή]] {{f}}, [[τελευτή]] {{f}}
 *: Modern: [[θάνατος]] (thánatos) {{m}}, [[θανατάς]] (thanatás) {{m}}, [[πεθαμός]] (pethamós) {{m}}, [[αποθαμός]] (apothamós) {{m}}, [[χάρος]] (xáros) {{m}}
 * [[Guaraní]]: [[mano]], [[e'õ]] (t-)
-* Hawaiian: {{t|haw|make}}
-* Hebrew: {{t|he|מוות|tr=mavet|m}}
+* Hawaiian: {{tø|haw|make|xs=Hawaiian}}
+* Hebrew: {{t+|he|מוות|m|tr=mavet|sc=Hebr}}
 * Hindi: [[मृत्यु]] (mrityu), [[मरण]] (mar.n), [[मौत]] (maut) {{g|Hindi}}
 * Hungarian: {{t+|hu|halál}}
 * Icelandic: {{t+|is|dauði|m}}
@@ -152,14 +152,14 @@
 * [[Interlingua]]: [[morte]]
 {{trans-mid}}
 * Italian: {{t+|it|morte|f}}
-* Japanese: {{t|ja|死|tr=shi}}
+* Japanese: {{t+|ja|死|tr=shi|sc=Jpan}}
 * Korean: [[죽음]] (jugeum)
 * Kurdish: {{t+|ku|mirin|f}}, {{t+|ku|merg|f}}, {{t+|ku|wefat|f}}, {{t+|ku|mewt|f}}, {{t+|ku|emrê Xwedê|m}}, {{t-|ku|مه‌رگ|sc=ku-Arab}}, {{t-|ku|مردن|sc=ku-Arab}}
 * Latin: {{t+|la|mors|f}}, {{t-|la|exitium|n}}, {{t-|la|quietus|m}}
 * Latvian: {{t-|lv|nāve|f|xs=Latvian}}
 * Lithuanian: {{t+|lt|mirtis|f|xs=Lithuanian}}
 * [[Low Saxon]]: [[dood]] {{m}}
-* [[Macedonian]]: {{t|mk|смрт|tr=smrt|f}}
+* [[Macedonian]]: {{t-|mk|смрт|f|tr=smrt|sc=Cyrl|xs=Macedonian}}
 * [[Malayalam]]: [[മരണം]] (maraNam)
 * Maori: {{t-|mi|mate|xs=Maori}}
 * Mongolian: [[үхэл]] (ühel)
@@ -169,7 +169,7 @@
 * Polish: [[śmierć]] {{f}}, [[zgon]] {{m}}
 * Portuguese: {{t+|pt|morte|f}}
 * Romanian: {{t+|ro|moarte|f}}
-* Russian: {{t|ru|смерть|tr=smert’|f}}
+* Russian: {{t+|ru|смерть|f|tr=smert’|sc=Cyrl}}
 * [[Santali]]: {{tø|sat|ᱢᱳᱨᱳᱱ|tr=moron|sc=Olck}}
 * [[Scottish Gaelic]]: [[bàs]] {{m}}
 * Serbian:
@@ -191,13 +191,13 @@
 {{trans-top|personification of death}}
 * Czech: {{t-|cs|smrtka|f}}, {{t+|cs|smrt}}
 * Dutch: {{t+|nl|dood|m}}
-* Estonian: {{t|et|surm}},  {{t|et|vikatimees}}
+* Estonian: {{t-|et|surm}},  {{t|et|vikatimees}}
 * German: {{t+|de|Tod|m}}
 * Greek:
 *: Ancient: [[Χάρων]] (kharon) {{m}}
 *: Modern: [[Χάρος]] (kharos) {{m}}
 {{trans-mid}}
-* Japanese: {{t|ja|死神|sc=Jpan|tr=shinigami}}
+* Japanese: {{t-|ja|死神|tr=shinigami|sc=Jpan}}
 * Norwegian: {{t-|no|døden}}
 * Polish: {{t+|pl|śmierć|f}}
 * Slovene: {{t+|sl|smrt|f}}
@@ -205,17 +205,17 @@
 
 {{trans-top|Tarot}}
 * [[Catalan]]: {{t|ca|la mort}}
-* Czech: {{t|cs|smrt}}
-* Dutch: {{t|nl|dood}}
-* Estonian: {{t|et|surm}}
+* Czech: {{t+|cs|smrt}}
+* Dutch: {{t+|nl|dood}}
+* Estonian: {{t-|et|surm}}
 * French: {{t|fr|la mort}}, [[l'arcane sans nom]]
 * German: {{t|de|der Tod}}
-* Hungarian: {{t|hu|halál}}, {{t|hu|nagy arkánum}}
+* Hungarian: {{t+|hu|halál}}, {{t|hu|nagy arkánum}}
 * Italian: [[la morte]], [[l'arcano senza nome]]
 {{trans-mid}}
 * Japanese: [[死神]] (shinigami)
 * Korean: [[죽음]] (jugeum)
-* Polish: {{t|pl|śmierć}}
+* Polish: {{t+|pl|śmierć}}
 * Portuguese: [[a morte]], [[o arcano sem nome]]
 * Spanish: [[la muerte]]
 {{trans-bottom}}
