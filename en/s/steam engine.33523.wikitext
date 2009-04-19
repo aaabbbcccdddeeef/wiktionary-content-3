@@ -3,13 +3,19 @@
 ===Noun===
 {{en-noun|sg=[[steam]] [[engine]]}}
 
-# A machine that performs mechanical work using steam from an external source.
-# A piston engine driven by steam (as opposed, for example, to a turbine).
+# A [[piston engine]] driven by steam (as contrasted, for example, with a [[steam turbine]]).
+# Any machine that performs mechanical work using steam from an external source as its primary working fluid.
 # {{UK}} A steam [[locomotive]].
 # {{rfd-redundant}} A [[heat engine]] that uses steam as its primary working fluid to do [[mechanical]] [[work]].
 
 ====Translations====
-{{trans-top|machine}}
+{{trans-top|piston engine driven by steam}}
+* Finnish: {{t|fi|höyrykone}}, {{t|fi|mäntähöyrykone}}
+{{trans-mid}}
+* Swedish: {{t|sv|ångmaskin|c}}
+{{trans-bottom}}
+
+{{trans-top|any machine that uses steam as its primary working fluid}}
 * Croatian: {{t-|hr|parni stroj|m}}, {{t-|hr|parostroj|m}}
 * Czech: {{t-|cs|parní stroj|m}}, {{t-|cs|parostroj|m}}
 * Dutch: {{t+|nl|stoommachine|f}}
@@ -21,7 +27,6 @@
 * [[Interlingua]]: [[machina de vapor]]
 * Portuguese: {{t+|pt|máquina a vapor|f}}
 * Romanian: [[maşină cu abur]]
-* Swedish: [[ångmaskin]] {{c}}
 {{trans-bottom}}
 
 {{trans-top|locomotive}}
