@@ -66,7 +66,7 @@ From {{etyl|ang|en}} {{term|meolc|lang=ang}}; compare Danish ''[[mælk]]'', Dutc
 *: Hebrew: {{tø|arc|חלבא|m|tr=ħalbā’|sc=Hebr}}
 * Armenian: {{t+|hy|կաթ|tr=kat’|sc=Armn|xs=Armenian}}
 * [[Asturian]]: {{t+|ast|lleche|m|f|xs=Asturian}}
-* [[Azeri]]: {{t|az|süd}}
+* [[Azeri]]: {{t|az|süd|xs=Azeri}}
 * [[Basque]]: {{t-|eu|esne|xs=Basque}}
 * Bengali: {{t-|bn|দুধ|sc=Beng|xs=Bengali}}
 * [[Breton]]: {{t+|br|laezh|m|xs=Breton}}
@@ -74,7 +74,7 @@ From {{etyl|ang|en}} {{term|meolc|lang=ang}}; compare Danish ''[[mælk]]'', Dutc
 * {{trreq|Burmese}}
 * [[Catalan]]: {{t+|ca|llet|f}}
 * [[Chamicuro]]: {{tø|ccc|tensa}}
-* Cherokee: {{t|chr|ᎤᏅᏗ|tr=unvdi|sc=Cher}}
+* Cherokee: {{t-|chr|ᎤᏅᏗ|tr=unvdi|sc=Cher|xs=Cherokee}}
 * Chinese:
 *: Cantonese: {{t-|cmn|奶|tr=naai5|sc=Hans|xs=Mandarin}}
 *: Mandarin: {{t-|cmn|奶|tr=nǎi|sc=Hans|xs=Mandarin}}, {{t-|cmn|牛奶|tr=niúnăi|sc=Hans|xs=Mandarin}}
@@ -118,7 +118,7 @@ From {{etyl|ang|en}} {{term|meolc|lang=ang}}; compare Danish ''[[mælk]]'', Dutc
 * Malay: {{t-|ms|susu|xs=Malay}}
 * {{trreq|Malayalam}}
 * Maltese: {{t-|mt|ħalib|m|xs=Maltese}}
-* [[Manx]]: {{t|gv|bainney}}
+* [[Manx]]: {{t|gv|bainney|xs=Manx}}
 * Maori: [[waiū]], [[miraka]]
 * [[Marathi]]: {{t-|mr|दूध|sc=Deva|xs=Marathi}}
 * Mongolian: {{t+|mn|сүү|tr=süü|sc=Cyrl|xs=Mongolian}}
@@ -145,19 +145,19 @@ From {{etyl|ang|en}} {{term|meolc|lang=ang}}; compare Danish ''[[mælk]]'', Dutc
 * [[Santali]]: {{tø|sat|ᱛᱳᱚ|tr=toa|sc=Olck}}
 * [[Scottish Gaelic]]: {{t-|gd|bainne|m|xs=Scottish Gaelic}}
 * Serbo-Croatian:
-*: Cyrillic: (''Ekavian'') {{t|sh|млеко|alt=мле́ко|n|sc=Cyrl}}, (''Ijekavian'') {{t|sh|млијеко|alt=млије́ко|n}}
-*: Roman: (''Ekavian'') {{t|sh|mleko|alt=mléko|n}}, (''Ijekavian'') {{t|sh|mlijeko|alt=mlijéko|n}}
-* [[Sicilian]]: {{t|scn|latti|m}}
+*: Cyrillic: (''Ekavian'') {{tø|sh|млеко|n|alt=мле́ко|sc=Cyrl|xs=Serbo-Croatian}}, (''Ijekavian'') {{tø|sh|млијеко|n|alt=млије́ко|sc=Cyrl|xs=Serbo-Croatian}}
+*: Roman: (''Ekavian'') {{tø|sh|mleko|n|alt=mléko|xs=Serbo-Croatian}}, (''Ijekavian'') {{tø|sh|mlijeko|n|alt=mlijéko|xs=Serbo-Croatian}}
+* [[Sicilian]]: {{t+|scn|latti|m|xs=Sicilian}}
 * [[Sinhala]]: {{t-|si|කිරි|tr=kiri|sc=Sinh|xs=Sinhalese}}
 * Slovak: {{t-|sk|mlieko|n}}
 * Slovene: {{t+|sl|mleko|n}}
 * Spanish: {{t+|es|leche|f}}
-* Swahili: {{t-|sw|maziwa|xs=Swahili}}
+* Swahili: {{t+|sw|maziwa|xs=Swahili}}
 * Swedish: {{t+|sv|mjölk|c}}
 * [[Tagalog]]: {{t-|tl|gatas|xs=Tagalog}}
 * {{trreq|Tahitian}}
 * {{trreq|Tamil}}
-* [[Telugu]]: {{t|te|పాలు|tr=paalu|sc=Telu}}, {{t|te|క్షీరము|tr=ksheeramu|sc=Telu}}
+* [[Telugu]]: {{t+|te|పాలు|tr=paalu|sc=Telu}}, {{t|te|క్షీరము|tr=ksheeramu|sc=Telu}}
 * [[Tetum]]: {{tø|tet|susubeen|xs=Tetum}}
 * Thai: {{t-|th|น้ำนม||tr=náam nom|sc=Thai|xs=Thai}}
 * {{trreq|Tibetan}}
@@ -191,7 +191,7 @@ From {{etyl|ang|en}} {{term|meolc|lang=ang}}; compare Danish ''[[mælk]]'', Dutc
 
 ====Translations====
 {{trans-top|to express milk from mammal}}
-* Armenian: {{t|hy|կթել|tr=kt'el|sc=Hayeren|xs=Armenian}}
+* Armenian: {{t-|hy|կթել|tr=kt'el|sc=Hayeren|xs=Armenian}}
 * [[Basque]]: [[jetzi]]
 * Bosnian: [[musti]], [[pomusti]]
 * Bulgarian: {{t+|bg|доя|sc=Cyrl}}
