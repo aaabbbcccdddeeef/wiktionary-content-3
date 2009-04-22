@@ -16,8 +16,8 @@
 {{trans-top|of, from, or pertaining to Armenia, Armenians, the language or alphabet}}
 * Albanian: {{t+|sq|armen|xs=Albanian}}
 * Arabic: {{Arab|[[ارميني]]}} (’armīni) {{m}}, {{Arab|[[ارمينية]]}} (’arminíyya) {{f}}
-* Armenian: {{t|hy|հայկական|sc=Armn|tr=haykakan}}
-* [[Azeri]]: {{t|az|erməni}}
+* Armenian: {{t+|hy|հայկական|tr=haykakan|sc=Armn|xs=Armenian}}
+* [[Azeri]]: {{t|az|erməni|xs=Azeri}}
 * Chinese: [[亚美尼亚]]的 (Yàměiníyà de)
 * Croatian: {{t-|hr|armenski|alt=àrmēnskī}}
 * Czech: {{t+|cs|arménský}}
@@ -34,7 +34,7 @@
 * Japanese: [[アルメニアの]] (arumenia no)
 * Lithuanian: {{t+|lt|armėniškas|m|xs=Lithuanian}}, {{t+|lt|armėniška|f|xs=Lithuanian}}
 * Maltese: [[Armenjan]] {{m}}, [[Armenjana]] {{f}}
-* Ossetic: {{t|os|сомихаг|tr=somixag}}
+* Ossetic: {{tø|os|сомихаг|tr=somixag|sc=Cyrl|xs=Ossetian}}
 * Persian: {{t-|fa|ارمنی|tr=Armani|sc=fa-Arab|xs=Persian}}
 * Polish: [[ormiański]] {{m}}; (''pertaining to Armenia'') [[armeński]] {{m}}
 * Portuguese: [[arménio]] {{m}}, [[arménico]] {{m}}
@@ -53,8 +53,8 @@
 {{trans-top|person}}
 * Albanian: {{t+|sq|armen|m|xs=Albanian}}, {{t-|sq|armene|f|xs=Albanian}}
 * Arabic: {{Arab|[[ارميني]]}} (’armāni) {{m}}, {{Arab|[[ارمينية]]}} (’arminíyya) {{f}}
-* Armenian: {{t|hy|հայ|sc=Armn|tr=hay}}
-* [[Azeri]]: {{t|az|erməni}}
+* Armenian: {{t+|hy|հայ|tr=hay|sc=Armn|xs=Armenian}}
+* [[Azeri]]: {{t|az|erməni|xs=Azeri}}
 * Chinese: [[亚美尼亚人]] (Yàměiníyà rén)
 * Croatian: {{t+|hr|Armenac|m|alt=Arménac}}, {{t-|hr|Armenka|f|alt=Àrmēnka}}
 * Danish: [[Armenier]], [[Armeniere]] {{p}}
@@ -71,7 +71,7 @@
 * Japanese: [[アルメニア人]] (arumeniajin)
 * Lithuanian: [[armėnas]] {{m}}, [[armėnė]] {{f}}, [[armėnai]] {{m|p}}, [[armėnės]] {{f|p}}
 * Maltese: [[Armenjan]] {{m}}, [[Armenjana]] {{f}}, [[Armenjani]] {{p}}
-* Ossetic: {{t|os|сомихаг|tr=somixag}}
+* Ossetic: {{tø|os|сомихаг|tr=somixag|sc=Cyrl|xs=Ossetian}}
 * Persian: {{t-|fa|ارمنی|tr=Armani|sc=fa-Arab|xs=Persian}}
 * Polish: [[Ormianin]] {{m}}, [[Ormianka]] (''nationality''); [[Armeńczyk]] {{m}}, [[Armenka]] {{f}} (''people from Armenia'')
 * Portuguese: [[arménio]] {{m}}, [[arménia]] {{f}}, [[arménios]] {{p}}
@@ -91,8 +91,8 @@
 {{trans-top|language}}
 * Albanian: {{t+|sq|armenisht|xs=Albanian}}, {{t+|sq|armenishte|xs=Albanian}}
 * Arabic: {{Arab|[[ارمينية]]}} (’arminíyya) {{f}}
-* Armenian: {{t|hy|հայերեն|sc=Armn|tr=hayeren}}
-* [[Azeri]]: {{t|az|erməni dili}}
+* Armenian: {{t+|hy|հայերեն|tr=hayeren|sc=Armn|xs=Armenian}}
+* [[Azeri]]: {{t|az|erməni dili|xs=Azeri}}
 * Chinese: [[亚美尼亚语]] (Yàměiníyà yǔ)
 * Croatian: {{t-|hr|armenski jezik|m|alt=àrmēnskī jèzik}}
 * Dutch: {{t+|nl|Armeens|n}}
@@ -111,9 +111,9 @@
 * Japanese: [[アルメニア語]] (arumenia-go)
 * Lithuanian: {{t+|lt|armėnų|xs=Lithuanian}}, {{t+|lt|armėnų kalba|xs=Lithuanian}}
 * Maltese: [[L-Armenjan]]
-* Ossetic: {{t|os|сомихаг|tr=somixag}}
+* Ossetic: {{tø|os|сомихаг|tr=somixag|sc=Cyrl|xs=Ossetian}}
 * Persian: {{t-|fa|ارمنی|tr=Armani|sc=fa-Arab|xs=Persian}}
-* Polish: [[ormiański]] {{m}}
+* Polish: {{t+|pl|ormiański|m}}
 * Portuguese: [[arménio]] {{m}}
 * Romanian: [[armeană]] {{f}}, [[armeneşte]] (''adv'')
 * Russian: [[армянский]] [[язык]] (armjánskij jazýk) {{m}}
