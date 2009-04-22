@@ -41,14 +41,14 @@
 
 =====Translations=====
 {{trans-top|amount measured in relation to another amount}}
-* French: {{t|fr|taux}}
-* Italian: {{t|it|tasso}}
+* French: {{t+|fr|taux}}
+* Italian: {{t+|it|tasso}}
 * Japanese: {{t|ja|比率|tr=hiritsu|sc=Jpan}}, {{t|ja|割合|tr=wariai|sc=Jpan}}
-* Norwegian: {{t|no|hyppighet}}, {{t|no|prosent}}, {{t|no|tall}}
+* Norwegian: {{t|no|hyppighet}}, {{t-|no|prosent}}, {{t+|no|tall}}
 {{trans-mid}}
-* Portuguese: {{t|pt|taxa|f}}
+* Portuguese: {{t+|pt|taxa|f}}
 * Romanian: {{t|ro|rată|f}}
-* Russian: {{t|ru|пропорция|tr=propórtsija|f}}, {{t|ru|отношение|tr=otnošénije|n}}
+* Russian: {{t|ru|пропорция|f|tr=propórtsija|sc=Cyrl}}, {{t+|ru|отношение|n|tr=otnošénije|sc=Cyrl}}
 * Spanish: {{t+|es|tasa|f}}
 {{trans-bottom}}
 
@@ -71,7 +71,7 @@
 * German: {{t+|de|Rate|f}}
 * Japanese: {{t|ja|割合|tr=wariai|sc=Jpan}}; {{qualifier|production speed}} {{t|ja|生産速度|tr=sēsan sokudo|sc=Jpan}}; {{qualifier|growth of a company, country}} {{t|ja|成長率|tr=seichōritsu|sc=Jpan}}
 {{trans-mid}}
-* Russian: {{t|ru|скорость|tr=skórost’|f}}, {{t|ru|темп|tr=temp|m}}
+* Russian: {{t+|ru|скорость|f|tr=skórost’|sc=Cyrl}}, {{t|ru|темп|m|tr=temp|sc=Cyrl}}
 * Spanish: {{t+|es|velocidad|f}}
 {{trans-bottom}}
 
@@ -79,7 +79,7 @@
 * Czech: {{t-|cs|-ost|f}}
 * Japanese: {{qualifier|mortality rate}} {{t|ja|死亡率|tr=shibōritsu|sc=Jpan}}
 {{trans-mid}}
-* Russian: {{t|ru|уровень|tr=úroven’|m}}
+* Russian: {{t+|ru|уровень|m|tr=úroven’|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|wages calculated in relation to a unit of time}}
