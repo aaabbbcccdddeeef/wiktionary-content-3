@@ -40,7 +40,7 @@ Verb: {{etyl|ang}} {{term|fæstan|lang=ang}}. Cognate with Dutch {{term|vasten|l
 * Czech: {{t-|cs|půst|m}}
 * Danish: {{t-|da|faste|c}}
 * Finnish: [[paasto]], [[paastoaminen]]
-* Georgian: {{t|ka|მარხვა|tr=marxva}}
+* Georgian: {{t|ka|მარხვა|tr=marxva|xs=Georgian}}
 * German: {{t-|de|Fasten|n}}
 * Greek: {{t+|el|νηστεία|f|tr=nistía|sc=Grek}}, {{t+|el|δίαιτα|f|tr=díeta|sc=Grek}}
 * Hebrew: [[צום]] (tzom) {{m}}, [[תענית]] (ta'anit) {{f}}
@@ -55,7 +55,7 @@ Verb: {{etyl|ang}} {{term|fæstan|lang=ang}}. Cognate with Dutch {{term|vasten|l
 * Norwegian: {{t+|no|faste|m}}
 * Polish: {{t+|pl|post|m}}
 * Russian: {{t|ru|пост|m|tr=post|sc=Cyrl}}
-* [[Scottish Gaelic]]: {{t-|gd|trasg|f}}
+* [[Scottish Gaelic]]: {{t-|gd|trasg|f|xs=Scottish Gaelic}}
 * Slovene: {{t+|sl|post|m}}
 * Spanish: {{t+|es|ayuno|m}}
 * Swedish: {{t+|sv|fasta|c}}
@@ -75,16 +75,16 @@ Verb: {{etyl|ang}} {{term|fæstan|lang=ang}}. Cognate with Dutch {{term|vasten|l
 * {{trreq|Esperanto}}
 * Finnish: {{t+|fi|paasto}}
 * French: {{t+|fr|jeûne|m}}
-* Georgian: {{t|ka|მარხვა|tr=marxva}}
+* Georgian: {{t|ka|მარხვა|tr=marxva|xs=Georgian}}
 * German: {{t-|de|Fastenzeit|f}}
 * Greek: {{t+|el|δίαιτα|f|tr=díeta|sc=Grek}}
 * {{trreq|Hebrew}}
 * {{trreq|Hindi}}
-* Hungarian: {{t|hu|böjt}}
+* Hungarian: {{t+|hu|böjt}}
 * {{trreq|Icelandic}}
 * {{trreq|Indonesian}}
-* Irish: {{t|ga|troscadh|m}}
-* Italian: {{t+|it|digiuno|m}}
+* Irish: {{t|ga|troscadh|m|xs=Irish}}
+* Italian: {{t-|it|digiuno|m}}
 * {{trreq|Japanese}}
 {{trans-mid}}
 * {{trreq|Korean}}
@@ -100,7 +100,7 @@ Verb: {{etyl|ang}} {{term|fæstan|lang=ang}}. Cognate with Dutch {{term|vasten|l
 * Portuguese: {{t+|pt|jejum|m}}
 * {{trreq|Romanian}}
 * Russian: {{t|ru|пост|m|tr=post|sc=Cyrl}}
-* [[Scottish Gaelic]]: {{t-|gd|trasg|f}}
+* [[Scottish Gaelic]]: {{t-|gd|trasg|f|xs=Scottish Gaelic}}
 * {{trreq|Serbian}}
 * Slovene: {{t+|sl|post|m}}
 * Spanish: {{t+|es|ayuno|m}}
@@ -109,7 +109,7 @@ Verb: {{etyl|ang}} {{term|fæstan|lang=ang}}. Cognate with Dutch {{term|vasten|l
 * {{trreq|Tibetan}}
 * {{trreq|Turkish}}
 * {{trreq|Vietnamese}}
-* Welsh: {{t|cy|ympryd|m}}
+* Welsh: {{t|cy|ympryd|m|xs=Welsh}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -129,7 +129,7 @@ Verb: {{etyl|ang}} {{term|fæstan|lang=ang}}. Cognate with Dutch {{term|vasten|l
 =====Translations=====
 {{trans-top|to abstain from or eat very little food}}
 * Arabic: {{t-|ar|صام|tr=ṣāma|sc=Arab}}
-* Armenian: {{t|hy|պաս պահել|sc=Armn|tr=pas pahel}}
+* Armenian: {{t|hy|պաս պահել|tr=pas pahel|sc=Armn|xs=Armenian}}
 * {{trreq|Basque}}
 * {{trreq|Catalan}}
 * Chinese: ''See Mandarin''
@@ -139,7 +139,7 @@ Verb: {{etyl|ang}} {{term|fæstan|lang=ang}}. Cognate with Dutch {{term|vasten|l
 * Esperanto: {{t-|eo|fasti|xs=Esperanto}}
 * Finnish: {{t-|fi|paastota}}
 * French: {{t+|fr|jeûner}}
-* Georgian: {{t|ka|მარხულობა|tr=marxuloba}}, {{t|ka|მარხვის შენახვა|tr=marxvis šenaxva}}
+* Georgian: {{t|ka|მარხულობა|tr=marxuloba|xs=Georgian}}, {{t|ka|მარხვის შენახვა|tr=marxvis šenaxva|xs=Georgian}}
 * German: {{t+|de|fasten}}
 * Greek: {{t+|el|νηστεύω|tr=nistévo|sc=Grek}}
 * {{trreq|Hebrew}}
@@ -294,7 +294,7 @@ Verb: {{etyl|ang}} {{term|fæstan|lang=ang}}. Cognate with Dutch {{term|vasten|l
 {{trans-top|of photographic film: more sensitive to light than average}}
 * Chinese: ''See Mandarin''
 * Danish: {{t+|da|hurtig}}
-* Finnish: {{t|fi|nopea}}
+* Finnish: {{t+|fi|nopea}}
 {{trans-mid}}
 * Mandarin: {{zh-ts|[[迅速]][[曝光]]的|[[迅速]][[曝光]]的}} ([[xùn]][[sù]][[pù]] [[guāng]][[de]])
 * Norwegian: {{t+|no|rask}}
@@ -334,7 +334,7 @@ Verb: {{etyl|ang}} {{term|fæstan|lang=ang}}. Cognate with Dutch {{term|vasten|l
 
 {{trans-top|of sleep: deep or sound}}<!--A-I-->
 * Danish: {{t-|da|dyb}}
-* Finnish: {{t|fi|sikeä}}, {{t|fi|syvä}}
+* Finnish: {{t-|fi|sikeä}}, {{t+|fi|syvä}}
 * German: {{t+|de|tief}}
 * Greek: {{t+|el|βαθύς|m|tr=vathís|sc=Grek}}
 * Italian: {{t+|it|profondo}}
@@ -413,7 +413,7 @@ Verb: {{etyl|ang}} {{term|fæstan|lang=ang}}. Cognate with Dutch {{term|vasten|l
 * Danish: [[hurtigt]]
 * Dutch: {{t+|nl|snel}}, {{t+|nl|vlug}}
 * Esperanto: {{t-|eo|rapide|xs=Esperanto}}
-* Finnish: {{t+|fi|nopeasti}}, {{t|fi|pikaisesti}}
+* Finnish: {{t+|fi|nopeasti}}, {{t-|fi|pikaisesti}}
 * French: {{t+|fr|rapidement}}
 * German: {{t+|de|schnell}}
 * Greek: {{t+|el|γρήγορα|tr=grígora|sc=Grek}}
