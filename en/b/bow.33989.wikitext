@@ -63,7 +63,7 @@ From {{etyl|ang|en}} {{term|boga|lang=ang}}, from {{proto|Germanic|bugan-|lang=e
 * Georgian: [[მშვილდი]] (mšvildi)
 * German: {{t+|de|Bogen|m}}
 * Greek:
-*: Ancient: {{t|grc|τόξον|n}} (tókʰson)
+*: Ancient: {{tø|grc|τόξον|n|sc=polytonic|xs=Ancient Greek}} (tókʰson)
 *: Moderb: {{t+|el|τόξο|n|sc=Grek}} (tókso)
 * Hebrew: [[קשת|קֶשֶת]] (keshet) {{f}}
 * {{trreq|Hindi}}
@@ -83,7 +83,7 @@ From {{etyl|ang|en}} {{term|boga|lang=ang}}, from {{proto|Germanic|bugan-|lang=e
 * [[Malayalam]]: [[വില്ല്]] (villu)
 * {{trreq|Mohawk}}
 * {{trreq|Mongolian}}
-* Norwegian: {{t-|no|bue}}, [[boge]] {{m}}
+* Norwegian: {{t-|no|bue}}, {{t-|no|boge|m}}
 * [[Ojibwe]]: [[mitigwaab]]
 * Old English: {{t-|ang|boga|m|xs=Old English}}
 * {{trreq|Persian}}
@@ -125,7 +125,7 @@ From {{etyl|ang|en}} {{term|boga|lang=ang}}, from {{proto|Germanic|bugan-|lang=e
 * French: {{t+|fr|arc|m}}
 * German: {{t+|de|Bogen|m}}
 {{trans-mid}}
-* Greek: {{t|el|τόξο|n}}, {{t|el|αψίδα|f}}
+* Greek: {{t+|el|τόξο|n|sc=Grek}}, {{t|el|αψίδα|f|sc=Grek}}
 * Hebrew: [[קשת|קֶשֶת]] (keshet) {{f}}
 * Icelandic: {{t+|is|bogi|m}}
 * Polish: {{t|pl|zgięcie|n}}, {{t|pl|zagięcie|n}}
@@ -147,9 +147,9 @@ From {{etyl|ang|en}} {{term|boga|lang=ang}}, from {{proto|Germanic|bugan-|lang=e
 * Finnish: {{t+|fi|jousi}}
 * French: {{t+|fr|archet|m}}
 * German: {{t+|de|Bogen|m}}
-* Greek: {{t|el|δοξάρι|n}} (δoksári)
+* Greek: {{t|el|δοξάρι|n|sc=Grek}} (δoksári)
 * Hebrew: [[קשת|קֶשֶת]] (keshet) {{f}}
-* Hungarian: [[vonó]]
+* Hungarian: {{t-|hu|vonó}}
 {{trans-mid}}
 * Icelandic: {{t+|is|bogi|m}}
 * Italian: {{t+|it|arco|m}}
@@ -173,10 +173,10 @@ From {{etyl|ang|en}} {{term|boga|lang=ang}}, from {{proto|Germanic|bugan-|lang=e
 * Chinese: [[蝴蝶結]], [[蝴蝶结]] (húdiéjié)
 * [[Crimean Tatar]]: [[bağ]], [[dügüm]] (northern dialect [[bav]])
 * Czech: {{t-|cs|klička|f}}
-* Danish: [[sløjfe]]
+* Danish: {{t-|da|sløjfe}}
 * Finnish: [[rusetti]], [[nauharuusuke]]
 * German: {{t+|de|Schleife|f}}
-* Greek: {{t|el|φιόγκος|n}}
+* Greek: {{t|el|φιόγκος|n|sc=Grek}}
 {{trans-mid}}
 * Icelandic: {{t-|is|slaufa|f}}
 * Japanese: [[蝶結び]] ([[ちょうむすび]], chōmusubi)
@@ -184,7 +184,7 @@ From {{etyl|ang|en}} {{term|boga|lang=ang}}, from {{proto|Germanic|bugan-|lang=e
 * Polish: {{t|pl|kokarda}}
 * Russian: {{t+|ru|бантик|f|tr=bántik|sc=Cyrl}}
 * Spanish: {{t+|es|lazo|m}}
-* Swedish: [[rosett]] {{c}}
+* Swedish: {{t+|sv|rosett|c}}
 {{trans-bottom}}
 
 ====Verb====
@@ -218,7 +218,7 @@ From {{etyl|ang|en}} {{term|boga|lang=ang}}, from {{proto|Germanic|bugan-|lang=e
 * Finnish: {{t+|fi|taipua}}
 * French: {{t+|fr|fléchir}}, {{t+|fr|courber}}
 * German: sich [[biegen]], sich [[verbiegen]]
-* Greek: {{t|el|κυρτώνω}}, {{t|el|λυγίζω}}
+* Greek: {{t|el|κυρτώνω|sc=Grek}}, {{t|el|λυγίζω|sc=Grek}}
 {{trans-mid}}
 * Hebrew: [[להתכופף]] (le'hitkofef)
 * Icelandic: [[bogna]], [[svigna]], [[bugast]]
@@ -238,7 +238,7 @@ From {{etyl|ang|en}} {{term|boga|lang=ang}}, from {{proto|Germanic|bugan-|lang=e
 * Dutch: {{t+|nl|buigen}}
 * Finnish: {{t+|fi|taivuttaa}}
 * French: [[courber]]
-* Greek: {{t|el|λυγίζω}}
+* Greek: {{t|el|λυγίζω|sc=Grek}}
 * Hebrew: [[לכופף]] (le'khofef)
 {{trans-mid}}
 * Icelandic: [[beygja]], [[sveigja]]
@@ -270,17 +270,17 @@ From {{etyl|ang|en}} {{term|bugan|būgan|lang=en}}, from {{proto|Germanic|beugan
 
 =====Translations=====
 {{trans-top|gesture made by bending forward at the waist}}
-* Chinese: {{t|zh|鞠躬|tr=jūgōng}}
+* Chinese: {{t-|cmn|鞠躬|tr=jūgōng|sc=Hani|xs=Mandarin}}
 * Czech: {{t-|cs|poklona|f}}
 * Danish: {{t-|da|buk}}
 * Dutch: {{t-|nl|buiging|f}}
 * Finnish: {{t-|fi|kumarrus}}
 * French: {{t+|fr|révérence|f}}
 * German: {{t-|de|Verbeugung|f}}
-* Greek: {{t|el|υπόκλιση|f}}
+* Greek: {{t|el|υπόκλιση|f|sc=Grek}}
 * Hebrew: [[קידה]] (qida) {{f}}
 * Icelandic: [[hneiging]] {{f}}
-* Italian: {{t|it|inchino|m}}
+* Italian: {{t-|it|inchino|m}}
 {{trans-mid}}
 * Japanese: [[辞儀]] ([[じぎ]], jigi)
 * [[Malayalam]]: [[കുനിയുക]] (kuniyuka)
@@ -314,14 +314,14 @@ From {{etyl|ang|en}} {{term|bugan|būgan|lang=en}}, from {{proto|Germanic|beugan
 {{trans-top|to bend oneself as a gesture of respect or deference}}
 * Arabic: {{Arab|[[انحنى للتحية]]}} {{IPAchar|(inħána lil-taħīya)}},  {{t|ar|انحنى|tr=inHanaa|sc=Arab}}
 * [[Catalan]]: [[corbar]], [[doblegar]], [[vinclar]], [[blincar]] (dialectal)
-* Chinese: {{t|zh|鞠躬|tr=jūgōng}},  {{t|zh|躬|tr=gōng}},  {{t|zh|哈腰|tr=hāyāo}}
+* Chinese: {{t-|cmn|鞠躬|tr=jūgōng|sc=Hani|xs=Mandarin}},  {{t-|cmn|躬|tr=gōng|sc=Hani|xs=Mandarin}},  {{t|cmn|哈腰|tr=hāyāo|sc=Hani|xs=Mandarin}}
 * Czech: {{t-|cs|klanět}} se
 * Danish: [[bukke]], [[bøje sig]]
 * Dutch: een [[buiging]] maken, zich [[buigen]]
 * Finnish: {{t-|fi|kumartaa}}, {{t-|fi|kumartua}}
 * French: [[s'incliner]], [[faire]] [[une]] [[révérence]]
 * German: sich [[verbeugen]], eine Verbeugung [[machen]]
-* Greek: {{t|el|υποκλίνομαι}}
+* Greek: {{t|el|υποκλίνομαι|sc=Grek}}
 * Hebrew: [[לקוד]] (la'qud)
 {{trans-mid}}
 * Hungarian: {{t+|hu|meghajol}}
@@ -380,7 +380,7 @@ From {{etyl|ang|en}} {{term|bugan|būgan|lang=en}}, from {{proto|Germanic|beugan
 * Finnish: {{t-|fi|keula}}, {{t-|fi|kokka}}
 * French: {{t+|fr|étrave}}, {{t+|fr|proue|f}}
 * German: {{t+|de|Bug|m}}
-* Greek: {{t|el|πρώρα}}, {{t|el|πλώρη}}
+* Greek: {{t|el|πρώρα|sc=Grek}}, {{t|el|πλώρη|sc=Grek}}
 * Hungarian: [[hajóorr]]
 * Icelandic: {{t-|is|kjölur|m}}
 {{trans-mid}}
