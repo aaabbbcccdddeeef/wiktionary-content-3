@@ -36,16 +36,16 @@
 * [[Afrikaans]]: [[nael]]
 * Albanian: [[thua]] {{f}}
 * Arabic: {{Arab|[[ظفر]]}} (ẓufr)
-* Armenian: {{t|hy|եղունգ|sc=Armn|tr=eġung}}
-*: Old Armenian: {{t|xcl|եղունգն|sc=Armn|tr=ełungn}}
-* [[Azeri]]: {{t|az|dırnaq}}
+* Armenian: {{t-|hy|եղունգ|tr=eġung|sc=Armn|xs=Armenian}}
+*: Old Armenian: {{tø|xcl|եղունգն|tr=ełungn|sc=Armn|xs=Old Armenian}}
+* [[Azeri]]: {{t|az|dırnaq|xs=Azeri}}
 * Bosnian: {{t-|bs|nokat|m}}
 * [[Breton]]: [[ivin]] {{m}}, ivinoù {{p}}
 * [[Campidanese Sardinian]]: [[unga]] {{f}}
 * [[Catalan]]: [[ungla]] {{f}}
 * Chinese: [[指甲]] (zhǐjia)
 * Croatian: {{t-|hr|nokat|m|alt=nȍkat}}
-* Czech: {{t-|cs|nehet|m}}
+* Czech: {{t+|cs|nehet|m}}
 * Danish: {{t-|da|negl}}
 * Dutch: {{t+|nl|nagel|m}}
 * [[Erzya]]: [[кенже]] (kenzhe)
@@ -54,7 +54,7 @@
 * Finnish: {{t+|fi|kynsi}}
 * French: {{t+|fr|ongle|m}}
 * [[Galician]]: [[unlla]] {{f}}, [[uña]] {{f}}
-* Georgian: {{t|ka|ფრჩხილი|tr=p'rč'xili}}
+* Georgian: {{t-|ka|ფრჩხილი|tr=p'rč'xili|xs=Georgian}}
 * German: {{t+|de|Nagel|m}}
 * [[Gujarati]]: [[નખ]] (nakh) {{m}}
 * Hindi: {{t-|hi|नाख़ुन|m|tr=nāḵẖun|sc=Deva|xs=Hindi}}
@@ -74,14 +74,14 @@
 * Norwegian: {{t+|no|negl|m}}
 * [[Occitan]]: {{t+|oc|ongla|f|xs=Occitan}}, {{t+|oc|ungla|f|xs=Occitan}}
 * Old English: {{t-|ang|nægel|alt=næġel|xs=Old English}}
-* Persian: {{t-|fa|ناخن|sc=fa-Arab|xs=Persian|tr=nâkhon}}
+* Persian: {{t-|fa|ناخن|tr=nâkhon|sc=fa-Arab|xs=Persian}}
 * [[Pitjantjatjara]]: [[piri]]
 * Polish: {{t+|pl|paznokieć|m}}
 * Portuguese: {{t+|pt|unha|f}}
 * [[Rohingya]]: [[nok]]
 * Romanian: {{t-|ro|unghie|f}}
 * Russian: [[ноготь]] {{m}} (nógot')
-* Sanskrit: {{t-|sa|नख}} (nakha)
+* Sanskrit: {{t-|sa|नख|sc=Deva|xs=Sanskrit}} (nakha)
 * Serbian:
 *: Cyrillic: [[нокат#Serbian|нокат]] {{m}}
 *: Roman: [[nokat#Serbian|nokat]] {{m}}
@@ -93,17 +93,17 @@
 * [[Tagalog]]: [[kuko]]
 * [[Telugu]]: [[గోరు]] (goru), [[నఖము]] (nakhamu)
 * [[Tok Pisin]]: [[kapa]] [[bilong]] [[pinga]]
-* Turkish: {{t|tr|tırnak}}
+* Turkish: {{t+|tr|tırnak}}
 * Urdu: {{t-|ur|ناخن|m|tr=nā<u>kh</u>un|sc=ur-Arab|xs=Urdu}}
-* Vietnamese: {{t|vi|móng}}
+* Vietnamese: {{t|vi|móng|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|spike-shaped metal fastener used for joining wood or similar materials}}
 * [[Afrikaans]]: [[spyker]]
 * Albanian: [[gozhdë]] {{f}}
 * Arabic: {{Arab|[[مسمار]]}} {{IPAchar|(mismār)}} {{m}}
-* Armenian: {{t|hy|մեխ|sc=Armn|tr=mex}}
-* [[Azeri]]: {{t|az|mıx}}
+* Armenian: {{t-|hy|մեխ|tr=mex|sc=Armn|xs=Armenian}}
+* [[Azeri]]: {{t|az|mıx|xs=Azeri}}
 * Bosnian: {{t-|bs|klin|m}}, {{t-|bs|ekser|m}}
 * [[Breton]]: [[tach]] {{m}}, tachoù {{p}}
 * [[Catalan]]: [[clau]] {{m}}
@@ -117,7 +117,7 @@
 * Estonian: {{t-|et|nael}}
 * Finnish: {{t+|fi|naula}}
 * French: {{t+|fr|clou|m}}
-* Georgian: {{t|ka|ლურსმანი|tr=lursmani}}
+* Georgian: {{t-|ka|ლურსმანი|tr=lursmani|xs=Georgian}}
 * German: {{t+|de|Nagel|m}}
 * Hindi: {{t-|hi|कील|f|tr=kīl|sc=Deva|xs=Hindi}}
 * Hungarian: {{t+|hu|szög}}
@@ -132,7 +132,7 @@
 * Latvian: [[nagla]] {{f}}
 * Maltese: {{t-|mt|musmar|xs=Maltese}}
 * [[Northern Sami]]: [[spiikkár]]
-* Norwegian: {{t-|no|spiker}}
+* Norwegian: {{t+|no|spiker}}
 * Old English: {{t-|ang|nægel|alt=næġel|xs=Old English}}
 * Polish: {{t+|pl|gwóźdź|m}}
 * Portuguese: {{t+|pt|prego|m}}
@@ -147,7 +147,7 @@
 * Swedish: {{t+|sv|spik|c}}
 * [[Tagalog]]: [[pako]]
 * [[Telugu]]: [[మేకు]] (mEku)
-* Turkish: {{t|tr|çivi}}, {{t|tr|mıh}}
+* Turkish: {{t|tr|çivi}}, {{t+|tr|mıh}}
 * Urdu: {{t-|ur|کیل|f|tr=kīl|sc=ur-Arab|xs=Urdu}}
 {{trans-bottom}}
 
@@ -184,7 +184,7 @@ From {{etyl|ang|en}} {{term|næġlan||lang=ang}}
 
 =====Translations=====
 {{trans-top|employ a nail as a fastener}}
-* Armenian: {{t|hy|մեխել|sc=Armn|tr=mexel}}
+* Armenian: {{t|hy|մեխել|tr=mexel|sc=Armn|xs=Armenian}}
 * [[Breton]]: [[tachañ]]
 * Czech: {{t-|cs|přibít}}
 * Dutch: [[nagelen]], [[inkloppen]]
