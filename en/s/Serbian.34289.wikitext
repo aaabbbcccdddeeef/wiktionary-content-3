@@ -19,13 +19,13 @@ Sometimes the distinction is made between {{term|Serbian||a person from Serbia}}
 ====Translations====
 {{trans-top|person from Serbia; see also [[Serb#Translations|Serb]]}}
 * Albanian: {{t-|sq|serb|m|xs=Albanian}}, {{t-|sq|serbe|f|xs=Albanian}}
-* Armenian: {{t|hy|սերբ|sc=Armn|tr=serb}}
+* Armenian: {{t-|hy|սերբ|tr=serb|sc=Armn|xs=Armenian}}
 * Bosnian: {{t-|bs|Srbijanac|m}}, {{t-|bs|Srbijanka|f}}
 * [[Catalan]]: [[serbi]] {{m}}, sèrbia {{f}}
 * Chinese:
 *: Simplified: [[塞尔维亚人]] (Sāiěrwéiyà rén)
 *: Traditional: [[塞爾維亞人]]
-* Croatian: {{t-|hr|Srbijanac|alt=Srbijánac|m}}, {{t-|hr|Srbijanka|alt=Srbìjānka|f}}
+* Croatian: {{t-|hr|Srbijanac|m|alt=Srbijánac}}, {{t-|hr|Srbijanka|f|alt=Srbìjānka}}
 * Danish: {{t-|da|serber}}
 * Dutch: [[Serviër]] {{m}}, [[Servische]] {{f}}
 * Esperanto: [[serbo]] (1), [[serbiano]] (2)
@@ -67,7 +67,7 @@ Sometimes the distinction is made between {{term|Serbian||a person from Serbia}}
 {{trans-top|the Serbian language}}
 * Albanian: {{t+|sq|serbishte|xs=Albanian}}
 * Arabic: {{Arab|[[الصربية]]}} (aʂ-ʂarbīya)
-* Armenian: {{t|hy|սերբերեն|sc=Armn|tr=serberen}}
+* Armenian: {{t-|hy|սերբերեն|tr=serberen|sc=Armn|xs=Armenian}}
 * Bosnian: {{t+|bs|srpski|m}}
 * Bulgarian: {{t-|bg|сръбски|m|tr=srǎbski|sc=Cyrl}}
 * [[Catalan]]: [[serbi]], {{m}}
@@ -106,7 +106,7 @@ Sometimes the distinction is made between {{term|Serbian||a person from Serbia}}
 * Polish: {{t+|pl|serbski|m}}
 * Portuguese: [[sérvio]] {{m}}
 * Russian: {{t+|ru|сербский|m|sc=Cyrl}}
-* [[Scottish Gaelic]]: {{t-|gd|Sèarbais|f}}
+* [[Scottish Gaelic]]: {{t-|gd|Sèarbais|f|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: [[српски#Serbian|српски]] {{m}}
 *: Roman: [[srpski#Serbian|srpski]] {{m}}
@@ -198,7 +198,7 @@ Sometimes the distinction is made between {{term|Serbian||a person from Serbia}}
 * Latvian: [[Serbu]]
 * Norwegian: {{t+|no|serbisk}}
 * Persian: {{fa-Arab|[[صربستانی]]}} (sarbistānī)
-* Polish: [[serbski]] {{m}}
+* Polish: {{t+|pl|serbski|m}}
 * Portuguese: [[sérvio]]
 * Russian: [[сербский]] (sérbskij)
 * Serbian:
@@ -212,7 +212,7 @@ Sometimes the distinction is made between {{term|Serbian||a person from Serbia}}
 
 {{trans-top|pertaining to the Serbian language}}
 * Bosnian: {{t+|bs|srpski|m}}
-* Croatian: {{t-|hr|srpski|alt=sȑpskī|m}}
+* Croatian: {{t-|hr|srpski|m|alt=sȑpskī}}
 * Dutch: {{t+|nl|Servisch}}
 * Esperanto: {{t-|eo|serblingva|xs=Esperanto}}
 * Estonian: [[serbiakeelne]]
@@ -229,7 +229,7 @@ Sometimes the distinction is made between {{term|Serbian||a person from Serbia}}
 * Italian: {{t+|it|serbo}}
 * Norwegian: {{t+|no|serbisk}}
 * Persian: {{fa-Arab|[[صربی]]}} (sarbi)
-* Polish: [[serbski]] {{m}}
+* Polish: {{t+|pl|serbski|m}}
 * Portuguese: [[sérvio]]
 * Russian: [[сербский]] (sérbskij)
 * Serbian:
