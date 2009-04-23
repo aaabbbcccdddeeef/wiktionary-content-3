@@ -50,8 +50,8 @@
 =====Translations=====
 {{trans-top|used for catching fish}}
 * Albanian: [[rrjetë]] {{f}}
-* Basque: [[sare]]
-* Catalan: [[xarxa]] {{f}}
+* Basque: {{t-|eu|sare|xs=Basque}}
+* Catalan: {{t-|ca|xarxa|f}}
 * [[Chamicuro]]: {{tø|ccc|rete}}
 * Croatian: {{t-|hr|mreža|f}}
 * Czech: {{t-|cs|síť|f}}
@@ -75,7 +75,7 @@
 * [[Malayalam]]: [[വല]] (vala)
 * Polish: {{t+|pl|sieć|f}}
 * Portuguese: {{t+|pt|rede|f}}
-* Russian: {{t+|ru|сеть|f|sc=Cyrl|tr=s'et'}}
+* Russian: {{t+|ru|сеть|f|tr=s'et'|sc=Cyrl}}
 * Slovene: {{t+|sl|mreža|f}}
 * Spanish: {{t+|es|red|f}}
 * Swedish: {{t+|sv|nät|n}}
@@ -89,7 +89,7 @@
 * Kurdish: {{ku-Arab|[[داو]]}}
 {{trans-mid}}
 * Polish: {{t+|pl|sieć|f}}
-* Russian: {{t+|ru|сеть|f|sc=Cyrl|tr=s'et'}}
+* Russian: {{t+|ru|сеть|f|tr=s'et'|sc=Cyrl}}
 * Slovene: {{t+|sl|mreža|f}}
 * Swedish: {{t+|sv|nät|n}}
 {{trans-bottom}}
@@ -108,7 +108,7 @@
 * Italian: {{t+|it|rete|f}}
 * Korean: [[그물]] (''geumur'', -l)
 * Portuguese: {{t+|pt|malha|f}}
-* Russian: {{t+|ru|сетка|f|sc=Cyrl|tr=''s'étka''}}
+* Russian: {{t+|ru|сетка|f|tr=''s'étka''|sc=Cyrl}}
 * Slovene: {{t+|sl|mreža|f}}
 * Spanish: {{t+|es|red|f}}
 * Swedish: {{t+|sv|nät|n}}
@@ -126,15 +126,15 @@
 {{trans-mid}}
 * Polish: {{t+|pl|sieć|f}}
 * Portuguese: {{t+|pt|rede|f}}
-* Russian: {{t+|ru|сети|f|p|sc=Cyrl|tr=''s'éti''}}
+* Russian: {{t+|ru|сети|f|p|tr=''s'éti''|sc=Cyrl}}
 * Slovene: {{t+|sl|mreža|f}}
 * Spanish: {{t+|es|red|f}}
 * [[Telugu]]: [[వల]] (''vala'')
 {{trans-bottom}}
 
 {{trans-top|anything that has the appearance of a net}}
-* Catalan: [[xarxa]]
-* Dutch: [[net]] {{n}}
+* Catalan: {{t-|ca|xarxa}}
+* Dutch: {{t+|nl|net|n}}
 * Finnish: {{t+|fi|verkko}}
 * German: {{t+|de|Netz|n}}
 * Greek: [[δίχτυωτό]] (''dikhtioto'') {{n}}
@@ -142,7 +142,7 @@
 {{trans-mid}}
 * Italian: {{t+|it|rete|f}}
 * Polish: {{t+|pl|sieć|f}}, {{t+|pl|siatka|f}}
-* Russian: {{t+|ru|сеть|f|sc=Cyrl|tr=''s'et'''}}, {{t+|ru|сетка|f|sc=Cyrl|tr=s'étka}}
+* Russian: {{t+|ru|сеть|f|tr=''s'et'''|sc=Cyrl}}, {{t+|ru|сетка|f|tr=s'étka|sc=Cyrl}}
 * Slovene: {{t+|sl|mreža|f}}
 {{trans-bottom}}
 
@@ -154,7 +154,7 @@
 {{trans-bottom}}
 
 {{trans-top|in computing}}
-* Catalan: [[xarxa]]
+* Catalan: {{t-|ca|xarxa}}
 * Danish: {{t-|da|net|n}}
 * Dutch: [[net]] {{n}}, [[netwerk]] {{n}}
 * Faroese: {{t-|fo|net|n|xs=Faroese}}
@@ -168,7 +168,7 @@
 * Italian: {{t+|it|rete|f}}
 * Polish: {{t+|pl|sieć|f}}
 * Portuguese: {{t+|pt|rede|f}}
-* Russian: {{t+|ru|сеть|f|sc=Cyrl|tr=''s'et'''}}
+* Russian: {{t+|ru|сеть|f|tr=''s'et'''|sc=Cyrl}}
 * Slovene: [[mreža]] {{f}}, [[omrežje]] {{n}}
 * Spanish: {{t+|es|red|f}}
 * Swedish: {{t+|sv|nät|n}}
@@ -240,7 +240,7 @@ Via {{etyl|enm}} and {{etyl|frm}}, compare French ''[[#French|net]]''
 
 =====Translations=====
 {{trans-top|remaining after expenses or deductions}}
-* Catalan: '''net'''
+* Catalan: {{t+|ca|net}}
 * Dutch: {{t-|nl|netto}}
 * Finnish: [[netto#Finnish|netto-]] (''in compounds''), [[puhdas]]
 * French: {{t+|fr|net|m}}
@@ -248,7 +248,7 @@ Via {{etyl|enm}} and {{etyl|frm}}, compare French ''[[#French|net]]''
 * Hebrew: {{he-translation|נקי|''nakí''}}
 {{trans-mid}}
 * Italian: {{t+|it|netto}}
-* Polish: {{t+|pl|netto|n}}
+* Polish: {{t-|pl|netto|n}}
 * Portuguese: {{t+|pt|líquido|m}}
 * Slovene: {{t-|sl|neto}}
 * Spanish: {{t+|es|neto|m}}
@@ -283,7 +283,7 @@ Via {{etyl|enm}} and {{etyl|frm}}, compare French ''[[#French|net]]''
 {{trans-mid}}
 * Hebrew: {{he-translation|נטו|''néto''}}, {{he-translation|רווח נקי|''révakh nakí''}}
 * [[Interlingua]]: [[saldo]]
-* Portuguese: {{t+|pt|lucro|m}}, {{t-|pt|saldo|m}}
+* Portuguese: {{t+|pt|lucro|m}}, {{t+|pt|saldo|m}}
 * Romanian: [[net#Romanian|net]] {{m}}, [[netă]] {{f}}
 * Swedish: {{t-|sv|netto|n}}
 {{trans-bottom}}
@@ -299,7 +299,7 @@ Via {{etyl|enm}} and {{etyl|frm}}, compare French ''[[#French|net]]''
 =====Translations=====
 {{trans-top|To receive as profit}}
 * Dutch: [[netto]] [[vangen]]/[[verdienen]]
-* Finnish: [[netota]], [[voittaa]]
+* Finnish: {{t-|fi|netota}}, {{t+|fi|voittaa}}
 * German: [[netto]] [[verdienen]]
 * Hebrew: {{he-translation|להרויח|''leharví`akh''}}
 {{trans-mid}}
