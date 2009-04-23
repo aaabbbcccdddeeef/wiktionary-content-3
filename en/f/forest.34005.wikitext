@@ -43,10 +43,10 @@
 * Esperanto: {{t-|eo|arbaro|xs=Esperanto}}
 * Estonian: {{t+|et|mets}}
 * Finnish: {{t+|fi|metsä}}
-* French: {{t+|fr|forêt|f}}, {{t+|fr|brousse}}, {{t+|fr|sylve}}, [[bois]], [[boqueteau]], [[bosquet]]
+* French: {{t+|fr|forêt|f}}, {{t+|fr|brousse}}, {{t+|fr|sylve}}, {{t+|fr|bois}}, {{t+|fr|boqueteau}}, {{t+|fr|bosquet}}
 * [[Galician]]: [[bosque]], [[floresta]], [[selva]]
-* Georgian: {{t-|ka|ტყე|sc=Geor|tr=tqe}}
-* German: {{t+|de|Wald|m}}, {{t+|de|Forst}}, {{t|de|Gehölz|n}}, {{t|de|Hain}}
+* Georgian: {{t-|ka|ტყე|tr=tqe|sc=Geor|xs=Georgian}}
+* German: {{t+|de|Wald|m}}, {{t+|de|Forst}}, {{t|de|Gehölz|n}}, {{t+|de|Hain}}
 * Greek: {{t+|el|δάσος|n|tr=ðásos|sc=Grek}}, {{t|el|δρυμός|m|tr=ðrimós|sc=Grek}}, {{t|el|άλσος|n|tr=álsos|sc=Grek}}
 * Hebrew: [[יער]] (ya'ar) {{m}}
 * Hungarian: {{t+|hu|erdő}}, {{t+|hu|erdőség}}
@@ -62,17 +62,17 @@
 * [[Lakota]]: [[kaƞwita]]
 * Latin: {{t+|la|silva|f}}
 * Latvian: {{t+|lv|mežs|m|xs=Latvian}}
-* Lithuanian: [[miškas]]
+* Lithuanian: {{t+|lt|miškas|xs=Lithuanian}}
 * Malay: {{t+|ms|hutan|xs=Malay}}
 * Maltese: [[foresta]] {{f}}, [[masġar]] {{m}}
 * [[Mi'kmaq]]: [[nebŏŏkt']]
 * Mingo: [[kaháta']]
 * [[Northern Sami]]: [[vuovdi]]
-* Norwegian: {{t-|no|skog|m}}
+* Norwegian: {{t+|no|skog|m}}
 * [[Occitan]]: [[forèst]] {{f}}, [[selva]] {{f}}
 * [[Ojibwe]]: [[mitigwaaki]], [[mitigwaakiin]] {{p}}
 * Polish: {{t+|pl|las|m}}
-* Portuguese: {{t+|pt|floresta|f}}, [[selva]], [[bosque]]
+* Portuguese: {{t+|pt|floresta|f}}, {{t+|pt|selva}}, {{t+|pt|bosque}}
 * Romanian: [[pădure]] {{f}}, [[silvă]] (rare) {{f}}
 * Russian: {{t+|ru|лес|m|tr=les|sc=Cyrl}}
 * [[Scottish Gaelic]]: [[coille]] {{f}}
@@ -80,11 +80,11 @@
 * Slovak: {{t-|sk|les|m}}, {{t-|sk|hora|f}}
 * Slovene: {{t+|sl|gozd|m}}, {{t+|sl|les|m}}, {{t-|sl|hosta|f}}
 * Spanish: {{t+|es|bosque|m}}, {{t-|es|floresta|f}}, {{t+|es|selva}}
-* Swahili: {{t-|sw|msitu|xs=Swahili}}
+* Swahili: {{t+|sw|msitu|xs=Swahili}}
 * Swedish: {{t+|sv|skog}}
 * [[Telugu]]: [[అడవి]] (aDavi)
 * [[Walloon]]: [[bwès]], [[bos]]
-* [[West Frisian]]: {{t-|fy|bosk|n}}, {{t-|fy|wâld|n}}
+* [[West Frisian]]: {{t-|fy|bosk|n|xs=West Frisian}}, {{t-|fy|wâld|n|xs=West Frisian}}
 * [[Yucatec Maya]]: [[ƙahš]]
 {{trans-bottom}}
 
@@ -96,7 +96,7 @@
 {{trans-bottom}}
 
 {{trans-top|graph theory: union of trees}}
-* Danish: {{t|da|skov|c}}
+* Danish: {{t-|da|skov|c}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -120,7 +120,7 @@
 * Bulgarian: [[горски]] {{m|p}}, [[горска]] {{f}}, [[горско]] {{n}}
 * Czech: [[lesní]] {{m}}
 * Esperanto: {{t-|eo|arbara|xs=Esperanto}}
-* Greek: [[δασονομικός]] (dasonomikós)
+* Greek: {{t+|el|δασονομικός|tr=dasonomikós|sc=Grek}}
 * Polish: [[leśny]] {{m}}, [[leśna]] {{f}}, [[leśne]] {{n}}
 {{trans-mid}}
 * Portuguese: [[floresta]] {{f}}, [[florestas]] {{p}}
