@@ -47,7 +47,7 @@
 * Norwegian: {{t-|no|forbannelse|m}}
 * Portuguese: [[maldição]] {{f}}
 * Romanian: {{t-|ro|blestem|n}}
-* Russian: {{t|ru|проклятие|n|sc=Cyrl|tr=prokl'átije}}
+* Russian: {{t+|ru|проклятие|n|tr=prokl'átije|sc=Cyrl}}
 * Serbian:
 *: Cyrillic: [[клетва#Serbian|клетва]] {{f}}, [[проклетство#Serbian|проклетство]] {{n}}
 *: Latin: [[kletva#Serbian|kletva]] {{f}}, [[prokletstvo#Serbian|prokletstvo]] {{n}}
@@ -73,11 +73,11 @@
 *: Bokmål: {{t-|no|ed|m}}, {{t-|no|banneord|n}}
 *: Nynorsk: {{t-|nn|eid|m|xs=Norwegian Nynorsk}}, {{t-|nn|bannord|n|xs=Norwegian Nynorsk}}
 {{trans-mid}}
-* Russian: {{t|ru|ругательство|n|sc=Cyrl|tr=rugát'el'stvo}}
+* Russian: {{t|ru|ругательство|n|tr=rugát'el'stvo|sc=Cyrl}}
 * Serbian:
 *: Cyrillic: [[псовка#Serbian|псовка]] {{f}}
 *: Latin: [[psovka#Serbian|psovka]] {{f}}
-* Swedish: [[svordom]] {{c}}
+* Swedish: {{t+|sv|svordom|c}}
 * [[Telugu]]: [[తిట్టు]] (tiTTu)
 {{trans-bottom}}
 
@@ -99,7 +99,7 @@
 * Bosnian: {{t-|bs|prokleti}}, {{t-|bs|ukleti}}, {{t-|bs|kleti}}
 * Czech: {{t-|cs|proklít}}, {{t-|cs|proklínat}}
 * Dutch: [[vervloeken]]
-* Esperanto: {{t-|eo|malbeni}}
+* Esperanto: {{t-|eo|malbeni|xs=Esperanto}}
 * Finnish: {{t+|fi|kirota}}
 * French: {{t+|fr|maudire}}
 * German: [[fluchen]] (engl. [[swear]]), [[verfluchen]]
@@ -110,7 +110,7 @@
 * Norwegian: {{t-|no|forbanne}}
 * Portuguese: {{t+|pt|amaldiçoar}}
 * Romanian: {{t+|ro|blestema}}
-* Russian: {{t|ru|проклинать|sc=Cyrl|tr=proklinát'}} {{impf}}, {{t|ru|проклясть|sc=Cyrl|tr=prokl'ást'}} {{pf}}
+* Russian: {{t|ru|проклинать|tr=proklinát'|sc=Cyrl}} {{impf}}, {{t|ru|проклясть|tr=prokl'ást'|sc=Cyrl}} {{pf}}
 * Serbian:
 *: Cyrillic: [[проклети#Serbian|проклети]], [[уклети#Serbian|уклети]], [[клети#Serbian|клети]]
 *: Latin: [[prokleti#Serbian|prokleti]], [[ukleti#Serbian|ukleti]], [[kleti#Serbian|kleti]]
@@ -126,7 +126,7 @@
 * Hebrew: [[לקלל]] (leqalel)
 * Italian: [[imprecare]] {{ref|4}
 {{trans-mid}}
-* Russian: {{t|ru|ругать|sc=Cyrl|tr=rugát'}} {{impf}}, {{t|ru|обругать|sc=Cyrl|tr=obrugát'}} {{pf}}}
+* Russian: {{t|ru|ругать|tr=rugát'|sc=Cyrl}} {{impf}}, {{t|ru|обругать|tr=obrugát'|sc=Cyrl}} {{pf}}}
 * Serbian:
 *: Cyrillic: [[псовати#Serbian|псовати]], [[опсовати#Serbian|опсовати]]
 *: Latin: [[psovati#Serbian|psovati]], [[opsovati#Serbian|opsovati]]
@@ -135,7 +135,7 @@
 
 {{trans-top|use offensive language}}
 * Finnish: {{t+|fi|kiroilla}}
-* Russian: {{t|ru|ругаться|sc=Cyrl|tr=rugát's'a}} {{impf}}
+* Russian: {{t|ru|ругаться|tr=rugát's'a|sc=Cyrl}} {{impf}}
 {{trans-mid}}
 * Swedish: {{t+|sv|svära}}
 {{trans-bottom}}
