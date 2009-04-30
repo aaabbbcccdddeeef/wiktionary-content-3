@@ -33,7 +33,7 @@ From {{etyl|ang|en}} {{term|linke|lang=en}} probably from {{etyl|non|en}} *{{ter
 
 =====Translations=====
 {{trans-top|connection}}
-* Chinese: [[連結]] (liánjíe)
+* Chinese: {{zh-tsp|連結|连结|liánjíe}}
 * Czech: {{t-|cs|spojení|n}}, {{t-|cs|propojení|n}}
 * Danish: [[forbindelse]] {{c}}
 * Dutch: {{t+|nl|link|m}}, {{t+|nl|verbinding|f}}, {{t+|nl|relatie|f}}, {{t|nl|koppeling|f}}
@@ -47,14 +47,14 @@ From {{etyl|ang|en}} {{term|linke|lang=en}} probably from {{etyl|non|en}} *{{ter
 * [[Javanese]]: {{t+|jv|pranala|xs=Javanese}}
 * Malay: {{t+|ms|pautan|xs=Malay}}
 * Portuguese: {{t+|pt|ligação|f}}
-* Russian: {{t+|ru|связь|f|sc=Cyrl}}
+* Russian: {{t+|ru|связь|f|tr=svjaz'|sc=Cyrl}}
 * Spanish: {{t+|es|enlace}}
 * Swedish: {{t-|sv|anknytning|c}}, {{t+|sv|länk|c}}
 * [[West Frisian]]: [[ferbining]], [[keppeling]]
 {{trans-bottom}}
 
 {{trans-top|element of a chain}}
-* Chinese: [[連結]] (liánjíe)
+* Chinese: {{zh-tsp|連結|连结|liánjíe}}
 * Czech: {{t-|cs|článek|m}}
 * Danish: {{t+|da|led}}
 * Dutch: {{t|nl|schakel|m}}
@@ -80,6 +80,8 @@ From {{etyl|ang|en}} {{term|linke|lang=en}} probably from {{etyl|non|en}} *{{ter
 {{trans-bottom}}
 
 {{trans-top|computing: hyperlink}}
+* Arabic: {{t|ar|رابط|m|tr=raabiT|sc=Arab}}, {{t|ar|روابط|m|p|tr=rawaabiT|sc=Arab}} (''plural'')
+* Chinese: {{zh-tsp|鏈接|链接|liànjiē}}
 * Czech: {{t-|cs|odkaz|m}}
 * Danish: {{t-|da|link}}
 * Dutch: {{t+|nl|link}}, {{t|nl|koppeling|f}}, {{t-|nl|verwijzing|f}}
@@ -93,7 +95,7 @@ From {{etyl|ang|en}} {{term|linke|lang=en}} probably from {{etyl|non|en}} *{{ter
 * Polish: {{t+|pl|link|m}}
 * Portuguese: {{t+|pt|ligação|f}}
 * Romanian: {{t-|ro|hyperlink|n}}, {{t-|ro|legătură|f}}
-* Russian: {{t+|ru|гиперссылка|f|sc=Cyrl}}, {{t+|ru|ссылка|f|sc=Cyrl}}
+* Russian: {{t+|ru|ссылка|f|tr=ssýlka|sc=Cyrl}}, {{t+|ru|гиперссылка|f|tr=giperssýlka|sc=Cyrl}}
 * Spanish: {{t|es|anlace|m}}, {{t-|es|hipervínculo}}
 * Swedish: {{t+|sv|hyperlänk|c}}, {{t+|sv|länk|c}}
 {{trans-bottom}}
