@@ -8,7 +8,7 @@ From {{etyl|ang}} {{term|wyrd||fate, destiny|lang=ang}}, through {{term|weohrtan
 * {{a|RP}} {{IPA|/wɪəd/}}, {{SAMPA|/wI@d/}}
 * {{a|US}} {{IPA|/wiɚd/|/wɪɚd/}}, {{SAMPA|/wi@rd/}}
 * {{audio|en-us-weird.ogg|Audio (US)}}
-*: {{rhymes|ɪə(r)d}}
+* {{rhymes|ɪə(r)d}}
 
 ===Adjective===
 {{en-adj|er}}
@@ -18,7 +18,10 @@ From {{etyl|ang}} {{term|wyrd||fate, destiny|lang=ang}}, through {{term|weohrtan
 # Deviating from the normal; [[bizarre]].
 # {{archaic}} Of or pertaining to the [[Fates]].
 
+{{rfex}}
+
 ====Synonyms====
+{{rfc|sort out in senses}} 
 * [[eerie]]
 * [[uncanny]]
 * See also [[Wikisaurus:strange]]
@@ -30,14 +33,17 @@ From {{etyl|ang}} {{term|wyrd||fate, destiny|lang=ang}}, through {{term|weohrtan
 
 ====Translations====
 {{trans-top|having supernatural or preternatural power}}
+* Dutch: {{t|nl|bovennatuurlijk}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|having an unusually strange character or behaviour}}
+* Dutch: {{t|nl|vreemd}}, {{t|nl|raar}}, {{t|nl|bizar}}, {{t|nl|eigenaardig}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|deviating from the normal; bizarre}}
+* Dutch: {{t|nl|vreemd}}, {{t|nl|raar}}, {{t|nl|ongewoon}}, {{t|nl|bizar}}, {{t|nl|eigenaardig}}, {{t|nl|merkwaardig}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -46,29 +52,36 @@ From {{etyl|ang}} {{term|wyrd||fate, destiny|lang=ang}}, through {{term|weohrtan
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|German}}: [[eigenartig]], [[merkwürdig]], [[sonderbar]], [[seltsam]], [[bizarr]]
+* {{ttbc|German}}: {{t|de|eigenartig}}, {{t|de|merkwürdig}}, {{t|de|sonderbar}}, {{t|de|seltsam}}, {{t|de|bizarr}}
 {{trans-mid}}
-* {{ttbc|Polish}}: [[dziwny]] {{m}}, [[dziwaczny]] {{m}}, [[cudaczny]] {{m}}
+* {{ttbc|Polish}}: {{t|pl|dziwny}}, {{t|pl|dziwaczny}}, {{t|pl|cudaczny}}
 {{trans-bottom}}
 
 ===Noun===
 {{en-noun}}
 
-# {{context|archaic|except in Scots}} [[fate|Fate]] or [[destiny]].
-#* '''1912''': In the '''weird''' of death shall the hapless be whelmed, and and from Doom's dark prison / Shall she steal forth never again. — Euripides, ''Medea'', trans. Arthur S. Way (Heinemenn 1946, p. 361)
+# {{context|archaic|except in Scots}} [[fate]] or [[destiny]]
+#* '''1912''', [[w:Euripides|Euripides]], ''[[s:Medea|Medea]]'', trans. Arthur S. Way (Heinemenn 1946, p. 361)
+#*: In the '''weird''' of death shall the hapless be whelmed, and from Doom’s dark prison / Shall she steal forth never again.
 # {{context|archaic|in plural}} The [[Fates]].
 
 ====Derived terms====
 * [[dree one’s weird]]
 
 ===Verb===
+{{rfc|shouldn’t this be at [[weird out]]?}}
 {{en-verb}}
 
 # To make someone feel strange.
-#: Hey man, you're '''weirding''' me out.
+#: ''Hey man, you’re '''weirding''' me out.''
+
+====Translations====
+{{trans-top|make feel strange}}
+* Dutch: {{t|nl|de}} {{t|nl|kriebel|alt=kriebels}} {{t|nl|bezorgen}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ===Anagrams===
-* {{alphagram|deirw}}
 * [[wider]]
 * [[wired]]
 
@@ -77,7 +90,7 @@ From {{etyl|ang}} {{term|wyrd||fate, destiny|lang=ang}}, through {{term|weohrtan
 ==Scots==
 
 ===Etymology===
-{{etyl|ang|sco}} {{term|wyrd||fate, destiny|lang=ang}}.
+From {{etyl|ang|sco}} {{term|wyrd||fate, destiny|lang=ang}}, through {{term|weohrtan||to become|lang=ang}}.
 
 ===Pronunciation===
 * {{IPA|/wird/|lang=sco}}
@@ -85,7 +98,7 @@ From {{etyl|ang}} {{term|wyrd||fate, destiny|lang=ang}}, through {{term|weohrtan
 ===Noun===
 {{sco-noun}}
 
-# [[fate|Fate]], [[destiny]].
+# [[fate]], [[destiny]].
 
 ====Derived terms====
 * [[dree one’s weird]]
