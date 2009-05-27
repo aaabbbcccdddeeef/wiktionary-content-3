@@ -1,8 +1,9 @@
 {{was wotd|2006|April|16}}
 ==English==
+{{wikipedia}}
 
 ===Etymology===
-< Latin {{term|verisimilitudo}}, prop. {{term|veri similitudo||likeness to truth}} < {{term|veri}}, genitive of {{term|verum||true}} + {{term|similis||like}}.
+From {{etyl|la}} {{term|verisimilitudo|vērīsimilitūdō|likeness to truth|lang=la}}, more correctly written separately as {{term|veri similitudo|vērī similitūdō||lang=la}}; from {{term|veri|vērī||lang=la}}, genitive singular of {{term|verus|vērus|true, real|lang=la}}, + {{term|similis||like, resembling, similar|lang=la}}.
 
 ===Pronunciation===
 * {{IPA|/vɛrɪsɪ'mɪlɪtju:d/}}
@@ -21,18 +22,26 @@
 * [[verisimilarity]]
 
 ====Translations====
-{{top}}
-* Arabic: {{Arab|[[محاكاة]]}} (muħākā)
-* Bosnian: [[vjerovatnost#Bosnian|vjerovatnost]] {{f}}
-* French: [[verisimilitude#French|verisimilitude]]
-* German: [[Wahrheitsnähe]],[[Wahrheitsähnlichkeit]]
-* Norwegian: [[virkelighetsnærhet]] {{m}},{{f}}, [[virkelighetstroskap]] {{m}},
-{{mid}}
-* Russian: [[правдоподобие]] {{n}}
-* Serbian:
+{{trans-top|the property of seeming true}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|a statement which merely appears to be true}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* {{ttbc|Arabic}}: {{Arab|[[محاكاة]]}} (muħākā)
+* {{ttbc|Bosnian}}: [[vjerovatnost#Bosnian|vjerovatnost]] {{f}}
+* {{ttbc|French}}: {{t+|fr|verisimilitude|f}}
+* {{ttbc|German}}: [[Wahrheitsnähe]],[[Wahrheitsähnlichkeit]]
+* {{ttbc|Norwegian}}: [[virkelighetsnærhet]] {{m}},{{f}}, [[virkelighetstroskap]] {{m}},
+{{checktrans-mid}}
+* {{ttbc|Russian}}: [[правдоподобие]] {{n}}
+* {{ttbc|Serbian}}:
 *: Cyrillic: [[вероватност#Serbian|вероватност]] {{f}}
 *: Roman: [[verovatnost#Serbian|verovatnost]] {{f}}
-{{bottom}}
+{{checktrans-bottom}}
 
 ====See also====
 * [[probability]]
@@ -46,19 +55,15 @@
 ==French==
 
 ===Etymology===
-Latin ''[[verisimilitudo]]'', ''[[veri]]'' ''[[similitudo]]'', from ''[[veri]]'', genitive of ''[[verus]]'' ‘true’ + ''[[similis]]'' ‘like’.
+From {{etyl|la|fr}} {{term|verisimilitudo|vērīsimilitūdō|likeness to truth|lang=la}}, more correctly written separately as {{term|veri similitudo|vērī similitūdō||lang=la}}; from {{term|veri|vērī||lang=la}}, genitive singular of {{term|verus|vērus|true, real|lang=la}}, + {{term|similis||like, resembling, similar|lang=la}}.
 
 ===Pronunciation===
 * {{IPA|/vɛʀisimilityd/|lang=fr}}
 
 ===Noun===
-'''verisimilitude''' ''f''
+{{fr-noun|f}}
 
 # [[verisimilitude#English|verisimilitude]]
-
-{{wikipedia}}
-
-[[Category:French nouns]]
 
 [[de:verisimilitude]]
 [[fr:verisimilitude]]
