@@ -108,7 +108,7 @@
 *: Syriac: {{tø|arc|ܠܒܐ|m|tr=libā’|sc=Syrc}}
 *: Hebrew: {{tø|arc|לבא|m|tr=libā’|sc=Hebr}}
 * Armenian: {{t-|hy|սիրտ|tr=sirt|sc=Armn|xs=Armenian}}
-* [[Azeri]]: {{t|az|qəlb|xs=Azeri}}, {{t|az|ürək|xs=Azeri}}
+* [[Azeri]]: {{t+|az|qəlb|xs=Azeri}}, {{t+|az|ürək|xs=Azeri}}
 * [[Basque]]: {{t|eu|bihotz|xs=Basque}}
 * Belarusian: {{t-|be|сэрца|sc=Cyrl|xs=Belarusian}}
 * Bosnian: {{t-|bs|srce|n}}
@@ -122,7 +122,7 @@
 * [[Chuvash]]: {{tø|cv|чĕре|sc=Cyrl|xs=Chuvash}}
 * [[Coptic]]: {{tø|cop|ϩⲏⲧ|tr=hēt|sc=Copt}}
 * Croatian: {{t+|hr|srce|n}}
-* Czech: {{t-|cs|srdce|n}}
+* Czech: {{t+|cs|srdce|n}}
 * Danish: {{t+|da|hjerte|n}}
 * Dutch: {{t+|nl|hart|n}}
 * [[Egyptian]]: {{tø|egy|ỉb|alt=b|sc=Egyp}} <hiero>i-b-F34</hiero>; {tø|egy|ḥȝty|alt=ḥty|sc=Egyp}}, <hiero>HAt-t:y-F34</hiero>
@@ -131,7 +131,7 @@
 * Faroese: {{t-|fo|hjarta|n|xs=Faroese}}
 * Finnish: {{t+|fi|sydän}}
 * French: {{t+|fr|cœur|m}}
-* Georgian: {{t|ka|გული|tr=guli|sc=Geor}}
+* Georgian: {{t-|ka|გული|tr=guli|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Herz|n}}
 * [[Gothic]]: {{tø|got|𐌷𐌰𐌹𐍂𐍄𐍉|tr=haírtō|sc=Goth|xs=Gothic}}
 * Greek:
@@ -211,14 +211,14 @@
 * Urdu: {{t-|ur|دل|m|tr=dil|sc=ur-Arab|xs=Urdu}}
 * Welsh: {{t-|cy|calon|xs=Welsh}}
 * [[West Frisian]]: {{t-|fy|hert|xs=West Frisian}}
-* Yiddish: {{t|yi|האַרץ|n|tr=harts|sc=Hebr}}
+* Yiddish: {{t|yi|האַרץ|n|tr=harts|sc=Hebr|xs=Yiddish}}
 {{trans-bottom}}
 
 {{trans-top|emotions or kindness}}
 * Armenian: {{t-|hy|սիրտ|tr=sirt|sc=Armn|xs=Armenian}}
 * Bosnian: {{t-|bs|srce|n}}
 * Chinese: [[心]] (xīn)
-* Czech: {{t-|cs|srdce|n}}
+* Czech: {{t+|cs|srdce|n}}
 * Danish: {{t+|da|hjerte|n}}
 * Dutch: {{t+|nl|hart|n}}
 * Faroese: {{t-|fo|hjarta|n|xs=Faroese}}
@@ -236,7 +236,7 @@
 * Norwegian: {{t+|no|hjerte|n}}
 * Old English: {{t-|ang|mod|n|alt=mōd|xs=Old English}}, {{t-|ang|sefa|m|xs=Old English}}, {{t-|ang|hyge|m|alt=hyġe|xs=Old English}}
 * Portuguese: {{t+|pt|amabilidade|f}}, {{t+|pt|bondade|f}}, {{t+|pt|generosidade|f}}
-* Romanian: {{t|ro|inimă}},  {{t|ro|suflet}}
+* Romanian: {{t-|ro|inimă}},  {{t-|ro|suflet}}
 * Serbian:
 *: Cyrillic: {{t-|sr|срце|n|sc=Cyrl}}
 *: Roman: {{t-|sr|srce|n}}
@@ -252,7 +252,7 @@
 * Armenian: {{t-|hy|սիրտ|tr=sirt|sc=Armn|xs=Armenian}}
 * Bosnian: {{t-|bs|srce|n}}
 * [[Catalan]]: {{t+|ca|cor}}
-* Czech: {{t-|cs|srdce|n}}
+* Czech: {{t+|cs|srdce|n}}
 * Danish: {{t+|da|hjerte|n}}
 * Dutch: {{t+|nl|hart|n}}
 * Faroese: {{t-|fo|hjarta|n|xs=Faroese}}
@@ -272,7 +272,7 @@
 * Norwegian: {{t+|no|hjerte|n}}
 * Polish: {{t+|pl|serce|n}}, {{t|pl|serduszko|n}}
 * Portuguese: {{t+|pt|coração|m}}
-* Romanian: {{t|ro|inimă}}
+* Romanian: {{t-|ro|inimă}}
 * Russian: {{t+|ru|сердце|n|tr=sérdtse|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|cridhe|m|xs=Scottish Gaelic}}
 * Serbian:
@@ -289,7 +289,7 @@
 {{trans-top|a suit of cards}}
 * Armenian: {{t-|hy|սիրտ|tr=sirt|sc=Armn|xs=Armenian}}
 * Bosnian: {{t|bs|herc|m}}
-* Czech: {{t-|cs|srdce|p}}
+* Czech: {{t+|cs|srdce|p}}
 * Danish: {{t-|da|hjerter|p}}
 * Dutch: {{t-|nl|harten|p}}
 * Faroese: {{t|fo|hjørtu|n|p|xs=Faroese}}
@@ -309,7 +309,7 @@
 * Norwegian: {{t+|no|hjerter|n}}
 * Polish: {{t+|pl|kier|m}}
 * Portuguese: {{t+|pt|copas|f|p}}
-* Romanian: {{t|ro|inimă}}
+* Romanian: {{t-|ro|inimă}}
 * Russian: {{t-|ru|черви|f|p|tr=čérvi|sc=Cyrl}}
 * Serbian:
 *: Cyrillic: {{t|sr|херц|m|sc=Cyrl}}
@@ -325,7 +325,7 @@
 * Arabic: {{t-|ar|قلب|m|tr=qalb|sc=Arab}}
 * Armenian: {{t-|hy|սիրտ|tr=sirt|sc=Armn|xs=Armenian}}
 * Bosnian: {{t-|bs|srce|n}}
-* Czech: {{t-|cs|srdce|n}}
+* Czech: {{t+|cs|srdce|n}}
 * Danish: {{t+|da|hjerte|n}}
 * Dutch: {{t+|nl|hart|n}}
 * Faroese: {{t-|fo|hjarta|n|xs=Faroese}}
