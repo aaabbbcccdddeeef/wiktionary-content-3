@@ -33,27 +33,27 @@
 ====Translations====
 {{trans-top|substance that is liquid}}
 * Arabic: {{t|ar|سائل|m|tr=sá'il|sc=Arab}}
-* Armenian: {{t|hy|հեղուկ|sc=Armn|tr=heġuk}}
+* Armenian: {{t-|hy|հեղուկ|tr=heġuk|sc=Armn|xs=Armenian}}
 * Croatian: {{t-|hr|tekućina|f|alt=tekùćina}}
 * Czech: {{t-|cs|kapalina|f}}, {{t-|cs|tekutina|f}}
-* Dutch: [[vloeistof]] {{f}}
-* Finnish: {{t|fi|neste}}
-* French: {{t|fr|liquide|m}}
-* German: {{t|de|Flüssigkeit|f}}
-* Japanese: {{t+|ja|液体}} ({{t+|ja|えきたい}}, ekitai)
+* Dutch: {{t+|nl|vloeistof|f}}
+* Finnish: {{t+|fi|neste}}
+* French: {{t+|fr|liquide|m}}
+* German: {{t+|de|Flüssigkeit|f}}
+* Japanese: {{t+|ja|液体|sc=Jpan}} ({{t+|ja|えきたい|sc=Jpan}}, ekitai)
 {{trans-mid}}
-* Mandarin: {{t|zh|液态|tr=yètài}}
+* Mandarin: {{t|cmn|液态|tr=yètài|sc=Hani|xs=Mandarin}}
 * Polish: {{t+|pl|ciecz|f}}
-* Portuguese: {{t-|pt|líquido}} {{m}}
-* Russian: {{t|ru|жидкость|f|sc=Cyrl|tr=žídkost'}}
-* Spanish: {{t|es|liquido|m}}
+* Portuguese: {{t+|pt|líquido|m}}
+* Russian: {{t|ru|жидкость|f|tr=žídkost'|sc=Cyrl}}
+* Spanish: {{t-|es|liquido|m}}
 {{trans-bottom}}
 
 {{trans-top|''l'' or ''r'' sound}}
 * Croatian: {{t-|hr|likvida|f|alt=lìkvida}}, {{t-|hr|tekućnik|m|alt=tèkūćnīk}}
-* Finnish: {{t|fi|likvida}}
+* Finnish: {{t+|fi|likvida}}
 {{trans-mid}}
-* Russian: {{t|ru|плавный звук|m|sc=Cyrl|tr=plávnyj zvuk}}
+* Russian: {{t|ru|плавный звук|m|tr=plávnyj zvuk|sc=Cyrl}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -114,7 +114,7 @@
 * Croatian: {{t-|hr|tekući|alt=tèkūćī}}, {{t|hr|židak|alt=žȉdak}}
 * Czech: {{t-|cs|tekutý|m}}, {{t-|cs|kapalný|m}}
 * Dutch: [[vloeibaar]], [[vloeibare]]
-* Finnish: {{t|fi|nestemäinen}}, {{t|fi|neste|alt=neste-}} ''(in compounds)''
+* Finnish: {{t+|fi|nestemäinen}}, {{t+|fi|neste|alt=neste-}} ''(in compounds)''
 * French: {{t+|fr|liquide|m|f}}
 * German: {{t+|de|flüssig}}
 * Hebrew: {{t-|he|נוזלי|m|tr=nozlí|sc=Hebr}}, {{t-|he|נוזלית|f|tr=nozlít|sc=Hebr}}
@@ -125,13 +125,13 @@
 * Lithuanian: [[skystas]] {{m}}
 * Norwegian: {{t-|no|flytende}}
 * Polish: {{t|pl|ciekły|m}}, {{t|pl|płynny|m}}
-* Portuguese: {{t-|pt|líquido}}
+* Portuguese: {{t+|pt|líquido}}
 * Romanian: {{t-|ro|lichid|m}}, {{t-|ro|lichidă|f}}
 * Russian: {{t+|ru|жидкий|tr=žídkij|sc=Cyrl}}
 * Slovak: [[tekutý]] {{m}}, [[tekutá]] {{f}}, [[tekuté]] {{n}}
 * Slovene: [[tekoče]] {{n}}
 * Spanish: {{t+|es|líquido}}
-* Swedish: {{t-|sv|flytande}}
+* Swedish: {{t+|sv|flytande}}
 {{trans-bottom}}
 
 {{trans-top|of an asset, easily sold or disposed of}}
@@ -146,7 +146,7 @@
 * Lithuanian: : [[likvidus]] {{m}}
 * Norwegian: {{t-|no|likvid}}
 * Polish: {{t|pl|płynny|m}}
-* Portuguese: [[líquido]]
+* Portuguese: {{t+|pt|líquido}}
 * Russian: {{t+|ru|ликвидный|tr=likvídnyj|sc=Cyrl}}
 * Slovak: [[likvidné]] {{n}}
 * Spanish: {{t+|es|líquido}}
@@ -154,10 +154,10 @@
 
 {{trans-top|of a market, having sufficient trading activity to make buying or selling easy}}
 * Croatian: {{t-|hr|likvidan|alt=lȉkvīdan}}
-* Finnish: {{t|fi|likvidi}}
+* Finnish: {{t-|fi|likvidi}}
 * Polish: {{t|pl|płynny|m}}
 {{trans-mid}}
-* Portuguese: [[líquido]]
+* Portuguese: {{t+|pt|líquido}}
 {{trans-bottom}}
 
 {{checktrans-top}}
