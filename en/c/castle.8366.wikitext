@@ -53,7 +53,7 @@ For the chess piece, chess players prefer the term [[rook]].
 * German: {{t+|de|Burg|f}}, {{t+|de|Festung|f}}
 * Greek: {{t+|el|κάστρο|n|tr=kástro|sc=Grek}}
 * Hebrew: [[טירה]] (t'ira) {{f}}
-* Hindi: {{t|hi|क़िला|tr=qila|sc=Deva}}
+* Hindi: {{t-|hi|क़िला|tr=qila|sc=Deva|xs=Hindi}}
 * Hungarian: {{t+|hu|vár}}, {{t+|hu|kastély}}
 * Icelandic: {{t+|is|kastali|m}}
 * [[Ido]]: [[kastelo]]
@@ -67,7 +67,7 @@ For the chess piece, chess players prefer the term [[rook]].
 * Latvian: {{t-|lv|pils|f|xs=Latvian}}
 {{trans-mid}}
 * Lithuanian: {{t-|lt|pilis|xs=Lithuanian}}
-* [[Macedonian]]: {{t|mk|замок|m|tr=zámok|sc=Cyrl}}
+* [[Macedonian]]: {{t-|mk|замок|m|tr=zámok|sc=Cyrl|xs=Macedonian}}
 * Maltese: [[kastell]] {{m}}
 * [[Marathi]]: [[किल्ला]] (killā), [[दुर्ग]] (durg, ''fort''), [[गड]] (gad, ''fort'')
 * Mongolian: [[цайз]] (cayz) {{n}}
@@ -77,7 +77,7 @@ For the chess piece, chess players prefer the term [[rook]].
 * Persian: {{fa-Arab|[[دژ]]}} (dezh)
 * Polish: {{t+|pl|zamek|m}}
 * Portuguese: {{t+|pt|castelo|m}}
-* [[Romani]]: {{t|rom|dyiz|f}}
+* [[Romani]]: {{tø|rom|dyiz|f|xs=Romani}}
 * Romanian: {{t-|ro|castel|n}}
 * Russian: {{t+|ru|замок|m|alt=за́мок|tr=zámok|sc=Cyrl}}
 * Sanskrit: [[दुर्ग]] (durg, ''fort'')
@@ -104,7 +104,7 @@ For the chess piece, chess players prefer the term [[rook]].
 * [[Breton]]: [[tour]] {{m}}
 * Bulgarian: [[топ]] (top) {{m}}
 * [[Catalan]]: [[torre]] {{f}}
-* Croatian: {{t-|hr|top|m}}
+* Croatian: {{t+|hr|top|m}}
 * Czech: {{t+|cs|věž|f}}
 * Danish: {{t-|da|tårn|n}}
 * Dutch: {{t+|nl|toren|m}}
@@ -159,14 +159,14 @@ For the chess piece, chess players prefer the term [[rook]].
 {{trans-top|to perform the move of castling}}
 * Dutch: [[rokeren]]
 * Finnish: {{t-|fi|tornittaa}}
-* French: [[roquer]]
-* German: [[rochieren]]
+* French: {{t+|fr|roquer}}
+* German: {{t+|de|rochieren}}
 * Icelandic: {{t-|is|hrókera}}
 {{trans-mid}}
 * [[Ido]]: [[roquar]]
 * Slovene: [[rokirati]]
 * Spanish: [[enrocarse]]
-* Swedish: [[rockera]]
+* Swedish: {{t+|sv|rockera}}
 {{trans-bottom}}
 
 [[Category:Royal residences]]
