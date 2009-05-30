@@ -413,8 +413,8 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 * [[Adyghe]]: {{tø|ady|шъоущыгъу|tr=š’ouščyg"u|sc=Cyrl|xs=Adyghe}}
 * Albanian: {{t-|sq|sheqer|m|xs=Albanian}}
 * Armenian: {{t+|hy|շաքար|tr=šak’ar|sc=Armn|xs=Armenian}}
-* [[Azeri]]: {{t|az|şəkər}},  {{t|az|qənd}}
-* Belarusian: {{t|be|цукар|m|tr=cukar|sc=Cyrl}}
+* [[Azeri]]: {{t-|az|şəkər|xs=Azeri}},  {{t|az|qənd|xs=Azeri}}
+* Belarusian: {{t|be|цукар|m|tr=cukar|sc=Cyrl|xs=Belarusian}}
 * Bengali: {{t-|bn|চিনি|tr=cini|sc=Beng|xs=Bengali}}
 * Bulgarian: {{t+|bg|захар|m|tr=záhar|sc=Cyrl}}
 * [[Catalan]]: {{t-|ca|sucre|m}}
@@ -426,7 +426,7 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 * Esperanto: {{t-|eo|sukero|xs=Esperanto}}
 * Finnish: {{t+|fi|sokeri}}
 * French: {{t+|fr|sucre|m}}
-* Georgian: {{t|ka|შაქარი|tr=šak’ari|sc=Geor}}
+* Georgian: {{t-|ka|შაქარი|tr=šak’ari|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Zucker|m}}
 * Greek: {{t+|el|ζάχαρη|f|tr=záchari|sc=Grek}}
 * Hebrew: {{t+|he|סוכר|m|tr=sukar|sc=Hebr}}
@@ -455,8 +455,8 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 * Spanish: {{t+|es|azúcar|m}}
 * Swedish: {{t+|sv|socker|n}}
 * [[Taos]]: [[kophà’ąsíne]]
-* Turkish: {{t|tr|şeker}}
-* Ukrainian: {{t|uk|цукор|m|tr=cúkor|sc=Cyrl}}
+* Turkish: {{t+|tr|şeker}}
+* Ukrainian: {{t|uk|цукор|m|tr=cúkor|sc=Cyrl|xs=Ukrainian}}
 * Welsh: {{t|cy|siwgr|m|xs=Welsh}}
 * [[West Frisian]]: {{t+|fy|sûker|c|xs=West Frisian}}
 * Yiddish: {{t+|yi|צוקער|m|sc=Hebr|xs=Yiddish}}
@@ -505,13 +505,13 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 * Finnish: {{t-|fi|kultanen|alt=kultaseni}}
 {{trans-mid}}
 * French: {{t|fr|mon chéri|m}}, {{t|fr|ma chérie|f}}, {{t|fr|mon chou|m}}
-* [[Macedonian]]: {{t|mk|шеќерче|n|tr=šéḱerče|sc=Cyrl}}
+* [[Macedonian]]: {{t|mk|шеќерче|n|tr=šéḱerče|sc=Cyrl|xs=Macedonian}}
 * Slovene: {{t|sl|cukrček|m}}
 {{trans-bottom}}
 
 {{trans-top|slang: a kiss}}
 <!--Add SLANG terms to this table, where they exist-->
-* Finnish: {{t-|fi|pusu}}
+* Finnish: {{t+|fi|pusu}}
 {{trans-mid}}
 * French: {{t+|fr|bise|f}}, {{t+|fr|bisou|m}}, {{t-|fr|bizou|m}}
 {{trans-bottom}}
@@ -593,7 +593,7 @@ From {{etyl|fro}} {{term|çucre||sugar|lang=fro}}, from {{ML.}} {{term|succarum|
 * Danish: {{t-|da|søde}}
 * Finnish: {{t+|fi|sokeroida}}
 * French: {{t+|fr|sucrer}}
-* German: {{t|de|zuckern}}
+* German: {{t+|de|zuckern}}
 * Italian: {{t+|it|zuccherare}}
 {{trans-mid}}
 * Polish: {{t|pl|słodzić}}, {{t|pl|posłodzić}}
