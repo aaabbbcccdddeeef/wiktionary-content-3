@@ -1,16 +1,25 @@
 ==English==
-{{wikipedia|Level of measurement}}
 
 ===Noun===
 {{en-noun|sg=[[ratio]] [[variable]]}}
 
-# {{statistics}} A [[variable]] with the features of [[interval variable]], whose any two values have meaningful [[ratio]], making the operations of multiplication and division meaningful.
+# {{statistics}} A [[variable]] with the features of [[interval variable]] and, additonally, whose any two values have meaningful [[ratio]], making the operations of multiplication and division meaningful.
+{{examples-right|examples=Speed<br>10 meters per second > 8 meters per second<br>10 mps - 8 mps = 2 mps<br>8 mps + 2 mps = 10 mps<br>10 mps / 8 mps = 1.25 (times as fast)<br>1.25 * 8 mps = 10 mps<br>10 mps * 8 mps = ''not defined''}}
+
+====Hypernyms====
+* [[cardinal variable]]
+
+====Coordinate terms====
+* [[categorical variable]]
+* [[nominal variable]]
+* [[interval variable]]
+
+====See also====
+* {{pedialite|Level of measurement}}
+* [[ratio scale]]
 
 ====Translations====
 {{trans-top|ratio variable}}
 * Czech: [[poměrová veličina]] {{f}}, [[poměrová proměnná]] {{f}}
 {{trans-mid}}
 {{trans-bottom}}
-
-====See also====
-* [[ratio scale]]
