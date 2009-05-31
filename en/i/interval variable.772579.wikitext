@@ -1,15 +1,26 @@
 ==English==
-{{wikipedia|Level of measurement}}
 ===Noun===
 {{en-noun|sg=[[interval]] [[variable]]}}
 
-# {{statistics}} A [[variable]] with the features of [[ordinal variable]], such that equal differences between its values represent equivalent intervals.
+# {{statistics}} An [[ordinal variable]] with the additional property that the magnitudes of the differences between two values are meaningful.
+{{examples-right|examples=Absolute time:<br>10PM (today) > 8PM (today)<br>10PM (today) - 8PM (today) = 2 hours<br>8PM (today) + 2 hours = 10pm (today)<br>2PM + 10PM - ''not defined''<br>10PM / 8PM - ''not defined''<br>10PM * 8PM - ''not defined''<br>10PM * 2 hours - ''not defined''}}
+====Synonyms====
+*{{sense|variable with meaningful differences}} [[equal-interval variable]]
+
+====Hypernyms====
+* [[cardinal variable]]
+
+====Coordinate terms====
+* [[categorical variable]]
+* [[nominal variable]]
+* [[ratio variable]]
+
+====See also====
+* {{pedialite|Level of measurement}}
+* [[interval scale]]
 
 ====Translations====
 {{trans-top|variable}}
 * Czech: [[intervalová proměnná]] {{f}}
 {{trans-mid}}
 {{trans-bottom}}
-
-====See also====
-* [[interval scale]]
