@@ -1,16 +1,24 @@
 ==English==
-{{wikipedia|Level of measurement}}
 
 ===Noun===
 {{en-noun|sg=[[ordinal]] [[variable]]}}
 
-# {{statistics}} A [[variable]] with values whose order is significant.
+# {{statistics}} A [[variable]] with values whose order is significant, but on which no meaningful arithmetic-like operations can be performed.
+{{examples-right|examples=Adjective comparison:<br>fast < very fast < very, very fast<br>Alphabetical ordering:<br>'''Adams precedes Bonaparte'''<br>Bonaparte - Adams - not defined<br>Bonaparte + Adams - ''not defined''<br>Bonaparte - Adams - ''not defined''<br>Bonaparte / Adams - ''not defined''<br>Bonaparte * Adams - ''not defined''}}
+
+====Coordinate terms====
+* [[categorical variable]]
+* [[nominal variable]]
+* [[cardinal variable]]
+* [[interval variable]]
+* [[ratio variable]]
+
+====See also====
+* {{pedialite|Level of measurement}}
+* [[ordinal scale]]
 
 ====Translations====
 {{trans-top|variable}}
 * Czech: [[pořadová proměnná]] {{f}}, [[ordinální proměnná]] {{f}}
 {{trans-mid}}
 {{trans-bottom}}
-
-====See also====
-* [[ordinal scale]]
