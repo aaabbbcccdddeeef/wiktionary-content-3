@@ -4,20 +4,47 @@
 * {{audio|en-us-revenue.ogg|Audio (US)}}
 
 ===Etymology===
-From {{etyl|frm}} ''[[#French|revenue]]'' < from {{etyl|fro}} (modern French: [[revenu]])
+Recorded in Englsh from 1433, "income from property or possessions", from {{etyl|frm}} ''[[#French|revenue]]'' < from {{etyl|fro}} "a return" (modern French 'revenu'), the prop. feminine past participle of [[revenir]] "come back" (=modern French) from {{etyl|la}} [[revenire]] "to return, come back", itself from [[re-]] "back" + [[venire]] "to come"
 
 ===Noun===
 {{wikipedia}}
 {{en-noun}}
 
-# the net [[gain]] before [[subtract]]ing the [[loss]].
-# the money flowing into some government or administration cash by [[taxation]]
+# The [[income]] [[return]]ed by an [[investment]]
+# The total [[income]] [[receive]]d from a given source
+# All income generated for some political entity's [[treasury]] by [[taxation]] and other means
+# {{accounting}} The net [[gain]] before [[subtract]]ing the [[loss]].
+
+====Synonyms====
+* (accountng) [[net revenue]], [[net sales]], [[turnover]]
+
+====Derived terms====
+* [[revenuer]]
+* [[revenue stamp]]
 
 ====Translations====
+{{trans-top|income from an investment}}
+* Dutch: [[opbrengst]]
+{{trans-bottom}}
+
+{{trans-top|total income from a given source}}
+* Dutch: [[inkomen]] {{n}} (uit ...)
+{{trans-bottom}}
+
+{{trans-top|all income for some treasury by taxation e.a.}}
+* Danish: [[skatteindtægt]] {{c}}
+* Dutch: (staats-, overheid-....)[[inkomsten]] {{p}} 
+* Finnish: [[verokertymä]]
+* Greek: {{t|el|εισόδημα|n|sc=Grek}} (eisódima)
+{{trans-mid}}
+* Japanese: {{Jpan|[[歳入]]}} ({{Jpan|[[さいにゅう]]}}, sainyū)
+* Spanish: [[recaudación]]
+{{trans-bottom}}
+
 {{trans-top|net gain before subtracting the loss}}
 * Czech: {{t-|cs|výnos|m}}
 * Danish: [[indtægt]] {{c}}
-* Dutch: {{t-|nl|omzet|m}}
+* Dutch: {{t-|nl|omzet|m}}(cijfer)
 * Finnish: {{t+|fi|tulot}}, {{t+|fi|liikevaihto}}
 * Greek: {{t|el|εισόδημα|n|sc=Grek}} (eisódima)
 {{trans-mid}}
@@ -27,48 +54,39 @@ From {{etyl|frm}} ''[[#French|revenue]]'' < from {{etyl|fro}} (modern French: [[
 * Swedish: [[omsättning]]-en
 {{trans-bottom}}
 
-{{trans-top|money flowing into some government or administration cash by taxation}}
-* Danish: [[skatteindtægt]] {{c}}
-* Finnish: [[verokertymä]]
-* Greek: {{t|el|εισόδημα|n|sc=Grek}} (eisódima)
-{{trans-mid}}
-* Japanese: {{Jpan|[[歳入]]}} ({{Jpan|[[さいにゅう]]}}, sainyū)
-* Spanish: [[recaudación]]
-{{trans-bottom}}
-
 {{checktrans-top}}
 * {{ttbc|Bulgarian}}: [[доход]] (dóχod) {{m}}
 * {{ttbc|Chinese}}: [[收支]] (shouzhi)
-* {{ttbc|Dutch}}: [[opbrengst]]
 * {{ttbc|Estonian}}: [[tulu]]
-* {{ttbc|French}}: [[revenu]]
-* {{ttbc|German}}: [[Einkommen]]
+* {{ttbc|French}}: [[revenu]] {{m}}
+* {{ttbc|German}}: [[Einkommen]] {{n}}
 * {{ttbc|Italian}}: [[reddito]]
 {{trans-mid}}
 * {{ttbc|Korean}}: [[수익]]
-* {{ttbc|Latin}}: [[vectigal]] ''nominative'', vectigalis ''genitive''
+* {{ttbc|Latin}}: [[vectigal]] 
 * {{ttbc|Malay}}: [[Pendapatan]]
 * {{ttbc|Norwegian}}: [[inntekt]]
 * {{ttbc|Polish}}: [[dochód]]
-* {{ttbc|Portuguese}}: [[faturamento]]
+* {{ttbc|Portuguese}}: [[faturamento]] {çm}}
 {{trans-bottom}}
-
-====Synonyms====
-* [[net revenue]]
-* [[net sales]]
-* [[turnover]]
 
 ----
 
 ==French==
 
-===Etymology===
-Feminine form of past participle of verb '''''[[revenir]]'''''
+===Etymology 1===
 
-===Noun===
+====Verb form====
+Feminine form of [[revenu]], the past participle of the verb [[revenir]] 'to come back, return'
+
+===Etymology 2===
+from [[re-]] + [[venue]] 'the coming' (from [[venir]] 'to come')
+
+====Noun====
 {{fr-noun|f}}
 
-# ...
+# A physical [[return]]; [[arrival]]
+# {{hunting}} The action of [[game]] [[leaving]] the forest to [[graze]]
 
 [[et:revenue]]
 [[fa:revenue]]
