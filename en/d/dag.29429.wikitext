@@ -15,23 +15,23 @@
 * {{rhymes|æɡ}}
 
 ===Etymology 1===
-{{etystub|Related to {{term|dang}} and {{term|damn}}?}}
+From {{etyl|ang}} [[dagge]], of uncertain (probably Germanic) origin, cognate with (Middle) Dutch [[dag]], [[dagge]], dagh
 
-====Interjection====
-{{en-intj}}
+====Noun====
+{{en-noun}}
 
-# {{context|US|informal}} Expressing [[shock]], [[awe]] or [[surprise]]; used as a general [[intensifier]].
+# A hanging end or shred; notably:
+## A long [[point]]ed [[strip]] of [[cloth]] at the edge of a piece of [[clothing]].
+## One of a row of decorative strips of cloth, [[ornament]]ing a [[tent]], [[booth]] or [[fairground]].
 
 ===Etymology 2===
-From {{etyl|fro|en}} {{term|dague||lang=fro}}. Compare {{term|dagger}}.
+From {{etyl|fro|en}} {{term|dague||lang=fro}} (from Old Provençal [[dague]], of uncertain origin, perhaps from Vulgar {{etyl|la}} *[[daca]] "Dacian knife," from the Roman province [[Dacia]] (roughly modern Romania); the ending is possibly the faintly pejorative [[-ard]] suffix, us in [[poignard]] 'dagger'); cognate with {{term|dagger}}.
 
 ====Noun====
 {{en-noun}}
 
 # A [[skewer]].
-# A sharpened stick, used for [[roast]]ing food over a fire. Compare {{term|dogwood}}, formerly {{term|dagwood}}.
-# A long [[point]]ed [[strip]] of [[cloth]] at the edge of a piece of [[clothing]].
-# One of a row of decorative strips of cloth, [[ornament]]ing a [[tent]], [[booth]], or [[fairground]].
+# A [[spit]], [[sharpen]]ed [[rod]] used for [[roast]]ing food over a fire. 
 
 ====Verb====
 {{en-verb|dag|g|ed}}
@@ -59,13 +59,21 @@ From {{term|daglock}}.
 * [[daggy]]
 
 ===Etymology 4===
+{{etystub|Related to {{term|dang}} and {{term|damn}}?}}
+
+====Interjection====
+{{en-intj}}
+
+# {{context|US|informal}} Expressing [[shock]], [[awe]] or [[surprise]]; used as a general [[intensifier]].
+
+===Etymology 5===
 {{back-form|daggy}}
 {{rfv}}
 
 ====Noun====
 {{en-noun}}
 
-# {{context|Australian|_|slang|New Zealand|_|derogatory|_|slang}} One who dresses unfashionably, see [[dork]], [[loser]]. May be used as form of [[endearment]] emphasizing that they are different.
+# {{context|Australian|_|slang|New Zealand|_|derogatory|_|slang}} One who [[dress]]es unfashionably. May be used as form of [[endearment]] emphasizing that they are different, [[outsider]]s.
 
 =====Synonyms=====
 * [[dork]], [[loser]], [[nerd]]
@@ -73,7 +81,7 @@ From {{term|daglock}}.
 =====Related terms=====
 * [[daggy]]
 
-===Etymology 5===
+===Etymology 6===
 {{initialism}} for {{term|directed acyclic graph}}.
 
 ====Noun====
@@ -86,20 +94,15 @@ From {{term|daglock}}.
 ==Afrikaans==
 
 ===Etymology 1===
-From {{etyl|nl|af}} {{term|dag|lang=nl}}.
+Germanic: from {{etyl|nl|af}} {{term|dag|lang=nl}} 'day', cognate with German Tag. Cfr. infra
 
 ====Noun====
 {{infl|af|noun|plural|dae}}
 
-# [[day]]
+# A [[day]]
 
 ===Etymology 2===
-Etymology missing.
-
-====Noun====
-{{infl|af|noun}}
-
-# [[thought]]
+Presumably Germanic: from {{etyl|nl|af}} [[goedendag]] 'goodday; goodbye' (from [[goed]] 'goed, pleasant' + [[dag]] 'day'), cfr. supra
 
 ====Interjection====
 {{infl|af|interjection}}
@@ -107,11 +110,19 @@ Etymology missing.
 # [[hello]]!
 # [[bye-bye]]!
 
+===Etymology 3===
+Presumably Germanic: from {{etyl|nl|af}} [[gedachte]] 'thought', from [[gedacht]], the past participle of [[denken]] 'to think'
+
+====Noun====
+{{infl|af|noun}}
+
+# A [[thought]]
+
 ====Verb====
 {{infl|af|verb|past tense|gedag}}
 
-# to [[think]], [[ponder]]
-# to [[consider]]
+# To [[think]], [[ponder]]
+# To [[consider]]
 
 [[Category:af:Time]]
 
@@ -140,32 +151,58 @@ From {{etyl|non|da}} {{term|dagr|lang=non}}, from {{proto|Germanic|dagaz|day|lan
 * {{IPA|/dɑx/|lang=nl}}
 * {{audio|Nl-dag.ogg|Audio}}
 
-===Noun===
+===Etymology 1===
+
+====Noun====
 {{nl-noun|g1=m|g2=f|pl=dagen|dim=dagje}}
 
-# [[day]]
-# The period of time between sunrise and sunset.
+# A [[day]], notably 24 hours, especially between the midnights
+# ''(absolute use, definite article only: '''de dag''')'' The period of time between [[sunrise]] and [[sunset]], [[daytime]].
 
-====Derived terms====
+=====Synonyms=====
+* (24 hours) [[etmaal]] {{n}}
+
+=====Derived terms=====
 {{top4}}
-* [[herdenkingsdag]]
-* [[Koninginnedag]]
-* [[rouwdag]]
+* [[goedendag]] {{m}}
+* [[herdenkingsdag]] {{m}}
+* [[Koninginnedag]] {{m}}
+* [[Koningsdag]] {{m}}
+* [[rouwdag]] {{m}}
+* [[sterfdag]] {{m}}
 * [[vandaag de dag]]
-* [[verjaardag]]
+* [[verjaardag]] {{m}}
 {{bottom}}
 
-===Interjection===
+====Interjection====
 {{infl|nl|interjection}}!
 
-# [[goodbye]]
-# [[hello]], short for {{term|goedendag||good day|lang=nl}}
+# [[hello]], short for {{term|goedendag||good day|lang=nl}} 'goodday; goodbye'
+# [[goodbye]], same shortening
 
 ====Synonyms====
-* {{sense|bye}} [[daag]], [[ciao]], [[salut]] {{i|Flemish}}, [[vaarwel]], [[tot ziens]], [[tot hoors]], [[doei]] {{i|Netherlands}}, [[doeg]] {{i|Netherlands}}
+* {{sense|bye}} [[daag]], [[ciao]], [[salut]] (French), [[saluut]] {{i|Flemish}}, [[saluutjes]] {{i|Flemish}}, [[vaarwel]], [[tot ziens]], [[tot hoors]], [[tot horens]], [[doei]] {{i|Netherlands}}, [[doeg]] {{i|Netherlands}}
 * {{sense|hello}} [[hallo]], [[hoi]], [[heei]]/[[hey]], [[goedendag]]/[[goeiendag]], [[jow]] {{i|familiar, Flemish}}, [[hoi]] {{i|Netherlands}}
 
 [[Category:nl:Time]]
+
+===Etymology 2===
+Germanic, cognate with English [[#English|dag]] 'hanging end, shred'
+
+====Alternative forms====
+* [[dagge]], [[dagh]] (all obsolete)
+
+====Noun====
+{{nl-noun|daggen|}}
+
+# A piece of [[rope]], used to [[punish]] [[sailor]]s with, on the spot or in [[running the gauntlet]]
+# A [[line]] used to fasten young sailors while training [[board]]ing a hostile ship or climbing the [[rigging]]
+
+====Synonyms====
+* (punitive rope) [[dagtouwtje]] {{n}}
+
+====Derived terms====
+* [[handdag]]
 
 ----
 
@@ -192,7 +229,7 @@ From {{etyl|non|da}} {{term|dagr|lang=non}}, from {{proto|Germanic|dagaz|day|lan
 ==Indonesian==
 
 ===Etymology===
-From {{etyl|nl|id}} {{term|dag|lang=nl}}.
+From {{etyl|nl|id}} {{term|dag|lang=nl}}, from [[goedendag]] 'goodday'.
 
 ===Interjection===
 '''dag'''
@@ -208,7 +245,7 @@ From {{etyl|nl|id}} {{term|dag|lang=nl}}.
 ===Noun===
 {{infl|no|noun|g=m}}
 
-# [[day]] (period from midnight to the following midnight)
+# A [[day]] (period from midnight to the following midnight)
 
 [[Category:no:Time]]
 
@@ -222,8 +259,8 @@ From {{etyl|non|no}} {{term|dagr|lang=non}}.
 ===Noun===
 {{no-noun-m1|dag}}
 
-# [[day]]
-# The period of time between sunrise and sunset
+# A [[day]]
+# The period of time between sunrise and sunset, [[daytime]]
 
 ----
 
@@ -235,8 +272,8 @@ From {{etyl|non|no}} {{term|dagr|lang=non}}.
 ===Noun===
 {{nn-noun-m1|dag}}
 
-# [[day]]
-# The period of time between sunrise and sunset
+# A [[day]]
+# The period of time between sunrise and sunset, [[daytime]]
 
 [[Category:nn:Time]]
 
@@ -255,8 +292,8 @@ From {{etyl|non|sv}} {{term|dagr|lang=non}}.
 ===Noun===
 '''dag''' {{c}}
 
-# [[day]]
-# The period of time between sunrise and sunset.
+# A [[day]]
+# The period of time between sunrise and sunset, [[daytime]].
 
 ===See also===
 * [[i dag]]
