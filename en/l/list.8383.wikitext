@@ -8,7 +8,7 @@
 *: {{rhymes|ɪst}}
 
 ===Etymology 1===
-Old English ''[[liste#Old English|līste]]''.  Cognate with Dutch ''[[lijst]]'', German {{term|Leiste}}, Icelandic {{term|lista}}/{{term|listi}}.
+{{etyl|ang}} {{term|liste|līste|lang=ang}}.  Cognate with Dutch {{term|lijst|lang=nl}}, German {{term|Leiste|lang=de}}, Icelandic {{term|lista|lang=is}}/{{term|listi|lang=is}}.
 
 ====Noun====
 {{en-noun}}
@@ -22,14 +22,14 @@ passage=The charwomen are in the habit of taking off their boots at the commissi
 passage=William de Wyvil, and Stephen de Martival, [...] armed at all points, rode up and down the '''lists''' to enforce and preserve good order among the spectators.}}
 
 ===Etymology 2===
-From Middle English ''liste'' (roll of names, contestants in the ''[[lists]]'' i.e. "place of combat at the boundary of fields" from ME ''listes'', pl. of ''liste'' "list") from Old English ''[[līste]]'' "list, fringe, border"
+From {{etyl|enm}} {{term|liste||roll of names, contestants in the lists|lang=enm}} (from {{term|lists||place of combat at the boundary of fields|lang=enm}} from {{etyl|enm}} {{term|listes|lang=enm}}, plural of {{term|liste||list|lang=enm}}) from {{etyl|ang}} {{term|liste|līste|list, fringe, border|lang=ang}}
 
 ====Noun====
 {{en-noun}}
 
 # A register or roll of paper consisting of an enumeration or [[compilation]] of a set of possible [[item]]s.
 # {{computing}} A codified representation of a list, used to store data or in processing.
-# {{programming}} ([[LISP]]) a [[data structure]] made up of [[cons pair|cons pairs]] the [[cdr]] of which contains either another '''list''' or [[nil]].
+# {{programming|[[LISP]]}} a [[data structure]] made up of [[cons pair|cons pairs]] the [[cdr]] of which contains either another '''list''' or [[nil]].
 
 =====Synonyms=====
 * See also [[Wikisaurus:list]]
@@ -130,6 +130,7 @@ From Middle English ''liste'' (roll of names, contestants in the ''[[lists]]'' i
 {{trans-bottom}}
 
 ===Etymology 3===
+From {{term|listen}}
 
 ====Verb====
 {{en-verb|lists|listing|list}}
@@ -141,7 +142,7 @@ From Middle English ''liste'' (roll of names, contestants in the ''[[lists]]'' i
 *: Peace, what noise? <br/>'''List''', '''list'''! <br/>Hark! <br/>Music i' the air.
 
 ===Etymology 4===
-Possibly from tilting on lists in jousts.[http://www.drbilllong.com/CurrentEventsV/ListWII.html]
+Possibly from [[tilt]]ing on lists in jousts.[http://www.drbilllong.com/CurrentEventsV/ListWII.html]
 
 ====Noun====
 {{en-noun}}
@@ -154,7 +155,7 @@ Possibly from tilting on lists in jousts.[http://www.drbilllong.com/CurrentEvent
 # {{nautical}} to carry out such a manoeuvre
 
 ===Etymology 5===
-{{etyl|ang}} {{term|lystan}}, from {{proto|Germanic|lustjan}}, from *{{term||lustus|pleasure}}. Akin to Old Norse {{term|lysta}} (whence cognate with Danish and Norwegian {{term|lyste}}), Old High German lusten (obsolete German {{term|lüsten}}).
+{{etyl|ang}} {{term|lystan|lang=ang}}, from {{proto|Germanic|lustjan}}, from *{{term||lustus|pleasure}}. Akin to Old Norse {{term|lysta|lang=non}} (whence cognate with Danish and Norwegian {{term|lyste|lang=da}}), Old High German {{term|lusten|lang=goh}} (obsolete German {{term|lüsten|lang=de}}).
 
 ====Verb====
 {{en-verb}}
