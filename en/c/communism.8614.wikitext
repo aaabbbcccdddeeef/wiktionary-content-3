@@ -27,7 +27,7 @@ A calque of the {{etyl|de}} word ''[[Kommunismus]]'' (from Marx and Engels's ''[
 ====Translations====
 {{trans-top|philosophy}}
 * [[Afrikaans]]: [[kommunisme]]
-* Arabic: {{Arab|[[شيوعية|شُيُوعِيّة]]}} (šuyuʕíyya) {{f}},  {{t|ar|شيوعية|f|tr=shuyu`íyya|sc=Arab}}
+* Arabic: {{t|ar|شيوعية|f|tr=shuyu`íyya|sc=Arab}}
 * [[Aragonese]]: [[comunismo]] {{m}}
 * Armenian: [[կոմունիզմ]] (komunizm)
 * [[Asturian]]: [[comunismu]] {{m}}
@@ -35,12 +35,12 @@ A calque of the {{etyl|de}} word ''[[Kommunismus]]'' (from Marx and Engels's ''[
 * [[Basque]]: [[komunismo]]
 * Belarusian: [[камунізм]] {{m}}
 * Bosnian: {{t-|bs|komunizam|m}}
-* Bulgarian: {{t+|bg|комунизъм|m|sc=Cyrl}}
+* Bulgarian: {{t+|bg|комунизъм|tr=komunizăm|m|sc=Cyrl}}
 * {{trreq|Burmese}}
 * [[Catalan]]: [[comunisme]] {{m}}
 * Chinese:
-*: Cantonese: [[共產主義]],  {{tø|yue|共產主義}},  {{tø|yue|共产主义}}
-*: Mandarin: [[共產主義]], [[共产主义]] (gòngchǎnzhǔyì),  {{t|zh|共產主義|sc=Hani}},  {{t|zh|共产主义|tr=gòngchǎnzhǔyì|sc=Hani}}
+*: Cantonese: {{tø|yue|共產主義}},  {{tø|yue|共产主义}}
+*: Mandarin: {{t|zh|共產主義|sc=Hani}},  {{t|zh|共产主义|tr=gòngchǎnzhǔyì|sc=Hani}}
 *: Min Nan: [[kiōng-sán-chú-gī]]
 * Croatian: {{t+|hr|komunizam|m}}
 * Czech: {{t+|cs|komunismus|m}}
@@ -64,8 +64,8 @@ A calque of the {{etyl|de}} word ''[[Kommunismus]]'' (from Marx and Engels's ''[
 * Irish: {{t|ga|cumannachas|m|xs=Irish}}
 * Italian: {{t+|it|comunismo|m}}
 {{trans-mid}}
-* Japanese: [[共産主義]] ([[きょうさんしゅぎ]], kyōsanshugi),  {{t|ja|共産主義|tr=きょうさんしゅぎ, kyōsanshugi|sc=Jpan}}
-* Korean: [[공산주의]] (gongsan-ju-ui)
+* Japanese: {{t|ja|共産主義|tr=きょうさんしゅぎ, kyōsanshugi|sc=Jpan}}
+* Korean: [[공산주의]] (gongsan-ju-ui) ([[共產主義]])
 * Lao: {{t-|lo|ລັດທິຄອມມູນິດ|tr=latthi-khöömmuunit|sc=Laoo|xs=Lao}}
 * Latin: [[communismus]] {{m}}
 * Latvian: [[komunisms]] {{m}}
@@ -104,7 +104,13 @@ A calque of the {{etyl|de}} word ''[[Kommunismus]]'' (from Marx and Engels's ''[
 {{trans-bottom}}
 
 {{trans-top|society}}
+* Arabic: {{t|ar|شيوعية|f|tr=shuyu`íyya|sc=Arab}}
 * Armenian: [[կոմունիզմ]] (komunizm)
+* Bulgarian: {{t+|bg|комунизъм|tr=komunizăm|m|sc=Cyrl}}
+* Chinese:
+*: Cantonese: {{tø|yue|共產主義}},  {{tø|yue|共产主义}}
+*: Mandarin: {{t|zh|共產主義|sc=Hani}},  {{t|zh|共产主义|tr=gòngchǎnzhǔyì|sc=Hani}}
+*: Min Nan: [[kiōng-sán-chú-gī]]
 * Croatian: {{t+|hr|komunizam|m}}
 * Danish: [[kommunisme]] {{c}}
 * Estonian: [[kommunism]]
@@ -116,7 +122,8 @@ A calque of the {{etyl|de}} word ''[[Kommunismus]]'' (from Marx and Engels's ''[
 * Irish: {{t|ga|cumannachas|m|xs=Irish}}
 * Italian: {{t+|it|comunismo|m}}
 {{trans-mid}}
-* Japanese: [[共産主義]] ([[きょうさんしゅぎ]], kyōsanshugi)
+* Japanese: {{t|ja|共産主義|tr=きょうさんしゅぎ, kyōsanshugi|sc=Jpan}}
+* Korean: [[공산주의]] (gongsan-ju-ui) ([[共產主義]])
 * Latvian: [[komunisms]] {{m}}
 * Lithuanian: [[komunizmas]] {{m}}
 * [[Macedonian]]: {{t|mk|комунизам|m|tr=komunízam|sc=Cyrl|xs=Macedonian}}
@@ -130,11 +137,9 @@ A calque of the {{etyl|de}} word ''[[Kommunismus]]'' (from Marx and Engels's ''[
 
 {{checktrans-top}}
 * {{ttbc|Albanian}}: [[komunizëm]]
-* {{ttbc|Arabic}}: {{Arab|[[شيوعية]]}}
 * {{ttbc|Azeri}}: [[kommunizm]]
 * {{ttbc|Bosnian}}: [[komunizam]] {{m}}
 * {{ttbc|Breton}}: [[komunouriezh]]
-* {{ttbc|Bulgarian}}: [[комунизъм]] ''(komunizăm)''
 * {{ttbc|Catalan}}: [[comunisme]]
 * Chinese:
 *: Mandarin: {{zh-ts|共產主義|共产主义}} ([[gòngchǎn zhǔyì]])
@@ -145,7 +150,6 @@ A calque of the {{etyl|de}} word ''[[Kommunismus]]'' (from Marx and Engels's ''[
 * {{ttbc|Hebrew}}: [[קומוניזם]] (qomunizm)
 * {{ttbc|Hindi}}: [[साम्यवाद]] (sāmyavād)
 * {{ttbc|Indonesian}}: [[komunisme]]
-* {{ttbc|Korean}}: [[공산주의]] ''(gongsanjuŭi)''
 {{checktrans-mid}}
 * {{ttbc|Malay}}: [[komunisme]]
 * {{ttbc|Min Nan}}: [[kiōng-sán-chú-gī]]
