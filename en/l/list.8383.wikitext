@@ -97,7 +97,7 @@ From {{etyl|enm}} {{term|liste||roll of names, contestants in the lists|lang=enm
 * Japanese: {{t+|ja|リスト|tr=risuto|sc=Jpan}}
 {{trans-bottom}}
 
-{{trans-top|LISP: data structure made up of cons pairs the cdr of which contains either another list or nil}}
+{{trans-top|LISP: data structure made up of a header and a tail, the latter containing either another list or nil}}
 * Czech: {{t-|cs|seznam|m}}
 {{trans-mid}}
 * Dutch: {{t+|nl|lijst|f}}
