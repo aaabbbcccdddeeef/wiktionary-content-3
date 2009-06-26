@@ -1,29 +1,44 @@
 {{wikipedia}}
 ==English==
 
+===Alternative spellings===
+; Variant spellings<ref name="OED">“[http://dictionary.oed.com/cgi/entry/50034338 ‖catachresis]” listed in the '''Oxford English Dictionary''' [2<sup>nd</sup> Ed.; 1989]</ref>
+{{top2}}
+* [[catechresis]] {{i|17 <sup>th</sup> century, obsolete, now a misspelling}}
+{{mid2}}
+* [[katachresis]] {{i|17 <sup>th</sup> century}}
+{{bottom}}
+
 ===Etymology===
-From {{etyl|la}} {{term|catachresis|lang=la}}, from {{etyl|grc|en}} {{term|κατάχρησις|tr=katakhrēsis|lang=grc|sc=polytonic}}, from {{term|καταχράομαι||I misuse|tr=katakhraomai|lang=grc|sc=polytonic}}, from {{term|κατά||wastefully|tr=kata|lang=grc|sc=polytonic}} + {{term|χράω||I use|lang=grc|sc=polytonic}}.
+From {{etyl|la|en}} {{term|catachresis|catachrēsis|lang=la}}, from {{etyl|grc|en}} {{term|sc=polytonic|κατάχρησις|tr=katakhrēsis||misuse (of a word)|lang=grc}}, from {{term|sc=polytonic|καταχρῆσθαι|tr=katakhrēsthai||to misuse|lang=grc}}, from {{term|sc=polytonic|κατά|tr=kata||pervertedly|lang=grc}} + {{term|sc=polytonic|χρῆσθαι|tr=khrēsthai||to use|lang=grc}}.<ref name="OED"/><!--from {{term|καταχράομαι||I misuse|tr=katakhraomai|lang=grc|sc=polytonic}}, from {{term|κατά||wastefully|tr=kata|lang=grc|sc=polytonic}} + {{term|χράω||I use|lang=grc|sc=polytonic}}.-->
 
 ===Pronunciation===
-* {{IPA|/kætəˈkɹiːsɪs/}}
+* {{a|RP}} {{enPR|kătəkrēʹsĭs}}, {{IPA|/kætəˈkɹiːsɪs/}},<ref name="OED"/> {{SAMPA|/k{t@"kr\i:sIs/}}
 
 ===Noun===
 {{en-noun|catachreses}}
 
-# The [[misuse]] of [[words]]; applying a term to something which it should not properly describe.
+# A [[misuse]] of a[[word]]; an [[application]] of a [[term]] to something which it does not properly [[denote]].<ref name="OED"/>
+# {{rhetoric}} A [[misapplication]] or [[overextension]] of [[figurative]] or [[analogical]] [[description]]; a [[wrong]]ly-applied [[metaphor]] or [[trope]].<ref name="OED"/>
 
 ====Related terms====
-* [[catachrestic]]
-* [[catachrestical]]
+* [[catachrestic]][[catachrestical|(al)]][[catachrestically|(ly)]]
+
+====Synonyms====
+* {{sense|misuse of a word}} [[misnomer]]
 
 ====Translations====
-{{trans-top|applying a term to something which it should not properly describe}}
+{{trans-top|misapplication of a term}}
+{{trans-mid}}
 * Norwegian: {{t-|no|katakrese|m}}
+{{trans-bottom}}
+
+{{trans-top|(''rhetoric'') bad metaphor or trope}}
 {{trans-mid}}
 {{trans-bottom}}
 
-====See also====
-* [[misnomer]]
+====References====
+<references/>
 
 [[fr:catachresis]]
 [[io:catachresis]]
