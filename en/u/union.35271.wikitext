@@ -3,22 +3,23 @@
 {{wikipedia|dab=Union}}
 
 ===Etymology===
-From {{etyl|fro}} ''[[#French|union]]''.
+From {{etyl|fro}} ''[[#French|union]]'', from {{LL.}} {{term|unionem|lang=la}}, from {{etyl|la}} {{term|unus|ūnus|one|lang=la}}
 
 ===Pronunciation===
-* {{IPA|/juːnjən/}}
+* {{IPA|/ˈjuːnjən/}}
 * {{audio|en-us-union.ogg|Audio (US)}}
 
 ===Noun===
 {{en-noun}}
 
-# a [[join]]
-# a [[joint]]
-# a [[bond]]
-# a [[trade union]]
+# The act of [[uniting]] or [[join]]ing two or more things into one, or the state of being united or [[join]]ed; [[junction]]; [[coalition]]; [[combination]].
+# That which is united, or made one; something formed by a combination or [[coalition]] of parts or members; a [[confederation]]; a [[consolidate]]d body; a [[league]].
+#:''a [[trade union]]''
+# A [[joint]] or other connection uniting parts of [[machinery]], such as [[pipe]]s.
 # {{settheory}} The [[set]] containing all of the [[element]]s of two or more sets.
-# sexual intercourse
-# a [[marriage]]
+# The act or state of [[marriage]].
+# Sexual [[intercourse]].
+
 # {{computing}} A [[data structure]] that can store any of various items, but only one at a time.
 
 ====Derived terms====
@@ -31,29 +32,12 @@ From {{etyl|fro}} ''[[#French|union]]''.
 * [[Soviet Union]]
 
 ====Translations====
-{{trans-top|join}}
-* Arabic: {{t|ar|اتحاد|m|tr=ittiHaad|sc=Arab}}
-* Armenian: {{t|hy|միություն|tr=miut’yun|sc=Armn}}
-* Chinese: {{zh-tsp|聯盟|联盟|liánméng}}, {{zh-tsp|聯合|联合|liánhé}}
-* Dutch: {{t-|nl|unie}}
-* Finnish: {{t+|fi|liitto}}, {{t-|fi|unioni}}
-* French: {{t+|fr|union|f}}
-* German: {{t+|de|Union|f}}
-* Greek: {{t|el|ένωση|f|sc=Grek}}
-* Hungarian: {{t+|hu|egyesülés}}
-* Icelandic: {{t-|is|samband}}
-* Italian: {{t+|it|unione|f}}
+{{trans-top|the act of uniting or the state of being united}}
 {{trans-mid}}
-* Japanese: {{t-|ja|連邦|tr=renpō|sc=Jpan}}, {{t-|ja|同盟|tr=dōmei|sc=Jpan}}
-* Korean: [[연맹]] (yeonmaeng)
-* Kurdish:
-*: Sorani: {{t|ku|یه‌کێتی|tr=yekéti|sc=ku-Arab}}
-* Portuguese: {{t+|pt|união|f}}
-* Russian: {{t+|ru|союз|m|tr=sojúz|sc=Cyrl}}
-* Serbian: {{t-|sr|savez|m}}
-* Spanish: {{t+|es|unión|f}}
-* Swahili: {{t|sw|shirikisho}}
-* Swedish: {{t+|sv|union}}
+{{trans-bottom}}
+
+{{trans-top|that which is united; something formed by a combination of parts or members}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|joint}}
@@ -62,14 +46,6 @@ From {{etyl|fro}} ''[[#French|union]]''.
 * Greek: {{t+|el|αρμός|f|sc=Grek}}, {{t+|el|άρθρωση|f|sc=Grek}}
 * Swahili: {{t|sw|shirikisho}}
 {{trans-bottom}}
-
-{{trans-top|bond}}
-* Greek: {{t|el|ένωση|f|sc=Grek}}, {{t+|el|σύνδεσμος|m|sc=Grek}}
-{{trans-mid}}
-* Swahili: {{t|sw|shirikisho}}
-{{trans-bottom}}
-
-{{trans-see|[[trade union]]}}
 
 {{trans-top|in set theory}}
 * Chinese: {{zh-tsp|併集|并集|bìngjí}}
@@ -105,7 +81,29 @@ From {{etyl|fro}} ''[[#French|union]]''.
 * Swahili: {{t|sw|shirikisho}}
 * Swedish: {{t+|sv|förening|c}}
 {{trans-bottom}}
-
+{{checktrans-top}}
+* {{ttbc|Arabic}}: {{t|ar|اتحاد|m|tr=ittiHaad|sc=Arab}}
+* {{ttbc|Chinese}}: {{zh-tsp|聯盟|联盟|liánméng}}, {{zh-tsp|聯合|联合|liánhé}}
+* {{ttbc|Dutch}}: {{t-|nl|unie}}
+* {{ttbc|Finnish}}: {{t+|fi|liitto}}, {{t-|fi|unioni}}
+* {{ttbc|French}}: {{t+|fr|union|f}}
+* {{ttbc|German}}: {{t+|de|Union|f}}
+* {{ttbc|Greek}}: {{t|el|ένωση|f|sc=Grek}}
+* {{ttbc|Hungarian}}: {{t+|hu|egyesülés}}
+* {{ttbc|Icelandic}}: {{t-|is|samband}}
+* {{ttbc|Italian}}: {{t+|it|unione|f}}
+{{checktrans-mid}}
+* {{ttbc|Japanese}}: {{t-|ja|連邦|tr=renpō|sc=Jpan}}, {{t-|ja|同盟|tr=dōmei|sc=Jpan}}
+* {{ttbc|Korean}}: [[연맹]] (yeonmaeng)
+* {{ttbc|Kurdish}}:
+*: Sorani: {{t|ku|یه‌کێتی|tr=yekéti|sc=ku-Arab}}
+* {{ttbc|Portuguese}}: {{t+|pt|união|f}}
+* {{ttbc|Russian}}: {{t+|ru|союз|m|tr=sojúz|sc=Cyrl}}
+* {{ttbc|Serbian}}: {{t-|sr|savez|m}}
+* {{ttbc|Spanish}}: {{t+|es|unión|f}}
+* {{ttbc|Swahili}}: {{t|sw|shirikisho}}
+* {{ttbc|Swedish}}: {{t+|sv|union}}
+{{checktrans-bottom}}
 ====Related terms====
 * [[reunion]]
 * [[reunification]]
@@ -115,7 +113,7 @@ From {{etyl|fro}} ''[[#French|union]]''.
 ===See also===
 * [[intersection]]<!--in set theory-->
 * [[w:union_(set theory)|Wikipedia article about unions in set theory]]
-
+{{webster}}
 ----
 
 ==French==
