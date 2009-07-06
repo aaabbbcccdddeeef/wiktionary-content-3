@@ -19,7 +19,6 @@ From {{etyl|fro}} ''[[#French|union]]'', from {{LL.}} {{term|unionem|lang=la}}, 
 # {{settheory}} The [[set]] containing all of the [[element]]s of two or more sets.
 # The act or state of [[marriage]].
 # Sexual [[intercourse]].
-
 # {{computing}} A [[data structure]] that can store any of various items, but only one at a time.
 
 ====Derived terms====
@@ -35,7 +34,7 @@ From {{etyl|fro}} ''[[#French|union]]'', from {{LL.}} {{term|unionem|lang=la}}, 
 {{trans-top|the act of uniting or the state of being united}}
 * Armenian: {{qualifier|act}} {{t|hy|միավորում|tr=miavorum|sc=Armn}},  {{qualifier|state}} {{t|hy|միություն|tr=miut’yun|sc=Armn}}
 {{trans-mid}}
-* Finnish: {{t|fi|liittäminen}},  {{t|fi|liitos}},  {{t|fi|liitto}}
+* Finnish: {{t|fi|liittäminen}},  {{t|fi|liitos}} (''act'');  {{t|fi|liitto}} (''state'')
 {{trans-bottom}}
 
 {{trans-top|that which is united; something formed by a combination of parts or members}}
@@ -71,6 +70,15 @@ From {{etyl|fro}} ''[[#French|union]]'', from {{LL.}} {{term|unionem|lang=la}}, 
 * Swedish: {{t+|sv|union}}
 {{trans-bottom}}
 
+{{trans-top|marriage}}
+* Armenian: {{t|hy|միություն|tr=miut’yun|sc=Armn}}
+* Finnish: {{t+|fi|avioliitto}}, {{t+|fi|liitto}}
+* Greek: {{t|el|σύζευξη|f|sc=Grek}}, {{t+|el|γάμος|m|sc=Grek}}
+{{trans-mid}}
+* Swahili: {{t|sw|shirikisho}}
+* Swedish: {{t+|sv|förening|c}}
+{{trans-bottom}}
+
 {{trans-top|sexual intercourse}}
 * Chinese: [[交合]]
 * Dutch: {{t|nl|gemeenschap}}
@@ -80,19 +88,14 @@ From {{etyl|fro}} ''[[#French|union]]'', from {{LL.}} {{term|unionem|lang=la}}, 
 * Swahili: {{t|sw|shirikisho}}
 {{trans-bottom}}
 
-{{trans-top|marriage}}
-* Armenian: {{t|hy|միություն|tr=miut’yun|sc=Armn}}
-* Finnish: {{t+|fi|avioliitto}}, {{t+|fi|liitto}}
-* Greek: {{t|el|σύζευξη|f|sc=Grek}}, {{t+|el|γάμος|m|sc=Grek}}
+{{trans-top|computing: certain data structure}}
 {{trans-mid}}
-* Swahili: {{t|sw|shirikisho}}
-* Swedish: {{t+|sv|förening|c}}
 {{trans-bottom}}
+
 {{checktrans-top}}
 * {{ttbc|Arabic}}: {{t|ar|اتحاد|m|tr=ittiHaad|sc=Arab}}
 * {{ttbc|Chinese}}: {{zh-tsp|聯盟|联盟|liánméng}}, {{zh-tsp|聯合|联合|liánhé}}
 * {{ttbc|Dutch}}: {{t-|nl|unie}}
-* {{ttbc|Finnish}}: {{t+|fi|liitto}}, {{t-|fi|unioni}}
 * {{ttbc|French}}: {{t+|fr|union|f}}
 * {{ttbc|German}}: {{t+|de|Union|f}}
 * {{ttbc|Greek}}: {{t|el|ένωση|f|sc=Grek}}
@@ -111,6 +114,7 @@ From {{etyl|fro}} ''[[#French|union]]'', from {{LL.}} {{term|unionem|lang=la}}, 
 * {{ttbc|Swahili}}: {{t|sw|shirikisho}}
 * {{ttbc|Swedish}}: {{t+|sv|union}}
 {{checktrans-bottom}}
+
 ====Related terms====
 * [[reunion]]
 * [[reunification]]
