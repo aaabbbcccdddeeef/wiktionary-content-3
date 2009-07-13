@@ -1,15 +1,3 @@
-==Croatian==
-
-===Etymology===
-From {{etyl|la|hr}} {{term|lapsus|lang=la}}.
-
-===Noun===
-{{hr-noun|m}}
-
-# [[lapse]]
-
-----
-
 ==Icelandic==
 
 ===Etymology===
@@ -58,6 +46,29 @@ From {{etyl|la|is}} ''[[#Latin|lapsus]]''.
 {{infl|la|perfect participle|head=lāpsus}}
 
 # perfect passive participle of '''[[labor#Latin|lābor]]'''
+
+----
+
+==Serbo-Croatian==
+
+===Etymology===
+From {{etyl|la|sh}} {{term|lapsus|lang=la}}.
+
+===Noun===
+{{sh-noun|g=m|head=làpsus|r|лапсус|ла̀псус}}
+
+# [[lapse]]
+
+====Declension====
+{{sh-decl-noun
+|lapsus|lapsusi
+|lapsusa|lapsusa
+|lapsusu|lapsusima
+|lapsus|lapsuse
+|lapsuse|lapsusi
+|lapsusu|lapsusima
+|lapsusom|lapsusima
+}}
 
 [[de:lapsus]]
 [[el:lapsus]]
