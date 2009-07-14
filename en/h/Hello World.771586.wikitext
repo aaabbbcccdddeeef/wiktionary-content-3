@@ -1,11 +1,21 @@
 {{rfd}}
 ==English==
 
+===Proper noun===
+'''[[hello|Hello]] [[world|World]]'''
+
+# {{programming}} The title of a simple [[script]] or [[program]] designed to output the text "Hello World" as a [[demonstration]] of the [[computer language]] or [[environment]].
+
 ===Noun===
 {{en-noun|sg=[[hello|Hello]] [[world|World]]|-}}
 
-# {{programming|attributive}} A simple [[script]] or [[program]] [[source]] designed to output the text “Hello World” as a [[demonstration]] of the [[computer language]].
-#: ''The first tutorial in any language is a '''Hello World''' program.''
+# {{programming|by extension}} A simple first program for any purpose.
+#* '''2006''', Eric Van der Vlist, Erik Bruchez, Danny Ayers, Joe Fawcett, Alessandro Vernet, ''Professional Web 2.0 programming‎''
+#*: The '''Hello World''' of Web 2.0
+#* '''2006''', Rael Dornfest, Paul Bausch, Tara Calishain, ''Google hacks‎''
+#*: Google refers to this as the '''"Hello World"''' of Google Maps.
+#* '''2008''', Shelley Powers, ''Painting the Web‎''
+#*: Animated Clock: The '''Hello World''' of Animated and Interactive SVG
 
 ====Translations====
 {{trans-top|Hello World}}
@@ -14,8 +24,3 @@
 {{trans-mid}}
 * Russian: [[Привет, мир]]
 {{trans-bottom}}
-
-===Proper noun===
-'''[[hello|Hello]] [[world|World]]'''
-
-# {{programming}} The title of such a computer program.
