@@ -2,10 +2,16 @@
 
 ===Etymology===
 Named for [[w:Vladimir Levenshtein]], Russian mathematician.
-[[Category:English eponyms]
+[[Category:English eponyms]]
 
 ===Noun===
 {{wikipedia}}
 {{en-noun|sg=[[Levenshtein]] [[distance]]}}
 
 # {{computer science}} The number of [[edit]]s ([[replacements]], [[deletions]] and [[insertions]]) required to change one [[string]] into another.
+
+====Translations====
+{{trans-top|(computer science) the number of edits required to change one string into another}}
+* Czech: {{t|cs|Levenshteinova vzdálenost|f}}
+{{trans-mid}}
+{{trans-bottom}}
