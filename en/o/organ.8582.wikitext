@@ -135,14 +135,7 @@ From {{etyl|la}} {{term|organum|lang=la}} < {{etyl|grc}} {{term|ὄργανον|
 * {{R:Webster 1913}}
 * {{R:Century 1911}}
 
-----
-
-==Croatian==
-
-===Noun===
-{{infl|hr|noun|g=m|head=òrgān}}
-
-# [[#English|organ]] (part of an organism)
+[[Category:Biology]]
 
 ----
 
@@ -153,8 +146,25 @@ From {{etyl|la}} {{term|organum|lang=la}} < {{etyl|grc}} {{term|ὄργανον|
 
 # [[#English|organ]]
 
-[[Category:Biology]]
-[[Category:Greek derivations]]
+----
+
+==Serbo-Croatian==
+
+===Noun===
+{{sh-noun|g=m|head=òrgān|r|орган|о̀рга̄н}}
+
+# [[#English|organ]] (part of an organism)
+
+====Declension====
+{{sh-decl-noun
+|òrgān|organi
+|organa|orgána
+|organu|organima
+|organ|organe
+|organe|organi
+|organu|organima
+|organom|organima
+}}
 
 [[da:organ]]
 [[es:organ]]
