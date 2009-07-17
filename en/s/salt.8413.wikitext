@@ -54,7 +54,7 @@
 
 ====Translations====
 {{trans-top|common substance}}
-* [[Afrikaans]]: {{t|af|sout}}
+* [[Afrikaans]]: {{t-|af|sout|xs=Afrikaans}}
 * Aramaic:
 *: Syriac: [[ܡܠܚܐ]] (milħā’) {{f}}
 *: Hebrew: [[מלחא]] (milħā’) {{f}}
@@ -70,7 +70,7 @@
 * Czech: {{t+|cs|sůl|f}}
 * Danish: {{t+|da|salt|n}}
 * Dutch: {{t+|nl|zout|n}}
-* Estonian: {{t|et|sool}}
+* Estonian: {{t-|et|sool}}
 * [[Ewe]]: [[dze]] {{n}}
 * Finnish: {{t+|fi|suola}}
 * French: {{t+|fr|sel|m}}
@@ -80,11 +80,11 @@
 *: Ancient: [[ἅλας]] {{n}} (alas)
 *: Modern: {{t+|el|αλάτι|n|sc=Grek}} (aláti)
 * Hebrew: {{he-translation|מלח|mélakh}} {{m}}
-* Hindi: {{t|hi|नमक|tr=namak|sc=Deva|m}}
+* Hindi: {{t+|hi|नमक|m|tr=namak|sc=Deva|xs=Hindi}}
 * Hungarian: {{t+|hu|só}}
 * Icelandic: {{t+|is|salt|n}}
 {{trans-mid}}
-* [[Ido]]: {{t|io|salo}}
+* [[Ido]]: {{t+|io|salo|xs=Ido}}
 * Indonesian: {{t+|id|garam|xs=Indonesian}}
 * Japanese: [[塩]] ([[しお]], [[shio]])
 * Korean: [[소금]] (sogeum)
@@ -95,20 +95,20 @@
 * [[Macedonian]]: {{t-|mk|сол|f|tr=sol|sc=Cyrl|xs=Macedonian}},  {{t|mk|кујнска сол|f|tr=kújnska sol|sc=Cyrl|xs=Macedonian}}
 * Norwegian: {{t+|no|salt|n}}, {{t-|no|bordsalt|n}}
 * [[Old Frisian]]: [[salt]]
-* Persian: {{t|fa|نمک|tr=namak|sc=fa-Arab|xs=Persian}}
+* Persian: {{t+|fa|نمک|tr=namak|sc=fa-Arab|xs=Persian}}
 * Polish: {{t+|pl|sól|f}}
 * Romanian: {{t-|ro|sare|f}}
 * Russian: [[соль]] (sol´) {{f}}
 * [[Scottish Gaelic]]: {{t-|gd|salann|m|xs=Scottish Gaelic}}
 * Slovak: {{t-|sk|soľ|f}}
 * Slovene: {{t+|sl|sol|f}}
-* [[Sotho]]: {{t|st|letswai}}
+* [[Sotho]]: {{t|st|letswai|xs=Sotho}}
 * Spanish: {{t+|es|sal|f}}
 * Swedish: {{t+|sv|salt|n}}, {{t+|sv|koksalt|n}}, {{t+|sv|bordssalt|n}}
 * [[Tagalog]]: {{t+|tl|asin|xs=Tagalog}}
-* [[Tajik]]: {{t|tg|намак|tr=namak|sc=Cyrl}}
+* [[Tajik]]: {{t-|tg|намак|tr=namak|sc=Cyrl|xs=Tajik}}
 * [[Telugu]]: [[ఉప్పు]] (uppu)
-* Urdu: {{t|ur|نمک|tr=namak|sc=ur-Arab|m|xs=Urdu}}
+* Urdu: {{t-|ur|نمک|m|tr=namak|sc=ur-Arab|xs=Urdu}}
 * Vietnamese: {{t+|vi|muối|xs=Vietnamese}}
 * [[West Frisian]]: [[sâlt]]
 * Yiddish: {{t|yi|זאַלץ|f|tr=zaltz|sc=Hebr|xs=Yiddish}}
@@ -119,7 +119,7 @@
 * Croatian: {{t-|hr|sol|f}}
 * Czech: {{t+|cs|sůl|f}}
 * Danish: {{t+|da|salt|n}}
-* Estonian: {{t|et|sool}}
+* Estonian: {{t-|et|sool}}
 * Finnish: {{t+|fi|suola}}
 * French: {{t+|fr|sel|m}}
 * German: {{t+|de|Salz|n}}
@@ -133,7 +133,7 @@
 * Slovak: {{t-|sk|soľ|f}}
 * Slovene: {{t+|sl|sol|f}}
 * Spanish: {{t+|es|sal|f}}
-* Swahili: {{t|sw|chumvi}}
+* Swahili: {{t|sw|chumvi|xs=Swahili}}
 * Swedish: {{t+|sv|salt|n}}
 * [[Telugu]]: [[లవణం]] (lavanam)
 * [[West Frisian]]: [[sâlt]]
@@ -160,7 +160,7 @@
 {{trans-top|additional bytes inserted into an encryption}}
 * Japanese: [[ソルト]] ([[soruto]])
 {{trans-mid}}
-* Swahili: {{t|sw|chumvi}}
+* Swahili: {{t|sw|chumvi|xs=Swahili}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -232,7 +232,7 @@
 * Norwegian: {{t+|no|salt}}
 * Russian: {{t+|ru|солёный|tr=sol'ónyj|sc=Cyrl}}
 * Slovene: [[slan]] {{m}}, [[slana]] {{f}}, [[slano]] {{n}}
-* Swahili: {{t|sw|chumvi}}
+* Swahili: {{t|sw|chumvi|xs=Swahili}}
 * Swedish: {{t+|sv|salt}}
 {{trans-bottom}}
 
@@ -247,7 +247,7 @@
 * [[Macedonian]]: {{t|mk|солен|m|tr=sólen|sc=Cyrl|xs=Macedonian}},  {{t|mk|солена|f|tr=sólena|sc=Cyrl|xs=Macedonian}},  {{t|mk|солено|n|tr=sóleno|sc=Cyrl|xs=Macedonian}}
 * Norwegian: {{t-|no|saltholdig}}
 * Russian: {{t+|ru|солевой|tr=sol'evój|sc=Cyrl}}, {{t+|ru|соляной|tr=sol'anój|sc=Cyrl}}
-* Swahili: {{t|sw|chumvi}}
+* Swahili: {{t|sw|chumvi|xs=Swahili}}
 * Swedish: [[salthaltig]]
 {{trans-bottom}}
 
@@ -288,18 +288,18 @@
 * Finnish: [[suolata]], [[lisätä]] [[suola|suolaa]]
 * French: {{t+|fr|saler}}
 * German: {{t+|de|salzen}}
-* Hebrew: {{t-|he|המליח|tr=himlíakh|sc=Hebr}}
+* Hebrew: {{t+|he|המליח|tr=himlíakh|sc=Hebr}}
 * Hungarian: {{t-|hu|sóz}}
 * Icelandic: {{t-|is|salta}}
 * Italian: {{t+|it|salare}}
 {{trans-mid}}
 * Latvian: [[sālīt]]
 * [[Macedonian]]: {{t|mk|соли|tr=sóli|sc=Cyrl|xs=Macedonian}},  {{t|mk|посоли|tr=pósoli|sc=Cyrl|xs=Macedonian}},  {{t|mk|засоли|tr=zásoli|sc=Cyrl|xs=Macedonian}}
-* Norwegian: {{t-|no|salte}}
+* Norwegian: {{t+|no|salte}}
 * Polish: {{t+|pl|solić}}
 * Russian: [[солить]] (solít') {{impf}}, [[посолить]] (posolít') {{pf}}
 * Slovene: {{t-|sl|soliti}}
-* Swahili: {{t|sw|chumvi}}
+* Swahili: {{t|sw|chumvi|xs=Swahili}}
 * Swedish: {{t+|sv|salta}}
 {{trans-bottom}}
 
@@ -308,7 +308,7 @@
 {{trans-bottom}}
 
 {{trans-top|add filler bytes before encryption}}
-* Swahili: {{t|sw|chumvi}}
+* Swahili: {{t|sw|chumvi|xs=Swahili}}
 {{trans-mid}}
 {{trans-bottom}}
 
