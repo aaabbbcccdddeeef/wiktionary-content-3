@@ -24,7 +24,7 @@
 
 ====Translations====
 {{trans-top|formalised choice}}
-* [[Afrikaans]]: {{t|af|stem}}
+* [[Afrikaans]]: {{t-|af|stem|xs=Afrikaans}}
 * Bosnian: {{t-|bs|glas|m}}
 * Chinese: [[表決]] (biǎo jué)
 * Croatian: {{t-|hr|glas|m}}
@@ -32,7 +32,7 @@
 * Dutch: [[stem]] {{f}}, [[stembusgang]] {{m}}
 * Finnish: {{t+|fi|äänestys}}
 * French: {{t+|fr|voix|f}}
-* [[Galician]]: {{t|gl|voto|m}}
+* [[Galician]]: {{t+|gl|voto|m|xs=Galician}}
 * German: {{t+|de|Stimme|f}}
 * Greek: {{t+|el|ψηφοφορία|f|tr=psifoforía|sc=Grek}}
 * Hungarian: {{t|hu|szavazás}}
@@ -41,7 +41,7 @@
 * Japanese: [[投票]] (tōhyō)
 * Korean: [[투표]] (tupyo)
 * [[Novial]]: vote
-* Polish: [[głos]] {{m}}
+* Polish: {{t+|pl|głos|m}}
 * Portuguese: {{t+|pt|voto|m}}
 * Russian: {{t+|ru|голос|m|tr=gólos|sc=Cyrl}}, {{t+|ru|вотум|m|tr=vótum|sc=Cyrl}}
 * Serbian:
@@ -51,12 +51,12 @@
 {{trans-bottom}}
 
 {{trans-top|instance of voting}}
-* Finnish: {{t|fi|ääni}}
-* [[Galician]]: {{t|gl|voto|m}}
+* Finnish: {{t+|fi|ääni}}
+* [[Galician]]: {{t+|gl|voto|m|xs=Galician}}
 {{trans-mid}}
 * Greek: {{t+|el|ψήφος|f|sc=Grek}} (psífos)
 * Hungarian: {{t+|hu|szavazat}}
-* Polish: [[głosowanie]] {{n}}
+* Polish: {{t+|pl|głosowanie|n}}
 {{trans-bottom}}
 
 ===Verb===
@@ -72,7 +72,7 @@
 
 ====Translations====
 {{trans-top|assert a formalised choice}}
-* [[Afrikaans]]: {{t|af|stem}}
+* [[Afrikaans]]: {{t-|af|stem|xs=Afrikaans}}
 * Arabic: {{Arab|[[صوت]]}} {{unicode|(ʂáwwata)}}
 * Armenian: {{t|hy|քվեարկել|tr=k’vearkel|sc=Armn|xs=Armenian}}, {{t|hy|ձայն տալ|tr=jayn tal|sc=Armn|xs=Armenian}}
 * Bosnian: {{t-|bs|glasati}}
@@ -90,13 +90,13 @@
 * Japanese: [[投票]][[する]] (とうひょうする, tōhyō surú)
 * Korean: [[투표하다]] (tupyohada)
 * [[Novial]]: [[vota]]
-* Polish: [[głosować]]
+* Polish: {{t+|pl|głosować}}
 * Portuguese: {{t+|pt|votar}}
 * Russian: [[голосовать]] (golosovát’) {{impf}}, [[проголосовать]] (progolosovát’) {{pf}}
 * Serbian:
 *: Cyrillic: [[гласати#Serbian|гласати]]
 *: Roman: [[glasati#Serbian|glasati]]
-* [[Sotho]]: {{t|st|vouta}}
+* [[Sotho]]: {{t|st|vouta|xs=Sotho}}
 * Spanish: {{t+|es|votar}}
 * Swedish: {{t+|sv|rösta}}
 {{trans-bottom}}
