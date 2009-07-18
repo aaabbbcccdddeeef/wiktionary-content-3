@@ -67,7 +67,7 @@ From {{etyl|enm|en}} {{term|male||bag, mail|lang=enm}}, from {{etyl|fro|en}} {{t
 =====Translations=====
 {{trans-top|regular delivery of letters and small parcels}}
 * Arabic: {{t|ar|بريد|m|tr=barīd|sc=Arab}}
-* Armenian: {{t|hy|փոստ|tr=p'ost|sc=Armn}}
+* Armenian: {{t|hy|փոստ|tr=p'ost|sc=Armn|xs=Armenian}}
 * Chinese: [[邮件]] (yóujiàn)
 * Czech: {{t-|cs|pošta|f}}
 * Dutch: {{t+|nl|post|f}}
@@ -77,7 +77,7 @@ From {{etyl|enm|en}} {{term|male||bag, mail|lang=enm}}, from {{etyl|fro|en}} {{t
 * Hungarian: {{t+|hu|posta}}
 {{trans-mid}}
 * Italian: {{t+|it|posta|f}}
-* Japanese: {{t|ja|郵便|tr=yūbin|sc=Jpan}}
+* Japanese: {{t+|ja|郵便|tr=yūbin|sc=Jpan}}
 * Korean: {{t|ko|우편물|tr=upyeonmul|sc=Kore}}
 * Lithuanian: {{t+|lt|paštas|m|xs=Lithuanian}}
 * Portuguese: {{t+|pt|correio|m}}
@@ -87,11 +87,11 @@ From {{etyl|enm|en}} {{term|male||bag, mail|lang=enm}}, from {{etyl|fro|en}} {{t
 {{trans-bottom}}
 
 {{trans-top|organisation}}
-* Armenian: {{t|hy|փոստ|tr=p'ost|sc=Armn}}
+* Armenian: {{t|hy|փոստ|tr=p'ost|sc=Armn|xs=Armenian}}
 * Czech: {{t-|cs|pošta|f}}
 * Finnish: {{t+|fi|posti}}
 {{trans-mid}}
-* Lithuanian: {{t|lt|paštas|m}}
+* Lithuanian: {{t|lt|paštas|m|xs=Lithuanian}}
 * Russian: {{t+|ru|почта|f|tr=póčta|sc=Cyrl}}
 * Swedish: {{t+|sv|post|c}}
 {{trans-bottom}}
@@ -99,7 +99,7 @@ From {{etyl|enm|en}} {{term|male||bag, mail|lang=enm}}, from {{etyl|fro|en}} {{t
 {{trans-top|parcels and letters}}
 * Czech: {{t-|cs|pošta|f}}
 * Finnish: {{t+|fi|posti}}
-* Lithuanian: {{t|lt|paštas|m}}
+* Lithuanian: {{t|lt|paštas|m|xs=Lithuanian}}
 {{trans-mid}}
 * Russian: {{t+|ru|почта|f|tr=póčta|sc=Cyrl}}, {{t|ru|корреспонденция|t=korrespondéncija|f|sc=Cyrl}}
 * Swedish: {{t+|sv|post|c}}
@@ -143,9 +143,9 @@ From {{etyl|enm|en}} {{term|male||bag, mail|lang=enm}}, from {{etyl|fro|en}} {{t
 * Finnish: {{t+|fi|postittaa}}
 * Hungarian: {{t+|hu|levél}}
 {{trans-mid}}
-* [[Interlingua]]: {{t|ia|postar}},  {{t|ia|inviar}}
-* Portuguese: {{t|pt|postar}},  {{t|pt|enviar}},  {{t|pt|remeter}},  {{t|pt|expedir}}
-* Serbian: {{t|sr|послати|tr=poslati|sc=Cyrl}}
+* [[Interlingua]]: {{t|ia|postar|xs=Interlingua}},  {{t|ia|inviar|xs=Interlingua}}
+* Portuguese: {{t|pt|postar}},  {{t+|pt|enviar}},  {{t|pt|remeter}},  {{t+|pt|expedir}}
+* Serbian: {{t-|sr|послати|tr=poslati|sc=Cyrl}}
 {{trans-bottom}}
 
 ====Adjective====
@@ -158,7 +158,7 @@ From {{etyl|enm|en}} {{term|male||bag, mail|lang=enm}}, from {{etyl|fro|en}} {{t
 * Bosnian: {{t-|bs|poštanski}}
 * Russian: {{t+|ru|почтовый|tr=počtóvyj|sc=Cyrl}}
 {{trans-mid}}
-* Serbian: {{t|sr|поштански|tr=poštanski|sc=Cyrl}}
+* Serbian: {{t-|sr|поштански|tr=poštanski|sc=Cyrl}}
 {{trans-bottom}}
 
 ===Etymology 2===
