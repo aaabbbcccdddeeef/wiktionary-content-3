@@ -34,17 +34,17 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * [[Amharic]]: {{tø|am|ቡና|tr=buna|sc=Ethi}}
 * [[Amuzgo]]: [[kajwê]]
 * Arabic: {{Arab|[[قهوة]]}} (qáhwa) {{f}}
-* Armenian: {{t|hy|սուրճ|tr=surč̣}}
+* Armenian: {{t+|hy|սուրճ|tr=surč̣|sc=Hayeren|xs=Armenian}}
 * [[Azeri]]: {{t|az|qəhvə|xs=Azeri}}
 * Belarusian: {{t-|be|кава|f|tr=káva|sc=Cyrl|xs=Belarusian}}
-* Bulgarian: {{t|bg|кафе|tr=kafé|n}}
-* [[Catalan]]: {{t|ca|cafè|m}}
-* Cherokee: {{t|chr|ᎧᏫ|tr=kawi}}
+* Bulgarian: {{t-|bg|кафе|n|tr=kafé|sc=Cyrl}}
+* [[Catalan]]: {{t-|ca|cafè|m}}
+* Cherokee: {{t-|chr|ᎧᏫ|tr=kawi|xs=Cherokee}}
 * [[Cheyenne]]: [[moˀȯhtávėhohpe]]
 * Chinese:
 *: Cantonese: {{tø|yue|咖啡|tr=gaa3 fe1|sc=Hani|xs=Cantonese}}
-*: Mandarin: {{t+|cmn|咖啡|sc=Hani|tr=kāfēi}}
-*: Min Nan: {{t-|nan|咖啡|sc=Hani|tr={{t+|nan|ka-pi}}}}
+*: Mandarin: {{t-|cmn|咖啡|tr=kāfēi|sc=Hani|xs=Mandarin}}
+*: Min Nan: {{t-|nan|咖啡|nan|ka-pi|tr={{t-|sc=Hani|xs=Min Nan}}}}
 * Czech: {{t+|cs|káva|f}}
 * Danish: {{t+|da|kaffe|c}}
 * Dutch: {{t+|nl|koffie|m}}
@@ -55,7 +55,7 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * Georgian: {{t+|ka|ყავა|tr=qava|xs=Georgian}}
 * German: {{t+|de|Kaffee|m}}
 * Greek: {{t+|el|καφές|m|tr=kafés|sc=Grek}}
-* Hebrew: {{t|he|קפה|tr=qafé|m|sc=Hebr}}
+* Hebrew: {{t+|he|קפה|m|tr=qafé|sc=Hebr}}
 * Hindi: {{t-|hi|क़हवा|m|tr=qahva|sc=Deva|xs=Hindi}}, {{t-|hi|कोफ़ी|f|tr=kofī|sc=Deva|xs=Hindi}}, {{t-|hi|काफ़ी|f|tr=kāfī|sc=Deva|xs=Hindi}}, {{t|hi|कॉफ़ी|f|tr=kofī|sc=Deva|xs=Hindi}}
 * Hungarian: {{t+|hu|kávé}}
 * Icelandic: {{t+|is|kaffi|n}}
@@ -91,11 +91,11 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 *: Roman: {{tø|sh|kafa|f|xs=Serbo-Croatian}}, {{tø|sh|kava|f|xs=Serbo-Croatian}}, {{tø|sh|kahva|f|xs=Serbo-Croatian}}
 * Slovak: {{t-|sk|káva|f}}
 * Slovene: {{t+|sl|kava|f}}
-* [[Sotho]]: {{t|st|kofi}}
+* [[Sotho]]: {{t-|st|kofi|xs=Sotho}}
 * Spanish: {{t+|es|café|m}}, {{t-|es|tinto|m}}
-* Swahili: {{t|sw|kahawa}}
+* Swahili: {{t+|sw|kahawa|xs=Swahili}}
 * Swedish: {{t+|sv|kaffe|n}}
-* [[Tagalog]]: {{t|tl|kape}}
+* [[Tagalog]]: {{t-|tl|kape|xs=Tagalog}}
 * [[Tetum]]: [[kafé]]
 * [[Tok Pisin]]: [[kopi]]
 * Turkish: {{t+|tr|kahve}}
@@ -111,29 +111,29 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * Dutch: {{t+|nl|koffie|m}}, {{t|nl|koffieboon|m}}
 * Finnish: {{t+|fi|kahvipapu}}
 * Georgian: {{t|ka|ყავის მარცვლები|tr=q‘avis martsvlebi|xs=Georgian}}
-* Hebrew: {{t|he|פולי קפה|tr=poléi qafé|m|p|sc=Hebr}}
+* Hebrew: {{t|he|פולי קפה|m|p|tr=poléi qafé|sc=Hebr}}
 * Japanese: {{t-|ja|コーヒー豆|tr=kōhīmame|sc=Jpan}}
 {{trans-mid}}
 * {{trreq|Korean}}
 * [[Meru]]: {{tø|mer|kaua}}
 * Russian: {{t+|ru|кофе|m|tr=kófe|sc=Cyrl}}
-* Swahili: {{t|sw|kahawa}}
+* Swahili: {{t+|sw|kahawa|xs=Swahili}}
 * [[Taos]]: [[kopháne]]
 * Thai: {{Thai|[[เมล็ดกาแฟ]]}} (málét gaafâe)
-* Vietnamese: [[hột]] {{t|vi|cà phê}}, [[hạt]] {{t|vi|cà phê}}
+* Vietnamese: [[hột]] {{t+|vi|cà phê|xs=Vietnamese}}, [[hạt]] {{t+|vi|cà phê|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|plant}}
 * Arabic: {{Arab|[[بن]]}} (bun) {{m}}
-* [[Catalan]]: {{t|ca|cafè|m}}
-* Czech: {{t-|cs|kávovník|m}}
+* [[Catalan]]: {{t-|ca|cafè|m}}
+* Czech: {{t+|cs|kávovník|m}}
 * Danish: {{t|da|kaffebusk|c}}, {{t|da|kaffetræ|n}}
 * Dutch: {{t+|nl|koffie|m}}, [[koffieplant]] {{m}}
 * Estonian: {{t|et|kohvipuu}}
 * Finnish: {{t+|fi|kahvipensas}}
 * French: {{t+|fr|caféier|m}}
 * German: {{t|de|Kaffeepflanze|f}}
-* Hebrew: {{t|he|קפה|tr=qafé|m|sc=Hebr}}
+* Hebrew: {{t+|he|קפה|m|tr=qafé|sc=Hebr}}
 * Italian: {{t+|it|caffè|f}}
 * Japanese: [[コーヒーの木]] (こーひーのき, kōhī no ki)
 {{trans-mid}}
@@ -144,20 +144,20 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * Slovak: {{t-|sk|kávovník|m}}
 * Slovene: {{t|sl|kavovec|m}}
 * Spanish: {{t+|es|cafeto|m}}, {{t+|es|café|m}}
-* Swahili: {{t|sw|mbuni}}
+* Swahili: {{t+|sw|mbuni|xs=Swahili}}
 * Swedish: {{t+|sv|kaffebuske|c}}, {{t+|sv|kaffeträd|n}}
-* [[Tagalog]]: {{t|tl|kape}}
+* [[Tagalog]]: {{t-|tl|kape|xs=Tagalog}}
 * [[Tok Pisin]]: [[kopi]]
-* Vietnamese: [[cây]] {{t|vi|cà phê}}
+* Vietnamese: [[cây]] {{t+|vi|cà phê|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|colour}}
-* [[Catalan]]: {{t|ca|cafè|m}}, {{t|ca|marró|m}}
+* [[Catalan]]: {{t-|ca|cafè|m}}, {{t+|ca|marró|m}}
 * Dutch: {{t-|nl|mokka|n}}, {{t|nl|koffiebruin|n}}
 * Estonian: {{t|et|kohvipruun}}
 * Finnish: {{t|fi|kahvinruskea}}
 * Greek: {{t+|el|καφετί|n|sc=Grek}}, {{t+|el|καφετής|m|sc=Grek}}, {{t+|el|καφετιά|f|sc=Grek}}
-* Hebrew: {{t|he|קפה|tr=qafé|m|sc=Hebr}}
+* Hebrew: {{t+|he|קפה|m|tr=qafé|sc=Hebr}}
 * Icelandic: {{t|is|kaffibrúnn|m}}
 * Italian: {{t+|it|caffè|m}}
 {{trans-mid}}
@@ -166,8 +166,8 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * Polish: {{t|pl|kawowy|m}}, [[kawowa]] {{f}}, [[kawowe]] {{n}}
 * Russian: {{t|ru|кофейный|tr=koféjnyj|sc=Cyrl}}
 * Spanish: {{t+|es|café|m}}
-* Swahili: {{t|sw|kahawa}}
-* [[Tagalog]]: {{t|tl|kape}}
+* Swahili: {{t+|sw|kahawa|xs=Swahili}}
+* [[Tagalog]]: {{t-|tl|kape|xs=Tagalog}}
 * Vietnamese: [[màu]] [[cà phê]]
 {{trans-bottom}}
 
@@ -196,7 +196,7 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * Kurdish: {{ku-Arab|[[قاوه‌یی]]}}
 * Russian: {{t+|ru|кофейный|sc=Cyrl}}
 * Spanish: {{t+|es|café}}
-* Swahili: {{t|sw|kahawa}}
+* Swahili: {{t+|sw|kahawa|xs=Swahili}}
 * Vietnamese: [[màu]] [[cà phê]]
 {{trans-bottom}}
 
