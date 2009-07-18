@@ -48,7 +48,7 @@
 * [[Galician]]: [[bosque]], [[floresta]], [[selva]]
 * Georgian: {{t-|ka|ტყე|tr=tqe|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Wald|m}}, {{t+|de|Forst}}, {{t|de|Gehölz|n}}, {{t+|de|Hain}}
-* Greek: {{t+|el|δάσος|n|tr=ðásos|sc=Grek}}, {{t|el|δρυμός|m|tr=ðrimós|sc=Grek}}
+* Greek: {{t+|el|δάσος|n|tr=ðásos|sc=Grek}}, {{t+|el|δρυμός|m|tr=ðrimós|sc=Grek}}
 * Hebrew: [[יער]] (ya'ar) {{m}}
 * Hungarian: {{t+|hu|erdő}}, {{t+|hu|erdőség}}
 * Icelandic: {{t+|is|skógur}}
@@ -73,7 +73,7 @@
 * Norwegian: {{t+|no|skog|m}}
 * [[Occitan]]: [[forèst]] {{f}}, [[selva]] {{f}}
 * [[Ojibwe]]: [[mitigwaaki]], [[mitigwaakiin]] {{p}}
-* Persian: {{t|fa|بیشه|tr=biše|sc=fa-Arab}},  {{t|fa|جنگل|tr=jangal|sc=fa-Arab}}
+* Persian: {{t-|fa|بیشه|tr=biše|sc=fa-Arab|xs=Persian}},  {{t-|fa|جنگل|tr=jangal|sc=fa-Arab|xs=Persian}}
 * Polish: {{t+|pl|las|m}}
 * Portuguese: {{t+|pt|floresta|f}}, {{t+|pt|selva}}, {{t+|pt|bosque}}
 * Romanian: [[pădure]] {{f}}, [[silvă]] (rare) {{f}}
@@ -83,9 +83,9 @@
 * Slovak: {{t-|sk|les|m}}, {{t-|sk|hora|f}}
 * Slovene: {{t+|sl|gozd|m}}, {{t+|sl|les|m}}, {{t-|sl|hosta|f}}
 * Spanish: {{t+|es|bosque|m}}, {{t-|es|floresta|f}}, {{t+|es|selva}}
-* Swahili: {{t+|sw|msitu|xs=Swahili}},  {{t|sw|porini}}
+* Swahili: {{t+|sw|msitu|xs=Swahili}},  {{t|sw|porini|xs=Swahili}}
 * Swedish: {{t+|sv|skog}}
-* [[Tajik]]: {{t|tg|беша|tr=beša|sc=Cyrl}},  {{t|tg|ҷангал|tr=jangal|sc=Cyrl}}
+* [[Tajik]]: {{t-|tg|беша|tr=beša|sc=Cyrl|xs=Tajik}},  {{t-|tg|ҷангал|tr=jangal|sc=Cyrl|xs=Tajik}}
 * [[Telugu]]: [[అడవి]] (aDavi)
 * [[Walloon]]: [[bwès]], [[bos]]
 * [[West Frisian]]: {{t-|fy|bosk|n|xs=West Frisian}}, {{t-|fy|wâld|n|xs=West Frisian}}
@@ -94,20 +94,20 @@
 
 {{trans-top|any dense collection}}
 * Croatian: {{t-|hr|šuma|f}}
-* Greek: {{t|el|δάσος|n|tr=ðásos|sc=Grek}}
-* Italian: {{t|it|foresta|f}}
+* Greek: {{t+|el|δάσος|n|tr=ðásos|sc=Grek}}
+* Italian: {{t+|it|foresta|f}}
 {{trans-mid}}
 * Slovene: {{t+|sl|gozd|m}}, {{t+|sl|slap|m}}
-* Swahili: {{t|sw|msitu}},  {{t|sw|porini}}
+* Swahili: {{t+|sw|msitu|xs=Swahili}},  {{t|sw|porini|xs=Swahili}}
 * [[Telugu]]: [[అడవి]] (aDavi)
 {{trans-bottom}}
 
 {{trans-top|graph theory: union of trees}}
 * Danish: {{t-|da|skov|c}}
-* Greek: {{t|el|δάσος|n|tr=ðásos|sc=Grek}}
+* Greek: {{t+|el|δάσος|n|tr=ðásos|sc=Grek}}
 {{trans-mid}}
-* Italian: {{t|it|foresta}}
-* Swahili: {{t|sw|msitu}},  {{t|sw|porini}}
+* Italian: {{t+|it|foresta}}
+* Swahili: {{t+|sw|msitu|xs=Swahili}},  {{t|sw|porini|xs=Swahili}}
 {{trans-bottom}}
 
 ====Related terms====
@@ -131,7 +131,7 @@
 * Czech: [[lesní]] {{m}}
 * Esperanto: {{t-|eo|arbara|xs=Esperanto}}
 * Greek: {{t+|el|δασονομικός|tr=dasonomikós|sc=Grek}}
-* [[Macedonian]]: {{t|mk|шумски|m|tr=šúmski|sc=Cyrl}}
+* [[Macedonian]]: {{t|mk|шумски|m|tr=šúmski|sc=Cyrl|xs=Macedonian}}
 * Polish: [[leśny]] {{m}}, [[leśna]] {{f}}, [[leśne]] {{n}}
 {{trans-mid}}
 * Portuguese: [[floresta]] {{f}}, [[florestas]] {{p}}
@@ -139,7 +139,7 @@
 * Russian: {{t+|ru|лесной|tr=lesnój|sc=Cyrl}}
 * Slovak: [[lesný]], [[lesná]], [[lesné]] ''m/f/n'', [[horský]], [[horská]], [[horské]] ''m/f/n''
 * Spanish: [[forestal]], [[selvático]]
-* Swahili: {{t|sw|msitu}},  {{t|sw|porini}}
+* Swahili: {{t+|sw|msitu|xs=Swahili}},  {{t|sw|porini|xs=Swahili}}
 * Swedish: {{t|sv|skogs-}}
 {{trans-bottom}}
 
@@ -155,10 +155,10 @@
 * Esperanto: [[arbari]]
 {{trans-mid}}
 * Latvian: [[apmežot]]
-* [[Macedonian]]: {{t|mk|пошумува|tr=pošúmuva|sc=Cyrl}}
+* [[Macedonian]]: {{t|mk|пошумува|tr=pošúmuva|sc=Cyrl|xs=Macedonian}}
 * Romanian: [[înpăduri]]
 * Slovene: [[pogozdovati]]
-* Swahili: {{t|sw|msitu}},  {{t|sw|porini}}
+* Swahili: {{t+|sw|msitu|xs=Swahili}},  {{t|sw|porini|xs=Swahili}}
 {{trans-bottom}}
 
 ===See also===
