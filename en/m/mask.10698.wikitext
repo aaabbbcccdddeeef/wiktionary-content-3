@@ -31,8 +31,8 @@
 ====Translations====
 {{trans-top|A cover, or partial cover, for the face, used for disguise or protection}}
 * Armenian: {{t-|hy|դիմակ|sc=Hayeren|xs=Armenian}} (dimak)
-* Belarusian: {{t|be|маска|sc=Cyrl}}
-* Bulgarian: {{t|bg|маска|f|sc=Cyrl}}
+* Belarusian: {{t-|be|маска|sc=Cyrl|xs=Belarusian}}
+* Bulgarian: {{t+|bg|маска|f|sc=Cyrl}}
 * Czech: {{t-|cs|maska|f}}
 * French: {{t+|fr|masque|m}}
 * German: {{t+|de|Maske|f}}
@@ -41,13 +41,13 @@
 * Indonesian: {{t+|id|topeng|xs=Indonesian}}, {{t-|id|masker|xs=Indonesian}}
 {{trans-mid}}
 * Italian: {{t+|it|maschera|f}}, {{t-|it|mascherina|f}}
-* Japanese: {{t+|ja|仮面|sc=Jpan}}, {{t+|ja|マスク|sc=Jpan}}
-* [[Macedonian]]: {{t|mk|маска|sc=Cyrl}}
+* Japanese: {{t-|ja|仮面|sc=Jpan}}, {{t+|ja|マスク|sc=Jpan}}
+* [[Macedonian]]: {{t-|mk|маска|sc=Cyrl|xs=Macedonian}}
 * Polish: {{t+|pl|maska|f}}
 * Portuguese: {{t+|pt|máscara|f}}
-* Russian: {{t|ru|маска|f|sc=Cyrl}}
-* Serbian: {{t|sr|кринка|f|sc=Cyrl}}, {{t|sr|маска|f|sc=Cyrl}}, {{t|sr|крабуља|f|sc=Cyrl}},
-* Ukrainian: {{t|uk|маска|f|sc=Cyrl}}
+* Russian: {{t+|ru|маска|f|sc=Cyrl}}
+* Serbian: {{t|sr|кринка|f|sc=Cyrl}}, {{t-|sr|маска|f|sc=Cyrl}}, {{t|sr|крабуља|f|sc=Cyrl}},
+* Ukrainian: {{t+|uk|маска|f|sc=Cyrl|xs=Ukrainian}}
 {{trans-bottom}}
 
 {{trans-top|That which disguises}}
@@ -134,7 +134,7 @@
 {{trans-bottom}}
 
 {{trans-top|To wear a mask; to be disguised in any way}}
-* Esperanto: {{t|eo|maski}}
+* Esperanto: {{t-|eo|maski|xs=Esperanto}}
 {{trans-mid}}
 * German: sich [[maskieren]]
 {{trans-bottom}}
