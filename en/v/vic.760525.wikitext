@@ -2,16 +2,29 @@
 ==={{abbreviation}}===
 '''VIC'''
 #[[Victoria]], a state of [[Australia]].
+
 ----
-==Croatian==
+
+==Serbo-Croatian==
+
+===Etymology===
+From {{etyl|de|sh}} {{term|Witz|lang=de}}.
 
 ===Noun===
-{{hr-noun|g=m|vicevi}}
+{{sh-noun|g=m|head=vȉc|r|виц|ви̏ц}}
 
-# a [[joke]], usually in narrative form with unexpected ending.
+# a [[joke]], funny story, [[gag]] (usually spoken in narrative form with an unexpected ending)
 
 ====Declension====
-{{hr-decl-noun-a-in-p-mono}}
+{{sh-decl-noun
+|vȉc|vicevi
+|vìca|viceva
+|vicu|vicevima
+|vic|viceve
+|vicu|vicevi
+|vicu|vicevima
+|vicem|vicevima
+}}
 
 [[pl:vic]]
 [[vi:vic]]
