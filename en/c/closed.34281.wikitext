@@ -9,15 +9,16 @@
 
 # inaccessible; not [[open]]
 # non public (as in [[closed source]])
-# {{mathematics}}
-## (''Topology'') a [[set]] is closed if its [[complement]] is [[open]]
-## (''Algebra'') a [[set]] is closed under an [[operation]] if the outcome for every argument is also in the set itself. (e.g. <math> \forall x,y \in Z:\, x + y \in Z</math>)
+# {{topology|of a [[set]]}} Having an [[open]] [[complement]].
+# {{mathematics|of a [[set]]}} Such that its [[image]] under the specified [[operation]] is [[contain]]ed in it.
+#: ''The set of integers is '''closed''' under addition: <math>\forall x,y\in\mathbb{Z}\,x+y\in\mathbb{Z}</math>.''
+# {{mathematics|logic|of a [[formula]]}} [[lack|Lacking]] a [[free]] [[variable]].
 
 ====See also====
 * [[close]]
 
 ====Translations====
-{{trans-top|not open (1)}}
+{{trans-top|not open}}
 * Albanian: [[mbyllur]]
 * Arabic: {{t-|ar|مقفول|tr=maqfūl|sc=Arab}}
 * Armenian: {{t-|hy|փակ|tr=p’ak|sc=Armn|xs=Armenian}}
@@ -42,7 +43,7 @@
 * Swedish: [[stängd]], [[sluten]]
 {{trans-bottom}}
 
-{{trans-top|non public (2)}}
+{{trans-top|non public}}
 * Armenian: {{t-|hy|փակ|tr=p’ak|sc=Armn|xs=Armenian}}
 * Bulgarian: {{t+|bg|ограничен|sc=Cyrl}}
 * Dutch: {{t+|nl|gesloten}}
@@ -55,7 +56,7 @@
 * Swedish: {{t+|sv|sluten}}
 {{trans-bottom}}
 
-{{trans-top|in mathematics (3)}}
+{{checktrans-top|in mathematics}}
 * Czech: {{t-|cs|uzavřený|m}}
 * Dutch: [[gesloten]] (''topology''), [[inwendig]] (''algebra'')
 * Estonian: {{t|et|kinnine}}
