@@ -1,16 +1,3 @@
-==Croatian==
-
-===Noun===
-{{hr-noun|m}}
-
-# [[burden]]
-# [[cargo]]
-# [[weight]]
-
-[[Category:Croatian palindromes]]
-
-----
-
 ==Hungarian==
 
 ===Pronunciation===
@@ -23,3 +10,28 @@
 # {{accusative of|[[tér]]|lang=hu}}
 
 [[Category:Hungarian palindromes]]
+
+----
+
+==Serbo-Croatian==
+
+===Etymology===
+From {{etyl|hu|sh}} {{term|terhet|lang=hu}}.
+
+===Noun===
+{{sh-noun|g=m|head=tèret|r|терет|тѐрет}}
+
+# [[burden]]
+# [[cargo]]
+# [[weight]]
+
+====Declension====
+{{sh-decl-noun
+|teret|tereti
+|tereta|tereta
+|teretu|teretima
+|teret|terete
+|terete|tereti
+|teretu|teretima
+|teretom|teretima
+}}
