@@ -198,27 +198,6 @@ From {{proto|Slavic|listъ|lang=bs|leaf}}.
 
 ----
 
-==Croatian==
-
-===Etymology===
-From {{proto|Slavic|listъ|lang=hr|leaf}}.
-
-===Noun===
-{{hr-noun|m}}
-
-# [[leaf]]
-# {{computing|lang=hr}} leaf
-# [[sole]] (''fish'')
-# [[letter]] (''written message'')
-# [[sheet]] of paper
-# [[calf]] (''leg part'')
-# Special purpose certificate, e.g. of birth, ownership etc.
-
-====Declension====
-{{hr-decl-dar}}
-
-----
-
 ==Czech==
 
 ===Etymology===
@@ -368,30 +347,31 @@ From {{proto|Slavic|listъ|lang=pl|leaf}}.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{proto|Slavic|listъ|lang=sr|leaf}}.
+From {{proto|Slavic|listъ|lang=sh|leaf}}.
 
 ===Noun===
-{{sr-noun|g=m|pl=listovi|cyr=лист}}
+{{sh-noun|g=m|head=lȋst|r|лист|ли̑ст}}
 
 # [[leaf]]
-# [[sheet]] of paper
-# {{context|fish|lang=sr}} [[sole]]
+# {{computing|lang=sh}} leaf
+# [[sole]] (''fish'')
 # [[letter]] (''written message'')
-# {{anatomy|lang=sr}} [[calf]] (''leg part'')
-# [[certificate]], [[deed]]
+# [[sheet]] of paper
+# [[calf]] (''leg part'')
+# a pecial purpose certificate, e.g. of birth, ownership etc.
 
 ====Declension====
-{{sr-decl-noun
-|list|listovi
-|lista|listova
+{{sh-decl-noun
+|lȋst|lȉstovi
+|lista|lȉstōvā
 |listu|listovima
 |list|listove
-|liste|listovi
-|listom|listovima
+|listu|listovi
 |listu|listovima
+|listom|listovima
 }}
 
 ----
