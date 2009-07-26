@@ -90,33 +90,19 @@
 
 ----
 
-==Bosnian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{proto|Slavic|syrъ|lang=bs}}.
+From {{proto|Slavic|syrъ|lang=sh}}.
 
 ===Noun===
-{{infl|bs|noun|g=m}}
-
-# [[cheese]]
-
-[[Category:bs:Foods]]
-
-----
-
-==Croatian==
-
-===Etymology===
-From {{proto|Slavic|syrъ|lang=hr}}.
-
-===Noun===
-{{infl|hr|noun|g=m|head=sȉr}}
+{{sh-noun|g=m|head=sȉr|r|сир|си̏р}}
 
 # [[cheese]]
 
 ====Declension====
-{{hr-decl-noun
-|sir|sirevi
+{{sh-decl-noun
+|sȉr|sìrevi
 |sira|sireva
 |siru|sirevima
 |sir|sireve
@@ -125,20 +111,8 @@ From {{proto|Slavic|syrъ|lang=hr}}.
 |sirom|sirevima
 }}
 
-----
-
-==Serbian==
-
-===Etymology===
-From {{proto|Slavic|syrъ|lang=sr}}.
-
-===Noun===
-{{infl|sr|noun|g=m}}
-
-# [[cheese]]
-
-====Cyrillic spelling====
-* [[сир#Serbian|сир]]
+====Declension====
+* {{l|sh|sirni|sȋrnī}}
 
 [[Category:sr:Foods]]
 
