@@ -5,6 +5,23 @@
 
 # One who [[get]]s. 
 # {{computing|programming}} A [[function]] used to [[retrieve]] the value of some [[property]] of an [[object]], contrasted with the [[setter]].
+#*{{quote-book
+|year=2002
+|author=James Steven Perry
+|title=Java Management Extensions
+|chapter=2
+|isbn=0596002459
+|page=47
+|passage=A proper '''getter''' must return the type of its attribute.}}
+# {{science}} A material which is included in a [[vacuum]] system or device for [[removing]] [[gas]] by [[sorption]].
+#*{{quote-book
+|year=1979
+|author=G. L. Weissler and Robert Warner Carlson
+|title=Vacuum Physics and Technology
+|chapter=5
+|isbn=0124759149
+|pages=194-195
+|passage=Titanium has become the preferred '''getter''' for general vacuum-pumping applications because of its relatively high vapor pressure characteristic and its broad spectrum chemical reactivity.}}
 
 ====Derived terms====
 *[[go-getter]]
@@ -15,6 +32,20 @@
 
 ====See also====
 *[[setter]]
+
+===Verb===
+{{en-verb}}
+
+# {{sciences}} To [[remove]] [[gas]] by [[sorption]].
+#*{{quote-book
+|year=2003
+|author=John F. O'Hanlon
+|title=A Users Guide to Vacuum Technology
+|chapter=14
+|isbn=0471270520
+|page=247
+|passage=Many reactive metals rapidly pump large quantities of active gases because they '''getter''' (react with) the gases.}}
+
 
 [[sv:getter]]
 [[ta:getter]]
