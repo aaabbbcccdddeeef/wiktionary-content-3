@@ -1,7 +1,7 @@
 {{was wotd|2008|June|8}}
-{{letter_disp2|theta|&nbsp;&nbsp; [[image:Greek_uc_iota.png|20px]][[image:Greek_lc_iota.png|18px]] &nbsp;&nbsp; |kappa|γιώτα|Ι|ι}}
 {{also|Iota}}
 ==English==
+{{letter_disp2|theta|[[Image:Greek_uc_iota.png|20px]][[Image:Greek_lc_iota.png|18px]]|kappa|γιώτα|Ι|ι|grc=ἰῶτα}}
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/aɪˈəʊtə/}}, {{SAMPA|/aI"@U.t@/}}
@@ -11,8 +11,6 @@
 
 ===Etymology 1===
 From {{etyl|grc|en}} {{term|ἰῶτα|tr=iōta|lang=grc|sc=polytonic}}.
-
-In sense (3), it is derived from the difference between {{term|ὁμοούσιος|tr=homoousios|sc=Grek||same substance}} and {{term|ὁμοιούσιος|tr=homoiousios|sc=Grek||similar substance}} in [[Christology]], the names of those two competing viewpoints differing only by one [[ι]].
 
 ====Noun====
 {{en-noun|s|-}}
@@ -25,20 +23,26 @@ In sense (3), it is derived from the difference between {{term|ὁμοούσιο
 =====Translations=====
 {{trans-top|Greek letter}}
 * [[Catalan]]: {{t-|ca|iota|f}}
-* Czech: [[jota]] {{f}}, [[#Czech|iota]] {{f}}, [[ióta]] {{f}}
+* Czech: [[jota]] {{f}}, {{t|cs|iota|f}}, [[ióta]] {{f}}
 * Dutch: {{t|nl|jota|c}}
 * Finnish: {{t-|fi|iota}}
 * German: {{t-|de|Jota|n}}
 * Greek: [[γιώτα]] {{n}}, [[ίωτα]] {{n}}
 {{trans-mid}}
-* [[Interlingua]]: iota
+* [[Interlingua]]: {{t|ia|iota}}
 * Polish: {{t+|pl|jota|f}}
 * Portuguese: {{t-|pt|iota|m}}
 * Russian: {{t+|ru|йота|f|tr=jóta|sc=Cyrl}}
 {{trans-bottom}}
 
+{{trans-top|instance of the letter}}
+* Dutch: {{t|nl|jota|c}}
+{{trans-mid}}
+{{trans-bottom}}
+
 ===Etymology 2===
-From the difference between {{term|ὁμοούσιος|tr=homoousios|sc=Grek||same substance}} and {{term|ὁμοιούσιος|tr=homoiousios|sc=Grek||similar substance}} in [[Christology]], the names of those two competing viewpoints differing only by one [[ι]].
+From the difference between {{term|ὁμοούσιος|tr=homoousios|sc=Grek||same substance|lang=grc}} and {{term|ὁμοιούσιος|tr=homoiousios|sc=Grek||similar substance|lang=grc}} in [[Christology]], the names of those two competing viewpoints differing only by one [[ι]].
+{{rfe| in which language was this distinction made?  Latin?  Hebrew?  Greek?}}
 
 ====Noun====
 {{en-noun|s|-}}
@@ -53,7 +57,7 @@ From the difference between {{term|ὁμοούσιος|tr=homoousios|sc=Grek||sa
 * [[Catalan]]: {{t-|ca|iota|f}}
 * Dutch: {{t|nl|jota|c}}
 * Finnish: {{t-|fi|hitunen}}, {{t-|fi|hiven}}
-* [[Interlingua]]: iota
+* [[Interlingua]]: {{t|ia|iota}}
 {{trans-mid}}
 * Polish: {{t+|pl|jota|f}}
 * Portuguese: {{t+|pt|pingo|m}}
