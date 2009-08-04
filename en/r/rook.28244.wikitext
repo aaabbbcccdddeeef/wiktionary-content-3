@@ -178,27 +178,36 @@ From ''[[rookie]]''.
 
 ==Dutch==
 
-===Pronunciation===
+===Etymology 1===
+{{rfe}}
+
+====Pronunciation====
 * {{audio|Nl-rook.ogg|audio}}
 
-===Noun===
-'''rook''' {{m}} (''plural'': '''[[roken]]''', '''[[rookpluim]]en''')
+====Noun====
+{{nl-noun|g=m|pl=-|dim=-}}
 
 # [[smoke]]
 
-====Derived terms====
+=====Derived terms=====
 * [[rookontwikkeling]]
 * [[rookwolk]]
 
-===Verb===
+===Etymology 2===
+inflection of [[roken]]
+
+====Verb====
 '''rook'''
 
-# ''first-person singular present tense of '''[[roken]]'''''<!--to [[smoke]] (''of a fire or a person'')-->
-# ''singular past tense of '''[[ruiken]]'''''<!--smelled-->
+# {{conjugation of|roken||1|s|present|lang=nl}}
 
-[[Category:Birds]]
-[[Category:Chess]]
-[[Category:Dutch nouns]]
+===Etymology 3===
+inflection of [[ruiken]]
+
+====Verb====
+
+# {{conjugation of|ruiken||s|past|lang=nl}}
+
 [[Category:Dutch verb forms]]
 
 [[es:rook]]
