@@ -64,29 +64,6 @@ From {{etyl|tr}} {{term|harem|lang=tr}}, from {{etyl|ar}} {{term|حرم|lang=ar|
 {{bottom}}
 
 ----
-
-==Bosnian==
-
-===Etymology===
-From {{etyl|tr|bs}} {{term|harem|lang=tr}} < {{etyl|ar|bs}} {{term|حرم|lang=ar|sc=Arab|tr=ḥaram}}.
-
-===Noun===
-{{bs-noun|g=m|haremi}}
-
-# [[#English|harem]]
-
-----
-
-==Croatian==
-
-===Etymology===
-From {{etyl|tr|hr}} {{term|harem|lang=tr}} < {{etyl|ar|hr}} {{term|حرم|lang=ar|sc=Arab|tr=ḥaram}}.
-
-===Noun===
-{{hr-noun|m}}
-
-# [[#English|harem]]
-
 ----
 
 ==Italian==
@@ -103,15 +80,26 @@ From {{etyl|tr|hr}} {{term|harem|lang=tr}} < {{etyl|ar|hr}} {{term|حرم|lang=a
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|tr|sr}} {{term|harem|lang=tr}} < {{etyl|ar|sr}} {{term|حرم|lang=ar|sc=Arab|tr=ḥaram}}.
+From {{etyl|tr|sh}} {{term|harem|lang=tr}} < {{etyl|ar|sh}} {{term|حرم|lang=ar|sc=Arab|tr=ḥaram}}.
 
 ===Noun===
-{{sr-noun|g=m|pl=haremi|cyr=харем}}
+{{sh-noun|g=m|head=hárem|r|харем|ха́рем}}
 
 # [[#English|harem]]
+
+====Declension====
+{{sh-decl-noun
+|harem|haremi
+|harema|harema
+|haremu|haremima
+|harem|hareme
+|hareme|haremi
+|haremu|haremima
+|haremom|haremima
+}}
 
 ----
 
