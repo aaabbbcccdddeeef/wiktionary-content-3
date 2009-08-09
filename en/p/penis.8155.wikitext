@@ -146,27 +146,6 @@ The [[hyperforeign]] [[Latin]]ate '''[[penii]]''' is occasionally used as the pl
 
 ----
 
-==Bosnian==
-
-===Etymology===
-From {{etyl|la|bs}} {{term|penis|lang=la}}.
-
-===Noun===
-{{infl|bs|noun|g=m}}
-
-# {{anatomy|lang=bs}} [[#English|penis]]
-
-----
-
-==Croatian==
-
-===Noun===
-{{hr-noun|m}}
-
-# {{anatomy|lang=hr}} [[#English|penis]]
-
-----
-
 ==Czech==
 
 ===Noun===
@@ -313,15 +292,26 @@ From {{etyl|la|ro}} {{term|penis|lang=la}}.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|la|sr}} {{term|penis|lang=la}}.
+From {{etyl|la|sh}} {{term|penis|lang=la}}.
 
 ===Noun===
-{{infl|sr|noun|g=m|Cyrillic spelling|пенис}}
+{{sh-noun|g=m|head=pénis|r|пенис|пе́нис}}
 
-# {{anatomy|lang=sr}} [[#English|penis]]
+# {{anatomy|lang=sh}} [[#English|penis]]
+
+====Declension====
+{{sh-decl-noun
+|penis|penisi
+|penisa|penisa
+|penisu|penisima
+|penis|penise
+|penisu|penisi
+|penisu|penisima
+|penisom|penisima
+}}
 
 ----
 
