@@ -21,20 +21,21 @@ From '''[[villa]]''', i.e., a place of villas
 * [[Ainu]]: [[コタン]] (kotan)
 * Albanian: [[fshat]] {{m}}, [[katund]] {{m}}
 * [[Aleut]]: {{tø|ale|a-nit|xs=Aleut}}
-* Arabic: {{Arab|[[قرية]]}} (qárya) {{f}},  {{t|ar|قرية|f|tr=qárya|sc=Arab}}
+* Arabic: {{t|ar|قرية|f|tr=qárya|sc=Arab}}
 * Armenian: [[գյուղ]] (gyuġ),  {{t-|hy|շեն|tr=šen|sc=Armn|xs=Armenian}}
 * [[Azeri]]: {{t+|az|kənd|xs=Azeri}}
 * {{trreq|Basque}}
-* Belarusian: {{t|be|вёска|f|tr=vjóska|sc=Cyrl}},  {{t|be|весь|f|tr=ves'|sc=Cyrl}}
+* Belarusian: {{t|be|весь|f|tr=ves'|sc=Cyrl}}, {{t|be|вёска|f|tr=vjóska|sc=Cyrl}}
 * {{trreq|Bengali}}
 * Bosnian: {{t-|bs|selo|n}}
 * {{trreq|Breton}}
 * Bulgarian: {{t+|bg|село|n|sc=Cyrl}}
 * Burmese: [[ရ့ာ]]
-* CJKV Characters: [[堡]]; [[村]]
 * [[Catalan]]: [[poble]] {{m}}
 * [[Chamicuro]]: {{tø|ccc|chi'nashtalichi}}
-* Chinese: [[村]] (cūn)
+* Chinese:
+*: CJKV Characters: [[堡]]; [[村]]
+*: Mandarin: {{t|zh|村|tr=cūn|sc=Hani}},  {{t|zh|鄉村|sc=Hani}},  {{t|zh|乡村|tr=xiāngcūn|sc=Hani}},  {{t|zh|農村|sc=Hani}},  {{t|zh|农村|tr=nóngcūn|sc=Hani}},  {{t|zh|村子|tr=cūnzi|sc=Hani}}
 * Croatian: {{t+|hr|selo|n}}
 * Czech: [[vesnice]] {{f}}, [[ves]] {{f}}, [[dědina]] {{f}}
 * Danish: {{t-|da|landsby|c}}, {{t-|da|by|c}}
@@ -63,7 +64,6 @@ From '''[[villa]]''', i.e., a place of villas
 * [[Macedonian]]: {{t-|mk|село|n|tr=sélo|sc=Cyrl|xs=Macedonian}}
 * Malay: {{t+|ms|kampung|xs=Malay}}
 * Maltese: {{t+|mt|villaġġ|xs=Maltese}}
-* Mandarin: {{t|zh|村|tr=cūn|sc=Hani}},  {{t|zh|鄉村|sc=Hani}},  {{t|zh|乡村|tr=xiāngcūn|sc=Hani}},  {{t|zh|農村|sc=Hani}},  {{t|zh|农村|tr=nóngcūn|sc=Hani}},  {{t|zh|村子|tr=cūnzi|sc=Hani}}
 * Maori: [[kāinga]]
 * [[Northern Sami]]: [[gilli]], [[girkogilli]], [[márkan]]
 * Norwegian: {{t+|no|landsby}}
@@ -73,7 +73,7 @@ From '''[[villa]]''', i.e., a place of villas
 * Polish: {{t+|pl|wieś|f}}
 * Portuguese: {{t+|pt|aldeia|f}}
 * Romanian: {{t+|ro|sat|n}}
-* Russian: {{t+|ru|село|n|tr=seló|sc=Cyrl}}, {{t+|ru|деревня|f|tr=derévnja|sc=Cyrl}}
+* Russian: {{t+|ru|деревня|f|tr=derévnja|sc=Cyrl}}, {{t+|ru|село|n|tr=seló|sc=Cyrl}}
 * {{trreq|Sanskrit}}
 * [[Santali]]: {{tø|sat|ᱚᱛᱳ|tr=ato|sc=Olck}}
 * [[Scots]]: [[veelage]]
