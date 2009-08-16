@@ -16,20 +16,21 @@
 ====Translations====
 {{trans-top|link from one electronic document to another}}
 * Finnish: {{t+|fi|hyperlinkki}}
-* Korean: {{t|ko|하이퍼링크|tr=haipeoringkeu|sc=Kore}}
+* French: {{t|fr|hyperlien|m}}
 {{trans-mid}}
+* Korean: {{t|ko|하이퍼링크|tr=haipeoringkeu|sc=Kore}}
 * [[Macedonian]]: {{t|mk|хиперврска|f|tr=hiperv'rska|sc=Cyrl|xs=Macedonian}}
 {{trans-bottom}}
 
 {{trans-top|area on a web page}}
 * Finnish: {{t+|fi|hyperlinkki}}
-* Korean: {{t|ko|하이퍼링크|tr=haipeoringkeu|sc=Kore}}
+* French: {{t+|fr|lien|m}}, lien {{t|fr|hypertexte}},  {{t|fr|hyperlien|m}}
 {{trans-mid}}
+* Korean: {{t|ko|하이퍼링크|tr=haipeoringkeu|sc=Kore}}
 * [[Macedonian]]: {{t|mk|хиперврска|f|tr=hiperv'rska|sc=Cyrl|xs=Macedonian}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|French}}: {{t|fr|hyperlien|g=m}}
 * {{ttbc|German}}: {{t+|de|Hypertext-Link|m}}, {{t-|de|Hyperlink|m}}
 {{trans-mid}}
 * {{ttbc|Spanish}}: {{t-|es|hipervínculo|m}}
@@ -49,10 +50,20 @@
 #*:  Indeed, what consumers will see on a Web site is likely to vary depending on the point or Web page at which they access the Web site, how many pages they “'''hyperlink'''” through when reviewing the site, and how much of the page containing the disclosure is displayed by consumers' Web browsers without requiring additional scrolling.
 
 ====Translations====
+{{trans-top|to point to another document by a hyperlink}}
+* French: [[lier#French|être lié]] à, {{t|fr|pointer}} sur, {{t|fr|contenir}} un {{t+|fr|lien|m}} vers
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|to add a hyperlink to a document}}
+* French: {{t|fr|ajouter}} un {{t+|fr|lien|m}} vers
 * Japanese: [[ハイパーリンク]] (haipārinku)
 {{trans-mid}}
 * Spanish: [[hipervincular]]
+{{trans-bottom}}
+
+{{trans-top|to use a hyperlink to jump to a document}}
+{{trans-mid}}
 {{trans-bottom}}
 
 [[fr:hyperlink]]
