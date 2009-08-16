@@ -23,8 +23,21 @@
 
 
 ====Translations====
-{{trans-top|airport building}}
+{{trans-top|1. airport building}}
 * Hebrew: {{t|he|בית נתיבות|tr=beit niteevot|sc=Hebr}}
+{{trans-mid}}
+* {{trreq|Norwegian}}
+* Polish: {{t-|pl|terminal|m}}
+{{trans-bottom}}
+
+{{trans-top|6. device for entering data into a computer}}
+{{trans-mid}}
+* Polish: {{t-|pl|terminal|m}}
+{{trans-bottom}}
+
+{{trans-top|7. a computer program that emulates a terminal}}
+{{trans-mid}}
+* Polish: {{t-|pl|terminal|m}}
 {{trans-bottom}}
 
 ====Related terms====
@@ -40,6 +53,16 @@
 # [[fatal|Fatal]], resulting in [[death]].
 # Appearing at the [[end]], [[top]] or [[apex]] of a physical object.
 # Occurring at the end of a [[word]], [[sentence]], or period of [[time]].
+
+{{trans-top|fatal, resulting in death}}
+{{trans-mid}}
+* Polish: [[śmiertelny]] {{m}}
+{{trans-bottom}}
+
+{{trans-top|appearing at the end}}
+{{trans-mid}}
+* Polish: [[końcowy]], [[graniczny]] {{m}}
+{{trans-bottom}}
 
 ===External links===
 * {{R:Webster 1913}}
@@ -61,7 +84,24 @@
 {{fr-noun|m|pl=terminaux}}
 
 # [[#English|terminal]]
+----
+==Polish==
 
+===Noun===
+{{infl|pl|noun|g=m}}
+
+# [[#English|terminal]]
+
+====Declension====
+{{pl-decl-noun
+|terminal|terminale
+|terminalu <br>(terminala)|terminali<br>/terminalów
+|terminalowi|terminalom
+|terminal|terminale
+|terminalem|terminalami
+|terminalu|terminalach
+|terminalu|terminale
+}}
 ----
 
 ==Spanish==
