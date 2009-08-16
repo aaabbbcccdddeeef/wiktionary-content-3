@@ -44,11 +44,13 @@ From {{etyl|la}} {{term|status||manner of standing, attitude, position, carriage
 
 ====Translations====
 {{trans-top|any sovereign polity}}
-* Arabic: {{t+|ar|دولة|f|alt=دَولة|tr=dawla(t)|sc=Arab}}
+* Arabic: {{t+|ar|دولة|f|tr=dáwla|sc=Arab}}
 * Armenian: [[պետություն]] (petut'yun), {{t-|hy|երկիր|tr=erkir|sc=Armn|xs=Armenian}}
 * [[Bengali]]: {{t|bn|রাষ্ট্র |sc=Beng}}
 * [[Breton]]: {{t+|br|stad|m|xs=Breton}}
 * [[Catalan]]: [[estat]] [[:ca:estat|^]] {{m}}
+* Chinese:
+*: Mandarin: {{t|zh|國家|sc=Hani}},  {{t|zh|国家|tr=guójiā|sc=Hani}}
 * Czech: {{t+|cs|stát|m}}
 * Danish: {{t-|da|stat}}
 * Dutch: {{t+|nl|staat|f}}
@@ -62,11 +64,11 @@ From {{etyl|la}} {{term|status||manner of standing, attitude, position, carriage
 * Hungarian: {{t+|hu|állam}}
 * [[Ido]]: [[stato]]
 * Italian: {{t+|it|stato|m}}
-* Japanese: [[国]] (くに, kuni), [[国家]] (こっか, kokka)
+* Japanese: {{t|ja|国|tr=くに, kuni|sc=Jpan}}, {{t|ja|国家|tr=こっか, kokka|sc=Jpan}}
+* Korean: {{t|ko|국가|tr=gukga|sc=Kore}} ([[國家]])
 * Lithuanian: {{t+|lt|valstybė|f|xs=Lithuanian}}
-* Mandarin: {{t|zh|國家|sc=Hani}},  {{t|zh|国家|tr=guójiā|sc=Hani}}
 * Polish: {{t+|pl|stan|m}}
-* Russian: [[государство]] (gosudárstvo) {{n}}, [[держава]] (d'eržáva) {{f}}
+* Russian: {{t|ru|государство|n|tr=gosudárstvo|sc=Cyrl}}, {{t|ru|держава|f|tr=deržáva|sc=Cyrl}}, {{t|ru|нация|f|tr=nácija|sc=Cyrl}}
 * Serbian: [[drzava]]
 * Spanish: {{t+|es|estado|m}}
 * Swahili: {{t|sw|nchi|xs=Swahili}}
@@ -86,15 +88,15 @@ From {{etyl|la}} {{term|status||manner of standing, attitude, position, carriage
 * Esperanto: {{t-|eo|ŝtato|xs=Esperanto}}
 * Finnish: {{t+|fi|osavaltio}}
 * French: {{t+|fr|état|m}}
-* German: [[Staat]] [[:de:Staat|^]] {{m}}, [[Land]] {{n}}
+* German: {{t|de|Staat|m}}, {{t|de|Land|n}}
 * Hebrew: {{t|he|מדינה|tr=m'diná|sc=Hebr}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|állam}}
 * [[Ido]]: [[stato]]
 * Italian: {{t+|it|stato|m}}
-* Japanese: {{qualifier|Japan, only Tokyo}} {{t+|ja|都|tr=to|sc=Jpan}}; {{qualifier|Japan, only Hokkaido|Korea}} {{t+|ja|道|tr=dō|sc=Jpan}}; {{qualifier|Japan, only Kyoto and Osaka}} {{t+|ja|府|tr=fu|sc=Jpan}}; {{qualifier|Japan|France}} {{t+|ja|県|tr=ken|sc=Jpan}}; {{qualifier|China}} {{t+|ja|省|tr=shō|sc=Jpan}}; {{qualifier|Canada|Germany|US}} {{t+|ja|州|tr=shū|sc=Jpan}}
+* Japanese: {{qualifier|Japan, only Tokyo}} {{t+|ja|都|tr=to|sc=Jpan}}; {{qualifier|Japan, only Hokkaido|Korea}} {{t+|ja|道|tr=dō|sc=Jpan}}; {{qualifier|Japan, only Kyoto and Osaka}} {{t+|ja|府|tr=fu|sc=Jpan}}; {{qualifier|Japan|France}} {{t+|ja|県|tr=ken|sc=Jpan}}; {{qualifier|China}} {{t+|ja|省|tr=shō|sc=Jpan}}; {{qualifier|Canada|Germany|US|India|Australia}} {{t+|ja|州|tr=shū|sc=Jpan}}
 * Lithuanian: [[valstija]] {{f}}
-* Russian: {{t+|ru|штат|m|tr=štat|sc=Cyrl}}
+* Russian: {{qualifier|US|India|Australia}} {{t+|ru|штат|m|tr=štat|sc=Cyrl}}, {{qualifier|Russia|Ukraine|Belarus|Kazakhstan}} {{t+|ru|область|f|tr=óblast'|sc=Cyrl}}, {{qualifier|Germany}} {{t+|ru|земля|f|tr=zemljá|sc=Cyrl}}, {{qualifier|Canada|China|others}} {{t+|ru|провинция|f|tr=províncija|sc=Cyrl}}, {{qualifier|Japan}} {{t+|ru|префектура|f|tr=prefektúra|sc=Cyrl}}
 * Serbian: {{t-|sr|krajina|f}}
 * Spanish: {{t+|es|estado|m}}
 * Swahili: {{t|sw|nchi|xs=Swahili}}
@@ -106,6 +108,8 @@ From {{etyl|la}} {{term|status||manner of standing, attitude, position, carriage
 * Arabic: {{t|ar|حالة|f|tr=Haala|sc=Arab}}
 * Armenian: [[վիճակ]] (vič̣ak)
 * [[Catalan]]: [[estat]] [[:ca:estat|^]] {{m}}
+* Chinese:
+*: Mandarin: {{t|zh|狀態|sc=Hani}},  {{t|zh|状态|tr=zhuàngtài|sc=Hani}},  {{t|zh|狀況|sc=Hani}},  {{t|zh|状况|tr=zhuàngkuàng|sc=Hani}}
 * Czech: {{t+|cs|stav|m}}
 * Danish: {{t-|da|tilstand}}
 * Dutch: {{t+|nl|staat|f}}
@@ -119,9 +123,8 @@ From {{etyl|la}} {{term|status||manner of standing, attitude, position, carriage
 * Hungarian: {{t+|hu|állapot}}
 * [[Ido]]: [[stando]]
 * Italian: {{t+|it|stato|m}}
-* Japanese: [[状態]] (じょうたい, jōtai),  {{t|ja|状態|tr=じょうたい, jōtai|sc=Jpan}}
+* Japanese: {{t+|ja|状態|tr=じょうたい, jōtai|sc=Jpan}}
 * Lithuanian: {{t+|lt|būsena|f|xs=Lithuanian}}, {{t+|lt|būklė|f|xs=Lithuanian}}
-* Mandarin: {{t|zh|狀態|sc=Hani}},  {{t|zh|状态|tr=zhuàngtài|sc=Hani}},  {{t|zh|狀況|sc=Hani}},  {{t|zh|状况|tr=zhuàngkuàng|sc=Hani}}
 * Norwegian: {{t+|no|tilstand}}
 * Russian: {{t+|ru|состояние|n|tr=sostojánije|sc=Cyrl}}, {{t+|ru|положение|n|tr=položénije|sc=Cyrl}}, {{t+|ru|статус|m|tr=státus|sc=Cyrl}}
 * Serbian: [[stanje]], [[sastaj]], [[položaj]]
@@ -167,7 +170,6 @@ From {{etyl|la}} {{term|status||manner of standing, attitude, position, carriage
 {{checktrans-top}}
 * {{ttbc|Interlingua}}: [[stato]]
 {{checktrans-mid}}
-* {{ttbc|Korean}}: [[국가]] (gukga)
 * {{ttbc|Portuguese}}: [[estado]] {{m}}
 * {{ttbc|Swedish}}: [[nation]] {{c}}, [[land]] {{n}}
 {{checktrans-bottom}}
