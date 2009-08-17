@@ -16,7 +16,7 @@ From {{etyl|fro}} {{term|leveor}}, {{term|leveur||a lifter, lever (also {{etyl|f
 ====Noun====
 {{en-noun}}
 
-# {{mechanics}} A rigid piece which is capable of turning about one point, or [[axis]] (the ''fulcrum''), and in which are two or more other points where forces are applied; &mdash; used for transmitting and modifying force and motion.
+# {{mechanics}} A [[rigid]] piece which is capable of [[turn]]ing about one point, or [[axis]] (the ''fulcrum''), and in which are two or more other points where forces are applied; &mdash; used for transmitting and modifying force and motion.
 ## Specifically, a  [[bar]] of metal, wood or other rigid substance, used to exert a pressure, or sustain a weight, at one point of its length, by receiving a force or power at a second, and turning at a third on a fixed point called a fulcrum. It is usually named as the first of the six mechanical powers, and is of three kinds, according as either the fulcrum F, the weight W, or the power P, respectively, is situated between the other two, as in the figures.
 # A small such piece to [[trigger]] or [[control]] a mechanical device (like a button)
 # {{mechanics}} A [[bar]], as a [[capstan bar]], applied to a rotatory piece to turn it.
@@ -54,9 +54,10 @@ From {{etyl|fro}} {{term|leveor}}, {{term|leveur||a lifter, lever (also {{etyl|f
 ====Verb====
 {{en-verb|levers|levering|levered|levered}}
 
-# To [[move]] with a [[lever#Noun|lever]].
-#: ''With great effort and a big crowbar I managed to '''lever''' the beam off the floor.''
-# {{context|especially|_|UK|finance}} To increase the share of debt in the [[capitalization]] of a business.
+# {{transitive}} To [[move]] with a [[lever#Noun|lever]].
+#:''With great effort and a big crowbar I managed to '''lever''' the beam off the floor.
+# {{figurative}} {{transitive}} To [[use]], [[operate]] like a [[lever#Noun|lever]].
+# {{context|especially|_|UK|finance}} To [[increase]] the [[share]] of [[debt]] in the [[capitalization]] of a business.
 #* {{quote-news|title=Corporate America wants its privacy||work=Minneapolis Star-Tribune|date=Jun 26|year=1989|passage="The equity holders want you to ''''lever''' up,' use as much debt as you can," said David Stanley, chairman of Kansas City-based Payless Cashways,}}
 
 ====Derived terms====
@@ -76,7 +77,7 @@ From {{etyl|enm|en}} comparative of {{term|leve||dear|lang=en}} of Germanic orig
 
 # {{obsolete}} [[rather|Rather]].
 #* '''1530''', [[w:John Heywood|John Heywood]], ''The Four PP''
-#*: for I had ''lever'' be without ye / Then have suche besines about ye
+#*: for I had '''lever''' be without ye / Then have suche besines about ye
 #* '''1537''', [[w:William Tyndale|William Tyndale]] ''et al'', "Jonah", in ''[[w:Tyndale Bible|The Byble]]''
 #*: Now therefore take my life from me, for I had '''lever''' die then live.
 #* '''1590''', [[w:Edmund Spenser|Edmund Spenser]], ''[[w:The Faery Queene|The Faery Queene]]''
@@ -119,7 +120,7 @@ From {{etyl|non|da}} {{term|lifr|lang=non}}.
 ==Dutch==
 
 ===Etymology 1===
-Germanic, cognate with liver, German [[Leber]] etc.
+Germanic, cognate with [[liver]], German [[Leber]], Norwegian and Swedish lever etc.
 
 ====Noun====
 {{nl-noun|levers|levertje}} {{m|f}}
@@ -162,14 +163,11 @@ From {{etyl|la|fr}} {{term|levo|levare|to elevate|lang=la}} < {{term|levis||ligh
 ===Verb===
 {{fr-verb}}
 
-# to [[raise]], to [[lift]]
-# {{reflexive|lang=fr}} to [[rise]]
-# {{reflexive|lang=fr}} to [[get up]] (out of bed)
-#: ''Je me '''lève''', je me lave.''
-#:: ''I get up, I wash.''
-
-====Conjugation====
-{{fr-conj-e-er|l|v}}
+# {{transitive}} To [[raise]], to [[lift]]
+# {{reflexive|lang=fr}} To [[rise]]
+# {{reflexive|lang=fr}} To [[get up]] (out of bed)
+#:''Je me '''lève''', je me lave.
+#::''I get up, I wash.
 
 ====Antonyms====
 * [[baisser]]
@@ -187,11 +185,14 @@ From {{etyl|la|fr}} {{term|levo|levare|to elevate|lang=la}} < {{term|levis||ligh
 * [[leveur]] {{m}}
 * [[levure]]
 
+====Conjugation====
+{{fr-conj-e-er|l|v}}
+
 ===Noun===
 {{fr-noun|m}}
 
-# [[getting up]] in the [[morning]]
-# [[morning ritual]], extremely elaborated in Versailles
+# The act of [[getting up]] in the [[morning]]
+# The [[morning ritual]], extremely elaborated in Versailles
 
 ----
 
@@ -207,7 +208,7 @@ From {{etyl|la|fr}} {{term|levo|levare|to elevate|lang=la}} < {{term|levis||ligh
 ===Verb===
 {{infl|hu|verb}}
 
-# [[knock down]]
+# {{transitive}} To [[knock down]]
 
 ----
 
@@ -226,19 +227,24 @@ From {{etyl|la|fr}} {{term|levo|levare|to elevate|lang=la}} < {{term|levis||ligh
 {{infl|enm|adverb}}
 
 # {{obsolete}} [[rather|Rather]].
-#: '' For him was '''lever''' have at his bed's head<br>Twenty bookes, clad in black or red,<br> . . . Than robes rich, or fithel, or gay sawtrie.'' &mdash;''The Cantebury Tales'', Geoffrey Chaucer
-#: ''But '''lever''' than this worldés good<br>She would have wist how that it stood'' &mdash;''Tales of the Seven Deadly Sins'', John Gower.
+#:'' For him was '''lever''' have at his bed's head<br>Twenty bookes, clad in black or red,<br> . . . Than robes rich, or fithel, or gay sawtrie.'' &mdash;''The Cantebury Tales'', Geoffrey Chaucer
+#:''But '''lever''' than this worldés good<br>She would have wist how that it stood'' &mdash;''Tales of the Seven Deadly Sins'', John Gower.
 
 ----
 
 ==Norwegian==
 
-===Noun===
+===Etymology 1===
+Germanic, cognate with liver, Dutch [[lever]], German [[Leber]], Swedish [[#Swedish|lever]]
+
+====Noun====
 {{no-noun-m2}}
 
-# [[liver]]
+# {{anatomy|lang=no}} A [[liver]]
 
-===Verb===
+===Etymology 2===
+
+====Verb form====
 '''lever'''
 
 # ''present tense'' of [[leve]]
@@ -253,12 +259,17 @@ From {{etyl|la|fr}} {{term|levo|levare|to elevate|lang=la}} < {{term|levis||ligh
 ===Pronunciation===
 * {{audio|Sv-lever.ogg|audio}}
 
-===Noun===
+===Etymology 1===
+Germanic, cognate with liver, Dutch [[lever]], German [[Leber]], Norwegian [[#Norwegian|lever]]
+
+====Noun====
 '''lever'''
 
-# [[liver]]
+# {{anatomy|lang=sv}} A [[liver]]
 
-===Verb===
+===Etymology 2===
+
+====Verb form====
 '''lever'''
 
 # ''present tense'' of [[leva]]
