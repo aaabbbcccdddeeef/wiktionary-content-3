@@ -14,9 +14,9 @@ From {{etyl|enm}} {{term|hwippen|lang=enm}} or {{term|whippen|lang=enm}}. Middle
 
 # A [[rod]] or [[rope]] used to hit a person or animal for [[punishment]], [[torture]] or [[encouragement]].
 # A member of a [[political]] [[party]] who is in charge of enforcing the party's [[policy|policies]] in [[vote]]s.
+# {{context|coffee}} Whipped cream.
 # {{nautical}} A [[purchase]] in which one [[block]] is used to gain a 2:1 [[mechanical advantage]].
 # {{slang}} A [[car]].
-# {{context|coffee}} Whipped cream.
 
 ====Synonyms====
 * {{sense|whip used on horses}} [[crop]], [[dressage whip]], [[driving whip]], [[jumping bat]] .
@@ -29,7 +29,7 @@ From {{etyl|enm}} {{term|hwippen|lang=enm}} or {{term|whippen|lang=enm}}. Middle
 * [[horsewhip]]
 
 ====Translations====
-{{trans-top|rod}}
+{{trans-top|rod or rope}}
 * [[Afrikaans]]: [[roer]]
 * Albanian: [[kamxhik]]
 * Arabic: {{Arab|[[سوط]]}} (ʂaut) {{m}}
@@ -45,7 +45,7 @@ From {{etyl|enm}} {{term|hwippen|lang=enm}} or {{term|whippen|lang=enm}}. Middle
 * Esperanto: {{t-|eo|vipo|xs=Esperanto}}
 * Estonian: [[piitsutama]]
 * Faroese: [[píska]]
-* Finnish: {{t+|fi|piiska}}
+* Finnish: {{t+|fi|piiska}}; {{t|fi|ruoska}}
 * French: {{t+|fr|fouet|m}}
 * Georgian: [[შოლტი]] (šolti)
 * German: {{t-|de|Peitsche|f}}
@@ -78,7 +78,7 @@ From {{etyl|enm}} {{term|hwippen|lang=enm}} or {{term|whippen|lang=enm}}. Middle
 * Spanish: {{t+|es|fusta|f}}, {{t-|es|látigo|m}}
 * [[Sranan]]: [[krawasi]]
 * Swahili: [[kambaa]] ''(nc 5/6)'',  {{t|sw|mjeledi|xs=Swahili}}
-* Swedish: {{t+|sv|piska|f}}
+* Swedish: {{t+|sv|piska|c}}
 * [[Tagalog]]: [[latiko]]
 * [[Telugu]]: [[కొరడా]] (koraDA)
 * Thai: {{Thai|[[หวด]]}} (hùat)
@@ -93,10 +93,12 @@ From {{etyl|enm}} {{term|hwippen|lang=enm}} or {{term|whippen|lang=enm}}. Middle
 {{trans-bottom}}
 
 {{trans-top|party policy enforcer}}
-* Finnish: [[piiskuri]]
+* Finnish: {{t|fi|piiskuri}}
 {{trans-mid}}
 * Swahili: {{t|sw|mjeledi|xs=Swahili}}
 {{trans-bottom}}
+
+{{trans-see|whipped cream}}
 
 ===Verb===
 {{en-verb|whip|p|ing}}
@@ -107,10 +109,13 @@ From {{etyl|enm}} {{term|hwippen|lang=enm}} or {{term|whippen|lang=enm}}. Middle
 # {{transitive}} To [[mix]] in a rapid aerating fashion, especially [[food]].
 # {{transitive}} To [[urge]] into action. (''He whipped the department into shape.'')
 # {{transitive|nautical}} To bind the end of a [[rope]] with [[twine]] or other [[small stuff]] to prevent its [[unlay]]ing.
-# {{transitive}} To [[throw]] an object at a high velocity (Typically used in [[New England]]. ''He whipped the ball at me.'')
+# {{transitive}} To [[throw]] an object at a high velocity (Typically used in [[New England]]). 
+#* ''He '''whipped''' the ball at me.''
 # {{transitive}} To [[fish]] a body of [[water]] especially by making repeated [[cast]]s.
-# {{intransitive}} To snap back and forth like a whip.  (''The pennants whipped in the wind.'')
-# {{intransitive}} To move very fast.  (''The wind whipped through the valley.'')
+# {{intransitive}} To snap back and forth like a whip. 
+#* ''The pennants '''whipped''' in the wind.''
+# {{intransitive}} To move very fast. 
+#* ''The wind '''whipped''' through the valley.''
 
 ====Derived terms====
 * [[whip in]]
@@ -131,7 +136,7 @@ From {{etyl|enm}} {{term|hwippen|lang=enm}} or {{term|whippen|lang=enm}}. Middle
 {{trans-bottom}}
 
 {{trans-top|by extension, to hit with any flexible object}}
-* Finnish: {{t-|fi|ruoskia}}, {{t+|fi|piiskata}}
+* Finnish: {{t+|fi|piiskata}}
 {{trans-mid}}
 * German: [[peitschen]]
 {{trans-bottom}}
@@ -156,6 +161,31 @@ From {{etyl|enm}} {{term|hwippen|lang=enm}} or {{term|whippen|lang=enm}}. Middle
 * German: [[anpeitschen]]
 {{trans-mid}}
 * Swahili: {{t|sw|mjeledi|xs=Swahili}}
+{{trans-bottom}}
+
+{{trans-top|nautical: to bind the end of a rope with twine}}
+* Finnish: {{t|fi|rihmata}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to throw at high velocity}}
+* Finnish: {{t|fi|paiskata}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to fish by making repeated casts}}
+* Finnish: {{t|fi|piiskata}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to snap back and forth like a whip}}
+* Finnish: {{t|fi|piiskata}} (''transitive structure used in Finnish'')
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to move very fast}}
+* Finnish: {{t|fi|piiskata}} (''transitive structure used in Finnish'')
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
