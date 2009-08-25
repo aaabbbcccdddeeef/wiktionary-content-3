@@ -1,11 +1,14 @@
 ==English==
-{{rfc|definitions need to be reworded to define as a unit of measurement}}
 ===Noun===
-{{infl|en|noun|head=[[characters]] [[per]] [[inch]]}}
+{{infl|en|noun|head=[[characters]] [[per]] [[inch]]}} 
+# {{context|design|typography}} A unit of measurement of the number of typographic characters that fit on each inch of a line of printed type; The measurement is  mainly to measure [[font]]s that have the same width for each [[character]] ([[monospaced]]), however fonts with characters of varying widths can have an average cpi.
+#:'''Please use a type that is 10 '''characters per inch'''.''
+# {{context|electronic media}} A unit of measurement of the amount of characters per inch ("linear packing density") when storing data on certain types of [[magnetic]] media or tape, used to measure storage density that recoding medium possesses.
 
-# The number of typographic characters that fit on each inch of a line of printed type. The measurement applies mainly to [[font]]s that have the same width for each character ([[monospaced]]). Fonts with characters of varying widths can have an average cpi.
-# The amount of characters per inch ("linear packing density") when storing data on certain types of [[magnetic]] media or tape, used to measure storage density that recoding medium possesses.
-{{rfdef|these defs don't seem right}}
 ====Synonyms====
 * [[cpi]]
+* [[dpi]]
+* [[ppi]]
 * [[pitch]]
+
+[[Category: Units of measurement]]
