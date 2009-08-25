@@ -61,9 +61,9 @@ From {{etyl|ang|en}} {{term|feld|lang=ang}}, from {{proto|Germanic|lang=en}}; re
 * Albanian: [[fushë]]
 * Arabic: {{t|ar|حقل|m|tr=Haql|sc=Arab}}
 * Chinese:
-*: Mandarin: {{t|zh|田間|sc=Hani}},  {{t|zh|田间|tr=tiánjiān|sc=Hani}},  {{t|zh|野外|tr=yěwài|sc=Hani}},  {{t|zh|野|tr=yě|sc=Hani}}
+*: Mandarin: {{t|cmn|田間|sc=Hani|xs=Mandarin}},  {{t|cmn|田间|tr=tiánjiān|sc=Hani|xs=Mandarin}},  {{t|cmn|野外|tr=yěwài|sc=Hani|xs=Mandarin}},  {{t-|cmn|野|tr=yě|sc=Hani|xs=Mandarin}}
 * Croatian: {{t-|hr|polje|n}}
-* French: {{t|fr|champ|m}}
+* French: {{t+|fr|champ|m}}
 {{trans-mid}}
 * German: {{t+|de|Feld|n}}
 * Japanese: {{t|ja|原野|tr=げんや, gen'ya|sc=Jpan}}
@@ -80,7 +80,7 @@ From {{etyl|ang|en}} {{term|feld|lang=ang}}, from {{proto|Germanic|lang=en}}; re
 * [[Central Atlas Tamazight]]: {{tø|tzm|ⵉⴳⴻⵔ|tr=iger|sc=Tfng|m}}
 * [[Chamicuro]]: {{tø|ccc|pawa}}
 * Chinese:
-*: Mandarin: {{qualifier|for crops}} {{t|zh|田|tr=tián|sc=Hani}},  {{t|zh|田野|tr=tiányě|sc=Hani}}
+*: Mandarin: {{qualifier|for crops}} {{t-|cmn|田|tr=tián|sc=Hani|xs=Mandarin}},  {{t|cmn|田野|tr=tiányě|sc=Hani|xs=Mandarin}}
 * Croatian: {{t-|hr|polje|n}}
 * Czech: [[pastvina]] {{f}} {{italbrac|for animals}}, [[pole]] {{n}} {{italbrac|for crops}}
 * Danish: {{t-|da|mark|c}}, {{t+|da|ager}}
@@ -95,14 +95,14 @@ From {{etyl|ang|en}} {{term|feld|lang=ang}}, from {{proto|Germanic|lang=en}}; re
 {{trans-mid}}
 * Irish: {{t-|ga|páirc|f|xs=Irish}}, {{t-|ga|gort|m|xs=Irish}}
 * Italian: {{t+|it|campo|m}}
-* Japanese: {{t|ja|畑|tr=はたけ, hatake|sc=Jpan}}
+* Japanese: {{t+|ja|畑|tr=はたけ, hatake|sc=Jpan}}
 * Korean: [[밭]] (bat) {{italbrac|for crops}}
 * Norwegian: [[åker]] {{m}} {{italbrac|for crops}}
 * [[Old Church Slavonic]]: {{tø|cu|полѥ|n|tr=polje|sc=Cyrs}}
 * Polish: [[pastwisko]] {{n}}{{italbrac|for animals}}, [[pole#Polish|pole]] {{n}} {{italbrac|for crops}}
 * Portuguese: {{t+|pt|campo|m}}, {{t+|pt|terreno|m}}
 * Romanian: {{t-|ro|câmp}}
-* Russian: {{qualifier|for animals}} {{t|ru|пастбище|n|tr=pástbišče|sc=Cyrl}}, {{qualifier|for crops}} {{t|ru|поле|n|tr=póle|sc=Cyrl}}
+* Russian: {{qualifier|for animals}} {{t|ru|пастбище|n|tr=pástbišče|sc=Cyrl}}, {{qualifier|for crops}} {{t+|ru|поле|n|tr=póle|sc=Cyrl}}
 * [[Scottish Gaelic]]: [[achadh]] {{m}}, [[blàr]] {{m}}, [[dail]] {{f}}, [[magh]] {{m}}, [[mìn]] {{m}}, [[raon]] {{m}}
 * Serbian: [[pašnjak]] {{m}}, [[polje]] {{n}}
 * Slovene: [[pašnik]] {{m}} {{italbrac|for animals}}, [[polje]] {{n}} {{italbrac|for crops}}
@@ -116,9 +116,9 @@ From {{etyl|ang|en}} {{term|feld|lang=ang}}, from {{proto|Germanic|lang=en}}; re
 * Albanian: [[fushë]]
 * Armenian: [[դաշտ]] (dašt)
 * Chinese:
-*: Mandarin: {{t|zh|範圍|sc=Hani}},  {{t|zh|范围|tr=fànwéi|sc=Hani}}
+*: Mandarin: {{t|cmn|範圍|sc=Hani|xs=Mandarin}},  {{t|cmn|范围|tr=fànwéi|sc=Hani|xs=Mandarin}}
 * Croatian: {{t-|hr|polje|n}}
-* Czech: {{t-|cs|pole|n}}
+* Czech: {{t+|cs|pole|n}}
 * Danish: {{t-|da|felt|n}}
 * Dutch: {{t+|nl|veld|n}}
 * Estonian: {{t-|et|väli}}
@@ -144,7 +144,7 @@ From {{etyl|ang|en}} {{term|feld|lang=ang}}, from {{proto|Germanic|lang=en}}; re
 * Albanian: [[fushë]]
 * Armenian: [[ասպարեզ]] (asparez)
 * Chinese:
-*: Mandarin: {{t|zh|領域|sc=Hani}},  {{t|zh|领域|tr=lǐngyù|sc=Hani}}
+*: Mandarin: {{t-|cmn|領域|sc=Hani|xs=Mandarin}},  {{t|cmn|领域|tr=lǐngyù|sc=Hani|xs=Mandarin}}
 * Croatian: {{t-|hr|polje|n}}
 * Danish: {{t-|da|felt|n}}, {{t-|da|område}}
 * Dutch: {{t+|nl|vak|n}}, {{t+|nl|vakgebied|n}}, {{t+|nl|gebied|n}}
@@ -168,7 +168,7 @@ From {{etyl|ang|en}} {{term|feld|lang=ang}}, from {{proto|Germanic|lang=en}}; re
 * Albanian: [[sferë]], [[fushë]]
 * Armenian: [[դաշտ]] (dašt)
 * Croatian: {{t-|hr|polje|n}}
-* Czech: {{t-|cs|pole|n}}
+* Czech: {{t+|cs|pole|n}}
 * Dutch: {{t+|nl|veld|f}}
 * Estonian: {{t-|et|korpus}}
 * Finnish: {{t+|fi|kunta}}
