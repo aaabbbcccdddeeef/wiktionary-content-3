@@ -18,7 +18,7 @@
 ====Translations====
 {{trans-top|beginning of an activity}}
 * [[American Sign Language]]: {{tø|ase|1@InFinger-PalmDown-OpenB@CenterChesthigh 1@InFinger-PalmUp-OpenB@CenterChesthigh|xs=American Sign Language}}
-* Armenian: {{t|hy|սկիզբ|tr=skizb|sc=Armn}}
+* Armenian: {{t-|hy|սկիզբ|tr=skizb|sc=Armn|xs=Armenian}}
 * Finnish: {{t+|fi|alku}}, {{t-|fi|aloitus}}
 * French: {{t+|fr|début|m}}
 * German: der [[Beginn]]
@@ -35,7 +35,7 @@
 * Portuguese: {{t+|pt|começo|m}}
 * Russian: {{t+|ru|начало|n|tr=načálo|sc=Cyrl}}
 * Serbian: {{t-|sr|početi}}
-* Spanish: {{t|es|inicio|m}},  {{t|es|comienzo|m}}
+* Spanish: {{t-|es|inicio|m}},  {{t-|es|comienzo|m}}
 * Swedish: {{t+|sv|start}}
 {{trans-bottom}}
 
@@ -113,7 +113,7 @@
 * Finnish: [[panna]] [[liike|liikkeelle]]
 * [[Galician]]: [[comezar]]
 * Hebrew: {{he-translation|להתחיל|lehatkhíl}}
-* Hungarian: {{t|hu|elindul}},  {{t|hu|indul}}
+* Hungarian: {{t|hu|elindul}},  {{t+|hu|indul}}
 {{trans-mid}}
 * Russian: [[запускать]] (zapuskát') {{impf}}, [[запустить]] (zapustít') {{pf}}
 * Serbian: [[zapustiti]], [[pustiti]], [[navesti]]
@@ -122,13 +122,13 @@
 
 {{trans-top|to begin}}
 * [[American Sign Language]]: {{tø|ase|1@InFinger-PalmDown-OpenB@CenterChesthigh 1@InFinger-PalmUp-OpenB@CenterChesthigh|xs=American Sign Language}}
-* Armenian: {{t|hy|սկսել|tr=sksel|sc=Armn}}
-* Esperanto: {{t|eo|eki}}
+* Armenian: {{t-|hy|սկսել|tr=sksel|sc=Armn|xs=Armenian}}
+* Esperanto: {{t-|eo|eki|xs=Esperanto}}
 * Finnish: {{t+|fi|aloittaa}}
 * [[Galician]]: [[comezar]]
 * Hebrew: {{he-translation|להתחיל|lehatkhíl}}
 {{trans-mid}}
-* Hungarian: {{t|hu|elkezd}}
+* Hungarian: {{t+|hu|elkezd}}
 * Japanese: {{t-|ja|始める|tr=hajimeru|sc=Jpan}}
 * Kurdish: {{ku-Arab|[[ده‌سپێکردن]]}}
 * Russian: [[начинать]] (načinát') {{impf}}, [[начать]] (načát') {{pf}}
@@ -142,7 +142,7 @@
 * Finnish: {{t+|fi|startata}}, {{t+|fi|käynnistää}}
 * [[Galician]]: [[iniciar]], [[arrancar]]
 * Hebrew: {{he-translation|להתחיל|lehatkhíl}}
-* Hungarian: {{t|hu|elindul}},  {{t|hu|indul}},  {{t|hu|startol|tr=in races}}
+* Hungarian: {{t|hu|elindul}},  {{t+|hu|indul}},  {{t|hu|startol|tr=in races}}
 {{trans-mid}}
 * Japanese: {{t|ja|始動する|tr=shidō suru|sc=Jpan}}
 * Polish: [[zapalić]]
@@ -153,11 +153,11 @@
 
 {{trans-top|to begin an activity}}
 * [[American Sign Language]]: {{tø|ase|1@InFinger-PalmDown-OpenB@CenterChesthigh 1@InFinger-PalmUp-OpenB@CenterChesthigh|xs=American Sign Language}}
-* Armenian: {{t|hy|սկսվել|tr=sksvel|sc=Armn}}
+* Armenian: {{t|hy|սկսվել|tr=sksvel|sc=Armn|xs=Armenian}}
 * Finnish: [[alkaa]], [[aloittaa]], [[käynnistyä]] (''of motors'')
 * German: {{t+|de|beginnen}}
 * Hebrew: {{he-translation|להתחיל|lehatkhíl}}, {{he-translation|לפצוח|liftsó`akh}}
-* Hungarian: {{t|hu|elkezd}}
+* Hungarian: {{t+|hu|elkezd}}
 {{trans-mid}}
 * Japanese: {{t-|ja|始まる|tr=hajimaru|sc=Jpan}}
 * Kurdish: {{ku-Arab|[[ده‌سپێکردن]]}}
@@ -177,7 +177,7 @@
 {{trans-bottom}}
 
 {{trans-top|to awaken suddenly}}
-* Hungarian: {{t|hu|felriad}}
+* Hungarian: {{t-|hu|felriad}}
 * Japanese: {{t|ja|飛び起きる|tr=tobi-okiru|sc=Jpan}}
 {{trans-mid}}
 * Serbian: [[odjednom]]
