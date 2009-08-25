@@ -122,7 +122,7 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 *: Syriac: [[ܐܣܝܐ]] (’āsyā’) {{m}}
 *: Hebrew: [[אסיא]] (’āsyā’) {{m}}
 * Armenian: {{t-|hy|բժիշկ|tr=bžišk|sc=Armn|xs=Armenian}}
-* [[Basque]]: {{t|eu|sendagile}}, {{t|eu|osagile}}
+* [[Basque]]: {{t|eu|sendagile|xs=Basque}}, {{t|eu|osagile|xs=Basque}}
 * Bulgarian: {{t+|bg|доктор|m|sc=Cyrl}}
 * [[Catalan]]: {{t+|ca|metge|m}}, {{t|ca|metgesa|f}}
 * [[Chechen]]: [[лор]]
@@ -158,7 +158,7 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * {{trreq|Lithuanian}}
 * [[Luhya]]: {{tø|luy|dakatari}}, {{tø|luy|dakitari}}
 * [[Luo]]: {{tø|luo|dokta}}
-* [[Macedonian]]: {{t-|mk|доктор|m|tr=dóktor|sc=Cyrl|xs=Macedonian}},  {{t|mk|докторка|f|tr=dóktorka|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|доктор|m|tr=dóktor|sc=Cyrl|xs=Macedonian}},  {{t-|mk|докторка|f|tr=dóktorka|sc=Cyrl|xs=Macedonian}}
 * Malay: {{t+|ms|doktor|xs=Malay}}
 * Maltese: [[tabib]] {{m}}, [[tabiba]] {{f}}
 * {{trreq|Maori}}
@@ -166,7 +166,7 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * [[Meru]]: {{tø|mer|ndagitare}}
 * {{trreq|Mongolian}}
 * [[Novial]]: [[medike]]
-* Old English: [[læce|lǣce]] {{m}}
+* Old English: {{t-|ang|læce|m|alt=lǣce|xs=Old English}}
 * Persian: {{t-|fa|پزشک|tr=pezešk|sc=fa-Arab|xs=Persian}}
 * Polish: {{t+|pl|lekarz|m}}, {{t+|pl|lekarka|f}}
 * Portuguese: [[doutor]] {{m}}, [[doutora]] {{f}}
@@ -179,7 +179,7 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * Slovene: [[zdravnik]] {{m}}, [[zdravnica]] {{f}}
 * [[Sotho]]: {{t|st|ngaka|xs=Sotho}}
 * Spanish: {{t+|es|médico|m}}, {{t-|es|médica|f}}
-* Swahili: {{t|sw|daktari|xs=Swahili}}, {{t-|sw|dokta|xs=Swahili}}
+* Swahili: {{t+|sw|daktari|xs=Swahili}}, {{t-|sw|dokta|xs=Swahili}}
 * Swedish: {{t+|sv|doktor}}, {{t+|sv|läkare}}
 * Thai: {{Thai|[[หมอ]]}} (mŏr), {{Thai|[[แพทย์]]}} (pâet), {{Thai|[[เวช]]}} (wêt)
 * Turkish: {{t+|tr|doktor}}, {{t+|tr|hekim}}, {{t+|tr|tabip}}
@@ -193,7 +193,7 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * [[Afrikaans]]: {{t-|af|doktor|xs=Afrikaans}}
 * Arabic: {{t-|ar|دكتور|m|alt=دُكْتور|tr=duktuur|sc=Arab}}
 * Armenian: {{t|hy|դոկտոր|tr=doktor|sc=Armn|xs=Armenian}}
-* Bulgarian: [[доктор]] {{m}}, [[лекар]] {{m}}, [[лекарка]] {{f}}
+* Bulgarian: {{t+|bg|доктор|m|sc=Cyrl}}, {{t+|bg|лекар|m|sc=Cyrl}}, {{t-|bg|лекарка|f|sc=Cyrl}}
 * Chinese: [[博士]] (bóshì)
 * Croatian: {{t-|hr|doktor|m|alt=dȍktor}}, {{t-|hr|doktorica|f|alt=dȍktorica}}
 * Czech: {{t-|cs|doktor|m}}
@@ -224,7 +224,7 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * [[Scottish Gaelic]]: [[ollamh]] {{m}}
 * Slovak: {{t-|sk|doktor|m}}
 * Slovene: {{t-|sl|doktor|m}}, {{t-|sl|doktorica|f}}
-* Swahili: {{t|sw|daktari|xs=Swahili}}, {{t-|sw|dokta|xs=Swahili}}
+* Swahili: {{t+|sw|daktari|xs=Swahili}}, {{t-|sw|dokta|xs=Swahili}}
 * Swedish: {{t+|sv|doktor}}
 * Thai: {{Thai|[[ปริญญาเอก]]}} (bprinyaa èk), {{Thai|[[ดุษฎีบัณฑิต]]}} (dòotsàdee bantít)
 * Turkish: {{t+|tr|doktor}}
@@ -366,7 +366,7 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * Danish: [[doktorere]]
 * Italian: {{t+|it|curare}}, {{t-|it|medicare}}
 {{trans-mid}}
-* Swahili: {{t|sw|daktari|xs=Swahili}}
+* Swahili: {{t+|sw|daktari|xs=Swahili}}
 {{trans-bottom}}
 
 {{trans-top|award the title of doctor to}}
