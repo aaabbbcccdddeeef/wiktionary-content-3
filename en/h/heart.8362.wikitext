@@ -102,15 +102,15 @@
 
 ====Translations====
 {{trans-top|an organ}}
-* [[Afrikaans]]: {{t|af|hart}}
+* [[Afrikaans]]: {{t+|af|hart|xs=Afrikaans}}
 * Albanian: {{t-|sq|zemër|f|xs=Albanian}}
-* Arabic: {{t-|ar|قلب|m|tr=qalb|sc=Arab}}
+* Arabic: {{t+|ar|قلب|m|tr=qalb|sc=Arab}}
 * [[Aragonese]]: {{t-|an|corazón|xs=Aragonese}}
 * Aramaic:
 *: Syriac: {{tø|arc|ܠܒܐ|m|tr=libā’|sc=Syrc}}
 *: Hebrew: {{tø|arc|לבא|m|tr=libā’|sc=Hebr}}
 * Armenian: {{t-|hy|սիրտ|tr=sirt|sc=Armn|xs=Armenian}}
-*: Old Armenian: {{t|xcl|սիրտ|tr=sirt|sc=Armn|xs=Armenian}}
+*: Old Armenian: {{tø|xcl|սիրտ|tr=sirt|sc=Armn|xs=Old Armenian}}
 * [[Azeri]]: {{t+|az|qəlb|xs=Azeri}}, {{t+|az|ürək|xs=Azeri}}
 * [[Basque]]: {{t|eu|bihotz|xs=Basque}}
 * Belarusian: {{t-|be|сэрца|sc=Cyrl|xs=Belarusian}}
@@ -201,7 +201,7 @@
 *: Roman: {{t-|sr|srce|n}}
 * Slovak: {{t+|sk|srdce|n}}
 * Slovene: {{t+|sl|srce|n}}
-* [[Sotho]]: {{t|st|pelo}}
+* [[Sotho]]: {{t-|st|pelo|xs=Sotho}}
 * Spanish: {{t+|es|corazón|m}}
 * Swahili: {{t+|sw|moyo|s|xs=Swahili}}, {{t|sw|mioyo|p|xs=Swahili}}
 * Swedish: {{t+|sv|hjärta|n}}
@@ -254,7 +254,7 @@
 {{trans-bottom}}
 
 {{trans-top|a shape or symbol}}
-* Arabic: {{t-|ar|قلب|m|tr=qalb|sc=Arab}}
+* Arabic: {{t+|ar|قلب|m|tr=qalb|sc=Arab}}
 * Armenian: {{t-|hy|սիրտ|tr=sirt|sc=Armn|xs=Armenian}}
 * Bosnian: {{t-|bs|srce|n}}
 * [[Catalan]]: {{t+|ca|cor}}
@@ -330,7 +330,7 @@
 {{trans-bottom}}
 
 {{trans-top|centre or core}}
-* Arabic: {{t-|ar|قلب|m|tr=qalb|sc=Arab}}
+* Arabic: {{t+|ar|قلب|m|tr=qalb|sc=Arab}}
 * Armenian: {{t-|hy|սիրտ|tr=sirt|sc=Armn|xs=Armenian}}
 * Bosnian: {{t-|bs|srce|n}}
 * Czech: {{t+|cs|srdce|n}}
@@ -343,7 +343,7 @@
 * Greek: {{t+|el|καρδιά|f|tr=karðiá|sc=Grek}}
 *: Ancient Greek: {{tø|grc|καρδία|f|tr=kardia|sc=polytonic|xs=Ancient Greek}}
 * Hebrew: {{t-|he|מרכז|m|tr=merkáz|sc=Hebr}}, {{t+|he|לב|m|tr=lev|sc=Hebr}}
-* Hungarian: {{t|hu|szív}}
+* Hungarian: {{t+|hu|szív}}
 * Icelandic: {{t+|is|hjarta|n}}
 * Irish: {{t|ga|croí|m|xs=Irish}}
 * Italian: {{t+|it|nocciolo|m}}
@@ -356,7 +356,7 @@
 * Norwegian: {{t+|no|hjertet|n}}
 * Polish: {{t+|pl|serce|n}}
 * Portuguese: {{t+|pt|cerne|m}} (ex: ''o '''cerne''' da questão'' / ''the '''core''' of the question)
-* Romanian: {{t|ro|centru|n}},  {{t|ro|mijloc|n}},  {{t|ro|inimă|f}}
+* Romanian: {{t|ro|centru|n}},  {{t|ro|mijloc|n}},  {{t-|ro|inimă|f}}
 * Russian: {{t+|ru|сердце|n|tr=sérdtse|sc=Cyrl}}, {{t|ru|сердцевина|f|tr=serdtsevína|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|cridhe|m|xs=Scottish Gaelic}}
 * Serbian:
