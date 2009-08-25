@@ -41,7 +41,7 @@ From {{etyl|ang}} ''pipe'', from {{VL.}} *{{term||pipa}}.
 
 ====Translations====
 {{trans-top|hollow tube}}
-* [[Afrikaans]]: {{t|af|buis}}, {{t|af|pyp}}
+* [[Afrikaans]]: {{t-|af|buis|xs=Afrikaans}}, {{t|af|pyp|xs=Afrikaans}}
 * Arabic: {{Arab|[[ماسورة]]}} (masūra) {{f}}
 * Armenian: {{t-|hy|խողովակ|tr=xoġovak|sc=Armn|xs=Armenian}}
 * Chinese: [[管子]] (guǎnzi)
@@ -54,10 +54,10 @@ From {{etyl|ang}} ''pipe'', from {{VL.}} *{{term||pipa}}.
 * Hungarian: {{t+|hu|cső}}
 * Italian: {{t+|it|condotto|m}}, {{t-|it|tubo|m}}
 {{trans-mid}}
-* Japanese: {{t|ja|パイプ|tr=paipu}}
-* Korean: {{t|ko|파이프|tr=paipeu}}
+* Japanese: {{t|ja|パイプ|tr=paipu|sc=Jpan}}
+* Korean: {{t|ko|파이프|tr=paipeu|sc=Hang}}
 * Latvian: [[caurule]] {{f}}
-* Lithuanian: {{t|lt|vamzdis|m}}
+* Lithuanian: {{t|lt|vamzdis|m|xs=Lithuanian}}
 * [[Macedonian]]: {{t|mk|цевка|f|tr=cévka|sc=Cyrl|xs=Macedonian}}
 * Polish: {{t+|pl|rura|f}}
 * Portuguese: {{t+|pt|cano|m}}, {{t+|pt|tubo|m}}, {{t+|pt|duto|m}}
@@ -81,16 +81,16 @@ From {{etyl|ang}} ''pipe'', from {{VL.}} *{{term||pipa}}.
 * Hungarian: {{t+|hu|pipa}}
 * Italian: {{t+|it|pipa|f}}
 {{trans-mid}}
-* Japanese: {{t|ja|パイプ|tr=paipu}}
-* Korean: {{t|ko|담뱃대|tr=dambaetdae}}
-* Lithuanian: {{t|lt|pypkė}}
+* Japanese: {{t|ja|パイプ|tr=paipu|sc=Jpan}}
+* Korean: {{t|ko|담뱃대|tr=dambaetdae|sc=Hang}}
+* Lithuanian: {{t|lt|pypkė|xs=Lithuanian}}
 * [[Macedonian]]: {{t-|mk|луле|n|tr=lúle|sc=Cyrl|xs=Macedonian}}
 * Polish: {{t+|pl|fajka|f}}
 * Portuguese: {{t+|pt|cachimbo|m}}
 * Russian: {{t+|ru|трубка|f|tr=trúbka|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|pìob|f|xs=Scottish Gaelic}}
 * Spanish: {{t+|es|pipa|f}}
-* Swahili: {{t|sw|kiko|xs=Swahili}}
+* Swahili: {{t+|sw|kiko|xs=Swahili}}
 * Swedish: {{t+|sv|pipa|c}}
 {{trans-bottom}}
 
@@ -118,7 +118,7 @@ From {{etyl|ang}} ''pipe'', from {{VL.}} *{{term||pipa}}.
 * Dutch: {{t-|nl|orgelpijp|c}}, {{t+|nl|pijp|c}}
 * Finnish: {{t+|fi|urkupilli}}
 * German: {{t|de|Orgelpfeife|f}}
-* Greek: {{t|el|εκκλησιαστικό|tr=όργανο|n}}
+* Greek: {{t|el|εκκλησιαστικό|n|tr=όργανο|sc=Grek}}
 {{trans-mid}}
 * Hungarian: {{t|hu|orgonasíp}}
 * [[Macedonian]]: {{t-|mk|дудлец|m|tr=dúdlec|sc=Cyrl|xs=Macedonian}}
@@ -143,8 +143,8 @@ From {{etyl|ang}} ''pipe'', from {{VL.}} *{{term||pipa}}.
 
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 {{checktrans-top}}
-* {{ttbc|German}}: {{t|de|Pfeife|f}} (3)
-* {{ttbc|Telugu}}: {{t|te|గొట్టము|tr=goTTamu}}
+* {{ttbc|German}}: {{t+|de|Pfeife|f}} (3)
+* {{ttbc|Telugu}}: {{t|te|గొట్టము|tr=goTTamu|sc=Telu}}
 {{checktrans-bottom}}
 
 ===Verb===
