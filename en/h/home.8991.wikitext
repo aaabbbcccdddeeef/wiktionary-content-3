@@ -96,7 +96,7 @@ From {{etyl|enm|en}} {{term|hom|lang=enm}} < {{etyl|ang|en}} {{term|ham|hām|lan
 * [[Galician]]: {{t+|gl|fogar|m|xs=Galician}}
 * Georgian: [[სახლი]] (saxli)
 * German: {{t+|de|Heim|n}}, {{t+|de|Zuhause|n}}, {{t+|de|Wohnung|f}}
-* Greek: {{t+|el|σπίτι|n|tr=spíti|sc=Grek}}
+* Greek: {{t+|el|σπίτι|n|tr=spíti|sc=Grek}},  {{t|el|σπιτικό|n|tr=spitikó|sc=Grek}}
 * Hebrew: {{he-translation|בית|báyit}} {{m}}
 * Hindi: {{t-|hi|घर|m|sc=Deva|xs=Hindi}} (ghar)
 * Hungarian: {{t+|hu|otthon}}
@@ -104,8 +104,8 @@ From {{etyl|enm|en}} {{term|hom|lang=enm}} < {{etyl|ang|en}} {{term|ham|hām|lan
 * Italian: {{t+|it|casa|f}}
 * Japanese: [[家]] ([[いえ]], ie)
 * [[Kannada]]: [[ಮನೆ]] (mane)
-* Kurdish: [[mal]], {{ku-Arab|[[ماڵ]]}}
 {{trans-mid}}
+* Kurdish: [[mal]], {{ku-Arab|[[ماڵ]]}}
 * Latin: {{t+|la|domus|f}}, {{t+|la|domicilium|n}}
 * [[Livonian]]: [[kuod]]
 * [[Macedonian]]: [[дом#Macedonian|дом]] (dom) {{m}}
@@ -147,7 +147,7 @@ From {{etyl|enm|en}} {{term|hom|lang=enm}} < {{etyl|ang|en}} {{term|ham|hām|lan
 * Finnish: [[kotimaa]], [[kotiseutu]], [[kotipesä]]
 * French: {{t+|fr|patrie|f}}
 * German: {{t+|de|Heimat|f}}
-* Greek: {{t+|el|πατρίδα|f|tr=patrída|sc=Grek}}
+* Greek: {{t+|el|πατρίδα|f|tr=patrída|sc=Grek}},  {{t|el|γενέτειρα|f|tr=genétira|sc=Grek}}
 * Hebrew: {{he-translation|בית|báyit}} {{m}}
 * Hungarian: {{t-|hu|szülőföld}}
 * Italian: {{t+|it|patria|f}}, {{t+|it|paese|m}}
@@ -170,6 +170,7 @@ From {{etyl|enm|en}} {{term|hom|lang=enm}} < {{etyl|ang|en}} {{term|ham|hām|lan
 * Czech: {{t+|cs|domov|m}}
 * Estonian: [[sünnikodu]]
 * German: {{t+|de|Zuhause|n}}, {{t+|de|Elternhaus|n}}, {{t+|de|Nest|n}}
+* Greek: {{t|el|πατρικό|n|tr=patrikó|sc=Grek}}
 * Hebrew: {{he-translation|בית|báyit}} {{m}}
 * Hungarian: {{t+|hu|otthon}}
 * Japanese: [[故郷]] ([[こきょう]], kokyō), [[実家]] ([[じっか]], jikka)
@@ -206,11 +207,13 @@ From {{etyl|enm|en}} {{term|hom|lang=enm}} < {{etyl|ang|en}} {{term|ham|hām|lan
 * Croatian: {{t+|hr|dom|m}}
 * Czech: {{t+|cs|domov|m}}
 * German: {{t+|de|Heimat|f}}
+* Greek: {{t|el|κατοικία|f|tr=katikía|sc=Grek}}
+* Greek: {{t|el|περιβάλλον|n|tr=periválon|sc=Grek}}
 * Hebrew: {{he-translation|בית|báyit}} {{m}}, {{he-translation|מקום|makóm}} {{m}}
 * Italian: {{t+|it|habitat|m}}, {{t+|it|dimora|f}}
+{{trans-mid}}
 * Japanese: [[生息地]] ([[せいそくち]], seisokuchi)
 * [[Macedonian]]: [[дом#Macedonian|дом]] (dom) {{m}}, [[живеалиште]] (živealište) {{n}}
-{{trans-mid}}
 * Maltese: {{t-|mt|dar|xs=Maltese}}, {{t-|mt|abitat|xs=Maltese}}
 * Norwegian: {{t-|no|hjem}}
 * Portuguese: {{t+|pt|lar|m}}
@@ -222,11 +225,12 @@ From {{etyl|enm|en}} {{term|hom|lang=enm}} < {{etyl|ang|en}} {{term|ham|hām|lan
 {{trans-top|place of refuge or rest}}
 * Czech: {{t+|cs|domov|m}}
 * German: {{t+|de|Heim|n}}
+* Greek: {{t|el|άσυλο|n|tr=ásilo|sc=Grek}}
 * Kurdish: [[mal]], {{ku-Arab|[[ماڵ]]}}
 * [[Macedonian]]: [[прибежиште]] (pribežište) {{n}}
 * [[Nahuatl]]: [[chantli]]
-* Norwegian: {{t-|no|hjem}}
 {{trans-mid}}
+* Norwegian: {{t-|no|hjem}}
 * [[Scots]]: {{tø|sco|hame|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|dachaigh|f|xs=Scottish Gaelic}}
 * Slovene: {{t+|sl|dom|m}}
