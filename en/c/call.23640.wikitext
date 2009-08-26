@@ -126,7 +126,7 @@ From {{etyl|ang|en}} {{term|ceallian||lang=ang}}; see also [[Old Norse]] {{term|
 * Armenian: {{t-|hy|այցելություն|tr=ayc'elut'yun|sc=Armn|xs=Armenian}}
 * Finnish: {{t-|fi|käynti}}, {{t+|fi|vierailu}}
 * Greek: {{t+|el|πρόσκληση|sc=Grek}}
-* Icelandic: {{t|is|heimsókn|f}}
+* Icelandic: {{t+|is|heimsókn|f}}
 * Italian: {{t+|it|saluto|m}}
 * Japanese: [[訪問]], [[ほうもん]] (hōmon); [[来訪]], [[らいほう]] (raihō)
 {{trans-mid}}
@@ -144,7 +144,7 @@ From {{etyl|ang|en}} {{term|ceallian||lang=ang}}; see also [[Old Norse]] {{term|
 * French: {{t+|fr|appel}}
 * German: {{t+|de|Ruf|m}}
 * Hebrew: [[קריאה]] (qri'a) {{f}}
-* Icelandic: {{t|is|kall|n}},  {{t|is|hróp|n}}
+* Icelandic: {{t-|is|kall|n}},  {{t|is|hróp|n}}
 * Italian: {{t-|it|urlo|m}}
 * Japanese: [[呼び声]], [[よびごえ]] (yobigoe); [[叫び]], [[さけび]] (sakebi)
 {{trans-mid}}
@@ -181,7 +181,7 @@ From {{etyl|ang|en}} {{term|ceallian||lang=ang}}; see also [[Old Norse]] {{term|
 * French: {{t+|fr|appel}}
 * German: {{t+|de|Ruf|m}}
 * Hebrew: [[קריאה]] (qri'a) {{f}}
-* Icelandic: {{t|is|kall|n}}
+* Icelandic: {{t-|is|kall|n}}
 * Italian: {{t+|it|richiamo|m}}
 {{trans-mid}}
 * Japanese: [[呼び出し]], [[よびだし]] (yobidashi)
@@ -276,15 +276,15 @@ From {{etyl|ang|en}} {{term|ceallian||lang=ang}}; see also [[Old Norse]] {{term|
 * [[Flemish]]: [[roepen]]
 * French: {{t+|fr|appeler}}
 * German: {{t|de|rufen, {{t|de|anrufen}}, {{t|de|herbeirufen}}
-* Hebrew: {{t|he|לקרוא|tr=liqro}}
+* Hebrew: {{t|he|לקרוא|tr=liqro|sc=Hebr}}
 * Hindi: [[बुला]] (bulānā)
 * Hungarian: {{t+|hu|hív}}
-* Icelandic: {{t|is|kalla}}
-* [[Ido]]: {{t|io|vokar}}
+* Icelandic: {{t+|is|kalla}}
+* [[Ido]]: {{t+|io|vokar|xs=Ido}}
 {{trans-mid}}
 * Japanese: {{t-|ja|呼ぶ|sc=Jpan}}, {{t-|ja|よぶ|tr=yobu|sc=Jpan}}
-* Korean: {{t|ko|불러내다|tr=bulleonaeda}}
-* Latin: {{t|la|voco|alt=vocō}}
+* Korean: {{t|ko|불러내다|tr=bulleonaeda|sc=Hang}}
+* Latin: {{t+|la|voco|alt=vocō}}
 * Portuguese: {{t+|pt|chamar}}
 * Romanian: {{t+|ro|chema}}
 * [[Romansch]]: [[clamar]]
@@ -306,9 +306,9 @@ From {{etyl|ang|en}} {{term|ceallian||lang=ang}}; see also [[Old Norse]] {{term|
 * Czech: {{t-|cs|křičet}}
 * Dutch: {{t+|nl|schreeuwen}}
 * German: {{t+|de|rufen}}
-* Hebrew: {{t|he|לקרוא|tr=liqro}}
+* Hebrew: {{t|he|לקרוא|tr=liqro|sc=Hebr}}
 * Hungarian: {{t|hu|kiált}}
-* Icelandic: {{t|is|kalla}}, {{t|is|hrópa}}
+* Icelandic: {{t+|is|kalla}}, {{t+|is|hrópa}}
 * Japanese: {{t-|ja|叫ぶ|sc=Jpan}}, {{t-|ja|さけぶ|tr=sakebu|sc=Jpan}}
 {{trans-mid}}
 * Korean: [[소리치다]] (sorichida), [[외치다]] (oechida)
@@ -349,7 +349,7 @@ From {{etyl|ang|en}} {{term|ceallian||lang=ang}}; see also [[Old Norse]] {{term|
 * Armenian: {{t+|hy|այցելել|tr=ayc'elel|sc=Armn|xs=Armenian}}
 * Dutch: {{t+|nl|bezoeken}}
 * Hungarian: {{t|hu|meglátogat}}
-* Icelandic: {{t|is|heimsækja}}, {{t|is|heilsa upp á}}
+* Icelandic: {{t+|is|heimsækja}}, {{t|is|heilsa upp á}}
 * Japanese: [[訪ねる]], [[たずねる]] (tazuneru); [[訪問する]], [[ほうもんする]] (hōmonsuru)
 {{trans-mid}}
 * Korean: [[찾아가다]] (chajAgada), [[방문]]하다 ([[訪問]]-, bangmun-hada)
@@ -366,11 +366,11 @@ From {{etyl|ang|en}} {{term|ceallian||lang=ang}}; see also [[Old Norse]] {{term|
 * French: {{t+|fr|appeler}}
 * German: {{t+|de|nennen}}
 * Greek: {{t+|el|καλώ|sc=Grek}}
-* Hebrew: {{t|he|לקרוא|tr=liqro}}
-* Icelandic: {{t|is|kalla}}
+* Hebrew: {{t|he|לקרוא|tr=liqro|sc=Hebr}}
+* Icelandic: {{t+|is|kalla}}
 * Japanese: {{t-|ja|呼ぶ|sc=Jpan}}, {{t-|ja|よぶ|tr=yobu|sc=Jpan}}
 {{trans-mid}}
-* Korean: {{t|ko|부르다|tr=bureuda}}
+* Korean: {{t+|ko|부르다|tr=bureuda|sc=Hang}}
 * Polish: {{t+|pl|nazywać}}
 * Portuguese: {{t+|pt|chamar}}
 * Romanian: {{t+|ro|vizita}}
@@ -385,9 +385,9 @@ From {{etyl|ang|en}} {{term|ceallian||lang=ang}}; see also [[Old Norse]] {{term|
 * Armenian: {{t|hy|անվանվել|tr=anvanvel|sc=Armn|xs=Armenian}}, {{t|hy|կոչվել|tr=kočvel|sc=Armn|xs=Armenian}}
 * Finnish: {{t+|fi|kutsua}}
 * German: {{t+|de|heißen}}
-* Hebrew: {{t|he|להיקרא|tr=le'hiqara}}
+* Hebrew: {{t|he|להיקרא|tr=le'hiqara|sc=Hebr}}
 * Hungarian: {{t+|hu|hív}}, {{t+|hu|nevez}}
-* Korean: {{t|ko|불리다|tr=bullida}}
+* Korean: {{t-|ko|불리다|tr=bullida|sc=Hang}}
 {{trans-mid}}
 * Polish: [[nazywać]] [[się]]
 * Romanian: {{t+|ro|numi}}
