@@ -21,11 +21,11 @@ From '''[[villa]]''', i.e., a place of villas
 * [[Ainu]]: [[コタン]] (kotan)
 * Albanian: [[fshat]] {{m}}, [[katund]] {{m}}
 * [[Aleut]]: {{tø|ale|a-nit|xs=Aleut}}
-* Arabic: {{t|ar|قرية|f|tr=qárya|sc=Arab}}
+* Arabic: {{t+|ar|قرية|f|tr=qárya|sc=Arab}}
 * Armenian: [[գյուղ]] (gyuġ),  {{t-|hy|շեն|tr=šen|sc=Armn|xs=Armenian}}
 * [[Azeri]]: {{t+|az|kənd|xs=Azeri}}
 * {{trreq|Basque}}
-* Belarusian: {{t|be|весь|f|tr=ves'|sc=Cyrl}}, {{t|be|вёска|f|tr=vjóska|sc=Cyrl}}
+* Belarusian: {{t-|be|весь|f|tr=ves'|sc=Cyrl|xs=Belarusian}}, {{t|be|вёска|f|tr=vjóska|sc=Cyrl|xs=Belarusian}}
 * {{trreq|Bengali}}
 * Bosnian: {{t-|bs|selo|n}}
 * {{trreq|Breton}}
@@ -35,7 +35,7 @@ From '''[[villa]]''', i.e., a place of villas
 * [[Chamicuro]]: {{tø|ccc|chi'nashtalichi}}
 * Chinese:
 *: CJKV Characters: [[堡]]; [[村]]
-*: Mandarin: {{t|zh|村|tr=cūn|sc=Hani}},  {{t|zh|鄉村|sc=Hani}},  {{t|zh|乡村|tr=xiāngcūn|sc=Hani}},  {{t|zh|農村|sc=Hani}},  {{t|zh|农村|tr=nóngcūn|sc=Hani}},  {{t|zh|村子|tr=cūnzi|sc=Hani}}
+*: Mandarin: {{t-|cmn|村|tr=cūn|sc=Hani|xs=Mandarin}},  {{t-|cmn|鄉村|sc=Hani|xs=Mandarin}},  {{t-|cmn|乡村|tr=xiāngcūn|sc=Hani|xs=Mandarin}},  {{t-|cmn|農村|sc=Hani|xs=Mandarin}},  {{t-|cmn|农村|tr=nóngcūn|sc=Hani|xs=Mandarin}},  {{t-|cmn|村子|tr=cūnzi|sc=Hani|xs=Mandarin}}
 * Croatian: {{t+|hr|selo|n}}
 * Czech: [[vesnice]] {{f}}, [[ves]] {{f}}, [[dědina]] {{f}}
 * Danish: {{t-|da|landsby|c}}, {{t-|da|by|c}}
@@ -53,7 +53,7 @@ From '''[[villa]]''', i.e., a place of villas
 * [[Ido]]: [[vilajo]]
 * Irish: {{t+|ga|sráidbhaile|m|xs=Irish}}
 * Italian: {{t+|it|villaggio|m}}, {{t+|it|borgo|m}}
-* Japanese: {{t+|ja|村|sc=Jpan}}, {{t+|ja|むら|tr=mura|sc=Jpan}},  {{t|ja|田舎|tr=いなか, inaka|sc=Jpan}} (''country'')
+* Japanese: {{t+|ja|村|sc=Jpan}}, {{t+|ja|むら|tr=mura|sc=Jpan}},  {{t+|ja|田舎|tr=いなか, inaka|sc=Jpan}} (''country'')
 * [[Kannada]]: (grama)
 * [[Khmer]]: {{Khmr|[[ភូមិ]]}} (pūm)
 {{trans-mid}}
@@ -67,8 +67,8 @@ From '''[[villa]]''', i.e., a place of villas
 * Maori: [[kāinga]]
 * [[Northern Sami]]: [[gilli]], [[girkogilli]], [[márkan]]
 * Norwegian: {{t+|no|landsby}}
-* [[Occitan]]: {{t+|oc|vilatge}}
-* Persian: {{t|fa|روستا.  ده|tr=rustā.  deh|sc=fa-Arab}}
+* [[Occitan]]: {{t+|oc|vilatge|xs=Occitan}}
+* Persian: {{t|fa|روستا.  ده|tr=rustā.  deh|sc=fa-Arab|xs=Persian}}
 * Polish: {{t+|pl|wieś|f}},  {{t|pl|wioska|f}}
 * Portuguese: {{t+|pt|aldeia|f}}
 * Romanian: {{t+|ro|sat|n}}
@@ -90,7 +90,7 @@ From '''[[villa]]''', i.e., a place of villas
 * Thai: {{Thai|[[หมู่บ้าน]]}} (mòo bâan)
 * Tongan: [[kolo]]
 * Turkish: {{t+|tr|köy}}, {{t+|tr|nahiye}}
-* Ukrainian: {{t|uk|село|n|tr=seló|sc=Cyrl}}
+* Ukrainian: {{t+|uk|село|n|tr=seló|sc=Cyrl|xs=Ukrainian}}
 * {{trreq|Vietnamese}}
 * [[Volapük]]: {{t-|vo|vilag|xs=Volapük}}
 * Welsh: [[llan]] {{f}}, [[pentref]] {{m}}
