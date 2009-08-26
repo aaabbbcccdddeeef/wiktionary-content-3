@@ -53,8 +53,8 @@
 * [[Archi]]: {{tø|aqc|хъанч|sc=Cyrl}}
 * Armenian: {{t-|hy|խաչ|tr=xač|sc=Armn|xs=Armenian}}
 *: Old Armenian: {{tø|xcl|խաչ|tr=xačʿ|sc=Armn|xs=Old Armenian}}
-* [[Avar]]: {{t|av|хъанч|sc=Cyrl|xs=Avar}}
-* [[Azeri]]: {{t|az|xaç|xs=Azeri}}
+* [[Avar]]: {{t-|av|хъанч|sc=Cyrl|xs=Avar}}
+* [[Azeri]]: {{t-|az|xaç|xs=Azeri}}
 * [[Bavarian]]: {{tø|bar|Greiz}}
 * Bosnian: {{t-|bs|krst|m}}
 * [[Catalan]]: [[creu]] {{f}}
@@ -73,24 +73,24 @@
 * Italian: {{t+|it|croce|f}}
 {{trans-mid}}
 * [[Karachay-Balkar]]: {{tø|krc|къач|sc=Cyrl}}
-* Kurdish: {{t|ku|xaç|sc=Latn}}, {{t|ku|خاچ|sc=ku-Arab|tr=xač}}
+* Kurdish: {{t+|ku|xaç|sc=Latn}}, {{t-|ku|خاچ|tr=xač|sc=ku-Arab}}
 * Latin: {{t-|la|crux|f}}
 * Latvian: [[krusts]] {{n}}
 * [[Macedonian]]: {{t-|mk|крст|m|tr=k'rst|sc=Cyrl|xs=Macedonian}}
 * [[Malayalam]]: [[കുരിശ്]] (kuriSu)
 * Norwegian: {{t-|no|kryss|n}}
 * Old English: {{t-|ang|cruc|alt=crūċ|xs=Old English}}
-* Persian: {{t|fa|خاج|tr=khāj|sc=fa-Arab|xs=Persian}}
+* Persian: {{t-|fa|خاج|tr=khāj|sc=fa-Arab|xs=Persian}}
 * Polish: {{t+|pl|krzyż|m}}
 * Portuguese: {{t+|pt|cruz|f}}
 * Russian: {{t+|ru|крест|m|tr=kr'est|sc=Cyrl}}
 * [[Scottish Gaelic]]: [[crois]]
 * Spanish: {{t+|es|cruz|f}}
-* Swahili: {{t|sw|msalaba|xs=Swahili}}
+* Swahili: {{t+|sw|msalaba|xs=Swahili}}
 * Swedish: {{t+|sv|kors|n}}, {{t+|sv|kryss|n}}
 * [[Tatar]]: {{t+|tt|хач|sc=Cyrl|xs=Tatar}}
 * [[Telugu]]: {{t|te|శిలువ|sc=Telu}} (Siluva)
-* Turkish: {{t|tr|haç}}
+* Turkish: {{t+|tr|haç}}
 * [[Udi]]: {{tø|udi|хач}}
 * Ukrainian: [[хрест]] {{m}}
 {{trans-bottom}}
@@ -125,7 +125,7 @@
 * Dutch: {{t+|nl|kruis|n}}
 * Finnish: {{t+|fi|risti}}, {{t-|fi|ristinpuu}}
 * French: {{t+|fr|croix|f}}
-* Georgian: {{t|ka|ჯვარი|sc=Geor}}
+* Georgian: {{t-|ka|ჯვარი|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Kreuz|n}}
 * Greek: {{t+|el|σταυρός|m|sc=Grek}}
 * Italian: {{t+|it|croce|f}}
@@ -138,7 +138,7 @@
 * Old English: {{t-|ang|cruc|alt=crūċ|xs=Old English}}, {{t+|ang|rod|alt=rōd|xs=Old English}}
 * Polish: {{t+|pl|krzyż|m}}
 * Portuguese: {{t+|pt|cruz|f}}
-* Swahili: {{t|sw|msalaba|xs=Swahili}}
+* Swahili: {{t+|sw|msalaba|xs=Swahili}}
 * Swedish: {{t+|sv|kors|n}}
 * [[Telugu]]: {{t|te|శిలువ|sc=Telu}} (Siluva)
 * Ukrainian: [[хрест]], {{m}}
@@ -159,7 +159,7 @@
 * [[Meru]]: {{tø|mer|mutharaba}}
 * Old English: {{t+|ang|rod|alt=rōd|xs=Old English}}
 * Russian: {{t+|ru|крест|m|tr=kr'est|sc=Cyrl}}, {{t+|ru|распятие|n|tr=rasp'átije|sc=Cyrl}}
-* Swahili: {{t|sw|msalaba|xs=Swahili}}
+* Swahili: {{t+|sw|msalaba|xs=Swahili}}
 * Swedish: {{t+|sv|korset|n}}
 * Ukrainian: [[розп'яття]] {{f}}
 {{trans-bottom}}
@@ -176,7 +176,7 @@
 * [[Malayalam]]: [[കുരിശ്]] (kuriSu)
 * Polish: [[znak]] [[krzyż]]a {{m}}
 * Russian: [[крест]] (kr'est) {{m}}, [[крестное знамение]] (kr'éstnoje znám'enije) {{n}}
-* Swahili: {{t|sw|msalaba|xs=Swahili}}
+* Swahili: {{t+|sw|msalaba|xs=Swahili}}
 * Swedish: [[kors]] {{n}}, [[korstecken]] {{n}}
 * Ukrainian: [[хресне знамення]] {{n}}
 {{trans-bottom}}
@@ -246,13 +246,13 @@
 * Dutch: [[tegenwerkend]], [[tegenwerkende]]
 * Finnish: {{t-|fi|vastakkainen}}, {{t-|fi|käänteinen}}
 {{trans-mid}}
-* Swahili: {{t|sw|msalaba|xs=Swahili}}
+* Swahili: {{t+|sw|msalaba|xs=Swahili}}
 {{trans-bottom}}
 
 {{trans-top|angry, annoyed}}
 * Dutch: [[geërgerd]], [[geërgerde]]
 * Finnish: {{t+|fi|vihainen}}, {{t-|fi|ärtynyt}}
-* German: [[verärgert]]
+* German: {{t+|de|verärgert}}
 {{trans-mid}}
 * Italian: {{t+|it|irritato}}, {{t+|it|arrabbiato}}
 * Swahili: {{t|sw|misalaba|xs=Swahili}}
@@ -309,7 +309,7 @@
 * Chinese: {{zh-tsp|過|过|guò}}, {{zh-tsp|橫渡|横渡|héngdù}}, {{zh-zh-p|渡|dù}}
 * Czech: {{t-|cs|přecházet}}
 * Dutch: {{t+|nl|oversteken}}
-* Esperanto: {{t|eo|transiri}}
+* Esperanto: {{t-|eo|transiri|xs=Esperanto}}
 * Finnish: {{t+|fi|ylittää}} (''a narrow thing''), {{t+|fi|mennä}} {{t+|fi|yli}} (''a narrow thing''), {{t+|fi|mennä}} {{t-|fi|poikki}} (''e.g., a room'')
 * French: {{t+|fr|traverser}}
 * German: {{t+|de|kreuzen}}
@@ -318,7 +318,7 @@
 * Korean: [[건너다]] (geonneoda)
 * Kurdish: {{ku-Arab|[[په‌ڕاندن]]}}
 {{trans-mid}}
-* Latin: {{t|la|transire}}
+* Latin: {{t-|la|transire}}
 * [[Macedonian]]: {{t|mk|преминува|tr=premínuva|sc=Cyrl|xs=Macedonian}},  {{t|mk|преодува|tr=preóduva|sc=Cyrl|xs=Macedonian}},  {{t|mk|пресекува|tr=presékuva|sc=Cyrl|xs=Macedonian}}
 * [[Malayalam]]: [[കടക്കുക]] (katakkuka)
 * Norwegian: {{t|no|krysse}}
