@@ -15,10 +15,10 @@
 
 ====Translations====
 {{trans-top|punctuation mark indicating a pause longer than the comma}}
-* Arabic: {{t|ar|؛|sc=Arab}},  {{t|ar|فاصلة منقوطة|f|tr=faaSila manquuTa|sc=Arab}}
+* Arabic: {{t-|ar|؛|sc=Arab}},  {{t|ar|فاصلة منقوطة|f|tr=faaSila manquuTa|sc=Arab}}
 * Armenian: {{t-|hy|կետ-ստորակետ|tr=ket-storaket|sc=Armn|xs=Armenian}}
 * Chinese:
-*: Mandarin: {{t|zh|分號|sc=Hani}},  {{t|zh|分号|tr=fēnhào|sc=Hani}},  {{t|zh|；|sc=Hani}}
+*: Mandarin: {{t|cmn|分號|sc=Hani|xs=Mandarin}},  {{t|cmn|分号|tr=fēnhào|sc=Hani|xs=Mandarin}},  {{t-|cmn|；|sc=Hani|xs=Mandarin}}
 * Czech: {{t-|cs|středník|m}}
 * Dutch: {{t|nl|puntkomma|m|f|n}}
 * Estonian: {{t|et|semikoolon}}
@@ -29,13 +29,13 @@
 * Hebrew: {{t+|he|נקודה ופסיק|sc=Hebr}}
 * Hungarian: {{t-|hu|pontosvessző}}
 * Italian: {{t|it|punto e virgola}}
-* Japanese: {{t|ja|セミコロン|tr=semikoron|sc=Jpan}},  {{t|ja|；|sc=Jpan}}
+* Japanese: {{t|ja|セミコロン|tr=semikoron|sc=Jpan}},  {{t-|ja|；|sc=Jpan}}
 {{trans-mid}}
-* [[Kazakh]]: {{t|kk|нүктелі үтір|sc=Cyrl}}
+* [[Kazakh]]: {{t|kk|нүктелі үтір|sc=Cyrl|xs=Kazakh}}
 * [[Macedonian]]: {{t|mk|точка-запирка|f|tr=tóčka-zápirka|sc=Cyrl|xs=Macedonian}}
-* Norwegian: {{t|no|semikolon|c}}
-* [[Pashto]]: {{t|ps|؛|sc=ps-Arab}}
-* Persian: {{t|fa|؛|sc=fa-Arab}}
+* Norwegian: {{t-|no|semikolon|c}}
+* [[Pashto]]: {{t-|ps|؛|sc=ps-Arab|xs=Pashto}}
+* Persian: {{t-|fa|؛|sc=fa-Arab|xs=Persian}}
 * Polish: {{t+|pl|średnik|m}}
 * Portuguese: {{t|pt|ponto-e-vírgula}}
 * Romanian: {{t-|ro|punct şi virgulă}}
@@ -44,8 +44,8 @@
 * Slovene: {{t+|sl|podpičje|n}}
 * Spanish: {{t-|es|punto y coma|m}}
 * Swahili: {{t|sw|alama ya nuktamkato|xs=Swahili}}
-* Swedish: {{t|sv|semikolon|c}}
-* Urdu: {{t|ur|؛|sc=ur-Arab}}
+* Swedish: {{t+|sv|semikolon|c}}
+* Urdu: {{t-|ur|؛|sc=ur-Arab|xs=Urdu}}
 {{trans-bottom}}
 
 {{trans-top| The character '''[[;]]''' used in various ways in programming languages}}
