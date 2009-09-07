@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-Old Irish ''dubh'' "black" + ''linn'' "pond"
+{{etyl|sga}} ''dubh'' "black" + ''linn'' "pond"
 
 ===Pronunciation===
 *{{IPA|/ˈdʌblən/}}, {{SAMPA|/"dVbl@n/}}
@@ -32,7 +32,7 @@ Old Irish ''dubh'' "black" + ''linn'' "pond"
 * Korean: [[더블린]] (Deobeullin)
 * [[Macedonian]]: {{t|mk|Даблин|m|tr=Dáblin|sc=Cyrl|xs=Macedonian}}
 * Maltese: {{t-|mt|Dublin|xs=Maltese}}
-* Polish: {{t+|pl|Dublin}}
+* Polish: {{t+|pl|Dublin|m}}
 * Russian: {{t+|ru|Дублин|m|tr=Dublín|sc=Cyrl}}
 * Spanish: {{t+|es|Dublín}}
 * Swedish: {{t-|sv|Dublin}}
@@ -48,6 +48,7 @@ Old Irish ''dubh'' "black" + ''linn'' "pond"
 
 ===Proper noun===
 {{infl|nl|proper noun}}
+
 # [[#English|Dublin]]
 
 [[Category:nl:Capital cities]]
@@ -55,13 +56,41 @@ Old Irish ''dubh'' "black" + ''linn'' "pond"
 ----
 
 ==Estonian==
-===Proper noun===
-'''Dublin'''
 
-# Dublin
+===Proper noun===
+{{infl|et|proper noun}}
+
+# [[#English|Dublin]]
 
 [[Category:et:Cities]]
 [[Category:et:Capital cities]]
+----
+==Polish==
+
+===Pronunciation===
+* {{IPA|/ˈd̪ublin̪/|lang=pl}}
+
+===Noun===
+{{infl|pl|noun|g=m}}
+
+# [[#English|Dublin]]
+
+====Declension====
+{{pl-decl-noun-sing
+|Dublin
+|Dublinu
+|Dublinowi
+|Dublin
+|Dublinem
+|Dublinie
+|Dublinie
+}}
+
+====Derived terms====
+*[[dublińczyk]] {{m}}, [[dublinianka]] {{f}}
+*adjective: [[dubliński]]
+
+[[Category:pl:Cities]]
 
 [[de:Dublin]]
 [[el:Dublin]]
