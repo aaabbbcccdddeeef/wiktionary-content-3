@@ -163,12 +163,13 @@ Homer, Odyssey, 16.15: ''kusse de min kephalen...'' "he kissed his forehead"; Ar
 ====Translations====
 {{trans-top|touch with the lips}}
 * Albanian: {{t-|sq|puthje|f|xs=Albanian}}
-* Arabic: {{Arab|[[قبلة|قُبلة]]}} (qúbla) {{f}}, {{Arab|[[بوسة]]}} (báusa, būsa) {{f}}
+* Arabic: {{t|ar|قبلة|f|tr=qúbla|sc=Arab}}, {{t|ar|بوسة|f|tr=báusa, buusa|sc=Arab}}
 * Armenian: [[համբույր]] (hambuyr)
 * [[Aromanian]]: [[baş]] {{n}}
 * [[Basque]]: [[pot]], [[pa]]
 * [[Catalan]]: [[bes]] {{m}}
-* Chinese: [[吻]] (wěn)
+* Chinese:
+*: Mandarin: {{t|zh|吻|tr=wěn|sc=Hani}}, {{t|zh|親|sc=Hani}}, {{t|zh|亲|tr=qīn|sc=Hani}}
 * Croatian: {{t-|hr|poljubac|m|alt=pòljubac}}
 * Czech: {{t+|cs|polibek|m}}
 * Danish: {{t+|da|kys}}
@@ -191,9 +192,9 @@ Homer, Odyssey, 16.15: ''kusse de min kephalen...'' "he kissed his forehead"; Ar
 * Irish: {{t+|ga|póg|f|xs=Irish}}
 * [[Isthmus Zapotec]]: [[bixiduʼ]]
 * Italian: {{t-|it|bacio|m}}
-* Japanese: {{t+|ja|キス|tr=kisu|sc=Jpan}}, {{t|ja|接吻|tr=せっぷん, seppun|sc=Jpan}}, {{t|ja|口付け|tr=くちづけ, kuchizuke|sc=Jpan}}
 {{trans-mid}}
-* Korean: [[입맞춤]] (ip-matchum), [[키스]] (kiseu)
+* Japanese: {{t+|ja|キス|tr=kisu|sc=Jpan}}, {{t|ja|接吻|tr=せっぷん, seppun|sc=Jpan}}, {{t|ja|口付け|tr=くちづけ, kuchizuke|sc=Jpan}}
+* Korean: {{t|ko|입맞춤|tr=ip-matchum|sc=Kore}}, {{t|ko|키스|tr=kiseu|sc=Kore}}
 * Kurdish:
 *: Kurmanji: [[maç]], [[ramûsan]], [[paç]], [[bûse]]
 *: Sorani: {{t-|ku|ماچ|tr=mâch|sc=ku-Arab}}
@@ -212,7 +213,7 @@ Homer, Odyssey, 16.15: ''kusse de min kephalen...'' "he kissed his forehead"; Ar
 * [[Rohingya]]: [[cum]]
 * [[Romani]]: [[chumi]]
 * Romanian: {{t-|ro|sărut|n}}, {{t-|ro|pupic|n}}
-* Russian: {{t+|ru|поцелуй|m|tr=potselúj|sc=Cyrl}}
+* Russian: {{t+|ru|поцелуй|m|tr=pocelúj|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|pòg|f|xs=Scottish Gaelic}}
 * Serbian: [[пољубац]]/[[poljubac]] {{m}}
 * Slovene: {{t+|sl|poljub|m}}
@@ -226,7 +227,7 @@ Homer, Odyssey, 16.15: ''kusse de min kephalen...'' "he kissed his forehead"; Ar
 {{trans-top|candy or sweet}}
 * Norwegian: {{t|no|pikekyss|n}}
 {{trans-mid}}
-* Russian: {{t|ru|безе|n|sc=Cyrl}}
+* Russian: {{t|ru|безе|n|bezé|sc=Cyrl}} {{indeclinable}}
 {{trans-bottom}}
 
 [[Category:1000 English basic words]]
