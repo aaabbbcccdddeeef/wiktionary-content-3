@@ -1,17 +1,19 @@
 ==English==
+
 ===Etymology===
 [[word]] + [[net]]
+
 ===Noun===
 {{en-noun}}
 
-#{{context|Artificial intelligence|linguistics}} A [[semantically]] structured [[lexical]] database.
+# {{context|Artificial intelligence|linguistics}} A [[semantically]] structured [[lexical]] database.
 #: WordNet is the prototype of many '''wordnets''' for European and other languages.
-#*'''2003''', Cvetana Krstev, "Corpora Issues in Validation of Serbian Wordnet", in Václav Matoušek, Pavel Mautner, eds., ''Text, Speech and Dialogue: 6th International Conference, TSD 2003, České'', page 133
-#*:Bilingual corpora can be used for synset validation in a more fruitful way, especially having in mind the request that all synsets from a '''wordnet''' for a language other than English have to be associated, if possible, with an English synset using ILI.
-#*'''2004''', Helge Dyvik, "Translations as Semantic Mirrors: from parallel corpus to wordnet", in Karin Aijmer, Bengt Altenberg, eds., ''Advances in Corpus Linguistics: Papers from the 23rd International'', page 312
-#*:(if a document mentions dogs, a '''wordnet''' allows the inference it is about animals)
-#*'''2006''', Paul Buitelaar ''et al''., "Domain-Specific WSD", in Eneko Agirre, Philip Edmonds, eds., ''Word Sense Disambiguation: Algorithms And Applications'', page 290
-#*:This trimmed '''wordnet''' was used in a cross-retrieval test environment and compared with the generic '''wordnet''' and no '''wordnet'''.
+#* '''2003''', Cvetana Krstev, "Corpora Issues in Validation of Serbian Wordnet", in Václav Matoušek, Pavel Mautner, eds., ''Text, Speech and Dialogue: 6th International Conference, TSD 2003, České'', page 133
+#*: Bilingual corpora can be used for synset validation in a more fruitful way, especially having in mind the request that all synsets from a '''wordnet''' for a language other than English have to be associated, if possible, with an English synset using ILI.
+#* '''2004''', Helge Dyvik, "Translations as Semantic Mirrors: from parallel corpus to wordnet", in Karin Aijmer, Bengt Altenberg, eds., ''Advances in Corpus Linguistics: Papers from the 23rd International'', page 312
+#*: (if a document mentions dogs, a '''wordnet''' allows the inference it is about animals)
+#* '''2006''', Paul Buitelaar ''et al''., "Domain-Specific WSD", in Eneko Agirre, Philip Edmonds, eds., ''Word Sense Disambiguation: Algorithms And Applications'', page 290
+#*: This trimmed '''wordnet''' was used in a cross-retrieval test environment and compared with the generic '''wordnet''' and no '''wordnet'''.
 
-===Related terms===
-*[[WordNet]]
+====Related terms====
+* [[WordNet]]
