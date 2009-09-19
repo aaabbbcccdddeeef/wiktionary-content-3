@@ -1,20 +1,20 @@
 ==English==
 
 ===Etymology===
-Ultimately from ''[[dudde]]'' (ragged clothing''), of uncertain origin beyond that.
+Ultimately from {{term|dudde||ragged clothing}}, of uncertain origin beyond that.
 
 ===Pronunciation===
 * {{enPR|dŭd}}, {{IPA|/dʌd/}}, {{SAMPA|/dVd/}}
-*: {{rhymes|ʌd}}
+* {{rhymes|ʌd}}
 
 ===Noun===
-'''dud''' (''plural:'' [[duds]])
+{{en-noun}}
 
-# A broken or nonfunctional device that does not perform its intended function, such as a [[bomb]].
+# A [[broken]] or [[nonfunctional]] [[device]] that does not [[perform]] its intended function, such as a [[bomb]].
 # {{obsolete}} Clothes, now always used in plural form [[duds]].
 
 ====Translations====
-{{trans-top|a broken or nonfunctional device that does not perform its intended function}}
+{{trans-top|broken or nonfunctional device that does not perform its intended function}}
 * Finnish: {{t+|fi|susi}}, {{t+|fi|suutari}}
 * French: {{t|fr|fausse alerte}}
 * German: [[Blindgänger]] {{m}}
@@ -22,9 +22,7 @@ Ultimately from ''[[dudde]]'' (ragged clothing''), of uncertain origin beyond th
 * Russian: {{t-|ru|невзрывающийся|tr=nevzryvájuščijsja|sc=Cyrl}}, {{t+|ru|неисправный|tr=neisprávnyj|sc=Cyrl}}
 {{trans-bottom}}
 
-{{trans-top|''(obsolete)'' clothes, now always used in plural form (duds)}}
-{{trans-mid}}
-{{trans-bottom}}
+{{trans-see|obsolete: clothes|duds}}
 
 [[Category:English palindromes]]
 
@@ -33,7 +31,7 @@ Ultimately from ''[[dudde]]'' (ragged clothing''), of uncertain origin beyond th
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|ota|sh}} {{term|طوت|tr=tut, dut|sc=ota-Arab|lang=ota}} < {{etyl|fa|sh}} {{term|توت|tr=tut|sc=fa-Arab|lang=fa}} < possibly from {{etyl|arc|sh}} {{term|ܬܘܬܐ}}/{{term|תותא||sc=Hebr|tr=tuta|lang=arc}}. Otherwise, Aramaic may be derived from Persian.
+From {{etyl|ota|sh}} {{term|طوت|tr=tut, dut|sc=ota-Arab|lang=ota}}, from {{etyl|fa|sh}} {{term|توت|tr=tut|sc=fa-Arab|lang=fa}}, possibly from {{etyl|arc|sh}} {{term|ܬܘܬܐ|lang=arc}}/{{term|תותא||sc=Hebr|tr=tuta|lang=arc}}. Otherwise, Aramaic may be derived from Persian.
 
 ===Noun===
 {{infl|sh|noun|g=m|plural|dudovi|Cyrillic spelling:|{{l|sh|дуд}}}}
@@ -53,6 +51,8 @@ From {{etyl|ota|sh}} {{term|طوت|tr=tut, dut|sc=ota-Arab|lang=ota}} < {{etyl|f
 
 ====Synonyms====
 * {{l|sh|murva}}
+
+[[Category:Serbo-Croatian palindromes]]
 
 [[it:dud]]
 [[hu:dud]]
