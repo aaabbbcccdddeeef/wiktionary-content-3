@@ -1,26 +1,18 @@
-{{wikipedia|Bus}}
 {{also|Bus|buss|bús}}
 ==English==
+{{wikipedia|Bus}}
 
-===Etymology 1===
-
-====Pronunciation====
-* [[biz]]
-
-===={{abbreviation}}====
-'''bus.'''
-
-# [[business]]
-
-===Etymology 2===
+===Etymology===
 Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for everything/all|lang=la}}; dative plural of {{term|omnis||all|lang=la}}.
 
-====Pronunciation====
+{{rfe|explain conductor sense}}
+
+===Pronunciation===
 * {{IPA|/ˈbʌs/}}, {{SAMPA|/bVs/}}
 * {{audio|en-us-bus.ogg|Audio (US)}}
-*: {{rhymes|ʌs}}
+* {{rhymes|ʌs}}
 
-====Noun====
+===Noun===
 [[Image:Kintetsu Bus 001 JPN.jpg|thumb|right|A bus<SUP>1</SUP>.]]
 {{en-noun|pl=buses|pl2=busses}}
 
@@ -28,7 +20,7 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 # An [[electrical]] [[conductor]] serving as a [[common]] [[connection]] for two or more [[circuit]]s.
 # {{context|medical industry|slang}} An [[ambulance]].
 
-=====Derived terms=====
+====Derived terms====
 {{rel-top|terms derived from ''bus (noun)''}}
 * [[booze bus]]
 * [[busbar]]
@@ -40,11 +32,11 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 * [[back end of a bus]]/[[look like the back end of a bus]]
 {{rel-bottom}}
 
-=====Synonyms=====
+====Synonyms====
 * {{sense|vehicle}} [[coach]], [[omnibus]]
 * {{sense|electrical conductor}} [[busbar]]
 
-=====Translations=====
+====Translations====
 {{trans-top|vehicle}}
 * [[Afrikaans]]: {{t-|af|bus|xs=Afrikaans}}
 * Albanian: {{t+|sq|autobus|xs=Albanian}}
@@ -73,7 +65,7 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 * Greek: {{t+|el|λεωφορείο|n|tr=leōforeío|sc=Grek}}
 * Hebrew: [[אוטובוס]] (ot'obus) {{m}}
 * Hungarian: {{t+|hu|autóbusz}}, {{t+|hu|busz}}
-* Icelandic: [[strætisvagn]] {{m}} (city transport), [[strætó]] {{m}} (''informal''; city transport), [[langferðabíll]] {{m}} (long distance), [[rúta]] {{f}} (''informal''; long distance)
+* Icelandic: [[strætisvagn]] {{m}} (city transport), [[strætó]] {{m}} {{qualifier|informal; city transport}}, [[langferðabíll]] {{m}} {{qualifier|long distance}}, [[rúta]] {{f}} {{qualifier|informal; long distance}}
 * [[Inari Sami]]: [[bussi]]
 * [[Interlingua]]: [[omnibus]], [[autobus]], bus
 * Italian: {{t+|it|autobus|m}}, {{t+|it|pullman|m}}, {{t+|it|corriera|f}}
@@ -81,7 +73,7 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 * Japanese: {{t+|ja|バス|tr=basu|sc=Jpan}}
 * [[Kamba]]: {{tø|kam|mbasi}}
 * [[Kikuyu]]: {{tø|ki|bathi}}
-* Korean: [[버스]] (beoseu, ''South Korea''), [[뻐스]] (ppoeseu, ''North Korea'')
+* Korean: [[버스]] (beoseu) {{qualifier|South Korea}}, [[뻐스]] (ppoeseu) {{qualifier|North Korea}}
 * Kurdish: {{t+|ku|پاس|sc=ku-Arab}}
 * Lao: {{Laoo|[[ລົດ]]}} (lod)
 * Latvian: [[autobuss]]
@@ -92,7 +84,7 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 * Maltese: [[karozza tal-linja]], [[tal-linja]], [[xarabank]]
 * [[Nahuatl]]: [[calmimilolli]]
 * Norwegian: {{t+|no|buss|m}}
-* Polish: [[autobus]] {{m}} ''(city transport)'', [[autokar]] {{m}}
+* Polish: [[autobus]] {{m}} {{qualifier|city transport}}, [[autokar]] {{m}}
 * Portuguese: {{t+|pt|ônibus|m}}, {{t+|pt|autocarro|m}}
 * Romanian: {{t-|ro|autobuz|n}}
 * Russian: {{t+|ru|автобус|m|tr=avtóbus|sc=Cyrl}}
@@ -122,37 +114,60 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 * Swahili: {{t+|sw|basi|xs=Swahili}}
 {{trans-bottom}}
 
+{{trans-top|ambulance}}
+{{trans-mid}}
+{{trans-bottom}}
+
 ====Verb====
 {{en-verb|'''[[busses]]''' or '''[[buses]]'''|'''[[bussing]]''' or '''[[busing]]'''|'''[[bussed]]''' or '''[[bused]]'''}}
 
 # {{transitive|automotive|transport}} To [[transport]] via a motor bus.
 # {{transitive|automotive|transport|especially|US}} To transport students to school, often to achieve racial integration.
 # {{intransitive|automotive|transport}} To [[travel]] by bus.
-# {{transitive|US|food service}} To clear meal remains from.
+# {{transitive|US|food service}} To [[clear]] meal [[remains]] from.
 #: ''He '''bused''' tables as the restaurant emptied out.''
 # {{intransitive|US|food service}} To work at clearing the remains of meals from tables or counters; to work as a [[busboy]].
-#: ''He's been '''busing''' for minimum wage.''
+#: ''He’s been '''busing''' for minimum wage.''
+
+====Usage notes====
+The Canadian Oxford Dictionary only presents the spellings {{term|buses}}, {{term|busing}}, and {{term|bused}}, implying that these are the predominant forms in Canada.
 
 =====Translations=====
-{{trans-top|to transport via a motor bus}}
+{{trans-top|transport via a motor bus}}
+* Dutch: {{t|nl|vervoeren}} {{t|nl|met}} {{t|nl|de}} {{t|nl|bus}}
 * Norwegian: {{t+|no|busse}}
 {{trans-mid}}
 {{trans-bottom}}
-{{trans-top|to transport students to school}}
+
+{{trans-top|transport students to school}}
+* Dutch: {{t|nl|vervoeren}} {{t|nl|met}} {{t|nl|de}} {{t|nl|bus}}
 * Norwegian: {{t+|no|busse}}
 {{trans-mid}}
 {{trans-bottom}}
-{{trans-top|to travel by bus}}
+
+{{trans-top|travel by bus}}
+* Dutch: {{t|nl|met}} {{t|nl|de}} {{t|nl|bus}} {{t|nl|reizen}}
 * Norwegian: {{t+|no|busse}} {{qualifier|rarely used}}
 {{trans-mid}}
 {{trans-bottom}}
 
-====Dictionary notes====
-The Canadian Oxford Dictionary only presents the spellings {{term|buses}}, {{term|busing}}, and {{term|bused}}, implying that these are the predominant forms in Canada.
+{{trans-top|clear meal remains from}}
+* Dutch: {{t|nl|afruimen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|work as a table clearer}}
+* Dutch: {{t|nl|afruimen}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ----
 
 ==Catalan==
+
+{{rfe|lang=ca}}
+
+{{rfp|lang=ca}}
 
 ===Noun===
 {{ca-noun|m|bussos}}
@@ -161,14 +176,13 @@ The Canadian Oxford Dictionary only presents the spellings {{term|buses}}, {{ter
 
 {{ca-noun|m|busos}}
 
-# [[#English|bus]] (vehicle; electrical conductor)
+# [[#English|bus]] {{gloss|vehicle; electrical conductor}}
 
 ----
 
 ==Danish==
 
 ===Etymology===
-
 Shortening of {{term|omnibus|lang=da}}, from {{etyl|fr|da}} {{term|omnibus|lang=fr}}, from {{etyl|la|da}} {{term|omnibus||for all|lang=la}}, dative plural of {{term|omnis||lang=la|all}}.
 
 ===Pronunciation===
@@ -180,26 +194,29 @@ Shortening of {{term|omnibus|lang=da}}, from {{etyl|fr|da}} {{term|omnibus|lang=
 # [[bus#English|bus]], [[coach]]
 
 ====Inflection====
-{{da-noun-infl|stem=buss|en|er||bus'}}
+{{da-noun-infl|stem=buss|en|er||bus’}}
 
 ----
 
 ==Dutch==
 {{wikipedia|lang=nl}}
 
+{{rfe|lang=nl}}
+
 ===Pronunciation===
+* {{IPA|/bʏs/|lang=nl}}
 * {{audio|Nl-bus.ogg|audio}}
 
 ===Noun===
-'''bus''' {{m}}
+{{nl-noun2|m|sen|je}}
 
-# {{transport|lang=nl}} [[#English|bus]], [[omnibus]]
+# {{transport|lang=nl}} [[#English|bus]], [[omnibus]] {{gloss|vehicle}}
+# [[#English|bus]] {{gloss|electrical conductor}}
 
 ====Derived terms====
 * [[busbaan]]
 * [[schoolbus]]
 
-[[Category:Dutch nouns]]
 [[Category:nl:Transportation]]
 
 ----
@@ -207,7 +224,7 @@ Shortening of {{term|omnibus|lang=da}}, from {{etyl|fr|da}} {{term|omnibus|lang=
 ==Filipino==
 
 ===Etymology===
-{{etyl|eng|fil}} {{term|bus|lang=eng}}
+From {{etyl|eng|fil}} {{term|bus|lang=eng}}.
 
 ===Pronunciation===
 * {{IPA|/bus/|lang=fil}}
@@ -215,7 +232,7 @@ Shortening of {{term|omnibus|lang=da}}, from {{etyl|fr|da}} {{term|omnibus|lang=
 ===Noun===
 {{infl|fil|noun}}
 
-# [[#English|bus]] (vehicle)
+# [[#English|bus]] {{gloss|vehicle}}
 
 ====Related terms====
 * [[sasakyan]]
@@ -226,27 +243,33 @@ Shortening of {{term|omnibus|lang=da}}, from {{etyl|fr|da}} {{term|omnibus|lang=
 
 ==French==
 
-===Pronunciation===
-'''Noun''':
+===Etymology 1===
+{{rfe|lang=fr}}
+
+====Pronunciation====
 * {{IPA|/bys/|lang=fr}}
 * {{homophones|busse|busses|bussent}}
-'''Verb form''':
-* {{IPA|/by/|lang=fr}}
-* {{homophones|bu|bue|bues|but|bût}}
 
-===Noun===
+====Noun====
 '''bus''' {{m}}
 
 # {{colloquial|lang=fr}} [[#English|bus]]
 
-====Synonyms====
+=====Synonyms=====
 * [[autobus]]
 
-===Verb form===
+===Etymology 2===
+Inflection.
+
+====Pronunciation====
+* {{IPA|/by/|lang=fr}}
+* {{homophones|bu|bue|bues|but|bût}}
+
+====Verb====
 '''bus'''
 
-# ''first-person singular indicative simple past of [[boire]]''
-# ''second-person singular indicative simple past of [[boire]]''
+# {{form of|first-person singular indicative simple past|boire|lang=fr}}
+# {{form of|second-person singular indicative simple past|boire|lang=fr}}
 
 [[Category:French nouns]]
 [[Category:French verb forms]]
@@ -254,6 +277,9 @@ Shortening of {{term|omnibus|lang=da}}, from {{etyl|fr|da}} {{term|omnibus|lang=
 ----
 
 ==Lithuanian==
+{{rfc|does this belong at [[bùs]]?}}
+
+{{rfe|lang=lt}}
 
 ===Pronunciation===
 * {{IPA|[bʊs]|lang=lt}}
@@ -271,19 +297,25 @@ Shortening of {{term|omnibus|lang=da}}, from {{etyl|fr|da}} {{term|omnibus|lang=
 ==Old Irish==
 
 ===Etymology===
-{{proto|Indo-European|beu-|to [[swell]], [[bulge]]|lang=sga}}.
+From {{proto|Indo-European|beu-|to [[swell]], [[bulge]]|lang=sga}}.
+
+{{rfp|lang=sga}}
 
 ===Noun===
 {{infl|sga|noun}}
 
-# [[lip]].
+# [[lip]]
+
+[[Category:sga:Anatomy]]
 
 ----
 
 ==Swedish==
 
 ===Etymology===
-From the verb {{term|busa#Swedish|busa|lang=sv|to do mischief}}
+From the verb {{term|busa||lang=sv|to do mischief}}.
+
+{{rfp|lang=sv}}
 
 ===Noun===
 '''bus''' {{n}} (''uncountable'')
@@ -299,7 +331,9 @@ From the verb {{term|busa#Swedish|busa|lang=sv|to do mischief}}
 ==[[Tok Pisin]]==
 
 ===Etymology===
-From {{etyl|en|tpi}} ''[[bush]]''
+From {{etyl|en|tpi}} {{term|bush}}.
+
+{{rfp|lang=tpi}}
 
 ===Noun===
 '''bus'''
@@ -310,7 +344,7 @@ From {{etyl|en|tpi}} ''[[bush]]''
 * [[bus kanaka]]
 
 [[Category:Tok Pisin nouns]]
-[[Category:sga:Anatomy]]
+
 [[cs:bus]]
 [[de:bus]]
 [[et:bus]]
