@@ -16,19 +16,34 @@ Abbreviation of {{term|video||lang=en}}, from {{etyl|la}} {{term|video|videō|I 
 
 ----
 
-==Croatian==
+==Serbo-Croatian==
 
 ===Etymology===
-From {{proto|Slavic|vidъ|lang=hr}}.
+From {{proto|Slavic|vidъ|lang=sh}}.
+
+===Pronunciation===
+* {{IPA|/ʋîːd/|lang=sh}}
 
 ===Noun===
-{{infl|hr|noun|g=m|head=vid}}
+{{sh-noun|g=m|head=vȋd|r|вид|ви̑д}}
 
 # [[eyesight]]
-# {{grammar|lang=hr}} [[aspect]]
+# {{grammar|lang=sh}} [[aspect]]
+# [[type]], [[kind]] (of, +genitive)
+
+====Declension====
+{{sh-decl-noun
+|vid|vídovi
+|vida|vidova
+|vidu|vidovima
+|vid|vidove
+|vide|vidovi
+|vidu|vidovima
+|vidom|vidovima
+}}
 
 ====Related terms====
-* {{l|hr|vidjeti|vȉdjeti}}
+* {{l|sh|vidjeti|vȉdjeti}} / {{l|sh|videti|vȉdeti}}
 
 ----
 
