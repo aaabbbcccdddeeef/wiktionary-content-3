@@ -35,23 +35,23 @@
 * [[Afrikaans]]: [[swartgat]]
 * Albanian: {{t-|sq|vrimë e zezë|f|xs=Albanian}}
 * Arabic: {{Arab|[[ثقب أسود]]}} {{m}}
-* Armenian: {{t|hy|սև խոռոչ|sc=Armn|tr=sev xoṙoč}}
-* [[Asturian]]: {{t|ast|furacu prietu|m}},  {{t|ast|fueyu prietu|m}}
-* [[Azeri]]: {{t|az|qara dəlik}},  {{t|az|qara çuxur}}
-* [[Basque]]: {{t|eu|zulo beltz}}
-* Bengali: {{t|bn|কৃষ্ণগহ্বর}}
-* Bosnian: [[crna rupa]] {{f}}
+* Armenian: {{t-|hy|սև խոռոչ|tr=sev xoṙoč|sc=Armn|xs=Armenian}}
+* [[Asturian]]: {{t|ast|furacu prietu|m|xs=Asturian}},  {{t|ast|fueyu prietu|m|xs=Asturian}}
+* [[Azeri]]: {{t|az|qara dəlik|xs=Azeri}},  {{t|az|qara çuxur|xs=Azeri}}
+* [[Basque]]: {{t-|eu|zulo beltz|xs=Basque}}
+* Bengali: {{t|bn|কৃষ্ণগহ্বর|sc=Beng|xs=Bengali}}
+* Bosnian: {{t-|bs|crna rupa|f}}
 * Bulgarian: [[черна дупка]] {{f}}
 * [[Catalan]]: [[forat negre]] {{m}}
 * Chinese:
 *: Cantonese: {{yue-yue-j|黑洞|hak1 dung6}}
 *: Mandarin: {{zh-zh-p|黑洞|hēi dòng}}
 *: [[Min Nan]]: [[o͘-khang]]
-* Croatian: [[crna rupa]] {{f}}
+* Croatian: {{t-|hr|crna rupa|f}}
 * Czech: {{t-|cs|černá díra|f}}
 * Danish: [[sort hul]]
 * Dutch: {{t+|nl|zwart gat|n}}
-* Esperanto: [[nigra truo]]
+* Esperanto: {{t-|eo|nigra truo|xs=Esperanto}}
 * Estonian: {{t-|et|must auk}}
 * Finnish: {{t-|fi|musta aukko}}
 * French: {{t+|fr|trou noir|m}}
@@ -60,8 +60,8 @@
 * German: {{t-|de|schwarzes Loch|n}}
 * Greek: {{t|el|μάυρη τρύπα|f|s|sc=Grek}}, {{t|el|μελανή οπή|f|s|sc=Grek}}
 * Hebrew: {{t+|he|חור שחור|m|sc=Hebr}}
-* Hindi: {{t|hi|काल कोठरी|sc=Deva}}
-* Hungarian: {{t|hu|fekete lyuk}}
+* Hindi: {{t-|hi|काल कोठरी|sc=Deva|xs=Hindi}}
+* Hungarian: {{t-|hu|fekete lyuk}}
 * Icelandic: {{t+|is|svarthol}}
 * [[Ido]]: [[nigra truo]]
 * Indonesian: [[lubang hitam]]
@@ -69,31 +69,31 @@
 * Italian: {{t-|it|buco nero|m}}
 {{trans-mid}}
 * Japanese: {{t+|ja|ブラックホール|tr=burakkuhōru|sc=Jpan}}
-* Korean: {{t|ko|블랙홀|tr=beul-laekhol}}
+* Korean: {{t+|ko|블랙홀|tr=beul-laekhol|sc=Hang}}
 * Latin: [[gurges ater]] {{m}}
 * Latvian: [[melnais caurums]]
 * Lithuanian: {{t-|lt|juodoji skylė|f|xs=Lithuanian}}
 * [[Lombard]]: [[büüs negru]]
 * Malay: [[lohong hitam]]
 * [[Malayalam]]: [[തമോദ്വാരം]]
-* Maltese: [[toqba sewda]] {{f}}
-* [[Marathi]]: {{t|mr|कृष्णविवर|sc=Deva}}
+* Maltese: {{t-|mt|toqba sewda|f|xs=Maltese}}
+* [[Marathi]]: {{t|mr|कृष्णविवर|sc=Deva|xs=Marathi}}
 * Norwegian:
-*: Bokmål: {{t-|nb|svart hull}}, {{t-|nb|sort hull}}
-*: Nynorsk: {{t|nn|svart hòl}}
-* Persian: {{fa-Arab|[[سیاهچاله]]}},  {{t|fa|سیاه‌چاله فضایی|sc=fa-Arab}}
+*: Bokmål: {{t-|no|svart hull}}, {{t-|no|sort hull}}
+*: Nynorsk: {{t|nn|svart hòl|xs=Norwegian Nynorsk}}
+* Persian: {{fa-Arab|[[سیاهچاله]]}},  {{t-|fa|سیاه‌چاله فضایی|sc=fa-Arab|xs=Persian}}
 * Polish: {{t+|pl|czarna dziura|f}}
-* Portuguese: [[buraco negro]] {{m}}
-* Romanian: [[gaură neagră]] {{f}}
+* Portuguese: {{t-|pt|buraco negro|m}}
+* Romanian: {{t-|ro|gaură neagră|f}}
 * Russian: {{t+|ru|чёрная дыра|f|tr=čórnaja dyrá|sc=Cyrl}}
 * [[Samogitian]]: {{tø|bat-smg|jouduojė skīlie|f}}
 * Serbian: [[црна рупа]] ([[crna rupa]]) {{f}}
 * Serbo-Croatian:
-*: Arebica: {{t|sh|ڄرنآ رۆپآ|sc=Arab|f}}
-*: Cyrillic: {{t|sh|црна рупа|sc=Cyrl|f}}
-*: Roman: {{t|sh|crna rupa|f}}
+*: Arebica: {{tø|sh|ڄرنآ رۆپآ|f|sc=Arab|xs=Serbo-Croatian}}
+*: Cyrillic: {{tø|sh|црна рупа|f|sc=Cyrl|xs=Serbo-Croatian}}
+*: Roman: {{tø|sh|crna rupa|f|xs=Serbo-Croatian}}
 * [[Sicilian]]: [[purtùsu nìuru]] {{m}}
-* Slovak: {{t|sk|čierna diera|f}}
+* Slovak: {{t-|sk|čierna diera|f}}
 * Slovene: {{t-|sl|črna luknja|f}}
 * Spanish: {{t+|es|agujero negro|m}},  {{t|es|hoyo negro|m}}
 * Swedish: {{t+|sv|svart hål|n}}
@@ -103,7 +103,7 @@
 * Ukrainian: [[чорна діра]] (čórna dirá) {{f}}
 * Urdu: {{ur-Arab|[[ثقب اسود]]}}
 * Vietnamese: {{t-|vi|hố đen|xs=Vietnamese}}
-* Yiddish: {{t|yi|שווארצע לאך|sc=yi-Hebr}}
+* Yiddish: {{t|yi|שווארצע לאך|sc=yi-Hebr|xs=Yiddish}}
 {{trans-bottom}}
 
 ====See also====
