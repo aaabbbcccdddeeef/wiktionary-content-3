@@ -58,8 +58,8 @@ From {{etyl|ang}} {{term|libban||lang=ang}}, {{term|lifian||to live|lang=ang}}
 * [[Afrikaans]]: {{t-|af|leef|xs=Afrikaans}}
 * Albanian: {{t-|sq|jeton|xs=Albanian}}
 * Arabic: {{Arab|[[عاش]]}} (ʻāša), {{Arab|[[سكن]]}} (sákana)
-* Armenian: {{t+|hy|ապրել|tr=aprel|sc=Armn|xs=Armenian}}
-** Old Armenian: {{t-|hy|կեամ|tr=keam|sc=Armn|xs=Armenian}}
+* Armenian: {{t+|hy|ապրել|tr=aprel|xs=Armenian}}
+** Old Armenian: {{t-|hy|կեամ|tr=keam|xs=Armenian}}
 * [[Breton]]: [[beva]]
 * [[Catalan]]: {{t+|ca|viure}}
 * Chinese: [[住]] (zhù), [[生活]] (shēnghuó)
@@ -72,7 +72,7 @@ From {{etyl|ang}} {{term|libban||lang=ang}}, {{term|lifian||to live|lang=ang}}
 * Filipino: [[mabuhay]]
 * Finnish: {{t+|fi|elää}}
 * French: {{t+|fr|vivre}}
-* [[Galician]]: {{t|gl|vivir}}
+* [[Galician]]: {{t-|gl|vivir|xs=Galician}}
 * German: {{t+|de|leben}}
 * Greek: [[ζω]] (zo), [[βιώνω]] (vióno)
 * Hungarian: {{t+|hu|él}}
@@ -91,7 +91,7 @@ From {{etyl|ang}} {{term|libban||lang=ang}}, {{term|lifian||to live|lang=ang}}
 * Polish: {{t+|pl|żyć}}
 * Portuguese: {{t+|pt|viver}}
 * Romanian: {{t+|ro|trăi}}
-* [[Romansch]]: {{t|rm|viver}}
+* [[Romansch]]: {{t-|rm|viver|xs=Romansch}}
 * Russian: {{t+|ru|жить|tr=žit’|sc=Cyrl}}
 * [[Scots]]: {{tø|sco|leeve|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|beò|xs=Scottish Gaelic}}
@@ -109,7 +109,7 @@ From {{etyl|ang}} {{term|libban||lang=ang}}, {{term|lifian||to live|lang=ang}}
 {{trans-top|have permanent residence}}
 * [[Afrikaans]]: {{t-|af|woon|xs=Afrikaans}}
 * Arabic: {{Arab|[[عاش]]}} (ʻāša), {{Arab|[[سكن]]}} (sákana)
-* Armenian: {{t+|hy|ապրել|tr=aprel|sc=Armn|xs=Armenian}}
+* Armenian: {{t+|hy|ապրել|tr=aprel|xs=Armenian}}
 * [[Catalan]]: [[viure]]
 * Chinese: [[居住]] (jūzhù), [[住]] (zhù)
 * Czech: {{t+|cs|žít}}
@@ -143,14 +143,14 @@ From {{etyl|ang}} {{term|libban||lang=ang}}, {{term|lifian||to live|lang=ang}}
 * Swahili: {{t+|sw|ishi|xs=Swahili}}
 * Swedish: {{t+|sv|bo}}
 * Turkish: {{t|tr|yaşamak}}
-* Welsh: {{t+|cy|byw}}
-* Yiddish: {{t-|yi|וווינען|tr=voynen|sc=Hebr|xs=Yiddish}}
+* Welsh: {{t+|cy|byw|xs=Welsh}}
+* Yiddish: {{t-|yi|וווינען|tr=voynen|xs=Yiddish}}
 {{trans-bottom}}
 
 {{trans-top|survive, persevere}}
 * [[Afrikaans]]: {{t|af|oorleef|xs=Afrikaans}}
-* Armenian: {{t+|hy|ապրել|tr=aprel|sc=Armn|xs=Armenian}}
-* [[Catalan]]: {{t|ca|viure}}
+* Armenian: {{t+|hy|ապրել|tr=aprel|xs=Armenian}}
+* [[Catalan]]: {{t+|ca|viure}}
 * Czech: {{t+|cs|žít}}
 * Danish: {{t-|da|overleve}}
 * Dutch: [[verderleven]], [[overleven]], [[voortbestaan]]
@@ -314,9 +314,9 @@ See [[alive]]
 * Slovak: [[v priamom prenose]], [[naživo]]
 * Slovene: [[v živo]]
 * Swahili: {{t+|sw|ishi|xs=Swahili}}
-* Thai: {{t+|th|สด|xs=Thai}}
+* Thai: {{t+|th|สด}}
 * Turkish: {{t|tr|canlı}}
-* Ukrainian: {{t|uk|наживо|tr=nažyvo}}
+* Ukrainian: {{t|uk|наживо|tr=nažyvo|xs=Ukrainian}}
 {{trans-bottom}}
 
 ===External links===
