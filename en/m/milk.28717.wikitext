@@ -65,9 +65,9 @@ From {{etyl|ang|en}} {{term|meolc|lang=ang}}; compare Danish {{term|mælk}}, Dut
 * Aramaic:
 *: Syriac: {{tø|arc|ܚܠܒܐ|m|tr=ħalbā’|sc=Syrc}}
 *: Hebrew: {{tø|arc|חלבא|m|tr=ħalbā’|sc=Hebr}}
-* Armenian: {{t+|hy|կաթ|tr=kat’|sc=Armn|xs=Armenian}}
+* Armenian: {{t+|hy|կաթ|tr=kat’|xs=Armenian}}
 * [[Asturian]]: {{t+|ast|lleche|m|f|xs=Asturian}}
-* [[Azeri]]: {{t|az|süd|xs=Azeri}}
+* [[Azeri]]: {{t+|az|süd|xs=Azeri}}
 * [[Basque]]: {{t-|eu|esne|xs=Basque}}
 * Bengali: {{t-|bn|দুধ|sc=Beng|xs=Bengali}}
 * [[Breton]]: {{t+|br|laezh|m|xs=Breton}}
@@ -77,9 +77,9 @@ From {{etyl|ang|en}} {{term|meolc|lang=ang}}; compare Danish {{term|mælk}}, Dut
 * [[Chamicuro]]: {{tø|ccc|tensa}}
 * Cherokee: {{t-|chr|ᎤᏅᏗ|tr=unvdi|sc=Cher|xs=Cherokee}}
 * Chinese:
-*: Cantonese: {{t-|cmn|奶|tr=naai5|sc=Hans|xs=Mandarin}}
-*: Mandarin: {{t-|cmn|奶|tr=nǎi|sc=Hans|xs=Mandarin}}, {{t-|cmn|牛奶|tr=niúnăi|sc=Hans|xs=Mandarin}}
-*: [[Min Nan]]: {{t-|cmn|leng|xs=Mandarin}}; {{t-|cmn|ni|xs=Mandarin}}
+*: Cantonese: {{t-|cmn|奶|tr=naai5|sc=Hans}}
+*: Mandarin: {{t-|cmn|奶|tr=nǎi|sc=Hans}}, {{t-|cmn|牛奶|tr=niúnăi|sc=Hans}}
+*: [[Min Nan]]: {{t-|cmn|leng}}; {{t-|cmn|ni}}
 * Croatian: {{t+|hr|mlijeko}}
 * Czech: {{t+|cs|mléko|n}}
 * Danish: {{t+|da|mælk|c}}
@@ -91,14 +91,14 @@ From {{etyl|ang|en}} {{term|meolc|lang=ang}}; compare Danish {{term|mælk}}, Dut
 * Faroese: {{t-|fo|mjólk|f|xs=Faroese}}
 * Finnish: {{t+|fi|maito}}
 * French: {{t+|fr|lait|m}}
-* Georgian: {{t-|ka|რძე|tr=rje|xs=Georgian}}
+* Georgian: {{t-|ka|რძე|tr=rje|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Milch|f}}
 * Greek: {{t+|el|γάλα|n|tr=ɣála|sc=Grek}}
 * [[Gujarati]]: {{t-|gu|દૂધ|tr=dūdh|sc=Gujr|xs=Gujarati}}
 * [[Haitian Creole]]: {{tø|ht|lèt}}
 * Hawaiian: {{tø|haw|waiū|xs=Hawaiian}}
 * Hebrew: {{t+|he|חלב|m|tr=khalav|sc=Hebr}}
-* Hindi: {{t+|hi|दूध|m|tr=dūdh|sc=Deva|xs=Hindi}}
+* Hindi: {{t+|hi|दूध|m|tr=dūdh|xs=Hindi}}
 * Hungarian: {{t+|hu|tej}}
 * Icelandic: {{t+|is|mjólk|f}}
 * [[Ido]]: {{t+|io|lakto|xs=Ido}}
@@ -117,11 +117,11 @@ From {{etyl|ang|en}} {{term|meolc|lang=ang}}; compare Danish {{term|mælk}}, Dut
 * Lithuanian: {{t+|lt|pienas|m|xs=Lithuanian}}
 {{trans-mid}}
 * [[Lower Sorbian]]: {{tø|dsb|mloko|n|xs=Lower Sorbian}}
-* [[Macedonian]]: {{t-|mk|млеко|n|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|млеко|n|xs=Macedonian}}
 * Malay: {{t-|ms|susu|xs=Malay}}
 * {{trreq|Malayalam}}
 * Maltese: {{t-|mt|ħalib|m|xs=Maltese}}
-* [[Manx]]: {{t|gv|bainney|xs=Manx}}
+* [[Manx]]: {{t-|gv|bainney|xs=Manx}}
 * Maori: [[waiū]], [[miraka]]
 * [[Marathi]]: {{t-|mr|दूध|sc=Deva|xs=Marathi}}
 * Mongolian: {{t+|mn|сүү|tr=süü|sc=Cyrl|xs=Mongolian}}
@@ -133,9 +133,9 @@ From {{etyl|ang|en}} {{term|meolc|lang=ang}}; compare Danish {{term|mælk}}, Dut
 *: Cyrillic: {{tø|cu|млѣко|n|tr=mlěko|sc=Cyrs|xs=Old Church Slavonic}}
 *: Glagolitic: {{tø|cu|ⰏⰎⰡⰍⰑ|n|tr=mlěko|sc=Glag|xs=Old Church Slavonic}}
 * Old English: {{t-|ang|meolc|f|xs=Old English}}
-* Old Irish: {{t|sga|lacht}}
+* Old Irish: {{tø|sga|lacht|xs=Old Irish}}
 * {{trreq|Oriya}}
-* Persian: {{t+|fa|شیر|tr=šīr|sc=fa-Arab|xs=Persian}}
+* Persian: {{t+|fa|شیر|tr=šīr|xs=Persian}}
 * [[Pitjantjatjara]]: {{tø|pjt|ipi|xs=Pitjantjatjara}}, {{tø|pjt|milka|xs=Pitjantjatjara}}
 * Polish: {{t+|pl|mleko|n}}
 * Portuguese: {{t+|pt|leite|m}}
@@ -143,10 +143,10 @@ From {{etyl|ang|en}} {{term|meolc|lang=ang}}; compare Danish {{term|mælk}}, Dut
 * [[Romagnolo]]: [[làt]] {{m}}
 * [[Romani]]: {{tø|rom|thud|xs=Romani}}
 * Romanian: {{t+|ro|lapte|m}}
-* [[Romansch]]: {{t|rm|latg|m}}
+* [[Romansch]]: {{t|rm|latg|m|xs=Romansch}}
 * Russian: {{t+|ru|молоко|n|tr=molokó|sc=Cyrl}}
 * Samoan: {{t-|sm|susu|xs=Samoan}}
-* Sanskrit: {{t-|sa|दुग्ध|tr=dugdh|sc=Deva|xs=Sanskrit}}, {{t-|sa|क्षीर|tr=kšīr|sc=Deva|xs=Sanskrit}} {{g|Sanskrit}}
+* Sanskrit: {{t-|sa|दुग्ध|tr=dugdh|xs=Sanskrit}}, {{t-|sa|क्षीर|tr=kšīr|xs=Sanskrit}} {{g|Sanskrit}}
 * [[Santali]]: {{tø|sat|ᱛᱳᱚ|tr=toa|sc=Olck}}
 * [[Scottish Gaelic]]: {{t-|gd|bainne|m|xs=Scottish Gaelic}}
 * Serbo-Croatian:
@@ -165,22 +165,22 @@ From {{etyl|ang|en}} {{term|meolc|lang=ang}}; compare Danish {{term|mælk}}, Dut
 * {{trreq|Tamil}}
 * [[Telugu]]: {{t+|te|పాలు|tr=paalu|sc=Telu}}, {{t|te|క్షీరము|tr=ksheeramu|sc=Telu}}
 * [[Tetum]]: {{tø|tet|susubeen|xs=Tetum}}
-* Thai: {{t-|th|น้ำนม||tr=náam nom|sc=Thai|xs=Thai}}
+* Thai: {{t-|th|น้ำนม||tr=náam nom}}
 * {{trreq|Tibetan}}
 * {{trreq|Tongan}}
-* Tswana: {{t|tn|maši}} (6)
+* Tswana: {{t-|tn|maši|xs=Tswana}} (6)
 * Turkish: {{t+|tr|süt}}
-* Ukrainian: {{t+|uk|молоко|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t+|uk|молоко|xs=Ukrainian}}
 * [[Upper Sorbian]]: {{tø|hsb|mloko|n|xs=Upper Sorbian}}
-* Urdu: {{t-|ur|دودھ|m|tr=dūdh|sc=ur-Arab|xs=Urdu}}
+* Urdu: {{t-|ur|دودھ|m|tr=dūdh|xs=Urdu}}
 * Vietnamese: {{t+|vi|sữa|xs=Vietnamese}}
 * Welsh: {{t-|cy|llaeth|xs=Welsh}}
 * [[West Frisian]]: {{t+|fy|molke|f|xs=West Frisian}}
-* Yiddish: {{t-|yi|מילך|f|tr=milkh|sc=Hebr|xs=Yiddish}}
+* Yiddish: {{t-|yi|מילך|f|tr=milkh|xs=Yiddish}}
 {{trans-bottom}}
 
 {{trans-top|a serving of the liquid}}
-* Finnish: {{t|fi|maito}}
+* Finnish: {{t+|fi|maito}}
 * Greek: {{t+|el|γάλα|n|tr=ɣála|sc=Grek}}
 {{trans-mid}}
 * Swahili: {{t+|sw|maziwa|xs=Swahili}}
@@ -213,7 +213,7 @@ From {{etyl|ang|en}} {{term|meolc|lang=ang}}; compare Danish {{term|mælk}}, Dut
 * Czech: [[dojit]], [[podojit]]
 * Danish: {{t|da|malke}}
 * [[Erzya]]: [[потявтомс]] (potjavtoms)
-* Dutch: [[melken]]
+* Dutch: {{t+|nl|melken}}
 * Esperanto: [[melki]]
 * Estonian: [[lüpsma]]
 * Faroese: {{t-|fo|mjólka|xs=Faroese}}
