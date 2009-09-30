@@ -36,13 +36,13 @@ From {{etyl|enm|en}} {{term|asshe|lang=enm}} < {{etyl|ang|en}} {{term|æsce|lang
 {{trans-top|solid remains of a fire}}
 * Albanian: {{t-|sq|hi|m|xs=Albanian}}
 * Arabic: {{t-|ar|رماد|m|tr=ramaad|sc=Arab}},  {{t-|ar|سكن|m|tr=sákan|sc=Arab}}
-* Armenian: {{t-|hy|մոխիր|tr=moxir|sc=Armn|xs=Armenian}}
+* Armenian: {{t-|hy|մոխիր|tr=moxir|xs=Armenian}}
 * {{trreq|Basque}}
 * Bulgarian: {{t+|bg|пепел|f|sc=Cyrl}}
 * [[Catalan]]: [[cendra]] {{f}}
 * [[Chamicuro]]: {{tø|ccc|kajchijpe}}
 * Chinese:
-*: Mandarin: {{t-|cmn|灰|tr=huī|sc=Hani|xs=Mandarin}}
+*: Mandarin: {{t-|cmn|灰|tr=huī|sc=Hani}}
 * Croatian: {{t-|hr|pepeo|m}}
 * Czech: {{t-|cs|popel|m}}
 * Danish: {{t+|da|aske|c}}
@@ -52,9 +52,9 @@ From {{etyl|enm|en}} {{term|asshe|lang=enm}} < {{etyl|ang|en}} {{term|æsce|lang
 * Finnish: {{t+|fi|tuhka}}
 * French: {{t+|fr|cendre|m}}
 * [[Galician]]: [[ciza]] {{f}}, [[cinsa]] {{f}}
-* Georgian: {{t|ka|ნაცარი|tr=natsari|xs=Georgian}}, {{t|ka|ფერფლი|tr=p‘erp‘li|xs=Georgian}}
+* Georgian: {{t|ka|ნაცარი|tr=natsari|sc=Geor|xs=Georgian}}, {{t|ka|ფერფლი|tr=p‘erp‘li|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Asche|f}}
-* Greek: {{t|el|στάχτη|f|tr=stáchti|sc=Grek}}
+* Greek: {{t+|el|στάχτη|f|tr=stáchti|sc=Grek}}
 * Hebrew: [[אפר]] (efer) {{m}}
 * Hindi: [[राख]] (rākha) {{f}}
 * Hungarian: {{t+|hu|hamu}}
@@ -64,7 +64,7 @@ From {{etyl|enm|en}} {{term|asshe|lang=enm}} < {{etyl|ang|en}} {{term|æsce|lang
 * Irish: {{t|ga|luaith|f|xs=Irish}}
 * Italian: {{t+|it|cenere|f}}
 * Japanese: {{t+|ja|灰|tr=[[はい]], hai|sc=Jpan}}
-* Kazakh: {{t|kk|күл|tr=kül|sc=Cyrl}}
+* Kazakh: {{t|kk|күл|tr=kül|sc=Cyrl|xs=Kazakh}}
 * {{trreq|Korean}}
 * Kurdish:
 *: [[Kurmanji]]: {{t|ku|xwelî}} {{f}}
@@ -77,7 +77,7 @@ From {{etyl|enm|en}} {{term|asshe|lang=enm}} < {{etyl|ang|en}} {{term|æsce|lang
 * Malay: {{t+|ms|abu|xs=Malay}}
 * Norwegian: {{t-|no|aske|m|f}}
 * Old English: {{t-|ang|æsce|f|xs=Old English}}
-* Persian: {{t-|fa|خاکستر|sc=fa-Arab|xs=Persian}}
+* Persian: {{t-|fa|خاکستر|xs=Persian}}
 * [[Pitjantjatjara]]: [[unu]]
 * Polish: {{t+|pl|popiół|m}}
 * Portuguese: {{t+|pt|cinza|f}}
@@ -99,8 +99,8 @@ From {{etyl|enm|en}} {{term|asshe|lang=enm}} < {{etyl|ang|en}} {{term|æsce|lang
 * Urdu: {{t-|ur|راکھ|f|alt=راکھ|tr=rākh|sc=Arab|xs=Urdu}}
 * Vietnamese: {{t+|vi|tro|xs=Vietnamese}}
 * [[Warlpiri]]: [[puna]]
-* Welsh: {{t|cy|lludw|m}}
-* [[West Frisian]]: {{t|fy|jiske}}
+* Welsh: {{t|cy|lludw|m|xs=Welsh}}
+* [[West Frisian]]: {{t|fy|jiske|xs=West Frisian}}
 {{trans-bottom}}
 
 ====Verb====
@@ -124,7 +124,7 @@ From {{etyl|enm|en}} {{term|asshe|lang=enm}} < {{etyl|ang|en}} {{term|æsc|lang=
 =====Translations=====
 {{trans-top|tree}}
 * Arabic: {{Arab|[[شجرة الدردار]]}} (šájarat ad-dardār) {{f}}
-* Armenian: {{t-|hy|հացենի|tr=hac'eni|sc=Armn|xs=Armenian}}, {{t-|hy|հացի|tr=hac'i|sc=Armn|xs=Armenian}}
+* Armenian: {{t-|hy|հացենի|tr=hac'eni|xs=Armenian}}, {{t-|hy|հացի|tr=hac'i|xs=Armenian}}
 * Bulgarian: {{t|bg|ясен|sc=Cyrl}}
 * [[Catalan]]: [[freixe]] {{m}}
 * Chinese traditional/simplified: [[桉樹]], [[桉树]] (ān shù)
@@ -150,7 +150,7 @@ From {{etyl|enm|en}} {{term|asshe|lang=enm}} < {{etyl|ang|en}} {{term|æsc|lang=
 * Serbian: {{t-|sr|jasen|m}}
 * Spanish: {{t+|es|fresno|m}}
 * Swedish: {{t+|sv|ask}}
-* [[West Frisian]]: {{t|fy|esk}}
+* [[West Frisian]]: {{t|fy|esk|xs=West Frisian}}
 {{trans-bottom}}
 
 {{trans-top|wood}}
