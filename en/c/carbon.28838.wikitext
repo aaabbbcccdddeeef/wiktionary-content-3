@@ -119,19 +119,19 @@ from {{etyl|la}} [[carbo]]
 * [[Azeri]]: {{t-|az|karbon|xs=Azeri}}
 * [[Banyumasan]]: {{tø|map-bms|karbon}}
 * [[Basque]]: {{t-|eu|karbonoa|xs=Basque}}
-* Belarusian: {{t-|be|вуглярод|m|tr=vugljaród|sc=Cyrl|xs=Belarusian}}
+* Belarusian: {{t-|be|вуглярод|m|tr=vugljaród|xs=Belarusian}}
 * Bengali: {{t-|bn|কার্বন|sc=Beng|xs=Bengali}}
 * Bosnian: {{t-|bs|ugljik|m}}, {{t-|bs|ugljenik|m}}, {{t-|bs|karbon}}
 * [[Breton]]: [[karbon]] {{m}}
 * Bulgarian: {{t-|bg|въглерод|m|tr=vəgleród|sc=Cyrl}}
 * [[Catalan]]: {{t-|ca|carboni|m}}
 * Chinese:
-*: Mandarin: {{t-|cmn|碳|tr=tàn|sc=Hani|xs=Mandarin}}
+*: Mandarin: {{t-|cmn|碳|tr=tàn|sc=Hani}}
 *: [[Wu]]: {{tø|wuu|碳}}
 * [[Corsican]]: {{t-|co|carboniu|xs=Corsican}}
 * Croatian: {{t-|hr|ugljik|m}}
 * Czech: {{t+|cs|uhlík|m}}
-* Danish: {{t-|da|carbon}}, {{t-|da|karbon}}, {{t-|da|kulstof|n}}
+* Danish: {{t-|da|carbon}}, {{t-|da|karbon}}, {{t+|da|kulstof|n}}
 * Dutch: {{t+|nl|koolstof|n}}
 * [[Erzya]]: {{tø|myv|седь|tr=sedj}}
 * Esperanto: {{t-|eo|karbono|xs=Esperanto}}
@@ -144,11 +144,11 @@ from {{etyl|la}} [[carbo]]
 * Georgian: [[ნახშირბადი]] (naxširbadi)
 * German: {{t+|de|Kohlenstoff|m}}
 * Greek: {{t+|el|άνθρακας|m|tr=ánthrakas|sc=Grek}}, {{t+|el|κάρβουνο|n|tr=kárvuno|sc=Grek}} ''(rare)''
-* [[Gujarati]]: {{t-|gu|કાર્બન|tr=kārban|xs=Gujarati}}
+* [[Gujarati]]: {{t-|gu|કાર્બન|tr=kārban|sc=Gujr|xs=Gujarati}}
 * [[Haitian Creole]]: {{tø|ht|kabòn}}
 * Hawaiian: {{tø|haw|kalepona}}
 * Hebrew: {{t+|he|פחמן|tr=pakhman|sc=Hebr}}
-* Hindi: {{t-|hi|कार्बन|tr=kārban|sc=Deva|xs=Hindi}}
+* Hindi: {{t-|hi|कार्बन|tr=kārban|xs=Hindi}}
 * Hungarian: {{t+|hu|szén}}
 * Icelandic: {{t+|is|kolefni}}
 * [[Ido]]: {{t+|io|karbo|xs=Ido}}
@@ -158,7 +158,7 @@ from {{etyl|la}} [[carbo]]
 * Italian: {{t+|it|carbonio|m}}
 * Japanese: {{t+|ja|炭素|tr=たんそ, tanso|sc=Jpan}}
 * [[Javanese]]: {{t-|jv|karbon|xs=Javanese}}
-* [[Kannada]]: {{t-|kn|ಇಂಗಾಲ|xs=Kannada}}
+* [[Kannada]]: {{t-|kn|ಇಂಗಾಲ|sc=Knda|xs=Kannada}}
 * Kazakh: {{Cyrl|[[көмиртек]]}} (kömirtek)
 * Korean: {{t+|ko|탄소|tr=炭素, tanso|sc=Hang}}
 * Kurdish: {{t+|ku|karbon}}
@@ -174,9 +174,9 @@ from {{etyl|la}} [[carbo]]
 * [[Low Saxon]]: {{t-|nds|kohlenstoff|xs=Low Saxon}}
 * Luhya: {{tø|luy|ekaboni}}
 * [[Luxembourgish]]: {{t-|lb|Kuelestoff|m|xs=Luxembourgish}}
-* [[Macedonian]]: {{t-|mk|јаглерод|tr=jáglerod|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|јаглерод|tr=jáglerod|xs=Macedonian}}
 * Malay: {{t-|ms|karbon|xs=Malay}}
-* [[Malayalam]]: {{t-|ml|കാര്‍ബണ്‍|xs=Malayalam}}
+* [[Malayalam]]: {{t-|ml|കാര്‍ബണ്‍|sc=Mlym|xs=Malayalam}}
 * Maltese: {{t+|mt|karbonju|xs=Maltese}}
 * [[Manx]]: {{t-|gv|carboan|xs=Manx}}
 * Maori: {{t-|mi|waro|xs=Maori}}
@@ -187,10 +187,10 @@ from {{etyl|la}} [[carbo]]
 *: [[Nynorsk]]: {{t-|nn|karbon|xs=Norwegian Nynorsk}}
 * [[Novial]]: {{tø|nov|karbo}}
 * [[Occitan]]: {{t-|oc|carbòni|xs=Occitan}}
-* Persian: {{t+|fa|کربن|tr=karbon|sc=fa-Arab|xs=Persian}}
+* Persian: {{t+|fa|کربن|tr=karbon|xs=Persian}}
 * Polish: {{t+|pl|węgiel|m}}
 * Portuguese: {{t+|pt|carbono|m}}
-* [[Punjabi]]: {{t-|pa|ਕਾਰਬਨ|kārabana|xs=Punjabi}}
+* [[Punjabi]]: {{t-|pa|ਕਾਰਬਨ|kārabana|sc=Guru|xs=Punjabi}}
 * [[Quechua]]: {{t-|qu|k'illimsayaq|xs=Quechua}}
 * Romanian: {{t+|ro|carbon|n}}
 * Russian: {{t+|ru|углерод|m|tr=ugleród|sc=Cyrl}}
@@ -211,16 +211,16 @@ from {{etyl|la}} [[carbo]]
 * [[Tajik]]: {{t-|tg|карбон|sc=Cyrl|xs=Tajik}}
 * [[Tamil]]: {{t-|ta|கரிமம்|tr=karimam|xs=Tamil}}
 * [[Telugu]]: {{t+|te|కార్బన్|tr=karbanam|sc=Telu}}
-* Thai: {{t-|th|คาร์บอน|tr=khārbon|sc=Thai|xs=Thai}}
+* Thai: {{t-|th|คาร์บอน|tr=khārbon}}
 * Turkish: {{t+|tr|karbon}}
-* Ukrainian: {{t-|uk|вуглець|tr=vuhlets’|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t-|uk|вуглець|tr=vuhlets’|xs=Ukrainian}}
 * [[Upper Sorbian]]: {{t-|hsb|wuhlik|xs=Upper Sorbian}}
 * Uzbek: {{t-|uz|uglerod|tr=uglerod|sc=Cyrl|xs=Uzbek}}
 * Vietnamese: {{t-|vi|cacbon|xs=Vietnamese}}
 * [[Walloon]]: {{t+|wa|carbone|xs=Walloon}}
 * Welsh: {{t-|cy|carbon|xs=Welsh}}
 * [[West Frisian]]: [[koalstof]]
-* Yiddish: {{t-|yi|קוילנשטאף|m|tr=koilenshtof|sc=Hebr|xs=Yiddish}}
+* Yiddish: {{t-|yi|קוילנשטאף|m|tr=koilenshtof|xs=Yiddish}}
 {{trans-bottom}}
 
 <!--Add INFORMAL terms here, where these exist-->
