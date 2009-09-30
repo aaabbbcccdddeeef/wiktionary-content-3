@@ -115,15 +115,15 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 {{trans-top|physician}}
 * [[Afrikaans]]: {{t-|af|dokter|xs=Afrikaans}}
 * [[Akan]]: [[dɔkota]] {{n}}
-* Albanian: {{t|sq|mjeku}}
-* Arabic: {{t+|ar|طبيب|m|alt=طَبيب|tr=Tabiib|sc=Arab}}, {{t|ar|طبيبة|f|alt=طبيبة|tr=Tabiiba(t)|sc=Arab}}, {{t-|ar|دكتور|m|alt=دُكْتور|tr=duktuur|sc=Arab}}
+* Albanian: {{t|sq|mjeku|xs=Albanian}}
+* Arabic: {{t+|ar|طبيب|m|alt=طَبيب|tr=Tabiib}}, {{t|ar|طبيبة|f|alt=طبيبة|tr=Tabiiba(t)}}, {{t-|ar|دكتور|m|alt=دُكْتور|tr=duktuur}}
 *: Egyptian Arabic: {{tø|arz|دكتور|m|tr=duktuur|sc=Arab|xs=Egyptian Arabic}}
 * Aramaic:
 *: Syriac: [[ܐܣܝܐ]] (’āsyā’) {{m}}
 *: Hebrew: [[אסיא]] (’āsyā’) {{m}}
-* Armenian: {{t-|hy|բժիշկ|tr=bžišk|sc=Armn|xs=Armenian}}
+* Armenian: {{t-|hy|բժիշկ|tr=bžišk|xs=Armenian}}
 * [[Basque]]: {{t|eu|sendagile|xs=Basque}}, {{t|eu|osagile|xs=Basque}}
-* Bulgarian: {{t+|bg|доктор|m|sc=Cyrl}}
+* Bulgarian: {{t+|bg|доктор|m}}
 * [[Catalan]]: {{t+|ca|metge|m}}, {{t|ca|metgesa|f}}
 * [[Chechen]]: [[лор]]
 * Chinese: [[醫生]], [[医生]] (yīshēng), [[大夫]] (dàifū)
@@ -136,9 +136,9 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * [[Ewe]]: [[ɖɔkta]], [[atikewɔla]]
 * Finnish: {{t+|fi|lääkäri}}, {{t+|fi|tohtori}}
 * French: {{t+|fr|médecin|m}}, {{t+|fr|docteur|m}}
-* Georgian: {{t-|ka|ექიმი|tr=ek‘imi|xs=Georgian}}
+* Georgian: {{t-|ka|ექიმი|tr=ek‘imi|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Arzt|m}}, {{t+|de|Ärztin|f}}, {{t+|de|Mediziner|m}}, {{t+|de|Doktor|m}}, {{t-|de|Doktorin|f}}
-* Greek: {{t+|el|ιατρός|m|f|tr=iatrós|sc=Grek}}, {{t+|el|γιατρός|m|f|tr=γiatrós|sc=Grek}}
+* Greek: {{t+|el|ιατρός|m|f|tr=iatrós}}, {{t+|el|γιατρός|m|f|tr=γiatrós}}
 * Hawaiian: [[kauka]]
 * Hebrew: [[רופא]] (rofe) {{m}}, [[רופאה]] (rof'a) {{f}}; [[דוקטור]] (doqt'or) (colloquial, while addressing doctor) {{m}}
 * {{trreq|Hindi}}
@@ -147,7 +147,7 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * Indonesian: {{t+|id|dokter|xs=Indonesian}}
 * Irish: {{t|ga|dochtúir|m|xs=Irish}}
 * Italian: [[medico]] {{m}}, [[dottore]] {{m}}, [[dottoressa]] {{f}}, [[Dottor]] (''alternative form used before a name'')
-* Japanese: {{t+|ja|医師|sc=Jpan}} ([[いし]], ishi), {{t+|ja|医者|sc=Jpan}} ([[いしゃ]], isha)
+* Japanese: {{t+|ja|医師}} ([[いし]], ishi), {{t+|ja|医者}} ([[いしゃ]], isha)
 * [[Kamba]]: {{tø|kam|ndakitali}}
 {{trans-mid}}
 * [[Kikuyu]]: {{tø|ki|dagitari}}
@@ -158,7 +158,7 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * {{trreq|Lithuanian}}
 * [[Luhya]]: {{tø|luy|dakatari}}, {{tø|luy|dakitari}}
 * [[Luo]]: {{tø|luo|dokta}}
-* [[Macedonian]]: {{t-|mk|лекар|m|tr=lékar|sc=Cyrl|xs=Macedonian}},  {{t-|mk|лекарка|f|tr=lékarka|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|лекар|m|tr=lékar|xs=Macedonian}},  {{t-|mk|лекарка|f|tr=lékarka|xs=Macedonian}}
 * Malay: {{t+|ms|doktor|xs=Malay}}
 * Maltese: [[tabib]] {{m}}, [[tabiba]] {{f}}
 * {{trreq|Maori}}
@@ -167,11 +167,11 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * {{trreq|Mongolian}}
 * [[Novial]]: [[medike]]
 * Old English: {{t-|ang|læce|m|alt=lǣce|xs=Old English}}
-* Persian: {{t-|fa|پزشک|tr=pezešk|sc=fa-Arab|xs=Persian}}
+* Persian: {{t+|fa|پزشک|tr=pezešk|xs=Persian}}
 * Polish: {{t+|pl|lekarz|m}}, {{t+|pl|lekarka|f}}
 * Portuguese: [[doutor]] {{m}}, [[doutora]] {{f}}
 * Romanian: {{t-|ro|medic|m}}, [[medică]] {{f}}, {{t+|ro|doctor|m}}, [[doctoare]] {{f}}
-* Russian: {{t+|ru|доктор|m|f|tr=dóktor|sc=Cyrl}}, {{t+|ru|врач|m|f|tr=vrač|sc=Cyrl}}
+* Russian: {{t+|ru|доктор|m|f|tr=dóktor}}, {{t+|ru|врач|m|f|tr=vrač}}
 * {{trreq|Sanskrit}}
 * [[Scottish Gaelic]]: [[lighiche]] {{m}}, [[lèigh]] {{m}}, [[dotair]] {{m}}
 * Serbian: [[lekar]] {{m}}, [[lekarka]] {{f}}, [[zdravnik]] {{m}}, [[zdravnica]] {{f}}
@@ -183,17 +183,17 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * Swedish: {{t+|sv|doktor}}, {{t+|sv|läkare}}
 * Thai: {{Thai|[[หมอ]]}} (mŏr), {{Thai|[[แพทย์]]}} (pâet), {{Thai|[[เวช]]}} (wêt)
 * Turkish: {{t+|tr|doktor}}, {{t+|tr|hekim}}, {{t+|tr|tabip}}
-* Ukrainian: {{t+|uk|лікар|sc=Cyrl|xs=Ukrainian}}
-* Urdu: {{t-|ur|ڈاکٹر|sc=ur-Arab|xs=Urdu}}
+* Ukrainian: {{t+|uk|лікар|xs=Ukrainian}}
+* Urdu: {{t-|ur|ڈاکٹر|xs=Urdu}}
 * Vietnamese: [[bác sĩ y khoa]]
 * {{trreq|Welsh}}
 {{trans-bottom}}
 
 {{trans-top|person who has attained a doctorate}}
 * [[Afrikaans]]: {{t-|af|doktor|xs=Afrikaans}}
-* Arabic: {{t-|ar|دكتور|m|alt=دُكْتور|tr=duktuur|sc=Arab}}
-* Armenian: {{t|hy|դոկտոր|tr=doktor|sc=Armn|xs=Armenian}}
-* Bulgarian: {{t+|bg|доктор|m|sc=Cyrl}}, {{t+|bg|лекар|m|sc=Cyrl}}, {{t-|bg|лекарка|f|sc=Cyrl}}
+* Arabic: {{t-|ar|دكتور|m|alt=دُكْتور|tr=duktuur}}
+* Armenian: {{t|hy|դոկտոր|tr=doktor|xs=Armenian}}
+* Bulgarian: {{t+|bg|доктор|m}}, {{t+|bg|лекар|m}}, {{t-|bg|лекарка|f}}
 * Chinese: [[博士]] (bóshì)
 * Croatian: {{t-|hr|doktor|m|alt=dȍktor}}, {{t-|hr|doktorica|f|alt=dȍktorica}}
 * Czech: {{t-|cs|doktor|m}}
@@ -201,9 +201,9 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * Dutch: doctor {{m|f}}
 * Esperanto: {{t-|eo|doktoro|m|f|xs=Esperanto}}
 * Finnish: {{t+|fi|tohtori}}
-* Georgian: {{t|ka|დოქტორი|tr=dok‘tori|xs=Georgian}}
+* Georgian: {{t|ka|დოქტორი|tr=dok‘tori|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Doktor|m}}, {{t-|de|Doktorin|f}}
-* Greek: {{t|el|διδάκτορας|m|f|tr=ðiðáktoras|sc=Grek}}
+* Greek: {{t|el|διδάκτορας|m|f|tr=ðiðáktoras}}
 * Hebrew: [[דוקטור]] (doqt'or) {{m}}
 * Hungarian: {{t+|hu|doktor}}
 * Icelandic: {{t+|is|læknir|m}}, {{t-|is|doktor|m}}
@@ -214,13 +214,13 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * Japanese: [[博士]] ([[はくし]], hakushi, [[はかせ]] hakase)
 * Kurdish: {{ku-Arab|[[دکتۆر]]}}
 * [[Luo]]: {{tø|luo|dokta}}
-* [[Macedonian]]: {{t-|mk|доктор|tr=dóktor|sc=Cyrl|xs=Macedonian}}, {{t-|mk|докторка|f|tr=dóktorka|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|доктор|tr=dóktor|xs=Macedonian}}, {{t-|mk|докторка|f|tr=dóktorka|xs=Macedonian}}
 * Malay: {{t+|ms|doktor|xs=Malay}}
 * Maltese: {{t-|mt|dottor|m|xs=Maltese}}, {{t-|mt|dottoressa|f|xs=Maltese}}
 * [[Novial]]: [[doktore]]
 * Polish: {{t+|pl|doktor|m}}
 * Portuguese: [[doutor]] {{m}}, [[doutora]] {{f}}
-* Russian: {{t+|ru|доктор|m|f|tr=dóktor|sc=Cyrl}}
+* Russian: {{t+|ru|доктор|m|f|tr=dóktor}}
 * [[Scottish Gaelic]]: [[ollamh]] {{m}}
 * Slovak: {{t-|sk|doktor|m}}
 * Slovene: {{t-|sl|doktor|m}}, {{t-|sl|doktorica|f}}
@@ -228,7 +228,7 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * Swedish: {{t+|sv|doktor}}
 * Thai: {{Thai|[[ปริญญาเอก]]}} (bprinyaa èk), {{Thai|[[ดุษฎีบัณฑิต]]}} (dòotsàdee bantít)
 * Turkish: {{t+|tr|doktor}}
-* Ukrainian: {{t-|uk|доктор|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t-|uk|доктор|xs=Ukrainian}}
 * Vietnamese: {{t+|vi|tiến sĩ|xs=Vietnamese}}
 {{trans-bottom}}
 
@@ -240,20 +240,20 @@ From {{etyl|la|en}} {{term|doctor||teacher|lang=la}} from {{term|doceo|doceō|te
 * Danish: [[dyrlæge]]
 * Dutch: {{t-|nl|dierenarts}}
 * Finnish: {{t+|fi|eläinlääkäri}}
-* Georgian: {{t|ka|ვეტერინარი|tr=veterinari|xs=Georgian}}, {{t|ka|ბეითალი|tr=beit‘ali|xs=Georgian}}
+* Georgian: {{t|ka|ვეტერინარი|tr=veterinari|sc=Geor|xs=Georgian}}, {{t|ka|ბეითალი|tr=beit‘ali|sc=Geor|xs=Georgian}}
 * German: [[Tierarzt]] {{m}}, [[Tierärztin]] {{f}}, [[Veterinär]] {{m}}
-* Greek: {{t|el|κτηνίατρος|m|f|tr=ktiníatros|sc=Grek}}
+* Greek: {{t|el|κτηνίατρος|m|f|tr=ktiníatros}}
 * Hungarian: {{t+|hu|állatorvos}}
 * Icelandic: {{t+|is|dýralæknir|m}}
 * Indonesian: dokter hewan
 * Italian: [[veterinario]] {{m}}, [[dottore]] {{m}} (''[[appellative]]'')
 {{trans-mid}}
 * Japanese: [[獣医師]] ([[じゅういし]] jūishi)
-* [[Macedonian]]: {{t|mk|ветеринар|m|tr=veterinár|sc=Cyrl|xs=Macedonian}}, {{t-|mk|ветеринарка|f|tr=veterinárka|sc=Cyrl|xs=Macedonian}}, {{t-|mk|доктор|tr=dóktor|sc=Cyrl|xs=Macedonian}}, {{t-|mk|докторка|f|tr=dóktorka|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|ветеринар|m|tr=veterinár|xs=Macedonian}}, {{t-|mk|ветеринарка|f|tr=veterinárka|xs=Macedonian}}, {{t-|mk|доктор|tr=dóktor|xs=Macedonian}}, {{t-|mk|докторка|f|tr=dóktorka|xs=Macedonian}}
 * Malay: doktor haiwan
 * Maltese: [[veterinarju]] {{m}}, [[veterinarja]] {{f}}
 * Portuguese: [[doutor]] {{m}}, [[doutora]] {{f}}
-* Russian: {{t+|ru|доктор|m|f|tr=dóktor|sc=Cyrl}}, {{t+|ru|врач|m|f|tr=vrač|sc=Cyrl}}
+* Russian: {{t+|ru|доктор|m|f|tr=dóktor}}, {{t+|ru|врач|m|f|tr=vrač}}
 * [[Scottish Gaelic]]: [[altrach-bheathaichean]] {{m}}, [[lèigh-bheathach]] {{m}}, [[lighiche-bheathaichean]] {{m}}
 * Slovak: [[veterinár]] {{m}}, [[zverolekár]] {{m}}
 * Thai: {{Thai|[[สัตวแพทย์]]}} (sàt-wá-pâet)
