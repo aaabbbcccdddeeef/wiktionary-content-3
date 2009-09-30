@@ -65,13 +65,13 @@ from {{etyl|grc}} {{term|sc=Polytonic|βήρυλλος|tr=berullos||beryl|lang=g
 * [[Asturian]]: {{t+|ast|beriliu|m|xs=Asturian}}
 * [[Azeri]]: {{t-|az|berillium|xs=Azeri}}
 * [[Basque]]: {{t-|eu|berilioa|xs=Basque}}
-* Belarusian: {{t-|be|берылiй|m|tr=berýlij|sc=Cyrl|xs=Belarusian}}
+* Belarusian: {{t-|be|берылiй|m|tr=berýlij|xs=Belarusian}}
 * Bosnian: {{t-|bs|berilij|m}}, {{t-|bs|berilijum|m}}
 * [[Breton]]: {{t|br|beriliom|xs=Breton}}
 * Bulgarian: {{t|bg|берилий|m|tr=berílij|sc=Cyrl}}
 * [[Catalan]]: {{t-|ca|beril·li|m}}
 * Chinese:
-*: Mandarin: [[鈹]], {{t-|cmn|铍|tr=pí|sc=Hani|xs=Mandarin}}
+*: Mandarin: [[鈹]], {{t-|cmn|铍|tr=pí|sc=Hani}}
 * [[Chuvash]]: {{tø|cv|Берилий|tr=[[berily]]|sc=Cyrl|xs=Chuvash}}
 * [[Cornish]]: {{t|kw|berylyum|xs=Cornish}}
 * [[Corsican]]: {{t-|co|berilliu|m|xs=Corsican}}
@@ -86,13 +86,13 @@ from {{etyl|grc}} {{term|sc=Polytonic|βήρυλλος|tr=berullos||beryl|lang=g
 * French: {{t+|fr|béryllium|m}}
 * [[Friulian]]: {{tø|fur|berili|xs=Friulian}}
 * [[Galician]]: {{t+|gl|berilio|xs=Galician}}
-* Georgian: {{t|ka|ბერილიუმი|tr=beriliumi|xs=Georgian}}
+* Georgian: {{t|ka|ბერილიუმი|tr=beriliumi|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Beryllium|n}}
 * Greek: {{t|el|βιρύλλιο|n|tr=virýllio|sc=Grek}}
 * [[Haitian Creole]]: {{tø|ht|berilyòm|xs=Haitian Creole}}
 * Hawaiian: {{tø|haw|beryllium|xs=Hawaiian}}
 * Hebrew: {{t+|he|בריליום|tr=berilium|sc=Hebr}}
-* Hindi: {{t-|hi|बेरिलियम|sc=Deva|xs=Hindi}}
+* Hindi: {{t-|hi|बेरिलियम|xs=Hindi}}
 * Hungarian: {{t+|hu|berillium}}
 * Icelandic: {{t+|is|beryllín}}
 * [[Ido]]: {{t+|io|berilio|xs=Ido}}
@@ -105,7 +105,7 @@ from {{etyl|grc}} {{term|sc=Polytonic|βήρυλλος|tr=berullos||beryl|lang=g
 ** [[ALUPEC]]: [[beríliu]] {{m}}
 ** [[Bádiu]]/[[Santiago]]: [[beríliu]] {{m}}
 ** [[São Vicente]]: [[berílio]] {{m}}
-* [[Kannada]]: {{t-|ka|ಬೆರಿಲಿಯಮ್|xs=Georgian}}
+* [[Kannada]]: {{t-|ka|ಬೆರಿಲಿಯಮ್|sc=Knda|xs=Georgian}}
 {{trans-mid}}
 * [[Kashubian]]: [[beril]]
 * Kazakh: {{t-|kk|бериллий|tr=berillii|sc=Cyrl|xs=Kazakh}}
@@ -118,9 +118,9 @@ from {{etyl|grc}} {{term|sc=Polytonic|βήρυλλος|tr=berullos||beryl|lang=g
 * [[Lojban]]: {{t-|jbo|jinmrberilo|xs=Lojban}}
 * [[Low Saxon]]: {{t-|nds|beryllium|n|xs=Low Saxon}}
 * [[Luxembourgish]]: {{t-|lb|Beryllium|xs=Luxembourgish}}
-* [[Macedonian]]: {{t-|mk|берилиум|tr=berilium|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|берилиум|tr=berilium|xs=Macedonian}}
 * Malay: {{t-|ms|berilium|xs=Malay}}
-* [[Malayalam]]: {{t-|ml|ബെറിലിയം|xs=Malayalam}}
+* [[Malayalam]]: {{t-|ml|ബെറിലിയം|sc=Mlym|xs=Malayalam}}
 * Maltese: {{t|mt|beriljum|xs=Maltese}}
 * [[Manx]]: {{t-|gv|beryllium|xs=Manx}}
 * {{ttbc|Maori}}: {{t-|mi|konnuku|xs=Maori}}, {{t-|mi|konuuku|xs=Maori}} (which one?)
@@ -129,10 +129,10 @@ from {{etyl|grc}} {{term|sc=Polytonic|βήρυλλος|tr=berullos||beryl|lang=g
 * Norwegian: {{t+|no|beryllium}}
 *: [[Norwegian Nynorsk]]: {{t-|nn|beryllium|xs=Norwegian Nynorsk}}
 * [[Occitan]]: {{t-|oc|berilli|m|xs=Occitan}}
-* Persian: {{t-|fa|بریلیوم|sc=fa-Arab|xs=Persian}}
+* Persian: {{t-|fa|بریلیوم|xs=Persian}}
 * Polish: {{t+|pl|beryl|m}}
 * Portuguese: {{t+|pt|berílio|m}}
-* [[Punjabi]]: {{t-|pa|ਬੇਰਿਲੀਅਮ|xs=Punjabi}}
+* [[Punjabi]]: {{t-|pa|ਬੇਰਿਲੀਅਮ|sc=Guru|xs=Punjabi}}
 * [[Quechua]]: {{t-|qu|berilyu|xs=Quechua}}
 * Romanian: {{t+|ro|beriliu|n}}
 * Russian: {{t+|ru|бериллий|m|tr=beríllij|sc=Cyrl}}
@@ -147,9 +147,9 @@ from {{etyl|grc}} {{term|sc=Polytonic|βήρυλλος|tr=berullos||beryl|lang=g
 * [[Swahili]]: {{t-|sw|berili|xs=Swahili}}
 * Swedish: {{t+|sv|beryllium|n}}
 * [[Tamil]]: {{t|ta|வெளிரியம்|tr=veLiriyam|xs=Tamil}}
-* Thai: {{t|th|บริลเลียม|tr=bēlrilliam|sc=Thai|xs=Thai}}
+* Thai: {{t|th|บริลเลียม|tr=bēlrilliam}}
 * Turkish: {{t+|tr|berilyum}}
-* Ukrainian: {{t|uk|берилiй|m|tr=berílij|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t|uk|берилiй|m|tr=berílij|xs=Ukrainian}}
 * Uzbek: {{t-|uz|бериллий|tr=[[berilliy]]|sc=Cyrl|xs=Uzbek}}
 * Vietnamese: {{t-|vi|berili|xs=Vietnamese}}
 * Welsh: {{t-|cy|berilliwm|xs=Welsh}}
