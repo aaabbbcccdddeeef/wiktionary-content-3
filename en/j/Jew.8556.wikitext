@@ -43,7 +43,7 @@ See the article ''[[w:Jew (word)|Jew (word)]]'' in [[Wikipedia]] (an etymology o
 * Arabic: {{Arab|[[يهودي]]}} (Yahūdiyy) {{m}}
 * Armenian: [[հրեա]] (hrea)
 * [[Azeri]]: {{t|az|yəhudi|xs=Azeri}}
-* Belarusian: {{t|be|яўрэй|m|tr=jawréj|sc=Cyrl|xs=Belarusian}},  {{t|be|яўрэйка|f|tr=jawréjka|sc=Cyrl|xs=Belarusian}}, {{qualifier|now obsolete}} {{t|be|габрэй|m|tr=habréj|sc=Cyrl|xs=Belarusian}},  {{t|be|габрэйка|f|tr=habréjka|sc=Cyrl|xs=Belarusian}}
+* Belarusian: {{t|be|яўрэй|m|tr=jawréj|xs=Belarusian}},  {{t|be|яўрэйка|f|tr=jawréjka|xs=Belarusian}}, {{qualifier|now obsolete}} {{t|be|габрэй|m|tr=habréj|xs=Belarusian}},  {{t|be|габрэйка|f|tr=habréjka|xs=Belarusian}}
 * Bosnian: [[jevrej#Bosnian|jevrej]], [[žid#Bosnian|žid]] {{m}} [[jevrejka#Bosnian|jevrejka]], [[židovka#Bosnian|židovka]] {{f}}
 * Bulgarian: [[евреин]] (evrein) {{m}}, [[еврейка]] (evreyka) {{f}}
 * [[Catalan]]: [[jueu]] {{m}}, [[jueva]] {{f}}
@@ -59,7 +59,7 @@ See the article ''[[w:Jew (word)|Jew (word)]]'' in [[Wikipedia]] (an etymology o
 * French: {{t+|fr|juif|m}}, {{t+|fr|juive|f}}
 * Georgian: {{t-|ka|ებრაელი|tr=ebrauli|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Jude|m}}, {{t+|de|Jüdin|f}}
-* Greek: {{t+|el|Εβραίος|m|tr=evréos|sc=Grek}}
+* Greek: {{t+|el|Εβραίος|m|tr=evréos}}
 * Hebrew: [[יהודי]] (Yehudi) {{m}}, [[יהודיה]] (Yehudiah) {{f}}, [[יהודים]] (Yehudim) {{m|p}}, [[יהודיות]] (Yehudiot) {{f|p}}
 * Hindi: [[यहूदी]] (yahūdī)
 * Hungarian: {{t+|hu|zsidó}}
@@ -73,12 +73,12 @@ See the article ''[[w:Jew (word)|Jew (word)]]'' in [[Wikipedia]] (an etymology o
 * Latvian: [[ebrejs]] {{m}}, [[žīds]] {{m}}
 * Malay: {{t+|ms|Yahudi|xs=Malay}}
 * Maltese: {{t-|mt|ludi|xs=Maltese}}
-* Norwegian: {{t|no|jøde|m}}
+* Norwegian: {{t+|no|jøde|m}}
 * Persian: {{fa-Arab|[[یهودی]]}} (yahudi)
 * Polish: {{t+|pl|żyd|m}}, {{t|pl|żydówka|f}}
 * Portuguese: {{t+|pt|judeu|m}}, {{t+|pt|judia|f}}
 * Romanian: [[evreu]] {{m}}, [[evreică]] {{f}}
-* Russian: {{t|ru|иудей|m|tr=iudéj|sc=Cyrl}}, {{t|ru|иудейка|f|tr=iudéjka|sc=Cyrl}}, {{t+|ru|еврей|m|tr=jevréj|sc=Cyrl}}, {{t|ru|еврейка|f|tr=jevréjka|sc=Cyrl}}
+* Russian: {{t|ru|иудей|m|tr=iudéj}}, {{t|ru|иудейка|f|tr=iudéjka}}, {{t+|ru|еврей|m|tr=jevréj}}, {{t+|ru|еврейка|f|tr=jevréjka}}
 * [[Scottish Gaelic]]: {{t-|gd|Iùdhach|m|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: [[јевреј#Serbian|јевреј]] {{m}}, [[јеврејка#Serbian|јеврејка]] {{f}}
@@ -90,7 +90,7 @@ See the article ''[[w:Jew (word)|Jew (word)]]'' in [[Wikipedia]] (an etymology o
 * Swedish: {{t+|sv|jude|c}}
 * [[Telugu]]: [[యూదు]] (yUdu)
 * Turkish: {{t+|tr|Yahudi}}
-* Ukrainian: {{t|uk|іудей|m|tr=iudéj|sc=Cyrl|xs=Ukrainian}}, {{t|uk|іудейка|f|tr=iudéjka|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t|uk|іудей|m|tr=iudéj|xs=Ukrainian}}, {{t|uk|іудейка|f|tr=iudéjka|xs=Ukrainian}}
 * Urdu: {{ur-Arab|[[یہودی]]}} (yahūdī)
 * [[West Frisian]]: [[joad]] {{m}}, [[joadinne]] {{f}}
 * Yiddish: [[ייִד]] (Yid) {{m}}
@@ -99,8 +99,8 @@ See the article ''[[w:Jew (word)|Jew (word)]]'' in [[Wikipedia]] (an etymology o
 {{trans-top|a person with a Jewish cultural or ancestral connection}}
 * Arabic: {{Arab|[[يهودي]]}} (Yahūdiyy) {{m}}
 * Armenian: [[հրեա]] (hrea)
-* Belarusian: {{t|be|яўрэй|m|tr=jawréj|sc=Cyrl|xs=Belarusian}},  {{t|be|яўрэйка|f|tr=jawréjka|sc=Cyrl|xs=Belarusian}},  {{t|be|габрэй|m|tr=habréj|sc=Cyrl|xs=Belarusian}},  {{t|be|габрэйка|f|tr=habréjka|sc=Cyrl|xs=Belarusian}},  {{qualifier|now abusive}} {{t|be|жыд|m|tr=žyd|sc=Cyrl|xs=Belarusian}},  {{t|be|жыдоўка|f|tr=žydówka|sc=Cyrl|xs=Belarusian}}
-* Bulgarian: {{t|bg|евреин|m|tr=evrein|sc=Cyrl}}
+* Belarusian: {{t|be|яўрэй|m|tr=jawréj|xs=Belarusian}},  {{t|be|яўрэйка|f|tr=jawréjka|xs=Belarusian}},  {{t|be|габрэй|m|tr=habréj|xs=Belarusian}},  {{t|be|габрэйка|f|tr=habréjka|xs=Belarusian}},  {{qualifier|now abusive}} {{t|be|жыд|m|tr=žyd|xs=Belarusian}},  {{t|be|жыдоўка|f|tr=žydówka|xs=Belarusian}}
+* Bulgarian: {{t|bg|евреин|m|tr=evrein}}
 * Chinese:
 *: Mandarin: [[猶太人]], [[犹太人]] (Yóutài-rén)
 * Croatian: {{t|hr|Jevrejin|m}}
@@ -114,13 +114,13 @@ See the article ''[[w:Jew (word)|Jew (word)]]'' in [[Wikipedia]] (an etymology o
 * Japanese: [[ユダヤ人]] (ユダヤじん, Yudaya-jin)
 * Kurdish: {{ku-Arab|[[جوله‌که‌]]}}
 * [[Lower Sorbian]]: [[Žyd]] {{m}}
-* Norwegian: {{t|no|jøde|m}}
+* Norwegian: {{t+|no|jøde|m}}
 * Polish: {{t+|pl|Żyd|m}}, {{t|pl|Żydówka|f}}
-* Russian: {{t+|ru|еврей|m|tr=jevréj|sc=Cyrl}}, {{t|ru|еврейка|f|tr=jevréjka|sc=Cyrl}},  {{qualifier|now abusive}} {{t+|ru|жид|m|tr=žid|sc=Cyrl}},  {{t|ru|жидовка|f|tr=židóvka|sc=Cyrl}}
+* Russian: {{t+|ru|еврей|m|tr=jevréj}}, {{t+|ru|еврейка|f|tr=jevréjka}},  {{qualifier|now abusive}} {{t+|ru|жид|m|tr=žid}},  {{t|ru|жидовка|f|tr=židóvka}}
 * [[Scottish Gaelic]]: {{t-|gd|Iùdhach|m|xs=Scottish Gaelic}}
 * Serbian: {{t|sr|Јеврејин|m|tr=Jevrejin|sc=Cyrl}}
 * Swahili: {{t|sw|wayahudi|xs=Swahili}}
-* Ukrainian: {{t+|uk|єврей|m|tr=jevréj|sc=Cyrl|xs=Ukrainian}}, {{t|uk|єврейка|f|tr=jevréjka|sc=Cyrl|xs=Ukrainian}}, {{t-|uk|жид|m|tr=žyd|sc=Cyrl|xs=Ukrainian}}, {{t|uk|жидовка|f|tr=žydóvka|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t+|uk|єврей|m|tr=jevréj|xs=Ukrainian}}, {{t|uk|єврейка|f|tr=jevréjka|xs=Ukrainian}}, {{t-|uk|жид|m|tr=žyd|xs=Ukrainian}}, {{t|uk|жидовка|f|tr=žydóvka|xs=Ukrainian}}
 {{trans-bottom}}
 
 ====Derived terms====
