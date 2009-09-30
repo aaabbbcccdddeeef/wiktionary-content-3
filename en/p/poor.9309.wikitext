@@ -63,12 +63,12 @@ From {{etyl|fro}} ''[[poure]]'' (French: ''[[pauvre]]''), from {{etyl|la}} ''[[p
 ====Translations====
 {{trans-top|with no possessions or money}}
 * Albanian: [[varfër]]
-* Arabic: {{t-|ar|فقير|tr=faqiir|sc=Arab}}
-* Armenian: {{t+|hy|աղքատ|tr=aġk’at|sc=Armn|xs=Armenian}},  {{t|hy|չքավոր|tr=čk’avor|sc=Armn|xs=Armenian}}
+* Arabic: {{t-|ar|فقير|tr=faqiir}}
+* Armenian: {{t+|hy|աղքատ|tr=aġk’at|xs=Armenian}},  {{t|hy|չքավոր|tr=čk’avor|xs=Armenian}}
 * [[Catalan]]: [[pobre]]
 * [[Chamicuro]]: {{tø|ccc|pople}}
 * Chinese:
-*: Mandarin: {{t|cmn|貧窮|sc=Hani|xs=Mandarin}},  {{t|cmn|贫穷|tr=pínqióng|sc=Hani|xs=Mandarin}},  {{t|cmn|貧乏|sc=Hani|xs=Mandarin}},  {{t|cmn|贫乏|tr=pínfá|sc=Hani|xs=Mandarin}},  {{t-|cmn|窮|sc=Hani|xs=Mandarin}},  {{t-|cmn|穷|tr=qióng|sc=Hani|xs=Mandarin}}
+*: Mandarin: {{t|cmn|貧窮|sc=Hani}},  {{t|cmn|贫穷|tr=pínqióng|sc=Hani}},  {{t|cmn|貧乏|sc=Hani}},  {{t|cmn|贫乏|tr=pínfá|sc=Hani}},  {{t-|cmn|窮|sc=Hani}},  {{t-|cmn|穷|tr=qióng|sc=Hani}}
 * Croatian: {{t+|hr|siromašan}}
 * Czech: {{t-|cs|chudý|m}}
 * Danish: {{t-|da|fattig}}
@@ -91,12 +91,12 @@ From {{etyl|fro}} ''[[poure]]'' (French: ''[[pauvre]]''), from {{etyl|la}} ''[[p
 * Latin: [[pauper]] ''m, f, n''
 * [[Marathi]]: [[गरीब]] (garib), [[दीन]] (deen)
 * Norwegian: [[fattig]], [[blakk]] {{qualifier|colloquial}}
-* Old English: {{t|ang|earm}}
+* Old English: {{t-|ang|earm|xs=Old English}}
 * Persian: {{fa-Arab|[[درویش]]}} (darvīš)
 * Polish: [[biedny]] {{m}}, [[biedna]] {{f}}, [[biedne]] {{n}}
 * Portuguese: {{t+|pt|pobre}}
 * Romanian: {{t-|ro|sărac|m}}, {{t+|ro|săracă|f}}
-* Russian: {{t+|ru|бедный|m|tr=bédnyj|sc=Cyrl}}, {{t+|ru|нищий|m|tr=níščij|sc=Cyrl}}
+* Russian: {{t+|ru|бедный|m|tr=bédnyj}}, {{t+|ru|нищий|m|tr=níščij}}
 * Sanskrit: [[अदानः]] (adānaha)
 * [[Scottish Gaelic]]: [[truagh]], [[bochd]]
 * Serbian: [[siromašan]] {{m}}, [[ubog]] {{m}}, [[bedan]] {{m}}
@@ -110,7 +110,7 @@ From {{etyl|fro}} ''[[poure]]'' (French: ''[[pauvre]]''), from {{etyl|la}} ''[[p
 
 {{trans-top|to be pitied}}
 * Arabic: {{Arab|[[مسكين]]}} (miskīn)
-* Armenian: {{t|hy|խեղճ|tr=xeġč̣|sc=Armn|xs=Armenian}},  {{t|hy|ողորմելի|tr=oġormeli|sc=Armn|xs=Armenian}}
+* Armenian: {{t|hy|խեղճ|tr=xeġč̣|xs=Armenian}},  {{t|hy|ողորմելի|tr=oġormeli|xs=Armenian}}
 * [[Catalan]]: [[pobre]]
 * Chinese: [[可怜]] (kělián)
 * Czech: {{t-|cs|nebohý|m}}
@@ -139,7 +139,7 @@ From {{etyl|fro}} ''[[poure]]'' (French: ''[[pauvre]]''), from {{etyl|la}} ''[[p
 {{trans-bottom}}
 
 {{trans-top|of low quality}}
-* Armenian: {{t+|hy|վատ|tr=vat|sc=Armn|xs=Armenian}},  {{qualifier|colloquially}} {{t|hy|ստից|tr=stic’|sc=Armn|xs=Armenian}}
+* Armenian: {{t+|hy|վատ|tr=vat|xs=Armenian}},  {{qualifier|colloquially}} {{t|hy|ստից|tr=stic’|xs=Armenian}}
 * [[Catalan]]: [[pobre]]
 * Chinese: [[贫乏]] (pínfá)
 * Finnish: {{t+|fi|kehno}}, {{t-|fi|heikkolaatuinen}}
@@ -155,14 +155,14 @@ From {{etyl|fro}} ''[[poure]]'' (French: ''[[pauvre]]''), from {{etyl|la}} ''[[p
 * Norwegian: [[dårlig]], [[elendig]]
 * Old English: {{t-|ang|earm|xs=Old English}}
 * Romanian: {{t-|ro|prost|m}}, {{t-|ro|slab|m}}, {{t-|ro|proastă|f}}, {{t+|ro|slabă|f}}
-* Russian: {{t+|ru|жалкий|tr=žálkij|sc=Cyrl}}
+* Russian: {{t+|ru|жалкий|tr=žálkij}}
 * [[Scottish Gaelic]]: [[bochd]]
 * Swedish: [[dålig]], [[undermålig]], [[eländig]], [[miserabel]], [[usel]]
 * [[Telugu]]: [[నాసి]] (naasi), [[నాసి రకం]] (naasi rakaM)
 {{trans-bottom}}
 
 {{trans-top|those with no possessions}}
-* Armenian: {{t|hy|աղքատները|tr=aġk’atnerë|sc=Armn|xs=Armenian}}
+* Armenian: {{t|hy|աղքատները|tr=aġk’atnerë|xs=Armenian}}
 * [[Catalan]]: els [[pobres]]
 * Finnish: {{t-|fi|köyhät|p}}
 * French: les [[pauvres]] {{m|p}}
