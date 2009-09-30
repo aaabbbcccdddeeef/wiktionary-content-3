@@ -38,12 +38,12 @@
 
 ====Translations====
 {{trans-top|uncountable: emotion caused by actual or perceived danger or threat}}
-* Arabic: {{t|ar|خوف|m|tr=khawf|sc=Arab}}
-* Armenian: {{t-|hy|վախ|tr=vax|sc=Armn|xs=Armenian}},  {{t-|hy|երկյուղ|tr=erkyuġ|sc=Armn|xs=Armenian}},  {{t-|hy|ահ|tr=ah|sc=Armn|xs=Armenian}}
+* Arabic: {{t|ar|خوف|m|tr=khawf}}
+* Armenian: {{t-|hy|վախ|tr=vax|xs=Armenian}},  {{t-|hy|երկյուղ|tr=erkyuġ|xs=Armenian}},  {{t-|hy|ահ|tr=ah|xs=Armenian}}
 * Bosnian: {{t-|bs|strah|m}}
 * [[Breton]]: {{t+|br|aon|xs=Breton}}
 * [[Catalan]]: [[por]] {{f}}, [[paüra]] {{f}}, [[basarda]] {{f}}, [[temor]] {{m}}
-* Chinese: {{t|cmn|恐怖|tr=kǒngbù|sc=Hans|xs=Mandarin}}
+* Chinese: {{t-|cmn|恐怖|tr=kǒngbù|sc=Hans}}
 * Croatian: {{t-|hr|strah|m}}
 * Czech: {{t-|cs|strach|m}}
 * Danish: {{t+|da|angst}}, {{t+|da|frygt|c}}
@@ -52,14 +52,14 @@
 * French: {{t+|fr|peur|f}}
 * German: {{t+|de|Angst|f}}, {{t+|de|Schreck|m}}
 * [[Gothic]]: {{tø|got|𐌰𐌲𐌹𐍃|tr=agis|sc=Goth}}
-* Greek: {{t+|el|φοβάμαι|tr=fov&aacute;mai|sc=Grek}}
+* Greek: {{t+|el|φοβάμαι|tr=fov&aacute;mai}}
 * Hebrew: [[אימה]] (eimah) {{f}}
 * Hungarian: {{t+|hu|félelem}}
 * Irish: {{t+|ga|eagla|f|xs=Irish}}
 * Italian: {{t+|it|paura|f}}
-* Japanese: {{t|ja|恐れ|tr=osore|sc=Jpan}},  {{t|ja|恐怖|tr=kyōfu|sc=Jpan}}
+* Japanese: {{t|ja|恐れ|tr=osore}},  {{t+|ja|恐怖|tr=kyōfu}}
 {{trans-mid}}
-* Korean: {{t|ko|공포|tr=koyuuo|sc=Kore}}
+* Korean: {{t|ko|공포|tr=koyuuo}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|tirs}} {{f}}
 *: Sorani: {{t-|ku|ترس|tr=tirs|sc=ku-Arab}}
@@ -68,7 +68,7 @@
 * Polish: {{t+|pl|strach|m}}, {{t+|pl|niepokój|m}}
 * Portuguese: {{t+|pt|medo|m}}, {{t+|pt|temor|m}}
 * Romanian: {{t-|ro|frică|f}}, {{t+|ro|teamă|f}}
-* Russian: {{t+|ru|страх|m|tr=stráx|sc=Cyrl}},  {{t+|ru|боязнь|f|tr=bojázn'|sc=Cyrl}}
+* Russian: {{t+|ru|страх|m|tr=stráx}},  {{t+|ru|боязнь|f|tr=bojázn'}}
 * [[Scottish Gaelic]]: {{t-|gd|eagal|m|xs=Scottish Gaelic}}, {{t-|gd|uabhas|m|xs=Scottish Gaelic}}, {{t-|gd|oillt|f|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: [[страх]] {{m}}
@@ -81,10 +81,10 @@
 {{trans-bottom}}
 
 {{trans-top|a phobia; sense of fear induced by something or someone}}
-* Armenian: {{t-|hy|վախ|tr=vax|sc=Armn|xs=Armenian}}
+* Armenian: {{t-|hy|վախ|tr=vax|xs=Armenian}}
 * Bosnian: {{t-|bs|strah|m}}
 * [[Catalan]]: [[por]] {{f}}, [[paüra]] {{f}}, [[basarda]] {{f}}, [[temor]] {{m}}
-* Chinese: {{t|cmn|恐怖|tr=kǒngbù|sc=Hans|xs=Mandarin}}
+* Chinese: {{t-|cmn|恐怖|tr=kǒngbù|sc=Hans}}
 * Croatian: {{t-|hr|strah|m}}
 * Czech: {{t-|cs|strach|m}}
 * Danish: [[angst]], [[frygt]] {{c}}
@@ -106,7 +106,7 @@
 * Polish: [[lęk]] {{m}}
 * Portuguese: {{t+|pt|fobia}}, {{t+|pt|medo|m}}, {{t+|pt|temor|m}}, {{t+|pt|pavor|m}}
 * Romanian: {{t-|ro|fobie}}
-* Russian: {{t+|ru|страх|m|tr=stráχ|sc=Cyrl}}, {{t+|ru|боязнь|f|tr=bojázn'|sc=Cyrl}}, {{t+|ru|фобия|f|tr=fóbija|sc=Cyrl}}
+* Russian: {{t+|ru|страх|m|tr=stráχ}}, {{t+|ru|боязнь|f|tr=bojázn'}}, {{t+|ru|фобия|f|tr=fóbija}}
 * [[Scottish Gaelic]]: {{t-|gd|eagal|m|xs=Scottish Gaelic}}, {{t-|gd|uabhas|m|xs=Scottish Gaelic}}, {{t-|gd|oillt|f|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: [[страх]] {{m}}
@@ -116,7 +116,7 @@
 {{trans-bottom}}
 
 {{trans-top|extreme veneration or awe}}
-* Armenian: {{t-|hy|երկյուղ|tr=erkyuġ|sc=Armn|xs=Armenian}}
+* Armenian: {{t-|hy|երկյուղ|tr=erkyuġ|xs=Armenian}}
 * Bosnian: {{t-|bs|strah|m}}
 * [[Catalan]]: [[temor]] {{m}}, [[respecte]] {{m}}
 * Croatian: {{t-|hr|strah|m}}
@@ -131,13 +131,13 @@
 *: Sorani: {{t-|ku|ترس|tr=|sc=ku-Arab}}
 {{trans-mid}}
 * Malay: {{t|ms|ketakutan|xs=Malay}}
-* Russian: {{t+|ru|страх|m|tr=stráχ|sc=Cyrl}}
+* Russian: {{t+|ru|страх|m|tr=stráχ}}
 * [[Scottish Gaelic]]: {{t-|gd|eagal|m|xs=Scottish Gaelic}}, {{t-|gd|uabhas|m|xs=Scottish Gaelic}}, {{t-|gd|oillt|f|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: [[страх]] {{m}}
 *: Roman: [[strah]] {{m}}
 * Slovene: [[strahospoštovanje]] {{n}}
-* Swedish: [[fruktan]]
+* Swedish: {{t+|sv|fruktan}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -187,20 +187,20 @@
 ====Translations====
 {{trans-top|feel fear about (something)}}
 * Albanian: [[ka]] [[frikë]]
-* Arabic: {{t|ar|خاف|tr=khaafa|sc=Arab}}
-* Armenian: {{t-|hy|վախենալ|tr=vaxenal|sc=Armn|xs=Armenian}}
+* Arabic: {{t|ar|خاف|tr=khaafa}}
+* Armenian: {{t-|hy|վախենալ|tr=vaxenal|xs=Armenian}}
 * Bosnian: [[bojati]] (se)
-* [[Catalan]]: {{t-|ca|témer}}, {{t-|ca|tenir por de}}
-* Chinese: {{t-|cmn|害怕|tr=hàipà|sc=Hans|xs=Mandarin}}, {{t-|cmn|怕|tr=pà|sc=Hans|xs=Mandarin}}
+* [[Catalan]]: {{t+|ca|témer}}, {{t-|ca|tenir por de}}
+* Chinese: {{t-|cmn|害怕|tr=hàipà|sc=Hans}}, {{t-|cmn|怕|tr=pà|sc=Hans}}
 * Croatian: [[bojati]] (se)
-* Czech: se
+* Czech: {{t+|cs|se}}
 * Danish: [[frygte]], [[være bange for]]
 * Dutch: {{t+|nl|vrezen}}
 * Esperanto: {{t-|eo|timi|xs=Esperanto}}
 * Estonian: {{t|et|kartma}}
 * Finnish: {{t+|fi|pelätä}}
-* French: {{t-|fr|craindre}}, {{t-|fr|avoir peur de}}
-* [[Galician]]: {{t|gl|temer}}
+* French: {{t+|fr|craindre}}, {{t-|fr|avoir peur de}}
+* [[Galician]]: {{t+|gl|temer|xs=Galician}}
 * German: {{t+|de|fürchten}}
 * [[Guaraní]]: ...r[[ehe]] [[kyhyje]]
 * Hungarian: {{t+|hu|fél}}
@@ -208,20 +208,20 @@
 * [[Interlingua]]: [[timer]], [[haber]] [[timor]]
 * Irish: [[eagla]] a [[bheith]] [[ort]] [[roimh]]...
 * Italian: {{t+|it|temere}}, {{t+|it|aver paura di}}
-* Japanese: {{t-|ja|恐れる|tr=osoreru|sc=Jpan}},  {{t|ja|怖る|tr=osoru|sc=Jpan}}
+* Japanese: {{t-|ja|恐れる|tr=osoreru}},  {{t|ja|怖る|tr=osoru}}
 {{trans-mid}}
 * Kurdish:
 *: Kurmanji: {{t|ku|tirsîn}}
 *: Sorani: {{t|ku|ترسین|tr=tirseen|sc=ku-Arab}}
 * Lao: {{t-|lo|ຢ້ານກົວ|tr=yaan-kua|sc=Laoo|xs=Lao}}
-* Latin: {{t|la|timeo}}
+* Latin: {{t-|la|timeo}}
 * Malay: {{t-|ms|takut|xs=Malay}}
 * [[Northern Sami]]: [[ballat]]
 * Polish: [[bać się]], [[lękać się]], [[niepokoić się]], [[czuć]] [[niepokój]]
 * Portuguese: {{t+|pt|temer}}, {{t+|pt|ter medo de}}
 * Romanian: {{t+|ro|teme}}
-* [[Romansch]]: {{t|rm|temair}}
-* Russian: {{t+|ru|бояться|tr=boját’sja|sc=Cyrl}} (+ [[genitive case]]), {{t+|ru|страшиться|tr=strašít’sja|sc=Cyrl}} (+ [[genitive case]])
+* [[Romansch]]: {{t|rm|temair|xs=Romansch}}
+* Russian: {{t+|ru|бояться|tr=boját’sja}} (+ [[genitive case]]), {{t+|ru|страшиться|tr=strašít’sja}} (+ [[genitive case]])
 * [[Santali]]: {{tø|sat|ᱵᱳᱨᱳ|tr=boro|sc=Olck}}
 * Serbian:
 *: Cyrillic: [[бојати]] (се)
@@ -234,7 +234,7 @@
 {{trans-bottom}}
 
 {{trans-top|venerate}}
-* Armenian: {{t-|hy|վախենալ|tr=vaxenal|sc=Armn|xs=Armenian}}
+* Armenian: {{t-|hy|վախենալ|tr=vaxenal|xs=Armenian}}
 * [[Catalan]]: {{t+|ca|témer}}, {{t+|ca|respectar}}
 * Czech: {{t-|cs|bát}} se
 * Hungarian: {{t+|hu|fél}}
