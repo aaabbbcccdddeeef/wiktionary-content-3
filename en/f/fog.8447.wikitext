@@ -84,22 +84,22 @@ Origin uncertain; perhaps a {{back-form|foggy|nocap=7}}
 * Aramaic:
 *: Syriac: [[ܥܪܦܠܐ]] (‘arpelā, ‘arpelo) {{f}}
 *: Hebrew: [[ערפלא]] (‘arpelā, ‘arpelo) {{f}}
-* Armenian: {{t-|hy|մառախուղ|tr=maṙaxuġ|sc=Armn|xs=Armenian}}, {{t-|hy|մեգ|tr=meg|sc=Armn|xs=Armenian}}, {{t-|hy|մշուշ|tr=mšuš|sc=Armn|xs=Armenian}}
+* Armenian: {{t-|hy|մառախուղ|tr=maṙaxuġ|xs=Armenian}}, {{t-|hy|մեգ|tr=meg|xs=Armenian}}, {{t-|hy|մշուշ|tr=mšuš|xs=Armenian}}
 * {{trreq|Basque}}
 * [[Catalan]]: [[boira]] {{f}}
 * Chinese: [[雾]] (wù)
 * Croatian: {{t-|hr|magla|f}}
 * Czech: {{t+|cs|mlha|f}}
 * Danish: {{t-|da|tåge|c}}
-* Dutch: {{t+|nl|mist|m}}, {{t-|nl|nevel|m}}
+* Dutch: {{t+|nl|mist|m}}, {{t+|nl|nevel|m}}
 * Esperanto: {{t-|eo|nebulo|xs=Esperanto}}
 * Estonian: [[udu]]
 * [[Fijian]]: [[kabu]]
 * Finnish: {{t+|fi|sumu}}
 * French: {{t+|fr|brouillard|m}}, {{t+|fr|brume|f}}
-* Georgian: {{t|ka|ნისლი|tr=nisli|xs=Georgian}}, {{t|ka|ბურუსი|tr=burusi|xs=Georgian}}
+* Georgian: {{t|ka|ნისლი|tr=nisli|sc=Geor|xs=Georgian}}, {{t|ka|ბურუსი|tr=burusi|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Nebel|m}}
-* Greek: {{t+|el|ομίχλη|f|sc=Grek}}
+* Greek: {{t+|el|ομίχλη|f}}
 * Hawaiian: [['ohu]]
 * Hebrew: [[ערפל]] (arafel) {{m}}
 * {{trreq|Hindi}}
@@ -107,7 +107,7 @@ Origin uncertain; perhaps a {{back-form|foggy|nocap=7}}
 * Indonesian: {{t+|id|kabut|xs=Indonesian}}
 * Irish: {{t-|ga|ceo|m|xs=Irish}}
 * Italian: {{t+|it|nebbia|f}}
-* Japanese: {{t+|ja|霧|tr=kiri|sc=Jpan}}
+* Japanese: {{t+|ja|霧|tr=kiri}}
 * {{trreq|Korean}}
 * Kurdish:
 *: Sorani: {{t|ku|ته‌م|tr=tam|sc=ku-Arab}}
@@ -115,7 +115,7 @@ Origin uncertain; perhaps a {{back-form|foggy|nocap=7}}
 * Latin: {{t-|la|caligo|f|alt=cālīgō}}, {{t-|la|nebula|f}}
 * Latvian: {{t-|lv|migla|f|xs=Latvian}}
 * {{trreq|Lithuanian}}
-* [[Macedonian]]: {{t-|mk|магла|f|tr=mágla|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|магла|f|tr=mágla|xs=Macedonian}}
 * Malay: {{t-|ms|kabus|xs=Malay}}, {{t-|ms|kabut|xs=Malay}}
 * Maltese: {{t-|mt|ċpar|xs=Maltese}}
 * [[Manx]]: [[kay]]
@@ -125,11 +125,11 @@ Origin uncertain; perhaps a {{back-form|foggy|nocap=7}}
 * Navajo: [[áhí]]
 * [[Occitan]]: [[nèbla]] {{f}}, [[bruma]] {{f}}
 * Old English: {{t-|ang|mist|m|xs=Old English}}
-* Persian: {{t+|fa|مه|sc=fa-Arab|xs=Persian}}
+* Persian: {{t+|fa|مه|xs=Persian}}
 * Polish: {{t+|pl|mgła|f}}
 * Portuguese: [[nevoeiro]] {{m}}, [[névoa]] {{f}}; (in Brasil:) [[neblina]] {{f}}
 * Romanian: {{t+|ro|ceaţă|f}}
-* Russian: {{t+|ru|туман|m|tr=tumán|sc=Cyrl}}, {{t+|ru|мгла|f|tr=mgla|sc=Cyrl}}
+* Russian: {{t+|ru|туман|m|tr=tumán}}, {{t+|ru|мгла|f|tr=mgla}}
 * Samoan: [[puao]]
 * [[Scottish Gaelic]]: [[ceò]] {{m|f}}
 * Serbian: {{t-|sr|magla|f}}
@@ -196,7 +196,7 @@ Origin uncertain; perhaps a {{back-form|foggy|nocap=7}}
 
 =====Translations=====
 {{trans-top|to become covered with or as if with fog}}
-* [[Macedonian]]: {{t|mk|се замаглува|tr=se zamágluva|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|се замаглува|tr=se zamágluva|xs=Macedonian}}
 * Russian: [[затуманиваться]] (zatumánivat’sja)
 {{trans-mid}}
 * Swedish: [[höljas]] i [[dimma]],
