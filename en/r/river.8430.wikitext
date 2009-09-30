@@ -62,7 +62,7 @@ From {{etyl|fro|en}} {{term|rivière|lang=fro}} < {{VL.}} *{{term||riparia|river
 * [[Afrikaans]]: {{t-|af|rivier|xs=Afrikaans}}
 * [[Amharic]]: {{tø|am|ወንዝ|tr=wänz|sc=Ethi}}
 * Arabic: {{Arab|[[نهر]]}} (nahr) {{m}}, {{Arab|[[أنهار]]}} {{IPAchar|(’anhār)}} {{p}}, {{Arab|[[أنهر]]}} {{IPAchar|(’ánhur)}} {{p}}
-* Armenian: {{t+|hy|գետ|tr=get|sc=Armn|xs=Armenian}}
+* Armenian: {{t+|hy|գետ|tr=get|xs=Armenian}}
 * [[Azeri]]: {{t+|az|çay|xs=Azeri}}
 * Bengali: {{tø|bn|নদী|tr=nadī|sc=Beng}}
 * [[Betawi]]: [[kali]]
@@ -86,15 +86,15 @@ From {{etyl|fro|en}} {{term|rivière|lang=fro}} < {{VL.}} *{{term||riparia|river
 * [[Ido]]: {{t+|io|rivero|xs=Ido}}
 * Indonesian: {{t|id|Sungai|xs=Indonesian}}
 * Irish: {{t+|ga|abhainn|f|xs=Irish}}
-* Japanese: {{t+|ja|川|tr=[[かわ]], kawá|sc=Jpan}}
+* Japanese: {{t+|ja|川|tr=[[かわ]], kawá}}
 * {{trreq|Lao}}
 * Latvian: {{t-|lv|upe|f|xs=Latvian}}
 * Lithuanian: {{t+|lt|upė|f|xs=Lithuanian}}
 {{trans-mid}}
 * [[Luhya]]: {{tø|luy|eluchi}}
-* [[Macedonian]]: {{t-|mk|река|f|tr=réka|sc=Cyrl|xs=Macedonian}}
-* Malay: {{t|ms|sungai}}
-* Maltese: {{t|mt|xmara|f|xs=Maltese}}
+* [[Macedonian]]: {{t-|mk|река|f|tr=réka|xs=Macedonian}}
+* Malay: {{t+|ms|sungai|xs=Malay}}
+* Maltese: {{t-|mt|xmara|f|xs=Maltese}}
 * [[Manx]]: {{t-|gv|awin|f|xs=Manx}}
 * [[Meänkieli]]: {{tø|fit|joki}}, {{tø|fit|väylä}}
 * {{trreq|Mongolian}}
@@ -103,36 +103,36 @@ From {{etyl|fro|en}} {{term|rivière|lang=fro}} < {{VL.}} *{{term||riparia|river
 * [[Old Irish]]: {{tø|sga|ab|f|xs=Old Irish}}
 * Old Norse: {{tø|non|á|f|xs=Old Norse}}
 * Ossetic: {{tø|os|дон|tr=don|sc=Cyrl|xs=Ossetian}}, {{tø|os|цæугæдон|sc=Cyrl|xs=Ossetian}}, {{tø|os|фурд|tr=furd|sc=Cyrl|xs=Ossetian}}
-* Persian: {{t+|fa|رودخانه|tr=rudxâne|sc=fa-Arab|xs=Persian}}, {{t+|fa|رود|tr=rud|sc=fa-Arab|xs=Persian}}, {{t-|fa|نهر|tr=nahr|sc=fa-Arab|xs=Persian}}, {{t+|fa|دریا|tr=daryâ|sc=fa-Arab|xs=Persian}}
+* Persian: {{t+|fa|رودخانه|tr=rudxâne|xs=Persian}}, {{t+|fa|رود|tr=rud|xs=Persian}}, {{t-|fa|نهر|tr=nahr|xs=Persian}}, {{t+|fa|دریا|tr=daryâ|xs=Persian}}
 * Portuguese: {{t+|pt|rio|m}}
 * {{trreq|Romanian}}
-* Russian: {{t+|ru|река|f|tr=reká|sc=Cyrl}}
+* Russian: {{t+|ru|река|f|tr=reká}}
 * [[Scottish Gaelic]]: {{t-|gd|abhainn|f|xs=Scottish Gaelic}}
 * [[Sicilian]]: {{t+|scn|ciumi|m|xs=Sicilian}}
 * {{trreq|Slovene}}
-* [[Sotho]]: {{t|st|noka|xs=Sotho}}
+* [[Sotho]]: {{t-|st|noka|xs=Sotho}}
 * Swahili: {{t+|sw|mto|xs=Swahili}}
 * Swedish: {{t+|sv|flod|c}}, {{t+|sv|älv|c}}
 * [[Tajik]]: {{t-|tg|рӯд|tr=rūd|sc=Cyrl|xs=Tajik}},  {{t-|tg|дарё|tr=daryo|sc=Cyrl|xs=Tajik}},  {{t-|tg|наҳр|tr=nahr|sc=Cyrl|xs=Tajik}}
-* Thai: {{t-|th|แม่น้ำ|sc=Thai|xs=Thai}}
+* Thai: {{t-|th|แม่น้ำ}}
 * {{trreq|Tibetan}}
 * [[Tok Pisin]]: {{t-|tpi|wara|xs=Tok Pisin}}
 * Turkish: {{t+|tr|ırmak}}, {{t+|tr|nehir}}
 * Vietnamese: {{t+|vi|sông|xs=Vietnamese}}
 * Welsh: {{t-|cy|afon|f|xs=Welsh}}
 * [[West Frisian]]: {{t+|fy|rivier|xs=West Frisian}}
-* Yiddish: {{t|yi|טײַך|m|tr=taykh|sc=Hebr}}
+* Yiddish: {{t-|yi|טײַך|m|tr=taykh|xs=Yiddish}}
 {{trans-bottom}}
 
 {{trans-top|any large flow of a liquid}}
-* Armenian: {{t-|hy|հեղեղ|tr=heġeġ|sc=Armn|xs=Armenian}}
+* Armenian: {{t-|hy|հեղեղ|tr=heġeġ|xs=Armenian}}
 * Czech: {{t-|cs|potok|m}}
 * Danish: {{t+|da|flod|c}}
 * Finnish: {{t+|fi|virta}}
 * French: {{t+|fr|torrent|m}}
 {{trans-mid}}
 * German: {{t+|de|Strom|m}}
-* Russian: {{t+|ru|река|f|tr=reká|sc=Cyrl}}
+* Russian: {{t+|ru|река|f|tr=reká}}
 * Swahili: {{t+|sw|mto|xs=Swahili}}
 * Swedish: {{t+|sv|flod|c}}
 * [[Tok Pisin]]: {{t-|tpi|wara|xs=Tok Pisin}}
@@ -214,7 +214,7 @@ From {{etyl|fro|en}} {{term|rivière|lang=fro}} < {{VL.}} *{{term||riparia|river
 * {{ttbc|Central Atlas Tamazight}}: [[asif]] {{m}}, [[ighzer]] {{m}}{{rfscript|Tamazight}}
 * {{ttbc|Tamil}}: [[ஆறு]] (āṟu)
 * {{ttbc|Taos}}: [[p’ȍ’óna]]
-* {{ttbc|Telugu}}: {{t+|te|నది|sc=Telu}}(nadi)
+* {{ttbc|Telugu}}: {{t+|te|నది}}(nadi)
 * {{ttbc|Thai}}: {{Thai|[[แม่น้ำ]]}} (mâe náam)
 * {{trreq|Tongan}}
 * {{ttbc|Tibetan}}: [[ཆུ]] (chu)
