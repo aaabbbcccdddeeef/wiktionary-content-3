@@ -114,15 +114,15 @@ From {{etyl|ang}} [[#Old English|sand]], from {{proto|Germanic|sanda}}, from {{p
 * Armenian: {{t+|hy|ավազ|tr=avaz|sc=Hayeren|xs=Armenian}}
 * [[Azeri]]: {{t+|az|qum|xs=Azeri}}
 * [[Bashkir]]: {{t|ba|ҡом|tr=qom|sc=Cyrl|xs=Bashkir}}
-* Belarusian: {{t|be|пясок|m|tr=piasok|sc=Cyrl|xs=Belarusian}}
-* Bulgarian: {{t+|bg|пясък|m|tr=pjásǎk|sc=Cyrl}}
+* Belarusian: {{t|be|пясок|m|tr=piasok|xs=Belarusian}}
+* Bulgarian: {{t+|bg|пясък|m|tr=pjásǎk}}
 * {{trreq|Burmese}}
 * [[Buryat]]: {{tø|bxr|элһэн|tr=elhen|sc=Cyrl}}
 * CJKV Characters: [[砂]], [[沙]]
 * [[Catalan]]: [[sorra]] {{f}}
 * [[Chamicuro]]: {{tø|ccc|mas̈hkojpe}}
 * [[Chechen]]: {{tø|ce|гӀум|tr=ġum|sc=Cyrl}}
-* Cherokee: {{t-|chr|ᏃᏯ|tr=noya|xs=Cherokee}}
+* Cherokee: {{t-|chr|ᏃᏯ|tr=noya|sc=Cher|xs=Cherokee}}
 * Chinese: [[沙]] (shā)
 * [[Chuvash]]: {{tø|cv|хӑйӑр|tr=xăyăr|sc=Cyrl}}
 * [[Crimean Tatar]]: {{tø|crh|qum}}
@@ -136,19 +136,19 @@ From {{etyl|ang}} [[#Old English|sand]], from {{proto|Germanic|sanda}}, from {{p
 * Finnish: {{t+|fi|hiekka}}
 * French: {{t+|fr|sable|m}}
 * [[Gagauz]]: {{tø|gag|kum}}
-* Georgian: {{t-|ka|ქვიშა|tr=k‘viša|xs=Georgian}}, {{t-|ka|სილა|tr=sila|xs=Georgian}}
+* Georgian: {{t-|ka|ქვიშა|tr=k‘viša|sc=Geor|xs=Georgian}}, {{t-|ka|სილა|tr=sila|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Sand|m}}
-* Greek: {{t+|el|άμμος|f|sc=Grek}}
+* Greek: {{t+|el|άμμος|f}}
 * Hawaiian: {{tø|haw|one|xs=Hawaiian}}
-* Hebrew: {{t+|he|חול|m|tr=khol|sc=Hebr}}
-* Hindi: {{t|hi|रेत|tr=reit|sc=Deva|xs=Hindi}} {{g|Hindi}}
+* Hebrew: {{t+|he|חול|m|tr=khol}}
+* Hindi: {{t|hi|रेत|tr=reit|xs=Hindi}} {{g|Hindi}}
 * Hungarian: {{t+|hu|homok}}
 * Icelandic: {{t+|is|sandur|m}}
 * Indonesian: {{t+|id|pasir|xs=Indonesian}}
 * [[Ingush]]: {{tø|inh|гӀум|tr=ġum|sc=Cyrl}}
 * Irish: {{t|ga|gaineamh|m|xs=Irish}}
 * Italian: {{t+|it|sabbia|f}}, {{t+|it|rena|f}}
-* Japanese: {{t+|ja|砂|tr=[[すな]], suna|sc=Jpan}}
+* Japanese: {{t+|ja|砂|tr=[[すな]], suna}}
 * [[Kalmyk]]: {{tø|xal|элсн|tr=elsn|sc=Cyrl}}
 * [[Karachay-Balkar]]: {{tø|krc|къум|tr=qum|sc=Cyrl}},  {{tø|krc|юзмез|tr=üzmez|sc=Cyrl}}
 * [[Karakalpak]]: {{tø|kaa|qum}}
@@ -163,7 +163,7 @@ From {{etyl|ang}} [[#Old English|sand]], from {{proto|Germanic|sanda}}, from {{p
 {{trans-mid}}
 * Latvian: {{t|lv|smiltis|f|p|xs=Latvian}}
 * Lithuanian: {{t|lt|smėlis|f|xs=Lithuanian}}
-* [[Macedonian]]: {{t-|mk|песок|m|tr=pesok|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|песок|m|tr=pesok|xs=Macedonian}}
 * Malay: {{t-|ms|pasir|xs=Malay}}
 * {{trreq|Maltese}}
 * Maori: {{t-|mi|one|xs=Maori}}
@@ -174,13 +174,13 @@ From {{etyl|ang}} [[#Old English|sand]], from {{proto|Germanic|sanda}}, from {{p
 * [[Occitan]]: {{t+|oc|sabla|f|xs=Occitan}}, {{tø|arena|f}}
 * [[Old Church Slavonic]]: {{tø|cu|пѣсъкъ|m|tr=pěsŭkŭ|sc=Cyrs}}
 * Old English: {{t-|ang|sand|m|xs=Old English}}
-* Persian: {{t-|fa|ریگ|tr=rig|sc=fa-Arab|xs=Persian}},  {{t+|fa|شن|tr=shen|sc=fa-Arab|xs=Persian}}
+* Persian: {{t-|fa|ریگ|tr=rig|xs=Persian}},  {{t+|fa|شن|tr=shen|xs=Persian}}
 * {{trreq|Pitjantjatjara}}
 * Polish: {{t+|pl|piasek|m}}
 * Portuguese: {{t+|pt|areia|f}}
 * [[Romani]]: {{tø|rom|kishaj|m|xs=Romani}}
-* Romanian: {{t-|ro|nisip|m|f}}
-* Russian: {{t+|ru|песок|m|tr=pesók|sc=Cyrl}}
+* Romanian: {{t+|ro|nisip|m|f}}
+* Russian: {{t+|ru|песок|m|tr=pesók}}
 * {{trreq|Samoan}}
 * [[Sardinian]]: {{tø|sc|arena|f|xs=Sardinian}}
 * [[Scottish Gaelic]]: {{t-|gd|gainmheach|f|xs=Scottish Gaelic}}
@@ -205,29 +205,29 @@ From {{etyl|ang}} [[#Old English|sand]], from {{proto|Germanic|sanda}}, from {{p
 * Turkish: {{t+|tr|kum}}
 * Turkmen: {{t-|tk|gum|xs=Turkmen}},  {{t|tk|çäge|xs=Turkmen}}
 * [[Tuvan]]: {{tø|tyv|элезин|tr=elezin|sc=Cyrl}},  {{tø|tyv|кум|tr=qum|sc=Cyrl}}
-* Ukrainian: {{t|uk|пісок|m|tr=pisók|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t|uk|пісок|m|tr=pisók|xs=Ukrainian}}
 * [[Uyghur]]: {{t+|ug|قۇم|tr=ķum|sc=ug-Arab|xs=Uyghur}}
 * Uzbek: {{t-|uz|qum|xs=Uzbek}}
 * Vietnamese: {{t|vi|cát|xs=Vietnamese}}
 * {{trreq|Welsh}}
 * [[West Frisian]]: {{t+|fy|sân|n|xs=West Frisian}}
 * [[Yakut]]: {{tø|sah|кумах|tr=kumax|sc=Cyrl}}
-* Yiddish: {{t|yi|זאַמד|m|n|tr=zamd|sc=Hebr|xs=Yiddish}}
+* Yiddish: {{t|yi|זאַמד|m|n|tr=zamd|xs=Yiddish}}
 {{trans-bottom}}
 
 {{trans-top|beach}}
 * [[Catalan]]: [[platja]] {{f}}
 * [[Chamicuro]]: {{tø|ccc|mas̈hkojpe}}
-* Cherokee: {{t-|chr|ᏃᏯ|tr=noya|xs=Cherokee}}
+* Cherokee: {{t-|chr|ᏃᏯ|tr=noya|sc=Cher|xs=Cherokee}}
 * Czech: {{t-|cs|pláž|f}}
 * Danish: {{t-|da|sandstrand}}, {{t-|da|strand}}
 * Dutch: [[zandstrand]] {{n}}
 * Finnish: {{t-|fi|hietikko}}, {{t-|fi|hiekkaranta}}
 * French: {{t+|fr|plage|f}}
-* Georgian: {{t|ka|მეჩეჩი|tr=mečeči|xs=Georgian}}
+* Georgian: {{t|ka|მეჩეჩი|tr=mečeči|sc=Geor|xs=Georgian}}
 {{trans-mid}}
 * German: [[Sand]] {{m}} (''sandy islet''), [[Sandstrand]] {{m}}
-* Greek: {{t|el|αμμουδιά|f|tr=amouðiá|sc=Grek}}
+* Greek: {{t+|el|αμμουδιά|f|tr=amouðiá}}
 * Italian: {{t+|it|spiaggia|f}}
 * Japanese: [[砂浜]] (すなはま, sunahama), [[ビーチ]] (bīchi)
 * Norwegian: {{t-|no|sandstrand}}, {{t+|no|strand}}
@@ -243,7 +243,7 @@ From {{etyl|ang}} [[#Old English|sand]], from {{proto|Germanic|sanda}}, from {{p
 {{trans-bottom}}
 
 {{trans-top|colour}}
-* Cherokee: {{t-|chr|ᏃᏯ|tr=noya|xs=Cherokee}}
+* Cherokee: {{t-|chr|ᏃᏯ|tr=noya|sc=Cher|xs=Cherokee}}
 * Danish: [[sandfarvet]]
 * Finnish: [[hiekka]], [[hiekanvärinen]]
 * French: [[ton]] [[sable]] {{m}}, [[teinte]] [[sable]] {{f}},
@@ -268,7 +268,7 @@ From {{etyl|ang}} [[#Old English|sand]], from {{proto|Germanic|sanda}}, from {{p
 
 ====Translations====
 {{trans-top|colour}}
-* Bulgarian: {{t+|bg|пясък|m|tr=pjasǎk|sc=Cyrl}}
+* Bulgarian: {{t+|bg|пясък|m|tr=pjasǎk}}
 * Dutch: [[zandkleurig]], [[zandkleurige]]
 * Finnish: [[hiekanvärinen]]
 {{trans-mid}}
