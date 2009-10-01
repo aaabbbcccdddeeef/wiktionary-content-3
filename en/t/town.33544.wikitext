@@ -86,7 +86,7 @@ An urban city is typically larger than a rural town, which in turn is typically 
 * {{trreq|Bengali}}
 * Bosnian: {{t-|bs|grad|m}}, {{t-|bs|varoš}}
 * [[Breton]]: [[kêr]] {{f}}, kêrioù {{p}}, [[kumun]] {{f}}, kumunioù {{p}}
-* Bulgarian: {{t+|bg|град|m|tr=grad|sc=Cyrl}}
+* Bulgarian: {{t+|bg|град|m|tr=grad}}
 * {{trreq|Burmese}}
 * CJKV Characters: [[堡]]; [[城]]; [[街]], [[町]]
 * [[Catalan]]: {{t+|ca|ciutat}}
@@ -102,16 +102,16 @@ An urban city is typically larger than a rural town, which in turn is typically 
 * Estonian: {{t+|et|linn}}
 * Finnish: {{t+|fi|kunta}}, {{t+|fi|kaupunki}}
 * French: {{t+|fr|commune|f}}, {{t+|fr|ville|f}}
-* Georgian: {{t-|ka|ქალაქი|tr=k'alak'i|xs=Georgian}}
+* Georgian: {{t-|ka|ქალაქი|tr=k'alak'i|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Gemeinde|f}}, {{t+|de|Stadt|f}},  {{t+|de|Ort|m}}
-* Greek: {{t+|el|κωμόπολη|f|tr=komópoli|sc=Grek}}, {{t+|el|πολίχνη|f|sc=Grek}}, {{t+|el|κώμη|f|sc=Grek}}
-* Hebrew: {{t+|he|עיר|f|alt=עִיר|tr=ir|sc=Hebr}}
+* Greek: {{t+|el|κωμόπολη|f|tr=komópoli}}, {{t+|el|πολίχνη|f}}, {{t+|el|κώμη|f}}
+* Hebrew: {{t+|he|עיר|f|alt=עִיר|tr=ir}}
 * Hindi: [[नगर]] (nagar)
 * Hungarian: {{t+|hu|város}}
 * [[Ido]]: {{t+|io|urbo|xs=Ido}}
 * Irish: {{t+|ga|baile|m|xs=Irish}}
 * Italian: {{t+|it|città|f}}
-* Japanese: {{t+|ja|街|sc=Jpan}}, {{t+|ja|町|sc=Jpan}}, {{t-|ja|まち|tr=machi|sc=Jpan}}
+* Japanese: {{t+|ja|街}}, {{t+|ja|町}}, {{t-|ja|まち|tr=machi}}
 * [[Kamba]]: {{tø|kam|taunii}}
 * [[Khmer]]: {{Khmr|[[ទីក្រុង]]}} (dtī grong), {{Khmr|[[ផ្សារ]]}} (psā)
 * [[Kikuyu]]: {{tø|ki|taoni}}
@@ -119,9 +119,9 @@ An urban city is typically larger than a rural town, which in turn is typically 
 * Korean: [[읍]] (eup)
 * {{trreq|Kurdish}}
 * Latin: {{t+|la|oppidum|n}}
-* Lithuanian: [[miestelis]] {{m}}
+* Lithuanian: {{t+|lt|miestelis|m|xs=Lithuanian}}
 * [[Luhya]]: {{tø|luy|mtauni}},  {{tø|luy|etauni}}
-* [[Macedonian]]: {{t-|mk|град|m|tr=grád|sc=Cyrl|xs=Macedonian}},  {{t|mk|паланка|f|tr=pálanka|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|град|m|tr=grád|xs=Macedonian}},  {{t|mk|паланка|f|tr=pálanka|xs=Macedonian}}
 * Malay: {{t-|ms|bandar|xs=Malay}}
 * Maltese: {{t-|mt|raħal|xs=Maltese}}
 * {{trreq|Maori}}
@@ -131,8 +131,8 @@ An urban city is typically larger than a rural town, which in turn is typically 
 * Persian: {{fa-Arab|[[شهرک]]}}
 * Portuguese: {{t+|pt|vila|f}}, {{t+|pt|aldeia|f}}, {{t+|pt|povoado|m}}, {{t+|pt|arraial|m}}
 * Romanian: {{t+|ro|oraş|n}}, [[oraşe]] {{p}}
-* Russian: {{t+|ru|город|m|tr=górod|sc=Cyrl}}
-* Sanskrit: {{t-|sa|नगर|n|tr=nágara|sc=Deva|xs=Sanskrit}}
+* Russian: {{t+|ru|город|m|tr=górod}}
+* Sanskrit: {{t-|sa|नगर|n|tr=nágara|xs=Sanskrit}}
 * [[Scots]]: {{tø|sco|toun|xs=Scots}}
 * [[Scottish Gaelic]]: [[baile#Scottish Gaelic|baile]] {{m}}
 * Serbian:
@@ -144,14 +144,14 @@ An urban city is typically larger than a rural town, which in turn is typically 
 * Swahili: {{t|sw|mji|xs=Swahili}}
 * Swedish: {{t+|sv|stad|c}}, {{t+|sv|tätort|c}}
 * [[Taos]]: [[plòso’óna]]
-* [[Telugu]]: {{t|te|పట్టణము|tr=paTTaNamu|sc=Telu}}, {{t|te|పట్నము|tr=paTnamu|sc=Telu}}
+* [[Telugu]]: {{t|te|పట్టణము|tr=paTTaNamu}}, {{t|te|పట్నము|tr=paTnamu}}
 * {{trreq|Tetum}}
 * Thai: {{Thai|[[เมือง]]}} (meuang), {{Thai|[[พารา]]}} (paaraa), {{Thai|[[นคร]]}} (nákon)
 * {{trreq|Tongan}}
 * Turkish: {{t+|tr|ilçe}}, {{t+|tr|kasaba}}
 * Vietnamese: {{t+|vi|tỉnh|xs=Vietnamese}}
 * Welsh: {{t-|cy|tref|f|xs=Welsh}}
-* Yiddish: {{t|yi|שטעטל|n|tr=shtetl|sc=Hebr|xs=Yiddish}}
+* Yiddish: {{t|yi|שטעטל|n|tr=shtetl|xs=Yiddish}}
 {{trans-bottom}}
 
 ===See also===
