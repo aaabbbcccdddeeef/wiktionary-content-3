@@ -15,10 +15,10 @@
 
 ====Translations====
 {{trans-top|happening once every year}}
-* Arabic: {{t|ar|سنوي|tr=sanáwiy|sc=Arab}}
+* Arabic: {{t|ar|سنوي|tr=sanáwiy}}
 * Chinese:
-*: Mandarin: {{t|zh|每年|tr=měinián-de|alt=每年的|sc=Hani}}
-* Dutch: [[jaarlijks]], [[jaarlijkse]]
+*: Mandarin: {{t-|cmn|每年|alt=每年的|tr=měinián-de|sc=Hani}}
+* Dutch: {{t+|nl|jaarlijks}}, {{t-|nl|jaarlijkse}}
 * Finnish: {{t+|fi|vuosittainen}}, {{t+|fi|jokavuotinen}}
 * French: {{t+|fr|annuel|m}}
 * German: {{t+|de|jährlich}}
@@ -26,12 +26,12 @@
 * Icelandic: {{t+|is|árlegur|m}}, {{t-|is|árleg|f}}, {{t-|is|árlegt|n}}; {{t-|is|árviss|m|f}}, {{t-|is|árvisst|n}}
 {{trans-mid}}
 * Italian: {{t+|it|annuale}}
-* Japanese: {{t|ja|毎年|tr=まいとしの, maitoshi-no|alt=毎年の|sc=Jpan}}
+* Japanese: {{t|ja|毎年|alt=毎年の|tr=まいとしの, maitoshi-no}}
 * Korean: [[매년의]] (maenyeon-ui)
 * Kurdish:
 *: Sorani: {{t|ku|ساڵانه‌|tr=sALAna|sc=ku-Arab}}
 * Portuguese: {{t+|pt|anual}}
-* Russian: {{t+|ru|ежегодный|tr=ježegódnyj|sc=Cyrl}}
+* Russian: {{t+|ru|ежегодный|tr=ježegódnyj}}
 * Spanish: {{t-|es|anual}}
 * Swedish: {{t+|sv|årlig}}
 {{trans-bottom}}
@@ -47,9 +47,9 @@
 
 ====Translations====
 {{trans-top|once a year}}
-* Arabic: {{t|ar|سنويا|tr=sanawíyyan|alt=سنويًا|sc=Arab}}
+* Arabic: {{t|ar|سنويا|alt=سنويًا|tr=sanawíyyan}}
 * Chinese:
-*: Mandarin: {{t|zh|每年|tr=měinián|sc=Hani}}
+*: Mandarin: {{t-|cmn|每年|tr=měinián|sc=Hani}}
 * Dutch: {{t+|nl|jaarlijks}}
 * Finnish: {{t-|fi|vuosittain}}
 * French: {{t+|fr|annuellement}}
@@ -57,7 +57,7 @@
 * Hungarian: {{t-|hu|évenként}}, {{t|hu|évente}}
 {{trans-mid}}
 * Italian: [[annnualmente]]
-* Japanese: {{t|ja|年一回|tr=ねんいっかいの, nen-ikkai-no|alt=年一回の|sc=Jpan}},  {{t|ja|毎年|tr=maitoshi|sc=Jpan}}
+* Japanese: {{t|ja|年一回|alt=年一回の|tr=ねんいっかいの, nen-ikkai-no}},  {{t|ja|毎年|tr=maitoshi}}
 * Korean: [[해마다]] (haemada)
 * Kurdish:
 *: Sorani: {{t|ku|ساڵانه‌|tr=sALAna|sc=ku-Arab}}
@@ -79,7 +79,7 @@
 {{trans-mid}}
 * Italian: {{t+|it|annuario|m}}
 * Japanese: [[年刊の]] (ねんかんの, nenkanno)
-* Russian: {{t+|ru|ежегодник|m|tr=ježegódnik|sc=Cyrl}}
+* Russian: {{t+|ru|ежегодник|m|tr=ježegódnik}}
 {{trans-bottom}}
 
 [[Category:Time]]
