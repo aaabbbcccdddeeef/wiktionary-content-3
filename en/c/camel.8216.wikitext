@@ -25,21 +25,21 @@
 * [[Afrikaans]]: [[kameel]]
 * Albanian: {{t-|sq|deve|f|xs=Albanian}}
 * [[Amharic]]: {{t-|am|ግመል|tr=gəmäl|sc=Ethi|xs=Amharic}}
-* Arabic: {{t+|ar|جمل|m|tr=jámal|sc=Arab}}
+* Arabic: {{t+|ar|جمل|m|tr=jámal}}
 * Aramaic:
 *: Syriac: [[ܓܡܠܐ]] (gamlā’) {{c}}
 *: Hebrew: [[גמלא]] (gamlā’) {{c}}
-* Armenian: {{t+|hy|ուղտ|tr=uġt|sc=Armn|xs=Armenian}}
+* Armenian: {{t+|hy|ուղտ|tr=uġt|xs=Armenian}}
 * [[Azeri]]: [[dəvə]], [[nər]]
 * {{trreq|Basque}}
 * Bengali: {{t-|bn|উট|sc=Beng|xs=Bengali}}
 * Bosnian: {{t-|bs|kamila|f}}
 * {{trreq|Breton}}
-* Bulgarian: {{t+|bg|камила|f|tr=kamila|sc=Cyrl}}
+* Bulgarian: {{t+|bg|камила|f|tr=kamila}}
 * {{trreq|Burmese}}
 * [[Catalan]]: {{t|ca|camell|m}}
 * Chinese:
-*: Mandarin: {{t-|cmn|駱駝|sc=Hani|xs=Mandarin}}, {{t-|cmn|骆驼|tr=luòtuó|sc=Hani|xs=Mandarin}}
+*: Mandarin: {{t-|cmn|駱駝|sc=Hani}}, {{t-|cmn|骆驼|tr=luòtuó|sc=Hani}}
 * [[Chuvash]]: {{tø|cv|тĕве|tr=tĕve}}
 * Croatian: {{t-|hr|kamila|f}}, {{t-|hr|deva|f}}
 * Czech: {{t-|cs|velbloud|m}}
@@ -52,10 +52,10 @@
 * Finnish: {{t+|fi|kameli}}
 * French: {{t+|fr|chameau|m}}
 * [[Friulian]]: [[camęl]]
-* [[Galician]]: {{t|gl|camelo|m}}
-* Georgian: {{t|ka|აქლემი|tr=ak‘lemi}}
+* [[Galician]]: {{t-|gl|camelo|m|xs=Galician}}
+* Georgian: {{t-|ka|აქლემი|tr=ak‘lemi|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Kamel|n}}, {{t+|de|Trampeltier|n}}
-* Greek: {{t+|el|καμήλα|f|sc=Grek}}
+* Greek: {{t+|el|καμήλα|f}}
 * [[Gujarati]]: [[ઊંટ]] (ū.nt')
 * Hebrew: [[גמל]] (gamal) {{m}}
 * Hindi: [[ऊँट]] (ū.nt') {{m}}
@@ -65,7 +65,7 @@
 * Indonesian: {{t+|id|unta|xs=Indonesian}}
 * Irish: [[camall]] {{m}}
 * Italian: {{t+|it|cammello|m}}
-* Japanese: {{t-|ja|駱駝|sc=Jpan}}, {{t-|ja|ラクダ|tr=rakuda|sc=Jpan}}
+* Japanese: {{t-|ja|駱駝}}, {{t-|ja|ラクダ|tr=rakuda}}
 * {{trreq|Kannada}}
 * Kazakh: {{t|kk|түйе|tr=tùje|sc=Cyrl|xs=Kazakh}}
 * [[Khmer]]: {{Khmr|[[អូដ្ធបូកពីរ]]}} (’ūdtobobpī)
@@ -73,10 +73,10 @@
 * Kurdish: {{ku-Arab|[[حوشتر]]}}
 * [[Ladin]]: camel
 {{trans-mid}}
-* Latin: {{t-|la|camelus|alt=camēlus|m}}, {{t-|la|camela|alt=camēla|f}}
+* Latin: {{t-|la|camelus|m|alt=camēlus}}, {{t-|la|camela|f|alt=camēla}}
 * Latvian: [[kamielis]] {{g|Latvian}}
 * Lithuanian: [[kupranugaris]] {{g|Lithuanian}}
-* [[Macedonian]]: {{t-|mk|камила|f|tr=kámila|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|камила|f|tr=kámila|xs=Macedonian}}
 * Malay: {{t-|ms|unta|xs=Malay}}
 * [[Malayalam]]: [[ഒട്ടകം]] (ottakam)
 * Maltese: {{t+|mt|ġemel|m|xs=Maltese}}
@@ -88,20 +88,20 @@
 * [[Occitan]]: [[camèl]] {{m}}
 * {{trreq|Oriya}}
 * [[Ossetian]]: {{tø|os|теуа|tr=teua|sc=Cyrl|xs=Ossetian}}
-* Persian: {{t+|fa|شتر|tr=shotor|sc=fa-Arab|xs=Persian}}
+* Persian: {{t+|fa|شتر|tr=shotor|xs=Persian}}
 * Polish: {{t+|pl|wielbłąd|m}}
 * Portuguese: {{t+|pt|camelo|m}}
 * [[Punjabi]]: [[ਊਠ]] (ūṭh)
 * [[Romani]]: [[gumila]] {{f}}
 * Romanian: {{t+|ro|cămilă|f}}
 * [[Romansch]]: [[chamel]]
-* Russian: {{t+|ru|верблюд|m|tr=verbljúd|sc=Cyrl}}
+* Russian: {{t+|ru|верблюд|m|tr=verbljúd}}
 * [[Sami]]: [[kamela]]
 * {{trreq|Sanskrit}}
 * [[Sardinian]]: [[camellu]], [[cammellu]]
 * Scottish: [[càmhal]]
 * Serbian:
-*: Cyrillic: {{t|sr|камила|f}}
+*: Cyrillic: {{t-|sr|камила|f|sc=Cyrl}}
 *: Roman: [[kamila#Serbian|kamila]] {{f}}
 * [[Sindhi]]: {{sd-Arab|[[اُٺُ]]}} {{m}}, {{sd-Arab|[[ڏاچِي]]}} {{m}}
 * Slovak: {{t-|sk|ťava|f}}, {{t-|sk|dromedár|m}}
@@ -115,7 +115,7 @@
 * [[Telugu]]: [[ఒంటె]] (oMTe), [[లొట్టిపిట్ట]] (loTTipiTTa)
 * Thai: [[อูฐ]] (ūth)
 * Turkish: {{t+|tr|deve}}, {{t+|tr|hecin}}
-* Ukrainian: {{t-|uk|верблюд|m|tr=verbljud|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t-|uk|верблюд|m|tr=verbljud|xs=Ukrainian}}
 * [[Upper Sorbian]]: [[kamel]]
 * Urdu: {{ur-Arab|[[اونٹ|اُونٹ]]}} (ū.nt') {{g|Urdu}}
 * [[Uyghur]]: [[tɵgə]]
