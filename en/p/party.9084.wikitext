@@ -18,9 +18,6 @@ From {{etyl|xno}} {{term|partie}}, {{etyl|fro}} {{term|partie}} , from {{ML.}} {
 ===Noun===
 {{en-noun|parti|es}}
 
-# {{obsolete}} A [[part]] or [[division]].
-#*'''1485''', Sir Thomas Malory, ''Le Morte Darthur'', Book II:
-#*:And so the moost '''party''' of the castel that was falle doune thorugh that dolorous stroke laye vpon Pellam and balyn thre dayes.   
 # {{legal}} A person or group of people constituting a particular side in a contract or legal action.
 #: ''The contract requires that the '''party''' of the first part pay the fee.''
 # With '''[[to]]''': an [[accessory]], someone who takes part.
@@ -36,6 +33,9 @@ From {{etyl|xno}} {{term|partie}}, {{etyl|fro}} {{term|partie}} , from {{ML.}} {
 #: ''We're expecting a large '''party''' from the London office.''
 # {{context|gaming|online gaming}} Active [[player character]]s organized into a single group.
 # {{context|video games}} Group of characters controlled by the [[player]].
+# {{obsolete}} A [[part]] or [[division]].
+#*'''1485''', Sir Thomas Malory, ''Le Morte Darthur'', Book II:
+#*:And so the moost '''party''' of the castel that was falle doune thorugh that dolorous stroke laye vpon Pellam and balyn thre dayes.   
 
 ====Derived terms====
 {{rel-top|terms derived from party}}
@@ -128,11 +128,11 @@ From {{etyl|xno}} {{term|partie}}, {{etyl|fro}} {{term|partie}} , from {{ML.}} {
 * [[partisan]]
 
 ====Translations====
-{{trans-top|law: person or group in contract or proceeding}}
+{{trans-top|law: particular side in a contract or legal action}}
 * Armenian: {{t-|hy|կողմ|tr=koġm|sc=Armn|xs=Armenian}}
 * [[Catalan]]: {{t+|ca|part|f}}
 * Czech: {{t+|cs|strana|f}}
-* Finnish: {{t-|fi|osapuoli}}, {{t+|fi|asianosainen}}
+* Finnish: {{t-|fi|osapuoli}} (''contract''), {{t+|fi|asianosainen}} (''legal action'')
 * German: {{t+|de|Partei|f}}
 {{trans-mid}}
 * Italian: {{t+|it|parte|f}}
@@ -140,6 +140,16 @@ From {{etyl|xno}} {{term|partie}}, {{etyl|fro}} {{term|partie}} , from {{ML.}} {
 * Serbian: {{t-|sr|stranka}}
 * Swahili: {{t|sw|safu|xs=Swahili}}
 * Swedish: {{t+|sv|part|c}}
+{{trans-bottom}}
+
+{{trans-top|someone who takes part}}
+* Finnish: {{t|fi|osallinen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|group of people forming one side in a given dispute, contest etc.}}
+* Finnish: {{t|fi|osapuoli}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|political group}}
@@ -171,6 +181,11 @@ From {{etyl|xno}} {{term|partie}}, {{etyl|fro}} {{term|partie}} , from {{ML.}} {
 * Swahili: {{t+|sw|chama|xs=Swahili}}
 * Swedish: {{t+|sv|parti|n}}
 * Turkish: {{t+|tr|parti}}, {{t-|tr|siyasî parti}}
+{{trans-bottom}}
+
+{{trans-top|military: discrete detachment of troops}}
+* Finnish: {{t|fi|joukko}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|social gathering}}
@@ -211,11 +226,18 @@ From {{etyl|xno}} {{term|partie}}, {{etyl|fro}} {{term|partie}} , from {{ML.}} {
 * [[West Frisian]]: {{t-|fy|feestje|n|xs=West Frisian}}
 {{trans-bottom}}
 
-<!--Uncomment when adding first translation
-{{trans-top|a parliamentary faction}}
+{{trans-top|group of people travelling or attending an event together}}
+* Finnish: {{t|fi|seurue}}
 {{trans-mid}}
 {{trans-bottom}}
--->
+
+{{trans-top|online gaming: player characters organized into a single group}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|video games: group of characters controlled by the player}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ===Verb===
 {{en-verb|parties|partying|partied}}
