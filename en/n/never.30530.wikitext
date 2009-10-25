@@ -44,12 +44,12 @@
 * [[Afrikaans]]: [[nooit]]
 * Albanian: [[kurrë]], [[asnjëherë]]
 * {{trreq|Ancient Greek}}
-* Arabic: {{t-|ar|أبدا|alt=أبدًا|tr='ábadan|sc=Arab}}
-* Armenian: {{t-|hy|երբեք|tr=erbek’|xs=Armenian}}
+* Arabic: {{t-|ar|أبدا|alt=أبدًا|tr='ábadan}}
+* Armenian: {{t-|hy|երբեք|tr=erbek’}}
 * {{trreq|Basque}}
 * Bosnian: {{t-|bs|nikad}}, {{t-|bs|nikada}}
 * [[Breton]]: {{t+|br|nepred|xs=Breton}}, {{t-|br|morse|xs=Breton}}, {{t+|br|biken|xs=Breton}} {{i|when talking in the future}} {{t-|br|biskoazh|xs=Breton}} {{i|when talking in the past}} {{t-|br|james|xs=Breton}}
-* Bulgarian: {{t|bg|никога|tr=níkoga|sc=Cyrl}},  {{t|bg|нивга|tr=nívga|sc=Cyrl}}
+* Bulgarian: {{t|bg|никога|tr=níkoga}},  {{t|bg|нивга|tr=nívga}}
 * [[Catalan]]: [[mai]], [[jamai]]
 * [[Chamicuro]]: {{tø|ccc|mepolajyaka}}
 * Chinese:
@@ -63,11 +63,11 @@
 * [[Ewe]]: [[gbeɖe]]
 * Finnish: (''[[:Category:Finnish negation verb forms|negation verb]]'' +) {{t+|fi|koskaan}}, (''[[:Category:Finnish negation verb forms|negation verb]]'' +) {{t+|fi|ikinä}}
 * French: {{t+|fr|jamais}}
-* Georgian: {{t|ka|არასოდეს|tr=arasodes|sc=Geor}}, {{t|ka|არასდროს|tr=arasdros|sc=Geor}}, {{t|ka|ვერასოდეს|tr=verasodes|sc=Geor}}, {{t|ka|ვერასდროს|tr=verasdros|sc=Geor}}
+* Georgian: {{t|ka|არასოდეს|tr=arasodes|sc=Geor|xs=Georgian}}, {{t|ka|არასდროს|tr=arasdros|sc=Geor|xs=Georgian}}, {{t|ka|ვერასოდეს|tr=verasodes|sc=Geor|xs=Georgian}}, {{t|ka|ვერასდროს|tr=verasdros|sc=Geor|xs=Georgian}}
 * German: {{t+|de|nie}}, {{t+|de|niemals}}
-* Greek: {{t+|el|ποτέ|sc=Grek}}
+* Greek: {{t+|el|ποτέ}}
 * {{trreq|Hawaiian}}
-* Hebrew: {{t-|he|אף פעם|sc=Hebr}}, {{t-|he|לעולם לא|sc=Hebr}}
+* Hebrew: {{t-|he|אף פעם}}, {{t-|he|לעולם לא}}
 * {{trreq|Hindi}}
 * Hungarian: {{t+|hu|soha}}, {{t+|hu|sohasem}}
 * Icelandic: {{t+|is|aldrei}}
@@ -76,8 +76,8 @@
 {{trans-mid}}
 * Irish: {{t|ga|ariamh|xs=Irish}}, {{t-|ga|go deo|xs=Irish}} {{context|after a negative}}
 * Italian: {{t-|it|giammai}}, {{t+|it|mai}}
-* Japanese: {{qualifier|in negative sentences}} {{t|ja|決して|tr=[[けっして]], kesshite|sc=Jpan}}, {{t|ja|何時でも|tr=[[いつでも]], itsudemo|sc=Jpan}}, {{t|ja|曾て|tr=[[かつて]], katsute|sc=Jpan}}, {{t|ja|万々|tr=[[まんまん]], manman, [[ばんばん]], banban|sc=Jpan}}
-* [[Khmer]]: {{t|km|មិនដែល|tr=meun dail|sc=Khmr}}
+* Japanese: {{qualifier|in negative sentences}} {{t|ja|決して|tr=[[けっして]], kesshite}}, {{t|ja|何時でも|tr=[[いつでも]], itsudemo}}, {{t|ja|曾て|tr=[[かつて]], katsute}}, {{t|ja|万々|tr=[[まんまん]], manman, [[ばんばん]], banban}}
+* [[Khmer]]: {{t|km|មិនដែល|tr=meun dail|sc=Khmr|xs=Khmer}}
 * Korean: [[절대로]] (jeoldaero), [[결코]] (gyeolko)
 * Kurdish:
 *: [[Kurmanji]]: [[qet]], [[ticar]], [[hîç]] (carekê jî)
@@ -95,7 +95,7 @@
 * Polish: {{t+|pl|nigdy}}
 * Portuguese: {{t+|pt|nunca}}, {{t+|pt|jamais}}
 * Romanian: {{t-|ro|niciodată}}, {{t-|ro|nicicând}}
-* Russian: {{t+|ru|никогда|tr=nikogdá|sc=Cyrl}}
+* Russian: {{t+|ru|никогда|tr=nikogdá}}
 * Serbian:
 *: Cyrillic: {{t-|sr|никад|sc=Cyrl}}
 *: Roman: [[nikad#Serbian|nikad]]
@@ -103,7 +103,7 @@
 * Spanish: {{t+|es|nunca}}, {{t-|es|jamás}}
 * {{trreq|Swahili}}
 * Swedish: {{t+|sv|aldrig}}
-* Thai: {{t|th|ไม่เคย|tr=mâi koie|sc=Thai}}
+* Thai: {{t-|th|ไม่เคย|tr=mâi koie}}
 * {{trreq|Tibetan}}
 * Turkish: {{t+|tr|asla}}
 * {{trreq|Vietnamese}}
@@ -111,7 +111,7 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|Scots}}: {{t|sco|nivver}}, {{t|sco|dinnae}}
+* {{ttbc|Scots}}: {{tø|sco|nivver|xs=Scots}}, {{tø|sco|dinnae|xs=Scots}}
 {{checktrans-mid}}
 {{checktrans-bottom}}
 
