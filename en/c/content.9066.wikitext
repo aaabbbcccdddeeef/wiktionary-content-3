@@ -22,7 +22,7 @@ From {{etyl|la}} {{term|contentus||satisfied, content}}, prop. pp. of {{term|con
 =====Translations=====
 {{trans-top|that which is contained}}
 * Arabic: {{Arab|[[محتوى]]}} (muḥtawī)
-* Bulgarian: {{t|bg|съдържание|n|sc=Cyrl}}
+* Bulgarian: {{t|bg|съдържание|n}}
 * [[Catalan]]: [[contingut]] {{m}}
 * Chinese: [[内容]] (nèi róng)
 * Croatian: {{t+|hr|sadržaj|m|alt=sȁdržāj}}
@@ -45,11 +45,11 @@ From {{etyl|la}} {{term|contentus||satisfied, content}}, prop. pp. of {{term|con
 * Romanian: [[conţinut]] {{n}}
 * Spanish: {{t-|es|contenido|m}}
 * Swedish: {{t+|sv|innehåll|n}}
-* [[Tagalog]]: {{t|tl|laman}},  {{t|tl|nilalaman}}
+* [[Tagalog]]: {{t-|tl|laman|xs=Tagalog}},  {{t|tl|nilalaman|xs=Tagalog}}
 {{trans-bottom}}
 
 {{trans-top|subject matter}}
-* Bulgarian: {{t|bg|същност|f|sc=Cyrl}}
+* Bulgarian: {{t|bg|същност|f}}
 * Croatian: {{t+|hr|sadržaj|m|alt=sȁdržāj}}
 * Dutch: {{t+|nl|inhoud|m}}
 * Filipino: {{tø|fil|laman}},  {{tø|fil|nilalaman}}
@@ -58,11 +58,11 @@ From {{etyl|la}} {{term|contentus||satisfied, content}}, prop. pp. of {{term|con
 * Hungarian: {{t+|hu|tartalom}}
 * Japanese: [[コンテンツ]] (こんてんつ, kontentsu)
 * Romanian: [[conţinut]] {{n}}
-* [[Tagalog]]: {{t|tl|laman}},  {{t|tl|nilalaman}}
+* [[Tagalog]]: {{t-|tl|laman|xs=Tagalog}},  {{t|tl|nilalaman|xs=Tagalog}}
 {{trans-bottom}}
 
 {{trans-top|the amount of material contained}}
-* Bulgarian: {{t|bg|вместимост|f|sc=Cyrl}},  {{t|bg|капацитет|m|sc=Cyrl}}
+* Bulgarian: {{t|bg|вместимост|f}},  {{t|bg|капацитет|m}}
 * Estonian: {{t|et|sisaldus}}
 {{trans-mid}}
 * French: {{t+|fr|contenu|m}}
@@ -93,8 +93,8 @@ From {{etyl|enm}} < {{etyl|fro}} {{term|content|lang=fro}} < {{etyl|la}} {{term|
 
 =====Translations=====
 {{trans-top|satisfied}}
-* Arabic: {{t|ar|مبصوط|tr=mabSuuT|sc=Arab}},  {{t|ar|قانع|tr=faani`|sc=Arab}},  {{t|ar|محتوى|tr=muHtawaa|sc=Arab}}
-* Bulgarian: {{t|bg|доволен|sc=Cyrl}}
+* Arabic: {{t|ar|مبصوط|tr=mabSuuT}},  {{t|ar|قانع|tr=faani`}},  {{t|ar|محتوى|tr=muHtawaa}}
+* Bulgarian: {{t|bg|доволен}}
 * Chinese:
 *: Mandarin: {{t|cmn|滿足|sc=Hani}},  {{t|cmn|满足|tr=mǎnzú|sc=Hani}},  {{t-|cmn|滿意|sc=Hani}},  {{t-|cmn|满意|tr=mǎnyì|sc=Hani}}
 * Czech: {{t-|cs|spokojený|m}}
@@ -108,13 +108,13 @@ From {{etyl|enm}} < {{etyl|fro}} {{term|content|lang=fro}} < {{etyl|la}} {{term|
 * Hungarian: {{elégedett}}
 * [[Ido]]: {{t+|io|kontenta|xs=Ido}}
 * Italian: {{t+|it|contento}}
-* Japanese: {{qualifier|verb}} {{t|ja|満足している|tr=manzoku shite iru|sc=Jpan}}
+* Japanese: {{qualifier|verb}} {{t|ja|満足している|tr=manzoku shite iru}}
 * Portuguese: {{t+|pt|contente}}, {{t+|pt|satisfeito}}
 * Romanian: {{t-|ro|mulţumit}}
-* Russian: {{t|ru|довольный|tr=dovól'nyj|sc=Cyrl}}
+* Russian: {{t|ru|довольный|tr=dovól'nyj}}
 * Spanish: {{t-|es|contento|m}},{{t-|es|contenta|f}}
 * Swedish: {{t+|sv|nöjd}}, {{t+|sv|tillfreds}}, {{t+|sv|tillfredsställd}}
-* [[Tagalog]]: {{t|tl|kuntento}}
+* [[Tagalog]]: {{t|tl|kuntento|xs=Tagalog}}
 {{trans-bottom}}
 
 ===Etymology 3===
@@ -141,7 +141,7 @@ From {{etyl|fro}} {{term|contenter}} < {{ML.}} {{term|contentare||to satisfy}} <
 
 =====Translations=====
 {{trans-top|satisfy}}
-* Bulgarian: {{t|bg|задоволявам|sc=Cyrl}}
+* Bulgarian: {{t|bg|задоволявам}}
 * Danish: [[stille tilfreds]], [[tilfredsstille]]
 * Dutch: [[vergenoegen]], [[tevredenstellen]]
 * Finnish: {{t+|fi|tyydyttää}}
