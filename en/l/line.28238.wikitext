@@ -245,7 +245,7 @@ From {{etyl|enm}} ''[[#Middle English|line]]'', from {{etyl|ang}} ''[[#Old Engli
 * Arabic: {{Arab|[[خط]]}} {{IPAchar|(xaṭṭ)}} {{m}}
 * [[Chamicuro]]: {{tø|ccc|yis̈hna}}
 * Chinese: [[直線]], [[直线]] (zhíxiàn)
-* Dutch: {{t|nl|rechte|f}}, {{t+|nl|lijn|f}}
+* Dutch: {{t-|nl|rechte|f}}, {{t+|nl|lijn|f}}
 * Finnish: {{t+|fi|viiva}}
 * French: {{t+|fr|ligne|f}}
 * German: {{t+|de|Linie|f}}
@@ -254,7 +254,7 @@ From {{etyl|enm}} ''[[#Middle English|line]]'', from {{etyl|ang}} ''[[#Old Engli
 {{trans-mid}}
 * Japanese: [[線]] (せん, sen)
 * Korean: [[줄]] (jul)
-* Persian: {{t|fa|خط|sc=fa-Arab}}
+* Persian: {{t+|fa|خط|xs=Persian}}
 * Polish: {{t+|pl|linia|f}}
 * Portuguese: {{t+|pt|linha|f}}
 * Russian: {{t+|ru|линия|f|tr=línija}}
@@ -278,7 +278,7 @@ From {{etyl|enm}} ''[[#Middle English|line]]'', from {{etyl|ang}} ''[[#Old Engli
 * [[Luhya]]: {{tø|luy|elaini}}
 * Polish: {{t+|pl|linia|f}}
 * Portuguese: {{t+|pt|risco|m}}, {{t+|pt|traço|m}}
-* Russian: [[линия]] (línija) {{f}}, [[черта]] (čertá) {{f}}, [[штрих]] (štriχ) {{m}}
+* Russian: {{t+|ru|линия|f|tr=línija}}, {{t+|ru|черта|f|tr=čertá}}, {{t+|ru|штрих|m|tr=štriχ}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 * Swedish: {{t+|sv|linje|c}}
 {{trans-bottom}}
@@ -286,7 +286,7 @@ From {{etyl|enm}} ''[[#Middle English|line]]'', from {{etyl|ang}} ''[[#Old Engli
 {{trans-top|geometry: infinite one-dimensional figure}}
 * [[Afrikaans]]: [[lyn]]
 * Czech: {{t-|cs|přímka|f}}
-* Dutch: {{t|nl|rechte|f}}, {{t+|nl|lijn|f}}
+* Dutch: {{t-|nl|rechte|f}}, {{t+|nl|lijn|f}}
 * [[Ewe]]: [[fli]] {{n}}
 * Finnish: {{t+|fi|suora}}
 * French: {{t+|fr|droite|f}}
@@ -294,7 +294,7 @@ From {{etyl|enm}} ''[[#Middle English|line]]'', from {{etyl|ang}} ''[[#Old Engli
 * Greek: {{t+|el|γραμμή|f}} (grammí)
 {{trans-mid}}
 * Italian: {{t+|it|linea|f}}
-* Persian: {{t|fa|خط|sc=fa-Arab}}
+* Persian: {{t+|fa|خط|xs=Persian}}
 * Polish: {{t+|pl|prosta|f}}
 * Portuguese: {{t+|pt|reta|f}}
 * Russian: {{t+|ru|линия|f|tr=línija}}
@@ -304,7 +304,7 @@ From {{etyl|enm}} ''[[#Middle English|line]]'', from {{etyl|ang}} ''[[#Old Engli
 
 {{trans-top|geometry: continuous finite segment of such a figure}}
 * [[Chamicuro]]: {{tø|ccc|yis̈hna}}
-* Dutch: {{t-|nl|lijnstuk|n}}, {{t|nl|rechte|f}}, {{t+|nl|lijn|f}}
+* Dutch: {{t-|nl|lijnstuk|n}}, {{t-|nl|rechte|f}}, {{t+|nl|lijn|f}}
 * [[Ewe]]: [[fli]] {{n}}
 * Finnish: {{t+|fi|jana}}
 * German: {{t+|de|Strecke|f}}
@@ -318,7 +318,7 @@ From {{etyl|enm}} ''[[#Middle English|line]]'', from {{etyl|ang}} ''[[#Old Engli
 
 {{trans-top|single horizontal row of text on a screen, printed paper, etc.}}
 * [[Afrikaans]]: [[lyn]]
-* Armenian: {{t-|hy|տող|tr=toġ|xs=Armenian}}
+* Armenian: {{t-|hy|տող|tr=toġ}}
 * Czech: {{t-|cs|řádek|m}}
 * Dutch: {{t+|nl|regel|m}}, {{t+|nl|lijn|f}}
 * [[Ewe]]: [[fli]] {{n}}
@@ -341,7 +341,7 @@ From {{etyl|enm}} ''[[#Middle English|line]]'', from {{etyl|ang}} ''[[#Old Engli
 * [[Afrikaans]]: [[lyn]]
 * Dutch: {{t+|nl|lijn|f}}
 * Finnish: {{t+|fi|vuorosana}}, {{t+|fi|rivi}}, {{t-|fi|repliikki}}
-* Italian: {{t+|it|verso|m}}
+* Italian: {{t-|it|verso|m}}
 {{trans-mid}}
 * Russian: {{t+|ru|реплика|f|tr=r'éplika}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
@@ -579,7 +579,7 @@ From {{etyl|enm}} ''[[#Middle English|line]]'', from {{etyl|ang}} ''[[#Old Engli
 {{trans-mid}}
 * Greek: {{t+|el|γραμμή|f}} (grammí)
 * Italian: {{t+|it|binario|m}}
-* Portuguese: [[trilho]] {{m}}
+* Portuguese: {{t+|pt|trilho|m}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 {{trans-bottom}}
 
