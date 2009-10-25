@@ -20,7 +20,7 @@ Existing since the thirteenth century: from {{etyl|fro}} ''[[envie#French|envie]
 * Bosnian: {{t-|bs|ljubomora|f}}
 * [[Catalan]]: [[enveja]] {{f}}
 * Chinese:
-*: Mandarin: {{t|zh|妒嫉|tr=dùjí|sc=Hani}},  {{t|zh|羡慕|tr=xiànmù|sc=Hani}}
+*: Mandarin: {{t|cmn|妒嫉|tr=dùjí|sc=Hani}},  {{t|cmn|羡慕|tr=xiànmù|sc=Hani}}
 * Croatian: {{t-|hr|zavist|f|alt=závist}}, {{t-|hr|ljubomora|f|alt=ljubòmora}}
 * Czech: {{t-|cs|závist|f}}
 * Danish: [[misundelse]]
@@ -28,7 +28,7 @@ Existing since the thirteenth century: from {{etyl|fro}} ''[[envie#French|envie]
 * Finnish: {{t-|fi|kateus|m}}
 * French: {{t+|fr|envie|f}}
 * German: {{t+|de|Neid|m}}
-* Greek: {{t|el|φθόνος|m|tr=phthonos|sc=Grek}},  {{t|el|ζηλοφθονία|f|sc=Grek}}
+* Greek: {{t+|el|φθόνος|m|tr=phthonos}},  {{t|el|ζηλοφθονία|f}}
 * Italian: {{t+|it|invidia|f}}
 {{trans-mid}}
 * Japanese: {{t|ja|嫉妬|tr=しっと, shitto}},  {{t|ja|ねたみ|tr=netami}}
@@ -37,10 +37,10 @@ Existing since the thirteenth century: from {{etyl|fro}} ''[[envie#French|envie]
 * Polish: {{t+|pl|zazdrość|f}}
 * Portuguese: [[inveja]] {{f}}, [[ciumes]] {{m}}
 * Romanian: {{t-|ro|invidie|f}}
-* Russian: {{t|ru|зависть|f|tr=závist’|sc=Cyrl}}
+* Russian: {{t+|ru|зависть|f|tr=závist’}}
 * [[Scottish Gaelic]]: [[farmad]] {{m}}
 * Serbian: {{t-|sr|zavist}}, {{t-|sr|ljubomora}}
-* Serbo-Croatian: {{t|sh|zavist|f}},  {{t|sh|jal|m}}
+* Serbo-Croatian: {{tø|sh|zavist|f|xs=Serbo-Croatian}},  {{tø|sh|jal|m|xs=Serbo-Croatian}}
 * Slovene: {{t-|sl|zavist|f}}
 * Spanish: {{t-|es|envidia|f}}
 * [[Telugu]]: [[ఈర్ష్య]] (eershya), [[ఈసు]] (eesu), [[అసూయ]] (asooya)
@@ -54,28 +54,28 @@ Existing since the thirteenth century: from {{etyl|fro}} ''[[envie#French|envie]
 
 ====Translations====
 {{trans-top|to envy}}
-* Arabic: {{t|ar|غبط|tr=ghábaTa|sc=Arab}}
+* Arabic: {{t|ar|غبط|tr=ghábaTa}}
 * Bosnian: {{t-|bs|zavidjeti}}
 * Chinese:
-*: Mandarin: {{t|zh|羡慕|tr=xiànmù|sc=Hani}}
+*: Mandarin: {{t|cmn|羡慕|tr=xiànmù|sc=Hani}}
 * Croatian: {{t-|hr|zavidjeti|alt=závidjeti}}
 * Czech: {{t-|cs|závidět}}
-* Dutch: {{t|nl|benijden|alt=benĳden}}, {{t|nl|afgunstig zijn|alt=afgunstig zĳn}}
+* Dutch: {{t+|nl|benijden|alt=benĳden}}, {{t|nl|afgunstig zijn|alt=afgunstig zĳn}}
 * Finnish: {{t-|fi|kadehtia}}
-* French: {{t|fr|envier}}
+* French: {{t+|fr|envier}}
 * German: {{t+|de|beneiden}}
 * Hungarian: {{t+|hu|irigyel}}
 {{trans-mid}}
 * Italian: {{t+|it|invidiare}}
-* Japanese: {{t|ja|羨む|tr=うらやむ, urayamu|sc=Jpan}}
-* Persian: {{t|fa|حسادت ورزیدن|sc=Arab}}
+* Japanese: {{t|ja|羨む|tr=うらやむ, urayamu}}
+* Persian: {{t|fa|حسادت ورزیدن|sc=Arab|xs=Persian}}
 * Portuguese: {{t|pt|invejar}}
 * Romanian: {{t+|ro|invidia}}
-* Russian: {{t|ru|завидовать|tr=zavídovat’|sc=Cyrl}}
+* Russian: {{t|ru|завидовать|tr=zavídovat’}}
 * Serbian: {{t|sr|zavideti}}
 * Slovene: {{t|sl|zavidati}}
 * Spanish: {{t-|es|envidiar}}
-* Thai: {{t|th|ริษยา|tr=rítyaa|sc=Thai}}, {{t|th|อิจฉา|tr=ìtchăa|sc=Thai}}
+* Thai: {{t|th|ริษยา|tr=rítyaa}}, {{t-|th|อิจฉา|tr=ìtchăa}}
 {{trans-bottom}}
 
 {{checktrans-top}}
