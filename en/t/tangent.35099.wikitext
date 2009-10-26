@@ -36,7 +36,7 @@ From {{etyl|la|en}} {{term|tangentem|lang=la}}, the accusative of {{term|tangens
 * Arabic: {{t|ar|مماس|m|tr=mumaass|sc=Arab}}
 * [[Catalan]]: [[#Catalan|tangent]] {{f}}
 * Chinese:
-*: Mandarin: {{zh-tsp|切線|切线|qiēxiàn}}
+*: Mandarin: {{t|zh|切線|sc=Hani}},  {{t|zh|切线|tr=qiēxiàn|sc=Hani}}
 * Czech: {{t-|cs|tečna|f}}
 * Dutch: {{t-|nl|raaklijn|f}}
 * Finnish: {{t-|fi|tangentti}}
@@ -45,12 +45,12 @@ From {{etyl|la|en}} {{term|tangentem|lang=la}}, the accusative of {{term|tangens
 {{trans-mid}}
 * Greek: [[εφαπτομένη]] {{f}}
 * Icelandic: {{t+|is|snertill|m}}
-* Japanese: [[接線]] ([[せっせん]], sessen),  {{t|ja|接線|tr=せっせん, sessen|sc=Jpan}}
+* Japanese: {{t|ja|接線|tr=せっせん, sessen|sc=Jpan}}
 * Norwegian: {{t+|no|tangent|m}}
 * Polish: {{t-|pl|styczna|f}}
 * Portuguese: {{t+|pt|tangente|f}}
 * Romanian: {{t|ro|tangentă|f}}
-* Russian: {{t|ru|касательная|f|tr=kasát'el'naja|sc=Cyrl}}
+* Russian: {{t|ru|касательная|f|tr=kasátel'naja|sc=Cyrl}}
 * Spanish: {{t+|es|tangente|f}}
 * [[Telugu]]: [[తిర్యగ్రేఖ]] (tiryagraekha)
 * Turkish: {{t+|tr|teğet}}
@@ -59,6 +59,8 @@ From {{etyl|la|en}} {{term|tangentem|lang=la}}, the accusative of {{term|tangens
 {{trans-top|in trigonometry}}
 * Arabic: {{t|ar|ظل الزاوية|m|tr=Zill al-zaawira|sc=Arab}}
 * [[Catalan]]: [[#Catalan|tangent]] {{f}}
+* Chinese:
+*: Mandarin: {{t|zh|正切|tr=zhèngqiē|sc=Hani}}
 * Czech: {{t-|cs|tangens|m}}
 * Dutch: {{t-|nl|tangens|m}}
 * Finnish: {{t-|fi|tangentti}}
@@ -67,13 +69,12 @@ From {{etyl|la|en}} {{term|tangentem|lang=la}}, the accusative of {{term|tangens
 * Greek: [[εφαπτομένη]] {{f}}
 {{trans-mid}}
 * Icelandic: {{t-|is|tangens|m}}
-* Japanese: [[タンジェント]] (tanjento), [[正接]] ([[せいせつ]], seisetsu),  {{t|ja|タンジェント|tr=tanjento|sc=Jpan}},  {{t|ja|正接|tr=せいせつ, seisetsu|sc=Jpan}}
-* Mandarin: {{t|zh|切線|sc=Hani}},  {{t|zh|切线|tr=qiēxiàn|sc=Hani}},  {{t|zh|正切|tr=zhèngqiē|sc=Hani}}
+* Japanese: {{t|ja|タンジェント|tr=tanjento|sc=Jpan}},  {{t|ja|正接|tr=せいせつ, seisetsu|sc=Jpan}}
 * Norwegian: {{t-|no|tangens|m}}
 * Polish: {{t+|pl|tangens|m}}
 * Portuguese: {{t+|pt|tangente|f}}
 * Romanian: {{t|ro|tangentă|f}}
-* Russian: {{t|ru|тангенс|m|tr=táng'ens|sc=Cyrl}}
+* Russian: {{t|ru|тангенс|m|tr=tángens|sc=Cyrl}}
 * Spanish: {{t+|es|tangente|f}}
 * Turkish: {{t+|tr|tanjant}}
 {{trans-bottom}}
