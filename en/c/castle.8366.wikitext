@@ -37,9 +37,9 @@ For the chess piece, chess players prefer the term [[rook]].
 
 ====Translations====
 {{trans-top|fortified building}}
-* Armenian: {{t-|hy|ամրոց|tr=amroc'|xs=Armenian}}, {{t-|hy|դղյակ|tr=dġyak|xs=Armenian}}
+* Armenian: {{t-|hy|ամրոց|tr=amroc'}}, {{t-|hy|դղյակ|tr=dġyak}}
 * [[Breton]]: [[kastell]] {{m}}, [[kestell]]
-* Bulgarian: {{t|bg|замък|m|sc=Cyrl}},  {{t|bg|крепост|f|sc=Cyrl}}
+* Bulgarian: {{t+|bg|замък|m}},  {{t|bg|крепост|f}}
 * [[Catalan]]: {{t+|ca|castell|m}}
 * Chinese: [[城堡]] (chéngbǎo)
 * Croatian: {{t-|hr|dvorac|m}}
@@ -49,10 +49,10 @@ For the chess piece, chess players prefer the term [[rook]].
 * Esperanto: {{t-|eo|kastelo|xs=Esperanto}}
 * Estonian: [[linnus]], [[kindlus]]
 * Finnish: {{t+|fi|linna}}
-* French: [[château]] {{m}}, [[château-fort]] {{m}}
+* French: {{t+|fr|château|m}}, {{t+|fr|château-fort|m}}
 * Georgian: [[ციხე-დარბაზი]] (tsixe-darbazi)
 * German: {{t+|de|Burg|f}}, {{t+|de|Festung|f}}
-* Greek: {{t+|el|κάστρο|n|tr=kástro|sc=Grek}}
+* Greek: {{t+|el|κάστρο|n|tr=kástro}}
 * Hebrew: [[טירה]] (t'ira) {{f}}
 * Hindi: {{t-|hi|क़िला|tr=qila|xs=Hindi}}
 * Hungarian: {{t+|hu|vár}}, {{t+|hu|kastély}}
@@ -62,14 +62,14 @@ For the chess piece, chess players prefer the term [[rook]].
 * Irish: [[caisleán]] {{m}}
 * Italian: {{t+|it|castello|m}}
 * Japanese: [[城]] ([[しろ]], shiro)
-* [[Kazakh]]: {{t|kk|қамал|tr=qamal|sc=Cyrl}}
+* [[Kazakh]]: {{t|kk|қамал|tr=qamal|sc=Cyrl|xs=Kazakh}}
 * Korean: [[성]] (seong), [[성곽]] (seonggwak)
 * Kurdish: {{ku-Arab|[[قه‌ڵا]]}}
 * Latin: {{t+|la|castellum|n}}, {{t+|la|castrum|n}}
 * Latvian: {{t-|lv|pils|f|xs=Latvian}}
 {{trans-mid}}
 * Lithuanian: {{t-|lt|pilis|xs=Lithuanian}}
-* [[Macedonian]]: {{t-|mk|замок|m|tr=zámok|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|замок|m|tr=zámok}}
 * Maltese: [[kastell]] {{m}}
 * [[Marathi]]: [[किल्ला]] (killā), [[दुर्ग]] (durg, ''fort''), [[गड]] (gad, ''fort'')
 * Mongolian: [[цайз]] (cayz) {{n}}
@@ -81,7 +81,7 @@ For the chess piece, chess players prefer the term [[rook]].
 * Portuguese: {{t+|pt|castelo|m}}
 * [[Romani]]: {{tø|rom|dyiz|f|xs=Romani}}
 * Romanian: {{t+|ro|castel|n}}
-* Russian: {{t+|ru|замок|m|alt=за́мок|tr=zámok|sc=Cyrl}}
+* Russian: {{t+|ru|замок|m|alt=за́мок|tr=zámok}}
 * Sanskrit: [[दुर्ग]] (durg, ''fort'')
 * [[Scots]]: {{tø|sco|castle|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|caisteal|m|xs=Scottish Gaelic}}
@@ -95,13 +95,13 @@ For the chess piece, chess players prefer the term [[rook]].
 * [[Volapük]]: [[kased]]
 * [[Walloon]]: {{t+|wa|tchestea|xs=Walloon}}
 * Welsh: {{t-|cy|caer|f|xs=Welsh}}, {{t-|cy|castell|m|xs=Welsh}}
-* [[West Frisian]]: [[kastiel]],  {{t|fy|slot}}
+* [[West Frisian]]: [[kastiel]],  {{t-|fy|slot|xs=West Frisian}}
 {{trans-bottom}}
 
 {{trans-top|chess piece}}
 * [[Afrikaans]]: [[toring]]
 * Albanian: {{t-|sq|kala|xs=Albanian}}
-* Armenian: {{t-|hy|նավակ|tr=navak|xs=Armenian}}
+* Armenian: {{t-|hy|նավակ|tr=navak}}
 * [[Basque]]: [[gaztelu]]
 * [[Breton]]: [[tour]] {{m}}
 * Bulgarian: [[топ]] (top) {{m}}
@@ -118,7 +118,7 @@ For the chess piece, chess players prefer the term [[rook]].
 * [[Galician]]: [[torre]] {{f}}
 * Georgian: [[ეტლი]] (etli), [[როქი]] (rok‘i)
 * German: {{t+|de|Turm|m}}
-* Greek: {{t+|el|πύργος|tr=pírgos|sc=Grek}}
+* Greek: {{t+|el|πύργος|tr=pírgos}}
 * Hebrew: [[צריח|צרִיחַ]] (tzeryakh) {{m}}
 * Hungarian: {{t+|hu|bástya}}
 * Icelandic: {{t-|is|hrókur|m}}
@@ -159,8 +159,8 @@ For the chess piece, chess players prefer the term [[rook]].
 
 ====Translations====
 {{trans-top|to perform the move of castling}}
-* Bulgarian: {{t|bg|правя рокада|sc=Cyrl}}
-* Dutch: [[rokeren]]
+* Bulgarian: {{t|bg|правя рокада}}
+* Dutch: {{t+|nl|rokeren}}
 * Finnish: {{t-|fi|tornittaa}}
 * French: {{t+|fr|roquer}}
 * German: {{t+|de|rochieren}}
