@@ -35,17 +35,17 @@
 {{trans-top|projectile}}
 * [[Afrikaans]]: {{t-|af|pyl|xs=Afrikaans}}, {{t|af|skig|xs=Afrikaans}}
 * Albanian: [[shigjetë]] {{f}}
-* Arabic: {{t|ar|سهم|m|tr=sahm|sc=Arab}}
-* Armenian: {{t-|hy|նետ|tr=net|sc=Armn|xs=Armenian}}
+* Arabic: {{t|ar|سهم|m|tr=sahm}}
+* Armenian: {{t-|hy|նետ|tr=net}}
 * [[Aymara]]: [[mich'i]]
 * Bosnian: {{t-|bs|strijela|f}}
-* Bulgarian: {{t+|bg|стрела|sc=Cyrl}}
-* [[Catalan]]: {{t-|ca|fletxa|f}}, {{t-|ca|sageta|f}}
+* Bulgarian: {{t+|bg|стрела}}
+* [[Catalan]]: {{t+|ca|fletxa|f}}, {{t-|ca|sageta|f}}
 * [[Chamicuro]]: {{tø|ccc|ashkololi}}
 * Cherokee: [[ᎫᏂ]] (guni)
 * Chinese:
 *: CJKV Characters: [[箭]]; [[矢]]
-*: Mandarin: {{t-|cmn|箭|tr=jiàn|sc=Hani|xs=Mandarin}}, {{t-|cmn|矢|tr=shǐ|sc=Hani|xs=Mandarin}}, {{t|cmn|箭頭|sc=Hani|xs=Mandarin}}, {{t|cmn|箭头|tr=jiàntóu|sc=Hani|xs=Mandarin}}
+*: Mandarin: {{t-|cmn|箭|tr=jiàn|sc=Hani}}, {{t-|cmn|矢|tr=shǐ|sc=Hani}}, {{t|cmn|箭頭|sc=Hani}}, {{t|cmn|箭头|tr=jiàntóu|sc=Hani}}
 * [[Choctaw]]: [[oo-ske-noc-kay]]
 * Croatian: {{t-|hr|strijela|f}}
 * Czech: {{t+|cs|šíp|m}}
@@ -57,7 +57,7 @@
 * [[Ewe]]: [[aŋutrɔ]] {{n}}
 * Finnish: {{t+|fi|nuoli}}
 * French: {{t+|fr|flèche|f}}
-* Georgian: {{t-|ka|ისარი|tr=isari|xs=Georgian}}
+* Georgian: {{t-|ka|ისარი|tr=isari|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Pfeil|m}}
 * Greek: [[βέλος]] (vélos) {{n}}, [[σαΐτα]] (saíta) {{f}}
 * Hebrew: [[חץ]] (khetz) {{m}}
@@ -67,7 +67,7 @@
 * Indonesian: [[anak panah]]
 * [[Isthmus Zapotec]]: [[baxa]], [[baza]]
 * Italian: {{t+|it|freccia|f}}
-* Japanese: {{t+|ja|矢|tr=や, ya|sc=Jpan}}
+* Japanese: {{t+|ja|矢|tr=や, ya}}
 * [[Khmer]]: {{Khmr|[[ព្រួញ]]}} (pruəɲ)
 * Korean: [[화살]] (hwasal)
 {{trans-mid}}
@@ -88,7 +88,7 @@
 * Portuguese: {{t+|pt|flecha|f}}, {{t+|pt|seta|f}}
 * [[Quechua]]: [[wach'i]]
 * Romanian: {{t-|ro|săgeată|f}}
-* Russian: {{t+|ru|стрела|f|tr=strelá|sc=Cyrl}}
+* Russian: {{t+|ru|стрела|f|tr=strelá}}
 * [[Scottish Gaelic]]: [[saighead]] {{f}}, [[gath]] {{f}}
 * Serbian:
 *: Cyrillic: {{t-|sr|стрела|f|sc=Cyrl}}
@@ -102,7 +102,7 @@
 * Swedish: {{t+|sv|pil|c}}
 * {{trreq|Tamil}}
 * [[Taos]]: [[łúonemą]]
-* [[Telugu]]: {{t|te|బాణము|sc=Telu}} (baaNaM)
+* [[Telugu]]: {{t|te|బాణము}} (baaNaM)
 * Thai: {{Thai|[[ลูกศร]]}} (lôok sŏn)
 * Turkish: {{t+|tr|ok}}
 * {{trreq|Vietnamese}}
@@ -112,12 +112,12 @@
 {{trans-bottom}}
 
 {{trans-top|symbol}}
-* Arabic: {{t|ar|سهم|m|tr=sahm|sc=Arab}}
-* Armenian: {{t|hy|սլաք|tr=slak’|sc=Armn|xs=Armenian}}
-* Bulgarian: {{t+|bg|стрелка|sc=Cyrl}}
-* [[Catalan]]: {{t-|ca|fletxa|f}}
+* Arabic: {{t|ar|سهم|m|tr=sahm}}
+* Armenian: {{t|hy|սլաք|tr=slak’}}
+* Bulgarian: {{t+|bg|стрелка}}
+* [[Catalan]]: {{t+|ca|fletxa|f}}
 * Chinese:
-*: Mandarin: {{t|cmn|箭號|sc=Hani|xs=Mandarin}}, {{t|cmn|箭号|tr=jiànhào|sc=Hani|xs=Mandarin}}, {{t|cmn|箭頭|sc=Hani|xs=Mandarin}}, {{t|cmn|箭头|tr=jiàntóu|sc=Hani|xs=Mandarin}}
+*: Mandarin: {{t|cmn|箭號|sc=Hani}}, {{t|cmn|箭号|tr=jiànhào|sc=Hani}}, {{t|cmn|箭頭|sc=Hani}}, {{t|cmn|箭头|tr=jiàntóu|sc=Hani}}
 * Czech: {{t-|cs|šipka|f}}
 * Danish: {{t-|da|pil|c}}
 * Dutch: {{t+|nl|pijl|m}}
@@ -127,13 +127,13 @@
 {{trans-mid}}
 * Greek: [[βέλος]] (vélos) {{n}}, [[βελάκι]] (veláci) {{n}}, [[δείκτης]] (ðíktis) {{m}}
 * Hebrew: [[חץ]] (khetz) {{m}}
-* Japanese: {{t-|ja|矢印|tr=やじるし, yajirushi|sc=Jpan}}
+* Japanese: {{t-|ja|矢印|tr=やじるし, yajirushi}}
 * Kurdish: {{t+|ku|tîr|m}}
 * Lao: {{t-|lo|ລູກສອນ|tr=luuk-söön|sc=Laoo|xs=Lao}}
 * [[Malayalam]]: {{t|ml|ചിഹ്നം|sc=Mlym|xs=Malayalam}}
 * Polish: {{t+|pl|strzałka|f}}
 * Portuguese: {{t+|pt|seta|f}}
-* Russian: {{t+|ru|стрелка|f|tr=strélka|sc=Cyrl}}
+* Russian: {{t+|ru|стрелка|f|tr=strélka}}
 * Spanish: {{t+|es|flecha|f}}
 * Swedish: {{t+|sv|pil|c}}
 * [[Telugu]]: [[బాణం గుర్తు]] (baaNaM gurtu)
