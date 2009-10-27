@@ -35,26 +35,26 @@ From {{etyl|ang}} {{term|wæscan||lang=ang}} (cognate with Dutch {{term|wassen||
 ====Translations====
 {{trans-top|to clean with water}}
 * Albanian: {{t-|sq|lan|xs=Albanian}}
-* Arabic: {{t|ar|غسل|tr=ghasala|sc=Arab}}
+* Arabic: {{t|ar|غسل|tr=ghasala}}
 * Armenian: [[լվալ]] (lval), [[լվանալ]] (lvanal)
-* Bulgarian: {{t|bg|мия|tr=mija|sc=Cyrl}}
+* Bulgarian: {{t|bg|мия|tr=mija}}
 * [[Catalan]]: [[rentar]],  {{t|ca|llavar}}
 * Chinese:
-*: Mandarin: {{t-|cmn|洗|tr=xǐ|sc=Hani|xs=Mandarin}},  {{t-|cmn|洗滌|sc=Hani|xs=Mandarin}},  {{t-|cmn|洗涤|tr=xǐdí|sc=Hani|xs=Mandarin}},  {{t|cmn|沖洗|sc=Hani|xs=Mandarin}},  {{t|cmn|冲洗|tr=chōngxǐ|sc=Hani|xs=Mandarin}}
+*: Mandarin: {{t-|cmn|洗|tr=xǐ|sc=Hani}},  {{t-|cmn|洗滌|sc=Hani}},  {{t-|cmn|洗涤|tr=xǐdí|sc=Hani}},  {{t|cmn|沖洗|sc=Hani}},  {{t|cmn|冲洗|tr=chōngxǐ|sc=Hani}}
 * [[Classical Nahuatl]]: [[paca|pāca]]
 * [[Crimean Tatar]]: [[yuvmaq]]
 * Croatian: [[umiti]]
 * Czech: [[mýt]] (''dishes''), [[prát]] (''laundry'')
-* Danish: [[vaske]]
+* Danish: {{t-|da|vaske}}
 * Dutch: {{t+|nl|wassen}}
 * Esperanto: {{t-|eo|lavi|xs=Esperanto}}
 * Finnish: {{t+|fi|pestä}}, {{t+|fi|tiskata}}, {{t+|fi|pyykätä}}
 * French: {{t+|fr|laver}}
-* [[Galician]]: {{t|gl|lavar}}
+* [[Galician]]: {{t+|gl|lavar|xs=Galician}}
 * German: {{t+|de|waschen}}, {{t+|de|spülen}}
-* Greek: {{t+|el|πλένω|sc=Grek}}
+* Greek: {{t+|el|πλένω}}
 * Hebrew: [[לרחוץ]] (lirhotz), [[לשטוף]] (lishtof)
-* Hindi: {{t|hi|धोना|sc=Deva}}
+* Hindi: {{t+|hi|धोना|xs=Hindi}}
 * Hungarian: {{t+|hu|mos}},  {{t|hu|kimos}}
 * Icelandic: {{t+|is|þvo}}
 * [[Ido]]: {{t+|io|lavar|xs=Ido}}
@@ -63,28 +63,28 @@ From {{etyl|ang}} {{term|wæscan||lang=ang}} (cognate with Dutch {{term|wassen||
 * Italian: {{t+|it|lavare}}
 * Japanese: [[洗う]] (あらう, arau)
 * Kurdish:
-*:[[Kurmanji]]: {{t+|ku|şûştin}} (شووشتن)
+*: [[Kurmanji]]: {{t+|ku|şûştin}} (شووشتن)
 *: Sorani: {{t|ku|شوشتن|tr=şuştin|sc=ku-Arab}}
-* Latin: {{t|la|lavo}}
+* Latin: {{t-|la|lavo}}
 * Norwegian: [[tvette]], [[vaske]]
 * Old English: [[þwēan]]
 * [[Old High German]]: [[dwahan]]
 * Old Norse: [[þvó]], [[þvætta]]
-* Persian: {{t+|fa|شستن|tr=shostan|sc=fa-Arab|xs=Persian}}
+* Persian: {{t+|fa|شستن|tr=shostan|xs=Persian}}
 * Polish: {{t+|pl|myć}},  {{qualifier|of clothes}} {{t+|pl|prać}}
-* Portuguese: {{t|pt|lavar}}
+* Portuguese: {{t+|pt|lavar}}
 * [[Rohingya]]: [[dúo]]
 * [[Romani]]: [[thovel]]
 * Romanian: a [[spăla]]
-* [[Romansch]]: {{t|rm|lavar}}
-* Russian: {{t+|ru|мыть|tr=myt’|sc=Cyrl}},  {{qualifier|of clothes}} {{t|ru|стирать|tr=stirát’|sc=Cyrl}}
+* [[Romansch]]: {{t-|rm|lavar|xs=Romansch}}
+* Russian: {{t+|ru|мыть|tr=myt’}},  {{qualifier|of clothes}} {{t|ru|стирать|tr=stirát’}}
 * [[Scottish Gaelic]]: [[nigh#Irish|nigh]]
 * [[Sicilian]]: {{t+|scn|lavari|xs=Sicilian}}
 * Spanish: {{t+|es|lavar}}
 * Swedish: {{t+|sv|tvätta}}
-* [[Telugu]]: {{t|te|కడుగు|sc=Telu}} (kaDugu) ''[[non-clothing]]'', {{t|te|ఉతుకు|sc=Telu}} (utuku) ''[[clothes]]''
+* [[Telugu]]: {{t|te|కడుగు}} (kaDugu) ''[[non-clothing]]'', {{t|te|ఉతుకు}} (utuku) ''[[clothes]]''
 * Turkish: {{t+|tr|yıkamak}}
-* Ukrainian: {{t|uk|мити|tr=mýty|sc=Cyrl|xs=Ukrainian}},  {{qualifier|of clothes}} {{t|uk|прати|tr=práty|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t|uk|мити|tr=mýty|xs=Ukrainian}},  {{qualifier|of clothes}} {{t|uk|прати|tr=práty|xs=Ukrainian}}
 {{trans-bottom}}
 
 {{trans-top|to move by the force of water in motion}}
@@ -109,10 +109,10 @@ From {{etyl|ang}} {{term|wæscan||lang=ang}} (cognate with Dutch {{term|wassen||
 {{trans-mid}}
 * Irish: {{t-|ga|nigh|xs=Irish}}
 * Italian: {{t+|it|lavarsi}}
-* Japanese: {{t|ja|洗面する|tr=senmen suru|sc=Jpan}}
+* Japanese: {{t|ja|洗面する|tr=senmen suru}}
 * Kurdish:
 *: Sorani: {{t|ku|خۆ شوشتن|tr=kho shoshtin|sc=ku-Arab}}
-* [[Telugu]]: {{t|te|కడుక్కొను|sc=Telu}} (kaDukkonu)
+* [[Telugu]]: {{t|te|కడుక్కొను}} (kaDukkonu)
 {{trans-bottom}}
 
 {{trans-top|to be eroded}}
