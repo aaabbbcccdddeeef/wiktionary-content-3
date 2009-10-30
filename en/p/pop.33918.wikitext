@@ -187,14 +187,31 @@ Abbreviation of [[popular]]
 
 ----
 
-==Croatian==
+==Serbo-Croatian==
+
+===Etymology===
+From {{proto|Slavic|popъ|lang=sh}}, from {{etyl|grc|sh}} {{term|sc=polytonic|παπάς|tr=papás|lang=grc}}, variant of {{term|sc=polytonic|πάππας||tr=páppas|daddy, papa|lang=grc}}.
+
+===Pronunciation===
+* {{IPA|/pôp/|lang=sh}}
 
 ===Noun===
-{{infl|hr|noun|m}}
+{{sh-noun|g=m|head=pȍp|r|поп|по̏п}}
 
-# [[priest]]
+# [[priest]] (usually Catholic or Orthodox)
 
-[[Category:Croatian palindromes]]
+[[Category:Serbo-Croatian palindromes]]
+
+====Declension====
+{{sh-decl-noun
+|pop|popovi
+|popa|popova
+|popu|popovima
+|popa|popove
+|pope|popovi
+|popu|popovima
+|popom|popovima
+}}
 
 ----
 
