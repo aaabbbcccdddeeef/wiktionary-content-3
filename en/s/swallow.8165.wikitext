@@ -35,12 +35,12 @@
 {{trans-top|to cause to pass from the mouth into the stomach}}
 * [[Afrikaans]]: [[sluk]]
 * Albanian: [[gëlltit]]
-* Arabic: {{t|ar|جرع|tr=jára3a|sc=Arab}}
-* Armenian: [[կուլ տալ]] (kul tal)
+* Arabic: {{t|ar|جرع|tr=jára3a}}
+* Armenian: {{t-|hy|կուլ տալ|tr=kul tal}}
 * Bosnian: {{t-|bs|gutati}}
 * [[Catalan]]: [[engolir]]
 * Chinese:
-*: Mandarin: {{t|zh|吞|tr=tūn|sc=Hani}},  {{t|zh|咽|tr=yàn|sc=Hani}}
+*: Mandarin: {{t-|cmn|吞|tr=tūn|sc=Hani}},  {{t-|cmn|咽|tr=yàn|sc=Hani}}
 * Croatian: {{t-|hr|gutati|alt=gùtati}}, {{t-|hr|progutati|alt=progùtati}}
 * Czech: {{t-|cs|polknout}}, {{t-|cs|spolknout}}
 * Dutch: [[slikken]], [[doorslikken]]
@@ -54,7 +54,7 @@
 * [[Interlingua]]: [[glutir]], [[inglutir]], [[deglutir]], [[ingurgitar]]
 {{trans-mid}}
 * Italian: {{t+|it|deglutire}}, {{t+|it|inghiottire}}
-* Japanese: {{t|ja|飲み込む|tr=のみこむ, nomikomu|sc=Jpan}}
+* Japanese: {{t|ja|飲み込む|tr=のみこむ, nomikomu}}
 * Korean: {{t+|ko|삼키다|tr=samkida|sc=Hang}}
 * Kurdish:
 *: {{t+|ku|daqurtandin}}, {{t+|ku|daûrandin}}, {{t+|ku|dabilandin}}
@@ -62,7 +62,7 @@
 * Polish: {{t-|pl|połknąć}}, {{t-|pl|połykać}}
 * Portuguese: [[engolir]], [[deglutir]], [[ingurgitar]]
 * Romanian: {{t+|ro|înghiţi}}
-* Russian: {{t|ru|глотать|tr=glotát’|sc=Cyrl}}
+* Russian: {{t+|ru|глотать|tr=glotát’}}
 * [[Scots]]: [[swallie]]
 * [[Scottish Gaelic]]: {{t-|gd|sluig|xs=Scottish Gaelic}}
 * Serbian: {{t-|sr|гутати|sc=Cyrl}}, {{t-|sr|gutati}}
@@ -121,7 +121,7 @@ Late {{etyl|ang}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymolo
 
 =====Translations=====
 {{trans-top|a chasm or abyss}}
-* Kurdish: {{t+|ku|çal}} {{f}}, {{t+|ku|kend}} {{f}}
+* Kurdish: {{t+|ku|çal|f}}, {{t+|ku|kend|f}}
 * [[Scots]]: [[swallie]]
 {{trans-mid}}
 * Swahili: {{t+|sw|meza|xs=Swahili}}
@@ -134,7 +134,7 @@ Late {{etyl|ang}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymolo
 * Czech: {{t-|cs|hlt|m}}, {{t-|cs|lok|m}}
 * Finnish: {{t-|fi|nielaus}}, {{t-|fi|kulaus}} (''of liquid'')
 {{trans-mid}}
-* Kurdish: {{t+|ku|qurt}} {{f}}, {{t+|ku|qurç}} {{f}}, {{t+|ku|nîç}} {{f}}
+* Kurdish: {{t+|ku|qurt|f}}, {{t+|ku|qurç|f}}, {{t+|ku|nîç|f}}
 * [[Scots]]: [[swallie]]
 * Serbian: {{t-|sr|гутљај|m|sc=Cyrl}}, {{t-|sr|gutljaj|m}}
 * Swahili: {{t+|sw|meza|xs=Swahili}}
@@ -161,8 +161,8 @@ Late {{etyl|ang}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymolo
 {{trans-top|bird}}
 * [[Afrikaans]]: {{t|af|swavel|xs=Afrikaans}}
 * Albanian: {{t|sq|dallëndyshja|xs=Albanian}}
-* Arabic: {{t|ar|سنونو|m|tr=sunuunuu|sc=Arab}}
-* Armenian: {{t-|hy|ծիծեռնակ|tr=çiçeṙnak|xs=Armenian}}
+* Arabic: {{t|ar|سنونو|m|tr=sunuunuu}}
+* Armenian: {{t-|hy|ծիծեռնակ|tr=çiçeṙnak}}
 *: Old Armenian: {{tø|xcl|ծիծեռն|tr=ciceṙn|sc=Armn|xs=Old Armenian}}, {{tø|xcl|ծիծառն|tr=cicaṙn|sc=Armn|xs=Old Armenian}}
 * [[Basque]]: {{t|eu|enara|xs=Basque}}
 * Belarusian: {{t-|be|ластаука|f|tr=lastauka|xs=Belarusian}}
@@ -172,7 +172,7 @@ Late {{etyl|ang}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymolo
 * [[Catalan]]: {{t|ca|oreneta|f}}
 * [[Chamicuro]]: {{tø|ccc|cholo}}
 * Chinese:
-*: Mandarin: {{t|zh|燕子|tr=yànzi|sc=Hani}}
+*: Mandarin: {{t|cmn|燕子|tr=yànzi|sc=Hani}}
 * [[Crimean Tatar]]: [[qarılğaç]]
 * Croatian: {{t-|hr|lastavica|f}}, {{t-|hr|lasta|f}}
 * Czech: {{t+|cs|vlaštovka|f}}
@@ -194,7 +194,7 @@ Late {{etyl|ang}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymolo
 * [[Interlingua]]: [[hirundine]]
 * Irish: {{t+|ga|fáinleog|xs=Irish}}
 * Italian: {{t+|it|rondine}}
-* Japanese: {{t|ja|燕|sc=Jpan}},  {{t|ja|つばめ|tr=tsubame|sc=Jpan}},  {{t|ja|ツバメ|tr=tsubame|sc=Jpan}}
+* Japanese: {{t+|ja|燕}},  {{t|ja|つばめ|tr=tsubame}},  {{t|ja|ツバメ|tr=tsubame}}
 * Korean: [[제비]] (jebi)
 * Kurdish:
 *: [[Kurmanji]]: {{t+|ku|hacîreşk}}, {{t+|ku|dûmeqesk}}, {{t+|ku|hechecik}}
@@ -206,7 +206,7 @@ Late {{etyl|ang}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymolo
 * Lithuanian: {{t+|lt|kregždė|f|xs=Lithuanian}}
 * [[Low Saxon]]: [[swulk]], [[swolk]], [[swalk]], [[swölk]] {{f}}
 * [[Lower Sorbian]]: [[jaskolicka]]
-* [[Macedonian]]: {{t-|mk|ластовица|f|tr=lastovica|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|ластовица|f|tr=lastovica}}
 * Maltese: {{t|mt|ħuttafa|xs=Maltese}}
 * [[Nahuatl]]: [[cuicuizcatl]]
 * Navajo: {{tø|nv|táshchozhii}}
