@@ -79,25 +79,25 @@
 * German: {{t+|de|Salz|n}}, {{t+|de|Kochsalz|n}}
 * Greek:
 *: Ancient: [[ἅλας]] {{n}} (alas)
-*: Modern: {{t+|el|αλάτι|n|sc=Grek}} (aláti)
+*: Modern: {{t+|el|αλάτι|n}} (aláti)
 * Hebrew: {{he-translation|מלח|mélakh}} {{m}}
 * Hindi: {{t+|hi|नमक|m|tr=namak|xs=Hindi}}
 * Hungarian: {{t+|hu|só}}
 * Icelandic: {{t+|is|salt|n}}
 * [[Ido]]: {{t+|io|salo|xs=Ido}}
 * Indonesian: {{t+|id|garam|xs=Indonesian}}
-* Irish: {{t|ga|salann|m}}
+* Irish: {{t+|ga|salann|m|xs=Irish}}
 {{trans-mid}}
 * Italian: {{t+|it|sale|m}}
 * Japanese: [[塩]] ([[しお]], [[shio]])
-* [[Kazakh]]: {{t|kk|тұз|tr=tuz|sc=Cyrl}}
+* [[Kazakh]]: {{t|kk|тұз|tr=tuz|sc=Cyrl|xs=Kazakh}}
 * Korean: [[소금]] (sogeum)
 * Kurdish:
 *: Sorani: {{t-|ku|خوێ|tr=xwé|sc=ku-Arab}}
 * Lao: {{t+|lo|ເກືອ|tr=kya|sc=Laoo|xs=Lao}}
 * Latin: {{t-|la|sal|m|alt=sāl}}
 * Latvian: {{t-|lv|sāls|f|xs=Latvian}}
-* [[Macedonian]]: {{t-|mk|сол|f|tr=sol|xs=Macedonian}},  {{t|mk|кујнска сол|f|tr=kújnska sol|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|сол|f|tr=sol}},  {{t|mk|кујнска сол|f|tr=kújnska sol}}
 * Norwegian: {{t+|no|salt|n}}, {{t-|no|bordsalt|n}}
 * [[Old Frisian]]: [[salt]]
 * [[Pashto]]: {{t-|ps|مالګه|f|tr=mālga|sc=ps-Arab|xs=Pashto}}
@@ -132,10 +132,10 @@
 * Finnish: {{t+|fi|suola}}
 * French: {{t+|fr|sel|m}}
 * German: {{t+|de|Salz|n}}
-* Greek: {{t|el|άλας|n|tr=álas|sc=Grek}}
+* Greek: {{t|el|άλας|n|tr=álas}}
 * Japanese: [[塩]] ([[えん]], [[en]])
 * Latvian: {{t-|lv|sāls|m|xs=Latvian}}
-* [[Macedonian]]: {{t-|mk|сол|f|tr=sol|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|сол|f|tr=sol}}
 * Norwegian: {{t+|no|salt|n}}
 {{trans-mid}}
 * [[Pashto]]: {{t-|ps|مالګه|f|tr=mālga|sc=ps-Arab|xs=Pashto}}
@@ -157,7 +157,7 @@
 * French: {{t-|fr|marais salants|m|p}}
 * German: [[Salzmarsch]] {{f}}
 {{trans-mid}}
-* [[Macedonian]]: {{t|mk|солено мочуриште|n|tr=sóleno močúrište|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|солено мочуриште|n|tr=sóleno močúrište}}
 * Spanish: {{t-|es|salina|f}}
 {{trans-bottom}}
 
@@ -166,7 +166,7 @@
 * Finnish: {{t-|fi|merikarhu}}
 * French: {{t+|fr|loup de mer|m}}
 {{trans-mid}}
-* Greek: {{t|el|θαλασσόλυκος|m|tr=thalasólikos|sc=Grek}}
+* Greek: {{t|el|θαλασσόλυκος|m|tr=thalasólikos}}
 * Icelandic: {{t-|is|sjóari|m}}
 * Russian: [[морской волк]] (morskój volk) {{m}} <!--lit: seawolf-->
 {{trans-bottom}}
@@ -237,15 +237,15 @@
 * Estonian: {{t|et|soolane}}
 * Finnish: {{t+|fi|suolainen}}
 * French: {{t+|fr|salé|m}}, {{t+|fr|salée|f}}
-* Greek: {{t+|el|αλατισμένος|sc=Grek}} (alatisménos), {{t+|el|αλμυρός|sc=Grek}} (almirós )
+* Greek: {{t+|el|αλατισμένος}} (alatisménos), {{t+|el|αλμυρός}} (almirós )
 * Icelandic: {{t-|is|saltur|m}}, {{t-|is|sölt|f}}, {{t+|is|salt|n}}, {{t-|is|saltaður|m}}, {{t-|is|söltuð|f}}, {{t-|is|saltað|n}}
 * Italian: {{t+|it|salato}}
 {{trans-mid}}
 * Kurdish: {{ku-Arab|[[سوێر]]}}, {{ku-Arab|[[خوێواو]]}}
 * Latvian: [[sāļš]] {{m}}, [[sāļa]] {{f}}
-* [[Macedonian]]: {{t|mk|солен|m|tr=sólen|xs=Macedonian}},  {{t|mk|солена|f|tr=sólena|xs=Macedonian}},  {{t|mk|солено|n|tr=sóleno|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|солен|m|tr=sólen}},  {{t|mk|солена|f|tr=sólena}},  {{t|mk|солено|n|tr=sóleno}}
 * Norwegian: {{t+|no|salt}}
-* Russian: {{t+|ru|солёный|tr=sol'ónyj|sc=Cyrl}}
+* Russian: {{t+|ru|солёный|tr=sol'ónyj}}
 * Slovene: [[slan]] {{m}}, [[slana]] {{f}}, [[slano]] {{n}}
 * Swahili: {{t+|sw|chumvi|xs=Swahili}}
 * Swedish: {{t+|sv|salt}}
@@ -257,12 +257,12 @@
 * Estonian: {{t|et|soolane}},  {{t|et|soola-}}
 * Finnish: [[suolainen]], [[suola]]-
 * French: {{t+|fr|salin|m}}, {{t+|fr|saline|f}}
-* Greek: {{t+|el|αλατούχος|sc=Grek}} (alatoúkhos)
+* Greek: {{t+|el|αλατούχος}} (alatoúkhos)
 * Italian: {{t-|it|salino}}
 {{trans-mid}}
-* [[Macedonian]]: {{t|mk|солен|m|tr=sólen|xs=Macedonian}},  {{t|mk|солена|f|tr=sólena|xs=Macedonian}},  {{t|mk|солено|n|tr=sóleno|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|солен|m|tr=sólen}},  {{t|mk|солена|f|tr=sólena}},  {{t|mk|солено|n|tr=sóleno}}
 * Norwegian: {{t-|no|saltholdig}}
-* Russian: {{t+|ru|солевой|tr=sol'evój|sc=Cyrl}}, {{t+|ru|соляной|tr=sol'anój|sc=Cyrl}}
+* Russian: {{t+|ru|солевой|tr=sol'evój}}, {{t+|ru|соляной|tr=sol'anój}}
 * Swahili: {{t+|sw|chumvi|xs=Swahili}}
 * Swedish: [[salthaltig]]
 {{trans-bottom}}
@@ -304,13 +304,13 @@
 * Finnish: [[suolata]], [[lisätä]] [[suola|suolaa]]
 * French: {{t+|fr|saler}}
 * German: {{t+|de|salzen}}
-* Hebrew: {{t+|he|המליח|tr=himlíakh|sc=Hebr}}
+* Hebrew: {{t+|he|המליח|tr=himlíakh}}
 * Hungarian: {{t-|hu|sóz}}
 * Icelandic: {{t-|is|salta}}
 * Italian: {{t+|it|salare}}
 {{trans-mid}}
 * Latvian: [[sālīt]]
-* [[Macedonian]]: {{t|mk|соли|tr=sóli|xs=Macedonian}},  {{t|mk|посоли|tr=pósoli|xs=Macedonian}},  {{t|mk|засоли|tr=zásoli|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|соли|tr=sóli}},  {{t|mk|посоли|tr=pósoli}},  {{t|mk|засоли|tr=zásoli}}
 * Norwegian: {{t+|no|salte}}
 * Polish: {{t+|pl|solić}}
 * Russian: [[солить]] (solít') {{impf}}, [[посолить]] (posolít') {{pf}}
