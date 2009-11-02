@@ -26,12 +26,12 @@ Old English [[sweord]].
 {{trans-top|weapon}}
 * Albanian: {{t-|sq|shpatë|xs=Albanian}}
 * Arabic: {{Arab|[[سيف]]}} (sayf) {{m}}
-* Armenian: {{t-|hy|թուր|sc=Armn|xs=Armenian}} (t'ur), [[սուր]] (sur)
+* Armenian: {{t-|hy|թուր}} (t'ur), [[սուր]] (sur)
 * [[Basque]]: [[ezpata]]
-* Belarusian: {{t-|be|шабля|tr=šablia|xs=Belarusian|f}}
+* Belarusian: {{t-|be|шабля|f|tr=šablia|xs=Belarusian}}
 * {{trreq|Bengali}}
 * Bosnian: {{t-|bs|mač|m}}
-* Bulgarian: {{t|bg|меч|tr=meč|m}}
+* Bulgarian: {{t+|bg|меч|m|tr=meč}}
 * {{trreq|Burmese}}
 * CJKV Characters: [[劍]]<!--zh/ja trad-->, [[劒]], [[劔]], [[剣]]<!--ja simp-->, [[剱]], [[釖]], [[釼]], [[剑]]<!--zh simp-->; [[鋏]]<!--zh trad/ja-->, [[铗]]<!--zh simp-->; [[刀]]
 * [[Catalan]]: [[espasa]] {{f}}
@@ -44,7 +44,7 @@ Old English [[sweord]].
 * Faroese: {{t-|fo|svørð|n|xs=Faroese}}
 * Finnish: {{t+|fi|miekka}}
 * French: {{t+|fr|épée|f}}
-* Georgian: {{t|ka|ხმალი|tr=xmali}}
+* Georgian: {{t-|ka|ხმალი|tr=xmali|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Schwert|n}}
 * Greek: [[ξίφος]] (ksífos) {{n}}, [[σπαθί]] (spathí) {{n}}
 * [[Greenlandic]]: {{t-|kl|pana|xs=Greenlandic}}
@@ -58,7 +58,7 @@ Old English [[sweord]].
 * Italian: [[spada]] {{f}}, [[brando]] {{m}} {{italbrac|poetic}}
 * Japanese: [[刀]] ([[かたな]], [[katana]]), [[剣]] ([[劍]]; [[つるぎ]], tsurugi; [[けん]], ken)
 * {{trreq|Kannada}}
-* Kazakh: {{t|kk|қылыш|tr=qılış|sc=Cyrl}}
+* Kazakh: {{t|kk|қылыш|tr=qılış|sc=Cyrl|xs=Kazakh}}
 * [[Khmer]]: {{Khmr|[[ដាវ]]}} (dao)
 * Korean: [[검]] (geom) (Hanja: [[劍#Korean|劍]]), [[칼]] (kal)<!--the latter seems to be a native word and therefore has no Hanja-->
 * Kurdish:
@@ -68,7 +68,7 @@ Old English [[sweord]].
 * Latvian: {{t-|lv|zobens|m|xs=Latvian}}
 {{trans-mid}}
 * Lithuanian: {{t+|lt|kalavijas|m|xs=Lithuanian}}
-* [[Macedonian]]: {{t-|mk|меч|m|tr=meč|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|меч|m|tr=meč}}
 * [[Malayalam]]: {{t-|ml|വാള്|sc=Mlym|xs=Malayalam}}
 * Maltese: {{t-|mt|sejf|xs=Maltese}}
 * [[Manx]]: {{t-|gv|cliwe|f|xs=Manx}}
@@ -85,11 +85,11 @@ Old English [[sweord]].
 * Portuguese: {{t+|pt|espada|f}}
 * [[Punjabi]]: [[ਤਲਵਾਰ]]
 * Romanian: {{t+|ro|sabie|f}}, {{t+|ro|spadă|f}}
-* Russian: {{t|ru|меч|tr=meč|m}}, {{t|ru|шпага|tr=špága|f}}
+* Russian: {{t+|ru|меч|m|tr=meč}}, {{t+|ru|шпага|f|tr=špága}}
 * Sanskrit: {{t-|sa|कृपाण|xs=Sanskrit}}
 * [[Scottish Gaelic]]: {{t-|gd|claidheamh|m|xs=Scottish Gaelic}}, {{t-|gd|slaighre|f|xs=Scottish Gaelic}}
 * Serbian:
-*: Cyrillic: {{t|sr|мач|m}}
+*: Cyrillic: {{t-|sr|мач|m|sc=Cyrl}}
 *: Roman: [[mač#Serbian|mač]] {{m}}
 * {{trreq|Sinhalese}}
 * {{trreq|Slovak}}
@@ -97,7 +97,7 @@ Old English [[sweord]].
 * Spanish: {{t+|es|espada|f}}
 * Swahili: {{t-|sw|upanga|xs=Swahili}}
 * Swedish: {{t+|sv|svärd|c}}
-* [[Tamil]]: {{t+|ta|வாள்|}}
+* [[Tamil]]: {{t+|ta|வாள்|xs=Tamil}}
 * [[Telugu]]: [[కత్తి]] (katti), [[కృపాణము]] (kRpaaNamu)
 * Thai: {{Thai|[[ดาบ]]}} (dàap)
 * {{trreq|Tibetan}}
@@ -113,7 +113,7 @@ Old English [[sweord]].
 * Greek: [[ξιφοφόρος]] (ksifofóros) {{m}}, [[ξιφομάχος]] (ksifomákhos) {{m}}
 * Hungarian: [[kardforgató]] (lit. sword-swinger)
 {{trans-mid}}
-* [[Macedonian]]: {{t-|mk|мечувалец|m|tr=mečuválec|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|мечувалец|m|tr=mečuválec}}
 {{trans-bottom}}
 
 {{trans-top|suit in tarot}}
@@ -124,7 +124,7 @@ Old English [[sweord]].
 {{trans-top|card of this suit}}
 * Finnish: {{t+|fi|miekka}}
 {{trans-mid}}
-* Greek: {{t+|el|σπαθί|n|sc=Grek}}, {{t+|el|σπαθιά|p|sc=Grek}}
+* Greek: {{t+|el|σπαθί|n}}, {{t+|el|σπαθιά|p}}
 {{trans-bottom}}
 
 ===Anagrams===
