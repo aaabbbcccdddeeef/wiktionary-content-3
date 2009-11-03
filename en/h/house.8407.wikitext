@@ -115,7 +115,7 @@ From {{etyl|enm}} ''h(o)us'' < {{etyl|ang}} ''[[hus|hūs]]'' (dwelling, shelter,
 * Aramaic:
 *: Syriac: [[ܒܝܬܐ]] (baytā’) {{m}}
 *: Hebrew: [[ביתא]] (baytā’) {{m}}
-* Armenian: {{t+|hy|տուն|tr=tun|sc=Armn|xs=Armenian}}
+* Armenian: {{t+|hy|տուն|tr=tun}}
 * [[Azerbaijani]]: {{t+|az|ev|xs=Azeri}}
 * [[Azeri]]: {{t+|az|ev|xs=Azeri}}
 * [[Basque]]: {{t+|eu|etxe|xs=Basque}}
@@ -124,7 +124,7 @@ From {{etyl|enm}} ''h(o)us'' < {{etyl|ang}} ''[[hus|hūs]]'' (dwelling, shelter,
 * [[Blackfoot]]: [[naapiooyis]]
 * Bosnian: {{t-|bs|kuća|f}}
 * [[Breton]]: {{t+|br|ti|m|xs=Breton}}
-* Bulgarian: {{t+|bg|къща|f|tr=kəšta|sc=Cyrl}}
+* Bulgarian: {{t+|bg|къща|f|tr=kəšta}}
 * Burmese: {{t|my|အိမ်|tr=im|sc=Mymr|xs=Burmese}}
 * [[Catalan]]: {{t+|ca|casa|f}}
 * [[Cebuano]]: [[balay]]
@@ -151,12 +151,12 @@ From {{etyl|enm}} ''h(o)us'' < {{etyl|ang}} ''[[hus|hūs]]'' (dwelling, shelter,
 * [[Galician]]: {{t+|gl|casa|f|xs=Galician}}
 * Georgian: {{t-|ka|სახლი|tr=saxli|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Haus|n}}, {{t+|de|Häuser|p}}
-* Greek: {{t+|el|σπίτι|n|tr=spíti|sc=Grek}}
+* Greek: {{t+|el|σπίτι|n|tr=spíti}}
 *: [[Ancient Greek]]: {{unicode|[[οἶκος]]}} (oíkos) {{m}}, {{unicode|[[οἰκία]]}} (oikía) {{f}}
 * [[Guaraní]]: [[oga]], [[ogapy]], [[róga]]
-[[Gujarati]]: {{t|gu|ઘર|tr=ghar|sc=Gujr}}
+[[Gujarati]]: {{t|gu|ઘર|tr=ghar|sc=Gujr|xs=Gujarati}}
 * Hawaiian: {{tø|haw|hale}}
-* Hebrew: {{t+|he|בית|m|tr=báyit|sc=Hebr}}, {{t|he|בתים|p|tr=batím|sc=Hebr}}
+* Hebrew: {{t+|he|בית|m|tr=báyit}}, {{t-|he|בתים|p|tr=batím}}
 * [[Hiligaynon]]: [[balay]]
 * Hindi: {{t-|hi|घर|m|tr=ghar|xs=Hindi}}, {{t-|hi|मकान|m|tr=makān|xs=Hindi}}, {{t-|hi|गृह|m|tr=gṛh|xs=Hindi}}
 * [[Hittite]]: {{tø|hit|𒂍|tr=É|sc=Xsux|xs=Hittite}}
@@ -192,7 +192,7 @@ From {{etyl|enm}} ''h(o)us'' < {{etyl|ang}} ''[[hus|hūs]]'' (dwelling, shelter,
 * [[Luhya]]: {{tø|luy|enju}}
 * [[Luiseno]]: [[kíiča]]
 * [[Luo]]: {{tø|luo|ot}}
-* [[Macedonian]]: {{t-|mk|куќа|f|tr=kúḱa|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|куќа|f|tr=kúḱa}}
 * Malay: {{t+|ms|rumah|xs=Malay}}
 * [[Malayalam]]: [[വീട്]] (veetu), [[ഗൃഹം]] (gruham)
 * Maltese: {{t-|mt|bejt|m|xs=Maltese}}
@@ -206,7 +206,7 @@ From {{etyl|enm}} ''h(o)us'' < {{etyl|ang}} ''[[hus|hūs]]'' (dwelling, shelter,
 * [[Ojibwe]]: {{tø|oj|waakaa'igan|xs=Ojibwe}}, {{tø|oj|waakaa'iganan|p|xs=Ojibwe}}
 * [[Old Church Slavonic]]: {{tø|cu|домъ|m|tr=domŭ|sc=Cyrs}}
 * Old English: {{t-|ang|hus|n|alt=hūs|xs=Old English}}, {{t-|ang|hof|n|xs=Old English}}, {{t-|ang|ærn|n|xs=Old English}}, {{t-|ang|stoc|n|xs=Old English}}
-* [[Oriya]]: {{t|or|ଘର|tr=ghara|sc=Orya}}
+* [[Oriya]]: {{t|or|ଘର|tr=ghara|sc=Orya|xs=Oriya}}
 * [[Pangasinan]]: [[abong]]
 * [[Pashto]]: {{t-|ps|كور|m|tr=kor|sc=ps-Arab|xs=Pashto}}, {{t-|ps|كوټه|f|tr=kotta|sc=ps-Arab|xs=Pashto}}
 * Persian: {{fa-Arab|[[خانه|خانِه]]}} (xāne)
@@ -220,7 +220,7 @@ From {{etyl|enm}} ''h(o)us'' < {{etyl|ang}} ''[[hus|hūs]]'' (dwelling, shelter,
 * [[Rarotongan]]: [['are]]
 * [[Romani]]: {{tø|rom|kher|m}}
 * Romanian: {{t+|ro|casă|f}}
-* Russian: {{t+|ru|дом|m|tr=dom|sc=Cyrl}}
+* Russian: {{t+|ru|дом|m|tr=dom}}
 * {{trreq|Samoan}}
 * [[Sardinian]]: [[domo]] {{f}}
 * [[Scottish Gaelic]]: [[taigh]] {{m}}
@@ -287,7 +287,7 @@ From {{etyl|enm}} ''h(o)us'' < {{etyl|ang}} ''[[hus|hūs]]'' (dwelling, shelter,
 {{trans-bottom}}
 
 {{trans-top|auditorium for a theatre}}
-* Russian: {{t+|ru|зал|m|tr=zal|sc=Cyrl}}
+* Russian: {{t+|ru|зал|m|tr=zal}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -299,10 +299,10 @@ From {{etyl|enm}} ''h(o)us'' < {{etyl|ang}} ''[[hus|hūs]]'' (dwelling, shelter,
 * [[Afrikaans]]: {{t+|af|huis|xs=Afrikaans}}
 * Finnish: {{t-|fi|kamari}}
 * French: {{t+|fr|chambre|f}}
-* [[Macedonian]]: {{t-|mk|дом|m|tr=dom|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|дом|m|tr=dom}}
 {{trans-mid}}
 * Norwegian: {{t+|no|ting|n}}
-* Russian: {{t+|ru|палата|f|tr=paláta|sc=Cyrl}}
+* Russian: {{t+|ru|палата|f|tr=paláta}}
 * Swedish: {{t+|sv|hus}}, {{t|sv|kammare}}
 {{trans-bottom}}
 
@@ -313,7 +313,7 @@ From {{etyl|enm}} ''h(o)us'' < {{etyl|ang}} ''[[hus|hūs]]'' (dwelling, shelter,
 {{trans-bottom}}
 
 {{trans-top|the inner workings, as of a clock}}
-* [[Macedonian]]: {{t|mk|куќиште|n|tr=kúḱište|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|куќиште|n|tr=kúḱište}}
 * Norwegian: {{t+|no|hus|n}}
 {{trans-mid}}
 * Swedish: {{t+|sv|hus}}
@@ -328,7 +328,7 @@ From {{etyl|enm}} ''h(o)us'' < {{etyl|ang}} ''[[hus|hūs]]'' (dwelling, shelter,
 {{trans-mid}}
 * Norwegian: {{t+|no|hus|n}}
 * [[Pashto]]: {{t-|ps|كورنۍ|f|tr=koranəi|sc=ps-Arab|xs=Pashto}}
-* Russian: {{t+|ru|дом|m|tr=dom|sc=Cyrl}}
+* Russian: {{t+|ru|дом|m|tr=dom}}
 * Spanish: {{t+|es|casa|f}}
 * Swedish: {{t+|sv|hus}}
 {{trans-bottom}}
@@ -336,7 +336,7 @@ From {{etyl|enm}} ''h(o)us'' < {{etyl|ang}} ''[[hus|hūs]]'' (dwelling, shelter,
 {{trans-top|astrology: one of the twelve divisions of an astrological chart}}
 * Czech: {{t+|cs|dům|m}}
 * Finnish: {{t+|fi|huone}}
-* [[Macedonian]]: {{t-|mk|куќа|f|tr=kúḱa|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|куќа|f|tr=kúḱa}}
 {{trans-mid}}
 * Norwegian: {{t|no|stjernetegn|n}}
 * Spanish: {{t+|es|casa|f}}
@@ -368,7 +368,7 @@ American Slang: To steal, esp. one's intellectual property, such as ideas, music
 ====Translations====
 {{trans-top|keep within a structure or container}}
 * French: {{t+|fr|garer}}, {{t+|fr|loger}}
-* [[Macedonian]]: {{t|mk|сместува|tr=sméstuva|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|сместува|tr=sméstuva}}
 * Portuguese: {{t+|pt|armazenar}}
 {{trans-mid}}
 * Russian: [[вмещать]] (vmeščát’)
@@ -379,7 +379,7 @@ American Slang: To steal, esp. one's intellectual property, such as ideas, music
 {{trans-top|admit to residence}}
 * French: {{t+|fr|héberger}}, {{t+|fr|abriter}}, {{t+|fr|loger}}
 * German: {{t-|de|unterbringen}}, {{t+|de|beherbergen}}
-* [[Macedonian]]: {{t|mk|вдомува|tr=vdómuva|xs=Macedonian}},  {{t|mk|сместува|tr=sméstuva|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|вдомува|tr=vdómuva}},  {{t|mk|сместува|tr=sméstuva}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|alojar}}, {{t+|pt|hospedar}}
 * Russian: [[помещать]] (pomeščát’), [[селить]] (selít’)
