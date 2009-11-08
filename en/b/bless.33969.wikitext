@@ -12,7 +12,7 @@ From {{etyl|enm}} {{term|blessen|lang=enm}}, from {{etyl|ang}} {{attention|ang}}
 {{en-verb|blesses|blessing|'''[[blest]]''' ''or'' '''[[blessed]]'''}}
 
 # To make something [[blessed]], to confer [[blessing]] upon.
-# {{programming|[[Perl]]}} {{context|past tense only '''blessed'''}} To [[promote]] a [[variable]] to an [[object]].
+# {{context|[[Perl]]|_|programming|transitive}} {{context|past tense only '''blessed'''}} To turn (a [[reference]]) into an [[object]].
 
 ====Antonyms====
 * [[curse]]
