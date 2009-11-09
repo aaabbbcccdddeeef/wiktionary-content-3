@@ -53,14 +53,14 @@
 * [[Alabama]]: [[akaaka]] (1)
 * Albanian: {{t-|sq|pulë|xs=Albanian}}
 * [[Amharic]]: {{tø|am|ዶሮ|tr=doro|sc=Ethi}}
-* Arabic: {{t-|ar|دجاج|sc=Arab}}
-* Armenian: {{qualifier|male}} {{t-|hy|հավ|tr=hav|xs=Armenian}},  {{qualifier|female}} {{t+|hy|աքլոր|tr=ak’lor|xs=Armenian}},  {{qualifier|young}} {{t-|hy|ճուտ|tr=č̣ut|xs=Armenian}}
+* Arabic: {{t-|ar|دجاج}}
+* Armenian: {{qualifier|male}} {{t-|hy|հավ|tr=hav}},  {{qualifier|female}} {{t+|hy|աքլոր|tr=ak’lor}},  {{qualifier|young}} {{t-|hy|ճուտ|tr=č̣ut}}
 * [[Azeri]]: [[toyuq]]
 * [[Basque]]: [[oilasko]], [[oilo]]
 * Belarusian: [[птушаня]] (ptušańa) / [[птушане]] (ptušanie), [[курыца]] (kuryca), [[кураня]] (kurańa) / [[куране]] (kuranie)
 * Bosnian: {{t-|bs|kokoš|f}}, {{t-|bs|kokoška|f}}
 * [[Breton]]: [[yar]] {{f}}, [[penn]] [[yar]] {{m}}
-* Bulgarian:  {{t+|bg|пиле|n|sc=Cyrl}},  {{t|bg|ярка|f|sc=Cyrl}}
+* Bulgarian:  {{t+|bg|пиле|n}},  {{t|bg|ярка|f}}
 * [[Catalan]]: [[pollastre]] {{m}}, [[gallina]] {{f}}, [[gall]] {{m}}
 * [[Cebuano]]: [[manok]]
 * [[Chamicuro]]: {{tø|ccc|polyo}}
@@ -82,7 +82,7 @@
 * German: {{t+|de|Huhn|n}}
 * Greek: [[κοτόπουλο]] (kotópoulo) {{n}}, [[κότα]] (kóta) {{f}}
 * Hebrew: [[תרנגול]] (tarnegol) {{m}}, [[תרנגולת]] (tarnegolet) {{f}}
-* Hindi: [[मुर्गा]] (murgā)
+* Hindi: {{t-|hi|मुर्गा|tr=murgā|xs=Hindi}}
 * Hungarian: {{t+|hu|csirke}}
 * Icelandic: [[hænsn]]
 * [[Ilocano]]: [[manok]]
@@ -100,7 +100,7 @@
 * Latvian: [[cālis]], [[vista#Latvian|vista]]
 * Lithuanian: {{t+|lt|višta|xs=Lithuanian}}
 * [[Lower Sorbian]]: [[kokoš]], [[kurje]], [[kurjetko]]
-* [[Macedonian]]: {{t-|mk|кокошка|f|tr=kókoška|xs=Macedonian}}
+* [[Macedonian]]: {{t-|mk|кокошка|f|tr=kókoška}}
 * Malay: {{t+|ms|ayam|xs=Malay}}
 * Maltese: [[fellus]], [[tiġieġa]]
 * [[Marathi]]: [[कोम्डा]] (komdā)
@@ -141,9 +141,9 @@
 
 {{trans-top|meat}}
 * English: {{t|en|hoendervleis|xs=English}}
-* Armenian: {{t|hy|հավի միս|tr=havi mis|xs=Armenian}}
+* Armenian: {{t|hy|հավի միս|tr=havi mis}}
 * Bosnian: {{t-|bs|piletina|f}}
-* Bulgarian: {{t+|bg|пиле|n|sc=Cyrl}},  {{t|bg|пилешко|n|sc=Cyrl}}
+* Bulgarian: {{t+|bg|пиле|n}},  {{t|bg|пилешко|n}}
 * Chinese: [[鸡肉]] (jīròu)
 * Croatian: {{t-|hr|piletina|f}}
 * Dutch: {{t+|nl|kip|f}}, {{t-|nl|kippenvlees|n}}
@@ -152,15 +152,15 @@
 * Finnish: {{t+|fi|kana}}
 * French: {{t+|fr|poulet|m}}
 * German: {{t+|de|Huhn|n}}, {{t+|de|Hühnchen|n}}
-* Greek: {{t+|el|κοτόπουλο|n|tr=kotópoulo|sc=Grek}}
+* Greek: {{t+|el|κοτόπουλο|n|tr=kotópoulo}}
 * Hungarian: {{t+|hu|csirkehús}}
 {{trans-mid}}
 * Irish: {{t|ga|circeoil|f|xs=Irish}}
 * Italian: {{t+|it|pollo|m}}
 * Korean: [[닭고기]] ''(dakgogi)''
-* [[Macedonian]]: {{t|mk|пилешко|n|tr=píleško|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|пилешко|n|tr=píleško}}
 * Norwegian: {{t+|no|kylling|m}}
-* Russian: {{t+|ru|курятина|f|tr=kurjátina|sc=Cyrl}}
+* Russian: {{t+|ru|курятина|f|tr=kurjátina}}
 * Serbian:
 *: Cyrillic: [[пилетина#Serbian|пилетина]] {{f}}
 *: Roman: [[piletina#Serbian|piletina]] {{f}}
@@ -171,8 +171,8 @@
 {{trans-bottom}}
 
 {{trans-top|coward}}
-* Armenian: {{t-|hy|վախկոտ|tr=vaxkot|xs=Armenian}},  {{t|hy|ղզիկ|tr=ġzik|xs=Armenian}}
-* Bulgarian: {{t|bg|страхливец|m|sc=Cyrl}}
+* Armenian: {{t-|hy|վախկոտ|tr=vaxkot}},  {{t|hy|ղզիկ|tr=ġzik}}
+* Bulgarian: {{t|bg|страхливец|m}}
 * Czech: {{t-|cs|zbabělec|m}}, {{t+|cs|posera|m}}
 * Danish: {{t-|da|bangebuks|c}}
 * Dutch: {{t+|nl|lafaard|m}}, {{t+|nl|wezel|m}}
@@ -185,7 +185,7 @@
 * Italian: {{t+|it|coniglio|m}}
 * Norwegian: {{t+|no|feiging|m}}
 * Polish: {{t+|pl|tchórz|m}}
-* Russian: {{t+|ru|трус|m|tr=trus|sc=Cyrl}}
+* Russian: {{t+|ru|трус|m|tr=trus}}
 * Spanish: {{t+|es|gallina|f}}
 {{trans-bottom}}
 
