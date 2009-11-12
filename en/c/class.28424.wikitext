@@ -77,7 +77,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 ====Translations====
 {{trans-top|group, collection, category or set sharing characteristics or attributes}}
 * Armenian: {{t-|hy|դաս|tr=das}}
-* Bulgarian: {{t+|bg|класа|f}},  {{t+|bg|клас|m}}
+* Bulgarian: {{t+|bg|класа|f}}, {{t+|bg|клас|m}}
 * [[Catalan]]: {{t+|ca|classe|f}}
 * Croatian: {{t+|hr|razred|m|alt=rázred}}, {{t-|hr|klasa|f|alt=klàsa}}
 * Czech: {{t-|cs|třída|f}}
@@ -117,7 +117,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 * Italian: {{t+|it|ceto|m}},  {{t-|it|classe|f}}
 * Japanese: [[階級]] ([[かいきゅう]], kaikyū)
 * Norwegian: {{t+|no|klasse|m|f}}
-* Persian: {{t|fa|دسته|tr=dasta|sc=fa-Arab}},  {{t|fa|گروه|tr=gorōh|sc=fa-Arab}},  {{t|fa|طبقه|tr=tabagheh|sc=fa-Arab}}
+* Persian: {{t|fa|دسته|tr=dasta|sc=fa-Arab}}, {{t|fa|گروه|tr=gorōh|sc=fa-Arab}}, {{t|fa|طبقه|tr=tabagheh|sc=fa-Arab}}
 * Polish: {{t+|pl|klasa|f}}
 * Portuguese: {{t+|pt|classe|f}}
 * Romanian: [[clasă]] {{f}}
@@ -132,7 +132,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 {{trans-top|division of society into classes}}
 * Armenian: {{t-|hy|դաս|tr=das}}
 * Bulgarian: {{t+|bg|класа|f}}
-* [[Catalan]]: [[classe]] {{f}}
+* [[Catalan]]: {{t|ca|classe|f}}
 * Czech: {{t-|cs|třída|f}}
 * Estonian: {{t|et|seisus}}
 * Finnish: {{t+|fi|luokka}}
@@ -140,7 +140,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 * Hebrew: [[מעמדות]] (ma'amadot) {{m|p}}
 * Hungarian: {{t+|hu|osztály}}
 {{trans-mid}}
-* Italian: {{t+|it|ceto|m}},  {{t-|it|classe|f}}
+* Italian: {{t+|it|ceto|m}}, {{t-|it|classe|f}}
 * Norwegian: {{t+|no|klasse|m|f}}
 * Polish: {{t+|pl|klasa|f}}
 * Portuguese: {{t+|pt|classe|f}}
@@ -159,7 +159,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 * Italian: {{t-|it|classe|f}}
 * Norwegian: {{t+|no|klasse|m|f}}
 {{trans-mid}}
-* Persian: {{t|fa|برازندگي|tr=barāzandagi|sc=fa-Arab}}
+* Persian: {{t|fa|برازندگی|tr=barāzandagi|sc=fa-Arab}}
 * Polish: {{t+|pl|klasa|f}}
 * Portuguese: {{t+|pt|classe|f}}
 * Russian: {{t+|ru|класс|m|tr=klass}}
@@ -187,7 +187,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 * Japanese: [[クラス]] (kurasu), [[学級]] ([[がっきゅう]], gakkyū), [[級]] ([[きゅう]], kyū)
 * Kurdish: {{ku-Arab|[[پۆل]]}}
 * Norwegian: {{t+|no|klasse|m|f}}
-* Persian: {{t|fa|كلاس|tr=kelās|sc=fa-Arab}}
+* Persian: {{t|fa|کلاس|tr=kelās|sc=fa-Arab}}
 * Polish: {{t+|pl|klasa|f}}
 * Portuguese: {{t+|pt|classe|f}}
 * Russian: {{t+|ru|класс|m|tr=klass}}, {{t+|ru|группа|f|tr=grúppa}}
@@ -199,7 +199,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 {{trans-top|series of classes covering a single subject}}
 * Armenian: {{t-|hy|դաս|tr=das}}
 * Bulgarian: {{t+|bg|курс|m}}
-* [[Catalan]]: {{t+|ca|classe|f}}, [[curs]] {{m}}
+* [[Catalan]]: {{t+|ca|classe|f}}, {{t|ca|curs|m}}
 * Estonian: [[kursus]]
 * French: {{t+|fr|cours|m}}
 * Hebrew: [[קורס]] (qurs) {{m}}
@@ -209,7 +209,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 * Norwegian: {{t-|no|kurs|n}}
 * Persian: {{t|fa|دوره|tr=dore|sc=fa-Arab}}
 * Polish: {{t+|pl|kurs}}
-* Portuguese: {{t|pt|curso|m}},  {{t|pt|aula|f}}
+* Portuguese: {{t|pt|curso|m}}, {{t|pt|aula|f}}
 * Russian: {{t+|ru|курс|m|tr=kurs}}
 * Swahili: {{t|sw|darasa|xs=Swahili}}
 * Swedish: {{t+|sv|kurs|c}}
@@ -218,7 +218,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 {{trans-top|group of students who commenced or completed their education during a particular year}}
 * Armenian: {{t|hy|դասարան|tr=dasaran}}
 * Bulgarian: {{t-|bg|набор|m}}
-* [[Catalan]]: [[classe]] {{f}}
+* [[Catalan]]: {{t|ca|classe|f}}
 * Finnish: [[luokka]], [[vuosikurssi]]
 * French: {{t+|fr|promotion|f}}
 * German: {{t+|de|Klasse|f}}
@@ -281,7 +281,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 {{trans-bottom}}
 
 {{trans-top|programming: set of objects possibly differing in state but not behavior}}
-* [[Catalan]]: [[classe]] {{f}}
+* [[Catalan]]: {{t|ca|classe|f}}
 * Czech: {{t-|cs|třída|f}}
 * Finnish: {{t+|fi|luokka}}
 * French: {{t+|fr|classe|f}}
@@ -291,7 +291,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 * Italian: {{t-|it|classe|f}}
 * Japanese: {{t+|ja|クラス|tr=kurasu}}
 * Norwegian: {{t+|no|klasse|m|f}}
-* Persian: {{t|fa|كلاس|tr=kelās|sc=fa-Arab}}
+* Persian: {{t|fa|کلاس|tr=kelās|sc=fa-Arab}}
 * Polish: {{t+|pl|klasa|f}}
 * Portuguese: {{t+|pt|classe|f}}
 * Russian: {{t+|ru|класс|m|tr=klass}}
@@ -308,7 +308,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 * Italian: {{t-|it|classe|f}}
 * Japanese: {{t+|ja|クラス|tr=kurasu}}
 * Norwegian: {{t+|no|klasse|m|f}}
-* Persian: {{t|fa|كلاس|tr=kelās|sc=fa-Arab}}
+* Persian: {{t|fa|کلاس|tr=kelās|sc=fa-Arab}}
 * Portuguese: {{t+|pt|classe|f}}
 * Russian: {{t+|ru|класс|m|tr=klass}}
 * Swahili: {{t|sw|darasa|xs=Swahili}}
@@ -323,7 +323,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 {{checktrans-top}}
 * {{ttbc|Interlingua}}: [[classe]]
 * {{ttbc|Indonesian}}: [[kelas]]
-* {{ttbc|Romanian}}: [[clasă]] {{f}}
+* {{ttbc|Romanian}}: {{t|ro|clasă|f}}
 {{trans-bottom}}
 
 ===Verb===
