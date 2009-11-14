@@ -105,7 +105,7 @@ From {{etyl|ang|en}} {{term|linke|lang=en}} probably from {{etyl|non|en}} *{{ter
 * Japanese: {{t|ja|リンク|tr=rinku}}
 * [[Lower Sorbian]]: {{tø|dsb|link|m|xs=Lower Sorbian}}
 * [[Macedonian]]: {{t|mk|врска|f|tr=v'rska}},  {{t|mk|хиперврска|f|tr=hiperv'rska}}
-* Polish: {{t+|pl|link|m}}
+* Polish: {{t+|pl|link|m}}, [[hiperłącze]] {{n}}
 * Portuguese: {{t+|pt|ligação|f}}
 * Romanian: {{t-|ro|hyperlink|n}}, {{t-|ro|legătură|f}}
 * Russian: {{t+|ru|ссылка|f|tr=ssýlka}}, {{t+|ru|гиперссылка|f|tr=giperssýlka}},  {{t|ru|линк|m|tr=link}}
@@ -260,7 +260,7 @@ From {{etyl|en|nl}} {{term|link|lang=en}}, only since late 20th century.
 ==German==
 
 ===Pronunciation===
-* {{IPA|/'liŋk/|lang=de}}
+* {{IPA|/liŋk/|lang=de}}
 
 ===Adjective===
 {{infl|de|adjective}}
@@ -313,6 +313,30 @@ From {{etyl|en|it}} {{term|lang=en|link}}.
 {{infl|lt|adverb|head=lĩnk}}
 
 # [[toward]] (''used with genitive case'')
+----
+==Polish==
+
+===Pronunciation===
+* {{IPA|[lʲĩŋk]|lang=pl}}
+
+===Noun===
+{{infl|pl|noun|g=m}}
+
+# [[#English|link]], [[hyperlink]]
+
+====Declension====
+{{pl-decl-noun
+|link|linki
+|linku|linków
+|linkowi|linkom
+|link|linki
+|linkiem|linkami
+|linku|linkach
+|linku|linki
+}}
+
+====Synonyms====
+*[[hiperłącze]]
 
 [[br:link]]
 [[da:link]]
