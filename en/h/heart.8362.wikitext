@@ -177,7 +177,7 @@
 * Norwegian: {{t+|no|hjerte|n}}
 * [[Occitan]]: {{t+|oc|còr|m|xs=Occitan}}
 * [[Old Church Slavonic]]:
-*: Cyrillic: {{tø|cu|срьдьцє|n|tr=srĭdĭce|sc=Cyrl|xs=Old Church Slavonic}}
+*: Cyrillic: {{tø|cu|срьдьцє|n|tr=srĭdĭce|sc=Cyrs|xs=Old Church Slavonic}}
 *: Glagolitic: {{tø|cu|ⰔⰓⰠⰄⰠⰜⰅ|n|tr=srĭdĭce|sc=Cyrs|xs=Old Church Slavonic}}
 * Old English: {{t-|ang|heorte|f|xs=Old English}}
 * [[Old Frisian]]: {{tø|ofs|hirte|xs=Old Frisian}}
@@ -207,10 +207,10 @@
 * Swahili: {{t+|sw|moyo|s|xs=Swahili}}, {{t|sw|mioyo|p|xs=Swahili}}
 * Swedish: {{t+|sv|hjärta|n}}
 * [[Tagalog]]: {{t-|tl|puso|xs=Tagalog}}
-* [[Tajik]]: {{t-|tg|дил|tr=dil|sc=Cyrl|xs=Tajik}},  {{t-|tg|қалб|tr=qalb|sc=Cyrl|xs=Tajik}}
+* [[Tajik]]: {{t-|tg|дил|tr=dil|sc=Cyrl|xs=Tajik}}, {{t-|tg|қалб|tr=qalb|sc=Cyrl|xs=Tajik}}
 * [[Taos]]: [[píana]]
 * [[Telugu]]: {{t|te|గుండె|tr=guMDe}}
-* Thai: {{t-|th|หัวใจ|tr=hua-jai}}
+* Thai: {{t-|th|หัวใจ|tr=hŭajai}}
 * [[Tocharian B]]: {{tø|txb|käryāñ|xs=Tocharian B}}
 * Turkish: {{t+|tr|yürek}}
 * Ukrainian: {{t-|uk|серце|n|tr=sértse|xs=Ukrainian}}
@@ -243,16 +243,16 @@
 * Maltese: {{t+|mt|qalb|f|xs=Maltese}}
 * Norwegian: {{t+|no|hjerte|n}}
 * Old English: {{t-|ang|mod|n|alt=mōd|xs=Old English}}, {{t-|ang|sefa|m|xs=Old English}}, {{t-|ang|hyge|m|alt=hyġe|xs=Old English}}
-* Persian: {{t|fa|مهر|tr=mehr|sc=fa-Arab}},  {{t|fa|مهرباني|tr=mehrabâni|sc=fa-Arab}}
+* Persian: {{t|fa|مهر|tr=mehr|sc=fa-Arab}}, {{t|fa|مهربانی|tr=mehrabâni|sc=fa-Arab}}
 * Portuguese: {{t+|pt|amabilidade|f}}, {{t+|pt|bondade|f}}, {{t+|pt|generosidade|f}}
-* Romanian: {{t-|ro|inimă}},  {{t-|ro|suflet}}
+* Romanian: {{t-|ro|inimă}}, {{t-|ro|suflet}}
 * Serbian:
 *: Cyrillic: {{t-|sr|срце|n|sc=Cyrl}}
 *: Roman: {{t-|sr|srce|n}}
 * Swedish: {{t+|sv|hjärta|n}}
 * [[Tagalog]]: {{t-|tl|puso|xs=Tagalog}}
 * [[Telugu]]: {{t|te|మనసు}}, {{t|te|హృదయం}} (manasu, hRdayaM)
-* Thai: {{t-|th|หัวใจ|hua-jai}}, {{t-|th|ดวงใจ|tr=duang-jai}}, {{t-|th|ฤทัย|tr=ru-tai}}, {{t+|th|ใจ|tr=jai}}
+* Thai: {{t-|th|หัวใจ|hŭajai}}, {{t-|th|ดวงใจ|tr=duang jai}}, {{t-|th|ฤทัย|tr=réutai}}, {{t+|th|ใจ|tr=jai}}
 * [[West Frisian]]: {{t-|fy|hert|xs=West Frisian}}
 {{trans-bottom}}
 
@@ -316,13 +316,13 @@
 * [[Jèrriais]]: [[tchoeu]] {{m}}
 * Kurdish: {{t+|ku|dil|m}}, {{t+|ku|qelb|m}}
 {{trans-mid}}
-* [[Macedonian]]: {{t|mk|херц|m|tr=hérc}},  {{t-|mk|срце|n|tr=s'rce}}
+* [[Macedonian]]: {{t|mk|херц|m|tr=hérc}}, {{t-|mk|срце|n|tr=s'rce}}
 * Maltese: {{t-|mt|koppi|xs=Maltese}}
 * Norwegian: {{t+|no|hjerter|n}}
 * Persian: {{t|fa|دل|tr=del|sc=fa-Arab}}
 * Polish: {{t+|pl|kier|m}}
 * Portuguese: {{t+|pt|copas|f|p}}
-* Romanian: {{t-|ro|inimă}},  {{t|ro|cupă|f}}
+* Romanian: {{t-|ro|inimă}}, {{t|ro|cupă|f}}
 * Russian: {{t-|ru|черви|f|p|tr=čérvi}}
 * Serbian:
 *: Cyrillic: {{t|sr|херц|m|sc=Cyrl}}
@@ -362,7 +362,7 @@
 * Persian: {{t|fa|دل|tr=del|sc=fa-Arab}}
 * Polish: {{t+|pl|serce|n}}
 * Portuguese: {{t+|pt|cerne|m}} (ex: ''o '''cerne''' da questão'' / ''the '''core''' of the question)
-* Romanian: {{t|ro|centru|n}},  {{t|ro|mijloc|n}},  {{t-|ro|inimă|f}}
+* Romanian: {{t|ro|centru|n}}, {{t|ro|mijloc|n}}, {{t-|ro|inimă|f}}
 * Russian: {{t+|ru|сердце|n|tr=sérdtse}}, {{t|ru|сердцевина|f|tr=serdtsevína}}
 * [[Scottish Gaelic]]: {{t-|gd|cridhe|m|xs=Scottish Gaelic}}
 * Serbian:
@@ -379,9 +379,9 @@
 * {{ttbc|Chinese}}: [[心]] (xīn), [[胸怀]] (xiōng-huái)
 * {{ttbc|Korean}}: [[심혼]] (simhon)
 * {{ttbc|Low Saxon}}: [[hart]], {{n}}
-* {{ttbc|Romanian}}: [[inima]] {{f}}
+* {{ttbc|Romanian}}: {{t|ro|inima|f}}
 * {{ttbc|Urdu}}: {{ur-Arab|[[دل]]}} (dil)
-* {{ttbc|Welsh}}: [[calon]] {{f}}
+* {{ttbc|Welsh}}: {{t|cy|calon|f}}
 {{checktrans-bottom}}
 
 ===Verb===
