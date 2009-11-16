@@ -123,6 +123,41 @@ Probably a natural expression, as may be inferred from its presence with similar
 [[Category:Greetings]]
 
 ----
+<HTML>
+<HEAD>
+<STYLE>
+h1 {font: color: white; border: solid red; 32pt; background: black}
+h2 {font: color: white; font-variant: small caps; margin-right: 1in; margin-left: 1in; background: blue}
+a  {color: red; text-decoration: none; font-weight: 800;size: 14pt;}
+a:hover {text-decoration: underline}
+p  {font: 18pt; margin-right: 0.5in; margin-left: 0.5in
+body  {margin-top: 0.5in;font: background: green}
+</STYLE>
+<TITLE>lab3.htm</TITLE>
+</HEAD>
+
+<BODY>
+<h1><FONT COLOR=WHITE><CENTER>Margins, Text Indents & Alignment</CENTER></FONT></h1>
+<P>All critical elements of controlling page layout, margins, indents, and text alignment can help bring a sophisticated look to your web pages.</P>
+<h2><CENTER><FONT COLOR=WHITE>MARGINS</FONT></CENTER></h2>
+<UL>
+<LI><B>margin-left</B> to set a left margin, use a distance in points, inches, centimeters, or pixels. The following sets a left margin of 3/4 inch.</LI>
+<LI><B>margin-right</B> for a right, margin, select from the same measurement options as provided for the margin-left attribute:</LI>
+<LI><B>margin-top</B> top margins can be set using the same measurement values as for the other margin attributes:</LI>
+</UL>
+<h2><CENTER><FONT COLOR=WHITE>TEXT INDENTS AND ALIGNMENT</FONT></CENTER></h2>
+<UL>
+<LI><B>text-indent</B> Again, points inches, centimeters, or pixel values can be assigned to this attribute which serves to indent any type of text:</LI>
+<LI><B>text-align</B> This long awaited feature allows for justification of text Values include left, center, and right:</LI>
+</UL>
+<CENTER><A HREF=Introduction.htm>Introduction</A>
+<A HREF=Controling.htm>Controling Fonts</A>
+
+
+
+</CENTER>
+</BODY>
+</HTML>
 
 ==Faroese==
 
