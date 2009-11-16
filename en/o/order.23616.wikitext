@@ -102,19 +102,19 @@ From {{etyl|fro}} ''[[ordre]]''.
 * Finnish: {{t+|fi|järjestys}}
 * French: {{t+|fr|ordre|m}}
 * German: {{t+|de|Ordnung|f}}
-* Hungarian: [[rendezés]], [[rend]]
+* Hungarian: {{t|hu|rendezés}}, {{t|hu|rend}}
 * Indonesian: {{t+|id|aturan|xs=Indonesian}}
 * [[Interlingua]]: [[ordine]]
 * Irish: {{t-|ga|bail|f|xs=Irish}}
 * Italian: {{t+|it|ordine|m}}
 {{trans-mid}}
 * Japanese: [[順序]] (jyunjo)
-* Persian: {{t|fa|چيدمان|tr=ĉidemân|sc=fa-Arab}}
+* Persian: {{t|fa|چیدمان|tr=ĉidemân|sc=fa-Arab}}
 * Polish: {{t+|pl|porządek|m}}
 * Portuguese: {{t+|pt|ordem|f}}
 * Russian: {{t+|ru|порядок|m|tr=porjádok}}
 * [[Scottish Gaelic]]: {{t-|gd|òrdugh|m|xs=Scottish Gaelic}}
-* Slovene: [[red]] {{m}}, [[ureditev]] {{f}}
+* Slovene: {{t|sl|red|m}}, {{t|sl|ureditev|f}}
 * Spanish: {{t+|es|orden|m}}
 * Swahili: {{t+|sw|oda|xs=Swahili}}
 * Swedish: {{t+|sv|ordning|c}}, {{t+|sv|följd|c}}
@@ -123,7 +123,7 @@ From {{etyl|fro}} ''[[ordre]]''.
 {{trans-bottom}}
 
 {{trans-top|good arrangement}}
-* Arabic: {{Arab|[[ترتيب]]}} {{IPAchar|(tartīb)}} {{m}}
+* Arabic: {{Arab|[[ترتيب]]}} (tartīb) {{m}}
 * Chinese: [[次序]] (cìxù)
 * Czech: {{t+|cs|řád|m}}
 * Dutch: {{t+|nl|orde|f}}
@@ -140,19 +140,19 @@ From {{etyl|fro}} ''[[ordre]]''.
 * Italian: {{t+|it|ordine|m}}
 * Japanese: [[秩序]] (chitsujo)
 * Korean: [[질서]] (jilseo)
-* Persian: {{t|fa|چيدمان|tr=ĉidemân|sc=fa-Arab}}
+* Persian: {{t|fa|چیدمان|tr=ĉidemân|sc=fa-Arab}}
 * Polish: {{t+|pl|porządek|m}}
 * Portuguese: {{t+|pt|ordem|f}}
 * Russian: {{t+|ru|порядок|m|tr=porjádok}}
 * [[Scottish Gaelic]]: {{t-|gd|òrdugh|m|xs=Scottish Gaelic}}
-* Slovene: [[red]] {{m}}, [[ureditev]] {{f}}
-* Spanish: [[orden]] {{m}} (1, 2)
+* Slovene: {{t|sl|red|m}}, {{t|sl|ureditev|f}}
+* Spanish: {{t|es|orden|m}} (1, 2)
 * Swedish: {{t+|sv|ordning|c}}
 * [[Telugu]]: {{t|te|క్రమ పద్ధతి}} (krama paddhati)
 {{trans-bottom}}
 
 {{trans-top|command}}
-* Arabic: {{Arab|[[امر]]}} {{IPAchar|(’amr)}} {{m}}
+* Arabic: {{Arab|[[امر]]}} (’amr) {{m}}
 * Chinese: [[命令]] (mìng lìng)
 * Czech: {{t-|cs|rozkaz|m}}, {{t-|cs|povel|m}}
 * Danish: {{t-|da|ordre|c}}
@@ -171,7 +171,7 @@ From {{etyl|fro}} ''[[ordre]]''.
 * Japanese: [[命令]] (meirei)
 * Korean: [[명령]] (myeongnyeong)
 * Latin: {{t|la|edictum|n|alt=ēdictum}}
-* Persian: {{t|fa|اُرد|tr=ord|sc=fa-Arab}},  {{t|fa|دستور|tr=dastur|sc=fa-Arab}},  {{t|fa|فرمان|tr=farmân|sc=fa-Arab}}
+* Persian: {{t|fa|ارد|alt=اُرد|tr=ord|sc=fa-Arab}}, {{t|fa|دستور|tr=dastur|sc=fa-Arab}},  {{t|fa|فرمان|tr=farmân|sc=fa-Arab}}
 * Polish: {{t+|pl|rozkaz|m}}
 * Portuguese: {{t+|pt|ordem|f}}
 * Russian: {{t+|ru|приказ|m|tr=prikáz}}
@@ -194,17 +194,17 @@ From {{etyl|fro}} ''[[ordre]]''.
 * German: {{t+|de|Bestellung|f}}, {{t-|de|Order|f}}
 * Greek: {{t+|el|παραγγελία|f}}
 * Hungarian: {{t+|hu|rendelés}}
-* Indonesian: [[pesanan]]
+* Indonesian: {{t|id|pesanan}}
 * Italian: {{t-|it|ordinazione|f}}
 {{trans-mid}}
 * Japanese: [[注文]] (chūmon)
 * Norwegian: {{t+|no|ordre}}
 * Persian: {{t|fa|سفارش|tr=sefâreš|sc=fa-Arab}}
-* Polish: [[zamówienie]] {{n}}
+* Polish: {{t|pl|zamówienie|n}}
 * Portuguese: {{t+|pt|encomenda|f}}, {{t+|pt|pedido|m}}
 * Russian: {{t+|ru|заказ|m|tr=zakáz}}, {{t+|ru|ордер|m|tr=órder}}
 * [[Scottish Gaelic]]: {{t-|gd|òrdugh|m|xs=Scottish Gaelic}}
-* Slovene: [[naročilo]] {{n}}
+* Slovene: {{t|sl|naročilo|n}}
 * Spanish: {{t+|es|orden|f}}, {{t-|es|mandato|m}}
 * Swahili: {{t+|sw|oda|xs=Swahili}}
 * Swedish: {{t+|sv|order|c}}, {{t+|sv|beställning|c}}
@@ -301,7 +301,7 @@ From {{etyl|fro}} ''[[ordre]]''.
 
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 {{checktrans-top}}
-* {{ttbc|Norwegian}}: [[rekkefølge]] {{m}} {{italbrac|arrangement}}
+* {{ttbc|Norwegian}}: {{t|no|rekkefølge|m}} {{italbrac|arrangement}}
 * {{ttbc|Urdu}}: {{ur-Arab|[[منظم]]}}, {{ur-Arab|[[تنظیم]]}}, {{ur-Arab|[[ترتیب]]}}, {{ur-Arab|[[حکم]]}}
 {{trans-bottom}}
 
