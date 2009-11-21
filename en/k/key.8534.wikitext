@@ -60,7 +60,7 @@
 
 =====Translations=====
 {{trans-top|device designed to open and close a lock}}
-* [[Afrikaans]]: [[sleutel]]
+* [[Afrikaans]]: {{t|af|sleutel}}
 * Albanian: {{t+|sq|çelës|m|xs=Albanian}}
 * Arabic: {{Arab|[[مفتاح]]}} (muftāħ) {{m}}
 * Armenian: [[բանալի]] (banali)
@@ -159,7 +159,7 @@
 * Italian: {{t+|it|chiave|f}}
 {{trans-mid}}
 * Japanese: [[鍵]] ([[かぎ]], kagi)
-* Mandarin: {{tø|cmn|關鍵}},  {{tø|cmn|关键}}
+* Mandarin: {{tø|cmn|關鍵}}, {{tø|cmn|关键}}
 * Portuguese: {{t+|pt|segredo|m}}
 * Russian: {{t+|ru|ключ|m|tr=ključ}}
 * Spanish: {{t-|es|clave|f}}
@@ -186,7 +186,7 @@
 {{trans-mid}}
 * Japanese: [[キー]] (kī)
 * Lithuanian: {{t+|lt|klavišas|m|xs=Lithuanian}}
-* Norwegian<!--do not wikify-->: [[tast]] {{m}}
+* Norwegian: {{t|no|tast|m}}
 * Persian: {{fa-Arab|[[کلید]]}} (keleed)
 * Polish: {{t+|pl|klawisz|m}}
 * Portuguese: {{t+|pt|tecla|f}}
@@ -247,23 +247,23 @@
 * Russian: {{t|ru|тональность|f|tr=tonál’nost’}}; {{t|ru|лад|m|tr=lad}}
 * [[Scottish Gaelic]]: {{t-|gd|gleus|m|f|xs=Scottish Gaelic}}
 * Spanish: {{t-|es|clave|f}}
-* Swedish: [[tonart]] {{c}}
+* Swedish: {{t|sv|tonart|c}}
 * Welsh: {{t|cy|cywair|xs=Welsh}}
 {{trans-bottom}}
 
 {{trans-top|device used to transmit Morse code}}
-* Finnish: [[avain]], [[morseavain]]
+* Finnish: {{t|fi|avain}}, {{t|fi|morseavain}}
 * German: {{t+|de|Taste|f}}
 {{trans-mid}}
 * Swahili: {{t|sw|ufungu|xs=Swahili}}
-* Swedish: [[nyckel]] {{c}}, [[morsenyckel]] {{c}}
+* Swedish: {{t|sv|nyckel|c}}, {{t|sv|morsenyckel|c}}
 {{trans-bottom}}
 
 {{trans-top|cryptography: piece of information used to encode or decode}}
 * Czech: {{t-|cs|klíč|m}}
 * Danish: {{t-|da|nøgle|c}}
 * Dutch: {{t+|nl|sleutel|m}}
-* Finnish: [[avain]], [[salakirjoitusavain]]
+* Finnish: {{t|fi|avain}}, {{t|fi|salakirjoitusavain}}
 * French: {{t+|fr|clef|f}}, {{t+|fr|clé|f}}
 * German: {{t+|de|Schlüssel|m}}
 * Greek: [[κλειδί]] (klidi) {{n}}, [[χαρακτήρας αναγνώρισης δεδομένων]] (kharaktiras anagnorisis dedomenon) {{m}}
@@ -273,7 +273,7 @@
 * Italian: {{t+|it|chiave|f}}
 {{trans-mid}}
 * Lithuanian: {{t+|lt|raktas|m|xs=Lithuanian}}
-* Norwegian<!--do not wikify-->: [[nøkkel]] {{m}}
+* Norwegian: [[nøkkel]] {{m}}
 * Persian: {{fa-Arab|[[کلید]]}} (keleed)
 * Polish: {{t+|pl|klucz|m}}
 * Portuguese: {{t+|pt|chave|f}}
@@ -288,7 +288,7 @@
 {{trans-top|computing: field of a database constrained to be unique}}
 * Czech: {{t-|cs|klíč|m}}
 * Danish: {{t-|da|nøgle|c}}
-* Finnish: [[avain]], [[avainkenttä]]
+* Finnish: {{t|fi|avain}}, {{t|fi|avainkenttä}}
 * French: {{t+|fr|clef|f}}, {{t+|fr|clé|f}}
 * German: {{t+|de|Schlüssel|m}}
 * Irish: {{t+|ga|eochair|f|xs=Irish}}
@@ -306,14 +306,14 @@
 
 {{trans-top|computing: field in a record used as a search argument}}
 * Danish: {{t-|da|nøgle|c}}
-* Finnish: [[avain]], [[avainkenttä]]
+* Finnish: {{t|fi|avain}}, {{t|fi|avainkenttä}}
 * French: {{t+|fr|clef|f}}, {{t+|fr|clé|f}}
 * German: {{t+|de|Schlüssel|m}}
 * Hebrew: [[מפתח]] (maftekha) {{m}}
 * Irish: {{t+|ga|eochair|f|xs=Irish}}
 * Italian: {{t+|it|chiave|f}}
 {{trans-mid}}
-* Persian: {{t|fa|كليد|tr=keleed|sc=fa-Arab}}
+* Persian: {{t|fa|کلید|tr=keleed|sc=fa-Arab}}
 * Polish: {{t+|pl|klucz|m}}
 * Portuguese: {{t+|pt|chave|f}}
 * Russian: {{t+|ru|ключ|m|tr=ključ}}
@@ -340,13 +340,13 @@
 {{trans-bottom}}
 
 {{trans-top|in basketball}}
-* Portuguese: [[garrafão]] {{f}}
+* Portuguese: {{t|pt|garrafão|f}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|small guide explaining symbols or terminology}}
 * Danish: [[signaturforklaring]] {{c}}, [[nøgle]] {{c}}
-* Finnish: [[selite]], [[merkkienselite]]
+* Finnish: {{t|fi|selite}}, {{t|fi|merkkienselite}}
 * French: {{t+|fr|légende|f}}
 * German: [[Zeichenerklärung]] {{f}}, [[Legende]] {{f}}
 * Polish: {{t+|pl|klucz|m}},  {{t+|pl|legenda|f}}
