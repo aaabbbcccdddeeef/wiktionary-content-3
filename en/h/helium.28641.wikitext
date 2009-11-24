@@ -44,15 +44,15 @@ Modern Latin, from {{etyl|grc}} {{term|ἥλιος||lang=grc|sun}} (because its 
 {{trans-top|chemical element}}
 * [[Afrikaans]]: {{t-|af|helium|xs=Afrikaans}}
 * Albanian: {{t-|sq|helium|xs=Albanian}}
-* Arabic: {{t-|ar|هيليوم|m|tr=hílyum|sc=Arab}}
-* Armenian: {{t-|hy|հելիում|tr=helium|sc=Armn|xs=Armenian}}
+* Arabic: {{t-|ar|هيليوم|m|tr=hílyum}}
+* Armenian: {{t-|hy|հելիում|tr=helium}}
 * [[Asturian]]: {{t+|ast|heliu|xs=Asturian}}
 * [[Basque]]: {{t|eo|helioa|xs=Esperanto}}
-* Belarusian: {{t|be|гелій|m|tr=gelij|sc=Cyrl|xs=Belarusian}}
+* Belarusian: {{t|be|гелій|m|tr=gelij|xs=Belarusian}}
 * Bengali: {{t|bn|হিলিয়াম|sc=Beng|xs=Bengali}}
 * Bosnian: {{t-|bs|helij|m}}, {{t-|bs|helijum|m}}
 * [[Breton]]: {{t|br|heliom|m|xs=Breton}}
-* Bulgarian: {{t|bg|хелий|m|tr=khélij|sc=Cyrl}}
+* Bulgarian: {{t|bg|хелий|m|tr=khélij}}
 * [[Catalan]]: {{t-|ca|heli|m}}
 * Chinese:
 *: Cantonese: {{tø|yue|氦|sc=Hani|xs=Cantonese}}
@@ -66,7 +66,7 @@ Modern Latin, from {{etyl|grc}} {{term|ἥλιος||lang=grc|sun}} (because its 
 * Czech: {{t+|cs|helium|n}}
 * Danish: {{t-|da|helium}}
 * Dutch: {{t+|nl|helium|n}}
-* Esperanto: {{t|eo|heliumo|xs=Esperanto}}, {{t-|eo|helio|xs=Esperanto}}
+* Esperanto: {{t-|eo|heliumo|xs=Esperanto}}, {{t-|eo|helio|xs=Esperanto}}
 * Estonian: {{t-|et|heelium}}
 * Faroese: {{t-|fo|helium|xs=Faroese}}
 * Finnish: {{t+|fi|helium}}
@@ -74,14 +74,14 @@ Modern Latin, from {{etyl|grc}} {{term|ἥλιος||lang=grc|sun}} (because its 
 * French: {{t+|fr|hélium|m}}
 * [[Friulian]]: {{tø|fur|eli|m|xs=Friulian}}
 * [[Galician]]: {{t+|gl|helio|m|xs=Galician}}
-* Georgian: {{t|ka|ჰელიუმი|tr=heliumi|xs=Georgian}}
+* Georgian: {{t|ka|ჰელიუმი|tr=heliumi|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Helium|n}}
-* Greek: {{t+|el|ήλιο|n|tr=ílio|sc=Grek}}
-* [[Gujarati]]: {{t|gu|હીલિયમ|xs=Gujarati}}
+* Greek: {{t+|el|ήλιο|n|tr=ílio}}
+* [[Gujarati]]: {{t|gu|હીલિયમ|sc=Gujr|xs=Gujarati}}
 * [[Haitian Creole]]: {{tø|ht|elyòm|xs=Haitian Creole}}
 * Hawaiian: {{tø|haw|hiliuma|xs=Hawaiian}}
-* Hebrew: {{t+|he|הליום|m|tr=helyum|sc=Hebr}}
-* Hindi: {{t|hi|हीलियम|sc=Deva|xs=Hindi}}
+* Hebrew: {{t+|he|הליום|m|tr=helyum}}
+* Hindi: {{t|hi|हीलियम|xs=Hindi}}
 * Hungarian: {{t+|hu|hélium}}
 * Icelandic: {{t+|is|helín}}, {{t|is|helíum}}
 * [[Ido]]: {{t+|io|helio|xs=Ido}}
@@ -89,9 +89,9 @@ Modern Latin, from {{etyl|grc}} {{term|ἥλιος||lang=grc|sun}} (because its 
 * [[Interlingua]]: helium
 * Irish: {{t|ga|héiliam|xs=Irish}}
 * Italian: {{t+|it|elio|m}}}
-* Japanese: {{t+|ja|ヘリウム|tr=heriumu|sc=Jpan}}
+* Japanese: {{t+|ja|ヘリウム|tr=heriumu}}
 * [[Javanese]]: {{t-|jv|helium|xs=Javanese}}
-* [[Kannada]]: {{t|kn|ಹೀಲಿಯಮ್|xs=Kannada}}
+* [[Kannada]]: {{t|kn|ಹೀಲಿಯಮ್|sc=Knda|xs=Kannada}}
 * [[Kashubian]]: (él)
 * Kazakh: [[гелий]] ([[gelii]])
 * [[Komi]]: {{tø|kv|гелий|sc=Cyrl|xs=Komi}}
@@ -108,9 +108,9 @@ Modern Latin, from {{etyl|grc}} {{term|ἥλιος||lang=grc|sun}} (because its 
 * [[Lombard]]: {{tø|lmo|eli|m|xs=Lombard}}
 * [[Low Saxon]]: {{t-|nds|helium|xs=Low Saxon}}
 * [[Luxembourgish]]: {{t-|lb|Helium|xs=Luxembourgish}}
-* [[Macedonian]]: {{t|mk|хелиум|m|tr=hélium|sc=Cyrl|xs=Macedonian}}
+* [[Macedonian]]: {{t|mk|хелиум|m|tr=hélium}}
 * Malay: {{t-|ms|helium|xs=Malay}}
-* [[Malayalam]]: {{t|ml|ഹീലിയം|xs=Malayalam}}
+* [[Malayalam]]: {{t|ml|ഹീലിയം|sc=Mlym|xs=Malayalam}}
 * Maltese: [[ilju]] {{m}}
 * [[Manx]]: {{t|gv|hailium|xs=Manx}}
 * Maori: {{t|mi|haumāmā|xs=Maori}}
@@ -121,14 +121,14 @@ Modern Latin, from {{etyl|grc}} {{term|ἥλιος||lang=grc|sun}} (because its 
 *: Nynorsk: {{t-|nn|helium|xs=Norwegian Nynorsk}}
 * [[Novial]]: {{tø|nov|helium|xs=Novial}}
 * [[Occitan]]: {{t|oc|èli|m|xs=Occitan}}
-* Persian: {{t|fa|هلیم|sc=fa-Arab|xs=Persian}}
+* Persian: {{t|fa|هلیم|xs=Persian}}
 * Polish: {{t+|pl|hel|m}}
 * Portuguese: {{t+|pt|hélio|m}}
-* [[Punjabi]]: {{t|pa|ਹੀਲਿਆਮ|xs=Punjabi}}
+* [[Punjabi]]: {{t|pa|ਹੀਲਿਆਮ|sc=Guru|xs=Punjabi}}
 * [[Quechua]]: {{t|qu|ilyu|xs=Quechua}}, {{t-|qu|helio|xs=Quechua}}
 * Romanian: {{t+|ro|heliu|n}}
-* Russian: {{t+|ru|гелий|m|tr=gélij|sc=Cyrl}}
-* Sanskrit: {{t|sa|हीलियम|sc=Deva|xs=Sanskrit}}
+* Russian: {{t+|ru|гелий|m|tr=gélij}}
+* Sanskrit: {{t|sa|हीलियम|xs=Sanskrit}}
 * [[Scottish Gaelic]]: [[hèiliam]]
 * Serbian:
 *: Cyrillic: {{t-|sr|хелијум|m|sc=Cyrl}}
@@ -141,15 +141,15 @@ Modern Latin, from {{etyl|grc}} {{term|ἥλιος||lang=grc|sun}} (because its 
 * Swedish: {{t+|sv|helium|n}}
 * [[Tajik]]: {{t-|tg|гелий|sc=Cyrl|xs=Tajik}}
 * [[Tamil]]: {{t|ta|ஹீலியம்|xs=Tamil}}, {{t|ta|பரிதியம்|tr=paridhiyam|xs=Tamil}}
-* Thai: {{t|th|ฮีเลียม|tr=heeliam|sc=Thai|xs=Thai}}
+* Thai: {{t|th|ฮีเลียม|tr=heeliam}}
 * Turkish: {{t+|tr|helyum}}
-* Ukrainian: {{t|uk|гелій|m|tr=hélij|sc=Cyrl|xs=Ukrainian}}
+* Ukrainian: {{t|uk|гелій|m|tr=hélij|xs=Ukrainian}}
 * [[Upper Sorbian]]: {{t-|hsb|helium|xs=Upper Sorbian}}
 * Uzbek: {{t-|uz|гелий|tr=[[geliy]]|sc=Cyrl|xs=Uzbek}}
 * Vietnamese: {{t-|vi|heli|xs=Vietnamese}}, {{t|vi|hêli|xs=Vietnamese}}
 * Welsh: {{t|cy|heliwm|xs=Welsh}}
 * [[West Frisian]]: helium
-* Yiddish: {{t|yi|העליום|n|tr=helium|sc=Hebr|xs=Yiddish}}
+* Yiddish: {{t|yi|העליום|n|tr=helium|xs=Yiddish}}
 {{trans-bottom}}
 
 ====Synonyms====
