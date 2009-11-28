@@ -75,7 +75,7 @@
 * Czech: {{t-|cs|skála|f}}
 * Dutch: {{t+|nl|steen|m}}, {{t+|nl|rots}}
 * Filipino: {{tø|fil|bato}}
-* Finnish: {{t+|fi|kallio}},  {{t+|fi|kivi}}
+* Finnish: {{t+|fi|kivi}}
 * French: {{t+|fr|roche|f}}, {{t+|fr|roc|m}}
 * German: {{t+|de|Fels|m}}, {{t|de|Gestein|n}}
 * Greek: {{t+|el|πέτρα|f|tr=pétra}}
@@ -110,7 +110,7 @@
 * Croatian: {{t+|hr|stijena|f}}
 * Czech: {{t-|cs|skála|f}}
 * Dutch: {{t|nl|klif}}, {{t+|nl|rots}}
-* Finnish: {{t+|fi|kivi}}, {{t+|fi|kari}}
+* Finnish: {{t+|fi|kivi}}, {{t+|fi|kallio}} (''from the ground''); {{t+|fi|kari}}, {{t+|fi|luoto}}, {{t+|fi|kivi}} (''from water'')
 * French: {{t+|fr|rocher|m}}
 * German: {{t+|de|Felsen|m}}, {{t+|de|Fels|m}}, {{t+|de|Klippe|f}}
 {{trans-mid}}
@@ -139,7 +139,7 @@
 * [[Dena'ina]]: [[qałnigi]]
 * Dutch: {{t+|nl|rots}}
 * Filipino: {{tø|fil|bato}}
-* Finnish: {{t+|fi|kivi}}, {{t+|fi|lohkare}}
+* Finnish: {{t+|fi|kivi}}, {{t+|fi|kivenlohkare}}, {{t+|fi|lohkare}}
 * French: {{t+|fr|rocher|m}}, {{t+|fr|roc|m}}
 * German: [[Felsbrocken]] {{m}}, [[Felsblock]] {{m}}, ''erratic:'' [[Findling]] {{m}}
 * Hungarian: {{t+|hu|szikla}}
@@ -220,7 +220,7 @@
 {{trans-bottom}}
 
 {{trans-top|lump of ice}}
-* Finnish: {{t-|fi|jääkuutio}}, {{t+|fi|jää|alt=jäät}}
+* Finnish: {{t|fi|jääpala}}, {{t+|fi|jää|alt=jäät|p}}, {{t-|fi|jääkuutio}}
 * Norwegian: [[isbit]] {{m}}
 * Portuguese: [[cubo]] (de gelo) {{m}}
 {{trans-mid}}
@@ -253,17 +253,23 @@
 * Russian: [[тупица]] (tupítsa) {{c}}, [[бивень]] (bíven’) {{m}} {{italbrac|colloquial}}
 {{trans-bottom}}
 
-{{trans-top|Afrikaner}}
+{{trans-top|derogative: Afrikaner (for non-derogative terms, see [[Afrikaner]])}}
+<!-- Only derogative terms here, others go to Afrikaner -->
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|poker: extremely conservative player}}
 * Russian: {{t+|ru|африкандер|m|tr=afrikándэr}}, {{t+|ru|бур|m|tr=bur}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{checktrans}}
+{{checktrans-top}}
 * {{ttbc|Hebrew}}: [[אבן|אֶבֶן]] {{f}}
 * {{ttbc|Hungarian}}: [[kő]]
 * {{ttbc|Italian}}: [[roccia]] {{f}} (1,2), [[pietra]] {{f}} (2), [[sasso]] {{m}} (3), [[masso]] {{m}} (4), [[scoglio]] {{m}} (5)
 * {{ttbc|Spanish}}: [[peña]] {{f}} (1,2), [[roca]] {{f}} (1,2)
 * {{ttbc|Swahili}}: [[jiwe]] (2), [[mawe]] ''pl (noun 5/6)'' (1,2)
+{{trans-bottom}}
 
 =====Derived terms=====
 {{top2}}
