@@ -16,11 +16,11 @@ From {{etyl|frm}} ''[[boulette]]''.
 # The ammunition for a [[sling]] or [[slingshot]].
 # {{typography}} A printed symbol in the form of a solid circle, •, often used for marking items in a list.  (see also [[bulleted]])
 # {{informal}} An entire [[round]] of unfired [[ammunition]] for a [[firearm]], including the projectile, the [[cartridge]] casing, the explosive charge, etc.
-# {{slang}} One year of prison time
-# {{slang}} An [[ace]] (the [[playing card]]).
 # {{banking|finance}} A large scheduled repayment of the principal of a loan; a [[balloon]] payment.
 # A rejection letter, as for employment, admission to a school or a competition.
 #: ''John's not going to any of his top schools; he got a '''bullet''' from the last of them yesterday.''
+# {{slang}} One year of prison time
+# {{slang}} An [[ace]] (the [[playing card]]).
 
 ====Derived terms====
 {{rel-top|terms derived from ''bullet (noun)''}}
@@ -49,7 +49,7 @@ From {{etyl|frm}} ''[[boulette]]''.
 * Dutch: {{t+|nl|kogel|m}}
 * Esperanto: {{t-|eo|kuglo|xs=Esperanto}}
 * Estonian: {{t-|et|kuul}}
-* Finnish: {{t-|fi|ammus}}, {{t+|fi|kuula}}, {{t+|fi|luoti}}
+* Finnish: {{t+|fi|luoti}}
 * French: {{t+|fr|balle|f}}
 * Georgian: {{t-|ka|ტყვია|tr=tqvia|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Kugel|f}}
@@ -87,9 +87,14 @@ From {{etyl|frm}} ''[[boulette]]''.
 * Yiddish: {{t|yi|קויל|f|tr=koyl|xs=Yiddish}}
 {{trans-bottom}}
 
-{{trans-top|printed symbol in the form of a solid circle}}
+{{trans-top|ammunition for a sling}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|typography: printed symbol in the form of a solid circle}}
 * Czech: {{t-|cs|odrážka|f}}
 * Danish: {{t-|da|bullet|c}}, {{t-|da|punkttegn|n}}
+* Finnish: {{t|fi|luettelopallo}}, {{t|fi|pallura}}
 * French: {{t+|fr|puce|m}}
 * German: {{t-|de|Aufzählungszeichen|n}}
 {{trans-mid}}
@@ -97,6 +102,21 @@ From {{etyl|frm}} ''[[boulette]]''.
 * Latvian: [[punkts]] {{m}}
 * Maltese: {{t|mt|dott|xs=Maltese}}
 * Russian: {{t|ru|маркер списка|m|tr=márker spíska|sc=Cyrl}},  {{t|ru|буллит|m|tr=búllit|sc=Cyrl}}
+{{trans-bottom}}
+
+{{trans-top|informal: round of unfired ammunition}}
+* Finnish: {{t|fi|kuti}}, {{t|fi|pati}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|banking: large scheduled payment}}
+* Finnish: {{t|fi|kertamaksu}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|rejection letter}}
+* Finnish: {{t|fi|bumerangi}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
