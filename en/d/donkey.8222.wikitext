@@ -39,14 +39,14 @@
 * Aramaic:
 *: Syriac: [[ܚܡܪܐ]] (ħmārā’) {{c}}
 *: Hebrew: [[חמרא]] (ħmārā’) {{c}}
-* Armenian: {{t|hy|էշ|tr=ēš}}, {{t|hy|ավանակ|tr=avanak}}
-* [[Azeri]]: {{t|az|eşşək|xs=Azeri}},  {{t|az|ulaq|xs=Azeri}}
+* Armenian: {{t-|hy|էշ|tr=ēš}}, {{t-|hy|ավանակ|tr=avanak}}
+* [[Azeri]]: {{t-|az|eşşək|xs=Azeri}},  {{t|az|ulaq|xs=Azeri}}
 * [[Basque]]: [[asto]]
 * Belarusian: [[асел]] (asel) {{m}}
 * Bosnian: {{t-|bs|magarac|m}}
 * [[Breton]]: [[azen]]
 * Bulgarian: [[магаре]] (magare) {{n}} [[:bg:магаре|^]]
-* [[Catalan]]: {{t+|ca|ase|m}}, {{t+|ca|somera|f}}, {{t+|ca|burro|m}}, {{t+|ca|burra|f}}, {{t+|ca|ruc|m}}, {{t+|ca|ruca|f}}
+* [[Catalan]]: {{t+|ca|ase|m}}, {{t+|ca|somera|f}}, {{t+|ca|burro|m}}, {{t-|ca|burra|f}}, {{t+|ca|ruc|m}}, {{t-|ca|ruca|f}}
 * Cherokee: [[ᏗᎦᎵᏅᎯᏛ]] (digalinvhidv)
 * [[Chickasaw]]: [[haksibish falaa']]
 * Chinese: [[驢]], [[驴]] (lǘ)
@@ -58,7 +58,7 @@
 * Dutch: {{t+|nl|ezel|m}}
 * [[Egyptian]]: {{tø|egy|ʽȝ|alt=ʽ|sc=Egyp}}
 *: <hiero>aA:D52-E7</hiero>
-* Esperanto: {{t-|eo|azeno|xs=Esperanto}}
+* Esperanto: {{t+|eo|azeno|xs=Esperanto}}
 * Estonian: [[eesel]]
 * [[Ewe]]: [[tedzi]] {{n}}
 * Faroese: {{t-|fo|asni|xs=Faroese}}
@@ -70,22 +70,22 @@
 * German: {{t+|de|Esel|m}}
 * Greek: [[γάιδαρος]] (gáidaros) {{m}}, [[όνος]] (ónos) {{m}}
 * Hebrew: {{t+|he|חמור|m|tr=khamor}}
-* Hindi: [[गधा]] (gadhā) {{m}}
+* Hindi: {{t-|hi|गधा|m|tr=gadhā|xs=Hindi}}
 * Hungarian: {{t+|hu|szamár}}
 * Icelandic: {{t+|is|asni}}
 * [[Ido]]: [[asno]]
-* Indonesian: {{t|id|keledai}}
+* Indonesian: {{t|id|keledai|xs=Indonesian}}
 * [[Interlingua]]: [[asino]]
 * Irish: {{t+|ga|asal|xs=Irish}}
 * Italian: {{t+|it|asino|m}}, {{t+|it|somaro|m}}
 * Japanese: [[驢馬]] (ろば, roba)
 * [[Karachay-Balkar]]: {{tø|krc|эшек|sc=Cyrl}}
-* Kazakh: {{t|kk|есек|tr=esek|sc=Cyrl|xs=Kazakh}}
+* Kazakh: {{t-|kk|есек|tr=esek|sc=Cyrl|xs=Kazakh}}
 * Korean: [[당나귀]] (dangnagwi)
 * [[Kriol]]: {{tø|rop|ginggong ginggong}}
 {{trans-mid}}
 * Kurdish: {{t+|ku|ker|m}}, {{t-|ku|که‌ر|sc=ku-Arab}}
-* [[Kyrgyz]]: {{t|ky|эшек|tr=èšek|sc=Cyrl|xs=Kyrgyz}}
+* [[Kyrgyz]]: {{t-|ky|эшек|tr=èšek|sc=Cyrl|xs=Kyrgyz}}
 * [[Ladin]]: [[musc]]
 * Latin: {{t-|la|asinus|m}}
 * Latvian: [[ēzelis]]
@@ -113,7 +113,7 @@
 * Serbian:
 *: Cyrillic: [[магарац]] {{m}}
 *: Roman: [[magarac#Serbian|magarac]] {{m}}
-* [[Sicilian]]: {{t|scn|sceccu|m|xs=Sicilian}}
+* [[Sicilian]]: {{t+|scn|sceccu|m|xs=Sicilian}}
 * Slovak: [[somár]] {{m}}, [[osol]] {{m}}
 * Slovene: [[osel]] {{m}}, [[oslica]] {{f}}
 * [[Sotho]]: {{t+|st|tonki|xs=Sotho}}
@@ -123,21 +123,21 @@
 * Swedish: {{t+|sv|åsna}}
 * [[Tajik]]: {{t-|tg|хар|tr=xar|sc=Cyrl|xs=Tajik}}
 * [[Taos]]: [[mùldu’úna]]
-* [[Tatar]]: {{t|tt|ишәк|sc=Cyrl}}
+* [[Tatar]]: {{t+|tt|ишәк|sc=Cyrl|xs=Tatar}}
 * [[Telugu]]: [[గాడిద]] (gaaDida)
 * [[Tok Pisin]]: [[donki]], [[esel]]
 * Turkish: [[eşek]], [[eşekmerkep]]
 * Ukrainian: [[віслюк]] (visljuk), [[осел]] (osel)
 * [[Upper Sorbian]]: [[wosoł]]
 * Urdu: {{ur-Arab|[[گدھا]]}} (gadhā) {{m}}
-* Uzbek: {{t|uz|eshak|xs=Uzbek}}
+* Uzbek: {{t-|uz|eshak|xs=Uzbek}}
 * [[Volapük]]: [[cuk]]
 * Welsh: [[asyn]]
 * [[West Frisian]]: [[ezel]]
 {{trans-bottom}}
 
 {{trans-top|a stubborn person}}
-* Armenian: {{t|hy|էշ|tr=ēš|sc=Armn}}
+* Armenian: {{t-|hy|էշ|tr=ēš}}
 * Dutch: [[ezel]] {{m}}, [[koppige]] ezel {{m}}
 * Finnish: {{t+|fi|aasi}}
 * German: {{t+|de|Esel|m}}
@@ -154,7 +154,7 @@
 
 {{trans-top|a fool}}
 * Arabic: {{t+|ar|حمار|m|tr=ħimār}}
-* Armenian: {{t|hy|էշ|tr=ēš|sc=Armn}}
+* Armenian: {{t-|hy|էշ|tr=ēš}}
 * Bosnian: {{t-|bs|magarac|m}}
 * Dutch: [[ezel]] {{m}}, [[domme]] ezel {{m}}
 * Finnish: {{t+|fi|aasi}}
@@ -162,7 +162,7 @@
 * German: {{t+|de|Esel|m}}
 * Greek: {{t+|el|γάιδαρος|m|tr=gáidaros}}
 * Hebrew: {{t+|he|חמור|m|tr=khamor}}
-* Hindi: [[गधा]] (gadhā) {{m}}
+* Hindi: {{t-|hi|गधा|m|tr=gadhā|xs=Hindi}}
 * Hungarian: {{t+|hu|szamár}}, {{t+|hu|ökör}}
 * Italian: {{t+|it|asino|m}}
 {{trans-mid}}
