@@ -57,22 +57,22 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 
 ====Translations====
 {{trans-top|container}}
-* [[Catalan]]: {{t|ca|tanc|m}},  {{t|ca|dipòsit|m}}
+* [[Catalan]]: {{t+|ca|tanc|m}},  {{t|ca|dipòsit|m}}
 * Chinese:
-*: Mandarin: {{t|zh|罐|tr=guàn|sc=Hani}}
+*: Mandarin: {{t-|cmn|罐|tr=guàn|sc=Hani}}
 * Finnish: {{t+|fi|säiliö}}, {{t-|fi|tankki}}
 * German: {{t+|de|Tank|m}}
-* Greek: {{t|el|δεξαμενή|f|tr=δeksamení|sc=Grek}},  {{t|el|δοχείο|n|tr=δokhío|sc=Grek}}
-* Hebrew: {{t|he|מיכל|m|sc=Hebr}}
+* Greek: {{t|el|δεξαμενή|f|tr=δeksamení}},  {{t+|el|δοχείο|n|tr=δokhío}}
+* Hebrew: {{t|he|מיכל|m}}
 * [[Interlingua]]: [[tank]]
 * Italian: {{t+|it|tanica}}, {{t+|it|serbatoio}}
-* Japanese: {{t|ja|タンク|tr=tanku|sc=Jpan}}
+* Japanese: {{t-|ja|タンク|tr=tanku}}
 * [[Macedonian]]: {{t|mk|резервоар|m|tr=rezervoár}}
 {{trans-mid}}
 * Norwegian: {{t-|no|tank}}
 * Polish: {{t+|pl|zbiornik|m}}
 * Portuguese: {{t+|pt|tanque|m}}
-* Russian: {{t+|ru|бак|m|tr=bak|sc=Cyrl}},  {{t|ru|цистерна|f|tr=cistérna|sc=Cyrl}},  {{t|ru|ёмкость|f|tr=jómkost'|sc=Cyrl}},  {{t|ru|сосуд|m|tr=sosúd|sc=Cyrl}}
+* Russian: {{t+|ru|бак|m|tr=bak}},  {{t+|ru|цистерна|f|tr=cistérna}},  {{t|ru|ёмкость|f|tr=jómkost'}},  {{t+|ru|сосуд|m|tr=sosúd}}
 * Swahili: {{t+|sw|tangi|xs=Swahili}}
 * Swedish: {{t+|sv|tank}}
 * Ukrainian: {{t+|uk|бак|m|tr=bak|xs=Ukrainian}}
@@ -80,7 +80,7 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 {{trans-bottom}}
 
 {{trans-top|military fighting vehicle}}
-* Arabic: {{t|ar|دبابة|f|tr=dabbaaba|sc=Arab}}
+* Arabic: {{t|ar|دبابة|f|tr=dabbaaba}}
 * Armenian: {{t-|hy|տանկ|tr=tank}}
 * [[Basque]]: {{t|eu|gerra-gurdi|xs=Basque}}
 * Bosnian: {{t|bs|tenk|m}}
@@ -88,7 +88,7 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 * [[Catalan]]: {{t+|ca|tanc|m}}
 * Chinese:
 *: Cantonese: [[坦克車]], [[坦克车]]
-*: Mandarin: {{t|zh|坦克|tr=tǎnkè|sc=Hani}},  {{t|zh|坦克車|sc=Hani}},  {{t|zh|坦克车|tr=tǎnkèchē|sc=Hani}}
+*: Mandarin: {{t-|cmn|坦克|tr=tǎnkè|sc=Hani}},  {{t|cmn|坦克車|sc=Hani}},  {{t|cmn|坦克车|tr=tǎnkèchē|sc=Hani}}
 * [[Chuvash]]: {{tø|cv|танк|sc=Cyrl|xs=Chuvash}}
 * Croatian: {{t|hr|tenk|m}}
 * Czech: {{t+|cs|tank|m}}
@@ -121,12 +121,12 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 * {{trreq|Marathi}}
 * Navajo: {{tø|nv|chidí naaʼnaʼí beeʼeldǫǫh bikááʼ dah naaznilígíí}}
 * Norwegian: {{t|no|stridsvogn}}
-* Persian: {{fa-Arab|[[تانک]]}} (tank)
+* Persian: {{t+|fa|تانک|tr=tank|xs=Persian}}
 * Polish: {{t+|pl|czołg|m}}
 * Portuguese: {{t|pt|carro de combate|m}}, {{t+|pt|tanque|m}}
 * [[Quechua]]: {{t-|qu|tanki|xs=Quechua}}
 * Romanian: {{t-|ro|tanc}}
-* Russian: {{t+|ru|танк|m|tr=tank|sc=Cyrl}}
+* Russian: {{t+|ru|танк|m|tr=tank}}
 * [[Samogitian]]: {{tø|bat-smg|tanks}}
 * Serbian: {{t|sr|тенк|m|sc=Cyrl}}
 * [[Silesian]]: {{tø|szl|čoug}}
@@ -134,7 +134,7 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 * Slovene: {{t+|sl|tank|m}}
 * Spanish: {{t+|es|tanque|m}}
 * Swahili: {{t+|sw|tangi|xs=Swahili}}
-* Swedish: {{t+|sv|stridsvagn|c}}, {{t-|sv|pansarvagn|c}}
+* Swedish: {{t+|sv|stridsvagn|c}}, {{t+|sv|pansarvagn|c}}
 * [[Tamil]]: {{t|ta|கவச தாங்கி|xs=Tamil}}
 * Thai: {{Thai|[[รถถัง]]}} (rót tăng)
 * Turkish: {{t+|tr|tank}}
@@ -148,7 +148,7 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 {{trans-bottom}}
 
 {{trans-top|reservoir}}
-* Greek: {{t|el|υδροταμιευτήρας|m|tr=iδrotamieftíras|sc=Grek}}
+* Greek: {{t|el|υδροταμιευτήρας|m|tr=iδrotamieftíras}}
 * {{trreq|Gujarati}}
 * {{trreq|Hindi}}
 * [[Macedonian]]: {{t|mk|резервоар|m|tr=rezervoár}}, {{t-|mk|цистерна|f|tr=cistérna}}
