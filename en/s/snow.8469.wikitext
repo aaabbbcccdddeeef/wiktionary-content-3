@@ -384,7 +384,7 @@
 * Bengali: {{tø|bn|বরফ|tr=baraph|sc=Beng}}
 * Bulgarian: {{t-|bg|сняг|m|tr=snjag}}
 * [[Catalan]]: [[neu]] {{f}}
-* [[Central Atlas Tamazight]]: {{tø|tzm|ⴰⴷⴼⴻⵍ|tr=adfel|sc=Tfng|m}}
+* [[Central Atlas Tamazight]]: {{tø|tzm|ⴰⴷⴼⴻⵍ|m|tr=adfel|sc=Tfng}}
 * Chinese: [[雪]] (xuě)
 * Croatian: {{t+|hr|snijeg|m}}
 * Czech: {{t+|cs|sníh|m}}
@@ -398,8 +398,8 @@
 * Georgian: {{t-|ka|თოვლი|tr=t’ovli|sc=Geor|xs=Georgian}}
 * German: [[Schnee]] {{m}} [[:de:Schnee|(de)]]
 * Greek:
-*: Ancient: {{t|grc|χιών|f|tr=khion}}
-*: Modern: {{t|el|χιόνι|n|tr=khióni}}
+*: Ancient: {{tø|grc|χιών|f|tr=khion|xs=Ancient Greek}}
+*: Modern: {{t+|el|χιόνι|n|tr=khióni}}
 * Hebrew: {{t+|he|שלג|m|alt=שֶׁלֶג|tr=sheleg}}
 * Hindi: {{t-|hi|हिमपात|tr=himpāt|xs=Hindi}}
 * Hungarian: {{t+|hu|hó}}
@@ -411,7 +411,7 @@
 * Italian: {{t+|it|neve|f}}
 * Japanese: [[雪]] ([[ゆき]], yuki)
 * [[Karachay-Balkar]]: {{tø|krc|къар|tr=qar|sc=Cyrl}}
-* Kazakh: {{t|kk|қар|tr=qar|sc=Cyrl}}
+* Kazakh: {{t+|kk|қар|tr=qar|sc=Cyrl|xs=Kazakh}}
 * Korean: [[눈]] (nun)
 * Kurdish: {{t+|ku|به‌فر|sc=ku-Arab}}
 * Latin: {{t+|la|nix|f}}
@@ -422,7 +422,7 @@
 * Malay: {{t+|ms|salji|xs=Malay}}
 * [[Malayalam]]: [[ഹിമം]]
 * Navajo: [[zas]]
-* Norwegian: {{t+|no|snø}},  {{t|no|snø|m}},  {{t|no|sne|m}}
+* Norwegian: {{t+|no|snø}},  {{t+|no|snø|m}},  {{t+|no|sne|m}}
 * [[Occitan]]: {{t+|oc|nèu|f|xs=Occitan}}
 * [[Old Church Slavonic]]: {{tø|cu|снѣгъ|m|tr=sněgŭ|sc=Cyrs}}
 * Ossetic: {{tø|os|мит|tr=mit|sc=Cyrl|xs=Ossetian}}
@@ -434,7 +434,7 @@
 * Russian: {{t+|ru|снег|m|tr=sneg}}
 * [[Santali]]: {{tø|sat|ᱦᱤᱢ|tr=him|sc=Olck}}
 * [[Scots]]: {{tø|sco|snaw}}
-* [[Scottish Gaelic]]: [[sneachda]] {{m}},  {{t|gd|sneachd|m}}
+* [[Scottish Gaelic]]: [[sneachda]] {{m}},  {{t-|gd|sneachd|m|xs=Scottish Gaelic}}
 * [[Sicilian]]: {{t+|scn|nivi|f|xs=Sicilian}}
 * Slovak: {{t-|sk|sneh|m}}
 * Slovene: {{t+|sl|sneg|m}}
@@ -442,14 +442,14 @@
 * Spanish: {{t+|es|nieve|f}}
 * Swahili: [[theluji]] ''(noun 9/10)''
 * Swedish: {{t+|sv|snö|c}}
-* [[Tatar]]: {{t|tt|кар|sc=Cyrl}}
+* [[Tatar]]: {{t+|tt|кар|sc=Cyrl|xs=Tatar}}
 * [[Telugu]]: [[మంచు]] (maMchu)
 * Tibetan: {{tø|bo|གངས|tr=gangs|sc=Tibt|xs=Tibetan}}
 * Turkish: {{t+|tr|kar}}
 * [[Ugaritic]]: {{tø|uga|𐎂𐎍𐎘|tr=glṯ|sc=Ugar|xs=Ugaritic}}
 * Ukrainian: {{t+|uk|сніг|xs=Ukrainian}}
 * Welsh: {{t-|cy|eira|xs=Welsh}}
-* [[West Frisian]]: {{t|fy|snie|xs=West Frisian}}
+* [[West Frisian]]: {{t+|fy|snie|xs=West Frisian}}
 {{trans-bottom}}
 
 {{trans-top|colour}}
@@ -465,7 +465,7 @@
 * [[Macedonian]]: {{t|mk|снежнобела|f|tr=snežnobéla}}
 * Polish: [[śnieżnobiały]] {{m}}, [[śnieżnobiała]] {{f}}, [[śnieżnobiałe]] {{n}}
 * Slovene: [[snežnobela]] {{f}}
-* [[West Frisian]]: {{t|fy|snie|xs=West Frisian}}
+* [[West Frisian]]: {{t+|fy|snie|xs=West Frisian}}
 {{trans-bottom}}
 
 {{trans-top|TV noise}}
@@ -474,7 +474,7 @@
 * Dutch: {{t+|nl|sneeuw|m}}
 * Finnish: {{t+|fi|lumisade}}
 * German: {{t+|de|Schnee|m}}, {{t+|de|Grieß|m}}
-* Greek: {{t|el|χιόνι|n|tr=khióni}}
+* Greek: {{t+|el|χιόνι|n|tr=khióni}}
 * Icelandic: {{t+|is|snjór|m}}
 {{trans-mid}}
 * Italian: {{t+|it|effetto neve|m}}
@@ -488,7 +488,7 @@
 
 {{trans-top|cocaine}}
 * [[Catalan]]: [[neu]]
-* Danish: {{t|da|kokain|p}}
+* Danish: {{t-|da|kokain|p}}
 * Finnish: {{t+|fi|lumi}}
 * German: {{t+|de|Schnee|m}}
 * Italian: {{t+|it|neve|m}}
