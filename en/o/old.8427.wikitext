@@ -133,7 +133,7 @@
 * Armenian: [[հին]] (hin)
 * [[Basque]]: [[zahar]]
 * Bosnian: {{t-|bs|star}}
-* [[Catalan]]: {{t|ca|vell|m}}, vella {{f}}, antic {{m}}, antiga {{f}}
+* [[Catalan]]: {{t+|ca|vell|m}}, vella {{f}}, antic {{m}}, antiga {{f}}
 * Chinese:
 *: Mandarain: [[舊]]的, [[旧]]的 (jiù de), 很[[久]]的 (hěn jiǔ de), [[古老]]的 (gǔlǎo de)
 * Croatian: {{t-|hr|star}}
@@ -144,7 +144,7 @@
 * Finnish: {{t+|fi|vanha}}
 * French: [[vieux]] {{m}}, [[vieil]] ''m sg before a vowel or [[h muet]]'', vieille {{f}}, vieilles {{f|p}} (''used before the noun'')
 * [[Galician]]: {{t+|gl|vello|xs=Galician}}
-* German: {{t|de|alt}}
+* German: {{t+|de|alt}}
 * Greek: {{t+|el|παλιός|m}} (paliós), {{t+|el|αρχαίος|m}} (archaíos)
 * Hebrew: [[ישן|יָשָׁן]] (ya'shan)
 * Hungarian: {{t+|hu|régi}}
@@ -160,7 +160,7 @@
 * [[Occitan]]: [[vièlh]] {{m}}, [[vielha]] {{f}}
 * [[Old Church Slavonic]]: {{tø|cu|старъ|tr=starŭ|sc=Cyrs}}
 * Old English: {{t+|ang|eald|xs=Old English}}, {{t-|ang|gamol|xs=Old English}}
-* Persian: {{t|fa|کهنه|tr=kohna or kohne|sc=fa-Arab}}, {{t|fa|دیرین|tr=dirin|sc=fa-Arab}}
+* Persian: {{t+|fa|کهنه|tr=kohna or kohne|xs=Persian}}, {{t|fa|دیرین|tr=dirin|xs=Persian}}
 * Polish: {{t+|pl|stary|m}}, {{t-|pl|stara|f}}, {{t+|pl|stare|n}}
 * Portuguese: {{t+|pt|velho}}
 * [[Romani]]: {{tø|rom|phurano|m}}, {{tø|rom|phurani|f}}, {{tø|rom|phurane|p}}
@@ -168,13 +168,13 @@
 * Russian: {{t+|ru|старый|tr=stáryj}}
 * [[Scottish Gaelic]]: [[sean]], [[aosda]], [[aosmhor]]
 * Serbian:
-*: Cyrillic: {{t|sr|стар}}
+*: Cyrillic: {{t-|sr|стар|sc=Cyrl}}
 *: Roman: [[star#Serbian|star]]
-* Slovak: {{t|sk|starý|m}}, [[stará]] {{f}}, [[staré]] {{n}}
-* Slovene: {{t|sl|star|m}}, [[stara]] {{f}}, [[staro]] {{n}}
-* Spanish: {{t|es|antiguo|m}}, [[antigua]] {{f}}; [[viejo]] {{m}}, [[vieja]] {{f}}
+* Slovak: {{t-|sk|starý|m}}, [[stará]] {{f}}, [[staré]] {{n}}
+* Slovene: {{t+|sl|star|m}}, [[stara]] {{f}}, [[staro]] {{n}}
+* Spanish: {{t+|es|antiguo|m}}, [[antigua]] {{f}}; [[viejo]] {{m}}, [[vieja]] {{f}}
 * Swahili: {{t+|sw|mkongwe|xs=Swahili}}, {{t+|sw|ukale|xs=Swahili}}
-* Swedish: {{t|sv|använd}}, {{t|sv|förlegad}}, {{t|sv|gammal}}, {{t|sv|utsliten}}
+* Swedish: {{t|sv|använd}}, {{t|sv|förlegad}}, {{t+|sv|gammal}}, {{t|sv|utsliten}}
 * [[Tagalog]]: {{t-|tl|luma|xs=Tagalog}}
 * [[Telugu]]: {{t|te|పాత}} (paata)
 * Turkish: {{t+|tr|eski}}
@@ -216,20 +216,20 @@
 * Norwegian: {{t+|no|gammel}}
 * [[Old Church Slavonic]]: {{tø|cu|старъ|tr=starŭ|sc=Cyrs}}
 * Old English: {{t+|ang|eald|xs=Old English}}, {{t-|ang|gamol|xs=Old English}}
-* Persian: {{t|fa|پیر|tr=pir|sc=fa-Arab}}
+* Persian: {{t+|fa|پیر|tr=pir|xs=Persian}}
 * Polish: {{t+|pl|stary|m}}, {{t-|pl|stara|f}}, {{t+|pl|stare|n}}
 * Portuguese: {{t+|pt|velho}}
 * [[Romani]]: {{tø|rom|phuro|m}}, {{tø|rom|phuri|f}}, {{tø|rom|phure|p}}
 * Romanian: [[bătrân]] {{m}}, [[bătrână]] {{f}}
 * Russian: {{t+|ru|старый|tr=stáryj}}
 * Serbian:
-*: Cyrillic: {{t|sr|стар}}
+*: Cyrillic: {{t-|sr|стар|sc=Cyrl}}
 *: Roman: [[star#Serbian|star]]
-* Slovak: {{t|sk|starý|m}}, [[stará]] {{f}}, [[staré]] {{n}} or {{t|sk|bývalý|m}}, [[bývalá]] {{f}}, {{t|sk|bývalé|n}}
-* Slovene: {{t|sl|star|m}}, [[stara]] {{f}}, [[staro]] {{n}}
-* Spanish: {{t|es|anciano|m}}, [[anciana]] {{f}}; {{t|es|viejo|m}}, [[vieja]] {{f}}
+* Slovak: {{t-|sk|starý|m}}, [[stará]] {{f}}, [[staré]] {{n}} or {{t-|sk|bývalý|m}}, [[bývalá]] {{f}}, {{t|sk|bývalé|n}}
+* Slovene: {{t+|sl|star|m}}, [[stara]] {{f}}, [[staro]] {{n}}
+* Spanish: {{t+|es|anciano|m}}, [[anciana]] {{f}}; {{t+|es|viejo|m}}, {{t-|es|vieja|f}}
 * Swahili: {{t+|sw|mkongwe|xs=Swahili}}, {{t+|sw|ukale|xs=Swahili}}
-* Swedish: {{t|sv|gammal}}, {{t|sv|åldrig}}, {{t|sv|ålderstigen}}
+* Swedish: {{t+|sv|gammal}}, {{t|sv|åldrig}}, {{t|sv|ålderstigen}}
 * [[Telugu]]: {{t|te|ముసలి}} (musali)
 * Turkish: {{t+|tr|yaşlı}}
 * Welsh: {{t-|cy|hen|xs=Welsh}}
@@ -239,7 +239,7 @@
 {{trans-top|former}}
 * Armenian: [[անցած]] (anc'aç)
 * Bosnian: {{t-|bs|star}}
-* [[Catalan]]: {{t|ca|vell}}, {{t|ca|antic}}
+* [[Catalan]]: {{t+|ca|vell}}, {{t+|ca|antic}}
 * Chinese:
 *: Mandarin: [[前]] (qián)
 * Czech: {{t+|cs|starý}}
@@ -250,19 +250,19 @@
 * Korean: [[오래되다]] (orae-doeda)
 * Kurdish: (ya/yê) [[berê]], {{ku-Arab|[[پێشو]]}}
 * Norwegian: {{t+|no|gammel}}
-* Persian: {{t|fa|پیشین|tr=pišin|sc=fa-Arab}}
+* Persian: {{t|fa|پیشین|tr=pišin|xs=Persian}}
 * Polish: {{t+|pl|stary|m}}, {{t-|pl|stara|f}}, {{t+|pl|stare|n}}
 * Portuguese: {{t+|pt|antigo}}
 {{trans-mid}}
 * Romanian: {{t+|ro|antic|m}}, {{t-|ro|vechi|m}}
 * Serbian:
-*: Cyrillic: {{t|sr|стар}}
+*: Cyrillic: {{t-|sr|стар|sc=Cyrl}}
 *: Roman: [[star#Serbian|star]]
-* Slovak: {{t|sk|starý|m}}, [[stará]] {{f}}, [[staré]] {{n}}
-* Slovene: {{t|sl|star|m}}, [[stara]] {{f}}, [[staro]] {{n}}
-* Spanish: {{t|es|viejo|m}}, [[vieja]] {{f}} (''used before the noun''); ''sometimes with people'' [[ex-#Spanish|ex-]]
+* Slovak: {{t-|sk|starý|m}}, [[stará]] {{f}}, [[staré]] {{n}}
+* Slovene: {{t+|sl|star|m}}, [[stara]] {{f}}, [[staro]] {{n}}
+* Spanish: {{t+|es|viejo|m}}, [[vieja]] {{f}} (''used before the noun''); ''sometimes with people'' [[ex-#Spanish|ex-]]
 * Swahili: {{t+|sw|mkongwe|xs=Swahili}}, {{t+|sw|ukale|xs=Swahili}}
-* Swedish: {{t|sv|tidigare}}, {{t|sv|före detta}}
+* Swedish: {{t+|sv|tidigare}}, {{t|sv|före detta}}
 * [[Tagalog]]: {{t-|tl|dating|xs=Tagalog}}
 * [[Telugu]]: {{t|te|మునుపటి}} (munupaTi)
 * Turkish: {{t+|tr|önceki}}
@@ -298,10 +298,10 @@
 * Polish: {{t+|pl|stary|m}}, {{t-|pl|stara|f}}, {{t+|pl|stare|n}}
 * Russian: ''([[dative case]])'' ''[[он#Russian|ему]] {{l|ru|пять}} [[лето#Russian|лет]]''
 * Serbian:
-*: Cyrillic: {{t|sr|стар}}
+*: Cyrillic: {{t-|sr|стар|sc=Cyrl}}
 *: Roman: [[star#Serbian|star]]
-* Slovak: {{t|sk|starý|m}}, [[stará]] {{f}}, [[staré]] {{n}}
-* Slovene: {{t|sr|star|m}}, [[stara]] {{f}}, [[staro]] {{n}}
+* Slovak: {{t-|sk|starý|m}}, [[stará]] {{f}}, [[staré]] {{n}}
+* Slovene: {{t+|sr|star|m}}, [[stara]] {{f}}, [[staro]] {{n}}
 * Spanish: {{t+|es|de|alt=de + period}}, {{t+|es|tener|alt=que + (tener) + (period) + (unit of time)}}
 *: (e.g., I know his five-year-old daughter = Conozco a su hija que tiene cinco años)
 * Swahili: {{t+|sw|mkongwe|xs=Swahili}}, {{t+|sw|ukale|xs=Swahili}}
