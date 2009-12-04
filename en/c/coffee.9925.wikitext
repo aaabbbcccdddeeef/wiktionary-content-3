@@ -44,7 +44,7 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * Chinese:
 *: Cantonese: {{tø|yue|咖啡|tr=gaa3 fe1|sc=Hani|xs=Cantonese}}
 *: Mandarin: {{t-|cmn|咖啡|tr=kāfēi|sc=Hani}}
-*: Min Nan: {{t-|nan|咖啡|sc=Hani|tr={{t+|nan|ka-pi}}}}
+*: Min Nan: {{rfc-tbot}}{{t-|nan|咖啡|sc=Hani|tr={{t+|nan|ka-pi}}}}
 * Czech: {{t+|cs|káva|f}}
 * Danish: {{t+|da|kaffe|c}}
 * Dutch: {{t+|nl|koffie|m}}
@@ -80,10 +80,10 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 *: Nynorsk: {{t+|no|kaffi}}
 * [[Occitan]]: [[cafè]] {{m}}
 * [[Ojibwe]]: [[makade-mashkikiwaaboo]]
-* Persian: {{t|fa|قهوه|tr=qahve|sc=fa-Arab}}
+* Persian: {{t-|fa|قهوه|tr=qahve|xs=Persian}}
 * Polish: {{t+|pl|kawa|f}}
 * Portuguese: {{t+|pt|café|m}}
-* Romanian: {{t-|ro|cafea|f}}
+* Romanian: {{t+|ro|cafea|f}}
 * Russian: {{t+|ru|кофе|m|n|tr=kófe}}
 * [[Sami]]:
 *: Northern: {{tø|se|gáffe}}
@@ -96,7 +96,7 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * Spanish: {{t+|es|café|m}}, {{t-|es|tinto|m}}
 * Swahili: {{t+|sw|kahawa|xs=Swahili}}
 * Swedish: {{t+|sv|kaffe|n}}
-* [[Tagalog]]: {{t-|tl|kape|xs=Tagalog}}
+* [[Tagalog]]: {{t+|tl|kape|xs=Tagalog}}
 * [[Tetum]]: [[kafé]]
 * [[Tok Pisin]]: [[kopi]]
 * Turkish: {{t+|tr|kahve}}
@@ -152,7 +152,7 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * Spanish: {{t+|es|cafeto|m}}, {{t+|es|café|m}}
 * Swahili: {{t+|sw|mbuni|xs=Swahili}}
 * Swedish: {{t+|sv|kaffebuske|c}}, {{t+|sv|kaffeträd|n}}
-* [[Tagalog]]: {{t-|tl|kape|xs=Tagalog}}
+* [[Tagalog]]: {{t+|tl|kape|xs=Tagalog}}
 * [[Tok Pisin]]: [[kopi]]
 * Vietnamese: [[cây]] {{t+|vi|cà phê|xs=Vietnamese}}
 {{trans-bottom}}
@@ -175,7 +175,7 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * Russian: {{t|ru|кофейный|tr=koféjnyj}}
 * Spanish: {{t+|es|café|m}}
 * Swahili: {{t+|sw|kahawa|xs=Swahili}}
-* [[Tagalog]]: {{t-|tl|kape|xs=Tagalog}}
+* [[Tagalog]]: {{t+|tl|kape|xs=Tagalog}}
 * Vietnamese: [[màu]] [[cà phê]]
 {{trans-bottom}}
 
