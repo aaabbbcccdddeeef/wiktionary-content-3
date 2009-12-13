@@ -54,15 +54,16 @@ From {{etyl|enm|en}} {{term|stille||lang=ang}}, from {{etyl|ang|en}}
 ====Adverb====
 {{en-adv|-}}
 
-# at the present time, as in the past.
+# {{context|aspect}} Up to a time, as in the preceding time.
 #: ''Is it '''still''' raining?''
-# [[nevertheless]]
-#: ''I’m not hungry, but I’ll '''still''' manage to find room for dessert.''
-# to an even greater degree.  (Used to modify comparative adjectives or adverbs.)
+#: ''It was '''still''' raining five minutes ago.''
+# {{context|degree}} to an even greater degree.  (Used to modify comparative adjectives or adverbs.)
 #: ''Tom is tall; Dick is taller; Harry is '''still''' taller.''
+# {{context|conjunctive}} [[nevertheless]]
+#: ''I’m not hungry, but I’ll '''still''' manage to find room for dessert.''
 
 =====Translations=====
-{{trans-top|at present, as in the past}}
+{{trans-top|up to a time, as in the preceding time}}
 * Arabic: {{t|ar|لا يزال|tr=laa yazaal}} (negative form of {{Arab|[[زال]]}} ''zaala''),  {{t|ar|الى الأن|tr=ilaa al-'aan}}
 * [[Chamicuro]]: {{tø|ccc|meye kala}}
 * Chinese:
@@ -87,24 +88,6 @@ From {{etyl|enm|en}} {{term|stille||lang=ang}}, from {{etyl|ang|en}}
 * Turkish: {{t+|tr|hâlâ}}, {{t+|tr|hala}}
 {{trans-bottom}}
 
-{{trans-top|nevertheless}}
-* Arabic: {{t|ar|رغم ذلك|tr=rághim dhaalik}},  {{t|ar|مع ذلك|tr=ma`a dhaalik}}
-* Chinese:
-*: Mandarin: {{t-|cmn|還是|sc=Hani}},  {{t-|cmn|还是|tr=háishi|sc=Hani}},  {{t-|cmn|仍然|tr=réngrán|sc=Hani}}
-* Croatian: {{t-|hr|unatoč}}
-* Dutch: {{t+|nl|toch}}
-* Finnish: {{t+|fi|silti}}, {{t+|fi|vielä}}
-* French: {{t+|fr|néanmoins}}
-{{trans-mid}}
-* German: {{t+|de|doch}},  {{t+|de|trotzdem}},  {{t+|de|dennoch}}
-* Japanese: {{qualifier|informal}} {{t-|ja|まだ|tr=mada}}; {{qualifier|general}} {{t-|ja|それでも|tr=soré démo}}
-* Kurdish: {{t+|ku|به‌ڵام|sc=ku-Arab}}
-* Norwegian: {{t+|no|likevel}}, {{t+|no|enda}}
-* Portuguese: {{t+|pt|mesmo assim}}, {{t+|pt|ainda assim}}
-* Russian: {{t+|ru|всё-таки|tr=vsjó-taki}}, {{t+|ru|тем не менее|tr=tem ne méneje}}
-* Swedish: {{t+|sv|ändå}}
-{{trans-bottom}}
-
 {{trans-top|to an even greater degree}}
 * Chinese:
 *: Mandarin: {{t-|cmn|更|tr=gèng|sc=Hani}}
@@ -122,6 +105,24 @@ From {{etyl|enm|en}} {{term|stille||lang=ang}}, from {{etyl|ang|en}}
 * Spanish: {{t+|es|todavía}}, {{t+|es|aún}}
 * Swedish: {{t+|sv|än}}, {{t+|sv|ännu}}, {{t+|sv|ändå}}
 * [[Telugu]]: {{t|te|ఇంకా}} (inkaa)
+{{trans-bottom}}
+
+{{trans-top|nevertheless}}
+* Arabic: {{t|ar|رغم ذلك|tr=rághim dhaalik}},  {{t|ar|مع ذلك|tr=ma`a dhaalik}}
+* Chinese:
+*: Mandarin: {{t-|cmn|還是|sc=Hani}},  {{t-|cmn|还是|tr=háishi|sc=Hani}},  {{t-|cmn|仍然|tr=réngrán|sc=Hani}}
+* Croatian: {{t-|hr|unatoč}}
+* Dutch: {{t+|nl|toch}}
+* Finnish: {{t+|fi|silti}}, {{t+|fi|vielä}}
+* French: {{t+|fr|néanmoins}}
+{{trans-mid}}
+* German: {{t+|de|doch}},  {{t+|de|trotzdem}},  {{t+|de|dennoch}}
+* Japanese: {{qualifier|informal}} {{t-|ja|まだ|tr=mada}}; {{qualifier|general}} {{t-|ja|それでも|tr=soré démo}}
+* Kurdish: {{t+|ku|به‌ڵام|sc=ku-Arab}}
+* Norwegian: {{t+|no|likevel}}, {{t+|no|enda}}
+* Portuguese: {{t+|pt|mesmo assim}}, {{t+|pt|ainda assim}}
+* Russian: {{t+|ru|всё-таки|tr=vsjó-taki}}, {{t+|ru|тем не менее|tr=tem ne méneje}}
+* Swedish: {{t+|sv|ändå}}
 {{trans-bottom}}
 
 {{checktrans-top}}
