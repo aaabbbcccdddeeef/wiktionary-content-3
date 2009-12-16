@@ -10,7 +10,7 @@
 *: {{rhymes|ɛt}}
 
 ===Etymology 1===
-{{etyl|ang}} ''net''
+From {{etyl|ang}} {{term|net|lang=ang}}.
 
 ====Noun====
 {{en-noun}}
@@ -265,6 +265,7 @@ Via {{etyl|enm}} and {{etyl|frm}}, compare French ''[[#French|net]]''
 * German: [[netto]], [[netto|Netto]]-
 * Hebrew: {{he-translation|נקי|''nakí''}}
 {{trans-mid}}
+* Icelandic: {{t|is|nettó}}
 * Italian: {{t+|it|netto}}
 * Polish: {{t+|pl|netto|n}}
 * Portuguese: {{t+|pt|líquido|m}}
@@ -381,10 +382,10 @@ Via {{etyl|enm}} and {{etyl|frm}}, compare French ''[[#French|net]]''
 ==Faroese==
 
 ===Etymology===
-Old Norse '''net'''.
+From {{etyl|non|fo}} {{term|net|lang=non}}.
 
 ===Noun===
-'''net''' ''n''
+{{infl|fo|noun|g=n}}
 
 # (''fowling, sports'') [[mesh]], the material to make a "[[nót]]" (fishing net)
 # A [[network]] (''computing'')
@@ -393,14 +394,12 @@ Old Norse '''net'''.
 ====Declension====
 {{fo-decl-noun-n3|net}}
 
-[[Category:Faroese nouns]]
-
 ----
 
 ==French==
 
 ===Etymology===
-From {{etyl|la|fr}} [[nitidus]] 'shiny'
+From {{etyl|la|fr}} {{term|nitidus||shiny|lang=la}}.
 
 ===Pronunciation===
 * {{IPA|/nɛ/|lang=fr}}, {{X-SAMPA|/nE/}}
@@ -425,23 +424,26 @@ From {{etyl|la|fr}} [[nitidus]] 'shiny'
 ==Icelandic==
 
 ===Etymology===
-{{etyl|non|is}}.
+From {{etyl|non|is}} {{term|net|lang=non}}.
+
+===Pronunciation===
+* {{IPA|/nɛːt/|lang=is}}
+*: {{rhymes|ɛːt|lang=is}}
 
 ===Noun===
-'''net''' {{n}}
+{{is-noun|n}}
 
-# A [[#English|net]]
-# {{internet|lang=is}} (used with {{definite}} article) The [[internet]]
+# [[#English|net]]
+# {{computing|lang=is}} [[network]]
+# {{computing|usually|definite|lang=is}} the [[internet]]
 #* ''[[ég#Icelandic|Ég]] [[þola#Icelandic|þoli]] [[þetta#Icelandic|þetta]] [[ekki#Icelandic|ekki]], [[ég#Icelandic|ég]] [[komast#Icelandic|kemst]] [[ekki#Icelandic|ekki]] [[á#Icelandic|á]] '''netið'''.''
 #*: [[I]] [[can't]] [[stand]] [[it]], [[I]] [[can't]] [[connect]] [[to]] '''the internet'''.
 
 ====Declension====
-{{Icelandic declension hk sb 01|net}}
+{{is-decl-noun-n-s|n|e|t}}
 
 ====Synonyms====
-* (''internet''): [[internet]], [[veraldarvefurinn]]
-
-[[Category:Icelandic nouns]]
+* {{sense|internet}} {{l|is|internet}}
 
 ----
 
@@ -460,14 +462,37 @@ From {{etyl|la|fr}} [[nitidus]] 'shiny'
 ==Old English==
 
 ===Etymology===
-Akin to Old High German ''[[nezzi]]'', Old Norse ''net''
+From {{proto|Germanic|natja-|lang=non}}, whence also Old High German {{term|nezzi|lang=goh}}, Old Norse {{term|net|lang=non}}, Gothic {{term|𐌽𐌰𐍄𐌹|tr=nati|lang=got}}.
 
 ===Noun===
-'''net''' ''m''
+{{infl|ang|noun|g=m}}
 
-# A net
+# [[#English|net]]
 
-[[Category:Old English nouns]]
+====Descendants====
+* English: {{l|en|net}}
+
+----
+
+==Old Norse==
+
+===Etymology===
+From {{proto|Germanic|natja-|lang=non}}, whence also Old English {{term|net|lang=ang}} (English {{term|net|lang=en}}).
+
+===Noun===
+{{infl|non|noun|g=n}}
+
+# [[#English|net]]
+
+====Descendants====
+{{top2}}
+* Danish: {{l|da|net}}
+* Faroese: {{l|fo|net}}
+* Icelandic: {{l|is|net}}
+{{mid2}}
+* Norwegian: {{l|no|nett}}, {{l|no|net}}
+* Swedish: {{l|sv|nät}}
+{{bottom}}
 
 ----
 
