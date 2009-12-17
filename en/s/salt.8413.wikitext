@@ -78,8 +78,8 @@
 * Georgian: {{t-|ka|მარილი|tr=marili|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Salz|n}}, {{t+|de|Kochsalz|n}}
 * Greek:
-*: Ancient: [[ἅλας]] {{n}} (alas)
-*: Modern: {{t+|el|αλάτι|n}} (aláti)
+*: Ancient: [[ἅλας]] (alas) {{n}}
+*: Modern: {{t+|el|αλάτι|tr=aláti|n}}
 * Hebrew: {{he-translation|מלח|mélakh}} {{m}}
 * Hindi: {{t+|hi|नमक|m|tr=namak|xs=Hindi}}
 * Hungarian: {{t+|hu|só}}
@@ -97,15 +97,15 @@
 * Lao: {{t+|lo|ເກືອ|tr=kya|sc=Laoo|xs=Lao}}
 * Latin: {{t-|la|sal|m|alt=sāl}}
 * Latvian: {{t-|lv|sāls|f|xs=Latvian}}
-* [[Macedonian]]: {{t-|mk|сол|f|tr=sol}},  {{t|mk|кујнска сол|f|tr=kújnska sol}}
+* [[Macedonian]]: {{t-|mk|сол|f|tr=sol}}, {{t|mk|кујнска сол|f|tr=kújnska sol}}
 * Norwegian: {{t+|no|salt|n}}, {{t-|no|bordsalt|n}}
 * [[Old Frisian]]: [[salt]]
 * [[Pashto]]: {{t-|ps|مالګه|f|tr=mālga|sc=ps-Arab|xs=Pashto}}
 * Persian: {{t+|fa|نمک|tr=namak|xs=Persian}}
-* Polish: {{t+|pl|sól|f}},  {{t|pl|sól kuchenna|f}}
+* Polish: {{t+|pl|sól|f}}, {{t|pl|sól kuchenna|f}}
 * Portuguese: {{t+|pt|sal|m}}
 * Romanian: {{t-|ro|sare|f}}
-* Russian: [[соль]] (sol´) {{f}}
+* Russian: {{t|ru|соль|tr=sol’|f}}
 * [[Scottish Gaelic]]: {{t-|gd|salann|m|xs=Scottish Gaelic}}
 * [[Sicilian]]: {{t+|scn|sali|m|xs=Sicilian}}
 * Slovak: {{t-|sk|soľ|f}}
@@ -141,7 +141,7 @@
 * [[Pashto]]: {{t-|ps|مالګه|f|tr=mālga|sc=ps-Arab|xs=Pashto}}
 * Polish: {{t+|pl|sól|f}}
 * Romanian: {{t-|ro|sare|f}}
-* Russian: [[соль]] (sol´) {{f}}
+* Russian: {{t|ru|соль|tr=sol’|f}}
 * Slovak: {{t-|sk|soľ|f}}
 * Slovene: {{t+|sl|sol|f}}
 * Spanish: {{t+|es|sal|f}}
@@ -168,7 +168,7 @@
 {{trans-mid}}
 * Greek: {{t|el|θαλασσόλυκος|m|tr=thalasólikos}}
 * Icelandic: {{t-|is|sjóari|m}}
-* Russian: [[морской волк]] (morskój volk) {{m}} <!--lit: seawolf-->
+* Russian: {{t|ru|морской волк|tr=morskój volk|m}} <!--lit: seawolf-->
 {{trans-bottom}}
 
 {{trans-top|additional bytes inserted into an encryption}}
@@ -187,8 +187,8 @@
 * {{ttbc|Basque}}: [[gatz]]
 * {{ttbc|Bosnian}}: [[sol#Bosnian|sol]] {{f}}, [[so#Bosnian|so]] {{f}}
 * {{ttbc|Breton}}: [[holen]] {{m}}, holenoù {{p}}
-* {{ttbc|Bulgarian}}: [[сол]] (sol)
-* {{ttbc|Catalan}}: [[sal]] {{f}}
+* {{ttbc|Bulgarian}}: {{t|bg|сол|tr=sol}}
+* {{ttbc|Catalan}}: {{t|ca|sal|f}}
 * {{ttbc|Cherokee}}: [[ᎠᎹ]] (āma)
 * {{ttbc|Chinese Characters}}: [[鹽]] / [[塩]] / [[盐]]; [[鹺]], [[鹾]]
 * {{ttbc|Chinese}}: [[盐]] (yán)
@@ -215,7 +215,7 @@
 * {{ttbc|Romani}}: [[lon]]
 * {{ttbc|Sanskrit}}: [[लवणम्]] (lava.nam)
 * {{ttbc|Serbian}}:
-*: Cyrillic: [[со#Serbian|со]] {{f}}
+*: Cyrillic: {{t|sr|со|f}}
 *: Roman: [[so#Serbian|so]] {{f}}
 * {{ttbc|Tagalog}}: [[asin]]
 * {{ttbc|Tetum}}: [[masin]]
