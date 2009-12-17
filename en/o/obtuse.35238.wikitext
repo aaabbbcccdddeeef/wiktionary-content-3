@@ -14,10 +14,10 @@ From {{etyl|la}} {{term|obtusus}}, past participle of {{term|obtundere}}.
 {{en-adj|obtuser|obtusest}}
 
 # {{context|now|_|chiefly|_|botany|zoology}} [[blunt|Blunt]]; not [[sharp]].
-# {{geometry}} Of an angle: greater than 90 [[degree]]s but less than 180 degrees.
 # [[intellectual|Intellectual]]ly [[dull]] or [[dim-witted]].
 # [[indirect|Indirect]] or [[circuitous]].
 # Of sound: [[deaden]]ed or [[muffle]]d.
+# {{geometry}} Of an angle: greater than 90 [[degree]]s but less than 180 degrees.
 # {{geometry}} Of a triangle: with one obtuse angle.
 
 ====Synonyms====
@@ -34,23 +34,7 @@ From {{etyl|la}} {{term|obtusus}}, past participle of {{term|obtundere}}.
 * (''of a triangle''): [[acute]], [[acute-angled]]
 
 ====Translations====
-{{trans-top|intellectually dull}}
-* Armenian: {{t+|hy|բութ|tr=but'}}
-* Finnish: {{t+|fi|hidasjärkinen}}, {{t+|fi|hidasälyinen}}, {{t|fi|tylsämielinen}}
-* German: {{t|de|begriffsstutzig}}, {{t-|de|beschränkt}}
-* [[Macedonian]]: {{t|mk|тап|m|tr=tap}},  {{t-|mk|глуп|m|tr=glup}},  {{t|mk|глупав|m|tr=glúpav}}
-{{trans-mid}}
-* Russian: {{t+|ru|тупой|tr=tupój}}, {{t+|ru|недалёкий|tr=nedaljókij}}
-* Spanish: {{t+|es|obtuso}}
-* Swedish: {{t+|sv|trög}}, {{t+|sv|slö}}
-{{trans-bottom}}
-
-{{trans-top|of a sound}}
-* Russian: {{t+|ru|приглушённый|tr=priglušónnyj}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|blunt}}
+{{trans-top|botany, zoology: blunt}}
 * Armenian: {{t+|hy|բութ|tr=but'}}
 * Dutch: {{t+|nl|bot}}
 * Finnish: {{t+|fi|tylppä}}
@@ -60,6 +44,27 @@ From {{etyl|la}} {{term|obtusus}}, past participle of {{term|obtundere}}.
 * Russian: {{t+|ru|тупой|tr=tupój}}, {{t+|ru|притуплённый|tr=pritupljónnyj}}
 * Spanish: {{t+|es|obtuso}},  {{t+|es|romo}}
 * Swedish: {{t-|sv|trubbig}}, {{t+|sv|slö}}
+{{trans-bottom}}
+
+{{trans-top|intellectually dull}}
+* Armenian: {{t+|hy|բութ|tr=but'}}
+* Finnish: {{t|fi|tylsä}}, {{t+|fi|hidasjärkinen}}, {{t+|fi|hidasälyinen}}
+* German: {{t|de|begriffsstutzig}}, {{t-|de|beschränkt}}
+* [[Macedonian]]: {{t|mk|тап|m|tr=tap}},  {{t-|mk|глуп|m|tr=glup}},  {{t|mk|глупав|m|tr=glúpav}}
+{{trans-mid}}
+* Russian: {{t+|ru|тупой|tr=tupój}}, {{t+|ru|недалёкий|tr=nedaljókij}}
+* Spanish: {{t+|es|obtuso}}
+* Swedish: {{t+|sv|trög}}, {{t+|sv|slö}}
+{{trans-bottom}}
+
+{{trans-top|indirect or circuitous}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|of a sound: deadened or mufled}}
+* Finnish: {{t|fi|vaimea}}, {{t|fi|vaimennettu}}
+* Russian: {{t+|ru|приглушённый|tr=priglušónnyj}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|of an angle}}
@@ -74,8 +79,7 @@ From {{etyl|la}} {{term|obtusus}}, past participle of {{term|obtundere}}.
 * Swedish: {{t-|sv|trubbig}}
 {{trans-bottom}}
 
-'''of a triangle'''
-''See'' '''[[obtuse-angled]]'''
+{{trans-see|of a triangle|obtuse-angled}}
 
 ===Anagrams===
 * {{alphagram|beostu}}
