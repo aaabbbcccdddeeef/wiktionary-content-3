@@ -164,16 +164,13 @@ From {{etyl|fro}} {{term|contenter}} < {{etyl|ML.}} {{term|contentare||to satisf
 
 ==French==
 
-===Pronunciation===
-* {{audio|Fr-content.ogg|audio}}
-* [[IPA]]: /kɔ̃.tɑ̃/ ''m singular and plural'', /kɔ̃.tɑ̃t/ ''f singular and plural''
-
-====Homophones====
-* [[contant]]
-* [[comptant]]
-
 ===Etymology===
-From {{etyl|la}} ''[[contentus]]''.
+From {{etyl|la}} {{term|contentus|lang=la}}.
+
+===Pronunciation===
+* {{IPA|/kɔ̃.tɑ̃/|lang=fr}}
+* {{audio|Fr-content.ogg|audio}}
+* {{homophones|comptant|contant|contents|lang=fr}}
 
 ===Adjective===
 {{fr-adj}}
@@ -181,10 +178,10 @@ From {{etyl|la}} ''[[contentus]]''.
 # [[#English|content]], [[satisfied]], [[pleased]]
 
 ===Verb===
-{{infl|fr|verb form}}
+{{fr-verb form}}
 
-# Third-person plural indicative present form of '''[[conter]]'''.
-# Third-person plural subjunctive present form of '''[[conter]]'''.
+# {{conjugation of|conter||3|p|pres|ind|lang=fr}}
+# {{conjugation of|conter||3|p|pres|sub|lang=fr}}
 
 [[am:content]]
 [[ar:content]]
