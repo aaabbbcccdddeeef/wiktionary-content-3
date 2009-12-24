@@ -79,7 +79,7 @@
 * German: {{t+|de|Salz|n}}, {{t+|de|Kochsalz|n}}
 * Greek:
 *: Ancient: [[ἅλας]] (alas) {{n}}
-*: Modern: {{t+|el|αλάτι|tr=aláti|n}}
+*: Modern: {{t+|el|αλάτι|n|tr=aláti}}
 * Hebrew: {{he-translation|מלח|mélakh}} {{m}}
 * Hindi: {{t+|hi|नमक|m|tr=namak|xs=Hindi}}
 * Hungarian: {{t+|hu|só}}
@@ -106,7 +106,7 @@
 * Polish: {{t+|pl|sól|f}}, {{t|pl|sól kuchenna|f}}
 * Portuguese: {{t+|pt|sal|m}}
 * Romanian: {{t-|ro|sare|f}}
-* Russian: {{t|ru|соль|tr=sol’|f}}
+* Russian: {{t+|ru|соль|f|tr=sol’}}
 * [[Scottish Gaelic]]: {{t-|gd|salann|m|xs=Scottish Gaelic}}
 * [[Sicilian]]: {{t+|scn|sali|m|xs=Sicilian}}
 * Slovak: {{t-|sk|soľ|f}}
@@ -143,7 +143,7 @@
 * [[Pashto]]: {{t-|ps|مالګه|f|tr=mālga|sc=ps-Arab|xs=Pashto}}
 * Polish: {{t+|pl|sól|f}}
 * Romanian: {{t-|ro|sare|f}}
-* Russian: {{t|ru|соль|tr=sol’|f}}
+* Russian: {{t+|ru|соль|f|tr=sol’}}
 * Slovak: {{t-|sk|soľ|f}}
 * Slovene: {{t+|sl|sol|f}}
 * Spanish: {{t+|es|sal|f}}
@@ -170,7 +170,7 @@
 {{trans-mid}}
 * Greek: {{t|el|θαλασσόλυκος|m|tr=thalasólikos}}
 * Icelandic: {{t-|is|sjóari|m}}
-* Russian: {{t|ru|морской волк|tr=morskój volk|m}} <!--lit: seawolf-->
+* Russian: {{t|ru|морской волк|m|tr=morskój volk}} <!--lit: seawolf-->
 {{trans-bottom}}
 
 {{trans-top|additional bytes inserted into an encryption}}
@@ -189,8 +189,8 @@
 * {{ttbc|Basque}}: [[gatz]]
 * {{ttbc|Bosnian}}: [[sol#Bosnian|sol]] {{f}}, [[so#Bosnian|so]] {{f}}
 * {{ttbc|Breton}}: [[holen]] {{m}}, holenoù {{p}}
-* {{ttbc|Bulgarian}}: {{t|bg|сол|tr=sol}}
-* {{ttbc|Catalan}}: {{t|ca|sal|f}}
+* {{ttbc|Bulgarian}}: {{t+|bg|сол|tr=sol}}
+* {{ttbc|Catalan}}: {{t+|ca|sal|f}}
 * {{ttbc|Cherokee}}: [[ᎠᎹ]] (āma)
 * {{ttbc|Chinese Characters}}: [[鹽]] / [[塩]] / [[盐]]; [[鹺]], [[鹾]]
 * {{ttbc|Chinese}}: [[盐]] (yán)
@@ -217,7 +217,7 @@
 * {{ttbc|Romani}}: [[lon]]
 * {{ttbc|Sanskrit}}: [[लवणम्]] (lava.nam)
 * {{ttbc|Serbian}}:
-*: Cyrillic: {{t|sr|со|f}}
+*: Cyrillic: {{t-|sr|со|f|sc=Cyrl}}
 *: Roman: [[so#Serbian|so]] {{f}}
 * {{ttbc|Tagalog}}: [[asin]]
 * {{ttbc|Tetum}}: [[masin]]
