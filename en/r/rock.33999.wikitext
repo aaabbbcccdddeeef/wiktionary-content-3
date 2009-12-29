@@ -122,7 +122,7 @@
 * Lithuanian: {{t-|lt|uola|f|xs=Lithuanian}}
 * Norwegian: {{t+|no|klippe|m}}
 * Portuguese: {{t+|pt|rocha|f}}
-* Russian: {{t|ru|скала|f|tr=skalá}}, {{t|ru|утёс|m|tr=utjós}}
+* Russian: {{t+|ru|скала|f|tr=skalá}}, {{t|ru|утёс|m|tr=utjós}}
 * Slovene: {{t+|sl|skala|f}}
 * Spanish: {{t+|es|roca|f}}, {{t|es|peñasco|m}}
 * Swedish: {{t+|sv|klippa|c}}
@@ -139,7 +139,7 @@
 * [[Dena'ina]]: [[qałnigi]]
 * Dutch: {{t+|nl|rots}}
 * Filipino: {{tø|fil|bato}}
-* Finnish: {{t+|fi|kivi}}, {{t+|fi|kivenlohkare}}, {{t+|fi|lohkare}}
+* Finnish: {{t+|fi|kivi}}, {{t-|fi|kivenlohkare}}, {{t+|fi|lohkare}}
 * French: {{t+|fr|rocher|m}}, {{t+|fr|roc|m}}
 * German: [[Felsbrocken]] {{m}}, [[Felsblock]] {{m}}, ''erratic:'' [[Findling]] {{m}}
 * Hungarian: {{t+|hu|szikla}}
@@ -172,7 +172,7 @@
 * Norwegian: {{t+|no|klippe|m}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|rochedo|m}}
-* Russian: {{t|ru|скала|f|tr=skalá}}, {{t|ru|утёс|m|tr=utjós}}
+* Russian: {{t+|ru|скала|f|tr=skalá}}, {{t|ru|утёс|m|tr=utjós}}
 * Serbian:
 *: Cyrillic: [[стена]]
 *: Roman: [[stena]]
@@ -220,7 +220,7 @@
 {{trans-bottom}}
 
 {{trans-top|lump of ice}}
-* Finnish: {{t|fi|jääpala}}, {{t+|fi|jää|alt=jäät|p}}, {{t-|fi|jääkuutio}}
+* Finnish: {{t|fi|jääpala}}, {{t+|fi|jää|p|alt=jäät}}, {{t-|fi|jääkuutio}}
 * Norwegian: [[isbit]] {{m}}
 * Portuguese: [[cubo]] (de gelo) {{m}}
 {{trans-mid}}
@@ -459,7 +459,7 @@ Shortened from '''[[rock and roll]]'''. Since the meaning of '''rock''' has adap
 * Irish: {{t+|ga|rac-cheol|xs=Irish}}
 * Italian: {{t+|it|rock|m}}
 * Japanese: {{t-|ja|ロック|tr=rokku}}
-* Korean: {{t-|ko|록|tr=rok}}
+* Korean: {{t-|ko|록|tr=rok|sc=Hang}}
 * Lithuanian: {{t|lt|rokas|m|xs=Lithuanian}}
 * Portuguese: {{t+|pt|rock|m}}
 * Russian: {{t+|ru|рок|m|tr=rok}}
@@ -500,7 +500,7 @@ Shortened from '''[[rock and roll]]'''. Since the meaning of '''rock''' has adap
 {{trans-bottom}}
 
 {{trans-top|''slang'': to be very favourable or skilful}}
-* Finnish: [[rulettaa]]
+* Finnish: {{t-|fi|rulettaa}}
 * German: [[rocken]] ''(but usually the English term is used)''
 {{trans-mid}}
 * Russian: [[рулить]] (rulít’)
