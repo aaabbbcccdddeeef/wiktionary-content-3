@@ -14,11 +14,9 @@
 * Arabic: {{t|ar|زغرب|m|tr=zághrib}},  {{t|ar|زاغرب|m|tr=zaaghrib}},  {{t|ar|زجرب|m|tr=zágrib}},  {{t|ar|زاجرب|m|tr=zaagrib}}
 * Armenian: {{t-|hy|Զագրեբ|tr=Zagreb}}
 * Belarusian: {{t-|be|Загрэб|m|tr=Záhreb|xs=Belarusian}}
-* Bosnian: {{t-|bs|Zagreb|m}}
 * Bulgarian: {{t-|bg|Загреб|m|tr=Zágreb}}
 * Chinese:
 *: Mandarin: {{t|cmn|薩格勒布|sc=Hani}},  {{t|cmn|萨格勒布|tr=Sàgélèbù|sc=Hani}}
-* Croatian: {{t+|hr|Zagreb|m}}
 * Czech: {{t-|cs|Záhřeb|m}}
 * Danish: {{t-|da|Zagreb}}
 * Dutch: {{t-|nl|Zagreb}}
@@ -33,59 +31,36 @@
 * Hindi: {{t|hi|ज़ाग्रेब|xs=Hindi}}
 * Hungarian: {{t+|hu|Zágráb}}
 * Icelandic: {{t-|is|Sagreb|f}}
-{{trans-mid}}
 * Indonesian: {{t-|id|Zagreb|xs=Indonesian}}
-* Italian: {{t+|it|Zagabria}}
+* Italian: {{t+|it|Zagabria|f}}
+{{trans-mid}}
 * Japanese: {{t+|ja|ザグレブ|tr=Zagurebu}}
 * Korean: {{t-|ko|자그레브|tr=Jageurebeu|sc=Hang}}
-* Latvian: [[Zagreba]]
-* Lithuanian: [[Zagrebas]]
+* Latvian: {{t|lv|Zagreba}}
+* Lithuanian: {{t|lt|Zagrebas}}
 * [[Macedonian]]: {{t-|mk|Загреб|m|tr=Zágreb}}
-* Maltese: [[Żagreb]]
+* Maltese: {{t|mt|Żagreb}}
 * Navajo: {{tø|nv|Záágweb}}
-* [[Pashto]]: {{ps-Arab|[[زاګرېب]]}} (Zagreb)
+* [[Pashto]]: {{t|ps|زاګرېب|tr=Zagreb|sc=ps-Arab}}
 * Persian: {{t-|fa|زاگرب|tr=Zagreb|xs=Persian}}
 * Polish: {{t+|pl|Zagrzeb|m}}
 * Romanian: {{t+|ro|Zagreb}}
 * Russian: {{t-|ru|Загреб|m|tr=Zágreb}}
-* Serbian:
-*: Cyrillic: [[Загреб#Serbian|Загреб]] {{m}}
-*: Roman: [[Zagreb#Serbian|Zagreb]] {{m}}
-* Slovak: [[Záhreb]]
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|Загреб|m|alt=За́греб|sc=Cyrl}}
+*: Roman: {{t-|sh|Zagreb|m|alt=Zágreb}}
+* Slovak: {{t|sk|Záhreb}}
 * Slovene: {{t-|sl|Zagreb}}
 * Spanish: {{t+|es|Zagreb}}
 * Swedish: {{t-|sv|Zagreb}}
 * Thai: {{t|th|ซาเกร็บ}}
-* Turkish: [[Zagrep]]
+* Turkish: {{t|tr|Zagrep}}
 * Ukrainian: {{t-|uk|Загреб|m|tr=Záhreb|xs=Ukrainian}}
-* [[Uyghur]]: {{ug-Arab|[[زاگرېب]]}}
+* [[Uyghur]]: {{t|ug|زاگرېب|sc=ug-Arab}}
 {{trans-bottom}}
 
 [[Category:Capital cities]]
-
-----
-
-==Bosnian==
-{{wikipedia|lang=bs}}
-
-===Proper noun===
-'''Zagreb''' {{m}}
-
-# Zagreb, capital city of [[Croatia]].
-
-[[Category:bs:Cities]]
-
-----
-
-==Croatian==
-{{wikipedia|lang=hr}}
-
-===Proper noun===
-{{infl|hr|proper noun|g=m}}
-
-# Zagreb, capital city of [[Croatia]].
-
-[[Category:hr:Cities]]
+[[Category:Cities]]
 
 ----
 
@@ -110,6 +85,7 @@
 
 # [[#English|Zagreb]] (capital of Croatia)
 
+[[Category:fr:Capital cities]]
 [[Category:fr:Cities]]
 
 ----
@@ -122,22 +98,37 @@
 
 # [[#English|Zagreb]] (capital of Croatia)
 
+[[Category:de:Capital cities]]
 [[Category:de:Cities]]
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
+{{wikipedia|lang=bs}}
+{{wikipedia|lang=hr}}
 {{wikipedia|lang=sr}}
+{{wikipedia|lang=sh}}
+===Pronunciation===
+* {{IPA|/zǎːɡreb/|lang=sh}}
 
 ===Proper noun===
-'''Zagreb''' {{m}}
+{{sh-proper-noun|g=m|head=Zágreb|r|Загреб|За́греб}}
 
-# Zagreb, capital city of [[Croatia]].
+# [[#English|Zagreb]] (capital of Croatia)
 
-====Cyrillic spelling====
-* [[Загреб#Serbian|Загреб]]
+====Declension====
+{{sh-decl-noun-unc
+|Zagreb
+|Zagreba
+|Zagrebu
+|Zagreb
+|Zagrebe
+|Zagrebu
+|Zagrebom
+}}
 
-[[Category:sr:Cities]]
+[[Category:sh:Capital cities]]
+[[Category:sh:Cities]]
 
 ----
 
@@ -146,8 +137,9 @@
 ===Proper noun===
 {{es-proper noun|m}}
 
-# [[#English|Zagreb]]
+# [[#English|Zagreb]] (Capital of Croatia)
 
+[[Category:es:Capital cities]]
 [[Category:es:Cities]]
 
 [[de:Zagreb]]
