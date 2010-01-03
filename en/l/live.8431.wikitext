@@ -57,14 +57,15 @@ From {{etyl|ang}} {{term|libban||lang=ang}}, {{term|lifian||to live|lang=ang}}
 {{trans-top|be alive}}
 * [[Afrikaans]]: {{t-|af|leef|xs=Afrikaans}}
 * Albanian: {{t-|sq|jeton|xs=Albanian}}
-* Arabic: {{Arab|[[عاش]]}} (ʻāša), {{Arab|[[سكن]]}} (sákana),  {{t|ar|عاش|tr=3aasha|sc=Arab}},  {{t|ar|سكن|tr=sákana|sc=Arab}}
+* Arabic: {{t|ar|عاش|tr=3aasha|sc=Arab}},  {{t|ar|سكن|tr=sákana|sc=Arab}}
 * Armenian: {{t+|hy|ապրել|tr=aprel}}
 ** Old Armenian: {{t-|hy|կեամ|tr=keam}}
 * Belarusian: {{t|be|жыць|tr=žyc’|sc=Cyrl}}
 * [[Breton]]: [[beva]]
-* Bulgarian: {{t|bg|живея|tr=živéya|sc=Cyrl}}
+* Bulgarian: {{t|bg|живея|tr=živéja|sc=Cyrl}}
 * [[Catalan]]: {{t+|ca|viure}}
-* Chinese: [[住]] (zhù), [[生活]] (shēnghuó)
+* Chinese:
+*: Mandarin: {{t|zh|住|tr=zhù|sc=Hani}},  {{t|zh|生活|tr=shēnghuó|sc=Hani}}
 * Czech: {{t+|cs|žít}}
 * Danish: {{t+|da|leve}}
 * Dutch: {{t+|nl|leven}}
@@ -82,12 +83,11 @@ From {{etyl|ang}} {{term|libban||lang=ang}}, {{term|lifian||to live|lang=ang}}
 * Icelandic: {{t|is|lifa}}
 * Indonesian: {{t+|id|hidup|xs=Indonesian}}
 * Italian: {{t+|it|vivere}}
-* Japanese: {{t+|ja|生きる|tr=[[いきる]], ikiru}}, [[暮らす]] ([[くらす]], kurasu) (''spend time, get along'')
+* Japanese: {{t+|ja|生きる|tr=[[いきる]], ikiru|sc=Jpan}}, {{t|ja|暮らす|tr=[[くらす]], kurasu|sc=Jpan}} (''spend time, get along'')
 {{trans-mid}}
-* Korean: [[살다]] (salda),  {{t|ko|살다|tr=salda|sc=Kore}}
+* Korean: {{t|ko|살다|tr=salda|sc=Kore}}
 * Kurdish: {{t|ku|ژیان|tr=jiyan|sc=ku-Arab}}
 * Latin: {{t+|la|vivo}}
-* Mandarin: {{t|zh|住|tr=zhù|sc=Hani}},  {{t|zh|生活|tr=shēnghuó|sc=Hani}}
 * Norwegian: {{t+|no|leve}}
 * [[Occitan]]: [[viure]]
 * [[Old Church Slavonic]]: {{tø|cu|жити|tr=žiti|sc=Cyrs|xs=Old Church Slavonic}}
@@ -96,7 +96,7 @@ From {{etyl|ang}} {{term|libban||lang=ang}}, {{term|lifian||to live|lang=ang}}
 * Portuguese: {{t+|pt|viver}}
 * Romanian: {{t+|ro|trăi}}
 * [[Romansch]]: {{t-|rm|viver|xs=Romansch}}
-* Russian: {{t+|ru|жить|tr=žit’}}
+* Russian: {{t+|ru|жить|tr=žit’|sc=Cyrl}}
 * [[Scots]]: {{tø|sco|leeve|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|beò|xs=Scottish Gaelic}}
 * Serbo-Croatian:
