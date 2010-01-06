@@ -10,6 +10,7 @@
 # {{physics}} A measure of the amount of [[matter]] contained by a given [[volume]].
 # The ratio of one quantity to that of another quantity.
 #: ''The number particles per unit volume of a specified volume can be considered to be the particle density for the specified volume.''
+# The [[probability]] that an [[event]] will occur, as a [[function]] of some [[observe]]d [[variable]].
 
 ====Derived terms====
 {{top2}}
@@ -43,7 +44,9 @@
 * Polish: {{t+|pl|gęstość|f}}
 * Russian: {{t|ru|плотность|tr=plótnost'}}
 {{trans-bottom}}
-
+{{trans-top|probability}}
+{{trans-mid}}
+{{trans-bottom}}
 {{checktrans-top}}
 * {{ttbc|Arabic}}: {{Arab|[[كثافة]]}}
 * {{ttbc|Chinese}}: [[密度]] {{f}}, mìdù
