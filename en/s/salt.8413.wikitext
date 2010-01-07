@@ -1,7 +1,9 @@
 ==English==
+{{wikipedia}}
 
 ===Etymology===
-{{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem}}, from {{proto|Indo-European}}.  Cognate with Dutch {{term|zout|lang=nl}}, German {{term|Salz|lang=de}}, Swedish {{term|salt|lang=sv}}; and with Ancient Greek {{term|ἅλς|sc=Polytonic|lang=grc}}, Latin {{term|sal|lang=la}}, Welsh {{term|halen|lang=cy}}, Russian {{term|соль|sc=Cyrl|lang=ru}}.
+From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem}}, from {{proto|Indo-European}}.  Cognate with Dutch {{term|zout|lang=nl}}, German {{term|Salz|lang=de}}, Swedish {{term|salt|lang=sv}}; and with Ancient Greek {{term|ἅλς|sc=Polytonic|lang=grc}}, Latin {{term|sal|lang=la}}, Welsh {{term|halen|lang=cy}}, Russian {{term|соль|sc=Cyrl|lang=ru}}.
+{{rfe|explain the cryptography use, sailor, move remark about marsh here and finally unionist use [http://www.iww.org/organize/strategy/salt.shtml IWW article] [http://www.politicalaffairs.net/article/articleview/3302/ PoliticalAffairs article], also verb senses (to salt explains the cryptography sense)}}
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/sɒlt/}}, {{SAMPA|/sQlt/}}
@@ -10,19 +12,18 @@
 * {{audio|en-us-salt.ogg|Audio (US)}}
 * {{rhymes|ɒlt}}
 
-===Noun===
-{{wikipedia}}
-{{en-noun}}
 [[Image:Sal (close).jpg|thumb|salt crystals]]
+===Noun===
+{{en-noun}}
 
-# A common substance, chemically consisting mainly of [[sodium chloride]] ([[NaCl]]), used extensively as a condiment and preservative.
+# A common substance, chemically consisting mainly of [[sodium chloride]] ([[NaCl]]), used extensively as a [[condiment]] and [[preservative]].
 # {{chemistry}} One of the [[compound]]s formed from the [[reaction]] of an [[acid]] with a [[base]], where a positive [[ion]] replaces a [[hydrogen]] of the acid.
 # A kind of [[marsh]] at the shore of a sea (short for [[salt marsh]], apparently not in a wide-spread use).
 # {{slang}} A [[sailor]] (also ''[[old salt]]'').
-#*'''1851''', Herman Melville, ''Moby-Dick'':
-#*:I never go as a passenger; nor, though I am something of a '''salt''', do I ever go to sea as a Commodore, or a Captain, or a Cook.
+#* '''1851''', Herman Melville, ''Moby-Dick''
+#*: I never go as a passenger; nor, though I am something of a '''salt''', do I ever go to sea as a Commodore, or a Captain, or a Cook.
 # {{cryptography}} Additional [[bytes]] inserted into a [[plaintext]] message before [[encryption]], in order to increase [[randomness]] and render [[brute force|brute-force]] [[decryption]] more difficult.
-# A person that engages in the political act of seeking employment at a company in order to help unionize it. [http://www.iww.org/organize/strategy/salt.shtml IWW article] [http://www.politicalaffairs.net/article/articleview/3302/ PoliticalAffairs article]
+# A person that engages in the political act of seeking employment at a company in order to help unionize it. 
 
 ====Derived terms====
 {{rel-top4|terms derived from salt}}
@@ -30,10 +31,9 @@
 * [[desalt]]
 * [[epsom salt]]
 * [[pinch of salt]]
-* [[rub salt in a wound]]
 {{rel-mid4}}
 * [[rock salt]]
-* [[rub salt in the wound]]
+* [[rub salt in the wound]] / [[rub salt in a wound]]
 * [[salt and pepper]]
 * [[saltcellar]]
 * [[salt lake]]
@@ -48,7 +48,7 @@
 * [[sea salt]]
 * [[table salt]]
 * [[take with a pinch of salt]]
-* [[worth one's salt|worth one’s salt]]
+* [[worth one’s salt]]
 {{rel-bottom}}
 
 ====Related terms====
@@ -71,7 +71,7 @@
 * Croatian: {{t-|hr|sol|f}}
 * Czech: {{t+|cs|sůl|f}}
 * Danish: {{t+|da|salt|n}}
-* Dutch: {{t+|nl|zout|n}}
+* Dutch: {{t+|nl|zout|n}}, {{t|nl|keukenzout|n}}
 * Estonian: {{t-|et|sool}}
 * [[Ewe]]: [[dze]] {{n}}
 * Finnish: {{t+|fi|suola}}
@@ -131,6 +131,7 @@
 * Croatian: {{t-|hr|sol|f}}
 * Czech: {{t+|cs|sůl|f}}
 * Danish: {{t+|da|salt|n}}
+* Dutch: {{t+|nl|zout|n}}
 * Estonian: {{t-|et|sool}}
 * Finnish: {{t+|fi|suola}}
 * French: {{t+|fr|sel|m}}
@@ -156,17 +157,11 @@
 * [[West Frisian]]: [[sâlt]]
 {{trans-bottom}}
 
-{{trans-top|salt marsh}}
-: ''See: '' [[salt marsh]]
-* French: {{t-|fr|marais salants|m|p}}
-* German: [[Salzmarsch]] {{f}}
-{{trans-mid}}
-* [[Macedonian]]: {{t|mk|солено мочуриште|n|tr=sóleno močúrište}}
-* Spanish: {{t-|es|salina|f}}
-{{trans-bottom}}
+{{trans-see|salt marsh}}
 
 {{trans-top|sailor}}
 * Danish: {{t+|da|søulk|c}}
+* Dutch: {{t|nl|zeerot|m}}, {{t|nl|rot|m}}
 * Finnish: {{t-|fi|merikarhu}}
 * French: {{t+|fr|loup de mer|m}}
 {{trans-mid}}
@@ -177,10 +172,15 @@
 
 {{trans-top|additional bytes inserted into an encryption}}
 * Czech: {{t+|cs|sůl|f}}
+* Dutch: {{t|nl|salt}}
 * Japanese: [[ソルト]] ([[soruto]])
 {{trans-mid}}
 * Polish: {{t+|pl|sól|f}}
 * Swahili: {{t+|sw|chumvi|xs=Swahili}}
+{{trans-bottom}}
+
+{{trans-top|person engaged in unionizing}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -196,7 +196,6 @@
 * {{ttbc|Cherokee}}: [[ᎠᎹ]] (āma)
 * {{ttbc|Chinese Characters}}: [[鹽]] / [[塩]] / [[盐]]; [[鹺]], [[鹾]]
 * {{ttbc|Chinese}}: [[盐]] (yán)
-* {{ttbc|Dutch}}: [[zout]] {{n}} (1,2), [[keukenzout]] {{n}} (2), [[zeezout]] {{n}} (2), [[rot]] {{m}} (4), [[oude rot]] {{m}} (4)
 * {{ttbc|Esperanto}}: [[salo]]
 * {{ttbc|Estonian}}: [[sool]]
 * {{ttbc|Galician}}: [[sal]]
@@ -238,6 +237,7 @@
 {{trans-top|salty}}
 * Czech: {{t+|cs|slaný}}
 * Danish: {{t+|da|salt}}
+* Dutch: {{t+|nl|zout|n}}, {{t|nl|zoutig}}, {{t|nl|gezouten}}
 * Estonian: {{t|et|soolane}}
 * Finnish: {{t+|fi|suolainen}}
 * French: {{t+|fr|salé|m}}, {{t+|fr|salée|f}}
@@ -258,6 +258,7 @@
 {{trans-top|saline}}
 * Czech: {{t|cs|solný|m}}
 * Danish: {{t-|da|saltholdig}}
+* Dutch: {{t+|nl|zout|n}}, {{t+|nl|zout|alt=zout-|n}}
 * Estonian: {{t|et|soolane}},  {{t|et|soola-}}
 * Finnish: [[suolainen]], [[suola]]-
 * French: {{t+|fr|salin|m}}, {{t+|fr|saline|f}}
@@ -273,7 +274,6 @@
 
 {{checktrans-top}}
 * {{ttbc|Catalan}}: [[salat]] {{m}} [[salada]] {{f}} [[:ca:salat|(ca)]]
-* {{ttbc|Dutch}}: [[zout]], [[zoute]], [[gezouten]]
 * {{ttbc|German}}: [[salzig]] [[:de:salzig|(de)]]
 * {{ttbc|Indonesian}}: [[asin]]
 * {{ttbc|Interlingua}}: [[salate]]
@@ -297,6 +297,9 @@
 # To insert or inject something into an object to give it properties it would not naturally have.
 # {{archeology}} To add [[bogus]] evidence to an archeological site.
 
+====Antonyms====
+* {{sense|add salt}} [[desalt]]
+
 ====Derived terms====
 * [[desalt]]
 
@@ -304,6 +307,7 @@
 {{trans-top|add salt to}}
 * Czech: [[solit]], [[osolit]]
 * Danish: {{t-|da|salte}}
+* Dutch: {{t+|nl|zouten}}
 * Estonian: {{t|et|soolata}}
 * Finnish: [[suolata]], [[lisätä]] [[suola|suolaa]]
 * French: {{t+|fr|saler}}
@@ -335,9 +339,18 @@
 
 {{trans-top|include colorful language}}
 * Danish: [[krydre]]
+* Dutch: {{t+|nl|kleuren}}
 * Finnish: {{t+|fi|maustaa}}, {{t-|fi|höystää}}
 {{trans-mid}}
 * Swedish: {{t+|sv|krydda}}
+{{trans-bottom}}
+
+{{trans-top|insert or inject something into an object to give it properties it would not naturally have}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|add bogus evidence to an archeological site}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -364,8 +377,10 @@
 
 ==Catalan==
 
+{{rfp|lang=ca}}
+
 ===Etymology===
-{{etyl|la|ca}} {{term|saltus|lang=ca}}
+From {{etyl|la|ca}} {{term|saltus|lang=ca}}.
 
 ===Noun===
 {{infl|ca|noun|g=m}}
@@ -376,8 +391,9 @@
 
 ==Danish==
 
-===Etymology===
+{{rfp|lang=da}}
 
+===Etymology===
 From {{etyl|non|da}} {{term|saltr||salt|lang=non}} (''adjective''), from {{term|salt|lang=non}} (''noun''), from {{proto|Indo-European|sáls||||séh₂ls|salt|lang=da}}.
 
 ===Adjective===
@@ -400,6 +416,8 @@ From {{etyl|non|da}} {{term|saltr||salt|lang=non}} (''adjective''), from {{term|
 ===Pronunciation===
 * {{IPA|[salt]|lang=fo}}
 
+{{rfe|lang=fo}}
+
 ===Noun===
 {{infl|fo|noun|g=n}}
 
@@ -416,8 +434,11 @@ From {{etyl|non|da}} {{term|saltr||salt|lang=non}} (''adjective''), from {{term|
 ==Icelandic==
 
 ===Pronunciation===
-* {{IPA|/sal̥t/|lang=is}} ({{audio|Salt.ogg|listen}})
-*: {{rhymes|al̥t|lang=is}}
+* {{IPA|/sal̥t/|lang=is}}
+* {{audio|Salt.ogg|listen}}
+* {{rhymes|al̥t|lang=is}}
+
+{{rfe|lang=is}}
 
 ===Noun===
 {{is-noun|n|salts|sölt}}
@@ -444,6 +465,10 @@ From {{etyl|non|da}} {{term|saltr||salt|lang=non}} (''adjective''), from {{term|
 
 ==Latvian==
 
+{{rfp|lang=lv}}
+
+{{rfe|lang=lv}}
+
 ===Verb===
 {{infl|lv|verb}}
 
@@ -452,6 +477,10 @@ From {{etyl|non|da}} {{term|saltr||salt|lang=non}} (''adjective''), from {{term|
 ----
 
 ==Norwegian==
+
+{{rfp|lang=no}}
+
+{{rfe|lang=no}}
 
 ===Adjective===
 {{infl|no|adjective|comparative|[[saltere]]|superlative|[[saltest]]}}
@@ -475,6 +504,10 @@ From {{etyl|non|da}} {{term|saltr||salt|lang=non}} (''adjective''), from {{term|
 
 ==Old Frisian==
 
+{{rfp|lang=ofs}}
+
+{{rfe|lang=ofs}}
+
 ===Noun===
 {{infl|ofs|noun}}
 
@@ -484,8 +517,10 @@ From {{etyl|non|da}} {{term|saltr||salt|lang=non}} (''adjective''), from {{term|
 
 ==Romanian==
 
+{{rfp|lang=ro}}
+
 ===Etymology===
-{{etyl|la|ro}} {{term|saltus|lang=la}}
+From {{etyl|la|ro}} {{term|saltus|lang=la}}.
 
 ===Noun===
 {{infl|lv|noun|g=n}}
@@ -499,6 +534,8 @@ From {{etyl|non|da}} {{term|saltr||salt|lang=non}} (''adjective''), from {{term|
 ===Pronunciation===
 * {{audio|Sv-salt.ogg|audio}}
 
+{{rfe|lang=sv}}
+
 ===Adjective===
 {{sv-adj-reg|2=salt}}
 {{infl|sv|adjective}}
@@ -508,13 +545,9 @@ From {{etyl|non|da}} {{term|saltr||salt|lang=non}} (''adjective''), from {{term|
 ===Noun===
 {{infl|sv|noun|g=n}}
 {{sv-noun-reg-r-n|2=salte}}
-
 # [[#English|salt]]
-## [[sodium chloride]] (NaCl), used extensively as a condiment and preservative.
+## {{uncountable}} [[sodium chloride]] (NaCl), used extensively as a condiment and preservative.
 ## {{chemistry|lang=sv}} One of the compounds formed from the reaction of an acid with a base, where a positive ion replaces a hydrogen of the acid.
-
-====Usage notes====
-When used for the salt NaCl (common salt) specifically, the word is uncountable.
 
 ====Synonyms====
 * [[bordssalt]]
@@ -538,6 +571,10 @@ When used for the salt NaCl (common salt) specifically, the word is uncountable.
 ----
 
 ==Turkish==
+
+{{rfp|lang=tr}}
+
+{{rfe|lang=tr}}
 
 ===Adverb===
 {{infl|tr|adverb}}
