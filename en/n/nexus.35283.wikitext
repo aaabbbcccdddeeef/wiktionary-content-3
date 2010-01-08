@@ -1,8 +1,8 @@
-{{wikipedia|dab=nexus}}
 ==English==
+{{wikipedia|dab=nexus}}
 
 ===Etymology===
-From {{etyl|la}} ''[[#Latin|nexus]]'', from ''[[nectere]]'' "to bind".
+From {{etyl|la|en}} {{term|nexus||the act of binding together; bond|lang=la}}, from {{term|necto|nectō|bind|lang=la}}.
 
 ===Pronunciation===
 * {{IPA|/ˈnɛksəs/}}
@@ -90,14 +90,60 @@ From {{etyl|la}} ''[[#Latin|nexus]]'', from ''[[nectere]]'' "to bind".
 
 ==Latin==
 
+===Etymology===
+Perfect passive participle of {{term|necto|nectō|bind|lang=la}}.
+
+===Pronunciation===
+* {{a|Classical}} {{IPA|/ˈnek.sus/|lang=la}}
+
+===Participle===
+{{la-perfect participle|nex}}
+
+# [[bind|bound]], [[tie]]d, [[fasten]]ed, [[connect]]ed, [[interwoven]], having been bound
+# bound by [[obligation]], [[oblige]]d, [[make|made]] [[liable]], [[pledge]]d, having been obliged
+
+====Inflection====
+{{la-decl-1&2|nex}}
+
 ===Noun===
 {{la-noun|nexus|nexus|nexūs|m|fourth}}
 
-# [[bond]], [[binding]], [[fastening]]
+# The act of [[bind]]ing, [[tie|tying]] or [[fasten]]ing together
+# Something which binds; [[bond]], [[joint]], [[binding]], [[fastening]]; [[connection]]; [[#English|nexus]].
+# A [[personal]] [[obligation]] of a [[debtor]].
+# A [[legal]] oblgiation.
 
 ====Inflection====
-{{ladecl4}}
 {{la-decl-4th|nex}}
+
+====Synonyms====
+* {{sense|joint}} [[iunctura|iunctūra]]
+* {{sense|fastening}} [[nexio|nexiō]]
+* {{sense|connection}} [[nexilitas|nexilitās]]
+
+====Related terms====
+{{top2}}
+* [[necto|nectō]]
+* [[nexabunde|nexābundē]]
+* [[nexibilis]]
+* [[nexilis]]
+* [[nexilitas|nexilitās]]
+{{mid2}}
+* [[nexio|nexiō]]
+* [[nexo#Latin|nexō]]
+* [[nexum]]
+* [[nexuosus|nexuōsus]]
+{{bottom}}
+
+====Descendants====
+{{top2}}
+* Catalan: {{l|ca|nexe}}
+* English: {{l|en|nexus}}
+* French: {{l|fr|nexe}}
+{{mid2}}
+* Portuguese: {{l|pt|nexo}}
+* Spanish: {{l|es|nexo}}
+{{bottom}}
 
 [[fr:nexus]]
 [[kn:nexus]]
