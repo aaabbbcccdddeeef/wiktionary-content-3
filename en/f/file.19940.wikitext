@@ -20,6 +20,8 @@ French ''[[fil]]'', “thread”, Latin ''[[filum]]'', “thread”.
 * [[Afrikaans]]: {{t-|af|lêer|xs=Afrikaans}}
 * Arabic: {{t-|ar|ملف|m|alt=مِلَفّ|tr=milaff}}
 * [[Catalan]]: {{t+|ca|arxiu|m}},  {{t|ca|fitxer|m}}
+* Chinese:
+*: Mandarin: {{t|zh|檔案|sc=Hani}},  {{t|zh|档案|tr=dàng'àn|sc=Hani}}
 * Croatian: {{t-|hr|fascikl|m}}, {{t-|hr|datoteka|f}}
 * Czech: {{t-|cs|pořadač|m}}, {{t-|cs|archiv|m}}
 * Danish: [[arkivalie]] {{n}}
@@ -37,23 +39,22 @@ French ''[[fil]]'', “thread”, Latin ''[[filum]]'', “thread”.
 * Lithuanian: [[byla]], [[:lt:byla]] {{f}}
 * [[Macedonian]]: {{t|mk|досие|n|tr=dosié}},  {{t|mk|картотека|f|tr=kartotéka}}
 * Maltese: {{t-|mt|arkivju|m|xs=Maltese}}, {{t-|mt|fajl|m|xs=Maltese}}
-* Mandarin: {{t|zh|檔案|sc=Hani}},  {{t|zh|档案|tr=dàng'àn|sc=Hani}}
 * Polish: {{t+|pl|plik|m}}
-* Portuguese: [[arquivo]] {{m}} {{italbrac|Brazil}}, [[ficheiro]] {{m}} {{italbrac|Portugal}}
+* Portuguese: {{t|pt|arquivo|m}} {{qualifier|Brazil}}, {{t|pt|ficheiro|m}} {{qualifier|Portugal}}
 * Russian: {{t+|ru|дело|n|tr=délo}}, {{t+|ru|папка|f|tr=pápka}}
 * [[Sotho]]: {{t|st|faele|xs=Sotho}}
-* Spanish: [[archivo]] {{m}} {{italbrac|Latin America}}, [[fichero]] {{m}} {{italbrac|Spain}}
+* Spanish: {{t|es|archivo|m}} {{qualifier|Latin America}},  {{t|es|fichero|m}} {{qualifier|Latin America}}
 * Swedish: {{t+|sv|arkiv|n}}
-* Traditional Chinese: [[檔案]]
 * Turkish: {{t+|tr|dosya}}
 * Ukrainian: [[справа]] {{f}} (spr'''a'''wa)
 {{trans-bottom}}
 
 {{trans-top|computer terminology}}
 * [[Afrikaans]]: {{t-|af|lêer|xs=Afrikaans}}
-* Arabic: {{Arab|[[ملف]]}} (málaff)
+* Arabic: {{t-|ar|ملف|m|alt=مِلَفّ|tr=milaff}}
 * [[Catalan]]: [[arxiu]] {{m}}
-* Chinese: [[文件]] (wénjiàn)
+* Chinese:
+*: Mandarin: {{t|zh|文件|tr=wénjiàn|sc=Hani}}
 * Croatian: {{t-|hr|datoteka|f}}
 * Czech: {{t+|cs|soubor|m}}
 * Danish: {{t-|da|fil|c}}
@@ -73,18 +74,16 @@ French ''[[fil]]'', “thread”, Latin ''[[filum]]'', “thread”.
 * Lithuanian: {{t+|lt|failas|m|xs=Lithuanian}}
 * [[Macedonian]]: {{t|mk|податотека|f|tr=podatotéka}},  {{t|mk|датотека|f|tr=datotéka}}
 * Maltese: {{t-|mt|fajl|m|xs=Maltese}}
-* Mandarin: {{t|zh|文件|tr=wénjiàn|sc=Hani}}
 * Persian: {{t|fa|پرونده|tr=parvande|sc=fa-Arab}}
 * Polish: {{t+|pl|plik|m}}
-* Portuguese: [[arquivo]] {{m}} {{italbrac|Brazil}}, [[ficheiro]] {{m}} {{italbrac|Portugal}},  {{qualifier|Brazil}} {{t|pt|arquivo|m}},  {{qualifier|Portugal}} {{t|pt|ficheiro|m}}
+* Portuguese: {{t|pt|arquivo|m}} {{qualifier|Brazil}}, {{t|pt|ficheiro|m}} {{qualifier|Portugal}}
 * Romanian: {{t-|ro|fişier|n}}
 * Russian: {{t+|ru|файл|m|tr=fajl}}
 * Slovene: {{t-|sl|datoteka|f}}
 * [[Sotho]]: {{t|st|faele|xs=Sotho}}
-* Spanish: [[archivo]] {{m}} {{italbrac|Latin America}}, [[fichero]] {{m}} {{italbrac|Spain}},  {{t|es|archivo|m|tr=Latin America}},  {{t|es|fichero|m|tr=Spain}}
+* Spanish: {{t|es|archivo|m}} {{qualifier|Latin America}},  {{t|es|fichero|m}} {{qualifier|Latin America}}
 * Swedish: {{t+|sv|fil|c}}
 * Thai: {{t|th|ไฟล์|tr=fai|sc=Thai}}
-* Traditional Chinese: [[檔案]]
 * Turkish: {{t+|tr|dosya}}
 * Ukrainian: [[річ]] (rič)
 * Vietnamese: {{t|vi|tệp}}
