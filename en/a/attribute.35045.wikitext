@@ -1,3 +1,131 @@
-{{wikipedia}} Noun:
+{{wikipedia}}
+==English==
+
+===Pronunciation===
+* Noun:
 ** (''UK''): {{IPA|/ˈætrɪbjuːt/}}, {{SAMPA|/"{trIbju:t/}}
-** (''US''): {{enPR|ă'trĭ-byo͞ot}}, {{IPA|/ˈætrɪbjut/}}, {{SAMPA|/"{trIbjut/}}From Century 1911.-->
+** (''US''): {{enPR|ă'trĭ-byo͞ot}}, {{IPA|/ˈætrɪbjut/}}, {{SAMPA|/"{trIbjut/}}
+** {{audio|en-us-attribute-noun.ogg|Audio (US)}}
+* Verb:
+** (''UK''): {{IPA|/æˈtrɪbjuːt/}}, {{SAMPA|/{"trIbju:t/}}
+** (''US''): {{enPR|ă-trĭb'yo͞ot}}, {{IPA|/æˈtrɪbjut/}} {{SAMPA|/{"trIbjut/}}
+** {{audio|en-us-attribute-verb.ogg|Audio (US)}}
+
+===Etymology===
+From {{etyl|la}} {{term|attributus}} past participle of {{term|attribuere}}.
+
+===Noun===
+{{en-noun}}
+
+# A [[characteristic]] or [[quality]] of a thing.
+#: ''His finest '''attribute''' is his kindness.''
+# {{grammar}} A word that qualifies a [[noun]].
+#: ''In the clause "My jacket is more expensive than yours", "My" is the '''attribute''' of "jacket".''
+# {{computing}} The applicable option selection; a [[variable]] or a [[value]].
+#: ''This packet has its coherency '''attribute''' set to zero.''
+# {{logic}} That which is predicated or affirmed of a subject; a [[predicate]]; an [[accident]].<!--From Century 1911.-->
+# {{computing}} An item with which a [[method]], etc. may be [[decorate]]d.
+#: ''There are some more implementations which use C# '''attribute'''s to define custom attributes specific to the AOP engine. Then the classes that need to be intercepted will be decorated with these custom attributes.''
+
+====Synonyms====
+* See also [[Wikisaurus:characteristic]]
+
+====Derived terms====
+* [[attributeness]]
+
+====Related terms====
+* [[attributive]]
+
+====Translations====
+{{trans-top|characteristic or quality}}
+* Albanian: {{t+|sq|atribut|xs=Albanian}}, {{t-|sq|veti|xs=Albanian}}
+* Bulgarian: {{t+|bg|качество}},  {{t+|bg|свойство}}
+* Chinese:
+*: Mandarin: {{t|cmn|屬性|sc=Hani}},  {{t|cmn|属性|tr=shǔxìng|sc=Hani}}
+* Danish: {{t+|da|attribut}}
+* Finnish: {{t-|fi|määrite}}, {{t+|fi|attribuutti}}, {{t+|fi|ominaisuus}}
+* French: {{t+|fr|attribut|m}}
+{{trans-mid}}
+* Japanese: [[性質]] (seisitsu)
+* Norwegian: [[attributt]] {{m}}, [[egenskap]] {{m}}
+* Portuguese: {{t+|pt|atributo|m}}
+* Russian: {{t+|ru|свойство|n|tr=svójstvo}},  {{t|ru|характерная черта|f|tr=xaraktérnaja čertá}},  {{t+|ru|атрибут|m|tr=atribút}}
+* Swedish: {{t-|sv|Attribut}}
+{{trans-bottom}}
+
+{{trans-top|grammar: word qualifying a noun}}
+* Arabic: {{t|ar|ميزة|f|tr=miiza}}
+* Bulgarian: {{t+|bg|определение}}
+* Chinese:
+*: Mandarin: {{t|cmn|定語|sc=Hani}},  {{t|cmn|定语|tr=dìngyǔ|sc=Hani}}
+* Finnish: {{t+|fi|attribuutti}}, {{t+|fi|määre}}
+{{trans-mid}}
+* French: {{t+|fr|attribut|m}}
+* German: {{t+|de|Attribut|n}}
+* Japanese: {{t|ja|限定詞|tr=げんていし, genteishi}}
+* Russian: {{t+|ru|определение|n|tr=opredelénije}},  {{t+|ru|атрибут|m|tr=atribút}}
+{{trans-bottom}}
+
+{{trans-top|computing: the applicable option selection}}
+* Albanian: {{t+|sq|atribut|xs=Albanian}}
+* Chinese:
+*: Mandarin: {{t|cmn|屬性|sc=Hani}},  {{t|cmn|属性|tr=shǔxìng|sc=Hani}}
+{{trans-mid}}
+* Finnish: {{t+|fi|attribuutti}}
+* Japanese: [[属性]] (zokusei)
+{{trans-bottom}}
+
+===Verb===
+{{en-verb|attribut|ing}}
+
+# (''used with'' '''to''' ''before the [[object]]'') To associate [[ownership]] or [[authorship]] with.
+#: ''This poem is '''attributed''' to Browning.''
+
+====Derived terms====
+* [[attributable]]
+* [[attribution]]
+
+====Translations====
+{{trans-top|to associate ownership or authorship with}}
+* Albanian: {{t+|sq|atribut|xs=Albanian}}
+* Bulgarian: {{t|bg|приписвам}},  {{t|bg|отдавам}}
+* Czech: {{t-|cs|připisovat}}
+* Dutch: {{t+|nl|toeschrijven}}
+* Esperanto: {{t-|eo|atribui|xs=Esperanto}}
+* French: {{t+|fr|attribuer}}
+{{trans-mid}}
+* Hungarian: {{t|hu|tulajdonít}}
+* [[Ido]]: [[atribuar]]
+* [[Papiamentu]]: [[atribui]]
+* Polish: {{t|pl|przypisać}}
+* Spanish: {{t+|es|atribuir}}
+{{trans-bottom}}
+
+===External links===
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+
+[[Category:English heteronyms]]
+
+[[ar:attribute]]
+[[et:attribute]]
+[[el:attribute]]
+[[fr:attribute]]
+[[gl:attribute]]
+[[io:attribute]]
+[[id:attribute]]
+[[it:attribute]]
+[[kn:attribute]]
+[[kk:attribute]]
+[[hu:attribute]]
+[[ml:attribute]]
+[[ja:attribute]]
+[[pl:attribute]]
+[[ru:attribute]]
+[[simple:attribute]]
+[[fi:attribute]]
+[[ta:attribute]]
+[[te:attribute]]
+[[tr:attribute]]
+[[vi:attribute]]
+[[zh:attribute]]
