@@ -20,11 +20,15 @@
 * French: {{t+|fr|Tunis|m}}
 * German: {{t-|de|Tunis|n}}
 * Hungarian: {{t+|hu|Tunisz}}
-{{trans-mid}}
+* Icelandic: {{t|is|Túnis|n}}
 * Italian: {{t|it|Tunisi|f}}
+{{trans-mid}}
 * Japanese: {{t|ja|チュニス|tr=Chunisu}}
 * Korean: {{t|ko|튀니스|tr=Twiniseu}}
 * Russian: {{t|ru|Тунис|m|tr=Tunís}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Тунис|m|alt=Ту̀нис|sc=Cyrl}}
+*: Roman: {{t|sh|Tunis|m|alt=Tùnis}}
 * Thai: {{t|th|ตูนิส|tr=Too-Nis}} <!-- please check this romanisation -->
 {{trans-bottom}}
 
@@ -32,20 +36,34 @@
 * {{alphagram|instu}}
 * [[units#English|units]]
 
-
 [[Category:Capital cities]]
 
 ----
 
-==Croatian==
+==Serbo-Croatian==
+
+===Pronunciation===
+* {{IPA|/tǔnis/|lang=sh}}
 
 ===Proper noun===
-'''Tunis''' {{m}}
+{{sh-proper-noun|g=m|head=Tùnis|r|Тунис|Ту̀нис}}
 
 # [[Tunisia]]
+# [[Tunis]] {{gloss|capital of Tunisia}}
 
-[[Category:Croatian proper nouns]]
-[[Category:hr:Countries]]
+====Declension====
+{{sh-decl-noun-unc
+|Tunis
+|Tunisa
+|Tunisu
+|Tunis
+|Tunisu
+|Tunisu
+|Tunisom
+}}
+
+[[Category:sh:Countries]]
+[[Category:sh:Capital cities]]
 
 [[ar:Tunis]]
 [[et:Tunis]]
