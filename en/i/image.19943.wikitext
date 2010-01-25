@@ -156,13 +156,14 @@
 ==French==
 
 ===Etymology===
-From {{etyl|la|fr}} {{term|imago||a copy, likeness, image}}
+From {{etyl|la|fr}} {{term|imago||a copy, likeness, image|lang=la}}.
 
 ===Pronunciation===
-* {{IPA|/i.maʒ/|lang=fr}}, {{SAMPA|/i.maZ/|lang=fr}}
-* {{audio|Fr-image.ogg|Audio (France)}}
+* {{IPA|/i.maʒ/|lang=fr}}, {{X-SAMPA|/i.maZ/|lang=fr}}
+*: {{audio|Fr-image.ogg|Audio (France, Paris)}}
 * {{rhymes|aʒ|lang=fr}}
-* {{homophones|images|imagent}}
+* {{homophones|images|imagent|lang=fr}}
+* {{hyphenation|i|mage|lang=fr}}
 
 ===Noun===
 {{fr-noun|f}}
@@ -177,10 +178,18 @@ From {{etyl|la|fr}} {{term|imago||a copy, likeness, image}}
 * [[vision]]
 
 ====Related terms====
-* [[imagé]]
+* [[imager]]
 * [[imagerie]]
-* [[imagier]]
 * [[imaginer]]
+
+===Verb===
+{{fr-verb-form}}
+
+# {{conjugation of|imager||1|s|pres|ind|lang=fr}}
+# {{conjugation of|imager||3|s|pres|ind|lang=fr}}
+# {{conjugation of|imager||1|s|pres|sub|lang=fr}}
+# {{conjugation of|imager||3|s|pres|sub|lang=fr}}
+# {{conjugation of|imager||2|s|imp|lang=fr}}
 
 ===Anagrams===
 * {{alphagram|aegim}}
