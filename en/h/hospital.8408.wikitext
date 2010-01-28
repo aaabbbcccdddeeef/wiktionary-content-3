@@ -21,14 +21,15 @@ From {{etyl|fro}} {{term|hospital|lang=fr}} < {{etyl|la}} {{term|hospitalis|hosp
 ====Translations====
 {{trans-top|building}}
 * [[Afrikaans]]: [[hospitaal]]
-* Arabic: {{Arab|[[مستشفى]]}} (mustášfa) {{f}},  {{t|ar|مستشفى|f|tr=mustáshfa|sc=Arab}}
-*: Morocco: {{tø|ary|صبطار|tr=ṣbiṭār|sc=Arab}}
+* Arabic: {{t|ar|مستشفى|f|tr=mustáshfa|sc=Arab}}
+* [[Moroccan Arabic]]: {{tø|ary|صبطار|m|tr=SbiTār}}
 * [[Aragonese]]: [[espital]] {{m}}
 * Armenian: {{t-|hy|հիվանդանոց|tr=hivandanoc’}}
 * [[Azeri]]: {{t|az|xəstəxana|xs=Azeri}}
 * [[Basque]]: [[ospitale]]
 * Bosnian: {{t-|bs|bolnica|f}}
-* Chinese: {{zh-tsp|醫院|医院|yīyuàn}}
+* Chinese:
+*: Mandarin: {{t|zh|醫院|sc=Hani}},  {{t|zh|医院|tr=yīyuàn|sc=Hani}}
 * Croatian: {{t+|hr|bolnica|f}}
 * Czech: {{t+|cs|nemocnice|f}}
 * Danish: [[#Danish|hospital]] {{n}}, [[sygehus]] {{n}}
@@ -51,9 +52,9 @@ From {{etyl|fro}} {{term|hospital|lang=fr}} < {{etyl|la}} {{term|hospitalis|hosp
 * [[Interlingua]]: [[#Interlingua|hospital]]
 * Irish: [[ospidéal]]
 * Italian: {{t+|it|ospedale|m}}
-* Japanese: [[病院]] ([[びょういん]], byōin),  {{t|ja|病院|tr=びょういん, byōin|sc=Jpan}}
+* Japanese: {{t|ja|病院|tr=びょういん, byōin|sc=Jpan}}
 * Kazakh: {{t|kk|аурухана|tr=awrwxana|sc=Cyrl|xs=Kazakh}}
-* Korean: [[병원]] (byeong-won),  {{t|ko|병원|tr=byeong-won|sc=Kore}},  {{t|ko|病院|sc=Kore}}
+* Korean: {{t|ko|병원|tr=byeong-won|sc=Kore}} ({{t|ko|病院|sc=Kore}})
 * Kurdish: {{ku-Arab|[[نه‌خۆشخانه‌]]}}, {{ku-Arab|[[خه‌سته‌خانه‌]]}}
 {{trans-mid}}
 * Latin: [[nosocomium]]
@@ -61,9 +62,7 @@ From {{etyl|fro}} {{term|hospital|lang=fr}} < {{etyl|la}} {{term|hospitalis|hosp
 * [[Macedonian]]: {{t-|mk|болница|f|tr=bólnica}}
 * Malay: [[rumah]] [[sakit]], [[#Malay|hospital]]
 * Maltese: [[sptar]]
-* Mandarin: {{t|zh|醫院|sc=Hani}},  {{t|zh|医院|tr=yīyuàn|sc=Hani}}
 * Mongolian: [[эмнэлэг]], [[госпиталь]]
-* [[Moroccan Arabic]]: {{tø|ary|صبطار|m|tr=SbiTār}}
 * Norwegian: {{t+|no|sykehus|n}}
 * [[Papiamentu]]: [[hòspital]]
 * [[Pashto]]: {{t-|ps|روغتون|m|tr=roγtun|sc=ps-Arab|xs=Pashto}}
@@ -71,7 +70,7 @@ From {{etyl|fro}} {{term|hospital|lang=fr}} < {{etyl|la}} {{term|hospitalis|hosp
 * Polish: {{t+|pl|szpital|m}}
 * Portuguese: {{t+|pt|hospital|m}}
 * Romanian: {{t+|ro|spital|n}}
-* Russian: [[больница]] (bol’nítsa) {{f}}, [[госпиталь]] (góspital’) {{m}} (''usually a military hospital''),  {{t|ru|больница|f|tr=bol’níca|sc=Cyrl}},  {{t|ru|госпиталь|m|tr=góspital’|sc=Cyrl}}
+* Russian: {{t|ru|больница|f|tr=bol’níca|sc=Cyrl}},  {{t|ru|госпиталь|m|tr=góspital’|sc=Cyrl}} (''usually a military hospital'')
 * [[Scottish Gaelic]]: [[taigh-leighis]] {{m}}, [[taigh-eiridinn]] {{m}}, [[taigh-tinnis]] {{m}},  {{t-|gd|ospadal|m|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: [[болница#Serbian|болница]] {{f}}
@@ -85,7 +84,7 @@ From {{etyl|fro}} {{term|hospital|lang=fr}} < {{etyl|la}} {{term|hospitalis|hosp
 * [[Tatar]]: {{t|tt|хастаханә|sc=Cyrl|xs=Tatar}}
 * [[Telugu]]: [[ఆసుపత్రి]] (aasupatri)
 * [[Tetum]]: [[ospitál]], [[uma-moras]]
-* Thai: [[โรงพยาบาล ]] (rohng phayaabaan),  {{t|th|โรงพยาบาล|tr=rohng phayaabaan|sc=Thai}}
+* Thai: {{t|th|โรงพยาบาล|tr=rohng phayaabaan|sc=Thai}}
 * Turkish: {{t+|tr|hastane}}
 * Turkmen: [[кеселхана]], [[госпитал]]
 * Ukrainian: [[лікарня]] (likarnja) {{f}}, [[шпiталь]] (špital’) {{m}}
