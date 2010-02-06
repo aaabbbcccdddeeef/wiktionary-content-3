@@ -31,7 +31,7 @@ From {{etyl|fro}} {{term|juge||judge (noun)|lang=fro}}, {{term|juger||judge (ver
 {{trans-top|public judicial official}}
 * [[Afrikaans]]: {{t|af|regter|xs=Afrikaans}}
 * Arabic: {{qualifier|indefinite}} {{t|ar|قاض|m|alt=قاضٍ|tr=qaaDin}},  {{qualifier|definite}} {{t|ar|القاضي|m|tr=al-qaaDiy}},  {{t|ar|قضاء|m|p|tr=quDaa'}}
-* Armenian: [[դատավոր]] (datavor)
+* Armenian: {{t-|hy|դատավոր|tr=datavor}}
 * Bosnian: {{t-|bs|sudija|m}}
 * [[Catalan]]: [[jutge]] {{m}}
 * Chinese:
@@ -180,16 +180,16 @@ From {{etyl|fro}} {{term|juge||judge (noun)|lang=fro}}, {{term|juger||judge (ver
 * [[Catalan]]: [[jutjar]]
 * Croatian: {{t-|hr|suditi}}, {{t-|hr|osuditi}}, {{t-|hr|presuditi}}
 * Czech: {{t-|cs|soudit}}
-* Dutch: {{t-|nl|oordelen}}
+* Dutch: {{t+|nl|oordelen}}
 * Esperanto: {{t-|eo|juĝi|xs=Esperanto}}
 * [[Ewe]]: {{tø|ee|drɔ̃ ʋɔnu|xs=Ewe}}
 * French: {{t+|fr|juger}}
 * German: [[richten]], [[ein]] [[Urteil]] [[fällen]] [[über]]
 {{trans-mid}}
 * Hungarian: {{t|hu|elbírál}}
-* Italian: {{t|it|giudicare}}
+* Italian: {{t+|it|giudicare}}
 * Portuguese: {{t+|pt|julgar}}
-* Romanian: {{t|ro|judeca}}
+* Romanian: {{t+|ro|judeca}}
 * Russian: [[судить]] (sudít') {{impf}}
 * [[Scottish Gaelic]]: {{t-|gd|thoir breith|xs=Scottish Gaelic}}
 * Serbian:
@@ -206,7 +206,7 @@ From {{etyl|fro}} {{term|juge||judge (noun)|lang=fro}}, {{term|juger||judge (ver
 * [[Catalan]]: [[jutjar]]
 * Croatian: {{t-|hr|suditi}}
 * Czech: {{t-|cs|soudit}}
-* Dutch: {{t-|nl|oordelen}}, {{t|nl|rechtspreken}}
+* Dutch: {{t+|nl|oordelen}}, {{t|nl|rechtspreken}}
 * [[Ewe]]: {{tø|ee|drɔ̃ ʋɔnu|xs=Ewe}}
 * French: {{t+|fr|juger}}
 * German: [[urteilen]], [[eine]] [[Verhandlung]] [[führen]]
@@ -226,7 +226,7 @@ From {{etyl|fro}} {{term|juge||judge (noun)|lang=fro}}, {{term|juger||judge (ver
 * [[Ancient Greek]]: [[κρίνω]] (krinō)
 * Czech: {{t-|cs|soudit}}, {{t-|cs|posuzovat}}
 * Dutch: {{t+|nl|beoordelen}}
-* Finnish: {{t|fi|arvioida}}
+* Finnish: {{t+|fi|arvioida}}
 * French: {{t+|fr|juger}}
 * German: {{t+|de|beurteilen}}, {{t+|de|einschätzen}}
 * Hungarian: {{t|hu|megítél}}
@@ -241,7 +241,7 @@ From {{etyl|fro}} {{term|juge||judge (noun)|lang=fro}}, {{term|juger||judge (ver
 {{trans-top|arbitrate, to pass opinion on something}}
 * [[Ancient Greek]]: [[κρίνω]] (krinō)
 * Czech: {{t-|cs|soudit}}
-* Dutch: {{t-|nl|oordelen}}, {{t|nl|bemiddelen}}
+* Dutch: {{t+|nl|oordelen}}, {{t|nl|bemiddelen}}
 * French: {{t+|fr|juger}}
 * German: [[Schiedsrichter]] [[sein]]
 * Hungarian: {{t+|hu|dönt}}
@@ -255,7 +255,7 @@ From {{etyl|fro}} {{term|juge||judge (noun)|lang=fro}}, {{term|juger||judge (ver
 
 {{trans-top|have as an opinion, consider, suppose}}
 * Czech: {{t-|cs|soudit}}, {{t-|cs|usuzovat}}
-* Dutch: {{t-|nl|oordelen}}, {{t+|nl|achten}}, {{t+|nl|houden}} {{t+|nl|voor}}
+* Dutch: {{t+|nl|oordelen}}, {{t+|nl|achten}}, {{t+|nl|houden}} {{t+|nl|voor}}
 * German: [[einschätzen]] [[als]]
 {{trans-mid}}
 * [[Scottish Gaelic]]: {{t-|gd|meas|xs=Scottish Gaelic}}
@@ -265,7 +265,7 @@ From {{etyl|fro}} {{term|juge||judge (noun)|lang=fro}}, {{term|juger||judge (ver
 
 {{trans-top|form an opinion, infer}}
 * Czech: {{t-|cs|soudit}}, {{t-|cs|usuzovat}}
-* Dutch: {{t-|nl|oordelen}}, {{t+|nl|afleiden}}, {{t+|nl|schatten}}
+* Dutch: {{t+|nl|oordelen}}, {{t+|nl|afleiden}}, {{t+|nl|schatten}}
 * German: {{t+|de|schätzen}}
 * Hungarian: {{t|hu|következtet}}
 {{trans-mid}}
