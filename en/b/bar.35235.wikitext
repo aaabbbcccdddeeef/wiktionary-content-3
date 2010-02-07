@@ -150,7 +150,7 @@ From {{etyl|enm}} {{term|barre||lang=enm}}, from {{etyl|fro}} {{term|barre||lang
 * Esperanto: {{t-|eo|stango|xs=Esperanto}}
 * Finnish: {{t-|fi|palkki}},  {{t-|fi|tanko}}
 * French: {{t+|fr|barre|f}}
-* German: {{t+|de|Block|m}}, {{t-|de|Barren|m}}, {{t+|de|Stange|f}}
+* German: {{t+|de|Block|m}}, {{t+|de|Barren|m}}, {{t+|de|Stange|f}}
 * Greek: {{t+|el|ράβδος|f|tr=ravdos}}, {{t+|el|πλάκα|n|tr=plaka}}, {{t|el|πλακίδιο|n|tr=plakidio}}, {{t+|el|κομμάτι|n|tr=komati}}
 {{trans-mid}}
 * Icelandic: {{t|is|stöng|f}}
@@ -165,7 +165,7 @@ From {{etyl|enm}} {{term|barre||lang=enm}}, from {{etyl|fro}} {{term|barre||lang
 {{trans-top|metallurgy: solid object of round, square, hexagonal, octagonal or rectangular section}}
 * Dutch: {{t+|nl|staaf|f}}, {{t+|nl|baar|f}}, {{t+|nl|stang|m}}
 * Finnish: {{t-|fi|palkki}}, {{t-|fi|tanko}}
-* German: {{t-|de|Barren|m}}
+* German: {{t+|de|Barren|m}}
 * Greek: {{t+|el|ράβδος|f|tr=ravdos}}
 {{trans-mid}}
 * [[Interlingua]]: [[barra]]
@@ -201,7 +201,7 @@ From {{etyl|enm}} {{term|barre||lang=enm}}, from {{etyl|fro}} {{term|barre||lang
 * German: {{t+|de|Bar|f}}, {{t+|de|Kneipe|f}}, Austrian: {{t|de|Beisl|n}}
 {{trans-mid}}
 * Greek: {{t|el|μπαρ|n|tr=bar}}, {{t|el|καπηλειό|n|tr=kapilio}}, {{t|el|ποτοπωλείο|n|tr=potopolio}}
-* Icelandic: {{t|is|bar|m}},  {{t|is|krá|f}}
+* Icelandic: {{t+|is|bar|m}},  {{t+|is|krá|f}}
 * [[Interlingua]]: bar
 * Italian: {{t+|it|bar|m}}
 * Portuguese: {{t+|pt|bar|m}}
@@ -213,13 +213,13 @@ From {{etyl|enm}} {{term|barre||lang=enm}}, from {{etyl|fro}} {{term|barre||lang
 {{trans-top|counter of such a premises}}
 * Armenian: {{t-|hy|բար|tr=bar}}
 * Bulgarian: {{t-|bg|бар}}
-* Dutch: {{t+|nl|bar|m}}, {{t|nl|toog|m}}, {{t|nl|tapkast|f}}
+* Dutch: {{t+|nl|bar|m}}, {{t-|nl|toog|m}}, {{t|nl|tapkast|f}}
 * Esperanto: {{t-|eo|bufedo|xs=Esperanto}}
 * Finnish: {{t|fi|baaritiski}},  {{t+|fi|baari}}
 {{trans-mid}}
 * French: {{t+|fr|comptoir|m}}, {{t+|fr|zinc|m}} ''(informal)''
 * German: {{t+|de|Bar|f}}, {{t|de|Theke|f}}, {{t|de|Tresen|m}}
-* Icelandic: {{t|is|bar|m}}
+* Icelandic: {{t+|is|bar|m}}
 * Russian: {{t+|ru|бар|tr=bar}}
 * Swedish: {{t+|sv|bar|c}}
 {{trans-bottom}}
@@ -298,7 +298,7 @@ From {{etyl|enm}} {{term|barre||lang=enm}}, from {{etyl|fro}} {{term|barre||lang
 
 {{trans-top|sports: in high jump and pole vault}}
 * Finnish: {{t+|fi|rima}}
-* Icelandic: {{t|is|slá|f}}
+* Icelandic: {{t+|is|slá|f}}
 {{trans-mid}}
 * Italian: {{t-|it|asticella|f}}
 {{trans-bottom}}
@@ -329,16 +329,16 @@ From {{etyl|enm}} {{term|barre||lang=enm}}, from {{etyl|fro}} {{term|barre||lang
 =====Translations=====
 {{trans-top|to obstruct the passage of}}
 * Bulgarian: {{t|bg|преграждам}},  {{t|bg|препречвам}}
-* Dutch: {{t|nl|blokkeren}}, {{t|nl|versperren}}
+* Dutch: {{t|nl|blokkeren}}, {{t-|nl|versperren}}
 * Esperanto: [[bloki]]
 * Finnish: {{t+|fi|estää}}, {{t-|fi|tukkia}}, {{t+|fi|sulkea}}
 * French: {{t+|fr|bloquer}}
 {{trans-mid}}
-* German: {{t+|de|blockieren}}, {{t|de|versperren}}
+* German: {{t+|de|blockieren}}, {{t-|de|versperren}}
 * Hungarian: {{t|hu|keresztbetesz, útját állja}}
 * [[Interlingua]]: [[barrar]]
 * Portuguese: {{t|pt|barrar}}
-* Romanian: {{t|ro|bara}}
+* Romanian: {{t+|ro|bara}}
 * Simplified Chinese: {{tø|zh-cn|阻碍}},  {{tø|zh-cn|阻止}}
 {{trans-bottom}}
 
@@ -358,12 +358,12 @@ From {{etyl|enm}} {{term|barre||lang=enm}}, from {{etyl|fro}} {{term|barre||lang
 
 {{trans-top|to lock or bolt with a bar}}
 * Bulgarian: {{t|bg|пускам резе}}
-* Dutch: {{t|nl|blokkeren}}, {{t|nl|barreren}}, {{t|nl|vergrendelen}}, {{t|nl|versperren}}
+* Dutch: {{t|nl|blokkeren}}, {{t|nl|barreren}}, {{t|nl|vergrendelen}}, {{t-|nl|versperren}}
 * Esperanto: {{t-|eo|bari|xs=Esperanto}}
 * Finnish: {{t-|fi|salvata}}, {{t-|fi|teljetä}}
 {{trans-mid}}
 * French: {{t+|fr|barrer}}
-* German: {{t|de|versperren}}
+* German: {{t-|de|versperren}}
 * Simplified Chinese: {{tø|zh-cn|闩上}}
 {{trans-bottom}}
 
@@ -415,7 +415,7 @@ From {{etyl|grc}} {{term|sc=Grek|βάρος|tr=baros||weight}}, coined c. 1900.
 {{trans-mid}}
 * French: {{t+|fr|bar|m}}
 * German: {{t+|de|Bar|n}}
-* Icelandic: {{t|is|bar|n}}
+* Icelandic: {{t+|is|bar|n}}
 {{trans-bottom}}
 
 
