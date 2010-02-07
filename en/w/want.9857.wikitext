@@ -50,13 +50,13 @@
 * Arabic: {{t|ar|أراد|tr='araada}}, {{t|ar|رغب|tr=rághiba}}
 *: [[Egyptian Arabic]]: {{qualifier|adjective}}  {{tø|arz|عاوز|tr=`aawiz|sc=Arab}},  {{tø|arz|عايز|tr=`aayiz|sc=Arab}}
 *: [[Moroccan Arabic]]: {{tø|ary|حب|tr=Habb}}
-* Armenian: [[ուզել ]] (uzel),  {{t|hy|ուզենալ|tr=uzenal|sc=Armn}}
-* Belarusian: {{t|be|хацець|tr=xacéc'|sc=Cyrl}},  {{t|be|жадаць|tr=žádac'|sc=Cyrl}}
+* Armenian: [[ուզել ]] (uzel),  {{t-|hy|ուզենալ|tr=uzenal}}
+* Belarusian: {{t|be|хацець|tr=xacéc'|xs=Belarusian}},  {{t|be|жадаць|tr=žádac'|xs=Belarusian}}
 * Bosnian: {{t-|bs|htjeti}}
 * Bulgarian: {{t+|bg|искам|tr=ískam}}, {{t+|bg|желая||tr=želája}}
 * [[Catalan]]: [[voler]]
 * Chinese:
-*: Mandarin: {{t|zh|要|tr=yào|sc=Hani}}, {{t|zh|想|tr=xiǎng|sc=Hani}}, {{t|zh|想要|tr=xiǎngyào|sc=Hani}}, {{t|zh|願意|sc=Hani}}, {{t|zh|愿意|tr=yuànyi|sc=Hani}}, {{t|zh|需要|tr=xūyào|sc=Hani}}
+*: Mandarin: {{t-|cmn|要|tr=yào|sc=Hani}}, {{t-|cmn|想|tr=xiǎng|sc=Hani}}, {{t|cmn|想要|tr=xiǎngyào|sc=Hani}}, {{t-|cmn|願意|sc=Hani}}, {{t-|cmn|愿意|tr=yuànyi|sc=Hani}}, {{t-|cmn|需要|tr=xūyào|sc=Hani}}
 * Croatian: {{t-|hr|htjeti}}
 * Czech: {{t+|cs|chtít}}
 * Danish: {{t+|da|ville}}
@@ -67,19 +67,19 @@
 * Filipino: [[magustohan]]
 * Finnish: {{t+|fi|tahtoa}}, {{t+|fi|haluta}}
 * French: {{t+|fr|vouloir}}
-* [[Galician]]: {{t|gl|querer}}
+* [[Galician]]: {{t-|gl|querer|xs=Galician}}
 * German: {{t+|de|wollen}}
 * Greek: {{t+|el|θέλω|tr=thélo}}
 * Hebrew: {{t+|he|רצה|alt=רָצָה|tr=ratsá}}
-* Hindi: {{t|hi|चाहना|tr=cāhnā|sc=Deva}}
+* Hindi: {{t+|hi|चाहना|tr=cāhnā|xs=Hindi}}
 * Hungarian: {{t+|hu|akar}}
 * [[Ido]]: [[dezirar]], [[volar]] (want to)
 * Indonesian: [[mau]], [[hendak]], [[ingin|menginginkan]]
 * Irish: {{t-|ga|is mian le|xs=Irish}} {{i|with subject and object reversed}}
 * Italian: {{t+|it|volere}}
 {{trans-mid}}
-* Japanese: {{t|ja|欲しい|tr=ほしい, hoshii|sc=Jpan}},  {{t|ja|欲する|tr=ほっする, hossuru|sc=Jpan}},  {{t|ja|望む|tr=のぞむ, nozomu|sc=Jpan}},  {{t|ja|たい|tr=...tai|alt=...たい|sc=Jpan}} (-i verb base + -tai, 1st person only),  {{t|ja|たがる|tr=...tagaru|alt=...たがる|sc=Jpan}} (-i verb base + -tagaru, 2nd and 3rd person only)
-* Korean: {{t|ko|빌다|tr=bilda|sc=Kore}},  {{t|ko|바라다|tr=barada|sc=Kore}},  {{t|ko|싶다|tr=sipda|sc=Kore}},  {{t|ko|원하다|tr=wonhada|sc=Kore}}
+* Japanese: {{t-|ja|欲しい|tr=ほしい, hoshii}},  {{t-|ja|欲する|tr=ほっする, hossuru}},  {{t-|ja|望む|tr=のぞむ, nozomu}},  {{t+|ja|たい|alt=...たい|tr=...tai}} (-i verb base + -tai, 1st person only),  {{t|ja|たがる|alt=...たがる|tr=...tagaru}} (-i verb base + -tagaru, 2nd and 3rd person only)
+* Korean: {{t-|ko|빌다|tr=bilda}},  {{t+|ko|바라다|tr=barada}},  {{t+|ko|싶다|tr=sipda}},  {{t-|ko|원하다|tr=wonhada}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|xwestin}}, {{t+|ku|viyan}}
 *: Sorani: {{t-|ku|خواستن|tr=xwastin|sc=ku-Arab}}
@@ -94,8 +94,8 @@
 * [[Piedmontese]]: [[vorej]]
 * Polish: {{t+|pl|chcieć}}
 * Portuguese: {{t+|pt|querer}},  {{t+|pt|desejar}}
-* Russian: [[хотеть]] (xotét’),  {{t|ru|желать|tr=želát'|sc=Cyrl}}
-* [[Scottish Gaelic]]: {{t|gd|iarr}}
+* Russian: [[хотеть]] (xotét’),  {{t+|ru|желать|tr=želát'}}
+* [[Scottish Gaelic]]: {{t-|gd|iarr|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: [[хтети]]
 *: Roman: [[hteti]]
@@ -104,11 +104,11 @@
 * Spanish: {{t+|es|querer}}, {{t+|es|desear}}
 * Swedish: {{t+|sv|vill}}
 * [[Telugu]]: [[కోరుకొను]] (korukonu), [[వాంఛించు]] (vamchinchu)
-* Thai: {{t|th|อยาก|tr=yàak|sc=Thai}},  {{t|th|ต้องการ|tr=dtông gaan|sc=Thai}}
+* Thai: {{t+|th|อยาก|tr=yàak}},  {{t|th|ต้องการ|tr=dtông gaan}}
 * Turkish: {{t+|tr|istemek}}
-* Ukrainian: {{t|uk|хотіти|tr=xotíty|sc=Cyrl}},  {{t|uk|бажати|tr=bažáty|sc=Cyrl}}
-* Urdu: {{t|ur|چاہنا|tr=cāhnā|sc=ur-Arab}}
-* Vietnamese: {{t|vi|muốn}},  {{t|vi|cần}}
+* Ukrainian: {{t|uk|хотіти|tr=xotíty|xs=Ukrainian}},  {{t|uk|бажати|tr=bažáty|xs=Ukrainian}}
+* Urdu: {{t-|ur|چاہنا|tr=cāhnā|xs=Urdu}}
+* Vietnamese: {{t|vi|muốn|xs=Vietnamese}},  {{t+|vi|cần|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-see|lack}}
@@ -126,7 +126,7 @@
 
 ====Translations====
 {{trans-top|lack (of)}}
-* Armenian: {{t|hy|կարիք|tr=karik’|sc=Armn}},  {{t|hy|պակաս|tr=pakas|sc=Armn}}
+* Armenian: {{t-|hy|կարիք|tr=karik’}},  {{t-|hy|պակաս|tr=pakas}}
 * Dutch: {{t+|nl|tekort|n}}
 * Norwegian: {{t+|no|mangel}}
 {{trans-mid}}
@@ -135,7 +135,7 @@
 {{trans-bottom}}
 
 {{trans-top|poverty}}
-* Armenian: {{t|hy|կարիք|tr=karik’|sc=Armn}}
+* Armenian: {{t-|hy|կարիք|tr=karik’}}
 {{trans-mid}}
 * Norwegian: {{t+|no|behov}}
 {{trans-bottom}}
