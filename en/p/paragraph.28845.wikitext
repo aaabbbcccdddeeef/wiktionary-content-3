@@ -15,15 +15,15 @@ From {{etyl|frm}} ''[[paragraphe]]'' from {{etyl|la}} ''[[paragraphus]]'' "sign 
 
 ====Translations====
 {{trans-top|passage in text}}
-* Arabic: {{t|ar|فقرة|f|tr=fíqra|sc=Arab}}
+* Arabic: {{t|ar|فقرة|f|tr=fíqra}}
 * Armenian: [[պարբերություն]] (parberut'yun)
 * Chinese:
-*: Mandarin: {{t|zh|段|tr=duàn|sc=Hani}},  {{t|zh|段落|tr=duànluò|sc=Hani}}
+*: Mandarin: {{t-|cmn|段|tr=duàn|sc=Hani}},  {{t-|cmn|段落|tr=duànluò|sc=Hani}}
 * Czech: {{t-|cs|odstavec|m}}
 * Dutch: [[alinea]] {{f}}, [[paragraaf]] {{m}}
 * Esperanto: {{t-|eo|paragrafo|xs=Esperanto}}
 * Finnish: [[kappale]], [[paragraafi]]
-* French: {{t|fr|paragraphe|m}},  {{t+|fr|alinéa|m}}
+* French: {{t+|fr|paragraphe|m}},  {{t+|fr|alinéa|m}}
 * German: {{t+|de|Absatz|m}}
 * Greek: {{t+|el|παράγραφος|f|tr=parágrafos}}
 * Hebrew: {{t-|he|פסקה|f|tr=piská}}
@@ -32,9 +32,9 @@ From {{etyl|frm}} ''[[paragraphe]]'' from {{etyl|la}} ''[[paragraphus]]'' "sign 
 * [[Ido]]: {{t+|io|paragrafo|xs=Ido}}
 * [[Interlingua]]: [[paragrapho]]
 * Italian: {{t-|it|paragrafo|m}}
-* Japanese: {{t|ja|段落|tr=だんらく, danraku|sc=Jpan}}
+* Japanese: {{t-|ja|段落|tr=だんらく, danraku}}
 * Norwegian: {{t-|no|avsnitt}}
-* Persian: {{t|fa|بند|tr=bănd|sc=fa-Arab}}
+* Persian: {{t+|fa|بند|tr=bănd|xs=Persian}}
 * Polish: {{t+|pl|akapit|m}}
 * Portuguese: {{t+|pt|parágrafo|m}}
 * Romanian: {{t+|ro|paragraf|n}}
@@ -54,7 +54,7 @@ False friend of the Polish term ''[[paragraf]].''
 
 ====Translations====
 {{trans-top|sort text into paragraphs}}
-* Italian: {{t|it|paragrafare}}
+* Italian: {{t-|it|paragrafare}}
 {{trans-mid}}
 {{trans-bottom}}
 
