@@ -374,8 +374,8 @@ From {{etyl|frm}} ''[[fonction]]'' < {{etyl|fro}} ''[[function#Old French|functi
 
 ====Translations====
 {{trans-top|what something does or is used for}}
-* [[Afrikaans]]: {{t|af|funksie}}
-* Albanian: {{t|sq|funksion}}
+* [[Afrikaans]]: {{t|af|funksie|xs=Afrikaans}}
+* Albanian: {{t|sq|funksion|xs=Albanian}}
 * Arabic: {{t|ar|وظيفة|f|tr=waZiifa}}
 * Chinese:
 *: Mandarin: {{t-|cmn|功能|tr=gōngnéng|sc=Hani}},  {{t-|cmn|機能|sc=Hani}},  {{t|cmn|机能|tr=jīnéng|sc=Hani}}
@@ -385,23 +385,23 @@ From {{etyl|frm}} ''[[fonction]]'' < {{etyl|fro}} ''[[function#Old French|functi
 * Dutch: {{t+|nl|functie|f}}
 * Finnish: {{t+|fi|tehtävä}}, {{t+|fi|tarkoitus}}
 * French: {{t+|fr|fonction|f}}
-* [[Galician]]: {{t|gl|función|f}}
+* [[Galician]]: {{t+|gl|función|f|xs=Galician}}
 * German: {{t+|de|Funktion|f}}, {{t+|de|Funktionalität|f}}
 * Greek: {{t|el|λειτουργία|f|tr=liturgía}}
 * Hebrew: {{he-translation|תפקיד|tafkíd}} {{m}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|funkció}}
-* Indonesian: {{t|id|fungsi}}
+* Indonesian: {{t+|id|fungsi|xs=Indonesian}}
 * Irish: {{t-|ga|feidhm|f|xs=Irish}}
 * Italian: {{t+|it|funzione|f}}
 * Japanese: [[機能]] (kinō)
 * Korean: {{t-|ko|기능|sc=Hang}}
 * Kurdish: {{ku-Arab|[[کار]]}}, {{ku-Arab|[[کاروبار]]}}
-* Malay: {{t|ms|fungsi}}
+* Malay: {{t-|ms|fungsi|xs=Malay}}
 * Norwegian: {{t+|no|funksjon|m}}
 * Portuguese: {{t+|pt|função|f}}
 * Russian: {{t+|ru|функция|f|tr=fúnkcija}}
-* Spanish: {{t|es|función|f}}
+* Spanish: {{t+|es|función|f}}
 * Swedish: {{t+|sv|funktion|c}}, {{t+|sv|uppgift|c}}
 {{trans-bottom}}
 
@@ -526,7 +526,7 @@ From {{etyl|frm}} ''[[fonction]]'' < {{etyl|fro}} ''[[function#Old French|functi
 * Norwegian: {{t+|no|funksjon|m}}
 * Portuguese: {{t+|pt|função|f}}
 * Russian: {{t+|ru|функция|f|tr=fúnkcija}}
-* Spanish: {{t|es|función|f}}
+* Spanish: {{t+|es|función|f}}
 * Swedish: {{t+|sv|funktion|c}}
 {{trans-bottom}}
 
@@ -596,7 +596,7 @@ the tables above.-->
 * Italian: {{t+|it|funzionare}}
 * Japanese: [[機能する]] (kinō-suru)
 * Romanian: {{t+|ro|funcţiona}}
-* Spanish: {{t|es|funcionar}}
+* Spanish: {{t-|es|funcionar}}
 * Swedish: [[fungera]], [[tjänstgöra]]
 {{trans-bottom}}
 
