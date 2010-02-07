@@ -52,13 +52,13 @@
 
 =====Translations=====
 {{trans-top|accurately; competently}}
-* Arabic: {{t|ar|حسنا|tr=Hásanan|alt=حسنًا|sc=Arab}},  {{t|ar|بخير|tr=bi-kháyr|sc=Arab}},  {{t|ar|جيدا|tr=jayyidan|alt=جيدًا|sc=Arab}}
+* Arabic: {{t-|ar|حسنا|alt=حسنًا|tr=Hásanan}},  {{t-|ar|بخير|tr=bi-kháyr}},  {{t|ar|جيدا|alt=جيدًا|tr=jayyidan}}
 *: Egyptian Arabic: {{tø|arz|كويس|tr=kwáyyis|sc=Arab}}
 * Armenian: {{t+|hy|լավ|tr=lav}}
-* Belarusian: {{t|be|добра|tr=dóbra|sc=Cyrl}}
-* Bulgarian: {{t|bg|добре|tr=dobre|sc=Cyrl}}
+* Belarusian: {{t-|be|добра|tr=dóbra|xs=Belarusian}}
+* Bulgarian: {{t|bg|добре|tr=dobre}}
 * Chinese:
-*: Mandarin: {{t|zh|好|tr=hǎo|sc=Hani}}
+*: Mandarin: {{t-|cmn|好|tr=hǎo|sc=Hani}}
 * Czech: {{t+|cs|dobře}}
 * Esperanto: {{t-|eo|bele|xs=Esperanto}}
 * Estonian: {{t|et|hästi}}
@@ -67,20 +67,20 @@
 * German: {{t+|de|gut}}
 * Greek: {{t+|el|καλά}} (kalá)
 * [[Haitian Creole]]: {{tø|ht|byen}}
-* Hebrew: {{t|he|טוב|tr=tov|sc=Hebr}}
-* Hindi: {{t|hi|अच्छा|tr=acchā|sc=Deva}}
+* Hebrew: {{t+|he|טוב|tr=tov}}
+* Hindi: {{t-|hi|अच्छा|tr=acchā|xs=Hindi}}
 * Italian: {{t+|it|bene}}
 * Japanese: {{t|ja|良く|tr=yoku}}
-* Korean: {{t|ko|잘|tr=jal|sc=Kore}}
+* Korean: {{t+|ko|잘|tr=jal}}
 * Lithuanian: {{t-|lt|gerai|xs=Lithuanian}}
 {{trans-mid}}
-* Mongolian: {{t|mn|худаг|tr=húdag|sc=Cyrl}}
-* [[Occitan]]: {{t+|oc|ben}},  {{t+|oc|plan}}
-* Persian: {{t|fa|خوب|tr=khub|sc=fa-Arab}}
+* Mongolian: {{t|mn|худаг|tr=húdag|sc=Cyrl|xs=Mongolian}}
+* [[Occitan]]: {{t-|oc|ben|xs=Occitan}},  {{t-|oc|plan|xs=Occitan}}
+* Persian: {{t+|fa|خوب|tr=khub|xs=Persian}}
 * Polish: {{t+|pl|dobrze}}
 * Portuguese: {{t+|pt|bem}}
 * Romanian: {{t-|ro|bine}}
-* Russian: {{t|ru|хорошо|tr=xorošó|sc=Cyrl}}, {{t|ru|как следует|tr=kak slédujet|sc=Cyrl}} {{qualifier|properly}}
+* Russian: {{t+|ru|хорошо|tr=xorošó}}, {{t|ru|как следует|tr=kak slédujet}} {{qualifier|properly}}
 * [[Scots]]: [[weel]]
 * [[Scottish Gaelic]]: {{t-|gd|gu math|xs=Scottish Gaelic}}
 * [[Sicilian]]: {{t+|scn|beni|xs=Sicilian}}
@@ -89,19 +89,19 @@
 * Spanish: {{t+|es|bien}}
 * Swahili: {{t+|sw|kisima|xs=Swahili}}
 * Swedish: {{t+|sv|väl}}, {{t+|sv|bra}}
-* Thai: {{t|th|ให้ดี|tr=hâi dee|sc=Thai}},  {{t|th|อย่างดี|tr=yàang dee|sc=Thai}}
+* Thai: {{t|th|ให้ดี|tr=hâi dee}},  {{t|th|อย่างดี|tr=yàang dee}}
 * [[Tok Pisin]]: [[gut]]
 * Turkish: {{t+|tr|iyi}}
-* Ukrainian: {{t|uk|добре|tr=dóbre|sc=Cyrl}},  {{t|uk|гарно|tr=hárno|sc=Cyrl}}
-* Urdu: {{t|ur|اچھا|tr=acchā|sc=ur-Arab}}
-* Vietnamese: {{t|vi|tốt}},  {{t|vi|hay}}
+* Ukrainian: {{t|uk|добре|tr=dóbre|xs=Ukrainian}},  {{t|uk|гарно|tr=hárno|xs=Ukrainian}}
+* Urdu: {{t-|ur|اچھا|tr=acchā|xs=Urdu}}
+* Vietnamese: {{t+|vi|tốt|xs=Vietnamese}},  {{t+|vi|hay|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|completely; fully}}
 * Arabic: {{Arab|[[حسنا|حسنًا]]}} (ħásanan), {{Arab|[[بخير]]}} (bi-xáyr), {{Arab|[[جيداً]]}} (jayyidan)
 * Armenian: {{t+|hy|լավ|tr=lav}}
 * Chinese:
-*: Mandarin: {{t|zh|好|tr=hǎo|sc=Hani}}
+*: Mandarin: {{t-|cmn|好|tr=hǎo|sc=Hani}}
 * Czech: {{t+|cs|dobře}}
 * Finnish: {{t+|fi|hyvin}}, {{t-|fi|kunnolla}}
 * German: {{t+|de|ganz}}
@@ -120,7 +120,7 @@
 * Arabic: {{Arab|[[حسنا|حسنًا]]}} (ħásanan), {{Arab|[[بخير]]}} (bi-xáyr)
 * Armenian: {{t+|hy|լավ|tr=lav}}
 * Chinese:
-*: Mandarin: {{t|zh|好|tr=hǎo|sc=Hani}}
+*: Mandarin: {{t-|cmn|好|tr=hǎo|sc=Hani}}
 * Czech: {{t+|cs|dobře}}
 * Finnish: {{t+|fi|hyvin}}
 * French: {{t+|fr|bien}}
@@ -142,7 +142,7 @@
 {{trans-top|''(slang)'' very}}
 * Estonian: {{t|et|tõsiselt}}
 * Finnish: {{t+|fi|tosi}}
-* French: {{t|fr|vachement}}
+* French: {{t+|fr|vachement}}
 {{trans-mid}}
 * Swahili: {{t+|sw|kisima|xs=Swahili}},  {{t+|sw|kisima|xs=Swahili}}
 * Welsh: {{t-|cy|iawn|xs=Welsh}}
@@ -176,17 +176,17 @@
 
 =====Translations=====
 {{trans-top|in good health}}
-* Arabic: {{t|ar|بخير|tr=bi-kháyr|sc=Arab}}
+* Arabic: {{t-|ar|بخير|tr=bi-kháyr}}
 * Armenian: {{t+|hy|լավ|tr=lav}}
 * Chinese:
-*: Mandarin: {{t|zh|好|tr=hǎo|sc=Hani}}
+*: Mandarin: {{t-|cmn|好|tr=hǎo|sc=Hani}}
 * Czech: {{t-|cs|zdravý|m}}
 * Dutch: {{t+|nl|gezond}}
 * Finnish: [[terve]], [[hyvä|hyvässä]] [[kunto|kunnossa]]
 * German: {{t+|de|gesund}}
 * Greek: {{t+|el|καλά}} (kalá)
 * Hebrew: {{t-|he|בריא|m}}, {{t-|he|בריאה|f}}
-* Hindi: {{t|hi|ठीक|tr=ṭhīk|sc=Deva}}
+* Hindi: {{t-|hi|ठीक|tr=ṭhīk|xs=Hindi}}
 * [[Ido]]: [[bona]]
 * Italian: {{t+|it|bene}}
 * Japanese: {{t+|ja|元気|tr=げんき, genki}}
@@ -205,10 +205,10 @@
 * Swahili: {{t+|sw|kisima|xs=Swahili}}
 * Swedish: {{t+|sv|frisk}}
 * [[Telugu]]: [[బాగు]] (baagu)
-* Thai: {{t|th|สบาย|tr=sà-baai|sc=Thai}}
+* Thai: {{t|th|สบาย|tr=sà-baai}}
 * [[Tok Pisin]]: [[no]] [[sik]]
 * Turkish: {{t+|tr|iyi}}
-* Vietnamese: {{t|vi|khỏe}}
+* Vietnamese: {{t|vi|khỏe|xs=Vietnamese}}
 * Welsh: {{t-|cy|iawn|xs=Welsh}}
 {{trans-bottom}}
 
@@ -251,7 +251,7 @@
 * [[Saterland Frisian]]: {{tø|stq|nu}}
 * [[Scots]]: [[weel]]
 * [[Scottish Gaelic]]: {{t-|gd|uill|xs=Scottish Gaelic}}
-* Slovak: {{t-|sk|no}}
+* Slovak: {{t+|sk|no}}
 * Slovene: {{t+|sl|no}}
 * Swahili: {{t+|sw|kisima|xs=Swahili}}
 * Swedish: {{t+|sv|tja}}, {{t+|sv|nå}}
@@ -259,7 +259,7 @@
 {{trans-bottom}}
 
 {{trans-top|to acknowledge a statement or situation}}
-* French: {{t|fr|bien}}
+* French: {{t+|fr|bien}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -284,7 +284,7 @@
 *: Mandarin: {{t-|cmn|哪個|sc=Hani}},  {{t-|cmn|哪个|tr=něige|sc=Hani}},  {{t-|cmn|嗯|tr=ēn|sc=Hani}},  {{t-|cmn|那|tr=nà|sc=Hani}}
 * Czech: {{t+|cs|no}}
 * Finnish: {{t+|fi|tuota}}, {{t-|fi|niinku}}
-* French: {{t+|fr|ben}},  {{t|fr|écoutez}}
+* French: {{t+|fr|ben}},  {{t+|fr|écoutez}}
 * Greek: {{t|el|λοιπόν|tr=li'pon}}
 * Japanese: {{t-|ja|ええと|tr=ēto}}, {{t|ja|あのう|tr=anō}}
 * Lithuanian: {{t-|lt|na|xs=Lithuanian}}
@@ -293,7 +293,7 @@
 * Russian: {{t+|ru|ну|tr=nu}}, {{t-|ru|значит|tr=znáčit}}
 * [[Scots]]: [[weel]]
 * [[Scottish Gaelic]]: {{t-|gd|uill|xs=Scottish Gaelic}}
-* Slovak: {{t-|sk|no}}
+* Slovak: {{t+|sk|no}}
 * Slovene: {{t+|sl|no}}, {{t+|sl|torej}}
 * Swahili: {{t+|sw|kisima|xs=Swahili}}
 * Swedish: {{t+|sv|tja}}, {{t-|sv|öh}}, {{t-|sv|eh}}
@@ -396,7 +396,7 @@
 * {{trreq|Nepali}}
 * [[Norman]]: [[pyit]] {{m}}
 * Norwegian: {{t+|no|brønn}}
-* [[Occitan]]: {{t+|oc|potz}}
+* [[Occitan]]: {{t+|oc|potz|xs=Occitan}}
 * [[Ojibwe]]: [[onda'ibaan]]
 * {{trreq|Oriya}}
 * {{trreq|Persian}}
