@@ -73,7 +73,7 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem}}, from {{proto|Indo-
 * Czech: {{t+|cs|sůl|f}}
 * Danish: {{t+|da|salt|n}}
 * Dutch: {{t+|nl|zout|n}}, {{t|nl|keukenzout|n}}
-* Esperanto: {{t|eo|salo}}
+* Esperanto: {{t-|eo|salo|xs=Esperanto}}
 * Estonian: {{t-|et|sool}}
 * [[Ewe]]: [[dze]] {{n}}
 * Finnish: {{t+|fi|suola}}
@@ -109,7 +109,7 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem}}, from {{proto|Indo-
 * Persian: {{t+|fa|نمک|tr=namak|xs=Persian}}
 * Polish: {{t+|pl|sól|f}}, {{t|pl|sól kuchenna|f}}
 * Portuguese: {{t+|pt|sal|m}}
-* Romanian: {{t-|ro|sare|f}}
+* Romanian: {{t+|ro|sare|f}}
 * Russian: {{t+|ru|соль|f|tr=sol’}}
 * [[Scottish Gaelic]]: {{t-|gd|salann|m|xs=Scottish Gaelic}}
 * [[Sicilian]]: {{t+|scn|sali|m|xs=Sicilian}}
@@ -147,7 +147,7 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem}}, from {{proto|Indo-
 * Norwegian: {{t+|no|salt|n}}
 * [[Pashto]]: {{t-|ps|مالګه|f|tr=mālga|sc=ps-Arab|xs=Pashto}}
 * Polish: {{t+|pl|sól|f}}
-* Romanian: {{t-|ro|sare|f}}
+* Romanian: {{t+|ro|sare|f}}
 * Russian: {{t+|ru|соль|f|tr=sol’}}
 * Slovak: {{t-|sk|soľ|f}}
 * Slovene: {{t+|sl|sol|f}}
@@ -163,7 +163,7 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem}}, from {{proto|Indo-
 
 {{trans-top|sailor}}
 * Danish: {{t+|da|søulk|c}}
-* Dutch: {{t|nl|zeerot|m}}, {{t|nl|rot|m}}
+* Dutch: {{t|nl|zeerot|m}}, {{t+|nl|rot|m}}
 * Finnish: {{t-|fi|merikarhu}}
 * French: {{t+|fr|loup de mer|m}}
 {{trans-mid}}
@@ -174,7 +174,7 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem}}, from {{proto|Indo-
 
 {{trans-top|additional bytes inserted into an encryption}}
 * Czech: {{t+|cs|sůl|f}}
-* Dutch: {{t|nl|salt}}
+* Dutch: {{t+|nl|salt}}
 * Japanese: [[ソルト]] ([[soruto]])
 {{trans-mid}}
 * Polish: {{t+|pl|sól|f}}
@@ -260,7 +260,7 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem}}, from {{proto|Indo-
 {{trans-top|saline}}
 * Czech: {{t|cs|solný|m}}
 * Danish: {{t-|da|saltholdig}}
-* Dutch: {{t+|nl|zout|n}}, {{t+|nl|zout|alt=zout-|n}}
+* Dutch: {{t+|nl|zout|n}}, {{t+|nl|zout|n|alt=zout-}}
 * Estonian: {{t|et|soolane}},  {{t|et|soola-}}
 * Finnish: [[suolainen]], [[suola]]-
 * French: {{t+|fr|salin|m}}, {{t+|fr|saline|f}}
@@ -310,7 +310,7 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem}}, from {{proto|Indo-
 * Czech: [[solit]], [[osolit]]
 * Danish: {{t-|da|salte}}
 * Dutch: {{t+|nl|zouten}}
-* Esperanto: {{t|eo|sali}}
+* Esperanto: {{t-|eo|sali|xs=Esperanto}}
 * Estonian: {{t|et|soolata}}
 * Finnish: [[suolata]], [[lisätä]] [[suola|suolaa]]
 * French: {{t+|fr|saler}}
