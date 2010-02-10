@@ -112,7 +112,7 @@ From {{etyl|non|en}} {{term|vindauga|lang=non}}, combined from of {{term|vindr||
 * [[Afrikaans]]: {{t-|af|venster|xs=Afrikaans}}
 * Arabic: {{t-|ar|شباك|m|tr=shubbaak}}, {{t-|ar|نافذة|f|tr=naafidha}}
 * Armenian: {{t+|hy|պատուհան|tr=patuhan}},  {{t-|hy|լուսամուտ|tr=lusamut}}
-* Belarusian: {{t|be|акно|n|tr=aknó|sc=Cyrl}}
+* Belarusian: {{t|be|акно|n|tr=aknó|xs=Belarusian}}
 * Bengali: {{tø|bn|জানালা|tr=jānālā|sc=Beng}}
 * Bosnian: {{t-|bs|prozor|m}}, {{t-|bs|okno|n}}, {{t-|bs|pendžer|m}}
 * [[Breton]]: [[prenestr]] {{m}}
@@ -120,7 +120,7 @@ From {{etyl|non|en}} {{term|vindauga|lang=non}}, combined from of {{term|vindr||
 * [[Catalan]]: [[finestra]] {{f}}
 * [[Chamicuro]]: {{tø|ccc|wentana}}
 * Chinese:
-*: Mandarin: {{t|zh|窗戶|sc=Hani}},  {{t|zh|窗户|tr=chuānghù|sc=Hani}}
+*: Mandarin: {{t-|cmn|窗戶|sc=Hani}},  {{t-|cmn|窗户|tr=chuānghù|sc=Hani}}
 *: Min Nan: {{zh-ts|[[窗仔門]]|[[窗仔门]]}} ([[thang-á-mn̂g|thang-á-mn{{unicode|̂}}g]])
 * Croatian: {{t+|hr|prozor|m}}
 * Czech: {{t+|cs|okno|n}}
@@ -133,7 +133,7 @@ From {{etyl|non|en}} {{term|vindauga|lang=non}}, combined from of {{term|vindr||
 * [[Galician]]: {{t-|gl|xanela|xs=Galician}}, {{t-|gl|fiestra|f|xs=Galician}}, {{t-|gl|ventá|f|xs=Galician}}
 * German: {{t+|de|Fenster|n}}
 * Greek: {{t+|el|παράθυρο|n|tr=paráthiro}}
-* Hebrew: {{t|he|חלון|m|tr=hallon|alt=חַלּוֹן|sc=Hebr}}
+* Hebrew: {{t+|he|חלון|m|alt=חַלּוֹן|tr=hallon}}
 * Hindi: {{t-|hi|खिड़की|f|tr=khiṛkī|xs=Hindi}}
 * Hungarian: {{t+|hu|ablak}}
 * Icelandic: {{t+|is|gluggi|m}}
@@ -143,7 +143,7 @@ From {{etyl|non|en}} {{term|vindauga|lang=non}}, combined from of {{term|vindr||
 * Italian: {{t+|it|finestra|f}}
 * Japanese: {{t+|ja|窓|tr=[[まど]], mado}}
 * Kazakh: {{t|kk|терезе|tr=tereze|sc=Cyrl|xs=Kazakh}}
-* Korean: {{t|ko|창|tr=chang|sc=Kore}}
+* Korean: {{t+|ko|창|tr=chang}}
 * Kurdish: {{t+|ku|په‌نجه‌ره‌|sc=ku-Arab}}
 {{trans-mid}}
 * Latin: {{t+|la|fenestra|f}}
@@ -151,11 +151,11 @@ From {{etyl|non|en}} {{term|vindauga|lang=non}}, combined from of {{term|vindr||
 * Lithuanian: {{t+|lt|langas|m|xs=Lithuanian}}
 * [[Macedonian]]: [[прозорец]] (prózorec) {{m}}, [[прозор]] (prózor) {{m}}, [[окно]] (ókno) {{n}}, [[пенџере]] (péndžere) {{n}}, [[пенџер]] (péndžer) {{m}}
 * [[Marathi]]: [[खिडकी]] (khi.dkī)
-* Mongolian: {{t|mn|цонх|tr=tsonh|sc=Cyrl}}
+* Mongolian: {{t|mn|цонх|tr=tsonh|sc=Cyrl|xs=Mongolian}}
 * Norwegian: {{t+|no|vindu|n}}
 * [[Occitan]]: [[fenèstra]] {{f}}
 * Old Norse: [[vindauga]] {{n}}
-* Persian: {{t|fa|پنجره|tr=panjere|sc=fa-Arab}}
+* Persian: {{t+|fa|پنجره|tr=panjere|xs=Persian}}
 * Polish: {{t+|pl|okno|n}}
 * Portuguese: {{t+|pt|janela|f}}
 * Romanian: {{t+|ro|fereastră|f}}
@@ -173,11 +173,11 @@ From {{etyl|non|en}} {{term|vindauga|lang=non}}, combined from of {{term|vindr||
 * Swedish: {{t+|sv|fönster|n}}
 * [[Taos]]: [[łòxwóloną]]
 * [[Telugu]]: [[కిటికీ]] (kiTikee)
-* Thai: {{t|th|หน้าต่าง|tr=nâa dtàang|sc=Thai}}
+* Thai: {{t|th|หน้าต่าง|tr=nâa dtàang}}
 * Turkish: {{t+|tr|pencere}},  {{t+|tr|cam}}
 * Ukrainian: {{t+|uk|вікно|n|tr=viknó|xs=Ukrainian}}
 * Urdu: {{ur-Arab|[[کھڑکی]]}} (khi.rkī) {{f}}
-* Vietnamese: {{t|vi|cửa sổ}}
+* Vietnamese: {{t|vi|cửa sổ|xs=Vietnamese}}
 * Welsh: {{t-|cy|ffenest|f|xs=Welsh}}
 * [[West Frisian]]: {{t|fy|ramte|xs=West Frisian}}
 {{trans-bottom}}
