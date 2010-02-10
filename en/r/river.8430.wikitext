@@ -66,12 +66,12 @@ From {{etyl|fro|en}} {{term|rivière|lang=fro}} < {{etyl|VL.}} *{{term||riparia|
 * Arabic: {{Arab|[[نهر]]}} (nahr) {{m}}, {{Arab|[[أنهار]]}} {{IPAchar|(’anhār)}} {{p}}, {{Arab|[[أنهر]]}} {{IPAchar|(’ánhur)}} {{p}}
 * Armenian: {{t+|hy|գետ|tr=get}}
 * [[Azeri]]: {{t+|az|çay|xs=Azeri}}
-* [[Bashkir]]: {{t|ba|йылға|tr=yılğa|sc=Cyrl}}
-* [[Basque]]: {{t|eu|ibai}}
+* [[Bashkir]]: {{t|ba|йылға|tr=yılğa|sc=Cyrl|xs=Bashkir}}
+* [[Basque]]: {{t+|eu|ibai|xs=Basque}}
 * Bengali: {{tø|bn|নদী|tr=nadī|sc=Beng}}
 * [[Betawi]]: [[kali]]
-* Bosnian: {{t|bs|rijeka|f}}
-* Bulgarian: {{t|bg|река|f|tr=reka|sc=Cyrl}}
+* Bosnian: {{t-|bs|rijeka|f}}
+* Bulgarian: {{t+|bg|река|f|tr=reka}}
 * {{trreq|Burmese}}
 * [[Catalan]]: {{t+|ca|riu|m}}
 * [[Chamicuro]]: {{tø|ccc|maneli}}
@@ -80,7 +80,7 @@ From {{etyl|fro|en}} {{term|rivière|lang=fro}} < {{etyl|VL.}} *{{term||riparia|
 *: Mandarin: [[河]] (hé), [[江]] (jiāng), [[河流]] (héliú)
 *: Cantonese: [[河]] (ho4), [[江]] (gong1), [[河流]] (ho4 lau4)
 * [[Chuvash]]: {{tø|cv|юханшыв|tr=yuxanşıv|sc=Cyrl}}
-* Croatian: {{t|hr|rijeka|f}}
+* Croatian: {{t-|hr|rijeka|f}}
 * Czech: {{t+|cs|řeka|f}}
 * Danish: {{t+|da|flod|c}}
 * Dutch: {{t+|nl|rivier|m}}, {{t+|nl|stroom|m}}
@@ -105,11 +105,11 @@ From {{etyl|fro|en}} {{term|rivière|lang=fro}} < {{etyl|VL.}} *{{term||riparia|
 * [[Khakas]]: {{tø|kjh|суғ|tr=suğ|sc=Cyrl}},  {{tø|kjh|ағын|tr=ağın|sc=Cyrl}}
 * [[Koryak]]: {{tø|kpy|вʼэем|tr=weyem|sc=Cyrl}}
 * [[Kumyk]]: {{tø|kum|оьзен|tr=özen|sc=Cyrl}}
-* [[Kyrgyz]]: {{t|ky|өзөн|tr=özön|sc=Cyrl}},  {{t|ky|суу|tr=suu|sc=Cyrl}},  {{t|ky|дарыя|tr=darıya|sc=Cyrl}},  {{t|ky|дайра|tr=dayra|sc=Cyrl}}
+* [[Kyrgyz]]: {{t|ky|өзөн|tr=özön|sc=Cyrl|xs=Kyrgyz}},  {{t|ky|суу|tr=suu|sc=Cyrl|xs=Kyrgyz}},  {{t|ky|дарыя|tr=darıya|sc=Cyrl|xs=Kyrgyz}},  {{t|ky|дайра|tr=dayra|sc=Cyrl|xs=Kyrgyz}}
 * {{trreq|Lao}}
-* Latin: {{t|la|flumen|n|alt=flūmen}}
+* Latin: {{t+|la|flumen|n|alt=flūmen}}
 {{trans-mid}}
-* Latvian: {{t-|lv|upe|f|xs=Latvian}}
+* Latvian: {{t+|lv|upe|f|xs=Latvian}}
 * Lithuanian: {{t+|lt|upė|f|xs=Lithuanian}}
 * [[Luhya]]: {{tø|luy|eluchi}}
 * [[Macedonian]]: {{t-|mk|река|f|tr=réka}}
@@ -131,7 +131,7 @@ From {{etyl|fro|en}} {{term|rivière|lang=fro}} < {{etyl|VL.}} *{{term||riparia|
 * Polish: {{t+|pl|rzeka|f}}
 * Portuguese: {{t+|pt|rio|m}}
 * [[Powhatan]]: {{tø|pim|yeokanta}}
-* Romanian: {{t|ro|râu|n}},  {{t|ro|fluviu|n}}
+* Romanian: {{t+|ro|râu|n}},  {{t|ro|fluviu|n}}
 * Russian: {{t+|ru|река|f|tr=reká}}
 * [[Scottish Gaelic]]: {{t-|gd|abhainn|f|xs=Scottish Gaelic}}
 * [[Sicilian]]: {{t+|scn|ciumi|m|xs=Sicilian}}
@@ -146,10 +146,10 @@ From {{etyl|fro|en}} {{term|rivière|lang=fro}} < {{etyl|VL.}} *{{term||riparia|
 * {{trreq|Tibetan}}
 * [[Tok Pisin]]: {{t-|tpi|wara|xs=Tok Pisin}}
 * Turkish: {{t+|tr|ırmak}}, {{t+|tr|nehir}}
-* Turkmen: {{t|tk|derýa}}
+* Turkmen: {{t|tk|derýa|xs=Turkmen}}
 * [[Tutelo]]: {{tø|tta|taksitai}}
 * [[Tuvan]]: {{tø|tyv|хем|tr=xem|sc=Cyrl}}
-* Uzbek: {{t|uz|daryo}}
+* Uzbek: {{t-|uz|daryo|xs=Uzbek}}
 * Vietnamese: {{t+|vi|sông|xs=Vietnamese}}
 * Welsh: {{t-|cy|afon|f|xs=Welsh}}
 * [[West Frisian]]: {{t+|fy|rivier|xs=West Frisian}},  {{t-|fy|stream|xs=West Frisian}}
@@ -209,7 +209,7 @@ From {{etyl|fro|en}} {{term|rivière|lang=fro}} < {{etyl|VL.}} *{{term||riparia|
 * {{ttbc|Indonesian}}: [[sungai]]
 * {{ttbc|Interlingua}}: [[fluvio]], [[riviera]]
 * {{ttbc|Italian}}: [[fiume]] {{m}}
-* {{ttbc|Kannada}}: {{t|kn|ನದಿ|tr=nadi}}, {{t|kn|ಹೊಳೆ|tr=hoḷe}}
+* {{ttbc|Kannada}}: {{t|kn|ನದಿ|tr=nadi|sc=Knda|xs=Kannada}}, {{t|kn|ಹೊಳೆ|tr=hoḷe|sc=Knda|xs=Kannada}}
 * {{ttbc|Khmer}}: {{Khmr|[[ទន្លេ]]}} (dtūənlēi)
 * {{ttbc|Korean}}: [[내]] (nae), [[수]] ([[水]], su), [[강]] ([[江]], gang), 가람 (garam)
 * {{ttbc|Kurdish}}: [[çem]], [[ro]], [[robar]], {{ku-Arab|[[ڕوبار]]}}
