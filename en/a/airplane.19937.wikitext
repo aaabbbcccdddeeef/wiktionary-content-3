@@ -21,7 +21,7 @@ From {{term|aeroplane||lang=en}}
 * [[Alabama]]: [[piɬɬawakáyka]]
 * Albanian: {{t+|sq|aeroplan|xs=Albanian}}
 * [[Aleut]]: [[igaxtax]]
-* Arabic: {{t|ar|طائرة|f|tr=Taa'ira|sc=Arab}}
+* Arabic: {{t|ar|طائرة|f|tr=Taa'ira}}
 * Armenian: {{t+|hy|օդանավ|tr=ōdanav}}, {{t-|hy|ինքնաթիռ|tr=ink’nat’iṙ}}
 * [[Azeri]]: {{t+|az|təyyarə|xs=Azeri}}
 * Bosnian: {{t-|bs|avion|m}}
@@ -30,7 +30,7 @@ From {{term|aeroplane||lang=en}}
 * Cherokee: [[ᏥᏳ ᎦᏃᎯᎵᏙᎯ]] (ṣiyu ganohilidohi)
 * Chinese:
 *: Cantonese: [[飛機]], [[飞机]](fei1 gei1)
-*: Mandarin: {{t|zh|飛機|sc=Hani}},  {{t|zh|飞机|tr=fēijī|sc=Hani}},  {{t|zh|飛行機|sc=Hani}},  {{t|zh|飞行机|tr=fēixíngjī|sc=Hani}},  {{t|zh|飛龍機|sc=Hani}},  {{t|zh|飞龙机|tr=fēilóngjī|sc=Hani}}
+*: Mandarin: {{t-|cmn|飛機|sc=Hani}},  {{t-|cmn|飞机|tr=fēijī|sc=Hani}},  {{t-|cmn|飛行機|sc=Hani}},  {{t-|cmn|飞行机|tr=fēixíngjī|sc=Hani}},  {{t-|cmn|飛龍機|sc=Hani}},  {{t-|cmn|飞龙机|tr=fēilóngjī|sc=Hani}}
 * Croatian: [[avion]] {{m}}; [[zrakoplov]] {{m}}
 * Czech: {{t+|cs|letadlo|n}}
 * Danish: {{t+|da|flyvemaskine}},  {{t+|da|fly|n}}
@@ -44,8 +44,8 @@ From {{term|aeroplane||lang=en}}
 * German: {{t+|de|Flugzeug|n}}
 * Greek: {{t+|el|αεροπλάνο|n|tr=aeropláno}}, {{t+|el|αεροσκάφος|n|tr=aeroskáfos}}
 * [[Guaraní]]: [[kurusu veve]]
-* Hebrew: {{t|he|מטוס|m|tr=matos|alt=מָטוֹס|sc=Hebr}},  {{t|he|אוירון|m|tr=ăvirōn|alt=אֲוִירוֹן|sc=Hebr}}
-* Hindi: {{t|hi|हवाई जहाज|tr=havā'ī jahāj|sc=Deva}},  {{t|hi|वायु-यान|tr=vāyu - yān|sc=Deva}}
+* Hebrew: {{t+|he|מטוס|m|alt=מָטוֹס|tr=matos}},  {{t+|he|אוירון|m|alt=אֲוִירוֹן|tr=ăvirōn}}
+* Hindi: {{t|hi|हवाई जहाज|tr=havā'ī jahāj|xs=Hindi}},  {{t|hi|वायु-यान|tr=vāyu - yān|xs=Hindi}}
 * Hungarian: {{t+|hu|repülőgép}}
 * Icelandic: {{t+|is|flugvél|f}}
 * [[Inari Sami]]: [[kirdemmaašin]]
@@ -53,8 +53,8 @@ From {{term|aeroplane||lang=en}}
 * Irish: {{t|ga|eitleán|m|xs=Irish}}
 {{trans-mid}}
 * Italian: {{t+|it|aereo|m}}, {{t+|it|aeroplano|m}}
-* Japanese: {{t|ja|飛行機|tr=ひこうき, hikōki|sc=Jpan}},  {{t|ja|航空機|tr=こうくうき, kōkuuki|sc=Jpan}}
-* Korean: {{t|ko|비행기|tr=bihaenggi|sc=Kore}} ({{t|ko|飛行機|sc=Kore}})
+* Japanese: {{t+|ja|飛行機|tr=ひこうき, hikōki}},  {{t-|ja|航空機|tr=こうくうき, kōkuuki}}
+* Korean: {{t+|ko|비행기|tr=bihaenggi}} ({{t+|ko|飛行機}})
 * Kurdish:
 *: Sorani: {{t|ku|فڕۆکه|tr=fRoka|sc=ku-Arab}}, {{t|ku|ته‌یاره‌|tr=tayAra|sc=ku-Arab}}
 * Latin: [[aeroplanum]]
@@ -65,7 +65,7 @@ From {{term|aeroplane||lang=en}}
 * [[Northern Sami]]: [[girdi]]
 * Norwegian: {{t+|no|fly|n}}
 * [[Pashto]]: {{t-|ps|الوتكه|f|tr=alwatəka|sc=ps-Arab|xs=Pashto}}
-* Persian: {{t|fa|هَواپَيما|tr=havāpeymā|sc=fa-Arab}}
+* Persian: {{t|fa|هَواپَيما|tr=havāpeymā|xs=Persian}}
 * Polish: {{t+|pl|samolot|m}}
 * Portuguese: {{t+|pt|avião|m}}, {{t+|pt|aeroplano|m}}
 * Romanian: {{t-|ro|avion|n}}
@@ -82,10 +82,10 @@ From {{term|aeroplane||lang=en}}
 * [[Tagalog]]: {{t|tl|eroplano|xs=Tagalog}}
 * [[Tamil]]: [[விமானம்]] (vimAnam)
 * [[Telugu]]: [[విమానము]] (vimaanamu)
-* Thai: {{t|th|เครื่องบิน|tr=krêuang bin|sc=Thai}},  {{t|th|อากาศยาน|tr=aagàat yaan|sc=Thai}}
+* Thai: {{t|th|เครื่องบิน|tr=krêuang bin}},  {{t|th|อากาศยาน|tr=aagàat yaan}}
 * Turkish: [[uçak]], [[tayyare]] (''obsolete'')
-* Urdu: {{t|ur|ہوائی جہاز|sc=ur-Arab}},  {{t|ur|ہوائی پیما|sc=ur-Arab}}
-* Vietnamese: {{t|vi|máy bay}} {{qualifier|North, standard}}, {{t|vi|phi cơ}} ({{t|vi|飛機}}) {{qualifier|South}}
+* Urdu: {{t|ur|ہوائی جہاز|xs=Urdu}},  {{t|ur|ہوائی پیما|xs=Urdu}}
+* Vietnamese: {{t+|vi|máy bay|xs=Vietnamese}} {{qualifier|North, standard}}, {{t+|vi|phi cơ|xs=Vietnamese}} ({{t-|vi|飛機|sc=Hani|xs=Vietnamese}}) {{qualifier|South}}
 * [[West Frisian]]: [[fleantúch]] {{n}}, [[fleanmasine]]
 {{trans-bottom}}
 
