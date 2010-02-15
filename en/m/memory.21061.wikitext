@@ -57,9 +57,10 @@
 
 ====Translations====
 {{trans-top|ability to recall}}
-* Arabic: {{Arab|[[ذاكرة]]}} (ðākira) {{f}},  {{t|ar|ذاكرة|f|tr=dhaakira|sc=Arab}}
+* Arabic: {{t|ar|ذاكرة|f|tr=dhaakira|sc=Arab}}
 * Armenian: [[հիշողություն]] (hišoġut'yun)
-* Chinese: {{zh-ts|記憶|记忆}} (jìyì)
+* Chinese:
+*: Mandarin: {{t|zh|記憶|sc=Hani}},  {{t|zh|记忆|tr=jìyì|sc=Hani}}
 * Croatian: {{t-|hr|pamćenje|n|alt=pȃmćēnje}}
 * Czech: {{t-|cs|paměť|f}}
 * Dutch: {{t+|nl|geheugen|n}}
@@ -73,13 +74,12 @@
 * Hindi: {{t|hi|स्मृति|f|tr=smr̥ti|sc=Deva}},  {{t|hi|याद|tr=yād|sc=Deva}}
 * Hungarian: {{t|hu|emlékezet}}
 * Italian: {{t+|it|memoria|f}}
-* Japanese: [[記憶]] ([[きおく]], [[kioku]]),  {{t|ja|記憶|tr=きおく, kioku|sc=Jpan}}
+* Japanese: {{t|ja|記憶|tr=きおく, kioku|sc=Jpan}}
 {{trans-mid}}
-* Korean: [[기억]] (gieok),  {{t|ko|기억|tr=gieok|sc=Kore}},  {{t|ko|記憶|sc=Kore}}
+* Korean: {{t|ko|기억|tr=gieok|sc=Kore}} ({{t|ko|記憶|sc=Kore}})
 * Latin: {{t-|la|memoria|f}}
 * Lithuanian: {{t+|lt|atmintis|f|xs=Lithuanian}}
 * [[Malayalam]]: {{t|ml|ഓര്‍മ്മശക്തി|tr=ormasakthi|sc=Mlym|xs=Malayalam}}
-* Mandarin: {{t|zh|記憶|sc=Hani}},  {{t|zh|记忆|tr=jìyì|sc=Hani}}
 * Old English: {{t-|ang|gemynd|alt=ġemynd|xs=Old English}}
 * Polish: {{t+|pl|pamięć|f}}
 * Portuguese: {{t+|pt|memória|f}}
@@ -89,7 +89,7 @@
 * Slovene: {{t+|sl|spomin|m}}
 * Spanish: {{t-|es|memoria|f}}
 * Swedish: {{t+|sv|minne|n}}
-* Thai: {{Thai|[[ความจำ]]}} (kwaam jam), {{Thai|[[ความทรงจำ]]}} (kwaam song jam),  {{t|th|ความจำ|tr=kwaam-jam|sc=Thai}},  {{t|th|ความทรงจำ|tr=kwaam-song-jam|sc=Thai}}
+* Thai: {{t|th|ความจำ|tr=kwaam-jam|sc=Thai}},  {{t|th|ความทรงจำ|tr=kwaam-song-jam|sc=Thai}}
 * Turkish: {{t+|tr|hafıza}},  {{t+|tr|bellek}}
 * Urdu: {{t|ur|یاد|tr=yād|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|trí nhớ|xs=Vietnamese}}
@@ -97,6 +97,8 @@
 
 {{trans-top|stored record}}
 * Armenian: [[հիշողություն]] (hišoġut'yun)
+* Chinese:
+*: Mandarin: {{t|zh|記憶|sc=Hani}},  {{t|zh|记忆|tr=jìyì|sc=Hani}}
 * Croatian: {{t-|hr|sjećanje|n}}
 * Czech: {{t-|cs|vzpomínka|f}}
 * Dutch: {{t+|nl|herinnering|f}}
@@ -109,7 +111,7 @@
 * Hungarian: {{t+|hu|emlék}}
 * Italian: {{t+|it|memoria|f}}
 {{trans-mid}}
-* Japanese: [[記憶]] ([[きおく]], [[kioku]])
+* Japanese: {{t|ja|記憶|tr=きおく, kioku|sc=Jpan}}
 * Latin: {{t-|la|memoria|f}}
 * [[Malayalam]]: {{t|ml|ഓര്‍മ്മ|tr=Orma|sc=Mlym|xs=Malayalam}}
 * Polish: {{t+|pl|wspomnienie|n}}
@@ -125,7 +127,8 @@
 
 {{trans-top|RAM or ROM}}
 * Armenian: [[հիշողություն]] (hišoġut'yun)
-* Chinese: [[内存]] (nèicún)
+* Chinese:
+*: Mandarin: {{t|zh|內存|sc=Hani}},  {{t|zh|内存|tr=nèicún|sc=Hani}}
 * Czech: {{t-|cs|paměť|f}}
 * Dutch: {{t+|nl|geheugen|n}}
 * Finnish: {{t+|fi|muisti}}
