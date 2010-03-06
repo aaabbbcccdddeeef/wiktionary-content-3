@@ -33,33 +33,27 @@ Usually italicized.
 
 ----
 
-==Bosnian==
+==Serbo-Croatian==
+
+===Pronunciation===
+* {{IPA|/ûstaːʋ/|lang=sh}}
+* {{hyphenation|u|stav}}
 
 ===Noun===
-{{bs-noun|g=m|ustavi}}
+{{sh-noun|g=m|head=ȕstāv|r|устав|у̏ста̄в}}
 
 # [[constitution]]
 # [[#English|ustav]]
 
-----
-
-==Croatian==
-
-===Noun===
-{{infl|hr|noun|g=m}}
-
-# [[constitution]]
-# [[#English|ustav]]
-# [[typicon]]
-
-----
-
-==Serbian==
-
-===Noun===
-{{sr-noun|g=m|pl=ustavi|cyr=устав}}
-
-# [[constitution]]
-# [[#English|ustav]]
+====Declension====
+{{sh-decl-noun
+|ustav|ustavi
+|ustava|ustava
+|ustavu|ustavima
+|ustav|ustave
+|ustave|ustavi
+|ustavu|ustavima
+|ustavom|ustavima
+}}
 
 [[nl:ustav]]
