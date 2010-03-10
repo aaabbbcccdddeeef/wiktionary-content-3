@@ -24,19 +24,20 @@ From [[moving]] [[picture]].
 ====Translations====
 {{trans-top|motion picture}}
 * [[Afrikaans]]: [[Vliek]], [[rollprent]]
-* Arabic: {{Arab|[[فيلم]]}} {{IPAchar|(film)}} {{m}},  {{t|ar|فيلم|m|tr=film|sc=Arab}},  {{t|ar|أفلام|m|p|tr='aflaam|sc=Arab}}
+* Arabic: {{t|ar|فيلم|m|tr=film|sc=Arab}} ({{t|ar|أفلام|m|p|tr='aflaam|sc=Arab}})
 * [[Breton]]: [[film]] {{m}}
-* Bulgarian: [[филм]] (film) {{m}} (1, 2),  {{t|bg|филм|m|tr=film|sc=Cyrl}}
-* Chinese: [[電影]], [[电影]] (diàn yǐng)
+* Bulgarian: {{t|bg|филм|m|tr=film|sc=Cyrl}}
+* Chinese:
+*: Mandarin: {{t|zh|電影|sc=Hani}},  {{t|zh|电影|tr=diànyǐng|sc=Hani}},  {{t|zh|影片|tr=yǐngpiàn|sc=Hani}}
 * Czech: {{t+|cs|film|m}}
 * Dutch: {{t+|nl|film|m}}
 * Esperanto: {{t-|eo|filmo|xs=Esperanto}}
 * Filipino: {{tø|fil|pelikula}},  {{tø|fil|sine}}
 * Finnish: {{t+|fi|elokuva}}
 * French: {{t+|fr|cinéma|m}}, {{t+|fr|film|m}}
-* Georgian: [[ფილმი]] (p‘ilmi),  {{t|ka|ფილმი|tr=p‘ilmi|sc=Geor}}
+* Georgian: {{t|ka|ფილმი|tr=p‘ilmi|sc=Geor}}
 * German: {{t+|de|Film|m}}
-* Greek: [[ταινία]] (tenía) {{f}} (film, abbreviation of cinematographic film), [[έργο]] (érɣo) {{n}} (work, abbreviation of cinematographic work), [[φιλμ]] (film) {{n}}
+* Greek: {{t|el|ταινία|f|tr=tenía}} (film, abbreviation of cinematographic film), {{t|el|έργο|n|tr=érɣo}} (work, abbreviation of cinematographic work), {{t|el|φιλμ|n|tr=film}}
 * [[Gujarati]]: [[ચિત્રપટ]] (chitraput)
 * Hebrew: [[סרט]] (seret) {{m}},  {{t|he|סרט|m|tr=seret|sc=Hebr}}
 * Hindi: {{t|hi|फ़िल्म|tr=film|sc=Deva}}
@@ -45,14 +46,13 @@ From [[moving]] [[picture]].
 * Icelandic: {{t+|is|bíómynd|f}}, {{t+|is|mynd|f}}, {{t+|is|kvikmynd|f}}
 * [[Ido]]: {{t+|io|filmo|xs=Ido}}
 * Italian: {{t+|it|cinema|m}}, {{t+|it|film|m}}
-* Japanese: [[映画]] ([[えいが]], eiga),  {{t|ja|映画|tr=えいが, eiga|sc=Jpan}}
-* Korean: [[영화]] (yeong-hwa),  {{t|ko|영화|tr=yeonghwa|sc=Kore}},  {{t|ko|映畫|sc=Kore}}
+* Japanese: {{t|ja|映画|tr=えいが, eiga|sc=Jpan}}
+* Korean: {{t|ko|영화|tr=yeonghwa|sc=Kore}} ({{t|ko|映畫|sc=Kore}})
 * [[Macedonian]]: [[филм]] {{m}},  {{t|mk|филм|m|tr=film|sc=Cyrl}}
-* Mandarin: {{t|zh|電影|sc=Hani}},  {{t|zh|电影|tr=diànyǐng|sc=Hani}},  {{t|zh|影片|tr=yǐngpiàn|sc=Hani}}
 * Persian: {{t|fa|فیلم|tr=film|sc=fa-Arab}}
 * Polish: {{t+|pl|film|m}}
 * Portuguese: [[filme]] {{m}} (1); [[cinema]] {{m}} (2)
-* Russian: [[фильм]] (fil’m) {{m}}, [[кино]] (kinó) {{n}} {{indeclinable}},  {{t|ru|фильм|m|tr=fil’m|sc=Cyrl}},  {{t|ru|кино|n|tr=kinó|sc=Cyrl}},  {{t|ru|кинофильм|m|tr=konofíl'm|sc=Cyrl}}
+* Russian: {{t|ru|фильм|m|tr=fil’m|sc=Cyrl}},  {{t|ru|кино|n|tr=kinó|sc=Cyrl}} {{indeclinable}},  {{t|ru|кинофильм|m|tr=konofíl'm|sc=Cyrl}}
 * Serbo-Croatian: {{t|sh|филм|m|sc=Cyrl}},  {{t|sh|film|m|sc=Cyrl}}
 * Slovak: {{t-|sk|film|m}}
 * Slovene: {{t|sl|film|m}}
@@ -60,10 +60,10 @@ From [[moving]] [[picture]].
 * Swedish: {{t+|sv|bio|c}}
 * [[Tagalog]]: {{t|tl|pelikula|xs=Tagalog}},  {{t-|tl|sine|xs=Tagalog}}
 * [[Telugu]]: [[చలన చిత్రం]] (chalana chitram)
-* Thai: {{Thai|[[ฟิล์ม]]}} (film),  {{t|th|ฟิล์ม|tr=film|sc=Thai}}
+* Thai: {{t|th|ฟิล์ม|tr=film|sc=Thai}}
 * Ukrainian: {{t|uk|фільм|m|tr=fil’m|sc=Cyrl}},  {{t|uk|кіно|n|tr=kinó|sc=Cyrl}}
 * Urdu: {{t|ur|فلم|tr=film|sc=ur-Arab}}
-* Vietnamese: {{t|vi|phim}},  {{t|vi|điện ảnh}},  {{t|vi|電影}}
+* Vietnamese: {{t|vi|phim}},  {{t|vi|điện ảnh}} ({{t|vi|電影}})
 {{trans-bottom}}
 
 [[Category:Cinematography]]
