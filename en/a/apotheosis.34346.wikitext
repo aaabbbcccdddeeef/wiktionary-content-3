@@ -33,13 +33,37 @@ From {{etyl|grc}} {{term|ἀποθέωσις|sc=polytonic}}, from verb {{term|�
 * [[apotheosize]]
 
 ====Translations====
-{{trans-top|becoming a god}}
+{{trans-top|deification; becoming a god}}
 * Bulgarian: {{t|bg|обожествяване}}
-* German: [[Vergötterung]] {{f}}
+* French: {{t+|fr|apothéose|f}}
+* German: {{t|de|Vergötterung|f}}
 {{trans-mid}}
 * [[Macedonian]]: {{t|mk|апотеоза|f|tr=apoteóza|sc=Cyrl}},  {{t|mk|боготворење|n|tr=bogotvórenje|sc=Cyrl}}
+* Spanish: {{t|es|apoteosis|f}}
 * Swedish: [[apoteos]] {{c}}
 {{trans-bottom}}
+
+----
+
+==Latin==
+
+===Etymology===
+From {{etyl|grc|la}} {{term|ἀποθέωσις|sc=polytonic}}, from verb {{term|ἀποθεόω||deify|sc=polytonic}} (factitive verb formed from {{term|θεός||God|sc=polytonic}} with intensive prefix {{term|ἀπο-|sc=polytonic}}).
+
+===Pronunciation===
+* {{a|Classical}} {{IPA|/a.po.tʰeˈoː.sis/|lang=la}}
+
+===Noun===
+{{la-noun|apotheōsis|apotheosis|apotheōsis|f|third}}
+
+# [[#English|apotheosis]], [[deification]]
+
+====Inflection====
+{{la-decl-3rd-PAR|apotheosis|apotheōsis|apotheos|apotheōs}}
+
+====Descendants====
+* French: {{l|fr|apothéose}}
+* Spanish: {{l|es|apoteosis}}
 
 [[et:apotheosis]]
 [[el:apotheosis]]
