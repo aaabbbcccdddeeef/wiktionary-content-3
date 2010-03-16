@@ -71,7 +71,7 @@
 * Hindi: {{t-|hi|अच्छा|tr=acchā|xs=Hindi}}
 * Italian: {{t+|it|bene}}
 * Japanese: {{t|ja|良く|tr=yoku}}
-* Korean: {{t+|ko|잘|tr=jal}}
+* Korean: {{t+|ko|잘|tr=jal|sc=Hang}}
 * Lithuanian: {{t-|lt|gerai|xs=Lithuanian}}
 {{trans-mid}}
 * Mongolian: {{t|mn|худаг|tr=húdag|sc=Cyrl|xs=Mongolian}}
@@ -107,7 +107,7 @@
 * German: {{t+|de|ganz}}
 * Japanese: {{t|ja|良く|tr=yoku}}
 {{trans-mid}}
-* Romanian: {{t|ro|bine}}
+* Romanian: {{t-|ro|bine}}
 * Russian: [[хорошо]] (xorošó), [[как следует]] (kak sl'édujet)
 * [[Scots]]: [[weel]]
 * [[Scottish Gaelic]]: {{t-|gd|gu math|xs=Scottish Gaelic}}
@@ -146,19 +146,19 @@
 * French: {{t+|fr|vachement}}
 * Portuguese: {{t+|pt|bem}}
 {{trans-mid}}
-* Romanian: {{t|ro|foarte}}
+* Romanian: {{t-|ro|foarte}}
 * Swahili: {{t+|sw|kisima|xs=Swahili}}, {{t+|sw|kisima|xs=Swahili}}
 * Welsh: {{t-|cy|iawn|xs=Welsh}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|Dutch}}: {{t|nl|goed}}, {{t|nl|wel}}
+* {{ttbc|Dutch}}: {{t+|nl|goed}}, {{t+|nl|wel}}
 * {{ttbc|Hebrew}}: [[היטב]]
 * {{ttbc|Ido}}: [[bone]]
 {{checktrans-mid}}
 * {{ttbc|Italian}}: [[bene]]
 * {{ttbc|Korean}}: [[잘]] (jal)
-* {{ttbc|Spanish}}: {{t|es|bien}}
+* {{ttbc|Spanish}}: {{t+|es|bien}}
 * {{ttbc|Telugu}}: [[బాగా]] (baagaa)
 {{checktrans-bottom}}
 
@@ -207,10 +207,10 @@
 * Swahili: {{t+|sw|kisima|xs=Swahili}}
 * Swedish: {{t+|sv|frisk}}
 * [[Telugu]]: [[బాగు]] (baagu)
-* Thai: {{t|th|สบาย|tr=sà-baai}},  {{t|th|สบายดี|tr=sà-baai dee|sc=Thai}}
+* Thai: {{t|th|สบาย|tr=sà-baai}},  {{t|th|สบายดี|tr=sà-baai dee}}
 * [[Tok Pisin]]: [[no]] [[sik]]
 * Turkish: {{t+|tr|iyi}}
-* Vietnamese: {{t|vi|khỏe|xs=Vietnamese}},  {{t|vi|mạnh}}
+* Vietnamese: {{t|vi|khỏe|xs=Vietnamese}},  {{t|vi|mạnh|xs=Vietnamese}}
 * Welsh: {{t-|cy|iawn|xs=Welsh}}
 {{trans-bottom}}
 
@@ -253,7 +253,7 @@
 * [[Saterland Frisian]]: {{tø|stq|nu}}
 * [[Scots]]: [[weel]]
 * [[Scottish Gaelic]]: {{t-|gd|uill|xs=Scottish Gaelic}}
-* Slovak: {{t+|sk|no}}
+* Slovak: {{t-|sk|no}}
 * Slovene: {{t+|sl|no}}
 * Swahili: {{t+|sw|kisima|xs=Swahili}}
 * Swedish: {{t+|sv|tja}}, {{t+|sv|nå}}
@@ -295,7 +295,7 @@
 * Russian: {{t+|ru|ну|tr=nu}}, {{t-|ru|значит|tr=znáčit}}
 * [[Scots]]: [[weel]]
 * [[Scottish Gaelic]]: {{t-|gd|uill|xs=Scottish Gaelic}}
-* Slovak: {{t+|sk|no}}
+* Slovak: {{t-|sk|no}}
 * Slovene: {{t+|sl|no}}, {{t+|sl|torej}}
 * Swahili: {{t+|sw|kisima|xs=Swahili}}
 * Swedish: {{t+|sv|tja}}, {{t-|sv|öh}}, {{t-|sv|eh}}
@@ -402,7 +402,7 @@
 * [[Ojibwe]]: [[onda'ibaan]]
 * {{trreq|Oriya}}
 * {{trreq|Persian}}
-* Polish: [[studnia]] {{f}}
+* Polish: {{t+|pl|studnia|f}}
 * Portuguese: {{t+|pt|poço|m}}
 * [[Punjabi]]: [[ਖੂਹ]] (khūh)
 * Romanian: [[fântână]] {{f}} (for water) [[puţ]] {{n}} (both for water and oil, gas, etc.)
