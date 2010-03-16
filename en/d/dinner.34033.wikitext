@@ -69,9 +69,9 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch, but originally breakfast}}, 
 * {{ttbc|Arabic}}: {{rfc-tbot}}{{t-|ar|عشاء|tr={{LR}}3ashaa'|alt=عَشاء}}
 *: Egyptian Arabic: {{rfc-tbot}}{{tø|arz|عشاء|tr={{LR|sc=Arab|xs=Egyptian Arabic}}3ashaa'|sc=Arab}}
 * Armenian: [[ճաշ]] (č̣aš)
-* [[Basque]]: {{t|eu|afari}}
+* [[Basque]]: {{t|eu|afari|xs=Basque}}
 * Bosnian: {{t-|bs|večera|f}}
-* Bulgarian: {{t|bg|вечеря|f|sc=Cyrl}}
+* Bulgarian: {{t+|bg|вечеря|f}}
 * Cantonese: [[晚飯]] maan<sup>5</sup>faan<sup>6</sup>
 * Czech: {{t+|cs|oběd|m}}
 * Danish: {{t+|da|middag}}
@@ -89,14 +89,14 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch, but originally breakfast}}, 
 * Japanese: {{Jpan|[[夕食]]}} ({{Jpan|[[ゆうしょく]]}}, yūshoku)
 * Kurdish:
 *: [[Kurmanji]]: {{t|ku|şîv}} {{f}}
-* Latin: {{t|la|cena|f|alt=cēna}}
+* Latin: {{t+|la|cena|f|alt=cēna}}
 * Latvian: [[pusdienas]] {{f|p}}
 * [[Macedonian]]: {{t-|mk|вечера|f|tr=véčera}}
 * Maltese: {{t-|mt|ċena|f|xs=Maltese}}
 * Mandarin: [[晚饭]] (wănfàn); [[晚餐]] (wăncān)
 * Mongolian: {{t|mn|оройн хоол|tr=orojn hool|sc=Cyrl|xs=Mongolian}}
 * Polish: {{t+|pl|obiad|m}}
-* Portuguese: {{t|pt|jantar}}
+* Portuguese: {{t+|pt|jantar}}
 * Romanian: {{t|ro|cină}}
 * Russian: {{t+|ru|ужин|m|tr=úžin}}
 * Serbian:
@@ -108,7 +108,7 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch, but originally breakfast}}, 
 {{trans-bottom}}
 
 {{trans-top|a meal given to an animal}}
-* Bulgarian: {{t|bg|хранене|n|sc=Cyrl}}
+* Bulgarian: {{t|bg|хранене|n}}
 * Czech: {{t-|cs|žrádlo|n}}
 * Finnish: {{t+|fi|ruoka}}
 {{trans-mid}}
@@ -118,7 +118,7 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch, but originally breakfast}}, 
 
 {{trans-top|midday meal}}
 * Armenian: [[ճաշ]] (č̣aš)
-* Bulgarian: {{t|bg|обед|m|sc=Cyrl}}
+* Bulgarian: {{t+|bg|обед|m}}
 * Czech: {{t+|cs|oběd|m}}
 * Danish: {{t+|da|middag}}
 * Dutch: {{t|nl|middageten|n}}, {{t|nl|middagmaaltijd|m}}, {{t|nl|middagmaal|n}}, {{t+|nl|lunch|m}}
@@ -141,7 +141,7 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch, but originally breakfast}}, 
 
 {{trans-top|a formal meal}}
 * Armenian: [[ճաշ]] (č̣aš)
-* Bulgarian: {{t|bg|банкет|m|sc=Cyrl}}
+* Bulgarian: {{t|bg|банкет|m}}
 * Czech: {{t+|cs|oběd|m}}, {{t+|cs|večeře|f}}
 * Dutch: {{t|nl|dinee|n}}
 * Finnish: {{t+|fi|illallinen}}, {{t-|fi|päivällinen}}
