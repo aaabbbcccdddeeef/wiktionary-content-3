@@ -30,21 +30,28 @@ Derived from [[melden]] + [[-ing#Dutch|-ing]]. Cognate with Icelandic ''[[#Icela
 ==Icelandic==
 
 ===Etymology===
-Cognate with the Dutch {{term|melding|lang=nl}} and the German {{term|Meldung|lang=de}}.
+From {{term|melda||to report|lang=is}}, from {{etyl|da|is}} {{term|melde|lang=da}}, from {{etyl|gml|is}} {{term|melden|lang=gml}}, or directly from Danish {{term|melding|lang=da}}, from the same verb.
+
+===Pronunciation===
+* {{IPA|/ˈmɛltiŋk/|lang=is}}
+*: {{rhymes|ɛltiŋk|lang=is}}
 
 ===Noun===
 {{is-noun|f|meldingar|meldingar}}
 
-# {{context|informal|lang=is}} a [[message]], a [[notice]]{{jump|is|notice|s}}
+# {{context|informal|lang=is}} [[message]], [[notice]]
+# the act of [[report]]ing in, affirming one's presence or participation
 
 ====Declension====
-{{Icelandic declension kvk sb 02 u|melding}}
+{{is-decl-noun-f-s1|meld|i|ng|u=u}}
 
 ====Derived terms====
-* [[villumelding]]
+* {{l|is|villumelding}}
 
 ====Synonyms====
-* {{jump|s|is|notice}} [[tilkynning]], [[skipun]]
+* {{sense|notice}} {{l|is|tilkynning}}
+
+[[Category:Icelandic words suffixed with -ing]]
 
 [[id:melding]]
 [[is:melding]]
