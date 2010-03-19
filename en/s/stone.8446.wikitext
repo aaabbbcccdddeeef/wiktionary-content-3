@@ -69,7 +69,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * Armenian: {{t-|hy|քար|tr=k'ar}}
 * [[Aromanian]]: {{tø|rup|cheatrã}}
 * [[Asturian]]: [[piedra]] {{f}}
-* [[Azeri]]: {{t|az|daş|xs=Azeri}}
+* [[Azeri]]: {{t+|az|daş|xs=Azeri}}
 * [[Basque]]: [[harri]]
 * [[Breton]]: [[maen]] {{m}}, mein {{p}}
 * Bulgarian: {{t+|bg|камък|m|tr=kamǎk}}
@@ -86,10 +86,10 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * [[Eshtehardi]]: {{tø|esh|سینگ|tr=sing|sc=fa-Arab}}
 * Esperanto: {{t-|eo|ŝtono|xs=Esperanto}}
 * Estonian: {{t-|et|kivi}}
-* Faroese: {{t|fo|steinur|m}}
+* Faroese: {{t-|fo|steinur|m|xs=Faroese}}
 * Finnish: {{t+|fi|kivi}}
-* French: {{t+|fr|pierre|f}}, [[roche]]
-* Galician: [[pedra]], [[rocha]]
+* French: {{t+|fr|pierre|f}}, {{t+|fr|roche}}
+* Galician: {{t+|gl|pedra|xs=Galician}}, {{t-|gl|rocha|xs=Galician}}
 * German: {{t+|de|Stein|m}}
 * Greek: {{t+|el|λίθος|m|tr=líthos}}
 * [[Greenlandic]]: {{t-|kl|ujarak|xs=Greenlandic}}
@@ -109,7 +109,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * Korean: [[돌]] (dol)
 * Kurdish: {{t+|ku|kevir}}, {{t+|ku|ber}}, {{t+|ku|berd}}, {{t+|ku|kuç}}, {{t+|ku|به‌رد|sc=ku-Arab}}
 {{trans-mid}}
-* Latin: {{t+|la|lapis|m}},  {{t|la|petra}}
+* Latin: {{t+|la|lapis|m}},  {{t-|la|petra}}
 * Latvian: {{t-|lv|akmens|m|xs=Latvian}}
 * Lithuanian: {{t+|lt|akmuo|m|xs=Lithuanian}}
 * [[Logudorese Sardinian]]: [[preda]] {{f}}
@@ -128,7 +128,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * Persian: {{t+|fa|سنگ|alt=سَنگ|xs=Persian}}
 * [[Pitjantjatjara]]: [[apu]]
 * Polish: {{t+|pl|kamień|m}}
-* Portuguese: {{t+|pt|pedra|f}}, [[rocha]]
+* Portuguese: {{t+|pt|pedra|f}}, {{t+|pt|rocha}}
 * Romanian: {{t-|ro|piatră|f}}
 * Russian: {{t+|ru|камень|m|tr=kámen’}}
 * [[Santali]]: {{tø|sat|ᱫᱷᱤᱨᱤ|tr=dhiri|sc=Olck}}
@@ -137,7 +137,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * Serbian: {{t-|sr|kamen|m}}
 * Slovak: [[kameň]] {{m}}
 * Slovene: {{t+|sl|kamen|m}}
-* Spanish: {{t+|es|piedra|f}}, [[roca]]
+* Spanish: {{t+|es|piedra|f}}, {{t+|es|roca}}
 * Swahili: {{t+|sw|jiwe|xs=Swahili}}
 * Swedish: {{t+|sv|sten|c}}
 * [[Tagalog]]: [[bato]]
@@ -156,8 +156,8 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * [[Altai]]: {{tø|alt|таш|tr=taş|sc=Cyrl|xs=Southern Altai}}
 * Arabic: {{Arab|[[حجر|حَجَرٌ]]}} (ħájar) {{m}}
 * Armenian: {{t-|hy|քար|tr=k'ar}}
-* [[Azeri]]: {{t|az|daş|xs=Azeri}}
-* [[Bashkir]]: {{t-|ba|таш|tr=taş|sc=Cyrl|xs=Bashkir}}
+* [[Azeri]]: {{t+|az|daş|xs=Azeri}}
+* [[Bashkir]]: {{tø|ba|таш|tr=taş|sc=Cyrl|xs=Bashkir}}
 * [[Breton]]: [[kailhenn]] {{f}}, kailhoù {{p}}
 * Bulgarian: {{t+|bg|камък|m|tr=kamǎk}}
 * [[Buryat]]: {{tø|bxr|шулуун|tr=šuluun|sc=Cyrl}}
@@ -165,13 +165,13 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * [[Chagatai]]: {{tø|chg|تاش|tr=taş|sc=fa-Arab}}
 * [[Chuvash]]: [[чул]]
 * [[Crimean Tatar]]: {{tø|crh|taş}}
-* Croatian: [[stijena]]
+* Croatian: {{t+|hr|stijena}}
 * Czech: {{t+|cs|kámen|m}}
 * [[Dolgan]]: {{tø|dlg|таас|tr=taas|sc=Cyrl}}
 * Dutch: {{t+|nl|steen|m}}, {{t-|nl|steentje|n}}
 * Estonian: {{t-|et|kivi}}
 * Finnish: {{t+|fi|kivi}}
-* French: {{t+|fr|pierre|f}}, [[caillou]], [[roc]], [[roche]]
+* French: {{t+|fr|pierre|f}}, {{t+|fr|caillou}}, {{t+|fr|roc}}, {{t+|fr|roche}}
 * [[Gagauz]]: {{tø|gag|taş}}
 * German: {{t+|de|Stein|m}}
 * [[Greenlandic]]: {{t-|kl|ujarak|xs=Greenlandic}}
@@ -204,7 +204,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * [[Ottoman Turkish]]: {{tø|ota|طاش|tr=daş, taş|sc=ota-Arab|xs=Ottoman Turkish}}, {{tø|ota|حجر|tr=hacer|sc=ota-Arab|xs=Ottoman Turkish}}
 * Persian: {{t+|fa|سنگ|tr=sang|xs=Persian}}, {{t|fa|سنگریزه|xs=Persian}}, {{t+|fa|شن|xs=Persian}}
 * Polish: [[kamyk]] {{m}}
-* Portuguese: {{t+|pt|pedra|f}}, [[rocha]], [[calhau]]
+* Portuguese: {{t+|pt|pedra|f}}, {{t+|pt|rocha}}, {{t+|pt|calhau}}
 * Russian: {{t+|ru|камень|m|tr=kámen’}}
 * [[Shor]]: {{tø|cjs|таш|tr=taş|sc=Cyrl}}
 * Slovene: {{t+|sl|kamen|m}}
@@ -217,7 +217,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * Thai: {{t+|th|ก้อนหิน|tr=gôn hĭn}}
 * [[Tupinambá]]: [[itá]]
 * Turkish: {{t+|tr|taş}}
-* Turkmen: {{t|tk|daş|xs=Turkmen}}
+* Turkmen: {{t-|tk|daş|xs=Turkmen}}
 * [[Tuvan]]: {{tø|tyv|даш|tr=daş|sc=Cyrl}}
 * Ukrainian: {{t|uk|камінець|m|tr=kaminets’|xs=Ukrainian}}
 * [[Uyghur]]: {{t+|ug|تاش|tr=tax|sc=ug-Arab|xs=Uyghur}}
@@ -348,7 +348,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 * [[Breton]]: [[labezañ]], [[meinata]]
 * Czech: {{t-|cs|kamenovat}}
 * Dutch: [[stenigen]]
-* Faroese: {{t|fo|steina}}
+* Faroese: {{t-|fo|steina|xs=Faroese}}
 * Finnish: {{t+|fi|kivittää}}
 * French: {{t+|fr|lapider}}
 * German: {{t+|de|steinigen}}
@@ -417,7 +417,7 @@ From {{etyl|ang|en}} {{term|stan|stān|lang=ang}}, from {{proto|Germanic|stainaz
 {{trans-mid}}
 * [[Macedonian]]: {{t-|mk|камен|m|tr=kámen}}
 * Persian: {{t|fa|سنگی|xs=Persian}}
-* Polish: [[kamienny]] {{m}}
+* Polish: {{t+|pl|kamienny|m}}
 * Portuguese: de [[pedra]], [[pétreo]]
 * Russian: {{t+|ru|каменный|tr=kámennyj}}
 * Spanish: de [[piedra]], [[pétreo]] {{m}}, [[pétrea]] {{f}}
