@@ -79,15 +79,15 @@ An urban city is typically larger than a rural town, which in turn is typically 
 * [[Afrikaans]]: {{t+|af|dorp|xs=Afrikaans}}
 * [[Ainu]]: [[コタン]] (kotan)
 * Albanian: {{t-|sq|qytet|xs=Albanian}}
-* Arabic: {{t|ar|مدينة|f|tr=madiina|sc=Arab}}, {{t|ar|قرية|f|tr=qárya|alt=قَرْيَةٌ|sc=Arab}}, {{t|ar|بلدة|f|tr=bálda|sc=Arab}}
-* Armenian: {{t|hy|քաղաք|tr=k'aġak'|sc=Armn}}, {{t|hy|ավան|tr=avan|sc=Armn}}
+* Arabic: {{t+|ar|مدينة|f|tr=madiina}}, {{t+|ar|قرية|f|alt=قَرْيَةٌ|tr=qárya}}, {{t+|ar|بلدة|f|tr=bálda}}
+* Armenian: {{t+|hy|քաղաք|tr=k'aġak'}}, {{t-|hy|ավան|tr=avan}}
 * [[Basque]]: {{t-|eu|herri|xs=Basque}}
-* Belarusian: {{t|be|горад|m|tr=hórad|sc=Cyrl}}
-* Bengali: {{t|bn|শহর|tr=śahara|sc=Beng}}
+* Belarusian: {{t|be|горад|m|tr=hórad|xs=Belarusian}}
+* Bengali: {{t|bn|শহর|tr=śahara|sc=Beng|xs=Bengali}}
 * Bosnian: {{t-|bs|grad|m}}, {{t-|bs|varoš}}
 * [[Breton]]: [[kêr]] {{f}}, kêrioù {{p}}, [[kumun]] {{f}}, kumunioù {{p}}
 * Bulgarian: {{t+|bg|град|m|tr=grad}}
-* Burmese: {{t|my|မြို့|tr=mrui|sc=Mymr}}
+* Burmese: {{t|my|မြို့|tr=mrui|sc=Mymr|xs=Burmese}}
 * [[Catalan]]: {{t+|ca|ciutat}}
 * [[Chamicuro]]: {{tø|ccc|chi'nashtalichi}}
 * [[Chechen]]: {{tø|ce|юрт|tr=jurt|sc=Cyrl|xs=Chechen}}
@@ -107,7 +107,7 @@ An urban city is typically larger than a rural town, which in turn is typically 
 * German: {{t+|de|Gemeinde|f}}, {{t+|de|Stadt|f}}, {{t+|de|Ort|m}}, {{t|de|Städtchen|n}}
 * Greek: {{t+|el|κωμόπολη|f|tr=komópoli}}, {{t+|el|πολίχνη|f}}, {{t+|el|κώμη|f}}
 * Hebrew: {{t+|he|עיר|f|alt=עִיר|tr=ir}}
-* Hindi: {{t|hi|नगर|tr=nagar|sc=Deva}}
+* Hindi: {{t-|hi|नगर|tr=nagar|xs=Hindi}}
 * Hungarian: {{t+|hu|város}}
 * [[Ido]]: {{t+|io|urbo|xs=Ido}}
 * Irish: {{t+|ga|baile|m|xs=Irish}}
@@ -115,10 +115,10 @@ An urban city is typically larger than a rural town, which in turn is typically 
 * Japanese: {{t+|ja|街}}, {{t+|ja|町}}, {{t-|ja|まち|tr=machi}}
 * [[Kamba]]: {{tø|kam|taunii}}
 * Kazakh: {{t+|kk|қала|tr=qala|sc=Cyrl|xs=Kazakh}}
-* [[Khmer]]: {{t|km|ទីក្រុង|tr=dtī grong|sc=Khmr}}, {{t|km|ផ្សារ|tr=psā|sc=Khmr}}
+* [[Khmer]]: {{t-|km|ទីក្រុង|tr=dtī grong|sc=Khmr|xs=Khmer}}, {{t-|km|ផ្សារ|tr=psā|sc=Khmr|xs=Khmer}}
 {{trans-mid}}
 * [[Kikuyu]]: {{tø|ki|taoni}}
-* Korean: {{t|ko|마을|tr=ma-eul|sc=Kore}}, {{t|ko|읍|tr=eup|sc=Kore}}
+* Korean: {{t+|ko|마을|tr=ma-eul}}, {{t|ko|읍|tr=eup}}
 * Kurdish: {{t|ku|bajarok}}
 * Latin: {{t+|la|oppidum|n}}
 * Lithuanian: {{t+|lt|miestelis|m|xs=Lithuanian}}
@@ -126,17 +126,17 @@ An urban city is typically larger than a rural town, which in turn is typically 
 * [[Macedonian]]: {{t-|mk|град|m|tr=grád}}, {{t-|mk|паланка|f|tr=pálanka}}
 * Malay: {{t-|ms|bandar|xs=Malay}}
 * Maltese: {{t-|mt|raħal|xs=Maltese}}
-* Maori: {{t|mi|tāone}}
+* Maori: {{t|mi|tāone|xs=Maori}}
 * [[Meru]]: {{tø|mer|tauni}}
 * Navajo: {{tø|nv|kin shijaaʼ}}, {{tø|nv|kin łání}}, {{tø|nv|kin}}
 * Norwegian: {{t+|no|by}}
-* [[Old English]]: {{t|ang|andefera}}, {{t|ang|burg}}
+* [[Old English]]: {{t|ang|andefera|xs=Old English}}, {{t-|ang|burg|xs=Old English}}
 * [[Old French]]: {{tø|fro|vile|f}}
-* Persian: {{t|fa|شهرک|sc=fa-Arab}}
+* Persian: {{t|fa|شهرک|xs=Persian}}
 * Polish: {{t+|pl|miasto|n}}, {{t|pl|gród|m}}
 * Portuguese: {{t+|pt|vila|f}}, {{t+|pt|aldeia|f}}, {{t+|pt|povoado|m}}, {{t+|pt|arraial|m}}
 * Romanian: {{t+|ro|oraş|n}}, [[oraşe]] {{p}}
-* Russian: {{t+|ru|город|m|tr=górod}}, {{t|ru|городок|m|tr=gorodók}}, {{t|ru|посёлок|m|tr=posjólok|sc=Cyrl}}, {{t|ru|местечко|n|tr=mestéčko|sc=Cyrl}}
+* Russian: {{t+|ru|город|m|tr=górod}}, {{t|ru|городок|m|tr=gorodók}}, {{t+|ru|посёлок|m|tr=posjólok}}, {{t|ru|местечко|n|tr=mestéčko}}
 * Sanskrit: {{t-|sa|नगर|n|tr=nágara|xs=Sanskrit}}
 * [[Scots]]: {{tø|sco|toun|xs=Scots}}
 * [[Scottish Gaelic]]: [[baile#Scottish Gaelic|baile]] {{m}}
@@ -151,10 +151,10 @@ An urban city is typically larger than a rural town, which in turn is typically 
 * [[Taos]]: [[plòso’óna]]
 * [[Telugu]]: {{t|te|పట్టణము|tr=paTTaNamu}}, {{t|te|పట్నము|tr=paTnamu}}
 * [[Tetum]]: {{tø|tet|sidade}}
-* Thai: {{t|th|เมือง|tr=meuang|sc=Thai}}, {{t|th|พารา|tr=paaraa|sc=Thai}}, {{t|th|นคร|tr=nákon|sc=Thai}}
-* [[Tongan]]: {{t|to|kolo}}
+* Thai: {{t+|th|เมือง|tr=meuang}}, {{t|th|พารา|tr=paaraa}}, {{t+|th|นคร|tr=nákon}}
+* [[Tongan]]: {{tø|to|kolo|xs=Tongan}}
 * Turkish: {{t+|tr|ilçe}}, {{t+|tr|kasaba}}
-* Ukrainian: {{t|uk|місто|n|tr=místo|sc=Cyrl}}
+* Ukrainian: {{t+|uk|місто|n|tr=místo|xs=Ukrainian}}
 * Vietnamese: {{t+|vi|tỉnh|xs=Vietnamese}}
 * Welsh: {{t-|cy|tref|f|xs=Welsh}}
 * [[West Frisian]]: {{t+|fy|stêd|c|xs=West Frisian}}
