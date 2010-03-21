@@ -204,7 +204,7 @@ From ''[[rookie]]''.
 * {{audio|Nl-rook.ogg|audio}}
 
 ====Noun====
-{{nl-noun|g=m|pl=-|dim=-}}
+{{nl-noun|g=m|-|-}}
 
 # [[smoke]]
 
@@ -212,23 +212,17 @@ From ''[[rookie]]''.
 * [[rookontwikkeling]]
 * [[rookwolk]]
 
-===Etymology 2===
-inflection of [[roken]]
-
 ====Verb====
 '''rook'''
 
-# {{conjugation of|roken||1|s|present|lang=nl}}
+# {{nl-verb-form|p=1|n=sg|t=pres|roken}}
+# {{nl-verb-form|m=imp|roken}}
 
-===Etymology 3===
-inflection of [[ruiken]]
-
+===Etymology 2===
 ====Verb====
-{{infl|nl|verb}}
+'''rook'''
 
-# {{conjugation of|ruiken||s|past|lang=nl}}
-
-[[Category:Dutch verb forms]]
+# {{nl-verb-form|n=sg|t=past|ruiken}}
 
 [[es:rook]]
 [[fr:rook]]
