@@ -1,17 +1,17 @@
-<!--If you edit this page, please also edit "armour" to ensure these pages remain in sync.-->
 ==English==
 
+
+===Alternative spellings===
+* [[armour]] {{qualifier|Commonwealth}}
+
 ===Etymology===
-{{etyl|enm}} {{term|armour|armo(u)r/armure|lang=enm}}, from {{etyl|xno}} {{term|armure|armour(e)/armure|lang=xno}}, from {{etyl|fro}} {{term|armure|armëure|lang=fro}}, from {{etyl|la}} {{term|armatura|armātūra|lang=la}}.
+From {{etyl|enm}} {{term|armour|armo(u)r/armure|lang=enm}}, from {{etyl|xno}} {{term|armure|armour(e)/armure|lang=xno}}, from {{etyl|fro}} {{term|armure|armëure|lang=fro}}, from {{etyl|la}} {{term|armatura|armātūra|lang=la}}.
 
 ===Pronunciation===
 * {{a|US}} {{IPA|ˈɑːɹmɚ}}
+* {{a|UK}} {{IPA|/ˈɑːmə/}}
 * {{audio|en-us-armor.ogg|Audio (US)}}
-
 * {{rhymes|ɑː(r)mə(r)}}
-
-===Alternative spellings===
-* [[armour]] (''UK'')
 
 ===Noun===
 {{wikipedia|armour|armor}}
@@ -21,13 +21,38 @@
 # {{uncountable}} A natural form of this kind of protection on an animal's body.
 # {{uncountable}} Metal plate, protecting a ship, military vehicle, or aircraft.
 # {{countable}} A [[tank]], or other heavy mobile assault vehicle.
-# {{uncountable}} A [[military]] [[formation]] consisting primarily of [[tanks]] or other [[armoured fighting vehicles]].
+# {{military|uncountable}} A [[military]] [[formation]] consisting primarily of [[tanks]] or other [[armoured fighting vehicles]],  collectively.
+
+====Synonyms====
+* {{sense|body armour}} [[body armour]], [[body armor]], [[mail]], [[chain mail]], [[plate]], [[suit of armour]], [[suit of armor]]
+* {{sense|animal}} [[horn]], [[carapace]], [[chitin]]
+* {{sense|metal plate}} [[armour plate]], [[armor plate]]
+* {{sense|military}} [[mechanized]], [[cavalry]]
+
+====Derived terms====
+{{rel-top|terms derived from armor (noun)}}
+* [[appliqué armour]]
+* [[composite armour]]
+* [[armour-plated]]
+* [[armour plating]]
+* [[armoury]]
+{{rel-mid}}
+* [[spaced armour]]
+* [[stand-off armour]]
+* [[suit of armour]]
+* [[reactive armour]]
+* [[explosive reactive armour]]
+{{rel-bottom}}
+
+====Related terms====
+* [[arm]], [[arms]], [[armament]], [[armaments]]
 
 ====Translations====
-
 {{trans-top|body protection}}
-* Armenian: [[զրահ]] (zërah)
-* [[Catalan]]: {{t+|ca|armadura|f}}
+* Albanian: [[armor]], [[parzmore]]
+* Armenian: {{t|hy|զրահ|tr=zrah}},  {{t-|hy|պատյան|tr=patyan}}
+* Bulgarian: {{t+|bg|броня}}
+* [[Catalan]]: {{t|ca|arnés|m}}, {{t+|ca|armadura|f}}
 * Croatian: [[oklop]] {{m}}
 * Czech: {{t-|cs|brnění|n}}
 * Dutch: {{t+|nl|pantser|f}}
@@ -45,27 +70,32 @@
 * [[Macedonian]]: {{t-|mk|оклоп|m|tr=óklop}},  {{t|mk|панцир|m|tr=páncir}}
 * Polish: [[zbroja]] {{f}}, [[pancerz]] {{m}}
 * Portuguese: {{t+|pt|armadura|f}}
+* Slovak: {{t|sk|brnenie|n}}
 * Slovene: {{t+|sl|oklep|m}}
 * Spanish: {{t+|es|armadura|f}}
+* Swedish: [[rustning#Swedish|rustning]] {{f}}
 {{trans-bottom}}
-
 {{trans-top|animal's}}
+* Armenian: {{t|hy|զրահ|tr=zrah}},  {{t-|hy|պատյան|tr=patyan}}
+* Bulgarian: {{t|bg|защитна обвивка}}
+* Czech: {{t-|cs|krunýř|m}},  {{qualifier|colloquially}} {{t|cs|pancíř|m}}
 * Hebrew: {{t+|he|שריון|m}}
 * Japanese: [[鎧]] (yoroi)
 * [[Macedonian]]: {{t-|mk|оклоп|m|tr=óklop}},  {{t|mk|школка|f|tr=škólka}}
 * Polish: {{t+|pl|pancerz|m}}
 {{trans-mid}}
 * Portuguese: [[couraça]] {{f}}
+* Slovak: {{t|sk|pancier|m}}
 * Slovene: [[oklep]] {{m}}
 * Spanish: {{t-|es|coraza|f}}
 {{trans-bottom}}
-
-'''tank'''
-''See [[tank]]''
+{{trans-see|tank}}
 
 {{trans-top|other heavy mobile assault vehicle}}
+* Albanian: [[koracë]]
+* Czech: {{t|cs|obrněné vozidlo|n}}
 * Georgian: {{tø|ka|ჯავშან-ტექნიკა}}
-* German: {{t-|de|Panzerung|f}}, {{t+|de|Panzer|m}}
+* German: {{t-|de|Panzerung|f}}, {{t+|de|Panzer|m}}, [[Panzerkraftwagen]]
 * Greek: {{t|el|τεθωρακισμένο|n|tr=teθorakisméno}}
 * Hebrew: [[משוריין]] (meshuryan) {{m}}
 * Indonesian: {{t|id|lapis baja|xs=Indonesian}}
@@ -73,28 +103,24 @@
 * [[Macedonian]]: {{t-|mk|оклоп|m|tr=óklop}}
 * Polish: [[pojazd opancerzony]] {{m}}
 * Portuguese: ([[veículo]]) [[blindado]] {{m}}
+* Slovak: {{t|sk|obrnené vozidlo|n}}
 * Slovene: [[oklepnik]] {{m}}
 {{trans-bottom}}
 
+
 {{trans-top|military formation consisting primarily of tanks}}
+* Czech: {{t|cs|obrněné vojsko|n}},  {{t|cs|obrněná vojska|p}}
 * Finnish: [[panssarijoukot]] {{p}}
 * Georgian: {{tø|ka|ჯავშან-ტექნიკა}}
 {{trans-mid}}
 * Greek: {{t|el|τεθωρακισμένα|n|p|tr=teθorakisména}}
 * Polish: [[wojska pancerne]] {{p}}
+* Slovak: {{t|sk|obrnené vojsko|n}},  {{t|sk|obrnené vojská|p}}
 {{trans-bottom}}
 
 {{checktrans}}
 * {{ttbc|Breton}}: [[houarnwisk]] {{m}}, [[hobregon]] {{m}} (1), [[karbed]] [[houarnet]] (3)
 * {{ttbc|Interlingua}}: [[armatura]] (1); [[cuirasse]] (2); [[vehiculo]] [[blindate]], [[blindato]] (3)
-
-====Derived terms====
-* [[armored]]
-* [[armor-plated]]
-* [[armor plating]]
-* [[armory]]
-* [[suit of armor]]
-<!--If you edit this page, please also edit "armour" to ensure these pages remain in synch.-->
 
 ===Verb===
 {{en-verb}}
