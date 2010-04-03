@@ -79,19 +79,21 @@ From {{etyl|nl}} {{term|sloep||lang=nl}}, from {{etyl|dum}} {{term|slœpen||lang
 ==Dutch==
 
 ===Noun===
-{{nl-noun|slopen}} {{f}}/{{m}} or {{n}}
+{{nl-noun|g=c|slopen|sloopje}}
 
 # [[pillowcase]]
 
-{{nl-noun|-|-}} {{m}}
+===Noun===
+{{nl-noun|g=m|-|-}}
+
 # [[demolition]]
 
 ===Verb===
-'''sloop'''
+{{infl|nl}}
 
-# first person singular present tense of [[slopen]].
-# imperative singular of [[slopen]].
-# singular past tense of [[sluipen]].
+# {{nl-verb-form|n=sg|t=past|m=ind|sluipen}}
+# {{nl-verb-form|p=1|n=sg|t=pres|m=ind|slopen}}
+# {{nl-verb-form|m=imp|slopen}}
 
 [[fr:sloop]]
 [[io:sloop]]
@@ -101,11 +103,3 @@ From {{etyl|nl}} {{term|sloep||lang=nl}}, from {{etyl|dum}} {{term|slœpen||lang
 [[fi:sloop]]
 [[te:sloop]]
 [[vi:sloop]]
-
-----
-==Dutch==
-===Verb===
-{{infl|nl}}
-
-# {{nl-verb-form|n=sg|t=past|m=ind|sluipen}}
-[[Category:Requests for cleanup (MewBot)]]
