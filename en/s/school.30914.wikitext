@@ -419,7 +419,7 @@
 * {{audio|Nl-school.ogg|audio}}
 
 ===Noun===
-'''school''' ''c'' (''plural'' '''[[scholen]]''', ''diminutive'' '''[[schooltje]]''')
+{{nl-noun|g=c|scholen|schooltje}}
 
 # [[#English|school]] ''(An educational institution that focuses completely on education, and not on, say, research)''
 # a group of [[fish]]
@@ -443,12 +443,12 @@
 * [[instituut]] "institute, including schools and universities, but also non-educational organisations"
 
 ===Verb===
-'''school'''
+{{infl|nl}}
 
-# first person present tense of [[scholen]] (to school)
-# singular past tense of [[schuilen]] (to [[hide]], [[take cover]], to take [[shelter]])
+# {{nl-verb-form|n=sg|t=past|m=ind|schuilen}}
+# {{nl-verb-form|p=1|n=sg|t=pres|m=ind|scholen}}
+# {{nl-verb-form|m=imp|scholen}}
 
-[[Category:Dutch nouns]]
 [[Category:Education]]
 [[Category:nl:Education]]
 
@@ -497,11 +497,3 @@
 [[uk:school]]
 [[vi:school]]
 [[zh:school]]
-
-----
-==Dutch==
-===Verb===
-{{infl|nl}}
-
-# {{nl-verb-form|n=sg|t=past|m=ind|schuilen}}
-[[Category:Requests for cleanup (MewBot)]]
