@@ -201,18 +201,17 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 ----
 
 ==Dutch==
-
-===Verb===
-'''tank'''
-
-# {{nl-verb-form|p=first|n=singular|t=present tense|tanken}}
-# {{nl-verb-form|m=imperative|tanken}}
-
 ===Noun===
-{{infl|nl|noun|g=m|plural|tanks}}
+{{nl-noun|g=m|tanks|tankje}}
 
 # [[#English|tank]] (military fighting vehicle)
 # [[#English|tank]] (storage)
+
+===Verb===
+{{infl|nl}}
+
+# {{nl-verb-form|p=1|n=sg|t=pres|m=ind|tanken}}
+# {{nl-verb-form|m=imp|tanken}}
 
 ----
 
@@ -281,12 +280,3 @@ From {{etyl|en|fr}} {{term|tank|lang=en}}.
 [[tr:tank]]
 [[vi:tank]]
 [[zh:tank]]
-
-----
-==Dutch==
-===Verb===
-{{infl|nl}}
-
-# {{nl-verb-form|p=1|n=sg|t=pres|m=ind|tanken}}
-# {{nl-verb-form|m=imp|tanken}}
-[[Category:Requests for cleanup (MewBot)]]
