@@ -77,7 +77,7 @@ Dutch [[hopen]]
 cognate with [[hope]]
 
 ====Noun====
-{{nl-noun|hopen|hoopje|hoopjes}}
+{{nl-noun|g=c|hopen|hoopje}}
 
 # A [[hope]], aspiration, wish
 # A pile of manure, faeces
@@ -88,12 +88,11 @@ cognate with [[hope]]
 =====Derived terms=====
 * [[hopeloos]]
 
-====Verb====
-'''hoop'''
+===Verb===
+{{infl|nl}}
 
-# {{nl-verb-form|p=first|n=singular|t=present tense|hopen}}
-#: ''Ik '''hoop''' dat je dit kunt uitleggen of je moet niet '''hopen''' billenkoek te ontlopen
-#:: ''I hope you can explain this or you shouldn't hope to escape a spanking
+# {{nl-verb-form|p=1|n=sg|t=pres|m=ind|hopen}}
+# {{nl-verb-form|m=imp|hopen}}
 
 ===Etymology 2===
 cognate with [[heap]]
@@ -135,12 +134,3 @@ cognate with [[heap]]
 [[te:hoop]]
 [[vi:hoop]]
 [[zh:hoop]]
-
-----
-==Dutch==
-===Verb===
-{{infl|nl}}
-
-# {{nl-verb-form|p=1|n=sg|t=pres|m=ind|hopen}}
-# {{nl-verb-form|m=imp|hopen}}
-[[Category:Requests for cleanup (MewBot)]]
