@@ -87,15 +87,16 @@ NOTE: translations in the sense of "courage" must be ''slang terms'' where possi
 ==Dutch==
 
 ===Noun===
-{{nl-noun}} {{f|m}}
+{{nl-noun|g=c}}
 
 # [[gouge]], a suddenly flowing quantity of fluid
 # a [[chisel]] type with a hollow beak
 
 ===Verb===
-{{infl|nl|verb form}}
+{{infl|nl}}
 
-# present singular and imperative form of [[gutsen]] (all senses)
+# {{nl-verb-form|p=1|n=sg|t=pres|m=ind|gutsen}}
+# {{nl-verb-form|m=imp|gutsen}}
 
 ===References===
 * {{R:Koenen}}
@@ -115,12 +116,3 @@ NOTE: translations in the sense of "courage" must be ''slang terms'' where possi
 [[tr:guts]]
 [[vi:guts]]
 [[zh:guts]]
-
-----
-==Dutch==
-===Verb===
-{{infl|nl}}
-
-# {{nl-verb-form|p=1|n=sg|t=pres|m=ind|gutsen}}
-# {{nl-verb-form|m=imp|gutsen}}
-[[Category:Requests for cleanup (MewBot)]]
