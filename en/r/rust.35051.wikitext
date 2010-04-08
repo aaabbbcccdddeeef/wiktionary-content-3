@@ -98,7 +98,7 @@
 * Chinese: {{zh-tsp|鏽病|锈病|xiùbìng}}
 * Finnish: {{t+|fi|ruoste}}
 * Georgian: [[გუდაფშუტა]] (gudap‘šuta)
-* German: &hellip;[[Rost]] {{m}} ''singulare tantum'' (seldom used as a generalized term), [[Rostpilz]] {{m}}, &hellip;[[Tau]] {{m}} ''singulare tantum'' (hardly used as a generalized term)
+* German: …[[Rost]] {{m}} ''singulare tantum'' (seldom used as a generalized term), [[Rostpilz]] {{m}}, …[[Tau]] {{m}} ''singulare tantum'' (hardly used as a generalized term)
 {{trans-mid}}
 * Russian: {{t+|ru|ржавчина|f|tr=ržávčina}}
 * Spanish: {{t-|es|roya|f}},  {{t|es|roña|f}}
@@ -189,7 +189,7 @@
 ==Dutch==
 
 ===Noun===
-{{nl-noun|rusten|-|-}}
+{{nl-noun|g=c|rusten|-}}
 
 # [[rest]], [[calm]], [[peace]]
 #: ''Waarom laat je me niet met rust?''. - Why don't you leave me '''alone'''?
@@ -199,12 +199,10 @@
 * [[rusteloos]]
 
 ===Verb===
-'''rust'''
+{{infl|nl}}
 
-# {{nl-verb-form|p=first|n=singular|t=present tense|rusten}}
-# {{nl-verb-form|p=second|n=singular|t=present tense|rusten}}
-# {{nl-verb-form|p=third|n=singular|t=present tense|rusten}}
-# {{nl-verb-form|m=imperative|rusten}}
+# {{nl-verb-form|p=123|n=sg|t=pres|m=ind|rusten}}
+# {{nl-verb-form|m=imp|rusten}}
 
 [[zh-min-nan:rust]]
 [[da:rust]]
@@ -230,12 +228,3 @@
 [[tr:rust]]
 [[vi:rust]]
 [[zh:rust]]
-
-----
-==Dutch==
-===Verb===
-{{infl|nl}}
-
-# {{nl-verb-form|p=123|n=sg|t=pres|m=ind|rusten}}
-# {{nl-verb-form|m=imp|rusten}}
-[[Category:Requests for cleanup (MewBot)]]
