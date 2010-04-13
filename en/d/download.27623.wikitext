@@ -23,29 +23,32 @@
 
 ====Translations====
 {{trans-top|file transfer to the local computer}}
-* Arabic: {{Arab|[[تنزيل]]}} (tanzīl), {{Arab|[[تحميل]]}} (taḥmīl)
+* Arabic: {{Arab|[[تنزيل]]}} (tanzīl), {{Arab|[[تحميل]]}} (taḥmīl),  {{t|ar|تنزيل|m|tr=tanziil|sc=Arab}},  {{t|ar|تحميل|m|tr=taHmiil|sc=Arab}},  {{t|ar|داونلود|m|tr=daunluud|sc=Arab}}
 * [[Catalan]]: [[descàrrega]]
 * Chinese:
-*: Mandarin: {{zh-tsp|下載|下载|xiàzǎi}}
+*: Mandarin: {{zh-tsp|下載|下载|xiàzǎi}},  {{t|zh|下載|sc=Hani}},  {{t|zh|下载|tr=xiàzǎi|sc=Hani}}
 * Croatian: [[preuzimanje]], [[skidanje]]
 * Czech: {{t-|cs|stažení|n}}
 * Dutch: {{t+|nl|download|m}}
 * Finnish: [[lataus]], [[imurointi]] {{italbrac|slang}}
 * French: {{t+|fr|téléchargement|m}}
-* German: [[Download]] {{m}}, [[Herunterladen]] {{n}}
+* German: [[Download]] {{m}}, [[Herunterladen]] {{n}},  {{t|de|Download|m}},  {{t|de|Herunterladen|n}}
 * Greek: {{t|el|καταφόρτωση|f|tr=katafórtosi}}
+* Hebrew: [[הורדה]] (horada) {{f}},  {{t|he|הורדה|f|tr=horada|sc=Hebr}}
+* Hindi: {{t|hi|डाउनलोड|tr=ḍā'unloḍ|sc=Deva}}
 {{trans-mid}}
-* Hebrew: [[הורדה]] (horada) {{f}}
 * Hungarian: {{t+|hu|letöltés}}
 * Italian: {{t-|it|download|m}}, {{t+|it|scaricamento|m}}
 * Japanese: {{t+|ja|ダウンロード|tr=daunrōdo}}
-* Korean: [[다운로드]], [[내려받기]]
+* Korean: [[다운로드]], [[내려받기]],  {{t|ko|다운로드|tr=daunlodeu|sc=Kore}},  {{t|ko|내려받기|tr=naelyeobadgi|sc=Kore}}
 * [[Macedonian]]: {{t|mk|преземање|n|tr=prezémanje}},  {{t|mk|симнување|n|tr=simnúvanje}}
-* Romanian: [[descărcare]] {{f}}
+* Persian: {{t|fa|دانلود|sc=fa-Arab}}
+* Romanian: [[descărcare]] {{f}},  {{t|ro|descărcare|f}}
 * Russian: {{t+|ru|скачивание|n|tr=skáčivanije}}, {{t+|ru|скачка|f|tr=skáčka}}
-* Spanish: [[descarga]], transferencia directa
+* Spanish: [[descarga]], transferencia directa,  {{t|es|descarga|f}},  {{t|es|transferencia directa|f}}
 * Swedish: [[nedladdning]], [[nerladdning]]
-* Vietnamese: sự [[tải]] [[xuống]], sự [[truyền]] xuống, sự [[nạp]] xuống
+* Thai: {{t|th|ดาวน์โหลด|tr=daao-lòht|sc=Thai}}
+* Vietnamese: sự [[tải]] [[xuống]], sự [[truyền]] xuống, sự [[nạp]] xuống,  {{t|vi|tải xuống|alt=sự tải xuống}},  {{t|vi|truyền xuống|alt=sự truyền xuống}},  {{t|vi|nạp xuống|alt=sự nạp xuống}},  {{t|vi|viễn nạp|alt=sự viễn nạp}}
 {{trans-bottom}}
 
 ===Verb===
@@ -84,9 +87,9 @@
 * German: {{t+|de|herunterladen}},  {{t|de|downloaden}}
 * Greek: {{t|el|καταφορτώνω|tr=katafortóno}}
 * Hebrew: {{t-|he|הוריד|tr=horíd}}
-{{trans-mid}}
 * Hungarian: {{t+|hu|letölt}}
 * Italian: {{t+|it|scaricare}}
+{{trans-mid}}
 * Japanese: {{t+|ja|ダウンロードする|tr=daunrōdo-suru}}
 * [[Macedonian]]: {{t|mk|презема|tr=prézema}},  {{t|mk|симнува|tr=símnuva}}
 * Polish: {{t+|pl|ściągać}}, {{t-|pl|ściągnąć}}
@@ -95,7 +98,9 @@
 * Russian: {{t+|ru|скачать|tr=skačát’}} {{pf}}, {{t+|ru|скачивать|tr=skáčivat’}} {{impf}}, {{t|ru|качать|tr=kačát’}} {{impf}}
 * Spanish: {{t+|es|descargar}}
 * Swedish: [[ladda ner]], [[ladda hem]], [[tanka ner]], [[tanka hem]], [[tanka]], [[dra ner]], [[dra hem]], [[ta hem]], [[plocka hem]]
+* Thai: {{t|th|ดาวน์โหลด|tr=daao-lòht|sc=Thai}}
 * Turkish: {{t+|tr|indirmek}}
+* Vietnamese: {{t|vi|tải xuống}},  {{t|vi|nạp xuống}},  {{t|vi|viễn nạp}}
 {{trans-bottom}}
 
 {{checktrans-top}}
