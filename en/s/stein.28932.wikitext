@@ -38,31 +38,37 @@ From {{etyl|de|en}} {{term|Stein||stone, stein|lang=de}}.
 ==Norwegian==
 
 ===Etymology===
-From {{proto|Germanic|stainaz|lang=no}}.
+From {{etyl|non|no}} {{term|steinn|lang=non}}, from {{proto|Germanic|stainaz|lang=no}}.
 
 ===Pronunciation===
 * {{IPA|/staɪn/|lang=no}}
 *: {{rhymes|aɪn|lang=no}}
 
 ===Adjective===
-'''stein''' (''plural'' '''[[steine]]'''; {{compar}} '''[[steinere]]'''; {{super}} '''[[steinest]]''')
+{{infl|no|adjective}}
 
 # {{slang|lang=no}} [[stoned]], under the influence of [[cannabis]]
 
+====Inflection====
+{{no-adj-infl|nb-class=2|nn-class=2}}
+
 ===Noun===
-{{no-noun-m1}}
+{{infl|no|noun|g=m}}
 
 # [[stone]]
 
+====Inflection====
+{{no-noun-infl|nb-class=m1|nn-class=m1}}
+
 ====Alternative spellings====
-* [[sten]]
+* [[sten]] {{qualifier|Bokmål}}
 
 ====Derived terms====
 * [[steinalder]]
-* [[steine]]
+* [[steine]] {{qualifier|Bokmål and Nynorsk}}, [[steina]] {{qualifier|Nynorsk}}
 * [[steinsprut]]
 * [[steinansikt]]
-* [[steingammel]]
+* [[steingammel]] {{qualifier|Bokmål}}, [[steingammal]] {{qualifier|Bokmål and Nynorsk}}
 * [[steinete]]
 
 [[fr:stein]]
