@@ -126,12 +126,12 @@ Borrowed from {{etyl|la|fr}} {{term|imperium}}.
 ==Italian==
 
 ===Etymology===
-Latin ''[[implere]]''
+From {{etyl|la|it}} ''[[implere]]''
 
 ===Verb===
-'''empire''' (''obsolete; regional'')
+{{it-verb}} {{transitive}}
 
-# to [[fill]], to [[overflow]]
+#{{obsolete|lang=it}} to [[fill]], to [[overflow]]
 
 ====Synonyms====
 * [[riempire]]
@@ -140,146 +140,15 @@ Latin ''[[implere]]''
 * [[pieno]]
 
 ====Conjugation====
-
-<center>
-{| style="background:#F0F0F0"
-
-|-
-! colspan="3" style="background:#e2e4c0" | infinitive
-| colspan="5" | empire
-
-|-
-! colspan="3" style="background:#e2e4c0" | gerund
-| colspan="5" | [[empiendo]]
-
-|-
-! colspan="3" style="background:#e2e4c0" | present participle
-| colspan="5" | [[empiente]]
-
-|-
-! colspan="3" style="background:#e2e4c0" | past participle
-| colspan="5" | [[empito]], [[empiuto]]
-
-|-
-! colspan="2" rowspan="2" style="background:#C0C0C0" | person
-! colspan="3" style="background:#C0C0C0" | singular
-! colspan="3" style="background:#C0C0C0" | plural
-
-|-
-! style="background:#C0C0C0;width:12.5%" | first
-! style="background:#C0C0C0;width:12.5%" | second
-! style="background:#C0C0C0;width:12.5%" | third
-! style="background:#C0C0C0;width:12.5%" | first
-! style="background:#C0C0C0;width:12.5%" | second
-! style="background:#C0C0C0;width:12.5%" | third
-
-|-
-! rowspan="6" style="background:#c0cfe4" | [[indicative]]
-
-! style="background:#c0cfe4" colspan="1" |
-! style="background:#c0cfe4" | io
-! style="background:#c0cfe4" | tu
-! style="background:#c0cfe4" | lui/lei
-! style="background:#c0cfe4" | noi
-! style="background:#c0cfe4" | voi
-! style="background:#c0cfe4" | loro
-
-|-
-! style="height:3em;background:#c0cfe4" | present
-| [[empio]]
-| [[empi]]
-| [[empie]]
-| [[empiamo]]
-| [[empite]]
-| [[empiono]]
-
-|-
-! style="height:3em;background:#c0cfe4" | [[imperfect]]
-| [[empivo]]
-| [[empivi]]
-| [[empiva]]
-| [[empivamo]]
-| [[empivate]]
-| [[empivano]]
-
-|-
-! style="height:3em;background:#c0cfe4" | [[passato remoto]]
-| [[empii]], (''rare'') [[empiei]]
-| [[empisti]], (''rare'') [[empiesti]]
-| [[empì]], (''rare'') [[empié]]
-| [[empimmo]], (''rare'') [[empiemmo]]
-| [[empiste]], (''rare'') [[empieste]]
-| [[empirono]], (''rare'') [[empierono]]
-
-|-
-! style="height:3em;background:#c0cfe4" | [[future]]
-| [[empirò]]
-| [[empirai]]
-| [[empirà]]
-| [[empiremo]]
-| [[empirete]]
-| [[empiranno]]
-
-|-
-! style="height:3em;background:#c0cfe4" | [[conditional]]
-| [[empirei]]
-| [[empiresti]]
-| [[empirebbe]]
-| [[empiremmo]]
-| [[empireste]]
-| [[empirebbero]]
-
-|-
-! rowspan="3" style="background:#c0e4c0" |[[subjunctive]]
-! style="background:#c0e4c0" |
-! style="background:#c0e4c0" | che io
-! style="background:#c0e4c0" | che tu
-! style="background:#c0e4c0" | che lui/che lei
-! style="background:#c0e4c0" | che noi
-! style="background:#c0e4c0" | che voi
-! style="background:#c0e4c0" | che loro
-
-|-
-! style="height:3em;background:#c0e4c0" | present
-| [[empia]]
-| empia
-| empia
-| [[empiamo]]
-| [[empiate]]
-| [[empiano]]
-
-|-
-! style="height:3em;background:#c0e4c0" rowspan="1" | imperfect
-| [[empissi]]
-| empissi
-| [[empisse]]
-| [[empissimo]]
-| [[empiste]]
-| [[empissero]]
-
-|-
-! colspan="2" rowspan="2" style="height:3em;background:#e4d4c0" | [[imperative]]
-! style="background:#e4d4c0" | -
-! style="background:#e4d4c0" | tu
-! style="background:#e4d4c0" | lui/lei
-! style="background:#e4d4c0" | noi
-! style="background:#e4d4c0" | voi
-! style="background:#e4d4c0" | loro
-
-|-
-|
-| [[empi]]
-| [[empia]]
-| [[empiamo]]
-| [[empite]]
-| [[empiano]]
-
-|}
-</center>
+{{it-conj-ire|emp|avere
+|ger=empiendo|presp=empiendo
+|pres1s=empio|pres3s=empie|pres3p=empiono
+|prem1s2=empiei|prem2s2=empiesti|prem3s2=empié|prem1p2=empiemmo|prem2p2=empieste|prem3p2=empierono
+|sub123s=empia
+|imp3s=empia|imp3p=empiano}}
 
 ===Anagrams===
 * {{alphagram|eeimpr}} [[permei#Italian|permei]], [[premei#Italian|premei]]
-[[Category:Italian verbs]]
 
 [[am:empire]]
 [[cs:empire]]
