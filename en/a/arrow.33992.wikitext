@@ -42,9 +42,9 @@
 * Armenian: {{t-|hy|նետ|tr=net}}
 * [[Aymara]]: [[mich'i]]
 * [[Azeri]]:
-*: Cyrillic: {{t|az|ох|sc=Cyrl}}
-*: Roman: {{t|az|ox}}
-*: Perso-Arabic: {{t|az|اوخ|tr=ox|sc=fa-Arab}}
+*: Cyrillic: {{t-|az|ох|sc=Cyrl|xs=Azeri}}
+*: Roman: {{t-|az|ox|xs=Azeri}}
+*: Perso-Arabic: {{t-|az|اوخ|tr=ox|sc=fa-Arab|xs=Azeri}}
 * Bosnian: {{t-|bs|strijela|f}}
 * Bulgarian: {{t+|bg|стрела}}
 * [[Catalan]]: {{t+|ca|fletxa|f}}, {{t-|ca|sageta|f}}
@@ -66,7 +66,7 @@
 * French: {{t+|fr|flèche|f}}
 * Georgian: {{t-|ka|ისარი|tr=isari|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Pfeil|m}}
-* Greek: {{t|el|βέλος|n|tr=vélos}}, {{t|el|σαΐτα|f|tr=saḯta}}
+* Greek: {{t+|el|βέλος|n|tr=vélos}}, {{t|el|σαΐτα|f|tr=saḯta}}
 * Hebrew: [[חץ]] (khetz) {{m}}
 * Hindi: [[तीर]] (tīr) {{m}}, [[बाण]]
 * Hungarian: {{t+|hu|nyíl}}
@@ -93,7 +93,7 @@
 * [[Nottoway-Meherrin]]: {{tø|nwy|aruntquaserank}}
 * [[Ojibwe]]: [[mitigwanwi]], [[bikwak]], [[ginwaakwanwi]], [[gii'anwaakonwi]], [[asawaan]]
 * [[Old English]]: {{t-|ang|stræl|strǣl|m|xs=Old English}}
-* Persian: {{t|fa|تیر|tr=tir}}
+* Persian: {{t-|fa|تیر|tr=tir|xs=Persian}}
 * Polish: {{t+|pl|strzała|f}}
 * Portuguese: {{t+|pt|flecha|f}}, {{t+|pt|seta|f}}
 * [[Quechua]]: [[wach'i]]
@@ -137,7 +137,7 @@
 * Georgian: {{t-|ka|ისარი|tr=isari|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Pfeil|m}}
 {{trans-mid}}
-* Greek: {{t|el|βέλος|n|tr=vélos}}, {{t|el|βελάκι|n|tr=veláki}} {{i|diminutive}}, {{t|el|δείκτης|m|tr=deíktis}}
+* Greek: {{t+|el|βέλος|n|tr=vélos}}, {{t|el|βελάκι|n|tr=veláki}} {{i|diminutive}}, {{t+|el|δείκτης|m|tr=deíktis}}
 * Hebrew: [[חץ]] (khetz) {{m}}
 * Japanese: {{t-|ja|矢印|tr=やじるし, yajirushi}}
 * Kurdish: {{t+|ku|tîr|m}}
@@ -149,7 +149,7 @@
 * Spanish: {{t+|es|flecha|f}}
 * Swedish: {{t+|sv|pil|c}}
 * [[Telugu]]: [[బాణం గుర్తు]] (baaNaM gurtu)
-* Turkish: {{t|tr|ok}}
+* Turkish: {{t+|tr|ok}}
 * [[West Frisian]]: {{t-|fy|pylk|c|xs=West Frisian}}
 {{trans-bottom}}
 
