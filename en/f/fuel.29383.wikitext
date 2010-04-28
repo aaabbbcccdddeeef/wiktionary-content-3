@@ -27,15 +27,15 @@
 ====Translations====
 {{trans-top|substance consumed to provide energy}}
 * Chinese:
-*: Mandarin: {{t|zh|燃料|tr=ránliào|sc=Hani}}
+*: Mandarin: {{t-|cmn|燃料|tr=ránliào|sc=Hani}}
 * Czech: {{t-|cs|palivo|n}}
-* Dutch: {{t|nl|brandstof|m|f}}
-* Finnish: {{t|fi|polttoaine}}
+* Dutch: {{t+|nl|brandstof|m|f}}
+* Finnish: {{t+|fi|polttoaine}}
 * French: {{t+|fr|carburant|m}}
 * German: {{t+|de|Brennstoff|m}}, {{t-|de|Treibstoff|m}}
-* Hebrew: {{t|he|דלק|m|tr=délek|sc=Hebr}}
-* Indonesian: {{t|id|bahan bakar}}
-* [[Interlingua]]: {{t|ia|combustibile}}
+* Hebrew: {{t+|he|דלק|m|tr=délek}}
+* Indonesian: {{t|id|bahan bakar|xs=Indonesian}}
+* [[Interlingua]]: {{t-|ia|combustibile|xs=Interlingua}}
 * [[Macedonian]]: {{t|mk|гориво|n|tr=górivo}},  {{t|mk|огрев|m|tr=ógrev}}
 {{trans-mid}}
 * Polish: {{t+|pl|paliwo}}
@@ -43,15 +43,15 @@
 * Romanian: {{t|ro|combustibil|m}}, {{t-|ro|carburant|m}}
 * Russian: {{t+|ru|топливо|n|tr=tóplivo}}, {{t+|ru|горючее|n}}
 * [[Scottish Gaelic]]: {{t-|gd|connadh|m|xs=Scottish Gaelic}}
-* Serbian: {{t|sr|palivo|n}}, {{t|sr|gorivo|n}}, {{t|sr|ogrev|m}}, {{t|sr|toplivo|n}}
-* Slovak: {{t|sk|palivo|n}}
+* Serbian: {{t-|sr|palivo|n}}, {{t-|sr|gorivo|n}}, {{t|sr|ogrev|m}}, {{t|sr|toplivo|n}}
+* Slovak: {{t-|sk|palivo|n}}
 * Slovene: {{t+|sl|gorivo}}
 * Swedish: {{t+|sv|bränsle}}
-* Welsh: {{t|cy|tanwydd|m}}
+* Welsh: {{t|cy|tanwydd|m|xs=Welsh}}
 {{trans-bottom}}
 
 {{trans-top|substance that provides nourishment}}
-* Finnish: {{t|fi|ravinto}}
+* Finnish: {{t+|fi|ravinto}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -81,7 +81,7 @@
 ====Translations====
 {{trans-top|to provide fuel}}
 * Dutch: {{t-|nl|tanken}}
-* Finnish: {{t|fi|tankata}},  {{t|fi|täyttää polttoaineella}}
+* Finnish: {{t+|fi|tankata}},  {{t|fi|täyttää polttoaineella}}
 * German: {{t-|de|betanken}}
 {{trans-mid}}
 * Polish: [[tankować]]
