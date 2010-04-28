@@ -237,7 +237,7 @@
 * Polish: {{t+|pl|lina|f}}
 * Portuguese: {{t+|pt|fio|m}}, {{t+|pt|linha|f}}
 * Russian: [[верёвка]] (v'er'óvka) {{f}}, [[шнур]] (šnur) {{m}}, [[линь]] (lin') {{m}}, [[леска]] (léska) {{f}}
-* Spanish: {{t|es|hilo|m}}, {{t|es|línea|f}}
+* Spanish: {{t+|es|hilo|m}}, {{t+|es|línea|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 * Swedish: {{t+|sv|lina|c}}
 {{trans-bottom}}
@@ -261,7 +261,7 @@
 * Polish: {{t+|pl|linia|f}}
 * Portuguese: {{t+|pt|linha|f}}
 * Russian: {{t+|ru|линия|f|tr=línija}}
-* [[Scottish Gaelic]]: {{t|gd|loidhne|f}}
+* [[Scottish Gaelic]]: {{t-|gd|loidhne|f|xs=Scottish Gaelic}}
 * Spanish: {{t+|es|línea|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 * Swedish: {{t+|sv|linje|c}}
@@ -283,8 +283,8 @@
 * Polish: {{t+|pl|linia|f}}
 * Portuguese: {{t+|pt|risco|m}}, {{t+|pt|traço|m}}
 * Russian: {{t+|ru|линия|f|tr=línija}}, {{t+|ru|черта|f|tr=čertá}}, {{t+|ru|штрих|m|tr=štriχ}}
-* [[Scottish Gaelic]]: {{t|gd|loidhne|f}}
-* Spanish: {{t|es|rasgo|m}}, {{t|es|trazo|m}}
+* [[Scottish Gaelic]]: {{t-|gd|loidhne|f|xs=Scottish Gaelic}}
+* Spanish: {{t-|es|rasgo|m}}, {{t-|es|trazo|m}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 * Swedish: {{t+|sv|linje|c}}
 * [[Telugu]]: {{t|te|గీత|tr=geeta}}
@@ -306,7 +306,7 @@
 * Polish: {{t+|pl|prosta|f}}
 * Portuguese: {{t+|pt|reta|f}}
 * Russian: {{t+|ru|линия|f|tr=línija}}
-* Spanish: {{t|es|recta|f}}
+* Spanish: {{t+|es|recta|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 * Swedish: {{t+|sv|linje|c}}
 {{trans-bottom}}
@@ -321,7 +321,7 @@
 * Polish: {{t+|pl|odcinek|m}}
 * Portuguese: {{t+|pt|segmento|m}}
 * Russian: {{t+|ru|отрезок|m|tr=otr'ézok}}
-* Spanish: {{t|es|segmento|m}}
+* Spanish: {{t+|es|segmento|m}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 * Swedish: {{t+|sv|linje|c}}
 {{trans-bottom}}
@@ -343,8 +343,8 @@
 * Polish: {{t+|pl|wiersz|m}}, {{t+|pl|wers|m}}
 * Portuguese: {{t+|pt|linha|f}}
 * Russian: {{t+|ru|строка|f|tr=stroká}}
-* [[Scottish Gaelic]]: {{t|gd|loidhne|f}}
-* Spanish: {{t|es|renglón|m}}, {{t|es|línea|f}}, {{t|es|verso|m}} (in poetry)
+* [[Scottish Gaelic]]: {{t-|gd|loidhne|f|xs=Scottish Gaelic}}
+* Spanish: {{t|es|renglón|m}}, {{t+|es|línea|f}}, {{t-|es|verso|m}} (in poetry)
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 * Swedish: {{t+|sv|rad|c}}
 * [[Telugu]]: {{t|te|వరస|tr=varasa}}
@@ -392,8 +392,8 @@
 * Greek: {{t+|el|γραμμή|f}} (grammí)
 * Italian: {{t+|it|linea|f}}
 * Russian: [[линия связи]] (línija sv'ázi) {{f}}, [[линия]] (línija) {{f}}
-* [[Scottish Gaelic]]: {{t|gd|loidhne|f}}
-* Spanish: {{t|es|línea|f}}
+* [[Scottish Gaelic]]: {{t-|gd|loidhne|f|xs=Scottish Gaelic}}
+* Spanish: {{t+|es|línea|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 * Swedish: [[anslutning]] {{c}}, [[linje]] {{c}}
 {{trans-bottom}}
@@ -407,15 +407,15 @@
 * Finnish: {{t+|fi|jono}}, {{t+|fi|rivi}}
 * German: {{t+|de|Schlange|f}}
 * Greek: {{t+|el|γραμμή|f}} (grammí), {{t+|el|ουρά|f}} (ourá)
-* Hebrew: {{t|he|תור|m|tr=tor|sc=Hebr}}
+* Hebrew: {{t-|he|תור|m|tr=tor}}
 * Italian: {{t+|it|coda|f}}, {{t-|it|fila|f}}
 {{trans-mid}}
 * [[Luhya]]: {{tø|luy|elaini}}
 * Polish: {{t+|pl|kolejka|f}}
 * Portuguese: {{t+|pt|fila|f}}
 * Russian: {{t+|ru|очередь|f|tr=óčer'ed'}}
-* [[Scottish Gaelic]]: {{t|gd|loidhne|f}}
-* Spanish: {{t|es|fila|f}}, {{t|es|hilera|f}}, {{t|es|cola|f}}
+* [[Scottish Gaelic]]: {{t-|gd|loidhne|f|xs=Scottish Gaelic}}
+* Spanish: {{t+|es|fila|f}}, {{t-|es|hilera|f}}, {{t+|es|cola|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 * Swedish: {{t+|sv|kö|c}}
 * [[Telugu]]: {{t|te|వరస|tr=varasa}}
@@ -540,7 +540,7 @@
 
 {{trans-top|course of conduct, thought, occupation, or policy}}
 * [[Afrikaans]]: [[visie]], [[metode]], [[lyn]]
-* Dutch: {{t-|nl|visie|f}}, {{t|nl|methode|f}}, {{t+|nl|lijn|f}}
+* Dutch: {{t-|nl|visie|f}}, {{t+|nl|methode|f}}, {{t+|nl|lijn|f}}
 * Finnish: {{t+|fi|linjaus}}
 {{trans-mid}}
 * French: {{t+|fr|ligne de conduite|f}}
@@ -554,7 +554,7 @@
 * Portuguese: {{t+|pt|contorno|m}}
 {{trans-mid}}
 * Russian: {{t+|ru|граница|f|tr=graníca}}
-* [[Scottish Gaelic]]: {{t|gd|loidhne|f}}
+* [[Scottish Gaelic]]: {{t-|gd|loidhne|f|xs=Scottish Gaelic}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 {{trans-bottom}}
 
@@ -566,7 +566,7 @@
 {{trans-mid}}
 * Italian: {{t+|it|linea|f}}
 * Russian: {{t+|ru|морщина|f|tr=morš'ína}}, {{t+|ru|линия|f|tr=línija}}
-* Spanish: {{t|es|línea|f}}
+* Spanish: {{t+|es|línea|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 * Swedish: {{t+|sv|linje|c}}
 {{trans-bottom}}
@@ -583,7 +583,7 @@
 * Dutch: {{t+|nl|lijn|f}}
 * Finnish: [[linja]], [[sukulinja]]
 {{trans-mid}}
-* Spanish: {{t|es|línea|f}}
+* Spanish: {{t+|es|línea|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 * Swedish: {{t+|sv|linje|c}}
 {{trans-bottom}}
@@ -605,7 +605,7 @@
 {{trans-mid}}
 * Italian: {{t+|it|binario|m}}
 * Portuguese: {{t+|pt|trilho|m}}
-* [[Scottish Gaelic]]: {{t|gd|loidhne|f}}
+* [[Scottish Gaelic]]: {{t-|gd|loidhne|f|xs=Scottish Gaelic}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 {{trans-bottom}}
 
@@ -615,7 +615,7 @@
 * Finnish: [[koordinaattiviiva]]
 {{trans-mid}}
 * Russian: {{t+|ru|линия|f|tr=línija}}
-* [[Scottish Gaelic]]: {{t|gd|loidhne|f}}
+* [[Scottish Gaelic]]: {{t-|gd|loidhne|f|xs=Scottish Gaelic}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 {{trans-bottom}}
 
@@ -657,7 +657,7 @@
 {{trans-mid}}
 * Polish: {{t+|pl|linia|f}}
 * Russian: {{t+|ru|линейка|f|tr=lin'éjka}}
-* Spanish: {{t|es|línea|f}}
+* Spanish: {{t+|es|línea|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 {{trans-bottom}}
 
@@ -676,7 +676,7 @@
 {{trans-top|measure of length, one twelfth of an inch}}
 * Russian: {{t+|ru|линия|f|tr=línija}}
 {{trans-mid}}
-* Spanish: {{t|es|línea|f}}
+* Spanish: {{t+|es|línea|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 {{trans-bottom}}
 
