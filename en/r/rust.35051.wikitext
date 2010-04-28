@@ -41,12 +41,12 @@
 ====Translations====
 {{trans-top|result of oxidation}}
 * {{trreq|Albanian}}
-* Arabic: {{t|ar|صدأ|m|tr=Sadaa'|alt=صَدَأ|sc=Arab}}
+* Arabic: {{t|ar|صدأ|m|alt=صَدَأ|tr=Sadaa'}}
 * Armenian: {{t-|hy|ժանգ|tr=žang}}
 * [[Basque]]: {{t|eu|herdoil|xs=Basque}}
 * Chinese:
 *: CJKV Characters: [[銹]], [[锈]]; [[錆]]
-*: Mandarin: {{t|zh|銹|sc=Hani}},  {{t|zh|锈|tr=xiù|sc=Hani}}
+*: Mandarin: {{t-|cmn|銹|sc=Hani}},  {{t-|cmn|锈|tr=xiù|sc=Hani}}
 * [[Crimean Tatar]]: [[tot]]
 * Dutch: {{t+|nl|roest|m}}, {{t+|nl|oxydatie|f}}
 * Esperanto: {{t-|eo|rusto|xs=Esperanto}}
@@ -58,11 +58,11 @@
 * {{trreq|Hebrew}}
 * Hungarian: {{t+|hu|rozsda}}
 * Italian: {{t+|it|ruggine|f}}
-* Japanese: {{t|ja|錆|tr=さび, sabi|sc=Jpan}}
+* Japanese: {{t+|ja|錆|tr=さび, sabi}}
 {{trans-mid}}
-* Korean: {{t|ko|녹|tr=nog|sc=Kore}}
+* Korean: {{t|ko|녹|tr=nog}}
 * Kurdish: {{t|ku|ژه‌نگ|tr=jeng|sc=ku-Arab}}
-* Latin: [[ferrugo]]
+* Latin: {{t-|la|ferrugo}}
 * {{trreq|Latvian}}
 * {{trreq|Lithuanian}}
 * [[Macedonian]]: {{t-|mk|’рѓа|f|tr='rgja}}
@@ -74,7 +74,7 @@
 * Russian: {{t+|ru|ржавчина|f|tr=ržávčina}}
 * Serbian: [[rđa]] {{f}}
 * Slovak: [[hrdza]] {{f}}
-* Spanish: {{t-|es|óxido|m}}, {{t-|es|herrumbre|f}}, {{t+|es|moho|m}},  {{t|es|orín}}
+* Spanish: {{t+|es|óxido|m}}, {{t-|es|herrumbre|f}}, {{t+|es|moho|m}},  {{t-|es|orín}}
 * {{trreq|Swahili}}
 * Swedish: {{t+|sv|rost|c}}
 * [[Tatar]]: {{t+|tt|tutıq|xs=Tatar}}
@@ -123,7 +123,7 @@
 {{trans-top|to oxidise}}
 * Chinese: {{zh-tsp|生鏽|生锈|shēngxiù}}
 * [[Crimean Tatar]]: [[totlanmaq]]
-* Czech: {{t|cs|rezavět}}
+* Czech: {{t-|cs|rezavět}}
 * Dutch: [[roesten]], [[verroesten]], [[oxideren]]
 * Finnish: {{t+|fi|ruostua}}
 * French: {{t+|fr|rouiller}}, {{t+|fr|oxyder}}
@@ -134,7 +134,7 @@
 * [[Macedonian]]: {{t-|mk|’рѓосувам|tr='rgjosuvam}}
 * Polish: [[rdzewieć]]
 * Portuguese: [[enferrujar]]; [[oxidar]]
-* Romanian: {{t|ro|rugini}},  {{t|ro|oxida}}
+* Romanian: {{t|ro|rugini}},  {{t+|ro|oxida}}
 * Russian: [[ржаветь]] (ržav'ét') {{impf}}
 * Slovak: [[hrdzavieť]]
 * Spanish: {{t|es|aherrumbrarse}}
