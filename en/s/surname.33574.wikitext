@@ -20,8 +20,11 @@ From {{etyl|enm}} < {{etyl|fro}} {{term|sour-|lang=fro}}, {{term|sur-|lang=fro}}
 
 ====Translations====
 {{trans-top|name that indicates family}}
+* Arabic: {{t|ar|لقب|m|tr=láqab|sc=Arab}},  {{t|ar|كنية|f|tr=kúnya|sc=Arab}},  {{t|ar|اسم العائلة|m|tr=ism al-3aa'ila|sc=Arab}}
 * Armenian: {{t-|hy|ազգանուն|tr=azganun}}
+* Belarusian: {{t|be|прозвішча|n|tr=prózvišča|sc=Cyrl}}
 * Bosnian: {{t-|bs|prezime|n}}
+* Bulgarian: {{t|bg|фамилно име|n|tr=famílno íme|sc=Cyrl}},  {{t|bg|презиме|n|tr=prézime|sc=Cyrl}}
 * [[Catalan]]: [[cognom]]
 * Chinese: [[姓]] (xìng); [[姓氏]] (xìngshì)
 * Czech: {{t-|cs|příjmení|n}}
@@ -31,32 +34,36 @@ From {{etyl|enm}} < {{etyl|fro}} {{term|sour-|lang=fro}}, {{term|sur-|lang=fro}}
 * French: {{t+|fr|nom de famille|m}}
 * German: {{t+|de|Nachname|m}}, {{t+|de|Familienname|m}}
 * Greek: {{t+|el|επώνυμο|n}} (epónimo), {{t+|el|επίθετο|n}} (epítheto)
-* Hebrew: [[שם משפחה]] (shem mishpaħa)
+* Hebrew: [[שם משפחה]] (shem mishpaħa),  {{t|he|שם משפחה|tr=šem mishpaħa|sc=Hebr}}
+* Hindi: {{t|hi|उपनाम|tr=upnām|sc=Deva}}
 * Hungarian: {{t+|hu|vezetéknév}}
 * Indonesian: {{t-|id|marga|xs=Indonesian}},  {{t|id|nama keluarga|xs=Indonesian}}
 * [[Interlingua]]: [[supernomine]], [[nomine de familia]], [[ultime nomine]]
 * Italian: {{t+|it|cognome|m}}
-* Japanese: [[姓]], [[せい]] (sei); [[名字]], [[苗字]], [[みょうじ]] (myōji)
-* Korean: [[성]], [[姓]] (seong)
-* [[Macedonian]]: {{t-|mk|презиме|n|tr=prézime}}
+* Japanese: [[姓]], [[せい]] (sei); [[名字]], [[苗字]], [[みょうじ]] (myōji),  {{t|ja|姓|tr=せい, sei|sc=Jpan}},  {{t|ja|名字|tr=みょうじ, myōji|sc=Jpan}},  {{t|ja|苗字|tr=みょうじ, myōji|sc=Jpan}}
 {{trans-mid}}
-* Maltese: [[kunjom]]
+* Korean: [[성]], [[姓]] (seong),  {{t|ko|성|tr=seong|sc=Kore}},  {{t|ko|姓|sc=Kore}},  {{t|ko|성자|tr=seongja|sc=Kore}}
+* [[Macedonian]]: {{t-|mk|презиме|n|tr=prézime}}
+* Maltese: [[kunjom]],  {{t|mt|kunjom}}
+* Mandarin: {{t|zh|姓|tr=xìng|sc=Hani}},  {{t|zh|姓氏|tr=xìngshì|sc=Hani}}
 * Norwegian: {{t+|no|etternavn|n}}
-* Persian: {{fa-Arab|[[نام خانوادگی]]}} (nam-e khanevadegi)
+* Persian: {{fa-Arab|[[نام خانوادگی]]}} (nam-e khanevadegi),  {{t|fa|نام خانوادگی|tr=nam-e khanevadegi|sc=fa-Arab}}
 * Polish: {{t+|pl|nazwisko|n}}
 * Portuguese: [[sobrenome]] {{m}}, [[nome de família]] {{m}}, [[último nome]] {{m}} {{italbrac|when appearing last}}
-* Russian: {{t+|ru|фамилия|f|tr=famílija}}
+* Russian: {{t+|ru|фамилия|f|tr=famílija}},  {{qualifier|dated}} {{t|ru|прозвище|n|tr=prózvišče|sc=Cyrl}}
 * [[Scottish Gaelic]]: [[sloinneadh]] {{m}}
 * Serbian:
 *: Cyrillic: [[презиме]] {{n}}
 *: Roman: [[prezime]] {{n}}
+* Serbo-Croatian: {{t|sh|презиме|n}},  {{t|sh|prezime|n}}
 * Slovak: {{t-|sk|priezvisko|n}}
 * Slovene: {{t+|sl|priimek|m}}
 * Spanish: {{t-|es|apellido|m}}
 * Swahili: {{t+|sw|Obama|xs=Swahili}}
 * Swedish: {{t+|sv|efternamn|n}}, {{t+|sv|familjenamn|n}}
-* [[Telugu]]: [[ఇంటిపేరు]] (imtipEru)
+* [[Telugu]]: [[ఇంటిపేరు]] (imtipEru),  {{t|te|ఇంటిపేరు|tr=iṇṭipēru|sc=Telu}}
 * Turkish: {{t|tr|soyadı}},  {{t|tr|soy ismi}}
+* Ukrainian: {{t|uk|прізвище|n|tr=prízvyšče|sc=Cyrl}}
 * [[Xhosa]]: [[ifani]]
 * [[Zulu]]: [[isibongo]]
 {{trans-bottom}}
