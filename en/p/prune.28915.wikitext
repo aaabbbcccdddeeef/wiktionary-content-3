@@ -1,26 +1,29 @@
 ==English==
+{{wikipedia}}
 
 ===Pronunciation===
 * {{IPA|/pru:n/}}
 *: {{rhymes|uːn}}
 
 ===Etymology 1===
-From {{etyl|fro}} {{term||prune|lang=fro}} < {{etyl|la}} {{term|prunum|prūnum|lang=la}} < {{etyl|grc}} {{term|sc=polytonic|προῦνον|tr=prounon|lang=grc}}, variant of {{term|sc=polytonic|προῦμνον|tr=proumnon||plum|lang=grc}}.
+From {{etyl|fro}} {{term||prune|lang=fro}}, from {{etyl|la}} {{term|prunum|prūnum|lang=la}}, from {{etyl|grc}} {{term|sc=polytonic|προῦνον|tr=prounon|lang=grc}}, variant of {{term|sc=polytonic|προῦμνον|tr=proumnon||plum|lang=grc}}.
 
 ====Noun====
 {{en-noun}}
 
 # {{obsolete}} A [[plum]].
 # The dried, wrinkled fruit of certain species of [[plum]].
-# {{slang}} An [[old woman]], ''especially'' a [[wrinkly]] one
+# {{slang}} An [[old woman]], ''especially'' a [[wrinkly]] one.
 
 =====Synonyms=====
-*: see [[Wikisaurus:old woman]]
+* see [[Wikisaurus:old woman]]
 
 =====Derived terms=====
 * [[pruney]]
 
 =====Translations=====
+{{trans-see|plum}}
+
 {{trans-top|dried plum}}
 * Arabic: {{Arab|[[أجاص]]}} (’ajāṣ)
 * Armenian: {{t|hy|սալորաչիր|tr=saloračir}}
@@ -42,21 +45,28 @@ From {{etyl|fro}} {{term||prune|lang=fro}} < {{etyl|la}} {{term|prunum|prūnum|l
 * Turkish: {{t|tr|kuru erik}}
 {{trans-bottom}}
 
+{{trans-top|old woman}}
+* Dutch: {{t|nl|besje|n}}
+{{trans-mid}}
+{{trans-bottom}}
+
 ===Etymology 2===
-From Old French ''[[proignier]]'', earlier ''[[prooignier]]'', ultimately from Latin ''[[pro-]]'' + ''[[rotundus]]'' ‘round’.
+From {{etyl|fro}} {{term|proignier|lang=fro}}, earlier {{term|prooignier|lang=fro}}, ultimately from {{etyl|la}} {{term|pro-|lang=la}} + {{term|rotundus||round|lang=la}}.
+{{rfe|gloss for pro-}}
 
 ====Verb====
 {{en-verb|prun|ing}}
 
 # {{transitive}} To remove excess material from a [[tree]] or [[shrub]]; to [[trim]], especially to make more healthy or productive.
-#: ''A good grape grower will prune his vines once a year.''
-# {{transitive}} {{figuratively}} To [[cut down]] or [[shorten]] (by the removal of unnecessary material); as, ''to prune a budget''.
-#: Section 3, in its early paragraphs, is a '''pruning''' and reshaping of THN 1.1.4–6.
+#: ''A good grape grower will '''prune''' his vines once a year.''
+# {{transitive|figuratively}} To [[cut down]] or [[shorten]] (by the removal of unnecessary material); as, ''to prune a budget''.
+#: ''Section 3, in its early paragraphs, is a '''pruning''' and reshaping of THN 1.1.4–6.''
 
 =====Translations=====
 {{trans-top|trim a tree or shrub}}
 * Arabic: {{t|ar|خوخ مجفف}}
 * Czech: {{t-|cs|prořezat}}
+* Dutch: {{t|nl|snoeien}}
 * Finnish: [[karsia]], [[oksia]], [[vesoa]]
 * French: {{t+|fr|élaguer}}
 * German: [[ausschneiden]], [[schneiden]]
@@ -72,6 +82,7 @@ From Old French ''[[proignier]]'', earlier ''[[prooignier]]'', ultimately from L
 {{trans-bottom}}
 
 {{trans-top|(figuratively) cut down or shorten}}
+* Dutch: {{t|nl|inkorten}}, {{t|nl|snoeien}}
 * Finnish: {{t-|fi|karsia}}
 * German: {{t+|de|beschneiden}}
 {{trans-mid}}
@@ -86,11 +97,11 @@ From Old French ''[[proignier]]'', earlier ''[[prooignier]]'', ultimately from L
 ==French==
 
 ===Etymology===
-Latin ''[[pruna]]''.
+From {{etyl|la|fr}} {{term|pruna|lang=la}}.
 
 ===Pronunciation===
-* {{audio|Fr-prune.ogg|audio}}
 * {{IPA|/pʀyn/|lang=fr}}, {{SAMPA|/pRyn/}}
+* {{audio|Fr-prune.ogg|audio}}
 
 ===Noun===
 {{fr-noun|f}}
@@ -98,7 +109,7 @@ Latin ''[[pruna]]''.
 # [[plum]]
 # {{slang}} {{l|en|ticket|gloss=traffic citation}}
 
-====Related terms====
+====Derived terms====
 * [[pruneau]]
 * [[prunier]]
 
@@ -108,16 +119,13 @@ Latin ''[[pruna]]''.
 
 ==Romanian==
 
-===Etymology===
-From {{etyl|la|ro}} {{term|pruna|lang=la}}
-
 ===Pronunciation===
 * {{IPA|/'pru.ne/|lang=ro}}
 
 ===Noun===
-{{ro-noun|fp}}
+{{infl|ro|plural}}
 
-# [[plum]]s, ''plural from'' [[prună]]
+# {{plural of|prună|lang=ro}}
 
 [[Category:ro:Fruits]]
 
