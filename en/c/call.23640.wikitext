@@ -133,7 +133,7 @@ From {{etyl|ang|en}} {{term|ceallian||lang=ang}}; see also [[Old Norse]] {{term|
 * Bulgarian: {{t+|bg|посещение|n}},  {{t|bg|визита|f}}
 * Finnish: {{t-|fi|käynti}}, {{t+|fi|vierailu}}
 * French: {{t+|fr|visite|f}}
-* Greek: {{t+|el|πρόσκληση}}
+* Greek: {{t+|el|πρόσκληση}},  {{t|el|επίσκεψη|f|tr=epískepsi|sc=Grek}}
 * Icelandic: {{t+|is|heimsókn|f}}
 * Italian: {{t+|it|saluto|m}}
 {{trans-mid}}
@@ -153,6 +153,7 @@ From {{etyl|ang|en}} {{term|ceallian||lang=ang}}; see also [[Old Norse]] {{term|
 * Finnish: {{t-|fi|huuto}}
 * French: {{t+|fr|appel}},  {{t+|fr|cri|m}}
 * German: {{t+|de|Ruf|m}}
+* Greek: {{t|el|κραυγή|f|tr=kravgí|sc=Grek}},  {{t|el|αναφώνηση|f|tr=anafónisi|sc=Grek}},  {{t|el|ξεφωνητό|n|tr=ksefonitó|sc=Grek}}
 * Hebrew: [[קריאה]] (qri'a) {{f}}
 * Icelandic: {{t-|is|kall|n}},  {{t+|is|hróp|n}}
 * Italian: {{t-|it|urlo|m}}
@@ -172,6 +173,7 @@ From {{etyl|ang|en}} {{term|ceallian||lang=ang}}; see also [[Old Norse]] {{term|
 * Armenian: {{t|hy|կանչ|tr=kanč}}
 * French: {{t+|fr|chant|m}},  {{t+|fr|cri|m}}
 * German: {{t+|de|Ruf|m}}
+* Greek: {{t|el|τιτίβισμα|n|tr=titívisma|sc=Grek}},  {{t|el|κραυγή|f|tr=kravgí|sc=Grek}}
 * Hebrew: [[ציוץ]] (tziutz) {{m}}
 * Italian: {{t+|it|canto|m}}
 * Japanese: [[鳴き声]], [[なきごえ]] (nakigoe)
@@ -191,10 +193,11 @@ From {{etyl|ang|en}} {{term|ceallian||lang=ang}}; see also [[Old Norse]] {{term|
 * Finnish: [[kutsu]], [[kutsuhuuto]]
 * French: {{t+|fr|appel}}
 * German: {{t+|de|Ruf|m}}
+* Greek: {{t|el|κάλεσμα|n|tr=kálesma|sc=Grek}},  {{t|el|πρόσκληση|f|tr=prósklisi|sc=Grek}}
 * Hebrew: [[קריאה]] (qri'a) {{f}}
 * Icelandic: {{t-|is|kall|n}}
-* Italian: {{t+|it|richiamo|m}}
 {{trans-mid}}
+* Italian: {{t+|it|richiamo|m}}
 * Japanese: [[呼び出し]], [[よびだし]] (yobidashi)
 * Korean: [[부름]] (bureum)
 * Portuguese: {{t+|pt|chamada|f}}
@@ -211,13 +214,15 @@ From {{etyl|ang|en}} {{term|ceallian||lang=ang}}; see also [[Old Norse]] {{term|
 
 {{trans-top|(medicine): overnight duty in the hospital}}
 * French: {{t|fr|sur appel}}
-* Italian: {{t+|it|turno|m}}
+* Greek: {{t|el|εφημερία|f|tr=efimería|sc=Grek}}
 {{trans-mid}}
+* Italian: {{t+|it|turno|m}}
 * Portuguese: [[plantão]] [[médico]]
 {{trans-bottom}}
 
 {{trans-top|(computing): the act of jumping to a subprogram}}
 * French: {{t+|fr|appel|m}},  {{t+|fr|exécution}}
+* Greek: {{t|el|κλήση|f|tr=klísi|sc=Grek}}
 {{trans-mid}}
 * Polish: {{t|pl|wywołanie|n}}
 {{trans-bottom}}
