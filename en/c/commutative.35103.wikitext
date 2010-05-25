@@ -3,39 +3,38 @@
 ===Adjective===
 {{en-adj|-}}
 
-# {{algebra}} (''of an operator <math> * </math>'') such that, for any [[operand]]s <math> a, b </math>, <math> a * b = b * a </math>
-# {{algebra}} Having a commutative operation.
+# {{mathematics|of a [[binary]] [[operation]]}} Such that the [[order]] in which the [[operand]]s are taken does not affect their [[image]] under the operation.
+#: ''Addition on the real numbers is '''commutative''' because for any real numbers <math>s,t</math>, <math>s+t=t+s</math>.
+# {{algebra|of an [[algebraic structure]]}} Having a commutative [[operation]].
+# {{mathematics|of a [[diagram]] of [[morphism]]s}} Such that any two sequences of morphisms with the same initial and final positions [[compose]] to the same morphism.
+
+====Synonyms====
+* {{sense|of an algebraic structure}} [[abelian]], [[Abelian]]
 
 ====Translations====
-* [[Catalan]]: [[commutatiu]] {{m}}, [[commutativa]] {{f}} (1, 2), [[abelià]] {{m}}, [[abeliana]] {{f}} (2)
-* Czech: {{t-|cs|komutativní|m}}
-* Finnish: [[kommutatiivinen]], [[vaihdannainen]]
-* French: [[commutatif]] {{m}}, commutative {{f}} (1, 2), [[abélien]] {{m}}, [[abélienne]] {{f}} (2)
-* Greek: {{t|el|αντιμεταθετικός|m}} (antimetathetikós) or {{t|el|μεταθετικός|m}} (metathetikós) (1,2)
-* Hungarian: [[kommutatív]]
-* Spanish: [[conmutativo]] {{m}}, [[conmutativa]] {{f}} (1, 2)
+{{checktrans-top}}
+* {{ttbc|Catalan}}: [[commutatiu]] {{m}}, [[commutativa]] {{f}} (1, 2), [[abelià]] {{m}}, [[abeliana]] {{f}} (2)
+* {{ttbc|Czech}}: {{t-|cs|komutativní|m}}
+* {{ttbc|Finnish}}: [[kommutatiivinen]], [[vaihdannainen]]
+* {{ttbc|French}}: [[commutatif]] {{m}}, commutative {{f}} (1, 2), [[abélien]] {{m}}, [[abélienne]] {{f}} (2)
+{{trans-mid}}
+* {{ttbc|Greek}}: {{t|el|αντιμεταθετικός|m}} (antimetathetikós) or {{t|el|μεταθετικός|m}} (metathetikós) (1,2)
+* {{ttbc|Hungarian}}: [[kommutatív]]
+* {{ttbc|Spanish}}: [[conmutativo]] {{m}}, [[conmutativa]] {{f}} (1, 2)
+{{trans-bottom}}
 
 ====Related terms====
 * [[anticommutative]]
 * [[commutator]]
 * [[commute]]
-* [[commutative diagram]]
-* [[commutative group]]
 * [[commutative justice]]
-* [[commutative operation]]
 * [[commutative ring]]
-
-===See also===
-* [[Abelian]]
-* [[group]]
-* [[operation]]
-* [[ring]]
 
 ----
 
 ==French==
 * [[English]]: commutative
-
+{{attention|fr}}
 ----
 
 ==Italian==
