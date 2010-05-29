@@ -98,7 +98,7 @@
 {{trans-top|act of sexual intercourse}}
 * Arabic: {{t|ar|تسافد|m|tr=tasāful}}, {{t|ar|جماع|m|tr=jimāʻ}}, {{t|ar|مجامعة|f|tr=mujāmʻa}}, {{t|ar|سيكس|m|tr=seks}}
 * Armenian: {{t-|hy|սեքս|tr=sek’s}}, {{t|hy|սեռական հարաբերություն|tr=seṙakan haraberut’yun}}
-* Belarusian: {{t|be|сэкс|m|tr=seks|sc=Cyrl}}
+* Belarusian: {{t|be|сэкс|m|tr=seks|xs=Belarusian}}
 * Bosnian: {{t+|bs|seks|m}}
 * Bulgarian: {{t-|bg|секс|m|tr=seks}}
 * [[Catalan]]: [[sexe]] {{m}}
@@ -116,7 +116,7 @@
 * Greek: {{t+|el|συνουσία|f|tr=sunousía}}, {{t+|el|σεξ|n|tr=sex}}
 * [[Gujarati]]: {{t|gu|મૈથુન|tr=maithun|sc=Gujr|xs=Gujarati}},  {{t|gu|સેક્સ|tr=seks|sc=Gujr|xs=Gujarati}}
 * Hebrew: {{he-translation|יחסי מין|yakhaséy mín}} (''literally: sexual relations'') {{m|p}}, {{he-translation|מין|mín}} {{m}}, {{he-translation|סקס|séks}} {{m}}
-* Hindi: {{t+|hi|मैथुन|tr=maithun|xs=Hindi}}, {{t|hi|सेक्स|tr=sēks|sc=Deva}}
+* Hindi: {{t+|hi|मैथुन|tr=maithun|xs=Hindi}}, {{t-|hi|सेक्स|tr=sēks|xs=Hindi}}
 * Hungarian: {{t+|hu|szex}}
 * Italian: {{t+|it|sesso|m}}
 * Japanese: {{t-|ja|性交|tr=seikō}}, {{t|ja|セックス|tr=sekkusu}}
@@ -143,10 +143,10 @@
 * [[Tagalog]]: [[pagtalik]], [[kantot]] (vulgar)
 * [[Tamil]]: {{t|ta|பாலுறவு|xs=Tamil}},  {{t|ta|உடலுறவ|xs=Tamil}}
 * [[Telugu]]: [[సంభోగము]] (saMbhOgamu), [[మైధునము]] (maidhunamu), [[రతి]] (rathi)
-* Thai: {{t|th|เพศ|tr=pâyt|sc=Thai}}, {{t|th|เซ็กส์|tr=sék|sc=Thai}}
+* Thai: {{t-|th|เพศ|tr=pâyt}}, {{t|th|เซ็กส์|tr=sék}}
 * Turkish: {{t+|tr|cinsel ilişki}}, {{t+|tr|seks}}
-* Ukrainian: [[любощі]] (ljúbošči) {{p}}, {{t|uk|секс|m|tr=seks|sc=Cyrl}}
-* Vietnamese: {{t|vi|giao cấu|alt=sự giao cấu}}
+* Ukrainian: [[любощі]] (ljúbošči) {{p}}, {{t-|uk|секс|m|tr=seks|xs=Ukrainian}}
+* Vietnamese: {{t|vi|giao cấu|alt=sự giao cấu|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|gender (female or male)}}
@@ -163,7 +163,7 @@
 * Finnish: {{t+|fi|sukupuoli}}
 * French: {{t+|fr|sexe|m}}
 * German: {{t+|de|Geschlecht|n}}
-* Greek: {{t|el|φύλο|n|tr=fýlo}}
+* Greek: {{t+|el|φύλο|n|tr=fýlo}}
 * Hebrew: {{he-translation|מין|mín}} {{m}}, {{he-translation|מגדר|migdár}} (''literally: gender'')
 * Hungarian: {{t+|hu|nem}}
 * [[Interlingua]]: [[sexo]]
@@ -176,7 +176,7 @@
 {{trans-mid}}
 * Latin: {{t-|la|sexus|m}}
 * [[Malayalam]]: [[ലിംഗം]] (limgam)
-* [[Manx]]: {{t-|gv|keintys|m}}
+* [[Manx]]: {{t-|gv|keintys|m|xs=Manx}}
 * Norwegian: {{t|no|kjønn|n}}
 * [[Novial]]: [[sexu]]
 * Persian: {{fa-Arab|[[جنسیت]]}} (jensi-yat)
@@ -193,10 +193,10 @@
 * Swedish: {{t+|sv|kön|n}}
 * [[Tagalog]]: [[kasarian]]
 * [[Telugu]]: [[లింగము]] (liMgamu)
-* Thai: {{t|th|เพศ|tr=pâyt|sc=Thai}}
+* Thai: {{t-|th|เพศ|tr=pâyt}}
 * Turkish: {{t+|tr|cinsiyet}}
 * Ukrainian: [[стать]] (stat’) {{f}}
-* Vietnamese: {{t|vi|giới tính}}
+* Vietnamese: {{t|vi|giới tính|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|women}}
