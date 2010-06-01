@@ -17,16 +17,18 @@
 ====Translations====
 {{trans-top|political philosophy of social and economic equality}}
 * Albanian: {{t+|sq|socializmi|m|xs=Albanian}}
-* Arabic: {{t|ar|اشتراكية}}
+* Arabic: {{t|ar|اشتراكية|f|tr=ishtirakíyya}}
 * [[Aragonese]]: {{t|an|sozialismo|m|xs=Aragonese}}
 * Armenian: {{t-|hy|սոցիալիզմ|tr=soc’ializm}}
 * [[Asturian]]: {{t|ast|socialismu|m|xs=Asturian}}
 * [[Azeri]]: {{t|az|sosializm|xs=Azeri}}
-* Belarusian: {{t|be|сацыялізм|xs=Belarusian}}
+* Belarusian: {{t|be|сацыялізм|m|tr=sacyjalízm|xs=Belarusian}}
 * Bengali: {{t|bn|সমাজতন্ত্র|sc=Beng|xs=Bengali}}
 * [[Bishnupriya Manipuri]]: {{tø|bpy|সমাজতন্ত্র|sc=Beng}}
 * Bulgarian: {{t|bg|социализъм}}
 * [[Catalan]]: {{t-|ca|socialisme|m}}
+* Chinese:
+*: Mandarin: {{t|zh|社會主義|sc=Hani}}, {{t|zh|社会主义|tr=shèhuìzhǔyì|sc=Hani}}
 * Croatian: {{t+|hr|socijalizam|m}}
 * Czech: {{t-|cs|socialismus|m}}, {{t-|cs|socializmus|m}}
 * Danish: {{t-|da|socialisme}}
@@ -43,15 +45,15 @@
 * Icelandic: {{t-|is|jafnaðarstefna}},  {{t|is|sósíalismi}}
 {{trans-mid}}
 * Italian: {{t+|it|socialismo|m}}
-* Japanese: {{t-|ja|社会主義|tr=shakai-shugi}}
-* Korean: {{t+|ko|사회주의|tr=sahoeju-ui|sc=Hang}}
+* Japanese: {{t-|ja|社会主義|tr=しゃかいしゅぎ, shakai-shugi}}
+* Korean: {{t+|ko|사회주의|tr=sahoeju-ui|sc=Hang}} ({{t|ko|社會主義|sc=Kore}})
 * Latvian: {{t|lv|sociālisms|m|xs=Latvian}}
 * Lithuanian: {{t+|lt|socializmas|m|xs=Lithuanian}}
 * [[Macedonian]]: {{t-|mk|социјализам|m|tr=socijalízam}}
 * [[Malayalam]]: {{t|ml|സോഷ്യലിസം|sc=Mlym|xs=Malayalam}}
 * [[Marathi]]: {{t-|mr|समाजवाद|tr=samājvād|sc=Deva|xs=Marathi}}
 * Norwegian: {{t-|no|sosialisme|m}}
-* Persian: {{t-|fa|سوسیالیسم|xs=Persian}}
+* Persian: {{t-|fa|سوسیالیسم|tr=sosyâlism|xs=Persian}}
 * Polish: {{t+|pl|socjalizm|m}}
 * Portuguese: {{t+|pt|socialismo|m}}
 * Romanian: {{t-|ro|socialism}}
@@ -72,6 +74,8 @@
 {{trans-top|group of socialist political philosophies}}
 * Albanian: {{t+|sq|socializmi|m|xs=Albanian}}
 * Armenian: {{t-|hy|սոցիալիզմ|tr=soc’ializm}}
+* Chinese:
+*: Mandarin: {{t|zh|社會主義|sc=Hani}}, {{t|zh|社会主义|tr=shèhuìzhǔyì|sc=Hani}}
 * Croatian: {{t+|hr|socijalizam|m}}
 * Danish: {{t-|da|socialisme}}
 * Dutch: {{t-|nl|socialisme|n}}
@@ -80,7 +84,7 @@
 * Hungarian: {{t+|hu|szocializmus}}
 {{trans-mid}}
 * Italian: {{t+|it|socialismo|m}}
-* Japanese: {{t-|ja|社会主義|tr=shakai-shugi}}
+* Japanese: {{t-|ja|社会主義|tr=しゃかいしゅぎ, shakai-shugi}}
 * [[Macedonian]]: {{t-|mk|социјализам|m|tr=socijalízam}}
 * Norwegian: {{t-|no|sosialisme|m}}
 * Polish: {{t+|pl|socjalizm|m}}
@@ -92,6 +96,8 @@
 {{trans-top|intermediate phase of social development}}
 * Albanian: {{t+|sq|socializmi|m|xs=Albanian}}
 * Armenian: {{t-|hy|սոցիալիզմ|tr=soc’ializm}}
+* Chinese:
+*: Mandarin: {{t|zh|社會主義|sc=Hani}}, {{t|zh|社会主义|tr=shèhuìzhǔyì|sc=Hani}}
 * Croatian: {{t+|hr|socijalizam|m}}
 * Danish: {{t-|da|socialisme}}
 * Dutch: {{t-|nl|socialisme|n}}
@@ -100,7 +106,7 @@
 * Hungarian: {{t+|hu|szocializmus}}
 {{trans-mid}}
 * Italian: {{t+|it|socialismo|m}}
-* Japanese: {{t-|ja|社会主義|tr=shakai-shugi}}
+* Japanese: {{t-|ja|社会主義|tr=しゃかいしゅぎ, shakai-shugi}}
 * [[Macedonian]]: {{t-|mk|социјализам|m|tr=socijalízam}}
 * Norwegian: {{t-|no|sosialisme|m}}
 * Polish: {{t+|pl|socjalizm|m}}
@@ -110,9 +116,7 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|Arabic}}: {{Arab|[[اشتراكية]]}} (išterakíya) {{f}}
 * {{ttbc|Breton}}: [[sokialouriezh]] {{f}}
-* {{ttbc|Chinese}}: [[社會主義]], [[社会主义]] (shèhuìzhǔyì)
 * {{ttbc|Estonian}}: [[sotsialism]]
 * {{ttbc|French}}: [[socialisme]] {{m}}
 {{checktrans-mid}}
