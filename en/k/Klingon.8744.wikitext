@@ -1,6 +1,6 @@
-{{also|klingon}}{{wikipedia|Klingon}}
+{{also|klingon}}
 ==English==
-
+{{wikipedia}}
 ===Etymology===
 : Said to derive from the surname of Wilbur Clingan, who served with ''Star Trek'' creator [[w:Gene Roddenberry|Gene Roddenberry]] in the Los Angeles Police Department.
 
@@ -9,36 +9,36 @@
 * {{IPA|/ˈklɪŋɑn/}}, {{SAMPA|/"klINAn/}}<!-- cot-caught merger or just US-style IPA? -->
 
 ===Noun===
-{{en-noun|s|-}}
+{{en-noun}}
 
-# {{star trek|countable}} Member of an alien warrior race in the Star Trek universe, depicted as having distinctive forehead ridges and a culture based on strict observance of honour, loyalty, and combat.
-# {{star trek|uncountable}} Language spoken by members of that race during Star Trek movies and episodes.
+# {{countable}} Member of an alien warrior race in the Star Trek universe, depicted as having distinctive forehead ridges and a culture based on strict observance of honour, loyalty, and combat.
+
+====Translations====
+{{trans-top|member of an alien warrior race in the Star Trek universe}}
+* Chinese:
+*: Mandarin: {{t|zh|克林貢|sc=Hani}}, {{t|zh|克林贡|tr=Kèlíngòng|sc=Hani}}
+* Esperanto: {{t|eo|klingono}}
+* Finnish: {{t|fi|klingon}}
+* French: {{t+|fr|Klingon|m}}
+{{trans-mid}}
+* German: [[Klingone]] {{m}}, [[Klingonin]] {{f}}
+* Greek: [[Κλίγκον|n|tr=klíngon}}
+* Japanese: {{t|ja|クリンゴン人}}, {{t|ja|クリンゴンじん|tr=kuringon jin}}
+* Romanian: {{t|ro|klingonian|m}}
+* Turkish: {{t-|tr|Klingon}}
+{{trans-bottom}}
+
+===Proper noun===
+{{en-pnoun}}
+
+# Language spoken by members of that race during Star Trek movies and episodes.
 
 ====Related terms====
 * [[Klingonist]]
 * [[Klingonese]]
 * [[Klingonaase]]
 
-====See also====
-* [[Qapla']]
-* [[Appendix:Klingon]]
-
 ====Translations====
-{{trans-top|member of an alien warrior race in the Star Trek universe}}
-* Chinese:
-*: Mandarin: {{t|zh|克林貢|sc=Hani}}, {{t|zh|克林贡|tr=Kèlíngòng|sc=Hani}}
-* Esperanto: [[klingono]]
-* Finnish: {{t|fi|klingon}}
-* French: {{t+|fr|Klingon|m}}
-{{trans-mid}}
-* German: [[Klingone]] {{m}}, [[Klingonin]] {{f}}
-* Greek: [[Κλίγκον]] (klíngon) {{n}}
-* Japanese: [[クリンゴン人]] (クリンゴンじん, kuringon jin)
-* Romanian: [[klingonian]] {{m}}
-* Turkish: {{t-|tr|Klingon}}
-{{trans-bottom}}
-
-{{rfc-tsort|bad language name Norwegian !--do not wikify-- }}
 {{trans-top|the language}}
 * [[Afrikaans]]: Klingon
 * Arabic: [[كلينغونية]] (klinghūniya) {{f}}
@@ -61,7 +61,7 @@
 * Italian: {{t+|it|klingon|m}}
 * Japanese: [[クリンゴン語]] (クリンゴンご, kuringon go)
 * [[Lojban]]: [[klingon.]]
-* Norwegian<!--do not wikify-->: [[klingonsk]]
+* Norwegian: {{t|no|klingonsk}}
 * Polish: [[klingoński]] {{m}}
 * Portuguese: {{t-|pt|klingon}}
 * Romanian: [[klingoniană]] {{f}}
@@ -77,8 +77,12 @@
 {{checktrans-top}}
 * {{ttbc|Latin}}: [[klingonski]] {{m}}
 {{checktrans-mid}}
-* {{ttbc|Serbian}}: Cyrillic: [[клингонски]] {{m}}
+* {{ttbc|Serbian}}: [[клингонски]] {{m}}
 {{checktrans-bottom}}
+
+===See also===
+* [[Qapla']]
+* [[Appendix:Klingon]]
 
 ===External links===
 * [http://www.kli.org/ Klingon Language Institute]
