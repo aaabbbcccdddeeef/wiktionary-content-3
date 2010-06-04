@@ -59,7 +59,7 @@
 * Hungarian: {{t+|hu|rozsda}}
 * Italian: {{t+|it|ruggine|f}}
 * Japanese: {{t+|ja|錆|tr=さび, sabi}}
-* Korean: {{t|ko|녹|tr=nog}}
+* Korean: {{t+|ko|녹|tr=nog|sc=Hang}}
 {{trans-mid}}
 * Kurdish: {{t|ku|ژه‌نگ|tr=jeng|sc=ku-Arab}}
 * Latin: {{t-|la|ferrugo}}
@@ -67,12 +67,12 @@
 * {{trreq|Lithuanian}}
 * [[Macedonian]]: {{t-|mk|’рѓа|f|tr='rgja}}
 * Maori: [[waikura]]
-* [[Norwegian Bokmål]]: {{t|no|rust|m|f}}
-* [[Norwegian Nynorsk]]: {{t|nn|rust|f}}
+* [[Norwegian Bokmål]]: {{t+|no|rust|m|f}}
+* [[Norwegian Nynorsk]]: {{t-|nn|rust|f|xs=Norwegian Nynorsk}}
 * Persian: {{t|fa|زن‍ﯔ|xs=Persian}}
 * Polish: {{t+|pl|rdza|f}}
 * Portuguese: {{t+|pt|ferrugem|f}}
-* Romanian: {{t|ro|rugină|f}}
+* Romanian: {{t-|ro|rugină|f}}
 * Russian: {{t+|ru|ржавчина|f|tr=ržávčina}}
 * Serbian: [[rđa]] {{f}}
 * Slovak: [[hrdza]] {{f}}
@@ -93,7 +93,7 @@
 {{trans-mid}}
 * Italian: [[colore]] {{m}} [[ruggine]]
 * [[Norwegian Bokmål]]: {{t|no|rustrød}}
-* [[Norwegian Nynorsk]]: {{t|nn|rustraud}}
+* [[Norwegian Nynorsk]]: {{t|nn|rustraud|xs=Norwegian Nynorsk}}
 * Spanish: {{t+|es|marrón}}, {{t-|es|rojizo}}
 * Swedish: [[rostbrun]], [[rostfärgad]]
 {{trans-bottom}}
@@ -106,8 +106,8 @@
 * Georgian: [[გუდაფშუტა]] (gudap‘šuta)
 * German: …[[Rost]] {{m}} ''singulare tantum'' (seldom used as a generalized term), [[Rostpilz]] {{m}}, …[[Tau]] {{m}} ''singulare tantum'' (hardly used as a generalized term)
 {{trans-mid}}
-* [[Norwegian Bokmål]]: {{t|no|rust|m|f}}
-* [[Norwegian Nynorsk]]: {{t|nn|rust|f}}
+* [[Norwegian Bokmål]]: {{t+|no|rust|m|f}}
+* [[Norwegian Nynorsk]]: {{t-|nn|rust|f|xs=Norwegian Nynorsk}}
 * Russian: {{t+|ru|ржавчина|f|tr=ržávčina}}
 * Spanish: {{t-|es|roya|f}},  {{t|es|roña|f}}
 * Swedish: {{t+|sv|rost}}
@@ -130,7 +130,7 @@
 * Chinese: {{zh-tsp|生鏽|生锈|shēngxiù}}
 * [[Crimean Tatar]]: [[totlanmaq]]
 * Czech: {{t-|cs|rezavět}}
-* Dutch: [[roesten]], [[verroesten]], [[oxideren]]
+* Dutch: {{t+|nl|roesten}}, {{t-|nl|verroesten}}, {{t-|nl|oxideren}}
 * Finnish: {{t+|fi|ruostua}}
 * French: {{t+|fr|rouiller}}, {{t+|fr|oxyder}}
 * German: [[verrosten]],  {{t|de|rosten}}
@@ -138,10 +138,10 @@
 * Kurdish: {{t|ku|ژه‌نگ هه‌ڵهێنان|tr=jeng helhénan|sc=ku-Arab}}
 {{trans-mid}}
 * [[Macedonian]]: {{t-|mk|’рѓосувам|tr='rgjosuvam}}
-* Norwegian: {{t|no|ruste}}
+* Norwegian: {{t+|no|ruste}}
 * Polish: [[rdzewieć]]
 * Portuguese: [[enferrujar]]; [[oxidar]]
-* Romanian: {{t|ro|rugini}},  {{t+|ro|oxida}}
+* Romanian: {{t-|ro|rugini}},  {{t+|ro|oxida}}
 * Russian: [[ржаветь]] (ržav'ét') {{impf}}
 * Slovak: [[hrdzavieť]]
 * Spanish: {{t|es|aherrumbrarse}}
