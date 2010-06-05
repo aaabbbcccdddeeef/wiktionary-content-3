@@ -2,21 +2,15 @@
 ==English==
 {{wikipedia}}
 
-===Pronunciation===
-* {{a|US}}
-** {{IPA|/piˈæ.noʊ̯/}}
-** {{SAMPA|/"pj{noU/}}
-
 ===Etymology===
 Short form of ''[[pianoforte]]'', from {{etyl|it}} {{term|piano||soft|lang=it}} + {{term|forte||strong|lang=it}}. So named because older keyboard instruments, notably the [[harpsichord]] and the [[clavier]], could not produce varied volumes.
+
+
 
 ===Noun===
 {{en-noun}}
 
 # {{musical instruments}} A [[keyboard]] [[musical]] [[instrument]], usually ranging over seven [[octave]]s, with white and black keys, played by pressing these keys, causing [[hammer]]s to strike [[string]]s.
-
-====Usage notes====
-''Piano'' is now the usual term for the musical instrument. ''Pianoforte'' is old-fashioned.
 
 ====Synonyms====
 * [[pianoforte]] {{italbrac|dated}}
@@ -35,11 +29,11 @@ Short form of ''[[pianoforte]]'', from {{etyl|it}} {{term|piano||soft|lang=it}} 
 
 ====Translations====
 {{trans-top|a keyboard musical instrument}}
-* Arabic: {{Arab|[[بيانو]]}} (biyāno) {{m}}
+* Arabic: {{t|ar|بيانو|m|tr=biyānom}}
 * Armenian: {{t-|hy|դաշնամուր|tr=dašnamur}}
 * Bosnian: {{t-|bs|klavir|m}}
 * Chinese: {{zh-ts|[[鋼琴]]|[[钢琴]]}} ([[gāngqín]])
-* Czech: [[klavír]] {{m}}, [[piáno]] {{n}}
+* Czech: {{t|cs|klavír|m}}, {{t|cs|piáno|n}}
 * Danish: {{t+|da|klaver|n}}
 * Dutch: {{t+|nl|piano|m}}
 * Esperanto: {{t-|eo|piano|xs=Esperanto}}
@@ -48,16 +42,16 @@ Short form of ''[[pianoforte]]'', from {{etyl|it}} {{term|piano||soft|lang=it}} 
 * German: {{t+|de|Klavier|n}}, {{t+|de|Piano|n}}
 * Greek: {{t+|el|πιάνο|n|tr=piáno}}, {{t+|el|κλειδοκύμβαλο|n|tr=kleidokýmvalo}}
 * [[Greenlandic]]: {{t-|kl|klaveri|xs=Greenlandic}}
-* Hebrew: [[פסנתר]] {{m}} (psanter, after an unknown musical instrument mentioned in the [[w:book of Daniel|book of Daniel]])
+* Hebrew: {{t|he|פסנתר|m|tr=psanter}}
 * Hindi: {{t|hi|पियानो|m|tr=piyāno|xs=Hindi}}
 * Hungarian: {{t+|hu|zongora}}
-* Icelandic: [[píanó]] {{n}}, [[slagharpa]] {{f}}, [[fortepíanó]] {{n}}
-* Irish: [[pianó]] {{m}}
+* Icelandic: {{t|is|píanó|n}}, {{t|is|slagharpa|f}}, {{t|is|fortepíanó|n}}
+* Irish: {{t|ga|pianó|m}}
 * Italian: {{t+|it|pianoforte|m}}, {{t+|it|piano|m}}
 * Japanese: {{t+|ja|ピアノ|tr=piano}}
 * Korean: {{t+|ko|피아노|tr=piano|sc=Hang}}
 {{trans-mid}}
-* Latin: [[clavile]] {{n}}
+* Latin: {{t|la|clavile|n}}
 * Latvian: {{t-|lv|klavieres|xs=Latvian}} {{g|Latvian}}
 * Lithuanian: {{t+|lt|pianinas|xs=Lithuanian}}
 * [[Macedonian]]: {{t|mk|пијано|n|tr=pijáno}},  {{t-|mk|клавир|m|tr=klávir}}
@@ -66,17 +60,17 @@ Short form of ''[[pianoforte]]'', from {{etyl|it}} {{term|piano||soft|lang=it}} 
 * Polish: {{t+|pl|pianino|n}}
 * Portuguese: {{t+|pt|piano|m}}
 * Romanian: {{t+|ro|pian|n}}
-* Russian: [[пианино]] (pianíno) {{n}}, [[рояль]] (rojál’) {{m}}
+* Russian: {{t|ru|пианино|n|tr=pianíno}}, {{t|ru|рояль|m|tr=rojál’}}
 * [[Scottish Gaelic]]: {{t|gd|piàna|m}}
 * Serbian:
-*: Cyrillic: [[клавир]] {{m}}
-*: Roman: [[klavir#Serbian|klavir]] {{m}}
+*: Cyrillic: {{t|sr|клавир|msc=Cyrl}}
+*: Roman: {{t|sr|klavir|sc=Latn}}
 * Slovak: {{t-|sk|klavír|m}}
 * Slovene: {{t+|sl|klavir|m}}
 * Spanish: {{t+|es|piano|m}}
 * Swedish: {{t+|sv|piano|n}}
 * [[Tagalog]]: {{t-|tl|piyano|xs=Tagalog}}
-* Thai: {{Thai|[[เปียโน]]}} (piano)
+* Thai: {{t|th|เปียโน|tr=piano}}
 * Turkish: {{t+|tr|piyano}}
 * Ukrainian: {{t+|uk|фортепіано|n|tr=fortepiáno|xs=Ukrainian}}
 {{trans-bottom}}
@@ -90,7 +84,7 @@ Short form of ''[[pianoforte]]'', from {{etyl|it}} {{term|piano||soft|lang=it}} 
 * [[synthesizer]], [[synth]]
 
 ===Adjective===
-'''piano'''
+{{infl|en|adjective}}
 
 # {{music}} [[soft|Soft]]. Used as a [[w:Dynamics (music)|dynamic]] directive in [[w:sheet music|sheet music]] in its abbreviated form, ''{p.}'', to indicate lowering the volume of the music. In the pianoforte this is done by pressing the instrument's keys more lightly.
 
@@ -103,9 +97,7 @@ Short form of ''[[pianoforte]]'', from {{etyl|it}} {{term|piano||soft|lang=it}} 
 ====Translations====
 {{trans-top|soft}}
 * German: {{t+|de|piano}}
-* Icelandic: [[veikur]] {{m}}, [[veik]] {{f}}, [[veikt]] {{n}}
-*: (it is most often used in neuter; i.e. ''veikt'')
-*:: Spilaðu lagið veikt. &mdash; ''Play the song piano.''
+* Icelandic: {{t|is|veikur|m}}, {{t|is|veik|f}}, {{t|is|veikt|n}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|piano}}
 * Slovak: {{t-|sk|piano}}
