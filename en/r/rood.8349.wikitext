@@ -36,7 +36,43 @@ From {{etyl|ang}} {{term|rod|rōd|lang=ang}}.
 * {{IPA|/rot/|lang=nl}}
 
 ===Adjective===
-{{nl-adj|roder}}
+<!--
+-->'''{{PAGENAME}}'''{{#ifeq:rode|pred|&nbsp;(''used only [[predicative]]ly'')|<!--
+-->{{#ifeq:|*|<!--
+-->{{#ifeq:rode|-|<!--
+-->&nbsp;(''[[Appendix:Dutch_parts_of_speech#FAQ about the so-called "inflected form"|not inflected]]'')|<!--
+-->{{#ifeq:rode|*||<!--
+-->&nbsp;(''[[Appendix:Dutch_parts_of_speech#FAQ about the so-called "inflected form"|inflected]]''<!--
+-->&nbsp;'''[[{{#if:rode|rode|{{#if:|{{{infl}}}|{{PAGENAME}}e}}}}]]''')}}}}|<!--
+-->{{#ifeq:rode|-||, <!--
+  --><span class="form-of inflected-form-of lang-nl"><!-- accelerated inflected form creation
+-->'''[[{{#if:rode|rode|{{#if:|{{{infl}}}|{{PAGENAME}}e}}}}]]'''</span><!--
+-->}}}}<!--
+-->{{#ifeq:|*||<!--
+-->&nbsp;(<!--
+====COMPARATIVE====
+-->{{#ifeq:|-|{{#ifeq:rode|-|''not [[Appendix:Dutch_parts_of_speech#Adjectives|inflected]]'',&nbsp;|}}''not [[Appendix:Glossary‎#comparable|comparable]]''|''comparative'' <!--
+  --><span class="form-of comparative-form-of lang-nl"><!-- accelerated comparative form creation
+-->'''[[{{#if:|{{{2}}}|{{#if:|{{{comp}}}|<!--
+-->{{#ifeq:rode|-|{{PAGENAME}}e|rode}}r<!--
+-->}}}}]]'''</span><!--
+-->{{#ifeq:rode|-||, <!--
+  --><span class="form-of inflected-comparative-form-of lang-nl"><!-- accelerated inflected comparative form creation
+-->'''[[{{#if:|{{{2}}}|{{#if:|{{{comp}}}|<!--
+-->{{#ifeq:rode|-|{{PAGENAME}}e|rode}}r<!--
+-->}}}}e]]'''</span><!--
+-->}}<!--
+====SUPERLATIVE====
+-->{{#ifeq:|*||<nowiki>;</nowiki> {{#ifeq:|-|''no superlative''|''superlative'' <!--
+  --><span class="form-of superlative-form-of lang-nl"><!-- accelerated superlative form creation
+-->'''[[{{PAGENAME}}st]]'''</span>, <!--
+  --><span class="form-of inflected-superlative-form-of lang-nl"><!-- accelerated inflected superlative form creation
+-->'''[[{{PAGENAME}}ste]]'''</span>}}}}<!--
+====PARTITIVE====
+-->{{#if:|<nowiki>;</nowiki>&nbsp;''partitive'' '''[[{{{part}}}]]'''|}}<!--
+-->}}<!--
+-->)}}}}<!--
+-->[[Category:Dutch adjectives]]
 
 # [[red]]
 #: ''Veel dakpannen zijn rood'' - A lot of roof tiles are red
