@@ -37,41 +37,49 @@ From {{etyl|ang}} {{term|rod|rōd|lang=ang}}.
 
 ===Adjective===
 <!--
--->'''{{PAGENAME}}'''{{#ifeq:rode|pred|&nbsp;(''used only [[predicative]]ly'')|<!--
--->{{#ifeq:|*|<!--
--->{{#ifeq:rode|-|<!--
--->&nbsp;(''[[Appendix:Dutch_parts_of_speech#FAQ about the so-called "inflected form"|not inflected]]'')|<!--
--->{{#ifeq:rode|*||<!--
--->&nbsp;(''[[Appendix:Dutch_parts_of_speech#FAQ about the so-called "inflected form"|inflected]]''<!--
--->&nbsp;'''[[{{#if:rode|rode|{{#if:|{{{infl}}}|{{PAGENAME}}e}}}}]]''')}}}}|<!--
--->{{#ifeq:rode|-||, <!--
-  --><span class="form-of inflected-form-of lang-nl"><!-- accelerated inflected form creation
--->'''[[{{#if:rode|rode|{{#if:|{{{infl}}}|{{PAGENAME}}e}}}}]]'''</span><!--
--->}}}}<!--
--->{{#ifeq:|*||<!--
--->&nbsp;(<!--
-====COMPARATIVE====
--->{{#ifeq:|-|{{#ifeq:rode|-|''not [[Appendix:Dutch_parts_of_speech#Adjectives|inflected]]'',&nbsp;|}}''not [[Appendix:Glossary‎#comparable|comparable]]''|''comparative'' <!--
-  --><span class="form-of comparative-form-of lang-nl"><!-- accelerated comparative form creation
--->'''[[{{#if:|{{{2}}}|{{#if:|{{{comp}}}|<!--
--->{{#ifeq:rode|-|{{PAGENAME}}e|rode}}r<!--
--->}}}}]]'''</span><!--
--->{{#ifeq:rode|-||, <!--
-  --><span class="form-of inflected-comparative-form-of lang-nl"><!-- accelerated inflected comparative form creation
--->'''[[{{#if:|{{{2}}}|{{#if:|{{{comp}}}|<!--
--->{{#ifeq:rode|-|{{PAGENAME}}e|rode}}r<!--
--->}}}}e]]'''</span><!--
--->}}<!--
-====SUPERLATIVE====
--->{{#ifeq:|*||<nowiki>;</nowiki> {{#ifeq:|-|''no superlative''|''superlative'' <!--
-  --><span class="form-of superlative-form-of lang-nl"><!-- accelerated superlative form creation
--->'''[[{{PAGENAME}}st]]'''</span>, <!--
-  --><span class="form-of inflected-superlative-form-of lang-nl"><!-- accelerated inflected superlative form creation
--->'''[[{{PAGENAME}}ste]]'''</span>}}}}<!--
-====PARTITIVE====
--->{{#if:|<nowiki>;</nowiki>&nbsp;''partitive'' '''[[{{{part}}}]]'''|}}<!--
--->}}<!--
--->)}}}}<!--
+-->'''{{PAGENAME}}'''<!--
+-->{{#ifeq:roder|pred|<!--
+  -->&nbsp;(''used only [[predicative]]ly'')|<!--
+  -->&nbsp;(<!--
+
+  ====INFLECTED FORM====
+  -->{{#if:rode|<!--
+   -->''[[Appendix:Dutch_parts_of_speech#FAQ_about_the_so-called_"inflected_form"|inflected]]'' '''[[rode]]''',&nbsp;|}}<!--
+  
+  ====COMPARATIVE====
+  -->{{#ifeq:roder|-|<!--
+    -->''not [[Appendix:Glossary‎#comparable|comparable]]''|<!--
+    -->''[[Appendix:Glossary#comparative|comparative]]'' '''<!--
+	-->{{#ifeq:roder|peri|<!--
+	  -->meer {{PAGENAME}}|<!--
+	  --><span class="form-of comparative-form-of lang-nl">[[roder]]</span>}}<!--
+	-->{{#if:|<!--
+	  -->''' ''or'' '''<!--
+	  -->{{#ifeq:|peri|<!--
+	    -->meer {{PAGENAME}}|<!--
+	    --><span class="form-of comparative-form-of lang-nl">[[]]</span>}}<!--
+	  -->}}<!--
+	-->'''<!--
+    
+    ====SUPERLATIVE====
+    --><nowiki>,</nowiki> <!--
+    -->{{#ifeq:roodst|-|<!--
+      -->''no superlative''|<!--
+      -->''[[Appendix:Glossary#superlative|superlative]]'' '''<!--
+      -->{{#ifeq:roodst|peri|<!--
+        -->meest {{PAGENAME}}|<!--
+        --><span class="form-of superlative-form-of lang-nl">[[roodst]]</span>}}<!--
+      -->{{#if:|<!--
+        -->''' ''or'' '''<!--
+        -->{{#ifeq:|peri|<!--
+          -->meest {{PAGENAME}}|<!--
+          --><span class="form-of superlative-form-of lang-nl">[[]]</span>}}<!--
+        -->}}<!--
+      -->'''<!--
+      -->}}<!--
+    
+    -->}}<!--
+  -->)}}<!--
 -->[[Category:Dutch adjectives]]
 
 # [[red]]
