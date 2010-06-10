@@ -36,51 +36,7 @@ From {{etyl|ang}} {{term|rod|rōd|lang=ang}}.
 * {{IPA|/rot/|lang=nl}}
 
 ===Adjective===
-<!--
--->'''{{PAGENAME}}'''<!--
--->{{#ifeq:roder|pred|<!--
-  -->&nbsp;(''used only [[predicative]]ly'')|<!--
-  -->&nbsp;(<!--
-
-  ====INFLECTED FORM====
-  -->{{#if:rode|<!--
-   -->''[[Appendix:Dutch_parts_of_speech#FAQ_about_the_so-called_"inflected_form"|inflected]]'' '''[[rode]]''',&nbsp;|}}<!--
-  
-  ====COMPARATIVE====
-  -->{{#ifeq:roder|-|<!--
-    -->''not [[Appendix:Glossary‎#comparable|comparable]]''|<!--
-    -->''[[Appendix:Glossary#comparative|comparative]]'' '''<!--
-	-->{{#ifeq:roder|peri|<!--
-	  -->meer {{PAGENAME}}|<!--
-	  --><span class="form-of comparative-form-of lang-nl">[[roder]]</span>}}<!--
-	-->{{#if:|<!--
-	  -->''' ''or'' '''<!--
-	  -->{{#ifeq:|peri|<!--
-	    -->meer {{PAGENAME}}|<!--
-	    --><span class="form-of comparative-form-of lang-nl">[[]]</span>}}<!--
-	  -->}}<!--
-	-->'''<!--
-    
-    ====SUPERLATIVE====
-    --><nowiki>,</nowiki> <!--
-    -->{{#ifeq:roodst|-|<!--
-      -->''no superlative''|<!--
-      -->''[[Appendix:Glossary#superlative|superlative]]'' '''<!--
-      -->{{#ifeq:roodst|peri|<!--
-        -->meest {{PAGENAME}}|<!--
-        --><span class="form-of superlative-form-of lang-nl">[[roodst]]</span>}}<!--
-      -->{{#if:|<!--
-        -->''' ''or'' '''<!--
-        -->{{#ifeq:|peri|<!--
-          -->meest {{PAGENAME}}|<!--
-          --><span class="form-of superlative-form-of lang-nl">[[]]</span>}}<!--
-        -->}}<!--
-      -->'''<!--
-      -->}}<!--
-    
-    -->}}<!--
-  -->)}}<!--
--->[[Category:Dutch adjectives]]
+{{nl-adj|roder}}
 
 # [[red]]
 #: ''Veel dakpannen zijn rood'' - A lot of roof tiles are red
