@@ -54,7 +54,7 @@
 
 =====Translations=====
 {{trans-top|having much distance from one point to another}}
-* [[Afrikaans]]: {{t|af|ver}}
+* [[Afrikaans]]: {{t+|af|ver|xs=Afrikaans}}
 * Arabic: {{Arab|[[طويل]]}} (ṭawīl) {{m}}
 * Armenian: {{t-|hy|երկար|tr=yerkar}}
 * [[Azeri]]: {{t-|az|uzun|xs=Azeri}}
@@ -64,10 +64,10 @@
 * [[Catalan]]: [[llarg]]
 * [[Chamicuro]]: {{tø|ccc|plawa}}
 * Chinese:
-*: Cantonese: {{t|yue|長|tr=cheung4}}
+*: Cantonese: {{tø|yue|長|tr=cheung4|sc=Hani|xs=Cantonese}}
 *: {{trreq|Gan}}
 *: {{trreq|Hakka}}
-*: Mandarin: {{t|cmn|长|tr=cháng}}
+*: Mandarin: {{t-|cmn|长|tr=cháng|sc=Hani}}
 *: {{trreq|Min Dong}}
 *: {{trreq|Min Nan}}
 *: {{trreq|Wu}}
@@ -80,12 +80,12 @@
 * French: {{t+|fr|long|m}}, {{t+|fr|longue|f}}
 * [[Gagauz]]: {{tø|gag|uzun}}
 * German: {{t+|de|lang}}
-* Hindi: [[लम्बा]] (lambaa)
+* Hindi: {{t-|hi|लम्बा|tr=lambaa|xs=Hindi}}
 * Hungarian: {{t+|hu|hosszú}}
 * {{trreq|Indonesian}}
 * Irish: {{t-|ga|fada|xs=Irish}}
 * Italian: {{t+|it|lungo|m}}, {{t+|it|lunga|f}}
-* Japanese: {{t|ja|長い|tr=ながい, nagai}}
+* Japanese: {{t+|ja|長い|tr=ながい, nagai}}
 * [[Kalmyk]]: {{tø|xal|ут|tr=ut|sc=Cyrl}}
 * [[Karachay-Balkar]]: {{tø|krc|узун|tr=uzun|sc=Cyrl}}
 * [[Karakalpak]]: {{tø|kaa|uzın}}
@@ -112,11 +112,11 @@
 * Slovak: [[dlhý]] {{m}}, [[dlhá]] {{f}}, [[dlhé]] {{n}}
 * Slovene: {{t+|sl|dolg|m}}, {{t-|sl|dolga|f}}, {{t-|sl|dolgo|n}}
 * [[Southern Altai]]: {{tø|alt|узун|tr=uzun|sc=Cyrl}}
-* Spanish: {{t+|es|largo}}, {{t|es|lejos}}
+* Spanish: {{t+|es|largo}}, {{t+|es|lejos}}
 * Swedish: {{t+|sv|lång}}
 * {{trreq|Tamil}}
 * [[Tatar]]: {{t|tt|ozın|xs=Tatar}}
-* Thai: {{t|th|ยาว|yao}}
+* Thai: {{t-|th|ยาว|yao}}
 * Turkish: {{t+|tr|uzun}}
 * Turkmen: {{t-|tk|uzyn|xs=Turkmen}}
 * [[Tuvan]]: {{tø|tyv|узун|tr=uzun|sc=Cyrl}}
@@ -130,14 +130,14 @@
 {{trans-bottom}}
 
 {{trans-top|having great duration}}
-* [[Afrikaans]]: {{t|af|lang}}
+* [[Afrikaans]]: {{t-|af|lang|xs=Afrikaans}}
 * Arabic: {{Arab|[[طويل]]}} (ṭawīl) {{m}}
 * Armenian: {{t-|hy|երկար|tr=yerkar}}
 * Chinese:
-*: Cantonese: {{t|yue|長|tr=cheung4}}
+*: Cantonese: {{tø|yue|長|tr=cheung4|sc=Hani|xs=Cantonese}}
 *: {{trreq|Gan}}
 *: {{trreq|Hakka}}
-*: Mandarin: {{t|cmn|长|tr=cháng}}
+*: Mandarin: {{t-|cmn|长|tr=cháng|sc=Hani}}
 *: {{trreq|Min Dong}}
 *: {{trreq|Min Nan}}
 *: {{trreq|Wu}}
@@ -145,11 +145,11 @@
 * Finnish: {{t+|fi|pitkä}}
 * French: {{t+|fr|long|m}}, {{t+|fr|longue|f}}
 * German: {{t+|de|lang}}
-* Hindi: {{t|hi|लंबा}}
+* Hindi: {{t+|hi|लंबा|xs=Hindi}}
 * Irish: {{t-|ga|fada|xs=Irish}}
 * Italian: {{t+|it|lungo|m}}, {{t+|it|lunga|f}}
 {{trans-mid}}
-* Japanese: {{t|ja|長い|tr=ながい, nagai}}
+* Japanese: {{t+|ja|長い|tr=ながい, nagai}}
 * Korean: [[오래되다]] (oraedoeda)
 * Lithuanian: [[ilgas]] {{m}}, [[ilga]] {{f}}, [[ilga]] {{n}}
 * {{trreq|Mongolian}}
@@ -160,11 +160,11 @@
 * [[Scottish Gaelic]]: {{t-|gd|fada|xs=Scottish Gaelic}}
 * Slovak: [[dlhý]] {{m}}, [[dlhá]] {{f}}, [[dlhé]] {{n}}
 * Slovene: {{t+|sl|dolg|m}}, {{t-|sl|dolga|f}}, {{t-|sl|dolgo|n}}
-* Spanish: {{t|es|largo}}
+* Spanish: {{t+|es|largo}}
 * Swedish: {{t+|sv|lång}}
 * Thai: {{t|th|ยาวนาน}}
 * Turkish: {{t+|tr|uzun}}
-* Ukrainian: {{t|uk|}}
+* Ukrainian: {{t|uk}}
 * {{trreq|Vietnamese}}
 {{trans-bottom}}
 
@@ -226,7 +226,7 @@
 * [[Scots]]: [[lang]]
 * [[Scottish Gaelic]]: {{t-|gd|fada|xs=Scottish Gaelic}}
 * Spanish: {{t+|es|lejos}}
-* Swedish: {{t|sv|långt}}
+* Swedish: {{t+|sv|långt}}
 {{trans-bottom}}
 
 {{trans-top|particular duration}}
@@ -240,7 +240,7 @@
 * Polish: {{t+|pl|długo}}
 * Russian: {{t+|ru|долго|tr=dólgo}}
 * [[Scots]]: [[lang]]
-* Swedish: {{t|sv|länge}}
+* Swedish: {{t+|sv|länge}}
 {{trans-bottom}}
 
 {{trans-top|long duration}}
@@ -252,7 +252,7 @@
 {{trans-mid}}
 * [[Scots]]: [[lang]]
 * [[Scottish Gaelic]]: {{t-|gd|fada|xs=Scottish Gaelic}}
-* Swedish: {{t|sv|länge}}
+* Swedish: {{t+|sv|länge}}
 * Turkish: {{t+|tr|uzun}}
 {{trans-bottom}}
 
