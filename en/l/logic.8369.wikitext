@@ -69,10 +69,10 @@ From {{etyl|fro}} {{term|logique|lang=fro}} < {{etyl|la}} {{term|logica|lang=la}
 ====Translations====
 {{trans-top|method of human thought}}
 * Albanian: {{t|sq|logjikë|f|xs=Albanian}}
-* Arabic: {{Arab|[[منطق]]}} {{IPAchar|(mánṭaq)}} {{m}}, {{t|ar|منطق|m|tr=mánTaq|sc=Arab}}
+* Arabic: {{t|ar|منطق|m|tr=mánTaq|sc=Arab}}
 * [[Azeri]]: {{t|az|məntiq|xs=Azeri}}
-* Chinese: [[逻辑]] (luóji)
-*: Mandarin: {{t|zh|邏輯|sc=Hani}}, {{t|zh|逻辑|tr=luóji|sc=Hani}}, {{t|zh| 論理|sc=Hani}}, {{t|zh|论理|tr=lùnlǐ|sc=Hani}}
+* Chinese:
+*: Mandarin: {{t|zh|邏輯|sc=Hani}}, {{t|zh|逻辑|tr=luóji|sc=Hani}}, {{t|zh|論理|sc=Hani}}, {{t|zh|论理|tr=lùnlǐ|sc=Hani}}
 * Croatian: {{t+|hr|logika|f|alt=lògika}}
 * Czech: {{t-|cs|logika|f}}
 * Dutch: {{t+|nl|logica|f}}
@@ -85,8 +85,8 @@ From {{etyl|fro}} {{term|logique|lang=fro}} < {{etyl|la}} {{term|logica|lang=la}
 * Hungarian: {{t+|hu|logika}}
 * Italian: [[logica#Italian|logica]] {{f}}, logica matematica {{f}}
 {{trans-mid}}
-* Japanese: [[論理]] (ろんり, ronri), {{t|ja|論理|tr=ろんり, ronri|sc=Jpan}}
-* Korean: [[논리]] (nolli), {{t|ko|논리|tr=nolli|sc=Kore}}, {{t|ko|論理|sc=Kore}}
+* Japanese: {{t|ja|論理|tr=ろんり, ronri|sc=Jpan}}
+* Korean: {{t|ko|논리|tr=nolli|sc=Kore}} ({{t|ko|論理|sc=Kore}})
 * [[Macedonian]]: {{t-|mk|логика|f|tr=lógika}}
 * Norwegian: [[logikk]] {{m}}
 * Persian: {{t-|fa|منطق|tr=manteq|xs=Persian}}
@@ -100,11 +100,11 @@ From {{etyl|fro}} {{term|logique|lang=fro}} < {{etyl|la}} {{term|logica|lang=la}
 * [[Telugu]]: [[తర్కం]] (tharkam)
 * Turkish: {{t+|tr|mantık}}
 * Urdu: {{t|ur|ترک|tr=tark|sc=ur-Arab}}
-* Vietnamese: {{t|vi|luận lý}}, {{t|vi| 論理}}
+* Vietnamese: {{t|vi|luận lý}} ({{t|vi|論理}})
 {{trans-bottom}}
 
 {{trans-top|mathematical study}}
-* Arabic: {{Arab|[[منطق]]}} {{IPAchar|(mánṭaq)}} {{m}}
+* Arabic: {{t|ar|منطق|m|tr=mánTaq|sc=Arab}}
 * [[Azeri]]: {{t|az|məntiq|xs=Azeri}}
 * Croatian: {{t+|hr|logika|f|alt=lògika}}
 * Czech: {{t-|cs|logika|f}}
@@ -113,7 +113,7 @@ From {{etyl|fro}} {{term|logique|lang=fro}} < {{etyl|la}} {{term|logica|lang=la}
 * German: {{t+|de|Logik|f}}
 * Hebrew: {{t|he|הגיון|m|tr=higayon}}
 * Italian: {{t+|it|logica|f}}
-* Japanese: [[論理学]] (ろんりがく, ronrigaku)
+* Japanese: {{t|ja|論理学|tr=ろんりがく, ronrigaku|sc=Jpan}}
 {{trans-mid}}
 * [[Macedonian]]: {{t-|mk|логика|f|tr=lógika}}
 * Norwegian: [[logikk]] {{m}}
