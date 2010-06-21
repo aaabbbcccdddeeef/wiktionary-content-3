@@ -9,12 +9,26 @@
 #: ''The exchange rates do not always reflect true differences in the '''purchasing power''' of currencies.''
 
 ====Translations====
+{{trans-top|amount of goods and services that can be purchased with a unit of currency}}
+
+===Noun===
+{{en-noun|-}}
+
+# {{economics}} The amount of [[goods]] and [[service]]s that can be bought with a unit of [[currency]] or by [[consumer|consumers]].
+#: ''High interest rates are affecting the '''purchasing power''' of homeowners.''
+#: ''The exchange rates do not always reflect true differences in the '''purchasing power''' of currencies.''
+
+====Translations====
 {{trans-top|amount of goods and services}}
 * Chinese:
 *: Mandarin: {{t|zh|購買力|sc=Hani}}, {{t|zh|购买力|tr=gòumǎilì|sc=Hani}}
-{{trans-mid}}
 * Czech: {{t-|cs|kupní síla|f}}
 * Finnish: {{t-|fi|ostovoima}}
+* French: {{t|fr|pouvoir d'achat|m}}
+{{trans-mid}}
+* German: {{t|de|Kaufkraft|f}}
+* Japanese: {{t|ja|購買力|tr=こうばいりょく, kōbai-ryoku|sc=Jpan}}
+* Russian: {{t|ru|покупательная способность|f|tr=pokupátel'naya sposóbnost'|sc=Cyrl}}
 {{trans-bottom}}
 
 [[el:purchasing power]]
