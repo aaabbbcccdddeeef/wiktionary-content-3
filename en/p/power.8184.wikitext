@@ -159,7 +159,6 @@
 * Urdu: {{t-|ur|شکتی|f|tr=śakti|xs=Urdu}}
 {{trans-bottom}}
 
-
 {{trans-top|physical force or strength}}
 * Arabic: {{t+|ar|قوة|f|tr=qúwwa}}, {{t-|ar|طاقة|f|tr=Taaqa}}
 * Armenian: {{t-|hy|ուժ|tr=už}}
@@ -194,6 +193,29 @@
 * Swedish: {{t|sv|kraft|c}}
 * Turkish: {{t+|tr|güç}}
 * Urdu: {{t|ur|طاقت|xs=Urdu}}, {{t|ur|قوت|xs=Urdu}},  {{t-|ur|شکتی|f|tr=śakti|xs=Urdu}}
+{{trans-bottom}}
+
+{{trans-top|electricity supply}}
+* Arabic: {{t|ar|طاقة كهربائية|f|tr=Taaqa kahrabaa'íyya}}
+* Armenian: {{t|hy|էլեկտրականություն|tr=ēlektrakanut’yun}},  {{qualifier|colloquially}} {{t-|hy|հոսանք|tr=hosank’}}
+* Chinese:
+*: Mandarin: {{t-|cmn|電力|sc=Hani}}, {{t|cmn|电力|tr=diànlì|sc=Hani}}
+* Dutch: [[voeding]] {{m}}, [[toevoer]] {{m}}, [[stroom]] {{m}}, [[spanning]] {{f}} (These may all be preceded by [[elektrische]]), [[elektriciteit]] {{f}}
+* Finnish: {{t+|fi|virta}}, {{t+|fi|sähkö}}
+* French: {{t+|fr|électricité|f}}, {{t+|fr|courant|m}}
+* German: {{t+|de|Strom|m}}, {{t+|de|Energie|f}}
+* Greek: {{t+|el|ενέργεια|f|tr=energia}}
+{{trans-mid}}
+* Hebrew: {{t+|he|הספק|m|tr=hespeq}}
+* Italian: {{t+|it|elettricità|f}}, {{t+|it|corrente|f}}
+* Japanese: [[電力]] (denryoku)
+* Kurdish: {{t-|ku|کاره‌با|tr=kareba|sc=ku-Arab}}
+* [[Macedonian]]: {{t-|mk|електрицитет|m|tr=elektricitét}}, {{t-|mk|струја|f|tr=strúja}}
+* Norwegian: {{t+|no|kraft|m}}
+* Portuguese: {{t+|pt|força|f}}, {{t+|pt|corrente|f}}, {{t+|pt|eletricidade|f}}
+* Romanian: [[electricitate]] {{f}} [[curent]] {{m}}
+* Russian: {{t+|ru|электричество|n|tr=elektríčestvo}}, {{t+|ru|ток|m}} ''coll.'', {{t+|ru|питание|n|tr=pitánije}}
+* Spanish: {{t+|es|corriente|f}}, {{t+|es|electricidad|f}}
 {{trans-bottom}}
 
 {{trans-top|physics: measure of the rate of doing work or transferring energy}}
@@ -275,27 +297,11 @@
 * Spanish: {{t+|es|potencia|f}}
 {{trans-bottom}}
 
-{{trans-top|electricity supply}}
-* Arabic: {{t|ar|طاقة كهربائية|f|tr=Taaqa kahrabaa'íyya}}
-* Armenian: {{t|hy|էլեկտրականություն|tr=ēlektrakanut’yun}},  {{qualifier|colloquially}} {{t-|hy|հոսանք|tr=hosank’}}
-* Chinese:
-*: Mandarin: {{t-|cmn|電力|sc=Hani}}, {{t|cmn|电力|tr=diànlì|sc=Hani}}
-* Dutch: [[voeding]] {{m}}, [[toevoer]] {{m}}, [[stroom]] {{m}}, [[spanning]] {{f}} (These may all be preceded by [[elektrische]]), [[elektriciteit]] {{f}}
-* Finnish: {{t+|fi|virta}}, {{t+|fi|sähkö}}
-* French: {{t+|fr|électricité|f}}, {{t+|fr|courant|m}}
-* German: {{t+|de|Strom|m}}, {{t+|de|Energie|f}}
-* Greek: {{t+|el|ενέργεια|f|tr=energia}}
+{{trans-see|cardinality}}
+
+{{trans-top|statistics: probability of rejecting the null hypothesis}}
+* Swedish: {{t|sv|styrka|c}}
 {{trans-mid}}
-* Hebrew: {{t+|he|הספק|m|tr=hespeq}}
-* Italian: {{t+|it|elettricità|f}}, {{t+|it|corrente|f}}
-* Japanese: [[電力]] (denryoku)
-* Kurdish: {{t-|ku|کاره‌با|tr=kareba|sc=ku-Arab}}
-* [[Macedonian]]: {{t-|mk|електрицитет|m|tr=elektricitét}}, {{t-|mk|струја|f|tr=strúja}}
-* Norwegian: {{t+|no|kraft|m}}
-* Portuguese: {{t+|pt|força|f}}, {{t+|pt|corrente|f}}, {{t+|pt|eletricidade|f}}
-* Romanian: [[electricitate]] {{f}} [[curent]] {{m}}
-* Russian: {{t+|ru|электричество|n|tr=elektríčestvo}}, {{t+|ru|ток|m}} ''coll.'', {{t+|ru|питание|n|tr=pitánije}}
-* Spanish: {{t+|es|corriente|f}}, {{t+|es|electricidad|f}}
 {{trans-bottom}}
 
 {{trans-top|nation having a strong military and/or economy}}
@@ -320,8 +326,6 @@
 * Slovene: {{t+|sl|sila|f}}
 * Spanish: {{t+|es|potencia|f}}
 {{trans-bottom}}
-
-{{trans-see|cardinality}}
 
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 {{checktrans-top}}
