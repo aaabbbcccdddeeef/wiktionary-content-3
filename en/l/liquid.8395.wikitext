@@ -32,15 +32,15 @@
 
 ====Translations====
 {{trans-top|substance that is liquid}}
-* [[Afrikaans]]: {{t|af|vloeibare}}
+* [[Afrikaans]]: {{t|af|vloeibare|xs=Afrikaans}}
 * Arabic: {{t|ar|سائل|m|tr=saa'il}},  {{t|ar|مائع|m|tr=maa'i3}}
 * Armenian: {{t-|hy|հեղուկ|tr=heġuk}}
-* [[Azeri]]: {{t|az|maye}}, {{t|az|sıyıq}}
-* Bulgarian: {{t|bg|течност|f|tr=tečnost|sc=Cyrl}}
+* [[Azeri]]: {{t-|az|maye|xs=Azeri}}, {{t|az|sıyıq|xs=Azeri}}
+* Bulgarian: {{t+|bg|течност|f|tr=tečnost}}
 * Chinese:
 *: Mandarin: {{t|cmn|液體|sc=Hani}}, {{t-|cmn|液体|tr=yètǐ|sc=Hani}}, {{t|cmn|液態|sc=Hani}}, {{t|cmn|液态|tr=yètài|sc=Hani}}
-* Croatian: {{t-|hr|tekućina|f|alt=tekùćina}}
-* Czech: {{t-|cs|kapalina|f}}, {{t-|cs|tekutina|f}}
+* Croatian: {{t+|hr|tekućina|f|alt=tekùćina}}
+* Czech: {{t+|cs|kapalina|f}}, {{t-|cs|tekutina|f}}
 * Danish: {{t-|da|væske|c}}
 * Dutch: {{t+|nl|vloeistof|f}}
 * Estonian: {{t|et|vedelik}}
@@ -50,21 +50,21 @@
 * Hebrew: {{t+|he|נוזל|tr=nozel}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|folyadék}}, {{t+|hu|lé}}
-* Indonesian: {{t|id|cair}}
+* Indonesian: {{t+|id|cair|xs=Indonesian}}
 * Japanese: {{t+|ja|液体|tr=えきたい, ekitai}}, {{t|ja|流体|tr=りゅうたい, ryūtai}}
 * Korean: {{t+|ko|액체|tr=aegche|sc=Hang}}
-* Latin: {{t|la|liquidus|m}}
+* Latin: {{t-|la|liquidus|m}}
 * Latvian: {{t|lv|šķidrums|m|xs=Latvian}}
 * [[Macedonian]]: {{t-|mk|течност|f|tr=téčnost}}
 * Polish: {{t+|pl|ciecz|f}}
 * Portuguese: {{t+|pt|líquido|m}}
-* Romanian: {{t|ro|lichid|m}}
+* Romanian: {{t-|ro|lichid|m}}
 * Russian: {{t+|ru|жидкость|f|tr=žídkost'}}
 * Slovene: {{t-|sl|tekočina|f}}
 * Spanish: {{t+|es|líquido|m}}
 * Swahili: {{t+|sw|majimaji|xs=Swahili}}
 * Turkish: {{t+|tr|sıvı}}
-* Vietnamese: {{t|vi|nước}}
+* Vietnamese: {{t+|vi|nước|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|''l'' or ''r'' sound}}
@@ -122,7 +122,7 @@
 
 ====Translations====
 {{trans-top|fluid; not solid and not gaseous}}
-* [[Afrikaans]]: {{t|af|vloeibare}}
+* [[Afrikaans]]: {{t|af|vloeibare|xs=Afrikaans}}
 * Armenian: [[հեղուկ]] (heġuk)
 * Croatian: {{t-|hr|tekući|alt=tèkūćī}}, {{t|hr|židak|alt=žȉdak}}
 * Czech: {{t-|cs|tekutý|m}}, {{t-|cs|kapalný|m}}
@@ -134,7 +134,7 @@
 * German: {{t+|de|flüssig}}
 * Hebrew: {{t-|he|נוזלי|m|tr=nozlí}}, {{t-|he|נוזלית|f|tr=nozlít}}
 * Hungarian: {{t+|hu|folyékony}}
-* Indonesian: {{t|id|cair}}
+* Indonesian: {{t+|id|cair|xs=Indonesian}}
 * [[Interlingua]]: [[liquide]]
 {{trans-mid}}
 * Latvian: [[šķidrs]] {{m}}, [[šķidra]] {{f}}
@@ -150,7 +150,7 @@
 * Swahili: {{t+|sw|majimaji|xs=Swahili}}
 * Swedish: {{t+|sv|flytande}}
 * Turkish: {{t+|tr|sıvı}}
-* Vietnamese: {{t|vi|nước}}
+* Vietnamese: {{t+|vi|nước|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|of an asset, easily sold or disposed of}}
