@@ -80,7 +80,7 @@ From {{etyl|ang|-}} {{term|lang=ang|help}}.
 * [[Macedonian]]: {{t|mk|помош|f|tr=pómoš}}
 * Malay: {{t-|ms|tolong|xs=Malay}}
 * [[Malayalam]]: [[സഹായം]] (sahaayam)
-* Maltese: {{t-|mt|għajnuna|xs=Maltese}}
+* Maltese: {{t+|mt|għajnuna|xs=Maltese}}
 * Norwegian: {{t+|no|hjelp}}
 * Persian: {{t+|fa|کمک|tr=komak|xs=Persian}},  {{t|fa|یاری|tr=yâri|xs=Persian}}
 * Polish: {{t+|pl|pomoc|f}}
@@ -99,7 +99,7 @@ From {{etyl|ang|-}} {{term|lang=ang|help}}.
 * Turkish: {{t+|tr|yardım}}
 * Ukrainian: {{t|uk|допомога|f|tr=dopomóha|xs=Ukrainian}}
 * Urdu: {{t|ur|مدد|tr=madad|xs=Urdu}}
-* Vietnamese: {{t|vi|giúp|xs=Vietnamese}},  {{t|vi|giúp đỡ|xs=Vietnamese}},  {{t|vi|trợ giúp|xs=Vietnamese}},  {{t|vi|hỗ trợ|xs=Vietnamese}}
+* Vietnamese: {{t+|vi|giúp|xs=Vietnamese}},  {{t|vi|giúp đỡ|xs=Vietnamese}},  {{t|vi|trợ giúp|xs=Vietnamese}},  {{t|vi|hỗ trợ|xs=Vietnamese}}
 * [[West Frisian]]: help
 {{trans-bottom}}
 
@@ -184,7 +184,7 @@ From {{etyl|ang|-}} {{term|helpan}}, from {{proto|Germanic|help}}, from {{proto|
 * Armenian: {{t|hy|օգնել|tr=ognel}}
 * [[Basque]]: [[lagundu]]
 * Belarusian: {{t|be|дапамагаць|tr=dapamahác'|xs=Belarusian}} {{impf}},  {{t|be|дапамагці|tr=dapamahcí|xs=Belarusian}} {{pf}}
-* Bulgarian: {{t+|bg|помагам|tr=pomagam}} {{impf}}; {{t|bg|помогна|tr=помогна}} {{pf}}
+* Bulgarian: {{t+|bg|помагам|tr=pomagam}} {{impf}}; {{t-|bg|помогна|tr=помогна}} {{pf}}
 * [[Catalan]]: [[ajudar]]
 * Chinese:
 *: Mandarin: {{t-|cmn|幫助|sc=Hani}},  {{t-|cmn|帮助|tr=bāngzhù|sc=Hani}},  {{t-|cmn|幫忙|sc=Hani}},  {{t-|cmn|帮忙|tr=bāngmáng|sc=Hani}}
@@ -231,7 +231,7 @@ From {{etyl|ang|-}} {{term|helpan}}, from {{proto|Germanic|help}}, from {{proto|
 * Swahili: {{t-|sw|kusaidia|xs=Swahili}}
 * Swedish: {{t+|sv|hjälpa}}
 * [[Tagalog]]: [[tumulong]], [[tulungan]]
-* Thai: {{t|th|ช่วยเหลือ|tr=chûay-lĕua}}, {{t|th|ช่วย|tr=chûay|sc=Thai}}
+* Thai: {{t|th|ช่วยเหลือ|tr=chûay-lĕua}}, {{t-|th|ช่วย|tr=chûay}}
 * Turkish: {{t+|tr|yardım etmek}}
 * Ukrainian: {{t|uk|допомагати|tr=dopomoháty|xs=Ukrainian}} {{impf}},  {{t|uk|допомогти|tr=dopomohtý|xs=Ukrainian}} {{pf}}
 * Urdu: {{t|ur|مدد کرنا|tr=madad karnā|xs=Urdu}}
@@ -272,13 +272,13 @@ From {{etyl|ang|-}} {{term|helpan}}, from {{proto|Germanic|help}}, from {{proto|
 
 =====Translations=====
 {{trans-top|Desperately need assistance}}
-* Arabic: {{t|ar|مساعدة|tr=musaa3da|sc=Arab}}
+* Arabic: {{t|ar|مساعدة|tr=musaa3da}}
 * [[Catalan]]: [[socors]]!
 * Chinese:
-*: Mandarin: {{t|zh|救命|tr=jiùmìng!|alt=救命！|sc=Hani}}, {{t|zh|帮助|tr=bāngzhù|sc=Hani}}
+*: Mandarin: {{t|cmn|救命|alt=救命！|tr=jiùmìng!|sc=Hani}}, {{t-|cmn|帮助|tr=bāngzhù|sc=Hani}}
 * Czech: [[pomoc]]!
 * Danish: {{t+|da|hjælp}}
-* Dutch: {{t|nl|help|alt=help!}}, {{t|nl|hulp|alt=hulp!}}
+* Dutch: {{t+|nl|help|alt=help!}}, {{t+|nl|hulp|alt=hulp!}}
 * Esperanto: [[helpon]]!
 * Estonian: [[appi]]!
 * Finnish: [[apua]]!, [[auttakaa]]!
@@ -289,10 +289,10 @@ From {{etyl|ang|-}} {{term|helpan}}, from {{proto|Germanic|help}}, from {{proto|
 * Hungarian: [[segítség]]!
 * Icelandic: [[hjálp]]!
 * Italian: [[aiuto]]!
-* Japanese: {{t|ja|助けて|tr=tasukete!|alt=助けて！|sc=Jpan}}
+* Japanese: {{t-|ja|助けて|alt=助けて！|tr=tasukete!}}
 * [[Jingpho]]: [[karum la rit law]]!, [[hkye la rit law]]!
 {{trans-mid}}
-* Korean: {{t|ko|도와주세요|tr=dowajuseyo!|alt=도와주세요!|sc=Kore}}
+* Korean: {{t|ko|도와주세요|alt=도와주세요!|tr=dowajuseyo!}}
 * Kurdish: {{t+|ku|hewar}}!
 * Lithuanian: [[gelbėkit]]!, [[padėkit]]!, [[pagalbos]]!
 * [[Macedonian]]: [[на помош]]! (ná pomoš!), [[помагајте]]! (pomágajte!)
@@ -301,13 +301,13 @@ From {{etyl|ang|-}} {{term|helpan}}, from {{proto|Germanic|help}}, from {{proto|
 * Polish: [[pomocy]]!, [[ratunku]]!
 * Portuguese: [[socorro]]!, [[ajuda]]!
 * Romanian: [[ajutor]]!
-* Russian: {{t|ru|помогите|tr=pomogíte!|alt=помогите!|sc=Cyrl}}, {{t|ru|на помощь|tr=na pómošč'!|alt=на помощь!|sc=Cyrl}}, {{t|ru|спасите|tr=spasíte!|alt=спасите!|sc=Cyrl}}
+* Russian: {{t-|ru|помогите|alt=помогите!|tr=pomogíte!}}, {{t-|ru|на помощь|alt=на помощь!|tr=na pómošč'!}}, {{t|ru|спасите|alt=спасите!|tr=spasíte!}}
 * Slovene: [[na pomoč]]!
 * Spanish: ¡[[socorro]]!, ¡[[auxilio]]!
 * Swahili: {{t|sw|msaidizi|xs=Swahili}}
 * Swedish: [[hjälp]]!
-* Thai: {{t|th|ช่วยด้วย|tr=chûay-dûay|sc=Thai}}, {{t|th|ช่วย|tr=chûay|sc=Thai}}
-* Vietnamese: {{t|vi|cứu với|alt=cứu với!}}, {{t|vi|cứu tôi với|alt=cứu tôi với!}}, {{t|vi|giúp đỡ|alt=giúp đỡ!}}
+* Thai: {{t|th|ช่วยด้วย|tr=chûay-dûay}}, {{t-|th|ช่วย|tr=chûay}}
+* Vietnamese: {{t|vi|cứu với|alt=cứu với!|xs=Vietnamese}}, {{t|vi|cứu tôi với|alt=cứu tôi với!|xs=Vietnamese}}, {{t|vi|giúp đỡ|alt=giúp đỡ!|xs=Vietnamese}}
 {{trans-bottom}}
 
 [[Category:English control verbs]]
