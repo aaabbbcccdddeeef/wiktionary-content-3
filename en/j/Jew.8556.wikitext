@@ -42,7 +42,7 @@ From {{etyl|fro}} {{term|juiu|lang=fro}}, {{term|gyu|lang=fro}} < {{etyl|la|en}}
 ====Translations====
 {{trans-top|person of the Jewish faith}}
 * Albanian: {{t|sq|çifut|m|xs=Albanian}}
-* Arabic: {{t|ar|يهودي|m|tr=yahuudiy|sc=Arab}}, {{t|ar|يهودية|f|tr=yahudíyya|sc=Arab}}
+* Arabic: {{t-|ar|يهودي|m|tr=yahuudiy}}, {{t|ar|يهودية|f|tr=yahudíyya}}
 * Armenian: {{t-|hy|հրեա|tr=hrea}}
 * [[Azeri]]: {{t|az|yəhudi|xs=Azeri}}
 * Belarusian: {{t|be|яўрэй|m|tr=jawréj|xs=Belarusian}},  {{t|be|яўрэйка|f|tr=jawréjka|xs=Belarusian}}, {{qualifier|now obsolete}} {{t|be|габрэй|m|tr=habréj|xs=Belarusian}},  {{t|be|габрэйка|f|tr=habréjka|xs=Belarusian}}
@@ -50,7 +50,7 @@ From {{etyl|fro}} {{term|juiu|lang=fro}}, {{term|gyu|lang=fro}} < {{etyl|la|en}}
 * Bulgarian: {{t+|bg|евреин|m|tr=evrein}}, {{t-|bg|еврейка|f|tr=evreyka}}
 * [[Catalan]]: [[jueu]] {{m}}, [[jueva]] {{f}}
 * Chinese:
-*: Mandarin: {{t|zh|猶太人|sc=Hani}}, {{t|zh|犹太人|tr=Yóutàirén|sc=Hani}}
+*: Mandarin: {{t|cmn|猶太人|sc=Hani}}, {{t|cmn|犹太人|tr=Yóutàirén|sc=Hani}}
 * Croatian: {{t-|hr|Židov|m}},  {{t-|hr|Židovka|f}}
 * Czech: {{t-|cs|Žid|m}}, {{t-|cs|Židovka|f}}
 * Danish: {{t-|da|jøde|c}}
@@ -62,22 +62,22 @@ From {{etyl|fro}} {{term|juiu|lang=fro}}, {{term|gyu|lang=fro}} < {{etyl|la|en}}
 * French: {{t+|fr|Juif|m}}, {{t+|fr|Juive|f}}
 * Georgian: {{t-|ka|ებრაელი|tr=ebrauli|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Jude|m}}, {{t+|de|Jüdin|f}}
-* Greek: {{t+|el|Εβραίος|m|tr=evréos}}, {{t|el|Εβραία|f|sc=Grek}}, {{t|el|Ισραηλίτης|m|sc=Grek}}, {{t|el|Ισραηλίτισσα|f|sc=Grek}}
-* Hebrew: {{t|he|יהודי|m|tr=Yehudí|sc=Hebr}}, {{t|he|יהודיה|f|tr=Yehudiyá|sc=Hebr}}, {{t|he|יהודים|m|p|tr=Yehudím|sc=Hebr}}, {{t|he|יהודיות|f|p|tr=Yehudiyót|sc=Hebr}}
+* Greek: {{t+|el|Εβραίος|m|tr=evréos}}, {{t+|el|Εβραία|f}}, {{t|el|Ισραηλίτης|m}}, {{t|el|Ισραηλίτισσα|f}}
+* Hebrew: {{t+|he|יהודי|m|tr=Yehudí}}, {{t|he|יהודיה|f|tr=Yehudiyá}}, {{t+|he|יהודים|m|p|tr=Yehudím}}, {{t|he|יהודיות|f|p|tr=Yehudiyót}}
 * Hindi: {{t-|hi|यहूदी|tr=yahūdī|xs=Hindi}}
 * Hungarian: {{t+|hu|zsidó}}
 * Indonesian: {{t-|id|Yahudi|xs=Indonesian}}
 * Italian: {{t+|it|ebreo|m}}, {{t+|it|ebrea|f}}
-* Japanese: {{t|ja|ユダヤ人|tr=Yudaya-jin|sc=Jpan}} ({{t|ja|猶太人|sc=Jpan}})
+* Japanese: {{t|ja|ユダヤ人|tr=Yudaya-jin}} ({{t|ja|猶太人}})
 {{trans-mid}}
-* Korean: {{t|ko|유대인|tr=Yudaein|sc=Kore}}, {{t|ko|유태인|tr=Yutaein|sc=Kore}} ({{t|ko|猶太人|sc=Kore}})
+* Korean: {{t|ko|유대인|tr=Yudaein}}, {{t|ko|유태인|tr=Yutaein}} ({{t|ko|猶太人}})
 * Kurdish: {{ku-Arab|[[جوله‌که‌]]}}
 * Latin: [[Iudaeus]] {{m}}, [[Iudaea]] {{f}}
 * Latvian: [[ebrejs]] {{m}}, [[žīds]] {{m}}
 * Malay: {{t+|ms|Yahudi|xs=Malay}}
 * Maltese: {{t-|mt|ludi|xs=Maltese}}
 * Norwegian: {{t+|no|jøde|m}}
-* Persian: {{t|fa|یهودی|tr=yahudi|sc=fa-Arab}}
+* Persian: {{t-|fa|یهودی|tr=yahudi}}
 * Polish: {{t+|pl|żyd|m}}, {{t|pl|żydówka|f}}
 * Portuguese: {{t+|pt|judeu|m}}, {{t+|pt|judia|f}}
 * Romanian: [[evreu]] {{m}}, [[evreică]] {{f}}
@@ -92,23 +92,23 @@ From {{etyl|fro}} {{term|juiu|lang=fro}}, {{term|gyu|lang=fro}} < {{etyl|la|en}}
 * Swahili: {{t|sw|wayahudi|xs=Swahili}}
 * Swedish: {{t+|sv|jude|c}}
 * [[Telugu]]: [[యూదు]] (yUdu)
-* Thai: {{t|th|ยิว|tr=yiw|sc=Thai}}, {{t|th|คนยิว|tr=kon yiw|sc=Thai}}, {{t|th|ชาวยิว|tr=chaao yiw|sc=Thai}}
+* Thai: {{t|th|ยิว|tr=yiw}}, {{t|th|คนยิว|tr=kon yiw}}, {{t|th|ชาวยิว|tr=chaao yiw}}
 * Turkish: {{t+|tr|Yahudi}}
 * Ukrainian: {{t|uk|іудей|m|tr=iudéj|xs=Ukrainian}}, {{t|uk|іудейка|f|tr=iudéjka|xs=Ukrainian}}
-* Urdu: {{t|ur|یہودی|tr=yahūdī|sc=ur-Arab}}
-* Vietnamese: {{t|vi|Do thái|alt=người Do thái}}
+* Urdu: {{t-|ur|یہودی|tr=yahūdī|xs=Urdu}}
+* Vietnamese: {{t|vi|Do thái|alt=người Do thái|xs=Vietnamese}}
 * [[West Frisian]]: [[joad]] {{m}}, [[joadinne]] {{f}}
-* Yiddish: {{t|yi|ייִד|m|tr=Yid|sc=yi-Hebr}}
+* Yiddish: {{t-|yi|ייִד|m|tr=Yid|sc=yi-Hebr|xs=Yiddish}}
 {{trans-bottom}}
 
 {{trans-top|a person with a Jewish cultural or ancestral connection}}
-* Arabic: {{t|ar|يهودي|m|tr=yahuudiy|sc=Arab}}, {{t|ar|يهودية|f|tr=yahudíyya|sc=Arab}}
+* Arabic: {{t-|ar|يهودي|m|tr=yahuudiy}}, {{t|ar|يهودية|f|tr=yahudíyya}}
 * Armenian: {{t-|hy|հրեա|tr=hrea}}
 * Belarusian: {{t|be|яўрэй|m|tr=jawréj|xs=Belarusian}},  {{t|be|яўрэйка|f|tr=jawréjka|xs=Belarusian}},  {{t|be|габрэй|m|tr=habréj|xs=Belarusian}},  {{t|be|габрэйка|f|tr=habréjka|xs=Belarusian}},  {{qualifier|now abusive}} {{t|be|жыд|m|tr=žyd|xs=Belarusian}},  {{t|be|жыдоўка|f|tr=žydówka|xs=Belarusian}}
 * Bulgarian: {{t|bg|евреин|m|tr=evrein}}
 * [[Catalan]]: {{t|ca|jueu|m}},  {{t|ca|jueva|f}}
 * Chinese:
-*: Mandarin: {{t|zh|猶太人|sc=Hani}}, {{t|zh|犹太人|tr=Yóutàirén|sc=Hani}}
+*: Mandarin: {{t|cmn|猶太人|sc=Hani}}, {{t|cmn|犹太人|tr=Yóutàirén|sc=Hani}}
 * Croatian: {{t|hr|Jevrejin|m}}
 * Czech: {{t-|cs|Žid|m}}, {{t-|cs|Židovka|f}}
 * Dutch: {{t+|nl|Joods|m|f}}
@@ -116,11 +116,11 @@ From {{etyl|fro}} {{term|juiu|lang=fro}}, {{term|gyu|lang=fro}} < {{etyl|la|en}}
 * French: {{t+|fr|Juif|m}},  {{t|fr|Juive}}
 * German: {{t+|de|Jude|m}},  {{t+|de|Jüdin|f}}
 {{trans-mid}}
-* Greek: {{t|el|Εβραίος|m|sc=Grek}}, {{t|el|Εβραία|f|sc=Grek}}, {{t|el|Ισραηλίτης|m|sc=Grek}}, {{t|el|Ισραηλίτισσα|f|sc=Grek}}
-* Hebrew: {{t|he|יהודי|m|tr=Yehudí|sc=Hebr}}, {{t|he|יהודיה|f|tr=Yehudiyá|sc=Hebr}}, {{t|he|יהודים|m|p|tr=Yehudím|sc=Hebr}}, {{t|he|יהודיות|f|p|tr=Yehudiyót|sc=Hebr}}
+* Greek: {{t+|el|Εβραίος|m}}, {{t+|el|Εβραία|f}}, {{t|el|Ισραηλίτης|m}}, {{t|el|Ισραηλίτισσα|f}}
+* Hebrew: {{t+|he|יהודי|m|tr=Yehudí}}, {{t|he|יהודיה|f|tr=Yehudiyá}}, {{t+|he|יהודים|m|p|tr=Yehudím}}, {{t|he|יהודיות|f|p|tr=Yehudiyót}}
 * Hungarian: {{t+|hu|zsidó}}
-* Japanese: {{t|ja|ユダヤ人|tr=Yudaya-jin|sc=Jpan}}
-* Korean: {{t|ko|유대인|tr=Yudaein|sc=Kore}}, {{t|ko|유태인|tr=Yutaein|sc=Kore}}
+* Japanese: {{t|ja|ユダヤ人|tr=Yudaya-jin}}
+* Korean: {{t|ko|유대인|tr=Yudaein}}, {{t|ko|유태인|tr=Yutaein}}
 * Kurdish: {{ku-Arab|[[جوله‌که‌]]}}
 * [[Lower Sorbian]]: [[Žyd]] {{m}}
 * Norwegian: {{t+|no|jøde|m}}
