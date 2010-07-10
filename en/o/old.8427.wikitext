@@ -146,7 +146,7 @@
 * Armenian: [[հին]] (hin)
 * [[Basque]]: [[zahar]]
 * Bosnian: {{t-|bs|star}}
-* [[Catalan]]: {{t+|ca|vell}}, {{t|ca|antic}}
+* [[Catalan]]: {{t+|ca|vell}}, {{t+|ca|antic}}
 * Chinese:
 *: Mandarain: [[舊]]的, [[旧]]的 (jiù de), 很[[久]]的 (hěn jiǔ de), [[古老]]的 (gǔlǎo de)
 * Croatian: {{t+|hr|star}}
@@ -155,7 +155,7 @@
 * Dutch: {{t+|nl|oud}}
 * [[Ewe]]: [[xoxo]]
 * Finnish: {{t+|fi|vanha}}
-* French: {{t|fr|vieux}} {{i|used before the noun}}
+* French: {{t+|fr|vieux}} {{i|used before the noun}}
 * [[Galician]]: {{t+|gl|vello|xs=Galician}}
 * German: {{t+|de|alt}}
 * Greek: {{t+|el|παλιός|m}} (paliós), {{t+|el|αρχαίος|m}} (archaíos)
@@ -164,23 +164,23 @@
 * Icelandic: {{t+|is|gamall}}
 * [[Ido]]: [[anciena]]
 * Irish: {{t-|ga|sean|xs=Irish}}
-* Italian: {{t|it|vecchio}}
+* Italian: {{t+|it|vecchio}}
 * Japanese: [[古い]] ([[ふるい]], furui)
 * Korean: [[낡다]] (nakda), [[오래되다]] (orae-doeda)
 * Kurdish: {{t+|ku|kevn}}, {{t+|ku|کۆن|sc=ku-Arab}}
 {{trans-mid}}
-* Latin: {{t|la|vetus}}, {{t|la|vetulus}}
+* Latin: {{t+|la|vetus}}, {{t+|la|vetulus}}
 * [[Malayalam]]: [[പഴയ]] (pazhaya), [[പഴയത്]] (pazhayathu)
 * Norwegian: {{t+|no|gammel}}
-* [[Occitan]]: {{t|oc|vièlh}}
+* [[Occitan]]: {{t|oc|vièlh|xs=Occitan}}
 * [[Old Church Slavonic]]: {{tø|cu|старъ|tr=starŭ|sc=Cyrs}}
 * [[Old English]]: {{t+|ang|eald|xs=Old English}}, {{t-|ang|gamol|xs=Old English}}
 * Persian: {{t+|fa|کهن|tr=kohan|xs=Persian}}, {{t|fa|دیرین|tr=dirin|xs=Persian}}
 * Polish: {{t+|pl|stary}}
 * Portuguese: {{t+|pt|velho}}
 * [[Romani]]: {{tø|rom|phurano}}
-* Romanian: {{t|ro|vechi}}
-* [[Romansch]]: {{t|rm|vegl}}
+* Romanian: {{t-|ro|vechi}}
+* [[Romansch]]: {{t|rm|vegl|xs=Romansch}}
 * Russian: {{t+|ru|старый|tr=stáryj}}
 * [[Scottish Gaelic]]: [[sean]], [[aosda]], [[aosmhor]]
 * Serbian:
@@ -188,7 +188,7 @@
 *: Roman: [[star#Serbian|star]]
 * Slovak: {{t-|sk|starý}}
 * Slovene: {{t+|sl|star}}
-* Spanish: {{t+|es|antiguo}}; {{t|es|viejo}}
+* Spanish: {{t+|es|antiguo}}; {{t+|es|viejo}}
 * Swahili: {{t+|sw|mkongwe|xs=Swahili}}, {{t+|sw|ukale|xs=Swahili}}
 * Swedish: {{t|sv|använd}}, {{t|sv|förlegad}}, {{t+|sv|gammal}}, {{t|sv|utsliten}}
 * [[Tagalog]]: {{t-|tl|luma|xs=Tagalog}}
@@ -215,21 +215,21 @@
 * Esperanto: {{t-|eo|maljuna|xs=Esperanto}}
 * Estonian: {{t-|et|vana}}
 * Finnish: {{t+|fi|vanha}}
-* French: {{t|fr|vieux}} {{i|used before the noun}}
+* French: {{t+|fr|vieux}} {{i|used before the noun}}
 * [[Galician]]: {{t+|gl|vello|xs=Galician}}
 * German: {{t+|de|alt}}
 * Greek: {{t|el|γηραιός|m}} (giraiós), {{t|el|ηλικιωμένος|m}} (ilikioménos)
-* Hebrew: {{t|he|זקן|alt=זָקֵן|tr=zaken}}, {{t+|he|קשיש|m|tr=kashish}}
+* Hebrew: {{t+|he|זקן|alt=זָקֵן|tr=zaken}}, {{t+|he|קשיש|m|tr=kashish}}
 * [[Hiligaynon]]: {{tø|hil|baug|alt=baúg}}
 * Hungarian: {{t+|hu|öreg}}
 * [[Ido]]: [[olda]]
 * Irish: {{t-|ga|sean|xs=Irish}}
-* Italian: {{t|it|vecchio}}
+* Italian: {{t+|it|vecchio}}
 * Japanese: {{t-|ja|年寄}}, {{t-|ja|年寄り|tr=としより, toshiyorí}} {{qualifier|noun}}
 {{trans-mid}}
 * Korean: [[늙다]] (neukda), [[나이들다]] (nai-deulda), {{t+|ko|늙다|tr=neukda|sc=Hang}}, {{t|ko|나이들다|tr=nai-deulda|sc=Hang}}
 * Kurdish: {{ku-Arab|[[پیره‌مێرد]]}} (man), {{ku-Arab|[[پیره‌ژن]]}} (woman), [[pîr]], {{ku-Arab|[[پیر]]}}
-* Latin: {{t+|la|vetus}}, {{t+|la|vetulus}}, {{t|la|senex}}
+* Latin: {{t+|la|vetus}}, {{t+|la|vetulus}}, {{t-|la|senex}}
 * [[Malayalam]]: [[പഴയ]] (pazhaya), [[പഴയത്]] (pazhayathu)
 * Norwegian: {{t+|no|gammel}}
 * [[Old Church Slavonic]]: {{tø|cu|старъ|tr=starŭ|sc=Cyrs}}
@@ -238,8 +238,8 @@
 * Polish: {{t+|pl|stary}}
 * Portuguese: {{t+|pt|velho}}
 * [[Romani]]: {{tø|rom|phuro}}
-* Romanian: {{t|ro|bătrân}}
-* [[Romansch]]: {{t|rm|vegl}}
+* Romanian: {{t+|ro|bătrân}}
+* [[Romansch]]: {{t|rm|vegl|xs=Romansch}}
 * Russian: {{t+|ru|старый|tr=stáryj}}
 * Serbian:
 *: Cyrillic: {{t-|sr|стар|sc=Cyrl}}
@@ -263,9 +263,9 @@
 *: Mandarin: [[前]] (qián)
 * Czech: {{t+|cs|starý}}
 * Danish: [[tidligere]]
-* Finnish: {{t|fi|vanha}}, {{t|fi|entinen}}
-* French: {{t|fr|ancien}} {{i|used before the noun}}, {{t|fr|ex-}}
-* German: {{t|de|alt}}
+* Finnish: {{t+|fi|vanha}}, {{t+|fi|entinen}}
+* French: {{t+|fr|ancien}} {{i|used before the noun}}, {{t+|fr|ex-}}
+* German: {{t+|de|alt}}
 * Greek: {{t+|el|πρώην|tr=próin}}, {{t|el|τέως|tr=téos}}
 * Hebrew: {{t|he|קודם|m|tr=kodem}}
 * Irish: {{t-|ga|sean|xs=Irish}}, {{t-|ga|ath-|xs=Irish}}
@@ -282,7 +282,7 @@
 *: Roman: [[star#Serbian|star]]
 * Slovak: {{t-|sk|starý}}
 * Slovene: {{t+|sl|star}}
-* Spanish: {{t+|es|viejo}} {{i|used before the noun}}; ''sometimes with people'' {{t|es|ex-}}
+* Spanish: {{t+|es|viejo}} {{i|used before the noun}}; ''sometimes with people'' {{t-|es|ex-}}
 * Swahili: {{t+|sw|mkongwe|xs=Swahili}}, {{t+|sw|ukale|xs=Swahili}}
 * Swedish: {{t+|sv|tidigare}}, {{t|sv|före detta}}
 * [[Tagalog]]: {{t-|tl|dating|xs=Tagalog}}
@@ -301,11 +301,11 @@
 *:: I am five years old - ''我五歲'', ''我五岁''(wǒ wǔ suì)
 * Czech: {{t+|cs|starý}}
 * Danish: {{t+|da|gammel}}
-* Finnish: {{t-|fi|-vuotias}},  {{t|fi|vanha}}, {{t|fi|ikäinen}}
+* Finnish: {{t+|fi|-vuotias}},  {{t+|fi|vanha}}, {{t-|fi|ikäinen}}
 * French: ''translated by [[avoir]] followed by the length of time''
 *: She’s five years old — ''Elle a cinq ans''
 *: a five-year-old car — ''une voiture qui a cinq ans'', ''une voiture de cinq ans''
-* German: {{t|de|alt}}
+* German: {{t+|de|alt}}
 * Hebrew: [[בן|בֵּן]] (ben) {{m}}, [[בת|בַּת]] (bat) {{f}}
 *: She’s five years old — ''הִיא בַּת חָמֵש שָׁנִים''
 *: a five-year-old car — ''מְכוֹנִית בַּת חָמֵש שָׁנִים''
@@ -336,7 +336,7 @@
 
 {{trans-top|Tiresome}}
 * French: {{t+|fr|ça commence à bien faire}}
-* German: {{t|de|alt}}
+* German: {{t+|de|alt}}
 {{trans-mid}}
 * [[Hiligaynon]]: {{tø|hil|baug|alt=baúg}}
 {{trans-bottom}}
