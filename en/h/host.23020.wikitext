@@ -322,31 +322,34 @@ Like English, mostly {{IPA|/hoʊst/|lang=nl}}, {{SAMPA|/hoUst/}}.
 {{rfp|lang=Norwegian}}
 
 ===Etymology 1===
-Related to {{term|hoste||to cough|lang=no}}.
+Related to ''{{nn-inf|host|e=1|/}}'' ("to cough").
 
 ====Noun====
-{{no-noun-m1}}<br>
-{{no-noun-n1}}
+{{infl|no|noun}}
 
-# A single [[cough]] [[expulsion]].
+# A single [[cough]] [[expulsion]]
+
+====Inflection====
+{{no-noun-infl|nb-class=irreg|nb-g=m|nb-ds=hosten|nb-ip=host|nb-dp=hostene|nb-class2=n1|nn-class=n1}}
 
 ====Verb====
-'''host'''
+{{infl|no|verb form}}
 
-# ''Imperative'' of [[hoste#Norwegian|hoste]].
+# {{inflection of|{{nn-inf|host|e=1|/}}|||Imperative|lang=no}}
 
 ===Etymology 2===
 From {{etyl|en|no}}.
 
 ====Noun====
-{{no-noun-m1}}
+{{infl|no|noun|g=m}}
 
-# {{computing|lang=no}} [[host#English|host]]
+# {{computing|lang=no}} [[#English|host]]
+
+====Inflection====
+{{no-noun-infl|nb-class=m1|nn-class=m1}}
 
 =====Synonyms=====
 * [[vertsmaskin]]
-
-[[Category:Norwegian verb forms]]
 
 ----
 
