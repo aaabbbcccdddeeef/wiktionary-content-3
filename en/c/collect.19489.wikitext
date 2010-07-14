@@ -1,27 +1,13 @@
 ==English==
 
-===Etymology===
-(noun) From French ''[[collecte]]''
-
-(verb) From {{etyl|fro}} {{term|lang=fro|collecter}} < {{etyl|ML.}} {{term|lang=la|collectare||to collect money}} < {{etyl|la}} {{term|lang=la|collecta||a collection of money, in LL. a meeting, assemblage, in ML. a tax, also an assembly for prayer, a prayer}}, prop. fem. of {{term|collectus}}, past participle of {{term|colligere}}, {{term|conligere||to gather together, collect, consider, conclude, infer}} < {{term|com-||together}} + {{term|legere||to gather}}.
+===Etymology 1===
+From {{etyl|fro}} {{term|lang=fro|collecter}} < {{etyl|ML.}} {{term|lang=la|collectare||to collect money}} < {{etyl|la}} {{term|lang=la|collecta||a collection of money, in LL. a meeting, assemblage, in ML. a tax, also an assembly for prayer, a prayer}}, prop. fem. of {{term|collectus}}, past participle of {{term|colligere}}, {{term|conligere||to gather together, collect, consider, conclude, infer}} < {{term|com-||together}} + {{term|legere||to gather}}.
 
 ===Pronunciation===
 * {{sense|noun}} {{a|General American}} {{IPA|/ˈkɑlɪkt/}}
 * {{sense|verb}} {{IPA|/kəˈlɛkt/}}
-** {{audio|en-us-collect.ogg|Audio (US)}}
-**: {{rhymes|ɛkt}}
-
-===Noun===
-{{en-noun}}  ''(sometimes capitalized)''
-
-# {{Christianity}} The prayer said before the reading of the [[epistle lesson]], especially one found in a [[prayerbook]], as with the [[Book of Common Prayer]].
-#: ''He used the day's collect as the basis of his sermon.''
-
-====Translations====
-{{trans-top|prayer said before reading of the epistle lesson}}
-* Finnish: {{t-|fi|eturukous}}, {{t-|fi|kollehtarukous}}
-{{trans-mid}}
-{{trans-bottom}}
+* {{audio|en-us-collect.ogg|Audio (US)}}
+* {{rhymes|ɛkt}}
 
 ===Verb===
 {{en-verb}}
@@ -44,7 +30,6 @@
 * {{trreq|Armenian}}
 * [[Bavarian]]: [[sammen]], [[zamsuacha]]
 * Bulgarian: {{t|bg|събирам}},  {{t|bg|натрупвам}}
-* CJKV Characters: [[僎]] (?)
 * {{trreq|Catalan}}
 * Chinese: {{t-|cmn|收集|tr=shōují|sc=Hani}}
 * Czech: {{t-|cs|shromažďovat}}
@@ -68,7 +53,7 @@
 * Kurdish: {{ku-Arab|[[کۆکردن]]}}
 * Latin: {{t+|la|colligo|alt=colligō}},  {{t-|la|conduco|alt=condūcō}},  {{t+|la|confero|alt=cōnferō}},  {{t+|la|conficio|alt=cōnficiō}},  {{t|la|congero|alt=congerō}},  {{t-|la|congrego|alt=congregō}},  {{t-|la|construo|alt=cōnstruō}},  {{t+|la|lego|alt=legō}}
 * Latvian: {{t|lv|vākt|xs=Latvian}},  {{t+|lv|lasīt|xs=Latvian}}
-* [[Malayalam]]: [[ശേഖരിയ്ക്കുക]] (Sekharikkuka)
+* [[Malayalam]]: {{t|ml|ശേഖരിയ്ക്കുക|tr=Sekharikkuka}}
 * Polish: {{t+|pl|zbierać}}, {{t+|pl|gromadzić}}
 * Portuguese: {{t+|pt|juntar}}, {{t+|pt|reunir}}, {{t+|pt|recolher}}
 * Russian: {{t+|ru|собирать|tr=sobirát'}} {{impf}}, {{t+|ru|собрать|tr=sobrát'}} {{pf}}
@@ -99,12 +84,12 @@
 * Danish: {{t|da|samle}}
 * Finnish: {{t-|fi|keräillä}}, {{t+|fi|kerätä}}
 * French: {{t+|fr|collectionner}}
-* German: [[sammeln]], [[anhäufen]]
+* German: {{t|de|sammeln}}, {{t|de|anhäufen}}
 * Hebrew: {{t+|he|אסף|tr=asáf}}
-* Kurdish: {{ku-Arab|[[کۆکردن]]}}
+* Kurdish: {{t|ku||کۆکردن|sc=ku-Arab}}
 * Latvian: {{t|lv|kolekcionēt|xs=Latvian}}
 {{trans-mid}}
-* [[Malayalam]]: [[ശേഖരിയ്ക്കുക]] (Sekharikkuka)
+* [[Malayalam]]: {{t|ml|ശേഖരിയ്ക്കുക|tr=Sekharikkuka}}
 * Polish: {{t+|pl|kolekcjonować}}
 * Portuguese: {{t+|pt|colecionar}}
 * Russian: {{t+|ru|коллекционировать|tr=kollektsionírovat'}}
@@ -112,6 +97,21 @@
 * Slovene: {{t-|sl|zbirati}}
 * Spanish: {{t-|es|coleccionar}}
 * Swedish: {{t+|sv|samla}}
+{{trans-bottom}}
+
+===Etymology 2===
+{{etyl|fr}} {{term|collecte|lang=fr}}
+
+===Noun===
+{{en-noun}}  {{qualifier|sometimes capitalized}}
+
+# {{Christianity}} The prayer said before the reading of the [[epistle lesson]], especially one found in a [[prayerbook]], as with the [[Book of Common Prayer]].
+#: ''He used the day's collect as the basis of his sermon.''
+
+====Translations====
+{{trans-top|prayer said before reading of the epistle lesson}}
+* Finnish: {{t-|fi|eturukous}}, {{t-|fi|kollehtarukous}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ===Related terms===
@@ -130,7 +130,7 @@
 * {{R:Webster 1913}}
 * {{R:Century 1911}}
 * {{R:OneLook}}
-
+{{rfc-auto}}
 [[da:collect]]
 [[de:collect]]
 [[et:collect]]
