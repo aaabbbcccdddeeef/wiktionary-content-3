@@ -67,38 +67,38 @@
 
 ====Translations====
 {{trans-top|one having authority}}
-* Arabic: {{t|ar|قائد|m|tr=qaa'id|sc=Arab}},  {{t|ar|زعيم|m|tr=za3iim|sc=Arab}},  {{t|ar|رئيس|m|tr=ra'iis|sc=Arab}}
+* Arabic: {{t-|ar|قائد|m|tr=qaa'id}},  {{t|ar|زعيم|m|tr=za3iim}},  {{t-|ar|رئيس|m|tr=ra'iis}}
 * Chinese:
 *: Mandarin: {{t-|cmn|領導|sc=Hani}}, {{t-|cmn|领导|tr=lǐngdǎo|sc=Hani}}, {{t|cmn|領袖|sc=Hani}}, {{t|cmn|领袖|tr=lǐngxiù|sc=Hani}}, {{t|cmn|首領|sc=Hani}},  {{t|cmn|首领|tr=shǒulǐng|sc=Hani}}
 * Dutch: {{t+|nl|leider|m}}, {{t-|nl|leidster|f}}, {{t+|nl|aanvoerder|m}}, {{t|nl|aanvoerster|f}}
 * Finnish: {{t+|fi|johtaja}}
-* French: {{t+|fr|chef|m}}, {{t+|fr|leader|m}},{{t|fr|dirigeant|m}}
-* German: {{t|de|Anführer|m}}, {{t|de|Anführerin|f}}, {{t+|de|Leiter|m}}, {{t|de|Hauptmann|m}}, {{t+|de|Kopf|m}}, {{t+|de|Führer|m}}, {{t|de|Führerin|f}}
-* Greek: {{t|el|αρχηγός|m|tr=archigós|sc=Grek}}, {{t|el|ηγέτης|m|tr=igétis|sc=Grek}}
+* French: {{t+|fr|chef|m}}, {{t+|fr|leader|m}},{{t+|fr|dirigeant|m}}
+* German: {{t|de|Anführer|m}}, {{t|de|Anführerin|f}}, {{t+|de|Leiter|m}}, {{t-|de|Hauptmann|m}}, {{t+|de|Kopf|m}}, {{t+|de|Führer|m}}, {{t|de|Führerin|f}}
+* Greek: {{t|el|αρχηγός|m|tr=archigós}}, {{t|el|ηγέτης|m|tr=igétis}}
 * [[Haitian Creole]]: {{tø|ht|dirijan}}
 * Hebrew: {{t+|he|מנהיג|m}}, {{t|he|מנהיגה|f}}
-* Hindi: {{t|hi|नेता|m|tr=netā|sc=Deva}}
+* Hindi: {{t|hi|नेता|m|tr=netā|xs=Hindi}}
 * Hungarian: {{t+|hu|vezető}}; {{t+|hu|vezér}}, {{t+|hu|parancsnok}}; {{t|hu|pártvezér}}, {{t+|hu|vezér}}
 * [[Ido]]: {{t+|io|chefo|xs=Ido}}
 * Italian: {{t+|it|capo|m}}, {{t+|it|duce|m}}
 {{trans-mid}}
-* Japanese: {{t|ja|指導者|tr=しどうしゃ, shidōsha}}, {{t+|ja|リーダー|tr=rīdā}}, {{t|ja|首領|tr=しゅりょう, shuryō}}
-* Korean: {{t|ko|지도자|tr=jidoja|sc=Kore}} ({{t|ko|指導者|sc=Kore}})
+* Japanese: {{t-|ja|指導者|tr=しどうしゃ, shidōsha}}, {{t+|ja|リーダー|tr=rīdā}}, {{t|ja|首領|tr=しゅりょう, shuryō}}
+* Korean: {{t+|ko|지도자|tr=jidoja}} ({{t+|ko|指導者}})
 * Kurdish: {{ku-Arab|[[سه‌رۆک]]}}
 * Latin: [[dux|dūx]] {{m}}, [[ductor]] {{m}}, [[ductrix]] {{f}}
 * Navajo: {{tø|nv|naatʼáanii}}
 * Norwegian: {{t+|no|leder|m}}, {{t-|no|fører|m}}
-* Persian: {{t+|fa|رهبر|tr=rahbar|sc=fa-Arab}}
+* Persian: {{t+|fa|رهبر|tr=rahbar}}
 * Polish: {{t+|pl|przywódca|m}}
 * Portuguese: {{t+|pt|líder|m}}
 * Romanian: {{t-|ro|conducător}}
 * Russian: {{t+|ru|руководитель|m|tr=rukovodítel’}}, {{t+|ru|вождь|m|tr=vožd’}},  {{t+|ru|лидер|m|tr=líder}}
 * [[Scottish Gaelic]]: {{t-|gd|ceannard|m|xs=Scottish Gaelic}}
-* Serbo-Croatian: {{t|sh|вођа|m|sc=Cyrl}}, {{t|sh|vođa|m}}
+* Serbo-Croatian: {{tø|sh|вођа|m|sc=Cyrl|xs=Serbo-Croatian}}, {{tø|sh|vođa|m|xs=Serbo-Croatian}}
 * Spanish: {{t+|es|líder|m|f}}, {{t-|es|dirigente|m}}
 * Swahili: {{t+|sw|kiongozi|xs=Swahili}}
 * Swedish: {{t+|sv|ledare|c}}
-* Vietnamese: {{t|vi|lãnh đạo}} ({{t|vi|領導}})
+* Vietnamese: {{t|vi|lãnh đạo|xs=Vietnamese}} ({{t-|vi|領導|sc=Hani|xs=Vietnamese}})
 {{trans-bottom}}
 
 {{trans-top|pipe to conduct water from the roof}}
@@ -108,7 +108,7 @@
 
 {{trans-top|principal article in a newspaper}}
 * Finnish: {{t-|fi|pääkirjoitus}}
-* Greek: {{t|el|κύριο άρθρο|n|tr=kýrio árthro|sc=Grek}}
+* Greek: {{t|el|κύριο άρθρο|n|tr=kýrio árthro}}
 {{trans-mid}}
 * Russian: {{t|ru|передовица|f|tr=peredovíca}}
 {{trans-bottom}}
