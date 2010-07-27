@@ -61,9 +61,9 @@
 ====Translations====
 {{trans-top|challenge, trial}}
 * Albanian: [[provë]] (indefinite), [[prova]] (definite)
-* Arabic: {{t|ar|اختبار|m|tr=ikhtibaar|sc=Arab}}
+* Arabic: {{t|ar|اختبار|m|tr=ikhtibaar}}
 * Chinese:
-*: Mandarin: {{t|zh|試驗|sc=Hani}}, {{t|zh|试验|tr=shìyàn|sc=Hani}}
+*: Mandarin: {{t-|cmn|試驗|sc=Hani}}, {{t-|cmn|试验|tr=shìyàn|sc=Hani}}
 * Dutch: {{t+|nl|test|m}}, {{t-|nl|proef|m}}
 * Finnish: {{t+|fi|koe}}
 * French: {{t+|fr|épreuve|f}}
@@ -72,11 +72,11 @@
 * Hungarian: {{t+|hu|próba}}
 * Italian: {{t+|it|prova}}, {{t+|it|verifica}}
 {{trans-mid}}
-* Japanese: {{t|ja|実験|tr=じっけん, jikken|sc=Jpan}}
-* Korean: {{t|ko|검사|tr=geomsa|sc=Kore}}
+* Japanese: {{t+|ja|実験|tr=じっけん, jikken}}
+* Korean: {{t+|ko|검사|tr=geomsa}}
 * Persian: {{t+|fa|آزمایش|tr=âzmâyesh|xs=Persian}}
 * Portuguese: {{t+|pt|prova|f}}
-* Russian: [[проба]] (próba) {{f}}, [[тест]] {{m}}, [[испытание]] (ispytánije) {{n}},  {{t|ru|тест|m|tr=test}}
+* Russian: {{t+|ru|проба|f|tr=próba}}, {{t+|ru|тест|m}}, {{t+|ru|испытание|n|tr=ispytánije}}, {{t|ru|тест|m|tr=test}}
 * [[Scottish Gaelic]]: {{t-|gd|dearbhadh|m|xs=Scottish Gaelic}}
 * Spanish: {{t-|es|prueba|f}}
 * Swahili: {{t+|sw|jaribio|xs=Swahili}}
@@ -87,32 +87,32 @@
 
 {{trans-top|academics: examination}}
 * Albanian: [[provim]] (indefinite), [[provimi]] (definite)
-* Arabic: {{t-|ar|امتحان|m|tr=imtihān}}, {{t|ar|اختبار|m|tr=ikhtibaar|sc=Arab}}
+* Arabic: {{t-|ar|امتحان|m|tr=imtihān}}, {{t|ar|اختبار|m|tr=ikhtibaar}}
 * Chinese:
-*: Mandarin: {{t|zh|考試|sc=Hani}}, {{t|zh|考试|tr=kǎoshì|sc=Hani}}
+*: Mandarin: {{t-|cmn|考試|sc=Hani}}, {{t-|cmn|考试|tr=kǎoshì|sc=Hani}}
 * Dutch: {{t+|nl|examen|n}}, {{t+|nl|test|m}}
 * Esperanto: {{t-|eo|ekzameno|xs=Esperanto}}
 * Finnish: {{t+|fi|koe}}, {{t+|fi|tentti}}
 * French: {{t+|fr|test|m}}, {{t+|fr|examen|m}}
 * German: {{t+|de|Examen|n}}, {{t+|de|Prüfung|f}}
 * Greek: {{t|el|διαγώνισμα|n|tr=diagónisma}}
-* Hindi: {{t|hi|परीक्षा|tr=parīkṣā|sc=Deva}}
+* Hindi: {{t|hi|परीक्षा|tr=parīkṣā|xs=Hindi}}
 * Hungarian: {{t+|hu|vizsga}}
 * Italian: {{t+|it|esame|m}}
 {{trans-mid}}
-* Japanese: {{t|ja|試験|tr=しけん, shiken|sc=Jpan}}
-* Korean: {{t|ko|시험|tr=siheom|sc=Kore}} ({{t|ko|試驗|sc=Kore}})
+* Japanese: {{t-|ja|試験|tr=しけん, shiken}}
+* Korean: {{t+|ko|시험|tr=siheom}} ({{t+|ko|試驗}})
 * Kurdish: {{ku-Arab|[[تاقیکردنه‌وه‌]]}}
 * Persian: {{t+|fa|آزمایش|tr=âzmâyesh|xs=Persian}}
 * Portuguese: {{t+|pt|exame|m}}, {{t+|pt|teste|m}}
 * Russian: {{t+|ru|экзамен|m|tr=ekzámen}}, {{t+|ru|тест|m|tr=test}}
 * Spanish: {{t+|es|examen|m}}, {{t+|es|test|m}}
 * Swahili: {{t+|sw|jaribio|xs=Swahili}}
-* Swedish: [[prov]] {{n}}, [[tentamen]] {{c}}, [[tenta]] {{c}}, [[dugga]] {{c}}
+* Swedish: {{t+|sv|prov|n}}, {{t+|sv|tentamen|c}}, {{t+|sv|tenta|c}}, {{t+|sv|dugga|c}}
 * [[Telugu]]: [[పరీక్ష]] (pareeksha)
 * Thai: {{t+|th|สอบ}} (sòp)
 * Turkish: {{t+|tr|sınav}}, {{t+|tr|test}}
-* Vietnamese: {{t+|vi|thi|xs=Vietnamese}},{{t|vi|kiểm tra}}
+* Vietnamese: {{t+|vi|thi|xs=Vietnamese}},{{t|vi|kiểm tra|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|session in which a product is examined under various conditions}}
@@ -124,7 +124,7 @@
 * Greek: {{t|el|εξέταση|f|tr=exétasi}}
 * Hungarian: {{t+|hu|teszt}},  {{t+|hu|vizsgálat}}
 {{trans-mid}}
-* Romanian: {{t|ro|probă}}, {{t-|ro|test}}
+* Romanian: {{t-|ro|probă}}, {{t-|ro|test}}
 * Russian: {{t+|ru|тест|m|tr=test}}
 * [[Scottish Gaelic]]: {{t-|gd|dearbhadh|m|xs=Scottish Gaelic}}
 * Spanish: {{t-|es|prueba|f}},  {{t+|es|test|m}}
@@ -157,7 +157,7 @@
 {{trans-top|to challenge}}
 * Finnish: {{t+|fi|testata}}, {{t-|fi|koestaa}}, {{t+|fi|haastaa}}
 * French: {{t+|fr|tester}},  {{t|fr|mettre à l'épreuve}}
-* Greek: {{t|el|δοκιμάζω|tr=dokimázo|sc=Grek}}
+* Greek: {{t|el|δοκιμάζω|tr=dokimázo}}
 * Hungarian: {{t|hu|kihív}}
 {{trans-mid}}
 * Italian: {{t-|it|testare}}
@@ -168,7 +168,7 @@
 {{trans-top|to administer an examination during the academic term}}
 * Finnish: {{t+|fi|järjestää}} {{t+|fi|tentti}}
 * French: {{t+|fr|tester}}
-* Greek: {{t|el|εξετάζω|tr=exetázo|sc=Grek}}
+* Greek: {{t|el|εξετάζω|tr=exetázo}}
 {{trans-mid}}
 * Hungarian: {{t|hu|vizsgázik}},  {{t|hu|vizsgáztat}}
 * Swahili: {{t|sw|majaribio|xs=Swahili}}
@@ -178,7 +178,7 @@
 * Czech: {{t-|cs|testovat}}
 * Finnish: {{t+|fi|testata}}
 * French: {{t+|fr|tester}}
-* Greek: {{t|el|δοκιμάζω|tr=dokimázo|sc=Grek}},{{t|el|θέτω υπό δοκιμασία|tr=théto ypó dokimasía|sc=Grek}}
+* Greek: {{t|el|δοκιμάζω|tr=dokimázo}},{{t|el|θέτω υπό δοκιμασία|tr=théto ypó dokimasía}}
 {{trans-mid}}
 * Hungarian: {{t|hu|tesztel}},  {{t|hu|vizsgál}}
 * Italian: {{t-|it|testare}}
