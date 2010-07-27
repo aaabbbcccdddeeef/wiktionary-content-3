@@ -35,7 +35,7 @@ From {{etyl|he}} {{term|sc=Hebr|מיכאל|tr=mikhael||who is like God?|lang=he}
 ====Translations====
 {{trans-top|male given name}}
 * Albanian: {{t|sq|Mëhill|m|xs=Albanian}}
-* Arabic: {{t|ar|ميخائيل|m|tr=mikhaʼiil}}, {{t|ar|مايكل|m|tr=maykl}}
+* Arabic: {{t-|ar|ميخائيل|m|tr=mikhaʼiil}}, {{t|ar|مايكل|m|tr=maykl}}
 * Armenian: {{t-|hy|Միքայել|tr=Mik'ayel}}
 * [[Basque]]: [[Mikel]]
 * Bosnian: {{t-|bs|Mihajlo|m}}
@@ -55,9 +55,9 @@ From {{etyl|he}} {{term|sc=Hebr|מיכאל|tr=mikhael||who is like God?|lang=he}
 * Finnish: {{t+|fi|Mikko}}
 * French: {{t+|fr|Michel}}
 * [[Galician]]: [[Miguel#Galician|Miguel]]
-* Georgian: {{t|ka|მიხეილი|tr=mikheili}}
+* Georgian: {{t|ka|მიხეილი|tr=mikheili|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Michael}}
-* Greek: {{t|el|Μιχαήλ|m|tr=Michaíl|sc=Grek}}, {{t|el|Μιχάλης|m|tr=Michális|sc=Grek}}
+* Greek: {{t|el|Μιχαήλ|m|tr=Michaíl}}, {{t-|el|Μιχάλης|m|tr=Michális}}
 * Hawaiian: {{tø|haw|Mikaʻele|xs=Hawaiian}}, {{tø|haw|Mikala|xs=Hawaiian}}
 * Hebrew: {{t-|he|מיכאל|tr=Mikha'el}}
 * Hungarian: {{t+|hu|Mihály}}
@@ -65,7 +65,7 @@ From {{etyl|he}} {{term|sc=Hebr|מיכאל|tr=mikhael||who is like God?|lang=he}
 {{trans-mid}}
 * Italian: {{t+|it|Michele}}
 * Japanese: {{t-|ja|マイケル|tr=Maikeru}}
-* Korean: {{t|ko|마이클|tr=Maikeul|sc=Kore}}, {{t|ko|미카일|tr=Mikail|sc=Kore}}
+* Korean: {{t|ko|마이클|tr=Maikeul}}, {{t|ko|미카일|tr=Mikail}}
 * Latin: [[Michaelus]]
 * Latvian: [[Miķelis]]
 * Lithuanian: [[Mikalos]]
@@ -87,12 +87,12 @@ From {{etyl|he}} {{term|sc=Hebr|מיכאל|tr=mikhael||who is like God?|lang=he}
 * Spanish: [[Miguel]], [[Máicol]]
 * Swedish: {{t+|sv|Mikael}}
 * Turkish: {{t+|tr|Mikail}}
-* Ukrainian: {{t|uk|Михайло|m|tr=Myxájlo|sc=Cyrl}}, {{t|uk|Mихаїл|m|tr=Myxajíl|sc=Cyrl}} {{qualifier|especially Biblical, influenced by Church Slavonic}}<!--put the following in the main Ukrainian article: diminutive: [[Михась]] (Мykhás’), [[Михайлик]] (Mykhájlyk), [[Михасик]] (Mykhásyk), Михасько (Mykhás’ko), Місько (Mís’ko), Місьо (Mís’o)-->,  {{t|uk|Майкл|m|tr=Majkl|xs=Ukrainian}}
+* Ukrainian: {{t-|uk|Михайло|m|tr=Myxájlo|xs=Ukrainian}}, {{t|uk|Mихаїл|m|tr=Myxajíl|xs=Ukrainian}} {{qualifier|especially Biblical, influenced by Church Slavonic}}<!--put the following in the main Ukrainian article: diminutive: [[Михась]] (Мykhás’), [[Михайлик]] (Mykhájlyk), [[Михасик]] (Mykhásyk), Михасько (Mykhás’ko), Місько (Mís’ko), Місьо (Mís’o)-->,  {{t|uk|Майкл|m|tr=Majkl|xs=Ukrainian}}
 * Welsh: [[Meical]]
 {{trans-bottom}}
 
 {{trans-top|archangel}}
-* Arabic: {{t|ar|ميخائيل|tr=mikha’il}}, {{t|ar|ميكائيل|tr=mika'il}}, {{t|ar|ميكال|m|tr=mikaal|sc=Arab}}
+* Arabic: {{t-|ar|ميخائيل|tr=mikha’il}}, {{t-|ar|ميكائيل|tr=mika'il}}, {{t|ar|ميكال|m|tr=mikaal}}
 * Armenian: {{t-|hy|Միքայել|tr=Mik'ayel}}
 * Bosnian: {{t-|bs|Mihajlo|m}}, {{t-|bs|Mikail|m}}
 * Chinese: [[米迦勒]] (mǐjiālè)
