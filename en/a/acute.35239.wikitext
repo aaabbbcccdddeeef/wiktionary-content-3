@@ -4,8 +4,8 @@
 From {{etyl|la}} {{term|acutus|acūtus|sharp|lang=la}}, perfect passive participle of {{term|acuo|acuō|sharpen, make sharp|lang=la}}.
 
 ===Pronunciation===
+{{rfp}}
 * {{audio|en-us-acute.ogg|Audio (US)}}
-
 *: {{rhymes|uːt}}
 
 ===Adjective===
@@ -18,15 +18,15 @@ From {{etyl|la}} {{term|acutus|acūtus|sharp|lang=la}}, perfect passive particip
 #: ''Eagles have very '''acute''' vision.''
 # [[short|Short]], [[quick]].
 #: ''It was an '''acute''' event.''
-# {{geometry}} Of an [[angle]], fewer than 90 degrees.
-# {{geometry}} Of a triangle, having all three angles each with fewer than 90 degrees.
+# {{geometry}} Of an [[angle]], fewer than 90 [[degree]]s.
+# {{geometry}} Of a [[triangle]], having all three angles each with fewer than 90 degrees.
 # {{botany|of leaves}} With the sides meeting directly to form a pointed acute angle at the [[apex]], [[base]], or both.
 # {{medicine}} Of an abnormal [[condition]] of recent or sudden [[onset]], in contrast to delayed onset; this sense does not imply severity (unlike the common usage).
 #: ''He dropped dead of an '''acute''' illness.''
 # {{medicine}} Of a short-lived condition, in contrast to a chronic condition; this sense also does not imply severity.
 #: ''The '''acute''' symptoms resolved promptly.''
-# {{context|after a letter}} Having an [[acute accent]].
-#: ''The last letter of "café" is 'e' '''acute'''.''
+# {{context|orthography|after a letter}} Having an [[acute accent]].
+#: ''The last letter of “café” is ‘e’ '''acute'''.''
 
 ====Synonyms====
 * {{sense|urgent}} [[pressing]], [[urgent]], [[emergent]], [[sudden]]
@@ -50,9 +50,9 @@ From {{etyl|la}} {{term|acutus|acūtus|sharp|lang=la}}, perfect passive particip
 * [[acuteness]]
 
 ====Translations====
-
 {{trans-top|urgent}}
 * Bulgarian: {{t|bg|остър}}
+* Dutch: {{t|nl|dringend}}, {{t|nl|acuut}}
 * Finnish: {{t+|fi|akuutti}}, {{t-|fi|kiireinen}}
 * Hebrew: {{t|he|דחוף|tr=dahuf}}
 {{trans-mid}}
@@ -60,57 +60,88 @@ From {{etyl|la}} {{term|acutus|acūtus|sharp|lang=la}}, perfect passive particip
 * Russian: {{t|ru|срочный|tr=sróčnyj}}, {{t|ru|неотложный|tr=n'eotlóžnyj}}
 {{trans-bottom}}
 
-{{trans-top|intense}}
+{{trans-top|sensitive}}
 * Armenian: {{t-|hy|սուր|tr=sur}}
 * Bulgarian: {{t|bg|интензивен}}
-* Dutch: {{t+|nl|acuut}},  {{t+|nl|scherp}}
+* Dutch: {{t+|nl|scherp}}, {{t|nl|gevoelig}}
 * Estonian: {{t|et|äge}}
 * Finnish: {{t+|fi|tarkka}}, {{t+|fi|terävä}}
-* French: [[aigu]] {{m}}, [[aiguë]]<!--sic: the diaeresis is on the "e"--> {{f}}
+* French: [[aigu]] {{m}}, [[aiguë]] {{f}}
 * German: {{t+|de|scharf}}
 {{trans-mid}}
 * Japanese: {{t-|ja|せつじつ|tr=satsujitsu}}
-* Mandarin: {{t-|cmn|激烈|tr=jīli&egrave;|sc=Hani}}
+* Mandarin: {{t-|cmn|激烈|tr=jīliè|sc=Hani}}
 * Polish: {{t+|pl|ostry}}
 * Spanish: {{t+|es|agudo|m}}
 * Swedish: {{t+|sv|skarp}}
 * Turkish: {{t+|tr|keskin}}
 {{trans-bottom}}
 
-{{trans-top|of an angle}}
+{{trans-top|quick, short}}
+* Dutch: {{t+|nl|kort}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|geometry: of an angle}}
 * Armenian: {{t-|hy|սուր|tr=sur}}
 * Bulgarian: {{t|bg|остър}}
+* Dutch: {{t+|nl|scherp}}
 * Finnish: {{t+|fi|terävä}}
 {{trans-mid}}
-* French: [[aigu]] {{m}}, [[aiguë]]<!--sic: the diaeresis is on the "e"--> {{f}}
+* French: [[aigu]]
 * Russian: {{t+|ru|острый|tr=óstryj}}
 * Swedish: {{t-|sv|spetsig}}
 {{trans-bottom}}
-{{trans-see|acute-angled}}
-{{trans-top|medicine: of a condition}}
+
+{{trans-see|geometry: acute-angled|acute-angled}}
+
+{{trans-top|botany: having an acute angle}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|medicine: of an abnormal condition}}
 * Arabic: {{t|ar|شديد|tr=shadiid}}
 * Armenian: {{t-|hy|սուր|tr=sur}}
 * Bulgarian: {{t|bg|остър}},  {{t|bg|акутен}}
 * Czech: {{t+|cs|akutní}}
+* Dutch: {{t|nl|acuut}}
 * Estonian: {{t|et|äge}}
 {{trans-mid}}
 * Finnish: {{t+|fi|akuutti}}
-* French: [[aigu]] {{m}}, [[aiguë]]<!--sic: the diaeresis is on the "e"--> {{f}}
+* French: [[aigu]]
 * Japanese: [[急性の]] (kyūsei no)
 * Russian: {{t+|ru|острый|tr=óstryj}}
 {{trans-bottom}}
-{{trans-see|acute accent}}
-{{trans-top|letter}}
+
+{{trans-top|medicine: of a short-lived condition}}
+* Arabic: {{t|ar|شديد|tr=shadiid}}
+* Armenian: {{t-|hy|սուր|tr=sur}}
+* Bulgarian: {{t|bg|остър}},  {{t|bg|акутен}}
+* Czech: {{t+|cs|akutní}}
+* Dutch: {{t|nl|acuut}}
+* Estonian: {{t|et|äge}}
+{{trans-mid}}
+* Finnish: {{t+|fi|akuutti}}
+* French: [[aigu]]
+* Japanese: [[急性の]] (kyūsei no)
+* Russian: {{t+|ru|острый|tr=óstryj}}
+{{trans-bottom}}
+
+{{trans-top|orthography: letter with acute accent}}
+* Dutch: {{t|nl|met}} {{t|nl|accent aigu}}
 * Estonian: {{t|et|lihtrõhk}}
 {{trans-mid}}
-* French: [[aigu]] {{m}}, [[aiguë]]<!--sic: the diaeresis is on the "e"--> {{f}}
+* French: [[aigu]]
 {{trans-bottom}}
 
 ===Noun===
 {{en-noun}}
 
 # An [[acute accent]].
-#: ''The word "cafe" often has an '''acute''' over the "e".''
+#: ''The word “cafe” often has an '''acute''' over the ‘e’.''
+
+====Translations====
+{{trans-see|acute accent}}
 
 ===Verb===
 {{en-verb|acut|ing}}
@@ -118,18 +149,37 @@ From {{etyl|la}} {{term|acutus|acūtus|sharp|lang=la}}, perfect passive particip
 # To give an acute sound to.
 #: ''He '''acutes''' his rising inflection too much''.
 
+====Translations====
+{{trans-top|give an acute sound}}
+{{trans-mid}}
+{{trans-bottom}}
+
 ===Anagrams===
 * {{alphagram|acetu}}
 * [[Ceuta#English|Ceuta]]
 
 ----
 
+==Dutch==
+
+===Pronunciation===
+* {{IPA|/ɑˈky.tə/|lang=nl}}
+
+===Adjective===
+{{infl|Dutch}}
+
+# {{form of|inflected form|acuut|lang=nl}}.
+
+----
+
 ==Italian==
+
+{{rfp|lang=it}}
 
 ===Adjective===
 '''acute''' {{f}}
 
-# Feminine plural form of [[acuto]]
+# {{form of|feminine plural form|acuto|lang=it}}.
 
 ===Anagrams===
 * {{alphagram|acetu}}
