@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-Anglo-Norman [[redne]], from Old French [[resne]] (modern [[rêne]]), from Vulgar Latin ''*retina'', from Latin [[retinere]] ‘retain’, from [[re-#Latin|re-]] + [[tenere]].
+Anglo-Norman {{term|redne|lang=xno}}, from Old French {{term|resne|lang=fro}} (Modern French {{term|rêne|lang=fr}}), from {{etyl|VL.}} ''*retina'', from Classical {{etyl|la}} {{term|retineo|retineō|to retain|lang=la}}, from {{term|re-|re-|lang=la}} + {{term|teneo|teneō|lang=}}.
 
 ===Pronunciation===
 * {{IPA|/reɪn/}}
@@ -38,27 +38,39 @@ Anglo-Norman [[redne]], from Old French [[resne]] (modern [[rêne]]), from Vulga
 {{en-verb}}
 
 # To [[direct]] or [[stop]] a horse by using reins.
-# (usually "rein in") To stop or [[restrain]] a horse. Also used figuratively
+# {{rfc-sense}} {{context|usually "rein in"}} To stop or [[restrain]] a horse. Also used figuratively
 #: ''President’s Budget: A Solid Step To Rein in Spending''
 
 ====Translations====
-* Dutch: [[besturen]] (1), [[beteugelen]] (2)
-* Finnish: [[ohjastaa]] (1), [[hillitä]], [[estää]] (2)
-* Swedish: [[tygla]] (2)
+{{trans-top|To direct or stop a horse using reins}}
+* Dutch: {{t|nl|besturen}}
+{{trans-mid}}
+* Finnish: {{t|fi|ohjastaa}}
+{{trans-bottom}}
+
+{{trans-top|To stop or restrain}}
+* Dutch: {{t|nl|beteugelen}}
+* Finnish: {{t|fi|estää}}
+{{trans-mid}}
+* Swedish: {{t|sv|tygla}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Finnish: {{t|fi|hillitä}}
 * German: {{t+|de|zügeln}}
+{{trans-bottom}}
 
 ===Derived terms===
-{{rel-top3|Terms derived from the noun or verb ''rein''}}
+{{top2}}
 * [[free rein]]
 * [[hold the reins]]
 * [[keep a tight rein on]]
-{{rel-mid3}}
 * [[draw rein]]
+{{mid2}}
 * [[rein back]]
 * [[rein in]]
-{{rel-mid3}}
 * [[take the reins]]
-{{rel-bottom}}
+{{bottom}}
 
 ===Anagrams===
 * {{alphagram|einr}}
