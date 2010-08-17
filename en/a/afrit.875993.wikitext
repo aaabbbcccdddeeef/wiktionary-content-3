@@ -29,12 +29,29 @@
 * {{IPA|/ˈavrɪːt/|lang=is}}
 
 ===Noun===
-{{is-noun|n}}
+{{is-noun|n|afrits|afrit}}
 
-# [[copy]]
+# a [[copy]], a [[duplicate]]
+# {{context|computing|lang=is}} a [[copy]]
+#: ''Hægt er að taka afrit af skrá með skipuninni <code>cp skra{,.'''afrit'''}</code>.''
+#:: You can '''copy''' a file using the command <code>cp file{,.'''copy'''}</code>.
+# {{context|computing|lang=is}} a [[backup]]{{jump|is|backup|s}}
 
 ====Declension====
 {{is-decl-noun-n-s|afr|i|t}}
+
+====Derived terms====
+* [[afrit af skrá]] (a backup file)
+* [[afrita]]
+* [[afritun]]
+* [[fyrsta afrit]]
+* [[leyniafrit]]
+* [[taka afrit]]
+* [[taka öryggisafrit]]
+* [[öryggisafrit]]
+
+====Synonyms====
+* {{jump|s|is|backup}} [[öryggisafrit]]
 
 [[fr:afrit]]
 [[nl:afrit]]
