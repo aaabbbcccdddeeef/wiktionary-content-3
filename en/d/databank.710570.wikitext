@@ -1,34 +1,28 @@
 ==English==
 
+===Alternative forms===
+*[[data bank]]
+
 ===Etymology===
-[[data]] + [[bank]] 'supply'
+{{compound|data|dank}}
 
 ===Noun===
 {{en-noun}}
 
-# A [[database]] (''collection of organized information in a regular structure'').
-#: The Data Bank's primary role is to provide scientists in member countries with reliable nuclear data and computer programs for use in different nuclear applications. <ref>Nuclear Energy Agency [[http://www.nea.fr/html/databank/]]</ref>
-# An organization dedicated to maintaining a database.
+# A [[database]] {{gloss|collection of organized information in a regular structure}}
+#* {{quote-book|title=Forensic dentistry|page=58|author=Paul G. Stimson, Curtis A. Mertz|year=1997|isbn=9780849381034|url=http://books.google.com/books?id=fQeMCINVeSEC|passage=The FBI, in cooperation with states' crime laboratories, has established its own '''databank''' called Combined DNA Index System (CODIS).}}
+# An [[organization]] dedicated to maintaining a [[database]].
 
 ====Translations====
-{{trans-top|database}}
-* Dutch: {{t+|nl|database}}
-{{trans-mid}}
-* French: {{t+|fr|base de données}}
-{{trans-bottom}}
-
-{{trans-top|organisation maintaining one}}
+{{trans-see|database}}
+{{trans-top|organisation maintaining a database}}
 * Dutch: {{t+|nl|databank}}
 {{trans-mid}}
 {{trans-bottom}}
-
 {{checktrans-top}}
-* Finnish: [[tietopankki]]
-* Latvian: [[duomenų bankas]]
+* {{ttbc|Finnish}}: [[tietopankki]]
+* {{ttbc|Latvian}}: [[duomenų bankas]]
 {{checktrans-bottom}}
-
-===References===
-<div class="references-small"><references/></div>
 
 ----
 
@@ -36,16 +30,16 @@
 {{wikipedia|lang=nl}}
 
 ===Pronunciation===
-* {{IPA|/xxxx/|lang=nl}}
+{{rfp|lang=nl}}
 
 ===Etymology===
-[[data]] + [[bank]] 'bank, supply'
+{{compound|data|bank|gloss2=bank, supply|lang=nl}}
 
 ===Noun===
 {{nl-noun|g=f}}
 
-# [[database]], collection of computer-organised information formally collected or coordinated by an organisation
-# such organisation
+# [[database]] {{gloss|collection of computer-organised information}}
+# {{l|en|databank}} {{gloss|organization}}
 
 [[fr:databank]]
 [[lt:databank]]
