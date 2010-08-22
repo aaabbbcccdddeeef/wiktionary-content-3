@@ -320,7 +320,6 @@ From {{etyl|non|nn}} {{term|lifr|lang=non}}, cognate with [[liver]], Dutch {{l|n
 ----
 
 ==Swedish==
-{{sv-decl-noun|gender=Common|lever|levern|levrar|levrarna|levers|leverns|levrars|levrarnas}}
 
 ===Pronunciation===
 * {{audio|Sv-lever.ogg|audio}}
@@ -329,9 +328,12 @@ From {{etyl|non|nn}} {{term|lifr|lang=non}}, cognate with [[liver]], Dutch {{l|n
 Germanic, cognate with liver, Dutch [[lever]], German [[Leber]], Norwegian [[#Norwegian|lever]]
 
 ====Noun====
-'''lever'''
+{{sv-noun|g=c}}
 
-# {{anatomy|lang=sv}} A [[liver]]
+# {{anatomy|lang=sv}} a [[liver]]
+
+=====Declension=====
+{{sv-decl-noun|gender=Common|lever|levern|levrar|levrarna|levers|leverns|levrars|levrarnas}}
 
 ===Etymology 2===
 
@@ -340,7 +342,6 @@ Germanic, cognate with liver, Dutch [[lever]], German [[Leber]], Norwegian [[#No
 
 # ''present tense'' of [[leva]]
 
-[[Category:Swedish nouns]]
 [[Category:Swedish verb forms]]
 
 [[de:lever]]
