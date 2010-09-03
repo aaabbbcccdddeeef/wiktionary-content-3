@@ -81,17 +81,6 @@
 
 ----
 
-==Bosnian==
-
-===Proper noun===
-{{infl|bs|proper noun|g=m}}
-
-# [[Amsterdam#English|Amsterdam]], nominal capital of the [[Netherlands]]
-
-[[Category:bs:Cities]]
-
-----
-
 ==Dutch==
 {{wikipedia|lang=nl}}
 
@@ -196,17 +185,29 @@ from the river [[Amstel]] + [[dam]]
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
+
+===Pronunciation===
+* {{IPA|/ǎmsterdam/|lang=sh}}
+* {{hyphenation|Am|ster|dam}}
 
 ===Proper noun===
-{{infl|sr|proper noun|g=m}}
+{{sh-proper-noun|g=m|head=Àmsterdam|r|Амстердам|А̀мстердам}}
 
-# [[Amsterdam#English|Amsterdam]], the nominal capital of the [[Netherlands]]
+# [[#English|Amsterdam]]
 
-====See also====
-* {{l|sr|Амстердам}}
+====Declension====
+{{sh-decl-noun-unc
+|Amsterdam
+|Amsterdama
+|Amsterdamu
+|Amsterdam
+|Amsterdame
+|Amsterdamu
+|Amsterdamom
+}}
 
-[[Category:sr:Capital cities]]
+[[Category:sh:Capital cities]]
 
 [[de:Amsterdam]]
 [[el:Amsterdam]]
