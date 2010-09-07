@@ -193,20 +193,25 @@ From {{proto|Germanic|raudhaz|lang=goh}} (compare Old English {{term|read|rēad|
 
 ===Noun===
 {{infl|sv|noun|g=c}}
-{{sv-noun-irreg-c|rot|roten|rötter|rötterna}}
 
 # [[root]]; the part of a [[plant]] under the surface.
 # the part of a [[tooth]] extending into the [[bone]] holding the tooth in place
 # [[source]]; an underlying cause
-#: ''Kärleken till pengar är roten till allt ont'' = ''The love of money is the root of all evil''
+#: ''Kärleken till pengar är '''roten''' till allt ont''
+#:: The love of money is the root of all evil
 # {{mathematics|lang=sv}} of a number {{n}}, a positive number which, when [[raised]] to a specified [[power]], yields n; the [[square root]] is understood if no power is specified
-#: ''Kubikroten ur 27 är 3'' = ''The cube root of 27 is 3''
-#: ''Multiplicera med roten ur 2'' = ''Multiply by root 2''
+#: ''Kubik'''roten''' ur 27 är 3''
+#:: The cube root of 27 is 3
+#: ''Multiplicera med '''roten''' ur 2''
+#:: Multiply by root 2
 # {{mathematics|lang=sv}} a [[zero]] (of a [[function]]).
 # {{mathematics|lang=sv}} a designated [[node]] in a [[tree]].
 # {{mathematics|lang=sv}} [[curl]]; a measure on how fast a [[vector field]] rotates: it can be described as the [[cross product]] of [[del]] and a given vectorial field
 # {{computers|lang=sv}} [[root directory]]
 # (''philology'') a [[word]] from which another word is derived.
+
+====Declension====
+{{sv-noun-irreg-c|rot|roten|rötter|rötterna}}
 
 ====Synonyms====
 * [[källa]] (3)
