@@ -18,19 +18,17 @@
 * Arabic: {{t|ar|تيرانا|f|tr=tiraanaa}}
 * Armenian: {{t-|hy|Տիրանա|tr=Tirana}}
 * Belarusian: {{t|be|Тырана|f|tr=Tyrána|xs=Belarusian}}
-* Bosnian: {{t-|bs|Tirana|f}}
 * Bulgarian: {{t-|bg|Тирана|f|tr=Tirána}}
 * Chinese:
 *: Mandarin: {{t|cmn|地拉那|tr=Dìlānà|sc=Hani}}
 * [[Chuvash]]: {{tø|cv|Тирáна|tr=Tirana|sc=Cyrl}}
-* Croatian: {{t+|hr|Tirana|f}}
 * Czech: {{t-|cs|Tirana|f}}
 * Finnish: {{t+|fi|Tirana}}
 * French: {{t+|fr|Tirana|m}}
 * German: {{t+|de|Tirana|n}}
 * Greek: {{t+|el|Τίρανα}}
-{{trans-mid}}
 * Italian: {{t-|it|Tirana}}
+{{trans-mid}}
 * Japanese: {{t-|ja|ティラナ|tr=Tirana}}
 * Korean: {{t|ko|티라나|tr=Tirana|sc=Hang}}
 * [[Macedonian]]: {{t-|mk|Тирана|f|tr=Tirána}}
@@ -38,9 +36,9 @@
 * Navajo: {{tø|nv|Tiwáána}}
 * Polish: {{t+|pl|Tirana|f}}
 * Russian: {{t-|ru|Тирана|f|tr=Tirána}}
-* Serbian:
-*: Cyrillic: [[Тирана]] {{f}}
-*: Roman: Tirana {{f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|Тирана|f|alt=Тира̀на|sc=Cyrl}}
+*: Roman: {{t-|sh|Tirana|f|alt=Tiràna}}
 * Slovak: {{t-|sk|Tirana|f}}
 * Slovene: {{t-|sl|Tirana|f}}
 * Spanish: {{t+|es|Tirana}}
@@ -50,7 +48,6 @@
 ===Anagrams===
 * {{alphagram|aainrt}}
 * [[Narita#English|Narita]]
-
 
 [[Category:Capital cities]]
 
@@ -62,28 +59,6 @@
 {{infl|sq|proper noun form|g=f}}
 
 # {{form of|definite nominative|Tiranë|lang=sq}}
-
-----
-
-==Bosnian==
-
-===Proper noun===
-{{infl|bs|proper noun|g=f}}
-
-# Tirana, capital of [[Albania]]
-
-[[Category:bs:Cities]]
-
-----
-
-==Croatian==
-
-===Proper noun===
-{{infl|hr|proper noun|g=f}}
-
-# Tirana, capital of [[Albania]]
-
-[[Category:hr:Cities]]
 
 ----
 
@@ -117,19 +92,33 @@
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
 
 ===Proper noun===
-{{infl|sv|proper noun|g=f}}
+{{sh-proper-noun|g=f|head=Tiràna|r|Тирана|Тира̀на}}
 
-# Tirana, capital of [[Albania]]
+# [[#English|Tirana]]
 
-====Cyrillic spelling====
-* [[Тирана#Serbian|Тирана]]
+====Declension====
+{{sh-decl-noun-unc
+|Tirana
+|Tirane
+|Tirani
+|Tiranu
+|Tirano / Tirana
+|Tirani
+|Tiranom
+}}
 
-[[Category:sr:Cities]]
+====Derived terms====
+* {{l|sh|Tiranac|Tiránac}}
+* {{l|sh|Tiranka|Tìrānka}}
+
+[[Category:sh:Capital cities]]
+[[Category:sh:Cities]]
 
 ----
+
 ==Spanish==
 {{wikipedia|lang=es}}
 ===Proper noun===
