@@ -27,17 +27,19 @@ From {{etyl|fr|en}} {{term|annexe|lang=fr}}.
 * Japanese: [[別館]] (bekkan)
 * Norwegian: {{t+|no|anneks}}
 * Spanish: {{t+|es|anexo}}
-* Swedish: [[#Swedish|annex]], [[tillägg]], [[bilaga]]
+* Swedish: {{t|sv|annex}}, {{t|sv|tillägg}}, {{t|sv|bilaga}}
 {{trans-bottom}}
 
 {{trans-top|An appendix}}
 * Bulgarian: {{t+|bg|приложение}}
 {{trans-mid}}
+* Swedish: {{t|sv|appendix}}, {{t|sv|tillägg}}, {{t|sv|bilaga}}
 {{trans-bottom}}
 
 {{trans-top|An addition or extension to a building}}
 * Bulgarian: {{t|bg|пристройка}}
 {{trans-mid}}
+* Swedish: {{t|sv|annex}}, {{t|sv|tillbyggnad}}, {{t|sv|flygel}}
 {{trans-bottom}}
 
 ===Etymology 2===
@@ -63,7 +65,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|annexer||lang=fro|to join}}, f
 * Kurdish:
 *: Sorani: {{t|ku|خستنه‌ سه‌ر|tr=xistine ser|sc=ku-Arab}}
 * Spanish: {{t-|es|anexar}}
-* Swedish: [[införliva]], [[annektera]]
+* Swedish: {{t|sv|införliva}}, {{t|sv|annektera}}
 * Turkish: {{t+|tr|ek}}
 {{trans-bottom}}
 
@@ -80,10 +82,12 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|annexer||lang=fro|to join}}, f
 ==Swedish==
 
 ===Noun===
-{{sv-noun-n-zero|genitive=}}
-'''annex'''
+{{infl|sv|noun|g=n}}
 
 # [[#English|annex]]
+
+====Declension====
+{{sv-noun-n-zero|genitive=}}
 
 [[et:annex]]
 [[el:annex]]
