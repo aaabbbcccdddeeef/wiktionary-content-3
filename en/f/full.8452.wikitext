@@ -229,43 +229,7 @@ abundant, adequate, awash, big, bounteous, brimming, burdened, competent, comple
 {{trans-bottom}}
 
 ====Adverb====
-<span class="infl-inline">'''{{#ifeq:{{NAMESPACE}}|Appendix|{{SUBPAGENAME}}|{{PAGENAME}}}}''' (<!--
-
-// wikilink the comparative and comparability tags
--->{{#ifeq:{{{1}}}|-|<!--
-  -->''not [[Appendix:Glossary‎#comparable|comparable]]''|<!--
-
-  --> ''[[Appendix:Glossary‎#comparable|comparative]]'' <!--
-  // If the comparative argument lacks wiki markup:
-  -->{{#if:{{isValidPageName|-1}}|'''<!--
-    -->{{#switch:more<!--
-      -->|more=more {{PAGENAME}}<!--
-      -->|er=[[{{PAGENAME}}er]]<!--
-      -->|[[{{{1}}}{{#switch:{{{2}}}|er=er|ier=ier|r=r}}]]<!--
-    -->}}<!--
-    -->{{#ifeq:|more|''' ''or'' '''more {{PAGENAME}}}}<!--
-    -->{{#ifeq:|more|''' ''or'' '''more {{PAGENAME}}}}<!--
-    -->'''<!--
-  // Else the 1st parameter is the marked up comparative
-  -->|{{{1}}}<!--
-  -->}}<!--
-
-  -->, ''[[Appendix:Glossary‎#comparable|superlative]]'' <!--
-  // If the superlative argument lacks wiki markup:
-  -->{{#if:{{isValidPageName|-1}}|'''<!--
-    -->{{#switch:more<!--
-      -->|more=most {{PAGENAME}}<!--
-      -->|er=[[{{PAGENAME}}est]]<!--
-      -->|[[{{#switch:{{{2}}}|er={{{1}}}est|ier={{{1}}}iest|r={{{1}}}st|{{{2}}}}}]]<!--
-    -->}}<!--
-    -->{{#ifeq:|more|''' ''or'' '''most {{PAGENAME}}}}<!--
-    -->{{#ifeq:|more|''' ''or'' '''most {{PAGENAME}}}}<!--
-    -->'''<!--
-  // Else the 2nd parameter is the marked up superlative
-  -->|{{{2}}}<!--
-  -->}}<!--
-
--->}})</span>{{categorize|en|adverbs|}}
+<span class="infl-inline">'''full'''</span>{{categorize|en|adverbs|}}
 
 # [[quite|Quite]]; [[thoroughly]]; [[completely]]; [[exactly]]; [[entirely]].
 #*'''1819''', [[:w:John Keats|John Keats]], ''Otho the Great'', Act IV, Scene I, verse 112
