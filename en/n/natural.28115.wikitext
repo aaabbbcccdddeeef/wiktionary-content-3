@@ -3,7 +3,7 @@
 {{rank|except|sound|didn't|515|natural|laid|cold|led}}
 
 ===Etymology===
-From {{etyl|la|en}} {{term|naturalis|nātūrālis|lang=la}}.
+{{etyl|fro}}, from {{etyl|la}} {{term|naturalis|nātūrālis|lang=la}}, from {{term|natus|nātus|lang=la}}, the perfect participle of {{term|nascor|nāscor|I am born|lang=la|}}.
 
 ===Pronunciation===
 * {{audio|en-us-natural.ogg|Audio (US)}}
@@ -18,9 +18,9 @@ From {{etyl|la|en}} {{term|naturalis|nātūrālis|lang=la}}.
 #: '''''Natural''' food is healthier than processed food.''
 # As expected.
 #: ''It's natural for business to be slow on Tuesdays.''
-#  Almost [[white]], with tints of grey, yellow or brown.
-#  The color of a material that has not been adjusted or added to.
-# {{music}} Neither [[sharp]] nor [[flat]].  Denoted [[♮]].
+# Almost [[white]], with tints of grey, yellow or brown.
+# The color of a material that has not been adjusted or added to.
+# {{music}} Neither [[sharp]] nor [[flat]]. Denoted [[♮]].
 #: ''The piece is played in C natural.''
 # Without, or prior to, [[modification]] or [[adjustment]].
 #: ''So-called second-generation [[w:Breast implant|silicone breast implants]] looked and felt more like the '''natural''' breast.''
@@ -145,7 +145,7 @@ From {{etyl|la|en}} {{term|naturalis|nātūrālis|lang=la}}.
 * Romanian: [[natural]] {{m}}, [[naturală]] {{f}}
 * [[Scottish Gaelic]]: {{t-|gd|nàdarrach|xs=Scottish Gaelic}}
 * Serbian: {{t-|sr|prirodno|n}}
-* Spanish: {{t+|es|natural|m|f}},  {{t-|es|naturales|p}}
+* Spanish: {{t+|es|natural|m|f}}, {{t-|es|naturales|p}}
 * [[Telugu]]: [[సహజమైన]] (sahajamaina)
 * Turkish: {{t+|tr|doğal}}
 {{trans-bottom}}
@@ -154,8 +154,8 @@ From {{etyl|la|en}} {{term|naturalis|nātūrālis|lang=la}}.
 * Armenian: {{t-|hy|բնական|tr=bnakan}}
 * Czech: {{t-|cs|přirozený|m}}
 * Dutch: {{t+|nl|normaal}}
-* Finnish: {{t+|fi|normaali}}, {{t+|fi|tavallinen}}, {{t-|fi|tavanomainen}}, {{t+|fi|luonnollinen}},  {{t|fi|luonteva}}
-* French: {{t+|fr|normal}},  {{t+|fr|naturel}}
+* Finnish: {{t+|fi|normaali}}, {{t+|fi|tavallinen}}, {{t-|fi|tavanomainen}}, {{t+|fi|luonnollinen}}, {{t|fi|luonteva}}
+* French: {{t+|fr|normal}}, {{t+|fr|naturel}}
 * Hungarian: {{t+|hu|természetes}}
 {{trans-mid}}
 * Italian: {{t+|it|naturale}}
@@ -194,12 +194,12 @@ From {{etyl|la|en}} {{term|naturalis|nātūrālis|lang=la}}.
 {{en-noun}}
 
 # {{context|now|_|rare}} A native inhabitant of a place, country etc. {{defdate|from 16th c.}}
-#*'''1615''', Ralph Hamor, ''A True Discourse of the Present State of Virginia'', Richmond 1957, p. 3:
-#*:I coniecture and assure my selfe that yee cannot be ignorant by what meanes this peace hath bin thus happily both for our proceedings and the welfare of the '''Naturals''' concluded [...].
+#* '''1615''', Ralph Hamor, ''A True Discourse of the Present State of Virginia'', Richmond 1957, p. 3:
+#*: I coniecture and assure my selfe that yee cannot be ignorant by what meanes this peace hath bin thus happily both for our proceedings and the welfare of the '''Naturals''' concluded [...].
 # {{music}} A note that is not or is no longer to be modified by an [[accidental]], or the symbol [[♮]] used to indicate such a note. {{defdate|from 17th c.}}
 # One with an innate talent at or for something. {{defdate|from 18th c.}}
 #: ''He's a '''natural''' on the saxophone.''
-#  An almost white colour, with tints of grey, yellow or brown; originally that of natural fabric. {{defdate|from 20th c.}}
+# An almost white colour, with tints of grey, yellow or brown; originally that of natural fabric. {{defdate|from 20th c.}}
 #: {{color panel|FAD6A5}}
 
 ====Translations====
@@ -235,6 +235,27 @@ From {{etyl|la|en}} {{term|naturalis|nātūrālis|lang=la}}.
 
 ----
 
+==Old French==
+
+===Etymology===
+From {{etyl|la|en}} {{term|naturalis|nātūrālis|lang=la}}.
+
+===Adjective===
+{{infl|fro|adjective|g=m|feminine|natural}}
+
+# {{l|en|natural}}
+#* {{quote-book|year=circa 1180,|title=[[s:fr:Perceval ou le conte du Graal|Perceval ou le conte du Graal]]|author=[[wikipedia:Chrétien de Troyes|Chrétien de Troyes]]|passage=si sanbla '''natural''' color.|translation=The color seemed so natural.}}
+
+====Related terms====
+* {{l|fr|nature}}
+* {{l|fro|naistre}}<!--more distantly-->
+
+====Descendants====
+* English: {{l|en|natural}}
+* French: {{l|fr|naturel}}
+
+----
+
 ==Portuguese==
 
 ===Etymology===
@@ -243,7 +264,7 @@ From {{etyl|la|pt}} {{term|naturalis|nātūrālis|lang=la}}.
 ===Adjective===
 {{pt-adj-mf|pl=naturais}}
 
-# natural
+# {{l|en|natural}}
 
 ====Related terms====
 * [[naturalidade]]
