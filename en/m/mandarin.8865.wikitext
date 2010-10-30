@@ -45,9 +45,9 @@ From {{etyl|nl|en}} {{term|mandorijn|lang=nl}} or {{etyl|pt|en}} {{term|mandarim
 * Polish: [[mandaryn]] {{m}}
 * Portuguese: {{t+|pt|mandarim|m}}
 * Russian: {{t+|ru|мандарин|m}}
-* Serbian:
-*: Cyrillic: [[мандарин#Serbian|мандарин]] {{m}}
-*: Roman: [[mandarin#Serbian|mandarin]] {{m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|мандарин|m|alt=манда̀рӣн|sc=Cyrl}}
+*: Roman: {{t-|sh|mandarin|m|mandàrīn}}
 * Swedish: {{t+|sv|mandarin|c}}
 {{trans-bottom}}
 
@@ -234,22 +234,26 @@ From {{etyl|pt|da}} {{term|mandarim|lang=pt}}.
 
 ----
 
-==Serbian==
+==Serbo-Croatian==
+
+===Pronunciation===
+* {{IPA|/mandǎriːn/|lang=sh}}
+* {{hyphenation|man|da|rin}}
 
 ===Noun===
-{{sr-noun|g=m|pl=mandarini|cyr=мандарин}}
+{{sh-noun|g=m|head=mandàrīn|r|мандарин|манда̀рӣн}}
 
-# [[mandarin#English|mandarin]] {{qualifier|Chinese Imperial bureaucrat}}
+# [[#English|mandarin]] {{gloss|Chinese Imperial bureaucrat}}
 
 ====Declension====
-{{sr-decl-noun
-|mandarin|mandarini
-|mandarina|mandarina
+{{sh-decl-noun
+|mandàrīn|mandarini
+|mandarína|mandarina
 |mandarinu|mandarinima
-|mandarin|mandarine
+|mandarina|mandarine
 |mandarine|mandarini
-|mandarinom|mandarinima
 |mandarinu|mandarinima
+|mandarinom|mandarinima
 }}
 
 ----
