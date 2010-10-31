@@ -17,10 +17,13 @@
 * Greek: [[δεκατοστόγραμμα]] (dekatostogramma)
 * Hungarian: {{t-|hu|decigramm}}
 * [[Ido]]: [[decigramo]]
-{{trans-mid}}
 * Italian: {{t-|it|decigrammo|m}}
+{{trans-mid}}
 * Latin: {{t-|la|decigramma}}
 * Russian: {{t+|ru|дециграмм|m|tr=detsigrámm}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|дециграм|m|alt=дѐциграм|sc=Cyrl}}
+*: Roman: {{t-|sh|decigram|m|alt=dècigram}}
 {{trans-bottom}}
 
 ===Anagrams===
@@ -35,12 +38,23 @@
 
 ===Pronunciation===
 * {{IPA|/dětsiɡram/|lang=sh}}
-* {{hyphenation|de|cig|ram}}
+* {{hyphenation|de|ci|gram}}
 
 ===Noun===
 {{sh-noun|g=m|head=dècigram|r|дециграм|дѐциграм}}
 
 # [[#English|decigram]]
+
+====Declension====
+{{sh-decl-noun
+|decigram|decigrami
+|decigrama|decigrama
+|decigramu|decigramima
+|decigram|decigrame
+|decigrame|decigrami
+|decigramu|decigramima
+|decigramom|decigramima
+}}
 
 [[et:decigram]]
 [[io:decigram]]
