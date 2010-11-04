@@ -24,7 +24,7 @@
 
 ====Translations====
 {{trans-top|long, sharp fragment of material; often wood}}
-* Arabic: {{t|ar|شظية|f|tr=shaZíyya}}
+* Arabic: {{t|ar|شظية|f|tr=shaZíyya|sc=Arab}}
 * {{trreq|Armenian}}
 * Chinese:
 *: Mandarin: {{t|cmn|碎片|tr=suìpiàn|sc=Hani}},  {{t-|cmn|刺|tr=cì|sc=Hani}}
@@ -36,26 +36,26 @@
 * French: {{t+|fr|éclat|m}},  {{t+|fr|esquille|f}}, {{t+|fr|écharde|f}}
 * Georgian: {{t-|ka|კვარი|tr=kvari|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Splitter|m}}
-* {{trreq|Greek}}
+* Greek: {{t+|el|θραύσμα|n|tr=thráfsma|sc=Grek}}, {{italbrac|wood}} {{t+|el|ακίδα|f|tr=akída|sc=Grek}}, {{italbrac|usually metal}} {{t+|el|βλήμα|n|tr=vlíma|sc=Grek}}
 * {{trreq|Hebrew}}
 * {{trreq|Hindi}}
 * Hungarian: {{t|hu|forgács}}, {{t+|hu|szálka}}
-* Italian: {{t-|it|scheggia|f}}
 {{trans-mid}}
-* Japanese: {{t-|ja|破片|tr=はへん, hahen}},  {{t+|ja|刺}},  {{t|ja|とげ|tr=doke}}
+* Italian: {{t-|it|scheggia|f}}
+* Japanese: {{t-|ja|破片|tr=はへん, hahen|sc=Jpan}},  {{t+|ja|刺|sc=Jpan}},  {{t|ja|とげ|tr=doke|sc=Jpan}}
 * Korean: {{t|ko|나무 조각|tr=namu jogak|sc=Hang}}
 * Latin: {{t-|la|assula|f}}, {{t|la|schidia|f}}
 * Lithuanian: {{t|lt|drožlė|f|xs=Lithuanian}},  {{t|lt|rakštis|f|xs=Lithuanian}}
-* [[Macedonian]]: {{t-|mk|спица|f|tr=spíca}},  {{t|mk|деланка|f|tr=délanka}}
+* [[Macedonian]]: {{t-|mk|спица|f|tr=spíca|sc=Cyrl}},  {{t|mk|деланка|f|tr=délanka|sc=Cyrl}}
 * {{trreq|Old English}}
 * {{trreq|Persian}}
 * Polish: {{t|pl|odłamek|m}}, {{t|pl|drzazga|f}}
 * Portuguese: {{t|pt|farpa|f}}
 * Romanian: {{t-|ro|aşchie}}
-* Russian: {{t|ru|щепка|f|tr=ščépka}}, {{t+|ru|заноза|f|tr=zanóza}}
+* Russian: {{t|ru|щепка|f|tr=ščépka|sc=Cyrl}}, {{t+|ru|заноза|f|tr=zanóza|sc=Cyrl}}
 * [[Scots]]: {{tø|sco|spail|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|spealg|f|xs=Scottish Gaelic}}
-* Spanish: {{t-|es|astilla|f}} (wood), {{t+|es|esquirla|f}} (bone or metal)
+* Spanish: {{italbrac|wood}} {{t-|es|astilla|f}}, {{italbrac|bone or metal}} {{t+|es|esquirla|f}}
 * Thai: {{t|th|เสี้ยน|tr=sîan}}
 * Turkish: {{t|tr|kıymık}}
 {{trans-bottom}}
@@ -65,8 +65,8 @@
 * Finnish: {{t|fi|sirpaleryhmä}}
 * French: {{t+|fr|faction|f}}
 * German: {{t|de|Splittergruppe|f}}
-{{trans-mid}}
 * Italian: {{t+|it|fazione}}
+{{trans-mid}}
 * Lithuanian: {{t|lt|trupinys|m|xs=Lithuanian}}
 * Polish: {{t|pl|odłam|m}}
 * Romanian: {{t|ro|factiune|f}}, {{t-|ro|schisma|f}}
@@ -74,7 +74,7 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|French}}: [[écharde]] {{m}}
+* {{ttbc|French}}: {{t|fr|écharde|m}}
 {{trans-bottom}}
 
 ===Verb===
