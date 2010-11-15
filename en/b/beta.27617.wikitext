@@ -218,34 +218,27 @@ From {{etyl|oc|ca}} {{term|lang=la|beta}}
 
 ==Swedish==
 
-===Etymology 1===
-Unknown
-
-====Noun====
-{{sv-noun|g=n}}
-{{sv-noun-irreg-n|beta|betat|beta|betan|definitions=1}}
+===Noun===
+{{infl|sv|noun}}
 
 # [[#English|beta]]; the Greek letter [[Β]], [[β]]
-
-===Etymology 2===
-Unknown
-
-====Noun====
-{{sv-noun-reg-or|bet|beta|definitions=1-3}}
-'''beta''' {{c}}
-
 # [[beetroot]]
 # {{context|computers|lang=sv}} a beta version of a program
 # {{slang|lang=sv}} ''short for'' [[minnesbeta]]
 
+====Declension====
+{{sv-noun-irreg-n|beta|betat|beta|betan|definitions=1}}
+{{sv-noun-reg-or|bet|definitions=2-4}}
+
 ====Verb====
-'''beta'''
+{{infl|sv|verb}}
 
 # [[graze]]; to eat grass; to feed on growing herbage.
-# to test software prior to release.
+# to test software prior to release.{{cn}}
 
 =====Conjugation=====
-{{sv-verb-reg-ar}}
+{{sv-conj-wk}}
+
 ====See also====
 * [[beta av]]
 * [[bete]]
