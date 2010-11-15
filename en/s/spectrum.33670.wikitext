@@ -16,6 +16,7 @@ From {{etyl|la}} {{term|spectrum||appearance, image, apparition|lang=la}} from {
 # A [[range]]; a [[continuous]], [[infinite]], [[one-dimensional]] set, possibly bounded by [[extremes]].
 # Specifically, a range of [[colour]]s representing [[light]] ([[electromagnetic radiation]]) of contiguous [[frequency|frequencies]]; hence [[electromagnetic spectrum]], [[visible spectrum]], [[ultraviolet]] spectrum, etc. {{defdate|from later 17th c.}}
 # {{chemistry}} The pattern of [[absorption]] or [[emission]] of [[radiation]] produced by a substance when subjected to energy (radiation, heat, electricity, etc.).
+# {{linear algebra}} The set of [[eigenvalue]]s of a [[matrix]].
 # {{linear algebra}} Of a [[bounded]] [[linear operator]] ''A'', the [[scalar]] values λ such that the [[operator]] ''A—λI'', where ''I'' denotes the identity operator, does not have a bounded [[inverse]].
 
 ====Derived terms====
