@@ -76,14 +76,6 @@
 * [[aeroport#English|aeroport]]
 
 [[Category:Politically correct terms]]
-----
-
-==Croatian==
-
-===Noun===
-{{hr-noun|m}}
-
-# {{mathematics|lang=hr}} [[#English|operator]]
 
 ----
 
@@ -105,6 +97,30 @@
 
 # {{conjugation of|operor|operor|2|s|fut|act|imp|lang=la}}
 # {{conjugation of|operor|operor|3|s|fut|act|imp|lang=la}}
+
+----
+
+==Serbo-Croatian==
+
+===Pronunciation===
+* {{IPA|/opěraːtor/|lang=sh}}
+* {{hyphenation|o|pe|ra|tor}}
+
+===Noun===
+{{sh-noun|g=m|head=opèrātor|r|оператор|опѐра̄тор}}
+
+# {{mathematics|lang=sh}} [[#English|operator]]
+
+====Declension====
+{{sh-decl-noun
+|operator|operatori
+|operatora|operatora
+|operatoru|operatorima
+|operator|operatore
+|operatore|operatori
+|operatoru|operatorima
+|operatorom|operatorima
+}}
 
 [[fa:operator]]
 [[fr:operator]]
