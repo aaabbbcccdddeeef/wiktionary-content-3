@@ -5,7 +5,7 @@
 
 # One who [[get]]s. 
 # {{computing|programming}} A [[function]] used to [[retrieve]] the value of some [[property]] of an [[object]], contrasted with the [[setter]].
-#*{{quote-book
+#* {{quote-book
 |year=2002
 |author=James Steven Perry
 |title=Java Management Extensions
@@ -14,7 +14,7 @@
 |page=47
 |passage=A proper '''getter''' must return the type of its attribute.}}
 # {{science}} A material which is included in a [[vacuum]] system or device for [[removing]] [[gas]] by [[sorption]].
-#*{{quote-book
+#* {{quote-book
 |year=1979
 |author=G. L. Weissler and Robert Warner Carlson
 |title=Vacuum Physics and Technology
@@ -24,20 +24,20 @@
 |passage=Titanium has become the preferred '''getter''' for general vacuum-pumping applications because of its relatively high vapor pressure characteristic and its broad spectrum chemical reactivity.}}
 
 ====Derived terms====
-*[[go-getter]]
-*[[vote getter]]
+* [[go-getter]]
+* [[vote getter]]
 
 ====Synonyms====
 * {{sense|computing}} [[accessor]]
 
 ====See also====
-*[[setter]]
+* [[setter]]
 
 ===Verb===
 {{en-verb}}
 
 # {{sciences}} To [[remove]] [[gas]] by [[sorption]].
-#*{{quote-book
+#* {{quote-book
 |year=2003
 |author=John F. O'Hanlon
 |title=A Users Guide to Vacuum Technology
@@ -48,6 +48,21 @@
 
 ====Synonyms====
 * [[get]]
+
+----
+
+==Middle French==
+
+===Etymology===
+Specifically from {{etyl|fro|frm}} {{term|geter|lang=fro}}, the northern variant of {{term|jeter||to throw|lang=fro}}
+
+===Verb===
+{{infl|frm|verb}}
+
+# {{alternative form of|iecter|lang=frm}}
+
+=====Conjugation====
+{{frm-conj-er|gett}}
 
 [[fr:getter]]
 [[li:getter]]
