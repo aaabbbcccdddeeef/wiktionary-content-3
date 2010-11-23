@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From Anglo-Norman / Middle French ''[[#French|opinion]]'', from {{etyl|la}} ''[[opinio]]'', from ''[[opinari]]'' ‘opine’.
+{{etyl|enm}} {{term|opinion|lang=enm}}, {{term|opinioun|lang=enm}} < {{etyl|xno}} and {{etyl|frm}} {{term|opinion|lang=frm}}<!--note, have to specify a language here to avoid a self-link--> < {{etyl|la}} {{term|opinio|lang=la}}, from {{term|opinari|lang=la}}, the infinitive of {{term|opinor||to opine|lang=la}}.
 
 ===Pronunciation===
 * {{IPA|/əˈpɪnjən/}}
@@ -136,7 +136,16 @@ From Anglo-Norman / Middle French ''[[#French|opinion]]'', from {{etyl|la}} ''[[
 ===Noun===
 {{fr-noun|f}}
 
-# [[opinion]]
+# {{l|en|opinion}} {{gloss|thought, estimation}}
+
+----
+
+==Middle French==
+
+===Noun===
+{{frm-noun|f|s}}
+
+# {{l|en|opinion}} {{gloss|thought, estimation}}
 
 [[ar:opinion]]
 [[ast:opinion]]
