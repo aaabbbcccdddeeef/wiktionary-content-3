@@ -29,12 +29,12 @@
 
 ====Translations====
 {{trans-top|person who dances}}
-* Arabic: {{t|ar|راقص|m|tr=raaqiS}},  {{t|ar|راقصة|f|tr=raaqiSa}}
-* Armenian: {{qualifier|male}} {{t-|hy|պարող|tr=paroġ}},  {{qualifier|female}} {{t-|hy|պարուհի|tr=paruhi}}
-* Bulgarian: {{t|bg|танцьор|m}},  {{t|bg|балетист|m}}
+* Arabic: {{t|ar|راقص|m|tr=raaqiS}}, {{t|ar|راقصة|f|tr=raaqiSa}}
+* Armenian: {{qualifier|male}} {{t-|hy|պարող|tr=paroġ}}, {{qualifier|female}} {{t-|hy|պարուհի|tr=paruhi}}
+* Bulgarian: {{t|bg|танцьор|m}}, {{t|bg|балетист|m}}
 * [[Chechen]]: [[хелхархо]]
 * Chinese:
-*: Mandarin: {{t-|cmn|舞蹈家|tr=wǔdǎojiā|sc=Hani}},  {{t|cmn|舞蹈演員|sc=Hani}},  {{t|cmn|舞蹈演员|tr=wǔdǎo yǎnyuán|sc=Hani}},  {{t|cmn|跳舞者|tr=tiàowǔ-zhě|sc=Hani}}
+*: Mandarin: {{t-|cmn|舞蹈家|tr=wǔdǎojiā|sc=Hani}}, {{t|cmn|舞蹈演員|sc=Hani}}, {{t|cmn|舞蹈演员|tr=wǔdǎo yǎnyuán|sc=Hani}}, {{t|cmn|跳舞者|tr=tiàowǔ-zhě|sc=Hani}}
 * Croatian: {{t+|hr|plesač|m|alt=plèsāč}}, {{t-|hr|plesačica|f|alt=plesàčica}}
 * Czech: {{t-|cs|tanečník|m}}
 * Danish: {{t-|da|danser|c}}, {{t-|da|danserinde|c}}
@@ -46,8 +46,8 @@
 * Greek: {{t+|el|χορευτής|m|tr=choreftís}}, {{t+|el|χορεύτρια|f|tr=choréftria}}
 * {{trreq|Hindi}}
 * Hungarian: {{t+|hu|táncos|m}}, {{t+|hu|táncosnő|f}}
-* Italian: {{t-|it|ballerino|m}},  {{t+|it|ballerina|f}},  {{t-|it|danzatore|m}},  {{t-|it|danzatrice|f}}
-* Japanese: {{t|ja|ダンサー|tr=dansā}},  {{t|ja|踊り子|tr=おどりこ, odoriko}} (''female dancer''),  {{t|ja|舞踊家|tr=ぶようか, buyōka}}
+* Italian: {{t-|it|ballerino|m}}, {{t+|it|ballerina|f}}, {{t-|it|danzatore|m}}, {{t-|it|danzatrice|f}}
+* Japanese: {{t|ja|ダンサー|tr=dansā}}, {{t|ja|踊り子|tr=おどりこ, odoriko}} (''female dancer''), {{t|ja|舞踊家|tr=ぶようか, buyōka}}
 * Latin: {{t|la|saltator|m}}, {{t|la|saltatrix|f}}, {{t|la|histrio|m}}, {{t|la|ludius|m}}, {{t|la|ludia|f}}
 * Polish: {{t+|pl|tancerz|m}}, {{t+|pl|tancerka|f}}
 * Russian: {{t|ru|танцор|m|tr=tancór}}, {{t+|ru|танцовщик|m|tr=tancóvščik}}, {{t+|ru|танцовщица|f|tr=tancóvščica}}; {{t|ru|балерун|m|tr=balerún}}, {{t+|ru|балерина|f|tr=balerína}} (''ballet dancer''); {{t|ru|плясун|m|tr=pljasún}}, {{t|ru|плясунья|f|tr=pljasún'ja}}
@@ -92,6 +92,18 @@
 
 ----
 
+==Middle French==
+
+===Etymology===
+{{etyl|fro|frm}} < {{etyl|frk|frm}} *{{term||dansōn|lang=frk}}
+
+===Verb===
+{{infl|frm|verb}}
+
+# to [[dance]]
+
+----
+
 ==Old French==
 
 ===Etymology===
@@ -101,9 +113,9 @@
 {{infl|fro|verb}}
 
 # to [[dance]]
-#*'''circa 1170''', {{w|Chrétien de Troyes}}, ''[[s:fr:Érec et Énide|Érec et Énide]]'':
-#*:Puceles carolent et '''dancent'''
-#*::Young maidens, singing and dancing
+#* '''circa 1170''', {{w|Chrétien de Troyes}}, ''[[s:fr:Érec et Énide|Érec et Énide]]'':
+#*: Puceles carolent et '''dancent'''
+#*:: Young maidens, singing and dancing
 
 ====Conjugation====
 {{fro-conj-cer|dan}}
