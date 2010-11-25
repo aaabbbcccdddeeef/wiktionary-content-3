@@ -63,12 +63,11 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|sceort|sċeort|lang=ang}}, {{term|sc
 
 ====Translations====
 {{trans-top|having a small distance between ends or edges}}
-* {{ttbc|Arabic}}: {{Arab|[[قصير]]}} (qaṣīr) {{m}}
-*: Egyptian: {{Arab|[[قصير]]}} (’uṣáyyar)
-*: [[Egyptian Arabic]]: {{tø|arz|قصير|tr=qaSiir|sc=Arab}}
+* Arabic: {{t|ar|قصير|tr=qaSiir|sc=Arab}}
+*: [[Egyptian Arabic]]: {{tø|arz|قصير|tr=’uSáyyar|sc=Arab}}
 * Armenian: {{t-|hy|կարճ|tr=karč̣}}
 * [[Chamicuro]]: {{tø|ccc|c̈hijtawa}} (''vertically'')
-* Chinese: [[短]] (duǎn)
+* Chinese:
 *: Mandarin: {{t|zh|短|tr=duǎn|sc=Hani}}
 * Czech: {{t+|cs|krátký}}
 * Danish: {{t+|da|kort}}
@@ -82,8 +81,8 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|sceort|sċeort|lang=ang}}, {{term|sc
 {{trans-mid}}
 * [[Ido]]: {{t+|io|kurta|xs=Ido}}
 * Italian: {{t+|it|corto}}
-* Japanese: {{t+|ja|短い|tr=mijikai}}
-* Korean: {{t|ko|짧다|tr=jjalpda|sc=Kore}}
+* Japanese: {{t+|ja|短い|tr=みじかい, mijikai}}
+* Korean: {{t|ko|짧다|tr=jjalbeun|alt=짧은|sc=Kore}} (''attributive'')
 * Latin: {{t-|la|curtus}}
 * [[Lojban]]: {{t-|jbo|cinla|xs=Lojban}}, {{t-|jbo|cmalu|xs=Lojban}}, {{t-|jbo|tordu|xs=Lojban}}
 * [[Macedonian]]: {{t-|mk|краток|m|tr=krátok}}, {{t-|mk|кус|m|tr=kus}}
@@ -96,7 +95,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|sceort|sċeort|lang=ang}}, {{term|sc
 * Spanish: {{t+|es|corto|m}}
 * Swahili: {{t+|sw|fupi|xs=Swahili}}
 * Swedish: {{t|sv|kort}}
-* Vietnamese: {{t-|vi|đoản|xs=Vietnamese}}, {{t|vi|短}}
+* Vietnamese: {{t-|vi|đoản|xs=Vietnamese}} ({{t|vi|短}})
 {{trans-bottom}}
 
 {{trans-top|constituting an abbreviation (for)}}
@@ -116,7 +115,8 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|sceort|sċeort|lang=ang}}, {{term|sc
 {{trans-top|of a person, of comparatively little height}}
 * Armenian: {{t-|hy|ցածրահասակ|tr=c'açrahasak}}, {{t-|hy|կարճահասակ|tr=karč̣ahasak}}, {{t-|hy|կոլոտ|tr=kolot}}
 * [[Chamicuro]]: {{tø|ccc|na'yechoma}}
-* Chinese: [[矮]] (ǎi)
+* Chinese:
+*: Mandarin: {{t|zh|矮|tr=ǎi|sc=Hani}}
 * Czech: {{t+|cs|malý}}
 * Danish: {{t+|da|lav}}
 * Esperanto: {{t-|eo|malalta|xs=Esperanto}}
@@ -127,7 +127,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|sceort|sċeort|lang=ang}}, {{term|sc
 * Hungarian: {{t+|hu|alacsony}}
 * Italian: {{t+|it|piccolo}}
 {{trans-mid}}
-* Japanese: {{t+|ja|低い|tr=hikui}}
+* Japanese: {{t+|ja|低い|tr=ひくい, hikui}}
 * [[Macedonian]]: {{t|mk|низок|m|tr=nízok}}
 * [[Novial]]: [[kurti]]
 * Portuguese: {{t+|pt|baixo|m}}
@@ -142,13 +142,14 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|sceort|sċeort|lang=ang}}, {{term|sc
 {{trans-bottom}}
 
 {{trans-top|having little duration}}
-* {{ttbc|Arabic}}: {{Arab|[[قصير]]}} (qaṣīr) {{m}}
+* Arabic: {{t|ar|قصير|tr=qaSiir|sc=Arab}}
 * Armenian: {{t-|hy|կարճ|tr=karč̣}}
-* Chinese: [[短]] (duǎn)
+* Chinese:
+*: Mandarin: {{t|zh|短|tr=duǎn|sc=Hani}}
 * Czech: {{t+|cs|krátký}}
 * French: {{t+|fr|court}}
 * Italian: {{t+|it|corto}}
-* Japanese: {{t+|ja|短い|tr=mijikai}}
+* Japanese: {{t+|ja|短い|tr=みじかい, mijikai}}
 {{trans-mid}}
 * [[Macedonian]]: {{t-|mk|краток|m|tr=krátok}}, {{t-|mk|кус|m|tr=kus}}
 * Portuguese: {{t+|pt|curto}}, {{t+|pt|breve}}
