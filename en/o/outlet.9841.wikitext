@@ -16,6 +16,7 @@
 # a [[river]] that runs out of a [[lake]]
 # a [[shop]] that sells the [[product]]s of a particular [[manufacturer]] or [[supplier]]
 # a wall-mounted device such as a [[socket]] or receptacle connected to an [[electrical]] system at which current is taken to supply utilization equipment or appliances.
+# an instance variable used in a Cocoa user interface nib file that shows up in [http://fr.wikipedia.org/wiki/Interface_Builder Interface Builder] (from [http://fr.wikipedia.org/wiki/Xcode Xcode]) so that the user can plug an object to another one and have them communicate.
 
 ====Derived terms====
 * [[media outlet]]
@@ -57,6 +58,11 @@
 * Polish: {{t+|pl|gniazdko|n}}
 * Portuguese: {{t+|pt|tomada|f}}
 * Spanish: {{t-|es|enchufe|m}}
+{{trans-bottom}}
+
+{{trans-top|instance variable}}
+* French: {{t+|fr|variable d'instance|f}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ===Anagrams===
