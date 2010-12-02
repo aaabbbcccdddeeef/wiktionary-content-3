@@ -15,7 +15,7 @@
 #* '''2005''', Craig Larman, ''Applying UML and patterns''
 #*: In particular, the ''roll'' method is '''void''' — it has no return value.
 #* '''2007''', Andrew Krause, ''Foundations of GTK+ Development''
-#*: The return value can safely be ignored if it is a '''void''' function.
+#*: The return value can safely be ignoreding if it is a '''void''' function.
 
 ====Translations====
 {{trans-top|Having lost all legal validity}}
