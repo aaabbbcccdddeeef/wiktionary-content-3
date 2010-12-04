@@ -58,7 +58,7 @@
 * Dutch: {{t+|nl|ezel|m}}
 * [[Egyptian]]: {{tø|egy|ʽȝ|alt=ʽ|sc=Egyp}}
 *: <hiero>aA:D52-E7</hiero>
-* Esperanto: {{t+|eo|azeno|xs=Esperanto}}
+* Esperanto: {{t+|eo|azeno|xs=Esperanto}}, {{qualifier|male}} {{t|eo|virazeno|xs=Esperanto}}, {{qualifier|female}} {{t|eo|azenino|xs=Esperanto}}
 * Estonian: [[eesel]]
 * [[Ewe]]: [[tedzi]] {{n}}
 * Faroese: {{t-|fo|asni|xs=Faroese}}
@@ -73,7 +73,7 @@
 * Hindi: {{t-|hi|गधा|m|tr=gadhā|xs=Hindi}}
 * Hungarian: {{t+|hu|szamár}}
 * Icelandic: {{t+|is|asni}}
-* [[Ido]]: [[asno]]
+* [[Ido]]: {{qualifier|male or female}} {{t|io|asno}}, {{qualifier|male}} {{t|io|asnulo}}, {{qualifier|female}} {{t|io|asnino}}
 * Indonesian: {{t+|id|keledai|xs=Indonesian}}
 * [[Interlingua]]: [[asino]]
 * Irish: {{t+|ga|asal|xs=Irish}}
@@ -134,7 +134,7 @@
 * [[Uyghur]]: {{t|ug|ئېشەك|sc=ug-Arab}}
 * Uzbek: {{t-|uz|eshak|xs=Uzbek}}
 * Vietnamese: {{t|vi|con lừa|xs=Vietnamese}}
-* [[Volapük]]: [[cuk]], {{qualifier|male}} {{t|vo|hicuk}}
+* [[Volapük]]: {{qualifier|male or female}} {{t|vo|cuk}}, {{qualifier|male}} {{t|vo|hicuk}}, {{qualifier|female}} {{t|vo|jicuk}}
 * Welsh: [[asyn]]
 * [[West Frisian]]: [[ezel]]
 {{trans-bottom}}
