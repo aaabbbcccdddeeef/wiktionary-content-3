@@ -6,21 +6,20 @@
 * [[sphære]] {{qualifier|archaic}}
 
 ===Etymology===
-From {{etyl|fro|en}} {{term|espere}}, from {{etyl|LL.|en}} {{term|sphera|sphēra}}, earlier {{etyl|la|en}} {{term|sphaera||ball, globe, celestial sphere}}, from {{etyl|grc|en}} {{term|σφαῖρα||ball, globe|sc=polytonic}}, of unknown origin.
+From {{etyl|fro|en}} {{term|sphere|lang=fro}}, from {{etyl|LL.|en}} {{term|sphera|sphēra|lang=la}}, earlier {{etyl|la|en}} {{term|sphaera||ball, globe, celestial sphere|lang=la}}, from {{etyl|grc|en}} {{term|σφαῖρα||ball, globe|sc=polytonic|lang=grc}}, of unknown origin.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/sfɪə/}}, {{SAMPA|/sfI@/}}
 * {{a|US}} {{enPR|sfîr}}, {{IPA|/sfɪr/}}, {{SAMPA|/sfIr/}}
 * {{audio|en-us-sphere.ogg|Audio (US)}}
-
 * {{rhymes|ɪə(r)}}
 
 ===Noun===
 {{en-noun}}
 
 # {{context|now|_|rare}} The apparent outer limit of space; the edge of the heavens, imagined as a hollow globe within which celestial bodies appear to be embedded. {{defdate|from 14th c.}}
-#*'''1635''', John Donne, "His parting form her":
-#*:Though cold and darkness longer hang somewhere, / Yet ''Phoebus'' equally lights all the '''Sphere'''.
+#* '''1635''', John Donne, "His parting form her":
+#*: Though cold and darkness longer hang somewhere, / Yet ''Phoebus'' equally lights all the '''Sphere'''.
 # {{geometry}} A regular three-dimensional object in which every [[cross-section]] is a [[circle]]; the figure described by the revolution of a semi-circle about its diameter. {{defdate|from 14th c.}}
 # {{historical|astronomy}} Any of the concentric hollow transparent globes formerly believed to rotate around the [[Earth]], and which carried the heavenly bodies; there were originally believed to be eight, and later nine and ten; friction between them was thought to cause a harmonious sound (the ''[[music of the spheres]]''). {{defdate|from 14th c.}}
 #* '''1603''', John Florio, translating Michel de Montaigne, ''Essays'', vol. 1 p. 153:
@@ -31,11 +30,11 @@ From {{etyl|fro|en}} {{term|espere}}, from {{etyl|LL.|en}} {{term|sphera|sphēra
 # {{mathematics}} The set of all points in [[three-dimensional]] [[Euclidean space]] (or {{n}}-dimensional space, in topology) that are a fixed distance from a fixed point. {{defdate|from 20th c.}}
 
 ====Synonyms====
-* (''object''): [[ball]], [[globe]], [[orb]]
-* (''region of activity''): [[area]], [[domain]], [[field]], [[orbit]], [[sector]]
-* (''in geometry''): [[3-sphere]] (''geometry''), [[2-sphere]] (''topology'')
-* (''astronomy: apparent surface of the heavens''): ''See'' '''[[celestial sphere]]'''
-* (''astronomy: anything visible on the apparent surface of the heavens''): ''See'' '''[[celestial body]]'''
+* {{sense|object}} [[ball]], [[globe]], [[orb]]
+* {{sense|region of activity}} [[area]], [[domain]], [[field]], [[orbit]], [[sector]]
+* {{sense|in geometry}} [[3-sphere]] (''geometry''), [[2-sphere]] (''topology'')
+* {{sense|astronomy: apparent surface of the heavens}} ''See'' '''[[celestial sphere]]'''
+* {{sense|astronomy: anything visible on the apparent surface of the heavens}} ''See'' '''[[celestial body]]'''
 
 ====Derived terms====
 * [[blogosphere]]
@@ -176,6 +175,18 @@ From {{etyl|fro|en}} {{term|espere}}, from {{etyl|LL.|en}} {{term|sphera|sphēra
 
 ----
 
+==Middle French==
+
+===Noun===
+{{frm-noun|m|s}}
+
+# {{l|en|sphere}} {{gloss|shape}}
+
+====Descendants====
+* French: {{l|fr|sphère}}
+
+----
+
 ==Old French==
 
 ===Alternative forms===
@@ -187,8 +198,8 @@ From {{etyl|fro|en}} {{term|espere}}, from {{etyl|LL.|en}} {{term|sphera|sphēra
 {{fro-noun|m}}
 
 # {{l|en|sphere}} {{gloss|shape}}
-====Descendants====
 
+====Descendants====
 * English: {{l|en|sphere}}
 * French: {{l|fr|sphère}}
 
