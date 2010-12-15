@@ -407,7 +407,7 @@
 * French: {{t+|fr|neige|f}}
 * [[Galician]]: [[neve]] {{f}}
 * Georgian: {{t-|ka|თოვლი|tr=t’ovli|sc=Geor|xs=Georgian}}
-* German: [[Schnee]] {{m}} [[:de:Schnee|(de)]]
+* German: {{t|de|Schnee|m}}
 * Greek:
 *: Ancient: {{tø|grc|χιών|f|tr=khion|xs=Ancient Greek}}
 *: Modern: {{t+|el|χιόνι|n|tr=chióni}}
@@ -448,6 +448,7 @@
 * {{trreq|Malagasy}}
 * Malay: {{t+|ms|salji|xs=Malay}}
 * [[Malayalam]]: [[ഹിമം]]
+* [[Manx]]: {{t|gv|sniaghtey|m}}
 * Maori: {{t|mi|huka}}
 * Mongolian: {{t|mn|Цас|tr=Tsas|sc=Cyrl}}
 * Navajo: [[zas]]
@@ -456,6 +457,8 @@
 *: Nynorsk: {{t|nn|snø|m}}
 * [[Occitan]]: {{t+|oc|nèu|f|xs=Occitan}}
 * [[Old Church Slavonic]]: {{tø|cu|снѣгъ|m|tr=sněgŭ|sc=Cyrs}}
+* Old English: {{t|ang|snaw|alt=snāw|m}}
+* [[Old Irish]]: {{tø|sga|snechta|m}}
 * Ossetic: {{tø|os|мит|tr=mit|sc=Cyrl|xs=Ossetian}}
 * {{trreq|Pali}}
 * Persian: {{fa-Arab|[[برف]]}} (barf)
@@ -468,7 +471,7 @@
 * Russian: {{t+|ru|снег|m|tr=sneg}}
 * [[Santali]]: {{tø|sat|ᱦᱤᱢ|tr=him|sc=Olck}}
 * [[Scots]]: {{tø|sco|snaw}}
-* [[Scottish Gaelic]]: [[sneachda]] {{m}},  {{t-|gd|sneachd|m|xs=Scottish Gaelic}}
+* [[Scottish Gaelic]]: {{t|gd|sneachda|m}},  {{t-|gd|sneachd|m|xs=Scottish Gaelic}}
 * {{trreq|Serbo-Croatian}}
 * {{trreq|Shona}}
 * [[Sichuan Yi]]: {{tø|ii|ꃰ|tr=vo}}
@@ -496,7 +499,7 @@
 * Ukrainian: {{t+|uk|сніг|xs=Ukrainian}}
 * [[Uyghur]]: {{t|ug|قار|sc=ug-Arab}}
 * [[Volapük]]: {{t|vo|nif}}
-* Welsh: {{t+|cy|eira|xs=Welsh}}
+* Welsh: {{t+|cy|eira|m|xs=Welsh}}
 * [[West Frisian]]: {{t+|fy|snie|xs=West Frisian}}
 * Yiddish: {{t-|yi|שניי|m|tr=shney|sc=yi-Hebr|xs=Yiddish}}
 * {{trreq|Zamboanga Chavacano}}
@@ -578,7 +581,6 @@
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 * {{ttbc|Breton}}: [[erc'h]] {{m}} (1)
 * {{ttbc|Inuktitut}}: [[ᐊᐳ]] (apu) or [[ᐊᐳᑦ]] ([[aput]]) (1)<!-- script needs to be checked -->
-* {{ttbc|Old English}}: [[snáw]] {{m}}, [[snáwa]] {{m}}
 * {{ttbc|Thai}}: {{Thai|[[หิมะ]]}} (hema)
 {{trans-bottom}}
 
