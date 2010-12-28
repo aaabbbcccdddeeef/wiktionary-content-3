@@ -5,7 +5,7 @@
 * [[œconomy]]
 
 ===Etymology===
-From {{etyl|la|en}} {{term|oeconomia|lang=la}} from {{etyl|grc|en}} {{term|οἰκονομία||management of a household, administration|tr=oikonomia|lang=grc|sc=polytonic}} from {{term|οἶκος||house|tr=oikos|lang=grc|sc=polytonic}} + {{term|νόμος||law|tr=nomos|lang=grc|sc=polytonic}}.  The first recorded sense of the word "economy", found in a work possibly composed in 1440, is "the management of economic affairs", in this case, of a monastery.
+From {{etyl|la|en}} {{term|oeconomia|lang=la}} from {{etyl|grc|en}} {{term|οἰκονομία||management of a household, administration|tr=oikonomia|lang=grc|sc=polytonic}} from {{term|οἶκος||house|tr=oikos|lang=grc|sc=polytonic}} + {{term|νόμος||law|tr=nomos|lang=grc|sc=polytonic}}. The first recorded sense of the word "economy", found in a work possibly composed in 1440, is "the management of economic affairs", in this case, of a monastery.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/iːˈkɒn.ə.mi/|/ɪˈkɒn.ə.mi/}}, {{SAMPA|/i:"kQn.@.mi/|/I"kQn.@.mi/}}
@@ -63,7 +63,7 @@ From {{etyl|la|en}} {{term|oeconomia|lang=la}} from {{etyl|grc|en}} {{term|οἰ
 * German: {{t+|de|Wirtschaft|f}}, {{t+|de|Ökonomie|f}}
 {{trans-mid}}
 * Greek: {{t+|el|οικονομία|f|tr=oikonomía|sc=Grek}}
-* Italian: {{t+|it|economia|f}},  {{t+|it|risparmio|m}}
+* Italian: {{t+|it|economia|f}}, {{t+|it|risparmio|m}}
 * Japanese: {{t|ja|経済|tr=けいざい, keizai|sc=Jpan}}
 * Korean: {{t|ko|경제|tr=gyeongje|sc=Kore}} ({{t|ko|經濟|sc=Kore}})
 * Russian: {{t|ru|экономия|f|tr=ekonómija|sc=Cyrl}}, {{t|ru|бережливость|f|tr=berežlívost’|sc=Cyrl}}, {{t|ru|экономичность|f|tr=ekonomíčnost’|sc=Cyrl}}
@@ -98,32 +98,35 @@ From {{etyl|la|en}} {{term|oeconomia|lang=la}} from {{etyl|grc|en}} {{term|οἰ
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|Armenian}}: {{t-|hy|տնտեսություն|tr=tntesut'yun}}
+* {{ttbc|hy}}: {{t-|hy|տնտեսություն|tr=tntesut'yun}}
 * {{ttbc|et}}: [[majandus]]
-* {{ttbc|Faroese}}: [[búskapur]] {{m}}
+* {{ttbc|fo}}: [[búskapur]] {{m}}
 * {{ttbc|de}}: [[Binnenwirtschaft]]
 * {{ttbc|io}}: [[ekonomi]]
-* {{ttbc|Kurdish}}: [[aborî]] {{f}}, [[ekonomî]] {{f}}, [[îqtisad]] {{f}}, {{ku-Arab|[[ئابووری]]}}
+* {{ttbc|ku}}: [[aborî]] {{f}}, [[ekonomî]] {{f}}, [[îqtisad]] {{f}}, {{ku-Arab|[[ئابووری]]}}
 {{trans-mid}}
 * {{ttbc|la}}: [[oeconomia]], [[œconomia]] {{f}}
-* {{ttbc|Luxembourgish}}: [[Ökonomie]] {{f}}
-* {{ttbc|Malay}}: [[ekonomi]]
-* {{ttbc|Norwegian}}: [[økonomi]] ? {{f}}
+* {{ttbc|lb}}: [[Ökonomie]] {{f}}
+* {{ttbc|ml}}: [[ekonomi]]
+* {{ttbc|no}}: [[økonomi]] ? {{f}}
 * {{ttbc|pt}}: ''cheap:'' [[econômico]] {{m}}; ''science:'' [[economia]] {{f}}
 * {{ttbc|es}}: [[economía]] {{f}}
-* {{ttbc|Swedish}}: [[ekonomi]]
+* {{ttbc|sv}}: [[ekonomi]]
 * {{ttbc|Turkish}}: [[ekonomi]]
-{{trans-bottom}}
+{{trans-tr}}
 
 ===Adjective===
 {{en-adj|-}}
 
-# [[cheap]] to run; using minimal resources; representing good [[value]] for [[money]].
+# [[cheap|Cheap]] to run; using minimal resources; representing good [[value]] for [[money]].
 #: "He bought an '''economy''' car."
 #: "'''Economy''' size".
 
 ====Translations====
-* Russian: [[экономный]] (ekonómnyj)
+{{trans-top|cheap to run}}
+* Russian: {{t|ru|экономный|tr=ekonómnyj|sc=Cyrl}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ===Anagrams===
 * {{alphagram|cemnooy}}
