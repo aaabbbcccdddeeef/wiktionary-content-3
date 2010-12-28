@@ -36,10 +36,10 @@ From {{etyl|enm}} {{term|temple|lang=enm}} < {{etyl|ang}} {{term|templ}} < {{ety
 
 =====Translations=====
 {{trans-top|worship place}}
-* Albanian: [[tempull]]
-* Arabic: {{Arab|[[معبد|مَعْبَد]]}} (máʕbad) {{m}}, {{Arab|[[هيكل|هَيْكَل]]}} (hájkal) {{m}}
-* Armenian: [[տաճար]] (tač̣ar)
-* [[Basque]]: [[tenplu]]
+* Albanian: {{t|sq|empull}}
+* Arabic: {{t|ar|معبد|m|tr=áʕbad|sc=Arab}}, {{t|ar|هيكل||m|tr=hájkal|sc=Arab}}
+* Armenian: {{t|hy|տաճար|sc=Armn|tr=tač̣ar}}
+* [[Basque]]: {{t|eu|tenplu}}
 * Bosnian: {{t-|bs|hram|m}}
 * Bulgarian: {{t+|bg|храм|m|tr=hram|sc=Cyrl}}
 * {{trreq|Burmese}}
@@ -53,24 +53,24 @@ From {{etyl|enm}} {{term|temple|lang=enm}} < {{etyl|ang}} {{term|templ}} < {{ety
 * Esperanto: {{t-|eo|templo|xs=Esperanto}}
 * Finnish: {{t+|fi|temppeli}}
 * French: {{t+|fr|temple|m}}
-* Georgian: [[ტაძარი]] (tadzari)
+* Georgian: {{t|ka|ტაძარი|tr=tadzari|sc=Geor}}
 * German: {{t+|de|Tempel|m}}
-* Greek: {{t+|el|ναός|m}} (naós)
-* [[Gujarati]]: [[મંદિર]] (ma.ndir) {{n}}
-* Hawaiian: [[heiau]]
-* Hebrew: {{t-|he|מקדש|m|alt=מִקְדָּשׁ|tr=miqdash}}
-* Hindi: {{t-|hi|मन्दिर|m|tr=mandir|xs=Hindi}}
+* Greek: {{t+|el|ναός|m|tr=naós|sc=Grek}} 
+* [[Gujarati]]: {{t|gu|મંદિર|n|tr=ma.ndir}}
+* Hawaiian: {{t|haw|heiau}}
+* Hebrew: {{t-|he|מקדש|m|alt=מִקְדָּשׁ|tr=miqdash|sc=Hebr}}
+* Hindi: {{t-|hi|मन्दिर|m|tr=mandir|xs=Hindi|sc=Deva}}
 * Hungarian: {{t+|hu|templom}}
 * Icelandic: {{t-|is|musteri|n}}, {{t+|is|hof|n}}
 * [[Ido]]: {{t+|io|templo|xs=Ido}}
 * Indonesian: {{t+|id|kuil|xs=Indonesian}}
 * Italian: {{t+|it|tempio|m}}
-* Japanese: [[神殿]] (しんでん, shinden); ''Buddhist temple:'' [[堂塔]] (どうとう, dōtō), [[寺]] ([[てら]], tera), [[寺院]] (じいん, jīn), {{qualifier|Shinto shrine}} {{t+|ja|神社|tr=じんじゃ, jinja}}
+* Japanese: {{t|ja|神殿|tr={{l|ja|しんでん|sc=Jpan}}, [[shinden]]|sc=Jpan}}, ''Buddhist temple:'' {{t|ja|堂塔|tr={{l|ja|どうとう|sc=Jpan}}, [[dōtō]]|sc=Jpan}}, {{t|ja|寺|tr={{l|ja|てら|sc=Jpan}}, [[tera]]|sc=Jpan}}, {{t|ja|寺院|tr={{l|ja|じいん|sc=Jpan}}, [[jīn]]|sc=Jpan}}, {{qualifier|Shinto shrine}} {{t+|ja|神社|tr={{l|ja|じんじゃ|sc=Jpan}}, [[jinja]]|sc=Jpan}}
 * [[Kannada]]: {{t|kn|ದೇವಸ್ಥಾನ|tr=devasthana|sc=Knda|xs=Kannada}}
 * [[Khmer]]: {{t-|km|វត្ត|tr=wōat|sc=Khmr|xs=Khmer}}
-* Korean: [[절]] (jeol), [[사찰]] ([[寺刹]], sachal)
-* Kurdish: {{ku-Arab|[[په‌رستگا]]}}
-* [[Lao]]: {{Laoo|[[ວັດ]]}} (wad)
+* Korean: {{t|ko|절|tr=jeol|sc=Kore}}, {{t|ko|사찰|sc=Kore}}<!--unsure what to make of this bit: ([[寺刹]], sachal)-->
+* Kurdish: {{t|ku||په‌رستگا|sc=ku-Arab}}
+* [[Lao]]: {{t|lo||ວັດ|tr=wad|sc=Laoo}}
 {{trans-mid}}
 * Latin: {{t-|la|templum}}
 * Latvian: {{t|lv|templis|m}}
