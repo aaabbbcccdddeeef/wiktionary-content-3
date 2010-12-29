@@ -296,23 +296,23 @@ From {{etyl|non|no}} {{term|dagr|lang=non}}.
 ===Etymology===
 From {{etyl|non|sv}} {{term|dagr|lang=non}}.
 
-{{sv-decl-noun|gender=Common|dag|dagen|dagar|dagarna|dags|dagens|dagars|dagarnas}}
-
 ===Pronunciation===
 * {{IPA|dɑː(g)|lang=sv}}
 * {{audio|Sv-dag.ogg|audio}}
 
 ===Noun===
-'''dag''' {{c}}
+{{sv-noun|g=c}}
 
 # A [[day]]
 # The period of time between sunrise and sunset, [[daytime]].
+
+====Declension====
+{{sv-decl-noun|gender=Common|dag|dagen|dagar|dagarna|dags|dagens|dagars|dagarnas}}
 
 ===See also===
 * [[i dag]]
 * [[dygn]]
 
-[[Category:Swedish nouns]]
 [[Category:sv:Time]]
 
 [[af:dag]]
