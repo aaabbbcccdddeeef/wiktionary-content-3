@@ -17,17 +17,16 @@ From {{etyl|fro|en}} {{term|sphere|lang=fro}}, from {{etyl|LL.|en}} {{term|spher
 ===Noun===
 {{en-noun}}
 
-# {{context|now|_|rare}} The apparent outer limit of space; the edge of the heavens, imagined as a hollow globe within which celestial bodies appear to be embedded. {{defdate|from 14th c.}}
+# {{mathematics}} A regular three-dimensional object in which every [[cross-section]] is a [[circle]]; the figure described by the revolution of a circle about its [[diameter]] {{defdate|from 14th c.}}; the set of all points in [[three-dimensional]] [[Euclidean space]] (or {{n}}-dimensional space, in topology) that are a fixed distance from a fixed point {{defdate|from 20th c.}}.
+# A spherical physical object; a [[globe]] or [[ball]]. {{defdate|from 14th c.}}
+# {{context|astronomy|now|_|rare}} The apparent outer limit of space; the edge of the heavens, imagined as a hollow globe within which celestial bodies appear to be embedded. {{defdate|from 14th c.}}
 #* '''1635''', John Donne, "His parting form her":
 #*: Though cold and darkness longer hang somewhere, / Yet ''Phoebus'' equally lights all the '''Sphere'''.
-# {{geometry}} A regular three-dimensional object in which every [[cross-section]] is a [[circle]]; the figure described by the revolution of a semi-circle about its diameter. {{defdate|from 14th c.}}
-# {{historical|astronomy}} Any of the concentric hollow transparent globes formerly believed to rotate around the [[Earth]], and which carried the heavenly bodies; there were originally believed to be eight, and later nine and ten; friction between them was thought to cause a harmonious sound (the ''[[music of the spheres]]''). {{defdate|from 14th c.}}
+# {{historical|astronomy|mythology}} Any of the concentric hollow transparent globes formerly believed to rotate around the [[Earth]], and which carried the [[heavenly body|heavenly bodies]]; there were originally believed to be eight, and later nine and ten; friction between them was thought to cause a harmonious sound (the ''[[music of the spheres]]''). {{defdate|from 14th c.}}
 #* '''1603''', John Florio, translating Michel de Montaigne, ''Essays'', vol. 1 p. 153:
 #*: It is more simplicitie to teach our children [...] [t]he knowledge of the starres, and the motion of the eighth '''spheare''', before their owne.
-# {{figuratively}} An area of activity for a planet; or by extension, an area of influence for a [[god]], [[hero]] etc. {{defdate|from 14th c.}}
-# A spherical object; a [[globe]] or [[ball]]. {{defdate|from 14th c.}}
-# The region in which something or someone is active; one's [[province]], [[domain]]. {{defdate|from 17th c.}}
-# {{mathematics}} The set of all points in [[three-dimensional]] [[Euclidean space]] (or {{n}}-dimensional space, in topology) that are a fixed distance from a fixed point. {{defdate|from 20th c.}}
+# {{mythology}} An area of activity for a planet; or by extension, an area of influence for a [[god]], [[hero]] etc. {{defdate|from 14th c.}}
+# {{figuratively}} The region in which something or someone is active; one's [[province]], [[domain]]. {{defdate|from 17th c.}}
 
 ====Synonyms====
 * {{sense|object}} [[ball]], [[globe]], [[orb]]
@@ -51,7 +50,35 @@ From {{etyl|fro|en}} {{term|sphere|lang=fro}}, from {{etyl|LL.|en}} {{term|spher
 * [[troposphere]]<!--add more like this, please-->
 
 ====Translations====
-{{trans-top|spherical object}}
+{{trans-top|mathematics: regular three-dimensional object}}
+* Armenian: [[գունդ]] (gund)
+* Chinese:
+*: Mandarin: {{t-|cmn|球體|sc=Hani}}, {{t-|cmn|球体|tr=qiútǐ|sc=Hani}}
+* Croatian: {{t-|hr|sfera|f}}
+* Czech: {{t-|cs|kulová plocha|f}}
+* Dutch: {{t+|nl|bol|m}}, {{t+|nl|sfeer|m|f}}
+* Esperanto: {{t|eo|sfero|xs=Esperanto}}
+* French: {{t+|fr|sphère|f}}
+* Georgian: [[სფერო]] (sp‘ero)
+* German: {{t+|de|Kugel|f}}
+* Greek: {{t+|el|σφαίρα|f|tr=sféra}}
+* Hebrew: {{t+|he|כדור|m|tr=kadúr}}, {{t+|he|ספרה|f|tr=sféra}}
+* Irish: [[sféar]] {{m}}
+{{trans-mid}}
+* Italian: {{t+|it|sfera|f}}
+* Japanese: [[球]] (kyū), [[球体]] (kyūtai)
+* [[Pashto]]: {{t-|ps|پنډوس|m|tr=pənddus|sc=ps-Arab|xs=Pashto}}, {{t-|ps|غونډارى|m|tr=ghunddarai|sc=ps-Arab|xs=Pashto}}
+* Persian: {{t+|fa|کره|xs=Persian}}
+* Polish: {{t+|pl|sfera|f}}, {{t+|pl|kula|f}}
+* Portuguese: {{t+|pt|esfera|f}}
+* Russian: {{t+|ru|шар|m|tr=šar}}, {{t+|ru|сфера|f|tr=sféra}}
+* Slovene: {{t+|sl|krogla|f}}
+* Spanish: {{t+|es|esfera|f}}
+* Swedish: {{t+|sv|sfär|c}}
+* [[Telugu]]: [[గోళము]] (gOLamu)
+{{trans-bottom}}
+
+{{trans-top|spherical physical object}}
 * Albanian: {{t|sq|sferë|xs=Albanian}}
 * Arabic: {{t|ar|فلكة|f|alt=فَلْكَةٌ|tr=fálka(t)}}
 * Armenian: [[գունդ]] (gund)
@@ -101,40 +128,24 @@ From {{etyl|fro|en}} {{term|sphere|lang=fro}}, from {{etyl|LL.|en}} {{term|spher
 * {{trreq|Welsh}}
 {{trans-bottom}}
 
-{{trans-top|geometrical figure}}
-* Armenian: [[գունդ]] (gund)
-* Chinese:
-*: Mandarin: {{t-|cmn|球體|sc=Hani}}, {{t-|cmn|球体|tr=qiútǐ|sc=Hani}}
-* Croatian: {{t-|hr|sfera|f}}
-* Czech: {{t-|cs|kulová plocha|f}}
-* Dutch: {{t+|nl|bol|m}}, {{t+|nl|sfeer|m|f}}
-* Esperanto: {{t|eo|sfero|xs=Esperanto}}
-* French: {{t+|fr|sphère|f}}
-* Georgian: [[სფერო]] (sp‘ero)
-* German: {{t+|de|Kugel|f}}
-* Greek: {{t+|el|σφαίρα|f|tr=sféra}}
-* Hebrew: {{t+|he|כדור|m|tr=kadúr}}, {{t+|he|ספרה|f|tr=sféra}}
-* Irish: [[sféar]] {{m}}
+{{trans-see|astronomy: apparent outer limit of space|celestial sphere}}
+
+{{trans-top|historical, astronomy, mythology: any of the concentric globes formerly believed to rotate around the Earth}}
+* Finnish: {{t|fi|taivaankansi}}
 {{trans-mid}}
-* Italian: {{t+|it|sfera|f}}
-* Japanese: [[球]] (kyū), [[球体]] (kyūtai)
-* [[Pashto]]: {{t-|ps|پنډوس|m|tr=pənddus|sc=ps-Arab|xs=Pashto}}, {{t-|ps|غونډارى|m|tr=ghunddarai|sc=ps-Arab|xs=Pashto}}
-* Persian: {{t+|fa|کره|xs=Persian}}
-* Polish: {{t+|pl|sfera|f}}, {{t+|pl|kula|f}}
-* Portuguese: {{t+|pt|esfera|f}}
-* Russian: {{t+|ru|шар|m|tr=šar}}, {{t+|ru|сфера|f|tr=sféra}}
-* Slovene: {{t+|sl|krogla|f}}
-* Spanish: {{t+|es|esfera|f}}
-* Swedish: {{t+|sv|sfär|c}}
-* [[Telugu]]: [[గోళము]] (gOLamu)
 {{trans-bottom}}
 
-{{trans-top|region of activity}}
+{{trans-top|area of activity for a planet, god or hero}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|region in which something or someone is active}}
 * Armenian: {{t-|hy|ասպարեզ|tr=asparez}}
 * Croatian: {{t-|hr|sfera|f}}
 * Danish: {{t-|da|sfære|c}}
 * Dutch: {{t+|nl|omgeving|f}}, {{t+|nl|bereik|n}}, {{t+|nl|sfeer|m}}
 * Esperanto: {{t|eo|sfero|xs=Esperanto}}
+* Finnish: {{t|fi|ala}}, {{t|fi|alue}}
 * French: {{t+|fr|sphère|f}}
 * German: {{t+|de|Sphäre|f}}, {{t+|de|Bereich|m}}
 * Greek: {{t+|el|σφαίρα|f|tr=sféra}}
@@ -154,10 +165,8 @@ From {{etyl|fro|en}} {{term|sphere|lang=fro}}, from {{etyl|LL.|en}} {{term|spher
 * Turkish: {{t+|tr|alan}}
 {{trans-bottom}}
 
-{{trans-see|astronomy: apparent surface of the heavens|celestial sphere}}
-<!--Remove this section once all of the translations below have been moved into the tables above.-->
 {{checktrans-top}}
-* {{ttbc|Latin}}: (1): {{t-|la|sphaera|f}}
+* {{ttbc|Latin}}: {{t-|la|sphaera|f}}
 {{trans-bottom}}
 
 ===See also===
