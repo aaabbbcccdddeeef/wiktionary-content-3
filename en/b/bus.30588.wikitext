@@ -67,7 +67,7 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 * Greek: {{t+|el|λεωφορείο|n|tr=leoforeío}}
 * [[Greenlandic]]: {{t|kl|bussi}}
 * Hebrew: {{t+|he|אוטובוס|m|tr=ot'obus}}
-* Hindi: {{t|hi|बस|tr=bas|xs=Hindi}}
+* Hindi: {{t|hi|बस|f|tr=bas|xs=Hindi}}
 * Hungarian: {{t+|hu|autóbusz}}, {{t+|hu|busz}}
 * Icelandic: {{t|is|strætisvagn|m}} (city transport), {{t|is|strætó|m}} {{qualifier|informal; city transport}}, {{t|is|langferðabíll|m}} {{qualifier|long distance}}, {{t|is|rúta|f}} {{qualifier|informal; long distance}}
 * [[Inari Sami]]: [[bussi]]
@@ -79,7 +79,7 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 * Korean: {{t+|ko|버스|tr=beoseu|sc=Hang}} {{qualifier|South Korea}}, {{t|ko|뻐스|tr=ppoeseu|sc=Hang}} {{qualifier|North Korea}}
 {{trans-mid}}
 * Kurdish: {{t+|ku|پاس|sc=ku-Arab}}
-* [[Lao]]: {{Laoo|[[ລົດ]]}} (lod), {{t|lo|ລົດ|tr=lod|sc=Laoo}}
+* [[Lao]]: {{t|lo|ລົດ|tr=lod|sc=Laoo}}
 * Latvian: [[autobuss]]
 * Lithuanian: {{t+|lt|autobusas|m|xs=Lithuanian}}
 * [[Luhya]]: {{tø|luy|ebasi}}
@@ -115,11 +115,10 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 {{trans-bottom}}
 
 {{trans-top|electrical conductor}}
-* Bulgarian: {{t-|bg|шина|f}}
+* Bulgarian: {{t-|bg|шина|f|tr=šína}}
 * [[Catalan]]: {{t+|ca|bus|m}}
 * Chinese:
-*: Mandarin: {{zh-ts|總線|总线}} ([[zǒngxiàn]])
-*: Taiwanese Mandarin: {{zh-ts|匯流排|汇流排}} ([[huìliúpái]])
+*: Mandarin: {{t|zh|總線|sc=Hani}}, {{t|zh|总线|tr=zǒngxiàn|sc=Hani}}, {{qualifier|Taiwan}} {{t|zh|匯流排|sc=Hani}}, {{t|zh|汇流排|tr=huìliúpái|sc=Hani}}
 * Greek: {{t+|el|αρτηρία|f|tr=artiría}}
 * Italian: {{t+|it|bus|m}}
 {{trans-mid}}
