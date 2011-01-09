@@ -33,7 +33,7 @@
 * Arabic: {{t|ar|نباتي|alt=نَباتيّ|tr=nabaatiyy}}
 * [[Catalan]]: {{t|ca|vegetarià|m}}, {{t|ca|vegetariana|f}}
 * Chinese:
-*: Mandarin: {{t|cmn|素食主義者|sc=Hani}},  {{t|cmn|素食主义者|tr=sùshízhǔyìzhě|sc=Hani}}, {{t|cmn|素食者|tr=sùshízhě|sc=Hani}}, {{t|cmn|吃素的人|tr=chīsù de rén|sc=Hani}}
+*: Mandarin: {{t|cmn|素食主義者|sc=Hani}}, {{t|cmn|素食主义者|tr=sùshízhǔyìzhě|sc=Hani}}, {{t|cmn|素食者|tr=sùshízhě|sc=Hani}}, {{t|cmn|吃素的人|tr=chīsù de rén|sc=Hani}}
 * Croatian: {{t-|hr|vegetarijanac|m|alt=vegetarijánac}}, {{t-|hr|vegetarijanka|f|alt=vegetarìjānka}}
 * Czech: {{t+|cs|vegetarián|m}}, {{t-|cs|vegetariánka|f}}
 * Danish: {{t-|da|vegetar}}
@@ -49,7 +49,7 @@
 {{trans-mid}}
 * Korean: {{t+|ko|채식주의자|tr=chaesikjuuija|sc=Hang}}
 * [[Limburgish]]: {{t|li|greunsaeter|xs=Limburgish}}, {{t|li|gruuensaeter|xs=Limburgish}}
-* [[Macedonian]]: {{t|mk|вегетаријанец|m|tr=vegetarijánec}},  {{t|mk|вегетаријанка|f|tr=vegetarijánka}}
+* [[Macedonian]]: {{t|mk|вегетаријанец|m|tr=vegetarijánec}}, {{t|mk|вегетаријанка|f|tr=vegetarijánka}}
 * Norwegian: {{t|no|vegetarianer}}
 * {{trreq|Persian}}
 * Polish: {{t+|pl|wegetarianin|m}}, {{t+|pl|wegetarianka|f}}
@@ -57,11 +57,11 @@
 * Romanian: {{t|ro|vegetariană}}, {{t-|ro|vegetarian}}, {{t-|ro|vegetarian|m}}
 * Russian: {{t+|ru|вегетарианец|m|tr=vegetariánec}}, {{t|ru|вегетарианка|f|tr=vegetariánka}}
 * [[Scottish Gaelic]]: [[feòil-sheachnair]] {{m}}, [[glasraichear]] {{m}}, [[lusair]] {{m}}
-* Spanish: {{t-|es|vegetariano|m}},  {{t-|es|vegetariana|f}}
+* Spanish: {{t-|es|vegetariano|m}}, {{t-|es|vegetariana|f}}
 * Swedish: {{t+|sv|vegetarian|c}}
-* Turkish: {{t|tr|vejetaryen}} (often misspelt as [[vejeteryan]]),  {{t|tr|etyemez}} (''very rare'')
+* Turkish: {{t|tr|vejetaryen}} (often misspelt as [[vejeteryan]]), {{t|tr|etyemez}} (''very rare'')
 * [[Volapük]]: {{qualifier|male or female}} {{t|vo|härbatiman}}, {{qualifier|male}} {{t|vo|hihärbatiman}}, {{qualifier|female}} {{t|vo|jihärbatiman}}
-* Welsh: {{t|cy|llysieuwr|m|xs=Welsh}},  {{t|cy|llysieuwraig|f|xs=Welsh}}
+* Welsh: {{t|cy|llysieuwr|m|xs=Welsh}}, {{t|cy|llysieuwraig|f|xs=Welsh}}
 * Yiddish: {{t|yi|וועגעטאַריער|tr=wegetarier|xs=Yiddish}}
 {{trans-bottom}}
 
@@ -104,7 +104,7 @@
 * Japanese: {{t|ja|菜食主義の|tr=saishoku-shugi-no}} ''person'', {{t|ja|草食の|tr=sōshoku-no}} ''animal'' = [[herbivorous]]
 {{trans-mid}}
 * Korean: {{t|ko|채식주의의|tr=chaesikjuui-ui|sc=Hang}} ''pertaining to vegetarianism''
-* [[Macedonian]]: {{t-|mk|вегетаријански|m|tr=vegetarijánski}},  {{t|mk|вегетаријанска|f|tr=vegetarijánska}},  {{t|mk|вегетаријанско|n|tr=vegetarijánsko}}
+* [[Macedonian]]: {{t-|mk|вегетаријански|m|tr=vegetarijánski}}, {{t|mk|вегетаријанска|f|tr=vegetarijánska}}, {{t|mk|вегетаријанско|n|tr=vegetarijánsko}}
 * Polish: {{t+|pl|wegetariański|m}}
 * Portuguese: {{t+|pt|vegetariano}}
 * Romanian: {{t|ro|vegetarial|m}}
@@ -125,12 +125,14 @@
 ----
 
 ==Swedish==
-{{sv-noun-reg-r-c|2=vegetariane}}
 
 ===Noun===
-{{infl|sv|noun|g=c}}
+{{sv-noun|g=c}}
 
 # A [[#Noun|vegetarian]].
+
+====Declension====
+{{sv-noun-reg-r-c|2=vegetariane}}
 
 [[el:vegetarian]]
 [[fr:vegetarian]]
