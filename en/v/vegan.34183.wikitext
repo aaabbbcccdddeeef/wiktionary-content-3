@@ -18,7 +18,7 @@
 * Hungarian: {{t-|hu|vega}}
 * Italian: [[vegano]]
 {{trans-mid}}
-* [[Macedonian]]: {{t|mk|вегански|m|tr=véganski}},  {{t|mk|веганска|f|tr=véganska}},  {{t|mk|веганско|n|tr=véganskо}}
+* [[Macedonian]]: {{t|mk|вегански|m|tr=véganski}}, {{t|mk|веганска|f|tr=véganska}}, {{t|mk|веганско|n|tr=véganskо}}
 * Polish: [[wegański]] {{m}}, [[wegańska]] {{f}}, [[wegańskie]]
 * Spanish: {{t|es|vegano}}
 * Welsh: {{t|cy|feganaidd}}, {{t|cy|figanaidd}}
@@ -32,7 +32,7 @@
 
 ====Translations====
 {{trans-top|supporter of veganism}}
-* Czech: {{t-|cs|vegan|m}},  {{t-|cs|veganka|f}}
+* Czech: {{t-|cs|vegan|m}}, {{t-|cs|veganka|f}}
 * Danish: {{t|da|veganer}}
 * Dutch: [[veganist]] {{m}}, [[veganiste]] {{f}}
 * Finnish: {{t+|fi|vegaani}}
@@ -42,11 +42,11 @@
 * Irish: {{t|ga|veigeán|m}}, {{t|ga|fíor-veigeatóir|m}}
 {{trans-mid}}
 * Italian: [[vegano]] {{m}}
-* [[Macedonian]]: {{t|mk|végan|m|alt=веган}},  {{t|mk|véganka|f|alt=веганка|tr=véganska}}
+* [[Macedonian]]: {{t|mk|végan|m|alt=веган}}, {{t|mk|véganka|f|alt=веганка|tr=véganska}}
 * Norwegian: {{t|no|veganer}}
 * Polish: {{t+|pl|weganin|m}}, {{t+|pl|weganka|f}}
 * Russian: [[веган]] {{m}} (''used for both men and women'')
-* Spanish: {{t|es|vegano|m}},  {{t|es|vegana|f}}
+* Spanish: {{t|es|vegano|m}}, {{t|es|vegana|f}}
 * Swedish: {{t+|sv|vegan}}
 * Welsh: {{t|cy|fegan}}, {{t|cy|figan}}, {{t|cy|cigwrthodwr caeth|m}}, {{t|cy|llysfwytäwr caeth|m}}
 {{trans-bottom}}
@@ -54,7 +54,7 @@
 {{trans-top|someone from Vega}}
 * Finnish: [[vegalainen]]
 {{trans-mid}}
-* Spanish: {{t|es|vegano|m}},  {{t|es|vegana|f}}
+* Spanish: {{t|es|vegano|m}}, {{t|es|vegana|f}}
 {{trans-bottom}}
 
 ===Derived terms===
@@ -99,9 +99,12 @@
 ==Swedish==
 
 ===Noun===
-{{sv-noun-reg-r-c|2=vegane}}
+{{sv-noun|g=c}}
 
 # [[#English|Vegan]], person who does not use animal products.
+
+====Declension====
+{{sv-noun-reg-r-c|2=vegane}}
 
 ====See also====
 * [[vegetarian]]
