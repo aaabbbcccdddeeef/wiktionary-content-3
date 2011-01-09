@@ -372,14 +372,16 @@ Merriam-Webster's ''Collegiate Dictionary'' observes that {{term||center around}
 ==Swedish==
 
 ===Noun===
-{{sv-noun-irreg-c|2=centern|3=centrar}}
-{{sv-noun-irreg-n|2=centret|3=center|4=centren}}
-{{sv-noun-unc-irreg-c}}
-{{sv-noun}} {{c}}, {{n}}{{,}} and {{uncountable}}
+{{infl|sv|noun|g=c,n}}
 
-# [[centre]]; midplayer of a team ({{c}}, def. 1)
-# [[centre]]; a place where some function or activity occurs ({{n}}, def. 2)
-# {{politics|lang=sv}} The ensemble of [[centre]] [[political]] parties ({{uncountable}}, def. 3)
+# {{n}} a [[centre]]; a place where some function or activity occurs; see also {{term|lang=sv|centrum}}
+# {{c}} {{context|uncountable|politics|lang=sv}} the [[political]] centre, parties and politicians in between the left and right wings
+# {{c}} {{sports|lang=sv}} a centre; midplayer of a team
+
+====Declension====
+{{sv-noun-n-zero|stem=centr|definitions=1}}
+{{sv-noun-unc-irreg-c|definitions=2}}
+{{sv-noun-irreg-c|2=centern|3=centrar|definitions=3}}
 
 [[da:center]]
 [[et:center]]
