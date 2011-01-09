@@ -70,7 +70,7 @@
 * Albanian: {{t+|sq|mal|m|xs=Albanian}}
 * [[Amharic]]: {{tø|am|ተራራ|tr=tärara|sc=Ethi}}
 * [[Anglo-Norman]]: {{tø|xno|muntaigne|f}}
-* Arabic: {{Arab|[[جبل|جَبَلٌ]]}} (jábal) {{m}}
+* Arabic: {{t|ar|جبل|m|tr=jábal|alt=جَبَلٌ|sc=Arab}}
 * [[Aragonese]]: {{t-|an|montaña|f|xs=Aragonese}}
 * Aramaic:
 *: Syriac: [[ܛܘܪܐ]] (Ṭūrā’) {{m}}
@@ -81,7 +81,7 @@
 * [[Azeri]]: [[dağ]]
 * [[Bashkir]]: {{tø|ba|тау|tr=taw|sc=Cyrl|xs=Bashkir}}
 * [[Basque]]: [[mendi]]
-* Belarusian: [[гара]] (hará) {{f}}
+* Belarusian: {{t|be|гара|f|tr=hará}}
 * Bosnian: {{t-|bs|planina|f}}, {{t-|bs|gora|f}}
 * [[Breton]]: [[menez]] {{m}}
 * Bulgarian: {{t+|bg|планина|f|tr=planina}}
@@ -90,7 +90,8 @@
 * [[Central Atlas Tamazight]]: [[adrar]] {{m}}{{rfscript|Tamazight}}
 * [[Chechen]]: {{tø|ce|лам|tr=lam|sc=Cyrl}}
 * Cherokee: {{t|chr|ᎣᏓᎸᎢ|tr=odalvi|sc=Cher}}
-* Chinese: [[山]] (shān)
+* Chinese:
+*: Mandarin: {{t|zh|山|tr=shān|sc=Hani}}
 * [[Chuvash]]: {{tø|cv|ту|tr=tu|sc=Cyrl}}
 * [[Coptic]]: {{tø|cop|ⲧⲟⲟⲩ|tr=toou|sc=Copt}}
 * Croatian: {{t-|hr|planina|f}}, {{t-|hr|gora|f}}
@@ -115,14 +116,14 @@
 * [[Greenlandic]]: {{t-|kl|qaqqaq|xs=Greenlandic}}
 * Hawaiian: [[mauna]], [[kuahiwi]]
 * Hebrew: [[הר]] (har)
-* Hindi: [[पहाड़]] (pahā.r), [[पर्वत]] (parvat), [[कोह]] (koh)
+* Hindi: {{t|hi|पसंद|m|tr=pahāṛ|sc=Deva}}, {{t|hi|पर्वत|m|tr=parvat|sc=Deva}}, {{t|hi|कोह|m|tr=koh|sc=Deva}}
 * Hungarian: {{t+|hu|hegy}}, {{t+|hu|hegység|p}}
 * Icelandic: {{t+|is|fjall|n}}
 * [[Ido]]: [[monto]]
 * Indonesian: {{t+|id|gunung|xs=Indonesian}}
 * Irish: {{t+|ga|sliabh|m|xs=Irish}}
 * Italian: {{t+|it|montagna|f}}, {{t+|it|monte|m}}
-* Japanese: [[山]] ([[やま]], yamá)
+* Japanese: {{t|ja|山|tr=[[やま]], yamá|sc=Jpan}}
 * [[Javanese]]: {{t-|jv|gunung|xs=Javanese}}
 * [[Kalmyk]]: {{tø|xal|уул|tr=uul|sc=Cyrl}}
 * [[Kannada]]: {{t+|kn|ಗಿರಿ|tr=giri|sc=Knda|xs=Kannada}}, {{t+|kn|ಪರ್ವತ|tr=parvata|sc=Knda|xs=Kannada}}, {{t+|kn|ಬೆಟ್ಟ|tr=beṭṭa|sc=Knda|xs=Kannada}}, {{t+|kn|ಮಲೆ|tr=male|sc=Knda|xs=Kannada}}
@@ -131,7 +132,7 @@
 * Kazakh: {{t-|kk|тау|tr=taw|sc=Cyrl|xs=Kazakh}}
 * [[Khakas]]: {{tø|kjh|тағ|tr=tağ|sc=Cyrl}}
 * [[Khmer]]: {{Khmr|[[ភ្នំ]]}} (pnŭm)
-* Korean: [[산]] ([[山]], san)
+* Korean: {{t|ko|산|tr=san|sc=Kore}} ({{t|ko|山|sc=Kore}})
 * [[Kumyk]]: {{tø|kum|тав|tr=taw|sc=Cyrl}}
 * Kurdish: {{ku-Arab|[[شاخ]]}}, {{ku-Arab|[[چیا]]}}, {{ku-Arab|[[کێو]]}}
 * [[Kyrgyz]]: {{t-|ky|тоо|tr=too|sc=Cyrl|xs=Kyrgyz}}
@@ -201,12 +202,12 @@
 * Turkish: {{t+|tr|dağ}}
 * [[Turkmen]]: {{t-|tk|dag|xs=Turkmen}}
 * [[Tuvan]]: {{tø|tyv|даг|tr=dağ|sc=Cyrl}}
-* Ukrainian: [[гора]] (horá) {{f}}
+* Ukrainian: {{t|uk|гора|f|tr=horá}}
 * [[Upper Sorbian]]: {{t-|hsb|hora|f|xs=Upper Sorbian}}
-* Urdu: {{ur-Arab|[[پہاڑ]]}} (pahā.r), {{ur-Arab|[[پروت]]}} (parvat), {{ur-Arab|[[کوہ]]}} (koh), {{ur-Arab|[[حبل]]}} (jabal)
+* Urdu: {{t|ur|پہاڑ|m|tr=pahāṛ|sc=ur-Arab}}, {{t|ur|پروت|m|tr=parvat|sc=ur-Arab}}, {{t|ur|کوہ|m|tr=koh|sc=ur-Arab}}, {{t|ur|حبل|tr=jabal|sc=ur-Arab}}
 * [[Uyghur]]: {{t|ug|تاغ|sc=ug-Arab}}
 * Uzbek: {{t-|uz|togʻ|xs=Uzbek}}
-* Vietnamese: {{t+|vi|núi|xs=Vietnamese}}, {{t+|vi|sơn|xs=Vietnamese}}
+* Vietnamese: {{t+|vi|núi|xs=Vietnamese}}, {{t+|vi|sơn|xs=Vietnamese}} ({{t|vi|山}})
 * [[Waray]]: {{tø|war|bukid}}
 * Welsh: {{t+|cy|mynydd|xs=Welsh}}
 * [[West Frisian]]: [[berch]]
