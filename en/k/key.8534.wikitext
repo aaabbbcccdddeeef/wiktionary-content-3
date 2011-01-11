@@ -63,15 +63,17 @@ From {{etyl|enm}} {{term|key|key(e)|lang=enm}}, {{term|kay|kay(e)|key|lang=enm}}
 {{trans-top|device designed to open and close a lock}}
 * [[Afrikaans]]: {{t-|af|sleutel|xs=Afrikaans}}
 * Albanian: {{t+|sq|çelës|m|xs=Albanian}}
-* Arabic: {{Arab|[[مفتاح]]}} (muftāħ) {{m}}
-* Armenian: [[բանալի]] (banali)
-* Bengali: {{tø|bn|চাবি|tr=cābi|sc=Beng}}
+* Arabic: {{Arab|[[مفتاح]]}} (muftāħ) {{m}}, {{t|ar|مفتاح|m|tr=muftaaH|sc=Arab}}
+* Armenian: [[բանալի]] (banali), {{t|hy|բանալի|tr=banali|sc=Armn}}
+* Belarusian: {{t|be|ключ|m|tr=ključ|sc=Cyrl}}
+* Bengali: {{tø|bn|চাবি|tr=cābi|sc=Beng}}, {{t|bn|চাবি|tr=cābi|sc=Beng}}
 * Bosnian: {{t-|bs|ključ|m}}
 * [[Breton]]: [[alhwez]] {{m}}
 * Bulgarian: {{t+|bg|ключ}}, {{t+|bg|разрешение}}, {{t-|bg|гама}}, {{t+|bg|клавиши}}
 * [[Catalan]]: [[clau]] {{f}}
 * [[Central Atlas Tamazight]]: {{tø|tzm|ⵜⴰⵙⴰⵔⵓⵜ|f|tr=tasarut|sc=Tfng}}
 * Chinese: [[鑰匙]], [[钥匙]] (yàoshi)
+*: Mandarin: {{t|zh|鑰匙|sc=Hani}}, {{t|zh|钥匙|tr=yàoshi|sc=Hani}}
 * Croatian: {{t-|hr|ključ|m}}
 * Czech: {{t-|cs|klíč|m}}
 * Danish: {{t-|da|nøgle|c}}
@@ -82,7 +84,7 @@ From {{etyl|enm}} {{term|key|key(e)|lang=enm}}, {{term|kay|kay(e)|key|lang=enm}}
 * French: {{t+|fr|clef|f}}, {{t+|fr|clé|f}}
 *: [[Old French]]: {{tø|fro|clef|f}}
 * [[Galician]]: [[chave]], [[tecla]]
-* Georgian: [[გასაღები]] (gasağebi)
+* Georgian: [[გასაღები]] (gasağebi), {{t|ka|გასაღები|tr=gasaḡebi|sc=Geor}}
 * German: {{t+|de|Schlüssel|m}}
 * Greek: {{t+|el|κλειδί|n|tr=kleidi}}
 * [[Gujarati]]: [[ચાવી]]
@@ -94,14 +96,14 @@ From {{etyl|enm}} {{term|key|key(e)|lang=enm}}, {{term|kay|kay(e)|key|lang=enm}}
 * Indonesian: {{t+|id|kunci|xs=Indonesian}}
 * Irish: {{t+|ga|eochair|f|xs=Irish}}
 * Italian: {{t+|it|chiave|f}}
-* Japanese: [[鍵]] ([[かぎ]], kagi)
+* Japanese: [[鍵]] ([[かぎ]], kagi), {{t|ja|鍵|tr=かぎ, kagi|sc=Jpan}}
 * [[Kannada]]: {{t|kn|ಬೀಗದ ಕೈ|tr=bīgada kai|sc=Knda|xs=Kannada}}, {{t|kn|ಕೀಲಿಕೈ|tr=kīlikai|sc=Knda|xs=Kannada}}
-* Korean: [[열쇠]] (yeolsoe)
+* Korean: [[열쇠]] (yeolsoe), {{t|ko|열쇠|tr=yeolsoe|sc=Kore}}
 * Kurdish: {{t+|ku|kilîl|m}}, {{t+|ku|kilîd|m}}, {{t+|ku|mift|m}}, {{t+|ku|enextar|m}}, {{t+|ku|کلیل|sc=ku-Arab}}
 * [[Lao]]: {{t|lo|ຂໍກະແຈ|sc=Laoo|xs=Lao}}
 * Latin: {{t+|la|clavis|f}}
-* Latvian: {{t|lv|atslēga|f}}
 {{trans-mid}}
+* Latvian: {{t|lv|atslēga|f}}
 * Lithuanian: {{t+|lt|raktas|m|xs=Lithuanian}}
 * [[Luxembourgish]]: {{t|lb|Schlëssel|m}}
 * [[Macedonian]]: {{t|mk|клуч|m|tr=kluč}}
@@ -135,14 +137,15 @@ From {{etyl|enm}} {{term|key|key(e)|lang=enm}}, {{term|kay|kay(e)|key|lang=enm}}
 * Swedish: {{t+|sv|nyckel|c}}
 * [[Tamil]]: [[சாலி]], {{t|ta|சாவி|tr=saavi|xs=Tamil}}
 * [[Telugu]]: [[తాళంచెవి]], [[బీగంచెవి]]
-* Thai: {{Thai|[[กุญแจ]]}} (goonjàe)
+* Thai: {{Thai|[[กุญแจ]]}} (goonjàe), {{t|th|กุญแจ|tr=goonjàe|sc=Thai}}
 * Turkish: {{t+|tr|anahtar}}, {{t+|tr|açar}}
-* Urdu: {{ur-Arab|[[تالی]]}} (tālī) {{f}}, {{ur-Arab|[[چابی]]}} (ćābī) {{f}}
+* Ukrainian: {{t|uk|ключ|m|tr=ključ|sc=Cyrl}}
+* Urdu: {{ur-Arab|[[تالی]]}} (tālī) {{f}}, {{ur-Arab|[[چابی]]}} (ćābī) {{f}}, {{t|ur|تالی|f|tr=tālī|sc=ur-Arab}}, {{t|ur|چابی|f|tr=cābī|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|chìa khoá|xs=Vietnamese}}, {{t+|vi|khoá|xs=Vietnamese}}
 * [[Volapük]]: {{t|vo|kik|xs=Volapük}}
 * Welsh: [[allwedd]] {{f}}, [[agoriad]] {{m}}
 * [[West Frisian]]: [[kaai]]
-* Yiddish: [[שליסל]] (shlisl) {{m}}
+* Yiddish: [[שליסל]] (shlisl) {{m}}, {{t|yi|שליסל|m|tr=shlisl|sc=Hebr}}
 {{trans-bottom}}
 
 {{trans-top|object used to maintain the orientation between two others}}
