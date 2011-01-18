@@ -6,27 +6,30 @@
 * {{audio|en-us-vodka.ogg|Audio (US)}}
 
 ===Etymology===
-: Slavic ''voda'', ''woda'', meaning [[water]], plus the diminutive suffix ''-ka''. Historical documentary research of V. Pokhlyobkin suggests the derivation via the usage "dilution (of [[distil]]late) with water", as used in expressions "vodka of grain wine" and similar; ''grain wine'' ([[хлебное вино]]) is an archaic Russian name for vodka.
+Slavic {{term||voda}}, {{term||woda}}, meaning [[water]], plus the diminutive suffix {{term||-ka}}. Historical documentary research of V. Pokhlyobkin suggests the derivation via the usage "dilution (of [[distil]]late) with water", as used in expressions "vodka of grain wine" and similar; {{term|хлебное вино|sc=Cyrl|lang=ru||grain wine}} is an archaic Russian name for vodka.
+
+The standard of identity is from the [[s:Code of Federal Regulations|Code of Federal Regulations]], title 27, section 5.22(a)(1).
 
 ===Noun===
 {{en-noun}}
 
 # A clear [[distil]]led [[alcoholic]] [[liquor]] made from [[grain]] [[mash]].
 # A serving of the above beverage.
+# {{US|_|standard of identity}} [[neutral spirits#English|Neutral spirits]] distilled (or treated after distillation) so as to have no distinctive character, aroma, taste{{,}} or color.
 
 ====Translations====
 {{trans-top|clear distilled alcoholic liquor}}
 * Albanian: {{t-|sq|vodkë|f|xs=Albanian}}
 * Arabic: {{t|ar|فودكا|f|tr=vodka, fūdka}}
-* Armenian: {{t+|hy|օղի|tr=òġi}},  {{qualifier|colloquial}} {{t-|hy|արաղ|tr=araġ}}
+* Armenian: {{t+|hy|օղի|tr=òġi}}, {{qualifier|colloquial}} {{t-|hy|արաղ|tr=araġ}}
 * [[Azeri]]: {{t-|az|araq|xs=Azeri}}
 * [[Basque]]: vodka
-* Belarusian: {{t|be|гарэлка|f|tr=harélka|xs=Belarusian}},  {{t-|be|водка|f|tr=vódka|xs=Belarusian}}
+* Belarusian: {{t|be|гарэлка|f|tr=harélka|xs=Belarusian}}, {{t-|be|водка|f|tr=vódka|xs=Belarusian}}
 * Bosnian: {{t-|bs|votka|f}}
 * Bulgarian: {{t-|bg|водка|f|tr=vódka}}
 * [[Catalan]]: vodka {{f}}
 * Chinese:
-*: Mandarin: {{t-|cmn|伏特加酒|tr=fútèjiā-jiǔ|sc=Hani}},  {{t-|cmn|伏特加|tr=fútèjiā|sc=Hani}}
+*: Mandarin: {{t-|cmn|伏特加酒|tr=fútèjiā-jiǔ|sc=Hani}}, {{t-|cmn|伏特加|tr=fútèjiā|sc=Hani}}
 * Czech: {{t-|cs|vodka|f}}
 * Danish: {{t-|da|vodka|c}}
 * Dutch: {{t-|nl|wodka|m}}
@@ -41,7 +44,7 @@
 * Hindi: {{t|hi|वोदका|tr=vōdkā|xs=Hindi}}
 * Irish: {{t-|ga|vodca|m|xs=Irish}}
 * Italian: {{t+|it|vodka|f}}
-* Japanese: {{t-|ja|ウォッカ|tr=uokka}},  {{t|ja|ヴォートカ|tr=vōtoka}}
+* Japanese: {{t-|ja|ウォッカ|tr=uokka}}, {{t|ja|ヴォートカ|tr=vōtoka}}
 * Korean: {{t+|ko|보드카|tr=bodeuka|sc=Hang}}
 {{trans-mid}}
 * [[Kölsch]]: {{tø|ksh|wodka}}
@@ -55,7 +58,7 @@
 * Portuguese: {{t-|pt|vodca|f}}
 * Romanian: {{t+|ro|vodcă|f}}
 * Russian: {{t+|ru|водка|f|tr=vódka}}
-* [[Samogitian]]: {{tø|sgs|arielka|f}},  {{tø|sgs|degtėnė|f}}
+* [[Samogitian]]: {{tø|sgs|arielka|f}}, {{tø|sgs|degtėnė|f}}
 * Serbian:
 *: Cyrillic: [[вотка#Serbian|вотка]] {{f}}
 *: Roman: [[votka#Serbian|votka]] {{f}}
@@ -67,7 +70,7 @@
 * [[Tamil]]: {{t|ta|ஓட்கா|xs=Tamil}}
 * Thai: {{t-|th|วอดก้า|tr=waawtgaa }}
 * Turkish: {{t+|tr|votka}}
-* Ukrainian: {{t-|uk|горілка|f|tr=horílka|xs=Ukrainian}},  {{t-|uk|водка|f|tr=vódka|xs=Ukrainian}}
+* Ukrainian: {{t-|uk|горілка|f|tr=horílka|xs=Ukrainian}}, {{t-|uk|водка|f|tr=vódka|xs=Ukrainian}}
 * Vietnamese: {{t+|vi|vodka|xs=Vietnamese}}
 * Yiddish: {{t-|yi|vodka|m|xs=Yiddish}}
 {{trans-bottom}}
@@ -142,11 +145,10 @@ From {{etyl|ru|fi}}
 {{wikipedia|lang=it}}
 
 ===Noun===
-'''vodka''' {{f}} {{inv}}
+{{infl|it|noun|g=f}} {{inv}}
 
 # [[vodka#English|vodka]]
 
-[[Category:Italian nouns]]
 [[Category:it:Alcoholic beverages]]
 
 ----
@@ -157,7 +159,7 @@ From {{etyl|ru|fi}}
 : '''[[voda#Slovak|voda]]''' (''[[water]]'') + '''[[-ka#Slovak|-ka]]''' (''diminutive suffix''), or ''little water''
 
 ===Noun===
-{{sk-noun|g=f}} '''vodky''' ''pl''
+{{infl|sk|noun|g=f|plural|vodky}}
 : '''vodk''' ''stem''
 : '''vodiek''' ''{{genpl}}''
 : {{decpat}} {{zena}}
