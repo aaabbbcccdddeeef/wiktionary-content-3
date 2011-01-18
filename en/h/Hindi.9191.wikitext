@@ -25,12 +25,10 @@ From {{etyl|fa}} {{fa-Arab|[[هندی]]}} (hendi) < {{fa-Arab|[[هند]]}} (hend
 * [[Azeri]]: {{t-|az|hind|xs=Azeri}}
 * [[Basque]]: {{t+|eu|hindi|xs=Basque}}
 * Belarusian: {{t-|be|хіндзі|m|tr=xíndzi|xs=Belarusian}} {{indeclinable}}
-* Bosnian: {{t-|bs|hindi|m}}
 * Bulgarian: {{t-|bg|хинди|tr=hindi}}
 * [[Catalan]]: {{t+|ca|hindi}}
 * Chinese:
 *: Mandarin: {{t-|cmn|印地語|sc=Hani}},  {{t-|cmn|印地语|tr=Yìndìyǔ|sc=Hani}},  {{t|cmn|印地文|tr=Yìndìwén|sc=Hani}}
-* Croatian: {{t-|hr|hindi}}
 * Czech: {{t+|cs|hindština|f}}
 * Danish: {{t-|da|hindi}}
 * Dutch: {{t+|nl|Hindi|n}}
@@ -45,7 +43,9 @@ From {{etyl|fa}} {{fa-Arab|[[هندی]]}} (hendi) < {{fa-Arab|[[هند]]}} (hend
 * Greek: {{t+|el|χίντι|tr=chíndi}}
 * [[Gujarati]]: {{t+|gu|હિન્દી|tr=hindī|sc=Gujr|xs=Gujarati}}
 * Hebrew: {{t-|he|הינדית|tr=hindit}}
-* Hindi: {{t+|hi|हिन्दी|f|tr=hindī|xs=Hindi}},  {{t+|hi|हिंदी|f|tr=hindī|xs=Hindi}} (''alternative spelling'')
+* Hindi:
+*: Devanagari (Hindi): {{t+|hi|हिन्दी|f|tr=hindī|xs=Hindi}},  {{t+|hi|हिंदी|f|tr=hindī|xs=Hindi}} (''alternative spelling'')
+*: Arabic (Urdu): {{t-|ur|ہندی|tr=hindī|xs=Urdu}}
 * Hungarian: {{t+|hu|hindi}}
 * Icelandic: {{t+|is|hindí}}
 * Indonesian: {{t+|id|hindi|xs=Indonesian}}
@@ -71,9 +71,9 @@ From {{etyl|fa}} {{fa-Arab|[[هندی]]}} (hendi) < {{fa-Arab|[[هند]]}} (hend
 * Portuguese: {{t+|pt|hindi}}
 * Romanian: {{t-|ro|hindusă}}
 * Russian: {{t+|ru|хинди|m|tr=xíndi}} {{indeclinable}}
-* Serbian:
-*: Cyrillic: {{t-|sr|хинди|m|sc=Cyrl}}
-*: Roman: {{t-|sr|hindi|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|хинди|m|sc=Cyrl}}
+*: Roman: {{t-|sh|hindi|m}}
 * [[Sindhi]]: {{t-|sd|ھندي|alt=ھِندِي|sc=sd-Arab|xs=Sindhi}}
 * [[Sinhalese]]: {{t|si|හින්දි|sc=Sinh|xs=Sinhalese}}
 * Slovak: {{t-|sk|hindský}}
@@ -88,7 +88,6 @@ From {{etyl|fa}} {{fa-Arab|[[هندی]]}} (hendi) < {{fa-Arab|[[هند]]}} (hend
 * Thai: {{t-|th|ภาษาฮินดู|tr=phāsā-hindū}}
 * Turkish: {{t+|tr|Hintçe}}, {{t+|tr|Hindu}}
 * Ukrainian: {{t-|uk|хiндi|m|tr=xíndi|xs=Ukrainian}} {{indeclinable}}
-* Urdu: {{t-|ur|ہندی|tr=hindī|xs=Urdu}}
 * Vietnamese: {{t+|vi|tiếng Hin-đi|xs=Vietnamese}}
 * [[Walloon]]: {{t-|wa|hindi|xs=Walloon}}
 * Welsh: {{t-|cy|hindi|xs=Welsh}}
@@ -103,16 +102,15 @@ From {{etyl|fa}} {{fa-Arab|[[هندی]]}} (hendi) < {{fa-Arab|[[هند]]}} (hend
 
 ====Translations====
 {{trans-top|relating to the Hindi language}}
-* Bosnian: {{t-|bs|hindski|m}}
-* Serbian:
-*: Cyrillic: {{t-|sr|хиндски|m|sc=Cyrl}}
-*: Roman: {{t-|sr|hindski|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|хиндски|m|sc=Cyrl}}
+*: Roman: {{t-|sh|hindski|m}}
 {{trans-mid}}
 {{trans-bottom}}
 
 ===See also===
 * [[Hindu]]
-* [[Hindustani]]
+* [[Hindustani]], [[Hindi-Urdu]]
 * [[Urdu]]
 * {{langcat}}
 
