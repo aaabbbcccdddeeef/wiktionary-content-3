@@ -72,7 +72,7 @@ From {{etyl|grc}} {{term|ξένον|lang=grc}}, neuter of {{term|ξένος|tr=x
 * [[Kashubian]]: [[ksenón]]
 {{trans-mid}}
 * Kazakh: {{t-|kk|ксенон|tr=ksenon|sc=Cyrl|xs=Kazakh}}
-* Korean: {{t|ko|크세논|tr=keusenon}},  {{t|ko|제논|tr=jenon}}
+* Korean: {{t|ko|크세논|tr=keusenon}}, {{t|ko|제논|tr=jenon}}
 * Latin: {{t+|la|xenon}}
 * Latvian: {{t|lv|ksenons}}
 * Lithuanian: {{t+|lt|ksenonas|xs=Lithuanian}}
@@ -85,7 +85,7 @@ From {{etyl|grc}} {{term|ξένον|lang=grc}}, neuter of {{term|ξένος|tr=x
 * Norwegian: {{t-|no|xenon}}
 * Persian: {{t|fa|زنون|sc=fa-Arab}}
 * Polish: {{t+|pl|ksenon|m}}
-* Portuguese: [[xenônio]] {{m}} ''(Brazil)'', [[xenónio]] {{m}} ''(Portugal)''
+* Portuguese: [[xenônio]] {{m}} {{qualifier|Brazil}}, [[xenónio]] {{m}} {{qualifier|Portugal}}
 * Romanian: {{t+|ro|xenon|n}}
 * Russian: {{t+|ru|ксенон|m|tr=ksenón}}
 * [[Scottish Gaelic]]: [[xeanon]]
@@ -118,13 +118,11 @@ http://elements.vanderkrogt.net/element.php?sym=Xe
 ==Czech==
 
 ===Noun===
-'''xenon''' {{m}}
+{{cs-noun|g=m}}
 
 # [[#English|xenon]]
 
-[[Category:Czech nouns]]
 [[Category:cs:Chemical elements]]
-
 ----
 
 ==Dutch==
@@ -136,8 +134,9 @@ http://elements.vanderkrogt.net/element.php?sym=Xe
 ===Noun===
 {{infl|nl|noun|g=n}}
 
-# {{element|lang=nl}} [[#English|xenon]]
+# [[#English|xenon]]
 
+[[Category:nl:Chemical elements]]
 ----
 
 ==Galician==
@@ -162,7 +161,7 @@ http://elements.vanderkrogt.net/element.php?sym=Xe
 ===Noun===
 {{hu-noun|ok}}
 
-# {{element|lang=hu}} [[xenon#English|xenon]] (symbol: [[Xe]])
+# [[xenon#English|xenon]] (symbol: [[Xe]])
 
 ====Declension====
 {{hu-decl-ok|xeno|n}}{{hu-pos-otok|xenon|j|jai}}
@@ -170,6 +169,7 @@ http://elements.vanderkrogt.net/element.php?sym=Xe
 ====Derived terms====
 * [[xenon villanólámpa]]
 
+[[Category:hu:Chemical elements]]
 ----
 
 ==Swedish==
@@ -178,10 +178,12 @@ http://elements.vanderkrogt.net/element.php?sym=Xe
 ===Noun===
 {{sv-noun|g=n}}
 
-# {{element|lang=sv}} [[#English|xenon]]
+# [[#English|xenon]]
 
 ====Declension====
 {{sv-noun-unc-irreg-n|2=xenonet}}
+
+[[Category:sv:Chemical elements]]
 
 [[cs:xenon]]
 [[de:xenon]]
