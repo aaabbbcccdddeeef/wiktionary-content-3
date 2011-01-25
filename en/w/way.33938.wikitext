@@ -64,12 +64,12 @@ From {{etyl|ang|en}} {{term|weg|weġ||lang=ang}}.  Cognate with Dutch {{term|weg
 ====Translations====
 {{trans-top|wide path}}
 * Albanian: {{t+|sq|rrugë|xs=Albanian}}
-* Arabic: {{Arab|[[طريق]]}} (ʈarīeq), {{t|ar|طريق|m|tr=Tariiq|sc=Arab}}
+* Arabic: {{t|ar|طريق|m|tr=Tariiq|sc=Arab}}
 * Armenian: [[ուղի]] (uġi),  {{t-|hy|ճանապարհ|tr=čanaparh}}
 * [[Basque]]: [[bide]]
 * [[Breton]]: {{t+|br|hent|m|xs=Breton}}
 * [[Catalan]]: [[via]] {{f}}, [[camí]] {{m}}
-* Chinese: [[道]] (dào)
+* Chinese:
 *: Mandarin: {{t|zh|道|tr=dào|sc=Hani}}
 * Croatian: {{t+|hr|put|m}}
 * Czech: {{t+|cs|cesta|f}}
@@ -84,7 +84,7 @@ From {{etyl|ang|en}} {{term|weg|weġ||lang=ang}}.  Cognate with Dutch {{term|weg
 * Greek: {{t+|el|δρόμος}}
 * [[Guaraní]]: [[tape]]
 * Hawaiian: [[ala#Hawaiian|ala]]
-* Hindi: [[बाट]] (bāṭa), {{t|hi|रास्ता|m|tr=rāstā|sc=Deva}}
+* Hindi: {{t|hi|रास्ता|m|tr=rāstā|sc=Deva}} <!-- removed [[बाट]] (bāṭa) ? -->
 * Hungarian: {{t+|hu|út}}
 * Icelandic: {{t+|is|vegur|m}}
 * [[Ido]]: {{t+|io|voyo|xs=Ido}}
@@ -92,8 +92,8 @@ From {{etyl|ang|en}} {{term|weg|weġ||lang=ang}}.  Cognate with Dutch {{term|weg
 * [[Interlingua]]: [[cammino]], [[via]]
 {{trans-mid}}
 * Italian: {{t+|it|via|f}}
-* Japanese: [[道]] (michi)
-* Korean: [[길]] (gil)
+* Japanese: {{t|ja|道|tr=みち, michi|sc=Jpan}}
+* Korean: {{t|ko|길|tr=gil|sc=Kore}}
 * Kurdish: {{ku-Arab|[[ڕێگه‌]]}}
 * Latin: {{t+|la|via|f}}
 * Latvian: {{t|lv|ceļš|m}}
@@ -106,7 +106,7 @@ From {{etyl|ang|en}} {{term|weg|weġ||lang=ang}}.  Cognate with Dutch {{term|weg
 * [[Pashto]]: {{t-|ps|لار|f|tr=lār|sc=ps-Arab|xs=Pashto}}
 * Polish: {{t+|pl|droga|f}}
 * Portuguese: {{t+|pt|caminho|m}}, {{t+|pt|via|f}}
-* Russian: [[путь]] (put’) {{m}}, {{t|ru|путь|m|tr=put’|sc=Cyrl}}, {{t|ru|дорога|f|tr=doróga|sc=Cyrl}}
+* Russian: {{t|ru|путь|m|tr=put’|sc=Cyrl}}, {{t|ru|дорога|f|tr=doróga|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|slighe|f|xs=Scottish Gaelic}}
 * Slovene: {{t+|sl|pot}}
 * Spanish: {{t+|es|camino|m}}, {{t+|es|vía|f}}
@@ -121,10 +121,10 @@ From {{etyl|ang|en}} {{term|weg|weġ||lang=ang}}.  Cognate with Dutch {{term|weg
 {{trans-bottom}}
 
 {{trans-top|method}}
-* Arabic: {{Arab|[[طريقة]]}} (ʈarīeqa) {{f}}, {{t|ar|طريقة|f|tr=Tariiqa|sc=Arab}}
+* Arabic: {{t|ar|طريقة|f|tr=Tariiqa|sc=Arab}}
 * Armenian: {{t-|hy|եղանակ|tr=yeġanak}}, {{t-|hy|կերպ|tr=kerp}},  {{t-|hy|ճանապարհ|tr=č̣anaparh}}
 * [[Catalan]]: [[manera]] {{f}}
-* Chinese: [[方法]] (fāngfǎ)
+* Chinese:
 *: Mandarin: {{t|zh|方法|tr=fāngfǎ|sc=Hani}}
 * Czech: {{t+|cs|způsob|m}}
 * Danish: {{t|da|måde|c}},  {{t-|da|facon|c}}
@@ -138,9 +138,9 @@ From {{etyl|ang|en}} {{term|weg|weġ||lang=ang}}.  Cognate with Dutch {{term|weg
 * Hungarian: {{t+|hu|mód}}
 * [[Interlingua]]: [[maniera]], [[modo]]
 * Italian: {{t+|it|maniera|f}}
-* Japanese: [[方法]] (ほうほう, hōhō), {{t|ja|方法|tr=ほうほう, hōhō|sc=Jpan}}
+* Japanese: {{t|ja|方法|tr=ほうほう, hōhō|sc=Jpan}}
 {{trans-mid}}
-* Korean: [[방법]] (bangbeop), {{t|ko|방법|tr=bangbeop|sc=Kore}}, {{t|ko|方法|sc=Kore}}
+* Korean: {{t|ko|방법|tr=bangbeop|sc=Kore}} ({{t|ko|方法|sc=Kore}})
 * Kurdish: {{t+|ku|جۆر|sc=ku-Arab}}
 * Norwegian: {{t+|no|måte}}
 * [[Pashto]]: {{t-|ps|لار|f|tr=lār|sc=ps-Arab|xs=Pashto}}
