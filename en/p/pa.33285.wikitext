@@ -19,8 +19,8 @@ Shortened from {{term|papa}}.
 : ''Hey, Pa, I'd like you to meet my friend Jamie.''
 
 ====Synonyms====
-* (father): [[da]] (''Irish'') <!-- is this a translation?  or a word in the Irish version of English (in which case it should perhaps read as such)? -->, [[dad]], [[daddy]], [[papa]], [[pater]]
-* (grandfather): [[grandpa]], [[grandpappy]]
+* {{sense|father}} [[da]] {{qualifier|Irish}} <!-- is this a translation? or a word in the Irish version of English (in which case it should perhaps read as such)? -->, [[dad]], [[daddy]], [[papa]], [[pater]]
+* {{sense|grandfather}} [[grandpa]], [[grandpappy]]
 
 ====Translations====
 {{trans-top|father}}
@@ -124,11 +124,9 @@ Compare Spanish {{term|pa|lang=es}}, a contracted form of {{term|para|lang=es}}.
 * {{IPA|/pa/|lang=ca}}, {{SAMPA|/pa/}}
 
 ===Noun===
-'''pa''' {{m}}
+{{ca-noun|m|pans}}
 
 # [[bread]]
-
-[[Category:Catalan nouns]]{{attention|ca}}
 
 ----
 
@@ -138,26 +136,22 @@ Compare Spanish {{term|pa|lang=es}}, a contracted form of {{term|para|lang=es}}.
 * {{IPA|/pa/|lang=nci}}
 
 ===Verb===
-'''pā'''  ''Transitive''
+{{infl|nci|verb|head=pā}}
 
-# To [[dye]].
+# {{transitive}} To [[dye]]
 
 ===References===
 * {{reference-book |author=Andrews, J. Richard |year=2003 |title=Workbook for Introduction to Classical Nahuatl |edition=revised edition |location=Norman |publisher=University of Oklahoma Press |pages=p. 244}}
 * {{reference-book |author=Karttunen, Frances |year=1983 |title=An Analytical Dictionary of Nahuatl |location=Austin |publisher=University of Texas Press |pages=p. 182}}
-
-[[Category:Classical Nahuatl verbs]]
 
 ----
 
 ==Dutch==
 
 ===Noun===
-'''pa'''
+{{infl|nl|noun}}
 
-# pa
-
-[[Category:Dutch nouns]]
+# {{l|en|pa}}
 
 ----
 
@@ -250,7 +244,7 @@ English transcriptions of Chinese speech often fail to distinguish between the c
 # [[transliteration]] for ''ba'' or ''bar''
 
 ===Usage notes===
-* 吧 is not used as a modal particle in Min Nan.  The particle [[ho͘ⁿ|ho{{unicode|͘}}ⁿ]] provides a similar effect.
+* 吧 is not used as a modal particle in Min Nan. The particle [[ho͘ⁿ|ho{{unicode|͘}}ⁿ]] provides a similar effect.
 
 ===Derived terms===
 * [[酒吧]] ([[chiú-pa]])
@@ -348,7 +342,7 @@ Common South Slavic; compare Slovene {{term|pa|lang=sl}}, Bulgarian {{term|па|
 ===Particle===
 {{sh-particle|r|па}}
 
-# (''for emphasis'') [[but]], [[well]]
+# {{context|for emphasis}} [[but]], [[well]]
 #: ''pa dobro!'' — well, all right!
 #: ''pa što je s tobom?'' — what's wrong with you?
 #: ''pa i ne baš'' — not really
