@@ -875,7 +875,7 @@ From {{etyl|frm}} {{term|ligner}}.
 ==Old English==
 
 ===Etymology===
-{{proto|Germanic|līnon||līnion|line, rope, flaxen cord, thread|lang=ang}} from {{proto|Germanic|līnan|flax, linen|lang=ang}} from {{proto|Indo-European|līn-|flax|lang=ang}}. Akin to {{etyl|goh|-}} ''[[lina#Old High German|līna]]'' "line" ({{etyl|de|-}} ''[[Leine#German|Leine]]'' "rope"), {{etyl|dum|-}} ''[[line#Dutch|līne]]'' "rope, cord" ({{etyl|nl|-}} ''[[lijn#Dutch|lijn]]'' "rope"), {{etyl|non|-}} ''[[lína#Old Norse|līna]]'' "cord, rope" ({{etyl|da|-}} ''{{l|da|line}}'' "rope, cord"), [[Old English]] ''[[lin#Old English|līn]]'' "flax, linen, cloth"
+{{proto|Germanic|līnon||līnion|line, rope, flaxen cord, thread|lang=ang}} from {{proto|Germanic|līnan|flax, linen|lang=ang}} from {{proto|Indo-European|līn-|flax|lang=ang}}. Akin to {{etyl|goh|-}} {{term|lina|līna|line|lang=goh}} ({{etyl|de|-}} {{term|Leine||rope|lang=de}}), {{etyl|dum|-}} {{term|line|līne|rope, cord|lang=dum}} ({{etyl|nl|-}} {{term|lijn||rope|lang=nl}}), {{etyl|non|-}} {{term|lina|līna|cord, rope|lang=non}} ({{etyl|da|-}} {{term|line||rope, cord|lang=da}}), {{etyl|ang|-}} {{term|lin|līn|flax, linen, cloth}}.
 
 ===Noun===
 {{ang-noun|head=līne|g=f}}
@@ -888,11 +888,11 @@ From {{etyl|frm}} {{term|ligner}}.
 {{ang-decl-noun|līne|līnan|līnan|līnan|līnan|līnena|līnan|līnum}}
 
 ====Related terms====
-* [[lin#Old English|līn]]
+* {{l|ang|lin|līn}}
 * [[linen#Old English|līnen, linnen]]{{attention|ang|'linnen' too?}}
 
 ====Descendants====
-* English: [[line#English|line]]
+* English: {{l|en|line}}
 
 [[ar:line]]
 [[cs:line]]
