@@ -107,11 +107,13 @@
 
 # Flowing freely like water; [[fluid]]; not [[solid]] and not [[gaseous]]; composed of particles that move freely among each other on the slightest pressure.
 #: '''''liquid''' nitrogen''
-# {{finance}} Of an [[asset]], easily sold or disposed of without losing value.
-# {{finance}} Of a [[market]], having sufficient trading activity to make buying or selling easy.
+# {{finance|of an [[asset]]} Easily sold or disposed of without losing value.
+# {{finance|of a [[market]]}} Having sufficient trading activity to make buying or selling easy.
 
 ====Antonyms====
-* [[illiquid]]
+* {{sense|flowing freely}} [[solid]]; [[gaseous]]
+* {{sense|easily sold}} [[illiquid]]
+* {{sense|having sufficient activity}} [[illiquid]]
 
 ====Related terms====
 * [[liquefiable]]
@@ -155,7 +157,7 @@
 * Welsh: {{t|cy|hylif}}, {{t|cy|hylifol}}
 {{trans-bottom}}
 
-{{trans-top|of an asset, easily sold or disposed of}}
+{{trans-top|(of an asset) easily sold or disposed of}}
 * Armenian: [[լիկվիդային]] (likvidayin)
 * Croatian: {{t-|hr|likvidan|alt=lȉkvīdan}}
 * Czech: {{t-|cs|likvidní}}
@@ -177,7 +179,7 @@
 * Swahili: {{t+|sw|majimaji|xs=Swahili}}
 {{trans-bottom}}
 
-{{trans-top|of a market, having sufficient trading activity to make buying or selling easy}}
+{{trans-top|(of a market) having sufficient trading activity to make buying or selling easy}}
 * Croatian: {{t-|hr|likvidan|alt=lȉkvīdan}}
 * Estonian: {{t|et|likviidne}}
 * Finnish: {{t-|fi|likvidi}}
