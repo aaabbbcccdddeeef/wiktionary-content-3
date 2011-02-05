@@ -936,16 +936,18 @@ From {{etyl|gmq-osw|sv}} ''bar'' ({{etyl|non|sv}} {{term|berr|lang=non}}).
 Cognate with English {{term|bare|lang=en}}. See Old English {{term|bær|lang=ang}}.<ref name=Hellquist>{{R:runeberg.org|svetym|0118.html bar}}</ref>
 
 ====Adjective====
-{{sv-adj-reg}}
-'''bar'''
+{{infl|sv|adjective}}
 
 # [[bare]], [[uncovered]]; not covered by e.g. clothes (about people), fur (about certain animals) or a snow cover (about the ground)
+
+=====Declension=====
+{{sv-adj-reg}}
 
 ===Etymology 2===
 See {{term|bära|lang=sv}}.
 
 ====Verb====
-'''bar'''
+{{infl|sv|verb form}}
 
 # {{sv-verb-form-past|bära}}
 
@@ -953,11 +955,13 @@ See {{term|bära|lang=sv}}.
 Borrowed from {{etyl|en|sv}} {{term|bar|lang=en}}.<ref name=Hellquist/>
 
 ====Noun====
-{{sv-noun-reg-r-c|bar|bare}}
-'''bar''' {{c}}
+{{sv-noun|g=c}}
 
 # A bar, pub; place where mainly alcoholic drinks are served.
 # A (bar) [[counter]]
+
+=====Declension=====
+{{sv-noun-reg-er}}
 
 ===Etymology 4===
 Originally from {{etyl|grc|sv}} {{term|sc=Grek|βάρος|tr=''baros''||weight}}.
