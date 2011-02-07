@@ -97,9 +97,7 @@ http://elements.vanderkrogt.net/element.php?sym=Er
 * {{alphagram|beimru}}
 * [[imbrue#English|imbrue]]
 
-
 [[Category:Chemical elements]]
-
 ----
 
 ==Dutch==
@@ -111,7 +109,7 @@ http://elements.vanderkrogt.net/element.php?sym=Er
 ===Noun===
 {{infl|nl|noun|g=n}}
 
-# {{element|lang=nl}} [[erbium#English|erbium]]
+# [[erbium#English|erbium]]
 
 ----
 
@@ -132,23 +130,25 @@ http://elements.vanderkrogt.net/element.php?sym=Er
 ===Noun===
 {{infl|fi|noun}}
 
-# {{element|lang=fi}} [[#English|erbium]]
+# [[#English|erbium]]
 
 ====Declension====
 {{fi-decl-risti|erbium}}
 
+[[Category:fi:Chemical elements]]
 ----
 ==French==
 {{wikipedia|lang=fr}}
 
 ===Pronunciation===
-* {{IPA|lang=fr|/ɛʁ.bjɔm/ }}
+* {{IPA|/ɛʁ.bjɔm/|lang=fr}}
 
 ===Noun===
 {{fr-noun-unc|m}}
 
-# {{element|lang=fr}} [[#English|erbium]]
+# [[#English|erbium]]
 
+[[Category:fr:Chemical elements]]
 ----
 
 ==Limburgish==
@@ -157,7 +157,7 @@ http://elements.vanderkrogt.net/element.php?sym=Er
 * {{IPA|[ˈæ˨ʁbjɔ˧m]|lang=li}}
 
 ===Noun===
-'''erbium''' ''n''
+{{infl|li|noun|g=n}}
 
 # {{uncountable|lang=li}} [[erbium#English|erbium]]
 # A [[part]] of erbium
@@ -166,7 +166,6 @@ http://elements.vanderkrogt.net/element.php?sym=Er
 {{li-noun-um|erbi}}
 
 [[Category:li:Chemical elements]]
-
 ----
 
 ==Swedish==
@@ -175,10 +174,14 @@ http://elements.vanderkrogt.net/element.php?sym=Er
 * {{IPA|/ˈɛrbɪɵm/|lang=sv}}
 
 ===Noun===
-{{sv-noun-unc-irreg-n|2=erbiet}}
-'''erbium'''
+{{sv-noun|g=c}}
 
-# {{element|lang=sv}} [[#English|erbium]]
+# [[#English|erbium]]
+
+====Declension====
+{{sv-noun-unc-irreg-n|2=erbiet}}
+
+[[Category:sv:Chemical elements]]
 
 [[ar:erbium]]
 [[cs:erbium]]
