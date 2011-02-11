@@ -53,7 +53,7 @@ From {{etyl|grc|en}} {{term|ἀργόν||tr=argon|lang=grc}}, neuter of {{term|�
 * Georgian: {{t|ka|არგონი|tr=argoni|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Argon|n}}
 * Greek: {{t+|el|αργό|n|tr=argó}}
-* Hebrew: [[ארגון]] (argón),  {{t+|he|ארגון|tr=argón}}
+* Hebrew: [[ארגון]] (argón), {{t+|he|ארגון|tr=argón}}
 * Hungarian: {{t+|hu|argon}}
 * Icelandic: {{t+|is|argon}}
 * [[Interlingua]]: {{t-|ia|argon|xs=Interlingua}}
@@ -66,8 +66,8 @@ From {{etyl|grc|en}} {{term|ἀργόν||tr=argon|lang=grc}}, neuter of {{term|�
 * Korean: {{t+|ko|아르곤|tr=areugon|sc=Hang}}
 * Latvian: {{t|lv|argons|xs=Latvian}}
 * Lithuanian: {{t+|lt|argonas|xs=Lithuanian}}
-* [[Luxembourgish]]: [[Argon]],  {{t-|lb|Argon|xs=Luxembourgish}}
-* [[Macedonian]]: [[аргон]] (argon) {{m}},  {{t-|mk|аргон|tr=argon}}
+* [[Luxembourgish]]: [[Argon]], {{t-|lb|Argon|xs=Luxembourgish}}
+* [[Macedonian]]: [[аргон]] (argon) {{m}}, {{t-|mk|аргон|tr=argon}}
 * Malay: {{t-|ms|argon|xs=Malay}}
 * Maltese: {{t-|mt|argon|m|xs=Maltese}}
 * Mandarin: {{t-|cmn|氩|sc=Hani}}
@@ -87,7 +87,7 @@ From {{etyl|grc|en}} {{term|ἀργόν||tr=argon|lang=grc}}, neuter of {{term|�
 * Swedish: {{t+|sv|argon|n}}
 * [[Tajik]]: argon
 * [[Tamil]]: [[ஆர்கன்]] (ārkan)
-* Thai: {{Thai|[[อาร์กอน]]}} (ārkon),  {{t|th|อาร์กอน|tr=ārkon}}
+* Thai: {{Thai|[[อาร์กอน]]}} (ārkon), {{t|th|อาร์กอน|tr=ārkon}}
 * Turkish: {{t+|tr|argon}}
 * Ukrainian: {{t+|uk|аргон|m|tr=argón|xs=Ukrainian}}
 * Uzbek: {{t-|uz|аргон|tr=argon|sc=Cyrl|xs=Uzbek}}
@@ -144,7 +144,7 @@ http://elements.vanderkrogt.net/elem/ar.html
 ===Noun===
 {{infl|nl|noun|g=n}}
 
-# {{element|lang=nl}} [[#English|argon]]
+#  [[#English|argon]]
 
 ----
 
@@ -154,7 +154,7 @@ http://elements.vanderkrogt.net/elem/ar.html
 ===Noun===
 {{infl|fi|noun}}
 
-# {{element|lang=fi}} [[#English|argon]]
+#  [[#English|argon]]
 
 ====Declension====
 {{fi-decl-tuoli|argon}}
@@ -171,7 +171,7 @@ http://elements.vanderkrogt.net/elem/ar.html
 ===Noun===
 {{fr-noun-unc|m}}
 
-# {{element|lang=fr}} [[argon#English|argon]]
+#  [[argon#English|argon]]
 
 ===Anagrams===
 * {{alphagram|agnor}}
@@ -201,7 +201,7 @@ http://elements.vanderkrogt.net/elem/ar.html
 ===Noun===
 {{hu-noun|ok}}
 
-# {{element|lang=hu}} [[#English|argon]] (symbol: [[Ar]])
+#  [[#English|argon]] (symbol: [[Ar]])
 
 ====Declension====
 {{hu-decl-ok|argo|n}}{{hu-pos-otok|argon|j|jai}}
@@ -214,7 +214,7 @@ http://elements.vanderkrogt.net/elem/ar.html
 ===Noun===
 {{infl|it|noun}}
 
-# {{element|lang=it}} [[argon#English|argon]]
+#  [[argon#English|argon]]
 
 ====Synonyms====
 * [[argo]]
@@ -252,7 +252,7 @@ http://elements.vanderkrogt.net/elem/ar.html
 * {{IPA|[ˈa˨ʁʝo˦n]|lang=li}}
 
 ===Noun===
-'''argon''' ''n''
+'''argon''' {{n}}
 
 # {{uncountable|lang=li}} [[argon#English|argon]]
 # A [[part]] of argon
@@ -283,7 +283,7 @@ From {{etyl|en|gv}} {{term|argon|lang=en}}.
 ===Noun===
 {{infl|pl|noun|g=m}}
 
-# {{element|lang=pl}} [[#English|argon]]
+#  [[#English|argon]]
 
 ====Declension====
 {{pl-decl-noun-sing|argon|argonu|argonowi|argon|argonem|argonie|argonie}}
@@ -298,10 +298,13 @@ From {{etyl|en|gv}} {{term|argon|lang=en}}.
 
 ===Noun===
 {{sv-noun|g=n}}
+
+# [[#English|argon]]
+
+====Declension====
 {{sv-noun-unc-irreg-n|2=argonet}}
 
-# {{context|element|lang=sv}} [[#English|argon]]
-
+[[Category:sv:Chemical elements]]
 ----
 
 ==Turkish==
