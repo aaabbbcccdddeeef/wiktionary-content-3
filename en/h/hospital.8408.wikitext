@@ -40,7 +40,7 @@ From {{etyl|fro}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|lang
 * Burmese: {{t-|my|ဆေးရုံ|tr=hse:yon|sc=Mymr|xs=Burmese}}
 * [[Catalan]]: {{t|ca|hospital|m}}
 * Chinese:
-*: Mandarin: {{t-|cmn|醫院|sc=Hani}},  {{t-|cmn|医院|tr=yīyuàn|sc=Hani}}
+*: Mandarin: {{t-|cmn|醫院|sc=Hani}}, {{t-|cmn|医院|tr=yīyuàn|sc=Hani}}
 * Croatian: {{t+|hr|bolnica|f}}
 * Czech: {{t+|cs|nemocnice|f}}
 * Danish: {{t|da|hospital|n}}, {{t|da|sygehus|n}}
@@ -49,14 +49,14 @@ From {{etyl|fro}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|lang
 * Estonian: {{t|et|haigla}}
 * [[Ewe]]: [[atikewɔƒe]] {{n}}, [[kɔdzi]] {{n}}
 * Faroese: {{t-|fo|sjúkrahús|n|xs=Faroese}}
-* Filipino: {{tø|fil|ospital}},  {{tø|fil|pagamutan}}
+* Filipino: {{tø|fil|ospital}}, {{tø|fil|pagamutan}}
 * Finnish: {{t+|fi|sairaala}}
 * French: {{t+|fr|hôpital|m}}
 * Georgian: {{t-|ka|საავადმყოფო|tr=saavadmqop’o|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Krankenhaus|n}}
 * Greek: {{t+|el|νοσοκομείο|n|tr=nosokomío}}
 * Hebrew: {{t+|he|בית חולים|m|alt=בֵּית־חוֹלִים|tr=beit-kholím}}
-* [[Hiligaynon]]: {{tø|hil|ospital}},  {{tø|hil|klinika}},  {{tø|hil|bululngan}}
+* [[Hiligaynon]]: {{tø|hil|ospital}}, {{tø|hil|klinika}}, {{tø|hil|bululngan}}
 * Hindi: {{t-|hi|रुग्णालय|m|tr=rugṇālay|xs=Hindi}}, {{t-|hi|अस्पताल|m|tr=aspatāl|xs=Hindi}}
 * Hungarian: {{t+|hu|kórház}}
 * Icelandic: {{t+|is|sjúkrahús|n}}
@@ -85,9 +85,9 @@ From {{etyl|fro}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|lang
 * Polish: {{t+|pl|szpital|m}}
 * Portuguese: {{t+|pt|hospital|m}}
 * Romanian: {{t+|ro|spital|n}}
-* Russian: {{t+|ru|больница|f|tr=bol’níca}},  {{t+|ru|госпиталь|m|tr=góspital’}} (''usually a military hospital'')
+* Russian: {{t+|ru|больница|f|tr=bol’níca}}, {{t+|ru|госпиталь|m|tr=góspital’}} {{qualifier|usually a military hospital}}
 * Sanskrit: {{t|sa|चिकित्सालय|m|tr=cikitsālaya|xs=Sanskrit}}
-* [[Scottish Gaelic]]: [[taigh-leighis]] {{m}}, [[taigh-eiridinn]] {{m}}, [[taigh-tinnis]] {{m}},  {{t-|gd|ospadal|m|xs=Scottish Gaelic}}
+* [[Scottish Gaelic]]: [[taigh-leighis]] {{m}}, [[taigh-eiridinn]] {{m}}, [[taigh-tinnis]] {{m}}, {{t-|gd|ospadal|m|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: [[болница#Serbian|болница]] {{f}}
 *: Roman: [[bolnica#Serbian|bolnica]] {{f}}
@@ -104,7 +104,7 @@ From {{etyl|fro}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|lang
 * Thai: {{t+|th|โรงพยาบาล|tr=rohng phayaabaan}}
 * Turkish: {{t+|tr|hastane}}
 * [[Turkmen]]: [[кеселхана]], [[госпитал]]
-* Ukrainian: {{t|uk|лікарня|f|tr=likárnja|xs=Ukrainian}},  {{t|uk|шпiталь|m|tr=špitál’|xs=Ukrainian}}
+* Ukrainian: {{t|uk|лікарня|f|tr=likárnja|xs=Ukrainian}}, {{t|uk|шпiталь|m|tr=špitál’|xs=Ukrainian}}
 * Urdu: {{t-|ur|اسپتال|m|tr=aspatāl|xs=Urdu}}
 * Vietnamese: {{t+|vi|bệnh viện|xs=Vietnamese}}, {{t+|vi|nhà thương|xs=Vietnamese}}
 * Welsh: {{t+|cy|ysbyty|m|xs=Welsh}}
@@ -146,6 +146,15 @@ From {{etyl|fro}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|lang
 
 ----
 
+==Middle French==
+
+===Noun===
+{{frm-noun|m|pl=hospitaulx}}
+
+# {{l|en|hospital}} {{gloss|medical}}
+
+----
+
 ==Spanish==
 
 ===Noun===
@@ -162,9 +171,11 @@ From {{etyl|fro}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|lang
 
 ===Noun===
 {{sv-noun|g=n}}
-{{sv-noun-n-zero}}
 
 # {{archaic|19th century|lang=sv}} [[mental hospital]]
+
+====Declension====
+{{sv-noun-n-zero}}
 
 [[ar:hospital]]
 [[zh-min-nan:hospital]]
