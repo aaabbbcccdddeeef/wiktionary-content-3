@@ -8,7 +8,7 @@
 * {{rhymes|æt}}
 
 ===Etymology 1===
-From {{etyl|non|en}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[:w:Online Etymology Dictionary|Online Etymology Dictionary]]</ref> {{term|flatr}} (Danish {{term|flad}}), akin to German {{term|Flöz|tr=geological layer}}, Sanskrit {{term|प्रत्हस्||extension|sc=Deva}}<ref>[http://ordnet.dk/ods/opslag?opslag=flad&submit=S%F8g Sanskrit, OHG and Greek cognates named]</ref>.
+From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[:w:Online Etymology Dictionary|Online Etymology Dictionary]]</ref> {{term|flatr}} (Danish {{term|flad}}), akin to German {{term|Flöz|tr=geological layer}}, Sanskrit {{term|प्रत्हस्||extension|sc=Deva}}<ref>[http://ordnet.dk/ods/opslag?opslag=flad&submit=S%F8g Sanskrit, OHG and Greek cognates named]</ref>.
 
 ====Adjective====
 {{en-adj|flatter|flattest}}
@@ -39,7 +39,7 @@ From {{etyl|non|en}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in
 * {{sense|of wine: lacking acidity}} [[flabby]]
 
 =====Antonyms=====
-* {{sense|having no variations in altitude}} [[bumpy]], [[cratered]], [[hilly]] (''of terrain''), [[rough]] (''of a surface''), [[wrinkled]] (''of a surface'')
+* {{sense|having no variations in altitude}} [[bumpy]], [[cratered]], [[hilly]] {{qualifier|of terrain}}, [[rough]] {{qualifier|of a surface}}, [[wrinkled]] {{qualifier|of a surface}}
 * {{sense|music: lowered by one semitone}} [[sharp]]
 * {{sense|music: lower in pitch than it should be}} [[sharp]]
 
@@ -160,7 +160,7 @@ From {{etyl|non|en}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in
 
 {{trans-top|uninteresting}}
 * Finnish: {{t+|fi|tylsä}}, {{t-|fi|lattea}}
-* French: {{t+|fr|ennuyeux}}, ''(Quebec)'' {{t+|fr|plate}}
+* French: {{t+|fr|ennuyeux}}, {{qualifier|Quebec}} {{t+|fr|plate}}
 * German: {{t+|de|flau}}
 * Indonesian: {{t-|id|datar|xs=Indonesian}}
 * Italian: {{t+|it|piatto}}
@@ -193,7 +193,7 @@ From {{etyl|non|en}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in
 #: ''Spread the tablecloth '''flat''' over the table.''
 # Bluntly.
 #: ''I asked him if he wanted to marry me and he turned me down '''flat'''.''
-# {{italbrac|with units of time, distance, etc}} Not exceeding.
+# {{qualifier|with units of time, distance, etc}} Not exceeding.
 #: ''He can run a mile in four minutes '''flat'''.''
 # Completely.
 #: ''I am '''flat''' broke this month.''
@@ -311,7 +311,7 @@ From {{etyl|non|en}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in
 # {{poker slang}} To make a [[flat call]]; to [[call]] without [[raise#Verb|raising]].
 
 ===Etymology 2===
-1795, alteration of {{etyl|sco}} {{term|flet|lang=en||inner part of a house}}, from {{etyl|enm|en}} {{term|flet|lang=enm||dwelling}} from {{etyl|ang|en}} {{term|flet|lang=ang}}, {{term|flett||lang=ang|ground floor, dwelling}}, from {{proto|Germanic|flajan|floor|lang=en}} from {{proto|Germanic|flataz|flat|lang=en}} from {{proto|Indo-European|plat-|flat|lang=en}}. Akin to {{etyl|ofs|-}} {{term|flet|flet, flette|lang=ofs}} "dwelling, house". More at {{l|en|flat|flat<sub>1}}.
+1795, alteration of {{etyl|sco}} {{term|flet|lang=en||inner part of a house}}, from {{etyl|enm}} {{term|flet|lang=enm||dwelling}} from {{etyl|ang}} {{term|flet|lang=ang}}, {{term|flett||lang=ang|ground floor, dwelling}}, from {{proto|Germanic|flajan|floor|lang=en}} from {{proto|Germanic|flataz|flat|lang=en}} from {{proto|Indo-European|plat-|flat|lang=en}}. Akin to {{etyl|ofs|-}} {{term|flet|flet, flette|lang=ofs}} "dwelling, house". More at {{l|en|flat|flat<sub>1}}.
 
 ====Noun====
 {{en-noun}}
@@ -367,7 +367,8 @@ From {{etyl|non|en}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in
 ===Verb===
 '''{{Latinx|flāt}}'''
 
-# First- and third-person singular preterite form of {{term|flitan|flītan}}.
+# {{form of|first-person singular preterite form|[[flitan|flītan]]|lang=ang|sc=Latinx}}
+# {{form of|third-person singular preterite form|[[flitan|flītan]]|lang=ang|sc=Latinx}}
 
 [[Category:Old English verb forms]]
 
@@ -391,7 +392,7 @@ From {{etyl|non|en}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in
 ===Adjective===
 {{infl|sv|adjective}}
 
-# [[flat#Adjective|flat]] (''having no variations in altitude'')
+# [[flat#Adjective|flat]] {{qualifier|having no variations in altitude}}
 #: ''Solen reflekterades i spegelns '''flata''' yta.''
 #:: The sun was reflected in the flat surface of the mirror.
 # [[spineless]], being a [[doormat]], abstaining from defending one's convictions
