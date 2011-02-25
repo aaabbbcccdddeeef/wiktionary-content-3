@@ -37,7 +37,7 @@ From {{etyl|ang}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, of {{proto|G
 * Croatian: {{t-|hr|lopata|f}}, {{t|hr|ašov|m}}
 * Czech: {{t-|cs|rýč|m}}
 * Danish: {{t+|da|spade|c}}
-* Dutch: [[schop]] {{f}}, [[#Dutch|spade]] {{f}}, [[schup]] {{f}} (''Flemish''), {{t+|nl|schep|f}}
+* Dutch: [[schop]] {{f}}, [[#Dutch|spade]] {{f}}, [[schup]] {{f}} {{qualifier|Flemish}}, {{t+|nl|schep|f}}
 * Estonian: {{t-|et|labidas}}
 * Finnish: {{t+|fi|lapio}}
 * French: {{t+|fr|bêche|f}}, {{t+|fr|pelle|f}}
@@ -81,13 +81,13 @@ From {{etyl|ang}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, of {{proto|G
 * Albanian: [[maç]] {{m}}
 * Arabic: {{Arab|[[البستوني]]}} (al-bastūni) {{m}}
 * Bulgarian: {{t+|bg|пика|f}}
-* Chinese: (''Hong Kong'') [[揆扇]] (kuí shàn)
+* Chinese: {{qualifier|Hong Kong}} [[揆扇]] (kuí shàn)
 * Danish: {{t+|da|spar|c}}
-* Dutch: [[schoppen]] {{p}}, [[schuppen]] {{p}} (''Flemish'')
+* Dutch: [[schoppen]] {{p}}, [[schuppen]] {{p}} {{qualifier|Flemish}}
 * Estonian: {{t-|et|poti}}, {{t-|et|pada}}
 * Finnish: {{t+|fi|pata}}
 * French: {{t+|fr|pique|f}}
-* German: [[Pik]] [[:de:Pik|de]]
+* German: {{t|de|Pik}}
 * Greek: {{t+|el|μπαστούνι|n|tr=bastouni}}
 * Hungarian: {{t+|hu|pikk}}
 * Icelandic: {{t|is|spaði|m}}
@@ -133,10 +133,11 @@ From {{etyl|ang}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, of {{proto|G
 # To turn over soil with a spade to loosen the ground for planting.
 
 ===Anagrams===
-* {{alphagram|[[adeps#English|adeps]]}}
+* 
+* {{#if:{{isValidPageName|[[adeps#English|adeps]]}}||[[adeps#English|adeps]]}}
 
 [[Category:1000 English basic words]]
-
+[[Category:Horticulture]]
 ----
 
 ==Finnish==
@@ -144,7 +145,7 @@ From {{etyl|ang}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, of {{proto|G
 ===Noun===
 '''spade'''
 
-# {{military slang|lang=fi}} Field cook.
+# {{military slang|lang=fi}} field cook
 
 ----
 
@@ -153,7 +154,7 @@ From {{etyl|ang}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, of {{proto|G
 ===Noun===
 '''spade''' {{f}}
 
-# Plural of [[spada]].
+# {{plural of|spada|lang=it}}
 
 ----
 
@@ -172,12 +173,12 @@ From {{etyl|ang}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, of {{proto|G
 ==Swedish==
 
 ===Noun===
-'''spade''' {{c}}
+{{sv-noun|g=c}}
+
+# [[#English|spade]] {{gloss|tool}}
+
+====Declension====
 {{sv-noun-reg-ar|2=spad}}
-
-# [[#English|spade]] (''tool'').
-
-[[Category:Horticulture]]
 
 [[ar:spade]]
 [[cs:spade]]
