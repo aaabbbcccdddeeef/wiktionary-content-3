@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-{{etyl|enm}} ''[[#Middle English|strange]]'' from {{etyl|fro}} ''[[estrange]]'', from {{etyl|la}} ''[[extraneus]]'', "that which is on the outside". Displaced native {{enm}} ''[[fremd#Middle English|fremd]]'', ''[[frempt#Middle English|frempt]]'' "strange" (from {{ang}} ''[[fremede#Old English|fremede, fremde]]'').
+{{etyl|enm}} ''[[#Middle English|strange]]'' from {{etyl|fro}} ''[[estrange]]'', from {{etyl|la}} ''[[extraneus]]'', "that which is on the outside". Displaced native {{etyl|enm|-}} ''[[fremd#Middle English|fremd]]'', ''[[frempt#Middle English|frempt]]'' "strange" (from {{etyl|ang|-}} ''[[fremede#Old English|fremede, fremde]]'').
 
 ===Pronunciation===
 * {{enPR|strānj}}, {{IPA|/streɪndʒ/}}, {{SAMPA|/streIndZ/}}
@@ -22,13 +22,13 @@
 #*: A '''strange''' quark is electrically charged, carrying an amount -1/3, as does the down quark.
 
 ====Synonyms====
-* {{italbrac|not normal}}: [[bizarre]], [[odd]], [[out of the ordinary]], [[peculiar]], [[queer]], [[singular]], [[weird]], [[fremd]]
-* {{italbrac|not part of one's experience}}: [[new]], [[unfamiliar]], [[unknown]]
+* {{sense|not normal}} [[bizarre]], [[odd]], [[out of the ordinary]], [[peculiar]], [[queer]], [[singular]], [[weird]], [[fremd]]
+* {{qualifier|not part of one's experience}}: [[new]], [[unfamiliar]], [[unknown]]
 * See also [[Wikisaurus:strange]]
 
 ====Antonyms====
-* {{italbrac|not normal}}: [[everyday]], [[normal]], [[regular]] {{italbrac|especially US}}, [[standard]], [[usual]], [[unsurprising]]
-* {{italbrac|not part of one's experience}}: [[familiar]], [[known]]
+* {{sense|not normal}} [[everyday]], [[normal]], [[regular]] {{qualifier|especially US}}, [[standard]], [[usual]], [[unsurprising]]
+* {{qualifier|not part of one's experience}}: [[familiar]], [[known]]
 
 ====Derived terms====
 {{rel-top3|Terms derived from ''strange''}}
@@ -74,21 +74,21 @@
 * German: [[fremd]], [[seltsam]], [[sonderbar]], [[befremdlich]]
 * Greek: [[παράξενος]] (paraksenos) {{m}}, [[παράδοξος]] (paradoksos) {{m}}, [[αλλόκοτος]] (alokotos) {{m}}. [[περίεργος]] (periergos) {{m}}
 * Hebrew: {{t+|he|מוזר|tr=muzár}}
-* Hungarian: {{t+|hu|különös}}, {{t+|hu|furcsa}},  {{t+|hu|különleges}}
+* Hungarian: {{t+|hu|különös}}, {{t+|hu|furcsa}}, {{t+|hu|különleges}}
 * Indonesian: {{t-|id|aneh|xs=Indonesian}}
 {{trans-mid}}
 * Irish: {{t|ga|aisteach}}, {{t|ga|ait}}
 * Italian: {{t+|it|strano|m}}, {{t-|it|strana|f}}
-* Japanese: {{t-|ja|変な|tr=へんな, hen-na}},  {{t|ja|奇妙な|tr=きみょうな, kimyō-na}}
+* Japanese: {{t-|ja|変な|tr=へんな, hen-na}}, {{t|ja|奇妙な|tr=きみょうな, kimyō-na}}
 * Korean: [[이상한]] (isanghan)
 * Kurdish:
 *: Kurmanji: [[ecêb]], [[seyr]], [[sosret]], [[mat]]
-*: Sorani:  {{t|ku|عه‌نتیکه|tr=`anteeka|sc=ku-Arab}}, {{t|ku|سه‌یر|tr=sair|sc=ku-Arab}}
-* Norwegian: {{t-|no|merkelig}},  {{t-|no|sær}},  {{t+|no|rar}}
+*: Sorani: {{t|ku|عه‌نتیکه|tr=`anteeka|sc=ku-Arab}}, {{t|ku|سه‌یر|tr=sair|sc=ku-Arab}}
+* Norwegian: {{t-|no|merkelig}}, {{t-|no|sær}}, {{t+|no|rar}}
 * Portuguese: {{t+|pt|estranho|m}}
 * Romanian: {{t+|ro|ciudat}}, {{t-|ro|straniu}}, {{t-|ro|neobişnuit}}
 * Russian: {{t+|ru|странный|m|tr=stránnyj}}
-* [[Scottish Gaelic]]: {{t-|gd|annasach|xs=Scottish Gaelic}}, {{t-|gd|neònach|xs=Scottish Gaelic}},  {{t-|gd|coimheach|xs=Scottish Gaelic}}
+* [[Scottish Gaelic]]: {{t-|gd|annasach|xs=Scottish Gaelic}}, {{t-|gd|neònach|xs=Scottish Gaelic}}, {{t-|gd|coimheach|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: [[необичан]] {{m}}, [[чудан]] {{m}}
 *: Roman: [[neobičan]] {{m}}, [[čudan]] {{m}}
@@ -154,7 +154,7 @@
 ===Adjective===
 {{infl|ang|adjective form}}
 
-# {{form of|Inflected form|[[strang]]|lang=ang}}
+# {{form of|Inflected form|[[strang]]|lang=ang}}{{attention|ang|inflected how?}}
 
 [[ar:strange]]
 [[de:strange]]
