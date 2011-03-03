@@ -236,7 +236,7 @@
 * Belarusian: {{t|be|граць|tr=hrac'|sc=Cyrl}}
 * [[Catalan]]: [[jugar]]
 * Chinese:
-*: Mandarin: {{t|zh|玩|sc=Hani}}, {{t|zh|玩兒|sc=Hani}}, {{t|zh|玩儿|tr=wánr|sc=Hani}}
+*: Mandarin: {{t|zh|玩|tr=wán|sc=Hani}}, {{t|zh|玩兒|sc=Hani}}, {{t|zh|玩儿|tr=wánr|sc=Hani}}
 * Czech: [[hrát]] si
 * Dutch: {{t+|nl|spelen}}
 * Esperanto: {{t-|eo|ludi|xs=Esperanto}}
@@ -256,8 +256,8 @@
 * Korean: {{t|ko|놀다|tr=nolda|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t|ku|یاری کردن|tr=yarí kirdin|sc=ku-Arab}}
-* Latin: {{t-|la|ludo}}
 {{trans-mid}}
+* Latin: {{t-|la|ludo}}
 * Lithuanian: {{t-|lt|žaisti|xs=Lithuanian}}
 * [[Macedonian]]: {{t-|mk|игра|tr=ígra}}
 * [[Old English]]: {{t-|ang|lacan|alt=lācan|xs=Old English}}
@@ -285,24 +285,23 @@
 {{trans-bottom}}
 
 {{trans-top|produce music using a musical instrument ([[transitive]] sense), affecting a noun}}
-* Arabic: {{Arab|[[عَزَفَ]]}} {{IPAchar|(láʕiba)}}
+* Arabic: {{t|ar|عزف|tr=3ázafa|alt=عَزَفَ}}
 * Armenian: {{t-|hy|նվագել|tr=nvagel}}
 * [[Catalan]]: [[tocar]]
 * Chinese:
-** [[彈]], [[弹]] (dàn) (string instruments including piano)
-** [[吹]] (chuī) (wind instruments)
-** [[敲打]] (qiāodǎ) (percussion instruments)
-** [[演奏]] (yǎnzòu) (any instrument)
+*: Mandarin: {{qualifier|string instruments including piano}} {{t|zh|彈|sc=Hani}}, {{t|zh|弹|tr=dàn|sc=Hani}}, {{qualifier|wind instruments}} {{t|zh|吹|tr=chuī|sc=Hani}}, {{qualifier|percussion instruments}} {{t|zh|敲打|tr=qiāodǎ|sc=Hani}}
 * Czech: {{t+|cs|hrát}}
 * Dutch: {{t+|nl|spelen}}, {{t+|nl|bespelen}}
 * Finnish: {{t+|fi|soittaa}}
 * French: [[jouer]] de
 * Hebrew: {{t|he|ניגן|alt=ניגן (ב־)|tr=nigén (b'-)}}
+* Hindi: {{t|hi|बजाना|tr=bajānā|sc=Deva}}
 * Hungarian: játszik ''(noun specifying instrument in superessive case)
-{{trans-mid}}
 * Icelandic: {{t|is|spila}}, {{t|is|spila á}} (+ {{dative}})
+{{trans-mid}}
 * Irish: {{t-|ga|seinn|xs=Irish}}
 * Italian: {{t+|it|suonare}}
+* Japanese: {{qualifier|string instruments including piano}} {{t|ja|弾く|tr=ひく, hiku|sc=Jpan}}
 * [[Macedonian]]: {{t|mk|свири|tr=svíri}}
 * [[Old English]]: {{t-|ang|lacan|alt=lācan|xs=Old English}}
 * [[Pashto]]: {{t-|ps|ږغول|tr=zhaγawəl|sc=ps-Arab|xs=Pashto}}
@@ -313,12 +312,15 @@
 * Spanish: {{t+|es|tocar}}
 * Swedish: {{t+|sv|spela}}
 * Turkish: {{t+|tr|çalmak}}
+* Urdu: {{t|ur|بجانا|tr=bajānā|sc=ur-Arab}}
 {{trans-bottom}}
 
 {{trans-top|produce music using a musical instrument ([[intransitive]] sense, not affecting a noun)}}
-* Arabic: {{Arab|[[عَزَفَ]]}} {{IPAchar|(láʕiba)}}
+* Arabic: {{t|ar|عزف|tr=3ázafa|alt=عَزَفَ}}
 * Armenian: {{t-|hy|նվագել|tr=nvagel}}
 * [[Catalan]]: [[tocar]]
+* Chinese:
+*: Mandarin: {{t|zh|演奏|tr=yǎnzòu|sc=Hani}}
 * Czech: {{t+|cs|hrát}}
 * Dutch: {{t+|nl|spelen}}
 * Finnish: {{t+|fi|soittaa}}
@@ -327,7 +329,7 @@
 * Hebrew: {{t|he|ניגן|alt=ניגן|tr=nigén}}
 * Hungarian: {{t+|hu|játszik}}
 * Icelandic: {{t-|is|spila}}
-* Japanese: [[演奏]]する (ensō suru)
+* Japanese: {{t|ja|演奏|tr=えんそうする, ensō-suru|alt=演奏する|sc=Jpan}}
 * Kurdish:
 *: Sorani: {{t|ku|مۆسیقا لێدان|tr=mósíqa lédan|sc=ku-Arab}}
 {{trans-mid}}
