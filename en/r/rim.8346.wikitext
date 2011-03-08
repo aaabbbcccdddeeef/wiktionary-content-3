@@ -1,8 +1,8 @@
-{{wikipedia|dab=rim}}
 ==English==
+{{wikipedia|dab=rim}}
 
 ===Etymology===
-{{etyl|ang}} [[rima]].
+{{etyl|ang}} {{term|rima|lang=ang}}.
 
 ===Pronunciation===
 * {{IPA|/ɹɪm/}}
@@ -20,11 +20,11 @@
 * Danish: {{t-|da|rand}}, {{t|da|indfatning}} (for any shape), {{t|da|fælg}} (only for wheels)
 * Dutch: {{t+|nl|rand|m}}
 * Finnish: [[reuna]] (erit. pyöreän esineen)
-* French: [[bord]] {{italbrac|for any shape}} ; [[jante]] {{italbrac|only for wheels}}
+* French: [[bord]] {{qualifier|for any shape}} ; [[jante]] {{qualifier|only for wheels}}
 * German: [[Rand]] {{m}}, [[Kante]] {{f}}, [[Felge]] {{qualifier|of a wheel}}
 * [[Interlingua]]: [[bordo]], [[orlo]]
 {{trans-mid}}
-* Italian: {{t+|it|orlo}},  {{t+|it|bordo}}
+* Italian: {{t+|it|orlo}}, {{t+|it|bordo}}
 * Portuguese: {{t+|pt|borda|f}}
 * [[Scottish Gaelic]]: {{t|gd|iomall|m}}, {{t|gd|oir|f}}, {{t|gd|bile|f}}
 * Serbian: [[rub]], [[ivica]], [[obod]], [[naplatak]] (of wheel) {{m}}, [[gobela]] (of wheel) {{f}}
@@ -32,11 +32,11 @@
 {{trans-bottom}}
 
 {{trans-top|wheel rim}}
-* [[Basque]]: {{t|eu|uztai|xs=Basque}},  {{t|eu|hagun|xs=Basque}}
+* [[Basque]]: {{t|eu|uztai|xs=Basque}}, {{t|eu|hagun|xs=Basque}}
 * Dutch: {{t+|nl|velg}}
 * French: {{t+|fr|roue}}
 {{trans-mid}}
-* Italian: {{t-|it|cerchione}},  {{t+|it|cerchio}}
+* Italian: {{t-|it|cerchione}}, {{t+|it|cerchio}}
 * Spanish: [[aro]] {{m}} {{qualifier|Argentina|Bolivia|Costa Rica|Dominican Republic|Ecuador|Guatemala|Peru|Puerto Rico}}, [[llanta]] {{f}} {{qualifier|Chile|Paraguay|Spain|Uruguay}}, [[rin]] {{m}} {{qualifier|Colombia|Mexico|Panama|Venezuela}}
 {{trans-bottom}}
 
@@ -73,7 +73,7 @@
 {{trans-bottom}}
 
 ===Anagrams===
-* {{alphagram|imr}} [[IRM#English|IRM]], [[mir#English|mir]], [[Mir#English|Mir]], [[MIR#English|MIR]], [[MRI#English|MRI]]
+* [[IRM#English|IRM]], [[mir#English|mir]], [[Mir#English|Mir]], [[MIR#English|MIR]], [[MRI#English|MRI]]
 
 ----
 
@@ -99,7 +99,7 @@ From late {{etyl|non|da}} {{term|rím|lang=non}}, from {{etyl|gml|da}} {{term|ri
 {{da-noun-infl|et}}
 
 =====See also=====
-* {{projectlink|pedia|lang=da}}
+* {{pedia|lang=da}}
 
 ===Etymology 3===
 See {{l|da|rime}}.
@@ -143,7 +143,7 @@ From {{etyl|la|pt}} {{term|ren|lang=la}}.
 {{pt-noun|m|rins}}
 
 # [[kidney]]
-# ''(plural)'' [[small of the back]]
+# {{context|in plural|lang=pt}} [[small of the back]]
 
 ----
 
@@ -151,19 +151,21 @@ From {{etyl|la|pt}} {{term|ren|lang=la}}.
 
 ===Noun===
 {{sv-noun|g=n}}
-{{sv-noun-irreg-n|2=rimmet|4=rimmen}}
 
 # [[rhyme]]
 
-====See also====
+====Declension====
+{{sv-noun-irreg-n|2=rimmet|4=rimmen}}
+
+===See also===
 * [[rimma]]
 
 ----
 
-==[[Volapük]]==
+==Volapük==
 
 ===Noun===
-'''rim'''
+{{infl|vo|noun}}
 
 # a [[rhyme]]
 
