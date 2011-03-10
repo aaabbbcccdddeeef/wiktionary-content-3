@@ -54,21 +54,23 @@
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|глас|m|sc=Cyrl}}
 *: Roman: {{t|sh|glas|m}}
-* Spanish: {{t+|es|voto|m}}
 * {{trreq|sl}}
+* Spanish: {{t+|es|voto|m}}
 {{trans-bottom}}
 
 {{trans-top|instance of voting}}
 * Arabic: {{t|ar|تصويت|m|tr=taSwiit|sc=Arab}}
 * Armenian: {{t-|hy|ձայն|tr=jayn}},  {{t|hy|քվե|tr=k’ve}}
+* {{trreq|bs}}
 * Chinese:
 *: Mandarin: {{t-|cmn|投票|tr=tóupiào|sc=Hani}}, {{t|cmn|表決|sc=Hani}}, {{t|cmn|表决|tr=biǎojué|sc=Hani}}
+* {{trreq|hr}}
 * Finnish: {{t+|fi|ääni}}
 * French: {{t|fr|vote|m}}
 * [[Galician]]: {{t+|gl|voto|m|xs=Galician}}
+{{trans-mid}}
 * German: {{t|de|Abstimmung|f}}
 * Greek: {{t+|el|ψήφος|f}} (psífos)
-{{trans-mid}}
 * Hungarian: {{t+|hu|szavazat}}
 * Polish: {{t+|pl|głosowanie|n}}
 * Russian: {{t|ru|голосование|n|tr=golosovánije|sc=Cyrl}}
@@ -76,8 +78,6 @@
 *: Cyrillic: {{t|sh|гласање|n|sc=Cyrl}}
 *: Roman: {{t|sh|glasanje|n}}
 * Slovene: {{t|sl|glasovanje|n}}
-* {{trreq|bs}}
-* {{trreq|hr}}
 {{trans-bottom}}
 
 ===Verb===
@@ -168,6 +168,16 @@
 
 ----
 
+==Latin==
+
+===Participle===
+{{la-part-form|vōte}}
+
+# {{inflection of|votus|vōtus|voc|m|s|lang=la}}
+{{count page|[[Wiktionary:Page count]]}}
+
+----
+
 ==Spanish==
 
 ===Verb===
@@ -211,13 +221,3 @@
 [[tr:vote]]
 [[vi:vote]]
 [[zh:vote]]
-
-----
-==Latin==
-
-===Participle===
-{{la-part-form|vōte}}
-
-# {{inflection of|votus|vōtus|voc|m|s|lang=la}}
-{{count page|[[Wiktionary:Page count]]}}
-{{rfc-auto}}
