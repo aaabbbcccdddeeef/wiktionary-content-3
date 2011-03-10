@@ -98,7 +98,7 @@
 * [[Catalan]]: [[llar]] {{m}}, [[casa]] {{f}}
 * [[Chamicuro]]: {{tø|ccc|ajkochi}}
 * Chinese:
-*: Mandarin: [[家]] (jiā), {{t|zh|家|tr=jiā|sc=Hani}}
+*: Mandarin: {{t|zh|家|tr=jiā|sc=Hani}}
 *: Min Nan: [[厝]] ([[chhù]]); [[㢄]] ([[tau]])
 * [[Chiricahua]]: [[kuugha̧]]
 * [[Choctaw]]: {{tø|cho|chuka}}
@@ -115,12 +115,12 @@
 * German: {{t+|de|Heim|n}}, {{t+|de|Zuhause|n}}, {{t+|de|Wohnung|f}}
 * Greek: {{t+|el|σπίτι|n|tr=spíti}}, {{t+|el|σπιτικό|n|tr=spitikó}}
 * Hebrew: {{t+|he|בית|m|tr=báyit}}
-* Hindi: {{t-|hi|घर|m|xs=Hindi}} (ghar)
+* Hindi: {{t-|hi|घर|m|tr=ghar|xs=Hindi}}
 * Hungarian: {{t+|hu|otthon}}
 * Icelandic: {{t+|is|heimili|n}}, {{qualifier|away from home}} {{t-|is|heiman}}, {{qualifier|away from home}} {{t|is|að heiman}}, {{qualifier|home}} {{t-|is|heim}}, {{qualifier|at home}} {{t+|is|heima}}
 * [[Ido]]: {{t+|io|hemo|xs=Ido}}
 * Italian: {{t+|it|casa|f}}, {{t|it|focolare|m}}
-* Japanese: [[家]] ([[いえ]], ie), {{t|ja|家|tr=いえ, ie, うち, uchi|sc=Jpan}}
+* Japanese: {{t|ja|家|tr=[[いえ]], ie, [[うち]], uchi|sc=Jpan}}
 * [[Kannada]]: [[ಮನೆ]] (mane)
 * Kurdish: [[mal]], {{ku-Arab|[[ماڵ]]}}
 * Latin: {{t+|la|domus|f}}, {{t+|la|domicilium|n}}
@@ -159,7 +159,7 @@
 * [[Tulu]]: [[ಇಲ್ಲು]] (illu)
 * Turkish: {{t+|tr|ev}}, {{t+|tr|yurt}}
 * Ukrainian: {{t-|uk|дім|m|xs=Ukrainian}}
-* Urdu: {{t-|ur|گھر|m|xs=Urdu}} (ghar)
+* Urdu: {{t-|ur|گھر|m|tr=ghar|xs=Urdu}}
 * [[Venda]]: {{tø|ve|nnḓu}}
 * Vietnamese: [[nhà]], [[nhà cửa]], nhà [[ở]], [[chỗ]] ở; [[nơi sinh]] (birthplace)
 * [[Western Apache]]: [[gowąh]]
@@ -183,7 +183,7 @@
 * Hebrew: {{t+|he|בית|m|tr=báyit}}
 * Hungarian: {{t+|hu|szülőföld}}
 * Italian: {{t+|it|patria|f}}, {{t+|it|paese|m}}
-* Japanese: [[故郷]] ([[こきょう]], kokyō), [[母国]] ([[ぼこく]], bokoku), {{t|ja|故郷|tr=こきょう, kokyō|sc=Jpan}}, {{t|ja|母国|tr=ぼこく, bokoku|sc=Jpan}}
+* Japanese: {{t|ja|故郷|tr=こきょう, kokyō|sc=Jpan}}, {{qualifier|homeland}} {{t|ja|母国|tr=ぼこく, bokoku|sc=Jpan}}
 {{trans-mid}}
 * Latin: {{t|la|domus|f}}, {{t|la|focus|m}}, {{t|la|penates|m|p}}
 * Latvian: {{t|lv|tēvija|f}}
@@ -200,7 +200,7 @@
 * [[Telugu]]: {{t|te|పూర్వీకము|tr=purvikamu|sc=Telu}}
 * Turkish: {{t+|tr|vatan}}
 * Ukrainian: {{t|uk|батьківщина|f|xs=Ukrainian}}, {{t|uk|домівка|f|xs=Ukrainian}}
-* Vietnamese: {{t+|vi|quê hương|xs=Vietnamese}}, {{t+|vi|tổ quốc|xs=Vietnamese}}, {{t|vi|quê}}
+* Vietnamese: {{t|vi|quê}}, {{t+|vi|quê hương|xs=Vietnamese}}, {{t+|vi|tổ quốc|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|childhood or parental home}}
