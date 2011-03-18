@@ -73,11 +73,11 @@ From {{etyl|enm}} ''[[mater#Middle English|mater, matere]]'' from {{etyl|xno}} '
 * German: {{t+|de|Materie|f}}
 * Hungarian: {{t|hu|anyag}}
 * Italian: {{t+|it|materia|f}}
-* Japanese: [[物質]] (ぶっしつ, busshitsu)
+* Japanese: {{t|ja|物質|tr=ぶっしつ, busshitsu|sc=Jpan}}
 {{trans-mid}}
 * Polish: {{t+|pl|materia|f}}
 * Romanian: {{t-|ro|materie|f}}
-* Russian: {{t+|ru|материя|f|tr=materija}}
+* Russian: {{t+|ru|материя|f|tr=matérija}}
 * Serbian: {{t-|sr|tvar|f}}
 * Spanish: {{t+|es|materia|f}}
 * [[West Frisian]]: {{t|fy|matearje|c|xs=West Frisian}}
@@ -91,16 +91,18 @@ From {{etyl|enm}} ''[[mater#Middle English|mater, matere]]'' from {{etyl|xno}} '
 * Hungarian: {{t|hu|anyag}}
 * Italian: {{t+|it|materia}}
 {{trans-mid}}
-* Japanese: [[物質]] (ぶっしつ, busshitsu), {{t|ja|物質|tr=ぶっしつ, busshitsu|sc=Jpan}}
+* Japanese: {{t|ja|物質|tr=ぶっしつ, busshitsu|sc=Jpan}}
+* Korean: {{t|ko|물질|tr=muljil|sc=Kore}} ({{t|ko|物質|sc=Kore}})
 * Romanian: {{t-|ro|materie|f}}
-* Russian: {{t+|ru|вещество|n|tr=veščestvó}}, {{t+|ru|материя|f|tr=materija}}
-* Vietnamese: {{t|vi|vật chất}}, {{t|vi|物質}}
+* Russian: {{t+|ru|вещество|n|tr=veščestvó}}, {{t+|ru|материя|f|tr=matérija}}
+* Vietnamese: {{t|vi|vật chất}} ({{t|vi|物質}})
 * [[West Frisian]]: {{t+|fy|matearje|c|xs=West Frisian}}
 {{trans-bottom}}
 
 {{trans-top|kind of substance}}
-* Arabic: {{Arab|[[مادة]]}} {{IPAchar|(māda)}} {{f}}
-* Chinese: [[物質]], [[物质]] (wùzhì)
+* Arabic: {{t|ar|مادة|f|tr=maada|sc=Arab}}
+* Chinese:
+*: Mandarin: {{t|zh|物質|sc=Hani}}, {{t|zh|物质|tr=wùzhì, wùzhí|sc=Hani}}
 * Dutch: {{t+|nl|stof|c}}
 * Finnish: {{t+|fi|aine}}
 * French: {{t+|fr|matière|f}}
@@ -109,13 +111,14 @@ From {{etyl|enm}} ''[[mater#Middle English|mater, matere]]'' from {{etyl|xno}} '
 * Irish: {{t-|ga|ábhar|m|xs=Irish}}
 {{trans-mid}}
 * Italian: {{t+|it|materia|f}}
-* Japanese: [[物質]] (ぶっしつ, busshitsu)
-* Korean: [[물질]] (muljil), {{t|ko|물질|tr=muljil|sc=Kore}}, {{t|ko|物質|sc=Kore}}
+* Japanese: {{t|ja|物質|tr=ぶっしつ, busshitsu|sc=Jpan}}
+* Korean: {{t|ko|물질|tr=muljil|sc=Kore}} ({{t|ko|物質|sc=Kore}})
 * Portuguese: {{t+|pt|matéria|f}}
 * Romanian: {{t-|ro|materie|f}}
 * Russian: {{t+|ru|вещество|n|tr=veščestvó}},  {{t+|ru|материал|m|tr=materiál}}
 * Spanish: {{t+|es|materia|f}}
 * Swedish: {{t-|sv|stoff|c}}
+* Vietnamese: {{t|vi|vật chất}} ({{t|vi|物質}})
 * [[West Frisian]]: {{t+|fy|matearje|c|xs=West Frisian}}
 {{trans-bottom}}
 
@@ -140,7 +143,7 @@ From {{etyl|enm}} ''[[mater#Middle English|mater, matere]]'' from {{etyl|xno}} '
 {{trans-mid}}
 * Hindi: {{t|hi|बात|f|tr=bāt|sc=Deva}}, {{t|hi|मामला|m|tr=māmlā|sc=Deva}}
 * Italian: {{t+|it|argomento|m}},  {{t+|it|questione|f}},  {{t+|it|faccenda|f}}
-* Japanese: {{t|ja|こと|tr=koto|sc=Jpan}}, {{t|ja|事|sc=Jpan}}
+* Japanese: {{t|ja|事|sc=Jpan}}, {{t|ja|こと|tr=koto|sc=Jpan}}
 * Russian: {{t|ru|дело|n|tr=délo|sc=Cyrl}}
 * Urdu: {{t|ur|بات|f|tr=bāt|sc=ur-Arab}}, {{t|ur|معاملہ|m|tr=māmlā|sc=ur-Arab}}
 {{trans-bottom}}
