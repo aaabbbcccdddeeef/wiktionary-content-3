@@ -80,7 +80,7 @@ Cognate to {{term|two|lang=en}} from Proto-Indo-European.
 # [[duet]] (a musical composition for two performers)
 
 ===Anagrams===
-* {{alphagram|[[d'où#French|d'où]]}} 
+* [[d'où#French|d'où]] 
 
 [[Category:fr:Music]]
 ----
@@ -110,7 +110,7 @@ Cognate to {{term|two|lang=en}} from Proto-Indo-European.
 {{cardinalbox|la|I|II|III|unus|tres|ord=secundus|adv=bis|mult=duplex|dis=bini|disalt=bīnī|headlink=Appendix:Latin cardinal numerals|wplink=Duo}}
 
 ===Alternative forms===
-* Symbol: '''II'''
+* Symbol: [[II]]
 
 ===Etymology===
 From {{proto|Indo-European|dwóh₁|lang=la}}. Cognates include Ancient Greek {{term|δύο|tr=duo|lang=grc|sc=polytonic}}, Sanskrit {{term|sc=Deva|द्व|tr=dvá|lang=sa}} and Old English {{term|twa|twā|lang=ang}} (English {{term|two|lang=en}}).
@@ -122,7 +122,7 @@ From {{proto|Indo-European|dwóh₁|lang=la}}. Cognates include Ancient Greek {{
 ===Numeral===
 {{la-num-card|num=2}}
 
-# {{cardinal|lang=la}} [[two]]; 2
+# [[two]]; 2
 #* {{RQ:Livy AUC}}
 #*: Dixit '''duas''' res ei rubori fuisse.
 #*:: "He said that '''two''' things had abashed him."
@@ -137,7 +137,7 @@ From {{proto|Indo-European|dwóh₁|lang=la}}. Cognates include Ancient Greek {{
 See [[Appendix:Latin cardinal numerals#duo|Appendix:Latin cardinal numerals]]
 
 ====Inflection====
-Irregular.  (Note: the word "duo", by definition, has no singular.)
+Irregular. (Note: the word "duo", by definition, has no singular.)
 {| class="prettytable"
 !style="background:#{{Latincolour3}};"| ''Number''
 !style="background:#{{Latincolour3}};" colspan=3| ''Plural''
@@ -157,7 +157,7 @@ Irregular.  (Note: the word "duo", by definition, has no singular.)
 |style="background:#{{Latincolour2}};"| {{Notred|duobus#Latin|duōbus}} || {{Notred|duabus#Latin|duābus}} || {{Notred|duobus#Latin|duōbus}}
 |-
 !style="background:#{{Latincolour1}};"| ''[[accusative]]''
-|style="background:#{{Latincolour2}};"| {{Notred|duos#Latin|duōs}} / {{Notred|duo#Latin|duo}}  || {{Notred|duas#Latin|duās}} || {{Notred|duo#Latin|duo}}
+|style="background:#{{Latincolour2}};"| {{Notred|duos#Latin|duōs}} / {{Notred|duo#Latin|duo}} || {{Notred|duas#Latin|duās}} || {{Notred|duo#Latin|duo}}
 |-
 !style="background:#{{Latincolour1}};"| ''[[ablative]]''
 |style="background:#{{Latincolour2}};"| {{Notred|duobus#Latin|duōbus}} || {{Notred|duabus#Latin|duābus}} || {{Notred|duobus#Latin|duōbus}}
@@ -174,7 +174,7 @@ Irregular.  (Note: the word "duo", by definition, has no singular.)
 
 ====Descendants====
 {{top2}}
-*Asturian: {{l|ast|dos}}
+* Asturian: {{l|ast|dos}}
 * Catalan: {{l|ca|dos}}
 * Esperanto: {{l|eo|du}}
 * French: {{l|fr|deux}}
@@ -198,33 +198,6 @@ Irregular.  (Note: the word "duo", by definition, has no singular.)
 
 ==Mandarin==
 
-===Adjective===
-{{cmn-adj|p|pin=duō|pint=duo1|tas=多}}
-
-# [[many]]; [[much]]; [[more]]
-
-{{rel-top|Example sentences}}
-#* [[zhege]] [[diqu]] [[you]] '''[[hen]] [[duo]]''' [[shumu]] [[bei]] [[kanfa]] [[le]].
-#: There are '''many''' trees have been felled in this area.
-#: ''[[zhe]] [[fen]] [[baozhi]] [[you]] '''[[hen]] [[duo]]''' [[guanggao]].''  "This newspaper has '''a lot of''' advertisement."
-#: ''[[he]] [[tai]] [[duo]] [[kafei]] [[dui]] [[shenti]] [[bu]] [[hao]].''  "To drink coffee too '''much''' is bad for health."
-#: ''[[women]] [[xuexiao]] [[de]] [[jianshenfang]] [[you]] [[hen]] [[duo]] [[tiyu]] [[qixie]].''  "There're '''many''' sports apparatuses in the gymnasium of our school.
-#: ''[[zhe]] [[jian]] [[yiyuan]] [[li]] [[you]] [[hen]] [[duo]] [[bingren]]. (zhè jiàn yīyuàn li yǒu hěn duō bìngrén. 这间医院里有很多病人.)'' &mdash; There are '''many''' patients in this hospital.
-#* [[Tangrenjie]] [[you]] '''[[hen]] [[duo]]''' [[Zhongguo]] [[fandian]].
-#: there are '''many''' Chinese restaurants in Chinatown.
-{{rel-bottom}}
-
-===See also===
-* [[duo-]]
-
-===Measure word===
-{{rfc-header|Measure word|lang=cmn}}
-{{cmn-mw|p|pin=duǒ|pint=duo3|tas=朵}}
-
-# a measure word (for flowers/clouds/etc.)
-#: [[yi]]-[[duo]] [[dujuanhua]]
-#:: an [[azalea]] ([[flower]]).
-
 ===Pinyin syllable===
 '''duo'''
 
@@ -234,7 +207,7 @@ Irregular.  (Note: the word "duo", by definition, has no singular.)
 # {{nonstandard spelling of|lang=cmn|sc=Latn|[[duò]]}}
 
 ====Usage notes====
-English transcriptions of Chinese speech often fail to distinguish between the critical tonal differences employed in the Chinese language, using words such as this one without the appropriate indication of tone.
+{{zh-tone}}
 
 [[Category:Mandarin pinyin]]
 
@@ -243,10 +216,12 @@ English transcriptions of Chinese speech often fail to distinguish between the c
 ==Swedish==
 
 ===Noun===
-{{sv-noun-irreg-c|2=duon|3=duor}}
-'''duo''' {{c}}
+{{sv-noun|g=c}}
 
 # [[#English|duo]], [[duet]]
+
+====Declension====
+{{sv-noun-irreg-c|2=duon|3=duor}}
 
 [[de:duo]]
 [[et:duo]]
