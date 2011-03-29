@@ -46,14 +46,14 @@ From {{etyl|ang|enm}} {{term|ac|lang=ang}}.
 ===Conjunction===
 {{infl|enm|conjunction}}
 
-# [[but|But]].
+# [[but]]
 
 ----
 
 ==Old English==
 
 ===Etymology 1===
-From {{etyl|gem|ang}} ''*aik-''. Cognate with Old Frisian [[ek|ēk]], Old Saxon [[ek|ēk]] (Dutch [[eik]]), Old High German [[eih]] (German [[Eiche]]), Old Norse [[eik]] (Swedish [[ek]]).
+From {{proto|Germanic|aik-|lang=ang}}. Cognate with Old Frisian {{term|ek|ēk|lang=ofs}}, Old Saxon {{term|ek|ēk|lang=osx}} (Dutch {{term|eik|lang=nl}}), Old High German {{term|eih|lang=goh}} (German {{term|Eiche|lang=de}}), Old Norse {{term|eik|lang=non}} (Swedish {{term|ek|lang=sv}}).
 
 ====Pronunciation====
 * {{IPA|/ɑːk/|lang=ang}}
@@ -63,23 +63,21 @@ From {{etyl|gem|ang}} ''*aik-''. Cognate with Old Frisian [[ek|ēk]], Old Saxon 
 
 # [[oak]] (wood or tree)
 # {{poetic|lang=ang}} an oaken ship
-# The runic character ᚪ (/a/)
+# The runic character {{Runr|ᚪ}} ({{IPAchar|/a/}})
 
 =====Descendants=====
 * English: [[oak]], [[ac-]], [[aik-]], [[oke-]], [[oak-]], [[-ock]]
 
 ===Etymology 2===
-From Germanic ''*ak-''. Cognate with Old Saxon ''ac'', Gothic [[𐌰𐌺]], Old High German [[oh]], {{etyl|non|-}} {{term|ok||and|lang=non}}.
+From {{proto|Germanic|ak-|lang=ang}}. Cognate with Old Saxon {{term|ac|lang=osx}}, Gothic {{term|𐌰𐌺|sc=Goth}}, Old High German {{term|oh|lang=goh}}, {{etyl|non|-}} {{term|ok||and|lang=non}}.
 
 ====Pronunciation====
 * {{IPA|/ɑk/|lang=ang}}
 
 ====Conjunction====
-'''ac'''
+{{infl|ang|conjunction}}
 
 # [[but]]
-
-[[Category:Old English conjunctions]]
 
 ----
 
@@ -95,8 +93,6 @@ From {{etyl|la|ro}} {{term|acus|lang=la}}.
 
 ====Declension====
 {{ro-noun-n|pl=ace|def=acul}}
-
-[[Category:Romanian nouns]]
 
 [[de:ac]]
 [[el:ac]]
