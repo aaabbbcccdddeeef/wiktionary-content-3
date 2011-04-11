@@ -16,24 +16,39 @@
 {{trans-mid}}
 * [[Macedonian]]: {{t-|mk|ајвар|m|tr=ájvar}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|ајвар|m|sc=Cyrl|xs=Serbo-Croatian}}
-*: Roman: {{t|sh|ajvar|m|xs=Serbo-Croatian}}
+*: Cyrillic: {{t|sh|ајвар|m|alt=а̀јва̄р|sc=Cyrl}}
+*: Roman: {{t|sh|ajvar|m|alt=àjvār}}
 {{trans-bottom}}
 
 ===Anagrams===
 * {{alphagram|aajrv}}
 * [[vajra#English|vajra]]
 
+[[Category:Foods]]
+
 ----
 
-==Croatian==
+==Serbo-Croatian==
+
+===Pronunciation===
+* {{IPA|/ǎjʋaːr/|lang=sh}}
+* {{hyphenation|aj|var}}
 
 ===Noun===
-{{hr-noun|m}}
+{{sh-noun|g=m|head=àjvār|r|ајвар|а̀јва̄р}}
 
 # [[#English|ajvar]]
 
-[[Category:Foods]]
+====Declension====
+{{sh-decl-noun
+|ajvar|ajvari
+|ajvara|ajvara
+|ajvaru|ajvarima
+|ajvar|ajvare
+|ajvaru|ajvari
+|ajvaru|ajvarima
+|ajvarom|ajvarima
+}}
 
 [[pl:ajvar]]
 [[ru:ajvar]]
