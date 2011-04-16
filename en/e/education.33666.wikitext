@@ -39,12 +39,12 @@ From {{etyl|la}} {{term|educatio|ēducātiō|a breeding, bringing up, rearing}} 
 {{trans-top|process or art of imparting knowledge, skill and judgment}}
 * [[Afrikaans]]: {{t|af|onderwys|xs=Afrikaans}}
 * Albanian: {{t+|sq|arsim|xs=Albanian}},  {{t|sq|edukim|f|xs=Albanian}}
-* Arabic: {{Arab|[[تعليم]]}} (taʻmīl), {{Arab|[[تربية]]}} (tarbiyya), {{t|ar|تعليم|m|tr=ta3liim|sc=Arab}}, {{t|ar|تربية|f|tr=tarbíyya|sc=Arab}}
+* Arabic: {{t|ar|تعليم|m|tr=ta3liim|sc=Arab}}, {{t|ar|تربية|f|tr=tarbíyya|sc=Arab}}
 * Bengali: {{t+|bn|শিক্ষা|tr=shikkha|sc=Beng|xs=Bengali}}
 * Bulgarian: {{t+|bg|образование|n|tr=obrazovanie}}
 * [[Catalan]]: {{t|ca|educació|f}}
-* Chinese: [[教育]] (jiàoyù), [[教學]], [[教学]] (jiàoxué), [[教養]], [[教养]] (jiàoyǎng)
-*: Mandarin: {{t|zh|教育|sc=Hani}}, {{t|zh|教學|sc=Hani}}, {{t|zh|教学|tr=jiàoxué|sc=Hani}}, {{t|zh|教養|sc=Hani}}, {{t|zh|教养|tr=jiàoyǎng|sc=Hani}}
+* Chinese:
+*: Mandarin: {{t|zh|教育|tr=jiàoyù|sc=Hani}}, {{t|zh|教學|sc=Hani}}, {{t|zh|教学|tr=jiàoxué|sc=Hani}}, {{t|zh|教養|sc=Hani}}, {{t|zh|教养|tr=jiàoyǎng|sc=Hani}}
 * Croatian: {{t-|hr|obrazovanje|n|alt=obrazovánje}}
 * Czech: {{t-|cs|vzdělávání|n}}
 * Danish: {{t-|da|undervisning}}
@@ -61,9 +61,9 @@ From {{etyl|la}} {{term|educatio|ēducātiō|a breeding, bringing up, rearing}} 
 * Icelandic: {{t-|is|menntun|f}}
 * Irish: {{t|ga|oideachas|m}}
 * Italian: {{t-|it|istruzione|f}},  {{t+|it|educazione|f}}
-* Japanese: {{Jpan|[[教育]]}} ({{Jpan|[[きょういく]]}}, kyōiku), {{t|ja|教育|tr=きょういく, kyōiku|sc=Jpan}}
+* Japanese: {{t|ja|教育|tr=きょういく, kyōiku|sc=Jpan}}
 * Kazakh: {{t|kk|оқу|tr=oqu|sc=Cyrl|xs=Kazakh}}
-* Korean: [[교육]] (gyoyuk), {{t|ko|교육|tr=gyoyuk|sc=Kore}}, {{t|ko|教育|sc=Kore}}
+* Korean: {{t|ko|교육|tr=gyoyuk|sc=Kore}} ({{t|ko|教育|sc=Kore}})
 {{trans-mid}}
 * Kurdish: {{t|ku|په‌روه‌رده‌|f|tr=[[perwerde]]|sc=ku-Arab}}, {{t|ku|زانیاری|tr=zanyari|sc=ku-Arab}}
 * Latin: {{t+|la|cultus|m}}
@@ -90,16 +90,17 @@ From {{etyl|la}} {{term|educatio|ēducātiō|a breeding, bringing up, rearing}} 
 * [[Tagalog]]: {{t+|tl|edukasyon|xs=Tagalog}}
 * Turkish: {{t+|tr|eğitim}}
 * Ukrainian: {{t|uk|освіта|f|tr=osvita|xs=Ukrainian}}
-* Vietnamese: {{qualifier|sự + 教育}} {{t|vi|giáo dục|alt=sự giáo dục}}
+* Vietnamese: {{t|vi|giáo dục|alt=sự giáo dục}}  ({{t|vi|sự}} + {{t|vi|教育}})
 * Welsh: {{t|cy|addysg|f|xs=Welsh}}
 * [[West Frisian]]: {{t-|fy|ûnderwiis|xs=West Frisian}}
 {{trans-bottom}}
 
 {{trans-top|facts, skills and ideas that have been learned, either formally or informally}}
 * [[Afrikaans]]: {{t|af|opvoeding}}
-* Arabic: {{Arab|[[تعليم]]}} (taʻmīl), {{Arab|[[ثقافة]]}} (ṯaqāfa)
+** Arabic: {{t|ar|تعليم|m|tr=ta3liim|sc=Arab}}, {{t|ar|ثقافة|f|tr=thaqaafa|sc=Arab}}
 * Bengali: {{t+|bn|শিক্ষা|tr=shikkha|sc=Beng|xs=Bengali}}
-* Chinese: [[教育]] (jiàoyù)
+* Chinese:
+*: Mandarin: {{t|zh|教育|tr=jiàoyù|sc=Hani}}
 * Croatian: {{t|hr|izobrazba|f|alt=ȉzobrazba}}, {{t|hr|naobrazba|f|alt=nȁobrazba}}
 * Czech: {{t-|cs|vzdělání|n}}
 * Danish: {{t|da|uddannelse}}
@@ -110,14 +111,16 @@ From {{etyl|la}} {{term|educatio|ēducātiō|a breeding, bringing up, rearing}} 
 * French: {{t+|fr|éducation|f}}
 * German: {{t+|de|Bildung|f}}, {{t+|de|Schulung|f}}, {{t+|de|Aufklärung|f}}
 * Greek: {{t+|el|παιδεία|f}}
+* Hindi: {{t|hi|शिक्षा|f|tr=śikṣā|sc=Deva}}
 * Hungarian: {{t|hu|műveltség}}
-* Japanese: {{Jpan|[[教育]]}} ({{Jpan|[[きょういく]]}}, kyōiku)
+* Japanese: {{t|ja|教育|tr=きょういく, kyōiku|sc=Jpan}}
 {{trans-mid}}
 * Latvian: {{t|lv|izglītība|f}}
 * Lithuanian: {{t|lt|išsilavinimas}}, {{t|lt|lavinimas|m}}
 * Norwegian: {{t+|no|utdanning}}
 ** Nynorsk: [[utdaning]]
 ** Bokmål: [[utdannelse]]
+* Persian: {{t|fa|آموزش|tr=âmuzeš|sc=fa-Arab}}
 * Polish: {{t+|pl|wykształcenie|n}}
 * Portuguese: {{t+|pt|educação|f}}
 * Russian: {{t+|ru|образование|n|tr=obrazovánie}}
