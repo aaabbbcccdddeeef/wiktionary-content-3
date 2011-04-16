@@ -193,9 +193,9 @@ From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro|en}} {{term|papier||l
 * [[Tagalog]]: {{t|tl|papel}}
 * {{trreq|ty}}
 * [[Tajik]]: {{t|tg|коғаз|tr=koġaz|sc=Cyrl}}
-* [[Tamil]]: {{t|ta|காகிதம்|xs=Tamil}}(kakitham)
+* [[Tamil]]: {{t|ta|காகிதம்|xs=Tamil|tr=kakitham}}
 * [[Tatar]]: {{t|tt|кәгазь|tr=kägaz’|sc=Cyrl|xs=Tatar}}
-* [[Telugu]]: {{t|te|కాగితము}}(kaagitamu)
+* [[Telugu]]: {{t|te|కాగితము|tr=kaagitamu}}
 * [[Tetum]]: [[surat-tahan]]
 * Thai: {{t|th|กระดาษ|tr=gràdàat|sc=Thai}}
 * Tibetan: {{t|bo|ཤོག་བུ།|tr=shog bu|sc=Tibt}}
@@ -210,7 +210,7 @@ From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro|en}} {{term|papier||l
 * Vietnamese: {{t+|vi|giấy|xs=Vietnamese}} ({{t|vi|紙}})
 * Welsh: {{t+|cy|papur|m|xs=Welsh}}
 * [[West Frisian]]: [[papier]] {{n}}
-* Yiddish: [[פּאַפּיר]] (papir) {{n}}
+* Yiddish: {{t|yi|פּאַפּיר|n|tr=papir}}
 {{trans-bottom}}
 
 <!--the translations that were here have been moved to "newspaper"-->
@@ -223,12 +223,12 @@ From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro|en}} {{term|papier||l
 {{trans-top|written document shorter than a book}}
 * Arabic: {{t-|ar|ورقة|alt=وَرَقَة}}
 * Bulgarian: {{t+|bg|документ|m}}, {{t+|bg|статия|f}}
-* [[Catalan]]: [[article]] {{m}}
+* [[Catalan]]: {{t|ca|article|m}}
 * Czech: [[článek]] {{m}} {{qualifier|scientific}}
-* Dutch: [[document]] {{n}}, [[werk]] {{n}}, [[eindwerk]] {{n}}
+* Dutch: {{t|nl|document|n}}, {{t|nl|werk|n}}, {{t|nl|eindwerk|n}}
 * Finnish: {{t-|fi|raportti}}, {{t+|fi|paperi}}
 * German: {{t+|de|Papier|n}}, {{t+|de|Dokument|n}}
-* Greek: [[:el:έγγραφο|έγγραφο]] {{n}}
+* Greek: {{t|el|έγγραφο|n}}
 * Indonesian: surat-surat, dokumen
 * [[Macedonian]]: {{t-|mk|документ|m|tr=dokumént}}
 * Norwegian: {{t+|no|artikkel|m}}
@@ -239,10 +239,10 @@ From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro|en}} {{term|papier||l
 * Russian: {{t+|ru|бумага|f|tr=bumága}}
 * Spanish: {{t+|es|artículo|m}}
 * Swedish: {{t|sv|artikel|c}}, {{t|sv|papper|n}} {{qualifier|colloquial}}
-* [[Telugu]]: [[దస్తావేజు]] (dastaavaeju)
+* [[Telugu]]: {{t|te|దస్తావేజు|tr=dastaavaeju}}
 * Turkish: {{t+|tr|kâğıt}}
 * Ukrainian: {{t-|uk|документ|m|tr=dokumént|xs=Ukrainian}}
-* Vietnamese: [[bài văn]]
+* Vietnamese: {{t|vi|bài văn}}
 * Welsh: {{t|cy|dogfen|f|xs=Welsh}}
 {{trans-bottom}}
 
@@ -253,9 +253,9 @@ From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro|en}} {{term|papier||l
 * Indonesian: karangan, tesis, naskah
 * Italian: {{t+|it|articolo|m}},  {{t+|it|pubblicazione|f}}
 {{trans-mid}}
-* Japanese: [[論文]] ([[ろんぶん]], ronbun)
+* Japanese: {{t|ja|論文|tr=[[ろんぶん]], ronbun}}
 * [[Macedonian]]: {{t|mk|статија|f|tr=státija}}
-* Spanish: {{t+|es|papel academico|m}}, {{t+|es|papel academica|f}}
+* Spanish: {{t+|es|papel académico|m}}
 * Welsh: {{t|cy|papur academaidd|m|xs=Welsh}}
 {{trans-bottom}}
 
@@ -296,8 +296,8 @@ From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro|en}} {{term|papier||l
 * Russian: {{t|ru|бумажный|tr=bumážnyj|sc=Cyrl}}
 * Spanish: de {{t+|es|papel}}
 * Swedish: {{t|sv|pappers-}}
-* [[Telugu]]: [[కాగితపు]] (kaagitapu)
-* Vietnamese: [[bằng giấy]]
+* [[Telugu]]: {{t|te|కాగితపు|tr=kaagitapu}}
+* Vietnamese: {{t|vi|bằng giấy}}
 {{trans-bottom}}
 
 ===Verb===
@@ -324,6 +324,17 @@ From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro|en}} {{term|papier||l
 * {{rank|particular|charge|church|604|paper|object|faith|gentleman}}
 
 [[Category:1000 English basic words]]
+
+----
+
+==Catalan==
+{{wikipedia|lang=ca}}
+
+===Noun===
+{{ca-noun|m}}
+
+# {{l|en|paper}}
+# [[role]]
 
 [[ar:paper]]
 [[zh-min-nan:paper]]
