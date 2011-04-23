@@ -472,25 +472,37 @@ Alternate etymology derives Proto-Germanic *''stuppōnan'' from an assumed {{ety
 
 ===Pronunciation===
 * {{IPA|/ˈstɔp/|lang=pl}}
-* {{audio|Pl-stop.ogg}}
+* {{audio|Pl-stop.ogg|audio}}
 
 ===Etymology 1===
+From the verb ''[[stopić]]''
 
 ====Noun====
-{{infl|pl|noun|g=m|plural|stopy}}
+{{infl|pl|noun|g=m}}
 
-# {{chemistry}} an [[alloy]]; a [[mixture]] of [[metals]].
+# {{chemistry|lang=pl}} an [[alloy]]; a [[mixture]] of [[metals]].
 #: ''Mosiądz jest '''stopem''' miedzi i cynku.''
 #:: Brass is an alloy of copper and zinc.
 
+=====Declension=====
+{{pl-decl-noun
+|stop|stopy
+|stopu|stopów
+|stopowi|stopom
+|stop|stopy
+|stopem|stopami
+|stopie|stopach
+|stopie|stopy
+}}
+
 =====Synonyms=====
-* [[aliaż]] ({{m}})
+* [[aliaż]] (''obsolete'')
 
 ===Etymology 2===
 From {{etyl|en|pl}} {{term|stop|lang=en}}.
 
 ====Interjection====
-'''stop!'''
+{{infl|pl|interjection}}
 
 # [[#English|stop]]!, [[halt]]!
 
@@ -499,11 +511,11 @@ From {{etyl|en|pl}} {{term|stop|lang=en}}.
 
 # a [[stop sign]].
 #: ''Jechał dalej, bo nie zauważył '''stopu'''.''
-#: He continued to drive because he hadn't noticed the stop sign.
-# {{informal}} a [[vehicle]]'s brake light.
+#:: He continued to drive because he hadn't noticed the stop sign.
+# {{colloquial|lang=pl}} a [[vehicle]]'s brake light.
 #: ''Uderzyłam w niego, bo nie zaświecił mu się '''stop''' i nie wiedziałam, że ostro hamuje.''
 #:: I hit his car because his brake light didn't flash and I didn't know he was braking hard.
-# {{informal}} [[hitchhiking]].
+# {{colloquial|lang=pl}} [[hitchhiking]].
 #: ''Często podróżuję '''na stopa'''.''
 #:: I often hitchhike.
 
