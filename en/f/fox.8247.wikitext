@@ -77,15 +77,15 @@
 * [[Azeri]]: {{t+|az|tülkü|xs=Azeri}}
 * [[Bashkir]]: {{tø|ba|төлкө|tr=tölkö|sc=Cyrl|xs=Bashkir}}
 * [[Basque]]: [[azeri]]
-* Belarusian: [[ліса]] (łisa) {{f}}, {{t|be|ліса|f|tr=lisá|sc=Cyrl}}
+* Belarusian: {{t|be|ліса|f|tr=lisá|sc=Cyrl}} <!-- "łisa" is absolutely wrong in łacinka, ł is never used in palatalised positions -->
 * Bosnian: {{t-|bs|lisica|f}}, {{t-|bs|lisac|m}}
 * [[Breton]]: [[louarn]] {{m}}, louarned {{p}}
-* Bulgarian: {{t+|bg|лисица|f|tr=lisitsa}}
+* Bulgarian: {{t+|bg|лисица|f|tr=lisíca}}
 * [[Carrier]]: [[naŋʌz]]
 * [[Catalan]]: [[guineu]] {{f}}, [[guilla]] {{f}}, [[rabosa]] {{f}}
 * [[Chamicuro]]: {{tø|ccc|tus̈huli}}
 * Cherokee: {{t-|chr|ᏧᎳ|tr=tsula|sc=Cher|xs=Cherokee}}
-* Chinese: [[狐狸]] (húlí)
+* Chinese:
 *: Mandarin: {{t|zh|狐狸|tr=húlí|sc=Hani}}
 * [[Choctaw]]: {{tø|cho|chula}}
 * [[Chuvash]]: {{tø|cv|тилӗ|tr=tilĕ|sc=Cyrl}}
@@ -115,7 +115,7 @@
 *: Ancient: {{tø|grc|ἀλώπηξ|f|tr=alōpēx|sc=polytonic|xs=Ancient Greek}}, {{tø|grc|ἀλωπός|m|tr=alōpos|sc=polytonic|xs=Ancient Greek}}
 * Hebrew: [[שועל|שׁוּעָל]] (šu‘al) {{m}}
 * [[Hiligaynon]]: {{tø|hil|sora}}
-* Hindi: {{t-|hi|लोमड़ी|xs=Hindi}}, {{t|hi|लोमड़ी|f|tr=lomaṛī|sc=Deva}}
+* Hindi: {{t-|hi|लोमड़ी|f|tr=lomaṛī|sc=Deva}}
 * [[Hopi]]: {{tø|hop|leetayo}}
 * Hungarian: {{t+|hu|róka}}
 * Icelandic: {{t+|is|refur|m}}, {{t+|is|tófa|f}}
@@ -123,13 +123,13 @@
 * [[Inuktitut]]: [[ᑎᕆᒐᓐᓂᐊᖅ]] (tiriganniaq)
 * Irish: {{t+|ga|sionnach|m|xs=Irish}}, {{t-|ga|madra rua|m|xs=Irish}}
 * Italian: {{t+|it|volpe|f}}
-* Japanese: [[狐]] ([[きつね]], [[kitsune]]), {{t|ja|狐|tr=きつね, kitsune|sc=Jpan}}, {{t|ja|キツネ|tr=kitsune|sc=Jpan}}
+* Japanese: {{t|ja|狐|tr=[[きつね]], kitsune|sc=Jpan}}, {{t|ja|キツネ|tr=kitsune|sc=Jpan}}
 * [[Karachay-Balkar]]: {{tø|krc|тюлкю|tr=tülkü|sc=Cyrl}}
 * Kazakh: {{t-|kk|түлкі|tr=tülki|sc=Cyrl|xs=Kazakh}}
 * [[Khakas]]: {{tø|kjh|тӱлгӱ|tr=tülgü|sc=Cyrl}}
 * {{trreq|Khmer}}
 * [[Klamath-Modoc]]: [[w̓an]]
-* Korean: [[여우]] (yeou), {{t|ko|여우|tr=yeou|sc=Kore}}
+* Korean: {{t|ko|여우|tr=yeou|sc=Kore}}
 * [[Kumyk]]: {{tø|kum|тюлкю|tr=tülkü|sc=Cyrl}}
 * Kurdish: {{t+|ku|رێوی|sc=ku-Arab}}
 * [[Kyrgyz]]: {{t+|ky|түлкү|tr=tülkü|sc=Cyrl|xs=Kyrgyz}}
@@ -142,7 +142,7 @@
 {{trans-mid}}
 * Lithuanian: {{t+|lt|lapė|f|xs=Lithuanian}}, {{t+|lt|lapinas|m|xs=Lithuanian}}
 * [[Lower Sorbian]]: [[liška]] {{f}}
-* [[Macedonian]]: [[лисица]] (lisica) {{f}}
+* [[Macedonian]]: {{t|mk|лисица|f|tr=lisica}}
 * Maltese: {{t-|mt|volpi|f|xs=Maltese}}
 * [[Manx]]: {{t-|gv|shynnagh|xs=Manx}}
 * [[Marathi]]: {{t|mr|कोल्हा|tr=kolhā|sc=Deva|xs=Marathi}}
@@ -184,8 +184,8 @@
 * [[Seri]]: [[χæːs]]
 * [[Shor]]: {{tø|cjs|тӱлгӱ|tr=tülgü|sc=Cyrl}}
 * [[Sicilian]]: {{t+|scn|vurpi|f|xs=Sicilian}}
-* Slovak: [[líška]] {{f}}
-* Slovene: [[lisica]] {{f}}, [[lisjak]] {{m}}
+* Slovak: {{t|sk|líška|f}}
+* Slovene:  {{t|sl|lisica|f}}, {{t|sl|lisjak|m}}
 * [[Southern Altai]]: {{tø|alt|тӱлкӱ|tr=tülkü|sc=Cyrl}}
 * Spanish: {{t+|es|zorro|m}}, {{t+|es|zorra|f}}
 * [[Sumerian]]: [[ka₅]]{{rfscript|Sumerian}}
@@ -201,9 +201,9 @@
 * Turkish: {{t+|tr|tilki}}
 * [[Turkmen]]: {{t-|tk|tilki|xs=Turkmen}}
 * [[Tuvan]]: {{tø|tyv|дилги|tr=dilgi|sc=Cyrl}}
-* Ukrainian: [[лис]] (lys) {{m}}, [[лисиця]] (lysytsja) {{f}}, {{t|uk|лис|m|tr=lys|sc=Cyrl}}, {{t|uk|лисиця|f|tr=lysýcja|sc=Cyrl}}
+* Ukrainian: {{t|uk|лис|m|tr=lys|sc=Cyrl}}, {{t|uk|лисиця|f|tr=lysýcja|sc=Cyrl}}
 * [[Upper Sorbian]]: [[liška]] {{f}}
-* Urdu: {{t|ur|لومڑی|sc=ur-Arab}}, {{t|ur|لومڑی|f|tr=lomaṛī|sc=ur-Arab}}
+* Urdu: {{t|ur|لومڑی|f|tr=lomaṛī|sc=ur-Arab}}
 * [[Uyghur]]: {{t|ug|تۈلكە|tr=tülke|sc=ug-Arab}}
 * Uzbek: {{t|uz|tulki|xs=Uzbek}}
 * Vietnamese: {{t+|vi|cáo|xs=Vietnamese}}
