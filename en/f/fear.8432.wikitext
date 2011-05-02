@@ -1,9 +1,6 @@
 {{also|fear-}}
 ==English==
 
-===Etymology===
-{{etyl|ang}} {{term|fær|fǣr|peril, danger|lang=ang}} (noun), {{term|færan|fǣran|to frighten}} (verb).
-
 ===Pronunciation===
 * {{a|Australia}} {{IPA|/fiə/}}, {{SAMPA|/fi@/}}
 * {{a|UK}} {{IPA|/fɪə/}}, {{SAMPA|/fI@/}}
@@ -11,7 +8,10 @@
 * {{audio|en-us-fear.ogg|Audio (US)}}
 * {{rhymes|ɪə(r)}}
 
-===Noun===
+===Etymology 1===
+From {{etyl|enm}} {{term|feer|lang=enm}}, {{term|fere|lang=enm}}, {{term|fer|lang=enm}}, from {{etyl|ang}} {{term|fær|fǣr|lang=ang}}, {{term|gefær|ġefǣr|calamity, sudden danger, peril, sudden attack, terrible sight|lang=ang}}, from {{proto|Germanic|fēran|danger|lang=en}}, from {{proto|Indo-European|per-|to attempt, try, research, risk|lang=en}}. Cognate with {{etyl|nl|-}} {{term|gevaar||danger, risk, peril|lang=nl}}, {{etyl|de|-}} {{term|Gefahr||danger, risk, hazard|lang=de}}, {{etyl|sv|-}} {{term|fara||danger, risk, peril|lang=sv}}, {{etyl|la|-}} {{term|periculum|perīculum|danger, risk, trial|lang=la}}.
+
+====Noun====
 {{en-noun|s|-}}
 
 # {{uncountable}} A strong, uncontrollable, unpleasant [[emotion]] caused by actual or perceived danger or threat.
@@ -21,13 +21,13 @@
 #: ''I have a '''fear''' of [[ant]]s.''
 # {{uncountable}} Extreme [[veneration]] or [[awe]], as toward a supreme being or deity.
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|uncountable: unpleasant emotion caused by actual or perceived danger}} [[dread#Noun|dread]], [[terror]], [[fright]]
 * {{sense|countable: sense of fear induced by something or someone}} [[dread#Noun|dread]], [[phobia]], [[scare#Noun|scare]], [[anxiety]], [[apprehension]]
 * {{sense|extreme veneration}} [[awe]], [[reverence]], [[veneration]]
 * See also [[Wikisaurus:fear]]
 
-====Derived terms====
+=====Derived terms=====
 * [[affear]]
 * [[fearful]]
 * [[fearless]]
@@ -35,7 +35,7 @@
 * [[fearnaught]]
 * [[fearsome]]
 
-====Translations====
+=====Translations=====
 {{trans-top|uncountable: emotion caused by actual or perceived danger or threat}}
 * Arabic: {{t|ar|خوف|m|tr=khawf}}
 * Armenian: {{t-|hy|վախ|tr=vax}}, {{t-|hy|երկյուղ|tr=erkyuġ}}, {{t-|hy|ահ|tr=ah}}
@@ -182,7 +182,10 @@
 * {{ttbc|te}}: [[భయం]]
 {{trans-bottom}}
 
-===Verb===
+===Etymology 2===
+From {{etyl|enm}} {{term|feren|lang=enm}}, from {{etyl|ang}} {{term|færan|fǣran|to frighten, raven|lang=ang}}, from {{etyl|ang}} {{term|fær|fǣr|lang=ang}}, {{term|gefær|ġefǣr|calamity, sudden danger, peril, sudden attack, terrible sight|lang=ang}}. See above.
+
+====Verb====
 {{en-verb}}
 
 # {{obsolete|transitive}} To cause fear to; to [[frighten]].
@@ -195,16 +198,16 @@
 # {{transitive}} Regret
 #: ''I '''fear''' ''[regret that]'' I have bad news for you: your husband has died.''
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|feel fear about (something)}} be [[afraid]] of, be [[frightened]] of, be [[scared]] of, be [[terrorise]]d/[[terrorize]]d be
 * {{sense|venerate}} be in awe of, [[revere]], [[venerate]]
 
-====Derived terms====
+=====Derived terms=====
 * [[fear not]]
 * [[God-fearing]]
 * [[never fear]]
 
-====Translations====
+=====Translations=====
 {{trans-top|feel fear about (something)}}
 * Albanian: [[ka]] [[frikë]]
 * Arabic: {{t|ar|خاف|tr=khaafa}}
@@ -274,6 +277,18 @@
 * Malay: {{t-|ms|takut|xs=Malay}}
 * Portuguese: {{t|pt|temer}}
 {{trans-bottom}}
+
+===Etymology 3===
+From {{etyl|enm}} {{term|fere|lang=enm}}, {{term|feore|lang=enm}}, from {{etyl|ang}} {{term|fere|fēre|able to go, fit for service|lang=ang}}, from {{proto|Germanic|fōriz||fōrjaz|passable|lang=en}}, from {{proto|Indo-European|per-|to put across, ferry|lang=en}}. Cognate with {{etyl|gmh|-}} {{term|gevüere||able, capable, fit, serviceable|lang=gmh}}, {{etyl|sv|-}} {{term|för||capable, able, stout|lang=sv}}, {{etyl|is|-}} {{term|færr||able|lang=is}}. Related to {{l|en|fare}}.
+
+====Alternative forms====
+* {{l|en|feer}}
+
+====Adjective====
+{{en-adj}}
+
+# {{dialectal}} [[able|Able]]; [[capable]]; [[stout]]; [[strong]]; [[sound]].
+#: ''hale and '''fear'''''
 
 ===Statistics===
 * {{rank|possible|mark|followed|426|fear|evening|ground|understand}}
