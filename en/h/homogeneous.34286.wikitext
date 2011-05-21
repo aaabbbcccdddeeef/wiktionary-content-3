@@ -17,7 +17,7 @@ From {{etyl|ML.}} {{term|homogeneus|lang=la}} < {{etyl|grc|en}} {{term|ὁμογ
 # {{chemistry}} in the same [[state of matter]].
 # {{mathematics}} Of which the properties of a smaller set apply to the whole; [[scalable]].
 ## {{mathematics}} A function is homogeneous of degree-''k'' if scaling all arguments by α scales the output by α<sup>''k''</sup>.
-##: The function ''f(x)=x<sup>2</sup>'' is homogeneous of degree 2 because ''f(''α''x)=''α''<sup>2</sup>f(x)''.
+##: The function ''f(x,y)=x<sup>2</sup>+y<sup>2</sup>'' is homogeneous of degree 2 because ''f(''α''x,''α''y)=''α''<sup>2</sup>f(x,y)''.
 
 ====Antonyms====
 * [[heterogeneous]]
