@@ -3,19 +3,19 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro|en}} {{term|papier||lang=fro}}, from {{etyl|la}} {{term|papyrus||lang=la}}, from {{etyl|grc}} {{term|πάπυρος||lang=grc|tr=papyros}}.
+From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro}} {{term|papier||lang=fro}}, from {{etyl|la}} {{term|papyrus||lang=la}}, from {{etyl|grc}} {{term|πάπυρος||lang=grc|tr=papyros|sc=polytonic}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/ˈpeɪpə/}}
 * {{a|US}} {{IPA|/ˈpeɪpɚ/}}
 * {{audio|en-us-paper.ogg|Audio (US)}}
 * {{audio|En-uk-paper.ogg|Audio (UK)}}
-*: {{rhymes|eɪpə(r)}}
+* {{rhymes|eɪpə(r)}}
 
 ===Noun===
 {{en-noun|s|-}}
 
-# A sheet material used for [[write|writing]] on or [[print]]ing on (or as a non-waterproof container), usually made by  draining [[cellulose]] fibres from a suspension in water.
+# A sheet material used for [[write|writing]] on or [[print]]ing on (or as a non-waterproof container), usually made by draining [[cellulose]] fibres from a suspension in water.
 # A [[newspaper]] or anything used as such (such as a newsletter or listing magazine).
 # {{uncountable}} [[wallpaper|Wallpaper]].
 # {{uncountable}} [[wrapping paper|Wrapping paper]].
@@ -115,7 +115,7 @@ From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro|en}} {{term|papier||l
 * [[Basque]]: {{t-|eu|paper|xs=Basque}}
 * Belarusian: {{t|be|папера|f|tr=papéra|xs=Belarusian}}
 * Bosnian: [[papir]] {{m}}, [[hartija]] {{f}} ("arch." and "poetic")
-* [[Breton]]: paper {{m}}, -où {{p}}<!-- [[paperenn]] {{f}}, -où ''(a sheet of paper)''-->
+* [[Breton]]: paper {{m}}, -où {{p}}<!-- [[paperenn]] {{f}}, -où {{qualifier|a sheet of paper}}-->
 * Bulgarian: {{t-|bg|хартия|f|tr=hartija}}
 * Burmese: {{t|my|စက္ကူ|tr=se' ku|sc=Mymr}}
 * [[Catalan]]: {{t|ca|paper|m}}
@@ -188,7 +188,7 @@ From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro|en}} {{term|papier||l
 * Slovene: {{t+|sl|papir|m}}
 * Somali: {{t|so|xaansho}}
 * Spanish: {{t+|es|papel|m}}
-* Swahili: {{t+|sw|karatasi|xs=Swahili}},  {{t+|sw|karatasi|xs=Swahili}}
+* Swahili: {{t+|sw|karatasi|xs=Swahili}}, {{t+|sw|karatasi|xs=Swahili}}
 * Swedish: {{t+|sv|papper|n}}
 * [[Tagalog]]: {{t|tl|papel}}
 * {{trreq|ty}}
@@ -251,7 +251,7 @@ From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro|en}} {{term|papier||l
 * Czech: {{t-|cs|článek|m}}
 * Finnish: {{t-|fi|tutkielma}}, {{t+|fi|tutkimus}}, {{t+|fi|artikkeli}}, {{t-|fi|esitelmä}}
 * Indonesian: karangan, tesis, naskah
-* Italian: {{t+|it|articolo|m}},  {{t+|it|pubblicazione|f}}, {{t|it|saggio|m}}, {{t|it|studio|m}}, {{t|it|ricerca|f}}
+* Italian: {{t+|it|articolo|m}}, {{t+|it|pubblicazione|f}}, {{t|it|saggio|m}}, {{t|it|studio|m}}, {{t|it|ricerca|f}}
 {{trans-mid}}
 * Japanese: {{t|ja|論文|tr=[[ろんぶん]], ronbun}}
 * [[Macedonian]]: {{t|mk|статија|f|tr=státija}}
@@ -312,7 +312,7 @@ From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro|en}} {{term|papier||l
 {{trans-top|to apply paper to}}
 * [[Catalan]]: {{t|ca|empaperar}}
 * Dutch: {{t+|nl|behangen}}
-* Finnish: {{t+|fi|paperoida}} (''general''), {{t+|fi|tapetoida}} (''with wallpaper'')
+* Finnish: {{t+|fi|paperoida}} {{qualifier|general}}, {{t+|fi|tapetoida}} {{qualifier|with wallpaper}}
 {{trans-mid}}
 * Indonesian: - menempeli (to wallpaper)
 * Welsh: {{t|cy|papuro|xs=Welsh}}
@@ -335,6 +335,28 @@ From {{etyl|xno}} {{term|paper|lang=xno}}, from {{etyl|fro|en}} {{term|papier||l
 
 # {{l|en|paper}}
 # [[role]]
+
+----
+
+==Anglo-Norman==
+
+===Alternative forms===
+* {{l|xno|papere}}
+* {{l|xno|papir}}
+* {{l|xno|papire}}
+
+===Noun===
+{{xno-noun|m}}
+
+# [[reed]] {{gloss|plant}}
+# [[paper]] {{gloss|thin white substance}}
+# [[document]]
+
+====Descendants====
+* English: {{l|en|paper}}
+
+===References===
+* {{R:Anglo-Norman On-Line Hub}}
 
 [[ar:paper]]
 [[zh-min-nan:paper]]
