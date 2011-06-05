@@ -20,16 +20,18 @@ From {{etyl|fro}}, from {{etyl|ML.}} {{term|lang=la|rata}}, from {{etyl|la}} {{t
 #*: There shall no figure at such '''rate''' be set, / As that of true and faithfull Iuliet.
 # The proportional relationship between one [[amount]], value etc. and another. {{defdate|from 15th c.}}
 #: ''At the height of his powers, he was producing pictures at the '''rate''' of four a year.''
-# The price of (an individual) thing; [[cost]]. {{defdate|from 16th c.}}
-#: ''He asked quite a '''rate''' to take me to the airport.''
-# A set [[price]] or [[charge]] for all examples of a given case, commodity, service etc. {{defdate|from 16th c.}}
-#: ''Postal '''rates''' here are low.''
-# Any of various [[tax]]es, especially those levied by a local authority. {{defdate|from 17th c.}}
-#: ''I hardly have enough left every month to pay the '''rates'''.''
 # [[speed|Speed]]. {{defdate|from 17th c.}}
 #: ''The car was speeding down here at a hell of a '''rate'''.''
 # The relative speed of change or progress. {{defdate|from 18th c.}}
 #: ''The '''rate''' of production at the factory is skyrocketing.''
+# The price of (an individual) thing; [[cost]]. {{defdate|from 16th c.}}
+#: ''He asked quite a '''rate''' to take me to the airport.''
+# A set [[price]] or [[charge]] for all examples of a given case, commodity, service etc. {{defdate|from 16th c.}}
+#: ''Postal '''rates''' here are low.''
+# A [[wage]] calculated in relation to a unit of time.
+#: ''We pay an hourly '''rate''' of between $10 – $15 per hour depending on qualifications and experience.''
+# Any of various [[tax]]es, especially those levied by a local authority. {{defdate|from 17th c.}}
+#: ''I hardly have enough left every month to pay the '''rates'''.''
 # {{nautical}} A [[class]] into which [[ship]]s were assigned based on condition, size etc.; by extension, [[rank]].
 #: ''This textbook is first '''rate'''''.
 
@@ -46,7 +48,7 @@ From {{etyl|fro}}, from {{etyl|ML.}} {{term|lang=la|rata}}, from {{etyl|la}} {{t
 {{trans-top|proportional relationship between amounts}}
 * Arabic: {{t|ar|معدل|m|tr=mu3addal}}
 * Chinese: {{t-|cmn|比率|tr=bǐlǜ|sc=Hani}}
-* Finnish: {{t+|fi|vauhti}}
+* Finnish: {{t|fi|tahti}}, {{t|fi|suhde}}
 * French: {{t+|fr|taux}}
 * German: {{t+|de|Rate|f}}
 * Italian: {{t+|it|tasso}}
@@ -60,25 +62,9 @@ From {{etyl|fro}}, from {{etyl|ML.}} {{term|lang=la|rata}}, from {{etyl|la}} {{t
 * Spanish: {{t+|es|tasa|f}}
 {{trans-bottom}}
 
-{{trans-top|set price or fee determined in relation to a particular scale or standard}}
-* Czech: {{t-|cs|sazba|f}}
-* Japanese: {{t|ja|割合|tr=wariai}}; {{qualifier|fee}} {{t|ja|利率|tr=riritsu}}
-{{trans-mid}}
-* Polish: {{t|pl|stawka|f}}
-* Russian: {{t+|ru|ставка|f|tr=stávka}}, {{t+|ru|процент|m|tr=procént}}
-{{trans-bottom}}
+{{trans-see|speed}}
 
-{{trans-top|price of individual thing}}
-* Finnish: {{t+|fi|maksu}}
-* German: {{t+|de|Rate|f}}
-* Japanese: {{t-|ja|比率|tr=hiritsu}}, {{t|ja|割合|tr=wariai}}
-{{trans-mid}}
-* Polish: {{t|pl|taryfa|f}}
-* Russian: {{t+|ru|тариф|tr=taríf}}, {{t+|ru|расценка|f|tr=rascénka}}, {{t+|ru|цена|f|tr=cená}}
-* Spanish: {{t+|es|impuesto}}
-{{trans-bottom}}
-
-{{trans-top|relative speed}}
+{trans-top|relative speed of change or progress}}
 * Finnish: {{t+|fi|vauhti}}
 * German: {{t+|de|Rate|f}}
 * Japanese: {{t|ja|割合|tr=wariai}}; {{qualifier|production speed}} {{t|ja|生産速度|tr=sēsan sokudo}}; {{qualifier|growth of a company, country}} {{t|ja|成長率|tr=seichōritsu}}
@@ -87,15 +73,39 @@ From {{etyl|fro}}, from {{etyl|ML.}} {{term|lang=la|rata}}, from {{etyl|la}} {{t
 * Spanish: {{t+|es|velocidad|f}}
 {{trans-bottom}}
 
-{{trans-top|wages calculated in relation to a unit of time}}
+{{trans-top|price of individual thing}}
+* Finnish: {{t+|fi|hinta}}
+* German: {{t+|de|Rate|f}}
+* Japanese: {{t-|ja|比率|tr=hiritsu}}, {{t|ja|割合|tr=wariai}}
+{{trans-mid}}
+* Polish: {{t|pl|taryfa|f}}
+* Russian: {{t+|ru|тариф|tr=taríf}}, {{t+|ru|расценка|f|tr=rascénka}}, {{t+|ru|цена|f|tr=cená}}
+* Spanish: {{t+|es|impuesto}}
+{{trans-bottom}}
+
+{{trans-top|set price or fee determined in relation to a particular scale or standard}}
+* Czech: {{t-|cs|sazba|f}}
+* Finnish: {{t|fi|taksa}}, {{t|fi|yksikköhinta}}
+* Japanese: {{t|ja|割合|tr=wariai}}; {{qualifier|fee}} {{t|ja|利率|tr=riritsu}}
+{{trans-mid}}
+* Polish: {{t|pl|stawka|f}}
+* Russian: {{t+|ru|ставка|f|tr=stávka}}, {{t+|ru|процент|m|tr=procént}}
+{{trans-bottom}}
+
+{trans-top|wage calculated in relation to a unit of time}}
 * Dutch: {{t+|nl|tarief|n}}
-* Finnish: {{t-|fi|tuntipalkka}}, {{t-|fi|kuukausipalkka}}, {{t+|fi|palkka}}
+* Finnish: {{t-|fi|tuntipalkka}}, {{t-|fi|kuukausipalkka}}, {{t|fi|aikapalkka}}
 {{trans-mid}}
 * Japanese: {{t|ja|割合|tr=wariai}}; {{qualifier|per hour}} {{t|ja|時給|tr=jikyū}}; {{qualifier|per day}} {{t|ja|日給|tr=nikkyū}}; {{qualifier|per month}} {{t-|ja|月給|tr=gekkyū}}; {{qualifier|per year}} {{t|ja|年収|tr=nenshū}}
 {{trans-bottom}}
 
-{{trans-top|level of quality}}
-* Finnish: {{t+|fi|laatu}}, {{t|fi|laatutaso}}, {{t+|fi|luokka}}
+{{trans-top|tax levied by a local authority}}
+* Finnish: [[kunnan#Finnish|kunnan]] {{t|fi|vero}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{{trans-top|level of quality, rank}}
+* Finnish: {{t+|fi|luokka}}
 {{trans-mid}}
 * Japanese: {{t+|ja|級|tr=kyū}}
 {{trans-bottom}}
