@@ -280,7 +280,7 @@ The oldest sense of the word is "rope, cord, thread"; from this the senses "path
 * Polish: {{t+|pl|lina|f}}
 * Portuguese: {{t+|pt|fio|m}}, {{t+|pt|linha|f}}
 * Romanian: {{t|ro|funie|f}}, {{t|ro|frânghie|f}}, {{t|ro|sfoară|f}}, {{t|ro|șnur|n}}, {{t|ro|ață|f}}
-* Russian: [[верёвка]] (v'er'óvka) {{f}}, [[шнур]] (šnur) {{m}}, [[линь]] (lin') {{m}}, [[леска]] (léska) {{f}}
+* Russian: {{t|ru|верёвка|f|tr=verjóvka}}, {{t|ru|шнур|m|tr=šnur}}, {{t|ru|линь|m|tr=lin'}}, {{t|ru|леска|f|tr=léska}} (''for fishing'')
 * Spanish: {{t+|es|hilo|m}}, {{t+|es|línea|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 * Swedish: {{t+|sv|lina|c}}
@@ -288,9 +288,10 @@ The oldest sense of the word is "rope, cord, thread"; from this the senses "path
 
 {{trans-top|path through two or more points, threadlike mark}}
 * [[Afrikaans]]: [[lyn]]
-* Arabic: {{Arab|[[خط]]}} {{IPAchar|(xaṭṭ)}} {{m}}
+* Arabic: {{t|ar|خط|tr=xaṭṭ|sc=Arab}}
 * [[Chamicuro]]: {{tø|ccc|yis̈hna}}
-* Chinese: [[直線]], [[直线]] (zhíxiàn)
+* Chinese:
+*: Mandarin: {{t|zh|直線|sc=Hani}}, {{t|zh|直线|tr=zhíxiàn|sc=Hani}}
 * Czech: {{t-|cs|čára|f}}
 * Dutch: {{t-|nl|rechte|f}}, {{t+|nl|lijn|f}}, {{t+|nl|streep|f}}
 * [[Ewe]]: [[fli]] {{n}}
@@ -302,14 +303,14 @@ The oldest sense of the word is "rope, cord, thread"; from this the senses "path
 * Irish: {{t-|ga|líne|f|xs=Irish}}
 * Italian: {{t+|it|linea|f}}, {{t|it|riga|f}}
 {{trans-mid}}
-* Japanese: [[線]] (せん, sen)
-* Korean: [[줄]] (jul)
+* Japanese: {{t|ja|線|tr=せん, sen|sc=Jpan}}
+* Korean: {{t|ko|줄|tr=jul|sc=Kore}}
 * [[Luhya]]: {{tø|luy|elaini}}
 * [[Manx]]: {{t|gv|linney|f}}
-* Persian: {{t+|fa|خط|xs=Persian}}
+* Persian: {{t+|fa|خط|tr=xat|xs=Persian}}
 * Polish: {{t+|pl|linia|f}}
 * Portuguese: {{t+|pt|linha|f}}, {{t+|pt|risco|m}}, {{t+|pt|traço|m}}
-* Russian: {{t+|ru|линия|f|tr=línija}}, {{t+|ru|черта|f|tr=čertá}}, {{t+|ru|штрих|m|tr=štriχ}}
+* Russian: {{t+|ru|линия|f|tr=línija}}, {{t+|ru|черта|f|tr=čertá}}, {{t+|ru|штрих|m|tr=štrix}}
 * [[Scottish Gaelic]]: {{t-|gd|loidhne|f|xs=Scottish Gaelic}}
 * Spanish: {{t+|es|línea|f}}, {{t-|es|rasgo|m}}, {{t-|es|trazo|m}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
@@ -351,7 +352,7 @@ The oldest sense of the word is "rope, cord, thread"; from this the senses "path
 {{trans-mid}}
 * Portuguese: {{t+|pt|segmento|m}}
 * Romanian: {{t|ro|segment (de dreaptă)|n}}
-* Russian: {{t+|ru|отрезок|m|tr=otr'ézok}}
+* Russian: {{t+|ru|отрезок|m|tr=otrézok}}
 * Spanish: {{t+|es|segmento|m}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 * Swedish: {{t+|sv|linje|c}}
@@ -367,7 +368,7 @@ The oldest sense of the word is "rope, cord, thread"; from this the senses "path
 * Polish: {{t+|pl|krawędź|f}}
 * Portuguese: {{t+|pt|aresta|f}}
 * Romanian: {{t|ro|muchie|f}}, {{t|ro|cant|n}}
-* Russian: {{t+|ru|ребро|n|tr=r'ebró}}
+* Russian: {{t+|ru|ребро|n|tr=rebró}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 {{trans-bottom}}
 
@@ -401,7 +402,7 @@ The oldest sense of the word is "rope, cord, thread"; from this the senses "path
 * Polish: {{t+|pl|linia|f}}
 {{trans-mid}}
 * Romanian: {{t|ro|linie (de portativ)|f}}
-* Russian: {{t+|ru|линейка|f|tr=lin'éjka}}
+* Russian: {{t+|ru|линейка|f|tr=linéjka}}
 * Spanish: {{t+|es|línea|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 {{trans-bottom}}
@@ -414,7 +415,7 @@ The oldest sense of the word is "rope, cord, thread"; from this the senses "path
 * Polish: {{t+|pl|miara|f}}, {{t+|pl|metr|m}}
 {{trans-mid}}
 * Romanian: {{t|ro|metru (de măsură)|m}}
-* Russian: {{t+|ru|сантиметр|m|tr=santim'étr}}, {{t+|ru|рулетка|f|tr=rul'étka}}
+* Russian: {{t+|ru|сантиметр|m|tr=santimétr}}, {{t+|ru|рулетка|f|tr=rulétka}}
 * Spanish: {{t|es|cinta métrica|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
 {{trans-bottom}}
@@ -450,7 +451,7 @@ The oldest sense of the word is "rope, cord, thread"; from this the senses "path
 * Irish: {{t|ga|líne|f}}
 * Italian: {{t+|it|linea|f}}
 * Romanian: {{t|ro|linie}}
-* Russian: [[линия связи]] (línija sv'ázi) {{f}}, [[линия]] (línija) {{f}}
+* Russian: {{t|ru|линия связи|f|tr=línija svjázi}}, {{t+|ru|линия|f|tr=línija}}
 * [[Scottish Gaelic]]: {{t-|gd|loidhne|f|xs=Scottish Gaelic}}
 * Spanish: {{t+|es|línea|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
@@ -525,8 +526,9 @@ The oldest sense of the word is "rope, cord, thread"; from this the senses "path
 
 {{trans-top|straight sequence of people, queue}}
 * [[Afrikaans]]: [[lyn]], [[ry]]
-* Arabic: {{Arab|[[صف]]}} (ṣaff) {{m}}
-* Chinese: [[排隊]] [[排队]] (páiduì)
+* Arabic: {{t|ar|صف|m|tr=ṣaff|sc=Arab}}
+* Chinese:
+*: Mandarin: {{t|zh|排隊|sc=Hani}}, {{t|zh|排队|tr=páiduì|sc=Hani}}
 * Dutch: {{t+|nl|rij|f}}, {{t+|nl|file|f}}, {{t+|nl|lijn|f}}
 * [[Ewe]]: [[fli]] {{n}}
 * Finnish: {{t+|fi|jono}}, {{t+|fi|rivi}}
@@ -540,7 +542,7 @@ The oldest sense of the word is "rope, cord, thread"; from this the senses "path
 * [[Luhya]]: {{tø|luy|elaini}}
 * Polish: {{t+|pl|kolejka|f}}; {{t+|pl|szereg|m}}, {{t+|pl|rząd|m}}
 * Portuguese: {{t+|pt|fila|f}}
-* Russian: {{t+|ru|очередь|f|tr=óčer'ed'}}; {{t+|ru|шеренга|f|tr=šer'énga}}
+* Russian: {{t+|ru|очередь|f|tr=óčered'}} (''queue''); {{t+|ru|шеренга|f|tr=šerénga}} (''file'')
 * [[Scottish Gaelic]]: {{t-|gd|loidhne|f|xs=Scottish Gaelic}}
 * Spanish: {{t+|es|fila|f}}, {{t-|es|hilera|f}}, {{t+|es|cola|f}}
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
@@ -569,7 +571,9 @@ The oldest sense of the word is "rope, cord, thread"; from this the senses "path
 {{trans-top|single horizontal row of text on a screen, printed paper, etc.}}
 * [[Afrikaans]]: [[lyn]]
 * Armenian: {{t-|hy|տող|tr=toġ}}
-* Chinese characters: [[排]]
+* Chinese:
+* CJKV characters: [[排]]
+*: Mandarin: {{t|zh|行|tr=háng|sc=Hani}}
 * Czech: {{t-|cs|řádek|m}}
 * Dutch: {{t+|nl|regel|m}}, {{t+|nl|lijn|f}}
 * [[Ewe]]: [[fli]] {{n}}
@@ -580,10 +584,10 @@ The oldest sense of the word is "rope, cord, thread"; from this the senses "path
 * Irish: {{t|ga|líne|f}}
 {{trans-mid}}
 * Italian: {{t+|it|riga|f}}
-* Japanese: {{t+|ja|行}}
+* Japanese: {{t+|ja|行|tr=ぎょう, gyō}}
 * Polish: {{t+|pl|wiersz|m}}, {{t+|pl|wers|m}}
 * Portuguese: {{t+|pt|linha|f}}
-* Russian: {{t+|ru|строка|f|tr=stroká}}
+* Russian: {{t+|ru|строка|f|tr=stroká}}, {{t|ru|строчка|f|tr=stróčka}}
 * [[Scottish Gaelic]]: {{t-|gd|loidhne|f|xs=Scottish Gaelic}}
 * Spanish: {{t|es|renglón|m}}, {{t+|es|línea|f}}, {{t-|es|verso|m}} (in poetry)
 * Swahili: {{t+|sw|mstari|xs=Swahili}}
