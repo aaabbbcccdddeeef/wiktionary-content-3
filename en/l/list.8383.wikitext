@@ -43,7 +43,7 @@ From {{etyl|enm}} {{term|liste||roll of names, contestants in the lists|lang=enm
 
 # A register or roll of paper consisting of an enumeration or [[compilation]] of a set of possible [[item]]s.
 # {{computing}} A codified representation of a list, used to store data or in processing.
-# {{programming|[[LISP]]}} A [[data structure]] that is fundamental to the LISP language. A list is defined [[recursion|recursively]]: it may be [[nil]] or it may consist of a header (the first element) and a tail (the remainder; the tail may be nil). Both header and tail are lists.
+# {{rfc-sense}} {{programming|[[LISP]]}} A [[data structure]] that is fundamental to the LISP language. A list is defined [[recursion|recursively]]: it may be [[nil]] or it may consist of a header (the first element) and a tail (the remainder; the tail may be nil). Both header and tail are lists.
 
 =====Synonyms=====
 * See also [[Wikisaurus:list]]
