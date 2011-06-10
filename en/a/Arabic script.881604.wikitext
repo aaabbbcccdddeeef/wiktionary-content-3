@@ -87,7 +87,7 @@
     <td>&nbsp;</td>
     </tr>
   <tr>
-    <td colspan=11 align="center" bgcolor="#cccccc">Some letters have an '''initial''', '''medial''' and '''final''' form.</td>
+    <td colspan=11 align="center" bgcolor="#cccccc"><small>Note: 24 letters have four different forms according to their position: ''Isolated, initial, medial, final''. '''ز''', '''ر''', '''ذ''', '''د''', '''ا''' and '''و''' have an identical initial and medial form, and cannot connect to the following letter (see ''Wikipedia: '''[[Arabic alphabet]]''')'' for more information. Arabic and derived scripts partly share this peculiarity with other [[abjad|abjads]] — see e.g. the Hebrew [[tsadi|ts]] ([[צ]]), which becomes [[ץ]] at the end of the word ''(called in that case [[סופית|sofiut]]: suffixes, endings)'', like four other letters.</small></td>
     </tr>
 </table>
 
@@ -111,6 +111,9 @@
 * Thai: {{t|th|อักษรอาหรับ|tr=àksŏn aaràp|sc=Thai}}
 * Vietnamese: {{t|vi|bảng chữ cái Ả Rập}}
 {{trans-bottom}}
+
+====See also====
+* '''[[abjad]]'''
 
 [[Category:Alphabets]]
 [[Category:Arabic alphabet]]
