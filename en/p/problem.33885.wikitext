@@ -30,12 +30,12 @@ From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|problema}}, from {
 ====Translations====
 {{trans-top|difficulty}}
 * Albanian: {{t|sq|çështje|xs=Albanian}},  {{t-|sq|problem|xs=Albanian}}
-* Arabic: {{Arab|[[مشكلة]]}} (múškila) {{f}}
+* Arabic: {{Arab|[[مشكلة]]}} (múškila) {{f}}, {{t|ar|مشكلة|f|tr=múškila|sc=Arab}}
 * Armenian: {{t-|hy|խնդիր|tr=xndir}}
 * [[Basque]]: {{t|eu|arazo|xs=Basque}}
 * Bengali: {{t|bn|প্রব্লেম|sc=Beng}}
 * Bosnian: {{t-|bs|problem|m}}
-* [[Breton]]: [[kudenn]] {{f}}
+* [[Breton]]: [[kudenn]] {{f}}, {{t|br|kudenn|f}}
 * [[Catalan]]: {{t-|ca|problema|m}}
 * [[Cebuano]]: [[kalisud]]
 * Chinese: {{zh-tsp|問題|问题|wèntí}}, {{zh-tsp|困難|困难|kùnnán}}, {{zh-tsp|難題|难题|nántí}}, {{zh-tsp|麻煩|麻烦|máfán}}
@@ -45,19 +45,19 @@ From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|problema}}, from {
 * Dutch: {{t+|nl|probleem|n}}
 * Esperanto: {{t-|eo|problemo|xs=Esperanto}}
 * Estonian: {{t+|et|küsimus}}, {{t|et|takistus}}, {{t|et|kitsikus}}, {{t-|et|mure}}, {{t-|et|probleem}}
-* Finnish: [[ongelma]], [[probleemi]] (''old slang'')
+* Finnish: [[ongelma]], [[probleemi]] (''old slang''), {{t|fi|ongelma}}, {{qualifier|old slang}} {{t|fi|probleemi}}
 * French: {{t+|fr|problème|m}}
 * Georgian: {{t|ka|პრობლემა|tr=problema|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Problem|n}}
-* Greek: [[πρόβλημα]] {{n}} (próvlima)
-* Hebrew: [[בעיה]] (b‘aya) {{f}}
+* Greek: [[πρόβλημα]] {{n}} (próvlima), {{t|el|πρόβλημα|n|tr=próvlima|sc=Grek}}
+* Hebrew: [[בעיה]] (b‘aya) {{f}}, {{t|he|בעיה|f|tr=b‘aya|sc=Hebr}}
 * [[Hiligaynon]]: {{tø|hil|palaligban|xs=Hiligaynon}}, {{tø|hil|problema|xs=Hiligaynon}}
 * {{trreq|hi}}
 * Hungarian: {{t+|hu|probléma}}, {{t+|hu|baj}}, {{t+|hu|gond}}
 * Italian: {{t+|it|problema|m}}
-* Japanese: [[問題]] (もんだい, mondai)
+* Japanese: [[問題]] (もんだい, mondai), {{t|ja|問題|tr=もんだい, mondai|sc=Jpan}}
 {{trans-mid}}
-* Korean: {{ko-inline|문제|munje}}
+* Korean: {{ko-inline|문제|munje}}, {{t|ko|문제|tr=munje|sc=Kore}}
 * Latvian: {{t-|lv|problēma|f|xs=Latvian}}
 * Lithuanian: {{t-|lt|problema|f|xs=Lithuanian}}
 * Mongolian: {{t|mn|хүндрэл|tr=hündrel|sc=Cyrl|xs=Mongolian}}
@@ -76,7 +76,7 @@ From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|problema}}, from {
 * Swahili: {{t+|sw|tatizo|xs=Swahili}},  {{t+|sw|masaibu|xs=Swahili}}
 * Swedish: {{t+|sv|problem|n}}
 * [[Tagalog]]: {{t-|tl|problema|xs=Tagalog}}
-* Thai: {{Thai|[[ปัญหา]]}} (bpanhăa)
+* Thai: {{Thai|[[ปัญหา]]}} (bpanhăa), {{t|th|ปัญหา|tr=bpanhăa|sc=Thai}}
 * Turkish: {{t+|tr|sorun}}
 * Vietnamese: {{t|vi|vấn đề|xs=Vietnamese}}
 * Welsh: {{t|cy|problem|f}}
@@ -85,10 +85,10 @@ From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|problema}}, from {
 {{trans-bottom}}
 
 {{trans-top|schoolwork exercise}}
-* Armenian: [[խնդիր]] (xndir), [[հարց]] (harc')
+* Armenian: [[խնդիր]] (xndir), [[հարց]] (harc'), {{t|hy|խնդիր|tr=xndir|sc=Armn}}, {{t|hy|հարց|tr=harc'|sc=Armn}}
 * [[Basque]]: {{t|eu|buruketa|xs=Basque}}
 * Bosnian: {{t-|bs|problem|m}}
-* [[Breton]]: [[poelladenn]] {{f}}
+* [[Breton]]: [[poelladenn]] {{f}}, {{t|br|poelladenn|f}}
 * [[Catalan]]: {{t-|ca|problema|m}}
 * Chinese: {{zh-tsp|題目|题目|tímù}}, {{zh-tsp|習題|习题|xítí}}
 * Croatian: {{t-|hr|problem|m}}
@@ -102,8 +102,8 @@ From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|problema}}, from {
 {{trans-mid}}
 * Hungarian: {{t+|hu|feladat}}
 * [[Interlingua]]: {{t|ia|problema}}
-* Korean: {{ko-inline|문제|munje}}
-* Latvian: [[uzdevums]] {{m}}
+* Korean: {{ko-inline|문제|munje}}, {{t|ko|문제|tr=munje|sc=Kore}}
+* Latvian: [[uzdevums]] {{m}}, {{t|lv|uzdevums|m}}
 * Norwegian: {{t+|no|oppgave|m}}
 * Polish: {{t+|pl|zadanie|n}}
 * Romanian: {{t|ro|problemă|f}}
@@ -113,7 +113,7 @@ From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|problema}}, from {
 *: Roman: {{t-|sr|problem|m}}
 * Spanish: {{t+|es|problema|m}}, {{t+|es|ejercicio|m}}
 * Swahili: {{t+|sw|masaibu|xs=Swahili}}
-* Thai: {{Thai|[[โจทย์]]}} (jòht)
+* Thai: {{Thai|[[โจทย์]]}} (jòht), {{t|th|โจทย์|tr=jòht|sc=Thai}}
 {{trans-bottom}}
 
 {{trans-top|puzzling circumstance}}
@@ -136,7 +136,7 @@ From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|problema}}, from {
 * Spanish: {{t+|es|problema|m}}, {{t-|es|embrollo|m}}, {{t-|es|lío|m}}, {{t+|es|bronca|f}} {{qualifier|Mexico}}
 * Swahili: {{t+|sw|tatizo|xs=Swahili}},  {{t+|sw|masaibu|xs=Swahili}}
 * [[Tagalog]]: {{t-|tl|problema|xs=Tagalog}}
-* Thai: {{Thai|[[เรื่อง]]}} (rêuang)
+* Thai: {{Thai|[[เรื่อง]]}} (rêuang), {{t|th|เรื่อง|tr=rêuang|sc=Thai}}
 {{trans-bottom}}
 
 {{checktrans-top}}
