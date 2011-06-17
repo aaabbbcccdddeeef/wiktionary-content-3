@@ -32,7 +32,7 @@
 * Albanian: [[i rëndësishëm]]
 * Arabic: {{t|ar|مهم|tr=muhim}}
 * {{trreq|arc}}
-* Armenian: [[կարևոր]] (karevor), {{t|hy|կարևոր|tr=karevor|sc=Armn}}
+* Armenian: {{t|hy|կարևոր|tr=karevor|sc=Armn}}
 * {{trreq|ban}}
 * [[Basque]]: [[garrantzitsu]]
 * Bulgarian: {{t+|bg|важен|m|tr=važen}}, {{t+|bg|важна|f|tr=važna}}, {{t+|bg|важно|n|tr=važno}}
@@ -40,7 +40,7 @@
 * [[Catalan]]: {{t+|ca|important}}
 * Chinese:
 *: Mandarin: {{t-|cmn|重要|tr=zhòngyào|sc=Hani}}
-* Croatian: {{t-|hr|važno}}
+* Croatian: {{t-|hr|važan}}
 * Czech: {{t+|cs|důležitý|m}}
 * Danish: {{t|da|vigtig}}
 * Dutch: {{t+|nl|belangrijk}}
@@ -61,12 +61,12 @@
 * Italian: {{t+|it|importante}}
 * Japanese: {{t|ja|重要|tr=じゅうような, jūyō-na|alt=重要な}}, {{t|ja|大切|tr=たいせつな, taisetsu-na|alt=大切な}}
 * [[Kannada]]: [[ಮುಖ್ಯ]] (mukhya)
-* [[Khmer]]: {{Khmr|[[សំខាន់]]}} (somkən), {{t|km|សំខាន់|tr=somkən|sc=Khmr}}
+* [[Khmer]]: {{t|km|សំខាន់|tr=somkən|sc=Khmr}}
 * Korean: {{t|ko|중요한|tr=jungyohan|sc=Hang}}
 * Kurdish:
 *: Sorani: {{t|ku|گرنگ|tr=gring|sc=ku-Arab}}
-{{trans-mid}}
 * [[Lao]]: {{t-|lo|ສຳຄັນ|tr=sam-khan|sc=Laoo|xs=Lao}}
+{{trans-mid}}
 * Latin: {{t+|la|gravis}}, {{t|la|magnus}}
 * Latvian: [[svarīgs]]
 * Lithuanian: [[svarbus]]
@@ -79,13 +79,15 @@
 * [[Old English]]: [[hefig]]
 * {{trreq|or}}
 * Persian: {{t|fa|مهم|tr=mohem||alt=مُهِمّ|sc=fa-Arab}}
-* Polish: [[ważny]] {{m}}, [[ważna]] {{f}} , [[ważne]] {{n}}
+* Polish: {{t|pl|ważny|m}}
 * Portuguese: {{t+|pt|importante}}
 * [[Punjabi]]: [[ਮਹੱਤਵਪੂਰਨ]]
 * Romanian: {{t-|ro|important}}
 * Russian: {{t+|ru|важный|tr=vážnyj}}
 * Sanskrit: [[अत्यावश्यक]]
-* Serbian: {{t-|sr|важан|sc=Cyrl}}, {{t-|sr|važan}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|важан|sc=Cyrl}}
+*: Roman: {{t|sh|važan}}
 * Slovene: {{t-|sl|pomemben}}
 * Spanish: {{t+|es|importante}}
 * Swahili: {{t+|sw|maarufu|xs=Swahili}}
