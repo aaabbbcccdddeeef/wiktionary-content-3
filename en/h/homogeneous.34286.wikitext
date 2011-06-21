@@ -4,20 +4,20 @@
 From {{etyl|ML.}} {{term|homogeneus|lang=la}} < {{etyl|grc|en}} {{term|ὁμογενής||of the same race, family or kind|lang=grc}} <  {{term|ὁμός||same|tr=homos|lang=grc}} + {{term|γένος|tr=genos||kind|lang=grc}}. Compare {{term|homo-||same|lang=en}} and {{term|-ous|lang=en}}, adjectival suffix.
 
 ===Pronunciation===
-* 1: {{IPA|/ho.məˈdʒi.ni.əs/}}
-* 2: {{IPA|/həˈmɑ.dʒɪ.nəs/}}
-*: {{audio|en-us-homogeneous.ogg|Audio (US)}}
-*: {{audio|en-uk-homogeneous.ogg|Audio (UK)}}
+*{{a|UK}} {{IPA|/hɒ.məˈdʒiː.nɪəs/|/həˈmɒ.dʒɪ.nəs/}}
+*{{audio|en-us-homogeneous.ogg|Audio (US)}}
+*{{audio|en-uk-homogeneous.ogg|Audio (UK)}}
 
 ===Adjective===
 {{en-adj|-}}
 
-# [[similar]], or the [[same]] as something else
-# having the same [[composition]] throughout; [[uniform]]
+# Of the same kind; [[alike]], [[similar]].
+# Having the same [[composition]] throughout; of [[uniform]] make-up.
+#*'''1946''', {{w|Bertrand Russell}}, ''History of Western Philosophy'', I.25:
+#*:Their citizens were not of '''homogenous''' origin, but were from all parts of Greece.
 # {{chemistry}} in the same [[state of matter]].
 # {{mathematics}} Of which the properties of a smaller set apply to the whole; [[scalable]].
-## {{mathematics}} A function is homogeneous of degree-''k'' if scaling all arguments by α scales the output by α<sup>''k''</sup>.
-##: The function ''f(x,y)=x<sup>2</sup>+y<sup>2</sup>'' is homogeneous of degree 2 because ''f(''α''x,''α''y)=''α''<sup>2</sup>f(x,y)''.
+#:''The function ''f(x,y)=x<sup>2</sup>+y<sup>2</sup>'' is homogeneous of degree 2 because ''f(''α''x,''α''y)=''α''<sup>2</sup>f(x,y)''.''
 
 ====Antonyms====
 * [[heterogeneous]]
@@ -30,18 +30,21 @@ From {{etyl|ML.}} {{term|homogeneus|lang=la}} < {{etyl|grc|en}} {{term|ὁμογ
 * [[homogenous]]
 
 ====Derived terms====
+{{top2}}
 * [[homogeneous mixture]]
 * [[homogeneous broadening]]
 * [[homogeneous catalysis]]
 * [[homogeneous coordinate]]
 * [[homogeneous function]]
 * [[homogeneous ideal]]
+{{mid2}}
 * [[homogeneous number]]
 * [[homogeneous polynomial]]
 * [[homogeneous radiation]]
 * [[homogeneous society]]
 * [[homogeneous space]]
 * [[homogeneous system]]
+{{bottom}}
 
 ====Translations====
 {{trans-top}}
