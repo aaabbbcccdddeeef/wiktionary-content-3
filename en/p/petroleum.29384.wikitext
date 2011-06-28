@@ -34,7 +34,7 @@ From {{etyl|enm}} {{term|petroleum|lang=la}} from {{term|petra||rock|lang=la}} +
 
 ====Translations====
 {{trans-top|the flammable liquid mixture of hydrocarbons}}
-* Arabic: {{t|ar|نفط|m|tr=nafʈ}}
+* Arabic: {{t|ar|نفط|m|tr=nafT|sc=Arab}}
 * Aramaic:
 *: Syriac: [[ܢܦܛܐ]] (nefṬā, nefṬo) {{m}}
 *: Hebrew: [[נפטא]] (nefṬā, nefṬo) {{m}}
@@ -49,28 +49,31 @@ From {{etyl|enm}} {{term|petroleum|lang=la}} from {{term|petra||rock|lang=la}} +
 * Esperanto: {{t-|eo|petrolo|xs=Esperanto}}, {{t|eo|nafto}}
 * Finnish: {{t+|fi|raakaöljy}}, {{t+|fi|maaöljy}}
 * French: {{t+|fr|pétrole|m}}
+* German: {{t|de|Erdöl|n}}, {{t|de|Petroleum|n}}
 * Greek: {{t+|el|πετρέλαιο|tr=petréleo}}
 * Hungarian: {{t+|hu|kőolaj}}
 * [[Ido]]: {{t+|io|petrolo|xs=Ido}}
 {{trans-mid}}
 * [[Interlingua]]: [[petroleo]]
 * Italian: {{t+|it|petrolio|m}}
-* Japanese: [[石油]] (sekiyu)
+* Japanese: {{t|ja|石油|tr=せきゆ, sekiyu|sc=Jpan}}
+* Korean: {{t|ko|석유|tr=seokyu|sc=Kore}} ({{t|ko|石油|sc=Kore}})
 * Latin: {{t-|la|petroleum}}
 * Latvian: {{t-|lv|nafta|f|xs=Latvian}}
 * Lithuanian: {{t|lt|nafta|f}}
 * Navajo: {{tø|nv|akʼah}}, {{tø|nv|akʼahkǫʼ}}, {{tø|nv|tókǫʼí‎}}
-* Persian: {{t|fa|اتش|tr=naft|xs=Persian}}
+* Persian: {{t|fa|نفت|tr=naft|sc=fa-Arab}}
 * Polish: {{t+|pl|ropa naftowa|f}}
 * Portuguese: {{t+|pt|petróleo|m}}
 * Romanian: {{t+|ro|petrol|n}}, {{t|ro|ţiţei|n}}
-* Russian: {{t+|ru|нефть|f|tr=neft}}
-* Serbian:
-*: Cyrillic: [[нафта]] {{f}}
-*: Roman: {{t-|sr|nafta|f}}
+* Russian: {{t+|ru|нефть|f|tr=neft’}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|нафта|f|sc=Cyrl}}
+*: Roman: {{t|sh|nafta|f}}
 * Spanish: {{t+|es|petróleo|m}}
 * Swedish: {{t-|sv|petroleum|n}}
 * Turkish: {{t|tr|petrol}}
+* Vietnamese: {{t|vi|dầu mỏ}}
 {{trans-bottom}}
 
 [[Category:Liquids]]
