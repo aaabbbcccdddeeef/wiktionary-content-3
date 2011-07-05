@@ -30,7 +30,7 @@ From Middle English {{term|hem|lang=enm}}, {{term|hemm|lang=enm}}, in turn from 
 
 =====Translations=====
 {{trans-top|border of an article of clothing doubled back and stitched together}}
-* Finnish: {{t-|fi|päärme}},  {{t-|fi|palle}},  {{t+|fi|helma}}
+* Finnish: {{t-|fi|päärme}}, {{t-|fi|palle}}, {{t+|fi|helma}}
 * French: {{t+|fr|ourlet|m}}
 * German: {{t+|de|Saum|m}}
 * Greek: {{t|el|στρίφωμα|n|tr=strifoma|sc=Grek}}
@@ -41,7 +41,7 @@ From Middle English {{term|hem|lang=enm}}, {{term|hemm|lang=enm}}, in turn from 
 * Portuguese: {{t+|pt|bainha|f}}
 * Russian: {{t|ru|подшитый}} {{t+|ru|край|m}}
 * [[Scottish Gaelic]]: {{t|gd|fàitheam|m}}
-* Serbian: [[rub]], [[porub]]
+* Serbo-Croatian: [[rub]], [[porub]]
 {{trans-bottom}}
 
 {{trans-top|rim or margin}}
@@ -57,8 +57,8 @@ From Middle English {{term|hem|lang=enm}}, {{term|hemm|lang=enm}}, in turn from 
 ====Verb====
 {{en-verb|hem|m|ing}}
 
-# {{intransitive}} (''in sewing'') To make a hem.
-# {{intransitive}} (''in speaking'') To make a sound like ''hem'' (usually coupled with ''"haw"'' as in "[[hem and haw|hemmed and hawed]].")
+# {{intransitive}} {{qualifier|in sewing}} To make a hem.
+# {{intransitive}} {{qualifier|in speaking}} To make a sound like ''hem'' (usually coupled with ''"haw"'' as in "[[hem and haw|hemmed and hawed]].")
 # {{transitive}}: To put hem on an article of clothing, to edge or put a border on something.
 # {{transitive}}: To surround something or someone in a [[confine|confining]] way.
 
@@ -69,7 +69,7 @@ From Middle English {{term|hem|lang=enm}}, {{term|hemm|lang=enm}}, in turn from 
 {{trans-bottom}}
 
 {{trans-top|to make a sound like "hem"}}
-* Finnish: {{t+|fi|hymähtää}} (''once''), {{t|fi|hymähdellä}} (''repeatedly'')
+* Finnish: {{t+|fi|hymähtää}} {{qualifier|once}}, {{t|fi|hymähdellä}} {{qualifier|repeatedly}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -118,6 +118,7 @@ From Middle English {{term|hem|lang=enm}}, {{term|hemm|lang=enm}}, in turn from 
 ----
 
 ==Dutch==
+
 ===Etymology===
 From {{etyl|dum|nl}} {{term|hem|lang=dum}}, from {{etyl|odt|nl}} {{term|himo|lang=odt}}, from {{proto|Germanic|himmai|lang=nl}}.
 
@@ -125,7 +126,7 @@ From {{etyl|dum|nl}} {{term|hem|lang=dum}}, from {{etyl|odt|nl}} {{term|himo|lan
 * {{IPA|/ɦɛm/|lang=nl}}
 
 ===Pronoun===
-'''hem'''
+{{infl|nl|pronoun}}
 
 # {{personal|lang=nl}} ''Third-person singular, masculine, objective:'' [[him]].
 #: ''Stuur dat maar naar hem.'' &mdash; Send that to him.
@@ -140,7 +141,7 @@ From {{etyl|dum|nl}} {{term|hem|lang=dum}}, from {{etyl|odt|nl}} {{term|himo|lan
 ===Interjection===
 {{la-interj}}
 
-# [[eh]]?, [[well well]]! (''expressing surprise'')
+# [[eh]]?, [[well well]]! {{gloss|expressing surprise}}
 
 ====Related terms====
 * [[ehem]]
@@ -166,13 +167,15 @@ From {{etyl|dum|nl}} {{term|hem|lang=dum}}, from {{etyl|odt|nl}} {{term|himo|lan
 * {{audio|Sv-hem.ogg|audio}}
 
 ===Noun===
-{{sv-noun-irreg-n|2=hemmet|4=hemmen}}
-'''hem'''
+{{sv-noun|g=n}}
 
 # [[home]]; one's dwelling place, as in a house or a more general geographical place; the abiding place of the affections.
 
+====Declension====
+{{sv-noun-irreg-n|2=hemmet|4=hemmen}}
+
 ===Adverb===
-'''hem'''
+{{infl|sv|adverb}}
 
 # to one's home
 
@@ -187,21 +190,17 @@ From {{etyl|dum|nl}} {{term|hem|lang=dum}}, from {{etyl|odt|nl}} {{term|himo|lan
 * [[house]]
 * [[huse]]
 
-[[Category:Swedish nouns]]
-
 ----
 
 ==Turkish==
 
 ===Etymology===
-From Persian
+From {{etyl|fa|tr}}
 
 ===Adverb===
-'''hem'''
+{{infl|tr|adverb}}
 
 # [[and also]]
-
-[[Category:Turkish adverbs]]
 
 [[cs:hem]]
 [[et:hem]]
