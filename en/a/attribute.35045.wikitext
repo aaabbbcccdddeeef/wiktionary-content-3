@@ -24,7 +24,7 @@ From {{etyl|la}} {{term|attributus}} past participle of {{term|attribuere}}.
 # {{computing}} The applicable option selection; a [[variable]] or a [[value]].
 #: ''This packet has its coherency '''attribute''' set to zero.''
 # {{logic}} That which is predicated or affirmed of a subject; a [[predicate]]; an [[accident]].<!--From Century 1911.-->
-# {{computing}} An item with which a [[method]], etc. may be [[decorate]]d.
+# {{computing|programming}} A [[semantic]] item with which a [[method]], etc. may be [[decorate]]d.
 #: ''There are some more implementations which use C# '''attribute'''s to define custom attributes specific to the AOP engine. Then the classes that need to be intercepted will be decorated with these custom attributes.''
 
 ====Synonyms====
