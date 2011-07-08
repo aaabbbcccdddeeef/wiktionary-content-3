@@ -1,8 +1,9 @@
+{{also|ĝenus|-genus}}
 ==English==
-{{wikipedia|dab=Genus (disambiguation)|mul=Genus}}
+{{wikipedia|dab=Genus (disambiguation)|mul=Genus|lang=en}}
 
 ===Etymology===
-< {{etyl|la}} {{term|genus|lang=la||birth, origin, a race, sort, kind}} < root {{term|gen}} in {{etyl|la}} {{term|gignere}}, {{etyl|OL.}} {{term|gegnere||to beget, produce}}
+Borrowed from {{etyl|la|en}} {{term|genus|lang=la||birth, origin, a race, sort, kind}} from the root ''gen-'' in {{etyl|la}} {{term|gignere}}, {{etyl|OL.}} {{term|gegnere||to beget, produce}}.
 
 ===Pronunciation===
 * {{a|UK}} {{enPR|jēn'əs}}, {{IPA|/ˈdʒiːnəs/}}, {{SAMPA|/"dZi:n@s/}}
@@ -49,7 +50,7 @@
 
 ====Translations====
 {{trans-top|rank in a taxonomic classification between family and species}}
-* [[Catalan]]: [[gènere]] {{m}}
+* [[Catalan]]: {{t|ca|gènere|m}}
 * Czech: {{t+|cs|rod|m}}
 * Danish: {{t-|da|slægt|c}}, {{t-|da|genus|n}}
 * Dutch: {{t+|nl|geslacht|n}}
@@ -62,7 +63,7 @@
 * Greek: {{t+|el|γένος|n|tr=génos}}
 * Hungarian: {{t+|hu|nemzetség}}
 * Italian: {{t+|it|genere|m}}
-* Japanese: [[属]] (zoku)
+* Japanese: {{t|ja|属|tr=zoku}}
 * Persian: {{t|fa|سرده|tr=sarde|sc=fa-Arab}}
 * Polish: {{t+|pl|rodzaj|m}}
 * Portuguese: {{t+|pt|gênero|m}}
@@ -71,7 +72,7 @@
 {{trans-bottom}}
 
 {{trans-top|taxon at this rank}}
-* [[Catalan]]: [[gènere]]
+* [[Catalan]]: {{t|ca|gènere|m}}
 * Danish: {{t-|da|slægt|c}}, {{t-|da|genus|n}}
 * Dutch: {{t+|nl|geslacht|n}}
 * Esperanto: {{t+|eo|genro|xs=Esperanto}}
@@ -95,10 +96,10 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|bg}}: [[род]] {{m}}
-* {{ttbc|ia}}: [[genere]]
-* {{ttbc|lt}}: [[gentis]] {{f}}
-* {{ttbc|es}}: [[género]] {{m}}
+* {{ttbc|bg}}: {{t|bg|род|tr=rod|m}}
+* {{ttbc|ia}}: {{t|ia|genere}}
+* {{ttbc|lt}}: {{t|lt|gentis|f}}
+* {{ttbc|es}}: {{t|es|género|m}}
 {{trans-bottom}}
 
 ====External links====
@@ -113,9 +114,10 @@
 ----
 
 ==Danish==
+{{wikipedia|lang=da}}
 
 ===Etymology===
-From {{etyl|la|da}} {{term|genus|lang=la}}.
+Borrowed rom {{etyl|la|da}} {{term|genus|lang=la}}.
 
 ===Pronunciation===
 * {{IPA|/ɡeːnus/|[ˈɡ̊eːnus]|lang=da}}
@@ -138,7 +140,7 @@ From {{etyl|la|da}} {{term|genus|lang=la}}.
 ==Dutch==
 
 ===Etymology===
-From {{etyl|la|nl}} ''genus''
+Borrowed from {{etyl|la|nl}} {{term|genus|lang=la}}.
 
 ===Noun===
 {{nl-noun|g=n|genera|-}}
@@ -153,6 +155,7 @@ From {{etyl|la|nl}} ''genus''
 ----
 
 ==Latin==
+{{wikipedia|dab=genus|lang=la}}
 
 ===Etymology 1===
 From {{proto|Indo-European|ǵénh₁os|race|lang=la}}. Cognates include Ancient Greek {{term|sc=polytonic|γένος|tr=genos||race, stock, kin, kind|lang=grc}}, Sanskrit {{term|sc=Deva|जनस्|tr=jánas||race, class of beings||lang=sa}}.
@@ -186,7 +189,7 @@ From {{proto|Indo-European|ǵénh₁os|race|lang=la}}. Cognates include Ancient 
 {{bottom}}
 
 ===Etymology 2===
-Inflection of [[genu|genū]]
+Inflection of {{term|genu|genū|lang=la}}.
 
 ====Noun====
 {{la-noun-form|genūs}}
@@ -205,6 +208,7 @@ Inflection of [[genus#Latin|genus]]
 ----
 
 ==Swedish==
+{{wikipedia|lang=sv}}
 
 ===Noun===
 {{sv-noun|g=n}}
