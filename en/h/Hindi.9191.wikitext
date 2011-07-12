@@ -4,7 +4,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|fa}} {{fa-Arab|[[هندی]]}} (hendi) < {{fa-Arab|[[هند]]}} (hend) ''India'' < {{etyl|sa}} [[सिन्धु]] (sindhu) + Persian adjectival suffix {{fa-Arab|[[ی-]]}}.
+From {{etyl|fa}} {{term|هندی|lang=fa|tr=hendi}} < {{term|هند|lang=fa|tr=hend||India}} < {{etyl|sa}} {{term|सिन्धु|tr=sindhu|lang=sa}} + Persian adjectival suffix {{term|ی-|lang=fa}}.
 
 ===Pronunciation===
 * {{enPR|hĭn'di}}, {{IPA|/ˈhɪndi/}}, {{SAMPA|/"hIndi/}}
@@ -14,21 +14,21 @@ From {{etyl|fa}} {{fa-Arab|[[هندی]]}} (hendi) < {{fa-Arab|[[هند]]}} (hend
 ===Proper noun===
 {{en-proper noun}}
 
-# A [[language]] spoken in the Northern States of [[India]].  Also spoken in [[Fiji]], [[Guyana]] and as a second language by [[Indian]]s in many other countries. The word Hindi is borrowed from Persian into other languages.
+# A [[language]] spoken in the Northern States of [[India]]. Also spoken in [[Fiji]], [[Guyana]] and as a second language by [[Indian]]s in many other countries. The word Hindi is borrowed from Persian into other languages.
 
 ====Translations====
 {{trans-top|language}}
 * [[Afrikaans]]: {{t+|af|Hindi|xs=Afrikaans}}
 * [[Amharic]]: {{t-|am|ሕንድኛ|tr=hindiñña|sc=Ethi|xs=Amharic}}
 * Arabic: {{t-|ar|هندية|f|tr=hindīya}}
-* Armenian: {{t-|hy|հինդի|tr=hindi}},  {{t-|hy|հնդկերեն|tr=hndkeren}}
+* Armenian: {{t-|hy|հինդի|tr=hindi}}, {{t-|hy|հնդկերեն|tr=hndkeren}}
 * [[Azeri]]: {{t-|az|hind|xs=Azeri}}
 * [[Basque]]: {{t+|eu|hindi|xs=Basque}}
 * Belarusian: {{t-|be|хіндзі|m|tr=xíndzi|xs=Belarusian}} {{indeclinable}}
 * Bulgarian: {{t-|bg|хинди|tr=hindi}}
 * [[Catalan]]: {{t+|ca|hindi}}
 * Chinese:
-*: Mandarin: {{t-|cmn|印地語|sc=Hani}},  {{t-|cmn|印地语|tr=Yìndìyǔ|sc=Hani}},  {{t|cmn|印地文|tr=Yìndìwén|sc=Hani}}
+*: Mandarin: {{t-|cmn|印地語|sc=Hani}}, {{t-|cmn|印地语|tr=Yìndìyǔ|sc=Hani}}, {{t|cmn|印地文|tr=Yìndìwén|sc=Hani}}
 * Czech: {{t+|cs|hindština|f}}
 * Danish: {{t-|da|hindi}}
 * Dutch: {{t+|nl|Hindi|n}}
@@ -43,7 +43,7 @@ From {{etyl|fa}} {{fa-Arab|[[هندی]]}} (hendi) < {{fa-Arab|[[هند]]}} (hend
 * Greek: {{t+|el|χίντι|tr=chíndi}}
 * [[Gujarati]]: {{t+|gu|હિન્દી|tr=hindī|sc=Gujr|xs=Gujarati}}
 * Hebrew: {{t-|he|הינדית|tr=hindit}}
-* Hindi: {{t+|hi|हिन्दी|f|tr=hindī|xs=Hindi}},  {{t+|hi|हिंदी|f|tr=hindī|xs=Hindi}}
+* Hindi: {{t+|hi|हिन्दी|f|tr=hindī|xs=Hindi}}, {{t+|hi|हिंदी|f|tr=hindī|xs=Hindi}}
 * Hungarian: {{t+|hu|hindi}}
 * Icelandic: {{t+|is|hindí}}
 * Indonesian: {{t+|id|hindi|xs=Indonesian}}
@@ -69,7 +69,7 @@ From {{etyl|fa}} {{fa-Arab|[[هندی]]}} (hendi) < {{fa-Arab|[[هند]]}} (hend
 * Polish: {{t+|pl|hindi}}
 * Portuguese: {{t+|pt|hindi}}
 * Romanian: {{t-|ro|hindusă}}
-* Russian: {{t+|ru|хинди|m|tr=xíndi}} {{indeclinable}}
+* Russian: {{t+|ru|хинди|m|tr=xíndi}} {{qualifier|indeclinable}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|хинди|m|sc=Cyrl}}
 *: Roman: {{t-|sh|hindi|m}}
@@ -127,10 +127,9 @@ From {{etyl|fa}} {{fa-Arab|[[هندی]]}} (hendi) < {{fa-Arab|[[هند]]}} (hend
 ===Proper noun===
 {{nl-proper noun|g=n}}
 
-# [[#English|Hindi]] (''language'')
+# [[#English|Hindi]] {{gloss|language}}
 
 [[Category:nl:Languages]]
-
 ----
 
 ==German==
@@ -139,12 +138,12 @@ From {{etyl|fa}} {{fa-Arab|[[هندی]]}} (hendi) < {{fa-Arab|[[هند]]}} (hend
 * {{audio|De-Hindi.ogg|audio}}
 
 ===Noun===
-'''Hindi''' {{n}}
+{{infl|de|noun|g=n}}
 
 # The Hindi language
 
 ===Noun===
-'''Hindi''' {{m}}
+{{infl|de|noun|g=m}}
 
 # A Hindi-speaking person
 
