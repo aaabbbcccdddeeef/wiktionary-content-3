@@ -17,7 +17,7 @@ Contraction of ''[[use]]'' and the suffix ''[[-er]]''.
 # {{pejorative}} An exploiter, an abusive user (a person who uses something or someone unfairly, selfishly and/or unethically).
 
 ====Synonyms====
-* (''one that unfairly takes advantage of or exploits''): parasite
+* {{sense|one that unfairly takes advantage of or exploits}} parasite
 
 ====Derived terms====
 * [[user guide]]
@@ -28,7 +28,7 @@ Contraction of ''[[use]]'' and the suffix ''[[-er]]''.
 
 ====Translations====
 {{trans-top|one who uses something, a consumer}}
-* Arabic: {{t|ar|مستخدم|m|tr=mustakhdim}},  {{t|ar|مستعمل|m|tr=musta`mil}}
+* Arabic: {{t|ar|مستخدم|m|tr=mustakhdim}}, {{t|ar|مستعمل|m|tr=musta`mil}}
 * Bosnian: {{t-|bs|korisnik|m}}
 * [[Catalan]]: {{t|ca|usuari}}
 * Chinese:
@@ -48,7 +48,7 @@ Contraction of ''[[use]]'' and the suffix ''[[-er]]''.
 * Latvian: [[lietotājs]] {{m}}, [[jūzeris]] {{m}}
 {{trans-mid}}
 * Lithuanian: {{t-|lt|naudotojas|m|xs=Lithuanian}}
-* [[Macedonian]]: {{t-|mk|корисник|m|tr=kórisnik}},  {{t|mk|потрошувач|m|tr=potróšuvač}}
+* [[Macedonian]]: {{t-|mk|корисник|m|tr=kórisnik}}, {{t|mk|потрошувач|m|tr=potróšuvač}}
 * Norwegian:
 *: Bokmål: {{t|nb|bruker|m}}
 *: Nynorsk: {{t|nn|brukar|m}}
@@ -77,14 +77,14 @@ Contraction of ''[[use]]'' and the suffix ''[[-er]]''.
 * Persian: {{t+|fa|معتاد|tr=motâd|xs=Persian}}
 * Romanian: {{t|ro|narcoman|m}}, {{t|ro|toxicoman|m}}
 * Swahili: {{t+|sw|mlanguzi|xs=Swahili}}
-* Swedish: {{t|sv|brukare|c}}, {{t|sv|missbrukare|c}} (''addictive use'')
+* Swedish: {{t|sv|brukare|c}}, {{t|sv|missbrukare|c}} {{qualifier|addictive use}}
 {{trans-bottom}}
 
 {{trans-top|person who uses a computer}}
-* Arabic: {{t|ar|مستخدم|m|tr=mustakhdim}},  {{t|ar|مستعمل|m|tr=musta`mil}}
+* Arabic: {{t|ar|مستخدم|m|tr=mustakhdim}}, {{t|ar|مستعمل|m|tr=musta`mil}}
 * Bosnian: {{t-|bs|korisnik|m}}
 * Chinese:
-*: Mandarin: {{t-|cmn|用戶|sc=Hani}},  {{t-|cmn|用户|tr=yònghù|sc=Hani}}
+*: Mandarin: {{t-|cmn|用戶|sc=Hani}}, {{t-|cmn|用户|tr=yònghù|sc=Hani}}
 * Croatian: {{t-|hr|korisnik|m}}
 * Czech: {{t+|cs|uživatel|m}}
 * Danish: {{t|da|bruger|c}}
@@ -152,7 +152,7 @@ From {{etyl|la|fr}} {{term|uso|lang=la}}
 * {{audio|Fr-user.ogg|Audio}}
 
 ===Verb===
-'''user'''
+{{fr-verb}}
 
 # to [[wear]], [[wear down]], [[wear off]], [[wear out]], [[grind down]], [[run in]]
 #: ''Trois kilomètres à pied, ça '''use''' les souliers.''
@@ -166,12 +166,7 @@ From {{etyl|la|fr}} {{term|uso|lang=la}}
 * [[usage]]
 
 ===Anagrams===
-* [[rues#French|rues]]
-* [[ruse#French|ruse]], [[rusé#French|rusé]]
-* [[suer#French|suer]]
-* [[sure#French|sure]], [[sûre#French|sûre]]
-
-[[Category:French verbs]]
+* [[rues#French|rues]], [[ruse#French|ruse]], [[rusé#French|rusé]], [[suer#French|suer]], [[sure#French|sure]], [[sûre#French|sûre]]
 
 ----
 
@@ -181,7 +176,7 @@ From {{etyl|la|fr}} {{term|uso|lang=la}}
 * [[ure|ūre]]
 
 ===Etymology===
-From {{proto|Germanic|unseraz|of us, our|lang=ang}}, from {{proto|Indo-European|no-s-ero-|our|lang=ang}}. Cognate with {{ofs}} {{term|user|ūse(r)|our|lang=ofs}}, {{osx}} {{term|user|ūser|our|lang=osx}}, {{goh}} {{term|unser|unsēr|lang=goh}}, {{term|unsar|unsār|our|lang=goh}}, {{got}} {{term|𐌿𐌽𐍃𐌰𐍂||tr=unsar|our|lang=got}}, {{ang}} {{term|us|ūs|us|lang=ang}}.
+From {{proto|Germanic|unseraz|of us, our|lang=ang}}, from {{proto|Indo-European|no-s-ero-|our|lang=ang}}. Cognate with {{etyl|ofs|-}} {{term|user|ūse(r)|our|lang=ofs}}, {{etyl|osx|-}} {{term|user|ūser|our|lang=osx}}, {{etyl|goh|-}} {{term|unser|unsēr|lang=goh}}, {{term|unsar|unsār|our|lang=goh}}, {{etyl|got|-}} {{term|𐌿𐌽𐍃𐌰𐍂||tr=unsar|our|lang=got}}, {{etyl|ang|-}} {{term|us|ūs|us|lang=ang}}.
 
 ===Pronoun===
 {{infl|ang|pronoun|head=ūser|desc=possessive|cat=pronouns}}
