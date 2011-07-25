@@ -26,10 +26,10 @@ From {{etyl|enm}} < {{etyl|fro}} {{term|lang=fro|noise||a dispute, wrangle, stri
 
 ====Translations====
 {{trans-top|various sounds, usually unwanted}}
-* Arabic: {{Arab|[[ضوضاء]]}} {{IPAchar|(ɖauɖā’)}} {{m}}, {{t|ar|ضوضاء|m|tr=DauDaa'|sc=Arab}}
+* Arabic: {{t|ar|ضوضاء|m|tr=DauDaa'|sc=Arab}}
 * Armenian: {{t+|hy|աղմուկ|tr=aġmuk}},  {{t-|hy|աղաղակ|tr=aġaġak}}
 * [[Catalan]]: {{t|ca|soroll|m}}
-* Chinese: [[噪音]] (zàoyīn)
+* Chinese:
 *: Mandarin: {{t|zh|噪音|tr=zàoyīn|sc=Hani}}, {{t|zh|響聲|sc=Hani}}, {{t|zh|响声|tr=xiǎngsheng|sc=Hani}}
 * Croatian: {{t+|hr|buka|f|alt=bȕka}}
 * Czech: {{t-|cs|hluk|m}}
@@ -37,20 +37,20 @@ From {{etyl|enm}} < {{etyl|fro}} {{term|lang=fro|noise||a dispute, wrangle, stri
 * Dutch: {{t+|nl|lawaai}}, {{t+|nl|herrie}}, {{t+|nl|geluid|n}}
 * Finnish: {{t+|fi|melu}}
 * French: {{t+|fr|bruit|m}}, {{t+|fr|vacarme|m}}, {{t+|fr|brouhaha|m}}
-* German: [[Lärm]] {{m}}, [[Geräusch]] {{n}}, [[Krach]] {{m}}, as in ''Krach machen'': to make a lot of noise
+* German: {{t|de|Lärm|m}}, {{t|de|Geräusch|n}}, {{t|de|Krach|m}} (as in ''Krach machen'': to make a lot of noise)
 * Hebrew: {{t-|he|רעש|m}}
 * Hungarian: {{t+|hu|zaj}},  {{t+|hu|zörej}}
 * [[Ido]]: {{t+|io|bruiso|xs=Ido}}
 {{trans-mid}}
 * Italian: {{t+|it|rumore|m}}
-* Japanese: [[雑音]] (ざつおん, zatsuon),  {{t-|ja|ノイズ}}, {{t|ja|雑音|tr=ざつおん, zatsuon|sc=Jpan}}, {{t|ja|ノイズ|tr=noizu|sc=Jpan}}
-* Korean: [[소음]] (soeum), {{t|ko|소음|tr=so-eum|sc=Kore}}
+* Japanese: {{t|ja|雑音|tr=ざつおん, zatsuon|sc=Jpan}}, {{t|ja|ノイズ|tr=noizu|sc=Jpan}}
+* Korean: {{t|ko|소음|tr=so-eum|sc=Kore}}
 * Kurdish: {{ku-Arab|[[ده‌نگه‌ده‌گ]]}}
 * [[Occitan]]: {{t+|oc|bruch|m|xs=Occitan}}
 * Persian: {{t|fa|ونگ|tr=vang}}
 * Polish: {{t+|pl|hałas|m}}, {{t+|pl|szum|m}}
 * Portuguese: {{t+|pt|barulho|m}}
-* Russian: [[шум]] (šum) {{m}}, {{t|ru|шум|m|tr=šum|sc=Cyrl}}
+* Russian: {{t|ru|шум|m|tr=šum|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|fuaim|m|xs=Scottish Gaelic}},  {{t-|gd|faram|m|xs=Scottish Gaelic}}
 * Serbian: [[шум]] ([[šum]]) {{m}}
 * Slovene: {{t+|sl|hrup|m}}
@@ -70,7 +70,7 @@ From {{etyl|enm}} < {{etyl|fro}} {{term|lang=fro|noise||a dispute, wrangle, stri
 {{trans-mid}}
 * Hebrew: {{t-|he|רעש|m}}
 * Polish: {{t+|pl|szum|m}}
-* Russian: [[шум]] (šum) {{m}}
+* Russian: {{t|ru|шум|m|tr=šum|sc=Cyrl}}
 * Serbian: [[шум]] ([[šum]]) {{m}}
 * Slovene: {{t+|sl|hrup|m}}
 * Swahili: {{t+|sw|sura|xs=Swahili}}
@@ -79,7 +79,8 @@ From {{etyl|enm}} < {{etyl|fro}} {{term|lang=fro|noise||a dispute, wrangle, stri
 
 {{trans-top|''(techn.)'' Unwanted part of a signal. (''Signal to noise ratio'')}}
 * [[Catalan]]: {{t|ca|soroll|m}}
-* Chinese: [[噪音]] (zàoyīn)
+* Chinese:
+*: Mandarin: {{t|zh|噪音|tr=zàoyīn|sc=Hani}}
 * Croatian: {{t-|hr|šum|m|alt=šȗm}}
 * Czech: {{t-|cs|šum|m}}
 * Danish: {{t+|da|støj|c}}
@@ -89,7 +90,7 @@ From {{etyl|enm}} < {{etyl|fro}} {{term|lang=fro|noise||a dispute, wrangle, stri
 {{trans-mid}}
 * Hebrew: {{t-|he|רעש|m}}
 * Polish: {{t+|pl|szum|m}}
-* Russian: [[шум]], [[шумы]] (šumý) {{m|p}}
+* Russian: {{t|ru|шум|m|tr=šum|sc=Cyrl}}, {{t|ru|шум|m|p|tr=šumý|alt=шумы|sc=Cyrl}}
 * Serbian: [[шум]] ([[šum]]) {{m}}
 * Slovene: {{t-|sl|šum|m}}
 * Swahili: {{t+|sw|sura|xs=Swahili}}
