@@ -6,7 +6,7 @@
 * {{audio|en-us-silence.ogg|Audio (US)}}
 
 ===Etymology===
-From {{etyl|fro}} [[#French|silence]].
+From {{etyl|fro}} {{term|silence|lang=fro}}.
 
 ===Noun===
 {{wikipedia}}
@@ -55,12 +55,12 @@ From {{etyl|fro}} [[#French|silence]].
 * German: {{t+|de|Schweigen|n}}, {{t+|de|Stille|f}}
 * Greek: {{t+|el|σιωπή|f}} (1,3), {{t+|el|σιγή|f}} (1)
 * Hindi: {{t-|hi|ख़ामोशी|f|tr=khāmošī|xs=Hindi}}
-* Hungarian: {{t+|hu|csend}},  {{t+|hu|csönd}}
+* Hungarian: {{t+|hu|csend}}, {{t+|hu|csönd}}
 * Icelandic: {{t+|is|þögn|f}}
 * [[Ido]]: {{t+|io|silenco|xs=Ido}}
 * Irish: {{t-|ga|tost|m|xs=Irish}}
 * Italian: {{t+|it|silenzio|m}}
-* Japanese: {{t|ja|静けさ|tr=shízukesa}},  {{t-|ja|静寂|tr=seijaku}},  {{t-|ja|黙秘|tr=mokuhi}}
+* Japanese: {{t|ja|静けさ|tr=shízukesa}}, {{t-|ja|静寂|tr=seijaku}}, {{t-|ja|黙秘|tr=mokuhi}}
 * Korean: {{t|ko|침묵|tr=chimmuk|sc=Hang}}
 * Kurdish: {{ku-Arab|[[بێده‌نگ]]}}
 * Latvian: [[klusums]] {{m}}
@@ -86,7 +86,7 @@ From {{etyl|fro}} [[#French|silence]].
 * Turkish: {{t+|tr|sessizlik}}
 * Urdu: {{t-|ur|خاموشی|f|tr=khāmošī|xs=Urdu}}
 * [[Volapük]]: {{t|vo|seil}}
-* [[Yucatec Maya]]: {{tø|yua|ch’een}},  {{tø|yua|ch’ench’enki}}
+* [[Yucatec Maya]]: {{tø|yua|ch’een}}, {{tø|yua|ch’ench’enki}}
 * [[Zulu]]: {{t|zu|ukuthula|xs=Zulu}}
 {{trans-bottom}}
 
@@ -105,7 +105,7 @@ From {{etyl|fro}} [[#French|silence]].
 ====Translations====
 {{trans-top|To make something silent}}
 * Aramaic: [[שתק]]
-* Czech: {{t-|cs|utišit}},  {{t-|cs|umlčet}}
+* Czech: {{t-|cs|utišit}}, {{t-|cs|umlčet}}
 * Finnish: {{t|fi|hiljentää}}
 * Norwegian: {{t+|no|roe}}
 {{trans-mid}}
@@ -124,7 +124,7 @@ From {{etyl|fro}} [[#French|silence]].
 * [[quiet]], [[noise]], [[loud]], [[deaf]], [[audible]].
 
 ===Interjection===
-'''silence'''!
+{{en-interj}}
 
 # be quiet
 #* '''Silence'''! Enough of your insolence!
@@ -132,7 +132,7 @@ From {{etyl|fro}} [[#French|silence]].
 ====Translations====
 {{trans-top|be quiet!}}
 * German: {{t+|de|Stille|alt=Stille!}}
-* Hungarian: {{t+|hu|csönd|alt=csönd!}}, {{t|hu|csöndet|alt=csöndet!}}, {{t|hu|csönd legyen|alt=csönd legyen!}},  {{t+|hu|csend|alt=csend!}}, {{t|hu|csendet|alt=csendet!}}, {{t|hu|csend legyen|alt=csend legyen!}}
+* Hungarian: {{t+|hu|csönd|alt=csönd!}}, {{t|hu|csöndet|alt=csöndet!}}, {{t|hu|csönd legyen|alt=csönd legyen!}}, {{t+|hu|csend|alt=csend!}}, {{t|hu|csendet|alt=csendet!}}, {{t|hu|csend legyen|alt=csend legyen!}}
 {{trans-mid}}
 * Icelandic: {{t|is|þögn}}!
 * Latin: [[pax]]!
@@ -146,8 +146,7 @@ From {{etyl|fro}} [[#French|silence]].
 * {{rank|regard|married|slowly|702|silence|afterwards|horses|wonder}}
 
 ===Anagrams===
-* [[license#English|license]]
-* [[selenic#English|selenic]]
+* [[license#English|license]], [[selenic#English|selenic]]
 
 ----
 
@@ -189,6 +188,15 @@ From {{etyl|fro}} [[#French|silence]].
 
 ====Related terms====
 * {{l|io|silencoza}}
+
+----
+
+==Middle French==
+
+===Noun===
+{{frm-noun|m|s}}{{attention|frm|find a citation showing that gender is masculine}}
+
+# {{l|en|silence}} {{gloss|absence of noise}}
 
 [[ang:silence]]
 [[cs:silence]]
