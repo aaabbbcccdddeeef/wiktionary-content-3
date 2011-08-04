@@ -46,28 +46,34 @@ From {{etyl|otk|tr}} ''yok'', from {{proto|Turkic|yōk||jōk|is not, there is no
 * {{IPA|/jok/|lang=tr}}
 
 ===Noun===
-'''yok'''
+{{tr-noun}}
 
-# [[there isn't]]
-#: ''masada bir kitap yok.'' — On the table, there isn't a book.
+# Anything not existing.
 
-====Usage notes====
-In Turkish, a [[predicate]] don't have to be a verb, unlike English. By adding a [[copula]], which is a suffix in Turkish, nouns can be made predicate. '''yok''' is a noun, it can be made a predicate by adding that suffix copula (there is no suffix added to this word because third person singular indicative of Turkish "to be" is "no suffix"). For example, -ım is the first person singular of Turkish "to be" so ''varım'' is the equivaltent of "I am" (in the meaning of "I exist", as in the sentence "I think, therefore I am")
-
-====Antonyms====
-* (''there is'') [[var#Turkish|var]]
+====Declension====
+{{tr-noun-c|o|t|pred=+}}
+or
+{{tr-noun-c|o|t|stem=yoğ|poss=+}}
 
 ===Adjective===
-'''yok'''
+{{infl|tr|adjective}}
 
+# [[there is]]n't, [[there are]]n't (not a verb in Turkish language)
+#: ''Maalesef sınıfımda pek fazla yakışıklı çocuk yok.''
+#: Unfortunately there aren't many handsome guys in my class at all.
 # not [[existing]]
-# Expressing non-[[possession]]
+#: ''Pirinç var mı? — Hayır, hiç yok.'' 
+#: Is there any rice? — No, there isn't any.
+# Expressing [[possession]], equivalent of [[not]] [[have]].
+#: ''Teyzem veya dayım yok.''
+#: I don't have an aunt or an uncle.
+# [[prohibited]], [[forbidden]]
+#: ''Sigara içmek yok!''
+#: No smoking cigarettes!
 
 ====Antonyms====
-* (''existing'') [[var#Turkish|var]]
-
-[[Category:Turkish adjectives]]
-[[Category:Turkish verbs]]
+* [[var#Turkish|var]] (''there is, there are, have'')
+* [[yasak]] (''forbidden'')
 
 [[fr:yok]]
 [[io:yok]]
