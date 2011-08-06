@@ -23,7 +23,7 @@ From [[Mag]], a nickname for [[Margaret]] that was used to denote a [[chatterer]
 * [[maggie]], [[pie]]
 
 ====Translations====
-{{trans-top|Pica pica}}
+{{trans-top|bird of genus: ''Pica''}}
 * Albanian: [[laraskë]]
 * Arabic: {{t|ar|عقعق|m|tr=3áq3aq}}
 * Armenian: {{t-|hy|կաչաղակ|tr=kačaġak}}
@@ -41,18 +41,18 @@ From [[Mag]], a nickname for [[Margaret]] that was used to denote a [[chatterer]
 * Czech: {{t-|cs|straka}}
 * Danish: {{t-|da|skade|c}}
 * Dutch: {{t+|nl|ekster|m}}
-* Esperanto: {{t-|eo|pigo|xs=Esperanto}}
-* Estonian: [[harakas]]
-* Faroese: {{t|fo|skjóra}}
+* Esperanto: {{qualifier|♂♀}} {{t-|eo|pigo}}, {{qualifier|♂}} {{t-|eo|virpigo}}, {{qualifier|♀}} {{t-|eo|pigino}}
+* Estonian: {{t-|et|harakas}}
+* Faroese: {{t-|fo|skjóra}}
 * Finnish: {{t+|fi|harakka}}
 * French: {{t+|fr|pie|f}}
-* [[Friulian]]: [[cheche]]
+* [[Friulian]]: {{t|fur|cheche}}
 * [[Galician]]: {{t-|gl|pega|f|xs=Galician}}
 * German: {{t+|de|Elster|f}}
 * Greek: [[καρακάξα]] (karakáksa) {{f}}, [[κίσσα]] (kisa) {{f}}
 * Hungarian: {{t+|hu|szarka}}
 * Icelandic: {{t+|is|skjór|m}}
-* [[Ido]]: {{t+|io|pigo|xs=Ido}}
+* [[Ido]]: {{qualifier|♂♀}} {{t+|io|pigo}}, {{qualifier|♂}} {{t-|io|pigulo}}, {{qualifier|♀}} {{t-|io|pigino}}
 * Irish: [[snag breac]], [[meaig]]
 * Italian: {{t-|it|gazza|f}}
 * Japanese: {{t+|ja|鵲|tr=kasasagi}}
@@ -63,18 +63,20 @@ From [[Mag]], a nickname for [[Margaret]] that was used to denote a [[chatterer]
 * Latin: {{t-|la|pica|f}}
 * Latvian: [[žagata]]
 * Lithuanian: {{t+|lt|šarka|xs=Lithuanian}}
-* [[Low Saxon]]: ([["Low German"]]) [[Exter]], [[Hexter]] {{f}}
+* [[Low German]] ([[Low Saxon]]): {{t+|nds|Heister|m}}, {{t+|nds|Hääkster|m}}, {{t+|nds|Heckster|m}}, {{t+|nds|Heekster|m}}, {{t+|nds|Hester|m}}
 * [[Lower Sorbian]]: [[sroka]] {{f}}
 * [[Macedonian]]: {{t|mk|страчка|f|tr=stráčka}}
 * Navajo: {{tø|nv|ąąʼąʼii}}
-* Norwegian: {{t+|no|skjære}}
+* Norwegian: 
+*: Bokmål: {{t+|no|skjære|f}}
+*: Nynorsk: {{t+|nn|skjor|f}}
 * [[Occitan]]: [[agaça]] {{f}}
 * Persian: {{t-|fa|زاغ|tr=zâgh|xs=Persian}}
 * Polish: {{t+|pl|sroka|f}}
 * Portuguese: {{t+|pt|gralha|f}}, {{t+|pt|pega|f}}
 * [[Romani]]: [[kakarachi]] {{m}}, kakarachka {{f}}
 * Romanian: {{t+|ro|coțofană|f}}
-* [[Romansch]]: [[giazla]]
+* [[Romansch]]: {{t-|rm|giazla}}
 * Russian: {{t+|ru|сорока|f|tr=soróka}}
 * [[Sami]]: [[skire]]
 * [[Sardinian]]: [[piga]], [[malabiga]], [[mariabiga]], [[marabiga]]
@@ -88,10 +90,10 @@ From [[Mag]], a nickname for [[Margaret]] that was used to denote a [[chatterer]
 * [[Taos]]: [[kw’àyána]]
 * Turkish: {{t+|tr|saksağan}}
 * Ukrainian: {{t-|uk|сорока|tr=soroka|xs=Ukrainian}}
-* [[Upper Sorbian]]: [[sroka]]
-* [[Volapük]]: {{qualifier|male or female}} {{t|vo|piak}}, {{qualifier|male}} {{t|vo|hipiak}}, {{qualifier|female}} {{t|vo|jipiak}}, {{qualifier|offspring}} {{t|vo|piakül}}, {{qualifier|obsolete, male or female}} {{t|vo|skadit}}
-* Welsh: [[pioden]]
-* [[West Frisian]]: [[ekster]]
+* [[Upper Sorbian]]: {{t-|hsb|sroka}}
+* [[Volapük]]: {{qualifier|♂♀}} {{t|vo|piak}}, {{qualifier|♂}} {{t|vo|hipiak}}, {{qualifier|♀}} {{t|vo|jipiak}}, {{qualifier|♂♀ offspring, young}} {{t|vo|piakül}}, {{qualifier|♂ offspring, young}} {{t|vo|hipiakül}}, {{qualifier|♀ offspring, young}} {{t|vo|jipiakül}}, {{qualifier|older term, ♂♀}} {{t|vo|skadit}}
+* Welsh: {{t|cy|pioden}}
+* [[West Frisian]]: {{t|fy|ekster}}
 {{trans-bottom}}
 
 {{trans-top|Australian bird}}
