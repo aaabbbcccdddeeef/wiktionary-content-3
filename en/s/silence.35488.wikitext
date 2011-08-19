@@ -48,12 +48,12 @@ From {{etyl|fro}} {{term|silence|lang=fro}}.
 *: Mandarin: {{t-|cmn|沉默|tr=chénmò|sc=Hani}}
 * Czech: {{t+|cs|ticho|n}}, {{t|cs|mlčení|n}}
 * Danish: {{t|da|tavshed}}, {{t|da|stilhed}}
-* Dutch: {{t+|nl|stilte}}, {{t|nl|zwijgen}}
+* Dutch: {{t+|nl|stilte|f}}
 * Esperanto: {{t-|eo|silento|xs=Esperanto}}
 * Finnish: {{t+|fi|hiljaisuus}}, {{t-|fi|äänettömyys}}
 * French: silence {{m}}
-* German: {{t+|de|Schweigen|n}}, {{t+|de|Stille|f}}
-* Greek: {{t+|el|σιωπή|f}} (1,3), {{t+|el|σιγή|f}} (1)
+* German: {{t+|de|Stille|f}}
+* Greek: {{t+|el|σιωπή|f}}, {{t+|el|σιγή|f}}
 * Hindi: {{t-|hi|ख़ामोशी|f|tr=khāmošī|xs=Hindi}}
 * Hungarian: {{t+|hu|csend}}, {{t+|hu|csönd}}
 * Icelandic: {{t+|is|þögn|f}}
@@ -90,6 +90,17 @@ From {{etyl|fro}} {{term|silence|lang=fro}}.
 * [[Zulu]]: {{t|zu|ukuthula|xs=Zulu}}
 {{trans-bottom}}
 
+{{trans-top|Not speaking as meditation or prayer}}
+* Dutch: {{t|nl|stilzwijgen|n}}
+* Greek: {{t+|el|σιωπή|f}}
+{{trans-bottom}}
+
+{{trans-top|Right to not speak during arrest}}
+* Dutch: {{t|nl|zwijgen|n}}
+* German: {{t+|de|Schweigen|n}}
+* Greek: {{t+|el|σιωπή|f}}
+{{trans-bottom}}
+
 ===Verb===
 {{en-verb|silenc|ing}}
 
@@ -108,8 +119,8 @@ From {{etyl|fro}} {{term|silence|lang=fro}}.
 * Czech: {{t-|cs|utišit}}, {{t-|cs|umlčet}}
 * Finnish: {{t|fi|hiljentää}}
 * Malay: {{t|ms|tolong senyap}}
-* Norwegian: {{t+|no|roe}}
 {{trans-mid}}
+* Norwegian: {{t+|no|roe}}
 * Portuguese: {{t+|pt|silenciar}}
 * Russian: {{t|ru|заглушить|tr=zaglušít’}}
 * Turkish: {{t|tr|susturmak}}
@@ -132,6 +143,7 @@ From {{etyl|fro}} {{term|silence|lang=fro}}.
 
 ====Translations====
 {{trans-top|be quiet!}}
+* Dutch: {{t+|nl|stilte|alt=stilte!}}
 * German: {{t+|de|Stille|alt=Stille!}}
 * Hungarian: {{t+|hu|csönd|alt=csönd!}}, {{t|hu|csöndet|alt=csöndet!}}, {{t|hu|csönd legyen|alt=csönd legyen!}}, {{t+|hu|csend|alt=csend!}}, {{t|hu|csendet|alt=csendet!}}, {{t|hu|csend legyen|alt=csend legyen!}}
 {{trans-mid}}
