@@ -225,22 +225,31 @@ From {{etyl|NL.}} {{term|magnesium|lang=la}} < {{suffix|magnesia|ium|lang=la|noc
 ==Latin==
 {{wikipedia|lang=la}}
 ===Etymology===
-New Latin.
+From {{term|Magnesia|Magnēsia|lang=la}}, a region in Thessaly.
 
 ===Pronunciation===
-<!-- * {{audio|La-cls-magnesium.ogg|Audio (Classical)}} Not present in Classical Latin -->
+* {{a|Classical}} {{IPA|/maŋˈneː.si.um/|lang=la}}
+* {{audio|La-cls-magnesium.ogg|Audio (Classical)}}
 * {{a|Ecclesiastical}} {{IPA|/maˈɲe.si.um/|lang=la}}
 * {{audio|La-ecc-magnesium.ogg|Audio (Ecclesiastical)}}
 
+===Adjective===
+{{la-adj-form|magnēsium}}
+
+# {{inflection of|[[magnesius#Latin|magnēsius]]||nom|n|s|lang=la}}
+# {{inflection of|[[magnesius#Latin|magnēsius]]||acc|m|s|lang=la}}
+# {{inflection of|[[magnesius#Latin|magnēsius]]||acc|n|s|lang=la}}
+# {{inflection of|[[magnesius#Latin|magnēsius]]||voc|n|s|lang=la}}
+
 ===Noun===
-{{la-noun|magnesium|magnesii|magnesiī|n|second}}
+{{la-noun|magnēsium|magnesii|magnēsiī|n|second}}
 
 # [[#English|magnesium]] (chemical element 12)
 #* '''1782''', D. Laurentius & Gulielmo Huntero, "Nova experimenta Chemica quae ad penitiorem Acidi e Pinguedine eruti cognitionem valere videntur", ''Philosophical Transactions of the Royal Society of London'', Part I, page 28
 #*: '''''Magnesium''''' nitratum nullum converſionem expertum eſt a noſtri acidi admixtione.
 
 ====Inflection====
-{{la-decl-2nd-N|magnesi}}
+{{la-decl-2nd-N|magnesi|magnēsi}}
 
 [[Category:la:Chemical elements]]
 
