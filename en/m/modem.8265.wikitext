@@ -6,8 +6,8 @@
 Short for {{term|modulator}}-{{term|demodulator}}.<ref>R. Stockwell and D. Minkova, 'English Words: History and Structure', Cambridge University Press (2001).</ref>
 
 ===Pronunciation===
-* {{a|RP}} {{IPA|/ˈməʊdəm/}}, {{SAMPA|/"m@Ud@m/}} ''or'' {{IPA|/ˈməʊdɛm/}}, {{SAMPA|/"m@UdEm/}}
-* {{a|US}} mō'dəm, {{IPA|/ˈmɔʊdəm/}}, {{SAMPA|/"mOUd@m/}} ''or'' mō'dĕm, {{IPA|/ˈmɔʊdɛm/}}, {{SAMPA|/"mOUdEm/}}
+* {{a|RP}} {{IPA|/ˈməʊdəm/|/ˈməʊdɛm/}}, {{SAMPA|/"m@Ud@m/|/"m@UdEm/}}
+* {{a|US}} {{enPR|mō'dəm|mō'dĕm}}, {{IPA|/ˈmɔʊdəm/|/ˈmɔʊdɛm/}}, {{SAMPA|/"mOUd@m/|/"mOUdEm/}}
 
 ===Noun===
 {{en-noun}}
@@ -22,7 +22,7 @@ Short for {{term|modulator}}-{{term|demodulator}}.<ref>R. Stockwell and D. Minko
 * Chinese:
 *: Mandarin: {{t|cmn|調制解調器|sc=Hani}},  {{t|cmn|调制解调器|tr=[[tiáozhìjiětiáoqì]]|sc=Hani}}
 * Dutch: {{t-|nl|modem|m|n}}
-* Esperanto: [[modemo]]
+* Esperanto: {{t|eo|modemo}}
 * Finnish: {{t+|fi|modeemi}}
 * French: {{t+|fr|modem|m}}
 * German: {{t+|de|Modem|n}}
@@ -40,7 +40,7 @@ Short for {{term|modulator}}-{{term|demodulator}}.<ref>R. Stockwell and D. Minko
 * Swedish: {{t-|sv|modem|n}}
 * Thai: {{t|th|โมเด็ม|tr=modĕm}}
 * Vietnamese: {{t+|vi|modem|xs=Vietnamese}}
-* [[West Frisian]]: [[#West Frisian|modem]], [[oerset]]
+* [[West Frisian]]: {{t|fy|modem}}, {{t|fy|oerset}}
 {{trans-bottom}}
 
 ===References===
@@ -54,15 +54,15 @@ Short for {{term|modulator}}-{{term|demodulator}}.<ref>R. Stockwell and D. Minko
 ==Dutch==
 
 ===Pronunciation===
-* {{IPA|/ˈmoːdəm/|lang=nl}} ''or'' {{IPA|/ˈmoːdɛm/|lang=nl}}
+* {{IPA|/ˈmoːdəm/|/ˈmoːdɛm/|lang=nl}}
 
 ===Etymology===
-English '''[[#English|modem]]'''
+{{etyl|en|nl}} {{term|modem|lang=en}}
 
 ===Noun===
 {{nl-noun|g1=m|g2=n|modems|modempje}}
 
-# [[#English|modem]]
+# {{l|en|modem}}
 
 ----
 
@@ -72,13 +72,15 @@ English '''[[#English|modem]]'''
 * {{IPA|/modˈɛm/|lang=fr}}
 
 ===Etymology===
-English '''[[#English|modem]]'''
+{{etyl|en|fr}} {{term|modem|lang=fr}}
 
 ===Noun===
 {{fr-noun|m}}
 
-# [[#English|modem]]
+# {{l|en|modem}}
+
 ----
+
 ==Polish==
 
 ===Pronunciation===
@@ -88,7 +90,7 @@ English '''[[#English|modem]]'''
 ===Noun===
 {{infl|pl|noun|g=m}}
 
-# [[#English|modem]]
+# {{l|en|modem}}
 
 ====Declension====
 {{pl-decl-noun
@@ -118,7 +120,7 @@ From {{etyl|en|sh}} {{term|modem|lang=en}}.
 ===Noun===
 {{sh-noun|g=m|head=mòdēm|r|модем|мо̀де̄м}}
 
-# [[#English|modem]]
+# {{l|en|modem}}
 
 ====Declension====
 {{sh-decl-noun
@@ -139,26 +141,24 @@ From {{etyl|en|sh}} {{term|modem|lang=en}}.
 * {{IPA|/ˈmoðem/|lang=es}}
 
 ===Etymology===
-English '''[[#English|modem]]'''
+{{etyl|en|es}} {{term|modem|lang=en}}
 
 ===Noun===
 {{infl|es|noun|g=m}}
 
-# [[#English|modem]]
+# {{l|en|modem}}
 
 ----
 
 ==Swedish==
-<!---===Pronunciation===
-* {{IPA|}} --->
 
 ===Etymology===
-English '''[[#English|modem]]'''
+{{etyl|en|sv}} {{term|modem|lang=en}}
 
 ===Noun===
 {{sv-noun|g=n}} (''plural'' '''modem''', ''definite singular'' '''[[modemet]]''', ''definite plural'' '''[[modemen]]''')
 
-# [[#English|modem]]
+# {{l|en|modem}}
 
 ----
 
@@ -169,12 +169,12 @@ English '''[[#English|modem]]'''
 * Vietnamese transliteration: mô-đêm
 
 ===Etymology===
-English '''[[modem#English|modem]]'''
+{{etyl|en|vi}} {{term|modem|lang=en}}
 
 ===Noun===
 {{infl|vi|noun|g=m}}
 
-# [[#English|modem]]
+# {{l|en|modem}}
 
 [[cs:modem]]
 [[de:modem]]
