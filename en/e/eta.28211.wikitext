@@ -131,14 +131,18 @@ From {{etyl|fr|ht}} {{term|état}}
 
 ==Icelandic==
 
+===Pronunciation===
+* {{IPA|/ˈɛːta/|lang=is}}
+*: {{rhymes|ɛːta|lang=is}}
+
 ===Etymology 1===
-From {{etyl|non|is}} {{term|eta|lang=non}}.
+From {{etyl|non|is}} {{term|eta|lang=non}}, from {{proto|Germanic|etanan|lang=is}}.
 
 ====Alternative forms====
 * [[éta]] (more common)
 
 ====Verb====
-'''eta''' (''strong conjugation:'' [[át]] – [[átum]] – [[etið]])
+{{is-verb-strong|át|átum|etið}}
 
 # to [[eat]]
 
@@ -146,11 +150,15 @@ From {{etyl|non|is}} {{term|eta|lang=non}}.
 From {{etyl|grc|is}} {{term|ἦτα|tr=êta|sc=polytonic}}.
 
 ====Noun====
-{{is-noun|f}}
+{{is-noun|f|etu|etur}} ''or'' {{is-noun|n|eta|etu}}
 
 # [[#English|eta]] (letter of the Greek alphabet)
 
-[[Category:Icelandic verbs]]
+=====Declension=====
+{{is-decl-noun-f-w1||e|t}}
+''or''
+{{is-decl-noun-n-w||e|t}}
+
 [[Category:is:Greek letter names]]
 
 ----
