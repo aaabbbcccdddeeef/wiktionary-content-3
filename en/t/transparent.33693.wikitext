@@ -45,26 +45,27 @@ From {{etyl|ML.}} [[transparentis|transpārentis]] (genitive singular of [[trans
 ====Translations====
 {{trans-top|see-through, clear}}
 * Albanian: {{t|sq|tejdukshëm|xs=Albanian}}
+* [[Catalan]]: {{t|ca|transparent}}
 * Chinese:
 *: Mandarin: {{t|zh|透明|tr=tòumíng|sc=Hani}}
 * Czech: {{t+|cs|průhledný|m}}
 * Danish: {{t-|da|transparent}}, {{t|da|gennemsigtig}}, {{t-|da|klar}}
 * Dutch: {{t+|nl|doorzichtig}}
 * Finnish: {{t-|fi|läpinäkyvä}}
-* French: {{t+|fr|transparent|m}}
+* French: {{t+|fr|transparent}}
 * [[Galician]]: {{t-|gl|transparente|xs=Galician}}
 * German: {{t+|de|durchsichtig}}, {{t+|de|transparent}}
 * Greek: {{t+|el|διαφανής||tr=diafanís}}
 * Hebrew: {{t+|he|שקוף|tr=shaqúf}}
-* Hindi: [[पारदर्शक]], [[पारदर्शी]], [[स्वच्छ]], [[शुद्ध]]
+* Hindi: {{t|hi|पारदर्शक}}, {{t|hi|पारदर्शी}}, {{t|hi|स्वच्छ}}, {{t|hi|शुद्ध}}
 * Hungarian: {{t+|hu|átlátszó}}
 * Indonesian: [[tembus pandang]], [[bening]]
 * Irish: {{t-|ga|gléineach|xs=Irish}}, {{t-|ga|trédhearcach|xs=Irish}}
 {{trans-mid}}
 * Italian: {{t|it|trasparente}}
 * Japanese: {{t-|ja|透明|tr=とうめい, tōmē}}
-* Korean: [[들여다보이다]] (deul'yeodaboida) ''literally'', " to be through-seen"
-* Latvian: [[caurspīdīgs]] {{m}}, [[caurspīdīga]] {{f}}
+* Korean: {{t|ko|들여다보이다|tr=deul'yeodaboida}}
+* Latvian: {{t|lv|caurspīdīgs}}
 * Malay: {{t|ms|lutsinar|xs=Malay}}
 * [[Marathi]]: [[पारदर्शक]], [[पारदर्शी]], [[स्वच्छ]], [[शुद्ध]]
 * Norwegian: {{t-|no|gjennomsiktig}}, {{t-|no|transparent}}
@@ -87,7 +88,7 @@ From {{etyl|ML.}} [[transparentis|transpārentis]] (genitive singular of [[trans
 * French: {{t+|fr|transparent}}
 * German: {{t+|de|transparent}}
 * Hebrew: {{t+|he|שקוף|tr=shaqúf}}
-* Hindi: [[खुला]]
+* Hindi: {{t|hi|खुला}}
 * Japanese: {{t-|ja|透明|tr=tōmē}}, {{t|ja|可視化|tr=kashi ka}}
 {{trans-mid}}
 * Malay: {{t|ms|telus|xs=Malay}}
@@ -107,7 +108,7 @@ From {{etyl|ML.}} [[transparentis|transpārentis]] (genitive singular of [[trans
 * Czech: {{t-|cs|zřejmý}}, {{t-|cs|zřetelný}}
 * Danish: {{t|da|åbenbar}}, {{t-|da|klar}}, {{t|da|oplagt}}
 * Finnish: {{t-|fi|läpinäkyvä}}, {{t+|fi|ilmeinen}}
-* French: {{t+|fr|transparent|m}}
+* French: {{t+|fr|transparent}}
 * [[Galician]]: {{t-|gl|transparente|xs=Galician}}
 * German: {{t+|de|erkennbar}}
 * Hebrew: {{t|he|גלוי|alt=גְּלוּי|tr=galúi}}
@@ -130,7 +131,6 @@ From {{etyl|ML.}} [[transparentis|transpārentis]] (genitive singular of [[trans
 * {{ttbc|az}}: [[şəffaf]]
 * {{ttbc|sh}}: [[providan#Bosnian|providan]]
 * {{ttbc|bg}}: [[прозрачен]] ''(prozračen)''
-* {{ttbc|ca}}: transparent
 * {{ttbc|zh}}: [[透光]] ''(tòu guāng)''
 * {{ttbc|sh}}: [[providan#Croatian|providan]]
 * {{ttbc|nl}}: [[transparant]], [[doorzichtig]]
@@ -165,6 +165,18 @@ From {{etyl|ML.}} [[transparentis|transpārentis]] (genitive singular of [[trans
 * {{ttbc|vi}}: [[trong suốt]]
 * {{ttbc|cy}}: [[tryloyw]]
 {{trans-bottom}}
+
+----
+
+==Catalan==
+
+===Adjective===
+{{ca-adj|type=mf}}
+
+# {{l|en|transparent}}
+
+====Antonyms====
+* {{l|ca|opac}}
 
 ----
 
@@ -211,7 +223,7 @@ From {{etyl|ML.|fr}} {{term|transparens|lang=la}}.
 ===Adjective===
 {{fr-adj}}
 
-# [[#English|transparent]]; [[see-through]]
+# {{l|en|transparent}}; [[see-through]]
 #: ''Le verre est '''transparent'''.''
 # [[clear]]
 #: ''Un ciel (air, lumière, etc.) '''transparent'''.''
@@ -248,11 +260,9 @@ From {{etyl|ML.|fr}} {{term|transparens|lang=la}}.
 ==German==
 
 ===Adjective===
-'''transparent'''
+{{infl|de|adjective}}
 
-# [[Transparent#English|transparent]]
-
-[[Category:German adjectives]]
+# {{l|en|transparent}}
 
 ----
 
@@ -270,7 +280,7 @@ From {{etyl|ML.|fr}} {{term|transparens|lang=la}}.
 ===Adjective===
 {{infl|no|adjective}}
 
-# [[#English|transparent]] (quality of a material)
+# {{l|en|transparent}} {{glossquality of a material}}
 
 ====Inflection====
 {{no-adj-infl|nb-class=2|nn-class=2|periphrastic=t}}
