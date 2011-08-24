@@ -13,6 +13,7 @@ From [[localize]] + [[-ation]]; compare French ''[[localisation#French|localisat
 
 # The [[act]] of [[localize|localizing]].
 # The [[state]] of being [[localized]].
+# {{software engineering}} act or process of making a product suitable for use in a particular country or region.
 
 ====Derived terms====
 * [[l10n]], [[L10n]]
@@ -32,11 +33,13 @@ From [[localize]] + [[-ation]]; compare French ''[[localisation#French|localisat
 *: Mandarin: {{t-|cmn|本地化|tr=běndìhuà|sc=Hani}},  {{t|cmn|地方化|tr=dìfānghuà|sc=Hani}}
 * Dutch: {{t+|nl|lokalisatie|f}}
 * Finnish: {{t+|fi|lokalisoida}}, {{t+|fi|kotoistaa}}
+* German: {{t|de|Lokalisieren|n}}, {{t|de|Lokalisation|f}}, {{t|de|Lokalisierung|f}}
 * Greek: {{t+|el|εντοπισμός|m}} (''entopismós'')
 {{trans-mid}}
 * Japanese: {{t|ja|局在化|tr=きょくざいか, kyokuzaika}},  {{t|ja|局所化|tr=きょくしょか, kyokushoka}},  {{t|ja|地方化|tr=ちほうか, chihōka}}
 * Norwegian: {{t-|no|lokalisering|f}}
 * Russian: {{t+|ru|локализация|f|tr=lokalizácija}}
+* Turkish: {{t-|tr|lokalizasyon}}, {{t-|tr|yerini saptama}}, {{t-|tr|yerini tayin etme|tr=yerini tāyin etme}}
 {{trans-bottom}}
 
 {{trans-top|state of being localized}}
@@ -52,19 +55,19 @@ From [[localize]] + [[-ation]]; compare French ''[[localisation#French|localisat
 * Chinese:
 *: Mandarin: {{t-|cmn|本地化|tr=běndìhuà|sc=Hani}}
 * Dutch: landelijke aanpassing
-{{trans-mid}}
 * Greek: {{t|el|τοπικοποίηση|f}} (''topikopoíisi'')
+{{trans-mid}}
 * Japanese: {{t-|ja|ローカライゼーション|tr=rōkaraizēshon}}
 * Russian: {{t+|ru|локализация|f|tr=lokalizácija}}
+* Turkish: {{t-|tr|sınırlama}}, {{t-|tr|yerelleştirme}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 * {{ttbc|fr}}: {{t+|fr|localisation|f}}
-* {{ttbc|de}}: [[Lokalisation]]
+* {{ttbc|de}}: {{t-|de|Lokalisation|f}}
 * {{ttbc|it}}: [[localizzazione]]
+* {{ttbc|ko}}: [[지방화]] (rookaraizeeshon)
 {{trans-mid}}
-(rookaraizeeshon)
-* {{ttbc|ko}}: [[지방화]]
 * {{ttbc|la}}: [[localizatio]]
 * {{ttbc|pt}}: [[localização]]
 * {{ttbc|es}}: [[localización]]
