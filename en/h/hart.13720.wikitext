@@ -1,9 +1,9 @@
-{{also|Hart}}
+{{also|Hart|hårt}}
 ==English==
 
 ===Etymology 1===
-{{etyl|enm}} {{term|hert}}, from {{etyl|ang}} {{term|heorot||stag|lang=ang}}, from {{proto|Germanic|kherutaz}} (compare {{etyl|nl|-}} {{term|hert|lang=nl}}, {{etyl|de|-}} {{term|Hirsch|lang=de}}, {{etyl|da|-}}/{{etyl|sv|-}} {{term|hjort}}), from Pre-Germanic *''k̑erudo'', from {{proto|Indo-European|k̑óru|horn}}. Compare {{etyl|cy|-}} {{term|carw}} 'deer', {{etyl|la}} {{term|cervus}} 'deer', {{term|cervīx}} 'nape of the neck', {{etyl|lt|-}} {{term|kárvė}} 'cow', {{etyl|ru|-}} {{term|корова|tr=koróva|lang=ru}} 'cow', {{etyl|grc|-}} {{term|κόρυδος|sc=polytonic|tr=kórydos}} 'crested lark', {{term|κορυφή|sc=polytonic|tr=koryphē}} 'summit, crown of the head', {{term|κορύπτω|sc=polytonic|tr=korýptō}} 'to butt with horns', {{etyl|ae|-}} ''srū, sruvā'' 'horn; claw, talon', {{etyl|sa|-}} ''śarabháḥ''{{rfscript|Devanagari}} 'mythical antelope'. More at [[horn]].
-
+{{etyl|enm}} {{term|hert}}, from {{etyl|ang}} {{term|heorot||stag|lang=ang}}, from {{proto|Germanic|herutaz}} (compare {{etyl|nl|-}} {{term|hert|lang=nl}}, {{etyl|de|-}} {{term|Hirsch|lang=de}}, {{etyl|da|-}}/{{etyl|sv|-}} {{term|hjort}}), from Pre-Germanic *''k̑erudo'', from {{proto|Indo-European|ḱóru|horn}}. Compare {{etyl|cy|-}} {{term|carw|lang=cy}} 'deer', {{etyl|la}} {{term|cervus|lang=la}} 'deer', {{term|cervix|cervīx|lang=la}} 'nape of the neck', {{etyl|lt|-}} {{term|kárvė|lang=lt}} 'cow', {{etyl|ru|-}} {{term|корова|tr=koróva|lang=ru}} 'cow', {{etyl|grc|-}} {{term|κόρυδος|sc=polytonic|tr=kórydos|lang=grc}} 'crested lark', {{term|κορυφή|sc=polytonic|tr=koryphē|lang=grc}} 'summit, crown of the head', {{term|κορύπτω|sc=polytonic|tr=korýptō|lang=grc}} 'to butt with horns', {{etyl|ae|-}} {{term||...|tr=srū|lang=ae}}, {{term||...|tr=sruvā|lang=ae}} 'horn; claw, talon', {{etyl|sa|-}} {{term||...|tr=śarabháḥ|lang=sa}}{{rfscript|Devanagari}} 'mythical antelope'. More at [[horn]].
+    {{rfscript|Avestan}} <!-- see above, srū and sruvā -->
 ====Pronunciation====
 * {{a|RP}} {{IPA|/hɑːt/}}
 * {{audio|en-us-hart.ogg|Audio (US)}}
@@ -20,7 +20,7 @@
 
 =====Translations=====
 {{trans-top|male deer}}
-* Dutch: {{t|nl|hertenbok|m}}, [[hert]] {{n|m}}, [[reebok]] {{m}}
+* Dutch: {{t|nl|hertenbok|m}}, {{t|nl|hert}} {{n|m}}, {{t|nl|reebok|m}}
 * Finnish: {{t-|fi|saksanhirvi|alt=saksanhirviuros}}
 * French: {{t+|fr|cerf|m}}
 * Italian: {{t|it|cervo maschio}}
@@ -28,7 +28,7 @@
 * [[Old French]]: {{tø|fro|cerf|m}}
 * Russian: {{t+|ru|самец}} [[олень|оленя]]
 * Spanish: {{t+|es|macho|m}} de {{t+|es|ciervo|m}}
-* [[Ugaritic]]: [[𐎀𐎊𐎍]] (''ảyl'') {{m}}
+* [[Ugaritic]]: {{t-|uga|𐎀𐎊𐎍|tr=ảyl|m}}
 {{trans-bottom}}
 
 ===Etymology 2===
@@ -47,7 +47,7 @@ See {{term|heart|lang=en}}
 ==Dutch==
 
 ===Etymology===
-{{proto|Germanic|hertô|lang=nl}} < {{proto|Indo-European|ḱḗr|lang=nl}}. Cognate with English [[heart]], German {{term|Herz|lang=de}}, Swedish {{term|hjärta|lang=sv}}. The Indo-European root is also the source of Greek {{term|sc=Grek|καρδία|lang=el}}, Latin {{term|cor|lang=la}}, Welsh {{term|craidd|lang=cy}}, Irish {{term|croí|lang=ga}}, Russian {{term|сердце|lang=ru}}, Lithuanian {{term|širdis|lang=lt}}.
+{{proto|Germanic|hertô|lang=nl}} from {{proto|Indo-European|ḱḗr|lang=nl}}. Cognate with English {{term|heart|lang=en}}, German {{term|Herz|lang=de}}, Swedish {{term|hjärta|lang=sv}}. The Indo-European root is also the source of Greek {{term|sc=Grek|καρδία|lang=el}}, Latin {{term|cor|lang=la}}, Welsh {{term|craidd|lang=cy}}, Irish {{term|croí|lang=ga}}, Russian {{term|сердце|tr=serdce|lang=ru}}, Lithuanian {{term|širdis|lang=lt}}.
 
 ===Pronunciation===
 * {{rhymes|ɑrt|lang=nl}}
@@ -85,7 +85,7 @@ See {{term|heart|lang=en}}
 ==French==
 
 ===Etymology===
-From {{etyl|frk|fr}} *{{term||hard}} (compare Middle Dutch {{term|hede}}, German {{term|Hardt}}).
+From {{etyl|frk|fr}} {{recons|hard|hard|lang=frk}} (compare {{etyl|dum|-}} {{term|herde|lang=dum}}, German {{term|Hardt|lang=de}}).
 
 ===Pronunciation===
 * {{IPA|/ʔaʁ/|/ʔaʁt/|lang=fr}}
@@ -100,7 +100,7 @@ From {{etyl|frk|fr}} *{{term||hard}} (compare Middle Dutch {{term|hede}}, German
 ==German==
 
 ===Etymology===
-{{etyl|goh|de}} {{term|hart|lang=goh}}, akin to Old Saxon ''hard'', Dutch ''[[hard]]''
+{{etyl|goh|de}} {{term|hart|lang=goh}}, akin to {{etyl|osx|-}} {{term|hard|lang=osx}}, Dutch {{term|hard|lang=nl}}.
 
 ===Pronunciation===
 * {{IPA|/'haʁt/|lang=de}}
@@ -112,14 +112,12 @@ From {{etyl|frk|fr}} *{{term||hard}} (compare Middle Dutch {{term|hede}}, German
 
 # [[hard]]
 
-[[Category:German adjectives]]
-
 ----
 
 ==Icelandic==
 
 ===Etymology===
-Old Norse ''hart''
+{{etyl|non|is}} {{term|hart|lang=non}}
 
 ===Adjective===
 {{infl|is|adjective}} {{n}} (''comparative'' [[harðara]] ''superlative'' [[harðasta]]), [[harður]] {{m}}, [[hörð]] {{f}}
@@ -134,7 +132,7 @@ Old Norse ''hart''
 ==Old High German==
 
 ===Etymology===
-{{proto|Germanic|harduz|lang=goh}}, whence also Old English ''[[heard]]'', Old Norse ''[[harðr]]''
+{{proto|Germanic|harduz|lang=goh}}, whence also Old English {{term|heard|lang=ang}}, {{etyl|non|-}} {{term|harðr|lang=non}}.
 
 ===Adjective===
 {{infl|goh|adjective}}
