@@ -21,15 +21,15 @@ From {{etyl|fr|en}} {{term|gramme|lang=fr}}, from {{etyl|grc|en}} {{term|γρα�
 =====Translations=====
 {{trans-top|unit of mass}}
 * [[Afrikaans]]: {{t-|af|gram|xs=Afrikaans}}
-* Albanian: gram {{g|sq}}
-* Arabic: {{Arab|[[جرام]]}} (gram) {{m}}
+* Albanian: {{t|sq|gram}}
+* Arabic: {{t|ar|جرام|tr=gram|m}}
 * [[Catalan]]: {{t|ca|gram|m}}
 * Chinese: [[克]] (kè)
 * Czech: {{t+|cs|gram|m}}
 * Dutch: {{t+|nl|gram|m}}
 * Finnish: {{t+|fi|gramma}}
 * French: {{t+|fr|gramme|m}}
-* [[Galician]]: [[gramo]] {{m}}
+* [[Galician]]: {{t|gl|gramo|m}}
 * German: {{t+|de|Gramm|n}}
 * Greek: {{t+|el|γραμμάριο|n|tr=grammário}}
 *: Ancient: {{tø|grc|γραμμάριον|n|tr=grammárion|xs=Ancient Greek}}
@@ -39,7 +39,7 @@ From {{etyl|fr|en}} {{term|gramme|lang=fr}}, from {{etyl|grc|en}} {{term|γρα�
 * Hungarian: {{t+|hu|gramm}}
 * Italian: {{t+|it|grammo|m}}
 * Japanese: {{t+|ja|グラム|tr=guramu}}
-* Korean: [[그램]] geuraem
+* Korean: {{t|ko|그램|tr=geuraem}}
 * Polish: {{t+|pl|gram|m}}
 * Portuguese: {{t+|pt|grama|f}}
 * [[Punjabi]]: [[ਗ੍ਰਾਮ]] (grāma)
@@ -80,7 +80,7 @@ From {{etyl|fr|en}} {{term|gramme|lang=fr}}, from {{etyl|grc|en}} {{term|γρα�
 ===Noun===
 {{cs-noun|g=m}}
 
-# [[#English|gram]] {{gloss|unit}}
+# {{l|en|gram}} {{gloss|unit}}
 
 [[Category:cs:Units of measure]]
 
@@ -113,7 +113,7 @@ From {{etyl|grc|da}} {{term|sc=polytonic|γραμμά|tr=grammá|lang=grc}}.
 ====Noun====
 {{da-noun|stem=gramm|et}}
 
-# [[gram#English|gram]] (unit of mass)
+# {{l|en|gram}} {{gloss|unit of mass}}
 
 =====Inflection=====
 {{da-noun-infl|stem=gramm|et}}
@@ -130,7 +130,7 @@ From {{etyl|grc|da}} {{term|sc=polytonic|γραμμά|tr=grammá|lang=grc}}.
 ===Noun===
 {{nl-noun|g=n|grammen|grammetje}}
 
-# [[#English|gram]] (unit of mass)
+# {{l|en|gram}} {{gloss|unit of mass}}
 
 [[Category:nl:Units of measure]]
 
@@ -159,7 +159,7 @@ Germanic *{{term||gram-}}.
 ===Noun===
 {{infl|pl|noun|g=m}}
 
-# [[#English|gram]] (unit of mass)
+# {{l|en|gram}} {{gloss|unit of mass}}
 
 ====Declension====
 {{pl-decl-noun
@@ -186,7 +186,7 @@ Germanic *{{term||gram-}}.
 ===Noun===
 {{infl|ro|noun|g=n}}
 
-# [[#Romanian|gram]] (unit of mass)
+# {{l|en|gram}} {{gloss|unit of mass}}
 
 [[Category:ro:Metrology]]
 
@@ -203,7 +203,7 @@ From {{etyl|la|sh}} {{term|gramma|lang=la}}.
 ===Noun===
 {{sh-noun|g=m|head=grȁm|r|грам|гра̏м}}
 
-# [[#English|gram]] (unit)
+# {{l|en|gram}} {{gloss|unit}}
 
 ====Declension====
 {{sh-decl-noun
@@ -228,7 +228,7 @@ From {{etyl|la|sh}} {{term|gramma|lang=la}}.
 ===Noun===
 {{sv-noun|g=n}}
 
-# {{l|sv|gram}} (unit of mass)
+# {{l|en|gram}} {{gloss|unit of mass}}
 
 ----
 
@@ -237,7 +237,7 @@ From {{etyl|la|sh}} {{term|gramma|lang=la}}.
 ===Noun===
 {{tt-pos|noun|l}}
 
-# [[#English|gram]] (unit of mass).
+# {{l|en|gram}} {{gloss|unit of mass}}
 
 ====Declension====
 {{tt-latin-noun|nıñ|ga|nı|da|nan}}
