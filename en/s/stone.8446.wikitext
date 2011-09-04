@@ -74,12 +74,12 @@ From {{etyl|enm}} {{term|stan|lang=enm}}, {{term|ston|lang=enm}}, from {{etyl|an
 * [[Basque]]: [[harri]]
 * Belarusian: {{t|be|камень|m|tr=kámen’|sc=Cyrl}}
 * [[Breton]]: [[maen]] {{m}}, mein {{p}}
-* Bulgarian: {{t+|bg|камък|m|tr=kamǎk}}
+* Bulgarian: {{t+|bg|камък|m|tr=kámǎk}}
 * Burmese: {{t|my|ကျောက်|tr=kyauk|sc=Mymr|xs=Burmese}}
 * [[Catalan]]: [[pedra]] {{f}}, [[roca]]
 * [[Chamicuro]]: {{tø|ccc|chena}}
 * Cherokee: [[ᏅᏳ]] (nvyu)
-* Chinese: [[石]] (shí)
+* Chinese:
 *: Mandarin: {{t|zh|石|tr=shí|sc=Hani}}
 * [[Chuvash]]: [[чул]] (chul)
 * Croatian: {{t+|hr|kamen|m}}
@@ -98,7 +98,7 @@ From {{etyl|enm}} {{term|stan|lang=enm}}, {{term|ston|lang=enm}}, from {{etyl|an
 * [[Greenlandic]]: {{t-|kl|ujarak|xs=Greenlandic}}
 * [[Guaraní]]: [[ita]]
 * Hawaiian: [[haku]]
-* Hebrew: {{t+|he|אבן}}
+* Hebrew: {{t+|he|אבן|f|tr=éven}}
 * Hindi: {{t|hi|पत्थर|m|tr=patthar|sc=Deva}}
 * Hungarian: {{t+|hu|kő}}
 * Icelandic: {{t+|is|steinn|m}}
@@ -108,9 +108,9 @@ From {{etyl|enm}} {{term|stan|lang=enm}}, {{term|ston|lang=enm}}, from {{etyl|an
 * [[Interlingua]]: [[petra]]
 * Irish: [[cloch]] ''f2''
 * Italian: {{t+|it|pietra|f}}, {{t+|it|roccia|f}}
-* Japanese: {{t+|ja|石|tr=ishi}} ([[いし]])
+* Japanese: {{t+|ja|石|tr=[[いし]], ishi}}
 * Kazakh: {{t-|kk|тас|tr=tas|sc=Cyrl|xs=Kazakh}}
-* Korean: [[돌]] (dol), {{t|ko|돌|tr=dol|sc=Kore}}
+* Korean: {{t|ko|돌|tr=dol|sc=Kore}}
 * Kurdish: {{t+|ku|kevir}}, {{t+|ku|ber}}, {{t+|ku|berd}}, {{t+|ku|kuç}}, {{t+|ku|به‌رد|sc=ku-Arab}}
 * [[Latgalian]]: {{tø|ltg|akmiņs}}
 * Latin: {{t+|la|lapis|m}},  {{t-|la|petra}}
@@ -135,7 +135,7 @@ From {{etyl|enm}} {{term|stan|lang=enm}}, {{term|ston|lang=enm}}, from {{etyl|an
 * [[Old English]]: {{t-|ang|stan|xs=Old English}}
 * [[Old Persian]]: {{tø|peo|ayah|sc=Xpeo}}
 * [[Parthian]]: {{tø|xpr|ass}}
-* Persian: {{t+|fa|سنگ|alt=سَنگ|xs=Persian}}
+* Persian: {{t+|fa|سنگ|tr=sang|xs=Persian}}
 * [[Pitjantjatjara]]: [[apu]]
 * Polish: {{t+|pl|kamień|m}}
 * Portuguese: {{t+|pt|pedra|f}}, {{t+|pt|rocha}}
@@ -144,7 +144,6 @@ From {{etyl|enm}} {{term|stan|lang=enm}}, {{term|ston|lang=enm}}, from {{etyl|an
 * [[Santali]]: {{tø|sat|ᱫᱷᱤᱨᱤ|tr=dhiri|sc=Olck}}
 * [[Scots]]: [[stane]]
 * [[Scottish Gaelic]]: [[clach]] {{f}}
-* Serbian: {{t-|sr|kamen|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|камен|m}}
 *: Roman: {{t|sh|kamen|m}}
@@ -156,10 +155,10 @@ From {{etyl|enm}} {{term|stan|lang=enm}}, {{term|ston|lang=enm}}, from {{etyl|an
 * [[Tagalog]]: [[bato]]
 * [[Tajik]]: {{t+|tg|санг|tr=sang|sc=Cyrl|xs=Tajik}}
 * [[Telugu]]: {{t+|te|రాయి}} (raayi)
-* Thai: {{t+|th|หิน|tr=hĭn}}, {{t|th|ศิลา|sc=Thai}} (silā)
+* Thai: {{t+|th|หิน|tr=hĭn}}, {{t|th|ศิลา|tr=silā|sc=Thai}}
 * [[Tupinambá]]: [[itá]]
 * Turkish: {{t+|tr|taş}}
-* Ukrainian: {{t+|uk|камінь|m|tr=kamіn’|xs=Ukrainian}}
+* Ukrainian: {{t+|uk|камінь|m|tr=kámіn’|xs=Ukrainian}}
 * Urdu: {{t|ur|پتھر|m|tr=patthar|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|đá|xs=Vietnamese}}
 * Welsh: {{t+|cy|carreg|f|xs=Welsh}}
@@ -169,7 +168,7 @@ From {{etyl|enm}} {{term|stan|lang=enm}}, {{term|ston|lang=enm}}, from {{etyl|an
 
 {{trans-top|small piece of stone}}
 * [[Altai]]: {{tø|alt|таш|tr=taş|sc=Cyrl|xs=Southern Altai}}
-* Arabic: {{Arab|[[حجر|حَجَرٌ]]}} (ħájar) {{m}}
+* Arabic: {{t|ar|حجر|m|tr=Hájar|sc=Arab}}
 * Armenian: {{t-|hy|քար|tr=k'ar}}
 * [[Azeri]]: {{t+|az|daş|xs=Azeri}}
 * [[Bashkir]]: {{tø|ba|таш|tr=taş|sc=Cyrl|xs=Bashkir}}
@@ -190,8 +189,8 @@ From {{etyl|enm}} {{term|stan|lang=enm}}, {{term|ston|lang=enm}}, from {{etyl|an
 * [[Gagauz]]: {{tø|gag|taş}}
 * German: {{t+|de|Stein|m}}
 * [[Greenlandic]]: {{t-|kl|ujarak|xs=Greenlandic}}
-* Hebrew: {{t+|he|אבן}}
-* Hindi: [[पत्थर]] (pat’thar) {{m}}
+* Hebrew: {{t+|he|אבן|f|tr=éven}}
+* Hindi: {{t|hi|पत्थर|m|tr=patthar|sc=Deva}}
 * Hungarian: {{t+|hu|kavics}}
 * Icelandic: {{t+|is|steinn|m}}
 * Irish: [[cloch]] ''f2''
@@ -235,7 +234,7 @@ From {{etyl|enm}} {{term|stan|lang=enm}}, {{term|ston|lang=enm}}, from {{etyl|an
 * Turkish: {{t+|tr|taş}}
 * [[Turkmen]]: {{t-|tk|daş|xs=Turkmen}}
 * [[Tuvan]]: {{tø|tyv|даш|tr=daş|sc=Cyrl}}
-* Ukrainian: {{t|uk|камінець|m|tr=kaminets’|xs=Ukrainian}}
+* Ukrainian: {{t|uk|камінець|m|tr=kaminec’|xs=Ukrainian}}
 * [[Uyghur]]: {{t+|ug|تاش|tr=tax|sc=ug-Arab|xs=Uyghur}}
 * Uzbek: {{t+|uz|tosh|xs=Uzbek}}
 * [[West Frisian]]: {{t+|fy|stien|xs=West Frisian}}
