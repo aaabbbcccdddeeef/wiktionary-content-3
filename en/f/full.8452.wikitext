@@ -32,7 +32,7 @@ Danish {{term|fuld|lang=da}}, and Swedish and Norwegian {{term|full|lang=sv|lang
 * {{sense|containing the maximum possible amount}} [[abounding]], [[brimful]], [[bursting]], [[chock-a-block]], [[chock-full]], [[full up]], full to bursting, full to overflowing, [[jam full]], [[jammed]], [[jam-packed]], [[laden]], [[loaded]], [[overflowing]], [[packed]], [[rammed]], [[stuffed]]
 * {{sense|complete}} [[complete]], [[thorough]]
 * {{sense|total}} [[entire]], [[total]]
-* (''satisfied, in relation to eating''): [[glutted]], [[gorged]], [[sated]], [[satiate]], [[satiated]], [[satisfied]], [[stuffed]]
+* {{sense|satisfied, in relation to eating}} [[glutted]], [[gorged]], [[sated]], [[satiate]], [[satiated]], [[satisfied]], [[stuffed]]
 * {{sense|of a garment}} [[baggy]], [[big]], [[large]], [[loose]], [[outsized]], [[oversized]], [[voluminous]]
 <!--Sort these into the above lists, as appropriate:
 abundant, adequate, awash, big, bounteous, brimming, burdened, competent, complete, crammed, crowded, entire, extravagant, imbued, impregnated, intact, lavish, padded, plenteous, plentiful, plethoric, profuse, replete, saturated, stocked, sufficient, suffused, surfeited, teeming-->
@@ -41,7 +41,7 @@ abundant, adequate, awash, big, bounteous, brimming, burdened, competent, comple
 * {{sense|containing the maximum possible amount}} [[empty]]
 * {{sense|complete}} [[incomplete]]
 * {{sense|total}} [[partial]]
-* (''satisfied, in relation to eating''): [[empty]], [[hungry]], [[starving]]
+* {{sense|satisfied, in relation to eating}} [[empty]], [[hungry]], [[starving]]
 * {{sense|of a garment}} [[close-fitting]], [[small]], [[tight]], [[tight-fitting]]
 
 =====Derived terms=====
@@ -104,7 +104,7 @@ abundant, adequate, awash, big, bounteous, brimming, burdened, competent, comple
 * Korean: {{t|ko|완전한|tr=wanjeonhan|sc=Kore}}
 * Kurdish:
 * [[Kurmanji]]: {{t+|ku|tijî}}, {{t+|ku|tije}}
-*: Sorani: {{t|ku|پڕ|tr=pR|sc=ku-Arab}} (pirr)
+*: Sorani: {{t|ku|پڕ|tr=pR|sc=ku-Arab|tr=pirr}}
 * Latin: {{t-|la|plenus}}
 * Latvian: {{t|lv|pilns}}
 * Lithuanian: {{t+|lt|pilnas|xs=Lithuanian}}
@@ -133,16 +133,16 @@ abundant, adequate, awash, big, bounteous, brimming, burdened, competent, comple
 {{trans-top|complete}}
 * [[Afrikaans]]: {{t|af|volle}}
 * Armenian: {{t|hy|ամբողջական|tr=amboġǰakan}}
-* [[Catalan]]: {{t|ca|complet|m}}, {{t|ca|completa|f}}
+* [[Catalan]]: {{t|ca|complet}}
 * Danish: {{t|da|fuldstændig}}, {{t|da|komplet}}
 * Dutch: {{t+|nl|volledig}}
 * Esperanto: {{t-|eo|plena|xs=Esperanto}}
 * Finnish: {{t+|fi|täydellinen}}
-* French: {{t+|fr|complet|m}}, {{t+|fr|complète|f}}
+* French: {{t+|fr|complet}}
 * German: {{t+|de|komplett}}, {{t+|de|vollständig}}
 * Indonesian: {{t+|id|lengkap|xs=Indonesian}}
 * Irish: {{t-|ga|lán|xs=Irish}}
-* Italian: {{t-|it|completo|m}}, {{t-|it|completa|f}}
+* Italian: {{t-|it|completo}}
 * Kurdish:
 *: [[Kurmanji]]: {{t+|ku|temam}}
 {{trans-mid}}
@@ -150,10 +150,10 @@ abundant, adequate, awash, big, bounteous, brimming, burdened, competent, comple
 * Norwegian: {{t|no|fullstendig}}, {{t+|no|komplett}}
 * [[Old Church Slavonic]]: {{tø|cu|пльнъ|tr=plĭnŭ|sc=Cyrs}}
 * Polish: {{t+|pl|pełny}}
-* Portuguese: {{t+|pt|completo|m}}, {{t-|pt|completa|f}}
+* Portuguese: {{t+|pt|completo}}
 * Romanian: {{t+|ro|complet}}, {{t-|ro|terminat}}
 * Russian: {{t+|ru|полный|tr=pólnyj}}
-* Spanish: {{t+|es|completo|m}}
+* Spanish: {{t+|es|completo}}
 * Swedish: {{t|sv|fullödig}}, {{t|sv|fullständig}}
 * [[Telugu]]: {{t|te|సంపూర్ణము|tr=sampurnamu|sc=Telu}}
 * Welsh: {{t|cy|llawn|xs=Welsh}}
@@ -162,16 +162,16 @@ abundant, adequate, awash, big, bounteous, brimming, burdened, competent, comple
 {{trans-top|total, entire}}
 * [[Afrikaans]]: {{t|af|volle}}
 * Armenian: {{t+|hy|ամբողջ|tr=amboġǰ}}
-* [[Catalan]]: {{t|ca|total}}, {{t|ca|sencer|m}}, {{t|ca|sencera|f}}
+* [[Catalan]]: {{t|ca|total}}, {{t|ca|sencer}}
 * Danish: {{t-|da|fuld}}
 * Dutch: {{t+|nl|vol}}, {{t+|nl|volledig}}
 * Esperanto: {{t-|eo|tuta|xs=Esperanto}}
 * Finnish: {{t+|fi|koko}}, {{t+|fi|kokonainen}}
-* French: {{t+|fr|total|m}}, {{t+|fr|totale|f}}, {{t+|fr|entier|m}}, {{t+|fr|entière|f}}
+* French: {{t+|fr|total}}, {{t+|fr|entier}}
 * German: {{t|de|gesamt}}
 * Indonesian: [[menyeluruh]]
 * Irish: {{t-|ga|lán|xs=Irish}}, {{t|ga|iomlán|xs=Irish}}
-* Italian: {{t+|it|totale|m|f}}, {{t+|it|intero|m}}, {{t+|it|intera|f}}
+* Italian: {{t+|it|totale}}, {{t+|it|intero}}
 {{trans-mid}}
 * Kurdish:
 *: [[Kurmanji]]: {{t+|ku|tev}}
@@ -179,7 +179,7 @@ abundant, adequate, awash, big, bounteous, brimming, burdened, competent, comple
 * Norwegian: {{t+|no|hel}}
 * [[Old Church Slavonic]]: {{tø|cu|пльнъ|tr=plĭnŭ|sc=Cyrs}}
 * Polish: {{t+|pl|pełny}}, {{t+|pl|cały}}
-* Portuguese: {{t+|pt|total}}, {{t+|pt|inteiro|m}}, {{t+|pt|inteira|f}}
+* Portuguese: {{t+|pt|total}}, {{t+|pt|inteiro}}
 * Romanian: {{t-|ro|întreg}}, {{t-|ro|total}}
 * Russian: {{t+|ru|полный|tr=pólnyj}}, {{t+|ru|целый|tr=célyj}}
 * Spanish: {{t-|es|entero|m}}
@@ -190,7 +190,7 @@ abundant, adequate, awash, big, bounteous, brimming, burdened, competent, comple
 {{trans-top|satisfied, in relation to eating}}
 * [[Afrikaans]]: {{t|af|vol}}
 * Armenian: {{t|hy|կուշտ|tr=kušt}}
-* [[Catalan]]: {{t|ca|ple|m}}, {{t|ca|plena|f}}
+* [[Catalan]]: {{t|ca|ple}}
 * Chinese:
 ** Mandarin {{t-|cmn|飽|tr=bǎo|sc=Hani}} (trad.), {{t-|cmn|饱|tr=bǎo|sc=Hani}} (simp.)
 * Danish: {{t|da|mæt}}, {{t|da|fyldt op}}
@@ -202,7 +202,7 @@ abundant, adequate, awash, big, bounteous, brimming, burdened, competent, comple
 * Greek: {{t+|el|πλήρης|m}}
 * Indonesian: {{t+|id|kenyang|xs=Indonesian}}
 ** [[Sundanese]]: [[wareg]]
-* Italian: {{t-|it|sazio}}, {{t|it|pieno|m}}, {{t|it|satollo}}
+* Italian: {{t-|it|sazio}}, {{t|it|pieno}}, {{t|it|satollo}}
 {{trans-mid}}
 * Korean: {{t|ko|부르다|tr=bureu-da}}
 * Kurdish:
@@ -215,7 +215,7 @@ abundant, adequate, awash, big, bounteous, brimming, burdened, competent, comple
 * Polish: {{t-|pl|syty}}
 * Romanian: {{t-|ro|săturat}}, {{t-|ro|sătul}}
 * Russian: {{t+|ru|сытый|tr=sýtyj}}
-* Spanish: {{t-|es|satisfecho|m}}
+* Spanish: {{t-|es|satisfecho}}
 * Swedish: {{t+|sv|mätt}}
 * [[Telugu]]: {{t|te|సంతృప్తి|tr=samtrupti|sc=Telu}}
 * Turkish: {{t+|tr|tok}}
@@ -264,7 +264,6 @@ abundant, adequate, awash, big, bounteous, brimming, burdened, competent, comple
 #*: It is '''full''' strange to him who hears and feels, / When wandering there in some deserted street, / The booming and the jar of ponderous wheels, [...]
 
 =====Derived terms=====
-
 * [[full well]]
 
 ===Etymology 2===
@@ -367,7 +366,7 @@ From {{etyl|non|no}} {{term|fullr|lang=non}} < {{proto|Germanic|fullaz|lang=no}}
 ===Adjective===
 {{infl|no|adjective}}
 
-# {{l|en|full}} (containing the maximum possible amount)
+# {{l|en|full}} {{gloss|containing the maximum possible amount}}
 # [[drunk]]
 
 ====Inflection====
@@ -399,7 +398,7 @@ Indo-European cognates include {{etyl|cu|-}} {{term|плънъ|sc=Cyrl|tr=plŭn�
 ====Adjective====
 {{infl|ang|adjective|full}}
 
-# full, [[filled]], [[complete]], [[entire]]
+# {{l|en|full}}, [[filled]], [[complete]], [[entire]]
 
 =====Descendants=====
 * {{etyl|en|-}}: {{l|en|full}}
