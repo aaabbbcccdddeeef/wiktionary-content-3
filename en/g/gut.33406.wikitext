@@ -18,8 +18,8 @@ Originally in plural, from {{etyl|ang}} {{term|guttas|lang=ang}}, probably relat
 # {{uncountable}} The intestines of an animal used to make strings of a [[tennis racket]] or [[violin]], etc.
 
 ====Synonyms====
-* (''alimentary canal, intestine''): [[alimentary canal]], [[digestive system]], [[guts]], [[intestine]]
-* (''abdomen of a person, especially one that is enlarged''): [[abdomen]], [[beer belly]] {{qualifier|enlarged through overconsumption of beer}}, [[beer gut]] (''UK; enlarged through overconsumption of beer''), [[belly]], [[paunch]] {{qualifier|enlarged}}, [[potbelly]] {{qualifier|enlarged}}, [[stomach]], [[tum]], [[tummy]]
+* {{sense|alimentary canal, intestine}} [[alimentary canal]], [[digestive system]], [[guts]], [[intestine]]
+* {{sense|abdomen of a person, especially one that is enlarged}} [[abdomen]], [[beer belly]] {{qualifier|enlarged}}, [[beer gut]] {{qualifier|UK, enlarged}}, [[belly]], [[paunch]] {{qualifier|enlarged}}, [[potbelly]] {{qualifier|enlarged}}, [[stomach]], [[tum]], [[tummy]]
 * {{sense|intestines of an animal used to make strings}} [[catgut]]
 
 ====Derived terms====
@@ -35,7 +35,7 @@ Originally in plural, from {{etyl|ang}} {{term|guttas|lang=ang}}, probably relat
 {{trans-top|alimentary canal}}
 * Czech: {{t-|cs|střevo|n}}
 * Dutch: {{t+|nl|darm|m}}
-* French: [[intestin]] {{m}} {{qualifier|intestine}}, [[boyau]] {{m}} (''intestine of an animal, or, informally, of a human'')
+* French: {{t|fr|intestin|m}} {{qualifier|intestine}}, {{t|fr|boyau|m}} {{qualifier|intestine of an animal, or, informally, of a human}}
 * German: {{t+|de|Darm|m}}, {{t+|de|Eingeweide|f|p}}
 * Hebrew: {{t+|he|מעי|m|tr=me`í}}
 {{trans-mid}}
@@ -48,11 +48,11 @@ Originally in plural, from {{etyl|ang}} {{term|guttas|lang=ang}}, probably relat
 
 {{trans-top|abdomen}}
 * Dutch: {{t+|nl|buik|m}}
-* French: [[panse]] {{f}} {{qualifier|enlarged or not}}, [[bedaine]] {{f}} {{qualifier|enlarged}}, [[bide#French|bide]] {{m}}
+* French: {{t|fr|panse|f}} {{qualifier|enlarged or not}}, {{t|fr|bedaine|f}} {{qualifier|enlarged}}, {{t|fr|bide|m}}
 * German: {{t+|de|Bauch|m}}, {{t+|de|Ranzen|m|p}}
-* Italian: [[epa]] {{f}} {{qualifier|enlarged}}, [[pancia]] {{f}}
+* Italian: {{t|it|epa|f}} {{qualifier|enlarged}}, {{t|it|pancia|f}}
 {{trans-mid}}
-* Korean: [[배]] (bae), {{qualifier|vulgar}} [[똥배]] (ttongbae) {{qualifier|enlarged}}
+* Korean: {{t|ko|배|tr=bae}}, {{qualifier|vulgar}} {{t|ko|똥배|tr=ttongbae}} {{qualifier|enlarged}}
 * Portuguese: {{t+|pt|pança|f}}, {{t+|pt|barriga|f}}
 * Russian: {{t+|ru|брюхо|n}}
 * [[Volapük]]: {{t|vo|bälid}}
@@ -60,7 +60,7 @@ Originally in plural, from {{etyl|ang}} {{term|guttas|lang=ang}}, probably relat
 
 {{trans-top|intestines of an animal used to make strings of a tennis racket or violin, etc}}
 * Dutch: {{t+|nl|ingewanden|p}}
-* French: [[boyau]]x {{m|p}}, [[corde de boyau|cordes de boyau]] {{f|p}}
+* French: {{t|fr|boyaux|m|p}}, {{t|fr|cordes de boyau|f|p}}
 {{trans-mid}}
 * German: {{t+|de|Darm|f}}, {{t+|de|Darmsaite|f}}
 {{trans-bottom}}
@@ -85,7 +85,7 @@ Originally in plural, from {{etyl|ang}} {{term|guttas|lang=ang}}, probably relat
 
 ====Translations====
 {{trans-top|To eviscerate}}
-* Bulgarian: [[изкормвам]] (izkormvam)
+* Bulgarian: {{t|bg|изкормвам|tr=izkormvam}}
 * Czech: {{t|cs|vykuchat}}
 * Dutch: {{t+|nl|uithalen}}
 * Finnish: [[ottaa]] (''+ elative'') [[sisälmys|sisälmykset]] ([[pois]]); (''~ a fish'') [[perata]]
@@ -111,11 +111,25 @@ Originally in plural, from {{etyl|ang}} {{term|guttas|lang=ang}}, probably relat
 # [[instinctive|Instinctive]], e.g., a ''gut reaction''
 
 ====Translations====
-* Bulgarian: [[чревен]] (čreven) (1), [[инстинктивен]] (instinktiven) (2)
-* French: en [[boyau]] (1), [[viscéral]] (2)
-* German: {{t+|de|darmbesaitet}} (1), {{t+|de|instinktiv}}, {{t+|de|Bauch|alt=Bauch-}}, {{t|de|Bauchgefühl|alt=Bauchgefühl-}}
+{{trans-top|made of gut}}
+* Bulgarian: {{t|bg|чревен|tr=čreven}}
+* French: {{t|fr|en boyau}}
+{{trans-mid}}
+* German: {{t+|de|darmbesaitet}}
+{{trans-bottom}}
 
-===Related terms===
+{{trans-top|instinctive}}
+* Bulgarian: {{t|bg|инстинктивен|tr=instinktiven}}
+* French: {{t|fr|viscéral}}
+{{trans-mid}}
+* German: {{t+|de|instinktiv}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+{{t+|de|Bauch|alt=Bauch-}}, {{t|de|Bauchgefühl|alt=Bauchgefühl-}}
+{{checktrans-bottom}}
+
+====Related terms====
 * [[blood-and-guts]]
 
 ===Anagrams===
