@@ -175,7 +175,7 @@ From {{etyl|enm}} {{term|ordre|lang=enm}}, from {{etyl|fro}} {{term|ordre|lang=f
 * Dutch: {{t+|nl|order|m}}, {{t+|nl|bevel|n}}
 * Esperanto: {{t-|eo|ordono|xs=Esperanto}}
 * Estonian: {{t|et|korraldus}}
-* Finnish: {{t+|fi|käsky}}
+* Finnish: {{t+|fi|käsky}}, {{t|fi|komento}}
 * French: {{t+|fr|ordre|m}}
 *: [[Old French]]: {{tø|fro|comandement|m}}
 * German: {{t-|de|Order|f}}, {{t+|de|Befehl|m}}
@@ -270,7 +270,7 @@ From {{etyl|enm}} {{term|ordre|lang=enm}}, from {{etyl|fro}} {{term|ordre|lang=f
 * Belarusian: {{t|be|ордэн|m|tr=órden|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|zh|勛章|sc=Hani}}, {{t|zh|勋章|tr=xūnzhāng|sc=Hani}}
-* {{trreq|Finnish}}
+* Finnish: {{t|fi|kunniamerkki}}
 * French: {{t|fr|ordre|m}}
 {{trans-mid}}
 * German: {{t+|de|Orden|m}}
@@ -281,7 +281,7 @@ From {{etyl|enm}} {{term|ordre|lang=enm}}, from {{etyl|fro}} {{term|ordre|lang=f
 * Ukrainian: {{t|uk|орден|m|tr=órden|sc=Cyrl}}
 {{trans-bottom}}
 
-{{trans-top|Biology - taxonomical classification}}
+{{trans-top|biology: taxonomical classification}}
 * Czech: {{t+|cs|řád|m}}
 * Finnish: {{t+|fi|lahko}}
 * French: {{t+|fr|ordre|m}}
@@ -303,14 +303,14 @@ From {{etyl|enm}} {{term|ordre|lang=enm}}, from {{etyl|fro}} {{term|ordre|lang=f
 * [[West Frisian]]: {{t+|fy|skift|xs=West Frisian}}
 {{trans-bottom}}
 
-{{trans-top|Cricket - The sequence in which a side’s batsmen bat}}
+{{trans-top|cricket: sequence in which a side’s batsmen bat}}
 * Finnish: {{t|fi|lyöntijärjestys}}
 * Japanese: [[打順]] (dajyun)
 {{trans-mid}}
 * [[Telugu]]: {{t+|te|వరుస}} (varusa)
 {{trans-bottom}}
 
-{{trans-top|Electronics - a power of polynomial function in a circuit’s block}}
+{{trans-top|electronics: power of polynomial function in a circuit’s block}}
 * Finnish: {{t+|fi|aste}}
 * Japanese: [[次]] (ji)
 {{trans-mid}}
@@ -325,7 +325,7 @@ From {{etyl|enm}} {{term|ordre|lang=enm}}, from {{etyl|fro}} {{term|ordre|lang=f
 * Swahili: {{t+|sw|oda|xs=Swahili}}
 {{trans-bottom}}
 
-{{trans-top|Graphtheory - a number of vertices in a graph}}
+{{trans-top|graph theory: number of vertices in a graph}}
 * Finnish: {{t+|fi|aste}}
 * Japanese: [[位数]] (isū)
 {{trans-mid}}
@@ -344,8 +344,9 @@ From {{etyl|enm}} {{term|ordre|lang=enm}}, from {{etyl|fro}} {{term|ordre|lang=f
 
 {{trans-top|highest exponent in a polynomial}}
 * Dutch: {{t|nl|orde}}
-* Norwegian: {{t|no|orden|m}}
+* Finnish: {{t|fi|aste}}
 {{trans-mid}}
+* Norwegian: {{t|no|orden|m}}
 {{trans-bottom}}
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 {{checktrans-top}}
