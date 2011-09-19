@@ -107,13 +107,13 @@ First coined 1605. From {{term|chemist|lang=en}}, {{term|chymist}}, from {{etyl|
 ====Translations====
 {{trans-top|branch of natural science}}
 * [[Afrikaans]]: {{t-|af|chemie|xs=Afrikaans}}, {{t-|af|skeikunde|xs=Afrikaans}}
-* Arabic: {{Arab|[[كيمياء]]}} (kīmiya’) {{f}}, {{t|ar|كيمياء|f|tr=kīmiya’|sc=Arab}}
+* Arabic: {{t|ar|كيمياء|f|tr=kīmiya’|sc=Arab}}
 * Armenian: {{t-|hy|քիմիա|tr=k'imia}}
 * [[Basque]]: {{t|eu|kimika|xs=Basque}}
 * Belarusian: {{t|be|хімія|f|tr=xímija|sc=Cyrl}}
-* Bulgarian: {{t+|bg|химия|f}}
+* Bulgarian: {{t+|bg|химия|f|tr=hímija|sc=Cyrl}}
 * [[Catalan]]: {{t+|ca|química|f}}
-* Chinese: {{zh-ts|化學|化学}} (huàxué)
+* Chinese:
 *: Mandarin: {{t|zh|化學|sc=Hani}}, {{t|zh|化学|tr=huàxué|sc=Hani}}
 * Croatian: {{t+|hr|kemija|f}}
 * Czech: {{t+|cs|chemie|f}}
@@ -134,9 +134,9 @@ First coined 1605. From {{term|chemist|lang=en}}, {{term|chymist}}, from {{etyl|
 * Icelandic: {{t+|is|efnafræði|f}}
 * Irish: {{t|ga|ceimic|f}}
 * Italian: {{t+|it|chimica|f}}
-* Japanese: [[化学]] ([[かがく]]), (kagaku), {{t|ja|化学|tr=かがく, kagaku|sc=Jpan}}
+* Japanese: {{t|ja|化学|tr=[[かがく]], kagaku|sc=Jpan}}
 * [[Khmer]]: {{t|km|រសាយនវិទ្យា|sc=Khmr|tr=reasaayanavityie}}, {{t|km|គីមីវិទ្យា|sc=Khmr|tr=kiimii vityie}}
-* Korean: {{t|ko|화학|tr=hwahak|sc=Kore}}, {{t|ko|化學|sc=Kore}}
+* Korean: {{t|ko|화학|tr=hwahak|sc=Kore}} ({{t|ko|化學|sc=Kore}})
 * [[Luxembourgish]]: {{t|lb|Chimie|f}}
 * Norwegian: {{t+|no|kjemi}}
 * Polish: {{t+|pl|chemia|f}}
@@ -146,15 +146,16 @@ First coined 1605. From {{term|chemist|lang=en}}, {{term|chymist}}, from {{etyl|
 * [[Sotho]]: {{t|st|bokhemisi|xs=Sotho}}
 * Spanish: {{t+|es|química|f}}
 * Swedish: {{t+|sv|kemi|c}}
-* Ukrainian: {{t|uk|хімія|f|tr=khimiya|xs=Ukrainian}}
+* Ukrainian: {{t|uk|хімія|f|tr=xímija|xs=Ukrainian}}
 * Urdu: {{t|ur|کیمیاء|tr=kīmiya’|xs=Urdu}}
-* Vietnamese: {{t+|vi|hóa học|xs=Vietnamese}}, {{t|vi|化學}}
+* Vietnamese: {{t+|vi|hóa học|xs=Vietnamese}} ({{t|vi|化學}})
 {{trans-bottom}}
 
 {{trans-top|application of chemical theory and method to a particular substance}}
-* Arabic: {{Arab|[[كيمياء]]}} (kīmiya’) {{f}}
+* Arabic: {{t|ar|كيمياء|f|tr=kīmiya’|sc=Arab}}
 * Armenian: {{t-|hy|քիմիա|tr=k'imia}}
-* Chinese: {{zh-ts|化學|化学}} (huàxué)
+* Chinese:
+*: Mandarin: {{t|zh|化學|sc=Hani}}, {{t|zh|化学|tr=huàxué|sc=Hani}}
 * Croatian: {{t+|hr|kemija|f}}
 * Danish: {{t|da|kemi|c}}, {{t|da|kemiske}} {{t|da|egenskab|c}}
 * Dutch: {{t+|nl|chemie|f}}, {{t+|nl|scheikunde|f}}
@@ -166,7 +167,7 @@ First coined 1605. From {{term|chemist|lang=en}}, {{term|chymist}}, from {{etyl|
 * Greek: {{t+|el|χημεία|f|tr=chimeía}}
 * [[Haitian Creole]]: {{tø|ht|chimi}}
 * Italian: {{t+|it|chimica|f}}
-* Japanese: [[化学]] [[かがく]], (kagaku)
+* Japanese: {{t|ja|化学|tr=[[かがく]], kagaku|sc=Jpan}}
 * Portuguese: {{t+|pt|química|f}}
 * Russian: {{t+|ru|химия|f|tr=xímija}}
 * Swedish: {{t+|sv|kemi|c}}
@@ -175,7 +176,8 @@ First coined 1605. From {{term|chemist|lang=en}}, {{term|chymist}}, from {{etyl|
 {{trans-top|mutual attraction between two people}}
 * Armenian: {{t-|hy|քիմիա|tr=k'imia}}
 * Bulgarian: {{t+|bg|химия|f}}
-* Chinese: {{zh-ts|[[來電]]|[[来电]]}} (láidiàn)
+* Chinese:
+*: Mandarin: {{t|zh|來電|sc=Hani}}, {{t|zh|来电|tr=láidiàn|sc=Hani}}
 * Croatian: {{t+|hr|kemija|f}}
 * Danish: {{t-|da|kemi|c}}
 * Dutch: {{t+|nl|chemie}}
