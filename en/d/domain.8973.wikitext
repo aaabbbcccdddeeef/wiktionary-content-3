@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-< {{etyl|enm}} ''[[demeine]], [[demain]]'' (rule), {{etyl|fro}} ''[[demeine]], [[demaine]], [[demeigne]], [[domaine]]'' (power), {{etyl|fr}} ''[[domaine]]'' < {{etyl|la}} {{term|dominium||property, right of ownership}} < {{term|dominus||master, proprietor, owner}}. See [[dame]], and confer [[demain]], [[danger]], [[dungeon]].
+< {{etyl|enm}} {{term|demeine|lang=enm}}, {{term|demain||rule|lang=enm}}, {{etyl|fro}} {{term|demeine|lang=fro}}, {{term|demaine|lang=fro}}, {{term|demeigne|lang=fro}}, {{term|domaine||power|lang=fro}}, ({{etyl|fr|-}} {{term|domaine|lang=fr}}) < {{etyl|la}} {{term|dominium||property, right of ownership}} < {{term|dominus||master, proprietor, owner}}. See [[dame]], and confer [[demain]], [[danger]], [[dungeon]].
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/dəʊˈmeɪn/}}, {{SAMPA|/d@U"meIn/}}
@@ -23,11 +23,11 @@
 # {{context|computing|Internet}} Any [[Domain Name System|DNS]] [[domain name]], particularly one which has been [[delegate|delegated]] and has become representative of the delegated domain name and its [[subdomain|subdomains]]
 #* '''2000''', ''BIND 9 Administrator Reference Manual (9.3.2)'', Internet Software Consortium [http://www.bind9.net/manual/bind/9.3.2/Bv9ARM.ch01.html]
 #*: Every name in the DNS tree is a '''domain''', even if it is terminal, that is, has no subdomains.
-# {{context|computing|internet}} A collection of [[Domain Name System|DNS]] or DNS-like [[domain name|domain names]] consisting of a [[delegate|delegated]] [[domain name]] and all its [[subdomain|subdomains]]
+# {{context|computing|Internet}} A collection of [[Domain Name System|DNS]] or DNS-like [[domain name|domain names]] consisting of a [[delegate|delegated]] [[domain name]] and all its [[subdomain|subdomains]]
 # {{computing}} A collection of information having to do with a '''domain''', the [[computer|computers]] named in the '''domain''', and the [[network]] on which the computers named in the '''domain''' reside
 # {{computing}} The collection of computers identified by a '''domain''''s [[domain name|domain names]]
-# {{context|biology|taxonomy}} In the [[three-domain system]], the highest [[rank]] in the classification of [[organism]]s, above [[kingdom]]; in other taxonomic systems, a similarly high rank
-# {{context|biology|taxonomy}} In the three-domain system, one of three [[taxon|taxa]] at that rank: ''[[Bacteria]]'', ''[[Archaea]]'', or ''[[Eukaryota]]''.
+# {{biology|taxonomy}} In the [[three-domain system]], the highest [[rank]] in the classification of [[organism]]s, above [[kingdom]]; in other taxonomic systems, a similarly high rank
+# {{biology|taxonomy}} In the three-domain system, one of three [[taxon|taxa]] at that rank: ''[[Bacteria]]'', ''[[Archaea]]'', or ''[[Eukaryota]]''.
 
 ====Usage notes====
 * {{sense|collection of information}} Used in a context in which [[domain name services]], or domain name like services, are managed in a fashion that is [[integrated]] with the management of other computer and network related information.
@@ -99,7 +99,7 @@
 * Finnish: {{t+|fi|luokka}}, {{t+|fi|laji}}, {{t+|fi|suku}}, {{t+|fi|ala}}
 * German: {{t+|de|Gebiet|n}}, {{t+|de|Bereich|m}}
 {{trans-mid}}
-* Greek: {{t+|el|κλάδος|m|tr=kládos}},  {{t+|el|τομέας|m|tr=toméas}}
+* Greek: {{t+|el|κλάδος|m|tr=kládos}}, {{t+|el|τομέας|m|tr=toméas}}
 * Polish: {{t+|pl|dziedzina|f}}
 * Portuguese: {{t+|pt|domínio|m}}
 {{trans-bottom}}
@@ -145,7 +145,7 @@
 * Russian: {{t|ru|домен|m|tr=domén}}
 * [[Scottish Gaelic]]: {{t|gd|àrainn-lìn |f}}
 * Swedish: {{t+|sv|domän|c}}
-* Vietnamese: {{t|vi|không gian tên|xs=Vietnamese}},  {{t|vi|tên miền không gian|xs=Vietnamese}}
+* Vietnamese: {{t|vi|không gian tên|xs=Vietnamese}}, {{t|vi|tên miền không gian|xs=Vietnamese}}
 {{trans-bottom}}
 
 {{trans-top|collection of DNS domain names}}
