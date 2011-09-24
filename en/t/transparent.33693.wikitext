@@ -304,14 +304,23 @@ From {{etyl|ML.|fr}} {{term|transparens|lang=la}}.
 ==Polish==
 
 ===Pronunciation===
-* {{IPA|/tranˈsparɛnt/|lang=pl}}
+* {{IPA|/trãsˈparɛnt/|lang=pl}}
 
 ===Noun===
-'''transparent''' (plural '''[[transparenty]]''', ''genitive sg'' '''[[transparentu]]''', ''locative sg'' '''[[transparencie]]''')
+{{infl|pl|noun|g=m}}
 
 # [[banner]]
 
-[[Category:Polish nouns]]
+====Declension====
+{{pl-decl-noun
+|transparent|transparenty
+|transparentu|transparentów
+|transparentowi|transparentom
+|transparent|transparenty
+|transparentem|transparentami
+|transparencie|transparentach
+|transparencie|transparenty
+}}
 
 [[cy:transparent]]
 [[de:transparent]]
