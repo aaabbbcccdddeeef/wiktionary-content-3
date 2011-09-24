@@ -31,7 +31,7 @@
 ====Translations====
 {{trans-top|ancient construction}}
 * Albanian: {{t|sq|piramidë|f|xs=Albanian}}
-* Arabic: {{t-|ar|هرم|m|tr=háram}},  {{qualifier|plural}} {{t|ar|أهرام|m|p|tr='ahraam}}
+* Arabic: {{t-|ar|هرم|m|tr=háram}}, {{qualifier|plural}} {{t|ar|أهرام|m|p|tr='ahraam}}
 * Armenian: [[բուրգ]] (burg)
 * Bosnian: {{t-|bs|piramida|f}}
 * Bulgarian: {{t|bg|пирамида|f|tr=piramída|sc=Cyrl}}
@@ -56,7 +56,7 @@
 {{trans-mid}}
 * Icelandic: {{t|is|pýramídi}}
 * Irish: [[pirimid]] {{f}}
-* Japanese: {{t-|ja|ピラミッド|tr=piramiddo}},  {{t+|ja|金字塔|tr=きんじとう, kinjitō}}
+* Japanese: {{t-|ja|ピラミッド|tr=piramiddo}}, {{t+|ja|金字塔|tr=きんじとう, kinjitō}}
 * Korean: {{t|ko|피라미드|tr=phiramideu|sc=Hang}}
 * Latin: {{t-|la|pyramis|f}}
 * Latvian: {{t|lv|piramīda|f|xs=Latvian}}
@@ -80,7 +80,7 @@
 {{trans-bottom}}
 
 {{trans-top|construction}}
-* Arabic: {{t-|ar|هرم|m|tr=háram}},  {{qualifier|plural}} {{t|ar|أهرام|m|p|tr='ahraam}}
+* Arabic: {{t-|ar|هرم|m|tr=háram}}, {{qualifier|plural}} {{t|ar|أهرام|m|p|tr='ahraam}}
 * Armenian: [[բուրգ]] (burg)
 * Bosnian: {{t-|bs|piramida|f}}
 * [[Catalan]]: {{t-|ca|piràmide|f}}
@@ -110,13 +110,13 @@
 {{trans-bottom}}
 
 {{trans-top|notion in geometry}}
-* Arabic: {{t-|ar|هرم|m|tr=háram}},  {{qualifier|plural}} {{t|ar|أهرام|m|p|tr='ahraam}}
+* Arabic: {{t-|ar|هرم|m|tr=háram}}, {{qualifier|plural}} {{t|ar|أهرام|m|p|tr='ahraam}}
 * Armenian: [[բուրգ]] (burg)
 * Bosnian: {{t-|bs|piramida|f}}
 * Bulgarian: {{t|bg|пирамида|f|tr=piramída|sc=Cyrl}}
 * [[Catalan]]: {{t-|ca|piràmide|f}}
 * Chinese:
-*: Mandarin: {{t-|cmn|角錐|sc=Hani}},  {{t|cmn|角锥|tr=jiǎozhuī|sc=Hani}}
+*: Mandarin: {{t-|cmn|角錐|sc=Hani}}, {{t|cmn|角锥|tr=jiǎozhuī|sc=Hani}}
 * Croatian: {{t-|hr|piramida|f|alt=piramída}}
 * Danish: {{t-|da|pyramide|c}}
 * Dutch: {{t+|nl|piramide|f}}
@@ -151,24 +151,26 @@
 ===See also===
 * [[Ponzi scheme]]
 
+
+[[Category:en:Pyramids]]
 ----
 
 ==Swedish==
 
 ===Noun===
-{{sv-noun-reg-r-c|2=pyramide}}
-'''pyramid''' {{c}}
+{{sv-noun|g=c}}
 
 # {{geometry|lang=sv}} [[#English|pyramid]]
-# [[#English|Pyramid]]-shaped construction.
+# [[#English|Pyramid]]-shaped construction.<!--isn't that the same as a pyramid?-->
+
+====Declension====
+{{sv-noun-reg-r-c|2=pyramide}}
 
 ====Related terms====
 * [[pyramidspel]]
 
 ====See also====
 * [[pyramidal]]
-
-[[Category:Pyramids]]
 
 [[ar:pyramid]]
 [[zh-min-nan:pyramid]]
