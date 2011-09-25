@@ -29,7 +29,7 @@ From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|problema}}, from {
 
 ====Translations====
 {{trans-top|difficulty}}
-* Albanian: {{t|sq|çështje|xs=Albanian}},  {{t-|sq|problem|xs=Albanian}}
+* Albanian: {{t|sq|çështje|xs=Albanian}}, {{t-|sq|problem|xs=Albanian}}
 * Arabic: {{t|ar|مشكلة|f|tr=múškila|sc=Arab}}
 * Armenian: {{t-|hy|խնդիր|tr=xndir}}
 * [[Basque]]: {{t|eu|arazo|xs=Basque}}
@@ -68,12 +68,12 @@ From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|problema}}, from {
 * Portuguese: {{t+|pt|problema|m}}
 * Romanian: {{t-|ro|problemă|f}}
 * Russian: {{t+|ru|проблема|f|tr=probléma}}
-* [[Scottish Gaelic]]: {{t-|gd|duilgheadas|m|xs=Scottish Gaelic}},  {{t-|gd|staing|f|xs=Scottish Gaelic}}
+* [[Scottish Gaelic]]: {{t-|gd|duilgheadas|m|xs=Scottish Gaelic}}, {{t-|gd|staing|f|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: {{t-|sr|проблем|m|sc=Cyrl}}
 *: Roman: {{t-|sr|problem|m}}
 * Spanish: {{t+|es|problema|m}}, {{t+|es|dificultad|f}}, {{t-|es|lío|m}}
-* Swahili: {{t+|sw|tatizo|xs=Swahili}},  {{t+|sw|masaibu|xs=Swahili}}
+* Swahili: {{t+|sw|tatizo|xs=Swahili}}, {{t+|sw|masaibu|xs=Swahili}}
 * Swedish: {{t+|sv|problem|n}}
 * [[Tagalog]]: {{t-|tl|problema|xs=Tagalog}}
 * Thai: {{t|th|ปัญหา|tr=bpanhăa|sc=Thai}}
@@ -117,7 +117,7 @@ From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|problema}}, from {
 {{trans-bottom}}
 
 {{trans-top|puzzling circumstance}}
-* [[Basque]]: {{t|eu|arazo|xs=Basque}},  {{t|eu|buruhauste|xs=Basque}}
+* [[Basque]]: {{t|eu|arazo|xs=Basque}}, {{t|eu|buruhauste|xs=Basque}}
 * Bengali: {{t|bn|প্রব্লেম|sc=Beng}}
 * Bosnian: {{t-|bs|problem|m}}
 * [[Catalan]]: {{t-|ca|problema|m}}
@@ -134,7 +134,7 @@ From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|problema}}, from {
 *: Cyrillic: {{t-|sr|проблем|m|sc=Cyrl}}
 *: Roman: {{t-|sr|problem|m}}
 * Spanish: {{t+|es|problema|m}}, {{t-|es|embrollo|m}}, {{t-|es|lío|m}}, {{t+|es|bronca|f}} {{qualifier|Mexico}}
-* Swahili: {{t+|sw|tatizo|xs=Swahili}},  {{t+|sw|masaibu|xs=Swahili}}
+* Swahili: {{t+|sw|tatizo|xs=Swahili}}, {{t+|sw|masaibu|xs=Swahili}}
 * [[Tagalog]]: {{t-|tl|problema|xs=Tagalog}}
 * Thai: {{t|th|เรื่อง|tr=rêuang|sc=Thai}}
 {{trans-bottom}}
@@ -209,10 +209,12 @@ From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|problema}}, from {
 
 ===Noun===
 {{sv-noun|g=n}}
-{{sv-noun-n-zero}}
 
 # [[#English|problem]]; difficulty
 # problem; schoolwork exercise
+
+====Declension====
+{{sv-noun-n-zero}}
 
 ====Related terms====
 * [[problematisk]]
