@@ -7,7 +7,7 @@ Popularized by Pierre Bézier.
 ===Noun===
 {{en-noun|sg=Bézier [[curve]]}}
 
-# {{computer graphics}} A [[parametric]] curve defined by a set of [[control point]]s, two of which are the ends of the curve, and the others determine its shape.
+# {{math}} A [[parametric]] curve defined by a set of [[control point]]s, two of which are the ends of the curve, and the others determine its shape. Bézier curves are applied e.g. in computer graphics to produce smooth, scalable curves.
 
 ====Translations====
 {{trans-top|a cubic curve used as a spline}}
