@@ -42,7 +42,7 @@
 {{trans-top|hare}}
 * [[Abkhaz]]: {{t|ab|ажьа|tr=až'a|sc=Cyrl}}
 * [[Afrikaans]]: {{t|af|haas}}
-* [[Ainu]]: {{tø|ain|エペッケ|tr=epetke}}
+* [[Ainu]]: {{tø|ain|エペッケ|tr=epetke}}, {{tø|ain|エペッケ|tr=epetke}}
 * Albanian: {{t-|sq|lepuri i egër|xs=Albanian}}
 * Arabic: {{t|ar|ارنب بري|m|tr='arnab bari|sc=Arab}}, {{t|ar|أرنب|m|tr='arnab|sc=Arab}}
 * Armenian: {{t-|hy|նապաստակ|tr=napastak}}
@@ -54,7 +54,7 @@
 * Bulgarian: {{t+|bg|заек|m|tr=zaek}}
 * [[Catalan]]: [[llebre]] {{f}}
 * Chinese:
-*: Cantonese: {{tø|zh-yue|野兔|tr=je5 tou3|sc=Hani}}
+*: Cantonese: {{tø|zh-yue|野兔|tr=je5 tou3|sc=Hani}}, {{tø|yue|野兔|tr=je5 tou3|sc=Hant}}
 *: {{trreq|gan}}
 *: {{trreq|hak}}
 *: Mandarin: {{t-|cmn|野兔|tr=yětù|sc=Hani}}
@@ -65,10 +65,10 @@
 * Danish: {{t-|da|hare|c}}
 * Dutch: {{t+|nl|haas|m}}
 * Esperanto: {{t+|eo|leporo|xs=Esperanto}}
-* Estonian: [[jänes]]
+* Estonian: [[jänes]], {{t|et|jänes}}
 * [[Ewe]]: [[fɔmizi]] {{n}}
 * Faroese: {{t-|fo|hara|xs=Faroese}}
-* Finnish: [[jänis]] (''See also:'' [[metsäjänis]], [[rusakko]])
+* Finnish: [[jänis]] (''See also:'' [[metsäjänis]], [[rusakko]]), {{t|fi|jänis}}, {{t|fi|metsäjänis}}, {{t|fi|rusakko}}
 * French: {{t+|fr|lièvre|m}}
 * [[Friulian]]: [[jeur]], [[gneur]]
 * [[Galician]]: [[lebre]] {{m}}
@@ -76,31 +76,34 @@
 * German: {{t+|de|Hase|m}}
 * Greek: {{t|el|λαγός|m|tr=lagós}}
 *: Ancient: [[λαγός]] (lagos) {{m}}, [[λαγώς]] (lagos) {{m}}, [[λαγωός]] (lago'os) {{m}}
-* Hebrew: {{t+|he|ארנב|m}}
+* Hebrew: {{t+|he|ארנב|m}}, {{t|he|ארנב|m|tr=arnav|sc=Hebr}}
 * Hindi: {{t|hi|खारगोश|tr=khargoś|xs=Hindi}}, {{t|hi|खरहा|tr=kharhā|xs=Hindi}} {{g|hi}}
 * Hungarian: {{t+|hu|nyúl}}
 * Icelandic: {{t+|is|héri|m}}
 * Indonesian: {{t|id|terwelu|xs=Indonesian}}, {{t|id|tegalan|xs=Indonesian}}
 * Irish: {{t|ga|giorria|xs=Irish}}
 * Italian: {{t+|it|lepre|f}}
-* Japanese: {{t-|ja|野兎|tr=[[のうさぎ]], no-usagi}} <!--"o" and "u" are separate -->, {{t|ja|兎|tr=usagi|sc=Jpan}}
-{{trans-mid}}
+* Japanese: {{t-|ja|野兎|tr=[[のうさぎ]], no-usagi}} <!--"o" and "u" are separate -->, {{t|ja|兎|tr=usagi|sc=Jpan}}, {{t|ja|野ウサギ|tr=no-usagi|sc=Jpan}}
 * {{trreq|ks}}
 * Kazakh: {{t|kk|қоян|sc=Cyrl|xs=Kazakh}}
 * [[Khmer]]: {{t|km|ទន្សាយស្លឹក|tr=tʊənsaay slǝk|sc=Khmr}}
-* Korean: [[산토끼]] (santokki)
+* Korean: [[산토끼]] (santokki), {{t|ko|산토끼|tr=santokki|sc=Kore}}
+{{trans-mid}}
 * [[Ladin]]: [[liever]] {{m}}
+* Lao: {{t|lo|ກະຕ່າຍ|sc=Laoo}}
 * [[Latgalian]]: {{tø|ltg|začs|m}}
 * Latin: {{t+|la|lepus|m}}
 * Latvian: {{t|lv|zaķis|xs=Latvian}}
 * Lithuanian: {{t+|lt|kiškis|m|xs=Lithuanian}}; also {{t|lt|zuikis|m|xs=Lithuanian}} (dial.)
 * [[Lower Sorbian]]: {{tø|dsb|wuchac|m|xs=Lower Sorbian}}
 * [[Macedonian]]: {{t|mk|заjак|m|tr=zajak}}
+* Malay: {{t|ms|kelinci}}
 * Maltese: {{t-|mt|liebru|m|xs=Maltese}}
 * [[Manx]]: {{t|gv|mwaagh|m}}
 * [[Marathi]]: {{t-|mr|ससा|sasā|sc=Deva|xs=Marathi}} {{g|Marathi}}
 * Norwegian: {{t+|no|hare|m}}
 * [[Occitan]]: [[lèbre]] {{m}}
+* Persian: {{t|fa|خرگوش|tr=xarguš|sc=fa-Arab}}
 * Polish: {{t+|pl|zając|m}}
 * Portuguese: {{t+|pt|lebrão|m}}, {{t+|pt|lebre|f}}
 * [[Romani]]: [[baro-shoshoy]] {{m}}, [[bari-shoshni]] {{f}}
@@ -112,6 +115,9 @@
 * [[Scots]]: {{tø|sco|bawd|xs=Scots}}, {{tø|sco|mawkin|xs=Scots}}
 * [[Scottish Gaelic]]: {{t-|gd|geàrr|f|xs=Scottish Gaelic}}, {{t-|gd|maigheach|f|xs=Scottish Gaelic}}
 * Serbian: [[зец]] ([[zec]]) {{m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|зец|m}}
+*: Roman: {{t|sh|zec|m}}
 * Slovak: {{t-|sk|zajac|m}}
 * Slovene: {{t+|sl|zajec|m}}, {{t+|sl|zajklja|f}}
 * Spanish: {{t+|es|liebre|f}}
@@ -123,6 +129,7 @@
 * Turkish: {{t+|tr|tavşan}}
 * Ukrainian: {{t-|uk|заєць|m|tr=zajec'|xs=Ukrainian}}
 * [[Upper Sorbian]]: [[zajac]] {{m}}
+* Urdu: {{t|ur|خرگوش|m|tr=khargoś|sc=ur-Arab}}, {{t|ur|خرہا|m|tr=kharhā|sc=ur-Arab}}
 * Vietnamese: {{t|vi|thỏ rừng}}
 * [[Volapük]]: {{qualifier|male or female}} {{t|vo|liev}}, {{qualifier|male}} {{t|vo|hiliev}}, {{qualifier|female}} {{t|vo|jiliev}}, {{qualifier|offspring, young}} {{t|vo|lievül}}
 * Welsh: [[ysgyfarnog]] {{f}}, [[sgwarnog]] {{f}}
