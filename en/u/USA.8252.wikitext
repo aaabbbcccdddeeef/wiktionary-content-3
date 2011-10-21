@@ -19,8 +19,8 @@
 ===Proper noun===
 {{en-proper noun}}
 
-# [[United States of America]].
-# {{US|military|slang}} [[United States Army]]. 
+# {{initialism of|United States of America}}
+# {{US|military|slang}} {{initialism of|United States Army}}
 
 ====Derived terms====
 * [[Usanian]]
@@ -43,7 +43,7 @@
 * Finnish: {{t+|fi|USA}}
 * French: {{t-|fr|EUA|m|p}}
 * Georgian: {{t+|ka|აშშ|sc=Geor|xs=Georgian}}
-* German: die [[USA#German|USA]] {{p}}
+* German: die {{t|de|USA|p}}
 * Greek: {{t+|el|ΗΠΑ|f|p|tr=IPA}}
 * {{trreq|gu}}
 * Hebrew: {{t-|he|ארה״ב|tr=arh"b}},  {{t+|he|אמריקה}}
@@ -51,7 +51,7 @@
 * Irish: {{t|ga|SAM}}
 * Italian: {{t-|it|U.S.A.|m|p}}
 {{trans-mid}}
-* Japanese: {{t+|ja|アメリカ|tr=Amerika}}, {{t+|ja|USA}},  {{t+|ja|米国|tr=べいこく, Beikoku}}, {{t+|ja|米|alt=米-|tr=Bei-}} {{qualifier|as a component}}, {{t|ja|ユー・エス・エー|tr=yū-esu-ē}} (USA)
+* Japanese: {{t+|ja|アメリカ|tr=Amerika}}, {{t+|ja|USA}},  {{t+|ja|米国|tr=べいこく, Beikoku}}, {{t+|ja|米|alt=米-|tr=Bei-}} {{qualifier|as a component}}, {{t|ja|ユー・エス・エー|tr=yū-esu-ē}}
 * Korean: {{t+|ko|미국|tr=Miguk|sc=Hang}} ({{t+|ko|美國|sc=Hani}}),  {{t+|ko|아메리카|tr=Amerika|sc=Hang}}
 * [[Macedonian]]: {{t-|mk|САД|f|p|tr=SAD}}, {{t+|mk|Америка|f|tr=Amérika}}
 * Navajo: {{tø|nv|WBA}}, {{tø|nv|W.B.A.}}
@@ -64,8 +64,8 @@
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|САД|f|p|sc=Cyrl|xs=Serbo-Croatian}}, {{t|sh|Америка|f|sc=Cyrl|xs=Serbo-Croatian}}
 *: Roman: {{t|sh|SAD|f|p|xs=Serbo-Croatian}}, {{t|sh|Amerika|f|xs=Serbo-Croatian}}
-* Slovene: [[ZDA]] {{f|p}}
-* Spanish: {{t-|es|EE. UU.|f|p}}
+* Slovene: {{t|sl|ZDA|f|p}}
+* Spanish: {{t-|es|EE. UU.|m|p}}
 * Swedish: {{t+|sv|USA|n|s}}
 * Thai: {{t|th|สหรัฐ|tr=sàhàrát}},  {{t|th|อเมริกา|tr=à-may-rí-gaa}}
 * Turkish: {{t+|tr|ABD}}
@@ -83,15 +83,15 @@
 * [[SAU#English|SAU]]
 
 [[Category:en:United States of America]]
-[[Category:English initialisms]]
+
 ----
 
 ==Finnish==
 
 ===Proper noun===
-{{infl|fi|proper noun}}
+{{fi-proper noun}}
 
-# [[#English|USA]]
+# {{l|en|USA}}
 
 ====Synonyms====
 * [[Amerikan yhdysvallat]]
@@ -110,22 +110,22 @@
 ===Proper noun===
 {{ja-noun|r|kata=ユー・エス・エー|hidx=ゆうえすええ}}
 
-# [[#English|USA]], short name
+# {{l|en|USA}}
 
 ====See also====
-* [[米]] ([[べい]], [[bei]]): (''a short name for USA in Japanese'')
+* {{l|ja|米|tr=[[べい]], [[bei]]}}
 
 ----
 
 ==Norwegian==
 
 ===Proper noun===
-{{infl|no|proper noun}}
+{{no-proper noun}}
 
-# [[#English|USA]], short name
+# {{l|en|USA}}
 
 ====Synonyms====
-* [[Amerikas forente stater]], full name
+* [[Amerikas forente stater]] {{qualifier|full name}}
 
 ====See also====
 * [[USA-amerikaner]], [[amerikaner]]
@@ -143,7 +143,7 @@
 ===Initialism===
 {{infl|pl|initialism|g=p}}
 
-# [[#English|USA]]
+# {{l|en|USA}}
 
 ====Synonyms====
 * [[Stany Zjednoczone]]
@@ -159,7 +159,7 @@
 ===Proper noun===
 {{infl|sv|proper noun|g=n}}
 
-# [[#English|USA]]; United States of America
+# {{l|en|USA}} {{gloss|United States of America}}
 
 ====Synonyms====
 * [[Amerikas förenta stater]]
