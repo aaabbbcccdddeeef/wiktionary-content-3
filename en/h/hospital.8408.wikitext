@@ -30,13 +30,13 @@ From {{etyl|fro}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|lang
 
 ====Translations====
 {{trans-top|building}}
-* [[Afrikaans]]: [[hospitaal]]
+* [[Afrikaans]]: {{t|af|hospitaal}}
 * Arabic: {{t-|ar|مستشفى|f|tr=mustáshfa}}
 *: [[Moroccan Arabic]]: {{tø|ary|صبطار|m|tr=SbiTār|sc=Arab}}
 * [[Aragonese]]: [[espital]] {{m}}
 * Armenian: {{t-|hy|հիվանդանոց|tr=hivandanoc’}}
 * [[Azeri]]: {{t|az|xəstəxana|xs=Azeri}}
-* [[Basque]]: [[ospitale]], {{t|eu|erietxe}}
+* [[Basque]]: {{t|eu|ospitale}}, {{t|eu|erietxe}}
 * Belarusian: {{t|be|бальніца|f|tr=bal’níca|xs=Belarusian}}, {{t|be|шпiталь|m|tr=špitál’|sc=Cyrl}}, {{t|be|лякарня|f|tr=ljakárnja|sc=Cyrl}}
 * Bosnian: {{t-|bs|bolnica|f}}
 * Bulgarian: {{t+|bg|болница|f|tr=bólnica}}
@@ -64,7 +64,7 @@ From {{etyl|fro}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|lang
 * Hungarian: {{t+|hu|kórház}}
 * Icelandic: {{t+|is|sjúkrahús|n}}
 * Indonesian: [[rumah]] [[sakit]], [[#Indonesian|hospital]]
-* [[Interlingua]]: [[#Interlingua|hospital]]
+* [[Interlingua]]: {{t|ia|hospital}}
 * [[Inuktitut]]: {{t|iu|ᐋᓐᓂᐊᕕᒃ|tr=aanniavik|sc=Cans}}
 * Irish: [[ospidéal]]
 * Italian: {{t+|it|ospedale|m}}
@@ -72,9 +72,9 @@ From {{etyl|fro}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|lang
 * Kazakh: {{t|kk|аурухана|tr=awrwxana|sc=Cyrl|xs=Kazakh}}
 * Korean: {{t+|ko|병원|tr=byeong-won|sc=Hang}} ({{t+|ko|病院|sc=Hani}})
 {{trans-mid}}
-* Kurdish: {{ku-Arab|[[نه‌خۆشخانه‌]]}}, {{ku-Arab|[[خه‌سته‌خانه‌]]}}
+* Kurdish: {{t|ku|نه‌خۆشخانه‌}}, {{t|ku|خه‌سته‌خانه‌}}
 * Latin: {{t+|la|nosocomium}}
-* Latvian: {{t|lv| slimnīca|f}}
+* Latvian: {{t|lv|slimnīca|f}}
 * Lithuanian: {{t|lt|ligoninė|f}}
 * [[Lombard]]: [[ospedal]]
 * [[Luxembourgish]]: {{t|lb|Spidol|n}}
@@ -91,7 +91,7 @@ From {{etyl|fro}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|lang
 * Romanian: {{t+|ro|spital|n}}
 * Russian: {{t+|ru|больница|f|tr=bol’níca}}, {{t+|ru|госпиталь|m|tr=góspital’}} {{qualifier|usually a military hospital}}
 * Sanskrit: {{t|sa|चिकित्सालय|m|tr=cikitsālaya|xs=Sanskrit}}
-* [[Scottish Gaelic]]: [[taigh-leighis]] {{m}}, [[taigh-eiridinn]] {{m}}, [[taigh-tinnis]] {{m}}, {{t-|gd|ospadal|m|xs=Scottish Gaelic}}
+* [[Scottish Gaelic]]: {{t|gd|taigh-leighis|m}}, {{t|gd|taigh-eiridinn|m}}, {{t|gd|taigh-tinnis|m}}, {{t-|gd|ospadal|m|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: [[болница#Serbian|болница]] {{f}}
 *: Roman: [[bolnica#Serbian|bolnica]] {{f}}
@@ -103,7 +103,7 @@ From {{etyl|fro}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|lang
 * [[Tagalog]]: [[ospital]], [[pagamutan]]
 * [[Tajik]]: {{t-|tg|бемористон|tr=bemoriston|sc=Cyrl|xs=Tajik}}
 * [[Tatar]]: {{t|tt|хастаханә|sc=Cyrl|xs=Tatar}}
-* [[Telugu]]: [[ఆసుపత్రి]] (aasupatri)
+* [[Telugu]]: {{t|te|ఆసుపత్రి|tr=aasupatri}}
 * [[Tetum]]: [[ospitál]], [[uma-moras]]
 * Thai: {{t+|th|โรงพยาบาล|tr=rohng phayaabaan}}
 * Turkish: {{t+|tr|hastane}}
@@ -118,6 +118,16 @@ From {{etyl|fro}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|lang
 
 ----
 
+==Catalan==
+{{wikipedia|lang=ca}}
+
+===Noun===
+{{ca-noun|m}}
+
+# {{l|en|hospital}}
+
+----
+
 ==Danish==
 
 ===Etymology===
@@ -129,7 +139,7 @@ From {{etyl|la|da}} {{term|hospitale|hospitāle|hospital, guesthouse|lang=la}}, 
 ===Noun===
 {{da-noun|et|er}}
 
-# [[hospital#English|hospital]]
+# {{l|en|hospital}}
 
 ====Synonyms====
 * [[sygehus]] {{n}}
@@ -179,7 +189,7 @@ From {{etyl|la|da}} {{term|hospitale|hospitāle|hospital, guesthouse|lang=la}}, 
 ===Noun===
 {{es-noun|m|pl=hospitales}}
 
-# [[#English|hospital]]
+# {{l|es|hospital}}
 
 ====See also====
 * [[clínica]]
@@ -197,47 +207,46 @@ From {{etyl|la|da}} {{term|hospitale|hospitāle|hospital, guesthouse|lang=la}}, 
 {{sv-noun-n-zero}}
 
 [[ar:hospital]]
-[[zh-min-nan:hospital]]
 [[ca:hospital]]
 [[cs:hospital]]
 [[cy:hospital]]
 [[da:hospital]]
 [[de:hospital]]
-[[et:hospital]]
 [[el:hospital]]
-[[es:hospital]]
 [[eo:hospital]]
+[[es:hospital]]
+[[et:hospital]]
 [[eu:hospital]]
 [[fa:hospital]]
+[[fi:hospital]]
 [[fr:hospital]]
-[[gv:hospital]]
 [[gl:hospital]]
-[[ko:hospital]]
+[[gv:hospital]]
 [[hi:hospital]]
-[[io:hospital]]
+[[hu:hospital]]
 [[id:hospital]]
+[[io:hospital]]
 [[it:hospital]]
-[[kn:hospital]]
+[[ja:hospital]]
 [[kk:hospital]]
-[[kw:hospital]]
-[[sw:hospital]]
+[[kn:hospital]]
+[[ko:hospital]]
 [[ku:hospital]]
+[[kw:hospital]]
+[[li:hospital]]
 [[lo:hospital]]
 [[lv:hospital]]
-[[li:hospital]]
-[[hu:hospital]]
 [[ml:hospital]]
 [[my:hospital]]
 [[nl:hospital]]
-[[ja:hospital]]
 [[no:hospital]]
 [[oc:hospital]]
 [[pl:hospital]]
 [[pt:hospital]]
 [[ru:hospital]]
 [[simple:hospital]]
-[[fi:hospital]]
 [[sv:hospital]]
+[[sw:hospital]]
 [[ta:hospital]]
 [[te:hospital]]
 [[th:hospital]]
@@ -245,3 +254,4 @@ From {{etyl|la|da}} {{term|hospitale|hospitāle|hospital, guesthouse|lang=la}}, 
 [[uk:hospital]]
 [[vi:hospital]]
 [[zh:hospital]]
+[[zh-min-nan:hospital]]
