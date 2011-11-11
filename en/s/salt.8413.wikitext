@@ -66,8 +66,6 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{proto|Germanic|saltan}} (cf. D
 *: [[Egyptian Arabic]]: {{tø|arz|ملح|m|tr=malħ|sc=Arab}}
 * Aramaic:
 *: Syriac: [[ܡܠܚܐ]] (milħā’) {{f}}
-* Hawaiian: {{tø|haw|paʻakai}}
-*: Hebrew: [[מלחא]] (milħā’) {{f}}
 * Armenian: {{t|hy|աղ|tr=aġ|sc=Armn}}
 * [[Azeri]]: {{t+|az|duz|xs=Azeri}}
 * [[Bashkir]]: {{tø|ba|тоҙ|tr=toź|sc=Cyrl|xs=Bashkir}}
@@ -84,7 +82,7 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{proto|Germanic|saltan}} (cf. D
 *: Cantonese: {{tø|yue|鹽|sc=Hant}}, {{tø|yue|盐|tr=jim4|sc=Hant}}
 *: [[Min Nan]]: {{tø|nan|鹽|tr=iâm|sc=Hans}}
 * [[Chuvash]]: {{tø|cv|тӑвар|tr=tăvar|sc=Cyrl}}
-* Coptic:
+* [[Coptic]]:
 *: Bohairic: {{tø|cop|ⲙⲉⲗϩ|m|tr=melh}}, {{tø|cop| ϩⲙⲟⲩ|m|tr=hmu }}
 *: Sahidic: {{tø|cop|ⲙⲗϩ|m|tr=mlh}}, {{tø|cop| ϩⲙⲟⲩ|m|tr=hmu }}
 * [[Crimean Tatar]]: {{tø|crh|tuz}}
@@ -107,6 +105,8 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{proto|Germanic|saltan}} (cf. D
 * German: {{t+|de|Salz|n}}, {{t+|de|Kochsalz|n}}
 * Greek: {{t+|el|αλάτι|n|tr=aláti}}
 *: Ancient: [[ἅλας]] (alas) {{n}}
+* Hawaiian: {{tø|haw|paʻakai}}
+*: Hebrew: [[מלחא]] (milħā’) {{f}}
 * Hebrew: {{t+|he|מלח|m|tr=mélakh}}
 * Hindi: {{t+|hi|नमक|m|tr=namak|xs=Hindi}}
 * Hungarian: {{t+|hu|só}}
@@ -122,11 +122,11 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{proto|Germanic|saltan}} (cf. D
 * Kazakh: {{t|kk|тұз|tr=tuz|sc=Cyrl|xs=Kazakh}}
 * [[Khakas]]: {{tø|kjh|тус|tr=tus|sc=Cyrl}}
 * Korean: {{t|ko|소금|tr=sogeum|sc=Kore}}
-{{trans-mid}}
 * [[Kumyk]]: {{tø|kum|туз|tr=tuz|sc=Cyrl}}
+{{trans-mid}}
 * Kurdish:
-:*[[Kurmanji]]: {{t+|ku|xwê}} {{f}}
-:* Sorani: {{t-|ku|خوێ|tr=xwé|sc=ku-Arab}}
+*: [[Kurmanji]]: {{t+|ku|xwê}} {{f}}
+*: Sorani: {{t-|ku|خوێ|tr=xwé|sc=ku-Arab}}
 * [[Kyrgyz]]: {{t-|ky|туз|tr=tuz|sc=Cyrl|xs=Kyrgyz}}
 * [[Lao]]: {{t+|lo|ເກືອ|tr=kya|sc=Laoo|xs=Lao}}
 * Latin: {{t-|la|sal|m|alt=sāl}}
@@ -139,8 +139,8 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{proto|Germanic|saltan}} (cf. D
 * Mongolian: {{t-|mn|давс|tr=davs|sc=Cyrl|xs=Mongolian}}
 * [[Nahuatl]]: {{t-|nah|iztatl|xs=Nahuatl}}
 * Navajo: {{tø|nv|áshįįh}}
-* [[Nobiin]]: 
-*: Fadicca: {{tø|fia|امييد|tr=imeed}} 
+* [[Nobiin]]:
+*: Fadicca: {{tø|fia|امييد|tr=imeed}}
 *: Kenzi: {{tø|fia|اوميد|tr=oumboud}}
 * [[Nogai]]: {{tø|nog|туз|tr=tuz|sc=Cyrl}}
 * [[Northern Sami]]: {{tø|se|sálti}}
@@ -521,6 +521,7 @@ From {{etyl|non|fo}} {{term|saltr||salt|lang=non}} (''adjective''), from {{term|
 ----
 
 ==Gothic==
+
 ===Romanization===
 {{got-rom}}
 
