@@ -2,5 +2,6 @@
 
 ===Noun===
 {{en-noun|-|sg=[[tramp]] [[data]]}}
-# {{context|programming}}: A term describing [[data]] which is passed to a [[function]] '''only''' to be passed on to another function.
-#: ''Functions should use matching variable names for '''tramp data''' to improve [[readability]].''
+
+# {{context|programming}} [[data|Data]] which is passed via one [[function]] to another, and not otherwise used by the first.
+#: ''Functions should use matching variable names for '''tramp data''' to improve readability.''
