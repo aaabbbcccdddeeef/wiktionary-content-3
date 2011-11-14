@@ -26,6 +26,7 @@
 
 ====Translations====
 {{trans-top|Passer domesticus}}
+* Belarusian: {{t|be|верабей|m|tr=verabéj|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|zh|麻雀|tr=máquè|sc=Hani}}
 * Danish: {{t|da|gråspurv|c}}
@@ -34,7 +35,7 @@
 * Faroese: {{t|fo|gráspurvur|m}}
 * Finnish: {{t|fi|varpunen}}
 * French: {{t|fr|moineau domestique|m}}
-* German: {{t|de|Spatz}}, {{t|de|Sperling}}, {{t|de|Haussperling}}
+* German: {{t|de|Spatz|m}}, {{t|de|Sperling|m}}, {{t|de|Haussperling|m}}
 *: [[Alemannic German]]: {{tø|gsw|Spatz}}
 {{trans-mid}}
 * Japanese: {{t|ja|スズメ|tr=suzume|sc=Jpan}}, {{t|ja|雀|tr=すずめ, zuzume|sc=Jpan}}
@@ -42,11 +43,11 @@
 * Norwegian: {{t|no|gråspurv}}
 *: Nynorsk: {{t|nn|gråsporv}}
 * Polish: {{t|pl|wróbel|m}}
-* Russian: {{t|ru|домовый воробей|m|sc=Cyrl|tr=domóvyj vorobéj}}, {{t|ru|воробей|m|tr=vorobéj|sc=Cyrl}}, {{t|ru|воробей обыкновенный|m|tr=vorobéj obyknovénnyj|sc=Cyrl}}
+* Russian: {{t|ru|воробей|m|tr=vorobéj|sc=Cyrl}}, {{t|ru|воробей обыкновенный|m|tr=vorobéj obyknovénnyj|sc=Cyrl}}
 * Slovak: {{t|sk|vrabec|m}}
 * Spanish: {{t|es|gorrión común}}
 * Swedish: {{t|sv|gråsparv}}
-* Ukrainian: {{t|uk|горобець|m|tr=horobéc'|sc=Cyrl}}
+* Ukrainian: {{t|uk|горобець|m|tr=horobéc’|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|Passeridae}}
@@ -67,19 +68,19 @@
 * [[Afrikaans]]: [[mossie]]
 * Albanian: [[harabeli]]
 * Arabic: {{t-|ar|عصفور|m|alt=عَصْفُور|tr=3aSfuur}}
-* Armenian: [[ճնճղուկ]] (č̣nč̣ġuk)
+* Armenian: {{t|hy|ճնճղուկ|tr=č̣nč̣ġuk}}
 * [[Asturian]]: {{t|ast|pardal|m}}
 * [[Azeri]]: {{t+|az|sərçə|xs=Azeri}}
 * [[Basque]]: [[txolarre]]
-* Belarusian: [[верабей]], {{t|be|верабей|m|tr=verabéj|sc=Cyrl}}
+* Belarusian: {{t|be|верабей|m|tr=verabéj|sc=Cyrl}}
 * Bosnian: {{t-|bs|vrabac|m}}
 * [[Breton]]: [[golvan]]
-* Bulgarian: {{t+|bg|врабче|tr=vrabče}}
+* Bulgarian: {{t+|bg|врабче|n|tr=vrabčé}}, {{t|bg|врабец|m|tr=vrabéc}}
 * [[Campidanese Sardinian]]: [[crucculeu]], [[gruccùcciu]] {{m}}
 * [[Catalan]]: [[pardal]] {{m}}
 * [[Chechen]]: {{tø|ce|хьозий}}
 * Chinese:
-*: Mandarin: {{t-|cmn|麻雀|tr=máquè|sc=Hani}}
+*: Mandarin: {{t|zh|麻雀|tr=máquè|sc=Hani}}
 * Croatian: {{t+|hr|vrabac}}
 * Czech: {{t+|cs|vrabec|m}}
 * Danish: {{t|da|spurv}} ({{t|da|gråspurv}})
@@ -94,25 +95,25 @@
 * Georgian: {{t|ka|ბეღურა|tr=beg'ura|sc=Geor}}
 * German: {{t+|de|Sperling|m}}, {{t+|de|Spatz|m}}
 * Greek: {{t+|el|σπουργίτης|m}}
-* Hebrew: [[דרור]] (dror), {{t|he|דרור|m|tr=d'rór|sc=Hebr}}
-* Hindi: [[गौरैया]] (gauraiyaa), {{t|hi|गौरैया|m|tr=gauraiyā|sc=Deva}}
+* Hebrew: {{t|he|דרור|m|tr=d'rór|sc=Hebr}}
+* Hindi: {{t|hi|गौरैया|m|tr=gauraiyā|sc=Deva}}
 * Hungarian: {{t+|hu|veréb}}
 * Icelandic: {{t|is|spör}} ({{t|is|gráspör}})
 * [[Interlingua]]: [[passere]]
 * Irish: {{t+|ga|gealbhan|xs=Irish}}
 * Italian: {{t+|it|passero|m}}
-* Japanese: [[雀]] ([[スズメ]], suzume)
-* Korean: [[참새]] (chamsae), {{t|ko|참새|tr=chamsae|sc=Kore}}
-* Kurdish: {{ku-Arab|[[چۆله‌که‌]]}}, {{ku-Arab|[[پاساری]]}}, {{t|ku|beytik|sc=ku-Arab}}
-{{trans-mid}}
+* Japanese: {{t|ja|スズメ|tr=suzume|sc=Jpan}}, {{t|ja|雀|tr=すずめ, zuzume|sc=Jpan}}
+* Korean: {{t|ko|참새|tr=chamsae|sc=Kore}}
+* Kurdish: {{t|ku|چۆله‌که‌|sc=ku-Arab}}, {{t|ku|پاساری|sc=ku-Arab}}, {{t|ku|beytik|sc=Latn}}
 * [[Ladin]]: [[spoz]]
 * [[Latgalian]]: {{tø|ltg|zvierbuļs|m}}, {{tø|ltg|žeigurs|m}}
+{{trans-mid}}
 * Latin: [[passer]]
 * Latvian: {{t-|lv|zvirbulis|m|xs=Latvian}}
 * Lithuanian: [[žvirblis]] {{m}}; [[žvirblė]] {{f}}
 * [[Low Saxon]]: [[Lünink]], [[Lünk]], [[Lüüntje]] {{m}}, [[Dackfink]] {{m}}
 * [[Lower Sorbian]]: [[wrobel]]
-* [[Macedonian]]: [[врабец]] (vrabec)
+* [[Macedonian]]: {{t|mk|врабец|m|tr=vrábec}}
 * Maltese: [[għasfur tal-bejt]]
 * [[Mazanderani]]: {{tø|mzn|میچکا}}
 * Navajo: {{tø|nv|tsídiiłbáhí}}
@@ -128,8 +129,10 @@
 * Russian: {{t+|ru|воробей|m|tr=vorobéj}}
 * [[Sami]]: [[cihci]] ([[šilljocihci]])
 * [[Scottish Gaelic]]: [[gealbhonn]]
-* Serbian: [[врабац]] ([[vrabac]])
-* Slovak: {{t-|sk|vrabec}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|врабац|m|sc=Cyrl}}
+*: Roman: {{t|sh|vrabac|m}}
+* Slovak: {{t-|sk|vrabec|m}}
 * Slovene: {{t+|sl|vrabec|m}}
 * Spanish: {{t+|es|gorrión|m}}
 * Swahili: {{t|sw|shomoro}}
@@ -137,7 +140,7 @@
 * [[Taos]]: [[p’į́wna]]
 * [[Telugu]]: {{t|te|పిచ్చుక}} (pichchuka)
 * Turkish: {{t+|tr|serçe}}
-* Ukrainian: [[горобець]] (gorobets’)
+* Ukrainian: {{t|uk|горобець|m|tr=horobéc’|sc=Cyrl}}
 * [[Upper Sorbian]]: [[wrobl]], [[wroblik]]
 * Urdu: {{t|ur|گورییا|m|tr=gauraiyā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|sẻ|xs=Vietnamese}}, {{t-|vi|chim sẻ|xs=Vietnamese}}
