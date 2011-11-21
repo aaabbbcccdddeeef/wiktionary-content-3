@@ -115,17 +115,35 @@ See [[I'll]]
 ==Turkish==
 
 ===Conjunction===
-'''ile'''
+{{infl|tr|conjunction}}
 
 # [[with]]
-: arkadaşım'''la''' dışarı çıkıyorum. - ''I am going out with my friend.''
+#: Arkadaşım'''la''' dışarı çıkıyorum.
+#:: ''I am going out with my friend.''
 # [[and]]
-: ateş'''le''' [[barut]] yan yana durmaz - ''the fire and the gunpowder don't stand nearby.''
+#: Ateş'''le''' [[barut]] yan yana durmaz
+#:: ''The fire and the gunpowder don't stand nearby.''
 
 ====Usage notes====
-*It's generally suffixed to words as "[[-la]]", "[[-yla]]" or "[[-le]] "[[-yle]]".
+Generally suffixed to words as {{term|-la|lang=tr}} / {{term|-yla|lang=tr}} or {{term|-le|lang=tr}} / {{term|-yle|lang=tr}}. Which form is used depends on the affixed word's dominant vowel, and whether the word ends in a vowel or a consonant.
+* -le — with a dominant front-vowel (i, e, ü, ö) and a consonant ending
+** {{term||kardeşin|your brother}} — {{term||kardeşinle|with your brother}}
+** {{term||düşünceleriniz|your ideas}} — {{term||düşüncelerinizle|with your ideas}}
+* -yle — with a dominant front-vowel (i, e, ü, ö) and a vowel ending
+** {{term|battaniye||blanket|lang=tr}} — {{term||battaniyeyle|with a/the blanket}}
+** {{term||üyeleri|their members}} — {{term||üyeleriyle|with their members}}
+* -la — with a dominant back-vowel (ı, a, u, o) and a consonant ending
+** {{term||arkadaşım|my friend}} — {{term||arkadaşımla|with my friend}}
+** {{term||akrabalarımız|our relatıves}} — {{term||akrabalarımızla|with our relatives}}
+* -yla — with a dominant back-vowel (ı, a, u, o) and a vowel ending
+** {{term||arkadaşı|his friend}} — {{term||arkadaşıyla|with his friend}}
+** {{term||oyuncakları|their toys}} — {{term||oyuncaklarıyla|with their toys}}
 
-[[Category:Turkish conjunctions]]
+An apostrophe is required with proper nouns:
+* Şebnem'le
+* Ali'yle
+* Barış'la
+* Beyza'yla
 
 [[de:ile]]
 [[el:ile]]
