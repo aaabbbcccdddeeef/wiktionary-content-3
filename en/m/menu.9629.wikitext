@@ -23,6 +23,7 @@ From {{etyl|fr}} {{term|menu|lang=fr}}.
 {{trans-top|details of the food to be served at a banquet}}
 * Arabic: {{t-|ar|قائمة|tr=qaa'ima}}
 * Armenian: {{t-|hy|ճաշացուցակ|tr=čašac’uc’ak}}
+* [[Catalan]]: {{t|ca|menú|m}}
 * Chinese:
 *: Mandarin: {{t-|cmn|菜單|sc=Hani}},  {{t-|cmn|菜单|tr=càidān|sc=Hani}}
 * Croatian: {{t-|hr|meni|m|alt=mènī}}
@@ -53,11 +54,12 @@ From {{etyl|fr}} {{term|menu|lang=fr}}.
 * Arabic: {{t-|ar|قائمة|tr=qaa'ima}}
 * Armenian: {{t-|hy|ճաշացուցակ|tr=čašac’uc’ak}}
 * Croatian: {{t-|hr|meni|m|alt=mènī}}, {{t-|hr|jelovnik|m|alt=jelòvnīk}}
+* [[Catalan]]: {{t|ca|menú|m}}
 * Czech: {{t-|cs|jídelní lístek|m}}
 * Danish: {{t-|da|menu}}
 * Finnish: {{t-|fi|menyy}}, {{t+|fi|ruokalista}}
 * German: {{t+|de|Speisekarte|f}}
-* Greek: {{t+|el|μενού|n}} (menoú), {{t+|el|κατάλογος|m}} (katáloghos), {{t+|el|εδεσματολόγιο|n}} (edesmatológhio)
+* Greek: {{t+|el|μενού|n|tr=menoú}}, {{t+|el|κατάλογος|m|tr=katáloghos}}, {{t+|el|εδεσματολόγιο|n|tr=edesmatológhio}}
 * Hungarian: {{t+|hu|menü}}, {{t+|hu|étlap}}
 {{trans-mid}}
 * Japanese: {{t+|ja|メニュー|tr=menyū}}
@@ -73,6 +75,7 @@ From {{etyl|fr}} {{term|menu|lang=fr}}.
 
 {{trans-top|list from which the user may select an operation to be performed}}
 * Arabic: {{t-|ar|قائمة|tr=qaa'ima}}
+* [[Catalan]]: {{t|ca|menú|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|項目單|sc=Hani}},  {{t|cmn|项目单|tr=xiàngmùdān|sc=Hani}},  {{t|cmn|項目表|sc=Hani}},  {{t|cmn|项目表|tr=xiàngmùbiǎo|sc=Hani}},  {{t|cmn|選單|sc=Hani}},  {{t|cmn|选单|tr=xuǎndān|sc=Hani}},  {{t|cmn|選項單|sc=Hani}},  {{t|cmn|选项单|tr=xuǎnxiàngdān|sc=Hani}}
 * Croatian: {{t-|hr|meni|m|alt=mènī}}, {{t|hr|izbornik|m|alt=ìzbōrnīk}}
@@ -82,7 +85,7 @@ From {{etyl|fr}} {{term|menu|lang=fr}}.
 * French: {{t+|fr|menu|m}}
 * German: {{t+|de|Menü|n}}
 {{trans-mid}}
-* Greek: {{t+|el|μενού|n}} (menoú), {{t+|el|κατάλογος|m}} (katáloghos)
+* Greek: {{t+|el|μενού|n|tr=menoú}}, {{t+|el|κατάλογος|m|tr=katáloghos}}
 * Japanese: {{t+|ja|メニュー|tr=menyū}}
 * [[Macedonian]]: {{t-|mk|мени|n|tr=mení}}
 * Polish: {{t+|pl|menu|n}}
@@ -95,7 +98,6 @@ From {{etyl|fr}} {{term|menu|lang=fr}}.
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ca}}: [[menú]] ''m''
 * {{ttbc|ko}}: [[메뉴]] (me-nyu)
 * {{ttbc|vi}}: [[thực đơn]]
 {{trans-bottom}}
@@ -124,7 +126,7 @@ From {{etyl|fr}} {{term|menu|lang=fr}}.
 ===Noun===
 {{cs-noun|g=n}}
 
-# [[#English|menu]]
+# {{l|en|menu}}
 
 ====Derived terms====
 * [[uživatelské menu]] {{n}}
@@ -142,7 +144,7 @@ From {{etyl|fr|da}} {{term|menu||small|lang=fr}}.
 ===Noun===
 {{da-noun|en|er}}
 
-# [[menu#English|menu]] {{gloss|all senses}}
+# {{l|en|menu}} {{gloss|all senses}}
 
 ====Inflection====
 {{da-noun-infl|en|er}}
@@ -201,7 +203,7 @@ From {{etyl|la|fr}} {{term|minutus||minute, tiny}}.
 {{fr-noun|m}}
 
 # detailed list
-# [[menu#English|menu]]; a set meal on a menu
+# {{l|en|menu}}; a set meal on a menu
 
 ----
 
@@ -210,7 +212,7 @@ From {{etyl|la|fr}} {{term|minutus||minute, tiny}}.
 ===Noun===
 {{infl|it|noun|g=m}} {{inv}}
 
-# [[#English|menu]]
+# {{l|en|menu}}
 
 ----
 
@@ -235,7 +237,7 @@ From {{etyl|la|fr}} {{term|minutus||minute, tiny}}.
 ==Polish==
 
 ===Etymology===
-From {{etyl|fr|pl}} ''{{l|fr|menu}}''
+From {{etyl|fr|pl}} {{term|menu|lang=fr}}
 
 ===Pronunciation===
 * {{IPA|/mɛˈɲi/|lang=pl}}
@@ -243,7 +245,7 @@ From {{etyl|fr|pl}} ''{{l|fr|menu}}''
 ===Noun===
 {{pl-noun|n}}
 
-# [[#English|menu]]
+# {{l|en|menu}}
 
 [[et:menu]]
 [[el:menu]]
