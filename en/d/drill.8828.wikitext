@@ -11,7 +11,7 @@ From {{etyl|dum}} {{term|drillen||lang=dum|bore, move in a circle}}
 ====Verb====
 {{en-verb}}
 
-# {{transitive}} To create (a [[hole]]) by removing material with a drill [''tool''].
+# {{transitive}} To create (a [[hole]]) by removing material with a [[#Noun]] {{gloss|tool}}.
 #: '''''Drill''' a small hole to start the screw in the right direction.''
 # {{intransitive}} To practice, especially in a military context.
 #: ''They '''drilled''' daily to learn the routine exactly.''
@@ -19,7 +19,7 @@ From {{etyl|dum}} {{term|drillen||lang=dum|bore, move in a circle}}
 #: ''The instructor '''drilled''' into us the importance of reading the instructions.''
 # {{intransitive}} To [[investigate]] or [[examine]] something in more detail or at a different level
 #: '''''Drill''' deeper and you may find the underlying assumptions faulty.''
-# {{ergative}} To cause one's subordinates to drill [''practice''].
+# {{ergative}} To cause one's subordinates to drill {{gloss|practice}}.
 #: ''The sergeant was up by 6:00 every morning, '''drilling''' his troops.''
 # {{transitive}} To [[hit]] or [[kick]] with a lot of power.
 #* '''2006''', Joe Coon, ''The Perfect Game'',
@@ -44,7 +44,7 @@ From {{etyl|dum}} {{term|drillen||lang=dum|bore, move in a circle}}
 * Danish: {{t-|da|bore}}
 * Dutch: {{t|nl|boren}}
 * Finnish: {{t-|fi|porata}}
-* French: {{t+|fr|forer}},  {{t+|fr|percer}}
+* French: {{t+|fr|forer}}, {{t+|fr|percer}}
 * German: {{t+|de|bohren}}
 * Greek: {{t+|el|τρυπώ|tr=trypo}}
 * Hebrew: {{t|he|קדח|tr=kadákh}}
@@ -54,7 +54,7 @@ From {{etyl|dum}} {{term|drillen||lang=dum|bore, move in a circle}}
 * Latin: {{t|la|transfigere}}
 * Norwegian: {{t+|no|bore}}
 * Portuguese: {{t+|pt|furar}}
-* Romanian: {{t|ro|a gauri}}
+* Romanian: {{t|ro|gauri|alt=a gauri}}
 * Russian: {{t+|ru|сверлить|tr=sv'erlít'}}
 * Slovene: [[vrtati]], [[izvrtati]]
 * Spanish: {{t+|es|perforar}}
@@ -99,7 +99,7 @@ From {{etyl|dum}} {{term|drillen||lang=dum|bore, move in a circle}}
 * Italian: {{qualifier|figuratively}} [[scavare]]
 * Norwegian: {{t|no|dypdykke}}
 {{trans-mid}}
-* Russian: [[копать]] (kopát') ''imperf.'', [[копнуть]] (kopnút') ''perf.'' <!--lit. 'to dig'-->
+* Russian: [[копать]] (kopát') ''imperf.'', [[копнуть]] (kopnút') ''perf.''<!--lit. 'to dig'-->
 * Slovene: [[vrtati]]
 * Spanish: {{t+|es|averiguar}}
 * Swedish: {{t|sv|undersöka}}
@@ -138,7 +138,7 @@ From {{etyl|dum}} {{term|drillen||lang=dum|bore, move in a circle}}
 * Czech: {{t-|cs|vrtačka|f}}
 * Danish: {{t+|da|bor|n}}
 * Finnish: {{t+|fi|pora}}
-* French: {{t+|fr|perceuse|f}},  {{t|fr|foreuse|f}}
+* French: {{t+|fr|perceuse|f}}, {{t|fr|foreuse|f}}
 * German: [[:de:Bohrer|Bohrer]] {{m}}
 * Greek: {{t+|el|δράπανο|n|tr=drápano}}
 * Hebrew: [[מקדחה]] (maqdekha) {{f}}
@@ -160,7 +160,7 @@ From {{etyl|dum}} {{term|drillen||lang=dum|bore, move in a circle}}
 {{trans-top|driving part of a drill}}
 * Bulgarian: {{t+|bg|бургия|f}}
 * Finnish: {{t-|fi|poranterä}}
-* French: [[:fr:foret|foret]] {{m}},  {{t+|fr|foret|m}}
+* French: [[:fr:foret|foret]] {{m}}, {{t+|fr|foret|m}}
 {{trans-mid}}
 * German: [[:de:Drill|Drill]] {{m}}
 * Polish: {{t|pl|wiertło|n}}
@@ -169,10 +169,10 @@ From {{etyl|dum}} {{term|drillen||lang=dum|bore, move in a circle}}
 
 {{trans-top|exercise}}
 * Bulgarian: {{t+|bg|тренировка}}, {{t|bg|строева подготовка}}
-* Finnish: {{t+|fi|harjoitus}},  {{t|fi|harjoite}}
-* French: {{t+|fr|exercice|m}},  {{t+|fr|entraînement|m}}
-* German: [[:de:Drill|Drill]] {{m}}
-* Greek: {{t+|el|γυμνάσιο|n|tr=gymnásio}},  {{t+|el|άσκηση|f|tr=áskisi}},  {{t+|el|εκπαίδευση|f|tr=ekpaídefsi}}
+* Finnish: {{t+|fi|harjoitus}}, {{t|fi|harjoite}}
+* French: {{t+|fr|exercice|m}}, {{t+|fr|entraînement|m}}
+* German: {{t|de|Drill|m}}
+* Greek: {{t+|el|γυμνάσιο|n|tr=gymnásio}}, {{t+|el|άσκηση|f|tr=áskisi}}, {{t+|el|εκπαίδευση|f|tr=ekpaídefsi}}
 * Hungarian: {{t|hu|gyakorlatozás}}
 * Italian: {{t-|it|esercitazione|f}}
 {{trans-mid}}
@@ -192,7 +192,6 @@ From {{etyl|dum}} {{term|drillen||lang=dum|bore, move in a circle}}
 * [[drill down]]
 
 ===Etymology 2===
-
 Probably of African origin; compare ''[[mandrill]]''.
 
 ====Noun====
@@ -207,12 +206,12 @@ Probably of African origin; compare ''[[mandrill]]''.
 * Finnish: {{t-|fi|drilli}}
 {{trans-mid}}
 * French: {{t+|fr|drill|m}}
-* Russian: [[дрил]] (dril) {{m}}
+* Russian: {{t|ru|дрил|m|tr=dril}}
 * Spanish: {{t-|es|dril|m}}
 {{trans-bottom}}
 
 ===Etymology 3===
-Abbreviation of {{term|drilling}}.
+Abbreviation of {{term|drilling|lang=en}}.
 
 ====Noun====
 {{en-noun}}
@@ -237,7 +236,7 @@ Abbreviation of {{term|drilling}}.
 ==French==
 
 ===Etymology===
-{{etyl|en|fr}} {{term|drill|lang=en}}
+{{etyl|en|fr}} {{term|drill|lang=en}}.
 
 ===Noun===
 {{fr-noun|m}}
