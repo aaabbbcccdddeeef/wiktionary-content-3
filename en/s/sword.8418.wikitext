@@ -64,21 +64,19 @@
 * Albanian: {{t-|sq|shpatë|xs=Albanian}} {{g|sq}}
 * [[Amharic]]: {{t|am|ሰይፍ|tr=säyf|sc=Ethi}}
 * [[Anglo-Norman]]: {{tø|xno|espee}}
-* Arabic: {{Arab|[[سيف]]}} (saif) {{m}}
-* Armenian: {{t-|hy|թուր}} (t'ur), [[սուր]] (sur)
+* Arabic: {{t|ar|سيف|tr=saif|m}}
+* Armenian: {{t-|hy|թուր|tr=t'ur}}, {{t|hy|սուր|tr=sur}}
 * [[Azeri]]: {{t|az|qılınc|xs=Azeri}}
 * [[Bashkir]]: {{tø|ba|ҡылыс|tr=qılıs|sc=Cyrl|xs=Bashkir}}
 * [[Basque]]: [[ezpata]]
 * Belarusian: {{t-|be|шабля|f|tr=šablja|xs=Belarusian}}
 * Bengali: {{t|bn|অসি|tr=asi|sc=Beng}}
-* Bosnian: {{t-|bs|mač|m}}
 * Bulgarian: {{t+|bg|меч|m|tr=meč}}
 * Burmese: {{t|my|ဓား|tr=da:|sc=Mymr}}
 * [[Catalan]]: [[espasa]] {{f}}
 * [[Chechen]]: {{tø|ce|гӀалакх|tr=ġalaq|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t-|cmn|劍|sc=Hani}}, {{t-|cmn|剑|tr=jiàn|sc=Hani}}, {{t-|cmn|刀|tr=dāo|sc=Hani}}
-* Croatian: {{t-|hr|mač|m}}
 * Czech: {{t+|cs|meč|m}}
 * Danish: {{t-|da|sværd|c}}
 * Dutch: {{t+|nl|zwaard|n}}
@@ -92,9 +90,9 @@
 * German: {{t+|de|Schwert|n}}
 * Greek: [[ξίφος]] (ksífos) {{n}}, [[σπαθί]] (spathí) {{n}}
 * [[Greenlandic]]: {{t-|kl|pana|xs=Greenlandic}}
-* [[Gujarati]]: {{t+|gu|તલવાર|sc=Gujr|xs=Gujarati}}
+* [[Gujarati]]: {{t+|gu|તલવાર|tr=talvār|xs=Gujarati}}, {{t|gu|શમશેર|tr=śamśer|xs=Gujarati}}
 * Hebrew: {{t+|he|חרב|m|tr=kherev}}, {{t-|he|סיף|m|tr=sayif}}
-* Hindi: {{t-|hi|तलवार|xs=Hindi}} {{g|hi}}
+* Hindi: {{t-|hi|तलवार|xs=Hindi}}, {{t|hi|शमशेर|tr=śamśer|xs=Hindi}}
 * Hungarian: {{t+|hu|kard}}
 * Icelandic: {{t+|is|sverð|n}}
 * [[Ido]]: {{t|io|armo}}
@@ -113,12 +111,12 @@
 * Korean: [[검]] (geom) (Hanja: [[劍#Korean|劍]]), [[칼]] (kal)<!--the latter seems to be a native word and therefore has no Hanja-->
 * [[Kumyk]]: {{tø|kum|къылыч|tr=qılıç|sc=Cyrl}}
 * Kurdish:
-*: Kurmanji: [[şûr]], [[şimşûr]] {{g|ku}}
-*: Sorani: {{t|ku|شمشێر|tr=shimshaer|sc=ku-Arab}}, {{t|ku|شێر|tr=shaer|sc=ku-Arab}}
+*: Kurmanji: {{t|ku|şûr|sc=Latn}}, {{t|ku|şimşûr|sc=Latn}}
+*: Sorani: {{t|ku|شمشێر|tr=şimşer|sc=ku-Arab}}, {{t|ku|شێر|tr=sher|sc=ku-Arab}}
 * [[Kyrgyz]]: {{t|ky|кылыч|tr=qılıç|sc=Cyrl|xs=Kyrgyz}}
 * Latin: {{t+|la|gladius|m}}, {{t-|la|spatha|f}}, {{t|la|ensis|m}}, {{t|la|machaera|f}}, {{t|la|ferrum|n}}
-* Latvian: {{t-|lv|zobens|m|xs=Latvian}}
 {{trans-mid}}
+* Latvian: {{t-|lv|zobens|m|xs=Latvian}}
 * Lithuanian: {{t+|lt|kalavijas|m|xs=Lithuanian}}, {{t|lt|kardas|m}}
 * [[Macedonian]]: {{t-|mk|меч|m|tr=meč}}
 * Malay: {{t|ms|pedang|xs=Malay}}
@@ -141,7 +139,7 @@
 * Persian: {{t+|fa|شمشیر|tr=šamšir|xs=Persian}}
 * Polish: {{t+|pl|miecz|m}}
 * Portuguese: {{t+|pt|espada|f}}
-* [[Punjabi]]: [[ਤਲਵਾਰ]]
+* [[Punjabi]]: {{t|pa|ਤਲਵਾਰ|sc=Guru|tr=talvār}}
 * Romanian: {{t+|ro|sabie|f}}, {{t+|ro|spadă|f}}
 * Russian: {{t+|ru|меч|m|tr=meč}}, {{t+|ru|шпага|f|tr=špága}}
 * Sanskrit: {{t-|sa|कृपाण|xs=Sanskrit}} {{g|sa}}
@@ -157,7 +155,7 @@
 * Spanish: {{t+|es|espada|f}}
 * Swahili: {{t-|sw|upanga|xs=Swahili}}
 * Swedish: {{t+|sv|svärd|n}}
-* [[Tajik]]: {{t|tg|шамшир|tr=şamşir|sc=Cyrl|xs=Tajik}}
+* [[Tajik]]: {{t|tg|шамшер|tr=šamšer|sc=Cyrl|xs=Tajik}}
 * [[Tamil]]: {{t+|ta|வாள்|xs=Tamil}}
 * [[Tatar]]: {{t|tt|qılıç|xs=Tatar}}
 * [[Telugu]]: [[కత్తి]] (katti), [[కృపాణము]] (kRpaaNamu)
@@ -167,7 +165,7 @@
 * [[Turkmen]]: {{t-|tk|gylyç|xs=Turkmen}}
 * [[Tuvan]]: {{tø|tyv|хылыш|tr=xılış|sc=Cyrl}}
 * Ukrainian: {{t-|uk|меч|m|tr=mech|xs=Ukrainian}}
-* Urdu: {{t|ur|تلوار|tr=talvār|sc=ur-Arab}}
+* Urdu: {{t|ur|تلوار|tr=talvār|sc=ur-Arab}}, {{t|ur|شمشیر|tr=šamšer|sc=ur-Arab|xs=Urdu}}
 * Uzbek: {{t-|uz|qilich|xs=Uzbek}}
 * Vietnamese: {{t+|vi|gươm|xs=Vietnamese}}, {{t+|vi|kiếm|xs=Vietnamese}}
 * [[Volapük]]: {{t+|vo|gläv|xs=Volapük}}
