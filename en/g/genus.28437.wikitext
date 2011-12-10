@@ -3,16 +3,17 @@
 {{wikipedia|dab=Genus (disambiguation)|mul=Genus|lang=en}}
 
 ===Etymology===
-Borrowed from {{etyl|la|en}} {{term|genus|lang=la||birth, origin, a race, sort, kind}} from the root ''gen-'' in {{etyl|la}} {{term|gignere}}, {{etyl|OL.}} {{term|gegnere||to beget, produce}}.
+Borrowed from {{etyl|la}} {{term|genus|lang=la||birth, origin, a race, sort, kind}} from the root ''gen-'' in {{etyl|la}} {{term|gignere}}, {{etyl|OL.}} {{term|gegnere||to beget, produce}}.
 
 ===Pronunciation===
 * {{a|UK}} {{enPR|jēn'əs}}, {{IPA|/ˈdʒiːnəs/}}, {{SAMPA|/"dZi:n@s/}}
 * {{audio|En-us-genus.ogg|Audio (US)}}
+* {{rhymes|iːnəs}}
 
 ===Noun===
 {{en-noun|gen|era}}
 
-# {{context|biology|taxonomy}} a [[rank]] in the classification of [[organism]]s, below [[family]] and above [[species]]; a [[taxon]] at that rank
+# {{biology|taxonomy}} a [[rank]] in the classification of [[organism]]s, below [[family]] and above [[species]]; a [[taxon]] at that rank
 #: ''All magnolias belong to the '''genus''' Magnolia.''
 #: ''Other species of the '''genus''' Bos are often called cattle or wild cattle.''
 #: ''There are only two '''genera''' and species of seadragons''.
@@ -94,7 +95,7 @@ Borrowed from {{etyl|la|en}} {{term|genus|lang=la||birth, origin, a race, sort, 
 {{trans-top|group with common attributes}}
 * Dutch: {{t+|nl|soort|f}}
 {{trans-mid}}
-* Greek: {{t+|el|γένος|n|tr=génos}},  {{t|el|είδος|n|tr=eídos}}
+* Greek: {{t+|el|γένος|n|tr=génos}}, {{t|el|είδος|n|tr=eídos}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -127,7 +128,7 @@ Borrowed rom {{etyl|la|da}} {{term|genus|lang=la}}.
 ===Noun===
 {{infl|da|noun|g=n|plural indefinite|[[genus]]|or|genera}}
 
-# {{context|biology|taxonomy|lang=da}} {{l|en|genus}}
+# {{biology|taxonomy|lang=da}} {{l|en|genus}}
 # {{grammar|lang=da}} [[gender]]
 
 ====Synonyms====
@@ -167,7 +168,7 @@ From {{proto|Indo-European|ǵénh₁os|race|lang=la}}. Cognates include Ancient 
 
 # [[birth]], [[origin]]
 # [[kind]], [[type]], [[class]]
-# [[set]], [[group]] (''with common attributes'')
+# [[set]], [[group]] {{qualifier|with common attributes}}
 
 =====Inflection=====
 {{la-decl-3rd-N|genus|genus|gener}}
