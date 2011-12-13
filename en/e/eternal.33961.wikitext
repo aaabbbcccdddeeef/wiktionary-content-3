@@ -19,8 +19,8 @@ From {{etyl|LL.|en}} {{term|aeternalis|lang=la}} < {{etyl|la}} {{term|aeternus||
 # {{philosophy}} existing outside time; as opposed to [[sempiternal]], existing within time but [[everlastingly]]
 
 ====Synonyms====
-* (''lasting forever; unending'') [[permanent]], [[sempiternal]], [[endless]], [[everlasting]]
-* (''existing outside time'') [[timeless]], [[atemporal]]
+* {{sense|lasting forever; unending}} [[permanent]], [[sempiternal]], [[endless]], [[everlasting]]
+* {{sense|existing outside time}} [[timeless]], [[atemporal]]
 
 ====Antonyms====
 * [[sempiternal]]
@@ -37,13 +37,13 @@ From {{etyl|LL.|en}} {{term|aeternalis|lang=la}} < {{etyl|la}} {{term|aeternus||
 {{trans-top|lasting forever}}
 * Armenian: {{t|hy|հավերժական|tr=haveržakan|sc=Armn}}
 * Bengali: {{t|bn|অনন্ত|sc=Beng|xs=Bengali}}, {{t|bn|অমর|sc=Beng|xs=Bengali}}
-* [[Catalan]]: {{t|ca|etern|m}},  {{t-|ca|eterna|f}}
+* [[Catalan]]: {{t|ca|etern}}, {{t|ca|eternal}}
 * Chinese:
 *: Mandarin: {{t-|cmn|永遠|sc=Hani}},  {{t-|cmn|永远|tr=yǒngyuǎn|sc=Hani}}
 * Czech: {{t-|cs|věčný|m}}
 * Dutch: {{t+|nl|eeuwig}}
 * Finnish: {{t+|fi|ikuinen}}, {{t-|fi|päättymätön}}
-* French: {{t+|fr|éternel|m}}, {{t+|fr|éternelle|f}}
+* French: {{t+|fr|éternel}}
 * German: {{t+|de|ewig}}
 * Greek:
 *: Ancient: {{tø|grc|ἀΐδιος|sc=polytonic|tr=aïdios}}
@@ -61,7 +61,7 @@ From {{etyl|LL.|en}} {{term|aeternalis|lang=la}} < {{etyl|la}} {{term|aeternus||
 * Sanskrit: {{t|sa|सनातन|xs=Sanskrit}}
 * [[Scottish Gaelic]]: {{t-|gd|maireannach|xs=Scottish Gaelic}}
 * Serbian: [[večan]], [[vekotrajan]], [[vekovečan]]
-* Slovene: [[večen]] {{m}}, [[večna]] {{f}}, [[večno]] {{n}}
+* Slovene: {{t|sl|večen}}
 * Spanish: {{t+|es|eterno}}, {{t+|es|eternal}}
 * Swedish: {{t+|sv|evig}}
 * Turkish: {{t+|tr|sonsuz}}
@@ -75,12 +75,24 @@ From {{etyl|LL.|en}} {{term|aeternalis|lang=la}} < {{etyl|la}} {{term|aeternus||
 
 ----
 
+==Catalan==
+
+===Adjective===
+{{ca-adj|type=mf}}
+
+# {{l|en|eternal}}
+
+====Synonyms====
+* {{l|ca|etern}}
+
+----
+
 ==Spanish==
 
 ===Adjective===
-{{es-adj}}
+{{es-adj|pl=eternales}}
 
-# [[#English|eternal]]
+# {{l|en|eternal}}
 
 ====Synonyms====
 * [[eterno]]
