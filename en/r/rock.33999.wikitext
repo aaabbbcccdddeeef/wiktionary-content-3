@@ -9,10 +9,10 @@
 * {{rhymes|ɒk}}
 * {{a|US}} {{enPR|rŏk}}, {{IPA|/ɹɑk/}}
 * {{audio|en-us-rock.ogg|Audio (US)}}
-* {{homophones|roc}}
+* {{homophones|roc|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm}} {{term|rocke|lang=enm}}, {{term|rokke||rock formation|lang=enm}}, from {{etyl|ang}} *{{term||rocc|rock}}, as in {{ang}} {{l|ang|stanrocc|stān''rocc''}} ("high stone rock, peak, obelisk"), and {{etyl|ONF.}} {{term|roc|lang=fro}}, {{term|roque||lang=fro}} (Modern French {{term|roche|lang=fr}}), both probably of {{etyl|cel}} origin. Cognate with {{etyl|ga|-}} {{term|roc||rock|lang=ga}}, {{etyl|br|-}} {{term|roch||a rock|lang=br}}.
+From {{etyl|enm}} {{term|rocke|lang=enm}}, {{term|rokke||rock formation|lang=enm}}, from {{etyl|ang}} *{{term||rocc|rock}}, as in {{etyl|ang|-}} {{term|lang=ang|stanrocc|stān''rocc''|high stone rock, peak, obelisk}}, and {{etyl|ONF.}} {{term|roc|lang=fro}}, {{term|roque||lang=fro}} (Modern French {{term|roche|lang=fr}}), both probably of {{etyl|cel}} origin. Cognate with {{etyl|ga|-}} {{term|roc||rock|lang=ga}}, {{etyl|br|-}} {{term|roch||a rock|lang=br}}.
 
 ====Noun====
 {{en-noun|s|-}}
@@ -45,8 +45,9 @@ From {{etyl|enm}} {{term|rocke|lang=enm}}, {{term|rokke||rock formation|lang=enm
 #: ''While we're in Brighton, let's get a stick of '''rock'''!''
 # {{US|slang}} A [[crystalize]]d lump of [[crack cocaine]].
 # {{US|slang}} An unintelligent person, especially one who repeats mistakes.
-# {{context|South Africa|slang|derogatory}} An [[Afrikaner]].
-# {{US|slang}} In [[poker]], an extremely conservative player who is willing to play only the very strongest hands.
+# {{South Africa|slang|derogatory}} An [[Afrikaner]].
+# {{US|_|poker|_slang}} An extremely [[conservative]] player who is willing to play only the very [[strong]]est hands.
+# {{basketball|informal}} A [[basketball]] {{gloss|[[ball]]}}.
 
 =====Synonyms=====
 * {{sense|natural mineral aggregate}} [[stone]]
@@ -324,7 +325,7 @@ From {{etyl|enm}} {{term|rocke|lang=enm}}, {{term|rokke||rock formation|lang=enm
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{etyl|enm}} {{term|rokken|lang=enm}}, from {{etyl|ang}} {{term|roccian|lang=an}}, from {{proto|Germanic|rukkōnan}} (compare obsolete Dutch (Holland) {{term|rokken|lang=nl}}, Middle High German {{term|rocken|lang=gmh}} ‘to drag, jerk’, Icelandic {{term|rukka|lang=is}} ‘to yank’), from {{proto|Germanic|title=|rugnōnan}}, from {{proto|Indo-European|h₃ruk-néh₂}}-, from {{proto|Indo-European|title=|h₃runk}}- (compare Latin {{term|runcare|runcāre|lang=la}} ‘to weed’, Latvian {{term|rũķēt|lang=lv}} ‘to toss, dig’).
+From {{etyl|enm}} {{term|rokken|lang=enm}}, from {{etyl|ang}} {{term|roccian|lang=an}}, from {{proto|Germanic|rukkōnan}} (compare obsolete Dutch (Holland) {{term|rokken|lang=nl}}, Middle High German {{term|rocken|lang=gmh}} ‘to drag, jerk’, Icelandic {{term|rukka|lang=is}} ‘to yank’), from {{proto|Germanic|title=|rugnōnan}}, from {{proto|Indo-European|h₃ruk-néh₂}}-, from {{proto|Indo-European|title=|h₃runk}}- (compare Latin {{term|runcare|runcāre|lang=la|to weed}}, Latvian {{term|rũķēt|lang=lv||to toss, dig}}).
 
 ====Verb====
 {{en-verb}}
@@ -341,14 +342,6 @@ From {{etyl|enm}} {{term|rokken|lang=enm}}, from {{etyl|ang}} {{term|roccian|lan
 # {{transitive}} To [[disturb]] the [[emotional]] [[equilibrium]] of; to [[distress]]; to greatly [[impact]] (most often positively).
 #: ''Downing Street has been '''rocked''' by yet another sex scandal.''
 #: ''She '''rocked''' my world.''
-# {{intransitive|slang}} To [[excel]].
-#: ''This band '''rocks'''!''
-
-=====Synonyms=====
-* {{sense|to excel}} [[rule]]
-
-=====Antonyms=====
-* {{sense|to excel}} [[suck]]
 
 =====Derived terms=====
 {{rel-top3|Terms derived from ''rock'' (etymology 2)}}
@@ -437,10 +430,7 @@ From {{etyl|enm}} {{term|rokken|lang=enm}}, from {{etyl|ang}} {{term|roccian|lan
 ====Noun====
 {{en-noun}}
 
-# An act of rocking.
-
-=====Synonyms=====
-* {{sense|act of rocking}}
+# An act of rocking {{rfgloss|English}}
 
 =====Translations=====
 {{trans-top|act of rocking}}
@@ -450,20 +440,20 @@ From {{etyl|enm}} {{term|rokken|lang=enm}}, from {{etyl|ang}} {{term|roccian|lan
 * Swedish: {{t|sv|gungning|n}}, {{t|sv|vaggande|n}}, {{t|sv|vyssjande|n}}
 {{trans-bottom}}
 
-{{checktrans}}
-
+{{checktrans-top}}
 * {{ttbc|ia}}: [[rocca]] (1, 3)
 * {{ttbc|la}}: [[petrus]] (1)<!--this must be modern Latin:, rock (2)-->
+{{trans-mid}}
 * {{ttbc|ro}}: [[piatră]] {{f}}, [[rocă]] {{f}}
 * {{ttbc|sk}}: [[skala#Slovak|skala]] {{f}} (1, 3)
-
+{{trans-bottom}}{{rfc-auto}}
 ===Etymology 3===
-Shortened from '''[[rock and roll]]'''. Since the meaning of '''rock''' has adapted to mean a simpler, more modern, [[metal]]-like genre, “rock and roll” has generally been left referring to earlier forms such as that of the 1950s, notably more [[swing]]-oriented style.
+Shortened from {{term|rock and roll}}. Since the meaning of {{term||rock}} has adapted to mean a simpler, more modern, [[metal]]-like genre, {{term||rock and roll}} has generally been left referring to earlier forms such as that of the 1950s, notably more [[swing]]-oriented style.
 
 ====Noun====
 {{en-noun|-}}
 
-# A style of music characterized by basic drum-beat, generally [[4/4]] [[riff]]s, based on (usually electric) guitar, [[bass guitar]], drums, and vocals.
+# A style of music characterized by basic drum-beat, generally [[4/4]] [[riff]]s, based on (usually electric) guitar, [[bass guitar]], drums{{,}} and vocals.
 
 =====Synonyms=====
 * {{sense|style of music}}
@@ -499,13 +489,13 @@ Shortened from '''[[rock and roll]]'''. Since the meaning of '''rock''' has adap
 {{en-verb}}
 
 # {{intransitive}} To play, perform, or enjoy rock music, especially with a lot of skill or energy.
-#:* Let’s '''rock'''!
-# {{intransitive}} {{slang}} To be very [[favourable]] or [[skilful]].
-#:* Chocolate '''rocks'''.
+#: ''Let’s '''rock'''!''
+# {{intransitive|slang}} To be very [[favourable]] or [[skilful]]; to [[excel]].
+#: ''Chocolate '''rocks'''.''
 # {{transitive}} to [[thrill]] or [[excite]], especially with rock music
-#:* Let's '''rock''' this joint!
+#: ''Let's '''rock''' this joint!''
 # {{transitive}} to [[do]] something with excitement yet skillfully
-#:* I need to '''rock''' a piss.
+#: ''I need to '''rock''' a piss.''
 # {{transitive}} To [[wear]] (a piece of clothing, outfit etc.) successfully or with style; to [[carry off]] (a particular look, style).
 #* '''2011''', Tim Jonze, ''The Guardian'', 29 Apr 2011:
 #*: Take today, where she's '''rocking''' that well-known fashion combo – a Tory Burch outfit offset with a whacking great bruise attained by smacking her head on a plane's overhead lockers.
@@ -551,7 +541,7 @@ Shortened from '''[[rock and roll]]'''. Since the meaning of '''rock''' has adap
 * [[rock and roll]]
 
 ===Etymology 4===
-From Middle Dutch [[rocke]] (Dutch [[rok]]), {{etyl|gml}} [[rocken]], or Old Norse [[rokkr]] (Icelandic / Faroese [[rokkur]], Danish [[rok]], Swedish [[spinnrock]] ‘spinning wheel’). Cognate with Old High German [[rocko]] ‘distaff’.
+From {{etyl|dum}} {{term|lang=dum|rocke}} (whence {{etyl|nl|-}} {{term|lang=nl|rok}}), {{etyl|gml}} {{term|lang=gml|rocken}}, or {{etyl|non}} {{term|lang=non|rokkr}} (whence {{etyl|is|-}} / {{etyl|fo|-}} {{term|lang=fo|rokkur}}, {{etyl|da|-}} {{term|lang=da|rok}}, {{etyl|sv|-}} {{term|lang=sv|spinnrock||spinning wheel}}). Cognate with {{etyl|goh|-}} {{term|rocko||distaff|lang=goh}}.
 
 ====Noun====
 {{en-noun|s|-}}
@@ -590,7 +580,7 @@ From {{etyl|en|nl}}
 ===Noun===
 {{infl|nl|noun|g=m|g2=f}}
 
-# [[#English|rock]] (style of music)
+# [[#English|rock]] {{gloss|style of music}}
 
 ----
 
@@ -606,7 +596,7 @@ From {{etyl|en|fr}}
 ===Noun===
 {{fr-noun-unc|m}}
 
-# [[#English|rock]] (style of music)
+# [[#English|rock]] {{gloss|style of music}}
 
 [[Category:fr:Music genres]]
 
@@ -618,11 +608,9 @@ From {{etyl|en|fr}}
 From {{etyl|en|it}}
 
 ===Noun===
-'''rock'''
+{{infl|it|noun}}
 
-# [[rock]] (style of music)
-
-[[Category:Italian nouns]]
+# [[rock]] {{gloss|style of music}}
 
 ----
 
@@ -635,8 +623,6 @@ From {{etyl|en|it}}
 
 ====Related terms====
 * [[roquero]]
-
-[[Category:South African English]]
 
 ----
 
