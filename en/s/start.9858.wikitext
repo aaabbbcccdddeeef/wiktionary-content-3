@@ -145,7 +145,7 @@ From {{etyl|enm}} {{term|sterten||to leap up suddenly, rush out|lang=enm}}, from
 
 =====Translations=====
 {{trans-top|to set in motion}}
-* Finnish: [[panna]] [[liike|liikkeelle]], {{t|fi|käynnistää}}
+* Finnish: {{t|fi|käynnistää}}
 * [[Galician]]: [[comezar]]
 * Hebrew: {{t-|he|התחיל|tr=hitkhíl}}
 * Hungarian: {{t|hu|elindul}}, {{t+|hu|indul}}
@@ -191,7 +191,7 @@ From {{etyl|enm}} {{term|sterten||to leap up suddenly, rush out|lang=enm}}, from
 
 {{trans-top|to initiate a vehicle or machine}}
 * [[American Sign Language]]: {{tø|ase|1@InFinger-PalmDown-OpenB@CenterChesthigh 1@InFinger-PalmUp-OpenB@CenterChesthigh|xs=American Sign Language}}
-* Finnish: {{t+|fi|startata}}, {{t+|fi|käynnistää}}
+* Finnish: {{t+|fi|käynnistää}}
 * French: {{t+|fr|démarrer}}, {{t+|fr|mettre en route}}
 * [[Galician]]: [[iniciar]], [[arrancar]]
 * Hebrew: {{t-|he|התחיל|tr=hitkhíl}}
@@ -204,10 +204,15 @@ From {{etyl|enm}} {{term|sterten||to leap up suddenly, rush out|lang=enm}}, from
 * Spanish: {{t+|es|iniciar}}, {{t+|es|arrancar}}
 {{trans-bottom}}
 
-{{trans-top|to begin an activity}}
+{{trans-top|to put or raise a question or objection, to put forward}}
+* Finnish: {{t|fi|esittää}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|intransitive:of an activity, to begin}}
 * [[American Sign Language]]: {{tø|ase|1@InFinger-PalmDown-OpenB@CenterChesthigh 1@InFinger-PalmUp-OpenB@CenterChesthigh|xs=American Sign Language}}
 * Armenian: {{t|hy|սկսվել|tr=sksvel}}
-* Finnish: [[alkaa]], [[aloittaa]], [[käynnistyä]] (''of motors'')
+* Finnish: {{t|fi|alkaa}}, {{t|fi|aloittaa}}‚ {{t|fi|käynnistyä}} {{qualifier|of motors}}
 * French: {{t+|fr|commencer}}
 * German: {{t+|de|beginnen}}
 * Hebrew: {{t-|he|התחיל|tr=hitkhíl}}, {{t|he|פצח|tr=patsákh}}
@@ -235,7 +240,7 @@ From {{etyl|enm}} {{term|sterten||to leap up suddenly, rush out|lang=enm}}, from
 {{trans-bottom}}
 
 {{trans-top|to awaken suddenly}}
-* Finnish: {{t|fi|hätkähtää}}
+* Finnish: {{t|fi|säpsähtää}}
 * Hungarian: {{t-|hu|felriad}}
 * Icelandic: {{t|is|hrökkva upp}}
 {{trans-mid}}
@@ -243,8 +248,13 @@ From {{etyl|enm}} {{term|sterten||to leap up suddenly, rush out|lang=enm}}, from
 * Polish: {{t|pl|zerwać się (z łóżka)|n}}
 {{trans-bottom}}
 
+{{trans-top|to break away, to come loose}}
+* Finnish: {{t|fi|irrota}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{checktrans-top}}
-* {{ttbc|ca}}: [[començar]]
+* {{ttbc|ca}}: {{t|ca|començar}}
 * {{ttbc|zh}}: [[開始]]/开始
 * {{ttbc|nl}}: [[starten]], [[beginnen]], [[aanvangen]]
 * {{ttbc|fr}}: [[commencer]], [[débuter]] and also [[initier]], [[entamer]]
@@ -255,7 +265,7 @@ From {{etyl|enm}} {{term|sterten||to leap up suddenly, rush out|lang=enm}}, from
 * {{ttbc|pt}}: [[começar]]
 * {{ttbc|ro}}: [[tresări]], [[porni]], [[începe]]
 * {{ttbc|rm}}: [[entschaiver]], [[cumanzar ]], [[iniziar]]
-* {{ttbc|sv}}: [[starta]], [[börja]]
+* {{ttbc|sv}}: {{t|sv|starta}}, {{t|sv|börja}}
 * {{ttbc|te}}: [[మొదలుపెట్టు]] (modalupeTTu), [[ప్రారంభించు]] (praaraMbhiMchu)
 * {{ttbc|vi}}: [[Bắt đầu]]
 {{trans-bottom}}
