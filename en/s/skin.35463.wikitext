@@ -96,7 +96,8 @@ From {{etyl|enm}} {{term|skinn|lang=enm}}, from {{etyl|non}} {{term|skinn|lang=n
 * [[Afrikaans]]: {{t-|af|vel|xs=Afrikaans}}
 * Albanian: {{t-|sq|lëkurë|f|xs=Albanian}}
 * [[Ama]]: {{tø|amm|tono}}
-* Arabic: {{Arab|[[جلد]]}} (jild) {{m}}
+* Arabic: {{Arab|[[جلد]]}} (jild) {{m}}, {{t|ar|جلد|m|tr=jild|sc=Arab}}
+*: [[Egyptian Arabic]]: {{tø|arz|جلد|m|tr=gild|sc=Arab}}
 * Armenian: {{t-|hy|մաշկ|tr=mašk}}, {{t-|hy|մորթ|tr=mort’}}
 * [[Aromanian]]: {{tø|rup|chiale}}
 * [[Asturian]]: {{t+|ast|pelleyu|m|xs=Asturian}}, {{t|ast|piel|f}}
@@ -104,7 +105,7 @@ From {{etyl|enm}} {{term|skinn|lang=enm}}, from {{etyl|non}} {{term|skinn|lang=n
 * [[Bashkir]]: {{tø|ba|тире|tr=tire|sc=Cyrl|xs=Bashkir}}
 * [[Basque]]: {{t+|eu|azal|xs=Basque}}
 * Belarusian: {{t|be|скура|f|tr=skúra|xs=Belarusian}}
-* Bengali: {{t|bn|ত্বক|sc=Beng}}
+* Bengali: {{t|bn|ত্বক|sc=Beng}}, {{t|bn|ত্বক|tr=tbôkô|sc=Beng}}
 * Bosnian: {{t-|bs|koža|f}}
 * [[Breton]]: {{t|br|kroc'hen|m|xs=Breton}}
 * Bulgarian: {{t+|bg|кожа|f|tr=kóža}}
@@ -132,29 +133,31 @@ From {{etyl|enm}} {{term|skinn|lang=enm}}, from {{etyl|non}} {{term|skinn|lang=n
 * Greek: {{t+|el|δέρμα|n|tr=dérma}}
 * [[Guaraní]]: [[api]]
 * [[Haitian Creole]]: {{tø|ht|po}}
-* Hebrew: [[עור]] ('or) {{m}}
+* Hebrew: [[עור]] ('or) {{m}}, {{t|he|עור|m|tr=or|sc=Hebr}}
+* Hindi: {{t|hi|त्वचा|f|tr=tvacā|sc=Deva}}
 * Hungarian: {{t+|hu|bőr}}
 * Icelandic: {{t+|is|húð|f}}, {{t+|is|skinn|n}}, {{t+|is|hörund|n}}
 * [[Ido]]: {{t+|io|pelo|xs=Ido}}
 * Indonesian: {{t+|id|kulit|xs=Indonesian}}
 * Irish: {{t+|ga|craiceann|m|xs=Irish}}
 * Italian: {{t-|it|pelle|f}}
-* Japanese: [[皮膚]] (ひふ, hifu)
+* Japanese: [[皮膚]] (ひふ, hifu), {{t|ja|皮膚|tr=ひふ, hifu|sc=Jpan}}, {{t|ja|肌|tr=はだ, hada|sc=Jpan}}
 * [[Kalmyk]]: {{tø|xal|арсн|tr=arsn|sc=Cyrl}}
 * [[Karachay-Balkar]]: {{tø|krc|тери|tr=teri|sc=Cyrl}}
 * [[Karakalpak]]: {{tø|kaa|teri}}
 * Kazakh: {{t|kk|тері|tr=teri|sc=Cyrl|xs=Kazakh}}
 * [[Khakas]]: {{tø|kjh|теер|tr=teer|sc=Cyrl}}
-* Korean: [[살갗]] (salgat), [[피부]] ([[皮膚]], pibu)
+* {{trreq|Khmer}}
+* Korean: [[살갗]] (salgat), [[피부]] ([[皮膚]], pibu), {{t|ko|살갗|tr=salgat|sc=Kore}}, {{t|ko|피부|tr=pibu|sc=Kore}}, {{t|ko|皮膚|sc=Kore}}
 * [[Koryak]]: {{tø|kpy|гылгын|tr=gəlgən|sc=Cyrl}}
-* [[Kumyk]]: {{tø|kum|тери|tr=teri|sc=Cyrl}}, {{tø|kum|оьнг|tr=öñ|sc=Cyrl}}
 {{trans-mid}}
+* [[Kumyk]]: {{tø|kum|тери|tr=teri|sc=Cyrl}}, {{tø|kum|оьнг|tr=öñ|sc=Cyrl}}
 * Kurdish: [[çerm]] {{m}}, [[pîst]] {{m}}, {{ku-Arab|[[پێست]]}}
 * [[Kyrgyz]]: {{t-|ky|тери|tr=teri|sc=Cyrl|xs=Kyrgyz}}
 * Latin: {{t-|la|cutis|f}}
 * Latvian: {{t-|lv|āda|f|xs=Latvian}}
 * Lithuanian: {{t+|lt|oda|f|xs=Lithuanian}}
-* [[Macedonian]]: [[кожа]] {{f}}
+* [[Macedonian]]: [[кожа]] {{f}}, {{t|mk|кожа|f|tr=kóža|sc=Cyrl}}
 * Malay: {{t-|ms|kulit|xs=Malay}}
 * [[Malayalam]]: [[തൊലി]] (tholi), [[ചര്‍മ്മം]] (charmam)
 * [[Manx]]: {{t-|gv|crackan|m|xs=Manx}}
@@ -164,7 +167,7 @@ From {{etyl|enm}} {{term|skinn|lang=enm}}, from {{etyl|non}} {{term|skinn|lang=n
 * [[Occitan]]: {{t+|oc|pèl|xs=Occitan}} {{f}}
 * [[Old Church Slavonic]]: {{tø|cu|кожа|f|tr=koža|sc=Cyrs}}
 * [[Pangasinan]]: {{tø|pag|baog}}
-* Persian: {{fa-Arab|[[پوست]]}} (pust)
+* Persian: {{fa-Arab|[[پوست]]}} (pust), {{t|fa|پوست|tr=pust|sc=fa-Arab}}
 * Polish: {{t+|pl|skóra|f}}
 * Portuguese: {{t+|pt|pele|f}}
 * [[Quechua]]: {{t-|qu|qara|xs=Quechua}}
@@ -172,7 +175,7 @@ From {{etyl|enm}} {{term|skinn|lang=enm}}, from {{etyl|non}} {{term|skinn|lang=n
 * [[Romani]]: {{tø|rom|morchi}}
 * Romanian: {{t-|ro|piele|f}}
 * [[Russia Buryat]]: {{tø|bxr|арhан|tr=arhan|sc=Cyrl}}
-* Russian: {{t+|ru|кожа|f|tr=kóža}}
+* Russian: {{t+|ru|кожа|f|tr=kóža}}, {{qualifier|disparaging}} {{t|ru|шкура|f|tr=škúra|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|craiceann|m|xs=Scottish Gaelic}}
 * Serbian:
 *: Cyrillic: {{t-|sr|кожа|f|sc=Cyrl}}
@@ -184,19 +187,21 @@ From {{etyl|enm}} {{term|skinn|lang=enm}}, from {{etyl|non}} {{term|skinn|lang=n
 * [[Southern Altai]]: {{tø|alt|тере|tr=tere|sc=Cyrl}}
 * Spanish: {{t+|es|piel|f}}
 * [[Sundanese]]: {{t-|su|kulit|xs=Sundanese}}
-* Swahili: [[ngozi]] ''(nc 9/10)''
+* Swahili: [[ngozi]] ''(nc 9/10)'', {{t|sw|ngozi}}
 * Swedish: {{t+|sv|hud|c}}, {{t+|sv|skinn|n}}
 * [[Tagalog]]: {{t+|tl|balat|xs=Tagalog}}
 * [[Tajik]]: {{t-|tg|пӯст|tr=pūst|sc=Cyrl|xs=Tajik}}
 * [[Tamil]]: {{t|ta|தோல்|tr=tōl|xs=Tamil}}
-* [[Tatar]]: {{t-|tt|tire|xs=Tatar}}
+* [[Tatar]]: {{t-|tt|tire|xs=Tatar}}, {{t|tt|тире|tr=tire|sc=Cyrl}}
 * [[Telugu]]: [[చర్మము]] (charmam)
 * Thai: {{t|th|ผิวหนัง|tr=pĭw năng|sc=Thai}}
 * Turkish: {{t+|tr|cilt}}, {{t+|tr|deri}}
 * [[Turkmen]]: {{t-|tk|deri|xs=Turkmen}}
 * Ukrainian: {{t|uk|шкiра|f|tr=škíra|xs=Ukrainian}}
+* Urdu: {{t|ur|توچا|f|tr=tvacā|sc=ur-Arab}}
 * [[Uyghur]]: {{t-|ug|تېرە|tr=tére|sc=ug-Arab|xs=Uyghur}}
 * Uzbek: {{t-|uz|teri|xs=Uzbek}}
+* Vietnamese: {{t|vi|da}}
 * [[Volapük]]: {{t|vo|skin}}
 * Welsh: {{t+|cy|croen|m|xs=Welsh}}
 * [[West Frisian]]: {{t|fy|hûd|xs=West Frisian}}
@@ -222,6 +227,7 @@ From {{etyl|enm}} {{term|skinn|lang=enm}}, from {{etyl|non}} {{term|skinn|lang=n
 * Russian: {{t+|ru|кожа|f|tr=kóža}}, {{t+|ru|шкура|f|tr=škúra}}, {{t+|ru|кожура|f|tr=kožurá}} ''of plants''
 * Swahili: {{t+|sw|ngozi|xs=Swahili}}
 * [[Telugu]]: [[పట్ట]]
+* Ukrainian: {{t|uk|шкура|f|tr=škúra|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|skin of an animal used by humans}}
