@@ -19,13 +19,13 @@ From {{etyl|enm}} {{term|skinn|lang=enm}}, from {{etyl|non}} {{term|skinn|lang=n
 # {{countable}} The skin and fur of an individual animal used by [[humans]] for clothing, [[upholstery]], etc.
 # {{countable}} A [[congeal]]ed layer on the surface of a [[liquid]].
 #* ''In order to get to the rest of the [[paint]] in the can, you'll have to remove the '''skin''' floating on top of it.''
-# {{context|countable|computing}} A set of resources that modifies the [[appearance]] and/or [[layout]] of the [[graphical user interface]] of a [[computer program]].
+# {{countable|computing}} A set of resources that modifies the [[appearance]] and/or [[layout]] of the [[graphical user interface]] of a [[computer program]].
 #* ''You can use this '''skin''' to change how the [[browser]] looks.''
-# {{context|countable|slang}} [[rolling paper|Rolling paper]] for cigarettes.
+# {{countable|slang}} [[rolling paper|Rolling paper]] for cigarettes.
 #* ''Pass me a '''skin''', mate.''
-# {{context|countable|slang}} Short for [[skinhead]].
+# {{countable|slang}} Short for [[skinhead]].
 # {{Australia}} A subgroup within an Australian [[aboriginal]] people, also called a [[section]], [[subsection]], or [[moiety]]. These divisions are [[cultural]], not related to a person's physical skin. (Reference: ''Macquarie Aboriginal Words'', [[w:Macquarie University|Macquarie University]], 1994, paperback ISBN 0-949757-79-9, introduction.)
-# {{context|countable|video games}} An alternate appearance ([[texture map]] or [[geometry]]) for a 3D character model in a [[video game]].
+# {{countable|video games}} An alternate appearance ([[texture map]] or [[geometry]]) for a 3D character model in a [[video game]].
 # {{slang}} [[nudity]], particular [[bare]] [[breast]]s.
 #* Let me see a bit of '''skin'''.
 
@@ -76,7 +76,7 @@ From {{etyl|enm}} {{term|skinn|lang=enm}}, from {{etyl|non}} {{term|skinn|lang=n
 * [[skinful]]
 * [[skin graft]]
 * [[skinhead]]
-* [[skin in the game]]<!-- William Safire. [http://www.nytimes.com/2006/09/17/opinion/17iht-edsafire.2839605.html  "Language: Who's got a skin in the game?"] ''New York Times'' (US). September 17, 2006; retrieved 2011-08-08 -->
+* [[skin in the game]]<!-- William Safire. [http://www.nytimes.com/2006/09/17/opinion/17iht-edsafire.2839605.html "Language: Who's got a skin in the game?"] ''New York Times'' (US). September 17, 2006; retrieved 2011-08-08 -->
 * [[skinless]]
 * [[skin movie]]
 * [[skin type]]
@@ -215,10 +215,10 @@ From {{etyl|enm}} {{term|skinn|lang=enm}}, from {{etyl|non}} {{term|skinn|lang=n
 *: [[Mandarin]]: {{t-|cmn|皮|tr=pí|sc=Hani}}, {{t-|cmn|皮膚|sc=Hani}}, {{t-|cmn|皮肤|tr=pífū|sc=Hani}}
 * Danish: {{t|da|skræl|c}}, {{t|da|skind|n}}
 * Dutch: {{t+|nl|huid|f}}, {{t+|nl|vel|n}}
-* Finnish: {{t+|fi|nahka}}, {{t+|fi|iho}} (''animal''), {{t+|fi|kuori}} (''fruit etc.''), {{t+|fi|pinta}} (''other'')
+* Finnish: {{t+|fi|nahka}}, {{t+|fi|iho}} {{qualifier|animal}}, {{t+|fi|kuori}} (''fruit etc.''), {{t+|fi|pinta}} {{qualifier|other}}
 * French: {{t+|fr|peau|f}}
 * Greek: {{t+|el|δέρμα|n|tr=dérma}}
-* Hungarian: {{t+|hu|héj}} (''fruit, vegetable''), {{t+|hu|kéreg}} (''plant''), {{t+|hu|bőr}} (''animal'')
+* Hungarian: {{t+|hu|héj}} {{qualifier|fruit, vegetable}}, {{t+|hu|kéreg}} {{qualifier|plant}}, {{t+|hu|bőr}} {{qualifier|animal}}
 {{trans-mid}}
 * Irish: {{t+|ga|craiceann|m|xs=Irish}}, {{t-|ga|cneas|m|xs=Irish}}, {{t-|ga|seithe|f|xs=Irish}}
 * Kurdish: {{t-|ku|چه‌رم|sc=ku-Arab}}
@@ -349,7 +349,7 @@ From {{etyl|enm}} {{term|skinn|lang=enm}}, from {{etyl|non}} {{term|skinn|lang=n
 |year=2011
 |date=January 30
 |author=Kevin Darlng
-|title=Arsenal   2 - 1   Huddersfield
+|title=Arsenal 2 - 1 Huddersfield
 |work=BBC
 |url=http://news.bbc.co.uk/sport2/hi/football/fa_cup/9379082.stm
 |page=
@@ -419,7 +419,7 @@ From {{etyl|enm}} {{term|skinn|lang=enm}}, from {{etyl|non}} {{term|skinn|lang=n
 # [[semblance]]
 
 ===Verb===
-{{infl|da|verb form}}
+{{head|da|verb form}}
 
 # {{form of|imperative|skinne|lang=da}}
 
@@ -468,7 +468,7 @@ From {{term|skína||to shine|lang=is}}.
 ==Swedish==
 
 ===Verb===
-{{infl|sv|verb form}}
+{{head|sv|verb form}}
 
 # {{sv-verb-form-imp|skina}}
 
@@ -477,7 +477,7 @@ From {{term|skína||to shine|lang=is}}.
 ==Tok Pisin==
 
 ===Noun===
-{{infl|tpi|noun}}
+{{head|tpi|noun}}
 
 # {{anatomy|lang=tpi}} [[skin#English|skin]]
 
