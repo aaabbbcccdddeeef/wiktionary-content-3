@@ -111,10 +111,10 @@ From {{etyl|la|en}} {{term||phosphorus|lang=la}}, from {{etyl|grc|en}} {{term|φ
 {{trans-top|element}}
 * [[Afrikaans]]: [[fosfor#Afrikaans|fosfor]]
 * Albanian: {{t-|sq|fosfor|xs=Albanian}}
-* Arabic: {{Arab|[[فسفور]]}} {{Arab|[[فوسفور]]}} (fusfú:r) {{m}}, {{t|ar|فسفور|m|tr=fusfūr|sc=Arab}}
+* Arabic: {{t|ar|فسفور|m|tr=fusfūr|sc=Arab}}
 * Armenian: {{t-|hy|ֆոսֆոր|tr=fosfor}}
 * [[Basque]]: [[fosforoa]]
-* Belarusian: [[фосфар]] (fósfar) {{m}}
+* Belarusian: {{t|be|фосфар|m|tr=fósfar}}
 * [[Breton]]: [[fosfor#Breton|fosfor]] {{m}}
 * Bulgarian: {{t-|bg|фосфор|m|tr=fósfor}}
 * [[Catalan]]: [[fòsfor]]
@@ -141,20 +141,20 @@ From {{etyl|la|en}} {{term||phosphorus|lang=la}}, from {{etyl|grc|en}} {{term|φ
 * [[Interlingua]]: [[phosphoro]]
 * Irish: {{t+|ga|fosfar|xs=Irish}}
 * Italian: {{t+|it|fosforo|m}}
-* Japanese: [[リン]], [[燐]] (rin), {{t|ja|リン|tr=rin|sc=Jpan}}, {{t|ja|燐|tr=りん, rin|sc=Jpan}}
+* Japanese: {{t|ja|リン|tr=rin|sc=Jpan}}, {{t|ja|燐|tr=りん, rin|sc=Jpan}}
 * [[Kashubian]]: [[fòsfòr]]
 {{trans-mid}}
 * Kazakh: {{t-|kk|фосфор|tr=fosfor|sc=Cyrl|xs=Kazakh}}
-* Korean: [[인]] (燐, in), [[인소]] (燐素, inso), {{t|ko|인|tr=in|sc=Kore}}, {{t|ko|燐|sc=Kore}}, {{t|ko|인소|tr=inso|sc=Kore}}, {{t|ko|燐素|sc=Kore}}
+* Korean: {{t|ko|인|tr=in|sc=Kore}} ({{t|ko|燐|sc=Kore}}), {{t|ko|인소|tr=inso|sc=Kore}} ({{t|ko|燐素|sc=Kore}})
 * Latin: {{t+|la|phosphorus|m}}
 * Latvian: [[fosfors]]
 * Lithuanian: {{t+|lt|fosforas|xs=Lithuanian}}
 * [[Luxembourgish]]: [[Phosphor]]
-* [[Macedonian]]: [[фосфор]] (fosfor) {{m}}
+* [[Macedonian]]: {{t|mk|фосфор|m|tr=fósfor}}
 * Malay: [[fosforus]]
 * Maltese: [[fosfru]]
 * [[Manx]]: [[fosfaar]]
-* Mongolian: [[сүүмэг]] (süümeg)
+* Mongolian: {{t|mn|сүүмэг|tr=süümeg|sc=Cyrl}}
 * Norwegian: {{t+|no|fosfor}}
 * Polish: {{t+|pl|fosfor|m}}
 * Portuguese: {{t+|pt|fósforo|m}}
@@ -168,13 +168,14 @@ From {{etyl|la|en}} {{term||phosphorus|lang=la}}, from {{etyl|grc|en}} {{term|φ
 * Slovene: {{t+|sl|fosfor}}
 * Spanish: {{t+|es|fósforo|m}}
 * Swedish: {{t+|sv|fosfor|n}} ''or'' {{c}}
-* [[Tajik]]: [[fosfor#Tajik|fosfor]]
+* [[Tajik]]: {{t|tg|фосфор|tr=fosfor|sc=Cyrl}}
 * [[Tamil]]: [[தீமுறி]] (theemuRi), [[பிரகாசிதம்]] (pirakaasitham)
 * [[Telugu]]: [[భాస్వరం]] (bhaasvaram)
-* Thai: {{Thai|[[ฟอสฟอรัส]]}} (fosforas)
+* Thai: {{t|th|ฟอสฟอรัส|tr=fôt-for-rát|sc=Thai}}
 * Turkish: {{t+|tr|fosfor}}
 * Ukrainian: {{t-|uk|фосфор|m|tr=fósfor|xs=Ukrainian}}
-* Uzbek: {{t-|uz|фосфор|tr=fosfor|sc=Cyrl|xs=Uzbek}}
+* Uzbek: {{t|uz|fosfor}}
+*: Cyrillic: {{t-|uz|фосфор|sc=Cyrl}}
 * Vietnamese: {{t+|vi|photpho|xs=Vietnamese}}, {{t+|vi|phốtpho|xs=Vietnamese}}
 * [[Volapük]]: {{t|vo|fosfin}}
 * Welsh: [[ffósfforws]]
