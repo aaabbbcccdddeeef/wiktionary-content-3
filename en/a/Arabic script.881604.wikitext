@@ -10,16 +10,16 @@
 <table align="center"  border="1" cellpadding="2" cellspacing="0">
   <tr>
     <td bgcolor="#cccccc">Name</td>
-    <td bgcolor="#cccccc">[[ا|alif]]</td>
-    <td bgcolor="#cccccc">[[ب|ba]]</td>
-    <td bgcolor="#cccccc">[[ت|ta]]</td>
-    <td bgcolor="#cccccc">[[ث|tha]]</td>
-    <td bgcolor="#cccccc">[[ج|jim]]</td>
-    <td bgcolor="#cccccc">[[ح|ha]]</td>
-    <td bgcolor="#cccccc">[[خ|kha]]</td>
-    <td bgcolor="#cccccc">[[د|dal]]</td>
-    <td bgcolor="#cccccc">[[ذ|dhal]]</td>
-    <td bgcolor="#cccccc">[[ر|ra]]</td>
+    <td bgcolor="#cccccc">[[ا|ʾálif]]</td>
+    <td bgcolor="#cccccc">[[ب|bāʾ]]</td>
+    <td bgcolor="#cccccc">[[ت|tāʾ]]</td>
+    <td bgcolor="#cccccc">[[ث|ṯāʾ]]</td>
+    <td bgcolor="#cccccc">[[ج|jīm]]</td>
+    <td bgcolor="#cccccc">[[ح|ḥāʾ]]</td>
+    <td bgcolor="#cccccc">[[خ|xāʾ]]</td>
+    <td bgcolor="#cccccc">[[د|dāl]]</td>
+    <td bgcolor="#cccccc">[[ذ|ḏāl]]</td>
+    <td bgcolor="#cccccc">[[ر|rāʾ]]</td>
     </tr>
   <tr valign="top">
     <td bgcolor="#cccccc">Letter</td>
@@ -36,16 +36,16 @@
   </tr>
   <tr>
     <td bgcolor="#cccccc">Name</td>
-    <td bgcolor="#cccccc">[[ز|zayn]]</td>
-    <td bgcolor="#cccccc">[[س|sin]]</td>
-    <td bgcolor="#cccccc">[[ش|shin]]</td>
-    <td bgcolor="#cccccc">[[ص|Sad]]</td>
-    <td bgcolor="#cccccc">[[ض|Dhad]]</td>
-    <td bgcolor="#cccccc">[[ط|Ta]]</td>
-    <td bgcolor="#cccccc">[[ظ|Za]]</td>
-    <td bgcolor="#cccccc">[[ع|ayn]]</td>
-    <td bgcolor="#cccccc">[[غ|ghayn]]</td>
-    <td bgcolor="#cccccc">[[ف|fa]]</td>
+    <td bgcolor="#cccccc">[[ز|zayn, zāy]]</td>
+    <td bgcolor="#cccccc">[[س|sīn]]</td>
+    <td bgcolor="#cccccc">[[ش|šīn]]</td>
+    <td bgcolor="#cccccc">[[ص|ṣād]]</td>
+    <td bgcolor="#cccccc">[[ض|ḍād]]</td>
+    <td bgcolor="#cccccc">[[ط|ṭāʾ]]</td>
+    <td bgcolor="#cccccc">[[ظ|ẓāʾ]]</td>
+    <td bgcolor="#cccccc">[[ع|ʿayn]]</td>
+    <td bgcolor="#cccccc">[[غ|ġayn]]</td>
+    <td bgcolor="#cccccc">[[ف|fāʾ]]</td>
     </tr>
   <tr valign="top">
     <td bgcolor="#cccccc">Letter</td>
@@ -62,14 +62,14 @@
   </tr>
   <tr>
     <td bgcolor="#cccccc">Name</td>
-    <td bgcolor="#cccccc">[[ق|qaf]]</td>
-    <td bgcolor="#cccccc">[[ك|kaf]]</td>
-    <td bgcolor="#cccccc">[[ل|lam]]</td>
-    <td bgcolor="#cccccc">[[م|mim]]</td>
-    <td bgcolor="#cccccc">[[ن|nun]]</td>
-    <td bgcolor="#cccccc">[[ه|ha]]</td>
-    <td bgcolor="#cccccc">[[و|waw]]</td>
-    <td bgcolor="#cccccc">[[ى|ya]]</td>
+    <td bgcolor="#cccccc">[[ق|qāf]]</td>
+    <td bgcolor="#cccccc">[[ك|kāf]]</td>
+    <td bgcolor="#cccccc">[[ل|lām]]</td>
+    <td bgcolor="#cccccc">[[م|mīm]]</td>
+    <td bgcolor="#cccccc">[[ن|nūn]]</td>
+    <td bgcolor="#cccccc">[[ه|hāʾ]]</td>
+    <td bgcolor="#cccccc">[[و|wāw]]</td>
+    <td bgcolor="#cccccc">[[ى|yaʾ]]</td>
     <td bgcolor="#cccccc">&nbsp;</td>
     <td bgcolor="#cccccc">&nbsp;</td>
     </tr>
@@ -93,7 +93,7 @@
 
 ====Translations====
 {{trans-top|letters of the Arabic language}}
-* Arabic: {{t|ar|حروف الهجاء|m|tr=ḥurūf al-hiǧāʔ|sc=Arab}}, {{t|ar|أبجدية عربية|f|tr=ʕabjadīya ġarabīya|sc=Arab}}, {{t|ar|حروف أبجدية|m|tr=ḥurūf ʕabjadīya|sc=Arab}}, {{t|ar|ألف باء|f|tr=ʾalif bāʔ|sc=Arab}} ''(sometimes written in one word: {{t|ar|ألفباء|f|tr=ʾalifbāʔ|sc=Arab}})''
+* Arabic: {{t|ar|حروف الهجاء|m|tr=ḥurūf al-hijāʾ|sc=Arab}}, {{t|ar|أبجدية عربية|f|tr=ʾabjadíyya ʿarabíyya|sc=Arab}}, {{t|ar|حروف أبجدية|m|tr=ḥurūf ʾabjadíyya|sc=Arab}}, {{t|ar|ألف باء|f|tr=ʾálif bāʾ|sc=Arab}} ''(sometimes written in one word: {{t|ar|ألفباء|f|tr=ʾalifbāʾ|sc=Arab}})''
 * Chinese:
 *: Mandarin: {{t|zh|阿拉伯字母|tr=Ālābó zìmǔ|sc=Hani}}, {{t|zh|阿拉伯文字|tr=Ālābó wénzì|sc=Hani}}
 * Finnish: {{t|fi|arabialainen}} {{t|fi|kirjoitus}}
