@@ -271,7 +271,7 @@ From {{etyl|enm}} {{term|long|lang=enm}}, {{term|lang|lang=enm}}, from {{etyl|an
 {{en-noun}}
 
 # {{linguistics}} A long [[vowel]].
-# {{programming}} A long [[integer]] variable, twice the size of an [[int]] and half of a [[long long]]. A long is typically 64 [[bit]]s in a [[32-bit]] environment.
+# {{programming}} A long [[integer]] variable, twice the size of an [[int]] or a [[short]] and half of a [[long long]]. A long is typically 64 [[bit]]s in a [[32-bit]] environment.
 # {{finance}} An entity with a long position in an asset.
 #: ''Every uptick made the '''longs''' cheer.''
 
