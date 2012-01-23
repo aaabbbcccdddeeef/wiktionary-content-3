@@ -121,7 +121,7 @@ From {{etyl|enm}} ''[[#Middle English|doctor, doctour]]'' "an expert, authority 
 * [[Afrikaans]]: {{t-|af|dokter|xs=Afrikaans}}
 * [[Akan]]: [[dɔkota]] {{n}}
 * Albanian: {{t|sq|mjeku|xs=Albanian}}
-* Arabic: {{t+|ar|طبيب|m|alt=طَبيب|tr=Tabiib}}, {{t|ar|طبيبة|f|alt=طبيبة|tr=Tabiiba(t)}}, {{t-|ar|دكتور|m|alt=دُكْتور|tr=duktoor}}
+* Arabic: {{t+|ar|طبيب|m|alt=طَبيب|tr=ṭabīb}}, {{t|ar|طبيبة|f|alt=طبيبة|tr=ṭabība}}, {{t-|ar|دكتور|m|alt=دُكْتور|tr=duktōr}}
 *: Egyptian Arabic: {{tø|arz|دكتور|m|tr=duktuur|sc=Arab|xs=Egyptian Arabic}}
 * Aramaic:
 *: Syriac: [[ܐܣܝܐ]] (’āsyā’) {{m}}
@@ -138,7 +138,6 @@ From {{etyl|enm}} ''[[#Middle English|doctor, doctour]]'' "an expert, authority 
 * Chinese:
 *: Mandarin: {{t-|cmn|醫生|sc=Hani}}, {{t-|cmn|医生|tr=yīshēng|sc=Hani}}, {{t-|cmn|大夫|tr=dàifu|sc=Hani}}
 *: [[Min Nan]]: {{tø|nan|醫生|tr=i-seng|sc=Hans}}, {{tø|nan|先生|tr=sian-seⁿ, sian-siⁿ|sc=Hans}}
-* Croatian: {{t+|hr|liječnik|m|alt=lijȇčnīk}}, {{t+|hr|liječnica|f|alt=lijȇčnica}}
 * Czech: {{t+|cs|doktor|m}}, {{t-|cs|lékař|m}}
 * Danish: {{t-|da|læge}}, {{t-|da|doktor}}
 * Dutch: {{t+|nl|dokter|m|f}}, {{t+|nl|arts|m|f}}
@@ -166,9 +165,9 @@ From {{etyl|enm}} ''[[#Middle English|doctor, doctour]]'' "an expert, authority 
 * [[Kikuyu]]: {{tø|ki|dagitari}}
 * Korean: {{t+|ko|의사|tr=uisa|sc=Hang}} ({{t|ko|醫師|sc=Hani}})
 * Kurdish: {{ku-Arab|[[دکتۆر]]}}
-{{trans-mid}}
 * Kyrgyz: {{t|ky|дарыгер|tr=darıger|sc=Cyrl}}
 * Latin: {{t+|la|medicus|m}}, {{t-|la|medica|f}}
+{{trans-mid}}
 * Latvian: {{t|lv|ārsts|m|xs=Latvian}}
 * Lithuanian: {{t+|lt|daktaras|m|xs=Lithuanian}}, {{t+|lt|gydytojas|m|xs=Lithuanian}}
 * [[Low German]]: {{t|nds|Dokter|m}}, {{t|nds|Dokterin|f}}, {{t|nds|Doktersch|f}}, {{t|nds|Doktersche|f}}
@@ -193,10 +192,12 @@ From {{etyl|enm}} ''[[#Middle English|doctor, doctour]]'' "an expert, authority 
 * Russian: {{t+|ru|доктор|m|f|tr=dóktor}}, {{t+|ru|врач|m|f|tr=vrač}}, {{t+|ru|лекарь|m|tr=lékar'}}
 * {{trreq|sa}}
 * [[Scottish Gaelic]]: [[lighiche]] {{m}}, [[lèigh]] {{m}}, [[dotair]] {{m}}
-* Serbian: [[lekar]] {{m}}, [[lekarka]] {{f}}, [[zdravnik]] {{m}}, [[zdravnica]] {{f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|лечник|m|sc=Cyrl}} / {{t|sh|лијечник|m|sc=Cyrl}}, {{t|sh|лечница|f}} / {{t|sh|лијечница|f}}, {{t|sh|лекар|m}} / {{t|sh|љекар|m}}, {{t|sh|лекарка|f}} / {{t|sh|љекарка|f}}, {{t|sh|здравник|m}}, {{t|sh|здравница|f}}
+*: Roman: {{t|sh|lečnik|m}} / {{t|sh|liječnik|m}}, {{t|sh|lečnica|f}} / {{t|sh|liječnica|f}}, {{t|sh|lekar|m}} / {{t|sh|ljekar|m}}, {{t|sh|lekarka|f}} / {{t|sh|ljekarka|f}}, {{t|sh|zdravnik|m}}, {{t|sh|zdravnica|f}}
 * [[Sinhalese]]: {{t|si|දොස්තර|tr=dostara|sc=Sinh|xs=Sinhalese}}
-* Slovak: {{t-|sk|doktor|m}}, [[lekár]] {{m}}
-* Slovene: [[zdravnik]] {{m}}, [[zdravnica]] {{f}}
+* Slovak: {{t-|sk|doktor|m}}, {{t|sk|lekár|m}}
+* Slovene: {{t|sl|zdravnik|m}}, {{t|sl|zdravnica|f}}
 * [[Sotho]]: {{t-|st|ngaka|xs=Sotho}}
 * Spanish: {{t+|es|médico|m}}, {{t-|es|médica|f}}
 * Swahili: {{t+|sw|daktari|xs=Swahili}}, {{t-|sw|dokta|xs=Swahili}}
