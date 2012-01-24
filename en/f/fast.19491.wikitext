@@ -136,7 +136,7 @@
 * Icelandic: {{t+|is|fasta|f}}
 * Italian: {{t-|it|digiuno|m}}
 * Japanese: {{t|ja|断食|tr=だんじき, danjiki|sc=Jpan}}, {{t|ja|絶食|tr=ぜっしょく, zesshoku|sc=Jpan}}
-* Korean: {{t|ko|단식|tr=dansik|sc=Kore}}, {{t|ko|斷食|sc=Kore}}
+* Korean: {{t|ko|단식|tr=dansik|sc=Kore}} ({{t|ko|斷食|sc=Kore}})
 * Kurdish:
 *: Kurmanji: [[rojî]] {{f}}
 *: Sorani: {{t|ku|ڕۆژوو|tr=rrojû|sc=ku-Arab}}
@@ -170,10 +170,11 @@
 * Arabic: {{t-|ar|صيام|m|tr=ṣiyām}}
 * Armenian: {{t|hy|պաս|tr=pas}}, {{t|hy|ծոմ|tr=çom}}, {{t-|hy|պահք|tr=pahk’}}
 * [[Basque]]: {{t|eu|baraualdi|xs=Basque}}
-* Belarusian: {{t|be|пост|m|tr=post|sc=Cyrl}}
+* Belarusian: {{t|be|пост|m|tr=post|sc=Cyrl}}, {{t|be|галаданне|n|tr=haladánne|sc=Cyrl}}
+* Bulgarian: {{t|bg|пост|m|tr=post|sc=Cyrl}}
 * [[Catalan]]: {{t|ca|dia dejunat}}
 * Chinese:
-*: Mandarin: {{t|zh|斋戒期|tr=zhāijiè qí|sc=Hani}}
+*: Mandarin: {{t|zh|禁食|tr=jìnshí|sc=Hani}}, {{t|zh|齋戒|sc=Hani}}, {{t|zh|斋戒|tr=zhāijiè|sc=Hani}}
 * Czech: {{t-|cs|půst|m}}
 * Danish: {{t-|da|faste|c}}
 * Dutch: {{t+|nl|vasten|m}}
@@ -185,20 +186,22 @@
 * German: {{t-|de|Fastenzeit|f}}
 * Greek: {{t+|el|νηστεία|f|tr=nistía}}
 * Hebrew: {{t+|he|צום|m|alt=צוֹם|tr=tsom|sc=Hebr}}, {{t+|he|תענית|f|alt=תַּעֲנִית|tr=ta'anít|sc=Hebr}}
-* {{trreq|hi}}
+* Hindi: {{t|hi|उपवास|tr=upvās|sc=Deva}}
 * Hungarian: {{t+|hu|böjt}}
 * Icelandic: {{t+|is|fasta|f}}
 * {{trreq|id}}
+* Indonesian: {{t|id|puasa}}
 * Irish: {{t|ga|troscadh|m|xs=Irish}}
 {{trans-mid}}
 * Italian: {{t-|it|digiuno|m}}
-* {{trreq|ja}}
-* {{trreq|ko}}
+* Japanese: {{t|ja|断食|tr=だんじき, danjiki|sc=Jpan}}, {{t|ja|絶食|tr=ぜっしょく, zesshoku|sc=Jpan}}
+* Korean: {{t|ko|단식|tr=dansik|sc=Kore}} ({{t|ko|斷食|sc=Kore}})
 * Kurdish: [[rojî]] {{f}}, {{ku-Arab|[[ڕۆژوو]]}}
 * Latin: {{t+|la|ieiunium|n|alt=iēiūnium}}
 * Latvian: {{t|lv|gavēnis|m}}
 * Lithuanian: {{t|lt|pasninkas|m}}, {{t|lt|gavėnia|f}}
 * [[Macedonian]]: {{t-|mk|пост|m|tr=post}}
+* Malay: {{t|ms|puasa}}
 * Mongolian: {{t|mn|харуу|tr=haruu|sc=Cyrl|xs=Mongolian}}
 * Norwegian: {{t+|no|faste|m}}
 * Persian: {{t+|fa|روزه|xs=Persian}}
@@ -207,21 +210,24 @@
 * {{trreq|ro}}
 * Russian: {{t+|ru|пост|m|tr=post}}, {{t|ru|голодание|n|tr=golodánije|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|trasg|f|xs=Scottish Gaelic}}
-* {{trreq|sh}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|пост|m}}
+*: Roman: {{t|sh|post|m}}
+* Slovak: {{t|sk|pôst|m}}
 * Slovene: {{t+|sl|post|m}}
 * Spanish: {{t+|es|ayuno|m}}, {{t+|es|vigilia|f}}
 * Swahili: {{t+|sw|funga|xs=Swahili}}
 * Swedish: {{t-|sv|fastetid|c}}
-* Thai: {{Thai|[[การอด]]}} (kaan òt)
+* Thai: {{t|th|การอด|tr=kaan òt|sc=Thai}}
 * {{trreq|bo}}
 * {{trreq|tr}}
-* {{trreq|vi}}
+* Ukrainian: {{t|uk|піст|m|tr=pist|sc=Cyrl}}, {{t|uk|голодування|n|tr=holoduvánnja|sc=Cyrl}}
+* Vietnamese: {{t|vi|nhịn ăn}}, {{t|vi|kiêng ăn}}
 * Welsh: {{t|cy|ympryd|m|xs=Welsh}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 * {{ttbc|eo}}: [[fasto]]
-* {{ttbc|ms}}: [[puasa]]
 {{trans-mid}}
 {{trans-bottom}}
 
