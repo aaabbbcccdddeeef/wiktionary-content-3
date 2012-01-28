@@ -56,15 +56,15 @@ From Late {{etyl|ang|en}} {{term|wiþutan|wiþūtan|lang=ang}}. {{prefix|with|ou
 * Albanian: {{t-|sq|pa|xs=Albanian}}
 * [[Ancient Greek]]: {{tø|grc|ἄνευ|tr=áneu|xs=Ancient Greek}}
 * [[Anglo-Norman]]: {{tø|xno|senz}}
-* Arabic: {{Arab|[[بدون]]}} (bidú:n),  {{t-|ar|بغير|tr=bighayr}}, {{t|ar|بدون|tr=bidūna|sc=Arab}}, {{t|ar|بغير|tr=bi-ġáyri|sc=Arab}}
+* Arabic: {{t|ar|بدون|tr=bi-dūna|sc=Arab}}, {{t|ar|بغير|tr=bi-ġáyri|sc=Arab}}
 *: [[Egyptian Arabic]]: {{tø|arz|من غير|tr=mengher|sc=Arab}}
 * Armenian: {{t-|hy|առանց|tr=aṙanc’}}
 * [[Basque]]: [[gabe]], [[barik]]
 * Belarusian: {{t|be|без|tr=bez|sc=Cyrl}}
 * [[Breton]]: [[hep]]
-* Bulgarian: {{t+|bg|без}}
+* Bulgarian: {{t+|bg|без|tr=bez}}
 * [[Catalan]]: [[sense]]
-* Chinese: [[沒有]], [[没有]] (méiyǒu), [[無]], [[无]] (wú)
+* Chinese:
 *: Mandarin: {{t|zh|沒有|sc=Hani}}, {{t|zh|没有|tr=méiyǒu|sc=Hani}}, {{t|zh|無|sc=Hani}}, {{t|zh|无|tr=wú|sc=Hani}}
 * Croatian: {{t|hr|bez}}
 * Czech: {{t+|cs|bez}}, {{t+|cs|beze}}
@@ -80,7 +80,7 @@ From Late {{etyl|ang|en}} {{term|wiþutan|wiþūtan|lang=ang}}. {{prefix|with|ou
 * German: {{t+|de|ohne}}
 * Greek: {{t+|el|χωρίς|tr=chorís}}
 * Hawaiian: [[nele]], [[ʻole]]
-* Hebrew: [[בלי]] (bli), {{t|he|בלי|tr=bli|sc=Hebr}}
+* Hebrew: {{t|he|בלי|tr=bli|sc=Hebr}}
 * Hindi: {{t|hi|बिना|tr=... ke binā|alt=... के बिना|sc=Deva}}
 * Hungarian: {{t+|hu|nélkül}}
 * Icelandic: {{t+|is|án}}
@@ -88,9 +88,9 @@ From Late {{etyl|ang|en}} {{term|wiþutan|wiþūtan|lang=ang}}. {{prefix|with|ou
 * Irish: {{t+|ga|gan|xs=Irish}}
 {{trans-mid}}
 * Italian: {{t+|it|senza}}
-* Japanese: ...[[なしで]] (...nashide), ...[[無し]] (...[[なし]], ...nashi), {{t|ja|なし|tr=...nashi de|alt=...なしで|sc=Jpan}}, {{t|ja|無し|tr=(...なし, ...nashi|alt=...無し|sc=Jpan}}
+* Japanese: {{t|ja|なし|tr=...nashi de|alt=...なしで|sc=Jpan}}, {{t|ja|無し|tr=(...なし, ...nashi|alt=...無し|sc=Jpan}}
 * [[Khmer]]: {{t-|km|ដោយគ្មាន|tr=daoee kmeeun|sc=Khmr|xs=Khmer}}
-* Korean: ...[[없이]] (...eopsi), {{t|ko|없이|tr=...eopsi|alt=...없이|sc=Kore}}
+* Korean: {{t|ko|없이|tr=...eopsi|alt=...없이|sc=Kore}}
 * Kurdish: {{t+|ku|bê}}
 * Latin: {{t+|la|sine}}, {{t|la|absque}}
 * Lithuanian: {{t+|lt|be|xs=Lithuanian}}
@@ -102,7 +102,7 @@ From Late {{etyl|ang|en}} {{term|wiþutan|wiþūtan|lang=ang}}. {{prefix|with|ou
 * Polish: {{t+|pl|bez}}
 * Portuguese: {{t+|pt|sem}}
 * Romanian: {{t-|ro|fără}}
-* Russian: [[без#Russian|без]] (bez), {{t|ru|без|tr=bez|sc=Cyrl}}
+* Russian: {{t|ru|без|tr=bez|sc=Cyrl}} {{qualifier|+ [[genitive case]]}}
 * [[Scottish Gaelic]]: {{t-|gd|gun|xs=Scottish Gaelic}},  {{t-|gd|às aonais|xs=Scottish Gaelic}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|без|alt=бѐз|sc=Cyrl|xs=Serbo-Croatian}}
