@@ -1,7 +1,8 @@
 ==English==
+{{wikipedia}}
 
 ===Etymology===
-{{etyl|fro}} {{term|vilage|lang=fro}}, from {{etyl|LL.}} *{{term||villaticum}}, ultimately from {{etyl|la}} {{term|villa|lang=la}}.
+{{etyl|fro}} {{term|vilage|lang=fro}}, from {{etyl|LL.}} {{recons|villaticum|lang=LL.}}, ultimately from {{etyl|la}} {{term|villa|lang=la}}.
 
 ===Pronunciation===
 * {{IPA|/ˈvɪlədʒ/}}
@@ -9,12 +10,11 @@
 * {{audio|En-uk-village.ogg|Audio (UK)}}
 
 ===Noun===
-{{wikipedia}}
 {{en-noun}}
 
 # A [[rural]] [[habitation]] of [[size]] between a [[hamlet]] and a [[town]].
 #: ''There are 2 churches and 3 shops in our '''village'''.''
-# {{Australia}} A planned [[community]] such as a [[retirement]] community or [[shopping]] [[district]]
+# {{Australia}} A planned [[community]] such as a [[retirement]] community or [[shopping]] [[district]].
 
 ====Derived terms====
 * [[eco-village]]
@@ -68,7 +68,7 @@
 * [[Ido]]: [[vilajo]]
 * Irish: {{t+|ga|sráidbhaile|m|xs=Irish}}
 * Italian: {{t+|it|villaggio|m}}, {{t+|it|borgo|m}}
-* Japanese: {{t+|ja|村}}, {{t+|ja|むら|tr=mura}}, {{t+|ja|田舎|tr=いなか, inaka}} (''country'')
+* Japanese: {{t+|ja|村}}, {{t+|ja|むら|tr=mura}}, {{t+|ja|田舎|tr=いなか, inaka}} {{qualifier|country}}
 * [[Kannada]]: {{t|kn|ಗ್ರಾಮ|tr=grāma|sc=Knda|xs=Kannada}}
 * [[Khmer]]: {{Khmr|[[ភូមិ]]}} (pūm)
 * Korean: {{t+|ko|마을|tr=ma-eul|sc=Hang}}
@@ -134,7 +134,8 @@
 ==French==
 
 ===Pronunciation===
-* {{audio|Fr-village.ogg|Audio}}
+* {{audio|Fr-village.ogg|Audio (un village)}}
+* {{IPA|/vilaʒ/|lang=fr}}
 
 ===Noun===
 {{fr-noun|m}}
@@ -143,6 +144,18 @@
 
 ====Related terms====
 * [[villageois]]
+
+----
+
+==Occitan==
+
+===Alternative forms===
+* {{l|oc|vilage}}
+
+===Noun===
+{{oc-noun|m}}
+
+# [[#English|village]]
 
 [[af:village]]
 [[ang:village]]
