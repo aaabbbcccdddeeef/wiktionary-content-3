@@ -1,10 +1,10 @@
+{{also|genètic}}
 ==English==
 {{wikipedia}}
 
 ===Pronunciation===
-* ge*net"ic
-* {{enPR|jə-nĕt'ĭk}}, {{IPA|[d͡ʒəˈnetɪk]|[d͡ʒɪˈnetɪk]}}, {{SAMPA|dZ@"netIk/}}
-*: {{rhymes|ɛtɪk}}
+* {{enPR|jə-nĕt'ĭk}}, {{IPA|[d͡ʒəˈnetɪk]|[d͡ʒɪˈnetɪk]}}, {{SAMPA|/dZ@"netIk/}}
+* {{rhymes|ɛtɪk}}
 
 ===Adjective===
 {{en-adj|-}}
@@ -34,24 +34,32 @@
 * [[genetically]]
 
 ====Translations====
-{{trans-top}}
+{{trans-top|relating to genetics or genes}}
+* [[Catalan]]: {{t|ca|genètic}}
 * Czech: {{t+|cs|genetický|m}}
-* Dutch: [[genetisch]] (1,2), [[erfelijk]] (2)
+* Dutch: {{t|nl|genetisch}}
 * Finnish: {{t-|fi|geneettinen}}
 * French: {{t+|fr|génétique}}
 * [[Galician]]: {{t-|gl|xenético|xs=Galician}}
 * German: {{t+|de|genetisch}}
 * Irish: {{t|ga|gineach}}, {{t|ga|géiniteach}}
-* Italian: {{t-|it|genetico|m}}
+* Italian: {{t-|it|genetico}}
 {{trans-mid}}
 * Japanese: {{t|ja|遺伝的|tr=identeki|sc=Jpan}}
-* Persian: [[تباری]] (tabaari)
-* Polish: [[genetyczny]] {{m}}, [[genetyczna]] {{f}}, [[genetyczne]] {{f}}
+* Persian: {{t|fa|تباری|tr=tabaari}}
+* Polish: {{t|pl|genetyczny|m}}
 * Portuguese: {{t-|pt|genético}}
 * Romanian: {{t+|ro|genetic}}
 * Russian: {{t+|ru|генетический}}
-* Swedish: {{t-|sv|genetik}} (1), {{t|sv|genetisk}} (2)
-* [[Telugu]]: [[జన్యు]] (janyu), [[జన్యుపరమైన]] (janyuparamaina)
+* Spanish: {{t|es|genético}}
+* Swedish: {{t-|sv|genetik}}
+* [[Telugu]]: {{t|te|జన్యు|tr=janyu}}, {{t|te|జన్యుపరమైన|tr=janyuparamaina}}
+{{trans-bottom}}
+
+{{trans-top|caused by genes}}
+* Dutch: {{t|nl|genetisch}}, {{t|nl|erfelijk}}
+{{trans-mid}}
+* Swedish: {{t|sv|genetisk}}
 {{trans-bottom}}
 
 ----
@@ -59,7 +67,7 @@
 ==Romanian==
 
 ===Etymology===
-{{etyl|fr|ro}} ''[[génétique]]''
+{{etyl|fr|ro}} {{term|génétique|lang=fr}}
 
 ===Pronunciation===
 * {{IPA|[ʤeˈne.tik]|lang=ro}}
@@ -67,7 +75,7 @@
 ===Adjective===
 {{ro-adj|4}}
 
-# [[#English|genetic]]
+# {{l|en|genetic}}
 
 ====Declension====
 {{ro-adj-4}}
