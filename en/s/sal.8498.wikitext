@@ -233,19 +233,44 @@ From {{etyl|la|rm}} {{term|sal|sāl|lang=la}}, from {{proto|Indo-European|séh�
 
 ==Spanish==
 
-===Etymology===
-From {{etyl|la|es}} {{term|sal|lang=la}}.
+===Pronunciation===
+* {{IPA|/sal/|lang=es}}, {{SAMPA|/sal/|lang=es}}
+{{wikipedia|lang=es}}
+{{wikipedia|lang=es|Sal (química)}}
+===Etymology 1===
+From {{etyl|la|es}} {{term|sal|lang=la|sāl}} (cf. {{etyl|ca|-}} {{term|sal|lang=ca}}, {{etyl|fr|-}} {{term|sel|lang=fr}}, {{etyl|it|-}} {{term|sale|lang=it}}, {{etyl|pt|-}} {{term|sal|lang=pt}}, {{etyl|ro|-}} {{term|sare|lang=ro}}), from {{proto|Indo-European|seh₂l-|lang=es}}, a root shared by {{etyl|en|-}} {{term|salt}}.
 
-===Noun===
+====Noun====
 {{es-noun|f|pl=sales}}
 
-# [[salt]]
+# [[salt]]; [[table salt]]
+# {{context|chemistry|lang=es}} [[salt]]
 
-====Related terms====
-* [[salado]]
-* [[salobre]]
+=====Synonyms=====
+* {{sense|table salt}} [[sal común]] {{f}}, [[sal de mesa]] {{f}}
 
-===Verb===
+=====Derived terms=====
+{{top3}}
+* {{l|es|agua salada|g=f}}
+* {{l|es|salar}} {{pos_v}}
+* {{l|es|sal común|g=f}}
+{{mid3}}
+* {{l|es|sal de mesa|g=f}}
+* {{l|es|salero|g=m}}
+* {{l|es|salino}}
+{{mid3}}
+* {{l|es|sal marina|g=f}}
+* {{l|es|salobre}}
+{{bottom}}
+
+=====Related terms=====
+* {{l|es|salado}}
+* {{l|es|salitre}}
+* {{l|es|salso}}, {{l|es|salsa}}
+
+===Etymology 2===
+
+====Verb====
 {{es-verb-form|salir}}
 
 # {{es-verb form of|mood=imp|num=s|pers=2|formal=n|sense=+|ending=ir|verb=[[salir]]}}
