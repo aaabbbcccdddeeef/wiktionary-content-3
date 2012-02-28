@@ -13,7 +13,7 @@ From {{etyl|la|en}} {{term|area|lang=la}}.
 {{wikipedia}}
 {{en-noun|pl2=areæ}}
 
-# {{mathematics}} A [[measure]] of the [[extent]] of a [[planar]] region, or of the [[surface]] of a solid; it is measured in square units.
+# {{mathematics}} A [[measure]] of the [[extent]] of a [[surface]]; it is measured in square units.
 # A particular geographic [[region]].
 # Any particular [[extent]] of surface, especially an [[empty]] or [[unused]] extent.
 #: ''The photo is a little dark in that '''area'''.''
@@ -76,7 +76,7 @@ From {{etyl|la|en}} {{term|area|lang=la}}.
 {{rel-bottom}}
 
 ====Translations====
-{{trans-top|measure of planar extent}}
+{{trans-top|math: measure of extent of a surface}}
 * Basque: {{t|eu|sail}}
 * Bulgarian: {{t|bg|площ|tr=plošt}}, {{t+|bg|пространство}}, {{t|bg|повърхнина}}
 * Catalan: {{t|ca|àrea|f}}
@@ -88,6 +88,7 @@ From {{etyl|la|en}} {{term|area|lang=la}}.
 * Esperanto: {{t-|eo|areo|xs=Esperanto}}
 * Estonian: {{t|et|pindala}}
 * Faroese: {{t|fo|vídd}}
+* Finnish: {{t|fi|pinta-ala}}
 * French: {{t|fr|aire|f}}
 * German: {{t|de|Oberfläche|f}}
 * Hungarian: {{t|hu|terület}}
@@ -114,6 +115,7 @@ From {{etyl|la|en}} {{term|area|lang=la}}.
 *: Mandarin: {{t|zh|地區|sc=Hani}}, {{t|zh|地区|tr=dìqū|sc=Hani}}, {{t|zh|領域|sc=Hani}}, {{t|zh|领域|tr=lǐngyù|sc=Hani}}
 * Czech: {{t+|cs|oblast|f}}
 * Dutch: {{t+|nl|regio}}, {{t+|nl|streek}}, {{t+|nl|gebied}}
+* Finnish: {{t|fi|alue}}
 * French: {{t|fr|aire|f}}
 * German: {{t|de|Gebiet|n}}
 * Hindi: {{t|hi|क्षेत्र|m|tr=kṣetra|sc=Deva}}
@@ -132,14 +134,25 @@ From {{etyl|la|en}} {{term|area|lang=la}}.
 * Vietnamese: {{t|vi|miền}}
 {{trans-bottom}}
 
-{{trans-top|figuratively, any extent, scope or range of an object or concept}}
-* Polish: [[dziedzina]] {{f}}
+{{trans-top|any particular extent}}
+* Finnish: {{t|fi|alue}}
 {{trans-mid}}
 {{trans-bottom}}
 
+{{trans-top|figuratively, any extent, scope or range}}
+* Finnish: {{t|fi|alue}}
+{{trans-mid}}
+* Polish: [[dziedzina]] {{f}}
+{{trans-bottom}}
+
+{{trans-top|open space, below ground level, between the front of a house and the pavement}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|soccer: penalty area|penalty area}}
+
 {{checktrans-top}}
 * {{ttbc|Danish}}: {{t|da|areal|n}}
-* {{ttbc|Finnish}}: [[pinta-ala]], [[alue]]
 * {{ttbc|French}}: [[aire]] {{f}}
 * {{ttbc|Galician}}: [[área]]
 * {{ttbc|German}}: [[Areal]]
