@@ -30,6 +30,7 @@
 * Croatian: [[zatvoren]]
 * Czech: {{t|cs|zavřený}}
 * Dutch: {{t+|nl|gesloten}}, {{t+|nl|dicht}}, {{t+|nl|afgesloten}}, {{t+|nl|toe}}
+* Esperanto: {{t|eo|fermita}}
 * Estonian: {{t|et|suletud}}, {{t|et|kinnine}}
 * Finnish: {{t-|fi|suljettu}}, {{t+|fi|kiinni}}
 * French: {{t+|fr|fermé}}
@@ -51,6 +52,11 @@
 * Urdu: {{t|ur|بند|tr=band|sc=ur-Arab}}
 {{trans-bottom}}
 
+{{trans-top|not operating or conducting trade}}
+* Czech: {{t|zavřený}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|non public}}
 * Armenian: {{t-|hy|փակ|tr=p’ak}}
 * Bulgarian: {{t+|bg|ограничен}}
@@ -65,13 +71,18 @@
 {{trans-bottom}}
 
 {{trans-top|in mathematics, such that its image under the specified operation is contained in it}}
+* Czech: {{t-|cs|uzavřený|m}}
 * Icelandic: {{t|is|lokaður|m}}
 {{trans-mid}}
 * Russian: {{t+|ru|замкнутый|tr=zámknutyj}}
 {{trans-bottom}}
 
-{{checktrans-top|in mathematics}}
+{{trans-top|lacking a free variable}}
 * Czech: {{t-|cs|uzavřený|m}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top|in mathematics}}
 * Dutch: [[gesloten]] (''topology''), [[inwendig]] (''algebra'')
 * Estonian: {{t|et|kinnine}}
 * Finnish: {{t-|fi|suljettu}}
@@ -81,10 +92,6 @@
 * Hebrew: [[סגורה]] {{romanization of Hebrew|sgurá}} {{f}}
 * Swedish: {{t+|sv|sluten}}
 {{trans-bottom}}
-
-{{checktrans}}
-
-* {{ttbc|eo}}: [[fermita]]
 
 ===Verb===
 '''closed'''
