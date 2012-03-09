@@ -3,9 +3,10 @@
 [[Image:FR8-01.jpg|thumb|right|200px|a rifle (Mauser K98)]]
 
 ===Etymology===
-{{etyl|enm}}, from {{etyl|fro}} {{term|rifler}} 'to scrape off, plunder', from [[Old Low Franconian]] *''riffilōn'' (compare obsolete {{etyl|nl|-}} ''rijffelen'' 'to scrape', {{etyl|ang}} {{term|geriflian}} 'to wrinkle', {{etyl|gmh}} {{term|riffeln}} 'to scratch, heckle (flax)', {{etyl|goh}} {{term|riffilōn}} 'to saw, rub apart'), frequentative of {{proto|Germanic|rīfanan}} (compare {{etyl|non}} {{term|rifa}} 'to tear, break'). More at [[rive]].
+{{etyl|enm}}, from {{etyl|fro}} {{term|rifler||to scrape off, plunder|lang=fro}}, from [[Old Low Franconian]] *''riffilōn'' (compare obsolete {{etyl|nl|-}} ''rijffelen'' 'to scrape', {{etyl|ang}} {{term|geriflian||to wrinkle|lang=ang}}, {{etyl|gmh}} {{term|riffeln||to scratch, heckle (flax)|lang=gmh}}, {{etyl|goh}} {{term|riffilōn||to saw, rub apart|lang=goh}}), frequentative of {{proto|Germanic|rīfanan}} (compare {{etyl|non}} {{term|rifa||to tear, break|lang=non}}). More at {{term|rive}}.
 
 ===Pronunciation===
+* {{IPA|/ˈraɪfəl/}}, {{SAMPA|/"raIf@l/}}
 * {{audio|en-us-rifle.ogg|Audio (US)}}
 
 ===Noun===
@@ -21,7 +22,7 @@
 * Belarusian: {{t|be|вінтоўка|f|tr=vintóŭka|sc=Cyrl}}, {{t|be|ружжо|n|tr=ružžó|sc=Cyrl}}
 * [[Breton]]: [[fuzuilh]] {{f}}, [[karabinenn]] {{f}}
 * Bulgarian: {{t|bg|пушка|f|tr=púška|sc=Cyrl}}
-* [[Catalan]]: [[fusell]] {{m}}
+* [[Catalan]]: {{t|ca|fusell|m}}, {{t|ca|rifle|m}}
 * Chinese:
 *: Mandarin: {{t|zh|步槍|sc=Hani}}, {{t|zh|步枪|tr=bùqiāng|sc=Hani}}
 * Czech: {{t-|cs|puška|f}}, {{t|cs|ručnice|f}}
@@ -113,7 +114,7 @@
 ==French==
 
 ===Etymology===
-From {{etyl|AE.|fr}} [[#English|rifle]] (19th century).
+From {{etyl|AE.|fr}} {{term|rifle|lang=en}} (19th century).
 
 ===Pronunciation===
 * {{IPA|/ʁifl/|lang=fr}}
@@ -121,7 +122,7 @@ From {{etyl|AE.|fr}} [[#English|rifle]] (19th century).
 ===Noun===
 {{fr-noun|m}}
 
-# [[rifle]] ([[carabine]])
+# {{l|en|rifle}} ([[carabine]])
 
 ====Related terms====
 * [[.22 Long Rifle]]
@@ -146,12 +147,12 @@ From {{etyl|AE.|fr}} [[#English|rifle]] (19th century).
 From {{etyl|en|pt}} {{term|rifle|lang=en}}, from {{etyl|enm|pt}}, from {{etyl|fro|pt}} {{term|rifler||to scrape off, plunder|lang=fro}}, from Old Low Franconian {{recons|riffilōn|rifillon|lang=odt}}, frequentative of {{proto|Germanic|rīfanan|lang=pt}}.
 
 ===Pronunciation===
-{{a|South Brazil}} {{IPA|/ˈhi.fle/|lang=pt}}
+* {{a|South Brazil}} {{IPA|/ˈhi.fle/|lang=pt}}
 
 ===Noun===
 {{pt-noun|m|s}}
 
-# [[rifle#English|rifle]]
+# {{l|en|rifle}}
 
 ====Synonyms====
 * [[fuzil]], [[refle]], [[espingarda]], [[escopeta]]
@@ -165,7 +166,7 @@ From {{etyl|en|pt}} {{term|rifle|lang=en}}, from {{etyl|enm|pt}}, from {{etyl|fr
 ===Noun===
 {{es-noun|m}}
 
-# [[rifle#English|rifle]]
+# {{l|en|rifle}}
 
 ====Synonyms====
 * [[fusil]]
