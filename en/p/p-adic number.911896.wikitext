@@ -10,6 +10,11 @@
 #*: More formally, for a given prime ''p'', the field '''Q'''<sub>''p''</sub> of ''p''-adic numbers is a completion of the rational numbers. The field '''Q'''<sub>''p''</sub> is also given a topology derived from a metric, which is itself derived from an alternative valuation on the rational numbers. This metric space is complete in the sense that every Cauchy sequence converges to a point in '''Q'''<sub>''p''</sub>. This is what allows the development of calculus on '''Q'''<sub>''p''</sub>, and it is the interaction of this analytic and algebraic structure which gives the ''p''-adic number systems their power and utility.
 #: The expansion (21)2121<sub>''p''</sub> is equal to the rational <b>''p''-adic number</b> <math>{2 p + 1 \over p^2 - 1}</math>.
 
+====Usage notes====
+* The '<i>p</i>' in "''p''-adic" is a parameter which stands for a positive integer, preferably a [[prime number]].
+* For a fixed prime value of ''p'', a <b>''p''-adic number</b> is a member of the [[field]] <math>\mathbb{Q}_p</math> which is a completion of the set of rational numbers.
+* For a composite value of ''p'', a <b>''p''-adic number</b> is a member of a ring which is an extension of the field of rational numbers. <!-- Is it also a completion? --> 
+
 ====Hyponyms====
 * [[rational number]]
 ** [[integer]]
