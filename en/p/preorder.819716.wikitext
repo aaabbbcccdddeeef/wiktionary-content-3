@@ -16,10 +16,13 @@
 {{en-noun}}
 
 # {{set theory}} A [[binary relation]] that is [[reflexive]] and [[transitive]].
-#: ''The relation of logical implication over sentences is an example of '''preorder'''.''
+#: ''The relation of logical implication over sentences is an example of a [[preorder]].''
 
 ====Synonyms====
 * [[quasiorder]]
+
+====Hyponyms====
+* [[partial order]]
 
 ====Related terms====
 * [[preordered set]]
