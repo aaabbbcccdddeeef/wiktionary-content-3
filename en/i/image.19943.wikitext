@@ -1,4 +1,184 @@
-==English== {{wikipedia}} [[Image:Gnome-applications-graphics.svg|100px|right|thumb|An image that represents image files]] ===Etymology=== From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|imago|imāgō|a copy, likeness, image}}, from *{{term||im}}, root of {{term|imitari||to copy, imitate}}; see [[imitate]]. ===Pronunciation=== * {{audio|en-us-image.ogg|Audio (US)}} ===Noun=== {{en-noun}} # An [[optical]] or other representation of a [[real]] [[object]]; a [[graphic]]; a [[picture]]. # A mental picture of something not real or not present. # {{computing}} A [[file]] that contains all information needed to produce a live working copy. (see [[disk image]], [[executable image]] and [[image copy]]) #: ''Most game console emulators do not come with any ROM '''images''' for copyright reasons.'' # A characteristic of a person, group or company etc., style, manner of dress, how one is, or wishes to be, perceived by others. # {{mathematics}} Something [[map]]ped to by a [[function]]. #: ''The number 6 is
+==English==
+{{wikipedia}}
+[[Image:Gnome-applications-graphics.svg|100px|right|thumb|An image that represents image files]]
+
+===Etymology===
+From {{etyl|enm}}, from {{etyl|fro}}, from {{etyl|la}} {{term|imago|imāgō|a copy, likeness, image}}, from *{{term||im}}, root of {{term|imitari||to copy, imitate}}; see [[imitate]].
+
+===Pronunciation===
+* {{audio|en-us-image.ogg|Audio (US)}}
+
+===Noun===
+{{en-noun}}
+
+# An [[optical]] or other representation of a [[real]] [[object]]; a [[graphic]]; a [[picture]].
+# A mental picture of something not real or not present.
+# {{computing}} A [[file]] that contains all information needed to produce a live working copy.  (see [[disk image]], [[executable image]] and [[image copy]])
+#: ''Most game console emulators do not come with any ROM '''images''' for copyright reasons.''
+# A characteristic of a person, group or company etc., style, manner of dress, how one is, or wishes to be, perceived by others.
+# {{mathematics}} Something [[map]]ped to by a [[function]].
+#: ''The number 6 is the '''image''' of 3 under ''f'' that is defined as f(x) = 2*x.''
+# {{mathematics}} The [[subset]] of a [[codomain]] comprising those elements that are images of something.
+#: ''The '''image''' of this [[step function]] is the set of integers.''
+
+====Synonyms====
+* {{sense|representation}} [[picture]]
+* {{sense|mental picture}} [[idea]]
+* {{sense|something mapped to}} [[value]]
+* {{sense|subset of the codomain}} [[range]]
+
+====Derived terms====
+{{top2}}
+* [[imagery]]
+* [[inverse image]]
+* [[macroimage]]
+* [[mental image]]
+* [[microimage]]
+{{mid2}}
+* [[mirror image]]
+* [[preimage]]
+* [[real image]]
+* [[reimage]]
+* [[spitting image]]
+* [[virtual image]]
+{{bottom}}
+
+====Related terms====
+* [[imaginary]]
+* [[imaginable]]
+* [[imagination]]
+* [[imaginative]]
+* [[imagine]]
+
+====Translations====
+{{trans-top|graphical representation}}
+* Arabic: {{t|ar|صورة|f|tr=suura(t)|sc=Arab}}
+* Armenian: {{t-|hy|պատկեր|tr=patker}}
+* Breton: {{t+|br|skeudenn|xs=Breton}}
+* Catalan: {{t|ca|imatge|f}}
+* Czech: {{t+|cs|obraz|m}}
+* Danish: {{t|da|billede}}
+* Dutch: {{t+|nl|beeld|n}}, {{t-|nl|beeltenis|f}}, {{t+|nl|plaatje|n}}
+* Esperanto: {{t+|eo|bildo|xs=Esperanto}}
+* Finnish: {{t+|fi|kuva}}
+* French: {{t+|fr|image|f}}
+* German: {{t+|de|Bild|n}}
+* Greek: {{t+|el|εικόνα|f|tr=ikóna}},  {{t+|el|απεικόνιση|f|tr=apikónisi}},  {{t+|el|απείκασμα|n|tr=apíkasma}},  {{t-|el|πανομοιότυπο|tr=panomiótipo}}
+* Haitian Creole: {{tø|ht|imaj}}
+* Hebrew: [[תמונה]] (temuna) {{f}}
+* Hungarian: {{t+|hu|kép}}
+* Icelandic: {{t+|is|mynd|f}}
+* Irish: {{t-|ga|íomhá|f|xs=Irish}}
+* Italian: {{t+|it|immagine|f}}
+{{trans-mid}}
+* Japanese: {{t+|ja|像|tr=zō}}, {{t-|ja|肖像|tr=shōzō}}, {{t+|ja|イメージ|tr=imēji}}
+* Latgalian: {{tø|ltg|atvaigs}}
+* Latvian: {{t|lv|attēls|m}}
+* Nahuatl: {{t|nah|ixiptli}}
+* Navajo: {{tø|nv|eʼelyaaígíí}}
+* Persian: {{fa-Arab|[[تصویر]]}} (tasvīr), {{t|fa|نگاره|tr=negāra(e)|sc=fa-Arab}}
+* Polish: {{t+|pl|obraz|m}}
+* Portuguese: {{t+|pt|imagem|f}}, {{t+|pt|figura|f}}, {{t+|pt|fotografia|f}}
+* Punjabi: [[ਤਸਵੀਰ]] (tasvīr)
+* Romanian: [[imagine]] {{f}}, [[poză]] {{f}}
+* Russian: {{t+|ru|образ|m|tr=óbraz}},  {{t+|ru|изображение|n|tr=izobražénije}}
+* Scottish Gaelic: [[dealbh]] {{m|f}}
+* Serbian: {{t-|sr|slika|f}}
+* Slovene: {{t+|sl|slika|f}}
+* Spanish: {{t+|es|imagen|f}}
+* Swedish: {{t+|sv|bild|c}}
+* Tagalog: {{t|tl|imahen}}
+* Tajik: {{t|tg|тасвир|sc=Cyrl}}
+* Ukrainian: {{t+|uk|образ|m|tr=óbraz|xs=Ukrainian}}
+* Yiddish: {{t|yi|בילד|tr=bild|sc=Hebr}}
+{{trans-bottom}}
+
+{{trans-top|mental picture}}
+* Armenian: {{t-|hy|պատկեր|tr=patker}}
+* Czech: {{t-|cs|představa|f}}
+* Dutch: {{t+|nl|beeld|n}}, {{t+|nl|perceptie|f}}
+* Finnish: {{t+|fi|kuva}}, {{t-|fi|mielikuva}}
+* German: {{t+|de|Bild|n}}
+* Greek: {{t+|el|εικόνα|f|tr=ikóna}}
+* Hungarian: {{t+|hu|kép}}
+* Icelandic: {{t+|is|mynd|f}}
+* Japanese: {{t+|ja|心象|tr=shinshō}}
+{{trans-mid}}
+* Persian: {{t|fa|نگاره|tr=negāra(e)|sc=fa-Arab}}
+* Russian: {{t+|ru|образ|m|tr=óbraz}},  {{t+|ru|облик|m|tr=óblik}}
+* Scottish Gaelic: [[dealbh]] {{m|f}}
+* Serbian: {{t-|sr|predstava}}
+* Slovene: {{t+|sl|podoba|f}}
+* Swedish: {{t+|sv|bild|c}}
+* Turkish: {{t|tr|görüntü}}
+* Ukrainian: {{t+|uk|образ|m|tr=óbraz|xs=Ukrainian}}
+{{trans-bottom}}
+
+{{trans-top|computing: file}}
+* Belarusian: [[выява]] (vyjava) {{f}}
+* Dutch: [[beeldkopie]] {{f}}
+* Finnish: {{t|fi|vedos}}
+* German: {{t+|de|image|n|alt=Image}}, {{t-|de|Speicherabbild|n}}
+* Greek: {{t+|el|εικόνα|tr=ikóna}}
+* Hungarian: {{t+|hu|kép}}
+{{trans-mid}}
+* Irish: {{t-|ga|íomhá|f|xs=Irish}}
+* Japanese: {{t+|ja|イメージ|tr=imēji}}, {{t-|ja|画像|tr=gazō}}
+* Navajo: {{tø|nv|eʼelyaaígíí}}
+* Russian: {{t+|ru|изображение|n|tr=izobražénije}}
+* Ukrainian: {{t+|uk|образ|m|tr=óbraz|xs=Ukrainian}}
+{{trans-bottom}}
+
+{{trans-top|characteristic as perceived by others}}
+* Croatian: {{t-|hr|imidž|m}}
+* Czech: {{t|cs|image}}
+* Dutch: {{t+|nl|beeld|n}}, {{t-|nl|imago|n}}
+* Finnish: {{t-|fi|mielikuva}}, {{t+|fi|imago}}
+* German: {{t+|de|Image|n}}, {{t|de|Erscheinungsbild|n}}
+* Greek: {{t+|el|εικόνα|f|tr=ikóna}},  {{t+|el|περιωπή|f|tr=periopí}}
+* Hungarian: {{t-|hu|arculat}}, {{t-|hu|imázs}}
+{{trans-mid}}
+* Japanese: {{t-|ja|印象|tr=inshō}}
+* Portuguese: {{t+|pt|imagem|f}}
+* Romanian: {{t|ro|imagine|f}}
+* Russian: {{t+|ru|образ|m|tr=óbraz}},  {{t+|ru|облик|m|tr=óblik}},  {{t+|ru|имидж|m|tr=ímidž}}
+* Spanish: {{t+|es|imagen|f}}
+* Swedish: {{t+|sv|image|c}}
+* Ukrainian: {{t+|uk|образ|m|tr=óbraz|xs=Ukrainian}}
+{{trans-bottom}}
+
+{{trans-top|math: something mapped to by a function}}
+* Czech: {{t+|cs|obraz|m}}
+* Finnish: {{t+|fi|kuvaus}}
+* German: {{t+|de|Bild|n}}
+{{trans-mid}}
+* Irish: {{t-|ga|íomhá|f|xs=Irish}}
+* Japanese: {{t+|ja|像|tr=zō}}, {{t+|ja|イメージ|tr=imēji}}
+* Russian: {{t+|ru|образ|m|tr=óbraz}}
+{{trans-bottom}}
+
+{{trans-top|math: subset of codomain}}
+* Finnish: {{t|fi|kuvausjoukko}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb|imag|ing}}
+
+# {{transitive}} To [[represent]] [[symbolically]]
+# {{transitive}} To [[reflect]], [[mirror#Verb|mirror]]
+#* '''1843''',  [[:w:Thomas Carlyle|Thomas Carlyle]], ''[[:w:Past and Present (book)|Past and Present]]'', book 2, chapter 2, ''St. Edmundsbury'':
+#*: {{...}} we look into a pair of eyes deep as our own, '''imaging''' our own, but all unconscious of us;  to whom we for the time are become as spirits and invisible!.
+# {{transitive}} To create an image of.
+# {{transitive|computing}} To create a complete backup copy of a [[file system]] or other entity.
+
+===External links===
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+
+[[Category:en:Visualization]]
+
+----
 
 ==French==
 
