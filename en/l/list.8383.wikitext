@@ -8,9 +8,12 @@
 * {{rhymes|ɪst}}
 
 ===Etymology 1===
-From {{etyl|ang}} {{term|liste|līste|lang=ang}}, from {{proto|Germanic|līstōn|lang=en}}. Cognate with Dutch {{term|lijst|lang=nl}}, German {{term|Leiste|lang=de}}, Icelandic {{term|lista|lang=is}}/{{term|listi|lang=is}}.
+From {{etyl|ang}} {{term|liste|līste|lang=ang}} "hem, edge, strip", from {{proto|Germanic|līstōn|lang=en}}. Cognate with Dutch {{term|lijst|lang=nl}}, German {{term|Leiste|lang=de}}, Icelandic {{term|lista|lang=is}}/{{term|listi|lang=is}}.
 
-====Noun====
+
+From {{etyl|enm}} {{term|liste||roll of names, contestants in the lists|lang=enm}} (from {{term|lists||place of combat at the boundary of fields|lang=enm}}, from {{etyl|enm}} {{term|listes|lang=enm}}, plural of {{term|liste||list|lang=enm}}) from {{etyl|ang}} {{term|liste|līste|list, fringe, border|lang=ang}}
+
+===Noun===
 {{en-noun}}
 
 # A [[strip]] of [[fabric]], especially from the edge of a piece of [[cloth]].
@@ -20,6 +23,8 @@ passage=The charwomen are in the habit of taking off their boots at the commissi
 # {{in the plural}} The palisades or barriers used to fence off a space for [[tilting]] or [[jousting]] tournaments. {{defdate|1819}}
 #* {{quote-book|year=1819|author=Walter Scott|title=Ivanhoe|
 passage=William de Wyvil, and Stephen de Martival, [...] armed at all points, rode up and down the '''lists''' to enforce and preserve good order among the spectators.}}
+# A register or roll of paper consisting of an enumeration or [[compilation]] of a set of possible [[item]]s. {{defdate|1600}}
+# {{computing|programming}} A codified representation of a list, used to store data or in processing; especially, in the [[LISP]] programming language, a [[data structure]] consisting of a sequence of zero or more items.
 
 =====Translations=====
 {{trans-top|strip of fabric}}
@@ -39,48 +44,6 @@ passage=William de Wyvil, and Stephen de Martival, [...] armed at all points, ro
 {{trans-mid}}
 {{trans-bottom}}
 
-===Etymology 2===
-From {{etyl|enm}} {{term|liste||roll of names, contestants in the lists|lang=enm}} (from {{term|lists||place of combat at the boundary of fields|lang=enm}}, from {{etyl|enm}} {{term|listes|lang=enm}}, plural of {{term|liste||list|lang=enm}}) from {{etyl|ang}} {{term|liste|līste|list, fringe, border|lang=ang}}
-
-====Noun====
-{{en-noun}}
-
-# A register or roll of paper consisting of an enumeration or [[compilation]] of a set of possible [[item]]s.
-# {{computing|programming}} A codified representation of a list, used to store data or in processing; especially, in the [[LISP]] programming language, a [[data structure]] consisting of a sequence of zero or more items.
-
-=====Synonyms=====
-* See also [[Wikisaurus:list]]
-
-=====Derived terms=====
-{{rel-top3|Terms derived from ''list'' (noun)}}
-* [[association list]]
-* [[blacklist]]
-* [[bucket list]]
-* [[bullet list]]
-* [[checklist]]
-* [[clout list]]
-* [[definition list]]
-{{rel-mid3}}
-* [[grocery list]]
-* [[hit list]]
-* [[laundry list]]
-* [[listicle]]
-* [[list price]]
-* [[mailing list]]
-* [[material list]]
-* [[punch list]]
-{{rel-mid3}}
-* [[set list]]
-* [[short list]]
-* [[stop list]]
-* [[to-do list]]
-* [[waiting list]]
-* [[whitelist]]
-* [[wine list]]
-* [[wish list]]
-{{rel-bottom}}
-
-=====Translations=====
 {{trans-top|register or roll of paper}}
 * Ancient Greek: {{tø|grc|ἀπογραφή|tr=apogaphē|sc=polytonic}}
 * Arabic: {{t-|ar|قائمة|f|alt=قائِمة|tr=qaa'ima(t)}}
@@ -150,6 +113,39 @@ From {{etyl|enm}} {{term|liste||roll of names, contestants in the lists|lang=enm
 * {{ttbc|sw}}: [[orodha]] ''(noun 9/10)''
 * {{ttbc|sv}}: {{t+|sv|lista|c}}
 {{trans-bottom}}
+ 
+
+=====Synonyms=====
+* See also [[Wikisaurus:list]]
+
+=====Derived terms=====
+{{rel-top3|Terms derived from ''list'' (noun)}}
+* [[association list]]
+* [[blacklist]]
+* [[bucket list]]
+* [[bullet list]]
+* [[checklist]]
+* [[clout list]]
+* [[definition list]]
+{{rel-mid3}}
+* [[grocery list]]
+* [[hit list]]
+* [[laundry list]]
+* [[listicle]]
+* [[list price]]
+* [[mailing list]]
+* [[material list]]
+* [[punch list]]
+{{rel-mid3}}
+* [[set list]]
+* [[short list]]
+* [[stop list]]
+* [[to-do list]]
+* [[waiting list]]
+* [[whitelist]]
+* [[wine list]]
+* [[wish list]]
+{{rel-bottom}}
 
 ====Verb====
 {{en-verb}}
@@ -180,7 +176,7 @@ From {{etyl|enm}} {{term|liste||roll of names, contestants in the lists|lang=enm
 * Swahili: [[kuorodesha]]
 {{trans-bottom}}
 
-===Etymology 3===
+===Etymology 2===
 From {{term|listen}}
 
 ====Verb====
@@ -197,7 +193,7 @@ From {{term|listen}}
 * Polish: {{qualifier|intransitive}} [[słyszeć]], {{qualifier|transitive}} [[słuchać]]
 {{trans-bottom}}
 
-===Etymology 4===
+===Etymology 3===
 Possibly from [[tilt]]ing on lists in jousts.[http://www.drbilllong.com/CurrentEventsV/ListWII.html]
 
 ====Noun====
@@ -226,7 +222,7 @@ Possibly from [[tilt]]ing on lists in jousts.[http://www.drbilllong.com/CurrentE
 * Polish: [[mieć]] [[przechył]]
 {{trans-bottom}}
 
-===Etymology 5===
+===Etymology 4===
 {{etyl|ang}} {{term|lystan|lang=ang}}, from {{proto|Germanic|lustijanan}}, from {{proto|Germanic|lustuz|pleasure}}. Akin to Old Norse {{term|lysta|lang=non}} (whence cognate with Danish and Norwegian {{term|lyste|lang=da}}), Old High German {{term|lusten|lang=goh}} (German {{term|gelüsten|lang=de}} and obsolete {{term|lüsten|lang=de}}).
 
 ====Verb====
