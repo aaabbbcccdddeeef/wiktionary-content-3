@@ -36,7 +36,7 @@ From {{etyl|ar}} {{term|القرآن|القُرْآن|tr=al-qur’ān|lang=ar}},
 * [[Afrikaans]]: {{t|af|Koran}}
 * Albanian: {{t|sq|Kur'ani|xs=Albanian}}
 * [[Amharic]]: {{t|am|ቁርአን|sc=Ethi}}
-* Arabic: {{t+|ar|القرآن|m|tr=al-Qur'ān}}
+* Arabic: {{t+|ar|القرآن|m|tr=al-qurʾān}}
 * Aramaic: {{tø|arc|ܩܘܪܐܢ|tr=qurʔan|sc=Hebr}}
 * Armenian: {{t-|hy|Ղուրան|tr=Ġuran}}
 * [[Azeri]]: {{t-|az|Qur’an|xs=Azeri}}, {{t|az|Гур’ан|sc=Cyrl|xs=Azeri}}
@@ -71,7 +71,7 @@ From {{etyl|ar}} {{term|القرآن|القُرْآن|tr=al-qur’ān|lang=ar}},
 * Italian: {{t-|it|corano|m}}
 * Japanese: {{t|ja|クルアーン|tr=kuruān}},  {{t|ja|コラーン |tr=korān}},  {{t|ja|コーラン|tr=kōran}}
 * [[Kannada]]: {{t|kn|ಖುರಾನ್|tr=khurān|sc=Knda}}
-* Kazakh: {{t-|kk|Құран|tr=Qǖran|sc=Cyrl|xs=Kazakh}}
+* Kazakh: {{t-|kk|Құран|tr=Quran|sc=Cyrl|xs=Kazakh}}
 * [[Khmer]]: {{t|km|កូរ៉ាន|tr=kooraan|sc=Khmr}}
 * Korean: {{t|ko|꾸란|tr=kkuran|sc=Hang}}
 * Kurdish: {{t|ku|قرعان|tr=Qur'an|sc=ku-Arab}}
@@ -88,12 +88,14 @@ From {{etyl|ar}} {{term|القرآن|القُرْآن|tr=al-qur’ān|lang=ar}},
 * Navajo: {{tø|nv|Kʼowʼan}}
 * [[Ossetian]]: {{tø|os|Хъуыран|sc=Cyrl}}
 * [[Pashto]]: {{t|ps|قرآن|tr=Qur’ān|sc=ps-Arab}}
-* Persian: {{t+|fa|قرآن|tr=Qur’ān|xs=Persian}}
+* Persian: {{t+|fa|قرآن|tr=Qor'ân|xs=Persian}}
 * Polish: {{t+|pl|Koran|m}}
 * Portuguese: {{t+|pt|Corão|m}}, {{t|pt|Alcorão|m}}
 * Romanian: {{t|ro|Coranul|m}}
 * Russian: {{t+|ru|Коран|m|tr=Korán}}
-* Serbo-Croatian: {{t|sh|Куран|m|sc=Cyrl|xs=Serbo-Croatian}}, {{t|sh|Kuran|m|alt=Kùrān|xs=Serbo-Croatian}}, {{t|sh|Кур’ан|m|sc=Cyrl|xs=Serbo-Croatian}}, {{t|sh|Kur'an|m|xs=Serbo-Croatian}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Куран|m|sc=Cyrl|xs=Serbo-Croatian}}, {{t|sh|Кур’ан|m|sc=Cyrl|xs=Serbo-Croatian}}
+*: Roman: {{t|sh|Kuran|m|alt=Kùrān|xs=Serbo-Croatian}}, {{t|sh|Kur'an|m|xs=Serbo-Croatian}}
 * [[Sindhi]]: {{t|sd|قرآن|sc=sd-Arab}}
 * [[Sinhalese]]: {{t|si|කුරාන්|sc=Sinh|xs=Sinhalese}}
 * Slovak: {{t-|sk|Korán|m}}
@@ -117,12 +119,11 @@ From {{etyl|ar}} {{term|القرآن|القُرْآن|tr=al-qur’ān|lang=ar}},
 * Vietnamese: {{t|vi|kinh Qur’an|xs=Vietnamese}}, {{t|vi|kinh Koran|xs=Vietnamese}}
 * Yiddish: {{t|yi|קאראן|sc=Hebr|xs=Yiddish}}
 {{trans-bottom}}
+
 {{trans-top|A copy of the Qur'an}}
-* Arabic: {{Arab|[[القرآن|القُرْآن]]}} {{IPAchar|(al-qur’ān)}}
-*: [[Egyptian Arabic]]: {{tø|arz|القرآن|m|tr=el qur2an|sc=Arab}}
+* Arabic: {{t+|ar|القرآن|m|tr=al-qurʾān}}
+*: [[Egyptian Arabic]]: {{tø|arz|القرآن|m|tr=el-qurʾān|sc=Arab}}
 * Armenian: {{t-|hy|Ղուրան|tr=Ġuran}}
-* Bosnian: {{t-|bs|Kuran|m}}, {{t-|bs|Kur'an|m}}
-* Croatian: {{t-|hr|Kuran|m|alt=Kùrān}}
 * Danish: {{t-|da|Koran|c}}
 * Dutch: {{t+|nl|koran|m}}
 * Esperanto: {{t-|eo|Korano|xs=Esperanto}}
@@ -138,13 +139,13 @@ From {{etyl|ar}} {{term|القرآن|القُرْآن|tr=al-qur’ān|lang=ar}},
 * Kurdish: {{ku-Arab|[[قرعان]]}}
 * [[Macedonian]]: {{t-|mk|Куран|m|tr=Kúran}},  {{t-|mk|Коран|m|tr=Kòran}}
 * Navajo: {{tø|nv|Kʼowʼan}}
-* Persian: {{fa-Arab|[[قرآن]]}} (qur’ān)
+* Persian: {{t+|fa|قرآن|tr=Qor'ân|xs=Persian}}
 * Portuguese: {{t+|pt|Alcorão|m}}, {{t+|pt|Corão|m}}
 * Romanian: {{t+|ro|Coran}}
 * Russian: {{t+|ru|Коран|m|tr=Korán}}
-* Serbian:
-*: Cyrillic: [[Куран#Serbian|Куран]] {{m}}
-*: Roman: [[Kuran#Serbian|Kuran]] {{m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Куран|m|sc=Cyrl|xs=Serbo-Croatian}}, {{t|sh|Кур’ан|m|sc=Cyrl|xs=Serbo-Croatian}}
+*: Roman: {{t|sh|Kuran|m|alt=Kùrān|xs=Serbo-Croatian}}, {{t|sh|Kur'an|m|xs=Serbo-Croatian}}
 * Slovene: {{t+|sl|Koran|m}}
 * Spanish: el [[Corán]] {{m}}
 * Swahili: {{t|sw|Kurhan|xs=Swahili}}
