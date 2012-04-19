@@ -37,11 +37,14 @@ From {{etyl|enm}} {{term|field|lang=enm}}, ''[[feeld]]'', ''[[feld]]'', from {{e
 #: ''oil '''field'''''; ''gold '''field''''' 
 # {{heraldry}} The background of the [[shield]]
 # {{computing}} An area of memory or storage reserved for a particular value.
+# A component of a database record in which a single unit of information is stored.
+# A physical or [[virtual]] location for the input of information in the form of characters.
+#: ''The form has '''fields''' for each element of the customer's home address and ship-to address.''
 # {{baseball|obsolete}} The team in a match who is throwing the ball and trying to catch the ball hit by the other team (the [[bat]]).
 
 ====Synonyms====
-* (''course of study or domain of knowledge''): [[area]], [[domain]], [[sphere]]
-* (''sports: area reserved for playing a game''): [[course]] (''for golf''), [[court]] (''for racquet sports''), [[ground]], [[pitch]] (''for soccer, rugby, cricket'')
+* {{sense|course of study or domain of knowledge}} [[area]], [[domain]], [[sphere]], [[realm]]
+* {{sense|area reserved for playing a game}} [[course]] (''for golf''), [[court]] (''for racquet sports''), [[ground]], [[pitch]] (''for soccer, rugby, cricket'')
 
 ====Hypernyms====
 * {{sense|algebra}} [[principal ideal domain]], [[integral domain]]
@@ -50,17 +53,15 @@ From {{etyl|enm}} {{term|field|lang=enm}}, ''[[feeld]]'', ''[[feld]]'', from {{e
 * {{sense|algebra}} [[ordered field]]
 
 ====Derived terms====
-{{top2}}
+{{rel-top|terms derived from ''field'' (noun)}}
 * [[center field]]
-* [[fielder]]<!--which see for "left fielder", etc-->
-* [[fielding]]<!--which see for "fielding average", etc-->
 * [[fieldwork]]
 * [[field marshal]]
 * [[field theory]]
 * [[finite field]]
 * [[field seam]]
 * [[infield]]<!--which see for "infield fly", etc-->
-{{mid2}}
+{{rel-mid}}
 * [[left field]]
 * [[number field]]
 * [[outfield]]<!--which see for "outfielder", etc-->
@@ -71,7 +72,7 @@ From {{etyl|enm}} {{term|field|lang=enm}}, ''[[feeld]]'', ''[[feld]]'', from {{e
 * [[semantic field]]
 * [[splitting field]]
 * [[vector field]]
-{{bottom}}
+{{rel-bottom}}
 
 ====Translations====
 {{trans-top|land area free of woodland, cities, and towns; open country}}
