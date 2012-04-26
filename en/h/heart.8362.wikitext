@@ -174,7 +174,7 @@ From {{etyl|enm}} {{term|herte|lang=enm}}, from {{etyl|ang}} {{term|heorte||hear
 * Gujarati: {{t|gu|દિલ|n|tr=dil|sc=Gujr|xs=Gujarati}}
 * Hawaiian: {{tø|haw|puʻuwai|xs=Hawaiian}}
 * Hebrew: {{t+|he|לב|m|tr=lev}}
-* Hindi: {{t-|hi|दिल|m|tr=dil|xs=Hindi}}, {{t|hi|हृदय|tr=hŕday|sc=Deva}}, {{t-|hi|क़ल्ब|tr=qalb|xs=Hindi}},
+* Hindi: {{t-|hi|दिल|m|tr=dil|xs=Hindi}}, {{t|hi|हृदय|m|tr=hŕday|xs=Hindi}}
 * Hittite: {{tø|hit|𒆠𒅕|tr=kir|sc=Xsux|xs=Hittite}}
 * Hungarian: {{t+|hu|szív}}
 * Icelandic: {{t+|is|hjarta|n}}
@@ -243,8 +243,8 @@ From {{etyl|enm}} {{term|herte|lang=enm}}, from {{etyl|ang}} {{term|heorte||hear
 * Scots: {{tø|sco|hert|xs=Scots}}
 * Scottish Gaelic: {{t-|gd|cridhe|m|xs=Scottish Gaelic}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|срце|n|sc=Cyrl}}
-*: Roman: {{t|sh|srce|n}}
+*: Cyrillic: {{t|sh|срце|alt=ср̏це|n|sc=Cyrl}}
+*: Roman: {{t|sh|srce|alt=sȑce|n|sc=Latn}}
 * Sicilian: [[cori]] {{m}}
 * Sinhalese: {{t|si|හදවත|tr=hadavata|sc=Sinh}}
 * Skolt Sami: {{tø|sms|čââ´đ}}
@@ -265,7 +265,7 @@ From {{etyl|enm}} {{term|herte|lang=enm}}, from {{etyl|ang}} {{term|heorte||hear
 * Turkish: {{t+|tr|yürek}}, {{t|tr|kalp}}
 * Turkmen: {{t|tk|kalp}}, {{t|tk|ýürek}}
 * Ukrainian: {{t-|uk|серце|n|tr=sérce|xs=Ukrainian}}
-* Urdu: {{t-|ur|دل|m|tr=dil|xs=Urdu}}, {{t+|ur|قلب|tr=qalb|xs=Urdu}}, {{t|ur|ہردے|tr=hŕday|sc=ur-Arab}}
+* Urdu: {{t-|ur|دل|m|tr=dil|xs=Urdu}}, {{t|ur|ہردی|tr=hŕday|xs=Urdu}}
 * Uyghur: {{t|ug|يۈرەك|sc=ug-Arab}}
 * Vietnamese: {{t|vi|trái tim|xs=Vietnamese}}
 * Volapük: {{t|vo|lad}}
@@ -280,7 +280,6 @@ From {{etyl|enm}} {{term|herte|lang=enm}}, from {{etyl|ang}} {{term|heorte||hear
 {{trans-top|emotions or kindness}}
 * Armenian: {{t-|hy|սիրտ|tr=sirt}}
 * Bengali: {{t-|bn|হৃদয়|tr=hridoy|sc=Beng|xs=Bengali}}
-* Bosnian: {{t-|bs|srce|n}}
 * Burmese: {{t|my|အသည်းနှလုံး|tr=ăthè:hnălon:|sc=Mymr}}
 * Chinese:
 *: [[Dungan]]: {{tø|dng|щин|sc=Cyrl}} ({{tø|dng|心}})
@@ -294,6 +293,7 @@ From {{etyl|enm}} {{term|herte|lang=enm}}, from {{etyl|ang}} {{term|heorte||hear
 * German: {{t+|de|Herzchen|n}}
 * Greek: {{t+|el|καρδιά|f|tr=kardiá|sc=Grek}}, {{t|el|ψυχή|f|tr=psychí|sc=Grek}}
 *: Ancient: {{tø|grc|καρδία|f|tr=kardia|sc=polytonic|xs=Ancient Greek}}
+* Hindi: {{t-|hi|दिल|m|tr=dil|xs=Hindi}}, {{t|hi|मन|m|tr=man|xs=Hindi}}, {{t-|hi|क़ल्ब|m|tr=qalb|xs=Hindi}}
 * Indonesian: {{t-|id|kalbu|xs=Indonesian}}, {{t|id|sanubari|xs=Indonesian}}
 * Irish: {{t+|ga|croí|m|xs=Irish}}
 * Italian: {{t+|it|cuore|m}}
@@ -310,13 +310,14 @@ From {{etyl|enm}} {{term|herte|lang=enm}}, from {{etyl|ang}} {{term|heorte||hear
 * Portuguese: {{t+|pt|amabilidade|f}}, {{t+|pt|bondade|f}}, {{t+|pt|generosidade|f}}
 * Romanian: {{t+|ro|inimă}}, {{t-|ro|suflet}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|срце|n|sc=Cyrl}}
-*: Roman: {{t|sh|srce|n}}
+*: Cyrillic: {{t|sh|срце|alt=ср̏це|n|sc=Cyrl}}
+*: Roman: {{t|sh|srce|alt=sȑce|n|sc=Latn}}
 * Spanish: {{t-|es|coraje}}
 * Swedish: {{t+|sv|hjärta|n}}
 * Tagalog: {{t-|tl|puso|xs=Tagalog}}
 * Telugu: {{t|te|మనసు}}, {{t|te|హృదయం}} (manasu, hRdayaM)
 * Thai: {{t-|th|หัวใจ|hŭajai}}, {{t-|th|ดวงใจ|tr=duang jai}}, {{t-|th|ฤทัย|tr=réutai}}, {{t+|th|ใจ|tr=jai}}
+* Urdu: {{t-|ur|دل|m|tr=dil|xs=Urdu}}, {{t|ur|من|m|tr=man|xs=Urdu}}, {{t-|ur|قلب|m|tr=qalb|xs=Urdu}}
 * West Frisian: {{t-|fy|hert|xs=West Frisian}}
 {{trans-bottom}}
 
@@ -353,8 +354,8 @@ From {{etyl|enm}} {{term|herte|lang=enm}}, from {{etyl|ang}} {{term|heorte||hear
 * Russian: {{t+|ru|сердце|n|tr=sérdce}}
 * Scottish Gaelic: {{t-|gd|cridhe|m|xs=Scottish Gaelic}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|срце|n|sc=Cyrl}}
-*: Roman: {{t|sh|srce|n}}
+*: Cyrillic: {{t|sh|срце|alt=ср̏це|n|sc=Cyrl}}
+*: Roman: {{t|sh|srce|alt=sȑce|n|sc=Latn}}
 * Slovene: {{t+|sl|srce|n}}
 * Spanish: {{t+|es|corazón|m}}
 * Swedish: {{t+|sv|hjärta|n}}
@@ -394,8 +395,8 @@ From {{etyl|enm}} {{term|herte|lang=enm}}, from {{etyl|ang}} {{term|heorte||hear
 * Romanian: {{t+|ro|inimă}}, {{t-|ro|cupă|f}}
 * Russian: {{t-|ru|черви|m|p|tr=čérvi}}, {{t|ru|червы|m|p|tr=čérvy}}, {{t|ru|черва|f|tr=čérva}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|херц|m|sc=Cyrl}}
-*: Roman: {{t|sh|herc|m}}
+*: Cyrillic: {{t|sh|срце|alt=ср̏це|n|sc=Cyrl}}
+*: Roman: {{t|sh|srce|alt=sȑce|n|sc=Latn}}
 * Slovene: {{t+|sl|srce|n}}
 * Spanish: {{t-|es|copas|f|p}}, {{t-|es|corazones|m|p}}
 * Swahili: {{t|sw|kopa}}
@@ -441,8 +442,8 @@ From {{etyl|enm}} {{term|herte|lang=enm}}, from {{etyl|ang}} {{term|heorte||hear
 * Russian: {{t+|ru|сердце|n|tr=sérdce}}, {{t|ru|сердцевина|f|tr=serdcevína}}
 * Scottish Gaelic: {{t-|gd|cridhe|m|xs=Scottish Gaelic}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|срце|n|sc=Cyrl}}
-*: Roman: {{t|sh|srce|n}}
+*: Cyrillic: {{t|sh|срце|alt=ср̏це|n|sc=Cyrl}}
+*: Roman: {{t|sh|srce|alt=sȑce|n|sc=Latn}}
 * Spanish: {{t+|es|corazón|m}}
 * Swedish: {{t+|sv|hjärta|n}}
 * West Frisian: {{t-|fy|hert|xs=West Frisian}}
@@ -454,7 +455,6 @@ From {{etyl|enm}} {{term|herte|lang=enm}}, from {{etyl|ang}} {{term|heorte||hear
 * {{ttbc|ko}}: [[심혼]] (simhon)
 {{trans-mid}}
 * {{ttbc|nds}}: [[hart]], {{n}}
-* {{ttbc|ur}}: {{ur-Arab|[[دل]]}} (dil)
 * {{ttbc|cy}}: {{t-|cy|calon|f|xs=Welsh}}
 {{trans-bottom}}
 
