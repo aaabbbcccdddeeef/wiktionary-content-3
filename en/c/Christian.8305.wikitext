@@ -30,7 +30,7 @@ c. 1590, from {{etyl|la|en}} {{term|Christianus|lang=la}}, from {{etyl|grc|en}} 
 * Croatian: {{t-|hr|kršćanin|m}}, {{t-|hr|kršćanka|f}}
 * Czech: {{t-|cs|křesťan|m}}
 * Dutch: {{t+|nl|christen|m|f}}
-* Esperanto: {{t-|eo|kristana|xs=Esperanto}}
+* Esperanto: {{qualifier|♂♀}} {{t-|eo|kristano}}, {{qualifier|♂}} {{t-|eo|virkristano}}, {{qualifier|♀}} {{t-|eo|kristanino}}
 * Finnish: {{t+|fi|kristitty}}
 * French: {{t+|fr|chrétien|m}}, {{t-|fr|chrétienne|f}}
 * Georgian: {{t|ka|ქრისტიანი|tr=k’ristiani|sc=Geor|xs=Georgian}}
@@ -74,7 +74,7 @@ c. 1590, from {{etyl|la|en}} {{term|Christianus|lang=la}}, from {{etyl|grc|en}} 
 * Turkish: {{t|tr|Hristiyan}}
 * Urdu: {{t|ur|عیسائی|tr=īsā'ī|xs=Urdu}}
 * Vietnamese: {{t|vi|người theo đạo Cơ đốc|xs=Vietnamese}}
-* Volapük: {{qualifier|male or female}} {{t|vo|kritan}}, {{qualifier|male}} {{t|vo|hikritan}}, {{qualifier|female}} {{t|vo|jikritan}}, {{qualifier|early, male or female}} {{t|vo|rukritan}}, {{qualifier|early, male}} {{t|vo|ruhikritan}}, {{qualifier|early, female}} {{t|vo|rujikritan}}
+* Volapük: {{qualifier|♂♀}} {{t+|vo|kritan}}, {{qualifier|♂}} {{t-|vo|hikritan}}, {{qualifier|♀}} {{t+|vo|jikritan}}, {{qualifier|early, ♂♀}} {{t-|vo|rukritan}}, {{qualifier|early, ♂}} {{t-|vo|ruhikritan}}, {{qualifier|early, ♀}} {{t-|vo|rujikritan}}
 {{trans-bottom}}
 
 {{trans-top|someone who belongs to Jesus Christ}}
@@ -142,6 +142,7 @@ c. 1590, from {{etyl|la|en}} {{term|Christianus|lang=la}}, from {{etyl|grc|en}} 
 * Croatian: [[kršćanski]] {{m}}
 * Czech: {{t-|cs|křesťanský}}
 * Dutch: {{t+|nl|christelijk}}
+* Esperanto: {{t-|eo|kristanisma}}
 * French: {{t+|fr|chrétien|m}}, {{t|fr|chrétienne|f}}
 * Georgian: {{t|ka|ქრისტიანული|sc=Geor|xs=Georgian}}
 * German: {{t+|de|christlich}}, {{t|de|urchristlich}}
@@ -165,6 +166,12 @@ c. 1590, from {{etyl|la|en}} {{term|Christianus|lang=la}}, from {{etyl|grc|en}} 
 * Swedish: {{t|sv|kristen}}, {{t|sv|kristlig}}
 * Turkish: {{t|tr|Hristiyan}}
 * Volapük: {{t|vo|kritik}}, {{qualifier|early}} {{t|vo|rukritik}}
+{{trans-bottom}}
+
+{{trans-top|of, like or relating to a Christian or Christians}}
+* Esperanto: {{qualifier|♂♀}} {{t-|eo|kristana}}, {{qualifier|♂}} {{t-|eo|virkristana}}, {{qualifier|♀}} {{t-|eo|kristanina}}
+{{trans-mid}}
+* Volapük: {{qualifier|♂♀}} {{t-|vo|kritanik}}, {{qualifier|♂}} {{t-|vo|hikritanik}}, {{qualifier|♀}} {{t+|vo|jikritanik}}, {{qualifier|early, ♂♀}} {{t-|vo|rukritanik}}, {{qualifier|early, ♂}} {{t-|vo|ruhikritanik}}, {{qualifier|early, ♀}} {{t-|vo|rujikritanik}}
 {{trans-bottom}}
 
 {{trans-see|kind}}
