@@ -40,7 +40,7 @@
 * Spanish: {{t+|es|americano|m}}, {{t|es|americana|f}}
 * Swedish: {{t+|sv|amerikan|c}}, {{t+|sv|amerikanare|c}}
 * Turkish: {{t|tr|Amerikalı}}
-* Volapük: {{qualifier|male or female}} {{t|vo|Meropan}}, {{qualifier|male}} {{t|vo|hi-Meropan}}, {{qualifier|female}} {{t|vo|ji-Meropan}}
+* Volapük: {{qualifier|♂♀}} {{t|vo|Meropan}}, {{qualifier|♂}} {{t-|vo|hi-Meropan}}, {{qualifier|♀}} {{t-|vo|ji-Meropan}}
 {{trans-bottom}}
 
 {{trans-top|person born in or citizen of the USA}}
@@ -62,7 +62,7 @@
 * Filipino: [[Amerikano]]
 * Finnish: {{t+|fi|amerikkalainen}}, {{t-|fi|yhdysvaltalainen}}, {{t+|fi|jenkki}}
 * French: {{t+|fr|Américain|m}}, {{t+|fr|États-Unien|m}}
-* German: {{t+|de|Amerikaner|m}}, {{t+|de|Amerikanerin|f}}, {{qualifier|slang}} {{t-|de|Ami|m}}, {{t-|de|Amis|m|p}}
+* German: {{t+|de|Amerikaner|m}}, {{t+|de|Amerikanerin|f}}, {{t+|de|US-Amerikaner|m}}, {{t+|de|US-Amerikanerin|f}}, {{qualifier|slang}} {{t-|de|Ami|m}}, {{t-|de|Amis|m|p}}
 * Hebrew: {{t+|he|אמריקני|m|tr=amerikani}},  {{t-|he|אמריקנית|f|tr=amerikanit}}
 * Hindi: {{t|hi|अमेरिकन|m|tr=amerikan|xs=Hindi}}
 * Icelandic: {{t|is|Bandaríkjamaður|m}}, {{qualifier|colloquial}} {{t|is|Ameríkani|m}}
@@ -94,7 +94,7 @@
 * Ukrainian: {{t|uk|американець|m|tr=amerykánec'|xs=Ukrainian}},  {{t+|uk|американка|f|tr=amerykánka|xs=Ukrainian}}
 * Urdu: {{t|ur|امریکن|m|tr=amerikan|sc=ur-Arab}}
 * Vietnamese: {{t|vi|người Mỹ|xs=Vietnamese}}, {{t|vi|người Hoa Kỳ|xs=Vietnamese}}
-* Volapük: {{qualifier|male or female}} {{t|vo|Lamerikänan}}, {{qualifier|male}} {{t|vo|hi-Lamerikänan}}, {{qualifier|female}} {{t|vo|ji-Lamerikänan}}
+* Volapük: {{qualifier|♂♀}} {{t|vo|Lamerikänan}}, {{qualifier|♂}} {{t-|vo|hi-Lamerikänan}}, {{qualifier|♀}} {{t-|vo|ji-Lamerikänan}}
 {{trans-bottom}}
 
 ===Proper noun===
@@ -109,7 +109,7 @@
 * Chinese:
 *: Mandarin: {{t-|cmn|美國英語|sc=Hani}}, {{t-|cmn|美国英语|tr=Měiguó Yīngyǔ|sc=Hani}}, {{t|cmn|美式英語|sc=Hani}}, {{t|cmn|美式英语|tr=Měishì Yīngyǔ|sc=Hani}}
 * Finnish: [[amerikka]] (rare, derogative)
-* German: [[Amerikanisch]] {{n}}, (more precisely) [[amerikanisches Englisch]] {{n}}
+* German: {{t-|de|Amerikanisch|n}}, {{qualifier|more precisely}}, {{t-|de|amerikanisches Englisch|n}}
 * Italian: {{t+|it|inglese americano|m}}
 * Japanese: {{t-|ja|アメリカ英語|tr=Amerika Eigo}}, {{t|ja|米英語|tr=Bei-Eigo}}, {{t-|ja|米語|tr=Beigo}}
 * Korean: {{t|ko|미국 영어|tr=Miguk Yeong-eo|sc=Hang}} ({{t+|ko|美國英語|sc=Hang}})
@@ -121,7 +121,7 @@
 * Russian: {{t|ru|американский английский|m|tr=amerikánskij anglíjskij}}
 * Spanish: {{t|es|inglés americano}}
 * Swedish: {{t|sv|amerikanska}}, amerikansk engelska
-* Volapük: {{t|vo|Lamerikänapük}}, {{t|vo|Linglänapük Lamerikänik}}, {{t|vo|Lamerikäna-Linglänapük}}
+* Volapük: {{t-|vo|Lamerikänapük}}, {{t-|vo|Linglänapük Lamerikänik}}, {{t-|vo|Lamerikäna-Linglänapük}}
 {{trans-bottom}}
 
 ===Adjective===
@@ -168,7 +168,12 @@ Sometimes (usually outside of the [[USA]]) used [[pejoratively]] (see also [[ant
 * Slovene: [[ameriški]]
 * Spanish: {{t+|es|americano|m}}
 * Swedish: {{t+|sv|amerikansk}}
-* Volapük: {{t|vo|Meropik}}
+* Volapük: {{t+|vo|Meropik}}
+{{trans-bottom}}
+
+{{trans-top|of or pertaining to a native or citizen of the Americas}}
+* Volapük: {{qualifier|♂♀}} {{t-|vo|Meropanik}}, {{qualifier|♂}} {{t-|vo|hi-Meropanik}}, {{qualifier|♀}} {{t-|vo|ji-Meropanik}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|of or pertaining to the U.S. or its culture}}
@@ -185,7 +190,7 @@ Sometimes (usually outside of the [[USA]]) used [[pejoratively]] (see also [[ant
 * Esperanto: {{t-|eo|usona|xs=Esperanto}}
 * Finnish: [[amerikkalainen]], [[yhdysvaltalainen]], [[Yhdysvallat|Yhdysvaltain]] (''genitive of noun''), [[Amerikka|Amerikan]] (''genitive of noun'')
 * French: {{t+|fr|américain|m}}, {{t+|fr|américaine|f}}; {{t+|fr|états-unien|m}}, {{t+|fr|états-unienne|f}}
-* German: [[amerikanisch]], (more precisely) [[US-amerikanisch]]
+* German: {{t+|de|amerikanisch}}, {{qualifier|more precisely}} {{t+|de|US-amerikanisch}}
 * Haitian Creole: {{tø|ht|ameriken}}
 * Hebrew: {{t+|he|אמריקני|tr=amerikáni}}
 * Hindi: {{t|hi|अमरीकी|tr=amrīkī|xs=Hindi}}
@@ -212,11 +217,16 @@ Sometimes (usually outside of the [[USA]]) used [[pejoratively]] (see also [[ant
 * Turkish: {{t+|tr|Amerikalı}}, {{t+|tr|Amerikan}}
 * Urdu: {{t|ur|امریکی|tr=amrīkī|xs=Urdu}}
 * Vietnamese: {{t+|vi|Mỹ|xs=Vietnamese}}, {{t|vi|của Mỹ|xs=Vietnamese}}, {{t|vi|của Hoa Kỳ|xs=Vietnamese}}
-* Volapük: {{t|vo|Lamerikänik}}
+* Volapük: {{t+|vo|Lamerikänik}}
+{{trans-bottom}}
+
+{{trans-top|of or pertaining to a native or citizen of the USA}}
+* Volapük: {{qualifier|♂♀}} {{t-|vo|Lamerikänanik}}, {{qualifier|♂}} {{t-|vo|hi-Lamerikänanik}}, {{qualifier|♀}} {{t-|vo|ji-Lamerikänanik}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|of or pertaining to American (the language), American English}}
-* Volapük: {{t|vo|Lamerikänapükik}}, {{t|vo|Lamerikäna-Linglänapükik}}
+* Volapük: {{t-|vo|Lamerikänapükik}}, {{t-|vo|Lamerikäna-Linglänapükik}}
 {{trans-mid}}
 {{trans-bottom}}
 
