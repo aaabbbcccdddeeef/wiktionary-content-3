@@ -34,7 +34,7 @@ c. 1590, from {{etyl|la|en}} {{term|Christianus|lang=la}}, from {{etyl|grc|en}} 
 * Finnish: {{t+|fi|kristitty}}
 * French: {{t+|fr|chrétien|m}}, {{t-|fr|chrétienne|f}}
 * Georgian: {{t|ka|ქრისტიანი|tr=k’ristiani|sc=Geor|xs=Georgian}}
-* German: {{t+|de|Christ|m}}, {{t+|de|Christin|f}}, {{qualifier|early}} {{t|de|Urchrist|m}}, {{qualifier|early}} {{t|de|Urchristin|f}}
+* German: {{t+|de|Christ|m}}, {{t+|de|Christin|f}}, {{qualifier|early}} {{t|de|Urchrist|m}}, {{qualifier|early}} {{t|de|Urchristin|f}}, {{qualifier|Jewish}} {{t|de|Judenchrist|m}}, {{qualifier|Jewish}} {{t|de|Judenchristin|f}}, {{qualifier|Gentile}} {{t|de|Heidenchrist|m}}, {{qualifier|Gentile}} {{t|de|Heidenchristin|f}}
 * Greek: {{t+|el|χριστιανός|m|tr=christianós}}, {{t|el|χριστιανή|f|tr=christianí}}
 *: Ancient: {{tø|grc|χριστεπώνυμος|m|tr=christepónimos|sc=polytonic}}
 * Hebrew: {{t|he|נוצרי|m|tr=notsrí}}, {{t|he|נוצריה|f|tr=notsriá}}
@@ -74,7 +74,7 @@ c. 1590, from {{etyl|la|en}} {{term|Christianus|lang=la}}, from {{etyl|grc|en}} 
 * Turkish: {{t|tr|Hristiyan}}
 * Urdu: {{t|ur|عیسائی|tr=īsā'ī|xs=Urdu}}
 * Vietnamese: {{t|vi|người theo đạo Cơ đốc|xs=Vietnamese}}
-* Volapük: {{qualifier|♂♀}} {{t+|vo|kritan}}, {{qualifier|♂}} {{t-|vo|hikritan}}, {{qualifier|♀}} {{t+|vo|jikritan}}, {{qualifier|early, ♂♀}} {{t-|vo|rukritan}}, {{qualifier|early, ♂}} {{t-|vo|ruhikritan}}, {{qualifier|early, ♀}} {{t-|vo|rujikritan}}
+* Volapük: {{qualifier|♂♀}} {{t+|vo|kritan}}, {{qualifier|♂}} {{t-|vo|hikritan}}, {{qualifier|♀}} {{t+|vo|jikritan}}, {{qualifier|early, ♂♀}} {{t-|vo|rukritan}}, {{qualifier|early, ♂}} {{t-|vo|ruhikritan}}, {{qualifier|early, ♀}} {{t-|vo|rujikritan}}, {{qualifier|Jewish ♂♀}} {{t|vo|yudakritan}}, {{qualifier|♂}} {{t|vo|yudahikritan}}, {{qualifier|♀}} {{t|vo|yudajikritan}}, {{qualifier|Gentile ♂♀}} {{t|vo|pagakritan}}, {{qualifier|♂}} {{t|vo|pagahikritan}}, {{qualifier|♀}} {{t|vo|pagajikritan}}
 {{trans-bottom}}
 
 {{trans-top|someone who belongs to Jesus Christ}}
@@ -145,7 +145,7 @@ c. 1590, from {{etyl|la|en}} {{term|Christianus|lang=la}}, from {{etyl|grc|en}} 
 * Esperanto: {{t-|eo|kristanisma}}
 * French: {{t+|fr|chrétien|m}}, {{t|fr|chrétienne|f}}
 * Georgian: {{t|ka|ქრისტიანული|sc=Geor|xs=Georgian}}
-* German: {{t+|de|christlich}}, {{t|de|urchristlich}}
+* German: {{t+|de|christlich}}, {{t|de|urchristlich}}, {{qualifier|Jewish}} {{t|de|judenchristlich}}, {{qualifier|Gentile}} {{t|de|heidenchristlich}}
 * Greek: {{t|el|χριστιανικός|tr=christianikós}}
 * Hebrew: [[נוצרי]] (notzry) {{m}}, [[נוצרית]] (notzryt) {{f}}
 * Irish: {{t|ga|Críostaíoch}}
@@ -165,13 +165,13 @@ c. 1590, from {{etyl|la|en}} {{term|Christianus|lang=la}}, from {{etyl|grc|en}} 
 * Swahili: {{t|sw|Kikristo}}
 * Swedish: {{t|sv|kristen}}, {{t|sv|kristlig}}
 * Turkish: {{t|tr|Hristiyan}}
-* Volapük: {{t|vo|kritik}}, {{qualifier|early}} {{t|vo|rukritik}}
+* Volapük: {{t|vo|kritik}}, {{qualifier|early}} {{t|vo|rukritik}}, {{qualifier|Jewish}} {{t|vo|yudakritik}}, {{qualifier|Gentile}} {{t|vo|pagakritik}}
 {{trans-bottom}}
 
 {{trans-top|of, like or relating to a Christian or Christians}}
 * Esperanto: {{qualifier|♂♀}} {{t-|eo|kristana}}, {{qualifier|♂}} {{t-|eo|virkristana}}, {{qualifier|♀}} {{t-|eo|kristanina}}
 {{trans-mid}}
-* Volapük: {{qualifier|♂♀}} {{t-|vo|kritanik}}, {{qualifier|♂}} {{t-|vo|hikritanik}}, {{qualifier|♀}} {{t+|vo|jikritanik}}, {{qualifier|early, ♂♀}} {{t-|vo|rukritanik}}, {{qualifier|early, ♂}} {{t-|vo|ruhikritanik}}, {{qualifier|early, ♀}} {{t-|vo|rujikritanik}}
+* Volapük: {{qualifier|♂♀}} {{t-|vo|kritanik}}, {{qualifier|♂}} {{t-|vo|hikritanik}}, {{qualifier|♀}} {{t+|vo|jikritanik}}, {{qualifier|early, ♂♀}} {{t-|vo|rukritanik}}, {{qualifier|early, ♂}} {{t-|vo|ruhikritanik}}, {{qualifier|early, ♀}} {{t-|vo|rujikritanik}}, {{qualifier|Jewish ♂♀}} {{t|vo|yudakritanik}}, {{qualifier|♂}} {{t|vo|yudahikritanik}}, {{qualifier|♀}} {{t|vo|yudajikritanik}}, {{qualifier|Gentile ♂♀}} {{t|vo|pagakritanik}}, {{qualifier|♂}} {{t|vo|pagahikritanik}}, {{qualifier|♀}} {{t|vo|pagajikritanik}}
 {{trans-bottom}}
 
 {{trans-see|kind}}
