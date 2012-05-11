@@ -54,18 +54,18 @@
 * Egyptian: {{tø|egy|bḥz|sc=Egyp}}
 *: <hiero>bH:z-E9</hiero>
 * Eshtehardi: {{tø|esh|جینگ|m|alt=جینگَ|tr=jinga|sc=fa-Arab}}, {{tø|esh|دوگیه|f|alt=دوگیَه|tr=dugiya|sc=fa-Arab}}
-* Esperanto: {{t-|eo|bovido|xs=Esperanto}}
+* Esperanto: {{qualifier|♂♀}} {{t-|eo|bovido}}, {{qualifier|♂}} {{t-|eo|virbovido}}, {{qualifier|♀}} {{t-|eo|bovidino}}
 * Estonian: {{t+|et|vasikas}}
 * Finnish: {{t+|fi|vasikka}}
 * French: {{t+|fr|veau|m}}
 * Georgian: {{t|ka|ხბო|tr=xbo|sc=Geor}}
-* German: {{t+|de|Kalb|n}}
+* German: {{qualifier|♂♀}} {{t+|de|Kalb|n}}, {{qualifier|♂}} {{t-|de|Bullenkalb|n}}, {{qualifier|♀}} {{t-|de|Kuhkalb|n}}
 * Greek: {{t+|el|μοσχάρι|n|tr=moschári}}
 * Hebrew: {{t|he|עגל|m|tr=‘egel}}
 * Hindi: {{t|hi|बछिया|f|tr=bachiyā|sc=Deva}}
 * Hungarian: {{t+|hu|borjú}}
 * Icelandic: {{t+|is|kálfur|m}}
-* Ido: {{t+|io|bovyuno|xs=Ido}}
+* Ido: {{qualifier|♂♀}} {{t+|io|bovyuno}}, {{qualifier|♂}} {{t+|io|bovyunulo}}, {{qualifier|♀}} {{t+|io|bovyunino}}
 * Irish: {{t-|ga|lao|m|xs=Irish}}, {{t-|ga|gamhain|m|xs=Irish}}
 * Italian: {{t+|it|vitello|m}}
 * Japanese: {{t-|ja|子牛}} ({{t+|ja|こうし}}, ko-ushi)
@@ -104,7 +104,7 @@
 * Swedish: {{t+|sv|kalv|c}}
 * Tswana: {{t-|tn|namane|xs=Tswana}}
 * Turkish: {{t+|tr|dana}}, {{t+|tr|buzağı}}
-* Volapük: {{qualifier|male or female}} {{t|vo|bubül}}, {{qualifier|male}} {{t|vo|hibubül}}, {{qualifier|female}} {{t|vo|jibubül}}, {{qualifier|male, obsolete}} {{t|vo|smaxol}}, {{qualifier|female, obsolete}} {{t|vo|smakun}}, {{qualifier|unweaned male or female}} {{t|vo|sugabubül}}, {{qualifier|unweaned male}} {{t|vo|sugahibubül}}, {{qualifier|unweaned female}} {{t|vo|sugajibubül}}
+* Volapük: {{qualifier|♂♀}} {{t|vo|bubül}}, {{qualifier|♂}} {{t|vo|hibubül}}, {{qualifier|♀}} {{t|vo|jibubül}}, {{qualifier|unweaned ♂♀}} {{t|vo|sugabubül}}, {{qualifier|unweaned ♂}} {{t|vo|sugahibubül}}, {{qualifier|unweaned ♀}} {{t|vo|sugajibubül}}, {{qualifier|♂, obsolete}} {{t|vo|smaxol}}, {{qualifier|♀, obsolete}} {{t|vo|smakun}}
 * Welsh: {{t+|cy|llo|m|xs=Welsh}}
 * West Frisian: [[keal]] {{n}}
 * Wolof: {{t|wo|séll|alt=séll wi}}
@@ -125,6 +125,7 @@
 * Spanish: {{t+|es|cría|f}}
 * Swahili: {{t+|sw|ndama|xs=Swahili}}
 * Swedish: {{t+|sv|kalv|c}}
+* Volapük: {{qualifier|♂♀ elephant}} {{t|vo|leefadül}}, {{qualifier|♂}} {{t|vo|hileefadül}}, {{qualifier|♀}} {{t|vo|jileefadül}}; {{qualifier|♂♀ whale}} {{t|vo|valütül}}, {{qualifier|♂}} {{t|vo|hivalütül}}, {{qualifier|♀}} {{t|vo|jivalütül}}; {{qualifier|♂♀ seal}} {{t|vo|fukül}}, {{qualifier|♂}} {{t|vo|hifukül}}, {{qualifier|♀}} {{t|vo|jifukül}}
 {{trans-bottom}}
 
 {{trans-top|chunk of ice broken off of a larger glacier, ice shelf, or iceberg}}
