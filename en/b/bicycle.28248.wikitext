@@ -44,7 +44,7 @@ Often said to be from French, but probably coined from [[bi-]] ("two") + {{etyl|
 * Czech: {{t+|cs|kolo|n}}, {{t|cs|jizdní kolo|n}}
 * Danish: {{t+|da|cykel|c}}
 * Dutch: {{t+|nl|fiets|m}}
-* Esperanto: {{t-|eo|biciklo|xs=Esperanto}}
+* Esperanto: {{t-|eo|biciklo}}
 * Estonian: {{t+|et|jalgratas}}
 * Ewe: [[gasɔ]]
 * Faroese: {{t|fo|súkkla|f}}
@@ -54,7 +54,7 @@ Often said to be from French, but probably coined from [[bi-]] ("two") + {{etyl|
 * {{trreq|Georgian}}
 * German: {{t+|de|Fahrrad|n}}, {{t+|de|Velo|n}} {{qualifier|Switzerland}}, colloquial: {{t-|de|Drahtesel|m}}
 * Greek: {{t+|el|ποδήλατο|n|tr=podílato}}
-* Hebrew: {{t+|he|אופניים|m|p|tr=ofnáim}}
+* Hebrew: {{t+|he|אופניים|m|p|alt=אוֹפַנַּיִם|tr=ofanáyim}}, {{t-|he|זוג אופניים|m|alt=זוּג אוֹפַנַּיִם|tr=zug ofanáyim}}
 * Hiligaynon: {{tø|hil|bisikleta}}
 * Hindi: {{t+|hi|साइकिल|f|tr=sā'ikil|xs=Hindi}}
 * Hungarian: {{t+|hu|kerékpár}}, {{t+|hu|bicikli}}
@@ -114,6 +114,13 @@ Often said to be from French, but probably coined from [[bi-]] ("two") + {{etyl|
 {{en-verb|bicycl|es}}
 
 # To [[travel]] or [[exercise]] using a bicycle.
+
+=====Translations=====
+{{trans-top|to bicycle}}
+* German: {{t+|de|Rad fahren}}, {{qualifier|colloquial}} {{t+|de|radeln}}
+{{trans-mid}}
+* Volapük: {{t+|vo|saikulön}}
+{{trans-bottom}}
 
 [[Category:en:Cycling]]
 [[Category:en:Vehicles]]
