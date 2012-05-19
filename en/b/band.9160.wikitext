@@ -244,15 +244,19 @@ From {{etyl|enm}} {{term|band|lang=enm}}, from {{etyl|non}}. Cognate with {{etyl
 ==Danish==
 
 ===Etymology 1===
-From {{term|bande||swear, curse|lang=da}}, from {{etyl|non|da}} {{term|banna||ban, curse|lang=da}}.
+From {{etyl|en|da}} {{term|band|lang=en}}.
 
 ====Pronunciation====
-* {{IPA|/ban/|[b̥ænˀ]|lang=da}}
+* {{IPA|/baːnd/|[b̥æːnd̥]|lang=da}}
 
 ====Noun====
-{{head|da|noun|g=c|g2=n}}
+{{da-noun|et|pl-indef-2=bands}}
 
-# {{rare|lang=da}} [[swear word]]
+# {{l|en|band}}
+
+=====Inflection=====
+{{da-noun-infl|et|pl-indef-2=bands|gen-pl-indef-2=bands'}}
+
 
 ===Etymology 2===
 From {{etyl|non|da}} {{term|bann||ban, curse|lang=da}}.
@@ -263,21 +267,21 @@ From {{etyl|non|da}} {{term|bann||ban, curse|lang=da}}.
 ====Noun====
 {{da-noun|et|-}}
 
-# [[excommunication]]
+# {{rare|lang=da}} {{l|en|excommunication}}
+
+
 
 ===Etymology 3===
-From {{etyl|en|da}} {{term|band|lang=en}}.
+From {{term|bande||swear, curse|lang=da}}, from {{etyl|non|da}} {{term|banna||ban, curse|lang=da}}.
 
 ====Pronunciation====
-* {{IPA|/baːnd/|[b̥æːnd̥]|lang=da}}
+* {{IPA|/ban/|[b̥ænˀ]|lang=da}}
 
 ====Noun====
-{{da-noun|et|pl-indef-2=bands}}
+{{head|da|noun|g=c|g2=n}}
 
-# [[band#English|band]]
+# {{rare|lang=da}} {{l|en|swear word}}
 
-=====Inflection=====
-{{da-noun-infl|et|pl-indef-2=bands|gen-pl-indef-2=bands'}}
 
 ----
 
