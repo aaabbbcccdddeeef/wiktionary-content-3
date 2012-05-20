@@ -98,25 +98,25 @@ From {{etyl|non|da}} {{term|brattr|lang=non}} and {{etyl|ang|da}} {{term|brant|l
 ==Irish==
 
 ===Etymology===
-From {{etyl|sga|ga}} {{term|bratt|lang=sga}}, from {{proto|Celtic|bratto-|lang=ga}} (compare {{etyl|cy|-}} {{term|brethyn||cloth|lang=cy}}, from {{proto|Celtic|bratt-ino-|lang=ga|title=}}).
+From {{etyl|sga|ga}} {{term|bratt|lang=sga}}, from {{proto|Celtic|bratto-|lang=ga}} (compare {{etyl|cy|-}} {{term|brethyn||cloth|lang=cy}}, from {{proto|Celtic|bratt-ino-|lang=ga}}).
 
 ===Pronunciation===
 * {{a|Munster}} {{IPA|lang=ga|[bˠɾˠɑt̪ˠ]}}
 * {{a|Connacht|Ulster}} {{IPA|lang=ga|[bˠɾˠat̪ˠ]}}
 
 ===Noun===
-{{head|ga|noun|g=m}}
+{{ga-noun|brait|brait|g=m}}
 
 # [[cloak]]
 
 ====Declension====
-{{ga-noun-m1|b|rat|rait}}
-
-====Mutation====
-{{ga mut cons|b|rat}}
+{{ga-decl-m1|b|rat|rait}}
 
 ====Derived terms====
 * {{l|ga|brateagraíocht}}
+
+===Mutation===
+{{ga mut cons|b|rat}}
 
 [[Category:ga:Clothing]]
 
