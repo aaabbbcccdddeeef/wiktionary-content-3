@@ -142,7 +142,7 @@ From {{etyl|enm}} {{term||doctor, doctour|an expert, authority on a subject|lang
 * Dalmatian: {{t|dlm|dotuar|m}}
 * Danish: {{t-|da|læge}}, {{t-|da|doktor}}
 * Dutch: {{t+|nl|dokter|m|f}}, {{t+|nl|arts|m|f}}
-* Esperanto: {{t+|eo|kuracisto|xs=Esperanto}}
+* Esperanto:  {{qualifier|♂♀}} {{t+|eo|kuracisto}}, {{qualifier|explicitly ♂}} {{t-|eo|virkuracisto}}, {{qualifier|explicitly ♀}} {{t-|eo|kuracistino}}
 * Estonian: {{t-|et|arst}}, {{t-|et|doktor}}
 * Ewe: [[ɖɔkta]], [[atikewɔla]]
 * Finnish: {{t+|fi|lääkäri}}, {{t+|fi|tohtori}}
@@ -222,7 +222,7 @@ From {{etyl|enm}} {{term||doctor, doctour|an expert, authority on a subject|lang
 * Urdu: {{t-|ur|ڈاکٹر|m|tr=ḍākṭar|xs=Urdu}}
 * Uzbek: {{t|uz|tabib}}, {{t|uz|shifokor}}, {{t|uz|doktor}}
 * Vietnamese: {{t|vi|bác sĩ y khoa|xs=Vietnamese}}, {{t+|vi|bác sĩ|xs=Vietnamese}}
-* Volapük: {{qualifier|male or female}} {{t|vo|sanan}}, {{qualifier|male}} {{t|vo|hisanan}}, {{qualifier|female}} {{t|vo|jisanan}}, {{qualifier|older term}} {{t|vo|sanel}}, {{qualifier|older term}} {{t|vo|medinel}}
+* Volapük: {{qualifier|♂♀}} {{t+|vo|sanan}}, {{qualifier|♂}} {{t-|vo|hisanan}}, {{qualifier|♀}} {{t-|vo|jisanan}}, {{qualifier|older term}} {{t-|vo|sanel}}, {{qualifier|older term}} {{t-|vo|medinel}}
 * Welsh: {{t|cy|meddyg|m}}
 * Yiddish: {{t-|yi|דאָקטער|m|tr=dokter|xs=Yiddish}}
 {{trans-bottom}}
@@ -238,7 +238,9 @@ From {{etyl|enm}} {{term||doctor, doctour|an expert, authority on a subject|lang
 * Czech: {{t+|cs|doktor|m}}
 * Danish: {{t-|da|doktor}}
 * Dutch: doctor {{m|f}}
-* Esperanto: {{t-|eo|doktoro|m|f|xs=Esperanto}}
+
+* Esperanto:  {{qualifier|♂♀}} {{t-|eo|doktoro}}, {{qualifier|explicitly ♂}} {{t-|eo|virdoktoro}}, {{qualifier|explicitly ♀}} {{t-|eo|doktorino}}
+
 * Finnish: {{t+|fi|tohtori}}
 * French: {{t|fr|docteur}}
 * Georgian: {{t|ka|დოქტორი|tr=dok‘tori|sc=Geor|xs=Georgian}}
@@ -276,7 +278,7 @@ From {{etyl|enm}} {{term||doctor, doctour|an expert, authority on a subject|lang
 * Turkish: {{t+|tr|doktor}}
 * Ukrainian: {{t-|uk|доктор|xs=Ukrainian}}
 * Vietnamese: {{t+|vi|tiến sĩ|xs=Vietnamese}}
-* Volapük: {{qualifier|male or female}} {{t|vo|dokan}}, {{qualifier|male}} {{t|vo|hidokan}}, {{qualifier|female}} {{t|vo|jidokan}}, {{qualifier|older term}} {{t|vo|dokel}}
+* Volapük: {{qualifier|♂♀}} {{t+|vo|dokan}}, {{qualifier|♂}} {{t-|vo|hidokan}}, {{qualifier|♀}} {{t-|vo|jidokan}}, {{qualifier|older term}} {{t-|vo|dokel}}
 * Yiddish: {{t-|yi|דאָקטאָר|m|tr=doktor|xs=Yiddish}}
 {{trans-bottom}}
 
@@ -314,7 +316,7 @@ From {{etyl|enm}} {{term||doctor, doctour|an expert, authority on a subject|lang
 * Thai: {{Thai|[[สัตวแพทย์]]}} (sàt-wá-pâet)
 * Turkish: {{t+|tr|veteriner}}, {{t+|tr|baytar}}
 * Ukrainian: [[ветеринар]], [[лікар]]
-* Volapük: {{qualifier|male or female}} {{t|vo|nimisanan}}, {{qualifier|male}} {{t|vo|nimihisanan}}, {{qualifier|female}} {{t|vo|nimijisanan}}, {{qualifier|older term}} {{t|vo|nimasanel}}
+* Volapük: {{qualifier|♂♀}} {{t+|vo|nimisanan}}, {{qualifier|♂}} {{t-|vo|nimihisanan}}, {{qualifier|♀}} {{t-|vo|nimijisanan}}, {{qualifier|older term}} {{t-|vo|nimasanel}}
 {{trans-bottom}}
 
 {{checktrans-top}}
