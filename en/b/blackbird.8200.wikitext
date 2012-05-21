@@ -14,13 +14,20 @@ From {{compound|black|bird}}.
 ===Noun===
 {{en-noun}}
 
-# A common [[thrush]], ''[[Turdus merula]]'', found in woods and gardens over much of [[Eurasia]], and introduced elsewhere.
-# A variety of [[New World]] birds of the family '''[[Icteridae]]'''.
+# A (common) true [[thrush]], ''[[Turdus merula]]'', found in woods and gardens over much of [[Eurasia]], and introduced elsewhere.
+# A variety of [[New World]] birds of the family '''[[Icteridae]]''' (26 [[species]] of [[icterid]] bird).
+
+====Synonyms====
+* [[Common Blackbird|common blackbird]], ''Turdus merula''
+* [[Eurasian Blackbird|Eurasian blackbird]], ''Turdus merula''
+* [[merle]] ([[merl]])
 
 ====Derived terms====
 * [[blackbirder]]
 * [[blackbirding]]
-* [[red-winged blackbird]]
+* [[New World Blackbird|New World blackbird]]
+* [[Old World Blackbird|Old World blackbird]]
+* [[red-winged blackbird|Red-winged Blackbird]]
 
 ====Translations====
 {{trans-top|common thrush, ''Turdus merula''}}
@@ -39,7 +46,7 @@ From {{compound|black|bird}}.
 * Czech: {{t+|cs|kos}}
 * Danish: {{t-|da|solsort|c}}
 * Dutch: {{t+|nl|merel|m}}
-* Esperanto: {{t-|eo|merlo|xs=Esperanto}}
+* Esperanto: {{qualifier|♂♀}} {{t-|eo|merlo}}, {{qualifier|♂}} {{t-|eo|virmerlo}}, {{qualifier|♀}} {{t-|eo|merlino}}, {{qualifier|♂♀ offspring}} {{t-|eo|merlido}}, {{qualifier|♂ offspring}} {{t-|eo|virmerlido}}, {{qualifier|♀ offspring}} {{t-|eo|merlidino}}
 * Estonian: {{t+|et|musträstas}}
 * Faroese: {{t-|fo|kvørkveggja|xs=Faroese}}
 * Finnish: {{t+|fi|mustarastas}}
@@ -65,24 +72,24 @@ From {{compound|black|bird}}.
 * Norwegian: {{t|no|svarttrost}}
 * [[Occitan]]: [[mèrle]]
 * [[Old English]]: {{t-|ang|osle|f|alt=ōsle|xs=Old English}}
-* Polish: [[kos]] '' ''
+* Polish: {{t+|pl|kos|m}}
 * Portuguese: {{t+|pt|melro}}
 * Romanian: {{t|ro|mierla-neagră|f}}
 * [[Romansch]]: {{t-|rm|merlotscha|f|xs=Romansch}}
 * Russian: {{t|ru|чёрный дрозд|m|tr=čórnyj drozd}}
 * [[Sami]]: [[čáhppesrásttis]]
-* [[Sardinian]]: [[picchiaranzu]], [[mérula]], [[meurra]]
+* [[Sardinian]]: {{tø|sc|picchiaranzu}}, {{tø|sc|mérula}}, {{tø|sc|meurra}}
 * [[Scots]]: {{tø|sco|blackie}}
-* [[Scottish Gaelic]]: [[lon dubh]]
-* Serbian: [[кос]] ([[kos]])
-* Slovak: {{t-|sk|drozd}}
-* Slovene: {{t+|sl|kos}}
+* [[Scottish Gaelic]]: {{t-|gd|lon|m}}, {{t-|gd|lon dubh|m}}
+* Serbian:  {{t-|sr|кос|m|tr=kos}}
+* Slovak: {{t-|sk|drozd|m}}
+* Slovene: {{t+|sl|kos|m}}
 * Spanish: {{t+|es|mirlo|m}}
-* Swedish: {{t+|sv|koltrast}}
+* Swedish: {{t+|sv|koltrast|c}}
 * Turkish: {{t+|tr|karatavuk}}
-* Ukrainian: [[дрізд]] ([[drizd]])
+* Ukrainian: {{t-|uk|дрізд|m|tr=drizd}}
 * [[Upper Sorbian]]: [[kós]]
-* [[Volapük]]: {{qualifier|male or female}} {{t|vo|merul}}, {{qualifier|male}} {{t|vo|himerul}}, {{qualifier|female}} {{t|vo|jimerul}}, {{qualifier|offspring, young}} {{t|vo|merulül}}
+* Volapük: {{qualifier|♂♀}} {{t|vo|merul}}, {{qualifier|♂}} {{t|vo|himerul}}, {{qualifier|♀}} {{t|vo|jimerul}}, {{qualifier|♂♀ offspring}} {{t|vo|merulül}}, {{qualifier|♂ offspring}} {{t|vo|himerulül}}, {{qualifier|♀ offspring}} {{t|vo|jimerulül}}
 * Welsh: [[mwyalchen]], {{t|cy|aderyn du|m}}
 * [[West Frisian]]: [[swarte lyster]]
 {{trans-bottom}}
@@ -90,11 +97,16 @@ From {{compound|black|bird}}.
 {{trans-top| bird of the family Icteridae}}
 * Finnish: {{t|fi|turpiaali}}
 {{trans-mid}}
-* Spanish: [[turpial]] {{m}}, [[soldadito]] {{m}}
+* Spanish: {{t-|es|turpial|m}}, {{t-|es|soldadito|m}}
 {{trans-bottom}}
 
 ===See also===
 * [[ouzel]]
+* [[icterid]]
+* [[ictericus]]
+* [[Icteridae]]
+* [[merula]]
+* [[merulus]]
 
 [[Category:en:Birds]]
 
