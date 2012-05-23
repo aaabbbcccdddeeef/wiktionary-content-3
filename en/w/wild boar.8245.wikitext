@@ -29,7 +29,7 @@
 * Czech: {{t-|cs|divočák|m}}, {{t|cs|kanec|m}}, {{t|cs|prase divoké}} {{g|cs}}
 * Danish: {{t-|da|vildsvin|c}}
 * Dutch: {{t+|nl|everzwijn|n}}, {{t+|nl|wild zwijn|n}}
-* Esperanto: {{t-|eo|apro|xs=Esperanto}}, {{t|eo|sovaĝa porko}}
+* Esperanto:  {{qualifier|♂♀}} {{t-|eo|apro}}, {{qualifier|♂}} {{t-|eo|virapro}}, {{qualifier|♀}} {{t-|eo|aprino}}, {{qualifier|♂♀ offspring}} {{t-|eo|aprido}}, {{qualifier|♂ offspring}} {{t-|eo|viraprido}}, {{qualifier|♀ offspring}} {{t-|eo|apridino}}, {{qualifier|♂♀}} {{t|eo|sovaĝa porko}}, {{qualifier|♂}} {{t|eo|sovaĝa virporko}},  {{qualifier|♀}} {{t|eo|sovaĝa porkino}},  {{qualifier|♂♀}} {{t|eo|sovaĝa porkido}},  {{qualifier|♂}} {{t|eo|sovaĝa virporkido}} {{qualifier|♀}} {{t|eo|sovaĝa porkidino}}
 * Estonian: {{t-|et|metssiga}}
 * Faroese: {{t|fo|villsvín}}
 * Finnish: {{t-|fi|villisika}}
@@ -37,7 +37,7 @@
 * Friulian: [[cenglâr]]
 * Galician: {{t+|gl|xabaril|m|xs=Galician}}, {{t-|gl|xabarín|m|xs=Galician}}, [[porco bravo]] {{m}}
 * Georgian: {{t|ka|ქოს­მე­ნი|tr=kosmeni|sc=Geor}}
-* German: {{t+|de|Wildschwein|n}}
+* German: {{qualifier|♂♀}} {{t+|de|Wildschwein|n}}, {{qualifier|collective ♂♀}} {{t-|de|Wildschweinrudel|n}}, {{t-|de|Wildeber|m}}, {{t-|de|Wildsau|f}}, {{qualifier|from [[DWB]]}} {{t-|de|Bacher|m}}, {{t-|de|Keiler|m}}, {{t-|de|Bache|f}}, {{qualifier|hunting, collective ♂♀}} {{t-|de|Schwarzwild|n}}, {{qualifier|♂♀ young offspring}} {{t-|de|Frischling|m}}, {{qualifier|colloquial ♂♀}} {{t+|de|Schwarzkittel|n}}
 * Greek: {{t+|el|κάπρος|m|tr=kápros}}, {{t+|el|αγριογούρουνο|n|tr=agriogúruno}}
 * Hungarian: {{t+|hu|vaddisznó}}
 * Icelandic: {{t-|is|villisvín|n}}, {{t-|is|villigöltur|m}}
@@ -46,12 +46,12 @@
 * Italian: {{t+|it|cinghiale|m}}
 * Japanese: {{t|ja|野猪|tr=yacho}}, {{t|ja|猪}} ({{t|ja|いのしし}}, {{t|ja|イノシシ}}, {{t|ja|inoshishi}})
 * Javanese: {{t-|jv|celeng|xs=Javanese}}
+{{trans-mid}}
 * Korean: {{t|ko|멧돼지|tr=metdwaeji}}
 * Ladin: [[porcel salvare]]
 * Latin: {{t|la|aper|m}}
 * Latvian: [[mežacūka]]
 * Lithuanian: {{t+|lt|šernas|xs=Lithuanian}}
-{{trans-mid}}
 * Lower Sorbian: [[źiwa swinja]]
 * Macedonian: {{t|mk|дива свиња|tr=diva svinja|f}}, {{t-|mk|вепар|m|tr=vépar}}
 * Malay: {{t|ms|babi hutan}}
@@ -82,7 +82,7 @@
 * Ukrainian: [[кабан]] (kaban) {{m}}, [[вепр]] (vepr) {{m}}
 * Upper Sorbian: [[dźiwje swinjo]]
 * Vietnamese: {{t+|vi|lợn rừng|xs=Vietnamese}}
-* Volapük: {{qualifier|male or female}} {{t|vo|saglied}}, {{qualifier|male}} {{t|vo|hisaglied}}, {{qualifier|female}} {{t|vo|jisaglied}}, {{qualifier|male or female offspring, young}} {{t|vo|sagliedül}}, {{qualifier|male offspring}} {{t|vo|hisagliedül}}, {{qualifier|female offspring}} {{t|vo|jisagliedül}}
+* Volapük: {{qualifier|[[♂]][[♀]]}} {{t|vo|saglied}}, {{qualifier|♂}} {{t|vo|hisaglied}}, {{qualifier|♀}} {{t|vo|jisaglied}}, {{qualifier|♂♀ offspring}} {{t|vo|sagliedül}}, {{qualifier|♂ offspring}} {{t|vo|hisagliedül}}, {{qualifier|♀ offspring}} {{t|vo|jisagliedül}}
 * Walloon: {{t|wa|singlé}}
 * Welsh: [[baedd gwyllt]]
 * West Frisian: [[wylde baarch]]
