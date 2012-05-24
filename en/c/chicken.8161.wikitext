@@ -63,7 +63,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|cicen|ċicen|lang=ang|sc=Latinx}}, {
 * Alabama: [[akaaka]] (1)
 * Albanian: {{t-|sq|pulë|xs=Albanian}}
 * Amharic: {{tø|am|ዶሮ|tr=doro|sc=Ethi}}
-* Arabic: {{t+|ar|دجاجة|c}}, {{t|ar|دجاجة|f|tr=dajāja|sc=Arab}}
+* Arabic: {{t+|ar|دجاجة|f|tr=dajāja|sc=Arab}}
 * Armenian: {{qualifier|female}} {{t-|hy|հավ|tr=hav}}, {{qualifier|male}} {{t+|hy|աքլոր|tr=ak’lor}}, {{qualifier|young}} {{t-|hy|ճուտ|tr=č̣ut}}
 * Azeri: [[toyuq]]
 * Basque: [[oilasko]], [[oilo]]
@@ -79,7 +79,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|cicen|ċicen|lang=ang|sc=Latinx}}, {
 * Chechen: {{tø|ce|котам}}
 * Cherokee: {{t-|chr|ᏣᏔᎦ|sc=Cher|xs=Cherokee}}
 * Chickasaw: [[akaka]]
-* Chinese: [[雞]], [[鷄]], [[鸡]] (jī)
+* Chinese:
 *: Mandarin: {{t|zh|雞|sc=Hani}}, {{t|zh|鷄|sc=Hani}}, {{t|zh|鸡|tr=jī|sc=Hani}}
 *: [[Min Nan]]: {{tø|nan|雞|tr=ke, koe|sc=Hani}}
 * Croatian: {{t-|hr|kokoš|f}}, {{t-|hr|kokoška|f}}
@@ -113,7 +113,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|cicen|ċicen|lang=ang|sc=Latinx}}, {
 * Italian: {{t+|it|pollo|m}}, {{t+|it|gallo|m}}, {{t+|it|gallina|f}}
 * Japanese: {{t|ja|鶏|tr=niwatori|sc=Jpan}}, {{t|ja|ニワトリ|tr=niwatori|sc=Jpan}}
 * Kiput: [[aan]]
-* Korean: [[닭]] (dak), {{t|ko|닭|tr=dak|sc=Kore}}
+* Korean: {{t|ko|닭|tr=dak|sc=Kore}}
 * Kurdish:
 *: Sorani: {{ku-Arab|[[مریشک]]}}, {{ku-Arab|[[مامر]]}}
 {{trans-mid}}
@@ -142,7 +142,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|cicen|ċicen|lang=ang|sc=Latinx}}, {
 * Romani: [[kainiori]], [[kaini]] {{f}}
 * Romanian: {{t-|ro|pui}}, {{t+|ro|găină|f}}
 * Romansch: [[pulschain]], [[giaglina]]
-* Russian: {{t+|ru|цыплёнок|m|tr=cypljónok, chick}}, {{t+|ru|курица|f|tr=kúritsa, hen}}, {{t+|ru|петух|m|tr=petúx, cock}}
+* Russian: {{t+|ru|цыплёнок|m|tr=cypljónok, chick}}, {{t+|ru|курица|f|tr=kúrica, hen}}, {{t+|ru|петух|m|tr=petúx, rooster}}
 * Samoan: {{t|sm|moa}}
 * Sardinian: [[caboniscu]], [[caboni]], [[puddone]], [[puddu]]
 * Scottish Gaelic: [[cearc]]
@@ -177,14 +177,14 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|cicen|ċicen|lang=ang|sc=Latinx}}, {
 
 {{trans-top|meat}}
 * Afrikaans: {{t|af|hoendervleis|xs=Afrikaans}}
-* Arabic: {{t-|ar|دجاج}}
+* Arabic: {{t|ar|دجاج|m|tr=dajāj|sc=Arab}}
 * Armenian: {{t|hy|հավի միս|tr=havi mis}}
 * Bosnian: {{t-|bs|piletina|f}}
 * Bulgarian: {{t+|bg|пиле|n}}, {{t|bg|пилешко|n}}
 * Burmese: {{t|my|ကြက်သား|sc=Mymr|tr=kyettha:}}
 * Catalan: {{t+|ca|pollastre|m}}
-* Chinese: [[鸡肉]] (jīròu)
-*: Mandarin: {{t|zh|雞肉|tr=jī ròu|sc=Hani}}
+* Chinese:
+*: Mandarin: {{t|zh|雞肉|sc=Hani}}, {{t|zh|鷄肉|sc=Hani}}, {{t|zh|鸡肉|tr=jīròu|sc=Hani}}
 *: [[Min Nan]]: {{tø|nan|雞肉|tr=ke-bah, koe-bah|sc=Hans}}
 * Croatian: {{t-|hr|piletina|f}}
 * Czech: {{t|cs|kuře|f}}
@@ -209,9 +209,9 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|cicen|ċicen|lang=ang|sc=Latinx}}, {
 * Norwegian: {{t+|no|kylling|m}}
 * Polish: {{t+|pl|kurczak|m}}
 * Russian: {{t+|ru|курятина|f|tr=kurjátina}}
-* Serbian:
-*: Cyrillic: [[пилетина#Serbian|пилетина]] {{f}}
-*: Roman: [[piletina#Serbian|piletina]] {{f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|пилетина|f}}
+*: Roman: {{t|sh|piletina|f}}
 * Sotho: {{t|st|nama ya kgoho|xs=Sotho}}
 * Spanish: {{t+|es|pollo|m}}, {{t+|es|gallina|f}}
 * Swahili: {{t+|sw|kuku|xs=Swahili}}
