@@ -1,4 +1,5 @@
 ==English==
+{{wikipedia}}
 
 ===Etymology===
 From [[w:Latin|Latin]] ''[[divide et impera]]''
@@ -7,7 +8,6 @@ From [[w:Latin|Latin]] ''[[divide et impera]]''
 {{head|en|verb|head=to [[divide]] [[and]] [[conquer]]}}
 
 # A combination of political, military and economic strategies that aim to gain and maintain power by breaking up larger concentrations of power into chunks that individually have less power than the one implementing the strategy.
-# {{computing}} Applied to various [[algorithm]]s, such as [[quicksort]], that solve a problem by splitting it [[recursive]]ly into smaller problems until all of the remaining problems are [[trivial]].
 # {{context|as imperative|proverb}} In order to rule securely, don't allow alliances of your enemies.
 
 ====See also====
@@ -23,6 +23,7 @@ From [[w:Latin|Latin]] ''[[divide et impera]]''
 * Dutch: {{t-|nl|divide et impera}}, {{t-|nl|deel en heers}}, {{t-|nl|verdeel en heers}}
 * Finnish: {{t-|fi|hajota ja hallitse}}
 * French: {{t|fr|diviser pour mieux regner}}, {{t|fr|diviser pour régner}}
+* Georgian: {{t-|ka|დაყავი და იბატონე}}
 * German: {{t-|de|teile und herrsche}}
 * Greek: {{t|el|διαίρει και βασίλευε}}
 * Hebrew: {{t|he|הפרד ומשול}}
@@ -45,6 +46,7 @@ From [[w:Latin|Latin]] ''[[divide et impera]]''
 {{en-noun|sg=[[divide]] [[and]] [[conquer]]|[[singulare tantum|this singular form only]]}}
 
 # A strategy for achieving political or military control.
+# {{computing}} A algorithm design technique applied to various [[algorithm]]s, such as [[quicksort]], that solve a problem by splitting it [[recursively]] into smaller problems until all of the remaining problems are [[trivial]].
 
 [[Category:English proverbs]]
 [[Category:English merisms]]
