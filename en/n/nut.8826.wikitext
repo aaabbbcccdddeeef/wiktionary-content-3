@@ -82,11 +82,13 @@ From {{etyl|enm}} {{term|nute|lang=enm}}, {{term|note|lang=enm}}, from {{etyl|an
 ====Translations====
 {{trans-top|seed}}
 * Albanian: {{t+|sq|arrë|xs=Albanian}}
-* Arabic: {{Arab|[[جوزة|جَوْزَة]]}} (jáuza) {{f}}, {{Arab|[[مكسرات]]}} (mukassarāt) {{p}}
+* Arabic: {{Arab|[[جوزة|جَوْزَة]]}} (jáuza) {{f}}, {{Arab|[[مكسرات]]}} (mukassarāt) {{p}}, {{t|ar|جوزة|f|tr=jáwza|alt=جَوْزَة|sc=Arab}}, {{t|ar|مكسرات|f|p|tr=mukassarāt|sc=Arab}}
 * Armenian: {{t-|hy|ընկույզ|tr=ënkuyz}}
+* Belarusian: {{t|be|арэх|m|tr=aréx|sc=Cyrl}}
 * Catalan: {{t+|ca|nou|f}}
 * Chamicuro: {{tø|ccc|s̈hololoki}}
 * Chinese: [[堅果]], [[坚果]] (jiān guǒ)
+*: Mandarin: {{t|zh|堅果|sc=Hani}}, {{t|zh|坚果|tr=jiānguǒ|sc=Hani}}
 * Croatian: {{t+|hr|orah}}
 * Czech: {{t-|cs|ořech|m}}
 * Danish: {{t+|da|nød}}
@@ -102,13 +104,14 @@ From {{etyl|enm}} {{term|nute|lang=enm}}, {{term|note|lang=enm}}, from {{etyl|an
 *: Ancient: [[κάρυον]] (kárion) {{n}}
 *: Modern: {{t|el|ξυρός καρπός|m}} (xyrós karpós), {{t+|el|καρύδι|n}} (karýdi)
 * Haitian Creole: {{tø|ht|nwa}}
-* Hebrew: [[אגוז]] (egóz) {{m}}
+* Hebrew: [[אגוז]] (egóz) {{m}}, {{t|he|אגוז|m|tr=egóz|sc=Hebr}}
 * Hungarian: {{t+|hu|dió}}
 * Icelandic: {{t+|is|hneta|f}}, {{t-|is|hnota|f}} {{qualifier|rare}}
 * Indonesian: {{t+|id|kacang|xs=Indonesian}}
 * Irish: {{t+|ga|cnó|m|f|xs=Irish}}, {{t-|ga|cnú|m|f|xs=Irish}}, {{t-|ga|meas|m|xs=Irish}}
 * Italian: {{t+|it|noce|f}}
-* Japanese: [[木の実]] (konomí)
+* Japanese: [[木の実]] (konomí), {{t|ja|木の実|tr=このみ, konomi, きのみ, kinomi|sc=Jpan}}
+* Korean: {{t|ko|암나사|tr=amnasa|sc=Kore}}
 {{trans-mid}}
 * Latin: {{t+|la|nux|f}}
 * Latvian: [[rieksts]] {{m}}
@@ -124,16 +127,20 @@ From {{etyl|enm}} {{term|nute|lang=enm}}, {{term|note|lang=enm}}, from {{etyl|an
 * Romanian: {{t+|ro|nucă|f}}, {{t-|ro|alună}}
 * Russian: {{t+|ru|орех|m|tr=oréx}}
 * Scottish Gaelic: [[cnò]] {{f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|орах|m}}
+*: Roman: {{t|sh|orah|m}}
 * Sicilian: {{t+|scn|nuci|f|xs=Sicilian}}
+* Slovak: {{t|sk|orech|m}}
 * Slovene: {{t+|sl|oreh|m}}
 * Spanish: {{t+|es|nuez|f}}, {{t|es|fruta seca|f}}
 * Swahili: {{t+|sw|njugu|xs=Swahili}}
 * Swedish: {{t+|sv|nöt|c}}
 * Telugu: {{t|te|గింజ|tr=giMja}}
-* Thai: {{Thai|[[ลูก]]}} (lôok)
+* Thai: {{Thai|[[ลูก]]}} (lôok), {{t|th|ลูก|tr=lôok|sc=Thai}}
 * Tok Pisin: [[nat]]
 * Turkish: {{t+|tr|ceviz}}
-* Ukrainian: {{t-|uk|гайка|tr=hay̆ka|xs=Ukrainian}}
+* Ukrainian: {{t-|uk|гайка|tr=hay̆ka|xs=Ukrainian}}, {{t|uk|горіх|m|tr=horíx|sc=Cyrl}}
 * Vietnamese: {{t+|vi|đậu|xs=Vietnamese}}
 * Welsh: {{t-|cy|cneuen|f|xs=Welsh}}
 * West Frisian: {{t-|fy|nút|xs=West Frisian}}
@@ -141,8 +148,12 @@ From {{etyl|enm}} {{term|nute|lang=enm}}, {{term|note|lang=enm}}, from {{etyl|an
 {{trans-bottom}}
 
 {{trans-top|that fits on a bolt}}
-* Arabic: {{Arab|[[صمولة]]}} (ṣamūla) {{f}}
+* Arabic: {{Arab|[[صمولة]]}} (ṣamūla) {{f}}, {{t|ar|صمولة|f|tr=ṣamūla|sc=Arab}}
 * Armenian: {{t|hy|պնդօղակ|tr=pndòġak}}
+* Belarusian: {{t|be|гайка|f|tr=hájka|sc=Cyrl}}
+* Bulgarian: {{t|bg|гайка|f|tr=gájka|sc=Cyrl}}
+* Chinese:
+*: Mandarin: {{t|zh|螺母|tr=luómǔ|sc=Hani}}
 * Czech: {{t+|cs|matka|f}}, {{t|cs|matice|f}}
 * Dutch: {{t+|nl|moer|f}}
 * Finnish: {{t+|fi|mutteri}}
@@ -152,20 +163,26 @@ From {{etyl|enm}} {{term|nute|lang=enm}}, {{term|note|lang=enm}}, from {{etyl|an
 * Hebrew: [[האם]] (ha-óm)
 * Hungarian: {{t+|hu|anyacsavar}}
 * Italian: {{t+|it|dado|m}}
+* Japanese: {{t|ja|ナット|tr=natto|sc=Jpan}}
+* Korean: {{t|ko|너트|tr=neoteu|sc=Kore}}
+{{trans-mid}}
 * Latvian: [[uzgrieznis]] {{m}}
 * Macedonian: {{t|mk|навртка|f|tr=návrtka}}
-{{trans-mid}}
 * Norwegian: {{t+|no|mutter|m}}
 * Polish: {{t|pl|nakrętka|f}}
 * Portuguese: {{t+|pt|porca|f}}
 * Romanian: {{t-|ro|piuliță|f}}
 * Russian: {{t+|ru|гайка|f|tr=gájka}}
 * Scottish Gaelic: {{t-|gd|cnò|f|xs=Scottish Gaelic}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|навртка|f}}, {{t|sh|матица|f}}
+*: Roman: {{t|sh|navrtka|f}}, {{t|sh|matica|f}}
 * Spanish: {{t+|es|tuerca|f}}
 * Swedish: {{t+|sv|mutter|c}}
 * Telugu: {{t|te|నట్టు|tr=naTTu}}
 * Tok Pisin: [[nat]]
 * Turkish: {{t|tr|somun}}
+* Ukrainian: {{t|uk|гайка|f|tr=hájka|sc=Cyrl}}
 * Welsh: {{t-|cy|nyten|xs=Welsh}}
 {{trans-bottom}}
 
