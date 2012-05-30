@@ -47,12 +47,13 @@ From {{etyl|enm}} {{term|nedle|lang=enm}}, from {{etyl|ang|en}} {{term|nædl|lan
 * Afrikaans: {{t-|af|naald|xs=Afrikaans}}
 * Alabama: {{t|akg|chofisɬopòoli}}, {{t|akg|chofistoolfa}}
 * Albanian: [[gjilpërë]]
-* Arabic: {{Arab|[[ابرة]]}} {{IPAchar|(ébra)}}
+* Arabic: {{Arab|[[ابرة]]}} {{IPAchar|(ébra)}}, {{t|ar|إبرة|f|tr=ʾíbra|sc=Arab}}
 * Armenian: {{t+|hy|ասեղ|tr=aseġ}}
 ** Old Armenian: {{tø|xcl|ասեղն|tr=asełn|sc=Armn|xs=Old Armenian}}
 * Azeri: {{t|az|iynə|xs=Azeri}}
 * Bashkir: {{tø|ba|энә|tr=enä|sc=Cyrl|xs=Bashkir}}
 * Basque: {{t|eu|orratz|xs=Basque}}
+* Belarusian: {{t|be|іголка|f|tr=ihólka|sc=Cyrl}}, {{t|be|ігла|f|tr=ihlá|sc=Cyrl}}
 * Bulgarian: {{t+|bg|игла|f|tr=igla}}
 * Catalan: {{t|ca|agulla|f}}
 * Chamicuro: {{tø|ccc|amejkisi}}
@@ -64,6 +65,7 @@ From {{etyl|enm}} {{term|nedle|lang=enm}}, from {{etyl|ang|en}} {{term|nædl|lan
 * Czech: {{t+|cs|jehla|f}}
 * Danish: {{t-|da|nål|c}}
 * Dutch: {{t+|nl|naald|f}}
+* Estonian: {{t|et|nõel}}
 * Finnish: {{t+|fi|neula}}
 * French: {{t+|fr|aiguille|f}}
 * Gagauz: {{tø|gag|iinä}}
@@ -73,18 +75,19 @@ From {{etyl|enm}} {{term|nedle|lang=enm}}, from {{etyl|ang|en}} {{term|nædl|lan
 * Greek: {{t+|el|βελόνα|f|tr=velóna}}
 * Haitian Creole: {{tø|ht|zegwi}}
 * Hebrew: {{t-|he|מחט|f|tr=mahat}}
+* Hindi: {{t|hi|सुई|tr=su'ī|sc=Deva}}
 * Hungarian: {{t+|hu|tű}}
 * Icelandic: {{t+|is|nál|f}}, {{t|is|saumnál|f}}
 * Irish: {{t|ga|snáthaid|f}}
 * Italian: {{t+|it|ago|m}}
-* Japanese: [[針]] (はり, hari)
+* Japanese: [[針]] (はり, hari), {{t|ja|針|tr=はり, hari|sc=Jpan}}
 * Kalmyk: {{tø|xal|темн|tr=temn|sc=Cyrl}}
 * Karachay-Balkar: {{tø|krc|ийне|tr=iyne|sc=Cyrl}}
 * Karakalpak: {{tø|kaa|iyne}}
-* Kazakh: {{t-|kk|ине|tr=ïne|sc=Cyrl|xs=Kazakh}}
+* Kazakh: {{t-|kk|ине|tr=ïne|sc=Cyrl|xs=Kazakh}}, {{t|kk|ине|tr=ïne|sc=Cyrl}}
 * Khakas: {{tø|kjh|іңе|tr=íñe|sc=Cyrl}}
+* Korean: [[바늘]] (baneul), {{t|ko|바늘|tr=baneul|sc=Kore}}
 {{trans-mid}}
-* Korean: [[바늘]] (baneul)
 * Kumyk: {{tø|kum|ине|tr=ine|sc=Cyrl}}
 * Kurdish:
 *: Sorani: {{t-|ku|ده‌رزی|sc=ku-Arab}}
@@ -97,25 +100,30 @@ From {{etyl|enm}} {{term|nedle|lang=enm}}, from {{etyl|ang|en}} {{term|nædl|lan
 * Navajo: [[tsah]], {{tø|nv|tsah bee náʼálkadí}}
 * Norwegian: {{t-|no|nål|m|f}}, {{t|no|strikkepinne|m}} {{qualifier|for knitting}}
 * Papiamentu: {{tø|pap|angua}}, {{tø|pap|hangua}}
-* Persian: {{t+|fa|سوزن|xs=Persian}}
+* Persian: {{t+|fa|سوزن|xs=Persian}}, {{t|fa|سوزن|tr=suzan|sc=fa-Arab}}
 * Polish: {{t+|pl|igła|f}},  {{t+|pl|drut}}
 * Portuguese: {{t+|pt|agulha|f}}
 * Romanian: {{t-|ro|ac}}
 * Russia Buryat: {{tø|bxr|зүүн|tr=züün|sc=Cyrl}}
-* Russian: {{t+|ru|игла|f|tr=iglá}}, {{t+|ru|спица|f|tr=spíca}} ''for knitting''
+* Russian: {{t+|ru|игла|f|tr=iglá}}, {{t+|ru|спица|f|tr=spíca}} ''for knitting'', {{t|ru|иголка|f|tr=igólka|sc=Cyrl}}
 * Saterland Frisian: {{tø|stq|Näddele|f|xs=Saterland Frisian}}
 * Scottish Gaelic: {{t-|gd|snàthad|f|xs=Scottish Gaelic}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|игла|f}}
+*: Roman: {{t|sh|igla|f}}
 * Shor: {{tø|cjs|инге|tr=inge|sc=Cyrl}}
 * Sicilian: [[augghia]] {{f}}
 * Slovak: {{t-|sk|ihla|f}}
-* Slovene: [[igla]] {{f}}, [[šivanka]] {{f}}
+* Slovene: [[igla]] {{f}}, [[šivanka]] {{f}}, {{t|sl|igla|f}}, {{t|sl|šivanka|f}}
 * Southern Altai: {{tø|alt|ийне|tr=iyne|sc=Cyrl}}
 * Spanish: {{t+|es|aguja|f}}
 * Swahili: {{t+|sw|sindano|xs=Swahili}}
 * Swedish: {{t+|sv|nål|c}},  {{qualifier|for knitting}} {{t+|sv|sticka|c}}
-* Tatar: {{t|tt|enä|xs=Tatar}},  {{t|tt|inä|xs=Tatar}}
+* Tatar: {{t|tt|enä|xs=Tatar}},  {{t|tt|inä|xs=Tatar}}, {{t|tt|энә|tr=enä|sc=Cyrl}}, {{t|tt|инә|tr=inä|sc=Cyrl}}
 * Turkish: {{t+|tr|iğne}}
+* Turkmen: {{t|tk|iňňe}}
 * Tuvan: {{tø|tyv|ине|tr=ine|sc=Cyrl}}
+* Ukrainian: {{t|uk|голка|f|tr=hólka|sc=Cyrl}}
 * Uyghur: {{t|ug|يىڭنە|sc=ug-Arab}}
 * Uzbek: {{t|uz|igna|xs=Uzbek}}
 * Vietnamese: {{t|vi|cây kim|xs=Vietnamese}}
