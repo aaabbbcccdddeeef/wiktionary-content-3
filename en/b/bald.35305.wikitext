@@ -40,10 +40,10 @@ From {{etyl|enm}} {{term|balled||bald|lang=enm}}, from {{term|ball||white spot, 
 
 ====Translations====
 {{trans-top|having no hair}}
-* Albanian: [[tullac]]
-* Arabic: {{Arab|[[أصلع]]}}, {{Arab|[[أقرع]]}}
+* Albanian: {{t|sq|tullac}}
+* Arabic: {{t|ar|أصلع}}, {{t|ar|أقرع}}
 * {{trreq|hy}}
-* [[Basque]]: [[soil]], {{t|eu|burusoil}}
+* [[Basque]]: {{t|eu|soil}}, {{t|eu|burusoil}}
 * [[Breton]]: {{t+|br|moal|xs=Breton}}
 * Bulgarian: {{t+|bg|плешив}}
 * [[Catalan]]: {{t|ca|calb}}
@@ -60,7 +60,7 @@ From {{etyl|enm}} {{term|balled||bald|lang=enm}}, from {{term|ball||white spot, 
 * Georgian: {{t|ka|მელოტი|tr=meloti|sc=Geor|xs=Georgian}}
 * German: {{t+|de|kahl}}, {{t-|de|glatzköpfig}}
 * Greek: {{t+|el|φαλακρός}}
-* Hebrew: [[קירח]] (qire'akh) {{m}}
+* Hebrew: {{t|he|קירח|tr=qire'akh|m}}
 * {{trreq|hi}}
 * Hungarian: {{t+|hu|kopasz}}, {{t+|hu|tar}}
 * Icelandic: {{t|is|sköllóttur|m}}
@@ -114,7 +114,7 @@ From {{etyl|enm}} {{term|balled||bald|lang=enm}}, from {{term|ball||white spot, 
 * Russian: {{t+|ru|лысый|tr=lýsyj}}
 * Swahili: {{t+|sw|kipara|xs=Swahili}}
 * Swedish: {{t|sv|blanksliten}}
-* [[Telugu]]: [[గుండు]] (guMDu)
+* [[Telugu]]: {{t|te|గుండు|tr=guMDu}}
 * Thai: {{t|th|โกร๋น|tr=grohn}}
 * Turkish: {{t+|tr|kabak}}
 {{trans-bottom}}
@@ -184,6 +184,9 @@ From {{proto|Germanic|balþaz|lang=goh}}, whence also {{etyl|ang|-}} {{term|bald
 {{goh-adj}}
 
 # {{l|en|bold}}, {{l|en|quick}}
+
+====Derived terms====
+* {{l|goh|baldi|baldī}}
 
 ===References===
 * Joseph Wright, ''An Old High German Primer''
