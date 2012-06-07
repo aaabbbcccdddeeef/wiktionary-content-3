@@ -47,10 +47,9 @@ From {{etyl|enm}} {{term|original|lang=enm}}, from {{etyl|fro}} {{term|original|
 
 ====Translations====
 {{trans-top|first in a series}}
-* Arabic: {{Arab|[[اصلي|أصْلِيّ]]}} {{IPAchar|(’áʂlī)}}, {{t|ar|أصلي|tr=ʾaṣliyy|alt=أصْلِيّ|sc=Arab}}
-* Chinese: [[原]] (yuán), [[原始]] (yuánshǐ)
+* Arabic: {{t|ar|أصلي|tr=ʾaṣliyy|alt=أصْلِيّ|sc=Arab}}
+* Chinese:
 *: Mandarin: {{t|zh|原|tr=yuán|sc=Hani}}, {{t|zh|原始|tr=yuánshǐ|sc=Hani}}
-* Croatian: {{t|hr|prvobitni|m}}
 * Czech: {{t-|cs|původní}}
 * Dutch: {{t-|nl|origineel}}, {{t+|nl|oorspronkelijk}}
 * Finnish: {{t+|fi|alkuperäinen}}, {{t+|fi|ensimmäinen}}
@@ -59,13 +58,12 @@ From {{etyl|enm}} {{term|original|lang=enm}}, from {{etyl|fro}} {{term|original|
 * Greek: {{t|el|αρχικός|m}} (archikós)
 * Hungarian: {{t+|hu|eredeti}}
 * Italian: {{t+|it|originale}}
-* Japanese: [[本来]]の (ほんらいの, honrai no), {{t|ja|本来|tr=ほんらいの, honrai no|alt=本来の|sc=Jpan}}
+* Japanese: {{t|ja|本来|tr=ほんらいの, honrai no|alt=本来の|sc=Jpan}}
 {{trans-mid}}
-* Korean: [[최초의]] (choechoui), {{t|ko|최초|tr=choecho-ui|alt=최초의|sc=Kore}}
+* Korean: {{t|ko|최초|tr=choecho-ui|alt=최초의|sc=Kore}}
 * Portuguese: {{t+|pt|original}}
 * Russian: {{t+|ru|первоначальный|tr=pervonačál’nyj}}, {{t+|ru|первичный|tr=pervíčnyj}}, {{t+|ru|исходный|tr=isxódnyj}}, {{t|ru|оригинальный|tr=originálʹnyj|sc=Cyrl}}
 * [[Scottish Gaelic]]: {{t-|gd|tùsail|xs=Scottish Gaelic}}
-* Serbian: [[самобитан]] ([[samobitan]])
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|самобитан}}, {{t|sh|првобитни}}
 *: Roman: {{t|sh|samobitan}}, {{t|sh|prvobitni}}
@@ -82,7 +80,9 @@ From {{etyl|enm}} {{term|original|lang=enm}}, from {{etyl|fro}} {{term|original|
 {{trans-mid}}
 * Greek: {{t|el|αρχικός|m}} (archikós)
 * Russian: {{t+|ru|новый|tr=nóvyj}}, {{t+|ru|свежий|tr=svéžij}}
-* Serbian: [[самобитан]] ([[samobitan]]), [[нов]] ([[nov]])
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|самобитан}}, {{t|sh|нов}}
+*: Roman: {{t|sh|samobitan}}, {{t|sh|nov}}
 * Swahili: {{t+|sw|halisi|xs=Swahili}}
 {{trans-bottom}}
 
@@ -91,10 +91,12 @@ From {{etyl|enm}} {{term|original|lang=enm}}, from {{etyl|fro}} {{term|original|
 * Dutch: {{t-|nl|origineel}}, {{t+|nl|oorspronkelijk}}
 * Finnish: {{t+|fi|tuore}}, {{t+|fi|omaperäinen}}, {{t-|fi|originelli}}, {{t-|fi|omintakeinen}}
 * German: {{t+|de|originell}}
-* Greek: {{t|el|αρχικός|m}} (archikós)
-* Russian: {{t+|ru|свежий|tr=svéžij}}, {{t+|ru|своеобразный|tr=svojeobráznyj}}, {{t+|ru|оригинальный|tr=originál’nyj}}
+* Greek: {{t|el|αρχικός|m|tr=archikós}}
 {{trans-mid}}
-* Serbian: [[свеж]] ([[svež]])
+* Russian: {{t+|ru|свежий|tr=svéžij}}, {{t+|ru|своеобразный|tr=svojeobráznyj}}, {{t+|ru|оригинальный|tr=originálʹnyj}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|свеж}}
+*: Roman: {{t|sh|svež}}
 * Spanish: {{t|es|original}}
 * Swahili: {{t+|sw|halisi|xs=Swahili}}
 * Swedish: {{t+|sv|originell}}
@@ -121,7 +123,6 @@ From {{etyl|enm}} {{term|original|lang=enm}}, from {{etyl|fro}} {{term|original|
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|zh}}: [[原始]]的 (yuánshǐ de)
 * {{ttbc|eo}}: [[origina]]
 * {{ttbc|fr}}: {{t+|fr|original|m}}, [[originale]] {{f}}
 * {{ttbc|it}}: [[originale]] {{m|f}}
