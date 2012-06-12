@@ -5,6 +5,8 @@
 ===Etymology===
 From {{etyl|la}} {{term|vector||carrier|lang=la}}, from {{term|veho|vehō|I carry, I bear|lang=la}}.
 
+The "person or entity that passes along an urban legend or other meme" sense derives from the disease sense.
+
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈvɛktə/}}
 * {{a|US}} {{IPA|/ˈvɛktɚ/}}
@@ -13,36 +15,34 @@ From {{etyl|la}} {{term|vector||carrier|lang=la}}, from {{term|veho|vehō|I carr
 ===Noun===
 {{en-noun}}
 
-# {{mathematics}} a [[directed]] [[quantity]], one with both [[magnitude]] and [[direction]]; an [[element]] of a [[vector space]]; the [[difference]] between two [[points]], or an [[ordered pair]] representing such difference; a directed [[line segment]] (which is independent of position, i.e., for which equality is defined as [[translational]] [[congruence]]).
+# {{mathematics}} A [[directed]] [[quantity]], one with both [[magnitude]] and [[direction]]; the {{soplink|signed|difference}} between two [[points]].
 #* {{quote-book|passage=As examples of '''vector''' quantities may be mentioned the distance between any two given points, a velocity, a force, an acceleration, angular velocity, intensity of magnetization flux of heat.|title=[[S:The New Student's Reference Work/Vector|The New Student's Reference Work]]|year=1914}}
-# {{context|aviation}} a chosen [[course]] or [[direction]] for [[motion]], as of an [[aircraft]]
-# {{epidemiology}} a [[carrier]] of a [[disease]]-causing [[agent]]
-# {{sociology}} a person or entity that passes along an [[urban legend]] or other [[meme]] from the concept of biological vector
-# {{psychology}} a recurring psychosocial issue that stimulates growth and development in the personality
-# the way in which the eyes are drawn across the visual text. The trail that a book cover can encourage the eyes to follow from certain objects to others
-# {{computing}} (operating systems) a memory address containing the address of a [[code entry point]], usually one which is part of a [[table]] and often one that is [[dereference|dereferenced]] and [[jump|jumped]] to during the execution of an [[interrupt]]
+# {{mathematics}} An [[order]]ed [[tuple]] representing a [[directed]] [[quantity]] or the {{soplink|signed|difference}} between two points.
+# {{context|aviation}} A chosen [[course]] or [[direction]] for [[motion]], as of an [[aircraft]].
+# {{epidemiology}} A [[carrier]] of a [[disease]]-causing [[agent]].
+# {{sociology}} A person or entity that passes along an [[urban legend]] or other [[meme]].
+# {{psychology}} A recurring psychosocial issue that stimulates growth and development in the personality.
+# The way in which the eyes are drawn across the visual text. The trail that a book cover can encourage the eyes to follow from certain objects to others.{{rfex|lang=en}}
+# {{computing|operating systems}} A memory address containing the address of a [[code entry point]], usually one which is part of a [[table]] and often one that is [[dereference|dereferenced]] and [[jump|jumped]] to during the execution of an [[interrupt]].
 # {{programming}} A one-dimensional [[array]].
 
 ====Usage notes====
-* {{programming}} The term '''vector''' is used loosely when the indices are not (either positive or non-negative) integers.
+* {{sense|programming}} The term {{term||vector}} is used loosely when the indices are not (either positive or non-negative) integers.
 
 ====Derived terms====
-* [[vectorial]]
-* [[vectorially]]
-* [[vectorize]]
 * [[change vector]]
 * [[unit vector]]
 * [[vector algebra]]
 * [[vector field]]
 * [[vector function]]
+* [[vectorial]]
+* [[vectorially]]
+* [[vectorize]]
 * [[vector product]]
 * [[vector space]]
 
-====See also====
-* [[tuple]]
-
 ====Translations====
-{{trans-top|directed quantity (1)}}
+{{trans-top|directed quantity}}
 * Afrikaans: {{t|af|wektor}}
 * Catalan: [[#Catalan|vector]] {{m}}
 * Chinese:
@@ -76,7 +76,7 @@ From {{etyl|la}} {{term|vector||carrier|lang=la}}, from {{term|veho|vehō|I carr
 * Turkish: {{t|tr|vektör}}, {{t|tr|yöney}}
 {{trans-bottom}}
 
-{{trans-top|chosen course or direction for motion (2)}}
+{{trans-top|chosen course or direction for motion}}
 * Catalan: [[vector]] {{m}}
 * Dutch: {{t+|nl|koers|f}}
 * Finnish: {{t+|fi|kurssi}}
@@ -87,7 +87,7 @@ From {{etyl|la}} {{term|vector||carrier|lang=la}}, from {{term|veho|vehō|I carr
 * Swedish: {{t+|sv|vektor|c}}
 {{trans-bottom}}
 
-{{trans-top|carrier of a disease-causing agent (3)}}
+{{trans-top|carrier of a disease-causing agent}}
 * Czech: {{t-|cs|přenašeč|m}}
 * Finnish: {{t-|fi|taudinkantaja}}, {{t-|fi|tartunnanlevittäjä}}
 {{trans-mid}}
@@ -95,7 +95,7 @@ From {{etyl|la}} {{term|vector||carrier|lang=la}}, from {{term|veho|vehō|I carr
 * Spanish: {{t+|es|vector|m}}
 {{trans-bottom}}
 
-{{trans-top|person or entity that passes along an urban legend or other meme (4)}}
+{{trans-top|person or entity that passes along an urban legend or other meme}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -115,7 +115,7 @@ From {{etyl|la}} {{term|vector||carrier|lang=la}}, from {{term|veho|vehō|I carr
 * Swedish: {{t+|sv|vektor|c}}
 {{trans-bottom}}
 
-{{trans-top|one-dimensional array}}
+{{trans-top|programming: one-dimensional array}}
 * Czech: {{t-|cs|vektor|m}}
 * Hebrew: {{t+|he|וקטור|m|tr=vektór}}
 {{trans-mid}}
@@ -126,12 +126,12 @@ From {{etyl|la}} {{term|vector||carrier|lang=la}}, from {{term|veho|vehō|I carr
 ===Verb===
 {{en-verb}}
 
-# to set (particularly an aircraft) a course toward a selected point.
+# To set (particularly an aircraft) on a course toward a selected point.
 #* '''1994''', Eve Kosofsky Sedgwick, ''Tendencies''
-#*: ...if love is '''vectored''' toward an object and Elinor's here flies toward Marianne, Marianne's in turn toward Willoughby.
+#*: {{...}}if love is '''vectored''' toward an object and Elinor's here flies toward Marianne, Marianne's in turn toward Willoughby.
 
 ====Translations====
-{{trans-top|to set (particularly an aircraft) a course toward a selected point}}
+{{trans-top|to set (particularly an aircraft) on a course toward a selected point}}
 * Finnish: [[asettaa]] [[kurssi]]
 {{trans-mid}}
 {{trans-bottom}}
