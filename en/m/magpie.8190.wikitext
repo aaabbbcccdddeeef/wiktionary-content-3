@@ -23,6 +23,9 @@ From [[Mag]], a nickname for [[Margaret]] that was used to denote a [[chatterer]
 * [[maggie]]
 * [[pie]]
 * [[piet]]
+* [[Eurasian Magpie]], ''[[Pica pica]]''
+* [[European Magpie]] ''[[Pica pica]]''
+* [[Common Magpie]] ''[[Pica pica]]''
 
 ====Translations====
 {{trans-top|bird of genus: ''Pica''}}
@@ -44,7 +47,7 @@ From [[Mag]], a nickname for [[Margaret]] that was used to denote a [[chatterer]
 * Czech: {{t-|cs|straka|f}}
 * Danish: {{t-|da|skade|c}}
 * Dutch: {{t+|nl|ekster|m}}
-* Esperanto: {{t-|eo|pigo}} {{qualifier|♂}},  {{t-|eo|pigino}} {{qualifier|♀}}
+* Esperanto: {{qualifier|♂♀}} {{t-|eo|pigo}}, {{qualifier|♂}} {{t-|eo|virpigo}}, {{qualifier|♀}} {{t-|eo|pigino}} 
 * Estonian: {{t-|et|harakas}}
 * Faroese: {{t-|fo|skjóra}}
 * Finnish: {{t+|fi|harakka}}
@@ -99,14 +102,15 @@ From [[Mag]], a nickname for [[Margaret]] that was used to denote a [[chatterer]
 * Ukrainian: {{t-|uk|сорока|tr=soroka|xs=Ukrainian}}
 * Upper Sorbian: {{t-|hsb|sroka}}
 * Vilamovian: {{tø|wym|ołaoster}}
-* Volapük: {{qualifier|♂♀}} {{t|vo|piak}}, {{qualifier|♂}} {{t|vo|hipiak}}, {{qualifier|♀}} {{t|vo|jipiak}}, {{qualifier|♂♀ offspring, young}} {{t|vo|piakül}}, {{qualifier|♂ offspring, young}} {{t|vo|hipiakül}}, {{qualifier|♀ offspring, young}} {{t|vo|jipiakül}}, {{qualifier|older term, ♂♀}} {{t|vo|skadit}}
+* Volapük: {{qualifier|♂♀}} {{t+|vo|piak}}, {{qualifier|♂}} {{t-|vo|hipiak}}, {{qualifier|♀}} {{t-|vo|jipiak}}, {{qualifier|♂♀ offspring, young}} {{t-|vo|piakül}}, {{qualifier|♂ offspring}} {{t-|vo|hipiakül}}, {{qualifier|♀ offspring}} {{t-|vo|jipiakül}}, {{qualifier|older term (cf. Danish ''[[skade]], [[husskade]]''), ♂♀}} {{t-|vo|skadit}}, {{qualifier|♂}} {{t-|vo|hiskadit}}, {{qualifier|♀}} {{t-|vo|jiskadit}}, {{qualifier|♂♀ offspring, young}} {{t-|vo|skaditül}}, {{qualifier|♂ offspring}} {{t-|vo|hiskaditül}}, {{qualifier|♀ offspring}} {{t-|vo|jiskaditül}}
 * Welsh: {{t|cy|pioden}}
 * West Frisian: {{t|fy|ekster}}
 {{trans-bottom}}
 
 {{trans-top|''Pica pica''}}
-* Finnish: {{t|fi|harakka}}
+* Danish: {{t|da|husskade|c}}
 {{trans-mid}}
+* Finnish: {{t|fi|harakka}}
 {{trans-bottom}}
 
 {{trans-top|Australian bird, ''Gymnorhina tibicen''}}
