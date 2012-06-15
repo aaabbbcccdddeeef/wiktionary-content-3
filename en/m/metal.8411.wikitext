@@ -45,16 +45,15 @@ From {{etyl|enm}}, from {{etyl|fro}} {{term|metal||metal|lang=fro}}, from {{etyl
 
 ====Translations====
 {{trans-top|atomic element''' or '''material made of such atoms}}
-* Afrikaans: [[metaal]], {{t|af|metaal}}
-* Arabic: {{t+|ar|معدن|m|tr=máʕdan}}, {{t|ar|معدن|m|tr=máʿdan|sc=Arab}}
+* Afrikaans: {{t|af|metaal}}
+* Arabic: {{t+|ar|معدن|m|tr=máʿdan|sc=Arab}}
 * Armenian: {{t-|hy|մետաղ|tr=metaġ}}
 * Azeri: {{t-|az|metal|xs=Azeri}}
 * Basque: [[metal]]
 * Breton: metal {{m}}, -où {{p}}
 * Catalan: [[metall]]
 * Chinese:
-*: Mandarin: {{t-|cmn|金屬|sc=Hani}}, {{t-|cmn|金属|tr=jīnshǔ|sc=Hani}}, {{t-|cmn|金|tr=jīn|sc=Hani}}
-* Croatian: {{t-|hr|metal|m}}, {{t+|hr|kovina|f}}
+*: Mandarin: {{t+|cmn|金屬|sc=Hani}}, {{t+|cmn|金属|tr=jīnshǔ|sc=Hani}}, {{t+|cmn|金|tr=jīn|sc=Hani}}
 * Czech: {{t+|cs|kov|m}}
 * Danish: {{t-|da|metal}}
 * Dutch: {{t+|nl|metaal|n}}
@@ -75,11 +74,11 @@ From {{etyl|enm}}, from {{etyl|fro}} {{term|metal||metal|lang=fro}}, from {{etyl
 * Icelandic: {{t+|is|málmur}}
 * Ido: {{t+|io|metalo|xs=Ido}}
 * Interlingua: [[metallo]]
-{{trans-mid}}
 * Irish: {{t|ga|miotal|m}}
 * Italian: {{t+|it|metallo}}
-* Japanese: [[金属]] ([[きんぞく]], kinzoku) (1), [[金属製]]の[[もの]] (kinzokusei no mono) (2), {{t|ja|金属|tr=きんぞく, kinzoku|sc=Jpan}}
-* Korean: [[쇠]] (soe), [[금속]] (geumsok), {{t|ko|쇠|tr=soe|sc=Kore}}, {{t|ko|금속|tr=geumsok|sc=Kore}}
+{{trans-mid}}
+* Japanese: {{t|ja|金属|tr=きんぞく, kinzoku|sc=Jpan}}
+* Korean: {{t|ko|쇠|tr=soe|sc=Kore}}, {{t|ko|금속|tr=geumsok|sc=Kore}} ({{t|ko|金屬|sc=Kore}})
 * Latin: {{t+|la|metallum|n}}
 * Latvian: [[metāls]] {{m}} (1,2,5)
 * Lithuanian: {{t|lt|metalas|m|xs=Lithuanian}}
@@ -92,9 +91,12 @@ From {{etyl|enm}}, from {{etyl|fro}} {{term|metal||metal|lang=fro}}, from {{etyl
 * Polish: {{t+|pl|metal|m}}
 * Portuguese: {{t+|pt|metal|m}}
 * Romanian: {{t+|ro|metal|n}}
-* Russian: {{t+|ru|металл|m|tr=metáll}}, {{t|ru|крушец|sc=Cyrl}} (archaic)
+* Russian: {{t+|ru|металл|m|tr=metáll}}, {{t|ru|крушец|m|tr=krušéc|sc=Cyrl}} (archaic)
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|метал|m}}, {{t|sh|ковина|f}}
+*: Roman: {{t|sh|metal|m}}, {{t|sh|kovina|f}}
 * Slovak: {{t-|sk|kov|m}}
-* Slovene: [[kovina]] {{f}} (1, 2)
+* Slovene: {{t|sl|kovina|f}}
 * Spanish: {{t+|es|metal|m}}
 * Swahili: {{t|sw|chuma}}
 * Swedish: {{t+|sv|metall|c}}
