@@ -24,14 +24,17 @@ From {{etyl|fro}} {{term|potable|lang=fro}}, from {{etyl|la}} {{term|potabilis|p
 
 ====Translations====
 {{trans-top|good for drinking}}
+* Asturian: {{t|ast|potable}}
 * Belarusian: {{t|be|пітны|tr=pítny|sc=Cyrl}}
 * Bulgarian: {{t|bg|питеен|tr=piteen|sc=Cyrl}}
+* Catalan: {{t|ca|potable}}
 * Chinese:
 *: Mandarin: {{t-|cmn|飲用|alt=可飲用的|tr=kě yǐnyòng de|sc=Hani}}, {{t-|cmn|饮用|alt=可饮用的|tr=kě yǐnyòng de|sc=Hani}}
 * Czech: {{t|cs|pitný}}
 * Dutch: {{t-|nl|drinkbaar}}, {{t-|nl|drinkbare}}
-* Finnish: [[juomakelpoinen]]
+* Finnish: {{t|fi|juomakelpoinen}}
 * French: {{t+|fr|potable}}
+* Galician: {{t|gl|potable}}
 * Georgian: {{t+|ka|სასმელი|sc=Geor|xs=Georgian}}, {{t|ka|სასმელად ვარგისი|sc=Geor|xs=Georgian}}
 * German: {{t-|de|trinkbar}}
 * Haitian Creole: {{tø|ht|potab}}
@@ -39,9 +42,10 @@ From {{etyl|fro}} {{term|potable|lang=fro}}, from {{etyl|la}} {{term|potabilis|p
 {{trans-mid}}
 * Italian: {{t+|it|potabile}}
 * Manx: {{t|gv|iuoil}}, {{t|gv|yn-iu}}
+* Occitan: {{t|oc|potable}}
 * Persian: {{t|fa|آشامیدنی|tr=âšâmidani|sc=fa-Arab}}
 * Polish: {{t|pl|pitny}}
-* Portuguese: [[potável]]
+* Portuguese: {{t|pt|potável}}
 * Romanian: {{t-|ro|potabil}}
 * Russian: {{t|ru|питьевой|tr=pitʹjevój|sc=Cyrl}}
 * Spanish: {{t-|es|potable}}
@@ -58,6 +62,18 @@ From {{etyl|fro}} {{term|potable|lang=fro}}, from {{etyl|la}} {{term|potabilis|p
 
 ----
 
+==Catalan==
+
+===Etymology===
+From {{etyl|la}} {{term|potabilis|pōtābilis|lang=la}}.
+
+===Adjective===
+{{ca-adj|type=mf}}
+
+# {{l|en|potable}}
+
+----
+
 ==French==
 
 ===Etymology===
@@ -69,7 +85,7 @@ From {{etyl|LL.|fr}} ''[[potabilis]]'' (verb: [[potare]] "to drink").
 ===Adjective===
 {{fr-adj-mf}}
 
-# [[#English|potable]]
+# {{l|en|potable}}
 
 ----
 
@@ -90,10 +106,13 @@ From {{etyl|LL.|fr}} ''[[potabilis]]'' (verb: [[potare]] "to drink").
 
 ==Spanish==
 
-===Adjective===
-{{es-adj|f=potable}}
+===Etymology===
+From {{etyl|la|es}} {{term|potabilis|pōtābilis|lang=la}}.
 
-# [[#English|potable]]
+===Adjective===
+{{es-adj}}
+
+# {{l|en|potable}}
 
 [[de:potable]]
 [[el:potable]]
