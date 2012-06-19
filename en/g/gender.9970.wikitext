@@ -67,7 +67,6 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|gendre}}/{{term|genre}}, from {{etyl
 * Afrikaans: {{t|af|geslag|xs=Afrikaans}}
 * Arabic: {{t+|ar|جنس|m|tr=jins}}
 * Armenian: {{t-|hy|սեռ|tr=seṙ}}
-* Bosnian: {{t-|bs|rod|m}}
 * Catalan: {{t|ca|gènere|m}}
 * Chechen: {{tø|ce|род}}
 * Chinese:
@@ -94,9 +93,9 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|gendre}}/{{term|genre}}, from {{etyl
 * Portuguese: {{t+|pt|gênero}}
 * Russian: {{t+|ru|род|m|tr=rod}}
 * Scottish Gaelic: {{t|gd|gnè|f}}
-* Serbian:
-*: Cyrillic: {{t-|sr|род|m|sc=Cyrl}}
-*: Roman: {{t-|sr|rod|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|род|m|sc=Cyrl}}
+*: Roman: {{t-|sh|rod|m}}
 * Slovak: {{t-|sk|rod|m}}
 * Spanish: {{t+|es|género|m}}
 * Swedish: {{t+|sv|genus|n}}
@@ -115,20 +114,21 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|gendre}}/{{term|genre}}, from {{etyl
 {{trans-bottom}}
 
 {{trans-top|behavioural characteristics}}
-* Dutch: {{t+|nl|sekse|f}}, {{t+|nl|geslacht|n}}
+* Dutch: {{t+|nl|sekse|c}}, {{t+|nl|geslacht|n}}, {{t|nl|gender|c}}
 * Finnish: [[sukupuoli]], [[sosiaalinen sukupuoli]]
 * French: {{t+|fr|genre|m}}
 * Hebrew: {{t+|he|מגדר}}
 {{trans-mid}}
 * Scottish Gaelic: [[gnè]] {{f}}
-* Serbian: {{t|sr|rod|m|tr=род|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|род|m|sc=Cyrl}}
+*: Roman: {{t-|sh|rod|m}}
 * Swedish: {{t+|sv|genus}}, {{t+|sv|könsroll}}
 {{trans-bottom}}
 
 {{trans-top|the sex of persons or animals}}
 * Arabic: {{t+|ar|جنس|m|tr=jins}}
 * Armenian: {{t-|hy|սեռ|tr=seṙ}}
-* Bosnian: {{t-|bs|pol|m}}
 * Catalan: {{t|ca|gènere|m}}
 * Chinese:
 *: Mandarin: {{t-|cmn|性別|sc=Hani}},  {{t-|cmn|性别|tr=xìngbié|sc=Hani}}
@@ -153,9 +153,9 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|gendre}}/{{term|genre}}, from {{etyl
 * Romanian: {{t-|ro|gen}}, {{t+|ro|sex}}
 * Russian: {{t+|ru|пол|m|tr=pol}}
 * Scottish Gaelic: {{t|gd|gnè|f}}
-* Serbian:
-*: Cyrillic: {{t-|sr|пол|m|sc=Cyrl}}
-*: Roman: {{t-|sr|pol|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|пол|m|sc=Cyrl}}
+*: Roman: {{t-|sh|pol|m}}
 * Slovene: {{t+|sl|spol|m}}
 * Spanish: {{t+|es|sexo|m}}, {{t|es|género|m}}
 * Swahili: {{t|sw|jinsia|xs=Swahili}}
@@ -163,7 +163,6 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|gendre}}/{{term|genre}}, from {{etyl
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sh}}: {{t-|bs|pol|m}}
 * {{ttbc|it}}: [[sesso]] {{m}}, [[genere]] {{m}}
 * {{ttbc|ko}}: [[성별]] ([[性別]], seongbyeol)
 * {{ttbc|pt}}: [[sexo]] {{m}}
@@ -171,8 +170,8 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|gendre}}/{{term|genre}}, from {{etyl
 * {{ttbc|gd}}: [[gnè]] {{f}}, [[seòrsa]] {{m}}
 {{trans-mid}}
 * {{ttbc|sh}}:
-*: Cyrillic: {{t-|sr|пол|m|sc=Cyrl}} (pol)
-*: Roman: {{t-|sr|pol|m}}
+*: Cyrillic: {{t-|sh|пол|m|sc=Cyrl}} (pol)
+*: Roman: {{t-|sh|pol|m}}
 * {{ttbc|sk}}: [[pohlavie]] {{n}}
 * {{ttbc|es}}: [[género]] {{m}}
 * {{ttbc|sv}}: [[kön]] {{n}}
