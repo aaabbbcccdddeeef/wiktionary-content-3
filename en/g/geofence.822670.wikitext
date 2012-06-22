@@ -4,4 +4,8 @@
 ===Noun===
 {{en-noun}}
 
-# A geofence is a boundary defined around a location or area on the Earth's surface. The current position of an asset (typically obtained using GPS) is compared with the boundary and an alert triggered on entry or exit. A geofence may be a simple circle defined by a centre coordinate and radius, or a more complex shape defined by vertices of a polygon or a series of circular arcs.
+# A virtual perimeter around a geographic area. {{n-g|Geofences are typically enforced by monitoring the positions of trackable (e.g. GPS-equipped) devices inside or outside the fenced-in area, and determining if they cross the fence.}}
+#* '''2011''', Chuck Martin, ''The Third Screen: Marketing to Your Customers in a World Gone Mobile'', page 144:
+#*: A '''geofence''' could be a mile or more around a store or it could be fifty feet from the front door, whatever the business decides.
+#* '''2012''', Dan Burges, ''Cargo Theft, Loss Prevention, and Supply Chain Security'':
+#*: It is recommended that the load be monitored actively or that alerts in the event of a '''geofence''' break be sent to an offsite monitoring service in addition to the shipper's point of contact in order to expedite the escalation {{...}}
