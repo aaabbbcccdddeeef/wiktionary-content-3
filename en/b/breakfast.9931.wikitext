@@ -57,10 +57,11 @@ From {{term|break}} + {{term|fast}}; to end the nightly fast.
 * German: {{t+|de|Frühstück|n}}, {{t|de|Zmorge|f}} {{qualifier|Swiss German}}, {{qualifier|Swiss German}} {{t|de|Morgenessen|n}}
 * Greek: {{t+|el|πρωινό|n|tr=proinó}}, {{t+|el|πρόγευμα|n|tr=prógevma}}
 * Guernésiais: {{tø|roa-grn|déjunaïr|m}}
+* Gujarati: {{t|gu|નાસ્તો|tr=nāsto|sc=Gujr}}
 * Haitian Creole: {{tø|ht|dejene|xs=Haitian Creole}}
 * Hawaiian: [[ʻaina kakahiaka]]
 * Hebrew: {{t|he|ארוחת־בוקר|f|tr=arukhat-boqer|sc=Hebr}}
-* Hindi: {{t|hi|नाश्ता|m|tr=nāśtā|sc=Deva}}
+* Hindi: {{t|hi|नाश्ता|tr=nāśtā|m|xs=Hindi}}, {{t|hi|कलेवा|tr=kalevā|m|xs=Hindi}}
 * Hmong: [[pluag]] [[tshais]]
 * Hungarian: {{t+|hu|reggeli}}
 * Icelandic: {{t+|is|morgunmatur|m}}
@@ -91,9 +92,10 @@ From {{term|break}} + {{term|fast}}; to end the nightly fast.
 *: Nynorsk: {{t-|no|frukost|m}}
 * Occitan: {{t+|oc|dejunar|m|xs=Occitan}}
 * Ojibwe: {{tø|oj|gigizhebaa-wiisiniwin}}
-* Persian: {{t|fa|صبحانه|tr=sobhâne|sc=fa-Arab}}
+* Persian: {{t|fa|صبحانه|tr=sobhâne|xs=Persian}}, {{t|fa|ناشتا|tr=nâštâ|xs=Persian}}
 * Polish: {{t+|pl|śniadanie|n}}
 * Portuguese: {{t+|pt|café da manhã|m}}, {{t+|pt|desjejum|f}}, {{t+|pt|pequeno-almoço|m}}
+* Rajasthani: {{tø|raj|नास्तौ|tr=nāstau|sc=Deva}}, {{t|raj|कलेवौ|tr=kalevau|sc=Deva}}
 * Romanian: {{t|ro|mic dejun|n}}
 * Russian: {{t+|ru|завтрак|m|tr=závtrak}}
 * Serbo-Croatian:
@@ -111,23 +113,19 @@ From {{term|break}} + {{term|fast}}; to end the nightly fast.
 * Thai: {{t|th|ข้าวเช้า|tr=kâao cháo|sc=Thai}}
 * Turkish: {{t+|tr|kahvaltı}}
 * Ukrainian: {{t|uk|сніданок|m|tr=snidánok|sc=Cyrl}}
-* Urdu: {{t|ur|ناشتا|m|tr=nāśtā|sc=ur-Arab}}
-* Uyghur: {{t|ug|ناشتا|tr=nashta|sc=ug-Arab}}, {{t|ug|ناشتا|p|sc=ug-Arab}}
+* Urdu: {{t|ur|ناشتا|tr=nāśtā|m|xs=Urdu}}, {{t|ur|کلیوا|tr=kalevā|m|xs=Urdu}}
+* Uyghur: {{t|ug|ناشتا|tr=nashta|sc=ug-Arab}}
 * Vietnamese: {{t-|vi|bữa sáng|xs=Vietnamese}}
 * Welsh: [[brecwast]] {{m}}, {{t|cy|borefwyd|m|xs=Welsh}}
 * West Frisian: [[moarnsiten]] {{n}}, [[brea-iten]] {{n}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sh}}: [[doručak]] {{m}}
-* {{ttbc|hi}}: [[नाशिता]] (nāšitā), [[कलेवा]] (kalevā)
 * {{ttbc|is}}: [[morgunmatur]] {{m}}, [[morgunverður]] {{m}}, [[dögurður]] {{m}}, [[árbítur]] {{m}}
 * {{ttbc|ku}}: {{ku-Arab|[[به‌رچای]]}}
 {{trans-mid}}
 * {{ttbc|dsb}}: [[snědanje]] {{n}}
-* {{ttbc|fa}}: {{fa-Arab|[[صبحانه]]}} (sobhāne)
 * {{ttbc|hsb}}: [[snědanje]]
-* {{ttbc|ur}}: {{ur-Arab|[[ناشتا]]}} (nāšitā), {{ur-Arab|[[کلیوا]]}} (kalevā)
 {{trans-bottom}}
 
 ====See also====
@@ -147,29 +145,31 @@ From {{term|break}} + {{term|fast}}; to end the nightly fast.
 
 ====Translations====
 {{trans-top|to eat the morning meal}}
-* Armenian: [[նախաճաշել]] (naxač̣ašel)
+* Armenian: {{t|hy|նախաճաշել|tr=naxač̣ašel}}
 * Basque: {{t+|eu|gosaldu|xs=Basque}}
 * Bulgarian: {{t-|bg|закусвам}}
 * Burmese: {{term|မနက်စာစား|tr=manakcācā:|sc=Mymr}}
 * Catalan: {{t+|ca|esmorzar}}
 * Croatian: {{t-|hr|doručkovati|alt=dòručkovati}}, {{t|hr|zajutarkovati|alt=zàjutārkovati}}
-* Czech: [[snídat]]
+* Czech: {{t|cs|snídat}}
 * Dutch: {{t+|nl|ontbijten}}
 * Esperanto: {{t|eo|matenmanĝi}}
 * French: {{t|fr|prendre le petit-déjeuner}}
 * German: {{t+|de|frühstücken}}
-{{trans-mid}}
 * Greek: {{t+|el|προγευματίζω|tr=progevmatízo}}, {{t|el|παίρνω πρωινό|tr=paírno proinó}}
 * Hungarian: {{t+|hu|reggelizik}}
+{{trans-mid}}
 * Polish: {{qualifier|archaic}} {{t-|pl|śniadać}}
 * Portuguese: [[desjejuar]]
 * Russian: {{t|ru|завтракать|tr=závtrakat’|alt=за́втракать}} {{impf}}, {{t|ru|позавтракать|tr=pozávtrakat’|alt=поза́втракать}} {{pf.}}
-* Serbian: {{t-|sr|doručkovati}}
-* Slovak: [[raňajkovať]]
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|доручковати|sc=Cyrl}}
+*: Roman: {{t|sh|doručkovati}}
+* Slovak: {{t|sk|raňajkovať}}
 * Slovene: {{t+|sl|zajtrkovati}}
 * Spanish: {{t+|es|desayunar}}
 * Swedish: {{t|sv|äta}} {{t|sv|frukost}}
-* Turkish: {{t+|tr|kahvaltı}}
+* Turkish: {{t|tr|kahvaltı etmek}}, {{t|tr|kahvaltı yapmak}}
 {{trans-bottom}}
 
 ===Anagrams===
