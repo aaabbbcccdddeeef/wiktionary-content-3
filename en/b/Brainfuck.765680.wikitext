@@ -6,5 +6,27 @@
 {{en-proper noun}}
 
 # A [[minimalist]] [[esoteric]] [[programming language]], created for amusement, in which every basic [[machine instruction]] is represented by a single [[character]].
+#* {{quote-book
+|title=Information and Communications Security: 12th International Conference, Icics 2010, Barcelona, Spain, December 15-17, 2010 Proceedings
+|author=Miguel Soriano, Sihan Qing, Javier López
+|year=2010
+|page=345
+|ISBN=3642176496
+|passage='''Brainfuck''' language is the gotoless programming language, and it has a implicit byte pointer which is free to move {{...}} In addition, '''Brainfuck''' defines only eight-instructions associated with the pointer{{...}}}}
+#* {{quote-book
+|title=Software Studies: A Lexicon
+|author=Matthew Fuller
+|year=2008
+|page=269
+|ISBN=0262062747
+|passage='''Brainfuck''' is an archetypically minimalist language, providing merely eight commands, each represented by a single character. These commands operate on an array of 30000 byte cells initialized to 0.}}
+#* {{quote-book
+|title=Get real: real time + art + theory + practice + history
+|author=G. Braziller, Inc.
+|editors=Morten Søndergaard, Perttu Rastas, Björn Norberg
+|year=2005
+|page=48
+|ISBN=0807615641
+|passage=Some eccentric languages are structurally just as simple, but intentionally made awfully hard to understand — like the notorious languages '''Brainfuck''' {{...}} or Malbolge.}}
 
 [[Category:en:Computer languages]]
