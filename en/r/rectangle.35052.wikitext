@@ -14,7 +14,7 @@ From {{etyl|frm|en}}, from {{etyl|fro|en}}, from {{etyl|ML.}} {{term|rectanglum|
 # {{geometry}} A [[quadrilateral]] having [[opposing]] sides [[parallel]] and four [[right angle]]s.
 
 ====Synonyms====
-* {{sense|quadrilateral}} [[oblong]] (''not in technical use'')
+* {{sense|quadrilateral}} [[oblong]] {{qualifier|not in technical use}}
 
 ====Hyponyms====
 * {{sense|quadrilateral}} [[square]]
@@ -36,7 +36,7 @@ From {{etyl|frm|en}}, from {{etyl|fro|en}}, from {{etyl|ML.}} {{term|rectanglum|
 * Bosnian: {{t-|bs|pravougaonik}}
 * [[Breton]]: {{t-|br|skouergorneg|xs=Breton}}
 * Bulgarian: {{t-|bg|правоъгълник}}
-* [[Catalan]]: {{t-|ca|rectangle}}
+* [[Catalan]]: {{t-|ca|rectangle|m}}
 * Chinese:
 *: Mandarin: {{t-|cmn|長方形|sc=Hani}}, {{t-|cmn|长方形|tr=chángfāngxíng|sc=Hani}}, {{t|cmn|矩形|tr=jǔxíng|sc=Hani}}
 * Croatian: {{t-|hr|pravokutnik|m}}
@@ -48,6 +48,7 @@ From {{etyl|frm|en}}, from {{etyl|fro|en}}, from {{etyl|ML.}} {{term|rectanglum|
 * Estonian: {{t+|et|ristkülik}}
 * Finnish: {{t+|fi|suorakulmio}}
 * French: {{t+|fr|rectangle|m}}
+* Galician: {{t|gl|rectángulo|m}}
 * Georgian: {{t-|ka|მართკუთხედი|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Rechteck|n}}, {{t-|de|Karree|n}}, {{t-|de|Orthogon}}
 * Greek: {{t+|el|ορθογώνιο παραλληλόγραμμο}}
@@ -56,10 +57,10 @@ From {{etyl|frm|en}}, from {{etyl|fro|en}}, from {{etyl|ML.}} {{term|rectanglum|
 * Hindi: {{t-|hi|आयत|xs=Hindi}}, {{t-|hi|समकोण समानान्तर चतुर्भुज|xs=Hindi}}
 * Hungarian: {{t+|hu|téglalap}}
 * Icelandic: {{t-|is|rétthyrningur}}
-* [[Ido]]: [[rektangulo]]
+* [[Ido]]: {{t|io|rektangulo}}
 * Indonesian: {{t-|id|persegi panjang|xs=Indonesian}}
 * [[Interlingua]]: {{t|ia|rectangulo|m|xs=Interlingua}}
-* Irish: [[dronuilleog]]
+* Irish: {{t|ga|dronuilleog}}
 * Italian: {{t+|it|rettangolo|m}}
 * Japanese: {{t+|ja|長方形|tr=[[ちょうほうけい]], chōhōkei}}
 * [[Khmer]]: {{t-|km|ចតុកោណកែង|xs=Khmer}}
@@ -78,12 +79,12 @@ From {{etyl|frm|en}}, from {{etyl|fro|en}}, from {{etyl|ML.}} {{term|rectanglum|
 * [[Occitan]]: {{t+|oc|rectangle|m|xs=Occitan}}
 * Persian: {{t-|fa|مستطیل|xs=Persian}}
 * Polish: {{t+|pl|prostokąt}}
-* Portuguese: {{t+|pt|rectângulo}}
+* Portuguese: {{t+|pt|rectângulo|m}}
 *: {{qualifier|Brazil}}: {{t+|pt|retângulo}}
 * [[Quechua]]: {{t-|qu|wask'a|xs=Quechua}}
 * Romanian: {{t-|ro|dreptunghi}}
 * Russian: {{t+|ru|прямоугольник}}
-* [[Scottish Gaelic]]: [[dronn-uileannag]] {{f}}, [[ceart-cheàrnach]] {{m}}
+* [[Scottish Gaelic]]: {{t|gd|dronn-uileannag|f}}, {{t|gd|ceart-cheàrnach|m}}
 * Serbian:
 *: Cyrillic: {{t-|sr|правоугаоник|m|sc=Cyrl}}
 *: Latin: {{t-|sr|pravougaonik|m}}, [[pravokutnik]] {{m}}
@@ -114,6 +115,20 @@ From {{etyl|frm|en}}, from {{etyl|fro|en}}, from {{etyl|ML.}} {{term|rectanglum|
 
 ----
 
+==Catalan==
+
+===Noun===
+{{ca-noun|m}}
+
+# {{l|en|rectangle}}
+
+====Related terms====
+* {{l|ca|rectangular}}
+
+[[Category:ca:Shapes]]
+
+----
+
 ==French==
 
 ===Pronunciation===
@@ -122,7 +137,7 @@ From {{etyl|frm|en}}, from {{etyl|fro|en}}, from {{etyl|ML.}} {{term|rectanglum|
 ===Noun===
 {{fr-noun|m}}
 
-# [[#English|rectangle]]
+# {{l|en|rectangle}}
 
 ===Anagrams===
 * [[glacèrent#French|glacèrent]]
