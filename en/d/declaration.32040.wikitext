@@ -20,7 +20,7 @@
 # {{computing}} The specification of a variables type
 
 ====Quotations====
-* '''1611''', [[w:King James Version of the Bible|King James Version of the Bible]], ''[[s:Bible (King James)/Luke|Luke]] 1:1''
+* '''1611''', {{w|King James Version of the Bible}}, ''[[s:Bible (King James)/Luke|Luke]] 1:1''
 *: Forasmuch as many have taken in hand to set forth in order a '''declaration''' of those things which are most surely believed among us...
 
 ====Synonyms====
@@ -30,51 +30,63 @@
 
 ====Translations====
 {{trans-top|written or oral indication of a fact, opinion, or belief}}
-* Arabic: {{Arab|[[إعلان]]}} (ʼiʻlān) {{m}}
+* Arabic: {{t|ar|إعلان|tr=ʼiʻlān|m}}
+* Asturian: {{t|ast|declaración|f}}
 * Bulgarian: {{t|bg|заявление|n}}, {{t+|bg|декларация|f}}
+* Catalan: {{t|ca|declaració|f}}
+* Chinese:
+*: Mandarin: {{t|cmn|聲明}}, {{t|cmn|声明|tr=shēngmíng}}
 * Dutch: {{t+|nl|verklaring|f}}, {{t|nl|declaratie|f}}
 * Esperanto: {{t|eo|deklaracio}}
 * Finnish: {{t-|fi|julistus}}, {{t-|fi|tiedoksianto}}
 * French: {{t+|fr|déclaration|f}}
+* Galician: {{t|gl|declaración|f}}
 * German: {{t+|de|Erklärung|f}}, {{t+|de|Deklaration|f}}
-* Hebrew: [[הצהרה]] (hatzhara) {{f}}
+* Hebrew: {{t|he|הצהרה|tr=hatzhara|f}}
 {{trans-mid}}
-* Japanese: {{Jpan|[[宣言]]}} ({{Jpan|[[せんげん]]}}, sengen)
-* Mandarin: [[聲明]], [[声明]] (shēngmíng)
-* Norwegian: {{t-|no|erklæring}} {{m}}/{{f}}
-* Portuguese: {{t+|pt|declaração}}
+* Japanese: {{t|ja|宣言|tr=せんげん, sengen}}
+* Norwegian: {{t-|no|erklæring|m|f}}
+* Portuguese: {{t+|pt|declaração|f}}
 * Romanian: {{t|ro|declarație|f}}
-* Russian: [[заявление]] (zajavl'énije) {{n}}, [[декларация]] (deklarátsija) {{f}}
+* Russian: {{t|ru|заявление|tr=zajavl'énije|n}}, {{t|ru|декларация|tr=deklarátsija|f}}
+* Spanish: {{t|es|declaración|f}}
 * Swedish: {{t|sv|tillkännagivande}}
 * Turkish: {{t+|tr|açıklama}}
 {{trans-bottom}}
 
 {{trans-top|list of items for various legal purposes}}
 * Bulgarian: {{t+|bg|декларация|f}}
+* Catalan: {{t|ca|declaració|f}}
+* Chinese:
+*: Mandarin: {{t|cmn|報單}}, {{t|cmn|报单|tr=bàodān}}
 * French: {{t+|fr|déclaration|f}}
 * German: {{t+|de|Erklärung|f}}, {{t+|de|Deklaration|f}}
 * Irish: {{t|ga|dearbhú|m}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[به‌یان]]}}
+*: Sorani: {{t|ku|به‌یان}}
 {{trans-mid}}
-* Mandarin: [[報單]], [[报单]] (bàodān)
-* Portuguese: [[declaração]]
+* Portuguese: {{t|pt|declaração|f}}
 * Russian: {{t+|ru|декларация|f|tr=d'eklarácija}}
 * Turkish: {{t+|tr|beyanat|tr=beyānāt}}
 {{trans-bottom}}
 
 {{trans-top|act or process of declaring}}
+* Asturian: {{t|ast|declaración|f}}
 * Bulgarian: {{t|bg|заявяване|n}}, {{t|bg|деклариране|n}}
+* Catalan: {{t|ca|declaració|f}}
+* Chinese:
+*: Mandarin: {{t|cmn|報單}}, {{t|cmn|报单|tr=bàodān}}, {{t|cmn|宣言|tr=xuānyán}}
 * Czech: {{t-|cs|vyhlášení|n}}
 * Finnish: {{t-|fi|julistus}}
 * French: {{t+|fr|déclaration|f}}
+* Galician: {{t|gl|declaración|f}}
 * German: {{t+|de|Erklärung|f}}, {{t+|de|Deklaration|f}}
-* Hebrew: [[הצהרה]] (hatzhara) {{f}}
+* Hebrew: {{t|he|הצהרה|tr=hatzhara|f}}
 {{trans-mid}}
-* Mandarin: [[報單]], [[报单]] (bàodān), [[宣言]] (xuānyán)
-* Portuguese: [[declaração]]
+* Portuguese: {{t|pt|declaração|f}}
 * Romanian: {{t|ro|declarare|f}}
-* Russian: [[заявление]] (zajavl'énije) {{n}}, [[объявление]] (objavl'énije) {{n}}
+* Russian: {{t|ru|заявление|tr=zajavl'énije|n}}, {{t|ru|объявление|tr=objavl'énije|n}}
+* Spanish: {{t|es|declaración|f}}
 * Swedish: {{t|sv|förklara}}, {{t|sv|deklarera}}
 {{trans-bottom}}
 
@@ -82,18 +94,17 @@
 {{trans-mid}}
 {{trans-bottom}}
 
+{{trans-top|specification of a variables type}}
+* German: {{t+|de|Deklaration|f}}
+{{trans-mid}}
+* Turkish: {{t+|tr|açıklayıcı deyim}}
+{{trans-bottom}}
+
 {{checktrans-top}}
 * {{ttbc|eo}}: [[deklaro]]
 * {{ttbc|it}}: [[dichiarazione]] {{f}}
 {{trans-mid}}
 * {{ttbc|ko}}: [[선언]]
-* {{ttbc|es}}: [[declaración]] {{f}}
-{{trans-bottom}}
-
-{{trans-top|specification of a variables type}}
-* German: {{t+|de|Deklaration|f}}
-{{trans-mid}}
-* Turkish: {{t+|tr|açıklayıcı deyim}}
 {{trans-bottom}}
 
 ====See also====
