@@ -46,7 +46,7 @@
 * Belarusian: {{t|be|асёл|m|tr=asjól|sc=Cyrl}}
 * Bengali: {{t|bn|গাধা|tr=gadha|sc=Beng}}
 * Breton: [[azen]]
-* Bulgarian: {{t|bg|магаре|n|tr=magare}}
+* Bulgarian: {{t|bg|магаре|n|tr=magáre}}
 * Catalan: {{t+|ca|ase|m}}, {{t+|ca|somera|f}}, {{t+|ca|burro|m}}, {{t-|ca|burra|f}}, {{t+|ca|ruc|m}}, {{t-|ca|ruca|f}}
 * Cherokee: [[ᏗᎦᎵᏅᎯᏛ]] (digalinvhidv)
 * Chickasaw: [[haksibish falaa']]
@@ -111,7 +111,7 @@
 * Romani: [[magari]] {{m}}, [[magarka]] {{f}}
 * Romanian: {{t+|ro|măgar}}, {{t+|ro|asin|m}}
 * Romansch: [[asen]]
-* Russian: {{t|ru|осёл|tr=osjól|m}}, {{t|ru|ишак|tr=išák|m}}, {{t|ru|ослица|f|tr=oslíca|sc=Cyrl}}
+* Russian: {{t|ru|осёл|tr=osjól|m}}, {{t|ru|ослица|f|tr=oslíca|sc=Cyrl}} {{qualifer|female}}; {{t|ru|ишак|tr=išák|m}}
 * Sami: [[áse]], [[ásen]]
 * Sardinian: [[burriccu]], [[molenti]], [[molingianu]], [[àinu]]
 * Scots: [[cuddie]]
@@ -128,7 +128,7 @@
 * Swahili: {{t+|sw|punda|xs=Swahili}}
 * Swedish: {{t+|sv|åsna}}
 * Tajik: {{t-|tg|хар|tr=xar|sc=Cyrl|xs=Tajik}}
-* Tamil: {{t|ta|கழுதை|sc=Taml}}
+* Tamil: {{t|ta|கழுதை|tr=kaḻutai|sc=Taml}}
 * Taos: [[mùldu’úna]]
 * Tatar: {{t+|tt|ишәк|tr=işäk|sc=Cyrl|xs=Tatar}}
 * Telugu: [[గాడిద]] (gaaDida)
@@ -148,7 +148,7 @@
 
 {{trans-top|a stubborn person}}
 * Armenian: {{t-|hy|էշ|tr=ēš}}
-* Bulgarian: {{t|bg|инат|m}}
+* Bulgarian: {{t|bg|инат|m|tr=inat}}
 * Dutch: [[ezel]] {{m}}, [[koppige]] ezel {{m}}
 * Finnish: {{t+|fi|aasi}}
 * German: {{t+|de|Esel|m}}
@@ -166,9 +166,8 @@
 {{trans-bottom}}
 
 {{trans-top|a fool}}
-* Arabic: {{t+|ar|حمار|m|tr=ħimār}}
+* Arabic: {{t+|ar|حمار|m|tr=ḥimār}}
 * Armenian: {{t-|hy|էշ|tr=ēš}}
-* Bosnian: {{t-|bs|magarac|m}}
 * Czech: {{t|cs|osel|m}}
 * Dutch: [[ezel]] {{m}}, [[domme]] ezel {{m}}
 * Finnish: {{t+|fi|aasi}}
@@ -186,9 +185,9 @@
 * Persian: {{fa-Arab|[[هالو]]}} (hâlu)
 * Portuguese: [[jumento]] {{m}}, [[jumenta]] {{f}}, {{t|pt|asno|m}}, [[jegue]] {{m}}, {{t|pt|burro|m}}
 * Russian: {{t|ru|осёл|tr=osjól|m}}
-* Serbian:
-*: Cyrillic: [[магарац]] {{m}}
-*: Roman: [[magarac#Serbian|magarac]] {{m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|магарац|m}}
+*: Roman: {{t|sh|magarac|m}}
 * Slovak: {{t|sk|somár|m}}, {{t|sk|osol|m}}
 * Slovene: {{t+|sl|osel|m}}
 * Spanish: {{t+|es|burro|m}}
