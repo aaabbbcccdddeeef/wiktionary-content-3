@@ -68,21 +68,19 @@ From {{etyl|enm|en}} {{term|fether|lang=enm}}, from {{etyl|ang}} {{term|feþer|l
 * Afrikaans: {{t|af|veer}}, {{t|af|pluim}}
 * Ainu: {{tø|ain|コンコン|tr=konkon}}, {{tø|ain|コンコニ|tr=konkoni}}, {{tø|ain|ラㇷ゚|tr=rap}}
 * Albanian: {{t-|sq|pendë|f|xs=Albanian}}
-* Arabic: {{Arab|[[ريش]]}} (reish) {{m}}, {{qualifier|collective}} {{t|ar|ريش|m|tr=rīš|sc=Arab}}, {{qualifier|singulative}} {{t|ar|ريشة|f|tr=rīša|sc=Arab}}
-*: [[Egyptian Arabic]]: {{tø|arz|ريشة|f|tr= risha|sc=Arab}}, {{tø|arz|ريش|m|p|tr=rish|sc=Arab}}
+* Arabic: {{qualifier|collective}} {{t|ar|ريش|m|tr=rīš|sc=Arab}}, {{qualifier|singulative}} {{t|ar|ريشة|f|tr=rīša|sc=Arab}}
+*: [[Egyptian Arabic]]: {{tø|arz|ريشة|f|tr=riša|sc=Arab}}, {{tø|arz|ريش|m|p|tr=riš|sc=Arab}}
 * Armenian: {{t-|hy|փետուր|tr=p'etur}}
 * Aromanian: {{tø|rup|peanã}}
 * Basque: {{t|eu|luma}}
 * Belarusian: {{t|be|пяро|n|tr=pjaró|sc=Cyrl}}
-* Bosnian: {{t-|bs|pero|n}}
 * Bulgarian: {{t|bg|перо|n|tr=peró|sc=Cyrl}}
 * Burmese: {{t|my|အတောင်|tr=ătaung|sc=Mymr}}
 * Catalan: [[ploma]] {{f}}
 * Chamicuro: {{tø|ccc|pwaye}}
-* Chinese: {{zh-zh-p|羽毛|yǔmáo}}
+* Chinese:
 *: Mandarin: {{t|zh|羽毛|tr=yǔmáo|sc=Hani}}
 * Chumash: [[qap]]
-* Croatian: {{t+|hr|pero|n|alt=pèro}}
 * Czech: {{t-|cs|péro|n}}
 * Danish: {{t-|da|fjer|c}}
 * Dutch: {{t+|nl|veer|f}}, {{t-|nl|veder|f}}, {{t+|nl|pluim|f}}
@@ -97,8 +95,8 @@ From {{etyl|enm|en}} {{term|fether|lang=enm}}, from {{etyl|ang}} {{term|feþer|l
 * Guaraní: [[ague]] (t-)
 * Guernésiais: {{tø|roa-grn|plleume|f}}
 * Gujarati: [[પીછું]] (pīchun)
-* Hebrew: [[נוצה]] (notza) {{f}}, {{t|he|נוצה|f|tr=notsa|sc=Hebr}}
-* Hindi: [[पंख]] (pankh) {{m}}, [[पर]] (par) {{m}}, {{t|hi|पंख|m|tr=paṅkh|sc=Deva}}, {{t|hi|पर|m|tr=par|sc=Deva}}
+* Hebrew: {{t|he|נוצה|f|tr=notsa|sc=Hebr}}
+* Hindi: {{t|hi|पंख|m|tr=paṅkh|sc=Deva}}, {{t|hi|पर|m|tr=par|sc=Deva}}
 * Hungarian: {{t+|hu|toll}}
 * Icelandic: {{t+|is|fjöður|f}}
 * Ido: {{t+|io|plumo|xs=Ido}}
@@ -107,7 +105,7 @@ From {{etyl|enm|en}} {{term|fether|lang=enm}}, from {{etyl|ang}} {{term|feþer|l
 *: [[Javanese]]: {{t|jv|wulu }}
 * Interlingua: [[pluma]], [[penna]]
 * Italian: {{t+|it|piuma|f}}
-* Japanese: {{t+|ja|羽}} (hane)
+* Japanese: {{t+|ja|羽|tr=[[はね]], hane}}
 * Korean: {{t|ko|깃|tr=git|sc=Kore}}
 {{trans-mid}}
 * Kurdish:
@@ -133,10 +131,9 @@ From {{etyl|enm|en}} {{term|fether|lang=enm}}, from {{etyl|ang}} {{term|feþer|l
 * Romanian: {{t+|ro|fulg|n}}, {{t-|ro|pană|f}}
 * Russian: {{t+|ru|перо|n|tr=peró}}
 * Scottish Gaelic: {{t-|gd|ite|f|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: [[перо]] {{n}}
-*: Roman: [[pero]] {{n}}
-* {{trreq|sh}}
+* Serbo-croatian:
+*: Cyrillic: {{t|sh|перо|n|sc=Cyrl}}
+*: Roman: {{t|sh|pero|n}}
 * Slovene: {{t+|sl|pero|n}}
 * Spanish: {{t+|es|pluma|f}}
 * Swahili: {{t|sw|nyoya|xs=Swahili}}
