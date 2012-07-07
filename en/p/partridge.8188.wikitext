@@ -5,8 +5,8 @@
 Via {{etyl|enm}} and {{etyl|fro}}, from {{etyl|la}} {{term|perdix|perdīx|partridge|lang=la}}, from {{etyl|grc}} {{term|πέρδιξ||partridge|tr=perdix|lang=grc}}.
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|/ˈpɑːtrɪʤ/}}, {{X-SAMPA|/"pA:trIdZ/}}
-* {{a|US}} {{enPR|pärʹtrĭj}}, {{IPA|/ˈpɑrtrɪʤ/}}, {{X-SAMPA|/"pArtrIdZ/}}
+* {{a|UK}} {{IPA|/ˈpɑːtrɪd͡ʒ/}}, {{X-SAMPA|/"pA:trIdZ/}}
+* {{a|US}} {{enPR|pärʹtrĭj}}, {{IPA|/ˈpɑrtrɪd͡ʒ/}}, {{X-SAMPA|/"pArtrIdZ/}}
 
 ===Noun===
 {{en-noun|pl2=partridge}}
@@ -101,14 +101,14 @@ Via {{etyl|enm}} and {{etyl|fro}}, from {{etyl|la}} {{term|perdix|perdīx|partri
 
 ====Translations====
 {{trans-top|any bird of the genera ''Perdix'' or ''Alectoris''}}
-* Albanian: [[thëllëzë]]
+* Albanian: {{t-|sq|thëllëzë}}
 * Arabic: {{t|ar|الحجل|m|tr=al-Hájal|sc=Arab}}
 * Armenian: {{t-|hy|կաքավ|tr=kak'av}}
-* Azeri: {{t|az|kəklik}}
-* Basque: [[eper]]
-* Belarusian: {{t|be|курапатка|f|xs=Belarusian}}
-* Bosnian: [[jarebica]] {{f}}
-* Breton: [[klujar c’hris]]
+* Azeri: {{t+|az|kəklik}}
+* Basque: {{t-|eu|eper}}
+* Belarusian: {{t-|be|курапатка|f|xs=Belarusian}}
+* Bosnian: {{t-|bs|jarebica|f}}
+* Breton: {{t-|br|klujar c’hris}}
 * Bulgarian: {{t+|bg|яребица|f|tr=jarebica}}
 * Catalan: {{t|ca|perdiu|f}}
 * Chamicuro: {{tø|ccc|s̈honoto}}
@@ -119,48 +119,51 @@ Via {{etyl|enm}} and {{etyl|fro}}, from {{etyl|la}} {{term|perdix|perdīx|partri
 * Czech: {{t-|cs|koroptev|f}}
 * Danish: {{t+|da|agerhøne|c}}
 * Dutch: {{t+|nl|patrijs|f}}
-* Esperanto: [[perdriko]]
+* Esperanto: {{qualifier|♂♀}} {{t-|eo|perdriko}}, {{qualifier|♂}} {{t-|eo|virperdriko}}, {{qualifier|♂♀}} {{t-|eo|perdrikino}}, {{qualifier|♂♀ offspring}} {{t-|eo|perdrikido}}, {{qualifier|♂ offspring}} {{t-|eo|virperdrikido}}, {{qualifier|♀ offspring}} {{t-|eo|perdrikidino}}
 * Estonian: [[nurmkana]]
-* Faroese: {{t|fo|akurhøna}}
-* Finnish: {{t+|fi|peltopyy}} {{qualifier|Perdix}}, {{t-|fi|punapyy}} {{qualifier|Alectoria}}
-* French: {{t+|fr|perdrix|f}}
-* Friulian: [[pernîs]]
-* Galician: [[perdiz charra]], [[charrela]]
+* Faroese: {{t-|fo|akurhøna|f}}
+* Finnish: {{qualifier|Perdix}} {{t+|fi|peltopyy}}, {{qualifier|Alectoria}} {{t-|fi|punapyy}} 
+* French: {{t+|fr|perdrix|f}}, {{t-|fr|mâle de la perdrix|m}}, {{t-|fr|femelle de la perdrix|f}}, {{qualifier|♂}} {{t+|fr|garbon|f}}, {{qualifier|offspring}} {{t+|fr|perdreau|m}}
+* Friulian: {{t-|fur|pernîs}}
+* Galician: {{t-|gl|perdiz charra|f}}, {{t-|gl|perdiz charrela|f}}, {{t-|gl|charrela|f}}
 * Georgian: {{t|ka|კაკაბი|tr=kakabi|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Rebhuhn|n}}
 * Greek: {{t+|el|πέρδικα|f|tr=pérdika}}
 * Hungarian: {{t+|hu|fogoly}}
-* Icelandic: {{t|is|akurhænsn}}
-* Irish: [[patraisc]]
+* Icelandic: {{t-|is|akurhæna|f}}
+* Ido: {{qualifier|♂♀}} {{t+|io|perdriko}}, {{qualifier|♂}} {{t-|io|perdrikulo}}, {{qualifier|♂♀}} {{t-|io|perdrikino}}, {{qualifier|♂♀ offspring}} {{t-|io|perdrikyuno}}, {{qualifier|♂ offspring}} {{t-|io|perdrikyunulo}}, {{qualifier|♀ offspring}} {{t-|io|perdrikyunino}} 
+* Irish: {{t-|ga|patraisc}}
 * Italian: {{t-|it|pernice|f}}
 * Japanese: {{t|ja|ヤマウズラ|tr=yamauzura|sc=Jpan}}, {{t|ja|鷓鴣|tr=やまうずら, yamauzura|sc=Jpan}}
-* Jèrriais: {{tø|roa-jer|pèrdrix|f}}
-* Kurdish: {{t+|ku|kew|m}} {{qualifier|generic}}, {{t|ku|mêkew|f}} {{qualifier|female}}, {{t+|ku|nêrekew|m}} {{qualifier|male}}, {{t+|ku|çêlekew|m|f}} {{qualifier|young}}, {{t-|ku|که‌و|sc=ku-Arab}}
-* Ladin: [[gialina da mont]] {{f}}
 {{trans-mid}}
-* Latin: {{t-|la|perdix|c|alt=perdīx}}
-* Latvian: [[laukirbe]]
+* Jèrriais: {{tø|roa-jer|pèrdrix|f}}
+* Kurdish: {{qualifier|generic}} {{t+|ku|kew|m}}, {{qualifier|♀}} {{t|ku|mêkew|f}}, {{qualifier|♂}} {{t+|ku|nêrekew|m}}, {{qualifier|young}} {{t+|ku|çêlekew|m|f}}, {{t-|ku|که‌و|sc=ku-Arab}}
+* Ladin: {{tø|lld|gialina da mont|f}}
+* Latin: {{t-|la|perdix|alt=perdīx|m|f}}
+* Latvian: {{t-|lv|laukirbe}}
 * Lithuanian: {{t+|lt|kurapka|xs=Lithuanian}}
-* Low Saxon: [[rapphohn]] {{f}}
+* Low Saxon: {{t-|nds|Rapphohn|n}}
 * Lower Sorbian: [[kurwota]] {{f}}, [[kurwotka]] {{f}}
 * Luxembourgish: {{t|lb|Feldhong|n}}
 * Macedonian: {{t|mk|еребица|f|tr=erébica}}
-* Maltese: [[ħaġla]] {{f}}
+* Maltese: {{t-|mt|ħaġla|f}}
 * Manx: {{t-|gv|patrag|xs=Manx}}
 * Montagnais: {{tø|moe|pineu}}
 * Navajo: {{tø|nv|naaʼahóóhaiłbáhí}}
-* Norwegian: {{t|no|rapphøne}}
-* Occitan: [[perditz]] {{m}}
+* Norwegian:
+*: Bokmål: {{t-|no|rapphøne|m|f}}
+*: Nynorsk: {{t-|nn|rapphøne|f}}
+* Occitan: {{t+|oc|perditz|m}}
 * Polish: {{t+|pl|kuropatwa|f}}
 * Portuguese: {{t+|pt|perdiz|f}}
-* Romagnolo: [[parniz]] {{f}}, [[sterna#Romagnolo|sterna]] {{f}}
-* Romani: [[divlio-kaini]] {{f}}
+* Romagnolo: {{tø|rgn|parniz|f}}, {{tø|rgn|sterna|f}}
+* Romani: {{tø|rom|divlio-kaini|f}}
 * Romanian: {{t+|ro|potârniche}}
-* Romansch: [[pernisch]], [[pernisch grischa]]
+* Romansch: {{tø|rm|pernisch}}, {{tø|rm|pernisch grischa}}
 * Russian: {{t+|ru|куропатка|f|tr=kuropátka}}
 * Sami: [[bealdobakku]]
-* Sardinian: [[perdixi cixinali]], [[perdighe d’abba]]
-* Scottish Gaelic: [[peurtag]]
+* Sardinian: {{tø|sc|perdixi cixinali}}, {{tø|sc|perdighe d’abba}}
+* Scottish Gaelic: {{t-|gd|peurtag}}
 * Serbian: {{t|sr|jаребица|f|tr=jarebica}}
 * Slovak: {{t|sk|jarabica|f}}
 * Slovene: {{t+|sl|jerebica|f}}
@@ -168,12 +171,12 @@ Via {{etyl|enm}} and {{etyl|fro}}, from {{etyl|la}} {{term|perdix|perdīx|partri
 * Swedish: {{t+|sv|rapphöna|c}}
 * Tamil: {{t|ta|கௌதாரி|tr=kautāti|sc=Taml}}
 * Turkish: {{t|tr|keklik}}
-* Ukrainian: {{t|uk|сiра курiпка|f|tr=sira kuripka|xs=Ukrainian}}
-* Upper Sorbian: [[kurotwa]] {{f}}, [[kurwota]] {{f}}
+* Ukrainian: {{t-|uk|куріпка сіра|f|tr=kuripka sira |xs=Ukrainian}}, {{t-|uk|сiра курiпка|f|tr=sira kuripka|xs=Ukrainian}}
+* Upper Sorbian: {{t|hsb|kurotwa|f}}, {{t|hsb|kurwota|f}}
 * Vilamovian: {{tø|wym|raubhün}}
-* Volapük: {{qualifier|male or female}} {{t|vo|pädrit }}, {{qualifier|male}} {{t|vo|hipädrit }}, {{qualifier|female}} {{t|vo|jipädrit }}, {{qualifier|offspring, young}} {{t|vo|pädritül}}
-* Welsh: [[petrisen]]
-* West Frisian: [[patriis]]
+* Volapük: {{qualifier|♂♀}} {{t+|vo|pädrit}}, {{qualifier|♂}} {{t-|vo|hipädrit}}, {{qualifier|♀}} {{t-|vo|jipädrit}}, {{qualifier|♂♀ offspring}} {{t-|vo|pädritül}}, {{qualifier|♂ offspring}} {{t-|vo|hipädritül}}, {{qualifier|♀ offspring}} {{t-|vo|jipädritül}}
+* Welsh: {{t-|cy|petrisen}}
+* West Frisian: {{t-|fy|patriis}}
 {{trans-bottom}}
 
 ====External links====
