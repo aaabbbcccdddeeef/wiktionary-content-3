@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|influence||lang=fro|emanation from the stars affecting one's fate}}, from {{etyl|ML.}} {{term|influentia|īnfluentia|lang=la}}, from {{etyl|la|en}} {{term|influens|īnfluēns|lang=la|flowing in}}, present active participle of {{term|influo|īnfluō|lang=la|flow into}}, from {{term|in-||lang=la|in-}} + {{term|fluo|fluō|lang=la|flow}}.
+From {{etyl|enm}}, from {{etyl|fro}} {{term|influence||lang=fro|emanation from the stars affecting one's fate}}, from {{etyl|ML.}} {{term|influentia|īnfluentia|lang=la}}, from {{etyl|la}} {{term|influens|īnfluēns|lang=la|flowing in}}, present active participle of {{term|influo|īnfluō|lang=la|flow into}}, from {{term|in-||lang=la|in-}} + {{term|fluo|fluō|lang=la|flow}}.
 
 ===Pronunciation===
 * {{IPA|/ˈɪn.flu.əns/}}, {{X-SAMPA|/"In.flu.@ns/}}
@@ -95,13 +95,13 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|influence||lang=fro|emanation 
 * Swedish: {{t|sv|inflytande|n}}
 {{trans-bottom}}
 
-{{trans-top|(''astrology'') element determining someone's character or individual tendencies}}
+{{trans-top|{{qualifier|astrology}} element determining someone's character or individual tendencies}}
 * Dutch: {{t+|nl|invloed}}
 * Finnish: {{t+|fi|vaikutus}}
 * German: {{t+|de|Einfluss|m}}
 {{trans-mid}}
 * Greek: {{t|el|επιρροή|f|tr=epirroí|sc=Grek}}
-* Korean: [[영향]] (''yeong-hyang'')
+* Korean: [[영향]] {{qualifier|yeong-hyang}}
 * Slovene: [[vpliv]] {{m}}
 {{trans-bottom}}
 
@@ -119,7 +119,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|influence||lang=fro|emanation 
 
 {{checktrans-top}}
 * {{ttbc|ar}}: [[تأثير]]
-* {{ttbc|bg}}: [[влияние]] (''vlijanie'') {{n}}
+* {{ttbc|bg}}: [[влияние]] {{qualifier|vlijanie}} {{n}}
 * {{ttbc|fr}}: [[#French|influence]]
 * {{ttbc|he}}: [[השפעה]] {{f}}
 * {{ttbc|io}}: [[influo]] +, [[influeso]] -
@@ -170,7 +170,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|influence||lang=fro|emanation 
 * Yiddish: {{t-|yi|באַאײַנפֿלוסן|sc=Hebr|xs=Yiddish}}
 {{trans-bottom}}
 
-{{trans-top|(''intransitive'') to exert influence}}
+{{trans-top|{{qualifier|intransitive}} to exert influence}}
 * Chinese:
 *: Mandarin: {{t|zh|影響|sc=Hani}}, {{t|zh|影响|tr=yǐngxiǎng|sc=Hani}}
 * Dutch: [[invloed uitoefenen]]
@@ -185,8 +185,8 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|influence||lang=fro|emanation 
 
 {{checktrans-top}}
 * {{ttbc|it}}: [[influire]]
-{{checktrans-mid}}
-{{checktrans-bottom}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ===Statistics===
 * {{rank|lips|donations|George|666|influence|March|whatever|reach}}
@@ -222,6 +222,25 @@ From {{etyl|ML.|fr}} {{term|influentia|īnfluentia|lang=la}}, from {{etyl|la|fr}
 # {{conjugation of|influencer||1|s|pres|sub|lang=fr}}
 # {{conjugation of|influencer||3|s|pres|sub|lang=fr}}
 # {{conjugation of|influencer||2|s|imp|lang=fr}}
+
+----
+
+==Old French==
+
+===Noun===
+{{fro-noun|f}}
+
+# [[inundation]]; [[flooding]]; [[influx]] of water
+# {{l|en|influence}}, especially viewed as a mystical force affecting one's fate
+#* Par l''''influance''' des estoiles
+#*: By the influence of the stars
+
+====Descendants====
+* English: {{l|en|influence}} {{qualifier|borrowed}}
+* French: {{l|fr|influence}}
+
+===References===
+* {{R:Godefroy|supplement=1}}
 
 [[cs:influence]]
 [[et:influence]]
