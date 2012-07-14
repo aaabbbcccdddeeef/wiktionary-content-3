@@ -67,7 +67,7 @@ From {{etyl|enm}} {{term|arrayen|lang=enm}}, from {{etyl|xno}} {{term|arayer|lan
 * German: {{t+|de|Tracht|f}}, {{t+|de|Bekleidung|f}}
 * Greek: {{t|el|στολή|f|tr=stolí|sc=Grek}}, {{t|el|σύνολο|n|tr=sýnolo|sc=Grek}}
 {{trans-mid}}
-* Russian: [[убор]] (ubór) {{m}}, [[наряд]] (naryád) {{m}}, [[одеяние]] (odeyánie) {{n}}
+* Russian: [[убор]] (ubór) {{m}}, [[наряд]] (naryád) {{m}}, [[одеяние]] (odeyánie) {{n}}, {{t|ru|убор|m|tr=ubór|sc=Cyrl}}, {{t|ru|наряд|m|tr=narjád|sc=Cyrl}}, {{t|ru|одеяние|n|tr=odejánije|sc=Cyrl}}
 * Spanish: {{t|es|atavío|m}}, {{t|es|galas|m|p}}
 {{trans-bottom}}
 
@@ -80,13 +80,16 @@ From {{etyl|enm}} {{term|arrayen|lang=enm}}, from {{etyl|xno}} {{term|arayer|lan
 {{trans-top|large collection}}
 * Bulgarian: {{t+|bg|маса}},  {{t+|bg|множество}}
 * German: [[Fülle]] {{f}}; [[Reihe]] {{f}}; [[Feld]] {{n}}; [[Zahl]] {{f}}; [[Anzahl]] {{f}}
-{{trans-mid}}
 * Greek: {{t|el|σειρά|f|tr=seirá|sc=Grek}}, {{t|el|διάταξη|f|tr=diátaxi|sc=Grek}}
+{{trans-mid}}
+* Russian: {{t|ru|масса|f|tr=mássa|sc=Cyrl}}, {{t|ru|множество|n|tr=mnóžestvo|sc=Cyrl}}
 * Swedish: {{t+|sv|samling|c}}
 {{trans-bottom}}
 
 <!-- should this be the same trans section for all the computing definitions? -->
 {{trans-top|computing - arrangement of memory elements}}
+* Chinese:
+*: Mandarin: {{t|zh|數組|sc=Hani}}, {{t|zh|数组|tr=shùzǔ|sc=Hani}}
 * Czech: {{t+|cs|pole|n}}
 * Dutch: {{t+|nl|array|m}}
 * Finnish: {{t+|fi|taulukko}}
@@ -99,9 +102,9 @@ From {{etyl|enm}} {{term|arrayen|lang=enm}}, from {{etyl|xno}} {{term|arayer|lan
 * Greek: {{t|el|παράταξη|f|tr=parátaxi|sc=Grek}}, {{t|el|σειρά|f|tr=seirá|sc=Grek}}
 * Hebrew: [[מערך]] {{m}}
 * Hungarian: {{t+|hu|tömb}}
-* Japanese: [[配列]] (hairetsu)
+* Japanese: [[配列]] (hairetsu), {{t|ja|配列|tr= はいれつ, hairetsu|sc=Jpan}}
 * Persian: {{t|fa|آرایه|tr=ârâye|sc=fa-Arab}}
-* Russian: {{t+|ru|массив|m}}
+* Russian: {{t+|ru|массив|m}}, {{t|ru|массив|m|tr=massív|sc=Cyrl}}
 * Spanish: {{t+|es|vector|m}}, {{t-|es|arreglo|m}}
 {{trans-bottom}}
 
