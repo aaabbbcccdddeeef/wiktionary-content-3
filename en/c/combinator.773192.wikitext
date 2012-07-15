@@ -1,4 +1,5 @@
 ==English==
+{{wikipedia}}
 
 ===Pronunciation===
 * {{audio|en-us-combinator.ogg|Audio (US)}}
@@ -6,7 +7,16 @@
 ===Noun===
 {{en-noun}}
 
-# {{computer science}} A [[higher-order function]] that solely uses function application and earlier defined combinators on its [[argument]]s.
+# {{computer science}} A lambda expression which has no free variables in it.
+#* {{quote-web
+    | date = 1991-12-20
+    | author = Henk P. Barendregt
+    | title = Lambda Calculi With Types
+    | site = ftp.cs.ru.nl
+    | url = ftp://ftp.cs.ru.nl/pub/CompMath.Found/HBK.ps
+    | accessdate = yyyy-mm-dd 
+}}
+#*: ''M'' is a ''closed &lambda;-term'' (or ''[[combinator]]'') if ''FV''(''M'') = ∅. The set of closed &lambda;-terms is denoted by &Lambda;<sup>0</sup>.
 
 ====Translations====
 {{trans-top|high-order function}}
