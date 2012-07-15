@@ -19,7 +19,7 @@
 #*: ''M'' is a ''closed &lambda;-term'' (or ''[[combinator]]'') if ''FV''(''M'') = ∅. The set of closed &lambda;-terms is denoted by &Lambda;<sup>0</sup>.
 
 ====Translations====
-{{trans-top|high-order function}}
+{{trans-top|lambda expression with no free variables}}
 * Croatian: {{t-|hr|kombinator|m}}
 {{trans-mid}}
 {{trans-bottom}}
