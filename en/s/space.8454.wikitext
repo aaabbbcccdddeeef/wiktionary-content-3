@@ -61,7 +61,7 @@ From {{etyl|fro}} ''[[espace]]''.
 * (''personal freedom to think or be oneself''):
 * (''state of mind one is in when daydreaming''):
 * (''generalized construct or set in mathematics''):
-* (''one of the five basic elements in Indian philosophy''):
+* (''one of the five basic elements in Indian philosophy''): [[ether]]
 
 ====Derived terms====
 * {{sense|typography}} [[em space]], [[2-em space]], [[3-em space]], [[en space]], [[hair space]], [[mutton space]], [[nut space]], [[thin space]], [[thick space]]
@@ -340,7 +340,12 @@ From {{etyl|fro}} ''[[espace]]''.
 * Swahili: {{t+|sw|nafasi|xs=Swahili}}
 {{trans-bottom}}
 
-{{trans-top|countable: an area or volume of sufficient size to accommodate a person or thing}}
+{{trans-top|figuratively: marketplace for goods or services}}
+* Finnish: {{t|fi|ala}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|countable: area or volume sufficient to accommodate a person or thing}}
 * Finnish: {{t|fi|tila}}, {{t|fi|paikka}}
 * French: {{t+|fr|place|f}}
 * Hungarian: {{t+|hu|hely}}
@@ -353,6 +358,8 @@ From {{etyl|fro}} ''[[espace]]''.
 * Russian: {{t+|ru|пространство|n|tr=prostránstvo}}
 * Swahili: {{t+|sw|nafasi|xs=Swahili}}
 {{trans-bottom}}
+
+{{trans-see|while}}
 
 {{trans-top|area beyond atmosphere of planets}}
 * Arabic: {{t|ar|فضاء|m|tr=faDaa'}}
@@ -395,12 +402,17 @@ From {{etyl|fro}} ''[[espace]]''.
 * Vietnamese: {{t+|vi|không gian|xs=Vietnamese}} ({{t|vi|空間}}), {{t+|vi|không trung|xs=Vietnamese}}, {{t+|vi|khoảng không|xs=Vietnamese}}, {{t+|vi|vũ trụ|xs=Vietnamese}} ({{t|vi|宇宙}})
 {{trans-bottom}}
 
+{{trans-top|volume beyond the Kármán line}}
+* Finnish: {{t|fi|avaruus}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|gap between written characters}}
 * Czech: {{t-|cs|mezera|f}}
 * Dutch: {{t-|nl|spatie|m}}
 * Esperanto: {{t|eo|spaceto}}
 * Estonian: {{t|et|tühik}}
-* Finnish: {{t+|fi|väli}}
+* Finnish: {{t+|fi|väli}}, {{t|fi|sanaväli}}
 * French: {{t+|fr|espace|m}}, {{t+|fr|blanc|m}}
 * German: [[Leerzeichen]] {{n}}, [[Leerstelle]] {{f}}
 * Greek: {{t+|el|διάστημα|n|tr=ðiástima}}
@@ -420,18 +432,29 @@ From {{etyl|fro}} ''[[espace]]''.
 * Vietnamese: [[khoảng cách]] [[chữ]], [[phiến]] [[cách]] [[chữ]]
 {{trans-bottom}}
 
-{{trans-top|typography: a piece of type used to separate words}}
+{{trans-top|character representing a space}}
+* Finnish: {{t|fi|sanaväli}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|piece of type used to separate words}}
 * Chinese:
 *: Mandarin: {{t|zh|空格|tr=kònggé|sc=Hani}}
 * Estonian: {{t|et|sõnavahe}}
+* Finnish: {{t|fi|sanaväli}}
 * French: {{t|fr|espace|f}}
 * German: {{t|de|Leerschritt|m}}, {{t|de|Zwischenraum|m}}
+{{trans-mid}}
 * Greek: {{t+|el|διάστημα|n|tr=ðiástima}}
 * Japanese: {{t+|ja|間隔|tr=かんかく, kankaku}}, {{t|ja|スペース|tr=supēsu|sc=Jpan}}
-{{trans-mid}}
 * Macedonian: {{t|mk|проред|m|tr=próred}}
 * Russian: {{t+|ru|пробел|m|tr=probél}}
 * Swahili: {{t+|sw|nafasi|xs=Swahili}}
+{{trans-bottom}}
+
+{{trans-top|music: position on the staff}}
+* Finnish: {{t|fi|paikka}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|set of points}}
@@ -461,25 +484,33 @@ From {{etyl|fro}} ''[[espace]]''.
 * Vietnamese: [[khoảng]] [[trời]] [[riêng]]
 {{trans-bottom}}
 
-{{trans-top|a state of mind one is in when daydreaming}}
+{{trans-top|state of mind when daydreaming}}
+* Finnish: {{t|fi|tila}}
 * Japanese: {{t-|ja|空白|tr=kūhaku}}
 {{trans-mid}}
 * Swahili: {{t+|sw|nafasi|xs=Swahili}}
 {{trans-bottom}}
 
-{{trans-top|mathematics: a generalized construct or set}}
+{{trans-top|mathematics: generalized construct or set}}
 * Danish: {{t-|da|rum|n}}
 * Estonian: {{t+|et|ruum}}
+* Finnish: {{t|fi|avaruus}}
 * Macedonian: {{t-|mk|простор|m|tr=próstor}}
-* Polish: {{t+|pl|przestrzeń|f}}
 {{trans-mid}}
+* Polish: {{t+|pl|przestrzeń|f}}
 * Swahili: {{t+|sw|nafasi|xs=Swahili}}
 * Swedish: {{t+|sv|rum|n}}
 * Vietnamese: [[không gian]]
 {{trans-bottom}}
 
 {{trans-top|Indian philosophy: one of the five basic elements}}
+* Finnish: {{t|fi|eetteri}}
+{{trans-mid}}
 * Swahili: {{t+|sw|nafasi|xs=Swahili}}
+{{trans-bottom}}
+
+{{trans-top|interval of time}}
+* Finnish: {{t|fi|aika}}, {{t|fi|aikaväli}}
 {{trans-mid}}
 {{trans-bottom}}
 
