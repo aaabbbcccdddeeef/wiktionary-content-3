@@ -1,25 +1,28 @@
 ==English==
 
-===Etymology 1===
-From {{etyl|enm}} {{term|blessen|lang=enm}}, from {{etyl|ang}} {{term|bletsian|blētsian|lang=ang}}, {{term|bledsian|blēdsian|to consecrate ''(with blood)''|lang=ang}}, from {{proto|Germanic|blōþisōnan|to sprinkle, mark or hallow with blood|lang=en}}, from {{proto|Germanic|title=|blōþan|blood|lang=en}}, from {{proto|Indo-European|bhlo-to-|to gush, spurt|lang=en}}, from {{proto|Indo-European|title=|bhol-||bhlē-dh-||bhlō(w)-|to thrive, flourish, bloom|lang=en}}. Cognate with Old {{etyl|is|-}} {{term|bletza||to bless|tr=Modern {{etyl|is|-}} {{term|blessa|lang=is|lang=is}}}}, {{etyl|ang|-}} {{term|bledan|blēdan|to bleed|lang=ang}}. More at {{l|en|bleed}}.
-
 ===Pronunciation===
 * {{enPR|blĕs}}, {{X-SAMPA|/blɛs/}}, {{X-SAMPA|/blEs/}}
 * {{audio|en-us-bless.ogg|Audio (US)}}
 * {{rhymes|ɛs}}
 
-===Verb===
+===Etymology 1===
+From {{etyl|enm}} {{term|blessen|lang=enm}}, from {{etyl|ang}} {{term|bletsian|blētsian|lang=ang}}, {{term|bledsian|blēdsian|to consecrate ''(with blood)''|lang=ang}}, from {{proto|Germanic|blōþisōnan|to sprinkle, mark or hallow with blood|lang=en}}, from {{proto|Germanic|title=|blōþan|blood|lang=en}}, from {{proto|Indo-European|bhlo-to-|to gush, spurt|lang=en}}, from {{proto|Indo-European|title=|bhol-||bhlē-dh-||bhlō(w)-|to thrive, flourish, bloom|lang=en}}. Cognate with Old {{etyl|is|-}} {{term|bletza||to bless|tr=Modern {{etyl|is|-}} {{term|blessa|lang=is|lang=is}}}}, {{etyl|ang|-}} {{term|bledan|blēdan|to bleed|lang=ang}}. More at {{l|en|bleed}}.
+
+====Verb====
 {{en-verb|blesses|blessing|'''[[blest]]''' ''or'' '''[[blessed]]'''}}
 
 # To make something [[blessed]], to confer [[blessing]] upon.
 # {{context|[[Perl]]|_|programming|transitive}} {{context|past tense only '''blessed'''}} To turn (a [[reference]]) into an [[object]].
 
-====Antonyms====
+=====Antonyms=====
 * [[curse]]
 * [[condemn]]
 
-====Translations====
-{{rfc-tsort|duplicate language: Georgian}}
+=====Related terms=====
+* [[blessed]]
+* [[blessing]]
+
+=====Translations=====
 {{trans-top|convey blessing on}}
 * Albanian: {{t+|sq|bekoj|xs=Albanian}}
 * Arabic: {{t|ar|بارك|tr=baaraka}}
@@ -33,7 +36,6 @@ From {{etyl|enm}} {{term|blessen|lang=enm}}, from {{etyl|ang}} {{term|bletsian|b
 * Esperanto: {{t-|eo|beni|xs=Esperanto}}
 * Finnish: {{t-|fi|siunata}}
 * French: {{t+|fr|bénir}}
-* {{trreq|Georgian}}
 * Georgian: {{t|ka|ლოცვა|tr=loc'va|sc=Geor}}
 * German: {{t-|de|segnen}}, {{qualifier|obsolete}} {{t+|de|benedeien}}
 * Greek: {{t|el|ευλογώ|tr=evlogó|sc=Grek}}
@@ -48,7 +50,7 @@ From {{etyl|enm}} {{term|blessen|lang=enm}}, from {{etyl|ang}} {{term|bletsian|b
 * Polish: {{t|pl|błogosławić}}
 * Portuguese: {{t+|pt|abençoar}}, {{t|pt|bendizer}}
 * Romanian: {{t|ro|binecuvânta}}, {{t|ro|blagoslovi}}
-* Russian: {{t|ru|благословлять|tr=blagoslovlját'}} {{impf}},  {{t|ru|благословить|tr=blagoslovít'}} {{pf.}}
+* Russian: {{t|ru|благословлять|tr=blagoslovlját'}} {{impf}}, {{t|ru|благословить|tr=blagoslovít'}} {{pf.}}
 * Slovene: {{t+|sl|blagosloviti}}
 * Spanish: {{t+|es|bendecir}}
 * Swedish: {{t|sv|välsigna}}
@@ -56,14 +58,13 @@ From {{etyl|enm}} {{term|blessen|lang=enm}}, from {{etyl|ang}} {{term|bletsian|b
 * {{trreq|Turkish}}
 {{trans-bottom}}
 
-====Related terms====
-* [[blessed]]
-* [[blessing]]
+===Etymology 2===
+An ellipsis for an expression such as {{term|bless your heart}}
 
-===Interjection===
+====Interjection====
 {{en-interj}}
 
-# {{UK|informal|shortening ''bless his heart'' or similar}} Used as an expression of endearment, or (ironically) belittlement.
+# {{UK|informal}} Used as an expression of endearment, or (ironically) belittlement.
 #* '''1998''', "Peter Coffey", ''New Alternative View Of Atomic Structure'' (on Internet newsgroup ''sci.chem'')
 #*: Ah '''bless'''! You must be the welcoming committee for anyone who dares express ignorance.
 #* '''2000''', "Hellraiser" (on Internet newsgroup ''uk.people.teens'')
