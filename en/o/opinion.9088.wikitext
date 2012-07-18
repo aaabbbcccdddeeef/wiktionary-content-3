@@ -37,42 +37,42 @@
 
 ====Translations====
 {{trans-top|thought a person has formed about a topic}}
-* Albanian: [[mendim]]
+* Albanian: {{t|sq|mendim}}
 * Arabic: {{t-|ar|رأي|m|tr=raa'i}}
 * Armenian: {{t-|hy|կարծիք|tr=karçik'}}
-* [[Basque]]: [[iritzi]]
-* Bosnian: {{t-|bs|mišljenje|n}}, {{t-|bs|mnenje|n}}
+* Asturian: {{t|ast|opinión|f}}
+* [[Basque]]: {{t|eu|iritzi}}
 * Bulgarian: {{t+|bg|мнение|n|tr=mnenie}}, {{t+|bg|възглед|m|tr=vǎzgled}}, {{t+|bg|схващане|n|tr=sxvaštane}}
 * [[Catalan]]: {{t|ca|opinió|f}}
 * Chinese:
 *: Mandarin: {{t-|cmn|意見|sc=Hani}}, {{t-|cmn|意见|tr=yìjiàn|sc=Hani}}, {{t-|cmn|看法|tr=kànfǎ|sc=Hani}}, {{t-|cmn|見解|sc=Hani}}, {{t-|cmn|见解|tr=jiànjiě|sc=Hani}}
-* Croatian: {{t-|hr|mišljenje|n|alt=mȉšljēnje}}, {{t-|hr|nazor|m}}
 * Czech: {{t+|cs|názor|m}}
 * Danish: {{t-|da|opinion}}
-* Dutch: [[mening]] {{f}}, [[opinie]] {{f}}, [[visie]] {{f}}, [[zienswijze]] {{f}}, [[gedachte]] {{f}}
+* Dutch: {{t|nl|mening|f}}, {{t|nl|opinie|f}}, {{t|nl|visie|f}}, {{t|nl|zienswijze|f}}, {{t|nl|gedachte|f}}
 * Esperanto: {{t-|eo|opinio|xs=Esperanto}}
 * Estonian: {{t|et|arvamus}}
 * Finnish: {{t+|fi|mielipide}}
 * French: {{t+|fr|avis|m}}, {{t+|fr|opinion|f}}
 * Georgian: {{t-|ka|აზრი|tr=azri|sc=Geor|xs=Georgian}}
+* Galician: {{t|gl|opinión|f}}
 * German: {{t+|de|Meinung|f}}, {{t+|de|Ansicht|f}}, {{t+|de|Anschauung|f}}
 * Greek: {{t+|el|γνώμη|f}}, {{t+|el|άποψη|f}}
 * Hebrew: {{t-|he|דיעה|f}}
 * Hindi: {{t|hi|विचार|m|tr=vicār|xs=Hindi}}, {{t|hi|राय|f|tr=rāy|xs=Hindi}}, {{t|hi|ख़याल|m|tr=xayāl|sc=Deva}}
-* Hungarian: [[vélemény]], [[nézet]], [[szakvélemény]]
+* Hungarian: {{t|hu|vélemény}}, {{t|hu|nézet}}, {{t|hu|szakvélemény}}
 * Icelandic: {{t-|is|álit}}
-* Irish: [[tuairim]], {{t-|ga|meas|m|xs=Irish}}
+* Irish: {{t|ga|tuairim}}, {{t-|ga|meas|m|xs=Irish}}
 * Italian: {{t+|it|opinione|f}}, {{t-|it|concetto|m}}, {{t+|it|parere}}
 * Japanese: {{t+|ja|意見|tr=いけん, iken}}
 * Korean: {{t+|ko|의견|tr=uigyeon|sc=Hang}} ({{t+|ko|意見|sc=Hani}})
 {{trans-mid}}
-* Latgalian: [[redzīņs]] {{m}}
+* Latgalian: {{t|ltg|redzīņs|m}}
 * Latin: {{t-|la|opinio|f}}, {{t-|la|iudicium|n}}
-* Latvian: [[viedoklis]] {{m}}
+* Latvian: {{t|lv|viedoklis|m}}
 * Lithuanian: {{t+|lt|nuomonė|f|xs=Lithuanian}}
 * [[Luxembourgish]]: {{t|lb|Meenung|f}}, {{t|lb|Avis|m}}, {{t|lb|Usiicht|f}}
 * Maltese: {{t-|mt|fehma|f|xs=Maltese}}, {{t|mt|opinjoni|f|xs=Maltese}}
-* Mongolian: [[санал]] (sanal)
+* Mongolian: {{t|mn|санал|tr=sanal}}
 * Norwegian: {{t+|no|mening}}, {{t|no|synspunkt|n}}
 * Persian: {{t+|fa|نظر|tr=nazar|xs=Persian}}, {{t|fa|عقیده|tr=aqide|xs=Persian}}, {{t+|fa|رأی|tr=rā’i|xs=Persian}}
 * Polish: {{t+|pl|opinia|f}}
@@ -80,9 +80,9 @@
 * Romanian: {{t-|ro|părere|f}}, {{t-|ro|opinie|f}}
 * Russian: {{t+|ru|мнение|n|tr=mnénije}}
 * [[Scottish Gaelic]]: {{t-|gd|barail|f|xs=Scottish Gaelic}}, {{t-|gd|beachd|m|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: {{t-|sr|мишљење|n|sc=Cyrl}}, {{t-|sr|мнење|n|sc=Cyrl}}, {{t|sr|назор|m|sc=Cyrl}}
-*: Roman: [[mišljenje]] {{n}}, [[mnenje]] {{n}}, [[nazor]] {{m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|мишљење|n|sc=Cyrl}}, {{t|sh|мнење|n|sc=Cyrl}}, {{t|sh|назор|m|sc=Cyrl}}
+*: Roman: {{t|sh|mišljenje|n}}, {{t|sh|mnenje|n}}, {{t|sh|nazor|m}}
 * Slovak: {{t-|sk|názor|m}}
 * Slovene: {{t-|sl|mnenje|n}}
 * Spanish: {{t+|es|opinión|f}}
@@ -108,7 +108,7 @@
 
 ====Translations====
 {{trans-top|have or express as an opinion}}
-* Dutch: [[van mening zijn dat]], [[opiniëren]]
+* Dutch: [[van mening zijn dat]], {{t|nl|opiniëren}}
 * Polish: {{t-|pl|opiniować}}, {{t-|pl|wydawać opinię}}
 {{trans-mid}}
 * [[Telugu]]: {{t|te|ఆభిప్రాయపడుట|tr=abhiprayapaduta|sc=Telu}}
@@ -132,6 +132,9 @@
 
 ==French==
 
+===Etymology===
+From {{etyl|frm|fr}} {{term|opinion|lang=frm}}, from {{etyl|la|fr}} {{term|opinio|opīniō|lang=la}}.
+
 ===Pronunciation===
 * {{audio|Fr-opinion.ogg|Audio}}
 
@@ -143,6 +146,9 @@
 ----
 
 ==Middle French==
+
+===Etymology===
+From {{etyl|la|frm}} {{term|opinio|opīniō|lang=la}}.
 
 ===Noun===
 {{frm-noun|f|s}}
