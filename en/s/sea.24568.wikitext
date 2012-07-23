@@ -72,7 +72,6 @@
 * Belarusian: {{t-|be|мора|n|tr=móra|xs=Belarusian}}
 * Bengali: {{t|bn|সাগর|tr=shagôr|sc=Beng}}, {{t|bn|সমুদ্র|tr=shômudrô|sc=Beng}}
 * Blackfoot: [[mo'toyaohkii]]
-* Bosnian: {{t-|bs|more|n}}
 * Breton: [[mor]] {{m}}, [[morioù]] {{p}}
 * Bulgarian: {{t+|bg|море|n|tr=morè}}
 * Campidanese: [[mari]] {{m}}
@@ -80,7 +79,6 @@
 * Chinese:
 *: Mandarin: {{t-|cmn|海|tr=hǎi|sc=Hani}}
 * Cree: [[kihchikamiy]]
-* Croatian: {{t+|hr|more|n}}
 * Czech: {{t+|cs|moře|n}}
 * Dalmatian: {{t|dlm|mur}}
 * Danish: {{t+|da|hav|n}}, {{t|da|sø|c}}
@@ -111,7 +109,7 @@
 * Italian: {{t+|it|mare|m}}
 * Japanese: {{t+|ja|海|tr=うみ, úmi}}, {{qualifier|as a component}} {{t+|ja|海|tr=かい, kai}}
 * Jèrriais: {{tø|roa-jer|mé|f}}
-* Kannada: {{t|kn|ಅಮ್ಬುಧಿ|sc=Knda|xs=Kannada}} (ambudhi), {{t|kn|ಸಮುದ್ರ|tr=samudra|sc=Knda}}
+* Kannada: {{t|kn|ಅಮ್ಬುಧಿ|tr=ambudhi|sc=Knda|xs=Kannada}}, {{t|kn|ಸಮುದ್ರ|tr=samudra|sc=Knda}}
 * Kazakh: {{t|kk|теңіз|tr=teñiz|sc=Cyrl}}
 * {{trreq|Khmer}}
 * Korean: {{t+|ko|바다|tr=bada|sc=Hang}}, {{t|ko|해양|tr=haeyang|sc=Hang}} ({{t+|ko|海洋|sc=Hani}})
@@ -122,17 +120,17 @@
 * Lao: {{t|lo|ທະເລ|tr=thalē|sc=Laoo}}
 * Latgalian: {{tø|ltg|jiurys|m}}
 * Latin: {{t+|la|mare|n}}, {{t-|la|pelagus|m}}
-{{trans-mid}}
 * Latvian: {{t+|lv|jūra|f|xs=Latvian}}
-* Lithuanian: [[jūra]] {{f}}, [[marios]] {{f}} {{qualifier|poetic or small sea}}, {{t|lt|jūra|f}}, {{qualifier|poetic or small sea}} {{t|lt|marios|f}}
+* Lithuanian: {{t|lt|jūra|f}}, {{qualifier|poetic or small sea}} {{t|lt|marios|f}}
+{{trans-mid}}
 * Lojban: {{t|jbo|xamsi}}
 * Luxembourgish: {{t|lb|Mier}}
 * Macedonian: {{t-|mk|море|n|tr=móre}}
 * Malay: {{t-|ms|laut|xs=Malay}}
-* Malayalam: [[കടൽ]] {{unicode|(kaṭal)}}, {{t|ml|കടൽ|tr=kaṭal|sc=Mlym}}
+* Malayalam: {{t|ml|കടൽ|tr=kaṭal|sc=Mlym}}
 * Maltese: {{t-|mt|baħar|m|xs=Maltese}}
 * Maori: {{t+|mi|moana|xs=Maori}}, {{t-|mi|tai|xs=Maori}}
-* Mongolian: {{t+|mn|далай|tr=dalai|sc=Cyrl|xs=Mongolian}}
+* Mongolian: {{t+|mn|далай|tr=dalaj|sc=Cyrl|xs=Mongolian}}
 * Ngarrindjeri: {{tø|nay|yarluwar}}
 * Norwegian: {{t+|no|hav|n}}
 * Occitan: {{t|oc|mar}}
@@ -142,7 +140,7 @@
 * Old Saxon: {{t-|osx|seo|alt=sēo|m|xs=Old Saxon}}, {{t-|osx|holm|alt=holm|m|xs=Old Saxon}}
 * Ossetic: {{tø|os|денджыз|tr=dendžyz|sc=Cyrl|xs=Ossetian}}, {{tø|os|фурд|tr=furd|sc=Cyrl|xs=Ossetian}}
 * Papiamentu: {{tø|pap|laman}}
-* Persian: {{t+|fa|دریا|tr=daryâ'|xs=Persian}}, {{t|fa|بحر|sc=fa-Arab}} (bahr)
+* Persian: {{t+|fa|دریا|tr=daryâ'|xs=Persian}}, {{t|fa|بحر|tr=bahr|sc=fa-Arab}}
 * Polish: {{t+|pl|morze|n}}
 * Portuguese: {{t+|pt|mar|m}}
 * Rohingya: {{tø|rhg|doria}}
@@ -155,8 +153,8 @@
 * Sardinian: {{t|sc|mare}}, {{t|sc|mari}}
 * Scottish Gaelic: [[muir]] {{m|f}}, [[fairge]] {{f}}, [[cuan]] {{m}}
 * Serbo-Croatian:
-*: Cyrillic: [[море]] {{n}}
-*: Roman: [[more#Serbo-Croatian|more]] {{n}}
+*: Cyrillic: {{t|sh|море|n|sh=Cyrl}}
+*: Roman: {{t|sh|more|n}}
 * Sicilian: {{t|scn|mari}}
 * Sindhi: {{sd-Arab|[[سَمُنڊ]]}} {{m}}
 * Sinhalese: {{t|si|මුහුද|tr=mūhūda|sc=Sinh}}
@@ -170,8 +168,8 @@
 * Talysh:
 *: Asalemi: {{tø|tly|دریا|tr=daryâ|sc=fa-Arab}}
 * Tamil: {{t+|ta|கடல்|tr=kaṭal|xs=Tamil}}
-* Tatar: {{t+|tt|диңгез|sc=Cyrl|xs=Tatar}}, {{t|tt|диңгез|tr=diñgez|sc=Cyrl}}
-* Telugu: [[సముద్రం]] (samudraM), {{t|te|సముద్రం|tr=samudraṁ|sc=Telu}}
+* Tatar: {{t+|tt|диңгез|tr=diñgez|sc=Cyrl}}
+* Telugu: {{t|te|సముద్రం|tr=samudraṁ|sc=Telu}}
 * Thai: {{t-|th|ทะเล|tr=tháleh}}
 * Tok Pisin: {{t-|tpi|solwara|xs=Tok Pisin}}, {{t|tpi|wara}}, {{t|tpi|raunwara}}
 * Tupinambá: [[paranã]], [[paranaã]], [[paraná]]
