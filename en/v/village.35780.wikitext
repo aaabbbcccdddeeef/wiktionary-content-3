@@ -49,18 +49,16 @@
 * Azeri: {{t+|az|kənd|xs=Azeri}}, {{t|az|qışlaq}}
 * Baekje: {{tø|pkc|夫里|tr=buri}}
 * Basque: {{t|eu|herrixka|xs=Basque}}
-* Belarusian: {{t-|be|весь|f|tr=ves'|xs=Belarusian}}, {{t|be|вёска|f|tr=vjóska|xs=Belarusian}}, {{t|be|сяло|n|tr=sjaló|sc=Cyrl}}
-* Bengali: {{t|bn|গ্রাম|sc=Beng}}, {{t|bn|গ্রাম|tr=gram|sc=Beng}}
-* Bosnian: {{t-|bs|selo|n}}
+* Belarusian: {{t-|be|весь|f|tr=vesʹ|xs=Belarusian}}, {{t|be|вёска|f|tr=vjóska|xs=Belarusian}}, {{t|be|сяло|n|tr=sjaló|sc=Cyrl}}
+* Bengali: {{t|bn|গ্রাম|tr=gram|sc=Beng}}
 * {{trreq|br}}
-* Bulgarian: {{t+|bg|село|n}}
+* Bulgarian: {{t+|bg|село|n|tr=seló}}
 * Burmese: [[ရ့ာ]]
 * Catalan: [[poble]] {{m}}
 * Chamicuro: {{tø|ccc|chi'nashtalichi}}
 * Chinese:
-*: Mandarin: {{t-|cmn|村|tr=cūn|sc=Hani}}, {{t-|cmn|鄉村|sc=Hani}}, {{t-|cmn|乡村|tr=xiāngcūn|sc=Hani}}, {{t-|cmn|農村|sc=Hani}}, {{t-|cmn|农村|tr=nóngcūn|sc=Hani}}, {{t-|cmn|村子|tr=cūnzi|sc=Hani}}, {{t-|cmn|村莊|sc=Hani}}, {{t-|cmn|村庄|tr=cūnzhuāng|sc=Hani}}
-* Croatian: {{t+|hr|selo|n}}
-* Czech: [[vesnice]] {{f}}, [[ves]] {{f}}, [[dědina]] {{f}}
+*: Mandarin: {{t+|cmn|村|tr=cūn|sc=Hani}}, {{t+|cmn|鄉村|sc=Hani}}, {{t+|cmn|乡村|tr=xiāngcūn|sc=Hani}}, {{t+|cmn|農村|sc=Hani}}, {{t+|cmn|农村|tr=nóngcūn|sc=Hani}}, {{t+|cmn|村子|tr=cūnzi|sc=Hani}}, {{t+|cmn|村莊|sc=Hani}}, {{t+|cmn|村庄|tr=cūnzhuāng|sc=Hani}}
+* Czech: {{t|cs|vesnice|f}}, {{t|cs|ves|f}}, {{t|cs|dědina|f}}
 * Danish: {{t-|da|landsby|c}}, {{t-|da|by|c}}
 * Dutch: {{t+|nl|dorp|n}}
 * Esperanto: {{t-|eo|vilaĝo|xs=Esperanto}}
@@ -68,9 +66,9 @@
 * Faroese: {{t|fo|bygd|f}}
 * Finnish: {{t+|fi|kylä}}, {{t|fi|kirkonkylä}}
 * French: {{t+|fr|village|m}}
-* Georgian: [[სოფელი]] (sop‘eli), {{t|ka|შენი|tr=sheni|sc=Geor}}
+* Georgian: {{t|ka|სოფელი|tr=sop'eli|sc=Geor}}, {{t|ka|შენი|tr=šeni|sc=Geor}}
 * German: {{t+|de|Dorf|n}}, {{t+|de|Dörfer|p}}
-* Greek: [[χωριό]] (khorió) {{n}}
+* Greek: [[χωριό]] (chorió) {{n}}
 * Gronings: {{tø|gos|loug}}, {{tø|gos|dörp}}
 * Hebrew: {{t|he|כפר|m|tr=kfar}}
 * Hindi: {{t|hi|गांव|m|tr=gānv|sc=Deva}}
@@ -78,10 +76,10 @@
 * Ido: [[vilajo]]
 * Irish: {{t+|ga|sráidbhaile|m|xs=Irish}}
 * Italian: {{t+|it|villaggio|m}}, {{t+|it|borgo|m}}
-* Japanese: {{t+|ja|村}}, {{t+|ja|むら|tr=mura}}, {{t+|ja|田舎|tr=いなか, inaka}} {{qualifier|country}}
+* Japanese: {{t+|ja|村|tr=むら, mura}}, {{t+|ja|むら|tr=mura}}, {{t+|ja|田舎|tr=いなか, inaka}} {{qualifier|country}}
 * Kannada: {{t|kn|ಗ್ರಾಮ|tr=grāma|sc=Knda|xs=Kannada}}
 * Kazakh: {{t|kk|ауыл|tr=awıl|sc=Cyrl}}, {{t|kk|қыстау|tr=qıstaw|sc=Cyrl}}
-* Khmer: {{Khmr|[[ភូមិ]]}} (pūm), {{t|km|ភូមិ|tr=pūm|sc=Khmr}}
+* Khmer: {{t|km|ភូមិ|tr=pūm|sc=Khmr}}
 * Korean: {{t+|ko|마을|tr=ma-eul|sc=Hang}}
 * Kuanua: {{tø|ksd|gunan}}
 * Kurdish:
@@ -105,7 +103,7 @@
 * Norwegian: {{t+|no|landsby}}, {{t-|no|torp|n}}
 * Occitan: {{t+|oc|vilatge|xs=Occitan}}
 * Pashto: {{t-|ps|کلی|m|tr=kəlai}}
-* Persian: {{t|fa|روستا|tr=rustā|xs=Persian}}, {{t+|fa|ده|tr=deh|xs=Persian}}
+* Persian: {{t|fa|روستا|tr=rustâ|xs=Persian}}, {{t+|fa|ده|tr=deh|xs=Persian}}
 * Phoenician: {{tø|phn|𐤊𐤐𐤓|m|tr=kpr|sc=Phnx}}
 * Polish: {{t+|pl|wieś|f}}, {{t|pl|wioska|f}}
 * Portuguese: {{t+|pt|aldeia|f}}, {{t|pt|vila}}, {{t|pt|povoado}}
@@ -117,10 +115,8 @@
 * Saterland Frisian: {{tø|stq|Täärp}}
 * Scots: [[veelage]]
 * Scottish Gaelic: [[baile beag]] {{m}}, [[clachan]] {{m}}, [[baile-dùthchail]] {{m}}
-* Serbian:
-*: Cyrillic: [[село]] {{n}}
-*: Roman: [[selo#Serbian|selo]] {{n}}
 * Serbo-Croatian:
+*: Cyrillic: {{t|sh|село|n|sc=Cyrl}}
 *: Roman: {{t|sh|selo|n}}
 * Slovak: {{t-|sk|dedina|f}}
 * Slovene: {{t+|sl|vas|f}}
@@ -128,10 +124,10 @@
 * Swahili: {{t+|sw|kijiji|xs=Swahili}}
 * Swedish: {{t+|sv|by|c}}
 * Talysh: {{tø|tly|ди|tr=di}}
-* Tatar: {{t+|tt|авыл|sc=Cyrl|xs=Tatar}}
-* Telugu: [[గ్రామం]] (graamaM), {{t|te|గ్రామం|tr=grāmaṁ|sc=Telu}}
+* Tatar: {{t+|tt|авыл|tr=avıl|sc=Cyrl|xs=Tatar}}
+* Telugu: {{t|te|గ్రామం|tr=grāmaṁ|sc=Telu}}
 * Tetum: [[suku]]
-* Thai: {{Thai|[[หมู่บ้าน]]}} (mòo bâan), {{t|th|หมู่บ้าน|tr=mòo bâan|sc=Thai}}
+* Thai: {{t|th|หมู่บ้าน|tr=mòo bâan|sc=Thai}}
 * Tigrinya: {{t|ti|ቍሸት|tr=kʷ’ɨʃetɨ|sc=Ethi}}
 * Tongan: [[kolo]]
 * Turkish: {{t+|tr|köy}}, {{t+|tr|nahiye}}
