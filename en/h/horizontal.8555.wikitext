@@ -15,33 +15,40 @@
 ====Antonyms====
 * [[vertical]]
 
+====Derived terms====
+* [[horizontally]]
+
 ====Translations====
 {{trans-top|parallel to the plane of the horizon}}
 * Arabic: {{t|ar|أفقي|tr='ufuqiy}}
 * Armenian: {{t-|hy|հորիզոնական|tr=horizonakan}}
+* Asturian: {{t|ast|horizontal}}
 * [[Azeri]]: {{t|az|üfüqi}}
 * Bulgarian: {{t+|bg|хоризонтален|m}}
-* [[Catalan]]: [[horitzontal]]
+* [[Catalan]]: {{t|ca|horitzontal}}
 * Chinese:
-*: Mandarin: {{t-|cmn|水平|tr=shuǐpíng|sc=Hani}},  {{t-|cmn|橫|alt=橫的|sc=Hani}},  {{t-|cmn|横|alt=横的|tr=héng-de|sc=Hani}}
+*: Mandarin: {{t-|cmn|水平|tr=shuǐpíng|sc=Hani}}, {{t-|cmn|橫|alt=橫的|sc=Hani}}, {{t-|cmn|横|alt=横的|tr=héng-de|sc=Hani}}
 * Czech: {{t-|cs|vodorovný|m}}
 * Dutch: {{t+|nl|horizontaal}}
 * Esperanto: {{t-|eo|horizontala|xs=Esperanto}}
 * Finnish: {{t-|fi|vaakasuora}}
 * French: {{t+|fr|horizontal}}
+* Galician: {{t|gl|horizontal}}
 {{trans-mid}}
 * German: {{t+|de|horizontal}}, {{t+|de|waagrecht}}, {{t+|de|waagerecht}}
 * Icelandic: {{t|is|lárétt}}
 * Irish: {{t|ga|cothrománach}}
+* Italian: {{t|it|orizzontale}}
 * Japanese: {{t-|ja|水平|alt=水平な|tr=すいへいな, suihei-na}},  {{t+|ja|横|alt=横の|tr=よこの, yoko-no}}
 * Korean: {{t+|ko|가로|tr=garo|sc=Hang}}
 * [[Manx]]: {{t|gv|co-ard}}
 * Persian: {{t|fa|افقی|sc=fa-Arab}}
 * Polish: {{t+|pl|poziomy}}
+* Portuguese: {{t|pt|horizontal}}
 * Romanian: {{t|ro|orizontal|m|n}}
 * Russian: {{t+|ru|горизонтальный|tr=gorizontál'nyj}}
 * [[Scottish Gaelic]]: {{t|gd|fàireil}}
-* Spanish: {{t+|es|horizontal|m|f}}
+* Spanish: {{t+|es|horizontal}}
 * [[Telugu]]: {{t|te|సమాంతరము|tr=samamtaramu|sc=Telu}}
 * Turkish: {{t+|tr|yatay}}
 {{trans-bottom}}
@@ -53,9 +60,25 @@
 
 ====Translations====
 {{trans-top|A horizontal component}}
-* Romanian: [[orizontală]] {{f}}
+* Romanian: {{t|ro|orizontală|f}}
 {{trans-mid}}
 {{trans-bottom}}
+
+----
+
+==Asturian==
+
+===Adjective===
+{{ast-adj-mf|pl=horizontales}}
+
+# {{l|en|horizontal}}
+
+====Antonyms====
+* {{l|ast|vertical}}
+
+====Related terms====
+* {{l|ast|horizonte}}
+
 ----
 
 ==French==
@@ -68,16 +91,34 @@
 ===Adjective===
 {{fr-adj-al|horizont}}
 
-# Horizontal; [[perpendicular]] to the [[vertical]]
+# {{l|en|horizontal}}
+
+====Antonyms====
+* {{l|fr|vertical}}
+
+====Derived terms====
+* {{l|fr|horizontalement}}
+
+====Related terms====
+* {{l|fr|horizon}}
 
 ----
 
 ==Galician==
 
 ===Adjective===
-{{gl-adj|f=horizontal|pl=horizontais}}
+{{gl-adj|pl=horizontais}}
 
-# [[#English|horizontal]]
+# {{l|en|horizontal}}
+
+====Antonyms====
+* {{l|gl|vertical}}
+
+====Derived terms====
+* {{l|gl|horizontalmente}}
+
+====Related terms====
+* {{l|gl|horizonte}}
 
 ----
 
@@ -89,7 +130,7 @@
 ===Adjective===
 {{de-adj|-}}
 
-# [[horizontal#English|horizontal]]
+# {{l|en|horizontal}}
 
 ====Synonyms====
 * [[waagrecht]], [[waagerecht]]
@@ -99,12 +140,39 @@
 
 ----
 
+==Portuguese==
+
+===Adjective===
+{{pt-adj|horizont|al|comp=no}}
+
+# {{l|en|horizontal}}
+
+====Antonyms====
+* {{l|pt|vertical}}
+
+====Derived terms====
+* {{l|pt|horizontalmente}}
+
+====Related terms====
+* {{l|pt|horizonte}}
+
+----
+
 ==Spanish==
 
 ===Adjective===
 {{es-adj|pl=horizontales}}
 
-# [[#English|horizontal]]
+# {{l|es|horizontal}}
+
+====Antonyms====
+* {{l|es|vertical}}
+
+====Derived terms====
+* {{l|es|horizontalmente}}
+
+====Related terms====
+* {{l|es|horizonte}}
 
 [[cs:horizontal]]
 [[cy:horizontal]]
