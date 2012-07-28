@@ -8,20 +8,23 @@
 ===Noun===
 {{en-noun}}
 
-# A [[vertex]] or [[zenith]]
-# A vertical [[geometrical]] [[figure]]; a [[perpendicular]]
+# A [[vertex]] or [[zenith]].
+# A vertical [[geometrical]] [[figure]]; a [[perpendicular]].
 # An individual [[slat]] in a set of [[vertical blinds]].
 # A vertical component of a structure.
 
 ===Adjective===
 {{en-adj}}
 
-# along the direction of a [[plumbline]] or along a straight line that includes the center of the [[Earth]]
+# Along the direction of a [[plumbline]] or along a straight line that includes the center of the [[Earth]].
 # In a two dimensional [[Cartesian]] [[co-ordinate]] system, describing the [[axis]] oriented [[normal]] ([[perpendicular]], at [[right angle]]s) to the horizontal axis.
 # {{marketing}} Of or pertaining to [[vertical market]]s.
 
 ====Antonyms====
 * [[horizontal]]
+
+====Derived terms====
+* [[vertically]]
 
 ====Related terms====
 * [[postvertical]]
@@ -29,17 +32,20 @@
 
 ====Translations====
 {{trans-top|being perpendicular with the surface of the Earth}}
-* Arabic: {{t|ar|عمودي|tr=3amuudiy}},  {{t|ar|رأسي|tr=ra'siy}}
+* Arabic: {{t|ar|عمودي|tr=3amuudiy}}, {{t|ar|رأسي|tr=ra'siy}}
 * Armenian: {{t-|hy|ուղղահայաց|tr=uġġahayac'}}
+* Asturian: {{t|ast|vertical}}
 * Azeri: {{t|az|şaquli}}
 * Bengali: {{t-|bn|খাড়া|sc=Beng|xs=Bengali}}
+* Catalan: {{t|ca|vertical}}
 * Chinese:
-*: Mandarin: {{t-|cmn|豎|alt=豎的|sc=Hani}},  {{t-|cmn|竖|alt=竖的|tr=shù-de|sc=Hani}},  {{t|cmn|垂直|tr=chuízhí|sc=Hani}},  {{t|cmn|直立|tr=zhílì|sc=Hani}}
+*: Mandarin: {{t-|cmn|豎|alt=豎的|sc=Hani}}, {{t-|cmn|竖|alt=竖的|tr=shù-de|sc=Hani}}, {{t|cmn|垂直|tr=chuízhí|sc=Hani}}, {{t|cmn|直立|tr=zhílì|sc=Hani}}
 * Czech: {{t-|cs|svislý|m}}
 * Dutch: {{t+|nl|verticaal}}
 * Esperanto: {{t-|eo|vertikala|xs=Esperanto}}
 * Finnish: {{t-|fi|pystysuora}}
 * French: {{t+|fr|vertical}}
+* Galician: {{t|gl|vertical}}
 * German: {{t+|de|vertikal}}, {{t+|de|senkrecht}}
 * Greek: {{t|el|κατακόρυφος|tr=katakóryfos}}
 {{trans-mid}}
@@ -49,17 +55,54 @@
 * Italian: {{t-|it|verticale}}
 * Japanese: {{t|ja|垂直|alt=垂直の|tr=すいちょくの, suichoku -no}}, {{t+|ja|縦|alt=縦の|tr=たての, tate-no}},  {{t|ja|直立|alt=直立の|tr=ちょくりつの, chokuritsu-no}}
 * Polish: {{t+|pl|pionowy}}
+* Portuguese: {{t|pt|vertical}}
 * Romanian: {{t|ro|vertical|m|n}}
 * Russian: {{t+|ru|вертикальный|tr=vertikál'nyj}}
 * Scottish Gaelic: {{t-|gd|dìreach|xs=Scottish Gaelic}}
-* Spanish: {{t+|es|vertical|m|f}}
+* Spanish: {{t+|es|vertical}}
 * Turkish: {{t+|tr|dikey}}
 * Welsh: {{t|cy|fertigol|xs=Welsh}}
 {{trans-bottom}}
 
 ----
 
+==Asturian==
+
+===Etymology===
+From {{etyl|la|ast}} {{term|verticalis|lang=la}}.
+
+===Adjective===
+{{ast-adj-mf|pl=verticales}}
+
+# {{l|en|vertical}}
+
+====Antonyms====
+* {{l|ast|horizontal}}
+
+----
+
+==Catalan==
+
+===Etymology===
+From {{etyl|la|ca}} {{term|verticalis|lang=la}}.
+
+===Adjective===
+{{ca-adj|type=mf}}
+
+# {{l|en|vertical}}
+
+====Antonyms====
+* {{l|ca|horitzontal}}
+
+====Derived terms====
+* {{l|ca|verticalment}}
+
+----
+
 ==French==
+
+===Etymology===
+From {{etyl|la|fr}} {{term|verticalis|lang=la}}.
 
 ===Pronunciation===
 * {{audio|Fr-vertical.ogg|audio}}
@@ -69,16 +112,61 @@
 ===Adjective===
 {{fr-adj|mp=verticaux}}
 
-# [[#English|vertical]]
+# {{l|en|vertical}}
+
+----
+
+==Galician==
+
+===Etymology===
+From {{etyl|la|gl}} {{term|verticalis|lang=la}}.
+
+===Adjective===
+{{gl-adj|pl=verticais}}
+
+# {{l|en|vertical}}
+
+====Antonyms====
+* {{l|gl|horizontal}}
+
+====Derived terms====
+* {{l|gl|verticalmente}}
+
+----
+
+==Portuguese==
+
+===Etymology===
+From {{etyl|la|pt}} {{term|verticalis|lang=la}}.
+
+===Adjective===
+{{pt-adj|vertic|al|comp=no}}
+
+# {{l|en|vertical}}
+
+====Antonyms====
+* {{l|pt|horizontal}}
+
+====Derived terms====
+* {{l|pt|verticalmente}}
 
 ----
 
 ==Spanish==
 
+===Etymology===
+From {{etyl|la|es}} {{term|verticalis|lang=la}}.
+
 ===Adjective===
 {{es-adj|pl=verticales}}
 
-# [[#English|vertical]]
+# {{l|en|vertical}}
+
+====Antonyms====
+* {{l|es|horizontal}}
+
+====Derived terms====
+* {{l|es|verticalmente}}
 
 [[cy:vertical]]
 [[et:vertical]]
