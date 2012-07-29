@@ -76,6 +76,7 @@ From {{etyl|enm}} {{term|errour|lang=enm}}, from {{etyl|la}} {{term|error||wande
 {{trans-top|mistake}}
 * Afrikaans: {{t-|af|fout|xs=Afrikaans}}
 * Armenian: {{t-|hy|սխալ|tr=sxal}}
+* Asturian: {{t|ast|error|m}}
 * Bulgarian: {{t|bg|грешка|f|sc=Cyrl}}
 * Czech: {{t+|cs|chyba|f}}, {{t-|cs|omyl|m}}
 * Danish: {{t|da|fejl|c}}, {{t|da|fejltagelse|c}}, {{t|da|forseelse|c}}
@@ -83,6 +84,7 @@ From {{etyl|enm}} {{term|errour|lang=enm}}, from {{etyl|la}} {{term|error||wande
 * Estonian: {{t-|et|viga}}
 * Finnish: {{t-|fi|erehdys}}, {{t+|fi|virhe}}
 * French: {{t+|fr|erreur|f}}
+* Galician: {{t|gl|erro|m}}
 * German: {{t+|de|Fehler|m}}
 * Greek: {{t+|el|λάθος|n|tr=láthos}}
 * Hebrew: {{t-|he|טעות|tr=taoot}}
@@ -91,7 +93,7 @@ From {{etyl|enm}} {{term|errour|lang=enm}}, from {{etyl|la}} {{term|error||wande
 * Indonesian: {{t+|id|kesalahan|xs=Indonesian}}
 * Irish: {{t-|ga|botún|m|xs=Irish}}, {{t-|ga|dearmad|m|xs=Irish}}, {{t|ga|earráid|f|xs=Irish}}
 * Italian: {{t+|it|errore|m}}
-* Japanese: {{Jpan|[[誤り]]}} ({{Jpan|[[あやまり]]}}, ayamari), {{Jpan|[[間違い]]}} ({{Jpan|[[まちがい]]}}, machigai)
+* Japanese: {{t|ja|誤り|tr=あやまり, ayamari}}, {{t|ja|間違い|tr=まちがい, machigai}}
 * Korean: {{t+|ko|실수|tr=silsu|sc=Hang}}
 {{trans-mid}}
 * Kurdish:
@@ -111,11 +113,12 @@ From {{etyl|enm}} {{term|errour|lang=enm}}, from {{etyl|la}} {{term|error||wande
 * Swahili: {{t+|sw|kasoro|xs=Swahili}}
 * Swedish: {{t|sv|fel|n}}
 * Tagalog: {{t|tl|mali}}
-* Turkish: {{t+|tr|yanlış}},  {{t+|tr|hata}},  {{t+|tr|kusur}},  {{t|tr|yanılgı}},  {{t|tr|suç}}
+* Turkish: {{t+|tr|yanlış}}, {{t+|tr|hata}}, {{t+|tr|kusur}}, {{t|tr|yanılgı}}, {{t|tr|suç}}
 {{trans-bottom}}
 
 {{trans-top|difference between a measured or calculated value and a true one}}
 * Armenian: {{t-|hy|սխալ|tr=sxal}}
+* Asturian: {{t|ast|error|m}}
 * Bulgarian: {{t|bg|грешка|f|sc=Cyrl}}, {{t|bg|отклонение|n|sc=Cyrl}}
 * Czech: {{t+|cs|chyba|f}}
 * Danish: {{t-|da|afvigelse|c}}
@@ -125,7 +128,7 @@ From {{etyl|enm}} {{term|errour|lang=enm}}, from {{etyl|la}} {{term|error||wande
 * Greek: {{t|el|σφάλμα|n|sc=Grek}}
 * Icelandic: {{t-|is|skekkja|f}}
 * Italian: {{t+|it|errore|m}}
-* Japanese: {{Jpan|[[誤差]]}} ({{Jpan|[[ごさ]]}}, gosa)
+* Japanese: {{t|ja|誤差|tr=ごさ, gosa}}
 {{trans-mid}}
 * Kurdish:
 *: Sorani: {{t|ku|هه‌ڵه‌|tr=hele|sc=ku-Arab}}
@@ -136,13 +139,13 @@ From {{etyl|enm}} {{term|errour|lang=enm}}, from {{etyl|la}} {{term|error||wande
 * Russian: {{t+|ru|погрешность|f|tr=pogr'éšnost'}}
 * Slovak: {{t-|sk|chyba|f}}
 * Slovene: {{t|sl|napaka|f}}
-* Spanish: {{t+|es|error}}
+* Spanish: {{t+|es|error|m}}
 {{trans-bottom}}
 
 {{trans-top|baseball: play which is scored as having been made incorrectly}}
 * Icelandic: {{t+|is|Villa|f}}
 {{trans-mid}}
-* Japanese: {{Jpan|[[エラー]]}} (erā), {{Jpan|[[失策]]}} ({{Jpan|[[しっさく]]}}, shissaku)
+* Japanese: {{t|ja|エラー|tr=erā}}, {{t|ja|失策|tr=しっさく, shissaku}}
 {{trans-bottom}}
 
 {{trans-top|one or more mistakes in a trial that could be grounds for review of the judgement}}
@@ -213,6 +216,27 @@ From {{etyl|enm}} {{term|errour|lang=enm}}, from {{etyl|la}} {{term|error||wande
 
 ----
 
+==Asturian==
+
+===Etymology===
+From {{etyl|la|ast}} {{term|error|lang=la}}.
+
+===Noun===
+{{ast-noun|m|errores}}
+
+# {{l|en|error}}
+
+----
+
+==Galician==
+
+===Noun===
+{{gl-noun|m|errores}}
+
+# {{alternative form of|erro|lang=gl}}
+
+----
+
 ==Latin==
 
 ===Noun===
@@ -220,7 +244,7 @@ From {{etyl|enm}} {{term|errour|lang=enm}}, from {{etyl|la}} {{term|error||wande
 
 # [[wandering]]
 # [[wavering]], [[uncertainty]]
-# [[#English|error]], [[mistake]], [[delusion]]
+# {{l|en|error}}, [[mistake]], [[delusion]]
 # [[solecism]]
 
 ====Inflection====
@@ -238,20 +262,23 @@ From {{etyl|enm}} {{term|errour|lang=enm}}, from {{etyl|la}} {{term|error||wande
 
 ==Spanish==
 
+===Etymology===
+From {{etyl|la|es}} {{term|error|lang=la}}.
+
 ===Pronunciation===
 * {{IPA|[eˈroɾ]|lang=es}}, {{X-SAMPA|/e"ro4/}}
 
 ===Noun===
 {{es-noun|m|pl=errores}}
 
-# An [[#English|error]]
+# {{l|en|error}}
 
 ====Synonyms====
 * [[equivocación]] {{f}}
 * [[yerro]] {{m}}
 
 ====Related terms====
-* [[errar]]
+* {{l|es|errar}}
 
 [[ar:error]]
 [[zh-min-nan:error]]
