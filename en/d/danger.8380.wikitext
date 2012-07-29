@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-{{etyl|enm}} {{term|daunger||power, dominion, peril|lang=enm}}, from {{etyl|xno}} {{term|dangier||lang=xno}}, from {{etyl|fro}} {{term|dangier||lang=fro}}, alteration of {{fro}} {{term|dongier||lang=fro}} (due to assoc. with {{la}} {{term|damnum||damage|lang=la}}) from {{etyl|VL.}} * {{term|lang=la|domniarium|domniārium}} "authority, power" from {{etyl|la}} {{term|dominus||lord, master|lang=la}}.<ref>http://www.etymonline.com/index.php?allowed_in_frame=0&search=danger&searchmode=none</ref>
+{{etyl|enm}} {{term|daunger||power, dominion, peril|lang=enm}}, from {{etyl|xno}} {{term|dangier||lang=xno}}, from {{etyl|fro}} {{term|dangier||lang=fro}}, alteration of {{fro}} {{term|dongier||lang=fro}} (due to assoc. with {{la}} {{term|damnum||damage|lang=la}}) from {{etyl|VL.}} *{{term|lang=la|domniarium|domniārium|authority, power}} from {{etyl|la}} {{term|dominus||lord, master|lang=la}}.<ref>http://www.etymonline.com/index.php?allowed_in_frame=0&search=danger&searchmode=none</ref>
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/deɪn.dʒə(ɹ)/}}, {{X-SAMPA|/deIn.dZ@(r\)/}}
@@ -20,7 +20,7 @@
 # {{obsolete}} Coyness; disdainful behavior.
 # {{obsolete}} A place where one is in the hands of the enemy.
 # Exposure to liable [[harm]].
-#: ''"'''Danger''' is a good teacher, and makes apt scholars" ([[w:William Hazlitt|William Hazlitt]], ''Table talk'').''
+#: ''"'''Danger''' is a good teacher, and makes apt scholars" ({{w|William Hazlitt}}, ''Table talk'').''
 # An instance or cause of liable harm.
 #: ''"Two territorial questions..unsettled..each of which was a positive '''danger''' to the peace of Europe" (''Times'', 5 Sept. 3/2).''
 # Mischief.
@@ -36,17 +36,18 @@
 {{trans-top|exposure to liable harm}}
 * Arabic: {{t-|ar|خطر|m|alt=خَطَر|tr=khaTar}}
 * Armenian: {{t-|hy|վտանգ|tr=vtang}}
+* Asturian: {{t|ast|peligru|m}}
 * Bulgarian: {{t+|bg|опасност|f}}
-* Catalan: [[perill]]
+* Catalan: {{t|ca|perill|m}}
 * Chinese:
 *: Mandarin: {{t|zh|危险|tr=wēixiǎn|sc=Hani}}
-* Croatian: {{t-|hr|opasnost|f}}
 * Czech: {{t-|cs|nebezpečí|n}}
 * Danish: {{t+|da|fare|c}}
 * Dutch: {{t+|nl|gevaar|n}}
 * Esperanto: {{t|eo|danĝero}}
 * Finnish: {{t+|fi|vaara}}, {{t+|fi|uhka}}
 * French: {{t+|fr|danger|m}}
+* Galician: {{t|gl|perigo|m}}
 * {{trreq|Georgian}}
 * German: {{t+|de|Gefahr|f}}, {{t+|de|Risiko|n}}
 * Greek: {{t+|el|κίνδυνος|m|tr=kíndinos}}
@@ -64,8 +65,10 @@
 * Romanian: {{t+|ro|pericol}}, {{t|ro|primejdie|f}}
 * Russian: {{t+|ru|опасность|f|sc=Cyrl|tr=opásnost'}}
 * Scottish Gaelic: {{t|gd|cunnart|m}}
-* Serbo-Croatian: [[opasnost]]
-* Slovak: [[nebezpečie]] {{n}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|опасност|f}}
+*: Roman: {{t|sh|opasnost|f}}
+* Slovak: {{t|sk|nebezpečie|n}}
 * Spanish: {{t+|es|peligro|m}}
 * Swahili: {{t+|sw|hatari|xs=Swahili}}
 * Swedish: {{t+|sv|fara|c}}
@@ -78,28 +81,32 @@
 
 {{trans-top|instance or cause of liable harm}}
 * Arabic: {{t-|ar|خطر|m|alt=خَطَر|tr=khaTar}}
-* Armenian: {{t-|hy|վտանգ|tr=vtang}},  {{t|hy|սպառնալիք|tr=spaṙnalik’}}
+* Armenian: {{t-|hy|վտանգ|tr=vtang}}, {{t|hy|սպառնալիք|tr=spaṙnalik’}}
+* Asturian: {{t|ast|peligru|m}}
 * Bulgarian: {{t|bg|заплаха|f}}
-* Croatian: {{t-|hr|opasnost|f}}
 * Czech: {{t-|cs|nebezpečí|n}}
 * Danish: {{t+|da|fare|c}}
-* Dutch: {{t+|nl|gevaar|n}},  {{t+|nl|bedreiging|f}}
+* Dutch: {{t+|nl|gevaar|n}}, {{t+|nl|bedreiging|f}}
 * Finnish: {{t+|fi|uhka}}, {{t+|fi|vaara}}
 * French: {{t+|fr|danger|m}}
+* Galician: {{t|gl|perigo|m}}
 * German: {{t+|de|Gefahr|f}}, {{t-|de|Bedrohung|f}}
 * Greek: {{t+|el|κίνδυνος|m|tr=kíndinos}}
 * [[Haitian Creole]]: {{tø|ht|danje}}
 {{trans-mid}}
-* Hebrew: [[סכנה]] (sakana) {{f}}
+* Hebrew: {{t|he|סכנה|tr=sakana|f}}
 * Indonesian: {{t-|id|bahaya|xs=Indonesian}}
 * Irish: {{t-|ga|contúirt|f|xs=Irish}}, {{t|ga|dainséar|m|xs=Irish}}
 * Italian: {{t+|it|pericolo|m}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[په‌رێشان]]}}
+*: Sorani: {{t|ku|په‌رێشان}}
 * Polish: {{t+|pl|zagrożenie|n}}
+* Portuguese: {{t|pt|perigo|m}}
 * Russian: {{t+|ru|опасность|f|sc=Cyrl|tr=opásnost'}}, {{t+|ru|угроза|f|sc=Cyrl|tr=ugróza}}
 * [[Scottish Gaelic]]: {{t|gd|cunnart|m}}
-* Serbo-Croatian: [[opasnost]]
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|опасност|f}}
+*: Roman: {{t|sh|opasnost|f}}
 * Swahili: {{t+|sw|hatari|xs=Swahili}}
 * Swedish: {{t+|sv|fara|c}}
 {{trans-bottom}}
@@ -118,8 +125,6 @@
 * {{ttbc|cmn}}: [[危险]] (wēi-xiǎn)
 * {{ttbc|no}}: [[fare]]
 * {{ttbc|ang}}: [[fær|fǣr]] {{m}}
-* {{ttbc|pt}}: [[perigo]] {{m}} (3)
-* {{ttbc|es}}: [[peligro]] {{m}} (3)
 {{trans-bottom}}
 
 ===Verb===
@@ -158,7 +163,7 @@
 ===Noun===
 {{fr-noun|m}}
 
-# [[danger#English|danger]]
+# {{l|en|danger}}
 # [[jeopardy]] (danger of loss, harm, or failure)
 
 ====Derived terms====
