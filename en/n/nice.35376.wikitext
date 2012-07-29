@@ -4,15 +4,15 @@
 ===Alternative forms===
 * [[nyc]] {{qualifier|non-standard}}
 
-===Etymology===
+===Etymology 1===
 From {{etyl|enm}} {{term|nice|lang=enm}}, {{term|nyce}}, {{term|nys}}, from {{etyl|fro}} {{term|nice|lang=fro}}, {{term|niche}}, {{term|nisce||simple, foolish, ignorant}}, from {{etyl|la}} {{term|nescius||ignorant, not knowing}}; compare {{term|nescire||to know not, be ignorant of}}, from {{term|ne||not}} + {{term|scire||to know}}.
 
-===Pronunciation===
+====Pronunciation====
 * {{enPR|nīs}}, {{IPA|/naɪs/}}, {{X-SAMPA|/naIs/}}
 * {{audio|en-us-nice.ogg|Audio (US)}}
 * {{rhymes|aɪs}}
 
-===Adjective===
+====Adjective====
 {{en-adj|nic|er}}
 
 # {{obsolete}} [[silly|Silly]], [[ignorant]]; [[foolish]]. {{defdate|14th-17th c.}}
@@ -47,31 +47,31 @@ From {{etyl|enm}} {{term|nice|lang=enm}}, {{term|nyce}}, {{term|nys}}, from {{et
 # With "and", having intensive effect: [[extremely]]. {{defdate|from 18th c.}}
 #: ''The soup is '''nice''' and hot.''
 
-====Quotations====
+=====Quotations=====
 * '''1930''', [[w:H.M. Walker|H.M. Walker]], ''[[w:The Laurel-Hardy Murder Case|The Laurel-Hardy Murder Case]]''
 *: Here's another '''nice''' mess you've gotten us into.
 * '''1973''', Cockerel Chorus, ''Nice One, Cyril!''
 *: '''Nice''' one, Cyril!
 
-====Usage notes====
+=====Usage notes=====
 Sometimes used [[sarcastically]] to mean the [[opposite]] or to [[connote]] [[excess]].
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|easy to like: person}} [[charming]], [[delightful]], [[friendly]], [[kind]], [[lovely]], [[pleasant]], [[sweet]]
 * {{sense|easy to like: thing}} [[charming]], [[delightful]], [[lovely]], [[pleasant]]
 * {{sense|having a pleasant taste or aroma}} [[appetising]]/[[appetizing]], [[delicious]], [[moreish]] {{qualifier|informal}}, [[scrummy]] {{qualifier|slang}}, [[scrumptious]] {{qualifier|slang}}, [[tasty]]
 * {{sense|subtle}} [[fine]], [[subtle]]
 
-====Antonyms====
+=====Antonyms=====
 * {{sense|easy to like: person}} [[horrible]], [[horrid]], [[nasty]]
 * {{sense|easy to like: thing}} [[horrible]], [[horrid]], [[nasty]]
 * {{sense|having a pleasant taste or aroma}} [[awful]], [[disgusting]], [[foul]], [[horrible]], [[horrid]], [[nasty]], [[nauseating]], [[putrid]], [[rancid]], [[rank]], [[sickening]], [[distasteful]], [[gross]], [[unsatisfactory]]
 * {{sense|respectable; virtuous}} [[naughty]]
 
-====Related terms====
+=====Related terms=====
 * [[nicety]]
 
-====Derived terms====
+=====Derived terms=====
 {{rel-top3|Terms derived from ''nice'' (adjective)}}
 * [[nice and]] + adjective
 * [[nice and easy]]
@@ -84,7 +84,7 @@ Sometimes used [[sarcastically]] to mean the [[opposite]] or to [[connote]] [[ex
 * [[nicety]]
 {{rel-bottom}}
 
-====Translations====
+=====Translations=====
 {{trans-top|pleasant}}
 * American Sign Language: {{tø|ase|OpenB@BasePalm-PalmDown-OpenB@CenterChesthigh-PalmUp OpenB@Finger-PalmDown-OpenB@CenterChesthigh-PalmUp}}
 * Arabic: {{t|ar|حسن|tr=Hássan}}, {{t-|ar|لطيف|tr=laTiif}}
@@ -177,25 +177,36 @@ Sometimes used [[sarcastically]] to mean the [[opposite]] or to [[connote]] [[ex
 * {{ttbc|jbo}}: [[xamgu]]
 * {{ttbc|vi}}: [[đẹp]]
 
-===Adverb===
+====Adverb====
 {{en-adv}}
 
 # {{colloquial}} [[nicely|Nicely]].
 #: ''Children, play '''nice'''.''
 #: ''He dresses real '''nice'''.''
 
-===Interjection===
+====Interjection====
 {{en-interj}}!
 
 # Used to signify a job [[well]] [[done]].
 #: '''''Nice!''' I couldn't have done better.''
 
-====Translations====
+=====Translations=====
 {{trans-top}}
 * Dutch: {{t+|nl|mooi}}, {{t+|nl|netjes}}, {{t+|nl|goed zo}}
 {{trans-mid}}
 * Swedish: {{t+|sv|snygg|alt=snyggt}},  {{qualifier|slang}} {{t|sv|najs}}
 {{trans-bottom}}
+
+===Etymology 2===
+Name of a Unix program used to invoke a script or program with a specified priority, with the implication that running at a lower priority is "nice" (kind, etc.) because it leaves more resources for others.
+
+===Verb===
+{{en-verb|nic|ed}}
+{{wikipedia|nice (Unix)}}
+# {{transitive|computing|Unix}} To [[run]] a [[process]] with a specified (usually lower) [[priority]].
+
+====Derived terms====
+* [[renice]]
 
 ===External links===
 * {{R:Webster 1913}}
