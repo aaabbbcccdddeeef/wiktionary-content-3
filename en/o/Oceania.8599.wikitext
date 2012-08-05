@@ -63,12 +63,10 @@ Territories in Oceania belonging to other countries include:
 * Arabic: {{t|ar|أوقيانوسيا|f|tr=’ukiyaanusiya}}
 * Armenian: {{t|hy|Օվկիանիա|tr=Ovkiania|sc=Armn}}
 * Basque: {{t|eu|Ozeania|xs=Basque}}
-* Bosnian: {{t-|bs|Okeanija|f}}
 * Bulgarian: {{t-|bg|Океания|f}}
-* [[Catalan]]: Oceania {{f}}
+* [[Catalan]]: {{t|ca|Oceania|f}}
 * Chinese:
 *: Mandarin: {{t|cmn|大洋洲|tr=Dàyángzhōu|sc=Hani}}
-* Croatian: {{t+|hr|Oceanija|f|alt=Ocèānija}}
 * Czech: {{t-|cs|Oceánie|f}}
 * Danish: {{t-|da|Oceanien}}
 * Dutch: {{t+|nl|Oceanië|n}}
@@ -89,7 +87,7 @@ Territories in Oceania belonging to other countries include:
 * Khmer: {{t|km|ពួកកោះក្នុងសមុទ្រប៉ាស៊ីភិច|tr=puək kɑh knong samot paasiipʰic|sc=Khmr}}
 * Korean: {{t|ko|오세아니아|tr=Oseania|sc=Kore}}
 * Macedonian: {{t-|mk|Океанија|f|tr=Okeánija}}
-* Maltese: l-[[Oċeanja]]
+* Maltese: l-{{t|mt|Oċeanja}}
 * Northern Sami: [[Oseania]]
 * Persian: {{t|fa|اقیانوسیه|tr=oqyânusiye|sc=fa-Arab}}
 * Polish: {{t+|pl|Oceania|f}}
@@ -97,8 +95,8 @@ Territories in Oceania belonging to other countries include:
 * Romanian: {{t|ro|Oceania}}
 * Russian: {{t+|ru|Океания|f|tr=Okeánija}}
 * Serbo-Croatian:
-*: Cyrillic: [[Океанија]] {{f}}
-*: Roman: [[Okeanija]] {{f}}
+*: Cyrillic: {{t|sh|Океанија|f}}, {{t|sh|Оцеанија|f}} {{qualifier|Croatia}}
+*: Roman: {{t|sh|Okeanija|f}}, {{t|sh|Oceanija|f}} {{qualifier|Croatia}}
 * Spanish: {{t+|es|Oceanía|f}}
 * Swedish: {{t+|sv|Oceanien}}
 * Tamil: {{t|ta|ஓசியானியா|xs=Tamil}}
@@ -115,16 +113,17 @@ Territories in Oceania belonging to other countries include:
 * [[Appendix:Place names in Oceania]]
 
 [[Category:en:Continents]]
-[[Category:en:Oceania|*]]
+[[Category:en:Oceania]]
 
 ----
 
 ==Catalan==
+{{wikipedia|lang=ca}}
 
 ===Proper noun===
 {{ca-prop|f}}
 
-# [[#English|Oceania]]
+# {{l|en|Oceania}}
 
 ====See also====
 * {{list|ca|continents}}
@@ -139,15 +138,13 @@ Territories in Oceania belonging to other countries include:
 ===Proper noun===
 {{it-proper noun|g=f}}
 
-# [[#English|Oceania]]
+# {{l|en|Oceania}}
 
 ====Related terms====
 * [[oceano]]
 
 ===See also===
 * {{list|it|continents}}
-
-[[Category:it:Continents]]
 
 ----
 
@@ -157,13 +154,12 @@ Territories in Oceania belonging to other countries include:
 ===Proper noun===
 {{la-proper noun|Oceania|Oceaniae|Oceaniae|f|first}}
 
-# [[#English|Oceania]]
+# {{l|en|Oceania}}
 
 ====Inflection====
 {{la-decl-1st-loc|Oceani}}
 
 [[Category:la:Continents]]
-[[Category:la:Place names]]
 
 ----
 
@@ -175,7 +171,7 @@ Territories in Oceania belonging to other countries include:
 ===Proper noun===
 {{head|pl|proper noun|g=f}}
 
-# [[#English|Oceania]]
+# {{l|en|Oceania}}
 
 ====Declension====
 {{pl-decl-noun-sing
@@ -198,7 +194,7 @@ Territories in Oceania belonging to other countries include:
 ===Proper noun===
 {{head|ro|proper noun|g=f}}
 
-# [[#English|Oceania]]
+# {{l|en|Oceania}}
 
 ====Declension====
 {{ro-country|gend=f|Oceaniei}}
