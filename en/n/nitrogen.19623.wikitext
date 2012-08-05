@@ -79,17 +79,15 @@ From {{etyl|fr}} ''[[nitrogène]]'' (coined by [[w:Lavoisier|Lavoisier]]), corre
 * Basque: {{t-|eu|nitrogenoa|xs=Basque}}
 * Belarusian: {{t-|be|азот|m|tr=azot|xs=Belarusian}}
 * Bengali: {{t-|bn|নাইট্রোজেন|sc=Beng|xs=Bengali}}
-* Bosnian: {{t-|bs|dušik}}
-* Breton: nitrogen {{m}}, [[azot]]
+* Breton: {{t|br|nitrogen|m}}, {{t|br|azot}}
 * Bulgarian: {{t+|bg|азот|m|tr=azót}}
 * Catalan: {{t+|ca|nitrogen|m}}
 * Chinese:
 *: Mandarin: {{t-|cmn|氮|tr=dàn|sc=Hani}}
 *: Min Nan: {{t-|nan|n|xs=Min Nan}}
 * Chuvash: {{tø|cv|азот|sc=Cyrl}}
-* Cornish: [[nytrojen]]
+* Cornish: {{t|kw|nytrojen}}
 * Corsican: {{t-|co|azotu|xs=Corsican}}
-* Croatian: {{t+|hr|dušik}}
 * Czech: {{t+|cs|dusík|m}}
 * Danish: {{t-|da|nitrogen}}, {{t-|da|kvælstof}}
 * Dutch: {{t+|nl|stikstof|f}}
@@ -99,7 +97,7 @@ From {{etyl|fr}} ''[[nitrogène]]'' (coined by [[w:Lavoisier|Lavoisier]]), corre
 * Finnish: {{t+|fi|typpi}}
 * French: {{t+|fr|azote|m}}
 * Friulian: {{tø|fur|azôt}}
-* Galician: {{t+|gl|nitróxeno|xs=Galician}}
+* Galician: {{t+|gl|nitróxeno|m|xs=Galician}}
 * Georgian: {{t-|ka|აზოტი|tr=azoti|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Stickstoff|m}}
 * Greek: {{t+|el|άζωτο|n|tr=ázoto}}
@@ -118,7 +116,7 @@ From {{etyl|fr}} ''[[nitrogène]]'' (coined by [[w:Lavoisier|Lavoisier]]), corre
 * Javanese: {{t-|jv|nitrogen|xs=Javanese}}
 * Kannada: {{t-|kn|ಸಾರಜನಕ|sc=Knda|xs=Kannada}}
 * Kapampangan: {{tø|pam|nitrogen}}
-* Kashubian: [[tãcheń]]
+* Kashubian: {{t|csb|tãcheń}}
 * Kazakh: {{t-|kk|азот|tr=azot|sc=Cyrl|xs=Kazakh}}
 * Korean: {{t+|ko|질소|tr=[[窒素]], jilso|sc=Hang}}
 {{trans-mid}}
@@ -153,8 +151,10 @@ From {{etyl|fr}} ''[[nitrogène]]'' (coined by [[w:Lavoisier|Lavoisier]]), corre
 * Romanian: {{t+|ro|azot|n}}
 * Russian: {{t+|ru|азот|m|tr=azót}}
 * Samogitian: {{tø|sgs|azuots}}
-* Scottish Gaelic: [[nìtrigin]]
-* Serbian: {{t+|sr|азот|m|tr=azot|sc=Cyrl}}
+* Scottish Gaelic: {{t|gd|nìtrigin}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|азот|m|sc=Cyrl}}
+*: Roman: {{t|sh|azot|m}}, {{t|sh|dušik|m}} {{qualifier|Croatia}}
 * Sicilian: {{t+|scn|azzotu|xs=Sicilian}}
 * Slovak: {{t-|sk|dusík|m}}
 * Slovene: {{t+|sl|dušik}}
@@ -171,7 +171,7 @@ From {{etyl|fr}} ''[[nitrogène]]'' (coined by [[w:Lavoisier|Lavoisier]]), corre
 * Uzbek: {{t-|uz|азот|tr=azot|sc=Cyrl|xs=Uzbek}}
 * Vietnamese: {{t-|vi|nitơ|xs=Vietnamese}}
 * Welsh: {{t-|cy|nitrogen|xs=Welsh}}
-* West Frisian: [[stikstof]]
+* West Frisian: {{t|fy|stikstof}}
 * Yiddish: {{t-|yi|אזאט|tr=azot|xs=Yiddish}}
 {{trans-bottom}}
 
@@ -204,7 +204,7 @@ From {{etyl|fr|ca}} {{term|nitrogène|lang=fr}}.
 ===Noun===
 {{ca-noun|m|-}}
 
-# [[#English|nitrogen]]
+# {{l|en|nitrogen}}
 
 ====Synonyms====
 * {{l|ca|azot}}
