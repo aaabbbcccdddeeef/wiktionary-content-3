@@ -39,21 +39,20 @@ From {{etyl|grc}} {{term|Εὐρώπη|tr=Eurōpē|lang=grc}}.
 {{trans-see|European Union|European Union}}
 
 {{trans-top|continent}}
-* Afrikaans: [[Europa]]
+* Afrikaans: {{t|af|Europa}}
 * Arabic: {{t|ar|أوروبا|f|tr=’urúbba|sc=Arab}}, {{t|ar|أوربا|f|tr=’urúbba|sc=Arab}}, {{t|ar|أوروبة|f|tr=’urúbba|sc=Arab}}
 * Armenian: {{t+|hy|Եվրոպա|tr=Evropa}}
+* Asturian: {{t|ast|Europa|f}}
 * Aymara: {{t|ay|Iwrupa}}
 * Azeri: {{t|az|Avropa}}
 * Basque: {{t+|eu|Europa|xs=Basque}}
 * Belarusian: {{t|be|Еўропа|f|tr=Jeŭrópa|sc=Cyrl}}
 * Bengali: {{t|bn|ইউরোপ|tr=iurop|sc=Beng}}
-* Bosnian: {{t-|bs|Evropa|f}}
 * Bulgarian: {{t+|bg|Европа|f|tr=Evrópa}}
 * Burmese: {{t|my|ဥရောပ|tr=u.raw:pa.|sc=Mymr}}
 * Catalan: {{t+|ca|Europa|f}}
 * Chinese:
 *: Mandarin: {{t|zh|歐洲|sc=Hani}}, {{t|zh|欧洲|tr=Ōuzhōu|sc=Hani}}
-* Croatian: {{t+|hr|Europa|f|alt=Európa}}
 * Czech: {{t+|cs|Evropa|f}}
 * Danish: {{t-|da|Europa}}
 * Dutch: {{t+|nl|Europa|n}}
@@ -62,6 +61,7 @@ From {{etyl|grc}} {{term|Εὐρώπη|tr=Eurōpē|lang=grc}}.
 * Faroese: {{t-|fo|Evropa|n|xs=Faroese}}
 * Finnish: {{t+|fi|Eurooppa}}
 * French: {{t+|fr|Europe|f}}
+* Galician: {{t|gl|Europa|f}}
 * Georgian: {{t-|ka|ევროპა|tr=evropa|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Europa|n}}
 * Greek: {{t+|el|Ευρώπη|f|tr=Evrópi}}
@@ -74,19 +74,19 @@ From {{etyl|grc}} {{term|Εὐρώπη|tr=Eurōpē|lang=grc}}.
 * Interlingua: {{t+|ia|Europa|xs=Interlingua}}
 * Irish: {{t-|ga|Eoraip|f|xs=Irish}}
 * Italian: {{t+|it|Europa}}
-* Japanese: {{t+|ja|ヨーロッパ|tr=Yōroppa}}, {{t|ja|欧羅巴|tr=Yōroppa}} (Ateji), {{t+|ja|欧州|tr=Ōshū}}
+* Japanese: {{t+|ja|ヨーロッパ|tr=Yōroppa}}, {{t|ja|欧羅巴|tr=Yōroppa}} {{qualifier|ateji}}, {{t+|ja|欧州|tr=Ōshū}}
 * Kazakh: {{t|kk|Еуропа|tr=Europa|sc=Cyrl}}
 * Khmer: {{t|km|អឺរ៉ុប|tr=əɨrop|sc=Khmr}}
 * Korean: {{t+|ko|유럽|tr=Yureop|sc=Hang}}, {{t|ko|구주|tr=Guju|sc=Kore}} ({{t|ko|歐洲|sc=Kore}})
 * Kurdish:
-*: Sorani: {{ku-Arab|[[ئه‌وروپا]]}}
+*: Sorani: {{t|ku|ئه‌وروپا}}
 * Kyrgyz: {{t|ky|Европа|tr=Evropa|sc=Cyrl}}
 * Lao: {{t|lo|ເອີລົບ|tr=œlôp|sc=Laoo}}
 * Latin: {{t+|la|Europa|f}}
 * Latvian: {{t|lv|Eiropa|f|xs=Latvian}}
 {{trans-mid}}
 * Lithuanian: {{t+|lt|Europa|f|xs=Lithuanian}}
-* Livonian: [[Eirōp]]
+* Livonian: {{t|liv|Eirōp}}
 * Low Saxon: [[Europa]]<!--(ööropa/oiropa)-->, [[Uropa]]<!--(üropa)-->
 * Luxembourgish: {{t|lb|Europa|f}}
 * Macedonian: {{t|mk|Европа|f|tr=Evrópa|sc=Cyrl}}
@@ -106,9 +106,9 @@ From {{etyl|grc}} {{term|Εὐρώπη|tr=Eurōpē|lang=grc}}.
 * Romansch: {{t|rm|Europa|f}}
 * Russian: {{t+|ru|Европа|f|tr=Jevrópa}}
 * Scottish Gaelic: {{t-|gd|Roinn-Eòrpa|f|alt=an Roinn-Eòrpa|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: {{t+|sr|Европа|f|sc=Cyrl}}
-*: Roman: [[Evropa]] {{f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Европа|f|sc=Cyrl}}, {{t|sh|Еуропа|f|sc=Cyrl}} {{qualifier|Croatia}}
+*: Roman: {{t|sh|Evropa|f}}, {{t|sh|Europa|f}} {{qualifier|Croatia}}
 * Silesian: {{tø|szl|Ojropa}}
 * Sinhalese: {{t|si|යුරෝපය|tr=yurōpaya|sc=Sinh}}
 * Slovak: {{t|sk|Európa|f}}
@@ -136,8 +136,7 @@ From {{etyl|grc}} {{term|Εὐρώπη|tr=Eurōpē|lang=grc}}.
 * {{list|en|continents}}
 * {{list|en|countries of Europe}}
 
-[[Category:en:Continents]]
-[[Category:en:Europe|*]]
+[[Category:en:Europe]]
 
 ----
 
@@ -152,7 +151,7 @@ From {{etyl|la|fr}} {{term|Europa|Eurōpa|lang=la}}, from {{etyl|grc|fr}} {{term
 ===Proper noun===
 {{fr-proper noun|f}}
 
-# [[#English|Europe]]
+# {{l|en|Europe}}
 # [[Europa]], a [[moon]] of [[Jupiter]]
 
 ====Derived terms====
@@ -164,7 +163,7 @@ From {{etyl|la|fr}} {{term|Europa|Eurōpa|lang=la}}, from {{etyl|grc|fr}} {{term
 * [[UE]]
 
 [[Category:fr:Continents]]
-[[Category:fr:Europe|*]]
+[[Category:fr:Europe]]
 
 [[zh-min-nan:Europe]]
 [[cs:Europe]]
