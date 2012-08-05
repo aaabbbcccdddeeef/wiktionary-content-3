@@ -27,17 +27,15 @@ From {{etyl|NL.}} {{term|Antarctica|lang=la}}, from {{etyl|grc}} {{term|ἀντ�
 * Basque: {{t|eu|Antartika|xs=Basque}}
 * Belarusian: {{t|be|Антарктыда|f|tr=Antarktýda|xs=Belarusian}}, {{t|be|Антарктыка|f|tr=Antárktyka|xs=Belarusian}} {{qualifier|the region}}
 * Bengali: {{t|bn|অ্যান্টার্কটিকা|sc=Beng}}
-* Bosnian: {{t-|bs|Antarktik|m}}
-* Breton: [[Antarktika#Breton|Antarktika]]
+* Breton: {{t|br|Antarktika}}
 * Bulgarian: {{t-|bg|Антарктида|f|tr=Antarktída}} {{qualifier|the continent}}, {{t-|bg|Антарктика|f|tr=Antárktika}} {{qualifier|the region}}
-* Catalan: [[Antàrtida]] {{f}}
+* Catalan: {{t|ca|Antàrtida|f}}
 * Chinese:
 *: Mandarin: {{t-|cmn|南極洲|sc=Hani}}, {{t-|cmn|南极洲|tr=Nánjízhōu|sc=Hani}}
-* Croatian: {{t+|hr|Antarktika|f}}
 * Czech: {{t-|cs|Antarktida|f}}
 * Dutch: {{t+|nl|Antarctica|n}}
 * Esperanto: {{t+|eo|Antarkto|xs=Esperanto}}
-* Estonian: [[Antarktika]], [[Antarktis]], [[Lõunamanner]]
+* Estonian: {{t|et|Antarktika}}, {{t|et|Antarktis}}, {{t|et|Lõunamanner}}
 * Finnish: {{t-|fi|Etelämanner}}, {{t-|fi|Antarktis}}, {{t-|fi|Etelänapamanner}}
 * French: {{t+|fr|Antarctique|m}}
 * German: {{t+|de|Antarktis|f}}
@@ -49,7 +47,7 @@ From {{etyl|NL.}} {{term|Antarctica|lang=la}}, from {{etyl|grc}} {{term|ἀντ�
 * Hungarian: {{t+|hu|Antarktisz}}
 * Icelandic: {{t|is|Suðurskautslandið|n}}, {{t|is|Suðurheimskautslandið|n}}, {{t|is|Antarktíka|f}}
 {{trans-mid}}
-* Interlingua: [[Antarctica#Interlingua|Antarctica]]
+* Interlingua: {{t|ia|Antarctica}}
 * Italian: {{t+|it|Antartide}}
 * Japanese: {{t-|ja|南極|tr=なんきょく, Nankyoku}}, {{t-|ja|南極大陸|tr=なんきょくたいりく, Nankyoku tairiku}}
 * Khmer: {{t|km|អង់តាទិក|sc=Khmr|tr=ɑngtaatik}}
@@ -66,9 +64,9 @@ From {{etyl|NL.}} {{term|Antarctica|lang=la}}, from {{etyl|grc}} {{term|ἀντ�
 * Portuguese: {{t+|pt|Antártica}}
 * Romanian: {{t-|ro|Antarctica}}
 * Russian: {{t+|ru|Антарктида|f|tr=Antarktída}}, {{t+|ru|Антарктика|f|tr=Antárktika}} {{qualifier|the region}}
-* Serbian:
-*:* Cyrillic: [[Антарктик]] {{f}}
-*:* Roman: [[Antarktik]] {{f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Антарктик|f}}
+*: Roman: {{t|sh|Antarktik|f}}
 * Slovene: {{t+|sl|Antarktika}}
 * Spanish: {{t+|es|Antártida}}
 * Swedish: {{t+|sv|Antarktis}}
@@ -109,9 +107,9 @@ From {{etyl|NL.}} {{term|Antarctica|lang=la}}, from {{etyl|grc}} {{term|ἀντ�
 * {{IPA|lang=nl|/ɑn.ˈtɑrk.ti.kaː/}}
 
 ===Proper noun===
-{{head|nl|proper noun|g=n}}
+{{nl-proper noun|g=n}}
 
-# [[#English|Antarctica]]
+# {{l|en|Antarctica}}
 
 [[Category:nl:Continents]]
 
@@ -123,7 +121,7 @@ From {{etyl|NL.}} {{term|Antarctica|lang=la}}, from {{etyl|grc}} {{term|ἀντ�
 ===Proper noun===
 {{la-proper noun|Antarctica|Antarcticae|Antarcticae|f|first}}
 
-# [[#English|Antarctica]]
+# {{l|en|Antarctica}}
 
 ====Inflection====
 {{la-decl-1st-loc|Antarctic}}
@@ -142,7 +140,7 @@ From {{etyl|NL.}} {{term|Antarctica|lang=la}}, from {{etyl|grc}} {{term|ἀντ�
 ===Proper noun===
 {{head|ro|proper noun|g=f}}
 
-# [[#English|Antarctica]]
+# {{l|en|Antarctica}}
 
 ====Declension====
 {{ro-country|gend=f|Antarcticii}}
