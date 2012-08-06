@@ -87,7 +87,6 @@ From {{etyl|NL.}} {{term|lithium|lang=la}}, from {{term|lithia|lang=la}} (in ref
 * Basque: {{t|eu|litioa|xs=Basque}}
 * Belarusian: {{t|be|лiтый|m|tr=lítyj|xs=Belarusian}}
 * Bengali: {{t-|bn|লিথিযাম|sc=Beng|xs=Bengali}}
-* Bosnian: {{t-|bs|litij|m}}, {{t-|bs|litijum|m}}
 * Breton: {{t|br|litiom|xs=Breton}}
 * Bulgarian: {{t+|bg|литий|m|tr=lítij}}
 * Catalan: {{t-|ca|liti|m}}
@@ -97,7 +96,6 @@ From {{etyl|NL.}} {{term|lithium|lang=la}}, from {{term|lithia|lang=la}} (in ref
 * Chuvash: {{tø|cv|лити|sc=Cyrl|xs=Chuvash}}
 * Cornish: {{t|kw|lythyum|xs=Cornish}}
 * Corsican: {{t-|co|litiu|xs=Corsican}}
-* Croatian: {{t+|hr|litij|m|alt=lȋtīj}}
 * Czech: {{t+|cs|lithium|m}}
 * Danish: {{t-|da|lithium}}
 * Dutch: {{t+|nl|lithium|n}}
@@ -125,7 +123,7 @@ From {{etyl|NL.}} {{term|lithium|lang=la}}, from {{term|lithia|lang=la}} (in ref
 * Japanese: {{t+|ja|リチウム|tr=richiumu}}
 * Javanese: {{t-|jv|litium|xs=Javanese}}
 * Kannada: {{t-|kn|ಲಥಯಮ|sc=Knda|xs=Kannada}}
-* Kashubian: [[lët]]
+* Kashubian: {{t|csb|lët}}
 {{trans-mid}}
 * Kazakh: {{t-|kk|литий|tr=litii|sc=Cyrl|xs=Kazakh}}
 * Korean: {{t+|ko|리튬|tr=rityum|sc=Hang}}
@@ -155,9 +153,9 @@ From {{etyl|NL.}} {{term|lithium|lang=la}}, from {{term|lithia|lang=la}} (in ref
 * Russian: {{t+|ru|литий|m|tr=lítij}}
 * Sanskrit: {{t-|sa|लिथियम|xs=Sanskrit}}
 * Scottish Gaelic: {{t|gd|litiam|xs=Scottish Gaelic}}
-* Serbian:
-*: Cyrillic: {{t-|sr|литиjум|m|sc=Cyrl}}
-*: Roman: {{t-|sr|litijum|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|литиjум|m|sc=Cyrl}}, {{t|sh|литиj|m|sc=Cyrl}}
+*: Roman: {{t|sh|litijum|m}}, {{t|sh|litij|m}}
 * Slovak: {{t-|sk|lítium}}
 * Slovene: {{t+|sl|litij}}
 * Spanish: {{t+|es|litio|m}}
@@ -179,7 +177,9 @@ From {{etyl|NL.}} {{term|lithium|lang=la}}, from {{term|lithia|lang=la}} (in ref
 {{trans-top|treatment for mental disorders}}
 * Bulgarian: {{t|bg|литий|m|tr=lítij|sc=Cyrl}}
 {{trans-mid}}
-* Croatian: {{t+|hr|litij|m|alt=lȋtīj}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|литиj|m|sc=Cyrl}}
+*: Roman: {{t|sh|litij|m}}
 {{trans-bottom}}
 
 ====References====
@@ -194,7 +194,7 @@ From {{etyl|NL.}} {{term|lithium|lang=la}}, from {{term|lithia|lang=la}} (in ref
 ===Noun===
 {{cs-noun|g=n}}
 
-# [[#English|lithium]]
+# {{l|en|lithium}}
 
 [[Category:cs:Chemical elements]]
 
@@ -210,7 +210,7 @@ From {{etyl|NL.}} {{term|lithium|lang=la}}, from {{term|lithia|lang=la}} (in ref
 ===Noun===
 {{nl-noun|n|-|-}}
 
-# [[#English|lithium]]
+# {{l|en|lithium}}
 
 ----
 
@@ -224,7 +224,7 @@ From {{etyl|NL.}} {{term|lithium|lang=la}}, from {{term|lithia|lang=la}} (in ref
 ===Noun===
 {{fr-noun-unc|m}}
 
-# [[#English|lithium]]
+# {{l|en|lithium}}
 
 [[Category:fr:Chemical elements]]
 
@@ -236,7 +236,7 @@ From {{etyl|NL.}} {{term|lithium|lang=la}}, from {{term|lithia|lang=la}} (in ref
 ===Noun===
 {{la-noun|lithium|lithii|lithiī|n|second}}
 
-# [[#English|lithium]]
+# {{l|en|lithium}}
 
 ====Inflection====
 {{la-decl-2nd-N|lithi}}
