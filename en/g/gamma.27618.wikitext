@@ -9,7 +9,7 @@
 {{en-noun}}
 
 # The name of the third letter of the [[Greek]] [[alphabet]] ('''[[Γ]]''', '''[[γ]]'''), preceded by [[beta]] ('''[[Β]]''', '''[[β]]''') and followed by [[delta]], ('''[[Δ]]''', '''[[δ]]''').
-# {{context|mathematics}} The [[w:Gamma function|Gamma function]], symbolized by Γ.
+# {{context|mathematics}} The {{w|Gamma function}}, symbolized by Γ.
 # {{context|mathematics}} A [[constant]] approximately equal to 0.55721566, symbolized by γ.
 # {{context|physics}} A unit of magnetic [[field]] equal to 1 [[nT]].
 
@@ -24,7 +24,6 @@
 {{trans-top|the name of the third letter of the Greek alphabet}}
 * Arabic: {{t|ar|غاما|f|tr=ghaamaa|sc=Arab}}
 *: [[Egyptian Arabic]]: {{tø|arz|جاما|f|tr=gaamaa|sc=Arab}}
-* Bosnian: {{t-|bs|gama}}
 * Catalan: {{t-|ca|gamma|f}}
 * Chinese:
 *: Mandarin: {{t|zh|伽瑪|sc=Hani}}, {{t|zh|伽玛|tr=gāmǎ|sc=Hani}}, {{t|zh|伽馬|sc=Hani}}, {{t|zh|伽马|tr=gāmǎ|sc=Hani}}
@@ -69,7 +68,6 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sh}}: [[gama]]
 * {{ttbc|fr}}: [[gamme]] {{f}}
 * {{ttbc|ia}}: gamma
 * {{ttbc|it}}: gamma
@@ -94,7 +92,7 @@
 ===Noun===
 {{ca-noun|f|gammes}}
 
-# [[#English|Gamma]]; the [[Appendix:Greek script|Greek]] letter [[Γ]] (lowercase [[γ]]).
+# {{l|en|gamma|Gamma}}; the [[Appendix:Greek script|Greek]] letter [[Γ]] (lowercase [[γ]]).
 # [[gamut|Gammut]]; the range of possible values, especially:
 #: {{music|lang=ca}} the set of tones available from a musical instrument, or
 # the set of possible color values available from a photographic or electronic device.
@@ -106,7 +104,7 @@
 ==Crimean Tatar==
 
 ===Noun===
-'''gamma'''
+{{head|crh|noun}}
 
 # [[gamut]]
 
@@ -115,8 +113,6 @@
 
 ===References===
 * {{R:Useinov-Mireev 2002}}
-
-[[Category:Crimean Tatar nouns]]
 
 ----
 
@@ -131,7 +127,7 @@
 ===Noun===
 {{fi-noun}}
 
-# [[#English|gamma]]
+# {{l|en|gamma}}
 
 ====Declension====
 {{fi-decl-kala|gamm}}
@@ -145,23 +141,20 @@
 ===Noun===
 {{fr-noun-inv|m}}
 
-# [[#English|gamma]] {{gloss|Greek letter}}
+# {{l|en|gamma}} {{gloss|Greek letter}}
 
-[[Category:French masculine nouns]]
 [[Category:fr:Greek letter names]]
 
 ----
 
 ==Italian==
+{{wikipedia|lang=it}}
 
 ===Noun===
-{{wikipedia|lang=it}}
 {{it-noun|gamm|f|a|e}}
 
 # [[range]], [[gamut]]
-
-'''gamma''' {{m|f|inv}}
-# [[#English|gamma]] (Greek letter)
+# {{l|en|gamma}} (Greek letter)
 
 ====Derived terms====
 * [[raggio gamma]]
@@ -178,7 +171,7 @@
 ===Noun===
 {{es-noun|f}}
 
-# [[gamma]]; the Greek letter '''[[Γ]]''', '''[[γ]]'''
+# {{l|en|gamma}}; the Greek letter '''[[Γ]]''', '''[[γ]]'''
 
 [[Category:es:Greek letter names]]
 
@@ -192,7 +185,7 @@
 ===Noun===
 {{sv-noun|g=n}}
 
-# [[#English|gamma]]; the Greek letter '''[[Γ]]''', '''[[γ]]'''
+# {{l|en|gamma}}; the Greek letter '''[[Γ]]''', '''[[γ]]'''
 
 [[Category:sv:Greek letter names]]
 
