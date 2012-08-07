@@ -44,21 +44,15 @@ From {{etyl|enm}} {{term|arrayen|lang=enm}}, from {{etyl|xno}} {{term|arayer|lan
 |url=http://news.bbc.co.uk/sport2/hi/football/15325536.stm
 |page=
 |passage=Mario Balotelli, in the headlines for accidentally setting his house ablaze with fireworks, put City on their way with goals either side of the interval as United struggled to contain the '''array''' of attacking talent in front of them.}}
-# {{programming}} A [[vector]].
-# {{programming}} A [[multidimensional array]].
-# {{computing}} An [[associative array]].
+# {{programming}} Any of various data structures designed to hold multiple elements of the same type; ''especially'', a data structure that holds these elements in adjacent memory locations so that they may be retrieved using numeric indices.
 
 ====Usage notes====
-* {{programming}} (the data structure) The synonym "[[vector]]" is more precise when the '''array''' is one-dimensional and the indices are either [[non-negative]] or [[positive]] integers.
+* {{sense|any of various data structures}} The exact usage of the term {{term||array|lang=en}}, and of related terms, generally depends on the programming language. For example, many languages distinguish a fairly low-level "array" construct from a higher-level "list" or "vector" construct. Some languages distinguish between an "array" and a variety of "associative array"; others have only the latter concept, calling it an "array".
 
 ====Derived terms====
 * [[associative array]]
 * [[multidimensional array]]
 * [[systolic array]]
-
-====See also====
-* {{computing}} [[ones-based indexing]]
-* {{computing}} [[zero-based indexing]]
 
 ====Antonyms====
 * {{sense|orderly series}} [[disarray]]
@@ -88,8 +82,7 @@ From {{etyl|enm}} {{term|arrayen|lang=enm}}, from {{etyl|xno}} {{term|arayer|lan
 * Swedish: {{t+|sv|samling|c}}
 {{trans-bottom}}
 
-<!-- should this be the same trans section for all the computing definitions? -->
-{{trans-top|computing - arrangement of memory elements}}
+{{trans-top|any of various data structures}}
 * Chinese:
 *: Mandarin: {{t|zh|數組|sc=Hani}}, {{t|zh|数组|tr=shùzǔ|sc=Hani}}
 * Czech: {{t+|cs|pole|n}}
@@ -114,6 +107,9 @@ From {{etyl|enm}} {{term|arrayen|lang=enm}}, from {{etyl|xno}} {{term|arayer|lan
 * {{ttbc|io}}: [[tabelo]]
 * {{ttbc|ro}}: [[tablou]] {{n}}
 {{trans-bottom}}
+
+====See also====
+* {{sense|any of various data structures}} [[ones-based indexing]], [[zero-based indexing]]
 
 [[ar:array]]
 [[et:array]]
