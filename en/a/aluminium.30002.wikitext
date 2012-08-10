@@ -125,24 +125,22 @@ Started to be used in 1812 as an alternative form of [[aluminum]] which was inve
 {{trans-top|A silvery metal}}
 * Afrikaans: {{t-|af|aluminium|xs=Afrikaans}}
 * Albanian: {{t+|sq|alumin|xs=Albanian}}
-* Arabic: {{t-|ar|ألومنيوم|m|tr=’alumínyum}}
+* Arabic: {{t-|ar|ألومنيوم|m|tr=ʾalumínyum}}
 * Armenian: {{t-|hy|ալյումին|tr=alyumin}}
 * Asturian: {{t+|ast|aluminiu|xs=Asturian}}
 * Azeri: {{t-|az|alüminium|xs=Azeri}}
 * Basque: {{t|eu|aluminioa|xs=Basque}}
 * Belarusian: {{t|be|алюмiнiй|m|tr=aljumínij|xs=Belarusian}}
 * Bengali: {{t-|bn|অ্যালুমিনিয়াম|sc=Beng|xs=Bengali}}
-* Bosnian: {{t-|bs|aluminijum}}
 * Breton: {{t-|br|aluminiom|m|xs=Breton}}
 * Bulgarian: {{t|bg|алуминий|m|tr=alumínij}}
 * Catalan: {{t+|ca|alumini}}
 * Chinese:
-*: Mandarin: [[鋁]], {{t-|cmn|铝|sc=Hani}} (lǚ)
+*: Mandarin: {{t|zh|鋁|sc=Hani}}, {{t|zh|铝|tr=lǚ|sc=Hani}}
 *: Min Nan: {{t-|nan|lī/lū|xs=Min Nan}}
-* Chuvash: {{tø|cv|алюмини|sc=Cyrl}}
+* Chuvash: {{tø|cv|алюмини|tr=aljumini|sc=Cyrl}}
 * Cornish: {{t|kw|alumynyum|xs=Cornish}}
 * Corsican: {{t-|co|alluminiu|xs=Corsican}}
-* Croatian: {{t+|hr|aluminij}}
 * Czech: {{t+|cs|hliník|m}}
 * Danish: {{t+|da|aluminium}}
 * Dutch: {{t+|nl|aluminium|n}}
@@ -156,11 +154,11 @@ Started to be used in 1812 as an alternative form of [[aluminum]] which was inve
 * Galician: {{t+|gl|aluminio|xs=Galician}}
 * Georgian: {{t|ka|ალუმინი|tr=alumini|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Aluminium|n}}
-* Greek: {{t+|el|αργίλιο}}, {{t+|el|αλουμίνιο|n|tr=aloumínio}}
+* Greek: {{t+|el|αργίλιο|tr=argílio}}, {{t+|el|αλουμίνιο|n|tr=aloumínio}}
 * Haitian Creole: {{tø|ht|aliminyòm}}
 * Hawaiian: {{tø|haw|‘Aluminuma}}
 * Hebrew: {{t+|he|אלומיניום|tr=alumínyum}}, {{t|he|חמרן|m|tr=ḥamran, ḥomran}}
-* Hindi: {{t-|hi|एलुमिनियम|xs=Hindi}}
+* Hindi: {{t-|hi|एलुमिनियम|tr=eluminiyam|xs=Hindi}}
 * Hungarian: {{t+|hu|alumínium}}
 * Icelandic: {{t+|is|ál}}
 * Ido: {{t+|io|aluminio|xs=Ido}}
@@ -196,7 +194,7 @@ Started to be used in 1812 as an alternative form of [[aluminum]] which was inve
 *: [[Norwegian Nynorsk]]: {{t+|nn|aluminium|xs=Norwegian Nynorsk}}
 * Novial: {{tø|nov|aluminie}}
 * Occitan: {{t+|oc|alumini|xs=Occitan}}
-* Persian: {{t-|fa|آلومینیم|xs=Persian}}
+* Persian: {{t-|fa|آلومینیم|tr=âluminiyom|xs=Persian}}
 * Polish: {{t+|pl|glin|m}}, {{t+|pl|aluminium|m}}
 * Portuguese: {{t+|pt|alumínio|m}}
 * Quechua: {{t-|qu|ch'aqu q'illay|xs=Quechua}}
@@ -205,21 +203,23 @@ Started to be used in 1812 as an alternative form of [[aluminum]] which was inve
 * Saterland Frisian: {{tø|stq|aluminium}}
 * Scottish Gaelic: {{t-|gd|alùmanam|xs=Scottish Gaelic}}, {{t-|gd|almain|xs=Scottish Gaelic}}
 * Serbian: {{t-|sr|алуминиjум|m|tr=aluminijum|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|алуминиjум|m|sc=Cyrl}}, {{t|sh|алуминиj|m|sc=Cyrl}}
+*: Roman: {{t|sh|aluminijum|m}}, {{t|sh|aluminij|m}}
 * Sicilian: {{t+|scn|alluminiu|xs=Sicilian}}
 * Slovak: {{t-|sk|hliník}}
 * Slovene: {{t+|sl|aluminij}}
 * Spanish: {{t+|es|aluminio|m}}
 * Swahili: {{t-|sw|alumini|xs=Swahili}}
 * Swedish: {{t+|sv|aluminium|n}}
-* Tajik:
-*: Cyrillic: {{t-|tg|алюминий|sc=Cyrl|xs=Tajik}}
-*: Roman: {{t|tg|alyumini'|xs=Tajik}}
+* Tajik: {{t-|tg|алюминий|sc=Cyrl|xs=Tajik}}
 * Tamil: {{t|ta|அலூமீனியம்|tr=alūmīniyam|xs=Tamil}}
 * Telugu: {{t+|te|అల్యూమినియం}}
 * Thai: {{t-|th|อะลูมิเนียม|tr=àloomíniam}}, {{t|th|อะลูมินัม|tr=àloomínam}}
 * Turkish: {{t+|tr|alüminyum}}
 * Ukrainian: {{t-|uk|алюмiнiй|m|tr=aljumínij|xs=Ukrainian}}
-* Uzbek: {{t-|uz|алюминий|tr=alyuminiy|sc=Cyrl|xs=Uzbek}}
+* Uzbek: {{t|uz|alyuminiy}}
+*: Cyrillic: {{t-|uz|алюминий|sc=Cyrl}}
 * Vietnamese: {{t+|vi|nhốm|xs=Vietnamese}}
 * Volapük: {{t|vo|lalumin}}
 * Welsh: {{t-|cy|alwminiwm|xs=Welsh}}
