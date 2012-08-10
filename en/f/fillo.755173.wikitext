@@ -13,7 +13,7 @@ From Latin ''[[filius]]''. Cognate to Italian ''[[figlio]]''.
 ==Galician==
 
 ===Etymology===
-From {{etyl|la|gl}} {{term|filius|fīlius|lang=la}}.
+From {{etyl|roa-ptg|gl}} {{term|fillo||son|lang=roa-ptg}}, from  {{etyl|la|gl}} {{term|filius|fīlius|son|lang=la}}.
 
 ===Noun===
 {{gl-noun|m}}
@@ -21,6 +21,30 @@ From {{etyl|la|gl}} {{term|filius|fīlius|lang=la}}.
 # [[son]]
 
 [[Category:gl:Family]]
+
+----
+
+==Old Portuguese==
+
+===Etymology===
+From {{etyl|la|roa-ptg}} {{term|filius|fīlius|son|lang=la}}.
+
+===Pronunciation===
+* {{IPA|/ˈfi.ʎo/|lang=roa-ptg}}
+
+===Noun===
+{{head|roa-ptg|noun|g=m|plural|fillos|feminine|filla|feminine plural|fillas}}
+
+# [[son]]
+#* {{roa-ptg-cite-cantigas|E|4|http://www.pbm.com/~lindahl/cantigas/facsimiles/E/058.html}}
+#: Eſta e como Santa maria guardou ao fillo do judeu que non ardeſſe. que ſeu padre deitara no forno.
+#:: This one is (about) how Holy Mary protected the son of the Jew from burning, whose father had lain him in the furnace.
+
+====Descendants====
+* Galician: {{l|gl|fillo}}
+* Portuguese: {{l|pt|filho}}
+
+[[Category:roa-ptg:Family]]
 
 [[af:fillo]]
 [[ast:fillo]]
