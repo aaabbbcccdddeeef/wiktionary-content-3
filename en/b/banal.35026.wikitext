@@ -60,7 +60,7 @@ From {{etyl|fr}} {{term|bannal}}, from {{etyl|ML.}} {{term|bannalis||pertaining 
 * Italian: {{t+|it|banale}}
 * Japanese: {{t|ja|ありふれた|tr=arifureta|sc=Jpan}}, {{t|ja|陳腐|tr=ちんぷな, chinpu-na|alt=陳腐な|sc=Jpan}}
 * Lithuanian: {{t|lt|banalus|m|xs=Lithuanian}},  {{t-|lt|banali|f|xs=Lithuanian}},  {{t|lt|banalūs|m|p|xs=Lithuanian}},  {{t|lt|banalios|f|p|xs=Lithuanian}}
-* Malay: {{t|ms|basi}}
+* Malay: {{t|ms|basi}}, {{t|ms|banal}}
 * Norwegian: {{t-|no|banal|m|f}}, {{t|no|banalt}}
 * Polish: {{t+|pl|banalny}}
 * Portuguese: {{t+|pt|banal|m|f}}
@@ -93,6 +93,9 @@ From {{etyl|fr}} {{term|bannal}}, from {{etyl|ML.}} {{term|bannalis||pertaining 
 
 ==French==
 
+===Etymology===
+From {{etyl|ML.|fr}} {{term|bannalis|lang=ML.}}, from {{term|bannum|lang=ML.}}.
+
 ===Pronunciation===
 * {{audio|Fr-banal.ogg|audio}}
 * {{IPA|/ba.nal/|lang=fr}}
@@ -116,7 +119,7 @@ From {{etyl|fr}} {{term|bannal}}, from {{etyl|ML.}} {{term|bannalis||pertaining 
 ==German==
 
 ===Etymology===
-From {{etyl|fr|de}} {{term|banal|lang=fr}}
+From {{etyl|fr|de}} {{term|banal|lang=fr}}, from {{etyl|ML.|de}} {{term|bannalis|lang=ML.}}, from {{term|bannum|lang=ML.}}.
 
 ===Adjective===
 {{de-adj|comparative=banaler|superlative=banalsten}}
@@ -132,12 +135,12 @@ From {{etyl|fr|de}} {{term|banal|lang=fr}}
 ==Indonesian==
 
 ===Etymology===
-From {{etyl|nl|id}} {{term|banaal|lang=nl}}
+From {{etyl|ms|id}} {{term|banal|lang=ms}}, from {{etyl|nl|id}} {{term|banaal|lang=nl}}, from {{etyl|fr|id}} {{term|bannal|lang=fr}}, from {{etyl|ML.|id}} {{term|bannalis|lang=ML.}}, from {{term|bannum|lang=ML.}}.
 
 ===Adjective===
 {{head|id|adjective}}
 
-# [[#English|banal]]
+# [[#English|banal]] {{gloss|common}}
 
 ----
 
@@ -150,10 +153,29 @@ From {{etyl|nl|id}} {{term|banaal|lang=nl}}
 
 ----
 
+==Malay==
+
+===Etymology===
+From {{etyl|nl|ms}} {{term|banaal|lang=nl}}, from {{etyl|fr|ms}} {{term|bannal|lang=fr}}, from {{etyl|ML.|ms}} {{term|bannalis|lang=ML.}}, from {{term|bannum|lang=ML.}}.
+
+===Pronunciation===
+* {{IPA|/banal/|lang=ms}}
+* {{rhymes|anal|nal|al|lang=ms}}
+
+===Adjective===
+{{head|ms|adjective}}
+
+# [[#English|banal]] {{gloss|common}}
+
+====Synonyms====
+* {{l|ms|basi}}
+
+----
+
 ==Spanish==
 
 ===Etymology===
-From {{etyl|fr|es}} {{term|banal|lang=fr}}, ultimately of {{etyl|gem|es}} origin.
+From {{etyl|fr|es}} {{term|banal|lang=fr}}, from {{etyl|ML.|es}} {{term|bannalis|lang=ML.}}, from {{term|bannum|lang=ML.}}.
 
 ===Pronunciation===
 * {{IPA|/baˈnal/|lang=es}}
