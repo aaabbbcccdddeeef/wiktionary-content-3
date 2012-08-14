@@ -45,19 +45,20 @@ From {{etyl|enm}} {{term|floten|lang=enm}}, from {{etyl|ang}} {{term|flotian||to
 ====Translations====
 {{trans-top|buoyant device}}
 * {{trreq|bg}}
-* Croatian: {{t|hr|plovak|m}}
 * Dutch: {{t+|nl|vlot|n}}
 * Finnish: {{t+|fi|koho}}
 * French: {{t|fr|flotteur|m}}
 * {{trreq|ka}}
-* German: {{t+|de|Floß|n}}, {{t+|de|Schwimmer|m}} (as in a carburetor)
+* German: {{t+|de|Floß|n}}, {{t+|de|Schwimmer|m}} {{qualifier|as in a carburetor}}
 {{trans-mid}}
 * Greek: {{t+|el|φελλός|f|tr=fellós}}
-* Japanese: [[浮き]] (uki), [[浮揚物]] (fuyoubutsu)
-* Lithuanian: [[plaustas]] {{m}} ''raft'', [[plūdė]] {{f}} ''of an angle or a net''
+* Japanese: {{t|ja|浮き|tr=uki}}, {{t|ja|浮揚物|tr=fuyoubutsu}}
+* Lithuanian: {{t|lt|plaustas|m}} {{qualifier|raft}}, {{t|lt|plūdė|f}} {{qualifier|of an angle or a net}}
 * Norwegian: {{t|no|dupp|m}} (angling float)
 * Romanian: {{t|ro|plută|f}}, {{t|ro|plutitor|n}}
-* Russian: [[плот]] (plot) {{m}} ''raft'', [[поплавок]] (poplavók) {{m}} ''of an angle or a net''
+* Russian: {{t|ru|плот|m|tr=plot}} {{qualifier|raft}}, {{t|ru|поплавок|m|tr=poplavók}} {{qualifier|of an angle or a net}}
+* Serbo-Croatian:
+*: Latin: {{t|sh|plovak|m}}
 * {{trreq|tr}}
 {{trans-bottom}}
 
@@ -71,7 +72,7 @@ From {{etyl|enm}} {{term|floten|lang=enm}}, from {{etyl|ang}} {{term|flotian||to
 * Dutch: {{t+|nl|soort truweel}}
 * Finnish: {{t|fi|hierrin}}
 {{trans-mid}}
-* Russian: {{t+|ru|мастерок|m|tr=mast'erók}}, {{t+|ru|гладилка|f|tr=gladílka}}, {{t+|ru|правило|m|tr=pravílo}}
+* Russian: {{t+|ru|мастерок|m|tr=mast’erók}}, {{t+|ru|гладилка|f|tr=gladílka}}, {{t+|ru|правило|m|tr=pravílo}}
 {{trans-bottom}}
 
 {{trans-top|trailer or vehicle decorated for a parade}}
@@ -92,7 +93,7 @@ From {{etyl|enm}} {{term|floten|lang=enm}}, from {{etyl|ang}} {{term|flotian||to
 {{trans-bottom}}
 
 {{trans-top|finance: offering of shares to the public}}
-* Finnish: [[yleinen#Finnish|yleinen]] {{t|fi|osakeanti}}
+* Finnish: {{t|fi|yleinen}} {{t|fi|osakeanti}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -106,7 +107,7 @@ From {{etyl|enm}} {{term|floten|lang=enm}}, from {{etyl|ang}} {{term|flotian||to
 {{trans-bottom}}
 
 {{trans-top|programming: short form of floating-point number}}
-* Dutch: [[vlottende kommagetal]] {{n}}
+* Dutch: {{t|nl|vlottende kommagetal|n}}
 * Finnish: {{t-|fi|liukuluku}}
 {{trans-mid}}
 * French: {{t|fr|flottant|m}}, {{t|fr|float|m}}, {{t|fr|nombre flottant|m}}
