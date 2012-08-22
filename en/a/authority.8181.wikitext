@@ -41,9 +41,9 @@
 * Arabic: {{t|ar|سلطة|f|tr=sulTa}}
 * Armenian: {{t|hy|հեղինակություն|tr=heġinakut’yun}}
 * Belarusian: {{t|be|ўлада|tr=ŭlada|xs=Belarusian}}
-* Bulgarian: {{t+|bg|власт}},  {{t+|bg|авторитет}}
+* Bulgarian: {{t+|bg|власт|f|tr=vlast}},  {{t+|bg|авторитет|m|tr=avtoritét}}
 * Chinese:
-*: Mandarin: {{t-|cmn|權力|sc=Hani}}, {{t-|cmn|权力|tr=quánlì|sc=Hani}}, {{t|cmn|權威|sc=Hani}}, {{t|cmn|权威|tr=quánwēi|sc=Hani}}
+*: Mandarin: {{t+|cmn|權力|sc=Hani}}, {{t+|cmn|权力|tr=quánlì|sc=Hani}}, {{t|cmn|權威|sc=Hani}}, {{t|cmn|权威|tr=quánwēi|sc=Hani}}
 * Czech: {{t-|cs|autorita|f}}
 * Danish: {{t|da|myndighed}}
 * Dutch: {{t+|nl|bevoegdheid|f}}
@@ -58,8 +58,8 @@
 {{trans-mid}}
 * Irish: {{t|ga|údarás|m|xs=Irish}}
 * Italian: {{t+|it|autorità|f}}
-* Japanese: [[権力]] (kenryoku); [[権威]] (ken'i)
-* Korean: [[권력]] (gweonreok), [[권능]] (gweonneung)
+* Japanese: {{t|ja|権力|tr=けんりょく, kenryoku|sc=Jpan}}, {{t+|ja|権威|tr=けんい, ken'i|sc=Jpan}}
+* Korean: {{t|ko|권력|tr=gweonreok|sc=Kore}}, {{t|ko|권능|tr=gweonneung|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t|ku|ده‌سه‌ڵات|tr=dasaLAt|sc=ku-Arab}}, {{t|ku|به‌رده‌ستی|tr=bardastee|sc=ku-Arab}}
 * Luxembourgish: {{t|lb|Autoritéit|f}}
@@ -67,7 +67,7 @@
 * Polish: {{t+|pl|autorytet|m}}
 * Portuguese: {{t|pt|autoridade|f}}
 * Romanian: {{t+|ro|autoritate|f}}
-* Russian: {{t+|ru|власть|m|tr=vlast'}}
+* Russian: {{t+|ru|власть|f|tr=vlastʹ}}
 * Scottish Gaelic: {{t-|gd|ùghdarras|m|xs=Scottish Gaelic}}
 * Slovene: [[avtoriteta]] {{f}}
 * Spanish: {{t+|es|autoridad|f}}
@@ -79,33 +79,33 @@
 
 {{trans-top|persons in command; specifically, government}}
 * Albanian: {{t+|sq|autoritet|xs=Albanian}}
-* Bulgarian: {{t+|bg|власти}}
+* Bulgarian: {{t+|bg|власти|f|p|tr=vlásti}}
 * Chinese:
-*: Mandarin: {{t|cmn|當局|sc=Hani}}, {{t-|cmn|当局|tr=dāngjú|sc=Hani}}
+*: Mandarin: {{t|cmn|當局|sc=Hani}}, {{t+|cmn|当局|tr=dāngjú|sc=Hani}}
 * Czech: {{t|cs|autorita|f}}
-* Dutch: [[autoriteit]] {{f}}, ''mostly in plural:'' [[autoriteiten]], {{t|nl|autoriteit|f}}, {{qualifier|usually plural}} {{t|nl|autoriteiten|f|p}}
+* Dutch: {{t|nl|autoriteit|f}}, {{qualifier|usually plural}} {{t|nl|autoriteiten|f|p}}
 * Esperanto: {{t-|eo|instanco|xs=Esperanto}}
 * Finnish: {{t+|fi|viranomaiset}}
 * French: {{t+|fr|autorité|f}}
 * German: {{t+|de|Autorität|f}}; {{t+|de|Behörde|f}}
 * Greek: {{t-|el|αρχές|f|p|tr=archés}}
-* Hebrew: [[רשויות]] (rashuyot) {{f|p}}, {{t|he|רשויות|f|p|tr=rashuyot|sc=Hebr}}
+* Hebrew: {{t|he|רשויות|f|p|tr=rashuyot|sc=Hebr}}
 * Hungarian: {{t+|hu|hatóság}}
 {{trans-mid}}
 * Irish: {{t|ga|údarás|m|xs=Irish}}
 * Italian: {{t+|it|autorità|f}}
-* Japanese: {{t+|ja|当局}} (tōkyoku), {{t|ja|当局|tr=とうきょく, tōkyoku|sc=Jpan}}
-* Korean: [[권력자]] (gweonryeokja), {{t|ko|권력자|tr=gweonryeokja|sc=Kore}}
+* Japanese: {{t+|ja|当局|tr=とうきょく, tōkyoku|sc=Jpan}}
+* Korean: {{t|ko|권력자|tr=gweonryeokja|sc=Kore}}
 * Maltese: [[awtoritarju]] {{m}}, [[awtoritarja]] {{f}}
 * Polish: {{t+|pl|władza|f}}
 * Portuguese: {{t|pt|autoridade|f}}
 * Romanian: {{t+|ro|autoritate|f}}, {{t|ro|mostly in plural:|p}}, {{t|ro|autorități}}
-* Russian: {{t+|ru|власть|m|tr=vlast'}}, {{qualifier|usually plural}} {{t|ru|власть|f|p|tr=vlásti|alt=власти|sc=Cyrl}}
+* Russian: {{t+|ru|власть|f|tr=vlastʹ}}, {{qualifier|usually plural}} {{t|ru|власть|f|p|tr=vlásti|alt=власти|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|ùghdarras|m|xs=Scottish Gaelic}}
 * Slovene: [[avtoriteta]] {{f}}, {{t|sl|avtoriteta|f}}
 * Swahili: {{t+|sw|mamlaka|xs=Swahili}}
 * Swedish: {{t|sv|myndighet|c}}
-* Ukrainian: {{t-|uk|влада|f|xs=Ukrainian}}, {{t|uk|влада|f|tr=vláda|sc=Cyrl}}
+* Ukrainian: {{t|uk|влада|f|tr=vláda|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|person accepted as a source of reliable information on a subject}}
