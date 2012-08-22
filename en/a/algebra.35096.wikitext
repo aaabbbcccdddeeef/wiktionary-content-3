@@ -55,7 +55,7 @@ From {{etyl|ML.}}, from {{etyl|ar}} {{term|جبر|الجبر|tr=al-jabr|reunion,
 {{rel-bottom}}
 
 ====Translations====
-{{trans-top|system for computation using letters or other symbols}}
+{{trans-top|system for computation}}
 * Afrikaans: {{t|af|algebra}}
 * Arabic: {{t|ar|علم الجبر|sc=Arab}}
 * Armenian: {{t|hy|հանրահաշիվ|sc=Armn}}
@@ -98,24 +98,7 @@ From {{etyl|ML.}}, from {{etyl|ar}} {{term|جبر|الجبر|tr=al-jabr|reunion,
 * Vietnamese: {{t|vi|đại số}} ({{t|vi|代數}})
 {{trans-bottom}}
 
-{{trans-top|structure}}
-* Afrikaans: {{t|af|algebra}}
-* Chinese:
-*: Mandarin: {{t|zh|代數式|sc=Hani}}, {{t|zh|代数式|tr=dàishùshì|sc=Hani}}
-* Croatian: {{t-|hr|algebra|f}}
-* Czech: {{t-|cs|algebra|f}}
-* Estonian: {{t+|et|algebra}}
-* French: {{t+|fr|algèbre|f}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|algebra}}
-* Japanese: {{t|ja|代数式|tr=だいすうしき, daisūshiki|sc=Jpan}}
-* Macedonian: {{t-|mk|алгебра|f|tr=algébra}}
-* Portuguese: {{t+|pt|álgebra|f}}
-* Russian: {{t+|ru|алгебра|f|tr=álgebra}}
-* Spanish: {{t+|es|álgebra|m}}
-{{trans-bottom}}
-
-{{trans-top|study}}
+{{trans-top|study of algebraic structures}}
 * Afrikaans: {{t|af|algebra}}
 * Arabic: {{t|ar|جبر|m|tr=jabr|sc=Arab}}, {{t|ar|علم الجبر|m|tr=3ilm al-jabr|sc=Arab}}
 * Belarusian: {{t|be|алгебра|f|tr=álhebra|sc=Cyrl}}
@@ -143,7 +126,35 @@ From {{etyl|ML.}}, from {{etyl|ar}} {{term|جبر|الجبر|tr=al-jabr|reunion,
 * Vietnamese: {{t|vi|đại số học}} ({{t|vi|代數學}})
 {{trans-bottom}}
 
-[[Category:en:Algebra]]
+{{trans-see|universal algebra}}
+
+{{trans-top|structure}}
+* Afrikaans: {{t|af|algebra}}
+* Chinese:
+*: Mandarin: {{t|zh|代數式|sc=Hani}}, {{t|zh|代数式|tr=dàishùshì|sc=Hani}}
+* Croatian: {{t-|hr|algebra|f}}
+* Czech: {{t-|cs|algebra|f}}
+* Estonian: {{t+|et|algebra}}
+* Finnish: {{t|fi|algebra}}
+* French: {{t+|fr|algèbre|f}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|algebra}}
+* Japanese: {{t|ja|代数式|tr=だいすうしき, daisūshiki|sc=Jpan}}
+* Macedonian: {{t-|mk|алгебра|f|tr=algébra}}
+* Portuguese: {{t+|pt|álgebra|f}}
+* Russian: {{t+|ru|алгебра|f|tr=álgebra}}
+* Spanish: {{t+|es|álgebra|m}}
+{{trans-bottom}}
+
+{{trans-top|set theory: collection of subsets}}
+* Finnish: {{t|fi|algebra}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|one of several other types of mathematical structure}}
+* Finnish: {{t|fi|algebra}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ----
 
