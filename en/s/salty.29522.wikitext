@@ -29,13 +29,13 @@ From {{suffix|salt|y}}.
 
 ====Translations====
 {{trans-top|tasting of salt}}
-* Arabic: {{t|ar|مالح|tr=maaliH}}
+* Arabic: {{t|ar|مالح|tr=māliḥ}}
 * Armenian: {{t|hy|աղի|tr=aġi}}
 * Belarusian: {{t|be|салёны|tr=saljóny|sc=Cyrl}}
 * Bulgarian: {{t|bg|солен|tr=solén|sc=Cyrl}}
 * Catalan: {{t-|ca|salat}}
 * Chinese:
-*: Mandarin: {{t-|cmn|鹹|tr=xián|sc=Hani}}, {{t-|cmn|咸|tr=xián|sc=Hani}}
+*: Mandarin: {{t+|cmn|鹹|sc=Hani}}, {{t+|cmn|咸|tr=xián|sc=Hani}}
 * Czech: {{t+|cs|slaný}}
 * Dutch: {{t+|nl|zout}}
 * Esperanto: {{t-|eo|sala|xs=Esperanto}}
@@ -52,7 +52,7 @@ From {{suffix|salt|y}}.
 * Latvian: {{t|lv|sāļš|m}}, {{t|lv|sāļa|f}}
 * Lithuanian: {{t|lt|sūrus|m}}, {{t|lt|sūri|f}}
 {{trans-mid}}
-* Macedonian: {{t|mk|солен|m|tr=sólen}}, {{t|mk|солена|f|tr=sólena}}, {{t|mk|солено|n|tr=sóleno}}
+* Macedonian: {{t|mk|солен|m|tr=sólen}} <!-- {{t|mk|солена|f|tr=sólena}}, {{t|mk|солено|n|tr=sóleno}} -->
 * Malay: {{t|ms|masin}}, {{t|ms|asin}}
 * Manx: {{t|gv|sailjey}}
 * Persian: {{t-|fa|نمکین|tr=namakin|xs=Persian}}
@@ -76,10 +76,10 @@ From {{suffix|salt|y}}.
 {{trans-bottom}}
 
 {{trans-top|containing salt}}
-* Arabic: {{t|ar|ملحي|tr=mílHiy}}
+* Arabic: {{t|ar|ملحي|tr=mílḥiyy}}
 * Catalan: {{t-|ca|salat}}
 * Chinese:
-*: Mandarin: {{t-|cmn|鹹|tr=xián|sc=Hani}}, {{t-|cmn|咸|tr=xián|sc=Hani}}, {{t-|cmn|鹽|alt=鹽的|sc=Hani}}, {{t-|cmn|盐|alt=盐的|tr=yán-de|sc=Hani}}
+*: Mandarin: {{t+|cmn|鹹|sc=Hani}}, {{t+|cmn|咸|tr=xián|sc=Hani}}, {{t+|cmn|鹽|alt=鹽的|sc=Hani}}, {{t+|cmn|盐|alt=盐的|tr=yán de|sc=Hani}}
 * Dutch: {{t+|nl|zout}}
 * Finnish: {{t+|fi|suolainen}}
 * German: {{t+|de|salzhaltig}}
