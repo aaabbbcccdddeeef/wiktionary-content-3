@@ -146,7 +146,7 @@
 {{trans-top|of an object, concept, etc: having existed for a relatively long period of time}}
 * Adyghe: {{tø|ady|жъы}}
 * American Sign Language: {{tø|ase|S@Chin S@FromChin}}
-* Arabic: {{t|ar|قديم|tr=qadiim|sc=Arab}}
+* Arabic: {{t|ar|قديم|tr=qadīm|sc=Arab}}
 * Aragonese: [[biello]]
 * Armenian: {{t|hy|հին|tr=hin}}
 * Basque: [[zahar]]
@@ -156,7 +156,7 @@
 * Burmese: {{t|my|ဟောင်း|tr=haun|sc=Mymr}}
 * Catalan: {{t+|ca|vell}}, {{t+|ca|antic}}
 * Chinese:
-*: Mandarin: {{t|zh|舊|alt=舊的|sc=Hani}}, {{t|zh|旧|tr=jiù de|alt=旧的|sc=Hani}}, {{t|zh|古老|tr=gǔlǎo de|alt=古老的|sc=Hani}}
+*: Mandarin: {{t|zh|舊|sc=Hani}}, {{t|zh|旧|tr=jiù|sc=Hani}}, {{t|zh|古老|tr=gǔlǎo|sc=Hani}}
 * Czech: {{t+|cs|starý}}
 * Danish: {{t+|da|gammel}}
 * Dutch: {{t+|nl|oud}}
@@ -226,8 +226,8 @@
 * Adyghe: {{tø|ady|жъы}}
 * Albanian: {{t-|sq|plak|xs=Albanian}}
 * American Sign Language: {{tø|ase|S@Chin S@FromChin}}
-* Arabic: {{t|ar|كبير السن|tr=kabiir as-sin}}, {{t|ar|مسن|tr=musinn}}
-*: Egyptian Arabic: {{tø|arz|عجوز|m|tr=ʕagoz|sc=Arab}}
+* Arabic: {{t|ar|كبير السن|tr=kabīr as-sin}}, {{t|ar|مسن|tr=musinn}}
+*: Egyptian Arabic: {{tø|arz|عجوز|m|tr=ʿagoz|sc=Arab}}
 * Aragonese: [[biello]]
 * Armenian: {{t|hy|ծեր|tr=çer}}, {{t-|hy|պառավ|tr=paṙav}}
 * Belarusian: {{t|be|стары|tr=stáry|sc=Cyrl}}
@@ -236,7 +236,7 @@
 * Chamicuro: {{tø|ccc|shashaka}}
 * Chinese:
 *: [[Dungan]]: {{tø|dng|ло|tr=lo|sc=Cyrl}}
-*: Mandarin: {{t-|cmn|老|alt=老的|tr=lǎo-de|sc=Hani}}, {{t|cmn|年老|alt=年老的|tr=niánlǎo-de|sc=Hani}}, {{t|cmn|老年|alt=老年的|tr=lǎonián-de|sc=Hani}}
+*: Mandarin: {{t+|cmn|老|tr=lǎo|sc=Hani}}, {{t|cmn|年老|alt=年老的|tr=niánlǎo de|sc=Hani}}, {{t|cmn|老年|alt=老年的|tr=lǎonián de|sc=Hani}}
 * Czech: {{t+|cs|starý}}
 * Danish: {{t+|da|gammel}}
 * Dutch: {{t+|nl|oud}}
@@ -256,7 +256,7 @@
 * Ido: [[olda]]
 * Irish: {{t-|ga|sean|xs=Irish}}, {{t|ga|aosta}}
 * Italian: {{t+|it|vecchio}}
-* Japanese: {{t-|ja|年老いた}}, {{t-|ja|老いた|tr=おいた, oita}}
+* Japanese: {{t-|ja|年老いた|tr=としおいた, toshioita}}, {{t-|ja|老いた|tr=おいた, oita}}
 * Javanese: {{t-|jv|tuwo|xs=Javanese}}
 * Khmer: {{t|km|ចាស់|tr=chah|sc=Khmr}}
 * Korean: {{t+|ko|늙다|tr=neukda|sc=Hang}}, {{t|ko|나이들다|tr=nai-deulda|sc=Hang}}
@@ -307,10 +307,10 @@
 {{trans-bottom}}
 
 {{trans-top|former}}
-* Armenian: [[անցած]] (anc'aç)
+* Armenian: {{t|hy|անցած|tr=anc'aç}}
 * Catalan: {{t+|ca|vell}}, {{t+|ca|antic}}
 * Chinese:
-*: Mandarin: [[前]] (qián)
+*: Mandarin: {{t+|zh|前|tr=qián|sc=Hani}}
 * Czech: {{t+|cs|starý}}
 * Danish: {{t|da|tidligere}}
 * Finnish: {{t+|fi|vanha}}, {{t+|fi|entinen}}
@@ -329,6 +329,7 @@
 * Polish: {{t+|pl|stary}}
 * Portuguese: {{t+|pt|antigo}}
 * Romanian: {{t+|ro|antic}}; {{t-|ro|vechi}}, {{t-|ro|fost}}
+* Russian: {{t+|ru|бывший|tr=bývšij}}, {{t+|ru|прежний|tr=préžnij}}, {{t+|ru|старый|tr=stáryj}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|стар|sc=Cyrl}}
 *: Roman: {{t|sh|star|sc=Latn}}
@@ -350,8 +351,8 @@
 * Catalan: ''translated by [[tenir]] followed by the length of time''
 *: She’s five years old — ''Ella té cinc anys''
 * Chinese:
-*: Mandarin: [[歲]], [[岁]] (suì)
-*:: I am five years old - ''我五歲'', ''我五岁''(wǒ wǔ suì)
+*: Mandarin: {{t|zh|歲|sc=Hani}}, {{t+|zh|岁|tr=suì|sc=Hani}}
+*:: I am five years old - {{Hani|我五歲}}, {{Hani|我五岁}} (wǒ wǔ suì)
 * Czech: {{t+|cs|starý}}
 * Danish: {{t+|da|gammel}}
 * Finnish: {{t+|fi|-vuotias}}, {{t+|fi|vanha}}, {{t-|fi|ikäinen}}
