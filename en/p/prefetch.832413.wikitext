@@ -1,9 +1,15 @@
 ==English==
 
+===Etymology===
+{{prefix|pre|fetch}}
+
 ===Verb===
 {{en-verb|prefetches|prefetching|prefetched}}
 
 # {{computing}} To [[load]] [[data]] or [[instruction]]s in anticipation of their need
+
+====Derived terms====
+* [[prefetcher]]
 
 ====Translations====
 {{trans-top|(computing) To load data or instructions in anticipation of their need}}
@@ -16,6 +22,11 @@
 
 ===See also===
 * [[cache]]
+
+===Noun===
+{{en-noun|es}}
+
+# The operation of loading data or instructions in anticipation of their need.
 
 [[fr:prefetch]]
 [[ko:prefetch]]
