@@ -45,16 +45,16 @@ From {{etyl|fr|en}} {{term|mètre|lang=fr}}, from {{etyl|grc|en}} {{term|μέτ�
 ====Translations====
 {{trans-top|measuring instrument}}
 * Arabic: {{Arab|[[عداد]]}} (ʕaddād) {{m}}
-* Armenian: {{t-|hy|հաշվիչ|tr=hašvič}}, {{t|hy|չափիչ|tr=čap'ič}}
+* Armenian: {{t-|hy|հաշվիչ|tr=hašvič}}, {{t-|hy|չափիչ|tr=čap'ič}}
 * Chinese: [[計量表]] (jì liáng biǎo)
-* Czech: {{t|cs|metr|m}}
+* Czech: {{t+|cs|metr|m}}
 * Dutch: {{t+|nl|meter|m}}, {{t+|nl|teller|m}}
 * Finnish: {{t+|fi|mittari}}, {{t+|fi|mitta}}, {{t-|fi|mittatikku}}
 * French: {{t+|fr|mètre|m}}, {{t+|fr|compteur|m}}
-* German: {{t|de|Messgerät|n}}
+* German: {{t+|de|Messgerät|n}}
 * Greek: {{t+|el|μέτρο|n|tr=métro}}
-* Hungarian: {{t|hu|mérőóra}}
-* Irish: {{t|ga|méadar|m}}
+* Hungarian: {{t-|hu|mérőóra}}
+* Irish: {{t-|ga|méadar|m}}
 * Italian: {{t+|it|metro|m}}, {{t-|it|contatore|m}}
 * Japanese: [[メーター]] (mētā), [[計量器]] (けいりょうき, keiryōki)
 * Korean: [[계량기]] (gyeryanggi)
@@ -64,16 +64,16 @@ From {{etyl|fr|en}} {{term|mètre|lang=fr}}, from {{etyl|grc|en}} {{term|μέτ�
 * Lithuanian: {{t+|lt|metras|m|xs=Lithuanian}}
 * Macedonian: {{t-|mk|мерач|m|tr=mérač}}
 * Norwegian: {{t-|no|måler|m}}
-* Persian: {{t|fa|اندازه‌گیر|tr=andâzegir|xs=Persian}}, {{t|fa|سنجه|tr=sanje|xs=Persian}}
-* Polish: {{t|pl|miernik|m}}
+* Persian: {{t-|fa|اندازه‌گیر|tr=andâzegir|xs=Persian}}, {{t+|fa|سنجه|tr=sanje|xs=Persian}}
+* Polish: {{t-|pl|miernik|m}}
 * Portuguese: {{t+|pt|contador|m}}
 * Romanian: [[metru]] (instrument) {{m}}, [[contor]] {{n}}
-* Russian: {{t|ru|счётчик|m|tr=sčótčik}}, {{t|ru|измеритель|m|tr=izmerítel’}}
-* Scottish Gaelic: {{t|gd|inneal-tomhais|m}}
+* Russian: {{t+|ru|счётчик|m|tr=sčótčik}}, {{t+|ru|измеритель|m|tr=izmerítel’}}
+* Scottish Gaelic: {{t-|gd|inneal-tomhais|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|метар|alt=ме̏тар|sc=Cyrl}}
-*: Roman: {{t|sh|metar|alt=mȅtar}}
-* Spanish: {{t|es|medidor|m}}, {{t-|es|contador|m}}, {{t|es|metro|m}}
+*: Cyrillic: {{t-|sh|метар|alt=ме̏тар|sc=Cyrl}}
+*: Roman: {{t-|sh|metar|alt=mȅtar}}
+* Spanish: {{t-|es|medidor|m}}, {{t-|es|contador|m}}, {{t+|es|metro|m}}
 * Swedish: {{t+|sv|mätare|c}}, {{t-|sv|-meter|c}}
 * Turkish: {{t+|tr|metre}}
 {{trans-bottom}}
@@ -96,18 +96,18 @@ From {{etyl|fr|en}} {{term|mètre|lang=fr}}, from {{etyl|grc|en}} {{term|μέτ�
 * Greek: {{t+|el|μέτρο|n|tr=métro}}
 * Haitian Creole: {{tø|ht|mèt}}
 * Hebrew: [[מטר]] (meter) {{m}}
-* Hindi: {{t|hi|मीटर|tr=mītər|xs=Hindi}}
+* Hindi: {{t-|hi|मीटर|tr=mītər|xs=Hindi}}
 * Hungarian: {{t+|hu|méter}}
 * Icelandic: {{t+|is|metri}}
 * Interlingua: [[metro]]
-* Irish: {{t|ga|méadar|m}}
+* Irish: {{t-|ga|méadar|m}}
 * Italian: {{t+|it|metro|m}}
 * Japanese: [[メートル]], [[㍍]] (mētoru)
 {{trans-mid}}
 * Korean: [[미터]] (miteo)
-* Lojban: {{t|jbo|selmitre}}
+* Lojban: {{t-|jbo|selmitre}}
 * Macedonian: {{t-|mk|метар|m|tr=métar}}
-* Malay: {{t|ms|meter}}
+* Malay: {{t-|ms|meter}}
 * Norwegian: {{t+|no|meter|m}}
 * Persian: {{t+|fa|متر|tr=metr|xs=Persian}}
 * Polish: {{t+|pl|metr|m}}
@@ -118,7 +118,7 @@ From {{etyl|fr|en}} {{term|mètre|lang=fr}}, from {{etyl|grc|en}} {{term|μέτ�
 * Spanish: {{t+|es|metro|m}}
 * Swedish: {{t+|sv|meter}}
 * Tatar: [[meter#Tatar|meter]]
-* Telugu: {{t+|te|మీటరు}}
+* Telugu: {{t-|te|మీటరు}}
 * Turkish: {{t+|tr|metre}}
 * Vietnamese: {{t+|vi|mét|xs=Vietnamese}}
 * Yiddish: [[מעטער]] (meter) {{m}}
@@ -127,7 +127,7 @@ From {{etyl|fr|en}} {{term|mètre|lang=fr}}, from {{etyl|grc|en}} {{term|μέτ�
 {{trans-top|increment of music}}
 * Finnish: {{t-|fi|tahtilaji}}
 * Greek: {{t+|el|μέτρο|n|tr=métro}}
-* Irish: {{t|ga|méadar|m}}
+* Irish: {{t-|ga|méadar|m}}
 {{trans-mid}}
 * Japanese: {{t-|ja|拍子|tr=ひょうし, hyōshi}}
 * Polish: {{t-|pl|metrum|n}}
@@ -137,9 +137,9 @@ From {{etyl|fr|en}} {{term|mètre|lang=fr}}, from {{etyl|grc|en}} {{term|μέτ�
 {{trans-top|rhythym of poetry}}
 * Finnish: {{t+|fi|runomitta}}
 * Greek: {{t+|el|μέτρο|n|tr=métro}}
-* Irish: {{t|ga|aiste|f}}, {{t|ga|meadaracht|f}}
+* Irish: {{t-|ga|aiste|f}}, {{t-|ga|meadaracht|f}}
 {{trans-mid}}
-* Japanese: {{t|ja|韻律|tr=いんりつ, inritsu}}
+* Japanese: {{t-|ja|韻律|tr=いんりつ, inritsu}}
 * Macedonian: {{t-|mk|метар|m|tr=métar}}
 {{trans-bottom}}
 
