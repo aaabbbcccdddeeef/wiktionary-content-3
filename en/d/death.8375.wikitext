@@ -132,16 +132,16 @@
 *: Hebrew: [[מותא]] (mawtā’) {{m}}
 * Armenian: {{t-|hy|մահ|tr=mah}}, {{t-|hy|վախճան|tr=vaxč̣an}}
 *: Old Armenian: {{tø|xcl|մահ|tr=mah|sc=Armn|xs=Old Armenian}}
-* Aromanian: {{tø|rup|moarte}}
-* Avar: {{t|av|хвел|tr=χwel|sc=Cyrl}}, {{t|av|хвей|tr=χwej|sc=Cyrl}}
+* Aromanian: {{t-|rup|moarte}}
+* Avar: {{t-|av|хвел|tr=χwel|sc=Cyrl}}, {{t-|av|хвей|tr=χwej|sc=Cyrl}}
 * Azeri: {{t-|az|ölüm|xs=Azeri}}
 * Bashkir: {{tø|ba|үлем|tr=ülem|sc=Cyrl|xs=Bashkir}}, {{tø|ba|әжәл|tr=äjäl|sc=Cyrl|xs=Bashkir}}
-* Belarusian: {{t|be|сьмерць|f|tr=śmierć|xs=Belarusian}}
-* Bengali: {{t|bn|মৃত্যু|sc=Beng|xs=Bengali}}
+* Belarusian: {{t-|be|сьмерць|f|tr=śmierć|xs=Belarusian}}
+* Bengali: {{t-|bn|মৃত্যু|sc=Beng|xs=Bengali}}
 * Berber:
 *: Tashelhit: {{tø|shi|tamttant|f}}
 * Bosnian: {{t-|bs|smrt|f}}
-* Breton: {{t|br|marv|m}}
+* Breton: {{t+|br|marv|m}}
 * Bulgarian: {{t+|bg|смърт|f|tr=smǎrt}}
 * Buryat: {{tø|bxr|үхэл|tr=üxel|sc=Cyrl}}
 * Campidanese Sardinian: [[morti]] {{f}}
@@ -156,7 +156,7 @@
 * Crimean Tatar: {{tø|crh|ölüm}}, {{tø|crh|ecel}}
 * Croatian: {{t+|hr|smrt|f|alt=smȑt}}
 * Czech: {{t+|cs|smrt|f}}
-* Dalmatian: {{t|dlm|muart|m}}
+* Dalmatian: {{tø|dlm|muart|m}}
 * Danish: {{t+|da|død|c}}
 * Dolgan: {{tø|dlg|өлүү|tr=ölüü|sc=Cyrl}}
 * Dutch: {{t+|nl|dood|m}}, {{t+|nl|overlijden|n}}
@@ -168,7 +168,7 @@
 * Faroese: {{t-|fo|deyði|m|xs=Faroese}}
 * Finnish: {{t+|fi|kuolema}}
 * French: {{t+|fr|mort|f}}
-* Friulian: {{t|fur|muart}}
+* Friulian: {{tø|fur|muart}}
 * Gagauz: {{tø|gag|ölüm}}
 * Georgian: {{t-|ka|სიკვდილი|tr=sikvdili|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Tod|m}}
@@ -183,9 +183,9 @@
 * Hungarian: {{t+|hu|halál}}
 * Icelandic: {{t+|is|dauði|m}}
 * Ido: {{t+|io|morto|xs=Ido}}
-* Indonesian: {{t-|id|mati|xs=Indonesian}}
+* Indonesian: {{t+|id|mati|xs=Indonesian}}
 * Interlingua: [[morte]]
-* Irish: {{t|ga|éag|m}}, {{t|ga|bás|m}}
+* Irish: {{t-|ga|éag|m}}, {{t+|ga|bás|m}}
 * Italian: {{t+|it|morte|f}}
 * Japanese: {{t+|ja|死|tr=し, shi}}, {{t+|ja|死亡|tr=しぼう, shibō}}
 * Jèrriais: {{tø|roa-jer|mort|f}}
@@ -200,15 +200,15 @@
 * Korean: {{t+|ko|죽음|tr=jugeum}}
 * Kumyk: {{tø|kum|оьлюм|tr=ölüm|sc=Cyrl}}
 * Kurdish: {{t+|ku|mirin|f}}, {{t+|ku|merg|f}}, {{t+|ku|wefat|f}}, {{t+|ku|mewt|f}}, {{t+|ku|emrê Xwedê|m}}, {{t-|ku|مه‌رگ|sc=ku-Arab}}, {{t-|ku|مردن|sc=ku-Arab}}
-* Kyrgyz: {{t-|ky|өлүм|tr=ölüm|sc=Cyrl|xs=Kyrgyz}}, {{t|ky|ажал|tr=acal|sc=Cyrl|xs=Kyrgyz}}
+* Kyrgyz: {{t-|ky|өлүм|tr=ölüm|sc=Cyrl|xs=Kyrgyz}}, {{t-|ky|ажал|tr=acal|sc=Cyrl|xs=Kyrgyz}}
 * Latgalian: {{tø|ltg|nuove}}
-* Latin: {{t+|la|mors|f}}, {{t-|la|exitium|n}}, {{t-|la|quietus|m}}, {{t|la|letum}}, {{t|la|finis}}
-* Latvian: {{t-|lv|nāve|f|xs=Latvian}}, {{t|lv|miršana|f}}
+* Latin: {{t+|la|mors|f}}, {{t-|la|exitium|n}}, {{t-|la|quietus|m}}, {{t+|la|letum}}, {{t+|la|finis}}
+* Latvian: {{t-|lv|nāve|f|xs=Latvian}}, {{t-|lv|miršana|f}}
 * Lithuanian: {{t+|lt|mirtis|f|xs=Lithuanian}}
 * Low Saxon: [[dood]] {{m}}
-* Luxembourgish: {{t|lb|Doud}}
+* Luxembourgish: {{t+|lb|Doud}}
 * Macedonian: {{t-|mk|смрт|f|tr=smrt}}
-* Malay: {{t|ms|kematian}}
+* Malay: {{t-|ms|kematian}}
 * Malayalam: [[മരണം]] (maraNam)
 * Maltese: {{t-|mt|mewt|f|xs=Maltese}}
 * Maori: {{t-|mi|mate|xs=Maori}}
@@ -216,32 +216,32 @@
 * Mari: {{tø|chm|колымаш|tr=kolymaš|sc=Cyrl}}
 * Moksha: {{tø|mdf|кулома|tr=kuloma|sc=Cyrl}}
 * Mongolian: [[үхэл]] (ühel)
-* Nahuatl: {{t|nah|miquiztli}}
+* Nahuatl: {{t-|nah|miquiztli}}
 * Navajo: {{tø|nv|aniné}}, {{tø|nv|anoonééł}}
 * Nogai: {{tø|nog|оьлим|tr=ölim|sc=Cyrl}}
 * Northern Yukaghir: {{tø|ykg|йабал|tr=jabal|sc=Cyrl}}
 * Norwegian: {{t+|no|død|m}}
-* Occitan: {{t|oc|mort|f}}, {{t+|oc|mòrt|xs=Occitan}} {{f}}
+* Occitan: {{t+|oc|mort|f}}, {{t+|oc|mòrt|xs=Occitan}} {{f}}
 * Old Church Slavonic: {{tø|cu|съмрьть|f|tr=sŭmrĭtĭ|sc=Cyrs}}
-* Old English: {{t|ang|deaþ|m|alt=dēaþ}}
+* Old English: {{t-|ang|deaþ|m|alt=dēaþ}}
 * Old French: {{tø|fro|mort|f}}
 * Old Norse: {{tø|non|dauði|m}}
 * Ottoman Turkish: {{tø|ota|اولوم|tr=ölüm|sc=ota-Arab}}, {{tø|ota|موت|tr=mevt|sc=ota-Arab}}, {{tø|ota|مرگ|tr=merg|sc=ota-Arab}}
 * Pashto: {{t-|ps|مرګ|m|tr=marg|sc=ps-Arab|xs=Pashto}}
-* Persian: {{t-|fa|موت|tr=mout}}, {{t+|fa|مرگ|tr=marg}}
+* Persian: {{t+|fa|موت|tr=mout}}, {{t+|fa|مرگ|tr=marg}}
 * Polish: [[śmierć]] {{f}}, [[zgon]] {{m}}
 * Portuguese: {{t+|pt|morte|f}}
 * Romanian: {{t+|ro|moarte|f}}
-* Russian: {{t+|ru|смерть|f|tr=smert’}}, {{t+|ru|гибель|f|tr=gíbel'}}, {{t|ru|погибель|f|tr=pogíbel'}}, {{t|ru|кончина|f|tr=končína}}
-* Sanskrit: {{t|sa|मृत्यु|tr=mṛtyú|sc=Deva}}, {{t|sa|मरण|tr=maraṇa|sc=Deva}}
+* Russian: {{t+|ru|смерть|f|tr=smert’}}, {{t+|ru|гибель|f|tr=gíbel'}}, {{t+|ru|погибель|f|tr=pogíbel'}}, {{t+|ru|кончина|f|tr=končína}}
+* Sanskrit: {{t-|sa|मृत्यु|tr=mṛtyú|sc=Deva}}, {{t-|sa|मरण|tr=maraṇa|sc=Deva}}
 * Santali: {{tø|sat|ᱢᱳᱨᱳᱱ|tr=moron|sc=Olck}}
-* Sardinian: {{t|sc|molte}}, {{t|sc|morte}}, {{t|sc|morti}}
-* Scottish Gaelic: [[bàs]] {{m}}, {{t|gd|caochladh|m}}, {{t|gd|eug|m}}
+* Sardinian: {{t-|sc|molte}}, {{t-|sc|morte}}, {{t-|sc|morti}}
+* Scottish Gaelic: [[bàs]] {{m}}, {{t-|gd|caochladh|m}}, {{t-|gd|eug|m}}
 * Serbian:
 *: Cyrillic: {{t-|sr|смрт|f|sc=Cyrl}}
 *: Roman: {{t-|sr|smrt|f}}
 * Shor: {{tø|cjs|ӧлÿм|tr=ölüm|sc=Cyrl}}
-* Sinhalese: {{t|si|මරණය|tr=maraṇaya|sc=Sinh}}
+* Sinhalese: {{t-|si|මරණය|tr=maraṇaya|sc=Sinh}}
 * Slovak: {{t-|sk|smrť|f}}
 * Slovene: {{t+|sl|smrt|f}}
 * Southern Altai: {{tø|alt|ӧлӱм|tr=ölüm|sc=Cyrl}}
@@ -249,64 +249,64 @@
 * Swahili: {{t+|sw|kifo|xs=Swahili}}
 * Swedish: {{t+|sv|död|c}}
 * Tabassaran: {{tø|tab|аьжал|tr=äʒal|sc=Cyrl}}
-* Tagalog: {{t|tl|kamatayan}},
-* Tajik: {{t|tg|марг|tr=marg|sc=Cyrl|xs=Tajik}}
+* Tagalog: {{t-|tl|kamatayan}},
+* Tajik: {{t-|tg|марг|tr=marg|sc=Cyrl|xs=Tajik}}
 * Tamil: {{t+|ta|மரணம்|xs=Tamil}} (maraṇam)
-* Tatar: {{t|tt|ülem|xs=Tatar}}, {{t|tt|äcäl|xs=Tatar}}
+* Tatar: {{t-|tt|ülem|xs=Tatar}}, {{t-|tt|äcäl|xs=Tatar}}
 * Telugu: [[మరణము]] (maranamu), [[చావు]] (chaavu)
-* Thai: {{t|th|ความตาย|tr=kwaamdtaai}}, {{t-|th|มรณะ}} (mawrana)
+* Thai: {{t-|th|ความตาย|tr=kwaamdtaai}}, {{t+|th|มรณะ}} (mawrana)
 * Tongan: [[mate]]
 * Tupinambá: [[e'õ]] (t-)
 * Turkish: {{t+|tr|ölüm}}
 * Turkmen: {{t+|tk|ölüm|xs=Turkmen}}, {{t+|tk|ajal|xs=Turkmen}}
 * Tuvan: {{tø|tyv|өлүм|tr=ölüm|sc=Cyrl}}
 * Udmurt: {{tø|udm|кулон|tr=kulon|sc=Cyrl}}, {{tø|udm|кулэм|tr=kulem|sc=Cyrl}}
-* Ukrainian: {{t|uk|смерть|f|tr=smért′|sc=Cyrl}}
-* Urdu: {{t-|ur|موت|f|tr=maut|xs=Urdu}}, {{t-|ur|مرگ|f|tr=marg|xs=Urdu}}, {{t|ur|مرت|m|tr=mritu|xs=Urdu}}
-* Uyghur: {{t|ug|ئۆلۈم|tr=ɵlüm|sc=ug-Arab|xs=Uyghur}}
-* Uzbek: {{t|uz|oʻlim|xs=Uzbek}}, {{t-|uz|ajal|xs=Uzbek}}, {{t|uz|vafot|xs=Uzbek}}, {{t|uz|mamot|xs=Uzbek}}
-* Vietnamese: {{t|vi|cái chết|xs=Vietnamese}}, {{t|vi|sự chết|xs=Vietnamese}}
-* Volapük: {{t|vo|deadam}}
+* Ukrainian: {{t+|uk|смерть|f|tr=smért′|sc=Cyrl}}
+* Urdu: {{t-|ur|موت|f|tr=maut|xs=Urdu}}, {{t-|ur|مرگ|f|tr=marg|xs=Urdu}}, {{t-|ur|مرت|m|tr=mritu|xs=Urdu}}
+* Uyghur: {{t-|ug|ئۆلۈم|tr=ɵlüm|sc=ug-Arab|xs=Uyghur}}
+* Uzbek: {{t-|uz|oʻlim|xs=Uzbek}}, {{t-|uz|ajal|xs=Uzbek}}, {{t-|uz|vafot|xs=Uzbek}}, {{t-|uz|mamot|xs=Uzbek}}
+* Vietnamese: {{t-|vi|cái chết|xs=Vietnamese}}, {{t-|vi|sự chết|xs=Vietnamese}}
+* Volapük: {{t+|vo|deadam}}
 * West Frisian: [[dea]] {{m}}
 * Yakut: {{tø|sah|өлүү|tr=ölüü|sc=Cyrl}}
-* Zulu: {{t|zu|ukufa}}
+* Zulu: {{t-|zu|ukufa}}
 {{trans-bottom}}
 
 {{trans-top|personification of death}}
 * Chinese:
 *: Mandarin: {{t-|cmn|死神|tr=Sǐ Shén|sc=Hani}}
-* Croatian: {{t|hr|smrt|f}}
-* Czech: {{t-|cs|smrtka|f}}, {{t+|cs|smrt}}
-* Danish: {{t|da|Døden}}
+* Croatian: {{t+|hr|smrt|f}}
+* Czech: {{t+|cs|smrtka|f}}, {{t+|cs|smrt}}
+* Danish: {{t-|da|Døden}}
 * Dutch: {{t+|nl|dood|m}}
-* Esperanto: {{t|eo|Mortulo}}
-* Estonian: {{t-|et|surm}}, {{t|et|vikatimees}}
+* Esperanto: {{t-|eo|Mortulo}}
+* Estonian: {{t-|et|surm}}, {{t-|et|vikatimees}}
 * German: {{t+|de|Tod|m}}
-* Greek: {{t|el|Χάρος|m|tr=Cháros}}
+* Greek: {{t-|el|Χάρος|m|tr=Cháros}}
 *: Ancient: {{tø|grc|Χάρων|m|tr=Charon|xs=Ancient Greek}}
 {{trans-mid}}
 * Italian: {{t+|it|morte}}
 * Japanese: {{t-|ja|死神|tr=shinigami}}
-* Latin: {{t|la|mors}}
-* Latvian: {{t|lv|nāve|f}}
+* Latin: {{t+|la|mors}}
+* Latvian: {{t-|lv|nāve|f}}
 * Macedonian: {{t-|mk|смрт|f|tr=smrt}}
 * Norwegian: {{t-|no|døden}}
 * Polish: {{t+|pl|śmierć|f}}
 * Portuguese: {{t+|pt|morte|f}}
-* Romanian: {{t|ro|moartea|f}}
+* Romanian: {{t-|ro|moartea|f}}
 * Slovene: {{t+|sl|smrt|f}}
 * Swahili: {{t+|sw|kifo|xs=Swahili}}
 {{trans-bottom}}
 
 {{trans-top|Tarot}}
-* Catalan: {{t|ca|la mort}}
+* Catalan: {{t-|ca|la mort}}
 * Czech: {{t+|cs|smrt}}
 * Dutch: {{t+|nl|dood}}
 * Estonian: {{t-|et|surm}}
-* French: {{t|fr|la mort}}, [[l'arcane sans nom]]
-* German: {{t|de|der Tod}}
+* French: {{t-|fr|la mort}}, [[l'arcane sans nom]]
+* German: {{t-|de|der Tod}}
 * Greek: {{t-|el|Θάνατος|m|tr=Thánatos}}
-* Hungarian: {{t+|hu|halál}}, {{t|hu|nagy arkánum}}
+* Hungarian: {{t+|hu|halál}}, {{t-|hu|nagy arkánum}}
 {{trans-mid}}
 * Italian: [[la morte]], [[l'arcano senza nome]]
 * Japanese: [[死神]] (shinigami)
@@ -314,7 +314,7 @@
 * Macedonian: {{t-|mk|смрт|f|tr=smrt}}
 * Polish: {{t+|pl|śmierć}}
 * Portuguese: [[a morte]], [[o arcano sem nome]]
-* Spanish: [[la muerte]], {{t|es|el arcano de la muerte}}
+* Spanish: [[la muerte]], {{t-|es|el arcano de la muerte}}
 * Turkish: {{t+|tr|ölüm}}
 {{trans-bottom}}
 
