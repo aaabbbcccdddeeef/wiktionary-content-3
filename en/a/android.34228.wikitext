@@ -30,7 +30,7 @@ From {{etyl|grc}} {{term|sc=polytonic|ἀνδρός|tr=andros}}, genitive of {{t
 
 ====Translations====
 {{trans-top|robot with human form}}
-* Arabic: {{t|ar|إنسان أوتوماتيكي|m|tr='insaan 'utumaatikiy}}, {{t|ar|روبوت|m|tr=ruubut}}, {{t|ar|إنسان آلي|m|tr='insaan 'aaliy}}
+* Arabic: {{t-|ar|إنسان أوتوماتيكي|m|tr='insaan 'utumaatikiy}}, {{t-|ar|روبوت|m|tr=ruubut}}, {{t-|ar|إنسان آلي|m|tr='insaan 'aaliy}}
 * Chinese:
 *: Mandarin: {{t-|cmn|機器人|sc=Hani}}, {{t-|cmn|机器人|tr=jīqìrén|sc=Hani}}, {{t|cmn|人形的機器人|sc=Hani}}, {{t|cmn|人形的机器人|tr=rénxíng de jīqìrén|sc=Hani}}, {{t|cmn|仿生人|tr=fǎngshēngrén|sc=Hani}}
 * Czech: {{t+|cs|android|m}}
@@ -41,12 +41,12 @@ From {{etyl|grc}} {{term|sc=polytonic|ἀνδρός|tr=andros}}, genitive of {{t
 {{trans-mid}}
 * German: {{t+|de|Android|m}}, {{t+|de|Roboter|m}}, {{t+|de|robot|m}}
 * Italian: {{t-|it|androide|m}}
-* Japanese: {{t-|ja|人造人間|tr=じんぞうにんげん, jinzō ningen}}, {{t|ja|アンドロイド|tr=andoroido}}, {{t-|ja|ロボット|tr=robotto}}
-* Korean: {{t|ko|안드로이드|tr=andeuroideu|sc=Hang}}, {{t+|ko|로봇|tr=robot|sc=Hang}}
+* Japanese: {{t-|ja|人造人間|tr=じんぞうにんげん, jinzō ningen}}, {{t-|ja|アンドロイド|tr=andoroido}}, {{t-|ja|ロボット|tr=robotto}}
+* Korean: {{t-|ko|안드로이드|tr=andeuroideu|sc=Hang}}, {{t+|ko|로봇|tr=robot|sc=Hang}}
 * Polish: {{t+|pl|android|m}}
 * Portuguese: {{t+|pt|andróide|m}}
-* Russian: {{t|ru|андроид|m|tr=andróid}}, {{t+|ru|робот|m|tr=róbot}}
-* Spanish: {{t-|es|androide|m}}
+* Russian: {{t+|ru|андроид|m|tr=andróid}}, {{t+|ru|робот|m|tr=róbot}}
+* Spanish: {{t+|es|androide|m}}
 {{trans-bottom}}
 
 [[Category:en:Robotics]]
