@@ -144,12 +144,12 @@ From {{etyl|enm}} {{term|high|lang=enm}}, {{term|heigh|lang=enm}}, {{term|heih|l
 
 =====Translations=====
 {{trans-top|elevated}}
-* Arabic: {{qualifier|indefinite}} {{t|ar|عال|alt=عالٍ|tr=ʿālin}}, {{qualifier|definite}} {{t|ar|العالي|tr=al-ʿāliyy}}
+* Arabic: {{qualifier|indefinite}} {{t-|ar|عال|alt=عالٍ|tr=ʿālin}}, {{qualifier|definite}} {{t-|ar|العالي|tr=al-ʿāliyy}}
 * Aramaic:
 *: Syriac: [[ܪܡܐ]] (rāmā, romo) {{c}}
 *: Hebrew: [[רמא]] (rāmā, romo) {{c}}
 * Armenian: {{t+|hy|բարձր|tr=barjr}}
-* Belarusian: {{t|be|высокі|tr=vysóki|xs=Belarusian}}
+* Belarusian: {{t-|be|высокі|tr=vysóki|xs=Belarusian}}
 * Bulgarian: {{t+|bg|висок|tr=visók}}, {{t+|bg|висш|tr=visš}}, {{t+|bg|главен|tr=gláven}}, {{t+|bg|върховен|tr=vǎrhóven}}
 * Catalan: {{t+|ca|alt}}
 * Chinese:
@@ -159,10 +159,10 @@ From {{etyl|enm}} {{term|high|lang=enm}}, {{term|heigh|lang=enm}}, {{term|heih|l
 * Finnish: {{t+|fi|korkea}}
 * French: {{t+|fr|haut|m}}, {{t+|fr|haute|f}}
 * German: {{t+|de|hoch}}
-* Hindi: {{t|hi|ऊंचा|tr=ū̃cā|xs=Hindi}} or {{t|hi|ऊँचा|tr=ū̃cā|xs=Hindi}}
+* Hindi: {{t-|hi|ऊंचा|tr=ū̃cā|xs=Hindi}} or {{t+|hi|ऊँचा|tr=ū̃cā|xs=Hindi}}
 * Hungarian: {{t+|hu|magas}}
 * Interlingua: [[alte]]
-* Irish: {{t-|ga|ard|xs=Irish}}
+* Irish: {{t+|ga|ard|xs=Irish}}
 * Italian: {{t+|it|alto}}, {{t+|it|elevato}}, {{t-|it|illustre}}
 * Japanese: {{t+|ja|高い|tr=[[たかい]], takai}}
 * Korean: {{t+|ko|높다|tr=nopda|sc=Hang}}
@@ -171,32 +171,32 @@ From {{etyl|enm}} {{term|high|lang=enm}}, {{term|heigh|lang=enm}}, {{term|heih|l
 * Latgalian: {{tø|ltg|augsts}}
 * Latin: {{t+|la|altus}}
 {{trans-mid}}
-* Latvian: {{t|lv|augsts}}
-* Lithuanian: {{t|lt|aukštas}}
+* Latvian: {{t-|lv|augsts}}
+* Lithuanian: {{t+|lt|aukštas}}
 * Macedonian: {{t-|mk|висок|m|tr=vísok}}
 * Malay: {{t+|ms|tinggi|xs=Malay}}
 * Mizo: {{tø|lus|sang}}
 * Neapolitan: {{tø|nap|auto}}
 * Old Church Slavonic: {{tø|cu|вꙑскъ|tr=vysokŭ|sc=Cyrl|xs=Old Church Slavonic}}
-* Pashto: {{t|ps|لوړ|tr=lwaṛ}}, {{t|ps|اوچت|tr=učat}}
-* Persian: {{t|fa|بالا|tr=bâlâ|sc=fa-Arab}}
+* Pashto: {{t+|ps|لوړ|tr=lwaṛ}}, {{t+|ps|اوچت|tr=učat}}
+* Persian: {{t+|fa|بالا|tr=bâlâ|sc=fa-Arab}}
 * Polish: {{t+|pl|wysoki}}
 * Portuguese: {{t+|pt|alto}}
-* Romanian: {{t+|ro|înalt|m}}, {{t|ro|înălțat|m|n}}, {{t|ro|ridicat|m|n}}
+* Romanian: {{t+|ro|înalt|m}}, {{t-|ro|înălțat|m|n}}, {{t-|ro|ridicat|m|n}}
 * Russian: {{t+|ru|высокий|m|tr=vysókij}}
 * Scots: {{tø|sco|heich|xs=Scots}}
 * Scottish Gaelic: {{t-|gd|àrd|xs=Scottish Gaelic}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|висок|alt=вѝсок|sc=Cyrl|xs=Serbo-Croatian}}
-*: Roman: {{t|sh|visok|alt=vìsok|xs=Serbo-Croatian}}
+*: Cyrillic: {{t-|sh|висок|alt=вѝсок|sc=Cyrl|xs=Serbo-Croatian}}
+*: Roman: {{t-|sh|visok|alt=vìsok|xs=Serbo-Croatian}}
 * Slovak: {{t-|sk|vysoký}}
 * Slovene: {{t+|sl|visok}}
 * Spanish: {{t+|es|alto}}, {{t-|es|elevado}}
 * Swedish: {{t+|sv|hög}}
 * Telugu: [[ఎత్తైన]] (ettaina)
 * Ukrainian: {{t+|uk|високий|tr=vysókyj|xs=Ukrainian}}
-* Urdu: {{t|ur|اونچا|tr=ū̃cā|xs=Urdu}}
-* Vietnamese: {{t+|vi|cao cấp|xs=Vietnamese}}, {{t|vi|cao}} ({{t|vi|高}})
+* Urdu: {{t-|ur|اونچا|tr=ū̃cā|xs=Urdu}}
+* Vietnamese: {{t+|vi|cao cấp|xs=Vietnamese}}, {{t+|vi|cao}} ({{t+|vi|高}})
 {{trans-bottom}}
 
 {{trans-top|tall, lofty}}
@@ -205,75 +205,75 @@ From {{etyl|enm}} {{term|high|lang=enm}}, {{term|heigh|lang=enm}}, {{term|heih|l
 *: Syriac: [[ܪܡܐ]] (rāmā, romo) {{c}}
 *: Hebrew: [[רמא]] (rāmā, romo) {{c}}
 * Armenian: {{t+|hy|բարձր|tr=barjr}}
-* Belarusian: {{t|be|высокі|tr=vysóki|xs=Belarusian}}
+* Belarusian: {{t-|be|высокі|tr=vysóki|xs=Belarusian}}
 * Bulgarian: {{t+|bg|висок|tr=visók}}
 * Catalan: {{t+|ca|alt}}
 * Chinese:
 *: Mandarin: {{t+|zh|高|tr=gāo|sc=Hani}}
 * Czech: {{t+|cs|vysoký}}
-* Danish: {{t|da|høj}}
+* Danish: {{t-|da|høj}}
 * Dutch: {{t+|nl|hoog}}
-* Faroese: {{t|fo|høgur}}, {{t|fo|háur}}
+* Faroese: {{t-|fo|høgur}}, {{t-|fo|háur}}
 * Finnish: {{t+|fi|korkea}}
 * French: {{t+|fr|haut}}
-* Georgian: {{t|ka|მაღალი|tr=maḡali|sc=Geor}}
+* Georgian: {{t-|ka|მაღალი|tr=maḡali|sc=Geor}}
 * German: {{t+|de|hoch}}
 * Greek: {{t+|el|ψηλός|m|tr=psilós}}
 * Hindi: {{t+|hi|लंबा|tr=lambā|xs=Hindi}} ''or'' {{t-|hi|लम्बा|tr=lambā|xs=Hindi}}
 * Hungarian: {{t+|hu|magas}}
 * Interlingua: [[alte]]
-* Irish: {{t-|ga|ard|xs=Irish}}
+* Irish: {{t+|ga|ard|xs=Irish}}
 * Italian: {{t+|it|alto}}, {{t+|it|elevato}}
 {{trans-mid}}
 * Japanese: {{t+|ja|高い|tr=[[たかい]], takai}}
 * Korean: {{t+|ko|높다|tr=nopda|sc=Hang}}
 * Macedonian: {{t-|mk|висок|m|tr=vísok}}
 * Mizo: {{tø|lus|sang}}
-* Pashto: {{t|ps|لوړ|tr=lwaṛ}}, {{t|ps|اوچت|tr=učat}}, {{t|ps|جګ|tr=jëg}}
+* Pashto: {{t+|ps|لوړ|tr=lwaṛ}}, {{t+|ps|اوچت|tr=učat}}, {{t+|ps|جګ|tr=jëg}}
 * Persian: {{t+|fa|بلند|tr=boland|xs=Persian}}
 * Portuguese: {{t+|pt|alto}}
 * Romanian: {{t+|ro|înalt}}
 * Russian: {{t+|ru|высокий|m|tr=vysókij}}
 * Scots: {{tø|sco|heich|xs=Scots}}
-* Scottish Gaelic: {{t-|gd|àrd|xs=Scottish Gaelic}}, {{qualifier|of specified height}} {{t|gd|a dh'àirde}}
+* Scottish Gaelic: {{t-|gd|àrd|xs=Scottish Gaelic}}, {{qualifier|of specified height}} {{t-|gd|a dh'àirde}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|висок|alt=вѝсок|sc=Cyrl|xs=Serbo-Croatian}}
-*: Roman: {{t|sh|visok|alt=vìsok|xs=Serbo-Croatian}}
-* Slovak: {{t|sk|vysoký}}
-* Slovene: {{t|sl|visok}}
+*: Cyrillic: {{t-|sh|висок|alt=вѝсок|sc=Cyrl|xs=Serbo-Croatian}}
+*: Roman: {{t-|sh|visok|alt=vìsok|xs=Serbo-Croatian}}
+* Slovak: {{t-|sk|vysoký}}
+* Slovene: {{t+|sl|visok}}
 * Spanish: {{t+|es|alto}}
 * Swedish: {{t+|sv|hög}}
 * Telugu: [[పొడుగు]] (poDugu)
 * Turkish: {{t+|tr|uzun}}, {{t+|tr|yüksek}}
 * Ukrainian: {{t+|uk|високий|tr=vysókyj|xs=Ukrainian}}
-* Urdu: {{t|ur|لمبا|tr=lambā|xs=Urdu}}
-* Vietnamese: {{t|vi|cao}} ({{t|vi|高}})
+* Urdu: {{t-|ur|لمبا|tr=lambā|xs=Urdu}}
+* Vietnamese: {{t+|vi|cao}} ({{t+|vi|高}})
 {{trans-bottom}}
 
 {{trans-top|slang: stoned}}
-* Armenian: {{t|hy|ուռած|tr=uṙaç}}
+* Armenian: {{t-|hy|ուռած|tr=uṙaç}}
 * Catalan: {{t-|ca|drogat}}
 * Chinese:
 *: Mandarin: {{qualifier|no exact term exists}} {{Hani|[[神智]][[恍惚]]}} (shénzhì huǎnghū)
 * Croatian: {{t-|hr|napušen}}, {{t-|hr|nadrogiran}}
 * Czech: {{t-|cs|sjetý}}
-* Danish: {{t|da|høj}}, {{t|da|skæv}}
+* Danish: {{t-|da|høj}}, {{t-|da|skæv}}
 * Dutch: {{t+|nl|high}}
-* Faroese: {{t|fo|skeivur}}
+* Faroese: {{t-|fo|skeivur}}
 * Finnish: {{t-|fi|pilvessä}}
 * French: {{t+|fr|planer}}
 * German: [[berauscht]]
-* Greek: {{t|el|μαστουρωμένος|m|tr=masturoménos}}
+* Greek: {{t+|el|μαστουρωμένος|m|tr=masturoménos}}
 {{trans-mid}}
-* Icelandic: {{t-|is|skakkur|m}}, {{t|is|skökk|f}}, {{t|is|skakkt|n}}
+* Icelandic: {{t-|is|skakkur|m}}, {{t-|is|skökk|f}}, {{t-|is|skakkt|n}}
 * Interlingua: [[drogate]]
-* Italian: {{t+|it|fatto}}, {{t-|it|eccitato}}, {{t-|it|su di giri}}, {{t-|it|schizzato}}, {{t-|it|scoppiato}}, {{t-|it|flippato}}, {{t-|it|fuso}}, {{t-|it|gasato}}
-* Macedonian: {{t|mk|напушен|m|tr=nápušen}}
+* Italian: {{t+|it|fatto}}, {{t-|it|eccitato}}, {{t-|it|su di giri}}, {{t-|it|schizzato}}, {{t+|it|scoppiato}}, {{t-|it|flippato}}, {{t+|it|fuso}}, {{t-|it|gasato}}
+* Macedonian: {{t-|mk|напушен|m|tr=nápušen}}
 * Mizo: {{tø|lus|kai}}, {{tø|lus|hai}}, {{tø|lus|awm}}, {{tø|lus|rui}}
 * Navajo: {{tø|nv|naareel}}
-* Polish: {{t|pl|naćpany}}
+* Polish: {{t-|pl|naćpany}}
 * Portuguese: {{t+|pt|alto}}
-* Russian: {{t|ru|укуренный|tr=ukúrennyj}}, {{t|ru|обдолбаный|tr=obdólbanyj}}
+* Russian: {{t-|ru|укуренный|tr=ukúrennyj}}, {{t-|ru|обдолбаный|tr=obdólbanyj}}
 * Spanish: {{t-|es|colocado}}, {{t+|es|drogado}}
 * Swedish: {{t+|sv|hög}}
 {{trans-bottom}}
@@ -287,7 +287,7 @@ From {{etyl|enm}} {{term|high|lang=enm}}, {{term|heigh|lang=enm}}, {{term|heih|l
 * Macedonian: {{t-|mk|висок|m|tr=vísok}},  {{t-|mk|голем|m|tr=gólem}}
 {{trans-mid}}
 * Mizo: {{tø|lus|sang}}, {{tø|lus|to}}
-* Romanian: {{t|ro|mare|m|f|n}}
+* Romanian: {{t+|ro|mare|m|f|n}}
 * Russian: {{t+|ru|высокий|m|tr=vysókij}}
 * Scots: {{tø|sco|heich|xs=Scots}}
 * Scottish Gaelic: {{t-|gd|mòr|xs=Scottish Gaelic}}
@@ -296,15 +296,15 @@ From {{etyl|enm}} {{term|high|lang=enm}}, {{term|heigh|lang=enm}}, {{term|heih|l
 
 {{trans-top|acoustics: of greater frequency}}
 * Czech: {{t+|cs|vysoký}}
-* German: {{t|de|hell}}
+* German: {{t+|de|hell}}
 * Macedonian: {{t-|mk|висок|m|tr=vísok}}
 {{trans-mid}}
 * Mizo: {{tø|lus|sang}}
-* Romanian: {{t|ro|înaltă|f}}, {{t|ro|mare|f}}
+* Romanian: {{t-|ro|înaltă|f}}, {{t+|ro|mare|f}}
 {{trans-bottom}}
 
 {{trans-top|of meat: decomposing}}
-* German: {{t|de|angegangen}}
+* German: {{t+|de|angegangen}}
 {{trans-mid}}
 * Mizo: {{tø|lus|nam}}
 {{trans-bottom}}
@@ -343,7 +343,7 @@ From {{etyl|enm}} {{term|high|lang=enm}}, {{term|heigh|lang=enm}}, {{term|heih|l
 
 =====Translations=====
 {{trans-top|in or at an elevated position}}
-* Czech: {{t-|cs|vysoko}}
+* Czech: {{t+|cs|vysoko}}
 * Macedonian: {{t-|mk|високо|tr=vísoko}}
 {{trans-mid}}
 * Scots: {{tø|sco|heich|xs=Scots}}
@@ -351,7 +351,7 @@ From {{etyl|enm}} {{term|high|lang=enm}}, {{term|heigh|lang=enm}}, {{term|heih|l
 {{trans-bottom}}
 
 {{trans-top|in or at a great value}}
-* Czech: {{t-|cs|vysoko}}
+* Czech: {{t+|cs|vysoko}}
 * Macedonian: {{t-|mk|високо|tr=vísoko}}
 {{trans-mid}}
 * Scots: {{tø|sco|heich|xs=Scots}}
@@ -359,7 +359,7 @@ From {{etyl|enm}} {{term|high|lang=enm}}, {{term|heigh|lang=enm}}, {{term|heih|l
 {{trans-bottom}}
 
 {{trans-top|in or at an elevated position}}
-* Czech: {{t-|cs|vysoko}}
+* Czech: {{t+|cs|vysoko}}
 {{trans-mid}}
 * Macedonian: {{t-|mk|високо|tr=vísoko}}
 {{trans-bottom}}
