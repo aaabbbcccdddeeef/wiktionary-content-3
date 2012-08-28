@@ -45,21 +45,21 @@ From {{etyl|enm}} {{term|wille|lang=enm}}, from {{etyl|ang}} {{term|willa||mind,
 
 =====Translations=====
 {{trans-top|intent or volition}}
-* Albanian: {{t|sq|vullnet|m}}
+* Albanian: {{t-|sq|vullnet|m}}
 * Ancient Greek: {{tø|grc|θέλημα|sc=polytonic}}
-* Arabic: {{t|ar|رغبة|f|tr=rághba|sc=Arab}}
-* Armenian: {{t-|hy|կամք|tr=kamk’}}
-* Catalan: {{t|ca|voluntat|f}}
-* Cebuano: {{t|ceb|buot}}, {{t|ceb|pagbuot}}
+* Arabic: {{t-|ar|رغبة|f|tr=rághba|sc=Arab}}
+* Armenian: {{t+|hy|կամք|tr=kamk’}}
+* Catalan: {{t+|ca|voluntat|f}}
+* Cebuano: {{tø|ceb|buot}}, {{tø|ceb|pagbuot}}
 * Chinese:
 *: Mandarin: {{t-|cmn|意志|tr=yìzhì|sc=Hani}}
 *:
-* Czech: {{t-|cs|vůle|f}}
-* Danish: {{t|da|vilje|c}}
+* Czech: {{t+|cs|vůle|f}}
+* Danish: {{t-|da|vilje|c}}
 * Dutch: {{t+|nl|wil|m}}, {{t+|nl|wens|m}}
 * Esperanto: {{t-|eo|volo|xs=Esperanto}}
-* Estonian: {{t|et|tahe}}
-* Ewe: {{t|ee|lɔ̃lɔ̃nu}}
+* Estonian: {{t-|et|tahe}}
+* Ewe: {{tø|ee|lɔ̃lɔ̃nu}}
 * Finnish: {{t-|fi|tahto}}
 * French: {{t+|fr|volonté|f}}
 * German: {{t+|de|Wille|m}}
@@ -71,9 +71,9 @@ From {{etyl|enm}} {{term|wille|lang=enm}}, from {{etyl|ang}} {{term|willa||mind,
 * Italian: {{t+|it|volontà|f}}
 * Japanese: {{t+|ja|意志|tr=いし, ishi}}
 * Latin: {{t-|la|voluntas}}
-* Macedonian: {{t|mk|волја|f|tr=vólja}}
+* Macedonian: {{t-|mk|волја|f|tr=vólja}}
 * Norwegian: {{t+|no|vilje|m}}, {{t+|no|ønske|n}}
-* Polish: {{t|pl|wola|f}}
+* Polish: {{t+|pl|wola|f}}
 * Portuguese: {{t+|pt|vontade|f}}
 * Romanian: {{t+|ro|voință|f}}
 * Russian: {{t+|ru|воля|f|tr=vól'a}}
@@ -86,11 +86,11 @@ From {{etyl|enm}} {{term|wille|lang=enm}}, from {{etyl|ang}} {{term|willa||mind,
 
 {{trans-top|legal document}}
 * Armenian: {{t-|hy|կտակ|tr=ktak}}
-* Catalan: {{t|ca|testament|m}}
-* Croatian: {{t|hr|oporuka|f}}
+* Catalan: {{t+|ca|testament|m}}
+* Croatian: {{t-|hr|oporuka|f}}
 * Czech: {{t-|cs|závěť|f}}, {{t-|cs|poslední vůle|f}}
-* Dutch: {{t+|nl|testament|n}}, {{t|nl|laatste wilsbeschikking|f}}
-* Esperanto: {{t-|eo|testamento|xs=Esperanto}}
+* Dutch: {{t+|nl|testament|n}}, {{t-|nl|laatste wilsbeschikking|f}}
+* Esperanto: {{t+|eo|testamento|xs=Esperanto}}
 * Estonian: {{t+|et|testament}}
 * Finnish: [[testamentti]], [[viimeinen]] [[tahto]]
 * French: {{t+|fr|testament|m}}
@@ -98,13 +98,13 @@ From {{etyl|enm}} {{term|wille|lang=enm}}, from {{etyl|ang}} {{term|willa||mind,
 * Greek: {{t+|el|διαθήκη|f}} (diathíki)
 * Hebrew: {{t-|he|צוואה|f}}
 * Hungarian: {{t+|hu|végrendelet}}
-* Italian: {{t|it|lascito|m}}, {{t|it|testamento|m}}
+* Italian: {{t-|it|lascito|m}}, {{t+|it|testamento|m}}
 * Japanese: [[遺書]] ([[いしょ]], isho)
 * Latin: {{t-|la|testamentum|n}}
 {{trans-mid}}
 * Luhya: {{tø|luy|ewill}}, {{tø|luy|ewili}}, {{tø|luy|luwasia}}
 * Macedonian: {{t-|mk|тестамент|m|tr=testamént}}
-* Malay: {{t|ms|wasiat|xs=Malay}}
+* Malay: {{t-|ms|wasiat|xs=Malay}}
 * Norwegian: {{t-|no|testament|n}}
 * Polish: {{t+|pl|testament|m}}
 * Portuguese: {{t+|pt|testamento|m}}
@@ -144,13 +144,13 @@ From {{etyl|enm}} {{term|wille|lang=enm}}, from {{etyl|ang}} {{term|willa||mind,
 * Esperanto: {{t-|eo|testamenti|xs=Esperanto}}
 * Finnish: {{t-|fi|testamentata}}
 * French: {{t+|fr|léguer}}
-* Italian: {{t|it|legare}}, {{t|it|lasciare in eredità}}
+* Italian: {{t+|it|legare}}, {{t-|it|lasciare in eredità}}
 {{trans-mid}}
-* Macedonian: {{t|mk|заветува|tr=zavétuva}}, {{t|mk|остава во наследство|tr=óstava vo následstvo}}
+* Macedonian: {{t-|mk|заветува|tr=zavétuva}}, {{t-|mk|остава во наследство|tr=óstava vo následstvo}}
 * Norwegian: {{t-|no|testamentere}}
 * Russian: {{t+|ru|завещать|tr=zav'eš'at'}}
 * Spanish: {{t-|es|legar}}
-* Swedish: {{t|sv|testamentera}}
+* Swedish: {{t+|sv|testamentera}}
 {{trans-bottom}}
 
 {{trans-top|to wish strongly}}
@@ -158,14 +158,14 @@ From {{etyl|enm}} {{term|wille|lang=enm}}, from {{etyl|ang}} {{term|willa||mind,
 * Esperanto: {{t-|eo|voli|xs=Esperanto}}
 * French: {{t+|fr|vouloir}}
 * German: {{t+|de|wollen}}
-* Italian: {{t|it|volere}}
-* Macedonian: {{t|mk|посакува|tr=posákuva}}, {{t|mk|пожелува|tr=požéluva}}
+* Italian: {{t+|it|volere}}
+* Macedonian: {{t-|mk|посакува|tr=posákuva}}, {{t-|mk|пожелува|tr=požéluva}}
 {{trans-mid}}
 * Norwegian: {{t+|no|ville}}
 * Russian: {{t+|ru|желать|tr=želát'}}
 * Spanish: {{t+|es|desear}}
 * Swedish: {{t+|sv|vilja}}
-* Turkish: {{t|tr|istek}}
+* Turkish: {{t+|tr|istek}}
 {{trans-bottom}}
 
 ====See also====
@@ -219,10 +219,10 @@ From {{etyl|enm}} {{term|willen|lang=enm}}, {{term|wullen|lang=enm}}, {{term|wol
 =====Translations=====
 {{trans-top|indicating future action}}
 * American Sign Language: {{tø|ase|OpenB@NearSideNosehigh-FingerUp OpenB@SideNosehigh-FingerForward|xs=American Sign Language}}
-* Arabic: {{t|ar|سوف|tr=sáwfa}} + ''present tense'', ''prefix'' {{t+|ar|س|alt=سـ|tr=sa-}} + ''present tense''
+* Arabic: {{t-|ar|سوف|tr=sáwfa}} + ''present tense'', ''prefix'' {{t+|ar|س|alt=سـ|tr=sa-}} + ''present tense''
 *: [[Egyptian Arabic]]: ''prefix'' {{tø|arz|ح|alt=حـ|tr=Ha-|sc=Arab}} + ''present tense''
 * Belarusian: ''Use the future perfective'' or ''use the future of {{l|be|быць|tr=byc’}} + imperfective infinitive''
-* Bulgarian: {{t|bg|ще|tr=šte|sc=Cyrl}} {{qualifier|+ present form}}
+* Bulgarian: {{t+|bg|ще|tr=šte|sc=Cyrl}} {{qualifier|+ present form}}
 * Chinese:
 *: Mandarin: {{t-|cmn|將|sc=Hani}}, {{t-|cmn|将|tr=jiāng|sc=Hani}}, {{t-|cmn|要|tr=yào|sc=Hani}}, {{t|cmn|將要|sc=Hani}}, {{t|cmn|将要|tr=jiāngyào|sc=Hani}}, {{t-|cmn|會|sc=Hani}}, {{t-|cmn|会|tr=huì|sc=Hani}}
 * Czech: ''Use the future perfective'' or ''use the future of {{l|cs|být}} + imperfective infinitive''
@@ -235,19 +235,19 @@ From {{etyl|enm}} {{term|willen|lang=enm}}, {{term|wullen|lang=enm}}, {{term|wol
 * Ido: ''suffix'' {{t-|io|-os|xs=Ido}} ''after verbal roots''
 * Italian: ''Use the future tense'' {{t-|it|-erò|alt=-rò, -rai, -rà, -remo, -rete, -ranno}}, e.g. ''And'''rò''' al negozio.''
 * Japanese: ''present-future tense form is used''
-* Latin: {{t-|la|velle}}, {{qualifier|Use the future tense }} {{t|la|ero|tr=i will be}}
-* Macedonian: {{t|mk|ќе|tr=ḱe}} {{qualifier|+ present form}}
+* Latin: {{t-|la|velle}}, {{qualifier|Use the future tense }} {{t-|la|ero|tr=i will be}}
+* Macedonian: {{t-|mk|ќе|tr=ḱe}} {{qualifier|+ present form}}
 {{trans-mid}}
 * Norwegian: {{t+|no|vil}}, {{t-|no|kommer til å}}, {{t+|no|skal}}
 * Polish: ''Use the future perfective'' or ''use the future of {{l|pl|być}} + imperfective infinitive''
-* Portuguese: ''Use the future tense'' {{t|pt|-arei|alt=-rei, -rás, -rá, -remos, -reis, -rão}}, e.g. ''I'''rei''' à loja.''; {{qualifier|colloquial}} {{t+|pt|ir}}
+* Portuguese: ''Use the future tense'' {{t-|pt|-arei|alt=-rei, -rás, -rá, -remos, -reis, -rão}}, e.g. ''I'''rei''' à loja.''; {{qualifier|colloquial}} {{t+|pt|ir}}
 * Russian: ''Use the future perfective'' or ''use the future of {{l|ru|быть|tr=byt’}} + imperfective infinitive''
 ** ''I will go to the post office'' — Я [[пойти|пойду]] на почту
 ** ''I will be going to the post office'' — Я [[быть|буду]] [[идти]] на почту
 ** ''I will be going back and forth to the post office'' — Я [[быть|буду]] [[ходить]] на почту
 * Slovak: ''Use the future perfective'' or ''use the future of {{l|sk|byť}} + imperfective infinitive''
 * Spanish: ''Use the future tense'' {{t-|es|-aré|alt=-ré, -rás, -rá, -remos, -reis, -rán}}, e.g. ''I'''ré''' a la tienda.''
-* Swedish: {{t|sv|komma till att}}, {{t|sv|komma att}}, {{t+|sv|skola}}, {{t+|sv|vilja}}, {{t+|sv|tänka}}
+* Swedish: {{t-|sv|komma till att}}, {{t-|sv|komma att}}, {{t+|sv|skola}}, {{t+|sv|vilja}}, {{t+|sv|tänka}}
 ** ''I will go to the store'' — ''Jag ska gå till affären'' or ''Jag kommer att gå till affären''
 * Thai: {{t-|th|จะ|tr=jà }}
 * Turkish: (2): suffix for all verbs: [[-ecek]] (if the last vowel of a verb is e,i,ö or ü) or [[-acak]] (if the vowel is a,ı,o or u).
