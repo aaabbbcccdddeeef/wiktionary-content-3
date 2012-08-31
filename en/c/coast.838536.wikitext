@@ -34,7 +34,7 @@ From {{etyl|enm}} and {{etyl|fro}} {{term|coste}}, from {{etyl|la}} {{term|costa
 ====Translations====
 {{trans-top|edge of land meeting ocean, sea, gulf, bay}}
 * Afrikaans: [[kus]], [[oewer]]
-* Albanian: {{t+|sq|breg|xs=Albanian}}, {{t+|sq|bregdet|xs=Albanian}}
+* Albanian: {{t+|sq|breg}}, {{t+|sq|bregdet}}
 * Arabic: {{Arab|[[ساحل]]}}, {{Arab|[[شاطئ]]}}, {{Arab|[[تلة]]}}, {{Arab|[[هبوط تلة]]}}
 * Armenian: {{t+|hy|ափ|tr=ap’}}
 * Bosnian: {{t-|bs|obala|f}}
@@ -42,24 +42,24 @@ From {{etyl|enm}} and {{etyl|fro}} {{term|coste}}, from {{etyl|la}} {{term|costa
 * Catalan: {{t+|ca|costa|f}}
 * Chinese:
 *: Mandarin: {{t-|cmn|海岸|tr=hǎi'àn|sc=Hani}}, {{t-|cmn|岸|tr=àn|sc=Hani}}
-* Croatian: {{t-|hr|obala}}
+* Croatian: {{t+|hr|obala}}
 * Czech: {{t+|cs|pobřeží|n}}, {{t+|cs|břeh|m}}
 * Danish: {{t+|da|bred}}, {{t+|da|kyst}}
 * Dutch: [[kust]], [[kustlijn]], [[zeekant]], [[zeekust]]
-* Esperanto: {{t-|eo|marbordo|xs=Esperanto}}
+* Esperanto: {{t-|eo|marbordo}}
 * Estonian: [[rand]], [[rannik]]
-* Faroese: {{t-|fo|strond|xs=Faroese}}
+* Faroese: {{t-|fo|strond}}
 * Finnish: [[merenrannikko]], [[rannikko]]
 * French: {{t+|fr|côte|f}}
 * Georgian: [[ნაპირი]] (napiri), [[ზღვის პირი]] (zghvis piri)
 * {{ttbc|German}}: [[Küste]], [[Küstenland]], [[Strand]], [[Ufer]]
-* Greek: {{t|el|ακρογιαλιά|f}} (akrogialiá), {{t|el|γιαλός|m}} (gialós), {{t+|el|ακτή|f}} (aktē), {{t+|el|παραλία|f}} (paralía)
+* Greek: {{t+|el|ακρογιαλιά|f}} (akrogialiá), {{t+|el|γιαλός|m}} (gialós), {{t+|el|ακτή|f}} (aktē), {{t+|el|παραλία|f}} (paralía)
 * Hebrew: [[שְׂפַת הַיָּם]], [[חוֹף יָם]], [[חוֹף]]
 * Hindi: [[सीमा]] (sīmā), [[कनारा]] (kanāra), [[तट]] (tat.a), [[समुद्रतट]] (samudra-tat.a), [[सागरतट]] (sāgara-tat.a)
 * Hungarian: [[part]], [[partvidék]], [[tengerpart]]
 * Icelandic: {{t+|is|strönd}}
-* Indonesian: {{t+|id|pantai|xs=Indonesian}}
-* Irish: {{t-|ga|cósta|xs=Irish}}
+* Indonesian: {{t+|id|pantai}}
+* Irish: {{t-|ga|cósta}}
 * Italian: {{t+|it|costa}}, {{t-|it|costiera}}, {{t-|it|litorale}}
 * Japanese: {{Jpan|[[海岸]]}} ([[かいがん]]) (kaigan)
 * Jèrriais: {{tø|roa-jer|côte|f}}
@@ -77,14 +77,14 @@ From {{etyl|enm}} and {{etyl|fro}} {{term|coste}}, from {{etyl|la}} {{term|costa
 * Portuguese: {{t+|pt|costa}}, {{t+|pt|beira}}
 * Romanian: [[coastă]], [[țărm de mare]], [[coborâre la vale]], [[liman]], [[mal]], [[limită]], [[hotar]]
 * Russian: [[морской берег]] (mórskoj béreg), [[побережье]] (poberéžje)
-* Scottish Gaelic: {{t-|gd|cladach|m|xs=Scottish Gaelic}}
+* Scottish Gaelic: {{t-|gd|cladach|m}}
 * Serbian:
 *: Cyrillic: [[обала]] {{f}}
 *: Roman: [[obala#Serbian|obala]] {{f}}
 * Slovak: [[klesajúci]], [[morský breh]], [[nezaberajúci]], [[plávať pozdĺž pobrežia]], [[pobrežie]], [[pobrežie mora]], [[stúpajúci]]
 * Spanish: {{t+|es|costa|f}}, {{t-|es|litoral|m}}
 * Sranan: [[syoro]], [[watrasey]], [[sekanti]]
-* Swahili: {{t+|sw|pwani|xs=Swahili}}, {{t-|sw|ufuko|xs=Swahili}}, {{t-|sw|mapwa|xs=Swahili}}, {{t-|sw|mapwaji|xs=Swahili}}
+* Swahili: {{t+|sw|pwani}}, {{t-|sw|ufuko}}, {{t-|sw|mapwa}}, {{t-|sw|mapwaji}}
 * Swedish: [[gräns mot hav]], [[kust]], [[strand]]
 * Tagalog: [[pampang]], [[baybayin]]
 * Thai: [[ชายฝั่ง]] (chaai-fàng), [[ทางลาดเอียง]] (taang lâat-iang)
@@ -95,7 +95,7 @@ From {{etyl|enm}} and {{etyl|fro}} {{term|coste}}, from {{etyl|la}} {{term|costa
 * Vietnamese: [[bờ biển]], [[đường lao]], [[sự lao xuống]], [[sự lao dốc]]
 * Welsh: [[arfordir]], [[goror]], [[mordir]]
 * West Frisian: [[igge]]
-* Yiddish: {{t-|yi|breg|xs=Yiddish}}
+* Yiddish: {{t-|yi|breg}}
 {{trans-bottom}}
 
 ====Derived terms====
@@ -132,23 +132,23 @@ From {{etyl|enm}} and {{etyl|fro}} {{term|coste}}, from {{etyl|la}} {{term|costa
 
 ====Translations====
 {{trans-top|to glide along with no added energy}}
-* Finnish: {{t|fi|liukua}}
+* Finnish: {{t+|fi|liukua}}
 {{trans-mid}}
-* Spanish: {{t|es|deslizar}}
+* Spanish: {{t-|es|deslizar}}
 {{trans-bottom}}
 
 {{trans-top|to sail along a coast}}
-* Finnish: [[purjehtia]] [[pitkin#Finnish|pitkin]] {{t|fi|rannikko|alt=rannikkoa}}
-* French: {{t|fr|caboter}}
+* Finnish: [[purjehtia]] [[pitkin#Finnish|pitkin]] {{t+|fi|rannikko|alt=rannikkoa}}
+* French: {{t+|fr|caboter}}
 {{trans-mid}}
-* Spanish: {{qualifier|la costa}} {{t|es|navegar}}
-* Swahili: {{t+|sw|puani|xs=Swahili}}
+* Spanish: {{qualifier|la costa}} {{t+|es|navegar}}
+* Swahili: {{t+|sw|puani}}
 {{trans-bottom}}
 
 {{trans-top|to make a minimal effort}}
-* Finnish: {{t|fi|ottaa rennosti}}
+* Finnish: {{t-|fi|ottaa rennosti}}
 {{trans-mid}}
-* Spanish: {{t|es|perecear}}
+* Spanish: {{t-|es|perecear}}
 {{trans-bottom}}
 
 ===Anagrams===
