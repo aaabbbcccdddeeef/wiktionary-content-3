@@ -68,25 +68,32 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 * [[class reunion]]
 * [[class struggle]]
 * [[economy class]]
-* [[equivalence class]]
 {{der-mid3}}
-* [[factory class]]
+* [[equivalence class]]
 * [[first class]]
 * [[form class]]
-* [[inner class]]
 * [[middle class]]
 * [[noun class]]
-* [[outer class]]
 * [[pitch class]]
 * [[professional class]]
-{{der-mid3}}
 * [[school class]]
+{{der-mid3}}
 * [[second class]]
 * [[social class]]
 * [[spectral class]]
+* [[super class]]
 * [[third class]]
 * [[upper class]]
 * [[working class]]
+{{der-bottom}}
+{{der-top3|{{computing}} A set of objects having the same behavior ''or'' a template defining such a set}}
+* [[class diagram]]
+* [[factory class]]
+{{der-mid3}}
+* [[inner class]]
+* [[outer class]]
+{{der-mid3}}
+* [[subclass]]
 * [[wrapper class]]
 {{der-bottom}}
 
@@ -437,6 +444,7 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 ====Derived terms====
 {{rel-top|Derived terms}}
 * [[outclass]]
+* [[subclass]]
 {{rel-bottom}}
 
 ====Translations====
@@ -455,16 +463,17 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 # {{context|Irish|British|slang}} [[great]]; [[fabulous]]
 
 ====Related terms====
-{{rel-top|related terms}}
+{{rel-top3|related terms}}
 * [[class act]]
 * [[classify]]
 * [[class picture]]
 * [[classless]]
+{{rel-mid3}}
 * [[classroom]]
 * [[class up]]
 * [[class war]]
 * [[classy]]
-{{rel-mid}}
+{{rel-mid3}}
 * [[coach class]]
 * [[steerage class]]
 {{rel-bottom}}
