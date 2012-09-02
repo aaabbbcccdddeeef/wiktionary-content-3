@@ -64,17 +64,18 @@ Note that the chemical symbol '''J''' (not '''I''') is sometimes used in German 
 {{trans-top|element}}
 * Afrikaans: [[jood]]
 * Albanian: {{t-|sq|jod|xs=Albanian}}
-* Arabic: {{Arab|[[يود]]}} (yūd) {{m}}
+* Arabic: {{Arab|[[يود]]}} (yūd) {{m}}, {{t|ar|يود|m|tr=yūd|sc=Arab}}
 * Armenian: {{t-|hy|յոդ|tr=yod}}
 * Asturian: {{t-|ast|yodu|m}}
-* Azeri: [yod] [iod]
+* Azeri: [yod] [iod], {{t|az|yod}}, {{t|az|iod}}
 * Basque: [[iodoa]]
-* Belarusian: [[ёд]] (jod) {{m}}
+* Belarusian: [[ёд]] (jod) {{m}}, {{t|be|ёд|m|tr=jod|sc=Cyrl}}
 * Bosnian: {{t-|bs|jod}}
 * Breton: [[iod]] {{m}}
 * Bulgarian: {{t-|bg|йод|m|tr=jod|sc=Cyrl}}
 * Catalan: [[iode]]
 * Chinese: [[碘]] (diǎn)
+*: Mandarin: {{t|cmn|碘|tr=diǎn|sc=Hans}}
 * Cornish: [[eyodyn]]
 * Croatian: {{t+|hr|jod}}
 * Czech: {{t+|cs|jód|m}}
@@ -87,7 +88,7 @@ Note that the chemical symbol '''J''' (not '''I''') is sometimes used in German 
 * French: {{t+|fr|iode|m}}
 * Friulian: [[jodi]]
 * Galician: [[iodo]]
-* Georgian: [[იოდი]] (iodi)
+* Georgian: [[იოდი]] (iodi), {{t|ka|იოდი|tr=iodi|sc=Geor}}
 * German: {{t+|de|Iod|n}}, {{t+|de|Jod|n}}
 * Greek: {{t+|el|ιώδιο|n|tr=iódio}}
 * Hebrew: {{t|he|יוד|yód}}
@@ -96,20 +97,20 @@ Note that the chemical symbol '''J''' (not '''I''') is sometimes used in German 
 * Icelandic: {{t+|is|joð}}
 * Irish: [[iaidín]]
 * Italian: {{t+|it|iodio|m}}
-* Japanese: [[ヨウ素]] (yōso)
+* Japanese: [[ヨウ素]] (yōso), {{t|ja|ヨウ素|tr=ようそ, yōso|sc=Jpan}}, {{t|ja|沃素|tr=ようそ, yōso|sc=Jpan}}
 * Kashubian: [[jód]]
 {{trans-mid}}
 * Kazakh: [[йод]] (yod)
 * Korean: {{t+|ko|요오드|tr=yoodeu|sc=Kore}},  {{t-|ko|옥도|tr=沃度, okdo|sc=Kore}},  {{t-|ko|옥소|tr=沃素, okso|sc=Kore}},  {{t-|ko|요오듐|tr=yoodyum|sc=Kore}},  {{t-|ko|아이오딘|tr=aiodin|sc=Kore}}
 * Latin: {{t+|la|iodium}}
-* Latvian: [[jods]]
+* Latvian: [[jods]], {{t|lv|jods|m}}
 * Lithuanian: {{t+|lt|jodas|xs=Lithuanian}}
 * Luxembourgish: {{t-|lb|Iod}}
-* Macedonian: [[jод]] (jod) {{m}}
+* Macedonian: [[jод]] (jod) {{m}}, {{t|mk|jод|m|tr=jod|sc=Cyrl}}
 * Malay: [[iodin]], [[yodium]]
-* Maltese: [[jodju]]
+* Maltese: [[jodju]], {{t|mt|jodju|m}}
 * Manx: [[eeadeen]]
-* Mongolian: [[йод]] (jod)
+* Mongolian: [[йод]] (jod), {{t|mn|йод|tr=jod|sc=Cyrl}}
 * Norwegian: {{t+|no|jod}}
 * Polish: {{t+|pl|jod|m}}
 * Portuguese: {{t+|pt|iodo}}
@@ -117,6 +118,9 @@ Note that the chemical symbol '''J''' (not '''I''') is sometimes used in German 
 * Russian: {{t+|ru|йод|m|tr=jod}}
 * Scottish Gaelic: [[ìodain]]
 * Serbian: [[jод]] ([[jod]]) {{m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|јод|m}}
+*: Roman: {{t|sh|jod|m}}
 * Skolt Sami: {{tø|sms|jåått}}
 * Slovak: {{t-|sk|jód|m}}
 * Slovene: {{t+|sl|jod}}
@@ -124,12 +128,12 @@ Note that the chemical symbol '''J''' (not '''I''') is sometimes used in German 
 * Swedish: {{t+|sv|jod|c}}
 * Tajik: [[iod]]
 * Tamil: [[அயடின்]] (ayaţin)
-* Thai: {{Thai|[[ไอโอดีน]]}} (aiōdīn)
+* Thai: {{Thai|[[ไอโอดีน]]}} (aiōdīn), {{t|th|ไอโอดีน|tr=aiōdīn|sc=Thai}}
 * Tok Pisin: {{t-|tpi|aiadin|xs=Tok Pisin}},  {{t-|tpi|yot|xs=Tok Pisin}}
 * Turkish: {{t+|tr|iyot}}
-* Ukrainian: [[йод]] (jod) {{m}}
-* Uzbek: [[йод]] (yod)
-* Vietnamese: [[iot]], [[Iođ]]
+* Ukrainian: [[йод]] (jod) {{m}}, {{t|uk|йод|m|tr=jod|sc=Cyrl}}
+* Uzbek: [[йод]] (yod), {{t|uz|yod}}
+* Vietnamese: [[iot]], [[Iođ]], {{t|vi|iot}}, {{t|vi|iốt}}, {{t|vi|iođ}}
 * Volapük: {{t+|vo|yodin}}
 * Welsh: [[ïodin]]
 * West Frisian: [[joadium]]
@@ -138,11 +142,11 @@ Note that the chemical symbol '''J''' (not '''I''') is sometimes used in German 
 {{trans-top|antiseptic}}
 * Bulgarian: {{t-|bg|йодна тинктура|f|tr=jódna tinktúra|sc=Cyrl}}, {{qualifier|colloquial}} {{t-|bg|йод|m|tr=jod|sc=Cyrl}}
 * Dutch: [[jodium]] {{n}}, [[jodiumtinctuur]] {{m}}
-* German: [[Jodtinktur]] {{f}}
-* Japanese: [[ヨードチンキ]] (yōdo chínki)
+* German: [[Jodtinktur]] {{f}}, {{t|de|Jodtinktur|f}}
+* Japanese: [[ヨードチンキ]] (yōdo chínki), {{t|ja|ヨードチンキ|tr=yōdochinki|sc=Jpan}}
 {{trans-mid}}
-* Polish: [[jodyna]] {{f}}
-* Russian: [[йодная тинктура]] (jódnaja tinktúra) {{f}}, [[йодная настойка]] (jódnaja nastójka) {{f}}
+* Polish: [[jodyna]] {{f}}, {{t|pl|jodyna|f}}
+* Russian: [[йодная тинктура]] (jódnaja tinktúra) {{f}}, [[йодная настойка]] (jódnaja nastójka) {{f}}, {{t|ru|йодная тинктура|f|tr=jódnaja tinktúra|sc=Cyrl}}, {{t|ru|йодная настойка|f|tr=jódnaja nastójka|sc=Cyrl}}, {{t|ru|йод|m|tr=jod|sc=Cyrl}}
 * Tok Pisin: {{t-|tpi|aiadin|xs=Tok Pisin}},  {{t-|tpi|yot|xs=Tok Pisin}}
 {{trans-bottom}}
 
