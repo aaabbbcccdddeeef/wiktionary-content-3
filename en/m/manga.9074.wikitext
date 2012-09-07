@@ -1,10 +1,10 @@
 {{also|mangá|många}}
 ==English==
 {{wikipedia|dab=manga (disambiguation)|manga}}
-[[File:Young boy reading manga.jpg|thumb|250px|upright|A young boy reading ''[[w:Black Cat (manga)|Black Cat]]'' in a Barnes & Noble bookstore.]]
+[[File:Young boy reading manga.jpg|thumb|250px|upright|A young boy reading ''{{w|Black Cat (manga)|Black Cat}}'' in a bookstore.]]
 
 ===Etymology===
-From {{etyl|ja}} {{term|漫画|tr=manga||lang=ja|sc=Jpan}}, [[漫]] (''man-'') "random, uncontrolled" + [[画]] (''-ga'') "picture, sketch". After an 1814 book by [[w:Hokusai|Katsushika Hokusai]].
+From {{etyl|ja}} {{term|漫画|tr=manga||lang=ja|sc=Jpan}}, from {{term|漫|tr=man-||random, uncontrolled|lang=ja}} + {{term|画|tr=-ga||picture, sketch|lang=ja}}. After an 1814 book by {{w|Hokusai|Katsushika Hokusai}}.
 
 ===Pronunciation===
 * {{a|GenAm}} {{IPA|/ˈmæŋɡə/}}, {{X-SAMPA|/"m{Ng@/}}
@@ -87,13 +87,14 @@ From {{etyl|ja}} {{term|漫画|tr=manga||lang=ja|sc=Jpan}}, [[漫]] (''man-'') "
 * Macedonian: {{t-|mk|манга|f|tr=mánga}}
 * Marathi: {{t-|mr|मांगा|tr=maṃga|sc=Deva}}
 * Polish: {{t+|pl|manga|f}}
-* Portuguese: {{t+|pt|mangá|m}}, {{t+|pt|manga}}
+* Portuguese: {{t+|pt|mangá|f}} {{qualifier|Brazil}}, {{t+|pt|manga|f}} {{qualifier|Portugal}}
 * Russian: {{t-|ru|манга|f|tr=mánga}}, {{t-|ru|японские комиксы|m|p|tr=japónskije kómiksy}}
 * Spanish: {{t+|es|manga|f}}
 * Swedish: {{t+|sv|manga|c}}
 * Ukrainian: {{t-|uk|манґа|f|tr=mánga|xs=Ukrainian}}, {{t-|uk|манга|f|tr=mánha, mánga|xs=Ukrainian}}
 * Vietnamese: {{t-|vi|mạn họa|xs=Vietnamese}} ({{t-|vi|漫畫}}), {{t-|vi|manga|xs=Vietnamese}}
 {{trans-bottom}}
+
 {{checktrans-top}}
 * {{ttbc|eu}}: {{t-|eu|manga|xs=Basque}}
 * {{ttbc|eo}}: {{t-|eo|mangao|xs=Esperanto}}
@@ -118,6 +119,20 @@ From {{etyl|ja}} {{term|漫画|tr=manga||lang=ja|sc=Jpan}}, [[漫]] (''man-'') "
 
 ----
 
+==Asturian==
+
+===Etymology===
+From {{etyl|la|ast}} {{term|manica|lang=la}}.
+
+===Noun===
+{{ast-noun|f|mangues}}
+
+# [[sleeve]]
+
+[[Category:ast:Clothing]]
+
+----
+
 ==Catalan==
 
 ===Etymology===
@@ -126,7 +141,7 @@ From {{etyl|ja|ca}} {{term|漫画|tr=manga||lang=ja|sc=Jpan}}, [[漫]] (''man-''
 ===Noun===
 {{ca-noun|m|manges}}
 
-# [[#English|manga]] {{gloss|Japanese comic book}}
+# {{l|en|manga}} {{gloss|Japanese comic book}}
 
 [[Category:ca:Art]]
 [[Category:ca:Literature]]
@@ -138,7 +153,7 @@ From {{etyl|ja|ca}} {{term|漫画|tr=manga||lang=ja|sc=Jpan}}, [[漫]] (''man-''
 ===Noun===
 {{nl-noun|g|manga's|mangaatje}}
 
-# A [[#English|manga]]
+# {{l|en|manga}}
 
 ----
 ==French==
@@ -165,17 +180,26 @@ From {{etyl|ja|fr}} {{term|漫画|lang=ja}}
 
 ==Galician==
 
-===Etymology===
-From {{etyl|pt|gl}} {{term|manga|lang=pt}}, from {{etyl|ms|gl}} {{term|mangga|lang=ms}}, from {{etyl|ta|gl}} {{term|மாங்காய்|tr=māṅkāy|lang=ta|sc=Taml}} from {{term|மா||tr=mā|lang=ta|mango species}} + {{term|காய்||tr=kāy|lang=ta|unripe fruit}}.
+===Etymology 1===
+From {{etyl|la|gl}} {{term|manica|lang=la}}.
 
-===Noun===
+====Noun====
 {{gl-noun|f}}
 
-# A [[mango]] (fruit)
+# [[sleeve]]
 
-====Related terms====
+===Etymology 2===
+From {{etyl|pt|gl}} {{term|manga|lang=pt}}, from {{etyl|ms|gl}} {{term|mangga|lang=ms}}, from {{etyl|ta|gl}} {{term|மாங்காய்|tr=māṅkāy|lang=ta|sc=Taml}} from {{term|மா||tr=mā|lang=ta|mango species}} + {{term|காய்||tr=kāy|lang=ta|unripe fruit}}.
+
+====Noun====
+{{gl-noun|f}}
+
+# [[mango]] (fruit)
+
+=====Related terms=====
 * [[mangueira]]
 
+[[Category:gl:Clothing]]
 [[Category:gl:Fruits]]
 
 ----
@@ -185,7 +209,7 @@ From {{etyl|pt|gl}} {{term|manga|lang=pt}}, from {{etyl|ms|gl}} {{term|mangga|la
 ===Noun===
 {{head|it|noun|g=m}} {{inv}}
 
-# {{manga|lang=it}} A [[#English|manga]]
+# {{manga|lang=it}} {{l|en|manga}}
 
 ===Anagrams===
 * [[magna#Italian|magna]]
@@ -224,7 +248,7 @@ From {{etyl|ja|pl}} [[漫画]]
 ===Noun===
 {{head|pl|noun|g=f}}
 
-# {{manga|lang=pl}} A [[#English|manga]]
+# {{manga|lang=pl}} {{l|en|manga}}
 
 ====Declension====
 {{pl-decl-noun
@@ -245,23 +269,22 @@ From {{etyl|ja|pl}} [[漫画]]
 From {{etyl|la|pt}} {{term|manica|lang=la}}, cognate with Spanish, French [[manche]].
 
 ====Noun====
-'''manga''' {{f}}
+{{pt-noun|f}}
 
-# A [[sleeve]].
+# [[sleeve]]
 
 ===Etymology 2===
 From {{etyl|ms|pt}} {{term|mangga|lang=ms}}, from {{etyl|ta|pt}} {{term|மாங்காய்|tr=māṅkāy|lang=ta|sc=Taml}} from {{term|மா||tr=mā|lang=ta|mango species}} + {{term|காய்||tr=kāy|lang=ta|unripe fruit}}.
 
 ====Noun====
-'''manga''' {{f}}
+{{pt-noun|f}}
 
-# [[mango]] [[fruit]].
-# [[mango]] [[tree]].
+# [[mango]] {{gloss|fruit}}
+# [[mango]] {{gloss|tree}}
 
 =====Synonyms=====
-* {{sense|tree}} [[mangueira]]
+* {{sense|tree}} {{l|pt|mangueira}}
 
-[[Category:Portuguese nouns]]
 [[Category:pt:Fruits]]
 [[Category:pt:Trees]]
 
@@ -269,18 +292,25 @@ From {{etyl|ms|pt}} {{term|mangga|lang=ms}}, from {{etyl|ta|pt}} {{term|மா�
 
 ==Spanish==
 
-===Etymology===
+===Etymology 1===
 From {{etyl|la|es}} {{term|manica|lang=la}}, cognate with Portuguese, French [[manche]].
 
-===Noun===
+====Noun====
 {{es-noun|f}}
 
 # [[sleeve]]
-# [[#English|manga]]
 
-====Related terms====
+=====Related terms=====
 * [[manguera]]
 * [[remangar]]
+
+===Etymology 2===
+From {{etyl|ja|es}}.
+
+====Noun====
+{{es-noun|m}}
+
+# {{l|en|manga}}
 
 ----
 
@@ -289,18 +319,16 @@ From {{etyl|la|es}} {{term|manica|lang=la}}, cognate with Portuguese, French [[m
 ===Noun===
 {{sv-noun|g=c}}
 
-# {{manga|lang=sv}} A [[#English|manga]]
+# {{manga|lang=sv}} {{l|en|manga}}
 
 ----
 
 ==Turkish==
 
 ===Noun===
-'''manga'''
+{{head|tr|noun}}
 
 # [[squad]]
-
-[[Category:Turkish nouns]]
 
 [[ar:manga]]
 [[de:manga]]
