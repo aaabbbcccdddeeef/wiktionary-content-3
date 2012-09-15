@@ -9,12 +9,40 @@
 # Cousin of one's wife.
 
 ====Translations====
-* Chinese: 姻堂兄妹，姻表兄妹。
-* Dutch: [[aangetrouwde neef]] {{m}} (1), [[echtgenoot van neef]] {{m}} (1), [[echtgenoot van nicht]] {{m}} (1), [[aangetrouwde nicht]] {{f}} (2), [[echtgenote van neef]] {{f}} (2), [[echtgenote van nicht]] {{f}} (2), [[neef van echtgenoot]] {{m}} (3), [[nicht van echtgenoot]] {{f}} (3), [[neef van echtgenote]] {{m}} (4), [[nicht van echtgenote]] {{f}} (4)
-* French: [[beau-cousin]] (1, 3) {{m}}, [[belle-cousine]] (2, 4) {{f}}, [[cousin politique]] (1, 3) {{m}}, [[cousine politique]] (2, 4) {{f}}
-* German: [[Schwiegervetter]] (1, 3)
-* Japanese: 義理のいとこ (giri no itoko)
-* Latin: [[patruelis politicus]] (1, 3, on paternal side) {{m}}, [[patruelis politica]] (2, 4, on paternal side) {{f}}, [[consobrinus politicus]] (1, 3, on maternal side) {{m}}, [[consobrina politica]] (2, 4, on maternal side)
-* Spanish: primo político {{m}}, prima política {{f}}
+{{trans-top|husband of one's cousin}} <!-- 1 -->
+* Dutch: [[aangetrouwde neef]] {{m}}, [[echtgenoot van neef]] {{m}}, [[echtgenoot van nicht]] {{m}}
+* French: [[beau-cousin]] {{m}}, [[cousin politique]] {{m}}
+{{trans-mid}}
+* German: [[Schwiegervetter]]
+* Latin: [[patruelis politicus]] (on paternal side) {{m}}, [[consobrinus politicus]] (on maternal side) {{m}}
+{{trans-bottom}}
+
+{{trans-top|wife of one's cousin}} <!-- 2 -->
+* Dutch: [[aangetrouwde nicht]] {{f}}, [[echtgenote van neef]] {{f}}, [[echtgenote van nicht]] {{f}}
+* French: [[belle-cousine]] {{f}}, [[cousine politique]] {{f}}
+{{trans-mid}}
+* Latin: [[patruelis politica]] (on paternal side) {{f}}, [[consobrina politica]] (on maternal side)
+{{trans-bottom}}
+
+{{trans-top|cousin of one's husband}} <!-- 3 -->
+* Dutch: [[neef van echtgenoot]] {{m}}, [[nicht van echtgenoot]] {{f}}
+* French: [[beau-cousin]] {{m}}, [[cousin politique]] {{m}}
+{{trans-mid}}
+* German: [[Schwiegervetter]]
+* Latin: [[patruelis politicus]] (on paternal side) {{m}}, [[consobrinus politicus]] (on maternal side) {{m}}
+{{trans-bottom}}
+
+{{trans-top|cousin of one's wife}} <!-- 4 -->
+* Dutch: [[neef van echtgenote]] {{m}}, [[nicht van echtgenote]] {{f}}
+* French: [[belle-cousine]] {{f}}, [[cousine politique]] {{f}}
+{{trans-mid}}
+* Latin: [[patruelis politica]] (on paternal side) {{f}}, [[consobrina politica]] (on maternal side)
+{{trans-bottom}}
+
+{{checktrans-top}}
+* {{ttbc|zh}}: 姻堂兄妹，姻表兄妹。
+* {{ttbc|ja}}: 義理のいとこ (giri no itoko)
+* {{ttbc|es}}: primo político {{m}}, prima política {{f}}
+{{checktrans-bottom}}
 
 [[pt:cousin-in-law]]
