@@ -58,7 +58,7 @@
 {{en-verb|tiles|tiling|tiled}}
 
 # To [[cover]] with tiles.
-# To arrange in a regular pattern, with adjoining edges (applied to tile-like objects, graphics, windows in a computer interface).
+# {{computing}} To arrange in a regular pattern, with adjoining edges (applied to tile-like objects, graphics, windows in a computer interface).
 
 ====Related terms====
 * [[tiler]]
@@ -66,7 +66,7 @@
 ====Translations====
 {{trans-top|to cover with tiles}}
 * Dutch: [[tegelen]], [[betegelen]]
-* Finnish: [[laatoittaa]], [[kaakeloida]], [[kattaa]]
+* Finnish: {{t|fi|laatoittaa}}
 * German: [[kacheln]] (1), [[fliesen]] (1), [[decken]] (1 ''roof'')
 * Greek: {{t+|el|πλακοστρώνω|tr=plakostróno|sc=Grek}}, {{t-|el|στρώνω με πλακάκια|tr=stróno me plakákia|sc=Grek}}
 {{trans-mid}}
@@ -75,6 +75,11 @@
 *: Bokmål: {{t-|nb|flislegge}}
 * Portuguese: [[azulejar]], [[ladrilhar]], [[telhar]]
 * Spanish: [[alicatar]] o [[azulejar]] (poner azulejos a), [[embaldosar]]; (tejado) [[tejar]].
+{{trans-bottom}}
+
+{{trans-top|computing: to arrange in regular pattern}}
+* Finnish: {{t|fi|tiilittää}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ===Anagrams===
