@@ -4,7 +4,7 @@
 {{en-adj|-}}
 
 # {{mathematics|of a [[binary]] [[operation]]}} Such that the [[order]] in which the [[operand]]s are taken does not affect their [[image]] under the operation.
-#: ''Addition on the real numbers is '''commutative''' because for any real numbers <math>s,t</math>, <math>s+t=t+s</math>.
+#: ''Addition on the real numbers is '''commutative''' because for any real numbers <math>s,t</math>, it is true that <math>s+t=t+s</math>.
 # {{algebra|of an [[algebraic structure]]}} Having a commutative [[operation]].
 # {{mathematics|of a [[diagram]] of [[morphism]]s}} Such that any two sequences of morphisms with the same initial and final positions [[compose]] to the same morphism.
 
