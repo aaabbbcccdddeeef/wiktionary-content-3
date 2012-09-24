@@ -63,7 +63,7 @@ From {{etyl|enm}} {{term|swolowen|lang=enm}}, {{term|swolwen|lang=enm}}, {{term|
 * Hindi: {{t-|hi|निगलना|tr=nigalnā|sc=Deva}}
 * Hungarian: {{t+|hu|nyel}}
 * Ido: {{t+|io|glutar}}
-* Interlingua: [[glutir]], [[inglutir]], [[deglutir]], [[ingurgitar]]
+* Interlingua: {{t|ia|glutir}}, {{t|ia|inglutir}}, {{t|ia|deglutir}}, {{t|ia|ingurgitar}}
 * Italian: {{t+|it|deglutire}}, {{t+|it|inghiottire}}
 * Japanese: {{t-|ja|飲み込む|tr=のみこむ, nomikomu}}
 * Korean: {{t+|ko|삼키다|tr=samkida|sc=Hang}}
@@ -76,10 +76,10 @@ From {{etyl|enm}} {{term|swolowen|lang=enm}}, {{term|swolwen|lang=enm}}, {{term|
 *: Nynorsk: {{t-|nn|svelgje}}
 * Persian: {{t+|fa|بلعیدن|tr=bal'idan, balidan|sc=fa-Arab}}
 * Polish: {{t-|pl|połknąć}}, {{t-|pl|połykać}}
-* Portuguese: [[engolir]], [[deglutir]], [[ingurgitar]]
+* Portuguese: {{t|pt|engolir}}, {{t|pt|deglutir}}, {{t|pt|ingurgitar}}
 * Romanian: {{t+|ro|înghiți}}
 * Russian: {{t+|ru|глотать|tr=glotát’}} {{impf}}, {{t+|ru|проглотить|tr=proglotít’|sc=Cyrl}} {{pf.}}, {{t+|ru|глотнуть|tr=glotnút’|sc=Cyrl}} {{pf.}}
-* Scots: [[swallie]]
+* Scots: {{t|sco|swallie}}
 * Scottish Gaelic: {{t-|gd|sluig|xs=Scottish Gaelic}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|гутати|sc=Cyrl}}, {{t-|sh|прогутати|sc=Cyrl}}
@@ -89,7 +89,7 @@ From {{etyl|enm}} {{term|swolowen|lang=enm}}, {{term|swolwen|lang=enm}}, {{term|
 * Spanish: {{t+|es|tragar}}, {{t+|es|engullir}}, {{t-|es|deglutir}}, {{t-|es|ingurgitar}}
 * Swahili: {{t+|sw|meza|xs=Swahili}}
 * Swedish: {{t+|sv|svälja}}
-* Telugu: {{t+|te|మింగు}} (mingu)
+* Telugu: {{t+|te|మింగు|tr=mingu}}
 * Thai: {{t+|th|กลืน|tr=gleun|sc=Thai}}
 * Turkish: {{t+|tr|yutmak}}
 * Ukrainian: {{t-|uk|ковтати|tr=kovtáty|xs=Ukrainian}}
@@ -99,7 +99,6 @@ From {{etyl|enm}} {{term|swolowen|lang=enm}}, {{term|swolwen|lang=enm}}, {{term|
 {{trans-bottom}}
 
 {{trans-top|to make muscular contractions of the oesophagus}}
-* Croatian: {{t-|hr|gutati|alt=gùtati}}, {{t-|hr|progutati|alt=progùtati}}
 * Czech: {{t+|cs|polykat}}
 * Finnish: {{t-|fi|nielaista}}
 * French: {{t+|fr|avaler}},  {{t+|fr|déglutir}}
@@ -109,14 +108,16 @@ From {{etyl|enm}} {{term|swolowen|lang=enm}}, {{term|swolwen|lang=enm}}, {{term|
 *: Bokmål: {{t+|nb|svelge}}
 *: Nynorsk: {{t-|nn|svelgje}}
 {{trans-mid}}
-* Scots: [[swallie]]
+* Scots: {{t|sco|swallie}}
 * Scottish Gaelic: {{t-|gd|sluig|xs=Scottish Gaelic}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|гутати}}, {{t|sh|прогутати}}
+*: Roman: {{t|sh|gutati}}, {{t|sh|progutati}}
 * Swahili: {{t+|sw|meza|xs=Swahili}}
 * Turkish: {{t+|tr|yutkunmak}}
 {{trans-bottom}}
 
 {{trans-top|to take in, to consume}}
-* Croatian: {{t-|hr|gutati|alt=gùtati}}, {{t-|hr|progutati|alt=progùtati}}
 * Czech: {{t-|cs|spolknout}} {{qualifier|informal}}
 * Esperanto: {{t-|eo|gluti|xs=Esperanto}},  {{t-|eo|engluti|xs=Esperanto}}
 * Finnish: {{t+|fi|niellä}}
@@ -127,6 +128,9 @@ From {{etyl|enm}} {{term|swolowen|lang=enm}}, {{term|swolwen|lang=enm}}, {{term|
 *: Nynorsk: {{t-|nn|sluke}}
 {{trans-mid}}
 * Scottish Gaelic: {{t-|gd|sluig|xs=Scottish Gaelic}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|гутати}}, {{t|sh|прогутати}}
+*: Roman: {{t|sh|gutati}}, {{t|sh|progutati}}
 * Swahili: {{t+|sw|meza|xs=Swahili}}
 * Telugu: {{t+|te|తిను}} (tinu)
 * Turkish: {{t+|tr|almak}}, {{t+|tr|tüketmek}}
@@ -167,14 +171,12 @@ Late {{etyl|ang}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymolo
 *: Bokmål: {{t+|nb|avgrunn|m}}, {{t-|nb|svelg|n}}
 *: Nynorsk: {{t-|nn|avgrunn|m}}, {{t-|nn|svelg|n}}
 {{trans-mid}}
-* Scots: [[swallie]]
+* Scots: {{t|sco|swallie}}
 * Swahili: {{t+|sw|meza|xs=Swahili}}
 {{trans-bottom}}
 
 {{trans-top|amount swallowed}}
-* Afrikaans: [[sluk]]
-* Bosnian: {{t-|bs|gutljaj|m}}
-* Croatian: {{t-|hr|gutljaj|m}}
+* Afrikaans: {{t|af|sluk}}
 * Czech: {{t+|cs|hlt|m}}, {{t-|cs|lok|m}}
 * Dutch: {{t+|nl|slok}}
 * Finnish: {{t-|fi|nielaus}}, {{t-|fi|kulaus}} (''of liquid'')
@@ -183,8 +185,10 @@ Late {{etyl|ang}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymolo
 * Norwegian:
 *: Bokmål: {{t-|nb|svelg|m}}
 *: Nynorsk: {{t-|nn|svelg|m}}
-* Scots: [[swallie]]
-* Serbian: {{t-|sr|гутљај|m|sc=Cyrl}}, {{t-|sr|gutljaj|m}}
+* Scots: {{t|sco|swallie}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|гутљај|m|sc=Cyrl}}
+*: Roman: {{t|sh|gutljaj|m}}
 * Swahili: {{t+|sw|meza|xs=Swahili}}
 {{trans-bottom}}
 
@@ -217,7 +221,6 @@ Late {{etyl|ang}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymolo
 * Azeri: {{t+|az|qaranquş|xs=Azeri}}
 * Basque: {{t-|eu|enara|xs=Basque}}
 * Belarusian: {{t-|be|ластаука|f|tr=lastauka|xs=Belarusian}}
-* Bosnian: {{t-|bs|lastavica|f}}, {{t-|bs|lasta|f}}
 * Breton: {{t-|br|gwennili-siminal|xs=Breton}}
 * Bulgarian: {{t-|bg|селска лястовица|f|tr=sélska ljástovitsa}}
 * Catalan: {{t-|ca|oreneta|f}}
@@ -225,8 +228,7 @@ Late {{etyl|ang}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymolo
 * Chechen: {{tø|ce|чIегIардиг}}
 * Chinese:
 *: Mandarin: {{t|cmn|燕子|tr=yànzi|sc=Hani}}
-* Crimean Tatar: [[qarılğaç]]
-* Croatian: {{t-|hr|lastavica|f}}, {{t-|hr|lasta|f}}
+* Crimean Tatar: {{t|crh|qarılğaç}}
 * Czech: {{t+|cs|vlaštovka|f}}
 * Dalmatian: {{tø|dlm|rondaina|f}}
 * Danish: {{t-|da|svale}}, {{t-|da|landsvale}}
@@ -236,67 +238,69 @@ Late {{etyl|ang}} {{term|swelg||gulf, chasm}}, from Germanic (related to Etymolo
 * Faroese: {{t-|fo|svala|xs=Faroese}}
 * Finnish: {{t+|fi|pääskynen}}
 * French: {{t+|fr|hirondelle|f}}
-* Friulian: [[cisile]], [[sisile]]
+* Friulian: {{t|fur|cisile}}, {{t|fur|sisile}}
 * Galician: {{t+|gl|andoriña|f|xs=Galician}}
 * Georgian: {{t-|ka|მერცხალი|tr=merc’xali|sc=Geor|xs=Georgian}}
 * German: {{t+|de|Schwalbe|f}}
-* Greek: [[χελιδόνι]] (kheliðóni)
+* Greek: {{t|el|χελιδόνι|tr=kheliðóni}}
 * Gronings: {{tø|gos|swaalfke}}
 * Hebrew: {{t-|he|סנונית|f|tr=snunit}}
 * Hungarian: {{t+|hu|fecske}}
 * Icelandic: {{t+|is|svala}}, {{t+|is|landsvala}}
 * Ido: {{t+|io|hirundo|xs=Ido}}
-* Interlingua: [[hirundine]]
+* Interlingua: {{t|ia|hirundine}}
 * Irish: {{t+|ga|fáinleog|xs=Irish}}
 * Italian: {{t+|it|rondine}}
-* Japanese: {{t+|ja|燕}},  {{t-|ja|つばめ|tr=tsubame}},  {{t-|ja|ツバメ|tr=tsubame}}
+* Japanese: {{t+|ja|燕|tr=つばめ, tsubame}}, {{t-|ja|ツバメ|tr=tsubame}}
 * Jèrriais: {{tø|roa-jer|héthonde|f}}
 {{trans-mid}}
-* Korean: [[제비]] (jebi)
+* Korean: {{t|ko|제비|tr=jebi}}
 * Kurdish:
 *: [[Kurmanji]]: {{t+|ku|hacîreşk}}, {{t+|ku|dûmeqesk}}, {{t+|ku|hechecik}}
-*: [[Sorani]]: {{ku-Arab|[[په‌ڕه‌سێلکه‌]]}}
-* Ladin: [[rondola]]
+*: [[Sorani]]: {{t|ku|په‌ڕه‌سێلکه‌}}
+* Ladin: {{t|lld|rondola}}
 * Latgalian: {{tø|ltg|bezdeleiga|f}}, {{tø|ltg|arleiga|f}}
 * Latin: {{t-|la|hirundo}}
 * Latvian: {{t-|lv|bezdelīga|xs=Latvian}}
 * Lithuanian: {{t+|lt|kregždė|f|xs=Lithuanian}}
 * Low German: [[swulk]], [[swolk]], [[swalk]], [[swölk]], [[Swælk]] {{f}}
-* Lower Sorbian: [[jaskolicka]]
+* Lower Sorbian: {{t|dsb|jaskolicka}}
 * Macedonian: {{t-|mk|ластовица|f|tr=lastovica}}, {{t-|mk|ластовичка|f|tr=lastovička}}
 * Maltese: {{t-|mt|ħuttafa|xs=Maltese}}
-* Nahuatl: [[cuicuizcatl]]
+* Nahuatl: {{t|nah|cuicuizcatl}}
 * Navajo: {{tø|nv|táshchozhii}}
 * Norwegian:
 *: Bokmål: {{t-|nb|svale|m|f}}
 *: Nynorsk: {{t-|nn|svale|f}}
-* Occitan: [[ironda]], [[randoleta]]
+* Occitan: {{t|oc|ironda|f}}, {{t|oc|randoleta|f}}
 * Persian: {{t+|fa|پرستو|tr=parastu|xs=Persian}}, {{t+|fa|چلچله|tr=čelčele|xs=Persian}}, {{t+|fa|ابابیل|tr=abâbil|xs=Persian}}
 * Polish: {{t+|pl|jaskółka|f}}, {{t+|pl|dymówka|f}}
 * Portuguese: {{t+|pt|andorinha|f}}
-* Romani: [[pitsagoy]] {{m}}, [[rindilashka]] {{f}}
-* Romanian: [[rândunică]] {{f}}, [[lăstun]] {{m}}, [[rândunea]] {{f}}
-* Romansch: [[randulina]], [[hirondella]], [[irundeala]]
+* Romani: {{t|rom|pitsagoy|m}}, {{t|rom|rindilashka|f}}
+* Romanian: {{t|ro|rândunică|f}}, {{t|ro|lăstun|m}}, {{t|ro|rândunea|f}}
+* Romansch: {{t|rm|randulina}}, {{t|rm|hirondella}}, {{t|rm|irundeala}}
 * Russian: {{t+|ru|ласточка|f|tr=lástočka}}
 * Sami: [[spálfu]], [[suorrespálfu]], [[láhtospálfu]]
-* Sardinian: [[mongixedda]], [[arrùndine]], [[arrùndini]]
-* Scots: [[swalla]]
+* Sardinian: {{t|sc|mongixedda}}, {{t|sc|arrùndine}}, {{t|sc|arrùndini}}
+* Scots: {{t|sco|swalla}}
 * Scottish Gaelic: {{t-|gd|gòbhlan-gaoithe|m|xs=Scottish Gaelic}}
-* Serbian: {{t-|sr|ластавица|f|sc=Cyrl}}, {{t-|sr|lastavica|f}}, {{t-|sr|ласта|f|sc=Cyrl}}, {{t-|sr|lasta|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ластавица|f|sc=Cyrl}}, {{t|sh|ласта|f|sc=Cyrl}}
+*: Roman: {{t|sh|lastavica|f}}, {{t|sh|lasta|f}}
 * Sicilian: {{t-|scn|rìndina|f}}, {{t-|scn|rìnnina|f}}
 * Slovak: {{t-|sk|lastovička|f}}
 * Slovene: {{t-|sl|lastovka|f}}, {{t+|sl|lastovica|f}}
 * Spanish: {{t+|es|golondrina|f}}
 * Swahili: {{t+|sw|mbayuwayu|xs=Swahili}}
 * Swedish: {{t+|sv|svala}}, {{t+|sv|ladusvala}}
-* Thai: {{Thai|[[นางแอ่น]]}} (naang àen)
+* Thai: {{t|th|นางแอ่น|tr=naang àen}}
 * Turkish: {{t+|tr|kır kırlangıcı}}
 * Ukrainian: {{t-|uk|ластівка|f|tr=lastivka|xs=Ukrainian}}
-* Upper Sorbian: [[łastojčka]]
+* Upper Sorbian: {{t|hsb|łastojčka}}
 * Vietnamese: {{t-|vi|chim nhạn}}
 * Vilamovian: {{tø|wym|śwojmła}}
 * Welsh: {{t-|cy|gwennol|xs=Welsh}}
-* West Frisian: [[swel]], [[boereswel]]
+* West Frisian: {{t|fy|swel}}, {{t|fy|boereswel}}
 {{trans-bottom}}
 
 ===Anagrams===
