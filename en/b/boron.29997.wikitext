@@ -72,14 +72,12 @@ From stem of {{term|borax}} + {{term|-on||ending used to form names of substance
 * Basque: {{t-|eu|boroa|xs=Basque}}
 * Belarusian: {{t-|be|бор|m|tr=bor|xs=Belarusian}}
 * Bengali: {{t-|bn|বোরন|sc=Beng|xs=Bengali}}
-* Bosnian: {{t-|bs|bor}}
-* Breton: [[bor]]
+* Breton: {{t|br|bor}}
 * Bulgarian: {{t+|bg|бор|m|tr=bor}}
 * Catalan: {{t-|ca|bor|m}}
 * Chuvash: {{tø|cv|бор|sc=Cyrl}}
-* Cornish: boron
+* Cornish: {{t|kw|boron}}
 * Corsican: {{t-|co|boru|xs=Corsican}}
-* Croatian: {{t+|hr|bor}}
 * Czech: {{t+|cs|bor|m}}, {{t+|cs|bór|m}}
 * Danish: {{t+|da|bor}}
 * Dutch: {{t+|nl|boor|n}}, {{t+|nl|borium|n}}
@@ -89,8 +87,8 @@ From stem of {{term|borax}} + {{term|-on||ending used to form names of substance
 * Finnish: {{t+|fi|boori}}
 * French: {{t+|fr|bore|m}}
 * Friulian: {{tø|fur|bôr}}
-* Galician: {{t+|gl|boro|xs=Galician}}
-* Georgian: [[ბორი]] (bori)
+* Galician: {{t+|gl|boro|m|xs=Galician}}
+* Georgian: {{t|ka|ბორი|tr=bori}}
 * German: {{t+|de|Bor|n}}
 * Greek: {{t+|el|βόριο|n|tr=vório}}
 * Hawaiian: {{tø|haw|boron}}
@@ -100,14 +98,14 @@ From stem of {{term|borax}} + {{term|-on||ending used to form names of substance
 * Icelandic: {{t+|is|bór|n}}
 * Ido: {{t+|io|borono|xs=Ido}}
 * Indonesian: {{t+|id|boron|xs=Indonesian}}
-* Interlingua: [[boro]]
+* Interlingua: {{t|ia|boro}}
 * Irish: {{t+|ga|bórón|xs=Irish}}
 * Italian: {{t+|it|boro|m}}
 * Japanese: {{t+|ja|ホウ素|tr=ほうそ, hōso}}, {{t+|ja|硼素}}
 * Javanese: {{t-|jv|boron|xs=Javanese}}
 * Kannada: {{t-|kn|ಬೊರಾನ|sc=Knda|xs=Kannada}}
-* Kashubian: [[bòr]]
-* Kazakh: [[бор]] (bor)
+* Kashubian: {{t|csb|bòr}}
+* Kazakh: {{t|kk|бор|tr=bor}}
 * Korean: {{t+|ko|붕소|tr=硼素, bungso|sc=Hang}}
 * Kurdish: {{t-|ku|boron}}
 * Latin: {{t+|la|borium}}
@@ -125,12 +123,12 @@ From stem of {{term|borax}} + {{term|-on||ending used to form names of substance
 * Manx: {{t-|gv|boron|xs=Manx}}
 * Maori: {{t-|mi|pūtiwha|xs=Maori}}
 * Marathi: {{t-|mr|बोरॉन|sc=Deva|xs=Marathi}}
-* Mongolian: [[бор]] (bor)
+* Mongolian: {{t|mn|бор|tr=bor}}
 * Nahuatl: {{t-|nah|xacoiztatl|xs=Nahuatl}}
 * Norwegian: {{t+|no|bor}}
 *: [[Nynorsk]]: {{t-|nn|grunnstoffet bor|xs=Norwegian Nynorsk}}
 * Novial: {{tø|nov|bore}}
-* Occitan: {{t-|oc|bòr|xs=Occitan}}
+* Occitan: {{t-|oc|bòr|m|xs=Occitan}}
 * Persian: {{t+|fa|بور|xs=Persian}}
 * Polish: {{t+|pl|bor|m}}
 * Portuguese: {{t+|pt|boro|m}}
@@ -140,8 +138,10 @@ From stem of {{term|borax}} + {{term|-on||ending used to form names of substance
 * Russian: {{t+|ru|бор|m|tr=bor}}
 * Sanskrit: {{t-|sa|बोरान|xs=Sanskrit}}
 * Saterland Frisian: {{tø|stq|bor}}
-* Scottish Gaelic: [[bòron]]
-* Serbian: {{t-|sr|бор|tr=bor|sc=Cyrl}}
+* Scottish Gaelic: {{t|gd|bòron}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|бор|m|sc=Cyrl}}
+*: Roman: {{t|sh|bor|m}}
 * Sicilian: {{t+|scn|boru|xs=Sicilian}}
 * Slovak: {{t-|sk|bór}}
 * Slovene: {{t+|sl|bor}}
@@ -157,7 +157,7 @@ From stem of {{term|borax}} + {{term|-on||ending used to form names of substance
 * Vietnamese: {{t+|vi|bo|xs=Vietnamese}}
 * Volapük: {{t+|vo|borin}}
 * Welsh: {{t+|cy|boron|xs=Welsh}}
-* West Frisian: [[boar]]
+* West Frisian: {{t|fy|boar}}
 {{trans-bottom}}
 
 ====External links====
@@ -193,11 +193,9 @@ http://elements.vanderkrogt.net/element.php?sym=B
 {{proto|lang=goh|Germanic|burōnan}}, whence also Old English ''[[borian]]'', Old Norse ''[[bora]]''
 
 ===Verb===
-'''borōn'''
+{{head|goh|verb|head=borōn}}
 
 # to [[bore]]
-
-[[Category:Old High German verbs]]
 
 [[ast:boron]]
 [[cy:boron]]
