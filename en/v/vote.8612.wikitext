@@ -2,9 +2,11 @@
 ==English==
 
 ===Etymology===
-{{etyl|la|en}} {{term|votum|lang=la}}, a form of {{term|voveo|voveō||I vow|lang=la}}, from {{proto|Indo-European|h₁ewegʷʰ-}}. Cognate with Ancient Greek {{term|εὔχομαι|sc=polytonic||to vow|lang=grc}}.
+From {{etyl|la|en}} {{term|votum|lang=la}}, a form of {{term|voveo|voveō||I vow|lang=la}}, from {{proto|Indo-European|h₁ewegʷʰ-}}. Cognate with Ancient Greek {{term|εὔχομαι|sc=polytonic||to vow|lang=grc}}.
 
 ===Pronunciation===
+* {{a|UK}} {{IPA|/vəʊt/}}, {{X-SAMPA|/v@Ut/}}
+* {{a|US}} {{IPA|/voʊt/}}, {{X-SAMPA|/voUt/}}
 * {{audio|en-us-vote.ogg|Audio (US)}}
 * {{rhymes|əʊt}}
 
@@ -36,11 +38,9 @@
 * Afrikaans: {{t-|af|stem|xs=Afrikaans}}
 * Armenian: {{t-|hy|քվեարկություն|tr=k’vearkut’yun}}
 * Asturian: {{t-|ast|votu|m}}
-* Bosnian: {{t-|bs|glas|m}}
 * Catalan: {{t+|ca|vot|m}}
 * Chinese:
 *: Mandarin: {{t-|cmn|投票|tr=tóupiào|sc=Hani}}, {{t|cmn|表決|sc=Hani}}, {{t|cmn|表决|tr=biǎojué|sc=Hani}}
-* Croatian: {{t+|hr|glas|m}}
 * Czech: {{t+|cs|hlas|m}}
 * Danish: {{t+|da|afstemning|c}}
 * Dutch: {{t+|nl|stem|f}}, {{t+|nl|stembusgang|m}}
@@ -57,7 +57,8 @@
 * Japanese: {{t+|ja|投票|tr=とうひょう, tōhyō|sc=Jpan}}
 * Korean: {{t+|ko|투표|tr=tupyo|sc=Kore}} ({{t+|ko|投票|sc=Kore}})
 * Norwegian: {{t-|no|avstemning|m}}
-* Novial: vote
+* Novial: {{t|nov|vote}}
+* Occitan: {{t|oc|vòt|m}}
 * Persian: {{t+|fa|رأی|tr=rái|xs=Persian}}
 * Polish: {{t+|pl|głos|m}}
 * Portuguese: {{t+|pt|voto|m}}
@@ -71,7 +72,7 @@
 
 {{trans-top|instance of voting}}
 * Arabic: {{t-|ar|تصويت|m|tr=taSwiit|sc=Arab}}
-* Armenian: {{t-|hy|ձայն|tr=jayn}},  {{t-|hy|քվե|tr=k’ve}}
+* Armenian: {{t-|hy|ձայն|tr=jayn}}, {{t-|hy|քվե|tr=k’ve}}
 * Catalan: {{t+|ca|vot|m}}
 * Chinese:
 *: Mandarin: {{t-|cmn|投票|tr=tóupiào|sc=Hani}}, {{t|cmn|表決|sc=Hani}}, {{t|cmn|表决|tr=biǎojué|sc=Hani}}
@@ -81,7 +82,7 @@
 * Galician: {{t+|gl|voto|m|xs=Galician}}
 {{trans-mid}}
 * German: {{t+|de|Abstimmung|f}}
-* Greek: {{t+|el|ψήφος|f}} (psífos)
+* Greek: {{t+|el|ψήφος|f|tr=psífos}}
 * Hungarian: {{t+|hu|szavazat}}
 * Polish: {{t+|pl|głosowanie|n}}
 * Russian: {{t+|ru|голосование|n|tr=golosovánije|sc=Cyrl}}
@@ -111,35 +112,36 @@
 * Afrikaans: {{t-|af|stem|xs=Afrikaans}}
 * Arabic: {{t+|ar|صوت|tr=Sáwwata|sc=Arab}}
 * Armenian: {{t-|hy|քվեարկել|tr=k’vearkel}}, {{t-|hy|ձայն տալ|tr=jayn tal}}
-* Bosnian: {{t-|bs|glasati}}
+* Asturian: {{t|ast|votar}}
 * {{trreq|Bulgarian}}
 * Catalan: {{t+|ca|votar}}
 * Chinese:
 *: Mandarin: {{t-|cmn|投票|tr=tóupiào|sc=Hani}}, {{t|cmn|表決|sc=Hani}}, {{t|cmn|表决|tr=biǎojué|sc=Hani}}
-* Croatian: {{t-|hr|glasovati}}
 * Czech: {{t+|cs|hlasovat}}
 * Dutch: {{t+|nl|stemmen}}
 * Esperanto: {{t|eo|voĉdoni}}
 * Finnish: {{t+|fi|äänestää}}
 * French: {{t+|fr|voter}}
+* Galician: {{t|gl|votar}}
 * Georgian: {{t|ka|ხმის მიცემა|sc=Geor|tr=xmis mic'ema}}
 * German: {{t+|de|wählen}}, {{t+|de|stimmen}}
-* Greek: {{t+|el|ψηφίζω}} (psifízo)
+* Greek: {{t+|el|ψηφίζω|tr=psifízo}}
 * Hungarian: {{t+|hu|szavaz}}
 {{trans-mid}}
 * Italian: {{t+|it|votare}}
-* Japanese: {{t+|ja|投票|tr=とうひょうする, tōhyō-surú|alt=投票する|sc=Jpan}}
+* Japanese: {{t+|ja|投票|tr=とうひょうする, tōhyō-suru|alt=投票する|sc=Jpan}}
 * Korean: {{t+|ko|투표|tr=tupyo-hada|alt=투표하다|sc=Kore}}
 * Latvian: {{t+|lv|balsot}}
-* Novial: [[vota]]
+* Novial: {{t|nov|vota}}
+* Occitan: {{t|oc|votar}}
 * Polish: {{t+|pl|głosować}}
 * Portuguese: {{t+|pt|votar}}
 * {{trreq|Romanian}}
 * Russian: {{t+|ru|голосовать|tr=golosovát’|sc=Cyrl}} {{impf}}, {{t+|ru|проголосовать|tr=progolosovát’|sc=Cyrl}} {{pf.}}
 * Scottish Gaelic: {{t-|gd|tagh|xs=Scottish Gaelic}}
 * Serbo-Croatian:
-*: Cyrillic: [[гласати#Serbo-Croatian|гласати]]
-*: Roman: [[glasati#Serbo-Croatian|glasati]]
+*: Cyrillic: {{t|sh|гласати}}, {{t|sh|гласовати}}
+*: Roman: {{t|sh|glasati}}, {{t|sh|glasovati}}
 * Sotho: {{t+|st|vouta|xs=Sotho}}
 * Spanish: {{t+|es|votar}}
 * Swedish: {{t+|sv|rösta}}
@@ -164,7 +166,7 @@
 ===Noun===
 {{fr-noun|m}}
 
-# Vote
+# {{l|en|vote}}
 
 ====Related terms====
 * [[votant]]
