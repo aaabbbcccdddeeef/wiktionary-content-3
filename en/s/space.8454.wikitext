@@ -1,32 +1,32 @@
 ==English==
 {{wikipedia}}
 
+===Etymology===
+From {{etyl|fro}} {{term|espace|lang=fro}} < {{etyl|la}} {{term|spatium|lang=la}}.
+
 ===Pronunciation===
 * {{enPR|spās}}, {{IPA|/speɪs/}}, {{X-SAMPA|/speIs/}}
 * {{audio|en-us-space.ogg|Audio (US)}}
 * {{rhymes|eɪs}}
 
-===Etymology===
-From {{etyl|fro}} ''[[espace]]''.
-
 ===Noun===
 {{en-noun|s|-}}
 
-# {{rfc-def}} {{uncountable}} The intervening contents of a [[volume]]. {{rfex}}
+# {{rfc-sense}} {{uncountable}} The intervening contents of a [[volume]]. {{rfex}}
 # {{uncountable}} Area occupied by or intended for a person or thing.
 ## {{countable|figuratively}} A [[marketplace]] for goods or services.
 ##: ''innovation in the browser '''space'''''
 # {{countable}} An area or volume of sufficient size to accommodate a person or thing.
 # A [[while#Noun|while]]. {{rfex}}
-# {{rfc-def}} {{uncountable}} The volume beyond the [[atmosphere]] of [[planet]]s that consists of a relative [[vacuum]]. {{rfex}}
+# {{rfc-sense}} {{uncountable}} The volume beyond the [[atmosphere]] of [[planet]]s that consists of a relative [[vacuum]]. {{rfex}}
 # {{uncountable|astronomy|astronautics}} The volume beyond the [[w:Kármán line|Kármán line]] that lies 100km above mean sea level of the Earth.
 # {{countable}} A [[gap]] between written or printed letters, numbers, characters, or lines; a [[blank]].
-## In [[digital]] text, a [[character]] representing a space ({{unsupported|space}}).
+## In [[digital]] text, a [[character]] representing a space ({{unsupported|space science}}).
 ## {{metal type}} A piece of metal [[type]] used to separate [[words]], [[cast]] lower than other type so as not to take ink, especially one that is narrower than one [[en]] (compare ''[[quad]]'').
 ##* '''1683''', Joseph Moxon, ''Mechanick Exercises: Or, the Doctrine of Handy-Works. Applied to the art of Printing.'', v 2, [http://books.google.com/books?id=npQtAAAAYAAJ&pg=PA240&q=space+OR+spaces#PPA240,M1 pp. 240–41]:
 ##*: If it be only a ''Single Letter'' or two that drops, he thruſts the end of his ''Bodkin'' between every ''Letter'' of that Word, till he comes to a '''''Space''''': and then perhaps by forcing thoſe ''Letters'' closer, he may have room to put in another '''''Space''''' or a ''Thin '''Space'''''; which if he cannot do, and he finds the '''''Space''''' ſtand ''Looſe'' in the ''Form''; he with the ''Point'' of his ''Bodkin'' picks the '''''Space''''' up and bows it a little; which bowing makes the ''Letters'' on each ſide of the '''''Space''''' keep their parallel diſtance; for by its Spring it thruſts the ''Letters'' that were cloſed with the end of the ''Bodkin'' to their adjunct ''Letters'', that needed no cloſing.
-##* '''1979''',  Marshall Lee, ''Bookmaking'', [http://books.google.com/books?id=yiSeCZTFAtQC p 110]:
-##*: Horizontal spacing is further divided into multiples and fractions of the em.  The multiples are called ''quads''.  The fractions are called '''''spaces'''''.
+##* '''1979''', Marshall Lee, ''Bookmaking'', [http://books.google.com/books?id=yiSeCZTFAtQC p 110]:
+##*: Horizontal spacing is further divided into multiples and fractions of the em. The multiples are called ''quads''. The fractions are called '''''spaces'''''.
 ##* '''2005''', Phil Baines and Andrew Haslam, ''Type & Typography'', 2nd ed, [http://books.google.com/books?id=rs6gyb2hPF4C p 91]:
 ##*: Other larger '''spaces''' – known as quads – were used to space out lines.
 ## {{countable|music}} A position on the [[staff]] bounded by lines.
@@ -42,7 +42,7 @@ From {{etyl|fro}} ''[[espace]]''.
 |year=2011
 |date=September 29
 |author=Jon Smith
-|title=Tottenham   3 - 1   Shamrock Rovers
+|title=Tottenham 3 - 1 Shamrock Rovers
 |work=BBC Sport
 |url=http://news.bbc.co.uk/sport2/hi/football/15014632.stm
 |page=
@@ -52,17 +52,17 @@ From {{etyl|fro}} ''[[espace]]''.
 * {{seemoreCites}}
 
 ====Synonyms====
-* (''intervening contents of a volume''): [[volume]]
-* (''space occupied by or intended for a person or thing''): [[room]], [[volume]]
-* (''area or volume of sufficient size to accommodate a person or thing''): [[place]], [[spot]], [[volume]]
-* (''area beyond the atmosphere of planets that consists of a vacuum''): [[outer space]]
-* (''gap between written characters''): [[blank]], [[gap]], [[whitespace]] {{qualifier|graphic design}}
+* {{sense|intervening contents of a volume}} [[volume]]
+* {{sense|space occupied by or intended for a person or thing}} [[room]], [[volume]]
+* {{sense|area or volume of sufficient size to accommodate a person or thing}} [[place]], [[spot]], [[volume]]
+* {{sense|area beyond the atmosphere of planets that consists of a vacuum}} [[outer space]]
+* {{sense|gap between written characters}} [[blank]], [[gap]], [[whitespace]] {{qualifier|graphic design}}
 * {{sense|metal type}} [[quad]], [[quadrat]]
-* (''set of points each uniquely specified by a set of coordinates''):
-* (''personal freedom to think or be oneself''):
-* (''state of mind one is in when daydreaming''):
-* (''generalized construct or set in mathematics''):
-* (''one of the five basic elements in Indian philosophy''): [[ether]]
+* {{sense|set of points each uniquely specified by a set of coordinates}}
+* {{sense|personal freedom to think or be oneself}}
+* {{sense|state of mind one is in when daydreaming}}
+* {{sense|generalized construct or set in mathematics}}
+* {{sense|one of the five basic elements in Indian philosophy}} [[ether]]
 
 ====Derived terms====
 * {{sense|typography}} [[em space]], [[2-em space]], [[3-em space]], [[en space]], [[hair space]], [[mutton space]], [[nut space]], [[thin space]], [[thick space]]
@@ -286,7 +286,7 @@ From {{etyl|fro}} ''[[espace]]''.
 
 ====Translations====
 {{trans-top|intervening contents of a volume}}
-* Arabic: {{Arab|[[فراغ]]}} {{unicode|(fará:ğ)}},  {{t+|ar|مكان}}
+* Arabic: {{Arab|[[فراغ]]}} {{unicode|(fará:ğ)}}, {{t+|ar|مكان}}
 * Breton: [[egor]] {{m}}
 * Chinese:
 *: Mandarin: {{t|zh|空間|sc=Hani}}, {{t|zh|空间|tr=kōngjiān|sc=Hani}}
@@ -296,8 +296,8 @@ From {{etyl|fro}} ''[[espace]]''.
 * German: {{t+|de|Raum|m}}, {{t+|de|Platz|m}}
 * Greek: [[χώρος]] (xóros) {{m}}, [[διάστημα]] (ðiástima) {{n}}
 * Hebrew: {{t+|he|נפח|m|tr=néfakh}}
-* Hungarian: {{t+|hu|tér}},  {{t+|hu|hely}}
-* Ido: {{t+|io|spaco|xs=Ido}}
+* Hungarian: {{t+|hu|tér}}, {{t+|hu|hely}}
+* Ido: {{t+|io|spaco}}
 * Italian: {{t+|it|spazio|m}}
 * Japanese: {{t+|ja|空間|tr=kūkan}}
 * Korean: [[공간]] (Gonggan)
@@ -306,7 +306,7 @@ From {{etyl|fro}} ''[[espace]]''.
 {{trans-mid}}
 * Macedonian: {{t-|mk|простор|m|tr=próstor}}
 * Maltese: [[spazju]] {{m}}
-* Persian: {{t+|fa|فضا|tr=fazâ}},  {{t+|fa|مکان|xs=Persian}}
+* Persian: {{t+|fa|فضا|tr=fazâ}}, {{t+|fa|مکان}}
 * Polish: {{t+|pl|przestrzeń|f}}
 * Portuguese: {{t+|pt|espaço|m}}
 * Romanian: {{t+|ro|spațiu|n}}
@@ -315,12 +315,12 @@ From {{etyl|fro}} ''[[espace]]''.
 *: Cyrillic: {{t-|sh|простор|m|alt=про́стор}}
 *: Roman: {{t-|sh|prostor|m|alt=próstor}}
 * Spanish: {{t+|es|espacio|m}}
-* Swahili: {{t+|sw|nafasi|xs=Swahili}}
+* Swahili: {{t+|sw|nafasi}}
 * Swedish: {{t+|sv|rymd|c}}, {{t+|sv|utrymme|n}}
-* Tajik: {{t-|tg|фазо|sc=Cyrl|xs=Tajik}}
+* Tajik: {{t-|tg|фазо|sc=Cyrl}}
 * Turkish: {{t+|tr|boşluk}}
-* Urdu: {{t-|ur|فضاء|xs=Urdu}}
-* Vietnamese: {{t+|vi|khoảng|xs=Vietnamese}}, {{t+|vi|chỗ|xs=Vietnamese}}
+* Urdu: {{t-|ur|فضاء}}
+* Vietnamese: {{t+|vi|khoảng}}, {{t+|vi|chỗ}}
 {{trans-bottom}}
 
 {{trans-top|uncountable: space occupied by or intended for a person or thing}}
@@ -338,7 +338,7 @@ From {{etyl|fro}} ''[[espace]]''.
 * Portuguese: {{t+|pt|espaço|m}}
 * Romanian: {{t+|ro|spațiu|n}}
 * Russian: {{t+|ru|пространство|n|tr=prostránstvo}}
-* Swahili: {{t+|sw|nafasi|xs=Swahili}}
+* Swahili: {{t+|sw|nafasi}}
 {{trans-bottom}}
 
 {{trans-top|figuratively: marketplace for goods or services}}
@@ -357,7 +357,7 @@ From {{etyl|fro}} ''[[espace]]''.
 * Polish: {{t+|pl|miejsce|n}}
 * Portuguese: {{t+|pt|espaço|m}}, {{t+|pt|lugar|m}}
 * Russian: {{t+|ru|пространство|n|tr=prostránstvo}}
-* Swahili: {{t+|sw|nafasi|xs=Swahili}}
+* Swahili: {{t+|sw|nafasi}}
 {{trans-bottom}}
 
 {{trans-see|while}}
@@ -386,7 +386,7 @@ From {{etyl|fro}} ''[[espace]]''.
 {{trans-mid}}
 * Macedonian: {{t-|mk|вселена|f|tr=vsélena}}
 * Malay: {{t-|ms|angkasa}}, {{t-|ms|awang-awang}}, {{t-|ms|sawang langit}}, {{t-|ms|sawangan}}
-* Norwegian: {{t+|no|rom|n}},  {{t-|no|verdensrom|n}}
+* Norwegian: {{t+|no|rom|n}}, {{t-|no|verdensrom|n}}
 * Persian: {{t+|fa|فضا|tr=fazâ|sc=fa-Arab}}
 * Polish: {{t+|pl|przestrzeń|f}}
 * Portuguese: {{t+|pt|espaço|m}}
@@ -396,12 +396,12 @@ From {{etyl|fro}} ''[[espace]]''.
 *: Cyrillic: {{t-|sh|свемир|m|alt=све̏мӣр}}, {{t-|sh|васиона|f|alt=васио́на}}, {{t-|sh|васељена|f}}, {{t-|sh|космос|m}}
 *: Roman: {{t-|sh|svemir|m|alt=svȅmīr}}, {{t-|sh|vasiona|f|alt=vasióna}}, {{t-|sh|vaseljena|f}}, {{t-|sh|kosmos|m}}
 * Spanish: {{t+|es|espacio|m}}
-* Swahili: {{t+|sw|nafasi|xs=Swahili}}
+* Swahili: {{t+|sw|nafasi}}
 * Swedish: {{t+|sv|rymd|c}}, {{t-|sv|världsrymd|c}}
 * Telugu: {{t+|te|అంతరిక్షము|tr=antarikshamu}}
 * Turkish: {{t+|tr|uzay}}
 * Urdu: [[خلاء]] (khalaa) {{m}}
-* Vietnamese: {{t+|vi|không gian|xs=Vietnamese}} ({{t-|vi|空間}}), {{t+|vi|không trung|xs=Vietnamese}}, {{t+|vi|khoảng không|xs=Vietnamese}}, {{t+|vi|vũ trụ|xs=Vietnamese}} ({{t+|vi|宇宙}})
+* Vietnamese: {{t+|vi|không gian}} ({{t-|vi|空間}}), {{t+|vi|không trung}}, {{t+|vi|khoảng không}}, {{t+|vi|vũ trụ}} ({{t+|vi|宇宙}})
 {{trans-bottom}}
 
 {{trans-top|volume beyond the Kármán line}}
@@ -428,8 +428,8 @@ From {{etyl|fro}} ''[[espace]]''.
 * Polish: [[spacja]] {{f}}, {{t+|pl|odstęp|m}}
 * Portuguese: {{t+|pt|espaço|m}}
 * Russian: {{t+|ru|пробел|m|tr=prob'él}}
-* Swahili: {{t+|sw|nafasi|xs=Swahili}}
-* Swedish: {{t+|sv|mellanrum}}, {{t-|sv|mellanslag}} (''typographic character'')
+* Swahili: {{t+|sw|nafasi}}
+* Swedish: {{t+|sv|mellanrum}}, {{t-|sv|mellanslag}} {{qualifier|typographic character}}
 * Turkish: [[boşluk]]
 * Urdu: [[وقفہ]] (waqfah) {{m}}
 * Vietnamese: [[khoảng cách]] [[chữ]], [[phiến]] [[cách]] [[chữ]]
@@ -454,7 +454,7 @@ From {{etyl|fro}} ''[[espace]]''.
 * Macedonian: {{t-|mk|проред|m|tr=próred}}
 * Persian: {{t+|fa|فاصله|tr=fâsele|sc=fa-Arab}}
 * Russian: {{t+|ru|пробел|m|tr=probél}}
-* Swahili: {{t+|sw|nafasi|xs=Swahili}}
+* Swahili: {{t+|sw|nafasi}}
 {{trans-bottom}}
 
 {{trans-top|music: position on the staff}}
@@ -473,8 +473,8 @@ From {{etyl|fro}} ''[[espace]]''.
 {{trans-mid}}
 * Polish: {{t+|pl|przestrzeń}}
 * Russian: {{t+|ru|пространство|n|tr=prostránstvo}}
-* Swahili: {{t+|sw|nafasi|xs=Swahili}},  {{t+|sw|nafasi|xs=Swahili}}
-* Swedish: {{t+|sv|rum|n}} (''mathematics''), {{t+|sv|rymd|c}} (''physics'')
+* Swahili: {{t+|sw|nafasi}}, {{t+|sw|nafasi}}
+* Swedish: {{t+|sv|rum|n}} {{qualifier|mathematics}}, {{t+|sv|rymd|c}} {{qualifier|physics}}
 * Turkish: {{t+|tr|uzay}}
 * Vietnamese: [[không gian]]
 {{trans-bottom}}
@@ -484,7 +484,7 @@ From {{etyl|fro}} ''[[espace]]''.
 * German: {{t+|de|Freiraum|m}}
 * Greek: [[χώρος]] (khóros) {{m}}
 {{trans-mid}}
-* Swahili: {{t+|sw|nafasi|xs=Swahili}},  {{t+|sw|uhuru|xs=Swahili}}
+* Swahili: {{t+|sw|nafasi}}, {{t+|sw|uhuru}}
 * Swedish: {{t+|sv|utrymme|n}}, {{t+|sv|rum|n}}
 * Vietnamese: [[khoảng]] [[trời]] [[riêng]]
 {{trans-bottom}}
@@ -493,7 +493,7 @@ From {{etyl|fro}} ''[[espace]]''.
 * Finnish: {{t+|fi|tila}}
 * Japanese: {{t+|ja|空白|tr=kūhaku}}
 {{trans-mid}}
-* Swahili: {{t+|sw|nafasi|xs=Swahili}}
+* Swahili: {{t+|sw|nafasi}}
 {{trans-bottom}}
 
 {{trans-top|mathematics: generalized construct or set}}
@@ -503,7 +503,7 @@ From {{etyl|fro}} ''[[espace]]''.
 * Macedonian: {{t-|mk|простор|m|tr=próstor}}
 {{trans-mid}}
 * Polish: {{t+|pl|przestrzeń|f}}
-* Swahili: {{t+|sw|nafasi|xs=Swahili}}
+* Swahili: {{t+|sw|nafasi}}
 * Swedish: {{t+|sv|rum|n}}
 * Vietnamese: [[không gian]]
 {{trans-bottom}}
@@ -511,7 +511,7 @@ From {{etyl|fro}} ''[[espace]]''.
 {{trans-top|Indian philosophy: one of the five basic elements}}
 * Finnish: {{t+|fi|eetteri}}
 {{trans-mid}}
-* Swahili: {{t+|sw|nafasi|xs=Swahili}}
+* Swahili: {{t+|sw|nafasi}}
 {{trans-bottom}}
 
 {{trans-top|interval of time}}
@@ -548,12 +548,12 @@ From {{etyl|fro}} ''[[espace]]''.
 * Macedonian: {{t-|mk|раздалечува|tr=razdaléčuva}}
 * Portuguese: {{t+|pt|espaçar}}
 {{trans-mid}}
-* Swahili: {{t+|sw|nafasi|xs=Swahili}}
+* Swahili: {{t+|sw|nafasi}}
 * Vietnamese: [[đặt]] [[cách]] [[nhau]], [[để]] cách nhau
 {{trans-bottom}}
 
 {{trans-top|to eject into outer space}}
-* Swahili: {{t+|sw|nafasi|xs=Swahili}}
+* Swahili: {{t+|sw|nafasi}}
 {{trans-mid}}
 {{trans-bottom}}
 
