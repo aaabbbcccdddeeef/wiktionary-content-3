@@ -1,5 +1,5 @@
 ==English==
-{{rfc-auto}}
+
 {{wikipedia}}
 
 ===Pronunciation===
@@ -15,7 +15,7 @@
     | title = Lambda Calculi With Types
     | site = ftp.cs.ru.nl
     | url = ftp://ftp.cs.ru.nl/pub/CompMath.Found/HBK.ps
-    | accessdate = 2012-07-15 
+    | accessdate = 2012-07-15
 }}
 #*: ''M'' is a ''closed &lambda;-term'' (or ''[[combinator]]'') if ''FV''(''M'') = ∅. The set of closed &lambda;-terms is denoted by &Lambda;<sup>0</sup>.
 
