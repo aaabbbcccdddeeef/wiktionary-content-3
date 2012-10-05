@@ -14,7 +14,6 @@
 * [[Zagrebian]]
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|capital of Croatia}}
 * Arabic: {{t-|ar|زغرب|m|tr=zághrib}},  {{t-|ar|زاغرب|m|tr=zaaghrib}},  {{t-|ar|زجرب|m|tr=zágrib}},  {{t-|ar|زاجرب|m|tr=zaagrib}}
 * Armenian: {{t-|hy|Զագրեբ|tr=Zagreb}}
@@ -25,7 +24,6 @@
 *: Mandarin: {{t|cmn|薩格勒布|sc=Hani}},  {{t|cmn|萨格勒布|tr=Sàgélèbù|sc=Hani}}
 * Chuvash: {{tø|cv|Загреб|tr=Zagreb|sc=Cyrl}}
 * Crimean Tatar: {{tø|crh|Zagreb}}
-* Serbo-Croatian: {{t|sh|Zagreb}}
 * Czech: {{t+|cs|Záhřeb|m}}
 * Danish: {{t-|da|Zagreb}}
 * Dutch: {{t+|nl|Zagreb}}
@@ -33,8 +31,8 @@
 * Estonian: {{t+|et|Zagreb}}
 * Finnish: {{t+|fi|Zagreb}}
 * French: {{t+|fr|Zagreb}}
-* Georgian: {{t-|ka|ზაგრები|sc=Geor|xs=Georgian}} (zagrebi)
-* German: {{t+|de|Zagreb|n}}, ''archaic:'' [[Agram]]
+* Georgian: {{t-|ka|ზაგრები|sc=Geor|tr=zagrebi}}
+* German: {{t+|de|Zagreb|n}}, {{qualifier|archaic}} {{t|de|Agram}}
 * Greek: {{t+|el|Ζάγκρεμπ|tr=Zágkreb}}
 * Hebrew: {{t-|he|זאגרב}}
 * Hindi: {{t-|hi|ज़ाग्रेब|xs=Hindi}}
@@ -86,6 +84,8 @@
 
 # The [[capital]] [[city]] of [[Croatia]].
 
+[[Category:da:Capital cities]]
+
 ----
 
 ==Estonian==
@@ -94,7 +94,7 @@
 ===Proper noun===
 {{head|et|proper noun}}
 
-# [[#English|Zagreb]] (capital of Croatia)
+# {{l|en|Zagreb}} (capital of Croatia)
 
 [[Category:et:Capital cities]]
 [[Category:et:Croatia]]
@@ -107,7 +107,7 @@
 ===Proper noun===
 {{fr-proper noun}}
 
-# [[#English|Zagreb]] (capital of Croatia)
+# {{l|en|Zagreb}}
 
 [[Category:fr:Capital cities]]
 [[Category:fr:Croatia]]
@@ -118,9 +118,9 @@
 {{wikipedia|lang=de}}
 
 ===Proper noun===
-{{head|de|proper noun|g=n}}
+{{de-proper noun|g=n}}
 
-# [[#English|Zagreb]] (capital of Croatia)
+# {{l|en|Zagreb}}
 
 [[Category:de:Capital cities]]
 [[Category:de:Croatia]]
@@ -139,7 +139,7 @@
 ===Proper noun===
 {{sh-proper noun|g=m|head=Zágreb|r|Загреб|За́греб}}
 
-# [[#English|Zagreb]] (capital of Croatia)
+# {{l|en|Zagreb}}
 
 ====Declension====
 {{sh-decl-noun-unc
@@ -162,7 +162,7 @@
 ===Proper noun===
 {{es-proper noun|m}}
 
-# [[#English|Zagreb]] (capital of Croatia)
+# {{l|en|Zagreb}}
 
 [[Category:es:Capital cities]]
 [[Category:es:Croatia]]
