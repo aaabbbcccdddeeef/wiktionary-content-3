@@ -32,15 +32,13 @@ From {{etyl|la}} {{term|vacuum||lang=la|an empty space, void}}, noun use of neut
 * [[vacuum cleaner]]
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|region of space that contains no matter}}
-* Arabic: {{t-|ar|خلاء|m|tr=khalaa'}},  {{t-|ar|فراغ|m|tr=faraagh}},  {{t+|ar|فضاء|m|tr=faDaa'}}
+* Arabic: {{t-|ar|خلاء|m|tr=khalaa'}}, {{t-|ar|فراغ|m|tr=faraagh}}, {{t+|ar|فضاء|m|tr=faDaa'}}
 * Armenian: {{t-|hy|վակուում|tr=vakuum}}
 * Bulgarian: {{t+|bg|вакуум|m|tr=vakuum}}
 * Catalan: {{t-|ca|buit|m}}
 * Chinese:
 *: Mandarin: {{t-|cmn|真空|tr=zhēnkōng|sc=Hani}}
-* Serbo-Croatian: {{t|sh|vakuum|m}}, {{t|sh|vakum|m}}
 * Czech: {{t+|cs|vakuum|n}}
 * Danish: {{t-|da|vakuum|n}}
 * Dutch: {{t+|nl|vacuüm|n}}
@@ -50,7 +48,7 @@ From {{etyl|la}} {{term|vacuum||lang=la|an empty space, void}}, noun use of neut
 * Galician: {{t+|gl|baleiro|m}}
 * German: {{t+|de|Vakuum|n}}
 * Greek: {{t+|el|κενό|n|tr=kenó}}
-* Hebrew: [[ואקום]] {{m}} ,[[ריק]] {{m}}
+* Hebrew: {{t|he|ואקום|m}}, {{t|he|ריק|m}}
 * Hungarian: {{t+|hu|vákuum}}
 {{trans-mid}}
 * Icelandic: {{t+|is|lofttæmi|n}}, {{t+|is|lofttóm|n}}
@@ -59,51 +57,20 @@ From {{etyl|la}} {{term|vacuum||lang=la|an empty space, void}}, noun use of neut
 * Irish: {{t+|ga|folús|m}}
 * Italian: {{t+|it|vuoto|m}}
 * Japanese: {{t+|ja|真空|tr=しんくう, shinkū}}
-* Korean: [[진공]] (眞空, jingong)
+* Korean: {{t|ko|진공|tr=jingong}} ({{t|ko|眞空}})
 * Norwegian: {{t+|no|vakuum|n}}
 * Polish: {{t+|pl|próżnia|f}}
 * Portuguese: {{t+|pt|vácuo|m}}
 * Romanian: {{t+|ro|vid|n}}
 * Russian: {{t+|ru|вакуум|m|tr=vákuum}}
-* Serbo-Croatian: {{t-|sh|vakuum|xs=Serbo-Croatian}},  {{t-|sh|zrakoprazan prostor|xs=Serbo-Croatian}}
+* Serbo-Croatian: {{t|sh|vakum|m}} / {{t-|sh|vakuum|m}}, {{t-|sh|zrakoprazan prostor}}
 * Slovak: {{t-|sk|vákuum}}
 * Spanish: {{t+|es|vacío|m}}
 * Swedish: {{t+|sv|vakuum|n}}
-* Telugu: [[శూన్యం]] (SoonyaM)
+* Telugu: {{t|te|శూన్యం|tr=SoonyaM}}
 {{trans-bottom}}
 
-{{trans-top|vacuum cleaner}}
-* Arabic: {{t-|ar|مكنسة كهربائية|f|tr=miknasa kahraba'íyya}}
-* Armenian: {{t-|hy|փոշեկուլ|tr=p'ošekul}}, {{t-|hy|փոշեծծիչ|tr=p'ošeççič}}, {{t-|hy|պիլասոս|tr=pilasos}}
-* Bulgarian: [[прахосмукачка]] {{f}}
-* Catalan: [[aspiradora]] {{f}}
-* Chinese:
-*: Mandarin: {{t|cmn|吸塵器|sc=Hani}},  {{t|cmn|吸尘器|tr=xīchénqì|sc=Hani}},  {{t|cmn|真空吸塵器|sc=Hani}},  {{t|cmn|真空吸尘器|tr=zhēnkōng xīchénqì|sc=Hani}}
-* Czech: {{t+|cs|vysavač|m}}, {{t+|cs|lux|m}}
-* Danish: {{t+|da|støvsuger|c}}
-* Dutch: {{t+|nl|stofzuiger|m}}
-* Finnish: {{t+|fi|imuri}}, {{t+|fi|pölynimuri}}
-* French: {{t+|fr|aspirateur|m}}
-* German: {{t+|de|Staubsauger|m}}
-* Greek: {{t+|el|ηλεκτρική σκούπα|f|tr=ilektrikí skoúpa}}
-* Hungarian: {{t+|hu|porszívó}}
-{{trans-mid}}
-* Icelandic: {{t-|is|ryksuga|f}}
-* Interlingua: [[aspirator#Interlingua|aspirator]]
-* Irish: {{t-|ga|folúsghlantóir|m}}, {{t-|ga|húvar|m}}
-* Italian: {{t+|it|aspirapolvere|m}}
-* Japanese: {{t-|ja|掃除機|tr=そうじき, sōjiki}}
-* Korean: [[진공청소기]] (眞空淸掃機, jingongcheongsogi)
-* Norwegian: {{t-|no|støvsuger}}
-* Polish: {{t+|pl|odkurzacz|m}}
-* Portuguese: {{t-|pt|aspirador de pó|m}}
-* Romanian: {{t-|ro|aspirator|n}}
-* Russian: {{t+|ru|пылесос|m|tr=pylesós}}
-* Serbo-Croatian: {{t-|sh|usisač|xs=Serbo-Croatian}},  {{t-|sh|usisavač|xs=Serbo-Croatian}}
-* Spanish: {{t-|es|aspiradora|f}}
-* Swedish: {{t+|sv|dammsugare|c}}
-* Volapük: {{t+|vo|püfisugian}}
-{{trans-bottom}}
+{{trans-see|vacuum cleaner}}
 
 {{checktrans-top}}
 * {{ttbc|lt}}: [[vakuumas]] {{m}}
@@ -116,8 +83,8 @@ From {{etyl|la}} {{term|vacuum||lang=la|an empty space, void}}, noun use of neut
 # {{intransitive}} To use a vacuum cleaner.
 
 ====Synonyms====
-* {{sense|transitive sense}} to [[hoover]] (''British'')
-* {{sense|intransitive sense}} to do the [[hoovering]], to [[hoover]] (''British'')
+* {{sense|transitive sense}} to [[hoover]] {{qualifier|British}}
+* {{sense|intransitive sense}} to do the [[hoovering]], to [[hoover]] {{qualifier|British}}
 
 ====Translations====
 {{trans-top|transitive: to clean with a vacuum cleaner}}
@@ -146,7 +113,7 @@ From {{etyl|la}} {{term|vacuum||lang=la|an empty space, void}}, noun use of neut
 * Dutch: {{t+|nl|stofzuigen}}
 * Faroese: {{t-|fo|dustsúgva}}
 * Finnish: {{t+|fi|imuroida}}
-* French: [[passer l'aspirateur]]
+* French: {{t|fr|passer l'aspirateur}}
 * German: {{t+|de|staubsaugen}}
 {{trans-mid}}
 * Hungarian: {{t-|hu|porszívózik}}
