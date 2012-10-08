@@ -12,11 +12,9 @@
 * [[eka-polonium]]
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|element with atomic number 116}}
-* Arabic: {{Arab|[[أنون هيكسيوم]]}} (’unun híksiyum) {{m}}
+* Arabic: {{t|ar|أنون هيكسيوم|tr=’unun híksiyum|m}}
 * Catalan: {{t-|ca|ununhexi|m}}
-* Serbo-Croatian: {{t|sh|ununheksij|m}}
 * Dutch: {{t+|nl|ununhexium|n}}
 * Esperanto: {{t-|eo|ununheksio|xs=Esperanto}}
 * Estonian: {{t-|et|ununheksium}}
@@ -34,14 +32,14 @@
 * Portuguese: {{t-|pt|ununhéxio|m}}
 * Romanian: {{t+|ro|ununhexiu|n}}
 * Russian: {{t+|ru|унунгексий|unungéksij|m}}
-* Serbo-Croatian: {{t|sh|унунхексијум|m|tr=ununheksijum|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|унунхексиј|m|sc=Cyrl}}, {{t|sh|унунхексијум|m|sc=Cyrl}}
+*: Roman: {{t|sh|ununheksij|m}}, {{t|sh|ununheksijum|m}}
 * Spanish: {{t+|es|ununhexio|m}}
 * Swedish: {{t-|sv|ununhexium}}
-* Thai: {{Thai|[[อูนอูนเฮกเซียม]]}} (ūnūnhēgàsiam)
+* Thai: {{t|th|อูนอูนเฮกเซียม|tr=ūnūnhēgàsiam}}
 * Ukrainian: {{t-|uk|унунгексій|m|tr=ununhéksij|xs=Ukrainian}}
 {{trans-bottom}}
-
-[[Category:en:Chemical elements]]
 
 ----
 
@@ -52,7 +50,7 @@
 ===Noun===
 {{nl-noun|n|-|-}}
 
-# [[#English|ununhexium]]
+# {{l|en|ununhexium}}
 
 ----
 
@@ -62,7 +60,7 @@
 ===Noun===
 {{la-noun|ūnūnhexium|ununhexii|ūnūnhexiī|n|second}}
 
-# [[#English|ununhexium]]
+# {{l|en|ununhexium}}
 
 ====Inflection====
 {{la-decl-2nd-N|ununhexi|ūnūnhexi}}
