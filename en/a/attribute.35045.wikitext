@@ -3,7 +3,162 @@
 
 ===Pronunciation===
 * Noun:
-** {{a|UK}} {{IPA|/ˈætrɪbjuːt/}}, {{
-HI MOM!!
+** {{a|UK}} {{IPA|/ˈætrɪbjuːt/}}, {{X-SAMPA|/"{trIbju:t/}}
+** {{a|US}} {{enPR|ă'trĭ-byo͞ot}}, {{IPA|/ˈætrɪbjut/}}, {{X-SAMPA|/"{trIbjut/}}
+**: {{audio|en-us-attribute-noun.ogg|Audio (US)}}
+* Verb:
+** {{a|UK}} {{IPA|/æˈtrɪbjuːt/}}, {{X-SAMPA|/{"trIbju:t/}}
+** {{a|US}} {{enPR|ă-trĭb'yo͞ot}}, {{IPA|/æˈtrɪbjut/}} {{X-SAMPA|/{"trIbjut/}}
+**: {{audio|en-us-attribute-verb.ogg|Audio (US)}}
 
-I LIKE PIZZA THOUGH !!!!!!!!!!!!
+===Etymology===
+From {{etyl|la}} {{term|attributus}} past participle of {{term|attribuere}}.
+
+===Noun===
+{{en-noun}}
+
+# A [[characteristic]] or [[quality]] of a thing.
+#: ''His finest '''attribute''' is his kindness.''
+# {{grammar}} A word that qualifies a [[noun]].
+#: ''In the clause "My jacket is more expensive than yours", "My" is the '''attribute''' of "jacket".''
+# {{computing}} The applicable option selection; a [[variable]] or a [[value]].
+#: ''This packet has its coherency '''attribute''' set to zero.''
+# {{logic}} That which is predicated or affirmed of a subject; a [[predicate]]; an [[accident]].<!--From Century 1911.-->
+# {{computing|programming}} A [[semantic]] item with which a [[method]], etc. may be [[decorate]]d.
+#: ''There are some more implementations which use C# '''attribute'''s to define custom attributes specific to the AOP engine. Then the classes that need to be intercepted will be decorated with these custom attributes.''
+
+====Synonyms====
+* See also [[Wikisaurus:characteristic]]
+
+====Derived terms====
+{{der-top|}}
+* [[attributeness]]
+{{der-bottom}}
+
+====Related terms====
+{{rel-top|}}
+* [[attributive]]
+{{rel-bottom}}
+
+====Translations====
+{{trans-top|characteristic or quality}}
+* Albanian: {{t+|sq|atribut|xs=Albanian}}, {{t-|sq|veti|xs=Albanian}}
+* Bengali: {{t-|bn|বৈশিষ্ট্য|sc=Beng|xs=Bengali}}
+* Bulgarian: {{t+|bg|качество}},  {{t+|bg|свойство}}
+* Chinese:
+*: Mandarin: {{t|cmn|屬性|sc=Hani}},  {{t|cmn|属性|tr=shǔxìng|sc=Hani}}
+* Danish: {{t+|da|attribut}}
+* Dutch: {{t+|nl|attribuut|n}}
+* Esperanto: {{t-|eo|trajto|xs=Esperanto}}, {{t+|eo|eco|xs=Esperanto}}, {{t-|eo|propreco}}
+* Finnish: {{t-|fi|määrite}}, {{t+|fi|attribuutti}}, {{t+|fi|ominaisuus}}
+{{trans-mid}}
+* French: {{t+|fr|attribut|m}}
+* Hungarian: {{t+|hu|tulajdonság}}
+* Japanese: [[性質]] (seisitsu)
+* Norwegian: {{t-|no|attributt|m}}, {{t+|no|egenskap|m}}
+* Polish: {{t+|pl|atrybut}}
+* Portuguese: {{t+|pt|atributo|m}}
+* Russian: {{t+|ru|свойство|n|tr=svójstvo}},  {{t-|ru|характерная черта|f|tr=xaraktérnaja čertá}},  {{t+|ru|атрибут|m|tr=atribút}}
+* Spanish: {{t+|es|atributo|m}}
+* Swedish: {{t+|sv|attribut}}
+{{trans-bottom}}
+
+{{trans-top|grammar: word qualifying a noun}}
+* Arabic: {{t-|ar|ميزة|f|tr=miiza}}
+* Bulgarian: {{t+|bg|определение}}
+* Chinese:
+*: Mandarin: {{t|cmn|定語|sc=Hani}},  {{t|cmn|定语|tr=dìngyǔ|sc=Hani}}
+* Finnish: {{t+|fi|attribuutti}}, {{t+|fi|määre}}
+{{trans-mid}}
+* French: {{t+|fr|épithète|f}} or {{t+|fr|déterminant|m}}, depending on which class it belongs
+* Hungarian: {{t+|hu|jelző}}
+* German: {{t+|de|Attribut|n}}
+* Japanese: {{t-|ja|限定詞|tr=げんていし, genteishi}}
+* Russian: {{t+|ru|определение|n|tr=opredelénije}},  {{t+|ru|атрибут|m|tr=atribút}}
+{{trans-bottom}}
+
+{{trans-top|computing: the applicable option selection}}
+* Albanian: {{t+|sq|atribut|xs=Albanian}}
+* Chinese:
+*: Mandarin: {{t|cmn|屬性|sc=Hani}},  {{t|cmn|属性|tr=shǔxìng|sc=Hani}}
+{{trans-mid}}
+* Finnish: {{t+|fi|attribuutti}}
+* German: {{t+|de|Attribut|n}}
+* Japanese: [[属性]] (zokusei)
+{{trans-bottom}}
+
+===Verb===
+{{en-verb|attribut|ing}}
+
+# To [[ascribe]] (something) {{term|to}} a given cause, reason etc.
+#* '''2009''', {{w|Diarmaid MacCulloch}}, ''A History of Christianity'', Penguin 2010, p. 278:
+#*: Hākim's atypical actions should not be '''attributed''' to Islam as much as to insanity, which eventually led him to proclaim himself as Allah, whereupon he was murdered by outraged fellow Muslims. 
+# To associate [[ownership]] or [[authorship]] of (something) {{term|to}} someone.
+#: ''This poem is '''attributed''' to Browning.''
+
+====Derived terms====
+{{der-top|}}
+* [[attributable]]
+* [[attribution]]
+{{der-bottom}}
+
+====Translations====
+{{trans-top|to associate ownership or authorship with}}
+* Albanian: {{t-|sq|atribuoj|xs=Albanian}}
+* Bulgarian: {{t+|bg|приписвам}},  {{t+|bg|отдавам}}
+* Czech: {{t-|cs|připisovat}}
+* Dutch: {{t+|nl|toeschrijven}}
+* Esperanto: {{t-|eo|atribui|xs=Esperanto}}
+* French: {{t+|fr|attribuer}}
+* German: {{t+|de|zuschreiben}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|tulajdonít}}
+* [[Ido]]: [[atribuar]]
+* [[Papiamentu]]: [[atribui]]
+* Polish: {{t+|pl|przypisać}}
+* Portuguese: {{t+|pt|atribuir}}
+* Russian: {{t+|ru|приписывать}}, {{t+|ru|относить}}
+* Spanish: {{t+|es|atribuir}}
+{{trans-bottom}}
+
+===External links===
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+
+[[Category:English heteronyms]]
+
+----
+
+==Latin==
+
+===Adjective===
+{{la-adj-form|attribūte}}
+
+# {{inflection of|attributus|attribūtus|voc|m|s|lang=la}}
+
+[[ar:attribute]]
+[[et:attribute]]
+[[el:attribute]]
+[[fa:attribute]]
+[[fr:attribute]]
+[[gl:attribute]]
+[[ko:attribute]]
+[[io:attribute]]
+[[id:attribute]]
+[[it:attribute]]
+[[kn:attribute]]
+[[kk:attribute]]
+[[hu:attribute]]
+[[mg:attribute]]
+[[ml:attribute]]
+[[my:attribute]]
+[[ja:attribute]]
+[[pl:attribute]]
+[[ru:attribute]]
+[[simple:attribute]]
+[[fi:attribute]]
+[[ta:attribute]]
+[[te:attribute]]
+[[tr:attribute]]
+[[vi:attribute]]
+[[zh:attribute]]
