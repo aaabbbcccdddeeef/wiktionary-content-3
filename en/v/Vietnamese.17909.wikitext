@@ -53,16 +53,14 @@
 {{en-noun|Vietnamese}}
 
 # Inhabitant of Vietnam, person of Vietnamese descent.
+# {{plural of|Vietnamese|lang=en}}
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|Vietnamese person}}
 * Arabic: {{t-|ar|فيتنامي|tr=fitnaamiy}}
 * Basque: {{t-|eu|vietnamdar|xs=Basque}}
-* Serbo-Croatian: [[vijetnamac]] {{m}}, [[vijetnamka]] {{f}}, [[vijetnamci]] {{p}}, [[vijetnamke]] ''f pl''
 * Chinese:
 *: Mandarin: {{t-|cmn|越南人|tr=Yuènánrén|sc=Hani}}
-* Serbo-Croatian: {{t|sh|Vijetnamac|m}}, {{t|sh|Vijetnamka|f}}
 * Czech: {{t+|cs|Vietnamec|m}}
 * Finnish: {{t+|fi|vietnamilainen}}
 * French: {{t+|fr|Vietnamien|m}}, {{t+|fr|Vietnamienne|f}}
@@ -79,7 +77,7 @@
 * Portuguese: {{t|pt|vietnamita|c}}
 * Romanian: [[vietnamez]] {{m}}, [[vietnameză]] {{f}}, [[vietnamezi]] {{p}}, [[vietnameze]] ''f pl''
 * Russian: {{t+|ru|вьетнамец|m|tr=v'jetnámec}},  {{t+|ru|вьетнамка|f|p|tr=v'jetnámka}},  {{t-|ru|вьетнамцы|p|tr=v'jetnámcy}}
-* Serbo-Croatian: [[вијетнамац]], [[vijetnamac]] {{m}}, [[вијетнамци]], [[vijetnamka]] {{f}} [[вијетнамке]], [[vijetnamci]] {{p}}, [[вијетнамка]], [[vijetnamke]] ''f pl''
+* {{ttbc|sh}}: {{t|sh|Vijetnamac|m}}<!-- [[vijetnamac]] {{m}}, Cyrillic: [[вијетнамац]] {{m}} - should these be capitalised?-->
 * Slovene: {{t-|sl|Vietnamec|m}}, {{t-|sl|Vietnamka|f}}
 * Spanish: {{t+|es|vietnamita|m|f}}, {{t-|es|vietnamitas|p}}
 * Swahili: {{t-|sw|Mvietinamu}}, {{t-|sw|Mvieti}}
@@ -89,9 +87,10 @@
 * Vietnamese: {{t-|vi|người Việt|xs=Vietnamese}}, {{t-|vi|người Việt Nam}}
 {{trans-bottom}}
 
+===Proper noun===
 {{en-proper noun}}
 
-* Language: spoken predominantly in Vietnam.
+# A language spoken predominantly in Vietnam.
 
 ====Translations====
 {{trans-top|language}}
