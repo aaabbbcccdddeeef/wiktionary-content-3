@@ -12,12 +12,9 @@
 * [[eka-bismuth]]
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|chemical element}}
-* Arabic: {{Arab|[[أنون بينتيوم]]}} (’unun bíntiyum) {{m}}
-* Serbo-Croatian: {{t|sh|ununpentium|m}}
-* Catalan: [[ununpenti]] {{m}}
-* Serbo-Croatian: {{t|sh|ununpentij|m}}
+* Arabic: {{t|ar|أنون بينتيوم|tr=’unun bíntiyum|m}}
+* Catalan: {{t|ca|ununpenti|m}}
 * Dutch: {{t+|nl|ununpentium|n}}
 * Esperanto: {{t-|eo|ununpentio|xs=Esperanto}}
 * Estonian: {{t-|et|ununpentium}}
@@ -27,21 +24,21 @@
 * Hungarian: {{t+|hu|ununpentium}}
 * Italian: {{t+|it|ununpentio|m}}
 {{trans-mid}}
-* Japanese: [[ウンウンペンチウム]] (ununpenchiumu)
-* Korean: [[우눈펜튬]] (ununpentyum)
+* Japanese: {{t|ja|ウンウンペンチウム|tr=ununpenchiumu}}
+* Korean: {{t|ko|우눈펜튬|tr=ununpentyum}}
 * Norwegian: {{t-|no|ununpentium}}
 * Polish: {{t+|pl|ununpentium|m}}
 * Portuguese: {{t-|pt|ununpêntio|m}}
 * Romanian: {{t+|ro|ununpentiu|n}}
 * Russian: {{t+|ru|унунпентий|m|tr=ununpéntij}}
-* Serbo-Croatian: [[унунпентијум]] ([[ununpentijum]]) {{m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|унунпентиј|m}}, {{t|sh|унунпентијум|m}}
+*: Roman: {{t|sh|ununpentij|m}}, {{t|sh|ununpentijum|m}}
 * Spanish: {{t+|es|ununpentio|m}}
 * Swedish: {{t+|sv|ununpentium}}
-* Thai: {{Thai|[[อูนอูนเพนเทียม]]}} (ūnūnpentiam)
-* Ukrainian: [[унунпентій]] (ununpéntij) {{m}}
+* Thai: {{t|th|อูนอูนเพนเทียม|tr=ūnūnpentiam}}
+* Ukrainian: {{t|uk|унунпентій|tr=ununpéntij|m}}
 {{trans-bottom}}
-
-[[Category:en:Chemical elements]]
 
 ----
 
@@ -52,7 +49,7 @@
 ===Noun===
 {{nl-noun|n|-|-}}
 
-# [[#English|ununpentium]]
+# {{l|en|ununpentium}}
 
 ----
 
@@ -61,7 +58,7 @@
 ===Noun===
 {{et-noun|ununpentiumi|ununpentiumi|par2=ununpentiumit}}
 
-# [[#English|ununpentium]]
+# {{l|en|ununpentium}}
 
 ====Declension====
 {{et-decl-seminar|ununpentium}}
@@ -77,7 +74,7 @@
 ===Noun===
 {{fi-noun}}
 
-# [[#English|ununpentium]]
+# {{l|en|ununpentium}}
 
 ====Declension====
 {{fi-decl-risti|ununpentium|nopl=1|i=0}}
@@ -92,7 +89,7 @@
 ===Noun===
 {{la-noun|ūnūnpentium|ununpentii|ūnūnpentiī|n|second}}
 
-# [[#English|ununpentium]]
+# {{l|en|ununpentium}}
 
 ====Inflection====
 {{la-decl-2nd-N|ununpenti|ūnūnpenti}}
