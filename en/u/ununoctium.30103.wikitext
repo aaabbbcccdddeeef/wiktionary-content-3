@@ -12,36 +12,34 @@
 * [[eka-radon]]
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|chemical element}}
-* Arabic: {{Arab|[[أنون أوكتيوم]]}} (’unun ’úktiyum) {{m}}
-* Catalan: [[ununocti]] {{m}}
-* Serbo-Croatian: {{t|sh|ununoktij|m}}
+* Arabic: {{t|ar|أنون أوكتيوم|tr=’unun ’úktiyum|m}}
+* Catalan: {{t|ca|ununocti|m}}
 * Dutch: {{t+|nl|ununoctium|n}}
 * Esperanto: {{t-|eo|ununoktio|xs=Esperanto}}
 * Estonian: {{t-|et|ununoktium}}
 * Finnish: {{t-|fi|ununoktium}}
 * French: {{t+|fr|ununoctium|m}}
-* Galician: [[ununoctio]] {{m}}
+* Galician: {{t|gl|ununoctio|m}}
 * German: {{t+|de|Ununoctium|n}}
 * Hungarian: {{t+|hu|ununoctium}}
 * Italian: {{t+|it|ununoctio|m}}
 {{trans-mid}}
-* Japanese: [[ウンウンオクチウム]] (ununokuchiumu)
-* Korean: [[우누녹튬]] (ununoktyum)
+* Japanese: {{t|ja|ウンウンオクチウム|tr=ununokuchiumu}}
+* Korean: {{t|ko|우누녹튬|tr=ununoktyum}}
 * Norwegian: {{t-|no|ununoctium}}
 * Polish: {{t+|pl|ununoctium|m}}
 * Portuguese: {{t+|pt|ununóctio|m}}
 * Romanian: {{t+|ro|ununoctiu|n}}
 * Russian: {{t+|ru|унуноктий|m|tr=ununóktij}}
-* Serbo-Croatian: [[унуноктијум]] ([[ununoktijum]]) {{m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|унуноктиј|m}}, {{t|sh|унуноктијум|m}}
+*: Roman: {{t|sh|ununoktij|m}}, {{t|sh|ununoktijum|m}}
 * Spanish: {{t+|es|ununoctio|m}}
 * Swedish: {{t-|sv|ununoctium}}
-* Thai: {{Thai|[[อูนอูนออกเทียม]]}} (ūnūnòktiam)
-* Ukrainian: [[унуноктій]] (ununóktij) {{m}}
+* Thai: {{t|th|อูนอูนออกเทียม|tr=ūnūnòktiam}}
+* Ukrainian: {{t|uk|унуноктій|tr=ununóktij|m}}
 {{trans-bottom}}
-
-[[Category:en:Chemical elements]]
 
 ----
 
@@ -52,7 +50,7 @@
 ===Noun===
 {{nl-noun|n|-|-}}
 
-# [[#English|ununoctium]]
+# {{l|en|ununoctium}}
 
 ----
 
@@ -62,7 +60,7 @@
 ===Noun===
 {{la-noun|ūnūnoctium|ununoctii|ūnūnoctiī|n|second}}
 
-# [[#English|ununoctium]]
+# {{l|en|ununoctium}}
 
 ====Inflection====
 {{la-decl-2nd-N|ununocti|ūnūnocti}}
