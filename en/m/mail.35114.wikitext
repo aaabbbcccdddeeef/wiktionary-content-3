@@ -75,11 +75,11 @@ From {{etyl|xno}} {{term|male}}, {{term|meole}} et al., {{etyl|fro|en}} {{term|m
 * Arabic: {{t-|ar|بريد|m|tr=bariid}}
 * Armenian: {{t-|hy|փոստ|tr=p'ost}}
 * Chinese:
-*: Mandarin: {{t|zh|郵件|sc=Hani}}, {{t|zh|邮件|tr=yóujiàn|sc=Hani}}
+*: Mandarin: {{t|cmn|郵件|sc=Hani}}, {{t|cmn|邮件|tr=yóujiàn|sc=Hani}}
 * Czech: {{t+|cs|pošta|f}}
 * Danish: {{t+|da|post}}
 * Dutch: {{t+|nl|post|f}}
-* Esperanto: {{t-|eo|poŝto}}
+* Esperanto: {{t+|eo|poŝto}}
 * Finnish: {{t+|fi|posti}}
 * French: {{t+|fr|courrier|m}}, {{t+|fr|poste|f}}
 * German: {{t+|de|Post|f}}
@@ -90,8 +90,8 @@ From {{etyl|xno}} {{term|male}}, {{term|meole}} et al., {{etyl|fro|en}} {{term|m
 * Italian: {{t+|it|posta|f}}
 * Japanese: {{t+|ja|郵便|tr=ゆうびん, yūbin}}
 * Korean: {{t-|ko|우편물|tr=upyeonmul|sc=Hang}}
-* Latvian: {{t-|lv|pasts|xs=Latvian}}
-* Lithuanian: {{t+|lt|paštas|m|xs=Lithuanian}}
+* Latvian: {{t-|lv|pasts}}
+* Lithuanian: {{t+|lt|paštas|m}}
 * Persian: {{t+|fa|پست|tr=post|sc=fa-Arab}}
 * Portuguese: {{t+|pt|correio|m}}
 * Romanian: {{t-|ro|poștă|f}}
@@ -113,8 +113,8 @@ From {{etyl|xno}} {{term|male}}, {{term|meole}} et al., {{etyl|fro|en}} {{term|m
 * Hungarian: {{t+|hu|posta}}
 {{trans-mid}}
 * Italian: {{t+|it|posta|f}}
-* Latvian: {{t-|lv|pasts|xs=Latvian}}
-* Lithuanian: {{t+|lt|paštas|m|xs=Lithuanian}}
+* Latvian: {{t-|lv|pasts}}
+* Lithuanian: {{t+|lt|paštas|m}}
 * Portuguese: {{t+|pt|correio}}
 * Russian: {{t+|ru|почта|f|tr=póčta}}
 * Slovak: {{t-|sk|pošta|f}}
@@ -132,8 +132,8 @@ From {{etyl|xno}} {{term|male}}, {{term|meole}} et al., {{etyl|fro|en}} {{term|m
 * Interlingua: {{t-|ia|posta}}
 {{trans-mid}}
 * Italian: {{t+|it|posta|f}}
-* Latvian: {{t-|lv|pasts|xs=Latvian}}
-* Lithuanian: {{t+|lt|paštas|m|xs=Lithuanian}}
+* Latvian: {{t-|lv|pasts}}
+* Lithuanian: {{t+|lt|paštas|m}}
 * Lojban: [[se]] [[mrilu]]
 * Portuguese: {{t+|pt|correspondência|f}}
 * Russian: {{t+|ru|почта|f|tr=póčta}}, {{t+|ru|корреспонденция|t=korrespondéncija|f}}
@@ -143,14 +143,14 @@ From {{etyl|xno}} {{term|male}}, {{term|meole}} et al., {{etyl|fro|en}} {{term|m
 {{trans-bottom}}
 
 {{trans-top|electronic mail}}
-* Danish: {{t+|da|mail}}, {{t-|da|e-mail}}, {{t-|da|e-post}}
+* Danish: {{t+|da|mail}}, {{t+|da|e-mail}}, {{t-|da|e-post}}
 * Esperanto: {{t-|eo|retpoŝto}}
 * Finnish: {{t+|fi|meili|alt=meilit}}
 * French: {{t+|fr|courrier électronique}}, {{t+|fr|courriel}}, {{t+|fr|e-mail}}, {{t+|fr|mail}}
 * German: {{t+|de|E-Mail|f}}
 * Greek: {{t-|el|ηλεκτρονικό ταχυδρομείο|n|tr=ilektronikó tachydromeío|sc=Grek}}
 * Italian: {{t+|it|posta|f}},  {{t+|it|posta elettronica|f}},  {{t+|it|e-mail|f}}
-* Latvian: {{t-|lv|e-pasts|xs=Latvian}},  {{qualifier|qoloquial}} {{t-|lv|mails|xs=Latvian}}
+* Latvian: {{t-|lv|e-pasts}},  {{qualifier|qoloquial}} {{t-|lv|mails}}
 {{trans-mid}}
 * Lithuanian: {{t-|lt|el-paštas}}
 * Persian: {{t+|fa|رایانامه|sc=fa-Arab}}
@@ -161,13 +161,13 @@ From {{etyl|xno}} {{term|male}}, {{term|meole}} et al., {{etyl|fro|en}} {{term|m
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sh}}: [[pošta]] {{f}} (1-4), {{t|sh|poštanski}}
+* {{ttbc|sh}}: [[pošta]] {{f}} (1-4), {{t-|sh|poštanski}}
 * {{ttbc|he}}: [[דואר]] (do'ar)
 * {{ttbc|ia}}: [[posta]] (1, 2, 4); [[currero]], [[correspondentia]] (3); [[malia]] (5)
 {{trans-mid}}
 * {{ttbc|pt}}: [[correio]] {{m}}, (''rare:'') [[posta]] {{f}} (1, 2, 3, 4); [[correspondência]] {{f}} (3); [[malha]] {{f}} (5)
 * {{ttbc|sh}}:
-*: Cyrillic: [[пошта]] {{f}} (1-4), {{t|sh|поштански|tr=poštanski|sc=Cyrl}}
+*: Cyrillic: [[пошта]] {{f}} (1-4), {{t-|sh|поштански|tr=poštanski|sc=Cyrl}}
 *: Roman: [[pošta]] {{f}} (1-4)
 {{trans-bottom}}
 
@@ -187,17 +187,17 @@ From {{etyl|xno}} {{term|male}}, {{term|meole}} et al., {{etyl|fro|en}} {{term|m
 {{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|to send via the post}}
 * Arabic: {{t-|ar|بريد}}
-* Serbo-Croatian: {{t|sh|poslati}}
+* Serbo-Croatian: {{t-|sh|poslati}}
 * Finnish: {{t+|fi|postittaa}}
 * Greek: {{t+|el|ταχυδρομώ|tr=tachydromó|sc=Grek}}
 * Hungarian: {{t+|hu|levél}}
-* Interlingua: {{t-|ia|postar|xs=Interlingua}},  {{t-|ia|inviar|xs=Interlingua}}
+* Interlingua: {{t-|ia|postar}},  {{t-|ia|inviar}}
 * Italian: {{t+|it|inviare}},  {{t+|it|impostare}}
 {{trans-mid}}
 * Lithuanian: {{t-|lt|siųsti}}
 * Lojban: {{t-|jbo|mrilu}}
 * Portuguese: {{t+|pt|postar}},  {{t+|pt|enviar}},  {{t+|pt|remeter}},  {{t+|pt|expedir}}
-* Serbo-Croatian: {{t|sh|послати|tr=poslati|sc=Cyrl}}
+* Serbo-Croatian: {{t-|sh|послати|tr=poslati|sc=Cyrl}}
 * Spanish: {{t-|es|enviar por correo}}
 * Swedish: {{t+|sv|posta}}
 {{trans-bottom}}
