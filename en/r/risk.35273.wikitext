@@ -49,12 +49,12 @@ origin for Italian ''risico, risco, rischio'', Spanish ''riesgo'', French ''risq
 {{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|possible, usually negative, outcome}}
 * Catalan: {{t+|ca|risc|m}}
-* Serbo-Croatian: {{t|sh|rizik|m|alt=rìzik}}
+* Serbo-Croatian: {{t-|sh|rizik|m|alt=rìzik}}
 * Czech: {{t+|cs|riziko|n}}
-* Danish: {{t|da|risiko|c}}
+* Danish: {{t+|da|risiko|c}}
 * Dutch: {{t+|nl|risico|n}}
 * Finnish: {{t+|fi|riski}}
-* Ido: {{t+|io|risko|xs=Ido}}
+* Ido: {{t+|io|risko}}
 * Italian: {{t+|it|rischio|m}}
 * Japanese: {{t+|ja|リスク|tr=risuku}}
 * Norwegian:
@@ -66,8 +66,8 @@ origin for Italian ''risico, risco, rischio'', Spanish ''riesgo'', French ''risq
 * Romanian: {{t+|ro|risc|n}}
 * Russian: {{t+|ru|риск|m}}
 * Scottish Gaelic: {{t-|gd|cunnart|m}}
-* Serbo-Croatian: {{t-|sh|rizik|xs=Serbo-Croatian}}
-* Slovak: {{t|sk|riziko|n}}
+* Serbo-Croatian: {{t-|sh|rizik}}
+* Slovak: {{t-|sk|riziko|n}}
 * Slovene: {{t+|sl|tveganje|n}}
 * Spanish: {{t+|es|riesgo|m}}
 * Swedish: {{t+|sv|risk|c}}
@@ -76,12 +76,12 @@ origin for Italian ''risico, risco, rischio'', Spanish ''riesgo'', French ''risq
 {{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|likelihood of a negative outcome}}
 * Catalan: {{t+|ca|risc|m}}
-* Serbo-Croatian: {{t|sh|rizik|m|alt=rìzik}}
+* Serbo-Croatian: {{t-|sh|rizik|m|alt=rìzik}}
 * Czech: {{t+|cs|riziko|n}}
-* Danish: {{t|da|risiko|c}}
+* Danish: {{t+|da|risiko|c}}
 * Dutch: {{t+|nl|risico|n}}
 * Finnish: {{t+|fi|riski}}
-* Ido: {{t+|io|risko|xs=Ido}}
+* Ido: {{t+|io|risko}}
 * Japanese: {{t+|ja|リスク|tr=risuku}}
 * Norwegian:
 *: Bokmål: {{t-|nb|risiko|m}}, {{t-|nb|risk|m}}
@@ -89,8 +89,8 @@ origin for Italian ''risico, risco, rischio'', Spanish ''riesgo'', French ''risq
 {{trans-mid}}
 * Polish: {{t+|pl|ryzyko|n}}
 * Romanian: {{t+|ro|risc|n}}
-* Serbo-Croatian: {{t-|sh|rizik|xs=Serbo-Croatian}},  {{t-|sh|opasnost|xs=Serbo-Croatian}}
-* Slovak: {{t|sk|riziko|n}}
+* Serbo-Croatian: {{t-|sh|rizik}},  {{t-|sh|opasnost}}
+* Slovak: {{t-|sk|riziko|n}}
 * Slovene: {{t+|sl|tveganje|n}}
 * Swedish: {{t+|sv|risk|c}}
 {{trans-bottom}}
@@ -98,8 +98,8 @@ origin for Italian ''risico, risco, rischio'', Spanish ''riesgo'', French ''risq
 {{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|potential (conventionally negative) impact of an event}}
 * Catalan: {{t+|ca|risc|m}}
-* Serbo-Croatian: {{t|sh|rizik|m|alt=rìzik}}
-* Danish: {{t|da|risiko|c}}
+* Serbo-Croatian: {{t-|sh|rizik|m|alt=rìzik}}
+* Danish: {{t+|da|risiko|c}}
 * Dutch: {{t+|nl|risico|n}}
 * Finnish: {{t+|fi|riski}}
 * Japanese: {{t+|ja|リスク|tr=risuku}}
@@ -110,8 +110,8 @@ origin for Italian ''risico, risco, rischio'', Spanish ''riesgo'', French ''risq
 * Polish: {{t+|pl|ryzyko|n}}
 * Romanian: {{t+|ro|risc|n}}
 * Scottish Gaelic: {{t-|gd|cunnart|m}}
-* Serbo-Croatian: {{t-|sh|rizik|xs=Serbo-Croatian}},  {{t-|sh|opasnost|xs=Serbo-Croatian}}
-* Slovak: {{t|sk|riziko|n}}
+* Serbo-Croatian: {{t-|sh|rizik}},  {{t-|sh|opasnost}}
+* Slovak: {{t-|sk|riziko|n}}
 * Slovene: {{t+|sl|tveganje|n}}
 * Swedish: {{t+|sv|risk|c}}
 {{trans-bottom}}
@@ -149,7 +149,7 @@ origin for Italian ''risico, risco, rischio'', Spanish ''riesgo'', French ''risq
 ====Translations====
 {{trans-top|to incur risk to something}}
 * Catalan: {{t+|ca|arriscar}}
-* Danish: {{t|da|risikere}}
+* Danish: {{t+|da|risikere}}
 * Dutch: {{t-|nl|risico nemen}},  {{t+|nl|riskeren}}
 * Finnish: {{t+|fi|vaarantaa}}, {{t-|fi|riskeerata}}
 * Italian: {{t+|it|rischiare}}
