@@ -16,7 +16,7 @@ From {{etyl|grc}} {{term|sc=polytonic|σάββατον|tr=sábbaton||Sabbath|lan
 
 ====Translations====
 {{trans-top|Biblical seventh day}}
-* Ancient Greek: {{t|grc|σάββατον|n|tr=sábbaton}}
+* Ancient Greek: {{tø|grc|σάββατον|n|tr=sábbaton}}
 * Arabic: {{t-|ar|السبت}}
 * Danish: {{t+|da|sabbat|c}}
 * Dutch: {{t-|nl|sabbat|m}}
@@ -37,13 +37,13 @@ From {{etyl|grc}} {{term|sc=polytonic|σάββατον|tr=sábbaton||Sabbath|lan
 * Old English: {{t-|ang|sabat|m}}
 * Polish: {{t-|pl|szabat|m}}, {{t-|pl|szabas|m}}, {{t+|pl|sabat|m}}
 * Portuguese: {{t+|pt|sábado|m}}, {{t+|pt|sabá|m}}
-* Scottish Gaelic: {{t-|gd|Sàbaid|f|xs=Scottish Gaelic}}
-* Serbo-Croatian: {{t|sh|сабат|m|sc=Cyrl}}, {{t|sh|sabat|m}}
-* Spanish: {{t-|es|sábado|m}}
+* Scottish Gaelic: {{t-|gd|Sàbaid|f}}
+* Serbo-Croatian: {{t-|sh|сабат|m|sc=Cyrl}}, {{t-|sh|sabat|m}}
+* Spanish: {{t+|es|sábado|m}}
 * Swedish: {{t+|sv|sabbat|c}}
 * Thai: {{t-|th|สะบาโต}}
 * Volapük: {{t+|vo|jabat}}
-* Yiddish: {{t+|yi|שבת|m|tr=shabes|sc=Hebr|xs=Yiddish}}
+* Yiddish: {{t+|yi|שבת|m|tr=shabes|sc=Hebr}}
 {{trans-bottom}}
 
 {{trans-top|Sunday}}
@@ -60,9 +60,9 @@ From {{etyl|grc}} {{term|sc=polytonic|σάββατον|tr=sábbaton||Sabbath|lan
 *: Bokmål: {{t+|no|søndag|m}}
 *: Nynorsk: {{t+|nn|sundag|m}},  {{t+|nn|søndag|m}}
 * Russian: {{t+|ru|воскресенье|n|tr=voskresén’je}}
-* Serbo-Croatian: {{t|sh|недеља|f|sc=Cyrl}}, {{t|sh|nedelja|f}}
+* Serbo-Croatian: {{t-|sh|недеља|f|sc=Cyrl}}, {{t-|sh|nedelja|f}}
 * Spanish: {{t+|es|domingo|m}}
-* Swedish: {{t+|sv|söndag|c}}, {{t|sv|sabbat|c}}
+* Swedish: {{t+|sv|söndag|c}}, {{t+|sv|sabbat|c}}
 {{trans-bottom}}
 
 {{trans-top|Muslim Friday}}
@@ -71,17 +71,17 @@ From {{etyl|grc}} {{term|sc=polytonic|σάββατον|tr=sábbaton||Sabbath|lan
 * German: {{t+|de|Freitag|m}}
 * Hebrew: {{t+|he|יום שישי|m|alt=יוֹם שִׁשִּׁי|tr=yom shishí}}
 {{trans-mid}}
-* Hindi: {{t+|hi|शुक्रवार|tr=Shukr-war|xs=Hindi}}
+* Hindi: {{t+|hi|शुक्रवार|tr=Shukr-war}}
 * Low Saxon (Low German): {{t+|nds|Freedag|m}}, {{t-|nds|Friedag|m}}
 * Russian: {{t+|ru|пятница|f|tr=pjátnitsa}}
-* Serbo-Croatian: {{t|sh|петак|m|sc=Cyrl}}, {{t|sh|petak|m}}
+* Serbo-Croatian: {{t-|sh|петак|m|sc=Cyrl}}, {{t+|sh|petak|m}}
 {{trans-bottom}}
 
 {{trans-top|witches' Sabbath}}
 * Basque: [[akelarre]]
 * Catalan: [[aquelarre]], [[akelarre]]
-* Danish: {{t+|da|heksesabbat|c}}
-* Dutch: {{t-|nl|heksensabbat|m}}
+* Danish: {{t-|da|heksesabbat|c}}
+* Dutch: {{t+|nl|heksensabbat|m}}
 * Esperanto: {{t-|eo|sabatorgio}}
 * Finnish: [[noitasapatti]]
 * French: {{t+|fr|sabbat|m}}, [[esba]]
@@ -90,12 +90,12 @@ From {{etyl|grc}} {{term|sc=polytonic|σάββατον|tr=sábbaton||Sabbath|lan
 * Low Saxon (Low German): {{t-|nds|Hexensabbat|m}},
 {{trans-mid}}
 * Norwegian:
-*: Bokmål: {{t+|no|heksesabbat|m}}
-*: Nynorsk: {{t+|nn|heksesabbat|m}}
+*: Bokmål: {{t-|no|heksesabbat|m}}
+*: Nynorsk: {{t-|nn|heksesabbat|m}}
 * Polish: {{t+|pl|sabat|m}}
 * Portuguese: {{t-|pt|sabbat}}, {{t+|pt|sabá|m}}
 * Russian: {{t+|ru|шабаш|m|tr=šábaš}}
-* Serbo-Croatian: {{t|sh|врзино коло|n|sc=Cyrl}}, {{t|sh|vrzino kolo|n}}
+* Serbo-Croatian: {{t-|sh|врзино коло|n|sc=Cyrl}}, {{t-|sh|vrzino kolo|n}}
 * Spanish: {{t+|es|aquelarre|m}}
 * Swedish: {{t-|sv|häxsabbat|c}}
 {{trans-bottom}}
