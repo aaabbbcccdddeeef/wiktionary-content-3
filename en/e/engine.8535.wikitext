@@ -54,15 +54,15 @@ From {{etyl|enm}} {{term|engin}}, from {{etyl|fro}} {{term|engin||lang=fro|skill
 * {{trreq|sq}}
 * Arabic: {{t-|ar|محرك|m|tr=muHárrik}}, {{t-|ar|موتور|m|tr=mutuur}}
 * Armenian: {{t-|hy|շարժիչ|tr=šaržič}}
-* Asturian: {{t|ast|motor|m}}
+* Asturian: {{t-|ast|motor|m}}
 * Bengali: {{t-|bn|ইঞ্জিন|tr=injin|sc=Beng}}
 * Bulgarian: {{t+|bg|мотор|m|sc=Cyrl}}, {{t+|bg|двигател|m|sc=Cyrl}}
-* Catalan: {{t|ca|motor|m}}
+* Catalan: {{t-|ca|motor|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|引擎|tr=yǐnqíng|sc=Hani}}, {{t|cmn|發動機|sc=Hani}}, {{t|cmn|发动机|tr=fādòngjī|sc=Hani}}, {{t-|cmn|馬達|sc=Hani}}, {{t-|cmn|马达|tr=mǎdá|sc=Hani}}, {{t-|cmn|摩托|tr=mótuō|sc=Hani}}
 * Czech: {{t+|cs|motor|m}}
 * Dutch: {{t+|nl|motor|m}}, {{t+|nl|aandrijving|f}}
-* Esperanto: {{t-|eo|motoro|xs=Esperanto}}
+* Esperanto: {{t-|eo|motoro}}
 * Finnish: {{t+|fi|moottori}}
 * French: {{t+|fr|moteur|m}}
 * Galician: {{t-|gl|motor|m}}
@@ -70,14 +70,14 @@ From {{etyl|enm}} {{term|engin}}, from {{etyl|fro}} {{term|engin||lang=fro|skill
 * {{trreq|he}}
 * {{trreq|hi}}
 * Hungarian: {{t+|hu|motor}}
-* Ido: {{t+|io|mashino|xs=Ido}}
-* Interlingua: {{t|ia|motor}}
+* Ido: {{t+|io|mashino}}
+* Interlingua: {{t-|ia|motor}}
 * Italian: {{t+|it|motore|m}}
 {{trans-mid}}
 * Japanese: {{t+|ja|エンジン|tr=enjin}}, {{t+|ja|機関|tr=きかん, kikan}}, {{t+|ja|機械|tr=きかい, kikai}}, {{t+|ja|モーター|tr=mōtā}}, {{t-|ja|発動機|tr=はつどうき, hatsudōki}}, {{t+|ja|原動機|tr=げんどうき, kendōki}}
 * {{trreq|ko}}
-* Latvian: {{t-|lv|dzinējs|m|xs=Latvian}}, {{t-|lv|motors|m|xs=Latvian}}
-* Lithuanian: {{t-|lt|variklis|m|xs=Lithuanian}}, {{t-|lt|motoras|m|xs=Lithuanian}}
+* Latvian: {{t-|lv|dzinējs|m}}, {{t-|lv|motors|m}}
+* Lithuanian: {{t-|lt|variklis|m}}, {{t-|lt|motoras|m}}
 * Malay: {{t-|ms|enjin}}
 * Navajo: {{tø|nv|atsiitsʼiin}}
 * Norwegian: {{t-|no|motor|m}}
@@ -86,10 +86,10 @@ From {{etyl|enm}} {{term|engin}}, from {{etyl|fro}} {{term|engin||lang=fro|skill
 * Portuguese: {{t+|pt|motor|m}}
 * Romanian: {{t+|ro|motor|n}}
 * Russian: {{t+|ru|двигатель|m|tr=dvígatel'}}, {{t+|ru|мотор|m|tr=motór}}
-* Scottish Gaelic: {{t-|gd|einnsean|m|xs=Scottish Gaelic}}
+* Scottish Gaelic: {{t-|gd|einnsean|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|мотор|m}}
-*: Roman: {{t|sh|motor|m}}
+*: Cyrillic: {{t-|sh|мотор|m}}
+*: Roman: {{t-|sh|motor|m}}
 * Slovene: {{t+|sl|motor|m}}
 * Spanish: {{t+|es|motor|f}}
 * Swedish: {{t+|sv|motor|n}}
@@ -111,7 +111,7 @@ From {{etyl|enm}} {{term|engin}}, from {{etyl|fro}} {{term|engin||lang=fro|skill
 * German: {{t+|de|Lokomotive|f}}, {{t+|de|Lok|f}}
 * Greek: {{t+|el|ατμομηχανή|f|tr=atmomikhaní}}
 {{trans-mid}}
-* Interlingua: {{t|ia|locomotiva}}
+* Interlingua: {{t-|ia|locomotiva}}
 * Italian: {{t+|it|motrice|f}}, {{t-|it|locomotiva|f}}
 * Japanese: {{t+|ja|機車|tr=きしゃ, kisha}}, {{t+|ja|機関車|tr=きかんしゃ, kikansha}}
 * Polish: {{t+|pl|lokomotywa|f}}
@@ -137,7 +137,7 @@ From {{etyl|enm}} {{term|engin}}, from {{etyl|fro}} {{term|engin||lang=fro|skill
 {{trans-top|brain or heart}}
 * French: {{t+|fr|moteur|m}}
 {{trans-mid}}
-* Latvian: {{t-|lv|motors|m|xs=Latvian}}
+* Latvian: {{t-|lv|motors|m}}
 {{trans-bottom}}
 
 {{trans-top|computer program}}
