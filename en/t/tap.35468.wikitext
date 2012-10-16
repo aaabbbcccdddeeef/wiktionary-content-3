@@ -54,11 +54,11 @@ From {{etyl|ang|en}} {{term|tæppa|lang=ang}}, from {{etyl|gem-pro|en}} {{recons
 * Bulgarian: {{t+|bg|кран|m|tr=kran|sc=Cyrl}}
 * Catalan: {{t-|ca|aixeta|f}}
 * Chinese:
-*: Mandarin: {{t|zh|水龍頭|sc=Hani}}, {{t|zh|水龙头|tr=shuǐlóngtóu|sc=Hani}}, {{t|zh|龍頭|sc=Hani}}, {{t|zh|龙头|tr=lóngtóu|sc=Hani}}
+*: Mandarin: {{t|cmn|水龍頭|sc=Hani}}, {{t|cmn|水龙头|tr=shuǐlóngtóu|sc=Hani}}, {{t|cmn|龍頭|sc=Hani}}, {{t|cmn|龙头|tr=lóngtóu|sc=Hani}}
 * Czech: {{t+|cs|kohout|m}},  {{t+|cs|kohoutek|m}}
 * Danish: {{t-|da|vandhane|c}}
 * Dutch: {{t+|nl|kraan|f}}
-* Esperanto: {{t-|eo|krano|xs=Esperanto}}
+* Esperanto: {{t-|eo|krano}}
 * Estonian: {{t-|et|kraan}}
 * Finnish: {{t+|fi|hana}}, {{t+|fi|vesihana}}
 * French: {{t+|fr|robinet|m}}
@@ -71,7 +71,7 @@ From {{etyl|ang|en}} {{term|tæppa|lang=ang}}, from {{etyl|gem-pro|en}} {{recons
 * Korean: {{t+|ko|수도꼭지|tr=sudokkokji|sc=Kore}}
 {{trans-mid}}
 * Kurdish: [[zembere]] {{f}}, [[henef]] {{f}}, [[mislik]] {{f}}, [[henefî]] {{f}}, [[henîfe]] {{f}}
-* Lithuanian: {{t-|lt|čiaupas|m|xs=Lithuanian}}
+* Lithuanian: {{t-|lt|čiaupas|m}}
 * Macedonian: {{t-|mk|славина|f|tr=slávina}},  {{t-|mk|чешма|f|tr=čéšma}}
 * Norwegian: {{t+|no|kran|m}}
 * Persian: {{t+|fa|شیر|tr=šir|sc=fa-Arab}}
@@ -84,7 +84,7 @@ From {{etyl|ang|en}} {{term|tæppa|lang=ang}}, from {{etyl|gem-pro|en}} {{recons
 * Slovak: {{t-|sk|kohútik}}
 * Slovene: {{t+|sl|pipa|f}}
 * Spanish: {{t+|es|grifo|m}}, {{t+|es|llave|f}} {{qualifier|Bolivia|Central America|Chile|Colombia|Ecuador|Mexico|Venezuela}}, {{t+|es|canilla|f}} {{qualifier|Argentina|Northern Central Spain|Paraguay|Uruguay}}, [[paja]] {{f}} {{qualifier|Nicaragua}}, [[pluma]] {{f}} {{qualifier|Colombian Atlantic Coast}}
-* Swahili: {{t+|sw|mfereji|xs=Swahili}}
+* Swahili: {{t+|sw|mfereji}}
 * Swedish: {{t+|sv|kran|c}}
 * Turkish: {{t+|tr|musluk}}
 * Ukrainian: {{t-|uk|кран|m|tr=kran|sc=Cyrl}}
@@ -192,7 +192,7 @@ From {{etyl|ang|en}} {{term|tæppa|lang=ang}}, from {{etyl|gem-pro|en}} {{recons
 {{trans-bottom}}
 
 {{trans-top|to intercept communication}}
-* Dutch: {{t-|nl|aftappen}}, {{t|nl|afluisteren}}, {{t|nl|meeluisteren}}
+* Dutch: {{t-|nl|aftappen}}, {{t+|nl|afluisteren}}, {{t-|nl|meeluisteren}}
 * Finnish: [[katsella]] [[lupa|luvatta]], [[salakuunnella]]
 * German: {{t-|de|abzapfen}}
 * Norwegian: {{t-|no|avlytte}}
@@ -203,7 +203,7 @@ From {{etyl|ang|en}} {{term|tæppa|lang=ang}}, from {{etyl|gem-pro|en}} {{recons
 {{trans-bottom}}
 
 {{trans-top|to cut an internal screw thread}}
-* Dutch: {{t|nl|draadtappen}}
+* Dutch: {{t-|nl|draadtappen}}
 * Finnish: [[tehdä]] [[sisäkierre]]/[[naaraskierre]], [[kierteittää]] [[reikä]]
 {{trans-mid}}
 * French: {{t+|fr|tarauder}}
@@ -264,7 +264,7 @@ From {{etyl|ang|en}} {{term|tæppa|lang=ang}}, from {{etyl|gem-pro|en}} {{recons
 * Macedonian: {{t-|mk|тапка|tr=tápka}},  {{t-|mk|чука|tr=čùka}},  {{t-|mk|тропка|tr=trópka}}
 {{trans-mid}}
 * Polish: [[klepnąć]], [[stuknąć]]
-* Spanish: {{t|es|dar golpecitos}}
+* Spanish: {{t-|es|dar golpecitos}}
 * Volapük: {{qualifier|diminutive}} {{t-|vo|flapilön}}
 {{trans-bottom}}
 
