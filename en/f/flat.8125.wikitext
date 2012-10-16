@@ -58,13 +58,13 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 
 =====Translations=====
 {{trans-top|having no variations in altitude}}
-* Albanian: {{t|sq|rrafshtë}}
+* Albanian: {{t-|sq|rrafshtë}}
 * Arabic: {{t-|ar|مسطح|tr=musáṭṭaḥ|sc=Arab}}
 * Armenian: {{t-|hy|հարթ|tr=hart'}}, {{t-|hy|տափակ|tr=tap'ak}}
-* Basque: {{t+|eu|lau|xs=Basque}}, {{t-|eu|laun|xs=Basque}}, {{t-|eu|ordeka|xs=Basque}}
+* Basque: {{t+|eu|lau}}, {{t-|eu|laun}}, {{t-|eu|ordeka}}
 * Catalan: {{t+|ca|pla}}
 * Chinese:
-*: Mandarin: {{t|zh|平|tr=píng|sc=Hani}}, {{t|zh|平坦|tr=píngtǎn|sc=Hani}}
+*: Mandarin: {{t|cmn|平|tr=píng|sc=Hani}}, {{t|cmn|平坦|tr=píngtǎn|sc=Hani}}
 * Czech: {{t+|cs|plochý}}, {{t-|cs|rovný}}
 * Danish: {{t-|da|flad}}
 * Dutch: {{t+|nl|vlak}}, {{t+|nl|plat}}
@@ -74,7 +74,7 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 * Greek: {{t+|el|επίπεδος|m|tr=epípedos|sc=Grek}}, {{t+|el|ισόπεδος|m|tr=isópedos|sc=Grek}}
 * Hebrew: {{t-|he|שטוח|tr=shatuakh}}
 * Hungarian: {{t+|hu|lapos}}
-* Indonesian: {{t+|id|datar|xs=Indonesian}}
+* Indonesian: {{t+|id|datar}}
 * Italian: {{t+|it|piano}}
 * Japanese: {{t-|ja|平ら|tr=たいら, taira|sc=Jpan}}
 * Jèrriais: {{tø|roa-jer|pliat}}
@@ -92,12 +92,12 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 * Portuguese: {{t+|pt|plano}}
 * Romanian: {{t-|ro|plan}}, {{t-|ro|șes}}, {{t+|ro|neted}}
 * Russian: {{t+|ru|пологий|tr=pológij}}
-* Sardinian: {{t|sc|pranu}}
-* Serbo-Croatian: {{t|sh|ravan}}
+* Sardinian: {{t-|sc|pranu}}
+* Serbo-Croatian: {{t-|sh|ravan}}
 * Slovene: {{t+|sl|raven}}
 * Spanish: {{t+|es|llano}}, {{t+|es|plano}}
 * Swedish: {{t+|sv|flat}}, {{t+|sv|plan}}
-* Telugu: {{t|te|బల్లపరుపు|tr=ballaparupu|sc=Telu}}
+* Telugu: {{t-|te|బల్లపరుపు|tr=ballaparupu|sc=Telu}}
 {{trans-bottom}}
 
 {{trans-top|of a tire: deflated}}
@@ -112,7 +112,7 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 * German: {{t+|de|platt}}
 {{trans-mid}}
 * Greek: {{t+|el|ξεφούσκωτος|m|tr=xefoúskotos|sc=Grek}}
-* Indonesian: {{t+|id|kempes|xs=Indonesian}}
+* Indonesian: {{t+|id|kempes}}
 * Italian: {{t-|it|sgonfio}}
 * Japanese: {{t-|ja|パンクする|alt=パンクした|tr=panku-shita}}
 * Macedonian: {{t-|mk|издишана|f|tr=izdíšana}}
@@ -122,11 +122,11 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 {{trans-bottom}}
 
 {{trans-top|without variations in pitch}}
-* Albanian: {{t|sq|rrafshët}}
+* Albanian: {{t-|sq|rrafshët}}
 * Finnish: {{t+|fi|lattea}}, {{t+|fi|monotoninen}}
 * German: {{t+|de|glatt}}
 * Greek: {{t+|el|άτονος|m|tr=átonos|sc=Grek}}
-* Indonesian: {{t+|id|datar|xs=Indonesian}}
+* Indonesian: {{t+|id|datar}}
 * Italian: {{t-|it|monotòno}}
 {{trans-mid}}
 * Norwegian: {{t-|no|monoton|m|f}}
@@ -137,8 +137,8 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 {{trans-bottom}}
 
 {{trans-top|lowered by one semitone}}
-* Albanian: {{t+|sq|bemol|xs=Albanian}}
-* Esperanto: {{t-|eo|bemola|xs=Esperanto}}
+* Albanian: {{t+|sq|bemol}}
+* Esperanto: {{t-|eo|bemola}}
 * Finnish: {{t-|fi|alennettu}}
 * French: {{t+|fr|bémol}}
 * Italian: {{t-|it|bemolle}}
@@ -179,7 +179,7 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 * French: {{t+|fr|ennuyeux}}, {{qualifier|Quebec}} {{t+|fr|plate}}
 * German: {{t+|de|flau}}
 * Greek: {{t+|el|ανούσιος|m|tr=anoúsios|sc=Grek}}
-* Indonesian: {{t+|id|datar|xs=Indonesian}}
+* Indonesian: {{t+|id|datar}}
 * Italian: {{t+|it|piatto}}
 {{trans-mid}}
 * Norwegian: {{t-|no|dødt|n}}
@@ -197,7 +197,7 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 * {{trreq|Georgian}}
 * Greek: {{t+|el|νεκρός|m|tr=nekrós|sc=Grek}}
 {{trans-mid}}
-* Indonesian: {{t+|id|habis|xs=Indonesian}}
+* Indonesian: {{t+|id|habis}}
 * Norwegian: {{t-|no|dødt|n}}
 * Polish: {{t-|pl|wyczerpany}}
 * Swedish: {{t+|sv|död}}
@@ -205,7 +205,7 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 {{trans-bottom}}
 
 {{checktrans}}
-* {{ttbc|id}}: {{t|id|rata}}
+* {{ttbc|id}}: {{t+|id|rata}}
 
 ====Adverb====
 {{en-adv}}
@@ -229,7 +229,7 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 {{trans-top|so as to be flat}}
 * Finnish: {{t-|fi|tasaisesti}}
 * German: {{t+|de|flach}}, {{t+|de|eben}}
-* Indonesian: {{t+|id|rata|xs=Indonesian}}
+* Indonesian: {{t+|id|rata}}
 {{trans-mid}}
 * Macedonian: {{t-|mk|рамно|tr=rámno}}
 * Polish: {{t-|pl|płasko}}
@@ -240,7 +240,7 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 * Finnish: {{t-|fi|tylysti}}
 * German: {{t+|de|direkt}}
 {{trans-mid}}
-* Indonesian: {{t+|id|pipih|xs=Indonesian}}
+* Indonesian: {{t+|id|pipih}}
 * Telugu: {{t-|te|మొద్దుబారిన|tr=moddubarina|sc=Telu}}
 {{trans-bottom}}
 
@@ -292,7 +292,7 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 {{trans-bottom}}
 
 {{trans-top|music: note played a semitone lower than a natural}}
-* Catalan: {{t|ca|bemoll}}
+* Catalan: {{t-|ca|bemoll}}
 * Dutch: {{t-|nl|bemol|m}}, {{t+|nl|mol|m}}
 * Finnish: [[alennettu#Finnish|alennettu]] {{t+|fi|nuotti}}
 * French: {{t+|fr|bémol|m}}
@@ -301,12 +301,12 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 * Italian: {{t-|it|bemolle}}
 * Polish: {{t+|pl|bemol|m}}
 * Russian: {{t+|ru|бемоль|m|tr=b'emól'}}
-* Serbo-Croatian: {{t|sh|snizilica|f}}
+* Serbo-Croatian: {{t-|sh|snizilica|f}}
 {{trans-bottom}}
 
 {{trans-top|flat tyre/tire}}
-* Catalan: {{t|ca|punxada}}, {{t|ca|avaria}}
-* Dutch: {{t|nl|lekke band|m}}, {{t|nl|platte band|m}}
+* Catalan: {{t-|ca|punxada}}, {{t-|ca|avaria}}
+* Dutch: {{t-|nl|lekke band|m}}, {{t-|nl|platte band|m}}
 * Finnish: [[puhjennut]] {{t+|fi|rengas}}, [[tyhjä]] [[rengas]] {{t+|fi|rengas}}
 * German: {{t-|de|Reifenpanne|f}}, {{t+|de|Platten}}
 {{trans-mid}}
@@ -321,7 +321,7 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 * Finnish: [[matalakorkoinen|matalakorkoiset]] ({{t-|fi|kengät|p}})
 * Greek: {{t-|el|χωρίς τακούνι|tr=chorís takoúni|sc=Grek}}
 {{trans-mid}}
-* Italian: {{t|it|scarpe senza tacco}}, {{t+|it|ballerine|f|p}}
+* Italian: {{t-|it|scarpe senza tacco}}, {{t+|it|ballerine|f|p}}
 * Polish: {{t+|pl|but|m}} [[na]] [[płaski|płaskim]] [[obcas|obcasie]]
 * Swedish: {{t-|sv|lågklackad}} (sko)
 {{trans-bottom}}
@@ -349,7 +349,7 @@ From {{etyl|non}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in [[
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|eo}}: {{t|eo|kuliso}}
+* {{ttbc|eo}}: {{t-|eo|kuliso}}
 * {{ttbc|nap}}: (2): [[quartìno]] {{m}}
 {{trans-bottom}}
 
