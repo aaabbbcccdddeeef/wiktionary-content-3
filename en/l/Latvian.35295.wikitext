@@ -14,7 +14,7 @@
 ====Translations====
 {{trans-top|person}}
 * Armenian: {{t-|hy|լատվիացի|tr=latviac’i}}, {{t-|hy|լատիշ|tr=latiš}}
-* Basque: {{t-|eu|letoniar|xs=Basque}}
+* Basque: {{t-|eu|letoniar}}
 * Catalan: {{t-|ca|letó|m}}, {{t-|ca|letona|f}}
 * Chinese:
 *: Mandarin: {{t|cmn|拉脫維亞人|sc=Hani}},  {{t|cmn|拉脱维亚人|tr=Lātuōwéiyà-rén|sc=Hani}}
@@ -31,8 +31,8 @@
 {{trans-mid}}
 * Japanese: {{t-|ja|ラトビア人|tr=Ratobia-jin}}
 * Khmer: {{t-|km|ឡេតូនី|sc=Khmr}}
-* Latvian: {{t-|lv|latvietis|m|xs=Latvian}}, {{t-|lv|latviete|f|xs=Latvian}}, {{t+|lv|latvis|m}}, {{t-|lv|latve|f}}
-* Lithuanian: {{t+|lt|latvis|m|xs=Lithuanian}}, {{t+|lt|latvė|f|xs=Lithuanian}}
+* Latvian: {{t-|lv|latvietis|m}}, {{t-|lv|latviete|f}}, {{t+|lv|latvis|m}}, {{t-|lv|latve|f}}
+* Lithuanian: {{t+|lt|latvis|m}}, {{t+|lt|latvė|f}}
 * Norwegian:
 *: Bokmål: {{t+|nb|latvier|m}}
 *: Nynorsk: {{t+|nn|latviar|m}}
@@ -48,9 +48,9 @@
 {{trans-top|language}}
 * Arabic: {{t-|ar|لاتفية|f|tr=laatfíyya|sc=Arab}}
 * Armenian: {{t-|hy|լատիշերեն|tr=latišeren}}
-* Basque: {{t+|eu|letoniera|xs=Basque}}
+* Basque: {{t+|eu|letoniera}}
 * Belarusian: {{t-|be|латышская|f|tr=latýšskaja|sc=Cyrl}}, {{t-|be|латыская|f|tr=latýskaja|sc=Cyrl}}
-* Serbo-Croatian: {{t|sh|letonski|m}}
+* Serbo-Croatian: {{t-|sh|letonski|m}}
 * Bulgarian: {{t-|bg|латвийски|m|tr=latvíjski|sc=Cyrl}}
 * Catalan: {{t-|ca|letó|m}}
 * Chinese:
@@ -58,7 +58,7 @@
 * Czech: {{t+|cs|lotyština|f}}
 * Danish: {{t+|da|lettisk}}
 * Dutch: {{t+|nl|Lets}}
-* Estonian: {{t+|et|läti keel}}, {{t|et|läti}}
+* Estonian: {{t+|et|läti keel}}, {{t-|et|läti}}
 * Finnish: [[latvian kieli]], [[latvia]], [[lätti]] {{qualifier|obsolete}}, [[lätin kieli]] {{qualifier|obsolete}}
 * French: {{t+|fr|letton|m}}
 * Georgian: {{t-|ka|ლატვიური|tr=latviuri|sc=Geor}}
@@ -74,9 +74,9 @@
 * Japanese: {{t+|ja|ラトヴィア語|tr=Ratovia-go}}, {{t+|ja|ラトビア語|tr=Ratobia-go}}
 * Khmer: {{t-|km|ឡេតូនី|sc=Khmr}}
 * Korean: {{t+|ko|라트비아어|tr=Rateubia-eo|sc=Kore}}
-* Latvian: {{t+|lv|latviešu valoda|f|xs=Latvian}}, {{t-|lv|latvju valoda|f}}
-* Limburgish: {{t+|li|Lètsj|n|xs=Limburgish}}
-* Lithuanian: {{t+|lt|latvių kalba|f|xs=Lithuanian}}, {{t+|lt|latvių|xs=Lithuanian}}
+* Latvian: {{t+|lv|latviešu valoda|f}}, {{t-|lv|latvju valoda|f}}
+* Limburgish: {{t+|li|Lètsj|n}}
+* Lithuanian: {{t+|lt|latvių kalba|f}}, {{t+|lt|latvių}}
 * Macedonian: {{t-|mk|латвиски|m|tr=latvíski|sc=Cyrl}}
 * Navajo: {{tø|nv|Létbii bizaad}}
 * Norwegian:
@@ -110,7 +110,7 @@
 
 ====Translations====
 {{trans-top|pertaining to Latvia or the Latvian language}}
-* Basque: {{t-|eu|letoniar|xs=Basque}}
+* Basque: {{t-|eu|letoniar}}
 * Catalan: {{t-|ca|letó}}
 * Chinese: [[拉脱维亚的]] (Lātuōwéiyà de)
 * Czech: {{t-|cs|lotyšský}}
