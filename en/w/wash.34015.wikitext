@@ -44,21 +44,20 @@ From {{etyl|enm}} {{term|washen|lang=enm}}, {{term|waschen|lang=enm}}, {{term|we
 ====Translations====
 {{trans-top|to clean with water}}
 * Albanian: {{t-|sq|lan}}
-* Arabic: {{t-|ar|غسل|tr=ghasala}}
+* Arabic: {{t-|ar|غسل|tr=ġasala}}
 * Aramaic:
 *: Syriac: {{tø|syc|ܣܚܐ|tr=sħā|sc=Syrc}}
 * Armenian: {{t-|hy|լվալ|tr=lval}}, {{t-|hy|լվանալ|tr=lvanal}}
 * Aromanian: {{t-|rup|spel}}, {{t-|rup|aspel}}, {{t-|rup|lau}}
-* Belarusian: {{t-|be|мыць|tr=myc’}} {{impf}}, {{t-|be|памыць|tr=pamýc’}} {{pf.}}; {{qualifier|of clothes}} {{t-|be|праць|tr=prac’}} {{impf}}
+* Belarusian: {{t-|be|мыць|tr=mycʹ}} {{impf}}, {{t-|be|памыць|tr=pamýcʹ}} {{pf.}}; {{qualifier|of clothes}} {{t-|be|праць|tr=pracʹ}} {{impf}}
 * Bengali: {{t-|bn|ধোয়া|tr=dhoa|sc=Beng}}, {{t-|bn|ধোওয়া|tr=dhoa|sc=Beng}}
-* Bulgarian: {{t+|bg|мия|tr=mija}}
+* Bulgarian: {{t+|bg|мия|tr=míja}}
 * Catalan: [[rentar]], {{t+|ca|llavar}}
 * Chinese:
 *: Mandarin: {{t-|cmn|洗|tr=xǐ|sc=Hani}}, {{t-|cmn|洗滌|sc=Hani}}, {{t-|cmn|洗涤|tr=xǐdí|sc=Hani}}, {{t|cmn|沖洗|sc=Hani}}, {{t|cmn|冲洗|tr=chōngxǐ|sc=Hani}}
 * Classical Nahuatl: [[paca|pāca]]
 * Crimean Tatar: [[yuvmaq]]
-* Croatian: [[umiti]]
-* Czech: [[mýt]] (''dishes''), [[prát]] (''laundry'')
+* Czech: {{t|cs|mýt}} (''dishes''), {{t|cs|prát}} (''laundry'')
 * Danish: {{t-|da|vaske}}
 * Dutch: {{t+|nl|wassen}}
 * Esperanto: {{t-|eo|lavi}}
@@ -68,7 +67,7 @@ From {{etyl|enm}} {{term|washen|lang=enm}}, {{term|waschen|lang=enm}}, {{term|we
 * Galician: {{t+|gl|lavar}}
 * {{trreq|Georgian}}
 * German: {{t+|de|waschen}}, {{t+|de|spülen}}
-* Greek: {{t+|el|πλένω}}
+* Greek: {{t+|el|πλένω|tr=pléno}}
 * Haitian Creole: {{tø|ht|lave}}
 * Hebrew: {{t-|he|רחץ|tr=rakháts}}, {{t-|he|שטף|tr=shatáf}}
 * Hindi: {{t+|hi|धोना|tr=dhonā}}
@@ -96,10 +95,12 @@ From {{etyl|enm}} {{term|washen|lang=enm}}, {{term|waschen|lang=enm}}, {{term|we
 * Romani: [[thovel]]
 * Romanian: a [[spăla]]
 * Romansch: {{t-|rm|lavar}}, {{t-|rm|laver}}
-* Russian: {{t+|ru|мыть|tr=myt’}} {{impf}}, {{t+|ru|помыть|tr=pomýt’}} {{pf.}}, {{t+|ru|вымыть|tr=výmyt’}} {{pf.}}; {{qualifier|of clothes}} {{t+|ru|стирать|tr=stirát’}} {{impf}}, {{t+|ru|постирать|tr=postirát’}} {{pf.}}
+* Russian: {{t+|ru|мыть|tr=mytʹ}} {{impf}}, {{t+|ru|помыть|tr=pomýtʹ}} {{pf.}}, {{t+|ru|вымыть|tr=výmytʹ}} {{pf.}}; {{qualifier|of clothes}} {{t+|ru|стирать|tr=stirátʹ}} {{impf}}, {{t+|ru|постирать|tr=postirátʹ}} {{pf.}}
 * Sardinian: {{t-|sc|samunài}}, {{t-|sc|samunàe}}, {{t-|sc|samunàre}}, {{t-|sc|sciacuai}}, {{t-|sc|labare}}
 * Scottish Gaelic: [[nigh#Irish|nigh]]
-* Serbian: {{t-|sr|прати|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|мити|sc=Cyrl}}, {{t|sh|прати|sc=Cyrl}} {{qualifier|clothes}}
+*: Roman: {{t|sh|miti}}, {{t|sh|prati}} {{qualifier|clothes}}
 * Sicilian: {{t+|scn|lavari}}
 * Spanish: {{t+|es|lavar}}
 * Swedish: {{t+|sv|tvätta}}
@@ -117,12 +118,16 @@ From {{etyl|enm}} {{term|washen|lang=enm}}, {{term|waschen|lang=enm}}, {{term|we
 * German: [[wegspülen]]
 {{trans-mid}}
 * Hungarian: {{t+|hu|elmos}}
-* Serbian: {{t-|sr|спрати|sc=Cyrl}}, {{t-|sr|спирати|sc=Cyrl}}, {{t-|sr|испирати|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|спрати|sc=Cyrl}}, {{t|sh|спирати|sc=Cyrl}}, {{t|sh|испирати|sc=Cyrl}}
+*: Roman: {{t|sh|sprati}}, {{t|sh|spirati}}, {{t|sh|ispirati}}
 {{trans-bottom}}
 
 {{trans-top|to separate valuable material}}
 * Finnish: {{t-|fi|huuhtoa}}
-* Serbian: {{t-|sr|испрати|sc=Cyrl}}, {{t-|sr|спирати|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|испрати|sc=Cyrl}}, {{t|sh|спирати|sc=Cyrl}}
+*: Roman: {{t|sh|isprati}}, {{t|sh|spirati}}
 {{trans-mid}}
 * Spanish: {{t+|es|lavar}}
 {{trans-bottom}}
@@ -136,14 +141,16 @@ From {{etyl|enm}} {{term|washen|lang=enm}}, {{term|waschen|lang=enm}}, {{term|we
 * Hungarian: {{t-|hu|mosakszik}}, {{t-|hu|megmosakszik}}
 * Irish: {{t-|ga|nigh}}
 * Italian: {{t+|it|lavarsi}}
-* Japanese: {{t-|ja|洗面する|tr=senmen suru}}
+* Japanese: {{t-|ja|洗面|tr=senmen suru|alt=洗面する}}
 {{trans-mid}}
 * Kurdish:
 *: Sorani: {{t|ku|خۆ شوشتن|tr=kho shoshtin|sc=ku-Arab}}
 * Persian: {{t-|fa|خودشویی|tr=xodšōyi}}
 * Polish: [[myć się]] / [[umyć się]]
-* Russian: {{t+|ru|мыться|tr=mýt’sja}} {{impf}}, {{t-|ru|помыться|tr=pomýt’sja}} {{pf.}}, {{t-|ru|вымыться|tr=výmyt’sja}} {{pf.}}
-* Serbian: {{t-|sr|опрати|sc=Cyrl}}
+* Russian: {{t+|ru|мыться|tr=mýtʹsja}} {{impf}}, {{t-|ru|помыться|tr=pomýtʹsja}} {{pf.}}, {{t-|ru|вымыться|tr=výmytʹsja}} {{pf.}}, {{t+|ru|умываться|tr=umyvátʹsja}} {{impf}}, {{t-|ru|умыться|tr=umýtʹsja}} {{pf.}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|опрати|sc=Cyrl}}
+*: Roman: {{t|sh|oprati}}
 * Spanish: {{t-|es|lavarse}}
 * Telugu: {{t-|te|కడుక్కొను}} (kaDukkonu)
 {{trans-bottom}}
@@ -152,7 +159,9 @@ From {{etyl|enm}} {{term|washen|lang=enm}}, {{term|waschen|lang=enm}}, {{term|we
 * Finnish: {{t-|fi|huuhtoutua}}
 * Persian: {{t+|fa|فرسودن|tr=farsōdan}}
 {{trans-mid}}
-* Serbian: {{t-|sr|спрати|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|спрати|sc=Cyrl}}
+*: Roman: {{t|sh|sprati}}
 {{trans-bottom}}
 
 ===Noun===
