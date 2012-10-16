@@ -124,7 +124,7 @@ From {{etyl|fro}}, from {{etyl|la|en}} {{term|pressura|pressūra|lang=la}}.
 * Arabic: {{t-|ar|ضغط|m|tr=DaghT|sc=Arab}}
 * Armenian: {{t-|hy|ճնշում|tr=č̣nšum}}
 * Chinese:
-*: Mandarin: {{t|zh|壓力|sc=Hani}}, {{t|zh|压力|tr=yālì|sc=Hani}}
+*: Mandarin: {{t|cmn|壓力|sc=Hani}}, {{t|cmn|压力|tr=yālì|sc=Hani}}
 * Czech: {{t+|cs|tlak|m}}
 * Dutch: {{t+|nl|druk|m}}
 * Esperanto: {{t-|eo|premo}}
@@ -132,13 +132,13 @@ From {{etyl|fro}}, from {{etyl|la|en}} {{term|pressura|pressūra|lang=la}}.
 * French: {{t+|fr|pression|f}}
 * German: {{t+|de|Druck|m}}
 * Greek: {{t+|el|πίεση|f}}
-* Hungarian: {{t|hu|nyomás}}, {{t|hu|levegőnyomás}}
-* Indonesian: {{t|id|tekanan}}
+* Hungarian: {{t+|hu|nyomás}}, {{t-|hu|levegőnyomás}}
+* Indonesian: {{t+|id|tekanan}}
 * Italian: {{t+|it|pressione|f}}
 * Japanese: {{t+|ja|圧力|tr=あつりょく, atsuryoku|sc=Jpan}}
 {{trans-mid}}
 * Korean: {{t+|ko|압력|tr=amnyeok|sc=Kore}} ({{t+|ko|壓力|sc=Kore}})
-* Latvian: {{t|lv|spiediens|m}}
+* Latvian: {{t-|lv|spiediens|m}}
 * Macedonian: {{t-|mk|притисок|m|tr=prítisok}}
 * Malay: {{t-|ms|tekanan}}
 * Polish: {{t+|pl|ciśnienie|n}}
@@ -150,12 +150,12 @@ From {{etyl|fro}}, from {{etyl|la|en}} {{term|pressura|pressūra|lang=la}}.
 * Swedish: {{t+|sv|tryck|n}}
 * Telugu: [[పీడనం]] (peeDanam), [[ఒత్తిడి]] (ottiDi)
 * Turkish: {{t+|tr|basınç}}
-* Welsh: {{t+|cy|gwasgedd|m|xs=Welsh}}
+* Welsh: {{t+|cy|gwasgedd|m}}
 {{trans-bottom}}
 
 {{trans-top|a pressing; force applied to a surface}}
 * Latin: {{t-|la|pressura|f|alt=pressūra}}, {{t-|la|pressio|f|alt=pressiō}}
-* Polish: {{t|pl|nacisk|m}}
+* Polish: {{t+|pl|nacisk|m}}
 {{trans-mid}}
 * Russian: {{t+|ru|давление|n|tr=davlénije}}
 {{trans-bottom}}
@@ -163,7 +163,7 @@ From {{etyl|fro}}, from {{etyl|la|en}} {{term|pressura|pressūra|lang=la}}.
 {{trans-top|mental strain}}
 * Armenian: {{t-|hy|ճնշում|tr=č̣nšum}}
 * Chinese:
-*: Mandarin: {{t|zh|壓力|sc=Hani}}, {{t|zh|压力|tr=yālì|sc=Hani}}
+*: Mandarin: {{t|cmn|壓力|sc=Hani}}, {{t|cmn|压力|tr=yālì|sc=Hani}}
 * Czech: {{t+|cs|tlak|m}}
 * Finnish: {{t+|fi|paine}}, {{t+|fi|stressi}}
 * German: {{t+|de|Druck|m}}
@@ -179,16 +179,16 @@ From {{etyl|fro}}, from {{etyl|la|en}} {{term|pressura|pressūra|lang=la}}.
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Dutch: {{t|nl|druk}}
-* French: {{t|fr|pression|f}}
-* Indonesian: {{t|id|tekanan}}
-* Interlingua: {{t|ia|pression}}
+* Dutch: {{t+|nl|druk}}
+* French: {{t+|fr|pression|f}}
+* Indonesian: {{t+|id|tekanan}}
+* Interlingua: {{t-|ia|pression}}
 {{trans-mid}}
 * Japanese: [[気圧]] (1), [[重圧]] (2)
-* Latvian: {{t|lv|spiediens|m}}
-* Portuguese: {{t|pt|pressão|f}}
-* Romanian: {{t|ro|presiune|f}}
-* Russian: {{t|ru|давление|n}}
+* Latvian: {{t-|lv|spiediens|m}}
+* Portuguese: {{t+|pt|pressão|f}}
+* Romanian: {{t-|ro|presiune|f}}
+* Russian: {{t+|ru|давление|n}}
 * Swedish: {{t+|sv|tryck}}
 {{trans-bottom}}
 
