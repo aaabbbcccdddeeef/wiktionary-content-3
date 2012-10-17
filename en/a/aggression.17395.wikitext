@@ -20,13 +20,13 @@ From {{etyl|fr}} {{term|aggression|lang=fr}}, from {{etyl|la}} ''[[aggressio]]''
 * [[aggressor]]
 
 ====Translations====
-{{trans-top|The act of initiating hostilities or invasion}}
+{{trans-top|the act of initiating hostilities or invasion}}
 * Albanian: {{t+|sq|agresion|m}}
-* Arabic: {{t-|ar|عدوان|m|tr=`idwaan}}
+* Arabic: {{t-|ar|عدوان|m|tr=ʿidwān}}
 * Armenian: {{t-|hy|ագրեսիա|tr=agresia}}
-* Bulgarian: {{t+|bg|агресия}},  {{t+|bg|нападение}}
+* Bulgarian: {{t+|bg|агресия|f|tr=agrésija}}, {{t+|bg|нападение|n|tr=napadénie}}
 * Chinese:
-*: Mandarin: {{t-|cmn|侵略|tr=qīnlüè|sc=Hani}}
+*: Mandarin: {{t+|cmn|侵略|tr=qīnlüè|sc=Hani}}
 * Crimean Tatar: [[tecavuz]], [[agressiya]]
 * Czech: {{t-|cs|agrese|f}}
 * Dutch: {{t+|nl|agressie}}
@@ -37,8 +37,8 @@ From {{etyl|fr}} {{term|aggression|lang=fr}}, from {{etyl|la}} ''[[aggressio]]''
 * German: {{t+|de|Aggression|f}}, {{t+|de|Angriff|m}}
 * Greek: {{t+|el|επιθετικότητα|f|tr=epithetikótita}}
 {{trans-mid}}
-* Italian: {{t+|it|aggressione}}
-* Japanese: [[侵略]] (shinryaku), {{t|ja|侵略|tr=しんりゃく, shinryaku|sc=Jpan}}
+* Italian: {{t+|it|aggressione|f}}
+* Japanese: {{t|ja|侵略|tr=しんりゃく, shinryaku|sc=Jpan}}
 * Korean: {{t|ko|침략|tr=chimnyak|sc=Kore}}, {{t|ko|侵略|sc=Kore}}
 * Kurdish:
 *: Sorani: {{ku-Arab|[[ده‌س درێژی]]}}
@@ -46,7 +46,7 @@ From {{etyl|fr}} {{term|aggression|lang=fr}}, from {{etyl|la}} ''[[aggressio]]''
 * Lithuanian: {{t-|lt|agresija|f|alt=agrèsija}}
 * Polish: {{t+|pl|agresja|f}}
 * Portuguese: {{t+|pt|agressão|f}}
-* Russian: {{t+|ru|агрессия|f|tr=agréssija}}
+* Russian: {{t+|ru|агрессия|f|tr=agréssija}}, {{t+|ru|нападение|n|tr=napadénije}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|агресија|f|alt=агрѐсија|sc=Cyrl}}
 *: Roman: {{t-|sh|agresija|f|alt=agrèsija}}
@@ -54,23 +54,25 @@ From {{etyl|fr}} {{term|aggression|lang=fr}}, from {{etyl|la}} ''[[aggressio]]''
 * Vietnamese: {{t|vi|xâm lược}}
 {{trans-bottom}}
 
-{{trans-top|The practice or habit of launching attacks}}
-* Arabic: {{t-|ar|عدوان|m|tr=`idwaan}}
+{{trans-top|the practice or habit of launching attacks}}
+* Arabic: {{t-|ar|عدوان|m|tr=ʿidwān}}
 * Bulgarian: {{t+|bg|агресивност}}
 * Chinese:
-*: Mandarin: {{t-|cmn|侵略|tr=qīnlüè|sc=Hani}}
+*: Mandarin: {{t+|cmn|侵略|tr=qīnlüè|sc=Hani}}
 * Crimean Tatar: [[tecavuz]], [[agressiya]]
 * Dutch: {{t+|nl|agressie}}
 {{trans-mid}}
 * French: {{t+|fr|aggression|f}}
 * German: {{t+|de|Aggression|f}}
 * Italian: {{t+|it|aggressione}}
-* Japanese: [[侵略]] (shinryaku)
-* Russian: {{t+|ru|агрессия|f|tr=agréssija}}
-* Serbo-Croatian: {{t-|sh|agresija|f}}
+* Japanese: {{t|ja|侵略|tr=しんりゃく, shinryaku|sc=Jpan}}
+* Russian: {{t+|ru|агрессия|f|tr=agréssija}}, {{t+|ru|агрессивность|f|tr=agressívnostʹ}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|агресија|f|alt=агрѐсија|sc=Cyrl}}
+*: Roman: {{t-|sh|agresija|f|alt=agrèsija}}
 {{trans-bottom}}
 
-{{trans-top|Hostile or destructive behavior or actions}}
+{{trans-top|hostile or destructive behavior or actions}}
 * Armenian: {{t-|hy|ագրեսիա|tr=agresia}}
 * Crimean Tatar: [[tecavuz]], [[agressiya]]
 * French: {{t+|fr|aggression|f}}
@@ -78,11 +80,13 @@ From {{etyl|fr}} {{term|aggression|lang=fr}}, from {{etyl|la}} ''[[aggressio]]''
 * Greek: {{t+|el|επιθετικότητα|f|tr=epithetikótita}}
 * Italian: {{t+|it|aggressione}}
 {{trans-mid}}
-* Japanese: [[攻撃]] (kōgeki)
+* Japanese: [[]] (){{t|ja|攻撃|tr=こうげき, kōgeki|sc=Jpan}}
 * Navajo: {{tø|nv|hashké nídzin}}
 * Russian: {{t+|ru|агрессия|tr=agréssija}}
 * Scottish Gaelic: {{t-|gd|miann còmhraig|m|f}}
-* Serbo-Croatian: {{t-|sh|agresija|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|агресија|f|alt=агрѐсија|sc=Cyrl}}
+*: Roman: {{t-|sh|agresija|f|alt=agrèsija}}
 * Spanish: {{t+|es|agresión|f}}
 {{trans-bottom}}
 
@@ -90,9 +94,6 @@ From {{etyl|fr}} {{term|aggression|lang=fr}}, from {{etyl|la}} ''[[aggressio]]''
 * {{ttbc|eo}}: [[agresemo]]
 * {{ttbc|he}}: [[תוקפנות]] (toqpanut)
 {{trans-mid}}
-* Korean:
-*: hangul: [[침략]]
-*: romaja: chimnyag
 * {{ttbc|la}}: [[aggressio]] ''nominative'', aggressionis ''genitive''
 * {{ttbc|mt}}: [[aggressjoni]]
 {{trans-bottom}}
