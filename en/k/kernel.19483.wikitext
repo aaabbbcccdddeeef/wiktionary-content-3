@@ -16,11 +16,11 @@ From {{etyl|ang}} {{term|cyrnel|lang=ang}}, diminutive of {{term|corn||seed|lang
 # The [[core]], [[center]], or [[essence]] of an object or system.
 # The central (usually edible) part of a [[nut]], especially once the hard [[shell]] has been removed.
 # A single [[seed]] or [[grain]], especially of [[corn]] or [[wheat]].
-# {{computing}} The central part of many computer [[operating system]]s which manages the system's [[resource]]s and the [[communication]] between [[hardware]] and [[software]] components.
 # {{US}} The [[stone]] of certain fruits, such as [[peach]]es or [[plum]]s.
 # {{algebra}} Those elements, in the [[domain]] of a [[function]], which the function maps to [[zero]].
 #: ''If a function is continuous then its '''kernel''' is a closed set.''
-# {{context|fuzzy set theory}} The [[set]] of members of a [[fuzzy set]] which are fully included (i.e., whose grade of membership is 1).
+# {{computing}} The central part of many computer [[operating system]]s which manages the system's [[resource]]s and the [[communication]] between [[hardware]] and [[software]] components.
+# {{context|fuzzy set theory}} The [[set]] of members of a [[fuzzy set]] that are fully included (i.e., whose grade of membership is 1).
 
 ====Antonyms====
 * {{sense|computing}} [[userland]]
@@ -30,12 +30,15 @@ From {{etyl|ang}} {{term|cyrnel|lang=ang}}, diminutive of {{term|corn||seed|lang
 * {{sense|algebra}} [[root]], [[zero]]
 
 ====Derived terms====
-* [[kernel function]]
-* [[kernelization]]
-* [[kernel of truth]]
-* [[kernel hacker]]
-* [[kernel space]]
+{{der-top}}
 * [[cokernel]]
+* [[kernel function]]
+* [[kernel hacker]]
+{{der-mid}}
+* [[kernel of truth]]
+* [[kernel space]]
+* [[kernelization]]
+{{der-bottom}}
 
 ====Translations====
 {{trans-top|core or essence of an object or system}}
@@ -72,6 +75,31 @@ From {{etyl|ang}} {{term|cyrnel|lang=ang}}, diminutive of {{term|corn||seed|lang
 * Turkish: {{t+|tr|tane}}
 {{trans-bottom}}
 
+{{trans-top|{{US}} stone of certain fruits, such as peaches or plums}}
+* Czech: {{t+|cs|pecka|f}}
+* Finnish: {{t+|fi|kivi}}
+* Greek: {{t+|el|πυρήνας|m|tr=pyrínas|sc=Grek}}, {{t+|el|κουκούτσι|n|tr=koukoútsi|sc=Grek}}
+* Italian: {{t+|it|nocciolo|m}}
+{{trans-mid}}
+* Russian: {{t+|ru|косточка|f|tr=kóstočka}}
+* Spanish: {{t+|es|hueso|m}}, {{t+|es|núcleo|m}}
+* Turkish: {{t+|tr|çekirdek}}
+{{trans-bottom}}
+
+{{trans-top|{{algebra}} set of elements mapped to zero}}
+* Czech: {{t+|cs|jádro|n}}
+* Danish: {{t-|da|kerne|c}}
+* Dutch: {{t+|nl|kern|m|f}}
+* Finnish: {{t+|fi|ydin}}
+* German: {{t+|de|Kern|m}}
+* Greek: {{t+|el|πυρήνας|m|tr=pyrínas|sc=Grek}}
+{{trans-mid}}
+* Italian: {{t+|it|nucleo|m}}
+* Polish: {{t+|pl|jądro|n}}
+* Russian: {{t+|ru|ядро|n|tr=jadró}}
+* Spanish: {{t+|es|núcleo|m}}
+{{trans-bottom}}
+
 {{trans-top|{{computing}} central part of many computer operating systems}}
 * Czech: {{t+|cs|jádro|n}}
 * Danish: {{t-|da|kerne|c}}
@@ -87,28 +115,8 @@ From {{etyl|ang}} {{term|cyrnel|lang=ang}}, diminutive of {{term|corn||seed|lang
 * Turkish: {{t+|tr|çekirdek}}
 {{trans-bottom}}
 
-{{trans-top|stone of certain fruits, such as peaches or plums}}
-* Czech: {{t+|cs|pecka|f}}
-* Finnish: {{t+|fi|kivi}}
-* Greek: {{t+|el|πυρήνας|m|tr=pyrínas|sc=Grek}}, {{t+|el|κουκούτσι|n|tr=koukoútsi|sc=Grek}}
-* Italian: {{t+|it|nocciolo|m}}
+{{trans-top|{{mathematics|fuzzy set theory}} Set of members of a fuzzy set that are fully included}}
 {{trans-mid}}
-* Russian: {{t+|ru|косточка|f|tr=kóstočka}}
-* Spanish: {{t+|es|hueso|m}}, {{t+|es|núcleo|m}}
-* Turkish: {{t+|tr|çekirdek}}
-{{trans-bottom}}
-
-{{trans-top|(algebra) set of elements mapped to zero}}
-* Czech: {{t+|cs|jádro|n}}
-* Danish: {{t-|da|kerne|c}}
-* Dutch: {{t+|nl|kern|m|f}}
-* Finnish: {{t+|fi|ydin}}
-* Greek: {{t+|el|πυρήνας|m|tr=pyrínas|sc=Grek}}
-{{trans-mid}}
-* Italian: {{t+|it|nucleo|m}}
-* Polish: {{t+|pl|jądro|n}}
-* Russian: {{t+|ru|ядро|n|tr=jadró}}
-* Spanish: {{t+|es|núcleo|m}}
 {{trans-bottom}}
 
 {{checktrans-top}}
