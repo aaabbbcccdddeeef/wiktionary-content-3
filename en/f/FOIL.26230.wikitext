@@ -1,6 +1,11 @@
 {{also|foil}}
 ==English==
-{{wikipedia|FOIL method}}
+{{examples-right|width=35%|examples=To multiply <math>(2x+4)(4x+3y)</math>:
+* The first terms multiply to <math>2x4x=8x^2</math>;
+* the outer terms to <math>2x3y=6xy</math>;
+* the inner terms to <math>4(4x)=16x</math>; and
+* the last terms to <math>4(3y)=12y</math>.
+Thus the product is <math>8x^2+6xy+16x+12y</math>.}}
 ===Etymology===
 {{acronym}} of {{term|first}} {{term|outer}} {{term|inner}} {{term|last}} or similar.
 
@@ -8,6 +13,9 @@
 {{en-noun|-}}
 
 # A particular [[algorithm]] for [[multiply]]ing two [[binomial]]s.
+
+====External links====
+* {{pedia|FOIL method}}
 
 ===Verb===
 {{en-verb}}
