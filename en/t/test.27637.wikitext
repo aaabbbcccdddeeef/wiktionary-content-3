@@ -86,11 +86,10 @@ From {{etyl|fro}} {{term|test|lang=fro||an earthen vessel, especially a pot in w
 * Swahili: {{t+|sw|jaribio}}
 * Swedish: {{t+|sv|prov|n}}, {{t+|sv|prövning|c}}
 * Turkish: {{t+|tr|test}}, {{t+|tr|deneme}}
-* Urdu: (imtehan) {{m}}
 {{trans-bottom}}
 
 {{trans-top|academics: examination}}
-* Albanian: {{t-|sq|provim}} (indefinite), {{t-|sq|provimi}} (definite)
+* Albanian: {{t-|sq|provim}} {{qualifier|indefinite}}, {{t-|sq|provimi}} {{qualifier|definite}}
 * Arabic: {{t+|ar|امتحان|m|tr=imtihān}}, {{t-|ar|اختبار|m|tr=ikhtibaar}}
 * Chinese:
 *: Mandarin: {{t-|cmn|考試|sc=Hani}}, {{t-|cmn|考试|tr=kǎoshì|sc=Hani}}
@@ -109,7 +108,7 @@ From {{etyl|fro}} {{term|test|lang=fro||an earthen vessel, especially a pot in w
 {{trans-mid}}
 * Korean: {{t+|ko|시험|tr=siheom|sc=Hang}} ({{t+|ko|試驗|sc=Hani}})
 * Kurdish:
-*: Sorani: {{ku-Arab|[[تاقیکردنه‌وه‌]]}}
+*: Sorani: {{t|ckb|تاقیکردنه‌وه‌|sc=ku-Arab}}
 * Malay: {{t-|ms|ujian}}
 * Persian: {{t+|fa|آزمایش|tr=âzmâyesh}}
 * Polish: {{t+|pl|sprawdzian|m}}
@@ -121,7 +120,7 @@ From {{etyl|fro}} {{term|test|lang=fro||an earthen vessel, especially a pot in w
 * Swahili: {{t+|sw|jaribio}}
 * Swedish: {{t+|sv|prov|n}}, {{t+|sv|tentamen|c}}, {{t+|sv|tenta|c}}, {{t+|sv|dugga|c}}
 * Telugu: {{t+|te|పరీక్ష|tr=pareeksha|sc=Telu}}
-* Thai: {{t-|th|สอบ}} (sòp)
+* Thai: {{t-|th|สอบ|tr=sòp}}
 * Turkish: {{t+|tr|sınav}}, {{t+|tr|test}}
 * Vietnamese: {{t+|vi|thi}}, {{t+|vi|kiểm tra}}
 {{trans-bottom}}
@@ -219,23 +218,23 @@ From {{etyl|fro}} {{term|test|lang=fro||an earthen vessel, especially a pot in w
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{Arab|[[اختبر|اِخْتَبَرَ]]}} (ixtábara)
-* {{ttbc|sq}}: [[provoj]] (1)
-* {{ttbc|ca}}: [[provar]]
+* {{ttbc|ar}}: {{t|ar|اِخْتَبَرَ|tr=ixtábara|sc=Arab}}
+* {{ttbc|sq}}: {{t|sq|provoj}} (1)
+* {{ttbc|ca}}: {{t|ca|provar}}
 * {{ttbc|cmn}}:
 *: Simplified: [[测试]] (cèshì), [[测验]] (cèyàn), [[考验]] (kǎoyàn), [[化验]] (huàyàn)
 *: Traditional: [[測試]] (cèshì), [[測驗]] (cèyàn), [[考驗]] (kǎoyàn), [[化驗]] (huàyàn)
-* {{ttbc|nl}}: [[test]], [[testen]]
-* {{ttbc|de}}: [[testen]]
-* {{ttbc|id}}: [[coba]]
-* {{ttbc|it}}: [[esaminare]], [[provare]], [[valutare]], [[verificare]]
-* {{ttbc|no}}: [[å teste]], [[tester]], [[testet]], [[har testet]]
-* {{ttbc|pt}}: [[testar]]
-* {{ttbc|es}}: [[examinar]], [[probar]]
-* {{ttbc|sv}}: [[utmana]] (1), [[testa]] (3)
-* {{ttbc|te}}: [[పరీక్షించు]] (pareekshiMchu)
-* {{ttbc|th}}: {{t-|th|ทดสอบ}} (tót sòp)
-* {{ttbc|vi}}: [[thi]] (2)
+* {{ttbc|nl}}: {{t|nl|test}}, {{t|nl|testen}}
+* {{ttbc|de}}: {{t|de|testen}}
+* {{ttbc|id}}: {{t|id|coba}}
+* {{ttbc|it}}: {{t|it|esaminare}}, {{t|it|provare}}, {{t|it|valutare}}, {{t|it|verificare}}
+* {{ttbc|no}}: {{t|no|å teste}}, {{t|no|tester}}, {{t|no|testet}}, {{t|no|har testet}}
+* {{ttbc|pt}}: {{t|pt|testar}}
+* {{ttbc|es}}: {{t|es|examinar}}, {{t|es|probar}}
+* {{ttbc|sv}}: {{t|sv|utmana}} (1), {{t|sv|testa}} (3)
+* {{ttbc|te}}: {{t|te|పరీక్షించు|tr=pareekshiMchu|sc=Telu}}
+* {{ttbc|th}}: {{t-|th|ทดสอบ|tr=tót sòp}}
+* {{ttbc|vi}}: {{t|vi|thi}} (2)
 {{trans-bottom}}
 
 ===External links===
