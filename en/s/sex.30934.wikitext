@@ -1,6 +1,5 @@
 {{also|sex-|Sex|Sex.}}
 ==English==
-
 [[File:Dimorfismo en aves02.jpg|thumb|250px|upright|The two sexes (male and female) of the vermilion flycatcher.]]
 
 ===Etymology===
@@ -111,20 +110,17 @@
 * German: {{l|de|Sex}}
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|act of sexual intercourse}}
 * Arabic: {{t-|ar|تسافد|m|tr=tasāful}}, {{t-|ar|جماع|m|tr=jimāʻ}}, {{t-|ar|مجامعة|f|tr=mujāmʻa}}, {{t-|ar|سيكس|m|tr=seks}}
 * Armenian: {{t-|hy|սեքս|tr=sek’s}}, {{t-|hy|սեռական հարաբերություն|tr=seṙakan haraberut’yun}}
 * Belarusian: {{t-|be|сэкс|m|tr=seks}}
 * Bengali: {{t-|bn|সেক্স|tr=seks|sc=Beng}}
-* Serbo-Croatian: {{t-|sh|seks|m}}
 * Bulgarian: {{t-|bg|секс|m|tr=seks}}
 * Catalan: {{t-|ca|sexe|m}}
 * Chinese:
 *: Cantonese: {{tø|yue|性交|tr=sing3 gaau1|sc=Hani}}
 *: Mandarin: {{t-|cmn|性交|tr=xìngjiāo|sc=Hani}}
 *: Min Nan: {{t+|nan|相姦|tr=sio-kàn|sc=Hans}}
-* Serbo-Croatian: {{t-|sh|seks|m}}
 * Czech: {{t+|cs|soulož|f}}, {{t+|cs|styk|m}}, {{t-|cs|pohlavní styk|m}}
 * Danish: {{t+|da|sex}}, {{t-|da|kønsliv}}, {{t-|da|seksualliv}}, {{t-|da|seksuel omgang}}, {{t+|da|samleje}}, {{t-|da|erotik}}
 * Dutch: {{t+|nl|seks|m}}, {{t+|nl|geslachtsgemeenschap|m}}, {{t+|nl|vrijen|n}}
@@ -133,9 +129,9 @@
 * Georgian: {{t+|ka|სექსი|tr=sek'si|sc=Geor}}
 * German: {{t+|de|Sex|m}}, {{t+|de|Geschlechtsverkehr|m}}
 * Greek: {{t+|el|συνουσία|f|tr=synousía}}, {{t+|el|έρωτας|m|tr=érotas}}, {{t+|el|σεξ|n|tr=sex}}
-*: Ancient: {{tø|grc|πορνοκοπία|f|tr=pornokopía|sc=polytonic}} (''sex with prostitute''), {{tø|grc|ἀφροδίσια|n|p|tr=afrodisia|sc=polytonic}}
+*: Ancient: {{tø|grc|πορνοκοπία|f|tr=pornokopía|sc=polytonic}} {{qualifier|sex with prostitute}}, {{tø|grc|ἀφροδίσια|n|p|tr=afrodisia|sc=polytonic}}
 * Gujarati: {{t-|gu|મૈથુન|tr=maithun|sc=Gujr}}, {{t-|gu|સેક્સ|tr=seks|sc=Gujr}}
-* Hebrew: {{t-|he|יחסי מין|tr=yakhaséy mín}} (''literally: sexual relations'') {{m|p}}, {{t+|he|מין|m|tr=mín}}, {{t+|he|סקס|m|tr=séks}}
+* Hebrew: {{t-|he|יחסי מין|tr=yakhaséy mín}} {{qualifier|literally: sexual relations}} {{m|p}}, {{t+|he|מין|m|tr=mín}}, {{t+|he|סקס|m|tr=séks}}
 * Hindi: {{t+|hi|मैथुन|tr=maithun}}, {{t-|hi|सेक्स|tr=seks}}
 * Hungarian: {{t+|hu|szex}}
 * Igbo: {{tø|ig|dinàkọ}}
@@ -170,11 +166,9 @@
 * Vietnamese: {{t+|vi|giao cấu|alt=sự giao cấu}}
 {{trans-bottom}}
 
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|gender (female or male)}}
 * Arabic: {{t+|ar|جنس|tr=jins|sc=Arab}}
 * Armenian: {{t-|hy|սեռ|tr=seṙ}}
-* Serbo-Croatian: {{t-|sh|pol|m}}
 * Bulgarian: {{t-|bg|пол|m|tr=pol|sc=Cyrl}}
 * Catalan: {{t-|ca|sexe|m}}
 * Chinese:
@@ -186,7 +180,7 @@
 * French: {{t+|fr|sexe|m}}
 * German: {{t+|de|Geschlecht|n}}
 * Greek: {{t+|el|φύλο|n|tr=fýlo}}
-* Hebrew: {{t+|he|מין|m|tr=mín}}, {{t+|he|מגדר|tr=migdár}} (''literally: gender'')
+* Hebrew: {{t+|he|מין|m|tr=mín}}, {{t+|he|מגדר|tr=migdár}} {{qualifier|literally: gender}}
 * Hungarian: {{t+|hu|nem}}
 * Interlingua: {{t-|ia|sexo}}
 * Irish: {{t-|ga|gnéas}}
@@ -279,7 +273,7 @@
 * [[third sex]]
 
 [[Category:1000 English basic words]]
-[[Category:en:Sex| ]]
+[[Category:en:Sex]]
 
 ----
 
@@ -434,7 +428,7 @@ From {{etyl|gem-pro|non}} {{recons|sehs|lang=gem-pro}}, whence also Old English 
 ==Romanian==
 
 ===Etymology===
-{{etyl|la|ro}} {{term|sexus}}
+{{etyl|la|ro}} {{term|sexus|lang=en}}
 
 ===Noun===
 {{ro-noun|n|sexe|pl2=sexuri}}
@@ -453,14 +447,14 @@ From {{etyl|gem-pro|non}} {{recons|sehs|lang=gem-pro}}, whence also Old English 
 
 # [[#English|sex]], [[sexual relations]]
 
-[[Category:ro:Sex| ]]
+[[Category:ro:Sex]]
 
 ----
 
 ==Slovak==
 
 ===Noun===
-{{head|sk|noun|gender=m|declension pattern|{{sk-dub}}}}
+{{sk-noun|g=m|decl=dub}}
 
 # [[sex#English|sex]] (intercourse, sexual activity)
 
