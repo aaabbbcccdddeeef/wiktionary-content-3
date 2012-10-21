@@ -130,7 +130,6 @@ Influenced in some senses by {{etyl|enm}} {{term|schole||group of persons, host,
 {{rel-bottom}}
 
 =====Translations=====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|an institution dedicated to teaching and learning}}
 * Afrikaans: {{t+|af|skool}}
 * Albanian: {{t+|sq|shkollë|f}}
@@ -146,14 +145,12 @@ Influenced in some senses by {{etyl|enm}} {{term|schole||group of persons, host,
 * Basque: {{t+|eu|eskola}}, {{t+|eu|ikastola}}, {{t+|eu|ikastetxe}}
 * Belarusian: {{t-|be|школа|f|tr=škóla}}
 * Bengali: {{t-|bn|বিদ্যালয়|tr=bidyālaẏa|sc=Beng}}
-* Serbo-Croatian: {{t-|sh|škola|f}}
 * Breton: {{t+|br|skol|f}}
 * Bulgarian: {{t+|bg|училище|n|tr=učílište}}, {{t+|bg|школа|f|tr=škóla}}
 * Burmese: {{t+|my|ကျောင်း|tr=kyaung:|sc=Mymr}}
 * Catalan: {{t+|ca|escola|f}}
 * Chinese:
 *: Mandarin: {{t-|cmn|學校|sc=Hani}}, {{t-|cmn|学校|tr=xuéxiào|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|škola|f|alt=škȏla}}
 * Czech: {{t+|cs|škola|f}}
 * Danish: {{t+|da|skole}}
 * Dutch: {{t+|nl|school|f}}
@@ -211,7 +208,7 @@ Influenced in some senses by {{etyl|enm}} {{term|schole||group of persons, host,
 * Scottish Gaelic: {{t-|gd|sgoil|f}}
 * Serbo-Croatian:
 *: Cyrillic: [[школа]] {{f}}
-*: Roman: [[škola]] {{f}}
+*: Roman: {{t-|sh|škola|f|alt=škȏla}}
 * Sicilian: {{t+|scn|scola|f}}
 * Sinhalese: {{t+|si|ඉස්කෝලය|tr=iskōlaya|sc=Sinh}}, {{t-|si|පාසැල|sc=Sinh}}
 * Skolt Sami: {{tø|sms|škooul}}
@@ -252,18 +249,15 @@ Influenced in some senses by {{etyl|enm}} {{term|schole||group of persons, host,
 * Ukrainian: {{t+|uk|школа|f|tr=škóla}}
 {{trans-bottom}}
 
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|college or university}}
 * Afrikaans: {{t-|af|kollege}}, {{t+|af|universiteit}}
 * American Sign Language: {{tø|ase|OpenB@Palm-PalmDown-OpenB@CenterChesthigh-PalmUp CirclesVert OpenB@CenterSternumHigh-PalmDown-OpenB@CenterChesthigh-PalmUp}}
 * Arabic: {{t-|ar|كلية|f|tr=kolíya|sc=Arab}}, {{t+|ar|جامعة|f|tr=jámʕa|sc=Arab}}
-* Serbo-Croatian: {{t+|sh|fakultet|m}}, {{t-|sh|akademija|f}}, {{t-|sh|koledž|m}} {{qualifier|college}}, {{t-|sh|univerzitet|m}} {{qualifier|university}}
 * Breton: {{t-|br|skol-veur|f}} skol-meur {{p}}
 * Bulgarian: {{t+|bg|колеж|m|tr=koléž}}, {{t-|bg|университет|m|tr=universitét}}
 * Catalan: {{t+|ca|escola|f}}
 * Chinese:
 *: Mandarin: {{t-|cmn|學校|sc=Hani}}, {{t-|cmn|学校|tr=xuéxiào|sc=Hani}}
-* Serbo-Croatian: {{t+|sh|fakultet|m|alt=fakùltēt}}, {{t-|sh|sveučilište|n|alt=sveùčilīšte}}
 * Czech: {{t+|cs|škola|f}}
 * Danish: {{t-|da|Skole}}
 * Dutch: {{t+|nl|school|f}}, {{t+|nl|universiteit|f}}
@@ -292,8 +286,8 @@ Influenced in some senses by {{etyl|enm}} {{term|schole||group of persons, host,
 * Russian: {{t-|ru|высшая школа|f|tr=výššaja škóla}}, {{t+|ru|высшее учебное заведение|n|tr=výššeje učébnoje zaved'énije}}, {{t+|ru|университет|m|tr=univ'ersit'ét}}, {{t+|ru|академия|f|tr=akad'émija}}, {{t+|ru|институт|m|tr=institút}}, {{t+|ru|консерватория|f|tr=kons'ervatórija}}, {{t+|ru|колледж|m|tr=koll'édž}}, {{t+|ru|техникум|m|tr=t'éχnikum}}, {{t+|ru|училище|n|tr=učíliš'e}}
 * Scottish Gaelic: {{t-|gd|sgoil}}
 * Serbo-Croatian:
-*: Cyrillic: [[факултет]] {{m}}, [[академија]] {{f}}, [[колеџ]] {{m}} (college), [[универзитет]] {{m}} (university)
-*: Roman: [[fakultet]] {{m}}, [[akademija]] {{f}}, [[koledž]] {{m}} (college), [[univerzitet]] {{m}} (university)
+*: Cyrillic: [[факултет]] {{m}}, [[академија]] {{f}}, [[колеџ]] {{m}} (college), [[универзитет]] {{m}} (university), [[свеучилиште]]
+*: Roman: {{t+|sh|fakultet|m|alt=fakùltēt}}, {{t-|sh|akademija|f}}, {{t-|sh|koledž|m}} {{qualifier|college}}, {{t-|sh|univerzitet|m}} {{qualifier|university}}, {{t-|sh|sveučilište|n|alt=sveùčilīšte}}
 * Slovak: {{t-|sk|škola|f}}
 * Spanish: {{t+|es|universidad|f}}
 * Swahili: {{t+|sw|shule}}
@@ -306,18 +300,15 @@ Influenced in some senses by {{etyl|enm}} {{term|schole||group of persons, host,
 * Welsh: {{t+|cy|ysgol|f}}
 {{trans-bottom}}
 
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|a department/institute at a college or university}}
 * Afrikaans: {{t-|af|departement}}
 * Arabic: {{t-|ar|قسم|m|tr=qísim|sc=Arab}}
 * Armenian: {{t-|hy|ֆակուլտետ}} (fakultet)
-* Serbo-Croatian: {{t-|sh|škola|f}}, {{t+|sh|fakultet|m}}
 * Breton: {{t-|br|kevrenn|f}}
 * Bulgarian: {{t+|bg|факултет|m|tr=fakultet}}
 * Catalan: {{t+|ca|escola|f}}
 * Chinese:
 *: Mandarin: {{t-|cmn|學校|sc=Hani}}, {{t-|cmn|学校|tr=xuéxiào|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|škola|f|alt=škȏla}}
 * Czech: {{t+|cs|škola|f}}
 * Danish: {{t-|da|Skole}}
 * Dutch: {{t+|nl|school|f}}
@@ -344,8 +335,8 @@ Influenced in some senses by {{etyl|enm}} {{term|schole||group of persons, host,
 * Russian: {{t+|ru|кафедра|f|tr=káf'edra}}, {{t+|ru|факультет|m|tr=fakul’t'ét}}
 * Scottish Gaelic: {{t-|gd|sgoil}}
 * Serbo-Croatian:
-*: Cyrillic: [[катедра]] {{f}}, [[факултет]] {{m}}
-*: Roman: [[katedra]] {{f}}, [[fakultet]] {{m}}
+*: Cyrillic: [[катедра]] {{f}}, [[факултет]] {{m}}, [[школа]] {{f}}
+*: Roman: [[katedra]] {{f}}, [[fakultet]] {{m}}, {{t-|sh|škola|f|alt=škȏla}}
 * Slovak: {{t-|sk|škola|f}}
 * Spanish: {{t+|es|facultad|f}}
 * Swahili: {{t+|sw|shule}}
@@ -356,18 +347,15 @@ Influenced in some senses by {{etyl|enm}} {{term|schole||group of persons, host,
 * Welsh: {{t+|cy|ysgol|f}}
 {{trans-bottom}}
 
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|a particular doctrine}}
 * Afrikaans: {{t-|af|leer}}, {{t+|af|skool}}
 * Arabic: {{t-|ar|مدرسة|f|tr=madrása|sc=Arab}}
 * Armenian: {{t+|hy|դպրոց}} (dproc')
-* Serbo-Croatian: {{t-|sh|škola|f}}
 * Breton: {{t+|br|skol|f}}, {{t-|br|skolioù|p}}
 * Bulgarian: {{t+|bg|школа|f|tr=škóla}}
 * Catalan: {{t+|ca|escola|f}}
 * Chinese:
 *: Mandarin: {{t-|cmn|學校|sc=Hani}}, {{t-|cmn|学校|tr=xuéxiào|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|škola|f|alt=škȏla}}
 * Czech: {{t+|cs|škola|f}}
 * Danish: {{t+|da|skole}}
 * Dutch: {{t+|nl|school|f}}
@@ -393,7 +381,7 @@ Influenced in some senses by {{etyl|enm}} {{term|schole||group of persons, host,
 * Scottish Gaelic: {{t-|gd|sgoil}}
 * Serbo-Croatian:
 *: Cyrillic: [[школа]] {{f}}
-*: Roman: [[škola]] {{f}}
+*: Roman: {{t-|sh|škola|f|alt=škȏla}}
 * Slovak: {{t-|sk|škola|f}}
 * Swahili: {{t+|sw|shule}}
 * Swedish: {{t+|sv|skola}}, {{t+|sv|lära}}, {{t-|sv|skolbildning|c}}
