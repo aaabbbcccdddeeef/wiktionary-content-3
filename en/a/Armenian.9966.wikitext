@@ -49,7 +49,7 @@ From {{suffix|Armenia|an}}.
 * Latvian: {{t-|lv|armēņu}}
 * Lithuanian: {{t+|lt|armėniškas|m}}, {{t+|lt|armėniška|f}}
 * Malay: {{t-|ms|Armenia}}
-* Maltese: [[Armenjan]] {{m}}, [[Armenjana]] {{f}}
+* Maltese: {{Armenjan]] {{m}}, [[Armenjana]] {{f}}
 * Norwegian:
 *: Bokmål: {{t+|nb|armensk}}
 *: Nynorsk: {{t+|nn|armensk}}
@@ -59,9 +59,9 @@ From {{suffix|Armenia|an}}.
 *: Digor: {{tø|os|сомехаг|tr=somexag|sc=Cyrl}}
 *: Iron: {{tø|os|сомихаг|tr=somixag|sc=Cyrl}}
 * Persian: {{t+|fa|ارمنی|tr=Armani}}
-* Polish: [[ormiański]] {{m}}; (''pertaining to Armenia'') [[armeński]] {{m}}
-* Portuguese: [[arménio]] {{m}}, [[arménico]] {{m}}
-* Romanian: [[armean]] {{m}}
+* Polish: {{t|pl|ormiański}}; {{qualifier|pertaining to Armenia}} {{t|pl|armeński}}
+* Portuguese: {{t|pt|arménio}} {{qualifier|Portugal}}, {{t|pt|armênio}} {{qualifier|Brazil}}, {{t|pt|arménico}} {{qualifier|Portugal}}, {{t|pt|armênico}} {{qualifier|Brazil}}
+* Romanian: {{t|ro|armean}}
 * Russian: {{t+|ru|армянский|tr=armjánskij}}
 * Serbo-Croatian: {{t-|sh|armenski|alt=àrmēnskī}}
 * Spanish: {{t+|es|armenio}}
@@ -123,11 +123,9 @@ From {{suffix|Armenia|an}}.
 *: Digor: {{tø|os|сомехаг|tr=somexag|sc=Cyrl}}
 *: Iron: {{tø|os|сомихаг|tr=somixag|sc=Cyrl}}
 * Persian: {{t+|fa|ارمنی|tr=Armani}}
-* Polish: [[Ormianin]] {{m}}, [[Ormianka]] (''nationality''); [[Armeńczyk]] {{m}}, [[Armenka]] {{f}} (''people from Armenia'')
-* Portuguese:
-*: {{qualifier|Brazil}}: {{t+|pt|armênio|m}}, {{t-|pt|armênia|f}}
-*: {{qualifier|Portugal}}: {{t+|pt|arménio|m}}, {{t-|pt|arménia|f}}
-* Romanian: [[armean]] {{m}}, [[armeancă]] {{f}}
+* Polish: {{t|pl|Ormianin|m}}, {{t|pl|Ormianka}} {{qualifier|nationality}}, {{t|pl|Armeńczyk|m}}, {{t|pl|Armenka|f}} {{qualifier|people from Armenia}}
+* Portuguese: {{t+|pt|armênio|m}} {{qualifier|Brazil}}, {{t+|pt|arménio|m}} {{qualifier|Portugal}}
+* Romanian: {{t|ro|armean|m}}
 * Russian: {{t+|ru|армянин|m|tr=armjanín}}, {{t+|ru|армянка|f|tr=armjánka}}
 * Serbo-Croatian: {{t-|sh|Armenac|m|alt=Arménac}}, {{t-|sh|Armenka|f|alt=Àrmēnka}}
 * Spanish: {{t+|es|armenio|m}}, {{t-|es|armenia|f}}
@@ -143,6 +141,11 @@ From {{suffix|Armenia|an}}.
 {{en-proper noun}}
 
 # The [[language]] of Armenia and the Armenian people, whose older stages are [[Old Armenian]] and [[Middle Armenian]].
+# A branch of [[Indo-European]] languages, which includes the various stages of the Armenian language.
+
+====Derived terms====
+* [[Graeco-Armenian]]
+* [[Helleno-Armenian]]
 
 ====Translations====
 {{trans-top|language}}
@@ -195,8 +198,8 @@ From {{suffix|Armenia|an}}.
 *: Iron: {{tø|os|сомихаг æвзаг|tr=somixag ævzag|sc=Cyrl}}
 * Persian: {{t+|fa|ارمنی|tr=Armani}}
 * Polish: {{t+|pl|ormiański|m}}
-* Portuguese: {{t+|pt|arménio|m}}
-* Romanian: [[armeană]] {{f}}, [[armenește]] (''adv'')
+* Portuguese: {{t+|pt|arménio|m}} {{qualifier|Portugal}}, {{t|pt|armênio|m}} {{qualifier|Brazil}}
+* Romanian: {{l|armeană|f}}, {{t|ro|armenește}} {{qualifier|adverbially}}
 * Russian: {{l|ru|армянский}} {{t+|ru|язык|m|tr=armjánskij jazýk}}
 * Serbo-Croatian: {{t-|sh|armenski|m|alt=àrmēnskī}}
 * Slovak: {{t+|sk|arménčina|f}}
