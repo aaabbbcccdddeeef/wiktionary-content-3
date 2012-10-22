@@ -47,7 +47,7 @@ From {{etyl|enm}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|feld|
 * {{sense|area reserved for playing a game}} [[course]] (''for golf''), [[court]] (''for racquet sports''), [[ground]], [[pitch]] (''for soccer, rugby, cricket'')
 
 ====Hypernyms====
-* {{sense|algebra}} [[principal ideal domain]], [[integral domain]]
+* {{sense|algebra}} [[Euclidean domain]] &sub; [[principal ideal domain]] &sub; [[unique factorization domain]], [[Noetherian domain]] &sub; [[integral domain]] &sub; [[commutative ring]]
 
 ====Hyponyms====
 * {{sense|algebra}} [[ordered field]]
