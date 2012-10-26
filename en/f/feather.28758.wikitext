@@ -86,7 +86,7 @@ From {{etyl|enm|en}} {{term|fether|lang=enm}}, from {{etyl|ang}} {{term|feþer|l
 * Belarusian: {{t-|be|пяро|n|tr=pjaró|sc=Cyrl}}
 * Bulgarian: {{t+|bg|перо|n|tr=peró|sc=Cyrl}}
 * Burmese: {{t+|my|အတောင်|tr=ătaung|sc=Mymr}}
-* Catalan: [[ploma]] {{f}}
+* Catalan: {{t|ca|ploma|f}}
 * Chamicuro: {{tø|ccc|pwaye}}
 * Chinese:
 *: Mandarin: {{t|cmn|羽毛|tr=yǔmáo|sc=Hani}}, {{t|cmn|羽|tr=yǔ|sc=Hani}}
@@ -124,7 +124,7 @@ From {{etyl|enm|en}} {{term|fether|lang=enm}}, from {{etyl|ang}} {{term|feþer|l
 * Korean: {{t-|ko|깃|tr=git|sc=Kore}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|perr}} {{m}}, {{t+|ku|pûrt}} {{m}}
-*: Sorani: {{ku-Arab|[[په‌ڕ]]}} {{g|ku}}
+*: Sorani: {{t|ku|په‌ڕ|sc=ku-Arab}} {{g|ku}}
 {{trans-mid}}
 * Lao: {{t+|lo|ບິກ|tr=bik|sc=Laoo}}, {{t+|lo|ຂົນ|tr=kŏn|sc=Laoo}}
 * Latgalian: {{tø|ltg|spolva|f}}
@@ -137,7 +137,7 @@ From {{etyl|enm|en}} {{term|fether|lang=enm}}, from {{etyl|ang}} {{term|feþer|l
 * Mongolian: {{t-|mn|өд|tr=öd|sc=Cyrl}}, {{t-|mn|өрөвлөг|tr=örövlög|sc=Cyrl}}
 * Navajo: {{tø|nv|atsʼoos}}
 * Norwegian:
-*: Bokmål: {{t+|no|fjær|m+f}}
+*: Bokmål: {{t+|no|fjær|m|f}}
 *: Nynorsk: {{t+|nn|fjør}}
 * Old English: {{t-|ang|feþer|f}}
 * Persian: {{t+|fa|پر|tr=par}}
@@ -163,7 +163,7 @@ From {{etyl|enm|en}} {{term|fether|lang=enm}}, from {{etyl|ang}} {{term|feþer|l
 * Tai Dam: {{tø|blt|khôn|sc=Tavt}}
 * Tajik: {{t-|tg|пар|tr=par|sc=Cyrl}}
 * Tamil: {{t+|ta|சிறகு|tr=ciṟaku|sc=Taml}}
-* Telugu: [[ఈక]] (eeka)
+* Telugu: {{t|te|ఈక|tr=eeka}}
 * Thai: {{t-|th|ขนนก|tr=kŏn nók|sc=Thai}}, {{t+|th|ขน|tr=kŏn|sc=Thai}}
 * Tok Pisin: [[gras]] [[bilong]] [[pisin]]
 * Tupinambá: [[aba]] (s-)
@@ -196,7 +196,7 @@ From {{etyl|enm|en}} {{term|fether|lang=enm}}, from {{etyl|ang}} {{term|feþer|l
 
 ====Translations====
 {{trans-top|To cover with feathers}}
-* Bulgarian: {{t-|bg|оперявам|sc=Cyrl}}
+* Bulgarian: {{t-|bg|оперявам|tr=operjavam|sc=Cyrl}}
 {{trans-mid}}
 * Swahili: {{t+|sw|nyoya}}
 {{trans-bottom}}
@@ -220,6 +220,7 @@ From {{etyl|enm|en}} {{term|fether|lang=enm}}, from {{etyl|ang}} {{term|feþer|l
 * Swahili: {{t+|sw|nyoya}}
 {{trans-mid}}
 {{trans-bottom}}
+
 {{checktrans-top}}
 * Danish: {{t-|da|skodde}} {{qualifier|rotate the oars}}
 {{trans-mid}}
