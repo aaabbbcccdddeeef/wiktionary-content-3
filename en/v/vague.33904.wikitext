@@ -39,14 +39,14 @@ From {{etyl|frm}} {{term|lang=frm|vague}}, from {{etyl|la}} {{term|lang=la|vagus
 
 ====Translations====
 {{trans-top|not clearly expressed}}
-* Bulgarian: {{t+|bg|неясен|sc=Cyrl}}
+* Bulgarian: {{t+|bg|неясен|tr=nejasen|sc=Cyrl}}
 * Catalan: {{t-|ca|vague}}
 * Czech: {{t-|cs|vágní}}
 * Esperanto: {{t|eo|svaga}}
 * Finnish: {{t-|fi|epämääräinen}}, {{t+|fi|ympäripyöreä}}
 * German: {{t+|de|nebelhaft}}, {{t+|de|schwach}}, {{t+|de|unklar}}, {{t+|de|undeutlich}}, {{t+|de|ungenau}}, {{t+|de|ungewiss}}, {{t+|de|vage}}, {{t+|de|verschwommen}}
 * Greek: {{t+|el|ασαφής|m|tr=asafís}},  {{t+|el|αόριστος|m|tr=aóristos}}
-* Hebrew: {{t-|he|עמום|‘amum}}, {{t-|he|מעורפל|me‘urpal}}, {{t-|he|לא ברור|tr=lo barur}}
+* Hebrew: {{t-|he|עמום|tr=‘amum|sc=Hebr}}, {{t-|he|מעורפל|tr=me‘urpal|sc=Hebr}}, {{t-|he|לא ברור|tr=lo barur|sc=Hebr}}
 * Italian: {{t+|it|vago}}
 {{trans-mid}}
 * Macedonian: {{t-|mk|нејасен|m|tr=néjasen}}, {{t-|mk|неодреден|m|tr=neódreden}},  {{t-|mk|магловит|m|tr=máglovit}}
@@ -97,7 +97,7 @@ From {{etyl|frm}} {{term|lang=frm|vague}}, from {{etyl|la}} {{term|lang=la|vagus
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|Arabic}}: {{Arab|[[غامض]]}} (ghaameD)
+* {{ttbc|Arabic}}: {{t|ar|غامض|tr=ghaameD|sc=Arab}}
 * {{ttbc|Chinese}}: [[含糊]] (hánhú)
 * {{ttbc|sh}}: {{t-|sh|nejasan}}
 * {{ttbc|Dutch}}: {{t+|nl|vaag}}
