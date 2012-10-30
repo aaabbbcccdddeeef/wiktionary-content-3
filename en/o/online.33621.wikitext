@@ -33,33 +33,58 @@
 * {{sense|connected to larger network}} [[offline]]
 
 ====Translations====
-{{trans-top}}
-* Arabic: {{t-|ar|متصل|tr=muttáSil}},  {{t-|ar|متواجد|tr=mutawaajid}},  {{t-|ar|على الإنترنت|tr=`ala l-'intarnat}},  {{t-|ar|أونلاين|tr='onlayn}}
-* Azeri: {{t-|az|onlayn}}
-* Chinese:
-*: Mandarin: {{t|cmn|在線|sc=Hani}},  {{t|cmn|在线|tr=zàixiàn|sc=Hani}},  {{t|cmn|上網|sc=Hani}},  {{t|cmn|上网|tr=shàngwǎng|sc=Hani}},  {{t|cmn|聯機|sc=Hani}},  {{t|cmn|联机|tr=liánjī|sc=Hani}},  {{t|cmn|線上|sc=Hani}},  {{t|cmn|线上|tr=xiànshàng|sc=Hani}},  {{t|cmn|網上|sc=Hani}},  {{t|cmn|网上|tr=wǎngshàng|sc=Hani}}
-* Czech: {{t-|cs|online}}, {{t-|cs|připojený}}
-* Dutch: {{t+|nl|online}}, {{t+|nl|aangesloten}}, {{t+|nl|verbonden}}
-* French: {{t+|fr|en ligne}},  {{t+|fr|online}}
-* German: {{t+|de|eingeschaltet}}, {{t+|de|verbunden}}, {{t+|de|online}}
-* Greek: {{t-|el|σε ροή|tr=se roí|sc=Grek}}
-* Hindi: {{t-|hi|ऑनलाइन|tr=ŏnlā'in}}
-* Icelandic: {{t-|is|tengdur|m}}
-* Interlingua: [[in linea]], ''online''
+{{trans-top|connected to a network}}
+* Finnish: {{t|fi|verkko|alt=verkossa}}, {{t|fi|online}} {{qualifier|computer}}; {{t|fi|seinä|alt=seinässä}} {{qualifier|small electric appliance}}‚ {{t|fi|verkko|alt=verkossa}} {{qualifier|electric machinery}}; {{t|fi|kytketty|alt=kytkettynä}} {{qualifier|coupled, generally}}
 {{trans-mid}}
-* Japanese: {{t+|ja|オンライン|tr=onrain}}
-* Jèrriais: {{tø|roa-jer|en lîngne}}
-* Korean: {{t+|ko|온라인|tr=onlain|sc=Hang}}
-* Macedonian: {{t-|mk|на линија|tr=na línija}}, {{t-|mk|вклучен|tr=vklúčen}}, [[интернет]][[-]] (ínternet-) (''sense 3'')
-* Malagasy: {{t-|mg|an-tserasera}}
-* Portuguese: [[em linha]], ''online''
-* Russian: {{t+|ru|онлайн}} (ónlajn) {{indeclinable}} ''usually as prefix with -'', [[онлайновый]] (onlájnovyj),  {{t-|ru|в сети|tr=v setí}},  {{t-|ru|в интернете|tr=v internéte}}
-* Slovak: {{t-|sk|online}}, {{t-|sk|pripojený|m}}
-* Spanish: {{t+|es|en línea}}
-* Swedish: {{t-|sv|uppkopplad}} (1)
-* Thai: {{t-|th|ออนไลน์|tr=on-lai}}
-* Turkish: {{t+|tr|çevrimiçi}}
-* Vietnamese: {{t+|vi|trực tuyến}}
+{{trans-bottom}}
+
+{{trans-top|available over the Internet}}
+* Finnish: {{t|fi|verkko|alt=verkko-}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|connected to the internet}}
+* Finnish: {{t|fi|verkossa}}, {{t|fi|netissä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|available on a computer system}}
+* Finnish: {{t|fi|online}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|of a system that is active}}
+* Finnish: {{t|fi|päällä}} {{qualifier|power}}; {{t|fi|toiminnassa}} {{qualifier|factory etc.}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* {{ttbc|Arabic}}: {{t-|ar|متصل|tr=muttáSil}},  {{t-|ar|متواجد|tr=mutawaajid}},  {{t-|ar|على الإنترنت|tr=`ala l-'intarnat}},  {{t-|ar|أونلاين|tr='onlayn}}
+* {{ttbc|Azeri}}: {{t-|az|onlayn}}
+* {{ttbc|Chinese}}:
+*: Mandarin: {{t|cmn|在線|sc=Hani}},  {{t|cmn|在线|tr=zàixiàn|sc=Hani}},  {{t|cmn|上網|sc=Hani}},  {{t|cmn|上网|tr=shàngwǎng|sc=Hani}},  {{t|cmn|聯機|sc=Hani}},  {{t|cmn|联机|tr=liánjī|sc=Hani}},  {{t|cmn|線上|sc=Hani}},  {{t|cmn|线上|tr=xiànshàng|sc=Hani}},  {{t|cmn|網上|sc=Hani}},  {{t|cmn|网上|tr=wǎngshàng|sc=Hani}}
+* {{ttbc|Czech}}: {{t-|cs|online}}, {{t-|cs|připojený}}
+* {{ttbc|Dutch}}: {{t+|nl|online}}, {{t+|nl|aangesloten}}, {{t+|nl|verbonden}}
+* {{ttbc|French}}: {{t+|fr|en ligne}},  {{t+|fr|online}}
+* {{ttbc|German}}: {{t+|de|eingeschaltet}}, {{t+|de|verbunden}}, {{t+|de|online}}
+* {{ttbc|Greek}}: {{t-|el|σε ροή|tr=se roí|sc=Grek}}
+* {{ttbc|Hindi}}: {{t-|hi|ऑनलाइन|tr=ŏnlā'in}}
+* {{ttbc|Icelandic}}: {{t-|is|tengdur|m}}
+* {{ttbc|Interlingua}}: [[in linea]], ''online''
+{{trans-mid}}
+* {{ttbc|Japanese}}: {{t+|ja|オンライン|tr=onrain}}
+* {{ttbc|Jèrriais}}: {{tø|roa-jer|en lîngne}}
+* {{ttbc|Korean}}: {{t+|ko|온라인|tr=onlain|sc=Hang}}
+* {{ttbc|Macedonian}}: {{t-|mk|на линија|tr=na línija}}, {{t-|mk|вклучен|tr=vklúčen}}, [[интернет]][[-]] (ínternet-) (''sense 3'')
+* {{ttbc|Malagasy}}: {{t-|mg|an-tserasera}}
+* {{ttbc|Portuguese}}: [[em linha]], ''online''
+* {{ttbc|Russian}}: {{t+|ru|онлайн}} (ónlajn) {{indeclinable}} ''usually as prefix with -'', [[онлайновый]] (onlájnovyj),  {{t-|ru|в сети|tr=v setí}},  {{t-|ru|в интернете|tr=v internéte}}
+* {{ttbc|Slovak}}: {{t-|sk|online}}, {{t-|sk|pripojený|m}}
+* {{ttbc|Spanish}}: {{t+|es|en línea}}
+* {{ttbc|Swedish}}: {{t-|sv|uppkopplad}} (1)
+* {{ttbc|Thai}}: {{t-|th|ออนไลน์|tr=on-lai}}
+* {{ttbc|Turkish}}: {{t+|tr|çevrimiçi}}
+* {{ttbc|Vietnamese}}: {{t+|vi|trực tuyến}}
 {{trans-bottom}}
 
 ===Adverb===
