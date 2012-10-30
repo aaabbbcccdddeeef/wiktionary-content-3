@@ -335,7 +335,14 @@ From {{etyl|xno}} {{term|space|lang=xno}}, variant of {{term|espace|lang=xno}}, 
 {{punctuation}}
 
 ====Translations====
-{{trans-top|intervening contents of a volume}}
+{{trans-top|interval of time}}
+* Finnish: {{t+|fi|aika}}, {{t-|fi|aikaväli}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|while}}
+
+{{trans-top|physical extent in two or three dimensions}}
 * Arabic: {{Arab|[[فراغ]]}} {{unicode|(fará:ğ)}}, {{t+|ar|مكان}}
 * Breton: [[egor]] {{m}}
 * Chinese:
@@ -372,45 +379,6 @@ From {{etyl|xno}} {{term|space|lang=xno}}, variant of {{term|espace|lang=xno}}, 
 * Urdu: {{t-|ur|فضاء}}
 * Vietnamese: {{t+|vi|khoảng}}, {{t+|vi|chỗ}}
 {{trans-bottom}}
-
-{{trans-top|uncountable: space occupied by or intended for a person or thing}}
-* Czech: {{t+|cs|místo|n}}
-* Finnish: {{t+|fi|tila}}, {{t+|fi|paikka}}
-* French: {{t+|fr|espace|m}}
-* German: {{t+|de|Platz|m}}
-* Hungarian: {{t+|hu|hely}}
-* Italian: {{t+|it|spazio|m}}
-* Japanese: {{t+|ja|空間|tr=kūkan}}, {{t+|ja|場所|tr=basho}}
-{{trans-mid}}
-* Luhya: {{tø|luy|enafasi}}
-* Macedonian: {{t-|mk|простор|m|tr=próstor}}
-* Polish: {{t+|pl|miejsce|n}}
-* Portuguese: {{t+|pt|espaço|m}}
-* Romanian: {{t+|ro|spațiu|n}}
-* Russian: {{t+|ru|пространство|n|tr=prostránstvo}}
-* Swahili: {{t+|sw|nafasi}}
-{{trans-bottom}}
-
-{{trans-top|figuratively: marketplace for goods or services}}
-* Finnish: {{t+|fi|ala}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|countable: area or volume sufficient to accommodate a person or thing}}
-* Finnish: {{t+|fi|tila}}, {{t+|fi|paikka}}
-* French: {{t+|fr|place|f}}
-* Hungarian: {{t+|hu|hely}}
-* Italian: {{t+|it|posto|m}}
-* Japanese: {{t+|ja|空間|tr=kūkan}}, {{t+|ja|場所|tr=basho}}
-{{trans-mid}}
-* Macedonian: {{t-|mk|простор|m|tr=próstor}}
-* Polish: {{t+|pl|miejsce|n}}
-* Portuguese: {{t+|pt|espaço|m}}, {{t+|pt|lugar|m}}
-* Russian: {{t+|ru|пространство|n|tr=prostránstvo}}
-* Swahili: {{t+|sw|nafasi}}
-{{trans-bottom}}
-
-{{trans-see|while}}
 
 {{trans-top|area beyond atmosphere of planets}}
 * Arabic: {{t+|ar|فضاء|m|tr=faDaa'}}
@@ -454,7 +422,35 @@ From {{etyl|xno}} {{term|space|lang=xno}}, variant of {{term|espace|lang=xno}}, 
 * Vietnamese: {{t+|vi|không gian}} ({{t-|vi|空間}}), {{t+|vi|không trung}}, {{t+|vi|khoảng không}}, {{t+|vi|vũ trụ}} ({{t+|vi|宇宙}})
 {{trans-bottom}}
 
-{{trans-top|gap between written characters}}
+{{trans-top|personal freedom}}
+* Finnish: {{t+|fi|tila}}
+* German: {{t+|de|Freiraum|m}}
+* Greek: [[χώρος]] (khóros) {{m}}
+{{trans-mid}}
+* Swahili: {{t+|sw|nafasi}}, {{t+|sw|uhuru}}
+* Swedish: {{t+|sv|utrymme|n}}, {{t+|sv|rum|n}}
+* Vietnamese: [[khoảng]] [[trời]] [[riêng]]
+{{trans-bottom}}
+
+{{trans-top|bounded or specific physical extent}}
+* Czech: {{t+|cs|místo|n}}
+* Finnish: {{t+|fi|tila}}, {{t+|fi|paikka}}
+* French: {{t+|fr|espace|m}}
+* German: {{t+|de|Platz|m}}
+* Hungarian: {{t+|hu|hely}}
+* Italian: {{t+|it|spazio|m}}
+* Japanese: {{t+|ja|空間|tr=kūkan}}, {{t+|ja|場所|tr=basho}}
+{{trans-mid}}
+* Luhya: {{tø|luy|enafasi}}
+* Macedonian: {{t-|mk|простор|m|tr=próstor}}
+* Polish: {{t+|pl|miejsce|n}}
+* Portuguese: {{t+|pt|espaço|m}}
+* Romanian: {{t+|ro|spațiu|n}}
+* Russian: {{t+|ru|пространство|n|tr=prostránstvo}}
+* Swahili: {{t+|sw|nafasi}}
+{{trans-bottom}}
+
+{{trans-top|gap between written characters, lines etc.}}
 * Czech: {{t-|cs|mezera|f}}
 * Dutch: {{t+|nl|spatie|m}}
 * Esperanto: {{t-|eo|spaceto}}
@@ -501,7 +497,7 @@ From {{etyl|xno}} {{term|space|lang=xno}}, variant of {{term|espace|lang=xno}}, 
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|set of points}}
+{{trans-top|geometry: set of points}}
 * Czech: {{t+|cs|prostor|m}}
 * Finnish: {{t+|fi|avaruus}}
 * Greek: [[χώρος]] (khóros) {{m}}
@@ -518,23 +514,6 @@ From {{etyl|xno}} {{term|space|lang=xno}}, variant of {{term|espace|lang=xno}}, 
 * Vietnamese: [[không gian]]
 {{trans-bottom}}
 
-{{trans-top|personal freedom}}
-* Finnish: {{t+|fi|tila}}
-* German: {{t+|de|Freiraum|m}}
-* Greek: [[χώρος]] (khóros) {{m}}
-{{trans-mid}}
-* Swahili: {{t+|sw|nafasi}}, {{t+|sw|uhuru}}
-* Swedish: {{t+|sv|utrymme|n}}, {{t+|sv|rum|n}}
-* Vietnamese: [[khoảng]] [[trời]] [[riêng]]
-{{trans-bottom}}
-
-{{trans-top|state of mind when daydreaming}}
-* Finnish: {{t+|fi|tila}}
-* Japanese: {{t+|ja|空白|tr=kūhaku}}
-{{trans-mid}}
-* Swahili: {{t+|sw|nafasi}}
-{{trans-bottom}}
-
 {{trans-top|mathematics: generalized construct or set}}
 * Danish: {{t+|da|rum|n}}
 * Estonian: {{t-|et|ruum}}
@@ -547,14 +526,8 @@ From {{etyl|xno}} {{term|space|lang=xno}}, variant of {{term|espace|lang=xno}}, 
 * Vietnamese: [[không gian]]
 {{trans-bottom}}
 
-{{trans-top|Indian philosophy: one of the five basic elements}}
-* Finnish: {{t+|fi|eetteri}}
-{{trans-mid}}
-* Swahili: {{t+|sw|nafasi}}
-{{trans-bottom}}
-
-{{trans-top|interval of time}}
-* Finnish: {{t+|fi|aika}}, {{t-|fi|aikaväli}}
+{{trans-top|figuratively: marketplace for goods or services}}
+* Finnish: {{t+|fi|ala}}
 {{trans-mid}}
 {{trans-bottom}}
 
