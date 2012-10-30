@@ -53,8 +53,8 @@ From {{etyl|enm}} {{term|yif|lang=enm}}, {{term|yef|lang=enm}}, from {{etyl|ang}
 * Arabic: {{t-|ar|لو|tr=law}}, {{t-|ar|إذا|tr=ʾíḏā}}
 *: Tunisian Arabic: {{tø|aeb|لو كان|alt=لَوْ كَانْ|tr=law kān|sc=Arab}}
 * Aramaic:
-*: Syriac: [[ܐܢ]] (’in)
-*: Hebrew: [[אן]] (’in)
+*: Syriac: {{t|syc|ܐܢ|tr=’in}}
+*: Hebrew: {{t|he|אן|tr=’in}}
 * Armenian: {{t-|hy|եթե|tr=et’e|sc=Armn}}
 * Aromanian: {{t-|rup|disi}}
 * Asturian: {{t+|ast|si}}
@@ -63,10 +63,10 @@ From {{etyl|enm}} {{term|yif|lang=enm}}, {{term|yef|lang=enm}}, from {{etyl|ang}
 * Bashkir: {{tø|ba|әгәр|tr=ägär|sc=Cyrl}}
 * Belarusian: {{t+|be|калі|tr=kalí|sc=Cyrl}}
 * Bengali: {{t-|bn|যদি|tr=jôdi|sc=Beng}}
-* Breton: [[ma]]
+* Breton: {{t|br|ma}}
 * Bulgarian: {{t+|bg|ако|tr=áko|sc=Cyrl}}
 * Burmese: {{t+|my|က|tr=ka.|sc=Mymr}}
-* Catalan: [[si#Catalan|si]]
+* Catalan: {{t|ca|si}}
 * Chinese:
 *: Cantonese: {{tø|yue|要是|tr=jiu3 si6|sc=Hani}}, {{tø|yue|如果|tr=ju4 guo2|sc=Hani}}
 *: Mandarin: {{t-|cmn|如果|tr=rúguǒ|sc=Hani}}, {{t-|cmn|要是|tr=yàoshì|sc=Hani}}, {{t-|cmn|如|tr=rú|sc=Hani}}, {{qualifier|suffix}} ...{{t-|cmn|的话|tr=...de huà|sc=Hani}}
@@ -80,22 +80,22 @@ From {{etyl|enm}} {{term|yif|lang=enm}}, {{term|yef|lang=enm}}, from {{etyl|ang}
 * Estonian: {{t+|et|kui}}
 * Finnish: {{t+|fi|jos}}, {{t+|fi|mikäli}}
 * French: {{t+|fr|si}}
+*: Middle French: {{tø|frm|si}}
 *: Old French: {{tø|fro|se}}
 * Georgian: {{t-|ka|თუ|tr=t‘u|sc=Geor}}
 * German: {{t+|de|wenn}}, {{t+|de|falls}}
-* Greek:
-*: Ancient: {{IPAchar|[[εἰ]]}} (ei), [[ἄν]] (an), [[ἐάν]] (eán), [[ὡσάν]] ([h]osán)
-*: Modern: [[αν]] (an), [[εάν]] (eán), [[άμα]] (áma), [[ει]] (ei), [[σαν]] (san)
+* Greek: {{t|el|αν|tr=an}}, {{t|el|εάν|tr=eán}}, {{t|el|άμα|tr=áma}}, {{t|el|ει|tr=ei}}, {{t|el|σαν|tr=san}}
+*: Ancient: {{tø|grc|εἰ|tr=ei}},  {{tø|grc|ἄν|tr=an}},  {{tø|grc|ἐάν|tr=ean}},  {{tø|grc|ὡσάν|tr=(h)osan}}
 * Hebrew: {{t+|he|אם|tr=im|alt=אִם}}
 * Hindi: {{t+|hi|अगर|tr=agar|sc=Deva}}, {{t-|hi|यदि|tr=yadi|sc=Deva}}
 * Hungarian: {{t+|hu|ha}}, {{t+|hu|vajon}}
 * Icelandic: {{t+|is|ef}}
-* Ido: [[se]]
+* Ido: {{t|io|se}}
 * Indonesian: {{t+|id|jika}}, {{t+|id|kalau}}
 * {{trreq|ia}}
 * Irish: {{qualifier|in factual conditionals}} {{t-|ga|má}}, {{qualifier|in counterfactual conditionals}} {{t-|ga|dá}}
 * Italian: {{t+|it|se}}
-* Japanese: {{t+|ja|もし|alt=もし...|tr=móshi...}}, {{t-|ja|なら|alt=...なら|tr=...nára}}, {{t-|ja|ならば|alt=...ならば|tr=...náraba}}, {{qualifier|after nominal phrases}} {{t-|ja|だったら|alt=...だったら|tr=...dáttara}}, {{qualifier|particle}} {{t+|ja|と|alt=...と|tr=...dato}}, {{qualifier|suffix}} {{t-|ja|ては|alt=...ては|tr=...tewa}}, {{qualifier|suffix}} {{t-|ja|えば|...えば|tr=...eba}}
+* Japanese: {{t+|ja|もし|alt=もし...|tr=móshi...}}, {{t-|ja|なら|alt=...なら|tr=...nára}}, {{t-|ja|ならば|alt=...ならば|tr=...náraba}}, {{qualifier|after nominal phrases}} {{t-|ja|だったら|alt=...だったら|tr=...dáttara}}, {{qualifier|particle}} {{t+|ja|と|alt=...と|tr=...dato}}, {{qualifier|suffix}} {{t-|ja|ては|alt=...ては|tr=...tewa}}, {{qualifier|suffix}} {{t-|ja|えば|alt=...えば|tr=...eba}}
 * Kazakh: {{t|kk|егер|tr=eger|sc=Cyrl}}
 * Khmer: {{t+|km|បើ|tr=baə|sc=Khmr}}
 * Korean: {{t-|ko|만약에|tr=manyage|sc=Kore}}, {{qualifier|verb and adjective suffix}} {{t+|ko|면|tr=-myeon|alt=-면|sc=Kore}}
@@ -120,15 +120,15 @@ From {{etyl|enm}} {{term|yif|lang=enm}}, {{term|yef|lang=enm}}, from {{etyl|ang}
 * Norwegian: {{t+|no|hvis}}, {{t+|no|om}}, {{t+|no|når}}
 * Pashto: {{t-|ps|که چېرې|tr=ka čere}}, {{t+|ps|که|tr=ka}}
 * Persian: {{t+|fa|اگر|tr=agar}}
-* Polish: [[gdyby]], [[jeśli]], [[jeżeli]], ({{l|pl|jak}})
+* Polish: {{t|pl|gdyby}}, {{t|pl|jeśli}}, {{t|pl|jeżeli}}, ({{l|pl|jak}})
 * Portuguese: {{t+|pt|se}}, {{t+|pt|caso}}
 * Rapa Nui: {{tø|rap|ana}}
 * Romanian: {{t+|ro|dacă}}
-* Romansch: [[sche]]
+* Romansch: {{t|rm|sche}}
 * Russian: {{t+|ru|если|tr=jésli}}, {{t+|ru|ежели|tr=jéželi}}, {{qualifier|dated}} {{t+|ru|коли|tr=kóli}}, {{qualifier|dated}} {{t+|ru|коли|tr=kóli|sc=Cyrl}}
 * Sanskrit: {{t-|sa|यदि|tr=yadi|sc=Deva}}
-* Scots: [[if#Scots|if]], [[gin#Scots|gin]], (''subjunctive'', ''i.e.'', "gin A war= If I were")
-* Scottish Gaelic: [[ma#Scottish Gaelic|ma]], [[nan#Scottish Gaelic|nan]], {{qualifier|subjunctive}}
+* Scots: {{tø|sco|if}}, {{tø|sco|gin}}<!-- (''subjunctive'', ''i.e.'', "gin A war= If I were")-->
+* Scottish Gaelic: {{t|gd|ma}}, [{{t|gd|nan}}, {{qualifier|subjunctive}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|ако|alt=ȁko|sc=Cyrl}}
 *: Roman: {{t-|sh|ako|alt=ȁko|sc=Latn}}
