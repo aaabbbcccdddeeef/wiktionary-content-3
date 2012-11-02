@@ -42,7 +42,6 @@
 {{rel-bottom}}
 
 =====Translations=====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|solid remains of a fire}}
 * Albanian: {{t-|sq|hi|m}}
 * Arabic: {{t-|ar|رماد|m|tr=ramaad}}, {{t-|ar|سكن|m|tr=sákan}}
@@ -51,15 +50,14 @@
 * Basque: {{t-|eu|errauts}}
 * Baure: {{tø|brg|po'ip}}
 * Buginese: {{tø|bug|awu}}
-* Bulgarian: {{t+|bg|пепел|f}}
+* Bulgarian: {{t+|bg|пепел|f|tr=pepel|sc=Cyrl}}
 * Casiguran Dumagat Agta: {{tø|dgc|abu}}
-* Catalan: [[cendra]] {{f}}; [[cendre]] {{qualifier|Algherese}}
+* Catalan: {{t|ca|cendra|f}}, {{qualifier|Algherese}} {{t|ca|cendre}}
 * Cebuano: {{tø|ceb|abu}}
 * Chamicuro: {{tø|ccc|kajchijpe}}
 * Chamorro: {{t-|ch|apu}}
 * Chinese:
 *: Mandarin: {{t-|cmn|灰|tr=huī|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|pepeo|m}}
 * Czech: {{t+|cs|popel|m}}
 * Dalmatian: {{tø|dlm|canaisa|f}}
 * Danish: {{t+|da|aske|c}}
@@ -70,11 +68,11 @@
 * Finnish: {{t+|fi|tuhka}}
 * French: {{t+|fr|cendre|f}}
 * Friulian: {{tø|fur|cinise}}
-* Galician: [[cinza]] {{f}}, [[cinsa]] {{f}}
+* Galician: {{t|gl|cinza|f}}, {{t|gl|cinsa|f}}
 * Georgian: {{t-|ka|ნაცარი|tr=natsari|sc=Geor}}, {{t-|ka|ფერფლი|tr=p‘erp‘li|sc=Geor}}
 * German: {{t+|de|Asche|f}}
 * Gothic: {{tø|got|𐌰𐌶𐌲𐍉|f|tr=azgo|sc=Goth}}
-* Greek: {{t+|el|στάχτη|f|tr=stáchti}},  {{t+|el|τέφρα|f|tr=téfra}}
+* Greek: {{t+|el|στάχτη|f|tr=stáchti}}, {{t+|el|τέφρα|f|tr=téfra}}
 * Hebrew: {{t+|he|אפר|m|tr=efer}}
 * Hindi: {{t-|hi|राख|f|tr=rākha}}
 * Hungarian: {{t+|hu|hamu}}
@@ -110,7 +108,7 @@
 *: Nynorsk: {{t-|nn|oske|f}}
 * Old English: {{t-|ang|æsce|f}}
 * Persian: {{t+|fa|خاکستر}}
-* Pitjantjatjara: [[unu]]
+* Pitjantjatjara: {{t|pjt|unu|sc=pjt-Latn}}
 * Polish: {{t+|pl|popiół|m}}
 * Portuguese: {{t+|pt|cinza|f}}
 * Rapa Nui: {{tø|rap|ikuvera}}
@@ -142,7 +140,7 @@
 * Uyghur: {{t-|ug|كۈل|sc=ug-Arab}}
 * Vietnamese: {{t+|vi|tro}}
 * Walloon: {{t+|wa|cinde|f}}
-* Warlpiri: [[puna]]
+* Warlpiri: {{t|wbp|puna}}
 * Welsh: {{t-|cy|lludw|m}}
 * West Frisian: {{t-|fy|jiske}}
 * Zulu: {{t-|zu|umlotha|c3}}
@@ -184,22 +182,22 @@
 {{trans-see|tree|ash tree}}
 
 {{trans-top|wood}}
-* Arabic: {{Arab|[[دردار]]}} (dardār) {{m}}
-* [[Basque]]: {{t-|eu|lizarki}}
-* Bulgarian: {{t+|bg|ясен}}
-* Czech: [[jasanový|jasanové]] [[dřevo]] {{n}}
-* Dutch: [[essenhout]] {{n}}
+* Arabic: {{t|ar|دردار|m|tr=dardār|sc=Arab}}
+* Basque: {{t-|eu|lizarki}}
+* Bulgarian: {{t+|bg|ясен|tr=jasen|sc=Cyrl}}
+* Czech: {{t|cs|jasanový|alt=jasanové}} {{t|cs|dřevo|n}}
+* Dutch: {{t|nl|essenhout|n}}
 * Estonian: {{t+|et|saar}}
 * Finnish: {{t+|fi|saarni}}
-* German: [[Eschenholz]] {{n}}
+* German: {{t|de|Eschenholz|n}}
 * Greek: {{t+|el|φλαμούρι|n|tr=flamoúri}}
 {{trans-mid}}
-* Japanese: {{Jpan|[[トネリコ材]]}} (toneriko-zai)
-* {{ttbc|cmn}}: [[桉樹材]], [[桉树材]] (ān shù cái)
+* Japanese: {{t|ja|トネリコ材|tr=toneriko-zai|sc=Jpan}}
+* {{ttbc|cmn}}: {{t|cmn|桉樹材|sc=Hani}}, {{t|cmn|桉树材|tr=ān shù cái|sc=Hani}}
 * Norwegian: {{t+|no|ask|m}}
 * Polish: {{t+|pl|jesion|m}}
-* Russian: [[ясень]] (jásen’) {{m}}
-* Serbo-Croatian: [[jasenovina]] {{f}}
+* Russian: {{t|ru|ясень|m|tr=jásen’|sc=Cyrl}}
+* Serbo-Croatian: {{t|sh|jasenovina|f}}
 * Swahili: {{t+|sw|majivu}}, {{t+|sw|majivu}}
 * Swedish: {{t+|sv|ask}}
 * Turkish: {{t+|tr|dişbudak}}
@@ -212,9 +210,9 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{Arab|[[شحوب]]}} (šuħūb, ''ashen complexion'')
-* {{ttbc|ro}}: [[cenușă]] {{f}} (1)
-* {{ttbc|sk}}: [[popol]] {{m}} (1), [[jaseň]] {{m}} (3), [[jaseňové drevo]] {{n}} (4)
+* {{ttbc|ar}}: {{t|ar|شحوب|tr=šuħūb|sc=Arab}} {{qualifier|ashen complexion}}
+* {{ttbc|ro}}: {{t|ro|cenușă|f}} (1)
+* {{ttbc|sk}}: {{t|sk|popol|m}} (1), {{t|sk|jaseň|m}} (3), {{t|sk|jaseňové drevo|n}} (4)
 {{trans-bottom}}
 
 ===See also===
