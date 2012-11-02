@@ -12,20 +12,17 @@
 # The capital of [[Bavaria]], [[Germany]].
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|capital of Bavaria}}
 * Afrikaans: {{t-|af|München}}
 * Arabic: {{t-|ar|ميونخ|m|tr=myūnix|sc=Arab}}
-* Armenian: [[Մյունխեն]] (Myunxen)
-* Asturian: Munich
+* Armenian: {{t|hy|Մյունխեն|tr=Myunxen}}
+* Asturian: {{t|ast|Munich}}
 * Bavarian: {{tø|bar|Minga}}
 * Belarusian: {{t-|be|Мюнхэн|m|tr=Mjúnxen}}
-* Serbo-Croatian: {{t-|sh|Minhen|m}}
 * Bulgarian: {{t+|bg|Мюнхен|m|tr=Mjúnhen}}
 * Catalan: {{t-|ca|Munic|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|慕尼黑|tr=Mùníhēi|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|München|m}}, {{t-|sh|Monakov|m}}, {{t-|sh|Monakovo|n}}
 * Czech: {{t+|cs|Mnichov|m}}
 * Danish: {{t-|da|München}}
 * Dutch: {{t-|nl|Munchen}}
@@ -43,10 +40,10 @@
 {{trans-mid}}
 * Japanese: {{t-|ja|ミュンヘン|tr=Myunhen|sc=Jpan}}
 * Korean: {{t-|ko|뮌헨|tr=Mwinhen|sc=Kore}}
-* Kurdish: [[Munih]]
+* Kurdish: {{t|ku|Munih}}
 * Latin: {{t-|la|Monachium}}
-* Latvian: [[Minhene]]
-* Lithuanian: [[Miunchenas]]
+* Latvian: {{t|lv|Minhene}}
+* Lithuanian: {{t|lt|Miunchenas}}
 * Macedonian: {{t-|mk|Минхен|m|tr=Mínhen}}
 * Norwegian: {{t+|no|München}}
 * Persian: {{t-|fa|مونیخ|m|tr=Munix|sc=fa-Arab}}
@@ -55,23 +52,27 @@
 * Romanian: {{t-|ro|München}}
 * Russian: {{t-|ru|Мюнхен|m|tr=Mjúnxen}}
 * Serbo-Croatian:
-*: Cyrillic: [[Минхен#Serbo-Croatian|Минхен]] {{m}}
-*: Roman: [[Minhen#Serbo-Croatian|Minhen]] {{m}}
-* Slovak: [[Mníchov]] {{m}}
-* Slovene: [[München]] {{m}}, [[Monakovo]] {{n}}
+*: Cyrillic: {{t|sh|Минхен|m}}
+*: Roman: {{t|sh|Minhen|m}}
+* Slovak: {{t|sk|Mníchov|m}}
+* Slovene: {{t|sl|München|m}}, {{t|sl|Monakovo|n}}
 * Spanish: {{t+|es|Múnich|m}}
 * Swedish: {{t+|sv|München}}
-* Tamil: [[மியூனிக்]] (miyūnik)
-* Thai: {{Thai|[[มิวนิก]]}} (míunik)
+* Tamil: {{t|ta|மியூனிக்|tr=miyūnik}}
+* Thai: {{t|th|มิวนิก|tr=míunik}}
 * Turkish: {{t+|tr|Münih}}
 * Ukrainian: {{t-|uk|Мюнхен|m|tr=Mjúnxen}}
 * Vietnamese: {{t-|vi|München}}
 {{trans-bottom}}
 
+{{checktrans-top}}
+* Serbo-Croatian: {{t-|sh|München|m}}, {{t-|sh|Monakov|m}}, {{t-|sh|Monakovo|n}}
+{{trans-bottom}}
+
 ====See also====
 * [[München]]
 
-[[Category:Exonyms]]
+[[Category:en:Exonyms]]
 [[Category:en:Cities]]
 [[Category:en:Germany]]
 
