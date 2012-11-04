@@ -91,18 +91,16 @@
 * [[duckbill]]
 
 =====Translations=====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|bird's beak}}
-* Albanian: [[sqep]] {{m}}, [[çukë]] {{f}}
+* Albanian: {{t|sq|sqep|m}}, {{t|sq|çukë|f}}
 * Arabic: {{t-|ar|منقار|m|tr=minqār}}
 * Armenian: {{t-|hy|կտուց|tr=ktuc’}}
 * Belarusian: {{t-|be|дзюба|f|tr=dzjúba}}
 * Bulgarian: {{t+|bg|човка|f|tr=čovka}}, {{t+|bg|клюн|m|tr=kljun}}
-* Catalan: [[bec]] {{m}}
+* Catalan: {{t|ca|bec|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|鳥嘴|sc=Hani}}, {{t|cmn|鸟嘴|tr=niǎozuǐ|sc=Hani}}, {{t-|cmn|嘴|tr=zuǐ|sc=Hani}}, {{t-|cmn|喙|tr=huì|sc=Hani}}
 * Crimean Tatar: {{tø|crh|ğağa}}
-* Serbo-Croatian: {{t-|sh|kljun|m}}
 * Czech: {{t+|cs|zobák|m}}
 * Danish: {{t+|da|næb}}
 * Dutch: {{t+|nl|snavel}}, {{t+|nl|bek}}
@@ -113,7 +111,7 @@
 * Georgian: {{t-|ka|ნისკარტი|tr=niskarti|sc=Geor}}
 * German: {{t+|de|Schnabel|m}}
 * Greek: {{t+|el|ράμφος|n|tr=rámfos}}
-* Hindi: [[चोंच]] (ćo.nć)
+* Hindi: {{t|hi|चोंच|tr=ćo.nć|sc=Deva}}
 * Hungarian: {{t+|hu|csőr}}
 * Icelandic: {{t+|is|nef|n}}
 * Irish: {{t-|ga|gob|m}}
@@ -121,19 +119,21 @@
 * Italian: {{t+|it|becco|m}}
 * Japanese: {{t+|ja|嘴|tr=[[くちばし]], kuchibashi}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[ده‌ندوک]]}}
+*: Sorani: {{t|ckb|ده‌ندوک|sc=ku-Arab}}
 * Lithuanian: {{t+|lt|snapas}}
 * Low German: {{t+|nds|Snavel|m}}
 ** Plauttdietsch (Mennonite Low German) {{t-|nds|Schnovel, Schnowel|m}}
 * Macedonian: {{t-|mk|клун|m|tr=klun}}
-* Marathi: [[चोच]] (ćoć)
+* Marathi: {{t|mr|चोच|tr=ćoć|sc=Deva}}
 * Norwegian: {{t-|no|nebb}}
 * Old Norse: {{tø|non|nef|n}}
 * Polish: {{t+|pl|dziób}}
 * Portuguese: {{t+|pt|bico|m}}
-* Romanian: [[cioc]] {{f}} and {{m}}
+* Romanian: {{t|ro|cioc|f|m}}
 * Russian: {{t+|ru|клюв|m|tr=kljuv}}
-* Serbo-Croatian: {{t-|sh|кљун|m|tr=kljun|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|кљун|m|tr=kljun|sc=Cyrl}}
+*: Roman: {{t-|sh|kljun|m}}
 * Slovak: {{t-|sk|zobák|m}}
 * Slovene: {{t+|sl|kljun|m}}
 * Spanish: {{t+|es|pico|m}}
@@ -142,7 +142,7 @@
 * Turkish: {{t+|tr|gaga}}
 * Ukrainian: {{t-|uk|дзьоб|m|tr=dz′ob}}
 * Volapük: {{t+|vo|honed}}, {{t-|vo|bödahoned}}
-* West Frisian: [[snaffel]]
+* West Frisian: {{t|fy|snaffel}}
 {{trans-bottom}}
 
 {{trans-top|beaklike projection}}
