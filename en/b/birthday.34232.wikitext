@@ -26,7 +26,6 @@
 # The date on which someone is born or something is created, more commonly called '''[[birthdate]]''' or '''[[date of birth]]'''.<!--This is not an abbreviation of "birthday": abbreviation: [[DOB]] (''[[date of birth]].'')-->
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|anniversary}}
 * Albanian: {{t-|sq|ditëlindje|f}}
 * Arabic: {{t-|ar|عيد ميلاد|m|tr=3iid miilaad}}
@@ -34,7 +33,6 @@
 * Armenian: {{t-|hy|ծննդյան օր|tr=çnndyan òr}}, {{t-|hy|ծնունդ|tr=çnund}}
 * Belarusian: {{t-|be|дзень нараджэння|m|tr=dzen’ naradžénnja|sc=Cyrl}}
 * Bengali: {{t-|bn|জন্মদিন|tr=jônmôdin|sc=Beng}}
-* Serbo-Croatian: {{t-|sh|rođendan|m}}
 * Bulgarian: {{t-|bg|рожден ден|m|tr=roždén den}}
 * Burmese: {{t+|my|မွေးနေ့|tr=mwei nei|sc=Mymr}}, {{IPA|/mwèː.nḛː/}}
 * Catalan: {{t-|ca|aniversari|m}}, {{t-|ca|natalici|m}}
@@ -42,21 +40,21 @@
 * Chamicuro: {{tø|ccc|ipenonasne watane}}
 * Chinese:
 *: Mandarin: {{t-|cmn|生日|tr=shēngrì|sc=Hani}}
-*: Min Nan: [[生日]] ([[seⁿ-ji̍t]] or [[siⁿ-ji̍t]] or [[seng-ji̍t]])
+*: Min Nan: {{t|nan|生日|tr=[[seⁿ-ji̍t]] or [[siⁿ-ji̍t]] or [[seng-ji̍t]]|sc=Hani}}
 * Czech: {{t+|cs|narozeniny|f|p}}
 * Danish: {{t+|da|fødselsdag|c}}
 * Dutch: {{t+|nl|verjaardag|m}}
-* Esperanto: {{t-|eo|naskiĝotago}},  {{t+|eo|naskotago}}
+* Esperanto: {{t-|eo|naskiĝotago}}, {{t+|eo|naskotago}}
 * Fijian: {{t-|fj|sigaanisucu}}
-* Finnish: {{t+|fi|syntymäpäivä}}, [[synttärit]] {{qualifier|informal}}
-* French: {{t+|fr|anniversaire|m}},  {{qualifier|Canada}} {{t+|fr|fête|f}}
+* Finnish: {{t+|fi|syntymäpäivä}}, {{qualifier|informal}} {{t|fi|synttärit}}
+* French: {{t+|fr|anniversaire|m}}, {{qualifier|Canada}} {{t+|fr|fête|f}}
 * German: {{t+|de|Geburtstag|m}}
 * Greek: {{t+|el|γενέθλια|tr=genéthlia}}
 * Guernésiais: {{tø|roa-grn|jour de naissànse|m}}
-* Gujarati: [[વરસ ગાનત]] (varas gaant)
+* Gujarati: {{t|gu|વરસ ગાનત|tr=varas gaant|sc=Gujr}}
 * Hebrew: {{t-|he|יום הלדת|m|alt=יוֹם הֻלֶּדֶת|tr=yom huledet}}
 * Hindi: {{t-|hi|जन्मदिन|m|tr=janmadin}}
-* Hmong: [[hnub]] [[yug]]
+* Hmong: {{t|hmn|hnub} {{t|hmn|yug}}
 * Hungarian: {{t+|hu|születésnap}}
 * Icelandic: {{t+|is|afmælisdagur|m}}, {{t-|is|fæðingardagur|m}}
 {{trans-mid}}
@@ -67,9 +65,9 @@
 * Korean: {{t+|ko|생일|tr=saeng-il|sc=Hang}} ({{t+|ko|生日|sc=Hani}})
 * Luxembourgish: {{t+|lb|Gebuertsdag|m}}
 * Macedonian: {{t-|mk|роденден|m|tr=ródenden}}
-* Maltese: [[għeluq sninek]]
-* Marathi: [[वाट दिवस]]
-* Navajo: [[hoʼdizhchínę́ęjį́ anáyííłką́]]
+* Maltese: {{t|mt|għeluq sninek}}
+* Marathi: {{t|mr|वाट दिवस|sc=Deva}}
+* Navajo: {{t|nv|hoʼdizhchínę́ęjį́ anáyííłką́|sc=nv-Latn}}
 * Norwegian: {{t+|no|bursdag|m}}, {{t+|no|fødselsdag|m}}
 * Persian: {{t+|fa|تولد|tr=tavallod}}
 * Polish: {{t+|pl|urodziny|p}}
@@ -77,12 +75,14 @@
 * Romanian: {{t-|ro|aniversare}}, {{t-|ro|zi de naștere}}
 * Russian: {{t+|ru|день рождения|m|tr=den’ roždénija}}
 * Scottish Gaelic: {{t-|gd|co-latha breith|m}}, {{t-|gd|là-breith|m}}
-* Serbo-Croatian: {{t-|sh|рођендан|m|tr=rođendan}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|рођендан|m|tr=rođendan|sc=Cyrl}}
+*: Roman: {{t-|sh|rođendan|m}}
 * Spanish: {{t+|es|cumpleaños|m}}, {{t-|es|natalicio|m}}
 * Swedish: {{t+|sv|födelsedag|c}}
 * Tagalog: {{t-|tl|kaarawan}}
 * Tamil: {{t+|ta|பிறந்தநாள்|tr=piranthanaal|sc=Taml}}
-* Thai: {{t-|th|วันเกิด|tr=wan-gèrt}}
+* Thai: {{t-|th|วันเกิด|tr=wan-gèrt|sc=Thai}}
 * Turkish: {{t+|tr|doğum günü}}
 * Ukrainian: {{t-|uk|день народження|m|tr=den’ naródžennja|sc=Cyrl}}
 * Vietnamese: {{t+|vi|sinh nhật}} ({{t-|vi|生日|sc=Hani}})
@@ -90,41 +90,40 @@
 * Yiddish: {{t-|yi|געבוירן־טאָג|m|tr=geboyrn-tog|sc=Hebr}}, {{t+|yi|געבורצטאָג|m|tr=geburtstog|sc=Hebr}}
 {{trans-bottom}}
 
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|date of birth}}
 * Armenian: {{t-|hy|ծննդյան օր|tr=çnndyan òr}}
 * Bengali: {{t-|bn|জন্মদিন|tr=janmadin|sc=Beng}}
-* Serbo-Croatian: {{t-|sh|dan rođenja|m}}, {{t-|sh|datum rođenja|m}}
-* Bulgarian: [[ден на раждане]] (den na raždane), [[дата на раждане]] (data na raždane), [[рождена дата]] (roždena data)
+* Bulgarian: {{t|bg|ден на раждане|tr=den na raždane|sc=Cyrl}}, {{t|bg|дата на раждане|tr=data na raždane|sc=Cyrl}}, {{t|bg|рождена дата|tr=roždena data|sc=Cyrl}}
 * Burmese: ({{IPA|/mwèː.nḛː/}})
-* Chinese: [[出生日期]] (chūshēngrìqī)
+* Chinese: {{t|zhx-zho|出生日期|tr=chūshēngrìqī}}
 * Czech: {{t+|cs|narozeniny|f|p}}
-* Danish: {{t+|da|fødselsdag}}
-* Dutch: [[geboortedatum]] {{m}}
-* Finnish: [[syntymäaika]], [[synnyinpäivä]], [[syntymäpäivä]]
-* French: [[date de naissance]] {{f}}
+* Danish: {{t+|da|fødselsdag|c}}
+* Dutch: {{t|nl|geboortedatum|m}}
+* Finnish: {{t|fi|syntymäaika}}, {{t|fi|synnyinpäivä}}, {{t|fi|syntymäpäivä}}
+* French: {{t|fr|date de naissance|f}}
 * German: {{t+|de|Geburtsdatum|n}}
-* Greek: [[γενέθλια μέρα]] (genéthlia méra) {{f}}
-* Hmong: [[hnub]] [[yug]]
+* Greek: {{t|el|γενέθλια μέρα|f|tr=genéthlia méra|sc=Grek}}
+* Hmong: {{t|hmn|hnub}} {{t|hmn|yug}}
 * Icelandic: {{t-|is|fæðingardagur|m}}, {{t+|is|afmælisdagur|m}}
 * Italian: {{t-|it|data di nascita|m}}
-* Japanese: [[生年月日]] (seinengappi)
-* Korean: [[생년월일]] ([[生年月日]], saengnyeonweolil)
+* Japanese: {{t|ja|生年月日|tr=seinengappi|sc=Jpan}}
+* Korean: {{t|ko|생년월일|tr=[[生年月日]], saengnyeonweolil|sc=Kore}}
+* Latin: {{t+|la|natalis|f}}
 {{trans-mid}}
 * Luxembourgish: {{t-|lb|Gebuertsdatum|m}}
 * Macedonian: {{t-|mk|датум на раѓање|m|tr=dátum na ráǵanje}}
-* Maltese: [[data ta' twelied]]
+* Maltese: {{t|mt|data ta' twelied}}
 * North Frisian: {{tø|frr|iirdäi}}
 * Norwegian: {{t+|no|fødselsdag|m}}
 * Polish: {{t+|pl|urodziny|p}}
-* Portuguese: [[data de nascimento]] {{f}}
+* Portuguese: {{t|pt|data de nascimento|f}}
 * Romansch: {{t-|rm|anniversari|m}}, {{t-|rm|di da naschientscha|m}}, {{t-|rm|natalizi|m}}
-* Russian: [[день рождения]] (den’ roždénija) {{m}}, {{t-|ru|дата рождения|f|tr=data roždénija|sc=Cyrl}}
+* Russian: {{t|ru|день рождения|m|tr=den’ roždénija|sc=Cyrl}}, {{t-|ru|дата рождения|f|tr=data roždénija|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|co-latha breith|m}}, {{t-|gd|là-breith|m}}
 * Serbo-Croatian:
-*: Cyrillic: [[дан рођења#Serbo-Croatian|дан рођења]] {{m}}, [[датум рођења#Serbo-Croatian|датум рођења]] {{m}}
-*: Roman: [[dan rođenja#Serbo-Croatian|dan rođenja]] {{m}}, [[datum rođenja#Serbo-Croatian|datum rođenja]] {{m}}, {{t+|la|natalis|f}}
-* Spanish: [[fecha de nacimiento]]  {{f}}
+*: Cyrillic: {{t|sh|дан рођења|m|sc=Cyrl}}, {{t|sh|датум рођења|m|sc=Cyrl}}
+*: Roman: {{t|sh|dan rođenja|m}}, {{t|sh|datum rođenja|m}}
+* Spanish: {{t|es|fecha de nacimiento|f}}
 * Swedish: {{t+|sv|födelsedag|c}}
 * Tagalog: {{t-|tl|kaarawan}}
 {{trans-bottom}}
