@@ -148,7 +148,7 @@ From {{etyl|enm}} {{term|poer}}, from {{etyl|fro}} {{term|poer}}, from {{etyl|ML
 * Dutch: {{t+|nl|macht|f}}
 * Esperanto: {{t+|eo|potenco}}, {{t-|eo|povo}}
 * Estonian: {{t-|et|võim}}
-* Finnish: {{t+|fi|valta}}
+* Finnish: {{t+|fi|valta}}, {{t|fi|voima}}
 * French: {{t+|fr|pouvoir|m}}
 * German: {{t+|de|Macht|f}}
 * Gothic: {{tø|got|𐍅𐌰𐌻𐌳𐌿𐍆𐌽𐌹|n|tr=waldufni|sc=Goth}}
@@ -237,13 +237,18 @@ From {{etyl|enm}} {{term|poer}}, from {{etyl|fro}} {{term|poer}}, from {{etyl|ML
 * Urdu: {{t+|ur|طاقت}}, {{t-|ur|قوت}}, {{t-|ur|شکتی|f|tr=śakti}}
 {{trans-bottom}}
 
+{{trans-top|control, particularly legal or political}}
+* Finnish: {{t|fi|valta}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|electricity supply}}
 * Arabic: {{t-|ar|طاقة كهربائية|f|tr=Taaqa kahrabaa'íyya}}
 * Armenian: {{t-|hy|էլեկտրականություն|tr=ēlektrakanut’yun}}, {{qualifier|colloquially}} {{t-|hy|հոսանք|tr=hosank’}}
 * Chinese:
 *: Mandarin: {{t-|cmn|電力|sc=Hani}}, {{t-|cmn|电力|tr=diànlì|sc=Hani}}
 * Dutch: {{t|nl|voeding|m}}, {{t|nl|toevoer|m}}, {{t|nl|stroom|m}}, {{qualifier|These may all be preceded by [[elektrische]]}} {{t|nl|spanning|f}}, {{t|nl|elektriciteit|f}}
-* Finnish: {{t+|fi|virta}}, {{t+|fi|sähkö}}
+* Finnish: {{t+|fi|sähkö}}, {{t|fi|sähkö|alt=sähköt|p}}, {{t+|fi|virta}}
 * French: {{t+|fr|électricité|f}}, {{t+|fr|courant|m}}
 * {{trreq|Georgian}}
 * German: {{t+|de|Strom|m}}, {{t+|de|Energie|f}}
@@ -303,11 +308,12 @@ From {{etyl|enm}} {{term|poer}}, from {{etyl|fro}} {{term|poer}}, from {{etyl|ML
 * Turkish: {{t+|tr|güç}}
 {{trans-bottom}}
 
-{{trans-top|physics: a rate to magnify an optical image by a lens or mirror}}
+{{trans-top|physics: rate to magnify an optical image}}
 * Chinese:
 *: Mandarin: {{t|cmn|放大率|tr=fàngdàlǜ|sc=Hani}}
 * Czech: {{t-|cs|mohutnost|f}}
 * Dutch: {{t+|nl|vergroting|f}}
+* Finnish: {{t|fi|suurennus}}
 * Greek: {{t|el|μεγεθυντική ικανότητα|f|tr=meyenthidiki ikanotita|sc=Grek}}
 * Japanese: {{t|ja|倍率|tr=bairitsu|sc=Jpan}}
 * Kurdish:
@@ -322,7 +328,7 @@ From {{etyl|enm}} {{term|poer}}, from {{etyl|fro}} {{term|poer}}, from {{etyl|ML
 * Russian: {{t+|ru|мощность|f|tr=móščnost’}}
 {{trans-bottom}}
 
-{{trans-top|fourth level of angels}}
+{{trans-top|biblical: fourth level of angels}}
 * Dutch: {{t+|nl|machten}}
 * Finnish: {{t+|fi|voima}}
 * Greek: {{t-|el|δυνάμεις|f|p|tr=dinamis}}
@@ -366,10 +372,16 @@ From {{etyl|enm}} {{term|poer}}, from {{etyl|fro}} {{term|poer}}, from {{etyl|ML
 * Spanish: {{t+|es|potencia|f}}
 {{trans-bottom}}
 
-{{trans-see|cardinality}}
+{{trans-see|cardinality in set theory|cardinality}}
 
-{{trans-top|statistics: probability of rejecting the null hypothesis}}
+{{trans-top|statistics: probability of erroneously rejecting the null hypothesis}}
+* Finnsih: {{t|fi|voima}}
+{{trans-mid}}
 * Swedish: {{t+|sv|styrka|c}}
+{{trans-bottom}}
+
+{{trans-top|people in charge of legal or political power}}
+* Finnish: {{t|fi|vallanpitäjä|alt=vallanpitäjät|p}} 
 {{trans-mid}}
 {{trans-bottom}}
 
