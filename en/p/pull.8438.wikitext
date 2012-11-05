@@ -101,12 +101,12 @@ From {{etyl|enm}} {{term|pullen|lang=enm}}, from {{etyl|ang}} {{term|pullian||to
 * Arabic: {{t-|ar|جر|tr=járra}},  {{t-|ar|سحب|tr=sáḥaba}}
 *: Egyptian Arabic: {{tø|arz|جر|tr=garr|sc=Arab}}, {{tø|arz|جرجر|tr=gargar|sc=Arab}}, {{tø|arz|سحب|tr=saḥab|sc=Arab}}
 * Armenian: {{t-|hy|քաշել|tr=k'ašel}}, {{t-|hy|ձգել|tr=jgel}}
-* Belarusian: {{t|be|цягнуць|tr=cjahnúcʹ|sc=Cyrl}}
+* Belarusian: {{t|be|цягнуць|tr=cjahnúcʹ|sc=Cyrl}} {{impf}}, {{t|be|пацягнуць|tr=pacjahnúcʹ|sc=Cyrl}} {{pf}}
 * Bulgarian: {{t|bg|дърпам|tr=dǎrpam|sc=Cyrl}}
 * Catalan: {{t+|ca|tirar}}
 * Chinese:
 *: Mandarin: {{t|cmn|拖拉|tr=tuōlā|sc=Hani}}, {{t+|cmn|拉|tr=lā|sc=Hani}}
-* Czech: {{t+|cs|táhnout}}, {{t|cs|tahat}}
+* Czech: {{t+|cs|táhnout}} {{impf}}, {{t|cs|tahat}} {{impf}}
 * Danish: {{t+|da|trække}}
 * Dutch: {{t+|nl|trekken}}
 * Esperanto: {{t-|eo|tiri}}
@@ -131,18 +131,18 @@ From {{etyl|enm}} {{term|pullen|lang=enm}}, from {{etyl|ang}} {{term|pullian||to
 * Portuguese: {{t+|pt|puxar}},  {{t+|pt|tirar}}
 * Romanian: {{t-|ro|trage}}
 * Romansch: {{t-|rm|trair}}
-* Russian: {{t+|ru|тянуть|tr=tjanút’}} {{impf}}, {{t+|ru|потянуть|tr=potjanút’}} {{pf.}}, {{t+|ru|тащить|tr=taščít’}} {{impf}}, {{t+|ru|потащить|tr=potaščít’}} {{pf.}}, {{t|ru|тягать|tr=tjagátʹ|sc=Cyrl}} {{qualifier|abstract}}
+* Russian: {{t+|ru|тянуть|tr=tjanútʹ}} {{impf}}, {{t+|ru|потянуть|tr=potjanútʹ}} {{pf.}}, {{t+|ru|тащить|tr=taščítʹ}} {{impf}}, {{t+|ru|потащить|tr=potaščítʹ}} {{pf.}}, {{t|ru|тягать|tr=tjagátʹ|sc=Cyrl}} {{impf}} {{qualifier|abstract}}
 * Scottish Gaelic: {{t-|gd|slaod}},  {{t-|gd|tarraing}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|потезати}}, {{t|sh|потегнути}}
-*: Roman: {{t|sh|potezati}}, {{t|sh|potegnuti}}
-* Slovak: {{t|sk|ťahať}}, {{t|sk|tiahnuť}}, {{t|sk|potiahnuť}}
+*: Cyrillic: {{t|sh|потезати}} {{impf}}, {{t|sh|потегнути}} {{pf}}
+*: Roman: {{t|sh|potezati}} {{impf}}, {{t|sh|potegnuti}} {{pf}}
+* Slovak: {{t|sk|tiahnuť}} {{impf}}, {{t|sk|ťahať}} {{impf}}, {{t|sk|potiahnuť}} {{pf}}
 * Spanish: {{t+|es|tirar}}, {{t+|es|jalar}}
 * Swahili: [[kuvuta]]
 * Swedish: {{t+|sv|dra}}, {{t+|sv|draga}}
 * Telugu: [[లాగు]] (laagu)
 * Turkish: {{t+|tr|çekmek}}
-* Ukrainian: {{t|uk|тягти|tr=tjahtý|sc=Cyrl}}, {{t|uk|потягнути|tr=potjahnúty|sc=Cyrl}}, {{t|uk|тягнути|tr=tjahnúty|sc=Cyrl}}
+* Ukrainian: {{t|uk|потягнути|tr=potjahnúty|sc=Cyrl}} {{impf}}, {{t|uk|тягнути|tr=tjahnúty|sc=Cyrl}} {{im}}, {{t|uk|тягти|tr=tjahtý|sc=Cyrl}} {{impf}}
 * Vietnamese: {{t+|vi|kéo}}, {{t+|vi|giật}}
 * West Frisian: {{t+|fy|trekke}},  {{t-|fy|lûke}}
 {{trans-bottom}}
