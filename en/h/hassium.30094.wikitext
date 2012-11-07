@@ -4,7 +4,7 @@
 {{elements|Hs|bohrium|Bh|meitnerium|Mt}}
 
 ===Etymology===
-From the {{etyl|la}} form of the German state of [[w:Hessen|Hessen]], the location of the institute where the element was first synthesized.
+From the {{etyl|la}} form of the German state of {{w|Hessen}}, the location of the institute where the element was first synthesized.
 
 ===Noun===
 {{en-noun|-}}
@@ -24,18 +24,16 @@ From the {{etyl|la}} form of the German state of [[w:Hessen|Hessen]], the locati
 * [[w:Hessen|Hessen]]
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|chemical element with atomic number 108}}
 * Afrikaans: {{t-|af|hassium}}
 * Albanian: {{t-|sq|hasium}}
 * Arabic: {{t-|ar|هسيوم|m|tr=hásyum}}
 * Armenian: {{t-|hy|հասիում|tr=hasium}}
-* Serbo-Croatian: {{t-|sh|hassij}}
 * Bulgarian: {{t-|bg|хасий|m|tr=khásij}}
-* Catalan: {{t-|ca|hassi}}
-* Chinese: [[𨭆]] (hēi)
+* Catalan: {{t-|ca|hassi|m}}
+* Chinese:
+*: Mandarin: {{t|cmn|𨭆|tr=hēi}}
 * Cornish: {{t-|kw|hassyum}}
-* Serbo-Croatian: {{t-|sh|hassij}}
 * Czech: {{t+|cs|hassium|n}}
 * Danish: {{t-|da|hassium}}
 * Dutch: {{t+|nl|hassium|n}}
@@ -46,7 +44,7 @@ From the {{etyl|la}} form of the German state of [[w:Hessen|Hessen]], the locati
 * Galician: {{t+|gl|hassio}}
 * Georgian: {{t-|ka|ჰასიუმი|tr=hasiumi|sc=Geor}}
 * German: {{t+|de|Hassium|n}}
-* Hebrew: [[הסיום]] (hesyum)
+* Hebrew: {{t|he|הסיום|tr=hesyum}}
 * Italian: {{t+|it|hassio|m}}
 * Japanese: {{t+|ja|ハッシウム|tr=hasshiumu}}
 {{trans-mid}}
@@ -62,7 +60,9 @@ From the {{etyl|la}} form of the German state of [[w:Hessen|Hessen]], the locati
 * Romanian: {{t+|ro|hassiu|n}}
 * Russian: {{t+|ru|хассий|m|tr=khássij}}
 * Scottish Gaelic: {{t-|gd|haisiam}}
-* Serbo-Croatian: {{t-|sh|хасиjум|m|sc=Cyrl}}, {{t-|sh|hasijum|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|хасиj|m|sc=Cyrl}}, {{t-|sh|хасиjум|m|sc=Cyrl}}
+*: Roman: {{t|sh|hasij|m}}, {{t-|sh|hasijum|m}}
 * Slovak: {{t-|sk|hassium}}
 * Spanish: {{t+|es|hassio|m}}
 * Swedish: {{t+|sv|hassium}}
@@ -79,8 +79,6 @@ From the {{etyl|la}} form of the German state of [[w:Hessen|Hessen]], the locati
 http://elements.vanderkrogt.net/element.php?sym=Hs
 (A lot of the translations were taken from that site with permission from the author)
 
-[[Category:en:Chemical elements]]
-
 ----
 
 ==Dutch==
@@ -93,7 +91,7 @@ http://elements.vanderkrogt.net/element.php?sym=Hs
 ===Noun===
 {{nl-noun|n|-|-}}
 
-# [[#English|hassium]]
+# {{l|en|hassium}}
 
 ----
 
@@ -102,7 +100,7 @@ http://elements.vanderkrogt.net/element.php?sym=Hs
 ===Noun===
 {{et-noun|hassiumi|hassiumi|par2=hassiumit}}
 
-# [[#English|hassium]]
+# {{l|en|hassium}}
 
 ====Declension====
 {{et-decl-seminar|hassium}}
@@ -118,7 +116,7 @@ http://elements.vanderkrogt.net/element.php?sym=Hs
 ===Noun===
 {{fi-noun}}
 
-# [[#English|hassium]]
+# {{l|en|hassium}}
 
 ====Declension====
 {{fi-decl-risti|hassium|i=0}}
@@ -135,7 +133,7 @@ http://elements.vanderkrogt.net/element.php?sym=Hs
 ===Noun===
 {{fr-noun|m}}
 
-# [[hassium#English|hassium]]
+# {{l|en|hassium}}
 
 [[Category:fr:Chemical elements]]
 
@@ -147,7 +145,7 @@ http://elements.vanderkrogt.net/element.php?sym=Hs
 ===Noun===
 {{la-noun|hassium|hassii|hassiī|n|second}}
 
-# [[#English|hassium]]
+# {{l|en|hassium}}
 
 ====Inflection====
 {{la-decl-2nd-N|hassi}}
@@ -171,7 +169,7 @@ From {{etyl|en|ms}} {{term|hassium|lang=en}}, from {{etyl|la|ms}}.
 ===Noun===
 {{head|ms|noun}}
 
-# [[#English|hassium]] {{gloss|chemical element}}
+# {{l|en|hassium}}
 
 [[cs:hassium]]
 [[de:hassium]]
