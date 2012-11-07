@@ -70,29 +70,30 @@ From {{etyl|fro}} {{term|disner||lang=fro|lunch”, but originally “breakfast}
 * Basque: {{t+|eu|afari}}
 * Bulgarian: {{t+|bg|вечеря|f|tr=večerja|sc=Cyrl}}
 * Cantonese: {{t|yue|晚飯|tr=maan<sup>5</sup>faan<sup>6</sup>|sc=Hani}}
-* Czech: {{t+|cs|oběd|m}}
+* Czech: {{t+|cs|oběd|m}} {{qualifier|in Czech the midday meal is the main meal}}, {{t|cs|večeře|f}} {{qualifier|eaten in the evening}}
 * Danish: {{t+|da|middag}}
 * Dutch: {{t+|nl|avondeten|n}}, {{t-|nl|avondmaaltijd|m}}, {{t+|nl|avondmaal|n}}, {{t+|nl|eten|n}}
 * Filipino: {{t|tl|hapunan}}
 * Finnish: {{t-|fi|päivällinen}}, {{t+|fi|illallinen}}
 * French: {{t|fr|dîner|m}}, {{qualifier|Belgium|Cajun|Swiss and Canadian French -in Belgium, Louisiana, Romandy and Quebec, "dîner" means "lunch"}} {{t|fr|souper|m}}
-* Gan: {{t|gan|夜飯|tr=ya<sup>5</sup> fan<sup>5</sup>|sc=Hani}}
+* Gan: {{t|gan|夜飯|tr=ya<sup>5</sup> fan<sup>5</sup>|sc=Hani}} {{qualifier|eaten in the evening}}
 * German: {{t-|de|Hauptmahlzeit|f}}
 * Greek: {{t+|el|φαγητό|n|tr=fagitó}}, {{t-|el|κύριο γεύμα|n|tr=kýrio gévma}}
 * Hungarian: {{t+|hu|vacsora}} {{qualifier|eaten in the evening}}, {{t+|hu|ebéd}} {{qualifier|in Hungary the midday meal is the main meal}}
 * Ido: {{t+|io|dineo}}
 * Irish: {{t-|ga|dinnéar|m}}
 * Italian: {{t+|it|cena|f}}
-* Japanese: {{t|ja|夕食|tr={{Jpan|[[ゆうしょく]]}}, yūshoku|sc=Jpan}}
+* Japanese: {{t|ja|夕食|tr={{Jpan|[[ゆうしょく]]}}, yūshoku|sc=Jpan}} {{qualifier|eaten in the evening}}
 * Korean: {{t+|ko|저녁|tr=jeonyeog|sc=Kore}}
 {{trans-mid}}
 * Kurdish:
 *: Kurmanji: {{t|ku|şîv|f}}
 * Latin: {{t+|la|cena|f|alt=cēna}}
-* Latvian: {{t|lv|pusdienas|f|p}}
-* Macedonian: {{t-|mk|вечера|f|tr=véčera}}
-* Maltese: {{t-|mt|ċena|f}}
-* Mandarin: {{t|zh|晚饭|tr=wănfàn|sc=Hani}}, {{t|zh|晚餐|tr=wăncān|sc=Hani}}
+* Latvian: {{t|lv|pusdienas|f|p}} {{qualifier|in Latvia the midday meal is the main meal}}
+* Lithuanian: {{t|lt|vakarienė|f}} {{qualifier|eaten in the evening, but the midday meal is the main meal}}
+* Macedonian: {{t-|mk|вечера|f|tr=véčera}} {{qualifier|eaten in the evening}}
+* Maltese: {{t-|mt|ċena|f}} 
+* Mandarin: {{t|cmn|晚饭|tr=wănfàn|sc=Hani}}, {{t|cmn|晚餐|tr=wăncān|sc=Hani}} {{qualifier|eaten in the evening}}
 * Mongolian: {{t-|mn|оройн хоол|tr=orojn hool|sc=Cyrl}}
 * Norwegian:
 *: Bokmål: {{t+|no|middag}}
@@ -100,11 +101,11 @@ From {{etyl|fro}} {{term|disner||lang=fro|lunch”, but originally “breakfast}
 * Polish: {{t+|pl|obiad|m}}
 * Portuguese: {{t+|pt|jantar}}
 * Romanian: {{t-|ro|cină}}
-* Russian: {{t+|ru|ужин|m|tr=úžin}}
+* Russian: {{t+|ru|ужин|m|tr=úžin}} {{qualifier|eaten in the evening, but the midday meal is the main meal}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|вечера|f|sc=Cyrl}}
-*: Roman: {{t|sh|večera|f}}
-* Slovene: {{t+|sl|večerja|f}}
+*: Cyrillic: {{t|sh|вечера|f|sc=Cyrl}} {{qualifier|eaten in the evening}}
+*: Roman: {{t|sh|večera|f}} {{qualifier|eaten in the evening}}
+* Slovene: {{t+|sl|večerja|f}} {{qualifier|eaten in the evening}}
 * Spanish: {{t+|es|cena|f}}
 * Swedish: {{t+|sv|middag|c}}
 * Tagalog: {{t-|tl|hapunan}}
@@ -113,12 +114,13 @@ From {{etyl|fro}} {{term|disner||lang=fro|lunch”, but originally “breakfast}
 
 {{trans-top|a meal given to an animal}}
 * Bulgarian: {{t+|bg|хранене|n|tr=chranene|sc=Cyrl}}
-* Czech: {{t-|cs|žrádlo|n}}
+* Czech: {{t-|cs|žrádlo|n}}, {{t-|cs|krmení|n}}, {{t-|cs|šlichta|f}} {{qualifier|of soup consistence}}
 * Dutch: {{t+|nl|voer}}
 * Finnish: {{t+|fi|ruoka}}
 {{trans-mid}}
 * German: {{t+|de|Futter|n}}
 * Greek: {{t+|el|τροφή|f|tr=trofí}}
+* Lithuanian: {{t|lt|ėdalas|m}}, {{t|lt|jovalas|m}} {{qualifier|of soup consistence}}
 * Mongolian: {{t-|mn|амьтны хоол|tr=am'tny hool|sc=Cyrl}}
 {{trans-bottom}}
 
@@ -138,8 +140,9 @@ From {{etyl|fro}} {{term|disner||lang=fro|lunch”, but originally “breakfast}
 * Hungarian: {{t+|hu|ebéd}}
 * Irish: {{t-|ga|dinnéar|m}}
 * Italian: {{t+|it|pranzo|m}}
-* Japanese: {{t|ja|昼食|tr={{Jpan|[[ちゅうしょく]]}}, chūshoku|sc=Jpan}}
+* Japanese: {{t|ja|昼食|tr={{Jpan|[[ちゅうしょく]]}}, chūshoku|sc=Jpan}}, {{t|ja|昼飯|tr={{Jpan|[[ひるめし]]}}, hirumeshi|sc=Jpan}}
 * Latvian: {{t|lv|pusdienas|f|p}}
+* Lithuanian: {{t|lt|pietūs|m|p}}
 * Macedonian: {{t-|mk|ручек|m|tr=rúček}}
 * Maltese: {{t+|mt|pranzu|m}}
 * Mongolian: {{t-|mn|өдрийн хоол|tr=ôdrijn hool|sc=Cyrl}}, {{t-|mn|үдийн хоол|tr=ùdijn hool|sc=Cyrl}}
