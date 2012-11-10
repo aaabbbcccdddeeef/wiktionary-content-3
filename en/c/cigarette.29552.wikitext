@@ -40,21 +40,18 @@
 * See also [[Wikisaurus:cigarette]]
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|cigarette}}
 * Albanian: {{t+|sq|cigare|f}}
 * Amharic: {{t-|am|ሲጃራ|tr=sijara|sc=Ethi}}, {{t-|am|ሲጋራ|tr=sigara|sc=Ethi}}
-* Arabic: {{t-|ar|سيجارة|f|tr=sijaara, sigaara}}
+* Arabic: {{t-|ar|سيجارة|f|tr=sijaara, sigaara|sc=Arab}}
 *: Moroccan: {{t|ary|ݣرو|tr=garro|sc=Arab}}
-* Armenian: {{t-|hy|ծխախոտ|tr=çxaxot}}
-* Belarusian: {{t-|be|цыгарэта|sc=Cyrl}}
-* Serbo-Croatian: {{t+|sh|cigareta|f}}
-* Bulgarian: {{t+|bg|цигара|f|tr=tsigára}}
+* Armenian: {{t-|hy|ծխախոտ|tr=çxaxot|sc=Armn}}
+* Belarusian: {{t-|be|цыгарэта|tr=cygareta|sc=Cyrl}}
+* Bulgarian: {{t+|bg|цигара|f|tr=cigára|sc=Cyrl}}
 * Catalan: {{t-|ca|cigarret|m}}
 * Chinese:
 *: Cantonese: {{t|yue|煙仔|tr=yeen chai|sc=Hani}}
 *: Mandarin: {{t|cmn|香煙|sc=Hani}}, {{t|cmn|香烟|tr=xiāngyān|sc=Hani}}, {{t|cmn|紙煙|sc=Hani}}, {{t|cmn|纸烟|tr=zhǐyān|sc=Hani}}, {{t|cmn|捲煙|sc=Hani}}, {{t|cmn|卷烟|tr=juǎnyān|sc=Hani}}, {{t|cmn|煙|sc=Hani}}, {{t|cmn|烟|tr=yān|sc=Hani}} <!-- 烟 can also be used on its own, e.g.: 他给我一支烟 (by user atitarev)-->
-* Serbo-Croatian: {{t+|sh|cigareta|f}}
 * Czech: {{t+|cs|cigareta|f}}
 * Danish: {{t-|da|cigaret|c}}
 * Dutch: {{t+|nl|sigaret|m|f}}, {{t-|nl|saffiaantje}}
@@ -65,9 +62,9 @@
 * French: {{t+|fr|cigarette|f}}
 * Georgian: {{t-|ka|პაპიროსი|tr=papirosi|sc=Geor}}
 * German: {{t+|de|Zigarette|f}}
-* Greek: {{t+|el|τσιγάρο|n|tr=tsigáro}}
+* Greek: {{t+|el|τσιγάρο|n|tr=tsigáro|sc=Grek}}
 * Gujarati: {{t-|gu|સિગારેટ|sc=Gujr}}
-* Hebrew: {{t+|he|סיגריה|f|tr=sigárya}}
+* Hebrew: {{t+|he|סיגריה|f|tr=sigárya|sc=Hebr}}
 * Hindi: {{t-|hi|सिगरेट|m|f|tr=sigreṭ|sc=Deva}}
 * Hungarian: {{t+|hu|cigaretta}}
 * Icelandic: {{t+|is|sígaretta|f}}
@@ -88,18 +85,18 @@
 * Latin: {{t-|la|sigarellum|n}}
 * Lithuanian: {{t-|lt|cigaretė|f}}, {{t-|lt|papirosas|m}}
 * Luxembourgish: {{t-|lb|Zigarett|f}}
-* Macedonian: {{t-|mk|цигара|f|tr=cígara}}
+* Macedonian: {{t-|mk|цигара|f|tr=cígara|sc=Cyrl}}
 * Malay: {{t-|ms|rokok}}, {{t|ms|sigaret}}
 * Manx: {{t-|gv|tudjeen|m}}
 * Mongolian: {{t-|mn|тамхи|tr=tamhi|sc=Cyrl}}
 * Nauruan: {{t-|na|tebeke}}
 * Norwegian: {{t+|no|sigarett|m}}
 * Pashto: {{t-|ps|سګرېټ|sc=ps-Arab}}
-* Persian: {{t+|fa|سیگارت|tr=sigâret}}
+* Persian: {{t+|fa|سیگارت|tr=sigâret|sc=fa-Arab}}
 * Polish: {{t+|pl|papieros|m}}
 * Portuguese: {{t+|pt|cigarro|m}}
 * Romanian: {{t+|ro|țigară|f}}, {{t-|ro|țigaretă|f}}
-* Russian: {{t+|ru|сигарета|f|tr=sigaréta}}, {{t+|ru|папироса|f|tr=papirósa}}
+* Russian: {{t+|ru|сигарета|f|tr=sigaréta|sc=Cyrl}}, {{t+|ru|папироса|f|tr=papirósa|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|toitean|m}}, {{t-|gd|toiteag|f}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|цигарета|f|sc=Cyrl}}
@@ -110,10 +107,10 @@
 * Swedish: {{t+|sv|cigarett|c}}
 * Tagalog: {{t-|tl|sigarilyo}}, {{t-|tl|yusi}}
 * Telugu: {{t-|te|సిగరెట్టు|sc=Telu}}
-* Thai: {{t-|th|ยาสูบ|tr=yās̄ūb}}
+* Thai: {{t-|th|ยาสูบ|tr=yās̄ūb|sc=Thai}}
 * Tibetan: {{t-|bo|ཤོག་དྲིལ་དུ་བ།|sc=Tibt}}
 * Turkish: {{t+|tr|sigara}}
-* Ukrainian: {{t-|uk|сигарета|f|tr=syharéta}}, {{t-|uk|цигарка|f|tr=cyhárka}}
+* Ukrainian: {{t-|uk|сигарета|f|tr=syharéta|sc=Cyrl}}, {{t-|uk|цигарка|f|tr=cyhárka|sc=Cyrl}}
 * Urdu: {{t-|ur|سگریٹ|m|f|tr=sigreṭ|sc=ur-Arab}}
 * Uzbek: {{t-|uz|sigareta}}
 * Vietnamese: {{t-|vi|điếu thuốc lá}}, {{t+|vi|thuốc lá}}
