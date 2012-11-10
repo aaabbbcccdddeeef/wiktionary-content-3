@@ -11,7 +11,7 @@
 {{etyl|tl}} {{term|Maynila|lang=tl}}, from {{term|may nilad|lang=tl}} ({{term|may||there is|lang=tl}}, {{term|nilad|lang=tl}} a kind of flowering plant once found in the low-lying banks of the [[Pasig]] River), probably under influence via {{etyl|es}}, from {{term|امان الله|أمان الله|sc=Arab|tr=amān Allāh|God’s protection|lang=ar}}.
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|/məˈnɪl.ə/}}, {{X-SAMPA|/m@"nIl.@/}}
+* {{a|UK|US}} {{IPA|/məˈnɪl.ə/}}, {{X-SAMPA|/m@"nIl.@/}}
 * {{hyphenation|ma|nila}}
 * {{rhymes|ɪlə}}
 
@@ -27,11 +27,9 @@
 * [[Manila paper]]
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|capital of the Philippines}}
 * Arabic: {{t-|ar|مانيلا|f|tr=maniila}}
 * Armenian: {{t-|hy|Մանիլա|tr=Manila}}
-* Serbo-Croatian: {{t-|sh|Manila|f}}
 * Chinese:
 *: Mandarin: {{t-|cmn|馬尼拉|sc=Hani}},  {{t-|cmn|马尼拉|tr=Mǎnílā|sc=Hani}}
 * Czech: {{t+|cs|Manila|f}}
@@ -43,6 +41,7 @@
 * Greek: {{t+|el|Μανίλα|f|tr=Maníla}}
 * Hindi: {{t-|hi|मनीला|tr=Manīlā}}
 {{trans-mid}}
+* {{trreq|ilo}}
 * Italian: {{t-|it|Manila|f}}
 * Japanese: {{t-|ja|マニラ|tr=Manira}}
 * Korean: {{t+|ko|마닐라|tr=Manilla|sc=Hang}}
@@ -50,11 +49,11 @@
 * Navajo: {{tø|nv|Manííla}}
 * Russian: {{t-|ru|Манила|f|tr=Maníla}}
 * Serbo-Croatian:
-*: Cyrillic: [[Манила#Serbo-Croatian|Манила]] {{f}}
-*: Roman: [[Manila#Serbo-Croatian|Manila]] {{f}}
+*: Cyrillic: {{t|sh|Манила|f}}
+*: Roman: {{t|sh|Manila|f}}
 * Spanish: {{t+|es|Manila|f}}
 * Tagalog: {{t-|tl|Maynila}}
-* Thai: {{t-|th|มะนิลา|tr=má-ní-laa}},  {{t-|th|กรุงมะนิลา|tr=grung-má-ní-laa}}
+* Thai: {{t-|th|มะนิลา|tr=má-ní-laa}}, {{t-|th|กรุงมะนิลา|tr=grung-má-ní-laa}}
 {{trans-bottom}}
 
 ===Anagrams===
@@ -72,11 +71,11 @@
 ==German==
 
 ===Proper noun===
-{{head|de|proper noun}}
+{{de-proper noun}}
 
-# Manila
+# {{l|en|Manila}}
 
-[[Category:de:Cities]]
+[[Category:de:Capital cities]]
 
 ----
 
@@ -85,10 +84,12 @@
 ===Proper noun===
 {{it-proper noun|g=f}}
 
-# Manila
+# {{l|en|Manila}}
 
 ===Anagrams===
 * [[lamina#Italian|lamina]]
+
+[[Category:it:Capital cities]]
 
 ----
 
@@ -101,7 +102,7 @@
 ===Proper noun===
 {{sh-proper noun|g=f|head=Mȁnila|r|Манила|Ма̏нила}}
 
-# [[#English|Manila]]
+# {{l|en|Manila}}
 
 [[Category:sh:Cities]]
 
