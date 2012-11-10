@@ -5,7 +5,7 @@
 From {{term|peephole}} + {{term|optimization}}.
 
 ===Noun===
-{{en-noun|sg=[[peephole]] [[optimization]]|-}}
+{{en-noun|head=[[peephole]] [[optimization]]|-}}
 
 # {{programming}} An optimization that works by eliminating redundant instructions from a small area of code.
 #: ''The loop was more than twice as fast after I had applied '''peephole optimization'''.''
