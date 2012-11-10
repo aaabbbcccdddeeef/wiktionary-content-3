@@ -1,6 +1,6 @@
 ==English==
 ===Noun===
-{{en-noun|sg=[[interval]] [[variable]]}}
+{{en-noun|head=[[interval]] [[variable]]}}
 
 # {{statistics}} An [[ordinal variable]] with the additional property that the magnitudes of the differences between two values are meaningful.
 {{examples-right|examples=Absolute time:<br>10PM (today) > 8PM (today)<br>'''10PM (today) - 8PM (today) = 2 hours<br>8PM (today) + 2 hours = 10pm (today)'''<br>2PM + 10PM - ''not defined''<br>10PM / 8PM - ''not defined''<br>10PM * 8PM - ''not defined''<br>10PM * 2 hours - ''not defined''}}
