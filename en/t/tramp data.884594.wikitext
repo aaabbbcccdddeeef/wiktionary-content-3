@@ -1,7 +1,7 @@
 ==English==
 
 ===Noun===
-{{en-noun|-|sg=[[tramp]] [[data]]}}
+{{en-noun|-|head=[[tramp]] [[data]]}}
 
 # {{context|programming}} [[data|Data]] which is passed via one [[function]] to another, and not otherwise used by the first.
 #: ''Functions should use matching variable names for '''tramp data''' to improve readability.''
