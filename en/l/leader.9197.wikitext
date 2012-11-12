@@ -20,8 +20,8 @@ From {{etyl|enm}} {{term|leder|lang=enm}}, {{term|ledere|lang=enm}}, from {{etyl
 # One having authority to direct.
 #: ''We elected her team '''leader'''.''
 # One who leads a political party or group of elected party members; sometimes used in titles.
-#: ''[[w:Leader of the House of Commons|'''Leader''' of the House of Commons]]''
-#: ''[[w:Senate Majority Leader|Senate Majority '''Leader''']]''
+#: ''{{w|Leader of the House of Commons|'''Leader''' of the House of Commons}}''
+#: ''{{w|Senate Majority Leader|Senate Majority '''Leader'''}}''
 # A person or thing that leads in a certain field in terms of excellence, success, etc.
 #: ''The company is the '''leader''' in home remodeling in the county.''
 # {{music}} A performer who leads a band, choir, or a section of an orchestra.
@@ -71,7 +71,6 @@ From {{etyl|enm}} {{term|leder|lang=enm}}, {{term|ledere|lang=enm}}, from {{etyl
 {{rel-bottom}}
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|one having authority}}
 * Amharic: {{t-|am|መሪ|tr=märi|sc=Ethi}}
 * Arabic: {{t-|ar|قائد|m|tr=qaa'id}},  {{t-|ar|زعيم|m|tr=za3iim}},  {{t-|ar|رئيس|m|tr=ra'iis}}
@@ -79,7 +78,6 @@ From {{etyl|enm}} {{term|leder|lang=enm}}, {{term|ledere|lang=enm}}, from {{etyl
 * Catalan: {{t+|ca|líder|m|f}}, {{t-|ca|dirigent|m}}
 * Chinese:
 *: Mandarin: {{t-|cmn|領導|sc=Hani}}, {{t-|cmn|领导|tr=lǐngdǎo|sc=Hani}}, {{t|cmn|領袖|sc=Hani}}, {{t|cmn|领袖|tr=lǐngxiù|sc=Hani}}, {{t|cmn|首領|sc=Hani}},  {{t|cmn|首领|tr=shǒulǐng|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|vođa|m}}, {{t-|sh|vođe|p}}
 * Czech: {{t+|cs|vedoucí}}, {{t-|cs|velitel}}
 * Dutch: {{t+|nl|leider|m}}, {{t-|nl|leidster|f}}, {{t+|nl|aanvoerder|m}}, {{t+|nl|aanvoerster|f}}
 * Esperanto: {{t-|eo|gvidanto}}
@@ -97,9 +95,9 @@ From {{etyl|enm}} {{term|leder|lang=enm}}, {{term|ledere|lang=enm}}, from {{etyl
 {{trans-mid}}
 * Korean: {{t+|ko|지도자|tr=jidoja|sc=Hang}} ({{t+|ko|指導者|sc=Hani}})
 * Kurdish:
-*: Sorani: {{ku-Arab|[[سه‌رۆک]]}}
+*: Sorani: {{t|ku|سه‌رۆک}}
 * Latgalian: {{tø|ltg|vaduojs|m}}
-* Latin: [[dux|dūx]] {{m}}, [[ductor]] {{m}}, [[ductrix]] {{f}}, {{t-|la|duces|p}}
+* Latin: {{t|la|dux|alt=dūx|m}}, {{t|la|ductor|m}}, {{t|la|ductrix|f}}, {{t-|la|duces|p}}
 * Latvian: {{t-|lv|vadonis|m}}
 * Navajo: {{tø|nv|naatʼáanii}}
 * Norwegian: {{t+|no|leder|m}}, {{t-|no|fører|m}}
@@ -109,7 +107,9 @@ From {{etyl|enm}} {{term|leder|lang=enm}}, {{term|ledere|lang=enm}}, from {{etyl
 * Romanian: {{t-|ro|conducător}}
 * Russian: {{t+|ru|руководитель|m|tr=rukovodítel’}}, {{t+|ru|вождь|m|tr=vožd’}},  {{t+|ru|лидер|m|tr=líder}}
 * Scottish Gaelic: {{t-|gd|ceannard|m}}
-* Serbo-Croatian: {{t-|sh|вођа|m|sc=Cyrl}}, {{t-|sh|vođa|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|вођа|m|sc=Cyrl}}
+*: Roman: {{t-|sh|vođa|m}}
 * Spanish: {{t+|es|líder|m|f}}, {{t+|es|dirigente|m}}
 * Swahili: {{t+|sw|kiongozi}}
 * Swedish: {{t+|sv|ledare|c}}
@@ -151,6 +151,7 @@ From {{etyl|enm}} {{term|leder|lang=enm}}, {{term|ledere|lang=enm}}, from {{etyl
 * [[dealer#English|dealer]]
 * [[redeal#English|redeal]]
 
+[[Category:English agent nouns]]
 [[Category:English politically correct terms]]
 
 ----
