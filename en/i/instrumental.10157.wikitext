@@ -6,7 +6,7 @@
 {{Webster 1913}}
 
 ===Etymology===
-From {{etyl|enm}}, from {{etyl|ML.}} ''[[instrumentalis]]'', from ''[[instruere]]'' ("to build into, set up, construct, furnish," hence "to train"), from ''[[in-]]'' ("on") + ''[[struere]]'' ("to put together, arrange, pile up, build, construct"), from {{etyl|ine-pro|en}} {{recons|strew-||to spread, to strew|lang=ine-pro}}.
+From {{etyl|enm}}, from {{etyl|ML.}} {{term|instrumentalis|lang=la}}, from {{term|instruere||to build into, set up, construct, furnish, hence "to train"|lang=la}}, from {{term|in-||on|lang=la}} + {{term|struere||to put together, arrange, pile up, build, construct|lang=la}}, from {{etyl|ine-pro|en}} {{recons|strew-||to spread, to strew|lang=ine-pro}}.
 
 ===Pronunciation===
 * {{audio|en-us-instrumental.ogg|Audio (US)}}
@@ -16,11 +16,11 @@ From {{etyl|enm}}, from {{etyl|ML.}} ''[[instrumentalis]]'', from ''[[instruere]
 
 # Acting as an [[instrument]]; serving as a means; contributing to [[promote]]; [[conductive]]; [[helpful]]; serviceable; [[essential]] or [[central]].
 #: ''He was '''instrumental''' in conducting the business.''
-#* {{rfdate}}, [[w:William Shakespeare|William Shakespeare]], ''[[w:Hamlet|Hamlet]], I,ii''
+#* {{rfdate}}, {{w|William Shakespeare}}, ''{{w|Hamlet}}, I,ii''
 #*: The head is not more native to the heart, The hand more '''instrumental''' to the mouth &mdash;
 # {{music}} Pertaining to, made by, or prepared for, an instrument, especially a musical instrument.
 #: '''''instrumental''' music''
-#* {{rfdate}} [[w:Thomas Babington Macaulay|Thomas Babington Macaulay]]
+#* {{rfdate}} {{w|Thomas Babington Macaulay}}
 #*: He defended the use of '''instrumental''' music in public worship.
 #* Sweet voices mix'd with '''instrumental''' sounds. &mdash; [[w:John Dryden|John Dryden]]
 # {{grammar}} Applied to a [[case]] expressing [[means]] or [[agency]], generally indicated in English by ''by'' or ''with'' with the objective.
@@ -43,11 +43,12 @@ From {{etyl|enm}}, from {{etyl|ML.}} ''[[instrumentalis]]'', from ''[[instruere]
 {{rel-bottom}}
 
 ====Translations====
-{{trans-top|Acting as an instrument; serving as a means; contributing to promote; conductive; helpful; serviceable; essential or central.}}
+{{trans-top|acting as an instrument; serving as a means; contributing to promote; conductive; helpful; serviceable; essential or central.}}
 * Chinese:
 *: Mandarin: {{t|cmn|有幫助的|sc=Hani}}, {{t|cmn|可作為方法的|sc=Hani}}, {{t|cmn|可作為手段的|sc=Hani}}
 {{trans-mid}}
 {{trans-bottom}}
+
 {{trans-top|music}}
 * Dutch: {{t+|nl|instrumentaal}}
 * Finnish: {{t-|fi|instrumentaalinen}}
@@ -58,7 +59,8 @@ From {{etyl|enm}}, from {{etyl|ML.}} ''[[instrumentalis]]'', from ''[[instruere]
 * Spanish: {{t+|es|instrumental}}
 * Turkish: {{t+|tr|aletli}}, {{t-|tr|aletsel}}, {{t+|tr|enstrümantal}}
 {{trans-bottom}}
-{{trans-top|Pertaining to the instrumental case}}
+
+{{trans-top|pertaining to the instrumental case}}
 * Bulgarian: {{t-|bg|творителен|sc=Cyrl}}
 * Finnish: {{t-|fi|instrumentaalinen}}
 * Georgian: {{t+|ka|მოქმედებითი|tr=mok'medebit'i|sc=Geor}}
@@ -78,28 +80,26 @@ From {{etyl|enm}}, from {{etyl|ML.}} ''[[instrumentalis]]'', from ''[[instruere]
 # {{context|countable|music}} A [[composition]] without [[lyrics]].
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|grammatical case}}
 * Armenian: {{t-|hy|գործիական|tr=gorçiakan}}
-* Serbo-Croatian: {{t-|sh|instrumental|m}}
 * Bulgarian: [[творителен падеж]] (tvorítelen padéž) {{m}}
-* Serbo-Croatian: {{t-|sh|instrumental|m}}
 * Czech: {{t-|cs|sedmý pád|m}}
 * Dutch: {{t+|nl|instrumentalis}}
 * Finnish: {{t+|fi|instrumentaali}}
 * French: {{t+|fr|instrumental|m}}
 * Georgian: {{t+|ka|მოქმედებითი|tr=mok'medebit'i|sc=Geor}}
 * German: [[Instrumental-Kasus]] {{m}}
-* Greek: {{t-|el|πειραματική φωνητική|f}},  {{t-|el|εργαστηριακή φωνητική|f}}
+* Greek: {{t-|el|πειραματική φωνητική|f}}, {{t-|el|εργαστηριακή φωνητική|f}}
 {{trans-mid}}
 * Hungarian: [[eszközhatározó eset]] (using [[-vel|-val or -vel]] endings)
 * Icelandic: {{t+|is|tækisfall|n}}
-* Japanese: [[造格]] ([[ぞうかく]], zoukakú), [[具格]] ([[ぐかく]], gukakú)
+* Japanese: {{t|ja|造格|tr=ぞうかく, zoukaku}}, {{t|ja|具格|tr=ぐかく, gukaku}}
 * Korean: {{t-|ko|조격|tr=jogyeok|sc=Kore}}
 * Lithuanian: {{t+|lt|įnagininkas|m}}
 * Polish: {{t+|pl|narzędnik|m}}
-* Russian: [[творительный падеж]] (tvorítel’nyj padéž) {{m}}
-* Slovak: [[siedmy pád]] {{m}}, [[inštrumentál]] {{m}}
+* Russian: {{t|ru|творительный падеж|tr=tvorítel’nyj padéž|m}}
+* Serbo-Croatian: {{t-|sh|instrumental|m}}
+* Slovak: {{t|sk|siedmy pád|m}}, {{t|sk|inštrumentál|m}}
 * Slovene: {{t+|sl|orodnik|m}}
 * Spanish: {{t-|es|caso instrumental|m}}
 * Turkish: {{t+|tr|enstrümantal}}
