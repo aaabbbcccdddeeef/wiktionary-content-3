@@ -1,6 +1,5 @@
 {{also|java|javā}}
 ==English==
-
 {{wikipedia|mul=Java (programming language)}}
 
 ===Etymology===
@@ -16,7 +15,7 @@ In reference to coffee grown on Java and nearby islands from 1850.
 
 # An [[island]] of [[Indonesia]] in the Malay Archipelago.
 # {{computing|trademark}} An [[object-oriented]] computer [[programming language]] similar to C++.
-# {{rfv-sense}} {{computing|proscribed}} [[JavaScript]]
+# {{rfv-sense}} {{computing|proscribed}} [[JavaScript]].
 
 ====Derived terms====
 * [[Java cat]], ''(Zoölogy):'' the [[musang]]
@@ -40,12 +39,12 @@ In reference to coffee grown on Java and nearby islands from 1850.
 * German: {{t+|de|Java}}
 * Hebrew: {{t-|he|ג'אווה}}
 * Hungarian: {{t+|hu|Jáva}}
-* Indonesian: Jawa, [[pulau Jawa]] (island)
+* Indonesian: {{t|id|Jawa}}, {{qualifier|island}} {{t|id|pulau Jawa}}
 {{trans-mid}}
 * Interlingua: {{t-|ia|Java}}
 * Italian: {{t-|it|Giava}}
 * Japanese: {{t-|ja|ジャワ}}, {{t-|ja|ジャワ島}}
-* Javanese: [[Jawa]], [[pulo Jawa]] (Java Island)
+* Javanese: {{t|jv|Jawa}}, {{qualifier|Java Island}} {{t|jv|pulo Jawa}}
 * Khmer: {{t+|km|ជ្វា|sc=Khmr}}
 * Marathi: {{t-|mr|जावा|m|tr=jāvā|sc=Deva}}
 * Persian: {{t-|fa|جاوه|tr=Jâve}}
@@ -58,7 +57,6 @@ In reference to coffee grown on Java and nearby islands from 1850.
 * Volapük: {{t+|vo|Yafeän}}
 {{trans-bottom}}
 
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|programming language}}
 <!-- Trade marks are international. Therefore, make an entry only, if the word is NOT spelled Java in the language concerned or there's a gender to be applied-->
 * Arabic: {{t-|ar|جافا|f|tr=Jāfa, Java}}, {{t-|ar|Java|f|sc=Latn}}
@@ -66,7 +64,6 @@ In reference to coffee grown on Java and nearby islands from 1850.
 * Bulgarian: {{t-|bg|Джава|f|tr=Džáva}}, {{t-|bg|Ява|f|tr=Jáva}}, {{t-|bg|Java|f|tr=Džáva, Jáva|sc=Latn}}
 * Chinese:
 *: Mandarin: {{t-|cmn|爪哇|tr=Zhǎowā or Zhuǎwā|sc=Hani}}, {{t-|cmn|Java|sc=Latn}}
-* Serbo-Croatian: {{t-|sh|Java|f}}
 * Czech: {{t-|cs|Java|f}}
 * Danish: {{t-|da|java|n}}, {{t-|da|Java|n}}
 * Dutch: {{t+|nl|Java|n}}
@@ -77,7 +74,7 @@ In reference to coffee grown on Java and nearby islands from 1850.
 * Hungarian: {{t-|hu|Java}}
 {{trans-mid}}
 * Italian: {{t-|it|Java|m}}
-* Japanese: {{t-|ja|ジャワ|tr=Jawa}}, {{t-|ja|ジャバ|tr=Jaba}}, {{t-|ja|ジャヴァ|tr=Java}}, {{t+|ja|Java|sc=Latn}},
+* Japanese: {{t-|ja|ジャワ|tr=Jawa}}, {{t-|ja|ジャバ|tr=Jaba}}, {{t-|ja|ジャヴァ|tr=Java}}, {{t+|ja|Java|sc=Latn}}
 * Korean: {{t-|ko|자바|tr=Jaba|sc=Hang}}, {{t+|ko|Java|sc=Latn}}
 * Macedonian: {{t-|mk|Џава|f|tr=Džáva}}, {{t-|mk|Јава|f|tr=Jáva}}, {{t-|mk|Java|f|tr=Džáva, Jáva|sc=Latn}}
 * Marathi: {{t-|mr|जावा|f|tr=jāvā|sc=Deva}}
@@ -85,13 +82,15 @@ In reference to coffee grown on Java and nearby islands from 1850.
 * Polish: {{t+|pl|Java}}
 * Portuguese: {{t+|pt|Java|m}}
 * Russian: {{t+|ru|Java|f|tr=Džáva, Jáva}}, {{t-|ru|Джава|f|tr=Džáva}}, {{t+|ru|Ява|f|tr=Jáva}} {{qualifier|colloquial}}, {{t+|ru|жаба|f|alt=Жаба, жаба|tr=Žába}} (''"toad", slang'')
-* Serbo-Croatian: {{t-|sh|Џава|f|tr=Džáva|sc=Cyrl}}, {{t-|sh|Јава|f|tr=Jáva|sc=Cyrl}}, {{t-|sh|Java|f|tr=Džáva, Jáva|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|Џава|f|sc=Cyrl}}, {{t-|sh|Јава|f|sc=Cyrl}}
+*: Roman: {{t|sh|Džáva|f}}, {{t|sh|Java|f}}
 * Thai: {{t-|th|ชวา|tr=chá-waa}}, {{t-|th|Java|sc=Latn}}
 * Ukrainian: {{t-|uk|Джава|f|tr=Džáva}}, {{t-|uk|Ява|tr=Jáva}}, {{t-|uk|Java|f|tr=Džáva, Jáva|sc=Latn}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ia}}: [[caffe]]
+* {{ttbc|ia}}: {{t|ia|caffe}}
 {{trans-bottom}}
 
 [[Category:en:Computer languages]]
@@ -123,7 +122,7 @@ In reference to coffee grown on Java and nearby islands from 1850.
 ==German==
 
 ===Proper noun===
-{{head|de|proper noun}}
+{{de-proper noun}}
 
 # {{l|en|Java}} (the island)
 
@@ -134,7 +133,7 @@ In reference to coffee grown on Java and nearby islands from 1850.
 * {{l|de|javanisch}}
 
 ===Proper noun===
-{{head|de|proper noun}}
+{{de-proper noun}}
 
 # {{l|en|Java}} (the programming language)
 
