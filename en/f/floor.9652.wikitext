@@ -49,7 +49,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|flor|flōr|floor, pavement, ground, 
 {{trans-top|lower part of a room}}
 * Arabic: {{t-|ar|ارضية|alt=أَرْضِيّة|tr='arDiyya(t)}}, {{t+|ar|أرض|f|tr='arD|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|ارضية|alt=أرضيّة|tr='arDiyya(t)|sc=Arab}}
-* Armenian: {{t-|hy|հատակ|tr=hatak}}
+* Armenian: {{t-|hy|հատակ|tr=hatak|sc=Armn}}
 * Belarusian: {{t-|be|падлога|f|tr=padlóha|sc=Cyrl}}
 * Bulgarian: {{t+|bg|под|m|tr=pod|sc=Cyrl}}
 * Catalan: {{t-|ca|sòl|m}}, {{t+|ca|terra|m}}
@@ -65,7 +65,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|flor|flōr|floor, pavement, ground, 
 * French: {{t+|fr|sol|m}}
 * Georgian: {{t-|ka|იატაკი|sc=Geor}}
 * German: {{t+|de|Boden|m}}
-* Greek: {{t+|el|δάπεδο|n}} (ðápeðo), {{t+|el|πάτωμα|n}} (pátoma)
+* Greek: {{t+|el|δάπεδο|n|sc=Grek}} (ðápeðo), {{t+|el|πάτωμα|n|sc=Grek}} (pátoma)
 * Hebrew: {{t|he|רצפה|f|tr=ritzpa|sc=Hebr}}
 * Hindi: {{t-|hi|फ़र्श|m|tr=farś|sc=Deva}}, {{t-|hi|भूतल|tr=bhūtal|sc=Deva}}
 * Hungarian: {{t+|hu|padló}}
@@ -81,14 +81,14 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|flor|flōr|floor, pavement, ground, 
 * Latin: {{t+|la|solum|n}}
 * Latvian: {{t-|lv|grīda|f}}
 * Lithuanian: {{t-|lt|grindys|p}}
-* Macedonian: {{t-|mk|под|m|tr=pod}}, {{t-|mk|патос|m|tr=pátos}}
+* Macedonian: {{t-|mk|под|m|tr=pod|sc=Cyrl}}, {{t-|mk|патос|m|tr=pátos|sc=Cyrl}}
 * Norwegian: {{t+|no|gulv|n}}
 * Old English: {{t-|ang|flor|alt=flōr}}, {{t-|ang|flet}}
 * Persian: {{t+|fa|کف زمین|tr=kaf-e zamin|sc=fa-Arab}}
 * Polish: {{t+|pl|podłoga|f}}
 * Portuguese: {{t+|pt|piso|m}}, {{t+|pt|chão|m}}, {{t+|pt|assoalho|m}}
 * Romanian: {{t+|ro|podea}}, {{t+|ro|planșeu}}
-* Russian: {{t+|ru|пол|tr=pol|m}}
+* Russian: {{t+|ru|пол|m|tr=pol|sc=Cyrl}}
 * Sanskrit: {{t-|sa|भूतल|tr=bhūtal|sc=Deva}}
 * Scottish Gaelic: {{t-|gd|làr|m}}, {{t-|gd|ùrlar|m}}
 * Serbo-Croatian:
@@ -113,7 +113,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|flor|flōr|floor, pavement, ground, 
 {{trans-top|horizontal structure dividing a building}}
 * Finnish: {{t-|fi|välipohja}}
 * German: {{t+|de|Decke|f}}
-* Greek: {{t+|el|όροφος|m}} (órofos), {{t+|el|πάτωμα|n}} (pátoma)
+* Greek: {{t+|el|όροφος|m|sc=Grek}} (órofos), {{t+|el|πάτωμα|n|sc=Grek}} (pátoma)
 {{trans-mid}}
 * Scottish Gaelic: {{t-|gd|ùrlar|m}}
 * Swahili: {{t+|sw|sakafu}}
@@ -123,15 +123,15 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|flor|flōr|floor, pavement, ground, 
 * Finnish: {{t+|fi|kansi}}
 * German: {{t+|de|Plattform|f}}, {{t+|de|Decke|f}}
 {{trans-mid}}
-* Greek: {{t+|el|πυθμένας|m}} (pithménas)
+* Greek: {{t+|el|πυθμένας|m|sc=Grek}} (pithménas)
 * Swahili: {{t+|sw|sakafu}}
 {{trans-bottom}}
 
 {{trans-top|storey/story}}
 * American Sign Language: {{tø|ase|B@InsideChesthigh-PalmDown-B@InsideChesthigh-PalmDown B@SideChesthigh-PalmDown-B@SideChesthigh-PalmDown}}
-* Arabic: {{t-|ar|طابق|m|alt=طابِق|tr=Taabiq}}, {{t-|ar|دور|m|tr=duur|sc=Arab}}
+* Arabic: {{t-|ar|طابق|m|alt=طابِق|tr=Taabiq|sc=Arab}}, {{t-|ar|دور|m|tr=duur|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|دور|m|tr=dawr|sc=Arab}}
-* Armenian: {{t-|hy|հարկ|tr=hark}}
+* Armenian: {{t-|hy|հարկ|tr=hark|sc=Armn}}
 * Belarusian: {{t-|be|паверх|m|tr=pavérx|sc=Cyrl}}
 * Bulgarian: {{t+|bg|етаж|m|tr=etáž|sc=Cyrl}}
 * Chinese:
@@ -143,8 +143,8 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|flor|flōr|floor, pavement, ground, 
 * Finnish: {{t+|fi|kerros}}
 * French: {{t+|fr|étage|m}}
 * German: {{t+|de|Stock|m}}, {{t+|de|Etage|f}}, {{t+|de|Geschoß|n}}
-* Greek: {{t+|el|όροφος|m}} (órofos), {{t+|el|πάτωμα|n}} (pátoma)
-* Hebrew: {{t-|he|קומה|f|alt=קוֹמָה|tr=komá}}
+* Greek: {{t+|el|όροφος|m|sc=Grek}} (órofos), {{t+|el|πάτωμα|n|sc=Grek}} (pátoma)
+* Hebrew: {{t-|he|קומה|f|alt=קוֹמָה|tr=komá|sc=Hebr}}
 * Hindi: {{t-|hi|मंजिल|f|tr=manzil|sc=Deva}}
 * Hungarian: {{t+|hu|emelet}}
 * Icelandic: {{t+|is|hæð|f}}
@@ -155,12 +155,12 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|flor|flōr|floor, pavement, ground, 
 * Kurdish: {{t+|ku|qat|f}}, {{t+|ku|tebeq|f}}
 * Latvian: {{t-|lv|stāvs|m}}
 * Lithuanian: {{t+|lt|aukštas|m}}
-* Macedonian: {{t-|mk|спрат|m|tr=sprat}}, {{t-|mk|кат|m|tr=kat}}
+* Macedonian: {{t-|mk|спрат|m|tr=sprat|sc=Cyrl}}, {{t-|mk|кат|m|tr=kat|sc=Cyrl}}
 * Norwegian: (bokmål) {{t+|no|etasje|n}}
 * Persian: {{t+|fa|طبقه|tr=tabaqe|sc=fa-Arab}}
 * Polish: {{t+|pl|piętro|n}}, {{t+|pl|kondygnacja|f}}
 * Portuguese: {{t+|pt|andar|m}}
-* Russian: {{t+|ru|этаж|tr=etáž|m}}
+* Russian: {{t+|ru|этаж|m|tr=etáž|sc=Cyrl}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|спрат|m|sc=Cyrl}}, {{t-|sh|кат|m|sc=Cyrl}}
 *: Roman: {{t|sh|sprat|m}}, {{t-|sh|kat|m}}
@@ -180,14 +180,14 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|flor|flōr|floor, pavement, ground, 
 * Finnish: {{t+|fi|sali}}
 * German: {{t+|de|Etage|f}}
 {{trans-mid}}
-* Greek: {{t+|el|έδρανο|n}} (éðrano), {{t+|el|έδρανα|n|p}} (éðrana)
+* Greek: {{t+|el|έδρανο|n|sc=Grek}} (éðrano), {{t+|el|έδρανα|n|p|sc=Grek}} (éðrana)
 * Swahili: {{t+|sw|sakafu}}
 {{trans-bottom}}
 
 {{trans-top|right to speak in a legislative assembly}}
 * Finnish: {{t|fi|puheenvuoro}}
 * French: {{t+|fr|parole}}
-* Russian: {{t+|ru|слово|n|tr=slóvo}}
+* Russian: {{t+|ru|слово|n|tr=slóvo|sc=Cyrl}}
 {{trans-mid}}
 * Spanish: {{t+|es|palabra|f}}
 * Swahili: {{t+|sw|sakafu}}
@@ -243,7 +243,7 @@ From {{etyl|enm}}, from {{etyl|ang}} {{term|flor|flōr|floor, pavement, ground, 
 * Danish: {{t-|da|lægge gulv}}
 * German: {{t+|de|belegen}}
 * Italian: {{t+|it|pavimentare}}
-* Macedonian: {{t-|mk|поподува|tr=popóduva}}, {{t-|mk|патосува|tr=patósuva}}
+* Macedonian: {{t-|mk|поподува|tr=popóduva|sc=Cyrl}}, {{t-|mk|патосува|tr=patósuva|sc=Cyrl}}
 * Russian: [[настилать]] [[пол#Russian|пол]] (nastilát’ pol)
 {{trans-mid}}
 * Scottish Gaelic: {{t-|gd|ùrlaraich}}
