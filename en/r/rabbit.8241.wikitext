@@ -9,7 +9,7 @@
 * {{audio|en-us-rabbit.ogg|Audio (US)}}
 * {{rhymes|æbɪt}}
 * {{a|Australia}} {{enPR|răb'ət}}, {{IPA|/ˈræbət/}}, {{X-SAMPA|/"r{b@t/}}
-* Homophones: [[rabbet]]
+* {{homophones|rabbet}}
 
 ===Etymology 1===
 From {{etyl|enm}} {{term|rabet|lang=enm}}, from {{etyl|frm}} dialect (compare {{etyl|fr|-}} dialect {{term|rabbotte|lang=frm}}, {{term|rabouillet||baby rabbit|lang=frm}}), from {{etyl|wa}} {{term|robète|lang=wa}}, diminutive of {{etyl|dum}} {{term|robbe||rabbit; seal|lang=dum}} (compare {{etyl|nl|-}} {{term|rob||rabbit|lang=nl}}, {{term|rob||seal|lang=nl}}), from Middle Low German {{term|robbe||seal|lang=gml}} (compare Low German dialect {{term||Rubb}}, {{term|Robb|lang=nds}}), from {{term|rubben||ro rub|lang=gml}}. More at {{l|en|rub}}.
@@ -48,13 +48,13 @@ From {{etyl|enm}} {{term|rabet|lang=enm}}, from {{etyl|frm}} dialect (compare {{
 =====Translations=====
 {{trans-top|mammal}}
 * Aguaruna: {{tø|agr|wapuhuš}}
-* Alabama: [[chokfi]]
+* Alabama: {{t|akz|chokfi}}
 * Albanian: {{t-|sq|lepur i gropave}}
 * Arabic: {{t-|ar|ارنب|m|alt=أرْنَب|tr=’árnab}}
 *: Egyptian Arabic: {{tø|arz|ارنب|m|tr='arnab|sc=Arab}}
 * Armenian: {{t-|hy|ճագար|tr=č̣agar|sc=Armn}}
 * {{trreq|rup}}
-* {{trreq|ast}}
+* Asturian: {{t|ast|conexu|m}}
 * Azeri: {{t+|az|dovşan}}
 * {{trreq|ba}}
 * Basque: {{t|eu|untxi}}
@@ -63,9 +63,9 @@ From {{etyl|enm}} {{term|rabet|lang=enm}}, from {{etyl|frm}} dialect (compare {{
 * Breton: {{t|br|lapin}}, {{t|br|konikl}}
 * Bulgarian: {{t+|bg|заек|m|tr=zaek}}
 * {{trreq|my}}
-* Catalan: {{t+|ca|conill}}
+* Catalan: {{t+|ca|conill|m}}
 * Cherokee: {{t|chr|ᏥᏍᏚ|tr=tsisdu}}
-* Chickasaw: [[chokfi]]
+* Chickasaw: {{t|cic|chokfi}}
 * Chinese:
 *: Mandarin: {{t|cmn|兔子|tr=tùzi|sc=Hani}}, {{qualifier|white rabbit}} {{t|cmn|白兔|tr=báitù|sc=Hani}}
 * Czech: {{t-|cs|králík|m}}
@@ -79,7 +79,7 @@ From {{etyl|enm}} {{term|rabet|lang=enm}}, from {{etyl|frm}} dialect (compare {{
 * Finnish: {{t+|fi|kaniini}}, {{t+|fi|kani}}
 * French: {{t+|fr|lapin|m}}
 * Friulian: {{t|fur|cunin}}
-* Galician: {{t|gl|coello}}
+* Galician: {{t|gl|coello|m}}
 * Georgian: {{t-|ka|ბოცვერი|tr=botc'veri|sc=Geor}}
 * German: {{t+|de|Kaninchen|n}}, {{t+|de|Karnickel|n}} {{qualifier|colloquial}}
 * Goguryeo: {{tø|zkg|烏斯含|tr=eosaham}}
@@ -105,16 +105,16 @@ From {{etyl|enm}} {{term|rabet|lang=enm}}, from {{etyl|frm}} dialect (compare {{
 * Korean: {{t+|ko|토끼|tr=tokki|sc=Hang}}
 * Kurdish:
 *: Kurmanji: {{t|ku|kêroşk}}, {{t|ku|xirrnîfk}}
-*: Sorani: {{ku-Arab|[[که‌روێشک]]}} (kêrwişk)
+*: Sorani: {{t|ku|که‌روێشک|tr=kêrwişk}}
 * {{trreq|ky}}
-* Ladin: [[conicio]]
-* Ladino: [[konejo]]
+* Ladin: {{t|lld|conicio}}
+* Ladino: {{t|lad|konejo}}
 * Latin: {{t+|la|cuniculus|alt=cunīculus|m}}
 * Latvian: {{t|lv|trusis}}
 * Lithuanian: {{t+|lt|triušis}}
 * Lojban: {{t-|jbo|ractu}}
 {{trans-mid}}
-* Lower Sorbian: [[karnikel]]
+* Lower Sorbian: {{t|dsb|karnikel}}
 * {{trreq|lb}}
 * Macedonian: {{t|mk|заjак|m|tr=zajak}}
 * Malay:
@@ -128,9 +128,9 @@ From {{etyl|enm}} {{term|rabet|lang=enm}}, from {{etyl|frm}} dialect (compare {{
 * Maricopa: {{tø|mrc|xalyaw}}
 * {{trreq|mwl}}
 * Montagnais: {{tø|moe|uapush}}
-* Nahuatl: [[tochtli]]
+* Nahuatl: {{t|nah|tochtli}}
 * Navajo: {{tø|nv|gah}}
-* Northern Sami: [[kaniidna]]
+* Northern Sami: {{t|se|kaniidna}}
 * Norwegian: {{t+|no|kanin|m}}
 * O'odham: {{tø|ood|tohbi}}
 * Occitan: {{t|oc|conilh|m}}, {{t|oc|lapin|m}}
@@ -138,7 +138,7 @@ From {{etyl|enm}} {{term|rabet|lang=enm}}, from {{etyl|frm}} dialect (compare {{
 * Persian: {{t+|fa|خرگوش|tr=xarguš|sc=fa-Arab}}
 * Polish: {{t+|pl|królik|m}}
 * Portuguese: {{t+|pt|coelho|m}}
-* Romani: [[shoshoy]] {{m}}, [[shoshni]] {{f}}
+* Romani: {{t|rom|shoshoy|m}}, {{t|rom|shoshni|f}}
 * Romanian: {{t|ro|iepure}}, {{t|ro|iepure de vizuină}}
 * Romansch: {{t|rm|cunigl}}
 * Russian: {{t+|ru|кролик|m|tr=królik}}, {{t+|ru|крольчиха|f|tr=krol’číxa}}
@@ -158,9 +158,9 @@ From {{etyl|enm}} {{term|rabet|lang=enm}}, from {{etyl|frm}} dialect (compare {{
 * Spanish: {{t+|es|conejo|m}}
 * Swahili: {{t+|sw|sungura}}
 * Swedish: {{t+|sv|kanin|c}}
-* Tagalog: [[kuneho]]
+* Tagalog: {{t|tl|kuneho}}
 * Tamil: {{t+|ta|முயல்|tr=|sc=Taml}}
-* Taos: [[pȉwéna]]
+* Taos: {{t|twf|pȉwéna}}
 * Telugu: {{t|te|కుందేలు|tr=kuṅdēlu}}
 * Thai: {{t+|th|กระต่าย|tr=kratàai}}
 * Tibetan: {{t-|bo|ཡོས|tr=yos|sc=Tibt}}
@@ -169,7 +169,7 @@ From {{etyl|enm}} {{term|rabet|lang=enm}}, from {{etyl|frm}} dialect (compare {{
 * Tz'utujil: [[umul]]
 * Tzotzil: [[t'ul]]
 * Ukrainian: {{t-|uk|кріль|m|tr=kril’}}, {{t+|uk|кролик|m|tr=królyk}}
-* Upper Sorbian: [[nukl]]
+* Upper Sorbian: {{t|hsb|nukl}}
 * Urdu: {{t-|ur|خرگوش|m|tr=xargoś|sc=ur-Arab}}, {{t-|ur|ششک|m|tr=śaśak|sc=ur-Arab}}
 * Uzbek: {{t-|uz|quyon}}
 * Venetian: {{tø|vec|cunicio|m}}
@@ -208,7 +208,7 @@ From {{etyl|enm}} {{term|rabet|lang=enm}}, from {{etyl|frm}} dialect (compare {{
 {{en-verb|rabbits|'''[[rabbitting]]''' or '''[[rabbiting]]'''|'''[[rabbitted]]''' or '''[[rabbited]]'''}}
 
 # {{intransitive}} To [[hunt]] rabbits.
-# {{US|intransitive}} to [[flee]].
+# {{US|intransitive}} To [[flee]].
 #: ''The informant seemed skittish, as if he was about to '''rabbit'''.
 
 =====Synonyms=====
@@ -229,7 +229,7 @@ From {{etyl|enm}} {{term|rabet|lang=enm}}, from {{etyl|frm}} dialect (compare {{
 {{mid2}}
 * [[kitten]]
 * [[warren]]
-* [[w:rabbit|Wikipedia article on the rabbit]]
+* {{pedia}}
 {{bottom}}
 
 ===Etymology 2===
@@ -238,7 +238,7 @@ From [[Cockney rhyming slang]] ''[[rabbit and pork]]'', to talk.
 ====Verb====
 {{en-verb|rabbits|rabbiting|rabbited}}
 
-# {{British|intransitive}} to talk [[incessantly]] and in a childish manner; to [[babble]] annoyingly.
+# {{British|intransitive}} To talk [[incessantly]] and in a childish manner; to [[babble]] annoyingly.
 #: ''Stop your infernal '''rabbiting'''! Use proper words or nobody will listen to you!''
 #: Commonly used in the form "to rabbit on"
 
@@ -255,8 +255,8 @@ From [[Cockney rhyming slang]] ''[[rabbit and pork]]'', to talk.
 
 ====See also====
 * [[chew the fat]]
-* [[chew the cud]] {{British}}
-* [[shoot the breeze]] {{US}}
+* [[chew the cud]] {{qualifier|British}}
+* [[shoot the breeze]] {{qualifier|US}}
 
 [[Category:en:Mammals]]
 [[Category:en:Rabbits]]
