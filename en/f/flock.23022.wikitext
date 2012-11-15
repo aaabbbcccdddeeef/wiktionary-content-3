@@ -30,11 +30,11 @@ From {{etyl|enm|en}} {{term|flock||flock|lang=enm}}, from {{etyl|ang|en}} {{term
 {{trans-top|group of birds}}
 * Albanian: {{t+|sq|bandë|f|sc=Beng}}
 * Anglo-Norman: {{tø|xno|fulc|m}}
-* Arabic: {{t+|ar|أبابيل|m|tr=ʾabābīl}},  {{t-|ar|سرب|m|tr=sirb}}
-* Armenian: {{t-|hy|երամ|tr=eram}}
+* Arabic: {{t+|ar|أبابيل|m|tr=ʾabābīl|sc=Arab}}, {{t-|ar|سرب|m|tr=sirb|sc=Arab}}
+* Armenian: {{t-|hy|երամ|tr=eram|sc=Armn}}
 * Basque: {{t-|eu|banda|sc=Beng}}
 * Belarusian: {{t-|be|зграя|f|tr=zhrája|sc=Cyrl}}, {{t-|be|стая|f|tr=stája|sc=Cyrl}}
-* Bulgarian: {{t+|bg|ято|n|tr=játo}}
+* Bulgarian: {{t+|bg|ято|n|tr=játo|sc=Cyrl}}
 * Catalan: {{t-|ca|bandada|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|群|tr=qún|sc=Hani}}
@@ -45,7 +45,7 @@ From {{etyl|enm|en}} {{term|flock||flock|lang=enm}}, from {{etyl|ang|en}} {{term
 * French: {{t+|fr|vol|m}}, {{t+|fr|bande|f}}, {{t+|fr|groupe|m}}, {{t+|fr|nuée|f}}
 * Georgian: {{t-|ka|ჯგუფის|tr=jgup'is|sc=Geor}}
 * German: {{t+|de|Schwarm|m}}, {{t|de|Schar|f}}
-* Greek: {{t+|el|σμήνος|m|tr=smínos}}, {{t+|el|κοπάδι|n|tr=kopádi}}
+* Greek: {{t+|el|σμήνος|m|tr=smínos|sc=Grek}}, {{t+|el|κοπάδι|n|tr=kopádi|sc=Grek}}
 * Hebrew: {{t+|he|להקה|f|tr=l'haká|alt=לְהָקָה|sc=Hebr}}
 * Hungarian: {{t+|hu|sereg}}, {{t+|hu|raj}}, {{t+|hu|csapat}}
 * Icelandic: {{t+|is|flokkur|m}}, {{t+|is|hópur|m}}
@@ -60,35 +60,33 @@ From {{etyl|enm|en}} {{term|flock||flock|lang=enm}}, from {{etyl|ang|en}} {{term
 * Polish: {{t+|pl|stado|n}}
 * Portuguese: {{t+|pt|bando|m}}
 * Romanian: {{t-|ro|stol|n}}
-* Russian: {{t+|ru|стая|f|tr=stája}}
+* Russian: {{t+|ru|стая|f|tr=stája|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|ealt|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|јато|n}}
+*: Cyrillic: {{t-|sh|јато|n|sc=Cyrl}}
 *: Roman: {{t-|sh|jato|n}}
 * Slovak: {{t-|sk|kŕdeľ|f}}
 * Slovene: {{t-|sl|jata|f}}
 * Spanish: {{t+|es|bandada|f}}
 * Swedish: {{t+|sv|flock|c}}
 * Tagalog: {{t-|tl|gasa|sc=Hani}}, {{t+|tl|banda|sc=Hani}}
-* Telugu: [[గుంపు]] (guMpu)
-* Thai: {{t-|th|ฝูง|tr=fŏong}}, {{t+|th|หมู่|tr=mòo}}
+* Telugu: {{t|te|గుంపు|tr=guMpu|sc=Telu}}
+* Thai: {{t-|th|ฝูง|tr=fŏong|sc=Thai}}, {{t+|th|หมู่|tr=mòo|sc=Thai}}
 * Turkish: {{t+|tr|sürü}}
 * Ukrainian: {{t-|uk|стая|f|tr=stája|sc=Cyrl}}, {{t+|uk|зграя|f|tr=zhrája|sc=Cyrl}}
 * Vietnamese: {{t+|vi|đàn}}, {{t+|vi|bầy}}
 {{trans-bottom}}
 
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|group of sheep or goats}}
 * Albanian: {{t-|sq|tufë|f|sc=Beng}}
 * Anglo-Norman: {{tø|xno|fulc|m}}
-* Armenian: {{t-|hy|հոտ|tr=hot}}
+* Armenian: {{t-|hy|հոտ|tr=hot|sc=Armn}}
 * Basque: {{t-|eu|artalde}}
 * Bengali: {{t-|bn|পশুপালক|tr=paśupālaka|sc=Cyrl}}
 * Bulgarian: {{t+|bg|стадо|m|tr=stado|sc=Cyrl}}
 * Catalan: {{t-|ca|ramat|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|群|tr=qún|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|stado|n}}
 * Czech: {{t-|cs|stádo|n}}
 * Danish: {{t-|da|flok|c}}
 * Dutch: {{t+|nl|kudde|m}}
@@ -97,7 +95,7 @@ From {{etyl|enm|en}} {{term|flock||flock|lang=enm}}, from {{etyl|ang|en}} {{term
 * French: {{t+|fr|troupeau|m}}
 * Georgian: {{t-|ka|ნახირი|tr=nakhiri|sc=Geor}}
 * German: {{t+|de|Herde|f}}
-* Greek: {{t+|el|κοπάδι|n|tr=kopádi}}
+* Greek: {{t+|el|κοπάδι|n|tr=kopádi|sc=Grek}}
 * Hebrew: {{t+|he|עדר|m|tr=eder|sc=Hebr}}
 * Hungarian: {{t+|hu|nyáj}}, {{t+|hu|falka}}
 * Icelandic: {{t+|is|hjörð|f}}
@@ -113,15 +111,17 @@ From {{etyl|enm|en}} {{term|flock||flock|lang=enm}}, from {{etyl|ang|en}} {{term
 * Polish: {{t+|pl|stado|n}}
 * Portuguese: {{t+|pt|rebanho|m}}
 * Romanian: {{t-|ro|turmă|f}}
-* Russian: {{t+|ru|стадо|n|tr=stádo}}, {{t+|ru|отара|f|tr=otára}}
-* Serbo-Croatian: {{t-|sh|стадо|n|tr=stado|sc=Cyrl}}
+* Russian: {{t+|ru|стадо|n|tr=stádo|sc=Cyrl}}, {{t+|ru|отара|f|tr=otára|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|стадо|n|sc=Cyrl}}
+*: Roman: {{t-|sh|stado|n}}
 * Slovak: {{t-|sk|stádo|m}}
 * Slovene: {{t+|sl|čreda|f|alt=čréda}}
 * Spanish: {{t+|es|hato|m}}, {{t+|es|manada|f}}, {{t+|es|rebaño|m}}
 * Swahili: {{t+|sw|ng'ombe}}
-* Swedish: {{t+|sv|flock|c}},  {{t+|sv|hjord|c}}
+* Swedish: {{t+|sv|flock|c}}, {{t+|sv|hjord|c}}
 * Tagalog: {{t-|tl|ganado|sc=Hani}}
-* Thai: {{t-|th|ฝูง|tr=fŏong}}, {{t+|th|หมู่|tr=mòo}}
+* Thai: {{t-|th|ฝูง|tr=fŏong|sc=Thai}}, {{t+|th|หมู่|tr=mòo|sc=Thai}}
 * Turkish: {{t+|tr|sürü}}
 * Vietnamese: {{t-|vi|chăn trâu}}
 {{trans-bottom}}
@@ -135,7 +135,9 @@ From {{etyl|enm|en}} {{term|flock||flock|lang=enm}}, from {{etyl|ang|en}} {{term
 {{trans-mid}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|civat}} {{f}}, {{t+|ku|cemaet}} {{f}}
-* Serbo-Croatian: {{t-|sh|паства|f|sc=Cyrl}}, {{t-|sh|стадо|n|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|паства|f|sc=Cyrl}}, {{t-|sh|стадо|n|sc=Cyrl}}
+*: Roman: {{t-|sh|pastva|f}}, {{t-|sh|stado|n}}
 * Spanish: {{t-|es|congregación|f}}, {{t+|es|grey|m}}
 {{trans-bottom}}
 
@@ -146,7 +148,9 @@ From {{etyl|enm|en}} {{term|flock||flock|lang=enm}}, from {{etyl|ang|en}} {{term
 * Kurdish:
 *: Kurmanji: {{t+|ku|kom}} {{f}}, {{t+|ku|ref}} {{f}}, {{t+|ku|coq}} {{f}}
 {{trans-mid}}
-* Serbo-Croatian: {{t-|sh|пук|m|sc=Cyrl}}, {{t-|sh|светина|f|sc=Cyrl}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|пук|m|sc=Cyrl}}, {{t-|sh|светина|f|sc=Cyrl}}
+*: Roman: {{t-|sh|puk|m}}, {{t-|sh|svetina|f}}
 * Turkish: {{t|tr|sürü}} {{qualifier|colloquial}}
 {{trans-bottom}}
 
@@ -162,9 +166,9 @@ From {{etyl|enm|en}} {{term|flock||flock|lang=enm}}, from {{etyl|ang|en}} {{term
 {{trans-mid}}
 * Portuguese: {{t+|pt|rebanho|m}}
 * Romanian: {{t-|ro|ceată}}, {{t-|ro|mulțime|f}}
-* Russian: {{t+|ru|паства|f|tr=pástva}}, {{t+|ru|группа|f|tr=grúppa}}
+* Russian: {{t+|ru|паства|f|tr=pástva|sc=Cyrl}}, {{t+|ru|группа|f|tr=grúppa|sc=Cyrl}}
 * Swedish: {{t+|sv|flock|c}}, {{t+|sv|hop}}, {{t+|sv|folkmassa}}
-* Thai: {{t+|th|หมู่|tr=mòo}}, {{t-|th|ฝูง|tr=fŏong}}, {{t+|th|เฮ|tr=hay}}
+* Thai: {{t+|th|หมู่|tr=mòo|sc=Thai}}, {{t-|th|ฝูง|tr=fŏong|sc=Thai}}, {{t+|th|เฮ|tr=hay|sc=Thai}}
 * Turkish: [[sürü]] taboo
 {{trans-bottom}}
 
@@ -178,12 +182,12 @@ From {{etyl|enm|en}} {{term|flock||flock|lang=enm}}, from {{etyl|ang|en}} {{term
 * Esperanto: {{t-|eo|ariĝi}}
 * Finnish: {{t+|fi|kokoontua}}, {{t-|fi|kerääntyä}}
 * Icelandic: {{t-|is|hópast saman}}
-* Italian: {{t-|it|affollarsi}},  {{t-|it|accalcarsi}}
+* Italian: {{t-|it|affollarsi}}, {{t-|it|accalcarsi}}
 {{trans-mid}}
-* Japanese: [[mureru]]
-* Russian: {{t-|ru|стекаться}}, {{qualifier|somewhat}} {{t+|ru|сбиваться}} (в стаю)
+* Japanese: {{t|ja|mureru|sc=Jpan}}
+* Russian: {{t-|ru|стекаться|sc=Cyrl}}, {{qualifier|somewhat}} {{t+|ru|сбиваться|sc=Cyrl}} (в стаю)
 * Swedish: {{t-|sv|flockas}}
-* Telugu: [[గుమిగూడు]] (gumigUDu)
+* Telugu: {{t|te|గుమిగూడు|tr=gumigUDu|sc=Telu}}
 {{trans-bottom}}
 
 {{trans-top|to coat}}
@@ -205,7 +209,7 @@ From {{etyl|enm|en}} {{term|flok||tuft of wool|lang=enm}}, from {{etyl|fro|en}} 
 * Finnish: {{t+|fi|vanu}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|pihe}}, {{t-|hu|pamat}}
-* Romanian: {{t-|ro|scamă}},  {{t-|ro|floc}}
+* Romanian: {{t-|ro|scamă}}, {{t-|ro|floc}}
 {{trans-bottom}}
 
 ====Verb====
