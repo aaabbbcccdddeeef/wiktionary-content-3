@@ -54,26 +54,24 @@
 * [[xerogarden]]
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|decorative piece of land outside with flowers and plants}}
 * Afrikaans: {{t-|af|tuin}}
 * Albanian: {{t-|sq|kopsht|m}}
 * Alviri-Vidari: {{tø|avd|باغ|tr=bāğ}}
-* Arabic: {{t+|ar|حديقة|f|alt=حَديقة|tr=ḥadīqa}}
+* Arabic: {{t+|ar|حديقة|f|alt=حَديقة|tr=ḥadīqa|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|جنينة|f|tr=ginayna(t)|sc=Arab}}
 *: Morocco: {{tø|ary|جاردة|tr=žārda|sc=Arab}}
 * Aramaic:
 *: Syriac: [[ܓܢܬܐ]] (gantā, ganto) {{f}}
-* Armenian: {{t+|hy|այգի|tr=aygi}}, {{t-|hy|պարտեզ|tr=partez}}
+* Armenian: {{t+|hy|այգի|tr=aygi|sc=Armn}}, {{t-|hy|պարտեզ|tr=partez|sc=Armn}}
 * Asturian: [[xardín]]
-* Baluchi: {{tø|bal|باگ|tr=bág}}
+* Baluchi: {{tø|bal|باگ|tr=bág|sc=fa-Arab}}
 * Belarusian: {{t-|be|сад|m|tr=sad|sc=Cyrl}}
 * Bengali: {{t-|bn|উদ্দ্যান|tr=uddyān|sc=Beng}}
 * Bulgarian: {{t+|bg|градина|f|tr=gradína|sc=Cyrl}}
 * Catalan: {{t-|ca|jardí|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|花園|sc=Hani}}, {{t|cmn|花园|tr=huāyuán|sc=Hani}}
-* Serbo-Croatian: {{t+|sh|vrt|m}}
 * Czech: {{t+|cs|zahrada|f}}
 * Danish: {{t+|da|have}}
 * Dutch: {{t+|nl|tuin|m}}
@@ -106,18 +104,20 @@
 * Latin: {{t+|la|hortus}}
 * Latvian: {{t-|lv|dārzs|m}}
 * Lithuanian: {{t+|lt|sodas}}
-* Macedonian: {{t-|mk|градина|f|tr=grádina}}
+* Macedonian: {{t-|mk|градина|f|tr=grádina|sc=Cyrl}}
 * Marathi: {{t-|mr|बगीचा|sc=Deva}}
 * Norman: [[gardîn]]
 * Norwegian: {{t+|no|hage|m}}, {{t+|no|have|m}}
 * Ojibwe: {{tø|oj|gitigaan}}
-* Persian: {{t+|fa|باغ|tr=bâğ}}, {{t+|fa|باغچه|tr=bâğče}}
+* Persian: {{t+|fa|باغ|tr=bâğ|sc=fa-Arab}}, {{t+|fa|باغچه|tr=bâğče|sc=fa-Arab}}
 * Polish: {{t+|pl|sad}}, {{t+|pl|ogród|m}}
 * Portuguese: {{t+|pt|jardim|m}}
 * Romanian: {{t+|ro|grădină|f}}
-* Russian: {{t+|ru|сад|m|tr=sad}}; {{t+|ru|огород|m|tr=ogoród}} {{qualifier|vegetable garden}}
+* Russian: {{t+|ru|сад|m|tr=sad|sc=Cyrl}}; {{t+|ru|огород|m|tr=ogoród|sc=Cyrl}} {{qualifier|vegetable garden}}
 * Scottish Gaelic: {{t-|gd|gàrradh|m}}
-* Serbo-Croatian: [[vrtnjak]], [[povrtnjak]], [[sad]], [[sadnjak]], [[posadnjak]]
+* Serbo-Croatian:
+*: Cyrillic: [[вртњак]], [[повртњак]], [[сад]], [[садњак]], [[посадњак]], {{t|sh|врт|m|sc=Cyrl}}
+*: Roman: [[vrtnjak]], [[povrtnjak]], [[sad]], [[sadnjak]], [[posadnjak]], {{t+|sh|vrt|m}}
 * Slovak: {{t-|sk|záhrada|f}}, {{t-|sk|záhradka|f}}
 * Slovene: {{t+|sl|vrt|m}}
 * Spanish: {{t+|es|jardín|m}}
@@ -138,7 +138,7 @@
 {{trans-bottom}}
 
 {{trans-top|gardens with public access}}
-* Armenian: {{t-|hy|զբոսայգի|tr=zbosaygi}}, {{t+|hy|այգի|tr=aygi}}
+* Armenian: {{t-|hy|զբոսայգի|tr=zbosaygi|sc=Armn}}, {{t+|hy|այգի|tr=aygi|sc=Armn}}
 * Catalan: {{t-|ca|jardí|m}}, {{t+|ca|parc|m}}, jardí [[públic]] {{m}}
 * Czech: {{t+|cs|zahrada|f}}
 * Danish: {{t+|da|have}}, {{t+|da|park}}, {{t-|da|anlæg}}
@@ -158,12 +158,12 @@
 * Kurdish: ([[bax]]) {{m}}, ([[baxçe]]) {{m}}, {{ku-Arab|[[باخچه‌]]}}, {{ku-Arab|[[باغ]]}}, {{ku-Arab|[[باخ]]}}
 * Latvian: {{t-|lv|parks|m}}
 * Lithuanian: {{t+|lt|parkas|m}}
-* Macedonian: {{t-|mk|градина|f|tr=grádina}}
+* Macedonian: {{t-|mk|градина|f|tr=grádina|sc=Cyrl}}
 * Norwegian: {{t+|no|park|m}}
 * Persian: {{t+|fa|پردیس|tr=pardis|sc=fa-Arab}}, {{t+|fa|بوستان|tr=bustān|sc=fa-Arab}}, {{t+|fa|پارک|tr=pārk|sc=fa-Arab}}
 * Polish: {{t+|pl|ogród|m}}
 * Romanian: [[parc]] {{n}}, [[grădina publică]] {{f}}, {{t-|ro|crâng public|n}}
-* Russian: {{t+|ru|сад|m|tr=sad}}
+* Russian: {{t+|ru|сад|m|tr=sad|sc=Cyrl}}
 * Slovak: [[záhrada#Slovak|záhrada]] {{f}}, [[záhradka]] {{f}}
 * Slovene: {{t+|sl|vrt|m}}
 * Spanish: {{t-|es|jardines|m|p}}
@@ -193,12 +193,12 @@
 {{trans-mid}}
 * Jèrriais: {{tø|roa-jer|gardîn|m}}
 * Kurdish: [[dermal]] {{f}}, [[baxçe]] {{m}}, [[bax]] {{m}}
-* Macedonian: {{t-|mk|градина|f|tr=grádina}}, {{t-|mk|двор|m|tr=dvor}}
+* Macedonian: {{t-|mk|градина|f|tr=grádina|sc=Cyrl}}, {{t-|mk|двор|m|tr=dvor|sc=Cyrl}}
 * Norwegian: {{t+|no|hage|m}}, {{t-|no|tomt|m}}
 * Persian: {{t+|fa|باغچه|tr=bāqĉe|sc=fa-Arab}}
 * Polish: {{t+|pl|ogród|m}}, {{t+|pl|działka|f}}
 * Romanian: {{t+|ro|grădină|f}}
-* Russian: {{t+|ru|сад|m|tr=sad}}; {{t+|ru|огород|m|tr=ogoród}} {{qualifier|vegetable garden}}
+* Russian: {{t+|ru|сад|m|tr=sad|sc=Cyrl}}; {{t+|ru|огород|m|tr=ogoród|sc=Cyrl}} {{qualifier|vegetable garden}}
 * Slovak: {{t-|sk|záhrada|f}}, {{t-|sk|záhradka|f}}
 * Slovene: {{t+|sl|vrt|m}}
 * Spanish: {{t+|es|jardín|m}}
@@ -213,14 +213,15 @@
 * German: {{t+|de|Gestrüpp|n}}
 * Italian: {{t+|it|foresta|f}}
 {{trans-mid}}
-* Macedonian: {{t+|mk|шума|f|tr=šúma}}
+* Macedonian: {{t+|mk|шума|f|tr=šúma|sc=Cyrl}}
 * Persian: {{t-|fa|موی زهار|tr=muy e zahār|sc=fa-Arab}}
 {{trans-bottom}}
 
-{{checktrans}}
+{{checktrans-top}}
 * {{ttbc|sh}}: {{t-|sh|врт|sc=Cyrl}}
 * {{ttbc|tzm}}: {{tø|tzm|ⵜⵓⵔⵜⵉⵜ|f|tr=turtit|sc=Tfng}}
 * {{ttbc|vo}}: [[gad]]
+{{checktrans-bottom}}
 
 ===Verb===
 {{en-verb}}
@@ -272,7 +273,7 @@
 
 ====Translations====
 {{trans-top|of, relating to, in, from or for use in a garden}}
-* Bulgarian: [[градински]] ''m and p''
+* Bulgarian: {{t|bg|градински|m|p|tr=gradinski|sc=Cyrl}}
 * Danish: {{t-|da|have-}}
 * Dutch: [[tuin-]]
 * Esperanto: {{t-|eo|ĝardena}}
@@ -280,7 +281,7 @@
 * German: [[Garten]]-
 * Italian: di [[giardino]] {{m|f}}
 * Kurdish: [[gulistan]] {{f}}, [[baxçe]] {{m}}, [[bax]] {{m}}
-* Macedonian: {{t-|mk|градинарски|m|tr=gradinárski}}
+* Macedonian: {{t-|mk|градинарски|m|tr=gradinárski|sc=Cyrl}}
 {{trans-mid}}
 * Persian: {{t+|fa|باغی|tr=bāqi|sc=fa-Arab}}
 * Romanian: [[de]] [[grădina]]
