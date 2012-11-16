@@ -32,8 +32,8 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 # An element of an [[espresso]] machine from which hot water pours into the [[portafilter]].
 
 ====Synonyms====
-* (''number of things or persons being in some relation to each other''): [[collection]], [[set]]
-* (''people who perform music together''): [[band]], [[ensemble]]
+* {{sense|number of things or persons being in some relation to each other}} [[collection]], [[set]]
+* {{sense|people who perform music together}} [[band]], [[ensemble]]
 * See also [[Wikisaurus:group]]
 
 ====Hypernyms====
@@ -63,23 +63,24 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 {{bottom}}
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|number of things or persons being in some relation to each other}}
 * Arabic: {{t+|ar|مجموعة|f|tr=majmuu3a}}, {{t+|ar|جماعة|f|tr=jamaa3a}}
 * Armenian: {{t-|hy|խումբ|tr=xumb}}
+* Asturian: {{t|ast|grupu|m}}
 * Basque: {{t+|eu|talde}}
 * Belarusian: {{t-|be|група|f|tr=hrúpa|sc=Cyrl}}
 * Bulgarian: {{t+|bg|група|f|tr=grúpa|sc=Cyrl}}
+* Catalan: {{t|ca|grup|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|集團|sc=Hani}}, {{t|cmn|集团|tr=jítuán|sc=Hani}}, {{t|cmn|群|tr=qún|sc=Hani}}, {{t|cmn|組|sc=Hani}}, {{t|cmn|组|tr=zǔ|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|grupa|f}}, {{t-|sh|skupina|f}}
 * Czech: {{t+|cs|skupina|f}}
-* Dutch: [[groep]]  {{f}}, [[verzameling]] {{f}}
+* Dutch: {{t|nl|groep|f}}, {{t|nl|verzameling|f}}
 * Esperanto: {{t+|eo|grupo}}
 * Estonian: {{t+|et|rühm}}
 * Finnish: {{t+|fi|joukko}}, {{t+|fi|ryhmä}}
-* French: [[groupe]]  {{m}}
-* German: [[Gruppe]]  {{f}}
+* French: {{t|fr|groupe|m}}
+* Galician: {{t|gl|grupo|m}}, {{t|gl|fatado|m}}, {{t|gl|fato|m}}, {{t|gl|feixe|m}}
+* German: {{t|de|Gruppe|f}}
 * Greek: {{t+|el|ομάδα|f}}
 * Hebrew: {{t+|he|קבוצה|f|tr=k'vutzá}}
 * Hungarian: {{t+|hu|csoport}}
@@ -92,12 +93,13 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 {{trans-mid}}
 * Korean: {{t+|ko|그룹|tr=geurup|sc=Kore}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[کۆمه‌ڵ]]}}
+*: Sorani: {{t|ku|کۆمه‌ڵ}}
 * Latin: {{t-|la|circulus|m}}, {{t+|la|globus|m}}
 * Latvian: {{t-|lv|grupa|f}}
 * Lithuanian: {{t+|lt|grupė|f}}
 * Macedonian: {{t-|mk|група|f|tr=grúpa|sc=Cyrl}}
 * Marathi: {{t-|mr|samooha|sc=Deva}}
+* Occitan: {{t|oc|grop|m}}
 * Persian: {{t+|fa|گروه|tr=goruh|sc=fa-Arab}}
 * Polish: {{t+|pl|grupa|f}}
 * Portuguese: {{t+|pt|grupo|m}}
@@ -105,16 +107,17 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 * Russian: {{t+|ru|группа|f|tr=grúppa}}, {{t+|ru|коллектив|m|tr=kollektív|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|cuideachd|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|група|f}}
-*: Roman: {{t-|sh|grupa|f}}
+*: Cyrillic: {{t-|sh|група|f}}, {{t|sh|скупина|f}}
+*: Roman: {{t-|sh|grupa|f}}, {{t|sh|skupina|f}}
+* Sicilian: {{t|scn|gruppu|m}}
 * Slovene: {{t+|sl|skupina|f}}
 * Spanish: {{t+|es|grupo|m}}
 * Swahili: {{t+|sw|kundi}}
 * Swedish: {{t+|sv|grupp|c}}
-* Telugu: [[సమూహం]] (samooham), [[గుంపు]] (gumpu)
+* Telugu: {{t|te|సమూహం|tr=samooham}}, {{t|te|గుంపు|tr=gumpu}}
 * Ukrainian: {{t+|uk|група|f|tr=hrúpa|sc=Cyrl}}
 * Welsh: {{t-|cy|twr}}
-* West Frisian: [[kloft]]
+* West Frisian: {{t|fy|kloft}}
 {{trans-bottom}}
 
 {{trans-top|in group theory}}
@@ -129,7 +132,7 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 * Finnish: {{t+|fi|ryhmä}}
 * French: {{t+|fr|groupe|m}}
 * German: {{t+|de|Gruppe|f}}
-* Greek: {{t+|el|ομάδα|f}} (omáda)
+* Greek: {{t+|el|ομάδα|f|tr=omáda}}
 * Hebrew: {{t+|he|קבוצה|f}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|csoport}}
@@ -153,13 +156,13 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 * Czech: {{t+|cs|skupina|f}}, {{t-|cs|kapela|f}}
 * Finnish: {{t+|fi|yhtye}}
 * German: {{t+|de|Gruppe|f}}
-* Greek: {{t+|el|συγκρότημα|n}} (syngkrótima)
+* Greek: {{t+|el|συγκρότημα|n|tr=syngkrótima}}
 * Hebrew: {{t+|he|להקה|f}}
 * Hungarian: {{t+|hu|együttes}}
 * Khmer: {{t+|km|ក្រុម|sc=Khmr|tr=krom}}
 {{trans-mid}}
 * Latin: {{t+|la|globus|m}}, {{t-|la|circulus|m}}
-* Persian: {{fa-Arab|[[گروه]]}} (goruh')
+* Persian: {{t|fa|گروه|tr=goruh'}}
 * Romanian: {{t-|ro|grup|n}}
 * Russian: {{t+|ru|группа|f|tr=grúppa}}
 * Serbo-Croatian: {{t-|sh|grupa|f}}
@@ -179,7 +182,7 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 
 {{trans-top|column in the periodic table}}
 * Armenian: {{t-|hy|խումբ|tr=xumb}}
-* Catalan: [[grup]] {{m}}
+* Catalan: {{t|ca|grup|m}}
 * Dutch: {{t+|nl|groep|f}}
 * Esperanto: {{t+|eo|grupo}}
 * German: {{t+|de|Gruppe|f}}
@@ -233,7 +236,7 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 {{trans-top|in Unix}}
 * Czech: {{t+|cs|skupina|f}}
 * Finnish: {{t+|fi|ryhmä}}
-* German: [[Benutzergruppe]] {{f}}
+* German: {{t|de|Benutzergruppe|f}}
 * Latin: {{t-|la|circulus}}, {{t+|la|globus|m}}
 {{trans-mid}}
 * Serbo-Croatian: {{t-|sh|grupa|f}}
@@ -248,20 +251,20 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 # {{intransitive}} To come together to form a group.
 
 ====Synonyms====
-* (''put together to form a group''): [[amass]], [[categorise]]/[[categorize]], [[classify]], [[collect]], collect up, [[gather]], gather together, gather up
+* {{sense|put together to form a group}} [[amass]], [[categorise]]/[[categorize]], [[classify]], [[collect]], collect up, [[gather]], gather together, gather up
 
 ====Translations====
 {{trans-top|put together to form a group}}
 * Czech: {{t-|cs|seskupit}}
 * Dutch: {{t+|nl|groeperen}}
 * Estonian: {{t-|et|rühmitamine}}
-* Finnish: [[ryhmitellä]], [[luokitella]]
+* Finnish: {{t|fi|ryhmitellä}}, {{t|fi|luokitella}}
 * French: {{t+|fr|grouper}}
 * German: {{t+|de|gruppieren}}
 * Italian: {{t-|it|raggruppare}}
 {{trans-mid}}
 * Latin: {{t-|la|glomero}}, {{t-|la|circulor}}
-* Romanian: [[a grupa]]
+* Romanian: {{t|ro|grupa}}
 * Russian: {{t+|ru|группировать|sc=Cyrl}}
 * Spanish: {{t+|es|agrupar}}
 * Swahili: {{t+|sw|kundi}}
