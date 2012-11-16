@@ -30,7 +30,6 @@ From {{etyl|dum}}, {{etyl|gml}} {{term|dam|lang=gml}}, from {{etyl|gem-pro|en}} 
 # {{dentistry}} A device to [[prevent]] a [[tooth]] from getting [[wet]], consisting of a [[rubber]] [[sheet]] held with a [[band]].
 
 =====Translations=====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|structure placed across a flowing body of water}}
 * Arabic: {{t-|ar|سد|m|tr=sadd}}
 * Armenian: {{t-|hy|ամբարտակ|tr=ambartak}}
@@ -38,7 +37,6 @@ From {{etyl|dum}}, {{etyl|gml}} {{term|dam|lang=gml}}, from {{etyl|gem-pro|en}} 
 * Bulgarian: {{t+|bg|бент|m}}
 * Chinese:
 *: Mandarin: {{t-|cmn|壩|sc=Hani}},  {{t-|cmn|坝|tr=bà|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|nasip|m}}, {{t-|sh|gat|m}}
 * Czech: {{t+|cs|hráz|f}}, {{t-|cs|přehrada|f}}
 * Dutch: {{t+|nl|dam|m}}
 * Estonian: {{t-|et|pais}}
@@ -50,22 +48,22 @@ From {{etyl|dum}}, {{etyl|gml}} {{term|dam|lang=gml}}, from {{etyl|gem-pro|en}} 
 * Hebrew: {{t+|he|סכר|m}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|gát}}
-* Ido: [[aquobarilo]]
+* Ido: {{t|io|aquobarilo}}
 * Italian: {{t+|it|argine|m}}, {{t-|it|diga}}
 * Japanese: {{t+|ja|ダム|tr=damu}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[به‌ربه‌ست]]}}
+*: Sorani: {{t|ku|به‌ربه‌ست}}
 * Maltese: {{t-|mt|diga}}
 * Navajo: {{tø|nv|dáʼdeestłʼin}}, {{tø|nv|tó beʼekʼid}}
 * Polish: {{t+|pl|tama|f}}
-* Portuguese: [[barragem]] {{f}}, [[represa]] {{f}}
+* Portuguese: {{t|pt|barragem|f}}, {{t|pt|represa|f}}
 * Romanian: {{t-|ro|baraj|n}}
 * Russian: {{t+|ru|плотина|f|tr=plotína}}, {{t+|ru|дамба|f|tr=dámba}}
 * Serbo-Croatian: {{t-|sh|nasip}}, {{t-|sh|brana}}, {{t-|sh|gat}}
 * Spanish: {{t+|es|presa|f}}
 * Tamil: {{t+|ta|அணை|sc=Taml}}
 * Telugu: {{t+|te|ఆనకట్ట}}
-* Turkish: {{t+|tr|baraj}},  {{t+|tr|set}}
+* Turkish: {{t+|tr|baraj}}, {{t+|tr|set}}
 {{trans-bottom}}
 
 ====Verb====
@@ -102,11 +100,12 @@ Variant of {{term|dame}}.
 
 =====Translations=====
 {{trans-top|female parent}}
-* Chinese: [[母畜]], [[母兽]]
+* Chinese:
+*: Mandarin: {{t|cmn|母畜}}, {{t|cmn|母兽}}
 * Finnish: {{t+|fi|emä}}
 * German: {{t-|de|Muttertier}}
 {{trans-mid}}
-* Japanese: {{t+|ja|メス|tr=mesu}}, {{qualifier|for Bovidae}} {{t+|ja|牝|tr=めす, mesu}}, {{qualifier|for except of Bovidae}}{{t+|ja|雌|tr=めす, mesu}}
+* Japanese: {{t+|ja|メス|tr=mesu}}, {{qualifier|for Bovidae}} {{t+|ja|牝|tr=めす, mesu}}, {{qualifier|for except of Bovidae}} {{t+|ja|雌|tr=めす, mesu}}
 * Latin: {{t+|la|matrix|f|alt=mātrix}}
 {{trans-bottom}}
 
