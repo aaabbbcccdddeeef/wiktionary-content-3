@@ -82,30 +82,27 @@ From {{etyl|la|en}} {{term|insectum||with a notched or divided body, cut up|lang
 {{-}}
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|arthropod}}
-* Albanian: [[tartabiq]]
-* Arabic: {{t-|ar|حشرة|f|alt=حَشَرة|tr=Hashara}}
+* Albanian: {{t|sq|tartabiq}}
+* Arabic: {{t-|ar|حشرة|f|alt=حَشَرة|tr=Hashara|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|حشرة|f|tr=ḥashara|sc=Arab}}
-* Armenian: {{t-|hy|միջատ|tr=miǰat}}
+* Armenian: {{t-|hy|միջատ|tr=miǰat|sc=Armn}}
 * Asturian: {{t-|ast|inseutu|m}}
-* Basque: [[intsektu]], {{t-|eu|zomorro}}
+* Basque: {{t|eu|intsektu}}, {{t-|eu|zomorro}}
 * Belarusian: {{t-|be|насякомае|n|tr=nasjakómaje|sc=Cyrl}}, {{t-|be|казурка|f|tr=kazúrka|sc=Cyrl}}, {{t-|be|вусяк|m|tr=vusják|sc=Cyrl}}, {{t-|be|гмыз|m|tr=hmyz|sc=Cyrl}}
 * Bengali: {{t-|bn|পোকা|tr=poka|sc=Beng}}
-* Serbo-Croatian: {{t-|sh|insekt|m}}, {{t-|sh|buba|f}}
-* Breton: [[amprevan]] {{m}}, -ed {{p}} (1,3)<!--Are numbers here even needed anymore? (not needed if you copy to the #3 section)-->
+* Breton: {{t|br|amprevan|m}}
 * Burmese: {{t+|my|ပိုး|tr=pó|sc=Mymr}}, {{t+|my|အင်းဆက်|tr=í̃-sʰeʔ|sc=Mymr}}
-* Catalan: [[insecte]]
+* Catalan: {{t|ca|insecte}}
 * Chamicuro: {{tø|ccc|sokajsu}}
-* Cherokee: [[ᏍᎪᏱ]] (sgoyi)
+* Cherokee: {{t|chr|ᏍᎪᏱ|tr=sgoyi|sc=Cher}}
 * Chinese:
 *: Mandarin: {{t|cmn|昆蟲|sc=Hani}}, {{t|cmn|昆虫|tr=kūnchóng|sc=Hani}}, {{t|cmn|蟲子|sc=Hani}}, {{t|cmn|虫子|tr=chóngzi|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|kukac|m|alt=kúkac}}
-* Czech: {{t+|cs|hmyz|m}} <!-- (1,2) Numbers? Still? (not needed if you copy to the #2 section)-->
+* Czech: {{t+|cs|hmyz|m}}
 * Danish: {{t+|da|insekt}}
 * Dutch: {{t+|nl|insect|n}}
 * Esperanto: {{qualifier|♂♀}} {{t-|eo|insekto}}, {{qualifier|♂}} {{t-|eo|virinsekto}}, {{qualifier|♀}} {{t-|eo|insektino}}
-* Estonian: [[putukas]]
+* Estonian: {{t|et|putukas}}
 * Faroese: {{t-|fo|skordýr}}
 * Finnish: {{t+|fi|hyönteinen}}
 * French: {{t+|fr|insecte|m}}
@@ -114,14 +111,14 @@ From {{etyl|la|en}} {{term|insectum||with a notched or divided body, cut up|lang
 * German: {{t+|de|Insekt|n}}, {{t-|de|Kerbtier|n}}, {{t+|de|Kerf|m}}
 * Greek: {{t+|el|έντομο|n|tr=éntomo|sc=Grek}}
 * Haitian Creole: {{tø|ht|ensèk}}
-* Hawaiian: [[mea kolo]]
-* Hebrew: {{t+|he|חרק|m|tr=kharák}}
+* Hawaiian: {{t|haw|mea kolo}}
+* Hebrew: {{t+|he|חרק|m|tr=kharák|sc=Hebr}}
 * Hindi: {{t-|hi|कीड़ा|m|tr=kīṛā|sc=Deva}}
-* Hungarian: [[rovar]] (1)
+* Hungarian: {{qualifier|1}} {{t|hu|rovar}}
 * Icelandic: {{t+|is|skordýr|n}}
 * Ido: {{qualifier|♂♀}} {{t+|io|insekto}}, {{qualifier|♂}} {{t-|io|insektulo}}, {{qualifier|♀}} {{t-|io|insektino}}
 * Indonesian: {{t+|id|serangga}}
-* Interlingua: [[insecto]] (1,3)
+* Interlingua: {{t|ia|insecto}}
 * Irish: {{t-|ga|feithid|f}}
 * Italian: {{t+|it|insetto}}
 * Japanese: {{t+|ja|昆虫|tr=こんちゅう, konchū|sc=Jpan}}, {{t+|ja|虫|tr=[[むし]], mushi|sc=Jpan}}
@@ -131,9 +128,9 @@ From {{etyl|la|en}} {{term|insectum||with a notched or divided body, cut up|lang
 {{trans-mid}}
 * Latgalian: {{tø|ltg|kustūneits|m}}
 * Latin: {{t-|la|insectum|n|alt=īnsectum}}
-* Latvian: [[kukaiņi]], {{t-|lv|kukainis|m}}, {{t-|lv|insekts|m}}
+* Latvian: {{t|lv|kukaiņi}}, {{t-|lv|kukainis|m}}, {{t-|lv|insekts|m}}
 * Lithuanian: {{t-|lt|vabzdys|m}}
-* Lojban: [[cinki]]
+* Lojban: {{t|jbo|cinki}}
 * Macedonian: {{t|mk|инсект|m|tr=insékt|sc=Cyrl}}
 * Maltese: {{t-|mt|insett|m}}
 * Manx: {{t-|gv|beisteig}}
@@ -148,46 +145,50 @@ From {{etyl|la|en}} {{term|insectum||with a notched or divided body, cut up|lang
 * Pashto: {{t-|ps|حشره|f|tr=hašará|sc=ps-Arab}}
 * Persian: {{t+|fa|حشره|tr=hašare|sc=fa-Arab}}
 * Polish: {{t+|pl|owad|m}}, {{t+|pl|robak|m}}
-* Portuguese: [[inseto]] {{m}} (1,3)
-* Romanian: [[insectă]] {{f}} (1)
-* Russian: {{t+|ru|насекомое|n|tr=nasekómoje}}, {{qualifier|colloquial}} {{t+|ru|букашка|f|tr=bukáška|sc=Cyrl}}
+* Portuguese: {{qualifier|1,3}} {{t|pt|inseto|m}}
+* Romanian: {{qualifier|1}} {{t|ro|insectă|f}}
+* Russian: {{t+|ru|насекомое|n|tr=nasekómoje|sc=Cyrl}}, {{qualifier|colloquial}} {{t+|ru|букашка|f|tr=bukáška|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|meanbh-fhrìde|f}}, {{t-|gd|frìde|f}}, {{t-|gd|biastag|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|инсект|m}}, {{t-|sh|буба|f}}, {{t-|sh|кукац|m}}
+*: Cyrillic: {{t-|sh|инсект|m|sc=Cyrl}}, {{t-|sh|буба|f|sc=Cyrl}}, {{t-|sh|кукац|m|sc=Cyrl}}
 *: Roman: {{t-|sh|insekt|m}}, {{t-|sh|buba|f}}, {{t-|sh|kukac|m}}
 * Sicilian: {{t+|scn|insettu|m}}
 * Slovak: {{t-|sk|hmyz}}
 * Slovene: {{t+|sl|žuželka|f}}, {{t-|sl|insekt|m}}
 * Spanish: {{t+|es|insecto|m}}
 * Swahili: {{t+|sw|mdudu}}
-* Swedish: {{t+|sv|insekt|c}} (1)
-* Tagalog: [[insekto]] {{f}} (1)
+* Swedish: {{t+|sv|insekt|c}}
+* Tagalog: {{t|tl|insekto|f}}
 * Tajik: {{t-|tg|ҳашара|tr=hašara|sc=Cyrl}}
-* Telugu: [[పురుగు]] (purugu), [[కీటకం]] (keeTakaM)
-* Thai: {{t-|th|แมลง|tr=maelong}}
-* Turkish: [[böcek]] (1), [[haşere]] (2)
+* Telugu: {{t|te|పురుగు|tr=purugu|sc=Telu}}, {{t|te|కీటకం|tr=keeTakaM|sc=Telu}}
+* Thai: {{t-|th|แมลง|tr=maelong|sc=Thai}}
+* Turkish: {{t|tr|böcek}}
 * Ukrainian: {{t+|uk|комаха|f|tr=komáxa|sc=Cyrl}}
 * Urdu: {{t-|ur|کیڑا|m|tr=kīṛā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|sâu bọ}}, {{t+|vi|côn trùng}} ({{t-|vi|昆蟲}})
 * Volapük: {{qualifier|♂♀}} {{t+|vo|näsäk}}, {{qualifier|♂}} {{t-|vo|hinäsäk}}, {{qualifier|♀}} {{t-|vo|jinäsäk}}, {{qualifier|♂♀ offspring, young}} {{t-|vo|näsäkül}}, {{qualifier|♂ offspring}} {{t-|vo|hinäsäkül}}, {{qualifier|♀ offspring}} {{t-|vo|jinäsäkül}}, {{qualifier|obsolete}} {{t+|vo|sök}}, {{qualifier|obsolete}} {{t-|vo|lunim}}
 * Welsh: {{t+|cy|pryfyn}}
 * West Frisian: {{t+|fy|ynsekt}}
-* Yiddish: {{t-|yi|אינסעקט|m|tr=insekt, inssekt}}
+* Yiddish: {{t-|yi|אינסעקט|m|tr=insekt|sc=Hebr}}
 {{trans-bottom}}
 
 {{trans-top|colloquial: any small arthropod}}
+* Czech: {{t+|cs|hmyz|m}}
 * Finnish: {{t+|fi|ötökkä}}, {{t-|fi|öttiäinen}}
 * Nanai: {{tø|gld|колан|tr=kolan}}
 {{trans-mid}}
 * Scottish Gaelic: {{t-|gd|meanbh-fhrìde|f}}, {{t-|gd|frìde|f}}, {{t-|gd|biastag|f}}
+* Turkish: {{t|tr|haşere}}
 {{trans-bottom}}
 
 {{trans-top|contemptible or powerless person}}
+* Breton: {{t|br|amprevan|m}}
 * Dutch: {{t+|nl|nietsnut}}
 * Finnish: {{t+|fi|nilviäinen}}
+* Interlingua: {{t|ia|insecto}}
 * Macedonian: {{t|mk|гнида|f|tr=gnída|sc=Cyrl}}
-* Polish: {{t+|pl|zero|n}}
 {{trans-mid}}
+* Polish: {{t+|pl|zero|n}}
 * Romanian: un {{t-|ro|nimeni}}, un {{t+|ro|zero}}
 * Russian: {{t+|ru|ничтожество|n|tr=ničtóžestvo|sc=Cyrl}}, {{t+|ru|ноль|m|tr=nol'|sc=Cyrl}}
 {{trans-bottom}}
