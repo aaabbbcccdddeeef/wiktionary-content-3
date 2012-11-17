@@ -23,23 +23,21 @@
 * [[importantly]], [[importantness]], [[unimportant]], [[VIP]]
 
 ====Translations====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|having relevant and crucial value}}
 * Afrikaans: {{t+|af|belangrik}}
-* Albanian: [[i rëndësishëm]]
-* Arabic: {{t-|ar|مهم|tr=muhim}}
+* Albanian: {{t|sq|i rëndësishëm}}
+* Arabic: {{t-|ar|مهم|tr=muhim|sc=Arab}}
 * Aramaic: {{tø|arc|חסינא|m|tr=ħasīna|sc=Hebr}}
 * Armenian: {{t-|hy|կարեւոր|tr=karewor|sc=Armn}}
 * Asturian: {{t-|ast|importante}}
 * {{trreq|ban}}
 * Basque: {{t-|eu|garrantzitsu}}
 * Bengali: {{t-|bn|গুরুত্বপূর্ণ|tr=guruttopurno|sc=Beng}}
-* Bulgarian: {{t+|bg|важен|tr=važen}}
+* Bulgarian: {{t+|bg|важен|tr=važen|sc=Cyrl}}
 * Burmese: {{t+|my|အရေးကြီး|tr=ăye:kyi:|sc=Mymr}}
 * Catalan: {{t+|ca|important}}
 * Chinese:
 *: Mandarin: {{t-|cmn|重要|tr=zhòngyào|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|važan}}
 * Czech: {{t+|cs|důležitý|m}}
 * Danish: {{t-|da|vigtig}}
 * Dutch: {{t+|nl|belangrijk}}
@@ -51,8 +49,8 @@
 * Georgian: {{t-|ka|მნიშვნელოვანი|tr=mnišvnelovani|sc=Geor}}
 * German: {{t+|de|wichtig}}
 * Haitian Creole: {{tø|ht|enpòtan}}
-* Hebrew: {{t-|he|חשוב|tr=khashúv}}
-* Hindi: {{t-|hi|महत्वपूर्ण|tr=mahatvapūrṇ}}, {{t-|hi|अहम|tr=aham|sc=Deva}}
+* Hebrew: {{t-|he|חשוב|tr=khashúv|sc=Hebr}}
+* Hindi: {{t-|hi|महत्वपूर्ण|tr=mahatvapūrṇ|sc=Deva}}, {{t-|hi|अहम|tr=aham|sc=Deva}}
 * Hungarian: {{t+|hu|fontos}}
 * Icelandic: {{t+|is|mikilvægur|m}}
 * Indonesian: {{t+|id|penting}}
@@ -61,7 +59,7 @@
 * Italian: {{t+|it|importante}}
 * Japanese: {{t+|ja|重要|tr=じゅうような, jūyō-na|alt=重要な}}, {{t+|ja|大切|tr=たいせつな, taisetsu-na|alt=大切な}}
 * Jèrriais: {{tø|roa-jer|împortant}}
-* Kannada: {{t+|kn|ಮುಖ್ಯ|tr=mukhya}}
+* Kannada: {{t+|kn|ಮುಖ್ಯ|tr=mukhya|sc=Knda}}
 * Khmer: {{t+|km|សំខាន់|tr=somkən|sc=Khmr}}
 * Korean: {{t-|ko|중요한|tr=jungyohan|sc=Hang}}
 * Kurdish:
@@ -75,21 +73,21 @@
 * Luxembourgish: {{t+|lb|wichteg}}
 * Macedonian: {{t|mk|важен|tr=vážen|sc=Cyrl}}
 * Malay: {{t-|ms|penting}}
-* Malayalam: {{t-|ml|അതിപ്രധാനമായ}}, {{t-|ml|മുഖ്യമായ}}, {{t-|ml|ഗൗരവമുള്ള}}, {{t-|ml|ഉയര്‍ന്ന പദവിയിലുള്ള}}
+* Malayalam: {{t-|ml|അതിപ്രധാനമായ|sc=Mlym}}, {{t-|ml|മുഖ്യമായ|sc=Mlym}}, {{t-|ml|ഗൗരവമുള്ള|sc=Mlym}}, {{t-|ml|ഉയര്‍ന്ന പദവിയിലുള്ള|sc=Mlym}}
 * Maltese: {{t-|mt|importanti}}
-* Maori: [[tiketike]], [[matua]], [[hira]]
+* Maori: {{t|mi|tiketike}}, {{t|mi|matua}}, {{t|mi|hira}}
 * Nepali: {{t-|ne|महत्वपूर्ण}}
 * Norwegian: {{t+|no|alvorlig}}, {{t-|no|betydelig}}, {{t+|no|viktig}}
 * Occitan: {{t-|oc|important}}
 * Old English: {{t-|ang|hefig}}
 * {{trreq|or}}
-* Persian: {{t+|fa|مهم|tr=mohem||alt=مُهِمّ|sc=fa-Arab}}
+* Persian: {{t+|fa|مهم||tr=mohem|alt=مُهِمّ|sc=fa-Arab}}
 * Polish: {{t+|pl|ważny|m}}
 * Portuguese: {{t+|pt|importante}}
-* Punjabi: {{t-|pa|ਮਹੱਤਵਪੂਰਨ}}
+* Punjabi: {{t-|pa|ਮਹੱਤਵਪੂਰਨ|sc=Guru}}
 * Romanian: {{t-|ro|important}}
-* Russian: {{t+|ru|важный|tr=vážnyj}}
-* Sanskrit: {{t-|sa|अत्यावश्यक}}
+* Russian: {{t+|ru|важный|tr=vážnyj|sc=Cyrl}}
+* Sanskrit: {{t-|sa|अत्यावश्यक|sc=Deva}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|важан|sc=Cyrl}}
 *: Roman: {{t-|sh|važan}}
@@ -98,18 +96,18 @@
 * Swahili: {{t+|sw|maarufu}}
 * Swedish: {{t+|sv|viktig}}, {{t+|sv|betydelsefull}}
 * Tagalog: {{t-|tl|mahalagá}}
-* Tamil: {{t+|ta|பாரதூரம்|tr=paraturam}}
-* Telugu: {{t+|te|ముఖ్యమైన|tr=mukhyamaina}}
-* Thai: {{t+|th|สำคัญ|tr=săm-kan}}, {{t-|th|เอ้|tr=ây}}
+* Tamil: {{t+|ta|பாரதூரம்|tr=paraturam|sc=Taml}}
+* Telugu: {{t+|te|ముఖ్యమైన|tr=mukhyamaina|sc=Telu}}
+* Thai: {{t+|th|สำคัญ|tr=săm-kan|sc=Thai}}, {{t-|th|เอ้|tr=ây|sc=Thai}}
 * {{trreq|bo}}
 * Turkish: {{t+|tr|önemli}}, {{t+|tr|mühim}}
-* Ukrainian: {{t+|uk|важливий|tr=važlývyj}}, {{t-|uk|значний|tr=značnýj}}, {{t+|uk|важний|tr=važnýj}}
+* Ukrainian: {{t+|uk|важливий|tr=važlývyj|sc=Cyrl}}, {{t-|uk|значний|tr=značnýj|sc=Cyrl}}, {{t+|uk|важний|tr=važnýj|sc=Cyrl}}
 * Urdu: {{t-|ur|اہم|tr=aham|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|quan trọng}}
 * Volapük: {{t+|vo|veütik}}
 * Welsh: {{t+|cy|pwysig}}
 * West Frisian: {{t-|fy|wichtich}}
-* Yiddish: {{t-|yi|וויכטיק|tr=vikhtik}}
+* Yiddish: {{t-|yi|וויכטיק|tr=vikhtik|sc=Hebr}}
 {{trans-bottom}}
 
 {{checktrans-top}}
