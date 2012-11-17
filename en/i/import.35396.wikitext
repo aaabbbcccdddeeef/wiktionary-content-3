@@ -35,54 +35,56 @@
 * [[insignificance]]
 
 =====Translations=====
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|something brought in from a foreign country}}
 * Arabic: {{t-|ar|استيراد|m|tr=istiraad}}
 * Chinese:
 *: Mandarin: {{t-|cmn|進口|sc=Hani}}, {{t-|cmn|进口|tr=jìnkǒu|sc=Hani}}, {{t-|cmn|輸入|sc=Hani}}, {{t-|cmn|输入|tr=shūrù|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|import|m}}, {{t-|sh|uvoz|m}}
 * Dutch: {{t+|nl|import}}, {{t+|nl|invoer}}
-* Finnish: [[tuontitavara]], [[importti]] {{qualifier|slang}}
-* German: [[Importware]] {{f}}, [[Importgut]] {{n}}
+* Finnish: {{t|fi|tuontitavara}}, {{t|fi|importti}} {{qualifier|slang}}
+* German: {{t|de|Importware|f}}, {{t|de|Importgut|n}}
 {{trans-mid}}
 * Greek: {{t+|el|εισαγωγή|f|tr=eisagogí|sc=Grek}}
 * Hebrew: {{t-|he|ייבוא|m|tr=y'ivu|sc=Hebr}}
 * Japanese: {{t-|ja|輸入品|tr=ゆにゅうひん, yunyūhin}}
-* Portuguese: [[importados]] {{m|p}}
+* Portuguese: {{t|pt|importados|m|p}}
 * Russian: {{t+|ru|импорт|m|tr=ímport}}
-* Serbo-Croatian: {{t-|sh|uvoz}}
-* Spanish: [[importación]] {{f}}
+* Serbo-Croatian:
+* Cyrillic: {{t-|sh|увоз|m|sc=Cyrl}}, {{t-|sh|импорт|m|sc=Cyrl}}
+* Roman: {{t-|sh|uvoz|m}}, {{t-|sh|import|m}}
+* Spanish: {{t|es|importación|f}}
 * Swedish: {{t+|sv|import|c}}, {{t-|sv|införsel|c}}
 {{trans-bottom}}
 
-{{rfc-tsort|duplicate language: Serbo-Croatian}}
 {{trans-top|practice of importing}}
 * Arabic: {{t-|ar|استيراد|m|tr=istiraad}}
 * Chinese:
 *: Mandarin: {{t-|cmn|進口|sc=Hani}}, {{t-|cmn|进口|tr=jìnkǒu|sc=Hani}}, {{t-|cmn|輸入|sc=Hani}}, {{t-|cmn|输入|tr=shūrù|sc=Hani}}
-* Serbo-Croatian: {{t-|sh|import|m}}, {{t-|sh|uvoz|m}}
 * Czech: {{t+|cs|dovoz|m}}, {{t+|cs|import|m}}
 * Dutch: {{t+|nl|import}}, {{t+|nl|invoer}}
 * Finnish: {{t-|fi|tuonti}}, {{t-|fi|maahantuonti}}
 {{trans-mid}}
 * German: {{t+|de|Import|m}}, {{t+|de|Einfuhr|f}}
 * Greek: {{t+|el|εισαγωγή|f|tr=eisagogí|sc=Grek}}
-* Japanese: [[輸入]] (yunyū), {{t-|ja|輸入|tr=ゆにゅう, yunyū}}
+* Japanese: {{t|ja|輸入|tr=yunyū|sc=Jpan}}, {{t-|ja|輸入|tr=ゆにゅう, yunyū}}
 * Russian: {{t+|ru|импорт|m|tr=ímport}}, {{t+|ru|ввоз|m|tr=vvoz}}
-* Serbo-Croatian: : [[uvoziti]]
-* Spanish: [[importación]] {{f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|импорт|m|sc=Cyrl}}, {{t-|sh|увоз|m|sc=Cyrl}}
+*: Roman: {{t-|sh|import|m}}, {{t-|sh|uvoz|m}}
+* Spanish: {{t|es|importación|f}}
 * Swedish: {{t+|sv|import|c}}, {{t-|sv|införsel|c}}
 {{trans-bottom}}
 
 {{trans-top|licence for import}}
-* Dutch: [[invoervergunning]]
+* Dutch: {{t|nl|invoervergunning}}
 {{trans-mid}}
-* Serbo-Croatian: [[uvoznica]]
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|увозница|sc=Cyrl}}
+*: Roman: {{t|sh|uvoznica}}
 {{trans-bottom}}
 
 {{trans-top|significance, importance}}
 * Dutch: {{t+|nl|belang|n}}, {{t+|nl|gewicht|n}}
-* Finnish: [[tärkeys]], [[merkityksellisyys]]
+* Finnish: {{t|fi|tärkeys}}, {{t|fi|merkityksellisyys}}
 {{trans-mid}}
 * Scottish Gaelic: {{t-|gd|susbaint|f}}
 * Spanish: {{t+|es|importancia|f}}, {{t+|es|significado|m}}
@@ -116,8 +118,8 @@
 * Czech: {{t-|cs|dovézt}}
 * Dutch: {{t+|nl|invoeren}}, {{t+|nl|importeren}}
 * Esperanto: {{t+|eo|importi}}
-* Estonian: [[importima]], ([[sisse]]) [[tooma]]
-* Finnish: [[tuoda]] ([[maa|maahan]])
+* Estonian: {{t|et|importima}}, ([[sisse]]) [[tooma]]
+* Finnish: {{t|fi|tuoda}} ([[maa|maahan]])
 * French: {{t+|fr|importer}}
 * German: {{t+|de|importieren}}, {{t+|de|einführen}}
 * Greek: {{t+|el|εισάγω|tr=eiságo|sc=Grek}}
@@ -129,8 +131,10 @@
 * Japanese: {{t-|ja|輸入する|tr=ゆにゅうする, yunyū-suru}}
 * {{trreq|ko}}
 * Luxembourgish: {{t-|lb|aféieren}}, {{t-|lb|importéieren}}
-* Russian: {{t+|ru|импортировать|tr=importírovat'}} {{impf}} ''and'' {{pf.}}; {{t-|ru|ввозить|tr=vvozít'}} {{impf}}, {{t+|ru|ввезти|tr=vveztí}} {{pf.}}
-* Serbo-Croatian: {{t-|sh|uvesti|alt=ùvesti}} {{pf.}}, {{t-|sh|uvoziti|alt=uvòziti}} {{impf}}
+* Russian: {{t+|ru|импортировать|tr=importírovat'}} {{impf}} ''and'' {{pf.}}, {{t-|ru|ввозить|tr=vvozít'}} {{impf}}, {{t+|ru|ввезти|tr=vveztí}} {{pf.}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|увести|sc=Cyrl}} {{pf.}}, {{t-|sh|увозити|sc=Cyrl}} {{impf}}
+*: Roman: {{t-|sh|uvesti|alt=ùvesti}} {{pf.}}, {{t-|sh|uvoziti|alt=uvòziti}} {{impf}}
 * Spanish: {{t+|es|importar}}
 * Swedish: {{t+|sv|importera}}, {{t+|sv|föra in}}
 * {{trreq|th}}
