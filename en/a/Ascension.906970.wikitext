@@ -4,9 +4,9 @@
 ===Proper noun===
 {{en-proper noun}}
 
-# {{religion}} entering [[heaven]] while still [[alive]]
-# {{Christianity}} specifically, the believed entry of [[Jesus Christ]] into heaven after his [[resurrection]].
-# {{Christianity}} a [[holiday]] celebrating the Ascension of Jesus, 40 days after [[Easter]].
+# {{context|label=religion}} entering [[heaven]] while still [[alive]]
+# {{context|label=Christianity}} specifically, the believed entry of [[Jesus Christ]] into heaven after his [[resurrection]].
+# {{context|label=Christianity}} a [[holiday]] celebrating the Ascension of Jesus, 40 days after [[Easter]].
 
 ====Synonyms====
 * {{sense|entering heaven}} [[assumption]], [[translation]]
@@ -25,27 +25,27 @@
 
 {{trans-top|Jesus' rise to heaven}}
 * Finnish: {{t-|fi|taivaaseenastuminen}}
-* Greek: {{t-|el|Ανάληψη|f|tr=Análipsi}}
+* German: {{t+|de|Himmelfahrt|f}}, {{t+|de|Christi Himmelfahrt}}
 {{trans-mid}}
+* Greek: {{t-|el|Ανάληψη|f|tr=Análipsi|sc=Grek}}
 * Russian: {{t+|ru|вознесение|n|sc=Cyrl|tr=voznesénije|alt=вознесе́ние}}
 {{trans-bottom}}
 
 {{trans-top|holiday celebrating Ascension of Jesus}}
 * Finnish: {{t+|fi|helatorstai}}
-* German: {{t+|de|Himmelfahrt|f}}
-* Greek: {{t-|el|Ανάληψη|f|tr=Análipsi}}
+* German: {{t+|de|Himmelfahrt|f}}, {{t+|de|Christi Himmelfahrt}}
+* Greek: {{t-|el|Ανάληψη|f|tr=Análipsi|sc=Grek}}
 {{trans-mid}}
 * Russian: {{t-|ru|Вознесение|n|sc=Cyrl|tr=Voznesénije|alt=Вознесе́ние}}
 * Swedish: {{t-|sv|Kristi himmelsfärdsdag}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|bg}}: {{t-|bg|Възнесение|sc=Cyrl}}
+* {{ttbc|bg}}: {{t-|bg|Възнесение|tr=Văznesenie|sc=Cyrl}}
 * Chinese:
 *: {{ttbc|cmn}}: {{t|cmn|升天|tr=shēngtiān|sc=Hani}}
 * {{ttbc|da}}: {{t-|da|himmelfart|c}}
 * {{ttbc|fr}}: {{t+|fr|Ascension|f}}
-* {{ttbc|de}}: {{t+|de|Christi Himmelfahrt|f}}, {{t+|de|Himmelfahrt|f}}
 * {{ttbc|hu}}: {{t-|hu|mennybemenetel}}
 * {{ttbc|it}}: {{t-|it|Ascensione|f}}
 {{trans-mid}}
@@ -64,6 +64,8 @@
 
 ===Anagrams===
 * [[canonises#English|canonises]]
+
+[[Category:en:Religion]]
 
 [[de:Ascension]]
 [[et:Ascension]]
