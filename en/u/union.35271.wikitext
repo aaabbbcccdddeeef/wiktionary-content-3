@@ -44,9 +44,11 @@ From {{etyl|fro}} {{term|union|lang=fro}}, from {{etyl|LL.}} {{term|unionem|lang
 ====Translations====
 {{trans-top|the act of uniting or the state of being united}}
 * Armenian: {{qualifier|act}} {{t-|hy|միավորում|tr=miavorum}}, {{qualifier|state}} {{t-|hy|միություն|tr=miut’yun}}
+* Belarusian: {{t|be|саюз|m|tr=sajúz|sc=Cyrl}}
+* Bulgarian: {{t+|bg|съюз|m|tr=sǎjúz}}
 * Chinese:
 *: Mandarin: {{t|cmn|聯盟|sc=Hani}}, {{t|cmn|联盟|tr=liánméng|sc=Hani}}, {{t|cmn|聯合|sc=Hani}}, {{t|cmn|联合|tr=liánhé|sc=Hani}}
-* Czech: {{t-|cs|sjednocení}}
+* Czech: {{t|cs|unie|f}}, {{t|cs|svaz|m}}, {{t-|cs|sjednocení|n}}
 * Finnish: {{t-|fi|liittäminen}}, {{t+|fi|liitos}} {{qualifier|act}}; {{t+|fi|liitto}} {{qualifier|state}}
 * Galician: {{t-|gl|unión|f}}
 * German: {{t+|de|Vereinigung|f}}, {{t+|de|Union|f}}
@@ -57,17 +59,21 @@ From {{etyl|fro}} {{term|union|lang=fro}}, from {{etyl|LL.}} {{term|unionem|lang
 * Korean: {{t|ko|연맹|tr=yeonmaeng|sc=Kore}}, {{t|ko|聯盟|sc=Kore}}
 * Latin: {{t-|la|adunatio|f|alt=adūnātiō}}
 * Romanian: {{t+|ro|unire}}, {{t-|ro|unitate|f}}
-* Russian: {{t+|ru|соединение|m|tr=sojedin'énije}}, {{t+|ru|объединение|m|tr=objedin'énije}}, {{t+|ru|слияние|m|tr=slijánije}}, {{t|ru|союз|m|tr=sojúz|sc=Cyrl}}
+* Russian: {{t+|ru|союз|m|tr=sojúz}}, {{t+|ru|соединение|m|tr=sojedinénije}}, {{t+|ru|объединение|m|tr=obʺjedinénije}}, {{t+|ru|слияние|m|tr=slijánije}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|савез|m}}, {{t|sh|унија|f}}
 *: Roman: {{t|sh|savez|m}}, {{t|sh|unija|f}}
+* Slovak: {{t|sk|únia|f}}, {{t|sk|zväz|m}}
+* Slovene: {{t|sl|unija|f}}
 * Spanish: {{t+|es|unión|f}}
+* Ukrainian: {{t|uk|союз|m|tr=sojúz|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|that which is united; something formed by a combination of parts or members}}
 * Armenian: {{t-|hy|միություն|tr=miut’yun}}
 * Chinese:
-*: Dungan: {{tø|dng|лянбон|sc=Cyrl}}
+*: Dungan: {{tø|dng|лянбон|tr=ljanbon|sc=Cyrl}}
+*: Mandarin: {{t|cmn|聯盟|sc=Hani}}, {{t|cmn|联盟|tr=liánméng|sc=Hani}}
 * Finnish: {{t+|fi|liitto}}
 * Galician: {{t-|gl|unión|f}}
 * German: {{t+|de|Vereinigung|f}}, {{t+|de|Union|f}}
@@ -92,7 +98,8 @@ From {{etyl|fro}} {{term|union|lang=fro}}, from {{etyl|LL.}} {{term|unionem|lang
 
 {{trans-top|in set theory}}
 * Armenian: {{t-|hy|միավորում|tr=miavorum}}
-* Chinese: {{zh-tsp|併集|并集|bìngjí}}
+* Chinese:
+*: Mandarin: {{t|cmn|併集|sc=Hani}}, {{t|cmn|并集|tr=bìngjí|sc=Hani}}
 * Czech: {{t-|cs|sjednocení|n}}
 * Dutch: {{t+|nl|vereniging}}
 * Esperanto: [[kunaĵo]]
@@ -103,9 +110,9 @@ From {{etyl|fro}} {{term|union|lang=fro}}, from {{etyl|LL.}} {{term|unionem|lang
 {{trans-mid}}
 * Icelandic: {{t-|is|sammengi}}
 * Italian: {{t+|it|unione|f}}
-* Japanese: {{t-|ja|和集合}}
+* Japanese: {{t-|ja|和集合|tr=わしゅうごう, washūgō}}
 * Polish: {{t+|pl|unia|f}}
-* Russian: [[объединение множеств]] (objedin'énije mnóžestv) {{n}}
+* Russian: [[объединение множеств]] (obʺjedinénije mnóžestv) {{n}}
 * Spanish: {{t+|es|unión|f}}
 * Swahili: {{t+|sw|shirikisho}}
 * Swedish: {{t+|sv|union}}
@@ -123,7 +130,8 @@ From {{etyl|fro}} {{term|union|lang=fro}}, from {{etyl|LL.}} {{term|unionem|lang
 {{trans-bottom}}
 
 {{trans-top|sexual intercourse}}
-* Chinese: [[交合]]
+* Chinese:
+*: Mandarin: {{t|cmn|性交|tr=xìngjiāo|sc=Hani}}, {{t|cmn|交合|tr=jiāohé|sc=Hani}}
 * Dutch: {{t+|nl|gemeenschap}}
 * Finnish: {{t+|fi|yhdyntä}}
 * German: {{t+|de|Vereinigung|f}}
@@ -131,18 +139,18 @@ From {{etyl|fro}} {{term|union|lang=fro}}, from {{etyl|LL.}} {{term|unionem|lang
 * Greek: {{t+|el|ένωση|f|tr=énosi}}, {{t+|el|συνουσία|f|tr=synousía}}
 * Indonesian: {{t+|id|penyatuan}}
 * Japanese: {{t-|ja|性交|tr=せいこう, seikō}}
+* Russian: {{t+|ru|сношение|n|tr=snošénije|sc=Cyrl}}, {{t+|ru|совокупление|n|tr=sovokuplénije|sc=Cyrl}}
 * Swahili: {{t+|sw|shirikisho}}
 {{trans-bottom}}
 
 {{trans-top|computing: certain data structure}}
 * Japanese: {{t-|ja|共用体|tr=きょうようたい, kyōyōtai}}
 {{trans-mid}}
-* Russian: {{t+|ru|объединение|m|tr=objedin'énije}}
+* Russian: {{t+|ru|объединение|m|tr=obʺjedinénije}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 * {{ttbc|ar}}: {{t+|ar|اتحاد|m|tr=ittiHaad}}
-* {{ttbc|cmn}}: {{zh-tsp|聯盟|联盟|liánméng}}, {{zh-tsp|聯合|联合|liánhé}}
 * {{ttbc|nl}}: {{t-|nl|unie}}
 * {{ttbc|fr}}: {{t+|fr|union|f}}
 * {{ttbc|de}}: {{t+|de|Union|f}}
