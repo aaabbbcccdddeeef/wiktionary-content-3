@@ -301,15 +301,19 @@ From {{etyl|grc|no}} {{term|sc=polytonic|Δανιήλ|tr=Dānīēl|lang=grc}}, f
 ==Slovak==
 
 ===Etymology===
-From Hebrew דניאל
+From {{etyl|he|sk}} {{term|דניאל|lang=he}}.
 
 ===Proper noun===
-: '''Daniel''' {{m}}, '''Danielovia''' ''or'' '''Danieli''' {{p}}
-: '''Daniel''' ''stem''
-: declension pattern {{sk-decl-chlap}}
+{{sk-noun|gen=Daniela|pl=Danielovia|decl=chlap}}
 
-# [[Daniel#English|Daniel]].  Familiars: [[Daňo]] {{m}}, [[Danko]] {{m}}
-{{attention|sk|a mess}}
+# [[Daniel#English|Daniel]]
+
+====Declension====
+{{sk-decl-noun|Daniel|Daniela|Danielovi|Daniela|Danielovi|Danielom|Danielovia|Danielov|Danielom|Danielov|Danieloch|Danielmi}}
+
+====Derived terms====
+* [[Daňo]] {{m}}
+* [[Danko]] {{m}}
 
 [[Category:Slovak proper nouns]]
 
