@@ -17,20 +17,22 @@
 ====Translations====
 {{trans-top|ordinal of 100}}
 * Armenian: {{t-|hy|հարյուրերորդ|tr=haryurerord}}
+* Asturian: {{t|ast|centésimu}}
+* Catalan: {{t|ca|centèsim}}
 * Finnish: {{t+|fi|sadas}}
-* French: [[centième]] (''abbreviation'' 100<sup>ème</sup>)
+* French: {{t|fr|centième}} (''abbreviation'' 100<sup>ème</sup>)
 * Greek: {{t+|el|εκατοστός|m|tr=ekatostós}} (''abbreviation'' 100<sup>ος</sup>), {{t+|el|εκατοστή|f|tr=ekatostí}} (''abbreviation'' 100<sup>η</sup>), {{t+|el|εκατοστό|n|tr=ekatostó}} (''abbreviation'' 100<sup>ο</sup>)
 * Hungarian: {{t+|hu|századik}} (''abbreviation'' 100.)
-* Interlingua: [[centesime]] (''abbreviation'' 100<sup>e</sup>)
+* Interlingua: {{t|ia|centesime}} (''abbreviation'' 100<sup>e</sup>)
 {{trans-mid}}
 * Irish: céadú (''abbreviation'' 100ú)
-* Italian: [[centesimo]] {{m}}, [[centesima]] {{f}} (''abbreviations'' 100º {{m}}, 100ª {{f}})
-* Manx: keeadoo (''abbreviation'' 100oo)
-* Polish: [[setny]] (''abbreviation'' 100.)
-* Portuguese: [[centésimo]] {{m}}, [[centésima]] {{f}} (''abbreviations'' 100º {{m}}, 100ª {{f}})
+* Italian: {{t|it|centesimo}} (''abbreviations'' 100º {{m}}, 100ª {{f}})
+* Manx: {{t|gv|keeadoo}} (''abbreviation'' 100oo)
+* Polish: {{t|pl|setny}} (''abbreviation'' 100.)
+* Portuguese: {{t|pl|centésimo}} (''abbreviations'' 100º {{m}}, 100ª {{f}})
 * Romanian: al o [[sutălea]] {{m}}, a o [[suta]] {{f}}
 * Scottish Gaelic: {{t-|gd|ceudamh|xs=Scottish Gaelic}}
-* Spanish: {{t+|es|centésimo|m}}
+* Spanish: {{t+|es|centésimo}}
 * Turkish: {{t+|tr|yüzüncü}} (''abbreviations'' 100'üncü, 100.)
 {{trans-bottom}}
 
@@ -44,19 +46,36 @@
 * [[one-hundredth]]
 
 ====Translations====
-{{trans-top}}
-* Armenian: {{t-|hy|հարյուրերորդ|tr=haryurerord}}
-* Esperanto: {{t-|eo|centono}}
-* Finnish: {{t+|fi|sadas}}
-* French: [[centième]] {{m|f}} (1), centième {{m}} (2)
-* Greek: {{t+|el|εκατοστός}} (1), {{t+|el|εκατοστό|n}} (2)
-* Interlingua: [[centesimo]] {{m}}, [[centesima]] {{f}} (1), centesimo (2)
+{{trans-top|person or thing in the hundredth position}}
+* French: {{t|fr|centième|m|f}}
+* Greek: {{t+|el|εκατοστός}}
+* Interlingua: {{t|ia|centesimo|m}}, {{t|ia|centesima|f}}
 {{trans-mid}}
-* Italian: [[centesimo]] {{m}}, [[centesima]] {{f}} (1), centesimo {{m}} (2)
-* Manx: yn keeadoo
-* Portuguese: [[centésimo]] {{m}}, [[centésima]] {{f}} (1), centésimo {{m}} (2)
-* Romanian: (2.) o [[sutime]] {{f}}
-* Swedish: {{t+|sv|hundradel|c}}
+* Italian: {{t|it|centesimo|m}}, {{t|it|centesima|f}}
+* Portuguese: {{t|pt|centésimo|m}}, {{t|pt|centésima|f}}
+{{trans-bottom}}
+
+{{trans-top|one of a hundred equal parts of a whole}}
+* Asturian: {{t|ast|centésimu|m}}
+* Catalan: {{t|ca|centèsim|m}}
+* French: {{t|fr|centième|m}}
+* Greek: {{t+|el|εκατοστό|n}}
+* Interlingua: {{t|ia|centesimo}}
+{{trans-mid}}
+* Italian: {{t|it|centesimo|m}}
+* Occitan: {{t|oc|centesim|m}}
+* Portuguese: {{t|pt|centésimo|m}}
+* Romanian: {{t|ro|sutime|f}}
+* Spanish: {{t|es|centésimo|m}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* {{ttbc|hy}}: {{t-|hy|հարյուրերորդ|tr=haryurerord}}
+* {{ttbc|eo}}: {{t-|eo|centono}}
+* {{ttbc|fi}}: {{t+|fi|sadas}}
+{{trans-mid}}
+* {{ttbc|gv}}: yn keeadoo
+* {{ttbc|sv}}: {{t+|sv|hundradel|c}}
 {{trans-bottom}}
 
 [[Category:en:Ordinal numbers]]
