@@ -6,7 +6,7 @@
 * {{audio|en-us-divine.ogg|Audio (US)}}
 
 ===Etymology 1===
-From {{etyl|fro|en}} {{term|devin|lang=fro}}, from {{etyl|la|en}} {{term|divinus|dīvīnus||of a god|lang=la}}, from {{term|divus||god|lang=la}}.
+From {{etyl|fro}} {{term|devin|lang=fro}}, from {{etyl|la}} {{term|divinus|dīvīnus||of a god|lang=la}}, from {{term|divus||god|lang=la}}.
 
 ====Adjective====
 {{en-adj}}
@@ -102,10 +102,10 @@ From {{etyl|fro|en}} {{term|devin|lang=fro}}, from {{etyl|la|en}} {{term|divinus
 * Bulgarian: {{t+|bg|божествен}}
 * Catalan: {{t+|ca|diví}}
 * Czech: {{t-|cs|božský}}
-* Finnish: [[taivaallinen]], [[jumalallinen]], [[taivainen]]
+* Finnish: {{t|fi|taivaallinen}}, {{t|fi|jumalallinen}}, {{t|fi|taivainen}}
 * French: {{t+|fr|divin|m}}, {{t+|fr|divine|f}}
 * German: {{t+|de|göttlich}}
-* Hebrew: [[אלוהי]] (elohy)
+* Hebrew: {{t|he|אלוהי|tr=elohy|sc=Hebr}}
 * Hindi: {{t-|hi|दैवीय|m|tr=daiviya|sc=Deva}}
 * Hungarian: {{t+|hu|isteni}}
 * Italian: {{t+|it|divino|m}}, {{t+|it|divina|f}}
@@ -124,10 +124,10 @@ From {{etyl|fro|en}} {{term|devin|lang=fro}}, from {{etyl|la|en}} {{term|divinus
 {{trans-bottom}}
 
 {{trans-top|eternal, holy or otherwise supernatural}}
-* Bulgarian: {{t+|bg|божествен}},  {{t+|bg|свръхестествен}}
-* Finnish: [[ylimaallinen]], [[pyhä]]
+* Bulgarian: {{t+|bg|божествен}}, {{t+|bg|свръхестествен}}
+* Finnish: {{t|fi|ylimaallinen}}, {{t|fi|pyhä}}
 * German: {{t+|de|göttlich}}
-* Italian: {{t+|it|divino|m}},  {{t+|it|divina|f}}
+* Italian: {{t+|it|divino|m}}, {{t+|it|divina|f}}
 * Lithuanian: {{l|lt|dieviškas}}
 {{trans-mid}}
 * Russian: {{t+|ru|божественный|tr=božéstv'ennyj}}
@@ -143,7 +143,7 @@ From {{etyl|fro|en}} {{term|devin|lang=fro}}, from {{etyl|la|en}} {{term|divinus
 * German: {{t+|de|göttlich}}
 * Hebrew: {{t-|he|נשגב|m|sc=Hebr}}
 {{trans-mid}}
-* Italian: {{t+|it|divino|m}},  {{t+|it|divina|f}}
+* Italian: {{t+|it|divino|m}}, {{t+|it|divina|f}}
 * Lithuanian: {{l|lt|dieviškas}}
 * Russian: {{t+|ru|божественный|tr=božéstv'ennyj}}, {{t+|ru|богоподобный|tr=bogopodóbnyj}}
 * Swedish: {{t+|sv|gudomlig}}, {{t+|sv|härlig}}, {{t+|sv|underbar}}
@@ -155,9 +155,9 @@ From {{etyl|fro|en}} {{term|devin|lang=fro}}, from {{etyl|la|en}} {{term|divinus
 * Finnish: {{t-|fi|jumalainen}}, {{t-|fi|taivaallinen}}
 * French: {{t+|fr|divin|m}}, {{t+|fr|divine|f}}
 * German: {{t+|de|göttlich}}
-* Hebrew: [[אלוהי]] (elohy)
+* Hebrew: {{t|he|אלוהי|tr=elohy|sc=Hebr}}
 {{trans-mid}}
-* Italian: {{t+|it|divino|m}},  {{t+|it|divina|f}}
+* Italian: {{t+|it|divino|m}}, {{t+|it|divina|f}}
 * Lithuanian: {{l|lt|dieviškas}}
 * Russian: {{t+|ru|божественный|tr=božéstv'ennyj}}
 * Slovene: {{t-|sl|božanski}}
@@ -166,8 +166,8 @@ From {{etyl|fro|en}} {{term|devin|lang=fro}}, from {{etyl|la|en}} {{term|divinus
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|nov}}: [[deal#Novial|deal]] (1)
-* {{ttbc|tr}}: [[ilahi]]
+* {{ttbc|nov}}: {{qualifier|1}} {{t|nov|deal}}
+* {{ttbc|tr}}: {{t|tr|ilahi}}
 {{trans-bottom}}
 
 ====Noun====
@@ -178,7 +178,7 @@ From {{etyl|fro|en}} {{term|devin|lang=fro}}, from {{etyl|la|en}} {{term|divinus
 
 =====Synonyms=====
 * {{sense|theologian|cleric}} [[clergyman]], [[cleric]], [[man of the cloth]], [[theologian]]
-* {{sense|a deity}} [[Allah]] (''Muslim''), [[deity]], [[god]], [[God]] (''Christian'')
+* {{sense|a deity}} [[Allah]] {{qualifier|Muslim}}, [[deity]], [[god]], [[God]] {{qualifier|Christian}}
 
 =====Derived terms=====
 * [[archdivine]]
@@ -187,7 +187,7 @@ From {{etyl|fro|en}} {{term|devin|lang=fro}}, from {{etyl|la|en}} {{term|divinus
 =====Translations=====
 {{trans-top|theologian, cleric}}
 * Bulgarian: {{t-|bg|богослов|m}}
-* Finnish: [[teologi]], [[jumaluusoppinut]]
+* Finnish: {{t|fi|teologi}}, {{t|fi|jumaluusoppinut}}
 {{trans-mid}}
 * Italian: {{t+|it|divino|m}}, {{t+|it|divina|f}}
 * Swedish: {{t+|sv|andlig|c}}
@@ -195,23 +195,23 @@ From {{etyl|fro|en}} {{term|devin|lang=fro}}, from {{etyl|la|en}} {{term|divinus
 
 {{trans-see|a deity|deity}}
 {{checktrans-top}}
-* {{ttbc|et}}: [[jumalik]]
-* {{ttbc|fr}}: [[divin]] {{m}}, divine {{f}} Doesn't seem to be a noun in French, except in the sense "a divine one"
+* {{ttbc|et}}: {{t|et|jumalik}}
+* {{ttbc|fr}}: {{t|fr|divin|m}}, {{t|fr|divine|f}} Doesn't seem to be a noun in French, {{t|fr|except in the sense "a divine one"}}
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{etyl|frm}} {{term|deviner}}, from {{etyl|la|en}} {{term|divinare}}.
+From {{etyl|frm}} {{term|deviner|lang=frm}}, from {{etyl|la}} {{term|divino|lang=la}}.
 
 ====Verb====
-{{en-verb|divines|divining|divined}}
+{{en-verb|divin|es}}
 
 # {{transitive}} to [[foretell]] (something), especially by the use of [[divination]]
 # {{transitive}} to [[guess]] (something)
 #* '''1874''', [[w:James Thomson (B. V.)|James Thomson]], ''[[:w:City of Dreadful Night|The City of Dreadful Night]]''
 #*: no secret can be told<br>To any who '''divined''' it not before
 #* '''1919''', [[w:William Somerset Maugham|W. Somerset Maugham]], ''[[w:The Moon and Sixpence|The Moon and Sixpence]]'', [[s:The Moon and Sixpence/Chapter XLIII|chapter 43]]
-#*:If in the loneliness of his studio he wrestled desperately with the Angel of the Lord he never allowed a soul to '''divine''' his anguish.
-#* '''2005''', [[w:Plato|Plato]], ''[[S:Sophist|Sophist]]''.  Translation by Lesley Brown. [[w:Stephanus pagination|250c]].
+#*: If in the loneliness of his studio he wrestled desperately with the Angel of the Lord he never allowed a soul to '''divine''' his anguish.
+#* '''2005''', [[w:Plato|Plato]], ''[[S:Sophist|Sophist]]''. Translation by Lesley Brown. [[w:Stephanus pagination|250c]].
 #*: I suppose that we truly are '''divining''' that what is is some third thing when we say that change and stability are.
 # {{transitive}} to search for ([[underground]] objects or water) using a [[divining rod]]<!--note: "dowse" is intransitive and so is not a synonym-->
 
@@ -246,7 +246,7 @@ From {{etyl|frm}} {{term|deviner}}, from {{etyl|la|en}} {{term|divinare}}.
 =====Translations=====
 {{trans-top|foretell (something)}}
 * Bulgarian: {{t+|bg|предсказвам}}
-* Finnish: [[ennustaa]], [[nähdä]] [[tulevaisuus|tulevaisuuteen]]
+* {{ttbc|fi}}: {{t|fi|ennustaa}}, {{t|fi|nähdä tulevaisuuteen}}
 * French: {{t+|fr|prédire}}
 {{trans-mid}}
 * Neapolitan: {{tø|nap|addivinà}}
@@ -265,11 +265,11 @@ From {{etyl|frm}} {{term|deviner}}, from {{etyl|la|en}} {{term|divinare}}.
 {{trans-bottom}}
 
 {{trans-top|search for (underground objects or water) using a divining rod}}
-* Finnish: [[etsiä]] [[vesi|vettä]] [[varpu|varvun]] [[apu|avulla]]
+* {{ttbc|fi}}: {{t|fi|etsiä vettä varvun avulla}}
 {{trans-mid}}
 {{trans-bottom}}
 
-===Related terms===
+====Related terms====
 * ''[[a lo divino]]''
 * [[baculus divinatorius]]
 * [[divinistre]]
