@@ -8,7 +8,7 @@
 
 ===Etymology 1===
 {{wikipedia}}
-From {{etyl|enm}} {{term|ownen|lang=enm}}, from {{etyl|ang}} {{term|agnian|āgnian|to own|lang=ang}}.  Cognate with German {{term|eignen}}, Swedish {{term|ägna}}, Icelandic {{term|eiga}}.
+From {{etyl|enm}} {{term|ownen|lang=enm}}, from {{etyl|ang}} {{term|agnian|āgnian|to own|lang=ang}}. Cognate with German {{term|eignen|lang=en}}, Swedish {{term|ägna|lang=en}}, Icelandic {{term|eiga|lang=en}}.
 
 ====Verb====
 {{en-verb}}
@@ -42,8 +42,8 @@ From {{etyl|enm}} {{term|ownen|lang=enm}}, from {{etyl|ang}} {{term|agnian|āgni
 
 =====Translations=====
 {{trans-top|have rightful possession of}}
-* Arabic: {{Arab|[[ملك|مَلَكَ]]}} (málaka)
-* Chinese: [[拥有]] (yōng yǒu)
+* Arabic: {{t|ar|ملك|alt=مَلَكَ|tr=málaka|sc=Arab}}
+* Chinese: {{t|cmn|拥有|tr=yōng yǒu|sc=Hani}}
 * Czech: {{t+|cs|vlastnit}}
 * Danish: {{t-|da|eje}}
 * Dutch: {{t+|nl|bezitten}}
@@ -57,8 +57,8 @@ From {{etyl|enm}} {{term|ownen|lang=enm}}, from {{etyl|ang}} {{term|agnian|āgni
 * Hungarian: {{t+|hu|birtokol}}, {{t+|hu|bír}}
 * Italian: {{t+|it|possedere}}
 {{trans-mid}}
-* Japanese: [[所有する]] (しょゆうする, shoyū suru)
-* Korean: [[소유하다]] (soyuhada)
+* Japanese: {{t|ja|所有する|tr=しょゆうする, shoyū suru|sc=Jpan}}
+* Korean: {{t|ko|소유하다|tr=soyuhada|sc=Kore}}
 * Latin: {{t-|la|possideo}}, {{t+|la|habeo}}
 * Lojban: {{t-|jbo|ponse}}
 * Macedonian: {{t|mk|поседува|tr=poséeduva|sc=Cyrl}}
@@ -74,16 +74,16 @@ From {{etyl|enm}} {{term|ownen|lang=enm}}, from {{etyl|ang}} {{term|agnian|āgni
 {{trans-bottom}}
 
 {{trans-top|defeat}}
-* Arabic: {{Arab|[[هزم]]}} {{IPAchar|(házama)}}
-* Chinese: [[打败]] (dǎbài)
+* Arabic: {{t|ar|هزم|tr=házama|sc=Arab}}
+* Chinese: {{t|cmn|打败|tr=dǎbài|sc=Hani}}
 * Dutch: {{t+|nl|verslaan}}
 * Finnish: {{t+|fi|voittaa}}
 * French: {{t+|fr|vaincre}}
 * German: {{t+|de|schlagen}}
 * Italian: {{t+|it|sconfiggere}}
-* Japanese: [[負かす]] (まかす, makasu)
+* Japanese: {{t|ja|負かす|tr=まかす, makasu|sc=Jpan}}
 {{trans-mid}}
-* Korean: [[지우다]] (jiuda)
+* Korean: {{t|ko|지우다|tr=jiuda|sc=Kore}}
 * Norwegian: {{t-|no|beseire}}
 * Polish: {{t+|pl|pokonać}}
 * Portuguese: {{t+|pt|derrotar}}
@@ -93,8 +93,8 @@ From {{etyl|enm}} {{term|ownen|lang=enm}}, from {{etyl|ang}} {{term|agnian|āgni
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|io}}: [[proprietar]]
-* {{ttbc|ang}}: [[agan|āgan]]
+* {{ttbc|io}}: {{t|io|proprietar}}
+* {{ttbc|ang}}: {{t|ang|agan|alt=āgan|sc=Latinx}}
 {{trans-bottom}}
 
 ===Etymology 2===
@@ -106,7 +106,7 @@ From {{etyl|enm}} {{term|owen|lang=enm}}, {{term|aȝen|lang=enm}}, from {{etyl|a
 ====Adjective====
 {{en-det}}
 
-# [[belong|Belonging]] to; [[possess]]ed; [[proper]] to;
+# [[belong|Belonging]] to; [[possess]]ed; [[proper]] to.
 #: ''Surprisingly, I realised my '''own''' brother had the same idea as me.''
 #: ''You need to find your '''own''' seat - this one is mine.''
 #: ''He gave her a pen, because he already had his '''own'''.''
@@ -114,8 +114,8 @@ From {{etyl|enm}} {{term|owen|lang=enm}}, {{term|aȝen|lang=enm}}, from {{etyl|a
 #: ''They went this way, but we need to find our '''own''' way.''
 #: ''We have made some arrangements, but you will need to make your '''own'''.''
 #: ''They were all prepared for the picnic, because they had all brought their '''own''' food and plates.''
-# {{obsolete}} [[peculiar]], [[domestic]];
-# {{obsolete}} not [[foreign]];
+# {{obsolete}} [[peculiar|Peculiar]], [[domestic]].
+# {{obsolete}} Not [[foreign]].
 
 =====Usage notes=====
 * implying ownership, often with emphasis. It always follows a possessive pronoun, or a noun in the possessive case.
@@ -126,8 +126,8 @@ From {{etyl|enm}} {{term|owen|lang=enm}}, {{term|aȝen|lang=enm}}, from {{etyl|a
 
 =====Translations=====
 {{trans-top|belonging to (determiner)}}
-* Afrikaans: [[eie]]
-* Arabic: {{Arab|[[ملك]]}} {{IPAchar|(milk)}}, {{Arab|[[نفس]]}} (nafs)
+* Afrikaans: {{t|af|eie}}
+* Arabic: {{t|ar|ملك|tr=milk|sc=Arab}}, {{t|ar|نفس|tr=nafs|sc=Arab}}
 * Catalan: {{t-|ca|mateix}}, {{t+|ca|propi}}
 * Chinese:
 *: Mandarin: {{t|cmn|自己|tr=zìjǐ de|alt=自己的|sc=Hani}}
@@ -136,14 +136,14 @@ From {{etyl|enm}} {{term|owen|lang=enm}}, {{term|aȝen|lang=enm}}, from {{etyl|a
 * Dutch: {{t+|nl|eigen}}
 * Esperanto: {{t-|eo|propra}}
 * Finnish: {{t+|fi|oma}}
-* French: [[propre]] {{m|f}} (''used before the noun'')
+* French: {{qualifier|used before the noun}} {{t|fr|propre|m|f}}
 * Georgian: {{t-|ka|საკუთარი|tr=sakut'ari|sc=Geor}}
-* German: [[eigen]]- (declinated according to gender and case) (''used before the noun'')
+* German: {{qualifier|used before the noun; declined according to gender and case}} {{t|de|eigen-}}
 * Hindi: {{t-|hi|अपना|tr=apnā|sc=Deva}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|saját}}
 * Irish: {{t-|ga|féin}}
-* Italian: [[proprio]] (''used before the noun'')
+* Italian: {{qualifier|used before the noun}} {{t|it|proprio}}
 * Japanese: {{t+|ja|自身|tr=じしんの, jishin-no|alt=自身の|sc=Jpan}}
 * Korean: {{t+|ko|자기|tr=jagi-ui|alt=자기의|sc=Kore}}
 * Latin: {{t+|la|proprius}}
@@ -155,7 +155,7 @@ From {{etyl|enm}} {{term|owen|lang=enm}}, {{term|aȝen|lang=enm}}, from {{etyl|a
 * Russian: {{t+|ru|свой|tr=svoj}}, {{t+|ru|собственный|tr=sóbstvennyj}}
 * Scots: {{tø|sco|ain}}
 * Scottish Gaelic: {{t-|ga|fhèin}}
-* Spanish: [[propio]] {{qualifier|used before the noun}}
+* Spanish: {{qualifier|used before the noun}} {{t|es|propio}}
 * Swedish: {{t+|sv|egen|c}}, {{t+|sv|eget|n}}, {{t+|sv|egna|p}}
 {{trans-bottom}}
 
@@ -178,7 +178,7 @@ From {{etyl|enm}} {{term|unnen||to favour, grant|lang=enm}}, from {{etyl|ang}} {
 =====Translations=====
 {{trans-top|acknowledge responsibility for}}
 * Finnish: {{t+|fi|tunnustaa}}
-* German: [[eingestehen]], [[zugeben]]
+* German: {{t|de|eingestehen}}, {{t|de|zugeben}}
 * Russian: {{t+|ru|признавать|tr=priznavát’}}
 {{trans-mid}}
 * Spanish: {{t+|es|reconocer}}, {{t+|es|admitir}}
@@ -192,7 +192,6 @@ From {{etyl|enm}} {{term|unnen||to favour, grant|lang=enm}}, from {{etyl|ang}} {
 ===References===
 * '''1896''', ''Universal Dictionary of the English Language [UDEL]'', v3 p3429:
 *: ''To possess by right; to have the right of property in; to have the legal right or rightful title to.''
-
 * '''1896''', ''ibid., UDEL''
 * '''1896''', ''ibid., UDEL''
 * '''1896''', ''ibid., UDEL''
@@ -200,8 +199,7 @@ From {{etyl|enm}} {{term|unnen||to favour, grant|lang=enm}}, from {{etyl|ang}} {
 <references/>
 
 ===Anagrams===
-* [[now#English|now]] , [[NOW#English|NOW]]
-* [[won#English|won]]
+* [[now#English|now]] , [[NOW#English|NOW]] [[won#English|won]]
 
 [[Category:200 English basic words]]
 
