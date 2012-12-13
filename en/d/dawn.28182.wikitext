@@ -26,20 +26,20 @@
 ====Translations====
 {{trans-top|to begin to brighten with daylight}}
 * Albanian: {{t+|sq|agimi}}
-* Asturian: {{t|ast|alboriar}}, {{t|ast|alborecer}}
+* Asturian: {{t-|ast|alboriar}}, {{t-|ast|alborecer}}
 * Bulgarian: {{t-|bg|съмва се}}, {{t-|bg|зазорява се}}
 * Catalan: {{t+|ca|clarejar}}
 * Danish: {{t-|da|daggry}}
 * Dutch: {{t+|nl|dagen}}, {{t+|nl|rijzen}}
-* Ewe: {{t|ee|fɔŋli}}
+* Ewe: {{tø|ee|fɔŋli}}
 * Finnish: {{t-|fi|sarastaa}}, {{t+|fi|valjeta}}
 * French: {{t+|fr|se lever}}
 * Greek: {{t+|el|ξημερώνω|tr=ximeróno|sc=Grek}}, {{t+|el|χαράζω|tr=charázo|sc=Grek}}
 * Hungarian: {{t+|hu|hajnalodik}}, {{t+|hu|virrad}}
 * Icelandic: {{t-|is|daga}}, {{t-|is|birta af degi}}
 * Italian: {{t+|it|spuntare}}
-* Japanese: {{t|ja|あかつき|tr=[[akatsuki]]|sc=Jpan}}, {{t|ja|夜明け|tr=yoake|sc=Jpan}}, {{t|ja|曙|tr=akebono|sc=Jpan}}
-* Korean: {{t|ko|밝다|tr=barkda|sc=Kore}}
+* Japanese: {{t+|ja|あかつき|tr=[[akatsuki]]|sc=Jpan}}, {{t-|ja|夜明け|tr=yoake|sc=Jpan}}, {{t+|ja|曙|tr=akebono|sc=Jpan}}
+* Korean: {{t+|ko|밝다|tr=barkda|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t|ku|شه‌به‌قدان|tr=shabaqdAn|sc=ku-Arab}}
 {{trans-mid}}
@@ -52,8 +52,8 @@
 * Portuguese: {{t+|pt|amanhecer}}
 * Russian: {{t+|ru|наступать|tr=nastupát'}}, {{t+|ru|рассветать|tr=rassv'etát'}}
 * Sassarese Sardinian: {{tø|sdc|billòcca}}, {{tø|sdc|chintari}}
-* Serbo-Croatian: {{t|sh|svanuti}}, {{t|sh|rasvetliti}}, {{t|sh|nastupiti}}
-* Slovene: {{qualifier|se}} {{t|sl|daniti}}
+* Serbo-Croatian: {{t-|sh|svanuti}}, {{t-|sh|rasvetliti}}, {{t-|sh|nastupiti}}
+* Slovene: {{qualifier|se}} {{t-|sl|daniti}}
 * Spanish: {{t+|es|amanecer}}
 * Swedish: {{t+|sv|gry}}, {{t+|sv|dagas}}
 * Telugu: {{t-|te|తెల్లారు}} (tellaaru)
@@ -67,16 +67,16 @@
 * Finnish: {{t+|fi|paljastua}}, {{t+|fi|valjeta}}
 * French: {{t+|fr|naître}}
 * Hungarian: {{t+|hu|dereng}}
-* Korean: {{t|ko|밝혀지다|tr=balkhyeojida|sc=Kore}}
+* Korean: {{t+|ko|밝혀지다|tr=balkhyeojida|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t|ku|ده‌رکه‌وتن|tr=darkawtin|sc=ku-Arab}}
 {{trans-mid}}
 * Latin: {{t-|la|lucesco}}, {{t-|la|dilucesco}}, {{t-|la|luciscere}}
 * Macedonian: {{t-|mk|се разјаснува|tr=se razjásnuva}}
 * Portuguese: {{t+|pt|aparecer}}, {{t+|pt|nascer}}
-* Russian: {{t|ru|озарять|tr=ozarját’|sc=Cyrl}}, {{t|ru|осенять|tr=osenját’|sc=Cyrl}}
-* Serbo-Croatian: {{t|sh|sinuti}}, {{t|sh|sinuće}}, {{t|sh|osanjiti}}
-* Slovene: {{qualifier|se}} {{t|sl|razkriti}}
+* Russian: {{t+|ru|озарять|tr=ozarját’|sc=Cyrl}}, {{t+|ru|осенять|tr=osenját’|sc=Cyrl}}
+* Serbo-Croatian: {{t-|sh|sinuti}}, {{t-|sh|sinuće}}, {{t-|sh|osanjiti}}
+* Slovene: {{qualifier|se}} {{t-|sl|razkriti}}
 * Swedish: {{t-|sv|gå upp för}}
 * Welsh: {{t+|cy|sylweddoli}}
 {{trans-bottom}}
@@ -144,7 +144,7 @@
 * Scottish Gaelic: {{t-|gd|beul an latha|m}}, {{t-|gd|briseadh-latha|m}}, {{t-|gd|mochthrath|f}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|праскозорје|n|sc=Cyrl}}, {{t-|sh|зора|f}}
-{{t-|sh|praskozorje|n|alt=prȁskozōrje}}, {{t|sh|zora|f|alt=zòra}}
+{{t-|sh|praskozorje|n|alt=prȁskozōrje}}, {{t+|sh|zora|f|alt=zòra}}
 * Spanish: {{t+|es|alba|f}}, {{t+|es|amanecer|m}}, {{t+|es|aurora|f}}, {{t+|es|madrugada|f}}
 * Vietnamese: {{t+|vi|bình minh}}, {{t+|vi|rạng đông}}
 * Volapük: {{t-|vo|gödalulit}}
@@ -152,11 +152,11 @@
 {{trans-bottom}}
 
 {{trans-top|rising of the sun}}
-* Afrikaans: {{t|af|sonop}}
+* Afrikaans: {{t-|af|sonop}}
 * Armenian: {{t-|hy|լուսաբաց|tr=lusabac’}}, {{t-|hy|այգաբաց|tr=aygabac’}}, {{t+|hy|այգ|tr=ayg}}
-* Asturian: {{t|ast|alba}}, {{t|ast|alborecida}}, {{t|ast|alborecer}}
-* Bulgarian: {{t|bg|зора|f|sc=Cyrl}}, {{t|bg|разсъмване|n|sc=Cyrl}}
-* Catalan: {{t|ca|alba|m}}
+* Asturian: {{t-|ast|alba}}, {{t-|ast|alborecida}}, {{t-|ast|alborecer}}
+* Bulgarian: {{t+|bg|зора|f|sc=Cyrl}}, {{t-|bg|разсъмване|n|sc=Cyrl}}
+* Catalan: {{t+|ca|alba|m}}
 * Chamicuro: {{tø|ccc|ijs̈hwaketasi}}
 * Chinese:
 *: Mandarin: {{t|cmn|天亮|tr=[[tiānliàng]]|sc=Hani}}
@@ -165,7 +165,7 @@
 * Egyptian: {{tø|egy|ʽnḏw|sc=Egyp}}
 *: <hiero>a:n:Dw-w-hrw</hiero>
 * Esperanto: {{t-|eo|tagiĝo}}
-* Ewe: {{t|ee|fɔŋli}}
+* Ewe: {{tø|ee|fɔŋli}}
 * Finnish: {{t+|fi|auringonnousu}}, {{t+|fi|aamunkoitto}}
 * French: {{t-|fr|lever du soleil|m}}
 * {{trreq|Georgian}}
@@ -176,8 +176,8 @@
 * Icelandic: {{t+|is|sólarupprás|f}}, {{t+|is|sólris|n}}, {{t+|is|sólaruppkoma|n}}
 * Italian: {{t+|it|alba|f}}, {{t+|it|aurora|f}}
 {{trans-mid}}
-* Japanese: {{t|ja|夜明け|tr=[[よあけ]], [[yoake]]|sc=Jpan}}
-* Korean: {{t|ko|해돋이|tr=haedodi|sc=Kore}}
+* Japanese: {{t-|ja|夜明け|tr=[[よあけ]], [[yoake]]|sc=Jpan}}
+* Korean: {{t+|ko|해돋이|tr=haedodi|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t|ku|به‌ره‌به‌یان|tr=barabayAn|sc=ku-Arab}}
 * Latin: {{t+|la|aurora}}
@@ -193,7 +193,7 @@
 *: Logudorese Sardinian: {{tø|src|alba}}, {{tø|src|impoddile}}
 * Sassarese Sardinian: {{tø|sdc|pisata di soli}}
 * Scottish Gaelic: {{t-|gd|èirigh na grèine|f}}
-{{t+|sh|zora|f|alt=zòra}}, {{t-|sh|svitanje|n|alt=svȉtānje}}, {{t-|sh|osvit|m|alt=òsvit}}, {{t-|sh|svanuće|n|alt=svanúće}}, {{t|sh|svitak}}
+{{t+|sh|zora|f|alt=zòra}}, {{t-|sh|svitanje|n|alt=svȉtānje}}, {{t-|sh|osvit|m|alt=òsvit}}, {{t-|sh|svanuće|n|alt=svanúće}}, {{t-|sh|svitak}}
 * Slovene: {{t+|sl|zora|f}}
 * Spanish: {{t+|es|amanecer}}, {{t+|es|alba}}
 * Swedish: {{t+|sv|soluppgång}}
@@ -206,33 +206,33 @@
 * Catalan: {{t+|ca|albada|f}}
 * Czech: {{t-|cs|úsvit|m}}, {{t+|cs|svítání|n}}, {{t-|cs|zora|f}}
 * Dutch: {{t+|nl|dageraad|m}}, {{t+|nl|zonsopgang|m}}, {{t+|nl|ochtendschemering|f}}
-* Ewe: {{t|ee|fɔŋli}}
+* Ewe: {{tø|ee|fɔŋli}}
 * Finnish: {{t+|fi|aamunkoitto}}
 * French: {{t+|fr|aube|f}}, {{t+|fr|aurore|f}}
 * {{trreq|Georgian}}
-* German: {{t|de|Dämmerung|f}}, {{t|de|Morgendämmerung|f}}, {{t|de|Morgengrauen|n}}, {{t|de|Tagesanbruch|m}}
+* German: {{t+|de|Dämmerung|f}}, {{t+|de|Morgendämmerung|f}}, {{t+|de|Morgengrauen|n}}, {{t+|de|Tagesanbruch|m}}
 * Greek: {{t+|el|αυγή|f|tr=avgí|sc=Grek}}
 * Hebrew: {{t+|he|שחר|m|tr=shakhar}}
 * Hungarian: {{t+|hu|virradat}}, {{t+|hu|hajnal}}
 * Icelandic: {{t+|is|dögun|f}}
 {{trans-mid}}
 * Italian: {{t+|it|alba|f}}, {{t-|it|albori|m|p}}
-* Korean: {{t|ko|새벽|tr=saebyeok|sc=Kore}}
+* Korean: {{t+|ko|새벽|tr=saebyeok|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t|ku|به‌ره‌به‌یان|tr=barabayAn|sc=ku-Arab}}, {{t|ku|شه‌به‌ق|tr=shabaq|sc=ku-Arab}}
 * Latin: {{t+|la|aurora|f}}
 * Macedonian: {{t-|mk|зора|f|tr=zóra}}, {{t-|mk|мугра|f|tr=mùgra}}
 * Portuguese: {{t+|pt|aurora}}
 * {{trreq|Romanian}}
-* Russian: {{t|ru|восход солнца|m|tr=vosxód sólntsa|sc=Cyrl}}, {{t|ru|рассвет|m|tr=rassvét|sc=Cyrl}}, ([[утренний|утренняя]]) [[заря]] ((útrennjaja) zarjá) {{f}}
+* Russian: {{t-|ru|восход солнца|m|tr=vosxód sólntsa|sc=Cyrl}}, {{t+|ru|рассвет|m|tr=rassvét|sc=Cyrl}}, ([[утренний|утренняя]]) [[заря]] ((útrennjaja) zarjá) {{f}}
 * Scottish Gaelic: {{t-|gd|beul an latha|m}}, {{t-|gd|briseadh-latha|m}}, {{t-|gd|mochthrath|f}}
-* Serbo-Croatian: {{t|sh|svanuti}}, {{t|sh|zora}}, {{t|sh|razdan}}, {{t|sh|rasvet}}, {{t|sh|rasvetliti}}, {{t|sh|svanuti}}, {{t|sh|usvanuti}}, {{t|sh|zasvanuti}}, {{t|sh|svitanje}}, {{t-|sh|osvit|m|alt=òsvit}}
+* Serbo-Croatian: {{t-|sh|svanuti}}, {{t+|sh|zora}}, {{t-|sh|razdan}}, {{t-|sh|rasvet}}, {{t-|sh|rasvetliti}}, {{t-|sh|svanuti}}, {{t-|sh|usvanuti}}, {{t-|sh|zasvanuti}}, {{t-|sh|svitanje}}, {{t-|sh|osvit|m|alt=òsvit}}
 * Swedish: {{t+|sv|gryning|c}}
 * Yiddish: {{t+|yi|פֿאַרטאָג|m|tr=fartog|sc=Hebr}}
 {{trans-bottom}}
 
 {{trans-top|beginning}}
-* Arabic: {{t|ar|الفجر|sc=Arab}}
+* Arabic: {{t-|ar|الفجر|sc=Arab}}
 * Armenian: {{t+|hy|այգ|tr=ayg}}
 * Catalan: {{t-|ca|albors|f|p}}
 * Chinese:
@@ -247,7 +247,7 @@
 * Hungarian: {{t+|hu|hajnal}}
 * Icelandic: {{t+|is|dögun|f}}
 * Italian: {{t-|it|albori|m|p}}, {{t-|it|schiudersi|m}}
-* Korean: {{t|ko|새벽|tr=saebyeok|sc=Kore}}
+* Korean: {{t+|ko|새벽|tr=saebyeok|sc=Kore}}
 * Latin: {{t+|la|aurora|f}}, {{t+|la|initium|n}}
 * Macedonian: {{t-|mk|зора|f|tr=zóra}}
 * Polish: {{t+|pl|świt|m}}, {{t-|pl|zaranie|n}}
@@ -258,7 +258,7 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|te}}: {{t|te|తొలి పొద్దు|tr=toli poddu|sc=Telu}}, {{t|te|ఉదయ సంధ్య|tr=udaya saMdhya|sc=Telu}}
+* {{ttbc|te}}: {{t-|te|తొలి పొద్దు|tr=toli poddu|sc=Telu}}, {{t-|te|ఉదయ సంధ్య|tr=udaya saMdhya|sc=Telu}}
 {{trans-bottom}}
 
 ====See also====
