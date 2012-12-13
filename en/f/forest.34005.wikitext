@@ -63,7 +63,7 @@ From {{etyl|enm|en}} {{term|forest|forest||lang=enm}}, from {{etyl|fro|en}} {{te
 * Armenian: {{t+|hy|անտառ|tr=antaṙ}}
 * Aromanian: {{t-|rup|pãdure}}, {{t-|rup|codru}}, {{t-|rup|dhas}}, {{t-|rup|dubrac}}, {{t-|rup|curii}}
 * Azeri: {{t+|az|meşə}}
-* Bashkir: {{t+|ba|урман|tr=urman|sc=Cyrl}}
+* Bashkir: {{tø|ba|урман|tr=urman|sc=Cyrl}}
 * Basque: [[baso]]
 * Belarusian: {{t-|be|лес|m|tr=les|sc=Cyrl}}
 * Bengali: {{t-|bn|বন|tr=bôn|sc=Beng}}, {{t-|bn|জঙ্গল|tr=jônggôl|sc=Beng}}
@@ -83,7 +83,7 @@ From {{etyl|enm|en}} {{term|forest|forest||lang=enm}}, from {{etyl|fro|en}} {{te
 * Creek: [[etvlkē]]
 * Crimean Tatar: {{tø|crh|orman}}
 * Czech: {{t+|cs|les|m}}
-* Danish: {{t-|da|skov|c}}
+* Danish: {{t+|da|skov|c}}
 * Dutch: {{t+|nl|woud|n}}, {{t+|nl|bos|n}}
 * Erzya: {{tø|myv|вирь|tr=virʹ}}
 * Esperanto: {{t-|eo|arbaro}}, {{t-|eo|forsto}}
@@ -97,7 +97,7 @@ From {{etyl|enm|en}} {{term|forest|forest||lang=enm}}, from {{etyl|fro|en}} {{te
 * German: {{t+|de|Wald|m}}, {{t+|de|Forst}}, {{t+|de|Gehölz|n}}, {{t+|de|Hain}}
 * Greek: {{t+|el|δάσος|n|tr=dásos}}, {{t+|el|δρυμός|m|tr=drimós}}
 * Guaraní: [[ka'aguy]]
-* Gujarati: {{t-|gu|જંગલ|tr=jaṅgal|sc=Gujr}}, {{t-|gu|વન|tr=van|sc=Gujr}}
+* Gujarati: {{t-|gu|જંગલ|tr=jaṅgal|sc=Gujr}}, {{t+|gu|વન|tr=van|sc=Gujr}}
 * Haitian Creole: {{tø|ht|forè}}
 * Hausa: {{t-|ha|kurmi}}
 * Hawaiian: {{tø|haw|ulu lāʻau}}
@@ -180,8 +180,8 @@ From {{etyl|enm|en}} {{term|forest|forest||lang=enm}}, from {{etyl|fro|en}} {{te
 * Tatar: {{t+|tt|урман|tr=urman|sc=Cyrl}}
 * Telugu: {{t+|te|అడవి|tr=aḍavi|sc=Telu}}
 * Thai: {{t+|th|ป่า|tr=bpàa|sc=Thai}}, {{t-|th|ป่าไม้|tr=bpàa mái|sc=Thai}}
-* Tocharian A: {{t|xto|wärt}}
-* Tocharian B: {{t|txb|wartto}}
+* Tocharian A: {{tø|xto|wärt}}
+* Tocharian B: {{tø|txb|wartto}}
 * Tok Pisin: {{t-|tpi|bus}}
 * Tupinambá: [[ka'a]]
 * Turkish: {{t+|tr|orman}}
@@ -206,7 +206,7 @@ From {{etyl|enm|en}} {{term|forest|forest||lang=enm}}, from {{etyl|fro|en}} {{te
 {{trans-top|any dense collection}}
 * Greek: {{t+|el|δάσος|n|tr=dásos}}
 * Italian: {{t+|it|foresta|f}}
-* Romanian: {{t|ro|pădure|f}}, {{t|ro|mulțime|f}}
+* Romanian: {{t+|ro|pădure|f}}, {{t-|ro|mulțime|f}}
 * Russian: {{t+|ru|лес|m|tr=les}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|шума|f}}
@@ -218,7 +218,7 @@ From {{etyl|enm|en}} {{term|forest|forest||lang=enm}}, from {{etyl|fro|en}} {{te
 {{trans-bottom}}
 
 {{trans-top|graph theory: union of trees}}
-* Danish: {{t-|da|skov|c}}
+* Danish: {{t+|da|skov|c}}
 * Greek: {{t+|el|δάσος|n|tr=dásos}}
 * Hungarian: {{t+|hu|erdő}}
 {{trans-mid}}
