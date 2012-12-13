@@ -24,13 +24,13 @@
 * Afrikaans: {{t-|af|afstof}}
 * Akkadian: {{tø|akk|𒅖|tr=epru‹m›|sc=Xsux}}
 * Albanian: {{t-|sq|pluhur|m}}
-* Arabic: {{t|ar|غبار|m|tr=ġubār|sc=Arab}}
+* Arabic: {{t-|ar|غبار|m|tr=ġubār|sc=Arab}}
 * Armenian: {{t-|hy|փոշի|tr=p'oši}}
 * Aromanian: {{t-|rup|pulbire}}
 * Asturian: {{t-|ast|polvu|m}}
-* Azeri: {{t|az|toz}}
+* Azeri: {{t-|az|toz}}
 * Baluchi: {{tø|bal|ہاک|tr=hák}}
-* Belarusian: {{t|be|пыл|m|tr=pyl|sc=Cyrl}}
+* Belarusian: {{t-|be|пыл|m|tr=pyl|sc=Cyrl}}
 * Bulgarian: {{t+|bg|прах|m|tr=prah}}
 * Catalan: {{t+|ca|pols|f}}
 * Chamicuro: {{tø|ccc|ijpe}}
@@ -54,14 +54,14 @@
 * Icelandic: {{t+|is|ryk|n}}, {{t+|is|duft|n}}
 * Indonesian: {{t+|id|debu}}, {{t+|id|duli}}
 * Italian: {{t+|it|polvere|f}}
-* Japanese: {{t+|ja|埃|tr=[[ほこり]], hokori}}, {{t|ja|ほこり|tr=hokori|sc=Jpan}}
+* Japanese: {{t+|ja|埃|tr=[[ほこり]], hokori}}, {{t-|ja|ほこり|tr=hokori|sc=Jpan}}
 * Kazakh: {{t-|kk|шаң|tr=şañ|sc=Cyrl}}
 * Korean: {{t+|ko|먼지|tr=meonji|sc=Hang}}, {{t+|ko|흙|tr=heulg|sc=Kore}}
 * Latin: {{t-|la|pulvis|m}}
 * Latvian: {{t-|lv|puteklis}}, {{t-|lv|putekļi|p}}
 * Lithuanian: {{t-|lt|dulkės|p}}
 * Luxembourgish: {{t-|lb|Stëbs|m}}
-* Macedonian: {{t|mk|прав|m|tr=prav|sc=Cyrl}}, {{t|mk|прашина|f|tr=prášina|sc=Cyrl}}
+* Macedonian: {{t-|mk|прав|m|tr=prav|sc=Cyrl}}, {{t-|mk|прашина|f|tr=prášina|sc=Cyrl}}
 {{trans-mid}}
 * Malay:
 *: Rumi: {{t-|ms|habuk}}, {{t-|ms|debu}}
@@ -80,7 +80,7 @@
 * Rohingya: {{tø|rhg|dúl}}
 * Romanian: {{t-|ro|praf|n}},  {{t-|ro|pulbere|f}}, {{t+|ro|colb|n}}
 * Romansch: {{t-|rm|pulvra|f}}, {{t-|rm|puolra|f}}, {{t-|rm|polvra|f}}, {{t-|rm|puolvra|f}}
-* Russian: {{t+|ru|пыль|f|tr=pylʹ}}, {{t|ru|прах|m|tr=prax|sc=Cyrl}} {{qualifier|poetic}}
+* Russian: {{t+|ru|пыль|f|tr=pylʹ}}, {{t+|ru|прах|m|tr=prax|sc=Cyrl}} {{qualifier|poetic}}
 * Sardinian: {{t-|sc|peure}}, {{t-|sc|piubare}}, {{t-|sc|piubere}}, {{t-|sc|piure}}, {{t-|sc|prubere}}
 * Scottish Gaelic: {{t-|gd|duslach|m}},  {{t-|gd|dust|m}},  {{t-|gd|stùr|m}}
 * Serbo-Croatian:
@@ -96,8 +96,8 @@
 * Telugu: {{t+|te|దుమ్ము}}, {{t+|te|ధూళి}}
 * Thai: {{t-|th|ธุลี|sc=Thai|tr=thúlii}}
 * Turkish: {{t+|tr|toz}}
-* Ukrainian: {{t|uk|пил|m|tr=pyl|sc=Cyrl}}
-* Uzbek: {{t|uz|chang}}
+* Ukrainian: {{t-|uk|пил|m|tr=pyl|sc=Cyrl}}
+* Uzbek: {{t-|uz|chang}}
 * Vietnamese: {{t+|vi|bụi}}
 * Volapük: {{t+|vo|püf}}
 * West Frisian: {{t-|fy|stof|n}}
@@ -163,7 +163,7 @@
 * Finnish: [[pyyhkiä]] [[pöly|pölyt]], {{t-|fi|pölyttää}}, {{t-|fi|tomuttaa}}
 * French: {{t+|fr|épousseter}}
 {{trans-mid}}
-* German: {{t-|de|entstauben}}
+* German: {{t+|de|entstauben}}
 * Greek: {{t+|el|ξεσκονίζω|tr=xeskonízo}}
 * Italian: {{t+|it|spolverare}}
 * Scottish Gaelic: {{t-|gd|dustaig}}
@@ -177,7 +177,7 @@
 *: Mandarin: {{zh-ts|[[擦]][[灰塵]]|[[擦]][[灰尘]]}} ([[chā]][[huī]][[chén]])
 * Dutch: {{t+|nl|afstoffen}}
 * Finnish: {{t-|fi|tomuttaa}}, {{t-|fi|pölyttää}}
-* German: {{t-|de|entstauben}}
+* German: {{t+|de|entstauben}}
 {{trans-mid}}
 * Italian: {{t+|it|spolverare}}
 * Romanian: {{t-|ro|scutura}}
@@ -204,7 +204,7 @@
 {{trans-bottom}}
 
 {{ttbc-top}}
-* {{ttbc|roa-jer}}: {{t|roa-jer|chiffonner}}
+* {{ttbc|roa-jer}}: {{tø|roa-jer|chiffonner}}
 {{trans-mid}}
 {{trans-bottom}}
 
