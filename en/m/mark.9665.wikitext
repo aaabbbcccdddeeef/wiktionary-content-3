@@ -364,7 +364,7 @@ From {{etyl|enm}} {{term|mark|lang=enm}}, from {{etyl|ang}} {{term|marc||a denom
 * Czech: {{t+|cs|marka}}
 * Dutch: {{t+|nl|mark|m}}
 * Estonian: {{t+|et|mark}}
-* Finnish: {{qualifier|Finnish}} {{t|fi|markka}}, {{qualifier|German}} {{t|fi|saksanmarkka}}, {{t|fi|Saksan markka}}
+* Finnish: {{qualifier|Finnish}} {{t+|fi|markka}}, {{qualifier|German}} {{t-|fi|saksanmarkka}}, {{t-|fi|Saksan markka}}
 * French: {{t+|fr|mark|m}}
 * German: {{t+|de|Mark|f}}, {{qualifier|1924-1948 German currency}} {{t+|de|Reichsmark|f}}
 * Irish: {{t+|ga|marc|m}}
@@ -375,8 +375,8 @@ From {{etyl|enm}} {{term|mark|lang=enm}}, from {{etyl|ang}} {{term|marc||a denom
 * Portuguese: {{t+|pt|marco|m}}
 * Russian: {{t+|ru|марка|f|tr=márka}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|марка|f|sc=Cyrl}}
-*: Roman: {{t|sh|marka|f}}
+*: Cyrillic: {{t-|sh|марка|f|sc=Cyrl}}
+*: Roman: {{t-|sh|marka|f}}
 * Spanish: {{t+|es|marco|m}}
 * Swedish: {{t+|sv|mark|c}}, {{t+|sv|D-mark|c}}
 * Turkish: {{t+|tr|mark}}
@@ -386,13 +386,13 @@ From {{etyl|enm}} {{term|mark|lang=enm}}, from {{etyl|ang}} {{term|marc||a denom
 {{trans-top|coin}}
 * Dutch: {{t+|nl|mark|m}}
 * Finnish: {{t+|fi|markka}}
-* {{ttbc|fr}}: {{t|fr|pièce|f}} d'un mark
-* {{ttbc|it}}: {{t|it|moneta|f}} di un marco
+* {{ttbc|fr}}: {{t+|fr|pièce|f}} d'un mark
+* {{ttbc|it}}: {{t+|it|moneta|f}} di un marco
 {{trans-mid}}
 * Russian: {{t+|ru|марка|f|tr=márka}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|марка|f|sc=Cyrl}}
-*: Roman: {{t|sh|marka|f}}
+*: Cyrillic: {{t-|sh|марка|f|sc=Cyrl}}
+*: Roman: {{t-|sh|marka|f}}
 * Swahili: {{t+|sw|maki}}
 {{trans-bottom}}
 
