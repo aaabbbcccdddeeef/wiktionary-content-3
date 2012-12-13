@@ -83,7 +83,7 @@ From {{etyl|xno}} {{term|male|lang=xno}}, {{term|meole|lang=xno}} et al., {{etyl
 * French: {{t+|fr|courrier|m}}, {{t+|fr|poste|f}}
 * German: {{t+|de|Post|f}}
 * Greek: {{t+|el|ταχυδρομείο|n|tr=tachydromeío|sc=Grek}}
-* Hebrew: {{t|he|דואר|m|tr=doar|sc=Hebr}}
+* Hebrew: {{t+|he|דואר|m|tr=doar|sc=Hebr}}
 * Hindi: {{t-|hi|डाक|f|tr=ḍāk|sc=Deva}}
 * Hungarian: {{t+|hu|posta}}
 {{trans-mid}}
@@ -99,7 +99,7 @@ From {{etyl|xno}} {{term|male|lang=xno}}, {{term|meole|lang=xno}} et al., {{etyl
 * Slovak: {{t-|sk|pošta|f}}
 * Spanish: {{t+|es|correo|m}}
 * Swedish: {{t+|sv|post|c}}
-* Urdu: {{t+|ur|ڈاک|f|tr=ḍāk|sc=ur-Arab}}
+* Urdu: {{t-|ur|ڈاک|f|tr=ḍāk|sc=ur-Arab}}
 {{trans-bottom}}
 
 {{trans-top|organisation}}
@@ -134,7 +134,7 @@ From {{etyl|xno}} {{term|male|lang=xno}}, {{term|meole|lang=xno}} et al., {{etyl
 * Italian: {{t+|it|posta|f}}
 * Latvian: {{t-|lv|pasts}}
 * Lithuanian: {{t+|lt|paštas|m}}
-* {{ttbc|jbo}}: {{t|jbo|se mrilu}}
+* {{ttbc|jbo}}: {{t-|jbo|se mrilu}}
 * Portuguese: {{t+|pt|correspondência|f}}
 * Russian: {{t+|ru|почта|f|tr=póčta}}, {{t+|ru|корреспонденция|t=korrespondéncija|f}}
 * Slovak: {{t-|sk|pošta|f}}
@@ -161,14 +161,14 @@ From {{etyl|xno}} {{term|male|lang=xno}}, {{term|meole|lang=xno}} et al., {{etyl
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sh}}: {{t|sh|pošta|f|tr=1-4}}, {{t-|sh|poštanski}}
-* {{ttbc|he}}: {{t|he|דואר|tr=do'ar|sc=Hebr}}
-* {{ttbc|ia}}: {{qualifier|1, 2, 4}} {{t|ia|posta}}, {{t|ia|currero}}, {{qualifier|3}} {{t|ia|correspondentia}}, {{qualifier|5}} {{t|ia|malia}}
+* {{ttbc|sh}}: {{t-|sh|pošta|f|tr=1-4}}, {{t-|sh|poštanski}}
+* {{ttbc|he}}: {{t+|he|דואר|tr=do'ar|sc=Hebr}}
+* {{ttbc|ia}}: {{qualifier|1, 2, 4}} {{t-|ia|posta}}, {{t-|ia|currero}}, {{qualifier|3}} {{t-|ia|correspondentia}}, {{qualifier|5}} {{t-|ia|malia}}
 {{trans-mid}}
-* {{ttbc|pt}}: {{t|pt|correio|m}}, {{qualifier|rare:; 1, 2, 3, 4}} {{t|pt|posta|f}}, {{qualifier|3}} {{t|pt|correspondência|f}}, {{qualifier|5}} {{t|pt|malha|f}}
+* {{ttbc|pt}}: {{t+|pt|correio|m}}, {{qualifier|rare:; 1, 2, 3, 4}} {{t+|pt|posta|f}}, {{qualifier|3}} {{t+|pt|correspondência|f}}, {{qualifier|5}} {{t+|pt|malha|f}}
 * {{ttbc|sh}}:
-*: Cyrillic: {{t|sh|пошта|f|tr=1-4|sc=Cyrl}}, {{t-|sh|поштански|tr=poštanski|sc=Cyrl}}
-*: Roman: {{qualifier|1-4}} {{t|sh|pošta|f}}
+*: Cyrillic: {{t-|sh|пошта|f|tr=1-4|sc=Cyrl}}, {{t-|sh|поштански|tr=poštanski|sc=Cyrl}}
+*: Roman: {{qualifier|1-4}} {{t-|sh|pošta|f}}
 {{trans-bottom}}
 
 ====Verb====
