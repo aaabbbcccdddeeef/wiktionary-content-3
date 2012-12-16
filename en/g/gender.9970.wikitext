@@ -76,7 +76,7 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|gendre|lang=frm}}/{{term|genre|lang=
 * Chechen: {{tø|ce|род}}
 * {{trreq|chr}}
 * Chinese:
-*: Mandarin: {{t-|cmn|性別|sc=Hani}}, {{t-|cmn|性别|tr=xìngbié|sc=Hani}}
+*: Mandarin: {{t|cmn|性別|sc=Hani}}, {{t+|cmn|性别|tr=xìngbié|sc=Hani}}
 * {{trreq|co}}
 * Czech: {{t+|cs|rod|m}}
 * Danish: {{t+|da|køn|n}}
@@ -91,7 +91,7 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|gendre|lang=frm}}/{{term|genre|lang=
 * French: {{t+|fr|genre|m}}
 * {{trreq|fur}}
 * Galician: {{t-|gl|xénero|m}}
-* {{trreq|ka}}
+* Georgian: {{t-|ka|სქესი|tr=sk'esi|sc=Geor}}
 * German: {{t+|de|Geschlecht|n}}
 * Greek: {{t+|el|γένος|n|tr=ghénos}}
 * {{trreq|gu}}
@@ -122,7 +122,7 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|gendre|lang=frm}}/{{term|genre|lang=
 * {{trreq|oc}}
 * {{trreq|or}}
 * {{trreq|ps}}
-* Persian: {{t+|fa|جنس}}
+* Persian: {{t+|fa|جنس|tr=jens|sc=fa-Arab}}
 * Polish: {{t+|pl|rodzaj|m}}
 * Portuguese: {{t+|pt|gênero}}
 * {{trreq|pa}}
@@ -156,20 +156,22 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|gendre|lang=frm}}/{{term|genre|lang=
 * Armenian: {{t-|hy|սեռ|tr=seṙ}}
 * Asturian: {{t-|ast|sexu|m}}
 * Belarusian: {{t|be|пол|m|tr=pol|sc=Cyrl}}
+* Bulgarian: {{t|bg|пол|m|tr=pol|sc=Cyrl}}
 * Catalan: {{t-|ca|sexe|m}}
 * {{trreq|chr}}
 * Chinese:
-*: Mandarin: {{t-|cmn|性別|sc=Hani}}, {{t-|cmn|性别|tr=xìngbié|sc=Hani}}
+*: Mandarin: {{t|cmn|性別|sc=Hani}}, {{t+|cmn|性别|tr=xìngbié|sc=Hani}}
 * Czech: {{t+|cs|pohlaví|n}}
 * Danish: {{t+|da|køn|n}}
 * {{trreq|dv}}
 * Dutch: {{t+|nl|geslacht|n}}
+* Estonian: {{t|et|sugu}}
 * Faroese: {{t-|fo|kyn|n}}
 * Finnish: {{t+|fi|sukupuoli}}
 * French: {{t+|fr|sexe|m}}
 * {{trreq|fur}}
 * Galician: {{t-|gl|sexo|m}}
-* Georgian: {{t-|ka|სქესი|tr=skesi|sc=Geor}}
+* Georgian: {{t-|ka|სქესი|tr=sk'esi|sc=Geor}}
 * German: {{t+|de|Geschlecht|n}}
 * Greek: {{t+|el|φύλο|n|tr=fílo}}
 * Hebrew: {{t+|he|מגדר}}
@@ -179,13 +181,14 @@ From {{etyl|enm}}, from {{etyl|frm}} {{term|gendre|lang=frm}}/{{term|genre|lang=
 * Khmer: {{t-|km|ជាតិលិង្គ|tr=jiet lɨng|sc=Khmr}}
 * Korean: {{t|ko|성|tr=seong|sc=Kore}}
 * Latin: {{t+|la|genus|n}}
+* Latvian: {{t+|lv|dzimte|f}}
 * Lithuanian: {{t|lt|lytis|m}}
 * Macedonian: {{t-|mk|пол|m|tr=pol}}
 * Malagasy: {{t-|mg|lahi-vavy}}, {{t-|mg|lahy vavy}}, {{t-|mg|lahivavy}}
 * Malay: {{t-|ms|jantina}}
 * {{trreq|mwl}}
 * Norwegian: {{t+|no|kjønn|n}}
-* Persian: {{t|fa|جنس|tr=jens|sc=fa-Arab}}
+* Persian: {{t+|fa|جنس|tr=jens|sc=fa-Arab}}
 * Polish: {{t+|pl|płeć|f}}
 * Portuguese: {{t+|pt|gênero|m}}, {{t+|pt|sexo|m}}
 * Romanian: {{t-|ro|gen}}, {{t+|ro|sex}}
