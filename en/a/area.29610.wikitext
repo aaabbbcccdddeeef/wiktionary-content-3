@@ -79,7 +79,7 @@ From {{etyl|la|en}} {{term|area|lang=la}}.
 ====Translations====
 {{trans-top|math: measure of extent of a surface}}
 * Basque: {{t-|eu|sail}}
-* Bulgarian: {{t+|bg|площ|tr=plošt}}, {{t+|bg|пространство}}, {{t+|bg|повърхнина}}
+* Bulgarian: {{t+|bg|площ|tr=plošt|sc=Cyrl}}, {{t+|bg|пространство|sc=Cyrl}}, {{t+|bg|повърхнина|sc=Cyrl}}
 * Catalan: {{t-|ca|àrea|f}}
 * Chinese:
 *: Mandarin: {{t|cmn|面積|sc=Hani}}, {{t|cmn|面积|tr=miànjī|sc=Hani}}
@@ -99,10 +99,10 @@ From {{etyl|la|en}} {{term|area|lang=la}}.
 * Luxembourgish: {{t+|lb|Fläch}}
 * Norwegian: {{t+|no|areal}}
 *: Nynorsk: {{t-|nn|flatevidd}}
-* Polish: [[powierzchnia]] {{f}}
+* Polish: {{t|pl|powierzchnia|f}}
 * Romanian: {{t-|ro|arie|f}}, {{t-|ro|arii|f|p}}
 * Russian: {{t+|ru|площадь|f|sc=Cyrl|tr=plóščad'}}
-* Scots: [[aurie]]
+* Scots: {{t|sco|aurie}}
 * Scottish Gaelic: {{t-|gd|farsaingeachd|f}}
 * Slovak: {{t-|sk|plocha}}
 * Slovene: {{t+|sl|površina|f}}
@@ -111,8 +111,8 @@ From {{etyl|la|en}} {{term|area|lang=la}}.
 {{trans-bottom}}
 
 {{trans-top|particular geographic region}}
-* Baluchi: {{tø|bal|ہند|tr=hand}}
-* Bulgarian: {{t+|bg|област|tr=oblast}}, {{t+|bg|район|m|tr=rajon}}
+* Baluchi: {{tø|bal|ہند|tr=hand|sc=fa-Arab}}
+* Bulgarian: {{t+|bg|област|tr=oblast|sc=Cyrl}}, {{t+|bg|район|m|tr=rajon|sc=Cyrl}}
 * Catalan: {{t-|ca|àrea|f}}
 * Chinese:
 *: Mandarin: {{t|cmn|地區|sc=Hani}}, {{t|cmn|地区|tr=dìqū|sc=Hani}}, {{t|cmn|領域|sc=Hani}}, {{t|cmn|领域|tr=lǐngyù|sc=Hani}}
@@ -126,10 +126,10 @@ From {{etyl|la|en}} {{term|area|lang=la}}.
 {{trans-mid}}
 * Japanese: {{t+|ja|領域|tr=りょういき, ryōiki|sc=Jpan}}
 * Khmer: {{t+|km|តំបន់|sc=Khmr|tr=tɑmbɑn}}
-* Polish: [[obszar]] {{m}}
+* Polish: {{t|pl|obszar|m}}
 * Romanian: {{t-|ro|suprafață|f}}, {{t-|ro|areal|n}}, {{t-|ro|zonă|f}}, {{t-|ro|arie|f}}
 * Russian: {{t+|ru|область|f|sc=Cyrl|tr=óblast'}}, {{t+|ru|район|m|tr=rajón|sc=Cyrl}}
-* Scots: [[aurie]]
+* Scots: {{t|sco|aurie}}
 * Scottish Gaelic: {{t-|gd|àrainn|f}}
 * Spanish: {{t+|es|área|f}}, {{t+|es|región|f}}
 * Swedish: {{t+|sv|område|n}}
@@ -145,7 +145,7 @@ From {{etyl|la|en}} {{term|area|lang=la}}.
 {{trans-top|figuratively, any extent, scope or range}}
 * Finnish: {{t+|fi|alue}}
 {{trans-mid}}
-* Polish: [[dziedzina]] {{f}}
+* Polish: {{t|pl|dziedzina|f}}
 {{trans-bottom}}
 
 {{trans-top|open space, below ground level, between the front of a house and the pavement}}
@@ -197,7 +197,7 @@ From {{etyl|la|en}} {{term|area|lang=la}}.
 ==Italian==
 
 ===Etymology===
-Borrowed from {{etyl|la|it}} {{term|area|ārea|lang=la}}. Cf. {{term|aia|lang=it}}.
+Borrowed from {{etyl|la|it}} {{term|area|ārea|lang=la}}. Cognate to Italian {{term|aia|lang=it}} (which is not borrowed but inherited).
 
 ===Noun===
 {{it-noun|are|f|a|e}}
@@ -214,7 +214,7 @@ Borrowed from {{etyl|la|it}} {{term|area|ārea|lang=la}}. Cf. {{term|aia|lang=it
 ==Latin==
 
 ===Etymology===
-Of uncertain origin. According to a hypothesis, it is related to ''[[areo|āreō]]'' "I become dry," on notion of a dry, bare space.
+Of uncertain origin. According to a hypothesis, it is related to {{term|areo|āreō|I become dry|lang=la}}, on notion of a dry, bare space.
 
 ===Noun===
 {{la-noun|ārea|areae|āreae|f|first}}
