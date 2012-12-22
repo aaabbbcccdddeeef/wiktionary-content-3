@@ -1,6 +1,8 @@
 ==English==
-
 {{wikipedia}}
+
+===Etymology===
+From {{etyl|fro}} {{term|degré|lang=fro}} (French: [[degré]]).
 
 ===Pronunciation===
 * {{enPR|dĭgrē'}}
@@ -8,9 +10,6 @@
 * {{X-SAMPA|/dI"gri/}}
 * {{audio|en-us-degree.ogg|Audio (US)}}
 * {{audio|En-uk-degree.ogg|Audio (UK)}}
-
-===Etymology===
-From {{etyl|fro}} ''[[degre]]'' (French: [[degré]]).
 
 ===Noun===
 {{en-noun}}
@@ -94,7 +93,7 @@ From {{etyl|fro}} ''[[degre]]'' (French: [[degré]]).
 * Romanian: {{t-|ro|grad|n}}, {{t-|ro|grade|n|p}}
 * Russian: {{t+|ru|градус|m|tr=grádus}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|степен|m}}, {{t-|sh|ступањ|m}}
+*: Cyrillic: {{t-|sh|степен|m|sc=Cyrl}}, {{t-|sh|ступањ|m|sc=Cyrl}}
 *: Roman: {{t-|sh|stepen|m}}, {{t-|sh|stupanj|m}}
 * Slovak: {{t-|sk|stupeň|m}}
 * Slovene: {{t-|sl|stopinja|f}}
@@ -144,7 +143,7 @@ From {{etyl|fro}} ''[[degre]]'' (French: [[degré]]).
 * Romanian: {{t-|ro|grad|n}}, {{t-|ro|grade|n|p}}
 * Russian: {{t+|ru|градус|m|tr=grádus}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|степен|m}}, {{t-|sh|ступањ|m}}
+*: Cyrillic: {{t-|sh|степен|m|sc=Cyrl}}, {{t-|sh|ступањ|m|sc=Cyrl}}
 *: Roman: {{t-|sh|stepen|m}}, {{t-|sh|stupanj|m}}
 * Slovak: {{t-|sk|stupeň|m}}
 * Slovene: {{t-|sl|stopinja|f}}
@@ -152,7 +151,7 @@ From {{etyl|fro}} ''[[degre]]'' (French: [[degré]]).
 * Swedish: {{t+|sv|grad|c}}
 * Thai: {{t-|th|องศา|tr=ongsǎa|sc=Thai}}
 * Turkish: {{t+|tr|derece}}
-* Vietnamese: {{t+|vi|độ}} ({{t-|vi|度}})
+* Vietnamese: {{t+|vi|độ}}
 {{trans-bottom}}
 
 {{trans-top|amount, proportion, extent}}
@@ -200,20 +199,20 @@ From {{etyl|fro}} ''[[degre]]'' (French: [[degré]]).
 * Esperanto: {{t-|eo|diplomo}}
 * Finnish: {{t-|fi|oppiarvo}}, {{t-|fi|tutkinto}}
 * French: {{t+|fr|diplôme|m}}
-* German: {{t+|de|Diplom|m}}, [[akademischer]] [[Diplom]] {{m}}
-* Greek: {{t+|el|πτυχίο|n}}, {{t+|el|δίπλωμα|n}},  {{t+|el|πτυχίο|n|tr=ptychío}},  {{t+|el|δίπλωμα|n|tr=díplōma}}
+* German: {{t+|de|Diplom|m}}, {{t-SOP|de|[[akademischer]] [[Diplom]]|m}}
+* Greek: {{t+|el|πτυχίο|n}}, {{t+|el|δίπλωμα|n}}, {{t+|el|πτυχίο|n|tr=ptychío}}, {{t+|el|δίπλωμα|n|tr=díplōma}}
 * Hebrew: {{t+|he|תואר|m|tr=toar}}
 {{trans-mid}}
 * Italian: {{t+|it|laurea|f}}
 * Japanese: {{t+|ja|学位|tr=がくい, gakui}}
 * Korean: {{t+|ko|학위|tr=hagwi|sc=Hang}}
 * Macedonian: {{t-|mk|диплома|f|tr=diplóma|sc=Cyrl}}
-* Polish: [[stopień naukowy]] {{m}}
+* Polish: {{t|pl|stopień naukowy|m}}
 * Portuguese: {{t+|pt|diploma|m}}
 * Romanian: {{t-|ro|grad academic|n}}, {{t-|ro|diplomă academică|f}}
 * Russian: {{t+|ru|учёная степень|f|tr=učónaja stépen’}}, {{t+|ru|диплом|m|tr=diplóm}}, {{t+|ru|степень|f|tr=stépen’}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|диплома|f}}
+*: Cyrillic: {{t-|sh|диплома|f|sc=Cyrl}}
 *: Roman: {{t-|sh|diploma|f}}
 * Slovak: {{t-|sk|titul|m}}
 * Sotho: {{t-|st|digri}}
@@ -231,7 +230,9 @@ From {{etyl|fro}} ''[[degre]]'' (French: [[degré]]).
 * Japanese: {{t+|ja|次数|tr=じすう, jisū|sc=Jpan}}
 * Macedonian: {{t-|mk|степен|m|tr=stépen|sc=Cyrl}}
 * Russian: {{t+|ru|степень|f|tr=stépen'}}
-* Serbo-Croatian: {{t-|sh|stupanj|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t-|sh|ступањ|m}}
+*: Roman: {{t-|sh|stupanj|m}}
 * Swahili: {{t+|sw|digrii}}
 {{trans-bottom}}
 
@@ -245,10 +246,10 @@ From {{etyl|fro}} ''[[degre]]'' (French: [[degré]]).
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|br}}: [[derez]] {{m}} -ioù (1,2)
-* {{ttbc|ia}}: [[grado#Interlingua|grado]] (1, 2, 3, 4)
-* {{ttbc|ro}}: [[grad#Romanian|grad]] {{m}} (1, 2, 3), [[grad#Romanian|grad]] [[academic#Romanian|academic]] {{m}} (4)
-* {{ttbc|tr}}: [[derece]] (1, 2, 3, 4)
+* {{ttbc|br}}: {{qualifier|1,2}} {{t|br|derez|m}} -ioù
+* {{ttbc|ia}}: {{qualifier|1, 2, 3, 4}} {{t|ia|grado}}
+* {{ttbc|ro}}: {{qualifier|1, 2, 3}} {{t|ro|grad|m}}, {{qualifier|4}} {{t|ro|grad academic|m}}
+* {{ttbc|tr}}: {{qualifier|1, 2, 3, 4}} {{t|tr|derece}}
 {{trans-bottom}}
 
 ===Statistics===
