@@ -1,9 +1,8 @@
 ==English==
-
 {{wikipedia|dab=Flight (disambiguation)|flight}}
 
 ===Etymology===
-{{etyl|ang}} {{term|flyht|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|fluhtiz|lang=gem-pro}}. Cognate with Dutch {{term|vlucht}} and German {{term|Flug}}.
+{{etyl|ang}} {{term|flyht|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|fluhtiz|lang=gem-pro}}. Cognate with Dutch {{term|vlucht|lang=nl}} and German {{term|Flug|lang=de}}.
 
 ===Pronunciation===
 * {{enPR|flīt}}, {{IPA|/flaɪt/}}, {{X-SAMPA|/flaIt/}}
@@ -67,7 +66,7 @@
 
 ====Translations====
 {{trans-top|act of flying}}
-* Arabic: {{Arab|[[طيران]]}} (Tayaraan) {{m}}, {{t-|ar|تحليق|m|tr=taHliiq}}
+* Arabic: {{t|ar|طيران|m|tr=Tayaraan|sc=Arab}}, {{t-|ar|تحليق|m|tr=taHliiq}}
 * Armenian: {{t-|hy|թռիչք|tr=t'ṙičk'}}
 * Catalan: {{t+|ca|vol|m}}
 * Chinese:
@@ -75,20 +74,20 @@
 * Czech: {{t+|cs|let|m}}
 * Danish: {{t-|da|flyvning|c}}
 * Dutch: {{t+|nl|vlucht|f}}, {{t+|nl|vliegen|n}}
-* Esperanto: [[flugo]]
+* Esperanto: {{t|eo|flugo}}
 * Finnish: {{t+|fi|lento}}
 * French: {{t+|fr|vol|m}}
 * Friulian: {{tø|fur|svol}}
 * Georgian: {{t-|ka|გაფრენა|tr=gap'rena|sc=Geor}}
 * German: {{t+|de|Flug|m}}
 * Greek: {{t+|el|πτήση|f|tr=ptísi}}
-* Guaraní: [[veve]]
+* Guaraní: {{t|gn|veve}}
 * Hebrew: {{t|he|טיסה|f|tr=tisá|alt=טִיסָה|sc=Hebr}}, {{t|he|עיפה|f|tr='ifá|alt=עִיפָה|sc=Hebr}}, {{t|he|עופפות|f|tr='of'fút|alt=עוֹפְפוּת|sc=Hebr}}, {{t|he|פריחה|f|tr=p'rikhá|alt=פְּרִיחָה|sc=Hebr}}
 * {{trreq|hi}}
 * Hungarian: {{t+|hu|repülés}}
-* Interlingua: [[volo]]
+* Interlingua: {{t|ia|volo}}
 * Italian: {{t+|it|volo|m}}, {{t+|it|fuga|f}}
-* Japanese: [[飛]] ([[とび]] ''tobi'')
+* Japanese: {{t|ja|飛|tr=[[とび]] ''tobi''|sc=Jpan}}
 * Korean: {{t-|ko|날기|sc=Kore}}
 {{trans-mid}}
 * Kurdish: {{t+|ku|firr}}
@@ -108,10 +107,10 @@
 * Scottish Gaelic: {{t-|gd|itealaich|f}}
 * Spanish: {{t+|es|vuelo|m}}
 * Swedish: {{t+|sv|flyg|n}}
-* Thai: {{Thai|[[เที่ยวบิน]]}} (tîeow bin)
+* Thai: {{t|th|เที่ยวบิน|tr=tîeow bin|sc=Thai}}
 * Tok Pisin: {{t+|tpi|balus}}, {{t-|tpi|flai}}
-* Tupinambá: [[bebé]]
-* [[Turkish: ]] [[uçma]]
+* Tupinambá: {{t|tpn|bebé}}
+* Turkish: {{t|tr|uçma}}
 * {{trreq|vi}}
 * Yiddish: {{t|yi|פֿלי|n|tr=fli|sc=Hebr}}
 {{trans-bottom}}
@@ -215,7 +214,7 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ja}}: [[便#Japanese|便]] (びん, bin)
+* {{ttbc|ja}}: {{t|ja|便|tr=びん, bin|sc=Jpan}}
 * {{ttbc|sh}}: {{t-|sh|лет|m|tr=let|sc=Cyrl}}
 {{trans-mid}}
 * {{ttbc|sl}}: {{t+|sl|beg|m}}
