@@ -24,14 +24,14 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 #:: Often used to imply membership of a large class.
 #::: ''This word has a whole '''class''' of metaphoric extensions.''
 #* {{quote-news
-|year=2011
-|date=October 1
-|author=Saj Chowdhury
-|title=Wolverhampton 1 - 2 Newcastle
-|work=BBC Sport
-|url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/15045306.stm
-|page=
-|passage=The Magpies are unbeaten and enjoying their best run since 1994, although few would have thought the '''class''' of 2011 would come close to emulating their ancestors.}}
+ | year=2011
+ | date=October 1
+ | author=Saj Chowdhury
+ | title=Wolverhampton 1 - 2 Newcastle
+ | work=BBC Sport
+ | url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/15045306.stm
+ | page=
+ | passage=The Magpies are unbeaten and enjoying their best run since 1994, although few would have thought the '''class''' of 2011 would come close to emulating their ancestors.}}
 # {{countable}} A social grouping, based on [[job]], [[wealth]], etc. In Britain, society is commonly split into three main classes; [[upper class]], [[middle class]] and [[working class]].
 # {{uncountable}} The division of society into classes.
 #: ''Jane Austen's works deal with '''class''' in 18th-century England.''
@@ -47,48 +47,49 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 #: ''I used to fly business '''class''', but now my company can only afford economy.''
 # {{biology|taxonomy|countable}} A [[rank]] in the classification of [[organism]]s, below [[phylum]] and above [[order]]; a taxon of that rank.
 #: ''Magnolias belong to the '''class''' Magnoliopsida.''
-# {{computing}} A set of [[object]]s having the same [[behavior]] (but typically differing in [[state]]), ''or'' a template defining such a set.
-# {{mathematics}} A collection of [[set]]s definable by a shared property.
-#: ''The '''class''' of all sets is not a set.''
 # Best of its kind.
 #: ''It is the '''class''' of Italian bottled waters.''
 #* {{quote-news|title=The Crime Is Not in Making a Mistake, but in Repeating It.|work=Chicago Tribune|date=Jun 27|year=1913|passage=The mark made by Cory a new Central A. U. mark and he appears to be the '''class''' of the field in this event.}}
 #* {{quote-news|title=89,000 Watch So. California Defeat Stanford, 7 to 0|work=Chicago Tribune|date=Oct 27|year=1929|passage=University of Southern California's 7 to 0 defeat of the mighty Cardinal team ranked the victors the '''class''' of the far west}}
 #* {{quote-news|title=Waianae forces OIA rematch|work=Honolulu Star-Bulletin|date=May 8|year=2009|passage=Roosevelt (14-1) looked very much like the '''class''' of the OIA.}}
+# {{mathematics}} A collection of [[set]]s definable by a shared property.
+#: ''The '''class''' of all sets is not a set.''
 # {{military}} A group of people subject to be [[conscript]]ed in the same military [[draft]], or more narrowly those persons actually conscripted in a particular draft.
+# {{programming|object-oriented}} A set of [[object]]s having the same [[behavior]] (but typically differing in [[state]]), ''or'' a template defining such a set.
 
 ====Synonyms====
 * See also [[Wikisaurus:class]]
 
 ====Derived terms====
-{{der-top3}}
+{{der-top4}}
 * [[business class]]
 * [[character class]]
 * [[class action]]
 * [[class clown]]
 * [[class diagram]]
 * [[class reunion]]
+{{der-mid4}}
 * [[class struggle]]
 * [[economy class]]
-{{der-mid3}}
 * [[equivalence class]]
 * [[first class]]
 * [[form class]]
 * [[middle class]]
+{{der-mid4}}
 * [[noun class]]
 * [[pitch class]]
 * [[professional class]]
 * [[school class]]
-{{der-mid3}}
 * [[second class]]
 * [[social class]]
+{{der-mid4}}
 * [[spectral class]]
 * [[super class]]
 * [[third class]]
 * [[upper class]]
 * [[working class]]
 {{der-bottom}}
-{{der-top3|{{computing}} A set of objects having the same behavior ''or'' a template defining such a set}}
+{{der-top3|{{programming|object-oriented}} A set of objects having the same behavior ''or'' a template defining such a set}}
 * [[abstract class]]
 * [[anonymous class|anonymous]]/[[local class]]
 * [[base class]]
@@ -398,7 +399,42 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 * Volapük: {{t+|vo|klad}}
 {{trans-bottom}}
 
-{{trans-top|programming: set of objects possibly differing in state but not behavior}}
+{{trans-top|best of its kind}}
+* Finnish: {{t+|fi|huippu}}
+{{trans-mid}}
+* Greek: {{t+|el|κορυφή|f|tr=koryfí|sc=Grek}}
+{{trans-bottom}}
+
+{{trans-top|{{mathematics}}: collection of sets definable by a shared property}}
+* Armenian: {{t-|hy|դաս|tr=das|sc=Armn}}
+* Bulgarian: {{t+|bg|клас|m|tr=klas|sc=Cyrl}}
+* Catalan: {{t+|ca|classe|f}}
+* Chechen: {{tø|ce|класс|sc=Cyrl}}
+* Finnish: {{t+|fi|luokka}}
+* German: {{t+|de|Klasse|f}}
+* Greek: {{t+|el|κλάση|f|tr=klási|sc=Grek}}
+* Hungarian: {{t+|hu|osztály}}
+{{trans-mid}}
+* Italian: {{t+|it|classe|f}}
+* Japanese: {{t+|ja|クラス|tr=kurasu}}
+* Macedonian: {{t-|mk|класа|f|tr=klása|sc=Cyrl}}
+* Norwegian: {{t+|no|klasse|m|f}}
+* Persian: {{t+|fa|کلاس|tr=kelās|sc=fa-Arab}}
+* Portuguese: {{t+|pt|classe|f}}
+* Russian: {{t+|ru|класс|m|tr=klass|sc=Cyrl}}
+* Spanish: {{t+|es|clase|f}}
+* Swahili: {{t+|sw|darasa}}
+{{trans-bottom}}
+
+{{trans-top|military: persons subject to the same draft}}
+* Bulgarian: {{t+|bg|набор|m|tr=nabor|sc=Cyrl}}
+* Catalan: {{t+|ca|classe|f}}
+{{trans-mid}}
+* Finnish: {{t-|fi|saapumiserä}}
+* Greek: {{t+|el|σειρά|f|tr=seirá|sc=Grek}}
+{{trans-bottom}}
+
+{{trans-top|{{programming|object-oriented}}: set of objects possibly differing in state but not behavior}}
 * Catalan: {{t+|ca|classe|f}}
 * Chechen: {{tø|ce|класс|sc=Cyrl}}
 * Czech: {{t+|cs|třída|f}}
@@ -421,44 +457,10 @@ From {{etyl|fr}} {{term|classe|lang=fr}}, from {{etyl|la}} {{term|classis|lang=l
 * Swahili: {{t+|sw|darasa}}
 {{trans-bottom}}
 
-{{trans-top|mathematics: collection of sets definable by a shared property}}
-* Armenian: {{t-|hy|դաս|tr=das|sc=Armn}}
-* Bulgarian: {{t+|bg|клас|m|tr=klas|sc=Cyrl}}
-* Catalan: {{t+|ca|classe|f}}
-* Chechen: {{tø|ce|класс|sc=Cyrl}}
-* Finnish: {{t+|fi|luokka}}
-* German: {{t+|de|Klasse|f}}
-* Greek: {{t+|el|κλάση|f|tr=klási|sc=Grek}}
-* Hungarian: {{t+|hu|osztály}}
-{{trans-mid}}
-* Italian: {{t+|it|classe|f}}
-* Japanese: {{t+|ja|クラス|tr=kurasu}}
-* Macedonian: {{t-|mk|класа|f|tr=klása|sc=Cyrl}}
-* Norwegian: {{t+|no|klasse|m|f}}
-* Persian: {{t+|fa|کلاس|tr=kelās|sc=fa-Arab}}
-* Portuguese: {{t+|pt|classe|f}}
-* Russian: {{t+|ru|класс|m|tr=klass|sc=Cyrl}}
-* Spanish: {{t+|es|clase|f}}
-* Swahili: {{t+|sw|darasa}}
-{{trans-bottom}}
-
-{{trans-top|best of its kind}}
-* Finnish: {{t+|fi|huippu}}
-{{trans-mid}}
-* Greek: {{t+|el|κορυφή|f|tr=koryfí|sc=Grek}}
-{{trans-bottom}}
-
-{{trans-top|military: persons subject to the same draft}}
-* Bulgarian: {{t+|bg|набор|m|tr=nabor|sc=Cyrl}}
-* Catalan: {{t+|ca|classe|f}}
-{{trans-mid}}
-* Finnish: {{t-|fi|saapumiserä}}
-* Greek: {{t+|el|σειρά|f|tr=seirá|sc=Grek}}
-{{trans-bottom}}
-
 {{checktrans-top}}
 * {{ttbc|ia}}: {{t-|ia|classe}}
 * {{ttbc|id}}: {{t+|id|kelas}}
+{{trans-mid}}
 * {{ttbc|ga}}: {{t-|ga|aicme|f}}
 * {{ttbc|ro}}: {{t-|ro|clasă|f}}
 {{trans-bottom}}
