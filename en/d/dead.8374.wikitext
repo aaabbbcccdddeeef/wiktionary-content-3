@@ -4,7 +4,7 @@
 [[File:Pigeon krakow.jpg|thumb|250px|upright|A dead pigeon.]]
 
 ===Etymology===
-From {{etyl|enm}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|ang|en}} {{term|dead|dēad|lang=ang}}, from {{etyl|gem-pro|ang}} {{recons|daudaz|lang=gem-pro}}. Compare West Frisian {{term|dead|lang=fy}}, Dutch {{term|dood}}, German {{term|tot|lang=de}}, Danish {{term|død|lang=da}}.
+From {{etyl|enm}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|ang}} {{term|dead|dēad|lang=ang}}, from {{etyl|gem-pro|ang}} {{recons|daudaz|lang=gem-pro}}. Compare West Frisian {{term|dead|lang=fy}}, Dutch {{term|dood|lang=en}}, German {{term|tot|lang=de}}, Danish {{term|død|lang=da}}.
 
 ===Pronunciation===
 * {{enPR|dĕd}}, {{IPA|/dɛd/}}, {{X-SAMPA|/dEd/}}
@@ -69,7 +69,7 @@ From {{etyl|enm}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|ang
 * Aleut: {{tø|ale|asxaanax}}
 * Arabic: {{t-|ar|ميت|tr=mayyit}}
 * Armenian: {{t-|hy|մեռած|tr=meṙaç|sc=Armn}}
-* Aromanian: {{l|rup|mortu}}
+* Aromanian: {{t|rup|mortu}}
 * Asturian: {{t-|ast|muertu}}
 * Azeri: {{t-|az|ölü}}
 * Belarusian: {{t-|be|мёртвы|tr=mjórtvy|sc=Cyrl}}
@@ -118,7 +118,7 @@ From {{etyl|enm}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|ang
 * Latin: {{t+|la|mortuus}}
 * Latvian: {{t-|lv|miris}}
 * Lithuanian: {{t+|lt|miręs}}, {{t-|lt|negyvas}}
-* Low German: [[dood]]
+* Low German: {{t|nds|dood}}
 * Luxembourgish: {{t-|lb|dout}}
 * Macedonian: {{t-|mk|мртов|tr=mrtov|sc=Cyrl}}
 * Malay: {{t-|ms|mati}}
@@ -130,8 +130,8 @@ From {{etyl|enm}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|ang
 * Portuguese: {{t+|pt|morto}}
 * Romanian: {{t+|ro|mort}}
 * Romansch: {{t-|rm|mort|m}}, {{t-|rm|miert|m}}
-* Russian: {{t+|ru|мёртвый|tr=mjórtvyj}}, {{t+|ru|умереть|tr=úmeršij|alt=умерший|sc=Cyrl}}, {{t+|ru|дохлый|tr=dóxlyj}} ''(coll., disparaging, also of animals, batteries, etc.)''
-* Sanskrit: {{l|sa|मृत|tr=mṛtá}}
+* Russian: {{t+|ru|мёртвый|tr=mjórtvyj}}, {{t+|ru|умереть|tr=úmeršij|alt=умерший|sc=Cyrl}}, {{t+|ru|дохлый|tr=dóxlyj}} {{qualifier|collective, disparaging, also of animals, batteries, etc.}}
+* Sanskrit: {{t|sa|मृत|tr=mṛtá}}
 * Sardinian: {{t-|sc|moltu}}, {{t-|sc|mortu}}
 * Scottish Gaelic: {{t-|gd|marbh}}
 * Serbo-Croatian:
@@ -155,7 +155,7 @@ From {{etyl|enm}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|ang
 * Welsh: {{t+|cy|marw}}
 * West Frisian: {{t-|fy|dea}}, {{t-|fy|deade}}
 * Yucatec Maya: {{tø|yua|kimen}}
-* Yup'ik: [[tuqu]]
+* Yup'ik: {{t|esu|tuqu}}
 {{trans-bottom}}
 
 {{trans-top|figuratively, not alive}}
@@ -239,10 +239,10 @@ From {{etyl|enm}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|ang
 * Chinese:
 *: Mandarin: {{zh-ts|[[寂]][[靜]]|[[寂]][[静]]}} ([[jí]][[jìng]])
 * Dutch: {{t+|nl|stilte|f}}
-* Finnish: [[sydän]] (''in compounds: [[yösydän]], [[sydäntalvi]]'')
+* Finnish: {{qualifier|in compounds: [[yösydän]], [[sydäntalvi]]}} {{t|fi|sydän}}
 {{trans-mid}}
 * French: {{t+|fr|milieu|m}}, {{t+|fr|cœur|m}}, {{t+|fr|profondeur|alt=profondeurs|f|p}}
-* Polish: [[zmarli]] {{m|p}}
+* Polish: {{t|pl|zmarli|m|p}}
 * Scottish Gaelic: {{t-|gd|marbh|m}}
 {{trans-bottom}}
 
@@ -254,23 +254,23 @@ From {{etyl|enm}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|ang
 * Danish: {{t+|da|døde|c|p|alt=(de) døde}}
 * Dutch: {{t+|nl|doden|p}}, {{t-|nl|overledenen|p}}, {{t-|nl|gestorvenen|p}}
 * Faroese: {{t-|fo|deyðu|n}}
-* Finnish: [[kuollut|kuolleet]] {{p}}, [[vainaja]]t {{p}}
+* Finnish: {{t|fi|kuollut|alt=kuolleet|p}}, {{t|fi|vainaja|alt=vainajat|p}}
 * French: {{t+|fr|mort|m|p|alt=morts}}
-* German: [[Tote]] {{p}}
+* German: {{t|de|Tote|p}}
 {{trans-mid}}
 * Greek: {{t+|el|νεκροί|p|tr=nekroi}}
 * Hebrew: {{t+|he|מתים|m|p|tr=metim}}
 * Icelandic: {{t-|is|dánu|n}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[مردو]]}}
-* Polish: [[umarli]] {{p}}, [[zmarli]] {{p}}
+*: Sorani: {{t|ckb|مردو|sc=ku-Arab}}
+* Polish: {{t|pl|umarli|p}}, {{t|pl|zmarli|p}}
 * Portuguese: {{t+|pt|mortos|m|p}}
 * Spanish: {{t-|es|muertos|m}}
 * Swedish: {{t+|sv|döda|p}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ja}}: [[死者]] {{p}} (shisha)
+* {{ttbc|ja}}: {{t|ja|死者|p|tr=shisha|sc=Jpan}}
 {{trans-bottom}}
 
 ===Adverb===
@@ -286,7 +286,7 @@ From {{etyl|enm}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|ang
 
 ====Translations====
 {{trans-top|Exactly right}}
-* Bulgarian: {{t+|bg|направо}},  {{t+|bg|напълно}}
+* Bulgarian: {{t+|bg|направо}}, {{t+|bg|напълно}}
 * Chinese:
 *: Mandarin: {{zh-ts|絕對|绝对}} ([[jué]][[duì]])
 {{trans-mid}}
@@ -296,23 +296,23 @@ From {{etyl|enm}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|ang
 {{trans-bottom}}
 
 {{trans-top|Very, absolutely, extremely, suddenly}}
-* Bulgarian: {{t+|bg|абсолютно}},  {{t+|bg|безусловно}}
+* Bulgarian: {{t+|bg|абсолютно}}, {{t+|bg|безусловно}}
 * Cantonese: {{tø|yue|到死|sc=Hani}}, {{tø|yue|鬼咁|sc=Hani}}, {{tø|yue|鬼死咁|sc=Hani}}
 * Chinese:
 *: Mandarin: {{zh-ts|[[完全]]地|[[完全]]地}} ([[wán]][[quán]][[di]])
 * Danish: {{t+|da|død}}-
 {{trans-mid}}
-* Dutch: [[bloed-]], [[oer-]], [[dood-]]
+* Dutch: {{t|nl|bloed-}}, {{t|nl|oer-}}, {{t|nl|dood-}}
 *: Ze is [[bloedmooi]]; Hij is [[oerdom]] ; Ik ben [[doodmoe]]
 * Finnish: {{t-|fi|sairaan}}, {{t-|fi|kuoleman-}}
-* German: [[tod-]]
+* German: {{t|de|tod-}}
 {{trans-bottom}}
 
 ===Verb===
 {{en-verb|dead|ed}}
 
 # {{transitive}} to prevent by disabling; stop
-#* '''1826''': ''The Whole Works of the Right Rev. Edward Reynolds, Lord Bishop of Norwich'', collected by Edward Reynolds, Benedict Riveley, and Alexander Chalmers. pp. 227. London: B. Holdsworth.<!-- This feels like an obsolete usage -->
+#* '''1826''', ''The Whole Works of the Right Rev. Edward Reynolds, Lord Bishop of Norwich'', collected by Edward Reynolds, Benedict Riveley, and Alexander Chalmers. pp. 227. London: B. Holdsworth.<!-- This feels like an obsolete usage -->
 #*: “What a man should do, when finds his natural impotency '''dead''' him in spiritual works”
 # {{UK|transitive|slang}} To [[kill]]. <!--black urban slang?-->
 #* '''2006''', Leighanne Boyd, ''Once Upon A Time In The Bricks'' (page 178)
@@ -328,7 +328,7 @@ From {{etyl|enm}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|ang
 * [[death]]
 * [[undead]]
 
-===Derived terms===
+====Derived terms====
 {{rel-top3|Derived terms}}
 * [[brain dead]]/[[brain-dead]]
 * [[clinically dead]]
@@ -412,7 +412,7 @@ From {{etyl|enm}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|ang
 ==Old English==
 
 ===Etymology===
-From {{etyl|gem-pro|ang}} {{recons|daudaz|lang=gem-pro}}, from {{etyl|ine-pro|ang}} {{recons|dʰautós|lang=ine-pro}}, originally a past participle.  Cognate with Old Frisian {{term||dād}} (West Frisian {{term|dead|lang=fy}}), Old Saxon {{term|dod|dōd}}, Dutch {{term|dood}}, Old High German {{term|tot|tōt}} (German {{term|tot|lang=de}}), Old Norse {{term|dauðr}} (Swedish {{term|död}}), Gothic {{term|𐌳𐌰𐌿𐌸𐍃|tr=dauþs|sc=Goth}}.
+From {{etyl|gem-pro|ang}} {{recons|daudaz|lang=gem-pro}}, from {{etyl|ine-pro|ang}} {{recons|dʰautós|lang=ine-pro}}, originally a past participle. Cognate with Old Frisian {{term||dād}} (West Frisian {{term|dead|lang=fy}}), Old Saxon {{term|dod|dōd}}, Dutch {{term|dood|lang=en}}, Old High German {{term|tot|tōt}} (German {{term|tot|lang=de}}), Old Norse {{term|dauðr|lang=en}} (Swedish {{term|död|lang=en}}), Gothic {{term|𐌳𐌰𐌿𐌸𐍃|tr=dauþs|sc=Goth}}.
 
 ===Pronunciation===
 * {{IPA|/dæːɑd/|lang=ang}}
