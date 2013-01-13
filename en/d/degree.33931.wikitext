@@ -205,7 +205,7 @@ From {{etyl|fro}} {{term|degré|lang=fro}} (French: [[degré]]).
 * Japanese: {{t+|ja|学位|tr=[[がくい]], gakui|sc=Jpan}}, {{t+|ja|号|tr=[[ごう]], gō|sc=Jpan}}
 * Korean: {{t+|ko|학위|tr=[[學位]], hagwi|sc=Kore}}
 * Macedonian: {{t-|mk|диплома|f|tr=diplóma|sc=Cyrl}}
-* Polish: {{t|pl|stopień naukowy|m}}
+* Polish: {{t-|pl|stopień naukowy|m}}
 * Portuguese: {{t+|pt|diploma|m}}
 * Romanian: {{t-|ro|grad academic|n}}, {{t-|ro|diplomă academică|f}}
 * Russian: {{t+|ru|учёная степень|f|tr=učónaja stépen’}}, {{t+|ru|диплом|m|tr=diplóm}}, {{t+|ru|степень|f|tr=stépen’}}
@@ -225,7 +225,7 @@ From {{etyl|fro}} {{term|degré|lang=fro}} (French: [[degré]]).
 * Finnish: {{t+|fi|aste}}
 * French: {{t+|fr|degré|m}}
 * Japanese: {{t+|ja|次|tr=[[じ]], ji|sc=Jpan}}, {{t+|ja|次数|tr=[[じすう]], jisū|sc=Jpan}}
-* Korean: {{t+|ko|차|tr=[[次]], cha|sc=Kore}}, {{t+|ko|차수|tr=[[次數]], chasu|sc=Kore}}
+* Korean: {{t+|ko|차|tr=[[次]], cha|sc=Kore}}, {{t-|ko|차수|tr=[[次數]], chasu|sc=Kore}}
 {{trans-mid}}
 * Macedonian: {{t-|mk|степен|m|tr=stépen|sc=Cyrl}}
 * Russian: {{t+|ru|степень|f|tr=stépen'}}
@@ -241,16 +241,16 @@ From {{etyl|fro}} {{term|degré|lang=fro}} (French: [[degré]]).
 * French: {{t+|fr|degré|m}}, {{t+|fr|ordre|m}}
 * Japanese: {{t+|ja|次|tr=[[じ]], ji|sc=Jpan}}, {{t+|ja|次数|tr=[[じすう]], jisū|sc=Jpan}}
 {{trans-mid}}
-* Korean: {{t+|ko|차|tr=[[次]], cha|sc=Kore}}, {{t+|ko|차수|tr=[[次數]], chasu|sc=Kore}}
+* Korean: {{t+|ko|차|tr=[[次]], cha|sc=Kore}}, {{t-|ko|차수|tr=[[次數]], chasu|sc=Kore}}
 * Macedonian: {{t-|mk|степен|m|tr=stépen|sc=Cyrl}}
 * Romanian: {{t-|ro|grad|n}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|br}}: {{qualifier|1,2}} {{t|br|derez|m}} -ioù
-* {{ttbc|ia}}: {{qualifier|1, 2, 3, 4}} {{t|ia|grado}}
-* {{ttbc|ro}}: {{qualifier|1, 2, 3}} {{t|ro|grad|m}}, {{qualifier|4}} {{t|ro|grad academic|m}}
-* {{ttbc|tr}}: {{qualifier|1, 2, 3, 4}} {{t|tr|derece}}
+* {{ttbc|br}}: {{qualifier|1,2}} {{t-|br|derez|m}} -ioù
+* {{ttbc|ia}}: {{qualifier|1, 2, 3, 4}} {{t-|ia|grado}}
+* {{ttbc|ro}}: {{qualifier|1, 2, 3}} {{t-|ro|grad|m}}, {{qualifier|4}} {{t-|ro|grad academic|m}}
+* {{ttbc|tr}}: {{qualifier|1, 2, 3, 4}} {{t+|tr|derece}}
 {{trans-bottom}}
 
 ===Statistics===
