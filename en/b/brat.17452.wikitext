@@ -105,26 +105,41 @@ From {{etyl|non|da}} {{term|brattr|lang=non}} and {{etyl|ang|da}} {{term|brant|l
 
 ==Irish==
 
-===Etymology===
-From {{etyl|sga|ga}} {{term|bratt|lang=sga}}, from {{etyl|cel-pro|ga}} {{recons|bratto-|lang=cel-pro}} (compare {{etyl|cy|-}} {{term|brethyn||cloth|lang=cy}}, from {{etyl|cel-pro|ga}} {{recons|bratt-ino-|lang=cel-pro}}).
-
 ===Pronunciation===
 * {{a|Munster}} {{IPA|lang=ga|[bˠɾˠɑt̪ˠ]}}
 * {{a|Connacht|Ulster}} {{IPA|lang=ga|[bˠɾˠat̪ˠ]}}
 
-===Noun===
+===Etymology 1===
+From {{etyl|sga|ga}} {{term|bratt|lang=sga}}, from {{etyl|cel-pro|ga}} {{recons|bratto-|lang=cel-pro}} (compare {{etyl|cy|-}} {{term|brethyn||cloth|lang=cy}}, from {{etyl|cel-pro|ga}} {{recons|bratt-ino-|lang=cel-pro}}).
+
+====Noun====
 {{ga-noun|brait|brait|g=m}}
 
-# [[cloak]]
+# [[mantle]], [[cloak]]
+# [[covering]]
+# {{theatre|lang=ga}} [[curtain]]
 
-====Declension====
+=====Declension=====
 {{ga-decl-m1|b|rat|rait}}
 
-====Derived terms====
+=====Derived terms=====
 * {{l|ga|brateagraíocht}}
+
+===Etymology 2===
+{{rfe|lang=ga}}
+
+====Noun====
+{{ga-noun|g=m|[[brat]]|bratanna}}
+
+# [[broth]]; thick [[soup]]
+
+=====Declension=====
+{{ga-decl-m4|b|rat|ratanna}}
 
 ===Mutation===
 {{ga mut cons|b|rat}}
+
+[[Category:ga:Foods]]
 
 [[Category:ga:Clothing]]
 
