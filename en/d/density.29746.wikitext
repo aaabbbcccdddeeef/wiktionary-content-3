@@ -28,17 +28,19 @@
 * Dutch: {{t+|nl|dichtheid|f}}
 * Finnish: {{t-|fi|tiheys}}, {{t+|fi|ominaispaino}}
 * French: {{t+|fr|densité|f}}
-* German: {{t+|de|Dichte|f}}
+* German: {{t+|de|Dichte|f}}, {{t|de|Massendichte|f}}
 * Greek: {{t+|el|πυκνότητα|f}}
 * Hungarian: {{t+|hu|sűrűség}}
-{{trans-mid}}
 * Italian: {{t+|it|densità|f}}
 * Japanese: {{t+|ja|密度|tr=mitsudo}}
+{{trans-mid}}
 * Norwegian: {{t-|no|tetthet}}
+*: Bokmål: {{t|nb|massetetthet|m|f}}, {{t|nb|densitet|m}}
+*: Nynorsk: {{t|nn|massetettleik|m}}, {{t|nn|densitet|m}}
 * Polish: {{t+|pl|gęstość|f}}
 * Romanian: {{t-|ro|densitate|f}}
 * Russian: {{t+|ru|плотность|tr=plótnost'}}
-* Swedish: {{t+|sv|täthet}}
+* Swedish: {{t+|sv|täthet}}, {{t|sv|massvolym|c}}, {{t|sv|densitet|c}}
 * [[Telugu]]: {{t+|te|సాంద్రత|tr=saandratha}}
 {{trans-bottom}}
 
@@ -49,6 +51,9 @@
 * Italian: {{t+|it|densità|f}}
 * Japanese: {{t-|ja|濃度|tr=nōdo}}
 {{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t|nb|tetthet|m|f}}
+*: Nynorsk: {{t|nn|tettleik|m}}
 * Polish: {{t+|pl|gęstość|f}}
 * Romanian: {{t-|ro|densitate|f}}
 * Russian: {{t+|ru|плотность|tr=plótnost'}}
@@ -58,8 +63,11 @@
 {{trans-top|probability}}
 * Dutch: {{t+|nl|waarschijnlijkheid}}
 * German: {{t+|de|Wahrscheinlichkeit}}
-{{trans-mid}}
 * Japanese: {{t+|ja|密度|tr=mitsudo}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t|nb|sannsynlighetstetthet|m|f}}
+*: Nynorsk: {{t|nn|sannsynstettleik|m}}
 {{trans-bottom}}
 
 {{checktrans-top}}
