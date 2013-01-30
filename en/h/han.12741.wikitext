@@ -23,7 +23,6 @@
 ==Danish==
 
 ===Etymology===
-
 From {{etyl|non|da}} {{term|hann|lang=non}} (dative {{term|hánum|lang=non}}).
 
 ===Pronunciation===
@@ -40,7 +39,7 @@ From {{etyl|non|da}} {{term|hann|lang=non}} (dative {{term|hánum|lang=non}}).
 ===Pronoun===
 {{head|da|pronoun|genitive|hans|accusative|ham}}
 
-# {{personal}} [[he#English|he]]
+# {{personal|lang=da}} {{l|en|he}}
 
 ====See also====
 {{Danish personal pronouns}}
@@ -154,15 +153,13 @@ From {{etyl|non|gmq-osw}} {{term|hann|lang=non}}.
 ==Samoan Plantation Pidgin==
 
 ===Noun===
-'''han'''
+{{head|cpe-spp|noun}}
 
 # [[arm]]
 # [[hand]]
 
 ====References====
 * Mühlhäusler, Peter (1983). "Samoan Plantation Pidgin English and the origin of New Guinea Pidgin", in Ellen Woolford and William Washabaugh: ''The Social Context of Creolization'', 28–76.
-
-[[Category:Samoan Plantation Pidgin nouns]]
 
 ----
 
@@ -213,7 +210,7 @@ From {{etyl|ota|sh}} {{term|sc=ota-Arab|خان|tr=han|lang=ota}}, from {{etyl|fa
 {{head|sv|pronoun}}
 
 # [[he]], the third person singular, masculine, nominative case.
-# {{archaic}} or {{dialect}} [[him]] (in standard Swedish, this is [[honom]])
+# {{archaic|or|dialect|lang=sv}} [[him]] (in standard Swedish, this is [[honom]])
 #: ''jag såg '''han''''' or ''ja' såg<b>'an</b>'' (standard Swedish: ''jag såg honom'')
 #:: I saw him
 
@@ -222,9 +219,19 @@ From {{etyl|ota|sh}} {{term|sc=ota-Arab|خان|tr=han|lang=ota}}, from {{etyl|fa
 
 ----
 
+==Tetum==
+
+===Verb===
+{{head|tet|verb}}
+
+# to [[eat]]
+
+----
+
 ==Tok Pisin==
+
 ===Etymology===
-{{etyl|en|tpi}} {{term|hand}}
+From {{etyl|en|tpi}} {{term|hand}}.
 
 ===Noun===
 {{head|tpi|noun}}
@@ -247,7 +254,7 @@ From {{etyl|ota|sh}} {{term|sc=ota-Arab|خان|tr=han|lang=ota}}, from {{etyl|fa
 * {{IPA|/han/|lang=tr}}
 
 ===Noun===
-{{head|tr|noun}}
+{{tr-noun}}
 
 # [[khan]]
 # [[inn]] (for caravans)
