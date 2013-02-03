@@ -4,7 +4,7 @@
 * [[plastick]] {{qualifier|archaic}}
 
 ===Etymology===
-From {{etyl|la}} {{term|plasticus||of molding|lang=la}}, from {{etyl|grc}} {{term|s=polytonic|πλαστικός||tr=plastikos|lang=grc}}, from {{term|πλάσσειν|sc=polytonic||lang=grc|tr=plassein||to mold, form}}.
+From {{etyl|la}} {{term|plasticus||of molding|lang=la}}, from {{etyl|grc}} {{term|sc=polytonic|πλαστικός||tr=plastikos|lang=grc}}, from {{term|πλάσσειν|sc=polytonic||lang=grc|tr=plassein||to mold, form}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈplɑːstɪk/|/ˈplastɪk/}}
@@ -46,8 +46,8 @@ From {{etyl|la}} {{term|plasticus||of molding|lang=la}}, from {{etyl|grc}} {{ter
 * French: {{t+|fr|plastique|f}}
 * Galician: {{t-|gl|plástico}} {{m}}
 * German: {{t+|de|Plastik|n}}, {{t+|de|Kunststoff|f}}
-* Greek: {{t+|el|πλαστικό|n}}
-* Hebrew: {{t+|he|פלסטיק|alt=פְּלָסְטִיק|tr=plástik}}
+* Greek: {{t+|el|πλαστικό|n|sc=Grek}}
+* Hebrew: {{t+|he|פלסטיק|alt=פְּלָסְטִיק|tr=plástik|sc=Hebr}}
 * Hungarian: {{t+|hu|műanyag}}
 {{trans-mid}}
 * Icelandic: {{t-|is|plast|n}}
@@ -59,7 +59,7 @@ From {{etyl|la}} {{term|plasticus||of molding|lang=la}}, from {{etyl|grc}} {{ter
 * Navajo: {{tø|nv|tó doo bináká nílíní}}
 * Polish: {{t+|pl|plastikowy|n}}, {{t+|pl|plastyk|m}}
 * Portuguese: {{t+|pt|plástico|m}}
-* Russian: {{t+|ru|пластмасса|f|tr=plastmássa}}, {{t+|ru|пластик|m|tr=plástik|sc=Cyrl}}
+* Russian: {{t+|ru|пластмасса|f|tr=plastmássa|sc=Cyrl}}, {{t+|ru|пластик|m|tr=plástik|sc=Cyrl}}
 * Serbo-Croatian: {{t-|sh|plastika|f}}
 * Spanish: {{t+|es|plástico|m}}
 * Swedish: {{t+|sv|plast|n|c|p}}
@@ -84,7 +84,7 @@ From {{etyl|la}} {{term|plasticus||of molding|lang=la}}, from {{etyl|grc}} {{ter
 {{trans-bottom}}
 
 {{trans-top|credit cards or debit cards}}
-* Finnish: [[muovi]] {{qualifier|slang}}, [[maksukortti]], [[luottokortti]]
+* Finnish: {{t|fi|muovi}} {{qualifier|slang}}, {{t|fi|maksukortti}}, {{t|fi|luottokortti}}
 * German: {{t+|de|Plastikgeld|n}}
 {{trans-mid}}
 * Icelandic: {{t-|is|plast|n}}
@@ -148,7 +148,7 @@ From {{etyl|la}} {{term|plasticus||of molding|lang=la}}, from {{etyl|grc}} {{ter
 {{trans-bottom}}
 
 {{trans-top|Capable of adapting to varying conditions}}
-* Finnish: [[plastinen]], [[mukautuva]]
+* Finnish: {{t|fi|plastinen}}, {{t|fi|mukautuva}}
 * German: {{t+|de|plastisch}}
 * Italian: {{t+|it|malleabile}}
 {{trans-mid}}
@@ -163,9 +163,9 @@ From {{etyl|la}} {{term|plasticus||of molding|lang=la}}, from {{etyl|grc}} {{ter
 * Finnish: {{t+|fi|muovinen}}
 {{trans-mid}}
 * French: {{t+|fr|plastique}}
-* German: [[Plastik]]- {{qualifier|in compound words}}
+* German: {{t|de|Plastik|alt=Plastik-}} {{qualifier|in compound words}}
 * Italian: {{t-|it|plastico}}
-* Spanish: {{t+|es|plástico}}, [[de]] [[plástico]]
+* Spanish: {{t+|es|plástico}}, {{t|es|plástico|alt=de plástico}}
 {{trans-bottom}}
 
 [[Category:en:Materials]]
