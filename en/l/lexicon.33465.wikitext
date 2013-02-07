@@ -13,6 +13,7 @@ English from the 17th century, from a {{etyl|ML.}} or {{etyl|NL.}} {{term|lexico
 {{wikipedia}}
 {{en-noun|pl=lexica|pl2=lexicons}}
 
+# The [[vocabulary]] of a [[language]].
 # {{linguistics}} A [[dictionary]] that includes or focuses on [[lexeme]]s.
 # A dictionary of Classical [[Greek]], [[Hebrew]], [[Latin]], or [[Aramaic]].
 # {{programming}} The [[lexicology]] of a [[programming language]]. (Usually called [[lexical structure]].)
@@ -29,8 +30,13 @@ English from the 17th century, from a {{etyl|ML.}} or {{etyl|NL.}} {{term|lexico
 * [[lexicology]]
 
 ====Translations====
+{{trans-top|vocabulary of a language}}
+* Finnish: {{t|fi|sanasto}}, {{t+|fi|leksikko}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|dictionary of lexemes}}
-* Finnish: {{t+|fi|leksikko}}
+* Finnish: {{t|fi|sanakirja}}
 * French: {{t+|fr|lexique|m}}
 * Greek: {{t+|el|λημματολόγιο|n|tr=limmatológio|sc=Grek}}
 * Icelandic: {{t+|is|orðabók|f}}, {{t+|is|orðasafn|n}}, {{t-|is|lesforði|m}}, {{t-|is|lessafn|n}}
@@ -51,9 +57,10 @@ English from the 17th century, from a {{etyl|ML.}} or {{etyl|NL.}} {{term|lexico
 {{trans-bottom}}
 
 {{trans-top|lexicology of a programming language}}
+* Finnish: {{t|fi|sanasto}}
 * Greek: {{t+|el|λεξιλόγιο|n|tr=lexilógio|sc=Grek}}
-* Icelandic: {{t+|is|orðasafn|n}}
 {{trans-mid}}
+* Icelandic: {{t+|is|orðasafn|n}}
 * Italian: {{t+|it|lessico|m}}
 {{trans-bottom}}
 
@@ -78,6 +85,11 @@ English from the 17th century, from a {{etyl|ML.}} or {{etyl|NL.}} {{term|lexico
 * Italian: {{t+|it|lessico|m}}, {{t+|it|vocabolario|m}}
 * Polish: {{t-|pl|leksykon|m}}, {{t+|pl|słownictwo|n}}
 * Russian: {{t+|ru|лексикон|m|tr=lexikón}}, [[запас]] [[слово|слов]], [[лексический]] [[запас]]
+{{trans-bottom}}
+
+{{trans-top|subject-specific vocabulary}}
+* Finnish: {{t|fi|sanasto}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
