@@ -154,8 +154,7 @@ From {{etyl|la|fr}} {{term|ructus}}.
 From {{etyl|gmh|de}} {{term|rot|rōt|lang=gmh|red, red-haired}}, from {{etyl|goh|de}} {{term|rot|rōt|lang=goh|red, scarlet, purple-red, brown-red, yellow-red}}, akin to Old Saxon ''rōd'', Old Dutch ''rōd'' (modern Dutch ''[[rood]]''); from {{etyl|gem-pro|de}} {{recons|raudaz|lang=gem-pro}}, from {{etyl|ine-pro|de}} {{recons|h₁rewdʰ-|lang=ine-pro}}.
 
 ===Adjective===
-{{de-adj|röter|rötesten}}<br>
-{{de-adj|roter|rotesten}}
+{{de-adj|röter|comp2=roter|rötesten|sup2=rotesten}}
 
 # [[red]]
 # [[red]]-[[haired]] (''short for [[rothaarig]]'')
@@ -164,11 +163,10 @@ From {{etyl|gmh|de}} {{term|rot|rōt|lang=gmh|red, red-haired}}, from {{etyl|goh
 # {{context|historical|offensive|lang=de}} [[Indian]] (pertaining to the [[Native American]]s)
 
 ====Declension====
-
-=====Declension=====
+;declension with umlaut
 {{de-decl-adj|rot|röter|rötest}}
 
-=====Declension=====
+;declension without umlaut
 {{de-decl-adj|rot|roter|rotest}}
 
 ====Derived terms====
