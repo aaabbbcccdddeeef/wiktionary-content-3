@@ -295,26 +295,17 @@ From {{etyl|fro|en}} {{term|reel|lang=fro}}, from {{etyl|LL.}} {{term|realis|re�
 {{der-bottom}}
 
 ===Etymology 2===
-{{etyl|es|en}}, from {{etyl|la|en}} {{term|regalis|rēgālis|regal, royal|lang=la}}.
+From {{etyl|es|en}} {{term|real||royal|lang=es}}, from {{etyl|la|en}} {{term|regalis|rēgālis|regal, royal|lang=la}}.
 
 ====Pronunciation====
 * {{a|UK}} {{enPR|rāäl'}}, {{IPA|/ɹeɪˈɑːl/}},{{X-SAMPA|/r\eI"A:l/}}
 * {{a|US}} {{enPR|rāäl'}}, {{IPA|/ɹeɪˈɑl/}}, {{X-SAMPA|/r\eI"Al/}}
 
 ====Noun====
-{{en-noun|pl2=reis}}
+{{en-noun|reales}}
 
 # Former unit of currency of [[Spain]] and Spain's colonies.
-# A unit of [[currency]] used in [[Brazil]], and formerly in [[Portugal]].
-#* '''2011''', Perry Anderson, "Lula's Brazil", ''London Review of Books'', 33.VII:
-#*: Within weeks of this bombshell, an aide to the brother of the chairman of the PT, José Genoino, was arrested boarding a flight with 200,000 '''reais''' in a suitcase and $100,000 in his underpants.
 # A coin worth one real.
-
-=====Usage notes=====
-The plural depends on currency's country.
-* Brazil: [[reais]]
-* Portugual: [[reais]] later becoming [[réis]]
-* Mexico & Spain: [[reales]]
 
 =====Translations=====
 {{trans-top|former unit of currency of Spain and Spain's colonies}}
@@ -328,7 +319,41 @@ The plural depends on currency's country.
 * Swedish: {{t+|sv|real|c}}
 {{trans-bottom}}
 
-{{trans-top|a unit of currency used in Brazil, and formerly in Portugal}}
+===Etymology 3===
+From {{etyl|pt|en}} {{term|real||royal|lang=pt}}, from {{etyl|la|en}} {{term|regalis|rēgālis|regal; royal|lang=la}}.
+
+====Noun====
+{{en-noun|reis|pl2=réis|pl3=reals}}
+
+# A unit of [[currency]] used in [[Portugal]] and its colonies from 1430 until 1911, and in [[Brazil]] from 1790 until 1942
+# A coin worth one real.
+
+====Noun====
+{{en-noun|reais|pl2=reals}}
+
+# A unit of [[currency]] used in [[Brazil]] since 1994. Symbol: {{l/en|R$}}
+#* '''2011''', Perry Anderson, "Lula's Brazil", ''London Review of Books'', 33.VII:
+#*: Within weeks of this bombshell, an aide to the brother of the chairman of the PT, José Genoino, was arrested boarding a flight with 200,000 '''reais''' in a suitcase and $100,000 in his underpants.
+# A coin worth one real.
+
+=====Synonyms=====
+* {{sense|old Portuguese and Brazilian unit of currency}} {{l/en|rei}}
+
+=====Meronyms=====
+* {{sense|current Brazilian unit of currency}} {{l/en|centavo}}
+
+=====Related terms=====
+* {{l/en|regal}}
+* {{l/en|royal}}
+* {{l/en|milreis}}
+
+=====Translations=====
+{{trans-top|a unit of currency formerly used in Portugal and Brazil}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|real|m}}
+{{trans-bottom}}
+
+{{trans-top|a unit of currency used in Brazil}}
 * Arabic: {{t-|ar|ريال|m|tr=riyaal}}
 * Bulgarian: {{t-|bg|реал|m}}
 * Chinese:
@@ -354,6 +379,8 @@ The plural depends on currency's country.
 
 ====Statistics====
 * {{rank|age|nearly|miles|493|real|eye|sun|cut}}
+
+[[Category:en:Currency]]
 
 ===Anagrams===
 * [[earl#English|earl]], [[Earl#English|Earl]]
