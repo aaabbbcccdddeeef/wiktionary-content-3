@@ -44,7 +44,7 @@ From {{etyl|enm}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|feld|
 
 ====Synonyms====
 * {{sense|course of study or domain of knowledge}} [[area]], [[domain]], [[sphere]], [[realm]]
-* {{sense|area reserved for playing a game}} [[course]] (''for golf''), [[court]] (''for racquet sports''), [[ground]], [[pitch]] (''for soccer, rugby, cricket'')
+* {{sense|area reserved for playing a game}} [[course]] {{qualifier|for golf}}, [[court]] {{qualifier|for racquet sports}}, [[ground]], [[pitch]] {{qualifier|for soccer, rugby, cricket}}
 
 ====Hypernyms====
 * {{sense|algebra}} [[Euclidean domain]] &sub; [[principal ideal domain]] &sub; [[unique factorization domain]], [[Noetherian domain]] &sub; [[integral domain]] &sub; [[commutative ring]]
@@ -75,11 +75,9 @@ From {{etyl|enm}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|feld|
 {{rel-bottom}}
 
 ====Translations====
-{{rfc-tsort|duplicate language: Old French}}
 {{trans-top|land area free of woodland, cities, and towns; open country}}
 * Afrikaans: {{t-|af|veld}}
 * Albanian: {{t-|sq|fushë}}
-* Old French: {{tø|fro|champ}}
 * Arabic: {{t-|ar|حقل|m|tr=Haql|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|غيط|m|tr=ɣéṭ|sc=Arab}}, {{tø|arz|حقل|m|tr=ḥaql|sc=Arab}}
 * Arin: {{tø|xrn|eol}}
@@ -96,6 +94,8 @@ From {{etyl|enm}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|feld|
 * Esperanto: {{t-|eo|kampo}}, {{t-|eo|kamparo}} {{qualifier|collective}}
 * Finnish: {{t+|fi|kenttä}}
 * French: {{t+|fr|champ|m}}
+*: Old French: {{tø|fro|champ|m}}
+*: Middle French: {{tø|frm|champ|m}}
 * Friulian: {{tø|fur|čhamp}}
 * German: {{t+|de|Feld|n}}
 * Goguryeo: {{tø|zkg|頭婁|tr=duru}}
@@ -114,7 +114,6 @@ From {{etyl|enm}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|feld|
 * Macedonian: {{t-|mk|поле|n|tr=póle|sc=Cyrl}}
 * Occitan: {{t+|oc|camp}}
 * Old Church Slavonic: {{tø|cu|полѥ|n|tr=polje|sc=Cyrs}}
-* Old French: {{tø|fro|champ|m}}
 * Polish: {{t+|pl|pole|n}}
 * Portuguese: {{t+|pt|campo|m}}
 * Romanian: {{t-|ro|câmp|n}}
@@ -147,11 +146,11 @@ From {{etyl|enm}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|feld|
 * Chinese:
 *: Dungan: {{tø|dng|тан|tr=tan|sc=Cyrl}}
 *: Mandarin: {{qualifier|for crops}} {{t-|cmn|田|tr=tián|sc=Hani}}, {{t|cmn|田野|tr=tiányě|sc=Hani}}
-* Czech: {{t-|cs|pastvina|f}}   {{qualifier|for animals}}, {{t+|cs|pole|n}}   {{qualifier|for crops}}
+* Czech: {{t-|cs|pastvina|f}} {{qualifier|for animals}}, {{t+|cs|pole|n}} {{qualifier|for crops}}
 * Danish: {{t-|da|mark|c}}, {{t+|da|ager}}
-* Dutch: {{t+|nl|veld|n}}, {{t+|nl|akker|n}}   {{qualifier|for crops}}, {{t+|nl|wei|f}}, {{t+|nl|weide|f}}, {{t+|nl|weiland|n}}   {{qualifier|for animals}}
+* Dutch: {{t+|nl|veld|n}}, {{t+|nl|akker|n}} {{qualifier|for crops}}, {{t+|nl|wei|f}}, {{t+|nl|weide|f}}, {{t+|nl|weiland|n}} {{qualifier|for animals}}
 * Esperanto: {{t-|eo|kampo}}
-* Estonian: {{t-|et|väli}}, {{t+|et|põld}}, {{t-|et|nurm}}  {{qualifier|for crops}}
+* Estonian: {{t-|et|väli}}, {{t+|et|põld}}, {{t-|et|nurm}} {{qualifier|for crops}}
 * Finnish: {{t+|fi|laidun}} {{qualifier|for animals}}, {{t+|fi|pelto}} {{qualifier|for crops}}, {{t+|fi|vainio}}
 * French: {{t+|fr|champ|m}}
 * {{trreq|Georgian}}
@@ -162,7 +161,7 @@ From {{etyl|enm}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|feld|
 * Irish: {{t+|ga|páirc|f}}, {{t-|ga|gort|m}}, {{t-|ga|garraí|m}}
 * Italian: {{t+|it|campo|m}}
 * Japanese: {{t+|ja|畑|tr=はたけ, hatake}}
-* Korean: {{t+|ko|밭|tr=bat}}   {{qualifier|for crops}}
+* Korean: {{t+|ko|밭|tr=bat}} {{qualifier|for crops}}
 {{trans-mid}}
 * Latin: {{t-|la|campus}}
 * Latvian: {{t+|lv|lauks|m}}
@@ -170,7 +169,7 @@ From {{etyl|enm}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|feld|
 * Mòcheno: {{tø|mhn|vèlt}}
 * Norwegian: {{t+|no|åker|m}} {{qualifier|for crops}}
 * Old Church Slavonic: {{tø|cu|полѥ|n|tr=polje|sc=Cyrs}}
-* Polish: {{t+|pl|pastwisko|n}}  {{qualifier|for animals}}, {{t+|pl|pole|n}}   {{qualifier|for crops}}
+* Polish: {{t+|pl|pastwisko|n}} {{qualifier|for animals}}, {{t+|pl|pole|n}} {{qualifier|for crops}}
 * Portuguese: {{t+|pt|campo|m}}, {{t+|pt|terreno|m}}
 * Romanian: {{t-|ro|câmp}}
 * Russian: {{qualifier|for animals}} {{t+|ru|пастбище|n|tr=pástbišče|sc=Cyrl}}, {{qualifier|for crops}} {{t+|ru|поле|n|tr=póle|sc=Cyrl}}
@@ -183,7 +182,7 @@ From {{etyl|enm}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|feld|
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|пашњак|m|sc=Cyrl}}, {{t-|sh|поље|n|sc=Cyrl}}
 *: Roman: {{t-|sh|pašnjak|m}}, {{t-|sh|polje|n}}
-* Slovene: {{t-|sl|pašnik|m}}   {{qualifier|for animals}}, {{t+|sl|polje|n}}   {{qualifier|for crops}}
+* Slovene: {{t-|sl|pašnik|m}} {{qualifier|for animals}}, {{t+|sl|polje|n}} {{qualifier|for crops}}
 * Spanish: {{t+|es|campo|m}}
 * Swedish: {{t+|sv|fält|n}}
 * Talysh:
@@ -343,7 +342,7 @@ From {{etyl|enm}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|feld|
 *: Roman: {{t-|sh|teren|m}}
 * Slovene: {{t+|sl|polje|m}}
 * Spanish: {{t+|es|campo|m}}
-* Swedish: {{t+|sv|plan|c}} (''outdoors'')
+* Swedish: {{t+|sv|plan|c}} {{qualifier|outdoors}}
 * Yiddish: {{t-|yi|פֿעלד|n|tr=feld|sc=Hebr}}
 {{trans-bottom}}
 
@@ -422,7 +421,6 @@ From {{etyl|enm}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|feld|
 * {{sense|be the team throwing and catching the ball}} [[bat]]
 
 ====Translations====
-
 {{trans-top|intercept or catch}}
 * Finnish: {{t+|fi|ottaa kiinni}}
 * French: {{t+|fr|attraper}}
@@ -457,7 +455,7 @@ From {{etyl|enm}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|feld|
 {{Wikisource1911Enc Citation|Field}}
 
 ===Statistics===
-* {{rank|Indian|produce|drawn|827|field|street|attempt|soft}}
+* {{rank|India|produce|drawn|827|field|street|attempt|soft}}
 
 ===Anagrams===
 * [[felid#English|felid]]
