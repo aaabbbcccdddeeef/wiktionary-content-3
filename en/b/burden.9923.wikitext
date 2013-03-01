@@ -32,12 +32,12 @@ From {{etyl|ang|en}} {{term|sc=unicode|byrþen|lang=ang}}.
 
 =====Translations=====
 {{trans-top|heavy load}}
-* Arabic: {{t-|ar|حمل|m|tr=Himl}}, {{t-|ar|عبء|m|tr=`ib'}}
+* Arabic: {{t-|ar|حمل|m|tr=ḥiml}}, {{t-|ar|عبء|m|tr=ʿibʾ}}
 * Armenian: {{t+|hy|բեռ|tr=beṙ}}
-* Bulgarian: {{t+|bg|товар|m}}
+* Bulgarian: {{t+|bg|товар|m|tr=továr}}
 * Catalan: {{t+|ca|càrrega|f}}, {{t-|ca|carga}}
 * Chinese:
-*: Mandarin: {{zh-tsp|負荷|负荷|fùhè}}, {{t|cmn|負荷|sc=Hani}}, {{t|cmn|负荷|tr=fùhè|sc=Hani}}
+*: Mandarin: {{t|cmn|負荷|sc=Hani}}, {{t|cmn|负荷|tr=fùhè|sc=Hani}}
 * Czech: {{t+|cs|břemeno|n}}, {{t-|cs|zatížení|n}}, {{t+|cs|náklad|m}}, {{t-|cs|zátěž|m}}
 * Dutch: {{t+|nl|last|m}}
 * Finnish: {{t+|fi|kuorma}}, {{t+|fi|taakka}}
@@ -49,7 +49,7 @@ From {{etyl|ang|en}} {{term|sc=unicode|byrþen|lang=ang}}.
 * Hungarian: {{t+|hu|teher}}
 {{trans-mid}}
 * Italian: {{t+|it|carico|m}}, {{t+|it|fardello}}
-* Japanese: [[積み荷]](つみに, tsumini), {{t|ja|積み荷|tr=つみに, tsumini|sc=Jpan}}
+* Japanese: {{t|ja|積み荷|tr=つみに, tsumini|sc=Jpan}}
 * Korean: [[짐]] (jim), [[바리]] (bari)
 * Kurdish: [[berpirsiyarî]] {{f}}, [[bar]] {{m}}
 *: Sorani: {{ku-Arab|[[بار گرانی]]}}
@@ -58,7 +58,10 @@ From {{etyl|ang|en}} {{term|sc=unicode|byrþen|lang=ang}}.
 * Portuguese: {{t+|pt|carga}}, {{t+|pt|fardo|m}}
 * Romanian: {{t-|ro|sarcină}}
 * Russian: {{t+|ru|ноша|f|tr=nóša}}
-* Serbo-Croatian: {{t-|sh|breme|n}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|бреме|n|alt=бре̏ме}}
+*: Roman: {{t|sh|breme|n|alt=brȅme}}
+* Slovak: {{t|sk|bremeno|n}}
 * Spanish: {{t+|es|carga}}
 * Swedish: {{t+|sv|börda}}, {{t-|sv|belastning}}
 * Tagalog: {{t-|tl|dinadalang mabigat}}
@@ -66,12 +69,12 @@ From {{etyl|ang|en}} {{term|sc=unicode|byrþen|lang=ang}}.
 {{trans-bottom}}
 
 {{trans-top|responsibility, onus}}
-* Arabic: {{t-|ar|حمل|m|tr=Himl}}, {{t-|ar|عبء|m|tr=`ib'}}
+* Arabic: {{t-|ar|حمل|m|tr=ḥiml}}, {{t-|ar|عبء|m|tr=ʿibʾ}}
 * Armenian: {{t+|hy|բեռ|tr=beṙ}}
 * Belarusian: {{t|be|цяжар|m|tr=cjažár|sc=Cyrl}}
-* Bulgarian: {{t+|bg|бреме|n}}
+* Bulgarian: {{t+|bg|бреме|n|tr=bréme|sc=Cyrl}}
 * Chinese:
-*: Mandarin: {{zh-tsp|負擔|负担|fùdān}}, {{t|cmn|負擔|sc=Hani}}, {{t|cmn|负担|tr=fùdān|sc=Hani}}
+*: Mandarin: {{t|cmn|負擔|sc=Hani}}, {{t|cmn|负担|tr=fùdān|sc=Hani}}
 * Czech: {{t|cs|břemeno|n}}
 * Finnish: {{t+|fi|vastuu}}
 * French: {{t+|fr|fardeau|m}}
@@ -79,7 +82,7 @@ From {{etyl|ang|en}} {{term|sc=unicode|byrþen|lang=ang}}.
 * Hebrew: [[נטל]] (net'el) {{m}}
 * Hungarian: {{t+|hu|teher}}
 * Italian: {{t+|it|responsabilità|f}}, {{t+|it|onere|m}}
-* Japanese: [[負担]](ふたん, futan), {{t|ja|負担|tr=ふたん, futan|sc=Jpan}}
+* Japanese: {{t|ja|負担|tr=ふたん, futan|sc=Jpan}}
 * Korean: [[짐]] (jim)
 * Kurdish: [[berpirsiyarî]] {{f}}, [[bar]] {{m}}
 *: Sorani: {{ku-Arab|[[بار]]}}
@@ -107,7 +110,7 @@ From {{etyl|ang|en}} {{term|sc=unicode|byrþen|lang=ang}}.
 * French: {{t+|fr|fardeau|m}}
 * German: {{t+|de|Sorge|f}}, {{t+|de|Bürde|f}}
 * Italian: {{t+|it|preoccupazione|f}}, {{t+|it|fardello|m}}
-* Japanese: [[心配事]](しんぱいごと, shimpaigoto), {{t|ja|心配事|tr=しんぱいごと, shimpaigoto|sc=Jpan}}
+* Japanese: {{t|ja|心配事|tr=しんぱいごと, shimpaigoto|sc=Jpan}}
 * Korean: [[짐]] (jim)
 * Kurdish: [[bar]] {{m}}
 *: Sorani: {{ku-Arab|[[به‌ڵا]]}}
