@@ -310,7 +310,7 @@ Alternate etymology derives Proto-Germanic *''stuppōnan'' from an assumed {{ety
 * Persian: {{t+|fa|ایستگاه|tr=istgâh}}
 * Polish: {{t+|pl|przystanek|m}}
 * Portuguese: {{t+|pt|ponto final|m}}
-* Romanian: {{t-|ro|stație|f}}, [[loc]] [[de]] [[oprire]] {{n}}
+* {{ttbc|ro}}: {{t-|ro|stație|f}}, {{t|ro|loc de oprire|n}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Russian: {{t+|ru|остановка|f|tr=ostanóvka}}
 * Slovak: {{t-|sk|zastávka|f}}
 * Spanish: {{t+|es|parada|f}}, {{t-|es|paradero|m}}
@@ -354,7 +354,7 @@ Alternate etymology derives Proto-Germanic *''stuppōnan'' from an assumed {{ety
 {{trans-bottom}}
 
 {{trans-top|consonant sound}}
-* Catalan: [[oclusiva]] {{f}}
+* Catalan: {{t|ca|oclusiva|f}}
 * Dutch: {{t+|nl|occlusief|m}}
 * French: {{t+|fr|occlusive|f}}
 * Italian: {{t-|it|occlusiva|f}}
@@ -365,14 +365,14 @@ Alternate etymology derives Proto-Germanic *''stuppōnan'' from an assumed {{ety
 {{trans-bottom}}
 
 {{trans-top|punctuation symbol}}
-* Afrikaans: [[punt]]
-* Catalan: [[punt]] {{m}}
-* Dutch: {{t+|nl|punt|m}}, [[komma]] {{f}}, [[dubbele punt]] {{m}}, [[puntkomma]] {{f}}
+* Afrikaans: {{t|af|punt}}
+* Catalan: {{t|ca|punt|m}}
+* Dutch: {{t+|nl|punt|m}}, {{t|nl|komma|f}}, {{t|nl|dubbele punt|m}}, {{t|nl|puntkomma|f}}
 * Finnish: {{t|fi|piste}}
 * German: {{t+|de|Punkt|m}}
 {{trans-mid}}
 * Italian: {{t+|it|punto|m}}
-* Portuguese: [[ponto final]] {{m}}
+* Portuguese: {{t|pt|ponto final|m}}
 * Romanian: {{t-|ro|punct|n}}
 * Russian: {{t+|ru|знак препинания|m|tr=znak prepinánija}}
 * Swedish: {{t+|sv|punkt|c}}
@@ -391,7 +391,7 @@ Alternate etymology derives Proto-Germanic *''stuppōnan'' from an assumed {{ety
 {{trans-bottom}}
 
 {{trans-top|tennis: short shot}}
-* Finnish: [[stoppari]], [[pysäytyslyönti]]
+* Finnish: {{t|fi|stoppari}}, {{t|fi|pysäytyslyönti}}
 * French: {{t-|fr|ammorti|m}}
 * German: {{t+|de|Stoppball|m}}
 {{trans-mid}}
@@ -406,7 +406,7 @@ Alternate etymology derives Proto-Germanic *''stuppōnan'' from an assumed {{ety
 {{checktrans-top}}
 * {{ttbc|bg}}: {{t+|bg|спирка|f|tr=spirka}} (1), {{t+|bg|спиране|n|tr=spirane}} (2), {{t-|bg|оклузив|m|tr=okluziv}} (5)
 {{trans-mid}}
-* {{ttbc|ro}}: [[stație]] {{f}} (1), [[oprire]] {{f}} (2)
+* {{ttbc|ro}}: {{qualifier|1}} {{t|ro|stație|f}}, {{qualifier|2}} {{t|ro|oprire|f}}
 * {{ttbc|th}}: {{t+|th|หยุด|tr=yòot}} (1,2)
 {{trans-bottom}}
 
