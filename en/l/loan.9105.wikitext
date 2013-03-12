@@ -40,9 +40,9 @@ From {{etyl|enm}} {{term|lone|lang=enm}}, {{term|lane|lang=enm}}, from {{etyl|no
 
 ====Translations====
 {{trans-top|borrowed sum of money or other valuables}}
-* Arabic: {{t-|ar|قرض|m|tr=qarD}},  {{t-|ar|إعارة|f|tr='i`āra}}
+* Arabic: {{t-|ar|قرض|m|tr=qarD}}, {{t-|ar|إعارة|f|tr='i`āra}}
 * Chinese:
-*: Mandarin: {{t-|cmn|貸款|sc=Hani}},  {{t-|cmn|贷款|tr=dàikuǎn|sc=Hani}},  {{t|cmn|借款|tr=jièkuǎn|sc=Hani}}
+*: Mandarin: {{t-|cmn|貸款|sc=Hani}}, {{t-|cmn|贷款|tr=dàikuǎn|sc=Hani}}, {{t|cmn|借款|tr=jièkuǎn|sc=Hani}}
 * Czech: {{t-|cs|půjčka|f}}
 * Dutch: {{t+|nl|lening|f}}
 * Finnish: {{t+|fi|laina}}
@@ -51,9 +51,9 @@ From {{etyl|enm}} {{term|lone|lang=enm}}, {{term|lane|lang=enm}}, from {{etyl|no
 * Greek: {{t+|el|δάνειο|n|tr=dáneio}}
 * Hungarian: {{t+|hu|kölcsön}}
 * Italian: {{t+|it|prestito|m}} (small sum), {{t+|it|mutuo|m}} (big amount/long term)
-* Japanese: {{t-|ja|貸付け|tr=かしつけ, kashitsuke}},  {{t+|ja|ローン|tr=rōn}}
+* Japanese: {{t-|ja|貸付け|tr=かしつけ, kashitsuke}}, {{t+|ja|ローン|tr=rōn}}
 * Jèrriais: {{tø|roa-jer|prêt'tie|f}}
-* Korean: [[대부]] (daebu)
+* Korean: {{t|ko|대부|tr=daebu|sc=Kore}}
 * Latin: {{t-|la|mutuum|n|alt=mūtuum}}
 {{trans-mid}}
 * Latvian: {{t-|lv|aizņēmums|m}}
@@ -73,7 +73,7 @@ From {{etyl|enm}} {{term|lone|lang=enm}}, {{term|lane|lang=enm}}, from {{etyl|no
 {{trans-bottom}}
 
 {{trans-top|contract and array of legal or ethical obligations surrounding a loan}}
-* German: [[Darlehensvertrag]] {{m}}
+* German: {{t|de|Darlehensvertrag|m}}
 * Greek: {{t+|el|δάνειο|n|tr=dáneio}}
 * Italian: {{t+|it|prestito|m}} {{gloss|small sum}}, {{t+|it|mutuo|m}} {{gloss|big amount/long term}}
 * Jèrriais: {{tø|roa-jer|prêt'tie|f}}
@@ -93,16 +93,16 @@ From {{etyl|enm}} {{term|lone|lang=enm}}, {{term|lane|lang=enm}}, from {{etyl|no
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|fr}}: [[emprunt]] {{m}}
-* {{ttbc|ml}}: [[കടം]] (katam) (1)
-* {{ttbc|pt}}: [[empréstimo]] {{m}}
+* {{ttbc|fr}}: {{t|fr|emprunt|m}}
+* {{ttbc|ml}}: {{t|ml|കടം|tr=katam|sc=Mlym}} (1)
+* {{ttbc|pt}}: {{t|pt|empréstimo|m}}
 {{trans-mid}}
-* {{ttbc|ro}}: [[împrumut]] {{n}}
-* {{ttbc|sh}}: [[pozajmica]] {{f}}, [[zajam]] {{m}}, [[kredit]] {{m}}
-* {{ttbc|es}}: [[préstamo]] {{m}}
-* {{ttbc|ta}}: [[கடன்]] (kaDan)
-* {{ttbc|te}}: [[ఋణము]] (ruNamu), [[అప్పు]] (appu), [[ఉద్దెర]] (uddera), [[అరువు]] (aruvu)
-* {{ttbc|vi}}: [[tiền]] cho [[mượn]]
+* {{ttbc|ro}}: {{t|ro|împrumut|n}}
+* {{ttbc|sh}}: {{t|sh|pozajmica|f}}, {{t|sh|zajam|m}}, {{t|sh|kredit|m}}
+* {{ttbc|es}}: {{t|es|préstamo|m}}
+* {{ttbc|ta}}: {{t|ta|கடன்|tr=kaDan|sc=Taml}}
+* {{ttbc|te}}: {{t|te|ఋణము|tr=ruNamu|sc=Telu}}, {{t|te|అప్పు|tr=appu|sc=Telu}}, {{t|te|ఉద్దెర|tr=uddera|sc=Telu}}, {{t|te|అరువు|tr=aruvu|sc=Telu}}
+* {{ttbc|vi}}: {{t|vi|tiền cho mượn}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-bottom}}
 
 ===Verb===
@@ -127,14 +127,14 @@ From {{etyl|enm}} {{term|lone|lang=enm}}, {{term|lane|lang=enm}}, from {{etyl|no
 * Italian: {{t+|it|prestare}}
 * Polish: {{t+|pl|pożyczać}}
 {{trans-mid}}
-* Romanian: a [[împrumuta]]
+* {{ttbc|ro}}: {{t|ro|a împrumuta}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Russian: {{t+|ru|ссужать|tr=ssužát’}}, {{t-|ru|давать взаймы|tr=davát’ vzajmý}}
-* Serbo-Croatian: [[pozajmiti]], {{t-|sh|posuditi}}
-* Slovak: [[pôžičať]]
+* Serbo-Croatian: {{t|sh|pozajmiti}}, {{t-|sh|posuditi}}
+* Slovak: {{t|sk|pôžičať}}
 * Spanish: {{t+|es|prestar}}
 * Swahili: {{t+|sw|mikopo}}
 * Turkish: {{t-|tr|borç vermek}}, {{t-|tr|ödünç vermek}}
-* Vietnamese: cho [[mượn]]
+* {{ttbc|vi}}: {{t|vi|cho mượn}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-bottom}}
 
 ===Anagrams===
