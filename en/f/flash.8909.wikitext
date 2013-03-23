@@ -3,12 +3,12 @@
 {{wikipedia}}
 
 ===Etymology===
-From the {{etyl|enm}} word ''[[flashen]]'' (to splash), a variant of ''[[flasken]]'', which was likely of imitative origin.
+From the {{etyl|enm}} word {{term|flashen||to splash|lang=enm}}, a variant of {{term|flasken|lang=enm}}, which was likely of imitative origin.
 
 ===Pronunciation===
-* Hyphenation: '''flash''' (''one syllable'')
-* {{rhymes|æʃ}}
 * {{audio|en-us-flash.ogg|Audio (US)}}
+* {{rhymes|æʃ}}
+* {{hyphenation|flash}}
 
 ===Verb===
 {{en-verb|flash|es}}
@@ -90,7 +90,7 @@ From the {{etyl|enm}} word ''[[flashen]]'' (to splash), a variant of ''[[flasken
 *: Mandarin: {{zh-ts|[[閃]][[現]]|[[闪]][[现]]}} ([[shǎn]][[xiàn]])
 * Danish: {{t-|da|glimte}}
 {{trans-mid}}
-* Finnish: {{t-|fi|vilahtaa}}; {{t-|fi|välähtää}} {{qualifier|of light}}
+* Finnish: {{t-|fi|vilahtaa}}, {{t-|fi|välähtää}} {{qualifier|of light}}
 * Latin: {{t-|la|fulgere|alt=fulgēre}}
 * Swedish: {{t+|sv|glimta}}
 {{trans-bottom}}
@@ -109,8 +109,9 @@ From the {{etyl|enm}} word ''[[flashen]]'' (to splash), a variant of ''[[flasken
 {{trans-bottom}}
 
 {{trans-top|to expose one's naked body briefly in public}}
-* Chinese: {{zh-zh-p|故意走光|gùyìzǒuguāng}}
-* Danish: {{t-|da|blotte}} sig
+* Chinese:
+*: Mandarin: {{t|cmn|故意走光|tr=gùyìzǒuguāng|sc=Hani}}
+* Danish: {{t-|da|blotte|alt=blotte sig}}
 * Finnish: {{t-|fi|vilauttaa}}
 {{trans-mid}}
 * French: {{t+|fr|s'exhiber}}
@@ -134,20 +135,20 @@ From the {{etyl|enm}} word ''[[flashen]]'' (to splash), a variant of ''[[flasken
 #*: I reached a '''flash''' out of my car pocket and went down-grade and looked at the car.
 # {{juggling}} A pattern where each [[prop]] is thrown and caught only once.
 # {{rfv-sense}} {{science}} The sum total of all the complex processes of a single lightning event, including both what is invisible and what is visible or discernible to the human eye.
-#: Lightning is often used synonymously, both separately or in conjunction making it redundant or confusing. 
+#: Lightning is often used synonymously, both separately or in conjunction making it redundant or confusing.
 #:: Saying "A lightning flash..." translates two ways;
 #::: "A lightning [lightning]..." or
-#::: "A lightning [observational property meaning bright and momentary]..." 
+#::: "A lightning [observational property meaning bright and momentary]..."
 
 ====Synonyms====
-* (''sudden, short, temporary burst of light''): [[gleam]], [[glint]]
-* (''material left around the egde of a mould''): moulding flash, molding flash
+* {{sense|sudden, short, temporary burst of light}} [[gleam]], [[glint]]
+* {{sense|material left around the egde of a mould}} moulding flash, molding flash
 
 ====Antonyms====
-* (''very short amount of time''): [[aeon]]
+* {{sense|very short amount of time}} [[aeon]]
 
 ====Hypernyms====
-* (''sudden, short, temporary burst of light''): [[light]]
+* {{sense|sudden, short, temporary burst of light}} [[light]]
 
 ====Derived terms====
 * [[antiflash]]
@@ -204,14 +205,14 @@ From the {{etyl|enm}} word ''[[flashen]]'' (to splash), a variant of ''[[flasken
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ja}}: [[フラッシュ]] (''furasshu'')
+* {{ttbc|ja}}: {{t|ja|フラッシュ|tr=furasshu|sc=Jpan}}
 * {{ttbc|ur}}: {{t-|ur|چمک|tr=chamak}}
 {{trans-bottom}}
 
 ===Adjective===
 {{en-adj}}
 
-# {{British|and|New Zealand|slang}} [[expensive|Expensive]] looking and [[attention]] worthy; stylish.
+# {{British|_|and|_|New Zealand|slang}} [[expensive|Expensive]] looking and [[attention]] worthy; stylish.
 # {{UK|of a person}} Having plenty of [[ready money]].
 # {{UK|of a person}} Liable to show off about expensive possessions or money.
 # {{US|slang}} Occurring very rapidly, almost instantaneously.
@@ -220,7 +221,7 @@ From the {{etyl|enm}} word ''[[flashen]]'' (to splash), a variant of ''[[flasken
 {{trans-top|expensive looking and attention worthy}}
 * Bulgarian: {{t+|bg|показен|sc=Cyrl}}, {{t+|bg|крещящ|sc=Cyrl}}
 * Chinese:
-*: Mandarin: {{zh-ts|[[俗]][[豔]]的|[[俗]][[艳]]的}} ([[sú]][[yàn]][[de]])
+*: Mandarin: {{t-SOP|cmn|[[俗]][[豔]]的|[[俗]][[艳]]的|tr=súyànde|sc=Hani}}
 {{trans-mid}}
 * Danish: {{t-|da|flot}}
 * Finnish: {{t-|fi|pramea}}, {{t+|fi|korea}}, {{t-|fi|fiini}}
