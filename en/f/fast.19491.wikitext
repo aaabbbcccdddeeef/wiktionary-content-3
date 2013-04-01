@@ -127,7 +127,7 @@ The development of “rapid” from an original sense of “secure” apparently
 * Armenian: {{t+|hy|արագ|tr=arag}}
 * Asturian: {{t-|ast|rápidu}}
 * Basque: {{t-|eu|azkar}}
-* Belarusian: {{t|be|хуткі|tr=xútki|sc=Cyrl}}
+* Belarusian: {{t-|be|хуткі|tr=xútki|sc=Cyrl}}
 * Bulgarian: {{t+|bg|бърз|sc=Cyrl}}
 * Catalan: {{t+|ca|ràpid}}, {{t-|ca|veloç}}
 * Chinese:
@@ -144,7 +144,7 @@ The development of “rapid” from an original sense of “secure” apparently
 * German: {{t+|de|schnell}}, {{t+|de|geschwind}}, {{t+|de|pfeilschnell}}, {{t-|de|pfeilgeschwind}}
 * Greek: {{t+|el|γρήγορος|m|tr=grígoros}}, {{t+|el|ταχύς|m|tr=takhís}}
 * Hindi: {{t-|hi|तेज़|tr=tez|sc=Deva}}, {{t-|hi|तीव्र|tr=tivra|sc=Deva}}
-* Icelandic: {{t+|is|hraður}}, {{t-|is|hraðskreiður}}, {{t-|is|skjótur|m}}, {{t+|is|snöggur|m}}, {{t+|is|kvikur|m}}, {{t|is|fljótur}}, {{t|is|ör}}
+* Icelandic: {{t+|is|hraður}}, {{t-|is|hraðskreiður}}, {{t-|is|skjótur|m}}, {{t+|is|snöggur|m}}, {{t+|is|kvikur|m}}, {{t+|is|fljótur}}, {{t+|is|ör}}
 * Irish: {{t-|ga|luath}}
 * Italian: {{t+|it|veloce}}, {{t+|it|rapido}}, {{t+|it|rapida}}
 * Japanese: {{t+|ja|速い}}, {{t+|ja|はやい|tr=hayai}}
@@ -156,7 +156,7 @@ The development of “rapid” from an original sense of “secure” apparently
 * Latin: {{t+|la|celer}}
 * Lithuanian: {{t+|lt|greitas|m}}, {{t-|lt|greita|f}}
 * Lojban: {{t+|jbo|sutra}}
-* Low German: {{t-|nds|snell}}, {{t-|nds|swind}}, {{t-|nds|swinn}}, {{t-|nds|dallig}}
+* Low German: {{t+|nds|snell}}, {{t-|nds|swind}}, {{t-|nds|swinn}}, {{t-|nds|dallig}}
 * Macedonian: {{t-|mk|брз|m|tr=brz}}
 * Malay: {{t+|ms|laju}}
 * Norwegian: {{t+|no|rask}}, {{t-|no|kjapp}}
@@ -166,8 +166,8 @@ The development of “rapid” from an original sense of “secure” apparently
 * Romanian: {{t-|ro|rapid}}, {{t-|ro|iute}}, {{t-|ro|grăbit}}, {{t-|ro|repede}}
 * Russian: {{t+|ru|быстрый|tr=býstryj}}, {{t+|ru|скорый|tr=skóryj}}, {{t+|ru|скоростной|tr=skorostnój}}
 * Scottish Gaelic: {{t-|gd|luath}}
-* Slovak: {{t|sk|rýchly}}
-* Slovene: {{t|sl|hiter|alt=híter}}
+* Slovak: {{t-|sk|rýchly}}
+* Slovene: {{t-|sl|hiter|alt=híter}}
 * Spanish: {{t+|es|rápido}}
 * Swahili: {{t+|sw|haraka}}
 * Swedish: {{t+|sv|snabb}}, {{t+|sv|kvick}}
@@ -175,7 +175,7 @@ The development of “rapid” from an original sense of “secure” apparently
 * Thai: {{t+|th|เร็ว|tr=reo|sc=Thai}}
 * Tok Pisin: [[kwik]]
 * Turkish: {{t+|tr|hızlı}}
-* Ukrainian: {{t|uk|швидкий|tr=švydkýj|sc=Cyrl}}
+* Ukrainian: {{t-|uk|швидкий|tr=švydkýj|sc=Cyrl}}
 * Urdu: {{t+|ur|تیز|tr=tez|sc=ur-Arab}}
 * Volapük: {{t+|vo|vifik}}, {{t-|vo|sagitavifik}}
 {{trans-bottom}}
@@ -271,14 +271,14 @@ The development of “rapid” from an original sense of “secure” apparently
 {{trans-bottom}}
 
 {{trans-top|with great speed}}
-* Arabic: {{t|ar|سرعة|tr=bi-súrʿa|alt=بسرعة|sc=Arab}}, {{t|ar|عاجلا|tr=ʿāxilan|alt=عاجلاً|sc=Arab}}
+* Arabic: {{t-|ar|سرعة|tr=bi-súrʿa|alt=بسرعة|sc=Arab}}, {{t-|ar|عاجلا|tr=ʿāxilan|alt=عاجلاً|sc=Arab}}
 * Basque: {{t-|eu|azkar}}, {{t-|eu|agudo}}
-* Belarusian: {{t|be|хутка|tr=xútka|sc=Cyrl}}
+* Belarusian: {{t-|be|хутка|tr=xútka|sc=Cyrl}}
 * Bulgarian: {{t+|bg|бързо|n|tr=bǎ̀rzo|sc=Cyrl}}
 * Catalan: {{t+|ca|ràpid}}, {{t+|ca|ràpidament}}, {{t+|ca|veloçment}}
 * Chinese:
 *: Mandarin: {{t|cmn|快|tr=kuài|sc=Hani}}, {{t|cmn|快速|tr=kuàisù|sc=Hani}}
-* Czech: {{t|cs|rychle}}
+* Czech: {{t+|cs|rychle}}
 * Dutch: {{t+|nl|snel}}, {{t+|nl|vlug}}
 * Esperanto: {{t-|eo|rapide}}
 * Faroese: {{t-|fo|skjótt}}
@@ -286,11 +286,11 @@ The development of “rapid” from an original sense of “secure” apparently
 * French: {{t+|fr|rapidement}}, {{t+|fr|vite}}
 * German: {{t+|de|schnell}}
 * Greek: {{t+|el|γρήγορα|tr=grígora}}
-* Hindi: {{t|hi|झटपट|tr=jhațpaț|sc=Deva}}, {{t|hi|जल्दी|tr=jaldī se|alt=जल्दी से|sc=Deva}}
+* Hindi: {{t-|hi|झटपट|tr=jhațpaț|sc=Deva}}, {{t+|hi|जल्दी|tr=jaldī se|alt=जल्दी से|sc=Deva}}
 * Icelandic: {{t-|is|hratt}}
 * Italian: {{t+|it|rapidamente}}, {{t+|it|velocemente}}
-* Japanese: {{t|ja|速い|tr=はやく, hayaku|alt=速く|sc=Jpan}}, {{t|ja|急ぐ|tr=いそいで, isoide|alt=急いで|sc=Jpan}}
-* Korean: {{t|ko|빨리|tr=ppalli|sc=Kore}}
+* Japanese: {{t+|ja|速い|tr=はやく, hayaku|alt=速く|sc=Jpan}}, {{t-|ja|急ぐ|tr=いそいで, isoide|alt=急いで|sc=Jpan}}
+* Korean: {{t+|ko|빨리|tr=ppalli|sc=Kore}}
 {{trans-mid}}
 * Kurdish: [[zû]]
 *: Sorani: {{ku-Arab|[[زو]]}}
@@ -298,20 +298,20 @@ The development of “rapid” from an original sense of “secure” apparently
 * Navajo: {{tø|nv|hah}}, {{tø|nv|tsį́į́ł}}, {{tø|nv|tsį́į́łgo}}
 * Norwegian: {{t-|no|raskt}}, {{t-|no|kjapt}}, {{t+|no|hurtig}}
 * Persian: {{t+|fa|تند|tr=tond|sc=fa-Arab}}
-* Polish: {{t+|pl|szybko}}, {{t|pl|prędko}}, {{t|pl|bystro}}
+* Polish: {{t+|pl|szybko}}, {{t+|pl|prędko}}, {{t-|pl|bystro}}
 * Portuguese: {{t+|pt|rapidamente}}
 * Romanian: {{t-|ro|repede}}
 * Russian: {{t+|ru|быстро|tr=býstro}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|брзо}}
-*: Roman: {{t|sh|brzo}}
-* Slovak: {{t|sk|rýchlo}}
+*: Cyrillic: {{t-|sh|брзо}}
+*: Roman: {{t-|sh|brzo}}
+* Slovak: {{t-|sk|rýchlo}}
 * Slovene: {{t+|sl|hitro|alt=hítro}}
 * Spanish: {{t+|es|rápidamente}}
 * Swedish: {{t+|sv|fort}}, {{t+|sv|kvickt}}, {{t+|sv|snabbt}}
 * Tok Pisin: [[kwik]]
 * Turkish: {{t+|tr|hızlı}}
-* Ukrainian: {{t|uk|швидко|tr=švýdko|sc=Cyrl}}
+* Ukrainian: {{t+|uk|швидко|tr=švýdko|sc=Cyrl}}
 * Vietnamese: {{t+|vi|nhanh}}, {{t+|vi|mau}}
 {{trans-bottom}}
 
@@ -445,7 +445,7 @@ The development of “rapid” from an original sense of “secure” apparently
 * Turkish: {{t+|tr|oruç tutmak}}
 * {{trreq|uz}}
 * {{trreq|vi}}
-* Welsh: {{t-|cy|ymprydio}}
+* Welsh: {{t+|cy|ymprydio}}
 * Yiddish: {{t-|yi|פֿאַסטן|tr=fastn|sc=Hebr}}
 {{trans-bottom}}
 
