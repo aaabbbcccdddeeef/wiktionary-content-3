@@ -57,7 +57,7 @@
 # {{networking}} To send a packet in order to determine whether a [[host]] is present, particularly by use of the ping utility.
 #: ''I'm '''pinging''' their server.''
 #: ''The server '''pings''' its affiliates periodically.''
-# {{networking}} To ping and receive an acknowledgement.
+# {{networking}} To send a network packet to another host and receive an acknowledgement in return.
 #: ''I can't '''ping''' their server: perhaps it's been switched off.''
 # To send an email or other message to someone in hopes of eliciting a response.
 #: ''I'll '''ping''' the insurance company again to see if they've received our claim.''
