@@ -217,7 +217,7 @@ From {{etyl|enm}} {{term|hous}}, {{term|hus}}, from {{etyl|ang}} {{term|hus|hūs
 * Istro-Romanian: {{tø|ruo|cåsĕ|f}}
 * Italian: {{t+|it|casa|f}}, {{t+|it|casa|p|alt=case}}
 * Japanese: {{t+|ja|家|tr=[[いえ]], ie, [[うち]], uchi|sc=Jpan}}, {{t+|ja|建物|tr=[[たてもの]], tatemono|sc=Jpan}}, {{t+|ja|家屋|tr=kaoku|sc=Jpan}}, {{qualifier|standalone}} {{t-|ja|一戸建て|tr=[[いっこだて]], ikkodate|sc=Jpan}}, {{qualifier|honorific}} {{t-|ja|お宅|tr=おたく, otaku|sc=Jpan}}, {{qualifier|honorific}} {{t-|ja|住まい|tr=おすまい, osumai|alt=お住まい|sc=Jpan}}
-* Javanese: {{t+|jv|omah}}
+* Javanese: {{t-|jv|omah}}
 * Jèrriais: {{tø|roa-jer|maîson|f}}, {{qualifier|Saint Ouen}} {{tø|roa-jer|maiethon|f}}
 * Kabardian: {{tø|kbd|унэ|tr=una|sc=Cyrl}}
 * Kalenjin: {{tø|kln|kot}}
@@ -286,7 +286,7 @@ From {{etyl|enm}} {{term|hous}}, {{term|hus}}, from {{etyl|ang}} {{term|hus|hūs
 * Pangasinan: {{tø|pag|abong}}
 * Papiamentu: {{tø|pap|kas}}
 * Pashto: {{t-|ps|كور|m|tr=kor|sc=ps-Arab}}, {{t-|ps|كوټه|f|tr=kotta|sc=ps-Arab}}
-* Persian: {{t+|fa|خانه|tr=xâne|alt=خانِه|sc=fa-Arab}}, {{t|fa|خونه|tr=xune|sc=fa-Arab}} {{qualifier|colloquial}}, {{t|fa|خان|tr=xân|sc=fa-Arab}}, {{t|fa|خن|tr=xan|sc=fa-Arab}}, {{t|fa|کد|tr=kad|sc=fa-Arab}}
+* Persian: {{t+|fa|خانه|tr=xâne|alt=خانِه|sc=fa-Arab}}, {{t-|fa|خونه|tr=xune|sc=fa-Arab}} {{qualifier|colloquial}}, {{t+|fa|خان|tr=xân|sc=fa-Arab}}, {{t+|fa|خن|tr=xan|sc=fa-Arab}}, {{t+|fa|کد|tr=kad|sc=fa-Arab}}
 * Phoenician: {{tø|phn|𐤁𐤉𐤕|tr=byt|sc=Phnx}}, {{tø|phn|𐤁𐤕|tr=bt|sc=Phnx}}
 * {{trreq|pjt}}
 * Pohnpeian: {{tø|pon|ihmw}}
@@ -361,7 +361,7 @@ From {{etyl|enm}} {{term|hous}}, {{term|hus}}, from {{etyl|ang}} {{term|hus|hūs
 * Veps: {{tø|vep|pert}}
 * Vietnamese: {{t+|vi|nhà}}
 * Volapük: {{t+|vo|dom}}
-* Walloon: {{t+|wa|måjhon|f}}, {{t|wa|måjhone|f}}
+* Walloon: {{t+|wa|måjhon|f}}, {{t+|wa|måjhone|f}}
 * Waray-Waray: {{tø|war|balay}}
 * Welsh: {{t+|cy|tŷ|m}}, {{t-|cy|annedd|m|f}}
 * West Frisian: {{t+|fy|hûs|n}}
@@ -381,7 +381,7 @@ From {{etyl|enm}} {{term|hous}}, {{term|hus}}, from {{etyl|ang}} {{term|hus|hūs
 * German: {{t+|de|Haus|m}}
 * Gothic: {{tø|got|𐌷𐌿𐍃|n|tr=hus|sc=Goth}}
 * Greek: {{t+|el|σπίτι|n|tr=spíti|sc=Grek}}
-* Italian: {{t|it|casa|f}}
+* Italian: {{t+|it|casa|f}}
 * Luxembourgish: {{t+|lb|Haus|n}}
 * Nahuatl: {{t+|nah|calli}}, {{t+|nah|chan}}
 {{trans-mid}}
@@ -417,7 +417,7 @@ From {{etyl|enm}} {{term|hous}}, {{term|hus}}, from {{etyl|ang}} {{term|hus|hūs
 
 {{trans-top|debating chamber for government politicians}}
 * Afrikaans: {{t+|af|huis}}
-* Dutch: {{t|nl|kamer|m|f}}
+* Dutch: {{t+|nl|kamer|m|f}}
 * Finnish: {{t+|fi|kamari}}
 * French: {{t+|fr|chambre|f}}
 * Macedonian: {{t-|mk|дом|m|tr=dom}}
@@ -427,7 +427,7 @@ From {{etyl|enm}} {{term|hous}}, {{term|hus}}, from {{etyl|ang}} {{term|hus|hūs
 * Romanian: {{t+|ro|cameră}}
 * Russian: {{t+|ru|палата|f|tr=paláta}}
 * Spanish: {{t+|es|Cámara|f}}
-* Swedish: {{t+|sv|hus}}, {{t-|sv|kammare}}
+* Swedish: {{t+|sv|hus}}, {{t+|sv|kammare}}
 {{trans-bottom}}
 
 {{trans-top|an establishment}}
@@ -442,7 +442,7 @@ From {{etyl|enm}} {{term|hous}}, {{term|hus}}, from {{etyl|ang}} {{term|hus|hūs
 {{trans-bottom}}
 
 {{trans-top|the inner workings, as of a clock}}
-* Finnish: {{t-|fi|koneisto}}
+* Finnish: {{t+|fi|koneisto}}
 * Macedonian: {{t-|mk|куќиште|n|tr=kúḱište}}
 {{trans-mid}}
 * Norwegian: {{t+|no|hus|n}}
@@ -455,8 +455,8 @@ From {{etyl|enm}} {{term|hous}}, {{term|hus}}, from {{etyl|ang}} {{term|hus|hūs
 *: Hebrew: {{tø|arc|ביתא|m|tr=baytā’|sc=Hebr}}
 * Czech: {{t+|cs|dům|m}}
 * Dutch: {{t+|nl|huis|n}}
-* Finnish: {{t+|fi|suku}}, {{t-|fi|kuningashuone}}
-* Galician: {{t|gl|casa|f}}
+* Finnish: {{t+|fi|suku}}, {{t+|fi|kuningashuone}}
+* Galician: {{t+|gl|casa|f}}
 * German: {{t+|de|Haus|n}}
 * Greek: {{t+|el|οίκος|m|tr=oíkos|sc=Grek}}
 {{trans-mid}}
@@ -541,7 +541,7 @@ From {{etyl|enm}} {{term|hous}}, {{term|hus}}, from {{etyl|ang}} {{term|hus|hūs
 * Catalan: {{t+|ca|allotjar}}
 * Dutch: {{t+|nl|onderbrengen}}
 * French: {{t+|fr|héberger}}, {{t+|fr|abriter}}, {{t+|fr|loger}}
-* German: {{t-|de|unterbringen}}, {{t+|de|beherbergen}}
+* German: {{t+|de|unterbringen}}, {{t+|de|beherbergen}}
 * Italian: {{t+|it|alloggiare}}
 {{trans-mid}}
 * Macedonian: {{t-|mk|вдомува|tr=vdómuva}}, {{t-|mk|сместува|tr=sméstuva}}
