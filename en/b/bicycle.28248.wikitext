@@ -54,7 +54,7 @@ From {{prefix|bi|gloss1=two}} {{etyl|grc|en}} {{term|κύκλος||circle, wheel
 * Flemish: [[velo]] {{m}}
 * French: {{t+|fr|vélo|m}}, {{t+|fr|bicyclette|f}}
 * Galician: {{t+|gl|bicicleta|f}}
-* Georgian: {{t-|ka|ველოსიპედი|tr=velosipedi|sc=Geor}}, {{t|ka|ველო|tr=velo|sc=Geor}} {{qualifier|colloquial }}
+* Georgian: {{t-|ka|ველოსიპედი|tr=velosipedi|sc=Geor}}, {{t-|ka|ველო|tr=velo|sc=Geor}} {{qualifier|colloquial }}
 * German: {{t+|de|Fahrrad|n}}, {{t+|de|Velo|n}} {{qualifier|Switzerland}}, colloquial: {{t+|de|Drahtesel|m}}
 * Greek: {{t+|el|ποδήλατο|n|tr=podílato}}
 * Gujarati: {{t-|gu|સાઇકલ|tr=sā'ikal|sc=Gujr}}
@@ -81,7 +81,7 @@ From {{prefix|bi|gloss1=two}} {{etyl|grc|en}} {{term|κύκλος||circle, wheel
 * Latvian: {{t-|lv|velosipēds}}, {{t+|lv|divritenis}}
 * Lithuanian: {{t-|lt|dviratis|m}}
 * Macedonian: {{t-|mk|велосипед|m|tr=velosipéd}}, {{qualifier|colloquial}} {{t-|mk|точак|m|tr=tóčak}}
-* Malay: {{t+|ms|basikal}}, {{t|ms|kereta angin}}, {{t|ms|sepeda}}
+* Malay: {{t+|ms|basikal}}, {{t-|ms|kereta angin}}, {{t-|ms|sepeda}}
 * Malayalam: {{t+|ml|സൈക്കിൾ|tr=saikkiḷ|sc=Mlym}}
 * Maltese: {{t+|mt|rota}}
 * Manx: {{t-|gv|daachiarkyl}}, {{t-|gv|daawheeyl}}
@@ -133,8 +133,8 @@ From {{prefix|bi|gloss1=two}} {{etyl|grc|en}} {{term|κύκλος||circle, wheel
 
 =====Translations=====
 {{trans-top|to bicycle}}
-* Dutch: {{t|nl|fietsen}}
-* French: {{t|fr|faire du vélo}}, {{t|fr|faire de la bicyclette}}, {{t|fr|rouler à vélo}}
+* Dutch: {{t+|nl|fietsen}}
+* French: {{t-|fr|faire du vélo}}, {{t-|fr|faire de la bicyclette}}, {{t-|fr|rouler à vélo}}
 {{trans-mid}}
 * German: {{t+|de|Rad fahren}}, {{qualifier|colloquial}} {{t+|de|radeln}}
 * Volapük: {{t+|vo|saikulön}}
