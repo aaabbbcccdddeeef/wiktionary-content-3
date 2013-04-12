@@ -240,7 +240,7 @@ From {{etyl|enm}} {{term|old|lang=enm}}, {{term|ald|lang=enm}}, from {{etyl|ang}
 * Old Saxon: {{tø|osx|ald}}
 * {{trreq|or}}
 * {{trreq|ps}}
-* Persian: {{t+|fa|کهن|tr=kohan}}, {{t+|fa|دیرین|tr=dirin}}, {{t+|fa|قدیمی|tr=qadimi|sc=fa-Arab}}
+* Persian: {{t+|fa|قدیمی|tr=qadimi|sc=fa-Arab}}, {{t+|fa|دیرین|tr=dirin}} {{qualifier|archaic}}, {{t+|fa|کهن|tr=kohan}}
 * Polish: {{t+|pl|stary}}
 * Portuguese: {{t+|pt|velho}}, {{t+|pt|antigo}}
 * {{trreq|pa}}
@@ -339,7 +339,7 @@ From {{etyl|enm}} {{term|old|lang=enm}}, {{term|ald|lang=enm}}, from {{etyl|ang}
 * Norwegian: {{t+|no|gammel}}
 * Old Church Slavonic: {{tø|cu|старъ|tr=starŭ|sc=Cyrs}}
 * Old English: {{t+|ang|eald}}, {{t-|ang|gamol}}
-* Persian: {{t+|fa|پیر|tr=pir}}, {{t|fa|کهنسال|tr=kohansâl|sc=fa-Arab}}
+* Persian: {{t+|fa|پیر|tr=pir}}, {{t|fa|کهنسال|tr=kohansâl|sc=fa-Arab}}, {{t|fa|مسن|tr=mosen|sc=fa-Arab}}
 * Polish: {{t+|pl|stary}}
 * Portuguese: {{t+|pt|velho}}
 * Rapa Nui: {{tø|rap|koroua}}, {{tø|rap|tuuai}}
@@ -395,7 +395,7 @@ From {{etyl|enm}} {{term|old|lang=enm}}, {{term|ald|lang=enm}}, from {{etyl|ang}
 * Malay: {{t-|ms|lama}}, {{t-|ms|bekas}}
 * Norwegian: {{t+|no|gammel}}
 {{trans-mid}}
-* Persian: {{t+|fa|پیشین|tr=pišin}}
+* Persian: {{t+|fa|قدیمی|tr=qadimi}}, {{t+|fa|قبلی|tr=qabli}}, {{t+|fa|پیشین|tr=pišin}}, {{t+|fa|سابق|tr=sâbeq}}
 * Polish: {{t+|pl|stary}}
 * Portuguese: {{t+|pt|antigo}}
 * Romanian: {{t+|ro|antic}}, {{t-|ro|vechi}}, {{t-|ro|fost}}
@@ -448,7 +448,7 @@ From {{etyl|enm}} {{term|old|lang=enm}}, {{term|ald|lang=enm}}, from {{etyl|ang}
 *: ''man 20 gadu'' — I am 20 years old (lit. to me 20 years)
 * Macedonian: {{t-|mk|има|tr=íma|sc=Cyrl}} + number + {{t-|mk|години|tr=gódini|sc=Cyrl}}
 * Norwegian: {{t+|no|gammel}}
-* Persian: {{t+|fa|کهنه|tr=kohne}}, {{t|fa|انقضاگذشته|tr=enqezâ-gozašte|sc=fa-Arab}}
+* Persian: {{t|fa|تاریخ‌مصرف‌گذشته|tr=târix-masraf-gozašte|sc=fa-Arab}}, {{t|fa|انقضاگذشته|tr=enqezâ-gozašte|sc=fa-Arab}}
 * Polish: {{t+|pl|mieć}} + number + [[rok#Polish|lata/lat]]
 * Russian: {{t-|ru|''|tr=[[dative case]]|sc=Cyrl}} '' ''[[он#Russian|ему]] {{l|ru|пять}} [[лето#Russian|лет]]''
 * Serbo-Croatian:
@@ -467,6 +467,11 @@ From {{etyl|enm}} {{term|old|lang=enm}}, {{term|ald|lang=enm}}, from {{etyl|ang}
 * West Frisian: {{t+|fy|âld}}
 {{trans-bottom}}
 
+{{trans-top|(of an item) used, not new}}
+* Persian: {{t+|fa|کهنه|tr=kohne}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|tiresome}}
 * French: {{t+|fr|ça commence à bien faire}}
 * German: {{t+|de|alt}}
@@ -481,7 +486,6 @@ From {{etyl|enm}} {{term|old|lang=enm}}, {{term|ald|lang=enm}}, from {{etyl|ang}
 *: Traditional: [[過時]]的 (guòshí de)
 * {{ttbc|ia}}: {{t-|ia|ancian}}
 * {{ttbc|mnc}}: (fe)
-* {{ttbc|fa}}: {{t+|fa|پیر|tr=pir|sc=fa-Arab}} (1), {{t+|fa|قدیمی|tr=ghadimi|sc=fa-Arab}}
 {{trans-bottom}}
 
 ===Noun===
