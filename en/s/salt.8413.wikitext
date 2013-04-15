@@ -67,8 +67,8 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|sal
 * Arabic: {{t-|ar|ملح|m|tr=milḥ}}
 *: Egyptian Arabic: {{tø|arz|ملح|m|tr=malḥ|sc=Arab}}
 * Aramaic:
-*: Hebrew: [[מלחא]] (milħā’) {{f}}
-*: Syriac: [[ܡܠܚܐ]] (milħā’) {{f}}
+*: Hebrew: {{t|arc|מלחא|f|tr=milħā’|sc=Hebr}}
+*: Syriac: {{t|arc|ܡܠܚܐ|f|tr=milħā’|sc=Syrc}}
 * Armenian: {{t+|hy|աղ|tr=aġ|sc=Armn}}
 * Aromanian: {{t-|rup|sare}}
 * Aymara: {{t-|ay|jayu}}
@@ -101,7 +101,7 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|sal
 * Esperanto: {{t-|eo|salo}}
 * Estonian: {{t+|et|sool}}
 * Evenki: {{tø|evn|турукэ|tr=turuke}}
-* Ewe: [[dze]] {{n}}
+* Ewe: {{t|ee|dze|n}}
 * Faroese: {{t-|fo|salt|n}}
 * Finnish: {{t+|fi|suola}}
 * Franco-Provençal: {{tø|frp|sal|f}}
@@ -112,7 +112,7 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|sal
 * Georgian: {{t-|ka|მარილი|tr=marili|sc=Geor}}
 * German: {{t+|de|Salz|n}}, {{t+|de|Kochsalz|n}}
 * Greek: {{t+|el|αλάτι|n|tr=aláti|sc=Grek}}
-*: Ancient: [[ἅλς]] (hals) {{n}}
+*: Ancient: {{t|grc|ἅλς|n|tr=hals|sc=polytonic}}
 * Guernésiais: {{tø|roa-grn|saïl|m}}
 * Gujarati: {{t+|gu|મીઠું|tr=mīṭhũ|sc=Gujr}}
 * Hawaiian: {{tø|haw|paʻakai}}
@@ -164,7 +164,7 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|sal
 * Nogai: {{tø|nog|туз|tr=tuz|sc=Cyrl}}
 * Northern Sami: {{tø|se|sálti}}
 * Norwegian: {{t+|no|salt|n}}, {{t-|no|bordsalt|n}}
-* Old Frisian: [[salt#Old Frisian|salt]]
+* Old Frisian: {{t|ofs|salt}}
 * Ottoman Turkish: {{tø|ota|نمک|tr=nemek|sc=ota-Arab}}
 * Pali: {{t-|pi|loṇa|n}}
 * Pashto: {{t+|ps|مالګه|f|tr=mālga|sc=ps-Arab}}
@@ -211,7 +211,7 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|sal
 * Vietnamese: {{t+|vi|muối}}
 * Volapük: {{t|vo|sal}}
 * Walloon: {{t+|wa|sé|m}}
-* West Frisian: [[sâlt]]
+* West Frisian: {{t|fy|sâlt}}
 * Yakut: {{tø|sah|туус|tr=tuus|sc=Cyrl}}
 * Yiddish: {{t-|yi|זאַלץ|f|tr=zaltz}}
 * Zazaki: {{tø|zza|sol m}}
@@ -230,7 +230,7 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|sal
 * German: {{t+|de|Salz|n}}
 * Greek: {{t+|el|άλας|n|tr=álas|sc=Grek}}
 * Hungarian: {{t+|hu|só}}
-* Japanese: [[塩]] ([[えん]], [[en]])
+* Japanese: {{t|ja|塩|tr=[[えん]], [[en]]|sc=Jpan}}
 * Latvian: {{t+|lv|sāls|m}}
 * Lojban: {{t-|jbo|silna}}
 * Macedonian: {{t-|mk|сол|f|tr=sol}}
@@ -247,9 +247,9 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|sal
 * Spanish: {{t+|es|sal|f}}
 * Swahili: {{t+|sw|chumvi}}
 * Swedish: {{t+|sv|salt|n}}
-* Telugu: [[లవణం]] (lavanam)
+* Telugu: {{t|te|లవణం|tr=lavanam|sc=Telu}}
 * Turkish: {{t+|tr|tuz}}
-* West Frisian: [[sâlt]]
+* West Frisian: {{t|fy|sâlt}}
 {{trans-bottom}}
 
 {{trans-see|salt marsh}}
@@ -281,42 +281,42 @@ From {{etyl|ang}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|sal
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sq}}: [[kripë]]
-* {{ttbc|af}}: [[sout]]
-* {{ttbc|ar}}: {{Arab|[[ملح|مِلْح]]}} (milh) {{m|f}}
-* {{ttbc|az}}: [[duz]]
-* {{ttbc|eu}}: [[gatz]]
-* {{ttbc|sh}}: [[sol#Serbo-Croatian|sol]] {{f}}, [[so#Serbo-Croatian|so]] {{f}}
-* {{ttbc|br}}: [[holen]] {{m}}, holenoù {{p}}
+* {{ttbc|sq}}: {{t|sq|kripë}}
+* {{ttbc|af}}: {{t|af|sout}}
+* {{ttbc|ar}}: {{t|ar|ملح|alt=مِلْح|m|f|tr=milh|sc=Arab}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|az}}: {{t|az|duz}}
+* {{ttbc|eu}}: {{t|eu|gatz}}
+* {{ttbc|sh}}: {{t|sh|sol|f}}, {{t|sh|so|f}}
+* {{ttbc|br}}: {{t|br|holen|m}}, {{t|br|holenoù|p}}
 * {{ttbc|bg}}: {{t+|bg|сол|tr=sol}}
-* {{ttbc|chr}}: [[ᎠᎹ]] (āma)
-* {{ttbc|cmn}}: [[盐]] (yán)
-* {{ttbc|eo}}: [[salo]]
-* {{ttbc|gl}}: [[sal]]
-* {{ttbc|gn}}: [[juky]]
-* {{ttbc|gu}}: [[નમક]] (namak), [[લૂણો]] (lu.no)
-* {{ttbc|ilo}}: [[asin]]
-* {{ttbc|id}}: [[garam]]
-* {{ttbc|ia}}: [[sal]]
-* {{ttbc|it}}: [[sale#Italian|sale]] {{m}} (1,2)
+* {{ttbc|chr}}: {{t|chr|ᎠᎹ|tr=āma|sc=Cher}}
+* {{ttbc|cmn}}: {{t|cmn|盐|tr=yán|sc=Hani}}
+* {{ttbc|eo}}: {{t|eo|salo}}
+* {{ttbc|gl}}: {{t|gl|sal}}
+* {{ttbc|gn}}: {{t|gn|juky}}
+* {{ttbc|gu}}: {{t|gu|નમક|tr=namak|sc=Gujr}}, {{t|gu|લૂણો|tr=lu.no|sc=Gujr}}
+* {{ttbc|ilo}}: {{t|ilo|asin}}
+* {{ttbc|id}}: {{t|id|garam}}
+* {{ttbc|ia}}: {{t|ia|sal}}
+* {{ttbc|it}}: {{qualifier|1,2}} {{t|it|sale|m}}
 {{trans-mid}}
-* {{ttbc|la}}: [[sal]] {{m}}
-* {{ttbc|ml}}: [[ഉപ്പ്]] (uppu) (1,2), [[ലവണം]] (lavaNam) (1)
-* {{ttbc|mt}}: [[melħ]]
-* {{ttbc|mr}}: [[लवण]] (lava.n)
-* {{ttbc|mn}}: [[давс]]
-* {{ttbc|ang}}: [[sealt]] {{n}}
-* {{ttbc|pt}}: [[sal]] {{m}}
-* {{ttbc|rhg}}: [[nun]]
-* {{ttbc|rom}}: [[lon]]
+* {{ttbc|la}}: {{t|la|sal|m}}
+* {{ttbc|ml}}: {{t|ml|ഉപ്പ്|tr=uppu|sc=Mlym}} (1,2), {{t|ml|ലവണം|tr=lavaNam|sc=Mlym}} (1)
+* {{ttbc|mt}}: {{t|mt|melħ}}
+* {{ttbc|mr}}: {{t|mr|लवण|tr=lava.n|sc=Deva}}
+* {{ttbc|mn}}: {{t|mn|давс|sc=Cyrl}}
+* {{ttbc|ang}}: {{t|ang|sealt|n|sc=Latinx}}
+* {{ttbc|pt}}: {{t|pt|sal|m}}
+* {{ttbc|rhg}}: {{t|rhg|nun}}
+* {{ttbc|rom}}: {{t|rom|lon}}
 * {{ttbc|sh}}:
 *: Cyrillic: {{t-|sh|со|f|sc=Cyrl}}
-*: Roman: [[so#Serbo-Croatian|so]] {{f}}
-* {{ttbc|tl}}: [[asin]]
-* {{ttbc|tet}}: [[masin]]
-* {{ttbc|th}}: {{Thai|[[เกลือ]]}} (gleua), {{Thai|[[เค็ม]]}} (kem)
-* {{ttbc|tpn}}: [[îukyra]]
-* {{ttbc|vo}}: [[sal]]
+*: Roman: {{t|sh|so|f}}
+* {{ttbc|tl}}: {{t|tl|asin}}
+* {{ttbc|tet}}: {{t|tet|masin}}
+* {{ttbc|th}}: {{t|th|เกลือ|tr=gleua|sc=Thai}}, {{t|th|เค็ม|tr=kem|sc=Thai}}
+* {{ttbc|tpn}}: {{t|tpn|îukyra}}
+* {{ttbc|vo}}: {{t|vo|sal}}
 {{trans-bottom}}
 
 ===Adjective===
