@@ -60,7 +60,7 @@ From {{etyl|enm}} {{term|brest|lang=enm}}, from {{etyl|ang|en}} {{term|breost|br
 * Armenian: {{t-|hy|կուրծք|tr=kurck'}}
 * Aromanian: {{t-|rup|sin}}
 * Basque: {{t-|eu|bular}}, {{t-|eu|titi}}, {{t-|eu|ugatz}}, {{t+|eu|papar}}, {{t-|eu|papo}}
-* Belarusian: {{t-|be|грудзі|f|p|tr=hrúdzi|sc=Cyrl}}
+* Belarusian: {{t-|be|грудзі|f-p|tr=hrúdzi}}
 * Breton: {{t+|br|bronn|f}}
 * Bulgarian: {{t+|bg|гърда|f|tr=gǎrda}}, {{t-|bg|бюст|m|tr=bjust}}
 * Catalan: {{t+|ca|pit|m}}
@@ -124,14 +124,14 @@ From {{etyl|enm}} {{term|brest|lang=enm}}, from {{etyl|ang|en}} {{term|breost|br
 * Polish: {{t+|pl|pierś|f}}, {{t+|pl|biust|m}}
 * Portuguese: {{t+|pt|seio|m}}, {{t+|pt|peito|m}}
 * Romanian: {{t-|ro|piept|m|f}}, {{t+|ro|sân}}
-* Russian: {{t+|ru|грудь|f|tr=grudʹ|sc=Cyrl}}, {{t+|ru|груди|f|p|tr=grúdi|sc=Cyrl}}, {{qualifier|mildly vulgar}} {{t+|ru|сиська|f|p|tr=sísʹki|alt=сиськи|sc=Cyrl}}
+* Russian: {{t+|ru|грудь|f|tr=grudʹ|sc=Cyrl}}, {{t+|ru|груди|f-p|tr=grúdi}}, {{qualifier|mildly vulgar}} {{t+|ru|сиська|f|p|tr=sísʹki|alt=сиськи|sc=Cyrl}}
 * Sardinian: {{t-|sc|sinu}}
 * Scottish Gaelic: {{t-|gd|cìoch|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|груди|f|p}}, {{t-|sh|сиса|f}}
-*: Roman: {{t-|sh|grudi|f|p}}, {{t-|sh|sisa|f}}
+*: Cyrillic: {{t-|sh|груди|f-p}}, {{t-|sh|сиса|f}}
+*: Roman: {{t-|sh|grudi|f-p}}, {{t-|sh|sisa|f}}
 * Sicilian: {{t+|scn|nennè|f}}
-* Slovak: {{t-|sk|prsia|n|p}}
+* Slovak: {{t-|sk|prsia|n-p}}
 * Slovene: {{t+|sl|prsi|p}}, {{t-|sl|dojka|f}}
 * Spanish: {{t+|es|pecho|m}}, {{t+|es|seno|m}}, {{t+|es|teta|f}}
 * Swedish: {{t+|sv|bröst|n}}
@@ -140,7 +140,7 @@ From {{etyl|enm}} {{term|brest|lang=enm}}, from {{etyl|ang|en}} {{term|breost|br
 * Thai: {{t-|th|เต้านม|tr=dtâo nom|sc=Thai}}
 * Torres Strait Creole: {{tø|tcs|susu}}
 * Turkish: {{t+|tr|meme}}
-* Ukrainian: {{t-|uk|грудь|f|tr=hrudʹ|sc=Cyrl}}, {{t-|uk|груди|f|p|tr=hrúdy|sc=Cyrl}}
+* Ukrainian: {{t-|uk|грудь|f|tr=hrudʹ|sc=Cyrl}}, {{t-|uk|груди|f-p|tr=hrúdy}}
 * Urdu: {{t-|ur|پستان|m|tr=pistān|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|vú}}
 * Volapük: {{t+|vo|blöt}}
@@ -180,11 +180,11 @@ From {{etyl|enm}} {{term|brest|lang=enm}}, from {{etyl|ang|en}} {{term|breost|br
 *: Sorani: {{t-|ku|سنگ|tr=sing|sc=ku-Arab}}
 * Lao: {{t-|lo|ຊວງ|tr=suang|sc=Laoo}}
 * Latin: {{t-|la|pectus|n}}
-* Macedonian: {{t-|mk|гради|f|p|tr=grádi}}
+* Macedonian: {{t-|mk|гради|f-p|tr=grádi}}
 * Maltese: {{t-|mt|sider|m}}
 * Neapolitan: {{tø|nap|pietto|m}}
 * Norwegian: {{t-|no|bryst|n}}
-* Portuguese: {{t+|pt|peito|m}}, {{t+|pt|peitos|m|p}}
+* Portuguese: {{t+|pt|peito|m}}, {{t+|pt|peitos|m-p}}
 * Russian: {{t+|ru|грудь|f|tr=grudʹ|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|broilleach|m}}, {{t-|gd|uchd|m}}
 * Spanish: {{t+|es|pecho|m}}
@@ -220,7 +220,7 @@ From {{etyl|enm}} {{term|brest|lang=enm}}, from {{etyl|ang|en}} {{term|breost|br
 * Icelandic: {{t+|is|brjóst|f}}
 * Kurdish:
 *: Sorani: {{t-|ku|دڵ|tr=dil|sc=ku-Arab}}
-* Macedonian: {{t-|mk|гради|f|p|tr=grádi}}
+* Macedonian: {{t-|mk|гради|f-p|tr=grádi}}
 * Norwegian: {{t-|no|bryst|n}}
 * Russian: {{t+|ru|сердце|n|tr=sérdce}} {{qualifier|letter "{{l/ru|д}}" ("d") is silent}}
 * Spanish: {{t+|es|corazón|m}}
@@ -239,7 +239,7 @@ From {{etyl|enm}} {{term|brest|lang=enm}}, from {{etyl|ang|en}} {{term|breost|br
 {{trans-mid}}
 * Icelandic: {{t+|is|bringa|f}}
 * Irish: {{t-|ga|ucht|m}}
-* Macedonian: {{t-|mk|гради|f|p|tr=grádi}}
+* Macedonian: {{t-|mk|гради|f-p|tr=grádi}}
 * Norwegian: {{t-|no|bryst|n}}
 * Portuguese: {{t+|pt|peito|m}}
 * Russian: {{t+|ru|грудь|f|tr=grudʹ|sc=Cyrl}}
@@ -263,7 +263,7 @@ From {{etyl|enm}} {{term|brest|lang=enm}}, from {{etyl|ang|en}} {{term|breost|br
 * Irish: {{t-|ga|brollach|m}}
 * Kurdish:
 *: Sorani: {{t-|ku|سنگ|tr=sing|sc=ku-Arab}}
-* Macedonian: {{t-|mk|гради|f|p|tr=grádi}}
+* Macedonian: {{t-|mk|гради|f-p|tr=grádi}}
 * Norwegian: {{t+|no|bringe|c}}
 * Russian: {{t+|ru|грудка|f|tr=grúdka}}
 * Spanish: {{t+|es|pechuga|f}}
