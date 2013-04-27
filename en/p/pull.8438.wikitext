@@ -216,7 +216,7 @@ From {{etyl|enm}} {{term|pullen|lang=enm}}, from {{etyl|ang}} {{term|pullian||to
 #: ''She took a '''pull''' on her cigarette.''
 # Any device meant to be pulled, as a [[lever]], [[knob]], [[handle]], or [[rope]]
 #: ''a zipper '''pull'''''
-# {{slang}} [[influence]], especially as a means of gaining [[advantage]]
+# {{slang}} [[influence]], especially as a means of gaining [[advantage]] {{rfex}}
 # [[appeal|Appeal]] or [[attraction]] or (as of a movie star)
 # {{Internet}} {{uncountable}} The situation where a [[client]] sends out a request for data from a [[server]], as in ''server pull'', ''pull technology''
 # A journey made by [[row]]ing
@@ -245,6 +245,7 @@ From {{etyl|enm}} {{term|pullen|lang=enm}}, from {{etyl|ang}} {{term|pullian||to
 ====Translations====
 {{trans-top|act of pulling}}
 * Czech: {{t+|cs|tah|m}}
+* Finnish: {{t|fi|veto}}
 * Kurdish:
 *: Sorani: {{ku-Arab|[[ڕاکێشان]]}}
 {{trans-mid}}
@@ -253,21 +254,35 @@ From {{etyl|enm}} {{term|pullen|lang=enm}}, from {{etyl|ang}} {{term|pullian||to
 {{trans-bottom}}
 
 {{trans-top|attractive force}}
-* Swedish: {{t+|sv|attraktion|c}}, {{t-|sv|dragkraft|c}}
+* Finnish: {{t|fi|veto}}, {{t|fi|vetovoima}}, {{t|fi|imu}}
 {{trans-mid}}
+* Swedish: {{t+|sv|attraktion|c}}, {{t-|sv|dragkraft|c}}
 {{trans-bottom}}
 
 {{trans-top|device meant to be pulled}}
+* Finnish: {{t|fi|vedin}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|influence}}
-* French: {{t+|fr|influence|f}}
+{{trans-top|influence as means of gaining advantage}}
+* Finnish: {{t|fi|vaikutusvalta}}
 {{trans-mid}}
+* French: {{t+|fr|influence|f}}
 {{trans-bottom}}
 
 {{trans-top|appeal}}
+* Finnish: {{t|fi|vetovoima}}, {{t|fi|viehätys}}
+{{trans-mid}}
 * Swedish: {{t-|sv|dragkraft|c}}
+{{trans-bottom}}
+
+{{trans-top|internet: situation where a client sends out a request for data}}
+* Finnish: {{t|fi|pull}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|journey made by rowing}}
+* Finnish: {{t|fi|soutu}}, {{t|fi|soutumatka}}
 {{trans-mid}}
 {{trans-bottom}}
 
