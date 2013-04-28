@@ -79,7 +79,7 @@ Displaced native Middle English {{term|schenchen|lang=enm}}, {{term|schenken||to
 * Pashto: {{t+|ps|تويول|tr=toyawəl|sc=ps-Arab}}, {{t+|ps|اچول|tr=ačawəl|sc=ps-Arab}}
 * Polish: {{t+|pl|lać}} {{impf}}
 * Romanian: {{t-|ro|turna}}
-* Russian: {{t+|ru|лить|tr=lit’}} {{impf}}, {{t+|ru|наливать|tr=nalivát’|sc=Cyrl}} {{impf}}, {{t+|ru|налить|tr=nalít’|sc=Cyrl}} {{pf.}} {{qualifier|liquid}}; {{t+|ru|сыпать|tr=sýpat’|sc=Cyrl}} {{impf}}, {{t+|ru|насыпать|tr=nasypát’|sc=Cyrl}} {{impf}}, {{t+|ru|насыпать|tr=nasýpat’|sc=Cyrl}} {{pf.}} {{qualifier|fine-grained substance}}
+* Russian: {{t+|ru|лить|tr=lit’}} {{impf}}, {{t+|ru|наливать|tr=nalivát’|sc=Cyrl}} {{impf}}, {{t+|ru|налить|tr=nalít’|sc=Cyrl}} {{pf.}} {{qualifier|liquid}}, {{t+|ru|сыпать|tr=sýpat’|sc=Cyrl}} {{impf}}, {{t+|ru|насыпать|tr=nasypát’|sc=Cyrl}} {{impf}}, {{t+|ru|насыпать|tr=nasýpat’|sc=Cyrl}} {{pf.}} {{qualifier|fine-grained substance}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|лити|sc=Cyrl}} {{qualifier|liquid}}, {{t-|sh|сипати|sc=Cyrl}} {{qualifier|fine-grained substance}}
 *: Roman: {{t-|sh|liti}} {{qualifier|liquid}}, {{t-|sh|sipati}} {{qualifier|fine-grained substance}}
@@ -98,7 +98,7 @@ Displaced native Middle English {{term|schenchen|lang=enm}}, {{term|schenken||to
 * Armenian: {{t-|hy|թափել|tr=t’ap’el}}
 * Dutch: {{t-|nl|uitstorten}}, {{t+|nl|uitbraken}}
 * Finnish: {{t-|fi|vuodattaa}}
-* Japanese: {{t+|ja|注ぐ|tr=そそぐ, sosogu}}; {{qualifier|words in one's negative mind}} {{t-|ja|吐露する|tr=toro suru}}
+* Japanese: {{t+|ja|注ぐ|tr=そそぐ, sosogu}}, {{qualifier|words in one's negative mind}} {{t-|ja|吐露する|tr=toro suru}}
 {{trans-mid}}
 * Russian: {{t+|ru|изливать|tr=izlivát’|sc=Cyrl}} {{impf}}, {{t+|ru|излить|tr=izlít’|sc=Cyrl}} {{pf.}} {{qualifier|e.g. soul}}
 * Swahili: {{t+|sw|mwaga}}
@@ -121,7 +121,7 @@ Displaced native Middle English {{term|schenchen|lang=enm}}, {{term|schenken||to
 * Hungarian: {{t+|hu|ömlik}}, {{t-|hu|zuhog}}
 * Italian: {{t+|it|diluviare}}
 {{trans-mid}}
-* Japanese: {{qualifier|flow out}} {{t-|ja|流れ出る|tr=nagare-deru}}; {{qualifier|issue in}} {{t-|ja|殺到する|tr=sattō suru}}
+* Japanese: {{qualifier|flow out}} {{t-|ja|流れ出る|tr=nagare-deru}}, {{qualifier|issue in}} {{t-|ja|殺到する|tr=sattō suru}}
 * Low German: {{t+|nds|geten}}, {{t-|nds|geiten}}
 * Quechua: {{t-|qu|ch'uychuy}}
 * Russian: {{t+|ru|литься|tr=lít’sja}} {{impf}}
@@ -130,12 +130,12 @@ Displaced native Middle English {{term|schenchen|lang=enm}}, {{term|schenken||to
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ko}}: [[긷다]] (gitda), [[붓다]] (butda), [[푸다]] (puda)
+* {{ttbc|ko}}: {{t|ko|긷다|tr=gitda|sc=Kore}}, {{t|ko|붓다|tr=butda|sc=Kore}}, {{t|ko|푸다|tr=puda|sc=Kore}}
 * {{ttbc|pt}}: {{t+|pt|despejar}}
-* {{ttbc|ro}}: [[turna]], [[vărsa]]
+* {{ttbc|ro}}: {{t|ro|turna}}, {{t|ro|vărsa}}
 * {{ttbc|sh}}: {{t-|sh|liti}}, {{t-|sh|sipati}}
-* {{ttbc|es}}: [[verter]], [[escanciar]]
-* {{ttbc|sv}}: [[hälla]]
+* {{ttbc|es}}: {{t|es|verter}}, {{t|es|escanciar}}
+* {{ttbc|sv}}: {{t|sv|hälla}}
 {{trans-bottom}}
 
 ===Noun===
@@ -150,14 +150,14 @@ Displaced native Middle English {{term|schenchen|lang=enm}}, {{term|schenken||to
 
 ====Translations====
 {{trans-top|a stream, or something like a stream; a flood}}
-* Dutch: [[geut]], [[straal]], [[stroom]]
+* Dutch: {{t|nl|geut}}, {{t|nl|straal}}, {{t|nl|stroom}}
 {{trans-mid}}
 * Swahili: {{t+|sw|mwaga}}
 {{trans-bottom}}
 
 {{trans-top|a flood of precipitation}}
-* Dutch: [[stortvloed]], [[stortbui]] {{f}}
-* Japanese: {{t+|ja|注入|tr=chūnyū}}; {{t-|ja|流出|tr=ryūshutsu}}
+* Dutch: {{t|nl|stortvloed}}, {{t|nl|stortbui|f}}
+* Japanese: {{t+|ja|注入|tr=chūnyū}}, {{t-|ja|流出|tr=ryūshutsu}}
 {{trans-mid}}
 * Swahili: {{t+|sw|mwaga}}
 {{trans-bottom}}
