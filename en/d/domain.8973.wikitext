@@ -66,7 +66,7 @@ From {{etyl|enm}} {{term|demeine|lang=enm}}, {{term|demain||rule|lang=enm}}, {{e
 ====Translations====
 {{trans-top|geographic area}}
 * Bulgarian: {{t+|bg|област|f}}
-* Dutch: [[domein]] {{n}}
+* Dutch: {{t|nl|domein|n}}
 * Finnish: {{t+|fi|alue}}
 * French: {{t+|fr|domaine|f}}
 * German: {{t+|de|Domäne|f}}, {{t+|de|Gebiet|n}}, {{t+|de|Bezirk|m}}
@@ -78,7 +78,7 @@ From {{etyl|enm}} {{term|demeine|lang=enm}}, {{term|demain||rule|lang=enm}}, {{e
 * Portuguese: {{t+|pt|domínio|m}}
 * Romanian: {{t-|ro|domeniu}}
 * Spanish: {{t+|es|dominio|m}}
-* Vietnamese: [[đất đai]], [[tài sản]], [[dinh cơ]]
+* Vietnamese: {{t|vi|đất đai}}, {{t|vi|tài sản}}, {{t|vi|dinh cơ}}
 {{trans-bottom}}
 
 {{trans-top|sphere of influence}}
@@ -88,13 +88,13 @@ From {{etyl|enm}} {{term|demeine|lang=enm}}, {{term|demain||rule|lang=enm}}, {{e
 * German: {{t+|de|Domäne|f}}, {{t+|de|Gebiet|n}}, {{t+|de|Bereich|m}}
 * Greek: {{t-|el|σφαίρα επιρροής|f|tr=sféra epiro'ís}}
 * Hebrew: {{t+|he|תחום|m}}
-* Italian: [[sfera]] [[di]] [[influenza]] {{f}}
+* {{ttbc|it}}: {{t|it|sfera di influenza|f}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-mid}}
 * Maori: {{t|mi|kainga}}
 * Polish: {{t+|pl|dziedzina|f}}
 * Portuguese: {{t+|pt|domínio|m}}
 * Romanian: {{t-|ro|domeniu}}
-* Scottish Gaelic: [[tighearnas]] {{m}}, [[tighearnachd]] {{f}}
+* Scottish Gaelic: {{t|gd|tighearnas|m}}, {{t|gd|tighearnachd|f}}
 * Spanish: {{t+|es|esfera|f}}
 * Swedish: {{t+|sv|domän|c}}
 * Vietnamese: {{t+|vi|lãnh địa}}, {{t+|vi|lãnh thổ}}
@@ -126,9 +126,9 @@ From {{etyl|enm}} {{term|demeine|lang=enm}}, {{term|demain||rule|lang=enm}}, {{e
 * Polish: {{t+|pl|dziedzina|f}}
 * Portuguese: {{t+|pt|domínio|m}}
 * Romanian: {{t-|ro|domeniu}}
-* Russian: [[область]] [[определение|определения]]
+* {{ttbc|ru}}: {{t|ru|область определения|f|sc=Cyrl|tr=oblastʹ opredelenija}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Swedish: {{t+|sv|definitionsmängd|c}}
-* Vietnamese: [[tập]] [[xác định]]
+* {{ttbc|vi}}: {{t|vi|tập xác định}} <!-- link as {{t-SOP}} if non-idiomatic - was: [[tập]] [[xác định]] -->
 {{trans-bottom}}
 
 {{trans-top|(mathematics) ring with no zero divisors}}
@@ -183,7 +183,7 @@ From {{etyl|enm}} {{term|demeine|lang=enm}}, {{term|demain||rule|lang=enm}}, {{e
 * Portuguese: {{t+|pt|domínio|m}}
 {{trans-mid}}
 * Scottish Gaelic: {{t-|gd|àrainn-lìn|f}}
-* Vietnamese: [[không gian tên]], [[tên]] [[miền]] [[không gian]]
+* {{ttbc|vi}}: {{t|vi|không gian tên}}, {{t|vi|tên miền không gian}} <!-- link as t-SOP if non-idiomatic - was: "[[tên]] [[miền]] [[không gian]]" -->
 {{trans-bottom}}
 
 {{trans-top|highest-level grouping of organisms}}
@@ -192,12 +192,12 @@ From {{etyl|enm}} {{term|demeine|lang=enm}}, {{term|demain||rule|lang=enm}}, {{e
 {{trans-mid}}
 * Khmer: {{t-|km|វិស័យ|tr=vi sai|sc=Khmr}}
 * Russian: {{t+|ru|домен|sc=Cyrl}}
-* Vietnamese: [[lãnh giới]], [[vực]]
+* Vietnamese: {{t|vi|lãnh giới}}, {{t|vi|vực}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
-* {{ttbc|ro}}: [[domeniu]], [[sfera]]
+* {{ttbc|ro}}: {{t|ro|domeniu}}, {{t|ro|sfera}}
 {{trans-bottom}}
 
 ====External links====
