@@ -32,7 +32,7 @@ From {{etyl|la}} {{term|eclipsis|eclīpsis|lang=la}}, from {{etyl|grc}} {{term|�
 * Arabic: {{t-|ar|كسوف|m|tr=kusuuf}}, {{t-|ar|خسوف|m|tr=khusuuf}}
 * Armenian: {{t-|hy|խավարում|tr=xavarum}}
 * Asturian: {{t-|ast|eclipse|m}}
-* Breton: {{t-|br|fallaenn|f}}, -où {{p}}, {{t-|br|gwaskadenn|f}}, -où {{p}}
+* {{ttbc|br}}: {{t-|br|fallaenn|f}}, {{t|br|-où|p}}, {{t-|br|gwaskadenn|f}}, {{t|br|-où|p}} <!-- WTF are those suffixes doing here? -->
 * Bulgarian: {{t+|bg|затъмнение|n|tr=zatămnenie}}
 * Catalan: {{t-|ca|eclipsi|m}}
 * Chinese:
@@ -54,10 +54,10 @@ From {{etyl|la}} {{term|eclipsis|eclīpsis|lang=la}}, from {{etyl|grc}} {{term|�
 * Japanese: {{t+|ja|食|tr=shoku}}, {{t+|ja|蝕|tr=shoku}}, {{qualifier|solar}} {{t+|ja|日食|tr=にっしょく, nisshoku}}, {{qualifier|lunar}} {{t-|ja|月食|tr=げっしょく, gesshoku}}
 * Jèrriais: {{tø|roa-jer|êclyipse|f}}
 {{trans-mid}}
-* Kabuverdianu:
+* {{ttbc|kea}} <!-- xte completely fails to recognise what is going on here; please markup appropriately -->
 *: [[Badiu]]: [[eklipsi]]
 *: [[ALUPEC]]/[[ALUPEK]]: [[eklipsi]]
-* Korean: [[식현상]] (sikhyeonsang)
+* Korean: {{t|ko|식현상|tr=sikhyeonsang|sc=Kore}}
 * Latin: {{t-|la|eclipsis|m}}
 * Malay: {{t-|ms|gerhana}}
 * Maltese: {{t-|mt|eklissi|m}}
