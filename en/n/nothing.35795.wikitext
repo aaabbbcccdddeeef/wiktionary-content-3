@@ -40,12 +40,12 @@
 
 ====Translations====
 {{trans-top|not any thing}}
-* Afrikaans: [[niks]]
-* Albanian: [[asgjë]], [[kurrgjë]]
+* Afrikaans: {{t|af|niks}}
+* Albanian: {{t|sq|asgjë}}, {{t|sq|kurrgjë}}
 * Ancient Greek: {{tø|grc|οὐδέν|n|sc=polytonic}}
 * Arabic: {{t-|ar|لا شئ|tr=laa shay'|sc=Arab}}
 * Asturian: {{t-|ast|nada}}, {{t-|ast|ñada}}
-* Basque: [[ezerez]], [[deusez]]
+* Basque: {{t|eu|ezerez}}, {{t|eu|deusez}}
 * Belarusian: {{t-|be|нішто|tr=ništó|sc=Cyrl}}, {{t-|be|нічога|tr=ničóha|sc=Cyrl}}
 * Bengali: {{t-|bn|কিছু না|tr=kichu na|sc=Beng}}
 * Bulgarian: {{t+|bg|нищо|tr=níšto}}
@@ -59,8 +59,8 @@
 * Danish: {{t+|da|intet}}, {{t+|da|ingenting}}
 * Dutch: {{t+|nl|niets}}, {{t+|nl|niks}}
 * Esperanto: {{t-|eo|nenio}}
-* Finnish: [[ei mitään]]
-* French: [[ne]] + ''verb'' + [[rien]]
+* Finnish: {{t|fi|ei mitään}}
+* {{ttbc|fr}}: {{t-SOP|fr|[[ne]] + ''verb'' + [[rien]]}}<!-- okay to link so? -->
 * Galician: {{t-|gl|nada}}, {{t+|gl|ren}}, {{t-|gl|res}}
 * Georgian: {{t-|ka|არაფერი|sc=Geor}}
 * German: {{t+|de|nichts}}
@@ -69,17 +69,17 @@
 * Hindi: {{t-|hi|कुछ नहीं|tr=kuch nahī̃|sc=Deva}}
 * Hungarian: {{t+|hu|semmi}}
 * Icelandic: {{t+|is|ekkert|n}}, {{t-|is|neitt}}
-* Ido: [[nulo]]
-* Interlingua: [[nihil]], [[nil]]
-* Italian: [[non#Italian|non]] + ''verb'' + [[niente]]
+* Ido: {{t|io|nulo}}
+* Interlingua: {{t|ia|nihil}}, {{t|ia|nil}}
+* {{ttbc|it}}: {{t-SOP|it|[[non]] + ''verb'' + [[niente]]}} <!-- did the same thing at fr -->
 {{trans-mid}}
 * Japanese: {{t-|ja|何も|tr=なにも, nani-mo|sc=Jpan}}, {{t-|ja|何でもない|tr=なんでもない, nandemonai|sc=Jpan}}, {{t-|ja|別に|tr=べつに, betsu-ni|sc=Jpan}}
-* Korean: [[아무것도]]...[[없다]] (amugeotto...eopda)
+* {{ttbc|ko}}: {{t-SOP|ko|[[아무것도]]...[[없다]]|tr=amugeotto...eopda|sc=Kore}} <!-- same as fr and it -->
 * Kurdish:
-*: Sorani: {{ku-Arab|[[هیچ]]}}
-* Latin: [[nihil]] {{n}} {{indeclinable}} [[nihilum]] {{n}}
-* Latvian: [[nekas]]
-* Lithuanian: [[niekas]]
+*: Sorani: {{t|ckb|هیچ|sc=ku-Arab}}
+* {{ttbc|la}}: {{t|la|nihil|n}}, {{indeclinable}} {{t|la|nihilum|n}}
+* Latvian: {{t|lv|nekas}}
+* Lithuanian: {{t|lt|niekas}}
 * Luxembourgish: {{t-|lb|näischt}}
 * Macedonian: {{t-|mk|ништо|n|tr=níšto}}
 * Navajo: {{tø|nv|ádin}}
@@ -92,14 +92,14 @@
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|ништа|alt=ни̏шта|sc=Cyrl}}
 *: Roman: {{t-|sh|ništa|alt=nȉšta}}
-* Sicilian: [[nenti]]
+* Sicilian: {{t|scn|nenti}}
 * Slovak: {{t-|sk|nič}}
 * Slovene: {{t+|sl|nič|alt=nìč}}
 * Spanish: {{t+|es|nada}}
 * Swedish: {{t+|sv|inget}}, {{t+|sv|ingenting}}, {{t+|sv|intet}}
 * Tagalog: {{t+|tl|wala}}
 * Thai: {{t-|th|ไม่มีอะไร|tr=mâi mee àrai|sc=Thai}}
-* Tok Pisin: [[nogat]] [[samting]]
+* {{ttbc|tpi}}: {{t|tpi|nogat samting}} <!-- link as t-SOP if non-idiomatic; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Turkish: {{t+|tr|hiç}}, {{t-|tr|hiç bir şey}}
 * Ukrainian: {{t-|uk|ніщо|tr=niščó|sc=Cyrl}}, {{t-|uk|нічого|tr=ničóho|sc=Cyrl}}
 * Urdu: {{t-|ur|کچھ نہیں|tr=kuch nahī̃|sc=ur-Arab}}
@@ -108,10 +108,10 @@
 
 {{trans-top|something trifling}}
 * Albanian: {{t+|sq|bosh}}
-* German: [[nichts]], [[gar nichts]]
+* German: {{t|de|nichts}}, {{t|de|gar nichts}}
 * Greek: {{t+|el|τίποτα|n|tr=tipota}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[هیچ]]}}
+*: Sorani: {{t|ckb|هیچ|sc=ku-Arab}}
 * Macedonian: {{t-|mk|ништо|n|tr=níšto}}
 {{trans-mid}}
 * Norwegian: {{t+|no|ingenting}}
