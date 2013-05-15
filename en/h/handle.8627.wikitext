@@ -63,7 +63,7 @@ From {{etyl|enm}} {{term|handel|lang=enm}}, {{term|handle|lang=enm}}, from {{ety
 * Arabic: {{t-|ar|مقبض|m|tr=míqbaḍ}}
 * Baluchi: {{tø|bal|دستگ|tr=dastag}}
 * {{trreq|my}}
-* Catalan: {{qualifier|of container}} {{t-|ca|nansa|f}}, {{qualifier|of knife, broom, rake, etc}} {{t+|ca|mànec|m}}, {{t-|ca|maneta|m}},{{qualifier|of door}} {{t-|ca|maneta|f}}, {{qualifier|of drawer}}, {{t-|ca|tirador|f}}
+* Catalan: {{qualifier|of container}} {{t-|ca|nansa|f}}, {{qualifier|of knife, broom, rake, etc}} {{t+|ca|mànec|m}}, {{t-|ca|maneta|m}}, {{qualifier|of door}} {{t-|ca|maneta|f}}, {{qualifier|of drawer}} {{t-|ca|tirador|f}}
 * Chinese:
 *: Mandarin: {{t-|cmn|把手|tr=bǎshou|sc=Hani}}, {{t-|cmn|手柄|tr=shǒubǐng|sc=Hani}}, {{t|cmn|把柄|tr=bǎbǐng|sc=Hani}}
 * Czech: {{t-|cs|rukojeť|f}}, {{t+|cs|držadlo|n}}
@@ -78,7 +78,7 @@ From {{etyl|enm}} {{term|handel|lang=enm}}, {{term|handle|lang=enm}}, from {{ety
 {{trans-mid}}
 * Japanese: {{t-|ja|ハンドル|tr=handoru}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[ده‌سک]]}}
+*: Sorani: {{t|ckb|ده‌سک|sc=ku-Arab}}
 * Latvian: {{t+|lv|kāts|m}}
 * Macedonian: {{t-|mk|рачка|f|tr=ráčka}}, {{t-|mk|дршка|f|tr=d'rška}}, {{t-|mk|држач|m|tr=d'ržač}}
 * Malay: {{t-|ms|pemegang}}
@@ -191,7 +191,7 @@ From {{etyl|enm}} {{term|handlen|lang=enm}}, from {{etyl|ang}} {{term|handlian||
 =====Translations=====
 {{trans-top|to use the hands}}
 * Dutch: {{t+|nl|hanteren}}, {{t+|nl|gebruiken}}
-* Finnish: [[käsitellä]], [[käyttää]] [[käsi|käsiä]]
+* {{ttbc|fi}}: {{t|fi|käsitellä}}, {{t-SOP|fi|[[käyttää]] [[käsi|käsiä]]}} <!-- {{t}} if idiomatic; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * French: {{t+|fr|manier}}, {{t+|fr|manœuvrer}}
 * Macedonian: {{t-|mk|ракува|tr=rákuva|sc=Cyrl}}
 {{trans-mid}}
@@ -249,8 +249,8 @@ From {{etyl|enm}} {{term|handlen|lang=enm}}, from {{etyl|ang}} {{term|handlian||
 *: Mandarin: {{t|cmn|经营}}, {{t|cmn|处理}}
 * Dutch: {{t+|nl|omgaan}}, {{t-|nl|zich bezighouden met}}
 {{trans-mid}}
-* Finnish: [[käydä]] [[kauppa|kauppaa]]
-* French: s'[[occuper]] de, {{t+|fr|traiter}}
+* {{ttbc|fi}}: {{t-SOP|fi|[[käydä]] [[kauppa]]a}} <!-- {{t}} if idiomatic; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|fr}}: {{t-SOP|fr|s'[[occuper]] [[de]]}}, {{t+|fr|traiter}}
 * Hebrew: {{t-|he|טיפל|alt=טיפל (ב־)|tr=tipél (b'-)}}
 {{trans-bottom}}
 
@@ -278,8 +278,8 @@ From {{etyl|enm}} {{term|handlen|lang=enm}}, from {{etyl|ang}} {{term|handlian||
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|cmn}}: [[摸]](1), [[举]](1), [[握]](1), [[操作]](2), [[处理]](3), [[柄]](4), [[句柄]]（[[计算机科学]]）(5)
-* {{ttbc|pt}}: [[manejar]] (1), [[manusear]] (1)
+* {{ttbc|cmn}}: {{t|cmn|摸|sc=Hani}} (1), {{t|cmn|举|sc=Hani}} (1), {{t|cmn|握|sc=Hani}} (1), {{t|cmn|操作|sc=Hani}} (2), {{t|cmn|处理|sc=Hani}} (3), {{t|cmn|柄|sc=Hani}} (4), {{t-SOP|cmn|[[句柄]]（[[计算机科学]]）|sc=Hani}} (5) <!-- {{t}} if idiomatic; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|pt}}: {{qualifier|1}} {{t|pt|manejar}}, {{qualifier|1}} {{t|pt|manusear}}
 {{trans-bottom}}
 
 ===Etymology 3===
