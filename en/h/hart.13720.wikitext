@@ -106,7 +106,7 @@ From {{etyl|frk|fr}} {{recons|hard|hard|lang=frk}} (compare {{etyl|dum|-}} {{ter
 ==German==
 
 ===Etymology===
-{{etyl|goh|de}} {{term|hart|lang=goh}}, akin to {{etyl|osx|-}} {{term|hard|lang=osx}}, Dutch {{term|hard|lang=nl}}.
+From {{etyl|goh|de}} {{term|hart|lang=goh}}, from {{etyl|gem-pro|de}} {{recons|harduz|lang=gem-pro}}, from {{etyl|ine-pro|de}} {{recons|kert-|lang=ine-pro}}, {{recons|kret-||strong; powerful|lang=ine-pro}}. Cognate with Low German {{term|hard|lang=nds}}, {{term|hart|lang=nds}}, Dutch {{term|hard|lang=nl}}, English {{term|hard|lang=en}}, Danish {{term|hård|lang=da}}.
 
 ===Pronunciation===
 * {{IPA|/'haʁt/|lang=de}}
@@ -144,7 +144,7 @@ From {{etyl|frk|fr}} {{recons|hard|hard|lang=frk}} (compare {{etyl|dum|-}} {{ter
 ==Old Dutch==
 
 ===Etymology===
-{{etyl|gem-pro|odt}} {{recons|harduz|lang=gem-pro}}, whence also Old Saxon {{term|hard|lang=osx}}, Old English {{term|heard|lang=ang}}, {{etyl|non|-}} {{term|harðr|lang=non}}.
+From {{etyl|gem-pro|odt}} {{recons|harduz|lang=gem-pro}}, whence also Old Saxon {{term|hard|lang=osx}}, Old English {{term|heard|lang=ang}}, Old Frisian {{term|herd|lang=ofs}}, Old High German {{term|hart|lang=goh}}, Old Norse {{term|harðr|lang=non}}. Ultimately from {{etyl|ine-pro|odt}} {{recons|kert-|lang=ine-pro}}, {{recons|kret-||strong; powerful|lang=ine-pro}}.
 
 ===Adjective===
 {{odt-adj}} (''comparative'' '''[[hardiro]]''', ''superlative'' '''[[hardist]]''')
@@ -155,14 +155,15 @@ From {{etyl|frk|fr}} {{recons|hard|hard|lang=frk}} (compare {{etyl|dum|-}} {{ter
 {{odt-decl-adj-2|title=hart|hard|hart}}
 
 ====Descendants====
-* Dutch: {{l|nl|hard}}
+* Middle Dutch: {{l|dum|hart}}
+** Dutch: {{l|nl|hard}}
 
 ----
 
 ==Old High German==
 
 ===Etymology===
-{{etyl|gem-pro|goh}} {{recons|harduz|lang=gem-pro}}, whence also Old English {{term|heard|lang=ang}}, {{etyl|non|-}} {{term|harðr|lang=non}}.
+From {{etyl|gem-pro|goh}} {{recons|harduz|lang=gem-pro}}, whence also Old Saxon {{term|hard|lang=osx}}, Old English {{term|heard|lang=ang}}, Old Norse {{term|harðr|lang=non}}, Gothic {{term|𐌷𐌰𐍂𐌳𐌿𐍃|tr=hardus|lang=got}} . Ultimately from {{etyl|ine-pro|goh}} {{recons|kert-|lang=ine-pro}}, {{recons|kret-||strong; powerful|lang=ine-pro}}.
 
 ===Adjective===
 {{head|goh|adjective}}
