@@ -44,9 +44,9 @@ English from the 17th century, from a {{etyl|ML.}} or {{etyl|NL.}} {{term|lexico
 * Italian: {{t+|it|lessico|m}}
 {{trans-mid}}
 * Lithuanian: {{t-|lt|leksikonas|m}}
-* Polish: {{t-|pl|leksykon|m}}, [[słownik]] [[encyklopedyczny]] {{m}}
+* {{ttbc|pl}}: {{t-|pl|leksykon|m}}, {{t-SOP|pl|[[słownik]] [[encyklopedyczny]]|m}}<!-- never seen the latter one used. -->
 * Romanian: {{t+|ro|lexicon|n}}
-* Russian: [[словарь]] [[лексема|лексем]]
+* {{ttbc|ru}}: {{t-SOP|ru|[[словарь]] [[лексема|лексем]]|sc=Cyrl}} <!-- {{t}} if idiomatic; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-bottom}}
 
 {{trans-top|dictionary of Classical Greek, Hebrew, Latin, or Aramaic}}
@@ -54,7 +54,7 @@ English from the 17th century, from a {{etyl|ML.}} or {{etyl|NL.}} {{term|lexico
 * Icelandic: {{t+|is|orðabók|f}}, {{t+|is|orðasafn|n}}
 {{trans-mid}}
 * Italian: {{t+|it|lessico|m}}
-* Russian: {{t+|ru|лексикон|m|tr=lexikón}}
+* {{ttbc|ru}}: {{t+|ru|лексикон|alt=лексико̀н|m|tr=leksikón}}<!-- my amateurish attempt... please check. see also below. -->
 {{trans-bottom}}
 
 {{trans-top|lexicology of a programming language}}
@@ -72,8 +72,8 @@ English from the 17th century, from a {{etyl|ML.}} or {{etyl|NL.}} {{term|lexico
 * Icelandic: {{t+|is|orðabók|f}}, {{t+|is|orðasafn|n}}
 {{trans-mid}}
 * Italian: {{t+|it|lessico|m}}
-* Lithuanian: {{t+|lt|žodynas|m}},  {{t-|lt|leksikonas|m}}
-* Russian: {{t+|ru|лексикон|m|tr=lexikón}}, {{t+|ru|словарь|m|tr=slovár'}}
+* Lithuanian: {{t+|lt|žodynas|m}}, {{t-|lt|leksikonas|m}}
+* {{ttbc|ru}}: {{t+|ru|лексикон|m|tr=leksikón}}, {{t+|ru|словарь|alt=слова̀рь|m|tr=slovár'}}
 * Spanish: {{t+|es|léxico|m}}
 {{trans-bottom}}
 
@@ -85,7 +85,7 @@ English from the 17th century, from a {{etyl|ML.}} or {{etyl|NL.}} {{term|lexico
 {{trans-mid}}
 * Italian: {{t+|it|lessico|m}}, {{t+|it|vocabolario|m}}
 * Polish: {{t-|pl|leksykon|m}}, {{t+|pl|słownictwo|n}}
-* Russian: {{t+|ru|лексикон|m|tr=lexikón}}, [[запас]] [[слово|слов]], [[лексический]] [[запас]]
+* {{ttbc|ru}}: {{t+|ru|лексикон|alt=лексико̀н|m|tr=leksikón}}, {{t-SOP|ru|[[запас]] [[слово|слов]]|sc=Cyrl}}, {{t-SOP|ru|[[лексический]] [[запас]]|sc=Cyrl}} <!-- {{t}} if idiomatic; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-bottom}}
 
 {{trans-top|subject-specific vocabulary}}
@@ -94,13 +94,13 @@ English from the 17th century, from a {{etyl|ML.}} or {{etyl|NL.}} {{term|lexico
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|eo}}: [[leksikono]]
-* {{ttbc|fr}}: [[lexique]] {{m}}
-* {{ttbc|de}}: [[Lexikon]] {{n}}
-* {{ttbc|ia}}: [[lexico]]
-* {{ttbc|pt}}: [[léxico]] {{m}}
+* {{ttbc|eo}}: {{t|eo|leksikono}}
+* {{ttbc|fr}}: {{t|fr|lexique|m}}
+* {{ttbc|de}}: {{t|de|Lexikon|n}}
+* {{ttbc|ia}}: {{t|ia|lexico}}
+* {{ttbc|pt}}: {{t|pt|léxico|m}}
 * {{ttbc|tr}}: {{t+|tr|sözlük}}, {{t+|tr|lügat}}
-* {{ttbc|cy}}: [[geiriadur]] {{m}}
+* {{ttbc|cy}}: {{t|cy|geiriadur|m}}
 {{trans-bottom}}
 
 ====External links====
