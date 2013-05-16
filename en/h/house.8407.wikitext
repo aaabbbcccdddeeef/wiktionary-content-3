@@ -174,7 +174,7 @@ From {{etyl|enm}} {{term|hous|lang=enm}}, {{term|hus}}, from {{etyl|ang}} {{term
 *: Mandarin: {{t|cmn|房屋|tr=fángwū|sc=Hani}}, {{t|cmn|家|tr=jiā|sc=Hani}}, {{t|cmn|房子|tr=fángzi|sc=Hani}}
 * Choctaw: {{tø|cho|chuka}}
 * Chulym: {{tø|clw|em}}
-* Chuvash: {{unicode|[[ҫурт]] / [[ҫурт|çурт]] (çurt)}} {{s}}, {{unicode|[[ҫурт|ҫуртсем]] / [[ҫурт|çуртсем]] (çurtsem)}} {{p}}, {{tø|cv|кил|tr=kil|sc=Cyrl}}
+* {{ttbc|cv}}: {{unicode|[[ҫурт]] / [[ҫурт|çурт]] (çurt)}} {{s}}, {{unicode|[[ҫурт|ҫуртсем]] / [[ҫурт|çуртсем]] (çurtsem)}} {{p}}<!-- xte will not touch this, and I am also pretty clueless how to handle this. -->, {{tø|cv|кил|tr=kil|sc=Cyrl}}
 * Cornish: {{t-|kw|chi|m}}
 * {{trreq|co}}
 * Cree: {{t-|cr|wikowin|sc=Cans}}
@@ -200,7 +200,7 @@ From {{etyl|enm}} {{term|hous|lang=enm}}, {{term|hus}}, from {{etyl|ang}} {{term
 * German: {{t+|de|Haus|n}}, {{t+|de|Häuser|p}}
 * Gothic: {{tø|got|𐍂𐌰𐌶𐌽|tr=razn|n|sc=Goth}}, {{tø|got|𐌷𐌿𐍃|tr=hūs|n|sc=Goth}}
 * Greek: {{t+|el|σπίτι|n|tr=spíti}}
-*: Ancient: {{unicode|[[οἶκος]]}} (oíkos) {{m}}, [[οἰκία]] (oikía) {{f}}
+*: Ancient: {{t|grc|οἶκος|m|sc=unicode|tr=oíkos}}, {{t|grc|οἰκία|f|tr=oikía|sc=polytonic}}
 * Guaraní: {{t-|gn|oga}}, {{t-|gn|ogapy}}, {{t-|gn|róga}}
 * Gujarati: {{t+|gu|ઘર|tr=ghar|sc=Gujr}}
 * Haitian Creole: {{tø|ht|kay}}
