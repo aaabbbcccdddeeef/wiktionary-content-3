@@ -133,7 +133,7 @@ From {{etyl|enm}} {{term||doctor, doctour|an expert, authority on a subject|lang
 * Belarusian: {{t-|be|ўрач|m|f|tr=ŭrač}}, {{t-|be|доктар|m|f|tr=dóktar}}
 * Bengali: {{t-|bn|ডাক্তার|tr=ḑaktar|sc=Beng}}
 * Bulgarian: {{t+|bg|доктор|m|tr=dóktor}}, {{t+|bg|лекар|m}}
-* Burmese: {{t+|my|ဆရာဝန်|tr=hsa̱ja wun|sc=Mymr}}
+* Burmese: {{t+|my|ဆရာဝန်|tr=hsăyawun|sc=Mymr}}
 * Catalan: {{t+|ca|metge|m}}, {{t+|ca|metgessa|f}}
 * Chechen: {{t|ce|лор|sc=Cyrl}}
 * Chinese:
@@ -293,43 +293,7 @@ From {{etyl|enm}} {{term||doctor, doctour|an expert, authority on a subject|lang
 * Yiddish: {{t-|yi|דאָקטאָר|m|tr=doktor}}
 {{trans-bottom}}
 
-{{trans-top|veterinarian}}
-* Afrikaans: {{t-|af|veearts}}
-* Armenian: {{t|hy|անասնաբույժ|tr=anasnabuyž|sc=Armn}}
-* Bulgarian: {{t-|bg|ветеринарен лекар}}
-* Burmese: {{t-|my|တရိစ္ဆာန်ဆရာဝန်|sc=Mymr}}
-* Chinese:
-*: Mandarin: {{t|cmn|獸醫|tr=shòuyī|sc=Hani}}
-*: Min Nan: {{t-|nan|獸醫|tr=siù-i|sc=Hans}}
-* Czech: {{t-|cs|veterinář|m}}
-* Danish: {{t+|da|dyrlæge}}
-* Dutch: {{t+|nl|dierenarts}}
-* Finnish: {{t+|fi|eläinlääkäri}}
-* Georgian: {{t-|ka|ვეტერინარი|tr=veterinari|sc=Geor}}, {{t-|ka|ბეითალი|tr=beit‘ali|sc=Geor}}
-* German: {{t+|de|Tierarzt|m}}, {{t+|de|Tierärztin|f}}, {{t+|de|Veterinär|m}}
-* Greek: {{t+|el|κτηνίατρος|m|f|tr=ktiníatros|sc=Grek}}
-* Hungarian: {{t+|hu|állatorvos}}
-* Icelandic: {{t+|is|dýralæknir|m}}
-* {{ttbc|id}}: {{t|id|dokter hewan}} <!-- was unlinked - use {{t-SOP}} if non-idiomatic -->
-* Italian: {{t|it|veterinario|m}}, {{qualifier|[[appellative]]}} {{t|it|dottore|m}}
-* Japanese: {{t|ja|獣医師|tr=[[じゅういし]] jūishi|sc=Jpan}}
-{{trans-mid}}
-* Macedonian: {{t-|mk|ветеринар|m|tr=veterinár}}, {{t-|mk|ветеринарка|f|tr=veterinárka}}, {{t-|mk|доктор|tr=dóktor}}, {{t-|mk|докторка|f|tr=dóktorka}}
-* {{ttbc|ms}}: {{t|ms|doktor haiwan}} <!-- was unlinked - use {{t-SOP}} if non-idiomatic -->
-* Maltese: {{t|mt|veterinarju|m}}, {{t|mt|veterinarja|f}}
-* Nungu: {{tø|rin|獸醫}}
-* Portuguese: {{t|pt|doutor|m}}, {{t|pt|doutora|f}}
-* Romanian: {{t-|ro|doctor veterinar|m}}
-* Russian: {{t+|ru|доктор|m|f|tr=dóktor}}, {{t+|ru|врач|m|f|tr=vrač}}
-* Scottish Gaelic: {{t|gd|altrach-bheathaichean|m}}, {{t|gd|lèigh-bheathach|m}}, {{t|gd|lighiche-bheathaichean|m}}
-* Serbo-Croatian: {{t-|sh|veterinar|m|alt=veterìnār}}, {{t-|sh|veterinarka|f|alt=veterìnārka}}
-* Slovak: {{t|sk|veterinár|m}}, {{t|sk|zverolekár|m}}
-* Spanish: {{t+|es|veterinario|m}}
-* Thai: {{t|th|สัตวแพทย์|tr=sàt-wá-pâet|sc=Thai}}
-* Turkish: {{t+|tr|veteriner}}, {{t+|tr|baytar}}
-* Ukrainian: {{t|uk|ветеринар|sc=Cyrl}}, {{t|uk|лікар|sc=Cyrl}}
-* Volapük: {{qualifier|♂♀}} {{t+|vo|nimisanan}}, {{qualifier|♂}} {{t-|vo|nimihisanan}}, {{qualifier|♀}} {{t-|vo|nimijisanan}}, {{qualifier|older term}} {{t-|vo|nimasanel}}
-{{trans-bottom}}
+{{trans-see|veterinarian}}
 
 {{checktrans-top}}
 * {{ttbc|ro}}: {{t-|ro|medic|m}}, {{t|ro|medică|f}}, {{t+|ro|doctor|m}}, {{t|ro|doctoare|f}}
