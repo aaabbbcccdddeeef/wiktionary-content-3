@@ -25,7 +25,7 @@
 * {{l|nds|hollen}}, {{l|nds|holen}}, {{l|nds|hooln}}
 
 ===Etymology===
-From {{etyl|osx|nds}} {{term|haldan|lang=osx}}, from {{etyl|gem-pro|nds}} {{recons|haldaną|lang=gem-pro}}.
+From {{etyl|osx|nds}} {{term|haldan|lang=osx}}, from {{etyl|gem-pro|nds}} {{recons|haldaną|lang=gem-pro}}, from {{etyl|ine-pro|nds}} {{recons|kel-||to drive|lang=ine-pro}}. Compare Dutch {{term|holen|lang=nl}}, English {{term|hold|lang=en}}, German {{term|halten|lang=de}}, West Frisian {{term|hâlde|lang=fy}}, Danish {{term|holde|lang=da}}.
 
 ===Verb===
 {{head|nds|verb}}
@@ -40,10 +40,15 @@ From {{etyl|osx|nds}} {{term|haldan|lang=osx}}, from {{etyl|gem-pro|nds}} {{reco
 ==Middle English==
 {{attention|enm|not a noun}}
 
+===Etymology 1===
+
 ===Noun===
 {{head|enm|noun}}
 
 # [[consider]]
+
+===Etymology 2===
+From {{etyl|ang|enm}} {{term|healdan|lang=ang}}.
 
 ===Verb===
 {{head|enm|verb}}
@@ -52,6 +57,9 @@ From {{etyl|osx|nds}} {{term|haldan|lang=osx}}, from {{etyl|gem-pro|nds}} {{reco
 
 ====Conjugation====
 {{enm-conj|type=strong|holde|holdeþ, holden|holdest|holdeþ, holden|holdeþ|holdeþ, holden|holde|holden|holdende, holdinge|(y)holden|held(e)|helden|helde(st)|helden|held(e)|helden|helde|helde|hold(e)|holdeþ}}
+
+====Descendants====
+* English: {{l|en|hold}}
 
 [[es:holden]]
 [[fr:holden]]
