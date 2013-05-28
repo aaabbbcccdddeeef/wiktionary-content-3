@@ -59,9 +59,9 @@ From {{etyl|ang|en}} {{term|nægel|næġel|lang=ang}}, from {{etyl|gem-pro|en}} 
 * {{trreq|eu}}
 * Belarusian: {{t-|be|пазногаць|m|tr=paznóhacʹ|sc=Cyrl}}, {{t-|be|ногаць|m|tr=nóhacʹ|sc=Cyrl}}
 * Bengali: {{t-|bn|নখ|tr=nôkh|sc=Beng}}
-* Breton: {{t+|br|ivin|m}}, ivinoù {{p}}
+* Breton: {{t+|br|ivin|m}}, {{t|br|ivinoù|p}}
 * Burmese: {{t+|my|လက်သည်း|tr=letthè:|sc=Mymr}} {{gloss|fingernail}}, {{t+|my|ခြေသည်း|tr=chedhè:|sc=Mymr}} {{gloss|toenail}}
-* Campidanese Sardinian: [[unga]] {{f}}
+* Campidanese Sardinian: {{t|sro|unga|f}}
 * Catalan: {{t+|ca|ungla|f}}
 * {{trreq|chr}}
 * Chinese:
@@ -128,7 +128,7 @@ From {{etyl|ang|en}} {{term|nægel|næġel|lang=ang}}, from {{etyl|gem-pro|en}} 
 * Old English: {{t-|ang|nægel|alt=næġel}}
 * Old French: {{tø|fro|ungle|m}}
 * Oriya: {{t|or|ନଖ|sc=Orya}}
-* Ottoman Turkish: {{tø|ota|ناخن|tr=nâhun|sc=ota-Arab}},  {{tø|ota|ظفر|tr=zufr|sc=ota-Arab}}, {{tø|ota|درنق|tr=dyrnak|sc=ota-Arab}}
+* Ottoman Turkish: {{tø|ota|ناخن|tr=nâhun|sc=ota-Arab}}, {{tø|ota|ظفر|tr=zufr|sc=ota-Arab}}, {{tø|ota|درنق|tr=dyrnak|sc=ota-Arab}}
 * {{trreq|ps}}
 * Persian: {{t+|fa|ناخن|tr=nâxon}}
 * Pitjantjatjara: {{tø|pjt|piri}}
@@ -146,7 +146,7 @@ From {{etyl|ang|en}} {{term|nægel|næġel|lang=ang}}, from {{etyl|gem-pro|en}} 
 *: Roman: {{t-|sh|nokat|m|sc=Latn|alt=nȍkat}}
 * Sicilian: {{t+|scn|ugna|f}}
 * {{trreq|si}}
-* Skolt Sami: [[kõʒʒ]]
+* Skolt Sami: {{t|sms|kõʒʒ}}
 * Slovak: {{t-|sk|necht|m}}
 * Slovene: {{t+|sl|noht|m}}
 * Sorbian:
@@ -160,7 +160,7 @@ From {{etyl|ang|en}} {{term|nægel|næġel|lang=ang}}, from {{etyl|gem-pro|en}} 
 * Tatar: {{t-|tt|тырнақ|tr=tırnaq|sc=Cyrl}}
 * Telugu: {{t+|te|గోరు|tr=goru}}, {{t+|te|నఖము|tr=nakhamu}}
 * Thai: {{t-|th|เล็บมือ|tr=lép meu|sc=Thai}}
-* Tok Pisin: [[kapa]] [[bilong]] [[pinga]]
+* {{ttbc|tpi}}: {{t-SOP|tpi|[[kapa]] [[bilong]] [[pinga]]}} <!-- was "[[kapa]] [[bilong]] [[pinga]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Turkish: {{t+|tr|tırnak}}
 * Turkmen: {{t-|tk|dyrnak}}
 * Ukrainian: {{t-|uk|ніготь|m|tr=níhotʹ}}
@@ -186,7 +186,7 @@ From {{etyl|ang|en}} {{term|nægel|næġel|lang=ang}}, from {{etyl|gem-pro|en}} 
 * Bakhtiari: {{tø|bqi|میخ|tr=mēx|sc=fa-Arab}}
 * Bashkir: {{tø|ba|сөй|tr=sӧy|sc=Cyrl}}, {{tø|ba|ҡаҙаҡ|tr=qaðaq|sc=Cyrl}}
 * Belarusian: {{t-|be|цвік|m|sc=Cyrl}}, {{t-|be|цьвік|m|tr=cʹvik|sc=Cyrl}}
-* Breton: {{t+|br|tach|m}}, tachoù {{p}}
+* Breton: {{t+|br|tach|m}}, {{t|br|tachoù|p}}
 * {{trreq|bg}}
 * Catalan: {{t+|ca|clau|m}}
 * Chamicuro: {{tø|ccc|klawojkolo}}
@@ -330,7 +330,7 @@ From {{etyl|ang|en}} {{term|næglan|næġlan|sc=Latinx|lang=ang}}
 * Macedonian: {{t-|mk|заковува|tr=zakóvuva}}
 * Manx: {{t-|gv|trein}}
 * Norwegian: {{t-|no|spikre}}
-* Polish: [[wbijać]] gwóźdź
+* Polish: {{t-SOP|pl|[[wbijać]] [[gwóźdź]]}}
 * Portuguese: {{t+|pt|pregar}}
 * Russian: {{t+|ru|прибивать}}, {{t+|ru|приколачивать}}, {{t+|ru|пригвоздить}} {{qualifier|figuratively}}
 * Slovene: {{t-|sl|pribiti}}
@@ -342,7 +342,7 @@ From {{etyl|ang|en}} {{term|næglan|næġlan|sc=Latinx|lang=ang}}
 {{trans-top|catch}}
 * Dutch: {{t-|nl|vastpinnen}}
 * French: {{t+|fr|choper}}
-* German: {{t+|de|festnageln}}, [[sich krallen]]
+* German: {{t+|de|festnageln}}, {{t|de|sich krallen}}
 {{trans-mid}}
 * Italian: {{t-|it|inchiodare}}
 * Norwegian: {{t+|no|fange}}, {{t-|no|fakke}}
@@ -354,7 +354,7 @@ From {{etyl|ang|en}} {{term|næglan|næġlan|sc=Latinx|lang=ang}}
 {{trans-bottom}}
 
 {{trans-top|accomplish something completely and successfully}}
-* Dutch: [[slagen]] voor, {{t-|nl|voor elkaar krijgen}}
+* {{ttbc|nl}}: {{t|nl|slagen|alt=slagen voor}} <!-- was "[[slagen]] voor"; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t-|nl|voor elkaar krijgen}}
 {{trans-mid}}
 * French: {{t+|fr|envoyer}}
 {{trans-bottom}}
