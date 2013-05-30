@@ -13,24 +13,27 @@
 From {{etyl|sga|ga}} {{term|Beltaine|lang=sga}}.
 
 ===Proper noun===
-{{head|ga|proper noun}} {{f}}
+{{ga-proper noun|[[Bealtaine]]|g=f}}
 
 # [[May]] {{gloss|month}}
 # [[Beltane]]
 
 ====Declension====
-{{ga-noun-f4|B|ealtaine|ealtainí}}
-
-{{ga mut cons|B|ealtaine|uc=yes}}
+{{ga-decl-f4|B|ealtaine|ealtainí}}
 
 ====Usage notes====
-* Used with the word {{l/ga|mí}}, but may be used alone:
-*: ''Mí na '''Bealtaine''' -- ([[month]] of '''[[May]])'''''
+* Used with the word {{term|lang=ga|mí||month}}, but may be used alone:
+*: ''Mí na '''Bealtaine''''' — month of May
 
-[[Category:Irish terms derived from Old Irish|bealtaine]]
-[[Category:ga:Calendar terms|bealtaine]]
+===Mutation===
+{{ga mut cons|B|ealtaine}}
+
+===See also===
+* {{list:Gregorian calendar months/ga}}
+
+[[Category:ga:Calendar terms]]
 [[Category:ga:Months]]
-[[Category:ga:Time|bealtaine]]
+[[Category:ga:Time]]
 
 [[cy:Bealtaine]]
 [[de:Bealtaine]]
