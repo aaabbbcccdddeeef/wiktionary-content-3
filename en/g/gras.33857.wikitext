@@ -37,7 +37,7 @@ From {{etyl|VL.|ca}} ''grassus'', from {{etyl|la|ca}} ''[[crassus]]''.
 ==Dutch==
 
 ===Etymology===
-From {{etyl|odt|nl}} {{recons|gras|lang=odt}}, from {{etyl|gem-pro|nl}} {{recons|grasą|lang=gem-pro}}.
+From {{etyl|odt|nl}} {{recons|gras|lang=odt}}, from {{etyl|gem-pro|nl}} {{recons|grasą|lang=gem-pro}}, from {{etyl|ine-pro|nl}} {{recons|gʰreH₁-||to grow|lang=ine-pro}}. Compare Low German and German {{term|Gras|lang=de}}, English {{term|grass|lang=en}}, West Frisian {{term|gers|lang=fy}}, Danish {{term|græs|lang=da}}.
 
 ===Pronunciation===
 * {{rhymes|ɑs|lang=nl}}
@@ -57,6 +57,9 @@ From {{etyl|odt|nl}} {{recons|gras|lang=odt}}, from {{etyl|gem-pro|nl}} {{recons
 ----
 
 ==Faroese==
+
+===Etymology===
+From {{etyl|non|fo}} {{term|gras|lang=non}}, from {{etyl|gem-pro|fo}} {{recons|grasą|lang=gem-pro}}, from {{etyl|ine-pro|fo}} {{recons|gʰreH₁-||to grow|lang=ine-pro}}.
 
 ===Pronunciation===
 * {{IPA|lang=fo|/kɹɛaːs/}}
@@ -111,6 +114,9 @@ From {{etyl|VL.|fr}} ''grassus'', from {{etyl|la|fr}} ''[[crassus]]''.
 
 ==Icelandic==
 
+===Etymology===
+From {{etyl|non|is}} {{term|gras|lang=non}}, from {{etyl|gem-pro|is}} {{recons|grasą|lang=gem-pro}}, from {{etyl|ine-pro|is}} {{recons|gʰreH₁-||to grow|lang=ine-pro}}.
+
 ===Pronunciation===
 * {{IPA|/kraːs/|lang=is}}
 * {{rhymes|aːs|lang=is}}
@@ -148,15 +154,38 @@ From {{etyl|VL.|roa-jer}} {{recons|grassus|lang=VL.|sc=Latn}}, from {{etyl|la|ro
 
 ----
 
+==Old Norse==
+
+===Etymology===
+From {{etyl|gem-pro|fo}} {{recons|grasą|lang=gem-pro}}, from {{etyl|ine-pro|fo}} {{recons|gʰreH₁-||to grow|lang=ine-pro}}. Compare Old English {{term|græs|lang=ang}} (English {{term|grass|lang=en}}), Old Frisian {{term|gres|lang=ofs}} (West Frisian {{term|gers|lang=fy}}), Old Saxon {{term|gras|lang=osx}} (Low German {{term|Gras|lang=nds}}), Old High German {{term|gras|lang=goh}} (German {{term|Gras|lang=de}}), Gothic {{term|𐌲𐍂𐌰𐍃|tr=gras|lang=got}}.
+
+===Noun===
+{{head|non|noun}}
+
+# [[grass]]
+
+====Descendants====
+* Danish: {{l|da|græs}}
+* Faroese: {{l|fo|gras}}
+* Icelandic: {{l|is|gras}}
+* Norwegian: {{l|no|gress}}, {{l|no|gras}}
+* Swedish: {{l|sv|gräs}}
+
+----
+
 ==Old Saxon==
 
 ===Etymology===
-From {{etyl|gem-pro|osx}} {{recons|grasą|lang=gem-pro}}.
+From {{etyl|gem-pro|osx}} {{recons|grasą|lang=gem-pro}}, from {{etyl|ine-pro|osx}} {{recons|gʰreH₁-||to grow|lang=ine-pro}}. Compare Old English {{term|græs|lang=ang}}, Old Frisian {{term|gres|lang=ofs}}, Old High German {{term|gras|lang=goh}}, Old Norse {{term|gras|lang=non}}, Gothic {{term|𐌲𐍂𐌰𐍃|tr=gras|lang=got}}.
 
 ===Noun===
 {{osx-noun|g=n}}
 
 # [[grass]]
+
+====Descendants====
+* Middle Low German: {{l|gml|gras}}
+** Low German: {{l|nds|Gras}}, {{l|nds|gras}}
 
 ----
 
