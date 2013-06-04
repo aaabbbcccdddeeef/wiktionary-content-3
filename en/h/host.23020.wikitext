@@ -25,8 +25,8 @@ From {{etyl|fro|en}} {{term|oste|lang=fro}} (French: {{term|hôte|lang=fr}}), fr
 #: ''Our company is '''host''' of the annual conference this year.''
 # A [[moderator]] or [[master of ceremonies]] for a [[performance]].
 #: ''The '''host''' was terrible, but the acts themselves were good.''
-# {{computing|Internet|Unix}} Any computer attached to a [[network]].
-# {{biology}} A [[cell]] or [[organism]] which [[harbor]]s another organism or biological entity, usually a [[parasite]].
+# {{context|computing|Internet|Unix}} Any computer attached to a [[network]].
+# {{context|biology}} A [[cell]] or [[organism]] which [[harbor]]s another organism or biological entity, usually a [[parasite]].
 #: ''Viruses depend on the '''host''' that they infect in order to be able to reproduce''
 # {{context|evolutionism|genetics}} An organism bearing certain [[genetic]] material.
 #: ''The so-called junk DNA is known, so far, to provide no apparent benefit to its '''host'''.''
@@ -173,7 +173,7 @@ From {{etyl|fro|en}} {{term|oste|lang=fro}} (French: {{term|hôte|lang=fr}}), fr
 #: Our company will '''host''' the annual conference this year.
 #: I was terrible at '''hosting''' that show.
 #: I’ll be '''hosting''' tonight. I hope I’m not terrible.
-# {{obsolete|intransitive}} To [[lodge]] at an [[inn]].
+# {{context|obsolete|intransitive}} To [[lodge]] at an [[inn]].
 #* Shakespeare
 #*: Where you shall '''host'''.
 # {{context|computing|Internet}} To run [[software]] made available to a [[remote]] user or [[process]].
@@ -340,7 +340,7 @@ From {{etyl|en|nl}} {{term|host|lang=en}}.
 ====Noun====
 {{nl-noun|m|hosts|hostje}}
 
-# {{computing|lang=nl}} [[host#English|host]]
+# {{context|computing|lang=nl}} [[host#English|host]]
 
 =====Derived terms=====
 * {{l|nl|hosten}}
@@ -392,7 +392,7 @@ From {{etyl|en|no}}.
 ====Noun====
 {{head|no|noun|g=m}}
 
-# {{computing|lang=no}} [[#English|host]]
+# {{context|computing|lang=no}} [[#English|host]]
 
 =====Inflection=====
 {{no-noun-infl|nb-class=m1|nn-class=m1}}
