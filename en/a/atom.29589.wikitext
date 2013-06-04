@@ -14,11 +14,11 @@ From {{etyl|fro|en}} {{term|atome|lang=fro}}, from {{etyl|la|en}} {{term|atomus|
 {{en-noun}}
 
 # The smallest, [[indivisible]] constituent part or unit of something.
-# {{physics}} The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a [[nucleus]] surrounded by [[electrons]].
-# {{mathematics}} A non-zero member of a {{w|Boolean algebra}} that is not a [[union]] of any other elements.
-# {{historical}} A theoretical particle of matter, imagined to be incapable of further division; the smallest possible unit of substance.
-# {{obsolete}} The smallest medieval unit of time, equal to fifteen ninety-fourths of a [[second]].
-# {{computing|programming|[[Lisp]]}} An individual [[number]] or [[symbol]], as opposed to a [[list]]. A [[scalar]] value.
+# {{context|physics}} The smallest possible amount of matter which still retains its identity as a chemical element, now known to consist of a [[nucleus]] surrounded by [[electrons]].
+# {{context|mathematics}} A non-zero member of a {{w|Boolean algebra}} that is not a [[union]] of any other elements.
+# {{context|historical}} A theoretical particle of matter, imagined to be incapable of further division; the smallest possible unit of substance.
+# {{context|obsolete}} The smallest medieval unit of time, equal to fifteen ninety-fourths of a [[second]].
+# {{context|computing|programming|[[Lisp]]}} An individual [[number]] or [[symbol]], as opposed to a [[list]]. A [[scalar]] value.
 # A very [[small]] amount.
 #* '''1873''', {{w|Isabella Macdonald Alden}} (as "Pansy"), ''Three People'', Western Tract and Book Society (1873), [http://books.google.com/books?id=XMUsAAAAYAAJ&pg=PA325 page 325]:
 #*: "I have hardly the faintest '''atom''' of hope," answered this honest, earnest man.
@@ -254,7 +254,7 @@ From {{etyl|en|ms}} {{term|atom|lang=en}}, from {{etyl|fro|ms}} {{term|atome|lan
 ===Noun===
 {{head|ms|noun|plural|atom-atom}}
 
-# {{physics|lang=ms}} [[#English|atom]] {{gloss|physics: smallest possible amount of matter retaining its chemical properties}}
+# {{context|physics|lang=ms}} [[#English|atom]] {{gloss|physics: smallest possible amount of matter retaining its chemical properties}}
 
 ----
 
@@ -267,7 +267,7 @@ From {{etyl|en|ms}} {{term|atom|lang=en}}, from {{etyl|fro|ms}} {{term|atome|lan
 ===Noun===
 {{pl-noun|m}}
 
-# {{physics|lang=pl}} {{l/en|atom}}
+# {{context|physics|lang=pl}} {{l/en|atom}}
 
 ====Declension====
 {{pl-decl-noun
@@ -313,7 +313,7 @@ From {{etyl|en|ms}} {{term|atom|lang=en}}, from {{etyl|fro|ms}} {{term|atome|lan
 {{sv-noun|g=c}}
 
 # {{l/en|atom}}; the smallest particle to retain the properties of the element
-# {{historical|lang=sv}} atom; the theoretically smallest possible particle
+# {{context|historical|lang=sv}} atom; the theoretically smallest possible particle
 
 ====Declension====
 {{sv-noun-reg-er}}
@@ -347,7 +347,7 @@ From {{etyl|fr|tr}} {{term|atome|lang=fr}}.
 ===Noun===
 {{tr-noun|u|lar}}
 
-# {{physics|lang=tr}} {{l/en|atom}}
+# {{context|physics|lang=tr}} {{l/en|atom}}
 
 ====Declension====
 {{tr-noun-c|o|d}}
