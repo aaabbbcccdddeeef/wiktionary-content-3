@@ -17,7 +17,7 @@ From {{etyl|ang|en}} {{term|pic|piċ|lang=ang}}, from {{etyl|la|en}} {{term|pix|
 # A [[dark]], extremely [[viscous]] material remaining in still after [[distill]]ing [[crude oil]] and [[tar]].
 #: ''They put '''pitch''' on the mast to protect it.'' ''The barrel was sealed with '''pitch'''.''
 #: ''It was '''pitch''' black because there was no moon.''
-# {{geology}} [[pitchstone]] <!--Webster 1913-->
+# {{context|geology}} [[pitchstone]] <!--Webster 1913-->
 
 =====Derived terms=====
 * [[pitch-black]], [[pitchblack]]
@@ -73,9 +73,9 @@ From {{etyl|enm|en}} {{term|pitch||lang=enm|to thrust in, fasten, settle}}, from
 
 # A [[throw]]; a [[toss]]; a [[cast]], as of something from the hand.
 #: ''a good '''pitch''' in quoits''
-# {{baseball}} The act of pitching a baseball.
+# {{context|baseball}} The act of pitching a baseball.
 #: ''The '''pitch''' was low and inside.''
-# {{sports}} The field on which [[cricket]], [[soccer]], [[rugby]] or [[hockey|field hockey]] is played.
+# {{context|sports}} The field on which [[cricket]], [[soccer]], [[rugby]] or [[hockey|field hockey]] is played.
 #: ''The teams met on the '''pitch'''.
 # An effort to [[sell]] or [[promote]] something.
 #: ''He gave me a sales '''pitch'''.''
@@ -86,11 +86,11 @@ From {{etyl|enm|en}} {{term|pitch||lang=enm|to thrust in, fasten, settle}}, from
 #: ''The '''pitch''' of the roof or haystack''
 # More specifically, the rotation angle about the transverse axis.
 # A level or degree.
-# {{aviation}} A measure of the degree to which an aircraft's nose tilts up or down.
+# {{context|aviation}} A measure of the degree to which an aircraft's nose tilts up or down.
 #: ''The '''pitch''' of an aircraft''
-# {{aviation}} A measure of the [[angle of attack]] of a [[propeller]].
+# {{context|aviation}} A measure of the [[angle of attack]] of a [[propeller]].
 #: ''The propellor blades' '''pitch'''''
-# {{nautical}} The measure of extent to which a nautical vessel rotates on its [[athwartships]] axis, causing its bow and stern to go up and down. Compare with [[roll]], [[yaw]] and [[heave]].
+# {{context|nautical}} The measure of extent to which a nautical vessel rotates on its [[athwartships]] axis, causing its bow and stern to go up and down. Compare with [[roll]], [[yaw]] and [[heave]].
 # The place where a [[busker]] performs.
 # An area in a market (or similar) allocated to a particular trader.
 # A point or peak; the extreme point or degree of elevation or depression; hence, a limit or bound.
@@ -113,8 +113,8 @@ From {{etyl|enm|en}} {{term|pitch||lang=enm|to thrust in, fasten, settle}}, from
 # A descent; a fall; a thrusting down.
 # The point where a declivity begins; hence, the declivity itself; a descending slope; the degree or rate of descent or slope; slant.
 #: ''a steep '''pitch''' in the road; the '''pitch''' of a roof''
-# {{mining}} The limit of ground set to a miner who receives a share of the [[ore]] taken out.
-# {{engineering}} The distance from centre to centre of any two adjacent teeth of gearing, measured on the pitch line; called also ''circular pitch''.
+# {{context|mining}} The limit of ground set to a miner who receives a share of the [[ore]] taken out.
+# {{context|engineering}} The distance from centre to centre of any two adjacent teeth of gearing, measured on the pitch line; called also ''circular pitch''.
 # The length, measured along the axis, of a complete turn of the thread of a screw, or of the helical lines of the blades of a screw propeller.
 # The distance between the centres of holes, as of rivet holes in boiler plates.
 
@@ -210,29 +210,29 @@ From {{etyl|enm|en}} {{term|pitch||lang=enm|to thrust in, fasten, settle}}, from
 ====Verb====
 {{en-verb|pitch|es}}
 
-# {{transitive}} To [[throw]].
+# {{context|transitive}} To [[throw]].
 #: ''He '''pitched''' the horseshoe.''
-# {{transitive|or|intransitive|baseball}} To throw (the [[ball]]) toward home plate.
+# {{context|transitive|or|intransitive|baseball}} To throw (the [[ball]]) toward home plate.
 #: {{transitive}} ''The hurler '''pitched''' a curveball.''
 #: {{intransitive}} ''He '''pitched''' high and inside.''
-# {{intransitive|baseball}} To play baseball in the position of pitcher.
+# {{context|intransitive|baseball}} To play baseball in the position of pitcher.
 #: ''Bob '''pitches''' today.''
-# {{transitive}} To throw away; [[discard]].
+# {{context|transitive}} To throw away; [[discard]].
 #: ''He '''pitched''' the candy wrapper.''
-# {{transitive}} To [[promote]], advertise, or attempt to sell.
+# {{context|transitive}} To [[promote]], advertise, or attempt to sell.
 #: ''He '''pitched''' the idea for months with no takers.''
-# {{transitive}} To deliver in a certain tone or style, or with a certain audience in mind.
+# {{context|transitive}} To deliver in a certain tone or style, or with a certain audience in mind.
 #: ''At which level should I '''pitch''' my presentation?''
-# {{transitive}} To assemble or [[erect]] (a [[tent]]).
+# {{context|transitive}} To assemble or [[erect]] (a [[tent]]).
 #: '' '''Pitch''' the tent over there.''
-# {{ambitransitive|aviation|or|nautical}} To move so that the [[front]] of an [[aircraft]] or [[ship]] goes alternatively [[up]] and [[down]].
+# {{context|ambitransitive|aviation|or|nautical}} To move so that the [[front]] of an [[aircraft]] or [[ship]] goes alternatively [[up]] and [[down]].
 #: {{transitive}} ''The typhoon '''pitched''' the deck of the ship.''
 #: {{intransitive}} ''The airplane '''pitched'''.''
-# {{transitive|golf|}} To play a short, high, lofty shot that lands with [[backspin]].
+# {{context|transitive|golf|}} To play a short, high, lofty shot that lands with [[backspin]].
 #: ''The only way to get on the green from here is to pitch the ball over the bunker.''
-# {{intransitive|cricket|}} To bounce on the playing surface.
+# {{context|intransitive|cricket|}} To bounce on the playing surface.
 #: ''The ball '''pitched''' well short of the batsman.''
-# {{intransitive|Bristol|of snow}} To [[settle]] and build up, without [[melt]]ing.
+# {{context|intransitive|Bristol|of snow}} To [[settle]] and build up, without [[melt]]ing.
 
 =====Translations=====
 {{trans-top|to throw}}
@@ -355,9 +355,9 @@ Unknown
 ====Noun====
 {{en-noun|es}}
 
-# {{music}} The perceived [[frequency]] of a [[sound]] or [[note]].
+# {{context|music}} The perceived [[frequency]] of a [[sound]] or [[note]].
 #: ''The '''pitch''' of middle "C" is familiar to many musicians.''
-# {{music}} In an [[a cappella]] group, the [[singer]] responsible for singing a [[note]] for the other members to [[tune]] themselves by.
+# {{context|music}} In an [[a cappella]] group, the [[singer]] responsible for singing a [[note]] for the other members to [[tune]] themselves by.
 #: '' Bob, our '''pitch''', let out a clear middle "C" and our conductor gave the signal to start.''
 
 =====Translations=====
