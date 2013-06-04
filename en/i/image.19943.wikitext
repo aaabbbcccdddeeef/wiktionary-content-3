@@ -24,12 +24,12 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|imago|imÄ
 |url=http://www.americanscientist.org/issues/pub/pixels-or-perish
 |passage=Drawings and pictures are more than mere ornaments in scientific discourse. Blackboard sketches, geological maps, diagrams of molecular structure, astronomical photographs, MRI '''images''', the many varieties of statistical charts and graphs: These pictorial devices are indispensable tools for presenting evidence, for explaining a theory, for telling a story.}}
 # A mental picture of something not real or not present.
-# {{computing}} A [[file]] that contains all information needed to produce a live working copy.  (see [[disk image]], [[executable image]] and [[image copy]])
+# {{context|computing}} A [[file]] that contains all information needed to produce a live working copy.  (see [[disk image]], [[executable image]] and [[image copy]])
 #: ''Most game console emulators do not come with any ROM '''images''' for copyright reasons.''
 # A characteristic of a person, group or company etc., style, manner of dress, how one is, or wishes to be, perceived by others.
-# {{mathematics}} Something [[map]]ped to by a [[function]].
+# {{context|mathematics}} Something [[map]]ped to by a [[function]].
 #: ''The number 6 is the '''image''' of 3 under ''f'' that is defined as f(x) = 2*x.''
-# {{mathematics}} The [[subset]] of a [[codomain]] comprising those elements that are images of something.
+# {{context|mathematics}} The [[subset]] of a [[codomain]] comprising those elements that are images of something.
 #: ''The '''image''' of this [[step function]] is the set of integers.''
 
 ====Synonyms====
@@ -194,12 +194,12 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|imago|imÄ
 ===Verb===
 {{en-verb|imag|ing}}
 
-# {{transitive}} To [[represent]] [[symbolically]]
-# {{transitive}} To [[reflect]], [[mirror#Verb|mirror]]
+# {{context|transitive}} To [[represent]] [[symbolically]]
+# {{context|transitive}} To [[reflect]], [[mirror#Verb|mirror]]
 #* '''1843''',  [[:w:Thomas Carlyle|Thomas Carlyle]], ''[[:w:Past and Present (book)|Past and Present]]'', book 2, chapter 2, ''St. Edmundsbury'':
 #*: {{...}} we look into a pair of eyes deep as our own, '''imaging''' our own, but all unconscious of us;  to whom we for the time are become as spirits and invisible!.
-# {{transitive}} To create an image of.
-# {{transitive|computing}} To create a complete backup copy of a [[file system]] or other entity.
+# {{context|transitive}} To create an image of.
+# {{context|transitive|computing}} To create a complete backup copy of a [[file system]] or other entity.
 
 ====Translations====
 {{trans-top|to represent symbolically}}
