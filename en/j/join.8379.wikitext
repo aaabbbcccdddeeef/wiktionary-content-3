@@ -22,7 +22,7 @@ From {{etyl|fro|en}} {{term|joindre|lang=fro}}, from {{etyl|la|en}} {{term|iungo
 # To become a member of.
 #: ''Many children '''join''' a sports club.''
 #: ''Most politicians have '''joined''' a party.''
-# {{computing|databases|transitive}} To produce an [[intersection]] of [[data]] in two or more [[database]] [[table]]s.
+# {{context|computing|databases|transitive}} To produce an [[intersection]] of [[data]] in two or more [[database]] [[table]]s.
 #: ''By '''joining''' the Customer table on the Product table, we can show each customer's name alongside the products they have ordered.''
 
 ====Synonyms====
@@ -136,8 +136,8 @@ From {{etyl|fro|en}} {{term|joindre|lang=fro}}, from {{etyl|la|en}} {{term|iungo
 {{en-noun}}
 
 # An intersection of piping or wiring; an [[interconnect]].
-# {{computing|databases}} An [[intersection]] of [[data]] in two or more [[database]] [[table]]s.
-# {{algebra}} The lowest upper bound, an operation between pairs of elements in a [[lattice]], denoted by the symbol {{term|∨|lang=mul}}.
+# {{context|computing|databases}} An [[intersection]] of [[data]] in two or more [[database]] [[table]]s.
+# {{context|algebra}} The lowest upper bound, an operation between pairs of elements in a [[lattice]], denoted by the symbol {{term|∨|lang=mul}}.
 
 ====Antonyms====
 * {{sense|lowest upper bound}} [[meet]]
