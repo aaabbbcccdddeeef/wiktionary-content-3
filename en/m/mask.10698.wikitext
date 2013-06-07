@@ -15,7 +15,7 @@ From {{etyl|enm|en}} {{term|maske|lang=enm}}, from {{etyl|ang|en}} {{term|max|la
 {{en-noun}}
 
 # A [[mesh]].
-# {{UK|_|dialectal|Scotland}} The mesh of a net; a [[net]]; net-bag.
+# {{context|UK|_|dialectal|Scotland}} The mesh of a net; a [[net]]; net-bag.
 
 ===Etymology 2===
 From {{etyl|enm|en}} {{recons|mask|lang=enm}}, {{term|masch|lang=enm}}, from {{etyl|ang|en}} {{term|max|māx|lang=ang}}, {{term|masc|māsc|mash|lang=ang}}. More at {{l|en|mash}}.
@@ -23,14 +23,14 @@ From {{etyl|enm|en}} {{recons|mask|lang=enm}}, {{term|masch|lang=enm}}, from {{e
 ====Noun====
 {{en-noun}}
 
-# {{UK|_|dialectal}} [[mash|Mash]].
+# {{context|UK|_|dialectal}} [[mash|Mash]].
 
 ====Verb====
 {{en-verb}}
 
-# {{transitive|UK|_|dialectal}} To [[mash]].
-# {{transitive|UK|_|dialectal}} {{context|brewing}} To [[mix]] [[malt]] with hot water to yield [[wort]].
-# {{UK|_|dialectal|Scotland}} To prepare tea in a teapot; alternative to [[brew]].
+# {{context|transitive|UK|_|dialectal}} To [[mash]].
+# {{context|transitive|UK|_|dialectal}} {{context|brewing}} To [[mix]] [[malt]] with hot water to yield [[wort]].
+# {{context|UK|_|dialectal|Scotland}} To prepare tea in a teapot; alternative to [[brew]].
 
 ===Etymology 3===
 From {{etyl|enm|en}} {{term|masken|lang=enm}}, short for {{recons|maskeren|lang=enm}}, {{term|malskren||to bewilder; be confused, wander|lang=enm}}. More at {{l|en|masker}}.
@@ -38,7 +38,7 @@ From {{etyl|enm|en}} {{term|masken|lang=enm}}, short for {{recons|maskeren|lang=
 ====Verb====
 {{en-verb}}
 
-# {{transitive|UK|_|dialectal}} To [[bewilder]]; [[confuse]].
+# {{context|transitive|UK|_|dialectal}} To [[bewilder]]; [[confuse]].
 
 ===Etymology 4===
 From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=frm}}, from {{etyl|it|en}} {{term|maschera||mask, disguise|lang=it}}, from {{etyl|ML.|en}} {{term|masca|lang=la}}, {{term|mascha}}, {{term|mascus||mask, nightmare, ghost}}, of uncertain origin. Replaced {{etyl|ang|-}} {{term|grima|grīma|mask|lang=ang}}.
@@ -60,14 +60,14 @@ From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=
 # A festive [[entertainment]] of dancing or other diversions, where all wear masks; a [[masquerade]]; hence, a revel; a frolic; a delusive show - [[w:Francis Bacon|Francis Bacon]]
 #* {{rfdate}} [[w:John Milton|John Milton]]:
 #*: This thought might lead me through the world's vain '''mask'''.
-# {{obsolete}} A dramatic [[performance]], formerly in vogue, in which the actors wore masks and represented mythical or allegorical characters.
-# {{architecture}} A [[grotesque]] head or face, used to adorn [[keystone]]s and other prominent parts, to spout water in fountains, and the like; -- called also [[mascaron]].
+# {{context|obsolete}} A dramatic [[performance]], formerly in vogue, in which the actors wore masks and represented mythical or allegorical characters.
+# {{context|architecture}} A [[grotesque]] head or face, used to adorn [[keystone]]s and other prominent parts, to spout water in fountains, and the like; -- called also [[mascaron]].
 # {{context|fortification}} In a permanent fortification, a redoubt which protects the caponiere.
 # {{context|fortification}} A [[screen]] for a battery
-# {{zoology}} The [[lower]] [[lip]] of the [[larva]] of a [[dragonfly]], modified so as to form a prehensile organ.
+# {{context|zoology}} The [[lower]] [[lip]] of the [[larva]] of a [[dragonfly]], modified so as to form a prehensile organ.
 # {{context|Puebloan|anthropology}} A ceremonial object used in Puebloan [[kachina]] cults that resembles a Euro-American masks. (The term is objected as an appropriate translation by Puebloan peoples as it emphasizes imitation but ignores power and representational intent.)
-# {{computing|programming}} A [[pattern]] of [[bit]]s used in [[bitwise]] [[operation]]s; [[bitmask]].
-# {{computer graphics}} A two-color (black and white) [[bitmap]] generated from an [[image]], used to create [[transparency]] in the image.
+# {{context|computing|programming}} A [[pattern]] of [[bit]]s used in [[bitwise]] [[operation]]s; [[bitmask]].
+# {{context|computer graphics}} A two-color (black and white) [[bitmap]] generated from an [[image]], used to create [[transparency]] in the image.
 
 =====Derived terms=====
 {{der-top}}
@@ -185,18 +185,18 @@ From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=
 ====Verb====
 {{en-verb}}
 
-# {{transitive}} To [[cover]], as the face, by way of [[concealment]] or defense against injury; to conceal with a mask or visor.
+# {{context|transitive}} To [[cover]], as the face, by way of [[concealment]] or defense against injury; to conceal with a mask or visor.
 #* {{rfdate}} Shakespeare, ''Merry Wives of Windsor, IV,vi'':
 #*: They must all be '''masked''' and vizarded
-# {{transitive}} To [[disguise]]; to cover; to hide.
+# {{context|transitive}} To [[disguise]]; to cover; to hide.
 #* {{rfdate}} Shakespeare, ''Macbeth, III-i'':
 #*: '''Masking''' the business from the common eye
-# {{transitive|military}} To [[conceal]]; also, to intervene in the line of.
-# {{transitive|military}} To [[cover]] or keep in check.
+# {{context|transitive|military}} To [[conceal]]; also, to intervene in the line of.
+# {{context|transitive|military}} To [[cover]] or keep in check.
 #: ''to '''mask''' a body of troops or a fortess by a superior force, while some hostile evolution is being carried out''
-# {{intransitive}} To take part as a [[masker]] in a masquerade
+# {{context|intransitive}} To take part as a [[masker]] in a masquerade
 #* {{rfdate}} [[Cavendish]].
-# {{intransitive}} To [[wear]] a mask; to be disguised in any way
+# {{context|intransitive}} To [[wear]] a mask; to be disguised in any way
 #* {{rfdate}} Shakespeare.
 
 =====Translations=====
