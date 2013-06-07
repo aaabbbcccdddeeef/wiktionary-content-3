@@ -14,7 +14,7 @@ From {{etyl|fr|en}} {{term|menu|lang=fr}}.
 
 # The details of the food to be served at a [[banquet]]; a [[bill of fare]].
 # A printed list of [[dish]]es offered in a [[restaurant]].
-# {{computing}} A [[list]] from which the user may select an [[operation]] to be performed, often done with a mouse or other pointing device under a graphical user interface, but usually also controllable from the keyboard.
+# {{context|computing}} A [[list]] from which the user may select an [[operation]] to be performed, often done with a mouse or other pointing device under a graphical user interface, but usually also controllable from the keyboard.
 
 ====Derived terms====
 * [[user menu]]
@@ -40,7 +40,7 @@ From {{etyl|fr|en}} {{term|menu|lang=fr}}.
 * Persian: {{t-|fa|منو}}
 * Polish: {{t+|pl|menu|n}}
 * Portuguese: {{t+|pt|cardápio}}, {{t+|pt|menu}}
-* Russian: {{t+|ru|меню|n|tr=menjú}} {{indeclinable}}
+* Russian: {{t+|ru|меню|n|tr=menjú}}
 * Scottish Gaelic: {{t-|gd|cairt-bidhe|f}}, {{t-|gd|clàr-bìdhe|m}}
 * Serbo-Croatian: {{t-|sh|meni|m|alt=mènī}}, {{t-|sh|jelovnik|m|alt=jelòvnīk}}
 * Spanish: {{t+|es|menú|m}}, {{t+|es|carta|f}}
@@ -70,7 +70,7 @@ From {{etyl|fr|en}} {{term|menu|lang=fr}}.
 * Norwegian: {{t+|no|meny}}
 * Polish: {{t+|pl|menu|n}}
 * Portuguese: {{t+|pt|cardápio}}, {{t+|pt|menu}}
-* Russian: {{t+|ru|меню|n|tr=menjú}} {{indeclinable}}
+* Russian: {{t+|ru|меню|n|tr=menjú}}
 * Scottish Gaelic: {{t-|gd|cairt-bidhe|f}}
 * Serbo-Croatian: {{t-|sh|meni|m|alt=mènī}}, {{t-|sh|jelovnik|m|alt=jelòvnīk}}
 * Spanish: {{t+|es|menú|m}}, {{t+|es|carta|f}}
@@ -95,7 +95,7 @@ From {{etyl|fr|en}} {{term|menu|lang=fr}}.
 * Macedonian: {{t-|mk|мени|n|tr=mení}}
 * Polish: {{t+|pl|menu|n}}
 * Portuguese: {{t+|pt|menu}}
-* Russian: {{t+|ru|меню|n|tr=menjú}} {{indeclinable}}
+* Russian: {{t+|ru|меню|n|tr=menjú}}
 * Scottish Gaelic: {{t-|gd|clàr-iùil|m}}
 * Serbo-Croatian: {{t-|sh|meni|m|alt=mènī}}, {{t-|sh|izbornik|m|alt=ìzbōrnīk}}
 * Spanish: {{t+|es|menú|m}}
@@ -201,7 +201,7 @@ From {{etyl|fr|nl}} {{term|menu|lang=fr}}.
 {{fi-noun}}
 
 # {{alternative form of|menyy|lang=fi}}
-# {{computing|lang=fi}} [[#English|menu]]
+# {{context|computing|lang=fi}} [[#English|menu]]
 
 ====Declension====
 {{fi-decl-rosé|men|u|a|en|y|illsg2=menuhun}}
