@@ -11,10 +11,10 @@
 ===Adjective===
 {{en-adj|-}}
 
-# {{geometry}} Used in the names of units of volume formed by multiplying a unit of length by itself twice. <!--note: this is correct; although there are three factors, there are only two multiplications-->
+# {{context|geometry}} Used in the names of units of volume formed by multiplying a unit of length by itself twice. <!--note: this is correct; although there are three factors, there are only two multiplications-->
 #: ''cubic metre, cubic foot''
-# {{algebraic geometry}} Of a class of [[polynomial]] of the form <math> a.x^3 + b.x^2 + c.x + d </math>
-# {{crystallography}} Having three equal axes and all angles 90°.
+# {{context|algebraic geometry}} Of a class of [[polynomial]] of the form <math> a.x^3 + b.x^2 + c.x + d </math>
+# {{context|crystallography}} Having three equal axes and all angles 90°.
 #: '''''cubic''' cleavage''
 
 ====Synonyms====
@@ -73,7 +73,7 @@
 ===Noun===
 {{en-noun}}
 
-# {{algebraic geometry}} A [[cubic curve]].
+# {{context|algebraic geometry}} A [[cubic curve]].
 
 ====Synonyms====
 * [[cubic curve]]
