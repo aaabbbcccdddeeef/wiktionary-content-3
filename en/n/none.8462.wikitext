@@ -132,7 +132,7 @@ However, where the given or implied context is clearly singular or plural, then 
 #: ''I felt '''none''' the worse for my recent illness.''
 # Not at all. {{defdate|from 13th c.}}
 #: ''Now don't you worry '''none'''.''
-# {{obsolete}} [[no|No]], [[not]]. {{defdate|14th-16th c.}}
+# {{context|obsolete}} [[no|No]], [[not]]. {{defdate|14th-16th c.}}
 #* '''c. 1390''', Geoffrey Chaucer, "The Shipman's Tale", ''Canterbury Tales'':
 #*: And up into his contour-hous gooth he / To rekene with hymself, wel may be, / Of thilke yeer how that it with hym stood, / And how that he despended hadde his good, / And if that he encresses were or '''noon'''.
 
@@ -162,7 +162,7 @@ However, where the given or implied context is clearly singular or plural, then 
 ===Noun===
 {{nl-noun|m|nonen|noontje}}
 
-# {{music|lang=nl}} An [[interval]] of 13 {{qualifier|kleine none}} of 14 {{qualifier|grote none}} [[halftone]]s.
+# {{context|music|lang=nl}} An [[interval]] of 13 {{qualifier|kleine none}} of 14 {{qualifier|grote none}} [[halftone]]s.
 
 ===Anagrams===
 * [[neon#Dutch|neon]]
@@ -225,7 +225,7 @@ From {{etyl|la|no}} {{term|la|nonus|lang=la}}.
 ===Noun===
 {{head|no|noun|g=m}}
 
-# {{music|lang=no}} An [[interval]] of 13 (''liten none'') or 14 (''stor none'') [[halftone]]s.
+# {{context|music|lang=no}} An [[interval]] of 13 (''liten none'') or 14 (''stor none'') [[halftone]]s.
 
 ====Inflection====
 {{no-noun-infl|nb-class=m1|nn-class=m1|stem=non}}
