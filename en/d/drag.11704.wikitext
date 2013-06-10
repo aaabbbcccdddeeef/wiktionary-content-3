@@ -14,8 +14,8 @@ From {{etyl|enm|en}} {{term|draggen||to drag|lang=enm}}, early {{etyl|enm|en}} {
 ====Verb====
 {{en-verb|drags|dragging|'''[[dragged]] '''''or, in some dialects,''''' [[drug]]'''}}
 
-# {{transitive}} To [[pull]] along a [[surface]] or through a [[medium]], sometimes with difficulty.
-# {{intransitive}} To move slowly.
+# {{context|transitive}} To [[pull]] along a [[surface]] or through a [[medium]], sometimes with difficulty.
+# {{context|intransitive}} To move slowly.
 #: ''Time seems to '''drag''' when you’re waiting for a bus.''
 # To act or proceed slowly or without enthusiasm; to be reluctant.
 # {{context|computing}} To move a mouse [[cursor]] while holding down a [[button]] on the [[mouse]], often to move something on the screen.
@@ -23,7 +23,7 @@ From {{etyl|enm|en}} {{term|draggen||to drag|lang=enm}}, early {{etyl|enm|en}} {
 # To unintentionally rub or scrape on a surface
 #: ''The car's loose muffler was '''dragging''' on the road.''
 # To perform as a [[drag queen]] or [[drag king]]
-# {{soccer}} To [[hit]] or [[kick]] off target.
+# {{context|soccer}} To [[hit]] or [[kick]] off target.
 #* '''November 17 2012''', BBC Sport: ''Arsenal 5-2 Tottenham'' [http://www.bbc.co.uk/sport/0/football/20278355]
 #*: Arsenal were struggling for any sort of rhythm and Aaron Lennon '''dragged''' an effort inches wide as Tottenham pressed for a second.
 
@@ -81,28 +81,28 @@ From {{etyl|enm|en}} {{term|draggen||to drag|lang=enm}}, early {{etyl|enm|en}} {
 ====Noun====
 {{en-noun|s|-}}
 
-# {{uncountable}} Resistance of the air (or some other fluid) to something moving through it.
+# {{context|uncountable}} Resistance of the air (or some other fluid) to something moving through it.
 #: ''When designing cars, manufacturers have to take '''drag''' into consideration.''
-# {{countable|foundry}} The bottom part of a sand [[casting]] [[mold]].
-# {{countable}} A device dragged along the bottom of a body of water in search of something, e.g. a dead body, or in [[fishing]].
-# {{countable|informal}} A puff on a cigarette or joint.
-# {{countable|slang}} Someone or something that is [[annoying]] or [[frustrating]]; an obstacle to progress or enjoyment.
+# {{context|countable|foundry}} The bottom part of a sand [[casting]] [[mold]].
+# {{context|countable}} A device dragged along the bottom of a body of water in search of something, e.g. a dead body, or in [[fishing]].
+# {{context|countable|informal}} A puff on a cigarette or joint.
+# {{context|countable|slang}} Someone or something that is [[annoying]] or [[frustrating]]; an obstacle to progress or enjoyment.
 #: ''Travelling to work in the rush hour is a real '''drag'''.''
 #* J. D. Forbes
 #*: My lectures were only a pleasure to me, and no '''drag'''.
-# {{countable|slang}} Someone or something that is [[disappointing]].
-# {{countable|slang}} Horse-drawn wagon or buggy. {{defdate|from mid-18th c.}}
+# {{context|countable|slang}} Someone or something that is [[disappointing]].
+# {{context|countable|slang}} Horse-drawn wagon or buggy. {{defdate|from mid-18th c.}}
 #: {{rfquotek|Thackeray}}
-# {{countable|slang}} Street, as in '[[main drag]]'. {{defdate|from mid-19th c.}}
-# {{countable}} The scent-path left by dragging a fox, for training hounds to follow scents.
+# {{context|countable|slang}} Street, as in '[[main drag]]'. {{defdate|from mid-19th c.}}
+# {{context|countable}} The scent-path left by dragging a fox, for training hounds to follow scents.
 #: ''to run a '''drag'''''
-# {{countable|snooker}} A large amount of [[backspin]] on the [[cue ball]], causing the cue ball to slow down.
+# {{context|countable|snooker}} A large amount of [[backspin]] on the [[cue ball]], causing the cue ball to slow down.
 # A heavy [[harrow]] for breaking up ground.
 # A kind of [[sledge]] for conveying heavy objects; also, a kind of low car or handcart.
 #: ''a stone '''drag'''''
 # {{context|metallurgy}} The bottom part of a flask or mould, the upper part being the [[cope]].
 # {{context|masonry}} A steel instrument for completing the [[dress]]ing of soft stone.
-# {{nautical}} The difference between the speed of a screw steamer under sail and that of the screw when the ship outruns the screw; or between the propulsive effects of the different floats of a [[paddle wheel]].
+# {{context|nautical}} The difference between the speed of a screw steamer under sail and that of the screw when the ship outruns the screw; or between the propulsive effects of the different floats of a [[paddle wheel]].
 # Anything towed in the water to retard a ship's progress, or to keep her head up to the wind; especially, a canvas bag with a hooped mouth, so used.
 # A [[skid]] or [[shoe]] for retarding the motion of a carriage wheel.
 # Motion affected with slowness and difficulty, as if clogged.
@@ -169,9 +169,9 @@ From {{etyl|enm|en}} {{term|draggen||to drag|lang=enm}}, early {{etyl|enm|en}} {
 ====Noun====
 {{en-noun|-}}
 
-# {{uncountable|slang}} Women's [[clothing]] worn by men for the purpose of [[entertainment]]. {{defdate|from late 19th c.}}
+# {{context|uncountable|slang}} Women's [[clothing]] worn by men for the purpose of [[entertainment]]. {{defdate|from late 19th c.}}
 #: ''He performed in '''drag'''.''
-# {{uncountable|slang}} Any type of [[clothing]] or [[costume]] associated with a particular [[occupation]] or [[subculture]].
+# {{context|uncountable|slang}} Any type of [[clothing]] or [[costume]] associated with a particular [[occupation]] or [[subculture]].
 #: ''corporate '''drag'''''
 
 =====Derived terms=====
@@ -264,7 +264,7 @@ From {{etyl|sla-pro|sh}} {{recons|dorgъ|lang=sla-pro}}.
 
 # [[feature]], [[trait]], [[characteristic]]
 # [[lure]], [[trolling spoon]]
-# {{chess|lang=sv}} [[move]], [[stroke]]
+# {{context|chess|lang=sv}} [[move]], [[stroke]]
 
 ====Declension====
 {{sv-noun-n-zero}}
