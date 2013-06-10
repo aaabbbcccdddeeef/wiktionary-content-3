@@ -402,17 +402,38 @@ English transcriptions of Chinese speech often fail to distinguish between the c
 
 ----
 
-==Norwegian==
+==Norwegian Bokmål==
+
+===Etymology===
+From {{etyl|non|nb}} {{term|hafa|lang=non}}.
 
 ===Verb===
-{{head|no|verb}}
+{{nb-verb-irreg|har|hadde|hatt}}
 
-# To [[have]].
+# [[have]]
 
-====Conjugation====
-{{no-verb|nb-class=4|nn-class=irreg|infin-pass=havast|present=har|past=hadde|present-part=havande|past-part=hatt|imperative=ha}}
+===References===
+* {{R:Dokumentasjonsprosjektet|lang=nb}}
 
 ----
+
+==Norwegian Nynorsk==
+
+===Alternative forms===
+* {{nn-frf}} {{nn-inf|hav}}
+
+===Etymology===
+From {{etyl|non|nn}} {{term|hafa|lang=non}}.
+
+===Verb===
+{{nn-verb-irreg|har|hadde|hatt|second_root=hav}}
+
+# [[have]]
+#: ''Eg '''har''' vore her sidan i dag tidleg.''
+#:: I '''have''' been here since this morning.
+
+===References===
+* {{R:Dokumentasjonsprosjektet|lang=nn}}
 
 ==Old Irish==
 
