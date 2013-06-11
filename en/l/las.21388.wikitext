@@ -1,5 +1,6 @@
 {{also|-las|lás|läs|-läs|læs|lås}}
 ==English==
+[[Category:English three-letter words]]{{rfc-auto}}
 
 ===Noun===
 '''las'''
@@ -7,10 +8,7 @@
 # {{plural of|la}}
 
 ===Anagrams===
-* [[asl#English|asl]], [[a/s/l#English|a/s/l]], [[ASL#English|ASL]]
-* [[LSA#English|LSA]]
-* [[sal#English|sal]], [[Sal#English|Sal]]
-* [[SLA#English|SLA]]
+* [[asl#English|asl]], [[a/s/l#English|a/s/l]], [[ASL#English|ASL]],  [[LSA#English|LSA]],  [[sal#English|sal]], [[Sal#English|Sal]],  [[SLA#English|SLA]]
 
 ----
 
@@ -28,7 +26,7 @@ From {{etyl|la|rup}} {{term|laxo|laxō|lang=la}}.
 # {{alternative form of|alas|lang=rup}}
 
 ====Related terms====
-* [[lãsare]]
+* {{l|rup|lãsare}}
 
 ----
 
@@ -110,12 +108,12 @@ From {{etyl|gml|da}} {{term|las||patch, scrap|lang=gml}}.
 ==French==
 
 ===Etymology===
-{{etyl|la|fr}} ''[[lassus]]''.
+{{etyl|la|fr}} {{term|lang=la|lassus}}.
 
 ===Pronunciation===
 * {{audio|Fr-las.ogg|audio}}
 * {{IPA|/lɑ/|lang=fr}}
-* Homophones: [[la#French|la]], [[là]]
+* {{homophones|la|là|lang=fr}}
 
 ===Adjective===
 {{fr-adj|f=lasse|mp=las}}
@@ -135,7 +133,7 @@ From {{etyl|gml|da}} {{term|las||patch, scrap|lang=gml}}.
 ===Verb===
 '''las'''
 
-# ''past tense of [[lesen]]''
+# {{form of|lang=de|past tense|lesen}}
 
 [[Category:German verb forms]]
 
@@ -167,7 +165,7 @@ From {{etyl|sla-pro|csb}} {{recons|lěsъ|lang=sla-pro}}.
 ===Rafsi===
 {{jbo-rafsi}}
 
-# {{rafsi of|slasi}}
+# {{jbo-rafsi of|slasi}}
 
 ----
 
@@ -230,7 +228,7 @@ From {{etyl|sla-pro|pl}} {{recons|lěsъ|lang=sla-pro}}.
 }}
 
 ====Related terms====
-* [[leśny]] (adj.)
+* [[leśny]] ({{pos a}})
 
 ----
 
@@ -261,12 +259,12 @@ From {{etyl|sla-pro|pl}} {{recons|lěsъ|lang=sla-pro}}.
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|sla-pro|pl}} {{recons|volsь|lang=sla-pro}}
+From {{etyl|sla-pro|sh}} {{recons|volsь|lang=sla-pro}}
 
 ===Noun===
 {{sh-noun|g=f}}
 
-# {{context|Kajkavian}} [[hair]]
+# {{context|Kajkavian|lang=sh}} [[hair]]
 
 ====Synonyms====
 * {{l|sh|vlas}}
@@ -300,14 +298,12 @@ From {{etyl|la|es}} {{term|illas|lang=la}}, accusative feminine plural of {{term
 ====Pronoun====
 {{head|es|pronoun|g=f-p}}
 
-# Accusative of ''[[ellas]]''
-# feminine plural pronoun.
+# {{form of|Accusative|ellas|lang=es}}
+# {{n-g|feminine plural pronoun.}}
 #: {{usex|'''las''' que no hablan|t=those (women) who do not speak.}}
 
 ===See also===
 {{Spanish pronoun}}
-
-[[Category:Spanish articles]]
 
 [[ar:las]]
 [[ast:las]]
