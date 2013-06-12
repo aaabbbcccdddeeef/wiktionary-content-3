@@ -19,12 +19,12 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|praeceden
 # An act in the past which may be used as an example to help decide the outcome of similar instances in the future.
 #* Hooker
 #*: Examples for cases can but direct as '''precedents''' only.
-# {{legal}} A decided case which is cited or used as an example to justify a judgment in a subsequent case.
-# {{rfd-sense}} {{obsolete|with definite article}} The [[aforementioned]] (thing).
+# {{context|legal}} A decided case which is cited or used as an example to justify a judgment in a subsequent case.
+# {{rfd-sense}} {{context|obsolete|with definite article}} The [[aforementioned]] (thing).
 #* '''1621''', {{w|Robert Burton}}, ''{{w|The Anatomy of Melancholy}}'', New York 2001, p. 74:
 #*: A third argument may be derived from the '''precedent'''.
 # {{rfd-sense}} The previous version.
-# {{obsolete}} A [[rough]] [[draught]] of a [[writing]] which precedes a finished copy.
+# {{context|obsolete}} A [[rough]] [[draught]] of a [[writing]] which precedes a finished copy.
 #: {{rfquotek|Shakespeare}}
 
 ====Derived terms====
@@ -103,8 +103,8 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|praeceden
 ===Verb===
 {{en-verb}}
 
-# {{transitive|legal}} To provide precedents for.
-# {{transitive|legal}} To be a precedent for.
+# {{context|transitive|legal}} To provide precedents for.
+# {{context|transitive|legal}} To be a precedent for.
 
 ===See also===
 * [[stare decisis]]
