@@ -170,16 +170,20 @@ From {{etyl|fro|en}} {{term|oste|lang=fro}} (French: {{term|hôte|lang=fr}}), fr
 {{en-verb}}
 
 # To perform the role of a host.
-#: Our company will '''host''' the annual conference this year.
-#: I was terrible at '''hosting''' that show.
-#: I’ll be '''hosting''' tonight. I hope I’m not terrible.
+#*{{quote-magazine|year=2013|month=May-June|author=[http://www.americanscientist.org/authors/detail/katie-l-burke Katie L. Burke]
+|title=[http://www.americanscientist.org/issues/pub/2013/3/in-the-news-45 In the News]
+|volume=101|issue=3|page=193|magazine={{w|American Scientist}}
+|passage=Bats '''host''' many high-profile viruses that can infect humans, including severe acute respiratory syndrome and Ebola.}}
+#: {{usex|Our company will '''host''' the annual conference this year.}}
+#: {{usex|I was terrible at '''hosting''' that show.}}
+#: {{usex|I’ll be '''hosting''' tonight. I hope I’m not terrible.}}
 # {{context|obsolete|intransitive}} To [[lodge]] at an [[inn]].
 #* Shakespeare
 #*: Where you shall '''host'''.
 # {{context|computing|Internet}} To run [[software]] made available to a [[remote]] user or [[process]].
-#: Kremvax '''hosts''' a variety of services.
 #* '''1987''' May 7, Selden E. Ball, Jr., ''Re: Ethernet Terminal Concentrators'', <tt>comp.protocols.tcp-ip</tt>, ''Usenet''
 #*: CMU/TEK TCP/IP software uses an excessive amount of cpu resources for terminal support both outbound, when accessing another system, and inbound, when the local system is '''hosting''' a session.
+#: {{usex|Kremvax '''hosts''' a variety of services.}}
 
 =====Translations=====
 {{trans-top|perform the role of a host}}
