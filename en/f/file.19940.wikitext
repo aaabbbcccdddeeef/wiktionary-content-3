@@ -118,10 +118,10 @@
 ====Verb====
 {{en-verb|fil|ing}}
 
-# {{transitive}} To [[commit]] [[official]] [[paper]]s to some office
-# {{transitive}} To place in an [[archive]] in a logical place and order
-# {{transitive}} To store a file {{gloss|aggregation of data}} on a storage medium such as a [[disc]] or another computer.
-# {{intransitive|with ''for''|chiefly|_|legal}} To make a formal request for the benefit of an official status.
+# {{context|transitive}} To [[commit]] [[official]] [[paper]]s to some office
+# {{context|transitive}} To place in an [[archive]] in a logical place and order
+# {{context|transitive}} To store a file {{gloss|aggregation of data}} on a storage medium such as a [[disc]] or another computer.
+# {{context|intransitive|with ''for''|chiefly|_|legal}} To make a formal request for the benefit of an official status.
 #: ''She '''filed''' for divorce the next day.''
 #: ''The company '''filed''' for bankruptcy when the office opened on Monday.''
 #: ''They '''filed''' for a refund under their warranty.
@@ -199,7 +199,7 @@ French ''[[file#French|file]]'', from ''[[filer]]'', “to spin out”, “arran
 
 # A [[column]] of people one behind another, whether "[[single file]]" or in a large group with many files side by side.
 #: ''The troops marched in Indian '''file'''.''
-# {{chess}} one of the eight vertical lines of squares on a chessboard (i.e., those which run from number to number). The analog horizontal lines are the ''[[rank]]s''.
+# {{context|chess}} one of the eight vertical lines of squares on a chessboard (i.e., those which run from number to number). The analog horizontal lines are the ''[[rank]]s''.
 
 =====Derived terms=====
 * [[Indian file]]
@@ -244,7 +244,7 @@ French ''[[file#French|file]]'', from ''[[filer]]'', “to spin out”, “arran
 ====Verb====
 {{en-verb|fil|ing}}
 
-# {{intransitive}} To [[move]] in a file.
+# {{context|intransitive}} To [[move]] in a file.
 #: ''The applicants kept '''filing''' into the room until it was full.''
 
 =====Derived terms=====
@@ -259,7 +259,7 @@ French ''[[file#French|file]]'', from ''[[filer]]'', “to spin out”, “arran
 {{en-noun}}
 
 # A hand [[tool]] consisting of a handle to which a block of coarse metal is attached, and used for removing sharp edges or for cutting, especially through metal
-# {{slang|archaic}} A [[man]], [[guy]], [[fellow]]; especially one known for being [[cunning]] or [[resourceful]].
+# {{context|slang|archaic}} A [[man]], [[guy]], [[fellow]]; especially one known for being [[cunning]] or [[resourceful]].
 
 =====Derived terms=====
 {{rel-top|terms derived from ''file (tool) (noun)''}}
@@ -313,7 +313,7 @@ French ''[[file#French|file]]'', from ''[[filer]]'', “to spin out”, “arran
 ====Verb====
 {{en-verb|fil|ing}}
 
-# {{transitive}} to [[smooth]], [[grind]], or [[cut]] with a file
+# {{context|transitive}} to [[smooth]], [[grind]], or [[cut]] with a file
 #: ''I'd better '''file''' the bottoms of the table legs. Otherwise they will scratch the flooring.''
 
 =====Derived terms=====
@@ -355,7 +355,7 @@ French ''[[file#French|file]]'', from ''[[filer]]'', “to spin out”, “arran
 ====Verb====
 {{en-verb|'''[[files]]'''|'''[[filing]]'''|'''[[filed]]'''}}
 
-# {{archaic}} to [[defile]]
+# {{context|archaic}} to [[defile]]
 # to [[corrupt]]
 
 ===Anagrams===
@@ -421,7 +421,7 @@ From {{etyl|en|nl}} {{term|file||computer file|lang=en}}, from {{etyl|fro|nl}} {
 {{fr-noun|f}}
 
 # A [[line]] of objects placed one after the other.
-# {{Belgium|lang=fr}} [[traffic jam]]
+# {{context|Belgium|lang=fr}} [[traffic jam]]
 
 ====Derived terms====
 * [[file d'attente]]
