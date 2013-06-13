@@ -38,12 +38,12 @@ From {{etyl|enm|en}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|fe
 #: ''The design needs to be '''field'''-tested before we commit to manufacture.''
 #: '''''Field''' work traditionally distinguishes true archaeologists from armchair archaeologists.''
 #: ''He needs some time in the '''field''' before his judgment can be trusted.''
-# {{senseid|en|in mathematics}}{{algebra}} A [[set]] having two [[operation]]s called addition and multiplication under both of which all the elements of the set are [[commutative]] and [[associative]]; for which multiplication [[distribute]]s over addition; and for both of which there exist an [[identity element]] and an [[inverse element]] (except for the additive identity).
+# {{senseid|en|in mathematics}}{{context|algebra}} A [[set]] having two [[operation]]s called addition and multiplication under both of which all the elements of the set are [[commutative]] and [[associative]]; for which multiplication [[distribute]]s over addition; and for both of which there exist an [[identity element]] and an [[inverse element]] (except for the additive identity).
 #: ''The set of rational numbers, <math>\mathbb{Q}</math>, is the prototypical '''field'''.''
-# {{senseid|en|geology: region containing a particular mineral}}{{geology}} A region containing a particular mineral.
+# {{senseid|en|geology: region containing a particular mineral}}{{context|geology}} A region containing a particular mineral.
 #: ''oil '''field'''''; ''gold '''field'''''
-# {{senseid|en|heraldry: background of the shield}}{{heraldry}} The background of the [[shield]]
-# {{senseid|en|computing: area of memory or storage reserved for a particular value}}{{computing}} An area of memory or storage reserved for a particular value.
+# {{senseid|en|heraldry: background of the shield}}{{context|heraldry}} The background of the [[shield]]
+# {{senseid|en|computing: area of memory or storage reserved for a particular value}}{{context|computing}} An area of memory or storage reserved for a particular value.
 # A component of a database record in which a single unit of information is stored.
 # A physical or [[virtual]] location for the input of information in the form of characters.
 #: ''The form has '''fields''' for each element of the customer's home address and ship-to address.''
