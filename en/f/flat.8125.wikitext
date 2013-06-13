@@ -15,9 +15,9 @@ From {{etyl|non|en}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in
 # Having no variations in [[altitude]].
 #: ''The land around here is '''flat'''.''
 # {{context|of a tire or other inflated object}} Deflated, especially because of a [[puncture]].
-# {{music|note}} Lowered by one [[semitone]].
-# {{music}} Of a note or voice, lower in pitch than it should be.
-# {{music|voice}} Without variations in pitch.
+# {{context|music|note}} Lowered by one [[semitone]].
+# {{context|music}} Of a note or voice, lower in pitch than it should be.
+# {{context|music|voice}} Without variations in pitch.
 # Of a [[carbonated]] drink, with all or most of its [[carbon dioxide]] having come out of [[solution]] so that the drink no longer [[fizz]]es or contains any [[bubble]]s.
 # Uninteresting.
 #: ''The party was a bit '''flat'''.''
@@ -25,10 +25,10 @@ From {{etyl|non|en}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in
 # Absolute.
 #: ''His claim was in '''flat''' contradiction to experimental results.''
 #: ''I'm not going to the party and that's '''flat'''.''
-# {{slang}} Describing certain features, usually the breasts or buttocks, that are extremely small or not visible at all.
+# {{context|slang}} Describing certain features, usually the breasts or buttocks, that are extremely small or not visible at all.
 #: ''That girl is completely flat on both sides.''
 # {{context|of a battery}} Unable to generate power; [[dead]].
-# {{juggling|of a throw}} Without spin; [[spinless]].
+# {{context|juggling|of a throw}} Without spin; [[spinless]].
 
 =====Synonyms=====
 * {{sense|having no variations in altitude}} [[even]], [[planar]], [[plane]], [[smooth]], [[uniform]]
@@ -335,11 +335,11 @@ From {{etyl|non|en}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in
 {{en-noun}}
 
 # An area of [[level]] ground.
-# {{music}} A note played a [[semitone]] lower than a [[natural]], denoted by the symbol [[♭]] sign placed after the letter representing the note (''e.g.'', B♭) or in front of the note symbol (''e.g.'' ♭♪).
-# {{informal|automotive}} A flat [[tyre]]/[[tire]].
+# {{context|music}} A note played a [[semitone]] lower than a [[natural]], denoted by the symbol [[♭]] sign placed after the letter representing the note (''e.g.'', B♭) or in front of the note symbol (''e.g.'' ♭♪).
+# {{context|informal|automotive}} A flat [[tyre]]/[[tire]].
 #* '''2012''', July 15. Richard Williams in Guardian Unlimited, [http://www.guardian.co.uk/sport/2012/jul/15/tour-de-france-2012-bradley-wiggins Tour de France 2012: Carpet tacks cannot force Bradley Wiggins off track]
 #*: The next one surrendered his bike, only for that, too, to give him a second '''flat''' as he started the descent.
-# {{in the plural}} A type of ladies' shoes with very low heels.
+# {{context|in the plural}} A type of ladies' shoes with very low heels.
 #: ''She liked to walk in her '''flats''' more than in her high heels.''
 # {{context|painting}} A thin, broad brush used in oil and [[watercolor]]/[[watercolour]] painting.
 # The [[#Adjective|flat]] part of something:
@@ -347,7 +347,7 @@ From {{etyl|non|en}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in
 ## The [[palm]] of the [[hand]], with the adjacent part of the [[finger]]s.
 # A [[wide]], [[shallow]] [[container]].
 #: ''a '''flat''' of strawberries''
-# {{geometry}} A [[subset]] of n-dimensional space that is [[congruent]] to a [[Euclidean space]] of lower [[dimension]].<!-- http://en.wikipedia.org/wiki/Flat_%28geometry%29 -->
+# {{context|geometry}} A [[subset]] of n-dimensional space that is [[congruent]] to a [[Euclidean space]] of lower [[dimension]].<!-- http://en.wikipedia.org/wiki/Flat_%28geometry%29 -->
 
 =====Antonyms=====
 * {{sense|note}} [[sharp]]
@@ -428,13 +428,13 @@ From {{etyl|non|en}}<ref>[http://www.etymonline.com/index.php?term=flat Flat] in
 ====Verb====
 {{en-verb|flats|flatting|flatted}}
 
-# {{poker slang}} To make a [[flat call]]; to [[call]] without [[raise#Verb|raising]].
-# {{intransitive}} To become flat or flattened; to sink or fall to an even surface.
+# {{context|poker slang}} To make a [[flat call]]; to [[call]] without [[raise#Verb|raising]].
+# {{context|intransitive}} To become flat or flattened; to sink or fall to an even surface.
 #: {{rfquotek|Sir W. Temple}}
-# {{intransitive|music|colloquial}} To fall from the [[pitch]].
-# {{transitive|music}} To depress in tone, as a musical note; especially, to lower in pitch by half a tone.
-# {{transitive|dated}} To make flat; to flatten; to level.
-# {{transitive|dated}} To render dull, insipid, or spiritless; to depress.
+# {{context|intransitive|music|colloquial}} To fall from the [[pitch]].
+# {{context|transitive|music}} To depress in tone, as a musical note; especially, to lower in pitch by half a tone.
+# {{context|transitive|dated}} To make flat; to flatten; to level.
+# {{context|transitive|dated}} To render dull, insipid, or spiritless; to depress.
 #* Barrow
 #*: Passions are allayed, appetites are '''flatted'''.
 
@@ -445,7 +445,7 @@ From 1795, alteration of {{etyl|sco|en}} {{term|flet|lang=en||inner part of a ho
 [[File:Wroclaw Flat 01.jpg|right|thumb|A block of flats (apartments) in [[Wrocław]]]]
 {{en-noun}}
 
-# {{chiefly|British}} An [[apartment]].
+# {{context|chiefly|British}} An [[apartment]].
 
 =====Synonyms=====
 * {{sense|apartment}} [[apartment]]
