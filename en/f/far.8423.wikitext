@@ -307,7 +307,7 @@ From {{etyl|non|da}} {{term|faðir|lang=non}}, from {{etyl|gem-pro|da}} {{recons
 ===Preposition===
 {{eo-prep}}
 
-# {{neologism|lang=eo}} [[by]]<ref>{{cite web
+# {{context|neologism|lang=eo}} [[by]]<ref>{{cite web
 | last = Wennergren
 | first = Bertilo
 | date = 2010-03-09
@@ -568,7 +568,7 @@ Borrowed from {{etyl|la|ro}} {{term|Pharus|lang=la}}, {{etyl|fr|ro}} {{term|phar
 {{ro-noun|n|faruri}}
 
 # [[lighthouse]]
-# {{figuratively}} [[beacon]]
+# {{context|figuratively}} [[beacon]]
 # car [[headlight]]
 
 ====Declension====
@@ -589,7 +589,7 @@ From {{etyl|la|rm}} {{term|facio|faciō, facere|lang=la}}.
 ===Verb===
 {{rm-verb}}
 
-# {{Rumantsch Grischun|Sursilvan|Sutsilvan|Surmiran|Vallader|lang=rm}} to [[do]], [[make]]
+# {{context|Rumantsch Grischun|Sursilvan|Sutsilvan|Surmiran|Vallader|lang=rm}} to [[do]], [[make]]
 
 ----
 
@@ -702,7 +702,7 @@ From {{etyl|fr|tr}} {{term|fard|lang=fr}}.
 From {{etyl|la|vec}} {{term|facere|lang=la}}, present active infinitive of {{term|facio|faciō|lang=la}}. Compare Italian {{term|fare|lang=it}}
 
 ===Verb===
-{{head|vec|verb}} {{transitive}}
+{{head|vec|verb}} {{context|transitive|lang=vec}}[[Category:Context label misused]]
 
 # to [[do]]
 # to [[make]]
