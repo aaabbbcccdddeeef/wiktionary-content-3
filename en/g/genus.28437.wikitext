@@ -20,8 +20,8 @@ Borrowed from {{etyl|la|en}} {{term|genus|lang=la||birth, origin, a race, sort, 
 #* {{RQ:Schuster Hepaticae V|6}}
 #*: Müller {{...}} criticized the division of the "Jubuleae" into two families and he cited ''Jubula'' as an annectant '''genus'''.
 # A [[group]] with [[common]] [[attribute]]s
-# {{topology}} A [[number]] measuring some aspect of the [[complexity]] of any of various [[manifold]]s or [[graph]]s
-# {{semantics}} Within a definition, a broader category of the defined concept.
+# {{context|topology}} A [[number]] measuring some aspect of the [[complexity]] of any of various [[manifold]]s or [[graph]]s
+# {{context|semantics}} Within a definition, a broader category of the defined concept.
 
 ====Synonyms====
 * See also [[Wikisaurus:class]]
@@ -141,8 +141,8 @@ Borrowed from {{etyl|la|da}} {{term|genus|lang=la}}.
 ===Noun===
 {{head|da|noun|g=n|plural indefinite|[[genus]]|or|genera}}
 
-# {{biology|taxonomy|lang=da}} {{l|en|genus}}
-# {{grammar|lang=da}} [[gender]]
+# {{context|biology|taxonomy|lang=da}} {{l|en|genus}}
+# {{context|grammar|lang=da}} [[gender]]
 
 ====Synonyms====
 * {{sense|taxonomic genus}} [[slægt]]
