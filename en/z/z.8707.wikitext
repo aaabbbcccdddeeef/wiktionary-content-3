@@ -19,19 +19,19 @@
 {{wikipedia|Voiced alveolar fricative}}
 {{head|mul|symbol}}
 
-# {{context|metrology}} {{non-gloss definition|Symbol for the prefix [[zepto-]].}}
-# {{context|astronomy}} {{non-gloss definition|Symbol for the [[redshift]].}}
-# {{context|mathematics}} {{non-gloss definition|Used to denote a [[real]] [[variable]] when [[x]] and [[y]] are already in use.}}
+# {{context|metrology|lang=mul}} {{non-gloss definition|Symbol for the prefix [[zepto-]].}}
+# {{context|astronomy|lang=mul}} {{non-gloss definition|Symbol for the [[redshift]].}}
+# {{context|mathematics|lang=mul}} {{non-gloss definition|Used to denote a [[real]] [[variable]] when [[x]] and [[y]] are already in use.}}
 #: <math>f \left ( x , y , z \right ) = \sin x + \cos y + \tan z</math>
-# {{context|mathematics}} {{non-gloss definition|Used to denote the third [[coordinate]] in [[three-dimensional]] [[Cartesian]] and [[cylindrical]] coordinate systems.}}
+# {{context|mathematics|lang=mul}} {{non-gloss definition|Used to denote the third [[coordinate]] in [[three-dimensional]] [[Cartesian]] and [[cylindrical]] coordinate systems.}}
 #: <math>x^2 + y^2 + z^2 = 1</math>
-# {{context|mathematics}} {{non-gloss definition|Used to denote a [[complex]] [[variable]].}}
+# {{context|mathematics|lang=mul}} {{non-gloss definition|Used to denote a [[complex]] [[variable]].}}
 #: <math>\left \Vert z \right \Vert = z \cdot \bar z</math>
-# {{context|statistics}} {{non-gloss definition|Used to denote a value of a [[standard]] [[normal]] [[random]] [[variable]].}}
+# {{context|statistics|lang=mul}} {{non-gloss definition|Used to denote a value of a [[standard]] [[normal]] [[random]] [[variable]].}}
 #: <math>P[Z > z] = 1 - P[Z < z] = 1 - \Phi(z)</math>
-# {{context|computational geometry|classical mechanics}} Quantity along the third axis in a three-dimensional system, vertical when applicable.
-# {{context|chemistry}} {{non-gloss definition|Symbol for [[atomic number]].}}
-# {{context|[[w:IPA|IPA]]}} [[voiced]] [[alveolar]] [[fricative]]
+# {{context|computational geometry|classical mechanics|lang=mul}} Quantity along the third axis in a three-dimensional system, vertical when applicable.
+# {{context|chemistry|lang=mul}} {{non-gloss definition|Symbol for [[atomic number]].}}
+# {{context|[[w:IPA|IPA]]|lang=mul}} [[voiced]] [[alveolar]] [[fricative]]
 
 ====Derived terms====
 ; Prefix zepto-
@@ -319,13 +319,13 @@ From {{etyl|sla-pro|pl}} {{recons|sъ(n)|lang=sla-pro}}, from {{etyl|ine-pro|pl}
 ===Preposition===
 {{sh-preposition}}
 
-# {{context|Kajkavian}} [[from]], [[out of]]
+# {{context|Kajkavian|lang=sh}} [[from]], [[out of]]
 #* '''1927''', [[w:Dragutin Domjanić|Dragutin Domjanić]], ''Kaj vrt si senja''
 #*: Oblaček po nebu
 #*: Si stiha putuje,
 #*: A '''z''' trave još samo
 #*: Šćurica se čuje.
-# {{context|Kajkavian}} [[with]]
+# {{context|Kajkavian|lang=sh}} [[with]]
 #* '''1927''', [[w:Dragutin Domjanić|Dragutin Domjanić]], ''Kaj''
 #*: I srce mi greje
 #*: I '''z''' menom se smeje
