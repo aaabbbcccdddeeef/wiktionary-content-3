@@ -7,8 +7,8 @@ From {{suffix|associate|ive}}.
 {{en-adj}}
 
 # Pertaining to, resulting from, or characterised by [[association]]; capable of associating; tending to associate or unite.
-# {{context|algebra|of an operator <math> * </math>}} such that, for any [[operand]]s <math> a, b, c </math>, <math> (a * b) * c = a * (b * c) </math>
-# {{context|computing}} addressable by a key more complex than an integer index
+# {{context|algebra|of an operator <math> * </math>|lang=en}} such that, for any [[operand]]s <math> a, b, c </math>, <math> (a * b) * c = a * (b * c) </math>
+# {{context|computing|lang=en}} addressable by a key more complex than an integer index
 #: ''Awk's '''associative''' arrays may be indexed by strings.''
 #: '''''Associative''' memories were once given considerable attention.''
 
