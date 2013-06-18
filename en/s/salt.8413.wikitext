@@ -18,12 +18,12 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|
 {{en-noun}}
 
 # A common substance, chemically consisting mainly of [[sodium chloride]] ([[NaCl]]), used extensively as a [[condiment]] and [[preservative]].
-# {{context|chemistry}} One of the [[compound]]s formed from the [[reaction]] of an [[acid]] with a [[base]], where a positive [[ion]] replaces a [[hydrogen]] of the acid.
-# {{context|uncommon}} A [[salt marsh]], a saline marsh at the shore of a sea.
-# {{context|slang}} A [[sailor]] {{qualifier|also '''''[[old salt]]'''''}}.
+# {{context|chemistry|lang=en}} One of the [[compound]]s formed from the [[reaction]] of an [[acid]] with a [[base]], where a positive [[ion]] replaces a [[hydrogen]] of the acid.
+# {{context|uncommon|lang=en}} A [[salt marsh]], a saline marsh at the shore of a sea.
+# {{context|slang|lang=en}} A [[sailor]] {{qualifier|also '''''[[old salt]]'''''}}.
 #* '''1851''', Herman Melville, ''Moby-Dick'', [[s:Moby-Dick/Chapter 1|chapter 1]]
 #*: I never go as a passenger; nor, though I am something of a '''salt''', do I ever go to sea as a Commodore, or a Captain, or a Cook.
-# {{context|cryptography}} [[randomly|Randomly]] chosen [[bytes]] added to a [[plaintext]] message prior to [[encrypting]] it, in order to render [[brute force|brute-force]] [[decryption]] more difficult.
+# {{context|cryptography|lang=en}} [[randomly|Randomly]] chosen [[bytes]] added to a [[plaintext]] message prior to [[encrypting]] it, in order to render [[brute force|brute-force]] [[decryption]] more difficult.
 # A person who seeks employment at a company in order to (once employed by it) help unionize it.
 
 ====Derived terms====
@@ -397,14 +397,14 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|
 ===Verb===
 {{en-verb}}
 
-# {{context|transitive}} To add salt to.
-# {{context|intransitive}} To deposit salt as a saline solution.
+# {{context|transitive|lang=en}} To add salt to.
+# {{context|intransitive|lang=en}} To deposit salt as a saline solution.
 #: ''The brine begins to '''salt'''.''
-# {{context|mining}} To blast gold into {{qualifier|as a portion of a mine}} in order to cause to appear to be a productive seam.
-# {{context|cryptography}} To add filler bytes before encrypting, in order to make brute-force decryption more resource-intensive.
+# {{context|mining|lang=en}} To blast gold into {{qualifier|as a portion of a mine}} in order to cause to appear to be a productive seam.
+# {{context|cryptography|lang=en}} To add filler bytes before encrypting, in order to make brute-force decryption more resource-intensive.
 # To include colorful language in.
 # To insert or inject something into an object to give it properties it would not naturally have.
-# {{context|archaeology}} To add [[bogus]] evidence to an archeological site.
+# {{context|archaeology|lang=en}} To add [[bogus]] evidence to an archeological site.
 
 ====Antonyms====
 * {{sense|add salt}} [[desalt]]
@@ -785,7 +785,7 @@ From {{etyl|non|sv}} {{term|salt|lang=non}} (akin to Old Saxon {{term|salt|lang=
 {{sv-noun|g=n}}
 
 # [[#English|salt]]
-## {{context|uncountable}} [[sodium chloride]] (NaCl), used extensively as a condiment and preservative.
+## {{context|uncountable|lang=sv}} [[sodium chloride]] (NaCl), used extensively as a condiment and preservative.
 ## {{context|chemistry|lang=sv}} One of the compounds formed from the reaction of an acid with a base, where a positive ion replaces a hydrogen of the acid.
 
 =====Declension=====
