@@ -17,10 +17,10 @@ From {{etyl|enm|en}} {{term|errour|lang=enm}}, from {{etyl|la|en}} {{term|error|
 ===Noun===
 {{en-noun|s|-}}
 
-# {{context|uncountable}} The state, quality, or condition of being [[wrong]].
+# {{context|uncountable|lang=en}} The state, quality, or condition of being [[wrong]].
 #* '''1913''', The Inland printer:
 #*: "Am I in '''error''' in marking out the ''s'' in the word ''assistants'' used in the following manner? [...]"
-# {{context|countable}} A [[mistake]]; an accidental wrong action or a false statement not made deliberately.
+# {{context|countable|lang=en}} A [[mistake]]; an accidental wrong action or a false statement not made deliberately.
 #* {{quote-news
 |year=2011
 |date=October 22
@@ -30,10 +30,10 @@ From {{etyl|enm|en}} {{term|errour|lang=enm}}, from {{etyl|la|en}} {{term|error|
 |url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/15319417.stm#skip_feature_02
 |page=
 |passage=Chris Brunt sliced the spot-kick well wide but his '''error''' was soon forgotten as Olsson headed home from a corner. }}
-# {{context|computing|countable}} A [[failure]] to complete a task, usually involving a premature termination.
-# {{context|statistics|countable}} The [[difference]] between a [[measured]] or [[calculated]] [[value]] and a [[true]] one.
-# {{context|baseball|countable}} A play which is scored as having been made incorrectly.
-# {{context|appellate|_|legal|uncountable}} One or more mistakes in a trial that could be grounds for review of the judgement.
+# {{context|computing|countable|lang=en}} A [[failure]] to complete a task, usually involving a premature termination.
+# {{context|statistics|countable|lang=en}} The [[difference]] between a [[measured]] or [[calculated]] [[value]] and a [[true]] one.
+# {{context|baseball|countable|lang=en}} A play which is scored as having been made incorrectly.
+# {{context|appellate|_|legal|uncountable|lang=en}} One or more mistakes in a trial that could be grounds for review of the judgement.
 
 ====Synonyms====
 * {{sense|state of being wrong}} [[wrength]]
@@ -181,13 +181,13 @@ From {{etyl|enm|en}} {{term|errour|lang=enm}}, from {{etyl|la|en}} {{term|error|
 ===Verb===
 {{en-verb}}
 
-# {{context|computing}} To function improperly due to an error, especially accompanied by error message.
+# {{context|computing|lang=en}} To function improperly due to an error, especially accompanied by error message.
 #: ''The web-page took a long time to load and '''errored''' out.''
 #: ''Remove that line of code and the script should stop '''erroring''' there.''
 #: ''This directory '''errors''' with a "Permission denied" message.''
-# {{context|telecommunications}} To show or contain an error or fault.
+# {{context|telecommunications|lang=en}} To show or contain an error or fault.
 #: ''The block transmission '''errored''' near the start and could not be received.''
-# {{context|nonstandard}} To [[err]].
+# {{context|nonstandard|lang=en}} To [[err]].
 #* '''1993''' December, Arie Kaufman (editor), ''Rendering, Visualization, and Rasterization Hardware'', Springer-Verlag New York LLC
 #*: Pixels which are mathematically outside of a triangle, but which are included for anti-aliasing purposes can be generated with colour and depth information outside of the valid range. The ADE should identify these cases and clamp the output to the minimum or maximum value depending on the direction it has '''errored''' in.
 #* '''2000''' December, Randy W. Kamphaus, ''Clinical Assessment of Child And Adolescent Intelligence'', Allyn & Bacon
