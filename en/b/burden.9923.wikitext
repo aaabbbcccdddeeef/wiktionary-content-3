@@ -37,14 +37,14 @@ From {{etyl|enm|en}} {{term|burden|lang=enm}}, {{term|birden|lang=enm}}, {{term|
 * German: {{t+|de|Belastung|f}}, {{t+|de|Last|f}}
 * Greek:
 *: Ancient: {{tø|grc|ἄχθος|n|sc=polytonic}}
-* Hebrew: [[נטל]] (net'el) {{m}}
+* Hebrew: {{t|he|נטל|m|tr=net'el|sc=Hebr}}
 * Hungarian: {{t+|hu|teher}}
 * Italian: {{t+|it|carico|m}}, {{t+|it|fardello}}
 * Japanese: {{t-|ja|積み荷|tr=つみに, tsumini|sc=Jpan}}
 {{trans-mid}}
-* Korean: [[짐]] (jim), [[바리]] (bari)
-* Kurdish: [[berpirsiyarî]] {{f}}, [[bar]] {{m}}
-*: Sorani: {{ku-Arab|[[بار گرانی]]}}
+* Korean: {{t|ko|짐|tr=jim|sc=Kore}}, {{t|ko|바리|tr=bari|sc=Kore}}
+* Kurdish: {{t|ku|berpirsiyarî|f}}, {{t|ku|bar|m}}
+*: Sorani: {{t|ckb|بار گرانی|sc=ku-Arab}}
 * Latin: {{t-|la|sarcina}}
 * Maori: {{t|mi|wahanga}}
 * Norwegian: {{t-|no|byrde|m}}, {{t-|no|belastning|m}}
@@ -72,13 +72,13 @@ From {{etyl|enm|en}} {{term|burden|lang=enm}}, {{term|birden|lang=enm}}, {{term|
 * Finnish: {{t+|fi|vastuu}}
 * French: {{t+|fr|fardeau|m}}
 * German: {{t+|de|Belastung|f}}, {{t+|de|Last|f}}, {{t+|de|Bürde|f}}
-* Hebrew: [[נטל]] (net'el) {{m}}
+* Hebrew: {{t|he|נטל|m|tr=net'el|sc=Hebr}}
 * Hungarian: {{t+|hu|teher}}
 * Italian: {{t+|it|responsabilità|f}}, {{t+|it|onere|m}}
 * Japanese: {{t+|ja|負担|tr=ふたん, futan|sc=Jpan}}
-* Korean: [[짐]] (jim)
-* Kurdish: [[berpirsiyarî]] {{f}}, [[bar]] {{m}}
-*: Sorani: {{ku-Arab|[[بار]]}}
+* Korean: {{t|ko|짐|tr=jim|sc=Kore}}
+* Kurdish: {{t|ku|berpirsiyarî|f}}, {{t|ku|bar|m}}
+*: Sorani: {{t|ckb|بار|sc=ku-Arab}}
 {{trans-mid}}
 * Macedonian: {{t-|mk|бреме|n|tr=bréme|sc=Cyrl}}
 * Norwegian: {{t-|no|byrde|m}}, {{t+|no|ansvar|n}}
@@ -104,9 +104,9 @@ From {{etyl|enm|en}} {{term|burden|lang=enm}}, {{term|birden|lang=enm}}, {{term|
 * German: {{t+|de|Sorge|f}}, {{t+|de|Bürde|f}}
 * Italian: {{t+|it|preoccupazione|f}}, {{t+|it|fardello|m}}
 * Japanese: {{t-|ja|心配事|tr=しんぱいごと, shimpaigoto|sc=Jpan}}
-* Korean: [[짐]] (jim)
-* Kurdish: [[bar]] {{m}}
-*: Sorani: {{ku-Arab|[[به‌ڵا]]}}
+* Korean: {{t|ko|짐|tr=jim|sc=Kore}}
+* Kurdish: {{t|ku|bar|m}}
+*: Sorani: {{t|ckb|به‌ڵا|sc=ku-Arab}}
 {{trans-mid}}
 * Norwegian: {{t-|no|belastning|m}}
 * Polish: {{t-|pl|brzemię|n}}
@@ -118,7 +118,7 @@ From {{etyl|enm|en}} {{term|burden|lang=enm}}, {{term|birden|lang=enm}}, {{term|
 
 {{checktrans-top}}
 {{trans-mid}}
-* {{ttbc|te}}: [[భారం]] (bhaaraM)
+* {{ttbc|te}}: {{t|te|భారం|tr=bhaaraM|sc=Telu}}
 {{trans-bottom}}
 
 ====Verb====
@@ -128,15 +128,15 @@ From {{etyl|enm|en}} {{term|burden|lang=enm}}, {{term|birden|lang=enm}}, {{term|
 
 =====Translations=====
 {{trans-top|encumber}}
-* Bulgarian: {{t+|bg|натоварвам}},  {{t+|bg|обременявам}}
+* Bulgarian: {{t+|bg|натоварвам}}, {{t+|bg|обременявам}}
 * Dutch: {{t+|nl|bezwaren}}
 * Finnish: {{t-|fi|kuormata}}
 * German: {{t+|de|belasten}}
 * Italian: {{t-|it|gravare}}, {{t-|it|appioppare}}, {{t-|it|rifilare}}
 {{trans-mid}}
-* Korean: [[짐]]을 [[지우다]] (jim-eul jiuda)
+* {{ttbc|ko}}: {{t-SOP|ko|[[짐]]을 [[지우다]]|tr=jim-eul jiuda|sc=Kore}} <!-- was "[[짐]]을 [[지우다]]" - assumed sum-of-parts; if an idiom, use {{t}} instead of {{t-SOP}}. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Maori: {{t|mi|whakawaha}}
-* Russian: [[обременять]] (obr'em'en'át') {{impf}}, [[обременить]] (obr'em'enít') {{pf.}}; [[отягощать]] (ot'agoš'át') {{impf}}, [[отяготить]] (ot'agotít') {{pf.}}
+* Russian: {{t|ru|обременять|impf|tr=obr'em'en'át'|sc=Cyrl}}, {{t|ru|обременить|pf.|tr=obr'em'enít'|sc=Cyrl}}, {{t|ru|отягощать|impf|tr=ot'agoš'át'|sc=Cyrl}}, {{t|ru|отяготить|pf.|tr=ot'agotít'|sc=Cyrl}}
 * Spanish: {{t-|es|gravar}}
 * Swedish: {{t-|sv|belasta}}
 {{trans-bottom}}
