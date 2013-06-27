@@ -333,7 +333,7 @@ From {{etyl|la|en}} {{term|status||manner of standing, attitude, position, carri
 {{trans-top|declare to be a fact}}
 * Catalan: {{t+|ca|declarar}}
 * Chinese:
-*: Mandarin: {{t-|cmn|表示|tr=biǎoshì|sc=Hani}}, {{t|cmn|聲明|sc=Hani}}, {{t|cmn|声明|tr=shēngmíng|sc=Hani}}, {{t-|cmn|規定|sc=Hani}}, {{t-|cmn|规定|tr=guīdìng|sc=Hani}}
+*: Mandarin: {{t|cmn|表示|tr=biǎoshì|sc=Hani}}, {{t|cmn|聲明|sc=Hani}}, {{t|cmn|声明|tr=shēngmíng|sc=Hani}}, {{t|cmn|規定|sc=Hani}}, {{t+|cmn|规定|tr=guīdìng|sc=Hani}}
 * Dutch: {{t+|nl|verklaren}}
 * Finnish: {{t+|fi|sanoa}}, {{t+|fi|todeta}}, {{t+|fi|ilmoittaa}}
 * French: {{t+|fr|déclarer}}
@@ -347,7 +347,7 @@ From {{etyl|la|en}} {{term|status||manner of standing, attitude, position, carri
 * Latin: {{t+|la|eloquor}}, {{t+|la|dico}}
 * Portuguese: {{t+|pt|atestar}}
 * Romanian: {{t-|ro|declara}}
-* Russian: [[утверждать]] (utv'erždát') {{impf}}, [[заявлять]] (zajavl'át’) {{impf}}, [[заявить]] (zajavít’) {{impf}}, {{t|ru|констатировать|tr=konstatírovatʹ|sc=Cyrl}}
+* Russian: {{t|ru|утверждать|impf|tr=utverždátʹ|sc=Cyrl}}, {{t|ru|заявлять|impf|tr=zajavljátʹ|sc=Cyrl}}, {{t|ru|заявить|impf|tr=zajavítʹ|sc=Cyrl}}, {{t|ru|констатировать|impf|pf|tr=konstatírovatʹ|sc=Cyrl}}
 * Serbo-Croatian: {{t-|sh|izjaviti}}, {{t-|sh|izneti}}
 * Spanish: {{t+|es|declarar}}
 * Swahili: {{t+|sw|hali}}
@@ -368,17 +368,17 @@ From {{etyl|la|en}} {{term|status||manner of standing, attitude, position, carri
 * Japanese: {{t+|ja|述べる|tr=noberu}}
 * Latin: {{t+|la|eloquor}}, {{t+|la|dico}}
 * Portuguese: {{t+|pt|declarar}}
-* Russian: [[объявлять]] (objavl'át’) {{impf}}, [[объявить]] (objavít’) {{impf}}
+* Russian: {{t|ru|объявлять|impf|tr=obʺjavljátʹ|sc=Cyrl}}, {{t|ru|объявить|impf|tr=obʺjavítʹ|sc=Cyrl}}
 * Spanish: {{t+|es|declarar}}
 * Swahili: {{t+|sw|hali}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{Arab|[[قرر]]}} {{unicode|(qárara)}}
+* {{ttbc|ar}}: {{t|ar|قرر|tr=qárara|sc=Arab}} {{unicode|}}
 {{trans-mid}}
-* {{ttbc|ko}}: [[말하다]] (malhada)
-* {{ttbc|pt}}: [[declarar]]
-* {{ttbc|sv}}: [[förklara]]
+* {{ttbc|ko}}: {{t|ko|말하다|tr=malhada|sc=Kore}}
+* {{ttbc|pt}}: {{t|pt|declarar}}
+* {{ttbc|sv}}: {{t|sv|förklara}}
 {{trans-bottom}}
 
 ===Related terms===
