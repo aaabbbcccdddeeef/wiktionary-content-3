@@ -84,8 +84,8 @@ From {{etyl|enm|en}} {{term|tail|lang=enm}}, {{term|tayl|lang=enm}}, {{term|teil
 * Abkhaz: {{t|ab|аҵыхәа|tr=ac̄yxwa|sc=Cyrl}}
 * Albanian: {{t|sq|bisht|m}}
 * Alviri-Vidari:
-*: Vidari: {{tø|avd|دمب|tr=domb}}
-* Arabic: {{t-|ar|ذنب|m|tr=dhánab}},  {{t-|ar|ذيل|m|tr=dhayl}}
+*: {{ttbc|Vidari}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{tø|avd|دمب|tr=domb}}
+* Arabic: {{t-|ar|ذنب|m|tr=ḏánab}}, {{t-|ar|ذيل|m|tr=ḏayl}}
 * Aragonese: {{t-|an|coda|f}}
 * Armenian: {{t-|hy|պոչ|tr=poč|sc=Armn}}
 * Aromanian: {{t-|rup|coadã}}
@@ -114,22 +114,22 @@ From {{etyl|enm|en}} {{term|tail|lang=enm}}, {{term|tayl|lang=enm}}, {{term|teil
 * German: {{t+|de|Schwanz|m}}, {{t+|de|Schweif|m}}, {{t-|de|Sterz|m}}, {{t-|de|Stert|m}}, {{t+|de|Zagel|m}}, {{t+|de|Bürzel|m}}, {{t+|de|Rute|f}}, {{t-|de|Schwänzchen|n}} {{qualifier|diminutive}}, {{t-|de|Schwänzlein|n}} {{qualifier|diminutive}}
 * Greek: {{t+|el|ουρά|f|tr=ourá}}
 * Hebrew: {{t+|he|זנב|m|tr=zanáv}}, {{t-|he|זנבת|p|tr=znavót}}
-* Hindi: {{t-|hi|पूंछ|f|tr=pū̃ch|sc=Deva}} / {{t-|hi|पूँछ|f|tr=pū̃ch|sc=Deva}}, {{t-|hi|दुम|f|tr=dum|sc=Deva}}
+* Hindi: {{t-|hi|पूंछ|f|tr=pū̃ch|sc=Deva}}, {{t-|hi|पूँछ|f|tr=pū̃ch|sc=Deva}}, {{t-|hi|दुम|f|tr=dum|sc=Deva}}
 * Hungarian: {{t+|hu|farok}}
 * Icelandic: {{t+|is|hali|m}} (of cattle, in addition to reptiles, amphibians, and basically all animals that do not fall into the other categories; also used for inanimate objects and figuratively), {{t-|is|skott|n}} or {{t-|is|rófa|f}} (of a cat, dog, monkey, etc.), {{t+|is|tagl}} (of a horse), {{t+|is|dindill|m}} (the small fluffy tail of sheep, rabbits, etc.), {{t-|is|stél|n}} (of birds), {{t-|is|sporður|m}} (of fish)
 * Ido: {{t+|io|kaudo}}
 * Indonesian: {{t+|id|ekor}}, {{t+|id|buntut}}
-*: [[Acehnese]]: {{tø|ace|iku}}
-*: [[Balinese]]: {{tø|ban|ikut}}
-*: [[Buginese]]: {{tø|bug|ikkoʔ}}
-*: [[Madurese]]: {{tø|mad|buntoʔ}}
-*: [[Minangkabau]]: {{tø|min|ikua}}
+*: Acehnese: {{tø|ace|iku}}
+*: Balinese: {{tø|ban|ikut}}
+*: Buginese: {{tø|bug|ikkoʔ}}
+*: Madurese: {{tø|mad|buntoʔ}}
+*: Minangkabau: {{tø|min|ikua}}
 * Irish: {{t+|ga|eireaball|m}}
 * Italian: {{t+|it|coda|f}}
 * Japanese: {{t-|ja|尻尾|tr=しっぽ, shippo|sc=Jpan}}, {{t-|ja|しっぽ|tr=shippo|sc=Jpan}}, {{t+|ja|尾|tr=お, o|sc=Jpan}}
 * Jèrriais: {{tø|roa-jer|coue|f}}
 * Kazakh: {{t|kk|құйрық|tr=quyrıq|sc=Cyrl}}
-* {{trreq|Khmer}}
+* {{trreq|km}}
 * Korean: {{t+|ko|꼬리|tr=kkori|sc=Kore}}
 * Kuna: {{tø|cuk|bunnu}}
 * Kurdish:
@@ -149,7 +149,7 @@ From {{etyl|enm|en}} {{term|tail|lang=enm}}, {{term|tayl|lang=enm}}, {{term|teil
 * Mongolian: {{t|mn|сүүл|tr=süül|sc=Cyrl}}
 * Navajo: {{tø|nv|atseeʼ}}
 * Norwegian: {{t+|no|hale|m}}
-* Old Armenian: {{tø|xcl|ագի|tr=agi|sc=Armn}},  {{tø|xcl|պոչ|tr=počʿ|sc=Armn}},  {{tø|xcl|ձետ|tr=jet|sc=Armn}}
+* Old Armenian: {{tø|xcl|ագի|tr=agi|sc=Armn}}, {{tø|xcl|պոչ|tr=počʿ|sc=Armn}}, {{tø|xcl|ձետ|tr=jet|sc=Armn}}
 * Ossetian: {{tø|os|дымӕг|tr=dymæg|sc=Cyrl}}, {{tø|os|къӕдзил|tr=kʺædzil|sc=Cyrl}}, {{tø|os|къуди|tr=kʺudi|sc=Cyrl}}
 * Papiamentu: {{tø|pap|rabo, rabu}}
 * Persian: {{t+|fa|دم|tr=dom|sc=fa-Arab}}, {{t|fa|دمب|tr=domb|sc=fa-Arab}}, {{t|fa|دنب|tr=donb, domb|sc=fa-Arab}}
@@ -158,7 +158,7 @@ From {{etyl|enm|en}} {{term|tail|lang=enm}}, {{term|tayl|lang=enm}}, {{term|teil
 * Romanian: {{t-|ro|coadă}}
 * Romansch: {{t-|rm|cua}}
 * Russian: {{t+|ru|хвост|m|tr=xvost}}
-* Scottish Gaelic: {{t-|gd|earball|m}},  {{t-|gd|eàrr|m|f}}
+* Scottish Gaelic: {{t-|gd|earball|m}}, {{t-|gd|eàrr|m|f}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|реп|m|alt=ре̑п}}
 *: Roman: {{t-|sh|rep|m|alt=rȇp}}
@@ -173,7 +173,7 @@ From {{etyl|enm|en}} {{term|tail|lang=enm}}, {{term|tayl|lang=enm}}, {{term|teil
 * Swedish: {{t+|sv|svans|c}}, {{qualifier|of bird or fish}} {{t+|sv|stjärt|c}}
 * Tagalog: {{t+|tl|buntot|n}}
 * Tajik: {{t-|tg|дум|tr=dum|sc=Cyrl}}
-* Taos: [[xwę́na]]
+* Taos: {{t|twf|xwę́na}}
 * Tatar: {{t|tt|койрык|tr=qoyrıq|sc=Cyrl}}
 * Telugu: {{t+|te|తోక|tr=tōka}}
 * Thai: {{t-|th|หาง|tr=hāng|sc=Thai}}
@@ -187,13 +187,13 @@ From {{etyl|enm|en}} {{term|tail|lang=enm}}, {{term|tayl|lang=enm}}, {{term|teil
 * Volapük: {{t+|vo|göb}}, {{t-|vo|göbil}} {{qualifier|diminutive}}
 * Welsh: {{t+|cy|cynffon|f}}
 * West Frisian: {{t-|fy|sturt}}
-* Yiddish: {{t-|yi|װײדל|m|tr=veydl}}, {{t-|yi|װײדלען|p|tr=veydlen}}; {{t-|yi|שװאַנץ|m|tr=shvants}}, {{t-|yi|שװענץ|p|tr=shvents}}
+* Yiddish: {{t-|yi|װײדל|m|tr=veydl}}, {{t-|yi|װײדלען|p|tr=veydlen}}, {{t-|yi|שװאַנץ|m|tr=shvants}}, {{t-|yi|שװענץ|p|tr=shvents}}
 * Zulu: {{t-|zu|umsila|c3|c4}}
 {{trans-bottom}}
 
 {{trans-top|tail-end of a creature}}
 * Catalan: {{t-|ca|natja|f}}
-* Dutch: [[achtereinde]], [[achterste]], [[achterwerk]], [[zitvlak]] {{n}}
+* Dutch: {{t|nl|achtereinde}}, {{t|nl|achterste}}, {{t|nl|achterwerk}}, {{t|nl|zitvlak|n}}
 * Finnish: {{t+|fi|pyrstö}}, {{t+|fi|takamus}}, {{t+|fi|ahteri}}, {{t+|fi|perä}}
 {{trans-mid}}
 * German: {{t+|de|Hintern}}, {{t+|de|Hinterteil}}, {{t+|de|Gesäß}}
@@ -219,8 +219,8 @@ From {{etyl|enm|en}} {{term|tail|lang=enm}}, {{term|tayl|lang=enm}}, {{term|teil
 {{trans-bottom}}
 
 {{trans-top|comet tail}}
-* Arabic: {{Arab|[[ذنب]]}} {{IPAchar|(ðánab)}} {{m}}
-* Armenian: [[պոչ]] (poč)
+* Arabic: {{t|ar|ذنب|m|tr={{IPAchar|ðánab}}|sc=Arab}}
+* Armenian: {{t|hy|պոչ|tr=poč|sc=Armn}}
 * Catalan: {{t+|ca|cua|f}}
 * Dutch: {{t+|nl|staart|m}}
 * Finnish: {{t+|fi|pyrstö}}
@@ -234,12 +234,12 @@ From {{etyl|enm|en}} {{term|tail|lang=enm}}, {{term|tayl|lang=enm}}, {{term|teil
 * Italian: {{t-|it|chioma|f}}
 * Latvian: {{t+|lv|aste|f}}
 * Macedonian: {{t-|mk|опашка|f|tr=ópaška}}
-* Malayalam: [[വാല്‍]] (vaal)
+* Malayalam: {{t|ml|വാല്‍|tr=vaal|sc=Mlym}}
 * Norwegian: {{t+|no|hale|m}}
 * Polish: {{t+|pl|ogon|m}}
 * Russian: {{t+|ru|хвост|m|tr=xvost}}
 * Swedish: {{t+|sv|svans|c}}
-* Telugu: [[తోక]] (tOka)
+* Telugu: {{t|te|తోక|tr=tOka|sc=Telu}}
 {{trans-bottom}}
 
 {{trans-top|latter part of a time period}}
@@ -253,14 +253,14 @@ From {{etyl|enm|en}} {{term|tail|lang=enm}}, {{term|tayl|lang=enm}}, {{term|teil
 {{trans-bottom}}
 
 {{trans-top|surreptitious follower}}
-* Arabic: {{Arab|[[ذنب]]}} {{IPAchar|(ðánab)}} {{m}}
+* Arabic: {{t|ar|ذنب|m|tr={{IPAchar|ðánab}}|sc=Arab}}
 * Dutch: {{t-|nl|achtervolger|m}}
 * Finnish: {{t-|fi|varjostaja}}, {{t+|fi|varjo}}
 * Norwegian: {{t-|no|forfølger|m}}
 {{trans-mid}}
 * Russian: {{t+|ru|хвост|m|tr=xvost}}
 * Swedish: {{t+|sv|förföljare|c}}
-* Telugu: [[తోక]] (tOka)
+* Telugu: {{t|te|తోక|tr=tOka|sc=Telu}}
 {{trans-bottom}}
 
 {{trans-top|cricket term}}
@@ -283,7 +283,7 @@ From {{etyl|enm|en}} {{term|tail|lang=enm}}, {{term|tayl|lang=enm}}, {{term|teil
 * Hebrew: {{t-|he|פלי|m|tr=páli}}
 {{trans-mid}}
 * Kurdish:
-*: Sorani: {{ku-Arab|[[خه‌ت]]}}
+*: Sorani: {{t|ckb|خه‌ت|sc=ku-Arab}}
 * Russian: {{t+|ru|решка|f|tr=réška}}
 * Swedish: {{t+|sv|klave}}
 {{trans-bottom}}
@@ -303,7 +303,7 @@ From {{etyl|enm|en}} {{term|tail|lang=enm}}, {{term|tayl|lang=enm}}, {{term|teil
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|io}}: [[kaudo]]
+* {{ttbc|io}}: {{t|io|kaudo}}
 {{trans-bottom}}
 
 ====See also====
