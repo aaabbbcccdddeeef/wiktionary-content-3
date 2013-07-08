@@ -125,12 +125,12 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 * Afrikaans: {{t-|af|lewe}}
 * Ainu: {{tø|ain|カㇱカムイ|tr=kaskamuy}}
 * Albanian: {{t-|sq|jetë|f}}
-* Arabic: {{t+|ar|حياة|f|tr=ħayaa}}
-*: Egyptian Arabic: {{tø|arz|حياة|f|tr=ħaya|sc=Arab}}
+* Arabic: {{t+|ar|حياة|f|tr=ḥáyā}}
+*: Egyptian Arabic: {{tø|arz|حياة|f|tr=ḥáya|sc=Arab}}
 * Aramaic:
 *: Syriac: {{tø|arc|ܚܝܐ|m-p|tr=ħayē}}
 *: Hebrew: {{tø|arc|חיא|m-p|tr=ħayē}}
-* Armenian: {{t-|hy|կյանք|tr=kyank’|sc=Armn}}
+* Armenian: {{t-|hy|կյանք|sc=Armn}}
 * Aromanian: {{t-|rup|banã|f}}
 * Asturian: {{t-|ast|vida|f}}
 * Azeri: {{t+|az|həyat}}
@@ -138,11 +138,11 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 * Basque: {{t-|eu|bizi}}
 * Belarusian: {{t-|be|жыццё|n|tr=žyccjó|sc=Cyrl}}, {{t-|be|жыцьцё|n|tr=žyc'cjó|sc=Cyrl}}
 * Berber:
-*: Tashelhit: {{tø|shi|tudrt|f}}
+*: {{ttbc|Tashelhit}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{tø|shi|tudrt|f}}
 * Breton: {{t+|br|buhez|f}}
 * Bulgarian: {{t+|bg|живот|m|tr=živót}}
 * Burmese: {{t+|my|အသက်|tr=a-the'|sc=Mymr}}
-* Campidanese Sardinian: [[vida]] {{f}}
+* Campidanese Sardinian: {{t|sro|vida|f}}
 * Catalan: {{t+|ca|vida|f}}
 * Cherokee: {{t-|chr|ᎥᎴᏂᏙᎲ|tr=vlenidohv|sc=Cher}}
 * Chinese:
@@ -160,7 +160,7 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 * Finnish: {{t+|fi|elämä}}
 * French: {{t+|fr|vie|f}}
 * Galician: {{t+|gl|vida|f}}
-* Georgian: {{t-|ka|სიცოცხლე|tr=sitsotsxle|sc=Geor}}, {{t-|ka|ცხოვრება|tr=tsxovreba|sc=Geor}}
+* Georgian: {{t-|ka|სიცოცხლე|sc=Geor}}, {{t-|ka|ცხოვრება|sc=Geor}}
 * German: {{t+|de|Leben|n}}
 * Greek: {{t+|el|ζωή|f|tr=zoí|sc=Grek}}
 *: Ancient: {{tø|grc|ζωή|f|tr=zoé|sc=polytonic}}, {{tø|grc|βίος|m|tr=bíos|sc=polytonic}}
@@ -168,7 +168,7 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 * Hawaiian: {{tø|haw|ola}}
 * Hebrew: {{t+|he|חיים|m-p|tr=khayím}}
 * Hindi: {{t-|hi|ज़िंदगी|f|tr=zindagī|sc=Deva}}, {{t+|hi|जीवन|m|tr=jīvan|sc=Deva}}, {{t-|hi|हयात|f|tr=hayāt|sc=Deva}}, {{t-|hi|जी|m|tr=jī|sc=Deva}}, {{t-|hi|प्राण|f|tr=prāṇ|sc=Deva}}
-* Hopi: [[qatsi]]
+* Hopi: {{t|hop|qatsi}}
 * Hungarian: {{t+|hu|élet}}
 * Icelandic: {{t+|is|líf|n}}
 * Ido: {{t+|io|vivo}}
@@ -176,7 +176,7 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 * Ingrian: {{tø|izh|elo}}
 * Irish: {{t-|ga|saol|m}}
 * Italian: {{t+|it|vita|f}}
-* Japanese: {{t+|ja|生存|tr=せいぞん, seizon}}, {{t+|ja|命|tr=いのち, inochi}}
+* Japanese: {{t+|ja|命|tr=いのち, inochi}}, {{t+|ja|人生|tr=じんせい, jinsei}}, {{t+|ja|生存|tr=せいぞん, seizon}}
 * Kazakh: {{t|kk|өмір|tr=ömir|sc=Cyrl}}, {{t|kk|тұрмыс|tr=turmıs|sc=Cyrl}}
 * Khmer: {{t+|km|ជីវិត|tr=jīweut|sc=Khmr}}
 * Korean: {{t+|ko|생명|tr=saengmyeong|sc=Hang}} ({{t+|ko|生命|sc=Kore}}), {{t+|ko|삶|tr=salm|sc=Hang}}
@@ -188,7 +188,7 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 * Latin: {{t+|la|vita|f|alt=vīta}}
 * Latvian: {{t-|lv|dzīve}}
 * Lithuanian: {{t+|lt|gyvenimas}}
-* Logudorese Sardinian: [[bida]] {{f}}
+* Logudorese Sardinian: {{t|src|bida|f}}
 * Lower Sorbian: {{tø|dsb|žywjenje|n}}
 * Macedonian: {{t-|mk|живот|m|tr=žívot}}
 * Malay: {{t-|ms|hidup}}, {{t-|ms|kehidupan}}, {{t-|ms|nyawa}}, {{t-|ms|hayat}}
@@ -208,7 +208,7 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 * Portuguese: {{t+|pt|vida|f}}
 * Romani: {{tø|rom|trajo|m}}, {{tø|rom|zhuvipe|m}}
 * Romanian: {{t+|ro|viață|f}}
-* Russian: {{t+|ru|жизнь|f|tr=žizn’}}, {{t+|ru|житие|f|tr=žitié’}}
+* Russian: {{t+|ru|жизнь|f|tr=žiznʹ}}, {{t+|ru|житие|f|tr=žitijé}} {{qualifier|archaic, poetic}}, {{t+|ru|живот|m|tr=živót}} {{qualifier|archaic, poetic, now means "belly"}}
 * Sanskrit: {{t-|sa|जीवन|tr=jīvana|sc=Deva}}, {{t-|sa|जीवित|n|tr=jīvitá|sc=Deva}}
 * Santali: {{tø|sat|ᱪᱳᱞᱚ|tr=cola|sc=Olck}}
 * Scottish Gaelic: {{t-|gd|beatha|f}}, {{t-|gd|saoghal|m}}
@@ -244,34 +244,34 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 * Aramaic:
 *: Syriac: {{tø|arc|ܚܝܐ|m-p|tr=ħayē}}
 *: Hebrew: {{tø|arc|חיא|m-p|tr=ħayē}}
-* Armenian: {{t-|hy|կյանք|tr=kyank‘}}
+* Armenian: {{t-|hy|կյանք}}
 * Catalan: {{t+|ca|vida|f}}
 * Chinese:
-*: Mandarin: {{t-|cmn|生命|tr=shēngmìng|sc=Hani}}
+*: Mandarin: {{t+|cmn|生命|tr=shēngmìng|sc=Hani}}
 * Czech: {{t+|cs|život|m}}
 * Danish: {{t+|da|liv|n}}
 * Dutch: {{t+|nl|leven|n}}
 * Esperanto: {{t+|eo|vivo}}
 * Estonian: {{t+|et|elu}}
-* Finnish: {{t+|fi|elämä}}; (''when its safety is questioned'') {{t+|fi|henki}}
+* Finnish: {{t+|fi|elämä}}, (''when its safety is questioned'') {{t+|fi|henki}}
 * French: {{t+|fr|vie|f}}
 * German: {{t+|de|Leben|n}}
 * Greek: {{t+|el|ζωή|tr=zoí|f}}
 * Hebrew: {{t+|he|חיים|m-p|tr=ħayim}}
-* Hopi: [[qatsi]]
+* Hopi: {{t|hop|qatsi}}
 * Irish: {{t+|ga|beo}}
 {{trans-mid}}
 * Italian: {{t+|it|vita|f}}
 * Japanese: {{t+|ja|生命|tr=せいめい, seimei}}
 * Latin: {{t+|la|vita|f}}
 * Luxembourgish: {{t-|lb|Liewen|n}}
-* Macedonian: {{t-|mk|живот|m|tr=žívot}},  {{t-|mk|живеење|n|tr=živéenje}}
+* Macedonian: {{t-|mk|живот|m|tr=žívot}}, {{t-|mk|живеење|n|tr=živéenje}}
 * Norwegian: {{t+|no|liv|n}}
 * Persian: {{t+|fa|زندگی|tr=zenda(e)gi|sc=fa-Arab}}
 * Polish: {{t+|pl|życie|n}}
 * Portuguese: {{t+|pt|vida|f}}
 * Romanian: {{t+|ro|viață|f}}
-* Russian: {{t+|ru|жизнь|f|tr=žizn’}}, {{t+|ru|житие|f|tr=žitié’}}
+* Russian: {{t+|ru|жизнь|f|tr=žiznʹ}}, {{t+|ru|житие|f|tr=žitijé}} {{qualifier|archaic, poetic}}
 * Scottish Gaelic: {{t-|gd|beatha|f}}, {{t-|gd|saoghal|m}}
 * Serbo-Croatian: {{t+|sh|življenje|n}}
 * Slovene: {{t+|sl|življenje|n}}
@@ -282,10 +282,10 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 {{trans-bottom}}
 
 {{trans-top|the essence of the manifestation and the foundation of the being}}
-* Armenian: {{t-|hy|կյանք|tr=kyank‘}}
+* Armenian: {{t-|hy|կյանք}}
 * Catalan: {{t+|ca|vida|f}}
 * Chinese:
-*: Mandarin: {{t-|cmn|生活|tr=shēnghuó|sc=Hani}}, {{t|cmn|存在|tr=cúnzài|sc=Hani}}
+*: Mandarin: {{t+|cmn|生活|tr=shēnghuó|sc=Hani}}, {{t|cmn|存在|tr=cúnzài|sc=Hani}}
 * Czech: {{t+|cs|život|m}}
 * Danish: {{t+|da|liv|n}}
 * Dutch: {{t+|nl|leven|n}}
@@ -297,7 +297,7 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 * Greek: {{t+|el|ζωή|f|tr=zoí}}
 * Hebrew: {{t+|he|חיים|m-p|tr=ħayim}}
 * Hindi: {{t-|hi|जी}}, {{t-|hi|जान}}, {{t-|hi|प्राण}}<!--ref Oxf. H-E Dict.-->
-* Hopi: [[qatsi]]
+* Hopi: {{t|hop|qatsi}}
 * Irish: {{t-|ga|beatha|f}}
 * Italian: {{t+|it|vita|f}}
 * Japanese: {{t+|ja|存在|tr=そんざい, sonzai}}, {{t+|ja|生活|tr=せいかつ, seikatsu}}
@@ -338,7 +338,7 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 * Greek: {{t+|el|ζωή|f|tr=zoí}}
 * Hebrew: {{t+|he|חיים|m-p|tr=ħayim}}
 * Hindi: {{t-|hi|जी}}, {{t-|hi|जान}}, {{t-|hi|प्राण}}<!--ref Oxf. H-E Dict.-->
-* Hopi: [[qatsi]]
+* Hopi: {{t|hop|qatsi}}
 * Latin: {{t+|la|vita}}
 * Macedonian: {{t-|mk|живот|m|tr=žívot}}
 {{trans-mid}}
@@ -453,7 +453,7 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 * Malayalam: {{t+|ml|ജീവപര്യന്തം|tr=jeevaparyantham|sc=Mlym}}
 * Norwegian: {{t-|no|livstid|m}}
 * Persian: {{t+|fa|دوره|tr=dora(e)|sc=fa-Arab}}
-* Polish: {{t+|pl|dożywocie|n}} {{qualifier|colloquial}}, [[kara dożywotniego pozbawienia wolności]] {{f}}
+* Polish: {{t+|pl|dożywocie|n}} {{qualifier|colloquial}}, {{t|pl|kara dożywotniego pozbawienia wolności|f}}
 * Portuguese: {{t+|pt|perpétua|f}}
 * Russian: {{t-|ru|пожизненный срок|m|tr=požíznennyj srok}}
 * Slovene: {{t-|sl|doživljenjska|f}}
@@ -473,7 +473,7 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 * Italian: {{t-|it|durata della vita|f}}
 * Japanese: {{t+|ja|寿命|tr=jumyō}}
 {{trans-mid}}
-* Macedonian: {{t-|mk|животен век|m|tr=žívoten vek}},  {{t-|mk|траење|n|tr=tráejne}}
+* Macedonian: {{t-|mk|животен век|m|tr=žívoten vek}}, {{t-|mk|траење|n|tr=tráejne}}
 * Malayalam: {{t+|ml|കാലാവധി|tr=kaalaavadhi|sc=Mlym}}
 * Norwegian: {{t-|no|levetid|m|f}}
 * Persian: {{t+|fa|دوره|tr=dora(e)|sc=fa-Arab}}
@@ -485,25 +485,25 @@ From {{etyl|enm|en}} {{term|lif|lang=enm}}, {{term|lyf|lang=enm}}, from {{etyl|a
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{Arab|[[حياة]]}} (ħayā) {{f}}
-* {{ttbc|af}}: [[lewe]]
-* {{ttbc|bg}}: [[живот]] (život)
-* {{ttbc|eu}}: [[bizi]], [[bizitza]], [[existentzia]]
-* {{ttbc|gn}}: [[tekove]]
-* {{ttbc|haw}}: [[ola]], [[nohona]], [[noho ʻana]]
-* {{ttbc|io}}: [[vivo]]
-* {{ttbc|id}}: [[hidup]], [[hidup|kehidupan]]
-* {{ttbc|ia}}: [[vita]]
-* {{ttbc|la}}: [[vita]] {{f}}
-* {{ttbc|ln}}: [[bomɔi]]
-* {{ttbc|lt}}: [[gyvybė]] {{f}} (1,2); [[gyvenimas]] {{m}} (4, 5)
-* {{ttbc|mi}}: [[ora]], [[koiora]], [[wairua ora]], [[tauoranga]]
-* {{ttbc|fa}}: {{fa-Arab|[[زندگی|زِندِگی]]}} (zendegi)
-* {{ttbc|sk}}: [[život]] {{m}} (1-5), [[doživotie]] {{n}} (6)
-* {{ttbc|tpn}}: [[tekobé]]
-* {{ttbc|tr}}: [[yaşam]], [[hayat]]
-* {{ttbc|cy}}: [[bywyd]] {{m}}
-* {{ttbc|et}}: [[eluks]]
+* {{ttbc|ar}}: {{t|ar|حياة|f|tr=ħayā|sc=Arab}}
+* {{ttbc|af}}: {{t|af|lewe}}
+* {{ttbc|bg}}: {{t|bg|живот|tr=život|sc=Cyrl}}
+* {{ttbc|eu}}: {{t|eu|bizi}}, {{t|eu|bizitza}}, {{t|eu|existentzia}}
+* {{ttbc|gn}}: {{t|gn|tekove}}
+* {{ttbc|haw}}: {{t|haw|ola}}, {{t|haw|nohona}}, {{t|haw|noho ʻana}}
+* {{ttbc|io}}: {{t|io|vivo}}
+* {{ttbc|id}}: {{t|id|hidup}}, {{t|id|hidup|alt=kehidupan}} <!-- was "[[hidup|kehidupan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|ia}}: {{t|ia|vita}}
+* {{ttbc|la}}: {{t|la|vita|f}}
+* {{ttbc|ln}}: {{t|ln|bomɔi}}
+* {{ttbc|lt}}: {{qualifier|1,2}} {{t|lt|gyvybė|f}}, {{qualifier|4, 5}} {{t|lt|gyvenimas|m}}
+* {{ttbc|mi}}: {{t|mi|ora}}, {{t|mi|koiora}}, {{t|mi|wairua ora}}, {{t|mi|tauoranga}}
+* {{ttbc|fa}}: {{t|fa|زندگی|tr=zendegi|alt=زِندِگی|sc=fa-Arab}} <!-- was "[[زندگی|زِندِگی]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|sk}}: {{qualifier|1-5}} {{t|sk|život|m}}, {{qualifier|6}} {{t|sk|doživotie|n}}
+* {{ttbc|tpn}}: {{t|tpn|tekobé}}
+* {{ttbc|tr}}: {{t|tr|yaşam}}, {{t|tr|hayat}}
+* {{ttbc|cy}}: {{t|cy|bywyd|m}}
+* {{ttbc|et}}: {{t|et|eluks}}
 {{trans-bottom}}
 
 ====External links====
