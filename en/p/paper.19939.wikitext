@@ -103,15 +103,15 @@ From {{etyl|xno|en}} {{term|paper|lang=fro}}, from {{etyl|fro|en}} {{term|papier
 * Albanian: {{t-|sq|letër}}, {{t-|sq|kartë}}
 * Amharic: {{t-|am|ወረቀት|tr=wäräqätə|sc=Ethi}}
 * Arabic: {{t-|ar|ورقة|f|tr=wáraqa}}
-* Armenian: {{t-|hy|թուղթ|tr=t’uġt’}}
-*: Old Armenian: {{tø|xcl|թուղթ|tr=tʿułtʿ}}
+* Armenian: {{t-|hy|թուղթ}}
+*: Old Armenian: {{tø|xcl|թուղթ}}
 * Azeri: {{t+|az|kağız}}
 * Baluchi: {{tø|bal|کاگد|tr=kágad}}
 * Bashkir: {{tø|ba|ҡағыҙ|tr=qağïð}}
 * Basque: {{t+|eu|paper}}
-* Belarusian: {{t-|be|папера|f|tr=papéra}}
-* Breton: {{t+|br|paper|m}}<!-- [[paperenn]] {{f}}, -où {{qualifier|a sheet of paper}}-->
-* Bulgarian: {{t-|bg|хартия|f|tr=hartija}}
+* Belarusian: {{t-|be|папера|f|tr=papjéra}}
+* Breton: {{t+|br|paper|m}}
+* Bulgarian: {{t-|bg|хартия|f|tr=hartíja}}
 * Burmese: {{t+|my|စက္ကူ|tr=se' ku|sc=Mymr}}
 * Catalan: {{t+|ca|paper|m}}
 * Chinese:
@@ -128,10 +128,10 @@ From {{etyl|xno|en}} {{term|paper|lang=fro}}, from {{etyl|fro|en}} {{term|papier
 * Finnish: {{t+|fi|paperi}}
 * French: {{t+|fr|papier|m}}
 * Galician: {{t+|gl|papel|m}}
-* Georgian: {{t-|ka|ქაღალდი|tr=k‘ağaldi|sc=Geor}}
+* Georgian: {{t-|ka|ქაღალდი|sc=Geor}}
 * German: {{t+|de|Papier|n}}
 * Greek: {{t+|el|χαρτί|n|tr=chartí}}
-* Guaraní: [[kuatia]]
+* Guaraní: {{t|gn|kuatia}}
 * Gujarati: {{t-|gu|કાગજ|tr=}}
 * Hawaiian: {{tø|haw|pepa}}
 * Hebrew: {{t+|he|נייר|m|tr=ni'yar}}, {{t+|he|דף|m|tr=da'f}}
@@ -140,7 +140,7 @@ From {{etyl|xno|en}} {{term|paper|lang=fro}}, from {{etyl|fro|en}} {{term|papier
 * Icelandic: {{t+|is|pappír|m}}
 * Ido: {{t+|io|papero}}
 * Indonesian: {{t+|id|kertas}}
-* Interlingua: [[papiro]]
+* Interlingua: {{t|ia|papiro}}
 * Irish: {{t-|ga|páipéar|m}}
 * Italian: {{t+|it|carta|f}}
 * Japanese: {{t+|ja|紙|tr=[[かみ]], kami}}
@@ -151,7 +151,7 @@ From {{etyl|xno|en}} {{term|paper|lang=fro}}, from {{etyl|fro|en}} {{term|papier
 * Khmer: {{t+|km|ក្រដាស|tr=grədāh|sc=Khmr}}
 * Korean: {{t+|ko|종이|tr=jong-i}}
 * Kurdish: {{t+|ku|perr|m}}, {{t+|ku|kaxez|f}}, {{t+|ku|کاغه‌ز|sc=ku-Arab}}, {{t+|ku|قاقه‌ز|sc=ku-Arab}}
-* Kyrgyz: {{t+|ky|кагаз|tr=qağaz}}
+* Kyrgyz: {{t+|ky|кагаз|tr=kagaz}}
 * Latin: {{t-|la|charta|f}}
 {{trans-mid}}
 * Latvian: {{t+|lv|papīrs|m}}
@@ -177,9 +177,9 @@ From {{etyl|xno|en}} {{term|paper|lang=fro}}, from {{etyl|fro|en}} {{term|papier
 * Russian: {{t+|ru|бумага|f|tr=bumága}}
 * Scottish Gaelic: {{t-|gd|pàipear|m}}
 * Serbo-Croatian:
-*: Cyrillic: [[папир]] {{m}}, [[хартија]] {{f}} {{qualifier|archaic|poetic}}
-*: Roman: [[papir]] {{m}}, [[hartija]] {{f}} {{qualifier|archaic|poetic}}
-* Sindhi: {{t-|sd|پنو|m|tr=panno}}, {{sd-Arab|[[ڪاغذ]]}} (kā<u>g</u>az) {{m}}
+*: Cyrillic: {{t|sh|папир|m|sc=Cyrl}}, {{qualifier|archaic|poetic}} {{t|sh|хартија|f|sc=Cyrl}}
+*: Roman: {{t|sh|papir|m}}, {{qualifier|archaic|poetic}} {{t|sh|hartija|f}}
+* Sindhi: {{t-|sd|پنو|m|tr=panno}}, {{t|sd|ڪاغذ|m|tr=kā<u>g</u>az|sc=sd-Arab}}
 * Slovak: {{t-|sk|papier|m}}
 * Slovene: {{t+|sl|papir|m}}
 * Somali: {{t-|so|xaansho}}
@@ -190,20 +190,20 @@ From {{etyl|xno|en}} {{term|paper|lang=fro}}, from {{etyl|fro|en}} {{term|papier
 * {{trreq|ty}}
 * Tajik: {{t-|tg|коғаз|tr=koġaz|sc=Cyrl}}
 * Tamil: {{t+|ta|காகிதம்|tr=kakitham}}
-* Tatar: {{t+|tt|кәгазь|tr=kägaz’|sc=Cyrl}}
+* Tatar: {{t+|tt|кәгазь|tr=käğäz, kägazʹ|sc=Cyrl}}
 * Telugu: {{t+|te|కాగితము|tr=kāgitamu}}
-* Tetum: [[surat-tahan]]
+* Tetum: {{t|tet|surat-tahan}}
 * Thai: {{t+|th|กระดาษ|tr=gràdàat|sc=Thai}}
 * Tibetan: {{t-|bo|ཤོག་བུ།|tr=shog bu|sc=Tibt}}
 * Tok Pisin: {{t-|tpi|pepa}}
-* Tupinambá: [[kûatîara]]
+* Tupinambá: {{t|tpn|kûatîara}}
 * Turkish: {{t+|tr|kâğıt}}
 * Turkmen: {{t-|tk|kagyz}}
-* Tz'utujil: [[wuuj]]
+* Tz'utujil: {{t|tzj|wuuj}}
 * Ukrainian: {{t+|uk|папір|m|tr=papír}}
 * Urdu: {{t-|ur|کاغذ|m|tr=kāġaz|sc=ur-Arab}}
 * Uyghur: {{t-|ug|قەغەز|tr=qeghez|sc=ug-Arab}}
-* Uzbek: {{t-|uz|qog'oz}}
+* Uzbek: {{t|uz|qogʻoz}}
 * Vietnamese: {{t+|vi|giấy}} ({{t-|vi|紙}})
 * Welsh: {{t+|cy|papur|m}}
 * West Frisian: {{t-|fy|papier|n}}
@@ -221,12 +221,12 @@ From {{etyl|xno|en}} {{term|paper|lang=fro}}, from {{etyl|fro|en}} {{term|papier
 * Arabic: {{t-|ar|ورقة|alt=وَرَقَة}}
 * Bulgarian: {{t+|bg|документ|m}}, {{t+|bg|статия|f}}
 * Catalan: {{t+|ca|article|m}}
-* Czech: [[článek]] {{m}} {{qualifier|scientific}}
+* Czech: {{qualifier|scientific}} {{t|cs|článek|m}}
 * Dutch: {{t+|nl|document|n}}, {{t+|nl|werk|n}}, {{t-|nl|eindwerk|n}}
 * Finnish: {{t-|fi|raportti}}, {{t+|fi|paperi}}
 * German: {{t+|de|Papier|n}}, {{t+|de|Dokument|n}}
 * Greek: {{t+|el|έγγραφο|n}}
-* Indonesian: surat-surat, dokumen
+* Indonesian: {{t|id|surat-surat}}, {{t|id|dokumen}}
 * Macedonian: {{t-|mk|документ|m|tr=dokumént}}
 * Norwegian: {{t+|no|artikkel|m}}
 {{trans-mid}}
@@ -249,7 +249,7 @@ From {{etyl|xno|en}} {{term|paper|lang=fro}}, from {{etyl|fro|en}} {{term|papier
 * Czech: {{t+|cs|článek|m}}
 * Faroese: {{t-|fo|ritgerð|f}}
 * Finnish: {{t+|fi|tutkielma}}, {{t+|fi|tutkimus}}, {{t+|fi|artikkeli}}, {{t-|fi|esitelmä}}
-* Indonesian: karangan, tesis, naskah
+* Indonesian: {{t|id|karangan}}, {{t|id|tesis}}, {{t|id|naskah}}
 {{trans-mid}}
 * Italian: {{t+|it|articolo|m}}, {{t+|it|pubblicazione|f}}, {{t+|it|saggio|m}}, {{t+|it|studio|m}}, {{t+|it|ricerca|f}}
 * Japanese: {{t+|ja|論文|tr=[[ろんぶん]], ronbun}}
@@ -260,7 +260,7 @@ From {{etyl|xno|en}} {{term|paper|lang=fro}}, from {{etyl|fro|en}} {{term|papier
 {{trans-bottom}}
 
 {{trans-top|scholastic essay}}
-*French : {{t+|fr|rédaction|f}}
+* French: {{t+|fr|rédaction|f}}
 {{trans-mid}}
 {{trans-bottom}}
 
