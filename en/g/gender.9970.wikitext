@@ -68,7 +68,7 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{term|gendre|lang=frm}}, {{term|genr
 * {{trreq|am}}
 * Arabic: {{t+|ar|جنس|m|tr=jins}}
 * {{trreq|an}}
-* Armenian: {{t-|hy|սեռ|tr=seṙ}}
+* Azeri: {{t|az|cins}}
 * {{trreq|as}}
 * Asturian: {{t-|ast|xéneru|m}}
 * {{trreq|ay}}
@@ -166,7 +166,9 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{term|gendre|lang=frm}}, {{term|genr
 * {{trreq|an}}
 * Armenian: {{t-|hy|սեռ|tr=seṙ}}
 * Asturian: {{t-|ast|sexu|m}}
-* Belarusian: {{t-|be|пол|m|tr=pol|sc=Cyrl}}
+* Azeri: {{t|az|cins}}
+* Belarusian: {{t-|be|пол|m|tr=pol|sc=Cyrl}}, {{t|be|плоць|f|tr=plocʹ|sc=Cyrl}}
+* Bengali: {{t|bn|লিঙ্গ|tr=ling|sc=Beng}}
 * Bulgarian: {{t-|bg|пол|m|tr=pol|sc=Cyrl}}
 * Catalan: {{t-|ca|sexe|m}}
 * {{trreq|chr}}
@@ -185,35 +187,48 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{term|gendre|lang=frm}}, {{term|genr
 * Georgian: {{t-|ka|სქესი|tr=sk'esi|sc=Geor}}
 * German: {{t+|de|Geschlecht|n}}
 * Greek: {{t+|el|φύλο|n|tr=fílo}}
-* Hebrew: {{t+|he|מגדר}}
+* Hebrew: {{t+|he|מגדר|tr=migdár}}
+* Hindi: {{t|hi|लिंग|m|tr=liṅg|sc=Deva}}
 * Icelandic: {{t+|is|kyn|n}}
 {{trans-mid}}
-* Indonesian: {{t+|id|jenis}}
+* Indonesian: {{t+|id|jenis}}, {{t|id|jenis kelamin}}
 * Japanese: {{t+|ja|性|tr=せい, sei}}, {{t+|ja|性別|tr=せいべつ, seibetsu}}
+* Kazakh: {{t|kk|жыныс|tr=jınıs|sc=Cyrl}}
 * Khmer: {{t-|km|ជាតិលិង្គ|tr=jiet lɨng|sc=Khmr}}
-* Korean: {{t+|ko|성|tr=seong|sc=Kore}}
+* Korean: {{t+|ko|성|tr=seong|sc=Kore}}, {{t|ko|성별|tr=seongbyeol|sc=Kore}}
+* Kyrgyz: {{t|ky|жыныс|tr=cınıs|sc=Cyrl}}
+* Lao: {{t-|lo|ລິງ|tr=ling|sc=Laoo}}, {{t-|lo|ເພດ|tr=pheet|sc=Laoo}}
 * Latin: {{t+|la|genus|n}}
-* Latvian: {{t+|lv|dzimte|f}}
+* Latvian: {{t+|lv|dzimte|f}}, {{t|lv|dzimums|m}}
 * Lithuanian: {{t+|lt|lytis|m}}
 * Macedonian: {{t-|mk|пол|m|tr=pol}}
 * Malagasy: {{t-|mg|lahi-vavy}}, {{t-|mg|lahy vavy}}, {{t-|mg|lahivavy}}
 * Malay: {{t-|ms|jantina}}
 * {{trreq|mwl}}
 * Norwegian: {{t+|no|kjønn|n}}
-* Persian: {{t+|fa|جنس|tr=jens|sc=fa-Arab}}
+* Persian: {{t+|fa|جنس|tr=jens|sc=fa-Arab}}, {{t+|fa|جنسیت|tr=jensiyat|sc=fa-Arab}}
 * Polish: {{t+|pl|płeć|f}}
 * Portuguese: {{t+|pt|gênero|m}}, {{t+|pt|sexo|m}}
 * Romanian: {{t-|ro|gen}}, {{t+|ro|sex}}
 * Russian: {{t+|ru|пол|m|tr=pol}}
 * Scottish Gaelic: {{t-|gd|gnè|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|пол|m|sc=Cyrl}}
-*: Roman: {{t-|sh|pol|m}}
+*: Cyrillic: {{t-|sh|пол|m|tr=pol|sc=Cyrl}}, {{t|sh|спол|m}}
+*: Roman: {{t-|sh|pol|m}}, {{t|sh|spol|m}}
 * Slovak: {{t-|sk|pohlavie|n}}
 * Slovene: {{t+|sl|spol|m}}
 * Spanish: {{t+|es|sexo|m}}, {{t+|es|género|m}}
 * Swahili: {{t+|sw|jinsia}}
+* Swedish: {{t+|sv|kön|n}}
+* Tagalog: {{t+|tl|kasarian}}
+* Tajik: {{t|tg|ҷинс|tr=jins|sc=Cyrl}}, {{t|tg|ҷинсият|tr=jinsiyat|sc=Cyrl}}
+* Thai: {{t+|th|เพศ|tr=pâyt}}
+* Turkish: {{t+|tr|cinsiyet}}
+* Turkmen: {{t|tk|jyns}}, {{t|tk|pol}}
 * Ukrainian: {{t-|uk|стать|f|tr=statʹ|sc=Cyrl}}
+* Urdu: {{t|ur|جنس|tr=jins|sc=ur-Arab}}
+* Uzbek: {{t|uz|jins}}
+* Vietnamese: {{t+|vi|giới tính}}
 * West Frisian: {{t-|fy|slachte|n}}, {{t-|fy|geslacht|n}}
 {{trans-bottom}}
 
