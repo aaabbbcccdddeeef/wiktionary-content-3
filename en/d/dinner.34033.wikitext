@@ -69,19 +69,21 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch”, but originally “breakfa
 
 ====Translations====
 {{trans-top|main meal of the day}}
-* {{ttbc|ar}}: {{t-|ar|عشاء|tr=3ashaa'|alt=عَشاء|sc=Arab}}
-*: Egyptian Arabic: {{tø|arz|عشاء|tr=3ashaa'|sc=Arab}}
-* Armenian: {{t+|hy|ճաշ|tr=č̣aš|sc=Armn}}
+* Arabic: {{t-|ar|عشاء|f|tr=ʿašāʾ}}
+*: Egyptian Arabic: {{tø|arz|عشاء|tr=ʿašāʾ|sc=Arab}}
+* Armenian: {{t+|hy|ճաշ|sc=Armn}}
 * Basque: {{t+|eu|afari}}
-* Bulgarian: {{t+|bg|вечеря|f|tr=večerja|sc=Cyrl}}
-* Cantonese: {{tø|yue|晚飯|tr=maan<sup>5</sup>faan<sup>6</sup>|sc=Hani}}
+* Bulgarian: {{t+|bg|вечеря|f|tr=večérja|sc=Cyrl}}
+* Chinese:
+*: Cantonese: {{tø|yue|晚飯|tr=maan<sup>5</sup>faan<sup>6</sup>|sc=Hani}}
+*: Gan: {{tø|gan|夜飯|tr=ya5 fan5|sc=Hani}} {{qualifier|eaten in the evening}}
+*: Mandarin: {{t|cmn|晚饭|tr=wǎnfàn|sc=Hani}}, {{t|cmn|晚餐|tr=wǎncān|sc=Hani}} {{qualifier|eaten in the evening}}
 * Czech: {{t+|cs|oběd|m}} {{qualifier|in Czech the midday meal is the main meal}}, {{t+|cs|večeře|f}} {{qualifier|eaten in the evening}}
 * Danish: {{t+|da|middag}}
 * Dutch: {{t+|nl|avondeten|n}}, {{t-|nl|avondmaaltijd|m}}, {{t+|nl|avondmaal|n}}, {{t+|nl|eten|n}}
 * Filipino: {{t-|tl|hapunan}}
 * Finnish: {{t+|fi|päivällinen}}, {{t+|fi|illallinen}}
 * French: {{t+|fr|dîner|m}}, {{qualifier|Belgium|Cajun|Swiss and Canadian French -in Belgium, Louisiana, Romandy and Quebec, "dîner" means "lunch"}} {{t+|fr|souper|m}}
-* Gan: {{tø|gan|夜飯|tr=ya<sup>5</sup> fan<sup>5</sup>|sc=Hani}} {{qualifier|eaten in the evening}}
 * German: {{t-|de|Hauptmahlzeit|f}}
 * Greek: {{t+|el|φαγητό|n|tr=fagitó}}, {{t-|el|κύριο γεύμα|n|tr=kýrio gévma}}
 * Hawaiian: {{tø|haw|ʻaina ahiahi}}
@@ -90,7 +92,7 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch”, but originally “breakfa
 * Ido: {{t+|io|dineo}}
 * Irish: {{t-|ga|dinnéar|m}}
 * Italian: {{t+|it|cena|f}}
-* Japanese: {{t+|ja|夕食|tr={{Jpan|[[ゆうしょく]]}}, yūshoku|sc=Jpan}} {{qualifier|eaten in the evening}}
+* Japanese: {{t+|ja|夕食|tr=ゆうしょく, yūshoku|sc=Jpan}} {{qualifier|eaten in the evening}}
 * Korean: {{t+|ko|저녁|tr=jeonyeog|sc=Kore}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|şîv|f}}
@@ -100,7 +102,6 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch”, but originally “breakfa
 * Lithuanian: {{t-|lt|vakarienė|f}} {{qualifier|eaten in the evening, but the midday meal is the main meal}}
 * Macedonian: {{t-|mk|вечера|f|tr=véčera}} {{qualifier|eaten in the evening}}
 * Maltese: {{t-|mt|ċena|f}}
-* Mandarin: {{t|cmn|晚饭|tr=wănfàn|sc=Hani}}, {{t|cmn|晚餐|tr=wăncān|sc=Hani}} {{qualifier|eaten in the evening}}
 * Mongolian: {{t-|mn|оройн хоол|tr=orojn hool|sc=Cyrl}}
 * Norwegian:
 *: Bokmål: {{t+|no|middag}}
@@ -122,7 +123,7 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch”, but originally “breakfa
 {{trans-bottom}}
 
 {{trans-top|a meal given to an animal}}
-* Bulgarian: {{t+|bg|хранене|n|tr=chranene|sc=Cyrl}}
+* Bulgarian: {{t+|bg|хранене|n|tr=hranene|sc=Cyrl}}
 * Czech: {{t-|cs|žrádlo|n}}, {{t-|cs|krmení|n}}, {{t+|cs|šlichta|f}} {{qualifier|of soup consistence}}
 * Dutch: {{t+|nl|voer}}
 * Finnish: {{t+|fi|ruoka}}
@@ -135,14 +136,16 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch”, but originally “breakfa
 {{trans-bottom}}
 
 {{trans-top|midday meal}}
-* Armenian: {{t+|hy|ճաշ|tr=č̣aš|sc=Armn}}
+* Armenian: {{t+|hy|ճաշ|sc=Armn}}
 * Bulgarian: {{t+|bg|обед|m|tr=obed|sc=Cyrl}}
 * Czech: {{t+|cs|oběd|m}}
 * Danish: {{t+|da|middag}}
 * Dutch: {{t+|nl|middageten|n}}, {{t-|nl|middagmaaltijd|m}}, {{t-|nl|middagmaal|n}}, {{t+|nl|lunch|m}}
 * Finnish: {{t+|fi|lounas}}, {{t+|fi|päivällinen}}
 * French: {{t+|fr|déjeuner|m}}, {{t+|fr|dîner}} {{qualifier|Belgium, Cajun, Swiss, Canadian, Louisiana and Romandy French}}
-* Gan: {{tø|gan|昼飯|tr=jiu<sup>4</sup> fan<sup>5</sup>|sc=Hani}}
+* Chinese:
+*: Gan: {{tø|gan|昼飯|sc=Hani}}, {{tø|gan|昼饭|tr=jiu4 fan5|sc=Hani}}
+*: Mandarin: {{t|cmn|午飯|sc=Hani}}, {{t|cmn|午饭|tr=wǔfàn|sc=Hani}}, {{t|cmn|午餐|tr=wǔcān|sc=Hani}}
 * German: {{t+|de|Mittagessen|n}}
 * Greek: {{t+|el|γεύμα|n|tr=gévma}}, {{t+|el|μεσημεριανό|n|tr=mesimerianó}}
 * Hebrew: {{t-|he|ארוחת-ערב|tr=arukhát érev}}
@@ -150,29 +153,30 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch”, but originally “breakfa
 * Hungarian: {{t+|hu|ebéd}}
 * Irish: {{t-|ga|dinnéar|m}}
 * Italian: {{t+|it|pranzo|m}}
-* Japanese: {{t+|ja|昼食|tr={{Jpan|[[ちゅうしょく]]}}, chūshoku|sc=Jpan}}, {{t-|ja|昼飯|tr={{Jpan|[[ひるめし]]}}, hirumeshi|sc=Jpan}}
+* Japanese: {{t+|ja|昼食|tr=ちゅうしょく, chūshoku|sc=Jpan}}, {{t-|ja|昼飯|tr=ひるめし, hirumeshi|sc=Jpan}}
 * Latvian: {{t-|lv|pusdienas|f-p}}
 * Lithuanian: {{t+|lt|pietūs|m-p}}
 * Macedonian: {{t-|mk|ручек|m|tr=rúček}}
 * Maltese: {{t+|mt|pranzu|m}}
 * Mongolian: {{t-|mn|өдрийн хоол|tr=ôdrijn hool|sc=Cyrl}}, {{t-|mn|үдийн хоол|tr=ùdijn hool|sc=Cyrl}}
 * Romanian: {{t+|ro|prânz|n}}
-* Russian: {{t+|ru|обед|m|tr=ob'éd}}
+* Russian: {{t+|ru|обед|m|tr=obéd}}
 {{trans-bottom}}
 
 {{trans-top|a formal meal}}
 * Armenian: {{t+|hy|ճաշ|tr=č̣aš|sc=Armn}}
-* Bulgarian: {{t+|bg|банкет|m|tr=banket|sc=Cyrl}}
+* Bulgarian: {{t+|bg|банкет|m|tr=bankét|sc=Cyrl}}
 * Czech: {{t+|cs|oběd|m}}, {{t+|cs|večeře|f}}
 * Dutch: {{t-|nl|dinee|n}}
 * Finnish: {{t+|fi|illallinen}}, {{t+|fi|päivällinen}}
 * Greek: {{qualifier|taking place in noon}} {{t+|el|γεύμα|n|tr=gévma}}, {{qualifier|taking place in late afternoon}} {{t+|el|δείπνο|n|tr=deípno}}
 {{trans-mid}}
 * Irish: {{t-|ga|dinnéar|m}}
-* Japanese: {{t-|ja|正餐|tr={{Jpan|[[せいさん]]}}, seisan|sc=Jpan}}
-* Mongolian: {{t-|mn|цайллага|tr=cajllaga|sc=Cyrl}}, {{t-|mn|дайллага|tr=dajllaga|sc=Cyrl}}
+* Japanese: {{t-|ja|正餐|tr=せいさん, seisan|sc=Jpan}}
+* Mongolian: {{t-|mn|цайллага|tr=tsajllaga|sc=Cyrl}}, {{t-|mn|дайллага|tr=dajllaga|sc=Cyrl}}
 * Polish: {{t-|pl|bankiet|m}}
 * Romanian: {{t-|ro|banchet|n}}, {{t-|ro|dineu|n}}
+* Russian: {{t+|ru|обед|m|tr=obéd}}, {{t+|ru|банкет|m|tr=bankét|sc=Cyrl}}
 * Slovene: {{t+|sl|večerja|f}}
 {{trans-bottom}}
 
