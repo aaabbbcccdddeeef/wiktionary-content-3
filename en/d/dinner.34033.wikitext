@@ -75,9 +75,9 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch”, but originally “breakfa
 * Basque: {{t+|eu|afari}}
 * Bulgarian: {{t+|bg|вечеря|f|tr=večérja|sc=Cyrl}}
 * Chinese:
-*: Cantonese: {{tø|yue|晚飯|tr=maan<sup>5</sup>faan<sup>6</sup>|sc=Hani}}
-*: Gan: {{tø|gan|夜飯|tr=ya5 fan5|sc=Hani}} {{qualifier|eaten in the evening}}
-*: Mandarin: {{t|cmn|晚饭|tr=wǎnfàn|sc=Hani}}, {{t|cmn|晚餐|tr=wǎncān|sc=Hani}} {{qualifier|eaten in the evening}}
+*: Cantonese: {{tø|yue|晚飯|sc=Hani}}, {{tø|yue|晚饭|tr=maan5 faan6|sc=Hani}}
+*: Gan: {{tø|gan|夜飯|sc=Hani}}, {{tø|gan|夜饭|tr=ya5 fan5|sc=Hani}} {{qualifier|eaten in the evening}}
+*: Mandarin: {{t|cmn|晚飯|sc=Hani}}, {{t|cmn|晚饭|tr=wǎnfàn|sc=Hani}}, {{t|cmn|晚餐|tr=wǎncān|sc=Hani}} {{qualifier|eaten in the evening}}
 * Czech: {{t+|cs|oběd|m}} {{qualifier|in Czech the midday meal is the main meal}}, {{t+|cs|večeře|f}} {{qualifier|eaten in the evening}}
 * Danish: {{t+|da|middag}}
 * Dutch: {{t+|nl|avondeten|n}}, {{t-|nl|avondmaaltijd|m}}, {{t+|nl|avondmaal|n}}, {{t+|nl|eten|n}}
@@ -138,15 +138,15 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch”, but originally “breakfa
 {{trans-top|midday meal}}
 * Arabic: {{t|ar|غداء|m|tr=ġadāʾ|sc=Arab}}
 * Armenian: {{t+|hy|ճաշ|sc=Armn}}
-* Bulgarian: {{t+|bg|обед|m|tr=obed|sc=Cyrl}}
+* Bulgarian: {{t+|bg|обед|m|tr=obéd|sc=Cyrl}}
+* Chinese:
+*: Gan: {{tø|gan|昼飯|sc=Hani}}, {{tø|gan|昼饭|tr=jiu4 fan5|sc=Hani}}
+*: Mandarin: {{t|cmn|午飯|sc=Hani}}, {{t|cmn|午饭|tr=wǔfàn|sc=Hani}}, {{t|cmn|午餐|tr=wǔcān|sc=Hani}}
 * Czech: {{t+|cs|oběd|m}}
 * Danish: {{t+|da|middag}}
 * Dutch: {{t+|nl|middageten|n}}, {{t-|nl|middagmaaltijd|m}}, {{t-|nl|middagmaal|n}}, {{t+|nl|lunch|m}}
 * Finnish: {{t+|fi|lounas}}, {{t+|fi|päivällinen}}
 * French: {{t+|fr|déjeuner|m}}, {{t+|fr|dîner}} {{qualifier|Belgium, Cajun, Swiss, Canadian, Louisiana and Romandy French}}
-* Chinese:
-*: Gan: {{tø|gan|昼飯|sc=Hani}}, {{tø|gan|昼饭|tr=jiu4 fan5|sc=Hani}}
-*: Mandarin: {{t|cmn|午飯|sc=Hani}}, {{t|cmn|午饭|tr=wǔfàn|sc=Hani}}, {{t|cmn|午餐|tr=wǔcān|sc=Hani}}
 * German: {{t+|de|Mittagessen|n}}
 {{trans-mid}}
 * Greek: {{t+|el|γεύμα|n|tr=gévma}}, {{t+|el|μεσημεριανό|n|tr=mesimerianó}}
@@ -182,7 +182,6 @@ From {{etyl|fro|en}} {{term|disner||lang=fro|lunch”, but originally “breakfa
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{t-|ar|غذاء|tr=ğaðá:’|sc=Arab}}
 * {{ttbc|br}}: {{t+|br|koan|f}}
 * {{ttbc|ca}}: {{t+|ca|sopar|m}}
 * {{ttbc|ia}}: {{t-|ia|dinar}}, {{t-|ia|cena}}
