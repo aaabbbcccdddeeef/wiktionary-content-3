@@ -44,9 +44,9 @@ From {{etyl|enm|en}} {{term|feer|lang=enm}}, {{term|fere|lang=enm}}, {{term|fer|
 * Afrikaans: {{t|af|vrees}}
 * Albanian: {{t|sq|frikë|f}}
 * {{trreq|am}}
-* Arabic: {{t-|ar|خوف|m|tr=khawf}}
+* Arabic: {{t-|ar|خوف|m|tr=xawf}}
 * {{trreq|an}}
-* Armenian: {{t-|hy|վախ|tr=vax}}, {{t+|hy|երկյուղ|tr=erkyuġ}}, {{t-|hy|ահ|tr=ah}}
+* Armenian: {{t-|hy|վախ}}, {{t+|hy|երկյուղ}}, {{t-|hy|ահ}}
 * Asturian: {{t-|ast|mieu|m}}
 * {{trreq|ay}}
 * Azeri: {{t|az|qorxu}}
@@ -71,7 +71,7 @@ From {{etyl|enm|en}} {{term|feer|lang=enm}}, {{term|fere|lang=enm}}, {{term|fer|
 * French: {{t+|fr|peur|f}}, {{t+|fr|crainte|f}}
 * {{trreq|fur}}
 * Galician: {{t+|gl|medo|m}}
-* Georgian: {{t-|ka|ზარი|tr=zari|sc=Geor}}
+* Georgian: {{t-|ka|ზარი|sc=Geor}}
 * German: {{t+|de|Angst|f}}, {{t+|de|Schreck|m}}, {{t|de|Furcht|f}}
 * Gothic: {{tø|got|𐌰𐌲𐌹𐍃|tr=agis|sc=Goth}}
 * Greek: {{t+|el|φόβος|m|tr=fóvos}}
@@ -125,7 +125,7 @@ From {{etyl|enm|en}} {{term|feer|lang=enm}}, {{term|fere|lang=enm}}, {{term|fer|
 * {{trreq|pa}}
 * Romanian: {{t+|ro|frică|f}}, {{t+|ro|teamă|f}}
 * Romansch: {{t-|rm|tema|f}}
-* Russian: {{t+|ru|страх|m|tr=stráx}}, {{t+|ru|боязнь|f|tr=bojázn'}}, {{t+|ru|опасение|n|tr=opasénije|sc=Cyrl}}
+* Russian: {{t+|ru|страх|m|tr=stráx}}, {{t+|ru|боязнь|f|tr=bojáznʹ}}, {{t+|ru|опасение|n|tr=opasénije|sc=Cyrl}}
 * Sanskrit: {{t|sa|भय|n|tr=bhaya|sc=Deva}}
 * {{trreq|sco}}
 * Scottish Gaelic: {{t-|gd|eagal|m}}, {{t-|gd|uabhas|m}}, {{t-|gd|oillt|f}}
@@ -163,100 +163,50 @@ From {{etyl|enm|en}} {{term|feer|lang=enm}}, {{term|fere|lang=enm}}, {{term|fer|
 {{trans-bottom}}
 
 {{trans-top|a phobia; sense of fear induced by something or someone}}
-* {{trreq|af}}
-* {{trreq|sq}}
-* {{trreq|am}}
-* {{trreq|ar}}
-* {{trreq|an}}
 * Armenian: {{t-|hy|վախ|tr=vax}}
-* {{trreq|as}}
 * Asturian: {{t-|ast|mieu|m}}
-* {{trreq|ay}}
-* {{trreq|az}}
-* {{trreq|be}}
-* {{trreq|bn}}
-* {{trreq|br}}
 * Bulgarian: {{t+|bg|фобия|f|sc=Cyrl}}
 * Catalan: {{t+|ca|por|f}}, {{t-|ca|paüra|f}}, {{t-|ca|basarda|f}}, {{t-|ca|temor|m|f}}
-* {{trreq|chr}}
-* {{trreq|ny}}
 * Chinese:
-*: {{ttbc|cmn}}: {{t-|cmn|恐怖|tr=kǒngbù|sc=Hans}}
+*: Mandarin: {{t|cmn|恐怖|tr=kǒngbù|sc=Hani}}
 * Czech: {{t+|cs|strach|m}}
 * Danish: {{t+|da|angst}}, {{t+|da|frygt|c}}
-* {{trreq|dv}}
 * Dutch: {{t+|nl|angst|f}}, {{t+|nl|schrik|f}}
 * Esperanto: {{t+|eo|timo}}, {{t-|eo|fobio}}
 * Estonian: {{t-|et|hirm}}, {{t-|et|kartus}}
-* {{trreq|ee}}
-* {{trreq|ext}}
 * Finnish: {{t+|fi|pelko}}
 * French: {{t+|fr|crainte|f}}, {{t+|fr|peur|f}}
-* {{trreq|fur}}
 * Galician: {{t+|gl|medo|m}}
-* Georgian: {{t-|ka|შიში|tr=šiši|sc=Geor}}
+* Georgian: {{t-|ka|შიში|sc=Geor}}
 * German: {{t+|de|Angst|f}}, {{t+|de|Furcht|f}}, {{t+|de|Phobie|f}}
 * Greek: {{t+|el|φοβία|tr=fovía|f}}
-* {{trreq|gu}}
-* {{trreq|ha}}
 * Hawaiian: {{tø|haw|makaʻu}}
-* {{trreq|he}}
-* {{trreq|hi}}
-* {{trreq|hu}}
-* {{trreq|is}}
-* {{trreq|io}}
-* {{trreq|ig}}
-* {{trreq|id}}
-* {{trreq|ia}}
-* {{trreq|ie}}
 * Irish: {{t+|ga|eagla|f}}
 {{trans-mid}}
 * Italian: {{t+|it|paura|f}}
 * Japanese: {{t-|ja|恐怖症|tr=kyōfushō}}
-* {{trreq|jv}}
-* {{trreq|kn}}
 * Khmer: {{t-|km|សេចក្ដីខ្លាច|tr=səchkdəy klaach|sc=Khmr}}
-* {{trreq|rw}}
-* {{trreq|rn}}
-* {{trreq|ko}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|tirs|f}}
 *: Sorani: {{t+|ku|ترس|tr=tirs|sc=ku-Arab}}, {{t-|ku|ترس و له‌رز|tr=tirs u larz|sc=ku-Arab}}
 * Latin: {{t-|la|pavor}}
 * Malay: {{t-|ms|ketakutan}}
-* {{trreq|ml}}
-* {{trreq|mr}}
-* {{trreq|mwl}}
 * Occitan: {{t+|oc|paur|f}}
 * Old French: {{tø|fro|peor|f}}
-* {{trreq|or}}
-* {{trreq|ps}}
-* {{trreq|fa}}
 * Polish: {{t+|pl|lęk|m}}
 * Portuguese: {{t+|pt|fobia|f}}, {{t+|pt|medo|m}}, {{t+|pt|temor|m}}, {{t+|pt|pavor|m}}
-* {{trreq|pa}}
-* {{trreq|raj}}
 * Romanian: {{t-|ro|fobie}}
 * Romansch: {{t-|rm|tema|f}}
-* Russian: {{t+|ru|страх|m|tr=stráχ}}, {{t+|ru|боязнь|f|tr=bojázn'}}, {{t+|ru|фобия|f|tr=fóbija}}
+* Russian: {{t+|ru|страх|m|tr=stráx}}, {{t+|ru|боязнь|f|tr=bojáznʹ}}, {{t+|ru|фобия|f|tr=fóbija}}
 * {{trreq|sco}}
 * Scottish Gaelic: {{t-|gd|eagal|m}}, {{t-|gd|uabhas|m}}, {{t-|gd|oillt|f}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|страх|m}}
 *: Roman: {{t-|sh|strah|m}}
-* {{trreq|scn}}
-* {{trreq|sd}}
-* {{trreq|si}}
-* {{trreq|sk}}
 * Slovene: {{t+|sl|strah|m}}
-* {{trreq|so}}
 * Spanish: {{t+|es|miedo|m}}
 * Swedish: {{t+|sv|fruktan}}, {{t+|sv|rädsla}}
 * Tagalog: {{t-|tl|takot}}
-* {{trreq|tg}}
-* {{trreq|ta}}
-* {{trreq|vo}}
-* {{trreq|wa}}
 {{trans-bottom}}
 
 {{trans-top|extreme veneration or awe}}
@@ -286,23 +236,23 @@ From {{etyl|enm|en}} {{term|feer|lang=enm}}, {{term|fere|lang=enm}}, {{term|fer|
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sq}}: [[frikë]] {{f}}
-* {{ttbc|br}}: [[aon]] {{m}}
-* {{ttbc|eo}}: [[timo#Esperanto|timo]]
-* {{ttbc|gn}}: [[kyhyje]]
-* {{ttbc|he}}: [[פחד]] (pákhad) {{m}}
-* {{ttbc|id}}: [[takut]]
-* {{ttbc|ia}}: [[timor]], [[pavor]]
-* {{ttbc|la}}: [[timor]], [[pavor]], [[metus]]
+* {{ttbc|sq}}: {{t|sq|frikë|f}}
+* {{ttbc|br}}: {{t|br|aon|m}}
+* {{ttbc|eo}}: {{t|eo|timo}}
+* {{ttbc|gn}}: {{t|gn|kyhyje}}
+* {{ttbc|he}}: {{t|he|פחד|m|tr=pákhad|sc=Hebr}}
+* {{ttbc|id}}: {{t|id|takut}}
+* {{ttbc|ia}}: {{t|ia|timor}}, {{t|ia|pavor}}
+* {{ttbc|la}}: {{t|la|timor}}, {{t|la|pavor}}, {{t|la|metus}}
 {{trans-mid}}
-* {{ttbc|mi}}: [[mataku]]
-* {{ttbc|se}}: [[ballu]]
-* {{ttbc|ang}}: [[ege#Old English|eġe]]
-* {{ttbc|ro}}: [[frică]] {{f}}, [[teamă]] {{f}}
-* {{ttbc|es}}: [[miedo]] {{m}}, [[temor]] {{m}}
-* {{ttbc|tpn}}: [[sykyîé]]
-* {{ttbc|tr}}: [[korku]]
-* {{ttbc|te}}: [[భయం]]
+* {{ttbc|mi}}: {{t|mi|mataku}}
+* {{ttbc|se}}: {{t|se|ballu}}
+* {{ttbc|ang}}: {{t|ang|ege|alt=eġe|sc=Latinx}} <!-- was "[[ege#Old English|eġe]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|ro}}: {{t|ro|frică|f}}, {{t|ro|teamă|f}}
+* {{ttbc|es}}: {{t|es|miedo|m}}, {{t|es|temor|m}}
+* {{ttbc|tpn}}: {{t|tpn|sykyîé}}
+* {{ttbc|tr}}: {{t|tr|korku}}
+* {{ttbc|te}}: {{t|te|భయం|sc=Telu}}
 {{trans-bottom}}
 
 ===Etymology 2===
