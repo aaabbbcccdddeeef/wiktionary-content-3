@@ -48,17 +48,17 @@
 
 ====Translations====
 {{trans-top|remote in space}}
-* Arabic: {{t+|ar|بعيد|tr=ba3iid|sc=Arab}}
-*: Egyptian Arabic: {{tø|arz|بعيد|m|tr=beʕiid|sc=Arab}}, {{tø|arz|بعيدة|f|tr=beʕiida|sc=Arab}}, {{tø|arz|بعاد|p|tr=buʕaad|sc=Arab}}
-* Armenian: {{t-|hy|հեռու|tr=heṙu|sc=Armn}}
+* Arabic: {{t+|ar|بعيد|alt=بَعِيدٌ|tr=baʿīd|sc=Arab}}
+*: Egyptian Arabic: {{tø|arz|بعيد|m|tr=beʿīd|sc=Arab}}, {{tø|arz|بعيدة|f|tr=beʕiida|sc=Arab}}, {{tø|arz|بعاد|p|tr=buʿād|sc=Arab}}
+* Armenian: {{t-|hy|հեռու|sc=Armn}}
 * Aromanian: {{t-|rup|diparte}}
 * Bashkir: {{tø|ba|алыҫ|sc=Cyrl}}, {{tø|ba|йыраҡ|sc=Cyrl}}
 * Belarusian: {{t|be|далёкі|tr=daljóki|sc=Cyrl}}
-* Bulgarian: {{t+|bg|далечен|sc=Cyrl}}
+* Bulgarian: {{t+|bg|далечен|tr=daléčen|sc=Cyrl}}
 * Burmese: {{t+|my|ဝေးကွာ|tr=we:kwa|sc=Mymr}}
 * Catalan: {{t-|ca|llunyà}}
 * Chinese:
-*: Mandarin: {{t-|cmn|遠|alt=遠的|sc=Hani}}, {{t-|cmn|远|alt=远的|tr=yuǎn de|sc=Hani}}, {{t|cmn|遠離|alt=遠離的|sc=Hani}}, {{t|cmn|远离|alt=远离的|tr=yuǎnlí de|sc=Hani}}, {{t|cmn|更遠|alt=更遠的|sc=Hani}}, {{t|cmn|更远|alt=更远的|tr=gèngyuǎn de|sc=Hani}}
+*: Mandarin: {{t|cmn|遠|alt=遠的|sc=Hani}}, {{t|cmn|远|alt=远的|tr=yuǎn de|sc=Hani}}, {{t|cmn|遠離|alt=遠離的|sc=Hani}}, {{t|cmn|远离|alt=远离的|tr=yuǎnlí de|sc=Hani}}, {{t|cmn|更遠|alt=更遠的|sc=Hani}}, {{t|cmn|更远|alt=更远的|tr=gèngyuǎn de|sc=Hani}}
 * Crimean Tatar: {{tø|crh|erek}}
 * Czech: {{t-|cs|daleký}}
 * Danish: {{t-|da|langt borte}}, {{t+|da|fjern}}
@@ -69,16 +69,16 @@
 * Friulian: {{tø|fur|lontan}}
 * Georgian: {{t-|ka|შორეული|sc=Geor}}
 * German: {{t+|de|fern}}, [[weit]] {{t+|de|entfernt}}, {{gloss|far away}} {{t-|de|weit weg}}
-* Greek: {{t+|el|μακριά}} (makriá)
+* Greek: {{t+|el|μακριά|tr=makriá}}
 * Hebrew: {{t+|he|רחוק|tr=rakhók|sc=Hebr}}
 * Hindi: {{t+|hi|दूर|tr=dūr|sc=Deva}}
 * Hungarian: {{t+|hu|messze}}
 * Icelandic: {{t-|is|fjarri}}
 * Ido: {{t+|io|distanta}}
 * Italian: {{t+|it|lontano}}
-* Japanese: {{t+|ja|遠い|tr=とおい, tōi|sc=Jpan}}, {{t-|ja|遥か|tr=はるかな, haruka-na|alt=遥かな|sc=Jpan}}
+* Japanese: {{t+|ja|遠い|tr=とおい, tōi|sc=Jpan}}, {{t-|ja|遥か|tr=はるかな, haruka na|alt=遥かな|sc=Jpan}}
 * Kazakh: {{t|kk|алыс|tr=alıs|sc=Cyrl}}
-* Korean: {{t+|ko|먼|tr=meon|sc=Kore}}, {{qualifier|predicative}} {{t+|ko|멀다|tr=meolda|sc=Kore}}
+* Korean: {{t+|ko|먼|tr=meon|sc=Kore}}, {{t+|ko|멀다|tr=meolda|sc=Kore}} {{qualifier|predicative}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|dûr}}
 *: Sorani: {{t|ku|sc=ku-Arab|دوور}}
@@ -95,14 +95,14 @@
 * Occitan: {{t+|oc|luènh}}
 * Pashto: {{t-|ps|لرې|tr=lëre}}
 * Persian: {{t+|fa|دور|tr=dur|sc=fa-Arab}}
-* Polish: {{t+|pl|daleki|m}}, {{t-|pl|daleka|m}}, {{t-|pl|dalekie|n}}
+* Polish: {{t+|pl|daleki|m}}
 * Portuguese: {{t+|pt|longe}}, {{t+|pt|distante}}
 * Romani: {{tø|rom|dur}}
 * Romanian: {{t+|ro|departe}}
-* Russian: {{t+|ru|дальний|tr=dál’nij}}, {{t+|ru|далёкий|tr=daljókij}}
+* Russian: {{t+|ru|дальний|tr=dálʹnij}}, {{t+|ru|далёкий|tr=daljókij}}
 * Scots: {{tø|sco|faur}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|далек}}
+*: Cyrillic: {{t|sh|далек|sc=Cyrl}}
 *: Roman: {{t|sh|dalek}}
 * Seri: {{tø|sei|aamo}} (intermediate distance, a bit far)
 * Sicilian: {{t+|scn|luntanu}}
@@ -115,6 +115,7 @@
 * Telugu: {{t+|te|దూరము|tr=dooramu|sc=Telu}}
 * Thai: {{t+|th|ไกล|tr=klai|sc=Thai}}
 * Turkish: {{t+|tr|uzak}}
+* Ukrainian: {{t-|uk|далекий|tr=dalékyj|sc=Cyrl}}
 * Urdu: {{t-|ur|دور|tr=dūr|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|xa}}, {{t+|vi|xa xôi}}
 * West Frisian: {{t+|fy|fier}}
