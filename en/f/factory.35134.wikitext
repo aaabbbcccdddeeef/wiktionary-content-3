@@ -40,8 +40,8 @@ From {{etyl|ML.|en}} {{term|factoria}}, from {{etyl|la|en}} {{term|factor|lang=l
 ====Translations====
 {{trans-top|manufacturing place}}
 * Afrikaans: {{t-|af|fabriek}}
-* Arabic: {{t-|ar|مصنع|m|alt=مَصْنَع|tr=máSna3}}, {{t-|ar|معمل|m|tr=má3mal|sc=Arab}}
-* Armenian: {{t-|hy|գործարան|tr=gorçaran}}
+* Arabic: {{t-|ar|مصنع|m|alt=مَصْنَع|tr=máṣnaʿ}}, {{t-|ar|معمل|m|tr=máʿmal|sc=Arab}}
+* Armenian: {{t-|hy|գործարան}}
 * Belarusian: {{t-|be|фабрыка|f|tr=fábryka|sc=Cyrl}}, {{t-|be|завод|m|tr=zavód|sc=Cyrl}}
 * Bulgarian: {{t+|bg|фабрика|f|tr=fábrika|sc=Cyrl}}, {{t+|bg|завод|m|tr=zavód|sc=Cyrl}}
 * Chinese:
@@ -50,10 +50,10 @@ From {{etyl|ML.|en}} {{term|factoria}}, from {{etyl|la|en}} {{term|factor|lang=l
 * Danish: {{t-|da|fabrik|c}}, {{t-|da|fabriksbygning|c}}
 * Dutch: {{t+|nl|fabriek|f}}
 * Esperanto: {{t-|eo|fabriko}}
-* Finnish: {{t+|fi|tehdas}}, [[tehdaslaitos]], [[tuotantolaitos]], [[teollisuuslaitos]]
+* Finnish: {{t+|fi|tehdas}}, {{t|fi|tehdaslaitos}}, {{t|fi|tuotantolaitos}}, {{t|fi|teollisuuslaitos}}
 * French: {{t+|fr|usine|f}}
-* Kyrgyz: {{t+|ky|фабрика}}, {{t+|ky|завод}}, {{t+|ky|зоот}}
-* Georgian: {{t-|ka|ქარხანა|tr=karkhana|sc=Geor}}
+* Kyrgyz: {{t+|ky|фабрика|tr=fabrika}}, {{t+|ky|завод|tr=zavod}}, {{t+|ky|зоот|tr=zoot}}
+* Georgian: {{t-|ka|ქარხანა|sc=Geor}}
 * German: {{t+|de|Fabrik|f}}, {{t+|de|Manufaktur|f}}
 * Greek: {{t+|el|εργοστάσιο|n|tr=ergostásio}}
 * Hebrew: {{t-|he|מפעל|tr=mif`ál|m}}
@@ -67,15 +67,20 @@ From {{etyl|ML.|en}} {{term|factoria}}, from {{etyl|la|en}} {{term|factor|lang=l
 * Korean: {{t+|ko|공장|tr=gongjang|sc=Kore}} ({{t+|ko|工場|sc=Kore}})
 * Kurdish:
 *: Sorani: {{t-|ku|کارگه‌|sc=ku-Arab}}, {{t+|ku|کارخانه‌|sc=ku-Arab}}
+* Macedonian: {{t-|mk|фабрика|f|tr=fábrika}}, {{t-|mk|погон|m|tr=pógon}}
 * Malay: {{t-|ms|kilang}}, {{t-|ms|pabrik}}
-* Neapolitan: [[fràveca]] {{f}}
+* Neapolitan: {{t|nap|fràveca|f}}
 * Norwegian: {{t+|no|fabrikk|m}}
 * Persian: {{t+|fa|کارخانه|tr=kârxâne}}
-* Polish: {{t+|pl|fabryka|f}}
+* Polish: {{t+|pl|fabryka|f}}, {{t+|pl|zakład|m}}
 * Portuguese: {{t+|pt|fábrica}}
 * Russian: {{t+|ru|фабрика|f|tr=fábrika}}, {{t+|ru|завод|m|tr=zavód}}
-* Scottish Gaelic: [[taigh-oibre]] {{m}}, [[taigh-gnìomhachais]] {{m}}, [[taigh-ceàirde]] {{m}}, [[taigh-tionnsgain]] {{m}}
-* Serbo-Croatian: {{t-|sh|tvornica|f}},  {{t-|sh|фабрика|f|tr=fabrika|sc=Cyrl}}
+* Scottish Gaelic: {{t|gd|taigh-oibre|m}}, {{t|gd|taigh-gnìomhachais|m}}, {{t|gd|taigh-ceàirde|m}}, {{t|gd|taigh-tionnsgain|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|фабрика|f|sc=Cyrl}}, {{t|sh|творница|f|sc=Cyrl}}
+*: Roman: {{t|sh|fabrika|f}}, {{t|sh|tvornica|f}}
+* Slovak: {{t|sk|továreň|f}}, {{t|sk|fabrika|f}}
+* Slovene: {{t|sl|tovarna|f}}
 * Sotho: {{t-|st|faboriki}}
 * Spanish: {{t+|es|fábrica|f}}
 * Swedish: {{t+|sv|fabrik|c}}
@@ -100,7 +105,7 @@ From {{etyl|ML.|en}} {{term|factoria}}, from {{etyl|la|en}} {{term|factor|lang=l
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|id}}: [[pabrik]]
+* {{ttbc|id}}: {{t|id|pabrik}}
 {{trans-bottom}}
 
 ====External links====
