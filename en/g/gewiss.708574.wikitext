@@ -37,10 +37,13 @@
 ==Old English==
 
 ===Alternative forms===
-* [[gewis|ġewis]]
+* {{l|ang|gewis|ġewis}}
 
 ===Etymology===
-Proto-Germanic {{recons|gawissaz||certain|lang=gem-pro}}. Akin to {{etyl|osx|-}} ''[[gewiss#Old Saxon|gewiss]]'', {{etyl|odt|-}} ''[[gewisso#Old Dutch|gewisso]]'' ({{etyl|nl|-}} ''[[gewis#Dutch|gewis]]''), {{etyl|de|-}} ''[[gewiss#German|gewiss]]'' "sure, certain", {{etyl|ang|-}} ''[[witan#Old English|witan]]'' "to know", {{etyl|ang|-}} ''[[wis#Old English|wīs]]'' "wise"
+From {{etyl|gem-pro|ang}} {{recons|gawissaz||certain|lang=gem-pro}}. Akin to {{etyl|osx|-}} {{term|gewiss|lang=osx}}, {{etyl|odt|-}} {{term|gewisso|lang=odt}} ({{etyl|nl|-}} {{term|gewis|lang=nl}}), {{etyl|de|-}} {{term|gewiss||sure, certain|lang=de}}, {{etyl|ang|-}} {{term|witan||to know|lang=ang}}, {{etyl|ang|-}} {{term|wis|wīs|wise|lang=ang}}.
+
+===Pronunciation===
+* {{IPA|/jeˈwisː/|lang=ang}}
 
 ===Noun===
 {{ang-noun|head=ġewiss|g=n}}
@@ -51,17 +54,19 @@ Proto-Germanic {{recons|gawissaz||certain|lang=gem-pro}}. Akin to {{etyl|osx|-}}
 {{ang-decl-noun-a-n|gewiss|alt1=ġewiss}}
 
 ===Adjective===
-{{head|ang|adjective|head=ġewiss}}
+{{ang-adj|head=ġewiss}}
 
 # [[certain]], [[sure]]
 # [[trustworthy]], [[reliable]]; [[knowing]], [[aware]]
 
+====Declension====
+{{ang-adjdec-long-cons-loss|ġewiss|ġewis}}
+
 ====Usage notes====
-* When used adverbally with [[mid#Old English|mid]], (i.e. '''''[[mid gewisse#Old English|mid ġewisse]]'''''), the word means "especially", or "certainly"
+* When used adverbally with {{term|mid|lang=ang}}, (i.e. {{term|mid gewisse|mid ġewisse|lang=ang}}), the word means "especially", or "certainly"
 
 ====Descendants====
-* English [[ywis#English|ywis]], [[iwis#English|iwis]]
-* English [[wis#English|wis]], [[wiss#English|wiss]]
+* English {{l/en|ywis}}, {{l/en|iwis}}, {{l/en|wis}}, {{l/en|wiss}}
 
 [[de:gewiss]]
 [[fr:gewiss]]
