@@ -1,10 +1,10 @@
 ==English==
 
 ===Etymology===
-{{etyl|fr|en}} {{term|adulte|lang=fr}}, {{etyl|la|en}} {{term|adultus||grown up|lang=la}}, past participle of {{term|adolescere||to grow up}}; see [[adolescent]].
+{{etyl|fr|en}} {{term|adulte|lang=fr}}, {{etyl|la|en}} {{term|adultus||grown up|lang=la}}, perfect passive participle of {{term|adolesco|adolescō|I grow up}}. Compare [[adolescent]].
 
 ===Pronunciation===
-* {{IPA|/ˈædl̩t/|/əˈdʌlt/|/ˈædʌlt/|}}
+* {{IPA|/ˈædl̩t/|/əˈdʌlt/|/ˈædʌlt/}}
 * {{audio|en-us-adult.ogg|Audio (US)}}
 * {{rhymes|ʌlt}}
 
@@ -12,10 +12,13 @@
 {{en-noun}}
 
 # A [[fully]] [[grown]] [[human]] or [[animal]].
-# {{rfv-sense}}A person who lives outside the [[parental home]].
+# {{rfv-sense|lang=en}}
+A person who lives outside the [[parental home]].
 
 ====Derived terms====
-* [[adultness]]
+* {{l|en|adultivity}}
+* {{l|en|adultly}}
+* {{l|en|adultness}}
 
 ====Translations====
 {{trans-top|fully grown human}}
@@ -23,8 +26,7 @@
 * Armenian: {{t-|hy|մեծահասակ|tr=meçahasak}}, {{t-|hy|չափահաս|tr=čapahas}}
 * Catalan: {{t+|ca|adult}}
 * Chinese:
-*: Mandarin: {{t-|cmn|成人|tr=chéngrén|sc=Hani}},  {{t-|cmn|大人|tr=dàrén|sc=Hani}}
-* Croatian: [[punoljetstvo]]
+*: Mandarin: {{t-|cmn|成人|tr=chéngrén|sc=Hani}}, {{t-|cmn|大人|tr=dàrén|sc=Hani}}
 * Czech: {{t+|cs|dospělý|m}}
 * Danish: {{t+|da|voksen}}
 * Dutch: {{t+|nl|volwassene}}
@@ -36,7 +38,7 @@
 * Hindi: {{t-|hi|वयस्क|m|tr=vayask}}
 * Hungarian: {{t+|hu|felnőtt}}
 * Icelandic: {{t+|is|fullorðinn|m}}
-* Ido: [[adulto]]
+* Ido: {{t|io|adulto}}
 * Italian: {{t+|it|adulto|m}}, {{t-|it|adulta|f}}
 {{trans-mid}}
 * Japanese: {{t+|ja|成人|tr=せいじん, seijin|sc=Jpan}}, {{t+|ja|大人|tr=おとな, otona|sc=Jpan}}
@@ -44,14 +46,16 @@
 * Lao: {{t-|lo|ຜູ້ໃຫ່ຍ|sc=Laoo}}
 * Maori: {{t|mi|pakeke}} {{qualifier|refers to people}}, {{t|mi|kātua}} {{qualifier|refers to animals}}
 * Norwegian: {{t-|no|voksen}}
-* Novial: [[adulte]]
+* Novial: {{t|nov|adulte}}
 * Oriya: {{t-|or|ପ୍ରାପ୍ତବୟସ୍କ|sc=Orya}}
 * Persian: {{t-|fa|بزرگسال|tr=bozorgsâl|sc=fa-Arab}}
-* Polish: [[dorosły]] {{m}}
+* Polish: {{t|pl|dorosły|m}}
 * Portuguese: {{t+|pt|adulto}}
-* Romanian: [[adult#Romanian|adult]] {{m}}, [[adultă]] {{f}}
+* Romanian: {{t|ro|adult|m}}, {{t|ro|adultă|f}}
 * Russian: {{t+|ru|взрослый|tr=vzróslyj|alt=взро́слый}}
-* Serbian: [[odrastao]], [[punoletan]]
+* Serbo-Croatian:
+*: Cyrillic:  {{t|sh|одрастао}}, {{t|sh|пунолетан}}, {{t|sh|пунољетство}}
+*: Roman: {{t|sh|odrastao}}, {{t|sh|punoletan}}, {{t|sh|punoljetstvo}}
 * Sinhalese: {{t-|si|වැඩිහිටියා|sc=Sinh}}
 * Spanish: {{t+|es|adulto|m}}, {{t-|es|adulta|f}}
 * Swahili: {{t-|sw|mtu mzima}}
@@ -83,7 +87,7 @@
 ====Translations====
 {{trans-top|fully grown}}
 * Armenian: {{t-|hy|հասուն|tr=hasun}}
-* Bulgarian: {{t+|bg|възрастен}},  {{t+|bg|пълнолетен}}
+* Bulgarian: {{t+|bg|възрастен}}, {{t+|bg|пълнолетен}}
 * Chinese:
 *: Mandarin: {{t|cmn|成人|sc=Hani}}
 * Czech: {{t+|cs|dospělý}}
@@ -91,23 +95,19 @@
 * German: {{t+|de|erwachsen}}
 * Italian: {{t+|it|adulto|m}}, {{t-|it|adulta|f}}
 {{trans-mid}}
-* Novial: [[adulti]]
-* Polish: [[dorosły]] {{m}}, [[dorosła]] {{f}}
+* Novial: {{t|nov|adulti}}
+* Polish: {{t|pl|dorosły|m}}, {{t|pl|dorosła|f}}
 * Portuguese: {{t+|pt|adulto}}
 * Romanian: {{t+|ro|adult}}
 * Russian: {{t+|ru|взрослый|sc=Cyrl|tr=vzróslyj|alt=взро́слый}}
 * Spanish: {{t+|es|adulto}}
 * Swedish: {{t+|sv|vuxen}}
-* Turkish: {{t+|tr|yetişkin}},  {{t+|tr|ergin}}
+* Turkish: {{t+|tr|yetişkin}}, {{t+|tr|ergin}}
 {{trans-bottom}}
 
 {{trans-top|intended for adults}}
 * Bulgarian: {{t-|bg|за възрастни}}
-* French: pour les [[adulte]]s
-* German: für [[Erwachsene]]
-* Italian: per [[adulto|adulti]]
 {{trans-mid}}
-* Novial: por [[adultes]]
 * Swedish: {{t-|sv|vuxen-}}
 * Turkish: {{t+|tr|yetişkin}}
 {{trans-bottom}}
@@ -125,7 +125,7 @@
 ==Romanian==
 
 ===Etymology===
-{{etyl|fr|ro}} ''[[adulte]]'', {{etyl|la|ro}} ''[[adultus]]''
+{{etyl|fr|ro}} {{term|adulte|lang=fr}}, {{etyl|la|ro}} {{term|adultus|lang=la}}. See above.
 
 ===Adjective===
 {{ro-adj|4}}
@@ -133,27 +133,27 @@
 # [[adult#Adjective|adult]]
 
 ====Declension====
-<center>
-{| style="background:#F0F0F0"
+<left>
+{|style="background:#F0F0F0"
 
 |-
-! colspan="2" style="background:#e2e4c0" | singular
-! colspan="2" style="background:#e2e4c0" | plural
+! colspan="2" style="background:#e2e4c0"|singular
+! colspan="2" style="background:#e2e4c0"|plural
 
 |-
-! style="width:10em;background:#C0C0C0" | masculine & neuter
-! style="width:10em;background:#C0C0C0" | feminine
-! style="width:10em;background:#C0C0C0" | masculine
-! style="width:10em;background:#C0C0C0" | feminine & neuter
+! style="width:10em;background:#C0C0C0"|masculine & neuter
+! style="width:10em;background:#C0C0C0"|feminine
+! style="width:10em;background:#C0C0C0"|masculine
+! style="width:10em;background:#C0C0C0"|feminine & neuter
 
 |-
-| adult
-| adultă
-| adulți
-| adulte
+|adult
+|adultă
+|adulți
+|adulte
 |}
-</center>
-
+</left>
+{{attention|ro|needs proper inflection table}}
 ===Noun===
 {{ro-noun|m|adulți|f=adultă}}
 
