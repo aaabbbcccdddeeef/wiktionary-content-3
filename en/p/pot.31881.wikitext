@@ -10,7 +10,7 @@
 * {{audio|en-us-pot.ogg|Audio (US)}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{term|pot|lang=enm}}, {{term|potte|lang=enm}}, from {{etyl|ang|en}} {{term|pott||a pot|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|puttaz||pot|lang=gem-pro}}, from {{etyl|ine-pro|en}} {{recons|budn-||a type of vessel|lang=ine-pro}}. Cognate with {{etyl|stq|-}} {{term|Pot||pot|lang=stq}}, {{etyl|nl|-}} {{term|pot||pot|lang=nl}}, {{etyl|nds|-}} {{term|Pott||pot|lang=nds}}, {{etyl|de|-}} {{term|Pott||pot|lang=de}}, {{etyl|sv|-}} {{term|pott||pot|lang=sv}}, {{etyl|is|-}} {{term|pottur||tub, pot|lang=is}}. Cognate to Albanian {{term|poç||vase, pot|lang=sq}}.
+From {{etyl|enm|en}} {{term|pot|lang=enm}}, {{term|potte|lang=enm}}, from {{etyl|ang|en}} {{term|pott||a pot|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|gem-pro|*puttaz||pot}}, from {{etyl|ine-pro|en}} {{term/t|ine-pro|*budn-||a type of vessel}}. Cognate with {{etyl|stq|-}} {{term|Pot||pot|lang=stq}}, {{etyl|nl|-}} {{term|pot||pot|lang=nl}}, {{etyl|nds|-}} {{term|Pott||pot|lang=nds}}, {{etyl|de|-}} {{term|Pott||pot|lang=de}}, {{etyl|sv|-}} {{term|pott||pot|lang=sv}}, {{etyl|is|-}} {{term|pottur||tub, pot|lang=is}}. Cognate to Albanian {{term|poç||vase, pot|lang=sq}}.
 
 ====Noun====
 {{en-noun}}
@@ -341,7 +341,7 @@ From a {{etyl|VL.|rup}} *''poteō'', from {{etyl|la|rup}} {{term|possum|lang=la}
 ==French==
 
 ===Etymology===
-From {{etyl|frm|fr}} {{term|pot|lang=frm}}, from {{etyl|fro|fr}} {{term|pot||pot|lang=fro}}, from {{etyl|VL.|fr}} {{term|pottum|lang=la}}, {{term|pottus||pot, jar|lang=la}}, from {{etyl|gem-pro|fr}} {{recons|puttaz||pot, jar, tub|lang=gem-pro}}, from {{etyl|ine-pro|fr}} {{recons|budn-||a kind of vessel|lang=ine-pro}}. More at {{l|en|pot}}.
+From {{etyl|frm|fr}} {{term|pot|lang=frm}}, from {{etyl|fro|fr}} {{term|pot||pot|lang=fro}}, from {{etyl|VL.|fr}} {{term|pottum|lang=la}}, {{term|pottus||pot, jar|lang=la}}, from {{etyl|gem-pro|fr}} {{term/t|gem-pro|*puttaz||pot, jar, tub}}, from {{etyl|ine-pro|fr}} {{term/t|ine-pro|*budn-||a kind of vessel}}. More at {{l|en|pot}}.
 
 ===Pronunciation===
 * {{IPA|/po/|lang=fr}}
@@ -391,7 +391,7 @@ From {{etyl|frm|fr}} {{term|pot|lang=frm}}, from {{etyl|fro|fr}} {{term|pot||pot
 ==Jèrriais==
 
 ===Etymology===
-From {{etyl|fro|roa-jer}} {{term|pot||pot|lang=fro}}, from {{etyl|VL.|roa-jer}} {{term|pottum|lang=la}}, {{term|pottus||pot, jar|lang=la}}, from {{etyl|gem-pro|roa-jer}} {{recons|puttaz||pot, jar, tub|lang=gem-pro}}, from {{etyl|ine-pro|roa-jer}} {{recons|budn-||a kind of vessel|lang=ine-pro}}.
+From {{etyl|fro|roa-jer}} {{term|pot||pot|lang=fro}}, from {{etyl|VL.|roa-jer}} {{term|pottum|lang=la}}, {{term|pottus||pot, jar|lang=la}}, from {{etyl|gem-pro|roa-jer}} {{term/t|gem-pro|*puttaz||pot, jar, tub}}, from {{etyl|ine-pro|roa-jer}} {{term/t|ine-pro|*budn-||a kind of vessel}}.
 
 ===Noun===
 {{roa-jer-noun|m}}
@@ -433,7 +433,7 @@ From {{etyl|fro|roa-jer}} {{term|pot||pot|lang=fro}}, from {{etyl|VL.|roa-jer}} 
 {{wikipedia|lang=pl}}
 
 ===Etymology===
-From {{etyl|sla-pro|pl}} {{recons|potъ|lang=sla-pro}}
+From {{etyl|sla-pro|pl}} {{term/t|sla-pro|*potъ}}
 
 ===Noun===
 {{pl-noun|m}}
@@ -479,7 +479,7 @@ From {{etyl|sla-pro|pl}} {{recons|potъ|lang=sla-pro}}
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|sla-pro|sh}} {{recons|potъ|lang=sla-pro}}.
+From {{etyl|sla-pro|sh}} {{term/t|sla-pro|*potъ}}.
 
 ===Noun===
 {{sh-noun|g=m|head=pȍt|r|пот}}
@@ -494,7 +494,7 @@ From {{etyl|sla-pro|sh}} {{recons|potъ|lang=sla-pro}}.
 ==Slovene==
 
 ===Etymology 1===
-From {{etyl|sla-pro|sh}} {{recons|pǫtь|lang=sla-pro}}.
+From {{etyl|sla-pro|sh}} {{term/t|sla-pro|*pǫtь}}.
 
 ====Noun====
 {{sl-noun|head=pót|f}}
@@ -505,7 +505,7 @@ From {{etyl|sla-pro|sh}} {{recons|pǫtь|lang=sla-pro}}.
 {{sl-decl-noun-f-i2|pot}}
 
 ===Etymology 2===
-From {{etyl|sla-pro|sh}} {{recons|potъ|lang=sla-pro}}.
+From {{etyl|sla-pro|sh}} {{term/t|sla-pro|*potъ}}.
 
 ====Noun====
 {{sl-noun|head=pót|m-in}}
