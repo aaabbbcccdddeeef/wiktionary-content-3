@@ -56,7 +56,7 @@ From {{etyl|fro|en}} {{term|union|lang=fro}}, from {{etyl|LL.|en}} {{term|unione
 * Danish: {{t-|da|union|c}}
 * Dutch: {{t-|nl|unie|f}}
 * Estonian: {{t-|et|liit}}
-* Finnish: {{t-|fi|liittäminen}}, {{t+|fi|liitos}} {{qualifier|act}}; {{t+|fi|liitto}} {{qualifier|state}}, {{t+|fi|liitto}}
+* Finnish: {{t-|fi|liittäminen}}, {{t+|fi|liitos}} {{qualifier|act}}, {{t+|fi|liitto}} {{qualifier|state}}, {{t+|fi|liitto}}
 * French: {{t+|fr|union|f}}
 * Galician: {{t-|gl|unión|f}}
 * Georgian: {{t-|ka|კავშირი|tr=kavširi|sc=Geor}}
@@ -109,7 +109,7 @@ From {{etyl|fro|en}} {{term|union|lang=fro}}, from {{etyl|LL.|en}} {{term|unione
 * German: {{t+|de|Vereinigung|f}}, {{t+|de|Union|f}}
 * Greek: {{t+|el|ένωση|f|tr=énosi}}, {{t+|el|σύνδεσμος|m|tr=sýndesmos}}
 {{trans-mid}}
-* Japanese: {{qualifier|regions}} {{t+|ja|連邦|tr=renpō}}; {{qualifier|group}} {{t+|ja|同盟|tr=dōmei}}
+* Japanese: {{qualifier|regions}} {{t+|ja|連邦|tr=renpō}}, {{qualifier|group}} {{t+|ja|同盟|tr=dōmei}}
 * Latin: {{t-|la|societas|f|alt=societās}}, {{t+|la|unio|f|alt=ūniō}}
 * Romanian: {{t+|ro|unire}}, {{t-|ro|uniune}}
 * Russian: {{t+|ru|союз|m|tr=sojúz}}, {{t+|ru|соединение|m|tr=sojedin'énije}}, {{t+|ru|объединение|m|tr=objedin'énije}}
@@ -134,9 +134,9 @@ From {{etyl|fro|en}} {{term|union|lang=fro}}, from {{etyl|LL.|en}} {{term|unione
 *: Mandarin: {{t|cmn|併集|sc=Hani}}, {{t|cmn|并集|tr=bìngjí|sc=Hani}}
 * Czech: {{t-|cs|sjednocení|n}}
 * Dutch: {{t+|nl|vereniging}}
-* Esperanto: [[kunaĵo]]
+* Esperanto: {{t|eo|kunaĵo}}
 * Finnish: {{t+|fi|yhdiste}}, {{t+|fi|unioni}}
-* French: [[réunion]] {{f}}<!--sic: not "union"-->
+* French: {{t|fr|réunion|f}} <!--sic: not "union"-->
 * German: {{t+|de|Vereinigung|f}}, {{t+|de|Vereinigungsmenge|f}}
 * Hebrew: {{t-|he|איחוד}}
 {{trans-mid}}
@@ -144,7 +144,7 @@ From {{etyl|fro|en}} {{term|union|lang=fro}}, from {{etyl|LL.|en}} {{term|unione
 * Italian: {{t+|it|unione|f}}
 * Japanese: {{t-|ja|和集合|tr=わしゅうごう, washūgō}}
 * Polish: {{t+|pl|unia|f}}
-* Russian: [[объединение множеств]] (obʺjedinénije mnóžestv) {{n}}
+* Russian: {{t|ru|объединение множеств|n|tr=obʺjedinénije mnóžestv|sc=Cyrl}}
 * Spanish: {{t+|es|unión|f}}
 * Swahili: {{t+|sw|shirikisho}}
 * Swedish: {{t+|sv|union}}
@@ -192,7 +192,7 @@ From {{etyl|fro|en}} {{term|union|lang=fro}}, from {{etyl|LL.|en}} {{term|unione
 * {{ttbc|is}}: {{t+|is|samband}}
 * {{ttbc|it}}: {{t+|it|unione|f}}
 {{trans-mid}}
-* {{ttbc|ko}}: [[연맹]] (yeonmaeng)
+* {{ttbc|ko}}: {{t|ko|연맹|tr=yeonmaeng|sc=Kore}}
 * {{ttbc|ku}}:
 *: Sorani: {{t-|ku|یه‌کێتی|tr=yekéti|sc=ku-Arab}}
 * {{ttbc|pt}}: {{t+|pt|união|f}}
