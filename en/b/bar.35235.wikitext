@@ -9,7 +9,7 @@
 * {{homophones|lang=en|baa|bah}} {{qualifier|in some pronunciations}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{term|barre||lang=enm}}, from {{etyl|fro|en}} {{term|barre||beam, bar, gate, barrier|lang=fro}}, from {{etyl|VL.|en}} {{recons|barra|lang=la}}, of uncertain origin. Perhaps from Old {{etyl|frk|en}} {{recons|bara||bar, beam, barrier, fence|lang=frk}}, from {{etyl|gem-pro|en}} {{recons|barō||beam, bar, barrier|lang=gem-pro}}, from {{etyl|ine-pro|en}} {{recons|bʰAr-||log, board, plank|lang=ine-pro}}. If so, then cognate with {{etyl|goh|-}} {{term|para|lang=goh}}, {{term|bara||bar, beam, one's cherished land|lang=goh}}, {{etyl|ofs|-}} {{term|ber||attack, assault|lang=ofs}}, {{etyl|sv|-}} {{term|bärling||a spoke|lang=sv}}, {{etyl|no|-}} {{term|berling||a small bar in a vehicle, rod|lang=no}}, {{etyl|la|-}} {{term|forus||gangway, plank|lang=la}}, {{etyl|ru|-}} {{term|забор|забо́р|tr=zabór|fencing, paling, fence|lang=ru}}, {{etyl|grc|-}} {{term|φάρος||tr=pháros|piece of land, furrow, marker, beacon, lighthouse|lang=grc}}.
+From {{etyl|enm|en}} {{term|barre||lang=enm}}, from {{etyl|fro|en}} {{term|barre||beam, bar, gate, barrier|lang=fro}}, from {{etyl|VL.|en}} {{term/t|la|*barra}}, of uncertain origin. Perhaps from Old {{etyl|frk|en}} {{term/t|frk|*bara||bar, beam, barrier, fence}}, from {{etyl|gem-pro|en}} {{term/t|gem-pro|*barō||beam, bar, barrier}}, from {{etyl|ine-pro|en}} {{term/t|ine-pro|*bʰAr-||log, board, plank}}. If so, then cognate with {{etyl|goh|-}} {{term|para|lang=goh}}, {{term|bara||bar, beam, one's cherished land|lang=goh}}, {{etyl|ofs|-}} {{term|ber||attack, assault|lang=ofs}}, {{etyl|sv|-}} {{term|bärling||a spoke|lang=sv}}, {{etyl|no|-}} {{term|berling||a small bar in a vehicle, rod|lang=no}}, {{etyl|la|-}} {{term|forus||gangway, plank|lang=la}}, {{etyl|ru|-}} {{term|забор|забо́р|tr=zabór|fencing, paling, fence|lang=ru}}, {{etyl|grc|-}} {{term|φάρος||tr=pháros|piece of land, furrow, marker, beacon, lighthouse|lang=grc}}.
 
 ====Noun====
 {{en-noun|s|-}}
@@ -543,8 +543,8 @@ From {{etyl|grc|en}} {{term|βάρος|tr=baros||weight|lang=grc}}, coined circa
 ==Albanian==
 
 ===Etymology 1===
-From {{etyl|sqj-pro|sq}} {{recons|bara|lang=sqj-pro}}, from {{etyl|ine-pro|sq}} {{recons|bʰerH-|lang=ine-pro}} (compare Greek {{term|φάρμακον|tr=phármakon|lang=grc}} ‘drug, medicine’, Lithuanain {{term|burti|bùrti|lang=lt}} ‘to conjure’).<ref>D.Q. Adams, "Heal: *bher-", in ''Encyclopedia of Indo-European Culture'' (London: Fitzroy-Dearborn, 1997), 262.</ref>
-Alternatively from {{etyl|ine-pro|sq}} {{recons|bʰars-|lang=ine-pro}} ‘spike, prickle’ (compare Old Norse {{term|barr||corn, grain, barley|lang=non}}, Welsh {{term|bara|lang=cy}} ‘bread’, Latin {{term|far|lang=la}} ‘spelt’, Serbo-Croatian {{term|брашно|бра̏шно|sc=Cyrl|lang=sh}}/{{term|brašno|brȁšno|lang=sh}}.
+From {{etyl|sqj-pro|sq}} {{term/t|sqj-pro|*bara}}, from {{etyl|ine-pro|sq}} {{term/t|ine-pro|*bʰerH-}} (compare Greek {{term|φάρμακον|tr=phármakon|lang=grc}} ‘drug, medicine’, Lithuanain {{term|burti|bùrti|lang=lt}} ‘to conjure’).<ref>D.Q. Adams, "Heal: *bher-", in ''Encyclopedia of Indo-European Culture'' (London: Fitzroy-Dearborn, 1997), 262.</ref>
+Alternatively from {{etyl|ine-pro|sq}} {{term/t|ine-pro|*bʰars-}} ‘spike, prickle’ (compare Old Norse {{term|barr||corn, grain, barley|lang=non}}, Welsh {{term|bara|lang=cy}} ‘bread’, Latin {{term|far|lang=la}} ‘spelt’, Serbo-Croatian {{term|брашно|бра̏шно|sc=Cyrl|lang=sh}}/{{term|brašno|brȁšno|lang=sh}}.
 
 ====Alternative forms====
 * [[barë]] (neuter; Tosk)
@@ -561,7 +561,7 @@ Alternatively from {{etyl|ine-pro|sq}} {{recons|bʰars-|lang=ine-pro}} ‘spike,
 <references/>
 
 ===Etymology 2===
-from {{etyl|sqj-pro|sq}} {{recons|bara|lang=sqj-pro}}, from {{recons|bera|lang=sqj-pro}} 'to carry' (modern {{term|bie|lang=sq}}). More at {{l|sq|bie}}.
+from {{etyl|sqj-pro|sq}} {{term/t|sqj-pro|*bara}}, from {{term/t|sqj-pro|*bera}} 'to carry' (modern {{term|bie|lang=sq}}). More at {{l|sq|bie}}.
 
 ====Alternative forms====
 * {{l|sq|mbar}}
@@ -870,7 +870,7 @@ From {{etyl|en|is}} {{term|bar#Etymology_2|bar}} (2), from {{etyl|grc|is}} {{ter
 ==Old English==
 
 ===Etymology===
-From {{etyl|gem-pro|ang}} {{recons|baizaz|lang=gem-pro}}.
+From {{etyl|gem-pro|ang}} {{term/t|gem-pro|*baizaz}}.
 
 ===Noun===
 {{ang-noun|head=bār|g=m}}
@@ -882,7 +882,7 @@ From {{etyl|gem-pro|ang}} {{recons|baizaz|lang=gem-pro}}.
 ==Old High German==
 
 ===Etymology===
-From {{etyl|gem-pro|goh}} {{recons|bazaz|lang=gem-pro}}, whence also {{etyl|ang|-}} {{term|bær|lang=ang}}, {{etyl|non|-}} {{term|berr|lang=non}}.
+From {{etyl|gem-pro|goh}} {{term/t|gem-pro|*bazaz}}, whence also {{etyl|ang|-}} {{term|bær|lang=ang}}, {{etyl|non|-}} {{term|berr|lang=non}}.
 
 ===Pronunciation===
 * {{IPA|/bar/|lang=goh}}, {{X-SAMPA|/bar/|lang=goh}}
@@ -897,7 +897,7 @@ From {{etyl|gem-pro|goh}} {{recons|bazaz|lang=gem-pro}}, whence also {{etyl|ang|
 ==Old Saxon==
 
 ===Etymology===
-From {{etyl|gem-pro|osx}} {{recons|bazaz|lang=gem-pro}}, whence also {{etyl|ang|-}} {{term|bær|lang=ang}}, {{etyl|non|-}} {{term|berr|lang=non}}.
+From {{etyl|gem-pro|osx}} {{term/t|gem-pro|*bazaz}}, whence also {{etyl|ang|-}} {{term|bær|lang=ang}}, {{etyl|non|-}} {{term|berr|lang=non}}.
 
 ===Adjective===
 {{osx-adj|head=bār}}
