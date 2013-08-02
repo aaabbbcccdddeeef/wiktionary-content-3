@@ -10,7 +10,7 @@
 * {{rhymes|ɑːst|æst}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{term|mast|lang=enm}}, from {{etyl|ang|en}} {{term|mæst||mast|lang=ang}}, from {{etyl|gem-pro|en}} {{recons|mastaz||mast, sail-pole|lang=gem-pro}}, from {{etyl|ine-pro|en}} {{recons|mazdos||pole, mast|lang=ine-pro}}. Cognate with Dutch {{term|mast|lang=nl}}, German {{term|Mast|lang=de}}, and via Indo-European with Latin {{term|malus|mālus|lang=la}}, Russian {{term|мост||bridge|tr=móst|lang=ru}}, Irish {{term|adhmad|lang=ga}}.
+From {{etyl|enm|en}} {{term|mast|lang=enm}}, from {{etyl|ang|en}} {{term|mæst||mast|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|gem-pro|*mastaz||mast, sail-pole}}, from {{etyl|ine-pro|en}} {{term/t|ine-pro|*mazdos||pole, mast}}. Cognate with Dutch {{term|mast|lang=nl}}, German {{term|Mast|lang=de}}, and via Indo-European with Latin {{term|malus|mālus|lang=la}}, Russian {{term|мост||bridge|tr=móst|lang=ru}}, Irish {{term|adhmad|lang=ga}}.
 
 ====Noun====
 {{en-noun}}
@@ -139,7 +139,7 @@ books.google.com/books?isbn=3540221913| author=Michael Scherer-Lorenzen, Christi
 ==Czech==
 
 ===Etymology===
-From {{etyl|sla-pro|cs}} {{recons|mastь|lang=sla-pro}}.
+From {{etyl|sla-pro|cs}} {{term/t|sla-pro|*mastь}}.
 
 ===Noun===
 {{cs-noun|g=f}}
@@ -159,7 +159,7 @@ From {{etyl|sla-pro|cs}} {{recons|mastь|lang=sla-pro}}.
 ==Dutch==
 
 ===Etymology===
-From {{etyl|odt|nl}} {{recons|mast|lang=odt}}, from {{etyl|gem-pro|nl}} {{recons|mastaz|lang=gem-pro}}.
+From {{etyl|odt|nl}} {{term/t|odt|*mast}}, from {{etyl|gem-pro|nl}} {{term/t|gem-pro|*mastaz}}.
 
 ===Pronunciation===
 * {{rhymes|ɑst|lang=nl}}
@@ -199,7 +199,7 @@ From {{etyl|odt|nl}} {{recons|mast|lang=odt}}, from {{etyl|gem-pro|nl}} {{recons
 ==Middle French==
 
 ===Etymology===
-{{etyl|gem-pro|frm}} {{recons|mastaz|lang=gem-pro}}
+{{etyl|gem-pro|frm}} {{term/t|gem-pro|*mastaz}}
 
 ===Noun===
 {{frm-noun|m}}
@@ -247,7 +247,7 @@ From {{etyl|gml|nb}} {{term|mast||mast|lang=gml}}.
 ==Old French==
 
 ===Etymology===
-{{etyl|gem-pro|fro}} {{recons|mastaz|lang=gem-pro}}
+{{etyl|gem-pro|fro}} {{term/t|gem-pro|*mastaz}}
 
 ===Noun===
 {{fro-noun|m}}
@@ -263,7 +263,7 @@ From {{etyl|gml|nb}} {{term|mast||mast|lang=gml}}.
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|sla-pro|sh}} {{recons|mastь|lang=sla-pro}}.
+From {{etyl|sla-pro|sh}} {{term/t|sla-pro|*mastь}}.
 
 ===Noun===
 {{sh-noun|g=f|pl=masti|r|маст}}
