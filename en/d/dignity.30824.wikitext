@@ -64,7 +64,7 @@ From {{etyl|enm|en}} {{term|dignitee|lang=enm}}, from {{etyl|fro|en}} {{term|dig
 * Belarusian: {{t|be|годнасць|f|tr=hódnascʹ|sc=Cyrl}}
 * {{trreq|bn}}
 * {{trreq|br}}
-* Bulgarian: {{t+|bg|достойнство}}
+* Bulgarian: {{t+|bg|достойнство|n|tr=dostójnstvo}}
 * Catalan: {{t+|ca|dignitat|f}}
 * Cherokee: {{t-|chr|ᎠᏢᏉᏙᏗ|tr=atlvquododi|sc=Cher}}
 * {{trreq|ny}}
@@ -105,10 +105,11 @@ From {{etyl|enm|en}} {{term|dignitee|lang=enm}}, from {{etyl|fro|en}} {{term|dig
 * Japanese: {{t|ja|尊厳|tr=そんげん, songen|sc=Jpan}}
 * {{trreq|kn}}
 * Khmer: {{t|km|ភាពថ្លៃថ្នូរ|tr=pʰiep tlay tnoo|sc=Khmr}}
+* {{trreq|ko}}
 * {{trreq|lo}}
 * Latin: {{t+|la|dignitas|f}}
-* Lithuanian: {{t-|lt|orumas|m}}
 * Latvian: {{t|lv|cieņa|f}}
+* Lithuanian: {{t-|lt|orumas|m}}
 * {{trreq|lg}}
 * Luxembourgish: {{t-|lb|Dignitéit}}
 * Macedonian: {{t|mk|достоинство|n|tr=dostóinstvo|sc=Cyrl}}
@@ -126,6 +127,9 @@ From {{etyl|enm|en}} {{term|dignitee|lang=enm}}, from {{etyl|fro|en}} {{term|dig
 * Romanian: {{t+|ro|demnitate|f}}
 * Romansch: {{t-|rm|dignitad|f}} {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan, Surmiran}}, {{t-|rm|dignited|f}} {{qualifier|Puter}}, {{t-|rm|dignità|f}} {{qualifier|Vallader}}
 * Russian: {{t+|ru|достоинство|n|tr=dostóinstvo|alt=досто́инство}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|достојанство|n|sc=Cyrl}}
+*: Roman: {{t|sh|dostojanstvo|n}}
 * {{trreq|sd}}
 * Sinhalese: {{t-|si|අභිමානය|tr=abhimanaya|sc=Sinh}}
 * Slovak: {{t-|sk|dôstojnosť|f}}
@@ -158,7 +162,7 @@ From {{etyl|enm|en}} {{term|dignitee|lang=enm}}, from {{etyl|fro|en}} {{term|dig
 
 {{trans-top|high office or rank}}
 * Dutch: {{t+|nl|waardigheid|c}}
-* Finnish: {{t-|fi|arvoasema}} {{qualifier|office}}; {{t+|fi|arvonimi}} {{qualifier|rank}}
+* Finnish: {{t-|fi|arvoasema}} {{qualifier|office}}, {{t+|fi|arvonimi}} {{qualifier|rank}}
 * Hungarian: {{t+|hu|méltóság}}
 {{trans-mid}}
 * Manx: {{t-|gv|ardcheim|f}}
