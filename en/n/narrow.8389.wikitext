@@ -39,7 +39,7 @@ From {{etyl|enm|en}} {{term|narow|lang=enm}}, {{term|narowe|lang=enm}}, {{term|n
 * Albanian: {{t-|sq|ngushtë}}
 * Arabic: {{t-|ar|ضيق|tr=ḍáyyiq|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|ضيق|m|tr=dayaʾ|sc=Arab}}
-* Armenian: {{t-|hy|նեղ|tr=neġ|sc=Armn}}
+* Armenian: {{t-|hy|նեղ|sc=Armn}}
 * Aromanian: {{t-|rup|strãmtu}}, {{t-|rup|ngustu}}
 * Asturian: {{t-|ast|estrechu}}
 * Azeri: {{t-|az|dar}}
@@ -49,8 +49,8 @@ From {{etyl|enm|en}} {{term|narow|lang=enm}}, {{term|narowe|lang=enm}}, {{term|n
 * Burmese: {{t+|my|ကျဉ်း|tr=kyin:|sc=Mymr}}, {{t+|my|ကျဉ်းကျပ်|tr=kyin:kyat|sc=Mymr}}
 * Catalan: {{t-|ca|estret|m}}, {{t-|ca|estreta|f}}, {{t-|ca|angost}}
 * Chinese:
-*: Cantonese: {{t|yue|窄|tr=tsak9|sc=Hani}}
-*: Mandarin: {{t-|cmn|窄|tr=zhǎi|sc=Hani}}
+*: Cantonese: {{tø|yue|窄|tr=tsak9|sc=Hani}}
+*: Mandarin: {{t+|cmn|窄|tr=zhǎi|sc=Hani}}
 * Czech: {{t+|cs|úzký|m}}
 * Danish: {{t-|da|snæver}}, {{t-|da|tæt}}
 * Dutch: {{t+|nl|nauw}}, {{t|nl|smal}}
@@ -63,7 +63,7 @@ From {{etyl|enm|en}} {{term|narow|lang=enm}}, {{term|narowe|lang=enm}}, {{term|n
 * Friulian: {{tø|fur|stret}}
 * Gagauz: {{tø|gag|дар|tr=dar}}
 * Galician: {{t+|gl|estreito}}, {{t-|gl|angosto}}
-* Georgian: {{t-|ka|ვიწრო|tr=vicro|sc=Geor}}
+* Georgian: {{t-|ka|ვიწრო|sc=Geor}}
 * German: {{t+|de|eng}}, {{t+|de|begrenzt}}, {{t+|de|schmal}}
 * Greek: {{t+|el|στενός|m|tr=stenós|sc=Grek}}
 * Hindi: {{t+|hi|तंग|tr=tang|sc=Deva}}
@@ -105,12 +105,12 @@ From {{etyl|enm|en}} {{term|narow|lang=enm}}, {{term|narowe|lang=enm}}, {{term|n
 *: Roman: {{t-|sh|uzak|alt=ȕzak}}, {{t-|sh|uski}}
 * Sicilian: {{t+|scn|strittu}}
 * Slovak: {{t-|sk|úzky}}
-* Slovene: {{t+|sl|ozek|m}} <!-- non-lemma: [[ozka]] {{f}}, [[ozko]] {{n}} -->
+* Slovene: {{t+|sl|ozek}}
 * Sorbian:
 *: Lower Sorbian: {{tø|dsb|wuski}}
 * Spanish: {{t+|es|estrecho|m}}, {{t+|es|angosto}}
 * Swedish: {{t+|sv|trång}}
-* Tamil: {{t+|ta|குறுகிய|sc=Taml}}
+* Tamil: {{t+|ta|குறுகிய|tr=kuṟukiya|sc=Taml}}
 * Tatar: {{t-|tt|тыгыз|tr=tığız|sc=Cyrl}}
 * Telugu: {{t|te|ఇరుకైన|tr=irukaina|sc=Telu}}, {{t|te|సన్నని|tr=sannani|sc=Telu}}
 * Thai: {{t-|th|แคบ|tr=khâeaep|sc=Thai}}
