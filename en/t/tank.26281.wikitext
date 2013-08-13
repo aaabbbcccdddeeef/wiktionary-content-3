@@ -82,7 +82,7 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 * Hebrew: {{t-|he|מיכל|m}}
 * Icelandic: {{t-|is|tankur|m}}
 * Interlingua: {{t-|ia|tank}}
-* Italian: {{t+|it|tanica}}, {{t+|it|serbatoio}}
+* Italian: {{t+|it|tanica}}, {{t+|it|serbatoio}}, {{t+|it|bombola|f}} (scuba diving)
 {{trans-mid}}
 * Japanese: {{t+|ja|タンク|tr=tanku}}
 * Korean: {{t-|ko|탱크|tr=taengkeu|sc=Kore}}
@@ -91,10 +91,10 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 * Norwegian: {{t-|no|tank}}
 * Polish: {{t+|pl|zbiornik|m}}
 * Portuguese: {{t+|pt|tanque|m}}
-* Russian: {{t+|ru|бак|m|tr=bak}}, {{t+|ru|цистерна|f|tr=cistɛ́rna}}, {{t+|ru|ёмкость|f|tr=jómkostʹ}}, {{t+|ru|сосуд|m|tr=sosúd}}
+* Russian: {{t+|ru|бак|m|tr=bak}}, {{t+|ru|цистерна|f|tr=cistɛ́rna}}, {{t+|ru|ёмкость|f|tr=jómkostʹ}}, {{t+|ru|сосуд|m|tr=sosúd}}, {{t+|ru|баллон|m|sc=Cyrl|tr=ballón}} (scuba diving)
 * Scottish Gaelic: {{t-|gd|amar|m}}
 * Swahili: {{t+|sw|tangi}}
-* Swedish: {{t+|sv|tank|c}}
+* Swedish: {{t+|sv|tank|c}}, {{t-|sv|dyktub|c}} (scuba diving)
 * Ukrainian: {{t+|uk|бак|m|tr=bak}}
 * Welsh: {{t-|cy|tank}}, {{t-|cy|tanc}}
 {{trans-bottom}}
@@ -106,7 +106,24 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 * German: {{t+|de|Becken|n}}, {{t+|de|Tank|m}}
 {{trans-bottom}}
 
-{{trans-top|military fighting vehicle}}
+{{trans-top|fuel reservoir}}
+* French: {{t|fr|réservoir|m}}
+* Greek: {{t-|el|υδροταμιευτήρας|m|tr=ydrotamieftíras}}
+* {{trreq|gu}}
+* {{trreq|hi}}
+* Italian: {{t+|it|cisterna|f}}
+* Macedonian: {{t-|mk|резервоар|m|tr=rezervoár}}, {{t-|mk|цистерна|f|tr=cistérna}}
+{{trans-mid}}
+* Marathi: {{t-|mr|टांकें|n|sc=Deva}}
+* Russian: {{t+|ru|водохранилище|n|sc=Cyrl|tr=vodoxranílišče}}
+* Scottish Gaelic: {{t-|gd|amar|m}}
+* Telugu: {{t+|te|చెరువు|tr=cheruvu}}
+* Ukrainian: {{t-|uk|водоймище|n|tr=vodójmyšče}}, {{t-|uk|водосховище|n|tr=vodosxóvyšče}}, {{t-|uk|резервуар|m|tr=rezervuár}}
+{{trans-bottom}}
+
+{{trans-see|tankful}}
+
+{{trans-top|military armoured fighting vehicle}}
 * Afrikaans: {{t-|af|tenk}}
 * Arabic: {{t-|ar|دبابة|f|tr=dabbaaba}}
 * Armenian: {{t-|hy|տանկ|tr=tank}}
@@ -177,33 +194,23 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 * Yiddish: {{t-|yi|טאנק|m|tr=tank}}
 {{trans-bottom}}
 
-{{trans-top|fuel reservoir}}
-* French: {{t|fr|réservoir|m}}
-* Greek: {{t-|el|υδροταμιευτήρας|m|tr=ydrotamieftíras}}
-* {{trreq|gu}}
-* {{trreq|hi}}
-* Italian: {{t+|it|cisterna|f}}
-* Macedonian: {{t-|mk|резервоар|m|tr=rezervoár}}, {{t-|mk|цистерна|f|tr=cistérna}}
+{{trans-top|(Australian and Indian English) dam}}
 {{trans-mid}}
-* Marathi: {{t-|mr|टांकें|n|sc=Deva}}
-* Russian: {{t+|ru|водохранилище|n|sc=Cyrl|tr=vodoxranílišče}}
-* Scottish Gaelic: {{t-|gd|amar|m}}
-* Telugu: {{t+|te|చెరువు|tr=cheruvu}}
-* Ukrainian: {{t-|uk|водоймище|n|tr=vodójmyšče}}, {{t-|uk|водосховище|n|tr=vodosxóvyšče}}, {{t-|uk|резервуар|m|tr=rezervuár}}
 {{trans-bottom}}
 
-{{trans-top|muscular and physically intense person}}
+{{trans-top|(Southwestern US, chiefly Texas) large metal container in an animal pen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|(Southwestern US, chiefly Texas) small pond in an animal pen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|muscular and physically imposing person}}
 * Finnish: {{t+|fi|kaappi}} {{qualifier|slang}}
 * Italian: {{t+|it|energumeno}}
 {{trans-mid}}
 * Swedish: {{t-|sv|muskelknutte}}
-{{trans-bottom}}
-
-{{trans-top|gas cylinder for scuba diving}}
-* Italian: {{t+|it|bombola|f}}
-* Russian: {{t+|ru|баллон|m|sc=Cyrl|tr=ballón}}
-{{trans-mid}}
-* Swedish: {{t-|sv|dyktub|c}}
 {{trans-bottom}}
 
 {{trans-top|role playing character}}
