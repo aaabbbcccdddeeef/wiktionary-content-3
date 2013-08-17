@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|enm|en}}, from {{etyl|ang|en}} ''[[healf]]'' ('half'); as a noun, 'half', 'side', 'part', from {{etyl|gem-pro|en}} {{term/t|gem-pro|*halbaz}}; akin to Old Saxon, Old Frisian, and Dutch ''[[half#Dutch|half]]'', West Frisian {{term|heal|lang=fy}}, German {{term|halb|lang=de}}, Swedish {{term|halv|lang=sv}}, Danish ''[[halv]]'', Icelandic ''[[hálfur]]'' and Gothic [[𐌷𐌰𐌻𐌱𐍃]] (halbs). Compare ''[[halve]]'', ''[[behalf]]''.
+From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|healf||half|lang=ang}}; as a noun, 'half', 'side', 'part', from {{etyl|gem-pro|en}} {{term/t|gem-pro|*halbaz}}; akin to Old Saxon, Old Frisian, and Dutch {{term|half|lang=nl}}, West Frisian {{term|heal|lang=fy}}, German {{term|halb|lang=de}}, Swedish {{term|halv|lang=sv}}, Danish {{term|halv|lang=da}}, Icelandic {{term|hálfur|lang=is}} and Gothic {{term|𐌷𐌰𐌻𐌱𐍃|tr=halbs|lang=got}}. Compare {{term|halve|lang=en}}, {{term|behalf|lang=en}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/hɑːf/}}, {{X-SAMPA|/hA:f/}}
@@ -66,7 +66,6 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} ''[[healf]]'' ('half'); as a noun, 'h
 * Russian: {{t+|ru|пол-|tr=pol-}}, {{t+|ru|полу-|tr=polu-}}
 * Slovene: {{t+|sl|pol}}
 * Sranan Tongo: [[afu]]
-* Swahili: {{t+|sw|nusu}}
 * Thai: {{t-|th|ครึ่ง|sc=Thai}}
 * Turkish: {{t+|tr|yarı}}
 * Vietnamese: {{t-|vi|phân nửa}}
@@ -204,7 +203,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} ''[[healf]]'' ('half'); as a noun, 'h
 * Dalmatian: {{tø|dlm|mesu|m}}
 * Dutch: {{t+|nl|helft}}
 * Esperanto: {{t-|eo|duono}}
-* Ewe: [[afɑ̃]] {{n}}
+* Ewe: {{t|ee|afɑ̃|n}}
 * Faroese: {{t-|fo|helvt|f}}
 * Finnish: {{t+|fi|puolikas}} {{qualifier|of an object}}, {{t-|fi|puolet}} {{qualifier|of a mass}}
 * French: {{t+|fr|moitié|f}}
@@ -230,6 +229,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} ''[[healf]]'' ('half'); as a noun, 'h
 * Serbo-Croatian: {{t-|sh|polovina|f}}
 * Slovene: {{t+|sl|polovica|f}}
 * Spanish: {{t+|es|mitad|f}}
+* Swahili: {{t|sw|nusu}}
 * Swedish: {{t+|sv|hälft|c}}, {{t+|sv|halva|c}}, {{t|sv|halvlek|c}} {{qualifier|two equal periods of play in sports}}, {{t|sv|planhalva|c}} {{qualifier|two opposite parts of the playing field}}
 * Telugu: {{t+|te|సగము|tr=sagamu|sc=Telu}}
 * Thai: {{t-|th|ครึ่ง|tr=krêung|sc=Thai}}
@@ -238,7 +238,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} ''[[healf]]'' ('half'); as a noun, 'h
 * Ukrainian: {{t-|uk|половина|f|tr=polovýna|sc=Cyrl}}
 * Urdu: {{t+|ur|آدھا|m|tr=ādhā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|nửa}}
-* Yiddish: {{t-|yi|העלפֿט|f}}
+* Yiddish: {{t-|yi|העלפֿט|tr=helft|f}}
 {{trans-bottom}}
 
 {{trans-top|half a standard measure}}
@@ -252,7 +252,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} ''[[healf]]'' ('half'); as a noun, 'h
 * Arabic: {{t-|ar|نصف|m|tr=niSf, nuSf|sc=Arab}}
 * Armenian: {{t-|hy|կես|tr=kes}}
 * Bulgarian: {{t+|bg|половина|f|tr=polovína}}
-* Ewe: [[afɑ̃]] {{n}}
+* Ewe: {{t|ee|afɑ̃|n}}
 * Finnish: {{t+|fi|puoli}}
 * French: {{t+|fr|demi|m}}
 * Greek: {{t+|el|μισό|n|tr=misó}}
@@ -263,10 +263,11 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} ''[[healf]]'' ('half'); as a noun, 'h
 * Portuguese: {{t+|pt|metade|f}}
 * Russian: {{t+|ru|половина|f|tr=polovína}}
 * Spanish: {{t+|es|mitad|f}}
+* Swahili: {{t|sw|nusu}}
 {{trans-bottom}}
 
 {{trans-top|part; side; behalf}}
-* Ewe: [[afɑ̃]] {{n}}
+* Ewe: {{t|ee|afɑ̃|n}}
 * Finnish: {{t+|fi|puoli}}
 {{trans-mid}}
 * Russian: {{t+|ru|сторона|f|tr=storoná}}
@@ -296,8 +297,8 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} ''[[healf]]'' ('half'); as a noun, 'h
 ====Translations====
 {{trans-top|to halve}}
 * Czech: {{t-|cs|půlit}}, {{t-|cs|rozpůlit}}
-* Dutch: [[halveren]]
-* Finnish: [[puolittaa]], [[panna puoliksi]]
+* Dutch: {{t|nl|halveren}}
+* Finnish: {{t|fi|puolittaa}}, {{t|fi|panna puoliksi}}
 {{trans-mid}}
 * Lithuanian: [[dalinti]] [[pusiau]]
 * Polish: {{t-|pl|połowić}}
