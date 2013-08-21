@@ -24,6 +24,7 @@ From {{etyl|fr|en}} {{term|taxonomie|lang=fr}}.
 
 ====Translations====
 {{trans-top|science of finding, describing, classifying and naming organisms}}
+* Arabic: {{t|ar|علم التصنيف|m|tr=ʿilm al-taṣnīf}}
 * Chinese:
 *: Mandarin: {{t|cmn|分類學|sc=Hani}}, {{t|cmn|分类学|tr=fēnlèixué|sc=Hani}}
 * Czech: {{t+|cs|taxonomie|f}}
@@ -33,7 +34,7 @@ From {{etyl|fr|en}} {{term|taxonomie|lang=fr}}.
 * German: {{t+|de|Taxonomie|f}}
 * Hungarian: {{t+|hu|rendszertan}}, {{t+|hu|taxonómia}}
 * Icelandic: {{t|is|flokkunarfræði|m}}
-* Japanese: {{t+|ja|分類学|tr=bunruigaku}}
+* Japanese: {{t+|ja|分類学|tr=ぶんるいがく, bunruigaku}}
 {{trans-mid}}
 * Macedonian: {{t-|mk|таксономија|f|tr=taksonómija}}
 * Malay: {{t|ms|kaji urutan}}, {{t|ms|taksonomi}}
@@ -48,31 +49,30 @@ From {{etyl|fr|en}} {{term|taxonomie|lang=fr}}.
 {{trans-bottom}}
 
 {{trans-top|classification in a hierarchical system}}
+* Arabic: {{t|ar|تصنيف|m|tr=taṣnīf}}
 * French: {{t+|fr|taxinomie|f}}
 * Hungarian: {{t+|hu|osztályozás}}
 * Japanese: {{t-|ja|分類法|tr=bunruihō}}
 {{trans-mid}}
 * Romanian: {{t+|ro|taxonomie|f}}, {{t-|ro|ierarhică clasificare|f}}
-* Russian: {{t+|ru|систематика|f|tr=sist'emátika}}
+* Russian: {{t+|ru|систематика|f|tr=sistemátika}}
 * Serbo-Croatian: {{t-|sh|taksonomija|f|alt=taksonòmija}}
 * Swedish: {{t|sv|taxonomi|c}}, {{t|sv|systematik|c}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{l|ar|التصنيف}} (at-taʂnīf) {{m}}
-* {{ttbc|cmn}}: [[分類學]], [[分类学]] (fēnlèi xué)
-* {{ttbc|sh}}: [[taksonomija]] {{f}}
-* {{ttbc|el}}: [[ταξινομία]] (taksinomia) {{f}}
-* {{ttbc|ia}}: [[taxinomia]]
-* {{ttbc|it}}: [[tassonomia]] {{f}}
+* {{ttbc|sh}}: {{t|sh|taksonomija|f}}
+* {{ttbc|el}}: {{t|el|ταξινομία|f|tr=taksinomia|sc=Grek}}
+* {{ttbc|ia}}: {{t|ia|taxinomia}}
+* {{ttbc|it}}: {{t|it|tassonomia|f}}
 {{trans-mid}}
-* {{ttbc|ko}}: [[분류학]] (bunryuhak)
-* {{ttbc|la}}: [[taxonomia]] {{f}}
+* {{ttbc|ko}}: {{t|ko|분류학|tr=bunryuhak|sc=Kore}}
+* {{ttbc|la}}: {{t|la|taxonomia|f}}
 * {{ttbc|fa}}: {{t|fa|رده بندی|tr=rad-e bandi}}
-* {{ttbc|pt}}: [[taxionomia]] {{f}} (''parallel forms:'' [[taxinomia]], [[taxonomia]])
-* {{ttbc|sl}}: [[taksonomija]] {{f}}
-* {{ttbc|sk}}: [[taxonómia]] {{f}}
-* {{ttbc|tr}}: [[sınıflandırma bilimi]], [[taksonomi]]
+* {{ttbc|pt}}: {{qualifier|''parallel forms:'' [[taxinomia]], [[taxonomia]]}} {{t|pt|taxionomia|f}}
+* {{ttbc|sl}}: {{t|sl|taksonomija|f}}
+* {{ttbc|sk}}: {{t|sk|taxonómia|f}}
+* {{ttbc|tr}}: {{t|tr|sınıflandırma bilimi}}, {{t|tr|taksonomi}}
 {{trans-bottom}}
 
 ====See also====
