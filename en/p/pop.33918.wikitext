@@ -67,6 +67,11 @@
 #: ''He '''popped''' me on the nose.''
 # To [[ejaculate]].
 # {{context|computing|lang=en}} To remove (a data item) from the top of a [[stack]].
+#* '''2010''', Enrico Perla, ‎Massimiliano Oldani, ''A Guide to Kernel Exploitation: Attacking the Core'' (page 55)
+#*: Once the callee (the called function) terminates, it cleans the stack that it has been locally using and '''pops''' the next value stored on top of the stack.
+# {{context|computing|lang=en}} To remove a data item from the top of (a stack).
+#* '''2011''', John Mongan, ‎Noah Kindler, ‎Eric Giguère, ''Programming Interviews Exposed''
+#*: The algorithm '''pops''' the stack to obtain a new current node when there are no more children (when it reaches a leaf).
 # {{context|UK|lang=en}} To [[place]] (something) (somewhere).
 #: ''Just '''pop''' it in the fridge for now.''
 #* Milton
