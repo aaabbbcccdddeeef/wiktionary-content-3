@@ -30,6 +30,9 @@
 # To make a higher [[bid]] at an [[auction]].
 # {{context|poker|lang=en}} To make an [[all-in]] [[bet]].
 # {{context|chess|transitive|lang=en}} To move (a [[pawn]]) directly [[forward]].
+# {{context|computing|lang=en}} To add (a data item) to the top of a [[stack]].
+#* '''1992''', Michael A. Miller, ''The 68000 Microprocessor Family: Architecture, Programming, and Applications'' (page 47)
+#*: When the microprocessor decodes the JSR opcode, it stores the operand into the TEMP register and '''pushes''' the current contents of the PC ($00 0128) onto the stack.
 
 ====Synonyms====
 * {{sense|transitive: apply a force to (an object) so it moves away}} to [[press]], to [[shove]], to [[thrutch]]
