@@ -4,7 +4,7 @@
 {{wikipedia}}
 
 ===Etymology===
-{{etyl|enm|en}}, via {{etyl|ONF.|en}} {{term|camel|lang=fro}} ([[Old French]] {{term|chamel|lang=fro}}, modern {{term|chameau|lang=fr}}), from {{etyl|la|en}} {{term|camelus|camēlus|lang=la}}, from {{etyl|grc|en}} {{term|sc=polytonic|κάμηλος|tr=kamēlos|lang=grc}}, from {{etyl|sem-pro|en}} {{term/t|sem-pro|*gamal-}}; compare Arabic {{term|sc=Arab|جمل|tr=jamal|lang=ar}} and Hebrew {{term|sc=Hebr|גמל|tr=gamál|lang=he}}.
+{{etyl|enm|en}}, via {{etyl|ONF.|en}} {{term|camel|lang=fro}} ([[Old French]] {{term|chamel|lang=fro}}, modern {{term|chameau|lang=fr}}), from {{etyl|la|en}} {{term/t|la|camēlus}}, from {{etyl|grc|en}} {{term|sc=polytonic|κάμηλος|tr=kamēlos|lang=grc}}, from {{etyl|sem-pro|en}} {{term/t|sem-pro|*gamal-}}; compare Arabic {{term|sc=Arab|جمل|tr=jamal|lang=ar}} and Hebrew {{term|sc=Hebr|גמל|tr=gamál|lang=he}}.
 
 ===Pronunciation===
 * {{IPA|/ˈkæməl/}}
@@ -103,7 +103,7 @@
 * Ladin: camel
 * Lao: {{t+|lo|ອູດ|tr=ȕːt|sc=Laoo}}
 {{trans-mid}}
-* Latin: {{t-|la|camelus|m|alt=camēlus}}, {{t-|la|camela|f|alt=camēla}}
+* Latin: {{t-|la|camēlus|m}}, {{t-|la|camēla|f}}
 * Latvian: {{t-|lv|kamielis|m}}
 * Lithuanian: {{t+|lt|kupranugaris|m}}
 * Luxembourgish: {{t+|lb|Kaméil|n}}
@@ -195,7 +195,7 @@
 ==Old French==
 
 ===Etymology===
-{{etyl|la|fro}} {{term|camelus|camēlus|lang=la}}
+{{etyl|la|fro}} {{term/t|la|camēlus}}
 
 ===Noun===
 {{fro-noun|m|camelz|camelz}}
