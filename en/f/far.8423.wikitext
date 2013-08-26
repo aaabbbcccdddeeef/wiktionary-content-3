@@ -108,7 +108,7 @@
 * Seri: {{tø|sei|aamo}} (intermediate distance, a bit far)
 * Sicilian: {{t+|scn|luntanu}}
 * Slovak: {{t|sk|ďaleký}}
-* Slovene: {{t+|sl|daleč|alt=dáleč}}
+* Slovene: {{t+|sl|dáleč}}
 * Spanish: {{t+|es|lejano}}
 * Swedish: {{t+|sv|fjärran}}, långt {{t+|sv|bort}}, {{t+|sv|avlägsen}}
 * Talysh:
@@ -202,7 +202,7 @@
 * Japanese: {{t+|ja|遠く|tr=tōku|sc=Jpan}}
 * Korean: {{t|ko|멀리|tr=meolli|sc=Kore}}
 {{trans-mid}}
-* Latin: {{t-|la|longe|alt=longē}}
+* Latin: {{t-|la|longē}}
 * Macedonian: {{t|mk|далеку|tr=dáleku|sc=Cyrl}}
 * Navajo: {{tø|nv|nízah}}
 * Neapolitan: {{tø|nap|luntano}}
@@ -228,7 +228,7 @@
 *: Mandarin: {{t|cmn|遠|alt=遠的|sc=Hani}}, {{t|cmn|远|alt=远的|tr=yuǎn de|sc=Hani}}, {{t|cmn|遠離|alt=遠離的|sc=Hani}}, {{t|cmn|远离|alt=远离的|tr=yuǎnlí de|sc=Hani}}, {{t|cmn|更遠|alt=更遠的|sc=Hani}}, {{t|cmn|更远|alt=更远的|tr=gèngyuǎn de|sc=Hani}}
 {{trans-mid}}
 * Finnish: {{t+|fi|kauas}} (''to''), {{t+|fi|kaukaa}} (''from''), {{t-|fi|etäälle}}, {{t-|fi|etäältä}}
-* Latin: {{t-|la|longe|alt=longē}}
+* Latin: {{t-|la|longē}}
 * Norwegian: {{t+|no|langt}}
 * Russian: {{t+|ru|далеко|tr=dalekó}}
 {{trans-bottom}}
@@ -456,7 +456,7 @@ Maybe from the same {{etyl|urj-pro|hu}} root *''perä'' as Finnish ''[[perä]]''
 ==Latin==
 
 ===Etymology===
-From {{etyl|ine-pro|en}} {{term/t|ine-pro|*bʰars}}- ‘spike, prickle’ (compare Welsh {{term|bara|lang=cy}} ‘bread’, English {{term|barley|lang=en}}, Serbo-Croatian {{term|брашно|бра̏шно|sc=Cyrl|lang=sh}}/{{term|brašno|brȁšno|lang=sh}} ‘flour’, Albanian {{term|bar|lang=sq}} ‘grass’, Ancient Greek {{term|Φήρον||plant deity|tr=Phḗron|lang=grc}}).
+From {{etyl|ine-pro|en}} {{term/t|ine-pro|*bʰars}}- ‘spike, prickle’ (compare Welsh {{term|bara|lang=cy}} ‘bread’, English {{term|barley|lang=en}}, Serbo-Croatian {{term|брашно|бра̏шно|sc=Cyrl|lang=sh}}/{{term/t|sh|brȁšno}} ‘flour’, Albanian {{term|bar|lang=sq}} ‘grass’, Ancient Greek {{term|Φήρον||plant deity|tr=Phḗron|lang=grc}}).
 ===Noun===
 {{la-noun|far|farris|farris|n|third}}
 
@@ -720,7 +720,7 @@ From {{etyl|fr|tr}} {{term|fard|lang=fr}}.
 ==Venetian==
 
 ===Etymology===
-From {{etyl|la|vec}} {{term|facere|lang=la}}, present active infinitive of {{term|facio|faciō|lang=la}}. Compare Italian {{term|fare|lang=it}}
+From {{etyl|la|vec}} {{term|facere|lang=la}}, present active infinitive of {{term/t|la|faciō}}. Compare Italian {{term|fare|lang=it}}
 
 ===Verb===
 {{head|vec|verb}} {{context|transitive|lang=vec}}[[Category:Context label misused]]
