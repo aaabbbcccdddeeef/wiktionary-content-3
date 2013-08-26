@@ -4,7 +4,7 @@
 {{elements|Mg|sodium|Na|aluminium|Al}}
 
 ===Etymology===
-From {{etyl|NL.|en}} {{term|magnesium|magnēsium|lang=la}}, from {{suffix|Magnesia|alt1=Magnēsia|gloss1=region in Thessaly|ium|lang=la|nocat=1}}.
+From {{etyl|NL.|en}} {{term/t|la|magnēsium}}, from {{suffix|Magnesia|alt1=Magnēsia|gloss1=region in Thessaly|ium|lang=la|nocat=1}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˌmæɡˈniːziəm/}}, {{X-SAMPA|/%m{g"ni:zi@m/}}
@@ -247,7 +247,7 @@ From {{etyl|NL.|en}} {{term|magnesium|magnēsium|lang=la}}, from {{suffix|Magnes
 {{wikipedia|lang=la}}
 
 ===Etymology===
-From {{term|Magnesia|Magnēsia|lang=la}}, a region in Thessaly.
+From {{term/t|la|Magnēsia}}, a region in Thessaly.
 
 ===Pronunciation===
 * {{a|Classical}} {{IPA|/maŋˈneː.si.um/|lang=la}}
@@ -258,10 +258,10 @@ From {{term|Magnesia|Magnēsia|lang=la}}, a region in Thessaly.
 ===Adjective===
 {{la-adj-form|magnēsium}}
 
-# {{inflection of|magnesius|magnēsius|nom|n|s|lang=la}}
-# {{inflection of|magnesius|magnēsius|acc|m|s|lang=la}}
-# {{inflection of|magnesius|magnēsius|acc|n|s|lang=la}}
-# {{inflection of|magnesius|magnēsius|voc|n|s|lang=la}}
+# {{inflection of|magnēsius||nom|n|s|lang=la}}
+# {{inflection of|magnēsius||acc|m|s|lang=la}}
+# {{inflection of|magnēsius||acc|n|s|lang=la}}
+# {{inflection of|magnēsius||voc|n|s|lang=la}}
 
 ===Noun===
 {{la-noun|magnēsium|magnesii|magnēsiī|n|second}}
@@ -274,8 +274,8 @@ From {{term|Magnesia|Magnēsia|lang=la}}, a region in Thessaly.
 {{la-decl-2nd-N|magnēsi}}
 
 ====Related terms====
-* {{l|la|Magnesia|Magnēsia}}
-* {{l|la|magnesius|magnēsius}}
+* {{l|la|Magnēsia}}
+* {{l|la|magnēsius}}
 
 ====Descendants====
 * English: {{l|en|magnesium}}
@@ -311,7 +311,7 @@ From {{term|Magnesia|Magnēsia|lang=la}}, a region in Thessaly.
 {{elements|Mg|natrium|Na|aluminium|Al|lang=ms}}
 
 ===Etymology===
-From {{etyl|en|ms}} {{term|magnesium|lang=en}}, from {{etyl|NL.|ms}} {{term|magnesium|magnēsium|lang=la}}.
+From {{etyl|en|ms}} {{term|magnesium|lang=en}}, from {{etyl|NL.|ms}} {{term/t|la|magnēsium}}.
 
 ===Alternative forms===
 * {{l|ms|مݢنيسيوم|sc=Arab}}
