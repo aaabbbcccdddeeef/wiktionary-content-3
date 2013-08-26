@@ -229,7 +229,7 @@ From {{etyl|enm|en}} {{term|maille||mail armor|lang=enm}}, from {{etyl|fro|en}} 
 * Greek: {{t+|el|θώρακας|m|tr=thórakas|sc=Grek}}, {{t+|el|πανοπλία|f|tr=panoplía|sc=Grek}}
 * Hungarian: {{t+|hu|páncél}}
 {{trans-mid}}
-* Latin: {{t-|la|suta|alt=sūta|n-p}}
+* Latin: {{t-|la|sūta|n-p}}
 * Portuguese: {{t+|pt|malha|f}}
 * Russian: {{t+|ru|кольчуга|f|tr=kol'čúga}}
 {{trans-bottom}}
@@ -241,7 +241,7 @@ From {{etyl|enm|en}} {{term|maille||mail armor|lang=enm}}, from {{etyl|fro|en}} 
 # {{context|transitive|lang=en}} To [[pinion]].
 
 ===Etymology 3===
-{{etyl|enm|en}} {{term|mal|lang=enm}}, {{term|male|lang=enm}} from {{etyl|ang|en}} {{term|mal|māl|speech, contract, agreement|lang=ang}} from {{etyl|non|en}} {{term|mál||agreement, speech, lawsuit|lang=non}}. Akin to {{etyl|ang|-}} {{term|mæl||mǣl|speech|lang=ang}}.
+{{etyl|enm|en}} {{term|mal|lang=enm}}, {{term|male|lang=enm}} from {{etyl|ang|en}} {{term/t|ang|māl||speech, contract, agreement}} from {{etyl|non|en}} {{term|mál||agreement, speech, lawsuit|lang=non}}. Akin to {{etyl|ang|-}} {{term|mæl||mǣl|speech|lang=ang}}.
 
 ====Alternative forms====
 * [[maill]]
@@ -365,7 +365,7 @@ From {{etyl|en|fr}} {{term|email|lang=en}}
 * {{qualifier|Sutsilvan}} {{l|rm|mel}}
 
 ===Etymology===
-From {{etyl|la|rm}} {{term|malum|mālum|lang=la}}. Compare Romanian {{term|măr|lang=ro}}.
+From {{etyl|la|rm}} {{term/t|la|mālum}}. Compare Romanian {{term|măr|lang=ro}}.
 
 ===Noun===
 {{rm-noun|m}}
