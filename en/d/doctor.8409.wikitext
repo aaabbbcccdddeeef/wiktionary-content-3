@@ -8,7 +8,7 @@
 * [[doctour]] {{qualifier|obsolete}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{term||doctor, doctour|an expert, authority on a subject|lang=enm}}, from {{etyl|xno|en}} {{term|doctour||lang=fro}}, from {{etyl|la|en}} {{term|doctor||teacher|lang=la}}, from {{term|doceo|doceō|I teach|lang=la}}. Displaced native [[Middle English]] {{term|lerare||doctor, teacher|lang=enm}} (from [[Middle English]] {{term|leren||to teach, instruct|lang=enm}} from [[Old English]] {{term|læran|lǣran, lēran|to teach, instruct, guide|lang=ang}}, compare [[Old English]] {{term|lareow|lārēow|teacher, master|lang=ang}}).
+From {{etyl|enm|en}} {{term||doctor, doctour|an expert, authority on a subject|lang=enm}}, from {{etyl|xno|en}} {{term|doctour||lang=fro}}, from {{etyl|la|en}} {{term|doctor||teacher|lang=la}}, from {{term/t|la|doceō||I teach}}. Displaced native [[Middle English]] {{term|lerare||doctor, teacher|lang=enm}} (from [[Middle English]] {{term|leren||to teach, instruct|lang=enm}} from [[Old English]] {{term|læran|lǣran, lēran|to teach, instruct, guide|lang=ang}}, compare [[Old English]] {{term/t|ang|lārēow||teacher, master}}).
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈdɒk.tə/}}, {{X-SAMPA|/"dQk.t@/}}
@@ -203,7 +203,7 @@ From {{etyl|enm|en}} {{term||doctor, doctour|an expert, authority on a subject|l
 * Norwegian: {{t+|no|lege|m}}
 * Novial: {{t|nov|medike}}
 * Occitan: {{t+|oc|mètge}}
-* Old English: {{t-|ang|læce|m|alt=lǣce}}
+* Old English: {{t-|ang|lǣce|m}}
 * Old French: {{tø|fro|fisician|m}}
 * Persian: {{t+|fa|پزشک|tr=pezešk}}, {{t+|fa|دکتر|tr=doktor}}, {{t+|fa|طبیب|tr=tabib|sc=fa-Arab}}
 * Polish: {{t+|pl|lekarz|m}}, {{t+|pl|lekarka|f}}, {{t+|pl|medyk|m}}
@@ -291,7 +291,7 @@ From {{etyl|enm|en}} {{term||doctor, doctour|an expert, authority on a subject|l
 * Romanian: {{t+|ro|doctor|m|f}}
 * Russian: {{t+|ru|доктор|m|f|tr=dóktor}}
 * Scottish Gaelic: {{t|gd|ollamh|m}}
-* Serbo-Croatian: {{t-|sh|doktor|m|alt=dȍktor}}, {{t-|sh|doktorica|f|alt=dȍktorica}}
+* Serbo-Croatian: {{t-|sh|dȍktor|m}}, {{t-|sh|dȍktorica|f}}
 * Slovak: {{t-|sk|doktor|m}}
 * Slovene: {{t-|sl|doktor|m}}, {{t-|sl|doktorica|f}}
 * Spanish: {{t+|es|doctor|m}}, {{t+|es|doctora|f}}
@@ -473,7 +473,7 @@ From {{etyl|dum|nl}} {{term|doctor|lang=dum}}, from {{etyl|la|nl}} {{term|doctor
 ==Latin==
 
 ===Etymology===
-From {{term|doceo|doceō|teach|lang=la}}.
+From {{term/t|la|doceō||teach}}.
 
 ===Pronunciation===
 * {{a|Classical}} {{IPA|/ˈdok.tor/|lang=la}}
