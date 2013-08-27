@@ -5,7 +5,7 @@
 * [[judg]] {{qualifier|obsolete}}
 
 ===Etymology===
-From {{etyl|fro|en}} {{term|juge||judge (noun)|lang=fro}}, {{term|juger||judge (verb)|lang=fro}}, ultimately from {{etyl|la|en}} {{term|iudico|iūdicare|pass judgement upon|lang=la}}, from {{term|iudicem|iūdicem|accusative of iūdex|lang=la}}, from {{term|iudex|iūdex|judge|lang=la}}, from {{term|ius|iūs|law|lang=la}} + {{term|dicus||speaker|lang=la}}.
+From {{etyl|fro|en}} {{term|juge||judge (noun)|lang=fro}}, {{term|juger||judge (verb)|lang=fro}}, ultimately from {{etyl|la|en}} {{term|iudico|iūdicare|pass judgement upon|lang=la}}, from {{term/t|la|iūdicem||accusative of iūdex}}, from {{term/t|la|iūdex||judge}}, from {{term/t|la|iūs||law}} + {{term|dicus||speaker|lang=la}}.
 
 ===Pronunciation===
 * {{enPR|jŭj}}, {{IPA|/dʒʌdʒ/}}, {{X-SAMPA|/dZVdZ/}}
@@ -70,7 +70,7 @@ From {{etyl|fro|en}} {{term|juge||judge (noun)|lang=fro}}, {{term|juger||judge (
 * Jèrriais: {{tø|roa-jer|juge|m|f}}
 * Kamba: {{tø|kam|jaji}}
 {{trans-mid}}
-* Latin: {{t+|la|iudex|m|alt=iūdex}}
+* Latin: {{t+|la|iūdex|m}}
 * Latvian: {{t-|lv|tiesnesis|m}}
 * Lithuanian: {{t-|lt|teisėjas|m}}
 * Luhya: {{tø|luy|jaji}}, {{tø|luy|muamuli}}
@@ -169,7 +169,7 @@ From {{etyl|fro|en}} {{term|juge||judge (noun)|lang=fro}}, {{term|juger||judge (
 * Icelandic: {{t-|is|dómbær|m}}, {{t-|is|sérfróður|m}}, {{qualifier|to be a good judge of}} {{t-|is|hafa gott vit á}}, {{qualifier|to be a good judge of}} {{t-|is|hafa vit á}}
 {{trans-mid}}
 * Italian: {{t+|it|intenditore}}
-* Latin: {{t-|la|existimator|m|alt=exīstimātor}}
+* Latin: {{t-|la|exīstimātor|m}}
 * Portuguese: {{t-|pt|julgador|m}}, {{t-|pt|julgadora|f}}
 * Russian: [{{t+|ru|судья|tr=sud’já|m|f}}
 * Swahili: {{t+|sw|jaji}}
@@ -249,7 +249,7 @@ From {{etyl|fro|en}} {{term|juge||judge (noun)|lang=fro}}, {{term|juger||judge (
 * Italian: {{t+|it|giudicare}}
 * Jèrriais: {{tø|roa-jer|jugi}}
 {{trans-mid}}
-* Latin: {{t-|la|iudico|alt=iūdicō}}
+* Latin: {{t-|la|iūdicō}}
 * Latvian: {{t-|lv|tiesāt}}
 * Lithuanian: {{t-|lt|teisti}}
 * Occitan: {{t+|oc|jutjar}}
@@ -378,7 +378,7 @@ From {{etyl|fro|en}} {{term|juge||judge (noun)|lang=fro}}, {{term|juger||judge (
 * {{ttbc|it}}: [[giudicare]]
 {{trans-mid}}
 * {{ttbc|ja}}: [[判断する]] (はんだんする, handan suru)
-* {{ttbc|la}}: {{t+|la|arbitror}}, {{t-|la|iudico|alt=iūdicō}}
+* {{ttbc|la}}: {{t+|la|arbitror}}, {{t-|la|iūdicō}}
 * {{ttbc|no}}: [[dømme]], [[avgjøre]]
 * {{ttbc|nov}}: [[judika]]
 * {{ttbc|tr}}: [[hükmektmek]], [[yargıya varmak]]
