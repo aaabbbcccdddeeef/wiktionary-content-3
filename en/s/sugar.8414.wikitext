@@ -480,7 +480,7 @@ From later {{etyl|fro|en}} {{term|çucre|lang=fro}} (circa 13th cent), from {{et
 * Lao: {{t+|lo|ນ້ຳຕານ|tr=nam-taan|sc=Laoo}}
 {{trans-mid}}
 * Latgalian: {{tø|ltg|cukrys|m}}
-* Latin: {{t-|la|saccharum|n|alt=sāccharum}}
+* Latin: {{t-|la|sāccharum|n}}
 * Latvian: {{t+|lv|cukurs|m}}
 * Lingala: {{t-|ln|sukáli}}
 * Lithuanian: {{t+|lt|cukrus|m}}
@@ -505,8 +505,8 @@ From later {{etyl|fro|en}} {{term|çucre|lang=fro}} (circa 13th cent), from {{et
 * Sanskrit: {{t+|sa|शर्करा|f|tr=śárkarā}}
 * Scottish Gaelic: {{t-|gd|siùcar|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|шећер|m|alt=шѐћер|sc=Cyrl}}
-*: Roman: {{t-|sh|šećer|m|alt=šèćer}}
+*: Cyrillic: {{t-|sh|шѐћер|m|sc=Cyrl}}
+*: Roman: {{t-|sh|šèćer|m}}
 * Shona: {{t-|sn|shuga}}
 * Shor: {{tø|cjs|сакер|tr=saker|sc=Cyrl}}
 * Sicilian: {{t+|scn|zuccuru|m}}
@@ -888,14 +888,14 @@ From {{term|su|lang=eu}} + {{term|gar|lang=eu}}.
 ===Verb===
 {{la-verb-form|sūgar}}
 
-# {{conjugation of|sugo|sūgō|1|s|fut|pass|ind|lang=la}}
+# {{conjugation of|sūgō||1|s|fut|pass|ind|lang=la}}
 
 ----
 
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|VL.|pt}} *''sucāre'', from {{etyl|la|pt}} {{term|sugere|lang=pt}}, present active infinitive of {{term|sugo|sugō|lang=la}}.
+From {{etyl|VL.|pt}} *''sucāre'', from {{etyl|la|pt}} {{term|sugere|lang=pt}}, present active infinitive of {{term/t|la|sugō}}.
 
 ===Verb===
 {{pt-verb|su|gar}}
