@@ -8,7 +8,7 @@
 * {{rhymes|ɛt}}
 
 ===Etymology 1===
-From {{etyl|ang|en}} {{term|swat|swāt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|gem-pro|*swait-}}, from {{etyl|ine-pro|en}} {{term/t|ine-pro|*swoyd-||to sweat}}, {{term/t|ine-pro|*sweyd-}}. Cognate with West Frisian {{term|swit|lang=fy}}, Dutch {{term|zweet|lang=nl}}, German {{term|Schweiß|lang=de}}, Danish {{term|sved|lang=da}}, Swedish {{term|svett|lang=sv}}, Yiddish {{term|שוויצן|sc=Hebr|tr=shvitsn|lang=yi}} (English {{term|shvitz|lang=en}}), French {{term|sueur|lang=fr}}, Persian {{term|sc=fa-Arab|خوی|tr=xway|lang=fa}}, Sanskrit {{term|स्वेद|tr=svéda|lang=sa|sc=Deva}}, Latvian {{term|sviedri|lang=lt}}, Tocharian B {{term|syā-|lang=txb}}, and Albanian {{term|djersë|lang=sq}}.
+From {{etyl|ang|en}} {{term/t|ang|swāt}}, from {{etyl|gem-pro|en}} {{term/t|gem-pro|*swait-}}, from {{etyl|ine-pro|en}} {{term/t|ine-pro|*swoyd-||to sweat}}, {{term/t|ine-pro|*sweyd-}}. Cognate with West Frisian {{term|swit|lang=fy}}, Dutch {{term|zweet|lang=nl}}, German {{term|Schweiß|lang=de}}, Danish {{term|sved|lang=da}}, Swedish {{term|svett|lang=sv}}, Yiddish {{term|שוויצן|sc=Hebr|tr=shvitsn|lang=yi}} (English {{term|shvitz|lang=en}}), French {{term|sueur|lang=fr}}, Persian {{term|sc=fa-Arab|خوی|tr=xway|lang=fa}}, Sanskrit {{term|स्वेद|tr=svéda|lang=sa|sc=Deva}}, Latvian {{term|sviedri|lang=lt}}, Tocharian B {{term|syā-|lang=txb}}, and Albanian {{term|djersë|lang=sq}}.
 
 ====Noun====
 {{en-noun|-|s}}
@@ -83,7 +83,7 @@ From {{etyl|ang|en}} {{term|swat|swāt|lang=ang}}, from {{etyl|gem-pro|en}} {{te
 {{trans-mid}}
 * Latin: {{t+|la|sudor|m}}
 * Latvian: {{t-|lv|sviedri|p}}
-* Lithuanian: {{t-|lt|prakaitas|m|alt=prãkaitas}}
+* Lithuanian: {{t-|lt|prãkaitas|m}}
 * Luhya: {{tø|luy|lukesi}}
 * Luxembourgish: {{t-|lb|Schweess|m}}
 * Macedonian: {{t-|mk|пот|f|tr=pot|sc=Cyrl}}
@@ -103,10 +103,10 @@ From {{etyl|ang|en}} {{term|swat|swāt|lang=ang}}, from {{etyl|gem-pro|en}} {{te
 * Sanskrit: {{t-|sa|स्वेद|tr=svéda|sc=Deva}}
 * Sardinian: {{t-|sc|sori}}, {{t-|sc|sudore}}, {{t-|sc|sudori}}, {{t-|sc|suore}}, {{t-|sc|suori}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|зној|m|alt=зно̑ј|sc=Cyrl}}, {{t-|sh|пот|m}}
-*: Roman: {{t-|sh|znoj|m|alt=znȏj}}, {{t+|sh|pot|m}}
+*: Cyrillic: {{t-|sh|зно̑ј|m|sc=Cyrl}}, {{t-|sh|пот|m}}
+*: Roman: {{t-|sh|znȏj|m}}, {{t+|sh|pot|m}}
 * Slovak: {{t-|sk|pot|m}}
-* Slovene: {{t+|sl|znoj|m|alt=znój}}
+* Slovene: {{t+|sl|znój|m}}
 * Spanish: {{t+|es|sudor|m}}
 * Swahili: [[jasho]] ''(noun5/6)''
 * Swedish: {{t+|sv|svett|n}}
@@ -129,7 +129,7 @@ From {{etyl|ang|en}} {{term|swat|swāt|lang=ang}}, from {{etyl|gem-pro|en}} {{te
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{etyl|ang|en}} {{term|swætan|lang=ang}}, from the noun {{term|swat|swāt|lang=ang}}. Compare Dutch {{term|zweten|lang=nl}}, German {{term|schwitzen|lang=de}}, Danish {{term|svede|lang=da}}.
+From {{etyl|ang|en}} {{term|swætan|lang=ang}}, from the noun {{term/t|ang|swāt}}. Compare Dutch {{term|zweten|lang=nl}}, German {{term|schwitzen|lang=de}}, Danish {{term|svede|lang=da}}.
 
 ====Verb====
 {{en-verb}}
@@ -201,7 +201,7 @@ From {{etyl|ang|en}} {{term|swætan|lang=ang}}, from the noun {{term|swat|swāt|
 * Japanese: {{t-|ja|汗をかく|tr=あせをかく, ase-o kaku}}
 * Kurdish:
 *: Sorani: {{t|ku|sc=ku-Arab|ئاره‌ق}}
-* Lithuanian: {{t-|lt|prakaituoti|alt=prakaitúoti}}
+* Lithuanian: {{t-|lt|prakaitúoti}}
 * Macedonian: {{t-|mk|поти|alt=се поти|sc=Cyrl}}
 * {{trreq|mn}}
 * Neapolitan: {{tø|nap|sudà}}
