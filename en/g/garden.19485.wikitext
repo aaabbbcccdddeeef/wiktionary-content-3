@@ -58,11 +58,11 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Afrikaans: {{t-|af|tuin}}
 * Albanian: {{t-|sq|kopsht|m}}
 * Alviri-Vidari: {{tø|avd|باغ|tr=bāğ}}
-* Arabic: {{t+|ar|حَديقة|f|tr=ḥadīqa|sc=Arab}}
+* Arabic: {{t-|ar|حَديقة|f|tr=ḥadīqa|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|جنينة|f|tr=ginayna(t)|sc=Arab}}
 *: Morocco: {{tø|ary|جاردة|tr=žārda|sc=Arab}}
 * Aramaic:
-*: Syriac: {{t|syc|ܓܢܬܐ|f|tr=gantā, ganto|sc=Syrc}}
+*: Syriac: {{tø|syc|ܓܢܬܐ|f|tr=gantā, ganto|sc=Syrc}}
 * Armenian: {{t+|hy|այգի|tr=aygi|sc=Armn}}, {{t-|hy|պարտեզ|tr=partez|sc=Armn}}
 * Asturian: {{t-|ast|xardín}}
 * Baluchi: {{tø|bal|باگ|tr=bág|sc=fa-Arab}}
@@ -73,7 +73,7 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Catalan: {{t-|ca|jardí|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|花園|sc=Hani}}, {{t|cmn|花园|tr=huāyuán|sc=Hani}}
-*: Min Nan: {{t|nan|花園|tr=hoe-hn̂g|sc=Hani}}
+*: Min Nan: {{t+|nan|花園|tr=hoe-hn̂g|sc=Hani}}
 * Czech: {{t+|cs|zahrada|f}}
 * Danish: {{t+|da|have}}
 * Dutch: {{t+|nl|tuin|m}}
@@ -82,13 +82,13 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Faroese: {{t-|fo|urtagarður|m}}
 * Finnish: {{t+|fi|puutarha}}
 * French: {{t+|fr|jardin|m}}
-* Friulian: {{t|fur|zardin}}
+* Friulian: {{tø|fur|zardin}}
 * Galician: {{t+|gl|xardín|m}}
 * Georgian: {{t-|ka|ბაღი|sc=Geor}}
 * German: {{t+|de|Garten|m}}
 * Greek: {{t+|el|περιβόλι|n|tr=perivóli|sc=Grek}}, {{t+|el|περβόλι|n|tr=pervóli|sc=Grek}}, {{qualifier|small}} {{t+|el|κήπος|m|tr=cípos|sc=Grek}}
 * Guernésiais: {{tø|roa-grn|gardin|m}}
-* Hebrew: {{t|he|גנתא|f|tr=gantā, ganto|sc=Hebr}}, {{t+|he|גַּן|m|tr=gan|sc=Hebr}}
+* Hebrew: {{t-|he|גנתא|f|tr=gantā, ganto|sc=Hebr}}, {{t-|he|גַּן|m|tr=gan|sc=Hebr}}
 * Hindi: {{t-|hi|बाग़ीचा|m|tr=bāġīcā|sc=Deva}}, {{t-|hi|बाग़|m|tr=bāġ|sc=Deva}}
 * Hungarian: {{t+|hu|kert}}
 * Icelandic: {{t+|is|garður}}
@@ -110,7 +110,7 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Marathi: {{t-|mr|बगीचा|sc=Deva}}
 * Navajo: {{tø|nv|dáʼákʼeh}}
 * Neapolitan: {{tø|nap|ciardino|m}}
-* Norman: {{t|roa-nor|gardîn}}
+* Norman: {{tø|roa-nor|gardîn}}
 * Norwegian: {{t+|no|hage|m}}, {{t+|no|have|m}}
 * Ojibwe: {{tø|oj|gitigaan}}
 * Persian: {{t+|fa|باغ|tr=bâğ|sc=fa-Arab}}, {{t+|fa|باغچه|tr=bâğče|sc=fa-Arab}}
@@ -121,8 +121,8 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Russian: {{t+|ru|сад|m|tr=sad|sc=Cyrl}}, {{t+|ru|огород|m|tr=ogoród|sc=Cyrl}} {{qualifier|vegetable garden}}
 * Scottish Gaelic: {{t-|gd|gàrradh|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|вртњак|sc=Cyrl}}, {{t|sh|повртњак|sc=Cyrl}}, {{t|sh|сад|sc=Cyrl}}, {{t|sh|садњак|sc=Cyrl}}, {{t|sh|посадњак|sc=Cyrl}}, {{t-|sh|врт|m|sc=Cyrl}}
-*: Roman: {{t|sh|vrtnjak}}, {{t|sh|povrtnjak}}, {{t|sh|sad}}, {{t|sh|sadnjak}}, {{t|sh|posadnjak}}, {{t+|sh|vrt|m}}
+*: Cyrillic: {{t-|sh|вртњак|sc=Cyrl}}, {{t-|sh|повртњак|sc=Cyrl}}, {{t-|sh|сад|sc=Cyrl}}, {{t-|sh|садњак|sc=Cyrl}}, {{t-|sh|посадњак|sc=Cyrl}}, {{t-|sh|врт|m|sc=Cyrl}}
+*: Roman: {{t-|sh|vrtnjak}}, {{t-|sh|povrtnjak}}, {{t-|sh|sad}}, {{t-|sh|sadnjak}}, {{t-|sh|posadnjak}}, {{t+|sh|vrt|m}}
 * Slovak: {{t-|sk|záhrada|f}}, {{t-|sk|záhradka|f}}
 * Slovene: {{t+|sl|vrt|m}}
 * Spanish: {{t+|es|jardín|m}}
@@ -130,7 +130,7 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Swedish: {{t+|sv|trädgård|c}}
 * Tagalog: {{t+|tl|hardin}}
 * Tajik: {{t-|tg|боғ|tr=boğ|sc=Cyrl}}
-* Taos: {{t|twf|wàlto’óna}}
+* Taos: {{tø|twf|wàlto’óna}}
 * Telugu: {{t+|te|తోట|tr=tōṭa}}
 * Thai: {{t-|th|สวน|tr=sŭan|sc=Thai}}
 * Turkish: {{t+|tr|bahçe}}
@@ -145,7 +145,7 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 {{trans-top|gardens with public access}}
 * Armenian: {{t-|hy|զբոսայգի|tr=zbosaygi|sc=Armn}}, {{t+|hy|այգի|tr=aygi|sc=Armn}}
 * Bashkir: {{tø|ba|баҡса|tr=baqsa|sc=Cyrl}}
-* {{ttbc|ca}}: {{t-|ca|jardí|m}}, {{t+|ca|parc|m}}, {{t|ca|públic|m|alt=jardí públic}} <!-- was "jardí [[públic]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|ca}}: {{t-|ca|jardí|m}}, {{t+|ca|parc|m}}, {{t+|ca|públic|m|alt=jardí públic}} <!-- was "jardí [[públic]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Czech: {{t+|cs|zahrada|f}}
 * Danish: {{t+|da|have}}, {{t+|da|park}}, {{t-|da|anlæg}}
 * Dutch: {{t+|nl|tuin|m}}, {{t+|nl|park|n}}
@@ -154,28 +154,28 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Finnish: {{t+|fi|puutarha}}, {{t+|fi|puisto}}
 * French: {{t+|fr|jardin public|m}}, {{t+|fr|parc|m}}
 * German: {{t+|de|Garten|m}}
-* {{ttbc|el}}: {{t|el|δημόσιος κήπος|tr=ðimósios cípos|sc=Grek}} ("public garden"), {{t|el|κήπος|m|tr=cípos|sc=Grek}}, {{t|el|άλσος|m|tr=álsos|sc=Grek}}, {{t|el|πάρκο|n|tr=párko|sc=Grek}}
+* {{ttbc|el}}: {{t-|el|δημόσιος κήπος|tr=ðimósios cípos|sc=Grek}} ("public garden"), {{t+|el|κήπος|m|tr=cípos|sc=Grek}}, {{t+|el|άλσος|m|tr=álsos|sc=Grek}}, {{t+|el|πάρκο|n|tr=párko|sc=Grek}}
 * Hungarian: {{t+|hu|park}}
 * Indonesian: {{t+|id|taman}}
 * Irish: {{t+|ga|gairdín}}
-* Italian: {{t|it|giardino pubblico|m}}, {{t+|it|parco|m}}
-* Japanese: {{t|ja|広場|tr=[[ひろば]], hiroba|sc=Jpan}}
+* Italian: {{t-|it|giardino pubblico|m}}, {{t+|it|parco|m}}
+* Japanese: {{t+|ja|広場|tr=[[ひろば]], hiroba|sc=Jpan}}
 {{trans-mid}}
-* Kurdish: ([[bax]]) {{m}}, ([[baxçe]]) {{m}}, {{t|ku|باخچه‌|sc=ku-Arab}}, {{t|ku|باغ|sc=ku-Arab}}, {{t|ku|باخ|sc=ku-Arab}}
+* Kurdish: ([[bax]]) {{m}}, ([[baxçe]]) {{m}}, {{t+|ku|باخچه‌|sc=ku-Arab}}, {{t+|ku|باغ|sc=ku-Arab}}, {{t+|ku|باخ|sc=ku-Arab}}
 * Latvian: {{t-|lv|parks|m}}
 * Lithuanian: {{t+|lt|parkas|m}}
 * Macedonian: {{t-|mk|градина|f|tr=grádina|sc=Cyrl}}
 * Norwegian: {{t+|no|park|m}}
 * Persian: {{t+|fa|پردیس|tr=pardis|sc=fa-Arab}}, {{t+|fa|بوستان|tr=bustān|sc=fa-Arab}}, {{t+|fa|پارک|tr=pārk|sc=fa-Arab}}
 * Polish: {{t+|pl|ogród|m}}
-* Romanian: {{t|ro|parc|n}}, {{t|ro|grădina publică|f}}
+* Romanian: {{t+|ro|parc|n}}, {{t-|ro|grădina publică|f}}
 * Russian: {{t+|ru|сад|m|tr=sad|sc=Cyrl}}
-* Slovak: {{t|sk|záhrada|f}}, {{t|sk|záhradka|f}}
+* Slovak: {{t-|sk|záhrada|f}}, {{t-|sk|záhradka|f}}
 * Slovene: {{t+|sl|vrt|m}}
 * Spanish: {{t+|es|jardines|m-p}}
 * Swedish: {{t+|sv|park|c}}
-* Tamil: {{t|ta|தோட்டம்|tr=thOTTam|sc=Taml}}
-* Telugu: {{t|te|ఉద్యానవనం|tr=udyAnavanaM|sc=Telu}}
+* Tamil: {{t+|ta|தோட்டம்|tr=thOTTam|sc=Taml}}
+* Telugu: {{t+|te|ఉద్యానవనం|tr=udyAnavanaM|sc=Telu}}
 * Turkish: {{t+|tr|park}}
 {{trans-bottom}}
 
@@ -192,14 +192,14 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Finnish: {{t+|fi|puutarha}}
 * French: {{t+|fr|jardin|m}}
 * German: {{t+|de|Garten|m}}, {{t+|de|Vorgarten|m}} (at the front of a house)
-* {{ttbc|el}}: {{t|el|κήπος|m|tr=cípos|sc=Grek}}, {{t|el|περιβόλι|n|tr=perivóli|sc=Grek}} ("larger garden")
+* {{ttbc|el}}: {{t+|el|κήπος|m|tr=cípos|sc=Grek}}, {{t+|el|περιβόλι|n|tr=perivóli|sc=Grek}} ("larger garden")
 * Hungarian: {{t+|hu|kert}}, {{t+|hu|udvar}}
 * Irish: {{t+|ga|gairdín}}
 * Italian: {{t+|it|giardino|m}}
-* Japanese: {{t|ja|庭|tr=[[にわ]], niwa|sc=Jpan}}
+* Japanese: {{t+|ja|庭|tr=[[にわ]], niwa|sc=Jpan}}
 * Jèrriais: {{tø|roa-jer|gardîn|m}}
 {{trans-mid}}
-* Kurdish: {{t|ku|dermal|f}}, {{t|ku|baxçe|m}}, {{t|ku|bax|m}}
+* Kurdish: {{t+|ku|dermal|f}}, {{t+|ku|baxçe|m}}, {{t+|ku|bax|m}}
 * Macedonian: {{t-|mk|градина|f|tr=grádina|sc=Cyrl}}, {{t-|mk|двор|m|tr=dvor|sc=Cyrl}}
 * Norwegian: {{t+|no|hage|m}}, {{t+|no|tomt|m}}
 * Persian: {{t+|fa|باغچه|tr=bāqĉe|sc=fa-Arab}}
@@ -211,8 +211,8 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Slovene: {{t+|sl|vrt|m}}
 * Spanish: {{t+|es|jardín|m}}
 * Swedish: {{t+|sv|tomt|c}}, {{t+|sv|trädgård|c}}
-* Telugu: {{t|te|పెరడు|tr=peradu|sc=Telu}}
-* Turkish: {{t|tr|ön bahçe}}, {{t|tr|arka bahçe}}
+* Telugu: {{t+|te|పెరడు|tr=peradu|sc=Telu}}
+* Turkish: {{t-|tr|ön bahçe}}, {{t+|tr|arka bahçe}}
 * Ukrainian: {{t-|uk|сад|m|tr=sad|sc=Cyrl}}, {{t+|uk|город|m|tr=hórod|sc=Cyrl}}
 {{trans-bottom}}
 
@@ -229,7 +229,7 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 {{checktrans-top}}
 * {{ttbc|sh}}: {{t-|sh|врт|sc=Cyrl}}
 * {{ttbc|tzm}}: {{tø|tzm|ⵜⵓⵔⵜⵉⵜ|f|tr=turtit|sc=Tfng}}
-* {{ttbc|vo}}: {{t|vo|gad}}
+* {{ttbc|vo}}: {{t+|vo|gad}}
 {{checktrans-bottom}}
 
 ===Verb===
