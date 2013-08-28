@@ -29,13 +29,13 @@
 
 ====Translations====
 {{trans-top|relating to a material object}}
-* {{ttbc|ar}}: {{t|ar|مادّيّ|tr=māddiy|sc=Arab}} <!-- was "[[مادي|مادّيّ]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
-* Dutch: {{t|nl|objectief}}, {{t|nl|objectieve}}
+* {{ttbc|ar}}: {{t-|ar|مادّيّ|tr=māddiy|sc=Arab}} <!-- was "[[مادي|مادّيّ]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Dutch: {{t+|nl|objectief}}, {{t+|nl|objectieve}}
 * Finnish: {{t-|fi|materiaalinen}}, {{t-|fi|esineellinen}}
 * French: {{t+|fr|objectif|m}}, {{t+|fr|objective|f}}
 * Greek: {{t+|el|αντικειμενικός|m|tr=antikeimenikós|sc=Grek}}
 {{trans-mid}}
-* Hungarian: {{t-|hu|tárgyi}}
+* Hungarian: {{t+|hu|tárgyi}}
 * Italian: {{t-|it|oggettivo|m}}
 * Polish: {{t-|pl|obiektowy|m}}, {{t-|pl|przedmiotowy|m}}
 * Swahili: {{t+|sw|shabaha}}
@@ -44,10 +44,10 @@
 
 {{trans-top|not influenced by emotions}}
 * Arabic: {{t-|ar|حقاني|tr=Haqqaaniy}}, {{t-|ar|عقلاني|tr=`aqlaaniy}}, {{t-|ar|متجرد|tr=mutajarrid}}
-* Catalan: {{t|ca|objectiu|m}}
+* Catalan: {{t+|ca|objectiu|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|客觀|sc=Hani}}, {{t|cmn|客观|tr=kèguān|sc=Hani}}
-* Dutch: {{t|nl|objectief}}, {{t|nl|objectieve}}, {{t|nl|nuchter}}, {{t|nl|nuchtere}}
+* Dutch: {{t+|nl|objectief}}, {{t+|nl|objectieve}}, {{t+|nl|nuchter}}, {{t+|nl|nuchtere}}
 * Finnish: {{t-|fi|objektiivinen}}, {{t-|fi|hyväksytty}}, {{t-|fi|puolueeton}}
 * French: {{t+|fr|objectif|m}}, {{t+|fr|objective|f}}
 * German: {{t+|de|objektiv}}
@@ -62,9 +62,9 @@
 {{trans-bottom}}
 
 {{trans-top|based on observed fact}}
-* Arabic: {{t|ar|موضوعي|tr={{IPAchar|mauɖūʕiy}}|sc=Arab}}
-* Czech: {{t-|cs|objektivní}}
-* Dutch: {{t|nl|objectief}}, {{t|nl|objectieve}}
+* Arabic: {{t-|ar|موضوعي|tr={{IPAchar|mauɖūʕiy}}|sc=Arab}}
+* Czech: {{t+|cs|objektivní}}
+* Dutch: {{t+|nl|objectief}}, {{t+|nl|objectieve}}
 * Finnish: {{t-|fi|objektiivinen}}, {{t-|fi|totuudenmukainen}}
 * French: {{t+|fr|objectif|m}}, {{t+|fr|objective|f}}
 {{trans-mid}}
@@ -109,7 +109,7 @@
 * Chinese:
 *: Mandarin: {{t|cmn|目標|sc=Hani}}, {{t|cmn|目标|tr=mùbiāo|sc=Hani}}, {{t|cmn|目的|tr=mùdì, mùdi|sc=Hani}}
 * Czech: {{t+|cs|záměr|m}}, {{t+|cs|cíl|m}}
-* Dutch: {{t|nl|doel|n}}, {{t|nl|streefdoel|n}}, {{t+|nl|doelstelling|f}}
+* Dutch: {{t+|nl|doel|n}}, {{t-|nl|streefdoel|n}}, {{t+|nl|doelstelling|f}}
 * Finnish: {{t+|fi|tavoite}}, {{t+|fi|päämäärä}}
 * French: {{t+|fr|objectif|m}}, {{t+|fr|but|m}}
 * German: {{t+|de|Ziel|n}}
@@ -151,7 +151,7 @@
 * German: {{t+|de|Objektiv|n}}
 * Greek: {{t-|el|αντικειμενικός φακός|m|tr=antikeimenikós fakós|sc=Grek}}
 {{trans-mid}}
-* Hungarian: {{t|hu|objektív}}
+* Hungarian: {{t-|hu|objektív}}
 * Italian: {{t+|it|obiettivo|m}}
 * Japanese: {{t-|ja|対物レンズ|tr=taibutsu renzu|sc=Jpan}}
 * Polish: {{t+|pl|obiektyw|m}}
