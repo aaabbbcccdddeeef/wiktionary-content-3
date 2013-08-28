@@ -140,7 +140,7 @@ From {{etyl|enm|en}} {{term|hous|lang=enm}}, {{term|hus}}, from {{etyl|ang|en}} 
 * Alviri-Vidari: {{tø|avd|کیه|tr=kiye}}
 * Ama: {{tø|amm|nu}}
 * Amharic: {{t-|am|ቤት|tr=bet|sc=Ethi}}
-* Arabic: {{t+|ar|بَيْتٌ|m|tr=bayt|sc=Arab}}, {{t+|ar|منزل|m|tr=manzil|sc=Arab}}, {{t+|ar|دَارٌ|f|tr=dār|sc=Arab}}
+* Arabic: {{t-|ar|بَيْتٌ|m|tr=bayt|sc=Arab}}, {{t+|ar|منزل|m|tr=manzil|sc=Arab}}, {{t-|ar|دَارٌ|f|tr=dār|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|بيت|m|tr=beet|sc=Arab}}
 *: Moroccan Arabic: {{tø|ary|دار|f|tr=dar}}, {{tø|ary|خيمة|f}} {{qualifier|rural term}}
 * Aramaic:
@@ -193,7 +193,7 @@ From {{etyl|enm|en}} {{term|hous|lang=enm}}, {{term|hus}}, from {{etyl|ang|en}} 
 * Eshtehardi: {{tø|esh|کیه|tr=kiya|sc=fa-Arab}}
 * Esperanto: {{t+|eo|domo}}
 * Estonian: {{t+|et|maja}}, {{t-|et|hoone}}
-* Faroese: {{t-|fo|hús|n}}
+* Faroese: {{t+|fo|hús|n}}
 * Fijian: {{t-|fj|vale}}
 * Finnish: {{t+|fi|talo}}
 * French: {{t+|fr|maison|f}}
@@ -204,7 +204,7 @@ From {{etyl|enm|en}} {{term|hous|lang=enm}}, {{term|hus}}, from {{etyl|ang|en}} 
 * German: {{t+|de|Haus|n}}, {{t+|de|Häuser|p}}
 * Gothic: {{tø|got|𐍂𐌰𐌶𐌽|tr=razn|n|sc=Goth}}, {{tø|got|𐌷𐌿𐍃|tr=hūs|n|sc=Goth}}
 * Greek: {{t+|el|σπίτι|n|tr=spíti}}
-*: Ancient: {{t|grc|οἶκος|m|sc=unicode|tr=oíkos}}, {{t|grc|οἰκία|f|tr=oikía|sc=polytonic}}
+*: Ancient: {{tø|grc|οἶκος|m|sc=unicode|tr=oíkos}}, {{tø|grc|οἰκία|f|tr=oikía|sc=polytonic}}
 * Guaraní: {{t-|gn|oga}}, {{t-|gn|ogapy}}, {{t-|gn|róga}}
 * Gujarati: {{t+|gu|ઘર|tr=ghar|sc=Gujr}}
 * Haitian Creole: {{tø|ht|kay}}
@@ -299,9 +299,9 @@ From {{etyl|enm|en}} {{term|hous|lang=enm}}, {{term|hus}}, from {{etyl|ang|en}} 
 * Pangasinan: {{tø|pag|abong}}
 * Papiamentu: {{tø|pap|kas}}
 * Pashto: {{t-|ps|كور|m|tr=kor|sc=ps-Arab}}, {{t-|ps|كوټه|f|tr=kotta|sc=ps-Arab}}
-* Persian: {{t+|fa|خانِه|tr=xâne|sc=fa-Arab}}, {{t-|fa|خونه|tr=xune|sc=fa-Arab}} {{qualifier|colloquial}}, {{t+|fa|خان|tr=xân|sc=fa-Arab}}, {{t+|fa|خن|tr=xan|sc=fa-Arab}}, {{t+|fa|کد|tr=kad|sc=fa-Arab}}
+* Persian: {{t-|fa|خانِه|tr=xâne|sc=fa-Arab}}, {{t-|fa|خونه|tr=xune|sc=fa-Arab}} {{qualifier|colloquial}}, {{t+|fa|خان|tr=xân|sc=fa-Arab}}, {{t+|fa|خن|tr=xan|sc=fa-Arab}}, {{t+|fa|کد|tr=kad|sc=fa-Arab}}
 * Phoenician: {{tø|phn|𐤁𐤉𐤕|tr=byt|sc=Phnx}}, {{tø|phn|𐤁𐤕|tr=bt|sc=Phnx}}
-* Pirahã: {{t|myp|kaiíi}}
+* Pirahã: {{tø|myp|kaiíi}}
 * {{trreq|pjt}}
 * Pohnpeian: {{tø|pon|ihmw}}
 * Polish: {{t+|pl|dom|m}}
@@ -420,16 +420,16 @@ From {{etyl|enm|en}} {{term|hous|lang=enm}}, {{term|hus}}, from {{etyl|ang|en}} 
 
 {{trans-top|auditorium for a theatre}}
 * Finnish: {{t+|fi|tupa}}
-* Portuguese: {{t|pt|auditório}}
+* Portuguese: {{t+|pt|auditório}}
 {{trans-mid}}
 * Russian: {{t+|ru|зал|m|tr=zal}}
 {{trans-bottom}}
 
 {{trans-top|the theatre itself}}
 * Finnish: {{t+|fi|talo}}
-* Portuguese: {{t|pt|teatro}}
+* Portuguese: {{t+|pt|teatro}}
 {{trans-mid}}
-* Portuguese: {{t|pt|teatro}}
+* Portuguese: {{t+|pt|teatro}}
 * Spanish: {{t+|es|teatro|m}}
 {{trans-bottom}}
 
@@ -449,7 +449,7 @@ From {{etyl|enm|en}} {{term|hous|lang=enm}}, {{term|hus}}, from {{etyl|ang|en}} 
 {{trans-bottom}}
 
 {{trans-top|an establishment}}
-* Faroese: {{t-|fo|hús|n}}
+* Faroese: {{t+|fo|hús|n}}
 * Finnish: {{t+|fi|talo}}
 * Greek: {{t+|el|οίκος|m|tr=oíkos|sc=Grek}}
 * Spanish: {{t+|es|casa|f}}
