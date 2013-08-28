@@ -56,10 +56,10 @@ From {{etyl|enm|en}} {{term|nere|lang=enm}}, {{term|ner||lang=enm}}, from {{etyl
 ====Translations====
 {{trans-top|physically close}}
 * Arabic: {{t-|ar|قريب|tr=qarīb|sc=Arab}}
-* Armenian: {{t-|hy|մոտ|tr=mot}}, {{t-|hy|մոտիկ|tr=motik}}, {{t-|hy|մերձ|tr=merj}}
+* Armenian: {{t+|hy|մոտ|tr=mot}}, {{t-|hy|մոտիկ|tr=motik}}, {{t-|hy|մերձ|tr=merj}}
 * Bashkir: {{tø|ba|яҡын|sc=Cyrl}}
-* Belarusian: {{t-|be|блізкі|tr=blízki|sc=Cyrl}}, {{t|be|бліжні|tr=blížni|sc=Cyrl}}
-* Bulgarian: {{t+|bg|близък|tr=blízǎk|sc=Cyrl}}, {{t|bg|ближен|tr=blížen|sc=Cyrl}}
+* Belarusian: {{t-|be|блізкі|tr=blízki|sc=Cyrl}}, {{t-|be|бліжні|tr=blížni|sc=Cyrl}}
+* Bulgarian: {{t+|bg|близък|tr=blízǎk|sc=Cyrl}}, {{t+|bg|ближен|tr=blížen|sc=Cyrl}}
 * Burmese: {{t+|my|နီး|tr=ni:|sc=Mymr}}
 * Chinese:
 *: Mandarin: {{t|cmn|近|tr=jìn|sc=Hani}}
@@ -75,7 +75,7 @@ From {{etyl|enm|en}} {{term|nere|lang=enm}}, {{term|ner||lang=enm}}, from {{etyl
 * Hindi: {{t-|hi|नज़दीक|tr=nazdīk|sc=Deva}}
 * Hungarian: {{t+|hu|közel}}
 * Icelandic: {{t-|is|skammt}}
-* Ido: {{t|io|proxim}}
+* Ido: {{t+|io|proxim}}
 * Irish: {{t-|ga|dlúth}}
 * Italian: {{t+|it|vicino}}
 * Japanese: {{t+|ja|近い|tr=[[ちかい]], chikai|sc=Jpan}}
@@ -96,32 +96,32 @@ From {{etyl|enm|en}} {{term|nere|lang=enm}}, {{term|ner||lang=enm}}, from {{etyl
 * Polish: {{t+|pl|bliski|m}} <!-- non-lemma {{t-|pl|bliska|f}}, {{t-|pl|bliskie|n}} -->
 * Portuguese: {{t+|pt|perto}}, {{t+|pt|próximo}}
 * Romanian: {{t+|ro|aproape}}
-* Russian: {{t+|ru|близкий|tr=blízkij}}, {{t|ru|ближний|tr=blížnij|sc=Cyrl}}
-* Scottish Gaelic: {{t|gd|dlùth}}, {{t-|gd|faisg}}
+* Russian: {{t+|ru|близкий|tr=blízkij}}, {{t+|ru|ближний|tr=blížnij|sc=Cyrl}}
+* Scottish Gaelic: {{t-|gd|dlùth}}, {{t-|gd|faisg}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|бли̏зак}}
 *: Roman: {{t-|sh|blȉzak}}
 * Slovak: {{t-|sk|blízky}}
-* Slovene: {{t|sl|bližnji}}
+* Slovene: {{t+|sl|bližnji}}
 * Spanish: {{t+|es|cerca}}
 * Swedish: {{t+|sv|nära}}
-* Telugu: {{t|te|దగ్గర|tr=daggara|sc=Telu}}
-* Ukrainian: {{t+|uk|близький|tr=blýzʹkyj|sc=Cyrl}}, {{t|uk|ближній|tr=blýžnij|sc=Cyrl}}
+* Telugu: {{t+|te|దగ్గర|tr=daggara|sc=Telu}}
+* Ukrainian: {{t+|uk|близький|tr=blýzʹkyj|sc=Cyrl}}, {{t+|uk|ближній|tr=blýžnij|sc=Cyrl}}
 * Urdu: {{t-|ur|نزدیک|tr=nazdīk|sc=ur-Arab}}
-* Venetian: {{t|vec|vissin}}
+* Venetian: {{tø|vec|vissin}}
 * Vietnamese: {{t+|vi|gần}}
 * Yiddish: {{t-|yi|נאָענט|tr=nóent|sc=Hebr}}
 {{trans-bottom}}
 
 {{trans-top|of an event, approaching}}
-* Finnish: {{t|fi|lähestyvä}}
+* Finnish: {{t-|fi|lähestyvä}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|almost}}
-* Finnish: {{t|fi|melkein}} {{qualifier|adverb}}
+* Finnish: {{t+|fi|melkein}} {{qualifier|adverb}}
 {{trans-mid}}
-* Spanish: {{t|es|casi}}
+* Spanish: {{t+|es|casi}}
 {{trans-bottom}}
 
 ===Adverb===
@@ -157,7 +157,7 @@ From {{etyl|enm|en}} {{term|nere|lang=enm}}, {{term|ner||lang=enm}}, from {{etyl
 * Finnish: {{t+|fi|lähellä}}, {{t-|fi|lähettyvillä}}
 * French: {{t+|fr|près}}
 * German: {{t+|de|nah}}
-* Hebrew: {{t-|he|קרוב}}, {{t-|he|ליד}}
+* Hebrew: {{t+|he|קרוב}}, {{t+|he|ליד}}
 * Hungarian: {{t+|hu|közel}}
 * Ido: [[apud]]
 * Italian: {{t+|it|circa}}
@@ -206,7 +206,7 @@ Joan Maling (1983) shows that ''near'' is best analysed as an adjective with whi
 ====Translations====
 {{trans-top|in close proximity to}}
 * Arabic: {{t-|ar|قرب|tr=bi'l qurb min|alt=بالقرب من|sc=Arab}}, {{t-|ar|عند|tr=3índa|sc=Arab}}, {{t-|ar|قريب|tr=qariib min|alt=قريب من|sc=Arab}}
-* Armenian: {{t-|hy|մոտ|tr=mot}}
+* Armenian: {{t+|hy|մոտ|tr=mot}}
 * Belarusian: {{t-|be|каля|tr=kaljá|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|cmn|靠近|tr=kàojìn|sc=Hani}}, {{t|cmn|接近|tr=jiējìn|sc=Hani}}, {{t|cmn|旁邊|alt=在...旁邊|sc=Hani}}, {{t|cmn|旁边|tr=zài ... pángbiān|alt=在...旁边|sc=Hani}}
@@ -246,7 +246,7 @@ Joan Maling (1983) shows that ''near'' is best analysed as an adjective with whi
 {{trans-bottom}}
 
 {{trans-top|close to in time}}
-* Finnish: {{t|fi|lähellä}}
+* Finnish: {{t+|fi|lähellä}}
 {{trans-mid}}
 {{trans-bottom}}
 
