@@ -59,7 +59,7 @@ From {{etyl|enm|en}} {{term/t|enm|*bangen}}, from {{etyl|ang|en}} {{term/t|ang|*
 * Manx: {{t-|gv|bleayst|f}}
 * Pitjantjatjara: [[piltalya(pa)]]
 * Portuguese: [[estalo]] {{m}}, [[estrondo]] {{m}}
-* Russian: {{t|ru|удар|m|tr=udár|sc=Cyrl}}, {{t|ru|треск|m|tr=tresk|sc=Cyrl}}
+* Russian: {{t+|ru|удар|m|tr=udár|sc=Cyrl}}, {{t+|ru|треск|m|tr=tresk|sc=Cyrl}}
 * Scots: {{tø|sco|blaff}}
 * Spanish: {{t-|es|estallido|m}}, {{t-|es|estruendo|m}}
 * Swedish: {{t+|sv|smäll}}
@@ -74,7 +74,7 @@ From {{etyl|enm|en}} {{term/t|enm|*bangen}}, from {{etyl|ang|en}} {{term/t|ang|*
 {{trans-mid}}
 * Portuguese: [[pancada]] {{f}}
 * Scottish Gaelic: {{t-|gd|beum|m}}
-* Spanish: {{t+|es|golpe|m}}, {{t-|es|zumbido|m}}, {{t+|es|percusión|f}}, {{t+|es|zarpazo|m}}
+* Spanish: {{t+|es|golpe|m}}, {{t+|es|zumbido|m}}, {{t+|es|percusión|f}}, {{t+|es|zarpazo|m}}
 * Swedish: {{t+|sv|smäll}}
 {{trans-bottom}}
 
@@ -106,11 +106,11 @@ From {{etyl|enm|en}} {{term/t|enm|*bangen}}, from {{etyl|ang|en}} {{term/t|ang|*
 * French: {{t+|fr|point d'exclamation|m}}
 {{trans-mid}}
 * German: {{t-|de|Ausrufzeichen|n}}
-* Hungarian: {{t|hu|felkiáltójel}}
-* Italian: {{tø|it|[[punto]] [[esclamativo]]|m}}
-* Polish: {{t|pl|wykrzyknik}}
+* Hungarian: {{t+|hu|felkiáltójel}}
+* Italian: {{t-|it|[[punto]] [[esclamativo]]|m}}
+* Polish: {{t+|pl|wykrzyknik}}
 * Portuguese: {{t-|pt|ponto de exclamação|m}}
-* Spanish: {{tø|es|[[signo]] [[de]] [[exclamación]]|m}}
+* Spanish: {{t-|es|[[signo]] [[de]] [[exclamación]]|m}}
 * Swedish: {{t+|sv|utropstecken|n}}
 {{trans-bottom}}
 
@@ -223,13 +223,13 @@ From {{etyl|enm|en}} {{term/t|enm|*bangen}}, from {{etyl|ang|en}} {{term/t|ang|*
 * French: {{t+|fr|pan}}
 * German: {{t+|de|peng}}
 {{trans-mid}}
-* Greek: {{t|el|μπαμ|tr=bam|sc=Grek}}
+* Greek: {{t-|el|μπαμ|tr=bam|sc=Grek}}
 * Italian: {{t-|it|pam}}, {{t-|it|pum}}
-* Japanese: {{t|ja|ボーン|tr=bōn|sc=Jpan}}
-* Korean: {{t|ko|빵|tr=ppang|sc=Kore}}, {{t|ko|팡|tr=pang|sc=Kore}}
+* Japanese: {{t-|ja|ボーン|tr=bōn|sc=Jpan}}
+* Korean: {{t+|ko|빵|tr=ppang|sc=Kore}}, {{t+|ko|팡|tr=pang|sc=Kore}}
 * Lithuanian: {{t-|lt|pyst}}
-* Russian: {{t|ru|бац|tr=bac|sc=Cyrl}}, {{t|ru|бах|tr=bax|sc=Cyrl}}, {{t|ru|бух|tr=bux|sc=Cyrl}}, {{t|ru|бум|tr=bum|sc=Cyrl}}, {{t|ru|трах|tr=trax|sc=Cyrl}}, {{t|ru|бабах|tr=babáx|sc=Cyrl}}, {{t|ru|бам|tr=bam|sc=Cyrl}}
-* Serbo-Croatian: {{t|sh|бум}}, {{t-|sh|bum}}
+* Russian: {{t+|ru|бац|tr=bac|sc=Cyrl}}, {{t+|ru|бах|tr=bax|sc=Cyrl}}, {{t+|ru|бух|tr=bux|sc=Cyrl}}, {{t+|ru|бум|tr=bum|sc=Cyrl}}, {{t-|ru|трах|tr=trax|sc=Cyrl}}, {{t+|ru|бабах|tr=babáx|sc=Cyrl}}, {{t+|ru|бам|tr=bam|sc=Cyrl}}
+* Serbo-Croatian: {{t-|sh|бум}}, {{t-|sh|bum}}
 * Spanish: {{t+|es|pum}}
 * Swedish: {{t+|sv|pang}}
 {{trans-bottom}}
