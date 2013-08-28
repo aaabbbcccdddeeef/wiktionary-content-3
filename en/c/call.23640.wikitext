@@ -126,9 +126,9 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Danish: {{t-|da|opkald|n}}, {{t-|da|telefonopkald|n}}
 * Dutch: {{t+|nl|telefoongesprek|n}}, {{t+|nl|oproep|m}}
 * Esperanto: [[voko]]
-* Finnish: {{t-|fi|soitto}}, {{t-|fi|puhelinsoitto}}
+* Finnish: {{t-|fi|soitto}}, {{t+|fi|puhelinsoitto}}
 * French: {{t+|fr|appel|m}}
-* Galician: {{t|gl|chamada|f}}
+* Galician: {{t+|gl|chamada|f}}
 * German: {{t+|de|Anruf|m}}
 * Greek: {{t+|el|τηλεφώνημα|n|tr=tilefónima}}
 * Hebrew: [[צלצול]] (tziltzul) {{m}}
@@ -136,7 +136,7 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Irish: {{t-|ga|glaoch|m}}, {{t-|ga|glao|m}}
 * Italian: {{t+|it|telefonata|f}}, {{t+|it|chiamata|f}}
 {{trans-mid}}
-* Japanese: {{t|ja|呼び出し|tr=よびだし, yobidashi}}; {{t|ja|通話|tr=つうわ, tsūwa}}
+* Japanese: {{t-|ja|呼び出し|tr=よびだし, yobidashi}}; {{t+|ja|通話|tr=つうわ, tsūwa}}
 * Korean: [[전화]] ([[電話]], jeonhwa), [[통화]] ([[通話]], tonghwa)
 * Luxembourgish: {{t-|lb|Uruff|m}}
 * Macedonian: {{t-|mk|повик|m|tr=póvik|sc=Cyrl}}
@@ -160,13 +160,13 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Dutch: {{t+|nl|bezoek|n}}
 * Finnish: {{t+|fi|käynti}}, {{t+|fi|vierailu}}
 * French: {{t+|fr|visite|f}}
-* Galician: {{t|gl|visita|f}}
+* Galician: {{t+|gl|visita|f}}
 * German: {{t+|de|Besuch|m}}
 * Greek: {{t+|el|επίσκεψη|f|tr=epískepsi}}
 * Icelandic: {{t+|is|heimsókn|f}}
 * Italian: {{t+|it|saluto|m}}, {{t+|it|visita|f}}
 {{trans-mid}}
-* Japanese: {{t|ja|訪問|tr=ほうもん, hōmon}}; {{t|ja|来訪|tr=らいほう, raihō}}
+* Japanese: {{t+|ja|訪問|tr=ほうもん, hōmon}}; {{t+|ja|来訪|tr=らいほう, raihō}}
 * Korean: [[방문]] ([[訪問]], bangmun)
 * Macedonian: {{t-|mk|посета|f|tr=póseta|sc=Cyrl}}
 * Polish: {{t+|pl|wizyta|f}}
@@ -185,14 +185,14 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Dutch: {{t+|nl|roep}}
 * Finnish: {{t+|fi|huuto}}
 * French: {{t+|fr|appel}}, {{t+|fr|cri|m}}
-* Galician: {{t|gl|berro|m}}
+* Galician: {{t-|gl|berro|m}}
 * German: {{t+|de|Ruf|m}}
 * Greek: {{t+|el|κραυγή|f|tr=kravgí}}, {{t+|el|αναφώνηση|f|tr=anafónisi}}, {{t+|el|ξεφωνητό|n|tr=ksefonitó}}
 * Hebrew: [[קריאה]] (qri'a) {{f}}
 * Icelandic: {{t+|is|kall|n}}, {{t+|is|hróp|n}}
 * Irish: {{t-|ga|glao|m}}
 * Italian: {{t+|it|urlo|m}}, {{t+|it|grido|m}}
-* Japanese: {{t|ja|呼び声|tr=よびごえ, yobigoe}}; {{t|ja|叫び|tr=さけび, sakebi}}
+* Japanese: {{t-|ja|呼び声|tr=よびごえ, yobigoe}}; {{t-|ja|叫び|tr=さけび, sakebi}}
 {{trans-mid}}
 * Korean: [[외침]] (oechim)
 * Kurdish:
@@ -218,7 +218,7 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Hebrew: [[ציוץ]] (tziutz) {{m}}
 * Irish: {{t-|ga|glao|m}}
 * Italian: {{t+|it|canto|m}}, {{t+|it|richiamo|m}}
-* Japanese: {{t|ja|鳴き声|tr=なきごえ, nakigoe}}
+* Japanese: {{t-|ja|鳴き声|tr=なきごえ, nakigoe}}
 {{trans-mid}}
 * Korean: [[울음]] (urEum)
 * Macedonian: {{t-|mk|крик|m|tr=krik|sc=Cyrl}}
@@ -245,7 +245,7 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Irish: {{t-|ga|glaoch|m}}
 {{trans-mid}}
 * Italian: {{t+|it|richiamo|m}}, {{t+|it|chiamata|f}}, {{t-|it|convocazione|f}}
-* Japanese: {{t|ja|呼び出し|tr=よびだし, yobidashi}}
+* Japanese: {{t-|ja|呼び出し|tr=よびだし, yobidashi}}
 * Korean: [[부름]] (bureum)
 * Macedonian: {{t-|mk|повик|m|tr=póvik|sc=Cyrl}}
 * Polish: {{t+|pl|wezwanie|n}}, {{t-|pl|zew|m}}
@@ -360,20 +360,20 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Arabic: {{t-|ar|سمى|tr=sámmā}}, {{t-|ar|دعا|tr=dáʿā}}, {{t-|ar|اتصل|tr=ittáṣala|sc=Arab}}
 * Armenian: {{t-|hy|կանչել|tr=kančel}}
 * Aromanian: {{t-|rup|cljem}}
-* Belarusian: {{t|be|клікаць|sc=Cyrl|tr=klíkacʹ}} {{impf}}, {{t|be|клікнуць|sc=Cyrl|tr=klíknucʹ}} {{pf.}}
+* Belarusian: {{t-|be|клікаць|sc=Cyrl|tr=klíkacʹ}} {{impf}}, {{t-|be|клікнуць|sc=Cyrl|tr=klíknucʹ}} {{pf.}}
 * Bulgarian: {{t+|bg|викам|tr=víkam}} {{impf}}, {{t+|bg|повиквам|tr=povíkvam}} {{pf.}}
 * Catalan: {{t+|ca|cridar}}
 * Cebuano: {{tø|ceb|tawag}}
 * Chinese:
 *: Mandarin: {{t-|cmn|叫|tr=jiào|sc=Hani}}
-* Czech: {{t+|cs|volat}} {{impf}}, {{t|cs|zavolat}} {{pf.}}
+* Czech: {{t+|cs|volat}} {{impf}}, {{t-|cs|zavolat}} {{pf.}}
 * Dalmatian: {{tø|dlm|clamuor}}
 * Dutch: {{t+|nl|roepen}}
 * Esperanto: {{t-|eo|voki}}
 * Finnish: {{t+|fi|kutsua}}
 * French: {{t+|fr|appeler}}
-* Galician: {{t|gl|chamar}}
-* German: {{t+|de|rufen}}, {{t+|de|anrufen}}, {{t-|de|herbeirufen}}
+* Galician: {{t+|gl|chamar}}
+* German: {{t+|de|rufen}}, {{t+|de|anrufen}}, {{t+|de|herbeirufen}}
 * Greek: {{t+|el|καλώ|tr=kaló|sc=Grek}}
 * Haitian Creole: {{tø|ht|rele}}
 * Hebrew: {{t+|he|קרא|tr=kará}}
@@ -386,7 +386,7 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Korean: {{t-|ko|불러내다|tr=bulleonaeda|sc=Hang}}
 {{trans-mid}}
 * Latgalian: {{tø|ltg|saukt}}, {{tø|ltg|klīgt}}
-* Latin: {{t+|la|vocō}}
+* Latin: {{t-|la|vocō}}
 * Latvian: {{t-|lv|saukt}}
 * Macedonian: {{t-|mk|повикува|tr=povíkuva|sc=Cyrl}}, {{t-|mk|вика|tr=víka|sc=Cyrl}}
 * Malay: {{t-|ms|panggil}}
@@ -394,25 +394,25 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Norwegian: {{t+|no|kalle}}
 * Pashto: {{t+|ps|بلل|tr=baləl|sc=ps-Arab}}
 * Persian: {{t+|fa|صدا زدن|tr=sedâ zadan|sc=fa-Arab}}
-* Polish: {{t|pl|wezwać}} {{impf}}, {{t|pl|wzywać}} {{pf.}}, {{t|pl|wołać}} {{impf}}, {{t|pl|zawołać}} {{pf.}}
+* Polish: {{t+|pl|wezwać}} {{impf}}, {{t+|pl|wzywać}} {{pf.}}, {{t+|pl|wołać}} {{impf}}, {{t-|pl|zawołać}} {{pf.}}
 * Portuguese: {{t+|pt|chamar}}
 * Romanian: {{t+|ro|chema}}
-* Romansch: {{t|rm|clamar}}
+* Romansch: {{t-|rm|clamar}}
 * Russian: {{t+|ru|звать|tr=zvatʹ}} {{impf}}, {{t+|ru|позвать|tr=pozvátʹ}} {{pf.}}, {{t+|ru|вызывать|tr=vyzyvátʹ}} {{impf}}, {{t+|ru|вызвать|tr=výzvatʹ}} {{pf.}}
 * Sanskrit: {{t-|sa|आव्हे|tr=āvhe}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|звати}}
+*: Cyrillic: {{t-|sh|звати}}
 *: Roman: {{t-|sh|zvati}}
-* Slovak: {{t|sk|volať}} {{impf}}, {{t|sk|zavolať}} {{pf.}}
+* Slovak: {{t-|sk|volať}} {{impf}}, {{t-|sk|zavolať}} {{pf.}}
 * Slovene: {{t-|sl|poklicati}}
 * Spanish: {{t+|es|llamar}}
 * Swahili: {{t-|sw|kuita}}
 * Swedish: {{t+|sv|kalla}}, {{t+|sv|ropa}}
 * Telugu: {{t+|te|పిలుచు}} (piluchu)
 * Turkish: {{t+|tr|aramak}}
-* Ukrainian: {{t|uk|кликати|tr=klýkaty|sc=Cyrl}} {{impf}}, {{t|uk|покликати|tr=poklýkaty|sc=Cyrl}} {{pf.}}
+* Ukrainian: {{t-|uk|кликати|tr=klýkaty|sc=Cyrl}} {{impf}}, {{t-|uk|покликати|tr=poklýkaty|sc=Cyrl}} {{pf.}}
 * Urdu: {{t-|ur|پکارنا|tr=pukārnā|sc=ur-Arab}}, {{t-|ur|بلانا|tr=bulānā|sc=ur-Arab}}
-* West Flemish: {{t|vls|roepen}}
+* West Flemish: {{tø|vls|roepen}}
 * Zulu: {{t-|zu|biza|alt=-biza}}
 {{trans-bottom}}
 
@@ -424,13 +424,13 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Czech: {{t+|cs|křičet}}
 * Dutch: {{t+|nl|schreeuwen}}
 * French: {{t+|fr|appeler}}, {{t+|fr|crier}}
-* Galician: {{t|gl|berrar}}
+* Galician: {{t+|gl|berrar}}
 * German: {{t+|de|rufen}}
 * Greek: {{t+|el|φωνάζω|tr=fonázo|sc=Grek}}
 * Hebrew: {{t+|he|קרא|tr=kará}}
 * Hungarian: {{t+|hu|kiált}}
 * Icelandic: {{t+|is|kalla}}, {{t+|is|hrópa}}
-* Italian: {{t+|it|chiamare}}, {{t-|it|gridare}}
+* Italian: {{t+|it|chiamare}}, {{t+|it|gridare}}
 * Japanese: {{t-|ja|叫ぶ|tr=さけぶ, sakebu}}
 * Korean: {{t+|ko|소리치다|tr=sorichida|sc=Hang}}, {{t+|ko|외치다|tr=oechida|sc=Hang}}
 {{trans-mid}}
@@ -440,8 +440,8 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Polish: {{t+|pl|wołać}} {{impf}}, {{t-|pl|zawołać}} {{pf.}}
 * Portuguese: {{t+|pt|gritar}}
 * Romanian: {{t+|ro|striga}}
-* Romansch: {{t|rm|cridar}}
-* Russian: {{t|ru|кричать|impf|tr=kričátʹ|sc=Cyrl}}, {{t|ru|крикнуть|pf|tr=kríknutʹ|sc=Cyrl}}
+* Romansch: {{t-|rm|cridar}}
+* Russian: {{t+|ru|кричать|impf|tr=kričátʹ|sc=Cyrl}}, {{t+|ru|крикнуть|pf|tr=kríknutʹ|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|gairm}}
 * Slovene: {{t-|sl|poklicati}}
 * Spanish: {{t+|es|gritar}}
@@ -451,16 +451,16 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 {{trans-bottom}}
 
 {{trans-top|to contact by telephone}}
-* Arabic: {{t|ar|اتصل|tr=ittáṣala bi-|alt=اتصل ب}}, {{t-|ar|تلفن|tr=talfána|sc=Arab}}
+* Arabic: {{t-|ar|اتصل|tr=ittáṣala bi-|alt=اتصل ب}}, {{t-|ar|تلفن|tr=talfána|sc=Arab}}
 * Armenian: {{t-|hy|զանգել|tr=zangel}}, {{t-|hy|զանգահարել|tr=zangaharel}}
-* Belarusian: {{t|be|званіць|tr=zvanícʹ|sc=Cyrl}}, {{t|be|пазваніць|tr=pazvanícʹ|sc=Cyrl}} {{pf}}; {{t|be|тэлефанаваць|tr=teljefanavácʹ|sc=Cyrl}} {{impf}}, {{t|be|патэлефанаваць|tr=pateljefanavácʹ|sc=Cyrl}} {{pf}}
+* Belarusian: {{t-|be|званіць|tr=zvanícʹ|sc=Cyrl}}, {{t-|be|пазваніць|tr=pazvanícʹ|sc=Cyrl}} {{pf}}; {{t-|be|тэлефанаваць|tr=teljefanavácʹ|sc=Cyrl}} {{impf}}, {{t-|be|патэлефанаваць|tr=pateljefanavácʹ|sc=Cyrl}} {{pf}}
 * Bulgarian: {{t-|bg|обаждам се}}, {{t+|bg|звъня}}
 * Catalan: {{t+|ca|telefonar}}, {{t+|ca|cridar}}, {{t+|ca|trucar}}, {{t+|ca|tocar}}
 * Chinese:
 *: Mandarin: {{t|cmn|打電話|sc=Hani}}, {{t+|cmn|打电话|tr=dǎ diànhuà|sc=Hani}}
-* Czech: {{t+|cs|volat}} {{impf}}, {{t-|cs|zavolat}} {{pf.}}, {{t|cs|telefonovat}}, {{t|cs|zatelefonovat}} {{pf.}}
+* Czech: {{t+|cs|volat}} {{impf}}, {{t-|cs|zavolat}} {{pf.}}, {{t+|cs|telefonovat}}, {{t-|cs|zatelefonovat}} {{pf.}}
 * Dutch: {{t+|nl|opbellen}}
-* Finnish: {{qualifier|puhelimella}} {{t|fi|soittaa}}
+* Finnish: {{qualifier|puhelimella}} {{t+|fi|soittaa}}
 * French: {{t+|fr|appeler}}, {{t+|fr|téléphoner}}
 * German: {{t+|de|anrufen}}, {{qualifier|colloquial}} {{t-|de|antelefonieren}}, {{qualifier|colloquial}} {{t-|de|durchrufen}}, {{qualifier|colloquial regional}} {{t-|de|anbimmeln}}, {{qualifier|colloquial regional}} {{t-|de|anklingeln}}, {{qualifier|Germany regional (esp. southern Germany), Austria regional (esp. western Austria: Vorarlberg), otherwise dialectal or dated; Switzerland; South Tyrol dialectal; South Africa (KwaZulu-Natal)}} {{t+|de|anläuten}}, {{qualifier|Switzerland}} {{t+|de|telefonieren}}, {{qualifier|Namibia}} {{t+|de|anbellen}}, {{qualifier|South Africa (KwaZulu-Natal)}} {{t+|de|aufringen}}
 * Greek: {{t+|el|καλώ|tr=kaló}}, {{t+|el|τηλεφωνώ|tr=tilefonó}}
@@ -471,7 +471,7 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Icelandic: {{t-|is|hringja í}}
 * Ido: {{t+|io|telefonar}}
 * Italian: {{t+|it|chiamare}}
-* Japanese: {{t|ja|電話|tr=でんわする, denwa suru|alt=電話する|sc=Jpan}}, {{t+|ja|電話をかける|tr=でんわをかける, denwa o kakeru|sc=Jpan}}
+* Japanese: {{t+|ja|電話|tr=でんわする, denwa suru|alt=電話する|sc=Jpan}}, {{t+|ja|電話をかける|tr=でんわをかける, denwa o kakeru|sc=Jpan}}
 * Korean: {{t+|ko|전화하다|tr=jeonhwa-hada|sc=Kore}}
 * Macedonian: {{t-|mk|ѕвони|tr=dzvóni|sc=Cyrl}}, {{t-|mk|се јавува|tr=se jávuva|sc=Cyrl}}, {{t-|mk|телефонира|tr=telefoníra|sc=Cyrl}}
 * Persian: {{t+|fa|تلفن کردن|tr=telefon kardan|sc=fa-Arab}}, {{t+|fa|زنگ زدن|tr=zang zadan|sc=fa-Arab}}
@@ -479,13 +479,13 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Portuguese: {{t+|pt|telefonar}}, {{t+|pt|ligar}}
 * Romanian: {{t+|ro|telefona}}, {{t+|ro|suna}}
 * Russian: {{t+|ru|звонить|tr=zvonítʹ|sc=Cyrl}} {{impf}}, {{t+|ru|позвонить|tr=pozvonítʹ|sc=Cyrl}} {{pf.}}
-* Slovak: {{t|sk|volať}} {{impf}}, {{t|sk|zavolať}} {{pf.}}, {{t|sk|telefonovať}} {{impf}}, {{t|sk|zatelefonovať}} {{pf.}}
+* Slovak: {{t-|sk|volať}} {{impf}}, {{t-|sk|zavolať}} {{pf.}}, {{t-|sk|telefonovať}} {{impf}}, {{t-|sk|zatelefonovať}} {{pf.}}
 * Slovene: {{t-|sl|poklicati}}
 * Spanish: {{t+|es|llamar}}
-* Swahili: {{t|sw|kupiga simu}}
+* Swahili: {{t-|sw|kupiga simu}}
 * Swedish: {{t+|sv|ringa}}, {{t+|sv|telefonera}}
 * Tagalog: {{qualifier|literally}} {{t-|tl|tawagan}}
-* Ukrainian: {{t|uk|дзвонити|tr=dzvonýty|sc=Cyrl}} {{impf}}, {{t|uk|подзвонити|tr=podzvonýty|sc=Cyrl}} {{pf}}
+* Ukrainian: {{t-|uk|дзвонити|tr=dzvonýty|sc=Cyrl}} {{impf}}, {{t-|uk|подзвонити|tr=podzvonýty|sc=Cyrl}} {{pf}}
 {{trans-bottom}}
 
 {{trans-top|to pay a social visit}}
@@ -495,13 +495,13 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Czech: {{t-|cs|navštívit}}
 * Dutch: {{t+|nl|bezoeken}}
 * French: {{t+|fr|visiter}}
-* Galician: {{t|gl|visitar}}
+* Galician: {{t-|gl|visitar}}
 * German: {{t+|de|besuchen}}
 * Hungarian: {{t+|hu|meglátogat}}
 * Icelandic: {{t+|is|heimsækja}}, {{t-|is|heilsa upp á}}
 {{trans-mid}}
 * Italian: {{t+|it|visitare}}
-* Japanese: {{t-|ja|訪ねる|tr=たずねる, tazuneru|sc=Jpan}}, {{t-|ja|訪問|alt=訪問する|tr=ほうもんする, hōmon-suru|sc=Jpan}}
+* Japanese: {{t-|ja|訪ねる|tr=たずねる, tazuneru|sc=Jpan}}, {{t+|ja|訪問|alt=訪問する|tr=ほうもんする, hōmon-suru|sc=Jpan}}
 * Korean: {{t+|ko|찾아가다|tr=chajagada|sc=Kore}}, {{t+|ko|방문하다|tr=bangmun-hada|sc=Kore}} ([[訪問]]-)
 * Macedonian: {{t-|mk|посетува|tr=posétuva|sc=Cyrl}}, {{t-|mk|навраќа|tr=návraḱa|sc=Cyrl}}
 * Portuguese: {{t+|pt|visitar}}
@@ -532,8 +532,8 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 * Polish: {{t+|pl|nazywać}}
 * Portuguese: {{t+|pt|chamar}}
 * Romanian: {{t+|ro|vizita}}
-* Romansch: {{t|rm|numnar}}
-* Russian: {{t+|ru|звать|tr=zvatʹ|impf}}, {{t|ru|называть|impf|tr=nazyvátʹ|sc=Cyrl}}, {{t|ru|назвать|pf|tr=nazvátʹ|sc=Cyrl}}
+* Romansch: {{t-|rm|numnar}}
+* Russian: {{t+|ru|звать|tr=zvatʹ|impf}}, {{t+|ru|называть|impf|tr=nazyvátʹ|sc=Cyrl}}, {{t+|ru|назвать|pf|tr=nazvátʹ|sc=Cyrl}}
 * Spanish: {{t+|es|llamar}}
 * Swedish: {{t+|sv|kalla}}
 * Telugu: {{t+|te|అను}} (anu)
@@ -557,14 +557,14 @@ From {{etyl|enm|en}} {{term|callen|lang=enm}}, from {{etyl|ang|en}} {{term|ceall
 {{trans-mid}}
 * Irish: {{t-|ga|tabhair ar}}
 * Korean: {{t+|ko|불리다|tr=bullida|sc=Hang}}
-* Macedonian: {{t|mk|нарекува|tr=se narékuva|alt=се нарекува|sc=Cyrl}}, {{t|mk|вика|tr=se víka|alt=се вика|sc=Cyrl}}
+* Macedonian: {{t-|mk|нарекува|tr=se narékuva|alt=се нарекува|sc=Cyrl}}, {{t-|mk|вика|tr=se víka|alt=се вика|sc=Cyrl}}
 * Old Norse: {{tø|non|heita}}
 * Pashto: {{t+|ps|بلل|tr=baləl|sc=ps-Arab}}
-* Polish: {{t|pl|nazywać się}}
+* Polish: {{t+|pl|nazywać się}}
 * Romanian: {{t+|ro|numi}}
-* Russian: {{t|ru|зваться|impf|tr=zvatʹsja|sc=Cyrl}}, {{t|ru|называться|impf|tr=nazyvátʹsja|sc=Cyrl}}, {{t|ru|назваться|pf|tr=nazvátʹsja|sc=Cyrl}}
-* Spanish: {{t|es|llamar|alt=llamarse}}
-* Swahili: {{t|sw|kuitwa}}
+* Russian: {{t+|ru|зваться|impf|tr=zvatʹsja|sc=Cyrl}}, {{t+|ru|называться|impf|tr=nazyvátʹsja|sc=Cyrl}}, {{t+|ru|назваться|pf|tr=nazvátʹsja|sc=Cyrl}}
+* Spanish: {{t+|es|llamar|alt=llamarse}}
+* Swahili: {{t-|sw|kuitwa}}
 * Swedish: {{t+|sv|kalla}}
 {{trans-bottom}}
 
