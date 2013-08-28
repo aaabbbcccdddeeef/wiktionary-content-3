@@ -79,10 +79,10 @@ From {{etyl|enm|en}} {{term|short|lang=enm}}, {{term|schort|lang=enm}}, from {{e
 * Armenian: {{t-|hy|կարճ|tr=karč̣}}
 * Aromanian: {{t-|rup|shcurtu}}
 * Bashkir: {{tø|ba|ҡыҫҡа|sc=Cyrl}}; {{qualifier|Eastern Bashkir}} {{tø|ba|тоҡор|sc=Cyrl}}
-* Belarusian: {{t-|be|кароткі|tr=karótki|sc=Cyrl}}
+* Belarusian: {{t+|be|кароткі|tr=karótki|sc=Cyrl}}
 * Bulgarian: {{t+|bg|къс|m|tr=kǎs|sc=Cyrl}}, {{t+|bg|кратък|tr=krátǎk|sc=Cyrl}}
 * Burmese: {{t+|my|တို|tr=to|sc=Mymr}}
-* Catalan: {{t|ca|curt}}
+* Catalan: {{t+|ca|curt}}
 * Chamicuro: {{tø|ccc|c̈hijtawa}} (''vertically'')
 * Chinese:
 *: Dungan: {{tø|dng|җеё|sc=Cyrl}}
@@ -117,7 +117,7 @@ From {{etyl|enm|en}} {{term|short|lang=enm}}, {{term|schort|lang=enm}}, from {{e
 * Lojban: {{t+|jbo|cinla}}, {{t+|jbo|cmalu}}, {{t+|jbo|tordu}}
 * Macedonian: {{t-|mk|краток|m|tr=krátok}}, {{t-|mk|кус|m|tr=kus}}
 * Neapolitan: {{tø|nap|curto}}
-* Novial: {{t|nov|kurti}}
+* Novial: {{tø|nov|kurti}}
 * Persian: {{t+|fa|کوتاه|tr=kutâh|sc=fa-Arab}}
 * Polish: {{t+|pl|krótki}}
 * Portuguese: {{t+|pt|curto|m}}
@@ -147,12 +147,12 @@ From {{etyl|enm|en}} {{term|short|lang=enm}}, {{term|schort|lang=enm}}, from {{e
 * Bulgarian: {{t+|bg|съкратено|n|tr=sǎkraténo|sc=Cyrl}}
 * Czech: {{t-|cs|zkrácený}}
 * Danish: {{t+|da|kort}}
-* Finnish: {{t|fi|lyhennys}}, {{t|fi|lyhyt muoto}}
+* Finnish: {{t-|fi|lyhennys}}, {{t-|fi|lyhyt muoto}}
 * German: {{t+|de|kurz}} (für)
 {{trans-mid}}
 * Japanese: {{qualifier|noun}} {{t+|ja|略語|tr=ryakugo}}
 * Kurdish: {{t+|ku|kurtî|sc=ku-Arab}}
-* Novial: {{t|nov|kurti}}
+* Novial: {{tø|nov|kurti}}
 * Russian: {{t+|ru|краткий|m|tr=krátkij}}
 * Swahili: {{t+|sw|fupi}}
 * Swedish: {{t+|sv|kort}}, {{t+|sv|förkortning}}
@@ -163,7 +163,7 @@ From {{etyl|enm|en}} {{term|short|lang=enm}}, {{term|schort|lang=enm}}, from {{e
 * Belarusian: {{t-|be|нізкі|tr=nízki|sc=Cyrl}}
 * Bulgarian: {{t+|bg|нисък|m|tr=nísǎk|sc=Cyrl}}
 * Burmese: {{t+|my|ပု|tr=pu.|sc=Mymr}}
-* Catalan: {{t|ca|baix}}
+* Catalan: {{t+|ca|baix}}
 * Chamicuro: {{tø|ccc|na'yechoma}}
 * Chinese:
 *: Mandarin: {{t|cmn|矮|tr=ǎi|sc=Hani}}
@@ -173,12 +173,12 @@ From {{etyl|enm|en}} {{term|short|lang=enm}}, {{term|schort|lang=enm}}, from {{e
 * Esperanto: {{t-|eo|malalta}}
 * Estonian: {{t-|et|lühike}}
 * Finnish: {{t+|fi|lyhyt}}
-* French: {{t+|fr|petit}}, {{t|fr|bref|m}}
+* French: {{t+|fr|petit}}, {{t+|fr|bref|m}}
 * {{trreq|ka}}
 * German: {{t+|de|klein}}
 * Greek: {{t+|el|κοντός|tr=kontós}}
 * Hungarian: {{t+|hu|alacsony}}
-* Icelandic: {{t|is|lágur|m}}, {{t|is|lágvaxinn|m}}, {{t|is|stuttur|m}}, {{t|is|stuttvaxinn|m}}
+* Icelandic: {{t+|is|lágur|m}}, {{t-|is|lágvaxinn|m}}, {{t+|is|stuttur|m}}, {{t-|is|stuttvaxinn|m}}
 {{trans-mid}}
 * Irish: {{t-|ga|beag}}
 *: Old Irish: {{tø|sga|berr}}
@@ -188,13 +188,13 @@ From {{etyl|enm|en}} {{term|short|lang=enm}}, {{term|schort|lang=enm}}, from {{e
 * Latvian: {{t+|lv|īss|m}}
 * Macedonian: {{t-|mk|низок|m|tr=nízok}}
 * Malay: {{t-|ms|pendek}}
-* Novial: {{t|nov|kurti}}
+* Novial: {{tø|nov|kurti}}
 * Portuguese: {{t+|pt|baixo|m}}
 * Rapa Nui: {{tø|rap|poto}}
 * Romanian: {{t-|ro|scund}}
 * Russian: {{t+|ru|низкий|tr=nízkij}}, {{t+|ru|невысокий|tr=nevysókij}}
 * Scottish Gaelic: {{t-|gd|beag}}
-* Slovene: {{t|sl|majhen|m}}, {{t|sl|majhna|f}}
+* Slovene: {{t+|sl|majhen|m}}, {{t-|sl|majhna|f}}
 * Spanish: {{t+|es|bajo|m}}
 * Swahili: {{t+|sw|fupi}}
 * Swedish: {{t+|sv|kort}}
@@ -211,7 +211,7 @@ From {{etyl|enm|en}} {{term|short|lang=enm}}, {{term|schort|lang=enm}}, from {{e
 *: Mandarin: {{t|cmn|短|tr=duǎn|sc=Hani}}
 * Czech: {{t+|cs|krátký}}
 * Finnish: {{t+|fi|lyhyt}}
-* French: {{t+|fr|court}}, {{t|fr|bref|m}}
+* French: {{t+|fr|court}}, {{t+|fr|bref|m}}
 * {{trreq|ka}}
 * Hungarian: {{t+|hu|rövid}}
 * Interlingua: {{t-|ia|breve}}
@@ -340,10 +340,10 @@ From {{etyl|enm|en}} {{term|short|lang=enm}}, {{term|schort|lang=enm}}, from {{e
 {{trans-bottom}}
 
 {{trans-top|business: to sell sthg one does not own at the moment}}
-* Finnish: {{t+|fi|myydä}} {{t+|fi|lyhyt|alt=lyhyeksi}}, {{t-|fi|shortata}}
+* Finnish: {{t+|fi|myydä}} {{t+|fi|lyhyt|alt=lyhyeksi}}, {{t+|fi|shortata}}
 * Swahili: {{t+|sw|fupi}}
 {{trans-mid}}
-* Swedish: {{t|sv|blanka}}
+* Swedish: {{t+|sv|blanka}}
 {{trans-bottom}}
 
 ===Preposition===
