@@ -54,7 +54,7 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 =====Translations=====
 {{trans-top|act in a manner such that one has fun}}
 * Aleut: [[mikal]]
-* Arabic: {{t+|ar|لَعِبَ|tr=láʿiba|sc=Arab}}
+* Arabic: {{t-|ar|لَعِبَ|tr=láʿiba|sc=Arab}}
 * Aramaic:
 *: [[Syriac]]: {{tø|syc|ܫܥܐ|tr=šʿa|sc=Syrc}}
 * Armenian: {{t-|hy|խաղալ|tr=xaġal}}
@@ -89,7 +89,7 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 *: Sorani: {{t-|ku|یاری کردن|tr=yarí kirdin|sc=ku-Arab}}
 {{trans-mid}}
 * Latgalian: {{tø|ltg|kaitavuot}}
-* Latin: {{t|la|lūdō}}
+* Latin: {{t-|la|lūdō}}
 * Latvian: {{t-|lv|spēlēt}}
 * Lithuanian: {{t+|lt|žaisti}}
 * Macedonian: {{t-|mk|игра|tr=ígra}}
@@ -133,7 +133,7 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 * Czech: {{t+|cs|hrát}}
 * Dutch: {{t+|nl|spelen}}, {{t+|nl|bespelen}}
 * Finnish: {{t+|fi|soittaa}}
-* French: {{t|fr|jouer|alt=jouer de}}
+* French: {{t+|fr|jouer|alt=jouer de}}
 * Georgian: {{t-|ka|უკრავს|sc=Geor}}
 * Greek: {{t+|el|παίζω|tr=pézo}}
 * Hebrew: {{t-|he|ניגן|alt=ניגן (ב־)|tr=nigén (b'-)}}
@@ -209,7 +209,7 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 {{trans-bottom}}
 
 {{trans-top|act in a performance}}
-* Arabic: {{t+|ar|مَثَّلَ}}
+* Arabic: {{t-|ar|مَثَّلَ}}
 * Armenian: {{t-|hy|խաղալ|tr=xaġal}}
 * Catalan: [[actuar]]
 * Chinese: [[表演]] (biǎoyǎn)
@@ -241,7 +241,7 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 {{trans-bottom}}
 
 {{trans-top|participate in (a sport or game)}}
-* Arabic: {{t|ar|لَعِبَ|tr=laʕiba}}
+* Arabic: {{t-|ar|لَعِبَ|tr=laʕiba}}
 * Armenian: {{t-|hy|խաղալ|tr=xaġal}}
 * Burmese: {{t+|my|ကစား|tr=găza:|sc=Mymr}}
 * Catalan: participar, jugar
@@ -259,7 +259,7 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 * Kurdish:
 *: Sorani: {{t-|ku|یاری کردن|tr=yarí kirdin|sc=ku-Arab}}
 {{trans-mid}}
-* Latin: {{t|la|lūdō}}
+* Latin: {{t-|la|lūdō}}
 * Lithuanian: {{t+|lt|žaisti}}
 * Macedonian: {{t-|mk|игра|tr=ígra}}
 * Neapolitan: {{tø|nap|jucà}}
@@ -305,7 +305,7 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: (5) {{t|ar|يعزف|tr=6}}, {{t|ar|يتمرن}}
+* {{ttbc|ar}}: (5) {{t-|ar|يعزف|tr=6}}, {{t-|ar|يتمرن}}
 * {{ttbc|ar}}: {{l|ar|يلعب}}
 * {{ttbc|gn}}: [[ñembosarái]]
 * {{ttbc|io}}: [[ludar]] (1), [[plear]] (2, 4)
@@ -349,7 +349,7 @@ From {{etyl|enm|en}} {{term|pleye|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 =====Translations=====
 {{trans-top|playful activity}}
 * Albanian: [[lojë]] {{f}}
-* Arabic: {{t+|ar|لَعِب|f|tr=lá3ib|sc=Arab}}
+* Arabic: {{t-|ar|لَعِب|f|tr=lá3ib|sc=Arab}}
 * Armenian: [[խաղ]] (xaġ)
 * Catalan: [[joc]] {{m}}
 * Chinese:
@@ -386,7 +386,7 @@ From {{etyl|enm|en}} {{term|pleye|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 * Romanian: {{t+|ro|joc|m|f}}
 * Russian: {{t+|ru|игра|f|tr=igrá}}
 * Scottish Gaelic: {{t-|gd|cleasachd|f}}
-* Serbo-Croatian: {{t+|sh|ìgra|f}}
+* Serbo-Croatian: {{t-|sh|ìgra|f}}
 * Slovak: {{t-|sk|hra|f}}
 * Slovene: {{t+|sl|igra|f}}
 * Spanish: {{t+|es|juego|m}}
@@ -496,17 +496,17 @@ From {{etyl|enm|en}} {{term|pleye|lang=enm}}, from {{etyl|ang|en}} {{term/t|ang|
 {{trans-top|area of free movement for a part of a mechanism}}
 * Finnish: {{t-|fi|välys}}, {{t-|fi|klappi}}, {{t+|fi|löysä}}
 * French: {{t+|fr|jeu|m}}
-* German: {{t|de|Spiel|n}}
+* German: {{t+|de|Spiel|n}}
 * Hungarian: [[holtjáték]]
 {{trans-mid}}
-* Irish: {{t|ga|ligean|m}}
+* Irish: {{t-|ga|ligean|m}}
 * Russian: {{t+|ru|люфт|m|tr=l'uft}}, {{t+|ru|зазор|m|tr=zazór}}, {{t+|ru|свободный ход|m|tr=svobódnyj xod}}
 * Spanish: {{t+|es|juego|m}}
 * Swahili: {{t+|sw|tamthilia}}
 {{trans-bottom}}
 
 {{trans-top|action carried out when it is one's turn to play}}
-* Arabic: {{t-|ar|دَوْر}}
+* Arabic: {{t+|ar|دَوْر}}
 * Finnish: {{t+|fi|siirto}}, {{t+|fi|peli}}
 {{trans-mid}}
 * Macedonian: {{t-|mk|потег|m|tr=póteg}}
