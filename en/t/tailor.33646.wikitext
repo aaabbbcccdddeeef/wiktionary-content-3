@@ -39,14 +39,14 @@ From {{etyl|xno|en}} {{term|tailour|lang=fro}}, from {{etyl|fro|en}} {{term|tail
 *: Mandarin: {{t|cmn|裁縫|sc=Hani}}, {{t|cmn|裁缝|tr=cáiféng, cáifeng|sc=Hani}}
 * Czech: {{t+|cs|krejčí|m}}
 * Danish: {{t+|da|skrædder|c}}, {{t-|da|skrædderske|c}}
-* Dutch: {{t+|nl|kleermaker|m}}, {{t|nl|kleermaakster|f}}
+* Dutch: {{t+|nl|kleermaker|m}}, {{t-|nl|kleermaakster|f}}
 * Esperanto: {{qualifier|♂♀, generic}} {{t+|eo|tajloro}}, {{qualifier|♂}} {{t-|eo|virtajloro}}, {{qualifier|♀}} {{t-|eo|tajlorino}}
-* Faroese: {{t|fo|skraddari|m}}
+* Faroese: {{t-|fo|skraddari|m}}
 * Finnish: {{t+|fi|räätäli}}, {{t-|fi|vaatturi}}
 * French: {{t+|fr|tailleur|m}}, {{t+|fr|tailleuse|f}}
 * Galician: {{t+|gl|xastre|m}}, {{t+|gl|alfaiate|m}}
 * German: {{t+|de|Schneider|m}}, {{t+|de|Schneiderin|f}}
-* Greek: {{t|el|ράπτης|m|tr=ráptis|sc=Grek}}, {{t|el|ράφτης|m|tr=ráftis|sc=Grek}}, {{t|el|μόδιστρος|m|tr=módistros|sc=Grek}} {{t|el|μοδίστρα|f|tr=modísta|sc=Grek}}
+* Greek: {{t+|el|ράπτης|m|tr=ráptis|sc=Grek}}, {{t+|el|ράφτης|m|tr=ráftis|sc=Grek}}, {{t+|el|μόδιστρος|m|tr=módistros|sc=Grek}} {{t+|el|μοδίστρα|f|tr=modísta|sc=Grek}}
 * Hindi: {{t-|hi|दर्ज़ी|m|tr=darzī|sc=Deva}}
 * Hungarian: {{t+|hu|szabó}}
 * Icelandic: {{t+|is|klæðskeri|m}}, {{t-|is|skraddari|m}}
@@ -96,15 +96,15 @@ From {{etyl|xno|en}} {{term|tailour|lang=fro}}, from {{etyl|fro|en}} {{term|tail
 * Lithuanian: {{t-|lt|melsvieji ešeriai}}
 * Portuguese: {{t+|pt|anchova|f}}, {{t+|pt|enchova|f}}
 * Romanian: {{t-|ro|lufar}}
-* Russian: {{t-|ru|луфарь|m|tr=lufár'}}
+* Russian: {{t+|ru|луфарь|m|tr=lufár'}}
 * Spanish: {{t-|es|anjora|f}}, {{t+|es|sastre|m}}
 * Swedish: {{t-|sv|blåfisk|c}}
 * Turkish: {{t+|tr|lüfer}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|eo}}: {{t|eo|kudristo}}
-* {{ttbc|lv}}: {{t|lv|drēbnieks}}
+* {{ttbc|eo}}: {{t+|eo|kudristo}}
+* {{ttbc|lv}}: {{t-|lv|drēbnieks}}
 {{trans-bottom}}
 
 ====Related terms====
@@ -121,7 +121,7 @@ From {{etyl|xno|en}} {{term|tailour|lang=fro}}, from {{etyl|fro|en}} {{term|tail
 
 ====Translations====
 {{trans-top|make, repair, or alter clothing}}
-* Bulgarian: {{t|bg|шия|sc=Cyrl}}
+* Bulgarian: {{t+|bg|шия|sc=Cyrl}}
 * Dutch: {{t-|nl|kleermaken}}
 * Finnish: {{t-|fi|vaatehtia}}
 * German: {{t-|de|schneidern}}
