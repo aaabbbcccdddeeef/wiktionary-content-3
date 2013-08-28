@@ -54,7 +54,7 @@
 * Armenian: {{t+|hy|դանակ|tr=danak}}
 * {{trreq|rup}}
 * Asturian: {{t-|ast|cuchiellu|m}}
-* Avar: {{t|av|нус|sc=Cyrl}}
+* Avar: {{t-|av|нус|sc=Cyrl}}
 * Azeri: {{t+|az|bıçaq}}
 * Bashkir: {{tø|ba|бысаҡ|tr=bısaq|sc=Cyrl}}
 * Basque: {{t+|eu|labana}}, {{t+|eu|aizto}}
@@ -63,7 +63,7 @@
 * Breton: {{t+|br|kontell|f}}
 * Bulgarian: {{t+|bg|нож|m|tr=nož}}
 * Burmese: {{t+|my|ဓား|tr=da:|sc=Mymr}}
-* Catalan: {{t+|ca|ganivet|m}}, {{t-|ca|coltell|m}}
+* Catalan: {{t+|ca|ganivet|m}}, {{t+|ca|coltell|m}}
 * Chamicuro: {{tø|ccc|amesheta}}
 * {{trreq|ce}}
 * Cherokee: {{t-|chr|ᎭᏰᎳᏍᏗ|tr=hayelasdi|sc=Cher}}
@@ -175,7 +175,7 @@
 * Tatar: {{t+|tt|пычак|tr=pıçaq|sc=Cyrl}}
 * Telugu: {{t+|te|కత్తి|tr=katti|sc=Telu}}
 * Thai: {{t+|th|มีด|tr=mêet|sc=Thai}}
-* Tibetan: {{t|bo|ཀ་ཀྲ་ལ|tr=ka kra la|sc=Tibt}}
+* Tibetan: {{t-|bo|ཀ་ཀྲ་ལ|tr=ka kra la|sc=Tibt}}
 * {{trreq|tn}}
 * Turkish: {{t+|tr|bıçak}}
 * Turkmen: {{t-|tk|pyçak}}
@@ -183,9 +183,9 @@
 * Ukrainian: {{t-|uk|ніж|m|tr=niž|sc=Cyrl}}
 * Urdu: {{t-|ur|چھری|f|tr=churī|sc=ur-Arab}}, {{t-|ur|چاقو|m|tr=cāqū|sc=ur-Arab}}
 * Uyghur: {{t-|ug|پىچاق|tr=pichaq|sc=ug-Arab}}
-* Uzbek: {{t-|uz|pichoq}}
+* Uzbek: {{t+|uz|pichoq}}
 * Vietnamese: {{t+|vi|dao}} ({{t+|vi|刀}}), {{t+|vi|con dao}}
-* Walloon: {{t|wa|coutea|m}}
+* Walloon: {{t+|wa|coutea|m}}
 * Welsh: {{t+|cy|cyllell|f}}
 * West Frisian: {{t+|fy|mes}}
 * {{trreq|xh}}
@@ -200,8 +200,8 @@
 * Arabic: {{t-|ar|خنجر|m|tr=xanjar|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|خنجر|m|tr=xángar|sc=Arab}}
 * Armenian: {{t+|hy|դանակ|tr=danak}}
-* Avar: {{t|av|нус|sc=Cyrl}}
-* Catalan: {{t-|ca|coltell|m}}, {{t-|ca|daga|f}}, {{t+|ca|ganivet|m}}, {{t-|ca|punyal|m}}
+* Avar: {{t-|av|нус|sc=Cyrl}}
+* Catalan: {{t+|ca|coltell|m}}, {{t-|ca|daga|f}}, {{t+|ca|ganivet|m}}, {{t-|ca|punyal|m}}
 * Cherokee: {{t-|chr|ᎭᏰᎳᏍᏗ|tr=hayelasdi|sc=Cher}}
 * Chinese:
 *: Mandarin: {{t|cmn|刀|tr=dāo|sc=Hani}}
@@ -235,7 +235,7 @@
 * Norman: {{tø|roa-nor|couoté|m}}
 * Norwegian: {{t+|no|kniv|m}}
 * Ojibwe: [[mookomaan]]
-* Persian: {{t+|fa|خنجر|tr=xanjar}}, {{t|fa|دشنه|tr=dešne|sc=fa-Arab}}
+* Persian: {{t+|fa|خنجر|tr=xanjar}}, {{t+|fa|دشنه|tr=dešne|sc=fa-Arab}}
 * Polish: {{t+|pl|nóż|m}}
 * Portuguese: {{t+|pt|faca|f}}
 * Romani: {{tø|rom|shuri|f}}
@@ -250,13 +250,13 @@
 * Swahili: {{t+|sw|kisu}}
 * Swedish: {{t+|sv|dolk|c}}, {{t+|sv|kniv|c}}
 * Ukrainian: {{t-|uk|ніж|m|tr=niž|sc=Cyrl}}
-* Walloon: {{t|wa|coutea|m}}
+* Walloon: {{t+|wa|coutea|m}}
 * West Frisian: {{t+|fy|mes}}
 {{trans-bottom}}
 
 {{trans-top|any blade-like part designed for cutting}}
 * Afrikaans: {{t-|af|lem}}
-* Arabic: {{Arab|[[نصل]]}} ({{unicode|naṣl}}) {{m}}, {{t|ar|شفرة|tr=šáfra|f}}
+* Arabic: {{Arab|[[نصل]]}} ({{unicode|naṣl}}) {{m}}, {{t-|ar|شفرة|tr=šáfra|f}}
 *: Egyptian Arabic: {{tø|arz|موس|m|tr=mūs|sc=Arab}}
 * Catalan: {{t+|ca|ganivet|m}}
 * Czech: {{t+|cs|nůž}}
