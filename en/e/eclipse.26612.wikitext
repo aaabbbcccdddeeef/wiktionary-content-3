@@ -36,7 +36,7 @@ From {{etyl|la|en}} {{term/t|la|eclīpsis}}, from {{etyl|grc|en}} {{term|ἔκλ
 * Arabic: {{t-|ar|كسوف|m|tr=kusuuf}}, {{t-|ar|خسوف|m|tr=khusuuf}}
 * Armenian: {{t-|hy|խավարում|tr=xavarum}}
 * Asturian: {{t-|ast|eclipse|m}}
-* {{ttbc|br}}: {{t-|br|fallaenn|f}}, {{t|br|-où|p}}, {{t-|br|gwaskadenn|f}}, {{t|br|-où|p}} <!-- WTF are those suffixes doing here? -->
+* {{ttbc|br}}: {{t-|br|fallaenn|f}}, {{t+|br|-où|p}}, {{t-|br|gwaskadenn|f}}, {{t+|br|-où|p}} <!-- WTF are those suffixes doing here? -->
 * Bulgarian: {{t+|bg|затъмнение|n|tr=zatămnenie}}
 * Catalan: {{t-|ca|eclipsi|m}}
 * Chinese:
@@ -61,11 +61,11 @@ From {{etyl|la|en}} {{term/t|la|eclīpsis}}, from {{etyl|grc|en}} {{term|ἔκλ
 * {{ttbc|kea}} <!-- xte completely fails to recognise what is going on here; please markup appropriately -->
 *: [[Badiu]]: [[eklipsi]]
 *: [[ALUPEC]]/[[ALUPEK]]: [[eklipsi]]
-* Korean: {{t|ko|식현상|tr=sikhyeonsang|sc=Kore}}
+* Korean: {{t-|ko|식현상|tr=sikhyeonsang|sc=Kore}}
 * Latin: {{t-|la|eclipsis|m}}
 * Malay: {{t-|ms|gerhana}}
 * Maltese: {{t-|mt|eklissi|m}}
-* Maori: {{t|mi|whenumitanga}}, {{t|mi|rā kutia}}
+* Maori: {{t-|mi|whenumitanga}}, {{t-|mi|rā kutia}}
 * Navajo: {{tø|nv|ałneʼííʼáázh}}
 * Norwegian:
 *: Bokmål: {{t-|nb|formørkelse|m}}
