@@ -111,14 +111,14 @@ Originally a singular noun (e.g. ''The people is hungry, and weary, and thirsty,
 * Kyrgyz: {{t-|ky|кишилер|p|tr=kişiler|sc=Cyrl}}
 * Lao: {{t-|lo|ປະຊາຊົນ|tr=pásáːsón|sc=Laoo}}
 * Latgalian: {{tø|ltg|ļauds}}
-* Latin: {{t+|la|populus|m}}, {{t+|la|gēns|f}}
+* Latin: {{t+|la|populus|m}}, {{t-|la|gēns|f}}
 {{trans-mid}}
 * Latvian: {{t-|lv|cilvēki|p}}, {{t+|lv|ļaudis|f}}
 * Lithuanian: {{t+|lt|žmonės|m-p}}
 * Lojban: {{t+|jbo|prenu}}
 * Macedonian: {{t-|mk|луѓе|p|tr=lúǵе}}
 * Malay: {{t+|ms|orang}}
-* Maltese: {{t|mt|nies|p}}
+* Maltese: {{t-|mt|nies|p}}
 * Manx: {{t-|gv|pobble}}
 * Maori: {{t-|mi|tangata}}
 * Mongolian: {{t-|mn|ард|tr=ard|sc=Cyrl}}
@@ -127,7 +127,7 @@ Originally a singular noun (e.g. ''The people is hungry, and weary, and thirsty,
 * Old Church Slavonic: {{tø|cu|людиє|m-p|tr=ljudie}}
 * Old English: {{t-|ang|menn|m-p}}, {{t-|ang|weras|m-p}}, {{t+|ang|folc|n}}
 * Old Provençal: {{tø|pro|gentz}}
-* Persian: {{t+|fa|مَردُم|tr=mardom|sc=fa-Arab}}
+* Persian: {{t-|fa|مَردُم|tr=mardom|sc=fa-Arab}}
 * Polish: {{t+|pl|ludzie|p}}
 * Portuguese: {{t+|pt|pessoas|f-p}}, {{t+|pt|gente|f}}
 * Punjabi: [[ਲੋਕ]] (lōk)
@@ -199,14 +199,14 @@ Originally a singular noun (e.g. ''The people is hungry, and weary, and thirsty,
 * Latvian: {{t+|lv|tauta|f}}, {{t+|lv|ļaudis|p}}
 * Lithuanian: {{t+|lt|tauta|f}}, {{t+|lt|liaudis|f}}
 * Macedonian: {{t-|mk|народ|m|tr=národ}}
-* Maltese: {{t|mt|poplu|m}}
+* Maltese: {{t-|mt|poplu|m}}
 * Maori: {{t-|mi|tangata}}
 * Mazanderani: {{tø|mzn|به‏نه‏وار|tr=benevár|sc=fa-Arab}}
 * Norwegian: {{t+|no|folk|n}}
 * Occitan: {{t+|oc|pòble|m}}
 * Old English: {{t+|ang|folc|n}}, {{t-|ang|dryht|f}}, {{t-|ang|lēode|f-p}}
 * Old Provençal: {{tø|pro|poble}}
-* Persian: {{t+|fa|مَردُم|tr=mardom|sc=fa-Arab}}
+* Persian: {{t-|fa|مَردُم|tr=mardom|sc=fa-Arab}}
 * Polish: {{t+|pl|naród|m}}, {{t+|pl|lud|m}}
 * Portuguese: {{t+|pt|povo|m}}
 * Romanian: {{t+|ro|popor|n}}, {{t-|ro|neam|n}}, {{t-|ro|națiune|f}}
@@ -233,7 +233,7 @@ Originally a singular noun (e.g. ''The people is hungry, and weary, and thirsty,
 * {{trreq|da}}
 * Dutch: {{t+|nl|mensen|p}}, {{t+|nl|volk|n}}
 * Esperanto: {{t-|eo|popolo}}
-* Finnish: {{t+|fi|väki}}, {{t-|fi|henkilökunta}}
+* Finnish: {{t+|fi|väki}}, {{t+|fi|henkilökunta}}
 * French: {{t+|fr|peuple|m}}
 * German: {{t+|de|Leute|p}}
 * {{trreq|it}}
@@ -251,9 +251,9 @@ Originally a singular noun (e.g. ''The people is hungry, and weary, and thirsty,
 
 {{trans-top|a person's ancestors, relatives or family}}
 * Afrikaans: [[familie]]
-* Arabic: {{t|ar|أهل|m|tr=ahl|sc=Arab}}
+* Arabic: {{t-|ar|أهل|m|tr=ahl|sc=Arab}}
 * Bulgarian: {{t+|bg|род|m|sc=Cyrl}}, {{t+|bg|семейство|n|sc=Cyrl}}, {{t+|bg|линия|f|sc=Cyrl}}
-* Catalan: {{t|ca|família|f}}, {{t|ca|els meus}}
+* Catalan: {{t+|ca|família|f}}, {{t-|ca|els meus}}
 * Dutch: {{t+|nl|familie|f}}, {{t+|nl|verwanten|p}}
 * Esperanto: {{t-|eo|gento}}
 * Finnish: {{t+|fi|suku}}, {{t+|fi|sukulaiset}}
@@ -271,7 +271,7 @@ Originally a singular noun (e.g. ''The people is hungry, and weary, and thirsty,
 * Navajo: {{tø|nv|shikʼéí}}
 * Norwegian: {{t-|no|slekt|m}}
 * Old English: {{t-|ang|cynn|n}}
-* Persian: {{t|fa|خویشان|p|tr=xišân|sc=fa-Arab}}
+* Persian: {{t+|fa|خویشان|p|tr=xišân|sc=fa-Arab}}
 * Polish: {{t+|pl|ogół|m}}
 * Portuguese: {{t+|pt|família|f}}
 * Russian: [[родня]] (rodnjá, ''[[colloquial|colloq.]]'') {{f}}
@@ -336,7 +336,7 @@ Originally a singular noun (e.g. ''The people is hungry, and weary, and thirsty,
 ====Translations====
 {{trans-top|to fill with people}}
 * Bulgarian: {{t-|bg|населвам|sc=Cyrl}}, {{t-|bg|населя|sc=Cyrl}}
-* Catalan: {{t|ca|poblar}}
+* Catalan: {{t+|ca|poblar}}
 * Dutch: {{t-|nl|bevolken}}
 * Finnish: {{t+|fi|asuttaa}}
 * German: {{t-|de|bevölkern}}
@@ -352,7 +352,7 @@ Originally a singular noun (e.g. ''The people is hungry, and weary, and thirsty,
 {{trans-bottom}}
 
 {{trans-top|to become populous}}
-* Catalan: {{t|ca|poblar-se}}
+* Catalan: {{t-|ca|poblar-se}}
 * Dutch: [[bevolkt]] [[worden]] (''literally: “become populated”'')
 * Finnish: {{t+|fi|lisääntyä}}
 * Norwegian: {{t-|no|befolkes}}
