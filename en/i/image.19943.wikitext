@@ -81,7 +81,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term/t|la|imā
 * German: {{t+|de|Bild|n}}
 * Greek: {{t+|el|εικόνα|f|tr=ikóna}},  {{t+|el|απεικόνιση|f|tr=apikónisi}},  {{t+|el|απείκασμα|n|tr=apíkasma}},  {{t-|el|πανομοιότυπο|tr=panomiótipo}}
 * Haitian Creole: {{tø|ht|imaj}}
-* Hebrew: {{t|he|תמונה|tr=temuna|f}}
+* Hebrew: {{t+|he|תמונה|tr=temuna|f}}
 * Hungarian: {{t+|hu|kép}}
 * Icelandic: {{t+|is|mynd|f}}
 * Irish: {{t-|ga|íomhá|f}}
@@ -92,19 +92,19 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term/t|la|imā
 * Nahuatl: {{t+|nah|ixiptli}}
 {{trans-mid}}
 * Navajo: {{tø|nv|eʼelyaaígíí}}
-* Persian: {{t|fa|تصویر|tr=tasvir}}, {{t+|fa|نگاره|tr=negâre}}
+* Persian: {{t+|fa|تصویر|tr=tasvir}}, {{t+|fa|نگاره|tr=negâre}}
 * Polish: {{t+|pl|obraz|m}}
 * Portuguese: {{t+|pt|imagem|f}}, {{t+|pt|figura|f}}, {{t+|pt|fotografia|f}}
 * Punjabi:
-*: Gurmukhi: {{t|pa|ਤਸਵੀਰ|tr=tasvīr}}
-*: Shahmukhi: {{t|pnb|تصویر|tr=tasvīr}}
-* Romanian: {{t|ro|imagine|f}}, {{t|ro|poză|f}}
+*: Gurmukhi: {{t-|pa|ਤਸਵੀਰ|tr=tasvīr}}
+*: Shahmukhi: {{t-|pnb|تصویر|tr=tasvīr}}
+* Romanian: {{t-|ro|imagine|f}}, {{t-|ro|poză|f}}
 * Russian: {{t+|ru|образ|m|tr=óbraz}},  {{t+|ru|изображение|n|tr=izobražénije}}
 * Sardinian:
 *: Campidanese Sardinian: {{tø|sro|màgini}}
 * Scottish Gaelic: [[dealbh]] {{m|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|слика|sc=Cyrl|f}}
+*: Cyrillic: {{t-|sh|слика|sc=Cyrl|f}}
 *: Roman: {{t-|sh|slika|f}}
 * Slovene: {{t+|sl|slika|f}}
 * Sorbian:
@@ -114,7 +114,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term/t|la|imā
 * Tagalog: {{t-|tl|imahen}}
 * Tajik: {{t+|tg|тасвир|tr=tasvir}}
 * Ukrainian: {{t+|uk|образ|m|tr=óbraz}}
-* Uyghur: {{t|ug|رەسىم|tr=resim}}
+* Uyghur: {{t-|ug|رەسىم|tr=resim}}
 * Yiddish: {{t-|yi|בילד|tr=bild|sc=Hebr}}
 {{trans-bottom}}
 
@@ -166,7 +166,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term/t|la|imā
 * Finnish: {{t+|fi|mielikuva}}, {{t+|fi|imago}}
 * German: {{t+|de|Image|n}}, {{t-|de|Erscheinungsbild|n}}
 * Greek: {{t+|el|εικόνα|f|tr=ikóna}},  {{t+|el|περιωπή|f|tr=periopí}}
-* Hungarian: {{t-|hu|arculat}}, {{t-|hu|imázs}}
+* Hungarian: {{t+|hu|arculat}}, {{t-|hu|imázs}}
 * Japanese: {{t+|ja|印象|tr=inshō}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|imagem|f}}
@@ -220,7 +220,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term/t|la|imā
 {{trans-bottom}}
 
 {{trans-top|computing: to create a backup copy}}
-* Sindhi: {{t|sd|عڪس|sc=sd-Arab}}
+* Sindhi: {{t-|sd|عڪس|sc=sd-Arab}}
 {{trans-mid}}
 {{trans-bottom}}
 
