@@ -1,15 +1,15 @@
 ==English==
 {{slim-wikipedia|dab=push}}
 
-===Etymology===
+===Etymology 1===
 {{etyl|enm|en}} {{term|pushen|pushen, poshen, posson|lang=enm}}, from {{etyl|frm|en}} {{term|pousser||lang=frm}}  (Modern French {{term|pousser|lang=fr}}) from {{etyl|fro|en}} {{term|poulser||lang=fro}}, from {{etyl|la|en}} {{term|pulsare|lang=la}}, frequentative of ''[[pellere]]'' (past participle ''[[pulsus]]'') "to beat, strike". Displaced native {{etyl|enm|-}} {{term|thrucchen||to push|lang=enm}} (from {{etyl|ang|-}} {{term|þryccan||to push|lang=ang}}), {{etyl|enm|-}} {{term|scauten||to push, thrust|lang=enm}} (from {{etyl|non|-}} {{term|skota||lang=non}}), {{etyl|enm|-}} {{term|schoven||to push, shove|lang=enm}} (from {{etyl|ang|-}} {{term|scofian||lang=ang}}), {{etyl|enm|-}} {{term|schuven||to shove, push|lang=enm}} (from {{etyl|ang|-}} {{term/t|ang|scūfan}}, {{term/t|ang|scēofan||to shove, push, thrust}}), {{etyl|enm|-}} {{term|thuden||lang=enm}}, {{term|thudden||to push, press, thrust|lang=enm}} (from {{etyl|ang|-}} {{term/t|ang|þȳdan}}, {{term|þyddan||to thrust, press, push|lang=ang}}).
 
-===Pronunciation===
+====Pronunciation====
 * {{enPR|po͝osh}}, {{IPA|/pʊʃ/}}, {{X-SAMPA|/pUS/}}
 * {{audio|en-us-push.ogg|Audio (US)}}
 * {{rhymes|ʊʃ}}
 
-===Verb===
+====Verb====
 {{en-verb|push|es}}
 
 # {{context|transitive|intransitive|lang=en}} To apply a [[force]] to (an object) such that it moves [[away]] from the person or thing applying the force.
@@ -34,7 +34,7 @@
 #* '''1992''', Michael A. Miller, ''The 68000 Microprocessor Family: Architecture, Programming, and Applications'' (page 47)
 #*: When the microprocessor decodes the JSR opcode, it stores the operand into the TEMP register and '''pushes''' the current contents of the PC ($00 0128) onto the stack.
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|transitive: apply a force to (an object) so it moves away}} to [[press]], to [[shove]], to [[thrutch]]
 * {{sense|continue to attempt to persuade}} to [[press]], to [[urge]]
 * {{sense|continue to attempt to promote (a point of view)}} to [[press]]
@@ -43,10 +43,10 @@
 * {{sense|intransitive: apply force to an object so that it moves away}} to [[press]], to [[shove]], to [[thring]]
 * {{sense|tense the muscles in the abdomen in order to expel its contents}} to [[bear down]]
 
-====Antonyms====
+=====Antonyms=====
 * {{sense|apply a force to something so it moves away}} to [[draw]], to [[pull]], to [[tug]]
 
-====Derived terms====
+=====Derived terms=====
 {{rel-top3|Terms derived from ''push'' (verb)}}
 <!--"give someone the push-off" is derived from "push off"-->
 * [[pedal pushers]]
@@ -65,7 +65,7 @@
 * [[pushy]]
 {{rel-bottom}}
 
-====Translations====
+=====Translations=====
 {{trans-top|transitive: apply a force to (an object) so that it moves away}}
 * Arabic: {{t+|ar|دفع|tr=dáfaʿa|sc=Arab}}
 * Armenian: {{t-|hy|հրել|tr=hrel|sc=Armn}}
@@ -188,7 +188,7 @@
 {{trans-mid}}
 {{trans-bottom}}
 
-===Noun===
+====Noun====
 {{en-noun|es}}
 
 # A short, directed application of [[force]]; an act of pushing.
@@ -235,6 +235,15 @@
 * Telugu: {{t+|te|విన్యాసము|tr=vinyasamu|sc=Telu}}
 {{trans-mid}}
 {{trans-bottom}}
+
+===Etymology 2===
+Probably {{etyl|fr|en}} {{term|poche|lang=fr}}. See {{term|pouch|lang=en}}.
+
+====Noun====
+{{en-noun|es}}
+
+# {{context|obsolete|UK|dialect|lang=en}} A [[pustule]]; a [[pimple]].
+#: {{rfquotek|Francis Bacon}}
 
 [[Category:1000 English basic words]]
 
