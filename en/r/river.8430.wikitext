@@ -64,13 +64,13 @@ From {{etyl|xno|en}} {{term|rivere|lang=fro}}, from {{etyl|fro|en}} {{term|rivie
 
 =====Translations=====
 {{trans-top|large stream which drains a landmass}}
-* Achumawi: [[ajúmmá]]
+* Achumawi: {{t|acv|ajúmmá}}
 * Afrikaans: {{t-|af|rivier}}
 * Ahtna: {{tø|aht|c'ena'}}
 * Ainu: {{tø|ain|ペッ|tr=pet}}
 * Albanian: {{t-|sq|lumi}}
 * Amharic: {{t-|am|ወንዝ|tr=wänz|sc=Ethi}}
-* Arabic: {{t+|ar|نهر|m|tr=nahr|sc=Arab}}, {{Arab|[[أنهار]]}} (’anhār) {{p}}, {{Arab|[[أنهر]]}} (’ánhur) {{p}}
+* Arabic: {{t+|ar|نهر|m|tr=nahr|sc=Arab}}, {{t|ar|أنهار|p|tr=’anhār|sc=Arab}}, {{t|ar|أنهر|p|tr=’ánhur|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|نهر|m|tr=nahr|sc=Arab}}
 * Aragonese: {{t-|an|río|m}}
 * Aramaic:
@@ -91,7 +91,7 @@ From {{etyl|xno|en}} {{term|rivere|lang=fro}}, from {{etyl|fro|en}} {{term|rivie
 * Belarusian: {{t-|be|рака|f|tr=raká|sc=Cyrl}} (plural: {{t-|be|рэкі|f-p|tr=réki}})
 * Bengali: {{t+|bn|নদী|tr=nadi|sc=Beng}}
 * Berber:
-*: Tashelhit: {{tø|shi|asif|m}}
+*: {{ttbc|Tashelhit}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{tø|shi|asif|m}}
 * Breton: {{t+|br|stêr|f}}
 * Bulgarian: {{t+|bg|река|f|tr=reka}}
 * Burmese: {{t+|my|မြစ်|tr=myit|sc=Mymr}}
@@ -213,7 +213,7 @@ From {{etyl|xno|en}} {{term|rivere|lang=fro}}, from {{etyl|fro|en}} {{term|rivie
 * Romanian: {{t+|ro|râu|n}}, {{t+|ro|fluviu|n}}
 * Russian: {{t+|ru|река|f|tr=reká}}, {{qualifier|small}} {{t+|ru|речка|f|tr=réčka|sc=Cyrl}}
 * Rusyn: {{tø|rue|ріка|f|tr=riká}}
-* Saanich: [[STO,LU,]]
+* Saanich: {{t|str|STO,LU,}}
 * Sanskrit: {{t+|sa|नदी|tr=nadī́}}
 * {{trreq|sc}}
 * Saterland Frisian: {{tø|stq|Äi}}
@@ -236,7 +236,7 @@ From {{etyl|xno|en}} {{term|rivere|lang=fro}}, from {{etyl|fro|en}} {{term|rivie
 * Swedish: {{t+|sv|flod|c}}, {{t+|sv|älv|c}}, {{t+|sv|å|c}}
 * Tajik: {{t-|tg|рӯд|tr=rūd|sc=Cyrl}}, {{t-|tg|дарё|tr=daryo|sc=Cyrl}}, {{t-|tg|наҳр|tr=nahr|sc=Cyrl}}
 * Talysh:
-*: Asalemi: {{tø|tly|ربار|tr=rəbâr|sc=fa-Arab}}
+*: {{ttbc|Asalemi}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{tø|tly|ربار|tr=rəbâr|sc=fa-Arab}}
 * Tamil: {{t+|ta|ஆறு|tr=āru|sc=Taml}}
 * Tatar: {{t+|tt|елга|tr=elğa|sc=Cyrl}}, {{t+|tt|дәрья|tr=därya|sc=Cyrl}}
 * Telugu: {{t+|te|నది|tr=nadi}}
@@ -295,68 +295,68 @@ From {{etyl|xno|en}} {{term|rivere|lang=fro}}, from {{etyl|fro|en}} {{term|rivie
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ain}}: [[ペッ#Ainu|ペッ]], [[ペト#Ainu|ペ<span style="font-size:70%;">ト</span>]] (pet)
-* {{ttbc|sq}}: [[lumë]] {{f}}
-* {{ttbc|bew}}: [[kali]]
-* {{ttbc|bla}}: [[niitahtaa]]
-* {{ttbc|br}}: [[stêr]] {{f}}, [[stêrioù]] {{p}}
-* {{ttbc|bg}}: [[река]] (reka) {{f}}
-* {{ttbc|ceb}}: [[sapa']]
-* {{ttbc|cr}}: [[sipiy]]
-* {{ttbc|sh}}: [[rijeka]] {{f}}
-* {{ttbc|dbl}}: [[yuramu]] {{qualifier|class II}}
-* {{ttbc|ee}}: [[tɔsisi]]
-* {{ttbc|gl}}: [[río#Galician|río]] {{m}}
-* {{ttbc|ka}}: [[მდინარე]] (mdinare)
-* {{ttbc|gn}}: [[ysyry]]
-* {{ttbc|gu}}: [[નદી]]
-* {{ttbc|haw}}: [[kahawai]], [[muliwai]]
-* {{ttbc|hi}}: [[नदी]] (nadī)
-* {{ttbc|hu}}: [[folyó]]
-* {{ttbc|ilo}}: [[karayan]]
-* {{ttbc|ia}}: [[fluvio]], [[riviera]]
-* {{ttbc|it}}: [[fiume]] {{m}}
+* {{ttbc|ain}}: {{t|ain|ペッ|sc=Kana}}, {{t|ain|ペㇳ|tr=pet|sc=Kana}}
+* {{ttbc|sq}}: {{t|sq|lumë|f}}
+* {{ttbc|bew}}: {{t|bew|kali}}
+* {{ttbc|bla}}: {{t|bla|niitahtaa}}
+* {{ttbc|br}}: {{t|br|stêr|f}}, {{t|br|stêrioù|p}}
+* {{ttbc|bg}}: {{t|bg|река|f|tr=reka|sc=Cyrl}}
+* {{ttbc|ceb}}: {{t|ceb|sapa'}}
+* {{ttbc|cr}}: {{t|cr|sipiy|sc=Cans}}
+* {{ttbc|sh}}: {{t|sh|rijeka|f}}
+* {{ttbc|dbl}}: {{qualifier|class II}} {{t|dbl|yuramu}}
+* {{ttbc|ee}}: {{t|ee|tɔsisi}}
+* {{ttbc|gl}}: {{t|gl|río|m}}
+* {{ttbc|ka}}: {{t|ka|მდინარე|tr=mdinare|sc=Geor}}
+* {{ttbc|gn}}: {{t|gn|ysyry}}
+* {{ttbc|gu}}: {{t|gu|નદી|sc=Gujr}}
+* {{ttbc|haw}}: {{t|haw|kahawai}}, {{t|haw|muliwai}}
+* {{ttbc|hi}}: {{t|hi|नदी|tr=nadī|sc=Deva}}
+* {{ttbc|hu}}: {{t|hu|folyó}}
+* {{ttbc|ilo}}: {{t|ilo|karayan}}
+* {{ttbc|ia}}: {{t|ia|fluvio}}, {{t|ia|riviera}}
+* {{ttbc|it}}: {{t|it|fiume|m}}
 * {{ttbc|kn}}: {{t+|kn|ನದಿ|tr=nadi|sc=Knda}}, {{t+|kn|ಹೊಳೆ|tr=hoḷe|sc=Knda}}
-* {{ttbc|km}}: {{Khmr|[[ទន្លេ]]}} (dtūənlēi)
-* {{ttbc|ko}}: [[내]] (nae), [[수]] ([[水]], su), [[강]] ([[江]], gang), 가람 (garam)
-* {{ttbc|ku}}: [[çem]], [[ro]], [[robar]], {{t|ku|sc=ku-Arab|ڕوبار}}
-* {{ttbc|ky}}: [[дария]] (dariya)
-* {{ttbc|lkt}}: [[wakpa]]
+* {{ttbc|km}}: {{t|km|ទន្លេ|tr=dtūənlēi|sc=Khmr}}
+* {{ttbc|ko}}: {{t|ko|내|tr=nae|sc=Kore}}, {{t|ko|수|tr=[[水]], su|sc=Kore}}, {{t|ko|강|tr=[[江]], gang|sc=Kore}}, {{t|ko|가람|tr=garam|sc=Kore}}
+* {{ttbc|ku}}: {{t|ku|çem}}, {{t|ku|ro}}, {{t|ku|robar}}, {{t|ku|sc=ku-Arab|ڕوبار}}
+* {{ttbc|ky}}: {{t|ky|дария|tr=dariya|sc=Cyrl}}
+* {{ttbc|lkt}}: {{t|lkt|wakpa}}
 * {{ttbc|lo}}: {{t-|lo|ແມ່ນ້ຳ|tr=mëë-nam|sc=Laoo}}
-* {{ttbc|la}}: [[flumen]] {{n}}, [[fluvius]] {{m}}
+* {{ttbc|la}}: {{t|la|flumen|n}}, {{t|la|fluvius|m}}
 {{trans-mid}}
-* {{ttbc|ml}}: [[പുഴ]] (puzha)
-* {{ttbc|mt}}: [[xmara]] {{f}}
-* {{ttbc|mi}}: [[awa]]
-* {{ttbc|mr}}: [[नदी#Marathi|नदी]] (nadī)
-* {{ttbc|mn}}: [[гол#Mongolian|гол]]
-* {{ttbc|ne}}: [[नदी#Nepali|नदी]]
-* {{ttbc|no}}: [[elv]], [[flod]]
-* {{ttbc|oj}}: [[ziibi]], [[ziibiwan]] {{p}}
-* {{ttbc|pa}}: [[ਨਦ]]
-* {{ttbc|rhg}}: [[hál]]
-* {{ttbc|ro}}: [[râu]] {{n}}, [[fluviu]] {{n}}
-* {{ttbc|sm}}: [[vaitafe]]
-* {{ttbc|sa}}: [[नदि#Sanskrit|नदि]]
+* {{ttbc|ml}}: {{t|ml|പുഴ|tr=puzha|sc=Mlym}}
+* {{ttbc|mt}}: {{t|mt|xmara|f}}
+* {{ttbc|mi}}: {{t|mi|awa}}
+* {{ttbc|mr}}: {{t|mr|नदी|tr=nadī|sc=Deva}}
+* {{ttbc|mn}}: {{t|mn|гол|sc=Cyrl}}
+* {{ttbc|ne}}: {{t|ne|नदी|sc=Deva}}
+* {{ttbc|no}}: {{t|no|elv}}, {{t|no|flod}}
+* {{ttbc|oj}}: {{t|oj|ziibi|sc=Cans}}, {{t|oj|ziibiwan|p|sc=Cans}}
+* {{ttbc|pa}}: {{t|pa|ਨਦ|sc=Guru}}
+* {{ttbc|rhg}}: {{t|rhg|hál}}
+* {{ttbc|ro}}: {{t|ro|râu|n}}, {{t|ro|fluviu|n}}
+* {{ttbc|sm}}: {{t|sm|vaitafe}}
+* {{ttbc|sa}}: {{t|sa|नदि|sc=Deva}}
 * {{ttbc|sh}}:
-*: Cyrillic: [[река]] {{f}}
-*: Roman: [[reka]] {{f}}
-* {{ttbc|sk}}: [[rieka#Slovak|rieka]] {{f}} (1); [[prúd#Slovak|prúdy]] ''m/pl'' (2)
-* {{ttbc|sl}}: [[reka]] {{f}}
-* {{ttbc|sgd}}: [[suba']]
-* {{ttbc|sw}}: [[mto]] ''sg'', [[mito]] ''pl (noun 3/4)''
-* {{ttbc|tl}}: [[ilog]], agos ng tubig, munting ilog (narrow flow of water-sapa, ilat)
-* {{ttbc|ta}}: [[ஆறு]] (āṟu)
-* {{ttbc|twf}}: [[p’ȍ’óna]]
+*: Cyrillic: {{t|sh|река|f|sc=Cyrl}}
+*: Roman: {{t|sh|reka|f}}
+* {{ttbc|sk}}: {{qualifier|1}} {{t|sk|rieka|f}}, {{t|sk|prúd|alt=prúdy}} ''m <!-- was "[[prúd#Slovak|prúdy]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|2}} {{t|sk|pl}} ''
+* {{ttbc|sl}}: {{t|sl|reka|f}}
+* {{ttbc|sgd}}: {{t|sgd|suba'}}
+* {{ttbc|sw}}: {{t|sw|mto}} ''sg'', {{qualifier|noun 3/4}} {{t|sw|mito}} ''pl ''
+* {{ttbc|tl}}: {{t|tl|ilog}}, {{t|tl|[[agos]] [[ng]] [[tubig]]}} <!-- was "agos ng tubig" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|narrow flow of water-sapa, ilat}} {{t|tl|[[munting]] [[ilog]]}} <!-- was "munting ilog" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|ta}}: {{t|ta|ஆறு|tr=āṟu|sc=Taml}}
+* {{ttbc|twf}}: {{t|twf|p’ȍ’óna}}
 * {{ttbc|te}}: {{t+|te|నది}}(nadi)
-* {{ttbc|th}}: {{Thai|[[แม่น้ำ]]}} (mâe náam)
-* {{ttbc|bo}}: [[ཆུ]] (chu)
-* {{ttbc|tpn}}: [['y]]
+* {{ttbc|th}}: {{t|th|แม่น้ำ|tr=mâe náam|sc=Thai}}
+* {{ttbc|bo}}: {{t|bo|ཆུ|tr=chu|sc=Tibt}}
+* {{ttbc|tpn}}: {{t|tpn|'y}}
 * {{ttbc|ur}}: {{t-|ur|دریا|tr=daryā}}
-* {{ttbc|vi}}: [[hà]], [[giang]], [[sông]]
-* {{ttbc|war}}: [[salog]]
-* {{ttbc|wo}}: [[dex#Wolof|dex]]
-* {{ttbc|yi}}: [[טײַך]] (taykh) {{m}}
+* {{ttbc|vi}}: {{t|vi|hà}}, {{t|vi|giang}}, {{t|vi|sông}}
+* {{ttbc|war}}: {{t|war|salog}}
+* {{ttbc|wo}}: {{t|wo|dex}}
+* {{ttbc|yi}}: {{t|yi|טײַך|m|tr=taykh|sc=Hebr}}
 {{trans-bottom}}
 
 =====See also=====
