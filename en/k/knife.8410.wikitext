@@ -44,12 +44,12 @@
 {{trans-top|utensil or tool designed for cutting}}
 * {{trreq|ab}}
 * Afrikaans: {{t+|af|mes}}
-* Alabama: [[talkoosa]]
+* Alabama: {{t|akz|talkoosa}}
 * Albanian: {{t-|sq|thikë|f}}
 * {{trreq|am}}
 * Arabic: {{t-|ar|سكين|m|f|tr=sikkīn|sc=Arab}}, {{t-|ar|مدية|f|tr=múdya|sc=Arab}}
 *: Egyptian Arabic: {{tø|arz|سكينة|f|tr=sikkīna|sc=Arab}}
-*: Moroccan: {{Arab|[[موس]]}} (muus)
+*: Moroccan: {{t|ary|موس|tr=muus|sc=Arab}}
 * Aragonese: {{t+|an|cuitiello|m}}
 * Armenian: {{t+|hy|դանակ|tr=danak}}
 * {{trreq|rup}}
@@ -69,7 +69,7 @@
 * Cherokee: {{t-|chr|ᎭᏰᎳᏍᏗ|tr=hayelasdi|sc=Cher}}
 * Chinese:
 *: Mandarin: {{t|cmn|刀|tr=dāo|sc=Hani}}, {{t|cmn|刀子|tr=dāozi|sc=Hani}}
-* Cree: [[ᒨᐦᑯᒫᓐ]]
+* Cree: {{t|cr|ᒨᐦᑯᒫᓐ|sc=Cans}}
 * Czech: {{t+|cs|nůž|m}}
 * Dalmatian: {{tø|dlm|cortial|m}}
 * Danish: {{t+|da|kniv|c}}
@@ -138,7 +138,7 @@
 * Norman: {{tø|roa-nor|couoté|m}}
 * Norwegian: {{t+|no|kniv|m}}
 * Occitan: {{t+|oc|cotèl|m}}
-* Ojibwe: [[mookomaan]]
+* Ojibwe: {{t|oj|mookomaan|sc=Cans}}
 * {{trreq|or}}
 * {{trreq|os}}
 * {{trreq|ps}}
@@ -234,7 +234,7 @@
 * Ngazidja Comorian: {{tø|zdj|putshari}}
 * Norman: {{tø|roa-nor|couoté|m}}
 * Norwegian: {{t+|no|kniv|m}}
-* Ojibwe: [[mookomaan]]
+* Ojibwe: {{t|oj|mookomaan|sc=Cans}}
 * Persian: {{t+|fa|خنجر|tr=xanjar}}, {{t+|fa|دشنه|tr=dešne|sc=fa-Arab}}
 * Polish: {{t+|pl|nóż|m}}
 * Portuguese: {{t+|pt|faca|f}}
@@ -256,7 +256,7 @@
 
 {{trans-top|any blade-like part designed for cutting}}
 * Afrikaans: {{t-|af|lem}}
-* Arabic: {{Arab|[[نصل]]}} ({{unicode|naṣl}}) {{m}}, {{t-|ar|شفرة|tr=šáfra|f}}
+* Arabic: {{t|ar|نصل|m|tr={{unicode|naṣl}}|sc=Arab}}, {{t-|ar|شفرة|tr=šáfra|f}}
 *: Egyptian Arabic: {{tø|arz|موس|m|tr=mūs|sc=Arab}}
 * Catalan: {{t+|ca|ganivet|m}}
 * Czech: {{t+|cs|nůž}}
@@ -276,7 +276,7 @@
 * Lithuanian: {{t-|lt|peilis|m}}
 * Norman: {{tø|roa-nor|couoté|m}}
 * Norwegian: {{t-|no|knivblad|n}}
-* Ojibwe: [[mookomaan]]
+* Ojibwe: {{t|oj|mookomaan|sc=Cans}}
 * Persian: {{t+|fa|تیغ|tr=tiq}}
 * Polish: {{t+|pl|nóż|m}}
 * Romani: {{tø|rom|shuri|f}}
@@ -289,29 +289,29 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|eu}}: [[aizto]], [[haiztoa]]
-* {{ttbc|bg}}: [[нож]] (nož) {{m}}
-* {{ttbc|co}}: [[cultellu]] {{m}}
-* {{ttbc|myv}}: [[пеель]] (pejel)
-* {{ttbc|gn}}: [[kyse]]
-* {{ttbc|he}}: [[סכין|סַכִּין]] (sakín)
-* {{ttbc|ia}}: [[cultello]]
-* {{ttbc|ko}}: [[칼]] (kal)
-* {{ttbc|lt}}: [[peilis]] {{m}}
-* {{ttbc|ml}}: [[കത്തി]] (kathi)
-* {{ttbc|cmn}}: [[刀]] (dāo), [[刀子]] (dāozi)
+* {{ttbc|eu}}: {{t|eu|aizto}}, {{t|eu|haiztoa}}
+* {{ttbc|bg}}: {{t|bg|нож|m|tr=nož|sc=Cyrl}}
+* {{ttbc|co}}: {{t|co|cultellu|m}}
+* {{ttbc|myv}}: {{t|myv|пеель|tr=pejel|sc=Cyrl}}
+* {{ttbc|gn}}: {{t|gn|kyse}}
+* {{ttbc|he}}: {{t|he|סכין|tr=sakín|alt=סַכִּין|sc=Hebr}}
+* {{ttbc|ia}}: {{t|ia|cultello}}
+* {{ttbc|ko}}: {{t|ko|칼|tr=kal|sc=Kore}}
+* {{ttbc|lt}}: {{t|lt|peilis|m}}
+* {{ttbc|ml}}: {{t|ml|കത്തി|tr=kathi|sc=Mlym}}
+* {{ttbc|cmn}}: {{t|cmn|刀|tr=dāo|sc=Hani}}, {{t|cmn|刀子|tr=dāozi|sc=Hani}}
 {{trans-mid}}
-* {{ttbc|no}}: [[kniv]]
-* {{ttbc|rhg}}: [[súri]]
-* {{ttbc|rom}}: [[shuri]]
-* {{ttbc|sk}}: [[nôž]] {{m}}
-* {{ttbc|sw}}: [[kisu]]
-* {{ttbc|sv}}: [[kniv]] {{c}}
-* {{ttbc|tl}}: [[kutsilyo]]
-* {{ttbc|th}}: {{Thai|[[มีด]]}} (mītă)
-* {{ttbc|te}}: [[చాకు]] (čāku), [[కత్తి]] (katti)
-* {{ttbc|tr}}: [[bıçak]]
-* {{ttbc|vi}}: [[dao]]
+* {{ttbc|no}}: {{t|no|kniv}}
+* {{ttbc|rhg}}: {{t|rhg|súri}}
+* {{ttbc|rom}}: {{t|rom|shuri}}
+* {{ttbc|sk}}: {{t|sk|nôž|m}}
+* {{ttbc|sw}}: {{t|sw|kisu}}
+* {{ttbc|sv}}: {{t|sv|kniv|c}}
+* {{ttbc|tl}}: {{t|tl|kutsilyo}}
+* {{ttbc|th}}: {{t|th|มีด|tr=mītă|sc=Thai}}
+* {{ttbc|te}}: {{t|te|చాకు|tr=čāku|sc=Telu}}, {{t|te|కత్తి|tr=katti|sc=Telu}}
+* {{ttbc|tr}}: {{t|tr|bıçak}}
+* {{ttbc|vi}}: {{t|vi|dao}}
 {{trans-bottom}}
 
 ====See also====
@@ -358,7 +358,7 @@
 {{trans-mid}}
 * Romanian: {{t-|ro|a da o lovitură de cuțit}}
 * Romansch: {{t-|rm|cuntellar}}
-* Russian: [[прирезать]] (prirézat’) {{impf}}, [[зарезать]] (zarézat’) {{impf}}, [[заколоть]] (zakolót’) {{impf}} ''to stab''
+* {{ttbc|ru}}: {{t|ru|прирезать|impf|tr=prirézat’|sc=Cyrl}}, {{t|ru|зарезать|impf|tr=zarézat’|sc=Cyrl}}, {{t|ru|заколоть|impf|tr=zakolót’|sc=Cyrl}}
 * Spanish: {{t-|es|acuchillar}}
 * Swahili: {{t+|sw|makali ya kisu}}
 * Swedish: {{t+|sv|hugga}} (med {{t+|sv|kniv}})
@@ -374,7 +374,7 @@
 
 {{checktrans-top}}
 {{trans-mid}}
-* {{ttbc|sv}}: [[knivhugga]]
+* {{ttbc|sv}}: {{t|sv|knivhugga}}
 {{trans-bottom}}
 
 [[Category:1000 English basic words]]
