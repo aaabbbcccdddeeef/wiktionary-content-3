@@ -40,11 +40,11 @@ From {{etyl|la|en}} {{term/t|la|diurnālis}}, from {{term/t|la|diēs||day}}. Cog
 * Bulgarian: {{t-|bg|дневен|sc=Cyrl|tr=dnéven}}
 * Catalan: {{t-|ca|diürn}}
 * Czech: {{t+|cs|denní|c}}
-* Dutch: [[dag]]-
+* {{ttbc|nl}}: {{t|nl|dag|alt=dag-}} <!-- was "[[dag]]-" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Esperanto: {{t-|eo|taga}}
 * Finnish: {{t+|fi|päivä|alt=päivä-}}, {{t-|fi|päiväaikainen}}, {{t-|fi|päiväaktiivinen}}, {{t-|fi|diurnaalinen}}
 * French: {{t+|fr|diurne}}
-* German: [[tagaktiv]]
+* German: {{t|de|tagaktiv}}
 * Hungarian: {{t+|hu|nappali}}
 * Icelandic: {{t-|is|dagdýr}}
 {{trans-mid}}
@@ -57,7 +57,7 @@ From {{etyl|la|en}} {{term/t|la|diurnālis}}, from {{term/t|la|diēs||day}}. Cog
 * Slovene: {{t-|sl|dneven}}
 * Spanish: {{t-|es|diurno}}
 * Swedish: {{t-|sv|dags-}}
-* West Frisian: [[dei]]-
+* {{ttbc|fy}}: {{t|fy|dei|alt=dei-}} <!-- was "[[dei]]-" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-bottom}}
 
 {{trans-top|botany; of flowers open or releasing perfume during the day}}
@@ -85,11 +85,11 @@ From {{etyl|la|en}} {{term/t|la|diurnālis}}, from {{term/t|la|diēs||day}}. Cog
 * Hungarian: {{t+|hu|napi}}
 * Russian: {{t+|ru|ежедневный}}
 * Slovene: {{t-|sl|dneven}}
-* West Frisian: [[deisk]], [[deistich]]
+* West Frisian: {{t|fy|deisk}}, {{t|fy|deistich}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sv}}: [[dygn]] <!-- This was under the botany sense. Seems wrong, because the basic meaning of the word is "day" (as 24-hr period, including nighttime) -->
+* {{ttbc|sv}}: {{qualifier|as 24-hr period, including nighttime}} {{t|sv|dygn}} <!-- This was under the botany sense. Seems wrong, because the basic meaning of the word is "day"  -->
 {{trans-bottom}}
 
 ===Noun===
@@ -107,7 +107,7 @@ From {{etyl|la|en}} {{term/t|la|diurnālis}}, from {{term/t|la|diēs||day}}. Cog
 {{trans-mid}}
 {{trans-bottom}}
 {{trans-top|A book of canonical offices}}
-* Italian: [[diurno]], [[diurnale]]
+* Italian: {{t|it|diurno}}, {{t|it|diurnale}}
 {{trans-mid}}
 * Slovene: {{t+|sl|dnevnik|m}}
 {{trans-bottom}}
