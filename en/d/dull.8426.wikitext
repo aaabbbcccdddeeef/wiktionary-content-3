@@ -92,7 +92,7 @@ From {{etyl|enm|en}} {{term|dull|lang=enm}}, {{term|dul|lang=enm}} (also {{term|
 *: Mandarin: {{t|cmn|無聊|sc=Hani}}, {{t|cmn|无聊|tr=wúliáo|sc=Hani}}
 * Danish: {{t-|da|kedelig}}
 * Dutch: {{t+|nl|saai}}
-* Finnish: (''colloquial'') {{t+|fi|tylsä}},  {{t-|fi|ikävystyttävä}}, (''dated'') {{t+|fi|ikävä}}, {{t+|fi|pitkäveteinen}}, {{t-|fi|pitkästyttävä}}
+* Finnish: (''colloquial'') {{t+|fi|tylsä}}, {{t-|fi|ikävystyttävä}}, (''dated'') {{t+|fi|ikävä}}, {{t+|fi|pitkäveteinen}}, {{t-|fi|pitkästyttävä}}
 * French: {{t+|fr|ennuyeux}}, {{t+|fr|barbant}}
 * German: {{t+|de|fad}}, {{t+|de|langweilig}}
 * Italian: {{t+|it|noioso}}
@@ -120,7 +120,7 @@ From {{etyl|enm|en}} {{term|dull|lang=enm}}, {{term|dul|lang=enm}} (also {{term|
 {{trans-mid}}
 * Lojban: {{t+|jbo|kandi}}
 * Norwegian: {{t+|no|matt}}
-* Polish: [[matowy]]
+* Polish: {{t|pl|matowy|m}}
 * Portuguese: {{t-|pt|fosco}}
 * Russian: {{t+|ru|тусклый|tr=túsklyj|sc=Cyrl}}, {{t+|ru|матовый|tr=mátovyj|sc=Cyrl}}
 * Spanish: {{t+|es|mate}}, {{t-|es|opaco|m}}
@@ -136,7 +136,7 @@ From {{etyl|enm|en}} {{term|dull|lang=enm}}, {{term|dul|lang=enm}} (also {{term|
 * Danish: {{t+|da|dum}}
 * Dutch: {{t+|nl|dom}}
 * Estonian: {{t-|et|nõme}}
-* Finnish: {{t+|fi|hidasjärkinen}}, (''colloquial'') {{t+|fi|sumea}}
+* Finnish: {{t+|fi|hidasjärkinen}}, {{qualifier|colloquial}} {{t+|fi|sumea}}
 * French: {{t+|fr|sot}}, {{t+|fr|obtus}}, {{t+|fr|idiot}}
 {{trans-mid}}
 * German: {{t+|de|blöd}}, {{t+|de|blöde}}, {{t+|de|dumm}}
@@ -144,7 +144,7 @@ From {{etyl|enm|en}} {{term|dull|lang=enm}}, {{term|dul|lang=enm}} (also {{term|
 * Latin: {{t-|la|brutus}}, {{t-|la|fatuus}}, {{t-|la|idiōta}}, {{t-|la|stultus}}
 * Maori: {{t-|mi|mātotoru}}
 * Norwegian: {{t+|no|dum}}
-* Polish: [[tępy]] {{m}}, [[tępa]] {{f}}, [[tępe]] {{m}}
+* Polish: {{t|pl|tępy|m}}, {{t|pl|tępa|f}}, {{t|pl|tępe|n}}
 * Portuguese: {{t+|pt|estúpido}}, {{t+|pt|fátuo}}, {{t+|pt|imbecil}}, {{t+|pt|idiota}}
 * Russian: {{t+|ru|тупой|tr=tupój|sc=Cyrl}}, {{t+|ru|глупый|tr=glúpyj|sc=Cyrl}}
 * Spanish: {{t+|es|obtuso}}, {{t+|es|corto|m}}, {{t+|es|limitado|m}}
@@ -152,8 +152,8 @@ From {{etyl|enm|en}} {{term|dull|lang=enm}}, {{term|dul|lang=enm}} (also {{term|
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|la}}: [[brutus]]
-* {{ttbc|es}}: [[soso]], [[embotado]]
+* {{ttbc|la}}: {{t|la|brutus}}
+* {{ttbc|es}}: {{t|es|soso}}, {{t|es|embotado}}
 {{trans-bottom}}
 
 ===Verb===
@@ -184,14 +184,14 @@ From {{etyl|enm|en}} {{term|dull|lang=enm}}, {{term|dul|lang=enm}} (also {{term|
 * Greek: {{t+|el|αμβλύνω}}
 {{trans-mid}}
 * Norwegian: {{t-|no|sløve}}
-* Polish: [[stępić]]
-* Russian: {{t+|ru|тупить|sc=Cyrl|tr=tupít'}} {{impf}}, {{t+|ru|иступить|sc=Cyrl|tr=istupít'}} {{pf.}}; {{t+|ru|затуплять|sc=Cyrl|tr=zatuplját'}} {{pf.}}, {{t+|ru|затупить|sc=Cyrl|tr=zatupít'}} {{pf.}}
+* Polish: {{t|pl|stępić}}
+* Russian: {{t+|ru|тупить|sc=Cyrl|tr=tupít'}} {{impf}}, {{t+|ru|иступить|sc=Cyrl|tr=istupít'}} {{pf.}}, {{t+|ru|затуплять|sc=Cyrl|tr=zatuplját'}} {{pf.}}, {{t+|ru|затупить|sc=Cyrl|tr=zatupít'}} {{pf.}}
 * Spanish: {{t-|es|mellar}}, {{t-|es|desafilar}}
 {{trans-bottom}}
 
 {{trans-top|(''transitive'') To soften, moderate or blunt}}
 * Bulgarian: {{t+|bg|смекчавам}}
-* Finnish: {{t+|fi|lievittää}}, {{t+|fi|lieventää}}; {{t-|fi|tylsistyttää}}, {{t-|fi|tyhmentää}}
+* Finnish: {{t+|fi|lievittää}}, {{t+|fi|lieventää}}, {{t-|fi|tylsistyttää}}, {{t-|fi|tyhmentää}}
 * French: {{t+|fr|adoucir}}, {{t+|fr|modérer}}, {{t+|fr|amortir}}, {{t+|fr|assourdir}}, {{t+|fr|engourdir}}
 * German: {{t-|de|abstumpfen}}
 {{trans-mid}}
@@ -207,7 +207,7 @@ From {{etyl|enm|en}} {{term|dull|lang=enm}}, {{term|dul|lang=enm}} (also {{term|
 * Finnish: {{t-|fi|tylsyä}}
 * German: {{t-|de|abstumpfen}}
 {{trans-mid}}
-* Polish: [[stępić się]]
+* Polish: {{t|pl|stępić się}}
 * Russian: {{t-|ru|затупляться|sc=Cyrl|tr=zatuplját'sja}} {{impf}}, {{t-|ru|затупиться|sc=Cyrl|tr=zatupít'sja}} {{pf.}}
 * Spanish: {{t-|es|redondear}}
 {{trans-bottom}}
