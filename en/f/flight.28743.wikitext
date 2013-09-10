@@ -69,12 +69,12 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|flyht|lang=ang}}, from {{etyl|
 
 ====Translations====
 {{trans-top|act of flying}}
-* Arabic: {{t-|ar|طيران|m|tr=Tayaraan|sc=Arab}}, {{t-|ar|تحليق|m|tr=taHliiq}}
-* Armenian: {{t-|hy|թռիչք|tr=t'ṙičk'}}
-* Bulgarian: {{t+|bg|полет|m|sc=Cyrl}}
+* Arabic: {{t-|ar|طيران|m|tr=ṭayarān|sc=Arab}}, {{t-|ar|تحليق|m|tr=taḥlīq}}
+* Armenian: {{t-|hy|թռիչք}}
+* Bulgarian: {{t+|bg|полет|m|tr=polét|sc=Cyrl}}
 * Catalan: {{t+|ca|vol|m}}
 * Chinese:
-*: Mandarin: {{t-|cmn|飛行|sc=Hani}}, {{t-|cmn|飞行|tr=fēixíng|sc=Hani}}
+*: Mandarin: {{t|cmn|飛行|sc=Hani}}, {{t|cmn|飞行|tr=fēixíng|sc=Hani}}
 * Czech: {{t+|cs|let|m}}
 * Danish: {{t-|da|flyvning|c}}
 * Dutch: {{t+|nl|vlucht|f}}, {{t+|nl|vliegen|n}}
@@ -92,8 +92,8 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|flyht|lang=ang}}, from {{etyl|
 * Hungarian: {{t+|hu|repülés}}
 * Interlingua: {{t-|ia|volo}}
 * Italian: {{t+|it|volo|m}}, {{t+|it|fuga|f}}
-* Japanese: {{t+|ja|飛|tr=[[とび]] ''tobi''|sc=Jpan}}
-* Korean: {{t-|ko|날기|sc=Kore}}
+* Japanese: {{t+|ja|飛|tr=[[とび]], tobi|sc=Jpan}}
+* Korean: {{t-|ko|날기|tr=nalgi|sc=Kore}}
 {{trans-mid}}
 * Kurdish: {{t+|ku|firr}}
 * Latin: {{t-|la|fuga|f}}, {{t-|la|volatus|m}}
@@ -121,7 +121,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|flyht|lang=ang}}, from {{etyl|
 {{trans-bottom}}
 
 {{trans-top|instance of flying}}
-* Armenian: {{t-|hy|թռիչք|tr=t'ṙičk'}}
+* Armenian: {{t-|hy|թռիչք|}}
 * Bulgarian: {{t+|bg|летене|n|sc=Cyrl}}
 * Czech: {{t+|cs|let|m}}
 * French: {{t+|fr|vol|m}}
@@ -156,7 +156,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|flyht|lang=ang}}, from {{etyl|
 {{trans-bottom}}
 
 {{trans-top|journey made by an aircraft}}
-* Armenian: {{t-|hy|թռիչք|tr=t'ṙičk'}}, {{t-|hy|չվերթ|tr=čvert’}}
+* Armenian: {{t-|hy|թռիչք}}, {{t-|hy|չվերթ}}
 * Bulgarian: {{t+|bg|полет|m|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|cmn|飛行|sc=Hani}}, {{t|cmn|飞行|tr=fēixíng|sc=Hani}}, {{t|cmn|航班|tr=hángbān|sc=Hani}} {{qualifier|scheduled flight}}
@@ -176,7 +176,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|flyht|lang=ang}}, from {{etyl|
 * Macedonian: {{t-|mk|лет|m|tr=let}}
 * Polish: {{t+|pl|lot|m}}
 * Portuguese: {{t+|pt|vôo|m}}
-* Russian: {{t+|ru|полёт|m|tr=poljót}}, {{t+|ru|перелёт|m|tr=pereljót}}, {{qualifier|specific, especially with numbers}} {{t+|ru|рейс|m|tr=rejs|sc=Cyrl}}
+* Russian: {{t+|ru|полёт|m|tr=poljót}}, {{t+|ru|перелёт|m|tr=pereljót}}, {{t+|ru|рейс|m|tr=rejs|sc=Cyrl}} {{qualifier|scheduled flight}}
 * Scottish Gaelic: {{t-|gd|itealaich|f}}
 * Spanish: {{t+|es|vuelo|m}}
 * Swedish: {{t+|sv|flight|c}}
@@ -184,8 +184,8 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|flyht|lang=ang}}, from {{etyl|
 {{trans-bottom}}
 
 {{trans-top|act of fleeing}}
-* Arabic: {{t-|ar|فِرار|m|tr=firar|sc=Arab}}
-* Armenian: {{t-|hy|փախուստ|tr=p'axust}}
+* Arabic: {{t-|ar|فِرار|m|tr=firār|sc=Arab}}
+* Armenian: {{t-|hy|փախուստ}}
 * Asturian: {{t-|ast|fuga|f}}, {{t-|ast|fuxida|f}}
 * Bulgarian: {{t-|bg|бягство|n|sc=Cyrl}}
 * Catalan: {{t-|ca|fuga|f}}, {{t-|ca|fugida|f}}
