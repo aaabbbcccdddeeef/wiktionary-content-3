@@ -243,20 +243,25 @@ From {{etyl|la|ro}} {{term|sē|lang=la}}, as with {{term|mine|lang=ro}}, {{term|
 From {{etyl|sga|gd}} {{term|sine||teat, dug, pap|lang=sga}}, from {{etyl|cel-pro|gd}} {{term/t|cel-pro|*svenio}} for {{etyl|ine-pro|gd}} {{term/t|ine-pro|*spenio}}. Cognate with Old Norse {{term|speni||teat|lang=non}}, Scottish {{term|spain||udder|lang=gd}}.
 
 ====Noun====
-{{head|gd|noun|g=f|genitive|sine|plural|sinean}}
+{{gd-noun|g=f|gen=sine|pl=sinean}}
 
-# [[nipple]], [[teat]]
-# [[gin]] {{gloss|drink}}
+# {{context|anatomy|lang=gd}} [[nipple]], [[teat]]
 
 ===Etymology 2===
+{{rfe|lang=gd}}
+
+====Noun====
+{{gd-noun|g=f}}
+
+# [[gin]] {{gloss|drink}}
+
+===Etymology 3===
 {{rfe|lang=gd}}
 
 ====Adjective====
 {{head|gd|adjective form}}
 
 # {{comparative of|sean|lang=gd}}
-
-[[Category:gd:Anatomy]]
 
 [[ast:sine]]
 [[cs:sine]]
