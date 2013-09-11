@@ -25,7 +25,7 @@ From {{etyl|enm|en}} {{term|geste||lang=enm|idle tale}}, from {{etyl|fro|en}} {{
 * Finnish: {{t+|fi|pila}}, {{t+|fi|vitsi}}
 * Hungarian: {{t+|hu|tréfa}}, {{t-|hu|tréfálkozás}}
 * Italian: {{t+|it|scherzo}}, {{t+|it|barzelletta}}, {{t+|it|battuta|f}}
-* {{ttbc|pt}}: [[gracejo]] {{g|m}}
+* {{ttbc|pt}}: {{t|pt|gracejo|m}}
 {{trans-mid}}
 * Russian: {{t+|ru|насмешка|f|tr=nasméška}}, {{t+|ru|остро́та|f|tr=ostróta}} {{qualifier|not to confuse with острота́ - bitterness, sharpness, etc.}}
 * Spanish: {{t+|es|broma|f}}, {{t+|es|chiste|m}}
@@ -40,8 +40,8 @@ From {{etyl|enm|en}} {{term|geste||lang=enm|idle tale}}, from {{etyl|fro|en}} {{
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|fr}}: [[blaguer]]
-* {{ttbc|de}}: [[Spaß machen]]
+* {{ttbc|fr}}: {{t|fr|blaguer}}
+* {{ttbc|de}}: {{t|de|Spaß machen}}
 {{trans-mid}}
 
 {{trans-bottom}}
@@ -88,17 +88,13 @@ From {{etyl|enm|en}} {{term|geste||lang=enm|idle tale}}, from {{etyl|fro|en}} {{
 * {{audio|Pl-jest.ogg|Audio}}
 
 ===Verb===
-'''jest'''
+{{head|pl|verb form}}
 
-# [[is]], ''3rd person singular present tense of'' [[być]] (to [[be]])
-#* usage with adjectives
-#*: ''Ona jest ładna'' &mdash; ''She's pretty''
-#* usage with noun complements: takes the instrumental case
-#*: ''Agnieszka jest studentką'' &mdash; ''Agnieszka is a student.''
+# {{conjugation of|być||3|s|pres|ind|lang=pl}}; [[is]]
+#*: {{usex|Ona '''jest''' ładna|lang=pl|translation=She's pretty}}
+#*: {{usex|Agnieszka '''jest''' studentką|lang=pl|translation=Agnieszka is a student.}}
 # {{context|mathematics|lang=pl}} is, equals (see also [[wynosi]])
-#: ''dwa plus dwa jest cztery'' &mdash; ''Two plus two is four''
-
-[[Category:Polish verb forms]]
+#: {{usex|dwa plus dwa '''jest''' cztery|lang=pl|translation=Two plus two is four}}
 
 [[cs:jest]]
 [[de:jest]]
