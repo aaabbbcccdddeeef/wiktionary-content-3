@@ -72,10 +72,10 @@ From {{etyl|enm|en}} {{term|ecco|lang=enm}}, {{term|ekko|lang=enm}}, from {{etyl
 * Korean: {{t+|ko|메아리|tr=meari|sc=Hang}}
 * Kurdish:
 *: Sorani: {{t-|ku|زایه‌ڵه‌|tr=zayelle|sc=ku-Arab}}
-* Latin: [[imago#Latin|imāgo]] [[vox#Latin|vōcis]] {{g|f}}
+* {{ttbc|la}}: {{t|la|[[imāgo]] [[vox|vōcis]]|f}} <!-- was "[[imago#Latin|imāgo]] [[vox#Latin|vōcis]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Latvian: {{t-|lv|atbalss|m}}
 * Lithuanian: {{t+|lt|aidas|m}}
-* Macedonian: [[ехо]] {{g|n}}
+* Macedonian: {{t|mk|ехо|n|sc=Cyrl}}
 * Malay: {{t-|ms|gema}}
 * Mongolian: {{t-|mn|цуурай|tr=cuuray|sc=Cyrl}}
 * Norwegian: {{t+|no|ekko|n}}
@@ -83,20 +83,20 @@ From {{etyl|enm|en}} {{term|ecco|lang=enm}}, {{term|ekko|lang=enm}}, from {{etyl
 * Persian: {{t+|fa|پژواک|tr=pežvâk}}
 * Polish: {{t+|pl|echo|n}}
 * Portuguese: {{t+|pt|eco|m}}
-* Romanian: [[ecou]] {{g|n}}
+* Romanian: {{t|ro|ecou|n}}
 * Russian: {{t+|ru|эхо|n|tr=éxo|sc=Cyrl}}
 * Scottish Gaelic: {{t-|gd|ath-sgal|m}}, {{t-|gd|mac-talla|m}}
 * Serbo-Croatian: {{t-|sh|jeкa|f|tr=jeka}}
 * Spanish: {{t+|es|eco|m}}
-* Swahili: [[mwangwi]]
+* Swahili: {{t|sw|mwangwi}}
 * Swedish: {{t+|sv|eko}}, {{t+|sv|genljud|n}}
-* Telugu: [[ప్రతిధ్వని]] (pratidhvani)
+* Telugu: {{t|te|ప్రతిధ్వని|tr=pratidhvani|sc=Telu}}
 * Thai: {{t+|th|ก้อง|tr=gông|sc=Thai}}
 * Turkish: {{t+|tr|yankı}}
 {{trans-bottom}}
 
 {{trans-top|the displaying on the command line of the command that has just been executed}}
-* Finnish: [[näppäinten]] [[kaiutus]]
+* {{ttbc|fi}}: {{t|fi|[[näppäinten]] [[kaiutus]]}} <!-- was "[[näppäinten]] [[kaiutus]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * German: {{t-|de|Tastaturecho|n}}, {{t-|de|Bildschirmecho|n}}
 {{trans-mid}}
 * Scottish Gaelic: {{t-|gd|ath-aithris|f}}
@@ -110,8 +110,8 @@ From {{etyl|enm|en}} {{term|ecco|lang=enm}}, {{term|ekko|lang=enm}}, from {{etyl
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|hi}}: [[गूंज]] (gū.nj), [[प्रतिध्वनि]] (pratidhvani)
-* {{ttbc|ko}}: [[메아리]] (meari)
+* {{ttbc|hi}}: {{t|hi|गूंज|tr=gū.nj|sc=Deva}}, {{t|hi|प्रतिध्वनि|tr=pratidhvani|sc=Deva}}
+* {{ttbc|ko}}: {{t|ko|메아리|tr=meari|sc=Kore}}
 {{trans-bottom}}
 
 ===Verb===
@@ -143,7 +143,7 @@ From {{etyl|enm|en}} {{term|ecco|lang=enm}}, {{term|ekko|lang=enm}}, from {{etyl
 * Dutch: {{t+|nl|echoën}}
 * German: {{t-|de|widerhallen}}, {{t+|de|wiederholen}}, {{t-|de|zurückwerfen}}, {{t+|de|hallen}}
 * Greek: {{t+|el|ηχώ|tr=ichó}}, {{t+|el|αντηχώ|tr=antichó}}, {{t+|el|αντιλαλώ|tr=antilaló}}
-* Japanese: [[響く]] ([[ひびく]], [[hibiku]])
+* Japanese: {{t|ja|響く|tr=[[ひびく]], [[hibiku]]|sc=Jpan}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|eco}}, {{t+|pt|ecoar}}
 * Romanian: {{t+|ro|răsuna}}
@@ -151,8 +151,8 @@ From {{etyl|enm|en}} {{term|ecco|lang=enm}}, {{term|ekko|lang=enm}}, from {{etyl
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|mr}}: [[प्रतिध्वनी]] (pratidhvanī) ''[[m]]''
-* {{ttbc|sa}}: [[प्रतिध्वनिः]] (pratidhvanihi) ''[[m]]''
+* {{ttbc|mr}}: {{t|mr|प्रतिध्वनी|tr=pratidhvanī|sc=Deva}} ''[[m]]''
+* {{ttbc|sa}}: {{t|sa|प्रतिध्वनिः|tr=pratidhvanihi|sc=Deva}} ''[[m]]''
 {{trans-bottom}}
 
 ===Anagrams===
