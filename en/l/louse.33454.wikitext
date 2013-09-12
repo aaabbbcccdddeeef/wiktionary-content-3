@@ -54,7 +54,7 @@ From {{etyl|enm|en}} {{term|lows|lows(e)|lang=enm}}, from {{etyl|ang|en}} {{term
 * Dalmatian: {{tø|dlm|pedoclo|m}}
 * Danish: {{t+|da|lus|c}}
 * Dutch: {{t+|nl|luis|f}}
-* Dyirbal: [[bayi marbu]] ([[Guwal]]); [[bayi dimaniny]] ([[Jalnguy]])
+* {{ttbc|dbl}}: {{qualifier|[[Guwal]]}} {{t|dbl|bayi marbu}}, {{qualifier|[[Jalnguy]]}} {{t|dbl|bayi dimaniny}}<!-- ??????? -->
 * Esperanto: {{t-|eo|pediko}}
 * Estonian: {{t-|et|täi}}
 * Faroese: {{t-|fo|lús|f}}
@@ -89,7 +89,7 @@ From {{etyl|enm|en}} {{term|lows|lows(e)|lang=enm}}, from {{etyl|ang|en}} {{term
 *: Sorani: {{t-|ku|espê}}
 *: Zazaki: {{t-|ku|espije}}
 * Kyrgyz: {{t-|ky|бит|sc=Cyrl}}
-* Lakota: [[hitka la]]
+* Lakota: {{t|lkt|hitka la}}
 * Latin: {{t-|la|pediculus|m}}
 * Latvian: {{t+|lv|uts|f}}
 * Lithuanian: {{t-|lt|utėlė|f}}
@@ -121,7 +121,7 @@ From {{etyl|enm|en}} {{term|lows|lows(e)|lang=enm}}, from {{etyl|ang|en}} {{term
 * Swedish: {{t+|sv|lus|c}}
 * Tagalog: {{t-|tl|kuto}}
 * Talysh:
-*: Asalemi: {{tø|tly|اسبج|tr=əsbəj}}
+*: {{ttbc|Asalemi}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{tø|tly|اسبج|tr=əsbəj}}
 * Taos: {{tø|twf|phìayána}}
 * Telugu: {{t+|te|పేను|tr=pEnu}}
 * Thai: {{t-|th|เหา|tr=háo|sc=Thai}}, {{t-|th|โลน|tr=lohn|sc=Thai}}
@@ -134,7 +134,7 @@ From {{etyl|enm|en}} {{term|lows|lows(e)|lang=enm}}, from {{etyl|ang|en}} {{term
 * Uyghur: {{t-|ug|پىت|sc=ug-Arab}}
 * Vietnamese: {{t-|vi|con rận}}
 * Vilamovian: {{tø|wym|łaojs|f}}
-* Warlpiri: [[yaka]]
+* Warlpiri: {{t|wbp|yaka}}
 * Welsh: {{t+|cy|lleuen|f}}
 * Zulu: {{t-|zu|intwala|c9|c10}}
 * ǃXóõ: {{qualifier|large}} {{tø|nmn|ʘnó̰õ}}, {{qualifier|small}} {{tø|nmn|gǁkxʼóni}}
@@ -142,7 +142,7 @@ From {{etyl|enm|en}} {{term|lows|lows(e)|lang=enm}}, from {{etyl|ang|en}} {{term
 
 {{trans-top|worthless person}}
 * Albanian: {{t-|sq|qelbanik}}
-* Arabic: [[سافل ابن كلب|سَافِلٌ اِبْنُ كَلْب]] (sáafil íbnu kalb) {{g|m}}
+* {{ttbc|ar}}: {{t|ar|سافل ابن كلب|m|tr=sáafil íbnu kalb|alt=سَافِلٌ اِبْنُ كَلْب|sc=Arab}} <!-- was "[[سافل ابن كلب|سَافِلٌ اِبْنُ كَلْب]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Bulgarian: {{t+|bg|гад|tr=gad|m|f}}
 * Dutch: (arme) [[luis]] {{g|m}}
 * Finnish: {{t-|fi|luopio}}, {{t+|fi|hylkiö}}, {{t+|fi|epatto}}
@@ -161,7 +161,7 @@ From {{etyl|enm|en}} {{term|lows|lows(e)|lang=enm}}, from {{etyl|ang|en}} {{term
 * Swahili: {{t+|sw|chawa}}
 * Telugu: {{t-|te|పనికిమాలిన వ్యక్తి|tr=panikimaalina vyakti}}
 * Thai: {{t-|th|คนเส็งเคร็ง|tr=khohn séng khreng}}
-* Turkish: [[aşağılık kimse]]
+* Turkish: {{t|tr|aşağılık kimse}}
 {{trans-bottom}}
 
 ===Verb===
