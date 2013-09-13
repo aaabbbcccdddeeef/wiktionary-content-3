@@ -88,7 +88,7 @@ From {{etyl|ang|en}} {{term|linke||lang=ang}} probably from {{etyl|non|en}} {{te
 * Russian: {{t+|ru|связь|f|tr=svjaz’}}
 * Spanish: {{t+|es|enlace|m}}, {{t+|es|vínculo|m}}
 * Swedish: {{t+|sv|anknytning|c}}, {{t+|sv|länk|c}}
-* West Frisian: [[ferbining]], [[keppeling]]
+* West Frisian: {{t|fy|ferbining}}, {{t|fy|keppeling}}
 {{trans-bottom}}
 
 {{trans-top|element of a chain}}
@@ -116,7 +116,7 @@ From {{etyl|ang|en}} {{term|linke||lang=ang}} probably from {{etyl|non|en}} {{te
 * Russian: {{t+|ru|звено|n}}
 * Spanish: {{t+|es|eslabón|m}}
 * Swedish: {{t+|sv|länk|c}}
-* West Frisian: [[keppeling]]
+* West Frisian: {{t|fy|keppeling}}
 {{trans-bottom}}
 
 {{trans-top|computing: connection between busses or systems}}
@@ -157,7 +157,7 @@ From {{etyl|ang|en}} {{term|linke||lang=ang}} probably from {{etyl|non|en}} {{te
 * Macedonian: {{t-|mk|врска|f|tr=v'rska}}, {{t-|mk|хиперврска|f|tr=hiperv'rska}}
 * Ossetian: {{tø|os|æрвитæн|sc=Cyrl}}
 * Persian: {{t+|fa|پیوند|tr=peyvand}}
-* Polish: {{t+|pl|link|m}}, [[hiperłącze]] {{n}}
+* Polish: {{t+|pl|link|m}}, {{t|pl|hiperłącze|n}}
 * Portuguese: {{t+|pt|ligação|f}}, {{t+|pt|link}}
 * Romanian: {{t-|ro|hyperlink|n}}, {{t-|ro|legătură|f}}
 * Russian: {{t+|ru|ссылка|f|tr=ssýlka}}, {{t+|ru|гиперссылка|f|tr=giperssýlka}}, {{t-|ru|линк|m|tr=link}}
@@ -175,7 +175,7 @@ From {{etyl|ang|en}} {{term|linke||lang=ang}} probably from {{etyl|non|en}} {{te
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|roa-jer}}: [[lian]]
+* {{ttbc|roa-jer}}: {{t|roa-jer|lian}}
 {{trans-mid}}
 * {{ttbc|ro}}: {{t-|ro|legătură|f}}
 {{trans-bottom}}
@@ -206,9 +206,9 @@ From {{etyl|ang|en}} {{term|linke||lang=ang}} probably from {{etyl|non|en}} {{te
 * French: {{t+|fr|relier}}, {{t+|fr|relier}}, {{t+|fr|lier}}
 * German: {{t+|de|verbinden}}, {{t+|de|verknüpfen}}
 * Hungarian: {{t+|hu|összekapcsol}}
-* Indonesian: [[menghubungkan]]
+* Indonesian: {{t|id|menghubungkan}}
 {{trans-mid}}
-* Italian: [[collegare]], [[connettere]], [[linkare]] {{qualifier|hyperlinks}}
+* Italian: {{t|it|collegare}}, {{t|it|connettere}}, {{qualifier|hyperlinks}} {{t|it|linkare}}
 * Kyrgyz: {{t-|ky|шилтөө}}
 * Macedonian: {{t-|mk|врзува|tr=v'rzuva}}, {{t-|mk|поврзува|tr=pov'rzuva}}, {{t-|mk|сврзува|tr=sv'rzuva}}
 * Persian: {{t+|fa|پیوستن|tr=peyvastan}}
@@ -219,7 +219,7 @@ From {{etyl|ang|en}} {{term|linke||lang=ang}} probably from {{etyl|non|en}} {{te
 
 {{trans-top|to contain a hyperlink to another page}}
 * Catalan: {{t+|ca|enllaçar}}
-* French: [[lier#French|être lié]] (à), {{t+|fr|pointer}} (sur), {{t+|fr|contenir}} un {{t+|fr|lien|m}} (vers), [[hyperlier#French|être hyperlié]] (à)
+* {{ttbc|fr}}: {{t|fr|lier|alt=être lié (à)}} <!-- was "[[lier#French|être lié]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+|fr|pointer}} (sur), {{t+|fr|[[contenir]] [[un]] [[lien]] ([[vers]])}}, {{t|fr|hyperlier|alt=être hyperlié (à)}} <!-- was "[[hyperlier#French|être hyperlié]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 {{trans-mid}}
 * German: {{t+|de|linken}}, {{t+|de|verlinken}}
 * Irish: {{t+|ga|nasc}}
