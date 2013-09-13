@@ -45,7 +45,7 @@
 
 ====Translations====
 {{trans-top|A state of having life}}
-* Armenian: {{t-|hy|կենդանի|tr=kendani}},  {{qualifier|colloquial, dialectal}} {{t-|hy|սաղ}}
+* Armenian: {{t-|hy|կենդանի|tr=kendani}}, {{qualifier|colloquial, dialectal}} {{t-|hy|սաղ}}
 * Bengali: {{t-|bn|জীবন্ত|tr=jibôntô|sc=Beng}}
 * Catalan: {{t+|ca|viu}}
 * Finnish: {{t+|fi|elävä}}, {{t-|fi|elollinen}}
@@ -58,8 +58,8 @@
 * Rapa Nui: {{tø|rap|aringa}}
 * Russian: {{t+|ru|живой|tr=živój|sc=Cyrl}}, {{t+|ru|жить|tr=živúščij|alt=живущий|sc=Cyrl}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|живети}} / {{t-|sh|живјети}}
-*: Roman: {{t-|sh|živeti}} / {{t-|sh|živjeti}}
+*: Cyrillic: {{t-|sh|живети}}, {{t-|sh|живјети}}
+*: Roman: {{t-|sh|živeti}}, {{t-|sh|živjeti}}
 * Swedish: {{t+|sv|levande}}
 {{trans-bottom}}
 
@@ -74,7 +74,7 @@
 {{trans-bottom}}
 
 {{trans-top|Of everyday life}}
-* Finnish: [[elin-]] (in compounds)
+* Finnish: {{qualifier|in compounds}} {{t|fi|elin-}}
 * Mandarin: {{t-|cmn|生活|sc=Hani}}
 {{trans-mid}}
 * Russian: {{t+|ru|жизненный|tr=žíznennyj|sc=Cyrl}}
@@ -94,10 +94,10 @@
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ia}}: [[vive]], [[vivente]]
-* {{ttbc|pt}}: [[vivo]], [[vivente]]
+* {{ttbc|ia}}: {{t|ia|vive}}, {{t|ia|vivente}}
+* {{ttbc|pt}}: {{t|pt|vivo}}, {{t|pt|vivente}}
 {{trans-mid}}
-* {{ttbc|ro}}: [[viu]]
+* {{ttbc|ro}}: {{t|ro|viu}}
 * {{ttbc|es}}: {{t+|es|vivo}}, {{t+|es|viviente}}
 {{trans-bottom}}
 
@@ -125,7 +125,7 @@
 {{trans-bottom}}
 
 {{trans-top|financial means; a means of maintaining life}}
-* Finnish: [[ansio-]] (in compounds), {{t+|fi|työ}}, {{t+|fi|elinkeino}}
+* Finnish: {{qualifier|in compounds}} {{t|fi|ansio-}}, {{t+|fi|työ}}, {{t+|fi|elinkeino}}
 * German: {{t+|de|Lebensunterhalt|m}}
 * Polish: {{t+|pl|życie}}
 {{trans-mid}}
