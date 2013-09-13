@@ -117,7 +117,7 @@ From {{etyl|enm|en}} {{term|long|lang=enm}}, {{term|lang|lang=enm}}, from {{etyl
 * {{trreq|ha}}
 * Hawaiian: {{tø|haw|loa}}
 * {{trreq|he}}
-* Hindi: {{t-|hi|लम्बा|tr=lambā}} / {{t+|hi|लंबा|tr=lambā|sc=Deva}}
+* Hindi: {{t-|hi|लम्बा|tr=lambā}}, {{t+|hi|लंबा|tr=lambā|sc=Deva}}
 * Hungarian: {{t+|hu|hosszú}}
 * Icelandic: {{t+|is|langur}}
 * {{trreq|io}}
@@ -232,7 +232,7 @@ From {{etyl|enm|en}} {{term|long|lang=enm}}, {{term|lang|lang=enm}}, from {{etyl
 * {{trreq|ka}}
 * German: {{t+|de|lang}}
 * Hawaiian: {{tø|haw|kō}}
-* Hindi: {{t-|hi|लम्बा|tr=lambā}} / {{t+|hi|लंबा|tr=lambā|sc=Deva}}
+* Hindi: {{t-|hi|लम्बा|tr=lambā}}, {{t+|hi|लंबा|tr=lambā|sc=Deva}}
 * Icelandic: {{t+|is|langur}}
 * Irish: {{t-|ga|fada}}
 *: Old Irish: {{tø|sga|sír}}
@@ -281,26 +281,26 @@ From {{etyl|enm|en}} {{term|long|lang=enm}}, {{term|lang|lang=enm}}, from {{etyl
 
 {{checktrans-top}}
 * {{ttbc|sq}}: {{t-|sq|gjatë}}
-* {{ttbc|ca}}: [[llarg]]
+* {{ttbc|ca}}: {{t|ca|llarg}}
 * {{ttbc|sh}}: {{t-|sh|dug}}
 * {{ttbc|da}}: {{t+|da|lang}}
 * {{ttbc|eo}}: {{t-|eo|longa}}
-* {{ttbc|he}}: [[ארוך|אָרֹךְ]] (arokh) {{g|m}}, [[ארוכה|אֲרֻכָּה]] (aruka) {{g|f}}
+* {{ttbc|he}}: {{t|he|ארוך|m|tr=arokh|alt=אָרֹךְ|sc=Hebr}}, {{t|he|ארוכה|f|tr=aruka|alt=אֲרֻכָּה|sc=Hebr}}
 * {{ttbc|hu}}: {{t+|hu|hosszú}}
 * {{ttbc|is}}: {{t+|is|langur}}
-* {{ttbc|io}}: [[longa]]
-* {{ttbc|ko}}: (1) [[길다]] (gilda), [[멀다]] (meolda)
+* {{ttbc|io}}: {{t|io|longa}}
+* {{ttbc|ko}}: (1) {{t|ko|길다|tr=gilda|sc=Kore}}, {{t|ko|멀다|tr=meolda|sc=Kore}}
 * {{ttbc|ku}}: {{t+|ku|dirêj}}, {{t|ku|sc=ku-Arab|درێژ}}
-* {{ttbc|la}}: [[longus]]
-* {{ttbc|lt}}: [[ilgas]]
-* {{ttbc|mn}}: [[ᠤᠷᠲᠤ]] (urtu)
+* {{ttbc|la}}: {{t|la|longus}}
+* {{ttbc|lt}}: {{t|lt|ilgas}}
+* {{ttbc|mn}}: {{t|mn|ᠤᠷᠲᠤ|tr=urtu|sc=Cyrl}}
 * {{ttbc|fa}}: {{t+|fa|بُلَند|tr=bolænd}}
 * {{ttbc|pt}}: {{t+|pt|largo}}, {{t+|pt|longo}}, {{t+|pt|comprido}}
-* {{ttbc|ro}}: [[lung]]
-* {{ttbc|sk}}: [[dlhý]]
+* {{ttbc|ro}}: {{t|ro|lung}}
+* {{ttbc|sk}}: {{t|sk|dlhý}}
 * {{ttbc|sl}}: {{t+|sl|dolg}}
 * {{ttbc|es}}: {{t+|es|largo}}
-* {{ttbc|te}}: [[పొడవైన]] (poDavaina)
+* {{ttbc|te}}: {{t|te|పొడవైన|tr=poDavaina|sc=Telu}}
 {{trans-bottom}}
 
 ====Adverb====
@@ -381,7 +381,7 @@ From {{etyl|enm|en}} {{term|long|lang=enm}}, {{term|lang|lang=enm}}, from {{etyl
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ko}}: [[길이]] (giri), [[오래]] (orae)
+* {{ttbc|ko}}: {{t|ko|길이|tr=giri|sc=Kore}}, {{t|ko|오래|tr=orae|sc=Kore}}
 * {{ttbc|es}}: {{t+|es|mucho}}, {{t+|es|harto}}
 {{trans-bottom}}
 
@@ -447,7 +447,7 @@ From {{etyl|enm|en}} {{term|longen|lang=enm}}, from {{etyl|ang|en}} {{term|langi
 * Icelandic: {{t+|is|þrá}}
 * Italian: {{t+|it|bramare}}
 {{trans-mid}}
-* Korean: {{t+|ko|바라다|tr=barada}}, {{t+|ko|기다리다|tr=gidarida}}, [[갈망]]하다 (galmang-hada)
+* {{ttbc|ko}}: {{t+|ko|바라다|tr=barada}}, {{t+|ko|기다리다|tr=gidarida}}, {{t|ko|갈망|tr=galmang-hada|alt=갈망하다|sc=Kore}} <!-- was "[[갈망]]하다" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Kurdish: {{t+|ku|bêrî|alt=bêrî kirin}}, {{t+|ku|hesret|alt=hesret kirin}}
 * Norwegian: {{t-|no|lengte}}
 * Polish: {{t+|pl|pragnąć}}, {{t+|pl|tęsknić}}, {{t+|pl|wzdychać|alt=wzdychać do}}
