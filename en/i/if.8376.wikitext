@@ -122,7 +122,7 @@ From {{etyl|enm|en}} {{term|yif|lang=enm}}, {{term|yef|lang=enm}}, from {{etyl|a
 * Norwegian: {{t+|no|hvis}}, {{t+|no|om}}, {{t+|no|når}}
 * Pashto: {{t-|ps|که چېرې|tr=ka čere}}, {{t+|ps|که|tr=ka}}
 * Persian: {{t+|fa|اگر|tr=agar}}
-* Polish: {{t+|pl|gdyby}}, {{t+|pl|jeśli}}, {{t+|pl|jeżeli}}, ({{l|pl|jak}})
+* Polish: {{t+|pl|jeśli}}, {{t+|pl|jeżeli}}, {{qualifier|improbable or counterfactual}} {{t+|pl|gdyby}}, {{qualifier|colloquial}} {{t|pl|jak}}
 * Portuguese: {{t+|pt|se}}, {{t+|pt|caso}}
 * Rapa Nui: {{tø|rap|ana}}
 * Romanian: {{t+|ro|dacă}}
@@ -142,7 +142,7 @@ From {{etyl|enm|en}} {{term|yif|lang=enm}}, {{term|yef|lang=enm}}, from {{etyl|a
 * Tajik: {{t-|tg|агар|tr=agar|sc=Cyrl}}
 * {{trreq|ta}}
 * Tatar: {{t-|tt|әгәр|tr=ägär|sc=Cyrl}}
-* Telugu: [[అయితే]] (ayitE)
+* Telugu: {{t|te|అయితే|tr=ayitE|sc=Telu}}
 * Thai: {{t+|th|ถ้า|tr=tâa|sc=Thai}}
 * Tok Pisin: {{t-|tpi|sapos}}
 * Turkish: {{t+|tr|eğer}}, {{t+|tr|-se}}, {{t-|tr|-sa}}, {{t+|tr|ise}}
@@ -153,7 +153,7 @@ From {{etyl|enm|en}} {{term|yif|lang=enm}}, {{term|yef|lang=enm}}, from {{etyl|a
 * Vietnamese: {{t+|vi|nếu|alt=nếu (mà)}}, {{t+|vi|hễ|alt=hễ (mà)}}
 * Volapük: {{t+|vo|if}}
 * Walloon: {{t+|wa|si}}
-* Welsh: [[os#Welsh|os]], [[pe#Welsh|pe]], (''subjunctive'', ''i.e.'', "if" and "only if")
+* Welsh: {{t|cy|os}}, {{t|cy|pe}}, (''subjunctive'', ''i.e.'', "if" and "only if")
 * West Frisian: {{t-|fy|as}}, {{t-|fy|at}}
 * Yiddish: {{t-|yi|אויב|tr=oyb|sc=Hebr}}, {{t-|yi|טאָמער|tr=tomer|sc=Hebr}}, {{t-|yi|אַז|tr=az|sc=Hebr}}
 {{trans-bottom}}
@@ -161,7 +161,7 @@ From {{etyl|enm|en}} {{term|yif|lang=enm}}, {{term|yef|lang=enm}}, from {{etyl|a
 {{trans-top|although; used to introduce a concession}}
 * German: {{t-|de|wenn auch}}
 {{trans-mid}}
-* Spanish: [[si bien]]
+* Spanish: {{t|es|si bien}}
 {{trans-bottom}}
 
 {{trans-top|whether}}
@@ -176,7 +176,7 @@ From {{etyl|enm|en}} {{term|yif|lang=enm}}, {{term|yef|lang=enm}}, from {{etyl|a
 * Czech: {{t+|cs|zda}}
 * Danish: {{t+|da|om}}, {{t-|da|hvorvidt}}
 * Dutch: {{t+|nl|of}}
-* Finnish: [[-ko]]/[[-kö]] {{qualifier|particle appended to the verb}}
+* Finnish: {{t|fi|-ko}}, {{qualifier|particle appended to the verb}} {{t|fi|-kö}}
 * French: {{t+|fr|si}}, {{t+|fr|que}}, {{t+|fr|soit}}
 *: Old French: {{tø|fro|se}}
 * German: {{t+|de|ob}}
@@ -207,7 +207,7 @@ From {{etyl|enm|en}} {{term|yif|lang=enm}}, {{term|yef|lang=enm}}, from {{etyl|a
 * Hungarian: {{t+|hu|ha}}
 * Macedonian: {{t+|mk|ако|tr=áko}}
 {{trans-mid}}
-* Polish: [[jeśli]] / [[jeżeli]]
+* Polish: {{t|pl|jeżeli}}, {{t|pl|jeśli}}
 * Portuguese: {{t+|pt|se}}
 * Russian: {{t+|ru|если|tr=jésli}}
 {{trans-bottom}}
@@ -230,14 +230,14 @@ From {{etyl|enm|en}} {{term|yif|lang=enm}}, {{term|yef|lang=enm}}, from {{etyl|a
 ====Translations====
 {{trans-top|a theoretical condition}}
 * Afrikaans: {{t+|af|as}}
-* Bulgarian: [[условие]] (uslovie) {{g|n}}, [[предположение]] (predpoloženie) {{g|n}}, [[ако и но]] (ako i no)
+* Bulgarian: {{t|bg|условие|n|tr=uslovie|sc=Cyrl}}, {{t|bg|предположение|n|tr=predpoloženie|sc=Cyrl}}, {{t|bg|ако и но|tr=ako i no|sc=Cyrl}}
 * Esperanto: {{t-|eo|se}}
 * Estonian: {{t-|et|oletus}}
 * Finnish: {{t+|fi|olettamus}}
 * German: {{t+|de|Wenn}}
-* Hungarian: [[feltevés]], [[ha]] <!-- (H)Semmi ha = (E)No ifs -->
+* {{ttbc|hu}}: {{t|hu|feltevés}}, {{qualifier|H}} {{t|hu|ha}} <!-- Semmi ha = (E)No ifs -->
 {{trans-mid}}
-* Japanese: [[仮定]] ([[かてい]], kateí)
+* Japanese: {{t|ja|仮定|tr=[[かてい]], kateí|sc=Jpan}}
 * Kurdish:
 *: Sorani: {{t|ku|sc=ku-Arab|ئه‌گه‌ر}}
 * Macedonian: {{t-|mk|услов|tr=úslov}}
