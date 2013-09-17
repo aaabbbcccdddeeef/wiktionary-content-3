@@ -30,7 +30,7 @@
 * Norwegian: {{t+|no|hva}}
 * Portuguese: {{t-|pt|puxa}}, {{t-|pt|eta}}, {{t-|pt|eita}}, {{t+|pt|caramba}}
 {{trans-mid}}
-* {{ttbc|ru}}: {{t|ru|да|sc=Cyrl}}, {{qualifier|in questions}} {{t|ru|[[да]] [[ну]]|sc=Cyrl}} <!-- was "[[да]] [[ну]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{qualifier|in statements}} {{t|ru|ха|sc=Cyrl}}
+* Russian: {{t|ru|а|sc=Cyrl}}, {{t|ru|что|tr=što|sc=Cyrl}}, {{t|ru|да|sc=Cyrl}}, {{t|ru|[[да]] [[ну]]|sc=Cyrl}} {{qualifier|in questions}}, {{t|ru|ха|sc=Cyrl}} {{qualifier|in statements}}
 * Swedish: {{t+|sv|vad}}, {{t-|sv|vad nu}}
 * Vietnamese: {{t+|vi|ủa}}
 {{trans-bottom}}
@@ -44,7 +44,7 @@
 {{trans-mid}}
 * Italian: {{t-|it|eh}}
 * Portuguese: {{t|pt|ué}}, {{t+|pt|como}}, {{t-|pt|hã}}
-* Russian: {{t|ru|а|sc=Cyrl}}, {{t|ru|да|tr=with special intonation|sc=Cyrl}}
+* Russian: {{t|ru|а|sc=Cyrl}}, {{t|ru|да|sc=Cyrl}} {{qualifier|with special intonation}}
 * Swedish: {{t+|sv|vad}}
 * Vietnamese: {{t+|vi|ủa}}
 {{trans-bottom}}
@@ -66,7 +66,7 @@
 * Finnish: {{t+|fi|joo}}
 * Portuguese: {{t|pt|dã}}, {{t|pt|não brinca}}
 {{trans-mid}}
-* Russian: {{t|ru|да|sc=Cyrl}}, {{qualifier|first meaning}} {{t|ru|угу|sc=Cyrl}}, {{qualifier|both meanings}} {{t|ru|ага|sc=Cyrl}}
+* Russian: {{t|ru|да|sc=Cyrl}}, {{t|ru|угу|tr=ugú, uhú|sc=Cyrl}} {{qualifier|first meaning}}, {{t|ru|ага|tr=agá, ahá|sc=Cyrl}} {{qualifier|both meanings}}
 {{trans-bottom}}
 
 {{trans-top|to indicate that one didn't hear}}
@@ -75,7 +75,7 @@
 * French: {{t+|fr|hein}}
 * Portuguese: {{t|pt|hã}}, {{t|pt|hem}}, {{t+|pt|como}}
 {{trans-mid}}
-* Russian: {{t+|ru|эй}}
+* Russian: {{t|ru|что|tr=što|sc=Cyrl}}, {{t+|ru|эй}}
 * Swedish: {{t+|sv|vad}}, {{t-|sv|hur sa}}
 * Vietnamese: {{t-|vi|cái gì}}
 {{trans-bottom}}
@@ -83,9 +83,10 @@
 {{trans-top|tag question}}
 * Japanese: {{t+|ja|ね|tr=ne|sc=Jpan}}
 * Norwegian: {{t-|no|eller hva}}
+* Russian: {{t|ru|а|sc=Cyrl}}
 {{trans-mid}}
 * Swedish: {{t-|sv|eller hur}}
-* Vietnamese: {{t+|vi|nhỉ}}, {{t+|vi|nhể}}, {{t+|vi|nhở}}
+* Vietnamese: {{t+|vi|nhỉ}}, {{t+|vi|nhể}}, {{t+|vi|nhở}}, {{t|vi|à}}
 {{trans-bottom}}
 
 {{checktrans-top}}
