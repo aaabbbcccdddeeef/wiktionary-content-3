@@ -205,9 +205,12 @@ From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=
 #: {{rfquotek|Cavendish}}
 # {{context|intransitive|lang=en}} To [[wear]] a mask; to be disguised in any way
 #: {{rfquotek|Shakespeare}}
-# {{context|transitive|computing|lang=en}} To [[toggle]] (certain [[bit]]s, or binary digits, within a value) by means of a [[bitmask]].
+# {{context|transitive|computing|lang=en}} To [[set]] or [[unset]] (certain [[bit]]s, or binary digits, within a value) by means of a [[bitmask]].
 #* '''1993''', Richard E. Haskell, ''Introduction to computer engineering'' (page 287)
 #*: That is, the lower nibble (the 4 bits 1010 = A) has been '''masked''' to zero. This is because ANDing anything with a zero produces a zero, while ANDing any bit with a 1 leaves the bit unchanged{{...}}
+# {{context|transitive|computing|lang=en}} To [[disable]] (an [[interrupt]], etc.) by unsetting the associated [[bit]].
+#* '''1998''', Rick Grehan, ‎Robert Moote, ‎Ingo Cyliax, ''Real-time programming: a guide to 32-bit embedded development''
+#*: When should you '''mask''' a specific interrupt, rather than disabling all interrupts?
 
 =====Translations=====
 {{trans-top|To cover, as the face, by way of concealment or defense against injury}}
