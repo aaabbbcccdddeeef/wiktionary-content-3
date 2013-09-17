@@ -44,7 +44,7 @@ From {{etyl|enm|en}} {{term|lorrer|lang=ang}}, {{etyl|xno|en}} ''[[lorer]]'', fr
 ====Translations====
 {{trans-top|evergreen shrub, of the genus ''Laurus''}}
 * Armenian: {{t-|hy|դափնի|tr=dap’ni}}
-* Bulgarian: [[лавър]] {{g|m}}
+* Bulgarian: {{t|bg|лавър|m|sc=Cyrl}}
 * Catalan: {{t+|ca|llorer|m}}
 * Czech: {{t-|cs|vavřín|m}}
 * Danish: {{t-|da|laurbær|n|c}}
@@ -61,8 +61,8 @@ From {{etyl|enm|en}} {{term|lorrer|lang=ang}}, {{etyl|xno|en}} ''[[lorer]]'', fr
 * Luxembourgish: {{t-|lb|Lorber|m}}
 * Norwegian: {{t-|no|laurbær|n}}
 * Polish: {{t+|pl|wawrzyn|m}}, {{t+|pl|laur|m}}
-* Portuguese: [[louro]] {{g|m}} {{qualifier|Brazil}}
-* Romanian: {{t+|ro|laur|m}},  {{t+|ro|dafin|m}}
+* Portuguese: {{qualifier|Brazil}} {{t|pt|louro|m}}
+* Romanian: {{t+|ro|laur|m}}, {{t+|ro|dafin|m}}
 * Russian: {{t+|ru|лавр|m|tr=lavr}}
 * Serbo-Croatian:
 *: Cyrillic: {{t-|sh|ло̏во̄р|m|sc=Cyrl}}
@@ -71,7 +71,7 @@ From {{etyl|enm|en}} {{term|lorrer|lang=ang}}, {{etyl|xno|en}} ''[[lorer]]'', fr
 * Spanish: {{t+|es|laurel|m}}
 * Swahili: {{t-|sw|mbei|s}} (noun 3)
 * Swedish: {{t+|sv|lager}}
-* Welsh: {{t-|cy|llawryf|m}},  {{t-|cy|llawryfoedd|p}}
+* Welsh: {{t-|cy|llawryf|m}}, {{t-|cy|llawryfoedd|p}}
 {{trans-bottom}}
 
 {{trans-top|crown of laurel}}
@@ -80,15 +80,15 @@ From {{etyl|enm|en}} {{term|lorrer|lang=ang}}, {{etyl|xno|en}} ''[[lorer]]'', fr
 * Dutch: {{t-|nl|laurierkroon|m|f}}
 * Faroese: {{t-|fo|lavrberjakransur|m}}
 * Finnish: {{t+|fi|laakeriseppele}}
-* French: [[couronne]] de [[laurier]]
+* {{ttbc|fr}}: {{t|fr|[[couronne]] de [[laurier]]}} <!-- was "[[couronne]] de [[laurier]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * German: {{t+|de|Lorbeerkranz|m}}
 * Greek: {{t+|el|κότινος|m|tr=kótinos|sc=Grek}}
 * Hungarian: {{t+|hu|babérkoszorú}}
 {{trans-mid}}
 * Norwegian: {{t-|no|laurbærkrans|m}}
 * Polish: {{t+|pl|wawrzyn|m}}, {{t+|pl|laur|m}}
-* Portuguese: [[coroa]] de [[louro]] {{qualifier|Brazil}}, {{t+|pt|louros|m-p}}
-* Romanian: [[coroană de lauri]]
+* {{ttbc|pt}}: {{qualifier|Brazil}} {{t|pt|[[coroa]] de [[louro]]}} <!-- was "[[coroa]] de [[louro]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+|pt|louros|m-p}}
+* Romanian: {{t|ro|coroană de lauri}}
 * Russian: {{t-|ru|лавровый венок|m|tr=lávrovyj v'enók}}
 * Spanish: {{t-|es|corona de laurel|f}}
 * Swahili: {{t-|sw|taji la mbei}} (noun 5)
