@@ -296,13 +296,18 @@ From {{etyl|sla-pro|sk}} {{term/t|sla-pro|*bratrъ}}, {{term/t|sla-pro|*bratъ}}
 ===Etymology===
 From {{etyl|sla-pro|sl}} {{term/t|sla-pro|*bratrъ}}, {{term/t|sla-pro|*bratъ}}, from {{etyl|ine-pro|sl}} {{term/t|ine-pro|*bʰréh₂tēr}}.
 
+===Pronunciation===
+* {{IPA|lang=sl|/ˈbrát/}}
+* {{sl-tonal|brȁt}}
+
 ===Noun===
-{{sl-noun|brat|m-an}}
+{{sl-noun|bràt|m-an|bráta|brátje|pl2=bráti}}
 
 # [[brother]]
 
 ====Declension====
-{{sl-decl-noun-m|brat|a=1}}
+{{sl-decl-noun-m|brát|a=1}}
+{{rfinfl|sl|noun}}<!-- nom. pl brátje, bráti -->
 
 ----
 
