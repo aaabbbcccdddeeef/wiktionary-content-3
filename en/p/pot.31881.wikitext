@@ -500,26 +500,31 @@ From {{etyl|sla-pro|sh}} {{term/t|sla-pro|*potъ}}.
 ==Slovene==
 
 ===Etymology 1===
-From {{etyl|sla-pro|sh}} {{term/t|sla-pro|*pǫtь}}.
+From {{etyl|sla-pro|sl}} {{term/t|sla-pro|*pǫtь}}.
+
+====Pronunciation====
+* {{IPA|lang=sl|/ˈpóːt/}}
+* {{sl-tonal|pọ̑t}}
 
 ====Noun====
-{{sl-noun|pót|f}}
+{{sl-noun|pót|f|potí|potí}}
 
 # [[way]], [[road]]
 
 =====Declension=====
-{{sl-decl-noun-f-i2|pot}}
+{{sl-decl-noun-f-i2|pot}}<!-- pót, pót, potí, póti, póti, potjó; potí, potí, potí, potéma, potéh, potéma; potí, potí, potí, potém, potéh, potmí -->
 
 ===Etymology 2===
-From {{etyl|sla-pro|sh}} {{term/t|sla-pro|*potъ}}.
+From {{etyl|sla-pro|sl}} {{term/t|sla-pro|*potъ}}.
 
 ====Noun====
-{{sl-noun|pót|m-in}}
+{{sl-noun|pót|m-in|potú|gen2=póta|-}}
 
 # [[sweat]]
 
 =====Declension=====
-{{rfinfl|sl|noun}}
+{{rfinfl|sl|noun}}<!-- pót, pót, potú, pótu, pótu, pótom -->
+{{sl-decl-noun-m|pót|n=sg}}
 
 ----
 
