@@ -575,16 +575,23 @@ From {{etyl|sla-pro|sk}} {{term/t|sla-pro|*listъ||leaf}}.
 ===Etymology===
 From {{etyl|sla-pro|sl}} {{term/t|sla-pro|*listъ||leaf}}.
 
+===Pronunciation===
+* {{IPA|lang=sl|/ˈlíːst/}}
+* {{sl-tonal|lȋst}}
+
 ===Noun===
-{{sl-noun|list|m-in||listi}}
+{{sl-noun|líst|m-in|lísta|lísti}}
 
 # piece of [[paper]]
 # [[leaf]]
 # [[sole]]
-# {{context|anatomy|lang=sl}} [[calf]] {{qualifier|leg part}}
+# {{context|anatomy|lang=sl}} [[calf]] {{gloss|leg part}}
+
+====Declension====
+{{sl-decl-noun-m|líst}}
 
 ====Related terms====
-* [[listje#Slovene|listje]] (''leaves'', collective noun)
+* {{l|sl|lístje}}
 
 [[Category:sl:Fish]]
 
