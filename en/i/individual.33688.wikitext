@@ -5,7 +5,7 @@
 * [[individuall]] {{qualifier|obsolete}}
 
 ===Etymology===
-From {{etyl|ML.|en}} {{term|individualis}}, from {{etyl|la|en}} {{term|individuum||an indivisible thing|lang=la}}, neuter of {{term|individuus||indivisible, undivided}}, from {{term|in}} + {{term|dividuus||divisible}}, from {{term|lang=la|divido||divide}}.
+From {{etyl|ML.|en}} {{term|individualis|lang=en}}, from {{etyl|la|en}} {{term|individuum||an indivisible thing|lang=la}}, neuter of {{term|individuus||indivisible, undivided}}, from {{term|in|lang=en}} + {{term|dividuus||divisible}}, from {{term|lang=la|divido||divide}}.
 
 ===Pronunciation===
 * {{IPA|/ˌɪndɪˈvɪd͡ʒuəl/}}
@@ -16,13 +16,13 @@ From {{etyl|ML.|en}} {{term|individualis}}, from {{etyl|la|en}} {{term|individuu
 
 # A [[person]] considered alone, rather than as belonging to a [[group]] of [[people]].
 #: {{usex|lang=en|He is an unusual '''individual'''.}}
-# {{context|Legal|lang=en}} A single physical [[human being]] as a legal subject, as opposed to a [[legal person]] such as a [[corporation]].
+# {{context|legal|lang=en}} A single physical [[human being]] as a legal subject, as opposed to a [[legal person]] such as a [[corporation]].
 #* '''1982''', ''Canadian Charter of Rights and Freedoms'':
 #*: Every '''individual''' is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination&nbsp;[&hellip;].
 # An [[object]], be it a thing or an agent, as contrasted to a [[class]].
 #* {{quote-book|year=2006|chapter=Identity and Individuality in Quantum Theory|title=Stanford Encyclopedia of Philosophy|author=Steven French|url=http://plato.stanford.edu/entries/qt-idind/
 |passage=It is typically held that chairs, trees, rocks, people and many of the so-called ‘everyday’ objects we encounter can be regarded as '''individuals'''.}}
-#*{{quote-magazine|year=2013|month=May-June|author=[http://www.americanscientist.org/authors/detail/katrina-g-claw Katrina G. Claw]
+#* {{quote-magazine|year=2013|month=May-June|author=[http://www.americanscientist.org/authors/detail/katrina-g-claw Katrina G. Claw]
 |title=[http://www.americanscientist.org/issues/feature/2013/3/rapid-evolution-in-eggs-and-sperm Rapid Evolution in Eggs and Sperm]
 |volume=101|issue=3|magazine={{w|American Scientist}}
 |passage=In plants, the ability to recognize self from nonself plays an important role in fertilization, because self-fertilization will result in less diverse offspring than fertilization with pollen from another '''individual'''.}}
@@ -75,7 +75,7 @@ From {{etyl|ML.|en}} {{term|individualis}}, from {{etyl|la|en}} {{term|individuu
 {{en-adj}}
 
 # Relating to a single [[person]] or [[thing]] as opposed to more than one.
-#*{{quote-magazine|date=2013-06-01|volume=407|issue=8838|page=71|magazine={{w|The Economist}}
+#* {{quote-magazine|date=2013-06-01|volume=407|issue=8838|page=71|magazine={{w|The Economist}}
 |title=[http://www.economist.com/news/finance-and-economics/21578670-peer-peer-lending-needs-new-name-end-peer-show End of the peer show]
 |passage=Finance is seldom romantic. But the idea of peer-to-peer lending comes close. This is an industry that brings together '''individual''' savers and lenders on online platforms. Those that want to borrow are matched with those that want to lend.}}
 #: {{usex|As we can't print them all together, the '''individual''' pages will have to be printed one by one.|lang=en}}
@@ -83,17 +83,18 @@ From {{etyl|ML.|en}} {{term|individualis}}, from {{etyl|la|en}} {{term|individuu
 #: {{usex|'''individual''' personal pension; '''individual''' cream cakes|lang=en}}
 
 ====Synonyms====
-* (1): [[single]], [[selfstanding]]
-* (2): [[personal]], [[single]]
+* {{sense|relating to a single person or thing}} {{l|en|single}}, {{l|en|selfstanding}}
+* {{sense|intended for a single person or thing}} {{l|en|personal}}, {{l|en|single}}
 
 ====Antonyms====
-* (1): [[collective]]
-* (2): [[group]], [[joint]], [[shared]]
+* {{sense|relating to a single person or thing}} {{l|en|collective}}
+* {{sense|intended for a single person or thing}} {{l|en|group}}, {{l|en|joint}}, {{l|en|shared}}
 
 ====Related terms====
-* [[individualism]]
-* [[individually]]
-* [[individuality]]
+* {{l|en|individualism]]
+* {{l|en|individually]]
+* {{l|en|individuality]]
+* {{l|en|individualness]]
 
 ====Translations====
 {{trans-top|relating to a single person or thing}}
@@ -155,8 +156,6 @@ From {{etyl|ML.|en}} {{term|individualis}}, from {{etyl|la|en}} {{term|individuu
 ===Statistics===
 * {{rank|silent|takes|honour|806|individual|girls|wall|cry}}
 
-[[Category:English adjectives]]
-
 ----
 
 ==Galician==
@@ -164,7 +163,7 @@ From {{etyl|ML.|en}} {{term|individualis}}, from {{etyl|la|en}} {{term|individuu
 ===Adjective===
 {{gl-adj|f=individual|pl=individuais}}
 
-# [[#English|individual]]
+# {{l|en|individual}}
 
 ----
 
@@ -173,7 +172,7 @@ From {{etyl|ML.|en}} {{term|individualis}}, from {{etyl|la|en}} {{term|individuu
 ===Adjective===
 {{pt-adj|individu|al}}
 
-# [[#English|individual]]
+# {{l|en|individual}}
 
 ----
 
@@ -182,7 +181,7 @@ From {{etyl|ML.|en}} {{term|individualis}}, from {{etyl|la|en}} {{term|individuu
 ===Adjective===
 {{es-adj|pl=individuales}}
 
-# [[#English|individual]]
+# {{l|en|individual}}
 
 ===Noun===
 {{es-noun|m|es}}
@@ -190,7 +189,7 @@ From {{etyl|ML.|en}} {{term|individualis}}, from {{etyl|la|en}} {{term|individuu
 # [[place mat]]
 
 ===Related terms===
-* [[individuo]]
+* {{l|es|individuo}}
 
 [[ca:individual]]
 [[cs:individual]]
