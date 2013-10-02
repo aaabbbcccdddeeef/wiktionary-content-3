@@ -45,7 +45,7 @@
 
 # To create a carbon copy of.
 #: ''Please '''carbon copy''' this contract for our records.''
-# {{context|Internet|lang=en}} make a copy for, send a duplicate to, [[cc]]
+# {{context|Internet|lang=en}} To send a duplicate copy of a email to.
 
 ====Translations====
 {{trans-top|to create a carbon copy of}}
@@ -57,15 +57,16 @@
 {{trans-top|cc (email)}}
 * Chinese:
 *: Mandarin: {{t|cmn|抄送|tr=chāosòng|sc=Hani}}
-* French: {{t+|fr|copie conforme|f}}
 {{trans-mid}}
 * Russian: {{t-|ru|посылать копию|tr=posylát' kópiju}} {{impf}}, {{t-|ru|послать копию|tr=poslát' kópiju}} {{pf.}}
 {{trans-bottom}}
 
-{{checktrans}}
-* {{ttbc|ia}}: copia al [[papiro carbon]]
-* {{ttbc|pt}}: cópia a [[papel-carbono]] {{f}}
-* {{ttbc|ro}}: copie la [[indigo]] {{f}}
+{{checktrans-top}}
+* {{ttbc|ia}}: {{t-|ia|copia al [[papiro carbon]]}}
+* {{ttbc|pt}}: {{t-|pt|cópia a [[papel-carbono]]|f}}
+{{trans-mid}}
+* {{ttbc|ro}}: {{t-|ro|copie la [[indigo]]|f}}
+{{trans-bottom}}
 
 [[et:carbon copy]]
 [[ml:carbon copy]]
