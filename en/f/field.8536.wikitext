@@ -97,7 +97,7 @@ From {{etyl|enm|en}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|fe
 * Catalan: {{t+|ca|camp|m}}
 * Chinese:
 *: Dungan: {{t|dng|тан|tr=tan|sc=Cyrl}}
-*: Mandarin: {{t|cmn|田間|sc=Hani}}, {{t|cmn|田间|tr=tiánjiān|sc=Hani}}, {{t|cmn|野外|tr=yěwài|sc=Hani}}, {{t|cmn|野|tr=yě|sc=Hani}}
+*: Mandarin: {{t|cmn|田間|sc=Hani}}, {{t+|cmn|田间|tr=tiánjiān|sc=Hani}}, {{t+|cmn|野外|tr=yěwài|sc=Hani}}, {{t+|cmn|野|tr=yě|sc=Hani}}
 * Czech: {{t+|cs|pole|n}}
 * Esperanto: {{t|eo|kampo}}, {{t|eo|kamparo}} {{qualifier|collective}}
 * Finnish: {{t+|fi|kenttä}}
@@ -155,7 +155,7 @@ From {{etyl|enm|en}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|fe
 * Chamicuro: {{t|ccc|pawa}}
 * Chinese:
 *: Dungan: {{t|dng|тан|tr=tan|sc=Cyrl}}
-*: Mandarin: {{qualifier|for crops}} {{t|cmn|田|tr=tián|sc=Hani}}, {{t|cmn|田野|tr=tiányě|sc=Hani}}
+*: Mandarin: {{qualifier|for crops}} {{t+|cmn|田|tr=tián|sc=Hani}}, {{t+|cmn|田野|tr=tiányě|sc=Hani}}
 * Czech: {{t+|cs|pastvina|f}} {{qualifier|for animals}}, {{t+|cs|pole|n}} {{qualifier|for crops}}
 * Danish: {{t+|da|mark|c}}, {{t+|da|ager}}
 * Dutch: {{t+|nl|veld|n}}, {{t+|nl|akker|n}} {{qualifier|for crops}}, {{t+|nl|wei|f}}, {{t+|nl|weide|f}}, {{t+|nl|weiland|n}} {{qualifier|for animals}}
@@ -208,7 +208,7 @@ From {{etyl|enm|en}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|fe
 * Bashkir: {{t|ba|яу ҡыры|sc=Cyrl}}
 * Bulgarian: {{t+|bg|полесражение|n|tr=polesraženie|sc=Cyrl}}
 * Chinese:
-*: Mandarin: {{t|cmn|战场|sc=Hani}}
+*: Mandarin: {{t+|cmn|战场|sc=Hani}}
 {{trans-mid}}
 * Dutch: {{t+|nl|slagveld|n}}
 * Latvian: {{t+|lv|lauks}}, {{t|lv|karalauks}}, {{t|lv|kaujas lauks}}
@@ -221,7 +221,7 @@ From {{etyl|enm|en}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|fe
 * Bulgarian: {{t+|bg|поле|n|tr=pole|sc=Cyrl}}
 * Catalan: {{t+|ca|camp|m}}
 * Chinese:
-*: Mandarin: {{t|cmn|場|sc=Hani}}, {{t|cmn|场|tr=chǎng|sc=Hani}}
+*: Mandarin: {{t+|cmn|場|sc=Hani}}, {{t+|cmn|场|tr=chǎng|sc=Hani}}
 * Czech: {{t+|cs|pole|n}}
 * Danish: {{t|da|felt|n}}
 * Dutch: {{t+|nl|veld|n}}
@@ -265,7 +265,7 @@ From {{etyl|enm|en}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|fe
 * Bulgarian: {{t+|bg|област|f|tr=oblast|sc=Cyrl}}
 * Catalan: {{t|ca|terreny|m}}
 * Chinese:
-*: Mandarin: {{t|cmn|領域|sc=Hani}}, {{t|cmn|领域|tr=lǐngyù|sc=Hani}}
+*: Mandarin: {{t+|cmn|領域|sc=Hani}}, {{t+|cmn|领域|tr=lǐngyù|sc=Hani}}
 * Czech: {{t+|cs|pole}}
 * Danish: {{t|da|felt|n}}, {{t|da|område}}
 * Dutch: {{t+|nl|vak|n}}, {{t+|nl|vakgebied|n}}, {{t+|nl|gebied|n}}, {{t+|nl|terrein|n}}
@@ -306,7 +306,7 @@ From {{etyl|enm|en}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|fe
 * Armenian: {{t|hy|դաշտ|tr=dašt|sc=Armn}}
 * Catalan: {{t+|ca|cos|m}}
 * Chinese:
-*: Mandarin: {{t|cmn|域|tr=yù|sc=Hani}}
+*: Mandarin: {{t+|cmn|域|tr=yù|sc=Hani}}
 * Czech: {{t+|cs|pole|n}}
 * Dutch: {{t+|nl|lichaam|f}} {{qualifier|Netherlands}}, {{t+|nl|veld|f}} {{qualifier|Belgium}}
 * Estonian: {{t|et|korpus}}
@@ -389,7 +389,7 @@ From {{etyl|enm|en}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|fe
 
 {{trans-top|computing: area of memory or storage reserved for a particular value}}
 * Chinese:
-*: Mandarin: {{t|cmn|字段|sc=Hani}}, {{t|cmn|信息组|sc=Hani}}
+*: Mandarin: {{t+|cmn|字段|sc=Hani}}, {{t|cmn|信息组|sc=Hani}}
 * Czech: {{t+|cs|pole|n}}
 * Estonian: {{t|et|lahter}}
 * Finnish: {{t+|fi|alue}}
