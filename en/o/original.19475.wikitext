@@ -55,7 +55,7 @@ From {{etyl|enm|en}} {{term|original|lang=enm}}, from {{etyl|fro|en}} {{term|ori
 
 ====Translations====
 {{trans-top|first in a series}}
-* Arabic: {{t-|ar|أصْلِيّ|tr=ʾaṣliyy|sc=Arab}}
+* Arabic: {{t|ar|أصْلِيّ|tr=ʾaṣliyy|sc=Arab}}
 * Chinese:
 *: Mandarin: {{t|cmn|原|tr=yuán|sc=Hani}}, {{t|cmn|原始|tr=yuánshǐ|sc=Hani}}
 * Czech: {{t+|cs|původní}}
@@ -69,20 +69,20 @@ From {{etyl|enm|en}} {{term|original|lang=enm}}, from {{etyl|fro|en}} {{term|ori
 * Japanese: {{t+|ja|本来|tr=ほんらいの, honrai no|alt=本来の|sc=Jpan}}
 {{trans-mid}}
 * Korean: {{t+|ko|최초|tr=choecho-ui|alt=최초의|sc=Kore}}
-* Persian: {{t-|fa|اصلی|tr=asli|sc=fa-Arab}}, {{t-|fa|اریژینال|tr=orižinâl|sc=fa-Arab}}
+* Persian: {{t+|fa|اصلی|tr=asli|sc=fa-Arab}}, {{t|fa|اریژینال|tr=orižinâl|sc=fa-Arab}}
 * Portuguese: {{t+|pt|original}}
 * Russian: {{t+|ru|первоначальный|tr=pervonačál’nyj}}, {{t+|ru|первичный|tr=pervíčnyj}}, {{t+|ru|исходный|tr=isxódnyj}}, {{t+|ru|оригинальный|tr=originálʹnyj|sc=Cyrl}}
-* Scottish Gaelic: {{t-|gd|tùsail}}
+* Scottish Gaelic: {{t|gd|tùsail}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|самобитан}}, {{t-|sh|првобитни}}
-*: Roman: {{t-|sh|samobitan}}, {{t-|sh|prvobitni}}
+*: Cyrillic: {{t|sh|самобитан}}, {{t|sh|првобитни}}
+*: Roman: {{t|sh|samobitan}}, {{t|sh|prvobitni}}
 * Spanish: {{t+|es|original}}
 * Swahili: {{t+|sw|halisi}}
-* Swedish: {{t-|sv|original-}}
+* Swedish: {{t|sv|original-}}
 {{trans-bottom}}
 
 {{trans-top|newly created}}
-* Bengali: {{t-|bn|অপূর্ব|sc=Beng}}
+* Bengali: {{t|bn|অপূর্ব|sc=Beng}}
 * Dutch: {{t+|nl|origineel}}, {{t+|nl|oorspronkelijk}}
 * Finnish: {{t+|fi|tuore}}, {{t+|fi|alkuperäinen}}
 * German: {{t+|de|original}}
@@ -90,22 +90,22 @@ From {{etyl|enm|en}} {{term|original|lang=enm}}, from {{etyl|fro|en}} {{term|ori
 {{trans-mid}}
 * Russian: {{t+|ru|новый|tr=nóvyj}}, {{t+|ru|свежий|tr=svéžij}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|самобитан}}, {{t-|sh|нов}}
-*: Roman: {{t-|sh|samobitan}}, {{t-|sh|nov}}
+*: Cyrillic: {{t|sh|самобитан}}, {{t|sh|нов}}
+*: Roman: {{t|sh|samobitan}}, {{t|sh|nov}}
 * Swahili: {{t+|sw|halisi}}
 {{trans-bottom}}
 
 {{trans-top|fresh, different}}
-* Bengali: {{t-|bn|অপূর্ব|sc=Beng}}
+* Bengali: {{t|bn|অপূর্ব|sc=Beng}}
 * Dutch: {{t+|nl|origineel}}, {{t+|nl|oorspronkelijk}}
-* Finnish: {{t+|fi|tuore}}, {{t+|fi|omaperäinen}}, {{t+|fi|originelli}}, {{t-|fi|omintakeinen}}
+* Finnish: {{t+|fi|tuore}}, {{t+|fi|omaperäinen}}, {{t+|fi|originelli}}, {{t|fi|omintakeinen}}
 * German: {{t+|de|originell}}
 * Greek: {{t+|el|αρχικός|m|tr=archikós}}
 * Russian: {{t+|ru|свежий|tr=svéžij}}, {{t+|ru|своеобразный|tr=svojeobráznyj}}, {{t+|ru|оригинальный|tr=originálʹnyj}}
 {{trans-mid}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|свеж}}
-*: Roman: {{t-|sh|svež}}
+*: Cyrillic: {{t|sh|свеж}}
+*: Roman: {{t|sh|svež}}
 * Spanish: {{t+|es|original}}
 * Swahili: {{t+|sw|halisi}}
 * Swedish: {{t+|sv|originell}}
@@ -123,11 +123,11 @@ From {{etyl|enm|en}} {{term|original|lang=enm}}, from {{etyl|fro|en}} {{term|ori
 
 {{trans-top|having as its origin}}
 * Dutch: {{t+|nl|afkomstig}}
-* Finnish: {{t-|fi|peräisin}}
+* Finnish: {{t|fi|peräisin}}
 * German: {{t+|de|ursprünglich}}
-* Maori: {{t-|mi|taketake}}
+* Maori: {{t|mi|taketake}}
 {{trans-mid}}
-* Scottish Gaelic: {{t-|gd|tùsail}}
+* Scottish Gaelic: {{t|gd|tùsail}}
 * Spanish: {{t+|es|original}}
 * Swahili: {{t+|sw|halisi}}
 * Swedish: {{t+|sv|ursprunglig}}
@@ -168,22 +168,22 @@ From {{etyl|enm|en}} {{term|original|lang=enm}}, from {{etyl|fro|en}} {{term|ori
 * Chinese:
 *: Mandarin: {{t|cmn|原作|tr=yuánzuò|sc=Hani}}, {{qualifier|text}} {{t|cmn|原文|tr=yuánwén|sc=Hani}}, {{t|cmn|原物|tr=yuánwù|sc=Hani}}, {{t|cmn|本來|sc=Hani}}, {{t|cmn|本来|tr=běnlái|sc=Hani}}, {{t|cmn|原著|tr=yuánzhù|sc=Hani}}
 * Dutch: {{t+|nl|origineel|n}}
-* Finnish: {{t-|fi|alkuperäiskappale}}, {{t+|fi|originaali}}
+* Finnish: {{t|fi|alkuperäiskappale}}, {{t+|fi|originaali}}
 * French: {{t+|fr|original|m}}
-* German: {{t+|de|Original|n}}, {{qualifier|text}} {{t-|de|Urschrift|f}}
+* German: {{t+|de|Original|n}}, {{qualifier|text}} {{t|de|Urschrift|f}}
 * Greek: {{t+|el|πρωτότυπο|n}} (protótypo)
-* Icelandic: {{t-|is|frumeintak|n}}, {{qualifier|informal}} {{t-|is|orginall|m}}, {{qualifier|only of writing}} {{t+|is|frumrit|n}}
+* Icelandic: {{t|is|frumeintak|n}}, {{qualifier|informal}} {{t|is|orginall|m}}, {{qualifier|only of writing}} {{t+|is|frumrit|n}}
 {{trans-mid}}
-* Japanese: {{t+|ja|原作|tr=げんさく, gensaku|sc=Jpan}}, {{qualifier|text}} {{t+|ja|原文|tr=げんぶん, genbun|sc=Jpan}}, {{t-|ja|原物|tr=げんぶつ, genbutsu|sc=Jpan}}
-* Russian: {{t+|ru|оригинал|m|tr=originál}}, {{t+|ru|первоисточник|m|tr=pervoistóčnik|sc=Cyrl}}, {{qualifier|text}} {{t-|ru|исходный текст|m|tr=isxódnyj tekst|sc=Cyrl}}
+* Japanese: {{t+|ja|原作|tr=げんさく, gensaku|sc=Jpan}}, {{qualifier|text}} {{t+|ja|原文|tr=げんぶん, genbun|sc=Jpan}}, {{t|ja|原物|tr=げんぶつ, genbutsu|sc=Jpan}}
+* Russian: {{t+|ru|оригинал|m|tr=originál}}, {{t+|ru|первоисточник|m|tr=pervoistóčnik|sc=Cyrl}}, {{qualifier|text}} {{t|ru|исходный текст|m|tr=isxódnyj tekst|sc=Cyrl}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|изворник|m}}, {{t-|sh|оригинал|m}}
-*: Roman: {{t-|sh|izvornik|m}}, {{t-|sh|original|m}}
+*: Cyrillic: {{t|sh|изворник|m}}, {{t|sh|оригинал|m}}
+*: Roman: {{t|sh|izvornik|m}}, {{t|sh|original|m}}
 * Swahili: {{t+|sw|halisi}}
 {{trans-bottom}}
 
 {{trans-top|person with a unique and interesting personality and/or creative talent}}
-* Dutch: {{t-|nl|unicum|n}}
+* Dutch: {{t|nl|unicum|n}}
 * Finnish: [[ainutlaatuinen]] [[ihminen]], [[originelli]] [[persoona]]
 {{trans-mid}}
 * Russian: {{t+|ru|оригинал|m|tr=originál}}
