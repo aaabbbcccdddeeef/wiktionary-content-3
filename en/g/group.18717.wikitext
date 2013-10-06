@@ -74,11 +74,11 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 ====Translations====
 {{trans-top|number of things or persons being in some relation to each other}}
 * Arabic: {{t+|ar|مجموعة|f|tr=majmuu3a}}, {{t+|ar|جماعة|f|tr=jamaa3a}}
-* Armenian: {{t-|hy|խումբ|tr=xumb}}
-* Asturian: {{t-|ast|grupu|m}}
-* Bashkir: {{tø|ba|төркөм|tr=tӧrkӧm|sc=Cyrl}}
+* Armenian: {{t|hy|խումբ|tr=xumb}}
+* Asturian: {{t|ast|grupu|m}}
+* Bashkir: {{t|ba|төркөм|tr=tӧrkӧm|sc=Cyrl}}
 * Basque: {{t+|eu|talde}}
-* Belarusian: {{t-|be|група|f|tr=hrúpa|sc=Cyrl}}
+* Belarusian: {{t|be|група|f|tr=hrúpa|sc=Cyrl}}
 * Bulgarian: {{t+|bg|група|f|tr=grúpa|sc=Cyrl}}
 * Catalan: {{t+|ca|grup|m}}
 * Chinese:
@@ -89,7 +89,7 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 * Estonian: {{t+|et|rühm}}
 * Finnish: {{t+|fi|joukko}}, {{t+|fi|ryhmä}}
 * French: {{t+|fr|groupe|m}}
-* Galician: {{t+|gl|grupo|m}}, {{t-|gl|fatado|m}}, {{t+|gl|fato|m}}, {{t+|gl|feixe|m}}
+* Galician: {{t+|gl|grupo|m}}, {{t|gl|fatado|m}}, {{t+|gl|fato|m}}, {{t+|gl|feixe|m}}
 * German: {{t+|de|Gruppe|f}}
 * Greek: {{t+|el|ομάδα|f}}
 * Hebrew: {{t+|he|קבוצה|f|tr=k'vutzá}}
@@ -97,29 +97,29 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 * Indonesian: {{t+|id|kelompok}}
 * Italian: {{t+|it|gruppo|m}}
 * Japanese: {{t+|ja|グループ|tr=gurūpu|sc=Jpan}}, {{t+|ja|集団|tr=しゅうだん, jūdan|sc=Jpan}}
-* Jèrriais: {{qualifier|people}} {{tø|roa-jer|dgaîngue|f}}
+* Jèrriais: {{qualifier|people}} {{t|roa-jer|dgaîngue|f}}
 * Kazakh: {{t|kk|топ|tr=top|sc=Cyrl}}
 * Khmer: {{t+|km|ក្រុម|sc=Khmr|tr=krom}}
 * Korean: {{t+|ko|그룹|tr=geurup|sc=Kore}}
 {{trans-mid}}
 * Kurdish:
-*: Sorani: {{t-|ku|کۆمه‌ڵ}}
-* Latin: {{t-|la|circulus|m}}, {{t+|la|globus|m}}
-* Latvian: {{t-|lv|grupa|f}}
+*: Sorani: {{t|ku|کۆمه‌ڵ}}
+* Latin: {{t|la|circulus|m}}, {{t+|la|globus|m}}
+* Latvian: {{t|lv|grupa|f}}
 * Lithuanian: {{t+|lt|grupė|f}}
-* Macedonian: {{t-|mk|група|f|tr=grúpa|sc=Cyrl}}
-* Marathi: {{t-|mr|samooha|sc=Deva}}
+* Macedonian: {{t|mk|група|f|tr=grúpa|sc=Cyrl}}
+* Marathi: {{t|mr|samooha|sc=Deva}}
 * Norwegian: {{t+|no|gruppe}}
-* Occitan: {{t-|oc|grop|m}}
+* Occitan: {{t|oc|grop|m}}
 * Persian: {{t+|fa|گروه|tr=goruh|sc=fa-Arab}}
 * Polish: {{t+|pl|grupa|f}}
 * Portuguese: {{t+|pt|grupo|m}}
-* Romanian: {{t-|ro|grup|n}}
+* Romanian: {{t|ro|grup|n}}
 * Russian: {{t+|ru|группа|f|tr=grúppa}}, {{t+|ru|коллектив|m|tr=kollektív|sc=Cyrl}}
-* Scottish Gaelic: {{t-|gd|cuideachd|f}}
+* Scottish Gaelic: {{t|gd|cuideachd|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-|sh|група|f}}, {{t-|sh|скупина|f}}
-*: Roman: {{t-|sh|grupa|f}}, {{t-|sh|skupina|f}}
+*: Cyrillic: {{t|sh|група|f}}, {{t|sh|скупина|f}}
+*: Roman: {{t|sh|grupa|f}}, {{t|sh|skupina|f}}
 * Sicilian: {{t+|scn|gruppu|m}}
 * Slovene: {{t+|sl|skupina|f}}
 * Spanish: {{t+|es|grupo|m}}
@@ -127,12 +127,12 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 * Swedish: {{t+|sv|grupp|c}}
 * Telugu: {{t+|te|సమూహం|tr=samooham}}, {{t+|te|గుంపు|tr=gumpu}}
 * Ukrainian: {{t+|uk|група|f|tr=hrúpa|sc=Cyrl}}
-* Welsh: {{t-|cy|twr}}
-* West Frisian: {{t-|fy|kloft}}
+* Welsh: {{t|cy|twr}}
+* West Frisian: {{t|fy|kloft}}
 {{trans-bottom}}
 
 {{trans-top|in group theory}}
-* Armenian: {{t-|hy|խումբ|tr=xumb}}
+* Armenian: {{t|hy|խումբ|tr=xumb}}
 * Basque: {{t+|eu|talde}}
 * Chinese:
 *: Mandarin: {{t|cmn|群|tr=qún|sc=Hani}}
@@ -147,25 +147,25 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 * Hebrew: {{t+|he|קבוצה|f}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|csoport}}
-* Icelandic: {{t-|is|grúpa|f}}
+* Icelandic: {{t|is|grúpa|f}}
 * Indonesian: {{t+|id|grup}}
 * Italian: {{t+|it|gruppo|m}}
 * Japanese: {{t+|ja|群|tr=ぐん, gun|sc=Jpan}}
 * Khmer: {{t+|km|ក្រុម|sc=Khmr|tr=krom}}
-* Latin: {{t-|la|circulus|m}}, {{t+|la|globus|m}}
+* Latin: {{t|la|circulus|m}}, {{t+|la|globus|m}}
 * Portuguese: {{t+|pt|grupo|m}}
 * Russian: {{t+|ru|группа|f|tr=grúppa}}
-* Serbo-Croatian: {{t-|sh|grupa|f}}
+* Serbo-Croatian: {{t|sh|grupa|f}}
 * Spanish: {{t+|es|grupo|m}}
 * Swahili: {{t+|sw|kundi}}
 * Swedish: {{t+|sv|grupp|c}}
 {{trans-bottom}}
 
 {{trans-top|people who perform music together}}
-* Armenian: {{t-|hy|խումբ|tr=xumb}}
-* Bashkir: {{tø|ba|төркөм|tr=tӧrkӧm|sc=Cyrl}}
+* Armenian: {{t|hy|խումբ|tr=xumb}}
+* Bashkir: {{t|ba|төркөм|tr=tӧrkӧm|sc=Cyrl}}
 * Basque: {{t+|eu|talde}}
-* Czech: {{t+|cs|skupina|f}}, {{t-|cs|kapela|f}}
+* Czech: {{t+|cs|skupina|f}}, {{t|cs|kapela|f}}
 * Finnish: {{t+|fi|yhtye}}
 * German: {{t+|de|Gruppe|f}}
 * Greek: {{t+|el|συγκρότημα|n|tr=syngkrótima}}
@@ -173,11 +173,11 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 * Hungarian: {{t+|hu|együttes}}
 * Khmer: {{t+|km|ក្រុម|sc=Khmr|tr=krom}}
 {{trans-mid}}
-* Latin: {{t+|la|globus|m}}, {{t-|la|circulus|m}}
+* Latin: {{t+|la|globus|m}}, {{t|la|circulus|m}}
 * Persian: {{t+|fa|گروه|tr=goruh'}}
-* Romanian: {{t-|ro|grup|n}}
+* Romanian: {{t|ro|grup|n}}
 * Russian: {{t+|ru|группа|f|tr=grúppa}}
-* Serbo-Croatian: {{t-|sh|grupa|f}}
+* Serbo-Croatian: {{t|sh|grupa|f}}
 * Spanish: {{t+|es|grupo|m}}
 * Swahili: {{t+|sw|kundi}}
 * Swedish: {{t+|sv|grupp|c}}
@@ -185,7 +185,7 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 
 {{trans-top|small number of galaxies}}
 * Indonesian: {{t+|id|gugus}}
-* Latin: {{t+|la|globus|m}}, {{t-|la|circulus|m}}
+* Latin: {{t+|la|globus|m}}, {{t|la|circulus|m}}
 * Russian: {{t+|ru|группа|f|tr=grúppa}}
 {{trans-mid}}
 * Swahili: {{t+|sw|kundi}}
@@ -193,7 +193,7 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 {{trans-bottom}}
 
 {{trans-top|column in the periodic table}}
-* Armenian: {{t-|hy|խումբ|tr=xumb}}
+* Armenian: {{t|hy|խումբ|tr=xumb}}
 * Catalan: {{t+|ca|grup|m}}
 * Dutch: {{t+|nl|groep|f}}
 * Esperanto: {{t+|eo|grupo}}
@@ -201,17 +201,17 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 * Hungarian: {{t+|hu|csoport}}
 * Italian: {{t+|it|gruppo|m}}
 {{trans-mid}}
-* Latin: {{t+|la|globus|m}}, {{t-|la|circulus|m}}
+* Latin: {{t+|la|globus|m}}, {{t|la|circulus|m}}
 * Portuguese: {{t+|pt|grupo|m}}
 * Russian: {{t+|ru|группа|f|tr=grúppa}}
-* Serbo-Croatian: {{t-|sh|grupa|f}}
+* Serbo-Croatian: {{t|sh|grupa|f}}
 * Spanish: {{t+|es|grupo|m}}
 * Swahili: {{t+|sw|kundi}}
 * Swedish: {{t+|sv|grupp|c}}
 {{trans-bottom}}
 
 {{trans-top|functional entity consisting of certain atoms whose presence provides a certain property to a molecule}}
-* Latin: {{t+|la|globus|m}}, {{t-|la|circulus|m}}
+* Latin: {{t+|la|globus|m}}, {{t|la|circulus|m}}
 * Russian: {{t+|ru|группа|f|tr=grúppa}}
 {{trans-mid}}
 * Swahili: {{t+|sw|kundi}}
@@ -222,11 +222,11 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 *: Mandarin: {{t|cmn|組|sc=Hani}}, {{t|cmn|组|tr=zǔ|sc=Hani}}
 * German: {{t+|de|Gruppe|f}}
 * Indonesian: {{t+|id|kelompok}}
-* Latin: {{t+|la|globus|m}}, {{t-|la|circulus|m}}
+* Latin: {{t+|la|globus|m}}, {{t|la|circulus|m}}
 {{trans-mid}}
 * Russian: {{t+|ru|группа|f|tr=grúppa}}
-* Scottish Gaelic: {{t-|gd|cuideachd|f}}
-* Serbo-Croatian: {{t-|sh|grupa|f}}
+* Scottish Gaelic: {{t|gd|cuideachd|f}}
+* Serbo-Croatian: {{t|sh|grupa|f}}
 * Swahili: {{t+|sw|makundi}}
 {{trans-bottom}}
 
@@ -234,14 +234,14 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 * Chinese:
 *: {{ttbc|cmn}}: {{t|cmn|飛行大隊|sc=Hant}}, {{t|cmn|飞行大队|tr=fēixíng dàduì|sc=Hans}}
 * Hebrew: {{t+|he|להק|f}}
-* Latin: {{t-|la|circulus|m}}, {{t+|la|globus|m}}
+* Latin: {{t|la|circulus|m}}, {{t+|la|globus|m}}
 {{trans-mid}}
 * Russian: {{t+|ru|авиаполк|m|tr=aviapólk}}
 * Swahili: {{t+|sw|makundi}}
 {{trans-bottom}}
 
 {{trans-top|collection of formations or rock strata}}
-* Latin: {{t-|la|circulus|m}}, {{t+|la|globus|m}}
+* Latin: {{t|la|circulus|m}}, {{t+|la|globus|m}}
 {{trans-mid}}
 * Swahili: {{t+|sw|kundi}}, {{t+|sw|makundi}}
 {{trans-bottom}}
@@ -249,10 +249,10 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 {{trans-top|in Unix}}
 * Czech: {{t+|cs|skupina|f}}
 * Finnish: {{t+|fi|ryhmä}}
-* German: {{t-|de|Benutzergruppe|f}}
-* Latin: {{t-|la|circulus}}, {{t+|la|globus|m}}
+* German: {{t|de|Benutzergruppe|f}}
+* Latin: {{t|la|circulus}}, {{t+|la|globus|m}}
 {{trans-mid}}
-* Serbo-Croatian: {{t-|sh|grupa|f}}
+* Serbo-Croatian: {{t|sh|grupa|f}}
 * Swahili: {{t+|sw|makundi}}
 * Swedish: {{t+|sv|grupp|c}}
 {{trans-bottom}}
@@ -268,16 +268,16 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 
 ====Translations====
 {{trans-top|put together to form a group}}
-* Czech: {{t-|cs|seskupit}}
+* Czech: {{t|cs|seskupit}}
 * Dutch: {{t+|nl|groeperen}}
-* Estonian: {{t-|et|rühmitamine}}
-* Finnish: {{t-|fi|ryhmitellä}}, {{t+|fi|luokitella}}, {{t-|fi|ryhmittää}}
+* Estonian: {{t|et|rühmitamine}}
+* Finnish: {{t|fi|ryhmitellä}}, {{t+|fi|luokitella}}, {{t|fi|ryhmittää}}
 * French: {{t+|fr|grouper}}
 * German: {{t+|de|gruppieren}}
-* Italian: {{t-|it|raggruppare}}
+* Italian: {{t|it|raggruppare}}
 {{trans-mid}}
-* Latin: {{t-|la|glomero}}, {{t-|la|circulor}}
-* Romanian: {{t-|ro|grupa}}
+* Latin: {{t|la|glomero}}, {{t|la|circulor}}
+* Romanian: {{t|ro|grupa}}
 * Russian: {{t+|ru|группировать|sc=Cyrl}}
 * Spanish: {{t+|es|agrupar}}
 * Swahili: {{t+|sw|kundi}}
@@ -285,9 +285,9 @@ From {{etyl|fr|en}} {{term|groupe||cluster, group|lang=fr}}, from {{etyl|it|en}}
 {{trans-bottom}}
 
 {{trans-top|come together to form a group}}
-* Esperanto: {{t-|eo|ariĝi}}
+* Esperanto: {{t|eo|ariĝi}}
 {{trans-mid}}
-* Finnish: {{t-|fi|ryhmittyä}}
+* Finnish: {{t|fi|ryhmittyä}}
 {{trans-bottom}}
 
 ===External links===
