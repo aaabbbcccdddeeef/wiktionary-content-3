@@ -376,7 +376,7 @@ From {{etyl|enm|en}} {{term|snow|lang=enm}}, {{term|snaw|lang=enm}}, from {{etyl
 * Ainu: {{t|ain|ウパㇱ|tr=upas}}
 * Albanian: {{t+|sq|borë|f}}
 * Aleut: {{t|ale|qaniigix}}
-* American Sign Language: [[5@SideForeheadhigh-PalmDown-5@SideForeheadhigh-PalmDown SlowWiggle-SlowWiggle 5@SideTrunkhigh-Palmdown-5@SideTrunkhigh-PalmDown]]
+* American Sign Language: {{t|ase|5@SideForeheadhigh-PalmDown-5@SideForeheadhigh-PalmDown SlowWiggle-SlowWiggle 5@SideTrunkhigh-Palmdown-5@SideTrunkhigh-PalmDown|sc=Sgnw}}
 * Amharic: {{t|am|የበረዶ ብናኝ|tr=yäbärädo bnany|sc=Ethi}}
 * Arabic: {{t+|ar|ثلج|m|tr=ṯalj|sc=Arab}}
 *: Egyptian Arabic: {{t|arz|تلج|m|tr=talg|sc=Arab}}
@@ -413,8 +413,8 @@ From {{etyl|enm|en}} {{term|snow|lang=enm}}, {{term|snaw|lang=enm}}, from {{etyl
 * Chinese:
 *: Mandarin: {{t+|cmn|雪|tr=xuě|sc=Hani}}
 * Coptic:
-*: Bohairic: {{t|cop|ⲭⲓⲱⲛ|m|tr=xiōn}}
-*: Sahidic: {{t|cop|ⲭⲓⲱⲛ|m|tr=xiōn}}
+*: {{ttbc|Bohairic}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|cop|ⲭⲓⲱⲛ|m|tr=xiōn}}
+*: {{ttbc|Sahidic}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|cop|ⲭⲓⲱⲛ|m|tr=xiōn}}
 * Cornish: {{t|kw|ergh|m}}
 * Crimean Tatar: {{t|crh|qar}}
 * Czech: {{t+|cs|sníh|m}}
@@ -448,7 +448,7 @@ From {{etyl|enm|en}} {{term|snow|lang=enm}}, {{term|snaw|lang=enm}}, from {{etyl
 * Hindi: {{t+|hi|बर्फ़|f|tr=barf|sc=Deva}}, {{t|hi|हिमपात|tr=himpāt}}
 * Hopi: {{t|hop|nuva}}
 * Hungarian: {{t+|hu|hó}}
-* Icelandic: {{t+|is|snjór|m}},  {{t+|is|snær|m}},  {{t+|is|fönn|f}}
+* Icelandic: {{t+|is|snjór|m}}, {{t+|is|snær|m}}, {{t+|is|fönn|f}}
 * Ido: {{t+|io|nivo}}
 * {{trreq|ig}}
 * Indonesian: {{t+|id|salju}}
@@ -483,8 +483,8 @@ From {{etyl|enm|en}} {{term|snow|lang=enm}}, {{term|snaw|lang=enm}}, from {{etyl
 * Latvian: {{t+|lv|sniegs|m}}
 * {{trreq|lzz}}
 * Lithuanian: {{t+|lt|sniegas|m}}
-* Logudorese Sardinian: {{l|sro|nie}}
-* Lojban: [[carvi]] [[snime]] ([[tanru]])
+* {{ttbc|src}}: {{l|sro|nie}}
+* {{ttbc|jbo}}: {{qualifier|[[tanru]]}} {{t|jbo|[[carvi]] [[snime]]}} <!-- was "[[carvi]] [[snime]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Low German: {{t|nds|Snee|m}}
 * {{trreq|luy}}
 * Luxembourgish: {{t+|lb|Schnéi|m}}
@@ -499,7 +499,7 @@ From {{etyl|enm|en}} {{term|snow|lang=enm}}, {{term|snaw|lang=enm}}, from {{etyl
 * Mingrelian: {{t|xmf|თირი}}
 * Mirandese: {{t|mwl|niebe|f}}
 * Mongolian: {{t|mn|цас|tr=tsas|sc=Cyrl}}
-* Navajo: [[zas]]
+* Navajo: {{t|nv|zas|sc=nv-Latn}}
 * Neapolitan: {{t|nap|neve}}
 * Nepali: {{t|ne|हिउँ|tr=hiũ|sc=Deva}}
 * Norwegian:
@@ -524,12 +524,12 @@ From {{etyl|enm|en}} {{term|snow|lang=enm}}, {{term|snaw|lang=enm}}, from {{etyl
 * Romanian: {{t+|ro|zăpadă|f}}, {{t+|ro|nea|f}}, {{t+|ro|omăt|n}}
 * Romansch: {{t|rm|naiv|m}}, {{t|rm|neiv|m}}, {{t|rm|nev|m}}
 * Russian: {{t+|ru|снег|m|tr=sneg}}
-* Saanich: [[ṈAḴE]]
+* Saanich: {{t|str|ṈAḴE}}
 * Sanskrit: {{t|sa|हिमः|tr=himaḥ|sc=Deva}}
 * Santali: {{t|sat|ᱦᱤᱢ|tr=him|sc=Olck}}
 * Sardinian: {{t|sc|ni}}, {{t|sc|nia}}, {{t|sc|nibe}}, {{t|sc|nive}}
 * Scots: {{t|sco|snaw}}
-* Scottish Gaelic: {{t|gd|sneachda|m}},  {{t|gd|sneachd|m}}
+* Scottish Gaelic: {{t|gd|sneachda|m}}, {{t|gd|sneachd|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|снег|m|sc=Cyrl}}, {{t|sh|сније̑г|m|sc=Cyrl}}, {{t|sh|сниг|m|sc=Cyrl}}
 *: Roman: {{t|sh|sneg|m}}, {{t|sh|snijȇg|m}}, {{t|sh|snig|m}}
@@ -649,7 +649,7 @@ From {{etyl|enm|en}} {{term|snow|lang=enm}}, {{term|snaw|lang=enm}}, from {{etyl
 * Korean: {{t+|ko|강설|tr=gangseol|sc=Kore}} ([[降雪]])
 * Latgalian: {{t|ltg|snigšona|f}}
 {{trans-mid}}
-* Lojban: [[snime]]
+* Lojban: {{t|jbo|snime}}
 * Luxembourgish: {{t|lb|Schnéifall|m}}
 * Norwegian: {{t+|no|snøfall|n}}
 * Portuguese: {{t+|pt|nevada|f}}
@@ -662,9 +662,9 @@ From {{etyl|enm|en}} {{term|snow|lang=enm}}, {{term|snaw|lang=enm}}, from {{etyl
 
 {{checktrans-top}}
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
-* {{ttbc|br}}: [[erc'h]] {{g|m}} (1)
-* {{ttbc|iu}}: [[ᐊᐳ]] (apu) or [[ᐊᐳᑦ]] ([[aput]]) (1)<!-- script needs to be checked -->
-* {{ttbc|th}}: {{Thai|[[หิมะ]]}} (hema)
+* {{ttbc|br}}: {{qualifier|1}} {{t|br|erc'h|m}}
+* {{ttbc|iu}}: {{t|iu|ᐊᐳ|tr=apu|sc=Cans}} or [[ᐊᐳᑦ]] ([[aput]]) (1)<!-- script needs to be checked -->
+* {{ttbc|th}}: {{t|th|หิมะ|tr=hema|sc=Thai}}
 {{trans-bottom}}
 
 ====Verb====
@@ -690,9 +690,10 @@ From {{etyl|enm|en}} {{term|snow|lang=enm}}, {{term|snaw|lang=enm}}, from {{etyl
 {{trans-top|have snow fall from the sky}}
 * Afrikaans: {{t|af|sneeu}}
 * Armenian: {{t|hy|ձյուն գալ|tr=jyun gal}}
-* Breton: [[ober]] [[erc'h]]
+* {{ttbc|br}}: {{t|br|[[ober]] [[erc'h]]}} <!-- was "[[ober]] [[erc'h]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Catalan: {{t+|ca|nevar}}
-* Chinese: [[下雪]] (xià xuě)
+* Chinese:
+*: Mandarin: {{t|cmn|下雪|tr=xià xuě|sc=Hani}}
 * Czech: {{t|cs|sněžit}}
 * Danish: {{t+|da|sne}}
 * Dutch: {{t+|nl|sneeuwen}}
@@ -706,25 +707,24 @@ From {{etyl|enm|en}} {{term|snow|lang=enm}}, {{term|snaw|lang=enm}}, from {{etyl
 * Hungarian: {{t+|hu|havazik}}, {{t+|hu|esik a hó}}
 * Icelandic: {{t+|is|snjóa}}, {{t|is|fenna}}
 * Italian: {{t+|it|nevicare}}
-* Japanese: [[雪]]が[[降る]] (yuki ga furu)
-* Korean: [[눈]]이 [[오다]] (nun-i oda), 눈이 [[내리다]] (nun-i naerida)
+* {{ttbc|ja}}: {{t|ja|[[雪]]が[[降る]]|tr=yuki ga furu|sc=Jpan}} <!-- was "[[雪]]が[[降る]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|ko}}: {{t|ko|[[눈]]이 [[오다]]|tr=nun-i oda|sc=Kore}} <!-- was "[[눈]]이 [[오다]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|ko|내리다|tr=nun-i naerida|alt=눈이 내리다|sc=Kore}} <!-- was "눈이 [[내리다]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Latgalian: {{t|ltg|snigt}}
 * Latin: {{t|la|ningit}}
 {{trans-mid}}
-* Latvian: [[snigt]]
+* Latvian: {{t|lv|snigt}}
 * Lithuanian: {{t|lt|snigti}}
 * Luxembourgish: {{t|lb|schneien}}
 * Neapolitan: {{t|nap|cioccà}}
 * Norwegian:
 *: Bokmål: {{t+|no|snø}}
 *: Nynorsk: {{t|nn|snøe}}, {{t|nn|snø}}
-* Old English: {{t|ang|sníwan}}
+* Old English: {{t|ang|snīwan}}
 * Polish: {{t+|pl|padać}}, {{t|pl|prószyć}}, {{t+|pl|sypać}}
 * Portuguese: {{t+|pt|nevar}}
-* Romanian: a [[ninge]]
+* Romanian: {{t|ro|ninge|alt=a ninge}}
 * Russian: {{t|ru|снежить|tr=snežít’|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|cuir an t-sneachda}}
-* <strong class="error"><span class="scribunto-error" id="mw-scribunto-error-0">Script error<!--Lua error in Module:language_utilities at line 11: The language code &quot;diq&quot; is not valid.--></span></strong>: {{t|diq|vor varen}}
 * Slovak: {{t|sk|snežiť}}
 * Slovene: {{t|sl|snežíti}}
 * Sotho: {{t|st|kgetheha}}
@@ -734,20 +734,20 @@ From {{etyl|enm|en}} {{term|snow|lang=enm}}, {{term|snaw|lang=enm}}, from {{etyl
 * Venetian: {{t+|vec|nevegar}}
 * Vietnamese: {{t|vi|có tuyết rơi}}
 * West Frisian: {{t|fy|snije}}
+* {{ttbc|zza}}: {{t|zza|vor varen}}
 {{trans-bottom}}
 
 {{trans-top|hoodwink by presenting confusing information}}
-* Finnish: [[huiputtaa]], [[puliveivata]] {{qualifier|colloquial}}, [[huijata]]
+* Finnish: {{t|fi|huiputtaa}}, {{qualifier|colloquial}} {{t|fi|puliveivata}}, {{t|fi|huijata}}
 {{trans-mid}}
 {{trans-bottom}}
 
 =====References=====
-
 * {{reference-book
-| title = Super/System: A course in power poker
-| author = [[Doyle Brunson|Brunson, Doyle]]
-| publisher = B&G Publishing Company
-| year = 1978}}
+|title = Super/System: A course in power poker
+|author = [[Doyle Brunson|Brunson, Doyle]]
+|publisher = B&G Publishing Company
+|year = 1978}}
 
 ====See also====
 {{top2}}
@@ -788,10 +788,7 @@ Low German {{term|Snaue|lang=de}}, or {{etyl|nl|en}} {{term|snaauw|lang=nl}}, fr
 {{Webster 1913}}
 
 ===Anagrams===
-* [[nows#English|nows]]
-* [[owns#English|owns]]
-* [[sown#English|sown]]
-* [[wons#English|wons]]
+* [[nows#English|nows]], [[owns#English|owns]], [[sown#English|sown]], [[wons#English|wons]]
 
 [[Category:1000 English basic words]]
 [[Category:en:Colors]]
