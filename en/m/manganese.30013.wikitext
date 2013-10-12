@@ -8,7 +8,7 @@
 * [[manganesum]] {{qualifier|obsolete}}
 
 ===Etymology===
-{{etyl|fr|en}} ''[[manganèse]]'', from {{etyl|it|en}} [[manganese#Italian|manganese]], by alteration from {{etyl|la|en}} ''[[magnesia#Latin|magnesia]], magnesia, from Ancient Greek ''[[μαγνησία]]'' (magnēsia), after ''[[Μαγνησία]]'' (Magnēsia), [[Magnesia]]
+{{etyl|fr|en}} {{term|manganèse|lang=fr}}, from {{etyl|it|en}} {{term|manganese|lang=it}}, by alteration from {{etyl|la|en}} {{term|magnesia||magnesia|lang=la}}, from {{etyl|grc|en}} {{term|μαγνησία|tr=magnēsia|lang=grc}}, after {{term|Μαγνησία|tr=Magnēsia||[[Magnesia]]|lang=grc}}.
 
 ===Pronunciation===
 * {{a|US}} {{IPA|/ˈmæŋɡəniz/}} {{X-SAMPA|/"m{Ng@niz/}}
@@ -101,18 +101,18 @@
 
 ====Translations====
 {{trans-top|chemical element}}
-* Afrikaans: [[mangaan]]
+* Afrikaans: {{t|af|mangaan}}
 * Albanian: {{t|sq|mangan}}
 * Arabic: {{t|ar|منجنيز|tr=manganīz|m}}
 * Armenian: {{t|hy|մանգան|tr=mangan}}
-* Basque: [[manganesoa]]
-* Belarusian: [[марганец]] (márhanets) {{g|m}}
+* Basque: {{t|eu|manganesoa}}
+* Belarusian: {{t|be|марганец|tr=márhanets|m}}
 * Breton: {{t|br|manganez|m}}
 * Bulgarian: {{t|bg|манган|m|tr=mangán}}
 * Catalan: {{t|ca|manganès|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|錳|tr=měng|sc=Hani}}
-* Cornish: [[manganus]]
+* Cornish: {{t|kw|manganus}}
 * Czech: {{t+|cs|mangan}}
 * Danish: {{t|da|mangan}}
 * Dutch: {{t+|nl|mangaan|n}}, {{t|nl|manganium|n}}
@@ -121,9 +121,9 @@
 * Faroese: {{t|fo|mangan}}
 * Finnish: {{t+|fi|mangaani}}
 * French: {{t+|fr|manganèse|m}}
-* Friulian: [[manganês]]
-* Galician: [[manganeso]]
-* Georgian: [[მარგანეცი]] (marganetsi)
+* Friulian: {{t|fur|manganês}}
+* Galician: {{t|gl|manganeso|m}}
+* Georgian: {{t|ka|მარგანეცი|tr=marganetsi}}
 * German: {{t+|de|Mangan|n}}
 * Greek: {{t+|el|μαγγάνιο|n|tr=mangánio}}
 * Hebrew: {{t+|he|מנגן|tr=mangán}}
@@ -134,26 +134,26 @@
 * Irish: {{t+|ga|mangainéis}}
 * Italian: {{t+|it|manganese}}
 * Japanese: {{t+|ja|マンガン|tr=mangan}}
-* Kashubian: [[mangan]]
+* Kashubian: {{t|csb|mangan}}
 * Kazakh: {{t|kk|марганец|tr=marganets|sc=Cyrl}}
 {{trans-mid}}
-* Korean: [[망간]] (manggan),  {{t|ko|망가니즈|tr=mangganijeu|sc=Hang}}
+* Korean: {{t|ko|망간|tr=manggan}},  {{t|ko|망가니즈|tr=mangganijeu|sc=Hang}}
 * Latin: {{t+|la|manganum}}
-* Latvian: [[mangāns]]
+* Latvian: {{t|lv|mangāns}}
 * Lithuanian: {{t+|lt|manganas}}
-* Luxembourgish: [[Mangan]]
-* Macedonian: [[манган]] (mangan) {{g|m}}
+* Luxembourgish: {{t|lb|Mangan}}
+* Macedonian: {{t|mk|манган|tr=mangan|m}}
 * Malay: {{t|ms|mangan}}, {{t|ms|batu kawi}}
-* Maltese: [[manganiż]]
-* Manx: [[manganais]]
-* Mongolian: [[манган]] (mangan)
+* Maltese: {{t|mt|manganiż}}
+* Manx: {{t|gv|manganais}}
+* Mongolian: {{t|mn|манган|tr=mangan}}
 * Norwegian: {{t+|no|mangan}}
 * Persian: {{t+|fa|منگنز|tr=mangènèz}}
 * Polish: {{t+|pl|mangan|m}}
-* Portuguese: [[manganês]] {{g|m}} {{qualifier|Brazil}}, [[manganésio]] {{qualifier|Portugal}}
+* Portuguese: {{t|pt|manganês|m}} {{qualifier|Brazil}}, {{t|pt|manganésio|m}} {{qualifier|Portugal}}
 * Romanian: {{t+|ro|mangan|n}}
 * Russian: {{t+|ru|марганец|m|tr=márganets}}
-* Scottish Gaelic: [[mangaineis]]
+* Scottish Gaelic: {{t|gd|mangaineis}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|ма̀нга̄н|m|sc=Cyrl}}
 *: Roman: {{t|sh|màngān|m}}
@@ -162,10 +162,10 @@
 * Spanish: {{t+|es|manganeso|m}}
 * Swedish: {{t+|sv|mangan|n}}
 * Tajik: {{t|tg|mangan}}
-* Tamil: [[செவ்விரும்பு]] (sevvirumbu)
-* Thai: {{Thai|[[แมงกานีส]]}} (maengkānīt)
+* Tamil: {{t|ta|செவ்விரும்பு|tr=sevvirumbu}}
+* Thai: {{t|th|แมงกานีส|tr=maengkānīt}}
 * Turkish: {{t+|tr|mangan}}
-* Ukrainian: [[марганець]] (marhanets’) {{g|m}}
+* Ukrainian: {{t|uk|марганець|tr=marhanets’|m}}
 * Uzbek: {{t|uz|марганец|tr=marganets|sc=Cyrl}}
 * Vietnamese: {{t|vi|mangan}}
 * Volapük: {{t+|vo|manganin}}
@@ -174,7 +174,7 @@
 {{trans-bottom}}
 
 ====External links====
-* [[w:Manganese|Wikipedia article on Manganese]]
+* {{pedialite}}
 
 ===See also===
 * [[Condy's crystals]]
