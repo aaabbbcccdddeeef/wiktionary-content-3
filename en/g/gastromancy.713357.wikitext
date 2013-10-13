@@ -4,7 +4,7 @@
 * [[gastronomancy]]
 
 ===Etymology===
-{{etyl|grc|en}} ''gastro-'' stem from the {{etyl|grc|en}} ''gaster'', the [[belly]], and also the wide part of a bottle.
+{{etyl|grc|en}} <span lang="grc">γαστρό-</span> stem from the {{etyl|grc|en}} {{term|γαστήρ||belly|lang=grc}}, also the wide part of a bottle.
 
 ===Noun===
 {{en-noun|-}}
@@ -23,9 +23,20 @@
 *: The methods [of scrying] varied according to the nature of the shiny object used and the medium employed... Sometimes the term gastromancy ('divination by the belly') was used, because the vessel filled with water was called gastra 'belly-shaped vessel'.
 
 ====Translations====
-* Ancient Greek: {{t|grc|γαστρομαντεύομαι|tr=gastromanteuomai|sc=polytonic}}
-* French: {{t|fr|gastromancie}}
-* Latin: {{t|la|gastromantia}} (New Latin)
+{{trans-top|divination by interpreting the sounds and signs of the belly}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|divination by noting magical visions in large-bellied glasses}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* {{ttbc|grc}}: {{t|grc|γαστρομαντεύομαι|tr=gastromanteuomai|sc=polytonic}}
+* {{ttbc|fr}}: {{t|fr|gastromancie|f}}
+{{trans-mid}}
+* {{ttbc|la}}: {{qualifier|New Latin}} {{t|la|gastromantia}}
+{{trans-bottom}}
 
 [[Category:en:Divination]]
 
