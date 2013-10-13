@@ -85,7 +85,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 *: Old Armenian: {{t|hy|կեամ|tr=keam}}
 * Aromanian: {{t|rup|bãnedz}}
 * Azeri: {{t+|az|yaşamaq}}
-* Belarusian: {{t|be|жыць|tr=žycʹ}} {{impf}}
+* Belarusian: {{t|be|жыць|impf}}
 * Berber:
 *: Tashelhit: {{t|shi|ddr}}
 * Breton: {{t|br|beva}}
@@ -106,7 +106,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Finnish: {{t+|fi|elää}}
 * French: {{t+|fr|vivre}}
 * Galician: {{t|gl|vivir}}
-* Georgian: {{t|ka|სიცოცხლე|tr=sic’oc’xle|sc=Geor}}, {{t|ka|ცხოვრება|tr=c’xovreba|sc=Geor}}
+* Georgian: {{t|ka|სიცოცხლე|sc=Geor}}, {{t|ka|ცხოვრება|sc=Geor}}
 * German: {{t+|de|leben}}
 * Greek: {{t+|el|ζω|tr=zo}}
 * Hebrew: {{t+|he|חי|tr=ḥai|sc=Hebr}}
@@ -150,7 +150,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Romani: {{t|rom|zhuvel}}
 * Romanian: {{t+|ro|trăi}}
 * Romansch: {{t|rm|viver}}
-* Russian: {{t+|ru|жить|tr=žitʹ}} {{impf}}, {{t+|ru|прожить|tr=prožítʹ}} {{pf.}}
+* Russian: {{t+|ru|жить|impf}}, {{t+|ru|прожить|pf}}
 * Sanskrit: {{t|sa|जीवति|tr=jīvati}}
 * Scots: {{t|sco|leeve}}
 * Scottish Gaelic: {{t|gd|bi}} {{t|gd|beò}}
@@ -161,6 +161,8 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Sinhalese: {{t|si|ජීවත් වෙනවා|tr=jīvat vanavā|sc=Sinh}}
 * Slovak: {{t|sk|žiť}}
 * Slovene: {{t|sl|živéti}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|[[žywy]] [[byś]]|impf}}
 * Sotho: {{t+|st|phela}}
 * Spanish: {{t+|es|vivir}}
 * Swahili: {{t+|sw|ishi}}
@@ -200,7 +202,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Filipino: {{t|tl|manirahan}}
 * Finnish: {{t+|fi|asua}}, {{t+|fi|elää}}
 * French: {{t+|fr|habiter}}, {{t+|fr|demeurer}}
-* Georgian: {{t|ka|ცხოვრება|tr=tskhovreba|sc=Geor}}
+* Georgian: {{t|ka|ცხოვრება|sc=Geor}}
 * German: {{t+|de|wohnen}}, {{t+|de|leben}}
 * Greek: {{t+|el|μένω|tr=méno}}
 * Hebrew: {{t+|he|גָּר|tr=gar|sc=Hebr}}
@@ -228,7 +230,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Portuguese: {{t+|pt|viver}}, {{t+|pt|morar}}
 * Romani: {{t|rom|beshel}}
 * Romanian: {{t+|ro|locui}}, {{t|ro|a avea locuință}}
-* Russian: {{t+|ru|жить|tr=žitʹ}} {{impf}}, {{t+|ru|проживать|tr=proživátʹ}} {{impf}}
+* Russian: {{t+|ru|жить|impf}}, {{t+|ru|проживать|impf}}
 * Scots: {{t|sco|bide}}
 * Scottish Gaelic: {{t|gd|fuirich}}, {{t|gd|còmhnaich}}
 * Serbo-Croatian:
@@ -238,7 +240,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Slovak: {{t|sk|žiť}}, {{t|sk|bývať}}
 * Slovene: {{t|sl|živéti}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb|bydliś}}
+*: Lower Sorbian: {{t|dsb|bydliś|impf}}
 * Sotho: {{t+|st|dula}}
 * Spanish: {{t+|es|vivir}}
 * Swahili: {{t+|sw|ishi}}
@@ -277,6 +279,8 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Scottish Gaelic: {{t|gd|mair}}
 * Slovak: {{t|sk|prežiť}}, {{t|sk|zažiť}}
 * Slovene: {{t+|sl|živeti}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|[[žywy]] [[byś]]|impf}}
 * Swahili: {{t+|sw|ishi}}
 * Swedish: {{t+|sv|leva}}
 * Turkish: {{t+|tr|yaşamak}}
