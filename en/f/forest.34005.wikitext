@@ -17,7 +17,7 @@ From {{etyl|enm|en}} {{term/t|enm|forest}}, from {{etyl|fro|en}} {{term/t|fro|fo
 * {{audio|En-uk-forest.ogg|Audio (UK)}}
 * {{a|US}} {{enPR|fôr′ĭst|fŏr′ĭst|′fôrst}}, {{IPA|/ˈfɔɹᵻst/|/ˈfɑɹᵻst/|/ˈfoɚst/}}
 * {{audio|En-us-forest.ogg|Audio (US)}}
-* {{homophones|forced}} {{qualifier|some American accents}}
+* {{homophones|lang=en|forced}} {{qualifier|some American accents}}
 
 ===Noun===
 {{en-noun}}
@@ -282,8 +282,9 @@ From {{etyl|enm|en}} {{term/t|enm|forest}}, from {{etyl|fro|en}} {{term/t|fro|fo
 {{frm-noun|f}}
 
 # [[#English|forest]]
-#: ''Mais quand il eut mis fin a ses parolles, & que semblablement les '''forestz''' resonnãtes se furent appaisées'' {{...}} ([[s:fr:L’Arcadie-Trad-Massin|L’Arcadie-Trad-Massin]], published 1544, Paris)
-#:: But when he had finished talking, and the '''forests''' felt appeased {{...}}
+#* '''1544''', [[s:fr:L’Arcadie-Trad-Massin|L’Arcadie-Trad-Massin]], Paris:
+#*: {{Latn|lang=frm|Mais quand il eut mis fin a ses parolles, & que semblablement les '''forestz''' resonnãtes se furent appaisées {{...}}}}
+#*:: But when he had finished talking, and the '''forests''' felt appeased {{...}}
 
 ----
 
@@ -297,7 +298,7 @@ From {{etyl|enm|en}} {{term/t|enm|forest}}, from {{etyl|fro|en}} {{term/t|fro|fo
 ====Descendants====
 * English: [[#English|forest]]
 * [[Middle French]]: {{l/frm|forest}}
-** French: {{l|fr|forêt}}
+** French: {{l/fr|forêt}}
 
 [[az:forest]]
 [[zh-min-nan:forest]]
