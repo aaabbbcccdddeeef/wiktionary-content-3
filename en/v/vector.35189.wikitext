@@ -17,21 +17,22 @@ The "person or entity that passes along an urban legend or other meme" sense der
 ===Noun===
 {{en-noun}}
 
-# {{context|mathematics|lang=en}} A [[directed]] [[quantity]], one with both [[magnitude]] and [[direction]]; the [[signed]] [[difference]] between two [[points]].
+# {{cx|mathematics|lang=en}} A [[directed]] [[quantity]], one with both [[magnitude]] and [[direction]]; the [[signed]] [[difference]] between two [[points]].
 #* {{quote-book|passage=As examples of '''vector''' quantities may be mentioned the distance between any two given points, a velocity, a force, an acceleration, angular velocity, intensity of magnetization flux of heat.|title=[[S:The New Student's Reference Work/Vector|The New Student's Reference Work]]|year=1914}}
-# {{context|mathematics|lang=en}} An [[order]]ed [[tuple]] representing a [[directed]] [[quantity]] or the {{soplink|signed|difference}} between two points.
-# {{context|mathematics|lang=en}} Any member of a ([[generalize]]d) [[vector space]].
+# {{cx|mathematics|lang=en}} An [[order]]ed [[tuple]] representing a [[directed]] [[quantity]] or the {{soplink|signed|difference}} between two points.
+# {{cx|mathematics|lang=en}} Any member of a ([[generalize]]d) [[vector space]].
 #: ''The '''vectors''' in <math>{\mathbb Q}[X]</math> are the single-variable polynomials with rational coefficients: one is <math>x^{42}+\frac1{137}x-1</math>.''
-# {{context|aviation|lang=en}} A chosen [[course]] or [[direction]] for [[motion]], as of an [[aircraft]].
-#{{senseid|en|carrier of a disease-causing agent}}{{context|epidemiology|lang=en}} A [[carrier]] of a [[disease]]-causing [[agent]].
-# {{context|sociology|lang=en}} A person or entity that passes along an [[urban legend]] or other [[meme]].
-# {{context|psychology|lang=en}} A recurring psychosocial issue that stimulates growth and development in the personality.
+# {{cx|aviation|lang=en}} A chosen [[course]] or [[direction]] for [[motion]], as of an [[aircraft]].
+#{{senseid|en|carrier of a disease-causing agent}}{{cx|epidemiology|lang=en}} A [[carrier]] of a [[disease]]-causing [[agent]].
+# {{cx|sociology|lang=en}} A person or entity that passes along an [[urban legend]] or other [[meme]].
+# {{cx|psychology|lang=en}} A recurring psychosocial issue that stimulates growth and development in the personality.
 # The way in which the eyes are drawn across the visual text. The trail that a book cover can encourage the eyes to follow from certain objects to others.{{rfex|lang=en}}
-# {{context|computing|operating systems|lang=en}} A memory address containing the address of a [[code entry point]], usually one which is part of a [[table]] and often one that is [[dereference|dereferenced]] and [[jump|jumped]] to during the execution of an [[interrupt]].
-# {{context|programming|lang=en}} A one-dimensional [[array]].
+# {{cx|computing|operating systems|lang=en}} A memory address containing the address of a [[code entry point]], usually one which is part of a [[table]] and often one that is [[dereference|dereferenced]] and [[jump|jumped]] to during the execution of an [[interrupt]].
+# {{cx|programming|lang=en}} A one-dimensional [[array]].
 
 ====Usage notes====
 * {{sense|programming}} The term {{term||vector|lang=en}} is used loosely when the indices are not (either positive or non-negative) integers.
+* {{sense|epidemiology}} This word my cause sociological issues, especially when the abbreviation [[HRT]] is involved.
 
 ====Derived terms====
 * [[change vector]]
