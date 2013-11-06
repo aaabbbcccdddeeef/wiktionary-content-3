@@ -9,15 +9,19 @@ From mediaeval {{etyl|la|en}} ''[[incommensurabilis]]''.
 ===Adjective===
 {{en-adj}}
 
-# {{context|mathematics|lang=en}} That cannot be measured as an [[integer]] or [[fraction]]; [[irrational]].
+# {{cx|mathematics|lang=en}} Of two real numbers, such that their ratio is not a fraction of two integers.
+# {{cx|arithmetic}} Of two integers, having no common integer divisor except 1.
 # Not able to be measured by the same standards as another term in the context; see [[measurement]]; contrast with [[unmeasurable]] or [[immeasurable]], each of which means not able to be measured at all, the former more generally, the latter generally due to some infinite quality of the thing being described
 #: ''The side and diagonal of a square are '''incommensurable''' with each other; the diameter and circumference of a circle are '''incommensurable'''.''
 
 ====Translations====
-{{trans-top|in mathematics}}
+{{trans-top|having no common divisor except 1}}
 * Czech: {{t|cs|nesoudělný|m}}
 {{trans-mid}}
-* Swedish: [[inkommensurabel]]
+{{trans-bottom}}
+
+{{checktrans-top}}
+* {{ttbc|Swedish}}: [[inkommensurabel]]
 {{trans-bottom}}
 
 {{trans-top|of two aspects or attributes}}
@@ -32,6 +36,11 @@ From mediaeval {{etyl|la|en}} ''[[incommensurabilis]]''.
 # An incommensurable value or quantity; an [[irrational number]].
 #* '''1946''', Bertrand Russell, ''History of Western Philosophy'', ch. 3:
 #*: Unfortunately for Pythagoras, his theorem led at once to the discovery of '''incommensurables''', which appeared to disprove his whole philosophy.
+
+===External links===
+* {{R:Webster 1913}}
+* {{R:Century 1911}}
+* {{R:OneLook}}
 
 [[et:incommensurable]]
 [[el:incommensurable]]
