@@ -38,9 +38,9 @@ From {{etyl|enm|en}} < {{etyl|fro|en}} {{term|veine|lang=fro}} < {{etyl|la|en}} 
 ====Translations====
 {{trans-top|blood vessel}}
 * Afrikaans: {{t|af|aar}}
-* Albanian: {{t|sq|damar}}, {{t|sq|venë|f}}
-* Arabic: {{t|ar|وريد|m|tr=warīd}}, {{t|ar|عرق|m|tr=ʕirq}}
-*: Egyptian Arabic: {{t|arz|وريد|m|tr=warīd|sc=Arab}}, {{t|arz|عرق|m|tr=ʕerʔ|sc=Arab}}
+* Albanian: {{t|sq|damar|m}}, {{t|sq|venë|f}}
+* Arabic: {{t|ar|وريد|m|tr=warīd}}, {{t|ar|عرق|m|tr=ʿirq}}
+*: Egyptian Arabic: {{t|arz|وريد|m|tr=warīd|sc=Arab}}, {{t|arz|عرق|m|tr=ʿerʾ|sc=Arab}}
 * Armenian: {{t+|hy|երակ|tr=erak}}
 * Aromanian: {{t|rup|vinã|f}}
 * Azeri: {{t+|az|vena}}
@@ -49,13 +49,13 @@ From {{etyl|enm|en}} < {{etyl|fro|en}} {{term|veine|lang=fro}} < {{etyl|la|en}} 
 * Bengali: {{t|bn|শিরা|tr=shira|sc=Beng}}
 * Bulgarian: {{t+|bg|жи́ла|f|sc=Cyrl}}
 * Burmese: {{t+|my|သွေးကြော|tr=thwei: gjo:|sc=Mymr}}
-* Catalan: [[vena]] {{g|f}}
+* Catalan: {{t|ca|vena|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|靜脈|sc=Hani}}, {{t|cmn|静脉|tr=jìngmài|sc=Hani}}
 * Czech: {{t+|cs|žíla|f}}
 * Dalmatian: {{t|dlm|vaina|f}}
 * Dutch: {{t+|nl|ader|m}}
-* Erzya: [[верь сан]] (ver san)
+* Erzya: {{t|myv|верь сан|tr=ver san|sc=Cyrl}}
 * Esperanto: {{t|eo|vejno}}
 * Estonian: {{t|et|veen}}
 * Faroese: {{t|fo|æðr|f}}
@@ -66,7 +66,7 @@ From {{etyl|enm|en}} < {{etyl|fro|en}} {{term|veine|lang=fro}} < {{etyl|la|en}} 
 * German: {{t+|de|Vene|f}}
 * Greek: {{t+|el|φλέβα|f|tr=fléva}}
 *: Ancient: {{t|grc|φλέψ|f|tr=fleps}}
-* Hebrew: [[וריד]] (vrid) {{g|m}}
+* Hebrew: {{t|he|וריד|m|tr=vrid|sc=Hebr}}
 * Hindi: {{t|hi|शिरा|m|tr=śirā|sc=Deva}}
 * Hungarian: {{t+|hu|ér}}, {{t+|hu|véna}}
 * Icelandic: {{t+|is|æð|f}}
@@ -77,7 +77,7 @@ From {{etyl|enm|en}} < {{etyl|fro|en}} {{term|veine|lang=fro}} < {{etyl|la|en}} 
 * Jèrriais: {{t|roa-jer|veine|f}}
 * Kazakh: {{t|kk|вена|sc=Cyrl}}, {{t|kk|көк тамыр|sc=Cyrl}}
 {{trans-mid}}
-* {{trreq|Khmer}}
+* {{trreq|km}}
 * Korean: {{t+|ko|정맥|sc=Hang}}
 * Kyrgyz: {{t|ky|вена|sc=Cyrl}}, {{t|ky|көк кан тамыры|sc=Cyrl}}
 * Lao: {{t|lo|ສາຍເລືອດດຳ|tr=sǎːylɨ̂at dàm|sc=Laoo}}, {{t|lo|ເສັ້ນເລືອດດຳ|tr=sȅnlɨ̂at dàm|sc=Laoo}}
@@ -95,12 +95,12 @@ From {{etyl|enm|en}} < {{etyl|fro|en}} {{term|veine|lang=fro}} < {{etyl|la|en}} 
 * Portuguese: {{t+|pt|veia|f}}
 * Romanian: {{t|ro|venă|f}}, {{t|ro|vână}}
 * Romansch: {{t|rm|avaina|f}}, {{t|rm|avagna|f}}
-* Russian: {{t+|ru|вена|f|tr=véna}}, {{t+|ru|жила|f|tr=žíla}}
+* Russian: {{t+|ru|ве́на|f}}, {{t+|ru|жи́ла|f}}
 * Sardinian: {{t|sc|vena|f}}, {{t|sc|bena|f}}, {{t|sc|benu}}
-* Scottish Gaelic: [[cuisle]] {{g|f}}
+* Scottish Gaelic: {{t|gd|cuisle|f}}
 * Serbo-Croatian:
-*: Cyrillic: [[вена]] {{g|f}}, {{t|sh|жила|f}}
-*: Roman: [[vena]] {{g|f}}, {{t|sh|žila|f}}
+*: Cyrillic: {{t|sh|вена|f|sc=Cyrl}}, {{t|sh|жила|f}}
+*: Roman: {{t|sh|vena|f}}, {{t|sh|žila|f}}
 * Slovak: {{t|sk|žila|f}}
 * Slovene: {{t|sl|vena|f}}
 * Spanish: {{t+|es|vena|f}}
@@ -108,7 +108,7 @@ From {{etyl|enm|en}} < {{etyl|fro|en}} {{term|veine|lang=fro}} < {{etyl|la|en}} 
 * Swedish: {{t+|sv|ven|c}}
 * Tagalog: {{qualifier|literally}} {{t+|tl|ugat|n}}, {{t|tl|bena}}
 * Tajik: {{t|tg|раги варид|sc=Cyrl}}, {{t|tg|вена|sc=Cyrl}}
-* Telugu: [[సిర]] (sira)
+* Telugu: {{t|te|సిర|tr=sira|sc=Telu}}
 * Thai: {{t|th|หลอดเลือดดำ|tr=lòt lêuat dam|sc=Thai}}
 * Tok Pisin: {{t|tpi|mambu bilong blut}}
 * Turkish: {{t+|tr|damar}}
