@@ -13,7 +13,7 @@
 ====Translations====
 {{trans-top|a person from the country of Australia or of Australian descent}}
 * Arabic: {{t|ar|أسترالي|m|tr=ʾustrālī}}, {{t|ar|أسترالية|f|tr=ʾustrāliyya}}
-* {{trreq|Armenian}}
+* {{trreq|hy}}
 * Asturian: {{t+|ast|australianu|m}}
 * Azeri: {{t|az|avstraliyalı}}
 * Belarusian: {{t|be|аўстралі́ец|m|sc=Cyrl}}, {{t|be|аўстралі́йка|f|sc=Cyrl}}
@@ -21,9 +21,9 @@
 * Catalan: {{t|ca|australià}}
 * Chinese:
 *: Mandarin: {{t|cmn|澳大利亞人|sc=Hani}}, {{t+|cmn|澳大利亚人|tr=Aòdàlìyàrén|sc=Hani}}, {{t+|cmn|澳洲人|tr=Àozhōurén|sc=Hani}}
-* Czech: [[Australan]] {{g|m}}, [[Australanka]] {{g|f}}
+* Czech: {{t|cs|Australan|m}}, {{t|cs|Australanka|f}}
 * Dutch: {{t+|nl|Australiër|m}}, {{t+|nl|Australische|f}}
-* Estonian: [[austraallane]] (''man or woman''), [[austraallanna]] (woman; no grammatical gender)
+* Estonian: {{qualifier|man or woman}} {{t|et|austraallane}}, {{qualifier|woman; no grammatical gender}} {{t|et|austraallanna}}
 * Finnish: {{t+|fi|australialainen}}
 * French: {{t+|fr|Australien|m}}, {{t+|fr|Australienne|f}}
 * Galician: {{t|gl|australiano|m}}
@@ -39,7 +39,7 @@
 {{trans-mid}}
 * Khmer: {{t|km|ជនជាតិអូស្ត្រាលី|sc=Khmr|tr=chɔɔn chiet oostraalii}}
 * Korean: {{t|ko|오스트레일리아 사람|tr=Oseuteureillia saram|sc=Hang}}, {{t|ko|호주 사람|tr=Hoju saram|sc=Hang}}, {{t|ko|오스트레일리아인|tr=Oseuteureillia-in|sc=Hang}}
-* Maltese: [[Awstraljan]] {{g|m}}, [[Awstraljana]] {{g|f}}, [[Awstraljani]] {{g|p}}
+* Maltese: {{t|mt|Awstraljan|m}}, {{t|mt|Awstraljana|f}}, {{t|mt|Awstraljani|p}}
 * Manx: {{t|gv|Austrailagh}}
 * Marathi: {{t|mr|ऑस्ट्रेलियन|tr=ǒsṭrēliyana|sc=Deva}}
 * Norwegian:
@@ -48,10 +48,10 @@
 * Occitan: {{t|oc|australian|m}}
 * Polish: {{t+|pl|Australijczyk|m}}, {{t+|pl|Australijka|f}}
 * Portuguese: {{t+|pt|australiano}}
-* Romanian: australian {{g|m}}, [[austrliancă]] {{g|f}}, [[australieni]] ''m pl'', [[australience]] ''f pl''
+* {{ttbc|ro}}: {{t|ro|australian|m}}, {{t|ro|austrliancă|f}}, {{t|ro|australieni|m-p}}, {{t|ro|australience|f-p}}
 * Russian: {{t+|ru|австрали́ец|m}}, {{t+|ru|австрали́йка|f}}
 * Serbo-Croatian: {{t|sh|Austrálac|m}}, {{t|sh|Aùstrālka|f}}, {{t|sh|Australijánac|m}}, {{t|sh|Australìjānka|f}}
-* Slovak: [[Austrálčan]] {{g|m}}, [[Austrálčanka]] {{g|f}}
+* Slovak: {{t|sk|Austrálčan|m}}, {{t|sk|Austrálčanka|f}}
 * Slovene: {{t|sl|Australčan|m|alt=Avstralec}}
 * Spanish: {{t+|es|australiano|m}}, {{t|es|australiana|f}}
 * Swahili: {{t+|sw|waustralia}}
@@ -84,7 +84,7 @@
 ====Translations====
 {{trans-top|of or pertaining to Australia, the Australian people or languages}}
 * Arabic: {{t|ar|أسترالي|tr=ʾustrālī}}
-* {{trreq|Armenian}}
+* {{trreq|hy}}
 * Asturian: {{t+|ast|australianu}}
 * Belarusian: {{t|be|аўстралі́йскі|sc=Cyrl}}
 * Bulgarian: {{t|bg|австрали́йски|sc=Cyrl}}
@@ -93,7 +93,7 @@
 *: Mandarin: {{t|cmn|澳大利亞|alt=澳大利亞的|sc=Hani}}, {{t+|cmn|澳大利亚|alt=澳大利亚的|tr=Aòdàlìyà de|sc=Hani}}, {{t+|cmn|澳|alt=澳-|tr=Aò-|sc=Hani}}
 * Czech: {{t+|cs|australský|m}}
 * Dutch: {{t+|nl|Australisch}}, {{t+|nl|Australische}}
-* Estonian: [[Austraalia]]; [[austraalia]] (''pertaining to the people'')
+* Estonian: {{t|et|Austraalia}}, {{qualifier|pertaining to the people}} {{t|et|austraalia}}
 * Finnish: {{t+|fi|australialainen}}
 * French: {{t+|fr|australien|m}}, {{t+|fr|australienne|f}}
 * Galician: {{t|gl|australiano}}
@@ -105,8 +105,8 @@
 {{trans-mid}}
 * Icelandic: {{t|is|ástralskur}}
 * Italian: {{t+|it|australiano}}
-* Japanese: [[オーストラリア]]の (Ōsutoraria no), {{t+|ja|豪|alt=豪-|tr=ごう-, Gō-}}
-* Maltese: [[L-Awstraljan]] {{g|m}}, [[L-Awstraljani]] {{g|p}}
+* {{ttbc|ja}}: {{t|ja|オーストラリア|tr=Ōsutoraria no|alt=オーストラリアの|sc=Jpan}} <!-- was "[[オーストラリア]]の" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+|ja|豪|alt=豪-|tr=ごう-, Gō-}}
+* Maltese: {{t|mt|L-Awstraljan|m}}, {{t|mt|L-Awstraljani|p}}
 * Manx: {{t|gv|Austrailagh}}
 * Marathi: {{t|mr|ऑस्ट्रेलियन|tr=ǒsṭrēliyana|sc=Deva}}
 * Norwegian: {{t|no|australsk}}
@@ -115,7 +115,7 @@
 * Portuguese: {{t+|pt|australiano}}
 * Russian: {{t+|ru|австрали́йский}}
 * Serbo-Croatian: {{t|sh|aùstrālskī}}, {{t|sh|ау̀стра̄лскӣ}}
-* Slovak: [[austrálsky]]
+* Slovak: {{t|sk|austrálsky}}
 * Slovene: {{t+|sl|avstralski}}
 * Spanish: {{t+|es|australiano}}
 * Swahili: {{t+|sw|waustralia}}
