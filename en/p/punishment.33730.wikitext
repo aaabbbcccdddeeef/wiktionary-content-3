@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From the {{etyl|xno|en}} {{term|punisceement|lang=fro}}, {{term|punisement|lang=fro}}, {{term|punishement|lang=fro}}, {{term|punissement|lang=fro}}, {{term|punisshement|lang=fro}} and the {{etyl|frm|en}} {{term|punissement|lang=frm}}, from the {{etyl|fro|en}} {{term|pugnissement|lang=fro}}, from {{term||puniss-|lang=fro}} (the long stem (see the {{etyl|fr|-}} {{term|-iss-|lang=fr}}) of {{term|punir|lang=fr}}, “to punish”) + {{term|-ment|lang=fr}} (see the {{etyl|en|-}} {{term|-ment|lang=en}}). Compare the {{etyl|en|-}} nouns {{term|punishing|lang=en}} and {{term|punition|lang=en}}.
+From the {{etyl|xno|en}} {{term|punisceement|lang=fro}}, {{term|punisement|lang=fro}}, {{term|punishement|lang=fro}}, {{term|punissement|lang=fro}}, {{term|punisshement|lang=fro}} and the {{etyl|frm|en}} {{term|punissement|lang=frm}}, from the {{etyl|fro|en}} {{term|pugnissement|lang=fro}}, from {{term||puniss-|lang=fro}} (the long stem (see the {{etyl|fr|-}} {{term|-iss-|lang=fr}}) of {{term|punir|lang=fr||to punish}}) + {{term|-ment|lang=fr}} (see the {{etyl|en|-}} {{term|-ment|lang=en}}). Compare the {{etyl|en|-}} nouns {{term|punishing|lang=en}} and {{term|punition|lang=en}}.
 
 ===Pronunciation===
 * {{audio|en-us-punishment.ogg|Audio (US)}}
@@ -45,25 +45,28 @@ From the {{etyl|xno|en}} {{term|punisceement|lang=fro}}, {{term|punisement|lang=
 *: Egyptian Arabic: {{t|arz|عقاب|m|tr=ʕeqaab|sc=Arab}}
 * Armenian: {{t+|hy|պատիժ|tr=patiž}}
 *: Old Armenian: {{t|xcl|պատիժ|tr=patiž|sc=Armn}}, {{t|xcl|պատուհաս|tr=patuhas|sc=Armn}}
+* Asturian: {{t|ast|castigu|m}}
 * Catalan: {{t|ca|punició|f}}, {{t|ca|puniment|m}}
-* Chinese: [[懲罰]], [[惩罚]] (chéngfá)
+* Chinese:
+*: Mandarin: {{t|cmn|懲罰}}, {{t|cmn|惩罚|tr=chéngfá}}
 * Czech: {{t|cs|trest|m}}
 * Dutch: {{t+|nl|bestraffing|f}}
 * Esperanto: {{t|eo|puno}}
-* Finnish: [[rankaiseminen]], [[rangaistus]]
+* Finnish: {{t|fi|rankaiseminen}}, {{t|fi|rangaistus}}
 * French: {{t+|fr|punition|f}}
+* Galician: {{t|gl|castigo|m}}, {{t|gl|punición|f}}
 * German: {{t+|de|Strafe|f}}
 * Greek: {{t+|el|τιμωρία}}
 * Hungarian: {{t+|hu|büntetés}}
 * Italian: {{t+|it|punizione|f}}
-* Japanese: {{t+|ja|罰|tr=[[ばつ]], batsu}}, {{Jpan|[[懲罰]]}}, {{Jpan|[[ちょうばつ]]}} (chōbatsu)
+* Japanese: {{t+|ja|罰|tr=[[ばつ]], batsu}}, {{t|ja|懲罰|tr=ちょうばつ, chōbatsu}}
 {{trans-mid}}
 * Jèrriais: {{t|roa-jer|peunnition|f}}
 * Latvian: {{t|lv|sods|m}}, {{t|lv|sodīšana|f}}
 * Macedonian: {{t|mk|казна|f|tr=kázna}},  {{t|mk|казнување|n|tr=kaznúvanje}}
 * Persian: {{t|fa|گوشمالی دادن|tr=guŝmāli dādan}}
 * Polish: {{t+|pl|karanie|n}}
-* Portuguese: {{t+|pt|punição}}
+* Portuguese: {{t+|pt|punição|f}}
 * Romanian: {{t+|ro|pedepsire|f}}, {{t+|ro|pedeapsă|f}}
 * Russian: {{t+|ru|наказание|n|tr=nakazánije}}, {{t+|ru|кара|f|tr=kára}}
 * Scottish Gaelic: {{t|gd|peanasachadh|m}}
@@ -78,12 +81,15 @@ From the {{etyl|xno|en}} {{term|punisceement|lang=fro}}, {{term|punisement|lang=
 * Arabic: {{t|ar|عقوبة|tr=ʻuqūba|f}}, {{t+|ar|عقاب|tr=ʻiqāb|m}}
 * Armenian: {{t+|hy|պատիժ|tr=patiž}}
 *: Old Armenian: {{t|xcl|պատիժ|tr=patiž|sc=Armn}}, {{t|xcl|պատուհաս|tr=patuhas|sc=Armn}}
+* Asturian: {{t|ast|castigu|m}}
 * Catalan: {{t+|ca|càstig|m}}
-* Chinese: [[刑罰]], [[刑罚]] (xíngfá)
+* Chinese:
+*: Mandarin: {{t|cmn|刑罰}}, {{t|cmn|刑罚|tr=xíngfá}}
 * Czech: {{t|cs|trest|m}}
 * Dutch: {{t+|nl|straf|m|f}}
 * Finnish: {{t+|fi|rangaistus}}
 * French: {{t+|fr|punition|f}}
+* Galician: {{t|gl|castigo|m}}
 * German: {{t+|de|Bestrafung|f}}
 * Greek: {{t+|el|τιμωρία}}, {{t+|el|ποινή}}
 * Hindi: {{t|hi|दण्ड|tr=daṇḍ|sc=Deva}}, {{t|hi|सज़ा|tr=sazā|sc=Deva}}
@@ -134,7 +140,7 @@ From the {{etyl|xno|en}} {{term|punisceement|lang=fro}}, {{term|punisement|lang=
 * {{ttbc|ku}}: [[ceza]] {{g|m}}, [[siza]] {{g|m}}
 * {{ttbc|la}}: [[punitio]] {{g|f}}
 * {{ttbc|ang}}: [[wite|wīte]] {{g|n}}
-* {{ttbc|fa}}: {{t+|fa|تنبیه|tr=''tanbih''}}
+* {{ttbc|fa}}: {{t+|fa|تنبیه|tr=tanbih}}
 * {{ttbc|pt}}: [[punição]] {{g|f}}
 * {{ttbc|ro}}: [[pedeapsă]] {{g|f}}
 * {{ttbc|es}}: [[castigo]] {{g|m}}, [[penitencia]] {{g|f}}
