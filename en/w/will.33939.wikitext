@@ -53,7 +53,7 @@ From {{etyl|enm|en}} {{term|wille|lang=enm}}, from {{etyl|ang|en}} {{term|willa|
 * Albanian: {{t|sq|vullnet|m}}
 * Ancient Greek: {{t|grc|θέλημα|sc=polytonic}}
 * Arabic: {{t|ar|رغبة|f|tr=rághba|sc=Arab}}
-* Armenian: {{t+|hy|կամք|tr=kamk’}}
+* Armenian: {{t+|hy|կամք|sc=Armn}}
 * Catalan: {{t+|ca|voluntat|f}}
 * Cebuano: {{t|ceb|buot}}, {{t|ceb|pagbuot}}
 * Chinese:
@@ -100,7 +100,7 @@ From {{etyl|enm|en}} {{term|wille|lang=enm}}, from {{etyl|ang|en}} {{term|willa|
 {{trans-bottom}}
 
 {{trans-top|legal document}}
-* Armenian: {{t|hy|կտակ|tr=ktak}}
+* Armenian: {{t|hy|կտակ|sc=Armn}}
 * Catalan: {{t+|ca|testament|m}}
 * Central Melanau: {{t|mel|wil}}
 * Chinese:
@@ -111,10 +111,10 @@ From {{etyl|enm|en}} {{term|wille|lang=enm}}, from {{etyl|ang|en}} {{term|willa|
 * Esperanto: {{t+|eo|testamento}}
 * Estonian: {{t+|et|testament}}
 * Faroese: {{t|fo|testamenti|n}}, {{t|fo|arvaskjal|n}}, {{t|fo|arvabræv|n}}
-* Finnish: [[testamentti]], [[viimeinen]] [[tahto]]
+* Finnish: {{t|fi|testamentti}}, {{t|fi|[[viimeinen]] [[tahto]]}}
 * French: {{t+|fr|testament|m}}
-* German: [[Testament]] {{g|n}}, [[Letzter Wille]] {{g|m}}
-* Greek: {{t+|el|διαθήκη|f}} (diathíki)
+* German: {{t|de|Testament|n}}, {{t|de|Letzter Wille|m}}
+* Greek: {{t+|el|διαθήκη|f|tr=diathíki}}
 * Hebrew: {{t|he|צוואה|f}}
 * Hungarian: {{t+|hu|végrendelet}}
 * Italian: {{t|it|lascito|m}}, {{t+|it|testamento|m}}
@@ -137,7 +137,7 @@ From {{etyl|enm|en}} {{term|wille|lang=enm}}, from {{etyl|ang|en}} {{term|willa|
 * Spanish: {{t+|es|testamento|m}}
 * Swahili: {{t+|sw|wasia}}
 * Swedish: {{t+|sv|testamente|n}}
-* Telugu: [[వీలునామా]] (veelunaamaa)
+* Telugu: {{t|te|వీలునామా|tr=vīlunāmā}}
 * Turkish: {{t+|tr|vasiyet}}
 {{trans-bottom}}
 
@@ -166,7 +166,7 @@ From {{etyl|enm|en}} {{term|wille|lang=enm}}, from {{etyl|ang|en}} {{term|willa|
 
 =====Translations=====
 {{trans-top|To bequeath}}
-* Armenian: {{t|hy|կտակել|tr=ktakel}}
+* Armenian: {{t|hy|կտակել|sc=Armn}}
 * Czech: {{t|cs|odkázat}}
 * Esperanto: {{t|eo|testamenti}}
 * Finnish: {{t|fi|testamentata}}
@@ -182,7 +182,7 @@ From {{etyl|enm|en}} {{term|wille|lang=enm}}, from {{etyl|ang|en}} {{term|willa|
 {{trans-bottom}}
 
 {{trans-top|to wish strongly}}
-* Armenian: {{t|hy|ցանկանալ|tr=c’ankanal}}
+* Armenian: {{t|hy|ցանկանալ|sc=Armn}}
 * Esperanto: {{t|eo|voli}}
 * French: {{t+|fr|vouloir}}
 * German: {{t+|de|wollen}}
@@ -295,6 +295,7 @@ From {{etyl|enm|en}} {{term|willen|lang=enm}}, {{term|wullen|lang=enm}}, {{term|
 [[Category:English defective verbs]]
 [[Category:English irregular verbs]]
 [[Category:en:Death]]
+[[Category:en:Property law]]
 
 ----
 
@@ -321,7 +322,6 @@ From {{etyl|enm|en}} {{term|willen|lang=enm}}, {{term|wullen|lang=enm}}, {{term|
 # {{de-verb form of|wollen|3|s|g}}
 
 [[Category:German verb forms]]
-[[Category:Property law]]
 
 [[ar:will]]
 [[zh-min-nan:will]]
