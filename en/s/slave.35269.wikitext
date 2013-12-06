@@ -108,15 +108,15 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|sclave||lang=ro}}, from {{etyl
 *: Mandarin: {{t+|cmn|奴隸|sc=Hani}}, {{t+|cmn|奴隶|tr=núlì|sc=Hani}}
 * Chuvash: {{t|cv|чура|tr=çura|sc=Cyrl}}
 * Czech: {{t+|cs|otrok|m}}, {{t|cs|otrokyně|f}}
-* Danish: {{t+|da|slave|c}}, {{t|da|træl|c}}
+* Danish: {{t+|da|slave|c}}, {{t|da|slavinde|c}}, {{t|da|træl|c}} {{t|da|trælkone|c}} 
 * Dolgan: {{t|dlg|кулут|tr=kulut}}
-* Dutch: {{t+|nl|slaaf}}
-* Esperanto: {{t+|eo|sklavo}}
+* Dutch: {{t+|nl|slaaf|m}}, {{t|nl|slavin|f}}
+* Esperanto: {{qualifier|♂♀}} {{t+|eo|sklavo}}, {{qualifier|♂}} {{t|eo|virsklavo}}, {{qualifier|neologism ♂}} {{t|eo|sklaviĉo}}, {{qualifier|♀}} {{t|eo|sklavino}}
 * Estonian: {{t|et|ori}}
 * Faroese: {{t|fo|trælur|m}}, {{t|fo|trælkona|f}}
 * Finnish: {{t+|fi|orja}}
-* French: {{t+|fr|esclave|m|f}}, {{t+|fr|serf|m}}
-* Galician: {{t|gl|escravo|m}}
+* French: {{t+|fr|esclave|m|f}}, {{t+|fr|serf|m}}, {{t+|fr|serve|f}}
+* Galician: {{t|gl|escravo|m}}, {{t|gl|escrava|f}}
 * Georgian: {{t|ka|მონა|tr=mona|sc=Geor}}
 * German: {{t+|de|Sklave|m}}, {{t+|de|Sklavin|f}}
 * Greek: {{t+|el|δούλος|m|tr=doúlos|sc=Grek}}
@@ -127,6 +127,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|sclave||lang=ro}}, from {{etyl
 * Hindi: {{t|hi|दास|m|tr=dās|sc=Deva}}
 * Hungarian: {{t+|hu|rabszolga}}
 * Icelandic: {{t+|is|þræll|m}}
+* Ido: {{qualifier|♂♀}} {{t+|io|sklavo}}, {{qualifier|♂}} {{t|io|sklavulo}}, {{qualifier|♀}} {{t+|io|sklavino}}
 * Indonesian: {{t+|id|hamba}}
 * Irish: {{t|ga|sclábhaí|m}}
 *: Old Irish: {{t|sga|scláb|m}}, {{t|sga|sclábuide|m}}
@@ -142,7 +143,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|sclave||lang=ro}}, from {{etyl
 * Kyrgyz: {{t+|ky|кул|tr=qul|sc=Cyrl}}
 * {{trreq|lo}}
 * Latgalian: {{t|ltg|viergs|m}}
-* Latin: {{t+|la|servus}}, {{t|la|sclavus}}
+* Latin: {{t+|la|servus|m}}, {{t|la|serva|f}}, {{t|la|sclavus|m}}, {{t|la|sclava|f}}
 * Latvian: {{t+|lv|vergs|m}}
 * Lithuanian: {{t+|lt|vergas|m}}
 * Macedonian: {{t|mk|роб|m|tr=rob}}, {{t|mk|робинка|f|tr=róbinka}}
@@ -151,8 +152,11 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|sclave||lang=ro}}, from {{etyl
 * Maori: {{t|mi|mōkai taurekareka}}
 * Mari:
 *: Eastern Mari: {{t|chm|кул|tr=kul|sc=Cyrl}}
-* Norwegian: {{t+|no|slave}}, {{t|no|trell}}
-* Old English: {{t|ang|wealh}}
+* Norwegian:
+*: Bokmål: {{t+|nb|slave|m}}, {{t|nb|slavinne|m|f}}, {{t|nb|trell|m}}, {{t|nb|trellkvinne|m|f}}, {{t|nb|trælkvinne|m|f}}
+*: Nynorsk: {{t|nn|slave|m}}, {{t|nn|slavinne|f}}, {{t|nn|træl|m}}, {{t|nn|trælkvinne|f}}
+* Old English: {{t|ang|wealh|m}}
+* Old Norse: {{t|non|þræll|m}}
 * Persian: {{t+|fa|برده|tr=barde}}, {{t+|fa|بنده|tr=bande}}
 * Polish: {{t+|pl|niewolnik|m}}, {{t|pl|niewolnica|f}}
 * Portuguese: {{t+|pt|escravo|m}}, {{t+|pt|escrava|f}}
@@ -168,9 +172,9 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|sclave||lang=ro}}, from {{etyl
 * Slovak: {{t|sk|otrok|m}}, {{t|sk|otrokyňa|f}}
 * Slovene: {{t+|sl|suženj|m-?}}, {{t|sl|sužnja|f}}
 * Southern Altai: {{t|alt|кул|tr=qul|sc=Cyrl}}
-* Spanish: {{t+|es|esclavo|m}}
+* Spanish: {{t+|es|esclavo|m}}, {{t|es|esclava|f}}
 * Swahili: {{t+|sw|falahi}}, {{t+|sw|mtumwa}}
-* Swedish: {{t+|sv|slav|c}}, {{t+|sv|träl|c}}
+* Swedish: {{t+|sv|slav|c}}, {{t|sv|slavinna|c}}, {{t+|sv|träl|c}}
 * Tatar: {{t+|tt|кол|tr=qol|sc=Cyrl}}
 * Telugu: {{t+|te|దాసుడు}}
 * Thai: {{t|th|ทาส|tr=tâat}}, {{t+|th|ข้า|tr=kâa}}
@@ -179,7 +183,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|sclave||lang=ro}}, from {{etyl
 * Ukrainian: {{t+|uk|раб|m|tr=rab|sc=Cyrl}}, {{t|uk|рабиня|f|tr=rabýnja|sc=Cyrl}}
 * Uzbek: {{t|uz|qul}}
 * Vietnamese: {{t+|vi|nô lệ}} ({{t|vi|奴隸}}), {{t|vi|người nô lệ}}
-* Volapük: {{qualifier|male or female}} {{t+|vo|slafan}}, {{qualifier|male}} {{t|vo|hislafan}}, {{qualifier|female}} {{t+|vo|jislafan}}
+* Volapük: {{qualifier|♂♀}} {{t+|vo|slafan}}, {{qualifier|♂}} {{t|vo|hislafan}}, {{qualifier|♀}} {{t+|vo|jislafan}}
 * Yakut: {{t|sah|кулут|tr=kulut}}
 {{trans-bottom}}
 
@@ -193,7 +197,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|sclave||lang=ro}}, from {{etyl
 * Esperanto: {{t+|eo|sklavo}}
 * Finnish: {{t+|fi|orja}}
 * French: {{t+|fr|esclave}}
-* Galician: {{t|gl|escravo}}
+* Galician: {{t|gl|escravo|m}}, {{t|gl|escrava|f}}
 * German: {{t+|de|Sklave|m}}, {{t+|de|Sklavin|f}}
 * Greek: {{t+|el|δούλος|m|tr=doúlos|sc=Grek}}
 *: Ancient: {{t|grc|δούλος|m|tr=doulos|sc=polytonic}}
@@ -209,15 +213,15 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|sclave||lang=ro}}, from {{etyl
 * Scottish Gaelic: {{t|gd|tràill|m|f}}
 * Slovene: {{t+|sl|suženj|m-?}}, {{t|sl|sužnja|f}}
 * Swahili: {{t+|sw|falahi}}
-* Swedish: {{t+|sv|slav|c}}
+* Swedish: {{t+|sv|slav|c}}, {{t|sv|slavinna|c}}
 {{trans-bottom}}
 
 {{trans-top|person who is forced to perform sexual acts}}
 * Danish: {{t+|da|slave|c}}
 * Esperanto: {{t+|eo|sklavo}}
 * Finnish: {{t|fi|seksiorja}}
-* Galician: {{t|gl|escravo|m}}
-* German: {{t+|de|Sklave|m}}, {{t+|de|Sklavin|f}}
+* Galician: {{t|gl|escravo|m}}, {{t|gl|escrava|f}}
+* German: {{t+|de|Sklave|m}}, {{t+|de|Sklavin|f}}, {{t+|de|Sexsklave|m}}, {{t+|de|Sexsklavin|f}}  
 * Greek: {{t+|el|σκλάβος|m|tr=sklávos|sc=Grek}}, {{t+|el|σκλάβα|f|tr=skláva|sc=Grek}}
 * Latvian: {{t+|lv|vergs|m}}
 * Norwegian: {{t|no|sexslave|m}}, {{t|no|seksualslave|m}}
@@ -229,7 +233,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|sclave||lang=ro}}, from {{etyl
 * Scottish Gaelic: {{t|gd|tràill|m|f}}
 * Slovene: {{t+|sl|suženj|m-?}}, {{t|sl|sužnja|f}}
 * Swahili: {{t+|sw|falahi}}
-* Swedish: {{t+|sv|slav|c}}, {{t|sv|sexslav|c}}
+* Swedish: {{t+|sv|slav|c}}, {{t|sv|slavinna|c}}, {{t|sv|sexslav|c}}, {{t|sv|sexslavinna|c}}
 {{trans-bottom}}
 
 {{trans-top|engineering: device that is controlled by another device}}
@@ -243,7 +247,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|sclave||lang=ro}}, from {{etyl
 * Japanese: {{t|ja|スレーブ|tr=surēbu}}
 * Russian: {{t+|ru|ведомый|m|tr=vedómyj|sc=Cyrl}}, {{t|ru|ведомое устройство|n|tr=vedómoje ustrójstvo|sc=Cyrl}}
 * Swahili: {{t+|sw|falahi}}
-* Swedish: {{t+|sv|slav|c}}
+* Swedish: {{t+|sv|slav|c}}, {{t|sv|slavinna|c}}
 {{trans-bottom}}
 
 {{checktrans-top}}
