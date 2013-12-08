@@ -75,7 +75,7 @@ From {{etyl|fro|en}} {{term|executer|lang=fro}} (French {{term|exécuter|lang=fr
 * Khmer: {{t+|km|ប្រតិបត្តិ|tr=prɑte’bat|sc=Khmr}}
 * Kurdish:
 *: Sorani: {{t|ku|بردن به‌ڕێوه‌|sc=ku-Arab}}
-* Russian: {{t+|ru|исполнять|tr=ispolnját’}} {{impf}}, {{t+|ru|исполнить|tr=ispólnit’}} {{pf.}}
+* Russian: {{t+|ru|исполнять|impf|tr=ispolnját’}}, {{t+|ru|исполнить|pf|tr=ispólnit’}}
 * Scottish Gaelic: {{t|gd|cuir an gnìomh}}
 * Serbo-Croatian: {{t|sh|izvŕšiti}}, {{t|sh|pròvesti}}
 * Slovene: {{t|sl|izvršiti}}
@@ -112,7 +112,7 @@ From {{etyl|fro|en}} {{term|executer|lang=fro}} (French {{term|exécuter|lang=fr
 {{trans-top|To sign or otherwise cause a document (especially a contract) to become legally valid}}
 * Catalan: {{t+|ca|executar}}
 {{trans-mid}}
-* Finnish: [[toimeenpanna]], [[saattaa voimaan]]
+* Finnish: {{t|fi|toimeenpanna}}, {{t|fi|saattaa voimaan}}
 {{trans-bottom}}
 
 [[Category:en:Death]]
