@@ -381,11 +381,11 @@ From {{etyl|enm|en}} {{term|passen|lang=enm}}, from {{etyl|fro|en}} {{term|lang=
 * Italian: {{t+|it|passare}}
 * Jèrriais: {{t|roa-jer|pâsser}}
 * Latin: {{t|la|paeterio}}, {{t|la|praetereo}}
-* Russian: {{t+|ru|проходить|tr=proxodít'}} {{impf}}, {{t+|ru|пройти|tr=projtí}} {{pf.}} {{qualifier|intransitive}}, {{t+|ru|передавать|tr=peredavát'}} {{impf}}, {{t+|ru|передать|tr=peredát'}} {{pf.}} {{qualifier|transitive}}
+* Russian: {{t+|ru|проходить|impf|tr=proxodít'}}, {{t+|ru|пройти|tr=projtí}} {{pf.}} {{qualifier|intransitive}}, {{t+|ru|передавать|impf|tr=peredavát'}}, {{t+|ru|передать|tr=peredát'}} {{pf.}} {{qualifier|transitive}}
 {{trans-mid}}
 * Serbo-Croatian: {{t|sh|proći}}
 * Spanish: {{t+|es|pasar}}
-* Swahili: [[kupita]]
+* Swahili: {{t|sw|kupita}}
 * Swedish: {{t+|sv|passera}}
 {{trans-bottom}}
 
@@ -396,7 +396,7 @@ From {{etyl|enm|en}} {{term|passen|lang=enm}}, from {{etyl|fro|en}} {{term|lang=
 * Jèrriais: {{t|roa-jer|pâsser}}
 {{trans-mid}}
 * Latin: {{t|la|praetereo}}
-* Slovene: [[preiti]]
+* Slovene: {{t|sl|preiti}}
 * Spanish: {{t+|es|pasar}}
 {{trans-bottom}}
 
@@ -422,7 +422,7 @@ From {{etyl|enm|en}} {{term|passen|lang=enm}}, from {{etyl|fro|en}} {{term|lang=
 * Portuguese: {{t+|pt|falecer}}
 * Russian: {{qualifier|formal}} {{t+|ru|скончаться|tr=skončát’sja}} {{pf.}}
 * Serbo-Croatian: {{t|sh|otići}}
-* Slovene: [[umreti]], [[preminiti]]
+* Slovene: {{t|sl|umreti}}, {{t|sl|preminiti}}
 * Spanish: {{t|es|fallecer}}
 {{trans-bottom}}
 
@@ -452,10 +452,10 @@ From {{etyl|enm|en}} {{term|passen|lang=enm}}, from {{etyl|fro|en}} {{term|lang=
 {{trans-mid}}
 * German: {{t+|de|vergehen}}
 * Japanese: {{t|ja|過ぎる|tr=[[すぎる]], sugiru}}, {{t+|ja|経つ|tr=[[たつ]], tatsu}}
-* Lithuanian: [[slinkti]]
+* Lithuanian: {{t|lt|slinkti}}
 * Persian: {{t+|fa|گذشتن|tr=gozaštan|sc=fa-Arab}}, {{t|fa|سپری شدن|tr=separi šodan|sc=fa-Arab}}
-* Russian: {{t+|ru|проходить|tr=proxodít’|sc=Cyrl}} {{impf}}, {{t+|ru|пройти|tr=projtí|sc=Cyrl}} {{pf.}}, {{t+|ru|миновать|tr=minovát’|sc=Cyrl}} {{impf}}, {{t+|ru|минуть|tr=mínut’|sc=Cyrl}} {{pf.}}, {{t+|ru|истекать|tr=istekát’|sc=Cyrl}} {{impf}}, {{t+|ru|истечь|tr=istéč’|sc=Cyrl}} {{pf.}}
-* Slovene: [[miniti]]
+* Russian: {{t+|ru|проходить|impf|tr=proxodít’|sc=Cyrl}}, {{t+|ru|пройти|pf|tr=projtí|sc=Cyrl}}, {{t+|ru|миновать|impf|tr=minovát’|sc=Cyrl}}, {{t+|ru|минуть|pf|tr=mínut’|sc=Cyrl}}, {{t+|ru|истекать|impf|tr=istekát’|sc=Cyrl}}, {{t+|ru|истечь|pf|tr=istéč’|sc=Cyrl}}
+* Slovene: {{t|sl|miniti}}
 * Swedish: {{t+|sv|gå}}
 {{trans-bottom}}
 
@@ -464,13 +464,13 @@ From {{etyl|enm|en}} {{term|passen|lang=enm}}, from {{etyl|fro|en}} {{term|lang=
 * Finnish: {{t+|fi|siirtyä}}
 * Latin: {{t|la|praetereo}}
 {{trans-mid}}
-* Russian: {{t+|ru|переходить|tr=perexodít'}} {{impf}}, {{t+|ru|перейти|tr=perejtí}} {{pf.}} {{qualifier|intransitive}}
+* Russian: {{t+|ru|переходить|impf|tr=perexodít'}}, {{t+|ru|перейти|tr=perejtí}} {{pf.}} {{qualifier|intransitive}}
 * Spanish: {{t+|es|pasar}}
 {{trans-bottom}}
 
 {{trans-top|advance through all the steps or stages necessary to validity or effectiveness}}
 * Arabic: {{t|ar|اجتازَ}}
-* Finnish: [[läpäistä]], [[mennä]] [[läpi]]
+* Finnish: {{t|fi|läpäistä}}, [[mennä]] [[läpi]]
 * Japanese: {{t|ja|通る|tr=[[とおる]], tōru}}, {{t|ja|通過|alt=通過する|tr=[[つうかする]], tsūka suru}}, {{t+|ja|承認|alt=承認する|tr=[[しょうにんする]], shōnin suru}}, {{t|ja|可決|alt=可決する|tr=[[かけつする]], kaketsu suru}}, {{t+|ja|批准|alt=批准する|tr=[[ひじゅんする]], hijyun suru}}
 {{trans-mid}}
 * Latin: {{t|la|praetereo}}
@@ -481,11 +481,11 @@ From {{etyl|enm|en}} {{term|passen|lang=enm}}, from {{etyl|fro|en}} {{term|lang=
 * Arabic: {{t|ar|اجتاز}}
 * Catalan: {{t+|ca|aprovar}}
 * Dutch: {{t+|nl|slagen}}
-* Finnish: [[mennä]] [[läpi]], [[läpäistä]], [[päästä]] [[läpi]]
+* Finnish: [[mennä]] [[läpi]], {{t|fi|läpäistä}}, [[päästä]] [[läpi]]
 {{trans-mid}}
 * Japanese: {{t+|ja|合格|alt=合格する|tr=ごうかくする, gōkaku suru}}
 * Latin: {{t|la|praetereo}}
-* Spanish: [[pasar]], (exam) [[aprobar]]
+* Spanish: {{t|es|pasar}}, (exam) [[aprobar]]
 {{trans-bottom}}
 
 {{trans-top|to be tolerated}}
@@ -535,7 +535,7 @@ From {{etyl|enm|en}} {{term|passen|lang=enm}}, from {{etyl|fro|en}} {{term|lang=
 {{trans-top|decline to play in one's turn}}
 * Arabic: {{t|ar|تَخَلَّى}}
 {{trans-mid}}
-* Finnish: [[passata]], [[jättää väliin]]
+* Finnish: {{t|fi|passata}}, {{t|fi|jättää väliin}}
 {{trans-bottom}}
 
 {{trans-top|in euchre, decline to make the trump}}
@@ -559,7 +559,7 @@ From {{etyl|enm|en}} {{term|passen|lang=enm}}, from {{etyl|fro|en}} {{term|lang=
 * Latin: {{t|la|praeterire}}
 * Persian: {{t+|fa|گذشتن|tr=gozaštan|sc=fa-Arab}}
 * Portuguese: {{t+|pt|passar}}
-* Russian: {{t+|ru|проходить|tr=proxodít'}} {{impf}}, {{t+|ru|пройти|tr=projtí}} {{pf.}}
+* Russian: {{t+|ru|проходить|impf|tr=proxodít'}}, {{t+|ru|пройти|pf|tr=projtí}}
 * Spanish: {{t+|es|pasar}}
 * Swedish: {{t+|sv|förflytta}}
 * ǃXóõ: {{t|nmn|ǃkxʻáa}}
