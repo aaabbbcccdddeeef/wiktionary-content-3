@@ -278,13 +278,13 @@ Cognate with {{etyl|fy|-}} {{term|helpe||to help|lang=fy}}, {{etyl|nds|-}} {{ter
 * Basque: {{t|eu|lagundu}}
 * Belarusian: {{t|be|памагаць|tr=pamahác’|sc=Cyrl}} {{impf}}, {{t|be|памагчы|tr=pamahčý|sc=Cyrl}} {{pf.}}; {{t|be|дапамагаць|tr=dapamahácʹ}} {{impf}}, {{t|be|дапамагчы|tr=dapamahčý}} {{pf.}}
 * Bengali: {{t|bn|সাহায্য করা|tr=shahajjô kôra|sc=Beng}}
-* Bulgarian: {{t+|bg|помагам|tr=pomágam}} {{impf}}, {{t|bg|помогна|tr=pomógna}} {{pf.}}
+* Bulgarian: {{t+|bg|помагам|impf|tr=pomágam}}, {{t|bg|помогна|pf|tr=pomógna}}
 * Burmese: {{t+|my|ကူ|tr=ku|sc=Mymr}}, {{t+|my|ကူညီ|tr=ku nji|sc=Mymr}}
 * Catalan: {{t+|ca|ajudar}}
 * Chinese:
 *: Mandarin: {{t|cmn|幫助|sc=Hani}}, {{t+|cmn|帮助|tr=bāngzhù|sc=Hani}}, {{t|cmn|幫忙|sc=Hani}}, {{t+|cmn|帮忙|tr=bāngmáng|sc=Hani}}
 * Crimean Tatar: {{t|crh|yardım etmek}}
-* Czech: {{t+|cs|pomáhat}} {{impf}}, {{t+|cs|pomoct}} or {{t+|cs|pomoci}} {{pf.}}
+* Czech: {{t+|cs|pomáhat|impf}}, {{t+|cs|pomoct}} or {{t+|cs|pomoci}} {{pf.}}
 * Danish: {{t+|da|hjælpe}}
 * Dutch: {{t+|nl|helpen}}
 * Esperanto: {{t|eo|helpi}}
@@ -339,19 +339,19 @@ Cognate with {{etyl|fy|-}} {{term|helpe||to help|lang=fy}}, {{etyl|nds|-}} {{ter
 * Old Portuguese: {{t|roa-ptg|ajudar}}
 * Ossetian: {{t|os|ӕххуыс кӕнын|tr=æххwys kænyn|sc=Cyrl}}
 * Persian: {{t+|fa|کمک کردن|tr=komak kardan}}, {{t+|fa|یاری کردن|tr=yâri kardan}}
-* Polish: {{t+|pl|pomagać}} {{impf}}, {{t+|pl|pomóc}} {{pf.}}
+* Polish: {{t+|pl|pomagać|impf}}, {{t+|pl|pomóc|pf}}
 * Portuguese: {{t+|pt|ajudar}}, {{t+|pt|socorrer}}
 * Romanian: {{t+|ro|ajuta}}, {{t+|ro|asista}}
 * Romansch: {{t|rm|gidar}}, {{t|rm|güder}}, {{t|rm|güdar}}
-* Russian: {{t+|ru|помогать|tr=pomogátʹ}} {{impf}}, {{t+|ru|помочь|tr=pomóčʹ}} {{pf.}}
+* Russian: {{t+|ru|помогать|impf|tr=pomogátʹ}}, {{t+|ru|помочь|pf|tr=pomóčʹ}}
 * Sardinian: {{t|sc|agiadai}}, {{t|sc|agiuare}}, {{t|sc|agiudai}}
 *: Campidanese Sardinian: {{t|sro|aggiudai}}
 *: Logudorese Sardinian: {{t|src|aggiudare}}, {{t|src|azudare}}
 * Sassarese Sardinian: {{t|sdc|achidà}}, {{t|sdc|aggiuddà}}
 * Scottish Gaelic: {{t|gd|cuidich}}
-* Serbo-Croatian: {{t|sh|пома́гати|sc=Cyrl}}, {{t|sh|pomágati}} {{impf}}, {{t|sh|по̀моћи|sc=Cyrl}}, {{t|sh|pòmoći}} {{pf.}}
+* Serbo-Croatian: {{t|sh|пома́гати|sc=Cyrl}}, {{t|sh|pomágati|impf}}, {{t|sh|по̀моћи|sc=Cyrl}}, {{t|sh|pòmoći|pf}}
 * Sinhalese: {{t|si|උදව් කරනවා|tr=udav karanavā|sc=Sinh}}
-* Slovak: {{t|sk|pomáhať}} {{impf}}, {{t|sk|pomôcť}} {{pf.}}
+* Slovak: {{t|sk|pomáhať|impf}}, {{t|sk|pomôcť|pf}}
 * Slovene: {{t+|sl|pomagati}}
 * Spanish: {{t+|es|ayudar}}
 * Swahili: {{t|sw|kusaidia}}
@@ -363,7 +363,7 @@ Cognate with {{etyl|fy|-}} {{term|helpe||to help|lang=fy}}, {{etyl|nds|-}} {{ter
 * Tok Pisin: {{t|tpi|helpim}}
 * Turkish: {{t+|tr|yardım etmek}}
 * Turkmen: {{t|tk|kömekleşmek}}, {{t|tk|ýardam etmek}}
-* Ukrainian: {{t|uk|допомагати|tr=dopomoháty}} {{impf}}, {{t|uk|допомогти|tr=dopomohtý}} {{pf.}}, {{t|uk|помагати|tr=pomaháty|sc=Cyrl}} {{impf}}, {{t|uk|помогти|tr=pomohtý|sc=Cyrl}} {{pf.}}
+* Ukrainian: {{t|uk|допомагати|impf|tr=dopomoháty}}, {{t|uk|допомогти|pf|tr=dopomohtý}}, {{t|uk|помагати|impf|tr=pomaháty|sc=Cyrl}}, {{t|uk|помогти|pf|tr=pomohtý|sc=Cyrl}}
 * Urdu: {{t|ur|مدد کرنا|tr=madad karnā}}
 * Uzbek: {{t|uz|qarashmoq}}, {{t|uz|yordam bermoq}}, {{t|uz|yordamlashmoq}}
 * Vietnamese: {{t+|vi|giúp đỡ}}
@@ -384,7 +384,7 @@ Cognate with {{etyl|fy|-}} {{term|helpe||to help|lang=fy}}, {{etyl|nds|-}} {{ter
 * Norwegian: {{t|no|bidra til}}, {{t|no|hjelpe til med}}
 * Portuguese: {{t+|pt|ajudar}}
 * Romanian: {{t+|ro|ajuta}}
-* Russian: {{t+|ru|помогать|tr=pomogát’}} {{impf}}, {{t+|ru|помочь|tr=pomóč'}} {{pf.}}
+* Russian: {{t+|ru|помогать|impf|tr=pomogát’}}, {{t+|ru|помочь|pf|tr=pomóč'}}
 * Slovene: {{t+|sl|pomagati}}
 * Swahili: {{t+|sw|msaada}}
 {{trans-bottom}}
@@ -402,7 +402,7 @@ Cognate with {{etyl|fy|-}} {{term|helpe||to help|lang=fy}}, {{etyl|nds|-}} {{ter
 * Macedonian: {{t|mk|помага|tr=pómaga}}
 * Norwegian: {{t|no|hjelpe til}}, {{t+|no|hjelpe}}
 * Romanian: {{t+|ro|ajuta}}, {{t+|ro|asista}}
-* Russian: {{t+|ru|помогать|tr=pomogát’}} {{impf}}, {{t+|ru|помочь|tr=pomóč'}} {{pf.}}
+* Russian: {{t+|ru|помогать|impf|tr=pomogát’}}, {{t+|ru|помочь|pf|tr=pomóč'}}
 * Slovene: {{t+|sl|pomagati}}
 * Swahili: {{t+|sw|msaada}}
 * Telugu: {{t|te|సహాయపడు|tr=sahāyapaḍu}}, {{t|te|సాయం చేయు|tr=sāyaṁ cēyu}}
