@@ -441,7 +441,7 @@ From {{etyl|enm|en}} {{term|rokken|lang=enm}}, from {{etyl|ang|en}} {{term|rocci
 * Portuguese: {{t+|pt|embalar}}, {{t+|pt|balançar}}
 {{trans-mid}}
 * Romanian: {{t+|ro|legăna}}
-* Russian: {{t+|ru|качать|tr=kačát’|sc=Cyrl}} {{impf}}, {{t+|ru|качаться|tr=kačát’sja|sc=Cyrl}} {{impf}} {{qualifier|intransitive}}, {{qualifier|rock to sleep}} {{t+|ru|укачивать|tr=ukáčivat’|sc=Cyrl}} {{impf}}, {{t+|ru|баюкать|tr=bajúkat’|sc=Cyrl}} {{impf}}
+* Russian: {{t+|ru|качать|impf|tr=kačát’|sc=Cyrl}}, {{t+|ru|качаться|tr=kačát’sja|sc=Cyrl}} {{impf}} {{qualifier|intransitive}}, {{qualifier|rock to sleep}} {{t+|ru|укачивать|tr=ukáčivat’|sc=Cyrl}} {{impf}}, {{t+|ru|баюкать|impf|tr=bajúkat’|sc=Cyrl}}
 * Serbo-Croatian: {{t|sh|ljuljati}}, {{t|sh|klackati}}
 * Slovene: {{t+|sl|zibati}}
 * Spanish: {{t+|es|mecer}}
@@ -458,7 +458,7 @@ From {{etyl|enm|en}} {{term|rokken|lang=enm}}, from {{etyl|ang|en}} {{term|rocci
 * Norwegian: {{t+|no|riste}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|balançar}}, {{t+|pt|abalar}}
-* Russian: {{t+|ru|качать|tr=kačát’|sc=Cyrl}} {{impf}}, {{t+|ru|раскачивать|tr=raskáčivat’|sc=Cyrl}} {{impf}}
+* Russian: {{t+|ru|качать|impf|tr=kačát’|sc=Cyrl}}, {{t+|ru|раскачивать|impf|tr=raskáčivat’|sc=Cyrl}}
 * Serbo-Croatian: {{t|sh|drmati}}, {{t|sh|uzdrmati}}
 * Slovene: {{t+|sl|zibati}}
 * Swedish: {{t+|sv|skaka}}
@@ -475,7 +475,7 @@ From {{etyl|enm|en}} {{term|rokken|lang=enm}}, from {{etyl|ang|en}} {{term|rocci
 {{trans-mid}}
 * Norwegian: {{t|no|gynge}}
 * Portuguese: {{t+|pt|balançar}}, {{t+|pt|abalar}}
-* Russian: {{t+|ru|качаться|tr=kačát’sja}} {{impf}}, {{t+|ru|раскачиваться|tr=raskáčivat’sja}} {{impf}}
+* Russian: {{t+|ru|качаться|impf|tr=kačát’sja}}, {{t+|ru|раскачиваться|impf|tr=raskáčivat’sja}}
 * Serbo-Croatian: {{t|sh|drmati}}
 * Slovene: {{t+|sl|zibati}}
 * Swedish: {{t+|sv|kränga}} {{qualifier|vehicle}}
@@ -493,7 +493,7 @@ From {{etyl|enm|en}} {{term|rokken|lang=enm}}, from {{etyl|ang|en}} {{term|rocci
 * Norwegian: {{t+|no|ryste}}, {{t|no|sjokkere}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|balançar}}, {{t+|pt|abalar}}
-* Russian: {{t+|ru|потрясать|tr=potrjasát’}} {{impf}}, {{t+|ru|потрясти|tr=potrjastí}} {{pf.}}
+* Russian: {{t+|ru|потрясать|impf|tr=potrjasát’}}, {{t+|ru|потрясти|pf|tr=potrjastí}}
 * Serbo-Croatian: {{t|sh|potresti}}
 * Swedish: {{t+|sv|chocka}}, {{t+|sv|skaka}}
 {{trans-bottom}}
@@ -511,7 +511,7 @@ From {{etyl|enm|en}} {{term|rokken|lang=enm}}, from {{etyl|ang|en}} {{term|rocci
 
 =====Translations=====
 {{trans-top|act of rocking}}
-* Finnish: [[keinunta]], [[keinutus]], [[keikunta]], [[keikutus]], [[ravistelu]]
+* Finnish: {{t|fi|keinunta}}, {{t|fi|keinutus}}, {{t|fi|keikunta}}, {{t|fi|keikutus}}, {{t|fi|ravistelu}}
 * French: {{t+|fr|secousse|f}}
 {{trans-mid}}
 * Swedish: {{t|sv|gungning|n}}, {{t+|sv|vaggande|n}}, {{t|sv|vyssjande|n}}
