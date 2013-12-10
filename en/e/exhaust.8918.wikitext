@@ -45,7 +45,7 @@ From {{etyl|la|en}} {{term|lang=la|exhaustus}}, past participle of {{term|lang=l
 * Hungarian: {{t+|hu|kimerít}}
 * Indonesian: {{t+|id|kuras}}
 * Japanese: {{t|ja|使い尽くす|tr=つかいつくす, tsukaitsukusu|sc=Jpan}}, {{t|ja|尽くす|tr=つくす, tsukusu|sc=Jpan}}, {{t|ja|使い切る|tr=つかいきる, tsukaikiru|sc=Jpan}}
-* Russian: {{t+|ru|исчерпывать|tr=isčérpyvatʹ|sc=Cyrl}} {{impf}}, {{t+|ru|истощать|tr=istoščátʹ|sc=Cyrl}} {{impf}}, {{t+|ru|израсходовать|tr=izrasxódovatʹ|sc=Cyrl}} {{pf.}}
+* Russian: {{t+|ru|исчерпывать|impf|tr=isčérpyvatʹ|sc=Cyrl}}, {{t+|ru|истощать|impf|tr=istoščátʹ|sc=Cyrl}}, {{t+|ru|израсходовать|pf|tr=izrasxódovatʹ|sc=Cyrl}}
 * Spanish: {{t+|es|agotar}}
 {{trans-bottom}}
 
@@ -81,13 +81,13 @@ From {{etyl|la|en}} {{term|lang=la|exhaustus}}, past participle of {{term|lang=l
 ====Translations====
 {{trans-top|system consisting of the parts of an engine through which burned gases or steam are discharged}}
 * Bulgarian: {{t+|bg|ауспух|m|sc=Cyrl}}
-* Dutch: [[uitlaatpijp]] {{g|f}}, [[uitlaat]] {{g|m}}
+* Dutch: {{t|nl|uitlaatpijp|f}}, {{t|nl|uitlaat|m}}
 * Finnish: {{t|fi|pakokaasujärjestelmä}}, {{t|fi|pakoputkisto}}
 * German: {{t+|de|Auspuff|m}}
 {{trans-mid}}
 * Greek: {{t+|el|εξάτμιση|f|tr=exátmisi}}
 * Russian: {{t+|ru|выхлоп|m|tr=výxlop|sc=Cyrl}}
-* Spanish: [[tubo de escape]] {{g|m}}
+* Spanish: {{t|es|tubo de escape|m}}
 {{trans-bottom}}
 
 {{trans-top|the steam let out of a cylinder after it has done its work there}}
