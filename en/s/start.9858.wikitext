@@ -216,7 +216,7 @@ From {{etyl|enm|en}} {{term|sterten||to leap up suddenly, rush out|lang=enm}}, f
 * Old French: {{t|fro|cumancer}}
 * Polish: {{t+|pl|ruszyć}}
 * Romanian: {{t+|ro|începe}}
-* Russian: {{t+|ru|запускать|tr=zapuskátʹ|sc=Cyrl}} {{impf}}, {{t+|ru|запустить|tr=zapustítʹ|sc=Cyrl}} {{pf.}}
+* Russian: {{t+|ru|запускать|impf|tr=zapuskátʹ|sc=Cyrl}}, {{t+|ru|запустить|pf|tr=zapustítʹ|sc=Cyrl}}
 * Serbo-Croatian: {{t+|sh|zapustiti}}, {{t|sh|pustiti}}, {{t|sh|navesti}}
 * Spanish: {{t+|es|empezar}}, {{t+|es|comenzar}}
 {{trans-bottom}}
@@ -227,11 +227,11 @@ From {{etyl|enm|en}} {{term|sterten||to leap up suddenly, rush out|lang=enm}}, f
 * Armenian: {{t|hy|սկսել|tr=sksel|sc=Armn}}
 * Asturian: {{t+|ast|entamar}}
 * Azeri: {{t+|az|başlamaq}}
-* Belarusian: {{t|be|пачынаць|tr=pačynácʹ|sc=Cyrl}} {{impf}}, {{t|be|пачаць|tr=pačácʹ|sc=Cyrl}} {{pf.}} {{qualifier|transitive}}, {{t|be|пачынацца|tr=pačynácca|sc=Cyrl}} {{impf}}, {{t|be|пачацца|tr=pačácca|sc=Cyrl}} {{qualifier|intransitive}}
-* Bulgarian: {{t+|bg|започвам|tr=zapóčvam}} {{impf}}, {{t+|bg|почвам|tr=póčvam}} {{impf}}, {{t+|bg|почна|tr=póčna}} {{pf.}}
+* Belarusian: {{t|be|пачынаць|impf|tr=pačynácʹ|sc=Cyrl}}, {{t|be|пачаць|tr=pačácʹ|sc=Cyrl}} {{pf.}} {{qualifier|transitive}}, {{t|be|пачынацца|impf|tr=pačynácca|sc=Cyrl}}, {{t|be|пачацца|tr=pačácca|sc=Cyrl}} {{qualifier|intransitive}}
+* Bulgarian: {{t+|bg|започвам|impf|tr=zapóčvam}}, {{t+|bg|почвам|impf|tr=póčvam}}, {{t+|bg|почна|pf|tr=póčna}}
 * Chinese:
 *: Mandarin: {{t+|cmn|開始|sc=Hani}}, {{t+|cmn|开始|tr=kāishǐ|sc=Hani}}
-* Czech: {{t+|cs|začínat}} {{impf}}, {{t+|cs|začít}} {{pf.}}
+* Czech: {{t+|cs|začínat|impf}}, {{t+|cs|začít|pf}}
 * Dutch: {{t+|nl|beginnen}}, {{t+|nl|starten}}, {{t+|nl|aanvangen}}
 * Esperanto: {{t|eo|eki}}
 * Finnish: {{t+|fi|aloittaa}}
@@ -258,17 +258,17 @@ From {{etyl|enm|en}} {{term|sterten||to leap up suddenly, rush out|lang=enm}}, f
 * Polish: {{t+|pl|zacząć}}
 * Portuguese: {{t+|pt|começar}}
 * Romanian: {{t+|ro|începe}}
-* Russian: {{t+|ru|начинать|tr=načinátʹ|sc=Cyrl}} {{impf}}, {{t+|ru|начать|tr=načátʹ|sc=Cyrl}} {{pf.}} {{qualifier|transitive}}, {{t+|ru|начинаться|tr=načinátʹsja|sc=Cyrl}} {{impf}}, {{t+|ru|начаться|tr=načátʹsja|sc=Cyrl}} {{pf.}} {{qualifier|intransitive}}
+* Russian: {{t+|ru|начинать|impf|tr=načinátʹ|sc=Cyrl}}, {{t+|ru|начать|tr=načátʹ|sc=Cyrl}} {{pf.}} {{qualifier|transitive}}, {{t+|ru|начинаться|impf|tr=načinátʹsja|sc=Cyrl}}, {{t+|ru|начаться|tr=načátʹsja|sc=Cyrl}} {{pf.}} {{qualifier|intransitive}}
 * Santali: {{t|sat|ᱮᱦᱳᱵ|tr=ehop'|sc=Olck}}
 * Scottish Gaelic: {{t|gd|tòisich}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|по̀че̄ти|sc=Cyrl}}, {{t|sh|започети}}, {{t|sh|начнути}}, {{t|sh|начети}}
 *: Roman: {{t|sh|pòčēti}}, {{t|sh|započeti}}, {{t|sh|načnuti}}, {{t|sh|načeti}}
-* Slovak: {{t|sk|začať}} {{pf.}}, {{t|sk|začínať}} {{impf}}
+* Slovak: {{t|sk|začať|pf}}, {{t|sk|začínať|impf}}
 * Slovene: {{t+|sl|začeti}}
 * Spanish: {{t+|es|empezar}}, {{t+|es|comenzar}}
 * Turkish: {{t+|tr|başlamak}}
-* Ukrainian: {{t|uk|починати|tr=počynáty}} {{impf}}, {{t|uk|почати|tr=počáty}} {{pf.}} {{qualifier|transitive}}, {{t|uk|починатися|tr=počynátysja}} {{impf}}, {{t|uk|початися|tr=počátysja}} {{pf.}} {{qualifier|intransitive}}
+* Ukrainian: {{t|uk|починати|impf|tr=počynáty}}, {{t|uk|почати|tr=počáty}} {{pf.}} {{qualifier|transitive}}, {{t|uk|починатися|impf|tr=počynátysja}}, {{t|uk|початися|tr=počátysja}} {{pf.}} {{qualifier|intransitive}}
 * Vietnamese: {{t+|vi|bắt đầu}}
 {{trans-bottom}}
 
@@ -285,7 +285,7 @@ From {{etyl|enm|en}} {{term|sterten||to leap up suddenly, rush out|lang=enm}}, f
 * Jèrriais: {{t|roa-jer|stèrter}} {{qualifier|computing}}
 * Polish: {{t+|pl|uruchomić}}, {{t+|pl|zapalić}}
 * Romanian: {{t+|ro|porni}}
-* Russian: {{t+|ru|запускать|tr=zapuskát'|sc=Cyrl}} {{impf}}, {{t+|ru|запустить|tr=zapustít'|sc=Cyrl}} {{pf.}}
+* Russian: {{t+|ru|запускать|impf|tr=zapuskát'|sc=Cyrl}}, {{t+|ru|запустить|pf|tr=zapustít'|sc=Cyrl}}
 * Serbo-Croatian: {{t|sh|pokrenuti}}
 * Spanish: {{t+|es|iniciar}}, {{t+|es|arrancar}}
 {{trans-bottom}}
@@ -312,7 +312,7 @@ From {{etyl|enm|en}} {{term|sterten||to leap up suddenly, rush out|lang=enm}}, f
 *: Sorani: {{t|ckb|ده‌سپێکردن|sc=ku-Arab}}
 * Old French: {{t|fro|cumancer}}
 * Polish: {{t+|pl|zacząć}}, {{t+|pl|rozpocząć}}
-* Russian: {{t+|ru|начинаться|tr=načinát's'a|sc=Cyrl}} {{impf}}, {{t+|ru|начаться|tr=načát's'a|sc=Cyrl}} {{pf.}}, {{t+|ru|стартовать|tr=startovát'|sc=Cyrl}} {{pf.}} ''and'' {{impf}}
+* Russian: {{t+|ru|начинаться|impf|tr=načinát's'a|sc=Cyrl}}, {{t+|ru|начаться|pf|tr=načát's'a|sc=Cyrl}}, {{t+|ru|стартовать|tr=startovát'|sc=Cyrl}} {{pf.}} ''and'' {{impf}}
 * Serbo-Croatian: {{t|sh|početi}}, {{t|sh|započeti}}
 * Swedish: {{t+|sv|börja}}
 {{trans-bottom}}
@@ -325,7 +325,7 @@ From {{etyl|enm|en}} {{term|sterten||to leap up suddenly, rush out|lang=enm}}, f
 * Maori: {{t|mi|ohomauri}}, {{t|mi|ohorere}}, {{t|mi|ohotata}}
 * Polish: {{t|pl|poderwać się}}
 {{trans-mid}}
-* Russian: {{t+|ru|дёргаться|tr=d'órgat's'a|sc=Cyrl}} {{impf}}, {{t+|ru|дёрнуться|tr=d'órnut's'a|sc=Cyrl}} {{pf.}}
+* Russian: {{t+|ru|дёргаться|impf|tr=d'órgat's'a|sc=Cyrl}}, {{t+|ru|дёрнуться|pf|tr=d'órnut's'a|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|leum}}
 * Serbo-Croatian: {{t|sh|trznuti}}, {{t|sh|trgnuti}}
 * Swedish: {{t|sv|rycka till}}
