@@ -197,7 +197,7 @@ From {{etyl|enm|en}} {{term|floten|lang=enm}}, from {{etyl|ang|en}} {{term|floti
 ====Translations====
 {{trans-top|be supported by a liquid}}
 * Arabic: {{t|ar|يطفو}}
-* Belarusian: {{qualifier|abstract}} {{t|be|плаваць|tr=plávac'|sc=Cyrl}} {{impf}}, {{t|be|паплаваць|tr=paplávac'|sc=Cyrl}} {{pf.}}, {{qualifier|concrete}} {{t|be|плыць|tr=plyc'|sc=Cyrl}} {{impf}}, {{t|be|паплыць|tr=paplýc’|sc=Cyrl}} {{pf.}}
+* Belarusian: {{qualifier|abstract}} {{t|be|плаваць|tr=plávac'|sc=Cyrl}} {{impf}}, {{t|be|паплаваць|pf|tr=paplávac'|sc=Cyrl}}, {{qualifier|concrete}} {{t|be|плыць|tr=plyc'|sc=Cyrl}} {{impf}}, {{t|be|паплыць|pf|tr=paplýc’|sc=Cyrl}}
 * Bulgarian: {{t+|bg|плавам|sc=Cyrl}}
 * Burmese: {{t+|my|မျော|tr=myaw:|sc=Mymr}}
 * Catalan: {{t+|ca|flotar}}
@@ -215,7 +215,7 @@ From {{etyl|enm|en}} {{term|floten|lang=enm}}, from {{etyl|ang|en}} {{term|floti
 * Jèrriais: {{t|roa-jer|fliotter}}
 * Khmer: {{t|km|អន្ដែត|tr=on-dait}}
 * Latin: {{t|la|fluctuo}}
-* Lithuanian: {{t|lt|plūduriuoti}} {{impf}}, {{t+|lt|plaukti}} {{impf}}
+* Lithuanian: {{t|lt|plūduriuoti|impf}}, {{t+|lt|plaukti|impf}}
 * Maori: {{t|mi|mānu}}
 * Portuguese: {{t+|pt|boiar}}, {{t+|pt|flutuar}}
 * Quechua: {{t|qu|tuytuy}}
@@ -239,7 +239,7 @@ From {{etyl|enm|en}} {{term|floten|lang=enm}}, from {{etyl|ang|en}} {{term|floti
 * Hungarian: {{t+|hu|lebeg}}, {{t+|hu|úszik}}
 * Japanese: {{t|ja|浮かぶ|tr=ukabu}}, {{t|ja|浮く|tr=uku}}
 * Jèrriais: {{t|roa-jer|fliotter}}
-* Lithuanian: {{t|lt|plūduriuoti}} {{impf}}, {{t+|lt|plaukti}} {{impf}}
+* Lithuanian: {{t|lt|plūduriuoti|impf}}, {{t+|lt|plaukti|impf}}
 * Russian: {{t|ru|[[держа́ться]] [[на]] [[вода|воде́]]}}
 * Spanish: {{t+|es|flotar}}
 {{trans-bottom}}
