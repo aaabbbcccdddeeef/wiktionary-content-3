@@ -260,8 +260,7 @@ From {{etyl|sla-pro|sh}} {{term/t|sla-pro|*mana}}.
 # [[fault]], [[defect]], [[shortcoming]]
 
 =====Declension=====
-{{sh-decl-noun
-|mana|mane
+{{sh-decl-noun|mana|mane
 |mane|mana
 |mani|manama
 |manu|mane
@@ -286,8 +285,7 @@ From {{etyl|la|sh}} {{term|manna|lang=la}}, from {{etyl|grc|sh}} {{term|sc=polyt
 # [[manna]]
 
 =====Declension=====
-{{sh-decl-noun
-|mana|mane
+{{sh-decl-noun|mana|mane
 |mane|mana
 |mani|manama
 |manu|mane
@@ -309,8 +307,7 @@ From {{etyl|en|sh}} {{term|mana|lang=en}}, itself from a [[Polynesian]] source.
 # [[#English|mana]]
 
 =====Declension=====
-{{sh-decl-noun
-|mana|mane
+{{sh-decl-noun|mana|mane
 |mane|mana
 |mani|manama
 |manu|mane
@@ -410,9 +407,9 @@ From {{etyl|poz-pol-pro|to}} {{term/t|poz-pol-pro|*mana}}
 ==Volapük==
 
 ===Noun===
-'''mana'''
+{{head|en|noun form}}
 
-# {{genitive of|man|lang=vo}}
+# {{genitive of|man|lang=vo|nocat=1}}
 
 [[af:mana]]
 [[ar:mana]]
