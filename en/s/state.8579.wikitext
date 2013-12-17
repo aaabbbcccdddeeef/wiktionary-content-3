@@ -15,17 +15,19 @@ From {{etyl|la|en}} {{term|status||manner of standing, attitude, position, carri
 {{wikipedia}}
 {{en-noun}}
 
-# Any [[sovereign]] [[polity]]; a [[government]].
-#* '''20C''', {{w|Albert Einstein}}, as quoted by Virgil Henshaw in ''Albert Einstein: Philosopher Scientist'' (1949)
-#*: Never do anything against conscience even if the '''state''' demands it.
-#* {{quote-magazine|date=2013-06-07|author=David Simpson
+# A polity.
+## Any [[sovereign]] [[polity]]; a [[government]].
+##* '''20C''', {{w|Albert Einstein}}, as quoted by Virgil Henshaw in ''Albert Einstein: Philosopher Scientist'' (1949)
+##*: Never do anything against conscience even if the '''state''' demands it.
+##* {{quote-magazine|date=2013-06-07|author=David Simpson
 |volume=188|issue=26|page=36|magazine={{w|The Guardian Weekly}}
 |title=[http://www.guardian.co.uk/books/2013/may/18/falling-upwards-richard-holmes-review Fantasy of navigation]
 |passage=It is tempting to speculate about the incentives or compulsions that might explain why anyone would take to the skies in [the] basket [of a balloon]:&nbsp;[&hellip;]; &nbsp;[&hellip;]; or perhaps to muse on the irrelevance of the borders that separate nation '''states''' and keep people from understanding their shared environment.}}
-# A political division of a [[federation]] retaining a degree of autonomy, for example one of the fifty [[United States]]. See also [[province|Province]].
-# {{cx|obsolete|lang=en}} A form of government other than a [[monarchy]].
-#* {{w|John Dryden}} (1631-1700)
-#*: Well monarchies may own religion's name, / But '''states''' are atheists in their very fame.
+## A political division of a [[federation]] retaining a degree of autonomy, for example one of the fifty [[United States]]. See also [[province|Province]].
+## {{cx|obsolete|lang=en}} A form of government other than a [[monarchy]].
+##* {{w|John Dryden}} (1631-1700)
+##*: Well monarchies may own religion's name, / But '''states''' are atheists in their very fame.
+## {{context|anthropology|lang=en}} A society larger than a [[tribe]]. A society large enough to form a state in the sense of a government.
 # A condition; a set of circumstances applying at any given time.
 #: {{usex|a '''state''' of being; &nbsp; a '''state''' of emergency|lang=en}}
 #* {{w|John Dryden}} (1631-1700)
@@ -33,6 +35,13 @@ From {{etyl|la|en}} {{term|status||manner of standing, attitude, position, carri
 #*{{quote-book|year=1898|author={{w|Winston Churchill (novelist)|Winston Churchill}}
 |title={{w|The Celebrity}}|chapter=8
 |passage=I corralled the judge, and we started off across the fields, in no very mild '''state''' of fear of that gentleman's wife, whose vigilance was seldom relaxed.}}
+## {{context|computing|lang=en}} The stable condition of a processor during a particular [[clock cycle]].
+##: {{usex|In the fetch '''state''', the address of the next instruction is placed on the address bus.|lang=en}}
+## {{context|computing|lang=en}} The set of all parameters relevant to a computation.
+##: {{usex|The '''state''' here includes a set containing all names seen so far.|lang=en}}
+## {{context|computing|lang=en}} The values of all parameters at some point in a computation.
+##: {{usex|A debugger can show the '''state''' of a program at any breakpoint.|lang=en}}
+## {{context|sciences|lang=en}} The physical property of matter as [[solid]], [[liquid]], [[gas]] or [[plasma]].
 # [[pomp|Pomp]], [[ceremony]], or [[dignity]].
 #: {{usex|The President's body will lie in '''state''' at the Capitol.|lang=en}}
 # Rank; condition; quality.
@@ -48,17 +57,9 @@ From {{etyl|la|en}} {{term|status||manner of standing, attitude, position, carri
 #*: His high throne, {{...}} under '''state''' / Of richest texture spread.
 #* {{w|Jonathan Swift}} (1667–1745)
 #*: When he went to court, he used to kick away the '''state''', and sit down by his prince cheek by jowl.
-# {{context|computing|lang=en}} The stable condition of a processor during a particular [[clock cycle]].
-#: {{usex|In the fetch '''state''', the address of the next instruction is placed on the address bus.|lang=en}}
-# {{context|computing|lang=en}} The set of all parameters relevant to a computation.
-#: {{usex|The '''state''' here includes a set containing all names seen so far.|lang=en}}
-# {{context|computing|lang=en}} The values of all parameters at some point in a computation.
-#: {{usex|A debugger can show the '''state''' of a program at any breakpoint.|lang=en}}
-# {{context|anthropology|lang=en}} A society larger than a [[tribe]]. A society large enough to form a state in the sense of a government.
-# {{context|sciences|lang=en}} The physical property of matter as [[solid]], [[liquid]], [[gas]] or [[plasma]].
 # {{context|mathematics|stochastic processes|lang=en}} An element of the range of the [[random variable]]s that define a [[random]] [[process]].
 # {{context|obsolete|lang=en}} A great person, a [[dignitary]]; a [[lord]] or [[prince]].
-#* '''1644''', {{w|John Milton}}, ''Aeropagitica'':
+#* '''1644''', {{w|John Milton}}, ''{{w|Aeropagitica}}'':
 #*: They who to '''States''' and Governours of the Commonwealth direct their Speech{{...}}; I suppose them as at the beginning of no meane endeavour, not a little alter'd and mov'd inwardly in their mindes{{...}}.
 # {{cx|obsolete|lang=en}} Estate, possession.
 #: {{rfquotek|Daniel}}
