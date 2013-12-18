@@ -2,9 +2,9 @@
 ==English==
 
 ===Noun===
-{{head|en}}
+{{head|en|plural}}
 
-# {{plural of|la}}
+# {{plural of|la|lang=en|nocat=1}}
 
 ===Anagrams===
 * [[asl#English|asl]], [[a/s/l#English|a/s/l]], [[ASL#English|ASL]],  [[LSA#English|LSA]],  [[sal#English|sal]], [[Sal#English|Sal]],  [[SLA#English|SLA]]
@@ -132,7 +132,7 @@ From {{etyl|gml|da}} {{term|las||patch, scrap|lang=gml}}.
 * {{rhymes|aːs|lang=de}}
 
 ===Verb===
-'''las'''
+{{head|de}}
 
 # {{form of|lang=de|past tense|lesen}}
 
@@ -240,8 +240,7 @@ From {{etyl|sla-pro|pl}} {{term/t|sla-pro|*lěsъ}}.
 # [[forest]]
 
 ====Declension====
-{{pl-decl-noun
-|las|lasy
+{{pl-decl-noun|las|lasy
 |lasu|lasów
 |lasowi|lasom
 |las|lasy
