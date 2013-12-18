@@ -14,7 +14,7 @@ From {{etyl|ja|en}} {{term|sc=Jpan|仮名|tr=kana||syllabary|lang=ja}}.
 
 # The [[hiragana]] and [[katakana]] [[syllabary|syllabaries]]. These are used to write [[Japanese]] words and particles using characters that represent syllables. Kana are derived from [[kanji]].
 # A [[hiragana]] or [[katakana]] character.
-# {{plural of|kana}}
+# {{plural of|kana|lang=en}}
 
 ====Translations====
 {{trans-top|Japanese syllabaries}}
@@ -135,8 +135,7 @@ Borrowed from a Germanic language, ultimately from {{etyl|gem-pro|fi}} {{term/t|
 #: '''''kana'''lintu'' = '''gallinaceous''' bird
 # {{context|derogatory|lang=fi}} hen (unintelligent, talkative woman)
 # {{context|archaic|lang=fi}} [[woman]], [[sweetheart]]
-#* {{quote-book
-|year=1835
+#* {{quote-book|year=1835
 |author=Elias Lönnrot
 |title=[[Kalevala]]
 |page=
@@ -256,8 +255,7 @@ From {{etyl|tr|sh}} {{term|kına|lang=tr}}, from {{etyl|ar|sh}} {{term|sc=Arab|�
 # [[henna]]
 
 =====Declension=====
-{{sh-decl-noun
-|kȁna|kane
+{{sh-decl-noun|kȁna|kane
 |kane|kȃnā
 |kani|kanama
 |kanu|kane
@@ -279,8 +277,7 @@ From {{etyl|ja|sh}} {{term|仮名|tr=kana|lang=ja}}.
 # [[#English|kana]]
 
 =====Declension=====
-{{sh-decl-noun
-|kana|kane
+{{sh-decl-noun|kana|kane
 |kane|kana
 |kani|kanama
 |kanu|kane
