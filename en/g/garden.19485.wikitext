@@ -67,9 +67,9 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Asturian: {{t|ast|xardín}}
 * Baluchi: {{t|bal|باگ|tr=bág|sc=fa-Arab}}
 * Bashkir: {{t|ba|баҡса|tr=baqsa|sc=Cyrl}}
-* Belarusian: {{t|be|сад|m|tr=sad|sc=Cyrl}}
+* Belarusian: {{t|be|сад|m|sc=Cyrl}}
 * Bengali: {{t|bn|উদ্দ্যান|tr=uddyān|sc=Beng}}
-* Bulgarian: {{t+|bg|градина|f|tr=gradína|sc=Cyrl}}
+* Bulgarian: {{t+|bg|гради́на|f|sc=Cyrl}}
 * Catalan: {{t|ca|jardí|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|花園|sc=Hani}}, {{t+|cmn|花园|tr=huāyuán|sc=Hani}}
@@ -107,7 +107,7 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Latin: {{t+|la|hortus}}
 * Latvian: {{t|lv|dārzs|m}}
 * Lithuanian: {{t+|lt|sodas}}
-* Macedonian: {{t|mk|градина|f|tr=grádina|sc=Cyrl}}
+* Macedonian: {{t|mk|гра́дина|f|sc=Cyrl}}
 * Marathi: {{t|mr|बगीचा|sc=Deva}}
 * Navajo: {{t|nv|dáʼákʼeh}}
 * Neapolitan: {{t|nap|ciardino|m}}
@@ -119,7 +119,7 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Portuguese: {{t+|pt|jardim|m}}
 * Romanian: {{t+|ro|grădină|f}}
 * Romansch: {{t|rm|curtin|m}} {{qualifier|Rumantsch Grischun, Puter, Vallader}}, {{t|rm|curtgin|m}} {{qualifier|Sursilvan}}, {{t|rm|curtgegn|m}} {{qualifier|Sutsilvan}}, {{t|rm|curtgign|m}} {{qualifier|Surmiran}}
-* Russian: {{t+|ru|сад|m|tr=sad|sc=Cyrl}}, {{t+|ru|огород|m|tr=ogoród|sc=Cyrl}} {{qualifier|vegetable garden}}
+* Russian: {{t+|ru|сад|m|sc=Cyrl}}, {{t+|ru|огоро́д|m|sc=Cyrl}} {{qualifier|vegetable garden}}
 * Scottish Gaelic: {{t|gd|gàrradh|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|вртњак|sc=Cyrl}}, {{t|sh|повртњак|sc=Cyrl}}, {{t|sh|сад|sc=Cyrl}}, {{t|sh|садњак|sc=Cyrl}}, {{t|sh|посадњак|sc=Cyrl}}, {{t|sh|врт|m|sc=Cyrl}}
@@ -135,7 +135,7 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Telugu: {{t+|te|తోట|tr=tōṭa}}
 * Thai: {{t+|th|สวน|tr=sŭan|sc=Thai}}
 * Turkish: {{t+|tr|bahçe}}
-* Ukrainian: {{t|uk|сад|m|tr=sad|sc=Cyrl}}
+* Ukrainian: {{t|uk|сад|m|sc=Cyrl}}
 * Urdu: {{t|ur|باغیچہ|m|tr=bāġīcā|sc=ur-Arab}}, {{t|ur|باغ|m|tr=bāġ|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|vườn}}
 * Volapük: {{t+|vo|gad}}, {{qualifier|vegetable}} {{t+|vo|härbatagad}}
@@ -144,9 +144,9 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 {{trans-bottom}}
 
 {{trans-top|gardens with public access}}
-* Armenian: {{t|hy|զբոսայգի|tr=zbosaygi|sc=Armn}}, {{t+|hy|այգի|tr=aygi|sc=Armn}}
-* Bashkir: {{t|ba|баҡса|tr=baqsa|sc=Cyrl}}
-* {{ttbc|ca}}: {{t|ca|jardí|m}}, {{t+|ca|parc|m}}, {{t+|ca|públic|m|alt=jardí públic}} <!-- was "jardí [[públic]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Armenian: {{t|hy|զբոսայգի|sc=Armn}}, {{t+|hy|այգի|sc=Armn}}
+* Bashkir: {{t|ba|баҡса|sc=Cyrl}}
+* Catalan: {{t|ca|jardí|m}}, {{t+|ca|parc|m}}, {{t|ca|[[jardí]] [[públic]]}}
 * Czech: {{t+|cs|zahrada|f}}
 * Danish: {{t+|da|have}}, {{t+|da|park}}, {{t|da|anlæg}}
 * Dutch: {{t+|nl|tuin|m}}, {{t+|nl|park|n}}
@@ -184,8 +184,8 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 {{trans-top|grounds at the front or back of a house}}
 * Afrikaans: {{t|af|tuin}}, {{t|af|voortuin}} (at the front), {{t|af|agterplaas}} (backyard)
 * Bashkir: {{t|ba|баҡса|tr=baqsa|sc=Cyrl}}
-* Belarusian: {{t|be|сад|m|tr=sad|sc=Cyrl}}, {{t|be|агарод|m|tr=aharód|sc=Cyrl}}
-* Bulgarian: {{t+|bg|градина|f|tr=gradína|sc=Cyrl}}
+* Belarusian: {{t|be|сад|m|sc=Cyrl}}, {{t|be|агаро́д|m|sc=Cyrl}} {{qualifier|vegetable garden}}
+* Bulgarian: {{t+|bg|гради́на|f|sc=Cyrl}}
 * Czech: {{t+|cs|zahrada|f}}
 * Danish: {{t+|da|have}}
 * Dutch: {{t+|nl|tuin|m}}
@@ -204,28 +204,28 @@ From {{etyl|xno|en}}, {{etyl|ONF.|en}} {{term|gardin|lang=fro}} (compare modern 
 * Kurdish: {{t+|ku|dermal|f}}, {{t+|ku|baxçe|m}}, {{t+|ku|bax|m}}
 * Macedonian: {{t|mk|градина|f|tr=grádina|sc=Cyrl}}, {{t|mk|двор|m|tr=dvor|sc=Cyrl}}
 * Norwegian: {{t+|no|hage|m}}, {{t+|no|tomt|m}}
-* Persian: {{t+|fa|باغچه|tr=bāqĉe|sc=fa-Arab}}
+* Persian: {{t+|fa|باغچه|tr=bâğče|sc=fa-Arab}}
 * Polish: {{t+|pl|ogród|m}}, {{t+|pl|działka|f}}
 * Portuguese: {{t+|pt|quintal|m}}
 * Romanian: {{t+|ro|grădină|f}}, {{t+|ro|curte|f}}
 * Romansch: {{t|rm|curtin|m}} {{qualifier|Rumantsch Grischun, Puter, Vallader}}, {{t|rm|curtgin|m}} {{qualifier|Sursilvan}}, {{t|rm|curtgegn|m}} {{qualifier|Sutsilvan}}, {{t|rm|curtgign|m}} {{qualifier|Surmiran}}
-* Russian: {{t+|ru|сад|m|tr=sad|sc=Cyrl}}, {{t+|ru|огород|m|tr=ogoród|sc=Cyrl}} {{qualifier|vegetable garden}}
+* Russian: {{t+|ru|сад|m|tr=sad|sc=Cyrl}}, {{t+|ru|огоро́д|m|tr=ogoród|sc=Cyrl}} {{qualifier|vegetable garden}}
 * Slovak: {{t|sk|záhrada|f}}, {{t|sk|záhradka|f}}
 * Slovene: {{t+|sl|vrt|m}}
 * Spanish: {{t+|es|jardín|m}}
 * Swedish: {{t+|sv|tomt|c}}, {{t+|sv|trädgård|c}}
 * Telugu: {{t+|te|పెరడు|tr=peradu|sc=Telu}}
 * Turkish: {{t|tr|ön bahçe}}, {{t+|tr|arka bahçe}}
-* Ukrainian: {{t|uk|сад|m|tr=sad|sc=Cyrl}}, {{t+|uk|город|m|tr=hórod|sc=Cyrl}}
+* Ukrainian: {{t|uk|сад|m|sc=Cyrl}}, {{t+|uk|го́род|m|sc=Cyrl}} {{qualifier|vegetable garden}}
 {{trans-bottom}}
 
 {{trans-top|slang: the pubic hair}}
 * Esperanto: {{t|eo|pubhararo}}
 * German: {{t+|de|Gestrüpp|n}}
 * Italian: {{t+|it|foresta|f}}
-* Macedonian: {{t+|mk|шума|f|tr=šúma|sc=Cyrl}}
+* Macedonian: {{t+|mk|шу́ма|f|sc=Cyrl}}
 {{trans-mid}}
-* Persian: {{t|fa|موی زهار|tr=muy e zahār|sc=fa-Arab}}
+* Persian: {{t|fa|موی زهار|tr=muy e zahâr|sc=fa-Arab}}
 * Portuguese: {{t+|pt|brenha|f}}, {{t+|pt|matagal|m}}
 * Romanian: {{t+|ro|iarbă|f}}
 {{trans-bottom}}
