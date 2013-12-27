@@ -25,7 +25,7 @@ From {{etyl|enm|en}} {{term|whennes|lang=enm}}, from {{etyl|ang|en}} {{term|hwan
 * ''From whence'' has a strong literary precedent, appearing in Shakespeare and the King James Bible as well as in the writings of numerous Victorian-era writers. In recent times, however, it has been criticized as redundant by usage commentators.
 
 ====Translations====
-{{trans-top|From where; from which place or source}}
+{{trans-top|from where; from which place or source}}
 * Bulgarian: {{t+|bg|откъде|tr=otkădé|sc=Cyrl}}
 * Czech: {{t+|cs|odkud}}
 * Danish: {{t|da|hvorfra}}, {{t|da|hvoraf}}, {{t|da|hveden}}
@@ -57,7 +57,7 @@ From {{etyl|enm|en}} {{term|whennes|lang=enm}}, from {{etyl|ang|en}} {{term|hwan
 {{trans-bottom}}
 
 ===Conjunction===
-'''whence'''
+{{en-con}}
 
 # From where.
 #* {{quote-book|year=1611|title=King James Bible|section=John 8:14|url=[s:Bible (King James)/John{{!}}Wikisource]|passage=Jesus answered and said unto them, Though I bear record of myself, yet my record is true: for I know '''whence''' I came, and [[whither]] I go; but ye cannot tell '''whence''' I come, and [[whither]] I go.}}
@@ -67,7 +67,7 @@ From {{etyl|enm|en}} {{term|whennes|lang=enm}}, from {{etyl|ang|en}} {{term|hwan
 #: ''I scored more than you in the exam, '''whence''' we can conclude that I am better at the subject than you are.''
 
 ====Translations====
-{{trans-top|From where}}
+{{trans-top|from where}}
 * Danish: {{t|da|hvorfra}}
 * Esperanto: {{t|eo|el kie}}
 * Finnish: {{t+|fi|mistä}}
@@ -88,31 +88,30 @@ From {{etyl|enm|en}} {{term|whennes|lang=enm}}, from {{etyl|ang|en}} {{term|hwan
 * Finnish: {{t+|fi|mistä}}
 * French: {{t+|fr|d'où}}, {{t+|fr|duquel|m}}, {{t+|fr|desquels|m-p}}, {{t+|fr|de laquelle|f}}, {{t+|fr|desquelles|f-p}}, {{t+|fr|dont}}, {{t|fr|ce dont}}
 {{trans-mid}}
-* Greek: [[από]] [[όπου]]
+* Greek: {{t|el|[[από]] [[όπου]]}}
 * Hungarian: {{t+|hu|ahonnan}}, {{t|hu|amiből}}
 * Russian: {{t|ru|откуда}}, {{t|ru|отсюда}}, {{t|ru|следовательно}}, {{t|ru|значит}}
 * Swedish: {{t+|sv|varav}}, {{t|sv|var av}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|nl}}: [[waarvandaan]], “[[waar]] … [[vandaan]]…”
-* {{ttbc|de}}: [[woher]]
-* {{ttbc|it}}: da dove (1); da cui (2)
+* {{ttbc|nl}}: {{t|nl|waarvandaan}}, {{t|nl|[[waar]] … [[vandaan]]…}}
+* {{ttbc|de}}: {{t|de|woher}}
+* {{ttbc|it}}: {{t|it|da dove}} (1); {{t|it|da cui}} (2)
 {{trans-mid}}
 {{trans-bottom}}
 
 ====Antonyms====
-* [[whither]]
+* {{sense|?}} {{l|en|whither}}
 
 ====Related terms====
-* [[elsewhence]]
-* [[thence]]
-* [[hence]]
-* [[whencever]]
-* [[whencesoever]]
-* [[whenceforth]]
+* {{l|en|elsewhence}}
+* {{l|en|thence}}
+* {{l|en|hence}}
+* {{l|en|whencever}}
+* {{l|en|whencesoever}}
+* {{l|en|whenceforth}}
 
-[[Category:English conjunctions]]
 [[Category:English interrogative adverbs]]
 
 [[cs:whence]]
