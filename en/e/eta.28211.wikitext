@@ -23,10 +23,12 @@ From {{etyl|grc|en}} {{term|ἦτα|tr=ēta|lang=grc}}.
 *: Mandarin: {{t+|cmn|艾塔|tr=àitǎ|sc=Hani}}, {{t+|cmn|伊塔|tr=yītǎ|sc=Hani}}
 * Czech: {{t|cs|éta|n}}
 * Dutch: {{t|nl|èta|m|f}}
+* Faroese: {{t|fo|eta|n}}
 * French: {{t+|fr|êta|m}}
 * German: {{t+|de|Eta|n}}
 {{trans-mid}}
 * Greek: {{t+|el|ήτα|n|tr=íta|sc=Grek}}
+* Icelandic: {{t|is|eta|f|n}}
 * Interlingua: {{t|ia|eta}}
 * Japanese: {{t|ja|エータ|tr=ēta|sc=Jpan}}, {{t|ja|イタ|tr=ita|sc=Jpan}}
 * Korean: {{t+|ko|에타|tr=eta|sc=Kore}}
@@ -104,23 +106,34 @@ From {{etyl|ja|en}} {{term|穢多|lang=ja|sc=Jpan||full of filth}} {{qualifier|l
 
 ==Faroese==
 
-===Etymology===
+===Etymology 1===
 From {{etyl|non|fo}} {{term|eta|lang=non}}, from {{etyl|gem-pro|fo}} {{term/t|gem-pro|*etaną}}, from {{etyl|ine-pro|fo}} {{term/t|ine-pro|*h₁ed-}}.
 
-===Verb===
+====Verb====
 {{fo-verb|át|ótu|etið}}
 
 # to [[eat]]
 
-====Conjugation====
+=====Conjugation=====
 {{fo-conj-72||e|t|á|ó}}
+
+===Etymology 2===
+From {{etyl|grc|fo}} {{term|ἦτα|tr=êta|lang=grc}}.
+
+====Noun====
+{{fo-noun|n|eta|etu}}
+
+# [[#English|eta]] (letter of the Greek alphabet)
+
+=====Declension=====
+{{fo-decl-noun-n1|et}}
 
 ----
 
 ==Haitian Creole==
 
 ===Etymology===
-From {{etyl|fr|ht}} {{term|état|lang=fr}}
+From {{etyl|fr|ht}} {{term|état|lang=fr}}, from {{etyl|fro|ht}} {{term|estat|lang=fro}}, from {{etyl|la|ht}} {{term|status|lang=la}}.
 
 ===Noun===
 {{head|ht|noun}}
