@@ -969,15 +969,9 @@ From {{etyl|la|pl}} {{term|lang=la|barium}}
 {{pl-noun|m}}
 
 # [[barium]]
-# [[#Etymology_2|bar]] {{gloss|a unit of pressure equal to 100,000 pascals}}
 
 =====Declension=====
-{|
-|-
-|#1
-|#2
-|-
-|{{pl-decl-noun-sing
+{{pl-decl-noun-sing
 |bar
 |baru
 |barowi
@@ -986,7 +980,17 @@ From {{etyl|la|pl}} {{term|lang=la|barium}}
 |barze
 |barze
 }}
-|{{pl-decl-noun
+
+===Etymology 3===
+From {{etyl|grc|en}} {{term|βάρος|tr=baros||weight|lang=grc}}, probably borrowed via science literature in another European language.
+
+====Noun====
+{{pl-noun|m}}
+
+# [[#English|bar]] {{gloss|a unit of pressure equal to 100,000 pascals}}
+
+=====Declension=====
+{{pl-decl-noun
 |bar|bary
 |bara|barów
 |barowi|barom
@@ -995,7 +999,6 @@ From {{etyl|la|pl}} {{term|lang=la|barium}}
 |barze|barach
 |barze|bary
 }}
-|}
 
 ----
 
