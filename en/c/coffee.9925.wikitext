@@ -49,17 +49,17 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * Amharic: {{t|am|ቡና|tr=buna|sc=Ethi}}
 * Amuzgo: {{t|amu|kajwê}}
 * Arabic: {{t+|ar|قهوة|f|tr=qáhwa}}
-* Armenian: {{t+|hy|սուրճ|tr=surč̣}}
+* Armenian: {{t+|hy|սուրճ}}
 * Asturian: {{t+|ast|café|m}}
 * Azeri: {{t+|az|qəhvə}}
 * Baluchi: {{t|bal|کاوہ|tr=káwa}}, {{t|bal|قہوہ|tr=qahwa}}
-* Bashkir: {{t|ba|кофе|tr=kofe|sc=Cyrl}}, {{t|ba|ҡәһүә|tr=qähwä|sc=Cyrl}}
+* Bashkir: {{t|ba|кофе|sc=Cyrl}}, {{t|ba|ҡәһүә|sc=Cyrl}}
 * Belarusian: {{t|be|кава|f|tr=káva}}
 * Bengali: {{t|bn|কফি|tr=kaphi|sc=Beng}}
 * Bulgarian: {{t|bg|кафе|n|tr=kafé}}
 * Burmese: {{t+|my|ကော်ဖီ|tr=ko hpi|sc=Mymr}}
 * Catalan: {{t+|ca|cafè|m}}
-* Chechen: {{t|ce|къахьо|tr=q̇aẋo}}, {{t|ce|кофэ|tr=kofe}}
+* Chechen: {{t|ce|къахьо}}, {{t|ce|кофэ}}
 * Cherokee: {{t|chr|ᎧᏫ|tr=kawi|sc=Cher}}
 * Cheyenne: {{t|chy|moˀȯhtávėhohpe}}
 * Chinese:
@@ -79,7 +79,7 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * Finnish: {{t+|fi|kahvi}}
 * French: {{t+|fr|café|m}}
 * Galician: {{t+|gl|café|m}}
-* Georgian: {{t+|ka|ყავა|tr=qava|sc=Geor}}
+* Georgian: {{t+|ka|ყავა|sc=Geor}}
 * German: {{t+|de|Kaffee|m}}
 * Greek: {{t+|el|καφές|m|tr=kafés}}
 * Gujarati: {{t|gu|કૉફી|tr=kophī|sc=Gujr}}
@@ -147,6 +147,8 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * Sinhalese: {{t|si|කෝපි|tr=kōpi|sc=Sinh}}
 * Slovak: {{t|sk|káva|f}}
 * Slovene: {{t+|sl|kava|f}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|kafej|m}}
 * Sotho: {{t|st|kofi}}
 * Spanish: {{t+|es|café|m}}, {{t+|es|tinto|m}}
 * Swahili: {{t+|sw|kahawa}}
@@ -175,15 +177,15 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 
 {{trans-top|beans}}
 * Arabic: {{t+|ar|بن|tr=bun|m}}
-* Armenian: {{t+|hy|սուրճ|tr=surč̣}}, {{t|hy|սրճահատիկ|tr=srč̣ahatik}}
-* Bashkir: {{t|ba|кофе|tr=kofe|sc=Cyrl}}, {{t|ba|ҡәһүә|tr=qähwä|sc=Cyrl}}
+* Armenian: {{t+|hy|սուրճ}}, {{t|hy|սրճահատիկ}}
+* Bashkir: {{t|ba|кофе|sc=Cyrl}}, {{t|ba|ҡәһүә|sc=Cyrl}}
 * Bulgarian: {{t|bg|кафе|n}}
 * Chinese:
 *: Mandarin: {{t|cmn|咖啡豆|tr=kāfēidòu|sc=Hani}}
 * Danish: {{t+|da|kaffebønne}}
 * Dutch: {{t+|nl|koffie|m}}, {{t+|nl|koffieboon|m}}
 * Finnish: {{t+|fi|kahvipapu}}
-* Georgian: {{t|ka|ყავის მარცვლები|tr=q‘avis martsvlebi|sc=Geor}}
+* Georgian: {{t|ka|ყავის მარცვლები|sc=Geor}}
 * German: {{t|de|Kaffebohne|f}}, {{t+|de|Kaffee|m}}
 * Greek: {{t+|el|καφές|m|tr=kafés}}
 * Hebrew: {{t|he|פולי קפה|m-p|tr=poléi qafé}}
@@ -206,9 +208,9 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 
 {{trans-top|plant}}
 * Arabic: {{t+|ar|بن|tr=bun|m}}
-* Armenian: {{t|hy|սրճենի|tr=srč̣eni}}
+* Armenian: {{t|hy|սրճենի}}
 * Asturian: {{t+|ast|café|m}}
-* Bashkir: {{t|ba|кофе|tr=kofe|sc=Cyrl}}, {{t|ba|ҡәһүә|tr=qähwä|sc=Cyrl}}
+* Bashkir: {{t|ba|кофе|sc=Cyrl}}, {{t|ba|ҡәһүә|sc=Cyrl}}
 * Bulgarian: {{t|bg|кафе|n}}
 * Catalan: {{t+|ca|cafè|m}}
 * Czech: {{t+|cs|kávovník|m}}
@@ -242,7 +244,7 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 {{trans-bottom}}
 
 {{trans-top|colour}}
-* Armenian: {{t|hy|սրճագույն|tr=srč̣aguyn}}
+* Armenian: {{t|hy|սրճագույն}}
 * Bulgarian: {{t|bg|кафе|n|tr=kafé}}
 * Catalan: {{t+|ca|cafè|m}}, {{t+|ca|marró|m}}
 * Chinese:
@@ -267,14 +269,14 @@ Many sources state that the Arabic term meant ‘a brew’, especially wine.
 * Spanish: {{t+|es|café|m}}
 * Swahili: {{t+|sw|kahawa}}
 * Tagalog: {{t+|tl|kape}}
-* Vietnamese: [[màu]] [[cà phê]]
+* {{ttbc|vi}}: {{t|vi|[[màu]] [[cà phê]]}} <!-- was "[[màu]] [[cà phê]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Volapük: {{t|vo|kafabraun}}, {{t|vo|kafaköl}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
-* {{ttbc|br}}: [[kafeenn]] {{g|f}} (1), [[kafe]] {{g|m}} (beverage) (2), [[kafe]] {{qualifier|collective noun}} (beans of coffee) (2)
-* {{ttbc|ta}}: [[காபி]] (kâpi)
+* {{ttbc|br}}: {{t|br|kafeenn|f}} (1), {{qualifier|beverage}} {{t|br|kafe|m}} (2), {{qualifier|collective noun; beans of coffee}} {{t|br|kafe}} (2)
+* {{ttbc|ta}}: {{t|ta|காபி|tr=kâpi|sc=Taml}}
 {{trans-bottom}}
 
 ===Adjective===
