@@ -3,7 +3,7 @@
 {{wikipedia|mul=menu (disambiguation)}}
 
 ===Etymology===
-From {{etyl|fr|en}} {{term|menu|lang=fr}}.
+{{borrowing|fr|menu|lang=en}}.
 
 ===Pronunciation===
 * {{audio|en-us-menu.ogg|Audio (US)}}
@@ -159,10 +159,13 @@ From {{etyl|fr|en}} {{term|menu|lang=fr}}.
 
 ==Czech==
 
+===Etymology===
+{{borrowing|fr|menu|lang=cs}}.
+
 ===Noun===
 {{cs-noun|g=n}}
 
-# {{l|en|menu}}
+# [[#English|menu]]
 
 ====Derived terms====
 * [[uživatelské menu]] {{g|n}}
@@ -172,7 +175,7 @@ From {{etyl|fr|en}} {{term|menu|lang=fr}}.
 ==Danish==
 
 ===Etymology===
-From {{etyl|fr|da}} {{term|menu||small|lang=fr}}.
+{{borrowing|fr|menu|lang=da}}.
 
 ===Pronunciation===
 * {{IPA|/meny/|[meˈny]|lang=da}}
@@ -180,7 +183,7 @@ From {{etyl|fr|da}} {{term|menu||small|lang=fr}}.
 ===Noun===
 {{da-noun|en|er}}
 
-# {{l|en|menu}} {{gloss|all senses}}
+# [[#English|menu]] {{qualifier|all senses}}
 
 ====Inflection====
 {{da-noun-infl|en|er}}
@@ -193,7 +196,7 @@ From {{etyl|fr|da}} {{term|menu||small|lang=fr}}.
 ==Dutch==
 
 ===Etymology===
-From {{etyl|fr|nl}} {{term|menu|lang=fr}}.
+{{borrowing|fr|menu|lang=nl}}.
 
 ===Pronunciation===
 * {{IPA|/mɛˈnʏ/|lang=nl}}
@@ -223,6 +226,9 @@ From {{etyl|fr|nl}} {{term|menu|lang=fr}}.
 
 ==Finnish==
 
+===Etymology===
+{{borrowing|en|menu|lang=fi}}.
+
 ===Noun===
 {{fi-noun}}
 
@@ -245,7 +251,7 @@ From {{etyl|fr|nl}} {{term|menu|lang=fr}}.
 ==French==
 
 ===Etymology===
-From {{etyl|la|fr}} {{term|minutus||minute, tiny|lang=la}}.
+From {{etyl|la|fr}} {{term/t|la|minutus||minute, tiny}}.
 
 ===Pronunciation===
 * {{audio|Fr-menu.ogg|audio}}
@@ -267,20 +273,23 @@ From {{etyl|la|fr}} {{term|minutus||minute, tiny|lang=la}}.
 
 ==Italian==
 
+===Etymology===
+{{borrowing|fr|menu|lang=it}}.
+
 ===Pronunciation===
 * {{rhymes|u|lang=it}}
 
 ===Noun===
 {{head|it|noun|g=m|invariable}}
 
-# {{l|en|menu}}
+# [[#English|menu]]
 
 ----
 
 ==Old French==
 
 ===Etymology===
-{{etyl|la|fro}} {{term|minus|lang=la}}.
+From {{etyl|la|fro}} {{term/t|la|minus}}.
 
 ===Adjective===
 {{head|fro|adjective|g=m|feminine|menue|or|menude}}
@@ -299,7 +308,7 @@ From {{etyl|la|fr}} {{term|minutus||minute, tiny|lang=la}}.
 ==Polish==
 
 ===Etymology===
-From {{etyl|fr|pl}} {{term|menu|lang=fr}}
+{{borrowing|fr|menu|lang=pl}}.
 
 ===Pronunciation===
 * {{IPA|/mɛˈɲi/|lang=pl}}
@@ -307,7 +316,7 @@ From {{etyl|fr|pl}} {{term|menu|lang=fr}}
 ===Noun===
 {{pl-noun|n}}
 
-# {{l|en|menu}}
+# [[#English|menu]]
 
 [[cs:menu]]
 [[cy:menu]]
