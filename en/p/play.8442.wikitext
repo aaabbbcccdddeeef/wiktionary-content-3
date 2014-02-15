@@ -85,16 +85,16 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 * Aleut: {{t|ale|mikal}}
 * Arabic: {{t+|ar|لَعِبَ|tr=láʿiba|sc=Arab}}
 * Aramaic:
-*: [[Syriac]]: {{t|syc|ܫܥܐ|tr=šʿa|sc=Syrc}}
+*: Syriac: {{t|syc|ܫܥܐ|tr=šʿa|sc=Syrc}}
 * Armenian: {{t|hy|խաղալ|tr=xaġal}}
 * Aromanian: {{t|rup|gioc}}
 * Basque: {{t|eu|joka}}
 * Belarusian: {{t|be|граць|tr=hrac'|sc=Cyrl}}
-* Burmese: {{t+|my|ဆော့|tr=hsaw.|sc=Mymr}}
+* Burmese: {{t+|my|ဆော့|tr=hcau.|sc=Mymr}}
 * Catalan: {{t+|ca|jugar}}
 * Chinese:
 *: Mandarin: {{t+|cmn|玩|tr=wán|sc=Hani}}, {{t|cmn|玩兒|sc=Hani}}, {{t+|cmn|玩儿|tr=wánr|sc=Hani}}
-* Czech: [[hrát]] si
+* {{ttbc|cs}}: {{t|cs|hrát|alt=hrát si}} <!-- was "[[hrát]] si" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Dutch: {{t+|nl|spelen}}
 * Esperanto: {{t|eo|ludi}}
 * Finnish: {{t+|fi|leikkiä}}
@@ -169,7 +169,7 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 * Greek: {{t+|el|παίζω|tr=pézo}}
 * Hebrew: {{t|he|ניגן|alt=ניגן (ב־)|tr=nigén (b'-)}}
 * Hindi: {{t|hi|बजाना|tr=bajānā|sc=Deva}}
-* Hungarian: {{t+|hu|játszik}} ''(noun specifying instrument in superessive case)
+* Hungarian: {{t+|hu|játszik}} {{i|noun specifying instrument in superessive case}}
 * Icelandic: {{t|is|spila}}, {{t|is|spila á}}
 * Irish: {{t|ga|seinn}}
 * Italian: {{t+|it|suonare}}
@@ -183,7 +183,7 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 * Maori: {{t|mi|whakatangi}}
 * Old English: {{t|ang|lācan}}
 * Pashto: {{t+|ps|ږغول|tr=zhaγawəl|sc=ps-Arab}}
-* Polish: [[grać]] na
+* {{ttbc|pl}}: {{t|pl|grać|alt=grać na}} <!-- was "[[grać]] na" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Portuguese: {{t+|pt|tocar}}
 * Quechua: {{t+|qu|takiy}}
 * Romanian: {{t+|ro|cânta}} (la)
@@ -244,7 +244,8 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 * Arabic: {{t+|ar|مَثَّلَ}}
 * Armenian: {{t|hy|խաղալ|tr=xaġal}}
 * Catalan: {{t+|ca|actuar}}
-* Chinese: [[表演]] (biǎoyǎn)
+* Chinese:
+*: {{ttbc|cmn}}: {{t|cmn|表演|tr=biǎoyǎn|sc=Hani}}
 * Czech: {{t+|cs|hrát}}
 * Dutch: {{t+|nl|optreden}}
 * Esperanto: {{t|eo|roli}}
@@ -275,14 +276,14 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 {{trans-top|participate in (a sport or game)}}
 * Arabic: {{t+|ar|لَعِبَ|tr=laʕiba}}
 * Armenian: {{t|hy|խաղալ|tr=xaġal}}
-* Burmese: {{t+|my|ကစား|tr=găza:|sc=Mymr}}
-* Catalan: participar, jugar
+* Burmese: {{t+|my|ကစား|tr=ka.ja:|sc=Mymr}}
+* Catalan: {{t|ca|participar}}, {{t|ca|jugar}}
 * Chinese:
 *: Mandarin: {{t|cmn|參與|sc=Hani}}, {{t+|cmn|参与|tr=cān yù|sc=Hani}}, {{t|cmn|參加|sc=Hani}}, {{t+|cmn|参加|tr=cān jiā|sc=Hani}}, {{qualifier|games}} {{t+|cmn|玩|tr=wán|sc=Hani}}, {{qualifier|sports with pedal hitting, such as football}} {{t+|cmn|踢|tr=tī|sc=Hani}}, {{qualifier|sports with manual hitting, such as basketball and badminton}} {{t+|cmn|打|tr=dǎ|sc=Hani}}, {{qualifier|sports with throwing, such as discus throw}} {{t+|cmn|擲|sc=Hani}}, {{t+|cmn|掷|tr=zhì|sc=Hani}}&{{qualifier|colloquial&informal}} {{t+|cmn|扔|tr=rēng|sc=Hani}}, {{qualifier|sports with pushing, such as shot put}} {{t+|cmn|推|tr=tuī|sc=Hani}}, {{qualifier|sports with running, such as marathon}} {{t+|cmn|跑|tr=pǎo|sc=Hani}}
 * Czech: {{t+|cs|hrát}}
 * Dutch: {{t+|nl|spelen}}, {{t+|nl|meespelen}}
 * Finnish: {{t+|fi|pelata}}
-* French: [[jouer]] [[à]]
+* {{ttbc|fr}}: {{t|fr|[[jouer]] [[à]]}} <!-- was "[[jouer]] [[à]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Galician: {{t|gl|xogar}}
 * Greek: {{t+|el|παίζω|tr=pézo}}
 * Hungarian: {{t+|hu|játszik}}
@@ -297,13 +298,13 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 * Macedonian: {{t|mk|игра|tr=ígra}}
 * Neapolitan: {{t|nap|jucà}}
 * Pashto: {{t|ps|لوبه كول|tr=loba kawəl|sc=ps-Arab}}
-* Polish: [[grać]] w
+* {{ttbc|pl}}: {{t|pl|grać|alt=grać w}} <!-- was "[[grać]] w" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Portuguese: {{t+|pt|jogar}}
 * Quechua: {{t|qu|pukllay}}
 * Romanian: {{t+|ro|juca}}
 * Russian: {{t+|ru|играть|impf|tr=igrát’}}
 * Slovene: {{t+|sl|igrati}}
-* Spanish: [[jugar]] a
+* {{ttbc|es}}: {{t|es|jugar|alt=jugar a}} <!-- was "[[jugar]] a" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Swahili: {{t+|sw|tamthilia}}
 * Swedish: {{t+|sv|spela}}
 * Tagalog: {{t|tl|maglaro}}
@@ -313,11 +314,12 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 {{trans-top|use a device to hear (a recording)}}
 * Arabic: {{t|ar|شَغَّلَ}}
 * Armenian: {{t|hy|նվագարկել|tr=nvagarkel}}
-* Chinese: [[放]] (fàng)
+* Chinese:
+*: {{ttbc|cmn}}: {{t|cmn|放|tr=fàng|sc=Hani}}
 * Czech: {{t+|cs|hrát}}
 * Dutch: {{t+|nl|spelen}}, {{t+|nl|afspelen}}
 * Finnish: {{t+|fi|soittaa}}
-* French: {{qualifier|the media is being played}} {{t+|fr|mettre}}, {{qualifier|to play an already inserted media}} {{t+|fr|lancer}}, {{qualifier|the media is the subject}} {{t+|fr|tourner}} / {{t+|fr|jouer}}
+* French: {{qualifier|the media is being played}} {{t+|fr|mettre}}, {{qualifier|to play an already inserted media}} {{t+|fr|lancer}}, {{qualifier|the media is the subject}} {{t+|fr|tourner}}, {{t+|fr|jouer}}
 * German: {{t|de|abspielen}}, {{t+|de|spielen}}
 * Hebrew: {{t|he|השמיע|tr=hishmía}}
 * Hungarian: {{t|hu|lejátszik}}
@@ -339,13 +341,13 @@ From {{etyl|enm|en}} {{term|playen|lang=enm}}, {{term|pleyen|lang=enm}}, {{term|
 
 {{checktrans-top}}
 * {{ttbc|ar}}: (5) {{t|ar|يعزف|tr=6}}, {{t|ar|يتمرن}}
-* {{ttbc|ar}}: {{l|ar|يلعب}}
-* {{ttbc|gn}}: [[ñembosarái]]
-* {{ttbc|io}}: [[ludar]] (1), [[plear]] (2, 4)
+* {{ttbc|ar}}: {{t|ar|يلعب|sc=Arab}}
+* {{ttbc|gn}}: {{t|gn|ñembosarái}}
+* {{ttbc|io}}: {{qualifier|1}} {{t|io|ludar}}, {{qualifier|2, 4}} {{t|io|plear}}
 {{trans-mid}}
-* {{ttbc|ia}}: [[jocar]]
-* {{ttbc|jbo}}: [[kelci]]
-* {{ttbc|tpn}}: [[nhemosaraîa]]
+* {{ttbc|ia}}: {{t|ia|jocar}}
+* {{ttbc|jbo}}: {{t|jbo|kelci}}
+* {{ttbc|tpn}}: {{t|tpn|nhemosaraîa}}
 {{trans-bottom}}
 
 ===Etymology 2===
