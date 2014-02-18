@@ -66,7 +66,7 @@ From {{etyl|enm|en}} {{term|melten|lang=enm}}, from {{etyl|ang|en}} {{term|melta
 * {{sense|change from solid to liquid}} to [[found#Etymology 3|found]]
 
 ====Translations====
-{{trans-top|to change from a solid to a liquid}}
+{{trans-top|intransitive: to change from a solid to a liquid}}
 * Arabic: {{t|ar|انصهر|tr=inSáhara|sc=Arab}}
 * Armenian: {{t|hy|ձուլել|tr=julel}}, {{t|hy|հալել|tr=halel}}, {{t|hy|թափել|tr=t’ap’el}}
 * Catalan: {{t+|ca|fondre|alt=fondre's}}
@@ -75,7 +75,7 @@ From {{etyl|enm|en}} {{term|melten|lang=enm}}, from {{etyl|ang|en}} {{term|melta
 * Czech: {{t|cs|tavit}}
 * Dutch: {{t+|nl|smelten}}
 * Esperanto: {{t+|eo|fandi}}
-* Finnish: {{t+|fi|sulaa}}, {{t+|fi|sulattaa}}
+* Finnish: {{t+|fi|sulaa}}
 * French: {{t+|fr|fondre}} (1), {{t+|fr|se dissoudre}} (2)
 * German: {{t+|de|schmelzen}}
 * Greek: {{t+|el|τήκω}}, {{t|el|λίωνω}}
@@ -104,20 +104,36 @@ From {{etyl|enm|en}} {{term|melten|lang=enm}}, from {{etyl|ang|en}} {{term|melta
 * Welsh: {{t+|cy|toddi}}
 {{trans-bottom}}
 
-{{trans-top|to change or be changed from a solid to a liquid}}
+{{trans-top|transitive: to change or be changed from a solid to a liquid}}
 * Catalan: {{t+|ca|fondre}}
 * Chinese:
 *: Mandarin: {{t|cmn|使融化|tr=shǐ rónghuà|sc=Hani}}, {{t|cmn|使熔化|tr=shǐ rónghuà|sc=Hani}}
 * Czech: {{t+|cs|tát}}, {{t|cs|roztávat}}, {{t|cs|roztát}}
 * Dutch: {{t+|nl|smelten}}
 * Esperanto: {{t|eo|fandiĝi}}
-* German: {{t|de|zum Schmelzen bringen}}
+* Finnish: {{t+|fi|sulattaa}}
+* German: {{t+|de|schmelzen}}, {{t|de|zum Schmelzen bringen}}
 {{trans-mid}}
 * Greenlandic: {{t|kl|aattoq}}
 * Hungarian: {{t+|hu|olvad}}
 * Japanese: {{t|ja|溶かす|tr=とかす, tokasu|sc=Jpan}}
 * Russian: {{t+|ru|растапливать|impf|tr=rastáplivat'|sc=Cyrl}}, {{t+|ru|растопить|pf|tr=rastopít'|sc=Cyrl}}, {{t+|ru|расплавлять|impf|tr=rasplavlját'|sc=Cyrl}}, {{t+|ru|расплавить|pf|tr=rasplávit’|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|leagh}}
+{{trans-bottom}}
+
+{{trans-top|to dissolve, disperse, vanish}}
+* Finnish: {{t|fi|sulaa}}
+{{trans-mid}}	
+{{trans-bottom}}
+
+{{trans-top|to soften, as by a warming or kindly influence}}	
+* Finnish: {{t|fi|sulaa}}
+{{trans-mid}}
+{{trans-bottom}}
+	
+{{trans-top|to be very hot and sweat profusely}}
+* Finnish: {{t|fi|läkähtyä}}
+{{trans-mid}}
 {{trans-bottom}}
 
 [[Category:English ergative verbs]]
