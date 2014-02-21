@@ -352,13 +352,31 @@ From {{etyl|gmh|de}} {{term|linc|lang=gmh}}.
 
 ==Hungarian==
 
-===Etymology===
-From {{etyl|en|hu}} {{term|lang=en|link}}.
+===Pronunciation===
+* {{IPA|/ˈliŋk/|lang=hu}}
 
-===Noun===
+===Etymology 1===
+From {{etyl|en|hu}} {{term|lang=en|link}}. <ref name=link-hu>{{R:TotfalusiEty 2005}}</ref>
+
+====Noun====
 {{hu-noun|ek}}
 
 # {{l|en|link}}, [[hyperlink]]
+
+=====Declension=====
+{{hu-decl-ek|lin|k|et}}{{hu-pos-etek|link|j|jei}}
+
+===Etymology 2===
+From {{etyl|yi|hu}}, {{etyl|de|hu}} {{term|link|lang=de}}. <ref name=link-hu/>
+
+====Adjective====
+{{hu-adj|ebb}}
+
+# {{context|colloquial|lang=hu}} [[fishy]], [[shifty]] (dishonest, criminal, unreliable)
+#: '''''link''' alak'' - crook
+
+===References===
+<references/>
 
 [[Category:hu:Computing]]
 
