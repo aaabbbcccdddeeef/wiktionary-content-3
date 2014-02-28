@@ -39,7 +39,7 @@ From {{etyl|enm|en}} {{term|bever|lang=enm}}, from {{etyl|ang|en}} {{term|beofor
 * Albanian: {{t|sq|kastori}}
 * Algonquin: {{t|alq|amik}}
 * Arabic: {{t|ar|سمور|m|tr=sammūr|sc=Arab}}, {{t|ar|قندس|m|tr=qundus|sc=Arab}}
-* Armenian: {{t+|hy|կուղբ|tr=kuġb|sc=Armn}}
+* Armenian: {{t+|hy|կուղբ}}
 * Asturian: {{t|ast|castor|m}}
 * Azeri: {{t+|az|qunduz}}
 * Basque: {{t|eu|kastore}}
@@ -61,7 +61,7 @@ From {{etyl|enm|en}} {{term|bever|lang=enm}}, from {{etyl|ang|en}} {{term|beofor
 * French: {{t+|fr|castor|m}}, {{t+|fr|bièvre|m}} {{qualifier|archaic}}
 * Friulian: {{t|fur|castôr}}
 * Galician: {{t|gl|castor}}
-* Georgian: {{t|ka|თახვი|tr=t'axvi|sc=Geor}}
+* Georgian: {{t|ka|თახვი}}
 * German: {{t+|de|Biber|m}}
 * Greek: {{t+|el|κάστορας|m|tr=kástoras}}
 *: Ancient Greek: {{t|grc|κάστωρ|m|tr=kastōr|sc=polytonic}}
@@ -83,7 +83,6 @@ From {{etyl|enm|en}} {{term|bever|lang=enm}}, from {{etyl|ang|en}} {{term|beofor
 * Latin: {{t|la|castor|m}} <!--do not put the scientific name here-->
 * Latvian: {{t|lv|bebrs|m}}
 * Lithuanian: {{t+|lt|bebras|m}}
-* Lower Sorbian: {{t|dsb|bobr}}
 * Macedonian: {{t|mk|дабар|m|tr=dábar|sc=Cyrl}}
 * Maltese: {{t|mt|bijver|m}}
 * Mongolian: {{t|mn|минж|tr=minž|sc=Cyrl}}
@@ -96,11 +95,11 @@ From {{etyl|enm|en}} {{term|bever|lang=enm}}, from {{etyl|ang|en}} {{term|beofor
 * Polish: {{t+|pl|bóbr|m}}
 * Portuguese: {{t+|pt|castor|m}}
 * Potawatomi: {{t|pot|mek}}
-* Romani: [[vidroy]] {{g|m}} [[vidra]] {{g|f}}
+* Romani: {{t|rom|vidroy|m}}, {{t|rom|vidra|f}}
 * Romanian: {{t+|ro|castor}}
 * Romansch: {{t|rm|castur}}
 * Russian: {{t+|ru|бобр|m|tr=bobr}}, {{t+|ru|бобёр|m|tr=bobjór|sc=Cyrl}}
-* Sami: [[mádjit]]
+* {{ttbc|Sami}}<!-- Wiktionary considers this a language group; please specify the language more precisely -->: [[mádjit]]
 * Sardinian: {{t|sc|castorru}}, {{t|sc|castoro}}
 * Scottish Gaelic: {{t|gd|los-leathann|m}}, {{t|gd|biobhair|m}}, {{t|gd|beathadach|m}}
 * Serbo-Croatian:
@@ -108,6 +107,9 @@ From {{etyl|enm|en}} {{term|bever|lang=enm}}, from {{etyl|ang|en}} {{term|beofor
 *: Roman: {{t|sh|dabar|m}}
 * Slovak: {{t|sk|bobor|m}}
 * Slovene: {{t+|sl|bober|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|bobr|m}}
+*: Upper Sorbian: {{t|hsb|bobr|m}}
 * Spanish: {{t+|es|castor|m}}
 * Swahili: {{t|sw|panyabuku-maji}}, {{t|sw|biva}}, {{t|sw|fondosi}}
 * Swedish: {{t+|sv|bäver}}
@@ -116,10 +118,9 @@ From {{etyl|enm|en}} {{term|bever|lang=enm}}, from {{etyl|ang|en}} {{term|beofor
 * Turkish: {{t+|tr|kastor}}, {{t+|tr|kunduz}}
 * Turkmen: {{t|tk|gunduz}}
 * Ukrainian: {{t+|uk|бобер|m|tr=bobér}}
-* Upper Sorbian: {{t|hsb|bobr}}
 * Vietnamese: {{t|vi|hải ly}} ({{t|vi|海狸}}), {{t|vi|con hải ly}}
 * Volapük: {{qualifier|♂♀}} {{t+|vo|biv}}, {{qualifier|♂}} {{t|vo|hibiv}}, {{qualifier|♀}} {{t|vo|jibiv}}, {{qualifier|♂♀ offspring}} {{t|vo|bivül}}, {{qualifier|♂ offspring}} {{t|vo|hibivül}}, {{qualifier|♀ offspring}} {{t|vo|jibivül}}
-* Welsh: {{t+|cy|afanc}}, {{t|cy|llostlydan}}
+* Welsh: {{t+|cy|afanc|m}}, {{t|cy|llostlydan|m}}
 * West Frisian: {{t|fy|bever}}
 {{trans-bottom}}
 
