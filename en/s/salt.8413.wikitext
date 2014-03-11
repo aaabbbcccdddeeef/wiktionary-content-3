@@ -73,7 +73,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 
 ====Translations====
 {{trans-top|sodium chloride}}
-* Abkhaz: {{t|ab|аџьыка|tr=aǰ'yka|sc=Cyrl}}
+* Abkhaz: {{t|ab|аџьыка}}
 * Afrikaans: {{t|af|sout}}
 * Ainu: {{t|ain|ルル|tr=ruru}}, {{t|ain|シッポ|tr=sippo}}
 * Albanian: {{t|sq|kripë}}
@@ -83,7 +83,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 * Aramaic:
 *: Hebrew: {{t|arc|מלחא|f|tr=milħā’|sc=Hebr}}
 *: Syriac: {{t|arc|ܡܠܚܐ|f|tr=milħā’|sc=Syrc}}
-* Armenian: {{t+|hy|աղ|tr=aġ|sc=Armn}}
+* Armenian: {{t+|hy|աղ}}
 * Aromanian: {{t|rup|sare}}
 * Assamese: {{t|as|লোণ|tr=lōṇ|sc=Beng}}
 * Asturian: {{t+|ast|sal|m}}
@@ -95,7 +95,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 * Belarusian: {{t|be|соль|f|tr=sol′}}
 * Bengali: {{t|bn|নুন|tr=nun|sc=Beng}}
 * Bulgarian: {{t+|bg|сол|f|tr=sol}}
-* Burmese: {{t+|my|ဆား|tr=hsa׃|sc=Mymr}}
+* Burmese: {{t+|my|ဆား|tr=hca׃|sc=Mymr}}
 * Buryat: {{t|bua|дабһан|tr=dabhan|sc=Cyrl}}
 * Cahuilla: {{t|chl|'ingill|alt=íngill}}
 * Catalan: {{t+|ca|sal|f}}
@@ -136,7 +136,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 * Guernésiais: {{t|roa-grn|saïl|m}}
 * Gujarati: {{t+|gu|મીઠું|tr=mīṭhũ|sc=Gujr}}, {{t|gu|લૂણ|tr=lūṇ|sc=Gujr}}
 * Hawaiian: {{t|haw|paʻakai}}
-* Hebrew: {{t+|he|מלח|m|tr=mélakh}}
+* Hebrew: {{t+|he|מֶלַח|m|tr=mélakh}}
 * Hindi: {{t+|hi|नमक|m|tr=namak}}, {{t+|hi|लोन|tr=lon|sc=Deva}}
 * Hungarian: {{t+|hu|só}}
 * Icelandic: {{t+|is|salt|n}}
@@ -180,9 +180,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 * Navajo: {{t|nv|áshįįh}}
 * Nepali: {{t|ne|नून|tr=nūn|sc=Deva}}
 * Ngazidja Comorian: {{t|zdj|shingo}}, {{t|zdj|mnyo}}
-* Nobiin:
-*: {{ttbc|Fadicca}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|fia|امييد|tr=imeed}}
-*: {{ttbc|Kenzi}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|fia|اوميد|tr=oumboud}}
+* Nobiin: {{i|Fadicca}} {{t|fia|امييد|tr=imeed}}, {{i|Kenzi}} {{t|fia|اوميد|tr=oumboud}}
 * Nogai: {{t|nog|туз|tr=tuz|sc=Cyrl}}
 * North Frisian: {{qualifier|Föhr-Amrum}} {{t|frr|saalt|n}}
 * Northern Sami: {{t|se|sálti}}
@@ -228,7 +226,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 * Tamil: {{t+|ta|உப்பு|tr=uppu}}
 * Tatar: {{t+|tt|тоз|tr=toz|sc=Cyrl}}
 * Telugu: {{t+|te|ఉప్పు|tr=uppu}}
-* Thai: {{t+|th|เกลือ}} (gleua)
+* Thai: {{t+|th|เกลือ|tr=gleua}}
 * Tibetan: {{t|bo|ཚྭ|tr=tshwa|sc=Tibt}}
 * Tok Pisin: {{t|tpi|sol}}
 * Turkish: {{t+|tr|tuz}}
@@ -250,7 +248,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 {{trans-bottom}}
 
 {{trans-top|compound of an acid and a base}}
-* Armenian: {{t+|hy|աղ|tr=aġ|sc=Armn}}
+* Armenian: {{t+|hy|աղ}}
 * Asturian: {{t+|ast|sal|m}}
 * Czech: {{t+|cs|sůl|f}}
 * Danish: {{t+|da|salt|n}}
@@ -317,7 +315,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 {{checktrans-top}}
 * {{ttbc|sq}}: {{t|sq|kripë}}
 * {{ttbc|af}}: {{t|af|sout}}
-* {{ttbc|ar}}: {{t|ar|مِلْح|m|f|tr=milh|sc=Arab}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|ar}}: {{t|ar|مِلْح|m|f|tr=milh|sc=Arab}}
 * {{ttbc|az}}: {{t+|az|duz}}
 * {{ttbc|eu}}: {{t|eu|gatz}}
 * {{ttbc|sh}}: {{t|sh|sol|f}}, {{t|sh|so|f}}
