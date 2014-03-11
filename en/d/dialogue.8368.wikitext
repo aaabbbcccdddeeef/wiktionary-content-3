@@ -57,11 +57,11 @@ From {{etyl|fro|en}} {{term|dialoge|lang=fro}} (French {{term|dialogue|lang=fr}}
 ====Translations====
 {{trans-top|conversation or other discourse between individuals}}
 * Albanian: {{t|sq|dialog|m}}, {{t+|sq|bashkëbisedim|m}}
-* Arabic: {{t+|ar|حوار|m|tr=Hiwaar}}, {{t|ar|محادثة|f|tr=muḥādaṯa|sc=Arab}}
+* Arabic: {{t+|ar|حوار|m|tr=ḥiwār}}, {{t|ar|محادثة|f|tr=muḥādaṯa|sc=Arab}}
 * Armenian: {{t|hy|երկխոսություն|sc=Armn}}
-* Azeri: {{t+|az|söhbət}}, {{t|az|dialoq}}
+* Azeri: {{t|az|dialoq}}, {{t+|az|söhbət}}
 * Belarusian: {{t|be|дыяло́г|m|sc=Cyrl}}, {{t|be|размо́ва|f|sc=Cyrl}}, {{t|be|гута́рка|f|sc=Cyrl}}
-* Bulgarian: {{t+|bg|разговор|m}}, {{t+|bg|диало́г|m|sc=Cyrl}}
+* Bulgarian: {{t+|bg|разгово́р|m}}, {{t+|bg|диало́г|m|sc=Cyrl}}
 * Chinese:
 *: Mandarin: {{t|cmn|對話|sc=Hani}}, {{t+|cmn|对话|tr=duìhuà|sc=Hani}}, {{t|cmn|會話|sc=Hani}}, {{t+|cmn|会话|tr=huìhuà|sc=Hani}}, {{t|cmn|對白|sc=Hani}}, {{t+|cmn|对白|tr=duìbái|sc=Hani}}
 * Czech: {{t|cs|dialog|m}}, {{t+|cs|konverzace|f}}, {{t|cs|rozhovor|m}}
@@ -77,16 +77,17 @@ From {{etyl|fro|en}} {{term|dialoge|lang=fro}} (French {{term|dialogue|lang=fr}}
 * Icelandic: {{t+|is|samtal|n}}
 * Italian: {{t+|it|dialogo|m}}
 {{trans-mid}}
-* Japanese: {{qualifier|conversation}} {{t+|ja|対話|tr=taiwa}}, {{qualifier|discussion}} {{t+|ja|討論|tr=tōron}}, {{t+|ja|会話|tr=kaiwa}}
+* Japanese: {{t+|ja|会話|tr=かいわ, kaiwa}}, {{qualifier|conversation}} {{t+|ja|対話|tr=たいわ, taiwa}}, {{qualifier|discussion}} {{t+|ja|討論|tr=とうろん, tōron}}, 
 * Korean: {{t+|ko|대화|tr=daehwa|sc=Kore}}
 * Malay: {{t|ms|dialog}}
 * Norwegian: {{t|no|dialog|m}}, {{t+|no|samtale|m}}
 * Persian: {{t+|fa|گفتگو|tr=goftogu, goftegu, goft-gu|sc=fa-Arab}}
 * Polish: {{t+|pl|dialog|m}}, {{t+|pl|rozmowa|f}}, {{t+|pl|konwersacja|f}}
 * Portuguese: {{t+|pt|diálogo}}
-* Russian: {{t+|ru|диалог|m|tr=dialóg}}, {{t+|ru|разговор|m|tr=razgovór}}, {{t+|ru|беседа|f|tr=beséda}}
+* Russian: {{t+|ru|диало́г|m}}, {{t+|ru|разгово́р|m}}, {{t+|ru|бесе́да|f}}
 * Scottish Gaelic: {{t|gd|còmhradh|m}}, {{t|gd|seanchas|m}}, {{t|gd|agallamh|m}}
-* Serbo-Croatian: {{t|sh|dijàlog|m}}, {{t+|sh|razgovor|m}}
+* Serbo-Croatian:
+*: Roman: {{t|sh|dijalog|m}}, {{t+|sh|razgovor|m}}
 * Slovak: {{t|sk|dialóg|m}}, {{t|sk|rozhovor|m}}, {{t|sk|konverzácia|f}}
 * Slovene: {{t|sl|dialog|m}}
 * Spanish: {{t+|es|diálogo|m}}
@@ -95,18 +96,18 @@ From {{etyl|fro|en}} {{term|dialoge|lang=fro}} (French {{term|dialogue|lang=fr}}
 * Tok Pisin: {{t|tpi|toktok}}
 * Turkish: {{t+|tr|diyalog}}, {{t+|tr|konuşma}}, {{t+|tr|sohbet}}
 * Ukrainian: {{t|uk|діало́г|m|sc=Cyrl}}, {{t|uk|розмо́ва|f|sc=Cyrl}}, {{t+|uk|бесі́да|f|sc=Cyrl}}
-* Vietnamese: {{t|vi|cuộc đối thoại}}
+* Vietnamese: {{t+|vi|đối thoại|alt=(cuộc) đối thoại}}
 {{trans-bottom}}
 
 {{trans-top|verbal part of a literary or dramatic work}}
 * Armenian: {{t|hy|երկխոսություն|sc=Armn}}
-* Bulgarian: {{t+|bg|диалог|m}}
+* Bulgarian: {{t+|bg|диало́г|m}}
 * Czech: {{t|cs|dialog|m}}
 * Dutch: {{t+|nl|dialoog|m}}
-* Japanese: {{t+|ja|対話|tr=taiwa}}
+* Japanese: {{t+|ja|対話|tr=たいわ, taiwa}}
 {{trans-mid}}
 * Norwegian: {{t|no|dialog|m}}
-* Russian: {{t+|ru|диалог|m}}
+* Russian: {{t+|ru|диало́г|m}}
 * Scottish Gaelic: {{t|gd|còmhradh|m}}
 * Serbo-Croatian: {{t|sh|dijàlog|m}}
 {{trans-bottom}}
@@ -120,7 +121,7 @@ From {{etyl|fro|en}} {{term|dialoge|lang=fro}} (French {{term|dialogue|lang=fr}}
 {{trans-mid}}
 * Japanese: {{t|ja|対話形式|tr=taiwa-keishiki}}
 * Norwegian: {{t|no|dialog|m}}
-* Russian: {{t+|ru|диалог|m}}
+* Russian: {{t+|ru|диало́г|m}}
 * Scottish Gaelic: {{t|gd|còmhradh|m}}
 * Serbo-Croatian: {{t|sh|dijàlog|m}}
 {{trans-bottom}}
