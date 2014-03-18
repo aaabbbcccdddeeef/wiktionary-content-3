@@ -19,7 +19,7 @@
 
 =====Translations=====
 {{trans-top|addition, an extension}}
-* Bulgarian: {{t+|bg|прибавка}},  {{t+|bg|допълнение}}
+* Bulgarian: {{t+|bg|приба́вка|f}},  {{t+|bg|допълне́ние|n}}
 * Catalan: {{t+|ca|annex|m}}
 * Danish: {{t|da|bilag}}
 * Dutch: {{t+|nl|bijlage|f}}
@@ -31,25 +31,25 @@
 * Hungarian: {{t+|hu|függelék}}
 * Japanese: {{t|ja|付加物|tr=fukabutsu|sc=Jpan}}, {{t+|ja|付属|tr=fuzoku|sc=Jpan}}
 * Norwegian: {{t+|no|anneks}}
-* Russian: {{t+|ru|прибавка|f|tr=pribávka|sc=Cyrl}}, {{t+|ru|дополнение|n|tr=dopolnénije|sc=Cyrl}}
+* Russian: {{t+|ru|приба́вка|f|sc=Cyrl}}, {{t+|ru|дополне́ние|n|sc=Cyrl}}
 * Serbo-Croatian: {{t|sh|aneks|m}}
 * Spanish: {{t+|es|anexo|m}}
 * Swedish: {{t+|sv|annex}}, {{t+|sv|tillägg}}, {{t+|sv|bilaga}}
 {{trans-bottom}}
 
 {{trans-top|appendix}}
-* Bulgarian: {{t+|bg|приложение}}
+* Bulgarian: {{t+|bg|приложе́ние|n}}
 * Dutch: {{t+|nl|aanhangsel|n}}
 * Finnish: {{t+|fi|liite}}
 * Japanese: {{t|ja|付録|tr=furoku|sc=Jpan}}
 {{trans-mid}}
-* Russian: {{t+|ru|приложение|n|tr=priložénije|sc=Cyrl}}
+* Russian: {{t+|ru|приложе́ние|n|sc=Cyrl}}
 * Spanish: {{t+|es|apéndice|m}}, {{t+|es|extensión|f}}
 * Swedish: {{t+|sv|appendix}}, {{t+|sv|tillägg}}, {{t+|sv|bilaga}}
 {{trans-bottom}}
 
 {{trans-top|addition or extension to a building}}
-* Bulgarian: {{t+|bg|пристройка}}
+* Bulgarian: {{t+|bg|пристро́йка|f}}
 * Catalan: {{t+|ca|annex|m}}
 * Dutch: {{t|nl|uitbouw|m}}
 * Finnish: {{t|fi|lisärakennus}}
@@ -57,18 +57,13 @@
 * {{trreq|de}}
 {{trans-mid}}
 * Japanese: {{t|ja|別館|tr=べっかん, bekkan|sc=Jpan}}
-* Russian: {{t+|ru|пристройка|f|tr=pristrójka|sc=Cyrl}}, {{t+|ru|флигель|m|tr=flígelʹ|sc=Cyrl}}
+* Russian: {{t+|ru|пристро́йка|f|sc=Cyrl}}, {{t+|ru|фли́гель|m|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|ath-thaigh|m}}
 * Spanish: {{t+|es|anexo|m}}, {{t+|es|pabellón|m}}
 * Swedish: {{t+|sv|annex}}, {{t|sv|tillbyggnad}}, {{t+|sv|flygel}}
 {{trans-bottom}}
 
-{{trans-top|addition of territory}}
-* Dutch: {{t+|nl|annexatie|f}}
-* Japanese: {{t|ja|併合領土|tr=heigō ryōdo|sc=Jpan}}
-{{trans-mid}}
-* Spanish: {{t+|es|anexión|f}}
-{{trans-bottom}}
+{{trans-see|addition of territory|annexation}}
 
 ===Etymology 2===
 From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|annexer||lang=fro|to join}}, from {{etyl|ML.|en}} {{term/t|la|annexāre}}, present active infinitive of {{term/t|la|annexō}}, frequentative of {{etyl|la|en}} {{term/t|la|annectō||bind to}}, from {{term|ad||to|lang=la}} + {{term/t|la|nectō||tie, bind}}.
@@ -104,15 +99,15 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|annexer||lang=fro|to join}}, f
 * [[separate]]
 
 =====Translations=====
-{{trans-top|To add something to another, to incorporate into}}
+{{trans-top|to add something to another, to incorporate into}}
 * Bulgarian: {{t+|bg|присъединявам}},  {{t+|bg|прибавям}}
 * Catalan: {{t+|ca|annexar}}
 * Dutch: {{t+|nl|annexeren}},  {{t+|nl|inlijven}}
 * Esperanto: {{t|eo|aneksi}}
 * French: {{t+|fr|annexer}}
-* German: {{t+|de|annektieren}}, {{t|de|Annex|m}}
+* German: {{t+|de|annektieren}}
 * Hungarian: {{t+|hu|hozzácsatol}}, {{t|hu|annektál}}
-* Japanese: {{t|ja|組み入れる|alt=組み入れる|tr=くみいれる, kumiireru}}, {{t|ja|編入|alt=編入する|tr=へんにゅうする, hennyū suru}}, {{t+|ja|併合|alt=併合する|tr=heigō suru|sc=Jpan}}
+* Japanese: {{t|ja|組み入れる||tr=くみいれる, kumiireru}}, {{t|ja|編入|alt=編入する|tr=へんにゅうする, hennyū suru}}, {{t+|ja|併合|alt=併合する|tr=heigō suru|sc=Jpan}}
 * Kurdish:
 *: Sorani: {{t|ku|خستنه‌ سه‌ر|tr=xistine ser|sc=ku-Arab}}
 {{trans-mid}}
