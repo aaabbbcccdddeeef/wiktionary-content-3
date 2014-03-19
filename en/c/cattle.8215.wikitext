@@ -83,7 +83,7 @@ In some circumstances the uncountable form is not used.
 {{trans-top|domesticated bovine animals}}
 * Algonquin: {{t|alq|adik}}
 * Apache:
-*: [[Western Apache]]: {{t|apw|maghashi}}
+*: Western Apache: {{t|apw|maghashi}}
 * Arabic: {{t|ar|مواشي|f-p|tr=mawaši|sc=Arab}}, {{t|ar|ماشية|f-p|tr=mašiya}}
 *: Egyptian Arabic: {{t|arz|مواشي|f-p|tr=mawaši}}
 * Armenian: {{t|hy|խոշոր եղջերավոր անասուն|tr=xošor ełǰeravor anasun}}
@@ -118,7 +118,7 @@ In some circumstances the uncountable form is not used.
 * Latvian: {{t|lv|liellopi|m-p}}
 {{trans-mid}}
 * Malay: {{t+|ms|lembu}}
-* {{trreq|Mongolian}}
+* {{trreq|mn}}
 * Navajo: {{t|nv|béégashii}}
 * Norwegian: {{t+|no|krøtter}}, {{t|no|storfe}}, {{t|no|kveg}}
 * Old Church Slavonic: {{t|cu|скотъ|m|tr=skotŭ|sc=Cyrs}}
@@ -137,7 +137,7 @@ In some circumstances the uncountable form is not used.
 * Slovak: {{t|sk|dobytok|m}}
 * Slovene: {{t|sl|govedo|n}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb|gowjedo|n}} {{qualifier|refers to a single animal}}
+*: Lower Sorbian: {{t|dsb|skót|m}} {{i|collective}}, {{t|dsb|gowjedo|n}} {{qualifier|refers to a single animal}}
 *: Upper Sorbian: {{t|hsb|howjado|n}} {{qualifier|refers to a single animal}}
 * Spanish: {{t+|es|ganado|m}}
 * Swahili: {{t+|sw|ng'ombe}}
@@ -193,40 +193,40 @@ In some circumstances the uncountable form is not used.
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sq}}: [[bagëti]]
-* {{ttbc|gsw}}: [[Kuh]] {{g|f}}
-* {{ttbc|eu}}: [[behi-azienda]]
-* {{ttbc|be}}: [[карова]] {{g|f}}
+* {{ttbc|sq}}: {{t|sq|bagëti}}
+* {{ttbc|gsw}}: {{t|gsw|Kuh|f}}
+* {{ttbc|eu}}: {{t|eu|behi-azienda}}
+* {{ttbc|be}}: {{t|be|карова|f|sc=Cyrl}}
 * {{ttbc|br}}: {{t+|br|chatal|p}}, {{t|br|penn-chatal|m-s}}
-* {{ttbc|cmn}}: [[牛]] (niú)
-* {{ttbc|sh}}: [[govedo]]
-* {{ttbc|eo}}: [[bovino]] ([[bovo|bov]]´ in´o).
-* {{ttbc|fr}}: [[bovin]] {{g|m}}
-* {{ttbc|fur}}: [[bovin]] / [[nemâl]]
-* {{ttbc|gl}}: [[boi]] {{g|m}}
-* {{ttbc|he}}: [[בקר]] (''baqar'')
-* {{ttbc|is}}: [[kýr]], [[naut]]
-* {{ttbc|id}}: [[sapi]]
-* {{ttbc|ia}}: [[vacca]]
-* {{ttbc|ko}}: [[소]] (''so'')
-* {{ttbc|lld}}: [[arment]]
-* {{ttbc|la}}: [[bos]]
+* {{ttbc|cmn}}: {{t|cmn|牛|tr=niú|sc=Hani}}
+* {{ttbc|sh}}: {{t|sh|govedo}}
+* {{ttbc|eo}}: {{t|eo|bovino}} ([[bovo|bov]]´ in´o).
+* {{ttbc|fr}}: {{t|fr|bovin|m}}
+* {{ttbc|fur}}: {{t|fur|bovin}}, {{t|fur|nemâl}}
+* {{ttbc|gl}}: {{t|gl|boi|m}}
+* {{ttbc|he}}: {{qualifier|baqar}} {{t|he|בקר|sc=Hebr}}
+* {{ttbc|is}}: {{t|is|kýr}}, {{t|is|naut}}
+* {{ttbc|id}}: {{t|id|sapi}}
+* {{ttbc|ia}}: {{t|ia|vacca}}
+* {{ttbc|ko}}: {{qualifier|so}} {{t|ko|소|sc=Kore}}
+* {{ttbc|lld}}: {{t|lld|arment}}
+* {{ttbc|la}}: {{t|la|bos}}
 {{trans-mid}}
 * {{ttbc|lt}}: {{t|lt|galvijai|m-p}}, {{t|lt|pekus|m}}
-* {{ttbc|nds}}: [[rindveeh]]
-* {{ttbc|mk}}: [[говедо]] ([[govedo]])
-* {{ttbc|ml}}: [[കന്നുകാലി]] (kannukaali)
-* {{ttbc|mt}}: [[bhejjem]]
-* {{ttbc|oc}}: [[vaca]]
-* {{ttbc|rom}}: [[gurumnya]] {{g|f}}
-* {{ttbc|sc}}: [[bulu]], [[óinu]], [[bàcchinu]], [[bóinu]], [[bacca]]
-* {{ttbc|sh}}: [[говедо]] ([[govedo]])
-* {{ttbc|sk}}: [[dobytok]]
-* {{ttbc|sl}}: [[govedo]]
-* {{ttbc|es}}: [[ganado]] [[bovino]] {{g|m}}
-* {{ttbc|uk}}: [[корова]], [[худоба]] (korova, hudoba)
-* {{ttbc|vo}}: [[kun]]
-* {{ttbc|cy}}: [[gwartheg]] {{g|p}}, [[buwch]]
+* {{ttbc|nds}}: {{t|nds|rindveeh}}
+* {{ttbc|mk}}: {{t|mk|говедо|tr=[[govedo]]|sc=Cyrl}}
+* {{ttbc|ml}}: {{t|ml|കന്നുകാലി|tr=kannukaali|sc=Mlym}}
+* {{ttbc|mt}}: {{t|mt|bhejjem}}
+* {{ttbc|oc}}: {{t|oc|vaca}}
+* {{ttbc|rom}}: {{t|rom|gurumnya|f}}
+* {{ttbc|sc}}: {{t|sc|bulu}}, {{t|sc|óinu}}, {{t|sc|bàcchinu}}, {{t|sc|bóinu}}, {{t|sc|bacca}}
+* {{ttbc|sh}}: {{t|sh|говедо}} ([[govedo]])
+* {{ttbc|sk}}: {{t|sk|dobytok}}
+* {{ttbc|sl}}: {{t|sl|govedo}}
+* {{ttbc|es}}: {{t|es|[[ganado]] [[bovino]]|m}} <!-- was "[[ganado]] [[bovino]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* {{ttbc|uk}}: {{t|uk|корова|sc=Cyrl}}, {{t|uk|худоба|tr=korova, hudoba|sc=Cyrl}}
+* {{ttbc|vo}}: {{t|vo|kun}}
+* {{ttbc|cy}}: {{t|cy|gwartheg|p}}, {{t|cy|buwch}}
 {{trans-bottom}}
 
 ====See also====
