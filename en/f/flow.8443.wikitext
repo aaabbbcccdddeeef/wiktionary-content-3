@@ -200,7 +200,7 @@ From {{etyl|ang|en}} {{term/t|ang|flōwan}}, from {{etyl|gem-pro|en}} {{term/t|g
 * {{trreq|bn}}
 * Breton: {{t|br|deverañ}}, {{t+|br|berañ}}
 * Bulgarian: {{t+|bg|тека}}, {{t|bg|лея се}}
-* Burmese: {{t+|my|စီး|tr=si:|sc=Mymr}}
+* Burmese: {{t+|my|စီး|tr=ci:|sc=Mymr}}
 * Catalan: {{t+|ca|fluir}}
 * Czech: {{t+|cs|téct}}, {{t+|cs|proudit}}
 * Danish: {{t|da|strømme}}
@@ -223,7 +223,7 @@ From {{etyl|ang|en}} {{term/t|ang|flōwan}}, from {{etyl|gem-pro|en}} {{term/t|g
 * {{trreq|hi}}
 * {{trreq|io}}
 * {{trreq|ig}}
-* Indonesian: {{t+|id|alur}} / {{t+|id|alir}} / {{t+|id|salur}} / {{t+|id|salir}}
+* Indonesian: {{t+|id|alur}}, {{t+|id|alir}}, {{t+|id|salur}}, {{t+|id|salir}}
 * {{trreq|ia}}
 * {{trreq|ie}}
 * Irish: {{t|ga|sreabh}}, {{t|ga|snigh}}
@@ -239,8 +239,8 @@ From {{etyl|ang|en}} {{term/t|ang|flōwan}}, from {{etyl|gem-pro|en}} {{term/t|g
 * {{trreq|ko}}
 * Latin: {{t|la|fluo}}
 * Malay:
-*: Rumi: {{t|ms|alur}} / {{t|ms|alir}} / {{t|ms|salur}} / {{t|ms|salir}}
-*: Jawi: {{t|ms|الور|sc=Arab}} / {{t|ms|الير|sc=Arab}} / {{t|ms|سالور|sc=Arab}} / {{t|ms|سالير|sc=Arab}}
+*: Rumi: {{t|ms|alur}}, {{t|ms|alir}}, {{t|ms|salur}}, {{t|ms|salir}}
+*: Jawi: {{t|ms|الور|sc=Arab}}, {{t|ms|الير|sc=Arab}}, {{t|ms|سالور|sc=Arab}}, {{t|ms|سالير|sc=Arab}}
 * {{trreq|ml}}
 * Manx: {{t|gv|sheel}}
 * {{trreq|mr}}
@@ -266,6 +266,8 @@ From {{etyl|ang|en}} {{term/t|ang|flōwan}}, from {{etyl|gem-pro|en}} {{term/t|g
 * Slovak: {{t|sk|tiecť}}
 * Slovene: {{t+|sl|teči}}
 * {{trreq|so}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|běžaś|impf}}
 * Spanish: {{t+|es|fluir}}
 * Swahili: {{t+|sw|mkondo}}
 * Swedish: {{t+|sv|strömma}}, {{t+|sv|flyta}}
@@ -280,7 +282,7 @@ From {{etyl|ang|en}} {{term/t|ang|flōwan}}, from {{etyl|gem-pro|en}} {{term/t|g
 * {{trreq|vi}}
 * {{trreq|vo}}
 * Walloon: {{t|wa|couler}}
-* {{trreq|cy}}
+* Welsh: {{t|cy|llifo}}
 * {{trreq|wo}}
 * {{trreq|xh}}
 * {{trreq|yi}}
@@ -303,12 +305,12 @@ From {{etyl|ang|en}} {{term/t|ang|flōwan}}, from {{etyl|gem-pro|en}} {{term/t|g
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|fr}}: [[jaillir]] (used more for spurt)
+* {{ttbc|fr}}: {{qualifier|used more for spurt}} {{t|fr|jaillir}}
 * {{ttbc|io}}: {{t+|io|fluar}}
 {{trans-mid}}
 * {{ttbc|sh}}:
-*: Cyrillic: [[тећи]]
-*: Roman: [[teći#Serbian|teći]]
+*: Cyrillic: {{t|sh|те̏ћи|sc=Cyrl}}
+*: Latin: {{t|sh|tȅći}}
 * {{ttbc|te}}: {{t+|te|ప్రవహించు|tr=pravahimchu}}
 {{trans-bottom}}
 
