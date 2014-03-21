@@ -106,7 +106,7 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Bengali: {{t|bn|চাবি|tr=cābi|sc=Beng}}
 * Breton: {{t+|br|alc'hwez|m}}
 * Bulgarian: {{t+|bg|ключ|m|tr=ključ|sc=Cyrl}}
-* Burmese: {{t+|my|သော့တံ|tr=tho. dan|sc=Mymr}}
+* Burmese: {{t+|my|သော့တံ|tr=sau.tam|sc=Mymr}}
 * Catalan: {{t+|ca|clau|f}}
 * Central Atlas Tamazight: {{t|tzm|ⵜⴰⵙⴰⵔⵓⵜ|f|tr=tasarut|sc=Tfng}}
 * {{trreq|ce}}
@@ -114,9 +114,7 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Chinese:
 *: Mandarin: {{t+|cmn|鑰匙|sc=Hani}}, {{t+|cmn|钥匙|tr=yàoshi|sc=Hani}}
 * Chuvash: {{t|cv|ҫӑраҫҫи|sc=Cyrl}}
-* Coptic:
-*: Bohairic: {{t|cop|ϣⲟⲩϣϯ|m|tr=shusht}}
-*: Sahidic: {{t|cop|ϣⲟϣϯ|m|tr=shosht}}
+* Coptic: {{i|Bohairic}} {{t|cop|ϣⲟⲩϣϯ|m|tr=shusht}}, {{i|Sahidic}} {{t|cop|ϣⲟϣϯ|m|tr=shosht}}
 * Czech: {{t+|cs|klíč|m}}
 * Dalmatian: {{t|dlm|cluf|f}}
 * Danish: {{t+|da|nøgle|c}}
@@ -127,6 +125,10 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Finnish: {{t+|fi|avain}}
 * French: {{t+|fr|clef|f}}, {{t+|fr|clé|f}}
 *: Old French: {{t|fro|clef|f}}
+* Frisian:
+*: North Frisian: {{qualifier|Föhr-Amrum}} {{t|frr|kai|m}}
+*: Old Frisian: {{t|ofs|sletel}}
+*: West Frisian: {{t+|fy|kaai}}
 * Friulian: {{t|fur|clâf|f}}, {{t|fur|clâv|f}}
 * Galician: {{t|gl|chave|f}}
 * Gallo: {{t|roa-gal|tié|f}}
@@ -170,15 +172,11 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * {{trreq|mwl}}
 * Mongolian: {{t|mn|түлхүүр|tr=tülhüür}}
 * {{trreq|ne}}
-* Nobiin:
-*: Fadicca: {{t|fia|كوشر|tr=koushur}}
-*: Kenzi: {{t|fia|كوشر|tr=koushur}}
-* North Frisian: {{qualifier|Föhr-Amrum}} {{t|frr|kai|m}}
+* Nobiin: {{t|fia|كوشر|tr=koushur}}
 * Norwegian: {{t+|no|nøkkel|m}}
 * Novial: {{t|nov|klefe}}
 * Occitan: {{t+|oc|clau|f}}
 * Old English: {{t|ang|cǣġ|f}}
-* Old Frisian: {{t|ofs|sletel}}
 * Old Norse: {{t|non|lykill|m}}
 * {{trreq|or}}
 * {{trreq|os}}
@@ -205,6 +203,8 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Slovak: {{t|sk|kľúč|m}}
 * Slovene: {{t+|sl|ključ|m-?}}
 * {{trreq|so}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|kluc|m}}
 * Spanish: {{t+|es|llave|f}}
 * Swahili: {{t+|sw|ufunguo|c11|c14}}
 * Swedish: {{t+|sv|nyckel|c}}
@@ -227,7 +227,6 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Votic: {{t|vot|võtii}}
 * Walloon: {{t|wa|clé|f}}
 * Welsh: {{t+|cy|allwedd|f}}, {{t+|cy|agoriad|m}}
-* West Frisian: {{t+|fy|kaai}}
 * Yiddish: {{t|yi|שליסל|m|tr=shlisl|sc=Hebr}}
 {{trans-bottom}}
 
@@ -292,6 +291,8 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Estonian: {{t|et|klahv}}
 * Finnish: {{t+|fi|näppäin}}
 * French: {{t+|fr|touche|f}}
+* Frisian:
+*: West Frisian: {{t+|fy|kaai}}, {{t|fy|toets}}
 * Galician: {{t|gl|tecla|f}}
 * German: {{t+|de|Taste|f}}
 * Greek: {{t+|el|πλήκτρο|n|tr=pliktro}}
@@ -322,7 +323,6 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Swedish: {{t+|sv|tangent}}, {{t+|sv|knapp|c}}
 * Turkish: {{t+|tr|tuş}}
 * Welsh: {{t+|cy|allwedd}}, {{t|cy|bysell}}
-* West Frisian: {{t+|fy|kaai}}, {{t|fy|toets}}
 {{trans-bottom}}
 
 {{trans-top|part of a piano or musical keyboard}}
@@ -392,7 +392,7 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Persian: {{t+|fa|کلید|tr=kelid}}
 * Polish: {{t+|pl|tonacja|f}}
 * Portuguese: {{t+|pt|clave|f}}
-* Russian: {{t+|ru|тональность|f|tr=tonálʹnostʹ}}; {{t+|ru|лад|m|tr=lad}}
+* Russian: {{t+|ru|тональность|f|tr=tonálʹnostʹ}}, {{t+|ru|лад|m|tr=lad}}
 * Scottish Gaelic: {{t|gd|gleus|m|f}}
 * Spanish: {{t+|es|clave|f}}
 * Swedish: {{t|sv|tonart|c}}
@@ -415,6 +415,8 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Estonian: {{t+|et|võti}}
 * Finnish: {{t+|fi|avain}}, {{t|fi|salakirjoitusavain}}
 * French: {{t+|fr|clef|f}}, {{t+|fr|clé|f}}
+* Frisian:
+*: West Frisian: {{t+|fy|kaai}}
 * German: {{t+|de|Schlüssel|m}}
 * Greek: {{t+|el|κλειδί|n|tr=kleidi}}
 * Hebrew: {{t+|he|מפתח|tr=maftekha|m}}
@@ -433,7 +435,6 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Spanish: {{t+|es|clave|f}}
 * Swahili: {{t|sw|ufungu}}
 * Swedish: {{t+|sv|nyckel|c}}
-* West Frisian: {{t+|fy|kaai}}
 {{trans-bottom}}
 
 {{trans-top|computing: field of a database constrained to be unique}}
@@ -442,6 +443,8 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Estonian: {{t+|et|võti}}
 * Finnish: {{t+|fi|avain}}, {{t|fi|avainkenttä}}
 * French: {{t+|fr|clef|f}}, {{t+|fr|clé|f}}
+* Frisian:
+*: West Frisian: {{t+|fy|kaai}}
 * German: {{t+|de|Schlüssel|m}}
 * Irish: {{t+|ga|eochair|f}}
 * Italian: {{t+|it|chiave|f}}
@@ -454,7 +457,6 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Spanish: {{t+|es|clave|f}}
 * Swahili: {{t|sw|ufungu}}
 * Welsh: {{t|cy|maes allweddol}}
-* West Frisian: {{t+|fy|kaai}}
 {{trans-bottom}}
 
 {{trans-top|computing: field in a record used as a search argument}}
@@ -503,15 +505,15 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 {{trans-see|biology: information to correctly identify a taxon|clavis}}
 
 {{checktrans-top}}
-* {{ttbc|bn}}: [[কুঞ্জি]], [[চাবিকাটি]], [[চাবিকাঠি]]
-* {{ttbc|bg}}: [[ключ]] (ključ) {{g|m}} (1, 5), [[клавиш]] (klaviš) {{g|m}} (3, 4)
-* {{ttbc|ko}}: [[열쇠]] (yeolsoe)
-* {{ttbc|ml}}: [[താക്കോല്]]‍, [[ചാവി]]
+* {{ttbc|bn}}: {{t|bn|কুঞ্জি|sc=Beng}}, {{t|bn|চাবিকাটি|sc=Beng}}, {{t|bn|চাবিকাঠি|sc=Beng}}
+* {{ttbc|bg}}: {{t|bg|ключ|m|tr=ključ|sc=Cyrl}} (1, 5), {{t|bg|клавиш|m|tr=klaviš|sc=Cyrl}} (3, 4)
+* {{ttbc|ko}}: {{t|ko|열쇠|tr=yeolsoe|sc=Kore}}
+* {{ttbc|ml}}: {{t|ml|താക്കോല്|alt=താക്കോല്‍|sc=Mlym}} <!-- was "[[താക്കോല്]]‍" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|ml|ചാവി|sc=Mlym}}
 {{trans-mid}}
 * {{ttbc|fa}}: {{t+|fa|کلید|tr=kelid}}
-* {{ttbc|ro}}: [[cheie]] {{g|f}} (1), [[tastă]] {{g|f}} (3)
+* {{ttbc|ro}}: {{qualifier|1}} {{t|ro|cheie|f}}, {{qualifier|3}} {{t|ro|tastă|f}}
 * {{ttbc|shn}}: {{t|shn|သေႃး|tr=sʰɔ4}}
-* {{ttbc|sk}}: [[kľúč]] {{g|m}} (1, 5), [[kláves]] {{g|m}} (3, 4)
+* {{ttbc|sk}}: {{qualifier|1, 5}} {{t|sk|kľúč|m}}, {{qualifier|3, 4}} {{t|sk|kláves|m}}
 {{trans-bottom}}
 
 =====See also=====
