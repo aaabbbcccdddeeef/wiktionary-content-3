@@ -94,8 +94,8 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Berber:
 *: Tashelhit: {{t|shi|ddr}}
 * Breton: {{t|br|beva}}
-* Bulgarian: {{t+|bg|живея|tr=živéja}}
-* Burmese: {{t|my|အသက်ရှင်|tr=ăthetshin|sc=Mymr}}
+* Bulgarian: {{t+|bg|живѐя}}
+* Burmese: {{t|my|အသက်ရှင်|tr=a.sak-hrang|sc=Mymr}}
 * Catalan: {{t+|ca|viure}}
 * Chinese:
 *: Mandarin: {{t+|cmn|生活|tr=shēnghuó|sc=Hani}}
@@ -114,14 +114,14 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Galician: {{t|gl|vivir}}
 * Georgian: {{t|ka|სიცოცხლე|sc=Geor}}, {{t|ka|ცხოვრება|sc=Geor}}
 * German: {{t+|de|leben}}
-* Greek: {{t+|el|ζω|tr=zo}}
+* Greek: {{t+|el|ζω}}
 * Hebrew: {{t+|he|חי|tr=ḥai|sc=Hebr}}
 * Hindi: {{t|hi|जीना|tr=jīnā}}
 * Hungarian: {{t+|hu|él}}
 * Icelandic: {{t+|is|lifa}}
 * Ido: {{t+|io|vivar}}
 * Indonesian: {{t+|id|hidup}}
-* Irish: {{t|ga|cónaigh}}
+* Irish: {{t|ga|mair}}, {{t|ga|[[bí]] [[beo]]}}, {{t|ga|bí i do bheatha}}
 * Italian: {{t+|it|vivere}}
 * Japanese: {{t+|ja|生きる|tr=[[いきる]], ikiru}}, {{t+|ja|暮らす|tr=[[くらす]], kurasu}} (''spend time, get along'')
 * Jèrriais: {{t|roa-jer|vivre}}
@@ -138,7 +138,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 {{trans-mid}}
 * Lojban: {{t|jbo|jmive}}
 * Luxembourgish: {{t|lb|liewen}}
-* Macedonian: {{t|mk|живее|tr=žívee|sc=Cyrl}}
+* Macedonian: {{t|mk|живее}}
 * Maltese: {{t|mt|għex}}
 * Mongolian: {{t|mn|амьдрах|tr=amʹdrah|sc=Cyrl}}
 * Neapolitan: {{t|nap|campà}}
@@ -156,7 +156,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Romani: {{t|rom|zhuvel}}
 * Romanian: {{t+|ro|trăi}}
 * Romansch: {{t|rm|viver}}
-* Russian: {{t+|ru|жить|impf}}, {{t+|ru|прожить|pf}}
+* Russian: {{t+|ru|жить|impf}}, {{t+|ru|прожи́ть|pf}}
 * Sanskrit: {{t|sa|जीवति|tr=jīvati}}
 * Sardinian: {{t|sc|campai}}, {{t|sc|vívere}}, {{t|sc|bívere}}
 * Scots: {{t|sco|leeve}}
@@ -169,7 +169,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Slovak: {{t|sk|žiť}}
 * Slovene: {{t|sl|živéti}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb|[[žywy]] [[byś]]|impf}}
+*: Lower Sorbian: {{t|dsb|[[žywy]] [[byś]]|impf}}, {{t|dsb|žywiś|alt=žywiś se|impf}}
 * Sotho: {{t+|st|phela}}
 * Spanish: {{t+|es|vivir}}
 * Swahili: {{t+|sw|ishi}}
@@ -181,7 +181,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Tocharian B: {{t|txb|śai}}
 * Turkish: {{t+|tr|yaşamak}}
 * Turkmen: {{t|tk|ýaşamak}}
-* Ukrainian: {{t|uk|жити|tr=žýty}}
+* Ukrainian: {{t|uk|жи́ти}}
 * Urdu: {{t|ur|جینا|tr=jīnā|sc=ur-Arab}}
 * Uzbek: {{t+|uz|yashamoq}}
 * Venetian: {{t|vec|viver}}
@@ -196,8 +196,8 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Arabic: {{t|ar|عاش|tr=ʿāša}}, {{t|ar|سكن|tr=sákana}}
 * Armenian: {{t+|hy|ապրել|tr=aprel}}
 * Asturian: {{t+|ast|vivir}}
-* Belarusian: {{t|be|жыць|tr=žycʹ|sc=Cyrl}}
-* Bulgarian: {{t+|bg|живея|tr=živéja|sc=Cyrl}}
+* Belarusian: {{t|be|жыць|impf}}
+* Bulgarian: {{t+|bg|живѐя}}
 * Burmese: {{t+|my|နေ|tr=ne|sc=Mymr}}
 * Catalan: {{t+|ca|viure}}
 * Chinese:
@@ -212,14 +212,14 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * French: {{t+|fr|habiter}}, {{t+|fr|demeurer}}
 * Georgian: {{t|ka|ცხოვრება|sc=Geor}}
 * German: {{t+|de|wohnen}}, {{t+|de|leben}}
-* Greek: {{t+|el|μένω|tr=méno}}
+* Greek: {{t+|el|μένω}}
 * Hebrew: {{t+|he|גָּר|tr=gar|sc=Hebr}}
 * Hindi: {{t+|hi|रहना|tr=rahnā}}, {{t|hi|निवास करना|sc=Deva}}
 * Hungarian: {{t+|hu|lakik}}
 * Icelandic: {{t+|is|búa}}
 * Ido: {{t+|io|rezidar}}
 * Interlingua: {{t|ia|habitar}}
-* Irish: {{t|ga|cónaigh}}, bheith i do {{t|ga|cónaí|m|alt=chónaí}}
+* Irish: {{t|ga|cónaigh}}, {{t|ga|bí i do chónaí}}
 * Italian: {{t+|it|abitare}}
 * Japanese: {{t|ja|住む|tr=[[すむ]], sumu}}
 * Jèrriais: {{t|roa-jer|d'meuther}}
@@ -241,7 +241,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Portuguese: {{t+|pt|viver}}, {{t+|pt|morar}}
 * Romani: {{t|rom|beshel}}
 * Romanian: {{t+|ro|locui}}, {{t|ro|a avea locuință}}
-* Russian: {{t+|ru|жить|impf}}, {{t+|ru|проживать|impf}}
+* Russian: {{t+|ru|жить|impf}}, {{t+|ru|прожива́ть|impf}}
 * Scots: {{t|sco|bide}}
 * Scottish Gaelic: {{t|gd|fuirich}}, {{t|gd|còmhnaich}}
 * Serbo-Croatian:
@@ -258,7 +258,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Swedish: {{t+|sv|bo}}
 * Thai: {{t+|th|อยู่|tr=yòo}}, {{t+|th|อาศัย|tr=aasăi}}, {{t|th|อาศัยอยู่|tr=aasăiyòo}}
 * Turkish: {{t+|tr|yaşamak}}
-* Ukrainian: {{t|uk|жити|tr=žýty}}, {{t+|uk|проживати|tr=prožyváty}}, {{t+|uk|мешкати|tr=méškaty}}
+* Ukrainian: {{t|uk|жи́ти}}, {{t+|uk|прожива́ти}}, {{t+|uk|ме́шкати}}
 * Urdu: {{t|ur|رہنا|tr=rahnā|sc=ur-Arab}}
 * Venetian: {{t+|vec|star}}
 * Vietnamese: {{t+|vi|ở}}, {{t+|vi|sống}}
@@ -271,7 +271,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Afrikaans: {{t|af|oorleef}}
 * Arabic: {{t|ar|ينجو|tr=yanju|sc=Arab}}
 * Armenian: {{t+|hy|ապրել|tr=aprel}}
-* Burmese: {{t|my|အသက်ရှင်|tr=ăthetshin|sc=Mymr}}
+* Burmese: {{t|my|အသက်ရှင်|tr=a.sak-hrang|sc=Mymr}}
 * Catalan: {{t+|ca|viure}}
 * Czech: {{t+|cs|žít}}
 * Danish: {{t|da|overleve}}
@@ -279,14 +279,14 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Finnish: {{t+|fi|elää}}, {{t+|fi|selvitä}}
 * {{trreq|ka}}
 * German: {{t+|de|überleben}}
-* Greek: {{t+|el|επιζώ|tr=epizó}}, {{t+|el|επιβιώνω|tr=epivióno}}
+* Greek: {{t+|el|επιζώ}}, {{t+|el|επιβιώνω}}
 * Kurdish: {{t+|ku|jîn}}, {{t+|ku|jiyan}}
 {{trans-mid}}
 * Latin: {{t+|la|vivo}}
 * Polish: {{t|pl|przetrwać}}, {{t+|pl|przeżyć}}
 * Portuguese: {{t+|pt|sobreviver}}, {{t+|pt|perseverar}}
 * Romanian: {{t+|ro|supraviețui|alt=a supraviețui}}
-* Russian: {{t+|ru|выживать|tr=vyživátʹ}}
+* Russian: {{t+|ru|выжива́ть}}
 * Scottish Gaelic: {{t|gd|mair}}
 * Slovak: {{t|sk|prežiť}}, {{t|sk|zažiť}}
 * Slovene: {{t+|sl|živeti}}
@@ -295,12 +295,12 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Swahili: {{t+|sw|ishi}}
 * Swedish: {{t+|sv|leva}}
 * Turkish: {{t+|tr|yaşamak}}
+* Welsh: {{t+|cy|byw}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 * {{ttbc|fa}}: {{t+|fa|زِندِگی کَردَن|tr=zendegi kærdæn}}
 * {{ttbc|te}}: {{t+|te|జీవించు|sc=Telu}}
-* {{ttbc|cy}}: {{t+|cy|byw}}
 {{trans-mid}}
 {{trans-bottom}}
 
