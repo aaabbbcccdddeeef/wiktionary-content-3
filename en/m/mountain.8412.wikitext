@@ -94,7 +94,7 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}} {{term|muntaine|lang=fro}}, from {{et
 * Aramaic:
 *: Syriac: {{t|arc|ܛܘܪܐ|tr=Ṭūrā’|m}}
 *: Hebrew: {{t|arc|טורא|tr=Ṭūrā’|m}}
-* Armenian: {{t|hy|լեռ|tr=leṙ}}, {{t|hy|սար|tr=sar}}
+* Armenian: {{t|hy|լեռ}}, {{t|hy|սար}}
 * Aromanian: {{t|rup|munte}}
 * Asturian: {{t+|ast|monte|m}}
 * Atayal: {{t|tay|rgyax}}
@@ -104,10 +104,10 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}} {{term|muntaine|lang=fro}}, from {{et
 * Baluchi: {{t|bal|کوہ|tr=koh}}
 * Bashkir: {{t|ba|тау|tr=taw|sc=Cyrl}}
 * Basque: {{t+|eu|mendi}}
-* Belarusian: {{t|be|гара|f|tr=hará}}
+* Belarusian: {{t|be|гара́|f}}
 * Bengali: {{t|bn|পর্বত|tr=pôrbôt|sc=Beng}}, {{t+|bn|পাহাড়|sc=Beng}}
 * Breton: {{t+|br|menez|m}}
-* Bulgarian: {{t+|bg|планина|f|tr=planina}}
+* Bulgarian: {{t+|bg|планина̀|f}}
 * Burmese: {{t+|my|တောင်|tr=taung|sc=Mymr}}
 * Buryat: {{t|bua|уула|tr=uula|sc=Cyrl}} {{qualifier|Russian Buryat}}
 * Cakchiquel: {{t|cak|juyu'}}
@@ -135,21 +135,25 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}} {{term|muntaine|lang=fro}}, from {{et
 * Finnish: {{t+|fi|vuori}}
 * Franco-Provençal: {{t|frp|montagne}}
 * French: {{t+|fr|montagne|f}}
-*: Old French: {{t|fro|montaigne|f}}
+*: Old French: {{t|fro|montaigne|f}}, {{t|fro|muntaigne|f}}
 *: Middle French: {{t|frm|montaigne|f}}
+* Frisian:
+*: North Frisian: {{qualifier|Föhr-Amrum}} {{t|frr|berig|m}}
+*: West Frisian: {{t+|fy|berch}}
 * Friulian: {{t|fur|mont|f}}, {{t|fur|montagne|f}}
 * Gagauz: {{t|gag|bayır}}
 * Galician: {{t|gl|montaña|f}}
-* Georgian: {{t|ka|მთა|tr=mt‘a|sc=Geor}}, {{t|ka|გორა|tr=gora|sc=Geor}}
+* Georgian: {{t|ka|მთა}}, {{t|ka|გორა}}
 * German: {{t+|de|Berg|m}}
-* Greek: {{t+|el|όρος|n|tr=óros}}, {{t+|el|βουνό|n|tr=vunó}}
+* Greek: {{t+|el|όρος|n}}, {{t+|el|βουνό|n}}
+*: Ancient Greek: {{t|grc|ὄρος|n}}
 * Greenlandic: {{t|kl|qaqqaq}}
 * Guaraní: {{t|gn|yvaty}}
 * Guernésiais: {{t|roa-grn|maontogne|f}}
 * Gujarati: {{t|gu|પહાડ|sc=Gujr}}
 * {{trreq|ha}}
 * Hawaiian: {{t|haw|mauna}}, {{t|haw|kuahiwi}}
-* Hebrew: {{t+|he|הר|m|tr=har}}
+* Hebrew: {{t+|he|הַר‎|m|tr=har}}
 * Hindi: {{t|hi|पहाड़|m|tr=pahāṛ|sc=Deva}}, {{t|hi|पर्वत|m|tr=parvat|sc=Deva}}, {{t|hi|कोह|m|tr=koh|sc=Deva}}
 * Hungarian: {{t+|hu|hegy}}, {{t+|hu|hegység|p}}
 * Icelandic: {{t+|is|fjall|n}}
@@ -161,6 +165,7 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}} {{term|muntaine|lang=fro}}, from {{et
 * Interlingua: {{t|ia|montania}}
 * {{trreq|ie}}
 * Irish: {{t+|ga|sliabh|m}}
+*: Old Irish: {{t|sga|slíab|m|n}}
 * Italian: {{t+|it|montagna|f}}, {{t+|it|monte|m}}
 * Japanese: {{t+|ja|山|tr=[[やま]], yama|sc=Jpan}}
 * Javanese: {{t|jv|gunung}}
@@ -194,20 +199,18 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}} {{term|muntaine|lang=fro}}, from {{et
 *: Dutch Low Saxon: {{t+|nds-nl|Barg|m}}
 *: German Low German: {{t+|nds-de|Barg|m}}
 {{trans-mid}}
-* Lower Sorbian: {{t|dsb|góra|f}}
 * {{trreq|lg}}
 * Luhya: {{t|luy|esikulu}}
 * Luxembourgish: {{t+|lb|Bierg|m}}
-* Macedonian: {{t|mk|планина|f|tr=plánina}}, {{t|mk|гора|f|tr=góra}}
+* Macedonian: {{t|mk|планина|f}}, {{t|mk|гора|f}}
 * Malagasy: {{t+|mg|tendrombohitra}}
 * Malay: {{t|ms|gunung}}
 * Malayalam: {{t|ml|പര്‍വതം|tr=parvatam}}, {{t+|ml|മല|tr=mala}}
 * Maltese: {{t|mt|muntanja|f}}
-* Manchu: {{t|mnc|alin|sc=Mong}}
+* Manchu: {{t|mnc|tr=alin|sc=Mong}}
 * Manx: {{t|gv|slieau}}
 * Maori: {{t|mi|maunga}}
 * Marathi: {{t|mr|पर्वत|tr=parvat}}
-* Middle Persian: {{t|pal|kōf}}
 * {{trreq|xmf}}
 * Mirandese: {{t|mwl|muntanha|f}}
 * Mongolian: {{t+|mn|уул|tr=uul|sc=Cyrl}}
@@ -217,23 +220,21 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}} {{term|muntaine|lang=fro}}, from {{et
 * {{trreq|ne}}
 * Nogai: {{t|nog|тав|tr=taw|sc=Cyrl}}
 * Norman: {{t|roa-nor|mountangne|f}}
-* North Frisian: {{qualifier|Föhr-Amrum}} {{t|frr|berig|m}}
 * Norwegian:
 *: Bokmål: {{t+|no|fjell|n}}
 *: Nynorsk: {{t+|nn|fjell|n}}
 * Novial: {{t|nov|monte}}
 * Occitan: {{t+|oc|montanha|f}}
 * Okinawan: {{t|ryu|さん|tr=san}}
-* Old Church Slavonic: {{t|cu|гора|f|tr=gora|sc=Cyrs}}
+* Old Church Slavonic: {{t|cu|гора|f}}
 * Old English: {{t|ang|beorg|m}}, {{t|ang|munt}}
-* Old French: {{t|fro|muntaigne|f}}
-* Old Irish: {{t|sga|slíab|m|n}}
 * Old Norse: {{t|non|fjall|n}}, {{t|non|fell|n}}
-* Old Persian: {{t|peo|kaufa-|sc=Xpeo}}
 * {{trreq|or}}
 * Ossetian: {{t|os|хох|tr=xox|sc=Cyrl}}
 * Pashto: {{t+|ps|غر|m|tr=ghar|sc=ps-Arab}}
 * Persian: {{t+|fa|کوه|tr=kuh|sc=fa-Arab}}, {{t+|fa|کوهستان|tr=kuhestān|sc=fa-Arab}}
+*: Middle Persian: {{t|pal|kōf}}
+*: Old Persian: {{t|peo|kaufa-|sc=Xpeo}}
 * Piedmontese: {{t|pms|montagna}}
 * Pipil: {{t|ppl|tepet}}
 * Pitjantjatjara: {{t|pjt|apu|sc=pjt-Latn}}, {{t|pjt|puḻi}}
@@ -245,7 +246,7 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}} {{term|muntaine|lang=fro}}, from {{et
 * Romani: {{t|rom|bar}}, {{t|rom|bur}}
 * Romanian: {{t+|ro|munte|m}}
 * Romansch: {{t|rm|muntogna|f}}, {{t|rm|muntgogna|f}}, {{t|rm|muntagna|f}}
-* Russian: {{t+|ru|гора|f|tr=gorá}}
+* Russian: {{t+|ru|гора́|f}}
 * Samoan: {{t|sm|mauga}}
 * Sanskrit: {{t|sa|पर्वत|m|tr=parvat|sc=Deva}}
 * Sardinian: {{t|sc|montagna}}, {{t|sc|monte}}
@@ -262,6 +263,9 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}} {{term|muntaine|lang=fro}}, from {{et
 * Slovak: {{t|sk|hora|f}}, {{t|sk|vrch|m}}
 * Slovene: {{t+|sl|gora|f}}
 * {{trreq|so}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|góra|f}}
+*: Upper Sorbian: {{t|hsb|hora|f}}
 * Sotho: {{t+|st|thaba}}
 * Southern Altai: {{t|alt|туу|tr=tuu|sc=Cyrl}}
 * Spanish: {{t+|es|montaña|f}}
@@ -269,7 +273,7 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}} {{term|muntaine|lang=fro}}, from {{et
 * Swahili: {{t+|sw|mlima}}
 * Swedish: {{t+|sv|berg|n}}
 * Tagalog: {{t+|tl|bundok}}
-* Tajik: {{t+|tg|кӯҳ|tr=kūh|sc=Cyrl}}
+* Tajik: {{t+|tg|кӯҳ}}
 * Tamil: {{t+|ta|மலை|tr=malai|sc=Taml}}, {{t|ta|பெருங்குவியல்|tr=peruṅkuviyal|sc=Taml}}
 * Taos: {{t|twf|p’íanenemą}}
 * Tatar: {{t|tt|тау|tr=tau}}
@@ -282,8 +286,7 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}} {{term|muntaine|lang=fro}}, from {{et
 * Turkmen: {{t|tk|dag}}
 * Tuvan: {{t|tyv|даг|tr=dağ|sc=Cyrl}}
 * Udmurt: {{t|udm|выр|tr=vyr}}
-* Ukrainian: {{t+|uk|гора|f|tr=horá}}
-* Upper Sorbian: {{t|hsb|hora|f}}
+* Ukrainian: {{t+|uk|гора́|f}}
 * Urdu: {{t|ur|پہاڑ|m|tr=pahāṛ|sc=ur-Arab}}, {{t|ur|پروت|m|tr=parvat|sc=ur-Arab}}, {{t|ur|کوہ|m|tr=koh|sc=ur-Arab}}
 * Uyghur: {{t+|ug|تاغ|sc=ug-Arab}}
 * Uzbek: {{t|uz|togʻ}}
@@ -293,8 +296,7 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}} {{term|muntaine|lang=fro}}, from {{et
 * Votic: {{t|vot|mätši}}
 * Walloon: {{t+|wa|montinne|f}}
 * Waray-Waray: {{t|war|bukid}}
-* Welsh: {{t+|cy|mynydd}}
-* West Frisian: {{t+|fy|berch}}
+* Welsh: {{t+|cy|mynydd|m}}
 * {{trreq|wo}}
 * {{trreq|xh}}
 * Yakut: {{t|sah|хайа|tr=xaya|sc=Cyrl}}
@@ -304,19 +306,19 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}} {{term|muntaine|lang=fro}}, from {{et
 {{trans-bottom}}
 
 {{trans-top|large amount}}
-* Armenian: {{t|hy|խուրձ|tr=xurj}}
+* Armenian: {{t|hy|խուրձ}}
 * Czech: {{t+|cs|kopa|f}}
 * Dutch: {{t+|nl|berg}}
 * German: {{t+|de|Berg|m}}, {{t+|de|Haufen|m}}
-* Greek: {{t+|el|βουνό|tr=vunó|n}}
+* Greek: {{t+|el|βουνό|n}}
 * Icelandic: {{t+|is|haugur|m}}
-* Macedonian: {{t|mk|куп|m|tr=kup}}
+* Macedonian: {{t|mk|куп|m}}
 * Neapolitan: {{t|nap|muntagna|f}}
 * Pashto: {{t+|ps|غر|m|tr=ghar|sc=ps-Arab}}
 * Portuguese: {{t+|pt|montanha|f}}, {{t+|pt|monte|m}}
 {{trans-mid}}
 * Romanian: {{t+|ro|grămadă|f}}, {{t+|ro|munte|f}}, {{t+|ro|noian|n}}
-* Russian: {{t+|ru|куча|f|tr=kúča}}
+* Russian: {{t+|ru|ку́ча|f}}
 * Scottish Gaelic: {{t|gd|tòrr|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|брдо|n}}
