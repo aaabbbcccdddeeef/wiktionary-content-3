@@ -6,8 +6,8 @@ From {{etyl|fro|en}} {{term|infinité|lang=fro}}, from {{etyl|la|en}} {{term|inf
 ===Noun===
 {{en-noun|~|infinities}}
 
-# {{context|uncountable|lang=en}} [[endlessness|Endlessness]], [[unlimitedness]], absence of end or limit.
-# {{context|countable|mathematics|lang=en}} A number that has an [[infinite]] numerical value that cannot be counted.
+# {{label|en|uncountable}} [[endlessness|Endlessness]], [[unlimitedness]], absence of end or limit.
+# {{label|en|countable|mathematics}} A number that has an [[infinite]] numerical value that cannot be counted.
 #* {{quote-magazine|date=2012-01
 |author=Michael Riordan
 |title=Tackling Infinity
@@ -15,8 +15,9 @@ From {{etyl|fro|en}} {{term|infinité|lang=fro}}, from {{etyl|la|en}} {{term|inf
 |magazine=[[w:American Scientist|American Scientist]]
 |url=http://www.americanscientist.org/bookshelf/pub/tackling-infinity
 |passage=Some of the most beautiful and thus appealing physical theories, including quantum electrodynamics and quantum gravity, have been dogged for decades by '''infinities''' that erupt when theorists try to prod their calculations into new domains. Getting rid of these nagging '''infinities''' has probably occupied far more effort than was spent in originating the theories.}}
-# {{context|uncountable|lang=en}} A number which is very large compared to some characteristic number.  For example, in [[optics]], an object which is much further away than the [[focal length]] of a [[lens]] is said to be "at infinity", as the distance of the image from the lens varies very little as the distance increases further.
-# {{context|uncountable|lang=en}} The symbol [[∞]].
+# {{label|en|countable|topology|analysis}} An [[idealised]] [[point]] which is said to be [[approach]]ed by [[sequence]]s of [[values]] whose [[magnitude]]s increase without [[bound]].
+# {{label|en|uncountable}} A number which is very large compared to some characteristic number.  For example, in [[optics]], an object which is much further away than the [[focal length]] of a [[lens]] is said to be "at infinity", as the distance of the image from the lens varies very little as the distance increases further.
+# {{label|en|uncountable}} The symbol [[∞]].
 
 ====Usage notes====
 In mathematics there are several different infinities; see [[transfinite]].
@@ -130,10 +131,10 @@ In mathematics there are several different infinities; see [[transfinite]].
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|it}}: [[infinito]], [[infinità]]
-* {{ttbc|la}}: [[infinitas]] {{g|f}}
+* {{ttbc|it}}: {{t|it|infinito}}, {{t|it|infinità}}
+* {{ttbc|la}}: {{t|la|infinitas|f}}
 {{trans-mid}}
-* {{ttbc|te}}: [[అనంతం]] (anantam)
+* {{ttbc|te}}: {{t|te|అనంతం|tr=anantam|sc=Telu}}
 {{trans-bottom}}
 
 ===See also===
