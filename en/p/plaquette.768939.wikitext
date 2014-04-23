@@ -1,45 +1,47 @@
 ==English==
 
 ===Etymology===
-
-From the French {{term|lang=fr|plaquette||small plaque}}, allegedly coined in the 1860s.
+{{borrowing|fr|plaquette||small plaque|lang=en}}, allegedly coined in the 1860s.
 
 ===Noun===
 {{en-noun}}
 
 # A small bas-relief metal tablet used as a decoration for book covers in the 15th-17th centuries.
-# {{context|physics|lang=en}} The smallest closed loop, enclosing the region between four lattice sites, in [[w:lattice gauge theory|lattice gauge theory]].
+# {{label|en|physics}} The smallest closed loop, enclosing the region between four lattice sites, in [[w:lattice gauge theory|lattice gauge theory]].
 
 ----
 
 ==French==
 
 ===Etymology===
-From {{suffix|plaque|ette|lang=fr}}.
+{{suffix|plaque|ette|lang=fr}}
 
 ===Noun===
 {{fr-noun|f}}
 
-# [[packet]] (of butter); [[strip]], blister pack (of pills)
-# {{context|hematology|cytology|lang=fr}} [[platelet]]
-# {{context|automobile}} ''plaquette de frein'': brake pad
+# [[packet]] {{qualifier|of butter}}; [[strip]], blister pack {{qualifier|of pills}}
+# {{label|fr|hematology|cytology}} [[platelet]]
+# {{label|fr|automobile|~ de [[frein]]}} brake pad
 
 ====Synonyms====
-* {{l|fr|thrombocyte}}
+* {{l/fr|thrombocyte}}
 
 ----
 
 ==Italian==
 
+===Etymology===
+{{borrowing|fr|plaquette||small plaque|lang=it}}.
+
 ===Noun===
 {{head|it|noun|g=f|invariable}}
 
 # [[booklet]], [[pamphlet]]
-# A small [[commemorative]] [[plaque]]
+# a small [[commemorative]] [[plaque]]
 
 ====Synonyms====
-* (''booklet'') [[opuscolo]]
-* (''small commemorative plaque'') [[targhetta]] [[commemorativa]], piccola [[targa]] commemorativa
+* {{sense|booklet}} {{l/it|opuscolo}}
+* {{sense|small commemorative plaque}} {{l/it|targhetta}} {{l/it|commemorativa}}, piccola {{l/it|targa}} commemorativa
 
 [[el:plaquette]]
 [[fr:plaquette]]
