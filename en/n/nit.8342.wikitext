@@ -3,7 +3,7 @@
 {{wikipedia|dab=nit}}
 
 ===Pronunciation===
-* {{rhymes|ɪt}}
+* {{rhymes|ɪt|lang=en}}
 * {{homophones|lang=en|knit}}
 
 ===Etymology 1===
@@ -28,7 +28,7 @@
 {{trans-top|egg of a louse}}
 * Albanian: {{t|sq|thëri|f-p}}
 * Arabic: {{t|ar|صغبة|f|tr=ṣúġba|sc=Arab}}
-* Armenian: {{t|hy|անիծ|tr=aniç}}
+* Armenian: {{t|hy|անիծ|sc=Armn}}
 * Basque: {{t|eu|bartz}}
 * Belarusian: {{t|be|гніда|f|tr=hnída|sc=Cyrl}}
 * Bulgarian: {{t|bg|гнида|f|tr=gnída}}
@@ -166,7 +166,7 @@ From {{etyl|la|ca}} {{term|nox|lang=la}}, ''noctem''.
 [[Image:Rivet01.jpg|thumb|250px|nity]]
 
 ===Etymology===
-{{etyl|de|pl}} {{term|Niete|lang=de}}.
+From {{etyl|de|pl}} {{term|Niete|lang=de}}.
 
 ===Pronunciation===
 * {{IPA|lang=pl|/ɲit/}}
@@ -195,7 +195,7 @@ From {{etyl|la|ca}} {{term|nox|lang=la}}, ''noctem''.
 From {{etyl|de|ro}} {{term|Niete|lang=de}}.
 
 ===Noun===
-{{head|ro|noun|g=n}}
+{{ro-noun|n}}
 
 # [[rivet]]
 
@@ -274,10 +274,13 @@ From {{etyl|de|sv}} {{term|Niet|lang=de}}.
 ==Volapük==
 
 ===Noun===
-{{head|vo|noun}}
+{{vo-noun}}
 
-# A [[staple]]
-# A [[staple]] for [[office]] [[stapler]]<!--um, so a staple? Mglovesfun-->
+# [[staple]]
+# [[staple]] for [[office]] [[stapler]]<!--um, so a staple? Mglovesfun-->
+
+====Declension====
+{{vo-decl-noun}}
 
 [[ca:nit]]
 [[cs:nit]]
