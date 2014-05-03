@@ -191,7 +191,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 * Ossetian: {{t|os|цӕхх|sc=Cyrl}}
 * Ottoman Turkish: {{t|ota|نمک|tr=nemek|sc=ota-Arab}}
 * Pali: {{t|pi|loṇa|n}}
-* Pashto: {{t+|ps|مالګه|f|tr=mālga|sc=ps-Arab}}
+* Pashto: {{t|ps|مالګه|f|tr=mālga|sc=ps-Arab}}
 * Persian: {{t+|fa|نمک|tr=namak}}
 * Polish: {{t+|pl|sól|f}}, {{t|pl|sól kuchenna|f}}
 * Portuguese: {{t+|pt|sal|m}}
@@ -208,7 +208,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 * Scottish Gaelic: {{t|gd|salann|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{qualifier|Serbo-Croatian, Serbo-Croatian}} {{t|sh|со|f}}, {{qualifier|Serbo-Croatian}} {{t|sh|сол|f}}
-*: Roman: {{qualifier|Serbo-Croatian, Serbo-Croatian}} {{t|sh|so|f}}, {{qualifier|Serbo-Croatian}} {{t|sh|sol}}
+*: Roman: {{qualifier|Serbo-Croatian, Serbo-Croatian}} {{t+|sh|so|f}}, {{qualifier|Serbo-Croatian}} {{t+|sh|sol}}
 * Shan: {{t|shn|ၵိူဝ်|tr=kɤ1|sc=Mymr}}
 * Shor: {{t|cjs|тус|tr=tus|sc=Cyrl}}
 * Sicilian: {{t+|scn|sali|m}}
@@ -270,12 +270,12 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 {{trans-mid}}
 * Navajo: {{t|nv|áshįįh}}
 * Norwegian: {{t+|no|salt|n}}
-* Pashto: {{t+|ps|مالګه|f|tr=mālga|sc=ps-Arab}}
+* Pashto: {{t|ps|مالګه|f|tr=mālga|sc=ps-Arab}}
 * Polish: {{t+|pl|sól|f}}
 * Portuguese: {{t+|pt|sal|m}}
 * Romanian: {{t+|ro|sare|f}}
 * Russian: {{t+|ru|соль|f|tr=sol’}}
-* Serbo-Croatian: {{t|sh|sol|f}}
+* Serbo-Croatian: {{t+|sh|sol|f}}
 * Slovak: {{t|sk|soľ|f}}
 * Slovene: {{t+|sl|sol|f}}
 * Spanish: {{t+|es|sal|f}}
@@ -321,7 +321,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 * {{ttbc|ar}}: {{t|ar|مِلْح|m|f|tr=milh|sc=Arab}}
 * {{ttbc|az}}: {{t+|az|duz}}
 * {{ttbc|eu}}: {{t|eu|gatz}}
-* {{ttbc|sh}}: {{t|sh|sol|f}}, {{t|sh|so|f}}
+* {{ttbc|sh}}: {{t+|sh|sol|f}}, {{t+|sh|so|f}}
 * {{ttbc|br}}: {{t+|br|holen|m}}, {{t|br|holenoù|p}}
 * {{ttbc|bg}}: {{t+|bg|сол|tr=sol}}
 * {{ttbc|chr}}: {{t+|chr|ᎠᎹ|tr=āma|sc=Cher}}
@@ -346,7 +346,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 * {{ttbc|rom}}: {{t|rom|lon}}
 * {{ttbc|sh}}:
 *: Cyrillic: {{t|sh|со|f|sc=Cyrl}}
-*: Roman: {{t|sh|so|f}}
+*: Roman: {{t+|sh|so|f}}
 * {{ttbc|tl}}: {{t+|tl|asin}}
 * {{ttbc|tet}}: {{t|tet|masin}}
 * {{ttbc|th}}: {{t+|th|เกลือ|tr=gleua|sc=Thai}}, {{t|th|เค็ม|tr=kem|sc=Thai}}
@@ -408,7 +408,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 * Finnish: {{t+|fi|suolainen}}, [[suola]]-
 * French: {{t+|fr|salin}}
 * Greek: {{t+|el|αλατούχος|m|tr=alatoúchos|sc=Grek}}, {{t|el|αλατώδης|m|tr=alatódis|sc=Grek}}
-* Italian: {{t|it|salino}}
+* Italian: {{t+|it|salino}}
 {{trans-mid}}
 * Macedonian: {{t|mk|солен|tr=sólen}}
 * Norwegian: {{t|no|saltholdig}}
@@ -459,7 +459,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 * Aromanian: {{t|rup|ãnsar}}, {{t|rup|nsar}}
 * Catalan: {{t+|ca|salar}}
 * Czech: {{t+|cs|solit}}, {{t|cs|osolit}}
-* Danish: {{t|da|salte}}
+* Danish: {{t+|da|salte}}
 * Dutch: {{t+|nl|zouten}}
 * Esperanto: {{t|eo|sali}}
 * Estonian: {{t|et|soolata}}
@@ -510,7 +510,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{term/t|
 {{trans-bottom}}
 
 {{trans-top|include colorful language}}
-* Danish: {{t|da|krydre}}
+* Danish: {{t+|da|krydre}}
 * Dutch: {{t+|nl|kleuren}}
 {{trans-mid}}
 * Finnish: {{t+|fi|maustaa}}, {{t|fi|höystää}}
