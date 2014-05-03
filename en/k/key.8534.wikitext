@@ -94,14 +94,14 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Arabic: {{t|ar|مفتاح|m|tr=mifftaḥ|sc=Arab}}
 *: Egyptian Arabic: {{t|arz|مفتاح|tr=mufftaḥ|sc=Arab}}
 * {{trreq|an}}
-* Armenian: {{t|hy|բանալի|tr=banali|sc=Armn}}
+* Armenian: {{t+|hy|բանալի|tr=banali|sc=Armn}}
 * Aromanian: {{t|rup|cljaie|f}}
 * {{trreq|as}}
 * Asturian: {{t|ast|llave|f}}
 * {{trreq|av}}
 * Azeri: {{t+|az|açar}}
 * Bashkir: {{t|ba|асҡыс|sc=Cyrl}}
-* Basque: {{t|eu|giltza}}
+* Basque: {{t+|eu|giltza}}
 * Belarusian: {{t|be|ключ|m|tr=ključ|sc=Cyrl}}
 * Bengali: {{t|bn|চাবি|tr=cābi|sc=Beng}}
 * Breton: {{t+|br|alc'hwez|m}}
@@ -197,7 +197,7 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Scottish Gaelic: {{t|gd|iuchair|f}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|кључ|m}}
-*: Roman: {{t|sh|ključ|m}}
+*: Roman: {{t+|sh|ključ|m}}
 * Sicilian: {{t|scn|chiàvi}}
 * {{trreq|sd}}
 * Sinhalese: {{t|si|යතුර|tr=yatura|sc=Sinh}}
@@ -285,7 +285,7 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Catalan: {{t|ca|tecla|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|鍵|sc=Hani}}, {{t+|cmn|键|tr=jiàn|sc=Hani}}
-* Czech: {{t|cs|klávesa|f}}
+* Czech: {{t+|cs|klávesa|f}}
 * Danish: {{t+|da|tast|c}}
 * Dutch: {{t+|nl|toets|m}}
 * Esperanto: {{t|eo|klavo}}
@@ -318,7 +318,7 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Scottish Gaelic: {{t|gd|meur|f}}, {{t|gd|putan|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|дирка|f}}, {{t|sh|типка|f}}
-*: Roman: {{t|sh|dirka|f}}, , {{t|sh|tipka|f}}
+*: Roman: {{t+|sh|dirka|f}}, , {{t+|sh|tipka|f}}
 * Slovene: {{t+|sl|tipka|f}}
 * Spanish: {{t+|es|tecla|f}}
 * Swedish: {{t+|sv|tangent}}, {{t+|sv|knapp|c}}
@@ -333,7 +333,7 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 * Catalan: {{t|ca|tecla|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|鍵|sc=Hani}}, {{t+|cmn|键|tr=jiàn|sc=Hani}}
-* Czech: {{t|cs|klávesa|f}}
+* Czech: {{t+|cs|klávesa|f}}
 * Danish: {{t|da|tangent|c}}
 * Dutch: {{t+|nl|toets|m}}
 * Esperanto: {{t|eo|klavo}}
@@ -507,12 +507,12 @@ From {{etyl|enm|en}} {{term|keye|lang=enm}}, {{term|kaye|lang=enm}}, {{term|kei�
 
 {{checktrans-top}}
 * {{ttbc|bn}}: {{t|bn|কুঞ্জি|sc=Beng}}, {{t|bn|চাবিকাটি|sc=Beng}}, {{t|bn|চাবিকাঠি|sc=Beng}}
-* {{ttbc|bg}}: {{t|bg|ключ|m|tr=ključ|sc=Cyrl}} (1, 5), {{t|bg|клавиш|m|tr=klaviš|sc=Cyrl}} (3, 4)
-* {{ttbc|ko}}: {{t|ko|열쇠|tr=yeolsoe|sc=Kore}}
-* {{ttbc|ml}}: {{t|ml|താക്കോല്|alt=താക്കോല്‍|sc=Mlym}} <!-- was "[[താക്കോല്]]‍" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t|ml|ചാവി|sc=Mlym}}
+* {{ttbc|bg}}: {{t+|bg|ключ|m|tr=ključ|sc=Cyrl}} (1, 5), {{t+|bg|клавиш|m|tr=klaviš|sc=Cyrl}} (3, 4)
+* {{ttbc|ko}}: {{t+|ko|열쇠|tr=yeolsoe|sc=Kore}}
+* {{ttbc|ml}}: {{t|ml|താക്കോല്|alt=താക്കോല്‍|sc=Mlym}} <!-- was "[[താക്കോല്]]‍" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+|ml|ചാവി|sc=Mlym}}
 {{trans-mid}}
 * {{ttbc|fa}}: {{t+|fa|کلید|tr=kelid}}
-* {{ttbc|ro}}: {{qualifier|1}} {{t|ro|cheie|f}}, {{qualifier|3}} {{t|ro|tastă|f}}
+* {{ttbc|ro}}: {{qualifier|1}} {{t+|ro|cheie|f}}, {{qualifier|3}} {{t+|ro|tastă|f}}
 * {{ttbc|shn}}: {{t|shn|သေႃး|tr=sʰɔ4}}
 * {{ttbc|sk}}: {{qualifier|1, 5}} {{t|sk|kľúč|m}}, {{qualifier|3, 4}} {{t|sk|kláves|m}}
 {{trans-bottom}}
@@ -552,14 +552,14 @@ The first meaning is distinguished by the definite article, as seen in the quota
 * Catalan: {{t+|ca|clau}}
 * Czech: {{t+|cs|klíčový|m}}
 * Estonian: {{t|et|võtme-}}, {{t|et|otsustav}}, {{t|et|peamine}}
-* Hungarian: {{t|hu|kulcs|alt=kulcs-}}, {{t|hu|kulcsfontosságú}}
+* Hungarian: {{t+|hu|kulcs|alt=kulcs-}}, {{t|hu|kulcsfontosságú}}
 * Irish: {{t+|ga|eochair|alt=eochair-}}, {{t|ga|príomh-}}
 * Italian: {{t+|it|chiave}}, {{t+|it|essenziale}}
 * Japanese: {{t+|ja|キー|tr=kii}}
 * Macedonian: {{t|mk|клучен|tr=klúčen|sc=Cyrl}}, {{t|mk|суштински|tr=súštinski|sc=Cyrl}}
 {{trans-mid}}
 * Persian: {{t+|fa|کلیدی|tr=kelidi}}
-* Polish: {{t|pl|kluczowy|m}}
+* Polish: {{t+|pl|kluczowy|m}}
 * Portuguese: {{t+|pt|chave}}
 * Russian: {{t+|ru|ключевой|tr=ključevój}}
 * Scottish Gaelic: {{t|gd|riatanach}}
@@ -578,7 +578,7 @@ The first meaning is distinguished by the definite article, as seen in the quota
 * Maori: {{t|mi|tino}}
 {{trans-mid}}
 * Persian: {{t+|fa|کلیدی|tr=kelidi}}
-* Polish: {{t|pl|kluczowy|m}}
+* Polish: {{t+|pl|kluczowy|m}}
 * Portuguese: {{t+|pt|chave|f}}
 * Russian: {{t+|ru|узловой|tr=uzlovój}}, {{t+|ru|стержневой|tr=steržnevój}}; {{t+|ru|ведущий|tr=vedúščij}}
 * Scottish Gaelic: {{t|gd|cudromach}}
