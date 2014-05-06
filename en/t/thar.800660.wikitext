@@ -41,20 +41,20 @@ From {{l|sq|ther}} 'to cut, slain', with a similar sense development in other IE
 
 ==Irish==
 
-===Etymology===
+===Etymology 1===
 From {{etyl|sga|ga}} {{term|tar||lang=ga|across, beyond}}, from {{etyl|cel-pro|ga}} {{term/t|cel-pro|*ter}}, from {{etyl|ine-pro|ga}} {{term/t|ine-pro|*tr}}. Cognate with Welsh {{term|tra|lang=cy}}; Latin {{term|trans|trans-|lang=la}}, English {{term|through|lang=en}}, {{etyl|nl|-}} {{term|door|lang=nl}}. Compare {{etyl|gd|-}} {{term|thar|lang=gd}}.
 
-===Preposition===
+====Preposition====
 {{ga-prep}}
 
 # [[across]]
-#: '''thar''' {{l|ga|an}} {{l|ga|abhainn}} - ''[[across]] the [[river]]''
+#: {{ux|ga|'''thar''' an abhainn|across the river|inline=1}}
 # [[through]]
-#: '''thar''' {{l|ga|an}} {{l|ga|doras}} - ''[[through]] the [[door]]''
+#: {{ux|ga|'''thar''' an doras|through the door|inline=1}}
 # [[beyond]]
-#: '''thar''' [[mo#Irish|m]]'{{l|ga|eolas}} - ''[[beyond]] [[my]] [[knowledge]]''
+#: {{ux|ga|'''thar''' m’eolas|beyond my knowledge|inline=1}}
 
-====Inflection====
+=====Inflection=====
 {{ga-prep-infl
 |1sg = tharam
 |2sg = tharat
@@ -65,6 +65,13 @@ From {{etyl|sga|ga}} {{term|tar||lang=ga|across, beyond}}, from {{etyl|cel-pro|g
 |2pl = tharaibh
 |3pl = tharstu
 }}
+
+===Etymology 2===
+
+====Verb====
+{{head|ga|mutated verb}}
+
+# {{ga-lenition of|tar}}
 
 ----
 
