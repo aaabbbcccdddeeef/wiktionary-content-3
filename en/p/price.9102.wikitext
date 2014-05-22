@@ -76,7 +76,7 @@ From {{etyl|enm|en}} {{term|price|lang=enm||price, prize, value, excellence}}, f
 * Indonesian: {{t+|id|harga}}
 * Italian: {{t+|it|prezzo|m}}
 * Japanese: {{t+|ja|価格|tr=[[かかく]], kakaku}}, {{t+|ja|値段|tr=[[ねだん]], nedan}}
-* Jèrriais: [[prix#Jèrriais|prix]] {{g|m}}
+* Jèrriais: {{t|roa-jer|prix|m}}
 * Korean: {{t+|ko|값|tr=gap|sc=Hang}}, {{t+|ko|가격|tr=gagyeok|sc=Hang}} ({{t|ko|賈格|sc=Hani}})
 {{trans-mid}}
 * Kurdish:
@@ -152,12 +152,12 @@ From {{etyl|enm|en}} {{term|price|lang=enm||price, prize, value, excellence}}, f
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|eo}}: [[prezo]] (1), [[premio]] (2)
-* {{ttbc|io}}: [[preco]]
+* {{ttbc|eo}}: {{qualifier|1}} {{t|eo|prezo}}, {{qualifier|2}} {{t|eo|premio}}
+* {{ttbc|io}}: {{t|io|preco}}
 {{trans-mid}}
-* {{ttbc|la}}: [[pretium]] (1) {{g|n}}, {{t|la|premium}} {{g|n}} (2)
-* {{ttbc|ro}}: [[preț]] [-uri] {{g|n}}
-* {{ttbc|tr}}: [[fiyat]] [-tı]
+* {{ttbc|la}}: {{qualifier|1}} {{t|la|pretium|n}}, {{t|la|premium|n}} (2)
+* {{ttbc|ro}}: {{t|ro|preț|n}} [-uri]
+* {{ttbc|tr}}: {{t|tr|fiyat}} [-tı]
 {{trans-bottom}}
 
 ===Verb===
@@ -178,7 +178,7 @@ From {{etyl|enm|en}} {{term|price|lang=enm||price, prize, value, excellence}}, f
 * Dutch: {{t+|nl|schatten}}, {{t+|nl|prijzen}}
 * Estonian: {{t|et|hindama}}
 * Finnish: {{t+|fi|hinnoitella}}
-* German: {{t|de|schätzen}}, [[den]] [[Preis]] [[festsetzen]]
+* {{ttbc|de}}: {{t|de|schätzen}}, {{t|de|[[den]] [[Preis]] [[festsetzen]]}} <!-- was "[[den]] [[Preis]] [[festsetzen]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Greek: {{t+|el|κοστολογώ}}
 {{trans-mid}}
 * Italian: {{t+|it|stimare}}, {{t+|it|valutare}}
