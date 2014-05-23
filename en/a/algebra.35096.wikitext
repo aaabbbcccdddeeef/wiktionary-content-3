@@ -5,8 +5,8 @@
 From {{etyl|ML.|en}}, from {{etyl|ar|en}} word {{term|جبر|الجبر|tr=al-jabr|reunion, resetting of broken parts|lang=ar}} in the title of {{w|al-Khwarizmi}}'s influential work {{term||الكتاب المختصر في حساب الجبر والمقابلة|tr=al-kitāb al-muxtaṣar fī ḥisāb al-jabr wa-l-muqābala|The Compendious Book on Calculation by Completion and Balancing|lang=ar}}.
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|/ˈæl.dʒɪ.bɹə/}}
-* {{a|US}} {{IPA|/ˈæl.dʒɪ.bɹə/|/ˈæl.dʒə.bɹə/}}
+* {{a|UK}} {{IPA|/ˈæl.dʒɪ.bɹə/|lang=en}}
+* {{a|US}} {{IPA|/ˈæl.dʒɪ.bɹə/|/ˈæl.dʒə.bɹə/|lang=en}}
 * {{audio|en-us-algebra.ogg|Audio (US)|lang=en}}
 
 ===Noun===
@@ -14,8 +14,7 @@ From {{etyl|ML.|en}}, from {{etyl|ar|en}} word {{term|جبر|الجبر|tr=al-ja
 {{en-noun|~}}
 
 # {{context|uncountable|medicine|historical|rare|lang=en}} The surgical treatment of a dislocated or fractured bone. Also {{context|countable|lang=en}}: a dislocation or fracture.
-#* {{quote-book
-|year= a1420
+#* {{quote-book|year= a1420
 |year_published= 1894
 |author= The British Museum Additional MS, 12,056
 |by= {{w|Lanfranc of Milan}}
@@ -33,8 +32,7 @@ From {{etyl|ML.|en}}, from {{etyl|ar|en}} word {{term|جبر|الجبر|tr=al-ja
 |page= 63
 |passage= Ne take noon hede to brynge togidere þe parties of þe boon þat is to-broken or dislocate, til viij. daies ben goon in þe wyntir, & v. in þe somer; for þanne it schal make quytture, and be sikir from swellynge; & þanne brynge togidere þe brynkis eiþer þe disiuncture after þe techynge þat schal be seid in þe chapitle of '''algebra'''.
 }}
-#* {{quote-book
-|year= 1987
+#* {{quote-book|year= 1987
 |year_published=
 |author= {{w|John Newsome Crossley}}
 |by=
@@ -53,8 +51,7 @@ From {{etyl|ML.|en}}, from {{etyl|ar|en}} word {{term|جبر|الجبر|tr=al-ja
 |passage= '''''Algebra''''' is used today by surgeons to mean ''bone-setting'', i.e. the restoration of bones, and the idea of restoration is present in the mathematical context, too.
 }}
 # {{context|uncountable|mathematics|lang=en}} A system for computation using letters or other symbols to represent numbers, with rules for manipulating these symbols.
-#* {{quote-book
-|year= 1551
+#* {{quote-book|year= 1551
 |year_published= 1888
 |author=
 |by=
@@ -75,8 +72,7 @@ From {{etyl|ML.|en}}, from {{etyl|ar|en}} word {{term|جبر|الجبر|tr=al-ja
 # {{context|uncountable|mathematics|lang=en}} The study of [[algebraic structure]]s.
 # {{context|countable|mathematics|lang=en}} A [[universal algebra]].
 # {{context|countable|algebra|lang=en}} An algebraic structure consisting of a [[module]] of a [[commutative]] [[ring]] along with an additional [[binary operation]] that is [[bilinear]].
-#* {{quote-book
-|year= 1854
+#* {{quote-book|year= 1854
 |year_published=
 |author= {{w|George Boole}}
 |by=
@@ -97,8 +93,7 @@ From {{etyl|ML.|en}}, from {{etyl|ar|en}} word {{term|جبر|الجبر|tr=al-ja
 # {{context|countable|set theory|analysis|lang=en}} A collection of subsets of a given set, such that this collection contains the empty set, and the collection is closed under [[union]]s and [[complement]]s (and thereby also under [[intersection]]s and [[difference]]s).
 # {{context|countable|mathematics|lang=en}} One of several other types of [[mathematical structure]].
 # {{context|figurative|lang=en}} A system or process, that is like algebra by substituting one thing for another, or in using signs, symbols, etc., to represent concepts or ideas.
-#* {{quote-book
-|year= 1663
+#* {{quote-book|year= 1663
 |year_published= 1871
 |author= William Clark
 |by=
@@ -390,8 +385,7 @@ From Italian, Spanish or mediaeval Latin, from {{etyl|ar|pl}} {{l|ar|جبر|ال
 # {{l/en|algebra}}
 
 ====Declension====
-{{sh-decl-noun
-|àlgēbra|algebre
+{{sh-decl-noun|àlgēbra|algebre
 |algebre|àlgēbārā / àlgēbrī
 |algebri|algebrama
 |algebru|algebre
