@@ -2,10 +2,10 @@
 ==English==
 
 ===Pronunciation===
-* {{a|British}} {{IPA|/bɑː/}}
-* {{a|US}} {{enPR|bär}}, {{IPA|/bɑɹ/|[bɑɹ]|[bɑ˞]}}
+* {{a|British}} {{IPA|/bɑː/|lang=en}}
+* {{a|US}} {{enPR|bär}}, {{IPA|/bɑɹ/|[bɑɹ]|[bɑ˞]|lang=en}}
 * {{audio|en-us-bar.ogg|Audio (US)|lang=en}}
-* {{rhymes|ɑː(ɹ)}}
+* {{rhymes|ɑː(ɹ)|lang=en}}
 * {{homophones|lang=en|baa|bah}} {{qualifier|in some pronunciations}}
 
 ===Etymology 1===
@@ -47,8 +47,7 @@ From {{etyl|enm|en}} {{term|barre||lang=enm}}, from {{etyl|fro|en}} {{term|barre
 # {{context|music|lang=en}} One of those musical [[section]]s.
 # {{context|sports|lang=en}} A horizontal pole that must be crossed in [[high jump]] and [[pole vault]]
 # {{context|soccer|lang=en}} The [[crossbar]]
-#* {{quote-news
-|year=2010
+#* {{quote-news|year=2010
 |date=December 29
 |author=Chris Whyatt
 |title=Chelsea 1 - 0 Bolton
@@ -961,8 +960,7 @@ From {{etyl|en|pl}} {{term|lang=en|bar}}.
 # [[#English|bar]] {{gloss|a long table or counter where drinks are served}}
 
 =====Declension=====
-{{pl-decl-noun
-|bar|bary
+{{pl-decl-noun|bar|bary
 |baru|barów
 |barowi|barom
 |bar|bary
@@ -983,8 +981,7 @@ From {{etyl|la|pl}} {{term|lang=la|barium}}
 # [[barium]]
 
 =====Declension=====
-{{pl-decl-noun-sing
-|bar
+{{pl-decl-noun-sing|bar
 |baru
 |barowi
 |bar
@@ -1002,8 +999,7 @@ From {{etyl|grc|pl}} {{term|βάρος|tr=baros||weight|lang=grc}}, probably bor
 # [[#English|bar]] {{gloss|a unit of pressure equal to 100,000 pascals}}
 
 =====Declension=====
-{{pl-decl-noun
-|bar|bary
+{{pl-decl-noun|bar|bary
 |bara|barów
 |barowi|barom
 |bar|bary
@@ -1071,8 +1067,7 @@ From {{etyl|en|sh}} {{term|bar|lang=en}}
 # [[public house]], [[#English|bar]]
 
 =====Declension=====
-{{sh-decl-noun
-|bȃr|bȁrovi
+{{sh-decl-noun|bȃr|bȁrovi
 |bara|barova
 |baru|barovima
 |bar|barove
@@ -1093,8 +1088,7 @@ From {{etyl|grc|sh}} {{term|βάρος||weight|lang=grc}}, coined circa 1900.
 # [[#English|bar]] {{gloss|unit of pressure}}
 
 =====Declension=====
-{{sh-decl-noun
-|bȃr|bȃri
+{{sh-decl-noun|bȃr|bȃri
 |bara|bara
 |baru|barima
 |bar|bave
