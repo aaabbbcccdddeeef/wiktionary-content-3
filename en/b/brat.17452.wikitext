@@ -5,9 +5,9 @@
 Origin uncertain. According to the [http://www.etymonline.com/index.php?term=brat Online Etymology Dictionary], the term "brat" derives from an Old English (Old English) slang term meaning "beggar's child". Originally a dialectal word, from northern and western England and the Midlands, for a "makeshift or ragged garment"; probably the same word as {{etyl|ang|-}} {{term|bratt||cloak|lang=ang}}, which is from a Celtic source (compare Old Irish {{term|bratt||cloak, cloth|lang=sga}}).
 
 ====Pronunciation====
-* {{a|UK}} {{IPA|/bɹat/}}
-* {{a|US}} {{enPR|brăt}}, {{IPA|/bɹæt/}}
-* {{rhymes|æt}}
+* {{a|UK}} {{IPA|/bɹat/|lang=en}}
+* {{a|US}} {{enPR|brăt}}, {{IPA|/bɹæt/|lang=en}}
+* {{rhymes|æt|lang=en}}
 
 ====Noun====
 {{en-noun}}
@@ -56,8 +56,8 @@ Origin uncertain. According to the [http://www.etymonline.com/index.php?term=bra
 Shortened from {{term|bratwurst|lang=en}}, from the {{etyl|de|en}} ''[[Bratwurst]]''
 
 ====Pronunciation====
-* {{a|US}} {{enPR|brŏt}}, {{IPA|/bɹɑt/}}
-* {{rhymes|ɒt}}
+* {{a|US}} {{enPR|brŏt}}, {{IPA|/bɹɑt/|lang=en}}
+* {{rhymes|ɒt|lang=en}}
 
 ====Noun====
 {{en-noun}}
@@ -188,8 +188,7 @@ From {{etyl|sla-pro|pl}} {{m|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{e
 # [[brother]]
 
 ====Declension====
-{{pl-decl-noun
-|brat|bracia
+{{pl-decl-noun|brat|bracia
 |brata|braci
 |bratu|braciom
 |brata|braci
@@ -236,8 +235,7 @@ From {{etyl|sla-pro|sh}} {{m|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{e
 # [[mate]], [[pal]], [[buddy]], when used in informal speech to address somebody in [[vocative]] (''brate'')
 
 ====Declension====
-{{sh-decl-noun-unc
-|brat
+{{sh-decl-noun-unc|brat
 |brata
 |bratu
 |brata
