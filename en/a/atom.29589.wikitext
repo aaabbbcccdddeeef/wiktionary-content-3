@@ -9,8 +9,8 @@
 From {{etyl|frm|en}} {{term|atome|lang=frm}}, from {{etyl|la|en}} {{term|atomus||smallest particle|lang=la}}, from {{etyl|grc|en}} {{term|ἄτομος||indivisible|tr=atomos|lang=grc|sc=polytonic}}, from {{term|ἀ-||not|tr=a-|lang=grc|sc=polytonic}} + {{term|τέμνω||I cut|tr=temnō|lang=grc|sc=polytonic}}.
 
 ===Pronunciation===
-*{{a|UK}} {{IPA|/ˈatəm/}}
-*{{a|US}} {{IPA|/ˈæɾəm/}}
+*{{a|UK}} {{IPA|/ˈatəm/|lang=en}}
+*{{a|US}} {{IPA|/ˈæɾəm/|lang=en}}
 
 ===Noun===
 {{en-noun}}
@@ -301,8 +301,7 @@ From {{etyl|en|ms}} {{term|atom|lang=en}}, from {{etyl|fro|ms}} {{term|atome|lan
 # {{context|physics|lang=pl}} {{l/en|atom}}
 
 ====Declension====
-{{pl-decl-noun
-|atom|atomy
+{{pl-decl-noun|atom|atomy
 |atomu|atomów
 |atomowi|atomom
 |atom|atomy
@@ -339,8 +338,7 @@ From {{etyl|en|ms}} {{term|atom|lang=en}}, from {{etyl|fro|ms}} {{term|atome|lan
 # {{l/en|atom}}
 
 ====Declension====
-{{sh-decl-noun
-|atom|atomi
+{{sh-decl-noun|atom|atomi
 |atoma|atoma
 |atomu|atomima
 |atom|atome
