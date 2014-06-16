@@ -407,7 +407,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 * Dutch: {{t+|nl|zout|n}}, {{t+|nl|zout|n|alt=zout-}}
 * Estonian: {{t+|et|soolane}}, {{t|et|soola-}}
 * Faroese: {{t|fo|saltkendur}}
-* Finnish: {{t+|fi|suolainen}}, [[suola]]-
+* {{ttbc|fi}}: {{t+|fi|suolainen}}, {{t|fi|suola|alt=suola-}} <!-- was "[[suola]]-" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * French: {{t+|fr|salin}}
 * Greek: {{t+|el|αλατούχος|m|tr=alatoúchos|sc=Grek}}, {{t|el|αλατώδης|m|tr=alatódis|sc=Grek}}
 * Italian: {{t+|it|salino}}
@@ -424,16 +424,16 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ca}}: [[salat]] {{g|m}} [[salada]] {{g|f}}
-* {{ttbc|de}}: [[salzig]]
-* {{ttbc|id}}: [[asin]]
-* {{ttbc|ia}}: [[salate]]
+* {{ttbc|ca}}: {{t|ca|salat|m}}, {{t|ca|salada|f}}
+* {{ttbc|de}}: {{t|de|salzig}}
+* {{ttbc|id}}: {{t|id|asin}}
+* {{ttbc|ia}}: {{t|ia|salate}}
 {{trans-mid}}
-* {{ttbc|ang}}: [[sealt]]
-* {{ttbc|pt}}: [[salgado]] {{g|m}}, [[salgada]] {{g|f}}
-* {{ttbc|ro}}: [[sărat]] {{g|m}}, [[sărată]] {{g|f}}
-* {{ttbc|sk}}: [[slaný]]
-* {{ttbc|te}}: [[ఉప్పగా]] (uppagaa), [[ఉప్పటి]] (uppaTi)
+* {{ttbc|ang}}: {{t|ang|sealt|sc=Latinx}}
+* {{ttbc|pt}}: {{t|pt|salgado|m}}, {{t|pt|salgada|f}}
+* {{ttbc|ro}}: {{t|ro|sărat|m}}, {{t|ro|sărată|f}}
+* {{ttbc|sk}}: {{t|sk|slaný}}
+* {{ttbc|te}}: {{t|te|ఉప్పగా|tr=uppagaa|sc=Telu}}, {{t|te|ఉప్పటి|tr=uppaTi|sc=Telu}}
 {{trans-bottom}}
 
 ===Verb===
@@ -467,7 +467,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 * Esperanto: {{t|eo|sali}}
 * Estonian: {{t|et|soolata}}
 * Faroese: {{t|fo|salta}}
-* Finnish: {{t+|fi|suolata}}, [[lisätä]] [[suola|suolaa]]
+* {{ttbc|fi}}: {{t+|fi|suolata}}, {{t|fi|[[lisätä]] [[suola|suolaa]]}} <!-- was "[[lisätä]] [[suola|suolaa]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * French: {{t+|fr|saler}}
 * Friulian: {{t|fur|salâ}}
 * Galician: {{t|gl|salar}}
@@ -490,7 +490,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 * Portuguese: {{t+|pt|salgar}}
 * Romanian: {{t+|ro|săra}}
 * Romansch: {{t|rm|ensalar}}, {{t|rm|ansalar}}, {{t|rm|saler}}, {{t|rm|insaler}}, {{t|rm|salar}}
-* Russian: [[солить]] (solít') {{impf}}, [[посолить]] (posolít') {{pf.}}
+* Russian: {{t|ru|солить|impf|tr=solít'|sc=Cyrl}}, {{t|ru|посолить|pf|tr=posolít'|sc=Cyrl}}
 * Sardinian: {{t|sc|salire}}, {{t|sc|saliri}}
 * Scottish Gaelic: {{qualifier|for preservation}} {{t|gd|saill}}
 * Sicilian: {{t|scn|salari}}
@@ -529,13 +529,13 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sh}}: [[soliti#Serbo-Croatian|soliti]], [[posoliti#Serbo-Croatian|posoliti]]
-* {{ttbc|sh}}: [[soliti#Serbo-Croatian|soliti]], [[posoliti#Serbo-Croatian|posoliti]]
-* {{ttbc|ang}}: [[sealtan]], [[sieltan]]
+* {{ttbc|sh}}: {{t|sh|soliti}}, {{t|sh|posoliti}}
+* {{ttbc|sh}}: {{t|sh|soliti}}, {{t|sh|posoliti}}
+* {{ttbc|ang}}: {{t|ang|sealtan|sc=Latinx}}, {{t|ang|sieltan|sc=Latinx}}
 {{trans-mid}}
 * {{ttbc|sh}}:
-*: Cyrillic: [[солити#Serbo-Croatian|солити]], [[посолити#Serbo-Croatian|посолити]]
-*: Roman: [[soliti#Serbo-Croatian|soliti]], [[posoliti#Serbo-Croatian|posoliti]]
+*: Cyrillic: {{t|sh|солити|sc=Cyrl}}, {{t|sh|посолити|sc=Cyrl}}
+*: Roman: {{t|sh|soliti}}, {{t|sh|posoliti}}
 {{trans-bottom}}
 
 ===Anagrams===
