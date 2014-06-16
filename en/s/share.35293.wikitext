@@ -127,13 +127,13 @@ From {{etyl|enm|en}} {{term|schare|lang=enm}}, {{term|schere|lang=enm}}, from {{
 * Catalan: {{t+|ca|compartir}}
 * Chinese:
 *: Mandarin: {{t+|cmn|共享|tr=gòngxiǎng|sc=Hani}}, {{t+|cmn|分配|tr=fēnpèi|sc=Hani}}, {{t+|cmn|分享|tr=fēnxiǎng|sc=Hani}}
-* Czech: {{t|cs|sdílet}}, [[podělit]] se
+* {{ttbc|cs}}: {{t|cs|sdílet}}, {{t|cs|podělit|alt=podělit se}} <!-- was "[[podělit]] se" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Danish: {{t|da|dele}}
 * Finnish: {{t+|fi|jakaa}}
 * French: {{t+|fr|partager}}
 * {{trreq|ka}}
 * German: {{t+|de|teilen}}
-* Hebrew: {{t|he|לתת}} [latet]
+* Hebrew: {{t|he|לתת|tr=latet}}
 * Hungarian: {{t+|hu|megoszt}}
 {{trans-mid}}
 * Italian: {{t+|it|condividere}}
@@ -143,7 +143,7 @@ From {{etyl|enm|en}} {{term|schare|lang=enm}}, {{term|schere|lang=enm}}, from {{
 * Polish: {{t+|pl|dzielić się}}
 * Portuguese: {{t+|pt|partilhar}}, {{t+|pt|compartilhar}}, {{t+|pt|dividir}}
 * Romanian: {{t+|ro|partaja}}, {{t+|ro|împărți}}
-* Russian: [[делить]] (delít’) {{impf}}, [[разделить]] (razdelít’) {{pf.}} ''trans''; [[делиться]] (delít’sja) {{impf}}, [[поделиться]] (podelít’sja) {{pf.}} ''intrans''
+* {{ttbc|ru}}: {{qualifier|transitive}} {{t|ru|делить|impf|tr=delít’|sc=Cyrl}}, {{qualifier|transitive}} {{t|ru|разделить|pf|tr=razdelít’|sc=Cyrl}}, {{qualifier|intransitive}} {{t|ru|делиться|impf|tr=delít’sja|sc=Cyrl}}, {{qualifier|intransitive}} {{t|ru|поделиться|pf|tr=podelít’sja|sc=Cyrl}}
 * Spanish: {{t+|es|dar}}, {{t+|es|compartir}}
 * Swahili: {{t+|sw|hisa}}
 * Turkish: {{t+|tr|paylaşmak}}
@@ -167,7 +167,7 @@ From {{etyl|enm|en}} {{term|schare|lang=enm}}, {{term|schere|lang=enm}}, from {{
 * Korean: {{t+|ko|공유하다|sc=Kore}}
 * Polish: {{t+|pl|dzielić}}
 * Portuguese: {{t+|pt|compartilhar}}
-* Romanian: {{t+|ro|împărți}}; [[împărtăși]]
+* Romanian: {{t+|ro|împărți}}, {{t|ro|împărtăși}}
 * Russian: {{t+|ru|разделять|impf|tr=razd'el'át'}}, {{t+|ru|разделить|pf|tr=razd'elít'}}
 * Spanish: {{t+|es|compartir}}
 * Swahili: {{t+|sw|hisa}}
@@ -212,7 +212,7 @@ From {{etyl|enm|en}} {{term|schare|lang=enm}}, {{term|schere|lang=enm}}, from {{
 * {{trreq|he}}
 {{trans-mid}}
 * {{ttbc|roa-jer}}: {{t|roa-jer|chârer}}
-* {{ttbc|ang}}: [[dælan|dǣlan]] (1)
+* {{ttbc|ang}}: {{t|ang|dælan|tr=1|alt=dǣlan|sc=Latinx}} <!-- was "[[dælan|dǣlan]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * {{ttbc|pt}}: {{t+|pt|compartilhar}}
 {{trans-bottom}}
 
