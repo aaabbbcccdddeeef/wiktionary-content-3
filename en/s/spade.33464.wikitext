@@ -44,7 +44,7 @@ From {{etyl|ang|en}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, from {{et
 * Crimean Tatar: {{t|crh|kürek}}
 * Czech: {{t+|cs|rýč|m}}
 * Danish: {{t+|da|spade|c}}
-* Dutch: {{t+|nl|schop|f}}, [[#Dutch|spade]] {{g|f}}, [[schup]] {{g|f}} {{qualifier|Flemish}}, {{t+|nl|schep|f}}
+* Dutch: {{t+|nl|schop|f}}, {{t|nl|spade|f}}, {{qualifier|Flemish}} {{t|nl|schup|f}}, {{t+|nl|schep|f}}
 * Estonian: {{t|et|labidas}}
 * Faroese: {{t|fo|spaki|m}}, {{t|fo|spaði|m}}
 * Finnish: {{t+|fi|lapio}}
@@ -93,7 +93,7 @@ From {{etyl|ang|en}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, from {{et
 * Swedish: {{t+|sv|spade|c}}
 * Tajik: {{t|tg|бел|tr=bel|sc=Cyrl}}
 * Talysh:
-*: Asalemi: {{t|tly|خلیک|tr=xəlik}}
+*: {{ttbc|Asalemi}}<!-- name not recognised by xte: update [[Template:scriptrev]] or [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]] -->: {{t|tly|خلیک|tr=xəlik}}
 * Tatar: {{t+|tt|көрәк|tr=köräk}}
 * Turkish: {{t+|tr|kürek}}, {{t+|tr|bel}}
 * Turkmen: {{t|tk|bel}}
@@ -108,9 +108,9 @@ From {{etyl|ang|en}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, from {{et
 * Arabic: {{t|ar|البستوني|tr=al-bastūni|m}}
 * Armenian: {{qualifier|formal}} {{t+|hy|ագռավ|tr=agṙav|sc=Armn}}, {{qualifier|informal}} {{t|hy|ղառ|tr=łar|sc=Armn}}
 * Bulgarian: {{t+|bg|пика|f}}
-* Chinese: {{qualifier|Hong Kong}} [[揆扇]] (kuí shàn)
+* Chinese: {{qualifier|Hong Kong}} {{t|zh|揆扇|tr=kuí shàn|sc=Hani}}
 * Danish: {{t+|da|spar|c}}
-* Dutch: {{t+|nl|schoppen|p}}, [[schuppen]] {{g|p}} {{qualifier|Flemish}}
+* Dutch: {{t+|nl|schoppen|p}}, {{qualifier|Flemish}} {{t|nl|schuppen|p}}
 * Estonian: {{t|et|poti}}, {{t|et|pada}}
 * Faroese: {{t|fo|spaðari|m}}, {{t|fo|spaðar|m}}
 * Finnish: {{t+|fi|pata}}
@@ -154,11 +154,11 @@ From {{etyl|ang|en}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, from {{et
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|cmn}}: [[鍬]], [[锹]] (qiāo), [[黑桃]] (hēi táo)
-* {{ttbc|ia}}: [[picca]]
+* {{ttbc|cmn}}: {{t|cmn|鍬|sc=Hani}}, {{t|cmn|锹|tr=qiāo|sc=Hani}}, {{t|cmn|黑桃|tr=hēi táo|sc=Hani}}
+* {{ttbc|ia}}: {{t|ia|picca}}
 {{trans-mid}}
-* {{ttbc|ko}}: [[삽]] (sap)
-* {{ttbc|es}}: [[pala]] {{g|f}}
+* {{ttbc|ko}}: {{t|ko|삽|tr=sap|sc=Kore}}
+* {{ttbc|es}}: {{t|es|pala|f}}
 {{trans-bottom}}
 
 ====Verb====
