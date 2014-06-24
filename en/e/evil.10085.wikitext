@@ -64,8 +64,8 @@ From {{etyl|ang|en}} {{term|yfel|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pr
 * Armenian: {{t|hy|չար|}}
 * Asturian: {{t|ast|malu}}
 * Basque: {{t+|eu|gaizto}}
-* Belarusian: {{t|be|злы|tr=zly|sc=Cyrl}}
-* Bulgarian: {{t+|bg|лош|m}}, {{t+|bg|зъл|tr=zǎl|sc=Cyrl}}
+* Belarusian: {{t|be|злы|sc=Cyrl}}
+* Bulgarian: {{t+|bg|лош|m}}, {{t+|bg|зъл|sc=Cyrl}}
 * Catalan: {{t+|ca|malvat}}
 * Chinese:
 *: Mandarin: {{t|cmn|邪惡|alt=邪惡的|sc=Hani}}, {{t+|cmn|邪恶|tr=xié'è de|alt=邪恶的|sc=Hani}}, {{t+|cmn|壞|alt=壞的|sc=Hani}}, {{t+|cmn|坏|tr=huài de|alt=坏的|sc=Hani}}, {{t+|cmn|凶狠|tr=xiōnghěn|sc=Hani}}
@@ -82,7 +82,7 @@ From {{etyl|ang|en}} {{term|yfel|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pr
 * French: {{t+|fr|mauvais|m}}, {{t+|fr|maléfique|m|f}}
 * Georgian: {{t|ka|ბოროტი|sc=Geor}}
 * German: {{t+|de|böse}}, {{t+|de|übel}}
-* Greek: {{t+|el|κακός|m|tr=kakós|sc=Grek}}
+* Greek: {{t+|el|κακός|m|sc=Grek}}
 * Haitian Creole: {{t|ht|move}}, {{t|ht|mechan}}
 * Hebrew: {{t+|he|רע}}, {{t|he|מרושע|m|tr=merusha}}
 * Hiligaynon: {{t|hil|malain}}
@@ -92,7 +92,7 @@ From {{etyl|ang|en}} {{term|yfel|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pr
 * Indonesian: {{t+|id|jahat}}
 * Interlingua: {{t|ia|mal}}, {{t|ia|malefic}}
 * Italian: {{t+|it|malvagio|m}}, {{t+|it|malevolo}}, {{t+|it|maligno}}, {{t+|it|malefico}}, {{t|it|perverso}}
-* Kannada: {{t+|kn|ಕೆಟ್ಟ|tr=keṭṭa|sc=Knda}}, {{qualifier|formally}} {{t|kn|ದುಷ್ಠ|tr=duṣṭha|sc=Knda}}
+* Kannada: {{t+|kn|ಕೆಟ್ಟ|sc=Knda}}, {{qualifier|formally}} {{t|kn|ದುಷ್ಠ|sc=Knda}}
 * Kazakh: {{t|kk|қастық|sc=Cyrl}}
 * Khmer: {{t+|km|អាក្រក់|tr=aakrɑk}}, {{t|km|ដែលព្យាបាទ|tr=dael pyiebaat|sc=Khmr}}
 * {{trreq|lo}}
@@ -117,7 +117,7 @@ From {{etyl|ang|en}} {{term|yfel|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pr
 * Polish: {{t+|pl|zły}}
 * Portuguese: {{t+|pt|mau|m}}, {{t+|pt|má|f}}, {{t+|pt|maléfico|m}}, {{t|pt|maléfica|f}}, {{t+|pt|ruim|m|f}} (1,2)
 * Romanian: {{t+|ro|rău}}, {{t+|ro|răutăcios}}, {{t+|ro|hain}}, {{t+|ro|câinos}}
-* Russian: {{t+|ru|злой|tr=zloj}}
+* Russian: {{t+|ru|злой}}
 * Scottish Gaelic: {{t|gd|olc|m}}, {{t|gd|aingidheachd|f}}, {{t|gd|urchaid|f}}, {{t|gd|truaighe|f}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|зао}}
@@ -131,11 +131,11 @@ From {{etyl|ang|en}} {{term|yfel|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pr
 * Spanish: {{t+|es|mal}}, {{t+|es|malo}}, {{t+|es|malvado}}, {{t|es|malévolo}}, {{t|es|maléfico}}, {{t+|es|malvado}}, {{t|es|perverso}}
 * Swedish: {{t+|sv|ond}}, {{t+|sv|elak}}
 * {{trreq|ta}}
-* Telugu: {{t+|te|దుష్ట|tr=dushTa|sc=Telu}}, {{t+|te|దెయ్యం|tr=deyyam|sc=Telu}}
+* Telugu: {{t+|te|దుష్ట|sc=Telu}}, {{t+|te|దెయ్యం|sc=Telu}}
 * Thai: {{t|th|ชั่วร้าย|tr=chạ̀w r̂āy|sc=Thai}}
 * Tupinambá: {{t|tpn|poxy}}
 * Turkish: {{t+|tr|kötücül}}, {{t+|tr|şeytani}}, {{t|tr|şeytanî}}
-* Ukrainian: {{t+|uk|злий|tr=zlyj|sc=Cyrl}}
+* Ukrainian: {{t+|uk|злий|sc=Cyrl}}
 * Vietnamese: {{t+|vi|ác}}
 * Visayan: [[demonyo]]
 * Volapük: {{t+|vo|badik}}
@@ -144,11 +144,11 @@ From {{etyl|ang|en}} {{term|yfel|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pr
 {{trans-top|morally corrupt}}
 * Armenian: {{t|hy|չար}}
 * Asturian: {{t|ast|malváu}}
-* Bulgarian: {{t+|bg|зъл|tr=zǎl|sc=Cyrl}}
+* Bulgarian: {{t+|bg|зъл|sc=Cyrl}}
 * Catalan: {{t+|ca|malvat}}
 * Danish: {{t+|da|ond}}, {{t|da|umoralsk}}
 * Dutch: {{t+|nl|slecht}}
-* Greek: {{t+|el|κακός|m|tr=kakós|sc=Grek}}, {{t+|el|φαύλος|m|tr=fávlos|sc=Grek}}
+* Greek: {{t+|el|κακός|m|sc=Grek}}, {{t+|el|φαύλος|m|sc=Grek}}
 * Italian: {{t+|it|malvagio}}, {{t+|it|cattivo}}, {{t+|it|malevolo}}, {{t+|it|corrotto}}
 * Khmer: {{t|km|ដែលខូចសីលធម|tr=dael kʰooc sǝl tʰoa|sc=Khmr}}
 {{trans-mid}}
