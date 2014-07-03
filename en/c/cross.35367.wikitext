@@ -114,14 +114,14 @@ From {{etyl|enm|en}} {{term|cross|lang=enm}}, {{term|cros|lang=enm}}, from {{ety
 * Friulian: {{t|fur|crôs|f}}
 * Galician: {{t|gl|cruz|f}}
 * German: {{t+|de|Kreuz|n}}
-* Greek: {{t+|el|σταυρός|m|tr=stavrós}}
+* Greek: {{t+|el|σταυρός|m}}
 * Hungarian: {{t+|hu|kereszt}}
 * Icelandic: {{t+|is|kross|m}}
 * Irish: {{t|ga|crois|f}}
 * Italian: {{t+|it|croce|f}}
-* Japanese: {{t|ja|十字|tr=じゅうじ, jūji|sc=Jpan}}, {{t|ja|十字架|tr=じゅうじか, jūjika|sc=Jpan}}, {{t|ja|クロス|tr=kurosu|sc=Jpan}}
+* Japanese: {{t|ja|十字|tr=じゅうじ, jūji|sc=Jpan}}, {{t|ja|クロス|tr=kurosu|sc=Jpan}}
 * Karachay-Balkar: {{t|krc|къач|sc=Cyrl}}
-* Korean: {{t+|ko|십자가|sc=Kore}}
+* Korean: {{t+|ko|십자|sc=Kore}}
 {{trans-mid}}
 * Kurdish: {{t+|ku|xaç|sc=Latn}}
 *: Sorani: {{t+|ku|خاچ|tr=xač|sc=ku-Arab}}
@@ -141,7 +141,7 @@ From {{etyl|enm|en}} {{term|cross|lang=enm}}, {{term|cros|lang=enm}}, from {{ety
 * Polish: {{t+|pl|krzyż|m}}
 * Portuguese: {{t+|pt|cruz|f}}
 * Romanian: {{t+|ro|cruce}}
-* Russian: {{t+|ru|крест|m|tr=krest|sc=Cyrl}}
+* Russian: {{t+|ru|крест|m|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|crois}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|криж|m|sc=Cyrl}}, {{t|sh|крст|m|sc=Cyrl}}
@@ -152,10 +152,10 @@ From {{etyl|enm|en}} {{term|cross|lang=enm}}, {{term|cros|lang=enm}}, from {{ety
 * Swahili: {{t+|sw|msalaba}}
 * Swedish: {{t+|sv|kors|n}}, {{t+|sv|kryss|n}}
 * Tatar: {{t+|tt|хач|sc=Cyrl}}
-* Telugu: {{t|te|శిలువ}} (Siluva)
+* Telugu: {{t|te|శిలువ}}
 * Turkish: {{t+|tr|çarpı}}, {{t+|tr|haç}}
 * Udi: {{t|udi|хач}}
-* Ukrainian: {{t|uk|хрест|m|tr=xrest|sc=Cyrl}}
+* Ukrainian: {{t|uk|хрест|m|sc=Cyrl}}
 * Vietnamese: {{t+|vi|chữ thập}}
 {{trans-bottom}}
 
@@ -174,8 +174,8 @@ From {{etyl|enm|en}} {{term|cross|lang=enm}}, {{term|cros|lang=enm}}, from {{ety
 * Latvian: {{t+|lv|krusts|n}}
 {{trans-mid}}
 * Low German: {{t|nds|Krüüz|n}}
-* Macedonian: {{t|mk|крст|m|tr=k'rst}}
-* Malayalam: {{t+|ml|കുരിശ്|tr=kuriSu|sc=Mlym}}
+* Macedonian: {{t|mk|крст|m}}
+* Malayalam: {{t+|ml|കുരിശ്|sc=Mlym}}
 * Polish: {{t+|pl|krzyż|m}}
 * Portuguese: {{t+|pt|cruz|f}}
 * Russian: {{t+|ru|крест|m|tr=krest}}
@@ -209,6 +209,7 @@ From {{etyl|enm|en}} {{term|cross|lang=enm}}, {{term|cros|lang=enm}}, from {{ety
 * Greek: {{t+|el|σταυρός|m}}
 * Hungarian: {{t+|hu|kereszt}}
 * Italian: {{t+|it|croce|f}}
+* Japanese: {{t|ja|十字架|tr=じゅうじか, jūjika|sc=Jpan}}
 {{trans-mid}}
 * Korean: {{t+|ko|십자가|sc=Kore}}
 * Latin: {{t|la|crux|f}}
@@ -223,21 +224,22 @@ From {{etyl|enm|en}} {{term|cross|lang=enm}}, {{term|cros|lang=enm}}, from {{ety
 * Polish: {{t+|pl|krzyż|m}}
 * Portuguese: {{t+|pt|cruz|f}}
 * Romanian: {{t+|ro|cruce}}
+* Russian: {{t+|ru|крест|m|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|crois|f}}
 * Slovene: {{t+|sl|križ|m}}
 * Spanish: {{t+|es|cruz|f}}
 * Swahili: {{t+|sw|msalaba}}
 * Swedish: {{t+|sv|kors|n}}
-* Telugu: {{t|te|శిలువ}} (Siluva)
+* Telugu: {{t|te|శిలువ}}
 * Turkish: {{t+|tr|çarmıh}}
 * Ukrainian: {{t|uk|хрест|m|tr=xrest}}
 {{trans-bottom}}
 
 {{trans-top|'''''definite'': the cross on which Christ was crucified'''}}
 * Arabic: {{t|ar|صليب|tr=sʿalīb|sc=Arab}}
-* Armenian: {{t|hy|խաչափայտ|tr=xačap’ayt}}
-*: Old Armenian: {{t|xcl|խաչափայտ|tr=xačʿapʿayt|sc=Armn}}
-* Bulgarian: {{t|bg|разпятие|n}}
+* Armenian: {{t|hy|խաչափայտ}}
+*: Old Armenian: {{t|xcl|խաչափայտ|sc=Armn}}
+* Bulgarian: {{t|bg|разпя́тие|n}}
 * Chinese:
 *: Mandarin: {{t+|cmn|十字架|sc=Hani}}
 * Finnish: {{t+|fi|risti}}, {{t|fi|ristinpuu}}
@@ -257,7 +259,7 @@ From {{etyl|enm|en}} {{term|cross|lang=enm}}, {{term|cros|lang=enm}}, from {{ety
 * Old English: {{t+|ang|rōd}}
 * Persian: {{t+|fa|صلیب|tr=salib|sc=fa-Arab}}, {{t+|fa|چلیپا|tr=čalipâ|sc=fa-Arab}}
 * Portuguese: {{t+|pt|cruz}}
-* Russian: {{t+|ru|крест|m|tr=krest}}, {{t+|ru|распятие|n|tr=raspjátije}}
+* Russian: {{t+|ru|крест|m}}, {{t+|ru|распя́тие|n}}
 * Scottish Gaelic: {{t|gd|crois|f}}
 * Swahili: {{t+|sw|msalaba}}
 * Swedish: {{t+|sv|korset|n}}
@@ -283,7 +285,7 @@ From {{etyl|enm|en}} {{term|cross|lang=enm}}, {{term|cros|lang=enm}}, from {{ety
 * Persian: {{t+|fa|خاج|tr=xâj|sc=fa-Arab}}, {{t+|fa|صلیب|tr=salib|sc=fa-Arab}}
 * Polish: {{t+|pl|znak|m}} {{t+|pl|krzyż|alt=krzyża}}
 * Portuguese: {{t|pt|sinal da cruz|m}}
-* Russian: {{t+|ru|крест|m|tr=kr'est|sc=Cyrl}}, {{t+|ru|крестное знамение|n|tr=kr'éstnoje znám'enije|sc=Cyrl}}
+* Russian: {{t+|ru|крест|m|sc=Cyrl}}, {{t+|ru|кре́стное знаме́ние|n|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|crois|f}}
 * Serbo-Croatian: {{t|sh|znak križa|m}}
 * Swahili: {{t+|sw|msalaba}}
@@ -314,11 +316,11 @@ From {{etyl|enm|en}} {{term|cross|lang=enm}}, {{term|cros|lang=enm}}, from {{ety
 {{trans-mid}}
 * Italian: {{t+|it|incrocio|m}}
 * Portuguese: {{t|pt|cruza|f}}
-* Russian: {{t+|ru|помесь|f|tr=pómes'}}, {{t+|ru|гибрид|m|tr=gibríd}}
+* Russian: {{t+|ru|по́месь|f}}, {{t+|ru|гибри́д|m}}
 * Slovene: {{t+|sl|križanec|m}}
 * Spanish: {{t+|es|cruce|m}}
 * Swedish: {{t+|sv|blandning|c}}, {{t+|sv|hybrid|c}}, {{t+|sv|korsning|c}}, {{t|sv|korsningsprodukt|c}}, {{t+|sv|mellanting|n}}
-* Telugu: {{t+|te|సంకరము|tr=saMkaramu|sc=Telu}}
+* Telugu: {{t+|te|సంకరము|sc=Telu}}
 {{trans-bottom}}
 
 {{trans-top|football kick}}
