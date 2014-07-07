@@ -48,7 +48,7 @@ From {{etyl|enm|en}} {{term|percynne||lang=enm}}, from {{etyl|frm|en}} {{term|pe
 * Georgian: {{t+|ka|სპარსული|tr=sparsuli|sc=Geor}}
 * German: {{t+|de|Persisch|n}}
 * Greek: {{t+|el|περσικά|n-p|tr=persiká}}, {{t+|el|φαρσί||tr=farsí}}
-*: Ancient Greek: [[περσιστί]] (persistí)
+*: Ancient Greek: {{t|grc|περσιστί|tr=persistí|sc=polytonic}}
 * Greenlandic: {{t|kl|Persiskisut}}, {{t|kl|Farsimiutut}}
 * Gujarati: {{t+|gu|ફારસી|tr=pharsī|sc=Gujr}}
 * Hebrew: {{t+|he|פרסית|f|tr=parsít}}
@@ -64,7 +64,7 @@ From {{etyl|enm|en}} {{term|percynne||lang=enm}}, from {{etyl|frm|en}} {{term|pe
 * Malay: {{t|ms|bahasa Parsi}}
 * Maltese: {{t|mt|Persjan|m|alt=Il-Persjan}}
 * Navajo: {{t|nv|Béézhąą bizaad}}
-* Nepali: [[पर्सियन]] (parsiyan), {{t|ne|पर्सियन|tr=parsiyan|sc=Deva}}
+* Nepali: {{t|ne|पर्सियन|tr=parsiyan|sc=Deva}}, {{t|ne|पर्सियन|tr=parsiyan|sc=Deva}}
 * Norwegian:
 *: Bokmål: {{t|nb|persisk|m}}, {{t+|nb|farsi|m}}
 *: Nynorsk: {{t|nn|persisk|m}}, {{t|nn|farsi|m}}
@@ -175,21 +175,21 @@ From {{etyl|enm|en}} {{term|percynne||lang=enm}}, from {{etyl|frm|en}} {{term|pe
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ar}}: {{l|ar|فارسي}} (fársi)
-* {{ttbc|bg}}: [[персиец]] (persíets) {{g|m}}, [[персийка]] (persíjka) {{g|f}} (1)
-* {{ttbc|eo}}: [[perso]] (2)
-* {{ttbc|fr}}: [[Persan]] {{g|m}} (1,2)
-* {{ttbc|gu}}: [[ફારસી]] (pharsī) (1)
-* {{ttbc|hi}}: [[फ़ारसी]] (farsī) (1)
-* {{ttbc|id}}: [[farsi]] (2)
+* {{ttbc|ar}}: {{t-check|ar|فارسي|tr=fársi|sc=Arab}}
+* {{ttbc|bg}}: {{t-check|bg|персиец|m|tr=persíets|sc=Cyrl}}, {{t-check|bg|персийка|f|tr=persíjka|sc=Cyrl}} (1)
+* {{ttbc|eo}}: {{qualifier|2}} {{t-check|eo|perso}}
+* {{ttbc|fr}}: {{qualifier|1,2}} {{t-check|fr|Persan|m}}
+* {{ttbc|gu}}: {{t-check|gu|ફારસી|tr=pharsī|sc=Gujr}} (1)
+* {{ttbc|hi}}: {{t-check|hi|फ़ारसी|tr=farsī|sc=Deva}} (1)
+* {{ttbc|id}}: {{qualifier|2}} {{t-check|id|farsi}}
 {{trans-mid}}
-* {{ttbc|ko}}: [[페르샤의]] (pereusya-ui) (2)
+* {{ttbc|ko}}: {{t-check|ko|페르샤의|tr=pereusya-ui|sc=Kore}} (2)
 * Persian: {{t+check|fa|ایرانی|tr=irâni}}, {{t+check|fa|فارسی|tr=fârsi}}, {{t+check|fa|پارسی|tr=pârsi}}
-* Slovak: {{t-check|sk|peržan|m}}, {{t-check|sk|peržanka|f}} (1); {{t-check|sk|peržština|f}} (2)
-* {{ttbc|es}}: [[persa]] {{g|m|f}} (2)
-* {{ttbc|sw}}: [[Kiajemi]] (2)
-* {{ttbc|sv}}: [[perser]] {{g|m-p}}, [[persiska]] {{g|f}} (1,2)
-* {{ttbc|tr}}: [[farsça]] (2)
+* Slovak: {{t-check|sk|peržan|m}}, {{t-check|sk|peržanka|f}} (1), {{t-check|sk|peržština|f}} (2)
+* {{ttbc|es}}: {{qualifier|2}} {{t-check|es|persa|m|f}}
+* {{ttbc|sw}}: {{qualifier|2}} {{t-check|sw|Kiajemi}}
+* {{ttbc|sv}}: {{t-check|sv|perser|m-p}}, {{qualifier|1,2}} {{t-check|sv|persiska|f}}
+* {{ttbc|tr}}: {{qualifier|2}} {{t-check|tr|farsça}}
 * Urdu: {{t-check|ur|ایرانی|tr=irâni}}, {{t+check|ur|فارسی|tr=fârsi}}
 {{trans-bottom}}
 
@@ -237,8 +237,8 @@ From {{etyl|enm|en}} {{term|percynne||lang=enm}}, from {{etyl|frm|en}} {{term|pe
 * Hawaiian: {{t|haw|Pelekia}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|perzsa}}
-* Italian: {{t+|it|persiano}}, [[persico]] (today only in geographical terms as [[Golfo Persico]])
-* Japanese: [[ペルシア]]の (Perushia no)
+* {{ttbc|it}}: {{t+|it|persiano}}, {{t|it|persico}} (today only in geographical terms as [[Golfo Persico]])
+* Japanese: {{t-check|ja|ペルシア|tr=Perushia no|alt=ペルシアの|sc=Jpan}} {{attention|ja|2=was "[[ペルシア]]の" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Kurdish: {{t-needed|ku}}
 * Norwegian: {{t|no|persisk}}
 * Ossetian: {{t-needed|os}}
@@ -263,7 +263,7 @@ From {{etyl|enm|en}} {{term|percynne||lang=enm}}, from {{etyl|frm|en}} {{term|pe
 * Hawaiian: {{t|haw|Pelekia}}
 * Hungarian: {{t+|hu|perzsa}}
 * Italian: {{t+|it|persiano}}
-* Japanese: [[ペルシア人]]の (Perushiajin no)
+* Japanese: {{t-check|ja|ペルシア人|tr=Perushiajin no|alt=ペルシア人の|sc=Jpan}} {{attention|ja|2=was "[[ペルシア人]]の" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Polish: {{t+|pl|perski}}
 * Portuguese: {{t+|pt|persa}}, {{t|pt|pérsico}}
 * Russian: {{t+|ru|перси́дский|tr=persídskij}}
@@ -276,33 +276,33 @@ From {{etyl|enm|en}} {{term|percynne||lang=enm}}, from {{etyl|frm|en}} {{term|pe
 *: Mandarin: {{zh-ts|[[波斯]][[語]]的|[[波斯]][[语]]的}} ([[bō]][[sī]][[yǔ]][[de]])
 * Danish: {{t|da|persisk}}
 * Dutch: {{t+|nl|Perzisch}}
-* Finnish: {{t+|fi|persialainen}}, [[persia|persian]][[kielinen]]
+* Finnish: {{t+|fi|persialainen}}, {{t-check|fi|[[persia|persian]][[kielinen]]}} {{attention|fi|2=was "[[persia|persian]][[kielinen]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * German: {{t+|de|persisch}}
 {{trans-mid}}
 * Greek: {{t+|el|περσικός|m|tr=persikós}}
 * Hawaiian: {{t|haw|Pelekia}}
 * Hungarian: {{t+|hu|perzsa}}
 * Italian: {{t+|it|persiano}}
-* Japanese: [[ペルシア語]]の (Perushiago no)
+* Japanese: {{t-check|ja|ペルシア語|tr=Perushiago no|alt=ペルシア語の|sc=Jpan}} {{attention|ja|2=was "[[ペルシア語]]の" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Polish: {{t+|pl|perski|m}}
 * Portuguese: {{t+|pt|persa}}, {{t|pt|pérsico}}
 * Russian: {{t+|ru|перси́дский|tr=persídskij}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|az}}: [[İranı]]
-* {{ttbc|bg}}: [[персийски]] (persíjski) {{g|m-p}}
-* {{ttbc|eo}}: [[persa]]
-* {{ttbc|fr}}: [[persan]]
-* {{ttbc|ku}}: [[farisî]]
-* {{ttbc|no}}: [[persisk]]
+* {{ttbc|az}}: {{t-check|az|İranı}}
+* {{ttbc|bg}}: {{t-check|bg|персийски|m-p|tr=persíjski|sc=Cyrl}}
+* {{ttbc|eo}}: {{t-check|eo|persa}}
+* {{ttbc|fr}}: {{t-check|fr|persan}}
+* {{ttbc|ku}}: {{t-check|ku|farisî}}
+* {{ttbc|no}}: {{t-check|no|persisk}}
 {{trans-mid}}
 * Persian: {{t+check|fa|ایرانی|tr=irâni}}, {{t+check|fa|فارسی|tr=fârsi}}
-* {{ttbc|sk}}: [[perzský]]
-* {{ttbc|es}}: [[persa]]
-* {{ttbc|sv}}: [[persisk]], [[persiska]]
-* {{ttbc|tt}}: [[farsí]]
-* {{ttbc|tr}}: [[İran]]
+* {{ttbc|sk}}: {{t-check|sk|perzský}}
+* {{ttbc|es}}: {{t-check|es|persa}}
+* {{ttbc|sv}}: {{t-check|sv|persisk}}, {{t-check|sv|persiska}}
+* {{ttbc|tt}}: {{t-check|tt|farsí|sc=Cyrl}}
+* {{ttbc|tr}}: {{t-check|tr|İran}}
 * Urdu: {{t-check|ur|ایرانی|tr=irâni}}, {{t+check|ur|فارسی|tr=fârsi}}
 {{trans-bottom}}
 
