@@ -156,7 +156,7 @@ From {{etyl|enm|en}} {{term|tool|lang=enm}}, from {{etyl|ang|en}} {{term|tōl||t
 * German: {{t+|de|Werkzeug|n}}, {{t+|de|Instrument|n}}
 {{trans-mid}}
 * Greek: {{t+|el|υποχείριο|n|tr=ypocheírio|sc=Grek}}, {{t+|el|ενεργούμενο|n|tr=energoúmeno|sc=Grek}}
-* Japanese: {{t|ja|使いっ走り|tr=tsukaippashiri}}; {{qualifier|fool}} {{t|ja|でくの坊|tr=deku-no-bō}}
+* Japanese: {{t|ja|使いっ走り|tr=tsukaippashiri}}, {{qualifier|fool}} {{t|ja|でくの坊|tr=deku-no-bō}}
 {{trans-bottom}}
 
 {{trans-top|penis}}
@@ -180,23 +180,23 @@ From {{etyl|enm|en}} {{term|tool|lang=enm}}, from {{etyl|ang|en}} {{term|tōl||t
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Arabic: {{l|ar|اداة}} {{IPAchar|(’adā)}} {{g|f}}, {{t+check|ar|آلة|tr=’āla|f}}
-* {{ttbc|av}}: {{l|av|махӏ-мачӏ}}
-* {{ttbc|sh}}: [[alat#Bosnian|alat]] {{g|m}} {{qualifier|collective}}
-* {{ttbc|ca}}: [[eina]] {{g|f}}
-* {{ttbc|da}}: [[kreatur]] {{g|n}}
-* Estonian: {{t+check|et|tola}}, {{t-check|et|marionett}}, {{t-check|et|tuhvel}}
-* French: {{t+check|fr|mouton|m}}
-* Georgian: {{t-check|ka|იარაღი}}
-* {{ttbc|ia}}: [[utensile]], [[instrumento]]
-* Korean: {{t+check|ko|연장|tr=yeonjang}}
+* {{ttbc|ar}}: {{t-check|ar|اداة|f|tr={{IPAchar|’adā}}|sc=Arab}}, {{t+check|ar|آلة|tr=’āla|f}}
+* {{ttbc|av}}: {{t-check|av|махӏ-мачӏ|sc=Cyrl}}
+* {{ttbc|sh}}: {{qualifier|collective}} {{t-check|sh|alat|m|alt=alat}} {{attention|sh|2=was "[[alat#Bosnian|alat]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
+* {{ttbc|ca}}: {{t-check|ca|eina|f}}
+* {{ttbc|da}}: {{t-check|da|kreatur|n}}
+* {{ttbc|et}}: {{t+check|et|tola}}, {{t-check|et|marionett}}, {{t-check|et|tuhvel}}
+* {{ttbc|fr}}: {{t+check|fr|mouton|m}}
+* {{ttbc|ka}}: {{t-check|ka|იარაღი}}
+* {{ttbc|ia}}: {{t-check|ia|utensile}}, {{t-check|ia|instrumento}}
+* {{ttbc|ko}}: {{t+check|ko|연장|tr=yeonjang}}
 {{trans-mid}}
-* Norwegian: {{t+check|no|tøffel|m}}
-* {{ttbc|ro}}: [[unealtă]] {{g|f}}, [[ustensilă]] {{g|f}}, [[instrument]] {{g|n}}
+* {{ttbc|no}}: {{t+check|no|tøffel|m}}
+* {{ttbc|ro}}: {{t-check|ro|unealtă|f}}, {{t-check|ro|ustensilă|f}}, {{t-check|ro|instrument|n}}
 * {{ttbc|sh}}:
-*: Cyrillic: [[алат#Serbo-Croatian|алат]] {{g|m}} {{qualifier|collective}}
-*: Roman: [[alat#Serbo-Croatian|alat]] {{g|m}} {{qualifier|collective}}
-* {{ttbc|te}}: [[పరికరం]] (parikaram)
+*: Cyrillic: {{qualifier|collective}} {{t-check|sh|алат|m|sc=Cyrl}}
+*: Roman: {{qualifier|collective}} {{t-check|sh|alat|m}}
+* {{ttbc|te}}: {{t-check|te|పరికరం|tr=parikaram|sc=Telu}}
 {{trans-bottom}}
 
 ===Verb===
@@ -219,7 +219,7 @@ From {{etyl|enm|en}} {{term|tool|lang=enm}}, from {{etyl|ang|en}} {{term|tōl||t
 ====Translations====
 {{trans-top|to work on or shape with tools}}
 * Bulgarian: {{t+|bg|изработвам|tr=izrabotvam}}
-* Catalan: donar forma
+* Catalan: {{t-check|ca|[[donar]] [[forma]]}} {{attention|ca|2=was "donar forma" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Czech: {{t|cs|obrábět}}
 * Danish: {{t|da|bearbejde}}
 * Dutch: {{t+|nl|bewerken}}
@@ -228,7 +228,7 @@ From {{etyl|enm|en}} {{term|tool|lang=enm}}, from {{etyl|ang|en}} {{term|tōl||t
 {{trans-mid}}
 * French: {{t+|fr|façonner}}
 * German: {{t+|de|bearbeiten}}
-* Interlingua: formar (con [[utensile]]s)
+* {{ttbc|ia}}: {{t|ia|formar}} (con [[utensile]]s)
 * Norwegian: {{t|no|bearbeide}}
 * Polish: {{t+|pl|obrabiać}}
 * Portuguese: {{t+|pt|talhar}}, {{t+|pt|trabalhar}}
@@ -246,7 +246,7 @@ From {{etyl|enm|en}} {{term|tool|lang=enm}}, from {{etyl|ang|en}} {{term|tōl||t
 * Norwegian: {{t|no|utstyre}} {{t|no|utruste}}
 * Polish: {{t|pl|wyposażać}}
 * Portuguese: {{t+|pt|equipar}}
-* Russian: [[экипировать]] (ekipírovát’), [[оборудовать]] (oborúdovat’), [[оснащать]]/[[оснастить]] (osnaš'át'/osnastít')
+* Russian: {{t|ru|экипировать|tr=ekipírovát’|sc=Cyrl}}, {{t|ru|оборудовать|tr=oborúdovat’|sc=Cyrl}}, {{t|ru|оснащать|sc=Cyrl}}, {{t|ru|оснастить|tr=osnaš'át'/osnastít'|sc=Cyrl}}
 {{trans-bottom}}
 
 {{trans-top|to work very hard}}
@@ -260,10 +260,10 @@ From {{etyl|enm|en}} {{term|tool|lang=enm}}, from {{etyl|ang|en}} {{term|tōl||t
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ca}}: [[cisellar]]
-* {{ttbc|ia}}: [[taliar]], [[cisellar]], [[equipar]]
+* {{ttbc|ca}}: {{t-check|ca|cisellar}}
+* {{ttbc|ia}}: {{t-check|ia|taliar}}, {{t-check|ia|cisellar}}, {{t-check|ia|equipar}}
 {{trans-mid}}
-* {{ttbc|ro}}: [[cizela]], [[da formă]],
+* {{ttbc|ro}}: {{t-check|ro|cizela}}, {{t-check|ro|da formă}}
 {{trans-bottom}}
 
 ===Anagrams===
