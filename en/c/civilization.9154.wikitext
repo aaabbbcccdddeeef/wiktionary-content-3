@@ -75,7 +75,7 @@ From {{etyl|fr|en}} {{term|civilisation|lang=fr}}.
 * Romanian: {{t+|ro|civilizație|f}}, {{t+|ro|cultură|f}}
 * Russian: {{t+|ru|цивилизация|f|tr=civilizácija|sc=Cyrl}}, {{t+|ru|культура|f|tr=kul'túra|sc=Cyrl}}
 * Serbo-Croatian:
-*: Cyrillic:  {{t|sh|цивилизација|f|sc=Cyrl}}
+*: Cyrillic: {{t|sh|цивилизација|f|sc=Cyrl}}
 *: Roman: {{t|sh|civilizácija|f}}
 * Spanish: {{t+|es|civilización|f}}
 * Swedish: {{t+|sv|civilisation|c}}, {{t+|sv|kultur|c}}
@@ -85,7 +85,7 @@ From {{etyl|fr|en}} {{term|civilisation|lang=fr}}.
 
 {{trans-top|human society}}
 * Chinese:
-*: Mandarin: [[文明]][[國家]], [[文明]][[国家]] (wén mín guó jiā)
+*: Mandarin: {{t-check|cmn|[[文明]][[國家]]|sc=Hani}} {{attention|cmn|2=was "[[文明]][[國家]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|cmn|[[文明]][[国家]]|tr=wén mín guó jiā|sc=Hani}} {{attention|cmn|2=was "[[文明]][[国家]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Danish: {{t|da|civilisation|c}}
 * Dutch: {{t|nl|bewoonde wereld}}
 * Finnish: {{t+|fi|sivistys}}, {{t|fi|sivistynyt}} {{t+|fi|yhteiskunta}}
@@ -99,7 +99,7 @@ From {{etyl|fr|en}} {{term|civilisation|lang=fr}}.
 * Romanian: {{t+|ro|civilizație|f}}
 * Russian: {{t+|ru|цивилизация|f|tr=civilizácija|sc=Cyrl}}, {{t+|ru|культура|f|tr=kul'túra|sc=Cyrl}}
 * Serbo-Croatian:
-*: Cyrillic:  {{t|sh|цивилизација|f|sc=Cyrl}}
+*: Cyrillic: {{t|sh|цивилизација|f|sc=Cyrl}}
 *: Roman: {{t|sh|civilizácija|f}}
 * Swedish: {{t+|sv|civilisation|c}}
 * Turkish: {{t+|tr|insanlık}}
@@ -108,7 +108,7 @@ From {{etyl|fr|en}} {{term|civilisation|lang=fr}}.
 {{trans-top|act or process of civilizing or becoming civilized}}
 * Asturian: {{t|ast|civilización|f}}
 * Chinese:
-*: Mandarin: {{t|cmn|文明化}}, [[文明化]] (wén mín huà)
+*: Mandarin: {{t|cmn|文明化}}, {{t|cmn|文明化|tr=wén mín huà|sc=Hani}}
 * Danish: {{t|da|civilisering|c}}
 * Dutch: {{t+|nl|civilisatie}}
 * Finnish: {{t+|fi|sivistää|alt=sivistäminen}}, {{t|fi|sivistyä|alt=sivistyminen}}, {{t|fi|sivilisaatio}}
@@ -145,13 +145,13 @@ From {{etyl|fr|en}} {{term|civilisation|lang=fr}}.
 
 {{checktrans-top}}
 <!-- these were under advanced state of society-->
-* {{ttbc|cmn}}: [[文明]], [[文明]] (wén míng)
-* {{ttbc|ko}}: [[문명]] (munmyeong)
+* {{ttbc|cmn}}: {{t-check|cmn|文明|sc=Hani}}, {{t-check|cmn|文明|tr=wén míng|sc=Hani}}
+* {{ttbc|ko}}: {{t-check|ko|문명|tr=munmyeong|sc=Kore}}
 * {{ttbc|ku}}:
 *: Sorani: {{t|ku|شارستانێتی|tr=shAristAneti|sc=ku-Arab}}
 {{trans-mid}}
 <!-- these were under achievements of communal understanding -->
-* {{ttbc|cmn}}: [[文明]][[國家]], [[文明]][[国家]] (wén mín guó jiā)
+* {{ttbc|cmn}}: {{t-check|cmn|[[文明]][[國家]]|sc=Hani}} {{attention|cmn|2=was "[[文明]][[國家]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t-check|cmn|[[文明]][[国家]]|tr=wén mín guó jiā|sc=Hani}} {{attention|cmn|2=was "[[文明]][[国家]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 {{trans-bottom}}
 
 ===Proper noun===
@@ -177,17 +177,17 @@ From {{etyl|fr|en}} {{term|civilisation|lang=fr}}.
 
 {{checktrans-top}}
 <!--Please remove this section once all the words are moved to their appropriate translation table above-->
-* {{ttbc|bg}}: [[цивилизация]] (tsivilizatsiya), [[цивилизованност]] (tsivilizovannost), [[култура]] (kultura)
-* {{ttbc|ca}}: [[civilització]]
-* {{ttbc|eo}}: [[civilizo]] (10)
-* {{ttbc|fr}}: [[civilisation]]
+* {{ttbc|bg}}: {{t-check|bg|цивилизация|tr=tsivilizatsiya|sc=Cyrl}}, {{t-check|bg|цивилизованност|tr=tsivilizovannost|sc=Cyrl}}, {{t-check|bg|култура|tr=kultura|sc=Cyrl}}
+* {{ttbc|ca}}: {{t-check|ca|civilització}}
+* {{ttbc|eo}}: {{qualifier|10}} {{t-check|eo|civilizo}}
+* {{ttbc|fr}}: {{t-check|fr|civilisation}}
 {{trans-mid}}
-* {{ttbc|la}}: [[civilizatio]]
-* {{ttbc|no}}: [[kulturen]] {{g|f}}
+* {{ttbc|la}}: {{t-check|la|civilizatio}}
+* {{ttbc|no}}: {{t-check|no|kulturen|f}}
 * Persian: {{t+check|fa|تمدّن|sc=fa-Arab}}
-* {{ttbc|es}}: [[civilización]]
-* {{ttbc|te}}: [[నాగరికత]] (naagarikata)
-* {{ttbc|tr}}: [[medeniyet]],[[uygarlık]]
+* {{ttbc|es}}: {{t-check|es|civilización}}
+* {{ttbc|te}}: {{t-check|te|నాగరికత|tr=naagarikata|sc=Telu}}
+* {{ttbc|tr}}: {{t-check|tr|medeniyet}}, {{t-check|tr|uygarlık}}
 {{trans-bottom}}
 
 ===External links===
