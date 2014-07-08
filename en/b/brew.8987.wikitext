@@ -37,7 +37,7 @@
 * Bulgarian: {{t+|bg|смесвам}}, {{t+|bg|забърквам}}
 * Chinese:
 *: Mandarin: {{t+|cmn|酿造|tr=niángzào|sc=Hani}}
-* Czech: [[vařit]] [[pivo]] {{qualifier|about beer}}
+* Czech: {{qualifier|about beer}} {{t-check|cs|[[vařit]] [[pivo]]}} {{attention|cs|2=why cannot it be just "vařit"?}}
 * Danish: {{t|da|brygge}}
 * Dutch: {{t+|nl|brouwen}}
 * Finnish: {{t|fi|panna olutta}}
@@ -48,7 +48,7 @@
 * Jèrriais: {{t|roa-jer|brachi}}
 * Korean: {{t|ko|양조하다|sc=Kore}}
 * Maori: {{t|mi|kōpiro}}
-* Polish: {{t+|pl|warzyć}}
+* Polish: {{t+|pl|warzyć|impf}}
 * Portuguese: {{t+|pt|fermentar}}
 * Russian: {{t+|ru|вари́ть|impf|sc=Cyrl}} {{qualifier|beer}}, {{t+|ru|зава́ривать|impf|sc=Cyrl}} {{qualifier|tea}}
 * Spanish: {{t+|es|fermentar}}, {{t|es|destilar}}
@@ -59,7 +59,7 @@
 {{trans-top|to be in a state of preparation; to be mixing, forming, or gathering}}
 * Bulgarian: {{t+|bg|приготвям}}
 * Finnish: {{t+|fi|valmistella}}, {{t|fi|olla tekeillä}}
-* German: sich [[zusammenbrauen]]
+* German: {{t-check|de|zusammenbrauen|alt=sich zusammenbrauen}} {{attention|de|2=was "sich [[zusammenbrauen]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 {{trans-mid}}
 * Russian: {{t+|ru|назрева́ть|impf|sc=Cyrl}} {{qualifier|figurative}}
 * Spanish: {{t+|es|hirviendo}}, {{t+|es|fermentando}}
