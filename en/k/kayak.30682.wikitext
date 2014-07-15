@@ -20,7 +20,7 @@ From {{etyl|iu|en}} (Western Canadian Inuktitut) {{term|ᖃᔭᖅ||tr=qajaq|man'
 ====Translations====
 {{trans-top|a type of small boat}}
 * Aleut: {{t|ale|iqyax̂}}, {{t|ale|iĝyax̂}}, {{t|ale|iyĝax̂}}
-* Armenian: {{t|hy|կայակ|sc=Armn}}, {{t|hy|բայդարկա|sc=Armn}}
+* Armenian: {{t|hy|կայակ}}, {{t|hy|բայդարկա}}
 * Catalan: {{t|ca|caiac|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|皮艇|tr=pítǐng|sc=Hani}}
@@ -31,7 +31,7 @@ From {{etyl|iu|en}} (Western Canadian Inuktitut) {{term|ᖃᔭᖅ||tr=qajaq|man'
 * Faroese: {{t|fo|kajakk|f}}
 * Finnish: {{t+|fi|kajakki}}
 * French: {{t+|fr|kayak|m}}
-* Georgian: {{t|ka|ბაიდარა|tr=baidara|sc=Geor}}
+* Georgian: {{t|ka|ბაიდარა}}
 * German: {{t+|de|Kajak|n}}
 * Greenlandic: {{t|kl|qajaq}}
 * Hungarian: {{t+|hu|kajak}}
@@ -51,7 +51,7 @@ From {{etyl|iu|en}} (Western Canadian Inuktitut) {{term|ᖃᔭᖅ||tr=qajaq|man'
 * Persian: {{t|fa|کایاک|tr=kâyâk|sc=fa-Arab}}
 * Polish: {{t+|pl|kajak|m}}
 * Portuguese: {{t+|pt|caiaque|m}}
-* Russian: {{t+|ru|байдарка|f|tr=bajdárka}}, {{t+|ru|каяк|m|tr=kaják|sc=Cyrl}}
+* Russian: {{t+|ru|байда́рка|f}}, {{t+|ru|кая́к|m}}
 * Scottish Gaelic: {{t|gd|caidheag|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|ка̏ја̄к|m}}
@@ -69,14 +69,14 @@ From {{etyl|iu|en}} (Western Canadian Inuktitut) {{term|ᖃᔭᖅ||tr=qajaq|man'
 ===Verb===
 {{en-verb}}
 
-# {{context|intransitive|lang=en}} to use a kayak, to [[travel]] or [[race]] in a kayak
-#: '''''Kayaking''' is an Olympic sport.''
-# {{context|transitive|lang=en}} to traverse a body of water by kayak.
-#: ''On a dare, he '''kayaked''' the Harlem River in New York from Hell's Gate to Spyten Duyvil.''
+# {{label|en|intransitive}} to use a kayak, to [[travel]] or [[race]] in a kayak
+#: {{usex|'''Kayaking''' is an Olympic sport.|lang=en}}
+# {{label|en|transitive}} to traverse a body of water by kayak.
+#: {{usex|On a dare, he '''kayaked''' the Harlem River in New York from Hell's Gate to Spyten Duyvil.|lang=en}}
 
 ====Translations====
 {{trans-top|to use a kayak to travel or race}}
-* Finnish: {{t+|fi|meloa}}, [[meloa#Finnish|meloa]] {{t+|fi|kajakki|alt=kajakilla}}, {{t|fi|kajakoida}}
+* Finnish: {{t+|fi|meloa}}, {{t|fi|[[meloa]] [[kajakki|kajakilla]]}}, {{t|fi|kajakoida}}
 * French: {{t+|fr|kayaker}}
 {{trans-mid}}
 * Maori: {{t|mi|kōreti}}, {{t|mi|hoe kōreti}}
@@ -84,7 +84,7 @@ From {{etyl|iu|en}} (Western Canadian Inuktitut) {{term|ᖃᔭᖅ||tr=qajaq|man'
 {{trans-bottom}}
 
 {{trans-top|to traverse a body of water by kayak}}
-* Finnish: {{t+|fi|meloa}}, [[meloa#Finnish|meloa]] {{t+|fi|kajakki|alt=kajakilla}}, {{t|fi|kajakoida}}
+* Finnish: {{t+|fi|meloa}}, {{t+|fi|[[meloa]] [[kajakki|kajakilla]]}}, {{t|fi|kajakoida}}
 {{trans-mid}}
 * Maori: {{t|mi|kōreti}}, {{t|mi|hoe kōreti|c}}
 {{trans-bottom}}
@@ -156,6 +156,20 @@ From {{etyl|iu|en}} (Western Canadian Inuktitut) {{term|ᖃᔭᖅ||tr=qajaq|man'
 [[Category:Italian palindromes]]
 [[Category:it:Sports]]
 [[Category:it:Watercraft]]
+
+----
+
+==Jèrriais==
+
+===Etymology===
+{{borrowing|en|kayak|lang=roa-jer}}.
+
+===Noun===
+{{roa-jer-noun|m}}
+
+# [[#English|kayak]]
+
+[[Category:roa-jer:Watercraft]]
 
 ----
 
