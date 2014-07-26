@@ -25,7 +25,7 @@
 * Galician: {{t|gl|arxentino|m}}
 * German: {{t+|de|Argentinier|m}}, {{t+|de|Argentinierin|f}}
 * Greek: {{t|el|Αργεντίνος|m}}, {{t|el|Αργεντίνα|f}}
-* Hebrew: [[ארגנטינאי]] (argent'inai) {{g|m}}, [[ארגנטינאית]] (argent'inait) {{g|f}}
+* Hebrew: {{t|he|ארגנטינאי|m|tr=argent'inai|sc=Hebr}}, {{t|he|ארגנטינאית|f|tr=argent'inait|sc=Hebr}}
 * Japanese: {{t|ja|アルゼンチン人|tr=aruzenchinjin}}
 * Norwegian:
 *: Bokmål: {{t+|nb|argentiner|m}}
@@ -34,7 +34,7 @@
 * Occitan: {{t|oc|Argentin|m}}
 * Polish: {{t+|pl|Argentyńczyk|m}}, {{t+|pl|Argentynka|f}}
 * Portuguese: {{t+|pt|argentino|m}}
-* Romanian: {{t+|ro|argentinian|m}}, {{t+|ro|argentiniană}}, {{t|ro|argentiniancă|f}}, [[argentinieni]] ''m pl'', {{t|ro|argentiniene}}, [[argentinience]] ''f pl''
+* Romanian: {{t+|ro|argentinian|m}}, {{t+|ro|argentiniană}}, {{t|ro|argentiniancă|f}}, {{t-check|ro|argentinieni|m-p}}, {{t|ro|argentiniene}}, {{t-check|ro|argentinience|f-p}}
 * Russian: {{t+|ru|аргентинец|m|tr=argentínec|sc=Cyrl}}, {{t+|ru|аргентинка|f|tr=argentínka|sc=Cyrl}}
 * Serbo-Croatian: {{t+|sh|Argentinac|m}}
 * Spanish: {{t+|es|argentino|m}}, {{t+|es|argentina|f}}
@@ -63,8 +63,8 @@
 * Galician: {{t|gl|arxentino}}
 * German: {{t+|de|argentinisch}}
 * Greek: {{t|el|αργεντίνικος}}
-* Hebrew: [[ארגנטיני]] (argent'yni) {{g|m}}, [[ארגנטינית]] (argent'ynit) {{g|f}}
-* Italian: [[argentino]]/[[argentina]]
+* Hebrew: {{t|he|ארגנטיני|m|tr=argent'yni|sc=Hebr}}, {{t|he|ארגנטינית|f|tr=argent'ynit|sc=Hebr}}
+* Italian: {{t|it|argentino|m}}, {{t|it|argentina|f}}
 * Japanese: {{t|ja|アルゼンチンの|tr=aruzenchin no}}
 * Maltese: {{t|mt|Arġentin|m}}, {{t|mt|Arġentina|f}}, {{t|mt|Arġentini|p}}
 {{trans-mid}}
@@ -74,7 +74,7 @@
 * Occitan: {{t|oc|argentin}}
 * Polish: {{t+|pl|argentyński|m}}
 * Portuguese: {{t+|pt|argentino}}
-* Romanian: {{t+|ro|argentinian|m}}, {{t+|ro|argentiniană|f}}, [[argentinieni]] ''m pl'', [[argentiniene]] ''f pl''
+* Romanian: {{t+|ro|argentinian|m}}, {{t+|ro|argentiniană|f}}, {{t-check|ro|argentinieni|m-p}}, {{t-check|ro|argentiniene|f-p}}
 * Russian: {{t+|ru|аргентинский|tr=argentínskij|sc=Cyrl}}
 * Serbo-Croatian: {{t+|sh|argentinski}}
 * Spanish: {{t+|es|argentino}}
