@@ -28,7 +28,7 @@ From {{etyl|enm|en}} *{{term||throtel|lang=enm}}, diminutive of {{term|throte||t
 * German: {{t+|de|Drossel|f}} {{qualifier|tech.}}
 * Italian: {{t+|it|acceleratore|m}}
 * Japanese: {{t|ja|スロットル|tr=surottoru|sc=Jpan}}
-* Russian: {{t+|ru|дроссель|m|tr=drósselʹ}}, {{l|ru|дроссельный|дроссельная}} {{l|ru|заслонка}} (drósselʹnaja zaslónka) {{g|f}}
+* Russian: {{t+|ru|дроссель|m|tr=drósselʹ}}, {{t-check|ru|[[дроссельный|дроссельная]] [[заслонка]]|f|tr=drósselʹnaja zaslónka|sc=Cyrl}} {{attention|ru|2=was "[[дроссельный|дроссельная]] [[заслонка]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Serbo-Croatian: {{t|sh|вентил|m}}, {{t+|sh|ventil|m}}
 * Spanish: {{t+|es|acelerador|m}}
 {{trans-bottom}}
@@ -41,7 +41,7 @@ From {{etyl|enm|en}} *{{term||throtel|lang=enm}}, diminutive of {{term|throte||t
 * German: {{t+|de|Gaspedal|n}}
 {{trans-mid}}
 * Japanese: {{t|ja|アクセル|tr=akuseru|sc=Jpan}}, {{t|ja|アクセレレーター|tr=akusererētā|sc=Jpan}}
-* Russian: {{l|ru|педаль}} {{l|ru|газ|газа}} (pedálʹ gáza) {{g|f}}, {{t+|ru|акселератор|m|tr=akselerátor|sc=Cyrl}}
+* Russian: {{t-check|ru|[[педаль]] [[газ|газа]]|f|tr=pedálʹ gáza|sc=Cyrl}} {{attention|ru|2=was "[[педаль]] [[газ|газа]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}, {{t+|ru|акселератор|m|tr=akselerátor|sc=Cyrl}}
 * Serbo-Croatian: {{t|sh|papučica gasa}}, {{t|sh|pedala gasa}}
 * Spanish: {{t+|es|acelerador|m}}
 * Swedish: {{t|sv|gaspedal|c}}
@@ -96,7 +96,7 @@ From {{etyl|enm|en}} {{term|throtlen||to choke, strangle, suffocate|lang=enm}}, 
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|sv}}: [[gasa]], [[öka gasen]] {{qualifier|increase the speed/[[throttle up]]}}, [[strypa gasen]], [[minska gasen]] {{qualifier|decrease the speed}}, [[undertrycka]] {{qualifier|of a person}}, [[begränsa]] {{qualifier|of an organization}}
+* {{ttbc|sv}}: {{t-check|sv|gasa}}, {{qualifier|increase the speed/[[throttle up]]}} {{t-check|sv|öka gasen}}, {{t-check|sv|strypa gasen}}, {{qualifier|decrease the speed}} {{t-check|sv|minska gasen}}, {{qualifier|of a person}} {{t-check|sv|undertrycka}}, {{qualifier|of an organization}} {{t-check|sv|begränsa}}
 {{checktrans-bottom}}
 
 [[cs:throttle]]
