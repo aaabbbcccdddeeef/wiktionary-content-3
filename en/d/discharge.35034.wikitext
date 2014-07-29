@@ -68,7 +68,7 @@ From {{etyl|xno|en}} ''[[descharger]]'', from {{etyl|fro|en}} ''[[deschargier]]'
 * Bulgarian: {{t+|bg|изпълнявам|tr=izpălnjavam|sc=Cyrl}}
 * Dutch: {{t+|nl|voltooien}}
 * Finnish: {{t+|fi|täyttää}}
-* Russian: {{t+|ru|выплачивать|impf|tr=vypláčivat’}}, {{t+|ru|выплатить|tr=výplatit’}} {{g|pf}} ''a debt'', {{t+|ru|выполнять|impf|tr=vypolnját’}}, {{t+|ru|выполнить|pf|tr=výpolnit’}}, {{t+|ru|осуществлять|impf|tr=osuščestvlját’}}, {{t+|ru|осуществить|pf|tr=osuščestvít’}}
+* Russian: {{t+|ru|выплачивать|impf|tr=vypláčivat’}}, {{qualifier|of a debt}} {{t+|ru|выплатить|pf|tr=výplatit’|sc=Cyrl}}, {{t+|ru|выполнять|impf|tr=vypolnját’}}, {{t+|ru|выполнить|pf|tr=výpolnit’}}, {{t+|ru|осуществлять|impf|tr=osuščestvlját’}}, {{t+|ru|осуществить|pf|tr=osuščestvít’}}
 {{trans-mid}}
 * Spanish: {{t+|es|cumplir}}, {{t+|es|completar}}
 * Swedish: {{t+|sv|klarera}}
@@ -81,7 +81,7 @@ From {{etyl|xno|en}} ''[[descharger]]'', from {{etyl|fro|en}} ''[[deschargier]]'
 * Finnish: {{t+|fi|päästää}}
 {{trans-mid}}
 * Irish: {{t|ga|scaoil}}
-* Russian: {{t+|ru|освобождать|impf|tr=osvoboždát’}}, {{t+|ru|освободить|tr=osvobodít’}} {{g|pf}} ''from a jail'', {{t+|ru|увольнять|impf|tr=uvol’nját’}}, {{t+|ru|уволить|pf|tr=uvólit’}}
+* Russian: {{t+|ru|освобождать|impf|tr=osvoboždát’}}, {{qualifier|from a jail}} {{t+|ru|освободить|pf|tr=osvobodít’|sc=Cyrl}}, {{t+|ru|увольнять|impf|tr=uvol’nját’}}, {{t+|ru|уволить|pf|tr=uvólit’}}
 * Spanish: {{t+|es|despedir}}, {{t+|es|descargar}}
 * Turkish: {{qualifier|2}} {{t+|tr|tahliye etmek}}
 {{trans-bottom}}
@@ -217,7 +217,7 @@ From {{etyl|xno|en}} ''[[descharger]]'', from {{etyl|fro|en}} ''[[deschargier]]'
 {{trans-top|act of releasing a member of the armed forces from service}}
 * Bulgarian: {{t+|bg|уволнение|n|tr=uvolnenie|sc=Cyrl}}
 * Chinese:
-*: Mandarin: {{t|cmn|釋放|sc=Hani}}{{t+|cmn|退役|sc=Hani}}{{t+|cmn|退伍|sc=Hani}}
+*: Mandarin: {{t-check|cmn|[[釋放]][[退役]][[退伍]]|sc=Hani}} {{attention|cmn|2=was "[[釋放]][[退役]][[退伍]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 {{trans-mid}}
 * German: {{t+|de|Entlassung|f}}
 * Russian: {{t+|ru|демобилизация|f|tr=d'emobilizácija}}
