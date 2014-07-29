@@ -290,6 +290,7 @@ From {{etyl|enm|en}} {{term|note|lang=enm}}, from {{etyl|ang|en}} {{term|not|lan
 
 {{trans-see|banknote}}
 
+{{rfc-tsort|duplicate language: Danish}}
 {{trans-top|character indicating the length and pitch of a tone}}
 * Czech: {{t+|cs|nota|f}}
 * Danish: {{t|da|node|c}}
@@ -391,8 +392,8 @@ From {{etyl|enm|en}} {{term|note|lang=enm}}, from {{etyl|ang|en}} {{term|not|lan
 * Finnish: {{t|fi|panna merkille}}, {{t|fi|huomata}}, {{t|fi|noteerata|sc=Latn}}
 * French: {{t+|fr|noter|sc=Latn}}, {{t+|fr|remarquer|sc=Latn}}
 * Greek: {{t+|el|επισημαίνω|tr=episimaíno}}, {{t+|el|παρατηρώ|tr=paratiró}}
-{{trans-mid}}
 * Hebrew: {{t|he|שם לב}}, {{t|he|לקח לתשומת לב}}
+{{trans-mid}}
 * Latin: {{t+|la|video|sc=Latn}}
 * Macedonian: {{t|mk|забележува|tr=zabeléžuva}}
 * Polish: [[zauważyć]] / [[zauważać]]
@@ -407,8 +408,8 @@ From {{etyl|enm|en}} {{term|note|lang=enm}}, from {{etyl|ang|en}} {{term|not|lan
 * Finnish: {{t|fi|merkitä muistiin}}, {{t|fi|kirjoittaa ylös|sc=Latn}}
 * French: {{t+|fr|noter|sc=Latn}}, {{t+|fr|prendre|sc=Latn}} {{t+|fr|note|f|sc=Latn}}
 * Greek: {{t+|el|σημειώνω|tr=simeióno}}, {{t+|el|καταγράφω|tr=katagráfo}}
-{{trans-mid}}
 * Hebrew: {{t|he|רשם}}
+{{trans-mid}}
 * Macedonian: {{t|mk|бележи|tr=béleži}}, {{t|mk|прибележува|tr=pribeléžuva}}
 * Portuguese: {{t+|pt|anotar}}
 * Romanian: {{t|ro|nota|sc=Latn}}
@@ -419,8 +420,8 @@ From {{etyl|enm|en}} {{term|note|lang=enm}}, from {{etyl|ang|en}} {{term|not|lan
 {{trans-top|to denote, designate}}
 * Dutch: {{t+|nl|aanduiden|sc=Latn}}
 * Finnish: {{t+|fi|merkitä|sc=Latn}}, {{t+|fi|tarkoittaa|sc=Latn}}, {{t+|fi|nimittää|sc=Latn}}, {{t+|fi|valita|sc=Latn}}, {{t+|fi|määrittää|sc=Latn}}, {{t+|fi|osoittaa|sc=Latn}}
-{{trans-mid}}
 * Greek: {{t+|el|σημαίνω|tr=simaino}}, {{t+|el|υποδηλώνω|tr=ypodilóno}}
+{{trans-mid}}
 * Macedonian: {{t|mk|означува|tr=oznáčuva}}
 * Portuguese: {{t+|pt|denotar}}
 * Spanish: {{t+|es|denotar|sc=Latn}}
@@ -429,8 +430,8 @@ From {{etyl|enm|en}} {{term|note|lang=enm}}, from {{etyl|ang|en}} {{term|not|lan
 {{trans-top|to annotate}}
 * Finnish: {{t|fi|kommentoida|sc=Latn}}, {{t+|fi|huomauttaa|sc=Latn}}
 * Greek: {{t|el|επισημειώνω|tr=episimeióno}}, {{t+|el|σχολιάζω|tr=scholiázo}}, {{t+|el|υπομνηματίζω|tr=ypomnimatízo}}
-{{trans-mid}}
 * Macedonian: {{t|mk|прибележува|tr=pribeléžuva}}
+{{trans-mid}}
 * Portuguese: {{t+|pt|anotar}}
 * Romanian: {{t+|ro|adnota|sc=Latn}}, {{t|ro|însemna pe margine|sc=Latn}}
 * Spanish: {{t+|es|anotar|sc=Latn}}
@@ -480,16 +481,22 @@ Inflected and variant forms.
 * [[Eton]]
 * [[tone]]
 
+[[Category:English plurals]]
 [[Category:en:Communication]]
 
 ----
+
 ==Danish==
 {{wikipedia|lang=da}}
+
 ===Etymology 1===
 From {{etyl|la|da}} {{term|nota|lang=la}}, from {{etyl|it|da}} {{term|nota|lang=da}}, from {{etyl|en|da}} {{term|note|lang=da}}.
+
 ====Noun====
 {{da-noun|n|r}}
+
 # A {{l|en|note}}.
+
 =====Inflection=====
 {{da-noun-infl|n|r}}
 
@@ -499,13 +506,18 @@ From {{etyl|la|da}} {{term|nota|lang=la}}, from {{etyl|it|da}} {{term|nota|lang=
 {{syn-mid}}
 * {{l|da|notits}}
 {{syn-bottom}}
+
 ===Etymology 2===
 {{rfe|lang=da}}
+
 ====Verb====
 {{head|da|verb}}
+
 # {{context|mechanics|lang=da}} To {{l|en|supply}} a {{l|en|board}} to a {{l|en|groove}}.
+
 =====Conjugation=====
 {{da-conj-base|noter|notede|not|notende|notet|notes|notedes|notendes|notets}}
+
 ----
 
 ==French==
@@ -563,7 +575,7 @@ Borrowed from {{etyl|la|fr}} {{term|nota|lang=la}}.
 ===Noun===
 '''note''' {{g|f}}
 
-# {{plural of|nota|lang=it}}[[Category:English plurals]]
+# {{plural of|nota|lang=it}}
 
 ===Anagrams===
 * [[onte|onte]]
@@ -615,7 +627,7 @@ Borrowed from {{etyl|la|fr}} {{term|nota|lang=la}}.
 ===Noun===
 '''note''' {{g|f-p}}
 
-# {{plural of|notă|lang=ro}}[[Category:English plurals]]
+# {{plural of|notă|lang=ro}}
 
 ----
 
