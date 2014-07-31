@@ -17,17 +17,17 @@ From {{etyl|grc|en}} {{term|κρίσις|sc=polytonic|tr=krisis||a separating, p
 # {{context|drama|lang=en}} A point in a [[drama]] at which a [[conflict]] reaches a [[peak]] before being [[resolved]].
 
 ====Derived terms====
-* [[crisis management]]
-* [[currency crisis]]
-* [[financial crisis]]
-* [[economic crisis]]
-* [[international crisis]]
-* [[identity crisis]]
-* [[existential crisis]]
-* [[personal crisis]]
-* [[psychological crisis]]
-* [[midlife crisis]]
-* [[quarter-life crisis]]
+{{der3|[[crisis management]]
+|[[currency crisis]]
+|[[financial crisis]]
+|[[economic crisis]]
+|[[international crisis]]
+|[[identity crisis]]
+|[[existential crisis]]
+|[[personal crisis]]
+|[[psychological crisis]]
+|[[midlife crisis]]
+|[[quarter-life crisis]]}}
 
 ====Related terms====
 * [[critic]]
@@ -62,7 +62,7 @@ From {{etyl|grc|en}} {{term|κρίσις|sc=polytonic|tr=krisis||a separating, p
 * Arabic: {{t|ar|أزمة|tr=azma|f}}
 * Armenian: {{t|hy|ճգնաժամ}}
 * Azeri: {{t|az|böhran}}
-* Belarusian: {{t|be|кры́зіс|m|sc=Cyrl}}
+* Belarusian: {{t|be|кры́зіс|m}}
 * Bulgarian: {{t+|bg|кри́за|f}}
 * Catalan: {{t|ca|crisi|f}}
 * Chinese:
@@ -73,7 +73,7 @@ From {{etyl|grc|en}} {{term|κρίσις|sc=polytonic|tr=krisis||a separating, p
 * Estonian: {{t|et|kriis}}
 * Finnish: {{t+|fi|kriisi}}
 * French: {{t+|fr|crise|f}}
-* Georgian: {{t|ka|კრიზისი|sc=Geor}}
+* Georgian: {{t|ka|კრიზისი}}
 * German: {{t+|de|Krise|f}}
 * Greek: {{t+|el|κρίση|f}}
 * Hebrew: {{t|he|משבר|m|tr=mashber}}
@@ -88,7 +88,7 @@ From {{etyl|grc|en}} {{term|κρίσις|sc=polytonic|tr=krisis||a separating, p
 {{trans-mid}}
 * Latvian: {{t|lv|krīze|f}}
 * Lithuanian: {{t|lt|krizė|f}}
-* Macedonian: {{t|mk|кри́за|f|sc=Cyrl}}
+* Macedonian: {{t|mk|кри́за|f}}
 * Malay: {{t|ms|krisis}}
 * Norwegian:
 *: Bokmål: {{t+|nb|krise}}
@@ -99,7 +99,7 @@ From {{etyl|grc|en}} {{term|κρίσις|sc=polytonic|tr=krisis||a separating, p
 * Russian: {{t+|ru|кри́зис|m}}
 * Scottish Gaelic: {{t|gd|èiginn|f}}, {{t|gd|gàbhadh|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|криза|f}}
+*: Cyrillic: {{t|sh|криза|f|sc=Cyrl}}
 *: Roman: {{t+|sh|kriza|f}}
 * Slovak: {{t|sk|kríza|f}}
 * Slovene: {{t+|sl|kriza|f}}
@@ -109,7 +109,7 @@ From {{etyl|grc|en}} {{term|κρίσις|sc=polytonic|tr=krisis||a separating, p
 * Telugu: {{t|te|సంక్షోభం}}
 * Thai: {{t|th|วิกฤติ|tr=wí-grìt|sc=Thai}}
 * Turkish: {{t+|tr|kriz}}, {{t+|tr|buhran}}
-* Ukrainian: {{t+|uk|кри́за|f|sc=Cyrl}}
+* Ukrainian: {{t+|uk|кри́за|f}}
 * Vietnamese: {{t+|vi|biến động|alt=sự biến động}}
 {{trans-bottom}}
 
@@ -140,7 +140,7 @@ From {{etyl|grc|en}} {{term|κρίσις|sc=polytonic|tr=krisis||a separating, p
 * Faroese: {{t|fo|kreppa|f}}
 * Finnish: {{t+|fi|kriisi}}
 * French: {{t+|fr|crise|f}}
-* Georgian: {{t|ka|კრიზისი|sc=Geor}}
+* Georgian: {{t|ka|კრიზისი}}
 * German: {{t+|de|Krise|f}}
 {{trans-mid}}
 * Hebrew: {{t|he|משבר|m|tr=mashber}}
@@ -170,9 +170,10 @@ From {{etyl|grc|en}} {{term|κρίσις|sc=polytonic|tr=krisis||a separating, p
 
 {{checktrans-top}}
 * Esperanto: {{t-check|eo|krizo}}
+* Ido: {{t-check|io|krizo}}
 * Italian: {{t+check|it|crisi|f}}
-* Norwegian: {{t+check|no|krise}}
 {{trans-mid}}
+* Norwegian: {{t+check|no|krise}}
 * Portuguese: {{t+check|pt|crise|f}}
 * Swedish: {{t+check|sv|kris|c}}
 {{trans-bottom}}
