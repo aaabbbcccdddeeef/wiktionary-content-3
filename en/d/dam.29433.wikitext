@@ -306,7 +306,22 @@ From {{etyl|non|no}} {{term|damm|lang=non}} {{g|n}}, {{etyl|gmq-mno|no}} {{term|
 ----
 ==Old Irish==
 
-===Verb===
+===Etymology 1===
+From {{etyl|cel-pro|sga}} {{m|cel-pro|*damos||bull}}, from {{etyl|ine-pro|sga}} {{m|ine-pro|*demh₂-}}
+
+====Noun====
+{{head|sga|noun|genitive|daim}}
+
+# [[bull]]
+
+=====Descendants=====
+* Irish: {{l|ga|damh}}
+* Scottish Gaelic: {{l|gd|damh}}
+
+===Etymology 2===
+Inflected forms of {{m|sga|daimid}}.
+
+====Verb====
 {{head|sga|verb form}}
 
 # {{conjugation of|daimid||1|s|pres|sub|conjunct|lang=sga}}
@@ -318,6 +333,8 @@ From {{etyl|non|no}} {{term|damm|lang=non}} {{g|n}}, {{etyl|gmq-mno|no}} {{term|
 
 ===Mutation===
 {{sga-mutation|d|am}}
+
+{{catlangcode|sga|Cattle|Male}}
 
 ----
 
