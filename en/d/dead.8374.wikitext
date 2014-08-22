@@ -3,7 +3,7 @@
 {{wikipedia|dab=Dead (disambiguation)|Dead}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|ang|en}} {{m|ang|dēad}}, from {{etyl|gem-pro|ang}} {{m|gem-pro|*daudaz}}. Compare West Frisian {{term|dead|lang=fy}}, Dutch {{term|dood|lang=en}}, German {{term|tot|lang=de}}, Danish {{term|død|lang=da}}.
+From {{etyl|enm|en}} {{m|enm|ded}}, {{m|enm|deed}}, from {{etyl|ang|en}} {{m|ang|dēad}}, from {{etyl|gem-pro|ang}} {{m|gem-pro|*daudaz}}. Compare {{etyl|fy|-}} {{m|fy|dead}}, {{etyl|nl|-}} {{m|nl|dood}}, {{etyl|de|-}} {{m|de|tot}}, {{etyl|da|-}} {{m|da|død}}.
 
 ===Pronunciation===
 * {{enPR|dĕd}}, {{IPA|/dɛd/|lang=en}}
@@ -82,7 +82,7 @@ From {{etyl|enm|en}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|
 * Bengali: {{t|bn|মৃত|tr=mritô|sc=Beng}}
 * Breton: {{t+|br|maro}}
 * Bulgarian: {{t+|bg|мъ̀ртъв}}
-* Burmese: {{t+|my|သေ|tr=the|sc=Mymr}}
+* Burmese: {{t+|my|သေ|sc=Mymr}}
 * Catalan: {{t+|ca|mort}}
 * Chamicuro: {{t|ccc|kashele'taka}}
 * Chechen: {{t|ce|делла}}
@@ -101,7 +101,7 @@ From {{etyl|enm|en}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|
 * Georgian: {{t|ka|მკვდარი}}
 * German: {{t+|de|tot}}, {{t+|de|gestorben}}
 * Greek: {{t+|el|νεκρός}}
-*: Ancient: {{t|grc|νεκρός|tr=nekros|sc=Grek}}
+*: Ancient: {{t|grc|νεκρός|sc=Grek}}
 * Greenlandic: {{t|kl|toqu}}
 * Hawaiian: {{t|haw|make}}
 * Hebrew: {{t+|he|מֵת|tr=met}}
@@ -123,13 +123,13 @@ From {{etyl|enm|en}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|
 *: Sorani: {{t|ku|مردو}} {{attention|ku|need transliteration}}
 {{trans-mid}}
 * Kyrgyz: {{t+|ky|өлүк|sc=Cyrl}}
-* Lao: {{t|lo|ຕາຍ|tr=taai|sc=Laoo}}
+* Lao: {{t|lo|ຕາຍ|sc=Laoo}}
 * Latin: {{t+|la|mortuus}}
 * Latvian: {{t|lv|miris}}, {{t|lv|nedzīvs}}
 * Lithuanian: {{t+|lt|miręs}}, {{t|lt|negyvas}}
 * Low German: {{t+|nds|dood}}
 * Luxembourgish: {{t|lb|dout}}
-* Macedonian: {{t|mk|мр́тов|sc=Cyrl}}, {{t|mk|у́мрен|sc=Cyrl}}, {{t|mk|пцо́висан|sc=Cyrl}} ''(animals or disparagingly for humans)''
+* Macedonian: {{t|mk|мртов|sc=Cyrl}}, {{t|mk|умрен|sc=Cyrl}}, {{t|mk|пцовисан|sc=Cyrl}} ''(animals or disparagingly for humans)''
 * Malay: {{t|ms|mati}}
 * Mongolian: {{t|mn|үхсэн|sc=Cyrl}}
 * Occitan: {{t+|oc|mòrt}}
@@ -163,7 +163,7 @@ From {{etyl|enm|en}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|
 * Tok Pisin: {{t|tpi|dai}}
 * Turkish: {{t+|tr|ölü}}, {{t+|tr|ölmüş}}
 * Turkmen: {{t|tk|öli}}
-* Tuvan: {{t|tyv|өлүг|tr=ölüg}}, {{t|tyv|ölgen|tr=өлген}}, {{t|tyv|ыржым|tr=yržym}}, {{t|tyv|шыпшың|tr=šypšyŋ}}, {{t|tyv|ээн|tr=een}}
+* Tuvan: {{t|tyv|өлүг}}, {{t|tyv|ölgen}}, {{t|tyv|ыржым}}, {{t|tyv|шыпшың}}, {{t|tyv|ээн}}
 * Ukrainian: {{t|uk|ме́ртвий|sc=Cyrl}}
 * Urdu: {{t|ur|مردہ|tr=murda|sc=ur-Arab}}
 * Uyghur: {{t|ug|ئۆلۈك|sc=ug-Arab}}
@@ -312,7 +312,7 @@ From {{etyl|enm|en}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|
 * Finnish: {{t+|fi|kuollut|alt=kuolleet|p}}, {{t+|fi|vainaja|alt=vainajat|p}}
 * French: {{t+|fr|morts|m-p}}
 * German: {{t+|de|Tote|p}}
-* Greek: {{t+|el|νεκροί|p|tr=nekroi}}
+* Greek: {{t+|el|νεκροί|p}}
 * Hebrew: {{t+|he|מתים|m-p|tr=metim}}
 {{trans-mid}}
 * Icelandic: {{t|is|dánu|n}}
@@ -443,7 +443,7 @@ From {{etyl|enm|en}} {{term|ded|lang=enm}}, {{term|deed|lang=enm}}, from {{etyl|
 ==Old English==
 
 ===Etymology===
-From {{etyl|gem-pro|ang}} {{m|gem-pro|*daudaz}}, from {{etyl|ine-pro|ang}} {{m|ine-pro|*dʰautós}}, originally a past participle. Cognate with Old Frisian {{term||dād}} (West Frisian {{term|dead|lang=fy}}), Old Saxon {{m|osx|dōd}}, Dutch {{term|dood|lang=en}}, Old High German {{m|goh|tōt}} (German {{term|tot|lang=de}}), Old Norse {{term|dauðr|lang=en}} (Swedish {{term|död|lang=en}}), Gothic {{term|𐌳𐌰𐌿𐌸𐍃|tr=dauþs|lang=got}}.
+From {{etyl|gem-pro|ang}} {{m|gem-pro|*daudaz}}, from {{etyl|ine-pro|ang}} {{m|ine-pro|*dʰautós}}, originally a past participle. Cognate with {{etyl|ofs|-}} {{m|ofs|dād}} ({{etyl|fy|-}} {{m|fy|dead}}), {{etyl|osx|-}} {{m|osx|dōd}}, {{etyl|nl|-}} {{m|nl|dood}}, {{etyl|goh|-}} {{m|goh|tōt}} ({{etyl|de|-}} {{m|de|tot}}), {{etyl|non|-}} {{m|non|dauðr}} ({{etyl|sv|-}} {{m|sv|död}}), {{etyl|got|-}} {{m|got|𐌳𐌰𐌿𐌸𐍃}}.
 
 ===Pronunciation===
 * {{IPA|/dæːɑd/|lang=ang}}
@@ -451,7 +451,7 @@ From {{etyl|gem-pro|ang}} {{m|gem-pro|*daudaz}}, from {{etyl|ine-pro|ang}} {{m|i
 ===Adjective===
 {{ang-adj|head=dēad}}
 
-# [[#English|dead]]
+# {{l/en|dead}}
 
 ====Declension====
 {{ang-adjdec-long|dēad}}
