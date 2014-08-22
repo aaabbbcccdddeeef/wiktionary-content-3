@@ -4,12 +4,15 @@
 * {{IPA|/ʃɛf/|lang=bg}}
 
 ===Noun===
-{{head|bg|noun|g=m|sc=Cyrl|tr=šef|feminine|шефка}}
+{{bg-noun|g=m|tr=šef}}
 
-# a [[male]] [[boss]], a [[male]] [[leader]], a [[male]] [[chief]], a [[male]] [[manager]], a [[male]] [[director]], a [[head man]]
+# [[male]] [[boss]], [[male]] [[leader]], [[male]] [[chief]], [[male]] [[manager]], [[male]] [[director]], [[head man]]
 
 ====Inflection====
 {{bg-noun-m-ove}}
+
+====Related terms====
+* {{l|bg|шефка|g=f}}
 
 ----
 
@@ -25,10 +28,10 @@
 ==Russian==
 
 ===Etymology===
-From {{etyl|fr|ru}} {{l|fr|chef}}
+From {{etyl|fr|ru}} {{m|fr|chef}}
 
 ===Pronunciation===
-* {{IPA|[ʂɛf]|lang=ru}}
+* {{ru-pron-auto|ше́ф}}
 
 ===Noun===
 {{ru-noun|ше́ф|m-an|ше́фа|ше́фы}}
@@ -41,7 +44,7 @@ From {{etyl|fr|ru}} {{l|fr|chef}}
 
 ====Related terms====
 * [[шеф-повар]]
-* [[шефство]]
+* {{l|ru|шефство}}
 
 ----
 
@@ -66,8 +69,7 @@ From {{etyl|de|sh}} {{term|Chef|lang=de}}, form {{etyl|fr|sh}} {{term|chef|lang=
 |шефа|шефове
 |шефе|шефови
 |шефу|шефовима
-|шефом|шефовима
-}}
+|шефом|шефовима}}
 
 [[bg:шеф]]
 [[fr:шеф]]
