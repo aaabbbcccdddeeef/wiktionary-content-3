@@ -107,7 +107,7 @@ From {{etyl|fro|en}} {{term|volume|lang=fro}}, from {{etyl|la|en}} {{term|volūm
 * Malay: {{t|ms|kelantangan}}
 * Persian: {{t+|fa|صدا|tr=sedâ|sc=fa-Arab}}
 * Polish: {{t+|pl|głośność|f}}
-* Portuguese: {{t+|pt|volume|m}}
+* Portuguese: {{t+|pt|volume|m}}, {{t|pt|skaļums|m}}, {{t+|pt|volume|m}}
 * Romanian: {{t+|ro|volum|n}}
 * Russian: {{t+|ru|громкость|f|tr=grómkostʹ}}
 * Slovak: {{t|sk|sila|f}}
@@ -288,6 +288,27 @@ Borrowed from {{etyl|la|fro}} {{term|volūmen||a book, roll|lang=la}}.
 ====Descendants====
 * English: {{l|en|volume}} {{qualifier|borrowed}}
 * French: {{l|fr|volume}}
+
+----
+
+==Portuguese==
+
+===Noun===
+{{pt-noun|m}}
+
+# {{l|en|volume}} {{gloss|unit of three-dimensional measure}}
+# {{l|en|volume}} {{gloss|strength of sound}}
+# {{l|en|volume}} {{gloss|issues of a periodical over a period of one year}}
+# {{l|en|volume}} {{gloss|single book of a publication issued in multi-book format}}
+# {{lb|pt|chiefly|_|historical}} {{l|en|volume}} {{gloss|bound book}}
+# {{l|en|volume}}; {{l|en|quantity}}
+
+====Synonyms====
+* {{sense|single book of a multi-book publication}} {{l|pt|tomo}}
+* {{sense|quantity}} {{l|pt|quantidade}}, {{l|pt|quantia}}
+
+====Related terms====
+* {{l|pt|volumoso}}
 
 [[cs:volume]]
 [[cy:volume]]
