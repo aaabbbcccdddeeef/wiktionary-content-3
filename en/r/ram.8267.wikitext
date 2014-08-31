@@ -30,13 +30,13 @@ From {{etyl|ang|en}} {{term|ramm|lang=ang}}.
 * Albanian: {{t+|sq|dash|m}}
 * Arabic: {{t|ar|كبش|m|tr=kabš|sc=Arab}}
 *: Egyptian Arabic: {{t|arz|كبش|m|tr=kabš|sc=Arab}}
-* Armenian: {{t|hy|խոյ|tr=xoy}}
+* Armenian: {{t|hy|խոյ}}
 * Aromanian: {{t+|rup|birbec}}
 * Azeri: {{t|az|qoç}}, {{t+|az|qoyun}}
 * Basque: {{t+|eu|ahari}}
-* Belarusian: {{t|be|баран|m|tr=barán|sc=Cyrl}}
+* Belarusian: {{t|be|бара́н|m|sc=Cyrl}}
 * Breton: {{t+|br|maout|m}}, {{t|br|tourz|m}}
-* Bulgarian: {{t+|bg|овен|m|tr=ovén|sc=Cyrl}}
+* Bulgarian: {{t+|bg|ове́н|m|sc=Cyrl}}
 * Catalan: {{t|ca|marrà|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|公羊|tr=gōngyáng|sc=Hani}}
@@ -50,9 +50,9 @@ From {{etyl|ang|en}} {{term|ramm|lang=ang}}.
 * Finnish: {{t+|fi|pässi}}
 * French: {{t+|fr|bélier|m}}
 * Galician: {{t+|gl|carneiro|m}}
-* Georgian: {{t|ka|ვერძი|tr=verji|sc=Geor}}
+* Georgian: {{t|ka|ვერძი|sc=Geor}}
 * German: {{t|de|Schafbock|m}}, {{t|de|Schafsbock|m}}, {{t+|de|Widder|m}}, {{t+|de|Hammel|m}} {{gloss|castrated ram}}, {{t+|de|Kolben}}, {{t+|de|Stempel}}
-* Greek: {{t+|el|κριάρι|n|tr=kriári}}, {{t+|el|κριός|m|tr=kriós}}
+* Greek: {{t+|el|κριάρι|n}}, {{t+|el|κριός|m}}
 * Hebrew: {{t+|he|איל|alt=אַיִל|m|tr=áyil}}
 * Hindi: {{t|hi|मेंढ़ा|m|tr=meṇṛhā}}
 * Hungarian: {{t+|hu|kos}}
@@ -69,9 +69,9 @@ From {{etyl|ang|en}} {{term|ramm|lang=ang}}.
 * Latvian: {{t|lv|auns|m}}, {{t|lv|tekulis|m}}
 * Lithuanian: {{t+|lt|avinas|m}}, {{t+|lt|tekis|m}}
 * Luxembourgish: {{t|lb|Widder|m}}, {{t|lb|Schofsbock|m}}
-* Macedonian: {{t|mk|овен|m|tr=óven}}
+* Macedonian: {{t|mk|овен|m}}
 * Manx: {{t|gv|rea|m}}
-* Mingrelian: {{t|xmf|ერჟი|tr=erži}}
+* Mingrelian: {{t|xmf|ერჟი}}
 * Navajo: {{t|nv|deenástsʼaaʼ}}
 * Norwegian: {{t|no|saubukk|m}} (both)
 *: Bokmål: {{t+|no|vær|m}}
@@ -81,7 +81,7 @@ From {{etyl|ang|en}} {{term|ramm|lang=ang}}.
 * Polish: {{t+|pl|tryk|m}}, {{t+|pl|baran|m}}
 * Portuguese: {{t+|pt|carneiro|m}}, {{t+|pt|aríete|m}}
 * Romanian: {{t+|ro|berbec|m}}, {{t|ro|arete}}
-* Russian: {{t+|ru|баран|m|tr=barán}}, {{qualifier|archaic, poetic}} {{t+|ru|овен|m|tr=óven, ovén|sc=Cyrl}}
+* Russian: {{t+|ru|бара́н|m}}, {{qualifier|archaic, poetic}} {{t+|ru|овен|m|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|rùda|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|ован|m}}, {{t|sh|баран|m}} {{qualifier|regional}}
@@ -103,7 +103,7 @@ From {{etyl|ang|en}} {{term|ramm|lang=ang}}.
 {{trans-see|battering ram|[[battering ram]]}}
 
 {{trans-top|warship that sinks other ships by ramming them}}
-* Greek: {{t|el|εμβολοφόρος πρώρα|tr=emvolofóros próra}}
+* Greek: {{t|el|εμβολοφόρος πρώρα}}
 * Italian: {{t+|it|ariete|m}}
 {{trans-mid}}
 * Spanish: [[nave#Spanish|nave]] [[ariete#Spanish|ariete]] {{g|f}}, nave de [[abordaje]] {{g|m}}
@@ -112,9 +112,9 @@ From {{etyl|ang|en}} {{term|ramm|lang=ang}}.
 {{trans-top|piston powered by hydraulic pressure}}
 * Danish: {{t|da|stempel}}, {{t|da|stødslæde}}
 * Finnish: {{t|fi|hydraulimäntä}}, {{t+|fi|juntta}}
-* Greek: {{t|el|κρουστικό έμβολο|n|tr=kroustikó émvolo}}
+* Greek: {{t|el|κρουστικό έμβολο|n}}
 {{trans-mid}}
-* Russian: {{t+|ru|таран|m|tr=tarán}}, {{t|ru|гидравлический таран|m|tr=gidravlíčeskij tarán}}
+* Russian: {{t+|ru|тара́н|m}}, {{t|ru|гидравли́ческий тара́н|m}}
 * Spanish: [[pistón]] [[hidráulico]] {{g|m}}
 {{trans-bottom}}
 
@@ -139,10 +139,10 @@ From {{etyl|ang|en}} {{term|ramm|lang=ang}}.
 * Dutch: {{t+|nl|rammen}}
 * French: {{t+|fr|éperonner}}
 * German: {{t+|de|rammen}}
-* Greek: {{t+|el|εμβολίζω|tr=emvolízo}}
+* Greek: {{t+|el|εμβολίζω}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|abalroar}}
-* Russian: {{t+|ru|таранить|tr=taránit’}}
+* Russian: {{t+|ru|тара́нить}}
 * Spanish: <!--{{t+|es|abordar}}-->{{t+|es|embestir}}
 {{trans-bottom}}
 
@@ -151,8 +151,8 @@ From {{etyl|ang|en}} {{term|ramm|lang=ang}}.
 * Finnish: {{t+|fi|iskeä}}, {{t+|fi|lyödä}}, {{t+|fi|juntata}}
 * German: {{t+|de|rammen}}
 {{trans-mid}}
-* Greek: {{t+|el|βροντώ|tr=vrontó}}
-* Russian: [[забивать]] (zabivát’); [[втискивать]] (vtískivat’); [[трамбовать]] (trambovát’)
+* Greek: {{t+|el|βροντώ}}
+* Russian: {{t|ru|забива́ть}}, {{t|ru|вти́скивать}}, {{t|ru|трамбова́ть}}
 * Spanish: {{t|es|arietar}}, {{t+|es|topar}}
 {{trans-bottom}}
 
