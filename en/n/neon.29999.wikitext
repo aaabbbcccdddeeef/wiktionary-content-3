@@ -374,10 +374,14 @@ From {{etyl|en|ms}} {{term|neon|lang=en}}, from {{etyl|grc|ms}} {{term|νέον|
 ----
 
 ==Serbo-Croatian==
+{{elements|Ne|fluor|F|natrijum|next2=nȃtrīj|S|lang=sh|sc=Latn}}
+
+===Etymology===
+From {{etyl|NL.|sh}} {{m|la|neon}}, from {{etyl|grc|sh}} {{m|grc|νέον}}.
 
 ===Pronunciation===
-* {{IPA|/něoːn/|lang=sh}}
-* {{hyphenation|ne|on|lang=hu}}
+* {{IPA|/ně̞o̞ːn/|lang=sh}}
+* {{hyphenation|ne|on|lang=sh}}
 
 ===Noun===
 {{sh-noun|g=m|head=nèōn|r|неон|нѐо̄н}}
@@ -385,15 +389,18 @@ From {{etyl|en|ms}} {{term|neon|lang=en}}, from {{etyl|grc|ms}} {{term|νέον|
 # [[#English|neon]]
 
 ====Declension====
-{{sh-decl-noun-unc
-|nèōn
-|neóna
-|neonu
-|neon
-|neone
-|neonu
-|neonom
+{{sh-decl-noun
+|nèōn|neoni
+|neóna|neona
+|neonu|neonima
+|neon|neone
+|neone|neoni
+|neonu|neonima
+|neonom|neonima
 }}
+
+===References===
+* {{R:sh:HJP|eF5kXxg}}
 
 [[Category:sh:Noble gases]]
 
