@@ -137,11 +137,11 @@ See {{term|ligge||to lie|lang=da}}.
 ==Irish==
 
 ===Alternative forms===
-* {{l/ga|léig}} {{qualifier|archaic}}
-* {{l/ga|leog}} {{qualifier|Munster}}
+* {{l|ga|léig}} {{i|archaic}}
+* {{l|ga|leog}} {{i|Munster}}
 
 ===Etymology===
-From earlier {{term|léig|lang=ga}}, from {{etyl|sga|ga}} {{term|léicid|lang=sga}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*linkʷo-}}, from {{etyl|ine-pro|ga}} {{m|ine-pro|*linékʷ-|*li-n-kʷ-}}, present stem of {{m|ine-pro|*leykʷ-}}. Cognate with Sanskrit {{term|रिणक्ति|tr=riṇákti|lang=sa}}, Latin {{m|la|linquō}}, Greek {{term|λείπω|tr=leipō|lang=grc}}, Gothic {{term|𐌻𐌴𐌹𐍈𐌰𐌽|tr=leiƕan|lang=got}}, Lithuanian {{m|lt|lìkti}}.
+From earlier {{m|ga|léig}}, from {{etyl|sga|ga}} {{m|sga|léicid}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*linkʷo-}}, from {{etyl|ine-pro|ga}} {{m|ine-pro|*linékʷ-|*li-n-kʷ-}}, present stem of {{m|ine-pro|*leykʷ-}}. Cognate with Sanskrit {{m|sa|रिणक्ति|tr=riṇákti}}, Latin {{m|la|linquō}}, Ancient Greek {{m|grc|λείπω}}, Gothic {{m|got|𐌻𐌴𐌹𐍈𐌰𐌽}}, Lithuanian {{m|lt|lìkti}}.
 
 ===Pronunciation===
 * {{IPA|[ˈl̠ʲɪɟ]|lang=ga}}
@@ -155,25 +155,28 @@ From earlier {{term|léig|lang=ga}}, from {{etyl|sga|ga}} {{term|léicid|lang=sg
 {{ga-conj-1a|l|i|g|slender|vn=ligean}}
 
 ====Derived terms====
-{{der-top}}
-* {{l/ga|lig amach|gloss=let go}}
-* {{l/ga|lig ar|gloss=allow to fall or rest upon; let something happen}}
-* {{l/ga|lig as|gloss=release, allow to escape}}
-* {{l/ga|lig chuig}}, {{l|ga|lig chun|gloss=let go to, let come to, reveal}}
-* {{l/ga|lig de|gloss=release from}}
-* {{l/ga|lig do|gloss=allow, permit}}
-* {{l/ga|lig faoi|gloss=place underneath}}
-* {{l/ga|lig i|gloss=let become}}
-{{der-mid}}
-* {{l/ga|lig isteach|gloss=admit, take in}}
-* {{l/ga|lig le|gloss=let out, lengthen}}
-* {{l/ga|lig ó|gloss=let go, relinquish}}
-* {{l/ga|lig siar|gloss=let back; swallow}}
-* {{l/ga|lig síos|gloss=let down}}
-* {{l/ga|lig síos|gloss=let by, let pass}}
-* {{l/ga|lig trí|gloss=let through; leak}}
-* {{l/ga|ligeach|gloss=leaky}}
-{{der-bottom}}
+{{der3
+|{{l|ga|lig amach||let go}}
+|{{l|ga|lig ar||allow to fall or rest upon; let something happen}}
+|{{l|ga|lig as||release, allow to escape}}
+|{{l|ga|lig chuig}}, {{l|ga|lig chun||let go to, let come to, reveal}}
+|{{l|ga|lig de||release from}}
+|{{l|ga|lig do||allow, permit}}
+|{{l|ga|lig faoi||place underneath}}
+|{{l|ga|lig i||let become}}
+|{{l|ga|lig isteach||admit, take in}}
+|{{l|ga|lig le||let out, lengthen}}
+|{{l|ga|lig ó||let go, relinquish}}
+|{{l|ga|lig siar||let back; swallow}}
+|{{l|ga|lig síos||let down; let by, let pass}}
+|{{l|ga|lig trí||let through; leak}}
+|{{l|ga|ligeach||leaky}}
+}}
+
+====Synonyms====
+* {{l|ga|ceadaigh}}
+* {{l|ga|lamháil}}
+* {{l|ga|leomh}}
 
 ----
 
