@@ -121,15 +121,15 @@ From {{etyl|enm|en}} {{term|pullen|lang=enm}}, from {{etyl|ang|en}} {{term|pulli
 {{rel-bottom}}
 
 ====Translations====
-{{trans-top|apply force to (something) so it comes towards one}}
+{{trans-top|transitive: apply force to (something) so it comes towards one}}
 * Arabic: {{t|ar|جر|tr=járra}}, {{t|ar|سحب|tr=sáḥaba}}
 *: Egyptian Arabic: {{t|arz|جر|tr=garr|sc=Arab}}, {{t|arz|جرجر|tr=gargar|sc=Arab}}, {{t|arz|سحب|tr=saḥab|sc=Arab}}
 *: Moroccan Arabic: {{t|ary|جر|tr=jerr}}, {{t|ary|جبد|tr=jbed}}
-* Armenian: {{t+|hy|քաշել|tr=k'ašel}}, {{t|hy|ձգել|tr=jgel}}
+* Armenian: {{t+|hy|քաշել}}, {{t|hy|ձգել}}
 * Azeri: {{t+|az|çəkmək}}
-* Belarusian: {{qualifier|abstract}} {{t|be|цягаць|impf|tr=cjahác’|sc=Cyrl}}, {{t|be|пацягаць|pf|tr=pacjahác’|sc=Cyrl}}; {{qualifier|concrete}} {{t|be|цягнуць|impf|tr=cjahnúcʹ|sc=Cyrl}}, {{t|be|пацягнуць|pf|tr=pacjahnúcʹ|sc=Cyrl}}
-* Bulgarian: {{t+|bg|дърпам|tr=dǎrpam|sc=Cyrl}}, {{t+|bg|влека|tr=vleka|sc=Cyrl}}, {{t+|bg|влача|tr=vlača|sc=Cyrl}}
-* Burmese: {{t+|my|ဆွဲ|tr=hswè:|sc=Mymr}}
+* Belarusian: {{qualifier|abstract}} {{t|be|цяга́ць|impf}}, {{t|be|пацяга́ць|pf}}, {{qualifier|concrete}} {{t|be|цягну́ць|impf}}, {{t|be|пацягну́ць|pf}}
+* Bulgarian: {{t+|bg|дърпам}}, {{t+|bg|влека}}, {{t+|bg|влача}}
+* Burmese: {{t+|my|ဆွဲ}}
 * Catalan: {{t+|ca|tirar}}
 * Chinese:
 *: Mandarin: {{t+|cmn|拖拉|tr=tuōlā|sc=Hani}}, {{t+|cmn|拉|tr=lā|sc=Hani}}
@@ -148,7 +148,7 @@ From {{etyl|enm|en}} {{term|pullen|lang=enm}}, from {{etyl|ang|en}} {{term|pulli
 * Italian: {{t+|it|tirare}}
 * Japanese: {{t+|ja|引く|tr=ひく, hiku}}, {{t|ja|引っ張る|tr=ひっぱる, hipparu|sc=Jpan}}
 * Jèrriais: {{t|roa-jer|haler}}
-* Kazakh: {{t+|kk|тарту|tr=tartw|sc=Cyrl}}
+* Kazakh: {{t+|kk|тарту}}
 * Khmer: {{t-needed|km}}
 * Korean: {{t+|ko|끌다|sc=Hang}}, {{t+|ko|뽑다|sc=Hang}}
 * Kurdish:
@@ -156,7 +156,7 @@ From {{etyl|enm|en}} {{term|pullen|lang=enm}}, from {{etyl|ang|en}} {{term|pulli
 {{trans-mid}}
 * Latin: {{t|la|vello}}, {{t+|la|traho}}
 * Lojban: {{t|jbo|lacpu}}
-* Macedonian: {{t|mk|влече|tr=vléče|sc=Cyrl}}
+* Macedonian: {{t|mk|влече}}
 * Malay: {{t|ms|tarik}}
 * Norwegian: {{t+|no|trekke}}, {{t+|no|dra}}
 * Novial: {{t|nov|tira}}
@@ -166,29 +166,42 @@ From {{etyl|enm|en}} {{term|pullen|lang=enm}}, from {{etyl|ang|en}} {{term|pulli
 * Quechua: {{t|qu|aysay}}
 * Romanian: {{t+|ro|trage}}
 * Romansch: {{t|rm|trair}}
-* Russian: {{t+|ru|тянуть|impf|tr=tjanútʹ}}, {{t+|ru|потянуть|pf|tr=potjanútʹ}}, {{t+|ru|тащить|impf|tr=taščítʹ}}, {{t+|ru|потащить|pf|tr=potaščítʹ}}, {{t+|ru|тягать|impf|tr=tjagátʹ|sc=Cyrl}} {{qualifier|abstract}}
+* Russian: {{t+|ru|тяну́ть|impf}}, {{t+|ru|потяну́ть|pf}}, {{t+|ru|тащи́ть|impf}}, {{t+|ru|потащи́ть|pf}}, {{t+|ru|тяга́ть|impf}} {{qualifier|abstract}}
 * Scottish Gaelic: {{t|gd|slaod}}, {{t|gd|tarraing}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|потезати|impf}}, {{t|sh|потегнути|pf}}
 *: Roman: {{t+|sh|potezati|impf}}, {{t+|sh|potegnuti|pf}}
 * Slovak: {{t|sk|tiahnuť|impf}}, {{t|sk|ťahať|impf}}, {{t|sk|potiahnuť|pf}}
 * Slovene: {{t|sl|tegniti}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|śěgnuś|impf}} {{i|durative}}, {{t|dsb|śěgaś|impf}} {{i|frequentative}}
 * Spanish: {{t+|es|tirar}}, {{t+|es|jalar}}
 * Swahili: {{t|sw|kuvuta}}
 * Swedish: {{t+|sv|dra}}, {{t+|sv|draga}}
-* Telugu: {{t+|te|లాగు|tr=laagu}}
+* Telugu: {{t+|te|లాగు}}
 * Thai: {{t+|th|ดึง|tr=deung|sc=Thai}}
 * Turkish: {{t+|tr|çekmek}}
-* Ukrainian: {{qualifier|abstract}} {{t|uk|тягати|impf|tr=tjaháty|sc=Cyrl}}, {{t|uk|потягати|pf|tr=potjaháty|sc=Cyrl}}; {{qualifier|concrete}} {{t|uk|тягти|impf|tr=tjahtý|sc=Cyrl}}, {{t|uk|потягти|pf|tr=potjahtý|sc=Cyrl}}, {{t|uk|тягнути|impf|tr=tjahnúty|sc=Cyrl}}, {{t|uk|потягнути|pf|tr=potjahnúty|sc=Cyrl}}
+* Ukrainian: {{qualifier|abstract}} {{t|uk|тяга́ти|impf}}, {{t|uk|потяга́ти|pf}}, {{qualifier|concrete}} {{t|uk|тягти́|impf}}, {{t|uk|потягти́|pf}}, {{t|uk|тягну́ти|impf}}, {{t|uk|потягну́ти|pf}}
 * Urdu: {{t|ur|کهينچنا|tr=khī̃cnā|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|kéo}}, {{t+|vi|giật}}
 * Walloon: {{t+|wa|saetchî}}, {{t+|wa|haetchî}}
 * West Frisian: {{t+|fy|trekke}}, {{t|fy|lûke}}
 {{trans-bottom}}
 
-{{trans-top|slang: persuade (a person) to have sex with one}}
-* Finnish: {{t+|fi|iskeä}}
+{{trans-top|intransitive: apply force such that an object comes toward the person or thing applying the force}}
+* Armenian: {{t+|hy|քաշել}}, {{t|hy|ձգել}}
+* Czech: {{t|cs|tahat}}, {{t+|cs|táhnout}}, {{t|cs|vytahovat}}
+* Danish: {{t+|da|trække}}
+* Esperanto: {{t|eo|tiri}}
+* Finnish: {{t+|fi|vetää}}
+* French: {{t+|fr|tirer}}
 {{trans-mid}}
+* German: {{t+|de|ziehen}}
+* Italian: {{t+|it|tirare}}
+* Russian: {{t+|ru|тяну́ть|impf}}, {{t+|ru|потяну́ть|pf}}, {{t+|ru|тащи́ть|impf}}, {{t+|ru|потащи́ть|pf}}
+* Scottish Gaelic: {{t|gd|slaod}}, {{t|gd|tarraing}}
+* Spanish: {{t+|es|halar}}, {{t+|es|jalar}}
+* Swedish: {{t+|sv|dra}}
 {{trans-bottom}}
 
 {{trans-top|remove (something) from circulation}}
@@ -209,20 +222,9 @@ From {{etyl|enm|en}} {{term|pullen|lang=enm}}, from {{etyl|ang|en}} {{term|pulli
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|apply force such that an object comes toward the person or thing applying the force}}
-* Armenian: {{t+|hy|քաշել|tr=k'ašel}}, {{t|hy|ձգել|tr=jgel}}
-* Czech: {{t|cs|tahat}}, {{t+|cs|táhnout}}, {{t|cs|vytahovat}}
-* Danish: {{t+|da|trække}}
-* Esperanto: {{t|eo|tiri}}
-* Finnish: {{t+|fi|vetää}}
-* French: {{t+|fr|tirer}}
+{{trans-top|slang: persuade (a person) to have sex with one}}
+* Finnish: {{t+|fi|iskeä}}
 {{trans-mid}}
-* German: {{t+|de|ziehen}}
-* Italian: {{t+|it|tirare}}
-* Russian: {{t+|ru|тянуть|impf|tr=tjanútʹ}}, {{t+|ru|потянуть|pf|tr=potjanútʹ}}, {{t+|ru|тащить|impf|tr=taščítʹ}}, {{t+|ru|потащить|pf|tr=potaščítʹ}}
-* Scottish Gaelic: {{t|gd|slaod}}, {{t|gd|tarraing}}
-* Spanish: {{t+|es|halar}}, {{t+|es|jalar}}
-* Swedish: {{t+|sv|dra}}
 {{trans-bottom}}
 
 {{trans-top|succeed in finding a person with whom to have sex}}
