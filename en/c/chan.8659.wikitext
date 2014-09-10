@@ -7,9 +7,9 @@
 ====Noun====
 {{en-noun}}
 
-# {{context|Internet|informal|lang=en}} An [[IRC]] [[channel]].
+# {{label|en|Internet|informal}} An [[IRC]] [[channel]].
 #* '''1997''', "Dominic Donegan", ''Is there a #nethack '''chan''' on IRC?'' (on newsgroup ''rec.games.roguelike.nethack'')
-#*: I tried, but I never get anyone in the '''chan'''! I don't know how/where to advertise... maybe we should set up a meeting time or something?
+#*: {{usex|I tried, but I never get anyone in the '''chan'''! I don't know how/where to advertise... maybe we should set up a meeting time or something?|lang=en}}
 
 =====Derived terms=====
 * [[chanop]]
@@ -20,7 +20,7 @@ From {{w|4chan}}, a popular imageboard.
 ====Noun====
 {{en-noun}}
 
-# {{context|Internet|informal|lang=en}} An [[imageboard]].
+# {{label|en|Internet|informal}} An [[imageboard]].
 
 [[Category:English 4chan slang]]
 
@@ -40,7 +40,7 @@ From {{w|4chan}}, a popular imageboard.
 ==Galician==
 
 ===Etymology===
-From {{etyl|la|gl}} {{term|plānum|lang=la}}. Compare Portuguese ''[[chão]]''.
+From {{etyl|la|gl}} {{m|la|plānum}}. Compare Portuguese {{m|pt|chão}}.
 
 ===Noun===
 {{gl-noun|m}}
@@ -51,42 +51,54 @@ From {{etyl|la|gl}} {{term|plānum|lang=la}}. Compare Portuguese ''[[chão]]''.
 
 ==Irish==
 
-===Pronunciation===
-* {{sense|particle}} {{IPA|lang=ga|[xan̪ˠ]}} {{qualifier|before ''a'', ''o'', ''u'', ''fha'', ''fho'', ''fhu''}}, {{IPAchar|[xanʲ]}} {{qualifier|before ''e'', ''i'', ''fhe'', ''fhi''}}
-* {{sense|verb form}} {{IPA|lang=ga|[xan̪ˠ]}}
+===Etymology 1===
+From {{etyl|mga|ga}} {{m|mga|nocon}}, {{m|mga|nochon}}, from {{etyl|sga|ga}} {{m|sga|nícon}}, {{m|sga|nacon}}, from {{m|sga|[[ní]] [[con]]}}.
 
-===Particle===
+====Pronunciation====
+* {{qualifier|before ''a'', ''o'', ''u'', ''fha'', ''fho'', ''fhu''}} {{IPA|[xan̪ˠ]|lang=ga}}
+* {{qualifier|before ''e'', ''i'', ''fhe'', ''fhi''}} {{IPA|[xanʲ]|lang=ga}}
+
+====Particle====
 {{head|ga|particle|cat2=negative particles}}
 
-# {{context|Ulster|lang=ga}} [[not]]
-#: {{usex|'''Chan''' ólann sé. |t=He does not drink. |lang=ga}}
-#: {{usex|'''Chan''' fhanfaidh sé. |t=He will not wait. |lang=ga}}
+# {{label|ga|Ulster}} [[not]]
+#: {{usex|'''Chan''' ólann sé.|inline=1|t=He does not drink. |lang=ga}}
+#: {{usex|'''Chan''' fhanfaidh sé.|inline=1|t=He will not wait. |lang=ga}}
 
-====Usage notes====
+=====Usage notes=====
 Used only in some varieties of [[w:Ulster Irish|Ulster Irish]]. Used only before a vowel sound.
 
-====Related terms====
-* {{l|ga|cha}} {{qualifier|used before a consonant}}
-* {{l|ga|char}} {{qualifier|used with the past tense}}
+=====Related terms=====
+* {{l/ga|cha}} {{qualifier|used before a consonant}}
+* {{l/ga|char}} {{qualifier|used with the past tense}}
 
-====Synonyms====
-* {{l|ga|ní}} {{qualifier|used in Munster Irish, Connacht Irish, and some varieties of Ulster Irish}}
+=====Synonyms=====
+* {{l/ga|ní}} {{qualifier|used in Munster Irish, Connacht Irish, and some varieties of Ulster Irish}}
 
-===Verb===
+===Etymology 2===
+
+====Pronunciation====
+* {{IPA|lang=ga|[xan̪ˠ]}}
+
+====Verb====
 {{head|ga|verb form}}
 
 # {{conjugation of|can||past|analytic|lang=ga}}
 
-====Usage notes====
+=====Usage notes=====
 {{ga analytic|past}}
 
-====Related terms====
-* {{l|ga|chanas}} {{qualifier|1st person sing. synthetic, nonstandard}}
-* {{l|ga|chanais}} {{qualifier|2d person sing. synthetic, nonstandard}}
-* {{l|ga|chanamar}} {{qualifier|1st person pl. synthetic}}
-* {{l|ga|chanabhar}} {{qualifier|2d person pl. synthetic, nonstandard}}
-* {{l|ga|chanadar}} {{qualifier|3d person pl. synthetic, nonstandard}}
-* {{l|ga|canadh}} {{qualifier|autonomous}}
+=====Related terms=====
+* {{l/ga|chanas}} {{qualifier|1st person sing. synthetic, nonstandard}}
+* {{l/ga|chanais}} {{qualifier|2d person sing. synthetic, nonstandard}}
+* {{l/ga|chanamar}} {{qualifier|1st person pl. synthetic}}
+* {{l/ga|chanabhar}} {{qualifier|2d person pl. synthetic, nonstandard}}
+* {{l/ga|chanadar}} {{qualifier|3d person pl. synthetic, nonstandard}}
+* {{l/ga|canadh}} {{qualifier|autonomous}}
+
+===References===
+* {{R:DIL}}
+* {{R:MacBain}}
 
 ----
 
@@ -128,7 +140,7 @@ Used only in some varieties of [[w:Ulster Irish|Ulster Irish]]. Used only before
 ==Polish==
 
 ===Etymology===
-From Turkic khān ‘lord, prince’
+From {{etyl|trk|pl}} {{m|tr|kan||prince, lord}}/{{m|tr|khan|khān}}, contraction of {{m|tr|khaqan||sovereign, ruler}}.
 
 ===Pronunciation===
 * {{IPA|/xan̪/|lang=pl}}
@@ -153,12 +165,12 @@ From Turkic khān ‘lord, prince’
 * {{qualifier|Surmiran}} {{l|rm|tgang}}
 
 ===Etymology===
-From {{etyl|la|rm}} {{term|canis|lang=la}}.
+From {{etyl|la|rm}} {{m|la|canis}}.
 
 ===Noun===
 {{rm-noun|m}}
 
-# {{context|Vallader|lang=rm}} (male) [[dog]]
+# {{label|rm|Vallader}} (male) [[dog]]
 
 ====Coordinate terms====
 * {{sense|sex}} {{l|rm|chagna}}
@@ -169,24 +181,28 @@ From {{etyl|la|rm}} {{term|canis|lang=la}}.
 
 ==Scottish Gaelic==
 
+===Etymology===
+From {{etyl|mga|gd}} {{m|mga|nocon}}, {{m|mga|nochon}}, from {{etyl|sga|gd}} {{m|sga|nícon}}, {{m|sga|nacon}}, from {{m|sga|[[ní]] [[con]]}}, corresponding to Latin {{m|la|[[non]] [[quod]]}}.
+
 ===Pronunciation===
 * {{IPA|lang=gd|[xanʲ]}}
-
-===Etymology===
-From Old Irish ''ní con'', corresponding to Latin ''non quod''. (Source: Alexander MacBain, Etymological dictionary of Scottish Gaelic.)
 
 ===Particle===
 {{head|gd|particle}}
 
 # [[not]]
-#* '''''Chan''' fhaca mi i.'' I haven’t seen her.
-#* '''''Chan''' eil mi [[fuar]].'' I am not cold.
-#* ''An t-[[aran]], '''chan''' [eil] [[ùr]] e.'' The bread, it’s not fresh.
+#: {{usex|'''Chan''' fhaca mi i.|inline=1|t=I haven’t seen her.|lang=gd}}
+#: {{usex|'''Chan''' eil mi fuar.|inline=1|t=I am not cold.|lang=gd}}
+#: {{usex|An t-aran, '''chan''' [eil] ùr e.|inline=1|t=The bread, it’s not fresh.|lang=gd}}
 
 ===Usage notes===
 * Used with the dependent form of a verb. With the copula, the verb may be suppressed.
-* This is the form used before a vowel, including before words like ''fhaca'' since lenitied /f/ is silent. Otherwise use [[cha]].
-* In older Gaelic this is spelled [[cha'n]].
+* This is the form used before a vowel, including before words like {{l/gd|fhaca}} since lenitied /f/ is silent. Otherwise use {{l/gd|cha}}.
+* In older Gaelic this is spelled {{l/gd|cha'n}}.
+
+===References===
+* {{R:DIL}}
+* {{R:MacBain}}
 
 ----
 
@@ -200,14 +216,15 @@ From Old Irish ''ní con'', corresponding to Latin ''non quod''. (Source: Alexan
 
 # Some plants of the [[sage]] family whose [[seed]] is eaten.
 #* {{rfdate|lang=es}}, Rodrigo Crespo A., ''Comiendo pura vida'', p. 135.
-#*: Los aderezos de semillas y nueces se preparan licuando semillas remojadas de linaza, girasol, '''chan'''...
+#*: {{usex|Los aderezos de semillas y nueces se preparan licuando semillas remojadas de linaza, girasol, '''chan'''...|lang=es}}
 #*::{{rfgloss|lang=es}}
 {{attention|es}}
+
 ====Hyponyms====
 * {{taxlink|Salvia chia|species|noshow=1}}, {{taxlink|Salvia hispanica|species|noshow=1}}
 
 ====Synonyms====
-* [[chía]] {{g|f}}
+* {{l|es|chía|g=f}}
 
 ----
 
@@ -218,7 +235,7 @@ From Old Irish ''ní con'', corresponding to Latin ''non quod''. (Source: Alexan
 
 # {{mutation of|can|lang=cy}}
 
-====Mutation====
+===Mutation===
 {{cy-mut-c|an}}
 
 [[es:chan]]
