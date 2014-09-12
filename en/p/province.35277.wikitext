@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{term|provynce|lang=enm}}, from {{etyl|fro|en}} {{m|fro|*province}}, from {{etyl|la|en}} {{m|la|prōvincia||territory brought under Roman domination; official duty, office, charge, province}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*prōw-||right judge, master}}. Cognate with {{etyl|got|-}} {{term|𐍆𐍂𐌰𐌿𐌾𐌰||lord, master|tr=frauja|lang=got}}, {{etyl|ang|-}} {{m|ang|frēa||ruler, lord, king, master}}. See also {{l|en|frow}}.
+From {{etyl|enm|en}} {{m|enm|provynce}}, from {{etyl|fro|en}} {{m|fro|*province}}, from {{etyl|la|en}} {{m|la|prōvincia||territory brought under Roman domination; official duty, office, charge, province}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*prōw-||right judge, master}}. Cognate with {{etyl|got|-}} {{m|got|𐍆𐍂𐌰𐌿𐌾𐌰||lord, master}}, {{etyl|ang|-}} {{m|ang|frēa||ruler, lord, king, master}}. See also {{l|en|frow}}.
 
 ===Pronunciation===
 * {{IPA|/ˈpɹɒvins/|lang=en}}
@@ -40,7 +40,7 @@ From {{etyl|enm|en}} {{term|provynce|lang=enm}}, from {{etyl|fro|en}} {{m|fro|*p
 * Arabic: {{t|ar|ولاية|f|tr=wilāya}}
 * Armenian: {{t|hy|նահանգ|sc=Armn}}
 * Belarusian: {{t|be|во́бласць|f|sc=Cyrl}}
-* Bulgarian: {{t|bg|провинция|f|tr=provincija}}, {{t+|bg|област|f|tr=oblast}}
+* Bulgarian: {{t|bg|провинция|f}}, {{t+|bg|област|f}}
 * Burmese: {{t+|my|ပြည်နယ်|sc=Mymr}}
 * Catalan: {{t|ca|província|f}}
 * Chinese:
@@ -55,7 +55,7 @@ From {{etyl|enm|en}} {{term|provynce|lang=enm}}, from {{etyl|fro|en}} {{m|fro|*p
 * French: {{t+|fr|province|f}}, {{qualifier|state}} {{t+|fr|état|m}}
 * Georgian: {{t|ka|მხარე|sc=Geor}}
 * German: {{t+|de|Provinz|f}}, {{t+|de|Land|n}}
-* Greek: {{t+|el|επαρχία|f|tr=eparchía}}
+* Greek: {{t+|el|επαρχία|f}}
 * Guaraní: {{t|gn|okára}}
 * Hebrew: {{t|he|פרובינציה|tr=províntsya}}
 * Interlingua: {{t|ia|provincia}}
@@ -71,25 +71,25 @@ From {{etyl|enm|en}} {{term|provynce|lang=enm}}, from {{etyl|fro|en}} {{m|fro|*p
 * Latvian: {{t-needed|lv}}
 * Lithuanian: {{t-needed|lt}}
 * Lojban: {{t|jbo|gugypau}}
-* Macedonian: {{t|mk|покраина|f|tr=pokráina|sc=Cyrl}}, {{t|mk|провинција|f|tr=províncija|sc=Cyrl}} 
+* Macedonian: {{t|mk|покраина|f|sc=Cyrl}}, {{t|mk|провинција|f|sc=Cyrl}} 
 * Norwegian: {{t|no|provins|m}}
 * Novial: {{t-needed|nov}}
 * Persian: {{t+|fa|استان|sc=fa-Arab}}
 * Polish: {{t-needed|pl}}
 * Portuguese: {{t+|pt|província|f}}
 * Romanian: {{t+|ro|provincie}}
-* Russian: {{qualifier|Russian oblast}} {{t+|ru|область|f|tr=óblast’}}, {{qualifier|Russian krai}} {{t+|ru|край|m|tr=kraj}}, {{qualifier|province}} {{t+|ru|провинция|tr=províncija}}, {{qualifier|state}} {{t+|ru|штат|m|tr=štat}}, {{qualifier|prefecture}} {{t+|ru|префектура|f|tr=prefektúra}}
+* Russian: {{qualifier|Russian oblast}} {{t+|ru|о́бласть|f}}, {{qualifier|Russian krai}} {{t+|ru|край|m}}, {{qualifier|province}} {{t+|ru|прови́нция}}, {{qualifier|state}} {{t+|ru|штат|m}}, {{qualifier|prefecture}} {{t+|ru|префекту́ра|f}}
 * Serbo-Croatian: {{t|sh|паланка|tr=palanka|sc=Cyrl}}, {{t|sh|област|tr=oblast|sc=Cyrl}}
-* Slovak: {{t|sk|oblasť|f}}
+* Slovak: {{t|sk|oblasť|f}}, {{t|sk|kraj|m}}
 * Spanish: {{t+|es|provincia|f}}
 * Swahili: {{t+|sw|mkoa}}, {{t+|sw|jimbo}}, {{t+|sw|jimbo}}
 * Swedish: {{t+|sv|provins|c}}, {{t+|sv|län|n}}, {{t+|sv|landskap|n}}
 * Tagalog: {{t|tl|probinsiya}}, {{t+|tl|lalawigan}}
 * Tetum: {{t|tet|provínsia}}
 * Thai: {{t+|th|จังหวัด|sc=Thai}}
-* Tibetan: {{t|bo|ཞིང་ཆེན|tr=zhing|sc=Tibt}}
+* Tibetan: {{t|bo|ཞིང་ཆེན|sc=Tibt}}
 * Turkish: {{t+|tr|il}}
-* Ukrainian: {{t|uk|область|f|tr=óblast’}}
+* Ukrainian: {{t|uk|о́бласть|f}}
 * Uyghur: {{t|ug|ئۆلكە|sc=ug-Arab}}
 * Vietnamese: {{t+|vi|tỉnh}}
 * Volapük: {{t+|vo|provin}}, {{qualifier|older word, obsolete}} {{t|vo|plovin}}
@@ -136,7 +136,7 @@ From {{etyl|enm|en}} {{term|provynce|lang=enm}}, from {{etyl|fro|en}} {{m|fro|*p
 # {{plural of|provincia|lang=it}}
 
 ====Synonyms====
-* [[provincie]]
+* {{l|it|provincie}}
 
 [[br:province]]
 [[de:province]]
