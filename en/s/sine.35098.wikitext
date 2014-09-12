@@ -102,7 +102,7 @@ In various branches of mathematics, the sine of an angle is determined in variou
 * {{IPA|/ˈʃinʲə/|lang=ga}}
 
 ===Etymology 1===
-From {{etyl|sga|ga}} {{term|sine|lang=sga}}, {{term|siniu|lang=sga}}, comparative form of {{term|sen||old|lang=sga}}.
+From {{etyl|sga|ga}} {{m|sga|sine}}, {{m|sga|siniu}}, comparative form of {{m|sga|sen||old}}.
 
 ====Adjective====
 {{head|ga|adjective form}}
@@ -110,18 +110,20 @@ From {{etyl|sga|ga}} {{term|sine|lang=sga}}, {{term|siniu|lang=sga}}, comparativ
 # {{comparative of|sean|lang=ga|nodot=yes}}: [[older]]
 
 ===Etymology 2===
-From {{etyl|sga|ga}} {{term|sine||teat, dug, pap|lang=sga}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*svenio}} for {{etyl|ine-pro|ga}} {{m|ine-pro|*spenio}}. Cognate with Old Norse {{term|speni||teat|lang=non}}, Scottish Gaelic {{term|spain||udder|lang=gd}}.
+From {{etyl|sga|ga}} {{m|sga|sine||teat, dug, pap}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*sɸenyo-}}, from {{etyl|ine-pro|ga}} {{m|ine-pro|*spenyo-}}. Cognate with Old Norse {{m|non|speni||teat}}, Scottish Gaelic {{m|gd|spain||udder}}.
 
 ====Noun====
 {{ga-noun|g=f|sine|siní}}
 
-# {{context|anatomy|lang=ga}} [[nipple]]
+# [[nipple]]
 
 =====Declension=====
-{{ga-noun-f4|si|ne|ní}}
+{{ga-decl-f4|si|ne|ní}}
 
 ===Mutation===
 {{ga mut cons|si|ne}}
+
+[[Category:ga:Body]]
 
 ----
 
