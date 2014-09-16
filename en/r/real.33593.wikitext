@@ -10,30 +10,6 @@ From {{etyl|fro|en}} {{term|reel|lang=fro}}, from {{etyl|LL.|en}} {{term|reālis
 * {{audio|En-us-real.ogg|Audio (US)|lang=en}}
 * {{homophones|lang=en|reel}}
 
-====Noun====
-{{en-noun}}
-
-# A [[commodity]]; ''see'' [[reality]].
-# {{context|grammar|lang=en}} One of the three genders that the [[common]] gender can be separated into in the Scandinavian languages.
-# {{context|mathematics|lang=en}} A [[real number]].
-#* {{quote-book|year=2007|author=Mark Bridges|title=REAL ANALYSIS: A Constructive Approach|publisher=John Wiley & Sons|location=Hoboken, New Jersey|page=11}}
-#*: There have been several classical constructions of the '''reals''' that avoid these prob-<br> lems, the most famous ones being ''Dedekind Cuts'' and ''Cauchy Sequences'', named<br> respectively for the mathematicians Richard Dedekind (1831 - 1916) and Augustine<br> Cauchy (1789 - 1857). We will not discuss these constructions here, but will use a<br> more modern one developed by Gabriel Stolzenberg, based on "interval arithmetic."
-# {{context|obsolete|lang=en}} A [[realist]].
-#: {{rfquotek|Burton}}
-
-=====Translations=====
-{{trans-top|a commodity}}
-* Japanese: {{t+|ja|現実|tr=genjitsu}}, {{t|ja|現実性|tr=genjitsu-sei}}, {{t|ja|現実味|tr=genjitsu-mi}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|a gender in Scandinavian languages}}
-* Swedish: {{t+|sv|reale|n}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-see|mathematics: a real number|real number}}
-
 ====Adjective====
 {{en-adj|er|more}}
 
@@ -89,6 +65,48 @@ From {{etyl|fro|en}} {{term|reel|lang=fro}}, from {{etyl|LL.|en}} {{term|reālis
 * {{sense|genuine, unfeigned}} [[feigned]], [[sham]], [[staged]]
 * {{sense|that has physical existence}} [[fictitious]], [[imaginary]], [[made-up]], [[pretend]] {{qualifier|informal}}
 * {{sense|relating to numbers with a one-to-one correspondence to the points on a line}} [[imaginary]]
+
+=====Derived terms=====
+{{der-top}}
+* [[for real]]
+* [[get real]]
+* [[keep it real]]
+* [[real analysis]]
+* [[real asset]]
+* [[real axis]]
+* [[real body]]
+* [[real capital]]
+* [[real deal]]/[[the real deal]]
+* [[real estate]]
+* [[real focus]]
+* [[real image]]
+* [[real income]]
+* [[reality]]
+* [[real life]]
+* [[real line]]
+* [[really]]
+* [[real market]]
+* [[real matrix]]
+{{der-mid}}
+* [[real McCoy]]
+* [[realness]]
+* [[real number]]
+* [[real option]]
+* [[real part]]
+* [[real presence]]
+* [[real property]]
+* [[real return]]
+* [[real soon now]]
+* [[real storage]]
+* [[real stuff]]
+* [[real tennis]]
+* [[real thing]]/[[the real thing]]
+* [[real time]]
+* [[real-valued]]
+* [[real variable]]
+* [[real wages]]
+* [[real world]]/[[real-world]]
+{{der-bottom}}
 
 =====Translations=====
 {{trans-top|true, genuine, not merely nominal}}
@@ -274,52 +292,34 @@ From {{etyl|fro|en}} {{term|reel|lang=fro}}, from {{etyl|LL.|en}} {{term|reālis
 ====Adverb====
 {{en-adv|-}}
 
-# {{context|US|colloquial|lang=en}} [[really]].
+# {{context|US|colloquial|lang=en}} [[really|Really]], [[very]].
 
 =====Translations=====
 {{trans-see|really}}
 
-====Derived terms====
-{{der-top}}
-* [[for real]]
-* [[get real]]
-* [[keep it real]]
-* [[real analysis]]
-* [[real asset]]
-* [[real axis]]
-* [[real body]]
-* [[real capital]]
-* [[real deal]]/[[the real deal]]
-* [[real estate]]
-* [[real focus]]
-* [[real image]]
-* [[real income]]
-* [[reality]]
-* [[real life]]
-* [[real line]]
-* [[really]]
-* [[real market]]
-* [[real matrix]]
-{{der-mid}}
-* [[real McCoy]]
-* [[realness]]
-* [[real number]]
-* [[real option]]
-* [[real part]]
-* [[real presence]]
-* [[real property]]
-* [[real return]]
-* [[real soon now]]
-* [[real storage]]
-* [[real stuff]]
-* [[real tennis]]
-* [[real thing]]/[[the real thing]]
-* [[real time]]
-* [[real-valued]]
-* [[real variable]]
-* [[real wages]]
-* [[real world]]/[[real-world]]
-{{der-bottom}}
+====Noun====
+{{en-noun}}
+
+# A [[commodity]]; ''see'' [[reality]].
+# {{context|grammar|lang=en}} One of the three genders that the [[common]] gender can be separated into in the Scandinavian languages.
+# {{context|mathematics|lang=en}} A [[real number]].
+#* {{quote-book|year=2007|author=Mark Bridges|title=REAL ANALYSIS: A Constructive Approach|publisher=John Wiley & Sons|location=Hoboken, New Jersey|page=11}}
+#*: There have been several classical constructions of the '''reals''' that avoid these prob-<br> lems, the most famous ones being ''Dedekind Cuts'' and ''Cauchy Sequences'', named<br> respectively for the mathematicians Richard Dedekind (1831 - 1916) and Augustine<br> Cauchy (1789 - 1857). We will not discuss these constructions here, but will use a<br> more modern one developed by Gabriel Stolzenberg, based on "interval arithmetic."
+# {{context|obsolete|lang=en}} A [[realist]].
+#: {{rfquotek|Burton}}
+
+=====Translations=====
+{{trans-top|a commodity}}
+* Japanese: {{t+|ja|現実|tr=genjitsu}}, {{t|ja|現実性|tr=genjitsu-sei}}, {{t|ja|現実味|tr=genjitsu-mi}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|a gender in Scandinavian languages}}
+* Swedish: {{t+|sv|reale|n}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|mathematics: a real number|real number}}
 
 ===Etymology 2===
 From {{etyl|es|en}} {{term|real||royal|lang=es}}, from {{etyl|la|en}} {{term|rēgālis||regal, royal|lang=la}}.
@@ -358,7 +358,7 @@ From {{etyl|pt|en}} {{term|real||royal|lang=pt}}, from {{etyl|la|en}} {{term|rē
 ====Noun====
 {{en-noun|reais|reals}}
 
-# A unit of [[currency]] used in [[Brazil]] since 1994. Symbol: {{l/en|R$}}
+# A unit of [[currency]] used in [[Brazil]] since 1994. Symbol: {{l/en|R$}}.
 #* '''2011''', Perry Anderson, "Lula's Brazil", ''London Review of Books'', 33.VII:
 #*: Within weeks of this bombshell, an aide to the brother of the chairman of the PT, José Genoino, was arrested boarding a flight with 200,000 '''reais''' in a suitcase and $100,000 in his underpants.
 # A coin worth one real.
@@ -417,8 +417,8 @@ From {{etyl|pt|en}} {{term|real||royal|lang=pt}}, from {{etyl|la|en}} {{term|rē
 [[Category:English degree adverbs]]
 [[Category:English heteronyms]]
 [[Category:en:Currency]]
-
 [[Category:1000 English basic words]]
+
 ----
 
 ==Crimean Tatar==
@@ -429,7 +429,8 @@ From {{etyl|LL.|crh}} {{term|reālis||real, actual|lang=la}}, from {{etyl|la|crh
 ===Adjective===
 {{head|crh|adjectives}}
 
-# [[real#English|real]] (that can be characterized as a confirmation of truth; that has physical existence).
+# [[real#English|real]] (true, genuine)
+# [[real#English|real]] (that has physical existence)
 
 ====Synonyms====
 * [[aqiqiy]], [[kerçek]]
@@ -449,8 +450,8 @@ From {{etyl|LL.|crh}} {{term|reālis||real, actual|lang=la}}, from {{etyl|la|crh
 ===Adjective===
 {{head|de|adjective}}
 
-# That has physical existence.
-# That is a version of a [[fact]] or [[statistic]] (especially in [[economics]]) that is intended to reflect key [[fundamental]] [[trends]].
+# that has physical existence
+# that is a version of a [[fact]] or [[statistic]] (especially in [[economics]]) that is intended to reflect key [[fundamental]] [[trends]]
 
 ===External links===
 * {{R:Duden}}
@@ -487,9 +488,9 @@ Borrowed from {{etyl|LL.|pt}} {{term|reālis||actual|lang=la}}, from {{etyl|la|p
 ====Adjective====
 {{pt-adj|rea|l}}
 
-# That can be characterized as a [[confirmation]] of [[truth]]; {{l|en|real}}.
-# That has [[physical]] existence; {{l|en|real}}.
-# {{context|mathematics|of a number|lang=pt}} Being a member of the [[set]] of real numbers; {{l|en|real}}.
+# [[true]], {{l|en|real}}
+# that has [[physical]] existence; {{l|en|real}}
+# {{context|mathematics|of a number|lang=pt}} being a member of the [[set]] of real numbers; {{l|en|real}}
 
 =====Inflection=====
 {{pt-adj infl|rea|l}}
@@ -510,8 +511,8 @@ From {{etyl|la|pt}} {{term|rēgālis||royal|lang=la}}, from {{term|rēx||king|la
 ====Adjective====
 {{pt-adj|rea|l}}
 
-# Of or relating to the [[monarchy]]; [[royal]]; [[regal]].
-# Having the [[air]] or [[demeanour]] of a [[monarch]]; [[royal]].
+# of or relating to the [[monarchy]]; [[royal]]; [[regal]]
+# having the [[air]] or [[demeanour]] of a [[monarch]]; [[regal]]
 
 =====Related terms=====
 * [[realengo]], [[realeza]], [[rei]], [[reino]]
@@ -519,13 +520,13 @@ From {{etyl|la|pt}} {{term|rēgālis||royal|lang=la}}, from {{term|rēx||king|la
 ====Noun====
 {{pt-noun|m|pl=reais}}
 
-# A former Spanish currency.
-# The current Brazilian currency.
+# a former Spanish currency
+# the current Brazilian currency
 
 ====Noun====
 {{pt-noun|m|pl=reais|pl2=réis}}
 
-# A former currency of Portugal and its {{l/en|colony|colonies}} (plural later became '''{{l/pt|réis}}''').
+# a former currency of Portugal and its {{l/en|colony|colonies}} (the plural later became '''{{l/pt|réis}}''')
 
 [[Category:pt:Currency]]
 
