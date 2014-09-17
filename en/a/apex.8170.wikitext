@@ -13,20 +13,20 @@ From {{etyl|la|en}} {{term|lang=la|apex||point, tip, summit}}.
 
 # The highest point of something.
 #: ''the '''apex''' of the building''
-# {{context|figuratively|lang=en}} The moment of greatest [[success]], [[expansion]], etc.
+# {{label|en|figuratively}} The moment of greatest [[success]], [[expansion]], etc.
 #: ''the '''apex''' of civilization''
 #* '''2002''', [[w:Jeffrey Rowland|Jeffrey Rowland]], [http://jjrowland.com/wigu/20020327.html WIGU adventures]
 #*: It would be an intense disgust.  The absolute '''apex''' of teen angst.
-# {{context|geometry|lang=en}} The topmost [[vertex]] of a [[cone]] or [[pyramid]] (in their conventional orientation).
-# {{context|chiefly|anatomy|lang=en}} The [[pointed]] end of something.
+# {{label|en|geometry}} The topmost [[vertex]] of a [[cone]] or [[pyramid]] (in their conventional orientation).
+# {{label|en|chiefly|anatomy}} The [[pointed]] end of something.
 ## The [[low]]est part of the human [[heart]].
 ## The [[deep]]est part of a [[tooth]]'s [[root]].
-# {{context|botany|lang=en}} The end of a [[leaf]], [[petal]] or similar organ opposed to the end where it is attached to its support; the [[tip]].
-# {{context|astronomy|lang=en}} The point on the celestial sphere toward which the sun appears to move relative to nearby stars.
-# {{context|physics|lang=en}} The lowest point on a pendant drop of a liquid.
-# {{context|mining|US|lang=en}} The end or edge of a [[vein]] nearest the [[surface]].<!--Webster 1913-->
-# {{context|typography}} A [[diacritic]] in [[Classical Latin]] that resembles and gave rise to the [[acute]].
-# {{context|typography}} A [[diacritic]] in Middle [[Vietnamese]] that indicates {{IPAchar|/ŋ͡m/}}.
+# {{label|en|botany}} The end of a [[leaf]], [[petal]] or similar organ opposed to the end where it is attached to its support; the [[tip]].
+# {{label|en|astronomy}} The point on the celestial sphere toward which the sun appears to move relative to nearby stars.
+# {{label|en|physics}} The lowest point on a pendant drop of a liquid.
+# {{label|en|mining|US}} The end or edge of a [[vein]] nearest the [[surface]].<!--Webster 1913-->
+# {{label|en|typography}} A [[diacritic]] in [[Classical Latin]] that resembles and gave rise to the [[acute]].
+# {{label|en|typography}} A [[diacritic]] in Middle [[Vietnamese]] that indicates {{IPAchar|/ŋ͡m/}}.
 
 ====Synonyms====
 * {{sense|highest point}} [[peak]], [[top]], [[summit]]
@@ -37,7 +37,7 @@ From {{etyl|la|en}} {{term|lang=la|apex||point, tip, summit}}.
 ====Translations====
 {{trans-top|highest point}}
 * Arabic: {{t|ar|ذروة}}
-* Armenian: {{t|hy|գագաթ|tr=gagat’}}
+* Armenian: {{t|hy|գագաթ}}
 * Bulgarian: {{t+|bg|връх}},  {{t|bg|връхна точка}}
 * Catalan: {{t|ca|àpex|m}}
 * Chinese:
@@ -48,17 +48,17 @@ From {{etyl|la|en}} {{term|lang=la|apex||point, tip, summit}}.
 * Galician: {{t|gl|ápice|f}}
 * German: {{t+|de|Gipfel|m}}
 {{trans-mid}}
-* Greek: {{t+|el|κορυφή|f|tr=korifí}}
-*: Ancient: {{t|grc|ἄκρον|n|tr=ákron|sc=polytonic}}
+* Greek: {{t+|el|κορυφή|f}}
+*: Ancient: {{t|grc|ἄκρον|n}}
 * Italian: {{t+|it|apice}}
 * Maori: {{t|mi|akitu}}
 * Norwegian: {{t+|no|topp}}
 * Portuguese: {{t+|pt|topo}}, {{t+|pt|cume}}
 * Romanian: {{t+|ro|culme}}
-* Russian: {{t+|ru|вершина|f|tr=veršína|sc=Cyrl}}, {{t+|ru|пик|m|tr=pik|sc=Cyrl}}, {{t|ru|высшая точка|f|tr=výsšaja tóčka|sc=Cyrl}}
+* Russian: {{t+|ru|верши́на|f}}, {{t+|ru|пик|m}}, {{t|ru|вы́сшая то́чка|f}}
 * Spanish: {{t+|es|ápice|m}}, {{t+|es|cima|f}}
 * Swedish: {{t+|sv|topp|c}}, {{t+|sv|spets|c}}
-* Telugu: {{t|te|అత్యున్నత|tr=atyunnata}}, {{t|te|సర్వోన్నత|tr=sarvOnnata}}
+* Telugu: {{t|te|అత్యున్నత}}, {{t|te|సర్వోన్నత}}
 * Turkish: {{t+|tr|zirve}}
 {{trans-bottom}}
 
@@ -70,14 +70,14 @@ From {{etyl|la|en}} {{term|lang=la|apex||point, tip, summit}}.
 * French: {{t+|fr|apogée|f}}
 {{trans-mid}}
 * German: {{t+|de|Gipfel|m}}
-* Greek: {{t+|el|κορυφή|f|tr=korifí}},  {{t+|el|απόγειο|n|tr=apóyio}},  {{t+|el|αποκορύφωμα|n|tr=apokorífoma}}
+* Greek: {{t+|el|κορυφή|f}},  {{t+|el|απόγειο|n}},  {{t+|el|αποκορύφωμα|n}}
 * Italian: {{t+|it|apice|m}}
-* Russian: {{t+|ru|вершина|f|tr=veršína|sc=Cyrl}}, {{t+|ru|пик|m|tr=pik|sc=Cyrl}}
-* Telugu: {{t|te|సర్వోత్కృష్ట|tr=sarvOtkRshTa}}, {{t|te|ఉచ్ఛ|tr=uccha}}
+* Russian: {{t+|ru|верши́на|f}}, {{t+|ru|пик|m}}
+* Telugu: {{t|te|సర్వోత్కృష్ట}}, {{t|te|ఉచ్ఛ}}
 {{trans-bottom}}
 
 {{trans-top|in geometry: topmost vertex of a cone or pyramid}}
-* Armenian: {{t|hy|գագաթ|tr=gagatʿ}}
+* Armenian: {{t|hy|գագաթ}}
 * Bulgarian: {{t+|bg|връх}}
 * Chinese:
 *: Mandarin: {{t|cmn|頂點|sc=Hani}}, {{t+|cmn|顶点|tr=dǐngdiǎn|sc=Hani}}
@@ -85,18 +85,18 @@ From {{etyl|la|en}} {{term|lang=la|apex||point, tip, summit}}.
 * Finnish: {{t+|fi|huippu}}
 {{trans-mid}}
 * German: {{t+|de|Spitze|m}}
-* Greek: {{t+|el|κορυφή|f|tr=korifí}}
+* Greek: {{t+|el|κορυφή|f}}
 * Portuguese: {{t+|pt|topo}}
 * Spanish: {{t+|es|ápice|m}}, {{t+|es|cúspide|f}}
-* Telugu: {{t+|te|శీర్షము|tr=Seershamu}}
+* Telugu: {{t+|te|శీర్షము}}
 {{trans-bottom}}
 
 {{trans-top|pointed end}}
 * Dutch: {{t+|nl|spits|c}}, {{t+|nl|punt|m}}
 * Finnish: {{t+|fi|huippu}}
 {{trans-mid}}
-* Greek: {{t+|el|κορυφή|f|tr=korifí}}
-* Telugu: {{t+|te|కొన|tr=kona}}
+* Greek: {{t+|el|κορυφή|f}}
+* Telugu: {{t+|te|కొన}}
 {{trans-bottom}}
 
 {{trans-top|botany: end of leaf}}
