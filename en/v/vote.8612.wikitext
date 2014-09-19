@@ -41,7 +41,7 @@ From {{etyl|la|en}} {{term|vōtum|lang=la}}, a form of {{term|voveō|||I vow|lan
 ====Translations====
 {{trans-top|formalised choice}}
 * Afrikaans: {{t|af|stem}}
-* Armenian: {{t+|hy|քվեարկություն|tr=k’vearkut’yun}}
+* Armenian: {{t+|hy|քվեարկություն}}
 * Asturian: {{t|ast|votu|m}}
 * Bashkir: {{t|ba|тауыш|sc=Cyrl}}
 * Belarusian: {{t|be|го́лас|m|sc=Cyrl}}
@@ -58,7 +58,7 @@ From {{etyl|la|en}} {{term|vōtum|lang=la}}, a form of {{term|voveō|||I vow|lan
 * Galician: {{t+|gl|voto|m}}
 * Georgian: {{t|ka|ხმა|sc=Geor}}
 * German: {{t+|de|Stimme|f}}, {{t+|de|Votum|n}}
-* Greek: {{t+|el|ψηφοφορία|f|tr=psifoforía}}
+* Greek: {{t+|el|ψηφοφορία|f}}
 * Hungarian: {{t+|hu|szavazás}}
 * Italian: {{t+|it|voto|m}}
 * Japanese: {{t+|ja|投票|tr=とうひょう, tōhyō|sc=Jpan}}
@@ -75,7 +75,7 @@ From {{etyl|la|en}} {{term|vōtum|lang=la}}, a form of {{term|voveō|||I vow|lan
 * Polish: {{t+|pl|głos|m}}
 * Portuguese: {{t+|pt|voto|m}}
 * Romanian: {{t+|ro|vot|n}}
-* Russian: {{t+|ru|голос|m|tr=gólos}}, {{t+|ru|вотум|m|tr=vótum}}
+* Russian: {{t+|ru|го́лос|m}}, {{t+|ru|во́тум|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|глас|m|sc=Cyrl}}
 *: Roman: {{t+|sh|glas|m}}
@@ -87,8 +87,8 @@ From {{etyl|la|en}} {{term|vōtum|lang=la}}, a form of {{term|voveō|||I vow|lan
 {{trans-bottom}}
 
 {{trans-top|instance of voting}}
-* Arabic: {{t|ar|تصويت|m|tr=taSwiit|sc=Arab}}
-* Armenian: {{t|hy|ձայն|tr=jayn}}, {{t|hy|քվե|tr=k’ve}}
+* Arabic: {{t|ar|تصويت|m|tr=taṣwīt|sc=Arab}}
+* Armenian: {{t|hy|ձայն}}, {{t|hy|քվե}}
 * Bashkir: {{t|ba|тауыш биреү|sc=Cyrl}}
 * Catalan: {{t+|ca|vot|m}}
 * Chinese:
@@ -99,13 +99,13 @@ From {{etyl|la|en}} {{term|vōtum|lang=la}}, a form of {{term|voveō|||I vow|lan
 * Galician: {{t+|gl|voto|m}}
 * German: {{t+|de|Abstimmung|f}}
 {{trans-mid}}
-* Greek: {{t+|el|ψήφος|f|tr=psífos}}
+* Greek: {{t+|el|ψήφος|f}}
 * Hungarian: {{t+|hu|szavazat}}
 * Jèrriais: {{t|roa-jer|vote|m}}
 * Malay: {{t|ms|undian}}
 * Polish: {{t+|pl|głosowanie|n}}
 * Portuguese: {{t+|pt|votação|f}}
-* Russian: {{t+|ru|голосование|n|tr=golosovánije|sc=Cyrl}}
+* Russian: {{t+|ru|голосова́ние|n|sc=Cyrl}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|гласање|n|sc=Cyrl}}
 *: Roman: {{t+|sh|glasanje|n}}
@@ -133,15 +133,15 @@ From {{etyl|la|en}} {{term|vōtum|lang=la}}, a form of {{term|voveō|||I vow|lan
 ====Translations====
 {{trans-top|assert a formalised choice}}
 * Afrikaans: {{t|af|stem}}
-* Arabic: {{t+|ar|صوت|tr=Sáwwata|sc=Arab}}
-* Armenian: {{t+|hy|քվեարկել|tr=k’vearkel}}, {{t|hy|ձայն տալ|tr=jayn tal}}
+* Arabic: {{t+|ar|صوت|tr=ṣawwata|sc=Arab}}
+* Armenian: {{t+|hy|քվեարկել}}, {{t|hy|ձայն տալ}}
 * Asturian: {{t|ast|votar}}
 * Belarusian: {{t|be|галасава́ць|impf|sc=Cyrl}}, {{t|be|прагаласава́ць|pf|sc=Cyrl}}
 * Bulgarian: {{t+|bg|гласу́вам|impf|pf|sc=Cyrl}}
 * Catalan: {{t+|ca|votar}}
 * Chinese:
 *: Mandarin: {{t+|cmn|投票|tr=tóupiào|sc=Hani}}, {{t+|cmn|表決|sc=Hani}}, {{t+|cmn|表决|tr=biǎojué|sc=Hani}}
-* Czech: {{t+|cs|hlasovat}}
+* Czech: {{t+|cs|hlasovat|impf}}
 * Dutch: {{t+|nl|stemmen}}
 * Esperanto: {{t|eo|voĉdoni}}
 * Finnish: {{t+|fi|äänestää}}
@@ -149,25 +149,25 @@ From {{etyl|la|en}} {{term|vōtum|lang=la}}, a form of {{term|voveō|||I vow|lan
 * Galician: {{t+|gl|votar}}
 * Georgian: {{t|ka|ხმის მიცემა|sc=Geor}}
 * German: {{t+|de|wählen}}, {{t+|de|stimmen}}
-* Greek: {{t+|el|ψηφίζω|tr=psifízo}}
+* Greek: {{t+|el|ψηφίζω}}
 * Hungarian: {{t+|hu|szavaz}}
 * Icelandic: {{t+|is|kjósa}}
 * Italian: {{t+|it|votare}}
 {{trans-mid}}
-* Japanese: {{t+|ja|投票|tr=とうひょうする, tōhyō-suru|alt=投票する|sc=Jpan}}
+* Japanese: {{t+|ja|投票|tr=とうひょうする, tōhyō suru|alt=投票する|sc=Jpan}}
 * Jèrriais: {{t|roa-jer|voter}}
-* Korean: {{t+|ko|투표|alt=투표하다|sc=Kore}}
+* Korean: {{t+|ko|투표하다|sc=Kore}}
 * Latvian: {{t+|lv|balsot}}
 * Novial: {{t|nov|vota}}
 * Occitan: {{t+|oc|votar}}
-* Polish: {{t+|pl|głosować}}
+* Polish: {{t+|pl|głosować|impf}}
 * Portuguese: {{t+|pt|votar}}
 * Romanian: {{t-needed|ro}}
-* Russian: {{t+|ru|голосовать|impf|tr=golosovát’|sc=Cyrl}}, {{t+|ru|проголосовать|pf|tr=progolosovát’|sc=Cyrl}}
+* Russian: {{t+|ru|голосова́ть|impf|sc=Cyrl}}, {{t+|ru|проголосова́ть|pf|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|tagh}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|гласати}}, {{t|sh|гласовати}}
-*: Roman: {{t+|sh|glasati}}, {{t+|sh|glasovati}}
+*: Cyrillic: {{t|sh|гласати|impf}}, {{t|sh|гласовати|impf}}
+*: Roman: {{t+|sh|glasati|impf}}, {{t+|sh|glasovati|impf}}
 * Sotho: {{t+|st|vouta}}
 * Spanish: {{t+|es|votar}}
 * Swedish: {{t+|sv|rösta}}
