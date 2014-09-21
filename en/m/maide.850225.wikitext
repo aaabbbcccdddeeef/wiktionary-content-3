@@ -13,7 +13,7 @@
 ==Irish==
 
 ===Etymology===
-From {{etyl|sga|ga}} {{term|maide|lang=sga}}.
+From {{etyl|sga|ga}} {{m|sga|maide}}.
 
 ===Noun===
 {{ga-noun|g=m|maide|maidí}}
@@ -21,20 +21,20 @@ From {{etyl|sga|ga}} {{term|maide|lang=sga}}.
 # [[stick]]
 # [[peg]]
 # [[baton]]
-# {{context|nautical|lang=ga}} [[rib]], [[timber]]
-# {{context|golf|lang=ga}} [[club]]
+# {{label|sga|nautical}} [[rib]], [[timber]]
+# {{label|sga|golf}} [[club]]
 
 ====Declension====
 {{ga-noun-m4|m|aide|aidí}}
 
-====Mutation====
-{{ga mut cons|m|aide}}
-
 ====Synonyms====
-* {{sense|stick}}, {{l|ga|slat}}
-* {{sense|peg}} {{l|ga|tairne}}, {{l|ga|pionna}}, {{l|ga|bacán}}
-* {{sense|stick, baton}} {{l|ga|bata}}
-* {{sense|rib, timber}} {{l|ga|easna}}
+* {{sense|stick}}, {{l/ga|slat}}
+* {{sense|peg}} {{l/ga|tairne}}, {{l/ga|pionna}}, {{l/ga|bacán}}
+* {{sense|stick, baton}} {{l/ga|bata}}
+* {{sense|rib, timber}} {{l/ga|easna}}
+
+===Mutation===
+{{ga mut cons|m|aide}}
 
 ----
 
@@ -46,24 +46,58 @@ From {{etyl|sga|ga}} {{term|maide|lang=sga}}.
 # [[stick]]
 
 ====Descendants====
-* Irish: {{l|ga|maide}}
-* [[Manx]]: {{l|gv|maidjey}}
-* [[Scottish Gaelic]]: {{l|gd|maide}}
+* Irish: {{l/ga|maide}}
+* Manx: {{l/gv|maidjey}}
+* Scottish Gaelic: {{l/gd|maide}}
 
 ----
 
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{etyl|sga|gd}} {{term|maide|lang=sga}}.
+From {{etyl|sga|gd}} {{m|sga|maide}}.
 
 ===Pronunciation===
 * {{IPA|[mad̊ʲɪ]|lang=gd}}
 
 ===Noun===
-{{head|gd|noun|g=m}}
+{{gd-noun|g=m|gen=maide|pl=maidean|pl2=maideachan}}
 
+# [[wood]], [[timber]]
 # [[stick]]
+# [[staff]], [[cudgel]]
+
+====Derived terms====
+{{der3|{{l|gd|ceann-maide||block, blockhead}}
+|{{l|gd|clàr-maide||stick laid across a doorway to close up the space between door and floor and exclude wind}}
+|{{l|gd|each-maide||mason's tress}}
+|{{l|gd|maide a' bhallain||stick run through the handles of a tub when carrying it}}
+|{{l|gd|maide a' bhuntàta||stick for mashing potatoes}}
+|{{l|gd|maide-briste||broken stick; pair of tongs formed of a broken stick}}
+|{{l|gd|maide-builg||bilge-piece of boat}}
+|{{l|gd|maide-buinn||base or stock of a spinning-wheel}}
+|{{l|gd|maide-ceangail||piece of wood joining the two beams of the rafters of a house}}
+|{{l|gd|maide-coire||spirtle}}
+|{{l|gd|maide-crois||crutch}}
+|{{l|gd|maide-doichill||stick placed across a doorway instead of closing the door, when people were dining}}
+|{{l|gd|maide-droma||roof tree}}
+|{{l|gd|maide-feannaig||projecting piece of wood which appears above the thatch at each end of a blackhouse}}
+|{{l|gd|maide-frasaidh||stick used for separating the ears of corn from the sheaves}}
+|{{l|gd|maide-leigidh||weaver's turning-stick}}
+|{{l|gd|maide-lunndaidh||lever, handspike}}
+|{{l|gd|maide-measg||boy's top}}
+|{{l|gd|maide-meidhe||beam of a balance}}
+|{{l|gd|maide-milis||liquorice}}
+|{{l|gd|maide-nigheadaireachd||washing-stick}}
+|{{l|gd|maide-poit||thivel, pot-stick, spirtle}}
+|{{l|gd|maide-reang||stringer of a boat; ladder-step}}
+|{{l|gd|maide-singlidh||single-stick}}
+|{{l|gd|cas-mhaide||wooden leg}}
+|{{l|gd|aon-mhaide||simultaneous pull}}
+|{{l|gd|làir-mhaide||see-saw}}}}
+
+===References===
+* {{R:Dwelly}}
 
 [[es:maide]]
 [[fr:maide]]
