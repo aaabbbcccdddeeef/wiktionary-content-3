@@ -28,9 +28,9 @@ From {{etyl|enm|en}} {{term|punischen|lang=enm}}, from {{etyl|xno|en}}, {{etyl|f
 
 ====Translations====
 {{trans-top|to cause to suffer for crime or misconduct}}
-* Arabic: {{t|ar|عاقب|tr=`aaqaba}}
+* Arabic: {{t|ar|عاقب|tr=ʿāqaba}}
 * Asturian: {{t|ast|castigar}}
-* Bulgarian: {{t+|bg|наказвам|tr=nakazvam}}
+* Bulgarian: {{t+|bg|нака́звам|impf}}
 * Catalan: {{t+|ca|punir}}, {{t+|ca|castigar}}
 * Chinese:
 *: Mandarin: {{t+|cmn|懲罰|sc=Hani}}, {{t+|cmn|惩罚|tr=chéngfá|sc=Hani}}, {{t|cmn|處罰|sc=Hani}}, {{t+|cmn|处罚|tr=chǔfá|sc=Hani}}, {{t+|cmn|制裁|tr=zhìcái|sc=Hani}}
@@ -48,8 +48,8 @@ From {{etyl|enm|en}} {{term|punischen|lang=enm}}, from {{etyl|xno|en}}, {{etyl|f
 * Irish: {{t|ga|cuir pionós ar}}, {{t|ga|pionósaigh}}
 {{trans-mid}}
 * Italian: {{t+|it|punire}}, {{t+|it|castigare}}
-* Japanese: {{t|ja|罰する|tr=ばっする, bassuru}}, {{t|ja|懲罰する|tr=chōbatsu-suru}}
-* Korean: {{t+|ko|벌주다|tr=beoljuda}}
+* Japanese: {{t|ja|罰する|tr=ばっする, bassuru}}, {{t|ja|懲罰|alt=懲罰する|tr=chōbatsu-suru}}
+* Korean: {{t+|ko|벌주다}}
 * Latin: {{t|la|punire}}
 * Norwegian: {{t|no|straffe}}
 * Occitan: {{t+|oc|castigar}}, {{t|oc|punir}}
@@ -57,7 +57,7 @@ From {{etyl|enm|en}} {{term|punischen|lang=enm}}, from {{etyl|xno|en}}, {{etyl|f
 * Portuguese: {{t+|pt|castigar}}, {{t+|pt|punir}}
 * Romanian: {{t+|ro|pedepsi}}
 * Romansch: {{t|rm|chastiar}}
-* Russian: {{t+|ru|наказывать|impf|tr=nakázyvat’}}, {{t+|ru|наказать|pf|tr=nakazát’}}; {{t+|ru|карать|impf|tr=karát’}}, {{t+|ru|покарать|pf|tr=pokarát’}}
+* Russian: {{t+|ru|нака́зывать|impf}}, {{t+|ru|наказа́ть|pf}}; {{t+|ru|кара́ть|impf}}, {{t+|ru|покара́ть|pf}}
 * Sardinian: {{t|sc|casticare}}, {{t|sc|castigae}}, {{t|sc|castigai}}, {{t|sc|castigare}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|ка̏знити|sc=Cyrl}}
@@ -83,14 +83,12 @@ From {{etyl|enm|en}} {{term|punischen|lang=enm}}, from {{etyl|xno|en}}, {{etyl|f
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|bg}}: [[наказвам]] (nakazvam)
 * Dutch: {{t-check|nl|straffen}}, {{t-check|nl|afstraffen}}
 * Italian: {{t-check|it|punire}}
 {{trans-mid}}
-* {{ttbc|ko}}: [[벌주다]] (beoljuda)
 * Latin: {{t-check|la|punire}}
 * Spanish: {{t-check|es|castigar}}
-* {{ttbc|te}}: [[శిక్షించు]] (Sikshimchu) (1)
+* {{ttbc|te}}: {{t|te|శిక్షించు}} (1)
 * Turkish: {{t-check|tr|cezalandırmak}}
 {{trans-bottom}}
 
