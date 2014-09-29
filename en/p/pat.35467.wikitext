@@ -91,7 +91,7 @@ From {{etyl|enm|en}} {{m|enm|*patten}}, alteration (with loss of medial ''l'') o
 * French: {{t+check|fr|tapoter}}
 {{trans-mid}}
 * German: {{t+check|de|tätscheln}}
-* Telugu: {{t+check|te|తట్టు}} (taTTu)
+* Telugu: {{t+check|te|తట్టు}}
 {{trans-bottom}}
 
 ====Adjective====
@@ -178,7 +178,7 @@ From {{etyl|poz-swa-pro|xkl}} {{m|poz-swa-pro|*əpat}}, from {{etyl|poz-pro|xkl}
 ===Numeral===
 {{head|xkl|numeral}}
 
-# {{context|cardinal|lang=xkl}} {{l|en|four}}
+# {{context|cardinal|lang=xkl}} [[four]]
 
 [[Category:xkl:Four]]
 
@@ -192,7 +192,7 @@ From {{etyl|poz-swa-pro|bny}} {{m|poz-swa-pro|*əpat}}, from {{etyl|poz-pro|bny}
 ===Numeral===
 {{head|bny|numeral}}
 
-# {{context|cardinal|lang=bny}} {{l|en|four}}
+# {{context|cardinal|lang=bny}} [[four]]
 
 [[Category:bny:Four]]
 
@@ -206,7 +206,7 @@ From {{etyl|map-pro|bnn}} {{m|map-pro|*Səpat}}.
 ===Numeral===
 {{head|bnn|numeral}}
 
-# {{context|cardinal|lang=bnn}} {{l|en|four}}
+# {{context|cardinal|lang=bnn}} [[four]]
 
 [[Category:bnn:Four]]
 
@@ -221,7 +221,7 @@ From {{etyl|poz-swa-pro|mel}} {{m|poz-swa-pro|*əpat}}, from {{etyl|poz-pro|mel}
 ===Numeral===
 {{head|mel|numeral}}
 
-# {{context|cardinal|lang=mel}} {{l|en|four}}
+# {{context|cardinal|lang=mel}} [[four]]
 
 [[Category:mel:Four]]
 
@@ -233,6 +233,9 @@ From {{etyl|poz-swa-pro|mel}} {{m|poz-swa-pro|*əpat}}, from {{etyl|poz-pro|mel}
 {{cs-noun|g=m}}
 
 # {{context|chess|lang=cs}} [[stalemate]]
+
+====Declension====
+{{rfinfl|cs|noun}}
 
 ----
 
@@ -247,7 +250,7 @@ From {{etyl|it|fr}} {{term|patta||tie, draw|lang=it}}, influenced by {{term|mat|
 ===Noun===
 {{fr-noun|m}}
 
-# [[stalemate]] ([[chess]])
+# {{cx|chess|lang=fr}} [[stalemate]]
 
 ====Descendants====
 * Greek: {{l|el|πατ|g=n}}
@@ -303,7 +306,7 @@ From {{etyl|kaw|jv}} {{term|pat|lang=kaw}}, from {{etyl|poz-sus-pro|jv}} {{m|poz
 ===Numeral===
 {{head|jv|numeral}}
 
-# {{context|cardinal|lang=jv}} {{l|en|four}}
+# {{context|cardinal|lang=jv}} [[four]]
 
 [[Category:jv:Four]]
 
@@ -317,7 +320,7 @@ From {{etyl|plf-pro|slp}} {{m|plf-pro|*əpat}}, from {{etyl|poz-cet-pro|slp}} {{
 ===Numeral===
 {{head|slp|numeral}}
 
-# {{context|cardinal|lang=slp}} {{l|en|four}}
+# {{context|cardinal|lang=slp}} [[four]]
 
 [[Category:slp:Four]]
 
@@ -370,7 +373,7 @@ From {{etyl|plf-pro|mqy}} {{m|plf-pro|*əpat}}, from {{etyl|poz-cet-pro|mqy}} {{
 ===Numeral===
 {{head|mqy|numeral}}
 
-# {{context|cardinal|lang=mqy}} {{l|en|four}}
+# {{context|cardinal|lang=mqy}} [[four]]
 
 [[Category:mqy:Four]]
 
@@ -384,7 +387,7 @@ From {{etyl|phi-pro|mrw}} {{m|phi-pro|*əpat}}, from {{etyl|poz-pro|mrw}} {{m|po
 ===Numeral===
 {{head|mrw|numeral}}
 
-# {{context|cardinal|lang=mrw}} {{l|en|four}}
+# {{context|cardinal|lang=mrw}} [[four]]
 
 [[Category:mrw:Four]]
 
@@ -441,7 +444,7 @@ From {{etyl|poz-sus-pro|kaw}} {{m|poz-sus-pro|*əmpat}}, from {{etyl|poz-pro|kaw
 ===Numeral===
 {{head|kaw|numeral}}
 
-# {{context|cardinal|lang=kaw}} {{l|en|four}}
+# {{context|cardinal|lang=kaw}} [[four]]
 
 ====Descendants====
 {{top2}}
@@ -461,20 +464,10 @@ From {{etyl|poz-sus-pro|kaw}} {{m|poz-sus-pro|*əmpat}}, from {{etyl|poz-pro|kaw
 ===Noun===
 {{pl-noun|m}}
 
-# [[stalemate]]
+# {{cx|chess|lang=pl}} [[stalemate]]
 
 ====Declension====
-{{pl-decl-noun
-|pat|paty
-|patu|patów
-|patowi|patom
-|pat|paty
-|patem|patami
-|pacie|patach
-|pacie|paty
-}}
-
-[[Category:pl:Chess]]
+{{pl-decl-noun-masc-inani|pa|t|u}}
 
 ----
 
@@ -486,7 +479,7 @@ From {{etyl|map-pro|pyu}} {{m|map-pro|*Səpat}}.
 ===Numeral===
 {{head|pyu|numeral}}
 
-# {{context|cardinal|lang=pyu}} {{l|en|four}}
+# {{context|cardinal|lang=pyu}} [[four]]
 
 [[Category:pyu:Four]]
 
@@ -500,7 +493,7 @@ From {{etyl|poz-swa-pro|ree}} {{m|poz-swa-pro|*əpat}}, from {{etyl|poz-pro|ree}
 ===Numeral===
 {{head|ree|numeral}}
 
-# {{context|cardinal|lang=ree}} {{l|en|four}}
+# {{context|cardinal|lang=ree}} [[four]]
 
 [[Category:ree:Four]]
 
@@ -514,7 +507,7 @@ From {{etyl|plf-pro|reb}} {{m|plf-pro|*əpat}}, from {{etyl|poz-cet-pro|reb}} {{
 ===Numeral===
 {{head|reb|numeral}}
 
-# {{context|cardinal|lang=reb}} {{l|en|four}}
+# {{context|cardinal|lang=reb}} [[four]]
 
 [[Category:reb:Four]]
 
@@ -552,7 +545,7 @@ From {{etyl|fr|sk}} {{term|pat|lang=fr}}.
 ===Noun===
 {{sk-noun|g=m|gen=patu|pl=paty|decl=dub}}
 
-# a [[stalemate]] in a game of [[chess]]
+# {{cx|chess|lang=sk}} [[stalemate]]
 
 ====Declension====
 {{sk-decl-noun|pat|patu|patu|pat|pate|patom|paty|patov|patom|paty|patoch|patmi}}
@@ -565,17 +558,15 @@ From {{etyl|fr|sk}} {{term|pat|lang=fr}}.
 ==Volapük==
 
 ===Etymology===
-French ''[[particularité]]''
+From {{etyl|fr|vo}} {{m|fr|particularité}}
 
 ===Noun===
-{{head|vo|nouns}}
+{{vo-noun}}
 
 # [[particularity]]
 
 ====Declension====
 {{vo-decl-noun}}
-
-[[Category:Volapük nouns]]
 
 [[af:pat]]
 [[cs:pat]]
