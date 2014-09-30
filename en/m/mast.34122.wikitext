@@ -269,10 +269,13 @@ From {{etyl|gml|nb}} {{term|mast||mast|lang=gml}}.
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|sla-pro|sh}} {{m|sla-pro|*mastь}}.
+From {{etyl|sla-pro|sh}} {{m|cu|tr=mastь}} ({{etyl|ru|-}} {{m|ru|tr=mast'}}, {{etyl|pl|-}} {{m|pl|maść}}). Compare {{m|sh|mazati}}.
+
+===Pronunciation===
+* {{IPA|/mâːst/|lang=sh}}
 
 ===Noun===
-{{sh-noun|g=f|pl=masti|r|маст}}
+{{sh-noun|g=f|head=mȃst|r|маст|ма̑ст}}
 
 # [[grease]]
 # [[ointment]]
@@ -281,17 +284,18 @@ From {{etyl|sla-pro|sh}} {{m|sla-pro|*mastь}}.
 # [[schmaltz]]
 
 ====Declension====
-{{sh-decl-noun|sc=Latn
-|mast|masti
+{{sh-decl-noun
+|mȃst|masti
 |masti|masti
 |masti|mastima
 |mast|masti
 |masti|masti
-|mašću / masti|mastima
 |masti|mastima
+|masti/mȃšću|mastima
 }}
 
-{{attention|sh|clean up and clarify senses; these probably aren't all distinct senses}}
+===References===
+* {{R:sh:HJP|e1tmXxE%3D}}
 
 ----
 
