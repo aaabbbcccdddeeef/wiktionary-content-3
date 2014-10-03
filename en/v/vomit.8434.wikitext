@@ -36,16 +36,16 @@ From {{etyl|enm|en}} {{term|vomiten|lang=enm}}, from {{etyl|la|en}} {{term|vomit
 * Afrikaans: {{t|af|braak}}
 * American Sign Language: {{t|ase|5@Mouth-5@FromUlnarTipFinger 5@FromMouth-5@FromUlnarTipFinger}}
 * Arabic: {{t|ar|تقيأ|tr=taqayyaʾa|sc=Arab}}, {{t|ar|قاء|tr=qāʾa|sc=Arab}}, {{t|ar|استفرغ|tr=istafraġa|sc=Arab}}
-* Armenian: {{t|hy|հետ տալ|tr=het tal}}, {{t+|hy|փսխել|tr=p'sxel}}, {{t|hy|ործկալ|tr=orçkal}}
+* Armenian: {{t|hy|հետ տալ}}, {{t+|hy|փսխել}}, {{t|hy|ործկալ}}
 * Aromanian: {{t|rup|vomu}}
 * Asturian: {{t|ast|vomitar}}
-* Belarusian: {{t|be|ванітаваць|tr=vanitavácʹ|sc=Cyrl}}, {{t|be|бляваць|tr=bljavácʹ|sc=Cyrl}}, {{t|be|рваць|tr=rvacʹ|sc=Cyrl}} {{qualifier|impersonal}}
-* Bulgarian: {{t+|bg|повръщам|tr=povrǎ̀štam|sc=Cyrl}}, {{t+|bg|бълвам|tr=bǎlvám|sc=Cyrl}}
-* Burmese: {{t+|my|အန်|tr=an|sc=Mymr}}
+* Belarusian: {{t|be|ванітава́ць|impf|sc=Cyrl}}, {{t|be|блява́ць|impf|sc=Cyrl}}, {{t|be|рваць|impf|sc=Cyrl}} {{qualifier|impersonal}}
+* Bulgarian: {{t+|bg|повръ̀щам|impf|sc=Cyrl}}, {{t+|bg|бълва̀м|impf|sc=Cyrl}}, {{t|be|рыга́ць|impf|sc=Cyrl}}
+* Burmese: {{t+|my|အန်|sc=Mymr}}
 * Catalan: {{t+|ca|vomitar}}
 * Chinese:
 *: Mandarin: {{t|cmn|嘔吐|sc=Hani}}, {{t+|cmn|呕吐|tr=ǒutù|sc=Hani}}, {{t+|cmn|嘔|sc=Hani}}, {{t+|cmn|呕|tr=ǒu|sc=Hani}}, {{t+|cmn|吐|tr=tù|sc=Hani}}
-* Czech: {{t+|cs|zvracet}}
+* Czech: {{t+|cs|zvracet|impf}}
 * Danish: {{t+|da|brække sig}}, {{t+|da|kaste op}}
 * Dutch: {{t+|nl|overgeven}}, {{t+|nl|braken}}, {{t+|nl|kotsen}} {{qualifier|colloquial}}
 * Esperanto: {{t|eo|vomi}}
@@ -55,8 +55,8 @@ From {{etyl|enm|en}} {{term|vomiten|lang=enm}}, from {{etyl|la|en}} {{term|vomit
 * French: {{t+|fr|vomir}}, {{t+|fr|rendre}}, {{t+|fr|rejeter}}, {{t+|fr|dégobiller}} {{qualifier|colloquial}}, {{t+|fr|dégueuler}} {{qualifier|slang}}, {{t+|fr|gerber}} {{qualifier|slang}}, {{t+|fr|quicher}} {{qualifier|slang}}
 * Galician: {{t+|gl|vomitar}}
 * German: {{t+|de|übergeben|alt=sich übergeben}}, {{t+|de|erbrechen}}, {{t+|de|kotzen}}, {{t+|de|vomieren}}
-* Greek: {{t+|el|εξεμώ|tr=exemó}}, {{t|el|[[κάνω]] [[εμετό]]|tr=káno emetó}}, {{t+|el|ξερνώ|tr=xernó}} {{qualifier|colloquial}}
-*: Ancient: {{t|grc|ἐμέω|tr=emeō|sc=polytonic}}, {{t|grc|ἐξεμέω|sc=polytonic}}
+* Greek: {{t+|el|εξεμώ}}, {{t|el|[[κάνω]] [[εμετό]]}}, {{t+|el|ξερνώ}} {{qualifier|colloquial}}
+*: Ancient: {{t|grc|ἐμέω|sc=polytonic}}, {{t|grc|ἐξεμέω|sc=polytonic}}
 * Hebrew: {{t|he|הקיא|tr=hekí}}
 * Hindi: {{t|hi|उल्टी करना|tr=ulṭī karnā|sc=Deva}}, {{t|hi|वमन करना|tr=vaman karnā|sc=Deva}}
 * Hungarian: {{t+|hu|hány}}
@@ -70,7 +70,7 @@ From {{etyl|enm|en}} {{term|vomiten|lang=enm}}, from {{etyl|la|en}} {{term|vomit
 * Latin: {{t|la|vomō}}, {{t|la|vomitō}}
 * Latvian: {{t+|lv|vemt}}
 * Lithuanian: {{t+|lt|vemti}}
-* Macedonian: {{t|mk|повраќа|tr=póvraḱa}}, {{t|mk|блуе|tr=blúe}}
+* Macedonian: {{t|mk|по́враќа}}, {{t|mk|блу́е|impf}}
 * Malay: {{t|ms|muntah}}
 * Maltese: {{t|mt|irrimetta}}, {{t|mt|qala'}}
 * Maori: {{t|mi|ruaki}}
@@ -85,21 +85,21 @@ From {{etyl|enm|en}} {{term|vomiten|lang=enm}}, from {{etyl|la|en}} {{term|vomit
 * Rapa Nui: {{t|rap|rua}}
 * Romanian: {{t+|ro|vomita}}, {{t+|ro|borî}}, {{t+|ro|vărsa}}
 * Romansch: {{t|rm|vomitar}}
-* Russian: {{t+|ru|блевать|impf|tr=blevátʹ|sc=Cyrl}}, {{t+|ru|рвать|impf|tr=rvatʹ|sc=Cyrl}} {{qualifier|impersonal}}, {{t+|ru|тошнить|impf|tr=tošnítʹ|sc=Cyrl}} {{qualifier|impersonal, to feel sick}}, {{t+|ru|рыгать|impf|tr=rygátʹ|sc=Cyrl}}
+* Russian: {{t+|ru|блева́ть|impf|sc=Cyrl}}, {{t+|ru|рвать|impf|sc=Cyrl}} {{qualifier|impersonal}}, {{t+|ru|тошни́ть|impf|sc=Cyrl}} {{qualifier|impersonal, to feel sick}}, {{t+|ru|рыга́ть|impf|sc=Cyrl}}
 * {{ttbc|sh}}:
-*: Cyrillic: {{t|sh|ригати|sc=Cyrl}}, {{t|sh|збљувати|sc=Cyrl}}, {{t|sh|повратити|sc=Cyrl}}, {{t|sh|бљувати|sc=Cyrl}}, , {{t|sh|повраћати|sc=Cyrl}}
-*: Roman: {{t+|sh|rigati}}, {{t|sh|zbljuvati}}, {{t+|sh|povratiti}}, {{t+|sh|bljuvati}}, {{t+|sh|povraćati}}
-* Slovak: {{t|sk|zvracať}}
-* Slovene: {{t+|sl|bruhati}}
+*: Cyrillic: {{t|sh|ригати|impf|sc=Cyrl}}, {{t|sh|збљувати|sc=Cyrl}}, {{t|sh|повратити|sc=Cyrl}}, {{t|sh|бљувати|impf|sc=Cyrl}}, {{t|sh|повраћати|sc=Cyrl}}
+*: Roman: {{t+|sh|rigati|impf}}, {{t|sh|zbljuvati}}, {{t+|sh|povratiti}}, {{t+|sh|bljuvati|impf}}, {{t+|sh|povraćati}}
+* Slovak: {{t|sk|zvracať|impf}}
+* Slovene: {{t+|sl|bruhati|impf}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|bluwaś|impf}}
 * Spanish: {{t+|es|vomitar}}, {{t+|es|devolver}}, {{t+|es|arrojar}}, {{t|es|echar la pota}}
 * Swahili: {{t|sw|kutapika}}
 * Swedish: {{t+|sv|kräkas}}, {{t+|sv|spy}}, {{t|sv|kasta upp}}
-* Tamil: {{t+|ta|குமட்டு|tr=kumaṭṭu|sc=Taml}}, {{t|ta|உவட்டு|tr=uvaṭṭu|sc=Taml}}, {{t|ta|உவாந்தி|tr=uvāndi|sc=Taml}}, {{t+|ta|வாந்தி|tr=vāndi|sc=Taml}}, {{t+|ta|வாந்தி|tr=vāndi|sc=Taml}}
+* Tamil: {{t+|ta|குமட்டு|sc=Taml}}, {{t|ta|உவட்டு|sc=Taml}}, {{t|ta|உவாந்தி|sc=Taml}}, {{t+|ta|வாந்தி|sc=Taml}}
 * Thai: {{t+|th|อาเจียน|tr=aa jian|sc=Thai}}, {{t|th|อ้วก|tr=ûak|sc=Thai}}
 * Turkish: {{t+|tr|kusmak}}
-* Ukrainian: {{t+|uk|блювати|tr=bljuváty|sc=Cyrl}}, {{t|uk|рвати|tr=rváty|sc=Cyrl}} {{qualifier|impersonal}}
+* Ukrainian: {{t+|uk|блюва́ти|impf|sc=Cyrl}}, {{t|uk|рва́ти|impf|sc=Cyrl}} {{qualifier|impersonal}}, {{t|uk|рига́ти|impf|sc=Cyrl}}
 * Vietnamese: {{t+|vi|nôn}}, {{t+|vi|mửa}}
 {{trans-bottom}}
 
