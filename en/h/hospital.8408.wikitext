@@ -51,7 +51,7 @@ From {{etyl|fro|en}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|l
 * Belarusian: {{t|be|бальні́ца|f}}, {{t|be|шпiта́ль|m|sc=Cyrl}}, {{t|be|ляка́рня|f|sc=Cyrl}}
 * Bengali: {{t|bn|হাসপাতাল|tr=haspatal|sc=Beng}}
 * Bulgarian: {{t+|bg|бо́лница|f}}
-* Burmese: {{t+|my|ဆေးရုံ|tr=hse:yon|sc=Mymr}}
+* Burmese: {{t+|my|ဆေးရုံ|sc=Mymr}}
 * Catalan: {{t+|ca|hospital|m}}
 * Chechen: {{t|ce|больница}}
 * Cheyenne: {{t|chy|naa'émâhéó'o}}
@@ -84,7 +84,7 @@ From {{etyl|fro|en}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|l
 * Icelandic: {{t+|is|sjúkrahús|n}}
 * Indonesian: {{t|id|[[rumah]] [[sakit]]}}, {{t+|id|hospital}}
 * Interlingua: {{t|ia|hospital}}
-* Inuktitut: {{t|iu|ᐋᓐᓂᐊᕕᒃ|tr=aanniavik|sc=Cans}}
+* Inuktitut: {{t|iu|ᐋᓐᓂᐊᕕᒃ|sc=Cans}}
 * Irish: {{t+|ga|ospidéal|m}}
 * Italian: {{t+|it|ospedale|m}}
 * Japanese: {{t+|ja|病院|tr=びょういん, byōin}}
@@ -95,7 +95,7 @@ From {{etyl|fro|en}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|l
 * Kurdish:
 *: Sorani: {{t|ckb|نەخۆشخانە|tr=nexoşxane}}, {{t|ckb|خەستەخانە|tr=xestexane}}
 * Kyrgyz: {{t|ky|оорукана|sc=Cyrl}}
-* Lao: {{t|lo|​ໂຮງໝໍ|tr=hóːŋmɔ̌ː|sc=Laoo}}
+* Lao: {{t|lo|​ໂຮງໝໍ|sc=Laoo}}
 * Latin: {{t+|la|nosocomium}}, {{t+|la|valetudinarium}}
 * Latvian: {{t|lv|slimnīca|f}}
 {{trans-mid}}
@@ -103,7 +103,7 @@ From {{etyl|fro|en}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|l
 * Lithuanian: {{t|lt|ligoninė|f}}
 * Lombard: {{t|lmo|ospedal}}
 * Luxembourgish: {{t|lb|Spidol|n}}
-* Macedonian: {{t|mk|бо́лница|f}}
+* Macedonian: {{t|mk|болница|f}}
 * Malagasy: {{t+|mg|hopitaly}}
 * Malay: {{t|ms|hospital}}, {{t|ms|rumah sakit}}
 * Malayalam: {{t+|ml|ആശുപത്രി|sc=Mlym}}
@@ -122,7 +122,7 @@ From {{etyl|fro|en}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|l
 * Quechua: {{t|qu|unquna wasi}}
 * Romanian: {{t+|ro|spital|n}}
 * Russian: {{t+|ru|больни́ца|f}}, {{t+|ru|го́спиталь|m}} {{qualifier|usually a military hospital}}
-* Rusyn: {{t|rue|болниця|f|tr=bolnýcja|alt=болни́ця}}
+* Rusyn: {{t|rue|болни́ця|f}}
 * Samoan: {{t|sm|falema'i}}
 * Sanskrit: {{t|sa|चिकित्सालय|m|tr=cikitsālaya}}
 * Scottish Gaelic: {{t|gd|taigh-leighis|m}}, {{t|gd|taigh-eiridinn|m}}, {{t|gd|taigh-tinnis|m}}, {{t|gd|ospadal|m}}
@@ -143,7 +143,7 @@ From {{etyl|fro|en}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|l
 * Tagalog: {{t+|tl|ospital}}, {{t|tl|pagamutan}}
 * Tajik: {{t|tg|бемористон|sc=Cyrl}}
 * Tamil: {{t+|ta|மருத்துவமனை|sc=Taml}}
-* Tatar: {{t|tt|хастаханә|tr=xastaxanä|sc=Cyrl}}, {{t+|tt|шифаханә|tr=şifaxanä|sc=Cyrl}}
+* Tatar: {{t|tt|хастаханә|sc=Cyrl}}, {{t+|tt|шифаханә|sc=Cyrl}}
 * Telugu: {{t+|te|ఆసుపత్రి}}
 * Tetum: {{t|tet|ospitál}}, {{t|tet|uma-moras}}
 * Thai: {{t+|th|โรงพยาบาล|tr=rohng phayaabaan}}
@@ -151,7 +151,7 @@ From {{etyl|fro|en}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|l
 * Turkish: {{t+|tr|hastane}}
 * Turkmen: {{t|tk|keselhana}}, {{t|tk|gospital}}
 *: Cyrillic: {{t|tk|кеселхана|sc=Cyrl}}, {{t|tk|госпитал|sc=Cyrl}}
-* Ukrainian: {{t|uk|ліка́рня|f|tr=likárnja}}, {{t|uk|шпiта́ль|m}}, {{t|uk|болни́ця|f|sc=Cyrl}}
+* Ukrainian: {{t|uk|ліка́рня|f}}, {{t|uk|шпiта́ль|m}}, {{t|uk|болни́ця|f}}
 * Urdu: {{t|ur|اسپتال|m|tr=aspatāl}}
 * Uyghur: {{t|ug|دوختورخانا|sc=ug-Arab}}
 * Uzbek: {{t+|uz|kasalxona}}
@@ -205,7 +205,7 @@ From {{etyl|la|da}} {{m|la|hospitāle||hospital, guesthouse}}, from the neuter f
 # {{l|en|hospital}}
 
 ====Synonyms====
-* [[sygehus]] {{g|n}}
+* {{l|da|sygehus|g=n}}
 
 ====Inflection====
 {{da-noun-infl|et|er}}
@@ -223,7 +223,6 @@ From {{etyl|la|da}} {{m|la|hospitāle||hospital, guesthouse}}, from the neuter f
 {{fr-noun|m|hospitaux}}
 
 # {{obsolete spelling of|hôpital|lang=fr}}
-
 
 ----
 
@@ -260,6 +259,9 @@ From {{etyl|en|ms}} {{term|hospital|lang=en}}, from {{etyl|fro|ms}} {{term|hospi
 
 ==Middle French==
 
+===Etymology===
+From {{etyl|fro|frm}} {{term|hospital|lang=fro}} (Modern French {{term|hôpital|lang=fr}}), from {{etyl|la|frm}} {{m|la|hospitālis||hospitable}}, from {{term|hospes|lang=la||host, guest}}.
+
 ===Noun===
 {{frm-noun|m|hospitaulx}}
 
@@ -268,6 +270,9 @@ From {{etyl|en|ms}} {{term|hospital|lang=en}}, from {{etyl|fro|ms}} {{term|hospi
 ----
 
 ==Old French==
+
+===Etymology===
+From {{etyl|la|fro}} {{m|la|hospitālis||hospitable}}, from {{term|hospes|lang=la||host, guest}}
 
 ===Noun===
 {{fro-noun|m}}
@@ -334,7 +339,7 @@ Borrowed from {{etyl|la|es}} {{term|hospitale|lang=la}}.
 * {{l|es|hostal}}
 
 ====See also====
-* [[clínica]]
+* {{l|es|clínica}}
 
 ----
 
