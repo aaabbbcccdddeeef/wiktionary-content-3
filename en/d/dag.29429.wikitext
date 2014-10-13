@@ -15,7 +15,7 @@
 * {{rhymes|æɡ|lang=en}}
 
 ===Etymology 1===
-From {{etyl|ang|en}} {{m|ang|dagge}}, of uncertain (probably Germanic) origin, cognate with (Middle) Dutch {{m|dum|dag}}, {{m|dum|dagge}}, {{m|dum|dagh}}.
+From {{etyl|ang|en}} {{m|ang|dagge}}, of uncertain (probably {{etyl|gem|en}}) origin, cognate with (Middle) Dutch {{m|dum|dag}}, {{m|dum|dagge}}, {{m|dum|dagh}}.
 
 ====Noun====
 {{en-noun}}
@@ -23,7 +23,7 @@ From {{etyl|ang|en}} {{m|ang|dagge}}, of uncertain (probably Germanic) origin, c
 # A hanging end or shred, in particular a long [[point]]ed [[strip]] of [[cloth]] at the edge of a piece of [[clothing]], or one of a row of decorative strips of cloth that may [[ornament]] a [[tent]], [[booth]] or [[fairground]].
 
 ===Etymology 2===
-From {{term|daglock}} or ''daggle-lock''.
+From {{term|daglock}} or {{term|daggle-lock}}.
 
 ====Noun====
 {{en-noun}}
@@ -63,7 +63,7 @@ From {{term|daglock}} or ''daggle-lock''.
 #: {{rfquotek|Johnson}}
 
 ===Etymology 3===
-From {{etyl|fro|en}} {{term|dague||lang=fro}} (from {{etyl|pro|en}} [[dague]], of uncertain origin, perhaps from Vulgar {{etyl|la|en}} *{{term||daca|Dacian knife}}, from the Roman province [[Dacia]] (roughly modern Romania); the ending is possibly the faintly pejorative [[-ard]] suffix, as in [[poignard]] 'dagger'); cognate with {{term|dagger}}.
+From {{etyl|fro|en}} {{m|fro|dague}} (from {{etyl|pro|en}} {{m|pro|dague}}, of uncertain origin, perhaps from {{etyl|VL.|en}} {{m|la|*daca||Dacian knife}}, from the Roman province [[Dacia]] (roughly modern Romania); the ending is possibly the faintly pejorative {{m|fr|-ard}} suffix, as in {{m|fr|poignard||dagger}}); cognate with {{term|dagger}}.
 
 ====Noun====
 {{en-noun}}
@@ -72,7 +72,7 @@ From {{etyl|fro|en}} {{term|dague||lang=fro}} (from {{etyl|pro|en}} [[dague]], o
 # A [[spit]], a [[sharpen]]ed [[rod]] used for [[roast]]ing food over a fire.
 # {{context|obsolete|lang=en}} A [[dagger]]; a [[poniard]].
 #: {{rfquotek|Johnson}}
-# {{context|obsolete|lang=en}} A kind of large [[pistol]].
+# {{label|en|obsolete}} A kind of large [[pistol]].
 #* Foxe
 #*: The Spaniards discharged their '''dags''', and hurt some.
 #* Grose
@@ -82,17 +82,17 @@ From {{etyl|fro|en}} {{term|dague||lang=fro}} (from {{etyl|pro|en}} [[dague]], o
 ====Verb====
 {{en-verb|dagg}}
 
-# {{context|transitive|lang=en}} To skewer food, for roasting over a fire
-# {{context|transitive|lang=en}} To [[cut]] or [[slash]] the edge of a [[garment]] into dags
+# {{label|en|transitive}} To skewer food, for roasting over a fire
+# {{label|en|transitive}} To [[cut]] or [[slash]] the edge of a [[garment]] into dags
 
 ===Etymology 4===
-Variation of ''[[dang]]''
+Variation of {{term|dang}}.
 {{etystub|en|Related to {{term|dang|lang=en}} and {{term|damn|lang=en}}?}}
 
 ====Interjection====
 {{en-interj}}
 
-# {{context|US|informal|lang=en}} Expressing [[shock]], [[awe]] or [[surprise]]; used as a general [[intensifier]].
+# {{label|en|US|informal}} Expressing [[shock]], [[awe]] or [[surprise]]; used as a general [[intensifier]].
 
 ===Etymology 5===
 {{back-form|daggy|lang=en}}
@@ -100,7 +100,7 @@ Variation of ''[[dang]]''
 ====Noun====
 {{en-noun}}
 
-# {{context|Australia|_|slang|New Zealand|_|derogatory|_|slang|lang=en}} One who [[dress]]es unfashionably or without apparent care about [[appearance]].
+# {{label|en|Australia|_|slang|New Zealand|_|derogatory|_|slang}} One who [[dress]]es unfashionably or without apparent care about [[appearance]].
 #* '''2004''' July 25, Debbie Kruger, Melbourne Weekly Magazine, [http://www.debbiekruger.com/writer/freelance/craig.html ''All the World's a Stage''],
 #*: Now, wide-eyed and unfashionably excited ("I’m such a '''dag'''!" she remarks several times), she has the leading role of Viola in the Bell Shakespeare Company’s production of Twelfth Night, opening on August 10 at the Victorian Arts Centre Playhouse.
 #* '''2006''' September 26, [[w:TV Week|TV Week]], [http://tvweek.ninemsn.com.au/article.aspx?id=147623 ''Klancie Keough eliminated''],
@@ -112,7 +112,7 @@ Variation of ''[[dang]]''
 #*: A graduate of film studies in New York, May has had a hand in editing two of his three videos. Each casts him as a bespectacled '''dag''' in a world of glamour.
 
 =====Related terms=====
-* [[daggy]] (''adj'')
+* [[daggy]] {{qualifier|adj}}
 
 =====Synonyms=====
 * [[dork]], [[loser]], [[nerd]]
@@ -122,7 +122,7 @@ Variation of ''[[dang]]''
 
 =====Translations=====
 {{trans-top}}
-* Georgian: {{t+|ka|გოიმი|sc=Geor}}
+* Georgian: {{t+|ka|გოიმი}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -132,10 +132,10 @@ Initialism for ''directed acyclic graph''.
 ====Noun====
 {{en-noun}}
 
-# {{context|graph theory|lang=en}} A [[directed]] [[acyclic]] [[graph]]; an [[ordered pair]] <math>(V, E)</math> such that <math>E</math> is a [[subset]] of some [[partial ordering relation]] on <math>V</math>.
+# {{label|en|graph theory}} A [[directed]] [[acyclic]] [[graph]]; an [[ordered pair]] <math>(V, E)</math> such that <math>E</math> is a [[subset]] of some [[partial ordering relation]] on <math>V</math>.
 
 ===Etymology 7===
-Of Scandinavian origin; compare {{etyl|sv|-}} {{term|dagg|lang=sv}}. See {{term|dew|lang=en}}.
+Of {{etyl|gmq|en}} origin; compare Swedish {{m|sv|dagg}}. See {{term|dew}}.
 
 ====Noun====
 {{en-noun}}
@@ -147,7 +147,7 @@ Of Scandinavian origin; compare {{etyl|sv|-}} {{term|dagg|lang=sv}}. See {{term|
 ====Verb====
 {{en-verb|dagg}}
 
-# {{context|UK|dialect|lang=en}} To be [[misty]]; to [[drizzle]].
+# {{label|en|UK|dialect}} To be [[misty]]; to [[drizzle]].
 
 {{Webster 1913}}
 
@@ -159,7 +159,7 @@ Of Scandinavian origin; compare {{etyl|sv|-}} {{term|dagg|lang=sv}}. See {{term|
 ==Afrikaans==
 
 ===Etymology 1===
-From {{etyl|nl|af}} {{term|dag|lang=nl||day}}, cognate with German {{term|Tag|lang=de}}.
+From {{etyl|nl|af}} {{m|nl|dag||day}}, cognate with German {{m|de|Tag}}.
 
 ====Noun====
 {{af-noun|dae|daggie}}
@@ -167,7 +167,7 @@ From {{etyl|nl|af}} {{term|dag|lang=nl||day}}, cognate with German {{term|Tag|la
 # a [[day]]
 
 ===Etymology 2===
-From {{etyl|nl|af}} {{term|dag|lang=nl}}, shortening of {{term|goedendag||goodday; goodbye|lang=nl}}, from {{term|goed||goed, pleasant|lang=nl}} + {{term|dag||day|lang=nl}}.
+From {{etyl|nl|af}} {{m|nl|dag}}, shortening of {{m|nl|goedendag||goodday; goodbye}}, from {{m|nl|goed||goed, pleasant}} + {{m|nl|dag||day}}.
 
 ====Interjection====
 {{head|af|interjection}}
@@ -176,7 +176,7 @@ From {{etyl|nl|af}} {{term|dag|lang=nl}}, shortening of {{term|goedendag||goodda
 # [[bye-bye]]!
 
 ===Etymology 3===
-From {{etyl|nl|af}} {{term|dacht|lang=nl}}.
+From {{etyl|nl|af}} {{m|nl|dacht}}.
 
 ====Alternative forms====
 * {{l|af|dog}}
@@ -193,7 +193,7 @@ From {{etyl|nl|af}} {{term|dacht|lang=nl}}.
 ==Danish==
 
 ===Etymology===
-From {{etyl|non|da}} {{term|dagr|lang=non}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*dagaz||day}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*dʰegʷʰ-||to burn}}.
+From {{etyl|non|da}} {{m|non|dagr}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*dagaz||day}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*dʰegʷʰ-||to burn}}.
 
 ===Pronunciation===
 * {{IPA|dæː|lang=da}}
@@ -219,7 +219,7 @@ From {{etyl|non|da}} {{term|dagr|lang=non}}, from {{etyl|gem-pro|da}} {{m|gem-pr
 * {{rhymes|ɑx|lang=nl}}
 
 ===Etymology 1===
-From {{etyl|odt|nl}} {{term|dag|lang=odt}}, from {{etyl|gem-pro|nl}} {{m|gem-pro|*dagaz}}, from {{etyl|ine-pro|nl}} {{m|ine-pro|*dʰegʷʰ-||to burn, to be illuminated}}. Cognate with German ''[[Tag]]'', West Frisian {{term|dei|lang=fy}}, English {{term|day|lang=en}}, Danish {{term|dag|lang=da}}.
+From {{etyl|odt|nl}} {{m|odt|dag}}, from {{etyl|gem-pro|nl}} {{m|gem-pro|*dagaz}}, from {{etyl|ine-pro|nl}} {{m|ine-pro|*dʰegʷʰ-||to burn, to be illuminated}}. Cognate with German {{m|de|Tag}}, West Frisian {{m|fy|dei}}, English {{term|day}}, Danish {{m|da|dag}}.
 
 ====Noun====
 {{nl-noun|m|-:en|dagje|dim2=daagje}}
@@ -231,19 +231,17 @@ From {{etyl|odt|nl}} {{term|dag|lang=odt}}, from {{etyl|gem-pro|nl}} {{m|gem-pro
 * (24 hours) [[etmaal]] {{g|n}}
 
 =====Derived terms=====
-{{top4}}
-* [[Bevrijdingsdag]] {{g|m}}
-* [[dageraad]] {{g|m}}
-* [[daglicht]] {{g|n}}
-* [[goedendag]] {{g|m}}
-* [[herdenkingsdag]] {{g|m}}
-* [[Koninginnedag]] {{g|m}}
-* [[Koningsdag]] {{g|m}}
-* [[rouwdag]] {{g|m}}
-* [[sterfdag]] {{g|m}}
-* [[vandaag de dag]]
-* [[verjaardag]] {{g|m}}
-{{bottom}}
+{{der3|{{l|nl|Bevrijdingsdag|g=m}}
+|{{l|nl|dageraad|g=m}}
+|{{l|nl|daglicht|g=n}}
+|{{l|nl|goedendag|g=m}}
+|{{l|nl|herdenkingsdag|g=m}}
+|{{l|nl|Koninginnedag|g=m}}
+|{{l|nl|Koningsdag|g=m}}
+|{{l|nl|rouwdag|g=m}}
+|{{l|nl|sterfdag|g=m}}
+|{{l|nl|vandaag de dag}}
+|{{l|nl|verjaardag|g=m}}}}
 
 ====Interjection====
 {{nl-interj}}!
@@ -256,10 +254,10 @@ From {{etyl|odt|nl}} {{term|dag|lang=odt}}, from {{etyl|gem-pro|nl}} {{m|gem-pro
 * {{sense|hello}} [[hallo]], [[hoi]], [[heei]]/[[hey]], [[goedendag]]/[[goeiendag]], [[jow]] {{qualifier|familiar, Flemish}}, [[hoi]] {{qualifier|Netherlands}}
 
 ===Etymology 2===
-Germanic, cognate with English [[#English|dag]] 'hanging end, shred'.
+{{etyl|gem|nl}}, cognate with English {{m|en|dag||hanging end, shred}}.
 
 ====Alternative forms====
-* [[dagge]], [[dagh]] (all obsolete)
+* {{qualifier|obsolete}} {{l/nl|dagge}}, {{l/nl|dagh}}
 
 ====Noun====
 {{nl-noun|f|-en|dagje}}
@@ -268,11 +266,10 @@ Germanic, cognate with English [[#English|dag]] 'hanging end, shred'.
 # A [[line]] used to fasten young sailors while training [[board]]ing a hostile ship or climbing the [[rigging]]
 
 =====Synonyms=====
-* (punitive rope) [[dagtouwtje]] {{g|n}}
+* {{sense|punitive rope}} {{l|nl|dagtouwtje|g=n}}
 
 =====Derived terms=====
-* [[handdag]]
-
+* {{l/nl|handdag}}
 
 [[Category:nl:Time]]
 [[Category:nl:Greetings]]
@@ -291,9 +288,7 @@ Germanic, cognate with English [[#English|dag]] 'hanging end, shred'.
 # {{accusative of|dagur|lang=fo}}
 
 ====Derived terms====
-* [[góðan dag]]!
-
-[[Category:Faroese noun forms]]
+* {{l|fo|góðan dag!}}
 
 ----
 
@@ -309,14 +304,12 @@ Germanic, cognate with English [[#English|dag]] 'hanging end, shred'.
 ==Indonesian==
 
 ===Etymology===
-From {{etyl|nl|id}} {{term|dag|lang=nl}}, from [[goedendag]] 'goodday'.
+{{borrowing|nl|dag|lang=id}}, from {{m|nl|goedendag||goodday}}.
 
 ===Interjection===
-{{head|id|interjections}}
+{{head|id|interjection}}
 
 # [[hello]]
-
-[[Category:Indonesian interjections]]
 
 ----
 
@@ -332,10 +325,10 @@ From {{etyl|nl|id}} {{term|dag|lang=nl}}, from [[goedendag]] 'goodday'.
 ==Middle Low German==
 
 ===Alternative forms===
-* {{l|gml|dach}} (more common spelling marking pronunciation rather than morphology)
+* {{l|gml|dach}} {{qualifier|more common spelling marking pronunciation rather than morphology}}
 
 ===Etymology===
-From {{etyl|osx|gml}} {{term|dag|lang=osx}}, from {{etyl|gem-pro|gml}} {{m|gem-pro|*dagaz}}.
+From {{etyl|osx|gml}} {{m|osx|dag}}, from {{etyl|gem-pro|gml}} {{m|gem-pro|*dagaz}}.
 
 ===Pronunciation===
 * {{IPA|/dʌx/|lang=gml}}
@@ -350,7 +343,7 @@ From {{etyl|osx|gml}} {{term|dag|lang=osx}}, from {{etyl|gem-pro|gml}} {{m|gem-p
 ==Norwegian==
 
 ===Etymology===
-From {{etyl|non|no}} {{term|dagr|lang=non}}, from {{etyl|gem-pro|no}} {{m|gem-pro|*dagaz}}, from {{etyl|ine-pro|no}} {{m|ine-pro|*dʰegʷʰ-||to burn, to be illuminated}}.
+From {{etyl|non|no}} {{m|non|dagr}}, from {{etyl|gem-pro|no}} {{m|gem-pro|*dagaz}}, from {{etyl|ine-pro|no}} {{m|ine-pro|*dʰegʷʰ-||to burn, to be illuminated}}.
 
 ===Noun===
 {{head|no|noun|g=m}}
@@ -362,15 +355,12 @@ From {{etyl|non|no}} {{term|dagr|lang=non}}, from {{etyl|gem-pro|no}} {{m|gem-pr
 {{no-noun-infl|nb-class=m1|nn-class=m1}}
 
 ====Derived terms====
-{{top2}}
-* [[dagbok]]
-* [[dagslys]]
-* [[dagtid]]
-{{mid2}}
-* [[middag]]
-* [[nasjonaldag]]
-* {{l-nb|rød dag}}
-{{bottom}}
+{{der3|{{l|no|dagbok}}
+|{{l|no|dagslys}}
+|{{l|no|dagtid}}
+|{{l|no|middag}}
+|{{l|no|nasjonaldag}}
+|{{l-nb|rød dag}}}}
 
 ===References===
 * {{R:Dokumentasjonsprosjektet}}
@@ -409,7 +399,7 @@ From {{etyl|gem-pro|odt}} {{m|gem-pro|*dagaz}}, from {{etyl|ine-pro|odt}} {{m|in
 ==Old Saxon==
 
 ===Etymology===
-From {{etyl|gem-pro|osx}} {{m|gem-pro|*dagaz}}, whence also Old English ''[[dæg|dæġ]]'', Old Dutch {{term|dag|lang=odt}}, Old High German {{term|tag|lang=goh}}, Old Frisian {{term|dei|lang=ofs}}, Old Norse ''[[dagr]]''. Ultimately from {{etyl|ine-pro|osx}} {{m|ine-pro|*dʰegʷʰ-||to burn, to be illuminated}}.
+From {{etyl|gem-pro|osx}} {{m|gem-pro|*dagaz}}, (compare Old English {{m|ang|dæġ}}, Old Dutch {{m|odt|dag}}, Old High German {{m|goh|tag}}, Old Frisian {{m|ofs|dei}}, Old Norse {{m|non|dagr}}), ultimately from {{etyl|ine-pro|osx}} {{m|ine-pro|*dʰegʷʰ-||to burn, to be illuminated}}.
 
 ===Noun===
 {{osx-noun|g=m}}
@@ -428,7 +418,7 @@ From {{etyl|gem-pro|osx}} {{m|gem-pro|*dagaz}}, whence also Old English ''[[dæg
 ==Swedish==
 
 ===Etymology===
-From {{etyl|non|sv}} {{term|dagr|lang=non}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*dagaz}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*dʰegʷʰ-||to burn, to be illuminated}}.
+From {{etyl|non|sv}} {{m|non|dagr}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*dagaz}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*dʰegʷʰ-||to burn, to be illuminated}}.
 
 ===Pronunciation===
 * {{IPA|/dɑː(ɡ)/|lang=sv}}
@@ -443,186 +433,179 @@ From {{etyl|non|sv}} {{term|dagr|lang=non}}, from {{etyl|gem-pro|sv}} {{m|gem-pr
 ====Declension====
 {{sv-noun-reg-ar}}
 
-====Related terms====
-{|
-|- valign=top
-|
-* [[alla helgons dag]]
-* [[allhelgonadag]]
-* [[annandag]]
-* [[arbetsdag]]
-* [[avflyttningsdag]]
-* [[avresedag]]
-* [[barnens dag]]
-* [[bäst före-dag]]
-* [[Dag]]
-* [[daga]]
-* [[dagakarl]]
-* [[dagarvode]]
-* [[dagas]]
-* [[dagavdelning]]
-* [[dagbarn]]
-* [[dagbefäl]]
-* [[dagblad]]
-* [[dagbok]]
-* [[dagbrott]]
-* [[dagbrytning]]
-* [[dagbräckning]]
-* [[dagcenter]]
-* [[dagcentral]]
-* [[dagcentrum]]
-* [[dagdrivare]]
-* [[dagdriveri]]
-* [[dagdröm]]
-* [[dagdrömma]]
-* [[dagdrömmare]]
-* [[dagdrömmeri]]
-* [[dagen-efter-piller]]
-* [[dagen-efter-stämning]]
-* [[dager]]
-* [[dagersättning]]
-* [[dagfjäril]]
-* [[dagförbindelse]]
-* [[daghem]]
-* [[daghotell]]
-* [[dagis]]
-* [[dagjämning]]
-* [[dagkirurgi]]
-* [[dagkirurgisk]]
-|
-* [[dagledig]]
-* [[daglig]]
-* [[dagligen]]
-* [[dagligvara]]
-* [[daglilja]]
-* [[daglinne]]
-* [[daglön]]
-* [[daglönare]]
-* [[dagmamma]]
-* [[dagning]]
-* [[dagofficer]]
-* [[dagorder]]
-* [[dagordning]]
-* [[dagort]]
-* [[dagpappa]]
-* [[dagpatient]]
-* [[dagpenning]]
-* [[dagpersonal]]
-* [[dagrapport]]
-* [[dagresa]]
-* [[dagrum]]
-* [[dags]]
-* [[dagsaktualiteter]]
-* [[dagsaktuell]]
-* [[dagsarbete]]
-* [[dagsbehov]]
-* [[dagsbot]]
-* [[dagsedel]]
-* [[dagsens]]
-* [[dagsetapp]]
-* [[dagsform]]
-* [[dagsfärsk]]
-* [[dagsförtjänst]]
-* [[dagsgammal]]
-* [[dagsgenomsnitt]]
-* [[dagshändelser]]
-* [[dagsinkomst]]
-* [[dagsjukvård]]
-* [[dagskassa]]
-* [[dagskift]]
-* [[dagsklar]]
-* [[dagskonsumtion]]
-* [[dagskrönika]]
-* [[dagskurs]]
-|
-* [[dagsled]]
-* [[dagsljus]]
-* [[dagslång]]
-* [[dagsläge]]
-* [[dagslända]]
-* [[dagslön]]
-* [[dagsmarsch]]
-* [[dagsmeja]]
-* [[dagsnotering]]
-* [[dagsnyheter]]
-* [[dagspenning]]
-* [[dagspolitik]]
-* [[dagspolitisk]]
-* [[dagspress]]
-* [[dagspris]]
-* [[dagsprogram]]
-* [[dagsranson]]
-* [[dagsregn]]
-* [[dagsresa]]
-* [[dagsrutin]]
-* [[dagsschema]]
-* [[dagssituation]]
-* [[dagstemperatur]]
-* [[dagstidning]]
-* [[dagstur]]
-* [[dagsutflykt]]
-* [[dagsverkare]]
-* [[dagsverke]]
-* [[dagsvers]]
-* [[dagsvärde]]
-* [[dagsvärme]]
-* [[dagtaxa]]
-* [[dagteckna]]
-* [[dagtid]]
-* [[dagtinga]]
-* [[dagtingan]]
-* [[dagtraktamente]]
-* [[dagtåg]]
-* [[dagvatten]]
-* [[dagvill]]
-* [[dagvisa]]
-* [[dagvård]]
-* [[dagöppning]]
-* [[dygn]]
-* [[dödsdag]]
-|
-* [[festdag]]
-* [[fredag]]
-* [[fridag]]
-* [[födelsedag]]
-* [[förbrukningsdag]]
-* [[goddag]]
-* [[gårdag]]
-* [[helgdag]]
-* [[högtidsdag]]
-* [[höstdag]]
-* [[i dag]]
-* [[idag]]
-* [[jubileumsdag]]
-* [[juldag]]
-* [[kalenderdag]]
-* [[lördag]]
-* [[marknadsdag]]
-* [[mellandag]]
-* [[menlösa barns dag]]
-* [[morgondag]]
-* [[måndag]]
-* [[namnsdag]]
-* [[onsdag]]
-* [[pingstdag]]
-* [[påskdag]]
-* [[regnvädersdag]]
-* [[resdag]]
-* [[skoldag]]
-* [[skottdag]]
-* [[sommardag]]
-* [[söckendag]]
-* [[söndag]]
-* [[tisdag]]
-* [[tjugondag]]
-* [[torsdag]]
-* [[trettondag]]
-* [[tävlingsdag]]
-* [[vardag]]
-* [[vilodag]]
-* [[vinterdag]]
-* [[vårdag]]
-|}
+====Derived terms====
+{{der3|{{l|sv|alla helgons dag}}
+|{{l|sv|allhelgonadag}}
+|{{l|sv|annandag}}
+|{{l|sv|arbetsdag}}
+|{{l|sv|avflyttningsdag}}
+|{{l|sv|avresedag}}
+|{{l|sv|barnens dag}}
+|{{l|sv|bäst före-dag}}
+|{{l|sv|Dag}}
+|{{l|sv|daga}}
+|{{l|sv|dagakarl}}
+|{{l|sv|dagarvode}}
+|{{l|sv|dagas}}
+|{{l|sv|dagavdelning}}
+|{{l|sv|dagbarn}}
+|{{l|sv|dagbefäl}}
+|{{l|sv|dagblad}}
+|{{l|sv|dagbok}}
+|{{l|sv|dagbrott}}
+|{{l|sv|dagbrytning}}
+|{{l|sv|dagbräckning}}
+|{{l|sv|dagcenter}}
+|{{l|sv|dagcentral}}
+|{{l|sv|dagcentrum}}
+|{{l|sv|dagdrivare}}
+|{{l|sv|dagdriveri}}
+|{{l|sv|dagdröm}}
+|{{l|sv|dagdrömma}}
+|{{l|sv|dagdrömmare}}
+|{{l|sv|dagdrömmeri}}
+|{{l|sv|dagen-efter-piller}}
+|{{l|sv|dagen-efter-stämning}}
+|{{l|sv|dager}}
+|{{l|sv|dagersättning}}
+|{{l|sv|dagfjäril}}
+|{{l|sv|dagförbindelse}}
+|{{l|sv|daghem}}
+|{{l|sv|daghotell}}
+|{{l|sv|dagis}}
+|{{l|sv|dagjämning}}
+|{{l|sv|dagkirurgi}}
+|{{l|sv|dagkirurgisk}}
+|{{l|sv|dagledig}}
+|{{l|sv|daglig}}
+|{{l|sv|dagligen}}
+|{{l|sv|dagligvara}}
+|{{l|sv|daglilja}}
+|{{l|sv|daglinne}}
+|{{l|sv|daglön}}
+|{{l|sv|daglönare}}
+|{{l|sv|dagmamma}}
+|{{l|sv|dagning}}
+|{{l|sv|dagofficer}}
+|{{l|sv|dagorder}}
+|{{l|sv|dagordning}}
+|{{l|sv|dagort}}
+|{{l|sv|dagpappa}}
+|{{l|sv|dagpatient}}
+|{{l|sv|dagpenning}}
+|{{l|sv|dagpersonal}}
+|{{l|sv|dagrapport}}
+|{{l|sv|dagresa}}
+|{{l|sv|dagrum}}
+|{{l|sv|dags}}
+|{{l|sv|dagsaktualiteter}}
+|{{l|sv|dagsaktuell}}
+|{{l|sv|dagsarbete}}
+|{{l|sv|dagsbehov}}
+|{{l|sv|dagsbot}}
+|{{l|sv|dagsedel}}
+|{{l|sv|dagsens}}
+|{{l|sv|dagsetapp}}
+|{{l|sv|dagsform}}
+|{{l|sv|dagsfärsk}}
+|{{l|sv|dagsförtjänst}}
+|{{l|sv|dagsgammal}}
+|{{l|sv|dagsgenomsnitt}}
+|{{l|sv|dagshändelser}}
+|{{l|sv|dagsinkomst}}
+|{{l|sv|dagsjukvård}}
+|{{l|sv|dagskassa}}
+|{{l|sv|dagskift}}
+|{{l|sv|dagsklar}}
+|{{l|sv|dagskonsumtion}}
+|{{l|sv|dagskrönika}}
+|{{l|sv|dagskurs}}
+|{{l|sv|dagsled}}
+|{{l|sv|dagsljus}}
+|{{l|sv|dagslång}}
+|{{l|sv|dagsläge}}
+|{{l|sv|dagslända}}
+|{{l|sv|dagslön}}
+|{{l|sv|dagsmarsch}}
+|{{l|sv|dagsmeja}}
+|{{l|sv|dagsnotering}}
+|{{l|sv|dagsnyheter}}
+|{{l|sv|dagspenning}}
+|{{l|sv|dagspolitik}}
+|{{l|sv|dagspolitisk}}
+|{{l|sv|dagspress}}
+|{{l|sv|dagspris}}
+|{{l|sv|dagsprogram}}
+|{{l|sv|dagsranson}}
+|{{l|sv|dagsregn}}
+|{{l|sv|dagsresa}}
+|{{l|sv|dagsrutin}}
+|{{l|sv|dagsschema}}
+|{{l|sv|dagssituation}}
+|{{l|sv|dagstemperatur}}
+|{{l|sv|dagstidning}}
+|{{l|sv|dagstur}}
+|{{l|sv|dagsutflykt}}
+|{{l|sv|dagsverkare}}
+|{{l|sv|dagsverke}}
+|{{l|sv|dagsvers}}
+|{{l|sv|dagsvärde}}
+|{{l|sv|dagsvärme}}
+|{{l|sv|dagtaxa}}
+|{{l|sv|dagteckna}}
+|{{l|sv|dagtid}}
+|{{l|sv|dagtinga}}
+|{{l|sv|dagtingan}}
+|{{l|sv|dagtraktamente}}
+|{{l|sv|dagtåg}}
+|{{l|sv|dagvatten}}
+|{{l|sv|dagvill}}
+|{{l|sv|dagvisa}}
+|{{l|sv|dagvård}}
+|{{l|sv|dagöppning}}
+|{{l|sv|dygn}}
+|{{l|sv|dödsdag}}
+|{{l|sv|festdag}}
+|{{l|sv|fredag}}
+|{{l|sv|fridag}}
+|{{l|sv|födelsedag}}
+|{{l|sv|förbrukningsdag}}
+|{{l|sv|goddag}}
+|{{l|sv|gårdag}}
+|{{l|sv|helgdag}}
+|{{l|sv|högtidsdag}}
+|{{l|sv|höstdag}}
+|{{l|sv|i dag}}
+|{{l|sv|idag}}
+|{{l|sv|jubileumsdag}}
+|{{l|sv|juldag}}
+|{{l|sv|kalenderdag}}
+|{{l|sv|lördag}}
+|{{l|sv|marknadsdag}}
+|{{l|sv|mellandag}}
+|{{l|sv|menlösa barns dag}}
+|{{l|sv|morgondag}}
+|{{l|sv|måndag}}
+|{{l|sv|namnsdag}}
+|{{l|sv|onsdag}}
+|{{l|sv|pingstdag}}
+|{{l|sv|påskdag}}
+|{{l|sv|regnvädersdag}}
+|{{l|sv|resdag}}
+|{{l|sv|skoldag}}
+|{{l|sv|skottdag}}
+|{{l|sv|sommardag}}
+|{{l|sv|söckendag}}
+|{{l|sv|söndag}}
+|{{l|sv|tisdag}}
+|{{l|sv|tjugondag}}
+|{{l|sv|torsdag}}
+|{{l|sv|trettondag}}
+|{{l|sv|tävlingsdag}}
+|{{l|sv|vardag}}
+|{{l|sv|vilodag}}
+|{{l|sv|vinterdag}}
+|{{l|sv|vårdag}}}}
 
 ===References===
 * {{R:SAOL}}
