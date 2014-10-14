@@ -22,14 +22,14 @@
 
 ====Translations====
 {{trans-top|details of the food to be served at a banquet}}
-* Arabic: {{t|ar|قائمة|f|tr=qāʾima}}
-* Armenian: {{t|hy|ճաշացուցակ|tr=čašac’uc’ak}}, {{t|hy|մենյու|sc=Armn}}
+* Arabic: {{t|ar|قَائِمَة|f}}
+* Armenian: {{t|hy|ճաշացուցակ}}, {{t|hy|մենյու|sc=Armn}}
 * Azeri: {{t|az|menyu}}
 * Belarusian: {{t|be|меню́|n|sc=Cyrl}}
 * Bulgarian: {{t|bg|меню́|n|sc=Cyrl}}
 * Catalan: {{t|ca|menú|m}}
 * Chinese:
-*: Mandarin: {{t|cmn|菜單|sc=Hani}}, {{t+|cmn|菜单|tr=càidān|sc=Hani}}
+*: Mandarin: {{t+|cmn|菜單|sc=Hani}}, {{t+|cmn|菜单|tr=càidān|sc=Hani}}
 * Czech: {{t|cs|jídelní lístek|m}}
 * Danish: {{t|da|spisekort|n}}, {{t|da|menu|c}}
 * Dutch: {{t|nl|menukaart|f}}, {{t+|nl|menu|n}}
@@ -38,17 +38,17 @@
 * French: {{t+|fr|carte|f}}, {{t+|fr|menu|m}}
 * Georgian: {{t|ka|მენიუ|sc=Geor}}
 * German: {{t+|de|Menü|n}}
-* Greek: {{t+|el|εδεσματολόγιο|n|tr=edesmatológhio}}, {{t+|el|κατάλογος|m|tr=katáloghos}}
+* Greek: {{t+|el|εδεσματολόγιο|n}}, {{t+|el|κατάλογος|m}}
 * Hindi: {{t|hi|मेनू|tr=menū|sc=Deva}}
 * Hungarian: {{t+|hu|menü}}
 * Irish: {{t|ga|biachlár|m}}
 * Italian: {{t+|it|carta|f}}
-* Japanese: {{t+|ja|メニュー|tr=menyū}}, {{t|ja|お品書き|tr=oshinagaki}}
+* Japanese: {{t+|ja|メニュー|tr=menyū}}, {{t|ja|お品書き|tr= おしながき, oshinagaki}}
 * Kazakh: {{t|kk|асмәрізі|sc=Cyrl}}
 {{trans-mid}}
 * Khmer: {{t|km|ម៉ឺនុយ|tr=məɨnuy|sc=Khmr}}, {{t|km|បញ្ជីមុខម្ហូប|tr=bɑɲcii muk mhoop|sc=Khmr}}
 * Korean: {{t+|ko|메뉴|sc=Hang}}, {{t+|ko|차림표|sc=Hang}}
-* Lao: {{t|lo|ເມນູ|tr=menu|sc=Laoo}}
+* Lao: {{t|lo|ເມນູ|sc=Laoo}}
 * Latvian: {{t|lv|ēdienkarte|f}}
 * Lithuanian: {{t+|lt|meniu}}
 * Macedonian: {{t|mk|мени́|n}}
@@ -59,9 +59,11 @@
 * Polish: {{t+|pl|menu|n}}
 * Portuguese: {{t+|pt|cardápio}}, {{t+|pt|menu}}
 * Romanian: {{t+|ro|meniu}}
-* Russian: {{t+|ru|tr=menʲi|меню|n}}
+* Russian: {{t+|ru|меню́|n}}
 * Scottish Gaelic: {{t|gd|cairt-bidhe|f}}, {{t|gd|clàr-bìdhe|m}}
-* Serbo-Croatian: {{t|sh|mènī|m}}, {{t|sh|jelòvnīk|m}}, {{t|sh|мени|m}}, {{t|sh|јеловник|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|мени|m}}, {{t|sh|јеловник|m}}
+*: Roman: {{t|sh|mènī|m}}, {{t|sh|jelòvnīk|m}}
 * Slovak: {{t|sk|jedálny lístok|m}}
 * Slovene: {{t|sl|meni|m}}, {{t|sl|jedilnik|m}}
 * Spanish: {{t+|es|menú|m}}, {{t+|es|carta|f}}
@@ -74,20 +76,20 @@
 {{trans-bottom}}
 
 {{trans-top|printed list of dishes offered in a restaurant}}
-* Arabic: {{t|ar|قائمة|f|tr=qāʾima}}
-* Armenian: {{t|hy|ճաշացուցակ|tr=čašac’uc’ak}}
+* Arabic: {{t|ar|قَائِمَة|f}}
+* Armenian: {{t|hy|ճաշացուցակ}}
 * Catalan: {{t|ca|menú|m}}
 * Chinese:
-*: Mandarin: {{t|cmn|菜單|sc=Hani}}, {{t+|cmn|菜单|tr=càidān|sc=Hani}}
+*: Mandarin: {{t+|cmn|菜單|sc=Hani}}, {{t+|cmn|菜单|tr=càidān|sc=Hani}}
 * Czech: {{t|cs|jídelní lístek|m}}
 * Danish: {{t|da|menu}}
 * Finnish: {{t+|fi|menyy}}, {{t+|fi|ruokalista}}
 * French: {{t+|fr|carte|f}}, {{t+|fr|menu|m}}
 * German: {{t+|de|Speisekarte|f}}
-* Greek: {{t+|el|μενού|n|tr=menoú}}, {{t+|el|κατάλογος|m|tr=katáloghos}}, {{t+|el|εδεσματολόγιο|n|tr=edesmatológhio}}
+* Greek: {{t+|el|μενού|n}}, {{t+|el|κατάλογος|m}}, {{t+|el|εδεσματολόγιο|n}}
 * Hungarian: {{t+|hu|menü}}, {{t+|hu|étlap}}
 * Irish: {{t|ga|biachlár|m}}
-* Japanese: {{t+|ja|メニュー|tr=menyū}}, {{t|ja|おしながき|sc=Jpan}}, {{t|ja|おしながき|tr=oshinagaki|sc=Jpan}}
+* Japanese: {{t+|ja|メニュー|tr=menyū}}, {{t|ja|おしながき|tr= おしながき, oshinagaki|sc=Jpan}}
 * Korean: {{t+|ko|메뉴|sc=Kore}}
 {{trans-mid}}
 * Lao: {{t|lo|ລາຍການອາຫານ|sc=Laoo}}
@@ -97,7 +99,7 @@
 * Persian: {{t|fa|منو|tr=meno}}, {{t|fa|صورت‌غذا|tr=surat-ğazâ|sc=fa-Arab}}
 * Polish: {{t+|pl|menu|n}}
 * Portuguese: {{t+|pt|cardápio}}, {{t+|pt|menu}}
-* Russian: {{t+|ru|tr=menʲi|меню|n}}
+* Russian: {{t+|ru|меню́|n}}
 * Scottish Gaelic: {{t|gd|cairt-bidhe|f}}
 * Serbo-Croatian: {{t|sh|mènī|m}}, {{t|sh|jelòvnīk|m}}
 * Spanish: {{t+|es|menú|m}}, {{t+|es|carta|f}}
@@ -109,16 +111,16 @@
 {{trans-bottom}}
 
 {{trans-top|list from which the user may select an operation to be performed}}
-* Arabic: {{t|ar|قائمة|f|tr=qāʾima}}
+* Arabic: {{t|ar|قَائِمَة|f}}
 * Catalan: {{t|ca|menú|m}}
 * Chinese:
-*: Mandarin: {{t|cmn|項目單|sc=Hani}}, {{t|cmn|项目单|tr=xiàngmùdān|sc=Hani}}, {{t|cmn|項目表|sc=Hani}}, {{t|cmn|项目表|tr=xiàngmùbiǎo|sc=Hani}}, {{t+|cmn|選單|sc=Hani}}, {{t|cmn|选单|tr=xuǎndān|sc=Hani}}, {{t|cmn|選項單|sc=Hani}}, {{t|cmn|选项单|tr=xuǎnxiàngdān|sc=Hani}}
+*: Mandarin: {{t|cmn|項目單|sc=Hani}}, {{t|cmn|项目单|tr=xiàngmùdān|sc=Hani}}, {{t|cmn|項目表|sc=Hani}}, {{t|cmn|项目表|tr=xiàngmùbiǎo|sc=Hani}}, {{t+|cmn|選單|sc=Hani}}, {{t+|cmn|选单|tr=xuǎndān|sc=Hani}}, {{t|cmn|選項單|sc=Hani}}, {{t|cmn|选项单|tr=xuǎnxiàngdān|sc=Hani}}
 * Czech: {{t+|cs|nabídka|f}}, {{t|cs|menu|n}}
 * Dutch: {{t+|nl|menu|n}}
 * Finnish: {{t+|fi|menu}}, {{t|fi|valikko}}
 * French: {{t+|fr|menu|m}}
 * German: {{t+|de|Menü|n}}
-* Greek: {{t+|el|μενού|n|tr=menoú}}, {{t+|el|κατάλογος|m|tr=katáloghos}}
+* Greek: {{t+|el|μενού|n}}, {{t+|el|κατάλογος|m}}
 * Irish: {{t|ga|roghchlár|m}}
 * Japanese: {{t+|ja|メニュー|tr=menyū}}
 {{trans-mid}}
@@ -127,22 +129,18 @@
 * Latvian: {{t|lv|izvēlne|f}}
 * Macedonian: {{t|mk|мени́|n}}
 * Norwegian:
-** Bokmål: {{t|nb|meny|m}}
+*: Bokmål: {{t|nb|meny|m}}
 * Persian: {{t|fa|منو|tr=meno}}, {{t|fa|فهرست|tr=fehrest}}
 * Polish: {{t+|pl|menu|n}}
 * Portuguese: {{t+|pt|menu}}
 * Romanian: {{t+|ro|meniu|n}}
-* Russian: {{t+|ru|tr=menʲi|меню|n}}
+* Russian: {{t+|ru|меню́|n}}
 * Scottish Gaelic: {{t|gd|clàr-iùil|m}}
 * Serbo-Croatian: {{t|sh|mènī|m}}, {{t|sh|ìzbōrnīk|m}}
 * Spanish: {{t+|es|menú|m}}
 * Swedish: {{t+|sv|meny|c}}
 * Turkish: {{t+|tr|menü}}
 * Welsh: {{t|cy|dewislen|f}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Vietnamese: {{t+check|vi|thực đơn}}
 {{trans-bottom}}
 
 ===See also===
