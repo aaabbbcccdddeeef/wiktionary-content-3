@@ -38,13 +38,18 @@
 * Finnish: {{t|fi|villikissa}}, {{t|fi|metsäkissa}}
 * German: {{t+|de|Wildkatze|f}}
 * Greek: {{t+|el|αγριόγατα|f}}
-{{trans-mid}}
 * Hungarian: {{t+|hu|vadmacska}}
+* Irish: {{t|ga|fia-chat|m}}
 * Japanese: {{t|ja|ヤマネコ|tr=yamaneko|sc=Jpan}}, {{t+|ja|山猫|tr=やまねこ, yamaneko|sc=Jpan}}
+{{trans-mid}}
 * Northern Sami: {{t|se|vildabussá}}, {{t|se|meahccebussá}}
 * Polish: {{t+|pl|żbik|m}}
-* Russian: {{t|ru|лесная кошка|f|tr=lesnája kóška|sc=Cyrl}}, {{t|ru|лесной кот|m|tr=lesnój kot|sc=Cyrl}}, {{t|ru|дикая кошка|f|tr=díkaja kóška|sc=Cyrl}}
+* Russian: {{t|ru|лесна́я ко́шка|f}}, {{t|ru|лесно́й кот|m}}, {{t|ru|ди́кая ко́шка|f}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|źiwa kocka|f}}
+*: Upper Sorbian: {{t|hsb|dźiwja kóčka|f}}
 * Spanish: {{t+|es|gato montés|m}}, {{t|es|gato salvaje|m}}
+* Welsh: {{t|cy|cath wyllt|f}}
 {{trans-bottom}}
 
 {{trans-top|undomesticated cat}}
@@ -55,7 +60,7 @@
 * German: {{t+|de|Wildkatze|f}}, {{t|de|streunende Katze|f}}
 * Finnish: {{t|fi|villikissa}}
 * Hungarian: {{t+|hu|vadmacska}}
-* Russian: {{t|ru|дикая кошка|f|tr=díkaja kóška|sc=Cyrl}}, {{t|ru|дикий кот|m|tr=díkij kot|sc=Cyrl}} {{qualifier|male}}
+* Russian: {{t|ru|ди́кая ко́шка|f}}, {{t|ru|ди́кий кот|m}} {{qualifier|male}}
 {{trans-bottom}}
 
 {{trans-top|person who acts like a wildcat}}
@@ -67,15 +72,15 @@
 {{trans-top|unauthorized industrial action}}
 * Finnish: {{t+|fi|korpilakko}}
 {{trans-mid}}
-* Russian: {{t+|ru|скважина|f|tr=svážina|sc=Cyrl}} {{qualifier|пробурённая науга́д - no exact term exists}}
+* Russian: {{t|ru|[[сква́жина]] [[пробурённая]] [[науга́д]]|f}} {{qualifier|no exact term exists}}
 {{trans-bottom}}
 
-{{ttbc-top|bobcat}}<!-- ??? -->
+{{ttbc-top}}<!-- Please move any terms referring to the Old-World species Felis silvestris to the table above. If any terms refer to the New-World species Lynx rufus, please move them to [[bobcat]] and delete them here. -->
 * Albanian: {{t-check|sq|macja e egër}}
 * Basque: {{t-check|eu|basakatu}}
 * Belarusian: {{t-check|be|кошка лясная|sc=Cyrl}}
 * Breton: {{t-check|br|kazh gouez}}
-* Bulgarian: {{t-check|bg|дива котка|tr=[[diva kotka]]|sc=Cyrl}}
+* Bulgarian: {{t-check|bg|дива котка}}
 * Catalan: {{t-check|ca|gat salvatge}}
 * Czech: {{t-check|cs|kočka divoká}}
 * Danish: {{t-check|da|vildkat}}
@@ -90,15 +95,13 @@
 * Hungarian: {{t+check|hu|vadmacska}}
 * Icelandic: {{t+check|is|villiköttur}}, {{t-check|is|skógarköttur}}
 * Indonesian: {{t-check|id|kucing liar}}
-* Irish: {{t-check|ga|cat fiáin eorpach}}
 * Italian: {{t-check|it|gatto selvatico|m}}
 * Korean: {{t+check|ko|살쾡이|sc=Hang}}
 * Ladin: {{t-check|lld|giat salvare}}
 * Latvian: {{t-check|lv|karstgalvis?}}
 * Lithuanian: {{t-check|lt|miškinė katė}}
-* Lower Sorbian: {{t-check|dsb|źiwa kocka}}
 {{trans-mid}}
-* Macedonian: {{t-check|mk|дива мачка|tr=[[diva mačka]]|sc=Cyrl}}
+* Macedonian: {{t-check|mk|дива мачка}}
 * Maltese: {{t-check|mt|qattus salvaġġ}}
 * Maricopa: {{t-check|mrc|mipukwimisish}}
 * Norwegian: {{t-check|no|villkatt}}, {{t-check|no|skogkatt}}
@@ -117,10 +120,8 @@
 * Spanish: {{t+check|es|gato montés|m}}, {{t-check|es|gato silvestre|m}}
 * Swedish: {{t-check|sv|vildkatt|c}}
 * Turkish: {{t+check|tr|yaban kedisi}}
-* Ukrainian: {{t-check|uk|кіт лісовий|tr=[[kit lisovij]]|sc=Cyrl}}
-* Upper Sorbian: {{t-check|hsb|dźiwja kóčka}}
+* Ukrainian: {{t-check|uk|кіт лісовий}}
 * Volapük: {{qualifier|male or female}} {{t-check|vo|natädakat}}, {{qualifier|male}} {{t-check|vo|natädahikat}}, {{qualifier|female}} {{t-check|vo|natädajikat}}
-* Welsh: {{t-check|cy|cath wyllt}}
 * West Frisian: {{t-check|fy|wylde kat}}
 * Wolof: {{t+check|wo|siiru|alt=siiru si}}
 {{trans-bottom}}
