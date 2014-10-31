@@ -2,7 +2,7 @@
 ==English==
 {{letter_disp2|sigma|[[image:Greek_uc_tau.svg|35px]][[image:Greek_lc_tau.png|25px]] |upsilon|ταῦ|Τ|τ}}
 ===Etymology===
-From {{etyl|grc|en}} {{term|ταῦ|tr=tau|lang=grc}}.
+{{borrowing|grc|ταῦ|lang=en}}.
 
 ===Pronunciation===
 * {{IPA|/taʊ/|/tɔː/|lang=en}}
@@ -13,19 +13,19 @@ From {{etyl|grc|en}} {{term|ταῦ|tr=tau|lang=grc}}.
 # The name of the letter [[Τ]]/[[τ]] in the Greek, Hebrew and ancient Semitic alphabets, being the nineteenth letter of the [[Classical Greek|Classical]] and [[Modern Greek]], the twenty-first letter of [[Old Greek|Old]] and [[Ancient Greek|Ancient]] Greek.
 # A {{lang|grc|Τ}}-shaped sign or structure; a [[St. Anthony's cross]], sometimes considered as a sacred symbol.
 #* '''1658''': Nor shall we take in the mysticall '''''Tau''''', or the Crosse of our blessed Saviour, which having in some descriptions an ''Empedon'' or crossing foot-stay, made not one single transversion. — Sir Thomas Browne, ''The Garden of Cyrus'' (Folio Society 2007, p. 168)
-# {{context|particle|dated|lang=en}} A [[tau meson]], now usually known as a [[kaon]].
-# {{context|particle|lang=en}} An unstable heavy [[lepton]], which decays into a [[muon]] or [[electron]]; a [[tauon]].
-# {{context|biology|lang=en}} A type of [[protein]] used to stabilise [[microtubule]]s.
+# {{label|en|particle|dated}} A [[tau meson]], now usually known as a [[kaon]].
+# {{label|en|particle}} An unstable heavy [[lepton]], which decays into a [[muon]] or [[electron]]; a [[tauon]].
+# {{label|en|biology}} A type of [[protein]] used to stabilise [[microtubule]]s.
 #* '''1999''', {{w|Matt Ridley}}, ''Genome'', Harper Perennial 2004, p. 263:
 #*: Quite what that job is remains obscure, but one theory is that it is to stabilise another protein called '''tau''', which is supposed in turn to keep in shape the tubular ‘skeleton’ of a neuron.
-# {{context|mathematics|neologism|lang=en}} A [[constant]] equal to twice the value of [[pi]]; often written [[τ]].
+# {{label|en|mathematics|neologism}} A [[constant]] equal to twice the value of [[pi]]; often written [[τ]].
 
 ====Coordinate terms====
 * {{sense|Greek letter}} Previous: [[sigma]].  Next: [[upsilon]]
 
 ====Translations====
 {{trans-top|Greek letter}}
-* Arabic: {{t|ar|تاو|m|tr=tau|sc=Arab}}
+* Arabic: {{t|ar|تاو|m|tr=tau}}
 * Catalan: {{t|ca|tau|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|套|tr=tào|sc=Hani}}
@@ -35,14 +35,14 @@ From {{etyl|grc|en}} {{term|ταῦ|tr=tau|lang=grc}}.
 * French: {{t+|fr|tau|m}}
 * German: {{t+|de|Tau|n}}
 {{trans-mid}}
-* Greek: {{t+|el|ταυ|n|tr=tau}}
+* Greek: {{t+|el|ταυ|n}}
 * Icelandic: {{t+|is|tá|n}}
-* Interlingua: [[#Interlingua|tau]]
+* Interlingua: {{t|ia|tau}}
 * Japanese: {{t|ja|タウ|tr=tau|sc=Jpan}}
 * Korean: {{t+|ko|타우|sc=Kore}}
 * Malay: {{t|ms|tau}}
 * Portuguese: {{t+|pt|tau|m}}
-* Russian: {{t+|ru|тау|n|tr=táu|sc=Cyrl}}
+* Russian: {{t+|ru|та́у|n}}
 * Spanish: {{t+|es|tau|f}}
 * Swedish: {{t+|sv|tau}}
 {{trans-bottom}}
@@ -64,7 +64,7 @@ From {{etyl|grc|en}} {{term|ταῦ|tr=tau|lang=grc}}.
 {{trans-bottom}}
 
 ===Anagrams===
-* [[AUT#English|AUT]]
+* {{l/en|AUT}}
 
 [[Category:en:Greek letter names]]
 [[Category:en:Leptons]]
@@ -78,7 +78,7 @@ From {{etyl|grc|en}} {{term|ταῦ|tr=tau|lang=grc}}.
 
 # [[tau#English|Tau]]; the [[Appendix:Greek alphabet|Greek]] letter [[Τ]] (lowercase [[τ]]).
 # [[tav|Tav]]; the [[Appendix:Hebrew alphabet|Hebrew]] letter {{lang|und|sc=Hebr|[[ת|ת]]}}.
-# {{context|religion|lang=ca}} A [[tau cross]].
+# {{label|ca|religion}} A [[tau cross]].
 
 [[Category:ca:Greek letter names]]
 [[Category:ca:Hebrew letter names]]
@@ -99,10 +99,9 @@ From {{etyl|grc|en}} {{term|ταῦ|tr=tau|lang=grc}}.
 ==Finnish==
 
 ===Etymology===
-< {{etyl|grc|fi}} {{term|lang=grc|ταῦ}}
+{{borrowing|grc|ταῦ|lang=fi}}.
 {{enum|sigma|ypsilon|Greek letter|Ττ|lang=fi}}
 {{wikipedia|lang=fi|Tau}}
-
 ===Pronunciation===
 * {{IPA|/ˈtɑu/|lang=fi}}
 * {{hyphenation|tau|lang=fi}}
@@ -130,15 +129,14 @@ From {{etyl|grc|en}} {{term|ταῦ|tr=tau|lang=grc}}.
 {{fr-noun|m|tau}}
 
 # {{l/en|tau}} {{gloss|Greek letter}}
-# {{context|particle|lang=fr}} [[#English|tau]], [[#English|tauon]]
+# {{label|fr|particle}} [[#English|tau]], [[#English|tauon]]
 
 ===Anagrams===
-* [[tua#French|tua]]
+* {{l/fr|tua}}
 
 ===External links===
 * {{R:TLFi}}
 
-[[Category:French masculine nouns]]
 [[Category:fr:Greek letter names]]
 
 ----
@@ -146,7 +144,7 @@ From {{etyl|grc|en}} {{term|ταῦ|tr=tau|lang=grc}}.
 ==Icelandic==
 
 ===Etymology===
-From {{etyl|da|is}} {{term|tøj|lang=da}}.
+{{borrowing|da|tøj|lang=is}}.
 
 ===Pronunciation===
 * {{IPA|/tøyː/|lang=is}}
@@ -172,7 +170,7 @@ From {{etyl|da|is}} {{term|tøj|lang=da}}.
 # {{l/en|tau}} (Greek letter)
 
 ===Anagrams===
-* [[tua#Italian|tua]]
+* {{l/it|tua}}
 
 [[Category:it:Greek letter names]]
 
@@ -190,7 +188,7 @@ From {{etyl|da|is}} {{term|tøj|lang=da}}.
 ==Lithuanian==
 
 ===Pronoun===
-{{head|lt}}
+{{head|lt|pronoun form}}
 
 # {{lt-form-pronoun|2s|d|tu}}
 
@@ -237,7 +235,7 @@ From {{etyl|poz-pol-pro|mi}} {{m|poz-pol-pro|*taqu}}, from {{etyl|poz-oce-pro|mi
 # [[year]] {{gloss|level or grade at school or college}}
 
 ===Etymology 2===
-From {{etyl|poz-pol-pro|mi}} {{m|poz-pol-pro|*tau}} (compare {{etyl|haw|-}} {{term|kau|lang=haw}}, {{etyl|niu|-}} {{term|tau|lang=niu}}, {{etyl|to|-}} {{term|tau|lang=to}}), from {{etyl|poz-oce-pro|mi}}, from {{etyl|poz-pro|mi}} {{m|poz-pro|*taʀuq}} (compare {{etyl|id|-}} {{term|taruh|lang=id}}, {{etyl|mg|-}} {{term|tao|lang=mg}}, {{etyl|ms|-}} {{term|taruh|lang=ms}}).
+From {{etyl|poz-pol-pro|mi}} {{m|poz-pol-pro|*tau}} (compare {{etyl|haw|-}} {{m|haw|kau}}, {{etyl|niu|-}} {{m|niu|tau}}, {{etyl|to|-}} {{m|to|tau}}), from {{etyl|poz-oce-pro|mi}}, from {{etyl|poz-pro|mi}} {{m|poz-pro|*taʀuq}} (compare {{etyl|id|-}} {{m|id|taruh}}, {{etyl|mg|-}} {{m|mg|tao}}, {{etyl|ms|-}} {{m|ms|taruh}}).
 
 ====Verb====
 {{mi-verb}}
@@ -265,7 +263,7 @@ From {{etyl|poz-pol-pro|niu}} {{m|poz-pol-pro|*taqu}}, from {{etyl|poz-oce-pro|n
 # [[year]] {{gloss|level or grade at school or college}}
 
 ===Etymology 2===
-From {{etyl|poz-pol-pro|niu}} {{m|poz-pol-pro|*tau}} (compare {{etyl|haw|-}} {{term|kau|lang=haw}}, {{etyl|mi|-}} {{term|tau|lang=mi}}, {{etyl|to|-}} {{term|tau|lang=to}}), from {{etyl|poz-oce-pro|niu}}, from {{etyl|poz-pro|niu}} {{m|poz-pro|*taʀuq}} (compare {{etyl|id|-}} {{term|taruh|lang=id}}, {{etyl|mg|-}} {{term|tao|lang=mg}}, {{etyl|ms|-}} {{term|taruh|lang=ms}}).
+From {{etyl|poz-pol-pro|niu}} {{m|poz-pol-pro|*tau}} (compare {{etyl|haw|-}} {{m|haw|kau}}, {{etyl|mi|-}} {{m|mi|tau}}, {{etyl|to|-}} {{m|to|tau}}), from {{etyl|poz-oce-pro|niu}}, from {{etyl|poz-pro|niu}} {{m|poz-pro|*taʀuq}} (compare {{etyl|id|-}} {{m|id|taruh}}, {{etyl|mg|-}} {{m|mg|tao}}, {{etyl|ms|-}} {{m|ms|taruh}}).
 
 ====Verb====
 {{head|niu|verb}}
@@ -280,20 +278,20 @@ From {{etyl|poz-pol-pro|niu}} {{m|poz-pol-pro|*tau}} (compare {{etyl|haw|-}} {{t
 ==Norwegian==
 
 ===Alternative forms===
-* {{l|nn|tog}} (Nynorsk)
+* {{l|nn|tog}} {{qualifier|Nynorsk}}
 
 ===Noun===
-{{head|no|noun}}
+{{no-noun}}
 
 # [[rope]]
-# {{context|physics|lang=no}} {{l/en|tau}} lepton
+# {{label|no|physics}} {{l/en|tau}} lepton
 # {{l/en|tau}} (Greek letter)
-
-====Synonyms====
-* {{sense|rope}} {{l|no|rep}}
 
 ====Inflection====
 {{no-noun-infl|nb-class=n1|nn-class=n1}}
+
+====Synonyms====
+* {{sense|rope}} {{l|no|rep}}
 
 [[Category:no:Greek letter names]]
 
@@ -338,17 +336,18 @@ From {{etyl|poz-pol-pro|niu}} {{m|poz-pol-pro|*tau}} (compare {{etyl|haw|-}} {{t
 # [[some]]
 
 ====Synonyms====
-* [[nau]]
+* {{l|ty|nau}}
 
 ====References====
 * {{R:LTC}}
 * {{R:TahitianAcademy}}
+
 ----
 
 ==Tongan==
 
 ===Etymology===
-From {{etyl|poz-pol-pro|to}} {{m|poz-pol-pro|*tau}} (compare {{etyl|haw|-}} {{term|kau|lang=haw}}, {{etyl|mi|-}} {{term|tau|lang=mi}}, {{etyl|niu|-}} {{term|tau|lang=niu}}), from {{etyl|poz-oce-pro|to}}, from {{etyl|poz-pro|to}} {{m|poz-pro|*taʀuq}} (compare {{etyl|id|-}} {{term|taruh|lang=id}}, {{etyl|mg|-}} {{term|tao|lang=mg}}, {{etyl|ms|-}} {{term|taruh|lang=ms}}).
+From {{etyl|poz-pol-pro|to}} {{m|poz-pol-pro|*tau}} (compare {{etyl|haw|-}} {{m|haw|kau}}, {{etyl|mi|-}} {{m|mi|tau}}, {{etyl|niu|-}} {{m|niu|tau}}), from {{etyl|poz-oce-pro|to}}, from {{etyl|poz-pro|to}} {{m|poz-pro|*taʀuq}} (compare {{etyl|id|-}} {{m|id|taruh}}, {{etyl|mg|-}} {{m|mg|tao}}, {{etyl|ms|-}} {{m|ms|taruh}}).
 
 ===Verb===
 {{head|to|verb}}
