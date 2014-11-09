@@ -14,22 +14,22 @@
 ====Noun====
 {{en-noun|~}}
 
-# {{context|countable|lang=en}} A loud, sharp sound as of a cork coming out of a bottle.
-#: ''Listen to the '''pop''' of a champagne cork.''
-# {{context|uncountable|regional|especially|Midwest US|lang=en}} An [[effervescent]] or [[fizzy]] drink, most frequently [[nonalcoholic]]; [[soda pop]].
+# {{label|en|countable}} A loud, sharp sound as of a cork coming out of a bottle.
+#: {{usex|Listen to the '''pop''' of a champagne cork.|lang=en}}
+# {{label|en|uncountable|regional|especially|Midwest US}} An [[effervescent]] or [[fizzy]] drink, most frequently [[nonalcoholic]]; [[soda pop]].
 #* '''1941''', ''LIFE'' magazine, 8 September 1941, page 27:
 #*: The best thing on the table was a tray full of bottles of lemon '''pop'''.
-# {{context|countable|regional|especially|Midwest US|lang=en}} A bottle, can, or serving of [[effervescent]] or [[fizzy]] drink, most frequently [[nonalcoholic]]; [[soda pop]].
-#: ''Go in the store and buy us three '''pops'''.''
+# {{label|en|countable|regional|especially|Midwest US}} A bottle, can, or serving of [[effervescent]] or [[fizzy]] drink, most frequently [[nonalcoholic]]; [[soda pop]].
+#: {{usex|Go in the store and buy us three '''pops'''.|lang=en}}
 # Shortened from {{term|pop shot}}: a quick, possibly unaimed, shot with a [[firearm]]. Possibly confusion, by [[assonance]], with {{term|pot}} as in {{term|pot shot}}.
-#: ''The man with the gun took a '''pop''' at the rabbit.''
-# {{context|colloquial|lang=en}} A [[portion]], a quantity dispensed.
-#: ''They cost 50 pence a '''pop'''.''
-# {{context|computing|lang=en}} The removal of a data item from the top of a [[stack]].
+#: {{usex|The man with the gun took a '''pop''' at the rabbit.|lang=en}}
+# {{label|en|colloquial}} A [[portion]], a quantity dispensed.
+#: {{usex|They cost 50 pence a '''pop'''.|lang=en}}
+# {{label|en|computing}} The removal of a data item from the top of a [[stack]].
 #* '''2011''', Mark Lutz, ''Programming Python'', page 1371:
-#*: Pushes and '''pops''' change the stack; indexing just accesses it.
-# A bird, the European redwing.
-# {{context|physics|lang=en}} The sixth [[derivative]] of the [[position]] vector with respect to time (after [[velocity]], [[acceleration]], [[jerk]], [[jounce]], [[crackle]]), i.e. the rate of change of crackle.
+#*: {{usex|Pushes and '''pops''' change the stack; indexing just accesses it.|lang=en}}
+# A bird, the European [[redwing]].
+# {{label|en|physics}} The sixth [[derivative]] of the [[position]] vector with respect to time (after [[velocity]], [[acceleration]], [[jerk]], [[jounce]], [[crackle]]), i.e. the rate of change of crackle.
 
 ====Synonyms====
 * {{sense|soda pop}} ''see the list at '''{{m|en|soda}}'''''
@@ -46,13 +46,13 @@
 * Dutch: {{t|nl|plop}}
 * Finnish: {{t|fi|poksahdus}}
 {{trans-mid}}
-* Russian: {{t+|ru|хлопок|m|tr=xlopók|sc=Cyrl}}
+* Russian: {{t+|ru|хлопо́к|m}}
 * Swedish: {{t|sv|poff}}
 {{trans-bottom}}
 
 {{trans-top|soda pop}}
 * Finnish: {{t+|fi|limsa}}, {{t+|fi|limu}}, {{t+|fi|limppari}}
-* Russian: {{t+|ru|шипучка|f|tr=šipúčka|sc=Cyrl}}
+* Russian: {{t+|ru|шипу́чка|f}}
 {{trans-mid}}
 * Swedish: {{t+|sv|läsk}}
 {{trans-bottom}}
@@ -60,77 +60,73 @@
 ====Verb====
 {{en-verb|popp}}
 
-# {{context|ergative|lang=en}} To [[burst]] (something): to cause to burst.
-#: ''The boy with the pin '''popped''' the balloon.''
+# {{label|en|ergative}} To [[burst]] (something): to cause to burst.
+#: {{usex|The boy with the pin '''popped''' the balloon.|lang=en}}
 #* '''1922''', {{w|Virginia Woolf}}, ''{{w|Jacob's Room}}'', chapter 1:
-#*: The waves came round her. She was a rock. She was covered with the seaweed which '''pops''' when it is pressed. He was lost.
+#*: {{usex|The waves came round her. She was a rock. She was covered with the seaweed which '''pops''' when it is pressed. He was lost.|lang=en}}
 #* {{quote-news|year=2011|date=December 14|author=Steven Morris|title=Devon woman jailed for 168 days for killing kitten in microwave|work=Guardian|url=http://www.guardian.co.uk/world/2011/dec/14/woman-killed-kitten-microwave-jail}}
-#*: The court was told Robins had asked if she could use the oven to heat some baby food for her child. Knutton heard a loud '''popping''' noise "like a crisp packet being '''popped'''" coming from the kitchen followed by a "screeching" noise. When she saw what had happened to the kitten she was sick in the sink.
+#*: {{usex|The court was told Robins had asked if she could use the oven to heat some baby food for her child. Knutton heard a loud '''popping''' noise "like a crisp packet being '''popped'''" coming from the kitchen followed by a "screeching" noise. When she saw what had happened to the kitten she was sick in the sink.|lang=en}}
 # To act [[suddenly]], [[unexpectedly]] or [[quickly]].
 # To [[hit]] (something or someone).
-#: ''He '''popped''' me on the nose.''
-# {{context|slang}} To shoot (usually somebody) with a firearm.
-# {{context|vulgar}} To [[ejaculate]].
-# {{context|computing|lang=en}} To remove (a data item) from the top of a [[stack]].
+#: {{usex|He '''popped''' me on the nose.|lang=en}}
+# {{label|en|slang}} To shoot (usually somebody) with a firearm.
+# {{label|en|vulgar}} To [[ejaculate]].
+# {{label|en|computing}} To remove (a data item) from the top of a [[stack]].
 #* '''2010''', Enrico Perla, ‎Massimiliano Oldani, ''A Guide to Kernel Exploitation: Attacking the Core'' (page 55)
-#*: Once the callee (the called function) terminates, it cleans the stack that it has been locally using and '''pops''' the next value stored on top of the stack.
+#*: {{usex|Once the callee (the called function) terminates, it cleans the stack that it has been locally using and '''pops''' the next value stored on top of the stack.|lang=en}}
 #* '''2011''', John Mongan, ‎Noah Kindler, ‎Eric Giguère, ''Programming Interviews Exposed''
-#*: The algorithm '''pops''' the stack to obtain a new current node when there are no more children (when it reaches a leaf).
-# {{context|UK|lang=en}} To [[place]] (something) (somewhere).
-#: ''Just '''pop''' it in the fridge for now.''
+#*: {{usex|The algorithm '''pops''' the stack to obtain a new current node when there are no more children (when it reaches a leaf).|lang=en}}
+# {{label|en|UK}} To [[place]] (something) (somewhere).
+#: {{usex|Just '''pop''' it in the fridge for now.|lang=en}}
 #* Milton
-#*: He '''popped''' a paper into his hand.
-# {{context|transitive|slang|lang=en}} To [[swallow]] (a tablet of a drug).
+#*: {{usex|He '''popped''' a paper into his hand.|lang=en}}
+# {{label|en|transitive|slang}} To [[swallow]] (a tablet of a drug).
 #* '''1994''', Ruth Garner and Patricia A. Alexander, ''Beliefs about text and instruction with text'':
-#*: We were drinking beer and popping '''pills''' — some really strong downers. I could hardly walk and I had no idea what I was saying.
-# {{context|transitive|informal|lang=en}} To perform (a move or stunt) while riding a board or vehicle.
+#*: {{usex|We were drinking beer and popping '''pills''' — some really strong downers. I could hardly walk and I had no idea what I was saying.|lang=en}}
+# {{label|en|transitive|informal}} To perform (a move or stunt) while riding a board or vehicle.
 #* '''1995''', David Brin, ''Startide Rising'':
-#*: Huck spun along the beams and joists, making me gulp when she '''popped''' a wheelie or swerved past a gaping hole...
+#*: {{usex|Huck spun along the beams and joists, making me gulp when she '''popped''' a wheelie or swerved past a gaping hole...|lang=en}}
 #* '''2009''', Ben Wixon, ''Skateboarding: Instruction, Programming, and Park Design'':
-#*: The tail is the back of the deck; this is the part that enables skaters to '''pop''' ollies...
-# {{context|intransitive|of the [[ear]]s|lang=en}} To undergo [[equalization]] of [[pressure]] when the [[Eustachian tube]]s open.
-#: ''My ears '''popped''' as the aeroplane began to ascend.''
+#*: {{usex|The tail is the back of the deck; this is the part that enables skaters to '''pop''' ollies...|lang=en}}
+# {{label|en|intransitive|of the [[ear]]s}} To undergo [[equalization]] of [[pressure]] when the [[Eustachian tube]]s open.
+#: {{usex|My ears '''popped''' as the aeroplane began to ascend.|lang=en}}
 # To make a pop, or sharp, quick sound.
-#: ''The muskets '''popped''' away on all sides.''
+#: {{usex|The muskets '''popped''' away on all sides.|lang=en}}
 # To enter, or issue forth, with a quick, sudden movement; to move from place to place suddenly; to dart; with ''in'', ''out'', ''upon'', etc.
 #* Shakespeare
-#*: He that killed my king {{...}} / '''Popp'd''' in between the election and my hopes.
+#*: {{usex|He that killed my king {{...}} / '''Popp'd''' in between the election and my hopes.|lang=en}}
 #* Jonathan Swift
-#*: a trick of '''popping''' up and down every moment
+#*: {{usex|a trick of '''popping''' up and down every moment|lang=en}}
 # To burst open with a pop, when heated over a fire.
-#: ''This corn '''pops''' well.''
+#: {{usex|This corn '''pops''' well.|lang=en}}
 # To stand out, to be visually distinctive.
 #* {{quote-news|year=2011|date=July 18|author=Robert Costa|title=The Battle from Waterloo: Representative Bachmann runs for president|work=National Review}}
-#*: She also looked like a star - and not the Beltway type. On a stage full of stiff suits, she '''popped'''.
+#*: {{usex|She also looked like a star - and not the Beltway type. On a stage full of stiff suits, she '''popped'''.|lang=en}}
 
 =====Derived terms=====
-{{rel-top3|Terms derived from ''pop'' (verb)}}
-* [[pop a cap in someone's ass]]
-* [[popcorn]]
-* [[pop gun]], [[popgun]]
-* [[pop in]]
-* [[pop on]]
-* [[pop off]]
-{{rel-mid3}}
-* [[pop one's clogs]]
-* [[pop out]]
-* [[popping crease]]
-* [[pop shot]]
-* [[pop someone's cherry]]
-* [[Pop Tart]]
-{{rel-mid3}}
-* [[pop the question]]
-* [[pop up]]
-* [[pop-up]], [[popup]]
-* [[pop over]], [[pop round]], [[pop around]]
-* [[popper]]
-{{rel-bottom}}
+{{der3|[[pop a cap in someone's ass]]
+|[[popcorn]]
+|[[pop gun]], [[popgun]]
+|[[pop in]]
+|[[pop on]]
+|[[pop off]]
+|[[pop one's clogs]]
+|[[pop out]]
+|[[popping crease]]
+|[[pop shot]]
+|[[pop someone's cherry]]
+|[[Pop Tart]]
+|[[pop the question]]
+|[[pop up]]
+|[[pop-up]], [[popup]]
+|[[pop over]], [[pop round]], [[pop around]]
+|[[popper]]}}
 
 =====Translations=====
 {{trans-top|to burst something}}
 * Finnish: {{t|fi|poksauttaa}}
-* Russian: {{t+|ru|лопаться|impf|tr=lópatʹsja|sc=Cyrl}}, {{t+|ru|лопнуть|pf|tr=lópnutʹ|sc=Cyrl}} {{qualifier|intransitive}}, {{qualifier|clap}} {{t+|ru|хлопать|tr=xlópatʹ|sc=Cyrl}}, {{t+|ru|хлопнуть|tr=xlópnutʹ|sc=Cyrl}} {{qualifier|transitive}}
 {{trans-mid}}
+* Russian: {{t+|ru|ло́паться|impf}}, {{t+|ru|ло́пнуть|pf}} {{qualifier|intransitive}}, {{qualifier|clap}} {{t+|ru|хло́пать}}, {{t+|ru|хло́пнуть}} {{qualifier|transitive}}
 {{trans-bottom}}
 
 {{trans-top|to act suddenly, unexpectedly or quickly}}
@@ -148,7 +144,7 @@
 {{trans-top|to place something somewhere}}
 * Finnish: {{t+|fi|tyrkätä}}
 {{trans-mid}}
-* Russian: {{t+|ru|совать|impf|tr=sovátʹ|sc=Cyrl}}, {{t+|ru|сунуть|pf|tr=súnutʹ|sc=Cyrl}}
+* Russian: {{t+|ru|сова́ть|impf}}, {{t+|ru|су́нуть|pf}}
 {{trans-bottom}}
 
 {{trans-top|slang: to swallow}}
@@ -168,25 +164,25 @@
 
 =====Translations=====
 {{trans-top|sound made in imitation of the sound}}
-* Russian: {{t|ru|хлоп|m|tr=xlop}}, {{t+|ru|хлопок|m|tr=xlopók}}
+* Russian: {{t|ru|хлоп|m}}, {{t+|ru|хлопо́к|m}}
 {{trans-mid}}
 * Spanish: {{t+|es|pum}}
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{term|papa||lang=en}} or {{term|poppa||lang=en}}
+From {{m|en|papa}} or {{m|en|poppa}}.
 
 ====Noun====
 {{en-noun}}
 
-# {{context|colloquial|lang=en}} Affectionate form of father.
-#: ''My '''pop''' used to tell me to do my homework every night.''
+# {{label|en|colloquial}} Affectionate form of [[father]].
+#: {{usex|My '''pop''' used to tell me to do my homework every night.|lang=en}}
 
 =====Translations=====
 {{trans-top|affectionate form of father}}
 * Catalan: {{t+|ca|papi}}, {{t+|ca|papa|m}}
 * Dutch: {{t+|nl|pap}}
-* Russian: {{t+|ru|папа|m|tr=pápa|sc=Cyrl}}, {{t+|ru|папочка|m|tr=pápočka|sc=Cyrl}}, {{t+|ru|папаша|m|tr=papáša|sc=Cyrl}}
+* Russian: {{t+|ru|па́па|m}}, {{t+|ru|па́почка|m}}, {{t+|ru|папа́ша|m}}
 {{trans-mid}}
 * Spanish: {{t+|es|papi|m}}
 * Swedish: {{t+|sv|paps}}
@@ -198,12 +194,12 @@ From {{term|papa||lang=en}} or {{term|poppa||lang=en}}
 * [[pap]], [[paps]]
 
 ===Etymology 3===
-From {{term|popular||lang=en}}, by shortening.
+From {{m|en|popular}}, by shortening.
 
 ====Adjective====
 {{en-adj|-}}
 
-# {{context|used attributively in set phrases|lang=en}} [[popular|Popular]].
+# {{label|en|used attributively in set phrases}} [[popular|Popular]].
 
 ====Noun====
 {{en-noun|-}}
@@ -211,14 +207,11 @@ From {{term|popular||lang=en}}, by shortening.
 # [[pop music|Pop music]].
 
 =====Derived terms=====
-{{rel-top|terms derived from pop (popular)}}
-* [[pop art]]
-* [[pop culture]]
-* [[pop group]]
-{{rel-mid}}
-* [[pop music]]
-* [[vox pop]]
-{{rel-bottom}}
+{{der3|[[pop art]]
+|[[pop culture]]
+|[[pop group]]
+|[[pop music]]
+|[[vox pop]]}}
 
 =====Translations=====
 {{trans-top|pop music}}
@@ -226,16 +219,16 @@ From {{term|popular||lang=en}}, by shortening.
 * Faroese: {{t|fo|popptónleikur|m}}, {{t|fo|poppur|m}}
 * Finnish: {{t+|fi|pop}}, {{t|fi|poppi}}
 * French: {{t+|fr|pop|f}}
-* Greek: {{t+|el|ποπ|f|tr=pop}}
+* Greek: {{t+|el|ποπ|f}}
 {{trans-mid}}
 * Japanese: {{t|ja|ポップ|tr=poppu}}, {{t|ja|ポップス|tr=poppusu}}
 * Persian: {{t+|fa|پاپ|tr=pâp|sc=fa-Arab}}
-* Russian: {{t+|ru|поп-музыка|f|tr=pop-múzyka}}, {{t+|ru|поп|m|tr=pop}}, {{qualifier|slang}} {{t+|ru|попса|f|tr=popsá}}
+* Russian: {{t+|ru|поп-му́зыка|f}}, {{t+|ru|поп|m}}, {{qualifier|slang}} {{t+|ru|попса́|f}}
 * Slovak: {{t|sk|pop|m}}
 {{trans-bottom}}
 
 ===Etymology 4===
-From colloquial {{etyl|ru|en}} {{term|поп|tr=pop|lang=ru}} and {{term|Попъ|tr=Pop'|lang=ru}}, from {{etyl|cu|ru}} {{term|попъ|tr=pop'|lang=cu|sc=Cyrs}}, from {{etyl|gkm|en}} (''see'' '''[[pope#Etymology 1|pope]]''').
+From colloquial {{etyl|ru|en}} {{m|ru|поп}} and {{m|ru|Попъ}}, from {{etyl|cu|ru}} {{m|cu|попъ}}, from {{etyl|gkm|en}} (''see'' '''[[pope#Etymology 1|pope]]''').
 
 ====Alternative forms====
 * [[pope]]
@@ -243,16 +236,17 @@ From colloquial {{etyl|ru|en}} {{term|поп|tr=pop|lang=ru}} and {{term|Поп�
 ====Noun====
 {{en-noun}}
 
-# {{context|Russian Orthodoxy|uncommon|lang=en}} A [[Russian Orthodox]] [[priest]]; a [[parson]].
-#*'''1822''', Mikhaïlov Vasiliï, ''Adventures of Michailow'', 4
-#*:There was at that time in the house of the Consul a '''Pop''' (or Russian Priest) named {{smallcaps|Iwan Afanassich}}.
-#*'''2001''', Spas Raïkin, ''Rebel with a Just Cause'', 292 n.28
-#*:The contemporary priest's... own children are ashamed and some abusers are openly "[[transmission|transmitting]] the '''pop'''" (a gesture of mocking the priest on the street, where a man would touch his [[private parts]] while smiling at other passers-by)
-#*'''2006''', Peter Neville, ''A Traveller's History of Russia'', 123
-#*:By the end of 1809 [[w:Catherine_Pavlovna_of_Russia|she]] was declaring to [[all and sundry]] that she would sooner marry 'a '''''pop''''' than the sovereign of a country under the influence of France'. Since a '''pop''' was a Russian Orthodox parish priest, the reference was hardly likely to endear her family to the French.
+# {{label|en|Russian Orthodoxy|uncommon}} A [[Russian Orthodox]] [[priest]]; a [[parson]].
+#* '''1822''', Mikhaïlov Vasiliï, ''Adventures of Michailow'', 4
+#*: {{usex|There was at that time in the house of the Consul a '''Pop''' (or Russian Priest) named {{smallcaps|Iwan Afanassich}}.|lang=en}}
+#* '''2001''', Spas Raïkin, ''Rebel with a Just Cause'', 292 n.28
+#*: {{usex|The contemporary priest's... own children are ashamed and some abusers are openly "[[transmission|transmitting]] the '''pop'''" (a gesture of mocking the priest on the street, where a man would touch his [[private parts]] while smiling at other passers-by)|lang=en}}
+#* '''2006''', Peter Neville, ''A Traveller's History of Russia'', 123
+#*: {{usex|By the end of 1809 [[w:Catherine_Pavlovna_of_Russia|she]] was declaring to [[all and sundry]] that she would sooner marry 'a '''''pop''''' than the sovereign of a country under the influence of France'. Since a '''pop''' was a Russian Orthodox parish priest, the reference was hardly likely to endear her family to the French.|lang=en}}
 
 ===Anagrams===
-* [[OPP#English|OPP]], [[opp#English|opp]], [[opp.#English|opp.]], [[PPO#English|PPO]]
+* {{l/en|OPP}}, {{l/en|opp}}, {{l/en|opp.}}
+* {{l/en|PPO}}
 
 [[Category:English ergative verbs]]
 [[Category:English onomatopoeias]]
@@ -274,7 +268,7 @@ From colloquial {{etyl|ru|en}} {{term|поп|tr=pop|lang=ru}} and {{term|Поп�
 ==Catalan==
 
 ===Etymology 1===
-From {{etyl|la|ca}} {{term|polypus|lang=la}}, from {{etyl|grc|ca}} {{term|πολύπους|lang=grc}}.
+From {{etyl|la|ca}} {{m|la|polypus}}, from {{etyl|grc|ca}} {{m|grc|πολύπους}}.
 
 ====Noun====
 {{ca-noun|m}}
@@ -282,10 +276,10 @@ From {{etyl|la|ca}} {{term|polypus|lang=la}}, from {{etyl|grc|ca}} {{term|πολ
 # [[octopus]]
 
 =====Synonyms=====
-* [[polp]]
+* {{l/ca|polp}}
 
 =====See also=====
-* [[calamars]] {{g|m}}
+* {{l/ca|calamars|g=m}}
 
 ===Etymology 2===
 Abbreviation of [[popular]]
@@ -311,20 +305,17 @@ Abbreviation of [[popular]]
 
 # [[doll]]
 # [[cocoon]], [[pupa]]
-# {{context|colloquial|lang=nl}} [[guilder]]
+# {{label|nl|colloquial}} [[guilder]]
 
 =====Derived terms=====
-{{top4}}
-* {{l|nl|etalagepop}}
-* {{l|nl|sneeuwpop}}
-* {{l|nl|sokpop}}
-* {{l|nl|handpop}}
-* {{l|nl|babypop}}
-* {{l|nl|wajangpop}}
-{{mid4}}
-* {{l|nl|poppenkast}}
-* {{l|nl|poppenspel}}
-{{bottom}}
+{{der3|{{l|nl|etalagepop}}
+|{{l|nl|sneeuwpop}}
+|{{l|nl|sokpop}}
+|{{l|nl|handpop}}
+|{{l|nl|babypop}}
+|{{l|nl|wajangpop}}
+|{{l|nl|poppenkast}}
+|{{l|nl|poppenspel}}}}
 
 ====Verb====
 {{nl-verb-form}}
@@ -333,7 +324,7 @@ Abbreviation of [[popular]]
 # {{nl-verb form of|m=imp|poppen}}
 
 ===Etymology 2===
-From {{etyl|en|nl}} {{term|pop|lang=en}}, possibly through shortening of {{term|popmuziek|lang=nl}}.
+From {{etyl|en|nl}} {{m|en|pop}}, possibly through shortening of {{m|nl|popmuziek}}.
 
 ====Noun====
 {{nl-noun|m|-|-}}
@@ -369,7 +360,7 @@ From {{etyl|en|nl}} {{term|pop|lang=en}}, possibly through shortening of {{term|
 ===Adjective===
 {{fr-adj}}
 
-# pop (popular)
+# [[#English|pop]] {{gloss|popular}}
 
 ===Noun===
 {{fr-noun|m|pop}}
@@ -377,7 +368,7 @@ From {{etyl|en|nl}} {{term|pop|lang=en}}, possibly through shortening of {{term|
 # [[#English|pop]], [[pop music]]
 
 ====Synonyms====
-* [[musique pop]]
+* {{l/fr|musique pop}}
 
 ===External links===
 * {{R:TLFi}}
@@ -403,7 +394,7 @@ From {{etyl|en|nl}} {{term|pop|lang=en}}, possibly through shortening of {{term|
 {{head|nv|particle}}
 
 # [[flirting]]
-#:{{usex|lang=nv|[[shichʼįʼ|Shichʼįʼ]] nił pop!|t=You’re flirting with me!}}
+#:{{usex|[[shichʼįʼ|Shichʼįʼ]] nił pop!|t=You’re flirting with me!|lang=nv}}
 
 [[Category:Navajo slang]]
 
@@ -414,14 +405,14 @@ From {{etyl|en|nl}} {{term|pop|lang=en}}, possibly through shortening of {{term|
 ===Noun===
 {{pt-noun|m|-}}
 
-# {{l|en|pop music}} {{gloss|music intended for or accepted by a wide audience}}
+# [[#English|pop music]] {{gloss|music intended for or accepted by a wide audience}}
 
 ----
 
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|cu|sh}} {{term|попъ|lang=cu|sc=Cyrs}}, from {{etyl|grc|sh}} {{term|sc=polytonic|παπάς|tr=papás|lang=grc}}, variant of {{term|sc=polytonic|πάππας||tr=páppas|daddy, papa|lang=grc}}.
+From {{etyl|cu|sh}} {{m|cu|попъ}}, from {{etyl|grc|sh}} {{m|grc|παπάς}}, variant of {{m|grc|πάππας||daddy, papa}}.
 
 ===Pronunciation===
 * {{IPA|/pôp/|lang=sh}}
@@ -429,7 +420,7 @@ From {{etyl|cu|sh}} {{term|попъ|lang=cu|sc=Cyrs}}, from {{etyl|grc|sh}} {{te
 ===Noun===
 {{sh-noun|g=m|head=pȍp|r|поп|по̏п}}
 
-# [[priest]] (usually Catholic or Orthodox)
+# [[priest]] {{qualifier|usually Catholic or Orthodox}}
 
 ====Declension====
 {{sh-decl-noun
@@ -452,18 +443,18 @@ From {{etyl|cu|sh}} {{term|попъ|lang=cu|sc=Cyrs}}, from {{etyl|grc|sh}} {{te
 * {{IPA|/pop/|lang=sk}}
 
 ===Etymology 1===
-From {{etyl|cu|sk}} {{term|попъ|lang=cu|sc=Cyrs}}, from {{etyl|grc|sk}} {{term|sc=polytonic|παπάς|tr=papás|lang=grc}}, variant of {{term|sc=polytonic|πάππας||tr=páppas|daddy, papa|lang=grc}}.
+From {{etyl|cu|sk}} {{m|cu|попъ}}, from {{etyl|grc|sk}} {{m|grc|παπάς}}, variant of {{m|grc|πάππας||daddy, papa}}.
 
 ====Noun====
 {{sk-noun|g=m|gen=popa|pl=popi|decl=chlap}}
 
-# [[priest]] (usually Catholic or Orthodox)
+# [[priest]] {{qualifier|usually Catholic or Orthodox}}
 
 =====Declension=====
 {{sk-decl-noun|pop|popa|popovi|popa|popovi|popom|popi|popov|popom|popov|popoch|popmi}}
 
 ===Etymology 2===
-From {{etyl|en|sk}} {{term|pop|lang=en}}.
+{{borrowing|en|pop|lang=sk}}.
 
 ====Noun====
 {{sk-noun|g=m|gen=popu|decl=dub}}
@@ -473,6 +464,7 @@ From {{etyl|en|sk}} {{term|pop|lang=en}}.
 =====Declension=====
 {{sk-decl-noun-sg|pop|popu|popu|pop|pope|popom}}
 
+[[Category:sk:Music]]
 [[Category:Slovak palindromes]]
 
 ----
@@ -482,15 +474,15 @@ From {{etyl|en|sk}} {{term|pop|lang=en}}.
 ===Noun===
 {{head|es|noun|g=m}}
 
-# {{context|lang=es|Uruguay}} [[popcorn]]
+# {{label|es|Uruguay}} [[popcorn]]
 
 ====Synonyms====
-* [[cancha]] {{g|f}}
-* [[cotufa]] {{qualifier|Venezuela}}
-* [[palomita]] (de maíz) {{g|f}} {{qualifier|Colombia|Mexico|Spain}}
-* [[pochoclo]] {{qualifier|Argentina}}
-* [[poporopo]] {{qualifier|Guatemala}}
-* [[rosita]] (de maiz) {{g|f}}
+* {{l|es|cancha|g=f}}
+* {{l/es|cotufa}} {{qualifier|Venezuela}}
+* {{l|es|[[palomita]] (de maíz)|g=f}} {{qualifier|Colombia|Mexico|Spain}}
+* {{l/es|pochoclo}} {{qualifier|Argentina}}
+* {{l/es|poporopo}} {{qualifier|Guatemala}}
+* {{l|es|[[rosita]] (de maiz)|g=f}}
 
 [[Category:Spanish palindromes]]
 
