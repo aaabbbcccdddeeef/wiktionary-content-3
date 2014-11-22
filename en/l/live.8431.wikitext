@@ -83,10 +83,10 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 {{trans-top|be alive}}
 * Afrikaans: {{t|af|leef}}
 * Albanian: {{t|sq|jetoj}}
-* Arabic: {{t|ar|عاش|tr=ʿāša}}, {{t|ar|سكن|tr=sákana}}
-*: Egyptian Arabic: {{t|arz|عاش|tr=ʿāš|sc=Arab}}
-* Armenian: {{t+|hy|ապրել|tr=aprel}}
-*: Old Armenian: {{t|hy|կեամ|tr=keam}}
+* Arabic: {{t|ar|عَاشَ}}, {{t|ar|سَكَنَ}}
+*: Egyptian Arabic: {{t|arz|عَاش|tr=ʿāš|sc=Arab}}
+* Armenian: {{t+|hy|ապրել}}
+*: Old Armenian: {{t|hy|կեամ}}
 * Aromanian: {{t|rup|bãnedz}}
 * Asturian: {{t+|ast|vivir}}
 * Azeri: {{t+|az|yaşamaq}}
@@ -94,8 +94,8 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Berber:
 *: Tashelhit: {{t|shi|ddr}}
 * Breton: {{t|br|beva}}
-* Bulgarian: {{t+|bg|живѐя}}
-* Burmese: {{t|my|အသက်ရှင်|tr=a.sak-hrang|sc=Mymr}}
+* Bulgarian: {{t+|bg|живѐя|impf}}
+* Burmese: {{t|my|အသက်ရှင်|sc=Mymr}}
 * Catalan: {{t+|ca|viure}}
 * Chinese:
 *: Mandarin: {{t+|cmn|生活|tr=shēnghuó|sc=Hani}}
@@ -123,7 +123,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Indonesian: {{t+|id|hidup}}
 * Irish: {{t|ga|mair}}, {{t|ga|[[bí]] [[beo]]}}, {{t|ga|bí i do bheatha}}
 * Italian: {{t+|it|vivere}}
-* Japanese: {{t+|ja|生きる|tr=[[いきる]], ikiru}}, {{t+|ja|暮らす|tr=[[くらす]], kurasu}} (''spend time, get along'')
+* Japanese: {{t+|ja|生きる|tr=いきる, ikiru}}, {{t+|ja|暮らす|tr=くらす, kurasu}} (''spend time, get along'')
 * Jèrriais: {{t|roa-jer|vivre}}
 * Kazakh: {{t|kk|өмір сүру|tr=ömir sürw|sc=Cyrl}}, {{t+|kk|тұру|tr=turw|sc=Cyrl}}
 * Khmer: {{t+|km|នៅ|tr=nɨv|sc=Khmr}}
@@ -132,16 +132,16 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 *: Sorani: {{t+|ku|ژیان|tr=jiyan|sc=ku-Arab}}
 * Kyrgyz: {{t|ky|өмүр сүрүү|tr=ömür sürüü|sc=Cyrl}}, {{t+|ky|жашоо|tr=caşoo|sc=Cyrl}}
 * Ladin: {{t|lld|viver}}
-* Lao: {{t|lo|ທຽວສົງສານ|tr=tʰíaːw sŏŋ săːn|sc=Laoo}}
+* Lao: {{t|lo|ທຽວສົງສານ|sc=Laoo}}
 * Latin: {{t+|la|vivo}}
 * Latvian: {{t+|lv|dzīvot}}
 * Lithuanian: {{t+|lt|gyventi}}
 {{trans-mid}}
 * Lojban: {{t|jbo|jmive}}
 * Luxembourgish: {{t|lb|liewen}}
-* Macedonian: {{t|mk|живее}}
+* Macedonian: {{t|mk|живее|impf}}
 * Maltese: {{t|mt|għex}}
-* Mongolian: {{t|mn|амьдрах|tr=amʹdrah|sc=Cyrl}}
+* Mongolian: {{t|mn|амьдрах|sc=Cyrl}}
 * Neapolitan: {{t|nap|campà}}
 * Northern Sami: {{t|se|eallit}}
 * Norwegian: {{t+|no|leve}}
@@ -150,7 +150,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Old Church Slavonic: {{t|cu|жити|tr=žiti|sc=Cyrs}}
 * Old English: {{t|ang|libban}}
 * Persian: {{t+|fa|زندگی کردن|tr=zendegi kardan|sc=fa-Arab}}, {{t+|fa|زیستن|tr=zistan|sc=fa-Arab}}
-* Polish: {{t+|pl|żyć}}
+* Polish: {{t+|pl|żyć|impf}}
 * Portuguese: {{t+|pt|viver}}
 * Purepecha: {{t|pua|irekani}}
 * Quechua: {{t+|qu|kawsay}}
@@ -164,12 +164,12 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Scots: {{t|sco|leeve}}
 * Scottish Gaelic: {{t|gd|bi}} {{t|gd|beò}}
 * Serbo-Croatian:
-*: Cyrillic: (''Ekavian'') {{t|sh|жи́вети|sc=Cyrl}}, (''Ijekavian'') {{t|sh|жи́вјети|sc=Cyrl}}
-*: Roman: (''Ekavian'') {{t|sh|žíveti}}, (''Ijekavian'') {{t|sh|žívjeti}}
+*: Cyrillic: (''Ekavian'') {{t|sh|жи́вети|impf|sc=Cyrl}}, (''Ijekavian'') {{t|sh|жи́вјети|impf|sc=Cyrl}}
+*: Roman: (''Ekavian'') {{t|sh|žíveti|impf}}, (''Ijekavian'') {{t|sh|žívjeti|impf}}
 * Sicilian: {{t+|scn|vìviri}}
-* Sinhalese: {{t|si|ජීවත් වෙනවා|tr=jīvat vanavā|sc=Sinh}}
-* Slovak: {{t|sk|žiť}}
-* Slovene: {{t|sl|živéti}}
+* Sinhalese: {{t|si|ජීවත් වෙනවා|sc=Sinh}}
+* Slovak: {{t|sk|žiť|impf}}
+* Slovene: {{t|sl|živéti|impf}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|[[žywy]] [[byś]]|impf}}, {{t|dsb|žywiś|alt=žywiś se|impf}}
 * Sotho: {{t+|st|phela}}
@@ -183,7 +183,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Tocharian B: {{t|txb|śai}}
 * Turkish: {{t+|tr|yaşamak}}
 * Turkmen: {{t|tk|ýaşamak}}
-* Ukrainian: {{t|uk|жи́ти}}
+* Ukrainian: {{t|uk|жи́ти|impf}}
 * Urdu: {{t|ur|جینا|tr=jīnā|sc=ur-Arab}}
 * Uzbek: {{t+|uz|yashamoq}}
 * Venetian: {{t|vec|viver}}
@@ -196,16 +196,16 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 
 {{trans-top|have permanent residence}}
 * Afrikaans: {{t|af|woon}}
-* Arabic: {{t|ar|عاش|tr=ʿāša}}, {{t|ar|سكن|tr=sákana}}
-* Armenian: {{t+|hy|ապրել|tr=aprel}}
+* Arabic: {{t|ar|عَاشَ}}, {{t|ar|سَكَنَ}}
+* Armenian: {{t+|hy|ապրել}}
 * Asturian: {{t+|ast|vivir}}
 * Belarusian: {{t|be|жыць|impf}}
-* Bulgarian: {{t+|bg|живѐя}}
-* Burmese: {{t+|my|နေ|tr=ne|sc=Mymr}}
+* Bulgarian: {{t+|bg|живѐя|impf}}
+* Burmese: {{t+|my|နေ|sc=Mymr}}
 * Catalan: {{t+|ca|viure}}
 * Chinese:
 *: Mandarin: {{t+|cmn|住|tr=zhù|sc=Hani}}, {{t+|cmn|居住|tr=jūzhù|sc=Hani}}
-* Czech: {{t+|cs|žít}}, {{t+|cs|bydlet}}
+* Czech: {{t+|cs|žít|impf}}, {{t+|cs|bydlet|impf}}
 * Danish: {{t+|da|bo}}
 * Dutch: {{t+|nl|wonen}}
 * Esperanto: {{t|eo|loĝi}}
@@ -224,11 +224,11 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Interlingua: {{t|ia|habitar}}
 * Irish: {{t|ga|cónaigh}}, {{t|ga|bí i do chónaí}}
 * Italian: {{t+|it|abitare}}
-* Japanese: {{t|ja|住む|tr=[[すむ]], sumu}}
+* Japanese: {{t|ja|住む|tr=すむ, sumu}}
 * Jèrriais: {{t|roa-jer|d'meuther}}
 * Korean: {{t+|ko|살다|sc=Hang}}
 * Kurdish: {{t+|ku|jîn}}, {{t+|ku|jiyan}}
-* Lao: {{t|lo|ຢູ່|tr=juu|sc=Laoo}}
+* Lao: {{t|lo|ຢູ່|sc=Laoo}}
 * Latin: {{t+|la|vivo}}, {{t+|la|habito}}
 * Lithuanian: {{t+|lt|gyventi}}
 * Lojban: {{t+|jbo|xabju}}
@@ -240,7 +240,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Norwegian: {{t+|no|bo}}
 * Old English: {{t|ang|wunian}}, {{t|ang|būan}}
 * Persian: {{t+|fa|زندگی کردن|tr=zendegi kardan|sc=fa-Arab}}
-* Polish: {{t+|pl|mieszkać}}
+* Polish: {{t+|pl|mieszkać|impf}}
 * Portuguese: {{t+|pt|viver}}, {{t+|pt|morar}}
 * Purepecha: {{t|pua|irekani}}
 * Romani: {{t|rom|beshel}}
@@ -249,11 +249,11 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Scots: {{t|sco|bide}}
 * Scottish Gaelic: {{t|gd|fuirich}}, {{t|gd|còmhnaich}}
 * Serbo-Croatian:
-*: Cyrillic: (''Ekavian'') {{t|sh|жи́вети|sc=Cyrl}}, (''Ijekavian'') {{t|sh|жи́вјети|sc=Cyrl}}
-*: Roman: (''Ekavian'') {{t|sh|žíveti}}, (''Ijekavian'') {{t|sh|žívjeti}}
+*: Cyrillic: (''Ekavian'') {{t|sh|жи́вети|impf|sc=Cyrl}}, (''Ijekavian'') {{t|sh|жи́вјети|impf|sc=Cyrl}}
+*: Roman: (''Ekavian'') {{t|sh|žíveti|impf}}, (''Ijekavian'') {{t|sh|žívjeti|impf}}
 * Sichuan Yi: {{t|ii|ꀀ|tr=it}}
-* Slovak: {{t|sk|žiť}}, {{t|sk|bývať}}
-* Slovene: {{t|sl|živéti}}
+* Slovak: {{t|sk|žiť|impf}}, {{t|sk|bývať|impf}}
+* Slovene: {{t|sl|živéti|impf}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|bydliś|impf}}
 * Sotho: {{t+|st|dula}}
@@ -262,21 +262,21 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Swedish: {{t+|sv|bo}}
 * Thai: {{t+|th|อยู่|tr=yòo}}, {{t+|th|อาศัย|tr=aasăi}}, {{t|th|อาศัยอยู่|tr=aasăiyòo}}
 * Turkish: {{t+|tr|yaşamak}}
-* Ukrainian: {{t|uk|жи́ти}}, {{t+|uk|прожива́ти}}, {{t+|uk|ме́шкати}}
+* Ukrainian: {{t|uk|жи́ти|impf}}, {{t+|uk|прожива́ти|impf}}, {{t+|uk|ме́шкати|impf}}
 * Urdu: {{t|ur|رہنا|tr=rahnā|sc=ur-Arab}}
 * Venetian: {{t+|vec|star}}
 * Vietnamese: {{t+|vi|ở}}, {{t+|vi|sống}}
 * Vilamovian: {{t|wym|wönn}}
 * Welsh: {{t+|cy|byw}}
-* Yiddish: {{t|yi|וווינען|tr=voynen}}
+* Yiddish: {{t|yi|וווינען}}
 * ǃXóõ: {{t|nmn|ǃnúm|s}}, {{t|nmn|ǃnûɲa|p}}
 {{trans-bottom}}
 
 {{trans-top|survive, persevere}}
 * Afrikaans: {{t|af|oorleef}}
 * Arabic: {{t|ar|ينجو|tr=yanju|sc=Arab}}
-* Armenian: {{t+|hy|ապրել|tr=aprel}}
-* Burmese: {{t|my|အသက်ရှင်|tr=a.sak-hrang|sc=Mymr}}
+* Armenian: {{t+|hy|ապրե}}
+* Burmese: {{t|my|အသက်ရှင်|sc=Mymr}}
 * Catalan: {{t+|ca|viure}}
 * Czech: {{t+|cs|žít}}
 * Danish: {{t|da|overleve}}
@@ -291,7 +291,7 @@ From {{etyl|enm|en}} {{term|liven|lang=enm}}, from {{etyl|ang|en}} {{term|libban
 * Polish: {{t|pl|przetrwać}}, {{t+|pl|przeżyć}}
 * Portuguese: {{t+|pt|sobreviver}}, {{t+|pt|perseverar}}
 * Romanian: {{t+|ro|supraviețui|alt=a supraviețui}}
-* Russian: {{t+|ru|выжива́ть}}
+* Russian: {{t+|ru|выжива́ть|impf}}
 * Scottish Gaelic: {{t|gd|mair}}
 * Slovak: {{t|sk|prežiť}}, {{t|sk|zažiť}}
 * Slovene: {{t+|sl|živeti}}
@@ -392,7 +392,7 @@ See [[alive]]
 =====Translations=====
 {{trans-top|having life}}
 * Albanian: {{t|sq|gjallë}}
-* Belarusian: {{t|be|жывы́|m|sc=Cyrl}}
+* Belarusian: {{t|be|жывы́|sc=Cyrl}}
 * Breton: {{t+|br|bev}}
 * Campidanese Sardinian: {{t|sro|biu}}
 * Catalan: {{t+|ca|viu}}
@@ -418,7 +418,7 @@ See [[alive]]
 * Polish: {{t+|pl|żywy}}
 * Portuguese: {{t+|pt|vivo}}
 * Romanian: {{t+|ro|viu}}
-* Russian: {{t+|ru|живой|tr=živój}}
+* Russian: {{t+|ru|живо́й}}
 * Scottish Gaelic: {{t|gd|beò}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|жи̑в|sc=Cyrl}}
@@ -445,7 +445,7 @@ See [[alive]]
 * Malay: {{t|ms|langsung}}
 * Portuguese: {{t+|pt|ao vivo}}
 * Romanian: {{t|ro|în direct}}
-* Russian: {{t|ru|в прямом эфире|tr=v prjamóm efíre}}
+* Russian: {{t|ru|в [[прямой|прямо́м]] [[эфир|эфи́ре]]}}
 * Scottish Gaelic: {{t|gd|beò}}
 * Slovene: {{t|sl|v žívo}}
 * Spanish: {{t+|es|en vivo}}, {{t+|es|en directo}}
@@ -456,7 +456,7 @@ See [[alive]]
 * Dutch: {{t+|nl|scherp}}
 * Finnish: {{t+|fi|kova}}
 * German: {{t+|de|scharf}}
-* Greek: {{t|el|άσκαστος|m|tr=áskastos|sc=Grek}}, {{t+|el|άκαυστος|m|tr=ákafstos|sc=Grek}}, {{t+|el|άκαυτος|m|tr=ákaftos|sc=Grek}}
+* Greek: {{t|el|άσκαστος|sc=Grek}}, {{t+|el|άκαυστος|sc=Grek}}, {{t+|el|άκαυτος|sc=Grek}}
 {{trans-mid}}
 * Kurdish: {{t+|ku|ziyandar}}
 * Portuguese: {{t+|pt|ativo}}
@@ -464,7 +464,7 @@ See [[alive]]
 {{trans-bottom}}
 
 {{trans-top|electrically charged}}
-* Greek: {{t+|el|ηλεκτροφόρος|m|tr=ilektrofóros|sc=Grek}}, {{t|el|ρευματοφόρος|m|tr=revmatofóros|sc=Grek}}
+* Greek: {{t+|el|ηλεκτροφόρος|sc=Grek}}, {{t|el|ρευματοφόρος|sc=Grek}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|carregado}}
 * Swedish: {{t|sv|strömförande}}
@@ -492,17 +492,17 @@ See [[alive]]
 * Finnish: {{t+|fi|suora}}, {{t|fi|live-}}
 * French: {{t+|fr|en direct}}
 * German: {{t+|de|direkt}}, {{t+|de|live}}
-* Greek: {{t+|el|ζωντανά|tr=zodaná|sc=Grek}}, {{t|el|λάιβ|tr=laiv|sc=Grek}}
+* Greek: {{t+|el|ζωντανά|sc=Grek}}, {{t|el|λάιβ|sc=Grek}}
 * Icelandic: {{t+|is|beint}}
 * Italian: {{t|it|dal vivo}}, {{t+|it|live}}
-* Japanese: {{t+check|ja|生|tr=[[なま]]の|alt=生の|sc=Jpan}} <!-- was "[[生]]の" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Japanese: {{t+|ja|生|tr=なまの|alt=生の|sc=Jpan}}
 * Kurdish: {{t+|ku|zindî}}
 * Norwegian: {{t|no|direkte}}, {{t+|no|live}} (''English loanword'')
 * Polish: {{t|pl|na żywo}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|ao vivo}}
 * Romanian: {{t|ro|în direct}}
-* Russian: {{t|ru|в прямом эфире}}, {{t+|ru|живьём|sc=Cyrl}}, {{t|ru|лайв|sc=Cyrl}}
+* Russian: {{t|ru|в [[прямой|прямо́м]] [[эфир|эфи́ре]]}}, {{t|ru|лайв|sc=Cyrl}}, {{t+|ru|живьём|sc=Cyrl}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|у̏жӣво|sc=Cyrl}}
 *: Roman: {{t|sh|ȕžīvo}}
@@ -512,7 +512,7 @@ See [[alive]]
 * Swahili: {{t+|sw|ishi}}
 * Thai: {{t+|th|สด|tr=sòt}}
 * Turkish: {{t+|tr|canlı}}
-* Ukrainian: {{t|uk|наживо|tr=nažyvo}}
+* Ukrainian: {{t|uk|на́живо}}
 {{trans-bottom}}
 
 ====Statistics====
