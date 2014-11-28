@@ -81,8 +81,8 @@ From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=
 * Korean: {{t+|ko|마스크|sc=Kore}}
 * Macedonian: {{t|mk|маска|f|tr=máska}}
 * Norwegian:
-** Bokmål: {{t|nb|maske|m|f}}, {{t|nb|maska|f}}
-** Nynorsk: {{t|nn|maske|f}}
+*: Bokmål: {{t|nb|maske|m|f}}, {{t|nb|maska|f}}
+*: Nynorsk: {{t|nn|maske|f}}
 * Persian: {{t+|fa|ماسک|tr=mâsk|sc=fa-Arab}}
 * Polish: {{t+|pl|maska|f}}
 * Portuguese: {{t+|pt|máscara|f}}
@@ -99,7 +99,7 @@ From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=
 {{trans-bottom}}
 
 {{trans-top|that which disguises}}
-* Armenian: {{t|hy|դիմակ}} (dimak)
+* Armenian: {{t-check|hy|դիմակ|tr=dimak|sc=Armn}}
 * Catalan: {{t+|ca|màscara|f}}
 * Finnish: {{t|fi|naamiointi}}
 * German: {{t+|de|Maske|f}}
@@ -108,8 +108,8 @@ From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=
 * Japanese: {{t|ja|仮面|tr=かめん, kamen}}
 {{trans-mid}}
 * Norwegian:
-** Bokmål: {{t|nb|maske|m|f}}, {{t|nb|maska|f}}
-** Nynorsk: {{t|nn|maske|f}}
+*: Bokmål: {{t|nb|maske|m|f}}, {{t|nb|maska|f}}
+*: Nynorsk: {{t|nn|maske|f}}
 * Romanian: {{t+|ro|mască|f}}
 * Russian: {{t+|ru|маска|f|tr=máska}}, {{qualifier|also figurative}} {{t+|ru|личина|f|tr=ličína|sc=Cyrl}}
 * Scottish Gaelic: {{t|gd|sgàile|f}}, {{t|gd|masg|m}}
@@ -161,15 +161,12 @@ From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|ko}}: 1. 가면, 탈
-::: 2. 복면
-::: 3. 가면 무도회
-::: 4. 가면극
-* {{ttbc|tr}}: {{t|tr|maske}} (1)
-* {{ttbc|ar}}: {{t|ar|قناع}}
-* {{ttbc|fr}}: {{t|frm|masque|f}}
+* Arabic: {{t-check|ar|قناع}}
+* French: {{t-check|frm|masque|f}}
+* Korean: (1) {{t-check|ko|가면|sc=Kore}}, (1) {{t-check|ko|탈|sc=Kore}}, (2) {{t-check|ko|복면|sc=Kore}}, (3) {{t-check|ko|[[가면]] [[무도회]]|sc=Kore}}, (4) {{t-check|ko|가면극|sc=Kore}}
 * Portuguese: {{t-check|pt|máscara|f}}
 * Spanish: {{t-check|es|máscara|f}}
+* Turkish: {{qualifier|1}} {{t-check|tr|maske}}
 {{trans-bottom}}
 
 ====Verb====
