@@ -73,8 +73,8 @@ These terms often continue to be used by English speakers whose families came fr
 {{trans-bottom}}
 
 ===Anagrams===
-* [[abab#English|abab]]
-* [[abba#English|abba]], [[ABBA#English|ABBA]]
+* {{l/en|abab}}
+* {{l/en|abba}}, {{l/en|abba|ABBA}}
 
 ====External links====
 * {{projectlink|wikipedia}}
@@ -100,7 +100,7 @@ These terms often continue to be used by English speakers whose families came fr
 ==Albanian==
 
 ===Etymology===
-{{etyl|ota|sq}} {{term|بابا|tr=baba|sc=ota-Arab|lang=ota}}
+{{borrowing|ota|بابا|tr=baba|lang=sq}}.
 
 ===Pronunciation===
 * {{IPA|[baba]|lang=sq}} {{a|Tosk}}
@@ -121,8 +121,11 @@ These terms often continue to be used by English speakers whose families came fr
 
 ==Crimean Tatar==
 
+===Etymolgoy===
+{rfe|lang=crh}}
+
 ===Noun===
-{{head|crh|noun}}
+{{crh-noun}}
 
 # [[father]]
 # [[dad]]
@@ -146,16 +149,19 @@ From {{etyl|sla-pro|cs}} {{m|sla-pro|*baba}}.
 # [[coward]], [[milksop]]
 
 ====Related terms====
-* [[bába]]
-* [[babka]]
-* [[bábi]]
-* [[babí]]
-* [[babička]]
-* [[babizna]]
+{{rel3|{{l|cs|bába}}
+|{{l|cs|babka}}
+|{{l|cs|bábi}}
+|{{l|cs|babí}}
+|{{l|cs|babička}}
+|{{l|cs|babizna}}}}
 
 ----
 
 ==Finnish==
+
+===Etymology===
+{{rfe|lang=fi}}
 
 ===Pronunciation===
 * {{hyphenation|ba|ba|lang=fi}}
@@ -175,7 +181,7 @@ From {{etyl|sla-pro|cs}} {{m|sla-pro|*baba}}.
 ==French==
 
 ===Etymology===
-From {{etyl|pl|fr}} {{term|baba|lang=pl}}, introduced in France in the eighteenth century at the court of {{w|Stanisław Leszczyński}}, king of Poland, duke of [[Lorraine]] and father-in-law of Louis XV.
+{{borrowing|pl|baba|lang=fr}}, introduced in France in the eighteenth century at the court of {{w|Stanisław Leszczyński}}, king of Poland, duke of [[Lorraine]] and father-in-law of Louis XV.
 
 ===Pronunciation===
 * {{IPA|/ba.ba/|lang=fr}}
@@ -184,7 +190,7 @@ From {{etyl|pl|fr}} {{term|baba|lang=pl}}, introduced in France in the eighteent
 {{fr-noun|m}}
 
 # [[#English|baba]] {{gloss|type of cake}}
-#* ''{{term|baba au rhum|lang=fr}}''
+#* {{usex|[[baba au rhum]]|inline=1|lang=fr}}
 
 ===References===
 * {{R:TLFi}}
@@ -202,7 +208,7 @@ A link of the term with the American {{term|bye-bye}} is possible but not certai
 ===Interjection===
 {{head|de|interjection}}
 
-# {{context|informal|chiefly|_|in|_|Austria|lang=de}} [[see you]], [[so long]]
+# {{label|de|informal|chiefly|_|in|_|Austria}} [[see you]], [[so long]]
 
 ====Usage notes====
 * In Austria, especially East Austria, '''baba''' is the most commonly used informal term for saying "goodbye".
@@ -212,9 +218,9 @@ A link of the term with the American {{term|bye-bye}} is possible but not certai
 ==Hiligaynon==
 
 ===Noun===
-{{hil-noun|bába}} and {{hil-noun|bâbâ}}
+{{hil-noun|bába, bâbâ}}
 
-# [[mouth]]
+# {{label|hil|anao [[mouth]]
 
 ----
 
@@ -229,16 +235,16 @@ A link of the term with the American {{term|bye-bye}} is possible but not certai
 {{hu-noun|pl=babák}}
 
 # [[doll]]
-# [[baby]] (very young child)
+# [[baby]] {{gloss|very young child}}
 
 ====Declension====
 {{hu-decl-k-back|bab|á}}{{hu-pos-tok|babá}}
 
 ====Derived terms====
-* [[babakocsi]]
-* [[kisbaba]]
-* [[próbababa]]
-* [[rongybaba]]
+{{der3|{{l|hu|babakocsi}}
+|{{l|hu|kisbaba}}
+|{{l|hu|próbababa}}
+|{{l|hu|rongybaba}}}}
 
 [[Category:hu:Family]]
 [[Category:hu:Toys]]
@@ -273,7 +279,7 @@ From {{etyl|sla-pro|dsb}} {{m|sla-pro|*baba}}.
 ====Declension====
 {{dsb-decl-noun-1|bab}}
 
-{{catlangcode|dsb|Female|Foods|Occupations}}
+{{catlangcode|dsb|People|Female|Foods|Occupations}}
 
 ----
 
@@ -291,7 +297,7 @@ From {{etyl|sla-pro|dsb}} {{m|sla-pro|*baba}}.
 ==Malay==
 
 ===Etymology===
-Voiced {{l|ms|bapa}}.
+Voiced {{m|ms|bapa}}.
 
 ===Pronunciation===
 * {{a|Johor-Selangor}} {{IPA|/babə/|lang=ms}}
@@ -300,9 +306,9 @@ Voiced {{l|ms|bapa}}.
 * {{rhymes|ə|lang=ms}}
 
 ===Noun===
-{{head|ms|noun}}
+{{ms-noun}}
 
-# {{l/en|father}} (male parent)
+# [[father]] {{gloss|male parent}}
 
 ====Synonyms====
 * {{l|ms|bapa}} ({{l|ms|bapanda}}, {{l|ms|bapai}}, {{l|ms|bapak}}, {{l|ms|bapang}}, {{l|ms|papa}})
@@ -316,16 +322,16 @@ Voiced {{l|ms|bapa}}.
 
 ==Polish==
 
-===Pronunciation===
-* {{IPA|/ˈbaba/|lang=pl}}
-
 ===Etymology 1===
 From {{etyl|sla-pro|pl}} {{m|sla-pro|*baba}}.
+
+===Pronunciation===
+* {{IPA|/ˈbaba/|lang=pl}}
 
 ====Noun====
 {{pl-noun|f}}
 
-# {{context|pejorative|lang=pl}} [[old woman]], [[woman]]
+# {{label|pl|pejorative}} [[old woman]], [[woman]]
 
 =====Declension=====
 {{pl-decl-noun
@@ -364,7 +370,7 @@ From {{etyl|sla-pro|pl}} {{m|sla-pro|*baba}}.
 ==Portuguese==
 
 ===Etymology===
-From the hypothetical {{etyl|la|pt}} word *{{term||baba|lang=la}}.
+From the hypothetical {{etyl|la|pt}} word {{m|la|*baba}}.
 
 ===Pronunciation===
 * {{IPA|/ˈba.ba/|lang=pt}}
@@ -375,11 +381,14 @@ From the hypothetical {{etyl|la|pt}} word *{{term||baba|lang=la}}.
 # [[drool]], [[dribble]]
 
 ====See also====
-* [[babar-se]]
+* {{l/pt|babar-se}}
 
 ----
 
 ==Romanian==
+
+===Etymology===
+{{rfe|lang=rm}}
 
 ===Pronunciation===
 * {{IPA|[ˈba.ba]|lang=ro}}
@@ -388,6 +397,8 @@ From the hypothetical {{etyl|la|pt}} word *{{term||baba|lang=la}}.
 {{ro-noun-def|fs|na|babă}}
 
 # the [[old woman]]
+
+[[Category:ro:People]]
 
 ----
 
@@ -405,8 +416,8 @@ From {{etyl|sla-pro|sh}} {{m|sla-pro|*baba}}.
 
 # [[grandmother]]
 # [[granny]], [[grandma]]
-# {{context|usually|pejorative|lang=sh}} [[old woman]]
-# {{context|pejorative|lang=sh}} [[female]] person
+# {{label|sh|usually|pejorative}} [[old woman]]
+# {{label|sh|pejorative}} [[female]] person
 
 ====Declension====
 {{sh-decl-noun
@@ -448,8 +459,8 @@ From {{etyl|sla-pro|sk}} {{m|sla-pro|*baba}}.
 ===Noun===
 {{sk-noun|f}}
 
-# {{context|colloquial|lang=sk}} [[old woman]]
-# {{context|colloquial|lang=sk}} [[midwife]]
+# {{label|sk|colloquial}} [[old woman]]
+# {{label|sk|colloquial}} [[midwife]]
 
 ----
 
@@ -470,12 +481,14 @@ From {{etyl|sla-pro|sl}} {{m|sla-pro|*baba}}.
 ====Declension====
 {{sl-decl-noun-f|báb}}
 
+[[Category:sl:People]]
+
 ----
 
 ==Spanish==
 
 ===Etymology===
-From the hypothesized {{etyl|la|es}} *{{term||baba|lang=la}}.
+From the hypothesized {{etyl|la|es}} {{m|la|*baba}}.
 
 ===Pronunciation===
 * {{IPA|/ˈbaβa/|lang=es}}
@@ -484,26 +497,29 @@ From the hypothesized {{etyl|la|es}} *{{term||baba|lang=la}}.
 {{es-noun|f}}
 
 # [[drool]], [[dribble]]
-#: La chacha lavaba, y mientras lavaba, la '''baba''' se le caía &mdash; ''The maid washed, and as she washed, she drooled.'' (classroom example of b/v use)
+#: {{usex|La chacha lavaba, y mientras lavaba, la '''baba''' se le caía.|inline=1||t=The maid washed, and as she washed, she drooled.|lang=es}} (classroom example of b/v use)
 
 ====Related terms====
-* [[babear]]
-* [[babero]]
-* [[baboso]]
-* [[babosa]]
+{{rel3|{{l|es|babear}}
+|{{l|es|babero}}
+|{{l|es|baboso}}
+|{{l|es|babosa}}}}
 
-====See also====
-* [[cieno]]
-* [[lama]]
+===See also===
+* {{l/es|cieno}}
+* {{l/es|lama}}
 
 ----
 
 ==Swahili==
 
+===Etymology===
+{{rfe|lang=sw}}
+
 ===Noun===
 {{sw-noun|n}}
 
-# [[father]] (male parent)
+# [[father]] {{gloss|male parent}}
 
 ====Coordinate terms====
 * {{l|sw|mama}}
@@ -514,6 +530,9 @@ From the hypothesized {{etyl|la|es}} *{{term||baba|lang=la}}.
 
 ==Tagalog==
 
+===Etymology===
+{{rfe|lang=tl}}
+
 ===Adverb===
 {{tl-adj}}
 
@@ -522,7 +541,7 @@ From the hypothesized {{etyl|la|es}} *{{term||baba|lang=la}}.
 ===Noun===
 {{tl-noun}}
 
-# [[chin]]
+# {{label|tl|anatomy}} [[chin]]
 
 ===Verb===
 {{head|tl|verb}}
@@ -532,6 +551,9 @@ From the hypothesized {{etyl|la|es}} *{{term||baba|lang=la}}.
 ----
 
 ==Turkish==
+
+===Etymology===
+{{rfe|lang=tr}}
 
 ===Pronunciation===
 * {{IPA|/bɑˈbɑ/|lang=tr}}
@@ -547,45 +569,40 @@ From the hypothesized {{etyl|la|es}} *{{term||baba|lang=la}}.
 {{tr-noun-v|a|poss=+|pred=+}}
 
 ====Derived terms====
-{{top4}}
-* [[Âdem baba]]
-* [[ağababa]]
-* [[ana baba]]
-* [[Arap Baba]]
-* [[baba adam]]
-* [[baba bucağı]]
-* [[baba evi]]
-* [[baba hindi]]
-* [[baba mirası]]
-{{mid4}}
-* [[baba nasihati]]
-* [[baba ocağı]]
-* [[Baba Oruç]]
-* [[baba tatlısı]]
-* [[baba yadigârı]]
-* [[baba yurdu]]
-* [[babaanne]]
-* [[babacan]]
-* [[babayiğit]]
-{{mid4}}
-* [[ballıbaba]]
-* [[büyük baba]]
-* [[dedebaba]]
-* [[devlet baba]]
-* [[efendibaba]]
-* [[Gani Baba]]
-* [[Gül Baba]]
-* [[Haçkalı Baba]]
-* [[iskele babası]]
-{{mid4}}
-* [[kayın baba]]
-* [[Mimi Baba]]
-* [[Noel baba]]
-* [[paşa baba]]
-* [[Şam Baba]]
-* [[Somuncu Baba]]
-* [[üvey baba]]
-{{bottom}}
+{{der3|{{l|tr|Âdem baba}}
+|{{l|tr|ağababa}}
+|{{l|tr|ana baba}}
+|{{l|tr|Arap Baba}}
+|{{l|tr|baba adam}}
+|{{l|tr|baba bucağı}}
+|{{l|tr|baba evi}}
+|{{l|tr|baba hindi}}
+|{{l|tr|baba mirası}}
+|{{l|tr|baba nasihati}}
+|{{l|tr|baba ocağı}}
+|{{l|tr|Baba Oruç}}
+|{{l|tr|baba tatlısı}}
+|{{l|tr|baba yadigârı}}
+|{{l|tr|baba yurdu}}
+|{{l|tr|babaanne}}
+|{{l|tr|babacan}}
+|{{l|tr|babayiğit}}
+|{{l|tr|ballıbaba}}
+|{{l|tr|büyük baba}}
+|{{l|tr|dedebaba}}
+|{{l|tr|devlet baba}}
+|{{l|tr|efendibaba}}
+|{{l|tr|Gani Baba}}
+|{{l|tr|Gül Baba}}
+|{{l|tr|Haçkalı Baba}}
+|{{l|tr|iskele babası}}
+|{{l|tr|kayın baba}}
+|{{l|tr|Mimi Baba}}
+|{{l|tr|Noel baba}}
+|{{l|tr|paşa baba}}
+|{{l|tr|Şam Baba}}
+|{{l|tr|Somuncu Baba}}
+|{{l|tr|üvey baba}}}}
 
 [[Category:tr:Family]]
 
@@ -602,7 +619,7 @@ From {{etyl|sla-pro|hsb}} {{m|sla-pro|*baba}}.
 # [[old woman]], [[grandmother]]
 # [[midwife]]
 # [[dough]], [[pastry]]
-# [[pelican]] {{gloss|bird}}
+# [[pelican]] {{qualifier|bird}}
 
 [[af:baba]]
 [[ar:baba]]
