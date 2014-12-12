@@ -1,15 +1,15 @@
 ==English==
 {{wikipedia|dab=Flight (disambiguation)|flight}}
 
-===Etymology===
-From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|flyht|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*fluhtiz}}. Cognate with Dutch {{term|vlucht|lang=nl}} and German {{term|Flucht|lang=de}}.
-
 ===Pronunciation===
 * {{enPR|flīt}}, {{IPA|/flaɪt/|lang=en}}
 * {{audio|en-us-flight.ogg|Audio (US)|lang=en}}
 * {{rhymes|aɪt|lang=en}}
 
-===Noun===
+===Etymology 1===
+From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|flyht|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*fluhtiz}}, derived from {{m|gem-pro|*fleuganą||to fly}}. Cognate with Dutch {{term|vlucht|lang=nl}}.
+
+====Noun====
 {{en-noun|~}}
 [[Image:MiG-17F Top View.JPG|thumb|right|A [[jet]] in '''flight''']]
 
@@ -36,7 +36,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|flyht|lang=ang}}, from {{etyl|
 # Several sample glasses of a specific wine [[varietal]] or other beverage. The pours are smaller than a full glass and the flight will generally include three to five different samples.
 # {{context|engineering|lang=en}} The shaped material forming the [[thread]] of a [[screw]].
 
-====Derived terms====
+=====Derived terms=====
 {{top3}}
 * [[direct flight]]
 * [[flight attendant]]
@@ -65,10 +65,10 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|flyht|lang=ang}}, from {{etyl|
 * [[top-flight]], [[topflight]]
 {{bottom}}
 
-====Related terms====
+=====Related terms=====
 * {{l|en|fly}}
 
-====Translations====
+=====Translations=====
 {{trans-top|act of flying}}
 * Arabic: {{t|ar|طيران|m|tr=ṭayarān|sc=Arab}}, {{t|ar|تحليق|m|tr=taḥlīq}}
 * Armenian: {{t+|hy|թռիչք}}
@@ -194,32 +194,6 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|flyht|lang=ang}}, from {{etyl|
 * Yiddish: {{t|yi|קורס|m|tr=kurs|sc=Hebr}}
 {{trans-bottom}}
 
-{{trans-top|act of fleeing}}
-* Arabic: {{t|ar|فِرار|m|tr=firār|sc=Arab}}
-* Armenian: {{t|hy|փախուստ}}
-* Asturian: {{t|ast|fuga|f}}, {{t|ast|fuxida|f}}
-* Bulgarian: {{t|bg|бя́гство|n|sc=Cyrl}}
-* Catalan: {{t|ca|fuga|f}}, {{t|ca|fugida|f}}
-* Czech: {{t|cs|útěk|m}}, {{t|cs|úprk|m}}
-* Finnish: {{t+|fi|pako}}
-* French: {{t+|fr|fuite|f}}
-* Galician: {{t|gl|fuxida|f}}, {{t|gl|fuga|f}}
-* German: {{t+|de|Flucht|f}}
-* Greek: {{t+|el|φόβος|m}}, {{t+|el|φυγή|f}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|menekülés}}
-* Italian: {{t+|it|fuga|f}}
-* Latin: {{t|la|fuga|f}}
-* Macedonian: {{t|mk|бегство|n|tr=bégstvo}}
-* Maori: {{t|mi|kaireretanga}}
-* Polish: {{t+|pl|ucieczka|f}}
-* Portuguese: {{t+|pt|fuga|f}}, {{t+|pt|fugida|f}}
-* Romanian: {{t+|ro|fugă}}
-* Russian: {{t+|ru|побе́г|m}}, {{t+|ru|бе́гство|n}}
-* Spanish: {{t+|es|fuga|f}}, {{t+|es|huida}}
-* Swedish: {{t+|sv|flykt|c}}
-{{trans-bottom}}
-
 {{trans-top|set of stairs}}
 * Bulgarian: {{t|bg|стълбище|n|sc=Cyrl}}
 * Czech: {{t+|cs|rameno|n}}
@@ -281,18 +255,56 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|flyht|lang=ang}}, from {{etyl|
 * Slovene: {{t+check|sl|beg|m}}
 {{trans-bottom}}
 
-===Adjective===
+====Adjective====
 {{en-adj}}
 
 # {{context|obsolete|lang=en}} [[fast|Fast]], [[swift]].
 
-===Verb===
+====Verb====
 {{en-verb}}
 
 # {{context|cricket|of a spin bowler|lang=en}} To [[throw]] the [[ball]] in such a way that it has more [[airtime]] and more [[spin]] than usual.
 
-===See also===
+====See also====
 [[Appendix:English collective nouns]]
+
+===Etymology 2===
+From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|flyht|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*fluhtiz}}, derived from {{m|gem-pro|*fleuhaną||to flee}}. Cognate with Dutch {{term|vlucht|lang=nl}} and German {{term|Flucht|lang=de}}.
+
+====Noun====
+{{en-noun|~}}
+
+# The act of [[flee]]ing.
+
+====Related terms====
+* {{l|en|flee}}
+
+=====Translations=====
+{{trans-top|act of fleeing}}
+* Arabic: {{t|ar|فِرار|m|tr=firār|sc=Arab}}
+* Armenian: {{t|hy|փախուստ}}
+* Asturian: {{t|ast|fuga|f}}, {{t|ast|fuxida|f}}
+* Bulgarian: {{t|bg|бя́гство|n|sc=Cyrl}}
+* Catalan: {{t|ca|fuga|f}}, {{t|ca|fugida|f}}
+* Czech: {{t|cs|útěk|m}}, {{t|cs|úprk|m}}
+* Finnish: {{t+|fi|pako}}
+* French: {{t+|fr|fuite|f}}
+* Galician: {{t|gl|fuxida|f}}, {{t|gl|fuga|f}}
+* German: {{t+|de|Flucht|f}}
+* Greek: {{t+|el|φόβος|m}}, {{t+|el|φυγή|f}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|menekülés}}
+* Italian: {{t+|it|fuga|f}}
+* Latin: {{t|la|fuga|f}}
+* Macedonian: {{t|mk|бегство|n|tr=bégstvo}}
+* Maori: {{t|mi|kaireretanga}}
+* Polish: {{t+|pl|ucieczka|f}}
+* Portuguese: {{t+|pt|fuga|f}}, {{t+|pt|fugida|f}}
+* Romanian: {{t+|ro|fugă}}
+* Russian: {{t+|ru|побе́г|m}}, {{t+|ru|бе́гство|n}}
+* Spanish: {{t+|es|fuga|f}}, {{t+|es|huida}}
+* Swedish: {{t+|sv|flykt|c}}
+{{trans-bottom}}
 
 [[Category:en:Fictional abilities]]
 
