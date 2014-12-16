@@ -248,39 +248,31 @@ From {{etyl|enm|nl}} {{term|ecco|lang=enm}}, {{term|ekko|lang=enm}}, from {{etyl
 ==Latin==
 
 ===Noun===
-'''echo''' {{g|f}} (''plural'' '''echus''')
+{{la-noun|ēchō||ēchūs|f|fourth}}
 
 # [[#English|echo]]
 
 ====Declension====
-{{la-decl-4th-echo|ech}}
+{{la-decl-4th-echo|ēch}}
 
 {{la-decl-noun-table{{#if:|-single}}<!--
--->|title=[[Appendix:Latin fourth declension|Fourth declension]], dative plural in {{term||-ibus|lang=la}}.<!--
+-->|title=Alternative declension<!--
 -->|num=<!--
 
--->|nom_sg=echo<!--
--->|gen_sg=echūs<!--
--->|dat_sg=echuī<!--
--->|acc_sg=echōn<!--
--->|abl_sg=echō<!--
--->|voc_sg=echo<!--
+-->|nom_sg=ēchō<!--
+-->|gen_sg=ēchūs<!--
+-->|dat_sg=ēchuī<!--
+-->|acc_sg=ēchōn<!--
+-->|abl_sg=ēchō<!--
+-->|voc_sg=ēchō<!--
 
--->|nom_pl=echūs<!--
--->|gen_pl=echuum<!--
--->|dat_pl=echibus<!--
--->|acc_pl=echūs<!--
--->|abl_pl=echibus<!--
--->|voc_pl=echūs<!--
--->}}<!--
-
--->{{catlangname|la|fourth declension nouns}}<!--
-
--->{{#if:|[[Category:la infl with second parameter]]}}<!--
-
--->
-
-[[Category:Latin nouns]]
+-->|nom_pl=ēchūs<!--
+-->|gen_pl=ēchuum<!--
+-->|dat_pl=ēchibus<!--
+-->|acc_pl=ēchūs<!--
+-->|abl_pl=ēchibus<!--
+-->|voc_pl=ēchūs<!--
+-->}}
 
 ----
 
