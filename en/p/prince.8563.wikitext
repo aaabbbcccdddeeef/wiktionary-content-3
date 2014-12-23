@@ -69,12 +69,12 @@ From {{etyl|xno|en}}, {{etyl|fro|en}} {{term|prince|lang=fro}}, from {{etyl|la|e
 
 ====Translations====
 {{trans-top|male ruler or head of a principality}}
-* Arabic: {{t|ar|أمير|m|tr='amīr|sc=Arab}}
-*: Moroccan Arabic: {{t|ary|مير|tr=mīr}} {{qualifier|old}}
-* Armenian: {{t|hy|իշխան|tr=išxan}}
+* Arabic: {{t|ar|أَمِير|m|sc=Arab}}
+*: Moroccan Arabic: {{t|ary|مير|tr=mir}} {{qualifier|old}}
+* Armenian: {{t|hy|իշխան}}
 * Asturian: {{t|ast|príncipe|m}}
 * Belarusian: {{t|be|князь|m|sc=Cyrl}}, {{t|be|прынц|m|sc=Cyrl}}
-* Bulgarian: {{t+|bg|княз|tr=knjaz|sc=Cyrl}}
+* Bulgarian: {{t+|bg|княз|m|sc=Cyrl}}
 * Catalan: {{t+|ca|príncep|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|王子|tr=wángzǐ|sc=Hani}}, {{t+|cmn|皇子|tr=huángzǐ|sc=Hani}}
@@ -105,7 +105,7 @@ From {{etyl|xno|en}}, {{etyl|fro|en}} {{term|prince|lang=fro}}, from {{etyl|la|e
 * Latin: {{t|la|regulus}}, {{t|la|princips|m}}, {{t+|la|princeps|m}}
 * Latvian: {{t|lv|princis}}
 * Luxembourgish: {{t|lb|Prënz|m}}
-* Macedonian: {{t|mk|кнез|m|tr=knez}}
+* Macedonian: {{t|mk|кнез|m}}
 * Malay: {{t|ms|putera}}
 * Manx: {{t|gv|prinse|m}}, {{t|gv|flah|m}}
 * Maori: {{t|mi|piriniha}}
@@ -117,7 +117,7 @@ From {{etyl|xno|en}}, {{etyl|fro|en}} {{term|prince|lang=fro}}, from {{etyl|la|e
 * Portuguese: {{t+|pt|príncipe}}
 * Quechua: {{t|qu|awki}}
 * Romanian: {{t+|ro|prinț}}
-* Russian: {{t+|ru|князь|m|tr=knjaz'}}, {{t+|ru|принц|m|tr=princ}}
+* Russian: {{t+|ru|князь|m}}, {{t+|ru|принц|m}}
 * Scottish Gaelic: {{t|gd|prionnsa|m}}, {{t|gd|flath|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|краљевић|m|sc=Cyrl}}, {{t|sh|царевић|m|sc=Cyrl}}, {{t|sh|принц|m|sc=Cyrl}}
@@ -138,10 +138,10 @@ From {{etyl|xno|en}}, {{etyl|fro|en}} {{term|prince|lang=fro}}, from {{etyl|la|e
 {{trans-bottom}}
 
 {{trans-top|son or male-line grandson of a reigning monarch}}
-* Arabic: {{t|ar|أمير|m|tr='amiir}}
-* Armenian: {{t|hy|արքայազն|tr=ark'ayazn}}
+* Arabic: {{t|ar|أَمِير|m}}
+* Armenian: {{t|hy|արքայազն}}
 * Asturian: {{t|ast|príncipe|m}}
-* Belarusian: {{t|be|карале́віч|m|sc=Cyrl}}
+* Belarusian: {{t|be|прынц|m|sc=Cyrl}}, {{t|be|царэ́віч|m|sc=Cyrl}} {{qualifier|tsar's son}}, {{t|be|карале́віч|m|sc=Cyrl}} {{qualifier|king's son}}
 * Catalan: {{t+|ca|príncep|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|王子|tr=wángzǐ|sc=Hani}}
@@ -173,7 +173,7 @@ From {{etyl|xno|en}}, {{etyl|fro|en}} {{term|prince|lang=fro}}, from {{etyl|la|e
 *: Sorani: {{t+|ku|میر|sc=ku-Arab}}
 * Latin: {{t|la|princips|m}}, {{t|la|regulus}}, {{t+|la|princeps}}
 * Luxembourgish: {{t|lb|Prënz|m}}
-* Macedonian: {{t|mk|принц|m|tr=princ}}
+* Macedonian: {{t|mk|принц|m}}
 * Malay: {{t|ms|putera}}
 * Malayalam: {{t|ml|രാജകുമാരന്‍|m|sc=Mlym}}
 * Manx: {{t|gv|prinse|m}}
@@ -185,7 +185,7 @@ From {{etyl|xno|en}}, {{etyl|fro|en}} {{term|prince|lang=fro}}, from {{etyl|la|e
 * Polish: {{t+|pl|książę|m}}
 * Portuguese: {{t+|pt|príncipe|m}}
 * Romanian: {{t+|ro|prinț}}
-* Russian: {{t+|ru|принц|m|tr=princ}}, {{t+|ru|царевич|m|tr=carévič}} {{qualifier|tsar's son}}, {{t+|ru|королевич|m|tr=korolévič}} {{qualifier|king's son}}
+* Russian: {{t+|ru|принц|m}}, {{t+|ru|царе́вич|m}} {{qualifier|tsar's son}}, {{t+|ru|короле́вич|m}} {{qualifier|king's son}}
 * Scottish Gaelic: {{t|gd|prionnsa|m}}, {{t|gd|flath|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|краљевић|m|sc=Cyrl}}, {{t|sh|царевић|m|sc=Cyrl}}, {{t|sh|принц|m|sc=Cyrl}}
@@ -196,7 +196,7 @@ From {{etyl|xno|en}}, {{etyl|fro|en}} {{term|prince|lang=fro}}, from {{etyl|la|e
 * Swedish: {{t+|sv|prins|c}}
 * Telugu: {{t+|te|యువరాజు}}
 * Turkish: {{t+|tr|prens}}
-* Ukrainian: {{t|uk|принц|m|tr=prync}}, {{t+|uk|королевич|tr=korolévič}}
+* Ukrainian: {{t|uk|принц|m}}, {{t+|uk|царе́вич|m}} {{qualifier|tsar's son}}, {{t+|uk|короле́вич|m}} {{qualifier|king's son}}
 * Uyghur: {{t+|ug|شاھزادە|sc=ug-Arab}}
 * Vietnamese: {{t|vi|vương tử}}, {{t+|vi|hoàng tử}}
 * Volapük: {{t+|vo|leson}}
@@ -230,11 +230,11 @@ From {{etyl|xno|en}}, {{etyl|fro|en}} {{term|prince|lang=fro}}, from {{etyl|la|e
 * Latin: {{t+check|la|princeps|m}}
 * Javanese: {{t-check|jv|putro}}
 {{trans-mid}}
-* Malayalam: {{t-check|ml|രാജകുമാരന്‍|m|tr=raajakumaaran|sc=Mlym}}
+* Malayalam: {{t-check|ml|രാജകുമാരന്‍|sc=Mlym}}
 * Mongolian: {{t-check|mn|ван}}
 * Novial: {{t-check|nov|prinso}}
 * Romanian: {{t+check|ro|prinț|m}}
-* Telugu: {{t-check|te|రాజకుమారుడు|tr=rAjakumArudu|sc=Telu}}, {{t+check|te|రాకుమారుడు|tr=rAkumArudu|sc=Telu}}
+* Telugu: {{t-check|te|రాజకుమారుడు|sc=Telu}}, {{t+check|te|రాకుమారుడు|sc=Telu}}
 {{trans-bottom}}
 
 ====External links====
