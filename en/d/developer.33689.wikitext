@@ -104,7 +104,7 @@
 * Japanese: {{t|ja|プログラマー|tr=puroguramā}}
 * Korean: {{t|ko|프로그래머|sc=Kore}}
 * Polish: {{t+|pl|programista|m}}
-* Portuguese: {{t+|pt|desenvolvedor|m}}, {{t|pt|developer|m}}, {{t+|pt|programador|m}}
+* Portuguese: {{t+|pt|desenvolvedor|m}}, {{t|pt|developer|m-m}}, {{t+|pt|programador|m}}
 * Russian: {{t+|ru|программист|m|tr=programmíst|sc=Cyrl}}, {{t+|ru|программистка|f|tr=programmístka|sc=Cyrl}}, {{t+|ru|разработчик|m|tr=razrabótčik|sc=Cyrl}}, {{t|ru|разработчица|f|tr=razrabótčica|sc=Cyrl}}
 * Swedish: {{t|sv|mjukvaruutvecklare|c}}
 * Turkish: {{t|tr|yazılım uzmanı}}
@@ -142,6 +142,18 @@ From {{etyl|en|da}} ''[[#English|developer]]''.
 
 ====Synonyms====
 * {{l|da|udvikler}}
+
+----
+
+==Portuguese==
+
+===Noun===
+{{pt-noun|m-f|s}}
+
+# {{l|en|developer}} {{gloss|software programmer}}
+
+====Synonyms====
+* {{l|pt|desenvolvedor}}, {{l|pt|programador}}
 
 [[ar:developer]]
 [[cs:developer]]
