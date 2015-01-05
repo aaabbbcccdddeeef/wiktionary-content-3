@@ -2,7 +2,7 @@
 ==Albanian==
 
 ===Etymology===
-From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*trei-}}, from {{etyl|ine-pro|sq}} {{m|ine-pro|*tréyes}}. Cognate to Latin {{term|tres||three|lang=la}} and Sanskrit {{term|त्रि||tr=tri|three|lang=sa}}.
+From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*trei-}}, from {{etyl|ine-pro|sq}} {{m|ine-pro|*tréyes}}. Cognate to Latin {{m|la|trēs||three}} and Sanskrit {{m|sa|त्रि||three}}.
 
 ===Pronunciation===
 * {{IPA|/tɾɛ/|lang=sq}}
@@ -23,14 +23,14 @@ From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*trei-}}, from {{etyl|ine-pro|sq}} {{m|ine-
 {{head|br|adverb}}
 
 # [[very]]
-#: ''[[mat#Breton|Mat]]-'''tre''' !'' — Very good!
+#: {{ux|br|Mat-'''tre'''!|Very good!}}
 
 ----
 
 ==Danish==
 
 ===Etymology===
-From {{etyl|non|da}} {{term|þrír|lang=non}}, from {{etyl|gmq-pro|da}} {{term|lang=gmq-pro|ᚦᚱᛁᛃᛟᛉ|tr=þrijoz}} {{qualifier|feminine plural}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*þrīz}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*tréyes||three}}
+From {{etyl|non|da}} {{m|non|þrír}}, from {{etyl|gmq-pro|da}} {{m|gmq-pro|ᚦᚱᛁᛃᛟᛉ}} {{qualifier|feminine plural}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*þrīz}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*tréyes||three}}
 
 ===Numeral===
 {{head|da|numeral}}
@@ -42,7 +42,7 @@ From {{etyl|non|da}} {{term|þrír|lang=non}}, from {{etyl|gmq-pro|da}} {{term|l
 ==Esperanto==
 
 ===Etymology===
-From {{etyl|fr|eo}} [[très]].
+From {{etyl|fr|eo}} {{m|fr|très}}.
 
 ===Pronunciation===
 * {{IPA|/ˈtre/|lang=eo}}
@@ -69,7 +69,7 @@ From {{etyl|fr|eo}} [[très]].
 ==Italian==
 
 ===Etymology===
-From {{etyl|la|it}} {{term|trēs|lang=la}}, from {{etyl|itc-pro|it}} {{m|itc-pro|*trēs}}, from {{etyl|ine-pro|it}} {{m|ine-pro|*tréyes}}.
+From {{etyl|la|it}} {{m|la|trēs}}, from {{etyl|itc-pro|it}} {{m|itc-pro|*trēs}}, from {{etyl|ine-pro|it}} {{m|ine-pro|*tréyes}}.
 
 ===Pronunciation===
 * {{IPA|[t̪re]|lang=it}}
@@ -77,8 +77,8 @@ From {{etyl|la|it}} {{term|trēs|lang=la}}, from {{etyl|itc-pro|it}} {{m|itc-pro
 
 {{cardinalbox|it|2|3|4|due|quattro|ord=terzo|mult=triplo}}
 
-===Adjective===
-{{head|it|adjective|g=m|g2=f|invariable}}
+===Number===
+{{head|it|number|cat2=cardinal numbers}}
 
 # [[three]]
 
@@ -109,8 +109,6 @@ From {{etyl|la|it}} {{term|trēs|lang=la}}, from {{etyl|itc-pro|it}} {{m|itc-pro
 ===See also===
 * [[Appendix:Italian numbers]]
 
-[[Category:Italian cardinal numbers]]
-
 ----
 
 ==Lojban==
@@ -125,7 +123,7 @@ From {{etyl|la|it}} {{term|trēs|lang=la}}, from {{etyl|itc-pro|it}} {{m|itc-pro
 ==Norwegian==
 
 ===Etymology 1===
-From {{etyl|non|no}} {{term|þrír|lang=non}}, from {{etyl|gmq-pro|no}} {{term|lang=gmq-pro|ᚦᚱᛁᛃᛟᛉ|tr=þrijoz}} {{qualifier|feminine plural}}, from {{etyl|gem-pro|no}} {{m|gem-pro|*þrīz}}, ultimately from {{etyl|ine-pro|no}} {{m|ine-pro|*tréyes}}. Compare Danish and Swedish {{term|tre|lang=da}}, Icelandic ''[[þrír]]'', Faroese {{term|tríggir|lang=fo}}.
+From {{etyl|non|no}} {{m|non|þrír}}, from {{etyl|gmq-pro|no}} {{m|gmq-pro|ᚦᚱᛁᛃᛟᛉ}} {{qualifier|feminine plural}}, from {{etyl|gem-pro|no}} {{m|gem-pro|*þrīz}}, ultimately from {{etyl|ine-pro|no}} {{m|ine-pro|*tréyes}}. Compare Danish and Swedish {{m|da|tre}}, Icelandic {{m|is|þrír}}, Faroese {{m|fo|tríggir}}.
 
 ====Alternative forms====
 * {{l|nn|tri}} {{qualifier|Nynorsk, bracket form, defunct}}
@@ -139,14 +137,14 @@ From {{etyl|non|no}} {{term|þrír|lang=non}}, from {{etyl|gmq-pro|no}} {{term|l
 # {{context|cardinal|lang=no}} [[three]]
 
 =====Derived terms=====
-* [[tredel]]
-* [[tredimensjonal]]
+* {{l|no|tredel}}
+* {{l|no|tredimensjonal}}
 
 ====References====
 * {{R:Dokumentasjonsprosjektet}}
 
 ===Etymology 2===
-From {{etyl|non|no}} {{term|tré|lang=non}}. The plurals {{term|trær|lang=nb}} and {{term|trærne|lang=nb}} are derived from {{etyl|da|-}}.
+From {{etyl|non|no}} {{m|non|tré}}. The plurals {{m|nb|trær}} and {{m|nb|trærne}} are derived from {{etyl|da|-}}.
 
 ====Pronunciation====
 * {{audio|No-tre.ogg|Audio|lang=no}}
@@ -155,25 +153,23 @@ From {{etyl|non|no}} {{term|tré|lang=non}}. The plurals {{term|trær|lang=nb}} 
 {{head|no|noun}}
 
 # [[tree]]
-#: '''''Trea''' i skogen var gamle.''
-#:: The '''trees''' in the forest were old.
+#: {{ux|no|'''Trea''' i skogen var gamle.|The '''trees''' in the forest were old.}}
 # [[wood]]
-#:''Dette bordet er lagd av '''tre'''.''
-#:: This table is made of '''wood'''.
+#: {{ux|no|Dette bordet er lagd av '''tre'''.|This table is made of '''wood'''.}}
 
 =====Inflection=====
 {{no-noun-infl|nb-class=irreg|g=n|ds=treet|ip=tre|ip2=trær|dp=trea|dp2=trærne|nn-class=n1}}
 
 =====Derived terms=====
 {{top2}}
-* [[balltre]]
-* [[epletre]]
-* [[frukttre]]
-* {{l-nn|joletre}}
+* {{l|no|balltre}}
+* {{l|no|epletre}}
+* {{l|no|frukttre}}
+* {{l|nn|joletre}}
 {{mid2}}
-* [[juletre]]
-* [[stamtre]]
-* [[trehus]]
+* {{l|no|juletre}}
+* {{l|no|stamtre}}
+* {{l|no|trehus}}
 {{bottom}}
 
 ====References====
@@ -184,7 +180,7 @@ From {{etyl|non|no}} {{term|tré|lang=non}}. The plurals {{term|trær|lang=nb}} 
 {{head|no|verb}}
 
 # to [[step]] (in, out etc.)
-#: ''Tre av!'' (military; «Dismiss!»)
+#: {{ux|no|'''Tre''' av!|Dismissed!}} {{i|military}}
 
 ----
 
@@ -197,7 +193,7 @@ From {{etyl|non|no}} {{term|tré|lang=non}}. The plurals {{term|trær|lang=nb}} 
 {{head|nb|verb|imperative|tre|present tense|trer|simple past|tredde|past participle|tredd}}
 
 # to [[thread]]
-#: '''''tre''' en nål - thread a needle''
+#: {{ux|nb|'''tre''' en nål|thread a needle|inline=1}}
 
 ----
 
@@ -245,7 +241,7 @@ From {{etyl|sga|gd}} {{m|sga|trí||through}}, from {{etyl|ine-pro|gd}} zero-grad
 ==Swedish==
 
 ===Etymology===
-From {{etyl|non|sv}} {{term|þrír|lang=non}}, from {{etyl|gmq-pro|sv}} {{term|lang=gmq-pro|ᚦᚱᛁᛃᛟᛉ|tr=þrijoz}} {{qualifier|feminine plural}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*þrīz}}, ultimately from {{etyl|ine-pro|sv}} {{m|ine-pro|*tréyes}}. Compare Norwegian and Danish {{term|tre|lang=da}}, Icelandic ''[[þrír]]'', Faroese {{term|tríggir|lang=fo}}.
+From {{etyl|non|sv}} {{m|non|þrír}}, from {{etyl|gmq-pro|sv}} {{m|gmq-pro|ᚦᚱᛁᛃᛟᛉ}} {{qualifier|feminine plural}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*þrīz}}, ultimately from {{etyl|ine-pro|sv}} {{m|ine-pro|*tréyes}}. Compare Norwegian and Danish {{m|da|tre}}, Icelandic {{m|is|þrír}}, Faroese {{m|fo|tríggir}}.
 
 ===Pronunciation===
 * {{IPA|/treː/|lang=sv}}
@@ -257,11 +253,11 @@ From {{etyl|non|sv}} {{term|þrír|lang=non}}, from {{etyl|gmq-pro|sv}} {{term|l
 # {{context|cardinal|lang=sv}} [[three]]
 
 ====Synonyms====
-* [[trenne]] {{qualifier|archaic}}
+* {{l|sv|trenne}} {{qualifier|archaic}}
 
 ====Related terms====
-* [[trea]]
-* [[tredje]]
+* {{l|sv|trea}}
+* {{l|sv|tredje}}
 
 ====See also====
 * {{l|sv|noll}}, {{l|sv|ett}}, {{l|sv|två}}, {{l|sv|tre}}, {{l|sv|fyra}}, {{l|sv|fem}}, {{l|sv|sex}}, {{l|sv|sju}}, {{l|sv|åtta}}, {{l|sv|nio}}, {{l|sv|tio}}, {{l|sv|elva}}, {{l|sv|tolv}}
@@ -271,7 +267,7 @@ From {{etyl|non|sv}} {{term|þrír|lang=non}}, from {{etyl|gmq-pro|sv}} {{term|l
 ==Tocharian A==
 
 ===Etymology===
-From {{etyl|ine-toc-pro|xto}}, from {{etyl|ine-pro|xto}} {{m|ine-pro|*tréyes}}. Cognate with Tocharian B {{term|trey|lang=txb}}, {{term|trai|lang=txb}}.
+From {{etyl|ine-toc-pro|xto}}, from {{etyl|ine-pro|xto}} {{m|ine-pro|*tréyes}}. Cognate with Tocharian B {{m|txb|trey}}, {{m|txb|trai}}.
 
 ===Numeral===
 {{head|xto|numeral}}
@@ -280,8 +276,10 @@ From {{etyl|ine-toc-pro|xto}}, from {{etyl|ine-pro|xto}} {{m|ine-pro|*tréyes}}.
 
 ----
 ==Vietnamese==
+
 ===Etymology===
 From {{etyl|mkh-vie-pro|vi}} {{m|mkh-vie-pro|*k-lɛː||}}
+
 ===Pronunciation===
 {{vi-pron}}
 
@@ -292,10 +290,13 @@ From {{etyl|mkh-vie-pro|vi}} {{m|mkh-vie-pro|*k-lɛː||}}
 
 ====Synonyms====
 *{{l|vi|trúc}}
+
 ====Related terms====
 *{{l|vi|trúc}}
 *{{l|vi|nứa}}
+
 [[Category:vi:Grasses]]
+
 ----
 
 ==Welsh==
@@ -308,7 +309,7 @@ From {{etyl|mkh-vie-pro|vi}} {{m|mkh-vie-pro|*k-lɛː||}}
 
 # {{alternative form of|tref|lang=cy}}
 
-====Mutation====
+===Mutation===
 {{cy-mut-t|re}}
 
 [[ast:tre]]
