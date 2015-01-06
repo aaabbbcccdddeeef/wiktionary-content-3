@@ -380,20 +380,31 @@ From {{etyl|grc|nn}} ''"atomos"''
 
 ==Serbo-Croatian==
 
+===Etymology===
+From {{etyl|grc|sh}} {{m|grc|ἄτομος}}.
+
+===Pronunciation===
+* {{IPA|/ǎtoːm/|lang=sh}}
+* {{hyphenation|a|tom|lang=sh}}
+
 ===Noun===
 {{sh-noun|g=m|head=àtōm|r|атом|а̀то̄м}}
 
 # {{l/en|atom}}
 
 ====Declension====
-{{sh-decl-noun|atom|atomi
-|atoma|atoma
+{{sh-decl-noun
+|àtōm|atomi
+|atóma|atoma
 |atomu|atomima
 |atom|atome
 |atome|atomi
 |atomu|atomima
 |atomom|atomima
 }}
+
+===References===
+* {{R:sh:HJP|e19jXw%3D%3D}}
 
 [[Category:sh:Physics]]
 
