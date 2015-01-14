@@ -160,7 +160,7 @@ From {{etyl|la|en}} {{term|plasticus||of molding|lang=la}}, from {{etyl|grc|en}}
 * Catalan: {{t+|ca|plàstic}}
 * Czech: {{t|cs|tvárný|m}}
 * Dutch: {{t+|nl|plastisch}}
-* Finnish: {{t+|fi|muovinen}}
+* Finnish: {{t+|fi|muovailtava}}, {{t|fi|plastinen}}
 * German: {{t+|de|plastisch}}
 {{trans-mid}}
 * Italian: {{t|it|plastico}}
@@ -169,9 +169,18 @@ From {{etyl|la|en}} {{term|plasticus||of molding|lang=la}}, from {{etyl|grc|en}}
 * Tamil: {{t+|ta|ஞெகிழி|sc=Taml}}
 {{trans-bottom}}
 
-{{trans-top|Capable of adapting to varying conditions}}
+{{trans-top|medicine: producing tissue}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|creative, formative}}
+* Finnish: {{t|fi|luova}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|biology: capable of adapting to varying conditions}}
 * Catalan: {{t+|ca|plàstic}}
-* Finnish: {{t|fi|plastinen}}, {{t|fi|mukautuva}}
+* Finnish: {{t|fi|plastinen}}, {{t|fi|mukautuva}}, {{t|fi|muuntautumiskykyinen}}
 * German: {{t+|de|plastisch}}
 {{trans-mid}}
 * Italian: {{t+|it|malleabile}}
@@ -179,18 +188,33 @@ From {{etyl|la|en}} {{term|plasticus||of molding|lang=la}}, from {{etyl|grc|en}}
 * Spanish: {{t|es|maleable}}
 {{trans-bottom}}
 
-{{trans-top|Constructed of plastic}}
+{{trans-top|of or pertaining to the inelastic, non-brittle, deformation of a material}}
+* Finnish: {{t|fi|plastinen}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|made of plastic}}
 * Armenian: {{t|hy|պլաստմասսայե|sc=Armn}}
 * Bengali: {{t|bn|প্লাস্টিক|sc=Beng}}
 * Catalan: {{t+|ca|plàstic}}
 * Czech: {{t|cs|plastový}}
 * Dutch: {{t+|nl|plastic}}
 {{trans-mid}}
-* Finnish: {{t+|fi|muovinen}}
+* Finnish: {{t+|fi|muovinen}}, {{t|fi|muovi|alt=muovi-}}
 * French: {{t+|fr|plastique}}
 * German: {{t+|de|Plastik|alt=Plastik-}} {{qualifier|in compound words}}
 * Italian: {{t|it|plastico}}
 * Spanish: {{t+|es|plástico}}, {{t+|es|plástico|alt=de plástico}}
+{{trans-bottom}}
+
+{{trans-top|inferior or not the real thing}}
+* Finnish: {{t|fi|muovinen}}, {{t|fi|muovi|alt=muovi-}}; {{t|fi|keinotekoinen}}, {{t|fi|keino-}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|slang, of a person: fake, snobbish}}
+* Finnish: {{t|fi|falski}}
+{{trans-mid}}
 {{trans-bottom}}
 
 [[Category:en:Materials]]
