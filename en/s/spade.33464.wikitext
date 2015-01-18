@@ -30,7 +30,7 @@ From {{etyl|ang|en}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, from {{et
 {{trans-top|a garden tool with a handle and a flat blade for digging}}
 * Afrikaans: {{t|af|graaf}}
 * Albanian: {{t|sq|lopatë|f}}, {{t|sq|kaci|m}}
-* Arabic: {{t|ar|مجرفة|f|tr=míjrafa|sc=Arab}}, {{t|ar|مِسْحَاة|f|sc=Arab}}
+* Arabic: {{t|ar|مِجٌرَفَة|f|sc=Arab}}, {{t|ar|مِجٌرَف|m|sc=Arab}}, {{t|ar|مِسْحَاة|f|sc=Arab}}
 * Armenian: {{t+|hy|բահ|sc=Armn}}
 * Asturian: {{t+|ast|pala|f}}
 * Azeri: {{t+|az|kürək}}
@@ -41,7 +41,7 @@ From {{etyl|ang|en}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, from {{et
 * Burmese: {{t+|my|ဂေါ်|sc=Mymr}}
 * Chechen: {{t|ce|баьхьа|sc=Cyrl}}, {{t|ce|бел|sc=Cyrl}}
 * Chinese:
-*: Mandarin: {{t+|cmn|鏟|sc=Hani}}, {{t+|cmn|铲|tr=chǎn|sc=Hani}}, {{t|cmn|鏟子|sc=Hani}}, {{t+|cmn|铲子|tr=chǎnzi|sc=Hani}}, {{t+|cmn|鍬|sc=Hani}}, {{t+|cmn|锹|tr=qiāo|sc=Hani}}, {{t|cmn|鐵鍬|sc=Hani}}, {{t+|cmn|铁锹|tr=tiěqiāo|sc=Hani}}, {{t|cmn|鐵杴|sc=Hani}}, {{t+|cmn|铁锨|tr=tiěxiān|sc=Hani}}, {{t+|cmn|鍤|sc=Hani}}, {{t+|cmn|锸|tr=chā|sc=Hani}}
+*: Mandarin: {{t+|cmn|鏟|sc=Hani}}, {{t+|cmn|铲|tr=chǎn|sc=Hani}}, {{t+|cmn|鏟子|sc=Hani}}, {{t+|cmn|铲子|tr=chǎnzi|sc=Hani}}, {{t+|cmn|鍬|sc=Hani}}, {{t+|cmn|锹|tr=qiāo|sc=Hani}}, {{t+|cmn|鐵鍬|sc=Hani}}, {{t+|cmn|铁锹|tr=tiěqiāo|sc=Hani}}, {{t+|cmn|鐵杴|sc=Hani}}, {{t+|cmn|铁锨|tr=tiěxiān|sc=Hani}}, {{t+|cmn|鍤|sc=Hani}}, {{t+|cmn|锸|tr=chā|sc=Hani}}
 * Chuvash: {{t|cv|кĕреçе|sc=Cyrl}}
 * Crimean Tatar: {{t|crh|kürek}}
 * Czech: {{t+|cs|rýč|m}}
@@ -89,7 +89,9 @@ From {{etyl|ang|en}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, from {{et
 * Romanian: {{t+|ro|lopată|f}}, {{t+|ro|cazma|f}}
 * Russian: {{t|ru|штыкова́я лопа́та|f}}, {{t+|ru|лопа́та|f}}, {{t+|ru|за́ступ|m}}
 * Scottish Gaelic: {{t|gd|spaid|f}}
-* Serbo-Croatian: {{t|sh|лопата|f}}, {{t+|sh|lopata|f}}, {{t|sh|ашов|m}}, {{t+|sh|ašov|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|лопата|f}}, {{t|sh|ашов|m}}
+*: Roman: {{t+|sh|lopata|f}}, {{t+|sh|ašov|m}}
 * Shor: {{t|cjs|кÿрек|tr=kürek|sc=Cyrl}}, {{t|cjs|кÿрчек|tr=kürçek|sc=Cyrl}}
 * Slovak: {{t|sk|rýľ|m}}
 * Slovene: {{t+|sl|lopata|f}}
@@ -110,10 +112,11 @@ From {{etyl|ang|en}} {{term|spadu|lang=ang}}, {{term|spada|lang=ang}}, from {{et
 
 {{trans-top|one of the black suits in a deck of cards}}
 * Albanian: {{t|sq|maç|m}}
-* Arabic: {{t|ar|البستوني|tr=al-bastūni|m}}
+* Arabic: {{t|ar|الْبَسْتُونِي|m}}
 * Armenian: {{qualifier|formal}} {{t+|hy|ագռավ|sc=Armn}}, {{qualifier|informal}} {{t|hy|ղառ|sc=Armn}}
 * Bulgarian: {{t+|bg|пика|f}}
-* Chinese: {{qualifier|Hong Kong}} {{t|zh|揆扇|tr=kuí shàn|sc=Hani}}
+* Chinese:
+*: Mandarin: {{t|zh|揆扇|tr=kuí shàn|sc=Hani}} {{qualifier|Hong Kong}}
 * Danish: {{t+|da|spar|c}}
 * Dutch: {{t+|nl|schoppen|p}}, {{qualifier|Flemish}} {{t|nl|schuppen|p}}
 * Estonian: {{t|et|poti}}, {{t|et|pada}}
