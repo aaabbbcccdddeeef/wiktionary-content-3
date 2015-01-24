@@ -5,7 +5,7 @@
 ===Noun===
 {{en-noun|head=[[primary]] [[key]]}}
 
-# {{context|computing|lang=en}} In the design of a [[database]] [[table]], the primary key (abbreviated [[PK]]) is selected among the non-empty set of [[candidate key]]s. The PK is a [[column]] (or an [[irreducible]] group of columns) able to uniquely identify every [[row]] of the table. 
+# {{context|computing|lang=en}} In the design of a [[database]] [[table]], the primary key (abbreviated [[PK]]) is selected among the non-empty set of [[candidate key]]s. The PK is a [[column]] (or an [[irreducible]] group of columns) able to identify every [[row]] of the table. 
 
 ====Related terms====
 * [[candidate key]]
