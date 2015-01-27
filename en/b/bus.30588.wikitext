@@ -25,18 +25,15 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 * {{sense|electrical conductor}} [[electrical bus]], [[busbar]], [[digit trunk]]
 
 ====Derived terms====
-{{rel-top|Terms derived from ''bus''}}
-* [[booze bus]]
-* [[busbar]]
-* [[bus duct]]
-* [[bus lane]]
-* [[short bus]]
-{{rel-mid}}
-* [[bus route]]
-* [[bus stop]]
-* [[bustitution]]
-* [[back end of a bus]], [[look like the back end of a bus]]
-{{rel-bottom}}
+{{der3|[[booze bus]]
+|[[busbar]]
+|[[bus duct]]
+|[[bus lane]]
+|[[short bus]]
+|[[bus route]]
+|[[bus stop]]
+|[[bustitution]]
+|[[back end of a bus]], [[look like the back end of a bus]]}}
 
 ====Translations====
 {{trans-top|vehicle}}
@@ -222,7 +219,10 @@ The Canadian Oxford Dictionary only presents the spellings {{term|buses}}, {{ter
 * [[UBS#English|UBS]]
 * [[USB#English|USB]]
 
+[[Category:en:Vehicles]]
+[[Category:200 English basic words]]
 [[Category:1000 English basic words]]
+
 ----
 
 ==Afrikaans==
@@ -237,7 +237,7 @@ The Canadian Oxford Dictionary only presents the spellings {{term|buses}}, {{ter
 ==Catalan==
 
 ===Etymology 1===
-Cognate to {{etyl|es|-}} {{term|lang=es|buso||underwater snail}} and {{etyl|pt|-}} {{term|lang=pt|búzio||underwater snail}}, from {{etyl|la|ca}} {{m|la|būcina||horn}}.
+Cognate to {{etyl|es|-}} {{m|es|buso||underwater snail}} and {{etyl|pt|-}} {{m|pt|búzio||underwater snail}}, from {{etyl|la|ca}} {{m|la|būcina||horn}}.
 
 ====Noun====
 {{ca-noun|mf|bussos}}
@@ -245,7 +245,7 @@ Cognate to {{etyl|es|-}} {{term|lang=es|buso||underwater snail}} and {{etyl|pt|-
 # [[diver]]
 
 ===Etymology 2===
-Probably from {{etyl|non|ca}} {{term|lang=non|buza||big wide ship}}.
+Probably from {{etyl|non|ca}} {{m|non|buza||big wide ship}}.
 
 ====Noun====
 {{ca-noun|m|bussos}}
@@ -253,7 +253,7 @@ Probably from {{etyl|non|ca}} {{term|lang=non|buza||big wide ship}}.
 # {{context|archaic|lang=ca}} A large [[sailing ship]] used in the 12th and 13th centuries, [[broad]] of [[beam]] and with two or three [[mast]]s.
 
 ===Etymology 3===
-Probably from {{etyl|fa|ca}} {{term|lang=fa|بوس||kiss|tr=bus|sc=fa-Arab}}.
+Probably from {{etyl|fa|ca}} {{m|fa|بوس||kiss|tr=bus}}.
 
 ====Noun====
 {{ca-noun|m}}
@@ -264,7 +264,7 @@ Probably from {{etyl|fa|ca}} {{term|lang=fa|بوس||kiss|tr=bus|sc=fa-Arab}}.
 Only found in the phrase {{term||fer lo bus|to kiss up}}.
 
 ===Etymology 4===
-Reduction of {{term|lang=ca|autobús}}
+Reduction of {{m|ca|autobús}}
 
 ====Noun====
 {{ca-noun|m}}
@@ -272,7 +272,7 @@ Reduction of {{term|lang=ca|autobús}}
 # [[#English|bus]] {{gloss|vehicle}}
 
 ===Etymology 5===
-From {{etyl|en|ca}} {{term|lang=en|bus}}.
+{{borrowing|en|bus|lang=ca}}.
 
 ====Noun====
 {{ca-noun|m}}
@@ -429,15 +429,6 @@ Inflected forms.
 
 ----
 
-==Jèrriais==
-
-===Verb===
-{{roa-jer-verb-form}}
-
-# {{inflection of|baithe||1|s|pret||lang=roa-jer}}
-
-----
-
 ==Lithuanian==
 
 {{rfe|lang=lt}}
@@ -464,6 +455,15 @@ Inflected forms.
 
 ----
 
+==Norman==
+
+===Verb===
+{{nrf-verb-form}}
+
+# {{inflection of|baithe||1|s|pret||lang=nrf}}
+
+----
+
 ==Old Irish==
 
 ===Etymology===
@@ -472,10 +472,7 @@ From {{etyl|ine-pro|sga}} {{m|ine-pro|*beu-||to swell, bulge}}.
 ===Noun===
 {{head|sga|noun|g=?}}
 
-# [[lip]]
-
-[[Category:200 English basic words]]
-[[Category:sga:Anatomy]]
+# {{label|sga|anatomy}} [[lip]]
 
 ----
 
@@ -490,8 +487,7 @@ From {{etyl|ine-pro|sga}} {{m|ine-pro|*beu-||to swell, bulge}}.
 
 # {{l/en|hole}}
 #* '''September 2012''', Daniela Cortesi, ''Bônanòta'' in la Ludla, il Papiro, page 15:
-#*: un sorg e’ cor in priscia int e’ su '''bus'''.
-#*:: a mouse runs hastily towards its '''hole'''.
+#*: {{usex|un sorg e’ cor in priscia int e’ su '''bus'''.|t=a mouse runs hastily towards its '''hole'''.|lang=rgn}}
 
 ----
 
@@ -556,7 +552,7 @@ From the verb {{term|busa||lang=sv|to do mischief}}.
 ==Tagalog==
 
 ===Etymology===
-From {{etyl|en|tl}} {{term|bus|lang=en}}.
+{{borrowing|en|bus|lang=tl}}.
 
 ===Pronunciation===
 * {{IPA|/bus/|lang=tl}}
@@ -590,8 +586,6 @@ From {{etyl|en|tpi}} {{term|bush|lang=en}}.
 
 ====Derived terms====
 * [[bus kanaka]]
-
-[[Category:en:Vehicles]]
 
 [[az:bus]]
 [[br:bus]]
