@@ -49,17 +49,17 @@ From {{suffix|Armenia|an|lang=en}}.
 ====Translations====
 {{trans-top|of, from, or pertaining to Armenia, Armenians, the language or alphabet}}
 * Albanian: {{t+|sq|armen}}
-* Ancient Greek: {{t|grc|Ἀρμένιος|m|tr=Armenios|sc=polytonic}}
+* Ancient Greek: {{t|grc|Ἀρμένιος|m|sc=polytonic}}
 * Arabic: {{t|ar|أرميني|m|tr='armiini}}, {{t|ar|أرمينية|f|tr='arminíyya}}
 * Aragonese: {{t|an|аерман}}, {{t|an|аермантә}}
-* Armenian: {{t+|hy|հայկական|tr=haykakan}}, {{t+|hy|հայ|sc=Armn}}
-*: Old Armenian: {{t|xcl|հայկական|tr=haykakan|sc=Armn}}, {{t|xcl|հայկազն|sc=Armn}}
+* Armenian: {{t+|hy|հայկական}}, {{t+|hy|հայ|sc=Armn}}
+*: Old Armenian: {{t|xcl|հայկական|sc=Armn}}, {{t|xcl|հայկազն|sc=Armn}}
 * Asturian: {{t+|ast|armeniu}}
 * Azeri: {{t|az|erməni}}
 * Bashkir: {{t|ba|әрмән}}
 * Basque: {{t|eu|armeniar}}
 * Belarusian: {{t|be|армя́нскі|m|sc=Cyrl}}
-* Bulgarian: {{t+|bg|арменски|tr=arménski}}
+* Bulgarian: {{t+|bg|арме́нски|m}}
 * Catalan: {{t|ca|armeni}}
 * Chechen: {{t|ce|эрмалойн}}
 * Chinese:
@@ -72,7 +72,7 @@ From {{suffix|Armenia|an|lang=en}}.
 * Finnish: {{t+|fi|armenialainen}}
 * French: {{t+|fr|arménien}}
 * Galician: {{t+|gl|armenio}}
-* Georgian: {{t|ka|სომხური|tr=somxuri|sc=Geor}}
+* Georgian: {{t|ka|სომხური|sc=Geor}}
 * German: {{t+|de|armenisch}}
 * Greek: {{t+|el|αρμενικός}}
 * Hebrew: {{t|he|ארמני|m|tr=arméni}}, {{t|he|ארמנית|f|tr=arménit}}
@@ -92,20 +92,20 @@ From {{suffix|Armenia|an|lang=en}}.
 *: Nynorsk: {{t+|nn|armensk}}
 * Old Norse: {{t|non|ermskr}}
 * Ossetian:
-*: Digor: {{t|os|сомехаг|tr=somexag|sc=Cyrl}}
-*: Iron: {{t|os|сомихаг|tr=somixag|sc=Cyrl}}
+*: Digor: {{t|os|сомехаг|sc=Cyrl}}
+*: Iron: {{t|os|сомихаг|sc=Cyrl}}
 * Persian: {{t+|fa|ارمنی|tr=Armani}}
 * Polish: {{t+|pl|ormiański}}; {{qualifier|pertaining to Armenia}} {{t+|pl|armeński}}
 * Portuguese: {{t+|pt|arménio}} {{qualifier|Portugal}}, {{t+|pt|armênio}} {{qualifier|Brazil}}, {{t|pt|arménico}} {{qualifier|Portugal}}, {{t|pt|armênico}} {{qualifier|Brazil}}
 * Romanian: {{t+|ro|armean}}
-* Russian: {{t+|ru|армянский|tr=armjánskij}}
+* Russian: {{t+|ru|армя́нский}}
 * Scottish Gaelic: {{t|gd|Airmeineach|m}}
 * Serbo-Croatian: {{t|sh|àrmēnskī}}
 * Slovak: {{t+|sk|arménsky}}
 * Slovene: {{t+|sl|armenski}}
 * Spanish: {{t+|es|armenio}}
 * Swedish: {{t+|sv|armenisk}}
-* Tajik: {{t|tg|арманӣ|tr=armanī|sc=Cyrl}}
+* Tajik: {{t|tg|арманӣ|sc=Cyrl}}
 * Tatar: {{t|tt|әрмәни|sc=Cyrl}}
 * Turkish: {{t+|tr|Ermeni}}
 * Ukrainian: {{t+|uk|вірме́нський|m|sc=Cyrl}}
@@ -120,15 +120,15 @@ From {{suffix|Armenia|an|lang=en}}.
 {{trans-top|person}}
 * Abkhaz: {{t|ab|аерманы|sc=Cyrl}}, {{t|ab|ашәамахь|sc=Cyrl}}
 * Albanian: {{t+|sq|armen|m}}, {{t|sq|armene|f}}
-* Ancient Greek: {{t|grc|Ἀρμένιος|m|tr=Armenios|sc=polytonic}}
+* Ancient Greek: {{t|grc|Ἀρμένιος|m|sc=polytonic}}
 * Arabic: {{t|ar|أرميني|m|tr='armiini}}, {{t|ar|أرمينية|f|tr='arminíyya}}
-* Armenian: {{t+|hy|հայ|tr=hay}}
-*: Old Armenian: {{t|xcl|հայ|tr=hay|sc=Armn}}, {{t|xcl|հայկազն|sc=Armn}}
+* Armenian: {{t+|hy|հայ}}
+*: Old Armenian: {{t|xcl|հայ|sc=Armn}}, {{t|xcl|հայկազն|sc=Armn}}
 * Asturian: {{t+|ast|armeniu|m}}
 * Azeri: {{t|az|erməni}}
 * Basque: {{t|eu|armeniar}}
 * Belarusian: {{t|be|армяні́н|m|sc=Cyrl}}, {{t|be|армя́нка|f|sc=Cyrl}}
-* Bulgarian: {{t|bg|арменец|m|tr=arménec’}}, {{t|bg|арменка|f|tr=arménka}}
+* Bulgarian: {{t|bg|арме́нец|m}}, {{t|bg|арме́нка|f}}
 * Catalan: {{t|ca|armeni|m}}, {{t|ca|armènia}}
 * Chechen: {{t|ce|эрмало}}
 * Chinese:
@@ -141,7 +141,7 @@ From {{suffix|Armenia|an|lang=en}}.
 * Finnish: {{t+|fi|armenialainen}}
 * French: {{t+|fr|Arménien|m}}, {{t+|fr|Arménienne|f}}
 * Galician: {{t+|gl|armenio|m}}
-* Georgian: {{t|ka|სომეხი|tr=somexi|sc=Geor}}
+* Georgian: {{t|ka|სომეხი|sc=Geor}}
 * German: {{t+|de|Armenier|m}}, {{t+|de|Armenierin|f}}
 * Greek: {{t+|el|Αρμένιος|m}}, {{t|el|Αρμένια|f}}
 * Hebrew: {{t|he|ארמני|m|tr=arméni}}, {{t|he|ארמנית|f|tr=arménit}}
@@ -164,23 +164,23 @@ From {{suffix|Armenia|an|lang=en}}.
 *: Nynorsk: {{t+|nn|armenar|m}}, {{t+|nn|armeniar|m}}
 * Old Persian: {{t|peo|𐎠𐎼𐎷𐎡𐎴𐎹|tr=Arminiya|sc=Xpeo}}
 * Ossetian:
-*: Digor: {{t|os|сомехаг|tr=somexag|sc=Cyrl}}
-*: Iron: {{t|os|сомихаг|tr=somixag|sc=Cyrl}}
+*: Digor: {{t|os|сомехаг|sc=Cyrl}}
+*: Iron: {{t|os|сомихаг|sc=Cyrl}}
 * Persian: {{t+|fa|ارمنی|tr=Armani}}, {{t|fa|ارمن|tr=arman|sc=fa-Arab}}
 * Polish: {{t+|pl|Ormianin|m}}, {{t|pl|Ormianka}} {{qualifier|nationality}}, {{t+|pl|Armeńczyk|m}}, {{t+|pl|Armenka|f}} {{qualifier|people from Armenia}}
 * Portuguese: {{t+|pt|armênio|m}} {{qualifier|Brazil}}, {{t+|pt|arménio|m}} {{qualifier|Portugal}}
 * Romanian: {{t+|ro|armean|m}}, {{t+|ro|armeană|f}}, {{t+|ro|armeancă|f}}
-* Russian: {{t+|ru|армянин|m|tr=armjanín}}, {{t+|ru|армянка|f|tr=armjánka}}
+* Russian: {{t+|ru|армяни́н|m}}, {{t+|ru|армя́нка|f}}
 * Scottish Gaelic: {{t|gd|Airmeineach|m}}
 * Serbo-Croatian: {{t|sh|Arménac|m}}, {{t|sh|Àrmēnka|f}}
 * Slovene: {{t+|sl|Armenec|m}}, {{t|sl|Armenka|f}}
 * Spanish: {{t+|es|armenio|m}}, {{t|es|armenia|f}}
 * Swahili: {{t+|sw|Mwarmenia}}
 * Swedish: {{t+|sv|armenier}}
-* Tajik: {{t|tg|арманӣ|tr=armanī|sc=Cyrl}}
+* Tajik: {{t|tg|арманӣ|sc=Cyrl}}
 * Tatar: {{t+|tt|әрмән|sc=Cyrl}}
 * Turkish: {{t+|tr|Ermeni}}, {{t|tr|Ermenistanlı}}
-* Ukrainian: {{t|uk|вірменин|m|tr=virmenýn}}, {{t|uk|вірменка|f|tr=virménka}}
+* Ukrainian: {{t|uk|вірмени́н|m}}, {{t|uk|вірме́нка|f}}
 * Yiddish: {{t|yi|אַרמענער|m|sc=Hebr}} {{qualifier|man}}
 {{trans-bottom}}
 
@@ -205,13 +205,13 @@ From {{suffix|Armenia|an|lang=en}}.
 * Abkhaz: {{t|ab|аерманы бызшәа|sc=Cyrl}}
 * Albanian: {{t+|sq|armenisht}}, {{t+|sq|armenishte}}
 * Arabic: {{t|ar|أرمينية|f|tr='arminíyya}}
-* Armenian: {{t+|hy|հայերեն|tr=hayeren}}
-*: Old Armenian: {{t|xcl|հայերէն|tr=hayerēn|sc=Armn}}
+* Armenian: {{t+|hy|հայերեն}}
+*: Old Armenian: {{t|xcl|հայերէն|sc=Armn}}
 * Asturian: {{t+|ast|armeniu|m}}
 * Azeri: {{t|az|erməni dili}}
 * Basque: {{t+|eu|armeniera}}
 * Belarusian: {{t|be|армя́нская мо́ва|f|sc=Cyrl}}
-* Bulgarian: {{t|bg|[[арменски]] [[език]]|m|tr=arménski ezík}}
+* Bulgarian: {{t|bg|[[арме́нски]] [[ези́к]]|m}}
 * Catalan: {{t|ca|armeni|m}}
 * Chechen: {{t|ce|[[эрмалойн]] [[мотт]]}}
 * Chinese:
@@ -224,7 +224,7 @@ From {{suffix|Armenia|an|lang=en}}.
 * Finnish: {{t+|fi|armenia}}
 * French: {{t+|fr|arménien|m}}
 * Galician: {{t+|gl|armenio|m}}
-* Georgian: {{t|ka|სომხური ენა|tr=somxuri ena|sc=Geor}}
+* Georgian: {{t|ka|სომხური ენა|sc=Geor}}
 * German: {{t+|de|Armenisch}}
 * Greek: {{t+|el|αρμενικά|n-p}}
 * Gujarati: {{t+|gu|આર્મેનિયન}}
@@ -249,24 +249,24 @@ From {{suffix|Armenia|an|lang=en}}.
 *: Bokmål: {{t+|nb|armensk|m}}
 *: Nynorsk: {{t+|nn|armensk|m}}
 * Ossetian:
-*: Digor: {{t|os|сомехаг æвзаг|tr=somexag ævzag|sc=Cyrl}}
-*: Iron: {{t|os|сомихаг æвзаг|tr=somixag ævzag|sc=Cyrl}}
+*: Digor: {{t|os|сомехаг æвзаг|sc=Cyrl}}
+*: Iron: {{t|os|сомихаг æвзаг|sc=Cyrl}}
 * Persian: {{t+|fa|ارمنی|tr=Armani}}
 * Polish: {{t+|pl|ormiański|m}}
 * Portuguese: {{t+|pt|arménio|m}} {{qualifier|Portugal}}, {{t+|pt|armênio|m}} {{qualifier|Brazil}}
 * Romanian: {{t+|ro|armeană|f}}, {{t+|ro|armenește}} {{qualifier|adverbially}}
-* Russian: {{t+|ru|армянский}} {{t+|ru|язык|m|tr=armjánskij jazýk}}
+* Russian: {{t+|ru|[[армя́нский]] [[язы́к]]|m}}
 * Scottish Gaelic: {{t|gd|Airmeinis|f}}
 * Serbo-Croatian: {{t|sh|àrmēnskī|m}}
 * Slovak: {{t+|sk|arménčina|f}}
-* Slovene: {{t+|sl|armenščina}}
+* Slovene: {{t+|sl|armenščina|f}}
 * Spanish: {{t+|es|armenio|m}}
 * Swahili: {{t|sw|Kiarmenia}}
 * Swedish: {{t+|sv|armeniska}}
-* Tajik: {{t|tg|Забони арманӣ|tr=Zaboni armanī|sc=Cyrl}}
+* Tajik: {{t|tg|Забони арманӣ|sc=Cyrl}}
 * Tatar: {{t|tt|әрмән теле|sc=Cyrl}}
 * Turkish: {{t+|tr|Ermenice}}
-* Ukrainian: {{t+|uk|вірменська|f|tr=virméns'ka}}
+* Ukrainian: {{t+|uk|вірме́нська|f}}
 * Uyghur: {{t|ug|ئەرمەن تىلى|sc=ug-Arab}}
 * Zazaki: {{t|zza|Ermeniki}} {{qualifier|Southern Zazaki}}, {{t|zza|Hermeniki}} {{qualifier|Southern Zazaki}}, {{t|zza|Armeniki}} {{qualifier|Southern Zazaki}}
 {{trans-bottom}}
