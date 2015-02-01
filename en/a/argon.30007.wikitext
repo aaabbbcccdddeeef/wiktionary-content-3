@@ -124,7 +124,7 @@ From {{etyl|grc|en}} {{term|ἀργόν|lang=grc}}, neuter of {{term|ἀργός
 ===Noun===
 {{af-noun|-}}
 
-# {{l|en|argon}}
+# {{l/en|argon}}
 
 [[Category:af:Noble gases]]
 
@@ -136,7 +136,7 @@ From {{etyl|grc|en}} {{term|ἀργόν|lang=grc}}, neuter of {{term|ἀργός
 ===Noun===
 {{cs-noun|g=m}}
 
-# [[argon]] {{gloss|chemical element}}
+# {{l/en|argon}} {{gloss|chemical element}}
 
 [[Category:cs:Noble gases]]
 
@@ -289,19 +289,16 @@ From {{etyl|grc|en}} {{term|ἀργόν|lang=grc}}, neuter of {{term|ἀργός
 {{elements|Ar|klorin|Cl|kalium|K|lang=ms}}
 
 ===Etymology===
-From {{etyl|en|ms}} {{term|argon|lang=en}}, from {{etyl|grc|ms}} {{term|ἀργόν|tr=argon|sc=polytonic|lang=grc}}.
-
-===Alternative forms===
-* {{l|ms|ارݢون|sc=Arab}}
+From {{etyl|en|ms}} {{term|argon|lang=en}}, from {{etyl|grc|ms}} {{term|ἀργόν|lang=grc}}.
 
 ===Pronunciation===
 * {{IPA|/a(r)ɡɔn/|lang=ms}}
 * {{rhymes|gɔn|ɔn|lang=ms}}
 
 ===Noun===
-{{head|ms|noun|Jawi spelling|ارݢون}}
+{{ms-noun|j=ارݢون}}
 
-# [[#English|argon]] {{gloss|chemical element}}
+# {{l/en|argon}} {{gloss|chemical element}}
 
 [[Category:ms:Noble gases]]
 
@@ -312,7 +309,9 @@ From {{etyl|en|ms}} {{term|argon|lang=en}}, from {{etyl|grc|ms}} {{term|ἀργ�
 ===Noun===
 {{mt-noun|m}}
 
-# {{context|chemistry|lang=mt}} [[argon]] (chemical element)
+# {{context|chemistry|lang=mt}} {{l/en|argon}} (chemical element)
+
+----
 
 ==Manx==
 
@@ -386,7 +385,7 @@ From {{etyl|en|ms}} {{term|argon|lang=en}}, from {{etyl|grc|ms}} {{term|ἀργ�
 ===Noun===
 {{sl-noun|árgon|head2=argón|m-in|árgona|gen2=argóna|-}}
 
-# [[#English|argon]]
+# {{l/en|argon}}
 
 ====Declension====
 {{sl-decl-noun-m|árgon|n=sg}}
