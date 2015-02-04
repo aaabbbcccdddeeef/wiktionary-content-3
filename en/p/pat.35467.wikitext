@@ -229,13 +229,23 @@ From {{etyl|poz-swa-pro|mel}} {{m|poz-swa-pro|*əpat}}, from {{etyl|poz-pro|mel}
 
 ==Czech==
 
+===Etymology===
+Via {{etyl|de|cs}} {{term|Patt|lang=de}} and {{etyl|fr|cs}} {{term|pat|lang=fr}} from {{etyl|it|cs}} {{term|patta|lang=it}}.<ref>{{R:Rejzek 2007}}</ref>
+
+===Pronunciation===
+* {{IPA|/pat/|lang=cs}}
+
 ===Noun===
 {{cs-noun|g=m}}
 
 # {{context|chess|lang=cs}} [[stalemate]]
+# [[stalemate]] (blocked situation)
 
 ====Declension====
-{{rfinfl|cs|noun}}
+{{cs-decl-noun
+ |pat|patu|patu|pat|pate|patu|patem
+ |paty|patů|patům|paty|paty|patech|paty
+}}
 
 ----
 
