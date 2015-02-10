@@ -622,8 +622,7 @@ From {{etyl|la|fur}} {{m|la|nitidus}}.
 {{de-adv}}
 
 # {{context|colloquial|regional|Austria, southern Germany, parts of central Germany|lang=de}} {{alternative form of|nicht||not|lang=de}}
-#: ''Hab ich’s dir '''net''' erzählt?''
-#:: Have I '''not''' told you?
+#: {{usex|Hab ich’s dir '''net''' erzählt?|t=Have I '''not''' told you?|lang=de}}
 
 ----
 
@@ -642,8 +641,7 @@ From {{etyl|non|is}} {{m|non|net}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*natją
 # [[#English|net]]
 # {{context|computing|lang=is}} [[network]]
 # {{context|computing|usually|definite|lang=is}} the [[Internet]]
-#* ''{{l|is|ég|Ég}} {{l|is|þola|þoli}} {{l|is|þetta}} {{l|is|ekki}}, {{l|is|ég}} {{l|is|komast|kemst}} {{l|is|ekki}} {{l|is|á}} '''netið'''.''
-#*: [[I]] [[can't]] [[stand]] [[it]], [[I]] [[can't]] [[connect]] [[to]] '''the internet'''.
+#* {{usex|[[ég|Ég]] [[þola|þoli]] [[þetta]] [[ekki]], [[ég]] [[komast|kemst]] [[ekki]] [[á]] '''netið'''.|t=[[I]] [[can't]] [[stand]] [[it]], [[I]] [[can't]] [[connect]] [[to]] '''the internet'''.|lang=is}}
 
 ====Declension====
 {{is-decl-noun-n-s|n|e|t}}
@@ -652,24 +650,6 @@ From {{etyl|non|is}} {{m|non|net}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*natją
 * {{sense|Internet}} {{l|is|Internet}}
 
 [[Category:is:Internet]]
-
-----
-
-==Jèrriais==
-
-===Etymology===
-From {{etyl|la|roa-jer}} {{m|la|nitidus||shiny}}.
-
-===Pronunciation===
-* {{audio|Jer-net.ogg|Audio}}
-
-===Adjective===
-{{roa-jer-adj|f=nette}}
-
-# [[clean]]
-
-====Synonyms====
-* {{l|roa-jer|propre}}
 
 ----
 
@@ -710,6 +690,34 @@ From {{etyl|goh|lb}} {{m|goh|niowiht}}, from {{m|goh|nio||never}} + {{m|goh|wiht
 
 ----
 
+==Norman==
+
+===Alternative forms===
+* {{l|nrf|naette}} {{qualifier|Guernsey}}
+
+===Etymology===
+From {{etyl|la|nrf}} {{m|la|nitidus||shiny}}.
+
+===Pronunciation===
+* {{audio|Jer-net.ogg|Audio|lang=nrf}}
+
+===Adjective===
+{{nrf-adj|f=nette}}
+
+# {{label|nrf|Jersey}} [[clean]]
+
+====Synonyms====
+* {{l|nrf|propre}}
+
+====Derived terms====
+* {{l|nrf|netti||to clean}}
+
+====Related terms====
+* {{l|nrf|nettisseux|g=m||cleaner}}
+* {{l|nrf|nettithie|g=f||cleaning}}
+
+----
+
 ==Old English==
 
 ===Alternative forms===
@@ -725,8 +733,9 @@ From {{etyl|gem-pro|ang}} {{m|gem-pro|*natją}}, whence also {{etyl|ofs|-}} {{m|
 
 ====Descendants====
 * Middle English: {{l|enm|nett}}
-** English: {{l|en|net}}
+** English: {{l/en|net}}
 ** Scots: {{l|sco|net}}
+
 ----
 
 ==Old Norse==
@@ -741,12 +750,12 @@ From {{etyl|gem-pro|non}} {{m|gem-pro|*natją}}, whence also {{etyl|ang|-}} {{m|
 
 ====Descendants====
 {{top2}}
-* Danish: {{l|da|net}}
+* Danish: {{l/da|net}}
 * Faroese: {{l|fo|net}}
 * Icelandic: {{l|is|net}}
 {{mid2}}
 * Norwegian: {{l|no|nett}}, {{l|no|net}}
-* Swedish: {{l|sv|nät}}
+* Swedish: {{l/sv|nät}}
 {{bottom}}
 
 ----
@@ -756,10 +765,10 @@ From {{etyl|gem-pro|non}} {{m|gem-pro|*natją}}, whence also {{etyl|ang|-}} {{m|
 ===Noun===
 {{pt-noun|f|-}}
 
-# {{l|en|Net}}; the {{l|en|Internet}}
+# [[Net]]; the [[Internet]]
 
 ====Synonyms====
-* {{l|pt|rede}}, {{l|pt|Internet}}, {{l|pt|web}}
+* {{l/pt|rede}}, {{l/pt|Internet}}, {{l/pt|web}}
 
 ----
 
