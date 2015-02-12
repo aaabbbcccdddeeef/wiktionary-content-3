@@ -14,7 +14,10 @@ From {{etyl|frm|en}} {{term|particule|lang=frm}}, and its source, {{etyl|la|en}}
 {{en-noun}}
 
 # A very small piece of matter, a [[fragment]]; especially, the smallest possible part of something. {{defdate|from 14th c.}}
-# {{context|linguistics|lang=en}} A word that has a particular [[grammatical]] [[function]] but does not obviously belong to any particular [[part of speech]], such as the word ''to'' in English [[infinitive]]s or [[O]] as the [[vocative]] particle. {{defdate|from 16th c.}}
+# {{context|linguistics|sensu lato|lang=en}} A part of speech which can not be declined, an [[adverb]], [[preposition]], [[conjunction]] or [[interjection]]
+#* '''1844''', E. A. Andrews: ''First Lessions in Latin; or Introduction to Andrews and Stoddard's Latin Grammar.'' (6th edition, Boston), p.91 ([http://books.google.de/books?id=w4MAAAAAYAAJ&pg=PA91 at books.google])
+#*: ''322. The parts of speech which are neither declined nor conjugated, are called by the general name of '''particles'''. 323. They are adverbs, prepositions, conjunctions, and interjections.''
+# {{context|linguistics|sensu stricto|lang=en}} A word that has a particular [[grammatical]] [[function]] but does not obviously belong to any particular [[part of speech]], such as the word ''to'' in English [[infinitive]]s or [[O]] as the [[vocative]] particle.
 #* {{quote-web
     | date = 1965-06-04
     | author = Shigeyuki Kuroda
@@ -95,7 +98,7 @@ From {{etyl|frm|en}} {{term|particule|lang=frm}}, and its source, {{etyl|la|en}}
 * Swedish: {{t+|sv|partikel|c}}
 {{trans-bottom}}
 
-{{trans-top|word that does not belong to any particular part of speech}}
+{{trans-top|word}}
 * Arabic: {{t|ar|أداة|f|tr=ʼadāa}}
 * Armenian: {{t|hy|եղանակավորող բառ|tr=eġanakavoroġ baṙ}}
 * Catalan: {{t+|ca|partícula|f}}
