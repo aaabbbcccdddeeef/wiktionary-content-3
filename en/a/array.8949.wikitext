@@ -8,28 +8,6 @@ From {{etyl|enm|en}} {{m|enm|arrayen}}, from {{etyl|xno|en}} {{m|fro|arayer}} (c
 * {{IPA|əˈɹeɪ|lang=en}}
 * {{rhymes|eɪ|lang=en}}
 
-===Verb===
-{{en-verb|arrays|arraying|arrayed|arrayed}}
-
-# To [[clothe]] and [[ornament]]; to [[adorn]] or [[attire]]
-#: ''He was arrayed in his finest robes and jewels.''
-# To lay out in an orderly arrangement; to [[deploy]] or [[marshal]]
-# {{context|legal|lang=en}} To set in order, as a jury, for the trial of a cause; that is, to call them one at a time.
-#: {{rfquotek|Blackstone}}
-
-====Translations====
-{{trans-top|to clothe, ornament}}
-* Bulgarian: {{t+|bg|обличам}}, {{t+|bg|украсявам}}
-* Catalan: {{t+|ca|arreglar}}
-* German: {{t+|de|schmücken}}
-* Greek: {{t+|el|στολίζω|sc=Grek}}
-{{trans-mid}}
-* Icelandic: {{t+|is|klæða}}
-* Japanese: {{t|ja|盛装|tr=せいそうする, seisō suru|alt=盛装する|sc=Jpan}}
-* Russian: {{t+|ru|одевать|tr=odevátʹ|sc=Cyrl}}, {{t+|ru|облачать|tr=oblačátʹ|sc=Cyrl}}
-* Spanish: {{t+|es|arreglar}}
-{{trans-bottom}}
-
 ===Noun===
 {{en-noun}}
 
@@ -64,8 +42,10 @@ From {{etyl|enm|en}} {{m|enm|arrayen}}, from {{etyl|xno|en}} {{m|fro|arayer}} (c
 
 ====Derived terms====
 * {{l/en|associative array}}
+* {{l/en|blessed array}}
 * {{l/en|multidimensional array}}
 * {{l/en|systolic array}}
+* {{l/en|unblessed array}}
 
 ====Antonyms====
 * {{sense|orderly series}} [[disarray]]
@@ -73,32 +53,35 @@ From {{etyl|enm|en}} {{m|enm|arrayen}}, from {{etyl|xno|en}} {{m|fro|arayer}} (c
 ====Translations====
 {{trans-top|clothing/ornamentation}}
 * Bulgarian: {{t+|bg|облекло}}, {{t+|bg|носия}}
-* German: {{t+|de|Tracht|f}}, {{t+|de|Bekleidung|f}}
+* German: {{t+|de|Bekleidung|f}}, {{t+|de|Tracht|f}}
 * Greek: {{t+|el|στολή|f|sc=Grek}}, {{t+|el|σύνολο|n|sc=Grek}}
 {{trans-mid}}
 * Russian: {{t+|ru|убо́р|m|sc=Cyrl}}, {{t+|ru|наря́д|m|sc=Cyrl}}, {{t+|ru|одея́ние|n|sc=Cyrl}}
 * Spanish: {{t+|es|atavío|m}}, {{t|es|galas|m-p}}
+* Turkish: {{t+|tr|elbise}}, {{t|tr|giyecek}}, {{t|tr|giyim}}, {{t|tr|giyim kuşam}}, {{t|tr|giyisi}}
 {{trans-bottom}}
 
 {{trans-top|collection laid out}}
-* German: [[Arrangement]] {{g|n}}; [[Feld]] {{g|n}}; [[Übersicht]] {{g|f}}
-{{trans-mid}}
+* German: {{t|de|Arrangement|n}}; {{t|de|Feld|n}}; {{t|de|Übersicht|f}}
 * Greek: {{t+|el|σειρά|f|sc=Grek}}
+{{trans-mid}}
+* Turkish: {{t+|tr|aranjman}} (flowers, music), {{t+|tr|düzen}}, {{t+|tr|düzenleme}}, {{t+|tr|tanzim}}
 {{trans-bottom}}
 
 {{trans-top|large collection}}
 * Afrikaans: {{t|af|versameling}}
 * Bulgarian: {{t+|bg|маса}}, {{t+|bg|множество}}
 * French: {{t+|fr|gamme}}
-* German: [[Fülle]] {{g|f}}; [[Reihe]] {{g|f}}; [[Feld]] {{g|n}}; [[Zahl]] {{g|f}}; [[Anzahl]] {{g|f}}
+* German: {{t+|de|Anzahl|f}}, {{t+|de|Feld|n}}, {{t+|de|Fülle|f}}, {{t+|de|Reihe|f}}, {{t+|de|Zahl|f}}
 * Greek: {{t+|el|σειρά|f|sc=Grek}}, {{t+|el|διάταξη|f|sc=Grek}}
 * Icelandic: {{t+|is|fylki|n}}
-* Italian: {{t+|it|gamma}}
 {{trans-mid}}
+* Italian: {{t+|it|gamma}}
 * Portuguese: {{t+|pt|gama}}
 * Russian: {{t+|ru|ма́сса|f|sc=Cyrl}}, {{t+|ru|мно́жество|n|sc=Cyrl}}
 * Spanish: {{t+|es|gama}}
 * Swedish: {{t+|sv|samling|c}}
+* Turkish: {{t+|tr|adet}}, {{t+|tr|bolluk}}, {{t+|tr|çokluk}}, {{t+|tr|gürlük}}, {{t+|tr|miktar}} {{t+|tr|sayı}}
 {{trans-bottom}}
 
 {{trans-top|any of various data structures}}
@@ -110,12 +93,12 @@ From {{etyl|enm|en}} {{m|enm|arrayen}}, from {{etyl|xno|en}} {{m|fro|arayer}} (c
 * Finnish: {{t+|fi|taulukko}}
 * French: {{t+|fr|tableau|m}}
 * German:
-*: [[Feld]] {{g|n}} (standard term, general);
-*: [[Matrix]] {{g|f}}, [[Tabelle]] {{g|f}} (contextual, specific);
-*: [[Reihe]] {{g|f}}, [[Zeile]] {{g|f}}, [[Spalte]] {{g|f}} (less used, contextual, specific)
-{{trans-mid}}
+*: {{t+|de|Feld|n}} (standard term, general);
+*: {{t+|de|Matrix|f}}, {{t+|de|Tabelle|f}} (contextual, specific);
+*: {{t+|de|Reihe|f}}, {{t+|de|Spalte|f}} (less used, contextual, specific), {{t+|de|Zeile|f}}
 * Greek: {{t+|el|παράταξη|f|sc=Grek}}, {{t+|el|σειρά|f|sc=Grek}}
 * Hebrew: {{t|he|מערך|m}}
+{{trans-mid}}
 * Hungarian: {{t+|hu|tömb}}
 * Icelandic: {{t+|is|fylki|n}}
 * Japanese: {{t+|ja|配列|tr= はいれつ, hairetsu|sc=Jpan}}
@@ -125,6 +108,10 @@ From {{etyl|enm|en}} {{m|enm|arrayen}}, from {{etyl|xno|en}} {{m|fro|arayer}} (c
 * Russian: {{t+|ru|масси́в|m|sc=Cyrl}}
 * Spanish: {{t+|es|vector|m}}, {{t+|es|arreglo|m}}
 * Swedish: {{t+|sv|vektor|c}}
+* Turkish:
+*: {{t+|tr|dizi}} (standard term, general);
+*: {{t+|tr|çizelge}} (contextual, specific), {{t+|tr|matris}}
+*: {{t+|tr|satır}}, {{t+|tr|sıra}}, {{t+|tr|sütun}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -134,6 +121,29 @@ From {{etyl|enm|en}} {{m|enm|arrayen}}, from {{etyl|xno|en}} {{m|fro|arayer}} (c
 
 ====See also====
 * {{sense|any of various data structures}} [[ones-based indexing]], [[zero-based indexing]]
+
+===Verb===
+{{en-verb|arrays|arraying|arrayed|arrayed}}
+
+# To [[clothe]] and [[ornament]]; to [[adorn]] or [[attire]]
+#: ''He was arrayed in his finest robes and jewels.''
+# To lay out in an orderly arrangement; to [[deploy]] or [[marshal]]
+# {{context|legal|lang=en}} To set in order, as a jury, for the trial of a cause; that is, to call them one at a time.
+#: {{rfquotek|Blackstone}}
+
+====Translations====
+{{trans-top|to clothe, ornament}}
+* Bulgarian: {{t+|bg|обличам}}, {{t+|bg|украсявам}}
+* Catalan: {{t+|ca|arreglar}}
+* German: {{t+|de|schmücken}}
+* Greek: {{t+|el|στολίζω|sc=Grek}}
+{{trans-mid}}
+* Icelandic: {{t+|is|klæða}}
+* Japanese: {{t|ja|盛装|tr=せいそうする, seisō suru|alt=盛装する|sc=Jpan}}
+* Russian: {{t+|ru|одевать|tr=odevátʹ|sc=Cyrl}}, {{t+|ru|облачать|tr=oblačátʹ|sc=Cyrl}}
+* Spanish: {{t+|es|arreglar}}
+* Turkish: {{t+|tr|süslemek}}
+{{trans-bottom}}
 
 ----
 
