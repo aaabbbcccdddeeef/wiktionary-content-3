@@ -256,13 +256,16 @@
 {{borrowing|fr|menu|lang=fi}}.
 
 ===Pronunciation===
-{{rfp|lang=fi}}
+* {{IPA|/ˈme̞nyː/|lang=fi}}
+* {{IPA|/ˈme̞nu/|lang=fi}} {{qualifier|Finnicized pronunciation based on spelling}}
+* {{hyphenation|lang=fi|me|nu}}
 
 ===Noun===
 {{fi-noun}}
 
-# {{alternative form of|menyy|lang=fi}}
-# {{context|computing|lang=fi}} [[#English|menu]]
+# [[#English|menu]], [[bill of fare]] {{gloss|details of the food to be served at a banquet}}
+# menu {{gloss|printed list of dishes offered in a restaurant}}
+# {{label|fi|computing}} menu {{gloss|list from which the user may select an operation to be performed}}
 
 ====Declension====
 {{fi-decl-rosé|menu|a|ill_sg_vowel=y|ill_sg_vowel2=u}}
@@ -270,7 +273,8 @@
 {{fi-decl-valo|men|||u|a}}
 
 ====Synonyms====
-* {{sense|list of available dishes}} [[ruokalista]]
+* {{sense|banquet}} [[menukortti]], [[menyy]]
+* {{sense|restaurant}} [[ruokalista]], [[menyy]]
 * {{sense|computing}} [[valikko]]
 
 ===Anagrams===
