@@ -1,12 +1,11 @@
 {{also|kimonó|Kimono}}
 ==English==
 [[Image:Chen Chengpo 1926.jpg|thumb|right|A woman in a kimono.]]
-
 ===Alternative forms===
-* {{context|rare}} {{l|en|kimona}}
+* {{context|rare}} {{l/en|kimona}}
 
 ===Etymology===
-From {{etyl|ja|en}} {{term|着物|tr=kimono|gloss=wearing thing|lang=ja}}.
+{{borrowing|ja|着物|tr=kimono||clothing|lang=en}}, which is from {{m|ja|着||wearing}} + {{m|ja|物|tr=mono||thing}}.
 
 ===Pronunciation===
 * {{a|US}} {{IPA|/kəˈmoʊnoʊ/|/kəˈmoʊnə/|[kɪ̈ˈmoʊ̯noʊ̯]|[kɪ̈ˈmoʊ̯nə]|lang=en}}
@@ -31,7 +30,7 @@ In Japanese, a yukata is not considered to be a type of kimono, except in the br
 * Afrikaans: {{t|af|kimono}}
 * Arabic: {{t|ar|كيمونو|tr=kīmūnū}}
 * Azeri: {{t|az|kimono}}
-* Bulgarian: {{t|bg|кимоно|n|tr=kimono}}
+* Bulgarian: {{t|bg|кимоно|n}}
 * Catalan: {{t|ca|quimono|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|和服|tr=héfú|sc=Hani}}
@@ -42,7 +41,7 @@ In Japanese, a yukata is not considered to be a type of kimono, except in the br
 * French: {{t+|fr|kimono|m}}
 * Galician: {{t|gl|quimono|m}}
 * German: {{t+|de|Kimono|m}}
-* Greek: {{t+|el|κιμονό|n}} (kimonó)
+* Greek: {{t+|el|κιμονό|n}}
 * Hebrew: {{t+|he|קימונו}}
 * Hungarian: {{t+|hu|kimonó}}
 * Ido: {{t+|io|kimono}}
@@ -57,14 +56,14 @@ In Japanese, a yukata is not considered to be a type of kimono, except in the br
 * Persian: {{t|fa|کیمونو|tr=kimono}}
 * Polish: {{t+|pl|kimono|n}}
 * Portuguese: {{t+|pt|quimono|m}}, {{t+|pt|kimono|m}}
-* Russian: {{t+|ru|кимоно|n|tr=kimonó}}
+* Russian: {{t+|ru|кимоно́|n}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|кимоно|m}}
+*: Cyrillic: {{t|sh|кимоно|m|sc=Cyrl}}
 *: Roman: {{t|sh|kimono|m}}
 * Spanish: {{t+|es|kimono|m}}, {{t+|es|quimono|m}}
 * Swedish: {{t+|sv|kimono|c}}
 * Turkish: {{t+|tr|kimono}}
-* Ukrainian: {{t+|uk|кімоно|n|tr=kimonó}}
+* Ukrainian: {{t+|uk|кімоно́|n}}
 * Vietnamese: {{t+|vi|kimono}}
 {{trans-bottom}}
 
@@ -72,22 +71,28 @@ In Japanese, a yukata is not considered to be a type of kimono, except in the br
 * {{projectlink|wikipedia}}
 
 [[Category:English borrowed terms]]
-[[Category:en:Clothing]]
+{{catlangcode|en|Clothing}}
 
 ----
 
 ==Czech==
+
+===Etymology===
+{{borrowing|ja|着物|tr=kimono||clothing|lang=cs}}, which is from {{m|ja|着||wearing}} + {{m|ja|物|tr=mono||thing}}.
 
 ===Noun===
 {{cs-noun|g=n}}
 
 # [[#English|kimono]] {{gloss|traditional Japanese clothing that is worn in formal occasions}}
 
-[[Category:cs:Clothing]]
+{{catlangcode|cs|Clothing}}
 
 ----
 
 ==Esperanto==
+
+===Etymology===
+{{borrowing|ja|着物|tr=kimono||clothing|lang=eo}}, which is from {{m|ja|着||wearing}} + {{m|ja|物|tr=mono||thing}}.
 
 ===Pronunciation===
 * {{IPA|/kiˈmono/|lang=eo}}
@@ -98,11 +103,14 @@ In Japanese, a yukata is not considered to be a type of kimono, except in the br
 
 # [[#English|kimono]]
 
-[[Category:eo:Clothing]]
+{{catlangcode|eo|Clothing}}
 
 ----
 
 ==Finnish==
+
+===Etymology===
+{{borrowing|ja|着物|tr=kimono||clothing|lang=fi}}, which is from {{m|ja|着||wearing}} + {{m|ja|物|tr=mono||thing}}.
 
 ===Pronunciation===
 * {{rhymes|ono|lang=fi}}
@@ -115,18 +123,21 @@ In Japanese, a yukata is not considered to be a type of kimono, except in the br
 ====Declension====
 {{fi-decl-palvelu|kimono|a}}
 
-[[Category:fi:Clothing]]
+{{catlangcode|fi|Clothing}}
 
 ----
 
 ==Ido==
+
+===Etymology===
+{{borrowing|ja|着物|tr=kimono||clothing|lang=io}}, which is from {{m|ja|着||wearing}} + {{m|ja|物|tr=mono||thing}}.
 
 ===Noun===
 {{io-noun|kimon}}
 
 # [[#English|kimono]]
 
-[[Category:io:Clothing]]
+{{catlangcode|io|Clothing}}
 
 ----
 
@@ -142,7 +153,7 @@ In Japanese, a yukata is not considered to be a type of kimono, except in the br
 ==Polish==
 
 ===Etymology===
-From {{etyl|ja|pl}} {{term|着物|tr=kimono|lang=ja}}.
+{{borrowing|ja|着物|tr=kimono||clothing|lang=pl}}, which is from {{m|ja|着||wearing}} + {{m|ja|物|tr=mono||thing}}.
 
 ===Pronunciation===
 * {{audio|Pl-kimono.ogg|Audio|lang=pl}}
@@ -163,7 +174,7 @@ From {{etyl|ja|pl}} {{term|着物|tr=kimono|lang=ja}}.
 |kimono|kimona
 }}
 
-[[Category:pl:Clothing]]
+{{catlangcode|pl|Clothing}}
 
 ----
 
@@ -178,26 +189,20 @@ From {{etyl|ja|pl}} {{term|着物|tr=kimono|lang=ja}}.
 
 ==Sicilian==
 
-===Etymology===
-From {{etyl|ja|scn}} [[着物]] (hiragana [[きもの]], romaji [[kimono]]), [[clothing]], which is from [[着]], [[wearing]] + [[物]], [[thing]].
-
 ===Noun===
 {{scn-noun|kimon|m|o|o}}
 
 # {{alternative form of|chimonu|lang=scn}}
 
-[[Category:scn:Clothing]]
-
 ----
 
 ==Spanish==
-
+{{wikipedia|lang=es}}
 ===Alternative forms===
 * {{l|es|quimono}}
-{{wikipedia|lang=es}}
 
 ===Etymology===
-From {{etyl|ja|es}} {{term|着物|lang=ja}} ({{term|きもの|sc=Jpan|tr=kimono|lit=wearing thing|lang=ja}}).
+{{borrowing|ja|着物|tr=kimono||clothing|lang=es}}, which is from {{m|ja|着||wearing}} + {{m|ja|物|tr=mono||thing}}.
 
 ===Pronunciation===
 * {{IPA|/ki.ˈmo.no/|lang=es}}
@@ -207,7 +212,7 @@ From {{etyl|ja|es}} {{term|着物|lang=ja}} ({{term|きもの|sc=Jpan|tr=kimono|
 
 # [[#English|kimono]]
 
-[[Category:es:Clothing]]
+{{catlangcode|es|Clothing}}
 
 [[zh-min-nan:kimono]]
 [[cs:kimono]]
