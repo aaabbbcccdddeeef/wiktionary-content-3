@@ -36,7 +36,11 @@ From {{etyl|frm|en}} {{term|function|lang=frm}}, from {{etyl|fro|en}} {{term|fon
 * {{sense|computing: routine that returns a result}} [[procedure]], [[routine]], [[subprogram]], [[subroutine]]
 
 ====Hypernyms====
-* {{sense|mathematics}} [[relation]]
+* {{sense|mathematics}} {{l/en|relation}}
+
+====Hyponyms====
+* {{sense|computing}} {{l/en|first-class function}}
+* {{sense|computing}} {{l/en|second-class function}}
 
 ====Related terms====
 * {{l|en|functor}}
