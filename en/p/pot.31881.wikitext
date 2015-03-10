@@ -95,6 +95,7 @@ passage=The '''pot''' is an iron hat with broad brims: there are many under the 
 =====See also=====
 * [[cooker]]
 * [[multicooker]]
+
 =====Translations=====
 {{trans-top|vessel}}
 * Arabic: {{t+|ar|قدر|m|tr=qidr}}, {{t|ar|إنَاء|m|tr=ʾināʾ}}, {{t|ar|طنجرة|f|tr=ṭánjara}}
@@ -373,7 +374,7 @@ From a {{etyl|VL.|rup}} *''poteō'', from {{etyl|la|rup}} {{term|possum|lang=la}
 ===Noun===
 {{nl-noun|m|-en|potje}}
 
-# [[jar]], [[#English|pot]]
+# [[jar]], {{l/en|pot}}
 # {{context|Belgium|lang=nl}} cooking pot
 # {{context|pejorative|lang=nl}} [[dyke]] ([[lesbian]])
 
@@ -451,33 +452,33 @@ From {{etyl|frm|fr}} {{term|pot|lang=frm}}, from {{etyl|fro|fr}} {{term|pot||pot
 
 ----
 
-==Jèrriais==
-
-===Etymology===
-From {{etyl|fro|roa-jer}} {{term|pot||pot|lang=fro}}, from {{etyl|VL.|roa-jer}} {{term|pottum|lang=la}}, {{term|pottus||pot, jar|lang=la}}, from {{etyl|gem-pro|roa-jer}} {{m|gem-pro|*puttaz||pot, jar, tub}}, from {{etyl|ine-pro|roa-jer}} {{m|ine-pro|*budn-||a kind of vessel}}.
-
-===Noun===
-{{roa-jer-noun|m}}
-
-# [[#English|pot]]
-
-====Derived terms====
-{{der3|{{l|roa-jer|pot à flieurs||flowerpot}}
-|{{l|roa-jer|pot à thée||teapot}}
-|{{l|roa-jer|potîn||small pot}}
-|{{l|roa-jer|pot'tie||pottery}}
-|{{l|roa-jer|potée||potful}}}}
-
-[[Category:roa-jer:Containers]]
-
-----
-
 ==Lojban==
 
 ===Rafsi===
 {{jbo-rafsi}}
 
 # {{jbo-rafsi of|porto}}
+
+----
+
+==Norman==
+
+===Etymology===
+From {{etyl|fro|nrf}} {{term|pot||pot|lang=fro}}, from {{etyl|VL.|nrf}} {{term|pottum|lang=la}}, {{term|pottus||pot, jar|lang=la}}, from {{etyl|gem-pro|nrf}} {{m|gem-pro|*puttaz||pot, jar, tub}}, from {{etyl|ine-pro|nrf}} {{m|ine-pro|*budn-||a kind of vessel}}.
+
+===Noun===
+{{nrf-noun|m}}
+
+# {{label|nrf|Jersey}} {{l/en|pot}}
+
+====Derived terms====
+{{der3|{{l|nrf|pot à flieurs||flowerpot}}
+|{{l|nrf|pot à thée||teapot}}
+|{{l|nrf|potîn||small pot}}
+|{{l|nrf|pot'tie||pottery}}
+|{{l|nrf|potée||potful}}}}
+
+{{catlangcode|nrf|Containers}}
 
 ----
 
