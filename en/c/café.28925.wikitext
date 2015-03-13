@@ -44,7 +44,7 @@
 * Azeri: {{t|az|qəhvəxana}}
 * Belarusian: {{t|be|кавя́рня|f}}, {{t|be|кафэ́|n}}
 * Bulgarian: {{t|bg|кафене́|n}}, {{t|bg|кафе́|n}}
-* Burmese: {{t+|my|ကဖီး|tr=ka̱hpi:|sc=Mymr}}
+* Burmese: {{t+|my|ကဖီး|sc=Mymr}}
 * Catalan: {{t+|ca|cafè|m}}, {{t|ca|cafeteria|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|咖啡屋|tr=kāfēiwū|sc=Hani}}, {{t+|cmn|咖啡店|tr=kāfēidiàn|sc=Hani}}, {{t|cmn|咖啡館|sc=Hani}}, {{t+|cmn|咖啡馆|tr=kāfēiguǎn|sc=Hani}}
@@ -69,17 +69,17 @@
 * Irish: {{t|ga|caifé}}
 * Italian: {{t+|it|caffè|m}}, {{t|it|caffetteria|f}}, {{t+|it|bar|m}}
 * Japanese: {{t+|ja|カフェ|tr=kafe|sc=Jpan}}, {{t|ja|コーヒー店|tr=kōhī-ten|sc=Jpan}}, {{t|ja|コーヒーハウス|tr=kōhī-hausu}}, {{t+|ja|喫茶店|tr=きっさてん, kissaten}}, {{t|ja|コーヒーショップ|tr=kōhīshoppu|sc=Jpan}}
-* Kazakh: {{t|kk|кофехана|tr=kofehana}}
+* Kazakh: {{t|kk|кофехана}}
 * Khmer: {{t|km|ហាងកាហ្វេ|tr=haaŋ kaafee|sc=Khmr}}
 {{trans-mid}}
 * Korean: {{t+|ko|카페|tr=kape|sc=Kore}}, {{t|ko|커피숍|tr=keopisyop|sc=Kore}}, {{t|ko|커피점|tr=keopijeom|sc=Kore}}
-* Kyrgyz: {{t+|ky|кафе|tr=kafe|sc=Cyrl}}
-* Lao: {{t+|lo|ກາເຟ|tr=kaa-fee|sc=Laoo}}, {{t|lo|ຮ້ານຄາເຟ|sc=Laoo}}
+* Kyrgyz: {{t+|ky|кафе|sc=Cyrl}}
+* Lao: {{t+|lo|ກາເຟ|sc=Laoo}}, {{t|lo|ຮ້ານຄາເຟ|sc=Laoo}}
 * Latvian: {{t|lv|kafejnīca|f}}
 * Lithuanian: {{t|lt|kavìnė|f}}
 * Macedonian: {{t|mk|ка́фуле|n}} {{qualifier|coffee house}}, {{t|mk|кафа́на|f}} {{qualifier|restaurant}}
 * Malay: {{t|ms|kedai kopi}}, {{t|ms|kafe}}
-* Mongolian: {{t|mn|кафе|tr=kafe}}, {{t|mn|цайны газар|tr=tsajny gazar}}
+* Mongolian: {{t|mn|кафе}}, {{t|mn|цайны газар}}
 * Norwegian: {{t+|no|kafé|m}}, {{t+|no|café|m}}
 * Persian: {{t+|fa|کافه|tr=kâfe|sc=fa-Arab}}, {{t|fa|قهوه‌خانه|tr=qahve-xâne|sc=fa-Arab}}
 * Polish: {{t+|pl|kawiarnia|f}}
@@ -90,13 +90,13 @@
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|кафана|f|sc=Cyrl}}, {{t|sh|кавана|f|sc=Cyrl}}, {{t|sh|кафић|m|sc=Cyrl}}
 *: Roman: {{t|sh|kafana|f}}, {{t|sh|kavana|f}}, {{t|sh|kafić|m}}
-* Sinhalese: {{t|si|ආපනශාලාව|tr=āpanaśālāva|sc=Sinh}}
+* Sinhalese: {{t|si|ආපනශාලාව|sc=Sinh}}
 * Slovak: {{t|sk|kaviareň|f}}
 * Slovene: {{t+|sl|kavarna|f}}
 * Spanish: {{t+|es|café|m}}, {{qualifier|Spain}} {{t+|es|cafetería|f}}
 * Swedish: {{t+|sv|kafé|n}}, {{t+|sv|café|n}}
-* Tajik: {{t|tg|қаҳвахона|tr=qahvaxona}}
-* Tamil: {{t|ta|அருந்தகம்|tr=aruntakam}}
+* Tajik: {{t|tg|қаҳвахона}}
+* Tamil: {{t|ta|அருந்தகம்}}
 * Thai: {{t|th|คาเฟ่|tr=kaa-fây|sc=Thai}}
 * Tongan: {{t|to|fale kai}}
 * Turkish: {{t+|tr|kahvehane}}, {{t+|tr|kahve}}
@@ -125,6 +125,7 @@
 
 ==Asturian==
 {{wikipedia|lang=ast}}
+
 ===Etymology===
 {{borrowing|fr|café|lang=ast}}.
 
@@ -138,6 +139,7 @@
 
 ==Dutch==
 {{wikipedia|lang=nl}}
+
 ===Etymology===
 {{borrowing|fr|café|lang=nl}}.
 
@@ -154,6 +156,7 @@
 
 ==French==
 {{wikipedia|lang=fr}}
+
 ===Etymology===
 {{borrowing|tr|kahve|lang=fr}}, from {{etyl|ar|fr}} {{m|ar|قهوة|tr=qahwa||coffee}}.
 
@@ -226,6 +229,7 @@
 
 ==Galician==
 {{wikipedia|lang=gl}}
+
 ===Noun===
 {{gl-noun|m}}
 
@@ -244,22 +248,23 @@
 
 ----
 
-==Jèrriais==
+==Norman==
 
 ===Etymology===
-{{borrowing|fr|café|lang=roa-jer}}.
+{{borrowing|fr|café|lang=nrf}}.
 
 ===Noun===
-{{roa-jer-noun|m}}
+{{nrf-noun|m}}
 
-# [[coffee]] {{qualifier|beverage}}
+# {{label|nrf|Jersey}} [[coffee]] {{qualifier|beverage}}
 
-[[Category:roa-jer:Beverages|cafe]]
+{{catlangcode|nrf|Beverages}}
 
 ----
 
 ==Portuguese==
 {{wikipedia|lang=pt}}
+
 ===Pronunciation===
 * {{a|PT}} {{IPA|/kɐˈfɛ/|lang=pt}}
 * {{a|BR}} {{IPA|/kaˈfɛ/|/kɐˈfɛ/|lang=pt}}
@@ -315,13 +320,13 @@
 * {{l/es|cafetera}}
 * {{l/es|cafetal}}
 
-[[Category:es:Coffee]]
-[[Category:es:Colors]]
+{{catlangcode|es|Coffee|Colors}}
 
 ----
 
 ==Swedish==
 {{wikipedia|lang=sv}}
+
 ===Etymology===
 {{borrowing|fr|café|lang=sv}}
 
