@@ -309,7 +309,7 @@ From {{etyl|enm|en}} {{m|enm|sole}}, {{m|enm|soole}}, from Old English. Reinforc
 ==French==
 
 ===Etymology===
-From {{etyl|VL.|fr}} *{{term||sola}}, from {{etyl|la|fr}} {{term|solea|lang=la}}.
+From {{etyl|VL.|fr}} {{m|la|*sola}}, from {{etyl|la|fr}} {{term|solea|lang=la}}.
 
 ===Pronunciation===
 * {{IPA|/sɔl/|lang=fr}}
@@ -356,18 +356,7 @@ From {{etyl|la|it}} {{m|la|sōl}}, ''solem'', ultimately from {{etyl|ine-pro|it}
 # [[sun]]
 
 =====Related terms=====
-* [[assolato]]
-* [[girasole]]
-* [[insolazione]]
-* [[occhiali da sole]]
-* [[parasole]]
-* [[prendisole]]
-* [[sistema solare]]
-* [[solare]]
-* [[solatio]]
-* [[soleggiare]]
-* [[solleone]]
-* [[solstizio]]
+{{rel3|assolato|girasole|insolazione|occhiali da sole|parasole|prendisole|sistema solare|solare|solatio|soleggiare|solleone|solstizio|lang=it}}
 
 =====See also=====
 * [[alba]]
@@ -393,18 +382,6 @@ Inflected forms
 * [[leso#Italian|leso]]
 
 [[Category:it:Sun]]
-
-----
-
-==Jèrriais==
-
-===Etymology===
-{{rfe|lang=roa-jer}}
-
-===Noun===
-{{roa-jer-noun|f}}
-
-# {{l/en|sole}}
 
 ----
 
@@ -446,7 +423,22 @@ From {{etyl|la|nap}} {{m|la|sol}}.
 {{head|nap|noun|g=m}}
 
 # the [[Sun]], the star around which the [[Earth]] revolves {{rfex|lang=nap}}
+
 [[Category:nap:Sun]]
+
+----
+
+==Norman==
+
+===Etymology===
+From {{etyl|VL.|nrf}} {{m|la|*sola}}, from {{etyl|la|nrf}} {{m|la|solea}}.
+
+===Noun===
+{{nrf-noun|f}}
+
+# [[#English|sole]] {{qualifier|fish}}
+
+{{catlangcode|nrf|Fish}}
 
 ----
 
@@ -468,8 +460,8 @@ From {{etyl|la|fro}} {{m|la|solus|solus, sola}}.
 * [[solement]]
 
 ====Descendants====
-* English: {{l|en|sole}}
-* French: {{l|fr|seul}}
+* English: {{l/en|sole}}
+* French: {{l/fr|seul}}
 
 ----
 
