@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-Earlier {{term|seise|lang=en}}, from {{etyl|enm|en}} {{term|seisen|lang=enm}}, {{term|sesen|lang=enm}}, {{term|saisen|lang=enm}}, from {{etyl|fro|en}} {{term|seisir||to take possession of; invest (person, court)|lang=fro}}, from {{etyl|ML.|en}} {{term|sacīre||to lay claim to, appropriate|lang=la}} (8th century) in the phrase {{term||ad propriam sacire}}, from Old Low {{etyl|frk|en}} {{m|frk|*sakjan||to sue, bring legal action}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*sakjaną}}, {{m|gem-pro|*sakōną}} (compare {{etyl|ang|-}} {{term|sacian||to strive, brawl|lang=ang}}), from {{etyl|gem-pro|en}} {{m|gem-pro|*sakaną}} (compare {{etyl|osx|-}} {{term|sakan||to accuse|lang=osx}}, {{etyl|goh|-}} {{term|sahhan||to bicker, quarrel, rebuke|lang=goh}}, {{etyl|ang|-}} ''[[sacan]]'' 'to quarrel, claim by law, accuse').<ref>C.T. Onions, ed., Oxford Dictionary of English Etymology, s.v. "seize" (Oxford: Clarendon Press, 1996), 807.</ref>  See [[sake]].
+Earlier {{m|en|seise}}, from {{etyl|enm|en}} {{m|enm|seisen}}, {{m|enm|sesen}}, {{m|enm|saisen}}, from {{etyl|fro|en}} {{m|fro|seisir||to take possession of; invest (person, court)}}, from {{etyl|ML.|en}} {{m|la|sacīre||to lay claim to, appropriate}} (8th century) in the phrase {{m|la||ad propriam sacire}}, from Old Low {{etyl|frk|en}} {{m|frk|*sakjan||to sue, bring legal action}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*sakjaną}}, {{m|gem-pro|*sakōną}} (compare {{etyl|ang|-}} {{m|ang|sacian||to strive, brawl}}), from {{etyl|gem-pro|en}} {{m|gem-pro|*sakaną}} (compare {{etyl|osx|-}} {{m|osx|sakan||to accuse}}, {{etyl|goh|-}} {{m|goh|sahhan||to bicker, quarrel, rebuke}}, {{etyl|ang|-}} ''[[sacan]]'' 'to quarrel, claim by law, accuse').<ref>C.T. Onions, ed., Oxford Dictionary of English Etymology, s.v. "seize" (Oxford: Clarendon Press, 1996), 807.</ref>  See [[sake]].
 
 ===Pronunciation===
 * {{enPR|sēz}}, {{IPA|/siːz/|lang=en}}
@@ -23,7 +23,7 @@ Earlier {{term|seise|lang=en}}, from {{etyl|enm|en}} {{term|seisen|lang=enm}}, {
 #: ''to seize two fish-hooks back to back''
 #: ''to seize or stop one rope on to another''
 # {{context|transitive|obsolete|lang=en}} to [[fasten]], [[fix]]
-# {{context|intransitive|lang=en}} to lay hold in [[seizure]], by hands or claws (+ {{term|on|lang=en}} or {{term|upon|lang=en}})
+# {{context|intransitive|lang=en}} to lay hold in [[seizure]], by hands or claws (+ {{m|en|on}} or {{m|en|upon}})
 #: ''to seize on the neck of a horse''
 #: ''The text which had seized upon his heart with such comfort and strength abode upon him for more than a year.'' (''Southey'', Bunyan, p. 21)
 # {{context|intransitive|lang=en}} to have a [[seizure]]
@@ -32,6 +32,7 @@ Earlier {{term|seise|lang=en}}, from {{etyl|enm|en}} {{term|seisen|lang=enm}}, {
 # {{context|intransitive|lang=en}} to [[bind]] or [[lock]] in position [[immovably]]; see also '''[[seize up]]'''
 #: ''Rust caused the engine to '''seize''', never to run again.''
 # {{context|UK|intransitive|lang=en}} to submit for consideration to a deliberative body.
+
 ====Derived terms====
 {{top2}}
 * [[be seized of]], [[be seized with]]
@@ -50,7 +51,7 @@ Earlier {{term|seise|lang=en}}, from {{etyl|enm|en}} {{term|seisen|lang=enm}}, {
 ====Translations====
 {{trans-top|grab}}
 * Arabic: {{t|ar|استولى على|tr=’istáula 3ála}}
-* Armenian: {{t|hy|գրավել|tr=gravel}}
+* Armenian: {{t|hy|գրավել}}
 * Bengali: {{t|bn|ধরা|sc=Beng}}
 * Catalan: {{t|ca|apoderar-se}}
 * Chinese:
@@ -123,9 +124,8 @@ Earlier {{term|seise|lang=en}}, from {{etyl|enm|en}} {{term|seisen|lang=enm}}, {
 
 ==French==
 {{cardinalbox|fr|15|16|17|quinze|dix-sept|ord=seizième|wplink=Seize}}
-
 ===Etymology===
-From {{etyl|la|fr}} {{term|sēdecim|lang=la}}.
+From {{etyl|la|fr}} {{m|la|sēdecim}}.
 
 ===Pronunciation===
 * {{audio|Fr-seize.ogg|audio (France)|lang=fr}}
@@ -148,36 +148,19 @@ From {{etyl|la|fr}} {{term|sēdecim|lang=la}}.
 
 ----
 
-==Guernésiais==
-
+==Norman==
+{{cardinalbox|nrf|15|16|17|tchinze|dix-sept}}
+{{cardinalbox|nrf|15|16|17|tchînze|dgiêx-sept}}
 ===Etymology===
-{{etyl|fro|roa-grn}} {{term|seize|lang=fro}} < {{etyl|la|roa-grn}} {{term|sēdecim|lang=la}}.
-
-===Numeral===
-{{cardinalbox|roa-grn|15|16|17|tchinze|dix-sept}}
-{{head|roa-grn|numeral}}
-
-# [[sixteen]]
-
-[[Category:Guernésiais cardinal numbers]]
-
-----
-
-==Jèrriais==
-{{cardinalbox|roa-jer|15|16|17|tchînze|dgiêx-sept}}
-
-===Etymology===
-From {{etyl|fro|roa-jer}} {{term|seize|lang=fro}}, from {{etyl|la|roa-jer}} {{term|sēdecim|lang=la}}.
+From {{etyl|fro|nrf}} {{m|fro|seize}}, from {{etyl|la|nrf}} {{m|la|sēdecim}}.
 
 ===Pronunciation===
-* {{audio|Jer-seize.ogg|Audio}}
+* {{audio|Jer-seize.ogg|Audio (Jersey)|lang=nrf}}
 
 ===Numeral===
-{{head|roa-jer|numeral}}
+{{head|nrf|numeral}}
 
-# [[sixteen]]
-
-[[Category:Jèrriais cardinal numbers]]
+# {{lb|nrf|Jersey|Guernsey|cardinal}} [[sixteen]]
 
 [[ast:seize]]
 [[az:seize]]
