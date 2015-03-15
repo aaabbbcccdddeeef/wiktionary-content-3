@@ -49,8 +49,8 @@ From {{etyl|enm|en}} {{term|poudre||lang=enm}}, {{term|pouldre||lang=enm}}, {{et
 ====Translations====
 {{trans-top|fine particles}}
 * Albanian: {{t|sq|pluhur|m}}
-* Arabic: {{t|ar|مسحوق|m|tr=masḥūq|sc=Arab}}
-* Armenian: {{t|hy|փոշի|tr=p'oši}}
+* Arabic: {{t|ar|مَسْحُوق|m|sc=Arab}}
+* Armenian: {{t|hy|փոշի}}
 * Azeri: {{t+|az|toz}}, {{t|az|pudra}}
 * Belarusian: {{t|be|парашо́к|m|sc=Cyrl}}
 * Bulgarian: {{t+|bg|прах|m|sc=Cyrl}}, {{t|bg|прахче|n|sc=Cyrl}}
@@ -66,9 +66,9 @@ From {{etyl|enm|en}} {{term|poudre||lang=enm}}, {{term|pouldre||lang=enm}}, {{et
 * French: {{t+|fr|poudre|m}}
 * Georgian: {{t|ka|ფხვნილი|sc=Geor}}
 * German: {{t+|de|Puder|m}}, {{t+|de|Pulver|n}}
-* Greek: {{t+|el|σκόνη}}
+* Greek: {{t+|el|σκόνη|f}}
 * Hausa: {{t|ha|hoda|f|alt=hōdā̀}}
-* Hebrew: {{t+|he|אבקה|f|tr=avka}}
+* Hebrew: {{t+|he|אַבְקָה|f|tr=avka}}
 * Hungarian: {{t+|hu|por}}
 * Icelandic: {{t+|is|duft|n}}
 * Indonesian: {{t+|id|bubuk}}, {{t+|id|serbuk}}
@@ -91,9 +91,10 @@ From {{etyl|enm|en}} {{term|poudre||lang=enm}}, {{term|pouldre||lang=enm}}, {{et
 * Polish: {{t+|pl|proszek|m}}
 * Portuguese: {{t+|pt|pó|m}}
 * Romanian: {{t+|ro|pudră|f}}, {{t+|ro|pulbere|f}}
-* Russian: {{t+|ru|порошок|m|tr=porošók}}, {{qualifier|cosmetics, medicine}} {{t+|ru|пудра|f|tr=púdra|sc=Cyrl}}, {{qualifier|medicine}} {{t+|ru|присыпка|f|tr=prisýpka|sc=Cyrl}}, {{t+|ru|прах|m|sc=Cyrl}} {{qualifier|poetic: dust, earth}}
+* Russian: {{t+|ru|порошо́к|m}}, {{t+|ru|пу́дра|f|sc=Cyrl}} {{qualifier|cosmetics, medicine}}, {{t+|ru|присы́пка|f|sc=Cyrl}} {{qualifier|medicine}}, {{t+|ru|прах|m|sc=Cyrl}} {{qualifier|poetic: dust, earth}}
 * Scottish Gaelic: {{t|gd|fùdar|m}}
-* Serbo-Croatian: {{t+|sh|prašak|m}}, {{t|sh|prȃh|m}}, {{t|sh|pràšina|f}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|prašak|m}}, {{t|sh|prȃh|m}}, {{t|sh|pràšina|f}}
 * Slovak: {{t|sk|prach|m}}, {{t|sk|prášok|m}}
 * Slovene: {{t+|sl|prah|m}}
 * Spanish: {{t+|es|polvo|m}}
