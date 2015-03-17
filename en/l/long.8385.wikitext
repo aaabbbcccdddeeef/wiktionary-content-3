@@ -60,26 +60,7 @@ From {{etyl|enm|en}} {{term|long|lang=enm}}, {{term|lang|lang=enm}}, from {{etyl
 * {{sense|finance}} [[short]]
 
 =====Derived terms=====
-* {{rel-top3|Terms derived from ''long'' (adjective)}}
-* [[as the day is long]]
-* [[daylong]], [[dayslong]]
-* [[long arm of the law]]
-* [[long game]]
-* [[long gun]]
-* [[longhand]]
-{{rel-mid3}}
-* [[long-haul]]
-* [[long paddock]]
-* [[long pig]]
-* [[long row to hoe]]
-* [[long shot]]
-* [[long vehicle]]
-{{rel-mid3}}
-* [[long-waisted]]
-* [[long white radish]]
-* [[the long and short]]
-* [[yearlong]], [[yearslong]]
-{{rel-bottom}}
+{{der3|as the day is long|[[daylong]], [[dayslong]]|long arm of the law|long game|long gun|longhand|long-haul|long paddock|long pig|long row to hoe|long shot|long vehicle|long-waisted|long white radish|the long and short|[[yearlong]], [[yearslong]]|lang=en}}
 
 =====Translations=====
 {{trans-top|having much distance from one point to another}}
@@ -126,10 +107,10 @@ From {{etyl|enm|en}} {{term|long|lang=enm}}, {{term|lang|lang=enm}}, from {{etyl
 * Friulian: {{t|fur|lunc}}, {{t|fur|lung}}
 * Gagauz: {{t|gag|uzun}}
 * Galician: {{t+|gl|largo}}
-* Georgian: {{t|ka|გრძელი|sc=Geor}}
+* Georgian: {{t|ka|გრძელი}}
 * German: {{t+|de|lang}}
 *: Alemannic German: {{t|gsw|lang}}
-* Greek: {{t+|el|μακρύς|sc=Grek}}
+* Greek: {{t+|el|μακρύς}}
 * Hausa: {{t|ha|dōgō}}
 * Hawaiian: {{t|haw|loa}}
 * Hebrew: {{t-needed|he}}
@@ -147,7 +128,6 @@ From {{etyl|enm|en}} {{term|long|lang=enm}}, {{term|lang|lang=enm}}, from {{etyl
 * Italian: {{t+|it|lungo}}
 * Japanese: {{t+|ja|長い|tr=[[ながい]], nagai}}
 * Javanese: {{t-needed|jv}}
-* Jèrriais: {{t|roa-jer|long}}
 * Kalmyk: {{t|xal|ут|sc=Cyrl}}
 * Kannada: {{t-needed|kn}}
 * Karachay-Balkar: {{t|krc|узун|tr=uzun|sc=Cyrl}}
@@ -177,6 +157,7 @@ From {{etyl|enm|en}} {{term|long|lang=enm}}, {{term|lang|lang=enm}}, from {{etyl
 * Mongolian: {{t|mn|урт|sc=Cyrl}}
 * Nahuatl: {{t+|nah|huehueyac|c}}
 * Nepali: {{t-needed|ne}}
+* Norman: {{t|nrf|long}} {{qualifier|Jersey}}, {{t|nrf|laong}} {{qualifier|Guernsey}}
 * Norwegian: {{t+|no|lang}}
 * Novial: {{t-needed|nov}}
 * Occitan: {{t|oc|long}}
@@ -577,7 +558,7 @@ From {{etyl|fro|fr}} {{term|long|lang=fro}}, from {{term|longe|lang=fro}}, {{ter
 ==Irish==
 
 ===Etymology===
-From {{etyl|sga|ga}} {{term|long|lang=sga}}.
+From {{etyl|sga|ga}} {{m|sga|long}}.
 
 ===Pronunciation===
 * {{IPA|/l̪ˠɔŋ/|lang=ga}}
@@ -591,18 +572,6 @@ From {{etyl|sga|ga}} {{term|long|lang=sga}}.
 {{ga-decl-f2|l|ong|oinge}}
 
 [[Category:ga:Watercraft]]
-
-----
-
-==Jèrriais==
-
-===Etymology===
-From {{etyl|fro|roa-jer}} {{term|long|lang=fro}}, a back-formation from {{term|longe|longe, longue|lang=fro}}, the feminine form of Early Old French {{term|lonc|lang=fro}}, from {{etyl|la|roa-jer}} {{term|longus|lang=la}}.
-
-===Adjective===
-{{roa-jer-adj|f=longue}}
-
-# [[#English|long]]
 
 ----
 
@@ -620,6 +589,21 @@ From {{etyl|fro|roa-jer}} {{term|long|lang=fro}}, a back-formation from {{term|l
 * {{cmn-toneless-note}}
 
 [[Category:Mandarin pinyin]]
+
+----
+
+==Norman==
+
+===Alternative forms===
+* {{l|nrf|laong}} {{qualifier|Guernsey}}
+
+===Etymology===
+From {{etyl|fro|nrf}} {{m|fro|long}}, a back-formation from {{m|fro|longe|longe, longue}}, the feminine form of Early Old French {{m|fro|lonc}}, from {{etyl|la|roa-jer}} {{m|la|longus}}.
+
+===Adjective===
+{{nrf-adj|f=longue}}
+
+# {{lb|nrf|Jersey}} [[#English|long]]
 
 ----
 
@@ -659,9 +643,9 @@ Generally assumed to be a {{etyl|la|sga}} loan, from {{term|longa|(navis) longa|
 * {{l/sga|scib}}
 
 ====Descendants====
-* Irish: {{l|ga|long}}
-* Manx: {{l|gv|lhong}}
-* Scottish Gaelic: {{l|gd|long}}
+* Irish: {{l/ga|long}}
+* Manx: {{l/gv|lhong}}
+* Scottish Gaelic: {{l/gd|long}}
 
 ===Mutation===
 {{sga-mutation|l|ong}}
