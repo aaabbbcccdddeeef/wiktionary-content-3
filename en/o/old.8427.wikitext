@@ -588,6 +588,9 @@ From {{etyl|gml|nds-de}}, from {{etyl|osx|nds-de}} {{term|ald|lang=osx}}, from {
 
 ==Hungarian==
 
+===Etymology===
+From {{etyl|fiu-pro|hu}} {{m|urj-pro|*aŋa-||to loosen, open (up), untie}} <ref>{{R:Uralonet|16}}</ref> {{hu-suffix||d|t2=frequentative suffix|pos=v}}. <ref>{{R:Zaicz 2006}}</ref>
+
 ===Pronunciation===
 * {{hu-IPA}}
 * {{audio|Hu-old.ogg|Audio|lang=hu}}
@@ -595,18 +598,21 @@ From {{etyl|gml|nds-de}}, from {{etyl|osx|nds-de}} {{term|ald|lang=osx}}, from {
 ===Verb===
 {{hu-verb}}
 
-# to [[solve]]
-# to [[untie]]
+# {{lb|hu|transitive}} to [[solve]]
+# {{lb|hu|transitive}} to [[untie]]
 
 ====Conjugation====
 {{hu-conj-ok|o|l|d}}
 
 ====Derived terms====
-* [[felold]]
-* [[megold]]
 * [[oldat]]
+* [[oldatlan]]
 * [[oldódik]]
 * [[oldoz]]
+{{hu-verbpref|old|el|fel|ki|le|meg}}
+
+===References===
+<references/>
 
 [[Category:Hungarian three-letter words]]
 
