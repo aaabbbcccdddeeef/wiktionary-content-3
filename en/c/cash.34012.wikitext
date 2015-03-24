@@ -48,7 +48,7 @@ From {{etyl|frm|en}} {{term|caisse||money box|lang=frm}}, from {{etyl|pro|en}} {
 * Abkhaz: {{t-needed|ab}}
 * Albanian: {{t|sq|para}}
 * Arabic: {{t|ar|نقد|m|tr=naqd}}, {{t|ar|نقود|m-p|tr=nuqūd}}
-* Armenian: {{t|hy|կանխիկ|sc=Armn}}, {{t|hy|քեշ|tr=քեշ|sc=Armn}} {{qualifier|colloquial}}
+* Armenian: {{t|hy|կանխիկ|sc=Armn}}, {{t|hy|քեշ|sc=Armn}} {{qualifier|colloquial}}
 * Avar: {{t-needed|av}}
 * Azeri: {{t|az|nağd}}
 * Belarusian: {{t|be|ная́ўныя гро́шы|m-p|sc=Cyrl}}, {{t|be|ная́ўныя|m-p|sc=Cyrl}}, {{t|be|гато́ўка|f|sc=Cyrl}}, {{t|be|гро́шы|m-p|sc=Cyrl}} {{qualifier|money}}
@@ -78,8 +78,8 @@ From {{etyl|frm|en}} {{term|caisse||money box|lang=frm}}, from {{etyl|pro|en}} {
 {{trans-mid}}
 * Khmer: {{t|km|សាច់ប្រាក់|tr=sac prak|sc=Khmr}}
 * Korean: {{t|ko|현찰|sc=Kore}}, {{t+|ko|현금|sc=Kore}}
-* Lao: {{t|lo|ເງິນສົດ|tr=ŋə́n sót|sc=Laoo}}
-* Macedonian: {{t|mk|гото́вина|f}}, {{t|mk|па́ри|p}}
+* Lao: {{t|lo|ເງິນສົດ|sc=Laoo}}
+* Macedonian: {{t|mk|готовина|f}}, {{t|mk|пари|p}}
 * Malay: {{t|ms|tunai}}
 * Maori: {{t|mi|moni}}, {{t|mi|moni tūturu}}
 * Mongolian: {{t|mn|бэлэн мөнгө|sc=Cyrl}}
@@ -97,10 +97,10 @@ From {{etyl|frm|en}} {{term|caisse||money box|lang=frm}}, from {{etyl|pro|en}} {
 * Somali: {{t-needed|so}}
 * Spanish: {{t+|es|efectivo|m}}
 * Swedish: {{t+|sv|kontanter|c}}
-* Telugu: {{t|te|రొక్కం|tr=rokkaM}}, {{t|te|కాసులు|tr=kaasulu}}, {{t|te|క్యాష్|tr=kyaash^}}
+* Telugu: {{t|te|రొక్కం}}, {{t|te|కాసులు}}, {{t|te|క్యాష్}}
 * Thai: {{t|th|เงินสด|tr=ngern sòt|sc=Thai}}
 * Turkish: {{t+|tr|nakit}}, {{t+|tr|para}}
-* Tuvan: {{t|tyv|бар акша|tr=bar akša}}
+* Tuvan: {{t|tyv|бар акша}}
 * Ukrainian: {{t|uk|готі́вка|f|sc=Cyrl}}, {{t|uk|гро́ші|m-p|sc=Cyrl}} {{qualifier|money}}
 * Urdu: {{t|ur|نقد|tr=naqad}}
 * Yoruba: {{t-needed|yo}}
@@ -131,12 +131,12 @@ From {{etyl|frm|en}} {{term|caisse||money box|lang=frm}}, from {{etyl|pro|en}} {
 * Finnish: {{t|fi|lunastaa}}
 {{trans-mid}}
 * French: {{t+|fr|encaisser}}
-* Russian: {{t|ru|обналичивать|impf|tr=obnalíčivat'|sc=Cyrl}}, {{t|ru|обналичить|pf|tr=obnalíčit'|sc=Cyrl}}
+* Russian: {{t|ru|обнали́чивать|impf|sc=Cyrl}}, {{t|ru|обнали́чить|pf|sc=Cyrl}}
 * Slovene: {{t|sl|vnovčiti}}
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{etyl|ta|en}} {{term|காசு|tr=kāsu|sc=Taml|lang=ta}}.
+From {{etyl|ta|en}} {{term|காசு|sc=Taml|lang=ta}}.
 
 ====Noun====
 {{en-noun|cash}}
