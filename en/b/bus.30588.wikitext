@@ -39,10 +39,10 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 {{trans-top|vehicle}}
 * Abkhaz: {{t|ab|автобус}}
 * Afrikaans: {{t|af|bus}}
-* Albanian: {{t+|sq|autobus}}
+* Albanian: {{t+|sq|autobus|m}}
 * Amharic: {{t|am|አውቶቡስ|sc=Ethi}}
-* Arabic: {{t|ar|حافلة|f|tr=ḥāfila}}, {{t|ar|باص|m|tr=bāṣ}}, {{t|ar|أتوبيس|m|tr=ʾutubīs}}
-*: Egyptian Arabic: {{t|arz|أتوبيس|m|tr=ʔutubiis|sc=Arab}}, {{t|arz|باص|m|tr=bāṣ|sc=Arab}}, {{t|arz|مينيباص|m|tr=menibāṣ|sc=Arab}}
+* Arabic: {{t|ar|حَافِلَة|f}}, {{t|ar|بَاص|m}}, {{t|ar|أُتُوبِيس|m}}
+*: Egyptian Arabic: {{t|arz|أتوبيس|m|tr=ʾutubīs|sc=Arab}}, {{t|arz|باص|m|tr=bāṣ|sc=Arab}}, {{t|arz|مينيباص|m|tr=menibāṣ|sc=Arab}}
 * Armenian: {{t|hy|ավտոբուս}}
 * Asturian: {{t|ast|autobús|m}}
 * Azeri: {{t+|az|avtobus}}
@@ -73,8 +73,8 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 * Greenlandic: {{t|kl|bussi}}
 * Gujarati: {{t+|gu|બસ|tr=bas|sc=Gujr}}
 * Hausa: {{t|ha|bas}}
-* Hebrew: {{t+|he|אוטובוס|m|tr=ot'obus}}
-* Hindi: {{t|hi|बस|f|tr=bas}}
+* Hebrew: {{t+|he|אוֹטוֹבּוּס|m|tr=otobús}}
+* Hindi: {{t|hi|बस|f}}
 * Hungarian: {{t+|hu|autóbusz}}, {{t+|hu|busz}}
 * Icelandic: {{t+|is|strætisvagn|m}} (city transport), {{t+|is|strætó|m}} {{qualifier|informal; city transport}}, {{t|is|langferðabíll|m}} {{qualifier|long distance}}, {{t+|is|rúta|f}} {{qualifier|informal; long distance}}
 * Inari Sami: {{t|smn|bussi}}
@@ -103,7 +103,7 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 * Macedonian: {{t|mk|автобус|m}}
 * Malay: {{t|ms|bas}}
 * Malayalam: {{t+|ml|ബസ്|sc=Mlym}}
-* Maltese: {{t|mt|xarabank}}, {{t|mt|karozza tal-linja}}, {{t|mt|tal-linja}}
+* Maltese: {{t|mt|xarabank|m}}, {{t|mt|karozza tal-linja|m}}, {{t|mt|tal-linja|m}}
 * Marathi: {{t|mr|बस|sc=Deva}}
 * Mongolian: {{t+|mn|автобус|sc=Cyrl}}
 * Nahuatl: {{t+|nah|calmimilolli}}
@@ -171,10 +171,7 @@ Shortening of {{term|omnibus||lang=en}}, from {{etyl|la|en}} {{term|omnibus||for
 * Swedish: {{t+|sv|buss|c}}
 {{trans-bottom}}
 
-{{trans-top|medical slang: ambulance}}
-* Japanese: {{t+|ja|救急車|tr=kyūkyū-sha|sc=Jpan}}
-{{trans-mid}}
-{{trans-bottom}}
+{{trans-see|medical slang: ambulance|ambulance}}
 
 ===Verb===
 {{en-verb|busses|pres_3sg2=buses|bussing|pres_ptc2=busing|bussed|past2=bused}}
