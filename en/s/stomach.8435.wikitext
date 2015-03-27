@@ -95,8 +95,8 @@ From {{etyl|enm|en}} {{term|stomak|lang=enm}}, from {{etyl|fro|en}} {{term|estom
 * Galician: {{t+|gl|estómago|m}}
 * Georgian: {{t|ka|კუჭი|sc=Geor}}
 * German: {{t+|de|Magen|m}}
-* Greek: {{t+|el|στομάχι|n|tr=stomáchi}}, {{t+|el|στόμαχος|m|tr=stómachos}}
-*: Ancient Greek: {{t|grc|στόμαχος|m|tr=stómachos}}, {{t|grc|γαστήρ|m|tr=ɣastír}}
+* Greek: {{t+|el|στομάχι|n}}, {{t+|el|στόμαχος|m}}
+*: Ancient Greek: {{t|grc|στόμαχος|m}}, {{t|grc|γαστήρ|m}}
 * Gujarati: {{t-needed|gu}}
 * Hausa: {{t-needed|ha}}
 * Hawaiian: {{t|haw|ʻōpū}}
@@ -137,7 +137,7 @@ From {{etyl|enm|en}} {{term|stomak|lang=enm}}, from {{etyl|fro|en}} {{term|estom
 * Mandinka: {{t|mnk|konoo}}
 * Marathi: {{t|mr|जठर|sc=Deva}}
 * Mongolian: {{t-needed|mn}}
-* Navajo: {{t|nv|abid}}
+* Navajo: {{t|nv|abid|sc=Latn}}
 * Norwegian: {{t+|no|mage|m}}
 * Novial: {{t-needed|nov}}
 * Old English: {{t|ang|maga|m}}
@@ -150,12 +150,12 @@ From {{etyl|enm|en}} {{term|stomak|lang=enm}}, from {{etyl|fro|en}} {{term|estom
 * Rajasthani: {{t-needed|raj}}
 * Romanian: {{t+|ro|stomac|n}}
 * Rungus: {{t|drg|tizan}}
-* Russian: {{t+|ru|желудок|m|tr=želúdok}}, {{t+|ru|живот|m|tr=živót}}
+* Russian: {{t+|ru|желу́док|m}}, {{t+|ru|живо́т|m}}
 * Sabah Bisaya: {{t|bsy|tinai'}}
 * Sardinian: {{t-needed|sc}}
 * Scottish Gaelic: {{t|gd|brù|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|желудац|m}}, {{t|sh|стомак|m}}
+*: Cyrillic: {{t|sh|желудац|m|sc=Cyrl}}, {{t|sh|стомак|m|sc=Cyrl}}
 *: Roman: {{t+|sh|želudac|m}}, {{t+|sh|stomak|m}}
 * Sicilian: {{t-needed|scn}}
 * Sindhi: {{t-needed|sd}}
@@ -164,7 +164,7 @@ From {{etyl|enm|en}} {{term|stomak|lang=enm}}, from {{etyl|fro|en}} {{term|estom
 * Slovene: {{t+|sl|želodec|m}}
 * Somali: {{t-needed|so}}
 * Spanish: {{t+|es|estómago|m}}
-* Swahili: [[utumbo]] ''(noun 5/6)''
+* Swahili: {{t+|sw|utumbo|c5|c6}}
 * Swedish: {{t+|sv|mage|c}}
 * Tagal Murut: {{t|mvv|tinaai}}
 * Tagalog: {{t+|tl|tiyan}}
@@ -177,7 +177,7 @@ From {{etyl|enm|en}} {{term|stomak|lang=enm}}, from {{etyl|fro|en}} {{term|estom
 * Turkish: {{t+|tr|mide}}, {{t+|tr|karın}}
 * Turkmen: {{t|tk|garyn}}
 * Tuvan: {{t|tyv|ижин|tr=ižin}}
-* Ukrainian: {{t+|uk|шлунок|m|tr=šlúnok|sc=Cyrl}}
+* Ukrainian: {{t+|uk|шлу́нок|m}}
 * Upper Sorbian: {{t|hsb|žołdk|m}}
 * Uzbek: {{t|uz|qorin}}
 * Venetian: {{t-needed|vec}}
@@ -191,7 +191,7 @@ From {{etyl|enm|en}} {{term|stomak|lang=enm}}, from {{etyl|fro|en}} {{term|estom
 * Wiradhuri: {{t|wrh|binji}}
 * Wolof: {{t-needed|wo}}
 * Xhosa: {{t-needed|xh}}
-* Yiddish: {{t|yi|מאָגן|m|tr=mogn|sc=Hebr}}
+* Yiddish: {{t|yi|מאָגן|m|tr=mogn}}
 * Yoruba: {{t-needed|yo}}
 * Zulu: {{t+|zu|isisu|c7|c8}}
 {{trans-bottom}}
@@ -222,7 +222,7 @@ From {{etyl|enm|en}} {{term|stomak|lang=enm}}, from {{etyl|fro|en}} {{term|estom
 * French: {{t+|fr|ventre|m}}, {{t+|fr|bedon|m}} ([[pot belly]])
 * Georgian: {{t|ka|მუცელი}}
 * German: {{t+|de|Bauch|m}}
-* Greek: {{t+|el|στομάχι|n|tr=stomáchi}}, {{t+|el|κοιλιά|f|tr=koiliá}}
+* Greek: {{t+|el|στομάχι|n}}, {{t+|el|κοιλιά|f}}
 * Hebrew: {{t+|he|בֶּטֶן|f|tr=béten|sc=Hebr}}
 * Hindi: {{t+|hi|पेट|m|tr=pēṭ|sc=Deva}}
 * Hungarian: {{t+|hu|has}}
@@ -247,7 +247,7 @@ From {{etyl|enm|en}} {{term|stomak|lang=enm}}, from {{etyl|fro|en}} {{term|estom
 * Maltese: {{t+|mt|żaqq|f}}
 * Marathi: {{t|mr|पोट|sc=Deva}}
 * Mongolian: {{t-needed|mn}}
-* Navajo: {{t|nv|abid}}
+* Navajo: {{t|nv|abid|sc=Latn}}
 * Norman: {{t|nrf|ventre|m}} {{qualifier|Jersey, Guernsey}}, {{t|nrf|vãtr|m}} {{qualifier|Sa;rk}}, {{t|nrf|dare}} {{qualifier|continental Normandy}}
 * Norwegian: {{t+|no|mage|m}}, {{t+|no|buk|m}}
 * Persian: {{t+|fa|شکم|tr=šekam|sc=fa-Arab}}
