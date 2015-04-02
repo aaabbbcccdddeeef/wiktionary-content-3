@@ -35,17 +35,17 @@ One explanation for the pronunciation is that ''bicycle'' is parsed to ''bi(cy)c
 * Catalan: {{t+|ca|bici|f}}
 * Cornish: {{t|kw|diwros|f}}
 * Czech: {{t+|cs|kolo|n}}
-* Dutch: {{t+|nl|fiets|m}}, [[velo]] {{g|m}} {{qualifier|slang|Belgium}}
+* Dutch: {{t+|nl|fiets|m}}, {{t|nl|velo|m}} {{qualifier|slang|Belgium}}
 * Estonian: {{t+|et|jalgratas}}
 * Finnish: {{t+|fi|pyörä}}, {{t+|fi|polkupyörä}}, {{t+|fi|fillari}}
 * French: {{t+|fr|vélo|m}}
 * Georgian: {{t-needed|ka}}
 * Galician: {{t+|gl|bici|f}}
-* German: {{t+|de|Fahrrad|n}}, [[Rad#German|Rad]] {{g|n}}, [[Velo]] {{g|n}} {{qualifier|Switzerland|colloquial}} [[Drahtesel]]
-* Hungarian: [[bicaj]] {{qualifier|slang}}, [[bicó]] {{qualifier|slang}}, [[bringa]] {{qualifier|slang}}, {{t+|hu|bicikli}}
+* German: {{t+|de|Fahrrad|n}}, {{t|de|Rad|n}}, {{t|de|Velo|n}} {{qualifier|Switzerland|colloquial}} {{t|de|Drahtesel}}
+* Hungarian: {{t|hu|bicaj}} {{qualifier|slang}}, {{t|hu|bicó}} {{qualifier|slang}}, {{t|hu|bringa}} {{qualifier|slang}}, {{t+|hu|bicikli}}
 * Indonesian: {{t+|id|sepeda}}
-* Italian: [[bici]] {{qualifier|slang}} {{g|f}} <!-- this is the full form and so is not equivalent to "bike": [[bicicletta]] {{f}}-->
-* Japanese: {{t+|ja|自転車|tr=[[じてんしゃ]], jitensha}}, [[チャリンコ]] (charinko, ''slang'')
+* Italian: {{t|it|bici|f}} {{qualifier|slang}} <!-- this is the full form and so is not equivalent to "bike": [[bicicletta]] {{f}}-->
+* Japanese: {{t+|ja|自転車|tr=[[じてんしゃ]], jitensha}}, {{t|ja|チャリンコ|tr=charinko}} {{qualifier|slang}}
 * Lithuanian: {{t|lt|dviratis|m}}
 {{trans-mid}}
 * Norwegian: {{t+|no|sykkel|m}}
@@ -76,7 +76,7 @@ One explanation for the pronunciation is that ''bicycle'' is parsed to ''bi(cy)c
 * French: {{t+|fr|moto|f}}
 * Galician: {{t+|gl|moto|f}}
 * German: {{t+|de|Motorrad|n}}
-* Hungarian: {{t+|hu|motor}}, {{t+|hu|motorkerékpár}}, [[moci]] {{qualifier|slang}}
+* Hungarian: {{t+|hu|motor}}, {{t+|hu|motorkerékpár}}, {{t|hu|moci}} {{qualifier|slang}}
 * Indonesian: {{t+|id|sepeda motor}}
 * Italian: {{t+|it|moto|f}}
 {{trans-mid}}
@@ -90,7 +90,7 @@ One explanation for the pronunciation is that ''bicycle'' is parsed to ''bi(cy)c
 * Slovene: {{t|sl|motorno kolo|n}}
 * Spanish: {{t+|es|moto|f}}
 * Swedish: {{t+|sv|mc|c}}, {{t+|sv|MC|c}}, {{t+|sv|motorcykel|c}}, {{t+|sv|båge|c}} {{qualifier|slang}}
-* Thai: {{t|th|มอเตอร์ไซค์|tr=mor-dtêr-sai |sc=Thai}}
+* Thai: {{t|th|มอเตอร์ไซค์|tr=mor-dtêr-sai|sc=Thai}}
 * Volapük: {{t|vo|motorasaikul}}
 * Welsh: {{t|cy|beic modur|m}}
 {{trans-bottom}}
@@ -136,8 +136,8 @@ Origin unknown.
 
 # {{context|Scotland|Northern England|lang=en}} A [[nest]] of [[wasp]]s or [[hornet]]s.
 #: {{rfquotek|Sir W. Scott}}
-#*'''1955''', {{w|Robin Jenkins}}, ''The Cone-Gatherers'', Canongate 2012, p. 107:
-#*:he stood for a minute talking to them about their job of gathering cones, and telling them a story about a tree he'd once climbed which had a wasp's '''byke''' in it unbeknown to him.
+#* '''1955''', {{w|Robin Jenkins}}, ''The Cone-Gatherers'', Canongate 2012, p. 107:
+#*: he stood for a minute talking to them about their job of gathering cones, and telling them a story about a tree he'd once climbed which had a wasp's '''byke''' in it unbeknown to him.
 
 ===Anagrams===
 * [[Beki#English|Beki]]
@@ -162,32 +162,14 @@ From {{etyl|la|eu}} {{m|la|pix}}.
 ==Italian==
 
 ===Etymology===
-{{etyl|en|it}}
+{{borrowing|en|lang=it}}.
 
 ===Noun===
 {{head|it|noun|g=f|invariable}}
 
 # [[motorbike]], [[motorcycle]]
 
-----
-
-==Jèrriais==
-
-===Etymology===
-{{borrowing|en|bike|lang=roa-jer}}.
-
-===Noun===
-{{roa-jer-noun|f}}
-
-# [[bicycle]]
-
-====Derived terms====
-{{der3|{{l|roa-jer|bike à deux||tandem}}
-|{{l|roa-jer|bike à montangne||mountain bike}}
-|{{l|roa-jer|c'mîn à bike}}, {{l|roa-jer|sente à bike||bike path}}
-|{{l|roa-jer|par à bikes||bike rack}}}}
-
-[[Category:roa-jer:Cycling]]
+{{catlangcode|it|Vehicles}}
 
 ----
 
@@ -197,6 +179,26 @@ From {{etyl|la|eu}} {{m|la|pix}}.
 {{head|ku|verb form}}
 
 # {{ku-verb form of|kirin|3|s|fs}}
+
+----
+
+==Norman==
+
+===Etymology===
+{{borrowing|en|bike|lang=nrf}}.
+
+===Noun===
+{{nrf-noun|f}}
+
+# {{lb|nrf|Jersey}} [[bicycle]]
+
+====Derived terms====
+{{der3|{{l|nrf|bike à deux||tandem}}
+|{{l|nrf|bike à montangne||mountain bike}}
+|{{l|nrf|c'mîn à bike}}, {{l|roa-jer|sente à bike||bike path}}
+|{{l|nrf|par à bikes||bike rack}}}}
+
+{{catlangcode|nrf|Cycling}}
 
 [[cs:bike]]
 [[cy:bike]]
