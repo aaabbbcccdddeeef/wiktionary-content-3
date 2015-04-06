@@ -16,35 +16,21 @@
 # {{context|Christianity|lang=en}} A [[title]] given to [[Jesus]] of Nazareth, seen as the [[fulfiller]] of the [[messianic]] [[prophecy]]; often treated as a personal [[name]].
 
 ====Derived terms====
-{{rel-top3|Terms derived from ''Christ''}}
-* [[antichrist]]
-* [[Body of Christ]]
-* [[christen]]
-* [[Chrislam]]
-{{rel-mid3}}
-* [[christening]]
-* [[Christian]]
-* [[Christianity]]
-* [[Christicide]]
-{{rel-mid3}}
-* [[Christmas]]
-* [[Jesus Christ]]
-* [[Vicar of Christ]]
-{{rel-bottom}}
+{{der3|antichrist|Body of Christ|christen|Chrislam|christening|Christian|Christianity|Christicide|Christmas|Jesus Christ|Vicar of Christ|lang=en}}
 
 ====Translations====
 {{trans-top|messiah predicted in Jewish prophesy}}
 * Esperanto: {{t|eo|Kristo}}
-* Hindi: {{t|hi|मसीह|sc=Deva}}
-{{trans-mid}}
+* Hindi: {{t|hi|मसीह}}
 * Polish: {{t+|pl|Chrystus|m}}
+{{trans-mid}}
 * Portuguese: {{t+|pt|Cristo|m}}
 * Spanish: {{t+|es|Cristo}}
 {{trans-bottom}}
 
 {{trans-top|title for Jesus of Nazareth}}
 * Albanian: {{t|sq|Krishti|m}}
-* Arabic: {{t|ar|الْمَسِيح|m|sc=Arab}}
+* Arabic: {{t|ar|الْمَسِيح|m}}
 * Armenian: {{t|hy|Քրիստոս}}
 *: Old Armenian: {{t|xcl|Քրիստոս}}
 * Azeri: {{t|az|Məsih}}
@@ -78,7 +64,7 @@
 * Irish: {{t|ga|Críost|m}}
 * Italian: {{t+|it|Cristo|m}}
 * Japanese: {{t+|ja|キリスト|tr=Kirisuto}} ({{t|ja|基督|tr=きりすと, Kirisuto}}), {{qualifier|Orthodox Church}} {{t+|ja|ハリストス|tr=Harisutosu}}
-* Norman: {{t|nrf|Christ|m}}
+* Norman: {{t|nrf|Christ|m}} {{qualifier|Jersey}}
 * Kaonde: {{t|kqn|Kilishitu}}
 * Kazakh: {{t|kk|Мәсих|sc=Cyrl}}
 * Khmer: {{t|km|ព្រះយេស៊ូ|tr=bprēyah yēysū|sc=Khmr}}
@@ -191,16 +177,10 @@ Use is considered [[blasphemous]] by most [[Christians]].
 ===Proper noun===
 {{fr-proper noun|m}}
 
-# {{l|en|Christ}}
+# [[#English|Christ]]
 
 ====Related terms====
-* [[chrétien]]
-* [[chrétienté]]
-* [[christ]] (artistic representation of Christ)
-* [[christianiser]]
-* [[christianisme]]
-* [[christique]]
-* [[Jésus-Christ]]
+{{rel3|chrétien|chrétienté|{{l|fr|christ||artistic representation of Christ}}|christianiser|christianisme|christique|Jésus-Christ|lang=fr}}
 
 ----
 
@@ -233,25 +213,24 @@ From {{etyl|gmh|de}} {{term|kriste|lang=gmh}}.
 
 ----
 
-==Norman==
-{{rfc-auto}}
-
-===Etymology===
-From {{etyl|la|nrf}} {{term|Christus|lang=la}}, from {{etyl|grc|nrf}} {{term|Χριστός|sc=polytonic|lang=grc}}, proper noun use of {{term|χριστός|sc=polytonic||the anointed one|lang=grc}}.
-
-===Proper noun===
-{{nrf-proper noun|m}}
-
-# {{context|Christianity|lang=nrf}} [[#English|Christ]]
-
-----
-
 ==Middle French==
 
 ===Proper noun===
 {{head|frm|proper noun|g=m}}
 
 # {{l|en|Christ}}
+
+----
+
+==Norman==
+
+===Etymology===
+From {{etyl|la|nrf}} {{m|la|Christus}}, from {{etyl|grc|nrf}} {{m|grc|Χριστός}}, proper noun use of {{m|grc|χριστός||the anointed one}}.
+
+===Proper noun===
+{{nrf-proper noun|m}}
+
+# {{lb|nrf|Jersey|Christianity}} [[#English|Christ]]
 
 ----
 
