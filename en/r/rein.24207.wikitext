@@ -84,18 +84,7 @@
 {{trans-bottom}}
 
 ====Derived terms====
-{{rel-top3|Terms derived from the noun or verb ''rein''}}
-* [[free rein]]
-* [[hold the reins]]
-* [[keep a tight rein on]]
-{{rel-mid3}}
-* [[draw rein]]
-* [[rein back]]
-* [[rein in]]
-{{rel-mid3}}
-* [[rein up]]
-* [[take the reins]]
-{{rel-bottom}}
+{{der3|free rein|hold the reins|keep a tight rein on|draw rein|rein back|rein in|rein up|take the reins|lang=en}}
 
 ===Etymology 2===
 From {{etyl|xno|en}} {{term|reines|lang=fro}}, {{etyl|frm|en}} {{term|reins|lang=frm}}, and their source, {{etyl|la|en}} {{term|rēnēs|lang=la}}.
@@ -211,8 +200,7 @@ Old High German ''[[reini]]'', from {{etyl|gem-pro|de}} {{m|gem-pro|*hrainiz}}, 
 {{de-adv}}
 
 # [[purely]]
-#: ''Unsere Beziehung ist '''rein''' platonisch.''
-#: Our relationship is purely platonic.
+#: {{usex|Unsere Beziehung ist '''rein''' platonisch.|t=Our relationship is '''purely''' platonic.|lang=de}}
 
 ===Etymology 2===
 Contraction of {{term|herein|lang=de}}.
@@ -221,20 +209,20 @@ Contraction of {{term|herein|lang=de}}.
 {{de-adv}}
 
 # {{context|colloquial|lang=de}} [[inside]], in here
-#: ''Er kommt jetzt '''rein'''.'' -- He's coming inside now.
+#: {{usex|Er kommt jetzt '''rein'''.|inline=1|t=He's coming inside now.|lang=de}}
 # {{context|colloquial|lang=de}} [[inside]], in there
-#: ''Er geht '''rein''' zu den andern.'' -- He's going inside to the other people.
+#: {{usex|Er geht '''rein''' zu den andern.|inline=1|t=He's going inside to the other people.|lang=de}}
 
 =====Usage notes=====
-Unlike the standard language, colloquial German does not distinguish the meanings of {{term|hinein|lang=de}} ("in there, away from the speaker") and {{term|herein|lang=de}} ("in here, towards the speaker"). {{term|rein|Rein}} is used for both meanings.
+Unlike the standard language, colloquial German does not distinguish the meanings of {{m|de|hinein||in there (''away from the speaker''}} and {{m|de|herein||in here ''towards the speaker''}}. {{term|rein|Rein}} is used for both meanings.
 
 =====Synonyms=====
-* {{l|de|herein}}
-* {{l|de|hinein}}
+* {{l/de|herein}}
+* {{l/de|hinein}}
 
 =====Related terms=====
-* {{l|de|hinaus}}
-* {{l|de|heraus}}, {{l|de|raus}}
+* {{l/de|hinaus}}
+* {{l/de|heraus}}, {{l/de|raus}}
 
 ----
 
@@ -256,22 +244,6 @@ Unlike the standard language, colloquial German does not distinguish the meaning
 
 ----
 
-==Norman==
-{{rfc-auto}}
-
-===Etymology===
-From {{etyl|la|nrf}} {{term|rēn|lang=la}}.
-
-===Noun===
-{{nrf-noun|m}}
-
-# {{context|anatomy|lang=nrf}} [[kidney]]
-
-====Related terms====
-* {{l|nrf|rîngnon}}
-
-----
-
 ==Middle French==
 
 ===Noun===
@@ -280,6 +252,22 @@ From {{etyl|la|nrf}} {{term|rēn|lang=la}}.
 # {{context|anatomy|lang=frm}} [[kidney]]
 
 ----
+
+==Norman==
+
+===Etymology===
+From {{etyl|la|nrf}} {{m|la|rēn}}.
+
+===Noun===
+{{nrf-noun|m}}
+
+# {{lb|nrf|Jersey|anatomy}} [[kidney]]
+
+====Related terms====
+* {{l|nrf|rîngnon}}
+
+----
+
 ==Norwegian Bokmål==
 
 ===Etymology 1===
@@ -307,9 +295,11 @@ From {{etyl|non|nb}} {{term|hreinn|lang=non}}
 
 ===References===
 * {{R:The Bokmål Dictionary}}
+
 [[Category:nb:Animals]]
 
 ----
+
 ==Norwegian Nynorsk==
 
 ===Etymology 1===
@@ -337,6 +327,7 @@ From {{etyl|non|nn}} {{term|hreinn|lang=non}}
 [[Category:nn:Animals]]
 
 ----
+
 ==Volapük==
 
 ===Noun===
