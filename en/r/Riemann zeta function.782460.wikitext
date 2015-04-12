@@ -4,10 +4,12 @@
 * [[Riemann zeta-function]]
 
 ===Proper noun===
-{{wikipedia}}
 {{en-proper noun|head=the [[Riemann]] [[zeta]] [[function]]|-}}
 
 # {{context|mathematics|lang=en}} A [[holomorphic]] [[function]] whose [[domain]] is the [[set]] of [[complex number]]s (except [[one|1]]), and for a real number ''x'' greater than 1 equals the sum of the series <math>\sum_{n=0}^\infty \frac 1 {n^x}</math>.
+
+====Hypernyms====
+* {{l|en|function}}
 
 ====Translations====
 {{trans-top|function}}
@@ -17,3 +19,6 @@
 * Italian: {{t|it|funzione zeta di Riemann|f}}
 * Spanish: {{t|es|función zeta de Riemann|f}}
 {{trans-bottom}}
+
+===References===
+* {{pedia}}
