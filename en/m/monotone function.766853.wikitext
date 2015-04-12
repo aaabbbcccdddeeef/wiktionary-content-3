@@ -8,10 +8,23 @@
 
 # {{context|mathematics|lang=en}}a [[function]] that either never decreases or never increases as its [[independent variable]] increases.
 
+====Hypernyms====
+* {{l|en|function}}
+
+====Hyponyms====
+* {{l|en|monotone nondecreasing function}}
+* {{l|en|monotone nonincreasing function}}
+* {{l|en|monotonic increasing function}}
+
 ====Translations====
 {{trans-top|function that never decreases}}
+* German: {{t|de|monoton fallende Funktion|f}}
 * Serbo-Croatian: {{t|sh|monotona funkcija|f}}
 {{trans-mid}}
+* Turkish: {{t|tr|monoton azalan fonksiyon}}
 {{trans-bottom}}
+
+===References===
+* {{pedia}}
 
 [[ta:monotone function]]
