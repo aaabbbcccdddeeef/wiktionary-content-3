@@ -39,11 +39,46 @@ From {{etyl|frm|en}} {{term|function|lang=frm}}, from {{etyl|fro|en}} {{term|fon
 * {{sense|mathematics}} {{l/en|relation}}
 
 ====Hyponyms====
-{{hyp-top4|Hyponyms of "function"}}
-* {{l|en|acidity function}}
+* {{l|en|subfunction}}
+{{hyp-top|astronomy: Hyponyms of "function"}}
+* {{l|en|luminosity function}}
+* {{l|en|mass function}}
+{{hyp-mid}}
+* {{l|en|phase function}}
+{{hyp-bottom}}
+* {{sense|chemistry}}{{l|en|acidity function}}
+{{hyp-top3|computing: Hyponyms of "function"}}
+* {{l|en|Boolean function}}
+* {{l|en|built-in function}}
+* {{l|en|computable function}}
+* {{l|en|concave function}}
+* {{l|en|constructor function}}
+{{hyp-mid3}}
+* {{l|en|convex function}}
+* {{l|en|error function}}
+* {{l|en|predefined function}}
+* {{l|en|recursive function}}
+* {{l|en|restricted function}}
+{{hyp-mid3}}
+* {{l|en|set function}}
+* {{l|en|transition function}}
+* {{l|en|user-defined function}}
+{{hyp-bottom}}
+{{hyp-top|logic: Hyponyms of "function"}}
+* {{l|en|Boolean function}}
+* {{l|en|propositional function}}
+{{hyp-mid}}
+* {{l|en|switching function}}
+* {{l|en|truth function}}
+{{hyp-bottom}}
+{{hyp-top|management: Hyponyms of "function"}}
+* {{l|en|line function}}
+{{hyp-mid}}
+* {{l|en|staff function}}
+{{hyp-bottom}}
+{{hyp-top4|mathematics:Hyponyms of "function"}}
 * {{l|en|additive function}}
 * {{l|en|aggregate function}}
-* {{l|en|Airy function}}
 * {{l|en|algebraic function}}
 * {{l|en|alternating function}}
 * {{l|en|analytic function}}
@@ -54,26 +89,20 @@ From {{etyl|frm|en}} {{term|function|lang=frm}}, from {{etyl|fro|en}} {{term|fon
 * {{l|en|Bessel function}}
 * {{l|en|beta function}}
 * {{l|en|Bloch function}}
-* {{l|en|Boolean function}}
 * {{l|en|bounded function}}
 * {{l|en|boxcar function}}
 * {{l|en|Brillouin function}}
-* {{l|en|built-in function}}
 * {{l|en|Cantor function}}
 * {{l|en|characteristic function}}
 * {{l|en|circular function}}
 * {{l|en|comparable function}}
 * {{l|en|complementary function}}
 * {{l|en|composite function}}
-* {{l|en|computable function}}
-* {{l|en|concave function}}
 * {{l|en|connect function}}
 * {{l|en|constant function}}
 * {{l|en|constraint function}}
 * {{l|en|contiguous function}}
 * {{l|en|continuous function}}
-* {{l|en|control function}}
-* {{l|en|convex function}}
 * {{l|en|correlation function}}
 * {{l|en|cost function}}
 * {{l|en|critical function}}
@@ -91,14 +120,11 @@ From {{etyl|frm|en}} {{term|function|lang=frm}}, from {{etyl|fro|en}} {{term|fon
 * {{l|en|eigenfunction}}
 * {{l|en|elementary function}}
 * {{l|en|elliptic function}}
-{{hyp-mid4}}
 * {{l|en|Emden function}}
+{{hyp-mid4}}
 * {{l|en|entire function}}
-* {{l|en|error function}}
 * {{l|en|Euler's phi function}}
 * {{l|en|even function}}
-* {{l|en|excitation function}}
-* {{l|en|executive ego function}}
 * {{l|en|explicit function}}
 * {{l|en|exponential function}}
 * {{l|en|first-class function}}
@@ -138,16 +164,12 @@ From {{etyl|frm|en}} {{term|function|lang=frm}}, from {{etyl|fro|en}} {{term|fon
 * {{l|en|Koebe function}}
 * {{l|en|Lagrangian function}}
 * {{l|en|Lamé function}}
-* {{l|en|Lamé wave function}}
-* {{l|en|Langevin function}}
 * {{l|en|Legendre function}}
 * {{l|en|Leverett function}}
-* {{l|en|line function}}
 {{hyp-mid4}}
 * {{l|en|linear function}}
 * {{l|en|Liouville function}}
 * {{l|en|loss function}}
-* {{l|en|luminosity function}}
 * {{l|en|Lyapunov function}}
 * {{l|en|mass function}}
 * {{l|en|Massieu function}}
@@ -167,7 +189,6 @@ From {{etyl|frm|en}} {{term|function|lang=frm}}, from {{etyl|fro|en}} {{term|fon
 * {{l|en|normalized function}}
 * {{l|en|normalized support function}}
 * {{l|en|NOT function}}
-* {{l|en|nuclear response function}}
 * {{l|en|number-theoretic function}}
 * {{l|en|objective function}}
 * {{l|en|odd function}}
@@ -178,32 +199,26 @@ From {{etyl|frm|en}} {{term|function|lang=frm}}, from {{etyl|fro|en}} {{term|fon
 * {{l|en|Patterson function}}
 * {{l|en|penalty function}}
 * {{l|en|periodic function}}
-* {{l|en|phase function}}
 * {{l|en|Planck function}}
 * {{l|en|point function}}
 * {{l|en|polynomial function}}
 * {{l|en|power function}}
-* {{l|en|predefined function}}
 * {{l|en|principal function}}
-* {{l|en|propositional function}}
 * {{l|en|psi function}}
 * {{l|en|quadratic function}}
 * {{l|en|Rademacher function}}
 * {{l|en|random function}}
 * {{l|en|rational function}}
+{{hyp-mid4}}
 * {{l|en|real function}}
 * {{l|en|recursive function}}
 * {{l|en|regular function}}
-* {{l|en|restricted function}}
-{{hyp-mid4}}
 * {{l|en|Riemann function}}
 * {{l|en|Riemann P function}}
 * {{l|en|sample function}}
 * {{l|en|scalar function}}
-* {{l|en|scattering function}}
 * {{l|en|self-organizing function}}
 * {{l|en|sensitivity function}}
-* {{l|en|set function}}
 * {{l|en|shear-viscosity function}}
 * {{l|en|sigma function}}
 * {{l|en|simple function}}
@@ -213,38 +228,47 @@ From {{etyl|frm|en}} {{term|function|lang=frm}}, from {{etyl|fro|en}} {{term|fon
 * {{l|en|source function}}
 * {{l|en|special function}}
 * {{l|en|spectral function}}
-* {{l|en|staff function}}
 * {{l|en|step function}}
 * {{l|en|stream function}}
 * {{l|en|stress function}}
-* {{l|en|subfunction}}
 * {{l|en|summable function}}
 * {{l|en|support function}}
 * {{l|en|switch function}}
-* {{l|en|switching function}}
 * {{l|en|symmetric function}}
 * {{l|en|test function}}
 * {{l|en|theta function}}
 * {{l|en|torsion function}}
 * {{l|en|transcendental function}}
 * {{l|en|transfer function}}
-* {{l|en|transition function}}
 * {{l|en|transmission function}}
 * {{l|en|trigonometric function}}
 * {{l|en|trigonometric cofunction}}
 * {{l|en|truth function}}
 * {{l|en|unit function}}
 * {{l|en|universal wavelength function}}
-* {{l|en|user-defined function}}
 * {{l|en|variadic function}}
 * {{l|en|vector function}}
 * {{l|en|wave function}}
 * {{l|en|Wannier function}}
 * {{l|en|Weierstrass function}}
 * {{l|en|weight function}}
-* {{l|en|work function}}
 * {{l|en|zeta function}}
 {{hyp-bottom}}
+{{hyp-top3|physics: Hyponyms of "function"}}
+* {{l|en|Airy function}}
+* {{l|en|excitation function}}
+* {{l|en|Langevin function}}
+{{hyp-mid3}}
+* {{l|en|luminosity function}}
+* {{l|en|nuclear response function}}
+* {{l|en|partition function}}
+{{hyp-mid3}}
+* {{l|en|psi function}}
+* {{l|en|scattering function}}
+* {{l|en|work function}}
+{{hyp-bottom}}
+* {{sense|psychology}} {{l|en|executive ego function}}
+* {{sense|systems theory}} {{l|en|control function}}
 
 ====Derived terms====
 {{der-top3|terms derived from "function"}}
