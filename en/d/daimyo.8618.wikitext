@@ -2,10 +2,10 @@
 ==English==
 
 ===Alternative forms===
-* [[daimio]]
+* {{l|en|daimio}}
 
 ===Etymology===
-From {{etyl|ja|en}} {{term|lang=ja|sc=Jpan|大名|tr=daimyō}}, from {{etyl|ltc|en}} 大名 (''dàj-mjieng'' "excellent one"), from [[大]] "great" + [[名]] "name" (compare {{etyl|cmn|en}} ''dàmíng'').
+{{borrowing|ja|大名|tr=daimyō|lang=en}}. from {{etyl|ltc|en}} {{m|ltc|大名||excellent one|tr=dàj-mjieng}}, from {{m|ltc|[大||great}} + {{m|ltc|名||name}}. Compare {{etyl|cmn|en}} {{m|cmn|dàmíng}}.
 
 ===Pronunciation===
 * {{a|RP}} {{enPR|dī'myō}}, {{IPA|/ˈdaɪ.mjəʊ/|lang=en}}
@@ -21,7 +21,7 @@ From {{etyl|ja|en}} {{term|lang=ja|sc=Jpan|大名|tr=daimyō}}, from {{etyl|ltc|
 * Chinese:
 *: Mandarin: {{t-needed|cmn}}
 * Finnish: {{t-needed|fi}}
-* French: {{t-needed|fr}}
+* French: {{t+fr|daimyo|m}}
 {{trans-mid}}
 * Korean: {{t-needed|ko}}
 * Portuguese: {{t|pt|daimio|m}}
@@ -30,8 +30,25 @@ From {{etyl|ja|en}} {{term|lang=ja|sc=Jpan|大名|tr=daimyō}}, from {{etyl|ltc|
 {{trans-bottom}}
 
 ===See also===
-* [[samurai]]
-* [[shogun]]
+* {{l|en|samurai}}
+* {{l|en|shogun}}
+
+----
+
+==French==
+
+===Alternative forms===
+* {{l|fr|daïmio}}
+* {{l|fr|daimyô}}
+* {{l|fr|daimyō}}
+
+===Etymology===
+{{borrowing|ja|大名|tr=daimyō|lang=fr}}.
+
+===Noun===
+{{fr-noun|m}}
+
+# {{l|en|daimyo}}
 
 [[de:daimyo]]
 [[fr:daimyo]]
