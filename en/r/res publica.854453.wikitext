@@ -20,16 +20,16 @@ From {{etyl|la|en}} {{term|rēs publica|lang=la}}. Compare {{term|republic}}.
 ==Latin==
 
 ===Alternative forms===
-* {{l|la|rēspublica}}
+* {{l|la|rēspūblica}}
 
 ===Etymology===
-From {{term|rēs||lang=la|thing”, “affair}} + {{term|publica||public|lang=la}}, the feminine form of {{term|publicus||public|lang=la}}. Literally meaning "public thing".
+From {{m|la|rēs||thing”, “affair}} + {{m|la|pūblica}}, the feminine form of {{m|la|pūblicus||public}}. Literally meaning "public thing".
 
 ===Pronunciation===
-* {{la-pronunc|rēs publica}}
+* {{la-pronunc|rēs pūblica}}
 
 ===Noun===
-{{la-noun|rēs publica|rei publicae|reī publicae|f|fifth}}
+{{la-noun|rēs pūblica|rei publicae|reī pūblicae|f|fifth}}
 
 # [[republic]], [[commonwealth]], the [[state]]
 #* {{RQ:Cicero Catiline}}
@@ -46,8 +46,21 @@ From {{term|rēs||lang=la|thing”, “affair}} + {{term|publica||public|lang=la
 #: ''Hanc '''rem publicam''' salvam esse volumus.''
 #:: We wish this '''republic''' to be safe.
 
-====Inflection====
-{{la-decl-see|rēs|publicus}}
+====Declension====
+{{la-decl-noun-table
+|title=[[Appendix:Latin first declension|First declension]] and [[Appendix:Latin fifth declension|Fifth declension]].
+|nom_sg=rēs pūblica
+|gen_sg=reī pūblicae
+|dat_sg=reī pūblicae
+|acc_sg=rem pūblicam
+|abl_sg=rē pūblicā
+|voc_sg=rēs pūblica
+|nom_pl=rēs pūblicae
+|gen_pl=rērum pūblicārum
+|dat_pl=rēbus pūblicīs
+|acc_pl=rēs pūblicās
+|abl_pl=rēbus pūblicīs
+|voc_pl=rēs pūblicae}}
 
 ====Descendants====
 * Russian: {{l|ru|республика}}
