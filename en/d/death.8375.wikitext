@@ -138,8 +138,7 @@ From {{etyl|enm|en}} {{m|enm|deeth}}, from {{etyl|ang|en}} {{m|ang|dēaþ}}, fro
 * Ainu: {{t|ain|ライ|tr=rayi}}, {{t|ain|ラヤㇺペ|tr=rayampe}}
 * Albanian: {{t|sq|vdekje|f}}, {{t|sq|mort|m}}
 * Amharic: {{t|am|ሞት|sc=Ethi}}
-* Arabic: {{t|ar|موت|m|tr=mawt|sc=Arab}}, {{t|ar|وفاة|f|tr=wafāa|sc=Arab}}
-*: Hejazi Arabic: {{t|arz|موت|m|tr=Mōt|sc=Arab}}
+* Arabic: {{t|ar|مَوْت|m|sc=Arab}}, {{t|ar|وَفَاة|f|sc=Arab}}
 * Aragonese: {{t-needed|an}}
 * Aramaic:
 *: Syriac: {{t|arc|ܡܘܬܐ|m|tr=mawtā’|sc=Hebr}}
@@ -167,7 +166,7 @@ From {{etyl|enm|en}} {{m|enm|deeth}}, from {{etyl|ang|en}} {{m|ang|dēaþ}}, fro
 * Cebuano: {{t|ceb|kamatayon}}
 * Chagatai: {{t|chg|اولوم|tr=ölüm|sc=fa-Arab}}, {{t|chg|اولم|tr=ölim|sc=fa-Arab}}
 * Chechen: {{t|ce|валар}}, {{t|ce|ӏожалла}}
-* Cherokee: {{t|chr|ᎠᏲᎱᎯᏍᏗ|tr=ayohuhisdi|sc=Cher}}
+* Cherokee: {{t|chr|ᎠᏲᎱᎯᏍᏗ|sc=Cher}}
 * Chinese:
 *: Cantonese: {{t|yue|死亡|tr=sei2 mong4|sc=Hani}}
 *: Mandarin: {{t+|cmn|死亡|tr=sǐwáng|sc=Hani}}
@@ -203,8 +202,8 @@ From {{etyl|enm|en}} {{m|enm|deeth}}, from {{etyl|ang|en}} {{m|ang|dēaþ}}, fro
 * Haitian Creole: {{t|ht|lanmò}}
 * Hausa: {{t+|ha|mutuwa}}
 * Hawaiian: {{t|haw|make}}
-* Hebrew: {{t+|he|מוות|m|tr=mavet|sc=Hebr}}
-* Hindi: {{t+|hi|मृत्यु|m|tr=mṛtyú|sc=Deva}}, {{t|hi|मरण|tr=marṇ|sc=Deva}}, {{t|hi|मौत|f|tr=maut|sc=Deva}}, {{t|hi|मर्ग|f|tr=marg|sc=Deva}}
+* Hebrew: {{t+|he|מוות|m|tr=mavet|alt=מוות \ מָוֶת|sc=Hebr}}
+* Hindi: {{t+|hi|मृत्यु|m|sc=Deva}}, {{t|hi|मरण|m|sc=Deva}}, {{t|hi|मौत|f|sc=Deva}}, {{t|hi|मर्ग|f|sc=Deva}}
 * Hungarian: {{t+|hu|halál}}
 * Icelandic: {{t+|is|dauði|m}}
 * Ido: {{t+|io|morto}}
@@ -248,7 +247,7 @@ From {{etyl|enm|en}} {{m|enm|deeth}}, from {{etyl|ang|en}} {{m|ang|dēaþ}}, fro
 * Malayalam: {{t+|ml|മരണം|sc=Mlym}}
 * Maltese: {{t|mt|mewt|f}}
 * Maori: {{t|mi|mate}}, {{t|mi|mate kiatu}} {{qualifier|death by violence}}, {{t|mi|mate tara-ā-whare}} {{qualifier|death from natural causes}}, {{t|mi|mate whawhati tata}} {{qualifier|sudden death}}, {{t|mi|mate koeo}} {{qualifier|natural death}}, {{t|mi|hautapu}} {{qualifier|by violence}}
-* Marathi: {{t|mr|मृत्यु|m|tr=mṛtyu|sc=Deva}}
+* Marathi: {{t|mr|मृत्यु|m|sc=Deva}}
 * Mirandese: {{t|mwl|muorte|f}}
 * Moksha: {{t|mdf|кулома}}
 * Mongolian: {{t|mn|үхэл|sc=Cyrl}}
@@ -278,7 +277,7 @@ From {{etyl|enm|en}} {{m|enm|deeth}}, from {{etyl|ang|en}} {{m|ang|dēaþ}}, fro
 * Romanian: {{t+|ro|moarte|f}}
 * Russian: {{t+|ru|смерть|f|sc=Cyrl}}, {{t+|ru|ги́бель|f|sc=Cyrl}}, {{t+|ru|поги́бель|f|sc=Cyrl}}, {{t+|ru|кончи́на|f|sc=Cyrl}}
 * Rusyn: {{t|rue|смерть|f|sc=Cyrl}}
-* Sanskrit: {{t|sa|मृत्यु|tr=mṛtyú|sc=Deva}}, {{t|sa|मरण|tr=maraṇa|sc=Deva}}
+* Sanskrit: {{t|sa|मृत्यु|m|tr=mṛtyú|sc=Deva}}, {{t|sa|मरण|n|tr=maraṇa|sc=Deva}}
 * Santali: {{t|sat|ᱢᱳᱨᱳᱱ|tr=moron|sc=Olck}}
 * Sardinian: {{t|sc|molte}}, {{t|sc|morte}}, {{t|sc|morti}}
 * Scottish Gaelic: {{t|gd|bàs|m}}, {{t|gd|caochladh|m}}, {{t|gd|eug|m}}
@@ -307,7 +306,7 @@ From {{etyl|enm|en}} {{m|enm|deeth}}, from {{etyl|ang|en}} {{m|ang|dēaþ}}, fro
 * Tamil: {{t+|ta|மரணம்|sc=Taml}}
 * Tatar: {{t+|tt|үлем|sc=Cyrl}}, {{t+|tt|әҗәл|sc=Cyrl}}
 * Telugu: {{t+|te|మరణము|sc=Telu}}, {{t+|te|చావు|sc=Telu}}
-* Thai: {{t|th|ความตาย|tr=kwaamdtaai|sc=Thai}}, {{t+|th|มรณะ|tr=mawrana|sc=Thai}}
+* Thai: {{t|th|ความตาย|tr=kwaam-dtaai|sc=Thai}}, {{t+|th|มรณะ|tr=mor-rá-ná|sc=Thai}}
 * Tibetan: {{t|bo|འཆི་བ|sc=Tibt}}
 * Tigrinya: {{t|ti|ሞት|sc=Ethi}}
 * Tongan: {{t|to|mate}}
@@ -330,7 +329,7 @@ From {{etyl|enm|en}} {{m|enm|deeth}}, from {{etyl|ang|en}} {{m|ang|dēaþ}}, fro
 * Wolof: {{t+|wo|dee}}
 * Xhosa: {{t|xh|ukufa}}
 * Yakut: {{t|sah|өлүү|sc=Cyrl}}
-* Yiddish: {{t|yi|טויט|m|tr=tojt|sc=Hebr}}
+* Yiddish: {{t|yi|טויט|m|sc=Hebr}}
 * Yoruba: {{t|yo|ikú}}
 * Zulu: {{t|zu|ukufa}}
 {{trans-bottom}}
@@ -339,7 +338,7 @@ From {{etyl|enm|en}} {{m|enm|deeth}}, from {{etyl|ang|en}} {{m|ang|dēaþ}}, fro
 * Basque: {{t+|eu|herio}}
 * Breton: {{t+|br|Ankoù|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|死神|tr=Sǐ Shén|sc=Hani}}
+*: Mandarin: {{t+|cmn|死神|tr=sǐshén|sc=Hani}}
 * Czech: {{t+|cs|smrtka|f}}, {{t+|cs|smrt}}
 * Danish: {{t|da|Døden}}
 * Dutch: {{t+|nl|dood|m}}
@@ -349,7 +348,7 @@ From {{etyl|enm|en}} {{m|enm|deeth}}, from {{etyl|ang|en}} {{m|ang|dēaþ}}, fro
 * Greek: {{t|el|Χάρος|m|sc=Grek}}
 *: Ancient: {{t|grc|Χάρων|m|sc=polytonic}}
 * Italian: {{t+|it|morte}}
-* Japanese: {{t|ja|死神|tr=shinigami}}
+* Japanese: {{t|ja|死神|tr=しにがみ, shinigami}}
 {{trans-mid}}
 * Latin: {{t+|la|mors}}, {{t|la|letus|m}}
 * Latvian: {{t|lv|nāve|f}}
@@ -379,8 +378,8 @@ From {{etyl|enm|en}} {{m|enm|deeth}}, from {{etyl|ang|en}} {{m|ang|dēaþ}}, fro
 * Hungarian: {{t+|hu|halál}}, {{t|hu|nagy arkánum}}
 {{trans-mid}}
 * Italian: {{t|it|la morte}}, {{t|it|l'arcano senza nome}}
-* Japanese: {{t|ja|死神|tr=shinigami}}
-* Korean: {{t+|ko|죽음|tr=jugeum}}
+* Japanese: {{t|ja|死神|tr=しにがみ, shinigami}}
+* Korean: {{t+|ko|죽음}}
 * Macedonian: {{t|mk|смрт|f|sc=Cyrl}}
 * Polish: {{t+|pl|śmierć}}
 * Portuguese: {{t|pt|Morte|f}}, {{t|pt|arcano sem nome|m}}
