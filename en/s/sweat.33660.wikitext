@@ -203,8 +203,8 @@ From {{etyl|ang|en}} {{term|swætan|lang=ang}}, from the noun {{m|ang|swāt}}. C
 * Abkhaz: {{t-needed|ab}}
 * Ainu: {{t|ain|ポッペ ヌ|tr=poppe nu}}
 * Albanian: {{t|sq|djersij}}
-* Arabic: {{t|ar|عرق|tr=3áriqa}}
-* Armenian: {{t|hy|քրտնել|tr=k'rtnel}}
+* Arabic: {{t|ar|عَرِقَ}}
+* Armenian: {{t|hy|քրտնել}}
 * Aromanian: {{t|rup|asud}}
 * Asturian: {{t|ast|sudar}}
 * Avar: {{t-needed|av}}
@@ -213,8 +213,8 @@ From {{etyl|ang|en}} {{term|swætan|lang=ang}}, from the noun {{m|ang|swāt}}. C
 * Catalan: {{t+|ca|suar}}
 * Chechen: {{t-needed|ce}}
 * Chinese:
-*: Mandarin: {{t+|cmn|流汗|tr=liúhàn|sc=Hani}}, {{t|cmn|發汗|sc=Hani}}, {{t+|cmn|发汗|tr=fāhàn|sc=Hani}}, {{t+|cmn|出汗|tr=chūhàn|sc=Hani}}
-* Czech: [[potit]] se
+*: Mandarin: {{t+|cmn|流汗|tr=liúhàn|sc=Hani}}, {{t+|cmn|發汗|sc=Hani}}, {{t+|cmn|发汗|tr=fāhàn|sc=Hani}}, {{t+|cmn|出汗|tr=chūhàn|sc=Hani}}
+* Czech: {{t|cs|potit|impf|alt=potit se}}
 * Dutch: {{t+|nl|zweten}}
 * Esperanto: {{t|eo|ŝviti}}
 * Finnish: {{t+|fi|hikoilla}}
@@ -223,38 +223,38 @@ From {{etyl|ang|en}} {{term|swætan|lang=ang}}, from the noun {{m|ang|swāt}}. C
 * Galician: {{t|gl|suar}}
 * Georgian: {{t-needed|ka}}
 * German: {{t+|de|schwitzen}}
-* Greek: {{t+|el|ιδρώνω|tr=iδróno}}
+* Greek: {{t+|el|ιδρώνω}}
 *: Ancient: {{t|grc|ἱδρόω|sc=polytonic}}
-* Hebrew: {{t|he|הזיע|tr=hizía}}
-* Hindi: {{t|hi|पसीना आना|tr=pasīnā ānā}}
+* Hebrew: {{t|he|הִזִּיעַ|tr=hizía}}
+* Hindi: {{t|hi|पसीना आना}}
 * Hungarian: {{t+|hu|izzad}}
 * Icelandic: {{t+|is|svitna}}
 * Ido: {{t+|io|sudorifar}}
 * Indonesian: {{t-needed|id}}
 * Italian: {{t+|it|sudare}}
-* Japanese: {{t|ja|汗をかく|tr=あせをかく, ase-o kaku}}
+* Japanese: {{t|ja|[[汗]]を[[かく]]|tr=あせをかく, ase o kaku}}
 * Khmer: {{t|km|បែកញើស|tr=baek ɲəəh|sc=Khmr}}
 {{trans-mid}}
 * Kurdish:
 *: Sorani: {{t+|ku|ئاره‌ق}}
 * Lao: {{t-needed|lo}}
 * Lithuanian: {{t|lt|prakaitúoti}}
-* Macedonian: {{t|mk|поти|alt=се поти|sc=Cyrl}}
+* Macedonian: {{t|mk|поти|impf|alt=се поти|sc=Cyrl}}
 * Malay: {{t|ms|berkeringat}}, {{t|ms|berpeluh}}
 * Mongolian: {{t-needed|mn}}
 * Neapolitan: {{t|nap|sudà}}
 * Norwegian: {{t|no|svette}}
 * Occitan: {{t+|oc|susar}}
 * Ossetian: {{t-needed|os}}
-* Polish: {{t+|pl|pocić się}}
+* Polish: {{t+|pl|pocić się|impf}}
 * Portuguese: {{t+|pt|transpirar}}, {{t+|pt|suar}}
 * Quechua: {{t|qu|hunp'iy}}
 * Romanian: {{t+|ro|transpira}}, {{t+|ro|asuda}}
-* Russian: {{t+|ru|потеть|impf|tr=potét’}}, {{t+|ru|вспотеть|pf|tr=vspotét’}}
+* Russian: {{t+|ru|поте́ть|impf}}, {{t+|ru|вспоте́ть|pf}}
 * Sardinian: {{t|sc|suderare}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|знојити|alt=зно̀јити се|sc=Cyrl}}
-*: Roman: {{t+|sh|znojiti|alt=znòjiti se}}
+*: Cyrillic: {{t|sh|знојити|impf|alt=зно̀јити се|sc=Cyrl}}
+*: Roman: {{t+|sh|znojiti|impf|alt=znòjiti se}}
 * Slovak: {{t|sk|potiť|impf|alt=potiť sa}}
 * Slovene: {{t|sl|znojiti|impf|alt=znojiti se}}
 * Spanish: {{t|es|sudar}}
@@ -268,7 +268,7 @@ From {{etyl|ang|en}} {{term|swætan|lang=ang}}, from the noun {{m|ang|swāt}}. C
 * Ukrainian: {{t|uk|поті́ти|impf|sc=Cyrl}}
 * Vietnamese: {{t-needed|vi}}
 * Welsh: {{t+|cy|chwysu}}
-* Yiddish: {{t|yi|שוויצן|tr=shvitsn|sc=Hebr}}
+* Yiddish: {{t|yi|שוויצן|sc=Hebr}}
 {{trans-bottom}}
 
 {{trans-top|informal: to work hard}}
@@ -277,11 +277,11 @@ From {{etyl|ang|en}} {{term|swætan|lang=ang}}, from the noun {{m|ang|swāt}}. C
 * Dutch: {{t+|nl|zwoegen}}
 * Finnish: {{t+|fi|raataa}}
 * Hungarian: {{t+|hu|robotol}}
-* Macedonian: {{t|mk|поти|alt=се поти|sc=Cyrl}}
+* Macedonian: {{t|mk|поти|impf|alt=се поти|sc=Cyrl}}
 * Polish: {{t+|pl|pocić się}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|suar}}
-* Russian: {{t+|ru|вкалывать|tr=vkályvat’}}, [[горбатиться]] (gorbátit's'a), {{t+|ru|ишачить|tr=išáčit’}}, {{t+|ru|мантулить|tr=mantúlit’}}, {{t+|ru|пахать|tr=paχát’}}
+* Russian: {{t+|ru|вка́лывать|impf}}, {{t+|ru|горба́титься|impf}}, {{t+|ru|иша́чить|impf}}, {{t+|ru|паха́ть|impf}}, {{t+|ru|манту́лить|impf}}
 * Spanish: {{t|es|sudar}} {{qualifier|colloquial}}
 * Swahili: {{t+|sw|jasho}}
 * Turkish: {{t+|tr|ter dökmek}}
