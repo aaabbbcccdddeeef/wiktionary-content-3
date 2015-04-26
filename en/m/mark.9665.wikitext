@@ -269,14 +269,15 @@ From {{etyl|enm|en}} {{term|mark|lang=enm}}, {{term|merk|lang=enm}}, {{term|merk
 # {{context|Australian Rules football|lang=en}} To catch the ball directly from a kick of 15 metres or more without having been touched in transit, resulting in a [[free kick]].
 # {{context|sports|lang=en}} To follow a player not in possession of the ball when defending, to prevent them receiving a pass easily.
 # {{context|golf|lang=en}} To put a [[marker]] in the place of one's ball.
+# {{lb|en|singing}} To sing softly, and perhaps an [[octave]] lower than usual, in order to protect one's voice during a [[rehearsal]].
 
 =====Synonyms=====
 * {{sense|indicate correctness and give score}} {{l|en|score}}, {{l|en|grade}}
 
 =====Translations=====
 {{trans-top|indicate}}
-* Arabic: {{t|ar|أشّر|tr=’áššara}}
-* Chinese: [[标记]] (biāojì)
+* Arabic: {{t|ar|أَشَّرَ}}
+* Chinese: {{t|zh|标记|tr=biāojì}}
 * Czech: {{t|cs|označit}}
 * Dutch: {{t+|nl|markeren}}, {{t+|nl|aanduiden}}, {{t|nl|optekenen}}
 * Estonian: {{t|et|tähistama}}
@@ -288,11 +289,11 @@ From {{etyl|enm|en}} {{term|mark|lang=enm}}, {{term|merk|lang=enm}}, {{term|merk
 * Irish: {{t|ga|marcáil}}
 {{trans-mid}}
 * Italian: {{t+|it|marcare}}
-* Japanese: [[印]]を[[つける]] (しるしをつける, shirushi o tsukeru)
-* Korean: [[표를]] [[하다]] (pyoreul hada)
+* Japanese: {{t|ja|[[印]]を[[つける]]|tr=しるしをつける, shirushi o tsukeru}}
+* Korean: {{t|ko|[[표를]] [[하다]]}}
 * Maori: {{t|mi|kowata}} {{qualifier|a trail or route}}
 * Portuguese: {{t+|pt|marcar}}, {{t+|pt|indicar}}
-* Russian: {{t+|ru|маркировать|tr=markirovát’}}
+* Russian: {{t+|ru|маркирова́ть}}
 * Scottish Gaelic: {{t|gd|comharraich}}
 * Slovene: {{t|sl|označiti}}, {{t|sl|zaznamovati}}
 * Spanish: {{t+|es|marcar}}
@@ -302,7 +303,7 @@ From {{etyl|enm|en}} {{term|mark|lang=enm}}, {{term|merk|lang=enm}}, {{term|merk
 
 {{trans-top|take note of}}
 * Dutch: {{t|nl|noteren}}, {{t|nl|opschrijven}}, {{t|nl|neerpennen}}, {{t|nl|nota nemen}}
-* Finnish: {{t|fi|merkitä}}, [[muisti]]in
+* Finnish: {{t|fi|merkitä}}, {{t|fi|muisti|alt=muistiin}}
 * French: {{t+|fr|noter}}
 * German: {{t+|de|merken}}
 {{trans-mid}}
@@ -352,32 +353,16 @@ From {{etyl|enm|en}} {{term|mark|lang=enm}}, {{term|merk|lang=enm}}, {{term|merk
 
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 {{checktrans-top}}
-* {{ttbc|ca}}: [[marcar]] (1, 3), [[apuntar]] (2), [[anotar]] (2), [[qualificar]] (4)
-* Georgian: {{t-check|ka|ნიშანი|tr=nišani}}
+* Catalan: {{t-check|ca|marcar}} (1, 3), {{t-check|ca|apuntar}} (2), {{t-check|ca|anotar}} (2), {{t-check|ca|qualificar}} (4)
 * Esperanto: {{t-check|eo|marki}}
-* {{ttbc|et}}: [[hindama]] (4)
+{{trans-mid}}
+* Estonian: {{t-check|et|hindama}} (4)
+* Georgian: {{t-check|ka|ნიშანი}}
 {{trans-bottom}}
 
 =====Derived terms=====
-{{rel-top|Terms derived from the verb "mark"}}
-* [[man-mark]]
-* [[mark-down]]
-* [[mark down]]
-* [[marked]]
-* [[marker]]
-{{rel-mid3}}
-* [[marking]]
-* [[mark my words]]
-* [[mark off]]
-* [[mark out]]
-* [[mark time]]
-{{rel-mid3}}
-* [[mark up]]
-* [[mark-up]]
-* [[press-mark]]
-* [[unmarked]]
-* [[X marks the spot]]
-{{rel-bottom}}
+{{der3|lang=en
+|man-mark |mark-down |mark down |marked |marker |marking |mark my words |mark off |mark out |mark time |mark up |mark-up |press-mark |unmarked |X marks the spot}}
 
 ===Etymology 2===
 From {{etyl|enm|en}} {{term|mark|lang=enm}}, from {{etyl|ang|en}} {{term|marc||a denomination of weight (usu. half a pound), mark (money of account)|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*marką||mark, sign}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*marǵ-||edge, boundary, border}}. Cognate with {{etyl|nl|-}} {{term|mark||mark|lang=nl}}, {{etyl|de|-}} {{term|Mark||a weight of silver, a coin|lang=de}}, {{etyl|sv|-}} {{term|mark||a stamped coin|lang=sv}}, {{etyl|is|-}} {{term|mörk||a weight (usu. a pound) of silver or gold|lang=is}}.
