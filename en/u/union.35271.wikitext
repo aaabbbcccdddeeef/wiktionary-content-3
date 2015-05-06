@@ -3,7 +3,7 @@
 {{wikipedia|dab=Union}}
 
 ===Etymology===
-From {{etyl|fro|en}} {{term|union|lang=fro}}, from {{etyl|LL.|en}} {{term|unionem|lang=la}}, from {{etyl|la|en}} {{term|ūnus||one|lang=la}}
+From {{etyl|fro|en}} {{m|fro|union}}, from {{etyl|LL.|en}} {{m|la|unionem}}, from {{etyl|la|en}} {{term|ūnus||one|lang=la}}
 
 ===Pronunciation===
 * {{IPA|/ˈjuːnjən/|lang=en}}
@@ -25,7 +25,7 @@ From {{etyl|fro|en}} {{term|union|lang=fro}}, from {{etyl|LL.|en}} {{term|unione
 # {{context|uncountable|archaic|euphemistic|lang=en}} Sexual [[intercourse]].
 # {{context|countable|computing|lang=en}} A [[data structure]] that can store any of various items, but only one at a time.
 # {{context|countable|now|_|rare|archaic|lang=en}} A large, high-quality [[pearl]].
-#*{{RQ:RBrtn AntmyMlncly}}, II.3.3:
+#* {{RQ:RBrtn AntmyMlncly}}, II.3.3:
 #*: Nonius the senator hath a purple coat as stiff with jewels as his mind is full of vices; rings on his fingers worth 20,000 sesterces, and{{...}}an '''union''' in his ear worth an hundred pounds' weight of gold&nbsp;[…].
 
 ====Synonyms====
@@ -231,12 +231,12 @@ From {{etyl|fro|en}} {{term|union|lang=fro}}, from {{etyl|LL.|en}} {{term|unione
 ==Danish==
 
 ===Etymology===
-Borrowed from {{etyl|en|da}} {{term|union|lang=en}}.
+Borrowed from {{etyl|en|da}} {{m|en|union}}.
 
 ===Noun===
 {{da-noun|en|er}}
 
-# A [[union#English|union]].
+# a [[union#English|union]]
 
 ====Inflection====
 {{da-noun-infl|en|er}}
@@ -259,7 +259,7 @@ Borrowed from {{etyl|en|da}} {{term|union|lang=en}}.
 ==French==
 
 ===Etymology===
-Borrowed from {{etyl|LL|fr}} ''[[unionem]]'' (nominative: ''[[unio]]''). Compare the inherited doublet {{term|oignon|lang=fr}}.
+Borrowed from {{etyl|LL|fr}} {{m|la|unionem}}, accusative singular of {{m|la|unio}}. Compare the inherited doublet {{m|fr|oignon}}.
 
 ===Pronunciation===
 * {{audio|Fr-union.ogg|audio|lang=fr}}
@@ -274,6 +274,18 @@ Borrowed from {{etyl|LL|fr}} ''[[unionem]]'' (nominative: ''[[unio]]''). Compare
 
 ----
 
+==Old French==
+
+===Etymology===
+{{borrowing|la|unio|lang=fro}}.
+
+===Noun===
+{{fro-noun|f}}
+
+# [[Trinity]] (God, Jesus and the Holy Spirit)
+
+----
+
 ==Swedish==
 
 ===Pronunciation===
@@ -282,7 +294,7 @@ Borrowed from {{etyl|LL|fr}} ''[[unionem]]'' (nominative: ''[[unio]]''). Compare
 ===Noun===
 {{sv-noun|c}}
 
-# a [[#English|union]] (a body with many members)
+# a {{l|en|union}} (a body with many members)
 
 ====Declension====
 {{sv-noun-reg-er}}
@@ -303,12 +315,12 @@ Borrowed from {{etyl|LL|fr}} ''[[unionem]]'' (nominative: ''[[unio]]''). Compare
 ==Venetian==
 
 ===Etymology===
-Compare Italian {{term|unione|lang=it}}
+Compare Italian {{m|it|unione}}
 
 ===Noun===
 {{head|vec|noun|g=f|invariable}}
 
-# [[#English|union]]
+# {{l|en|union}}
 
 [[cs:union]]
 [[cy:union]]
