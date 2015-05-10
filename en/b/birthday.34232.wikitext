@@ -47,7 +47,7 @@
 * Bislama: {{t|bi|betde}}
 * Breton: {{t|br|deiz-ha-bloaz|m}}
 * Bulgarian: {{t|bg|рожде́н ден|m}}
-* Burmese: {{t+|my|မွေးနေ့|sc=Mymr}}, {{IPA|/mwèː.nḛː/|lang=en}}
+* Burmese: {{t+|my|မွေးနေ့|sc=Mymr}}
 * Catalan: {{t|ca|aniversari|m}}, {{t|ca|natalici|m}}
 * Cebuano: {{t|ceb|adlawng natawhan}}
 * Chamicuro: {{t|ccc|ipenonasne watane}}
@@ -56,7 +56,7 @@
 *: Hakka: {{t|hak|生日|tr=sâng-ngit|sc=Hani}}
 *: Mandarin: {{t+|cmn|生日|tr=shēngrì|sc=Hani}}, {{t+|cmn|生辰|tr=shēngchén|sc=Hani}}
 *: Min Dong: {{t|cdo|生日|tr=săng-nĭk|sc=Hani}}
-*: Min Nan: {{t+|nan|生日|tr=[[seⁿ-ji̍t]] or [[siⁿ-ji̍t]] or [[seng-ji̍t]]|sc=Hani}}
+*: Min Nan: {{t+|nan|生日|tr=seⁿ-ji̍t, siⁿ-ji̍t, seng-ji̍t|sc=Hani}}
 *: Wu: {{t|wuu|生日|tr=san nyiq|sc=Hani}}
 * Cornish: {{t|kw|penn-bloodh|m}}, {{t|kw|pedn-bloodh|m}}
 * Corsican: {{t|co|anniversariu|m}}
@@ -79,7 +79,7 @@
 * Haitian Creole: {{t|ht|anivèsè}}
 * Hawaiian: {{t|haw|la hanau}}
 * Hebrew: {{t+|he|יום הולדת|m|alt=יום הולדת \ יוֹם הֻלֶּדֶת|tr=yóm hulédet}}
-* Hindi: {{t|hi|जन्मदिन|m|tr=janmadin}}
+* Hindi: {{t|hi|जन्मदिन|m}}
 * Hungarian: {{t+|hu|születésnap}}
 * Icelandic: {{t+|is|afmælisdagur|m}}, {{t|is|fæðingardagur|m}}
 * Ido: {{t+|io|naskodio}}
@@ -158,7 +158,7 @@
 * West Flemish: {{t|vls|verjaardag}}
 * West Frisian: {{t|fy|jierdei}}
 * White Hmong: {{t|mww|hnub yug}}
-* Yiddish: {{t|yi|געבוירן־טאָג|m|tr=geboyrn-tog|sc=Hebr}}, {{t|yi|געבורטסטאָג|m|tr=geburtstog|sc=Hebr}}
+* Yiddish: {{t|yi|געבוירן־טאָג|m|sc=Hebr}}, {{t|yi|געבורטסטאָג|m|sc=Hebr}}
 * Zulu: {{t|zu|usuku lokuzalwa}}
 {{trans-bottom}}
 
@@ -166,7 +166,7 @@
 * Armenian: {{t|hy|ծննդյան օր}}
 * Bengali: {{t|bn|জন্মদিন|tr=janmadin|sc=Beng}}
 * Bulgarian: {{t|bg|ден на раждане}}, {{t|bg|дата на раждане}}, {{t|bg|рождена дата}}
-* Burmese: ({{IPA|/mwèː.nḛː/|lang=en}})
+* Burmese: {{t+|my|မွေးနေ့|sc=Mymr}}
 * Chinese:
 *: Mandarin: {{t+|cmn|出生日期|tr=chūshēngrìqī}}
 * Czech: {{t+|cs|narozeniny|f-p}}
@@ -180,8 +180,8 @@
 * Greek: {{t|el|ημερομηνία γεννήσεως|f}}
 * Icelandic: {{t|is|fæðingardagur|m}}, {{t+|is|afmælisdagur|m}}
 * Italian: {{t|it|data di nascita|f}}
-* Japanese: {{t|ja|生年月日|tr=seinengappi|sc=Jpan}}
-* Korean: {{t+|ko|생년월일|tr=[[生年月日]], saengnyeonweolil|sc=Kore}}
+* Japanese: {{t|ja|生年月日|tr=せいねんがっぴ, seinengappi|sc=Jpan}}
+* Korean: {{t+|ko|생년월일|sc=Kore}} ({{t+|ko|生年月日|sc=Kore}})
 * Latin: {{t+|la|natalis|f}}
 {{trans-mid}}
 * Low German:
@@ -204,6 +204,7 @@
 * Spanish: {{t|es|fecha de nacimiento|f}}
 * Swedish: {{t+|sv|födelsedag|c}}
 * Tagalog: {{t|tl|kaarawan}}
+* Vietnamese: {{t+|vi|ngày sinh}}
 * White Hmong: {{l|mww|hnub yug}}
 {{trans-bottom}}
 
