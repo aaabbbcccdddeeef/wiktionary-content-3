@@ -24,7 +24,7 @@
 * Finnish: {{t+|fi|matala}}, {{t|fi|ala-}}
 * French: {{t+|fr|bas}}, {{t+|fr|grave}}
 * German: {{t+|de|bass}}
-* Greek: {{t+|el|μπάσος|m|tr=basos|sc=Grek}}, {{t|el|ήχος χαμηλής κλίμακας|m|tr=ikhos khamilis klimakas|sc=Grek}}
+* Greek: {{t+|el|μπάσος|m|sc=Grek}}, {{t|el|ήχος χαμηλής κλίμακας|m|sc=Grek}}
 * Hawaiian: {{t|haw|leo uō}}
 * Hungarian: {{t+|hu|basszus}}
 * Italian: {{t+|it|basso}}
@@ -87,7 +87,7 @@
 * Finnish: {{t+|fi|basso}}
 * French: {{t+|fr|basse|f}}
 * German: {{t+|de|Bass|m}}, {{t+|de|Baß|m}} {{qualifier|older spelling}}
-* Greek: {{t+|el|μπάσος|m|tr=basos|sc=Grek}}, {{t+|el|μπάσα|f|tr=basa|sc=Grek}}, {{t+|el|μπάσο|n|tr=baso|sc=Grek}}
+* Greek: {{t+|el|μπάσος|m|sc=Grek}}, {{t+|el|μπάσα|f|sc=Grek}}, {{t+|el|μπάσο|n|sc=Grek}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|basszus}}
 * Japanese: {{t+|ja|ベース|tr=bēsu}}
@@ -106,10 +106,10 @@
 * Finnish: {{t+|fi|basso}}
 * German: {{t+|de|Bass|m}}, {{t+|de|Baß|m}} {{qualifier|older spelling}}
 {{trans-mid}}
-* Greek: {{t+|el|μπάσο|n|tr=baso|sc=Grek}}
+* Greek: {{t+|el|μπάσο|n|sc=Grek}}
 * Hungarian: {{t+|hu|basszus}}
 * Portuguese: {{t+|pt|baixo|m}}
-* Russian: {{t+|ru|бас|m|tr=bas|sc=Cyrl}}
+* Russian: {{t+|ru|бас|m|sc=Cyrl}}
 * Slovene: {{t+|sl|bas|m}}
 {{trans-bottom}}
 
@@ -129,7 +129,7 @@
 * Italian: {{t+|it|basso|m}}
 * Japanese: {{t+|ja|バス|tr=basu}}
 * Portuguese: {{t+|pt|baixo|m}}
-* Russian: {{t+|ru|бас|m|tr=bas|sc=Cyrl}}
+* Russian: {{t+|ru|бас|m|sc=Cyrl}}
 * Slovene: {{t+|sl|bas|m}}
 * Spanish: {{t+|es|bajo|m}}
 * Swedish: {{t+|sv|bas|c}}
@@ -143,7 +143,7 @@
 * Dutch: {{t+|nl|basgitaar|m|f}}, {{t+|nl|bas|m|f}}
 * Finnish: {{t+|fi|basso}}
 * German: {{t+|de|Bass|m}}, {{t+|de|Baß|m}} {{qualifier|older spelling}}
-* Greek: {{t+|el|μπάσο|n|tr=baso|sc=Grek}}
+* Greek: {{t+|el|μπάσο|n|sc=Grek}}
 * Hungarian: {{t+|hu|basszusgitár}}
 * Italian: {{t+|it|basso|m}}
 {{trans-mid}}
@@ -152,7 +152,7 @@
 * Persian: {{t|fa|گیتار بیس|sc=fa-Arab}}
 * Polish: {{t+|pl|bas|m}}
 * Portuguese: {{t+|pt|baixo|m}}, {{t+|pt|baixo|m}}
-* Russian: {{t+|ru|бас|m|tr=bas|sc=Cyrl}}
+* Russian: {{t+|ru|бас|m|sc=Cyrl}}
 * Slovene: {{t+|sl|bas|m}}
 * Spanish: {{t+|es|bajo|m}}
 * Swedish: {{t+|sv|bas|c}}
@@ -224,7 +224,7 @@ From {{etyl|enm|en}} {{term|bas|lang=enm}}, alteration of {{term|bars|lang=enm}}
 * French: {{t+|fr|perche|m}}
 * Georgian: {{t-needed|ka}}
 * German: {{t+|de|Barsch|m}}
-* Greek: {{t+|el|πέρκα|f|tr=perka}}
+* Greek: {{t+|el|πέρκα|f}}
 * Hungarian: {{t+|hu|sügér}}
 * Italian: {{t+|it|branzino|m}}, {{t|it|spigola|m}}
 * Latvian: {{t+|lv|asaris}}
@@ -283,6 +283,15 @@ A corruption of {{term|bast|lang=en}}.
 * {{R:Martalar1974}}
 
 [[Category:cim:Containers]]
+
+----
+
+==Latvian==
+
+===Noun===
+{{lv-noun|m|1st}}
+
+# {{l|en|bass}}
 
 ----
 
