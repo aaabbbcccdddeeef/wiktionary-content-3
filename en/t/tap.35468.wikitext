@@ -76,7 +76,7 @@ From {{etyl|ang|en}} {{m|ang|tæppa}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*tap
 * Galician: {{t|gl|billa|f}}
 * Georgian: {{t-needed|ka}}
 * German: {{t+|de|Hahn|m}}, {{t+|de|Kran|m}}, {{t+|de|Zapfen|m}}, {{t|de|Spund|m}}, {{t|de|Mischbatterie|f}}, {{t+|de|Wasserhahn|m}}, {{t|de|Armatur|f}}
-* Greek: {{t+|el|βρύση|tr=vrýsi|sc=Grek}}
+* Greek: {{t+|el|βρύση|sc=Grek}}
 * Hebrew: {{t+|he|ברז|m|tr=berez}}
 * Hindi: {{t-needed|hi}}
 * Hungarian: {{t+|hu|csap}}, {{t+|hu|vízcsap}}
@@ -359,6 +359,21 @@ From {{etyl|enm|en}} {{term|tappen|lang=enm}}, {{term|teppen|lang=enm}}, from {{
 
 ----
 
+==Danish==
+
+===Etymology===
+{{rfe|lang=da}}
+
+===Noun===
+{{da-noun|c}}
+
+# {{l|en|tap}}
+
+====Inflection====
+{{da-noun-infl|stem=tapp|en|er}}
+
+----
+
 ==Dutch==
 
 ===Etymology===
@@ -398,8 +413,7 @@ From {{term|tapa||to lose|lang=is}}.
 {{is-noun|n|taps|töp}}
 
 # [[loss]], [[damage]]
-#: ''Búðin er rekin með '''tapi'''.''
-#:: The store is run at a '''loss'''.
+#: {{usex|Búðin er rekin með '''tapi'''.|The store is run at a '''loss'''.|lang=is}}
 
 ====Declension====
 {{is-decl-noun-n-s|t|a|p}}
@@ -417,6 +431,7 @@ From {{term|tapa||to lose|lang=is}}.
 # {{jbo-rafsi of|stapa}}
 
 ----
+
 ==Norwegian Bokmål==
 
 ===Pronunciation===
