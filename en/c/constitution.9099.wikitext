@@ -50,10 +50,10 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 * Italian: {{t+|it|costituzione|f}}
 * Japanese: {{t+|ja|編成|tr=hensei}}, {{t+|ja|構成|tr=kōsei}}
 {{trans-mid}}
-* Norman: {{t|nrf|constitution|f}}
 * Korean: {{t+|ko|헌법|sc=Kore}}
 * Macedonian: {{t|mk|состав|n}}, {{t|mk|уредување|n}}
 * Malay: {{t|ms|penubuhan}}
+* Norman: {{t|nrf|constitution|f}} {{qualifier|Jersey}}
 * Portuguese: {{t+|pt|constituição|f}}
 * Russian: {{t+|ru|устро́йство|n}}
 * Scottish Gaelic: {{t|gd|dèanamh|m}}
@@ -80,7 +80,6 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 * Irish: {{t|ga|bunreacht}}
 * Italian: {{t+|it|costituzione|f}}
 * Japanese: {{t+|ja|憲法|tr=けんぽう, kenpō}}
-* Norman: {{t|nrf|constitution|f}}
 * Korean: {{t+|ko|헌법|sc=Hang}} ({{t+|ko|憲法|sc=Hani}})
 {{trans-mid}}
 * Kurdish:
@@ -90,6 +89,7 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 * Malay: {{t|ms|perlembagaan}}
 * Manx: {{t|gv|bunraght|m}}
 * Maori: {{t|mi|kaupapa ture}}
+* Norman: {{t|nrf|constitution|f}} {{qualifier|Jersey}}
 * Norwegian: {{t|no|grunnlov|m}}
 * Persian: {{t+|fa|قانون اساسی}}
 * Portuguese: {{t+|pt|constituição|f}}
@@ -127,7 +127,6 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 * Italian: {{t+|it|costituzione|f}}
 {{trans-mid}}
 * Japanese: {{t+|ja|憲法|tr=けんぽう, kenpō}}
-* Norman: {{t|nrf|constitution|f}}
 * Kurdish:
 *: Sorani: {{t|ckb|ده‌ستور|sc=ku-Arab}}
 * Limburgish: {{t|li|gronjdwet}}
@@ -135,6 +134,7 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 * Malay: {{t|ms|perlembagaan}}
 * Malayalam: {{t+|ml|ഭരണഘടന|sc=Mlym}}
 * Manx: {{t|gv|bunraght|m}}
+* Norman: {{t|nrf|constitution|f}} {{qualifier|Jersey}}
 * Norwegian: {{t|no|grunnlov|m}}
 * Polish: {{t+|pl|konstytucja|f}}, {{t|pl|ustawa zasadnicza|f}}
 * Portuguese: {{t+|pt|constituição|f}}
@@ -153,9 +153,9 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 * Hindi: {{t|hi|शरीरावस्था|tr=śarīrāvasthā}}
 * Ido: {{t+|io|konstituciono}}
 * Italian: {{t+|it|costituzione|f}}
-* Norman: {{t|nrf|constitution|f}}
 {{trans-mid}}
 * Malay: {{t|ms|resam tubuh}}
+* Norman: {{t|nrf|constitution|f}} {{qualifier|Jersey}}
 * Norwegian: {{t+|no|helse|m}}
 * Portuguese: {{t+|pt|constituição|f}}
 * Russian: {{t|ru|состоя́ние органи́зма|n}}, {{t+|ru|телосложе́ние|n}}
@@ -200,18 +200,17 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 ----
 
 ==Norman==
-{{rfc-auto}}
 
 ===Etymology===
-From {{etyl|la|nrf}} {{term|constitutio|cōnstitūtiō, cōnstitūtiōnem|lang=la}}.
+From {{etyl|la|nrf}} {{m|la|constitutio|cōnstitūtiō, cōnstitūtiōnem}}.
 
 ===Pronunciation===
-* {{audio|Jer-Constitution.ogg|Audio|lang=nrf}}
+* {{audio|Jer-Constitution.ogg|Audio (Jersey)|lang=nrf}}
 
 ===Noun===
 {{nrf-noun|f}}
 
-# [[#English|constitution]]
+# {{lb|nrf|Jersey}} [[#English|constitution]]
 
 [[ar:constitution]]
 [[zh-min-nan:constitution]]
