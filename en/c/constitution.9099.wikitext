@@ -44,7 +44,7 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 * Finnish: {{t|fi|kokoaminen}}, {{t|fi|perustaminen}}, {{t|fi|perustus}}, {{t|fi|koostumus}}, {{t+|fi|rakenne}}
 * French: {{t+|fr|constitution|f}}
 * German: {{t|de|Verfassen|n}}, {{t+|de|Verfassung|f}}
-* Hebrew: {{t|he|הרכב|m|tr=herkev}} (''composition'')
+* Hebrew: {{t|he|הרכב|m|tr=herkev}} {{qualifier|composition}}
 * Hungarian: {{t+|hu|alkotmány}}
 * Ido: {{t+|io|konstituco}}
 * Italian: {{t+|it|costituzione|f}}
@@ -81,9 +81,9 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 * Italian: {{t+|it|costituzione|f}}
 * Japanese: {{t+|ja|憲法|tr=けんぽう, kenpō}}
 * Korean: {{t+|ko|헌법|sc=Hang}} ({{t+|ko|憲法|sc=Hani}})
-{{trans-mid}}
 * Kurdish:
 *: Sorani: {{t|ckb|ده‌ستور|sc=ku-Arab}}
+{{trans-mid}}
 * Luxembourgish: {{t|lb|Konstitutioun}}
 * Macedonian: {{t|mk|устав|m}}
 * Malay: {{t|ms|perlembagaan}}
@@ -108,7 +108,7 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 {{trans-bottom}}
 
 {{trans-top|legal document describing such a formal system}}
-* Armenian: {{t|hy|սահմանադրություն|sc=Armn}}
+* Armenian: {{t|hy|սահմանադրություն}}
 * Breton: {{t+|br|bonreizh|f}}
 * Bulgarian: {{t+|bg|конституция|f}}
 * Czech: {{t+|cs|ústava|f}}
@@ -120,7 +120,7 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 * German: {{t+|de|Verfassung|f}}, {{t+|de|Konstitution|f}}, {{t+|de|Grundgesetz|f}}
 * Greek: {{t+|el|σύνταγμα|n}}
 * Haitian Creole: {{t|ht|konstitisyon}}
-* Hebrew: {{t+|he|חוקה|f|tr=khuqa|sc=Hebr}}
+* Hebrew: {{t+|he|חוקה|f|tr=khuqa}}
 * Icelandic: {{t|is|stjórnarskrá|f}}
 * Igbo: {{t|ig|òdénàíwú}}
 * Irish: {{t|ga|bunreacht}}
@@ -138,7 +138,7 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 * Norwegian: {{t|no|grunnlov|m}}
 * Polish: {{t+|pl|konstytucja|f}}, {{t|pl|ustawa zasadnicza|f}}
 * Portuguese: {{t+|pt|constituição|f}}
-* Russian: {{t+|ru|конститу́ция|f|sc=Cyrl}}
+* Russian: {{t+|ru|конститу́ция|f}}
 * Scottish Gaelic: {{t|gd|bun-reachd|m}}
 * Slovene: {{t+|sl|ustava|f}}
 * Spanish: {{t+|es|constitución|f}}, {{t|es|constituciones|p}}
@@ -153,8 +153,8 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 * Hindi: {{t|hi|शरीरावस्था|tr=śarīrāvasthā}}
 * Ido: {{t+|io|konstituciono}}
 * Italian: {{t+|it|costituzione|f}}
-{{trans-mid}}
 * Malay: {{t|ms|resam tubuh}}
+{{trans-mid}}
 * Norman: {{t|nrf|constitution|f}} {{qualifier|Jersey}}
 * Norwegian: {{t+|no|helse|m}}
 * Portuguese: {{t+|pt|constituição|f}}
@@ -168,8 +168,8 @@ From {{etyl|fro|en}} {{term|constitucion|lang=fro}} (French [[#French|constituti
 * Crimean Tatar: {{t-check|crh|konstitutsiya}}
 * French: {{t+check|fr|constitution|f}}
 * Indonesian: {{t+check|id|undang-undang dasar}}, {{t+check|id|konstitusi}}
-* Interlingua: {{t-check|ia|constitution}}
 {{trans-mid}}
+* Interlingua: {{t-check|ia|constitution}}
 * Norwegian: {{t-check|no|grunnlov|m}}
 * Spanish: {{t+check|es|constitución|f}}
 {{trans-bottom}}
