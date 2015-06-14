@@ -37,9 +37,9 @@ From {{etyl|fr|en}} {{term|perception|lang=fr}}, from {{etyl|la|en}} {{term|perc
 * Dutch: {{t+|nl|perceptie|f}}, {{t+|nl|gewaarwording|f}}, {{t+|nl|waarneming|f}}
 * Finnish: {{t|fi|havainnointi}}, {{t|fi|havaintokyky}}
 * French: {{t+|fr|perception|f}}
-* Georgian: {{t|ka|აღქმა|sc=Geor}}, {{t|ka|შეცნობა|sc=Geor}}, {{t|ka|შემეცნება|sc=Geor}}
+* Georgian: {{t|ka|აღქმა}}, {{t|ka|შეცნობა}}, {{t|ka|შემეცნება}}
 * German: {{t+|de|Wahrnehmung|f}}
-* Greek: {{t+|el|αντίληψη|f|tr=antílipsi}}
+* Greek: {{t+|el|αντίληψη|f}}
 * Hungarian: {{t+|hu|felfogás}}, {{t+|hu|megértés}}
 {{trans-mid}}
 * Italian: {{t+|it|percezione|f}}
@@ -48,7 +48,7 @@ From {{etyl|fr|en}} {{term|perception|lang=fr}}, from {{etyl|la|en}} {{term|perc
 * Maltese: {{t|mt|perċezzjoni|f}}
 * Portuguese: {{t+|pt|percepção|f}}
 * Romanian: {{t+|ro|percepție}}, {{t+|ro|percepere}}, {{t+|ro|discernere}}, {{t+|ro|discernământ}}
-* Russian: {{t+|ru|восприятие|n|tr=vosprijátije|sc=Cyrl}}, {{t+|ru|перцепция|f|tr=percépcija|sc=Cyrl}}
+* Russian: {{t+|ru|восприя́тие|n}}, {{t+|ru|перце́пция|f}}
 * Scottish Gaelic: {{t|gd|toirt fa-near|f}}
 * Serbo-Croatian: {{t|sh|percèpcija|f}}
 * Spanish: {{t+|es|percepción|f}}
@@ -61,7 +61,7 @@ From {{etyl|fr|en}} {{term|perception|lang=fr}}, from {{etyl|la|en}} {{term|perc
 * Dutch: {{t+|nl|zicht|n}}, {{t+|nl|waarneming|f}}
 * Finnish: {{t+|fi|aistimus}}, {{t+|fi|havainto}}
 * French: {{t+|fr|perception|f}}
-* Greek: {{t+|el|όραση|f|tr=órasi}}
+* Greek: {{t+|el|όραση|f}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|percepção|f}}
 * Romanian: {{t+|ro|percepție}}
@@ -75,24 +75,24 @@ From {{etyl|fr|en}} {{term|perception|lang=fr}}, from {{etyl|la|en}} {{term|perc
 * Finnish: {{t+|fi|havainto}}
 * French: {{t+|fr|perception|f}}
 {{trans-mid}}
-* Greek: {{t+|el|αντίληψη|f|tr=antílipsi}}
+* Greek: {{t+|el|αντίληψη|f}}
 * Romanian: {{t+|ro|discernere}}, {{t+|ro|percepere}}, {{t+|ro|sesizare}}
-* Russian: {{t+|ru|восприятие|n|tr=vosprijátije|sc=Cyrl}}
+* Russian: {{t+|ru|восприя́тие|n}}
 {{trans-bottom}}
 
 {{trans-top|that which is detected by the five senses}}
 * Catalan: {{t|ca|percepció|f}}
 * Czech: {{t+|cs|vjem|m}}
 * French: {{t+|fr|perception|f}}
-* Georgian: {{t|ka|აღქმა|sc=Geor}}
-* Greek: {{t+|el|αντίληψη|f|tr=antílipsi}}, {{t+|el|διορατικότητα|f|tr=dioratikótita}}, {{t+|el|αίσθηση|f|tr=aísthisi}}
+* Georgian: {{t|ka|აღქმა}}
+* Greek: {{t+|el|αντίληψη|f}}, {{t+|el|διορατικότητα|f}}, {{t+|el|αίσθηση|f}}
 * Hebrew: {{t|he|תפיסה|tr=tfissa}}, {{t|he|קליטה|tr=klita}}
 * Hungarian: {{t+|hu|észlelés}}
-{{trans-mid}}
 * Italian: {{t+|it|percezione|f}}
+{{trans-mid}}
 * Portuguese: {{t+|pt|percepção|f}}
 * Romanian: {{t+|ro|percepție}}
-* Russian: {{t+|ru|ощущение|n|tr=oščuščénije|sc=Cyrl}}, {{t+|ru|восприятие|n|tr=vosprijátije|sc=Cyrl}}
+* Russian: {{t+|ru|ощуще́ние|n}}, {{t+|ru|восприя́тие|n}}
 * Scottish Gaelic: {{t|gd|toirt fa-near|f}}
 * Serbo-Croatian: {{t|sh|percèpcija|f}}
 * Spanish: {{t+|es|percepción}}
@@ -102,6 +102,7 @@ From {{etyl|fr|en}} {{term|perception|lang=fr}}, from {{etyl|la|en}} {{term|perc
 {{checktrans-top}}
 * Afrikaans: {{t-check|af|persepsie|f}}
 * Esperanto: {{t-check|eo|percepto}}
+{{trans-mid}}
 * Spanish: {{t-check|es|percepción|f}}
 {{trans-bottom}}
 
