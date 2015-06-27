@@ -64,10 +64,13 @@ From {{term|melda||to report|lang=is}} (from {{etyl|da|is}} {{term|melde|lang=da
 
 ----
 
-==Norwegian==
+==Norwegian Bokmål==
+
+===Etymology===
+From {{suffix|melde|ing|lang=nb}}
 
 ===Noun===
-{{head|no|noun}}
+{{nb-noun-c}}
 
 # the act of [[report]]ing
 # [[message]], [[report]]
@@ -76,11 +79,14 @@ From {{term|melda||to report|lang=is}} (from {{etyl|da|is}} {{term|melde|lang=da
 #:: I've gotten a '''message''' from the leadership.
 # [[review]], [[evaluation]]
 
-====Inflection====
-{{no-noun-infl|nb-class=f1|nb-class2=m1|nn-class=f3}}
-
 ====Synonyms====
-* {{sense|message}} {{l|no|beskjed}}
+* {{sense|message}} {{l|nb|beskjed}}
+
+====Derived terms====
+* {{l|nb|tilbakemelding}}
+
+===References===
+* {{R:The Bokmål Dictionary}}
 
 [[de:melding]]
 [[fr:melding]]
