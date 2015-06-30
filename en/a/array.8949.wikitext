@@ -37,6 +37,7 @@ From {{etyl|enm|en}} {{m|enm|arrayen}}, from {{etyl|xno|en}} {{m|fro|arayer}} (c
 # {{context|programming|lang=en}} Any of various data structures designed to hold multiple elements of the same type; ''especially'', a data structure that holds these elements in adjacent memory locations so that they may be retrieved using numeric indices.
 # {{context|legal|lang=en}} A ranking or setting forth in order, by the proper officer, of a [[jury]] as [[impanel]]led in a [[cause]]; the panel itself; or the whole body of jurors summoned to attend the court.
 # {{context|military|lang=en}} A [[militia]].
+# A systematic arrangement of similar objects, usually in rows and columns.
 
 ====Usage notes====
 * {{sense|any of various data structures}} The exact usage of the term {{term||array|lang=en}}, and of related terms, generally depends on the programming language. For example, many languages distinguish a fairly low-level "array" construct from a higher-level "list" or "vector" construct. Some languages distinguish between an "array" and a variety of "[[associative array]]"; others have only the latter concept, calling it an "array".
