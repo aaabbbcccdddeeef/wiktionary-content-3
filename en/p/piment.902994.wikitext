@@ -15,7 +15,7 @@
 ==French==
 
 ===Etymology===
-Borrowed from {{etyl|es|fr}} ''[[pimiento]]''.
+{{borrowing|es|pimiento|lang=fr}}.
 
 ===Pronunciation===
 * {{IPA|/pi.mɑ̃/|lang=fr}}
@@ -29,7 +29,7 @@ Borrowed from {{etyl|es|fr}} ''[[pimiento]]''.
 # {{context|figuratively|lang=fr}} [[spice]] (vigour).
 
 ====Derived terms====
-* [[pimenter]]
+* {{l|fr|pimenter}}
 
 ===External links===
 * {{R:TLFi}}
@@ -39,13 +39,15 @@ Borrowed from {{etyl|es|fr}} ''[[pimiento]]''.
 ==Norman==
 
 ===Etymology===
-From {{etyl|fr|nrf}} {{term|piment|lang=fr}}.
+{{borrowing|fr|piment|lang=nrf}}.
 
 ===Noun===
 {{nrf-noun|m}}
 
-# [[chili pepper]], [[pimento]]
-# [[balm]]
+# {{lb|nrf|Jersey}} [[chili pepper]], [[pimento]]
+# {{lb|nrf|Jersey}} [[balm]]
+
+{{catlangcode|nrf|Vegetables}}
 
 [[de:piment]]
 [[fr:piment]]
