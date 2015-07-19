@@ -373,7 +373,7 @@ From {{etyl|fiu-pro|hu}} {{m|urj-pro|*piŋi||tooth}}, the same root from which F
 ====Noun====
 {{hu-noun|ak}}
 
-# {{context|anatomy|lang=hu}} [[tooth]]
+# {{lb|hu|anatomy}} [[tooth]]
 #: ''Ez a '''fog''' lyukas.'' - This '''tooth''' has a cavity.
 # [[tooth]], [[cog]]
 #: ''Egy átlagos hegyikerékpár hátsó fogaskerekein rendre 11, 13, 15, 18, 21, 24, 34 '''fog'''ak vannak.'' - There are 11, 13, 15, 18, 21, 24 and 34 [[teeth]] on a standard [[mountain bike]]'s rear [[sprockets]].
@@ -407,14 +407,14 @@ From {{etyl|fiu-ugr-pro|hu}} {{m|fiu-ugr-pro|*puŋV-||to grasp, catch}}.<ref>[ht
 ====Verb====
 {{hu-verb}}
 
-# to [[grasp]], to [[grip]], to [[hold]]
-#: ''A fiú egy almát '''fog''' a kezében.'' - The boy is [[hold]]ing an apple in his hand.
-# to [[catch]], to [[take]], to [[receive]]
-#: ''A macska egeret '''fogott'''.'' - The cat [[catch|caught]] a mouse.
+# {{lb|hu|transitive}} to [[grasp]], [[grip]], [[hold]]
+#: ''A fiú egy almát '''fog''' a kezében.'' - The boy is holding an apple in his hand.
+# {{lb|hu|transitive}} to [[catch]], [[take]], [[receive]]
+#: ''A macska egeret '''fogott'''.'' - The cat caught a mouse.
 #: '''''Fogta''' a pénzt és elment.'' - He took the money and left.
-#: ''Nem tudom '''fogni''' az adást a tv-ben.'' - I can’t [[receive]] signals on the TV.
-# [[will]], [[going to]] (indicating future)
-#: ''[[esni fog|Esni '''fog''']]''. - It will be raining.
+#: ''Nem tudom '''fogni''' az adást a tv-ben.'' - I can’t receive signals on the TV.
+# {{lb|hu|indicating future}} [[will]], [[going to]]
+#: ''Esni '''fog'''''. - It will be raining.
 
 =====Conjugation=====
 {{hu-conj-ok|f|o|g}}
@@ -425,6 +425,7 @@ From {{etyl|fiu-ugr-pro|hu}} {{m|fiu-ugr-pro|*puŋV-||to grasp, catch}}.<ref>[ht
 * [[fogás]]
 * [[fogat]]
 * [[fogékony]]
+* [[fogható]]
 * [[foglal]]
 {{qualifier|Expressions}}:
 * [[aki sokat markol, keveset fog]]
