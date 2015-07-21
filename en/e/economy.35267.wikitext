@@ -5,7 +5,7 @@
 * [[œconomy]] {{qualifier|[[Appendix:Glossary#archaic|archaic]]}}
 
 ===Etymology===
-From {{etyl|la|en}} {{term|oeconomia|lang=la}}, from {{etyl|grc|en}} {{term|οἰκονομία||management of a household, administration|lang=grc}}, from {{term|οἶκος||house|lang=grc}} + {{term|νόμος||law|lang=grc}} (surface analysis {{confix|eco|nomy|lang=en}}). The first recorded sense of the word '''economy''', found in a work possibly composed in 1440, is “the management of economic affairs”, in this case, of a monastery.
+From {{etyl|la|en}} {{m|la|oeconomia}}, from {{etyl|grc|en}} {{m|grc|οἰκονομία||management of a household, administration}}, from {{m|grc|οἶκος||house}} + {{m|grc|νόμος||law}} (surface analysis {{confix|eco|nomy|lang=en}}). The first recorded sense of the word '''economy''', found in a work possibly composed in 1440, is “the management of economic affairs”, in this case, of a monastery.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/iˈkon.ə.mi/|lang=en}}
@@ -132,17 +132,17 @@ From {{etyl|la|en}} {{term|oeconomia|lang=la}}, from {{etyl|grc|en}} {{term|ο�
 * Khmer: {{t|km|សេដ្ឋកិច្ច|tr=sed dhak kech|sc=Khmr}}
 * Korean: {{t+|ko|경제|sc=Kore}} ({{t+|ko|經濟|sc=Kore}})
 * Kyrgyz: {{t|ky|экономика|sc=Cyrl}}
-* Lao: {{t+|lo|ເສດຖະກິດ|tr=sēt tha kit|sc=Laoo}}
+* Lao: {{t+|lo|ເສດຖະກິດ|sc=Laoo}}
 {{trans-mid}}
 * Latvian: {{t|lv|ekonomika|f}}
 * Lithuanian: {{t+|lt|ekonomika|f}}
-* Macedonian: {{t+|mk|еконо́мија|f|sc=Cyrl}}
+* Macedonian: {{t+|mk|економија|f|sc=Cyrl}}
 * Malay: {{t|ms|ekonomi}}
 * Maltese: {{t|mt|ekonomija|f}}
 * Mongolian: {{t|mn|аж ахуй|sc=Cyrl}}, {{t|mn|эдийн засаг|sc=Cyrl}}
 * Norwegian:
 *: Bokmål: {{t+|nb|økonomi|m}}
-* Ossetian: {{t|os|экономикæ|tr=ekonomikae|sc=Cyrl}}
+* Ossetian: {{t|os|экономикæ|sc=Cyrl}}
 * Pashto: {{t+|ps|وټه |f|tr=wëṭa|sc=ps-Arab}}
 * Persian: {{t+|fa|اقتصاد|tr=eqtesâd}}
 * Polish: {{t+|pl|ekonomia|f}}
@@ -180,7 +180,7 @@ From {{etyl|la|en}} {{term|oeconomia|lang=la}}, from {{etyl|grc|en}} {{term|ο�
 {{trans-mid}}
 * Latin: {{t+check|la|oeconomia}}, {{t-check|la|œconomia|f}}
 * Luxembourgish: {{t-check|lb|Ökonomie|f}}
-* Malayalam: {{t-check|ml|ekonomi|sc=Mlym}}
+* Malayalam: {{t-check|ml|tr=ekonomi|sc=Mlym}}
 * Norwegian: {{t+check|no|økonomi|f|alt=økonomi ?}} <!-- was "[[økonomi]] ?" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
 * Spanish: {{t+check|es|economía|f}}
 * Turkish: {{t+check|tr|ekonomi}}
@@ -196,13 +196,13 @@ From {{etyl|la|en}} {{term|oeconomia|lang=la}}, from {{etyl|grc|en}} {{term|ο�
 ====Translations====
 {{trans-top|cheap to run}}
 * Portuguese: {{t+|pt|económico}} {{qualifier|Portugal}}, {{t+|pt|econômico}} {{qualifier|Brazil}}
-* Russian: {{t+|ru|экономный|tr=ekonómnyj|sc=Cyrl}}
+* Russian: {{t+|ru|эконо́мный|sc=Cyrl}}
 {{trans-mid}}
 * Swedish: {{t+|sv|ekonomisk}}
 {{trans-bottom}}
 
 ===Anagrams===
-* [[monoecy#English|monoecy]]
+* {{l|en|monoecy}}
 
 [[ar:economy]]
 [[zh-min-nan:economy]]
