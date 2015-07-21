@@ -5,7 +5,7 @@
 * [[doctour]] {{qualifier|obsolete}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{term||doctor, doctour|an expert, authority on a subject|lang=enm}}, from {{etyl|xno|en}} {{term|doctour||lang=fro}}, from {{etyl|la|en}} {{term|doctor||teacher|lang=la}}, from {{m|la|doceō||I teach}}. Displaced native [[Middle English]] {{term|lerare||doctor, teacher|lang=enm}} (from [[Middle English]] {{term|leren||to teach, instruct|lang=enm}} from [[Old English]] {{term|læran|lǣran, lēran|to teach, instruct, guide|lang=ang}}, compare [[Old English]] {{m|ang|lārēow||teacher, master}}).
+From {{etyl|enm|en}} {{m|enm||doctor, doctour|an expert, authority on a subject}}, from {{etyl|xno|en}} {{m|fro|doctour}}, from {{etyl|la|en}} {{m|la|doctor||teacher}}, from {{m|la|doceō||I teach}}. Displaced native [[Middle English]] {{m|enm|lerare||doctor, teacher}} (from [[Middle English]] {{m|enm|leren||to teach, instruct}} from [[Old English]] {{m|ang|læran|lǣran, lēran|to teach, instruct, guide}}, compare [[Old English]] {{m|ang|lārēow||teacher, master}}).
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈdɒk.tə/|lang=en}}
@@ -135,7 +135,7 @@ From {{etyl|enm|en}} {{term||doctor, doctour|an expert, authority on a subject|l
 * Basque: {{t+|eu|sendagile}}, {{t+|eu|osagile}}
 * Belarusian: {{t|be|ле́кар|m|sc=Cyrl}}, {{t|be|ле́карка|f|sc=Cyrl}}, {{t|be|ура́ч|m|f|sc=Cyrl}}, {{t|be|ўрач|m|f|sc=Cyrl}}, {{t|be|до́ктар|m|f|sc=Cyrl}}
 * Bengali: {{t|bn|ডাক্তার|tr=ḑaktar|sc=Beng}}
-* Bulgarian: {{t+|bg|доктор|m|tr=dóktor}}, {{t+|bg|лекар|m}}
+* Bulgarian: {{t+|bg|до́ктор|m}}, {{t+|bg|лекар|m}}
 * Burmese: {{t+|my|ဆရာဝန်}}
 * Catalan: {{t+|ca|metge|m}}, {{t+|ca|metgessa|f}}
 * Chechen: {{t|ce|лор|sc=Cyrl}}
@@ -150,6 +150,7 @@ From {{etyl|enm|en}} {{term||doctor, doctour|an expert, authority on a subject|l
 * Esperanto: {{qualifier|♂♀}} {{t+|eo|kuracisto}}, {{qualifier|explicitly ♂}} {{t|eo|virkuracisto}}, {{qualifier|explicitly ♀}} {{t|eo|kuracistino}}
 * Estonian: {{t+|et|arst}}, {{t|et|doktor}}
 * Ewe: {{t|ee|ɖɔkta}}, {{t|ee|atikewɔla}}
+* Faroese: {{t|fo|lækni|m}}
 * Finnish: {{t+|fi|lääkäri}}, {{t+|fi|tohtori}}
 * French: {{t+|fr|médecin|m}}, {{t+|fr|docteur|m}}
 * Friulian: {{t|fur|dotôr|m}}, {{t|fur|miedi|m}}
@@ -177,7 +178,7 @@ From {{etyl|enm|en}} {{term||doctor, doctour|an expert, authority on a subject|l
 * Kurdish:
 *: Sorani: {{t|ckb|دکتۆر|sc=ku-Arab}}
 * Kyrgyz: {{t|ky|дарыгер}}
-* Lao: {{t|lo|ຫມໍ|tr=mɔ̆ː|sc=Laoo}}, {{t|lo|ແພດ|tr=phǣt|sc=Laoo}}, {{t|lo|ທ່ານໝໍ|sc=Laoo}}
+* Lao: {{t|lo|ຫມໍ|sc=Laoo}}, {{t|lo|ແພດ|sc=Laoo}}, {{t|lo|ທ່ານໝໍ|sc=Laoo}}
 * Latin: {{t+|la|medicus|m}}, {{t|la|medica|f}}
 * Latvian: {{t|lv|ārsts|m}}, {{t|lv|ārste|f}}
 * Lithuanian: {{t+|lt|daktaras|m}}, {{t+|lt|gydytojas|m}}
@@ -506,17 +507,17 @@ From {{suffix|doceō|tor|t1=teach|lang=la}}.
 
 ====Related terms====
 {{top2}}
-* [[doceo|doceō]]
-* [[docibilis]]
-* [[docibilitas|docibilitās]]
-* [[docilis]]
-* [[docilitas|docilitās]]
+* {{l|la|doceō}}
+* {{l|la|docibilis}}
+* {{l|la|docibilitās}}
+* {{l|la|docilis}}
+* {{l|la|docilitās}}
 {{mid2}}
-* [[docte|doctē]]
-* [[doctificus]]
-* [[doctiuscule|doctiusculē]]
-* [[doctrinalis|doctrīnālis]]
-* [[doctus]]
+* {{l|la|doctē}}
+* {{l|la|doctificus}}
+* {{l|la|doctiusculē}}
+* {{l|la|doctrīnālis}}
+* {{l|la|doctus}}
 {{bottom}}
 
 ====Descendants====
@@ -529,6 +530,7 @@ From {{suffix|doceō|tor|t1=teach|lang=la}}.
 * Emilian: {{l|egl|dutåur}}
 * English: {{l|en|doctor}}
 * Estonian: {{l|et|doktor}}
+* Faroese: {{l|fo|doktari|g=m}}
 * Filipino: [[doktor]]
 * French: {{l|fr|docteur}}
 {{mid3}}
@@ -560,8 +562,8 @@ From {{suffix|doceō|tor|t1=teach|lang=la}}.
 ==Romanian==
 
 ===Alternative forms===
-* [[doftor]] {{qualifier|popular}}
-* [[доктор]] {{qualifier|post-1930s (Moldavian) Cyrillic spelling}}
+* {{l|ro|doftor}} {{qualifier|popular}}
+* {{l|ro|доктор}} {{qualifier|post-1930s (Moldavian) Cyrillic spelling}}
 
 ===Etymology===
 From {{etyl|la|ro}} {{term|doctor|lang=la}} (17th century), {{etyl|fr|ro}} {{term|docteur|lang=fr}} or {{etyl|de|ro}} {{term|Doktor|lang=de}}
@@ -578,7 +580,7 @@ From {{etyl|la|ro}} {{term|doctor|lang=la}} (17th century), {{etyl|fr|ro}} {{ter
 {{ro-noun-m|pl=doctori|def=doctorul}}
 
 ====Related terms====
-* [[medic#Romanian|medic]]
+* {{l|ro|medic}}
 
 [[Category:ro:Occupations]]
 
