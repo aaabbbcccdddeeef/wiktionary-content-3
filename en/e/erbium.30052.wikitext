@@ -31,9 +31,9 @@ After [[w:Ytterby|Ytterby]], Sweden.
 * Armenian: {{t|hy|էրբիում}}
 * Asturian: {{t|ast|erbiu|m}}
 * Basque: {{t|eu|erbioa}}
-* Belarusian: {{t|be|эрбiй|tr=érbij|m}}
+* Belarusian: {{t|be|э́рбiй|m}}
 * Breton: {{t|br|erbiom}}
-* Bulgarian: {{t|bg|ербий|tr=érbij|m}}
+* Bulgarian: {{t|bg|е́рбий|m}}
 * Catalan: {{t|ca|erbi|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|鉺|tr=ěr}}
@@ -43,7 +43,7 @@ After [[w:Ytterby|Ytterby]], Sweden.
 * Dutch: {{t+|nl|erbium|n}}
 * Esperanto: {{t|eo|erbio}}
 * Estonian: {{t+|et|erbium}}
-* Faroese: {{t|fo|erbium}}
+* Faroese: {{t|fo|erbium|n}}
 * Finnish: {{t+|fi|erbium}}
 * French: {{t+|fr|erbium|m}}
 * Friulian: {{t|fur|erbi}}
@@ -60,36 +60,36 @@ After [[w:Ytterby|Ytterby]], Sweden.
 * Japanese: {{t+|ja|エルビウム|tr=erubiumu}}
 * Kashubian: {{t|csb|érb}}
 {{trans-mid}}
-* Kazakh: {{t+|kk|эрбий|tr=erbii}}
+* Kazakh: {{t+|kk|эрбий}}
 * Korean: {{t+|ko|에르븀|tr=ereubyum}}
 * Latin: {{t+|la|erbium}}
 * Latvian: {{t|lv|erbijs}}
 * Lithuanian: {{t+|lt|erbis}}
 * Luxembourgish: {{t|lb|Erbium}}
-* Macedonian: {{t|mk|ербиум|tr=érbium|m}}
+* Macedonian: {{t|mk|ербиум|m}}
 * Malay: {{t|ms|erbium}}
 * Maltese: {{t|mt|erbjum}}
 * Manx: {{t|gv|erbium}}
-* Mongolian: {{t|mn|эрби|tr=erbi}}
+* Mongolian: {{t|mn|эрби}}
 * Norwegian: {{t+|no|erbium}}
 * Polish: {{t+|pl|erb|m}}
 * Portuguese: {{t+|pt|érbio|m}}
 * Romanian: {{t+|ro|erbiu|n}}
-* Russian: {{t+|ru|эрбий|m|tr=érbij}}
+* Russian: {{t+|ru|э́рбий|m}}
 * Scottish Gaelic: {{t|gd|eirbiam}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|ербиj|m}}, {{t|sh|ербиjум|m}}
 *: Roman: {{t+|sh|erbij}}, {{t|sh|erbijum|m}}
-* Slovak: {{t|sk|erbium}}
-* Slovene: {{t+|sl|erbij}}
+* Slovak: {{t|sk|erbium|n}}
+* Slovene: {{t+|sl|erbij|m}}
 * Spanish: {{t+|es|erbio|m}}
 * Swedish: {{t+|sv|erbium}}
-* Tajik: {{t|tg|erbi'}}
-* Tamil: {{t|ta|எல்லிரும்பு|tr=ellirumbu}}
+* Tajik: {{t|tg|Эрбий}}
+* Tamil: {{t|ta|எல்லிரும்பு}}
 * Thai: {{t|th|เออร์เบียม|tr=oebiam}}
 * Turkish: {{t+|tr|erbiyum}}
-* Ukrainian: {{t|uk|ербiй|tr=érbij|m}}
-* Uzbek: {{t|uz|эрбий|tr=erbiy}}
+* Ukrainian: {{t|uk|е́рбiй|m}}
+* Uzbek: {{t|uz|эрбий}}, {{t|uz|erbiy}}
 * Vietnamese: {{t|vi|eribi}}
 * Volapük: {{t+|vo|lerbin}}
 * Welsh: {{t|cy|erbiwm}}
@@ -97,7 +97,7 @@ After [[w:Ytterby|Ytterby]], Sweden.
 {{trans-bottom}}
 
 ===Anagrams===
-* [[imbrue#English|imbrue]]
+* {{l|en|imbrue}}
 
 [[Category:en:Chemical elements]]
 
@@ -255,6 +255,12 @@ From the {{etyl|sv|sk}} town of {{term|Ytterby|lang=sv}}.
 {{sk-noun|g=n|gen=erbia|decl=mesto}}
 
 # {{l|en|erbium}} {{gloss|element}}
+
+====Declension====
+{{sk-decl-noun-sg|erbium|erbia|erbiu|erbium|erbiom}}
+
+===References===
+* {{R:SDK}}
 
 ----
 
