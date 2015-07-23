@@ -33,19 +33,19 @@ From {{etyl|fr|en}} {{term|francium|lang=fr}}, from {{suffix|France|ium|lang=en}
 * Armenian: {{t|hy|ֆրանսիում}}
 * Asturian: {{t|ast|franciu|m}}
 * Basque: {{t|eu|frantzioa}}
-* Belarusian: {{t|be|францый|tr=frántsyj|m}}
+* Belarusian: {{t|be|фра́нцый|m}}
 * Breton: {{t|br|frañsiom}}
-* Bulgarian: {{t|bg|франций|m|tr=frántsij}}
+* Bulgarian: {{t|bg|фра́нций|m}}
 * Catalan: {{t|ca|franci|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|钫|tr=fāng}}, {{qualifier|Taiwan}} {{t+|cmn|鍅|tr=fǎ}}
 * Cornish: {{t|kw|frankyum}}
-* Czech: {{t+|cs|francium}}
+* Czech: {{t+|cs|francium|n}}
 * Danish: {{t|da|francium}}
 * Dutch: {{t+|nl|francium|n}}
 * Esperanto: {{t|eo|franciumo}}
 * Estonian: {{t|et|frantsium}}
-* Faroese: {{t|fo|francium}}
+* Faroese: {{t|fo|fransium|n}}
 * Finnish: {{t+|fi|frankium}}
 * French: {{t+|fr|francium|m}}
 * Friulian: {{t|fur|franci}}
@@ -61,7 +61,7 @@ From {{etyl|fr|en}} {{term|francium|lang=fr}}, from {{suffix|France|ium|lang=en}
 * Italian: {{t+|it|francio|m}}
 * Japanese: {{t+|ja|フランシウム|tr=furanshiumu}}
 * Kashubian: {{t|csb|frãs}}
-* Kazakh: {{t+|kk|франций|tr=frantsii}}
+* Kazakh: {{t+|kk|франций}}
 * Korean: {{t+|ko|프랑슘|tr=peurangsyum}}, {{t|ko|악티늄케이|tr=aktinyumkei}}
 * Kurdish:
 *: Kurmanji: {{t|ku|fransiyûm}}
@@ -69,35 +69,35 @@ From {{etyl|fr|en}} {{term|francium|lang=fr}}, from {{suffix|France|ium|lang=en}
 * Latvian: {{t|lv|francijs}}
 * Lithuanian: {{t+|lt|francis}}
 * Luxembourgish: {{t|lb|Francium|n}}
-* Macedonian: {{t|mk|франциум|tr=frántsium|m}}
+* Macedonian: {{t|mk|франциум|m}}
 * Malay: {{t|ms|fransium}}
 * Maltese: {{t|mt|fransjum}}
 * Manx: {{t|gv|frankium}}
-* Moksha: {{t|mdf|франци|tr=frantsi}}
-* Mongolian: {{t|mn|франци|tr=frantsi}}
+* Moksha: {{t|mdf|франци}}
+* Mongolian: {{t|mn|франци}}
 * Norwegian: {{t|no|francium}}
 * Occitan: {{t|oc|franci|m}}
-* Ossetian: {{t|os|франций|tr=frantsiy}}
+* Ossetian: {{t|os|франций}}
 * Persian: {{t|fa|فرانسیم|tr=ferânsiyom}}
 * Polish: {{t+|pl|frans|m}}
 * Portuguese: {{t+|pt|frâncio|m}}
 * Romanian: {{t+|ro|franciu|n}}
-* Russian: {{t+|ru|франций|m|tr=frántsij}}
+* Russian: {{t+|ru|фра́нций|m}}
 * Scottish Gaelic: {{t|gd|frainciam}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|франциј|m}}, {{t|sh|францијум|m}}
 *: Roman: {{t+|sh|francij|m}}, {{t|sh|francijum|m}}
-* Slovak: {{t|sk|francium}}
+* Slovak: {{t|sk|francium|n}}
 * Slovene: {{t|sl|fráncij}}
 * Spanish: {{t+|es|francio|m}}
 * Swahili: {{t|sw|fransi}}
 * Swedish: {{t+|sv|francium}}
-* Tajik: {{t|tg|франсий|tr=fransiy}}
-* Tamil: {{t|ta|வெடியிதள்|tr=vediyidhaL}}, {{t|ta|பிரன்சியம்|tr=piranciyam}}
+* Tajik: {{t|tg|франсий}}
+* Tamil: {{t|ta|வெடியிதள்}}, {{t|ta|பிரன்சியம்}}
 * Thai: {{t|th|แฟรนเซียม|tr=fraensiam}}
 * Turkish: {{t+|tr|fransiyum}}
-* Ukrainian: {{t|uk|францій|tr=frántsij|m}}
-* Uzbek: {{t|uz|франций|tr=frantsiy}}
+* Ukrainian: {{t|uk|фра́нцій|m}}
+* Uzbek: {{t|uz|франций}}, {{t|uz|frantsiy}}
 * Vietnamese: {{t|vi|franxi}}
 * Volapük: {{t|vo|fransin}}
 * Welsh: {{t|cy|ffransiwm}}
@@ -176,6 +176,12 @@ From {{etyl|fr|en}} {{term|francium|lang=fr}}, from {{suffix|France|ium|lang=en}
 {{sk-noun|g=n|gen=francia|decl=mesto}}
 
 # {{l|en|francium}} {{gloss|element}}
+
+====Declension====
+{{sk-decl-noun-sg|francium|francia|franciu|francium|franciu|franciom}}
+
+===References===
+* {{R:SDK}}
 
 [[Category:sk:Alkali metals]]
 
