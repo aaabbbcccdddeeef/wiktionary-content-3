@@ -25,9 +25,9 @@ Named for {{w|Enrico Fermi}}.
 * Armenian: {{t|hy|ֆերմիում}}
 * Asturian: {{t|ast|fermiu|m}}
 * Basque: {{t|eu|fermioa}}
-* Belarusian: {{t|be|фермiй|tr=férmij|m}}
+* Belarusian: {{t|be|фе́рмiй|m}}
 * Breton: {{t|br|fermiom}}
-* Bulgarian: {{t|bg|фермий|m|tr=férmij}}
+* Bulgarian: {{t|bg|фе́рмий|m}}
 * Catalan: {{t|ca|fermi|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|鐨}}, {{t+|cmn|镄|tr=fèi}}
@@ -37,7 +37,7 @@ Named for {{w|Enrico Fermi}}.
 * Dutch: {{t+|nl|fermium|n}}
 * Esperanto: {{t|eo|fermio}}
 * Estonian: {{t+|et|fermium}}
-* Faroese: {{t|fo|fermium}}
+* Faroese: {{t|fo|fermium|n}}
 * Finnish: {{t+|fi|fermium}}
 * French: {{t+|fr|fermium|m}}
 * Friulian: {{t|fur|fermi}}
@@ -52,37 +52,37 @@ Named for {{w|Enrico Fermi}}.
 * Italian: {{t+|it|fermio|m}}
 * Japanese: {{t+|ja|フェルミウム|tr=ferumiumu}}
 * Kashubian: {{t|csb|ferm}}
-* Kazakh: {{t+|kk|фермий|tr=fermii|sc=Cyrl}}
+* Kazakh: {{t+|kk|фермий|sc=Cyrl}}
 {{trans-mid}}
 * Korean: {{t+|ko|페르뮴|tr=pereumyum}}
 * Latin: {{t+|la|fermium|n}}
 * Latvian: {{t|lv|fermijs}}
 * Lithuanian: {{t+|lt|fermis}}
 * Luxembourgish: {{t|lb|Fermium|n}}
-* Macedonian: {{t|mk|фермиум|tr=férmium|m}}
+* Macedonian: {{t|mk|фермиум|m}}
 * Malay: {{t|ms|fermium}}
 * Maltese: {{t|mt|fermjum}}
 * Manx: {{t|gv|fermium}}
-* Mongolian: {{t|mn|ферми|tr=fermi}}
+* Mongolian: {{t|mn|ферми}}
 * Norwegian: {{t|no|fermium}}
 * Polish: {{t+|pl|ferm|m}}
 * Portuguese: {{t+|pt|férmio|m}}
 * Romanian: {{t+|ro|fermiu|n}}
-* Russian: {{t+|ru|фермий|m|tr=férmij}}
+* Russian: {{t+|ru|фе́рмий|m}}
 * Scottish Gaelic: {{t|gd|feirmiam}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|фермиj|m}}, {{t|sh|фермиjум|m}}
 *: Roman: {{t+|sh|fermij|m}}, {{t|sh|fermijum|m}}
-* Slovak: {{t|sk|fermium}}
+* Slovak: {{t|sk|fermium|n}}
 * Slovene: {{t+|sl|fermij}}
 * Spanish: {{t+|es|fermio|m}}
 * Swedish: {{t+|sv|fermium|n}}
-* Tajik: {{t|tg|fermi'}}
-* Tamil: {{t|ta|வெளுகன்|tr=veLugan}}
+* Tajik: {{t|tg|фермий}}
+* Tamil: {{t|ta|வெளுகன்}}
 * Thai: {{t|th|เฟอร์เมียม|tr=foemiam}}
 * Turkish: {{t+|tr|fermiyum}}
-* Ukrainian: {{t|uk|фермiй|tr=férmij|m}}
-* Uzbek: {{t|uz|фермий|tr=fermiy|sc=Cyrl}}
+* Ukrainian: {{t|uk|фе́рмiй|m}}
+* Uzbek: {{t|uz|фермий|sc=Cyrl}}, {{t|uz|fermiy}}
 * Vietnamese: {{t|vi|fecmi}}
 * Volapük: {{t|vo|fermin}}
 * Welsh: {{t|cy|ffermiwm}}
@@ -201,6 +201,12 @@ From {{etyl|en|ms}} {{term|fermium|lang=en}}.
 {{sk-noun|g=n|gen=fermia|decl=mesto}}
 
 # {{l|en|fermium}} {{gloss|element}}
+
+====Declension====
+{{sk-decl-noun-sg|fermium|fermia|fermiu|fermium|fermiu|fermiom}}
+
+===References===
+* {{R:SDK}}
 
 ----
 
