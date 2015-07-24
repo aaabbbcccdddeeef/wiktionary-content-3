@@ -105,9 +105,9 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{term|gendre|lang=frm}}, {{term|genr
 * Asturian: {{t|ast|xéneru|m}}
 * Aymara: {{t-needed|ay}}
 * Azeri: {{t|az|cins}}
-* Belarusian: {{t|be|род|m|tr=rod|sc=Cyrl}}
-* Bulgarian: {{t+|bg|род|m|tr=rod|sc=Cyrl}}
-* Burmese: {{t+|my|လိင်|tr=lein|sc=Mymr}}
+* Belarusian: {{t|be|род|m|sc=Cyrl}}
+* Bulgarian: {{t+|bg|род|m|sc=Cyrl}}
+* Burmese: {{t+|my|လိင်|sc=Mymr}}
 * Catalan: {{t|ca|gènere|m}}
 * Chechen: {{t|ce|род}}
 * Cherokee: {{t-needed|chr}}
@@ -144,7 +144,7 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{term|gendre|lang=frm}}, {{term|genr
 * Japanese: {{t+|ja|性|tr=せい, sei}}
 * Norman: {{t|nrf|genre|m}}
 {{trans-mid}}
-* Kazakh: {{t|kk|род|m|tr=rod|sc=Cyrl}}
+* Kazakh: {{t|kk|род|m|sc=Cyrl}}
 * Khmer: {{t+|km|លិង្គ|tr=lɨng|sc=Khmr}}
 * Korean: {{t+|ko|성|sc=Kore}} ({{t+|ko|性|sc=Hani}})
 * Latin: {{t+|la|genus|n}}
@@ -152,7 +152,7 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{term|gendre|lang=frm}}, {{term|genr
 * Lithuanian: {{t+|lt|lytis|m}}
 * Luganda: {{t-needed|lg}}
 * Luxembourgish: {{t-needed|lb}}
-* Macedonian: {{t|mk|род|m|tr=rod}}
+* Macedonian: {{t|mk|род|m}}
 * Malay: {{t|ms|gender}}
 * Malayalam: {{t-needed|ml}}
 * Maltese: {{t|mt|sess|m}}
@@ -189,7 +189,7 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{term|gendre|lang=frm}}, {{term|genr
 * Tatar: {{t+|tt|җенес|sc=Cyrl}}
 * Thai: {{t+|th|ลิงค์|tr=ling|sc=Thai}}
 * Turkish: {{t+|tr|cins}}, {{t+|tr|cinsiyet}}
-* Ukrainian: {{t|uk|рід|m|tr=rid|sc=Cyrl}}
+* Ukrainian: {{t|uk|рід|m|sc=Cyrl}}
 * Urdu: {{t|ur|لنگ|m|tr=liṅg|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|giống}}
 * Walloon: {{t+|wa|djinre|m}}
@@ -206,10 +206,10 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{term|gendre|lang=frm}}, {{term|genr
 * Armenian: {{t|hy|սեռ}}
 * Asturian: {{t|ast|sexu|m}}
 * Azeri: {{t|az|cins}}
-* Belarusian: {{t|be|пол|m|tr=pol|sc=Cyrl}}, {{t|be|плоць|f|tr=plocʹ|sc=Cyrl}}
+* Belarusian: {{t|be|пол|m|sc=Cyrl}}, {{t|be|плоць|f|sc=Cyrl}}
 * Bengali: {{t+|bn|লিঙ্গ|tr=ling|sc=Beng}}
 * Bulgarian: {{t|bg|пол|m|tr=pol|sc=Cyrl}}
-* Burmese: {{t+|my|လိင်|tr=lei|sc=Mymr}}
+* Burmese: {{t+|my|လိင်|sc=Mymr}}
 * Catalan: {{t|ca|sexe|m}}
 * Cherokee: {{t-needed|chr}}
 * Chinese:
@@ -234,20 +234,20 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{term|gendre|lang=frm}}, {{term|genr
 * Irish: {{t|ga|gnéas|m}}
 * Italian: {{t+|it|sesso|m}}
 * Japanese: {{t+|ja|性|tr=せい, sei}}, {{t+|ja|性別|tr=せいべつ, seibetsu}}
-* Kazakh: {{t|kk|жыныс|tr=jınıs|sc=Cyrl}}
+* Kazakh: {{t|kk|жыныс|sc=Cyrl}}
 * Khmer: {{t|km|ជាតិលិង្គ|tr=jiet lɨng|sc=Khmr}}, {{t+|km|លិង្គ|tr=lɨng|sc=Khmr}}
 * Korean: {{t+|ko|성|sc=Kore}}, {{t+|ko|성별|sc=Kore}}
 {{trans-mid}}
-* Kyrgyz: {{t|ky|жыныс|tr=cınıs|sc=Cyrl}}
-* Lao: {{t|lo|ລິງ|tr=ling|sc=Laoo}}, {{t|lo|ເພດ|tr=pheet|sc=Laoo}}
+* Kyrgyz: {{t|ky|жыныс|sc=Cyrl}}
+* Lao: {{t|lo|ລິງ|sc=Laoo}}, {{t|lo|ເພດ|sc=Laoo}}
 * Latin: {{t+|la|genus|n}}
 * Latvian: {{t+|lv|dzimte|f}}, {{t|lv|dzimums|m}}
 * Lithuanian: {{t+|lt|lytis|m}}
-* Macedonian: {{t|mk|пол|m|tr=pol}}
+* Macedonian: {{t|mk|пол|m}}
 * Malagasy: {{t|mg|lahi-vavy}}, {{t|mg|lahy vavy}}, {{t|mg|lahivavy}}
 * Malay: {{t|ms|jantina}}
 * Maltese: {{t|mt|sess|m}}
-* Mongolian: {{t|mn|хүйс|tr=hüjs|sc=Cyrl}}
+* Mongolian: {{t|mn|хүйс|sc=Cyrl}}
 * Marathi: {{t|mr|लिंग|sc=Deva}}
 * Mirandese: {{t-needed|mwl}}
 * Norwegian: {{t+|no|kjønn|n}}
@@ -266,12 +266,12 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{term|gendre|lang=frm}}, {{term|genr
 * Swahili: {{t+|sw|jinsia}}
 * Swedish: {{t+|sv|kön|n}}
 * Tagalog: {{t+|tl|kasarian}}
-* Tajik: {{t|tg|ҷинс|tr=jins|sc=Cyrl}}, {{t|tg|ҷинсият|tr=jinsiyat|sc=Cyrl}}
+* Tajik: {{t|tg|ҷинс|sc=Cyrl}}, {{t|tg|ҷинсият|sc=Cyrl}}
 * Tatar: {{t+|tt|җенес|sc=Cyrl}}
 * Thai: {{t+|th|เพศ|tr=pâyt}}, {{t+|th|ลิงค์|tr=ling|sc=Thai}}
 * Turkish: {{t+|tr|cinsiyet}}, {{t+|tr|cins}}
 * Turkmen: {{t+|tk|jyns}}, {{t|tk|pol}}
-* Ukrainian: {{t|uk|стать|f|tr=statʹ|sc=Cyrl}}
+* Ukrainian: {{t|uk|стать|f|sc=Cyrl}}
 * Urdu: {{t+|ur|جنس|tr=jins|sc=ur-Arab}}
 * Uzbek: {{t|uz|jins}}
 * Vietnamese: {{t+|vi|giới tính}}
@@ -313,7 +313,7 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{term|gendre|lang=frm}}, {{term|genr
 {{trans-mid}}
 * Italian: {{t+|it|genere|m}}
 * Norman: {{t|nrf|genre|m}}
-* Macedonian: {{t|mk|род|m|tr=rod}}
+* Macedonian: {{t|mk|род|m}}
 * Malagasy: {{t+|mg|karazana}}
 * Portuguese: {{t|pt|género|m}} {{qualifier|Portugal}}, {{t+|pt|gênero|m}} {{qualifier|Brazil}}
 * Scottish Gaelic: {{t|gd|seòrsa|m}}, {{t|gd|gnè|f}}
