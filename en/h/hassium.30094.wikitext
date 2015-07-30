@@ -29,13 +29,13 @@ From the {{etyl|la|en}} form of the German state of {{w|Hessen}}, the location o
 * Albanian: {{t|sq|hasium}}
 * Arabic: {{t|ar|هَسْيُوم|m|tr=hasyum}}
 * Armenian: {{t|hy|հասիում}}
-* Bulgarian: {{t|bg|хасий|m|tr=khásij}}
+* Bulgarian: {{t|bg|ха́сий|m}}
 * Catalan: {{t|ca|hassi|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|𨭆|tr=hēi}}
 * Cornish: {{t|kw|hassyum}}
 * Czech: {{t+|cs|hassium|n}}
-* Danish: {{t|da|hassium}}
+* Danish: {{t|da|hassium|n}}
 * Dhivehi: {{t-needed|dv}}
 * Dutch: {{t+|nl|hassium|n}}
 * Esperanto: {{t|eo|hasio}}
@@ -54,7 +54,7 @@ From the {{etyl|la|en}} form of the German state of {{w|Hessen}}, the location o
 * Latvian: {{t|lv|hasijs|m}}
 * Lithuanian: {{t+|lt|hasis}}
 * Luxembourgish: {{t|lb|Hassium}}
-* Macedonian: {{t|mk|хасиум|m|tr=hásium}}
+* Macedonian: {{t|mk|хасиум|m}}
 * Malay: {{t|ms|hassium}}
 * Norwegian: {{t|no|hassium}}
 * Polish: {{t+|pl|has|m}}
@@ -65,13 +65,14 @@ From the {{etyl|la|en}} form of the German state of {{w|Hessen}}, the location o
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|хасиj|m|sc=Cyrl}}, {{t|sh|хасиjум|m|sc=Cyrl}}
 *: Roman: {{t|sh|hasij|m}}, {{t|sh|hasijum|m}}
-* Slovak: {{t|sk|hassium}}
+* Slovak: {{t|sk|hassium|n}}
 * Spanish: {{t+|es|hassio|m}}
 * Swedish: {{t+|sv|hassium}}
-* Tamil: {{t|ta|ஹஸ்ஸியம்|tr=hassiyam}}
+* Tajik: {{t|tg|ҳассий}}
+* Tamil: {{t|ta|ஹஸ்ஸியம்}}
 * Thai: {{t|th|แฮลเชียม|tr=haessiam}}
-* Ukrainian: {{t|uk|хасiй|m|tr=khásij}}
-* Uzbek: {{t|uz|ганий|tr=ganii|sc=Cyrl}}
+* Ukrainian: {{t|uk|ха́сiй|m}}
+* Uzbek: {{t|uz|xassiy}}
 * Volapük: {{t|vo|hasin}}
 * West Frisian: {{t|fy|hassium}}
 {{trans-bottom}}
@@ -187,6 +188,12 @@ From {{etyl|en|ms}} {{term|hassium|lang=en}}, from {{etyl|la|ms}}.
 {{sk-noun|g=n|gen=hassia|decl=mesto}}
 
 # {{l|en|hassium}} {{gloss|element}}
+
+====Declension====
+{{sk-decl-noun-sg|hassium|hassia|hassiu|hassium|hassiu|hassiom}}
+
+===References===
+* {{R:SDK}}
 
 [[cs:hassium]]
 [[de:hassium]]
