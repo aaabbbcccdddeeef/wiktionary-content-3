@@ -32,7 +32,7 @@ From {{etyl|fa|en}} {{term|هندی|lang=fa|tr=hendi}}, from {{term|هند|lang=
 * Basque: {{t+|eu|hindi}}
 * Belarusian: {{t|be|хі́ндзі|m|sc=Cyrl}}
 * Bengali: {{t|bn|হিন্দি|tr=Hindi|sc=Beng}}
-* Bulgarian: {{t|bg|хинди|tr=hindi}}
+* Bulgarian: {{t|bg|хинди}}
 * Catalan: {{t+|ca|hindi}}
 * Chinese:
 *: Mandarin: {{t|cmn|印地語|sc=Hani}}, {{t+|cmn|印地语|tr=Yìndìyǔ|sc=Hani}}, {{t|cmn|印地文|tr=Yìndìwén|sc=Hani}}
@@ -41,6 +41,7 @@ From {{etyl|fa|en}} {{term|هندی|lang=fa|tr=hendi}}, from {{term|هند|lang=
 * Dutch: {{t+|nl|Hindi|n}}
 * Esperanto: {{t|eo|hinda}}
 * Estonian: {{t|et|hindi keel}}
+* Faroese: {{t|fo|hindi|n}}
 * Fiji Hindi: {{t-needed|hif}}
 * Fijian: {{t-needed|fj}}
 * Finnish: {{t+|fi|hindi}}
@@ -57,7 +58,7 @@ From {{etyl|fa|en}} {{term|هندی|lang=fa|tr=hendi}}, from {{term|هند|lang=
 * Indonesian: {{t|id|hindi}}
 * Irish: {{t|ga|Hiondúis|f}}
 * Japanese: {{t+|ja|ヒンディー語|tr=hindii-go}}
-* Kannada: {{t|kn|ಹಿಂದೀ|tr=hindī|sc=Knda}}
+* Kannada: {{t|kn|ಹಿಂದೀ|sc=Knda}}
 * Khmer: {{t|km|ហិណ្ឌី|sc=Khmr|tr=həndii}}
 * Korean: {{t+|ko|힌디어|tr=hindi'eo|sc=Hang}}
 * Latvian: {{t|lv|hindi}}
@@ -67,8 +68,8 @@ From {{etyl|fa|en}} {{term|هندی|lang=fa|tr=hendi}}, from {{term|هند|lang=
 * Maltese: {{t|mt|Ħindi}}
 {{trans-mid}}
 * Marathi: {{t|mr|हिन्दी|tr=hindī|sc=Deva}}
-* Moksha: {{t|mdf|хинди|tr=hindi|sc=Cyrl}}
-* Mongolian: {{t|mn|Энтхэг|tr=entxeg|sc=Cyrl}}
+* Moksha: {{t|mdf|хинди|sc=Cyrl}}
+* Mongolian: {{t|mn|Энтхэг|sc=Cyrl}}
 * Navajo: {{t|nv|Híndoo bizaad}}
 * Nepali: {{t+|ne|हिन्दी|tr=hindī|sc=Deva}}
 * Norwegian: {{t+|no|hindi}}
@@ -84,7 +85,7 @@ From {{etyl|fa|en}} {{term|هندی|lang=fa|tr=hendi}}, from {{term|هند|lang=
 *: Cyrillic: {{t|sh|хинди|m|sc=Cyrl}}
 *: Roman: {{t|sh|hindi|m}}
 * Sindhi: {{t|sd|ھندي|alt=ھِندِي|sc=sd-Arab}}
-* Sinhalese: {{t+|si|හින්දි|tr=hindi|sc=Sinh}}, {{t|si|හින්දි භාෂාව|tr=hindi bhāṣāva|sc=Sinh}}
+* Sinhalese: {{t+|si|හින්දි|sc=Sinh}}, {{t|si|හින්දි භාෂාව|sc=Sinh}}
 * Slovak: {{t|sk|hindský}}
 * Slovene: {{t|sl|hindijščina|f}}
 * Sorbian:
@@ -93,8 +94,8 @@ From {{etyl|fa|en}} {{term|هندی|lang=fa|tr=hendi}}, from {{term|هند|lang=
 * Spanish: {{t+|es|hindi|m}}
 * Swahili: {{t|sw|Kihindi}}
 * Swedish: {{t+|sv|hindi}}
-* Tamil: {{t+|ta|ஹிந்தி|tr=hindi}}
-* Tatar: {{t|tt|хинди|tr=khindi|sc=Cyrl}}
+* Tamil: {{t+|ta|ஹிந்தி}}
+* Tatar: {{t|tt|хинди|sc=Cyrl}}
 * Telugu: {{t+|te|హిందీ}}, {{t+|te|హిందీ భాష}}, {{t|te|హిందీ మాట్లాడు ప్రజలు}}, {{t|te|ఉత్తరాది వారు}}, {{t|te|ఉత్తర భారతదేశ జనాలు}}
 * Thai: {{t|th|ภาษาฮินดู|tr=phāsā-hindū}}
 * Turkish: {{t+|tr|Hintçe}}
@@ -157,7 +158,7 @@ From {{etyl|fa|en}} {{term|هندی|lang=fa|tr=hendi}}, from {{term|هند|lang=
 ===Noun===
 {{head|de|noun|g=n}}
 
-# The Hindi language
+# The {{l|en|Hindi}} language
 
 ===Noun===
 {{head|de|noun|g=m}}
