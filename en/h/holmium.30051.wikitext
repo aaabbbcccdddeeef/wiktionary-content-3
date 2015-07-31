@@ -29,9 +29,9 @@ From {{etyl|la|en}} {{term|Holmia||Stockholm|lang=la}}, the hometown of {{w|Per 
 * Armenian: {{t|hy|հոլմիում}}
 * Asturian: {{t|ast|holmiu|m}}
 * Basque: {{t|eu|holmioa}}
-* Belarusian: {{t|be|гольмiй|tr=hól’mij|m}}
+* Belarusian: {{t|be|го́льмiй|m}}
 * Breton: {{t|br|holmiom}}
-* Bulgarian: {{t|bg|холмий|m|tr=hólmij}}
+* Bulgarian: {{t|bg|хо́лмий|m}}
 * Catalan: {{t|ca|holmi|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|鈥}}, {{t+|cmn|钬|tr=huǒ}}
@@ -41,7 +41,7 @@ From {{etyl|la|en}} {{term|Holmia||Stockholm|lang=la}}, the hometown of {{w|Per 
 * Dutch: {{t+|nl|holmium|n}}
 * Esperanto: {{t|eo|holmio}}
 * Estonian: {{t+|et|holmium}}
-* Faroese: {{t|fo|holmium}}
+* Faroese: {{t|fo|holmium|n}}
 * Finnish: {{t+|fi|holmium}}
 * French: {{t+|fr|holmium|m}}
 * Friulian: {{t|fur|olmi}}
@@ -58,17 +58,17 @@ From {{etyl|la|en}} {{term|Holmia||Stockholm|lang=la}}, the hometown of {{w|Per 
 * Japanese: {{t+|ja|ホルミウム|tr=horumiumu}}, {{t|ja|鈥|sc=Jpan}}
 * Kashubian: {{t|csb|hòlm}}
 {{trans-mid}}
-* Kazakh: {{t|kk|голъмий|tr=golmii}}
+* Kazakh: {{t|kk|гольмий}}
 * Korean: {{t+|ko|홀뮴|tr=holmyum}}
 * Latin: {{t+|la|holmium}}
 * Latvian: {{t|lv|holmijs}}
 * Lithuanian: {{t+|lt|holmis}}
 * Luxembourgish: {{t|lb|Holmium}}
-* Macedonian: {{t|mk|холмиум|tr=khólmium|m}}
+* Macedonian: {{t|mk|холмиум|m}}
 * Malay: {{t|ms|holmium}}
 * Maltese: {{t|mt|holmjum}}
 * Manx: {{t|gv|holmium}}
-* Mongolian: {{t|mn|гольми|tr=gol’mi}}
+* Mongolian: {{t|mn|гольми}}
 * Norwegian: {{t|no|holmium}}
 * Polish: {{t+|pl|holm|m}}
 * Portuguese: {{t+|pt|hólmio|m}}
@@ -78,16 +78,16 @@ From {{etyl|la|en}} {{term|Holmia||Stockholm|lang=la}}, the hometown of {{w|Per 
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|холмиjум|m|sc=Cyrl}}, {{t|sh|холмиj|m|sc=Cyrl}}
 *: Roman: {{t|sh|holmijum|m|sc=Latn}}, {{t+|sh|holmij|m|sc=Latn}}
-* Slovak: {{t|sk|holmium}}
+* Slovak: {{t|sk|holmium|n}}
 * Slovene: {{t+|sl|holmij}}
 * Spanish: {{t+|es|holmio|m}}
 * Swedish: {{t+|sv|holmium|n}}
 * Tajik: {{t|tg|gol'mi'}}
-* Tamil: {{t|ta|ஹொல்மியம்|tr=holmiyam}}
+* Tamil: {{t|ta|ஹொல்மியம்}}
 * Thai: {{t+|th|โฮลเมียม|tr=hōlmiam}}
 * Turkish: {{t+|tr|holmiyum}}
-* Ukrainian: {{t|uk|голъмiй|tr=hólmij|m}}
-* Uzbek: {{t|uz|голъмий|tr=golmiy}}
+* Ukrainian: {{t|uk|го́льмiй|m}}
+* Uzbek: {{t|uz|golmiy}}, {{t|uz|голмий}}
 * Vietnamese: {{t|vi|holmi}}, {{t|vi|honmi}}
 * Volapük: {{t+|vo|holmin}}
 * Welsh: {{t|cy|holmiwm}}
@@ -242,6 +242,12 @@ From {{etyl|en|ms}} {{term|holmium|lang=en}}, from {{etyl|la|ms}} {{term|Holmia|
 {{sk-noun|g=n|gen=holmia|decl=mesto}}
 
 # {{l|en|holmium}} {{gloss|element}}
+
+====Declension====
+{{sk-decl-noun-sg|holmium|holmia|holmiu|holmium|holmiu|holmiom}}
+
+===References===
+* {{R:SDK}}
 
 ----
 
