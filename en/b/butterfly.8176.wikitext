@@ -88,8 +88,8 @@ Alternate etymology connects the first element to {{m|ang|butere||butter}}, as t
 * Amharic: {{t|am|ቢራቢሮ}}
 * Amuzgo: {{t|amu|kítzë}}
 * Arabic: {{t+|ar|فَرَاشَة|f}}
-*: Moroccan Arabic: {{t-needed|ary}} (''romanised:'' fertito) {{attention|ary|Arabic script is needed}} {{rfscript|und|sc=Arab}}
-*: Tunisian Arabic: {{t-needed|aeb}} (''romanised:'' fartattu) {{attention|aeb|Arabic script is needed}} {{rfscript|und|sc=Arab}}
+*: Moroccan Arabic: {{t|ary|tr=fertito}}
+*: Tunisian Arabic: {{t|aeb|tr=fartattu}}
 * Arapaho: {{t|arp|nihˀoːteibeihiː}}
 * Armenian: {{t|hy|թիթեռ}}
 *: Old Armenian: {{t|xcl|թիթեռն}}
@@ -118,7 +118,7 @@ Alternate etymology connects the first element to {{m|ang|butere||butter}}, as t
 * Chamicuro: {{t|ccc|kamajto}}
 * Chamorro: {{t|ch|ababang}}
 * Chechen: {{t|ce|полла|sc=Cyrl}}
-* Cherokee: {{t|chr|ᎧᎹᎹ|tr=kamama}}
+* Cherokee: {{t|chr|ᎧᎹᎹ}}
 * Cheyenne: {{t|chy|hevávȧhkema}}
 * Chinese:
 *: Cantonese: {{t|yue|蝴蝶|tr=wu4 dip6*2|sc=Hani}}
@@ -126,6 +126,7 @@ Alternate etymology connects the first element to {{m|ang|butere||butter}}, as t
 *: Mandarin: {{t+|cmn|蝴蝶|tr=húdié|sc=Hani}}
 *: Min Nan: {{t|nan|蝶仔|tr=ia̍h-á}}, {{t+|nan|蝴蝶|tr=ô͘-tia̍p|sc=Hani}}, {{t+|nan|尾蝶|tr=bóe-ia̍h, bé-ia̍h|sc=Hani}}, {{t|nan|尾蝶仔|tr=bóe-ia̍h-á, bé-ia̍h-á|sc=Hani}}, {{t|nan|蝶婆|tr=ia̍h-pô|sc=Hani}}
 * Choctaw: {{t|cho|hatapushik}}
+* Chuukese: {{t|chk|nipwisipwis}}
 * Classical Nahuatl: {{t|nci|pāpalōtl}}
 * Cornish: {{t|kw|tykki-Dyw|f}}, {{t|kw|tegenn Dyw|f}}
 * Creek: {{t|mus|tvffolupv}}
@@ -135,7 +136,7 @@ Alternate etymology connects the first element to {{m|ang|butere||butter}}, as t
 * Dhivehi: {{t|dv|ކޮކާ|sc=Thaa}}
 * Dhuwal: {{t|duj|buurnba}}
 * Dieri: {{t|dif|karlipilhi}}
-* Dutch: ''(neutral)'' {{t+|nl|vlinder|m}}; ''(dated)'' {{t|nl|kapel|f}}, {{t|nl|pepel|m}}, {{t|nl|vijfwouter|m}}; ''(archaic)'' {{t|nl|boterschijt|f}}, {{t|nl|botervlieg|f}}, {{t|nl|pennenvogel|m}}, {{t|nl|schoenlapper|m}}, {{t|nl|zomervogel|m}}; ''(poetic)'' {{t|nl|fladderaar|m}}
+* Dutch: {{i|neutral}} {{t+|nl|vlinder|m}}; {{i|dated}} {{t|nl|kapel|f}}, {{t|nl|pepel|m}}, {{t|nl|vijfwouter|m}}; {{i|archaic}} {{t|nl|boterschijt|f}}, {{t|nl|botervlieg|f}}, {{t|nl|pennenvogel|m}}, {{t|nl|schoenlapper|m}}, {{t|nl|zomervogel|m}}; {{i|poetic}} {{t|nl|fladderaar|m}}
 * Erzya: {{t|myv|нимилав}}
 * Esperanto: {{t+|eo|papilio}}
 * Estonian: {{t|et|liblikas}}
@@ -188,13 +189,13 @@ Alternate etymology connects the first element to {{m|ang|butere||butter}}, as t
 * Kashmiri: (titili)
 * Kashubian: {{t|csb|mòtil}}
 * Kazakh: {{t|kk|елбелек}}, {{t|kk|кёбелек}}
-* Khmer: {{t+|km|មេអំបៅ|tr=mēi ombao}}
+* Khmer: {{t+|km|មេអំបៅ}}
 * Kikuyu: {{t|ki|kihuruta}}
 * Kimaragang: {{t|kqr|kolibambang}}
 * Kinyarwanda: {{t|rw|ikinyugunyugu}}
 * Klallam: {{t|clm|ƛ̕aʔƛ̕ápt}}
 * Koasati: {{t|cku|hacokpalpa}}
-* Konkani: {{t|kok|pakho}} {{attention|kok|Devanagari script is needed}} {{rfscript|und|sc=Deva}}
+* Konkani: {{t|kok|tr=pakho}}
 * Konni: {{t|kma|kpanjabi}}
 * Korean: {{t+|ko|나비|sc=Hang}}
 * Krobu: {{t|kxb|kutuu}}
@@ -235,7 +236,7 @@ Alternate etymology connects the first element to {{m|ang|butere||butter}}, as t
 * Mayan: [[pepen]]
 * Maykulan: {{t|mnt|pardirr}}
 * Mazanderani: {{t|mzn|پاپلی|tr=pâpëli}}
-* Mekeo: {{t|mek|fefe}}, {{t|mek|fefe-fefe}}, {{t|mek|pepeo|tr=West Mekeo}}
+* Mekeo: {{t|mek|fefe}}, {{t|mek|fefe-fefe}}, {{t|mek|pepeo}} {{i|West Mekeo}}
 * Mende: {{t|men|buwa}}
 * Mi'kmaq: {{t|mic|mimiges}}
 * Middle Dutch: {{t|dum|vīveltre}}
@@ -286,7 +287,7 @@ Alternate etymology connects the first element to {{m|ang|butere||butter}}, as t
 * Romansch: {{t|rm|spler}}, {{t|rm|tgiralla}}, {{t|rm|tschitta}}
 * Russian: {{t+|ru|ба́бочка|f}}, {{t+|ru|мотылёк|m}}, {{t+|ru|моты́ль|m}}
 * Samoan: {{t|sm|pepe}}
-* Sanskrit: {{t|sa|पतंगम|tr=pataṃgama}}, {{t|sa|शलभ|tr=śalabha}}
+* Sanskrit: {{t|sa|पतंगम}}, {{t|sa|शलभ}}
 * Santali: {{t|sat|ᱯᱤᱯᱲᱤᱚᱝ|tr=piprriang|sc=Olck}}
 * Sardinian: {{t|sc|mariavolavola}}
 * Scottish Gaelic: {{t|gd|dearbadan-de}}, {{t|gd|dealan-dè}}
@@ -296,7 +297,7 @@ Alternate etymology connects the first element to {{m|ang|butere||butter}}, as t
 * Shona: {{t|sn|shavishavi}}
 * Sidamo: {{t|sid|bilach'a}}
 * Silesian: {{t|szl|szmaterlok}}
-* Sinhalese: (samanalaya)
+* Sinhalese: {{t|si|tr=samanalaya}}
 * Slovak: {{t|sk|motýľ|m}}
 * Slovene: {{t+|sl|metulj|m}}
 * Somali: {{t|so|balanbaalis}}
@@ -306,7 +307,7 @@ Alternate etymology connects the first element to {{m|ang|butere||butter}}, as t
 * Sotho: {{t|st|sororomele}}, {{t+|st|serurubele}}
 * Southern Altai: {{t|alt|кӧбӧлӧк}}
 * Spanish: {{t+|es|mariposa|f}}
-* Sranan: [[kaperka]]
+* Sranan: {{t|srn|kaperka}}
 * Sumerian: {{t|sux||tr=giriš}}
 * Susu: {{t|sus|chuani}}
 * Svan: {{t|sva|პერპელ}}
@@ -328,7 +329,6 @@ Alternate etymology connects the first element to {{m|ang|butere||butter}}, as t
 * Tigrinya: {{t+|ti|ጽምብላሊዕ|sc=Ethi}}
 * Tiwi: {{t|tiw|kwarikwaringa}}
 * Tok Pisin: {{t|tpi|bataplai}}, {{t|tpi|bembe}}
-* Trukese: [[nipwisipwis]]
 * Tshiluba: {{t|lua|bulubulu}}
 * Tsonga: {{t|ts|phapharati}}
 * Tswana: {{t|tn|serurubele}}
@@ -360,10 +360,10 @@ Alternate etymology connects the first element to {{m|ang|butere||butter}}, as t
 * Wiradhuri: {{t|wrh|buuja-buuja}}
 * Wolof: {{t|wo|lëpp-lëpp bi}}
 * Xhosa: {{t|xh|ibhabhathane}}
-* Yiddish: {{t|yi|זומער־פֿייגעלע|n|tr=zumer-feygele}}, {{t|yi|פֿלאַטערל|n|tr=flaterl}}
+* Yiddish: {{t|yi|זומער־פֿייגעלע|n}}, {{t|yi|פֿלאַטערל|n}}
 * Yindjibarndi: {{t|yij|gawarliwarli}}
 * Yoruba: {{t|yo|labalábá}}
-* Yucatec: [[pehpem]]
+* Yucatec Maya: {{t|yua|pehpem}}
 * Yup'ik: {{t|esu|caqelngataq}}
 * Zulu: {{t|zu|i(lu)vemvane}}, {{t|zu|i(li)jubajubane}}, {{t|zu|i(li)twabitwabi}}, {{t|zu|iveveshane}}, {{t+|zu|uvemvane}}
 {{trans-bottom}}
@@ -420,9 +420,7 @@ Alternate etymology connects the first element to {{m|ang|butere||butter}}, as t
 ===References===
 <references/>
 
-[[Category:en:Butterflies]]
-[[Category:en:Insects]]
-[[Category:en:Swimming]]
+{{catlangcode|en|Butterflies|Insects|Swimming}}
 
 ----
 
