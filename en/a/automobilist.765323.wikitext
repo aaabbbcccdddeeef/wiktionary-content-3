@@ -9,11 +9,35 @@
 
 ==Serbo-Croatian==
 
+===Alternative forms===
+* {{qualifier|Bosnia, Serbia}}: {{l|sh|automobìlista}}
+
+===Etymology===
+From {{m|sh|automòbīl}}.
+
+===Pronunciation===
+* {{IPA|/automobǐlist/|lang=sh}}
+* {{hyphenation|a|u|to|mo|bi|list|lang=sh}}
+
 ===Noun===
-{{sh-noun|r|g=m|аутомобилист}}
+{{sh-noun|g=m|head=automobìlist|r|аутомобилист|аутомобѝлист}}
 
 # [[driver]]
-# sports car driver
+# sports [[car]] driver
+
+====Declension====
+{{sh-decl-noun
+|automobilist|automobilisti
+|automobilista|automobilista
+|automobilistu|automobilistima
+|automobilista|automobiliste
+|automobiliste|automobilisti
+|automobilistu|automobilistima
+|automobilistom|automobilistima
+}}
+
+===References===
+* {{R:sh:HJP|e1xvXA%3D%3D}}
 
 [[et:automobilist]]
 [[el:automobilist]]
