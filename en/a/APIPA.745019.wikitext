@@ -1,10 +1,9 @@
 ==English==
 
-===Acronym===
-{{rfc-header|Acronym}}
-{{head|en|acronym}}
+===Noun===
+{{en-noun|-}}
 
-# Automatic Private [[IP]] Addressing: a safety mechanism in [[DHCP|dynamic host client processing]] to assign [[IP address]]es within a given range when the main DHCP [[mechanism]] fails.
+# {{lb|en|networking}} {{initialism of|[[automatic]] [[private]] [[IP]] [[addressing]]|dot=|lang=en}}: a safety mechanism in [[DHCP|dynamic host client processing]] to assign [[IP address]]es within a given range when the main DHCP [[mechanism]] fails.
 
 ===References===
 * http://compnetworking.about.com/cs/protocolsdhcp/g/bldef_apipa.htm
