@@ -89,6 +89,7 @@ From {{etyl|la|en}} {{term|idea|lang=la||a (Platonic) idea; archetype}}, from {{
 * Afrikaans: {{t|af|idee}}
 * Arabic: {{t|ar|فِكْرَة|f}}
 * Armenian: {{t|hy|միտք}}, {{t+|hy|գաղափար}}
+* Asturian: {{t|ast|idea|f}}
 * Bashkir: {{t|ba|төшөнсә|sc=Cyrl}}
 * Belarusian: {{t|be|ідэ́я|f|sc=Cyrl}}, {{t|be|ду́мка|f|sc=Cyrl}}
 * Bulgarian: {{t+|bg|предста́ва|f|sc=Cyrl}}, {{t+|bg|иде́я|f|sc=Cyrl}}, {{t+|bg|ми́съл|f|sc=Cyrl}}
@@ -103,6 +104,7 @@ From {{etyl|la|en}} {{term|idea|lang=la||a (Platonic) idea; archetype}}, from {{
 * Finnish: {{t+|fi|idea}}
 * French: {{t+|fr|idée|f}}
 * Friulian: {{t|fur|idee|f}}
+* Galician: {{t|gl|idea|f}}
 * Georgian: {{t|ka|იდეა}}, {{t|ka|ცნება}}
 * German: {{t+|de|Idee|f}}, {{t+|de|Ahnung|f}}
 * Greek: {{t+|el|ιδέα|f}}
@@ -211,6 +213,21 @@ From {{etyl|la|en}} {{term|idea|lang=la||a (Platonic) idea; archetype}}, from {{
 
 ----
 
+==Asturian==
+
+===Etymology===
+From {{etyl|la|ast}} {{term|idea|lang=la}}, from {{etyl|grc|ast}} {{term|ἰδέα||notion, pattern|lang=grc}}, from {{term|εἴδω||I see|lang=grc}}.
+
+===Noun===
+{{ast-noun|f|idees}}
+
+# {{l|en|idea}}
+
+====Related terms====
+* {{l|ast|ideal}}
+
+----
+
 ==Catalan==
 
 ===Etymology===
@@ -220,6 +237,9 @@ From {{etyl|la|ca}} {{term|idea|lang=la}}, from {{etyl|grc|ca}} {{term|ἰδέα
 {{ca-noun|f}}
 
 # [[#English|idea]] {{gloss|all senses}}
+
+====Related terms====
+* {{l|ca|ideal}}
 
 [[Category:ca:Thinking]]
 
@@ -256,6 +276,21 @@ From {{etyl|la|ca}} {{term|idea|lang=la}}, from {{etyl|grc|ca}} {{term|ἰδέα
 
 ====Declension====
 {{fi-decl-kulkija|ide|a}}
+
+----
+
+==Galician==
+
+===Etymology===
+From {{etyl|la|gl}} {{term|idea|lang=la}}, from {{etyl|grc|gl}} {{term|ἰδέα||notion, pattern|lang=grc}}, from {{term|εἴδω||I see|lang=grc}}.
+
+===Noun===
+{{gl-noun|f}}
+
+# {{l|en|idea}}
+
+====Related terms====
+* {{l|gl|ideal}}
 
 ----
 
@@ -336,11 +371,13 @@ From {{etyl|grc|la}} {{term|ἰδέα||notion, pattern|lang=grc}}
 
 ====Descendants====
 {{top2}}
+* Asturian: {{l|ast|idea}}
 * Catalan: {{l|ca|idea}}
 * English: {{l|en|idea}}
 * French: {{l|fr|idée}}
 * Friulian: {{l|fur|idee}}
 {{mid2}}
+* Galician: {{l|gl|idea}}
 * Italian: {{l|it|idea}}
 * Portuguese: {{l|pt|ideia}}
 * Romanian: {{l|ro|idee}}
