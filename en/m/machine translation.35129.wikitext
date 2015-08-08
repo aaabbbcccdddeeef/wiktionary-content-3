@@ -3,8 +3,8 @@
 ===Noun===
 {{en-noun|head=[[machine]] [[translation]]}}
 
-# {{context|translation studies|lang=en}} The act of [[translate|translating]] something by means of a [[machine]], especially a [[computer]].
-# {{context|translation studies|lang=en}} The act of translating a [[computer language]] into a form more directly usable by the computer.
+# {{context|translation studies|lang=en}} The act of [[translate|translating]] something from one language to another by means of a [[machine]], especially a [[computer]].
+# {{context|computing|programming|lang=en}} The act of translating a [[computer language]] into a form more directly usable by the computer.
 
 ====Related terms====
 * [[automatic translation]] ''(mostly used by non-native speakers)''
@@ -15,11 +15,25 @@
 * [[MT]]
 
 ====Translations====
-{{trans-top|act of transforming a computer language into another computer language using a computer}}
+{{trans-top|act of translating something by means of a machine}}
+* Chinese:
+*: Mandarin: {{t+|cmn|機器翻譯|sc=Hani}}, {{t|cmn|机器翻译|tr=jīqì fānyì|sc=Hani}}, {{t+|cmn|機械翻譯}}, {{t+|cmn|机械翻译|tr=jīxiè fānyì}}, {{t|cmn|計算機翻譯}}, {{t|cmn|计算机翻译|tr=jìsuànjī fānyì}}, {{t|cmn|機譯}}, {{t|cmn|机译|tr=jīyì}}
+{{trans-mid}}
+* Finnish: {{t-needed|fi}}
+* Russian: {{t-needed|ru}}
+{{trans-bottom}}
+
+{{trans-top|act of translating a computer language}}
+* Chinese: 
+*: Mandarin: {{t-needed|cmn}}
+{{trans-mid}}
+* Finnish: {{t-needed|fi}}
+* Russian: {{t-needed|ru}}
+{{trans-bottom}}
+
+{{checktrans-top}}
 * Basque: {{t|eu|itzulpengintza automatikoa}}
 * Bulgarian: {{t|bg|компютърен превод|m|tr=kompjútǎren prevód|sc=Cyrl}}
-* Chinese:
-*: Mandarin: {{t+|cmn|機器翻譯|sc=Hani}}, {{t|cmn|机器翻译|tr=jīqi fānyì|sc=Hani}}, {{t+|cmn|機械翻譯}}, {{t+|cmn|机械翻译|tr=jīxiè fānyì}}, {{t|cmn|計算機翻譯}}, {{t|cmn|计算机翻译|tr=jìsuànjī fānyì}}, {{t|cmn|機譯}}, {{t|cmn|机译|tr=jīyì}}
 * Czech: {{t|cs|strojový překlad|m}}
 * Danish: {{t|da|maskinoversættelse|c}}
 * Dutch: {{t|nl|machinevertaling|f}}, {{t+|nl|computervertaling|f}}
