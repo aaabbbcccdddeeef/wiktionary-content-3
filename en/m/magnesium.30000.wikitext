@@ -82,23 +82,23 @@ From {{etyl|NL.|en}} {{m|la|magnēsium}}, from {{suffix|Magnēsia|gloss1=region 
 * Asturian: {{t+|ast|magnesiu}}
 * Azeri: {{t|az|maqnezium}}
 * Basque: {{t|eu|magnesioa}}
-* Belarusian: {{t|be|магній|m|tr=mahnij}}
+* Belarusian: {{t|be|магній|m}}
 * Bengali: {{t|bn|ম্যাগনেসিয়াম|sc=Beng|tr=myāgnēsiẏām}}
 * Breton: {{t|br|magneziom|m}}, {{t|br|magnesiom}}
-* Bulgarian: {{t+|bg|магнезий|m|tr=magnézij}}
+* Bulgarian: {{t+|bg|магне́зий|m}}
 * Catalan: {{t|ca|magnesi}}
 * Cebuano: {{t|ceb|magnesium}}
 * Chinese:
 *: Mandarin: {{t+|cmn|鎂|sc=Hani}}, {{t+|cmn|镁|tr=měi|sc=Hani}}
 * Cornish: {{t|kw|magnysyum}}
 * Corsican: {{t|co|magnesiu}}
-* Czech: {{t+|cs|hořčík}}
+* Czech: {{t+|cs|hořčík|m}}
 * Danish: {{t|da|magnesium|n}}
 * Dhivehi: {{t|dv|މެގްނީޒިއަމް|tr=megnīzi‘am}}
 * Dutch: {{t+|nl|magnesium|n}}
 * Esperanto: {{t+|eo|magnezio}}
 * Estonian: {{t|et|magneesium}}
-* Faroese: {{t|fo|magnesium}}
+* Faroese: {{t|fo|magnesium|n}}
 * Finnish: {{t+|fi|magnesium}}
 * French: {{t+|fr|magnésium|m}}
 * Friulian: {{t|fur|magnesi}}
@@ -119,9 +119,9 @@ From {{etyl|NL.|en}} {{m|la|magnēsium}}, from {{suffix|Magnēsia|gloss1=region 
 * Italian: {{t+|it|magnesio|m}}
 * Japanese: {{t+|ja|マグネシウム|tr=maguneshiumu}}, {{t|ja|苦土素|tr=kudoso|sc=Jpan}}
 * Javanese: {{t|jv|magnesium}}
-* Kannada: {{t|kn|ಮ್ಯಗ್ನೀಶಿಯಮ್|sc=Knda|tr=myagnīśiyam}}
+* Kannada: {{t|kn|ಮ್ಯಗ್ನೀಶಿಯಮ್|sc=Knda}}
 * Kashubian: {{t|csb|magnéz}}
-* Kazakh: {{t|kk|магний|tr=magnij|sc=Cyrl}}
+* Kazakh: {{t|kk|магний|sc=Cyrl}}
 * Khmer: {{t|km|ម៉ាញ៉េស៊ីយ៉ុម|tr=maañeesiiyoom|sc=Khmr}}
 {{trans-mid}}
 * Korean: {{t+|ko|마그네슘|sc=Hang}}
@@ -136,11 +136,11 @@ From {{etyl|NL.|en}} {{m|la|magnēsium}}, from {{suffix|Magnēsia|gloss1=region 
 * Luxembourgish: {{t|lb|Magnesium}}
 * Macedonian: {{t|mk|магнезиум}}
 * Malay: {{t|ms|magnesium}}
-* Malayalam: {{t|ml|മഗ്നീഷ്യം|sc=Mlym|tr=magnīṣyaṁ}}
+* Malayalam: {{t|ml|മഗ്നീഷ്യം|sc=Mlym}}
 * Maltese: {{t|mt|magneżju}}
 * Manx: {{t|gv|magnaishum}}
 * Maori: {{t|mi|konupora}}
-* Mongolian: {{t|mn|магни|tr=[[ᠮᠠᠭᠨᠢ]], magni|sc=Cyrl}}
+* Mongolian: {{t|mn|магни}}, {{t|mn|ᠮᠠᠭᠨᠢ|tr=magni}}
 * Navajo: {{t|nv|béésh łikoní}}
 * Norwegian:
 *: Bokmål: {{t+|no|magnesium|m|n}}
@@ -163,12 +163,12 @@ From {{etyl|NL.|en}} {{m|la|magnēsium}}, from {{suffix|Magnēsia|gloss1=region 
 * Spanish: {{t+|es|magnesio|m}}
 * Swahili: {{t|sw|magnesi}}
 * Swedish: {{t+|sv|magnesium|n}}
-* Tajik: {{t|tg|магний|tr=magni'|sc=Cyrl}}
-* Tamil: {{t|ta|மக்னீசியம்|tr=makṉīciyam}}, {{t|ta|வல்லகுவம்|tr=vallakuvam}}
+* Tajik: {{t|tg|магний|sc=Cyrl}}
+* Tamil: {{t|ta|மக்னீசியம்}}, {{t|ta|வல்லகுவம்}}
 * Thai: {{t|th|แมกนีเซียม|tr=maeknīsiam}}
 * Turkish: {{t+|tr|magnezyum}}
-* Ukrainian: {{t|uk|магній|m|tr=máhnij}}
-* Uzbek: {{t|uz|магний|tr=magniy|sc=Cyrl}}
+* Ukrainian: {{t|uk|ма́гній|m}}
+* Uzbek: {{t|uz|magniy}}, {{t|uz|магний|sc=Cyrl}}
 * Vietnamese: {{t|vi|magiê}}
 * Welsh: {{t+|cy|magnesiwm}}
 * West Frisian: {{t+|fy|magnesium}}
@@ -246,7 +246,7 @@ From {{etyl|NL.|en}} {{m|la|magnēsium}}, from {{suffix|Magnēsia|gloss1=region 
 ===Noun===
 {{fi-noun}}
 
-# [[#English|magnesium]]
+# {{l|en|magnesium}}
 
 ====Declension====
 {{fi-decl-risti|n=sg|magnesium|||a|i=0}}
@@ -308,7 +308,7 @@ From {{m|la|Magnēsia}}, a region in Thessaly.
 ===Noun===
 {{li-noun|g=n}}
 
-# {{context|uncountable|lang=li}} [[magnesium#English|magnesium]]
+# {{context|uncountable|lang=li}} {{l|en|magnesium}}
 # A [[part]] of magnesium
 
 ====Inflection====
@@ -335,7 +335,7 @@ From {{etyl|en|ms}} {{term|magnesium|lang=en}}, from {{etyl|NL.|ms}} {{m|la|magn
 ===Noun===
 {{head|ms|noun|Jawi spelling|مݢنيسيوم}}
 
-# [[#English|magnesium]] {{gloss|chemical element}}
+# {{l|en|magnesium}} {{gloss|chemical element}}
 
 ----
 
@@ -348,7 +348,7 @@ From {{etyl|en|ms}} {{term|magnesium|lang=en}}, from {{etyl|NL.|ms}} {{m|la|magn
 ===Noun===
 {{sv-noun|n|-}}
 
-# [[#English|magnesium]]
+# {{l|en|magnesium}}
 
 ====Declension====
 {{sv-noun-unc-irreg-n|2=magnesiumet}}
