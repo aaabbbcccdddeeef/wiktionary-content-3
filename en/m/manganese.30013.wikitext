@@ -8,7 +8,7 @@
 * [[manganesum]] {{qualifier|obsolete}}
 
 ===Etymology===
-{{etyl|fr|en}} {{term|manganèse|lang=fr}}, from {{etyl|it|en}} {{term|manganese|lang=it}}, by alteration from {{etyl|la|en}} {{term|magnesia||magnesia|lang=la}}, from {{etyl|grc|en}} {{term|μαγνησία|lang=grc}}, after {{term|Μαγνησία||[[Magnesia]]|lang=grc}}.
+{{etyl|fr|en}} {{m|fr|manganèse}}, from {{etyl|it|en}} {{m|it|manganese}}, by alteration from {{etyl|la|en}} {{m|la|magnesia||magnesia}}, from {{etyl|grc|en}} {{m|grc|μαγνησία}}, after {{m|grc|Μαγνησία||[[Magnesia]]}}.
 
 ===Pronunciation===
 * {{a|US}} {{IPA|/ˈmæŋɡəniz/|lang=en}}
@@ -110,9 +110,9 @@
 * Armenian: {{t|hy|մանգան}}
 * Asturian: {{t|ast|manganesu|m}}
 * Basque: {{t|eu|manganesoa}}
-* Belarusian: {{t|be|марганец|tr=márhanets|m}}
+* Belarusian: {{t|be|ма́рганец|m}}
 * Breton: {{t|br|manganez|m}}
-* Bulgarian: {{t|bg|манган|m|tr=mangán}}
+* Bulgarian: {{t|bg|манга́н|m}}
 * Catalan: {{t|ca|manganès|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|錳|tr=měng|sc=Hani}}
@@ -122,7 +122,7 @@
 * Dutch: {{t+|nl|mangaan|n}}, {{t|nl|manganium|n}}
 * Esperanto: {{t+|eo|mangano}}
 * Estonian: {{t|et|mangaan}}
-* Faroese: {{t|fo|mangan}}
+* Faroese: {{t|fo|mangan|n}}
 * Finnish: {{t+|fi|mangaani}}
 * French: {{t+|fr|manganèse|m}}
 * Friulian: {{t|fur|manganês}}
@@ -140,17 +140,17 @@
 * Japanese: {{t+|ja|マンガン|tr=mangan}}, {{qualifier|obsolete}} {{t|ja|満俺|tr=mangan}}
 * Kashubian: {{t|csb|mangan}}
 {{trans-mid}}
-* Kazakh: {{t|kk|марганец|tr=marganets|sc=Cyrl}}
+* Kazakh: {{t|kk|марганец|sc=Cyrl}}
 * Korean: {{t+|ko|망간|tr=manggan}}, {{t+|ko|망가니즈|sc=Hang}}
 * Latin: {{t+|la|manganum}}
 * Latvian: {{t|lv|mangāns}}
 * Lithuanian: {{t+|lt|manganas}}
 * Luxembourgish: {{t|lb|Mangan}}
-* Macedonian: {{t|mk|манган|tr=mangan|m}}
+* Macedonian: {{t|mk|манган|m}}
 * Malay: {{t|ms|mangan}}, {{t|ms|batu kawi}}
 * Maltese: {{t|mt|manganiż}}
 * Manx: {{t|gv|manganais}}
-* Mongolian: {{t|mn|манган|tr=mangan}}
+* Mongolian: {{t|mn|манган}}
 * Norwegian: {{t+|no|mangan}}
 * Persian: {{t+|fa|منگنز|tr=mangènèz}}
 * Polish: {{t+|pl|mangan|m}}
@@ -161,16 +161,16 @@
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|ма̀нга̄н|m|sc=Cyrl}}
 *: Roman: {{t|sh|màngān|m}}
-* Slovak: {{t|sk|mangán}}
-* Slovene: {{t+|sl|mangan}}
+* Slovak: {{t|sk|mangán|m}}
+* Slovene: {{t+|sl|mangan|m}}
 * Spanish: {{t+|es|manganeso|m}}
 * Swedish: {{t+|sv|mangan|n}}
-* Tajik: {{t|tg|mangan}}
-* Tamil: {{t|ta|செவ்விரும்பு|tr=sevvirumbu}}
+* Tajik: {{t|tg|манган}}
+* Tamil: {{t|ta|செவ்விரும்பு}}
 * Thai: {{t|th|แมงกานีส|tr=maengkānīt}}
 * Turkish: {{t+|tr|mangan}}
-* Ukrainian: {{t|uk|марганець|tr=marhanets’|m}}
-* Uzbek: {{t|uz|марганец|tr=marganets|sc=Cyrl}}
+* Ukrainian: {{t|uk|марганець|m}}
+* Uzbek: {{t|uz|marganets}}, {{t|uz|марганец|sc=Cyrl}}
 * Vietnamese: {{t|vi|mangan}}
 * Volapük: {{t+|vo|manganin}}
 * Welsh: {{t+|cy|manganîs}}
@@ -197,7 +197,7 @@
 ===Noun===
 {{it-noun|m}}
 
-# [[#English|manganese]]
+# {{m|it|manganese}}
 
 ====Related terms====
 * [[manganico]]
