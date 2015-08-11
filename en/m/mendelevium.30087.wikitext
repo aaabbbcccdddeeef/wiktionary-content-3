@@ -25,19 +25,19 @@ Named after the scientist [[w:Dmitri Mendeleev|Dmitri Mendeleev]], who is the cr
 * Armenian: {{t|hy|մենդելեւիում}}
 * Asturian: {{t|ast|mendeleviu|m}}
 * Basque: {{t|eu|mendelebioa}}
-* Belarusian: {{t|be|мендзялевiй|m|tr=mendzjalévij|sc=Cyrl}}
+* Belarusian: {{t|be|мендзяле́вiй|m|sc=Cyrl}}
 * Breton: {{t|br|mendeleviom}}
-* Bulgarian: {{t|bg|менделевий|m|tr=mendelévij}}
+* Bulgarian: {{t|bg|менделе́вий|m}}
 * Catalan: {{t|ca|mendelevi}}
 * Chinese:
 *: Mandarin: {{t+|cmn|鍆}}, {{t+|cmn|钔|tr=mén}}
 * Cornish: {{t|kw|mendelevyum}}
 * Czech: {{t+|cs|mendelevium}}
-* Danish: {{t|da|mendelevium}}
+* Danish: {{t|da|mendelevium|n}}
 * Dutch: {{t+|nl|mendelevium|n}}
 * Esperanto: {{t|eo|mendelevio}}
 * Estonian: {{t|et|mendeleevium}}
-* Faroese: {{t|fo|mendelevium}}
+* Faroese: {{t|fo|mendelevium|n}}
 * Finnish: {{t+|fi|mendelevium}}
 * French: {{t+|fr|mendélévium|m}}
 * Friulian: {{t|fur|mendelevi}}
@@ -53,17 +53,17 @@ Named after the scientist [[w:Dmitri Mendeleev|Dmitri Mendeleev]], who is the cr
 * Japanese: {{t+|ja|メンデレビウム|tr=menderebiumu}}
 * Kashubian: {{t|csb|mendeléw}}
 {{trans-mid}}
-* Kazakh: {{t|kk|менделевий|tr=mendelevii|sc=Cyrl}}
+* Kazakh: {{t|kk|менделевий|sc=Cyrl}}
 * Korean: {{t+|ko|멘델레븀|sc=Kore}}
 * Latin: {{t|la|mendelelevium}}
 * Latvian: {{t|lv|mendelevijs}}
 * Lithuanian: {{t+|lt|mendelevis}}
 * Luxembourgish: {{t|lb|Mendelevium}}
-* Macedonian: {{t|mk|менделевиум|m|tr=mendelévium|sc=Cyrl}}
+* Macedonian: {{t|mk|менделевиум|m|sc=Cyrl}}
 * Malay: {{t|ms|mendelevium}}
 * Maltese: {{t|mt|mendelevjum}}
 * Manx: {{t|gv|mendelevium}}
-* Mongolian: {{t|mn|менделеби|tr=mendelebi|sc=Cyrl}}
+* Mongolian: {{t|mn|менделеби|sc=Cyrl}}
 * Norwegian: {{t|no|mendelevium}}
 * Polish: {{t+|pl|mendelew|m}}
 * Portuguese: {{t+|pt|mendelévio|m}}
@@ -72,16 +72,16 @@ Named after the scientist [[w:Dmitri Mendeleev|Dmitri Mendeleev]], who is the cr
 * Scottish Gaelic: {{t|gd|meindilèiviam}}
 * Serbo-Croatian: {{t|sh|мендељевиj|m|sc=Cyrl}}, {{t|sh|мендељевиjум|m|sc=Cyrl}}
 *: Roman: {{t|sh|mendeljevij}}, {{t|sh|mendeljevijum}}
-* Slovak: {{t|sk|mendelevium}}
+* Slovak: {{t|sk|mendelevium|n}}
 * Slovene: {{t+|sl|mendelevij|m}}
 * Spanish: {{t+|es|mendelevio|m}}
 * Swedish: {{t+|sv|mendelevium}}
-* Tajik: {{t|tg|mendelevi'|sc=Cyrl}}
-* Tamil: {{t|ta|மெண்டலேவியம்|tr=meņţalēviyam|sc=Taml}}
+* Tajik: {{t|tg|менделевий|sc=Cyrl}}
+* Tamil: {{t|ta|மெண்டலேவியம்|sc=Taml}}
 * Thai: {{t|th|เมนเดลีเวียม|tr=mēndēlīwiam|sc=Thai}}
 * Turkish: {{t+|tr|mendelevyum}}
-* Ukrainian: {{t|uk|менделєвiй|m|tr=mendeljévij|sc=Cyrl}}
-* Uzbek: {{t|uz|менделеевий|sc=Cyrl|tr=mendeleeviy}}
+* Ukrainian: {{t|uk|менделє́вiй|m|sc=Cyrl}}
+* Uzbek: {{t|uz|mendeleviy}}, {{t|uz|менделеевий|sc=Cyrl|tr=mendeleeviy}}
 * Vietnamese: {{t|vi|menđelevi}}
 * Volapük: {{t|vo|mendelevin}}
 * Welsh: {{t|cy|mendelefiwm}}
@@ -165,6 +165,9 @@ From {{etyl|en|ms}} {{term|mendelevium|lang=en}}.
 {{sk-noun|g=n|gen=mendelevia|decl=mesto}}
 
 # {{l|en|mendelevium}} {{gloss|element}}
+
+====Declension====
+{{sk-decl-noun-sg|mendelevium|mendelevia|mendeleviu|mendelevium|mendeleviu|mendeleviom}}
 
 ===External links===
 * {{R:SDK}}
