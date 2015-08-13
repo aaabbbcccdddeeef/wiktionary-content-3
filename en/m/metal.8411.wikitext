@@ -81,22 +81,22 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|metal||metal|lang=fro}}, from 
 * Avar: {{t|av|металл|sc=Cyrl}}
 * Azeri: {{t|az|metal}}
 * Basque: {{t+|eu|metal}}
-* Belarusian: {{t|be|метал|m|tr=metál|sc=Cyrl}}
+* Belarusian: {{t|be|мета́л|m|sc=Cyrl}}
 * Bengali: {{t+|bn|ধাতু|tr=dhatu|sc=Beng}}
-* Breton: metal {{g|m}}, -où {{g|p}}
-* Bulgarian: {{t+|bg|метал|m|tr=metál|sc=Cyrl}}
-* Burmese: {{t+|my|သတ္တု|tr=thá tu.|sc=Mymr}}
+* Breton: {{t|br|metal|m}}, -où {{g|p}}
+* Bulgarian: {{t+|bg|мета́л|m|sc=Cyrl}}
+* Burmese: {{t+|my|သတ္တု|sc=Mymr}}
 * Catalan: {{t+|ca|metall}}
 * Chechen: {{t|ce|металл}}
 * Chinese:
 *: Mandarin: {{t+|cmn|金屬|sc=Hani}}, {{t+|cmn|金属|tr=jīnshǔ|sc=Hani}}, {{t+|cmn|金|tr=jīn|sc=Hani}}
 * Czech: {{t+|cs|kov|m}}
-* Danish: {{t+|da|metal}}
+* Danish: {{t+|da|metal|n}}
 * Dutch: {{t+|nl|metaal|n}}
 * Esperanto: {{t|eo|metalo}}
 * Estonian: {{t|et|metall}}
 * Ewe: {{t|ee|ga}}
-* Faroese: {{t|fo|málmur}}, {{t|fo|skervur}}, {{t|fo|málmbland}}
+* Faroese: {{t|fo|málmur|m}}, {{t|fo|skervur|m}}, {{t|fo|málmbland|n}}
 * Finnish: {{t+|fi|metalli}}
 * French: {{t+|fr|métal|m}}, {{t+|fr|métaux|p}}
 * Georgian: {{t|ka|ლითონი}}, {{t|ka|მეტალი}}
@@ -114,24 +114,24 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|metal||metal|lang=fro}}, from 
 * Irish: {{t+|ga|miotal|m}}
 * Italian: {{t+|it|metallo}}
 * Japanese: {{t+|ja|金属|tr=きんぞく, kinzoku|sc=Jpan}}
-* Kazakh: {{t|kk|метал|tr=metal|sc=Cyrl}}
+* Kazakh: {{t|kk|метал|sc=Cyrl}}
 {{trans-mid}}
 * Khmer: {{t|km|លោហធាតុ|tr=loo haa tʰiet|sc=Khmr}}
 * Korean: {{t+|ko|쇠|sc=Kore}}, {{t+|ko|금속|sc=Kore}} ({{t+|ko|金屬|sc=Kore}})
-* Kyrgyz: {{t|ky|металл|tr=metall|sc=Cyrl}}
-* Lao: {{t|lo|ໂລຫະ|tr=lóː há|sc=Laoo}}
+* Kyrgyz: {{t|ky|металл|sc=Cyrl}}
+* Lao: {{t|lo|ໂລຫະ|sc=Laoo}}
 * Latin: {{t+|la|metallum|n}}
 * Latvian: {{t+|lv|metāls|m}}
 * Lithuanian: {{t+|lt|metalas|m}}
-* Macedonian: {{t|mk|метал|m|tr=metal|sc=Cyrl}}
+* Macedonian: {{t|mk|метал|m|sc=Cyrl}}
 * Malay: {{t+|ms|logam}}
 * Maori: {{t|mi|maitai}}, {{t|mi|mētara}}
-* Mongolian: {{t|mn|металл|tr=metall|sc=Cyrl}}
+* Mongolian: {{t|mn|металл|sc=Cyrl}}
 * Navajo: {{t|nv|béésh}}
 * Norwegian:
 *: Bokmål: {{t+|nb|metall|n}}
 *: Nynorsk: {{t|nn|metall|n}}
-* Ossetian: {{t|os|згъæр|sc=Cyrl}}, {{t|os|металл|sc=Cyrl}}
+* Ossetian: {{t|os|згъӕр|sc=Cyrl}}, {{t|os|металл|sc=Cyrl}}
 * Pashto: {{t+|ps|زر|tr=''zar'', metal, gold}}
 * Persian: {{t+|fa|فلز|tr=felez|sc=fa-Arab}}
 * Polish: {{t+|pl|metal|m}}
@@ -148,15 +148,15 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{term|metal||metal|lang=fro}}, from 
 * Swahili: {{t+|sw|metali}}
 * Swedish: {{t+|sv|metall|c}}
 * Tagalog: {{t+|tl|bakal}}, {{t|tl|metal}}
-* Tajik: {{t|tg|металл|tr=metall|sc=Cyrl}}, {{t|tg|фулуз|tr=fuluz|sc=Cyrl}}
-* Telugu: [[లోహము]] (lohamu) (1, 2)
+* Tajik: {{t|tg|металл|sc=Cyrl}}, {{t|tg|фулуз|sc=Cyrl}}
+* Telugu: {{t|te|లోహము}} (lohamu) (1, 2)
 * Thai: {{t+|th|โลหะ|tr=loh-hà|sc=Thai}}
 * Tibetan: {{t|bo|ལྕགས་རིགས|sc=Tibt}}
 * Tupinambá: {{t|tpn|itá}}
 * Turkish: {{t+|tr|metal}}
 * Turkmen: {{t|tk|metal}}
-* Tuvan: {{t|tyv|демир|tr=demir}}
-* Ukrainian: {{t+|uk|метал|m|tr=metál}}
+* Tuvan: {{t|tyv|демир}}
+* Ukrainian: {{t+|uk|мета́л|m}}
 * Urdu: {{t|ur|دھات|m|tr=dhāt|sc=ur-Arab}}
 * Uzbek: {{t|uz|metall}}
 * Vietnamese: {{t+|vi|kim loại}}
@@ -314,7 +314,7 @@ From {{etyl|la|pl}} {{term|metallum|lang=la}}
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|roa-opt|pt}} {{term|metal|lang=roa-opt}}, from {{etyl|osp|pt}} {{term|metal|lang=osp}}, from {{etyl|ca|pt}} {{term|metall|lang=osp}}, from {{etyl|la|pt}} {{term|metallum||metal, mine, quarry, mineral|lang=la}}, from {{etyl|grc|pt}} {{term|μέταλλον||mine, quarry, metal|lang=grc}}, from {{term|μέταλλευειν||to mine, quarry|lang=grc}}, of unknown origin.
+From {{etyl|roa-opt|pt}} {{m|roa-opt|metal}}, from {{etyl|osp|pt}} {{m|osp|metal}}, from {{etyl|ca|pt}} {{m|osp|metall}}, from {{etyl|la|pt}} {{m|la|metallum||metal, mine, quarry, mineral}}, from {{etyl|grc|pt}} {{m|grc|μέταλλον||mine, quarry, metal}}, from {{m|grc|μέταλλευειν||to mine, quarry}}, of unknown origin.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|/mɨ.ˈtaɫ/|lang=pt}}
