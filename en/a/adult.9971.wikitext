@@ -147,7 +147,7 @@
 ==Romanian==
 
 ===Etymology===
-{{etyl|fr|ro}} {{term|adulte|lang=fr}}, {{etyl|la|ro}} {{term|adultus|lang=la}}. See above.
+From {{etyl|fr|ro}} {{term|adulte|lang=fr}}, {{etyl|la|ro}} {{term|adultus|lang=la}}. See above.
 
 ===Adjective===
 {{ro-adj|4}}
@@ -155,25 +155,7 @@
 # [[adult#Adjective|adult]]
 
 ====Declension====
-{|style="background:#F0F0F0"
-
-|-
-! colspan="2" style="background:#e2e4c0"|singular
-! colspan="2" style="background:#e2e4c0"|plural
-
-|-
-! style="width:10em;background:#C0C0C0"|masculine & neuter
-! style="width:10em;background:#C0C0C0"|feminine
-! style="width:10em;background:#C0C0C0"|masculine
-! style="width:10em;background:#C0C0C0"|feminine & neuter
-
-|-
-|adult
-|adultă
-|adulți
-|adulte
-|}
-{{attention|ro|needs proper inflection table}}
+{{ro-adj-4|mp=adulți}}
 
 ===Noun===
 {{ro-noun|m|adulți|f=adultă}}
@@ -181,9 +163,10 @@
 # [[adult#Noun|adult]]
 
 ====Declension====
-{{ro-noun-m|def=adultul|pl=adulți}}
+{{ro-noun-m|pl=adulți}}
 
 [[Category:ro:People]]
+[[Category:ro:Age]]
 
 [[ar:adult]]
 [[ca:adult]]
