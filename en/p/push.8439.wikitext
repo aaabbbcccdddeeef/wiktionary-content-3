@@ -40,22 +40,25 @@
 # {{context|computing|lang=en}} To add (a data item) to the top of a [[stack]].
 #* '''1992''', Michael A. Miller, ''The 68000 Microprocessor Family: Architecture, Programming, and Applications'' (page 47)
 #*: When the microprocessor decodes the JSR opcode, it stores the operand into the TEMP register and '''pushes''' the current contents of the PC ($00 0128) onto the stack.
+# {{cx|computing|lang=en}} To [[publish]] (an update, etc.) by transmitting it to other computers.
+#* '''2002''', Lars Powers, Mike Snell, ''Visual Basic Programmer's Guide to the .NET Framework Class Library'' (page 968)
+#*: Because this version of the Windows Installer is aware of the GAC, it has the capability to publish components into it. {{...}} You can manually or programmatically '''push''' an assembly into the GAC by using the command-line tool Gacutil.exe.
 # {{context|obsolete|lang=en}} To thrust the points of the horns against; to [[gore]].
 #* Bible, Exodus xxi. 32
 #*: If the ox shall '''push''' a manservant or maidservant, {{...}} the ox shall be stoned.
 # To burst out of its pot, as a bud or shoot.
 
 =====Synonyms=====
-* {{sense|transitive: apply a force to (an object) so it moves away}} to [[press]], to [[shove]], to [[thrutch]]
-* {{sense|continue to attempt to persuade}} to [[press]], to [[urge]]
-* {{sense|continue to promote}} to [[press]], to [[advertise]], to [[promote]]
-* {{sense|come close to}} to [[approach]], to [[near]]
-* {{sense|intransitive: apply force to an object so that it moves away}} to [[press]], to [[shove]], to [[thring]]
-* {{sense|tense the muscles in the abdomen in order to expel its contents}} to [[bear down]]
+* {{sense|transitive: apply a force to (an object) so it moves away}} [[press]], [[shove]], [[thrutch]]
+* {{sense|continue to attempt to persuade}} [[press]], [[urge]]
+* {{sense|continue to promote}} [[press]], [[advertise]], [[promote]]
+* {{sense|come close to}} [[approach]], [[near]]
+* {{sense|intransitive: apply force to an object so that it moves away}} [[press]], [[shove]], [[thring]]
+* {{sense|tense the muscles in the abdomen in order to expel its contents}} [[bear down]]
 
 =====Antonyms=====
-* {{sense|apply a force to something so it moves away}} to [[draw]], to [[pull]], to [[tug]]
-* {{sense|put onto a stack}} to [[pop]]
+* {{sense|apply a force to something so it moves away}} [[draw]], [[pull]], [[tug]]
+* {{sense|put onto a stack}} [[pop]]
 
 =====Derived terms=====
 {{rel-top3|Terms derived from ''push'' (verb)}}
