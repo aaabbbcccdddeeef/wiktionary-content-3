@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-{{etyl|enm|en}} {{term|opinion|lang=enm}}, {{term|opinioun|lang=enm}}, from {{etyl|xno|en}} and {{etyl|frm|en}} {{term|opinion|lang=frm}}<!--note, have to specify a language here to avoid a self-link-->, from {{etyl|la|en}} {{term|opinio|lang=la}}, from {{term|opinor||to opine|lang=la}}.
+{{etyl|enm|en}} {{m|enm|opinion}}, {{m|enm|opinioun}}, from {{etyl|xno|en}} and {{etyl|frm|en}} {{m|frm|opinion}}<!--note, have to specify a language here to avoid a self-link-->, from {{etyl|la|en}} {{m|la|opinio}}, from {{m|la|opinor||to opine}}.
 
 ===Pronunciation===
 * {{IPA|/əˈpɪnjən/|lang=en}}
@@ -57,12 +57,12 @@
 * Armenian: {{t|hy|կարծիք}}
 * Asturian: {{t+|ast|opinión|f}}
 * Basque: {{t|eu|iritzi}}
-* Bulgarian: {{t+|bg|мнение|n|tr=mnenie}}, {{t+|bg|възглед|m|tr=vǎzgled}}, {{t+|bg|схващане|n|tr=sxvaštane}}
+* Bulgarian: {{t+|bg|мнение|n}}, {{t+|bg|възглед|m}}, {{t+|bg|схващане|n}}
 * Catalan: {{t|ca|opinió|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|意見|sc=Hani}}, {{t+|cmn|意见|tr=yìjiàn|sc=Hani}}, {{t+|cmn|看法|tr=kànfǎ|sc=Hani}}, {{t+|cmn|見解|sc=Hani}}, {{t+|cmn|见解|tr=jiànjiě|sc=Hani}}
 * Czech: {{t+|cs|názor|m}}
-* Danish: {{t|da|opinion}}
+* Danish: {{t|da|mening|c}}
 * Dutch: {{t+|nl|mening|f}}, {{t+|nl|opinie|f}}, {{t+|nl|visie|f}}, {{t+|nl|zienswijze|f}}, {{t+|nl|gedachte|f}}
 * Esperanto: {{t|eo|opinio}}
 * Estonian: {{t|et|arvamus}}
@@ -89,7 +89,7 @@
 * Luxembourgish: {{t+|lb|Meenung|f}}, {{t|lb|Avis|m}}, {{t|lb|Usiicht|f}}
 * Malay: {{t|ms|pendapat}}
 * Maltese: {{t|mt|fehma|f}}, {{t|mt|opinjoni|f}}
-* Mongolian: {{t|mn|санал|tr=sanal}}
+* Mongolian: {{t|mn|санал}}
 * Norwegian: {{t+|no|mening}}, {{t|no|synspunkt|n}}
 * Persian: {{t+|fa|نظر|tr=nazar}}, {{t+|fa|عقیده|tr=aqide}}, {{t+|fa|رأی|tr=rā’i}}
 * Polish: {{t+|pl|opinia|f}}
@@ -105,7 +105,7 @@
 * Spanish: {{t+|es|opinión|f}}
 * Swahili: {{t+|sw|oni}}
 * Swedish: {{t+|sv|mening|c}}, {{t+|sv|uppfattning|c}}, {{t+|sv|omdöme|n}}, {{t+|sv|tycke|n}}, {{t+|sv|åsikt|c}}
-* Telugu: {{t|te|అభిప్రయము|tr=abhiprayamu|sc=Telu}}
+* Telugu: {{t|te|అభిప్రయము|sc=Telu}}
 * Thai: {{t|th|ความเห็น|tr=kwaam hĕn}}
 * Tok Pisin: {{t|tpi|tingting}}
 * Turkish: {{t+|tr|görüş}}
@@ -117,7 +117,7 @@
 {{trans-bottom}}
 
 {{trans-top|EU: A judicial opinion by an Advocate General delivered to the European Court of Justice}}
-* Bulgarian: {{t+|bg|заключение|tr=zakljuchenie |sc=Cyrl}}
+* Bulgarian: {{t+|bg|заключение|sc=Cyrl}}
 * Czech: {{t|cs|stanovisko|n}}
 * Dutch: {{t+|nl|conclusie|f}}
 * Estonian: {{t|et|ettepanek}}
@@ -146,7 +146,7 @@
 * Dutch: {{t|nl|van mening zijn dat}}, {{t|nl|opiniëren}}
 * Polish: {{t|pl|opiniować}}, {{t|pl|wydawać opinię}}
 {{trans-mid}}
-* Telugu: {{t|te|ఆభిప్రాయపడుట|tr=abhiprayapaduta|sc=Telu}}
+* Telugu: {{t|te|ఆభిప్రాయపడుట|sc=Telu}}
 {{trans-bottom}}
 
 ===Statistics===
