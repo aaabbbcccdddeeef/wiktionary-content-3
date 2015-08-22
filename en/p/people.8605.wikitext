@@ -1,9 +1,9 @@
 ==English==
 
 ===Etymology===
-From {{etyl|enm|en}} {{term|peple|||lang=enm}}, {{term|peple|peeple||lang=enm}}, from {{etyl|xno|en}} {{term|people|lang=fro}}, from {{etyl|fro|en}} {{term|pueple|pueple, peuple|lang=fro}}, {{term|pople|lang=fro}} (modern {{etyl|fr|-}} {{term|peuple|lang=fr}}), from {{etyl|la|en}} {{term|populus||people|lang=la}}, of unknown origin. Probably of non-[[Indo-European]] origin, from {{etyl|ett|en}}. Gradually ousted native {{etyl|enm|-}} {{term|leed|lede, leed|people|lang=enm}} (from {{etyl|ang|-}} {{m|ang|lēode}}) - compare modern {{etyl|de|-}} {{term|Leute||people|lang=de}}.
+From {{etyl|enm|en}} {{m|enm|peple}}, {{m|enm|peple|peeple}}, from {{etyl|xno|en}} {{m|fro|people}}, from {{etyl|fro|en}} {{m|fro|pueple|pueple, peuple}}, {{m|fro|pople}} (modern {{etyl|fr|-}} {{m|fr|peuple}}), from {{etyl|la|en}} {{m|la|populus||people}}, of unknown origin. Probably of non-[[Indo-European]] origin, from {{etyl|ett|en}}. Gradually ousted native {{etyl|enm|-}} {{m|enm|leed|lede, leed|people}} (from {{etyl|ang|-}} {{m|ang|lēode}}) - compare modern {{etyl|de|-}} {{m|de|Leute||people}}.
 
-Originally a singular noun (e.g. ''The people is hungry, and weary, and thirsty, in the wilderness'' --2 Samuel 17:29, King James Version), the plural aspect of ''people'' is probably due to influence from {{etyl|enm|-}} {{term|lede||lang=enm}}, {{term|leed||lang=enm}}, a plural since {{etyl|ang|-}} times (compare {{etyl|ang|-}} {{term|leod|lēode|people, men, persons|lang=ang}}, plural of {{etyl|ang|-}} {{m|ang|lēod||man, person}}). See also {{l|en|lede}}, {{l|en|leod}}.
+Originally a singular noun (e.g. ''The people is hungry, and weary, and thirsty, in the wilderness'' --2 Samuel 17:29, King James Version), the plural aspect of ''people'' is probably due to influence from {{etyl|enm|-}} {{m|enm|lede}}, {{m|enm|leed}}, a plural since {{etyl|ang|-}} times (compare {{etyl|ang|-}} {{m|ang|leod|lēode|people, men, persons}}, plural of {{etyl|ang|-}} {{m|ang|lēod||man, person}}). See also {{l|en|lede}}, {{l|en|leod}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈpiːpəl/|lang=en}}
@@ -104,7 +104,7 @@ When used to mean "persons" (meaning 1 below), "people" today takes a plural ver
 * Dutch: {{t+|nl|mensen|p}}, {{t+|nl|lui|p}}, {{t+|nl|volk|n}}, {{t+|nl|personen|p}}
 * Esperanto: {{t+|eo|homoj}}
 * Estonian: {{t+|et|inimesed|p}}
-* Faroese: {{t|fo|tjóð}}
+* Faroese: {{t|fo|tjóð|f}}, {{t|fo|fólk|n}}
 * Finnish: {{t+|fi|väki}}, {{t+|fi|ihmiset|p}}
 * French: {{t+|fr|gens|p}}
 *: Old French: {{t|fro|gent|f}}
@@ -118,7 +118,7 @@ When used to mean "persons" (meaning 1 below), "people" today takes a plural ver
 * Hebrew: {{t|he|אֲנָשִׁים|m-p|tr=anashim}}
 * Hindi: {{t|hi|लोग|tr=log|sc=Deva}}, {{t|hi|जनता|f|tr=jantā|sc=Deva}}
 * Hungarian: {{t+|hu|emberek}}
-* Icelandic: {{t+|is|þjóð}}
+* Icelandic: {{t+|is|þjóð|f}}
 * Interlingua: {{t|ia|personas|p}}, {{t|ia|gente}}
 * Irish: {{t|ga|daoine|p}}, {{t|ga|lucht|m}}
 * Istriot: {{t|ist|zento|m}}
@@ -130,8 +130,8 @@ When used to mean "persons" (meaning 1 below), "people" today takes a plural ver
 * Korean: {{t|ko|사람들|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t|ku|خه‌ڵک|tr=xellk|sc=ku-Arab}}
-* Kyrgyz: {{t|ky|кишилер|p|tr=kişiler|sc=Cyrl}}
-* Lao: {{t|lo|ປະຊາຊົນ|tr=pásáːsón|sc=Laoo}}
+* Kyrgyz: {{t|ky|кишилер|p|sc=Cyrl}}
+* Lao: {{t|lo|ປະຊາຊົນ|sc=Laoo}}
 * Latgalian: {{t|ltg|ļauds}}
 * Latin: {{t+|la|populus|m}}, {{t+|la|gēns|f}}
 {{trans-mid}}
@@ -201,7 +201,7 @@ When used to mean "persons" (meaning 1 below), "people" today takes a plural ver
 * Chinese:
 *: Mandarin: {{t+|cmn|人民|tr=rénmín|sc=Hani}}, {{t+|cmn|民族|tr=mínzú|sc=Hani}}
 * Czech: {{t+|cs|lid|m}}, {{t+|cs|lidé|p}}, {{t+|cs|národ|m}}
-* Danish: {{t|da|folk}}
+* Danish: {{t|da|folk|c}}
 * Dutch: {{t+|nl|volk|n}}
 * Esperanto: {{t|eo|popolo}}
 * Estonian: {{t|et|rahvas}}
@@ -392,7 +392,7 @@ When used to mean "persons" (meaning 1 below), "people" today takes a plural ver
 * French: {{t+|fr|peupler}}
 * German: {{t+|de|bevölkern}}
 * Italian: [[popolare]] con
-* Macedonian: {{t|mk|населува|tr=naséluva}}
+* Macedonian: {{t|mk|населува}}
 {{trans-mid}}
 * Norwegian:
 *: Bokmål: {{t|nb|befolke}}
