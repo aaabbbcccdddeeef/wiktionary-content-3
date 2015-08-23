@@ -115,20 +115,20 @@
 * Armenian: {{t|hy|ֆոսֆոր}}
 * Asturian: {{t+|ast|fósforu|m}}
 * Basque: {{t|eu|fosforoa}}
-* Belarusian: {{t|be|фосфар|m|tr=fósfar}}
+* Belarusian: {{t|be|фо́сфар|m}}
 * Breton: {{t|br|fosfor|m}}
-* Bulgarian: {{t|bg|фосфор|m|tr=fósfor}}
+* Bulgarian: {{t|bg|фо́сфор|m}}
 * Catalan: {{t|ca|fòsfor|m}}
 * Chinese:
 *: Cantonese: {{t|yue|磷|tr=leun4}}
 *: Mandarin: {{t+|cmn|磷|tr=lìn}}
 * Cornish: {{t|kw|fosforus}}
 * Czech: {{t+|cs|fosfor|m}}
-* Danish: {{t|da|fosfor}}
+* Danish: {{t|da|fosfor|n}}
 * Dutch: {{t+|nl|fosfor|n}}
 * Esperanto: {{t+|eo|fosforo}}
 * Estonian: {{t|et|fosfor}}
-* Faroese: {{t|fo|fosfor}}
+* Faroese: {{t|fo|fosfor|n}}
 * Finnish: {{t+|fi|fosfori}}
 * French: {{t+|fr|phosphore|m}}
 * Friulian: {{t|fur|fosfar}}
@@ -145,7 +145,7 @@
 * Italian: {{t+|it|fosforo|m}}
 * Japanese: {{t+|ja|リン|tr=rin|sc=Jpan}}, {{t+|ja|燐|tr=りん, rin|sc=Jpan}}
 * Kashubian: {{t|csb|fòsfòr}}
-* Kazakh: {{t+|kk|фосфор|tr=fosfor|sc=Cyrl}}
+* Kazakh: {{t+|kk|фосфор|sc=Cyrl}}
 * Khmer: {{t|km|ហ្វូស្វ័រ|tr=foosvoa|sc=Khmr}}
 {{trans-mid}}
 * Korean: {{t+|ko|인|sc=Kore}} ({{t+|ko|燐|sc=Kore}}), {{t+|ko|인소|sc=Kore}} ({{t|ko|燐素|sc=Kore}})
@@ -153,12 +153,12 @@
 * Latvian: {{t|lv|fosfors}}
 * Lithuanian: {{t+|lt|fosforas}}
 * Luxembourgish: {{t|lb|Phosphor}}
-* Macedonian: {{t|mk|фосфор|m|tr=fósfor}}
+* Macedonian: {{t|mk|фосфор|m}}
 * Malay: {{t|ms|fosforus}}
 * Maltese: {{t|mt|fosfru}}
 * Manx: {{t|gv|fosfaar}}
 * Marathi: {{t|mr|स्फुरद|tr=sfurad|sc=Deva}}
-* Mongolian: {{t|mn|сүүмэг|tr=süümeg|sc=Cyrl}}
+* Mongolian: {{t|mn|сүүмэг|sc=Cyrl}}
 * Norwegian: 
 *: Bokmål: {{t+|nb|fosfor|m|n}}
 *: Nynorsk: {{t+|nn|fosfor|m|n}}
@@ -174,13 +174,13 @@
 * Slovak: {{t|sk|fosfor|m}}
 * Slovene: {{t|sl|fósfor|m}}
 * Spanish: {{t+|es|fósforo|m}}
-* Swedish: {{t+|sv|fosfor|n}} ''or'' {{g|c}}
-* Tajik: {{t|tg|фосфор|tr=fosfor|sc=Cyrl}}
-* Tamil: {{t|ta|தீமுறி|tr=theemuRi}}, {{t|ta|பிரகாசிதம்|tr=pirakaasitham}}
-* Telugu: {{t+|te|భాస్వరం|tr=bhaasvaram}}
+* Swedish: {{t+|sv|fosfor|n|c}}
+* Tajik: {{t|tg|фосфор|sc=Cyrl}}
+* Tamil: {{t|ta|தீமுறி}}, {{t|ta|பிரகாசிதம்}}
+* Telugu: {{t+|te|భాస్వరం}}
 * Thai: {{t+|th|ฟอสฟอรัส|tr=fôt-for-rát|sc=Thai}}
 * Turkish: {{t+|tr|fosfor}}
-* Ukrainian: {{t|uk|фосфор|m|tr=fósfor}}
+* Ukrainian: {{t|uk|фо́сфор|m}}
 * Uzbek: {{t+|uz|fosfor}}
 *: Cyrillic: {{t+|uz|фосфор|sc=Cyrl}}
 * Vietnamese: {{t+|vi|photpho}}, {{t+|vi|phốtpho}}
@@ -209,7 +209,7 @@
 ===Noun===
 {{la-noun|phōsphorus|phosphori|phōsphorī|n|second}}
 
-# [[phosphorus#English|phosphorus]]
+# {{l|en|phosphorus}}
 
 ====Inflection====
 {{la-decl-2nd|phōsphor}}
