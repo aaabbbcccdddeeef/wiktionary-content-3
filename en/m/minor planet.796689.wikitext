@@ -6,22 +6,14 @@
 
 # {{context|astronomy|lang=en}} An [[astronomical]] object in direct [[orbit]] around the [[Sun]] that is not a [[planet]] or a [[comet]].
 
-====See also====
-* {{l/en|planemo}}
-
 ====Antonyms====
 * {{gloss|an orbitally dominant planemo}} [[major planet]] (synonymous with [[planet]] in the 2006 IAU definition)
 
+====Hypernyms====
+* [[planet]]
+
 ====Hyponyms====
-{{hyp-top|Hyponyms}}
-* [[asteroid]]
-* [[centaur]]
-* [[dwarf planet]]
-{{hyp-mid}}
-* [[Kuiper belt object]]
-* [[trans-Neptunian object]]
-* [[trojan]]
-{{hyp-bottom}}
+{{hyp4|asteroid|centaur|dwarf planet|Kuiper belt object|trans-Neptunian object|trojan}}
 
 ====Related terms====
 * [[giant planet]]
@@ -42,8 +34,9 @@
 {{trans-bottom}}
 
 ====See also====
-* [[planetoid]]
-* [[planetesimal]]
+* {{l|en|planemo}}
+* {{l|en|planetesimal}}
+* {{l|en|planetoid}}
 
 ===References===
 <references/>
