@@ -6,7 +6,7 @@
 * [[probleme]] {{qualifier|obsolete}}
 
 ===Etymology===
-From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|problema|lang=la}}, from {{etyl|grc|en}} {{term|πρόβλημα||anything thrown forward, hindrance, obstacle, anything projecting, a headland, promontory|lang=grc}}, from {{term|προβάλλω||to throw or lay something in front of someone, to put forward|lang=grc}}, from {{term|προ-||in front of|lang=grc}} + {{term|βάλλω||to throw, to cast, to hurl|lang=grc}}.
+From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{m|la|problema}}, from {{etyl|grc|en}} {{m|grc|πρόβλημα||anything thrown forward, hindrance, obstacle, anything projecting, a headland, promontory}}, from {{m|grc|προβάλλω||to throw or lay something in front of someone, to put forward}}, from {{m|grc|προ-||in front of}} + {{m|grc|βάλλω||to throw, to cast, to hurl}}.
 
 ===Pronunciation===
 * {{IPA|/ˈpɹɒbləm/|lang=en}}
@@ -87,7 +87,6 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|problema|
 * Hungarian: {{t+|hu|probléma}}, {{t+|hu|baj}}, {{t+|hu|gond}}
 * Italian: {{t+|it|problema|m}}
 * Japanese: {{t+|ja|問題|tr=もんだい, mondai|sc=Jpan}}
-* Norman: {{t|nrf|problième|m}}
 * Korean: {{t+|ko|문제|sc=Kore}}
 {{trans-mid}}
 * Lao: {{t-needed|lo}}
@@ -96,9 +95,10 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|problema|
 * Macedonian: {{t|mk|проблем|m|tr=próblem|sc=Cyrl}}
 * Malay: {{t+|ms|masalah}}, {{t|ms|kesulitan}}, {{t|ms|kemusykilan}}
 * Mirandese: {{t|mwl|porblema|m}}
-* Mongolian: {{t|mn|хүндрэл|tr=hündrel|sc=Cyrl}}
+* Mongolian: {{t|mn|хүндрэл|sc=Cyrl}}
 * Neapolitan: {{t|nap|prubblema}}
 * Ngazidja Comorian: {{t|zdj|shaka|c5|c6}}
+* Norman: {{t|nrf|problième|m}}
 * Norwegian: 
 *: Bokmål: {{t+|nb|problem|n}}
 *: Nynorsk: {{t|nn|problem|n}}
@@ -150,7 +150,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|problema|
 * Norman: {{t|nrf|problième|m}}
 * Korean: {{t+|ko|문제|sc=Kore}}
 * Latvian: {{t|lv|uzdevums|m}}
-* Macedonian: {{t|mk|задача|f|tr=zádača|sc=Cyrl}}, {{t|mk|проблем|m|tr=próblem|sc=Cyrl}}
+* Macedonian: {{t|mk|задача|f|sc=Cyrl}}, {{t|mk|проблем|m|sc=Cyrl}}
 * Norwegian: {{t+|no|oppgave|m}}
 * Occitan: {{t|oc|problèma|m}}
 * Persian: {{t+|fa|مسئله|tr=mas'ale|sc=fa-Arab}}
