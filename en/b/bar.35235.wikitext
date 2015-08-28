@@ -679,19 +679,42 @@ from {{etyl|sqj-pro|sq}} {{m|sqj-pro|*bara}}, from {{m|sqj-pro|*bera}} 'to carry
 
 ==Czech==
 
-===Etymology===
-{{rfe|lang=cs|Direct from English or via other languages?}}
+===Pronunciation===
+* {{IPA|/bar/|lang=cs}}
 
-===Noun===
+===Etymology 1===
+From {{etyl|en|cs}} {{m|en|bar}}.<ref>{{R:Rejzek 2007|bar¹}}</ref>
+
+====Noun====
 {{cs-noun|g=m}}
 
-# A {{l|en|bar}} {{gloss|business selling beverages}}
+# A {{l|en|bar}} {{gloss|a business selling beverages}}
+# A {{l|en|bar}} {{gloss|the [[counter]] of such a premises}}
+# A {{l|en|bar}} {{gloss|a cabinet used to store alcoholic drinks in a private house or a hotel room}}
 
-====Derived terms====
+=====Declension=====
+{{cs-decl-noun-auto|mi|b|a|r}}
+
+=====Derived terms=====
 * [[barový]] {{g|m}}
 
-====Related terms====
+=====Related terms=====
 * [[barman]] {{g|m}}
+
+===Etymology 2===
+{{wikipedia|Bar (jednotka)|lang=cs}}
+Borrowing from modern European languages, originally coined based on {{etyl|grc|cs}} {{term|βάρος||weight|lang=grc}}.<ref>{{R:Rejzek 2007|bar²}}</ref>
+
+====Noun====
+{{cs-noun|g=m}}
+
+# {{l|en|bar}}, a non-SI unit of pressure equal to 100,000 pascals
+
+=====Declension=====
+{{cs-decl-noun-auto|mi|b|a|r}}
+
+===References===
+<references />
 
 ===External links===
 * {{R:PSJC}}
