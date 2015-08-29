@@ -231,20 +231,7 @@ From {{etyl|enm|en}} {{term|handlen|lang=enm}}, from {{etyl|ang|en}} {{term|hand
 * [[hand]]
 
 =====Translations=====
-{{trans-top|to use the hands}}
-* Dutch: {{t+|nl|hanteren}}, {{t+|nl|gebruiken}}
-* Finnish: {{t+|fi|käsitellä}}, {{t|fi|[[käyttää]] [[käsi|käsiä]]}}
-* French: {{t+|fr|manier}}, {{t+|fr|manœuvrer}}
-* Macedonian: {{t|mk|ракува|sc=Cyrl}}
-{{trans-mid}}
-* Norwegian:
-*: Bokmål: {{t|nb|håndtere}}
-*: Nynorsk: {{t|nn|handtere}}
-* Portuguese: {{t|pt|manusear}}
-* Serbo-Croatian: {{t+|sh|rukovati}}
-{{trans-bottom}}
-
-{{trans-top|to feel with the hand}}
+{{trans-top|touch; feel or hold with the hand}}
 * Dutch: {{t+|nl|aanraken}}, {{t+|nl|betasten}}
 * Finnish: {{t+|fi|kosketella}}, {{t+|fi|tunnustella}}
 {{trans-mid}}
@@ -253,16 +240,15 @@ From {{etyl|enm|en}} {{term|handlen|lang=enm}}, from {{etyl|ang|en}} {{term|hand
 * Portuguese: {{t|pt|manusear}}
 {{trans-bottom}}
 
-{{trans-top|to use or hold with the hand}}
-* Dutch: {{t+|nl|houden}}, {{t|nl|in de hand houden}}, {{t|nl|onder handen nemen}}, {{t+|nl|behandelen}}
-* Finnish: {{t+|fi|käsitellä}}
+{{trans-top|take care of with the hands}}
+* Dutch: {{t+|nl|behandelen}}, {{t|nl|zich bezighouden met}}
+* Finnish: {{t+|fi|hoitaa}}
 {{trans-mid}}
-* French: {{t+|fr|manier}}, {{t+|fr|manipuler}}, {{t+|fr|manipuler}}
-* Macedonian: {{t|mk|ракува|tr=rákuva}}
-* Portuguese: {{t|pt|manusear}}
+* French: {{t+|fr|traiter}}
+* Macedonian: {{t|mk|ракува}}
 {{trans-bottom}}
 
-{{trans-top|to manage skillfully}}
+{{trans-top|manage with the hands}}
 * Dutch: {{t+|nl|hanteren}}, {{t|nl|omgaan met}}, {{t+|nl|bedienen}}
 * Finnish: {{t+|fi|käsitellä}}
 * French: {{t+|fr|gérer}}
@@ -274,42 +260,7 @@ From {{etyl|enm|en}} {{term|handlen|lang=enm}}, from {{etyl|ang|en}} {{term|hand
 * Swedish: {{t|sv|handskas med}}
 {{trans-bottom}}
 
-{{trans-top|to take care of, with the hands}}
-* Dutch: {{t+|nl|behandelen}}, {{t|nl|zich bezighouden met}}
-* Finnish: {{t+|fi|hoitaa}}
-{{trans-mid}}
-* French: {{t+|fr|traiter}}
-* Macedonian: {{t|mk|ракува}}
-{{trans-bottom}}
-
-{{trans-top|to receive and transfer}}
-* Dutch: {{t+|nl|behandelen}}
-* Finnish: {{t+|fi|käsitellä}}
-{{trans-mid}}
-* French: {{t+|fr|manipuler}}
-* Macedonian: {{t|mk|врачува}}
-{{trans-bottom}}
-
-{{trans-top|to deal with; to make a business of}}
-* Chinese:
-*: Mandarin: {{t|cmn|经营}}, {{t+|cmn|处理}}
-* Dutch: {{t+|nl|omgaan}}, {{t|nl|zich bezighouden met}}
-{{trans-mid}}
-* Finnish: {{t|fi|[[käydä]] [[kauppa]]a}}
-* French: {{t-check|fr|s'[[occuper]] [[de]]}}, {{t+check|fr|traiter}}
-* Hebrew: {{t|he|טיפל|alt=טיפל (ב־)|tr=tipél (b'-)}}
-* Portuguese: {{t|pt|[[lidar]] [[com]]}}
-{{trans-bottom}}
-
-{{trans-top|to treat; to use, well or ill}}
-* Dutch: {{t+|nl|behandelen}}
-* Finnish: {{t+|fi|kohdella}}
-{{trans-mid}}
-* French: {{t+|fr|traiter}}
-* Swedish: {{t+|sv|behandla}}
-{{trans-bottom}}
-
-{{trans-top|to manage; to control; to practice skill upon}}
+{{trans-top|manage, control or direct}}
 * Dutch: {{t+|nl|behandelen}}, {{t+|nl|aanpakken}}
 * Finnish: {{t+|fi|käsitellä}}
 {{trans-mid}}
@@ -318,11 +269,51 @@ From {{etyl|enm|en}} {{term|handlen|lang=enm}}, from {{etyl|ang|en}} {{term|hand
 * Portuguese: {{t|pt|manejar}}
 {{trans-bottom}}
 
-{{trans-top|to use or manage in writing or speaking}}
+{{trans-top|treat, deal with in a specified way}}
+* Dutch: {{t+|nl|behandelen}}
+* Finnish: {{t+|fi|kohdella}}
+{{trans-mid}}
+* French: {{t+|fr|traiter}}
+* Swedish: {{t+|sv|behandla}}
+{{trans-bottom}}
+
+{{trans-top|deal with (a subject, argument, topic, or theme) in speaking, in writing, or in art}}
 * Dutch: {{t+|nl|behandelen}}
 * Finnish: {{t+|fi|käsitellä}}
 {{trans-mid}}
 * French: {{t+|fr|pencher|alt=se pencher sur}}, {{t+|fr|traiter|alt=traiter de}}
+{{trans-bottom}}
+
+{{trans-top|receive and transfer; buy and sell}}
+* Dutch: {{t+|nl|behandelen}}
+* Finnish: {{t+|fi|käsitellä}}
+{{trans-mid}}
+* French: {{t+|fr|manipuler}}
+* Macedonian: {{t|mk|врачува}}
+{{trans-bottom}}
+
+{{trans-top|be concerned with, make a business of}}
+* Chinese:
+*: Mandarin: {{t-check|cmn|经营}}, {{t-check|cmn|处理}}
+* Dutch: {{t-check|nl|omgaan}}, {{t-check|nl|zich bezighouden met}}
+{{trans-mid}}
+* Finnish: {{t-check|fi|[[käydä]] [[kauppa]]a}}
+* French: {{t-check|fr|s'[[occuper]] [[de]]}}, {{t+check|fr|traiter}}
+* Hebrew: {{t-check|he|טיפל|alt=טיפל (ב־)|tr=tipél (b'-)}}
+* Portuguese: {{t-check|pt|[[lidar]] [[com]]}}
+{{trans-bottom}}
+
+{{trans-top|to use the hands}}
+* Dutch: {{t+|nl|hanteren}}, {{t+|nl|gebruiken}}
+* Finnish: {{t+|fi|käsitellä}}, {{t|fi|[[käyttää]] [[käsi|käsiä]]}}
+* French: {{t+|fr|manier}}, {{t+|fr|manœuvrer}}
+* Macedonian: {{t|mk|ракува|sc=Cyrl}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t|nb|håndtere}}
+*: Nynorsk: {{t|nn|handtere}}
+* Portuguese: {{t|pt|manusear}}
+* Serbo-Croatian: {{t+|sh|rukovati}}
 {{trans-bottom}}
 
 {{checktrans-top}}
