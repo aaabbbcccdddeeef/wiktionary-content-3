@@ -9,7 +9,7 @@
 ===Etymology 1===
 [[Image:Kovas.jpg|thumb|A rook (bird)]]
 
-{{etyl|enm|en}} {{term|rok|lang=enm}}, {{term|roke|lang=enm}}, from {{etyl|ang|en}} {{m|ang|hrōc}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*hrōkaz}} (compare Saterland Frisian {{term|Rouk|lang=stq}}, {{etyl|nl|-}} {{term|roek|lang=nl}}, obsolete {{etyl|de|-}} {{term|Ruch|lang=de}}), from {{etyl|ine-pro|en}} {{m|ine-pro|*kVr-c}} 'crow, raven' (compare Middle Irish {{term|cerc|lang=mga}} 'hen', Old Prussian {{term|kerko|lang=prg}} 'loon, diver', dialectal [[Bulgarian]] {{term|крокон|tr=krókon|lang=bg}} 'raven', {{etyl|grc|-}} {{term|κόραξ|lang=grc}} 'falcon', Old Armenian {{term|ագռաւ|lang=xcl}}, [[Avestan]] ''kahrkatat'' 'rooster' {{rfscript|ae}}, {{etyl|sa|-}} {{term|कृकर|tr=kṛkara|lang=sa}} 'rooster'), {{etyl|uk|-}} {{term|крук||tr=kruk|raven|lang=uk}}.
+{{etyl|enm|en}} {{m|enm|rok}}, {{m|enm|roke}}, from {{etyl|ang|en}} {{m|ang|hrōc}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*hrōkaz}} (compare Saterland Frisian {{m|stq|Rouk}}, {{etyl|nl|-}} {{m|nl|roek}}, obsolete {{etyl|de|-}} {{m|de|Ruch}}), from {{etyl|ine-pro|en}} {{m|ine-pro|*kVr-c}} 'crow, raven' (compare Middle Irish {{m|mga|cerc||hen}}, Old Prussian {{m|prg|kerko||loon, diver}}, dialectal [[Bulgarian]] {{m|bg|кро́кон||raven}}, {{etyl|grc|-}} {{m|grc|κόραξ||falcon}}, Old Armenian {{m|xcl|ագռաւ}}, [[Avestan]] ''kahrkatat'' 'rooster' {{rfscript|ae}}, {{etyl|sa|-}} {{m|sa|कृकर|tr=kṛkara||rooster}}), {{etyl|uk|-}} {{m|uk|крук||raven}}.
 
 ====Noun====
 {{en-noun}}
@@ -33,8 +33,8 @@
 {{trans-top|bird}}
 * Armenian: {{t|hy|սերմնագռավ}}
 * Azeri: {{t|az|zağca}}
-* Belarusian: {{t|be|грак|m|tr=hrak|sc=Cyrl}}
-* Bulgarian: {{t|bg|посевна врана|f|tr=posévna vrána|sc=Cyrl}}, {{t|bg|полска врана|f|tr=pólska vrána|sc=Cyrl}} {{qualifier|lit.: Polish crow}}
+* Belarusian: {{t|be|грак|m|sc=Cyrl}}
+* Bulgarian: {{t|bg|посе́вна вра́на|f|sc=Cyrl}}, {{t|bg|по́лска вра́на|f|sc=Cyrl}} {{qualifier|lit.: Polish crow}}
 * Catalan: {{t|ca|graula|f}}
 * Chechen: {{t|ce|къиг}}
 * Chinese:
@@ -51,13 +51,13 @@
 * Greek: {{t|el|χαβαρόνι|n}}, {{t|el|σταροκόρακας|m}}
 * Hebrew: {{t|he|עורב מזרע|m|tr='orév mizrá'|sc=Hebr}}
 * Hungarian: {{t+|hu|vetési varjú}}
-* Icelandic: {{t+|is|bláhrafn}}
+* Icelandic: {{t+|is|bláhrafn|m}}
 {{trans-mid}}
 * Irish: {{t|ga|rúcach|m}}
 * Italian: {{t|it|corvo comune|m}}
 * Japanese: {{t|ja|ミヤマガラス|tr=miyamagarasu|sc=Jpan}}, {{t|ja|深山烏|tr=みやまがらす, miyamagarasu|sc=Jpan}}, {{t|ja|深山鴉|tr=みやまがらす, miyamagarasu|sc=Jpan}}
 * Lithuanian: {{t+|lt|kovas}}, {{t|lt|kovarnis}}
-* Macedonian: {{t|mk|врана гагец|f|tr=vrána gágec|sc=Cyrl}}, {{t|mk|полска врана|f|tr=pólska vrána|sc=Cyrl}} {{qualifier|lit.: Polish crow}}
+* Macedonian: {{t|mk|врана гагец|f|sc=Cyrl}}, {{t|mk|полска врана|f|sc=Cyrl}} {{qualifier|lit.: Polish crow}}
 * Manx: {{t|gv|trogh|m}}, {{t|gv|troghan|m}}, {{t|gv|troghan doo|m}}
 * Northern Sami: {{t|se|bealdovuoraš}}
 * Norwegian: {{t|no|kornkråke}}
@@ -73,7 +73,7 @@
 * Slovene: {{t|sl|grakuša|f}}, {{t|sl|poljska vrana|f}} {{qualifier|lit.: Polish crow}}
 * Spanish: {{t|es|graja|f}}
 * Swedish: {{t+|sv|råka}}
-* Ukrainian: {{t|uk|грак|m|tr=hrak|sc=Cyrl}}, {{t|uk|гайворон|m|tr=hájvoron|sc=Cyrl}}
+* Ukrainian: {{t|uk|грак|m|sc=Cyrl}}, {{t|uk|га́йворон|m|sc=Cyrl}}
 * Volapük: {{qualifier|♂}} {{t|vo|grenahikrov}}, {{qualifier|♀}} {{t|vo|grenajikrov}}
 * Welsh: {{t|cy|ydfran|f}}
 {{trans-bottom}}
@@ -190,9 +190,9 @@ From {{etyl|fro|en}} {{term|roc|lang=fro}}, ultimately from {{etyl|fa|en}} {{ter
 * Slovene: {{t+|sl|trdnjava|f}}
 * Spanish: {{t+|es|torre|f}}
 * Swedish: {{t+|sv|torn|n}}
-* Telugu: {{t+|te|ఏనుగు|tr=ēnugu}}
+* Telugu: {{t+|te|ఏనుగు}}
 * Turkish: {{t+|tr|kale}}
-* Ukrainian: {{t|uk|тура|tr=tura}}
+* Ukrainian: {{t|uk|тура}}
 * Urdu: {{t|ur|ہاتھی|m|tr=hāthī}}
 * Volapük: {{t|vo|cögatüm}}
 * Welsh: {{t+|cy|castell}}
@@ -261,7 +261,7 @@ From ''[[rookie]]''.
 ==Dutch==
 
 ===Etymology 1===
-From {{etyl|dum|nl}} {{term|rooc|lang=dum}}, from {{etyl|odt|nl}} {{m|odt|*rōk}}, {{term|rouc|lang=odt}}, from {{etyl|gem-pro|nl}} {{m|gem-pro|*raukiz}}. Cognates include Low German {{term|Röök|lang=nds}}, West Frisian {{term|reek|lang=fy}}, English {{term|reek|lang=en}}, German {{term|Rauch|lang=de}}, Danish {{term|røg|lang=da}}, Swedish {{term|rök|lang=sv}}, Icelandic {{term|reykur|lang=is}}. See also {{l|nl|ruiken}}, {{l|nl|rieken}}.
+From {{etyl|dum|nl}} {{m|dum|rooc}}, from {{etyl|odt|nl}} {{m|odt|*rōk}}, {{m|odt|rouc}}, from {{etyl|gem-pro|nl}} {{m|gem-pro|*raukiz}}. Cognates include Low German {{m|nds|Röök}}, West Frisian {{m|fy|reek}}, English {{m|en|reek}}, German {{m|de|Rauch}}, Danish {{m|da|røg}}, Swedish {{m|sv|rök}}, Icelandic {{m|is|reykur}}. See also {{l|nl|ruiken}}, {{l|nl|rieken}}.
 
 ====Pronunciation====
 * {{rhymes|oːk|lang=nl}}
