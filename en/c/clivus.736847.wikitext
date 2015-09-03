@@ -1,9 +1,16 @@
 ==English==
 {{wikipedia|Clivus (anatomy)}}
-===Noun===
-{{en-noun|?}}
+===Etymology===
+From {{etyl|la|en}} {{m|la|clīvus||slope, hill}}.
 
-# Part of the [[cranium]] at the [[skull]] [[base]], a shallow [[depression]] behind the [[dorsum sellae]] that slopes obliquely backward.
+===Pronunciation===
+* {{IPA|/ˈkrivəs/|lang=en}}
+* {{hyphenation|cli|vus|lang=en}}
+
+===Noun===
+{{en-noun|clivi}}
+
+# {{lb|en|anatomy}} Part of the [[cranium]] at the [[skull]] [[base]], a shallow [[depression]] behind the [[dorsum sellae]] that slopes obliquely backward.
 
 ----
 
@@ -12,24 +19,32 @@
 From {{etyl|ine-pro|la}} {{m|ine-pro||*ḱleywós}}, from {{etyl|ine-pro|la}} {{m|ine-pro|*ḱley-||to lean}} (Latin {{m|la|clīnō}}, English {{term|lean|lang=en}}) + {{m|ine-pro|*-wós}} (Latin {{m|la|-vus}}).<ref>{{R:Online Etymology Dictionary|declivity}}</ref>
 
 ===Pronunciation===
-* {{la-pronunc|clīvus}}
+* {{la-pronunc|clīvus|eccl=1}}
 
 ===Noun===
 {{la-noun|clīvus|clivi|clīvī|m|second}}
 
 # A [[slope]], [[hill]], [[rise]]
 
-====Inflection====
+====Declension====
 {{la-decl-2nd|clīv}}
 
 ====Related terms====
 * {{l|la|clīnātus}}
 * {{l|la|clīnō}}
+
+====Derived terms====
 * {{l|la|clīvōsus}}
 * {{l|la|clīvulus}}
 
+====Descendants====
+* English: {{l|en|clivus}}
+
 ===References===
-<references/> 
+<references/>
+* {{R:L&S}}
+* {{R:Gaffiot}}
+
 [[Category:Latin words suffixed with -vus]]
 
 [[ca:clivus]]
