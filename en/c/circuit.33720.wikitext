@@ -176,24 +176,32 @@ From {{etyl|la|fr}}
 ==Romanian==
 
 ===Etymology===
-From {{etyl|la|ro}} {{term|circuitus|lang=la}}
+{{borrowing|fr|circuit|lang=ro}}, {{etyl|la|ro}} {{term|circuitus|lang=la}}.
 
 ===Noun===
-{{ro-noun|n}}
+{{ro-noun|n|e}}
 
 # [[English|circuit]]
 
+====Declension====
+{{ro-noun-n}}
+
 ====Related terms====
-* [[circula]]
-* [[circulabil]]
-* [[circulant]]
-* [[circular]]
-* [[circulare]]
-* [[circulat]]
-* [[circulație]]
-* [[circumferință]]
-* [[circumscriere]]
-* [[circulator]]
+{{rel-top3|Terms related to "circuit"}}
+* {{l|ro|cerc}}
+* {{l|ro|circula}}
+* {{l|ro|circulabil}}
+* {{l|ro|circulant}}
+{{rel-mid3}}
+* {{l|ro|circular}}
+* {{l|ro|circulare}}
+* {{l|ro|circulat}}
+* {{l|ro|circulație}}
+{{rel-mid3}}
+* {{l|ro|circumferință}}
+* {{l|ro|circumscriere}}
+* {{l|ro|circulator}}
+{{rel-bottom}}
 
 [[ar:circuit]]
 [[ca:circuit]]
