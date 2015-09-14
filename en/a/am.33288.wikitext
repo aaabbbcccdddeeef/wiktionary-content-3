@@ -151,7 +151,7 @@ From {{etyl|trk-pro|az}} {{m|trk-pro|*(i)am||vulva}}.
 ==Irish==
 
 ===Etymology===
-{{rfe|lang=ga}}
+From {{etyl|sga|ga}} {{m|sga|amm|g=n|g2=m||point of time}}.
 
 ===Pronunciation===
 * {{a|Munster}} {{IPA|[aumˠ]|lang=ga}}
@@ -159,21 +159,61 @@ From {{etyl|trk-pro|az}} {{m|trk-pro|*(i)am||vulva}}.
 * {{a|Mayo|Ulster}} {{IPA|lang=ga|[amˠ]}}
 
 ===Noun===
-{{ga-noun|ama|amanna|g=m}}
+{{ga-noun|g=m|ama|amanna}}
 
 # [[time]]
+## [[measured]] time
+## [[point in time|point of time]], [[occasion]]
+## [[usual]], [[set]], time
+## [[due]], [[proper]], time
+## [[scheduled]] time
+## [[opportune]], [[inopportune]], time
+## [[available]] time
+## [[season]]
+## [[portion]] of time, [[period]]
+## time of life
+## [[span]] of life
+## time of [[gestation]]
+## time of [[death]]
+## person's experience at particular time.
+## {{qualifier|general, adverbial, usages|'''an t-am'''}} [[when]]
 
 ====Declension====
 {{ga-decl-m3|a|m|ma|manna}}
 
 ====Derived terms====
-* {{l|ga|bileog ama}}
-* {{l|ga|clár ama}}
-* {{l|ga|freangadh ama}}
-* {{l|ga|pointe ama}}
+{{der3|{{l|ga|bileog ama||timesheet}}
+|{{l|ga|clár ama||timetable}}
+|{{l|ga|clásal ama||temporal clause}}
+|{{l|ga|freangadh ama||time warp}}
+|{{l|ga|leabhar ama||time-book}}
+|{{l|ga|[[cén t-am é?|Cén t-am é?]] [[cad é an t-am atá sé|Cad é an t-am atá sé?]]||What time is it?}}
+|{{l|ga|an t-[[am de lá]]||the time of day}}
+|{{l|ga|an t-[[am seo inné]]||this time yesterday}}
+|{{l|ga|faoin am seo||by this time}}
+|{{l|ga|am lóin||lunch-time}}
+|{{l|ga|am luí||bedtime}}
+|{{l|ga|[[le ham]], [[tríd am]]||in course of time}}
+|{{l|ga|(in) [[am ar bith]]||at any time}}
+|{{l|ga|in am go leor||time enough}}
+|{{l|ga|[[in am]] agus [[in an-am]]||in and out of season}}
+|{{l|ga|ó am go ham||from time to time}}
+|{{l|ga|[[am eile]], [[am éigin eile]]||another, some other, time}}
+|{{l|ga|[[i rith an ama]], [[ar feadh an ama]]||all the time}}
+|{{l|ga|[[san am céanna]], [[ag an am céanna]]||at the same time}}
+|{{l|ga|am na gréine||the time by the sun}}
+|{{l|ga|am na réaltaí||sidereal time}}
+|{{l|ga|an t-[[am luath]], an t-[[am nua]]||summer-time}}
+|{{l|ga|an t-[[am mall]]||old time}}
+|{{l|ga|in aon am||at one time; together}}
+|{{l|ga|pointe ama||point in time}}}}
 
 ===Mutation===
 {{ga mut vowel}}
+
+===References===
+* {{R:ga:ODonaill}}
+* {{R:DIL|amm}}
 
 ----
 
