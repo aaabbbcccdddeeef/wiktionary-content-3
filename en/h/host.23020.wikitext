@@ -362,7 +362,10 @@ From {{etyl|sla-pro|cs}} {{m|sla-pro|*gostь}}.
 #: '''Host''' do domu, Bůh do domu. ("A guest into the house, God into the house") — ''old proverb, meaning: respect should be shown to guests''
 
 ====Declension====
-{{cs-decl-noun-auto|ma|ho|s|t}}
+{{cs-decl-noun
+|host|hosta|hostu, hostovi|hosta|hoste|hostu, hostovi|hostem
+|hosti, hosté|hostů, hostí|hostům|hosty|hosti, hosté|hostech|hosty
+}}
 
 ====Related terms====
 * [[hostit]]
