@@ -303,18 +303,20 @@ From {{etyl|VL.|rm}} {{term|*eo|lang=la}}, attested from the 6th century in Roma
 ==Welsh==
 
 ===Alternative forms===
-* {{l|cy|'i}} {{qualifier|after vowels}}
+* {{l|cy|’u}} {{qualifier|after vowels}}
 
 ===Pronunciation===
-* {{IPA|/i/|/əi/|lang=cy}}
-
-====Usage notes====
-The pronunciation {{IPA|/əi/|lang=cy}} is found mainly in careful speech. Because ''eu'' is homonymic with {{term|ei||his, her|lang=cy}}.
+* {{a|ordinary speech}} {{IPA|/i/|lang=cy}}
+* {{a|careful speech}} {{IPA|/əi/|lang=cy}}
+* {{homophones|ei|lang=cy}}
 
 ===Determiner===
-{{head|cy|determiner|cat2=possessive determiners}}
+{{head|cy|determiner|cat2=possessive determiners|triggers [[Appendix:Welsh mutations#H-prothesis|h-prothesis]] of a following vowel}}
 
-# [[their]] {{qualifier|plural}}
+# [[their]]
+#: {{ux|cy|Cwynent am '''eu''' blinder a’u hafiechyd.|They complained of their weariness and their illness.}}
+# [[them]] {{i|as the direct object of a verbal noun}}
+#: {{ux|cy|Fe fu amser pan fyddai drysau trên yn '''eu''' hagor i chi.|There was a time when train doors would be opened for you.}}
 
 ====Usage notes====
 {{term|nhw|Nhw|lang=cy}} is often added after the noun.
