@@ -92,12 +92,12 @@ From {{etyl|ang|en}} {{term|cerubin|lang=ang}}, from {{etyl|LL.|en}} {{term|cher
 ==Latin==
 
 ===Pronunciation===
-* {{a|Ecclesiastical}} {{IPA|/ˈkeː.rub/|lang=la}}
+* {{la-IPA|cherub|eccl=1}}
 
 ===Noun===
-{{head|la|noun|g=m}}
+{{la-noun|cherub||cherub|m|irregular}}
 
-# {{context|indeclinable|lang=la}} [[#English|cherub]]
+# {{context|indeclinable|Christianity|lang=la}} [[#English|cherub]]
 #* {{RQ:Vulgate|Exodus|25|18}} & {{RQ:Vulgate|Exodus|25|19}}
 #*: duos quoque '''cherubin''' aureos et productiles facies ex utraque parte oraculi
 #*: '''cherub''' unus sit in latere uno et alter in altero
@@ -111,12 +111,12 @@ From {{etyl|ang|en}} {{term|cerubin|lang=ang}}, from {{etyl|LL.|en}} {{term|cher
 #* Nova Vulgata, Ezechiel 9:3
 #*: Et gloria Dei Israel elevata est de '''cherub''', super quem erat, ad limen domus; et vocavit virum, qui indutus erat lineis et atramentarium scriptoris habebat in lumbis suis.
 
-====Inflection====
-Nominative plural {{term|cherubim|lang=la}}, {{term|cherubin|lang=la}}
+====Declension====
+{{la-decl-irreg|noun=1|cherub}}
 
-[[Category:Latin irregular nouns]]
-[[Category:la:Christianity]]
-[[Category:Latin indeclinable nouns]]
+===References===
+* {{R:L&S}}
+* {{R:Gaffiot}}
 
 [[ca:cherub]]
 [[de:cherub]]
