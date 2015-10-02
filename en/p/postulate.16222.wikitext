@@ -3,15 +3,23 @@
 {{wikipedia}}
 
 ===Etymology===
-{{etyl|ML.|en}} {{term|postulātum}}, past participle of {{term|postulāre||to assume" later "to appoint or request ecclesiastical appointment|lang=la}}, from {{etyl|la|en}}, {{term|postulō||request|lang=la}}.
+{{etyl|ML.|en}} {{attention|la}} {{m|la|postulātus|postulāt-|asked}}, from the verb {{m|la|postulāre||to ask}}, from {{etyl|la|en}} {{m|la|postulō||request}}.
 
 ===Pronunciation===
-* {{a|UK|noun}} {{IPA|/ˈpɒs.tjʊ.lət/|lang=en}}
-* {{a|UK|verb}} {{IPA|/ˈpɒs.tjʊ.leɪt/|lang=en}}
-* {{a|US|noun}} {{IPA|/ˈpɑs.tʃə.lət /|/ˈpɑs.tjə.lət/|lang=en}}
-* {{a|US|verb}} {{IPA|/ˈpɑs.tʃə.leɪt /|/ˈpɑs.tjə.leɪt/|lang=en}}
-* {{audio|en-us-postulate-noun.ogg|Audio (US, noun)|lang=en}}
-* {{audio|en-us-postulate-verb.ogg|Audio (US, verb)|lang=en}}
+; Noun
+* {{a|UK}} {{enPR|pŏsʹcho͝o-lət}} {{IPA|/ˈpɒstjʊlət/|lang=en}}
+* {{a|US}} {{enPR|pŏsʹchə-lət|pŏsʹchə-lāt'}}, {{IPA|/ˈpɑstʃələt/|/ˈpɑstʃəˌleɪt/|lang=en}}
+* {{audio|en-us-postulate-noun.ogg|Audio (US)|lang=en}}
+* {{hyphenation|pos|tu|late|lang=en}}
+; Adjective
+* {{a|UK}} {{enPR|pŏsʹcho͝o-lət}} {{IPA|/ˈpɒstjʊlət/|lang=en}}
+* {{a|US}} {{enPR|pŏsʹchə-lət}}, {{IPA|/ˈpɑstʃələt/|lang=en}}
+* {{audio|en-us-postulate-noun.ogg|Audio (US)|lang=en}}
+* {{hyphenation|pos|tu|late|lang=en}}
+; Verb
+* {{a|UK}} {{enPR|pŏsʹcho͝o-lāt}} {{IPA|/ˈpɒstjʊleɪt/|lang=en}}
+* {{a|US}} {{enPR|pŏsʹchə-lāt'}} {{IPA|/ˈpɑstʃəˌleɪt/|lang=en}}
+* {{audio|en-us-postulate-verb.ogg|Audio (US)|lang=en}}
 * {{hyphenation|pos|tu|late|lang=en}}
 
 ===Noun===
@@ -21,6 +29,10 @@
 # A [[fundamental]] element; a basic [[principle]].
 # {{context|logic|lang=en}} An [[axiom]].
 # A [[requirement]]; a [[prerequisite]].
+
+====Derived terms====
+* {{l|en|parallel postulate}}
+* {{l|en|universal postulate}}
 
 =====Translations=====
 {{trans-top|something assumed without proof as being self-evident or generally accepted}}
@@ -80,6 +92,12 @@
 * Swedish: {{t+|sv|förutsättning|c}}
 {{trans-bottom}}
 
+===Adjective===
+{{en-adj|-}}
+
+# [[postulated|Postulated]].
+#: {{rfquotek|Hudibras}}
+
 ===Verb===
 {{en-verb|postulat}}
 
@@ -92,6 +110,10 @@
 #* '''1874''', John Small (ed.), ''The Poetical Works of Gavin Douglas, Bishop of Dunkeld'', Vol 1, [http://books.google.ca/books?id=y-Q0AAAAMAAJ&pg=PR18-IA16&dq=postulated p. xvi]
 #*: [A]lthough Douglas was '''postulated''' to it [the Abbacy of Arbroath], and signed letters and papers under this designation his nomination {{...}} was never completed.
 # {{context|ambitransitive|obsolete|lang=en}} To [[request]], [[demand]] or [[claim]] for oneself.
+
+====Derived terms====
+* {{l|en|postulation}}
+* {{l|en|postulational}}
 
 ====Translations====
 {{trans-top|To assume as a premise}}
@@ -116,12 +138,6 @@
 * Latin: {{t|la|postulō}}
 * Portuguese: {{t+|pt|postular}}
 {{trans-bottom}}
-
-===Adjective===
-{{en-adj|-}}
-
-# Postulated.
-#: {{rfquotek|Hudibras}}
 
 [[Category:English heteronyms]]
 
