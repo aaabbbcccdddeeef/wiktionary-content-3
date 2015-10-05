@@ -1,27 +1,32 @@
 ==English==
 {{wikipedia}}
-{{Wikiquote}}
 
 ===Etymology===
-From {{etyl|grc|en}} {{term|συνεργία||cooperation|lang=grc}}, from {{term|συνεργός||working together|lang=grc}}, from {{term|σύν||together|lang=grc}} + {{term|ἔργον||work|lang=grc}}.
+From {{etyl|grc|en}} {{term|συνεργία||joint work, assistance, help|lang=grc}}, from {{term|συνεργός||working together|lang=grc}}, from {{term|σύν||together|lang=grc}} + {{term|ἔργον||work|lang=grc}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈsɪnədʒi/|lang=en}}
 * {{a|US}} {{enPR|sĭnʹər-jē}}, {{IPA|/ˈsɪnɚdʒi/|lang=en}}
 
 ===Noun===
-{{en-noun|synergies}} or '''synenergy'''
+{{en-noun|synergies}}
 
-The joint energy of two or more agents or forces that is greater than the sum of their individual energies.
+# [[behavior|Behavior]] of a [[system]] that cannot be [[predict]]ed by the behavior of its [[part]]s.
+# {{context|medicine|lang=en}} Combined [[action]]; the combined healthy action of every [[organ]] of a particular system; as, the [[digestive]] synergy.
+# {{context|pharmacology|lang=en}} An [[interaction]] between [[drug]]s where the effects are stronger than their mere sum.
+# Benefits [[result]]ing from [[combine|combining]] two [[different]] [[group]]s, [[people]], [[object]]s or [[process]]es.
 
-====Synonyms====
-* [[w:binding energy|binding energy]]
+====Usage notes====
+* {{term||Synergy}} is frequently dismissed as business [[jargon]].
 
 ====Antonyms====
-* [[asynergy]]
+* [[anergy]] (''in economics'')
+
+====Related terms====
+* [[energy]]
 
 ====Translations====
-{{trans-top|The joint energy of two or more agents or forces that is greater than the sum of their individual energies.}}
+{{trans-top|behavior of a system that cannot be predicted by the behavior of its parts}}
 * Chinese:
 *: Mandarin: {{t|cmn|協同效應|sc=Hani}}, {{t|cmn|协同效应|tr=xiétóng xiàoyìng|sc=Hani}}
 * Dutch: {{t+|nl|synergie|f}}
@@ -38,8 +43,41 @@ The joint energy of two or more agents or forces that is greater than the sum of
 * Swedish: {{t+|sv|synergi|c}}, {{t|sv|synergieffekt|c}}
 {{trans-bottom}}
 
+{{trans-top|medicine: combined action}}
+* Dutch: {{t+|nl|synergie|f}}
+* Finnish: {{t|fi|yhteisvaikutus}}
+* French: {{t+|fr|synergie|f}}
+{{trans-mid}}
+* Greek: {{t+|el|συνεργία|f}}
+* Icelandic: {{t|is|samvirkni|f}}
+{{trans-bottom}}
+
+{{trans-top|pharmacology: interaction between drugs}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|result of combining two different groups, people, objects or processes}}
+* Dutch: {{t+|nl|synergie|f}}
+* Finnish: {{t+|fi|synergia}}
+* French: {{t+|fr|synergie|f}}
+* German: {{t+|de|Synergie|f}}
+{{trans-mid}}
+* Greek: {{t+|el|συνεργία|f}}, {{t+|el|σύμπραξη|f}}
+* Japanese: {{l|ja|相乗効果|tr=そうじょうこうか, sōjōkōka}}, {{l|ja|シナジー|tr=shinajī}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Catalan: {{t-check|ca|sinergia|f}}
+* German: {{t-check|de|Synergie|f}}
+{{trans-mid}}
+* Lithuanian: {{t-check|lt|sinergija|f}}
+* Spanish: {{t-check|es|sinergía|f}}
+* {{ttbc|sv}}: [[synergi]] {{g|c}}
+{{trans-bottom}}
+
 ====External links====
 * {{R:Webster 1913}}
+* {{R:Century 1911}}
 
 [[et:synergy]]
 [[fr:synergy]]
