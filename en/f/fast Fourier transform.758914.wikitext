@@ -7,14 +7,19 @@
 # A member of a certain family of [[algorithm]]s for efficiently computing the [[discrete Fourier transform]] of data.
 # An instance of performing one of these algorithms.
 
+====Synonyms====
+* [[FFT]] {{gloss|abbreviation}}
+
+====Related terms====
+* [[Fourier transform]]
+* [[discrete Fourier transform]]
+
 ====Translations====
 {{trans-top|algorithm}}
 * Hungarian: {{t|hu|gyors Fourier-transzformáció}}
 {{trans-mid}}
 {{trans-bottom}}
 
-====Usage notes====
-* Often abbreviated [[FFT]].
 
 [[Category:en:Computing]]
 [[Category:en:Electronics]]
