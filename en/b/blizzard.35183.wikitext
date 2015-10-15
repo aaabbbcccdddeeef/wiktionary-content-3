@@ -63,15 +63,7 @@ They suggest that blizzy survived from the ancient word blysa in numerous locali
 |passage=Risk is everywhere.{{...}}For each one there is a frighteningly precise measurement of just how likely it is to jump from the shadows and get you. “The Norm Chronicles”{{...}}aims to help data-phobes find their way through this '''blizzard''' of risks.}}
 #: {{usex|a '''blizzard''' of political ads|lang=en}}
 
-===Verb===
-{{en-verb}}
-
-# {{context|impersonal|of snow|lang=en}} To fall in windy conditions
-
-====Coordinate terms====
-* [[flurry]]
-
-===Translations===
+====Translations====
 {{trans-top|severe snowstorm}}
 * Armenian: {{t|hy|ձնաբուք|sc=Armn}}
 * Azeri: {{t+|az|çovğun}}
@@ -134,7 +126,7 @@ They suggest that blizzy survived from the ancient word blysa in numerous locali
 {{trans-bottom}}
 
 {{trans-top|figuratively: large amount of paperwork}}
-* Finnish: {{t|fi|vuori}} (mountain)
+* Finnish: {{t|fi|vuori}} {{qualifier|mountain}}
 * Greek: {{t|el|χαρτομάνι|n}}
 {{trans-mid}}
 * Italian: {{t+|it|montagna|f}}, {{t+|it|marea|f}}
@@ -143,7 +135,7 @@ They suggest that blizzy survived from the ancient word blysa in numerous locali
 {{trans-bottom}}
 
 {{trans-top|large number of similar things}}
-* Finnish: {{t|fi|vyöry}} (landslide)
+* Finnish: {{t|fi|vyöry}} {{qualifier|landslide}}
 * Greek: {{t+|el|θύελλα|f}}
 {{trans-mid}}
 * Polish: {{t|pl|nawał|m}}, {{t|pl|nawała|f}}
@@ -153,6 +145,20 @@ They suggest that blizzy survived from the ancient word blysa in numerous locali
 * Indonesian: {{t-check|id|petir}}, {{t-check|id|geledek}}, {{t-check|id|halilintar}}
 {{trans-mid}}
 * {{ttbc|sl}}: {{t-check|sl|metež|m}} (1)
+{{trans-bottom}}
+
+===Verb===
+{{en-verb}}
+
+# {{context|impersonal|of snow|lang=en}} To fall in windy conditions
+
+====Coordinate terms====
+* [[flurry]]
+
+====Translations====
+{{trans-top|large number of similar things}}
+* Finnish: {{t|fi|pyryttää}}
+{{trans-mid}}
 {{trans-bottom}}
 
 [[Category:en:Snow]]
