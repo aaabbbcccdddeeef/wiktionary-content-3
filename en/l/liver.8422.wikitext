@@ -34,13 +34,13 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|lifer}}, from {{etyl|gem-pro|
 =====Translations=====
 {{trans-top|organ of the body}}
 * Abkhaz: {{t|ab|агәаҵәа|sc=Cyrl}}, {{t|ab|агәыҵәы|sc=Cyrl}}
-* Albanian: {{t-check|sq|[[mëlçi]] [[a]] [[zëzë]]}} <!-- was "[[mëlçi]] [[a]] [[zëzë]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Albanian: {{t-check|sq|[[mëlçi]] [[a]] [[zëzë]]}} <!-- was "[[mëlçi]] [[a]] [[zëzë]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->, {{t+|sq|mëlçi|f}}
 * American Sign Language: {{t|ase|BentB@Abdomen Contact Contact Contact|sc=Sgnw}}
 * Arabic: {{t|ar|كَبِد|m}}, {{t|ar|كِبْد|m}}
 *: Egyptian Arabic: {{t|arz|كبد|m|tr=kebd|sc=Arab}}
 * Aramaic:
 *: Syriac: {{t|arc|ܟܒܕܐ|f|tr=kabdā, kabdo|sc=Syrc}}
-*: Hebrew: {{t|arc|כבדא|f|tr=kabdā, kabdo|sc=Hebr}}
+*: Hebrew: {{t|arc|כבדא|f|tr=kabdā, kabdo|sc=Hebr}}, {{t+|he|כָּבֵד|m|tr=kavéd}}
 * Armenian: {{t+|hy|լյարդ}}
 * Aromanian: {{t|rup|hicat}}
 * Asturian: {{t+|ast|fégadu|m}}
@@ -91,22 +91,24 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|lifer}}, from {{etyl|gem-pro|
 * Italian: {{t+|it|fegato|m}}
 * Japanese: {{t+|ja|肝臓|tr=かんぞう, kanzō|sc=Jpan}}
 * Norman: {{t|nrf|faie|f}}
+* Kazakh: {{t+|kk|бауыр|sc=Cyrl}}
 * Khmer: {{t+|km|ថ្លើម|tr=tlaəm|sc=Khmr}}
 * Kimaragang: {{t|kqr|tongkoviyau}}
 * Korean: {{t+|ko|간장|sc=Kore}} ({{t|ko|肝臓|sc=Kore}}), {{t+|ko|간|sc=Kore}} ({{t+|ko|肝|sc=Kore}})
 * Kurdish:
 *: Sorani: {{t+|ku|جه‌رگ|sc=ku-Arab}}
+* Kyrgyz: {{t+|ky|боор|sc=Cyrl}}
 * Lao: {{t+|lo|ຕັບ|sc=Laoo}}
 * Latgalian: {{t|ltg|oknys|f-p}}
 * Latin: {{t|la|iecur}}
 * Latvian: {{t+|lv|aknas|f-p}}
 * Laz: {{t|lzz|ჯიგერი}}
 * Lithuanian: {{t|lt|kepenys|p}}
-{{trans-mid}}
 * Livonian: {{t|liv|maksā}}
 * Lotud: {{t|dtr|ongkowiau}}, {{t|dtr|tangkayau}}
 * Luxembourgish: {{t|lb|Liewer|f}}
 * Macedonian: {{t|mk|џигер|m}}, {{t|mk|црн дроб|m}}
+{{trans-mid}}
 * Malagasy: {{t+|mg|aty}}
 * Malay: {{t|ms|hati}}, {{t|ms|hepar}}
 * Maltese: {{t|mt|fwied|m}}
@@ -168,7 +170,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|lifer}}, from {{etyl|gem-pro|
 * Tuvan: {{t|tyv|баар}}
 * Ukrainian: {{t|uk|печі́нка|f}}
 * Urdu: {{t|ur|کلیجا|m|tr=kalejā|sc=ur-Arab}}, {{t|ur|جگر|m|tr=jigar|sc=ur-Arab}}
-* Uzbek: {{t|uz|bag`ir}}
+* Uzbek: {{t|uz|bag`ir}}, {{t+|uz|jigar}}, {{t+|uz|bagʻir}}
 * Venetian: {{t+|vec|figà}}
 * Veps: {{t|vep|maks}}
 * Vietnamese: {{t+|vi|gan}} ({{t|vi|肝}})
@@ -177,6 +179,8 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|lifer}}, from {{etyl|gem-pro|
 * Walloon: {{t|wa|foete}}
 * Welsh: {{t+|cy|afu|m}}, {{t|cy|iau|m}}
 * West Coast Bajau: {{t|bdr|atei}}
+* Yakut: {{t|sah|быар|sc=Cyrl}}
+* Yiddish: {{t|yi|לעבער|f}}
 * Zulu: {{t+|zu|isibindi|c7|c8}}
 * ǃKung: {{t|khi-kun|čiŋ}}
 {{trans-bottom}}
