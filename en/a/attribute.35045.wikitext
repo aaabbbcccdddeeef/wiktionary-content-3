@@ -27,6 +27,11 @@ From {{etyl|la|en}} {{term|attributus|lang=la}} past participle of {{term|attrib
 #: ''A file with the read-only '''attribute''' set cannot be overwritten.''
 # {{context|computing|programming|lang=en}} A [[semantic]] item with which a [[method]] or other code element may be [[decorate]]d.
 #: ''Properties can marked as obsolete with an '''attribute''', which will cause the compiler to generate a warning if they are used.''
+# {{cx|computer graphics|dated|lang=en}} A [[numeric]] [[value]] representing the [[colour]]s of part of the [[screen]] [[display]].
+#* '''1987''', Marcus Berkmann, ''Sceptre Of Bagdad'' (video game review) in ''Your Sinclair'' issue 17
+#*: {{...}} you can only carry two objects, your '''attributes''' clash when you walk past multi-coloured objects and your enemies fly up and down from the ceiling.
+#* '''1989''', ''PC: The Independent Guide to IBM Personal Computers''
+#*: If any of the video buffer's background '''attribute''' bits are on, MONO converts the attribute to 70h (inverse video).
 
 ====Synonyms====
 * See also [[Wikisaurus:characteristic]]
