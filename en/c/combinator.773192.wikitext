@@ -1,5 +1,4 @@
 ==English==
-
 {{wikipedia}}
 
 ===Pronunciation===
@@ -10,12 +9,12 @@
 
 # {{context|computer science|lang=en}} A [[lambda expression]] which has no [[free variable]]s in it.
 #* {{quote-web
-    | date = 1991-12-20
-    | author = Henk P. Barendregt
-    | title = Lambda Calculi With Types
-    | site = ftp.cs.ru.nl
-    | url = ftp://ftp.cs.ru.nl/pub/CompMath.Found/HBK.ps
-    | accessdate = 2012-07-15
+|date=1991-12-20
+|author=Henk P. Barendregt
+|title=Lambda Calculi With Types
+|site=ftp.cs.ru.nl
+|url=ftp://ftp.cs.ru.nl/pub/CompMath.Found/HBK.ps
+|accessdate=2012-07-15
 }}
 #*: ''M'' is a ''closed &lambda;-term'' (or ''[[combinator]]'') if ''FV''(''M'') = ∅. The set of closed &lambda;-terms is denoted by &Lambda;<sup>0</sup>.
 
