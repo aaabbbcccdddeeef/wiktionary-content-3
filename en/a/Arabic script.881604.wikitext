@@ -6,20 +6,20 @@
 
 # The 28-[[letter]] [[abjad]] used for [[writing]] the [[Arabic]] [[language]]. Derived from the [[Phoenician alphabet]]. The Arabic script has been adapted for use in a wide variety of languages other than Arabic, including [[Persian]], [[Kurdish]], [[Malay]], [[Urdu]] and some [[Punjabi]] dialects.
 
-{|  align="center"  border="1" cellpadding="2" cellspacing="0" 
-|  bgcolor="#cccccc" | Name
-|  bgcolor="#cccccc" | [[ا|ʾálif]]
-|  bgcolor="#cccccc" | [[ب|bāʾ]]
-|  bgcolor="#cccccc" | [[ت|tāʾ]]
-|  bgcolor="#cccccc" | [[ث|ṯāʾ]]
-|  bgcolor="#cccccc" | [[ج|jīm]]
-|  bgcolor="#cccccc" | [[ح|ḥāʾ]]
-|  bgcolor="#cccccc" | [[خ|xāʾ]]
-|  bgcolor="#cccccc" | [[د|dāl]]
-|  bgcolor="#cccccc" | [[ذ|ḏāl]]
-|  bgcolor="#cccccc" | [[ر|rāʾ]]
-|-  valign="top"
-|  bgcolor="#cccccc" | Letter
+{| align="center" border="1" cellpadding="2" cellspacing="0"
+| bgcolor="#cccccc" | Name
+| bgcolor="#cccccc" | [[ا|ʾálif]]
+| bgcolor="#cccccc" | [[ب|bāʾ]]
+| bgcolor="#cccccc" | [[ت|tāʾ]]
+| bgcolor="#cccccc" | [[ث|ṯāʾ]]
+| bgcolor="#cccccc" | [[ج|jīm]]
+| bgcolor="#cccccc" | [[ح|ḥāʾ]]
+| bgcolor="#cccccc" | [[خ|xāʾ]]
+| bgcolor="#cccccc" | [[د|dāl]]
+| bgcolor="#cccccc" | [[ذ|ḏāl]]
+| bgcolor="#cccccc" | [[ر|rāʾ]]
+|- valign="top"
+| bgcolor="#cccccc" | Letter
 | [[File:1alif.PNG|40px|alif]]
 | [[File:1ba.PNG|40px|ba]]
 | [[File:1ta.PNG|40px|ta]]
@@ -30,20 +30,20 @@
 | [[File:1dal.PNG|40px|dal]]
 | [[File:1dhal.PNG|40px|dhal]]
 | [[File:1ra.PNG|40px|ra]]
-|- 
-|  bgcolor="#cccccc" | Name
-|  bgcolor="#cccccc" | [[ز|zayn, zāy]]
-|  bgcolor="#cccccc" | [[س|sīn]]
-|  bgcolor="#cccccc" | [[ش|šīn]]
-|  bgcolor="#cccccc" | [[ص|ṣād]]
-|  bgcolor="#cccccc" | [[ض|ḍād]]
-|  bgcolor="#cccccc" | [[ط|ṭāʾ]]
-|  bgcolor="#cccccc" | [[ظ|ẓāʾ]]
-|  bgcolor="#cccccc" | [[ع|ʿayn]]
-|  bgcolor="#cccccc" | [[غ|ġayn]]
-|  bgcolor="#cccccc" | [[ف|fāʾ]]
-|-  valign="top"
-|  bgcolor="#cccccc" | Letter
+|-
+| bgcolor="#cccccc" | Name
+| bgcolor="#cccccc" | [[ز|zayn, zāy]]
+| bgcolor="#cccccc" | [[س|sīn]]
+| bgcolor="#cccccc" | [[ش|šīn]]
+| bgcolor="#cccccc" | [[ص|ṣād]]
+| bgcolor="#cccccc" | [[ض|ḍād]]
+| bgcolor="#cccccc" | [[ط|ṭāʾ]]
+| bgcolor="#cccccc" | [[ظ|ẓāʾ]]
+| bgcolor="#cccccc" | [[ع|ʿayn]]
+| bgcolor="#cccccc" | [[غ|ġayn]]
+| bgcolor="#cccccc" | [[ف|fāʾ]]
+|- valign="top"
+| bgcolor="#cccccc" | Letter
 | [[File:1zayn.PNG|40px|zayn]]
 | [[File:1sin.PNG|40px|sin]]
 | [[File:1shin.PNG|40px|shin]]
@@ -54,20 +54,20 @@
 | [[File:1ayn.PNG|40px|ayn]]
 | [[File:1ghayn.PNG|40px|ghayn]]
 | [[File:1fa.PNG|40px|fa]]
-|- 
-|  bgcolor="#cccccc" | Name
-|  bgcolor="#cccccc" | [[ق|qāf]]
-|  bgcolor="#cccccc" | [[ك|kāf]]
-|  bgcolor="#cccccc" | [[ل|lām]]
-|  bgcolor="#cccccc" | [[م|mīm]]
-|  bgcolor="#cccccc" | [[ن|nūn]]
-|  bgcolor="#cccccc" | [[ه|hāʾ]]
-|  bgcolor="#cccccc" | [[و|wāw]]
-|  bgcolor="#cccccc" | [[ى|yāʾ]]
-|  bgcolor="#cccccc" | &nbsp;
-|  bgcolor="#cccccc" | &nbsp;
-|-  valign="top"
-|  bgcolor="#cccccc" | Letter
+|-
+| bgcolor="#cccccc" | Name
+| bgcolor="#cccccc" | [[ق|qāf]]
+| bgcolor="#cccccc" | [[ك|kāf]]
+| bgcolor="#cccccc" | [[ل|lām]]
+| bgcolor="#cccccc" | [[م|mīm]]
+| bgcolor="#cccccc" | [[ن|nūn]]
+| bgcolor="#cccccc" | [[ه|hāʾ]]
+| bgcolor="#cccccc" | [[و|wāw]]
+| bgcolor="#cccccc" | [[ى|yāʾ]]
+| bgcolor="#cccccc" | &nbsp;
+| bgcolor="#cccccc" | &nbsp;
+|- valign="top"
+| bgcolor="#cccccc" | Letter
 | [[File:1qaf.PNG|40px|qaf]]
 | [[File:1kaf.PNG|40px|kaf]]
 | [[File:1lam.PNG|40px|lam]]
@@ -78,8 +78,8 @@
 | [[File:1ya.PNG|40px|ya]]
 | &nbsp;
 | &nbsp;
-|- 
-|  colspan=11 align="center" bgcolor="#cccccc" | <small>Note: 22 letters have four different forms according to their position: ''Isolated, initial, medial, final''. '''ز''', '''ر''', '''ذ''', '''د''', '''ا''' and '''و''' have an identical initial and medial form, and cannot connect to the following letter (see ''Wikipedia: '''[[Arabic alphabet]]''')'' for more information. Arabic and derived scripts partly share this peculiarity with other [[abjad|abjads]] — see e.g. the Hebrew [[tsadi|ts]] ([[צ]]), which becomes [[ץ]] at the end of the word ''(called in that case [[סופית|sofiut]]: suffixes, endings)'', like four other letters.</small>
+|-
+| colspan=11 align="center" bgcolor="#cccccc" | <small>Note: 22 letters have four different forms according to their position: ''Isolated, initial, medial, final''. '''ز''', '''ر''', '''ذ''', '''د''', '''ا''' and '''و''' have an identical initial and medial form, and cannot connect to the following letter (see ''Wikipedia: '''[[Arabic alphabet]]''')'' for more information. Arabic and derived scripts partly share this peculiarity with other [[abjad|abjads]] — see e.g. the Hebrew [[tsadi|ts]] ([[צ]]), which becomes [[ץ]] at the end of the word ''(called in that case [[סופית|sofiut]]: suffixes, endings)'', like four other letters.</small>
 |}
 
 ====Translations====
