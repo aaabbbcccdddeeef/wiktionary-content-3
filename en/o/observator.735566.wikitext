@@ -25,20 +25,41 @@ From {{etyl|frm|en}} {{term|observateur|lang=frm}}, from {{etyl|la|en}} {{term|o
 
 ==Romanian==
 
-===Noun===
-{{ro-noun|m}}
+===Etymology 1===
+{{bor|ro|la|observatorium}}, {{bor|ro|fr|observatoire|notext=1}}, {{bor|ro|de|Observatorium|notext=1}}.
 
-# [[#English|observer]]
+====Noun====
+{{ro-noun|n|observatoare}}
 
-====Derived terms====
-* [[observa]]
-* [[observabil]]
-* [[observant]]
-* [[observanță]]
-* [[observare]]
-* [[observativ]]
-* [[observație]]
-* [[observațional]]
+# [[observatory]]
+
+=====Declension=====
+{{ro-noun-n|pl=observatoare}}
+
+===Etymology 2===
+{{bor|ro|fr|observateur}}, {{bor|ro|la|observator|notext=1}}.
+
+====Noun====
+{{ro-noun|m|i|f=observatoare}}
+
+# [[observer]]
+
+=====Declension=====
+{{ro-noun-m}}
+
+===Related terms===
+{{rel-top3|Terms related to ''observator'' (both etymologies)}}
+* {{l|ro|observa}}
+* {{l|ro|observabil}}
+* {{l|ro|observant}}
+{{rel-mid3}}
+* {{l|ro|observanță}}
+* {{l|ro|observare}}
+* {{l|ro|observativ}}
+{{rel-mid3}}
+* {{l|ro|observație}}
+* {{l|ro|observațional}}
+{{rel-bottom}}
 
 [[el:observator]]
 [[fr:observator]]
