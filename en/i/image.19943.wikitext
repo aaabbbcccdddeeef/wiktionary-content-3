@@ -85,7 +85,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{m|la|imāgō||
 * Finnish: {{t+|fi|kuva}}
 * French: {{t+|fr|image|f}}
 * Galician: {{t+|gl|imaxe|f}}
-* German: {{t+|de|Bild|n}}
+* German: {{t+|de|Bild|n}}, {{t+|de|Abbild|n}}
 * Greek: {{t+|el|εικόνα|f}}, {{t+|el|απεικόνιση|f}}, {{t+|el|απείκασμα|n}}, {{t|el|πανομοιότυπο}}
 * Haitian Creole: {{t|ht|imaj}}
 * Hebrew: {{t+|he|תמונה|tr=temuna|f}}
@@ -98,9 +98,9 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{m|la|imāgō||
 * Latgalian: {{t|ltg|atvaigs}}
 * Latvian: {{t|lv|attēls|m}}
 * Nahuatl: {{t+|nah|ixiptli}}
-{{trans-mid}}
 * Navajo: {{t|nv|eʼelyaaígíí}}
 * Pashto: {{t+|ps|انځور|m|tr=anźor|sc=ps-Arab}}
+{{trans-mid}}
 * Persian: {{t+|fa|تصویر|tr=tasvir}}, {{t+|fa|نگاره|tr=negâre}}
 * Polish: {{t+|pl|obraz|m}}
 * Portuguese: {{t+|pt|imagem|f}}, {{t+|pt|figura|f}}, {{t+|pt|fotografia|f}}
@@ -124,6 +124,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{m|la|imāgō||
 * Swedish: {{t+|sv|bild|c}}
 * Tagalog: {{t|tl|imahen}}
 * Tajik: {{t+|tg|тасвир}}
+* Turkish: {{t+|tr|resim}}
 * Ukrainian: {{t+|uk|о́браз|m}}
 * Uyghur: {{t|ug|رەسىم}}
 * Yiddish: {{t|yi|בילד|tr=bild|sc=Hebr}}
@@ -161,14 +162,15 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{m|la|imāgō||
 * Finnish: {{t+|fi|vedos}}
 * German: {{t+|de|Image|n|alt=Image}}, {{t|de|Speicherabbild|n}}
 * Greek: {{t+|el|εικόνα}}
-{{trans-mid}}
 * Hungarian: {{t+|hu|kép}}
+{{trans-mid}}
 * Irish: {{t|ga|íomhá|f}}
 * Italian: {{t+|it|immagine|f}}
 * Japanese: {{t+|ja|イメージ|tr=imēji}}, {{t|ja|画像|tr=gazō}}
 * Navajo: {{t|nv|eʼelyaaígíí}}
 * Portuguese: {{t+|pt|imagem|f}}
 * Russian: {{t+|ru|изображе́ние|n}}
+* Turkish: {{t+|tr|görüntü}}
 * Ukrainian: {{t+|uk|образ|m|tr=óbraz}}
 {{trans-bottom}}
 
@@ -192,6 +194,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{m|la|imāgō||
 * Slovak: {{t|sk|imidž|m}}
 * Spanish: {{t+|es|imagen|f}}
 * Swedish: {{t+|sv|image|c}}
+* Turkish: {{t+|tr|imaj}}
 * Ukrainian: {{t+|uk|о́браз|m}}
 {{trans-bottom}}
 
@@ -199,11 +202,12 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{m|la|imāgō||
 * Czech: {{t+|cs|obraz|m}}
 * Finnish: {{t+|fi|kuvaus}}
 * German: {{t+|de|Bild|n}}
-{{trans-mid}}
 * Irish: {{t|ga|íomhá|f}}
+{{trans-mid}}
 * Japanese: {{t+|ja|像|tr=zō}}, {{t+|ja|イメージ|tr=imēji}}
 * Portuguese: {{t+|pt|imagem|f}}
 * Russian: {{t+|ru|о́браз|m}}
+* Turkish: {{t|tr|görüntü kümesi}}
 {{trans-bottom}}
 
 {{trans-top|math: subset of codomain}}
@@ -232,17 +236,23 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{m|la|imāgō||
 
 {{trans-top|to reflect}}
 * Finnish: {{t+|fi|heijastaa}}
+* German: {{t+|de|reflektieren}}, {{t+|de|spiegeln}}
 {{trans-mid}}
+* Turkish: {{t+|tr|yansımak}}, {{t+|tr|yansıtmak}}
 {{trans-bottom}}
 
 {{trans-top|to create an image of}}
 * Finnish: {{t+|fi|kuvata}}, {{t|fi|kuvantaa}} {{qualifier|through technical means}}
+* German: {{t+|de|abbilden}}
 {{trans-mid}}
+* Turkish: {{t|tr|resmini çekmek}}
 {{trans-bottom}}
 
 {{trans-top|computing: to create a backup copy}}
+* German: {{t+|de|erstellen}}
 * Sindhi: {{t|sd|عڪس|sc=sd-Arab}}
 {{trans-mid}}
+* Turkish: {{t+|tr|görüntülemek}}
 {{trans-bottom}}
 
 ===External links===
