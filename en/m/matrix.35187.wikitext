@@ -25,7 +25,7 @@ From {{etyl|fro|en}} {{term|matrice||pregnant animal|lang=fro}}, from {{etyl|la|
 # {{context|computing|lang=en}} A [[two-dimensional]] [[array]].
 # {{cx|computing|lang=en}} The [[circuitry]] inside a [[keyboard]] that determines which [[key]]s are being pressed.
 # A [[table]] of [[data]].
-# {{context|geology|lang=en}} A [[geological matrix]], the outer material of a rock consisting of larger grains embedded in a material consisting of smaller ones.
+# {{context|geology|lang=en}} A [[geological matrix]].
 # {{context|archaeology and paleontology|lang=en}} The sediment surrounding and including the [[artifact]]s, features, and other materials at a [[site]].
 # {{context|analytical chemistry|lang=en}} The environment from which a given sample is taken.
 
@@ -43,7 +43,7 @@ From {{etyl|fro|en}} {{term|matrice||pregnant animal|lang=fro}}, from {{etyl|la|
 ====Translations====
 {{trans-see|womb}}
 
-{{trans-top|Material or tissue in which more specialized structures are embedded}}
+{{trans-top|biology: embedding material or tissue}}
 * Finnish: {{t+|fi|matriksi}}, {{t+|fi|marto}}
 * Icelandic: {{t+|is|mergur}}, {{t+|is|grind}}
 {{trans-mid}}
@@ -51,7 +51,7 @@ From {{etyl|fro|en}} {{term|matrice||pregnant animal|lang=fro}}, from {{etyl|la|
 * Spanish: {{t+|es|matriz|f}}
 {{trans-bottom}}
 
-{{trans-top|Extracellular matrix (''see also:'' [[extracellular matrix#Translations|extracelular matrix]])}}
+{{trans-top-also|extracellular matrix|extracellular matrix}}
 * Finnish: {{t+|fi|matriksi}}, {{t|fi|soluväliaine}}
 * French: {{t+|fr|matrice}}
 * Greek: {{t|el|μεσοκυττάρια ουσία|f}}
@@ -61,7 +61,7 @@ From {{etyl|fro|en}} {{term|matrice||pregnant animal|lang=fro}}, from {{etyl|la|
 * Spanish: {{t+|es|matriz}}
 {{trans-bottom}}
 
-{{trans-top|Part of the mitochondrion}}
+{{trans-top|part of the mitochondrion}}
 * Finnish: {{t|fi|matriksi}}
 * Greek: {{t+|el|μήτρα|f}}
 * Icelandic: {{t+|is|grind}}
@@ -70,15 +70,15 @@ From {{etyl|fro|en}} {{term|matrice||pregnant animal|lang=fro}}, from {{etyl|la|
 * Portuguese: {{t|pt|matriz mitocondrial}}
 {{trans-bottom}}
 
-{{trans-top|Medium in which bacteria are cultured}}
-* Finnish: {{t|fi|matriksi}}
+{{trans-top|medium in which bacteria are cultured}}
+* Finnish: {{t|fi|matriksi}}, {{t|fi|viljelyaine}}
 * Icelandic: {{t|is|uppistöðuefni}}
 {{trans-mid}}
 * Italian: {{t+|it|matrice|f}}
 * Serbo-Croatian: {{t|sh|bakterijska podloga}}
 {{trans-bottom}}
 
-{{trans-top|In mathematics}}
+{{trans-top|math: rectangular arrangement of numbers or terms}}
 * Arabic: {{t|ar|مصفوفة|f}}
 * Catalan: {{t|ca|matriu|f}}
 * Chinese:
@@ -111,7 +111,7 @@ From {{etyl|fro|en}} {{term|matrice||pregnant animal|lang=fro}}, from {{etyl|la|
 * Telugu: {{t|te|మాత్రిక|tr=maatrika}}
 {{trans-bottom}}
 
-{{trans-top|Two-dimensional array}}
+{{trans-top|two-dimensional array}}
 * Catalan: {{t|ca|matriu|f}}
 * Chinese:
 *: Mandarin: {{t|cmn|矩陣|sc=Hani}}, {{t+|cmn|矩阵|tr=jǔzhèn|sc=Hani}}, {{t|cmn|陣列|sc=Hani}}, {{t+|cmn|阵列|tr=zhènliè|sc=Hani}}
@@ -135,17 +135,19 @@ From {{etyl|fro|en}} {{term|matrice||pregnant animal|lang=fro}}, from {{etyl|la|
 * Swedish: {{t+|sv|matris|c}}
 {{trans-bottom}}
 
-{{trans-top|Geological matrix (''see also:'' [[geological matrix#Translations|geological matrix]])}}
-* Catalan: {{t|ca|matriu|f}}
-* Finnish: {{t|fi|matriksi}}, {{t|fi|välimassa}}
-* Greek: {{t+|el|μήτρα|f}}
+{{trans-top|computing: circuitry inside a keyboard}}
+* Finnish: {{t|fi|matriisi}}
 {{trans-mid}}
-* Icelandic: {{t+|is|mót}}
-* Russian: {{t+|ru|ма́трица|f}}
-* Spanish: {{t+|es|matriz|f}}
 {{trans-bottom}}
 
-{{trans-top|Sediment surrounding and including the artifacts, features, and other materials at an archaeological site}}
+{{trans-top|table of data}}
+* Finnish: {{t|fi|laskentataulukko}}, {{t|fi|taulukko}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|geological matrix|geological matrix}}
+
+{{trans-top|archaeology: sediment surrounding and including materials}}
 * Catalan: {{t|ca|matriu|f}}
 * Finnish: {{t+|fi|maaperä}}
 {{trans-mid}}
@@ -153,7 +155,7 @@ From {{etyl|fro|en}} {{term|matrice||pregnant animal|lang=fro}}, from {{etyl|la|
 * Italian: {{t+|it|matrice|f}}
 {{trans-bottom}}
 
-{{trans-top|Environment from which a given sample is taken}}
+{{trans-top|analytical chemistry: sampling environment}}
 * Chinese:
 *: Mandarin: {{t|cmn|基質|sc=Hani}}, {{t+|cmn|基质|tr=jīzhì|sc=Hani}}
 {{trans-mid}}
