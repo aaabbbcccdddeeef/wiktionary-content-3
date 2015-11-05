@@ -39,18 +39,24 @@ From {{etyl|la|gl}} {{term|clāmāre|lang=la}}, present active infinitive of {{t
 From {{etyl|roa-opt|pt}} {{term|chamar||call|lang=roa-opt}}, from {{etyl|la|pt}} {{term|clamāre|lang=la}}, present active infinitive of {{term|clamō|lang=la}}.
 
 ===Pronunciation===
-* {{a|Portugal}} {{IPA|[ʃɐ.ˈmaɾ]|lang=pt}}
-* {{a|Paulista}} {{IPA|[ʃa.ˈma(ɹ)]|lang=pt}}
-* {{a|South Brazil}} {{IPA|[ʃa.ˈma(ɻ)]|lang=pt}}
-* {{a|Carioca}} {{IPA|[ʃɜ.ˈma(χ)]|lang=pt}}
-* {{a|Nordestino}} {{IPA|[ʃɜ.ˈmaː]|lang=pt}}
+* {{a|Portugal}} {{IPA|/ʃɐ.ˈmaɾ/|lang=pt}}
+* {{a|Brazil}} {{IPA|/ʃɐ.ˈma(ʁ)/|lang=pt}}
+** {{a|Paulista}} {{IPA|[ʃɐ.ˈma(ɹ)]|[ʃɐ.ˈma(ɾ)]|lang=pt}}
+** {{a|South Brazil}} {{IPA|[ʃa.ˈma(ɻ)]|[ʃa.ˈma(ɾ)]|lang=pt}}
+** {{a|Carioca}} {{IPA|[ʃɐ.ˈma(χ)]|lang=pt}}
+** {{a|Nordestino}} {{IPA|[ʃɐ.ˈma(h)]|lang=pt}}
 
 ===Verb===
 {{pt-verb|cham|ar}}
 
-# to [[call]], [[summons]]
-# to [[invoke]]
-# to [[name]] (give a name to)
+# {{lb|pt|transitive}} to {{l|en|call}}; to {{l|en|summon}} {{gloss|to ask someone to come}}
+#: {{ux|pt|Tem uma partida amanhã, '''chamem''' seus amigos.|There is a match tomorrow, '''call''' your friends.}}
+# {{indtr|pt|de|ditr=1}} to {{l|en|call}} {{gloss|to use as the name of}}
+#: {{ux|pt|Os botânicos '''chamam''' aquele tipo de árvore de gimnosperma.|Botanists '''call''' that type of tree a gymnosperm.}}
+# {{indtr|pt|de|ditr=1|cop=1}} to {{l|en|call}} {{gloss|to verbally ascribe someone a quality}}
+#: {{ux|pt|Me '''chamaram''' de feio na escola.|'''They called''' me ugly at school.}}
+# {{lb|pt|pronominal|transitive}} to {{l|en|be called}} {{gloss|to have a specific name}}
+#: {{ux|pt|Olá, me '''chamo''' Pedro.|Hi, I’m '''called''' Peter.}}
 
 ====Quotations====
 {{seeCites}}
@@ -59,12 +65,12 @@ From {{etyl|roa-opt|pt}} {{term|chamar||call|lang=roa-opt}}, from {{etyl|la|pt}}
 {{pt-conj|cham|ar}}
 
 ====Synonyms====
-* (name) [[nomear]], [[denominar]], [[designar]], [[apelidar]]
-* (call) [[clamar]], [[invocar]], [[convocar]]
+* {{sense|to give a name}} {{l|pt|nomear}}, {{l|pt|denominar}}, {{l|pt|designar}}
+* {{sense|to summon}} {{l|pt|clamar}}, {{l|pt|invocar}}, {{l|pt|convocar}}
 
 ====Related terms====
-* [[chamada]], [[chamado]], [[chamador]], [[chamamento]]
-* [[chamariz]], [[chamarisco]]
+* {{l|pt|chamada}}, {{l|pt|chamado}}, {{l|pt|chamador}}, {{l|pt|chamamento}}
+* {{l|pt|chamariz}}, {{l|pt|chamarisco}}
 
 [[es:chamar]]
 [[fr:chamar]]
