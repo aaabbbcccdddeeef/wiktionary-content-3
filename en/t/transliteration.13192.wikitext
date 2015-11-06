@@ -24,8 +24,8 @@ From {{etyl|la|en}} {{term|transliteratus|lang=la}} past participle of {{term|tr
 * Bulgarian: {{t|bg|транслитера́ция|f|sc=Cyrl}}
 * Catalan: {{t|ca|transliteració|f}}
 * Chinese:
-*: Cantonese: {{t|yue|譯音|tr=jik6 jam1|sc=Hani}}
-*: Mandarin: {{t+|cmn|轉寫|sc=Hani}}, {{t|cmn|转写|tr=zhuǎnxiě|sc=Hani}}, {{t|cmn|音譯|sc=Hani}}, {{t+|cmn|音译|tr=yīnyì|sc=Hani}}
+*: Cantonese: {{t|yue|譯音|sc=Hani}}, {{t|yue|音译|tr=jik6 jam1|sc=Hani}}
+*: Mandarin: {{t+|cmn|轉寫|sc=Hani}}, {{t+|cmn|转写|tr=zhuǎnxiě|sc=Hani}}, {{t+|cmn|音譯|sc=Hani}}, {{t+|cmn|音译|tr=yīnyì|sc=Hani}}
 * Czech: {{t|cs|transliterace|f}}
 * Danish: {{t+|da|translitteration|c}}
 * Dutch: {{t+|nl|transliteratie|f}}
@@ -42,7 +42,7 @@ From {{etyl|la|en}} {{term|transliteratus|lang=la}} past participle of {{term|tr
 * Japanese: {{qualifier|lexical translation}} {{t|ja|字訳|tr=jiyaku}}, {{qualifier|phonetical translation}}{{t|ja|音訳|tr=on'yaku}}, {{t|ja|翻字|tr=honji}}
 {{trans-mid}}
 * Kazakh: {{t|kk|транслитерация|sc=Cyrl}}
-* Korean: {{t+|ko|전자|tr=轉字, jeonja}}, {{t|ko|轉字|sc=Kore}}
+* Korean: {{t+|ko|전자}} ({{t|ko|轉字|sc=Kore}})
 * Kyrgyz: {{t|ky|транслитерация|sc=Cyrl}}
 * Latin: {{qualifier|Classical and Vulgar Latin}} [[transcriptio]] {{g|f}}, {{qualifier|Modern Latin}} [[translitteratio]] {{g|f}}
 * Latvian: {{t|lv|transliterācija|f}}
@@ -58,12 +58,12 @@ From {{etyl|la|en}} {{term|transliteratus|lang=la}} past participle of {{term|tr
 *: Cyrillic: {{t|sh|транслитера́ција|f|sc=Cyrl}}, {{t|sh|пријеслов|m}}
 *: Roman: {{t|sh|transliterácija|f}}, {{t|sh|prijeslov|m}}
 * Slovak: {{t|sk|transliterácia|f}}
-* Slovene: {{t|sl|prečrkovanje}}
+* Slovene: {{t|sl|prečrkovanje|n}}
 * Spanish: {{t+|es|transcripción|f}}, {{t+|es|transliteración|f}}
 * Tamil: {{t-needed|ta}}
-* Telugu: {{t|te|ప్రతిలేఖనం|tr=pratilEkhanaM|sc=Telu}}
+* Telugu: {{t|te|ప్రతిలేఖనం|sc=Telu}}
 * Turkish: {{t|tr|başka alfabeyle yazma}}
-* Ukrainian: {{t|uk|транслітерація|f|tr=transliterácija}}
+* Ukrainian: {{t|uk|транслітера́ція|f}}
 * Uzbek: {{t+|uz|transliteratsiya}}
 * Vietnamese: {{t|vi|sự chuyển chữ bản chuyển chữ}}
 {{trans-bottom}}
