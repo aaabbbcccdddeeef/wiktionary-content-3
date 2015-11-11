@@ -57,10 +57,10 @@
 {{trans-top|collection of papers}}
 * Afrikaans: {{t|af|lêer}}
 * Arabic: {{t|ar|مِلَفّ|m}}
-* Bulgarian: {{t+|bg|папка|f|sc=Cyrl}}
+* Bulgarian: {{t+|bg|па́пка|f|sc=Cyrl}}
 * Catalan: {{t+|ca|arxiu|m}}, {{t|ca|fitxer|m}}
 * Chinese:
-*: Mandarin: {{t|cmn|檔案|sc=Hani}}, {{t+|cmn|档案|tr=dàng'àn|sc=Hani}}
+*: Mandarin: {{t+|cmn|檔案|sc=Hani}}, {{t+|cmn|档案|tr=dàng'àn|sc=Hani}}
 * Czech: {{t|cs|pořadač|m}}, {{t|cs|archiv|m}}, {{t+|cs|složka|f}}, {{t+|cs|šanon|m}}
 * Danish: {{t|da|arkivalie|n}}
 * Dutch: {{t+|nl|dossier|n}}, {{t+|nl|ordner}}
@@ -76,20 +76,21 @@
 {{trans-mid}}
 * Japanese: {{t|ja|綴じ込み|tr=tojikomi}}, {{t+|ja|ファイル|tr=fairu}}
 * Lithuanian: {{t+|lt|byla}}, {{t|lt|:lt:byla|f}}
-* Macedonian: {{t|mk|досие|n|tr=dosié}}, {{t|mk|картотека|f|tr=kartotéka}}
+* Macedonian: {{t|mk|досие́|n}}, {{t|mk|картоте́ка|f}}
 * Maltese: {{t|mt|arkivju|m}}, {{t|mt|fajl|m}}
 * Norwegian: {{t+|no|arkiv|n}}
 * Persian: {{t+|fa|پرونده|tr=parvande|sc=fa-Arab}}
 * Polish: {{t+|pl|plik|m}}
 * Portuguese: {{t+|pt|arquivo|m}} {{qualifier|Brazil}}, {{t+|pt|ficheiro|m}} {{qualifier|Portugal}}
 * Russian: {{t+|ru|де́ло|n}}, {{t+|ru|па́пка|f}}
-* Serbo-Croatian: {{t+|sh|fascikl|m}}, {{t+|sh|datoteka|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|фасцикл|m}}, {{t|sh|датотека|f}}
+*: Roman: {{t+|sh|fascikl|m}}, {{t+|sh|datoteka|f}}
 * Sotho: {{t+|st|faele}}
 * Spanish: {{t+|es|archivo|m}}, {{t|es|fichero|m}}
 * Swedish: {{t+|sv|arkiv|n}}
 * Thai: {{t+|th|แฟ้ม|tr=fáem}}
 * Turkish: {{t+|tr|dosya}}
-* Ukrainian: [[справа]] {{g|f}} (spr'''a'''wa)
 * Vietnamese: {{t+|vi|tập tin}}
 {{trans-bottom}}
 
@@ -105,7 +106,7 @@
 * Burmese: {{t-needed|my}}
 * Catalan: {{t+|ca|arxiu|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|文件|tr=wénjiàn|sc=Hani}}, {{t|cmn|檔案|sc=Hani}}, {{t+|cmn|档案|tr=dǎng'àn|sc=Hani}}
+*: Mandarin: {{t+|cmn|文件|tr=wénjiàn|sc=Hani}}, {{t+|cmn|檔案|sc=Hani}}, {{t+|cmn|档案|tr=dǎng'àn|sc=Hani}}
 * Czech: {{t+|cs|soubor|m}}
 * Danish: {{t+|da|fil|c}}
 * Dutch: {{t+|nl|bestand|n}}, {{t+|nl|file}}
@@ -117,7 +118,7 @@
 * German: {{t+|de|Datei|f}}, {{t|de|File|n}}
 * Greek: {{t+|el|αρχείο|n}}
 * Hebrew: {{t|he|קוֹבֶץ|m|tr=qovéts}}
-* Hindi: {{t|hi|फ़ाइल|tr=fā'il}}
+* Hindi: {{t|hi|फ़ाइल}}
 * Hungarian: {{t+|hu|fájl}}, {{t+|hu|adatállomány}}
 * Icelandic: {{t+|is|skrá|f}}, {{t|is|tölvuskrá|f}}
 * Indonesian: {{t+|id|berkas}}
@@ -131,7 +132,7 @@
 * Lao: {{t|lo|ໄຟລ໌|sc=Laoo}}, {{t|lo|ແຟ້ມ|sc=Laoo}}
 * Latvian: {{t|lv|fails|m}}
 * Lithuanian: {{t+|lt|failas|m}}
-* Macedonian: {{t|mk|податотека|f|tr=podatotéka}}, {{t|mk|датотека|f|tr=datotéka}}
+* Macedonian: {{t|mk|податоте́ка|f}}, {{t|mk|датоте́ка|f}}
 * Malay: {{t|ms|fail}}
 * Maltese: {{t|mt|fajl|m}}
 * Mongolian: {{t-needed|mn}}
@@ -142,7 +143,9 @@
 * Romanian: {{t+|ro|fișier|n}}
 * Russian: {{t+|ru|файл|m}}
 * Scots: {{t|sco|fyle}}
-* Serbo-Croatian: {{t+|sh|datoteka|f}}, {{t|sh|датотека|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|датотека|f}}
+*: Roman: {{t+|sh|datoteka|f}}
 * Slovak: {{t|sk|súbor|m}}
 * Slovene: {{t|sl|datoteka|f}}
 * Sotho: {{t+|st|faele}}
@@ -151,7 +154,7 @@
 * Tajik: {{t|tg|файл}}
 * Thai: {{t|th|ไฟล์|tr=fai}}
 * Turkish: {{t+|tr|dosya}}
-* Ukrainian: {{t|uk|річ|tr=rič}}, {{t+|uk|файл|m|sc=Cyrl}}
+* Ukrainian: {{t+|uk|файл|m|sc=Cyrl}}
 * Urdu: {{t|ur|فائل|tr=fā'il|sc=ur-Arab}}
 * Uzbek: {{t+|uz|fayl}}
 * Vietnamese: {{t|vi|tệp}}
