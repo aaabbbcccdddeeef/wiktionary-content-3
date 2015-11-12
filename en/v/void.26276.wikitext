@@ -42,9 +42,29 @@ From {{etyl|fro|en}} ''[[vuit]]'', ''[[voide]]'' (modern {{term|vide|lang=fr}}).
 #*: The return value can safely be ignored if it is a '''void''' function.
 
 =====Translations=====
-{{trans-top|Having lost all legal validity}}
+{{trans-top|containing nothing}}
+* Finnish: {{t|fi|tyhjä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|unoccupied}}
+* Finnish: {{t|fi|tyhjä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|being without}}
+* Finnish: {{t|fi|[[jolta]] [[puuttuu]]}} {{qualifier|"who is lacking"}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|not producing any effect; ineffectual; vain}}
+* Finnish: {{t|fi|tyhjä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|having lost all legal validity}}
 * Dutch: {{t|nl|ongeldig}}, {{t+|nl|nietig}}
-* Finnish: {{t+|fi|mitätön}}, {{t|fi|mitätöity}}
+* Finnish: {{t+|fi|mitätön}}, {{t|fi|pätemätön}}, {{t|fi|mitätöity}}
 * French: {{t+|fr|nul}}
 * German: {{t+|de|ungültig}}, {{t+|de|nichtig}}
 * Hungarian: {{t+|hu|érvénytelen}}, {{t+|hu|semmis}}
@@ -59,9 +79,15 @@ From {{etyl|fro|en}} ''[[vuit]]'', ''[[voide]]'' (modern {{term|vide|lang=fr}}).
 * Spanish: {{t+|es|nulo|m}}, {{t+|es|inválido|m}}
 {{trans-bottom}}
 
-{{trans-top|in computing}} <!-- , returning not a value -->
-* Spanish: {{t+|es|nulo|m}}, {{t+|es|inválido|m}}
+{{trans-top|containing no immaterial quality}}
+* Finnish: {{t|fi|tyhjä}}
 {{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|computing: not returning value}}
+* Finnish: {{t|fi|tyhjä}}
+{{trans-mid}}
+* Spanish: {{t+|es|nulo|m}}, {{t+|es|inválido|m}}
 {{trans-bottom}}
 
 ====Noun====
