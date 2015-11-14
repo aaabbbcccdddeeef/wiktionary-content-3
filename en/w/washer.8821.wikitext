@@ -29,16 +29,16 @@
 ====Translations====
 {{trans-top|something that washes}}
 * Catalan: {{t|ca|rentadora|f}}
-* Czech: [[pračka]] {{g|f}} (''for laundry''), [[myčka]] {{g|f}} (''for dishes'')
+* Czech: {{t|cs|pračka|f}} {{qualifier|for laundry}}, {{t|cs|myčka|f}} {{qualifier|for dishes}}
 * Dutch: {{t+|nl|wasmachine|m}}, {{t+|nl|vaatwasser|m}}
 * Finnish: {{t+|fi|pesukone}}, {{t|fi|pesuri}}, {{t|fi|pesin}}
-* German: [[Waschmaschine]] {{g|f}} {{gloss|washing machine}}, [[Spülmaschine]] {{g|f}} {{gloss|dish washer}}
-* Irish: {{t|ga|meaisín níocháin|m}}
-* Italian: {{t+|it|lavatrice|f}} {{qualifier|washing machine}}, {{t+|it|lavastoviglie|f}} {{qualifier|dish washer}}
+* German: {{t|de|Waschmaschine|f}} {{gloss|washing machine}}, {{t|de|Spülmaschine|f}} {{gloss|dishwasher}}
+* Irish: {{t|ga|meaisín níocháin|m}} {{gloss|washing machine}}
+* Italian: {{t+|it|lavatrice|f}} {{gloss|washing machine}}, {{t+|it|lavastoviglie|f}} {{gloss|dishwasher}}
 {{trans-mid}}
 * Japanese: {{t+|ja|洗濯機|tr=sentakuki}}
-* Maori: {{t|mi|mīhini horoi rīhi}} {{qualifier|dishwasher}}, {{t|mi|pūrere horoi rīhi}} {{qualifier|dishwasher}}, {{t|mi|pūrere horoi kākahu}} {{qualifier|clothes washer/washing machine}}, {{t|mi|kaihoroi}} {{qualifier|person}}
-* Norwegian: {{t+|no|vaskemaskin|m}}, (''dishwasher'') {{t+|no|oppvaskmaskin|m}}
+* Maori: {{t|mi|mīhini horoi rīhi}} {{gloss|dishwasher}}, {{t|mi|pūrere horoi rīhi}} {{gloss|dishwasher}}, {{t|mi|pūrere horoi kākahu}} {{gloss|clothes washer/washing machine}}, {{t|mi|kaihoroi}} {{qualifier|person}}
+* Norwegian: {{t+|no|vaskemaskin|m}}, {{gloss|dishwasher}} {{t+|no|oppvaskmaskin|m}}
 * Portuguese: {{t|pt|lavador|m}}
 * Spanish: {{t+|es|lavadora|f}}, {{t+|es|lavarropas|m}} {{qualifier|River Plate region}}, {{t+|es|lavavajillas|m}} {{gloss|dishwasher}}
 * Swedish: {{t+|sv|tvättmaskin|c}}
@@ -50,8 +50,8 @@
 * Chinese:
 *: Mandarin: {{t|cmn|洗衣婦|sc=Hani}}, {{t|cmn|洗衣妇|tr=xǐyīfù|sc=Hani}} {{qualifier|woman}}
 * Czech: {{t|cs|pradlena|f}}
-* Dutch: [[wasserette]][[juffrouw]] {{gloss|laundrette woman}}
-* Finnish: {{t|fi|pesijä}}, [[pesijätär]] (woman), [[pyykkäri]] (clothes)
+* Dutch: {{t|nl|[[wasserette]][[juffrouw]]|f}} {{gloss|launderette woman}}
+* Finnish: {{t|fi|pesijä}}, {{t|fi|pesijätär}} {{qualifier|woman}}, {{t|fi|pyykkäri}} {{qualifier|clothes}}
 * French: {{t+|fr|laveur|m}}, {{t+|fr|laveuse|f}}
 * German: {{t|de|Wäscher|m}}, {{t|de|Wäscherin|f}}, {{t|de|Waschfrau|f}}
 * Irish: {{t|ga|niteoir|m}}
@@ -63,14 +63,14 @@
 * Russian: {{t+|ru|пра́чка|f}}
 * Slovak: {{t|sk|práčka|f}}
 * Spanish: {{t+|es|lavandera|f}}
-* Swedish: {{t|sv|tvätterska|c}} ''(woman)''
-* Ukrainian: {{t+|uk|праля|f|tr=prálja}}
+* Swedish: {{t|sv|tvätterska|c}} {{qualifier|woman}}
+* Ukrainian: {{t+|uk|пра́ля|f}}
 {{trans-bottom}}
 
 {{trans-top|flat disk}}
 * Basque: {{t+|eu|zirrindola}}
 * Catalan: {{t|ca|volandera|f}}
-* Crimean Tatar: [[şayba]].
+* Crimean Tatar: {{t|crh|şayba}}
 * Czech: {{t|cs|podložka|f}}
 * Finnish: {{t+|fi|aluslevy}}, {{qualifier|colloquial}} {{t+|fi|prikka}}, {{t+|fi|rikka}}
 * French: {{t+|fr|rondelle|f}}
@@ -87,7 +87,7 @@
 * Portuguese: {{t+|pt|arruela|f}}
 * Romanian: {{t+|ro|șaibă|f}}
 * Russian: {{t+|ru|ша́йба|f}}
-* Spanish: {{t+|es|arandela|f}}, {{t+|es|zapata|f}} {{gloss|of leather or rubber}}
+* Spanish: {{t+|es|arandela|f}}, {{t+|es|zapata|f}} {{qualifier|of leather or rubber}}
 * Swedish: {{t+|sv|bricka}}, {{t|sv|packning}}
 {{trans-bottom}}
 
