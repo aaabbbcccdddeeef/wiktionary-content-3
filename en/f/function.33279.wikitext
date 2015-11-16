@@ -35,298 +35,26 @@ From {{etyl|frm|en}} {{term|function|lang=frm}}, from {{etyl|fro|en}} {{term|fon
 * {{sense|computing: routine that returns a result}} [[procedure]], [[routine]], [[subprogram]], [[subroutine]]
 
 ====Hypernyms====
-* {{sense|mathematics}} {{l/en|relation}}
+* {{sense|mathematics}} {{l|en|relation}}
 
 ====Hyponyms====
 * {{l|en|subfunction}}
-{{hyp-top|astronomy: Hyponyms of "function"}}
-* {{l|en|luminosity function}}
-* {{l|en|mass function}}
-{{hyp-mid}}
-* {{l|en|phase function}}
-* {{l|en|source function}}
-{{hyp-bottom}}
+{{hyp4|title=astronomy: Hyponyms of "function"|{{l|en|luminosity function}}|{{l|en|mass function}}|{{l|en|phase function}}|{{l|en|source function}}}}
 * {{sense|chemistry}}{{l|en|acidity function}}
-{{hyp-top3|computing: Hyponyms of "function"}}
-* {{l|en|Boolean function}}
-* {{l|en|built-in function}}
-* {{l|en|computable function}}
-* {{l|en|concave function}}
-* {{l|en|constructor function}}
-{{hyp-mid3}}
-* {{l|en|convex function}}
-* {{l|en|error function}}
-* {{l|en|predefined function}}
-* {{l|en|recursive function}}
-* {{l|en|restricted function}}
-{{hyp-mid3}}
-* {{l|en|set function}}
-* {{l|en|switch function}}
-* {{l|en|transition function}}
-* {{l|en|user-defined function}}
-{{hyp-bottom}}
-{{hyp-top|logic: Hyponyms of "function"}}
-* {{l|en|Boolean function}}
-* {{l|en|propositional function}}
-{{hyp-mid}}
-* {{l|en|switching function}}
-* {{l|en|truth function}}
-{{hyp-bottom}}
-{{hyp-top|management: Hyponyms of "function"}}
-* {{l|en|line function}}
-{{hyp-mid}}
-* {{l|en|staff function}}
-{{hyp-bottom}}
-{{hyp-top4|mathematics: Hyponyms of "function"}}
-* {{l|en|additive function}}
-* {{l|en|aggregate function}}
-* {{l|en|algebraic function}}
-* {{l|en|alternating function}}
-* {{l|en|analytic function}}
-* {{l|en|anonymous function}}
-* {{l|en|Baire function}}
-* {{l|en|bei function}}
-* {{l|en|ber function}}
-* {{l|en|Bessel function}}
-* {{l|en|beta function}}
-* {{l|en|Bloch function}}
-* {{l|en|bounded function}}
-* {{l|en|boxcar function}}
-* {{l|en|Brillouin function}}
-* {{l|en|Cantor function}}
-* {{l|en|characteristic function}}
-* {{l|en|circular function}}
-* {{l|en|comparable function}}
-* {{l|en|complementary function}}
-* {{l|en|composite function}}
-* {{l|en|connect function}}
-* {{l|en|constant function}}
-* {{l|en|constraint function}}
-* {{l|en|contiguous function}}
-* {{l|en|continuous function}}
-* {{l|en|correlation function}}
-* {{l|en|cost function}}
-* {{l|en|critical function}}
-* {{l|en|cylinder function}}
-* {{l|en|decreasing function}}
-* {{l|en|delta function}}
-* {{l|en|density function}}
-* {{l|en|describing function}}
-* {{l|en|differentiable function}}
-* {{l|en|discriminant function}}
-* {{l|en|dissipation function}}
-* {{l|en|distance function}}
-* {{l|en|distribution function}}
-* {{l|en|driving-point function}}
-* {{l|en|eigenfunction}}
-* {{l|en|elementary function}}
-{{hyp-mid4}}
-* {{l|en|Emden function}}
-* {{l|en|entire function}}
-* {{l|en|Euler's phi function}}
-* {{l|en|even function}}
-* {{l|en|explicit function}}
-* {{l|en|exponential function}}
-* {{l|en|first-class function}}
-* {{l|en|form function}}
-* {{l|en|Fowler function}}
-* {{l|en|frontogenetic function}}
-* {{l|en|gamma function}}
-* {{l|en|generating function}}
-* {{l|en|Green's function}}
-* {{l|en|Hamiltonian function}}
-* {{l|en|Hankel function}}
-* {{l|en|harmonic function}}
-* {{l|en|hei function}}
-* {{l|en|her function}}
-* {{l|en|Hildebrand function}}
-* {{l|en|homogeneous function}}
-* {{l|en|Hugoniot function}}
-* {{l|en|hyperbolic function}}
-* {{l|en|hypergeometric function}}
-* {{l|en|identity function}}
-* {{l|en|implicit function}}
-* {{l|en|impulse function}}
-* {{l|en|incidence function}}
-* {{l|en|increasing function}}
-* {{l|en|independent function}}
-* {{l|en|influence function}}
-* {{l|en|inner function}}
-* {{l|en|integrable function}}
-* {{l|en|integral function}}
-* {{l|en|invariant function}}
-* {{l|en|inverse function}}
-* {{l|en|inverting function}}
-* {{l|en|J function}}
-* {{l|en|jump function}}
-* {{l|en|kei function}}
-* {{l|en|ker function}}
-* {{l|en|Koebe function}}
-* {{l|en|Lagrangian function}}
-{{hyp-mid4}}
-* {{l|en|Lamé function}}
-* {{l|en|Legendre function}}
-* {{l|en|Leverett function}}
-* {{l|en|linear function}}
-* {{l|en|Liouville function}}
-* {{l|en|loss function}}
-* {{l|en|Lyapunov function}}
-* {{l|en|mass function}}
-* {{l|en|Massieu function}}
-* {{l|en|Mathieu function}}
-* {{l|en|measurable function}}
-* {{l|en|membership function}}
-* {{l|en|meromorphic function}}
-* {{l|en|microspec function}}
-* {{l|en|Möbius function}}
-* {{l|en|monotone function}}
-* {{l|en|multilinear function}}
-* {{l|en|natural function}}
-* {{l|en|Neumann function}}
-* {{l|en|normalized function}}
-* {{l|en|normalized support function}}
-* {{l|en|NOT function}}
-* {{l|en|number-theoretic function}}
-* {{l|en|objective function}}
-* {{l|en|odd function}}
-* {{l|en|orthogonal function}}
-* {{l|en|orthonormal function}}
-* {{l|en|partial function}}
-* {{l|en|partition function}}
-* {{l|en|Patterson function}}
-* {{l|en|penalty function}}
-* {{l|en|periodic function}}
-* {{l|en|Planck function}}
-* {{l|en|point function}}
-* {{l|en|polynomial function}}
-* {{l|en|power function}}
-* {{l|en|principal function}}
-* {{l|en|psi function}}
-* {{l|en|quadratic function}}
-* {{l|en|Rademacher function}}
-* {{l|en|random function}}
-* {{l|en|rational function}}
-{{hyp-mid4}}
-* {{l|en|real function}}
-* {{l|en|recursive function}}
-* {{l|en|regular function}}
-* {{l|en|Riemann function}}
-* {{l|en|Riemann P function}}
-* {{l|en|sample function}}
-* {{l|en|scalar function}}
-* {{l|en|self-organizing function}}
-* {{l|en|sensitivity function}}
-* {{l|en|shear-viscosity function}}
-* {{l|en|sigma function}}
-* {{l|en|simple function}}
-* {{l|en|single-valued function}}
-* {{l|en|sinusoidal function}}
-* {{l|en|Smarandache function}}
-* {{l|en|special function}}
-* {{l|en|step function}}
-* {{l|en|stream function}}
-* {{l|en|stress function}}
-* {{l|en|summable function}}
-* {{l|en|support function}}
-* {{l|en|symmetric function}}
-* {{l|en|test function}}
-* {{l|en|theta function}}
-* {{l|en|torsion function}}
-* {{l|en|transcendental function}}
-* {{l|en|transfer function}}
-* {{l|en|transmission function}}
-* {{l|en|trigonometric function}}
-* {{l|en|trigonometric cofunction}}
-* {{l|en|truth function}}
-* {{l|en|unit function}}
-* {{l|en|universal wavelength function}}
-* {{l|en|variadic function}}
-* {{l|en|vector function}}
-* {{l|en|Wannier function}}
-* {{l|en|Weierstrass function}}
-* {{l|en|weight function}}
-* {{l|en|zeta function}}
-{{hyp-bottom}}
-* {{sense|signal processing}} {{l|en|spectral density function}}/{{l|en|spectral function}}
-{{hyp-top3|physics: Hyponyms of "function"}}
-* {{l|en|Airy function}}
-* {{l|en|excitation function}}
-* {{l|en|Langevin function}}
-* {{l|en|luminosity function}}
-{{hyp-mid3}}
-* {{l|en|nuclear response function}}
-* {{l|en|partition function}}
-* {{l|en|psi function}}
-* {{l|en|scattering function}}
-{{hyp-mid3}}
-* {{l|en|spectral function}}
-* {{l|en|wave function}}
-* {{l|en|work function}}
-{{hyp-bottom}}
+{{hyp4|title=computing: Hyponyms of "function"|{{l|en|Boolean function}}|{{l|en|built-in function}}|{{l|en|computable function}}|{{l|en|concave function}}|{{l|en|constructor function}}|{{l|en|convex function}}|{{l|en|error function}}|{{l|en|first-class function}}|{{l|en|second-class function}}|{{l|en|predefined function}}|{{l|en|recursive function}}|{{l|en|restricted function}}|{{l|en|set function}}|{{l|en|switch function}}|{{l|en|transition function}}|{{l|en|user-defined function}}}}
+{{hyp4|title=logic: Hyponyms of "function"|{{l|en|Boolean function}}|{{l|en|propositional function}}|{{l|en|switching function}}|{{l|en|truth function}}}}
+{{hyp2|title=management: Hyponyms of "function"|{{l|en|line function}}|{{l|en|staff function}}|}}
+{{hyp4|title=mathematics: Hyponyms of "function"|{{l|en|additive function}}|{{l|en|aggregate function}}|{{l|en|algebraic function}}|{{l|en|alternating function}}|{{l|en|analytic function}}|{{l|en|anonymous function}}|{{l|en|Baire function}}|{{l|en|bei function}}|{{l|en|ber function}}|{{l|en|Bessel function}}|{{l|en|beta function}}|{{l|en|Bloch function}}|{{l|en|bounded function}}|{{l|en|boxcar function}}|{{l|en|Brillouin function}}|{{l|en|Cantor function}}|{{l|en|characteristic function}}|{{l|en|circular function}}|{{l|en|comparable function}}|{{l|en|complementary function}}|{{l|en|composite function}}|{{l|en|connect function}}|{{l|en|constant function}}|{{l|en|constraint function}}|{{l|en|contiguous function}}|{{l|en|continuous function}}|{{l|en|correlation function}}|{{l|en|cost function}}|{{l|en|critical function}}|{{l|en|cylinder function}}|{{l|en|decreasing function}}|{{l|en|delta function}}|{{l|en|density function}}|{{l|en|describing function}}|{{l|en|differentiable function}}|{{l|en|discriminant function}}|{{l|en|dissipation function}}|{{l|en|distance function}}|{{l|en|distribution function}}|{{l|en|driving-point function}}|{{l|en|eigenfunction}}|{{l|en|elementary function}}|{{l|en|Emden function}}|{{l|en|entire function}}|{{l|en|Euler's phi function}}|{{l|en|even function}}|{{l|en|explicit function}}|{{l|en|exponential function}}|{{l|en|first-class function}}|{{l|en|form function}}|{{l|en|Fowler function}}|{{l|en|frontogenetic function}}|{{l|en|gamma function}}|{{l|en|generating function}}|{{l|en|Green's function}}|{{l|en|Hamiltonian function}}|{{l|en|Hankel function}}|{{l|en|harmonic function}}|{{l|en|hei function}}|{{l|en|her function}}|{{l|en|Hildebrand function}}|{{l|en|homogeneous function}}|{{l|en|Hugoniot function}}|{{l|en|hyperbolic function}}|{{l|en|hypergeometric function}}|{{l|en|identity function}}|{{l|en|implicit function}}|{{l|en|impulse function}}|{{l|en|incidence function}}|{{l|en|increasing function}}|{{l|en|independent function}}|{{l|en|influence function}}|{{l|en|inner function}}|{{l|en|integrable function}}|{{l|en|integral function}}|{{l|en|invariant function}}|{{l|en|inverse function}}|{{l|en|inverting function}}|{{l|en|J function}}|{{l|en|jump function}}|{{l|en|kei function}}|{{l|en|ker function}}|{{l|en|Koebe function}}|{{l|en|Lagrangian function}}|{{l|en|Lamé function}}|{{l|en|Legendre function}}|{{l|en|Leverett function}}|{{l|en|linear function}}|{{l|en|Liouville function}}|{{l|en|loss function}}|{{l|en|Lyapunov function}}|{{l|en|mass function}}|{{l|en|Massieu function}}|{{l|en|Mathieu function}}|{{l|en|measurable function}}|{{l|en|membership function}}|{{l|en|meromorphic function}}|{{l|en|microspec function}}|{{l|en|Möbius function}}|{{l|en|monotone function}}|{{l|en|multilinear function}}|{{l|en|natural function}}|{{l|en|Neumann function}}|{{l|en|normalized function}}|{{l|en|normalized support function}}|{{l|en|NOT function}}|{{l|en|number-theoretic function}}|{{l|en|objective function}}|{{l|en|odd function}}|{{l|en|orthogonal function}}|{{l|en|orthonormal function}}|{{l|en|partial function}}|{{l|en|partition function}}|{{l|en|Patterson function}}|{{l|en|penalty function}}|{{l|en|periodic function}}|{{l|en|Planck function}}|{{l|en|point function}}|{{l|en|polynomial function}}|{{l|en|power function}}|{{l|en|principal function}}|{{l|en|psi function}}|{{l|en|quadratic function}}|{{l|en|Rademacher function}}|{{l|en|random function}}|{{l|en|rational function}}|{{l|en|real function}}|{{l|en|recursive function}}|{{l|en|regular function}}|{{l|en|Riemann function}}|{{l|en|Riemann P function}}|{{l|en|sample function}}|{{l|en|scalar function}}|{{l|en|self-organizing function}}|{{l|en|sensitivity function}}|{{l|en|shear-viscosity function}}|{{l|en|sigma function}}|{{l|en|simple function}}|{{l|en|single-valued function}}|{{l|en|sinusoidal function}}|{{l|en|Smarandache function}}|{{l|en|special function}}|{{l|en|step function}}|{{l|en|stream function}}|{{l|en|stress function}}|{{l|en|summable function}}|{{l|en|support function}}|{{l|en|symmetric function}}|{{l|en|test function}}|{{l|en|theta function}}|{{l|en|torsion function}}|{{l|en|transcendental function}}|{{l|en|transfer function}}|{{l|en|transmission function}}|{{l|en|trigonometric function}}|{{l|en|trigonometric cofunction}}|{{l|en|truth function}}|{{l|en|unit function}}|{{l|en|universal wavelength function}}|{{l|en|variadic function}}|{{l|en|vector function}}|{{l|en|Wannier function}}|{{l|en|Weierstrass function}}|{{l|en|weight function}}|{{l|en|zeta function}}}}
+{{hyp4|title=physics: Hyponyms of "function"|{{l|en|Airy function}}|{{l|en|excitation function}}|{{l|en|Langevin function}}|{{l|en|luminosity function}}|{{l|en|nuclear response function}}|{{l|en|partition function}}|{{l|en|psi function}}|{{l|en|scattering function}}|{{l|en|spectral function}}|{{l|en|wave function}}|{{l|en|work function}}}}
 * {{sense|psychology}} {{l|en|executive ego function}}
+* {{sense|signal processing}} {{l|en|spectral density function}}/{{l|en|spectral function}}
 * {{sense|systems theory}} {{l|en|control function}}
 
 ====Derived terms====
-{{der-top4|terms derived from "function"}}
-* {{l/en|bifunctional}}
-* {{l/en|cofunction}}
-* {{l/en|difunctional}}
-{{der-mid4}}
-* {{l/en|functional}}
-* {{l/en|functionalism}}
-* {{l/en|functionality}}
-{{der-mid4}}
-* {{l|en|functor}}
-* {{l|en|fungible}}
-* {{l/en|eigenfunction}}
-{{der-mid4}}
-* {{l/en|malfunction}}
-* {{l/en|subfunction}}
-* {{l/en|subfunctional}}
-{{der-bottom}}
+{{der4|title=terms derived from "function"|{{l|en|bifunctional}}|{{l|en|cofunction}}|{{l|en|difunctional}}|{{l|en|functional}}|{{l|en|functionalism}}|{{l|en|functionality}}|{{l|en|functor}}|{{l|en|fungible}}|{{l|en|eigenfunction}}|{{l|en|malfunction}}|{{l|en|subfunction}}|{{l|en|subfunctional}}}}
 
 ====Related terms====
-{{rel-top4|terms derived from "function"}}
-* {{l/en|analytical function generator}}
-* {{l/en|anatomy of function}}
-* {{l/en|diode function generator}}
-* {{l/en|dysfunction}}
-* {{l/en|eigenfunction expansion}}
-* {{l/en|function code}}
-* {{l/en|function failure safety}}
-* {{l/en|function generator}}
-* {{l/en|function key}}
-* {{l/en|function multiplier}}
-* {{l/en|function object}}
-* {{l/en|function space}}
-* {{l/en|function switch}}
-{{rel-mid4}}
-* {{l/en|function table}}
-* {{l/en|function unit}}
-* {{l/en|function-evaluation routine}}
-* {{l/en|general-purpose function generator}}
-* {{l/en|implicit function theorem}}
-* {{l/en|information function of a partition}}
-* {{l/en|inverse function theorem}}
-* {{l/en|malfunction routine}}
-* {{l/en|mathematical function program}}
-* {{l/en|minimal brain dysfunction syndrome}}
-* {{l/en|monofunctional compound}}
-* {{l/en|multifunction array radar}}
-* {{l/en|nonfunctional packages software}}
-{{rel-mid4}}
-* {{l/en|positive linear functional}}
-* {{l/en|programmed function key}}
-* {{l/en|radicofunctional name}}
-* {{l/en|second-class function}}
-* {{l/en|separated-function synchrotron}}
-* {{l/en|sharpness function technique}}
-* {{l/en|step-function generator}}
-* {{l/en|tapped-potentiometer function generator}}
-* {{l/en|thermodynamic function of state}}
-* {{l/en|tool-function controller}}
-* {{l/en|variable diode function generator}}
-{{rel-bottom}}
+{{rel4|title=terms derived from "function"|{{l|en|analytical function generator}}|{{l|en|anatomy of function}}|{{l|en|diode function generator}}|{{l|en|dysfunction}}|{{l|en|eigenfunction expansion}}|{{l|en|function code}}|{{l|en|function failure safety}}|{{l|en|function generator}}|{{l|en|function key}}|{{l|en|function multiplier}}|{{l|en|function object}}|{{l|en|function space}}|{{l|en|function switch}}|{{l|en|function table}}|{{l|en|function unit}}|{{l|en|function-evaluation routine}}|{{l|en|general-purpose function generator}}|{{l|en|implicit function theorem}}|{{l|en|information function of a partition}}|{{l|en|inverse function theorem}}|{{l|en|malfunction routine}}|{{l|en|mathematical function program}}|{{l|en|minimal brain dysfunction syndrome}}|{{l|en|monofunctional compound}}|{{l|en|multifunction array radar}}|{{l|en|nonfunctional packages software}}|{{l|en|positive linear functional}}|{{l|en|programmed function key}}|{{l|en|radicofunctional name}}|{{l|en|second-class function}}|{{l|en|separated-function synchrotron}}|{{l|en|sharpness function technique}}|{{l|en|step-function generator}}|{{l|en|tapped-potentiometer function generator}}|{{l|en|thermodynamic function of state}}|{{l|en|tool-function controller}}|{{l|en|variable diode function generator}}}}
 
 ====Translations====
 {{trans-top|what something does or is used for}}
@@ -540,7 +268,8 @@ From {{etyl|frm|en}} {{term|function|lang=frm}}, from {{etyl|fro|en}} {{term|fon
 the tables above.-->
 {{checktrans-top}}
 * {{ttbc|ia}}: [[#Interlingua|function]] (1, 2, 3)
-{{trans-bottom}}
+{{checktrans-mid}}
+{{checktrans-bottom}}
 
 ===Verb===
 {{en-verb}}
