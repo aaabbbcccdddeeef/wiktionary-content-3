@@ -146,7 +146,7 @@ Inflected forms.
 ==Nigerian Pidgin==
 
 ===Etymology===
-From {{etyl|en|pcm}} {{term|want|lang=en}}.
+From {{der|pcm|en|want}}.
 
 ===Verb===
 {{head|pcm|verb}}
@@ -158,7 +158,7 @@ From {{etyl|en|pcm}} {{term|want|lang=en}}.
 ==North Frisian==
 
 ===Etymology===
-From {{etyl|ofs|frr}} {{m|ofs|winna}}, which derives from from {{etyl|gem-pro|frr}} {{m|gem-pro|*winnaną}}.
+From {{der|frr|ofs|winna}}, which derives from from {{der|frr|gem-pro|*winnaną}}.
 
 ===Verb===
 {{head|frr|verb}}
@@ -184,7 +184,7 @@ From {{etyl|ofs|frr}} {{m|ofs|winna}}, which derives from from {{etyl|gem-pro|fr
 ----
 
 ==Old English==
-
+{{rfc|lang=ang}}
 ===Alternative forms===
 * {{l|ang|wann}}
 
@@ -194,8 +194,8 @@ From {{etyl|ofs|frr}} {{m|ofs|winna}}, which derives from from {{etyl|gem-pro|fr
 ===Verb===
 {{head|ang|verb form}}
 
-# {{form of|Third-person singular|winnan|lang=ang}}
-#: ''Grendel wan hwile wið Hroþgar.'' Grendel long fought against Hrothgar. (''Beowulf'' ll. 151-2)
+# {{inflection of|winnan||3|s|lang=ang}}
+#: {{ux|ang|Grendel wan hwile wið Hroþgar.|inline=1|Grendel long fought against Hrothgar.}} (''Beowulf'' ll. 151-2)
 
 ----
 
@@ -225,18 +225,16 @@ From {{etyl|ofs|frr}} {{m|ofs|winna}}, which derives from from {{etyl|gem-pro|fr
 ==Scots==
 
 ===Numeral===
-{{head|sco|numeral}}
+{{head|sco|numeral|cat2=cardinal numbers}}
 
 # {{context|West Central Scots|lang=sco}} [[one]].
-
-[[Category:Scots cardinal numbers]]
 
 ----
 
 ==Sranan Tongo==
 
 ===Etymology 1===
-From {{etyl|en|srn}} {{term|one|lang=en}}.
+From {{der|srn|en|one}}.
 
 ====Number====
 {{head|srn|number}}
@@ -244,7 +242,7 @@ From {{etyl|en|srn}} {{term|one|lang=en}}.
 # {{context|cardinal|lang=srn}} [[one]]
 
 ===Etymology 2===
-From {{etyl|en|srn}} {{term|want|lang=en}}.
+From {{der|srn|en|want}}.
 
 ====Verb====
 {{head|srn|verb}}
@@ -256,7 +254,7 @@ From {{etyl|en|srn}} {{term|want|lang=en}}.
 ==Tok Pisin==
 
 ===Etymology===
-{{etyl|en|tpi}} {{term|one|lang=en}}
+From {{inh|tpi|en|one}}.
 
 ===Noun===
 {{head|tpi|noun}}
@@ -266,11 +264,9 @@ From {{etyl|en|srn}} {{term|want|lang=en}}.
 {{LDL}}
 
 ===Numeral===
-{{head|tpi|numeral}}
+{{head|tpi|numeral|cat2=cardinal numbers}}
 
 # One. Used with units of measurement and in times: ''wan aua'', ''wan klok''. See also [[wanpela]].
-
-[[Category:Tok Pisin cardinal numbers]]
 
 [[et:wan]]
 [[es:wan]]
