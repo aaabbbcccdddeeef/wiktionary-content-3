@@ -209,16 +209,23 @@ A {{etyl|NL.|en}} word derived by Sir Humphry Davy in 1808, from {{etyl|la|en}} 
 ----
 
 ==Latin==
-{{wikipedia|lang=la}}
-
 ===Pronunciation===
-* {{la-pronunc|calcium}}
+* {{la-pronunc|eccl=yes|calcium}}
+
+===Etymology 1===
+Form of {{m|la|calx}}.
+
+===Noun===
+{{la-noun-form|calcium}}
+#{{inflection of|calx||gen|p|lang=la}}
+
+===Etymology 2===
+Derived from {{suffix|lang=la|[[calx]], [[calcis]]|t1=chalk|ium|pos2=chemical element suffix}}.
 
 ===Noun===
 {{la-noun|calcium||calciī|n|second}}
-
-# [[#English|calcium]]
-# {{inflection of|calx||gen|p|lang=la}}
+{{wikipedia|lang=la}}
+#{{context|lang=la|New Latin}} [[#English|calcium]]
 
 ====Inflection====
 {{la-decl-2nd-N|calci}}
