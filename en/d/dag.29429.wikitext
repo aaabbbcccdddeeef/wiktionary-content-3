@@ -82,8 +82,8 @@ From {{etyl|fro|en}} {{m|fro|dague}} (from {{etyl|pro|en}} {{m|pro|dague}}, of u
 ====Verb====
 {{en-verb|dagg}}
 
-# {{label|en|transitive}} To skewer food, for roasting over a fire
-# {{label|en|transitive}} To [[cut]] or [[slash]] the edge of a [[garment]] into dags
+# {{lb|en|transitive}} To skewer food, for roasting over a fire
+# {{lb|en|transitive}} To [[cut]] or [[slash]] the edge of a [[garment]] into dags
 
 ===Etymology 4===
 Variation of {{m|en|dang}}.
@@ -103,7 +103,7 @@ Variation of {{m|en|dang}}.
 # {{label|en|Australia|_|slang|New Zealand|_|derogatory|_|slang}} One who [[dress]]es unfashionably or without apparent care about [[appearance]].
 #* '''2004''' July 25, Debbie Kruger, Melbourne Weekly Magazine, [http://www.debbiekruger.com/writer/freelance/craig.html ''All the World's a Stage''],
 #*: Now, wide-eyed and unfashionably excited ("I’m such a '''dag'''!" she remarks several times), she has the leading role of Viola in the Bell Shakespeare Company’s production of Twelfth Night, opening on August 10 at the Victorian Arts Centre Playhouse.
-#* '''2006''' September 26, [[w:TV Week|TV Week]], [http://tvweek.ninemsn.com.au/article.aspx?id=147623 ''Klancie Keough eliminated''],
+#* '''2006''' September 26, {{w|TV Week}}, [http://tvweek.ninemsn.com.au/article.aspx?id=147623 ''Klancie Keough eliminated''],
 #*: What did you think about Mark calling you a '''dag'''?
 #*: To me a '''dag''' is a person who doesn't have a lot of pride in their appearance or the way they present themselves — the way they sing and how they hold themselves basically. But it didn't really bother me. He said, "You're such a '''dag''', you're cool." I took it as "you're a laidback person". The way they cut it and edited it made it sound on TV like I was grumpy about it, but I wasn't. It was pretty funny how it came across.
 #* '''2009''' November 14, [[w:Daily Telegraph (Australia)|Daily Telegraph]], [http://www.dailytelegraph.com.au/entertainment/movies/catherine-zeta-hollywoods-biggest-dag/story-e6frexli-1225797488609 ''Catherine Zeta - Hollywood's biggest '''dag'''?''],
@@ -132,7 +132,7 @@ Initialism for ''directed acyclic graph''.
 ====Noun====
 {{en-noun}}
 
-# {{label|en|graph theory}} A [[directed]] [[acyclic]] [[graph]]; an [[ordered pair]] <math>(V, E)</math> such that <math>E</math> is a [[subset]] of some [[partial ordering relation]] on <math>V</math>.
+# {{lb|en|graph theory}} A [[directed]] [[acyclic]] [[graph]]; an [[ordered pair]] <math>(V, E)</math> such that <math>E</math> is a [[subset]] of some [[partial ordering relation]] on <math>V</math>.
 
 ===Etymology 7===
 Of {{etyl|gmq|en}} origin; compare Swedish {{m|sv|dagg}}. See {{m|en|dew}}.
@@ -147,7 +147,7 @@ Of {{etyl|gmq|en}} origin; compare Swedish {{m|sv|dagg}}. See {{m|en|dew}}.
 ====Verb====
 {{en-verb|dagg}}
 
-# {{label|en|UK|dialect}} To be [[misty]]; to [[drizzle]].
+# {{lb|en|UK|dialect}} To be [[misty]]; to [[drizzle]].
 
 {{Webster 1913}}
 
@@ -158,7 +158,8 @@ Of {{etyl|gmq|en}} origin; compare Swedish {{m|sv|dagg}}. See {{m|en|dew}}.
 
 ====Noun====
 {{en-noun}}
-# {{label|en|chiefly|Ireland}} {{eye dialect of|dog|lang=en}}
+
+# {{lb|en|chiefly|Ireland}} {{eye dialect of|dog|lang=en}}
 #* '''2000''', Guy Ritchie, ''Snatch'', quoted in, Miguel Á. Bernal-Merino, ''Translation and Localisation in Video Games: Making Entertainment Software Global'', Routledge (ISBN 9781317617846), page 68
 #*: Mickey: '''Dags'''! D&#39; ya like '''dags'''?
 #* '''2014''', John P Brady, ''Back to the Gaff'', Roadside Fiction (ISBN 9780992932305), page 131
@@ -310,6 +311,15 @@ From {{inh|nl|odt|dag}}, from {{inh|nl|gem-pro|*dagaz}}, from {{etyl|ine-pro|nl}
 {{got-rom}}
 
 # {{got-romanization of|𐌳𐌰𐌲}}
+
+----
+
+==Icelandic==
+
+===Noun===
+{{is-noun form}}
+
+# {{is-inflection of|dagur|indef|acc|s}}
 
 ----
 
@@ -493,7 +503,7 @@ From {{inh|osx|gem-pro|*dagaz}}, (compare Old English {{m|ang|dæġ}}, Old Dutch
 ==Swedish==
 
 ===Etymology===
-From {{etyl|gmq-osw|sv}} {{term|lang=gmq-osw|dagher}}, from {{etyl|non|sv}} {{m|non|dagr}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*dagaz}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*dʰegʷʰ-||to burn, to be illuminated}}.
+From {{etyl|gmq-osw|sv}} {{m|gmq-osw|dagher}}, from {{etyl|non|sv}} {{m|non|dagr}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*dagaz}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*dʰegʷʰ-||to burn, to be illuminated}}.
 
 ===Pronunciation===
 * {{IPA|/dɑː(ɡ)/|lang=sv}}
@@ -712,9 +722,9 @@ From {{etyl|otk|tk}} ''tag'', from {{etyl|trk-pro|tk}} {{m|trk-pro|*tāg}}, {{m|
 ===Verb===
 {{head|mww|verb}}
 
-# [[deceive]]
-# [[cheat]]
-# [[lie]] {{gloss|tell [[untruth]](s)}}
+# to [[deceive]]
+# to [[cheat]]
+# to [[lie]] {{gloss|tell [[untruth]](s)}}
 
 ===References===
 * Ernest E. Heimbach, ''White Hmong - English Dictionary'' (1979, SEAP Publications)
