@@ -211,6 +211,9 @@ From {{etyl|grc|en}} {{term|ἀργόν|lang=grc}}, neuter of {{term|ἀργός
 ==Hungarian==
 {{wikipedia|lang=hu}}
 
+===Etymology===
+From {{etyl|grc|hu}} {{m|grc|ἀργόν}}, neuter of {{m|grc|ἀργός||idle, lazy}}, because of its inertness.<ref>{{R:TotfalusiEty 2005}}</ref>
+
 ===Pronunciation===
 * {{hu-IPA}}
 * {{hyphenation|ar|gon|lang=hu}}
@@ -218,10 +221,13 @@ From {{etyl|grc|en}} {{term|ἀργόν|lang=grc}}, neuter of {{term|ἀργός
 ===Noun===
 {{hu-noun|ok}}
 
-# {{l/en|argon}}
+# {{l|en|argon}} {{gloss|a chemical element, ''symbol'' [[Ar]], with an [[atomic number]] of 18}}
 
 ====Declension====
-{{hu-decl-ok|argo|n}}{{hu-pos-otok|argon|j|jai}}
+{{hu-infl-nom|argono|o|-}}{{hu-pos-otok|argon|j|jai}}
+
+===References===
+<references/>
 
 [[Category:hu:Noble gases]]
 
