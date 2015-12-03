@@ -112,35 +112,82 @@ From {{etyl|roa-opt|gl}} {{term|coor|lang=roa-opt}}, from {{etyl|la|gl}} {{term|
 
 ==Irish==
 
+===Etymology===
+From {{inh|ga|sga|cor||act of putting, placing; setting up, etc.; act of throwing, casting; act of letting go, discarding; leap, twist; throw (in wrestling); twist, coil; twist, detour, circuit in road, etc.; tune, melody; contract; surety, guarantor; act of overthrowing, defeating; defeat, reverse; state, condition, plight; act of tiring; tiredness, fatigue}}, verbal noun of {{m|sga|fo·ceird||sets, puts, places; throws, casts; casts down, overthrows; puts forth, emits, sends out; launches; utters, makes; raises (a shout, cry); performs, executes, wages}}.
+
 ===Pronunciation===
 * {{IPA|/kɔɾˠ/|lang=ga}}
 
 ===Noun===
-{{ga-noun|coir|cora|g=m}}
+{{ga-noun|g=m|coir|cora}}
 
-# [[twist]]
-# [[reel]] {{qualifier|in dancing}}
+# [[twist]], turn, turning movement
+# {{lb|ga|fishing}} [[cast]]; [[haul]] from cast
+# {{lb|ga|music}} lively [[turn]]; lively [[air]]
+# {{lb|ga|dance}} [[reel]]
 
 ====Declension====
 {{ga-decl-m1|c|or|oir|pl=a}}
-Alternative plural: {{l|ga|coranna}}
+* Alternative plural: {{l|ga|coranna}}
 
 ====Derived terms====
-* {{l|ga|cor bealaigh}}
+{{der3
+|{{l|ga|ar aon chor||anyway, at any rate}}
+|{{l|ga|ar chor ar bith}}, {{l|ga|in aon chor||at all}}
+|{{l|ga|ar chor éigin||somehow}}
+|{{l|ga|ar gach aon chor||at every turn; in every respect}}
+|{{l|ga|as cor||out of order}}
+|{{l|ga|cor bealaigh|g=m||detour}}
+|{{l|ga|cor beirte|g=m||two-hand reel}}
+|{{l|ga|cor ceathrair|g=m||four-hand reel}}
+|{{l|ga|cor coraíochta|g=m}}, {{l|ga|cor iomrascála|g=m||wrestling turn}}
+|{{l|ga|cor éisc|g=m||haul of fish}}
+|{{l|ga|cor i mbia|g=m||contamination in food}}
+|{{l|ga|cor lín|g=m||cast of net}}
+|{{l|ga|cor na péiste|g=m||cable-stitch}}
+|{{l|ga|cor na sióg|g=m||fairy reel}}
+|{{l|ga|cor ochtair|g=m||eight-hand reel}}
+|{{l|ga|den chor seo||at this turn of events, this time}}
+|{{l|ga|líon coir|g=m||casting-net}}
+}}
+
+===Noun===
+{{ga-noun|g=m|coir|coir}}
+
+# [[agreement]], [[contract]]; [[guarantee]], [[pledge]]
+
+====Declension====
+{{ga-decl-m1|c|or|oir}}
+
+===Noun===
+{{ga-noun|g=m|coir|-}}
+
+# {{verbal noun of|coir|lang=ga}}
+# [[tiredness]], [[exhaustion]]
+
+====Declension====
+{{ga-decl-m-irreg-nopl|c|or|oir}}
 
 ===Verb===
 {{ga-verb|pres=corann|fut=corfaidh|vn=coradh|pp=cortha}}
 
-# to [[turn]]
+# [[turn]]
 
-====Conjugation====
+===Conjugation===
 {{ga-conj-1a|c|o|r|briad}}
 
-====Synonyms====
+===Synonyms===
 * {{l|ga|cas}}
+
+===Derived terms===
+* {{l|ga|feoil chortha|g=f||tainted meat}}
 
 ===Mutation===
 {{ga mut cons|c|or}}
+
+===References===
+* {{R:ga:ODonaill}}
+* {{R:DIL|12406|head=1 cor}}
 
 ----
 
@@ -172,7 +219,7 @@ From {{etyl|la|ist}} {{m|la|cor}}.
 
 ===Etymology===
 {{PIE root|la|ḱerd}}
-From {{etyl|itc-pro|la}} {{m|itc-pro|*kord}}, from {{etyl|ine-pro|la}} {{m|ine-pro|*ḱḗr|*ḱḗr ~ *ḱr̥d-}}. Cognate with Ancient Greek {{term|καρδίᾱ|lang=grc}}, Proto-Germanic {{m|gem-pro|*hertô}}, Sanskrit {{term|हृदय|sc=Deva|tr=hṛdaya|lang=sa}}, Hittite {{term|𒆠𒅕|tr=kir|sc=Xsux|lang=hit}}.
+From {{inh|la|itc-pro|*kord}}, from {{inh|la|ine-pro|[[*ḱḗr]] ~ [[*ḱr̥d-]]}}. Cognate with Ancient Greek {{m|grc|καρδίᾱ}}, Proto-Germanic {{m|gem-pro|*hertô}}, Sanskrit {{m|sa|हृदय}}, Hittite {{m|hit|𒆠𒅕|tr=kir}}.
 
 ===Pronunciation===
 * {{la-pronunc|cor}}
@@ -187,12 +234,14 @@ From {{etyl|itc-pro|la}} {{m|itc-pro|*kord}}, from {{etyl|ine-pro|la}} {{m|ine-p
 {{la-decl-3rd-N-I|cor|cord}}
 
 ====Derived terms====
-* {{l|la|concordō}}
-* {{l|la|corculum}}
-* {{l|la|discordō}}
-* {{l|la|misericors}}
-* {{l|la|pravicors}}/ {{l|la|prāvicordius}}
-* {{l|la|recordor}}
+{{der3
+|{{l|la|concordō}}
+|{{l|la|corculum}}
+|{{l|la|discordō}}
+|{{l|la|misericors}}
+|{{l|la|pravicors}}/ {{l|la|prāvicordius}}
+|{{l|la|recordor}}
+}}
 
 ====Descendants====
 {{top3}}
@@ -255,7 +304,7 @@ From {{etyl|itc-pro|la}} {{m|itc-pro|*kord}}, from {{etyl|ine-pro|la}} {{m|ine-p
 ==Old French==
 
 ===Etymology===
-From {{etyl|la|fro}} {{term|cornu|lang=la}}.
+From {{inh|fro|la|cornu}}.
 
 ===Pronunciation===
 * {{IPA|/kɔr/|lang=fro}}
@@ -278,7 +327,7 @@ From {{etyl|la|fro}} {{term|cornu|lang=la}}.
 ==Old Provençal==
 
 ===Etymology===
-From {{etyl|la|pro}} {{term|cor|lang=la}}.
+From {{etyl|la|pro}} {{m|la|cor}}.
 
 ===Noun===
 {{pro-noun|m}}
@@ -364,7 +413,7 @@ From Latin ''cor'', ''cordis''
 ==Romanian==
 
 ===Etymology 1===
-From {{etyl|el|ro}} {{term|χορός||dance|lang=el}}, or borrowed from {{etyl|la|ro}} ''[[chorus]]'', {{etyl|it|ro}} ''[[coro]]'', {{etyl|de|ro}} ''[[Chor]]''.
+{{bor|ro|el|χορός||dance}}, or borrowed from {{der|ro|la|chorus}}, {{der|ro|it|coro}}, {{der|ro|de|Chor}}.
 
 ====Noun====
 {{ro-noun|n|coruri}}
@@ -376,7 +425,7 @@ From {{etyl|el|ro}} {{term|χορός||dance|lang=el}}, or borrowed from {{etyl|
 * [[corist]]
 
 ===Etymology 2===
-From {{etyl|la|ro}} ''[[chorus]]''.
+From {{der|ro|la|chorus}}.
 
 ====Noun====
 {{ro-noun|n|coruri}}
@@ -395,7 +444,7 @@ From {{etyl|la|ro}} ''[[chorus]]''.
 ==Romansch==
 
 ===Etymology===
-From {{etyl|la|rm}} {{term|cor|lang=la}}.
+From {{der|rm|la|cor}}.
 
 ===Noun===
 {{rm-noun|m}}
@@ -406,26 +455,37 @@ From {{etyl|la|rm}} {{term|cor|lang=la}}.
 
 ==Scottish Gaelic==
 
+===Etymology===
+{{rfe|lang=gd}}
+
 ===Noun===
-{{gd-noun|g=m|gen1=coir|gen2=cuir|pl=?}}
+{{gd-noun|g=m|gen=coir|gen2=cuir|pl=?}}
 
 # [[condition]], [[state]]
 # [[condition]], [[eventuality]], [[circumstance]]
-#: ''air '''chor''' sam bith'' - on any condition, on any account
-#: ''air '''chor''' 's gu'' - on condition that {{qualifier|cf also derived terms}}
+#: {{ux|gd|air '''chor''' sam bith|inline=1|on any condition, on any account}}
+#: {{ux|gd|air '''chor''' 's gu|inline=1|on condition that}} {{qualifier|cf also derived terms}}
 # [[method]], [[manner]]
+# [[custom]]
+# [[surety]]
+# [[term]] or [[condition]]  of a treaty
+# [[progress]]
 
 ====Derived terms====
-* {{l|gd|air chor 's gu}} - so that/with the result that
-* {{l|gd|air a h-uile cor}} - by all means; at all costs
-* {{l|gd|cor-inntinn}} - state of mind
+* {{l|gd|air chor 's gu||so that/with the result that}}
+* {{l|gd|air a h-uile cor||by all means; at all costs}}
+* {{l|gd|cor-inntinn||state of mind}}
+
+===References===
+* {{R:Dwelly}}
+* {{R:DIL|12406|head=1 cor}}
 
 ----
 
 ==Venetian==
 
 ===Etymology===
-From {{etyl|la|vec}} {{m|la|cor}}. Compare Italian {{term|cuore|lang=it}}.
+From {{der|vec|la|cor}}. Compare Italian {{m|it|cuore}}.
 
 ===Noun===
 {{vec-noun|cor|m||i}}
@@ -439,24 +499,30 @@ From {{etyl|la|vec}} {{m|la|cor}}. Compare Italian {{term|cuore|lang=it}}.
 
 ==Welsh==
 
+===Etymology===
+From {{inh|cy|cel-pro|*korro-||stunted, dwarfish}} (compare Old Cornish {{m|oco|cor}}, Middle Breton {{m|xbm|corr}}).
+
 ===Pronunciation===
 * {{IPA|/kɔr/|lang=cy}}
 
 ===Noun===
 {{cy-noun|m|corrod}}
 
-# [[dwarf]]
-# [[spider]]
+# [[dwarf]], [[pygmy]], little [[urchin]]
+# [[spider]]; [[shrew]]
 
 ====Synonyms====
-* {{sense|dwarf}} [[corrach]]
-* {{sense|spider}} [[cop]], [[copyn]], [[corryn]]
+* {{sense|dwarf}} {{l|cy|corrach}}
+* {{sense|spider}} {{l|cy|cop}}, {{l|cy|copyn}}, {{l|cy|corryn}}
 
 ====Derived terms====
 * {{l|cy|corgi}}
 
 ===Mutation===
-{{cy-mut-c|or}}
+{{cy-mut-auto}}
+
+===References===
+* {{R:cy:GPC}}
 
 [[af:cor]]
 [[az:cor]]
