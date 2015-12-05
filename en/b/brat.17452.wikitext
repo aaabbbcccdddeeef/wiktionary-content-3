@@ -135,30 +135,33 @@ From {{etyl|non|da}} {{term|brattr|lang=non}} and {{etyl|ang|da}} {{term|brant|l
 * {{a|Connacht|Ulster}} {{IPA|lang=ga|[bˠɾˠat̪ˠ]}}
 
 ===Etymology 1===
-From {{etyl|sga|ga}} {{term|bratt|lang=sga}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*bratto-}} (compare {{etyl|cy|-}} {{term|brethyn||cloth|lang=cy}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*bratt-ino-}}).
+From {{inh|ga|sga|bratt}}, from {{inh|ga|cel-pro|*bratto-}} (compare Welsh {{m|cy|brethyn||cloth}}, from Proto-Celtic {{m|cel-pro|*bratt-ino-}}).
 
 ====Noun====
-{{ga-noun|brait|brait|g=m}}
+{{ga-noun|g=m|brait|brait}}
 
 # [[mantle]], [[cloak]]
 # [[covering]]
-# {{context|theatre|lang=ga}} [[curtain]]
+# {{lb|ga|theatre}} [[curtain]]
 
 =====Declension=====
 {{ga-decl-m1|b|rat|rait}}
 
 =====Derived terms=====
-{{der3|{{l|ga|brateagraíocht|g=f||umbrella organization}}
+{{der3
+|{{l|ga|brateagraíocht|g=f||umbrella organization}}
 |{{l|ga|ceannbhrat|g=m||canopy}}
 |{{l|ga|fo-bhrat|g=m||undercoat}}
 |{{l|ga|brat sneachta|g=m||mantle of snow}}
-|{{l|ga|aerbhrat|g=m||atmosphere}}}}
+|{{l|ga|aerbhrat|g=m||atmosphere}}
+|{{l|ga|brat deataigh|g=m||smoke-screen}}
+}}
 
 ===Etymology 2===
 {{rfe|lang=ga}}
 
 ====Noun====
-{{ga-noun|g=m|brat|bratanna}}
+{{ga-noun|g=m|-|bratanna}}
 
 # [[broth]]; thick [[soup]]
 
@@ -168,9 +171,11 @@ From {{etyl|sga|ga}} {{term|bratt|lang=sga}}, from {{etyl|cel-pro|ga}} {{m|cel-p
 ===Mutation===
 {{ga mut cons|b|rat}}
 
-[[Category:ga:Foods]]
+===References===
+* {{R:ga:ODonaill}}
+* {{R:DIL|6598|head=bratt}}
 
-[[Category:ga:Clothing]]
+{{catlangcode|ga|Clothing|Soups}}
 
 ----
 
