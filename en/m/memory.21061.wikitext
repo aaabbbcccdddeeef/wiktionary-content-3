@@ -74,10 +74,10 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 ====Translations====
 {{trans-top|ability to recall}}
 * Afrikaans: {{t|af|geheue}}
-* Albanian: {{t|sq|kujtesë}}
+* Albanian: {{t+|sq|kujtesë}}
 * Amharic: {{t-needed|am}}
 * Arabic: {{t|ar|ذَاكِرَة|f}}
-* Armenian: {{t|hy|հիշողություն}}
+* Armenian: {{t+|hy|հիշողություն}}
 * Aromanian: {{t-needed|rup}}
 * Asturian: {{t|ast|memoria|f}}
 * Azeri: {{t|az|yaddaş}}, {{t|az|hafizə}}
@@ -87,7 +87,7 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Breton: {{t-needed|br}}
 * Bulgarian: {{t+|bg|па́мет|f|sc=Cyrl}}
 * Burmese: {{t+|my|စိတ်မှတ်|sc=Mymr}}
-* Catalan: {{t|ca|memòria|f}}
+* Catalan: {{t+|ca|memòria|f}}
 * Central Melanau: {{t|mel|keneng}}
 * Cherokee: {{t|chr|ᎠᏅᏓᏗᏍᏗ|tr=anvdadisdi|sc=Cher}}
 * Chinese:
@@ -110,7 +110,7 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Hausa: {{t-needed|ha}}
 * Hawaiian: {{t|haw|hoʻomanaʻo ʻana}}, {{t|haw|haliʻa}}
 * Hebrew: {{t+|he|זכרון|m|tr=zikarón}}
-* Hindi: {{t|hi|स्मृति|f|tr=smṛ́ti}}, {{t|hi|याद|f|tr=yād}}
+* Hindi: {{t+|hi|स्मृति|f|tr=smṛ́ti}}, {{t|hi|याद|f|tr=yād}}
 * Hungarian: {{t+|hu|emlékezet}}, {{t+|hu|memória}}
 * Icelandic: {{t+|is|minni|n}}
 * Ido: {{t-needed|io}}
@@ -124,7 +124,7 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Khmer: {{t+|km|សតិ|tr=sa’te’|sc=Khmr}}
 * Korean: {{t+|ko|기억|sc=Hang}} ({{t+|ko|記憶|sc=Hani}})
 * Kurdish: {{t-needed|ku}}
-* Kyrgyz: {{t|ky|эс|sc=Cyrl}}
+* Kyrgyz: {{t+|ky|эс|sc=Cyrl}}
 * Lao: {{t+|lo|ຄວາມຊົງຈຳ|sc=Laoo}}
 * Latgalian: {{t|ltg|atguods|m}}
 {{trans-mid}}
@@ -160,7 +160,7 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Russian: {{t+|ru|па́мять|f}}
 * Scots: {{t-needed|sco}}
 * Scottish Gaelic: {{t|gd|cuimhne|f}}
-* Serbo-Croatian: {{t|sh|памћење|n}}, {{t|sh|pȃmćēnje|n}}
+* Serbo-Croatian: {{t|sh|памћење|n}}, {{t+|sh|pȃmćēnje|n}}
 * Shor: {{t|cjs|эс|tr=es|sc=Cyrl}}
 * Sindhi: {{t-needed|sd}}
 * Sinhalese: {{t|si|මතක|sc=Sinh}}
@@ -169,10 +169,10 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Spanish: {{t+|es|memoria|f}}
 * Swedish: {{t+|sv|minne|n}}
 * Tagalog: {{t+|tl|alaala}}
-* Tajik: {{t|tg|ёд|sc=Cyrl}}, {{t|tg|зеҳн|sc=Cyrl}}, {{t|tg|хотир|sc=Cyrl}}
+* Tajik: {{t|tg|ёд|sc=Cyrl}}, {{t|tg|зеҳн|sc=Cyrl}}, {{t+|tg|хотир|sc=Cyrl}}
 * Tamil: {{t+|ta|ஞாபகம்|sc=Taml}}
 * Telugu: {{t+|te|జ్ఞాపకము|sc=Telu}}
-* Thai: {{t|th|ความจำ|tr=kwaam-jam}}, {{t|th|ความทรงจำ|tr=kwaam-song-jam}}
+* Thai: {{t+|th|ความจำ|tr=kwaam-jam}}, {{t|th|ความทรงจำ|tr=kwaam-song-jam}}
 * Turkish: {{t+|tr|hafıza}}, {{t+|tr|bellek}}, {{t+|tr|hatır}}
 * Turkmen: {{t|tk|hakyda}}, {{t|tk|huş}}, {{t|tk|ýadygär}}, {{t|tk|ýat}}, {{t|tk|ýatlama}}
 * Ukrainian: {{t|uk|па́м'ять|f|sc=Cyrl}}
@@ -186,7 +186,7 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 {{trans-bottom}}
 
 {{trans-top|stored record}}
-* Armenian: {{t|hy|հիշողություն}} (hišoġut'yun)
+* Armenian: {{t+|hy|հիշողություն}} (hišoġut'yun)
 * Asturian: {{t|ast|memoria|f}}
 * Catalan: {{t+|ca|record|m}}
 * Chinese:
@@ -225,8 +225,8 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 {{trans-bottom}}
 
 {{trans-top|RAM or ROM}}
-* Armenian: {{t|hy|հիշողություն}}
-* Catalan: {{t|ca|memòria|f}}
+* Armenian: {{t+|hy|հիշողություն}}
+* Catalan: {{t+|ca|memòria|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|內存|sc=Hani}}, {{t|cmn|内存|tr=nèicún|sc=Hani}}
 * Czech: {{t+|cs|paměť|f}}
