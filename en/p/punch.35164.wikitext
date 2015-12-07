@@ -105,7 +105,7 @@ From {{etyl|enm|en}} {{term|punchen|lang=enm}}, partially from {{etyl|fro|en}} {
 * Telugu: {{t-needed|te}}
 * Ukrainian: {{t+|uk|удар|m|sc=Cyrl}} {{qualifier|кулаком}}
 * Volapük: {{t-needed|vo}}
-* Waray-Waray: {{t+|war|suntok}}
+* Waray-Waray: {{t|war|suntok}}
 * Walloon: {{t-needed|wa}}
 * Welsh: {{t-needed|cy}}
 * Yiddish: {{t-needed|yi}}
@@ -175,7 +175,7 @@ From {{etyl|enm|en}} {{term|punchen|lang=enm}}, partially from {{etyl|fro|en}} {
 * German: {{t|de|[[mit]] [[der]] [[Faust]] [[schlagen]]}}
 * Hungarian: {{t+|hu|üt}}
 * Italian: {{t|it|dare un pugno}}
-* Japanese: {{qualifier|colloquial}} {{t|ja|殴る|tr=naguru}}, {{qualifier|literal}} {{t+|ja|殴打|alt=殴打する|tr=ōda suru}}, {{t|ja|パンチする|tr=panchi suru|sc=Jpan}}
+* Japanese: {{qualifier|colloquial}} {{t+|ja|殴る|tr=naguru}}, {{qualifier|literal}} {{t+|ja|殴打|alt=殴打する|tr=ōda suru}}, {{t|ja|パンチする|tr=panchi suru|sc=Jpan}}
 {{trans-mid}}
 * Norman: {{t|nrf|bailli un co d'poing}}
 * Khmer: {{t-needed|km}}
@@ -187,7 +187,7 @@ From {{etyl|enm|en}} {{term|punchen|lang=enm}}, partially from {{etyl|fro|en}} {
 * Spanish: {{t|es|punzonar}}, {{t|es|dar un puñetazo}}
 * Swedish: {{t+|sv|slå}}
 * Tongan: {{t|to|hoka}}
-* Waray-Waray: {{t+|war|sontuka}}
+* Waray-Waray: {{t|war|sontuka}}
 {{trans-bottom}}
 
 {{trans-see|to herd cattle|herd}}
@@ -245,11 +245,11 @@ Shortened form of {{term|puncheon|lang=en}}, from {{etyl|fro|en}} {{term|ponchon
 {{trans-bottom}}
 
 {{trans-top|mechanism for punching holes in paper}}
-* Albanian: {{t|sq|shpues}}
+* Albanian: {{t+|sq|shpues}}
 * Arabic: {{t|ar|خَرَّامَة|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|打孔器|tr=dǎkǒngqì|sc=Hani}}
-* Czech: {{t|cs|děrovačka|f}}
+* Czech: {{t+|cs|děrovačka|f}}
 * Finnish: {{t|fi|rei'ittäjä}}, {{t+|fi|rei'itin}}
 * French: {{t+|fr|poinçonneuse|f}}
 * German: {{t+|de|Locher|m}}
@@ -295,13 +295,13 @@ Shortened form of {{term|puncheon|lang=en}}, from {{etyl|fro|en}} {{term|ponchon
 
 =====Translations=====
 {{trans-top|to employ a punch to create a hole}}
-* Albanian: {{t|sq|shënoj}}, {{t|sq|shpoj}}
+* Albanian: {{t+|sq|shënoj}}, {{t+|sq|shpoj}}
 * Chinese:
 *: Mandarin: {{t+|cmn|打孔|tr=dǎkǒng|sc=Hani}}
 * Finnish: {{t|fi|stanssata}}, {{t|fi|meistää}}
 * French: {{t+|fr|poinçonner}}
 {{trans-mid}}
-* German: {{t|de|lochen}}
+* German: {{t+|de|lochen}}
 * Hungarian: {{t+|hu|lyukaszt}}
 * Japanese: {{t|ja|パンチ|alt=パンチする|tr=panchi suru}}
 * Portuguese: {{t+|pt|perfurar}}
@@ -309,10 +309,10 @@ Shortened form of {{term|puncheon|lang=en}}, from {{etyl|fro|en}} {{term|ponchon
 {{trans-bottom}}
 
 {{trans-top|to mark a ticket}}
-* Albanian: {{t|sq|shpoj}}
+* Albanian: {{t+|sq|shpoj}}
 * Finnish: {{t+|fi|leimata}}
 * French: {{t+|fr|poinçonner}}
-* German: {{t|de|abstempeln}}
+* German: {{t+|de|abstempeln}}
 * Hungarian: {{t+|hu|lyukaszt}}
 {{trans-mid}}
 * Japanese: {{t|ja|パンチ|alt=パンチする|tr=panchi suru}}
@@ -346,7 +346,7 @@ From {{etyl|hi|en}} {{term|sc=Deva|पाँच||five|tr=pāñć|lang=hi}}, beca
 * Norwegian:
 *: Bokmål: {{t|nb|punsj|m}}
 *: Nynorsk: {{t|nn|punsj|m}}
-* Polish: {{t|pl|poncz|m}}
+* Polish: {{t+|pl|poncz|m}}
 * Portuguese: {{t+|pt|ponche|m}}
 * Russian: {{t+|ru|пунш|m}}
 * Serbo-Croatian: {{t+|sh|punč|m}}
