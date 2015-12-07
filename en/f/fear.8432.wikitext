@@ -61,7 +61,7 @@ The verb is from {{etyl|enm|en}} {{term|feren|lang=enm}}, from {{etyl|ang|en}} {
 * Arabic: {{t|ar|خَوْف|m}}
 *: Moroccan Arabic: {{t|ary|خوف|m|tr=xəwf}}, {{t|ary|خلعة|f|tr=xləʕa|alt=خْلعة}}
 * Aragonese: {{t-needed|an}}
-* Armenian: {{t|hy|վախ}}, {{t+|hy|երկյուղ}}, {{t|hy|ահ}}
+* Armenian: {{t|hy|վախ}}, {{t+|hy|երկյուղ}}, {{t+|hy|ահ}}
 * Asturian: {{t|ast|mieu|m}}
 * Aymara: {{t-needed|ay}}
 * Azeri: {{t+|az|qorxu}}
@@ -73,7 +73,7 @@ The verb is from {{etyl|enm|en}} {{term|feren|lang=enm}}, from {{etyl|ang|en}} {
 * Breton: {{t+|br|aon}}
 * Bulgarian: {{t+|bg|страх|m}}
 * Burmese: {{t+|my|ဘယာ}}
-* Catalan: {{t+|ca|por|f}}, {{t|ca|paüra|f}}, {{t|ca|basarda|f}}, {{t|ca|temor|m|f}}
+* Catalan: {{t+|ca|por|f}}, {{t|ca|paüra|f}}, {{t|ca|basarda|f}}, {{t+|ca|temor|m|f}}
 * Cherokee: {{t-needed|chr}}
 * Chinese:
 *: Mandarin: {{t+|cmn|恐怖|tr=kǒngbù|sc=Hani}}
@@ -141,7 +141,7 @@ The verb is from {{etyl|enm|en}} {{term|feren|lang=enm}}, from {{etyl|ang|en}} {
 * Old English: {{t|ang|eġe|m}}
 * Old French: {{t|fro|peor|f}}
 * Old Provençal: {{t|pro|paor|f}}
-* Oriya: {{t|or|ଡର|tr=ḍara|sc=Orya}}
+* Oriya: {{t+|or|ଡର|tr=ḍara|sc=Orya}}
 * Pashto: {{t-needed|ps}}
 * Persian: {{t+|fa|ترس|tr=tars}}, {{t+|fa|بیم|tr=bim|sc=fa-Arab}}, {{t+|fa|هراس|tr=harâs|sc=fa-Arab}}, {{t+|fa|خوف|tr=xouf|sc=fa-Arab}}
 * Polabian: {{t|pox|stroch|m}}
@@ -171,7 +171,7 @@ The verb is from {{etyl|enm|en}} {{term|feren|lang=enm}}, from {{etyl|ang|en}} {
 * Swahili: {{t+|sw|woga}}
 * Swedish: {{t+|sv|skräck}}, {{t+|sv|rädsla|c}}
 * Tagalog: {{t|tl|takot}}
-* Tajik: {{t|tg|тарс}}, {{t|tg|ҳарос}}, {{t|tg|ваҳм}}, {{t|tg|хавф}}
+* Tajik: {{t|tg|тарс}}, {{t|tg|ҳарос}}, {{t|tg|ваҳм}}, {{t+|tg|хавф}}
 * Tamil: {{t+|ta|பயம்}}
 * Tatar: {{t|tt|курку}}
 * Telugu: {{t+|te|భయము}}
@@ -179,13 +179,13 @@ The verb is from {{etyl|enm|en}} {{term|feren|lang=enm}}, from {{etyl|ang|en}} {
 * Tibetan: {{t|bo|ཞེད་སྣང}}
 * Turkish: {{t+|tr|korku}}
 * Turkmen: {{t|tk|gorky}}, {{t|tk|heder}}
-* Ukrainian: {{t|uk|страх|m}}
+* Ukrainian: {{t+|uk|страх|m}}
 * Urdu: {{t|ur|ڈر|m|tr=ḍar|sc=ur-Arab}}, {{t|ur|خوف|tr=xauf|sc=ur-Arab}}, {{t|ur|بھی|m|tr=bhay|sc=ur-Arab}}
 * Uyghur: {{t|ug|قورقۇش}}
-* Uzbek: {{t|uz|qoʻrquv}}, {{t+|uz|doʻq}}
+* Uzbek: {{t+|uz|qoʻrquv}}, {{t+|uz|doʻq}}
 * Vietnamese: {{t|vi|sự khiếp đảm}}, {{t|vi|sự sợ hãi}}
 * Volapük: {{t+|vo|dred}}
-* Walloon: {{t+|wa|paw|f}}, {{t|wa|peu|f}}
+* Walloon: {{t+|wa|paw|f}}, {{t+|wa|peu|f}}
 * Welsh: {{t+|cy|ofn}}
 * Yiddish: {{t|yi|שרעק|m|f}}
 {{trans-bottom}}
@@ -194,7 +194,7 @@ The verb is from {{etyl|enm|en}} {{term|feren|lang=enm}}, from {{etyl|ang|en}} {
 * Armenian: {{t|hy|վախ}}
 * Asturian: {{t|ast|mieu|m}}
 * Bulgarian: {{t+|bg|фобия|f}}
-* Catalan: {{t+|ca|por|f}}, {{t|ca|paüra|f}}, {{t|ca|basarda|f}}, {{t|ca|temor|m|f}}
+* Catalan: {{t+|ca|por|f}}, {{t|ca|paüra|f}}, {{t|ca|basarda|f}}, {{t+|ca|temor|m|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|恐怖|tr=kǒngbù|sc=Hani}}
 * Czech: {{t+|cs|strach|m}}
@@ -241,12 +241,12 @@ The verb is from {{etyl|enm|en}} {{term|feren|lang=enm}}, from {{etyl|ang|en}} {
 {{trans-top|extreme veneration or awe}}
 * Armenian: {{t+|hy|երկյուղ}}
 * Bulgarian: {{t+|bg|боязън|f}}
-* Catalan: {{t|ca|temor|m}}, {{t|ca|respecte|m}}
+* Catalan: {{t+|ca|temor|m}}, {{t|ca|respecte|m}}
 * Czech: {{t+|cs|strach|m}}
 * Danish: {{t+|da|frygt|c}}
 * Finnish: {{t+|fi|pelko}}
 * French: {{t+|fr|crainte|f}}
-* German: {{t|de|Ehrfurcht|f}}
+* German: {{t+|de|Ehrfurcht|f}}
 * Greek: {{t+|el|δέος|n}}
 * Irish: {{t+|ga|eagla|f}}
 * Japanese: {{t|ja|畏れ|tr=osore}}
@@ -338,7 +338,7 @@ The verb is from {{etyl|enm|en}} {{term|feren|lang=enm}}, from {{etyl|ang|en}} {
 *: Moroccan Arabic: {{t|ary|خاف|tr=xæf}}, {{t|ary|تخلع|tr=txlæʕ|alt=تْخْلع}}
 * Aramaic:
 *: Classical Syriac: {{t|syc|ܕܚܠ|tr=dħel|sc=Syrc}}
-* Armenian: {{t|hy|վախենալ}}, {{t|hy|երկյուղել}}, {{t|hy|երկնչել}}
+* Armenian: {{t+|hy|վախենալ}}, {{t+|hy|երկյուղել}}, {{t+|hy|երկնչել}}
 * Asturian: {{t|ast|temer}}, {{t|ast|atarrecer}}
 * Azeri: {{t+|az|qorxmaq}}
 * Belarusian: {{t|be|бая́цца}}
@@ -374,7 +374,7 @@ The verb is from {{etyl|enm|en}} {{term|feren|lang=enm}}, from {{etyl|ang|en}} {
 * Korean: {{t+|ko|두려워하다|sc=Kore}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|tirsîn}}
-*: Sorani: {{t|ku|ترسین|tr=tirseen|sc=ku-Arab}}
+*: Sorani: {{t+|ku|ترسین|tr=tirseen|sc=ku-Arab}}
 {{trans-mid}}
 * Lao: {{t|lo|ຢ້ານກົວ}}
 * Latin: {{t|la|timeo}}, {{t|la|paveo}}, {{t|la|veror}}, {{t+|la|vereor}}, {{t|la|formido}}, {{t|la|metuo}}
@@ -420,11 +420,11 @@ The verb is from {{etyl|enm|en}} {{term|feren|lang=enm}}, from {{etyl|ang|en}} {
 * Urdu: {{t|ur|ڈرنا|tr=ḍarnā|sc=ur-Arab}}
 * Venetian: {{t|vec|temer}}
 * Vietnamese: {{t+|vi|sợ}}, {{t+|vi|hãi}}, {{t+|vi|sợ hãi}}
-* Walloon: {{t|wa|awè peu}}, {{t|wa|aveur paw}}, {{t|wa|crinde}}, {{t|wa|ricrinde}}
+* Walloon: {{t+|wa|awè peu}}, {{t+|wa|aveur paw}}, {{t|wa|crinde}}, {{t|wa|ricrinde}}
 {{trans-bottom}}
 
 {{trans-top|venerate; to feel awe towards}}
-* Armenian: {{t|hy|վախենալ}}
+* Armenian: {{t+|hy|վախենալ}}
 * Catalan: {{t+|ca|témer}}, {{t+|ca|respectar}}
 * Czech: {{t|cs|bát}} se
 * French: {{t+|fr|craindre}}
@@ -434,7 +434,7 @@ The verb is from {{etyl|enm|en}} {{term|feren|lang=enm}}, from {{etyl|ang|en}} {
 {{trans-mid}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|tirsîn}}
-*: Sorani: {{t|ku|ترسین|tr=tirseen|sc=ku-Arab}}
+*: Sorani: {{t+|ku|ترسین|tr=tirseen|sc=ku-Arab}}
 * Malay: {{t|ms|takut}}
 * Portuguese: {{t+|pt|temer}}
 * Walloon: {{t|wa|crinde}}
