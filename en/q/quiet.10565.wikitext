@@ -47,7 +47,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|quietus|l
 * Amharic: {{t-needed|am}}
 * Arabic: {{t|ar|صَامِت}}, {{t|ar|هَادِئ}}
 * Aragonese: {{t-needed|an}}
-* Armenian: {{t|hy|հանգիստ|sc=Armn}}
+* Armenian: {{t+|hy|հանգիստ|sc=Armn}}
 * Aromanian: {{t-needed|rup}}
 * Asturian: {{t|ast|quietu}}, {{t|ast|silenciosu}}
 * Azeri: {{t+|az|səssiz}}
@@ -65,7 +65,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|quietus|l
 *: Mandarin: {{t+|cmn|安靜|sc=Hani}}, {{t+|cmn|安静|tr=ānjìng|sc=Hani}}, {{t+|cmn|寧靜|sc=Hani}}, {{t+|cmn|宁静|tr=níngjìng|sc=Hani}}
 * Czech: {{t+|cs|tichý}}
 * Danish: {{t+|da|stille}}, {{t|da|tyst}}
-* Dutch: {{t+|nl|stil}}, {{t+|nl|rustig}}, {{t+|nl|vredig}}, {{t+|nl|geruisloos}}, {{t|nl|geluidloos}}
+* Dutch: {{t+|nl|stil}}, {{t+|nl|rustig}}, {{t+|nl|vredig}}, {{t+|nl|geruisloos}}, {{t+|nl|geluidloos}}
 * Esperanto: {{t+|eo|trankvila}}
 * Estonian: {{t|et|vaikne}}
 * Finnish: {{t+|fi|hiljainen}}, {{t+|fi|äänetön}}
@@ -92,7 +92,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|quietus|l
 * Korean: {{t+|ko|조용하다|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t+|ku|هێمن}}, {{t|ku|وسکت}}
-* Kyrgyz: {{t|ky|тынч|sc=Cyrl}}
+* Kyrgyz: {{t+|ky|тынч|sc=Cyrl}}
 * Lao: {{t-needed|lo}}
 {{trans-mid}}
 * Latin: {{t|la|tranquillus}}
@@ -125,12 +125,12 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|quietus|l
 *: Cyrillic: {{t|sh|тих}}
 *: Roman: {{t+|sh|tih}},
 * Sicilian: {{t+|scn|cuetu}}, {{t+|scn|quetu}}
-* Sinhalese: {{t+|si|නිශ්ශබ්ද}}
+* Sinhalese: {{t|si|නිශ්ශබ්ද}}
 * Slovak: {{t|sk|tichý}}
 * Slovene: {{t+|sl|tih}}
 * Spanish: {{t+|es|quieto}}, {{t+|es|silencioso}}, {{t+|es|tranquilo}}, {{t+|es|calmo}}, {{t+|es|pacífico}}, {{t+|es|silente}}
 * Swedish: {{t+|sv|tyst}}, {{t+|sv|stilla}}
-* Tajik: {{t|tg|паст|sc=Cyrl}}
+* Tajik: {{t+|tg|паст|sc=Cyrl}}
 * Tamil: {{t-needed|ta}}
 * Telugu: {{t+|te|నిశ్శబ్దం}}
 * Thai: {{t+|th|เงียบ|tr=ngîap|sc=Thai}}
@@ -167,10 +167,10 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|quietus|l
 * Portuguese: {{t+|pt|quieto}}
 * Russian: {{t+|ru|споко́йный}}
 * Serbo-Croatian: {{t+|sh|miran}}, {{t+|sh|spokojan}}
-* Sinhalese: {{t+|si|නිශ්චල}}
+* Sinhalese: {{t|si|නිශ්චල}}
 * Spanish: {{t+|es|tranquilo}}, {{t+|es|detenido}}, {{t+|es|quieto}}, {{t+|es|calmo}}
 * Swedish: {{t+|sv|lugn}}
-* Telugu: {{t|te|ప్రశాంతం}}
+* Telugu: {{t+|te|ప్రశాంతం}}
 * Walloon: {{t+|wa|påjhire|m|f}}, {{t+|wa|påjhûle}}
 {{trans-bottom}}
 
@@ -222,7 +222,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|quietus|l
 * Russian: {{t+|ru|споко́йный}}, {{t+|ru|ти́хий}}
 * Serbo-Croatian:
 *: Roman: {{t+check|sh|šutljiv}}
-* Sinhalese: {{t+|si|නිශ්ශබ්ද}}
+* Sinhalese: {{t|si|නිශ්ශබ්ද}}
 * Spanish: {{t+|es|reservado}}, {{t+|es|callado}}, {{t+|es|silencioso}}
 * Swedish: {{t+|sv|tyst}}
 * Telugu: {{t+|te|మౌనం}}
@@ -252,10 +252,10 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|quietus|l
 ====Translations====
 {{trans-top|to become quiet}}
 * Dutch: {{t+|nl|kalmeren}}, [[rustig]] [[worden]]
-* Finnish: {{t|fi|hiljentyä}}, {{t|fi|rauhoittua}}
+* Finnish: {{t+|fi|hiljentyä}}, {{t+|fi|rauhoittua}}
 * French: s'{{t+|fr|apaiser}}, se {{t+|fr|calmer}}, se {{t+|fr|taire}}, se {{t+|fr|tranquilliser}}
 * Persian: {{t+|fa|ساکت شدن|tr=sāket šodan|sc=fa-Arab}}, {{t|fa|آرام شدن|tr=ārām šodan|sc=fa-Arab}}
-* Polish: ''(exclusively for sound)'' {{t+|pl|uciszyć się}}, {{t+|pl|zamilknąć}}, ''(sound/motion)'' {{t+|pl|uspokajać się|impf}}, {{t+|pl|uspokoić się|pf}}
+* Polish: ''(exclusively for sound)'' {{t+|pl|uciszyć się}}, {{t|pl|zamilknąć}}, ''(sound/motion)'' {{t+|pl|uspokajać się|impf}}, {{t+|pl|uspokoić się|pf}}
 {{trans-mid}}
 * Quechua: {{t|qu|upallay}}
 * Russian: {{t+|ru|успока́иваться|impf}}, {{t+|ru|успоко́иться|pf}}
@@ -273,7 +273,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|quietus|l
 * Italian: {{t+|it|calmare}}, {{t+|it|placare}}
 * Latin: {{t|la|pācō}}
 {{trans-mid}}
-* Polish: ''(sound)'' {{t+|pl|uciszać|impf}}, {{t+|pl|uciszyć|pf}}, ''(sound/motion)'' {{t+|pl|uspokajać|impf}}, {{t+|pl|uspokoić|pf}}
+* Polish: ''(sound)'' {{t|pl|uciszać|impf}}, {{t+|pl|uciszyć|pf}}, ''(sound/motion)'' {{t+|pl|uspokajać|impf}}, {{t+|pl|uspokoić|pf}}
 * Portuguese: {{t+|pt|silenciar}}, {{t+|pt|tranquilizar}}, {{t+|pt|acalmar}}
 * Russian: {{t+|ru|успока́ивать|impf}}, {{t+|ru|успоко́ить|pf}}
 * Spanish: {{t+|es|calmar}}, {{t+|es|callar}}
@@ -320,7 +320,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|quietus|l
 {{trans-bottom}}
 
 {{trans-top|absence of movement}}
-* Armenian: {{t|hy|հանգիստ}}
+* Armenian: {{t+|hy|հանգիստ}}
 * Danish: {{t+|da|ro|c}}
 * Finnish: {{t+|fi|hiljaisuus}}
 * Greek: {{t+|el|ησυχία|f}}
@@ -329,7 +329,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{term|quietus|l
 {{trans-mid}}
 * Kurdish:
 *: Sorani: {{t+|ku|هێمن}}
-* Portuguese: {{t|pt|quietude|f}}
+* Portuguese: {{t+|pt|quietude|f}}
 * Russian: {{t+|ru|споко́йствие|n}}, {{t+|ru|поко́й|m}}
 * Spanish: {{t+|es|calma|f}}, {{t+|es|tranquilidad|f}}
 * Swedish: {{t+|sv|lugn|n}}
