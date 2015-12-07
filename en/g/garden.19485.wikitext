@@ -70,7 +70,7 @@ From {{etyl|enm|en}} {{m|enm|garden}}, from {{etyl|xno|en}}, {{etyl|ONF.|en}} {{
 ====Translations====
 {{trans-top|piece of land outside with flowers and plants}}
 * Afrikaans: {{t|af|tuin}}
-* Albanian: {{t|sq|kopsht|m}}
+* Albanian: {{t+|sq|kopsht|m}}
 * Alviri-Vidari: {{t|avd|باغ|tr=bāğ}}
 * Arabic: {{t+|ar|حَدِيقَة|f}}
 *: Egyptian Arabic: {{t|arz|جنينة|f|tr=ginayna(t)|sc=Arab}}
@@ -161,7 +161,7 @@ From {{etyl|enm|en}} {{m|enm|garden}}, from {{etyl|xno|en}}, {{etyl|ONF.|en}} {{
 * Swahili: {{t+|sw|shamba}}, {{t+|sw|bustani}}
 * Swedish: {{t+|sv|trädgård|c}}
 * Tagalog: {{t+|tl|hardin}}
-* Tajik: {{t|tg|боғ|sc=Cyrl}}
+* Tajik: {{t+|tg|боғ|sc=Cyrl}}
 * Taos: {{t|twf|wàlto’óna}}
 * Telugu: {{t+|te|తోట}}
 * Thai: {{t+|th|สวน|tr=sŭan|sc=Thai}}
@@ -171,14 +171,14 @@ From {{etyl|enm|en}} {{m|enm|garden}}, from {{etyl|xno|en}}, {{etyl|ONF.|en}} {{
 * Urdu: {{t|ur|باغیچہ|m|tr=bāġīcā|sc=ur-Arab}}, {{t|ur|باغ|m|tr=bāġ|sc=ur-Arab}}
 * Uzbek: {{t+|uz|bogʻ}}
 * Venetian: {{t|vec|xardin|m}}, {{t|vec|jardin}}
-* Vietnamese: {{t+|vi|vườn}}, {{t+|vi|khu vườn}}, {{t+|vi|hoa viên}} ({{t+|vi|花園}})
+* Vietnamese: {{t+|vi|vườn}}, {{t|vi|khu vườn}}, {{t|vi|hoa viên}} ({{t|vi|花園}})
 * Volapük: {{t+|vo|gad}}, {{qualifier|vegetable}} {{t+|vo|härbatagad}}
 * Welsh: {{t+|cy|gardd}}
 * Yiddish: {{t|yi|גאָרטן|m|tr=gorten|sc=Hebr}}
 {{trans-bottom}}
 
 {{trans-top|gardens with public access}}
-* Armenian: {{t|hy|զբոսայգի}}, {{t+|hy|այգի}}
+* Armenian: {{t+|hy|զբոսայգի}}, {{t+|hy|այգի}}
 * Bashkir: {{t|ba|баҡса|sc=Cyrl}}
 * Bulgarian: {{t+|bg|парк|m|sc=Cyrl}}
 * Catalan: {{t|ca|jardí|m}}, {{t+|ca|parc|m}}, {{t|ca|[[jardí]] [[públic]]}}
@@ -232,7 +232,7 @@ From {{etyl|enm|en}} {{m|enm|garden}}, from {{etyl|xno|en}}, {{etyl|ONF.|en}} {{
 * Finnish: {{t+|fi|puutarha}}
 * French: {{t+|fr|jardin|m}}
 * Georgian: {{t|ka|ბოსტანი}}
-* German: {{t+|de|Garten|m}}, {{qualifier|at the front of a house}} {{t|de|Vorgarten|m}}
+* German: {{t+|de|Garten|m}}, {{qualifier|at the front of a house}} {{t+|de|Vorgarten|m}}
 * Greek: {{t+|el|κήπος|m}}
 * Hungarian: {{t+|hu|kert}}, {{t+|hu|udvar}}
 * Irish: {{t+|ga|gairdín}}
@@ -271,7 +271,7 @@ From {{etyl|enm|en}} {{m|enm|garden}}, from {{etyl|xno|en}}, {{etyl|ONF.|en}} {{
 {{trans-mid}}
 * Portuguese: {{t+|pt|brenha|f}}, {{t+|pt|matagal|m}}
 * Romanian: {{t+|ro|iarbă|f}}
-* Russian: {{t|ru|волосня́|f}}
+* Russian: {{t+|ru|волосня́|f}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -314,12 +314,12 @@ From {{etyl|enm|en}} {{m|enm|garden}}, from {{etyl|xno|en}}, {{etyl|ONF.|en}} {{
 * Persian: {{t|fa|باغبانی کردن|tr=bāqbāni kardan|sc=fa-Arab}}
 * Portuguese: {{t+|pt|jardinar}}
 * Romanian: {{t|ro|face grădinărie}}, {{t+|ro|grădinări}}
-* Russian: {{t|ru|садо́вничать}} {{qualifier|colloquial}}; {{t|ru|огоро́дничать}} (''in vegetable garden; colloq.'')
+* Russian: {{t+|ru|садо́вничать}} {{qualifier|colloquial}}; {{t+|ru|огоро́дничать}} (''in vegetable garden; colloq.'')
 * Slovene: {{t|sl|vrtnariti}}
 * Spanish: {{t|es|trabajar el jardín}}
 * Swahili: {{t+|sw|shamba}}
 * Swedish: {{t+|sv|arbeta}} i {{t+|sv|trädgård}}en, {{t+|sv|ägna}} sig åt {{t+|sv|trädgårdsskötsel}}
-* Turkish: {{l|tr|bahçe}} {{l|tr|işi}} {{l|tr|ile}}/{{l|tr|işiyle}} {{t|tr|meşgul olmak}}/{{t|tr|uğraşmak}}
+* Turkish: {{l|tr|bahçe}} {{l|tr|işi}} {{l|tr|ile}}/{{l|tr|işiyle}} {{t+|tr|meşgul olmak}}/{{t+|tr|uğraşmak}}
 * Volapük: {{t+|vo|gadön}}
 {{trans-bottom}}
 
