@@ -62,13 +62,13 @@ From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=
 * Arabic: {{t|ar|قِناع|m}}
 *: Egyptian Arabic: {{t|arz|قناع|m|tr=qināʿ|sc=Arab}}, {{t|arz|ماسك|m|tr=mask|sc=Arab}}
 *: Moroccan Arabic: {{t|ary|ماسْك|m|tr=mask}}
-* Armenian: {{t|hy|դիմակ}}
+* Armenian: {{t+|hy|դիմակ}}
 * Belarusian: {{t|be|ма́ска|f}}
 * Bulgarian: {{t+|bg|ма́ска|f}}
-* Catalan: {{t+|ca|màscara|f}}, {{t|ca|careta|f}}
+* Catalan: {{t+|ca|màscara|f}}, {{t+|ca|careta|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|面具|tr=miànjù|sc=Hani}}, {{t+|cmn|面罩|tr=miànzhào|sc=Hani}}
-* Czech: {{t|cs|maska|f}}
+* Czech: {{t+|cs|maska|f}}
 * Danish: {{t|da|maske|c}}
 * Dutch: {{t+|nl|masker|m}}
 * Erzya: {{t|myv|чамакс}}
@@ -99,8 +99,8 @@ From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=
 * Russian: {{t+|ru|ма́ска|f}}, {{t+|ru|личи́на|f}} {{qualifier|also figurative}}
 * Scottish Gaelic: {{t|gd|sgàile|f}}, {{t|gd|masg|m}}, {{t|gd|aghaidh-choimheach|f}}, {{t|gd|brat-gnùise|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|кринка|f|sc=Cyrl}}, {{t|sh|маска|f|sc=Cyrl}}, {{t|sh|крабуља|f|sc=Cyrl}}, {{t+|sh|личина|f|sc=Cyrl}}, {{t+|sh|образина|f|sc=Cyrl}}
-*: Roman: {{t|sh|krinka|f}}, {{t|sh|maska|f}}, {{t|sh|krabulja|f}}, {{t+|sh|ličina|f}}, {{t+|sh|obrazina|f}}
+*: Cyrillic: {{t|sh|кринка|f|sc=Cyrl}}, {{t|sh|маска|f|sc=Cyrl}}, {{t|sh|крабуља|f|sc=Cyrl}}, {{t|sh|личина|f|sc=Cyrl}}, {{t|sh|образина|f|sc=Cyrl}}
+*: Roman: {{t+|sh|krinka|f}}, {{t+|sh|maska|f}}, {{t+|sh|krabulja|f}}, {{t+|sh|ličina|f}}, {{t+|sh|obrazina|f}}
 * Spanish: {{t|es|máscara|f}}
 * Swahili: {{t|sw|barakoa}}
 * Swedish: {{t+|sv|mask|c}}
@@ -134,7 +134,7 @@ From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=
 {{trans-top|festive entertainment}}
 * Finnish: {{t+|fi|naamiaiset}}
 * Greek: {{t+|el|μεταμφίεση|f}}
-* Portuguese: {{t+|pt|mascarada|f}}
+* Portuguese: {{t|pt|mascarada|f}}
 {{trans-mid}}
 * Russian: {{t+|ru|ма́ска|f}}
 * Swedish: {{t+|sv|maskerad|c}}
@@ -144,7 +144,7 @@ From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=
 * Catalan: {{t+|ca|mascarada|f}}
 * Finnish: {{t|fi|naamionäytelmä}}
 {{trans-mid}}
-* Portuguese: {{t+|pt|mascarada|f}}
+* Portuguese: {{t|pt|mascarada|f}}
 * Spanish: {{t+|es|mascarada|f}}
 {{trans-bottom}}
 
@@ -172,7 +172,7 @@ From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=
 {{trans-bottom}}
 
 {{trans-top|two-color bitmap used to create transparency in an image}}
-* Portuguese: {{t|pt|máscara}}
+* Portuguese: {{t+|pt|máscara}}
 * Spanish: {{t+|es|capa|f}}
 {{trans-mid}}
 * Swedish: {{t|sv|genomskinlighetsmask|c}}
@@ -216,7 +216,7 @@ From {{etyl|frm|en}} {{term|masque||a covering to hide or protect the face|lang=
 * German: {{t|de|maskieren}}
 {{trans-mid}}
 * Romanian: {{t+|ro|masca}}
-* Spanish: {{t|es|enmascarar}}
+* Spanish: {{t+|es|enmascarar}}
 {{trans-bottom}}
 
 {{trans-top|to disguise; to cover; to hide}}
