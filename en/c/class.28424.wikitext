@@ -170,7 +170,7 @@ From {{etyl|fr|en}} {{term|classe|lang=fr}}, from {{etyl|la|en}} {{term|classis|
 {{trans-bottom}}
 
 {{trans-top|social grouping, based on job, wealth, etc.}}
-* Armenian: {{t+|hy|դաս|sc=Armn}}, {{t|hy|դասակարգ|sc=Armn}}
+* Armenian: {{t+|hy|դաս|sc=Armn}}, {{t+|hy|դասակարգ|sc=Armn}}
 * Bashkir: {{t|ba|синыф}}
 * Bulgarian: {{t+|bg|класа|f|sc=Cyrl}}
 * Catalan: {{t+|ca|classe|f}}
@@ -200,7 +200,7 @@ From {{etyl|fr|en}} {{term|classe|lang=fr}}, from {{etyl|la|en}} {{term|classis|
 * Scottish Gaelic: {{t|gd|clas|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|сталеж|m}}, {{t|sh|класа|f|sc=Cyrl}}
-*: Roman: {{t|sh|stálež|m}}, {{t|sh|klàsa|f}}
+*: Roman: {{t+|sh|stálež|m}}, {{t+|sh|klàsa|f}}
 * Spanish: {{t+|es|clase}}
 * Swahili: {{t+|sw|darasa}}
 * Swedish: {{t+|sv|klass|c}}
@@ -231,7 +231,7 @@ From {{etyl|fr|en}} {{term|classe|lang=fr}}, from {{etyl|la|en}} {{term|classis|
 * Portuguese: {{t+|pt|classe|f}}
 * Russian: {{t+|ru|класс|m}}
 * Scottish Gaelic: {{t|gd|clas|m}}
-* Serbo-Croatian: {{t|sh|сталеж|m}}, {{t|sh|stalež|m}}
+* Serbo-Croatian: {{t|sh|сталеж|m}}, {{t+|sh|stalež|m}}
 * Swahili: {{t+|sw|darasa}}
 * Swedish: {{t+|sv|klass|c}}
 * Ukrainian: {{t|uk|клас|m|sc=Cyrl}}
@@ -239,7 +239,7 @@ From {{etyl|fr|en}} {{term|classe|lang=fr}}, from {{etyl|la|en}} {{term|classis|
 {{trans-bottom}}
 
 {{trans-top|admirable behavior; elegance}}
-* Armenian: {{t|hy|մակարդակ|sc=Armn}}
+* Armenian: {{t+|hy|մակարդակ|sc=Armn}}
 * Bulgarian: {{t+|bg|класа|f|sc=Cyrl}}
 * Catalan: {{t+|ca|classe|f}}
 * Chechen: {{t|ce|класс|sc=Cyrl}}
@@ -264,7 +264,7 @@ From {{etyl|fr|en}} {{term|classe|lang=fr}}, from {{etyl|la|en}} {{term|classis|
 
 {{trans-top|group of students in a regularly scheduled meeting with a teacher}}
 * Arabic: {{t|ar|فَصْل|m}}
-* Armenian: {{t|hy|դասարան|sc=Armn}}
+* Armenian: {{t+|hy|դասարան|sc=Armn}}
 * Bashkir: {{t|ba|синыф}} {{qualifier|in middle/high school}}
 * Breton: {{t+|br|klas|m}}
 * Bulgarian: {{t+|bg|клас|m|sc=Cyrl}}
@@ -314,7 +314,7 @@ From {{etyl|fr|en}} {{term|classe|lang=fr}}, from {{etyl|la|en}} {{term|classis|
 {{trans-top|series of classes covering a single subject}}
 * Armenian: {{t+|hy|դաս|sc=Armn}}
 * Bulgarian: {{t+|bg|курс|m|sc=Cyrl}}
-* Catalan: {{t+|ca|classe|f}}, {{t|ca|curs|m}}
+* Catalan: {{t+|ca|classe|f}}, {{t+|ca|curs|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|課|sc=Hani}}, {{t+|cmn|课|tr=kè|sc=Hani}}
 * Estonian: {{t|et|kursus}}
@@ -327,7 +327,7 @@ From {{etyl|fr|en}} {{term|classe|lang=fr}}, from {{etyl|la|en}} {{term|classis|
 * Irish: {{t|ga|cúrsa|m}}, {{t|ga|rang|m}}
 * Italian: {{t+|it|corso|m}}
 {{trans-mid}}
-* Japanese: {{t|ja|授業|tr=じゅぎょう, jugyō|sc=Jpan}}, {{t+|ja|クラス|tr=kurasu|sc=Jpan}}
+* Japanese: {{t+|ja|授業|tr=じゅぎょう, jugyō|sc=Jpan}}, {{t+|ja|クラス|tr=kurasu|sc=Jpan}}
 * Korean: {{t+|ko|수업|sc=Kore}} ({{t+|ko|授業|sc=Kore}}), {{t+|ko|클래스|sc=Kore}}
 * Latin: {{t|la|schola|f}}
 * Macedonian: {{t|mk|курс|m|sc=Cyrl}}
@@ -343,7 +343,7 @@ From {{etyl|fr|en}} {{term|classe|lang=fr}}, from {{etyl|la|en}} {{term|classis|
 {{trans-bottom}}
 
 {{trans-top|group of students who commenced or completed their education during a particular year}}
-* Armenian: {{t|hy|դասարան|sc=Armn}}
+* Armenian: {{t+|hy|դասարան|sc=Armn}}
 * Bulgarian: {{t+|bg|набор|m|sc=Cyrl}}
 * Catalan: {{t+|ca|classe|f}}
 * Chechen: {{t|ce|класс|sc=Cyrl}}
@@ -376,7 +376,7 @@ From {{etyl|fr|en}} {{term|classe|lang=fr}}, from {{etyl|la|en}} {{term|classis|
 {{trans-bottom}}
 
 {{trans-top|category of seats in an airplane, train or other means of mass transportation}}
-* Armenian: {{t|hy|կարգ|sc=Armn}}
+* Armenian: {{t+|hy|կարգ|sc=Armn}}
 * Bulgarian: {{t+|bg|класа|f|sc=Cyrl}}
 * Catalan: {{t+|ca|classe|f}}
 * Chechen: {{t|ce|класс|sc=Cyrl}}
@@ -473,7 +473,7 @@ From {{etyl|fr|en}} {{term|classe|lang=fr}}, from {{etyl|la|en}} {{term|classis|
 * Bulgarian: {{t+|bg|набор|m|sc=Cyrl}}
 * Catalan: {{t+|ca|classe|f}}
 {{trans-mid}}
-* Finnish: {{t|fi|saapumiserä}}
+* Finnish: {{t+|fi|saapumiserä}}
 * Greek: {{t+|el|σειρά|f|sc=Grek}}
 {{trans-bottom}}
 
