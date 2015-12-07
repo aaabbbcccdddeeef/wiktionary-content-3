@@ -132,14 +132,14 @@ From {{etyl|enm|en}} {{m|enm|ordre}}, from {{etyl|fro|en}} {{m|fro|ordre}}, {{m|
 ====Translations====
 {{trans-top|arrangement, disposition}}
 * Arabic: {{t|ar|تَرْتِيب|m}}
-* Armenian: {{t|hy|կարգ}}
+* Armenian: {{t+|hy|կարգ}}
 * Bashkir: {{t|ba|тәртип|sc=Cyrl}}
 * Belarusian: {{t|be|пара́дак|m|sc=Cyrl}}
 * Bulgarian: {{t+|bg|ред|m|sc=Cyrl}}
 * Catalan: {{t+|ca|ordre|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|順序|sc=Hani}}, {{t+|cmn|顺序|tr=shùnxù|sc=Hani}}
-* Czech: {{t+|cs|pořadí|n}}, {{t+|cs|uspořádání|n}}
+* Czech: {{t+|cs|pořadí|n}}, {{t|cs|uspořádání|n}}
 * Dutch: {{t+|nl|volgorde|f}}
 * Finnish: {{t+|fi|järjestys}}
 * French: {{t+|fr|ordre|m}}
@@ -152,7 +152,7 @@ From {{etyl|enm|en}} {{m|enm|ordre}}, from {{etyl|fro|en}} {{m|fro|ordre}}, {{m|
 * Interlingua: {{t|ia|ordine}}
 * Irish: {{t|ga|bail|f}}
 * Italian: {{t+|it|ordine|m}}
-* Japanese: {{t|ja|順序|tr=じゅんじょ, junjo|sc=Jpan}}
+* Japanese: {{t+|ja|順序|tr=じゅんじょ, junjo|sc=Jpan}}
 * Macedonian: {{t|mk|ред|m|sc=Cyrl}}
 * Maori: {{t|mi|raupapa}}
 {{trans-mid}}
@@ -183,7 +183,7 @@ From {{etyl|enm|en}} {{m|enm|ordre}}, from {{etyl|fro|en}} {{m|fro|ordre}}, {{m|
 
 {{trans-top|good arrangement}}
 * Arabic: {{t|ar|تَرْتِيب|m}}
-* Armenian: {{t|hy|կարգ}}
+* Armenian: {{t+|hy|կարգ}}
 * Bashkir: {{t|ba|тәртип|sc=Cyrl}}
 * Belarusian: {{t|be|пара́дак|m|sc=Cyrl}}
 * Catalan: {{t+|ca|ordre|m}}
@@ -226,7 +226,7 @@ From {{etyl|enm|en}} {{m|enm|ordre}}, from {{etyl|fro|en}} {{m|fro|ordre}}, {{m|
 
 {{trans-top|command}}
 * Arabic: {{t+|ar|أَمْر|m}}
-* Armenian: {{t|hy|հրաման}}
+* Armenian: {{t+|hy|հրաման}}
 * Aromanian: {{t+|rup|urdin}}, {{t|rup|dimãndari|f}}, {{t|rup|dimãndare|f}}
 * Bashkir: {{t|ba|бойороҡ|sc=Cyrl}}
 * Basque: {{t|eu|men}}
@@ -234,11 +234,11 @@ From {{etyl|enm|en}} {{m|enm|ordre}}, from {{etyl|fro|en}} {{m|fro|ordre}}, {{m|
 * Chinese:
 *: Mandarin: {{t+|cmn|命令|tr=mìnglìng|sc=Hani}}
 * Czech: {{t+|cs|rozkaz|m}}, {{t|cs|povel|m}}
-* Danish: {{t|da|ordre|c}}
+* Danish: {{t+|da|ordre|c}}
 * Dutch: {{t+|nl|order|m}}, {{t+|nl|bevel|n}}
 * Esperanto: {{t|eo|ordono}}
 * Estonian: {{t|et|korraldus}}
-* Finnish: {{t+|fi|käsky}}, {{t|fi|komento}}
+* Finnish: {{t+|fi|käsky}}, {{t+|fi|komento}}
 * French: {{t+|fr|ordre|m}}
 *: Old French: {{t|fro|comandement|m}}
 * German: {{t|de|Order|f}}, {{t+|de|Befehl|m}}
@@ -278,12 +278,12 @@ From {{etyl|enm|en}} {{m|enm|ordre}}, from {{etyl|fro|en}} {{m|fro|ordre}}, {{m|
 
 {{trans-top|request for some product or service}}
 * Arabic: {{t|ar|طَلَب|m}}
-* Armenian: {{t|hy|պատվեր}}
+* Armenian: {{t+|hy|պատվեր}}
 * Catalan: {{t+|ca|ordre|f}}, {{t|ca|comanda|f}}
 * Chinese:
 *: Mandarin: {{t|cmn|定購|sc=Hani}}, {{t+|cmn|定购|tr=dìnggòu|sc=Hani}}
 * Czech: {{t|cs|objednávka|f}}
-* Danish: {{t|da|ordre|c}}
+* Danish: {{t+|da|ordre|c}}
 * Dutch: {{t+|nl|bestelling|f}}, {{t+|nl|order|m}}
 * Esperanto: {{t|eo|mendo}}
 * Estonian: {{t|et|tellimus}}
@@ -293,7 +293,7 @@ From {{etyl|enm|en}} {{m|enm|ordre}}, from {{etyl|fro|en}} {{m|fro|ordre}}, {{m|
 * Greek: {{t+|el|παραγγελία|f}}
 * Hungarian: {{t+|hu|rendelés}}
 * Indonesian: {{t+|id|pesanan}}
-* Italian: {{t|it|ordinazione|f}}
+* Italian: {{t+|it|ordinazione|f}}
 {{trans-mid}}
 * Japanese: {{t|ja|注文|tr=ちゅうもん, chūmon|sc=Jpan}}
 * Korean: {{t+|ko|주문|sc=Kore}} ({{t+|ko|注文|sc=Kore}})
@@ -314,12 +314,12 @@ From {{etyl|enm|en}} {{m|enm|ordre}}, from {{etyl|fro|en}} {{m|fro|ordre}}, {{m|
 {{trans-bottom}}
 
 {{trans-top|religious group}}
-* Catalan: {{t|ca|orde|m}}
+* Catalan: {{t+|ca|orde|m}}
 * Czech: {{t+|cs|řád|m}}
 * Dutch: {{t+|nl|orde|f}}
-* Esperanto: {{t|eo|ordeno}}
+* Esperanto: {{t+|eo|ordeno}}
 * Estonian: {{t|et|ordu}}
-* Finnish: {{t|fi|veljeskunta}}, {{t+|fi|lahko}}
+* Finnish: {{t+|fi|veljeskunta}}, {{t+|fi|lahko}}
 * French: {{t+|fr|ordre|m}}
 * German: {{t+|de|Orden|m}}
 * Greek: {{t+|el|τάγμα|n}}
@@ -343,11 +343,11 @@ From {{etyl|enm|en}} {{m|enm|ordre}}, from {{etyl|fro|en}} {{m|fro|ordre}}, {{m|
 {{trans-bottom}}
 
 {{trans-top|society of knights}}
-* Catalan: {{t|ca|orde|m}}
+* Catalan: {{t+|ca|orde|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|骑士团}}
 * Czech: {{t+|cs|řád|m}}
-* Esperanto: {{t|eo|ordeno}}
+* Esperanto: {{t+|eo|ordeno}}
 * Finnish: {{t|fi|ritarikunta}}
 * French: {{t+|fr|ordre|m}}
 * German: {{t+|de|Orden|m}}
@@ -387,7 +387,7 @@ From {{etyl|enm|en}} {{m|enm|ordre}}, from {{etyl|fro|en}} {{m|fro|ordre}}, {{m|
 {{trans-bottom}}
 
 {{trans-top|biology: taxonomical classification}}
-* Armenian: {{t|hy|կարգ}}
+* Armenian: {{t+|hy|կարգ}}
 * Catalan: {{t+|ca|ordre|m}}
 * Chinese:
 *: Cantonese: {{t|yue|目|tr=muk6|sc=Hani}}
@@ -407,7 +407,7 @@ From {{etyl|enm|en}} {{m|enm|ordre}}, from {{etyl|fro|en}} {{m|fro|ordre}}, {{m|
 * Italian: {{t+|it|ordine|m}}
 * Japanese: {{t+|ja|目|tr=moku|sc=Jpan}}
 * Khmer: {{t+|km|លំដាប់|tr=lom dab|sc=Khmr}}
-* Latvian: {{t|lv|kārta|f}}
+* Latvian: {{t+|lv|kārta|f}}
 * Norwegian: {{t|no|orden|m}}
 * Polish: {{t+|pl|rząd|m}}
 * Portuguese: {{t+|pt|ordem|f}}
@@ -464,7 +464,7 @@ From {{etyl|enm|en}} {{m|enm|ordre}}, from {{etyl|fro|en}} {{m|fro|ordre}}, {{m|
 {{trans-bottom}}
 
 {{trans-top|relation on a partially ordered set}}
-* Czech: {{t+|cs|uspořádání|n}}
+* Czech: {{t|cs|uspořádání|n}}
 {{trans-mid}}
 * French: {{t|fr|relation d'ordre|f}}
 {{trans-bottom}}
@@ -572,7 +572,7 @@ From {{etyl|enm|en}} {{m|enm|ordre}}, from {{etyl|fro|en}} {{m|fro|ordre}}, {{m|
 
 {{trans-top|to issue a command}}
 * Arabic: {{t+|ar|أَمَرَ}}
-* Armenian: {{t|hy|հրամայել}}
+* Armenian: {{t+|hy|հրամայել}}
 * Catalan: {{t+|ca|ordenar}}
 * Cherokee: {{t|chr|ᎠᏓᏅᏍᏗ|tr=adanvsdi|sc=Cher}}
 * Chinese:
