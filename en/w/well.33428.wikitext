@@ -99,7 +99,7 @@ From {{etyl|enm|en}} {{m|enm|wel}}, {{m|enm|wal}}, {{m|enm|wol}}, {{m|enm|wele}}
 * Greek: {{t+|el|καλά}}, {{t+|el|καλώς}}
 * Haitian Creole: {{t|ht|byen}}
 * Hebrew: {{t+|he|היטב|tr=heitév}}
-* Hindi: {{t|hi|अच्छा|tr=acchā}}, {{t|hi|ख़ूब|tr=xūb|sc=Deva}}
+* Hindi: {{t+|hi|अच्छा|tr=acchā}}, {{t|hi|ख़ूब|tr=xūb|sc=Deva}}
 * Interlingua: {{t|ia|ben}}
 * Istriot: {{t|ist|ben}}
 * Istro-Romanian: {{t|ruo|bire}}
@@ -111,12 +111,12 @@ From {{etyl|enm|en}} {{m|enm|wel}}, {{m|enm|wal}}, {{m|enm|wol}}, {{m|enm|wele}}
 {{trans-mid}}
 * Lao: {{t-needed|lo}}
 * Latin: {{t|la|probē}}, {{t|la|rectē}}, {{t+|la|bene}}
-* Lithuanian: {{t|lt|gerai}}
+* Lithuanian: {{t+|lt|gerai}}
 * Macedonian: {{t|mk|добро|tr=dóbro|sc=Cyrl}}
 * Malagasy: {{t+|mg|tsara}}
 * Malay: {{t|ms|dengan baik}}
 * Megleno-Romanian: {{t|ruq|bini}}
-* Mongolian: {{t|mn|худаг|tr=húdag|sc=Cyrl}}
+* Mongolian: {{t+|mn|худаг|tr=húdag|sc=Cyrl}}
 * Norwegian: {{t+|no|bra}}
 * Occitan: {{t+|oc|ben}}, {{t+|oc|plan}}
 * Pashto: {{t+|ps|ښه|tr=ẍë}}
@@ -132,7 +132,7 @@ From {{etyl|enm|en}} {{m|enm|wel}}, {{m|enm|wal}}, {{m|enm|wol}}, {{m|enm|wele}}
 * Serbo-Croatian: {{t+|sh|dobro}}
 * Sicilian: {{t+|scn|beni}}
 * Slovak: {{t|sk|dobre}}
-* Slovene: {{t|sl|dôbro}}
+* Slovene: {{t+|sl|dôbro}}
 * Spanish: {{t+|es|bien}}
 * Swedish: {{t+|sv|väl}}, {{t+|sv|bra}}
 * Thai: {{t|th|ให้ดี|tr=hâi dee}}, {{t|th|อย่างดี|tr=yàang dee}}
@@ -273,7 +273,7 @@ From {{etyl|enm|en}} {{m|enm|wel}}, {{m|enm|wal}}, {{m|enm|wol}}, {{m|enm|wele}}
 * Scottish Gaelic: {{t|gd|math}}
 * Sicilian: {{t+|scn|beni}}
 * Slovak: {{t|sk|zdravý}}
-* Slovene: {{t|sl|zdràv}}
+* Slovene: {{t+|sl|zdràv}}
 * Spanish: {{t+|es|bien}}
 * Sundanese: {{t|su|pangéstu}}
 * Swedish: {{t+|sv|frisk}}
@@ -336,8 +336,8 @@ From {{etyl|enm|en}} {{m|enm|wel}}, {{m|enm|wal}}, {{m|enm|wol}}, {{m|enm|wele}}
 * Hindi: {{t|hi|ख़ैर|tr=xair|sc=Deva}}
 {{trans-mid}}
 * Irish: {{t|ga|bhuel}}
-* Italian: {{t|it|beh}}, {{t|it|mbè}}
-* Japanese: {{t|ja|うーん|tr=ūn}}, {{t|ja|ええと|tr=ēto}}, {{t|ja|あのう|tr=anō}}
+* Italian: {{t+|it|beh}}, {{t|it|mbè}}
+* Japanese: {{t|ja|うーん|tr=ūn}}, {{t|ja|ええと|tr=ēto}}, {{t+|ja|あのう|tr=anō}}
 * Macedonian: {{t|mk|е па|tr=e pa|sc=Cyrl}}, {{t|mk|па|tr=pa|sc=Cyrl}}
 * Pashto: {{t|ps|مړه|tr=maṛa}}
 * Polish: {{t+|pl|cóż}}, {{t+|pl|no}}
@@ -397,7 +397,7 @@ From {{etyl|enm|en}} {{m|enm|wel}}, {{m|enm|wal}}, {{m|enm|wol}}, {{m|enm|wele}}
 * German: {{t+|de|na}}, {{t+|de|naja}}
 * Greek: {{t+|el|λοιπόν}}, {{t|el|που λες}}
 * Irish: {{t|ga|bhuel}}
-* Japanese: {{t|ja|ええと|tr=ēto}}, {{t|ja|あのう|tr=anō}}
+* Japanese: {{t|ja|ええと|tr=ēto}}, {{t+|ja|あのう|tr=anō}}
 * Korean: {{t|ko|저어|sc=Kore}}
 * Lithuanian: {{t+|lt|na}}
 * Luganda: {{t|lg|kale}}, {{t|lg|mmm}}, {{t|lg|eee}}
@@ -472,7 +472,7 @@ From {{etyl|ang|en}} {{m|ang|well||well}}, from {{etyl|gem-pro|en}} {{m|gem-pro|
 =====Translations=====
 {{trans-top|hole sunk into the ground}}
 * Afrikaans: {{t|af|fontein}}
-* Albanian: {{t|sq|pus|m}}
+* Albanian: {{t+|sq|pus|m}}
 * Amharic: {{t|am|ምንጭ|tr=mənəč̣|sc=Ethi}}
 * Arabic: {{t|ar|بِئْر|m}}
 *: Egyptian Arabic: {{t|arz|بير|m|tr=biir|sc=Arab}}
@@ -500,11 +500,11 @@ From {{etyl|ang|en}} {{m|ang|well||well}}, from {{etyl|gem-pro|en}} {{m|gem-pro|
 * Chechen: {{t-needed|ce}}
 * Chinese:
 *: Mandarin: {{t+|cmn|井|tr=jǐng}}
-* Czech: {{t|cs|studna|f}} {{qualifier|for water}}, {{t+|cs|vrt|m}} {{qualifier|for oil}}
+* Czech: {{t+|cs|studna|f}} {{qualifier|for water}}, {{t+|cs|vrt|m}} {{qualifier|for oil}}
 * Danish: {{t|da|brønd|c}}
 * Dutch: {{t+|nl|bron|f}}, {{t+|nl|put|m}}
 * Esperanto: {{t+|eo|puto}}
-* Estonian: {{t|et|kaev}}
+* Estonian: {{t+|et|kaev}}
 * Faroese: {{t|fo|brunnur|m}}, {{t|fo|bruður|m}}
 * Finnish: {{t+|fi|kaivo}}
 * French: {{t+|fr|puits|m}}
@@ -540,13 +540,13 @@ From {{etyl|ang|en}} {{m|ang|well||well}}, from {{etyl|gem-pro|en}} {{m|gem-pro|
 * Latvian: {{t|lv|aka|f}}
 * Limburgish: {{t+|li|pöt}}
 * Lithuanian: {{t|lt|šulinys|m}}
-* Low German: {{t|nds|Born}}
+* Low German: {{t+|nds|Born}}
 * Luxembourgish: {{t|lb|Pëtz}}
 * Macedonian: {{t|mk|бу́нар|m|sc=Cyrl}}
 * Malay: {{t|ms|perigi}} (water), [[telaga minyak]] (oil), {{t|ms|telaga}}, {{t|ms|sumur}}, {{t+|ms|luak}}
 * Malayalam: {{t+|ml|കിണർ}}, {{t+|ml|ഊറ്റ്}}, {{t+|ml|ഉറവ}}, {{t|ml|എന്തിന്‍റെയും വറ്റാത്ത ഉറവ}}
 * Maltese: {{t|mt|bir|m}}
-* Mongolian: {{t|mn|шанд|sc=Cyrl}}
+* Mongolian: {{t+|mn|шанд|sc=Cyrl}}
 * Neapolitan: {{t|nap|puzzo|m}}
 * Nepali: {{t|ne|ईनार|sc=Deva}}
 * Norman: {{t|nrf|pyit|m}}
@@ -566,7 +566,7 @@ From {{etyl|ang|en}} {{m|ang|well||well}}, from {{etyl|gem-pro|en}} {{m|gem-pro|
 * Scottish Gaelic: {{t|gd|fuaran|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|бу̀на̄р|m|sc=Cyrl}}, {{t|sh|зденац|m}}, {{t|sh|студенац|m}}
-*: Roman: {{t|sh|bùnār|m}}, {{t|sh|zdénac|m}}, {{t|sh|studénac|m}}
+*: Roman: {{t+|sh|bùnār|m}}, {{t+|sh|zdénac|m}}, {{t+|sh|studénac|m}}
 * Sicilian: {{t+|scn|puzzu|m}}
 * Slovak: {{t|sk|studňa|f}}
 * Slovene: {{t+|sl|vodnjak}} (for water), {{t|sl|vrtina}} (for oil, gas, etc.)
@@ -587,7 +587,7 @@ From {{etyl|ang|en}} {{m|ang|well||well}}, from {{etyl|gem-pro|en}} {{m|gem-pro|
 * Uzbek: {{t+|uz|quduq}}, {{t+|uz|chuqur}}
 * Venetian: {{t|vec|pos|m}}, {{t|vec|poso|m}}
 * Vietnamese: {{t+|vi|cũng|sc=Grek}}
-* Welsh: {{t|cy|ffynnon|f}}
+* Welsh: {{t+|cy|ffynnon|f}}
 * West Frisian: {{t|fy|welle}}
 * Yiddish: {{t|yi|ברונעם|m}}
 {{trans-bottom}}
@@ -601,7 +601,7 @@ From {{etyl|ang|en}} {{m|ang|well||well}}, from {{etyl|gem-pro|en}} {{m|gem-pro|
 * Esperanto: {{t|eo|fonto}}
 * Finnish: {{t+|fi|lähde}}
 * French: {{t+|fr|source}}
-* Galician: {{t|gl|manancial|m}}
+* Galician: {{t+|gl|manancial|m}}
 * Georgian: {{t|ka|წყარო}}
 * German: {{t+|de|Quelle}}
 * Greek: {{t+|el|νερομάνα|f}}, {{t|el|αστείρευτη πηγή|f}}
@@ -611,7 +611,7 @@ From {{etyl|ang|en}} {{m|ang|well||well}}, from {{etyl|gem-pro|en}} {{m|gem-pro|
 * Russian: {{t+|ru|родни́к|m}}, {{t+|ru|ключ}}, {{t+|ru|исто́чник|m}}, {{t|ru|студене́ц|m}}
 * Scots: {{t|sco|wall}}
 * Scottish Gaelic: {{t|gd|fuaran|m}}
-* Serbo-Croatian: {{t|sh|vrȅlo|n}}, {{t|sh|vrútak}}, {{t|sh|ìzvor|m}}
+* Serbo-Croatian: {{t+|sh|vrȅlo|n}}, {{t+|sh|vrútak}}, {{t+|sh|ìzvor|m}}
 * Swedish: {{t+|sv|källa}}
 * Thai: {{t|th|บ่อน้|tr=bòr-nám}}
 * Turkish: {{t+|tr|pınar}}, {{t+|tr|kaynak}}, {{t+|tr|memba}}
@@ -620,7 +620,7 @@ From {{etyl|ang|en}} {{m|ang|well||well}}, from {{etyl|gem-pro|en}} {{m|gem-pro|
 {{trans-bottom}}
 
 {{trans-top|small depression}}
-* Finnish: {{t|fi|vesikuoppa}} {{gloss|waterhole}}
+* Finnish: {{t+|fi|vesikuoppa}} {{gloss|waterhole}}
 {{trans-mid}}
 * Venetian: {{t|vec|pos|m}}
 {{trans-bottom}}
