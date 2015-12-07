@@ -41,7 +41,7 @@ From 1582 via {{etyl|nl|en}} {{m|nl|koffie||coffee}}, from {{etyl|it|en}} {{m|it
 
 ====Translations====
 {{trans-top|beverage}}
-* Abaza: {{t+|abq|ко́фе}}
+* Abaza: {{t|abq|ко́фе}}
 * Abkhaz: {{t|ab|акаҳуа|sc=Cyrl}}
 * Adyghe: {{t|ady|коф}}
 * Afar: {{t|aa|buun}} {{qualifier|North}}, {{t|aa|buna}} {{qualifier|South}}
@@ -79,7 +79,7 @@ From 1582 via {{etyl|nl|en}} {{m|nl|koffie||coffee}}, from {{etyl|it|en}} {{m|it
 * Biloxi: {{t|bil|kafi}}
 * Bislama: {{t|bi|kofi}}, {{t|bi|kofe}}
 * Bole: {{t|bde|shayì}}
-* Breton: {{t|br|kafe|m}}
+* Breton: {{t+|br|kafe|m}}
 * Bulgarian: {{t|bg|кафе́|n}}
 * Burmese: {{t+|my|ကော်ဖီ|sc=Mymr}}
 * Buryat: {{t|bua|кофе}}
@@ -210,10 +210,10 @@ From 1582 via {{etyl|nl|en}} {{m|nl|koffie||coffee}}, from {{etyl|it|en}} {{m|it
 * Lakota: {{t|lkt|pejula sapa}}
 * Lao: {{t+|lo|ກາເຟ|sc=Laoo}}
 * Latin: {{t|la|coffeum|f}}
-* Latvian: {{t|lv|kafija|f}}
+* Latvian: {{t+|lv|kafija|f}}
 * Lezgi: {{t|lez|кофе|sc=Cyrl}}, {{t|lez|къагьве|sc=Cyrl}}
 * Ligurian: {{t|lij|caffè|m}}, {{t|lij|cafè|m}} {{qualifier|Genoese}}
-* Limburgish: {{t|li|koffie|m}}
+* Limburgish: {{t+|li|koffie|m}}
 * Lingala: {{t|ln|kawa}}
 {{trans-mid}}
 * Lithuanian: {{t|lt|kava|f}}
@@ -229,7 +229,7 @@ From 1582 via {{etyl|nl|en}} {{m|nl|koffie||coffee}}, from {{etyl|it|en}} {{m|it
 * Lü: {{t-needed|khb}}
 * Macedonian: {{t|mk|кафе|n}}
 * Maia: {{t|sks|kopi}}
-* Malagasy: {{t|mg|kafe}}
+* Malagasy: {{t+|mg|kafe}}
 * Malay: {{t+|ms|kopi}}, {{t|ms|kahwa}}
 * Malayalam: {{t+|ml|കാപ്പി|sc=Mlym}}
 * Maltese: {{t|mt|kafè|m}}
@@ -241,7 +241,7 @@ From 1582 via {{etyl|nl|en}} {{m|nl|koffie||coffee}}, from {{etyl|it|en}} {{m|it
 * Min Dong: {{t|cdo|gă-pĭ}}
 * Mirandese: {{t|mwl|café|m}}
 * Moksha: {{t|mdf|кофе}}
-* Mongolian: {{t|mn|кофе|sc=Cyrl}}
+* Mongolian: {{t+|mn|кофе|sc=Cyrl}}
 * Movima: {{t|mzp|ka:pe}}
 * Musey: {{t|mse|kàffēnā}}
 * Nahuatl: {{t|nah|cafentzin}}, {{t|nah|cafēn}}
@@ -309,18 +309,18 @@ From 1582 via {{etyl|nl|en}} {{m|nl|koffie||coffee}}, from {{etyl|it|en}} {{m|it
 * Seri: {{t|sei|cafee}}, {{t|sei|xica coopol}}
 * Tashelhit: {{t|shi|l-qhwa}}
 * Shona: {{t|sn|kofi}}
-* Sicilian: {{t|scn|cafè|m}}
+* Sicilian: {{t+|scn|cafè|m}}
 * Silesian: {{t|szl|kafej}}, {{t|szl|kafyj}}
 * Sindhi: {{t|sd|ڪافي|sc=sd-Arab}}, {{t|sd|قهوو|sc=sd-Arab}}
 * Sinhalese: {{t|si|කෝපි|sc=Sinh}}
-* Slovak: {{t|sk|káva|f}}
+* Slovak: {{t+|sk|káva|f}}
 * Slovene: {{t+|sl|kava|f}}
 * Somali: {{t|so|bun|m}}, {{t|so|qahwe}}
 * Sorbian:
 *: Lower: {{t|dsb|kafej|m}}
 *: Upper: {{t|hsb|kofej|m}}
 * Sotho: {{t|st|kofi}}
-* Spanish: {{t+|es|café|m}}, {{t+|es|tinto|m}}, {{t|es|feca|m}} {{qualifier|slang}}
+* Spanish: {{t+|es|café|m}}, {{t+|es|tinto|m}}, {{t+|es|feca|m}} {{qualifier|slang}}
 * Sranan Tongo: {{t|srn|kofi}}
 * Swahili: {{t+|sw|kahawa}}
 * Swedish: {{t+|sv|kaffe|n}}
@@ -352,14 +352,14 @@ From 1582 via {{etyl|nl|en}} {{m|nl|koffie||coffee}}, from {{etyl|it|en}} {{m|it
 * Ukrainian: {{t+|uk|ка́ва|f}}
 * Urdu: {{t|ur|قہوہ|m|tr=qahva}}, {{t|ur|کوفی|f|tr=kofī}}, {{t|ur|کافی|f|tr=kāfī}}
 * Uyghur: {{t|ug|قەھۋە|sc=ug-Arab}}
-* Uzbek: {{t|uz|kofe}}, {{t+|uz|qahva}}
+* Uzbek: {{t+|uz|kofe}}, {{t+|uz|qahva}}
 * Venetian: {{t|vec|cafè|m}}
 * Veps: {{t|vep|kofe}}
 * Vietnamese: {{t+|vi|cà phê}}
 * Volapük: {{t+|vo|kaf}}
 * Võro: {{t|vro|kohv}}
 * Wallisian: {{t|wls|kafē}}
-* Walloon: {{t|wa|cafè|m}}
+* Walloon: {{t+|wa|cafè|m}}
 * Waray-Waray: {{t|war|kape}}
 * Welsh: {{t+|cy|coffi|m}}
 * West Flemish: {{t|vls|kaffie}}, {{t|vls|kafje}}
