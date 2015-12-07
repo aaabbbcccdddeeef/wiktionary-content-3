@@ -79,7 +79,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 * Abkhaz: {{t|ab|аџьыка}}
 * Afrikaans: {{t|af|sout}}
 * Ainu: {{t|ain|ルル|tr=ruru}}, {{t|ain|シッポ|tr=sippo}}
-* Albanian: {{t|sq|kripë}}
+* Albanian: {{t+|sq|kripë}}
 * Amharic: {{t|am|ጨው|m|sc=Ethi}}
 * Arabic: {{t|ar|مِلْح|m}}
 *: Egyptian Arabic: {{t|arz|ملح|m|tr=malḥ|sc=Arab}}
@@ -165,14 +165,14 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 * Kurdish:
 *: Kurmanji: {{t+|ku|xwê|f}}
 *: Sorani: {{t|ckb|خوێ|tr=xwê}}
-* Kyrgyz: {{t|ky|туз|sc=Cyrl}}
+* Kyrgyz: {{t+|ky|туз|sc=Cyrl}}
 * Lao: {{t+|lo|ເກືອ|sc=Laoo}}
 * Latin: {{t|la|sāl|m}}
 {{trans-mid}}
 * Latvian: {{t+|lv|sāls|f}}
 * Laz: {{t-needed|lzz}}
 * Lithuanian: {{t+|lt|druska|f}}
-* Lojban: {{t|jbo|silna}}
+* Lojban: {{t+|jbo|silna}}
 * Lombard: {{t|lmo|saa}}
 * Luxembourgish: {{t+|lb|Salz|n}}
 * Macedonian: {{t|mk|сол|f}}, {{t|mk|кујнска сол|f}}
@@ -237,7 +237,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 * Sundanese: {{t|su|uyah}}
 * Swedish: {{t+|sv|salt|n}}, {{t+|sv|koksalt|n}}, {{t+|sv|bordssalt|n}}
 * Tagalog: {{t+|tl|asin}}
-* Tajik: {{t|tg|намак|sc=Cyrl}}
+* Tajik: {{t+|tg|намак|sc=Cyrl}}
 * Tamil: {{t+|ta|உப்பு}}
 * Tatar: {{t+|tt|тоз|sc=Cyrl}}
 * Telugu: {{t+|te|ఉప్పు}}
@@ -281,7 +281,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 * Hungarian: {{t+|hu|só}}
 * Japanese: {{t+|ja|塩|tr=[[えん]], [[en]]|sc=Jpan}}
 * Latvian: {{t+|lv|sāls|m}}
-* Lojban: {{t|jbo|silna}}
+* Lojban: {{t+|jbo|silna}}
 * Macedonian: {{t|mk|сол|f|tr=sol}}
 * Navajo: {{t|nv|áshįįh}}
 {{trans-mid}}
@@ -429,7 +429,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 * Dutch: {{t+|nl|zout|n}}, {{t+|nl|zout|n|alt=zout-}}
 * Estonian: {{t+|et|soolane}}, {{t|et|soola-}}
 * Faroese: {{t|fo|saltkendur}}
-* Finnish: {{t+|fi|suolainen}}, {{t|fi|suola|alt=suola-}}
+* Finnish: {{t+|fi|suolainen}}, {{t+|fi|suola|alt=suola-}}
 * French: {{t+|fr|salin}}
 * Greek: {{t+|el|αλατούχος|m}}, {{t|el|αλατώδης|m}}
 * Italian: {{t+|it|salino}}
@@ -522,7 +522,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 * Portuguese: {{t+|pt|salgar}}
 * Romanian: {{t+|ro|săra}}
 * Romansch: {{t|rm|ensalar}}, {{t|rm|ansalar}}, {{t|rm|saler}}, {{t|rm|insaler}}, {{t|rm|salar}}
-* Russian: {{t|ru|соли́ть|impf}}, {{t|ru|посоли́ть|pf}}
+* Russian: {{t+|ru|соли́ть|impf}}, {{t+|ru|посоли́ть|pf}}
 * Sardinian: {{t|sc|salire}}, {{t|sc|saliri}}
 * Scottish Gaelic: {{qualifier|for preservation}} {{t|gd|saill}}
 * Sicilian: {{t|scn|salari}}
@@ -547,14 +547,14 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 {{trans-top|to include colorful language}}
 * Danish: {{t+|da|krydre}}
 * Dutch: {{t+|nl|kleuren}}
-* Finnish: {{t+|fi|maustaa}}, {{t|fi|höystää}}
+* Finnish: {{t+|fi|maustaa}}, {{t+|fi|höystää}}
 {{trans-mid}}
 * French: {{t+|fr|épicer}}
 * Swedish: {{t+|sv|krydda}}
 {{trans-bottom}}
 
 {{trans-top|to add something into an object}}
-* Finnish: {{t|fi|terästää}}
+* Finnish: {{t+|fi|terästää}}
 {{trans-mid}}
 {{trans-bottom}}
 
