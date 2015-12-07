@@ -77,7 +77,7 @@ Occasionally "cattle" may be found in singular use:
 *: Moroccan Arabic: {{t|ary|بهايم|m|tr=bhæym|alt=بْهايم}}, {{t|ary|كسيبة|f|tr=ksiba|alt=كْسيبة}}
 * Armenian: {{t|hy|[[խոշոր]] [[եղջերավոր]] [[անասուն]]}}, {{t|hy|տավար}}
 *: Old Armenian: {{t|xcl|արջառ}}
-* Azeri: {{t|az|sığır}}
+* Azeri: {{t+|az|sığır}}
 * Basque: {{t|eu|abelgorriak}}
 * Bau Bidayuh: {{t|sne|sapi}}
 * Belarusian: {{t|be|бу́йная рага́тая жывёла|f}}, {{t|be|бы́дла|n}}
@@ -92,7 +92,7 @@ Occasionally "cattle" may be found in singular use:
 * Esperanto: {{t+|eo|bovo}}
 * Estonian: {{t|et|veised|p}}
 * Faroese: {{t|fo|neyt|n}}
-* Finnish: {{t|fi|nautakarja}}, {{t+|fi|karja}}
+* Finnish: {{t+|fi|nautakarja}}, {{t+|fi|karja}}
 * French: {{t+|fr|bétail}}, {{t+|fr|bovins|m-p}}
 * Galician: {{t+|gl|gando|m}}
 * Georgian: {{t|ka|საქონელი|sc=Geor}}
@@ -101,7 +101,7 @@ Occasionally "cattle" may be found in singular use:
 * Hebrew: {{t+|he|בקר|tr=baqár}}
 * Hungarian: {{t+|hu|szarvasmarha}}
 * Iban: {{t|iba|sapi}}
-* Irish: {{t|ga|eallach|m}}, {{t+|ga|beithígh|m-p}}, {{t|ga|buar|m}}
+* Irish: {{t|ga|eallach|m}}, {{t|ga|beithígh|m-p}}, {{t|ga|buar|m}}
 *: Old Irish: {{t|sga|búar|n}}
 * Italian: {{t+|it|bovini|m-p}}
 * Japanese: {{t+|ja|牛|tr=うし, ushi}}, {{t|ja|畜牛|tr=chikugyū}}
@@ -140,14 +140,14 @@ Occasionally "cattle" may be found in singular use:
 * Spanish: {{t+|es|ganado|m}}
 * Swahili: {{t+|sw|ng'ombe}}
 * Swedish: {{t+|sv|boskap|c}}, {{t+|sv|nötkreatur|n}}
-* Tajik: {{t|tg|гов}}
+* Tajik: {{t+|tg|гов}}
 * Tatar: {{t+|tt|сыер}}
 * Tok Pisin: {{t|tpi|bulmakau}}
 * Turkish: {{t+|tr|büyükbaş hayvan}}, {{t+|tr|sığır}}
-* Ukrainian: {{t-check|uk|вели́ка рога́та худо́ба|f}}<!--is this really idiomatic?-->, {{t+|uk|би́дло|n}}, {{t|uk|скоти́на|f}}, {{t+|uk|бугáй|m}}, {{t+|uk|бик|m}}, {{t+|uk|коро́ва|f}}
-* Uzbek: {{t|uz|sigir}}
+* Ukrainian: {{t-check|uk|вели́ка рога́та худо́ба|f}}<!--is this really idiomatic?-->, {{t+|uk|би́дло|n}}, {{t|uk|скоти́на|f}}, {{t|uk|бугáй|m}}, {{t+|uk|бик|m}}, {{t+|uk|коро́ва|f}}
+* Uzbek: {{t+|uz|sigir}}
 * Volapük: {{t+|vo|veter}}, {{qualifier|collective}} {{t|vo|bubem}}
-* Walloon: {{t|wa|vatches|f-p}}, {{t|wa|grossès biesses|f-p}}, {{t|wa|rodjès biesses|f-p}}, {{t+|wa|bovrins|m-p}} {{qualifier|neologism}}
+* Walloon: {{t|wa|vatches|f-p}}, {{t|wa|grossès biesses|f-p}}, {{t+|wa|rodjès biesses|f-p}}, {{t+|wa|bovrins|m-p}} {{qualifier|neologism}}
 * West Coast Bajau: {{t|bdr|sapi'}}
 * West Frisian: {{t+|fy|kij}}
 {{trans-bottom}}
@@ -164,18 +164,18 @@ Occasionally "cattle" may be found in singular use:
 * Galician: {{t+|gl|gando|m}}
 * German: {{t+|de|Vieh|n}}
 * Greek: {{t+|el|κοπάδι|n}}
-* Hebrew: {{t+|he|מִקְנֶה|tr=miqné}}
+* Hebrew: {{t|he|מִקְנֶה|tr=miqné}}
 {{trans-mid}}
 * Italian: {{t+|it|bestiame|m}}
 * Japanese: {{t+|ja|家畜|tr=かちく, kachiku|sc=Jpan}}
 * Lithuanian: {{t|lt|galvìjas|m}}
-* Norwegian: {{t|no|bøling|m-f}}, {{t|no|buskap|m}}, {{t|no|fe|n}}, {{t|no|krøtter|n-p}}, {{t|no|kveg|n}}
+* Norwegian: {{t|no|bøling|m-f}}, {{t|no|buskap|m}}, {{t+|no|fe|n}}, {{t+|no|krøtter|n-p}}, {{t|no|kveg|n}}
 * Portuguese: {{t+|pt|gado|m}}
 * Russian: {{t+|ru|скот|m}}, {{t+|ru|скоти́на|f}}
 * Scottish Gaelic: {{t|gd|crodh|m}}
 * Swedish: {{t+|sv|boskap}}
 * Turkish: {{t+|tr|davar}}
-* Ukrainian: {{t|uk|худоба}}, {{t+|uk|би́дло|n}}, {{t|uk|скоти́на|f}}
+* Ukrainian: {{t+|uk|худоба}}, {{t+|uk|би́дло|n}}, {{t|uk|скоти́на|f}}
 * Volapük: {{t|vo|smalaveter}}
 * Walloon: {{t+|wa|bisteu|m}}, {{t+|wa|biesses|f-p}}
 {{trans-bottom}}
@@ -200,7 +200,7 @@ Occasionally "cattle" may be found in singular use:
 * Portuguese: {{t+|pt|ralé|f}}
 * Russian: {{t+|ru|скоти́на|f}}, {{t+|ru|бы́дло|n}},
 * Slovak: {{t|sk|dobytok|m}}
-* Turkish: {{t|tr|öküz}}
+* Turkish: {{t+|tr|öküz}}
 * Ukrainian: {{t+|uk|би́дло|n}}
 * Walloon: {{t+|wa|bisteu|m}}, {{t+|wa|biesses|f-p}}
 {{trans-bottom}}
