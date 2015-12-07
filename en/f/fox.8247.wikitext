@@ -95,7 +95,7 @@ From {{etyl|enm|en}} {{term|fox|lang=enm}}, from {{etyl|ang|en}} {{term|fox||fox
 * Afrikaans: {{t|af|[[vos]] [[jakkals]]}}
 * Ainu: {{t|ain|チロヌッㇷ゚|tr=chironnup}}, {{t|ain|シュマリ|tr=shumari}}, {{t|ain|キモッペ|tr=kimoppe}}
 * Alabama: {{t|akz|chola}}
-* Albanian: {{t|sq|dhelpër|f}}, {{t|sq|dhelpra}}
+* Albanian: {{t+|sq|dhelpër|f}}, {{t|sq|dhelpra}}
 * Algonquin: {{t|alq|wonkis}}
 * Arabic: {{t|ar|ثَعْلَب|m}}
 *: Egyptian Arabic: {{t|arz|تعلب|m|tr=taʿlab|sc=Arab}}
@@ -252,12 +252,12 @@ From {{etyl|enm|en}} {{term|fox|lang=enm}}, from {{etyl|ang|en}} {{term|fox||fox
 * Scythian: {{t|xsc|raupāsa}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|лѝсица|f|sc=Cyrl}}, {{t|sh|ли́сац|m|sc=Cyrl}}
-*: Roman: {{t|sh|lìsica|f}}, {{t|sh|lísac|m}}
+*: Roman: {{t+|sh|lìsica|f}}, {{t+|sh|lísac|m}}
 * Seri: {{t|sei|χæːs}}
 * Shor: {{t|cjs|тӱлгӱ|tr=tülgü|sc=Cyrl}}
 * Sicilian: {{t+|scn|vurpi|f}}
-* Sinhalese: {{t|si|හිවලා|sc=Sinh}}, {{t|si|නරියා|sc=Sinh}}
-* Slovak: {{t|sk|líška|f}}
+* Sinhalese: {{t|si|හිවලා|sc=Sinh}}, {{t+|si|නරියා|sc=Sinh}}
+* Slovak: {{t+|sk|líška|f}}
 * Slovene: {{t+|sl|lisica|f}}, {{t|sl|lisjak|m}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|liška|f}}
@@ -270,7 +270,7 @@ From {{etyl|enm|en}} {{term|fox|lang=enm}}, from {{etyl|ang|en}} {{term|fox||fox
 * Swahili: {{t|sw|mbweha mwekundu}}, {{t|sw|thalabu}}
 * Swedish: {{t+|sv|räv|c}}
 * Tabasaran: {{t|tab|сул|sc=Cyrl}}
-* Tagalog: {{t+|tl|soro}}
+* Tagalog: {{t|tl|soro}}
 * Tajik: {{t+|tg|рӯбоҳ|sc=Cyrl}}
 * Tamil: {{t+|ta|நரி}}
 * Taos: {{t|twf|tùxwána}}
@@ -286,7 +286,7 @@ From {{etyl|enm|en}} {{term|fox|lang=enm}}, from {{etyl|ang|en}} {{term|fox||fox
 * Unami: {{t|unm|òkwës}}
 * Urdu: {{t|ur|لومڑی|f|tr=lomaṛī|sc=ur-Arab}}
 * Uyghur: {{t+|ug|تۈلكە|sc=ug-Arab}}
-* Uzbek: {{t|uz|tulki}}
+* Uzbek: {{t+|uz|tulki}}
 * Venetian: {{t|vec|volp}}, {{t|vec|bolpe}}, {{t|vec|bolp}}
 * Vietnamese: {{t+|vi|cáo}}, {{t+|vi|hồ ly}}
 * Volapük: {{qualifier|♂♀}} {{t+|vo|renar}}, {{qualifier|♂}} {{t|vo|hirenar}}, {{qualifier|♀}} {{t|vo|jirenar}}, {{qualifier|♂♀ offspring}} {{t|vo|renarül}}, {{qualifier|♂ offspring}} {{t|vo|hirenarül}}, {{qualifier|♀ offspring}} {{t|vo|jirenarül}}, {{qualifier|obsolete}} {{t|vo|foxaf}}
@@ -309,7 +309,7 @@ From {{etyl|enm|en}} {{term|fox|lang=enm}}, from {{etyl|ang|en}} {{term|fox||fox
 * Nivkh: {{t|niv|к'еӄ|tr=k’eq|sc=Cyrl}}
 * Portuguese: {{t+|pt|raposa}}
 * Russian: {{t+|ru|лиса́|f}}, {{t+|ru|лиси́ца|f}}, {{t+|ru|лис|m}}
-* Slovak: {{t|sk|líška|f}}
+* Slovak: {{t+|sk|líška|f}}
 * Swahili: {{t+|sw|mbweha}}
 {{trans-bottom}}
 
@@ -327,7 +327,7 @@ From {{etyl|enm|en}} {{term|fox|lang=enm}}, from {{etyl|ang|en}} {{term|fox||fox
 {{trans-top|cunning person}}
 * Afrikaans: {{t|af|skelm}}
 * Bulgarian: {{t+|bg|хитрец|m|sc=Cyrl}}
-* Czech: {{t|cs|lišák|m}}
+* Czech: {{t+|cs|lišák|m}}
 * Finnish: {{t+|fi|kettu}}, {{t+|fi|kelmi}}
 * French: {{t+|fr|roublard|m}}, {{t+|fr|retors|f}}
 * German: {{t+|de|Fuchs|m}}
@@ -340,7 +340,7 @@ From {{etyl|enm|en}} {{term|fox|lang=enm}}, from {{etyl|ang|en}} {{term|fox||fox
 {{trans-mid}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|лѝсица|f|sc=Cyrl}}
-*: Roman: {{t|sh|lìsica|f}}
+*: Roman: {{t+|sh|lìsica|f}}
 * Slovak: {{t|sk|lišiak|m}}
 * Spanish: {{t+|es|zorro|m}}
 * Swahili: {{t+|sw|mbweha}}
@@ -421,7 +421,7 @@ From {{etyl|enm|en}} {{term|fox|lang=enm}}, from {{etyl|ang|en}} {{term|fox||fox
 * Swahili: {{t+|sw|mbweha}}
 {{trans-bottom}}
 {{trans-top|To make sour, as beer, by causing it to ferment}}
-* Bulgarian: {{t|bg|вкисвам}}
+* Bulgarian: {{t+|bg|вкисвам}}
 {{trans-mid}}
 
 {{trans-bottom}}
