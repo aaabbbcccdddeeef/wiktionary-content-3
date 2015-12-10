@@ -101,14 +101,14 @@ From {{inh|en|enm|rotten}}, {{m|enm|roten}}, from {{inh|en|ang|rotian||to rot, b
 ====See also====
 * {{l|af|muis}}
 
-[[Category:af:Rodents]]
+{{catlangcode|af|Rodents}}
 
 ----
 
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{m|la|ructus}}.
+From {{der|ca|la|ructus}}.
 
 ===Noun===
 {{ca-noun|m}}
@@ -149,7 +149,7 @@ From {{etyl|la|ca}} {{m|la|ructus}}.
 ==French==
 
 ===Etymology===
-From {{etyl|la|fr}} {{m|la|ructus}}.
+From {{inh|fr|la|ructus}}.
 
 ===Pronunciation===
 * {{IPA|/ʁo/|lang=fr}}
@@ -174,7 +174,7 @@ From {{etyl|la|fr}} {{m|la|ructus}}.
 ==Friulian==
 
 ===Etymology===
-From {{etyl|la|fur}} {{m|la|ruptus}}.
+From {{der|fur|la|ruptus}}.
 
 ===Adjective===
 {{head|fur|adjective|feminine|rote}}
@@ -195,13 +195,13 @@ From {{etyl|la|fur}} {{m|la|ruptus}}.
 ===Alternative forms===
 * {{l|de|roth}} {{qualifier|obsolete}}
 
+===Etymology===
+From {{inh|de|gmh|rōt||red, red-haired}}, from {{inh|de|goh|rōt||red, scarlet, purple-red, brown-red, yellow-red}}, from {{inh|de|gem-pro|*raudaz}}, from {{inh|de|ine-pro|*h₁rowdʰós}}, from {{m|ine-pro|*h₁rewdʰ-}}. Compare {{etyl|nds|-}} {{m|nds|root}}, {{m|nds|rod}}, {{m|nds|rot}}, {{etyl|nl|-}} {{m|nl|rood}}, {{etyl|en|-}} {{m|en|red}}, {{etyl|fy|-}} {{m|fy|read}}, {{etyl|da|-}} {{m|da|rød}}.
+
 ===Pronunciation===
 * {{IPA|[ʁoːt]|lang=de}}
 * {{audio|De-rot.ogg|audio|lang=de}}
 * {{rhymes|oːt|lang=de}}
-
-===Etymology===
-From {{inh|de|gmh|rōt||red, red-haired}}, from {{inh|de|goh|rōt||red, scarlet, purple-red, brown-red, yellow-red}}, from {{inh|de|gem-pro|*raudaz}}, from {{inh|de|ine-pro|*h₁rowdʰós}}, from {{m|ine-pro|*h₁rewdʰ-}}. Compare {{etyl|nds|-}} {{m|nds|root}}, {{m|nds|rod}}, {{m|nds|rot}}, {{etyl|nl|-}} {{m|nl|rood}}, {{etyl|en|-}} {{m|en|red}}, {{etyl|fy|-}} {{m|fy|read}}, {{etyl|da|-}} {{m|da|rød}}.
 
 ===Adjective===
 {{de-adj|röter|comp2=roter|rötesten|sup2=rotesten}}
@@ -224,16 +224,30 @@ From {{inh|de|gmh|rōt||red, red-haired}}, from {{inh|de|goh|rōt||red, scarlet,
 * {{sense|redskin}} {{l|de|rothäutig}}
 
 ====Derived terms====
-{{der3|feuerrot|Röte|röten|rot-grün|rothaarig|Rothaut|Rotkehlchen|rötlich|rot-rot|rot-rot-grün|rot sehen|Rotstift|Rötung|Rotwein|lang=de}}
+{{der3
+|{{l|de|feuerrot}}
+|{{l|de|Röte}}
+|{{l|de|röten}}
+|{{l|de|rot-grün}}
+|{{l|de|rothaarig}}
+|{{l|de|Rothaut}}
+|{{l|de|Rotkehlchen}}
+|{{l|de|rötlich}}
+|{{l|de|rot-rot}}
+|{{l|de|rot-rot-grün}}
+|{{l|de|rot sehen}}
+|{{l|de|Rotstift}}
+|{{l|de|Rötung}}
+|{{l|de|Rotwein}}
+}}
 
 ====Related terms====
-* [[Rot]]
+* {{l|de|Rot}}
 
 ===External links===
 * {{R:Duden}}
 
-[[Category:de:Colors]]
-[[Category:de:Colors of the rainbow]]
+{{catlangcode|de|Colors|Colors of the rainbow}}
 
 ----
 
@@ -312,15 +326,15 @@ From {{inh|nb|non|rót}}, from {{inh|nb|gem-pro|*wrōts}}, from {{inh|nb|ine-pro
 * {{l|nb|pælerot}}
 * {{l|nb|rotfrukt}}
 
-====References====
-* {{R:The Bokmål Dictionary}}
-
 ===Etymology 2===
 
 ====Verb====
 {{head|nb|verb form}}
 
 # {{form of|imperative|rote|lang=nb}}
+
+===References===
+* {{R:The Bokmål Dictionary}}
 
 ----
 
@@ -359,7 +373,7 @@ From {{inh|goh|gem-pro|*raudaz}} (compare {{etyl|osx|-}} {{m|osx|rōd}}, {{etyl|
 
 ====Descendants====
 * German: {{l|de|rot}}
-* Yiddish: {{l|yi|רויט|sc=Hebr}}
+* Yiddish: {{l|yi|רויט}}
 
 [[Category:goh:Colors]]
 
@@ -379,13 +393,10 @@ From {{inh|sv|non|rót}}, from {{inh|sv|gem-pro|*wrōts}}, from {{inh|sv|ine-pro
 # [[root]]; the part of a [[plant]] under the surface.
 # the part of a [[tooth]] extending into the [[bone]] holding the tooth in place
 # [[source]]; an underlying cause
-#: ''Kärleken till pengar är '''roten''' till allt ont''
-#:: The love of money is the root of all evil
+#: {{ux|sv|Kärleken till pengar är '''roten''' till allt ont.|The love of money is the root of all evil.}}
 # {{context|mathematics|lang=sv}} of a number {{g|n}}, a positive number which, when [[raised]] to a specified [[power]], yields n; the [[square root]] is understood if no power is specified
-#: ''Kubik'''roten''' ur 27 är 3''
-#:: The cube root of 27 is 3
-#: ''Multiplicera med '''roten''' ur 2''
-#:: Multiply by root 2
+#: {{ux|sv|Kubik'''roten''' ur 27 är 3.|The cube root of 27 is 3.}}
+#: {{ux|sv|Multiplicera med '''roten''' ur 2.|Multiply by root 2.}}
 # {{context|mathematics|lang=sv}} a [[zero]] (of a [[function]]).
 # {{context|mathematics|lang=sv}} a designated [[node]] in a [[tree]].
 # {{context|mathematics|lang=sv}} [[curl]]; a measure on how fast a [[vector field]] rotates: it can be described as the [[cross product]] of [[del]] and a given vectorial field
@@ -418,8 +429,7 @@ From {{inh|tpi|en|road}}.
 
 # [[road]], [[street]]
 #* ''''2003''', Mühlhäusler et al., ''Tok Pisin texts'', John Benjamins Publishing Company, page 9:
-#*: ''Planti liklik '''rot''' i stap long ailan hia.''
-#*:: Many little roads exist on this island.
+#*: {{ux|tpi|Planti liklik '''rot''' i stap long ailan hia.|Many little roads exist on this island.}}
 
 ====References====
 Tok Pisin texts: from the beginning to the present / edited by Peter Mühlhäusler, Thomas E. Dutton, Suzanne Romaine. / John Benjamins Publishing Company / Copyright 2003 / ISBN 90 272 4718 8 / page 106
