@@ -148,9 +148,6 @@ From {{inh|no|non|þrír}}, from {{inh|no|gmq-pro|ᚦᚱᛁᛃᛟᛉ}} {{qualifi
 * {{l-nb|tredimensjonal}}, {{l-nn|tredimensjonal}}
 * {{l-nb|trekant}}, {{l-nn|trekant}}
 
-====References====
-* {{R:Dokumentasjonsprosjektet}}
-
 ===Etymology 2===
 From {{inh|no|non|tré}}. The plurals {{m|nb|trær}} and {{m|nb|trærne}} are derived from {{etyl|da|-}}.
 
@@ -169,26 +166,22 @@ From {{inh|no|non|tré}}. The plurals {{m|nb|trær}} and {{m|nb|trærne}} are de
 {{no-noun-infl|nb-class=irreg|g=n|ds=treet|ip=tre|ip2=trær|dp=trea|dp2=trærne|nn-class=n1}}
 
 =====Derived terms=====
-{{top2}}
-* {{l|no|balltre}}
-* {{l|nb|bartre}}
-* {{l|no|epletre}}
-* {{l|no|frukttre}}
-* {{l-nn|joletre}}
-* {{l|no|juletre}}
-* {{l|no|stamtre}}
-{{mid2}}
-* {{l|no|trehus}}
-* {{l-nb|trekull}}
-* {{l|nb|tremasse}}
-* [[tresko]]
-* [[tresleiv]]
-* {{l-nb|trestamme}}, {{l-nn|trestamme}}
-* [[treverk]]
-{{bottom}}
-
-====References====
-* {{R:Dokumentasjonsprosjektet}}
+{{der3
+|{{l|no|balltre}}
+|{{l|nb|bartre}}
+|{{l|no|epletre}}
+|{{l|no|frukttre}}
+|{{l-nn|joletre}}
+|{{l|no|juletre}}
+|{{l|no|stamtre}}
+|{{l|no|trehus}}
+|{{l-nb|trekull}}
+|{{l|nb|tremasse}}
+|{{l|no|tresko}}
+|{{l|no|tresleiv}}
+|{{l-nb|trestamme}}, {{l-nn|trestamme}}
+|{{l|no|treverk}}
+}}
 
 ===Etymology 3===
 
@@ -197,6 +190,9 @@ From {{inh|no|non|tré}}. The plurals {{m|nb|trær}} and {{m|nb|trærne}} are de
 
 # to [[step]] (in, out etc.)
 #: {{ux|no|'''Tre''' av!|Dismissed!}} {{qualifier|military}}
+
+===References===
+* {{R:Dokumentasjonsprosjektet}}
 
 ----
 
@@ -322,7 +318,7 @@ From {{inh|vi|mkh-vie-pro|*k-lɛː||}}
 * {{IPA|/treː/|lang=cy}}
 
 ===Noun===
-{{head|cy|noun|plural|trefi|g=f}}
+{{cy-noun|f|trefi}}
 
 # {{alternative form of|tref|lang=cy}}
 
