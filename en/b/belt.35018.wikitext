@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{term|belt|lang=enm}}, from {{etyl|ang|en}} {{term|belt||belt, girdle|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*baltijaz||girdle, belt}}, from {{etyl|la|en}} {{term|balteus||belt, sword-belt|lang=la}}, of {{etyl|ett|en}} origin. Cognate with Scots {{term|belt||belt|lang=sco}}, Dutch {{term|belt|lang=nl}}, German {{term|Balz||belt|lang=de}}, {{etyl|da|-}} {{term|belte||belt|lang=da}}, {{etyl|sv|-}} {{term|bälte||belt, cincture, girdle, zone|lang=sv}}, {{etyl|is|-}} {{term|belti||belt|lang=is}} and Albanian {{term|bel||waist|lang=shq}}.
+From {{inh|en|enm|belt}}, from {{inh|en|ang|belt||belt, girdle}}, from {{inh|en|gem-pro|*baltijaz||girdle, belt}}, from {{der|en|la|balteus||belt, sword-belt}}, of {{etyl|ett|en}} origin. Cognate with Scots {{term|belt||belt|lang=sco}}, Dutch {{term|belt|lang=nl}}, German {{term|Balz||belt|lang=de}}, {{etyl|da|-}} {{term|belte||belt|lang=da}}, {{etyl|sv|-}} {{term|bälte||belt, cincture, girdle, zone|lang=sv}}, {{etyl|is|-}} {{term|belti||belt|lang=is}} and Albanian {{term|bel||waist|lang=shq}}.
 
 ===Pronunciation===
 * {{IPA|/bɛlt/|lang=en}}
@@ -74,7 +74,7 @@ From {{etyl|enm|en}} {{term|belt|lang=enm}}, from {{etyl|ang|en}} {{term|belt||b
 * Aromanian: {{t|rup|curauã|f}}
 * Azeri: {{t+|az|kəmər}}
 * Bashkir: {{t|ba|ҡайыш|sc=Cyrl}}
-* Belarusian: {{t|be|пас|m|sc=Cyrl}}, {{t|be|рэме́нь|m|sc=Cyrl}}
+* Belarusian: {{t|be|пас|m}}, {{t|be|рэме́нь|m}}
 * Bengali: {{t|bn|বেল্ট|tr=belţ|sc=Beng}}
 * Breton: {{t+|br|gouriz|m}}
 * Bulgarian: {{t+|bg|кола́н|m}}, {{t+|bg|по́яс|m}}
@@ -90,18 +90,17 @@ From {{etyl|enm|en}} {{term|belt|lang=enm}}, from {{etyl|ang|en}} {{term|belt||b
 * Finnish: {{t+|fi|vyö}}
 * French: {{t+|fr|ceinture|f}}
 * Friulian: {{t|fur|cinturie|f}}, {{t|fur|cengle|f}}, {{t|fur|coree|f}}
-* Georgian: {{t|ka|სარტყელი|sc=Geor}}, {{t|ka|ქამარი}}, {{t|ka|ღვედი}}
+* Georgian: {{t|ka|სარტყელი}}, {{t|ka|ქამარი}}, {{t|ka|ღვედი}}
 * German: {{t+|de|Gürtel|m}}
 * Greek: {{t+|el|ζώνη|f}}
-*: Ancient: {{t|grc|κεστός|m|sc=polytonic}}
+*: Ancient: {{t|grc|κεστός|m}}
 * Hebrew: {{t+|he|חֲגוֹרָה|f|tr=khagorá}}
-* Hindi: {{t|hi|पेटी|f|sc=Deva}}, {{t|hi|बेल्ट|sc=Deva}}
+* Hindi: {{t|hi|पेटी|f}}, {{t|hi|बेल्ट}}
 * Hungarian: {{t+|hu|öv}}, {{t+|hu|nadrágszíj}}
 * Icelandic: {{t+|is|belti|n}}
 * Indonesian: {{t+|id|sabuk}}
 * Italian: {{t+|it|cintura|f}}, {{t+|it|cintola|f}}, {{t+|it|cinghia|f}}
 * Japanese: {{t+|ja|ベルト|tr=beruto}}
-* Norman: {{t|nrf|cheintuthe|f}}
 * Kazakh: {{t+|kk|белбеу|sc=Cyrl}}, {{t|kk|белдік|sc=Cyrl}}
 * Khmer: {{t|km|ខ្សែក្រវាត់|tr=ksae krɑvat|sc=Khmr}}
 * Korean: {{t+|ko|벨트|sc=Kore}}
@@ -114,12 +113,13 @@ From {{etyl|enm|en}} {{term|belt|lang=enm}}, from {{etyl|ang|en}} {{term|belt||b
 * Latin: {{t|la|balteus}}
 * Latvian: {{t+|lv|josta|f}}, {{t|lv|siksna|f}}
 * Lithuanian: {{t|lt|diržas|m}}, {{t+|lt|juosta|f}}
-* Macedonian: {{t|mk|појас|m|sc=Cyrl}}
+* Macedonian: {{t|mk|појас|m}}
 * Maltese: {{t|mt|ċinturin|m}}
 * Maori: {{t|mi|tauiti}}, {{t|mi|tautiti}}, {{t|mi|tātua}}, {{t|mi|whītiki}}
 * Mongolian: {{t+|mn|бүс|sc=Cyrl}}, {{t+|mn|бус|sc=Cyrl}}
 * Navajo: {{t|nv|sis}}
 * Neapolitan: {{t|nap|curreja|f}}
+* Norman: {{t|nrf|cheintuthe|f}} {{qualifier|Jersey}}
 * Norwegian: {{t+|no|belte|n}}
 * Persian: {{t+|fa|کمربند|tr=kamarband|sc=fa-Arab}}
 * Polish: {{t+|pl|pas|m}}, {{t+|pl|pasek|m}}
@@ -144,8 +144,8 @@ From {{etyl|enm|en}} {{term|belt|lang=enm}}, from {{etyl|ang|en}} {{term|belt||b
 * Thai: {{t|th|เข็มขัด|tr=kěm-kàt|sc=Thai}}
 * Turkish: {{t+|tr|kemer}}
 * Turkmen: {{t|tk|kemer}}, {{t|tk|guşak}}
-* Ukrainian: {{t|uk|по́яс|m|sc=Cyrl}}, {{t|uk|ремі́нь|m|sc=Cyrl}}
-* Urdu: {{t|ur|پیٹی|f|tr=peṭī|sc=ur-Arab}}, {{t|ur|بیلٹ|tr=belṭ|sc=ur-Arab}}
+* Ukrainian: {{t|uk|по́яс|m}}, {{t|uk|ремі́нь|m}}
+* Urdu: {{t|ur|پیٹی|f|tr=peṭī}}, {{t|ur|بیلٹ|tr=belṭ}}
 * Uyghur: {{t|ug|كەمەر|sc=ug-Arab}}
 * Uzbek: {{t+|uz|kamar}}, {{t+|uz|qayish}}
 * Vietnamese: {{t+|vi|dây lưng}}, {{t|vi|dây nịt}}
@@ -164,7 +164,7 @@ From {{etyl|enm|en}} {{term|belt|lang=enm}}, from {{etyl|ang|en}} {{term|belt||b
 * Dutch: {{t+|nl|gordel|m}}, {{t+|nl|riem|m}}, {{t+|nl|veiligheidsgordel|m}}
 * Finnish: {{t+|fi|vyö}}
 * French: {{t+|fr|ceinture|f}}
-* Georgian: {{t|ka|ღვედი|sc=Geor}}
+* Georgian: {{t|ka|ღვედი}}
 * German: {{t+|de|Gurt|m}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|öv}}, {{t+|hu|szíj}}
@@ -174,7 +174,7 @@ From {{etyl|enm|en}} {{term|belt|lang=enm}}, from {{etyl|ang|en}} {{term|belt||b
 * Portuguese: {{t+|pt|cinto|m}}
 * Russian: {{t+|ru|по́яс|m}}, {{t+|ru|реме́нь|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|појас|m}}
+*: Cyrillic: {{t|sh|појас|m|sc=Cyrl}}
 *: Roman: {{t+|sh|pȍjās|m}}
 * Spanish: {{t+|es|cinturón|m}}, {{t|es|cinturón de seguridad|m}}
 * Turkish: {{t+|tr|kemer}}
@@ -191,7 +191,7 @@ From {{etyl|enm|en}} {{term|belt|lang=enm}}, from {{etyl|ang|en}} {{term|belt||b
 * Finnish: {{t+|fi|hihna}}
 * French: {{t+|fr|courroie|f}}
 * German: {{t+|de|Riemen|m}}
-* Greek: {{t+|el|ιμάντας|m|sc=Grek}}
+* Greek: {{t+|el|ιμάντας|m}}
 * Hungarian: {{t+|hu|szíj}}, {{t|hu|gépszíj}}
 * Ido: {{t+|io|rimeno}}
 * Italian: {{t+|it|cinghia|f}}
@@ -203,7 +203,7 @@ From {{etyl|enm|en}} {{term|belt|lang=enm}}, from {{etyl|ang|en}} {{term|belt||b
 * Norwegian: {{t+|no|belte|n}}
 * Portuguese: {{t+|pt|correia}}
 * Russian: {{t+|ru|реме́нь|m}}
-* Serbo-Croatian: {{t+|sh|rȅmēn|m}}, {{t|sh|ре̏ме̄н|m}}
+* Serbo-Croatian: {{t+|sh|rȅmēn|m}}, {{t|sh|ре̏ме̄н|m|sc=Cyrl}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|rjemjeń|m}}
 * Spanish: {{t+|es|correa|f}}
@@ -218,7 +218,7 @@ From {{etyl|enm|en}} {{term|belt|lang=enm}}, from {{etyl|ang|en}} {{term|belt||b
 {{trans-mid}}
 * Portuguese: {{t+|pt|pancada|f}}
 * Russian: {{t+|ru|уда́р|m}}
-* Serbo-Croatian: {{t+|sh|ȕdār|m}}, {{t|sh|у̏да̄р}}
+* Serbo-Croatian: {{t+|sh|ȕdār|m}}, {{t|sh|у̏да̄р|sc=Cyrl}}
 * Spanish: {{t+|es|golpe|m}}, {{t+|es|golpear}}
 {{trans-bottom}}
 
@@ -241,7 +241,7 @@ From {{etyl|enm|en}} {{term|belt|lang=enm}}, from {{etyl|ang|en}} {{term|belt||b
 * Portuguese: {{t+|pt|cinturão|m}}
 * Russian: {{t+|ru|по́яс|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|појас|m}}
+*: Cyrillic: {{t|sh|појас|m|sc=Cyrl}}
 *: Roman: {{t+|sh|pȍjās|m}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|pas|m}}
@@ -305,7 +305,7 @@ From {{etyl|enm|en}} {{term|belt|lang=enm}}, from {{etyl|ang|en}} {{term|belt||b
 * Dutch: {{t+|nl|insnoeren}}, {{t+|nl|omgorden}}
 * Italian: {{t+|it|allacciare}}
 {{trans-mid}}
-* Norman: {{t|nrf|cheindre}}
+* Norman: {{t|nrf|cheindre}} {{qualifier|Jersey}}
 * Portuguese: {{t|pt|cintar}}
 {{trans-bottom}}
 
@@ -333,7 +333,7 @@ From {{etyl|enm|en}} {{term|belt|lang=enm}}, from {{etyl|ang|en}} {{term|belt||b
 ==Afrikaans==
 
 ===Etymology===
-From {{etyl|en|af}} {{term|belt|lang=en}}.
+{{bor|af|en|belt}}.
 
 ===Noun===
 {{af-noun|belde}}
@@ -341,7 +341,6 @@ From {{etyl|en|af}} {{term|belt|lang=en}}.
 # {{l|en|belt}}
 
 [[Category:af:Clothing]]
-[[Category:ang:Clothing]]
 
 ----
 
@@ -377,7 +376,7 @@ Probably a variant of {{term|bult|lang=nl}}.
 ==Maltese==
 
 ===Etymology===
-From {{etyl|ar|mt}} {{term|بَلَد|lang=ar}}, under classical root {{ar-root|ب|ل|د}}.
+From {{der|mt|ar|بَلَد}}, under classical root {{ar-root|ب|ل|د}}.
 
 ===Pronunciation===
 * {{IPA|/ˈbɛlt/|lang=mt}}
@@ -397,7 +396,7 @@ From {{etyl|ar|mt}} {{term|بَلَد|lang=ar}}, under classical root {{ar-root|
 ==Old English==
 
 ===Etymology===
-From {{inh|ang|gem-pro|*baltijaz}}. Cognate with Old High German ''[[balz]]'', Old Norse ''[[belti]]''.
+From {{inh|ang|gem-pro|*baltijaz}}. Cognate with Old High German {{m|goh|balz}}, Old Norse {{m|non|belti}}.
 
 ===Pronunciation===
 * {{IPA|/belt/|lang=ang}}
@@ -412,6 +411,8 @@ From {{inh|ang|gem-pro|*baltijaz}}. Cognate with Old High German ''[[balz]]'', O
 
 ====Descendants====
 * English: {{l|en|belt}}
+
+[[Category:ang:Clothing]]
 
 [[ang:belt]]
 [[ar:belt]]
