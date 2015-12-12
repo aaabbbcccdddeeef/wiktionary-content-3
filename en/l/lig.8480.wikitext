@@ -22,7 +22,7 @@ From {{etyl|enm|en}} {{term|liggen|lang=enm}}, from {{etyl|ang|en}} {{term|licga
 ==Afrikaans==
 
 ===Etymology 1===
-From {{etyl|nl|af}} {{term|liggen|lang=nl}}.
+From {{etyl|nl|af}} {{m|nl|liggen}}.
 
 ====Verb====
 {{af-verb|liggende}}
@@ -31,18 +31,18 @@ From {{etyl|nl|af}} {{term|liggen|lang=nl}}.
 # {{context|intransitive|lang=af}} to be [[situated]]
 
 ===Etymology 2===
-From {{etyl|nl|af}} {{term|licht|lang=nl}}.
+From {{etyl|nl|af}} {{m|nl|licht}}.
 
 ====Adjective====
 {{af-adj|ligte}}
 
 # {{context|of weight|lang=af}} [[light]]; not [[heavy]]
-#: ''Die tas is lig.'' (The suitcase is light.)
+#: {{usex|Die tas is lig.|The suitcase is light.|lang=af}}
 # {{context|of color or complexion|lang=af}} [[light]]; [[pale]]; not [[dark]]
-#: ''Hy dra 'n ligblou hemp.'' (He wears a light blue shirt.)
+#: {{usex|Hy dra 'n ligblou hemp.|He wears a light blue shirt.|lang=af}}
 
 ===Etymology 3===
-From {{etyl|nl|af}} {{term|licht|lang=nl}}.
+From {{etyl|nl|af}} {{m|nl|licht}}.
 
 ====Noun====
 {{af-noun|ligte}}
@@ -94,7 +94,7 @@ From {{etyl|non|da}} {{term|lík||body|lang=non}}, from {{etyl|gem-pro|da}} {{m|
 * {{l|da|kadaver}}
 
 ===Etymology 3===
-From {{etyl|non|da}} {{term|lík||leech|lang=non}}.
+From {{etyl|non|da}} {{m|non|lík||leech}}.
 
 ====Noun====
 {{da-noun|et}}
@@ -114,6 +114,9 @@ See {{term|ligge||to lie|lang=da}}.
 {{head|da|verb form}}
 
 # {{imperative of|ligge|lang=da}}
+
+===References===
+* {{R:Den Danske Ordbog}}
 
 ----
 
@@ -220,6 +223,9 @@ From {{etyl|fr|tr}} {{term|ligue|lang=fr}}.
 {{head|tr|noun}}
 
 # [[league]] (organization of sports teams)
+
+====Declension====
+{{rfinfl|tr|noun}}
 
 {{tbot entry|Turkish|league|2009|November|tr}}
 
