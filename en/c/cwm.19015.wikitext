@@ -6,7 +6,7 @@
 </div>
 
 ===Etymology===
-From {{etyl|cy|en}} {{term|cwm||[[valley]]|lang=cy}}.
+{{bor|en|cy|cwm||[[valley]]}}.
 
 ===Pronunciation===
 * British: {{IPA|/kʊm/|lang=en}}<ref>Oxford Dictionaries. "[http://oxforddictionaries.com/definition/english/cwm Cwm]". Accessed 7 Sept. 2013.</ref>
@@ -41,6 +41,7 @@ From {{etyl|cy|en}} {{term|cwm||[[valley]]|lang=cy}}.
 <references/>
 
 [[Category:en:Geology]]
+[[Category:en:Landforms]]
 [[Category:English words with vocalic W]]
 
 ----
@@ -48,7 +49,7 @@ From {{etyl|cy|en}} {{term|cwm||[[valley]]|lang=cy}}.
 ==Welsh==
 
 ===Etymology===
-From {{etyl|cel-pro|cy}} {{m|cel-pro|*kumbā}} (compare {{etyl|br|-}} {{term|komm||trough|lang=br}}, {{etyl|ga|-}} {{term|com|lang=ga}}, {{term|coim||chest cavity|lang=ga}}, {{etyl|fr|-}} {{term|combe|lang=fr}}), from {{etyl|ine-pro|cy}} {{m|ine-pro|*ḱumbʰ-}} (compare {{etyl|la|-}} {{term|lang=la|incumbo|incumbere|to lie down}}, {{etyl|en|-}} {{term|lang=en|coomb}} and {{etyl|ang|-}} {{term|lang=ang|cumb||hollow; narrow valley}}, {{etyl|nl|-}} {{m|nl|kom||bowl, basin}}, {{etyl|sa|-}} {{term|lang=sa|कुम्भ||tr=kumbha|a pot, jug}}).
+From {{inh|cy|cel-pro|*kumbā}} (compare {{etyl|br|-}} {{m|br|komm||trough}}, {{etyl|ga|-}} {{m|ga|com}}, {{m|ga|coim||chest cavity}}, {{etyl|fr|-}} {{m|fr|combe}}), from {{inh|cy|ine-pro|*ḱumbʰ-}} (compare {{etyl|la|-}} {{m|la|incumbo|incumbere|to lie down}}, {{etyl|en|-}} {{m|en|coomb}} and {{etyl|ang|-}} {{m|ang|cumb||hollow; narrow valley}}, {{etyl|nl|-}} {{m|nl|kom||bowl, basin}}, {{etyl|sa|-}} {{m|sa|कुम्भ||a pot, jug}}).
 
 ===Pronunciation===
 * {{IPA|[kʊm]|lang=cy}}
@@ -62,10 +63,9 @@ From {{etyl|cel-pro|cy}} {{m|cel-pro|*kumbā}} (compare {{etyl|br|-}} {{term|kom
 * English: {{l|en|cwm}}
 
 ===Mutation===
-{{cy-mut-c|wm}}
+{{cy-mut-auto|cwm}}
 
 [[Category:cy:Geography]]
-[[Category:en:Landforms]]
 
 [[cy:cwm]]
 [[et:cwm]]
