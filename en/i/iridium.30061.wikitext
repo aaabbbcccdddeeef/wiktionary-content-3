@@ -6,7 +6,7 @@
 {{commons}}
 
 ===Etymology===
-From {{etyl|grc|en}} {{m|grc|ἶρις||rainbow}} (because of the bright colour of many of iridium's salts).
+From {{der|en|grc|ἶρις||rainbow}} (because of the bright colour of many of iridium's salts).
 
 ===Noun===
 {{en-noun|-}}
@@ -14,35 +14,33 @@ From {{etyl|grc|en}} {{m|grc|ἶρις||rainbow}} (because of the bright colour 
 # A metallic chemical element (''symbol'' Ir) with an [[atomic number]] of 77.
 
 ====Derived terms====
-{{der-top}}
-* [[eka-iridium]]
-* [[iridiate]]
-* [[iridic]]
-* [[iridio-]]
-* [[iridious]]
-* [[iridite]]
-* [[iridium black]]
-* [[iridium oxide]]
-{{der-mid}}
-* [[iridium-pointed]]
-* [[iridium tetrachloride]]
-* [[iridium trichloride]]
-* [[iridosmine]]
-* [[osmiridium]]
-* [[platiniridium]]
-* [[platino-iridium]]
-* [[platinum-iridium]]
-{{der-bottom}}
+{{der3
+|[[eka-iridium]]
+|[[iridiate]]
+|[[iridic]]
+|[[iridio-]]
+|[[iridious]]
+|[[iridite]]
+|[[iridium black]]
+|[[iridium oxide]]
+|[[iridium-pointed]]
+|[[iridium tetrachloride]]
+|[[iridium trichloride]]
+|[[iridosmine]]
+|[[osmiridium]]
+|[[platiniridium]]
+|[[platino-iridium]]
+|[[platinum-iridium]]
+|lang=en}}
 
 ====Related terms====
-{{rel-top}}
-* [[iridescence]]
-* [[iridin]]
-* [[iridiosmium]]
-{{rel-mid}}
-* [[iridise]], [[iridize]]
-* [[iris]]
-{{rel-bottom}}
+{{rel3
+|[[iridescence]]
+|[[iridin]]
+|[[iridiosmium]]
+|[[iridise]], [[iridize]]
+|[[iris]]
+|lang=en}}
 
 ====Translations====
 {{trans-top|chemical element}}
@@ -75,7 +73,7 @@ From {{etyl|grc|en}} {{m|grc|ἶρις||rainbow}} (because of the bright colour 
 * Greek: {{t+|el|ιρίδιο|n}}
 * Gujarati: {{t|gu|ઘનાતુ|tr=ghanātu|sc=Gujr}}
 * Hebrew: {{t+|he|אירידיום|tr=irídyum}}
-* Hindi: {{t|hi|घनातु|tr=ghanaatu|sc=Deva}}
+* Hindi: {{t|hi|घनातु}}
 * Hungarian: {{t+|hu|irídium}}
 * Icelandic: {{t+|is|iridín|n}}
 * Irish: {{t|ga|iridiam}}
@@ -103,7 +101,7 @@ From {{etyl|grc|en}} {{m|grc|ἶρις||rainbow}} (because of the bright colour 
 * Russian: {{t+|ru|ири́дий|m}}
 * Scottish Gaelic: {{t|gd|iridiam}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|иридиj|m}}, {{t|sh|иридиjум|m}}
+*: Cyrillic: {{t|sh|иридиj|m|sc=Cyrl}}, {{t|sh|иридиjум|m|sc=Cyrl}}
 *: Roman: {{t+|sh|iridij|m}}, {{t|sh|iridijum|m}}
 * Slovak: {{t|sk|irídium|n}}
 * Slovene: {{t+|sl|iridij|m}}
