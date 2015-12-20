@@ -64,7 +64,7 @@ From {{etyl|enm|en}} {{m|enm|dam}}, {{m|enm|damme}}, from {{etyl|ang|en}} {{m|an
 * Estonian: {{t|et|pais}}
 * Finnish: {{t+|fi|pato}}
 * French: {{t+|fr|barrage|m}}
-* Georgian: {{t|ka|კაშხალი|sc=Geor}}, {{t|ka|ჯებირი|sc=Geor}}, {{t|ka|დამბა|sc=Geor}}
+* Georgian: {{t|ka|კაშხალი}}, {{t|ka|ჯებირი}}, {{t|ka|დამბა}}
 * German: {{t+|de|Damm|m}}
 * Greek: {{t+|el|φράγμα|n}}
 * Hebrew: {{t+|he|סֶכֶר|m|tr=sékher}}
@@ -113,7 +113,7 @@ From {{etyl|enm|en}} {{m|enm|dam}}, {{m|enm|damme}}, from {{etyl|ang|en}} {{m|an
 * Thai: {{t+|th|เขื่อน|tr=kèuan|sc=Thai}}
 * Turkish: {{t+|tr|baraj}}, {{t+|tr|set}}
 * Turkmen: {{t+|tk|bent}}, {{t|tk|damba}}
-* Ukrainian: {{t|uk|гре́бля|f|sc=Cyrl}}, {{t|uk|да́мба|f|sc=Cyrl}}
+* Ukrainian: {{t|uk|гре́бля|f}}, {{t|uk|да́мба|f}}
 * Urdu: {{t|ur|بند|sc=ur-Arab}}
 * Uzbek: {{t+|uz|toʻgʻon}}, {{t+|uz|damba}}
 * Vietnamese: {{t+|vi|đập}}
@@ -202,7 +202,7 @@ Variant of {{term|dame}}.
 ==Danish==
 
 ===Etymology 1===
-From {{etyl|non|da}} {{term|dammr||dam|lang=non}}.
+From {{inh|da|non|dammr||dam}}.
 
 ====Noun====
 {{da-noun|stem=damm|en|e}}
@@ -210,13 +210,13 @@ From {{etyl|non|da}} {{term|dammr||dam|lang=non}}.
 # [[pond]]
 
 =====Derived terms=====
-* [[dambrug]] {{g|n}}
+* {{l|da|dambrug|g=n}}
 
 =====Inflection=====
 {{da-noun-infl|stem=damm|en|e}}
 
 ===Etymology 2===
-From {{etyl|fr|da}} {{term|jeu de dames||draughts|lang=fr}}.
+{{bor|da|fr|jeu de dames||draughts}}.
 
 ====Noun====
 {{head|da|noun|g=c|g2=n}}
@@ -224,7 +224,7 @@ From {{etyl|fr|da}} {{term|jeu de dames||draughts|lang=fr}}.
 # [[draughts]], [[checkers]]
 
 ===Etymology 3===
-From {{etyl|fr|da}} {{term|dame||lady|lang=fr}}.
+{{bor|da|fr|dame||lady}}.
 
 ====Noun====
 {{da-noun|stem=damm|en|er}}
@@ -249,7 +249,7 @@ From {{etyl|fr|da}} {{term|dame||lady|lang=fr}}.
 ===Noun===
 {{nl-noun|m|-en|dammetje}}
 
-# [[dam#English|dam]]
+# [[#English|dam]]
 
 ====Derived terms====
 * [[stuwdam]]
@@ -267,7 +267,7 @@ From {{etyl|fr|da}} {{term|dame||lady|lang=fr}}.
 ==French==
 
 ===Etymology===
-From {{etyl|la|fr}} {{m|la|damnum}}.
+From {{inh|fr|la|damnum}}.
 
 ===Pronunciation===
 * {{IPA|/dɑ̃/|lang=fr}}
@@ -275,11 +275,11 @@ From {{etyl|la|fr}} {{m|la|damnum}}.
 ===Noun===
 {{fr-noun|m}}
 
-# {{context|obsolete|_|except in phrases|lang=fr}} [[damage]]
-# {{context|religion|lang=fr}} [[damnation]]
+# {{lb|fr|obsolete|_|except in phrases}} [[damage]]
+# {{lb|fr|religion}} [[damnation]]
 
 ====Derived terms====
-* [[au grand dam de]]
+* {{l|fr|au grand dam de}}
 
 ====Related terms====
 * {{l|fr|dommage}}
@@ -295,7 +295,7 @@ From {{etyl|la|fr}} {{m|la|damnum}}.
 ==Friulian==
 
 ===Etymology===
-From {{etyl|la|fur}} {{m|la|damnum}}.
+From {{der|fur|la|damnum}}.
 
 ===Noun===
 {{fur-noun|m}}
@@ -331,11 +331,9 @@ From {{etyl|la|fur}} {{m|la|damnum}}.
 ==Maltese==
 
 ===Verb===
-{{head|mt|verbs}}
+{{head|mt|verb}}
 
 # [[dally]], [[stall]]
-
-[[Category:Maltese verbs]]
 
 ----
 
@@ -365,12 +363,14 @@ From {{inh|no|gmq-mno|dammr|g=m}}, from {{inh|no|non|damm|g=n}}. The meaning [[#
 * {{IPA|/daṽ/|lang=sga}}
 
 ===Etymology 1===
-From {{etyl|cel-pro|sga}} {{m|cel-pro|*damos||bull}}, from {{etyl|ine-pro|sga}} {{m|ine-pro|*demh₂-}}
+From {{inh|sga|cel-pro|*damos||bull}}, from {{inh|sga|ine-pro|*demh₂-}}
 
-====Noun====
-{{head|sga|noun|genitive|daim}}
+====Noun 2====
+{{head|sga|noun|g=m|genitive|daim}}
 
-# [[bull]]
+# [[ox]]
+# [[stag]]
+# {{lb|sga|by extension}} [[hero]], [[champion]]
 
 =====Declension=====
 {{sga-decl-o-masc
@@ -388,6 +388,11 @@ From {{etyl|cel-pro|sga}} {{m|cel-pro|*damos||bull}}, from {{etyl|ine-pro|sga}} 
 * Irish: {{l|ga|damh}}
 * Scottish Gaelic: {{l|gd|damh}}
 
+====Noun 2====
+{{head|sga|noun|g=f}}
+
+# [[hind]], [[cow]] {{qualifier|old feminine form of previous}}
+
 ===Etymology 2===
 Inflected forms of {{m|sga|daimid}}.
 
@@ -404,7 +409,11 @@ Inflected forms of {{m|sga|daimid}}.
 ===Mutation===
 {{sga-mutation|d|am}}
 
-{{catlangcode|sga|Cattle|Male}}
+===References===
+* {{R:DIL|14462|head=1 dam}}
+* {{R:DIL|14463|head=2 dam}}
+
+{{catlangcode|sga|Cattle|Female animals|Male animals}}
 
 ----
 
@@ -421,7 +430,7 @@ Inflected forms of {{m|sga|daimid}}.
 ===Noun===
 {{head|pl|noun form}}
 
-# Genitive plural of '''[[dama#Polish|dama]]'''
+# {{inflection of|dama||gen|p|lang=pl}}
 
 ----
 
@@ -448,81 +457,72 @@ From {{etyl|bn|rhg}}.
 
 # a [[lady]], a [[woman]]
 # {{context|card games|lang=sv}} a [[queen]]
-#: ''Ruter '''dam'''''
-#:: Queen of diamonds
+#: {{ux|sv|Ruter '''dam'''|Queen of diamonds}}
 # {{context|chess|lang=sv}} a [[queen]]
 
 ====Declension====
 {{sv-infl-noun-c-r|2=dame}}
 
 ====Related terms====
-{|
-|- valign=top
-|
-* [[damallsvenskan]]
-* [[damavdelning]]
-* [[dambadhus]]
-* [[dambandy]]
-* [[dambastu]]
-* [[dambekantskap]]
-* [[dambesök]]
-* [[dambinda]]
-|
-* [[dambjudning]]
-* [[dambonde]]
-* [[dambricka]]
-* [[dambräde]]
-* [[dambyxor]]
-* [[damcykel]]
-* [[damdubbel]]
-* [[damfinal]]
-|
-* [[damfotboll]]
-* [[damfrisering]]
-* [[damfrisör]]
-* [[damfrisörska]]
-* [[damgambit]]
-* [[damgolf]]
-* [[damhandboll]]
-* [[damhatt]]
-|
-* [[damidrott]]
-* [[damig]]
-* [[damighet]]
-* [[damkappa]]
-* [[damklass]]
-* [[damkläder]]
-* [[damknäppning]]
-* [[damkonfektion]]
-|
-* [[damkör]]
-* [[damlag]]
-* [[damlandslag]]
-* [[dammiddag]]
-* [[damorkester]]
-* [[damrum]]
-* [[damsadel]]
-* [[damsenior]]
-|
-* [[damsida]]
-* [[damsingel]]
-* [[damskidåkning]]
-* [[damsko]]
-* [[damspel]]
-* [[damstafett]]
-* [[damstrumpa]]
-* [[damsällskap]]
-|
-* [[damtidning]]
-* [[damtoalett]]
-* [[damtävling]]
-* [[damunderkläder]]
-* [[damväska]]
-* [[hovdam]]
-|}
+{{rel3
+|[[damallsvenskan]]
+|[[damavdelning]]
+|[[dambadhus]]
+|[[dambandy]]
+|[[dambastu]]
+|[[dambekantskap]]
+|[[dambesök]]
+|[[dambinda]]
+|[[dambjudning]]
+|[[dambonde]]
+|[[dambricka]]
+|[[dambräde]]
+|[[dambyxor]]
+|[[damcykel]]
+|[[damdubbel]]
+|[[damfinal]]
+|[[damfotboll]]
+|[[damfrisering]]
+|[[damfrisör]]
+|[[damfrisörska]]
+|[[damgambit]]
+|[[damgolf]]
+|[[damhandboll]]
+|[[damhatt]]
+|[[damidrott]]
+|[[damig]]
+|[[damighet]]
+|[[damkappa]]
+|[[damklass]]
+|[[damkläder]]
+|[[damknäppning]]
+|[[damkonfektion]]
+|[[damkör]]
+|[[damlag]]
+|[[damlandslag]]
+|[[dammiddag]]
+|[[damorkester]]
+|[[damrum]]
+|[[damsadel]]
+|[[damsenior]]
+|[[damsida]]
+|[[damsingel]]
+|[[damskidåkning]]
+|[[damsko]]
+|[[damspel]]
+|[[damstafett]]
+|[[damstrumpa]]
+|[[damsällskap]]
+|[[damtidning]]
+|[[damtoalett]]
+|[[damtävling]]
+|[[damunderkläder]]
+|[[damväska]]
+|[[hovdam]]
+|lang=sv}}
 
 ====Synonyms====
-* {{sense|in chess}} [[drottning]]
+* {{sense|in chess}} {{l|sv|drottning}}
 
 ===See also===
 {{table:chess pieces/sv}}
@@ -535,7 +535,7 @@ From {{etyl|bn|rhg}}.
 ==Turkish==
 
 ===Etymology===
-From {{etyl|otk|tr}} ''tam'', from {{etyl|trk-pro|tr}} {{m|trk-pro|*Tām||roof; wall; hut}}, which, according to the controversial Altaic hypothesis, is possibly derived from [[Proto-Altaic]] {{term|*t`āma||wall, roof|lang=tut-pro}}.
+From {{der|tr|otk|tr=tam}}, from {{inh|tr|trk-pro|*Tām||roof; wall; hut}}, which, according to the controversial Altaic hypothesis, is possibly derived from {{der|tr|tut-pro|*t`āma||wall, roof}}.
 
 ===Pronunciation===
 * {{IPA|/dɑm/|lang=tr}}
