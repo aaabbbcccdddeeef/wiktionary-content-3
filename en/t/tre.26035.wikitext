@@ -125,85 +125,142 @@ Compare Italian {{m|it|tre}}.
 
 ----
 ==Norwegian Bokmål==
-
-===Alternative forms===
-* {{l|nb|træ}}
-
-===Verb===
-{{head|nb|verb|imperative|tre|present tense|trer|simple past|tredde|past participle|tredd}}
-
-# to [[thread]]
-#: {{ux|nb|'''tre''' en nål|thread a needle|inline=1}}
-
-----
-==Norwegian==
 {{cardinalbox|nb|2|3|4|to|fire|ord=tredje}}
-{{cardinalbox|nn|2|3|4|to|fire|ord=}}
 
 ===Etymology 1===
-From {{inh|no|non|þrír}}, from {{inh|no|gmq-pro|ᚦᚱᛁᛃᛟᛉ}} {{qualifier|feminine plural}}, from {{inh|no|gem-pro|*þrīz}}, ultimately from {{inh|no|ine-pro|*tréyes}}. Compare Danish and Swedish {{m|da|tre}}, Icelandic {{m|is|þrír}}, Faroese {{m|fo|tríggir}}.
-
-====Alternative forms====
-* {{l|nn|tri}} {{qualifier|Nynorsk, bracket form, defunct}}
+From {{inh|nb|non|þrír}}, from {{inh|nb|gmq-pro|ᚦᚱᛁᛃᛟᛉ}} {{qualifier|feminine plural}}, from {{inh|nb|gem-pro|*þrīz}}, ultimately from {{inh|nb|ine-pro|*tréyes}}. Compare Danish and Swedish {{m|da|tre}}, Icelandic {{m|is|þrír}}, Faroese {{m|fo|tríggir}}.
 
 ====Pronunciation====
 * {{audio|No-tre.ogg|Audio|lang=no}}
 
 ====Numeral====
-{{head|no|numeral}}
+{{head|nb|numeral}}
 
-# {{context|cardinal|lang=no}} [[three]]
+# {{context|cardinal|lang=nb}} [[three]]
 
 =====Derived terms=====
-* {{l-nb|tredel}}, {{l-nn|tredel}}
-* {{l-nb|tredimensjonal}}, {{l-nn|tredimensjonal}}
-* {{l-nb|trekant}}, {{l-nn|trekant}}
+* {{l|nb|tredel}}
+* {{l|nb|tredimensjonal}}
+* {{l|nb|trekant}}
 
 ===Etymology 2===
-From {{inh|no|non|tré}}. The plurals {{m|nb|trær}} and {{m|nb|trærne}} are derived from {{etyl|da|-}}.
+{{wikipedia|lang=no}}
+From {{inh|nb|non|tré}}. The plurals {{m|nb|trær}} and {{m|nb|trærne}} are derived from {{etyl|da|-}}.
 
 ====Pronunciation====
 * {{audio|No-tre.ogg|Audio|lang=no}}
 
 ====Noun====
-{{head|no|noun}}
+{{head|nb|noun|g=n|definite singular|treet|indefinite plural|tre|or|trær|definite plural|trea|or|trærne}}
 
-# [[tree]]
-#: {{ux|no|'''Trea''' i skogen var gamle.|The '''trees''' in the forest were old.}}
+# a [[tree]]
 # [[wood]]
-#: {{ux|no|Dette bordet er lagd av '''tre'''.|This table is made of '''wood'''.}}
-
-=====Inflection=====
-{{no-noun-infl|nb-class=irreg|g=n|ds=treet|ip=tre|ip2=trær|dp=trea|dp2=trærne|nn-class=n1}}
+#: {{ux|nb|Dette bordet er lagd av '''tre'''.|This table is made of '''wood'''.}}
 
 =====Derived terms=====
 {{der3
-|{{l|no|balltre}}
+|{{l|nb|balltre}}
 |{{l|nb|bartre}}
-|{{l|no|epletre}}
-|{{l|no|frukttre}}
-|{{l-nn|joletre}}
-|{{l|no|juletre}}
-|{{l|no|stamtre}}
-|{{l|no|trehus}}
-|{{l-nb|trekull}}
+|{{l|nb|epletre}}
+|{{l|nb|frukttre}}
+|{{l|nb|juletre}}
+|{{l|nb|stamtre}}
+|{{l|nb|trehus}}
+|{{l|nb|trekull}}
 |{{l|nb|tremasse}}
-|{{l|no|tresko}}
-|{{l|no|tresleiv}}
-|{{l-nb|tresnitt}}, {{l-nn|tresnitt}}
-|{{l-nb|trestamme}}, {{l-nn|trestamme}}
-|{{l|no|treverk}}}}
+|{{l|nb|tresko}}
+|{{l|nb|tresleiv}}
+|{{l|nb|tresnitt}}
+|{{l|nb|trestamme}}
+|{{l|nb|treverk}}}}
 
 ===Etymology 3===
 
 ====Verb====
-{{head|no|verb}}
+{{head|nb|verb}}
+
+# to [[step]] (in, out etc.)
+#: {{ux|no|'''Tre''' av!|Dismissed!}} {{qualifier|military}}
+
+===Etymology 4===
+From {{term|tråd|lang=nb}}
+
+====Alternative forms====
+* {{l|nb|træ}}
+
+====Verb====
+{{head|nb|verb|imperative|tre|present tense|trer|simple past|tredde|past participle|tredd}}
+
+# to [[thread]]
+#: {{ux|nb|'''tre''' en nål|thread a needle|inline=1}}
+
+===References===
+* {{R:The Bokmål Dictionary}}
+
+----
+==Norwegian Nynorsk==
+{{cardinalbox|nn|2|3|4|to|fire|ord=}}
+
+===Etymology 1===
+From {{inh|nn|non|þrír}}, from {{inh|nn|gmq-pro|ᚦᚱᛁᛃᛟᛉ}} {{qualifier|feminine plural}}, from {{inh|nn|gem-pro|*þrīz}}, ultimately from {{inh|nn|ine-pro|*tréyes}}. Compare Danish and Swedish {{m|da|tre}}, Icelandic {{m|is|þrír}}, Faroese {{m|fo|tríggir}}.
+
+====Alternative forms====
+* {{l|nn|tri}} {{qual|bracket form, defunct}}
+
+====Pronunciation====
+* {{audio|No-tre.ogg|Audio|lang=no}}
+
+====Numeral====
+{{head|nn|numeral}}
+
+# {{context|cardinal|lang=nn}} [[three]]
+
+=====Derived terms=====
+* {{l|nn|tredel}}
+* {{l|nn|tredimensjonal}}
+* {{l|nn|trekant}}
+
+===Etymology 2===
+{{wikipedia|lang=nn}}
+From {{inh|nn|non|tré}}.
+
+====Pronunciation====
+* {{audio|No-tre.ogg|Audio|lang=no}}
+
+====Noun====
+{{nn-noun-n1|tre|tre|tre}}
+
+# a [[tree]]
+#: {{ux|no|'''Trea''' i skogen var gamle.|The '''trees''' in the forest were old.}}
+# [[wood]]
+
+=====Derived terms=====
+{{der3
+|{{l|nn|balltre}}
+|{{l|nn|bartre}}
+|{{l|nn|epletre}}
+|{{l|nn|frukttre}}
+|{{l|nn|joletre}}
+|{{l|nn|juletre}}
+|{{l|nn|stamtre}}
+|{{l|nn|trehus}}
+|{{l|nn|tremasse}}
+|{{l|nn|tresko}}
+|{{l|nn|tresleiv}}
+|{{l|nn|tresnitt}}
+|{{l|nn|trestamme}}
+|{{l|nn|treverk}}}}
+
+===Etymology 3===
+
+====Verb====
+{{head|nn|verb}}
 
 # to [[step]] (in, out etc.)
 #: {{ux|no|'''Tre''' av!|Dismissed!}} {{qualifier|military}}
 
 ===References===
-* {{R:Dokumentasjonsprosjektet}}
+* {{R:The Nynorsk Dictionary}}
 
 ----
 
