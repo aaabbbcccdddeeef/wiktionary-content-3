@@ -412,10 +412,10 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|sand|lang=ang}}, from {{etyl|g
 ==Danish==
 
 ===Etymology 1===
-From {{etyl|non|da}} {{term|sannr|lang=non}}, {{term|saðr|lang=non}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*sanþaz}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*h₁sónts||being, existing}}, the present participle of {{m|ine-pro|*h₁es-||to be}}.
+From {{etyl|non|da}} {{m|non|sannr}}, {{m|non|saðr}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*sanþaz}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*h₁sónts||being, existing}}, the present participle of {{m|ine-pro|*h₁es-||to be}}.
 
 ====Adjective====
-{{head|da|adjective|neuter|sandt|definite and plural|sande}}
+{{da-adj|sandt|sande}}
 
 # [[true]]
 
@@ -423,12 +423,15 @@ From {{etyl|non|da}} {{term|sannr|lang=non}}, {{term|saðr|lang=non}}, from {{et
 * {{l|da|sandelig}}
 
 ===Etymology 2===
-From {{etyl|non|da}} {{term|sandr|lang=non}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*samdaz}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*sámh₂dʰos}}.
+From {{etyl|non|da}} {{m|non|sandr}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*samdaz}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*sámh₂dʰos}}.
 
 ====Noun====
 {{da-noun|et|-}}
 
 # [[sand#English|sand]] (finely ground rock)
+
+=====Declension=====
+{{da-noun-infl|et|n=sg}}
 
 =====See also=====
 * {{projectlink|pedia|lang=da}}
@@ -444,11 +447,20 @@ From {{etyl|non|da}} {{term|sandr|lang=non}}, from {{etyl|gem-pro|da}} {{m|gem-p
 
 ----
 
+==Icelandic==
+
+===Noun===
+{{is-noun form}}
+
+# {{is-inflection of|sandur|indef|acc|s}}
+
+----
+
 ==Norwegian Bokmål==
 {{Wikipedia|lang=nb|Sand (materiale)}}
 
 ===Etymology===
-From {{etyl|non|nb}} {{term|sandr|lang=non}}, from {{etyl|gem-pro|nb}} {{m|gem-pro|*samdaz}}, from {{etyl|ine-pro|nb}} {{m|ine-pro|*sámh₂dʰos}}.
+From {{etyl|non|nb}} {{m|non|sandr}}, from {{etyl|gem-pro|nb}} {{m|gem-pro|*samdaz}}, from {{etyl|ine-pro|nb}} {{m|ine-pro|*sámh₂dʰos}}.
 
 ===Pronunciation===
 * {{IPA|/sɑn/|lang=nb}}
@@ -478,7 +490,7 @@ From {{etyl|non|nb}} {{term|sandr|lang=non}}, from {{etyl|gem-pro|nb}} {{m|gem-p
 {{wikipedia|lang=nn}}
 
 ===Etymology===
-From {{etyl|non|nn}} {{term|sandr|lang=non}}
+From {{etyl|non|nn}} {{m|non|sandr}}
 
 ===Noun===
 {{head|nn|noun|g=m|definite singular|sanden}}
@@ -501,7 +513,7 @@ From {{etyl|non|nn}} {{term|sandr|lang=non}}
 ==Old English==
 
 ===Etymology 1===
-See the verb {{term|sendan|lang=ang}}
+See the verb {{m|ang|sendan}}
 
 ====Noun====
 {{ang-noun|f}}
@@ -510,7 +522,7 @@ See the verb {{term|sendan|lang=ang}}
 # sending, [[service]], [[course]] of food, dish of food, [[repast]], [[mess]], [[victuals]]
 
 ===Etymology 2===
-From {{inh|ang|gem-pro|*samdaz}}, from {{etyl|ine-pro|ang}} {{m|ine-pro|*sámh₂dʰos}}. Compare Old Frisian {{term|sand|lang=ofs}}, Old Saxon {{term|sand|lang=osx}}, Old High German {{term|sant|lang=goh}}, Old Norse {{term|sandr|lang=non}}.
+From {{inh|ang|gem-pro|*samdaz}}, from {{etyl|ine-pro|ang}} {{m|ine-pro|*sámh₂dʰos}}. Compare Old Frisian {{m|ofs|sand}}, Old Saxon {{m|osx|sand}}, Old High German {{m|goh|sant}}, Old Norse {{m|non|sandr}}.
 
 ====Noun====
 {{ang-noun|n}}
@@ -526,7 +538,7 @@ From {{inh|ang|gem-pro|*samdaz}}, from {{etyl|ine-pro|ang}} {{m|ine-pro|*sámh�
 ==Old Saxon==
 
 ===Etymology===
-Akin to Old Norse {{term|sandr|lang=non}}.
+Akin to Old Norse {{m|non|sandr}}.
 
 ===Noun===
 {{osx-noun|g=n}}
@@ -538,7 +550,7 @@ Akin to Old Norse {{term|sandr|lang=non}}.
 ==Swedish==
 
 ===Etymology===
-From {{etyl|gmq-osw|sv}} {{term|lang=gmq-osw|sander}}, from {{etyl|non|sv}} {{term|sandr|lang=non}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*samdaz}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*sámh₂dʰos}}.
+From {{etyl|gmq-osw|sv}} {{m|gmq-osw|sander}}, from {{etyl|non|sv}} {{m|non|sandr}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*samdaz}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*sámh₂dʰos}}.
 
 ===Pronunciation===
 * {{audio|Sv-sand.ogg|audio|lang=sv}}
