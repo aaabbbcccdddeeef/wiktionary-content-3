@@ -72,7 +72,7 @@ From {{etyl|fr|en}} {{m|fr|groupe||cluster, group}}, from {{etyl|it|en}} {{m|it|
 * Burmese: {{t+|my|အစု|sc=Mymr}}
 * Catalan: {{t+|ca|grup|m}}
 * Chinese:
-*: Mandarin: {{t|cmn|集團|sc=Hani}}, {{t+|cmn|集团|tr=jítuán|sc=Hani}}, {{t+|cmn|群|tr=qún|sc=Hani}}, {{t+|cmn|組|sc=Hani}}, {{t+|cmn|组|tr=zǔ|sc=Hani}}
+*: Mandarin: {{t+|cmn|集團|sc=Hani}}, {{t+|cmn|集团|tr=jítuán|sc=Hani}}, {{t+|cmn|群|tr=qún|sc=Hani}}, {{t+|cmn|組|sc=Hani}}, {{t+|cmn|组|tr=zǔ|sc=Hani}}
 * Czech: {{t+|cs|skupina|f}}
 * Danish: {{t+|da|gruppe|c}}
 * Dutch: {{t+|nl|groep|f}}, {{t+|nl|verzameling|f}}
@@ -86,15 +86,13 @@ From {{etyl|fr|en}} {{m|fr|groupe||cluster, group}}, from {{etyl|it|en}} {{m|it|
 * German: {{t+|de|Gruppe|f}}
 * Greek: {{t+|el|ομάδα|f}}
 * Hausa: {{t|ha|ƙungiya}}
-* Hebrew: {{t+|he|קבוצה|f|tr=k'vutzá}}
+* Hebrew: {{t+|he|קְבוּצָה|f|tr=k'vutzá}}
 * Hindi: {{t|hi|समूह|m|sc=Deva}}, {{t|hi|ग्रूप|m|sc=Deva}}
 * Hungarian: {{t+|hu|csoport}}
 * Indonesian: {{t+|id|kelompok}}
 * Irish: {{t+|ga|dream|m}}
 * Italian: {{t+|it|gruppo|m}}
 * Japanese: {{t+|ja|グループ|tr=gurūpu|sc=Jpan}}, {{t+|ja|集団|tr=しゅうだん, shūdan|sc=Jpan}}
-* Mongolian: {{t+|mn|бүлэг|sc=Cyrl}}
-* Norman: {{qualifier|people}} {{t|nrf|dgaîngue|f}}
 * Kazakh: {{t|kk|топ|sc=Cyrl}}, {{t|kk|қауым|sc=Cyrl}}
 * Khmer: {{t+|km|ក្រុម|sc=Khmr|tr=krom}}
 * Korean: {{t+|ko|그룹|sc=Kore}}, {{t+|ko|집단|sc=Kore}}
@@ -107,7 +105,8 @@ From {{etyl|fr|en}} {{m|fr|groupe||cluster, group}}, from {{etyl|it|en}} {{m|it|
 * Latvian: {{t|lv|grupa|f}}
 * Lithuanian: {{t+|lt|grupė|f}}
 * Macedonian: {{t|mk|група|f|sc=Cyrl}}
-* Marathi: {{t|mr|samooha|sc=Deva}}
+* Mongolian: {{t+|mn|бүлэг|sc=Cyrl}}
+* Norman: {{qualifier|people}} {{t|nrf|dgaîngue|f}}
 * Norwegian:
 *: Bokmål: {{t+|nb|gruppe|m|f}}
 *: Nynorsk: {{t|nn|gruppe|f}}
@@ -154,7 +153,7 @@ From {{etyl|fr|en}} {{m|fr|groupe||cluster, group}}, from {{etyl|it|en}} {{m|it|
 * French: {{t+|fr|groupe|m}}
 * German: {{t+|de|Gruppe|f}}
 * Greek: {{t+|el|ομάδα|f}}
-* Hebrew: {{t+|he|קבוצה|f}}
+* Hebrew: {{t+|he|קְבוּצָה|f|tr=k'vutzá}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|csoport}}
 * Icelandic: {{t|is|grúpa|f}}
@@ -165,7 +164,9 @@ From {{etyl|fr|en}} {{m|fr|groupe||cluster, group}}, from {{etyl|it|en}} {{m|it|
 * Portuguese: {{t+|pt|grupo|m}}
 * Romanian: {{t+|ro|grup}}
 * Russian: {{t+|ru|гру́ппа|f}}
-* Serbo-Croatian: {{t+|sh|grupa|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|група|f}}
+*: Roman: {{t+|sh|grupa|f}}
 * Spanish: {{t+|es|grupo|m}}
 * Swahili: {{t+|sw|kundi}}
 * Swedish: {{t+|sv|grupp|c}}
