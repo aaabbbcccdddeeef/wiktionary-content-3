@@ -58,14 +58,12 @@ See {{m|en|heart}}
 ==Afrikaans==
 
 ===Etymology===
-From {{etyl|nl|af}} {{m|nl|hart}}.
+From {{inh|af|nl|hart}}, from {{inh|af|dum|[[herte]], [[harte]]}}, from {{inh|af|odt|herta}}, from {{inh|af|gem-pro|*hertô}}, from {{der|af|ine-pro|*ḱḗr}}.
 
 ===Noun===
 {{af-noun|e}}
 
-# [[heart]]
-
-[[Category:af:Anatomy]]
+# {{lb|af|anatomy}} [[heart]]
 
 ----
 
@@ -88,15 +86,15 @@ From {{inh|nl|dum|herte}}, {{m|dum|harte}}, from {{inh|nl|odt|herta}}, from {{in
 # Compassionate or similar feelings
 
 ====Derived terms====
-{{top4}}
-* {{l|nl|Groene Hart}}
-* {{l|nl|hartschelp}}
-* {{l|nl|hartstocht}}
-* {{l|nl|hartvormig}}
-* {{l|nl|hartelijk}}
-* {{l|nl|van harte}}
-* {{l|nl|ter harte nemen}}
-{{bottom}}
+{{der3
+|{{l|nl|Groene Hart}}
+|{{l|nl|hartschelp}}
+|{{l|nl|hartstocht}}
+|{{l|nl|hartvormig}}
+|{{l|nl|hartelijk}}
+|{{l|nl|van harte}}
+|{{l|nl|ter harte nemen}}
+}}
 
 ----
 
@@ -113,7 +111,7 @@ From {{inh|nl|dum|herte}}, {{m|dum|harte}}, from {{inh|nl|odt|herta}}, from {{in
 ==French==
 
 ===Etymology===
-From {{etyl|frk|fr}} {{m|frk|*hard}} (compare {{etyl|dum|-}} {{m|dum|herde}}, {{etyl|de|-}} {{m|de|Hardt}}).
+From {{der|fr|frk|*hard}} (compare {{etyl|dum|-}} {{m|dum|herde}}, {{etyl|de|-}} {{m|de|Hardt}}).
 
 ===Pronunciation===
 * {{IPA|/ʔaʁ/|/ʔaʁt/|lang=fr}}
@@ -131,7 +129,7 @@ From {{etyl|frk|fr}} {{m|frk|*hard}} (compare {{etyl|dum|-}} {{m|dum|herde}}, {{
 ==German==
 
 ===Etymology===
-From {{etyl|goh|de}} {{m|goh|hart}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*harduz}}, from {{etyl|ine-pro|de}} {{m|ine-pro|*kert-}}, {{m|ine-pro|*kret-||strong; powerful}}. Cognate with {{etyl|nds|-}} {{m|nds|hard}}, {{m|nds|hart}}, {{etyl|nl|-}} {{m|nl|hard}}, {{etyl|en|-}} {{m|en|hard}}, {{etyl|da|-}} {{m|da|hård}}.
+From {{inh|de|goh|hart}}, from {{inh|de|gem-pro|*harduz}}, from {{inh|de|ine-pro|[[*kert-]], [[*kret-]]||strong; powerful}}. Cognate with {{etyl|nds|-}} {{m|nds|hard}}, {{m|nds|hart}}, {{etyl|nl|-}} {{m|nl|hard}}, {{etyl|en|-}} {{m|en|hard}}, {{etyl|da|-}} {{m|da|hård}}.
 
 ===Pronunciation===
 * {{a|standard German}} {{IPA|/haʁt/|lang=de}}
@@ -145,8 +143,7 @@ From {{etyl|goh|de}} {{m|goh|hart}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*hardu
 # [[hard]]
 # [[severe]], [[harsh]]
 #* '''2012''' May 2, ''[[w:Die Welt|Die Welt]]'' [http://epaper.apps.welt.de/welt/archiv/], page 10:
-#*: Die '''harten''' Einschnitte zum Schuldenabbau standen in vielen EU-Ländern im Zentrum der Kritik der Demonstranten.
-#*:: The severe cuts for the reduction of debt were in many EU countries at the center of criticism by the protesters.
+#*: {{ux|de|Die '''harten''' Einschnitte zum Schuldenabbau standen in vielen EU-Ländern im Zentrum der Kritik der Demonstranten.|The severe cuts for the reduction of debt were in many EU countries at the center of criticism by the protesters.}}
 
 ====Declension====
 {{de-decl-adj|hart|härter|härtest}}
@@ -156,7 +153,7 @@ From {{etyl|goh|de}} {{m|goh|hart}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*hardu
 
 # [[hard]]
 # [[sharply]], [[roughly]], [[severely]]
-# [[close]] ({{term|an|lang=de}} {{i|+ dative}} to)
+# [[close]] ({{m|de|an}} {{i|+ dative}} to)
 
 ===External links===
 * {{R:Duden}}
@@ -175,14 +172,13 @@ From {{etyl|goh|de}} {{m|goh|hart}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*hardu
 ==North Frisian==
 
 ===Etymology===
-From {{etyl|ofs|frr}} {{m|ofs|herte}}. Cognates include {{etyl|fy|-}} {{m|fy|hert}}.
+From {{der|frr|ofs|herte}}. Cognates include {{etyl|fy|-}} {{m|fy|hert}}.
 
 ===Noun===
 {{head|frr|noun|g=n|plural|harten}}
 
 # {{context|Föhr-Amrum|anatomy|lang=frr}} [[heart]]
-#: {{lang|frr|At '''hart''' klopet/böget}}
-#:: My '''heart''' is beating.
+#: {{ux|frr|At '''hart''' klopet/böget.|My '''heart''' is beating.}}
 
 ----
 
