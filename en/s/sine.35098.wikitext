@@ -105,7 +105,7 @@ In various branches of mathematics, the sine of an angle is determined in variou
 * {{IPA|/ˈʃinʲə/|lang=ga}}
 
 ===Etymology 1===
-From {{etyl|sga|ga}} {{m|sga|sine}}, {{m|sga|siniu}}, comparative form of {{m|sga|sen||old}}.
+From {{inh|ga|sga|[[sine]], [[siniu]]}}, comparative form of {{m|sga|sen||old}}.
 
 ====Adjective====
 {{head|ga|adjective form}}
@@ -113,10 +113,10 @@ From {{etyl|sga|ga}} {{m|sga|sine}}, {{m|sga|siniu}}, comparative form of {{m|sg
 # {{comparative of|sean|lang=ga|nodot=yes}}: [[older]]
 
 ===Etymology 2===
-From {{etyl|sga|ga}} {{m|sga|sine||teat, dug, pap}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*sɸenyo-}}, from {{etyl|ine-pro|ga}} {{m|ine-pro|*pstḗn}}. Cognate with Old Norse {{m|non|speni||teat}}, English {{m|en|spean||teat (of a cow)}}.
+From {{inh|ga|sga|sine||teat, dug, pap}}, from {{inh|ga|cel-pro|*sɸenyo-}}, from {{der|ga|ine-pro|*pstḗn}}. Cognate with Old Norse {{m|non|speni||teat}}, English {{m|en|spean||teat (of a cow)}}.
 
 ====Noun====
-{{ga-noun|g=f|sine|siní}}
+{{ga-noun|g=f|-|siní}}
 
 # [[nipple]]
 
@@ -126,7 +126,12 @@ From {{etyl|sga|ga}} {{m|sga|sine||teat, dug, pap}}, from {{etyl|cel-pro|ga}} {{
 ===Mutation===
 {{ga mut cons|si|ne}}
 
-[[Category:ga:Body]]
+===References===
+* {{R:ga:ODonaill}}
+* {{R:DIL|37576|head=1 sine}}
+* {{R:DIL|37578|head=3 sine}}
+
+{{catlangcode|ga|Body}}
 
 ----
 
