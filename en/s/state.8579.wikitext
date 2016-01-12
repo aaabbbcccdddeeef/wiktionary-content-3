@@ -36,6 +36,9 @@ From {{etyl|fro|en}} {{term|estat|lang=fro}}, from {{etyl|la|en}} {{term|status|
 #* {{quote-book|year=1898|author={{w|Winston Churchill (novelist)|Winston Churchill}}
 |title={{w|The Celebrity}}|chapter=8
 |passage=I corralled the judge, and we started off across the fields, in no very mild '''state''' of fear of that gentleman's wife, whose vigilance was seldom relaxed.}}
+## {{context|physics|lang=en}} A complete description of a system, consisting of parameters that determine all properties of the system.
+##* '''1977''', J. B. Sykes and {{w|John Stewart Bell}}, translating {{w|Lev Landau}} and {{w|Evgeny Lifshitz}}, ''{{w|Course of Theoretical Physics}} Vol. 3: Quantum Mechanics: Non-relativistic Theory'', p.28:
+##*: '''States''' in which the energy has definite values are called ''stationary states'' of a system; they are described by wave functions Ψ<sub>n</sub> which are the eigenfunctions of the Hamiltonian operator, i.e. which satisfy the equation ''Ĥ''Ψ<sub>n</sub> = ''E''<sub>n</sub>Ψ<sub>n</sub>, where ''E''<sub>n</sub> are the eigenvalues of the energy.
 ## {{context|computing|lang=en}} The stable condition of a processor during a particular [[clock cycle]].
 ##: {{usex|In the fetch '''state''', the address of the next instruction is placed on the address bus.|lang=en}}
 ## {{context|computing|lang=en}} The set of all parameters relevant to a computation.
