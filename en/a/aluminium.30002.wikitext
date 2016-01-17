@@ -6,7 +6,7 @@
 * [[aluminum]] {{qualifier|US|Canada}} (see [[#Usage notes]] below)
 
 ===Etymology===
-First used in 1812 as an alternative form of ''[[aluminum]]'' which was invented in the same year.<ref>''Chambers Dictionary of Etymology'', Robert K. Barnhart (ed.), Chambers, 1988</ref>, from {{etyl|la|en}} {{term|alumen|lang=la}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*h₂elud-}}.
+First used in 1812 as an alternative form of ''[[aluminum]]'' which was invented in the same year.<ref>''Chambers Dictionary of Etymology'', Robert K. Barnhart (ed.), Chambers, 1988</ref>, from {{etyl|la|en}} {{m|la|alumen}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*h₂elud-}}.
 
 ===Pronunciation===
 * {{a|RP}} {{enPR|ăl"yo͝omĭn'ēəm|ăl"yo͝omĭn'yəm}}, {{IPA|/ˌæl.(j)ʊˈmɪn.i.əm/|/ˌæl.(j)ʊˈmɪn.jəm/|lang=en}}
@@ -21,7 +21,7 @@ First used in 1812 as an alternative form of ''[[aluminum]]'' which was invented
 {{wikipedia}}
 
 # A light, silvery metal extracted from [[bauxite]], and a chemical element (''symbol'' Al) with an [[atomic number]] of 13.
-# {{cx|countable|lang=en}} A single [[atom]] of this element.
+# {{lb|en|countable}} A single [[atom]] of this element.
 
 ====Usage notes====
 * For information on the origins of the two spellings, see [[w:Aluminium#Etymology|the Wikipedia article]].
@@ -336,7 +336,7 @@ Derived from {{m|la|alūmen}}, {{suffix|lang=la|alūminis|t1=alum|ium|pos2=chemi
 ===Noun===
 {{la-noun|alūminium||alūminiī|n|second}}
 
-# {{context|New Latin|lang=la}} [[#English|aluminium]]
+# {{label|la|New Latin}} [[#English|aluminium]]
 
 ====Inflection====
 {{la-decl-2nd-N|alūmini}}
@@ -350,7 +350,7 @@ Derived from {{m|la|alūmen}}, {{suffix|lang=la|alūminis|t1=alum|ium|pos2=chemi
 {{elements|Al|magnesium|Mg|silikon|Si|lang=ms}}
 
 ===Etymology===
-From {{etyl|en|ms}} {{term|aluminium|lang=en}}.
+From {{etyl|en|ms}} {{m|en|aluminium}}.
 
 ===Alternative forms===
 * {{l|ms|الومينيوم|sc=Arab}}
@@ -370,10 +370,10 @@ From {{etyl|en|ms}} {{term|aluminium|lang=en}}.
 {{wikipedia|lang=no}}
 
 ===Etymology===
-From {{etyl|la|nb}} {{term|alumen|lang=la}}
+From {{etyl|la|nb}} {{m|la|alumen}}
 
 ===Noun===
-{{head|nb|noun|g=m|g2=n|definite singular|aluminiumen|or|aluminiumet}} {{context|uncountable|lang=nb}}
+{{head|nb|noun|g=m|g2=n|definite singular|aluminiumen|or|aluminiumet}} {{label|nb|uncountable}}
 
 # {{l|en|aluminium}} (UK), or {{l|en|aluminum}} (US) (''chemical element and metal, symbol'' '''[[Al]]''')
 
@@ -391,10 +391,10 @@ From {{etyl|la|nb}} {{term|alumen|lang=la}}
 {{wikipedia|lang=nn}}
 
 ===Etymology===
-From {{etyl|la|nn}} {{term|alumen|lang=la}}
+From {{etyl|la|nn}} {{m|la|alumen}}
 
 ===Noun===
-{{head|nn|noun|g=m|g2=n|definite singular|aluminiumen|or|aluminiumet}} {{context|uncountable|lang=nn}}
+{{head|nn|noun|g=m|g2=n|definite singular|aluminiumen|or|aluminiumet}} {{label|nn|uncountable}}
 
 # {{l|en|aluminium}} (UK), or {{l|en|aluminum}} (US) (''chemical element and metal, symbol'' '''[[Al]]''')
 
