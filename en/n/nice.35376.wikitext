@@ -5,7 +5,7 @@
 * [[nyc]] {{qualifier|non-standard}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{term|nice|lang=enm}}, {{term|nyce|lang=enm}}, {{term|nys|lang=enm}}, from {{etyl|fro|en}} {{term|nice|lang=fro}}, {{term|niche|lang=fro}}, {{term|nisce||simple, foolish, ignorant|lang=fro}}, from {{etyl|la|en}} {{term|nescius||ignorant, not knowing|lang=la}}; compare {{term|nescire||to know not, be ignorant of|lang=la}}, from {{term|ne||not|lang=la}} + {{term|scire||to know|lang=la}}.
+From {{etyl|enm|en}} {{m|enm|nice}}, {{m|enm|nyce}}, {{m|enm|nys}}, from {{etyl|fro|en}} {{m|fro|nice}}, {{m|fro|niche}}, {{m|fro|nisce||simple, foolish, ignorant}}, from {{etyl|la|en}} {{m|la|nescius||ignorant, not knowing}}; compare {{m|la|nescire||to know not, be ignorant of}}, from {{m|la|ne||not}} + {{m|la|scire||to know}}.
 
 ====Pronunciation====
 * {{enPR|nīs}}, {{IPA|/naɪs/|lang=en}}
@@ -15,13 +15,13 @@ From {{etyl|enm|en}} {{term|nice|lang=enm}}, {{term|nyce|lang=enm}}, {{term|nys|
 ====Adjective====
 {{en-adj|er}}
 
-# {{context|obsolete|lang=en}} [[silly|Silly]], [[ignorant]]; [[foolish]]. {{defdate|14th-17th c.}}
-# {{context|now|_|rare|lang=en}} [[particular|Particular]] in one's conduct; [[scrupulous]], [[painstaking]]; [[choosy]]. {{defdate|from 14th c.}}
+# {{label|en|obsolete}} [[silly|Silly]], [[ignorant]]; [[foolish]]. {{defdate|14th-17th c.}}
+# {{label|en|now|_|rare}} [[particular|Particular]] in one's conduct; [[scrupulous]], [[painstaking]]; [[choosy]]. {{defdate|from 14th c.}}
 #* {{RQ:Flr Mntgn Essays}}, II.2:
 #*: There is nothing he seemed to be more carefull of than of his honesty, and observe a kinde of decencie of his person, and orderly decorum in his habits, were it on foot or on horsebacke. He was exceeding '''nice''' in performing his word or promise.
 #* '''1999''', Joyce Crick, translating {{w|Sigmund Freud}}, ''{{w|The Interpretation of Dreams}}'', Oxford 2008, p.83:
 #*: But if I dispense with the dreams of neurotics, my main material, I cannot be too '''nice''' {{transterm|wählerisch|lang=de}} in my dealings with the remainder.
-# {{context|obsolete|lang=en}} [[particular|Particular]] as regards [[rule]]s or qualities; [[strict]]. {{defdate|16th-19th c.}}
+# {{label|en|obsolete}} [[particular|Particular]] as regards [[rule]]s or qualities; [[strict]]. {{defdate|16th-19th c.}}
 #* '''1818''', {{w|Jane Austen}}, ''{{w|Persuasion}}'':
 #*: Good company requires only birth, education and manners, and with regard to education is not very '''nice'''. Birth and good manners are essential.
 # [[show|Showing]] or [[require|requiring]] [[great]] [[precision]] or [[sensitive]] [[discern]]ment; [[subtle]]. {{defdate|from 16th c.}}
@@ -31,13 +31,13 @@ From {{etyl|enm|en}} {{term|nice|lang=enm}}, {{term|nyce|lang=enm}}, {{term|nys|
 #*: It would be a '''nice''' theological point to try and establish whether Ophis os Moslem or gnostic.
 #* '''2006''', {{w|Clive James}}, ''North Face of Soho'', Picador 2007, p.242:
 #*: Why it should have attained such longevity is a '''nice''' question.
-# {{context|obsolete|lang=en}} [[doubtful|Doubtful]], as to the outcome; [[risky]]. {{defdate|16th-19th c.}}
+# {{label|en|obsolete}} [[doubtful|Doubtful]], as to the outcome; [[risky]]. {{defdate|16th-19th c.}}
 #* '''1598''', {{w|William Shakespeare}}, ''{{w|Henry IV, Part 1}}'', IV.1:
 #*: To set so rich a maine / On the '''nice''' hazard of one doubtfull houre? It were not good.
 #* '''1822''', T. Creevey, ''Reminiscences'', 28 Jul.:
 #*: It has been a damned '''nice''' thing - the nearest run thing you ever saw in your life.
 # [[respectable|Respectable]]; [[virtuous]]. {{defdate|from 18th c.}}
-#: {{usex|lang=en|What is a '''nice''' person like you doing in a place like this?}}
+#: {{ux|en|What is a '''nice''' person like you doing in a place like this?}}
 # [[pleasant|Pleasant]], [[satisfactory]]. {{defdate|from 18th c.}}
 #* '''1998''', {{w|Baha Men}} - ''{{w|Who Let the Dogs Out?}}''
 #*: When the party was '''nice''', the party was jumpin' (Hey, Yippie, Yi, Yo)
@@ -45,7 +45,7 @@ From {{etyl|enm|en}} {{term|nice|lang=enm}}, {{term|nyce|lang=enm}}, {{term|nys|
 #*: "What's difficult is when you think someone is saying something '''nice''' about you, but you're not quite sure."
 # Of a person: [[friendly]], [[attractive]]. {{defdate|from 18th c.}}
 # With "and", shows that the given adjective is desirable: [[pleasantly]]. {{defdate|from 18th c.}}
-#: {{usex|lang=en|The soup is '''nice''' and hot.}}
+#: {{ux|en|The soup is '''nice''' and hot.}}
 #* {{quote-book|year=1913|author={{w|Joseph C. Lincoln}}|chapter=8
 |title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]
 |passage=We toted in the wood and got the fire going '''nice''' and comfortable. Lord James still set in one of the chairs and Applegate had cabbaged the other and was hugging the stove.}}
@@ -196,7 +196,7 @@ Sometimes used [[sarcastically]] to mean the [[opposite]] or to [[connote]] [[ex
 ====Adverb====
 {{en-adv}}
 
-# {{context|colloquial|lang=en}} [[nicely|Nicely]].
+# {{label|en|colloquial}} [[nicely|Nicely]].
 #: ''Children, play '''nice'''.''
 #: ''He dresses real '''nice'''.''
 
@@ -225,7 +225,7 @@ Name of a Unix program used to invoke a script or program with a specified prior
 {{en-verb|nic}}
 {{wikipedia|nice (Unix)}}
 
-# {{context|transitive|computing|Unix|lang=en}} To [[run]] a [[process]] with a specified (usually lower) [[priority]].
+# {{label|en|transitive|computing|Unix}} To [[run]] a [[process]] with a specified (usually lower) [[priority]].
 
 =====Derived terms=====
 * [[renice]]
