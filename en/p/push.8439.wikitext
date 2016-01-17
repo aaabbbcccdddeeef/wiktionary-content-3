@@ -2,7 +2,7 @@
 {{slim-wikipedia|dab=push}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|pushen}}, {{m|enm|poshen}}, {{m|enm|posson}}, from {{etyl|frm|en}} {{term|pousser||lang=frm}} (Modern French {{term|pousser|lang=fr}}) from {{etyl|fro|en}} {{term|poulser||lang=fro}}, from {{etyl|la|en}} {{term|pulsare|lang=la}}, frequentative of {{m|la|pellere}} (past participle {{m|la|pulsus}}) "to beat, strike". Displaced native {{etyl|enm|-}} {{term|thrucchen|lang=enm}} {{gloss|"to push"; > Modern English {{l|en|thrutch}}}} (from {{etyl|ang|-}} {{term|þryccan||to push|lang=ang}}), {{etyl|enm|-}} {{term|scauten||to push, thrust|lang=enm}} (from {{etyl|non|-}} {{term|skota||lang=non}}), {{etyl|enm|-}} {{term|schoven||to push, shove|lang=enm}} (from {{etyl|ang|-}} {{term|scofian||lang=ang}}), {{etyl|enm|-}} {{term|schuven||to shove, push|lang=enm}} (from {{etyl|ang|-}} {{m|ang|scūfan}}, {{m|ang|scēofan||to shove, push, thrust}}), {{etyl|enm|-}} {{term|thuden||lang=enm}}, {{term|thudden||to push, press, thrust|lang=enm}} (from {{etyl|ang|-}} {{m|ang|þȳdan}}, {{term|þyddan||to thrust, press, push|lang=ang}}).
+From {{etyl|enm|en}} {{m|enm|pushen}}, {{m|enm|poshen}}, {{m|enm|posson}}, from {{etyl|frm|en}} {{m|frm|pousser|}} (Modern French {{m|fr|pousser}}) from {{etyl|fro|en}} {{m|fro|poulser|}}, from {{etyl|la|en}} {{m|la|pulsare}}, frequentative of {{m|la|pellere}} (past participle {{m|la|pulsus}}) "to beat, strike". Displaced native {{etyl|enm|-}} {{m|enm|thrucchen}} {{gloss|"to push"; > Modern English {{l|en|thrutch}}}} (from {{etyl|ang|-}} {{m|ang|þryccan||to push}}), {{etyl|enm|-}} {{m|enm|scauten||to push, thrust}} (from {{etyl|non|-}} {{m|non|skota|}}), {{etyl|enm|-}} {{m|enm|schoven||to push, shove}} (from {{etyl|ang|-}} {{m|ang|scofian|}}), {{etyl|enm|-}} {{m|enm|schuven||to shove, push}} (from {{etyl|ang|-}} {{m|ang|scūfan}}, {{m|ang|scēofan||to shove, push, thrust}}), {{etyl|enm|-}} {{m|enm|thuden|}}, {{m|enm|thudden||to push, press, thrust}} (from {{etyl|ang|-}} {{m|ang|þȳdan}}, {{m|ang|þyddan||to thrust, press, push}}).
 
 ====Pronunciation====
 * {{enPR|po͝osh}}, {{IPA|/pʊʃ/|lang=en}}
@@ -12,42 +12,42 @@ From {{etyl|enm|en}} {{m|enm|pushen}}, {{m|enm|poshen}}, {{m|enm|posson}}, from 
 ====Verb====
 {{en-verb|es}}
 
-# {{context|transitive|intransitive|lang=en}} To apply a [[force]] to (an object) such that it moves [[away]] from the person or thing applying the force.
+# {{label|en|transitive|intransitive}} To apply a [[force]] to (an object) such that it moves [[away]] from the person or thing applying the force.
 #: ''In his anger he '''pushed''' me against the wall and threatened me.''
 #: ''You need to '''push''' quite hard to get this door open.''
-# {{context|transitive|lang=en}} To continually attempt to persuade (a person) into a particular course of action.
+# {{label|en|transitive}} To continually attempt to persuade (a person) into a particular course of action.
 #* Jonathan Swift
 #*: We are '''pushed''' for an answer.
 #* ''Spectator''
 #*: Ambition '''pushes''' the soul to such actions as are apt to procure honour to the actor.
-# {{context|transitive|lang=en}} To press or urge forward; to drive.
+# {{label|en|transitive}} To press or urge forward; to drive.
 #: ''to '''push''' an objection too far; to '''push''' one's luck''
 #* Dryden
 #*: to '''push''' his fortune
-# {{context|transitive|lang=en}} To continually [[promote]] (a point of view, a product for sale, etc.).
+# {{label|en|transitive}} To continually [[promote]] (a point of view, a product for sale, etc.).
 #: ''Stop '''pushing''' the issue &mdash; I'm not interested.''
 #: ''They're '''pushing''' that perfume again.''
 #: ''There were two men hanging around the school gates today, '''pushing''' drugs.''
-# {{context|informal|transitive|lang=en}} To [[approach]]; to come close to.
+# {{label|en|informal|transitive}} To [[approach]]; to come close to.
 #: ''My old car is '''pushing''' 250,000 miles.''
 #: ''He's pushing sixty.'' (= ''he's nearly sixty years old'')
-# {{context|intransitive|lang=en}} To tense the muscles in the [[abdomen]] in order to [[expel]] its contents.
+# {{label|en|intransitive}} To tense the muscles in the [[abdomen]] in order to [[expel]] its contents.
 #: ''During childbirth, there are times when the obstetrician advises the woman not to '''push'''.''
-# {{context|intransitive|lang=en}} To continue to attempt to persuade a person into a particular course of action.
+# {{label|en|intransitive}} To continue to attempt to persuade a person into a particular course of action.
 # To make a higher [[bid]] at an [[auction]].
-# {{context|poker|lang=en}} To make an [[all-in]] [[bet]].
-# {{context|chess|transitive|lang=en}} To move (a [[pawn]]) directly [[forward]].
-# {{context|computing|lang=en}} To add (a data item) to the top of a [[stack]].
+# {{label|en|poker}} To make an [[all-in]] [[bet]].
+# {{label|en|chess|transitive}} To move (a [[pawn]]) directly [[forward]].
+# {{label|en|computing}} To add (a data item) to the top of a [[stack]].
 #* '''1992''', Michael A. Miller, ''The 68000 Microprocessor Family: Architecture, Programming, and Applications'' (page 47)
 #*: When the microprocessor decodes the JSR opcode, it stores the operand into the TEMP register and '''pushes''' the current contents of the PC ($00 0128) onto the stack.
-# {{cx|computing|lang=en}} To [[publish]] (an update, etc.) by transmitting it to other computers.
+# {{lb|en|computing}} To [[publish]] (an update, etc.) by transmitting it to other computers.
 #* '''2002''', Lars Powers, Mike Snell, ''Visual Basic Programmer's Guide to the .NET Framework Class Library'' (page 968)
 #*: Because this version of the Windows Installer is aware of the GAC, it has the capability to publish components into it. {{...}} You can manually or programmatically '''push''' an assembly into the GAC by using the command-line tool Gacutil.exe.
-# {{context|obsolete|lang=en}} To thrust the points of the horns against; to [[gore]].
+# {{label|en|obsolete}} To thrust the points of the horns against; to [[gore]].
 #* Bible, Exodus xxi. 32
 #*: If the ox shall '''push''' a manservant or maidservant, {{...}} the ox shall be stoned.
 # To burst out of its pot, as a bud or shoot.
-# {{cx|snooker|lang=en}} To strike the [[cue ball]] in such a way that it stays in contact with the [[cue]] and [[object ball]] at the same time (a foul shot)
+# {{lb|en|snooker}} To strike the [[cue ball]] in such a way that it stays in contact with the [[cue]] and [[object ball]] at the same time (a foul shot)
 
 =====Synonyms=====
 * {{sense|transitive: apply a force to (an object) so it moves away}} [[press]], [[shove]], [[thrutch]]
@@ -230,17 +230,17 @@ From {{etyl|enm|en}} {{m|enm|pushen}}, {{m|enm|poshen}}, {{m|enm|posson}}, from 
 # A [[great]] [[effort]] (to do something).
 #: ''Some details got lost in the '''push''' to get the project done.''
 #: ''Let's give one last push on our advertising campaign.''
-# {{context|military|lang=en}} A [[marching]] or [[drill]] [[maneuver]]/[[manoeuvre]] performed by moving a [[formation]] (especially a [[company front]]) [[forward]] or [[toward]] the [[audience]], usually to accompany a dramatic [[climax]] or [[crescendo]] in the music.
+# {{label|en|military}} A [[marching]] or [[drill]] [[maneuver]]/[[manoeuvre]] performed by moving a [[formation]] (especially a [[company front]]) [[forward]] or [[toward]] the [[audience]], usually to accompany a dramatic [[climax]] or [[crescendo]] in the music.
 # A wager that results in no loss or gain for the bettor as a result of a tie or even score
-# {{context|computing|lang=en}} The addition of a data item to the top of a [[stack]].
-# {{context|Internet|uncountable|lang=en}} The situation where a [[server]] sends data to a [[client]] without waiting for a request, as in ''server push'', ''push technology''.
-# {{context|dated|lang=en}} A [[crowd]] or [[throng]] or people
+# {{label|en|computing}} The addition of a data item to the top of a [[stack]].
+# {{label|en|Internet|uncountable}} The situation where a [[server]] sends data to a [[client]] without waiting for a request, as in ''server push'', ''push technology''.
+# {{label|en|dated}} A [[crowd]] or [[throng]] or people
 #* '''1891''', Banjo Paterson, ''[[s:An Evening in Dandaloo|An Evening in Dandaloo]]''
 #*: Till some wild, excited person
 #*: Galloped down the township cursing,
 #*: "Sydney '''push''' have mobbed Macpherson,
 #*: Roll up, Dandaloo!"
-# {{cx|snooker|lang=en}} A foul shot in which the [[cue ball]] is in contact with the [[cue]] and the [[object ball]] at the same time
+# {{lb|en|snooker}} A foul shot in which the [[cue ball]] is in contact with the [[cue]] and the [[object ball]] at the same time
 
 =====Derived terms=====
 * [[give someone the push]]
@@ -276,7 +276,7 @@ From {{etyl|enm|en}} {{m|enm|pushen}}, {{m|enm|poshen}}, {{m|enm|posson}}, from 
 {{trans-bottom}}
 
 ===Etymology 2===
-Probably {{etyl|fr|en}} {{term|poche|lang=fr}}. See {{term|pouch|lang=en}}.
+Probably {{etyl|fr|en}} {{m|fr|poche}}. See {{m|en|pouch}}.
 
 ====Pronunciation====
 {{rfp|lang=en}}
@@ -284,7 +284,7 @@ Probably {{etyl|fr|en}} {{term|poche|lang=fr}}. See {{term|pouch|lang=en}}.
 ====Noun====
 {{en-noun|es}}
 
-# {{context|obsolete|UK|dialect|lang=en}} A [[pustule]]; a [[pimple]].
+# {{label|en|obsolete|UK|dialect}} A [[pustule]]; a [[pimple]].
 #: {{rfquotek|Francis Bacon}}
 
 [[Category:1000 English basic words]]
@@ -294,7 +294,7 @@ Probably {{etyl|fr|en}} {{term|poche|lang=fr}}. See {{term|pouch|lang=en}}.
 ==Albanian==
 
 ===Etymology===
-From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*puša}}, from *puksja, from {{etyl|ine-pro|sq}} {{m|ine-pro|*puk}}, {{m|ine-pro|*peuk}} 'covered with hair, bushy'. Related to Sanskrit {{term|पुच्छ||tail|tr=púccha|lang=sa}}, Slavic* puxь 'down'<ref>A Concise Historical Grammar of the Albanian Language, V.Orel, Koninklijke Brill ,Leiden 2000, p.351</ref>.
+From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*puša}}, from *puksja, from {{etyl|ine-pro|sq}} {{m|ine-pro|*puk}}, {{m|ine-pro|*peuk}} 'covered with hair, bushy'. Related to Sanskrit {{m|sa|पुच्छ||tail|tr=púccha}}, Slavic* puxь 'down'<ref>A Concise Historical Grammar of the Albanian Language, V.Orel, Koninklijke Brill ,Leiden 2000, p.351</ref>.
 
 ===Noun===
 {{sq-noun|m|pusha|pushi|pushat}}
