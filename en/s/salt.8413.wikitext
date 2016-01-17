@@ -3,7 +3,7 @@
 {{wikipedia|lang=en}}
 
 ===Etymology===
-From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*saltą}} (compare Dutch {{term|zout|lang=nl}}, German {{term|Salz|lang=de}}, Swedish {{term|salt|lang=sv}}), from {{etyl|ine-pro|en}} {{m|ine-pro|*seh₂l-}} (compare French {{term|sel|lang=fr}}, Welsh {{term|halen|lang=cy}}, Old Irish {{term|salann|lang=sga}}, Latin {{term|sal|lang=la}}, Russian {{term|соль|lang=ru}}, Ancient Greek {{term|ἅλς|lang=grc}}, Albanian {{term|ngjelmë||salty, savory|lang=sq}}, Old Armenian {{term|աղ|lang=xcl}}, Tocharian A {{term|sāle|lang=xto}}, Sanskrit {{term|सलिल|tr=salila|lang=sa|sc=Deva}}).
+From {{etyl|ang|en}} {{m|ang|sealt}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*saltą}} (compare Dutch {{m|nl|zout}}, German {{m|de|Salz}}, Swedish {{m|sv|salt}}), from {{etyl|ine-pro|en}} {{m|ine-pro|*seh₂l-}} (compare French {{m|fr|sel}}, Welsh {{m|cy|halen}}, Old Irish {{m|sga|salann}}, Latin {{m|la|sal}}, Russian {{m|ru|соль}}, Ancient Greek {{m|grc|ἅλς}}, Albanian {{m|sq|ngjelmë||salty, savory}}, Old Armenian {{m|xcl|աղ}}, Tocharian A {{m|xto|sāle}}, Sanskrit {{m|sa|सलिल|tr=salila|sc=Deva}}).
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/sɔːlt/|/sɒlt/|lang=en}}
@@ -20,24 +20,24 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 # A common substance, chemically consisting mainly of [[sodium chloride]] ([[NaCl]]), used extensively as a [[condiment]] and [[preservative]].
 #* '''c. 1430''' (reprinted '''1888'''), Thomas Austin, ed., ''Two Fifteenth-century Cookery-books. Harleian ms. 279 (ab. 1430), & Harl. ms. 4016 (ab. 1450), with Extracts from Ashmole ms. 1429, Laud ms. 553, & Douce ms. 55'' [Early English Text Society, Original Series; 91], London: [[w:Routledge|N. Trübner & Co.]] for the {{w|Early English Text Society}}, volume I, <small>[[w:Online Computer Library Center|OCLC]] [http://worldcat.org/oclc/374760 374760]</small>, page 11:
 #*: Soupes dorye. — Take gode almaunde mylke {{...}} caste þher-to Safroun an '''Salt''' {{...}}
-# {{context|chemistry|lang=en}} One of the [[compound]]s formed from the [[reaction]] of an [[acid]] with a [[base]], where a positive [[ion]] replaces a [[hydrogen]] of the acid.
-# {{context|uncommon|lang=en}} A [[salt marsh]], a saline marsh at the shore of a sea.
-# {{context|slang|lang=en}} A [[sailor]] {{qualifier|also '''''[[old salt]]'''''}}.
+# {{label|en|chemistry}} One of the [[compound]]s formed from the [[reaction]] of an [[acid]] with a [[base]], where a positive [[ion]] replaces a [[hydrogen]] of the acid.
+# {{label|en|uncommon}} A [[salt marsh]], a saline marsh at the shore of a sea.
+# {{label|en|slang}} A [[sailor]] {{qualifier|also '''''[[old salt]]'''''}}.
 #* '''1850''', Nathaniel Hawthorne, ''The Scarlet Letter''
 #*: Around the door are generally to be seen, laughing and gossiping, clusters of old '''salts'''.
 #* '''1851''', Herman Melville, ''Moby-Dick'', [[s:Moby-Dick/Chapter 1|chapter 1]]
 #*: I never go as a passenger; nor, though I am something of a '''salt''', do I ever go to sea as a Commodore, or a Captain, or a Cook.
-# {{context|cryptography|lang=en}} [[randomly|Randomly]] chosen [[bytes]] added to a [[plaintext]] message prior to [[encrypting]] it, in order to render [[brute force|brute-force]] [[decryption]] more difficult.
+# {{label|en|cryptography}} [[randomly|Randomly]] chosen [[bytes]] added to a [[plaintext]] message prior to [[encrypting]] it, in order to render [[brute force|brute-force]] [[decryption]] more difficult.
 # A person who seeks employment at a company in order to (once employed by it) help unionize it.
-# {{context|obsolete|lang=en}} [[flavour]]; [[taste]]; [[seasoning]]
+# {{label|en|obsolete}} [[flavour]]; [[taste]]; [[seasoning]]
 #* Shakespeare
 #*: Though we are justices and doctors and churchmen {{...}} we have some '''salt''' of our youth in us.
-# {{context|obsolete|lang=en}} [[piquancy]]; [[wit]]; [[sense]]
+# {{label|en|obsolete}} [[piquancy]]; [[wit]]; [[sense]]
 #: ''Attic '''salt'''''
-# {{context|obsolete|lang=en}} A dish for salt at table; a [[salt cellar]].
+# {{label|en|obsolete}} A dish for salt at table; a [[salt cellar]].
 #* Samuel Pepys
 #*: I out and bought some things; among others, a dozen of silver '''salts'''.
-# {{context|figurative|lang=en}} That which preserves from corruption or error, or purifies; a corrective; an antiseptic; also, an allowance or deduction.
+# {{label|en|figurative}} That which preserves from corruption or error, or purifies; a corrective; an antiseptic; also, an allowance or deduction.
 #: ''His statements must be taken with a grain of '''salt'''.''
 #* Bible, Matthew v. 13
 #*: Ye are the '''salt''' of the earth.
@@ -378,19 +378,19 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 {{en-adj}}
 
 # [[salty|Salty]]; [[salted]].
-#: {{usex|lang=en|'''salt''' beef;&nbsp; '''salt''' tears}}
+#: {{ux|en|'''salt''' beef;&nbsp; '''salt''' tears}}
 #* {{quote-book|year=1913|author={{w|Joseph C. Lincoln}}|chapter=8
 |title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]
 |passage=Philander went into the next room{{...}}and came back with a '''salt''' mackerel that dripped brine like a rainstorm. Then he put the coffee pot on the stove and rummaged out a loaf of dry bread and some hardtack.}}
 # [[saline|Saline]].
-#: {{usex|lang=en|a '''salt''' marsh;&nbsp; '''salt''' grass}}
+#: {{ux|en|a '''salt''' marsh;&nbsp; '''salt''' grass}}
 # Related to salt [[deposit]]s, [[excavation]], [[process]]ing or [[use]].
-#: {{usex|lang=en|a '''salt''' mine}}
+#: {{ux|en|a '''salt''' mine}}
 #: ''The '''salt''' factory is a key connecting element in the seawater infrastructure.''
-# {{context|figurative|obsolete|lang=en}} Bitter; sharp; pungent.
+# {{label|en|figurative|obsolete}} Bitter; sharp; pungent.
 #* {{w|William Shakespeare}}
 #*: I have a '''salt''' and sorry rheum offends me.
-# {{context|figurative|obsolete|lang=en}} Salacious; lecherous; lustful.
+# {{label|en|figurative|obsolete}} Salacious; lecherous; lustful.
 #* {{quote-book|year=1603|author={{w|William Shakespeare}}
 |title=[http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=othello&Act=3&Scene=3&Scope=scene&LineHighlight=2079#2079 Othello Act III, Scene 3]
 |passage=It is impossible you should see this, \ Were they as prime as goats, as hot as monkeys, \ As '''salt''' as wolves in pride, and fools as gross \ As ignorance made drunk.}}
@@ -466,15 +466,15 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 ===Verb===
 {{en-verb}}
 
-# {{context|transitive|lang=en}} To add salt to.
+# {{label|en|transitive}} To add salt to.
 #: ''to '''salt''' fish, beef, or pork''
-# {{context|intransitive|lang=en}} To deposit salt as a saline solution.
+# {{label|en|intransitive}} To deposit salt as a saline solution.
 #: ''The brine begins to '''salt'''.''
-# {{context|mining|lang=en}} To blast gold into {{qualifier|as a portion of a mine}} in order to cause to appear to be a productive seam.
-# {{context|cryptography|lang=en}} To add filler bytes before encrypting, in order to make brute-force decryption more resource-intensive.
+# {{label|en|mining}} To blast gold into {{qualifier|as a portion of a mine}} in order to cause to appear to be a productive seam.
+# {{label|en|cryptography}} To add filler bytes before encrypting, in order to make brute-force decryption more resource-intensive.
 # To include colorful language in.
 # To insert or inject something into an object to give it properties it would not naturally have.
-# {{context|archaeology|lang=en}} To add [[bogus]] evidence to an archeological site.
+# {{label|en|archaeology}} To add [[bogus]] evidence to an archeological site.
 # To fill with salt between the timbers and planks, as a ship, for the [[preservation]] of the [[timber]].
 
 ====Antonyms====
@@ -585,7 +585,7 @@ From {{etyl|ang|en}} {{term|sealt|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-p
 * {{IPA|/ˈsaɫ/|lang=ca}}
 
 ===Etymology===
-From {{etyl|la|ca}} {{term|saltus|lang=ca}}.
+From {{etyl|la|ca}} {{m|ca|saltus}}.
 
 ===Noun===
 {{ca-noun|m}}
@@ -614,7 +614,7 @@ From {{etyl|gem-pro|gme-cgo}} {{m|gem-pro|*saltą}}, from {{etyl|ine-pro|gme-cgo
 ==Danish==
 
 ===Etymology 1===
-From {{etyl|non|da}} {{term|saltr||salt|lang=non}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}, {{m|ine-pro|*sáls}}.
+From {{etyl|non|da}} {{m|non|saltr||salt}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}, {{m|ine-pro|*sáls}}.
 
 ====Pronunciation====
 * {{IPA|/salt/|[salˀd̥]|lang=da}}
@@ -625,7 +625,7 @@ From {{etyl|non|da}} {{term|saltr||salt|lang=non}}, from {{etyl|ine-pro|da}} {{m
 # [[salty#English|salty]], {{l|en|salt}}
 
 ===Etymology 2===
-From {{etyl|non|da}} {{term|salt|lang=non}} (akin to Old Saxon {{term|salt|lang=osx}}, Old High German {{term|salz|lang=goh}}, Old Dutch ''salt'', Old English {{term|sealt|lang=ang}}), from {{etyl|gem-pro|da}} {{m|gem-pro|*saltą}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}. Compare Icelandic, Norwegian, and Swedish {{term|salt|lang=is}}.
+From {{etyl|non|da}} {{m|non|salt}} (akin to Old Saxon {{m|osx|salt}}, Old High German {{m|goh|salz}}, Old Dutch ''salt'', Old English {{m|ang|sealt}}), from {{etyl|gem-pro|da}} {{m|gem-pro|*saltą}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}. Compare Icelandic, Norwegian, and Swedish {{m|is|salt}}.
 
 ====Pronunciation====
 * {{IPA|/salt/|[salˀd̥]|lang=da}}
@@ -661,7 +661,7 @@ From {{etyl|non|da}} {{term|salt|lang=non}} (akin to Old Saxon {{term|salt|lang=
 * {{IPA|[sal̥t]|lang=fo}}
 
 ===Etymology 1===
-From {{etyl|non|fo}} {{term|salt|lang=non}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*saltą}}, from {{etyl|ine-pro|fo}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}, {{m|ine-pro|*sáls}}.
+From {{etyl|non|fo}} {{m|non|salt}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*saltą}}, from {{etyl|ine-pro|fo}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}, {{m|ine-pro|*sáls}}.
 
 ====Noun====
 {{fo-noun|n|salts|sølt}}
@@ -686,7 +686,7 @@ From {{etyl|non|fo}} {{term|salt|lang=non}}, from {{etyl|gem-pro|fo}} {{m|gem-pr
 * {{l|fo|siropur}}
 
 ===Etymology 2===
-From {{etyl|non|fo}} {{term|saltr||salt|lang=non}}, from {{etyl|ine-pro|fo}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}, {{m|ine-pro|*sáls}}.
+From {{etyl|non|fo}} {{m|non|saltr||salt}}, from {{etyl|ine-pro|fo}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}, {{m|ine-pro|*sáls}}.
 
 ====Adjective====
 {{fo-adj}}
@@ -704,7 +704,7 @@ From {{etyl|non|fo}} {{term|saltr||salt|lang=non}}, from {{etyl|ine-pro|fo}} {{m
 ==Friulian==
 
 ===Etymology===
-From {{etyl|la|fur}} {{term|saltus|lang=ca}}.
+From {{etyl|la|fur}} {{m|ca|saltus}}.
 
 ===Noun===
 {{fur-noun|m}}
@@ -733,7 +733,7 @@ From {{etyl|la|fur}} {{term|saltus|lang=ca}}.
 * {{rhymes|al̥t|lang=is}}
 
 ===Etymology===
-From {{etyl|non|is}} {{term|salt|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*saltą}}, from {{etyl|ine-pro|is}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}, {{m|ine-pro|*sáls}}.
+From {{etyl|non|is}} {{m|non|salt}}, from {{etyl|gem-pro|is}} {{m|gem-pro|*saltą}}, from {{etyl|ine-pro|is}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}, {{m|ine-pro|*sáls}}.
 
 ===Noun===
 {{is-noun|n|salts|sölt}}
@@ -761,7 +761,7 @@ From {{etyl|non|is}} {{term|salt|lang=non}}, from {{etyl|gem-pro|is}} {{m|gem-pr
 ==Latvian==
 
 ===Etymology===
-From {{etyl|ine-pro|lv}} {{m|ine-pro|*ḱel-||cold; hot}}. Cognates include {{etyl|lt|-}} {{term|šálti|lang=lt}}.
+From {{etyl|ine-pro|lv}} {{m|ine-pro|*ḱel-||cold; hot}}. Cognates include {{etyl|lt|-}} {{m|lt|šálti}}.
 
 ===Pronunciation===
 {{rfap|lang=lv}}
@@ -783,7 +783,7 @@ From {{etyl|ine-pro|lv}} {{m|ine-pro|*ḱel-||cold; hot}}. Cognates include {{et
 {{rfp|lang=nb}}
 
 ===Etymology 1===
-From {{etyl|non|nb}} {{term|saltr|lang=non}}.
+From {{etyl|non|nb}} {{m|non|saltr}}.
 
 ====Adjective====
 {{head|nb|adjective|neuter singular|salt|definite singular and plural|salte|comparative|saltere|indefinite superlative|saltest|definite superlative|salteste}}
@@ -792,7 +792,7 @@ From {{etyl|non|nb}} {{term|saltr|lang=non}}.
 #: '''''salte''' peanøtter - salted peanuts''
 
 ===Etymology 2===
-From {{etyl|non|nb}} {{term|salt|lang=non}} (akin to Old Saxon {{term|salt|lang=osx}}, Old High German {{term|salz|lang=goh}}, Old Dutch ''salt'', Old English {{term|sealt|lang=ang}}), from {{etyl|gem-pro|nb}} {{m|gem-pro|*saltą}}, from {{etyl|ine-pro|nb}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}. Compare Danish, Norwegian, and Swedish {{term|salt|lang=is}}.
+From {{etyl|non|nb}} {{m|non|salt}} (akin to Old Saxon {{m|osx|salt}}, Old High German {{m|goh|salz}}, Old Dutch ''salt'', Old English {{m|ang|sealt}}), from {{etyl|gem-pro|nb}} {{m|gem-pro|*saltą}}, from {{etyl|ine-pro|nb}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}. Compare Danish, Norwegian, and Swedish {{m|is|salt}}.
 
 ====Noun====
 {{nb-noun-n2}}
@@ -822,7 +822,7 @@ From {{etyl|non|nb}} {{term|salt|lang=non}} (akin to Old Saxon {{term|salt|lang=
 {{wikipedia|lang=nn}}
 
 ===Etymology 1===
-From {{etyl|non|nn}} {{term|saltr|lang=non}}.
+From {{etyl|non|nn}} {{m|non|saltr}}.
 
 ====Adjective====
 {{head|nn|adjective|neuter singular|salt|definite singular and plural|salte|comparative|saltare|indefinite superlative|saltast|definite superlative|saltaste}}
@@ -830,7 +830,7 @@ From {{etyl|non|nn}} {{term|saltr|lang=non}}.
 # {{l|en|salty}}, {{l|en|salt}}, {{l|en|salted}}
 
 ===Etymology 2===
-From {{etyl|non|nn}} {{term|salt|lang=non}} (akin to Old Saxon {{term|salt|lang=osx}}, Old High German {{term|salz|lang=goh}}, Old Dutch ''salt'', Old English {{term|sealt|lang=ang}}), from {{etyl|gem-pro|nn}} {{m|gem-pro|*saltą}}, from {{etyl|ine-pro|nn}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}.
+From {{etyl|non|nn}} {{m|non|salt}} (akin to Old Saxon {{m|osx|salt}}, Old High German {{m|goh|salz}}, Old Dutch ''salt'', Old English {{m|ang|sealt}}), from {{etyl|gem-pro|nn}} {{m|gem-pro|*saltą}}, from {{etyl|ine-pro|nn}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}.
 
 ====Noun====
 {{nn-noun-n1}}
@@ -903,7 +903,7 @@ From {{inh|ofs|gem-pro|*saltą||salt}}, {{m|gem-pro|*saltaz||salty, salted}}.
 {{rfp|lang=ro}}
 
 ===Etymology===
-From {{etyl|la|ro}} {{term|saltus|lang=la}}.
+From {{etyl|la|ro}} {{m|la|saltus}}.
 
 ===Noun===
 {{ro-noun|n|salturi}}
@@ -927,7 +927,7 @@ From {{etyl|la|ro}} {{term|saltus|lang=la}}.
 ==Swedish==
 
 ===Etymology 1===
-From {{etyl|non|sv}} {{term|saltr|lang=non}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*saltaz}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}, {{m|ine-pro|*sáls}}.
+From {{etyl|non|sv}} {{m|non|saltr}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*saltaz}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}, {{m|ine-pro|*sáls}}.
 
 ====Pronunciation====
 * {{IPA|/salt/|lang=sv}}
@@ -942,7 +942,7 @@ From {{etyl|non|sv}} {{term|saltr|lang=non}}, from {{etyl|gem-pro|sv}} {{m|gem-p
 {{sv-adj-reg|2=salt}}
 
 ===Etymology 2===
-From {{etyl|non|sv}} {{term|salt|lang=non}} (akin to Old Saxon {{term|salt|lang=osx}}, Old High German {{term|salz|lang=goh}}, Old Dutch ''salt'', Old English {{term|sealt|lang=ang}}), from {{etyl|gem-pro|sv}} {{m|gem-pro|*saltą}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}. Compare Danish, Icelandic, Norwegian {{term|salt|lang=da}}.
+From {{etyl|non|sv}} {{m|non|salt}} (akin to Old Saxon {{m|osx|salt}}, Old High German {{m|goh|salz}}, Old Dutch ''salt'', Old English {{m|ang|sealt}}), from {{etyl|gem-pro|sv}} {{m|gem-pro|*saltą}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*seh₂l-|*séh₂l-}}, {{m|ine-pro|*séh₂ls}}. Compare Danish, Icelandic, Norwegian {{m|da|salt}}.
 
 ====Pronunciation====
 {{rfp|lang=sv}}
@@ -951,8 +951,8 @@ From {{etyl|non|sv}} {{term|salt|lang=non}} (akin to Old Saxon {{term|salt|lang=
 {{sv-noun|n}}
 
 # {{l|en|salt}}
-## {{context|uncountable|lang=sv}} [[sodium chloride]] (NaCl), used extensively as a condiment and preservative.
-## {{context|chemistry|lang=sv}} One of the compounds formed from the reaction of an acid with a base, where a positive ion replaces a hydrogen of the acid.
+## {{label|sv|uncountable}} [[sodium chloride]] (NaCl), used extensively as a condiment and preservative.
+## {{label|sv|chemistry}} One of the compounds formed from the reaction of an acid with a base, where a positive ion replaces a hydrogen of the acid.
 
 =====Declension=====
 {{sv-infl-noun-n-r|2=salte}}
@@ -986,7 +986,7 @@ From {{etyl|non|sv}} {{term|salt|lang=non}} (akin to Old Saxon {{term|salt|lang=
 ===Adverb===
 {{tr-adv}}
 
-# {{context|obsolete|lang=tr}} [[exclusively]]
+# {{label|tr|obsolete}} [[exclusively]]
 
 ====Synonyms====
 {{syn-top4}}
