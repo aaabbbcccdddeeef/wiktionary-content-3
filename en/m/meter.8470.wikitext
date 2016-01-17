@@ -6,7 +6,7 @@
 * [[metre]] (Commonwealth English for noun senses 4 to 7, rare for other senses)
 
 ===Etymology===
-From {{etyl|fr|en}} {{term|mètre|lang=fr}}, from {{etyl|grc|en}} {{term|μέτρον||measure|lang=grc}}
+From {{etyl|fr|en}} {{m|fr|mètre}}, from {{etyl|grc|en}} {{m|grc|μέτρον||measure}}
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈmiːtə(ɹ)/|lang=en}}
@@ -21,17 +21,17 @@ From {{etyl|fr|en}} {{term|mètre|lang=fr}}, from {{etyl|grc|en}} {{term|μέτ�
 # (''always'' '''meter''') A device that measures things.
 # (''always'' '''meter''') A [[parking meter]] or similar device for collecting payment.
 #: ''gas '''meter'''''
-# (''always'' '''meter''') {{context|dated|lang=en}} One who [[mete]]s or [[measure]]s.
-#: {{usex|a labouring coal-'''meter'''|lang=en}}
-# {{context|chiefly|US|elsewhere [[metre]]|lang=en}} The [[base unit]] of [[length]] in the [[International System of Units]] ([[SI]]), conceived of as 1/10000000 of the distance from the [[North Pole]] to the [[Equator]], and now defined as the distance light will travel in a [[vacuum]] in 1/299792458 [[second]].
+# (''always'' '''meter''') {{label|en|dated}} One who [[mete]]s or [[measure]]s.
+#: {{ux|en|a labouring coal-'''meter'''}}
+# {{label|en|chiefly|US|elsewhere [[metre]]}} The [[base unit]] of [[length]] in the [[International System of Units]] ([[SI]]), conceived of as 1/10000000 of the distance from the [[North Pole]] to the [[Equator]], and now defined as the distance light will travel in a [[vacuum]] in 1/299792458 [[second]].
 #* {{quote-magazine|year=2013|month=May-June|author=[http://www.americanscientist.org/authors/detail/william-e-conner-1 William E. Conner]
 |title=[http://www.americanscientist.org/issues/feature/2013/3/an-acoustic-arms-race An Acoustic Arms Race]
 |volume=101|issue=3|page=206-7|magazine={{w|American Scientist}}
 |passage=Earless ghost swift moths become “invisible” to echolocating bats by forming mating clusters close (less than half a '''meter''') above vegetation and effectively blending into the clutter of echoes that the bat receives from the leaves and stems around them.}}
-# {{context|chiefly|US|elsewhere [[metre]]|lang=en}} {{context|music|lang=en}} An [[increment]] of music; the overall [[rhythm]]; particularly, the number of [[beat]]s in a [[measure]].
-# {{context|chiefly|US|elsewhere [[metre]]|prosody|lang=en}} The [[rhythm]] [[pattern]] in a [[poem]].
-# {{context|chiefly|US|elsewhere [[metre]]|lang=en}} A line above or below a hanging net, to which the net is attached in order to strengthen it.
-# {{context|obsolete|lang=en}} A poem.
+# {{label|en|chiefly|US|elsewhere [[metre]]}} {{label|en|music}} An [[increment]] of music; the overall [[rhythm]]; particularly, the number of [[beat]]s in a [[measure]].
+# {{label|en|chiefly|US|elsewhere [[metre]]|prosody}} The [[rhythm]] [[pattern]] in a [[poem]].
+# {{label|en|chiefly|US|elsewhere [[metre]]}} A line above or below a hanging net, to which the net is attached in order to strengthen it.
+# {{label|en|obsolete}} A poem.
 #: {{rfquotek|Robynson (More's Utopia)}}
 
 ====Derived terms====
@@ -308,7 +308,7 @@ From {{etyl|la|lld}} {{m|la|mittere}}, present active infinitive of {{m|la|mitt�
 * {{l|pt|metter}} {{qualifier|obsolete}}
 
 ===Etymology===
-From {{etyl|roa-opt|pt}} {{term|meter|lang=roa-opt}}, from {{etyl|la|pt}} {{term|mittere|lang=la}}, present active infinitive of {{m|la|mittō||I send, I put}}, from {{etyl|ine-pro|pt}} {{m|ine-pro|*meyth₂-}}, {{m|ine-pro|*mith₂-||to exchange, remove}}.
+From {{etyl|roa-opt|pt}} {{m|roa-opt|meter}}, from {{etyl|la|pt}} {{m|la|mittere}}, present active infinitive of {{m|la|mittō||I send, I put}}, from {{etyl|ine-pro|pt}} {{m|ine-pro|*meyth₂-}}, {{m|ine-pro|*mith₂-||to exchange, remove}}.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|/mɨˈteɾ/|lang=pt}}
@@ -332,7 +332,7 @@ From {{etyl|roa-opt|pt}} {{term|meter|lang=roa-opt}}, from {{etyl|la|pt}} {{term
 ==Spanish==
 
 ===Etymology===
-From {{etyl|la|es}} {{term|mittere|lang=la}}, present active infinitive of {{m|la|mittō||I send, I put}}, from {{etyl|ine-pro|es}} {{m|ine-pro|*meyth₂-}}, {{m|ine-pro|*mith₂-||to exchange, remove}}.
+From {{etyl|la|es}} {{m|la|mittere}}, present active infinitive of {{m|la|mittō||I send, I put}}, from {{etyl|ine-pro|es}} {{m|ine-pro|*meyth₂-}}, {{m|ine-pro|*mith₂-||to exchange, remove}}.
 
 ===Pronunciation===
 {{IPA|[me̞ˈte̞ɾ]|lang=es}}
@@ -341,7 +341,7 @@ From {{etyl|la|es}} {{term|mittere|lang=la}}, present active infinitive of {{m|l
 {{es-verb|met|er}}
 
 # to [[put]], to [[insert]]
-# {{context|reflexive|lang=es}} to [[meddle]], [[interfere]]
+# {{label|es|reflexive}} to [[meddle]], [[interfere]]
 
 ====Conjugation====
 {{es-conj-er|met}}
@@ -378,7 +378,7 @@ From {{etyl|la|es}} {{term|mittere|lang=la}}, present active infinitive of {{m|l
 {{sv-noun|c}}
 
 # a [[metre]]; the SI-unit
-# {{context|music|lang=sv}} Rhythm or measure in verse
+# {{label|sv|music}} Rhythm or measure in verse
 # a [[#English|meter]]; a device that measures things.
 
 ====Declension====
