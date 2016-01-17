@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|enm|en}} {{term|field|lang=enm}}, {{term|feeld|lang=enm}}, {{term|feld|lang=enm}}, from {{etyl|ang|en}} {{term|feld||field; open or cultivated land, plain; battlefield|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*felþuz}}, {{m|gem-pro|*felþaz}}, {{m|gem-pro|*felþą||field}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*pelh₂-||field, plain}}. Cognate with {{etyl|sco|-}} {{term|feld|lang=sco}}, {{term|feild||field|lang=sco}}, {{etyl|frr|-}} {{term|fjild||field|lang=frr}}, West Frisian {{term|fjild||field|lang=fy}}, Dutch {{term|veld||field|lang=nl}}, German {{term|Feld||field|lang=de}}, Swedish {{term|fält||field|lang=sv}}. Related also to {{etyl|ang|-}} {{term|folde||earth, land, territory|lang=ang}}, {{etyl|ang|-}} {{term|folm||palm of the hand|lang=ang}}. More at ''[[fold]]''.
+From {{etyl|enm|en}} {{m|enm|field}}, {{m|enm|feeld}}, {{m|enm|feld}}, from {{etyl|ang|en}} {{m|ang|feld||field; open or cultivated land, plain; battlefield}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*felþuz}}, {{m|gem-pro|*felþaz}}, {{m|gem-pro|*felþą||field}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*pelh₂-||field, plain}}. Cognate with {{etyl|sco|-}} {{m|sco|feld}}, {{m|sco|feild||field}}, {{etyl|frr|-}} {{m|frr|fjild||field}}, West Frisian {{m|fy|fjild||field}}, Dutch {{m|nl|veld||field}}, German {{m|de|Feld||field}}, Swedish {{m|sv|fält||field}}. Related also to {{etyl|ang|-}} {{m|ang|folde||earth, land, territory}}, {{etyl|ang|-}} {{m|ang|folm||palm of the hand}}. More at ''[[fold]]''.
 
 ===Pronunciation===
 * {{IPA|/fiːld/|lang=en}}
@@ -491,10 +491,10 @@ In the mathematical sense, some languages, such as French, use a term that liter
 ===Verb===
 {{en-verb}}
 
-# {{context|transitive|sports|lang=en}} To intercept or catch (a ball) and play it.
-# {{context|baseball|softball|cricket|and other batting sports|lang=en}} To be the team catching and throwing the ball, as opposed to hitting it.
+# {{label|en|transitive|sports}} To intercept or catch (a ball) and play it.
+# {{label|en|baseball|softball|cricket|and other batting sports}} To be the team catching and throwing the ball, as opposed to hitting it.
 #: ''The blue team are '''fielding''' first, while the reds are batting.''
-# {{context|transitive|sports|lang=en}} To place a team in (a game).
+# {{label|en|transitive|sports}} To place a team in (a game).
 #* {{quote-news
 |year=2012
 |date=August 23
@@ -505,13 +505,13 @@ In the mathematical sense, some languages, such as French, use a term that liter
 |page=
 |passage=On balance, it was harsh on Hearts, who had given as good as they got against their more-fancied opponents, who, despite not being at full strength, '''fielded''' a multi-million pound team.}}
 #: ''The away team '''field'''ed two new players and the second-choice goalkeeper.''
-# {{context|transitive|lang=en}} To [[answer]]; to [[address]].
+# {{label|en|transitive}} To [[answer]]; to [[address]].
 #: ''She will '''field''' questions immediately after her presentation.''
-# {{context|transitive|lang=en}} To [[defeat]].
-#: {{usex|They '''fielded''' a fearsome army.|lang=en}}
-# {{context|transitive|lang=en}} To [[execute]] research (in the field).
-#: {{usex|He '''fielded''' the marketing survey about the upcoming product.|lang=en}}
-# {{cx|transitive|military|lang=en}} To [[deploy]] in the field.
+# {{label|en|transitive}} To [[defeat]].
+#: {{ux|en|They '''fielded''' a fearsome army.}}
+# {{label|en|transitive}} To [[execute]] research (in the field).
+#: {{ux|en|He '''fielded''' the marketing survey about the upcoming product.}}
+# {{lb|en|transitive|military}} To [[deploy]] in the field.
 
 ====Synonyms====
 * {{sense|intercept or catch (a ball) and play it}}
