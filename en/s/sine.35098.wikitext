@@ -14,7 +14,7 @@ From {{etyl|la|en}} {{m|la|sinus}}, translation of {{etyl|ar|en}} {{m|ar|جَي�
 ===Noun===
 {{en-noun}}
 
-# {{context|trigonometry|mathematics|lang=en}} In a [[right triangle]], the [[ratio]] of the [[length]] of the [[side]] [[opposite]] an [[angle]] to the length of the [[hypotenuse]].
+# {{label|en|trigonometry|mathematics}} In a [[right triangle]], the [[ratio]] of the [[length]] of the [[side]] [[opposite]] an [[angle]] to the length of the [[hypotenuse]].
 
 ====Usage notes====
 In various branches of mathematics, the sine of an angle is determined in various ways, including the following:
@@ -149,8 +149,8 @@ From {{inh|ga|sga|sine||teat, dug, pap}}, from {{inh|ga|cel-pro|*sɸenyo-}}, fro
 ====Preposition====
 {{head|la|preposition}}
 
-# {{context|with ablative|lang=la}} [[without]]
-#: {{usex|Sum '''sine''' regno.|t=I am without a kingdom.|lang=la}}
+# {{label|la|with ablative}} [[without]]
+#: {{ux|la|Sum '''sine''' regno.|t=I am without a kingdom.}}
 
 ====Derived terms====
 {{der3|sine causā|sine diē|sine nōmine|sine prōle|decessit sine parole|sum sine regno|injuria sine damno|lang=la}}
@@ -269,12 +269,12 @@ From {{etyl|la|ro}} {{m|la|sē}}, as with {{m|ro|mine}}, {{m|ro|tine}}.
 * {{IPA|/ˈʃinə/|lang=gd}}
 
 ===Etymology 1===
-From {{etyl|sga|gd}} {{term|sine||teat, dug, pap|lang=sga}}, from {{etyl|cel-pro|gd}} {{m|cel-pro|*sɸenyo-}}, from {{etyl|ine-pro|gd}} {{m|ine-pro|*pstḗn}}. Cognate with Old Norse {{term|speni||teat|lang=non}}, English {{term|spean||teat (of a cow)|lang=en}}.
+From {{etyl|sga|gd}} {{m|sga|sine||teat, dug, pap}}, from {{etyl|cel-pro|gd}} {{m|cel-pro|*sɸenyo-}}, from {{etyl|ine-pro|gd}} {{m|ine-pro|*pstḗn}}. Cognate with Old Norse {{m|non|speni||teat}}, English {{m|en|spean||teat (of a cow)}}.
 
 ====Noun====
 {{gd-noun|g=f|gen=sine|pl=sinean}}
 
-# {{context|anatomy|lang=gd}} [[nipple]], [[teat]]
+# {{label|gd|anatomy}} [[nipple]], [[teat]]
 
 ===Etymology 2===
 {{borrowing|en|gin|lang=gd}}.
