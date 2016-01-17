@@ -42,11 +42,11 @@ From {{inh|en|enm|sense}}, from {{der|en|fro|[[sens]], [[sen]], [[san]]||sense, 
 #*: I think 'twas in another '''sense'''.
 # {{senseid|en|natural ability}}A natural [[appreciation]] or [[ability]].
 #: ''A keen musical '''sense'''''
-# {{senseid|en|pragmatics term}}{{context|pragmatics|lang=en}} The way that a [[referent]] is presented.
-# {{senseid|en|semantics term}}{{context|semantics|lang=en}} A single conventional use of a word; one of the entries for a word in a dictionary.
-# {{senseid|en|math: direction of a vector}}{{context|mathematics|lang=en}} One of two opposite directions in which a vector (especially of motion) may point. See also [[polarity]].
-# {{senseid|en|math: direction of rotation}}{{context|mathematics|lang=en}} One of two opposite directions of rotation, [[clockwise]] versus [[anti-clockwise]].
-# {{senseid|en|biochemistry}}{{cx|biochemistry|lang=en}} referring to the strand of a nucleic acid that directly specifies the product.
+# {{senseid|en|pragmatics term}}{{label|en|pragmatics}} The way that a [[referent]] is presented.
+# {{senseid|en|semantics term}}{{label|en|semantics}} A single conventional use of a word; one of the entries for a word in a dictionary.
+# {{senseid|en|math: direction of a vector}}{{label|en|mathematics}} One of two opposite directions in which a vector (especially of motion) may point. See also [[polarity]].
+# {{senseid|en|math: direction of rotation}}{{label|en|mathematics}} One of two opposite directions of rotation, [[clockwise]] versus [[anti-clockwise]].
+# {{senseid|en|biochemistry}}{{lb|en|biochemistry}} referring to the strand of a nucleic acid that directly specifies the product.
 
 ====Hyponyms====
 * See also [[Wikisaurus:sense]]
@@ -413,7 +413,7 @@ From {{inh|en|enm|sense}}, from {{der|en|fro|[[sens]], [[sen]], [[san]]||sense, 
 * {{l|ca|sens}}
 
 ===Etymology===
-Ultimately from {{etyl|la|ca}} {{term|sine|lang=la}}, probably conflated with {{m|ca|absentia}}. Compare French {{m|fr|sans}}, Occitan {{m|oc|sens}}, Italian {{m|it|senza}}.
+Ultimately from {{etyl|la|ca}} {{m|la|sine}}, probably conflated with {{m|ca|absentia}}. Compare French {{m|fr|sans}}, Occitan {{m|oc|sens}}, Italian {{m|it|senza}}.
 
 ===Pronunciation===
 * {{IPA|/ˈsensə/|lang=ca}}
