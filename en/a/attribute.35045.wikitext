@@ -12,22 +12,22 @@
 ** {{audio|en-us-attribute-verb.ogg|Audio (US)|lang=en}}
 
 ===Etymology===
-From {{etyl|la|en}} {{term|attributus|lang=la}} past participle of {{m|la|attribuere}}.
+From {{etyl|la|en}} {{m|la|attributus}} past participle of {{m|la|attribuere}}.
 
 ===Noun===
 {{en-noun}}
 
 # A [[characteristic]] or [[quality]] of a thing.
 #: ''His finest '''attribute''' is his kindness.''
-# {{context|grammar|lang=en}} A word that qualifies a [[noun]], a [[qualifier]].
+# {{label|en|grammar}} A word that qualifies a [[noun]], a [[qualifier]].
 #: ''In the clause "My jacket is more expensive than yours", "My" is the '''attribute''' of "jacket".''
-# {{context|logic|lang=en}} That which is predicated or affirmed of a subject; a [[predicate]]; an [[accident]].<!--From Century 1911.-->
-# {{context|computing|lang=en}} An [[option]] or [[setting]] belonging to some [[object]].
+# {{label|en|logic}} That which is predicated or affirmed of a subject; a [[predicate]]; an [[accident]].<!--From Century 1911.-->
+# {{label|en|computing}} An [[option]] or [[setting]] belonging to some [[object]].
 #: ''This packet has its coherency '''attribute''' set to zero.''
 #: ''A file with the read-only '''attribute''' set cannot be overwritten.''
-# {{context|computing|programming|lang=en}} A [[semantic]] item with which a [[method]] or other code element may be [[decorate]]d.
+# {{label|en|computing|programming}} A [[semantic]] item with which a [[method]] or other code element may be [[decorate]]d.
 #: ''Properties can marked as obsolete with an '''attribute''', which will cause the compiler to generate a warning if they are used.''
-# {{cx|computer graphics|dated|lang=en}} A [[numeric]] [[value]] representing the [[colour]]s of part of the [[screen]] [[display]].
+# {{lb|en|computer graphics|dated}} A [[numeric]] [[value]] representing the [[colour]]s of part of the [[screen]] [[display]].
 #* '''1987''', Marcus Berkmann, ''Sceptre Of Bagdad'' (video game review) in ''Your Sinclair'' issue 17
 #*: {{...}} you can only carry two objects, your '''attributes''' clash when you walk past multi-coloured objects and your enemies fly up and down from the ceiling.
 #* '''1989''', ''PC: The Independent Guide to IBM Personal Computers''
