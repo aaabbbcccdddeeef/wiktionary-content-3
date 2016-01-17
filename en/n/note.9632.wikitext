@@ -9,7 +9,7 @@
 * {{rhymes|əʊt|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{term|note|lang=enm}}, from {{etyl|ang|en}} {{term|not|lang=ang}}, {{m|ang|nōt||note, mark, sign}} and {{etyl|fro|en}} {{term|note||lang=fro|letter, note}}, both from {{etyl|la|en}} {{term|nota|lang=la||mark, sign, remark, note}}.
+From {{etyl|enm|en}} {{m|enm|note}}, from {{etyl|ang|en}} {{m|ang|not}}, {{m|ang|nōt||note, mark, sign}} and {{etyl|fro|en}} {{m|fro|note||letter, note}}, both from {{etyl|la|en}} {{m|la|nota||mark, sign, remark, note}}.
 
 ====Noun====
 {{en-noun|~}}
@@ -323,16 +323,16 @@ From {{etyl|enm|en}} {{term|note|lang=enm}}, from {{etyl|ang|en}} {{term|not|lan
 ====Verb====
 {{en-verb|not}}
 
-# {{context|transitive|lang=en}} To notice with care; to [[observe]]; to [[remark]]; to [[heed]].
-#: {{usex|If you look to the left, you can '''note''' the old cathedral.|lang=en}}
-# {{context|transitive|lang=en}} To record in writing; to make a memorandum of.
-#: {{usex|We '''noted''' his speech.|lang=en}}
-# {{context|transitive|lang=en}} To [[denote]]; to [[designate]].
-#: {{usex|The modular multiplicative inverse of ''x'' may be '''noted''' ''x''<sup>-1</sup>.|lang=en}}
-# {{context|transitive|lang=en}} To [[annotate]].
+# {{label|en|transitive}} To notice with care; to [[observe]]; to [[remark]]; to [[heed]].
+#: {{ux|en|If you look to the left, you can '''note''' the old cathedral.}}
+# {{label|en|transitive}} To record in writing; to make a memorandum of.
+#: {{ux|en|We '''noted''' his speech.}}
+# {{label|en|transitive}} To [[denote]]; to [[designate]].
+#: {{ux|en|The modular multiplicative inverse of ''x'' may be '''noted''' ''x''<sup>-1</sup>.}}
+# {{label|en|transitive}} To [[annotate]].
 #: {{rfquotek|W. H. Dixon}}
-# {{context|transitive|lang=en}} To set down in musical characters.
-# {{context|transitive|lang=en}} To record on the back of (a bill, draft, etc.) a refusal of acceptance, as the ground of a protest, which is done officially by a [[notary]].
+# {{label|en|transitive}} To set down in musical characters.
+# {{label|en|transitive}} To record on the back of (a bill, draft, etc.) a refusal of acceptance, as the ground of a protest, which is done officially by a [[notary]].
 
 =====Derived terms=====
 * [[note down]]
@@ -411,9 +411,9 @@ From {{etyl|enm|en}} {{term|note|lang=enm}}, from {{etyl|ang|en}} {{term|not|lan
 ====Verb====
 {{head|en|verb}}
 
-# {{rfv-sense}} {{context|obsolete|lang=en}} {{contraction of|[[ne]] [[mote]]||may not|lang=en}}
+# {{rfv-sense}} {{label|en|obsolete}} {{contraction of|[[ne]] [[mote]]||may not|lang=en}}
 #* '''1590''', {{w|Edmund Spenser}}, ''The Faerie Queene'', III.3:
-#*: {{usex|There Merlin stayd, / As overcomen of the spirites powre, / Or other ghastly spectacle dismayd, / That secretly he saw, yet '''note''' discoure [...].|lang=en}}
+#*: {{ux|en|There Merlin stayd, / As overcomen of the spirites powre, / Or other ghastly spectacle dismayd, / That secretly he saw, yet '''note''' discoure [...].}}
 
 ===Etymology 3===
 From {{etyl|ang|en}}.
@@ -473,7 +473,7 @@ From {{etyl|en|da}} {{m|en|note}}, from {{etyl|it|da}} {{m|it|nota}}, from {{ety
 ====Verb====
 {{head|da|verb}}
 
-# {{context|mechanics|lang=da}} To {{l|en|supply}} a {{l|en|board}} to a {{l|en|groove}}.
+# {{label|da|mechanics}} To {{l|en|supply}} a {{l|en|board}} to a {{l|en|groove}}.
 
 =====Conjugation=====
 {{da-conj-base|noter|notede|not|notende|notet|notes|notedes|notendes|notets}}
@@ -495,7 +495,7 @@ Borrowed from {{etyl|la|fr}} {{m|la|nota}}.
 # {{l|en|note}} {{qualifier|written or spoken}}
 # [[mark]] {{qualifier|UK}}, [[grade]] {{qualifier|US}}
 # [[bill]] {{qualifier|UK, US}}, [[check]] {{qualifier|US}}
-# {{context|music|lang=fr}} {{l|en|note}}
+# {{label|fr|music}} {{l|en|note}}
 # [[touch]], [[hint]], {{l|en|note}}
 
 ====Derived terms====
@@ -574,7 +574,7 @@ From {{etyl|la|nb}} {{m|la|nota}}
 ===Noun===
 {{nb-noun-m1}}
 
-# {{context|music|lang=nb}} a {{l|en|note}}
+# {{label|nb|music}} a {{l|en|note}}
 # a {{l|en|note}} in a book or text
 # a {{l|en|note}} (''communication between governments'')
 # a [[banknote]]
@@ -596,7 +596,7 @@ From {{etyl|la|nn}} {{m|la|nota}}
 ===Noun===
 {{nn-noun-m1}}
 
-# {{context|music|lang=nn}} a {{l|en|note}}
+# {{label|nn|music}} a {{l|en|note}}
 # a {{l|en|note}} in a book or text
 # a {{l|en|note}} {{gloss|communication between governments}}
 # a [[banknote]]
@@ -619,7 +619,7 @@ From {{etyl|la|nn}} {{m|la|nota}}
 ====Noun====
 {{pt-noun|m}}
 
-# {{context|computing|lang=pt}} {{short for|notebook||notebook computer|lang=pt}}
+# {{label|pt|computing}} {{short for|notebook||notebook computer|lang=pt}}
 
 ===Etymology 2===
 
