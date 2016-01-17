@@ -8,7 +8,7 @@
 
 ===Etymology===
 {{PIE root|en|kʷel}}
-From {{etyl|LL.|en}} {{term|cyclus|lang=la}}, from {{etyl|grc|en}} {{term|κύκλος|lang=grc}}, reduplicated form of a {{etyl|ine-pro|en}} {{m|ine-pro|*kʷékʷlos||circle, wheel}}. Cognates include Sanskrit {{term|sc=Deva|चक्र|tr=cakrá|lang=sa}}, Latin {{term|colus|lang=la}}, Old English {{m|ang|hwēol}} (English {{term|wheel|lang=en}}), English {{term|ancillary|lang=en}}
+From {{etyl|LL.|en}} {{m|la|cyclus}}, from {{etyl|grc|en}} {{m|grc|κύκλος}}, reduplicated form of a {{etyl|ine-pro|en}} {{m|ine-pro|*kʷékʷlos||circle, wheel}}. Cognates include Sanskrit {{m|sa|sc=Deva|चक्र|tr=cakrá}}, Latin {{m|la|colus}}, Old English {{m|ang|hwēol}} (English {{m|en|wheel}}), English {{m|en|ancillary}}
 
 ===Noun===
 {{en-noun}}
@@ -23,17 +23,17 @@ From {{etyl|LL.|en}} {{term|cyclus|lang=la}}, from {{etyl|grc|en}} {{term|κύκ
 |title=[http://www.economist.com/news/leaders/21583270-new-zealands-plan-regulate-designer-drugs-better-trying-ban-them-and-failing-new Legal highs: A new prescription]
 |passage=No sooner has a [synthetic] drug been blacklisted than chemists adjust their recipe and start churning out a subtly different one. These &ldquo;legal highs&rdquo; are sold for the few months it takes the authorities to identify and ban them, and then the '''cycle''' begins again.}}
 # The members of the sequence formed by such a process.
-# {{context|music|lang=en}} In musical [[set theory]], an '''interval cycle''' is the set of [[pitch class]]es resulting from repeatedly applying the same [[interval class]] to the starting pitch class.
-#: {{usex|lang=en|The interval '''cycle''' C4 consists of the pitch classes 0, 4 and 8; when starting on E, it is realised as the pitches E, G# and C.}}
+# {{label|en|music}} In musical [[set theory]], an '''interval cycle''' is the set of [[pitch class]]es resulting from repeatedly applying the same [[interval class]] to the starting pitch class.
+#: {{ux|en|The interval '''cycle''' C4 consists of the pitch classes 0, 4 and 8; when starting on E, it is realised as the pitches E, G# and C.}}
 # A series of poems, songs or other works of art.
-#: {{usex|lang=en|The "Ring of the Nibelung" is a '''cycle''' of four operas by Richard Wagner, the famous nineteenth-century German composer.}}
+#: {{ux|en|The "Ring of the Nibelung" is a '''cycle''' of four operas by Richard Wagner, the famous nineteenth-century German composer.}}
 # A [[programme]] on a washing machine, dishwasher, or other such device.
-#: {{usex|lang=en|Put the washing in on a warm '''cycle'''.}}
+#: {{ux|en|Put the washing in on a warm '''cycle'''.}}
 #: ''the spin '''cycle'''''
 # A [[pedal]]-powered vehicle, such as a unicycle, bicycle, or tricycle; or, motorized vehicle that has either two or three wheels, such as a motorbike, motorcycle, motorized tricycle, or motortrike.
-# {{context|baseball|lang=en}} A [[single]], a [[double]], a [[triple]], and a [[home run]] hit by the same player in the same game.
-#: {{usex|lang=en|Jones hit for the '''cycle''' in the game.}}
-# {{context|graph theory|lang=en}} A [[closed]] [[walk]] or [[path]], with or without repeated [[vertices]] allowed.
+# {{label|en|baseball}} A [[single]], a [[double]], a [[triple]], and a [[home run]] hit by the same player in the same game.
+#: {{ux|en|Jones hit for the '''cycle''' in the game.}}
+# {{label|en|graph theory}} A [[closed]] [[walk]] or [[path]], with or without repeated [[vertices]] allowed.
 # An imaginary circle or orbit in the heavens; one of the celestial spheres.
 #: {{rfquotek|Milton}}
 #: {{rfquotek|Burke}}
@@ -43,7 +43,7 @@ From {{etyl|LL.|en}} {{term|cyclus|lang=la}}, from {{etyl|grc|en}} {{term|κύκ
 # An orderly list for a given time; a calendar.
 #* Evelyn
 #*: We {{...}} present our gardeners with a complete '''cycle''' of what is requisite to be done throughout every month of the year.
-# {{context|botany|lang=en}} One entire round in a circle or a spire.
+# {{label|en|botany}} One entire round in a circle or a spire.
 #: ''a '''cycle''' or set of leaves''
 #: {{rfquotek|Gray}}
 
@@ -153,9 +153,9 @@ From {{etyl|LL.|en}} {{term|cyclus|lang=la}}, from {{etyl|grc|en}} {{term|κύκ
 
 # To ride a [[bicycle]] or other [[#Noun|cycle]].
 # To go through a cycle or to put through a cycle.
-# {{context|electronics|lang=en}} To turn [[power]] off and back on
+# {{label|en|electronics}} To turn [[power]] off and back on
 #: ''Avoid '''cycling''' the device unnecessarily.''
-# {{context|ice hockey|lang=en}} To maintain a team's possession of the puck in the offensive zone by handling and passing the puck in a loop from the boards near the goal up the side boards and passing to back to the boards near the goal
+# {{label|en|ice hockey}} To maintain a team's possession of the puck in the offensive zone by handling and passing the puck in a loop from the boards near the goal up the side boards and passing to back to the boards near the goal
 #: ''They have their '''cycling''' game going tonight.''
 
 ====Related terms====
@@ -210,13 +210,13 @@ From {{etyl|LL.|en}} {{term|cyclus|lang=la}}, from {{etyl|grc|en}} {{term|κύκ
 * {{IPA|/sikl/|lang=fr}}
 
 ===Etymology===
-From {{etyl|LL.|fr}} {{term|cyclus|lang=la}}.
+From {{etyl|LL.|fr}} {{m|la|cyclus}}.
 
 ===Noun===
 {{fr-noun|m}}
 
 # {{l|en|cycle}}
-# {{context|Switzerland|lang=fr}} [[middle school]], [[junior high school]]
+# {{label|fr|Switzerland}} [[middle school]], [[junior high school]]
 
 ===External links===
 * {{R:TLFi}}
