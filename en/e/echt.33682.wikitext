@@ -5,7 +5,7 @@
 * {{IPA|/ɛkt/|lang=en}}
 
 ===Etymology===
-From {{etyl|de|en}} {{term|echt||real|lang=de}}. The German term originates from {{etyl|gml|en}} {{term|echt||lawful, genuine|lang=gml}}, contraction of {{term|ehacht|lang=gml}}, variant form of {{term|ehaft||lawful, pertaining to the law|lang=gml}} from {{term|e|ê(e)|law, marriage|lang=gml}}.
+From {{etyl|de|en}} {{m|de|echt||real}}. The German term originates from {{etyl|gml|en}} {{m|gml|echt||lawful, genuine}}, contraction of {{m|gml|ehacht}}, variant form of {{m|gml|ehaft||lawful, pertaining to the law}} from {{m|gml|e|ê(e)|law, marriage}}.
 
 ===Adjective===
 {{en-adj}}
@@ -31,7 +31,7 @@ From {{etyl|de|en}} {{term|echt||real|lang=de}}. The German term originates from
 
 ===Etymology===
 From {{inh|nl|dum|echt}}, from {{inh|nl|odt|*ēhaft}}.
-Cognate to German {{term|echt|lang=de}}.<ref>[[w:Jan de Vries (linguist)|J. de Vries]] & F. de Tollenaere, "Etymologisch Woordenboek", Uitgeverij Het Spectrum, Utrecht, 1986 (14de druk)</ref>
+Cognate to German {{m|de|echt}}.<ref>[[w:Jan de Vries (linguist)|J. de Vries]] & F. de Tollenaere, "Etymologisch Woordenboek", Uitgeverij Het Spectrum, Utrecht, 1986 (14de druk)</ref>
 
 ===Pronunciation===
 * {{rhymes|ɛxt|lang=nl}}
@@ -65,7 +65,7 @@ Cognate to German {{term|echt|lang=de}}.<ref>[[w:Jan de Vries (linguist)|J. de V
 {{nl-noun|m|-|-}}
 
 # [[marriage]]
-#: {{usex|In de echt verbinden|t=to bind in matrimony|lang=nl}}
+#: {{ux|nl|In de echt verbinden|t=to bind in matrimony}}
 
 ===References===
 <references/>
@@ -77,7 +77,7 @@ Cognate to German {{term|echt|lang=de}}.<ref>[[w:Jan de Vries (linguist)|J. de V
 ==German==
 
 ===Etymology===
-From {{etyl|gmh|de}} {{term|echt|lang=gmh}}, borrowed from {{etyl|gml|de}} {{term|echt||lawful, genuine|lang=gml}}. The original form is Middle Low German {{term|ēhaft||lawful|lang=gml}}, from {{term|ē||law|lang=gml}} (related to modern {{term|Ehe|lang=de}}); then {{term|ēhacht|lang=gml}} by the Low German development ''-ft-'' → ''-cht-'' (compare {{term|Nichte|lang=de}}); and eventually contracted into ''echt''. Cognate to {{etyl|goh|-}} {{term|ēhaft||honourable|lang=goh}} and {{etyl|nl|-}} {{term|echt|lang=nl}}.
+From {{etyl|gmh|de}} {{m|gmh|echt}}, borrowed from {{etyl|gml|de}} {{m|gml|echt||lawful, genuine}}. The original form is Middle Low German {{m|gml|ēhaft||lawful}}, from {{m|gml|ē||law}} (related to modern {{m|de|Ehe}}); then {{m|gml|ēhacht}} by the Low German development ''-ft-'' → ''-cht-'' (compare {{m|de|Nichte}}); and eventually contracted into ''echt''. Cognate to {{etyl|goh|-}} {{m|goh|ēhaft||honourable}} and {{etyl|nl|-}} {{m|nl|echt}}.
 
 ===Pronunciation===
 * {{IPA|/ɛçt/|lang=de}}
@@ -87,10 +87,10 @@ From {{etyl|gmh|de}} {{term|echt|lang=gmh}}, borrowed from {{etyl|gml|de}} {{ter
 ===Adjective===
 {{de-adj|er|echtesten}}
 
-# {{context|standard|lang=de}} [[authentic]], [[genuine]], [[true]]
+# {{label|de|standard}} [[authentic]], [[genuine]], [[true]]
 #: ''Die Jacke ist aus '''echtem''' Leder.''
 #:: The jacket is made of '''genuine''' leather.
-# {{context|chiefly|colloquial|lang=de}} [[real]]; [[factual]]
+# {{label|de|chiefly|colloquial}} [[real]]; [[factual]]
 #: ''Der Film ist nah an der '''echten''' Geschichte.''
 #:: The film is close to the '''real''' story.
 
@@ -110,7 +110,7 @@ From {{etyl|gmh|de}} {{term|echt|lang=gmh}}, borrowed from {{etyl|gml|de}} {{ter
 ===Adverb===
 {{de-adv}}
 
-# {{context|chiefly|colloquial|lang=de}} [[really]]; [[indeed]]
+# {{label|de|chiefly|colloquial}} [[really]]; [[indeed]]
 
 ====Synonyms====
 * {{l|de|wirklich}}
