@@ -18,21 +18,21 @@
 # Describes a system which is connected (generally electrically) to a larger network.
 ## Describes a [[generator]] or [[power plant]] which is connected to the [[grid]].
 ## Describes a [[computer]] which is connected to the [[Internet]] or to some other [[communications]] service – i.e., not simply with the cable plugged in, but has established a connection to a larger network (e.g., by dialing up).
-##: {{usex|Is this modem '''online'''?|lang=en}}
+##: {{ux|en|Is this modem '''online'''?}}
 # Available over, or delivered from, the Internet.
 #* {{quote-magazine|title=No hiding place
 |date=2013-05-25|volume=407|issue=8837|page=74|magazine={{w|The Economist}}
 |url=http://www.economist.com/news/science-and-technology/21578357-plan-assess-peoples-personal-characteristics-their-twitter-streams-no
 |passage=In America alone, people spent $170 billion on “direct marketing”—junk mail of both the physical and electronic varieties—last year. Yet of those who received unsolicited adverts through the post, only 3% bought anything as a result. If the bumf arrived electronically, the take-up rate was 0.1%. And for '''online''' adverts the “conversion” into sales was a minuscule 0.01%.}}
-#: {{usex|I prefer to read the '''online''' newspapers.|lang=en}}
+#: {{ux|en|I prefer to read the '''online''' newspapers.}}
 # Connected to the Internet.
-#: {{usex|I'll be '''online''' tonight, so I'll be able to reply to your email.|lang=en}}
+#: {{ux|en|I'll be '''online''' tonight, so I'll be able to reply to your email.}}
 # Available on a computer system, even if not networked.
-#: {{usex|Press the F1 key to access the '''online''' help.|lang=en}}
-#: {{usex|The program comes with an '''online''' manual.|lang=en}}
+#: {{ux|en|Press the F1 key to access the '''online''' help.}}
+#: {{ux|en|The program comes with an '''online''' manual.}}
 # Describes a system that is [[active]], particularly building facilities (such as power) or a factory or power plant.
-#: {{usex|The power is '''online'''.|lang=en}}
-#: {{usex|Once this factory comes '''online,''' it will double car production in our country!|lang=en}}
+#: {{ux|en|The power is '''online'''.}}
+#: {{ux|en|Once this factory comes '''online,''' it will double car production in our country!}}
 
 ====Antonyms====
 * {{sense|connected to larger network}} [[offline]]
@@ -170,7 +170,7 @@
 ==Hungarian==
 
 ===Etymology===
-From {{etyl|en|hu}} {{term|online|lang=en}}.
+From {{etyl|en|hu}} {{m|en|online}}.
 
 ===Pronunciation===
 * {{IPA|/ˈonlaːjn/|lang=hu}}
@@ -207,9 +207,9 @@ From {{etyl|en|hu}} {{term|online|lang=en}}.
 {{pt-adj|pl=online}}
 
 # {{l|en|online}} {{gloss|connected to the Internet}}
-#: {{usex|O computador está '''online'''.|t=The computer is '''online'''.|lang=pt}}
+#: {{ux|pt|O computador está '''online'''.|t=The computer is '''online'''.}}
 # {{l|en|online}} {{gloss|which takes place over the Internet}}
-#: {{usex|Comunicação '''online'''.|t='''Online''' communication.|lang=pt}}
+#: {{ux|pt|Comunicação '''online'''.|t='''Online''' communication.}}
 
 ====Synonyms====
 * {{sense|taking place over the Internet}} {{l|pt|eletrónico}}
