@@ -17,10 +17,10 @@ From {{etyl|frm|en}} {{m|frm|athome}}, from {{etyl|la|en}} {{m|la|atomus||smalle
 ===Noun===
 {{en-noun}}
 
-# {{context|now|_|historical|lang=en}} The smallest medieval unit of [[time]], equal to fifteen ninety-fourths of a [[second]]. {{defdate|from 10th c.}}
-# {{context|history of science|lang=en}} A hypothetical [[particle]] posited by Greek philosophers as an ultimate and indivisible component of [[matter]]. {{defdate|from 15th c.}}
-# {{context|physics|chemistry|lang=en}} The smallest possible amount of [[matter]] which still retains its identity as a chemical element, now known to consist of a [[nucleus]] surrounded by [[electrons]]. {{defdate|from 16th c.}}
-#: {{usex|lang=en|A molecule is a close combination of '''atoms'''.}}
+# {{label|en|now|_|historical}} The smallest medieval unit of [[time]], equal to fifteen ninety-fourths of a [[second]]. {{defdate|from 10th c.}}
+# {{label|en|history of science}} A hypothetical [[particle]] posited by Greek philosophers as an ultimate and indivisible component of [[matter]]. {{defdate|from 15th c.}}
+# {{label|en|physics|chemistry}} The smallest possible amount of [[matter]] which still retains its identity as a chemical element, now known to consist of a [[nucleus]] surrounded by [[electrons]]. {{defdate|from 16th c.}}
+#: {{ux|en|A molecule is a close combination of '''atoms'''.}}
 #* {{quote-magazine|year=2013|month=September-October|author=[http://www.americanscientist.org/authors/detail/katie-l-burke Katie L. Burke]
 |magazine={{w|American Scientist}}|title=[http://www.americanscientist.org/issues/pub/2013/5/in-the-news-47 In the News]
 |passage=Oxygen levels on Earth skyrocketed 2.4 billion years ago, when cyanobacteria evolved photosynthesis:{{...}}. The evolutionary precursor of photosynthesis is still under debate, and a new study sheds light. The critical component of the photosynthetic system is the &ldquo;water-oxidizing complex&rdquo;, made up of manganese '''atoms''' and a calcium '''atom'''.}}
@@ -33,8 +33,8 @@ From {{etyl|frm|en}} {{m|frm|athome}}, from {{etyl|la|en}} {{m|la|atomus||smalle
 #*: "I have hardly the faintest '''atom''' of hope," answered this honest, earnest man.
 #* {{RQ:Orwell Animal Farm|1}}
 #*: {{...}} those of us who are capable of it are forced to work to the last '''atom''' of our strength
-# {{context|mathematics|lang=en}} A non-zero member of a {{w|Boolean algebra}} that is not a [[union]] of any other elements. {{defdate|from 20th c.}}
-# {{context|computing|programming|[[Lisp]]|lang=en}} An individual [[number]] or [[symbol]], as opposed to a [[list]]. A [[scalar]] value.
+# {{label|en|mathematics}} A non-zero member of a {{w|Boolean algebra}} that is not a [[union]] of any other elements. {{defdate|from 20th c.}}
+# {{label|en|computing|programming|[[Lisp]]}} An individual [[number]] or [[symbol]], as opposed to a [[list]]. A [[scalar]] value.
 
 ====Synonyms====
 * See also [[Wikisaurus:atom]]
@@ -233,7 +233,7 @@ From {{etyl|frm|en}} {{m|frm|athome}}, from {{etyl|la|en}} {{m|la|atomus||smalle
 ===Noun===
 {{cs-noun|g=m}}
 
-# {{context|physics|lang=cs}} {{l|en|atom}}
+# {{label|cs|physics}} {{l|en|atom}}
 
 ====Related terms====
 * [[atomový]]
@@ -265,7 +265,7 @@ From {{etyl|frm|en}} {{m|frm|athome}}, from {{etyl|la|en}} {{m|la|atomus||smalle
 ==Hungarian==
 
 ===Etymology===
-From {{etyl|en|hu}} {{term|atom|lang=en}}, from {{etyl|grc|hu}} {{term|ἄτομος||indivisible|lang=grc|sc=polytonic}}, from {{term|ἀ-||not|lang=grc|sc=polytonic}} + {{term|τέμνω||I cut|lang=grc|sc=polytonic}}.<ref>{{R:TotfalusiEty 2005}}</ref>
+From {{etyl|en|hu}} {{m|en|atom}}, from {{etyl|grc|hu}} {{m|grc|ἄτομος||indivisible|sc=polytonic}}, from {{m|grc|ἀ-||not|sc=polytonic}} + {{m|grc|τέμνω||I cut|sc=polytonic}}.<ref>{{R:TotfalusiEty 2005}}</ref>
 
 ===Pronunciation===
 * {{hu-IPA}}
@@ -292,7 +292,7 @@ From {{etyl|en|hu}} {{term|atom|lang=en}}, from {{etyl|grc|hu}} {{term|ἄτομ
 ==Malay==
 
 ===Etymology===
-From {{etyl|en|ms}} {{term|atom|lang=en}}, from {{etyl|fro|ms}} {{term|atome|lang=fro}}, from {{etyl|la|ms}} {{term|atomus|lang=la}}, from {{etyl|grc|ms}} {{term|ἄτομος|sc=polytonic|lang=grc}}.
+From {{etyl|en|ms}} {{m|en|atom}}, from {{etyl|fro|ms}} {{m|fro|atome}}, from {{etyl|la|ms}} {{m|la|atomus}}, from {{etyl|grc|ms}} {{m|grc|ἄτομος|sc=polytonic}}.
 
 ===Pronunciation===
 * {{IPA|/atom/|lang=ms}}
@@ -301,7 +301,7 @@ From {{etyl|en|ms}} {{term|atom|lang=en}}, from {{etyl|fro|ms}} {{term|atome|lan
 ===Noun===
 {{ms-noun}}
 
-# {{context|physics|lang=ms}} [[#English|atom]] {{gloss|physics: smallest possible amount of matter retaining its chemical properties}}
+# {{label|ms|physics}} [[#English|atom]] {{gloss|physics: smallest possible amount of matter retaining its chemical properties}}
 
 ----
 
@@ -350,7 +350,7 @@ From {{etyl|grc|nn}} ''"atomos"''
 ===Noun===
 {{pl-noun|m-in}}
 
-# {{context|physics|lang=pl}} {{l|en|atom}}
+# {{label|pl|physics}} {{l|en|atom}}
 
 ====Declension====
 {{pl-decl-noun-m-in}}
@@ -419,7 +419,7 @@ From {{etyl|grc|sh}} {{m|grc|ἄτομος}}.
 {{sv-noun|c}}
 
 # {{l|en|atom}}; the smallest particle to retain the properties of the element
-# {{context|historical|lang=sv}} atom; the theoretically smallest possible particle
+# {{label|sv|historical}} atom; the theoretically smallest possible particle
 
 ====Declension====
 {{sv-infl-noun-c-er}}
@@ -445,7 +445,7 @@ From {{etyl|grc|sh}} {{m|grc|ἄτομος}}.
 ==Turkish==
 
 ===Etymology===
-From {{etyl|fr|tr}} {{term|atome|lang=fr}}.
+From {{etyl|fr|tr}} {{m|fr|atome}}.
 
 ===Pronunciation===
 * {{IPA|[ɑˈtɔm]|lang=tr}}
@@ -453,7 +453,7 @@ From {{etyl|fr|tr}} {{term|atome|lang=fr}}.
 ===Noun===
 {{tr-noun|u|lar}}
 
-# {{context|physics|lang=tr}} {{l|en|atom}}
+# {{label|tr|physics}} {{l|en|atom}}
 
 ====Declension====
 {{tr-noun-c|o|d}}
