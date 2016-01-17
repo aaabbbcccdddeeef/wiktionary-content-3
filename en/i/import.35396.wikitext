@@ -18,16 +18,16 @@
 * {{rhymes|ɔː(ɹ)t|lang=en}}
 
 ===Etymology 1===
-(verb) From {{etyl|enm|en}} {{term|importen|lang=enm}}, from {{etyl|frm|en}} {{term|importer|lang=frm}}, from {{etyl|la|en}} {{m|la|importō||I bring in from abroad, import}}, from {{term|in||in, at, on; into|lang=la}} + {{m|la|portō||I carry, bear; convey}}.
+(verb) From {{etyl|enm|en}} {{m|enm|importen}}, from {{etyl|frm|en}} {{m|frm|importer}}, from {{etyl|la|en}} {{m|la|importō||I bring in from abroad, import}}, from {{m|la|in||in, at, on; into}} + {{m|la|portō||I carry, bear; convey}}.
 
 ====Noun====
 {{wikipedia}}
 {{en-noun|~}}
 
-# {{context|countable|lang=en}} Something brought in from an exterior source, especially for sale or trade.
-# {{context|uncountable|lang=en}} The practice of importing.
-# {{context|uncountable|lang=en}} [[significance|Significance]], [[importance]].
-#: {{usex|It was a matter of great '''import'''.|lang=en}}
+# {{label|en|countable}} Something brought in from an exterior source, especially for sale or trade.
+# {{label|en|uncountable}} The practice of importing.
+# {{label|en|uncountable}} [[significance|Significance]], [[importance]].
+#: {{ux|en|It was a matter of great '''import'''.}}
 
 =====Synonyms=====
 * {{sense|significance}} [[importancy]], [[importance]], [[meaning]], [[significance]], [[weight]]
@@ -100,8 +100,8 @@
 ====Verb====
 {{en-verb}}
 
-# {{context|transitive|lang=en}} To [[bring]] (something) in from a foreign country, especially for sale or trade.
-# {{context|transitive|lang=en}} To [[load]] a file into a software application from another version or system.
+# {{label|en|transitive}} To [[bring]] (something) in from a foreign country, especially for sale or trade.
+# {{label|en|transitive}} To [[load]] a file into a software application from another version or system.
 #: ''How can I '''import''' files from older versions of this application?''
 
 =====Quotations=====
@@ -152,29 +152,29 @@
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{etyl|it|en}} {{term|importare|lang=it}}, and {{etyl|fr|en}} {{term|importer|lang=fr}}, from {{etyl|la|en}} {{m|la|importō}}.
+From {{etyl|it|en}} {{m|it|importare}}, and {{etyl|fr|en}} {{m|fr|importer}}, from {{etyl|la|en}} {{m|la|importō}}.
 
 ====Verb====
 {{en-verb}}
 
-# {{context|intransitive|lang=en}} To be important; to be significant; to be of consequence.
+# {{label|en|intransitive}} To be important; to be significant; to be of consequence.
 #* '''1661''', Thomas Salusbury:
 #*: See how much it '''importeth''' to learn to take Time by the Fore-Top.''
-# {{context|transitive|lang=en}} To be of importance to (someone or something).
+# {{label|en|transitive}} To be of importance to (someone or something).
 #* '''1593''', Shakespeare, ''Love's Labour's Lost'':
 #*: ''This Letter is mistooke: it '''importeth''' none here: It is writ to laquenetta.''
 #* Dryden
 #*: If I endure it, what '''imports''' it you?
-# {{context|transitive|lang=en}} To be incumbent on (someone to do something).
+# {{label|en|transitive}} To be incumbent on (someone to do something).
 #* '''1762''', David Hume, ''The History of England'':
 #*: ''It '''imports''' us to get all the aid and assistance we can.''
-# {{context|transitive|lang=en}} To be important or crucial to (that something happen).
+# {{label|en|transitive}} To be important or crucial to (that something happen).
 #* '''1819''', Shelley, "The Cenci":
 #*: ''It much '''imports''' your house That all should be made clear.''
-# {{context|transitive|lang=en}} To mean, [[signify]].
+# {{label|en|transitive}} To mean, [[signify]].
 #* Hooker
 #*: Every petition {{...}} doth {{...}} always '''import''' a multitude of speakers together.
-# {{context|transitive|archaic|lang=en}} To [[express]], to imply.
+# {{label|en|transitive|archaic}} To [[express]], to imply.
 
 ===References===
 * {{R:OED2}}
@@ -300,7 +300,7 @@ From {{etyl|en|-}} or {{etyl|de|-}}
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|en|sh}} {{term|import|lang=en}}, from {{etyl|la|sh}} {{term|importare|lang=la}}.
+From {{etyl|en|sh}} {{m|en|import}}, from {{etyl|la|sh}} {{m|la|importare}}.
 
 ===Pronunciation===
 * {{IPA|/ǐmport/|lang=sh}}
