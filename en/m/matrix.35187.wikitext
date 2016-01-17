@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|fro|en}} {{term|matrice||pregnant animal|lang=fro}}, from {{etyl|la|en}} {{term|mātrīx||dam, womb|lang=la}}, from {{term|māter||mother|lang=la}}.
+From {{etyl|fro|en}} {{m|fro|matrice||pregnant animal}}, from {{etyl|la|en}} {{m|la|mātrīx||dam, womb}}, from {{m|la|māter||mother}}.
 
 ===Pronunciation===
 * {{audio|En-us-matrix.ogg|Audio (US)|lang=en}}
@@ -12,24 +12,24 @@ From {{etyl|fro|en}} {{term|matrice||pregnant animal|lang=fro}}, from {{etyl|la|
 ===Noun===
 {{en-noun|matrices|matrixes}}
 
-# {{context|now|_|rare|lang=en}} The [[womb]].
+# {{label|en|now|_|rare}} The [[womb]].
 #* '''1646''', Sir Thomas Browne, ''Pseudodoxia Epidemica'', III.17:
 #*: upon conception the inward orifice of the '''matrix''' exactly closeth, so that it commonly admitteth nothing after [...].
 #* '''1969''', Vladimir Nabokov, ''Ada or Ardor'', Penguin 2011, p. 296:
 #*: In very rare cases, when the '''matrix''' just goes on pegging away automatically, the doctor can take advantage of that and ease out the second brat who then can be considered to be, say, three minutes younger [...].
-# {{context|biology|lang=en}} The material or [[tissue]] in which more specialized structures are [[embed]]ded.
-# {{context|biology|lang=en}} An [[extracellular matrix]], the material or tissue between the [[cell]]s of animals or plants.
-# {{context|biology|lang=en}} Part of the [[mitochondrion]].
-# {{context|biology|lang=en}} The medium in which [[bacterium|bacteria]] are cultured.
-# {{context|mathematics|lang=en}} A [[rectangular]] [[arrangement]] of [[number]]s or [[term]]s having various uses such as [[transform]]ing [[coordinate]]s in [[geometry]], solving [[system]]s of [[linear equation]]s in [[linear algebra]] and [[represent]]ing [[graph]]s in [[graph theory]].
-# {{context|computing|lang=en}} A [[two-dimensional]] [[array]].
-# {{cx|computing|lang=en}} The [[circuitry]] inside a [[keyboard]] that determines which [[key]]s are being pressed.
+# {{label|en|biology}} The material or [[tissue]] in which more specialized structures are [[embed]]ded.
+# {{label|en|biology}} An [[extracellular matrix]], the material or tissue between the [[cell]]s of animals or plants.
+# {{label|en|biology}} Part of the [[mitochondrion]].
+# {{label|en|biology}} The medium in which [[bacterium|bacteria]] are cultured.
+# {{label|en|mathematics}} A [[rectangular]] [[arrangement]] of [[number]]s or [[term]]s having various uses such as [[transform]]ing [[coordinate]]s in [[geometry]], solving [[system]]s of [[linear equation]]s in [[linear algebra]] and [[represent]]ing [[graph]]s in [[graph theory]].
+# {{label|en|computing}} A [[two-dimensional]] [[array]].
+# {{lb|en|computing}} The [[circuitry]] inside a [[keyboard]] that determines which [[key]]s are being pressed.
 # A [[table]] of [[data]].
-# {{context|geology|lang=en}} A [[geological matrix]].
-# {{context|archaeology and paleontology|lang=en}} The sediment surrounding and including the [[artifact]]s, features, and other materials at a [[site]].
-# {{context|analytical chemistry|lang=en}} The environment from which a given sample is taken.
-# {{cx|printing|historical|lang=en}} In hot metal typesetting, a [[mold]] for [[cast]]ing a [[letter]].
-# {{cx|printing|historical|lang=en}} In [[printmaking]], the [[plate]] or [[block]] used, with [[ink]], to hold the [[image]] that makes up the print.
+# {{label|en|geology}} A [[geological matrix]].
+# {{label|en|archaeology and paleontology}} The sediment surrounding and including the [[artifact]]s, features, and other materials at a [[site]].
+# {{label|en|analytical chemistry}} The environment from which a given sample is taken.
+# {{lb|en|printing|historical}} In hot metal typesetting, a [[mold]] for [[cast]]ing a [[letter]].
+# {{lb|en|printing|historical}} In [[printmaking]], the [[plate]] or [[block]] used, with [[ink]], to hold the [[image]] that makes up the print.
 
 ====Synonyms====
 * {{sense|mathematics}} [[array]], [[table]]
@@ -178,7 +178,7 @@ From {{etyl|fro|en}} {{term|matrice||pregnant animal|lang=fro}}, from {{etyl|la|
 ==Dutch==
 
 ===Etymology===
-From {{etyl|la|nl}} {{term|mātrīx|lang=la}}. Cognate with {{term|matrijs|lang=nl}}.
+From {{etyl|la|nl}} {{m|la|mātrīx}}. Cognate with {{m|nl|matrijs}}.
 
 ===Pronunciation===
 * {{IPA|/ˈmaːtrɪks/|lang=nl}}
@@ -194,7 +194,7 @@ From {{etyl|la|nl}} {{term|mātrīx|lang=la}}. Cognate with {{term|matrijs|lang=
 ==Latin==
 
 ===Etymology===
-From {{term|māter||mother|lang=la}}.
+From {{m|la|māter||mother}}.
 
 ===Pronunciation===
 * {{la-pronunc|mātrīx}}
