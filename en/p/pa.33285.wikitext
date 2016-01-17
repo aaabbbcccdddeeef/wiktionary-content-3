@@ -11,7 +11,7 @@
 ====Noun====
 {{en-noun}}
 
-# {{context|colloquial|lang=en}} [[Father]], [[papa]].
+# {{label|en|colloquial}} [[Father]], [[papa]].
 # A short form of [[grandpa]], grandfather.
 
 =====Usage notes=====
@@ -89,7 +89,7 @@
 ==Albanian==
 
 ===Etymology===
-From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*apa}}, from {{etyl|ine-pro|sq}} {{m|ine-pro|*h2(e)po-}} 'off, away'. Cognate to Ancient Greek {{term|ἄπα|lang=grc}}, {{term|ἀπά||away, off|lang=grc}}.
+From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*apa}}, from {{etyl|ine-pro|sq}} {{m|ine-pro|*h2(e)po-}} 'off, away'. Cognate to Ancient Greek {{m|grc|ἄπα}}, {{m|grc|ἀπά||away, off}}.
 
 ===Preposition===
 {{sq-preposition|ac}}
@@ -114,7 +114,7 @@ From {{etyl|poz-pol-pro|aud}} {{m|poz-pol-pro|*fa}}, from {{etyl|poz-oce-pro|aud
 ===Numeral===
 {{head|aud|numeral}}
 
-# {{context|cardinal|lang=aud}} {{l|en|four}}
+# {{label|aud|cardinal}} {{l|en|four}}
 
 [[Category:aud:Four]]
 
@@ -123,7 +123,7 @@ From {{etyl|poz-pol-pro|aud}} {{m|poz-pol-pro|*fa}}, from {{etyl|poz-oce-pro|aud
 ==Asturian==
 
 ===Etymology===
-Compare Spanish {{term|pa|lang=es}}, a contracted form of {{term|para|lang=es}}.
+Compare Spanish {{m|es|pa}}, a contracted form of {{m|es|para}}.
 
 ===Preposition===
 {{head|ast|preposition}}
@@ -160,7 +160,7 @@ Compare Spanish {{term|pa|lang=es}}, a contracted form of {{term|para|lang=es}}.
 ==Catalan==
 
 ===Etymology===
-From {{etyl|pro|ca}} {{m|pro|pan}}, from {{etyl|la|ca}} {{term|pānis|lang=la}}.
+From {{etyl|pro|ca}} {{m|pro|pan}}, from {{etyl|la|ca}} {{m|la|pānis}}.
 
 ===Pronunciation===
 * {{IPA|/pa/|lang=ca}}
@@ -181,7 +181,7 @@ From {{etyl|pro|ca}} {{m|pro|pan}}, from {{etyl|la|ca}} {{term|pānis|lang=la}}.
 ===Verb===
 {{head|nci|verb|head=pā}}
 
-# {{context|transitive|lang=nci}} To [[dye]]
+# {{label|nci|transitive}} To [[dye]]
 
 ===References===
 * {{reference-book|author=Andrews, J. Richard|year=2003|title=Workbook for Introduction to Classical Nahuatl|edition=revised edition|location=Norman|publisher=University of Oklahoma Press|pages=p. 244}}
@@ -220,7 +220,7 @@ From {{etyl|pro|ca}} {{m|pro|pan}}, from {{etyl|la|ca}} {{term|pānis|lang=la}}.
 ==Fala==
 
 ===Etymology===
-From {{etyl|roa-opt|fax}} {{term|pera|lang=roa-opt}}.
+From {{etyl|roa-opt|fax}} {{m|roa-opt|pera}}.
 
 ===Preposition===
 {{head|fax|preposition}}
@@ -248,7 +248,7 @@ From {{etyl|roa-opt|fax}} {{term|pera|lang=roa-opt}}.
 ==Haitian Creole==
 
 ===Etymology===
-From {{etyl|fr|ht}} {{term|pas|lang=fr}}
+From {{etyl|fr|ht}} {{m|fr|pas}}
 
 ===Adverb===
 {{head|ht|adverb}}
@@ -277,16 +277,16 @@ From {{etyl|fr|ht}} {{term|pas|lang=fr}}
 
 # [[on]]
 # [[along]]
-#: {{usex|iet '''pa''' ceļu|t=to walk '''along''' the road|inline=1|lang=lv}}
+#: {{ux|lv|iet '''pa''' ceļu|t=to walk '''along''' the road|inline=1}}
 # [[to]]
 # [[in]]
 # [[through]]
 # [[during]]
-#: {{usex|'''pa''' naktīm|t='''during''' night|inline=1|lang=lv}}
+#: {{ux|lv|'''pa''' naktīm|t='''during''' night|inline=1}}
 # [[by]]
-#: {{usex|'''pa''' pastu|t='''by''' post|inline=1|lang=lv}}
+#: {{ux|lv|'''pa''' pastu|t='''by''' post|inline=1}}
 # [[over]]
-#: {{usex|'''pa''' radio|t='''over''' the radio|inline=1|lang=lv}}
+#: {{ux|lv|'''pa''' radio|t='''over''' the radio|inline=1}}
 
 ----
 
@@ -296,7 +296,7 @@ From {{etyl|fr|ht}} {{term|pas|lang=fr}}
 ===Cmavo===
 {{jbo-cmavo|pav}}
 
-# {{context|cardinal|lang=jbo}} [[one]]
+# {{label|jbo|cardinal}} [[one]]
 
 [[Category:Lojban cmavo of selma'o PA]]
 
@@ -391,7 +391,7 @@ From {{etyl|plf-pro|ple}} {{m|plf-pro|*əpat}}, from {{etyl|poz-cet-pro|ple}} {{
 ===Numeral===
 {{head|ple|numeral}}
 
-# {{context|cardinal|lang=ple}} {{l|en|four}}
+# {{label|ple|cardinal}} {{l|en|four}}
 
 [[Category:ple:Four]]
 
@@ -420,7 +420,7 @@ From {{etyl|plf-pro|ple}} {{m|plf-pro|*əpat}}, from {{etyl|poz-cet-pro|ple}} {{
 ===Preposition===
 {{head|pt|preposition}}
 
-# {{context|Africa|rural areas of Brazil|lang=pt}} {{contraction of|para|lang=pt}}
+# {{label|pt|Africa|rural areas of Brazil}} {{contraction of|para|lang=pt}}
 
 ----
 
@@ -445,7 +445,7 @@ From {{etyl|plf-pro|ple}} {{m|plf-pro|*əpat}}, from {{etyl|poz-cet-pro|ple}} {{
 ==Serbo-Croatian==
 
 ===Etymology===
-Common South Slavic; compare Slovene {{term|pa|lang=sl}}, Bulgarian {{term|па|lang=bg}}. See also {{term|pa-|lang=sh}}.
+Common South Slavic; compare Slovene {{m|sl|pa}}, Bulgarian {{m|bg|па}}. See also {{m|sh|pa-}}.
 
 ===Pronunciation===
 * {{IPA|/pa/|lang=sh}}
@@ -458,15 +458,15 @@ Common South Slavic; compare Slovene {{term|pa|lang=sl}}, Bulgarian {{term|па|
 #: {{ux|sh|učenje pa odmor pa zabava|learning, then rest, then fun|inline=1}}
 # (and) [[so]]
 #: {{ux|sh|potrošio sam sav novac, pa sam se morao vratiti kući|I've spent all of my money, so I had to return home|inline=1}}
-# (with {{term|da|lang=sh}} or {{m|sh|màkar}}) [[even if]], [[even though]], [[although]]
+# (with {{m|sh|da}} or {{m|sh|màkar}}) [[even if]], [[even though]], [[although]]
 # (with {{m|sh|ȉpāk}}) (and, but) [[yet]], [[still]]
 #: {{ux|sh|bogat je, pa ipak usamljen|he's rich, but still lonely|inline=1}}
-# (with {{term|da|lang=sh}} + {{term|i|lang=sh}}) [[even if]]
+# (with {{m|sh|da}} + {{m|sh|i}}) [[even if]]
 
 ===Particle===
 {{sh-particle|r|па}}
 
-# {{context|for emphasis|lang=sh}} [[but]], [[well]]
+# {{label|sh|for emphasis}} [[but]], [[well]]
 #: {{ux|sh|pa dobro!|well, all right!|inline=1}}
 #: {{ux|sh|pa što je s tobom?|what's wrong with you?|inline=1}}
 #: {{ux|sh|pa i ne baš|not really|inline=1}}
@@ -496,7 +496,7 @@ Common South Slavic; compare Slovene {{term|pa|lang=sl}}, Bulgarian {{term|па|
 ===Preposition===
 {{head|es|preposition}}
 
-# {{context|colloquial|lang=es}} {{apocopic form of|para|lang=es}}
+# {{label|es|colloquial}} {{apocopic form of|para|lang=es}}
 
 ====See also====
 * [[de pe a pa]]
@@ -551,7 +551,7 @@ Common South Slavic; compare Slovene {{term|pa|lang=sl}}, Bulgarian {{term|па|
 * {{l|cy|py}}
 
 ===Etymology===
-From {{etyl|cel-pro|cy}} {{m|cel-pro|*kʷid}}, from {{etyl|ine-pro|cy}} {{m|ine-pro|*kʷid}} (compare {{m|ine-pro|*kʷis}}); compare Latin {{term|quid|lang=la}}, Old Irish {{term|cid|lang=sga}}, Modern Irish {{term|cad|lang=ga}}, Cornish {{term|py|lang=kw}}, {{term|pe|lang=kw}}.
+From {{etyl|cel-pro|cy}} {{m|cel-pro|*kʷid}}, from {{etyl|ine-pro|cy}} {{m|ine-pro|*kʷid}} (compare {{m|ine-pro|*kʷis}}); compare Latin {{m|la|quid}}, Old Irish {{m|sga|cid}}, Modern Irish {{m|ga|cad}}, Cornish {{m|kw|py}}, {{m|kw|pe}}.
 
 ===Pronoun===
 {{head|cy|pronoun|cat2=interrogative pronouns}}
@@ -572,7 +572,7 @@ From {{etyl|cel-pro|cy}} {{m|cel-pro|*kʷid}}, from {{etyl|ine-pro|cy}} {{m|ine-
 ==Zazaki==
 
 ===Etymology===
-From {{etyl|ine-pro|zza}} {{m|ine-pro|*pṓds||foot}}, cognates include Sanskrit {{term|पद्|tr=pád|lang=sa}}, Latin {{term|pes|lang=la}} (French {{term|pied|lang=fr}}), German {{term|Fuß|lang=de}}, English {{term|foot|lang=en}}.
+From {{etyl|ine-pro|zza}} {{m|ine-pro|*pṓds||foot}}, cognates include Sanskrit {{m|sa|पद्|tr=pád}}, Latin {{m|la|pes}} (French {{m|fr|pied}}), German {{m|de|Fuß}}, English {{m|en|foot}}.
 
 ===Pronunciation===
 * {{IPA|/pɔː/|lang=zza}}
