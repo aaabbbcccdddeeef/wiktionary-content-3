@@ -13,17 +13,17 @@ From {{etyl|enm|en}} {{m|enm|help}}, from {{etyl|ang|en}} {{m|ang|help||help, ai
 ====Noun====
 {{en-noun|-|s}}
 
-# {{context|uncountable|lang=en}} Action given to provide [[assistance]]; [[aid]].
+# {{label|en|uncountable}} Action given to provide [[assistance]]; [[aid]].
 #: ''I need some '''help''' with my homework.''
-# {{context|usually|uncountable|lang=en}} Something or someone which provides assistance with a task.
+# {{label|en|usually|uncountable}} Something or someone which provides assistance with a task.
 #: ''He was a great '''help''' to me when I was moving house.''
 #: ''I've printed out a list of math '''helps'''.''
 # [[documentation|Documentation]] provided with [[computer]] [[software]], etc. and accessed using the computer.
 #: ''I can't find anything in the '''help''' about rotating an image.''
-# {{context|usually|uncountable|lang=en}} One or more people employed to help in the maintenance of a house or the operation of a farm or enterprise.
+# {{label|en|usually|uncountable}} One or more people employed to help in the maintenance of a house or the operation of a farm or enterprise.
 #: ''The '''help''' is coming round this morning to clean.''
 #: ''Most of the hired '''help''' is seasonal, for the harvest.''
-# {{context|uncountable|euphemistic|lang=en}} Correction of deficits, as by psychological counseling or medication or social support or remedial training.
+# {{label|en|uncountable|euphemistic}} Correction of deficits, as by psychological counseling or medication or social support or remedial training.
 #: ''His suicide attempts were a cry for '''help'''.''
 #: ''He really needs '''help''' in handling customer complaints.''
 #: ''"He's a real road-rager." / "Yup, he really needs '''help''', maybe anger management."
@@ -227,30 +227,30 @@ Cognate with {{etyl|fy|-}} {{m|fy|helpe||to help}}, {{etyl|nl|-}} {{m|nl|helpen|
 ====Verb====
 {{en-verb|helps|helping|helped|past2=holp|past2_qual=archaic|helped|past_ptc2=holpen|past_ptc2_qual=archaic}}
 
-# {{context|transitive|lang=en}} To provide [[assistance]] to (someone or something).
+# {{label|en|transitive}} To provide [[assistance]] to (someone or something).
 #* {{quote-magazine|date=2013-06-22|volume=407|issue=8841|page=76|magazine={{w|The Economist}}
 |title=[http://www.economist.com/news/books-and-arts/21579801-making-sense-statistics-riddle-our-days-snakes-and-ladders Snakes and ladders]
 |passage=Risk is everywhere.{{...}}For each one there is a frighteningly precise measurement of just how likely it is to jump from the shadows and get you. “The Norm Chronicles”{{...}}aims to '''help''' data-phobes find their way through this blizzard of risks.}}
-#: {{usex|lang=en|He '''helped''' his grandfather cook breakfast.}}
-# {{context|transitive|lang=en}} To contribute in some way to.
-#: {{usex|lang=en|The white paint on the walls '''helps''' make the room look brighter.}}
-#: {{usex|lang=en|If you want to get a job, it '''helps''' to have some prior experience.}}
-# {{context|intransitive|lang=en}} To provide assistance.
+#: {{ux|en|He '''helped''' his grandfather cook breakfast.}}
+# {{label|en|transitive}} To contribute in some way to.
+#: {{ux|en|The white paint on the walls '''helps''' make the room look brighter.}}
+#: {{ux|en|If you want to get a job, it '''helps''' to have some prior experience.}}
+# {{label|en|intransitive}} To provide assistance.
 #* {{quote-book|year=1963|author={{w|Margery Allingham}}|title={{w|The China Governess}}
 |chapter=19|url=http://openlibrary.org/works/OL2004261W
 |passage=As soon as Julia returned with a constable, Timothy, who was on the point of exhaustion, prepared to give over to him gratefully. The newcomer turned out to be a powerful youngster, fully trained and eager to '''help''', and he stripped off his tunic at once.}}
 #* {{quote-magazine|date=2013-06-29|volume=407|issue=8842|page=72-3|magazine={{w|The Economist}}
 |title=[http://www.economist.com/news/international/science-and-technology/21580133-how-microbes-promote-liver-cancer-overweight-punch-gut A punch in the gut]
 |passage=Mostly, the microbiome is beneficial. It '''helps''' with digestion and enables people to extract a lot more calories from their food than would otherwise be possible. Research over the past few years, however, has implicated it in diseases from atherosclerosis to asthma to autism.}}
-#: {{usex|lang=en|She was struggling with the groceries, so I offered to '''help'''.}}
-#: {{usex|lang=en|Please, '''help'''!}}
-# {{context|transitive|lang=en}} To [[avoid]]; to [[prevent]]; to [[refrain]] from; to [[restrain]] (oneself). Usually used in nonassertive contexts with ''[[can]]''.
-#: {{usex|lang=en|We couldn’t '''help''' noticing that you were late.}}
-#: {{usex|lang=en|We couldn’t '''help''' but notice that you were late.}}
-#: {{usex|lang=en|She’s trying not to smile, but she can’t '''help''' herself.}}
-#: {{usex|lang=en|Can I '''help''' it if I'm so beautiful?}}
-#: {{usex|lang=en|Can I '''help''' it that I fell in love with you?}}
-#: {{usex|lang=en|Are they going to beat us?&nbsp;Not if I can '''''help''''' it!}}
+#: {{ux|en|She was struggling with the groceries, so I offered to '''help'''.}}
+#: {{ux|en|Please, '''help'''!}}
+# {{label|en|transitive}} To [[avoid]]; to [[prevent]]; to [[refrain]] from; to [[restrain]] (oneself). Usually used in nonassertive contexts with ''[[can]]''.
+#: {{ux|en|We couldn’t '''help''' noticing that you were late.}}
+#: {{ux|en|We couldn’t '''help''' but notice that you were late.}}
+#: {{ux|en|She’s trying not to smile, but she can’t '''help''' herself.}}
+#: {{ux|en|Can I '''help''' it if I'm so beautiful?}}
+#: {{ux|en|Can I '''help''' it that I fell in love with you?}}
+#: {{ux|en|Are they going to beat us?&nbsp;Not if I can '''''help''''' it!}}
 
 =====Usage notes=====
 * Use 3 is often used in the [[imperative mood]] as a call for assistance.
@@ -480,7 +480,7 @@ Cognate with {{etyl|fy|-}} {{m|fy|helpe||to help}}, {{etyl|nl|-}} {{m|nl|helpen|
 ==Afrikaans==
 
 ===Etymology===
-From {{etyl|nl|af}} {{term|helpen|lang=nl}}.
+From {{etyl|nl|af}} {{m|nl|helpen}}.
 
 ===Verb===
 {{af-verb}}
