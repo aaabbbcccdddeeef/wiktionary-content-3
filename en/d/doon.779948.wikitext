@@ -6,17 +6,17 @@
 ===Adverb===
 {{en-adv|-}}
 
-# {{context|Geordie|lang=en}} [[down]]
+# {{label|en|Geordie}} [[down]]
 
 ===Preposition===
 {{en-prep}}
 
-# {{context|Geordie|lang=en}} [[down]]
+# {{label|en|Geordie}} [[down]]
 
 ===Adjective===
 {{en-adj|-}}
 
-# {{context|Geordie|lang=en}} On a lower level than before; [[down]].
+# {{label|en|Geordie}} On a lower level than before; [[down]].
 
 ----
 
@@ -24,7 +24,7 @@
 
 ===Etymology===
 {{PIE root|li|dʰeh₁}}
-Ultimately from {{etyl|gem-pro|li}} {{m|gem-pro|*dōną}}, from {{etyl|ine-pro|li}} {{m|ine-pro|*dʰeh₁-}}. Compare Dutch {{term|doen|lang=nl}}, Low German {{term|doon|lang=nds}}, German {{term|tun|lang=de}}.
+Ultimately from {{etyl|gem-pro|li}} {{m|gem-pro|*dōną}}, from {{etyl|ine-pro|li}} {{m|ine-pro|*dʰeh₁-}}. Compare Dutch {{m|nl|doen}}, Low German {{m|nds|doon}}, German {{m|de|tun}}.
 
 ===Noun===
 {{head|li|noun|g=n}}
@@ -99,7 +99,7 @@ Ultimately from {{etyl|gem-pro|li}} {{m|gem-pro|*dōną}}, from {{etyl|ine-pro|l
 
 ===Etymology===
 {{PIE root|nds|dʰeh₁}}
-From {{etyl|gml|nds}} {{term|don|lang=gml}}, from {{etyl|osx|nds}} {{term|dōn|lang=osx}}, from {{etyl|gem-pro|nds}} {{m|gem-pro|*dōną}}, from {{etyl|ine-pro|nds}} {{m|ine-pro|*dʰeh₁-}}. Compare Dutch {{term|doen|lang=nds}}, West Frisian {{term|dwaan|lang=fy}}, English {{term|do|lang=en}}, German {{term|tun|lang=de}}.
+From {{etyl|gml|nds}} {{m|gml|don}}, from {{etyl|osx|nds}} {{m|osx|dōn}}, from {{etyl|gem-pro|nds}} {{m|gem-pro|*dōną}}, from {{etyl|ine-pro|nds}} {{m|ine-pro|*dʰeh₁-}}. Compare Dutch {{m|nds|doen}}, West Frisian {{m|fy|dwaan}}, English {{m|en|do}}, German {{m|de|tun}}.
 
 ===Pronunciation===
 * {{IPA|/doːn/|lang=nds}}
@@ -111,11 +111,11 @@ From {{etyl|gml|nds}} {{term|don|lang=gml}}, from {{etyl|osx|nds}} {{term|dōn|l
 # to [[put]]
 #: '''''Do''' dat aver dor!''
 #:: Just '''put''' it in there!
-# {{context|auxiliary|lang=nds}} to [[cause]] to, to [[make]]; {{non-gloss definition|forms [[causative]] verbs}}
-# {{context|auxiliary|preterite|lang=nds}} often used instead of the preterit of weak verbs, with an infinitive.
+# {{label|nds|auxiliary}} to [[cause]] to, to [[make]]; {{non-gloss definition|forms [[causative]] verbs}}
+# {{label|nds|auxiliary|preterite}} often used instead of the preterit of weak verbs, with an infinitive.
 #: ''Ik '''dee''' em en Kado geven!''
 #:: I '''gave''' him a present!
-# {{context|auxiliary|preterite|lang=nds}} always used in a subordinate clause with [[wenn]], sometimes also with [[dat]].
+# {{label|nds|auxiliary|preterite}} always used in a subordinate clause with [[wenn]], sometimes also with [[dat]].
 #: ''So worr dat düüster '''wenn''' de Sünn ünnergahn '''dee'''''
 #:: It became dark '''when''' the sun '''went down'''!
 
@@ -149,13 +149,13 @@ Participles
 ==Manx==
 
 ===Etymology===
-From {{etyl|sga|gv}} {{term|dún|lang=sga}}, from {{etyl|cel-pro|gv}} {{m|cel-pro|*dūnom||stronghold}}.
+From {{etyl|sga|gv}} {{m|sga|dún}}, from {{etyl|cel-pro|gv}} {{m|cel-pro|*dūnom||stronghold}}.
 
 ===Noun===
 {{gv-noun|m|doonyn|doon}}
 
 # [[fort]], [[fastness]]
-#: {{usex|[[ta|Ta]]'[[yn|n]] '''doon''' [[ard]] [[erskyn]] y [[balley|valley]].|t=''The fort commands the town.''|inline=1|lang=gv}}
+#: {{ux|gv|[[ta|Ta]]'[[yn|n]] '''doon''' [[ard]] [[erskyn]] y [[balley|valley]].|t=''The fort commands the town.''|inline=1}}
 # [[stronghold]], [[bastion]]
 
 ===Mutation===
