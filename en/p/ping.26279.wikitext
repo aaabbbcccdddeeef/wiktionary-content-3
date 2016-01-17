@@ -17,11 +17,11 @@
 #: ''My car used to make an odd '''ping''', but after the last oil change it went away.''
 # {{qualifier|submarine navigation}} A pulse of high-pitched or ultrasonic sound whose echoes provide information about nearby objects and vessels.
 #: ''The submarine sent out a '''ping''' and got an echo from a battleship.''
-# {{context|networking|lang=en}} A packet which a remote [[host]] is expected to echo, thus indicating its presence.
+# {{label|en|networking}} A packet which a remote [[host]] is expected to echo, thus indicating its presence.
 #: ''The network is overloaded from all the '''pings''' going out.''
-# {{context|text messaging|Internet|lang=en}} An [[email]] or other message sent requesting acknowledgement.
+# {{label|en|text messaging|Internet}} An [[email]] or other message sent requesting acknowledgement.
 #: ''I sent a '''ping''' to the insurance company to see if they received our claim.''
-# {{cx|networking|lang=en}} {{rfv-sense}} [[latency|Latency]].
+# {{lb|en|networking}} {{rfv-sense}} [[latency|Latency]].
 #* '''2000''' April 4, "CaPRubberchecks" (username), ''Low-'''Ping''' servers...YIKES!'' in <tt>alt.games.starsiege.tribes</tt>, ''Usenet''
 #* '''2000''' November 8, "the_mad...@my-deja.com", ''HL DM with a low '''ping'''.......'', in <tt>alt.games.half-life</tt>, ''Usenet'':
 #*: "You low '''ping''' c**t, you only win cos of your '''ping'''!"
@@ -63,18 +63,18 @@
 # To make a high-pitched, short and somewhat sharp sound.
 #: ''My car was '''pinging''' until my last oil change.''
 # {{qualifier|submarine navigation}} To emit a signal and then listen for its echo in order to detect objects.
-# {{context|networking|lang=en}} To send a packet in order to determine whether a [[host]] is present, particularly by use of the ping utility.
+# {{label|en|networking}} To send a packet in order to determine whether a [[host]] is present, particularly by use of the ping utility.
 #: ''I'm '''pinging''' their server.''
 #: ''The server '''pings''' its affiliates periodically.''
-# {{context|networking|lang=en}} To send a network packet to another host and receive an acknowledgement in return.
+# {{label|en|networking}} To send a network packet to another host and receive an acknowledgement in return.
 #: ''I can't '''ping''' their server: perhaps it's been switched off.''
 # To send an email or other message to someone in hopes of eliciting a response.
 #: ''I'll '''ping''' the insurance company again to see if they've received our claim.''
-# {{context|colloquial|lang=en}} To [[flick]].
+# {{label|en|colloquial}} To [[flick]].
 #: ''I '''pinged''' the crumb off the table with my finger.''
-# {{context|colloquial|sports|intransitive|lang=en}} To [[bounce]].
+# {{label|en|colloquial|sports|intransitive}} To [[bounce]].
 #: ''The ball '''pinged''' off the wall and came hurtling back.''
-# {{context|colloquial|sports|transitive|lang=en}} To cause something to bounce.
+# {{label|en|colloquial|sports|transitive}} To cause something to bounce.
 #* {{quote-news
 |year=2010
 |date=December 29
@@ -84,7 +84,7 @@
 |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9309542.stm
 |page=
 |passage=Charging through the Bolton midfield to find a free moment, Essien then '''pinged''' the ball into the space into which Drogba was intelligently running.}}
-# {{context|colloquial|sports|lang=en}} To [[call out]] audibly.
+# {{label|en|colloquial|sports}} To [[call out]] audibly.
 #* {{quote-news
 |year=2011
 |date=Septembe 24
