@@ -3,7 +3,7 @@
 
 ===Etymology===
 {{PIE root|en|mey}}
-From {{etyl|la|en}} {{m|la|minimum}}, neuter form of {{term|minimus||lang=la|least, smallest}}.
+From {{etyl|la|en}} {{m|la|minimum}}, neuter form of {{m|la|minimus||least, smallest}}.
 
 ===Pronunciation===
 * {{audio|En-us-minimum.ogg|Audio (US)|lang=en}}
@@ -17,10 +17,10 @@ From {{etyl|la|en}} {{m|la|minimum}}, neuter form of {{term|minimus||lang=la|lea
 # The [[smallest]] [[amount]].
 #: ''He always tries to get away with doing the '''minimum'''.''
 #: ''Please keep noise to a '''minimum''' after 11 o'clock''
-# {{context|astronomy|lang=en}} A period of minimum [[brightness]] or [[energy]] [[intensity]] (of a [[star]]).
-#: {{usex|The Maunder '''minimum''' of the Sun reportedly corresponded to a period of great cold on Earth.|lang=en}}
-# {{context|analysis|lang=en}} A [[lower bound]] of a set which is also an element of that set.
-# {{context|statistics|lang=en}} The smallest member of a [[batch]] or [[sample]] or the lower bound of a [[probability distribution]].
+# {{label|en|astronomy}} A period of minimum [[brightness]] or [[energy]] [[intensity]] (of a [[star]]).
+#: {{ux|en|The Maunder '''minimum''' of the Sun reportedly corresponded to a period of great cold on Earth.}}
+# {{label|en|analysis}} A [[lower bound]] of a set which is also an element of that set.
+# {{label|en|statistics}} The smallest member of a [[batch]] or [[sample]] or the lower bound of a [[probability distribution]].
 
 ====Usage notes====
 * {{m|en|minima|Minima}} is more common plural for the technical senses.
@@ -167,7 +167,7 @@ From {{etyl|la|en}} {{m|la|minimum}}, neuter form of {{term|minimus||lang=la|lea
 ==Norwegian Bokmål==
 
 ===Etymology===
-From {{etyl|la|nb}} {{term|minimum|lang=la}}
+From {{etyl|la|nb}} {{m|la|minimum}}
 
 ===Noun===
 {{head|nb|noun|g=n|definite singular|minimumet|indefinite plural|minima|or|minimumer|definite plural|minimaene|or|minimuma|or|minimumene}}
@@ -185,7 +185,7 @@ From {{etyl|la|nb}} {{term|minimum|lang=la}}
 ==Norwegian Nynorsk==
 
 ===Etymology===
-From {{etyl|la|nn}} {{term|minimum|lang=la}}
+From {{etyl|la|nn}} {{m|la|minimum}}
 
 ===Noun===
 {{nn-noun-n1}}
