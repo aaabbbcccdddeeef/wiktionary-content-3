@@ -229,7 +229,7 @@ From {{etyl|enm|en}} {{m|enm|wel}}, {{m|enm|wal}}, {{m|enm|wol}}, {{m|enm|wele}}
 
 # In good [[health]].
 #: ''I had been sick, but now I'm '''well'''.''
-# {{context|archaic|lang=en}} [[prudent|Prudent]]; [[good]]; well-[[advised]].
+# {{label|en|archaic}} [[prudent|Prudent]]; [[good]]; well-[[advised]].
 #* '''1897''', National Association of Railway Surgeons, ''Railway surgeon'', page 191:
 #*: On leaving the operating table it is '''well''' to put the patient in a bed previously warmed and supplied with hot cans.
 
@@ -301,18 +301,18 @@ From {{etyl|enm|en}} {{m|enm|wel}}, {{m|enm|wal}}, {{m|enm|wol}}, {{m|enm|wele}}
 #* {{quote-book|year=1913|author={{w|Joseph C. Lincoln}}|chapter=5
 |title=[http://openlibrary.org/works/OL5535161W Mr. Pratt's Patients]
 |passage=“'''Well''',” I says, “I cal'late a body could get used to Tophet if he stayed there long enough.” ¶ She flared up; the least mite of a slam at Doctor Wool was enough to set her going.}}
-#: {{usex|lang=en|“The car is broken.” “'''Well''', we could walk to the movies instead.”}}
-#: {{usex|lang=en|“I didn't like the music.” “'''Well''', I thought it was good.”}}
-#: {{usex|lang=en|“I forgot to pack the tent! '''Well''', I guess we're sleeping under the stars tonight.”}}
+#: {{ux|en|“The car is broken.” “'''Well''', we could walk to the movies instead.”}}
+#: {{ux|en|“I didn't like the music.” “'''Well''', I thought it was good.”}}
+#: {{ux|en|“I forgot to pack the tent! '''Well''', I guess we're sleeping under the stars tonight.”}}
 # An exclamation of surprise, often doubled or tripled.
-#: {{usex|lang=en|'''Well''', '''well''', '''well''', what do we have here?}}
+#: {{ux|en|'''Well''', '''well''', '''well''', what do we have here?}}
 # Used in speech to express the overcoming of reluctance to say something.
 #* {{quote-book|year=1898|author={{w|Winston Churchill (novelist)|Winston Churchill}}
 |title={{w|The Celebrity}}|chapter=4
 |passage=“'''Well''',” I answered, at first with uncertainty, then with inspiration, “he would do splendidly to lead your cotillon, if you think of having one.” &para; “So you do not dance, Mr. Crocker?” &para; I was somewhat set back by her perspicuity.}}
-#: {{usex|lang=en|It was a bit... '''well'''... too loud.}}
+#: {{ux|en|It was a bit... '''well'''... too loud.}}
 # Used in speech to fill gaps; [[filled pause]].
-#: {{usex|lang=en|“So what have you been doing?” “'''Well''', we went for a picnic, and then it started raining so we came home early.”}}
+#: {{ux|en|“So what have you been doing?” “'''Well''', we went for a picnic, and then it started raining so we came home early.”}}
 
 =====Derived terms=====
 * [[well, well]]
@@ -444,24 +444,24 @@ From {{etyl|ang|en}} {{m|ang|well||well}}, from {{etyl|gem-pro|en}} {{m|gem-pro|
 #* Milton
 #*: Begin, then, sisters of the sacred '''well'''.
 # A small [[depression]] suitable for holding [[liquid]], or other objects.
-# {{context|figurative|lang=en}} A source of supply.
+# {{label|en|figurative}} A source of supply.
 #* Spenser
 #*: Dan Chaucer, '''well''' of English undefiled
 #* Keble
 #*: a '''well''' of serious thought and pure
-# {{context|nautical|lang=en}} A vertical, cylindrical [[trunk]] in a [[ship]], reaching down to the lowest part of the [[hull]], through which the [[bilge pump]]s operate.
-# {{context|nautical|lang=en}} The [[cockpit]] of a [[sailboat]].
-# {{context|nautical|lang=en}} A compartment in the middle of the hold of a fishing vessel, made tight at the sides, but having holes perforated in the bottom to let in water to keep fish alive while they are transported to market.
-# {{context|nautical|lang=en}} A vertical passage in the [[stern]] into which an [[auxiliary]] [[screw]] [[propeller]] may be drawn up out of the water.
-# {{context|military|lang=en}} A hole or excavation in the earth, in mining, from which run branches or galleries.
-# {{context|architecture|lang=en}} An opening through the floors of a building, as for a staircase or an elevator; a [[wellhole]].
-# {{context|metalworking|lang=en}} The lower part of a [[furnace]], into which the metal falls.
+# {{label|en|nautical}} A vertical, cylindrical [[trunk]] in a [[ship]], reaching down to the lowest part of the [[hull]], through which the [[bilge pump]]s operate.
+# {{label|en|nautical}} The [[cockpit]] of a [[sailboat]].
+# {{label|en|nautical}} A compartment in the middle of the hold of a fishing vessel, made tight at the sides, but having holes perforated in the bottom to let in water to keep fish alive while they are transported to market.
+# {{label|en|nautical}} A vertical passage in the [[stern]] into which an [[auxiliary]] [[screw]] [[propeller]] may be drawn up out of the water.
+# {{label|en|military}} A hole or excavation in the earth, in mining, from which run branches or galleries.
+# {{label|en|architecture}} An opening through the floors of a building, as for a staircase or an elevator; a [[wellhole]].
+# {{label|en|metalworking}} The lower part of a [[furnace]], into which the metal falls.
 # A [[well drink]].
 #: ''They're having a special tonight: $1 '''wells'''.''
-# {{context|video games|lang=en}} The [[playfield]] of ''[[Tetris]]'' and similar video games, into which the [[block]]s fall.
+# {{label|en|video games}} The [[playfield]] of ''[[Tetris]]'' and similar video games, into which the [[block]]s fall.
 #* '''2005''', James Paul Gee, ''Why Video Games are Good for Your Soul''
 #*: Tetris, the most widely played computer game of all time, is a problem-solving puzzle game. {{...}} The player attempts to lock the falling shape smoothly together with the shapes in the '''well'''.
-# {{cx|biology|lang=en}} In a microtiter plate, each of the small equal circular or square sections which serve as test tubes.
+# {{lb|en|biology}} In a microtiter plate, each of the small equal circular or square sections which serve as test tubes.
 
 =====Synonyms=====
 * {{sense|excavation in the earth, from which run branches or galleries}} [[shaft]]
@@ -711,7 +711,7 @@ Cognate with German {{m|de|weil}}.
 {{head|lb|conjunction}}
 
 # [[because]]
-#: {{usex|Ech gi geschwënn um Bett, '''well''' ech midd sinn.|t=I'm going to bed soon '''because''' I am tired.|lang=lb}}
+#: {{ux|lb|Ech gi geschwënn um Bett, '''well''' ech midd sinn.|t=I'm going to bed soon '''because''' I am tired.}}
 
 ----
 
