@@ -6,7 +6,7 @@
 ===Pronoun===
 {{head|ia|pronoun}}
 
-# {{context|indefinite|lang=ia}} The absence of anything; [[nothing]].
+# {{label|ia|indefinite}} The absence of anything; [[nothing]].
 
 ----
 
@@ -27,11 +27,11 @@ From {{m|la|nihilum}}, from {{prefix|ne|t1=not|hilum|t2=a [[trifle]], a [[bagate
 ===Pronoun===
 {{head|la|pronoun|g=n|indeclinable}}
 
-# {{context|indefinite|lang=la}} [[nothing]]
+# {{label|la|indefinite}} [[nothing]]
 #* {{Q|la|Terence|Heauton Timorumenos|1|77|quote=Homo sum, humani '''nihil''' a me alienum puto.|trans=I am a man, I consider '''nothing''' that is human alien to me.}}
 #* {{Q|la|Cicero|Catiline|Oratio in Catilinam Prima in Senatu Habita|8|quote='''Nihil''' agis, '''nihil''' moliris, '''nihil''' cogitas quod non ego non modo audiam sed etiam videam planeque sentiam.|trans=You do '''nothing''', you plan '''nothing''', you think of '''nothing''' which I not only do not hear, but which I do not see and know every particular of.}}
-#: {{usex|lang=la|inline=1|'''Nihil'''ne in mentem?|t=Does '''nothing''' come to mind?}}
-#: {{usex|lang=la|inline=1|'''Nihil''' est.|t=It's '''nothing'''.}}
+#: {{ux|la|inline=1|'''Nihil'''ne in mentem?|t=Does '''nothing''' come to mind?}}
+#: {{ux|la|inline=1|'''Nihil''' est.|t=It's '''nothing'''.}}
 
 ====Declension====
 {{la-decl-indecl|nihil}}
@@ -52,7 +52,7 @@ From {{m|la|nihilum}}, from {{prefix|ne|t1=not|hilum|t2=a [[trifle]], a [[bagate
 {{cardinalbox|ms||0|1||satu}}
 
 ===Etymology===
-From {{etyl|la|ms}} {{term|nihil|lang=la}}.
+From {{etyl|la|ms}} {{m|la|nihil}}.
 
 ===Alternative forms===
 * {{l|ms|نيهيل|sc=Arab}}
@@ -64,7 +64,7 @@ From {{etyl|la|ms}} {{term|nihil|lang=la}}.
 ===Numeral===
 {{head|ms|numeral|Jawi spelling|نيهيل}}
 
-# {{context|cardinal|lang=ms}} {{l|en|zero}}
+# {{label|ms|cardinal}} {{l|en|zero}}
 
 ====Synonyms====
 * {{l|ms|kosong}} / {{l|ms|کوسوڠ|sc=Arab}}
