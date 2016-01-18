@@ -11,9 +11,9 @@ From {{etyl|fr|en}} {{m|fr|quadratique}} (1765), from {{etyl|la|en}} {{m|la|quad
 {{en-adj|-}}
 
 # square-shaped
-# {{context|mathematics|lang=en}} of a polynomial, involving the second power (square) of a variable but no higher powers, as <math>ax^2 + bx + c</math>.
-# {{context|mathematics|lang=en}} of an equation, of the form <math> ax^2 + bx + c = 0</math>.
-# {{context|mathematics|lang=en}} of a [[function]], of the form <math> y = ax^2 + bx + c </math>.
+# {{label|en|mathematics}} of a polynomial, involving the second power (square) of a variable but no higher powers, as <math>ax^2 + bx + c</math>.
+# {{label|en|mathematics}} of an equation, of the form <math> ax^2 + bx + c = 0</math>.
+# {{label|en|mathematics}} of a [[function]], of the form <math> y = ax^2 + bx + c </math>.
 <!-- Disputed. # the shape of a [[square]]-->
 
 ====Translations====
@@ -36,7 +36,7 @@ From {{etyl|fr|en}} {{m|fr|quadratique}} (1765), from {{etyl|la|en}} {{m|la|quad
 ===Noun===
 {{en-noun}}
 
-# {{context|mathematics|lang=en}} A quadratic polynomial, function or equation.
+# {{label|en|mathematics}} A quadratic polynomial, function or equation.
 
 ===Usage notes===
 Not to be confused with {{m|en|quartic||degree four}}. Both derive ultimately from {{etyl|ine-pro|-}} {{m|ine-pro|*kʷetwóres||four}}, with '''quadratic''' coming from “four-sided”, hence “square, two-dimensional, degree ''two''”.
