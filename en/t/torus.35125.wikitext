@@ -5,7 +5,7 @@
 [[Image:Torus.png|thumb|A geometrical torus]]
 
 ===Etymology===
-From {{etyl|la|en}} {{term|torus||swelling, protuberance|lang=la}}.
+From {{etyl|la|en}} {{m|la|torus||swelling, protuberance}}.
 
 ===Pronunciation===
 * {{IPA|/ˈtɔːrəs/|lang=en}}
@@ -16,12 +16,12 @@ From {{etyl|la|en}} {{term|torus||swelling, protuberance|lang=la}}.
 ===Noun===
 {{en-noun|tori|toruses}}
 
-# {{context|topology|lang=en}} A [[topological space]] which is a [[product]] of two [[circle]]s.
+# {{label|en|topology}} A [[topological space]] which is a [[product]] of two [[circle]]s.
 #: A 4-variable Karnaugh map can be thought of, topologically, as being a '''torus'''.
-# {{context|mathematics|lang=en}} The standard representation of such a space in 3-dimensional Euclidean space: a [[shape]] consisting of a [[ring]] with a [[circular]] cross-section: the shape of an [[inner tube]] or hollow doughnut.
-# {{context|topology|in combination|<nowiki/>'''''n''-torus'''|<nowiki/>'''4-torus'''|etc.|lang=en}} The [[product]] of the specified number of [[circle]]s.
-# {{context|architecture|lang=en}} A [[molding]] which projects at the base of a [[column]] and above the [[plinth]].
-# {{context|botany|lang=en}} The end of the [[peduncle]] or [[flower]] [[stalk]] to which the floral parts (or in the Asteraceae, the florets of a flower head) are attached; see [[receptacle]].
+# {{label|en|mathematics}} The standard representation of such a space in 3-dimensional Euclidean space: a [[shape]] consisting of a [[ring]] with a [[circular]] cross-section: the shape of an [[inner tube]] or hollow doughnut.
+# {{label|en|topology|in combination|<nowiki/>'''''n''-torus'''|<nowiki/>'''4-torus'''|etc.}} The [[product]] of the specified number of [[circle]]s.
+# {{label|en|architecture}} A [[molding]] which projects at the base of a [[column]] and above the [[plinth]].
+# {{label|en|botany}} The end of the [[peduncle]] or [[flower]] [[stalk]] to which the floral parts (or in the Asteraceae, the florets of a flower head) are attached; see [[receptacle]].
 
 ====Derived terms====
 * [[hypertorus]]
@@ -105,9 +105,9 @@ From {{etyl|ine-pro|la}} {{m|ine-pro|*sterh₃-}}.
 # the [[muscular]] part of an [[animal]]
 # [[raised]] [[ornament]] on a [[garland]]
 # [[bolster]], [[cushion]]
-# {{context|by extension|lang=la}} [[bed]], [[couch]]
+# {{label|la|by extension}} [[bed]], [[couch]]
 # [[embankment]], an [[elevation]] of earth
-# {{context|architecture|lang=la}} large round [[molding]] at the base of a [[column]]
+# {{label|la|architecture}} large round [[molding]] at the base of a [[column]]
 
 ====Inflection====
 {{la-decl-2nd|tor}}
@@ -131,7 +131,7 @@ From {{etyl|ine-pro|la}} {{m|ine-pro|*sterh₃-}}.
 ===Noun===
 {{sv-noun|c}}
 
-# {{context|topology|lang=sv}} [[#English|torus]]; a shape consisting of a ring, or an object of the same [[topology]] residing in a space of higher dimension; especially considered as a [[Cartesian product]] of two [[circle]]s in a four-dimensional space
+# {{label|sv|topology}} [[#English|torus]]; a shape consisting of a ring, or an object of the same [[topology]] residing in a space of higher dimension; especially considered as a [[Cartesian product]] of two [[circle]]s in a four-dimensional space
 
 ====Declension====
 {{sv-infl-noun-c-ar|genitive=}}
