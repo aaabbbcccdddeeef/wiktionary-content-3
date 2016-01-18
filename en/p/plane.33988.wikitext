@@ -48,11 +48,11 @@ From {{etyl|la|en}} {{m|la|planum||flat surface}}, a noun use of the neuter of {
 {{en-noun}}
 
 # A level or flat surface.
-# {{context|geometry|lang=en}} A flat [[surface]] extending infinitely in all directions (e.g. horizontal or vertical plane).
+# {{label|en|geometry}} A flat [[surface]] extending infinitely in all directions (e.g. horizontal or vertical plane).
 # A level of existence or development. (''eg'', ''astral '''plane''''')
 # A roughly flat, thin, often moveable structure used to create lateral force by the flow of air or water over its surface, found on aircraft, submarines, etc.
-# {{context|computing|[[Unicode]]|lang=en}} Any of a number of designated [[range]]s of [[sequential]] [[code point]]s.
-# {{context|anatomy|lang=en}} An imaginary plane which divides the body into two portions.
+# {{label|en|computing|[[Unicode]]}} Any of a number of designated [[range]]s of [[sequential]] [[code point]]s.
+# {{label|en|anatomy}} An imaginary plane which divides the body into two portions.
 
 =====Hyponyms=====
 * {{sense|mathematics}} [[real plane]], [[complex plane]]
@@ -137,13 +137,13 @@ From {{etyl|la|en}} {{m|la|planum||flat surface}}, a noun use of the neuter of {
 
 ===Etymology 2===
 {{wikipedia|Plane (tool)}}
-From {{etyl|enm|en}}, from {{etyl|xno|en}}, from {{etyl|fro|en}}, from {{etyl|LL.|en}} {{term|plana||lang=la|planing tool}}, from {{term|plano||lang=la|to level}}
+From {{etyl|enm|en}}, from {{etyl|xno|en}}, from {{etyl|fro|en}}, from {{etyl|LL.|en}} {{m|la|plana||planing tool}}, from {{m|la|plano||to level}}
 
 ====Noun====
 [[Image:Stanley_No10_carriagemakers_rebate_plane.jpg|thumb|right|200px|a rabbet plane]]
 {{en-noun}}
 
-# {{context|countable|lang=en}} A [[tool]] for [[smooth]]ing [[wood]] by removing thin layers from the [[surface]].
+# {{label|en|countable}} A [[tool]] for [[smooth]]ing [[wood]] by removing thin layers from the [[surface]].
 
 =====Translations=====
 {{trans-top|a tool}}
@@ -205,7 +205,7 @@ From {{etyl|enm|en}}, from {{etyl|xno|en}}, from {{etyl|fro|en}}, from {{etyl|LL
 ====Verb====
 {{en-verb|plan}}
 
-# {{context|transitive|lang=en}} To [[smooth]] (wood) with a plane.
+# {{label|en|transitive}} To [[smooth]] (wood) with a plane.
 
 =====Translations=====
 {{trans-top|to smooth with a plane}}
@@ -301,7 +301,7 @@ Abbreviated from ''[[aeroplane]]''.
 ====Verb====
 {{en-verb|plan}}
 
-# {{context|nautical|lang=en}} To move in a way that lifts the [[bow]] of a [[boat]] out of the [[water]].
+# {{label|en|nautical}} To move in a way that lifts the [[bow]] of a [[boat]] out of the [[water]].
 # To [[glide]] or [[soar]].
 
 =====Translations=====
@@ -330,13 +330,13 @@ Abbreviated from ''[[aeroplane]]''.
 {{trans-bottom}}
 
 ===Etymology 4===
-From {{etyl|fro|en}} {{term|plane|lang=fro}}, from {{etyl|la|en}} {{term|platanus|lang=la}}, from {{etyl|grc|en}} {{term|πλάτανος|lang=grc}}, from {{term|πλατύς||wide, broad|lang=grc}}.
+From {{etyl|fro|en}} {{m|fro|plane}}, from {{etyl|la|en}} {{m|la|platanus}}, from {{etyl|grc|en}} {{m|grc|πλάτανος}}, from {{m|grc|πλατύς||wide, broad}}.
 
 ====Noun====
 {{en-noun}}
 
-# {{senseid|en|deciduous tree}}{{context|countable|lang=en}} A [[deciduous]] [[tree]] of the [[genus]] ''[[Platanus]]''.
-# {{context|Northern UK|lang=en}} A [[sycamore]].
+# {{senseid|en|deciduous tree}}{{label|en|countable}} A [[deciduous]] [[tree]] of the [[genus]] ''[[Platanus]]''.
+# {{label|en|Northern UK}} A [[sycamore]].
 
 =====Translations=====
 {{trans-top|deciduous tree}}
@@ -430,14 +430,14 @@ From {{etyl|fro|en}} {{term|plane|lang=fro}}, from {{etyl|la|en}} {{term|platanu
 ==Latin==
 
 ===Etymology===
-From {{term|plānus||intelligible, clear|lang=la}}.
+From {{m|la|plānus||intelligible, clear}}.
 
 ===Adverb===
 {{la-adv|plane|plānē|-}}
 
 # [[distinctly]], [[intelligibly]]
 # [[wholly]], [[quite]], [[thoroughly]]
-# {{context|in answering|lang=la}} [[certainly]], [[absolutely]], by all reason, beyond a doubt
+# {{label|la|in answering}} [[certainly]], [[absolutely]], by all reason, beyond a doubt
 
 ====Related terms====
 * {{l|la|plānus}}
