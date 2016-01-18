@@ -4,7 +4,7 @@
 {{number box|en|1}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{term|ones||lang=enm}} (genitive of {{term|on||lang=enm|one}} used adverbally), from {{etyl|ang|en}} {{m|ang|ānes||of one}}, genitive of {{m|ang|ān||one}}. Compare {{etyl|osx|-}} {{term|ēnes||once|lang=osx}}, {{etyl|goh|-}} {{m|goh|einēst||once}} ({{etyl|de|-}} {{term|einst|lang=de}}). More at {{l|en|one}}, [[-s#Etymology_3|-s]].
+From {{etyl|enm|en}} {{m|enm|ones|}} (genitive of {{m|enm|on||one}} used adverbally), from {{etyl|ang|en}} {{m|ang|ānes||of one}}, genitive of {{m|ang|ān||one}}. Compare {{etyl|osx|-}} {{m|osx|ēnes||once}}, {{etyl|goh|-}} {{m|goh|einēst||once}} ({{etyl|de|-}} {{m|de|einst}}). More at {{l|en|one}}, [[-s#Etymology_3|-s]].
 
 ===Pronunciation===
 * {{enPR|wŭn(t)s}}, {{IPA|/wʌn(t)s/|lang=en}}
@@ -193,7 +193,7 @@ From {{etyl|enm|en}} {{term|ones||lang=enm}} (genitive of {{term|on||lang=enm|on
 ===Numeral===
 {{head|an|numeral}}
 
-# {{context|cardinal|lang=an}} [[eleven]]
+# {{label|an|cardinal}} [[eleven]]
 
 ----
 
@@ -206,7 +206,7 @@ From {{etyl|la|ast}} {{m|la|ūndecim}}.
 ===Numeral===
 {{ast-num-card}}
 
-# {{context|cardinal|lang=ast}} [[eleven]]
+# {{label|ast|cardinal}} [[eleven]]
 
 ====Derived terms====
 * [[oncenu]]
@@ -219,16 +219,16 @@ From {{etyl|la|ast}} {{m|la|ūndecim}}.
 * {{audio|Fr-Paris--once.ogg|Audio (Paris)|lang=fr}}
 
 ===Etymology 1===
-From {{etyl|la|fr}} {{term|uncia|lang=la}}.
+From {{etyl|la|fr}} {{m|la|uncia}}.
 
 ====Noun====
 {{fr-noun|f}}
 
 # [[ounce]] ([[avoirdupois ounce]])
-# {{context|figuratively|by extension|lang=fr}} a little bit
+# {{label|fr|figuratively|by extension}} a little bit
 
 ===Etymology 2===
-From {{etyl|fro|fr}} {{term|lonce|lang=fro}} which became ''l'once'' ({{m|fr|[[la]] + once}}), itself from {{etyl|VL.|fr}} {{m|la|*luncea}}, from {{etyl|la|fr}} {{term|lynx|lang=la}}, ultimately from {{etyl|grc|fr}} {{term|λύγξ|lang=grc}}, or possibly borrowed from {{etyl|it|fr}} {{term|lonza|lang=it}}.
+From {{etyl|fro|fr}} {{m|fro|lonce}} which became ''l'once'' ({{m|fr|[[la]] + once}}), itself from {{etyl|VL.|fr}} {{m|la|*luncea}}, from {{etyl|la|fr}} {{m|la|lynx}}, ultimately from {{etyl|grc|fr}} {{m|grc|λύγξ}}, or possibly borrowed from {{etyl|it|fr}} {{m|it|lonza}}.
 
 ====Noun====
 {{fr-noun|f}}
@@ -271,7 +271,7 @@ From {{etyl|la|gl}} {{m|la|ūndecim}}.
 ===Numeral===
 {{gl-num-card}}
 
-# {{context|cardinal|lang=gl}} [[eleven]]
+# {{label|gl|cardinal}} [[eleven]]
 
 ----
 
@@ -308,7 +308,7 @@ Snacks were typically taken at 11 am.
 ====Noun====
 {{es-noun|f}}
 
-# {{context|Latin American Spanish|lang=es}} [[snack]] (bread with tea or coffee).
+# {{label|es|Latin American Spanish}} [[snack]] (bread with tea or coffee).
 
 ===Related terms===
 * [[onceno]]
