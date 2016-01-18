@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|la|en}} {{term|spectrum||appearance, image, apparition|lang=la}}, from {{term|speciō||look at, view|lang=la}}. (see [[scope]])
+From {{etyl|la|en}} {{m|la|spectrum||appearance, image, apparition}}, from {{m|la|speciō||look at, view}}. (see [[scope]])
 
 ===Pronunciation===
 * {{a|Canada|UK}} {{IPA|/ˈspektrəm/|lang=en}}
@@ -21,9 +21,9 @@ From {{etyl|la|en}} {{term|spectrum||appearance, image, apparition|lang=la}}, fr
 #* '''2010''' October 30, Jim Giles, ''Jammed!'', in ''[[w:New Scientist|New Scientist]]'',
 #*: Current 3G technologies can send roughly 1 bit of data - a one or a zero - per second over each 1 Hz of '''spectrum''' that the operator owns.
 # {{lb|en|psychology|education}} The [[autism spectrum]].
-# {{context|chemistry|lang=en}} The pattern of [[absorption]] or [[emission]] of [[radiation]] produced by a substance when subjected to energy (radiation, heat, electricity, etc.).
-# {{context|mathematics|linear algebra|lang=en}} The set of [[eigenvalue]]s of a [[matrix]].
-# {{context|mathematics|functional analysis|lang=en}} Of a [[bounded]] [[linear operator]] ''A'', the set of [[scalar]] values λ such that the [[operator]] ''A—λI'', where ''I'' denotes the identity operator, does not have a bounded [[inverse]]; intended as a generalisation of the linear algebra sense.
+# {{label|en|chemistry}} The pattern of [[absorption]] or [[emission]] of [[radiation]] produced by a substance when subjected to energy (radiation, heat, electricity, etc.).
+# {{label|en|mathematics|linear algebra}} The set of [[eigenvalue]]s of a [[matrix]].
+# {{label|en|mathematics|functional analysis}} Of a [[bounded]] [[linear operator]] ''A'', the set of [[scalar]] values λ such that the [[operator]] ''A—λI'', where ''I'' denotes the identity operator, does not have a bounded [[inverse]]; intended as a generalisation of the linear algebra sense.
 
 ====Derived terms====
 * [[light spectrum]]
