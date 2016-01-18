@@ -5,13 +5,13 @@
 * {{rhymes|eɪlə(ɹ)|lang=en}}
 
 ===Etymology===
-From {{etyl|la|en}} {{term|scālāris|lang=la}}, adjectival form from {{term|scāla||lang=la|a flight of steps, stairs, staircase, ladder, scale}}, for {{m|la||*scadla}}, from {{m|la|scandere||to climb}}; compare {{m|en|scale}}.
+From {{etyl|la|en}} {{m|la|scālāris}}, adjectival form from {{m|la|scāla||a flight of steps, stairs, staircase, ladder, scale}}, for {{m|la||*scadla}}, from {{m|la|scandere||to climb}}; compare {{m|en|scale}}.
 
 ===Adjective===
 {{en-adj|-}}
 
-# {{context|mathematics|lang=en}} Having [[magnitude]] but not [[direction]]
-# {{context|computer science|lang=en}} Consisting of a single value (e.g. integer or string) rather than multiple values (e.g. array)
+# {{label|en|mathematics}} Having [[magnitude]] but not [[direction]]
+# {{label|en|computer science}} Consisting of a single value (e.g. integer or string) rather than multiple values (e.g. array)
 # Of, or relating to [[scale]]
 
 ====Translations====
@@ -46,8 +46,8 @@ From {{etyl|la|en}} {{term|scālāris|lang=la}}, adjectival form from {{term|sc�
 ===Noun===
 {{en-noun}}
 
-# {{context|mathematics|lang=en}} A quantity that has magnitude but not direction; compare [[vector]]
-# {{context|electronics|lang=en}} An [[amplifier]] whose [[output]] is a constant multiple of its [[input]]
+# {{label|en|mathematics}} A quantity that has magnitude but not direction; compare [[vector]]
+# {{label|en|electronics}} An [[amplifier]] whose [[output]] is a constant multiple of its [[input]]
 
 ====Related terms====
 * [[vector]]
