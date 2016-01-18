@@ -15,7 +15,7 @@
 {{en-adj|-}}
 
 # Of or pertaining to the work of [[w:George Boole|George Boole]].
-# {{context|logic|computing|lang=en}} Pertaining to [[data]] items that can have “[[true]]” and “[[false]]” (or, equivalently, [[1]] and [[0]] respectively) as their only possible [[value]]s and to [[operation]]s on such values.
+# {{label|en|logic|computing}} Pertaining to [[data]] items that can have “[[true]]” and “[[false]]” (or, equivalently, [[1]] and [[0]] respectively) as their only possible [[value]]s and to [[operation]]s on such values.
 
 ====Derived terms====
 * [[Boolean algebra]]
@@ -46,7 +46,7 @@
 ===Noun===
 {{en-noun}}
 
-# {{context|logic|computing|lang=en}} A [[variable]] that can hold a single [[true]]/[[false]] ([[1]]/[[0]]) value.
+# {{label|en|logic|computing}} A [[variable]] that can hold a single [[true]]/[[false]] ([[1]]/[[0]]) value.
 
 ====Synonyms====
 * {{sense|Boolean variable}} [[flag]], [[bool]]
