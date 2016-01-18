@@ -19,16 +19,16 @@ From {{etyl|enm|en}} {{m|enm|kernel}}, {{m|enm|kirnel}}, {{m|enm|kurnel|kürnel}
 #: ''the '''kernel''' of an argument''
 # The central (usually edible) part of a [[nut]], especially once the hard [[shell]] has been removed.
 # A single [[seed]] or [[grain]], especially of [[corn]] or [[wheat]].
-# {{context|US|lang=en}} The [[stone]] of certain fruits, such as [[peach]]es or [[plum]]s.
+# {{label|en|US}} The [[stone]] of certain fruits, such as [[peach]]es or [[plum]]s.
 # A small mass around which other matter is concreted; a [[nucleus]]; a [[concretion]] or hard lump in the flesh.
-# {{context|computing|lang=en}} The central part of many computer [[operating system]]s which manages the system's [[resource]]s and the [[communication]] between [[hardware]] and [[software]] components.
-# {{context|calculus|lang=en}} A function used to define an [[integral transform]].
+# {{label|en|computing}} The central part of many computer [[operating system]]s which manages the system's [[resource]]s and the [[communication]] between [[hardware]] and [[software]] components.
+# {{label|en|calculus}} A function used to define an [[integral transform]].
 #: ''The Dirichlet '''kernel''' convolved with a function yields its Fourier series approximation.''
-# {{context|mathematics|lang=en}} A set of pairs of a mapping's domain which are mapped to the same value.
-# {{context|mathematics|algebra|lang=en}} Those elements, in the [[domain]] of a [[function]], which the function maps to [[zero]].
+# {{label|en|mathematics}} A set of pairs of a mapping's domain which are mapped to the same value.
+# {{label|en|mathematics|algebra}} Those elements, in the [[domain]] of a [[function]], which the function maps to [[zero]].
 #: ''If a function is continuous then its '''kernel''' is a closed set.''
-# {{context|mathematics|fuzzy set theory|lang=en}} The [[set]] of members of a [[fuzzy set]] that are fully included (i.e., whose grade of membership is 1).
-# {{context|slang|lang=en}} The human [[clitoris]].
+# {{label|en|mathematics|fuzzy set theory}} The [[set]] of members of a [[fuzzy set]] that are fully included (i.e., whose grade of membership is 1).
+# {{label|en|slang}} The human [[clitoris]].
 #* '''2014''', Karyn Gerrard, Irene Preston, Lotchie Burton ''et al'', ''Summer Heat: 10 Spicy Romances That Sizzle''
 #*: Using the blunt end of one of the vibraphone mallets, he pried open her folds. With the balled end of the other, he rhythmically rolled over her '''kernel'''.
 
@@ -184,7 +184,7 @@ From {{etyl|en|hu}} {{m|en|kernel}} <ref>{{R:TotfalusiEty 2005}}</ref>
 ===Noun===
 {{hu-noun|ek}}
 
-# {{context|computing|lang=hu}} [[kernel#English|kernel]] (the central part of many computer operating systems)
+# {{label|hu|computing}} [[kernel#English|kernel]] (the central part of many computer operating systems)
 
 ====Declension====
 {{hu-decl-ek|kerne|l}}{{hu-pos-etek|kernel||ei}}
