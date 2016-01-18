@@ -6,7 +6,7 @@
 * {{rhymes|ɛs|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{term|blessen|lang=enm}}, from {{etyl|ang|en}} {{m|ang|blētsian}}, {{m|ang|blēdsian||to consecrate ''(with blood)''}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*blōþisōną||to sprinkle, mark or hallow with blood}}, from {{m|gem-pro|*blōþą||blood}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bhlo-to-||to gush, spurt}}, from {{m|ine-pro|*bhol-}}, {{m|ine-pro|*bhlē-dh-}}, {{m|ine-pro|*bhlō(w)-||to thrive, flourish, bloom}}. Cognate with {{etyl|non|-}} {{term|bleza||to bless|lang=non}} (whence {{etyl|is|-}} {{term|blessa|lang=is}}), {{etyl|ang|-}} {{m|ang|blēdan||to bleed}}. More at {{term|bleed|lang=en}}.
+From {{etyl|enm|en}} {{m|enm|blessen}}, from {{etyl|ang|en}} {{m|ang|blētsian}}, {{m|ang|blēdsian||to consecrate ''(with blood)''}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*blōþisōną||to sprinkle, mark or hallow with blood}}, from {{m|gem-pro|*blōþą||blood}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bhlo-to-||to gush, spurt}}, from {{m|ine-pro|*bhol-}}, {{m|ine-pro|*bhlē-dh-}}, {{m|ine-pro|*bhlō(w)-||to thrive, flourish, bloom}}. Cognate with {{etyl|non|-}} {{m|non|bleza||to bless}} (whence {{etyl|is|-}} {{m|is|blessa}}), {{etyl|ang|-}} {{m|ang|blēdan||to bleed}}. More at {{m|en|bleed}}.
 
 ====Verb====
 {{en-verb|blesses|blessing|blest|past2=blessed}}
@@ -20,13 +20,13 @@ From {{etyl|enm|en}} {{term|blessen|lang=enm}}, from {{etyl|ang|en}} {{m|ang|bl�
 # To esteem or account happy; to [[felicitate]].
 #* Bible, Jer. iv. 3
 #*: The nations shall '''bless''' themselves in him.
-# {{context|obsolete|lang=en}} To wave; to brandish.
+# {{label|en|obsolete}} To wave; to brandish.
 #* Spenser
 #*: And burning blades about their heads do '''bless'''.
 #* Fairfax
 #*: Round his armed head his trenchant blade he '''blest'''.
-# {{context|[[Perl]]|_|programming|transitive|lang=en}} {{context|past tense only '''blessed'''|lang=en}} To turn (a [[reference]]) into an [[object]].
-# {{context|archaic|lang=en}} To secure, defend, or preserve ''from''.
+# {{label|en|[[Perl]]|_|programming|transitive}} {{label|en|past tense only '''blessed'''}} To turn (a [[reference]]) into an [[object]].
+# {{label|en|archaic}} To secure, defend, or preserve ''from''.
 #* Shakespeare
 #*: '''Bless''' me '''from''' marrying a usurer.
 #* Milton
@@ -93,7 +93,7 @@ An ellipsis for an expression such as {{m|en|bless someone's heart|bless your he
 ====Interjection====
 {{en-interj}}
 
-# {{context|UK|informal|lang=en}} {{non-gloss definition|Used as an expression of endearment, or (ironically) belittlement.}}
+# {{label|en|UK|informal}} {{non-gloss definition|Used as an expression of endearment, or (ironically) belittlement.}}
 #* '''1998''', "Peter Coffey", ''New Alternative View Of Atomic Structure'', <tt>sci.chem</tt>, ''Usenet'':
 #*: Ah '''bless'''! You must be the welcoming committee for anyone who dares express ignorance.
 #* '''2000''', "Hellraiser", a post in <tt>uk.people.teens</tt>, ''Usenet'':
