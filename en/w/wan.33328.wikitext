@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology 1===
-From {{etyl|enm|en}}, from {{etyl|ang|en}} {{term|ƿann||dark, dusky|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*wannaz||dark, swart}}, of uncertain origin. Cognate with {{etyl|ofs|-}} {{term|wann|lang=ofs}}, {{term|wonn||dark|lang=ofs}}.
+From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|ƿann||dark, dusky}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*wannaz||dark, swart}}, of uncertain origin. Cognate with {{etyl|ofs|-}} {{m|ofs|wann}}, {{m|ofs|wonn||dark}}.
 
 ====Pronunciation====
 * {{rhymes|ɒn|lang=en}}
@@ -102,7 +102,7 @@ Inflected forms.
 ====Verb====
 {{head|en|verb form}}
 
-# {{context|obsolete|lang=en}} {{en-past of|win}}
+# {{label|en|obsolete}} {{en-past of|win}}
 
 ===Anagrams===
 * [[awn#English|awn]], [[NWA#English|NWA]]
@@ -178,7 +178,7 @@ From {{der|frr|ofs|winna}}, which derives from from {{der|frr|gem-pro|*winnaną}
 ===Verb===
 {{head|frr|verb}}
 
-# {{context|Föhr-Amrum Dialect|lang=frr}} to {{l|en|win}}
+# {{label|frr|Föhr-Amrum Dialect}} to {{l|en|win}}
 
 ====Conjugation====
 {{frr-FoehrAmrum-conj-table
@@ -242,7 +242,7 @@ From {{der|frr|ofs|winna}}, which derives from from {{der|frr|gem-pro|*winnaną}
 ===Numeral===
 {{head|sco|numeral|cat2=cardinal numbers}}
 
-# {{context|West Central Scots|lang=sco}} [[one]].
+# {{label|sco|West Central Scots}} [[one]].
 
 ----
 
@@ -254,7 +254,7 @@ From {{der|srn|en|one}}.
 ====Number====
 {{head|srn|number}}
 
-# {{context|cardinal|lang=srn}} [[one]]
+# {{label|srn|cardinal}} [[one]]
 
 ===Etymology 2===
 From {{der|srn|en|want}}.
