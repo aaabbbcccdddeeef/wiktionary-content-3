@@ -23,8 +23,8 @@ Shortening of ''[[graphic]] [[formula]]''.
 |magazine=[[w:American Scientist|American Scientist]]
 |url=http://www.americanscientist.org/issues/pub/pixels-or-perish
 |passage=Drawings and pictures are more than mere ornaments in scientific discourse. Blackboard sketches, geological maps, diagrams of molecular structure, astronomical photographs, MRI images, the many varieties of statistical charts and '''graphs''': These pictorial devices are indispensable tools for presenting evidence, for explaining a theory, for telling a story.}}
-# {{context|mathematics|lang=en}} A [[diagram]] displaying data, in particular one showing the relationship between two or more [[variable]]s; specifically, for a function <math>f(x_1, x_2, \ldots, x_n)</math>, the [[set]] of all [[tuple]]s <math>(x_1, x_2, \ldots, x_n, f(x_1, x_2, \ldots, x_n))</math>.
-# {{context|graph theory|lang=en}} An [[ordered pair]] <math>(V,E)</math>, where <math>V</math> is a set of elements called ''[[vertex|vertices]]'' (or ''[[node]]s'') and <math>E</math> is a set of pairs of [[element]]s of <math>V</math>, called ''[[edge]]s''; informally, a set of vertices together with a set edges that join these vertices.
+# {{label|en|mathematics}} A [[diagram]] displaying data, in particular one showing the relationship between two or more [[variable]]s; specifically, for a function <math>f(x_1, x_2, \ldots, x_n)</math>, the [[set]] of all [[tuple]]s <math>(x_1, x_2, \ldots, x_n, f(x_1, x_2, \ldots, x_n))</math>.
+# {{label|en|graph theory}} An [[ordered pair]] <math>(V,E)</math>, where <math>V</math> is a set of elements called ''[[vertex|vertices]]'' (or ''[[node]]s'') and <math>E</math> is a set of pairs of [[element]]s of <math>V</math>, called ''[[edge]]s''; informally, a set of vertices together with a set edges that join these vertices.
 # {{lb|en|typography}} A [[character]], in particular the [[abstracted]] fundamental shape of a character as distinct from its [[ductus]] (realization in a particular typeface or handwriting: compare [[glyph]]).
 
 ====Synonyms====
@@ -155,8 +155,8 @@ Shortening of ''[[graphic]] [[formula]]''.
 ===Verb===
 {{en-verb}}
 
-# {{context|transitive|lang=en}} To draw a graph.
-# {{context|transitive|mathematics|lang=en}} To draw a graph of a function.
+# {{label|en|transitive}} To draw a graph.
+# {{label|en|transitive|mathematics}} To draw a graph of a function.
 
 ====Synonyms====
 * {{sense|draw a graph of}} [[plot]], [[chart]]
