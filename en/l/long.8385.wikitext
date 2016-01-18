@@ -10,7 +10,7 @@
 * {{rhymes|ɒŋ|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|ang|longe}}, {{m|ang|long}}, {{term|lang||long, tall, lasting|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*langaz||long}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*dl̥h₁gʰós||long}}. Cognate with {{etyl|sco|-}} {{term|lang||long|lang=sco}}, {{etyl|frr|-}} {{m|frr|long}}, {{term|lung||long|lang=frr}}, {{etyl|stq|-}} {{term|loang||long|lang=stq}}, {{etyl|fy|-}} {{term|lang||long|lang=fy}}, {{etyl|nl|-}} {{term|lang||long|lang=nl}}, {{etyl|de|-}} {{term|lang||long|lang=de}}, {{etyl|sv|-}} {{term|lång||long|lang=sv}}, {{etyl|is|-}} {{term|langur||long|lang=is}}, {{etyl|gl|-}} {{term|longo||long|lang=gl}}, {{etyl|la|-}} {{term|longus||long|lang=la}}, {{etyl|grc|-}} {{m|grc|δολιχός}}, {{etyl|ru|-}} {{m|ru|до́лгий}}, {{m|ru|дли́нный}}.
+From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|ang|longe}}, {{m|ang|long}}, {{m|ang|lang||long, tall, lasting}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*langaz||long}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*dl̥h₁gʰós||long}}. Cognate with {{etyl|sco|-}} {{m|sco|lang||long}}, {{etyl|frr|-}} {{m|frr|long}}, {{m|frr|lung||long}}, {{etyl|stq|-}} {{m|stq|loang||long}}, {{etyl|fy|-}} {{m|fy|lang||long}}, {{etyl|nl|-}} {{m|nl|lang||long}}, {{etyl|de|-}} {{m|de|lang||long}}, {{etyl|sv|-}} {{m|sv|lång||long}}, {{etyl|is|-}} {{m|is|langur||long}}, {{etyl|gl|-}} {{m|gl|longo||long}}, {{etyl|la|-}} {{m|la|longus||long}}, {{etyl|grc|-}} {{m|grc|δολιχός}}, {{etyl|ru|-}} {{m|ru|до́лгий}}, {{m|ru|дли́нный}}.
 
 ====Adjective====
 {{en-adj|er}}
@@ -417,17 +417,17 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 ====Noun====
 {{en-noun}}
 
-# {{context|linguistics|lang=en}} A long [[vowel]].
-# {{context|programming|lang=en}} A long [[integer]] variable, twice the size of an [[int]], two or four times the size of a [[short]], and half of a [[long long]].
+# {{label|en|linguistics}} A long [[vowel]].
+# {{label|en|programming}} A long [[integer]] variable, twice the size of an [[int]], two or four times the size of a [[short]], and half of a [[long long]].
 #: ''A '''long''' is typically 64 [[bit]]s in a 32-bit environment.''
-# {{context|finance|lang=en}} An entity with a long position in an asset.
+# {{label|en|finance}} An entity with a long position in an asset.
 #: ''Every uptick made the '''longs''' cheer.''
-# {{context|music|lang=en}} A [[note]] formerly used in music, one half the length of a [[large]], twice that of a [[breve]].
+# {{label|en|music}} A [[note]] formerly used in music, one half the length of a [[large]], twice that of a [[breve]].
 
 ====Verb====
 {{en-verb}}
 
-# {{context|transitive|finance|lang=en}} To take a long position in.
+# {{label|en|transitive|finance}} To take a long position in.
 #* {{quote-book|title=The Oxford Guide to Financial Modeling|page=84|author=Thomas S. Y. Ho|coauthors=Sang Bin Lee, Sang-bin Yi|year=2004|passage=The left panel shows the profile of a portfolio consisting of longing a call and shorting a put.}}
 
 =====See also=====
@@ -435,12 +435,12 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 * [[wide]]
 
 ===Etymology 2===
-From {{etyl|enm|en}} {{m|enm|longen}}, from {{etyl|ang|en}} {{term|langian||to long for, yearn after, grieve for, be pained, lengthen, grow longer, summon, belong|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*langōną||to desire, long for}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*dl̥h₁gʰós||long}}. Cognate with {{etyl|de|-}} {{term|langen||to reach, be sufficient|lang=de}}, {{etyl|sv|-}} {{term|langa||to push, pass by hand|lang=sv}}, {{etyl|is|-}} {{term|langa||to want, desire|lang=is}}, {{etyl|nl|-}} and {{etyl|de|-}} {{term|verlangen||to desire, want, long for|lang=nl}}.
+From {{etyl|enm|en}} {{m|enm|longen}}, from {{etyl|ang|en}} {{m|ang|langian||to long for, yearn after, grieve for, be pained, lengthen, grow longer, summon, belong}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*langōną||to desire, long for}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*dl̥h₁gʰós||long}}. Cognate with {{etyl|de|-}} {{m|de|langen||to reach, be sufficient}}, {{etyl|sv|-}} {{m|sv|langa||to push, pass by hand}}, {{etyl|is|-}} {{m|is|langa||to want, desire}}, {{etyl|nl|-}} and {{etyl|de|-}} {{m|nl|verlangen||to desire, want, long for}}.
 
 ====Verb====
 {{en-verb}}
 
-# {{context|intransitive|lang=en}} To [[await]], to [[aspire]], to [[desire]] greatly (something to occur or to be true)
+# {{label|en|intransitive}} To [[await]], to [[aspire]], to [[desire]] greatly (something to occur or to be true)
 #: ''She '''longed''' for him to come back.''
 #* '''1922''', {{w|Margery Williams}}, ''{{w|The Velveteen Rabbit}}''
 #*: The Rabbit sighed. He thought it would be a long time before this magic called Real happened to him. He '''longed''' to become Real, to know what it felt like; and yet the idea of growing shabby and losing his eyes and whiskers was rather sad.
@@ -493,14 +493,14 @@ Aphetic form of {{etyl|ang|en}} {{m|en|gelang}}; the verb later reinterpreted as
 ====Adjective====
 {{en-adj|-}}
 
-# {{context|archaic|lang=en}} On account {{m|en|of}}, [[because]] {{m|en|of}}.
+# {{label|en|archaic}} On account {{m|en|of}}, [[because]] {{m|en|of}}.
 #* '''1603''', {{w|John Florio}}, translating Michel de Montaigne, ''Essays'', II.8:
 #*: I am of opinion that in regard of these debauches and lewd actions, fathers may, in some sort, be blamed, and that it is only '''long''' of them.
 
 ====Verb====
 {{en-verb}}
 
-# {{context|archaic|lang=en}} To be [[appropriate]] {{m|en|to}}, to [[pertain]] or [[belong]] {{m|en|to}}.
+# {{label|en|archaic}} To be [[appropriate]] {{m|en|to}}, to [[pertain]] or [[belong]] {{m|en|to}}.
 #* '''1590''', {{w|Edmund Spenser}}, ''The Faerie Queene'', III.3:
 #*: A goodly Armour, and full rich aray, / Which '''long'd''' to Angela, the Saxon Queene, / All fretted round with gold, and goodly wel beseene.
 #* '''about 1591''', {{w|William Shakespeare}}, ''The Taming of the Shrew'', IV, 4:
@@ -539,7 +539,7 @@ Cognate with West Frisian {{m|fy|long}}, German {{m|de|Lunge}}, English {{m|en|l
 ===Noun===
 {{nl-noun|c|-en|longetje}}
 
-# {{context|anatomy|lang=nl}} [[lung]]
+# {{label|nl|anatomy}} [[lung]]
 
 ====See also====
 * [[kieuw]] {{g|f}}
@@ -636,7 +636,7 @@ From {{etyl|fro|nrf}} {{m|fro|long}}, a back-formation from {{m|fro|longe|longe,
 * {{l|fro|lunc}} {{qualifier|Anglo-Norman}}
 
 ===Etymology===
-Backformation from {{term|longe|longe, longue|lang=fro}}, the feminine form of {{m|fro|lonc}}
+Backformation from {{m|fro|longe|longe, longue}}, the feminine form of {{m|fro|lonc}}
 
 ===Adjective===
 {{head|fro|adjective|g=m}}
@@ -651,7 +651,7 @@ Backformation from {{term|longe|longe, longue|lang=fro}}, the feminine form of {
 ==Old Irish==
 
 ===Etymology===
-Generally assumed to be a {{etyl|la|sga}} loan, from {{term|longa|(navis) longa|lang=la}}, but [[w:Joseph Loth|Joseph Loth]] believed it to be from {{etyl|cel-pro|sga}}, cognate to Welsh {{m|cy|llong}}.
+Generally assumed to be a {{etyl|la|sga}} loan, from {{m|la|longa|(navis) longa}}, but [[w:Joseph Loth|Joseph Loth]] believed it to be from {{etyl|cel-pro|sga}}, cognate to Welsh {{m|cy|llong}}.
 
 ===Pronunciation===
 * {{IPA|/l͈oŋɡ/|lang=sga}}
