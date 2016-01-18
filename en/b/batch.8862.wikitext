@@ -5,7 +5,7 @@
 * {{rhymes|ætʃ|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{term|bache|lang=enm}}, {{term|bæcche|lang=enm}}, from {{etyl|ang|en}} {{m|ang|bæċe}}, {{m|ang|beċe||brook, stream}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*bakiz||brook}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bʰog-||flowing water}}. More at {{l|en|beach}}.
+From {{etyl|enm|en}} {{m|enm|bache}}, {{m|enm|bæcche}}, from {{etyl|ang|en}} {{m|ang|bæċe}}, {{m|ang|beċe||brook, stream}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*bakiz||brook}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bʰog-||flowing water}}. More at {{l|en|beach}}.
 
 ====Alternative forms====
 * {{l|en|baiche}} {{qualifier|obsolete|lang=en}}
@@ -17,7 +17,7 @@ From {{etyl|enm|en}} {{term|bache|lang=enm}}, {{term|bæcche|lang=enm}}, from {{
 # A [[field]] or [[patch]] of ground lying near a stream; the [[dale]] in which a stream flows.
 
 ===Etymology 2===
-From {{etyl|enm|en}} {{m|enm|bache}}, {{m|enm|bacche}}, from {{etyl|ang|en}} {{m|ang|*bæċe}}, {{m|ang|*bæċċe||baking; something baked}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*bakiz||baking}}, related to {{m|ang|bacan||to bake}}. Compare German {{term|Gebäck||lang=de}}, Dutch {{term|gebak||lang=nl}} and {{term|baksel||lang=nl}}.
+From {{etyl|enm|en}} {{m|enm|bache}}, {{m|enm|bacche}}, from {{etyl|ang|en}} {{m|ang|*bæċe}}, {{m|ang|*bæċċe||baking; something baked}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*bakiz||baking}}, related to {{m|ang|bacan||to bake}}. Compare German {{m|de|Gebäck|}}, Dutch {{m|nl|gebak|}} and {{m|nl|baksel|}}.
 
 ====Noun====
 {{en-noun|es}}
@@ -31,10 +31,10 @@ From {{etyl|enm|en}} {{m|enm|bache}}, {{m|enm|bacche}}, from {{etyl|ang|en}} {{m
 #: ''We poured a bucket of water in top, and the ice maker spit out a '''batch''' of icecubes at the bottom.''
 # A [[group]] or [[collection]] of things of the [[same]] kind, such as a batch of letters or the next batch of business.
 #* ''A new '''batch''' of Lords.'' --Lady M. W. Montagu.
-# {{context|computing|lang=en}} A set of [[data]] to be processed with one [[execute|execution]] of a program.
+# {{label|en|computing}} A set of [[data]] to be processed with one [[execute|execution]] of a program.
 #: ''The system throttled itself to '''batches''' of 50 requests at a time to keep the thread count under control.''
-# {{context|UK|dialect|Midlands|lang=en}} A [[bread roll]].
-# {{context|Philippines|lang=en}} A [[graduating]] class.
+# {{label|en|UK|dialect|Midlands}} A [[bread roll]].
+# {{label|en|Philippines}} A [[graduating]] class.
 #: ''She was the valedictorian of '''Batch''' '73.''
 
 =====Synonyms=====
@@ -106,7 +106,7 @@ From {{etyl|enm|en}} {{m|enm|bache}}, {{m|enm|bacche}}, from {{etyl|ang|en}} {{m
 
 # To [[aggregate]] things together into a batch.
 #: ''The contractor '''batched''' the purchase orders for the entire month into one statement.''
-# {{context|computing|lang=en}} To handle a set of input data or requests as a [[batch process]].
+# {{label|en|computing}} To handle a set of input data or requests as a [[batch process]].
 #: ''The purchase requests for the day were stored in a queue and '''batched''' for printing the next morning.''
 
 ====Adjective====
@@ -127,12 +127,12 @@ From {{etyl|enm|en}} {{m|enm|bache}}, {{m|enm|bacche}}, from {{etyl|ang|en}} {{m
 * '''1996,''' T.F. Hoad, ''The Concise Oxford Dictionary of Etymology'', Oxford University Press, ISBN 0192830988
 
 ===Etymology 3===
-from an abbreviation of the pronunciation of {{term|bachelor|lang=en||unmarried adult male}}
+from an abbreviation of the pronunciation of {{m|en|bachelor||unmarried adult male}}
 
 ====Verb====
 {{en-verb|es}}
 
-# {{context|informal|lang=en}} To live as a bachelor temporarily, of a married man or someone virtually married.
+# {{label|en|informal}} To live as a bachelor temporarily, of a married man or someone virtually married.
 #: ''I am '''batching''' next week when my wife visits her sister.''
 
 =====Usage notes=====
@@ -145,7 +145,7 @@ from an abbreviation of the pronunciation of {{term|bachelor|lang=en||unmarried 
 ===Noun===
 {{sv-noun|c}}
 
-# {{context|computing|slang|lang=sv}} a [[#English|batch]] (of commands, processed as a group)
+# {{label|sv|computing|slang}} a [[#English|batch]] (of commands, processed as a group)
 
 ====Declension====
 {{sv-infl-noun-c-er}}
