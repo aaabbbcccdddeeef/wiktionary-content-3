@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|la|en}}<!--Classical Latin?--> {{term|linearis|lang=la}}, from {{term|linea||line|lang=la}} + {{term|-aris|lang=la}} (adjectival suffix).
+From {{etyl|la|en}}<!--Classical Latin?--> {{m|la|linearis}}, from {{m|la|linea||line}} + {{m|la|-aris}} (adjectival suffix).
 
 ===Pronunciation===
 * {{IPA|/ˈlɪ.ni.ə/|/ˈlɪ.ni.ɚ/|lang=en}}
@@ -16,9 +16,9 @@ From {{etyl|la|en}}<!--Classical Latin?--> {{term|linearis|lang=la}}, from {{ter
 # Having the form of a [[line]]; [[straight]].
 # Of or relating to lines.
 # Made in a [[step-by-step]], [[logical]] manner.
-# {{context|botany|of leaves|lang=en}} Long and narrow, with nearly [[parallel]] sides.
-# {{context|mathematics|lang=en}} Of or relating to a class of [[polynomial]] of the form <math> y = ax + b </math>.
-# {{context|physics|lang=en}} A type of [[length]] measurement involving only one spatial [[dimension]] {{qualifier|as opposed to area or volume}}.
+# {{label|en|botany|of leaves}} Long and narrow, with nearly [[parallel]] sides.
+# {{label|en|mathematics}} Of or relating to a class of [[polynomial]] of the form <math> y = ax + b </math>.
+# {{label|en|physics}} A type of [[length]] measurement involving only one spatial [[dimension]] {{qualifier|as opposed to area or volume}}.
 #: {{ux|en|a [[linear meter]]}}
 
 ====Coordinate terms====
@@ -133,7 +133,7 @@ From {{etyl|la|en}}<!--Classical Latin?--> {{term|linearis|lang=la}}, from {{ter
 ====Adjective====
 {{es-adj|pl=lineares}}
 
-# {{context|botany|lang=es}} [[#English|linear]]
+# {{label|es|botany}} [[#English|linear]]
 
 ===Etymology 2===
 {{etyl|la|es}} {{m|la|lineāre}}.
