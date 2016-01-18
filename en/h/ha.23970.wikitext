@@ -18,12 +18,12 @@
 ===Verb===
 {{head|en|verb form}}
 
-# {{context|archaic|lang=en}} Alternate spelling of [[a#Etymology 4|a<sup>4</sup>]]
+# {{label|en|archaic}} Alternate spelling of [[a#Etymology 4|a<sup>4</sup>]]
 
 ===Pronoun===
 {{head|en|noun form}}
 
-# {{context|neologism|lang=en}} A gender-neutral, third-person singular subject pronoun, coordinate with gendered pronouns he and she
+# {{label|en|neologism}} A gender-neutral, third-person singular subject pronoun, coordinate with gendered pronouns he and she
 #: "Ha laughed"
 
 ===Interjection===
@@ -84,13 +84,13 @@
 * {{IPA|/ha/|lang=sq}}
 
 ===Etymology===
-From {{inh|sq|sqj-pro|*ed-a-}}, from {{der|sq|ine-pro|*h₁ed-||to eat}}, whith the preservation of the laryngeal<ref>A Concise Historical Grammar of the Albanian Language, V. Orel, Koninklijke Brill, Leiden 2000</ref>. Alternatively from {{der|sq|ine-pro|*h₂euw}} (compare Ashkun {{m|ask||au}} ‘bread’, Sanskrit {{term|अवय||to eat|tr=āvaya|lang=sa}}).
+From {{inh|sq|sqj-pro|*ed-a-}}, from {{der|sq|ine-pro|*h₁ed-||to eat}}, whith the preservation of the laryngeal<ref>A Concise Historical Grammar of the Albanian Language, V. Orel, Koninklijke Brill, Leiden 2000</ref>. Alternatively from {{der|sq|ine-pro|*h₂euw}} (compare Ashkun {{m|ask||au}} ‘bread’, Sanskrit {{m|sa|अवय||to eat|tr=āvaya}}).
 
 ===Verb===
 {{sq-verb|hëngra|ngrënë}}
 
 # I [[eat]]
-# {{context|chess|lang=sq}} I [[capture]]
+# {{label|sq|chess}} I [[capture]]
 
 ====Conjugation====
 {{sq-conj/ha}}
@@ -111,7 +111,7 @@ From {{etyl|plf-pro|bpz}} {{m|plf-pro|*əpat}}, from {{etyl|poz-cet-pro|bpz}} {{
 ===Numeral===
 {{head|bpz|numeral}}
 
-# {{context|cardinal|lang=bpz}} {{l|en|four}}
+# {{label|bpz|cardinal}} {{l|en|four}}
 
 [[Category:bpz:Four]]
 
@@ -149,7 +149,7 @@ From {{etyl|plf-pro|bpz}} {{m|plf-pro|*əpat}}, from {{etyl|poz-cet-pro|bpz}} {{
 #: {{ux|kw|'''hag''' ev owth oberi|while he was working}}
 
 ====Synonyms====
-* {{context|before vowels|lang=kw}} [[hag]]
+* {{label|kw|before vowels}} [[hag]]
 
 ----
 
@@ -162,7 +162,7 @@ From {{etyl|plf-pro|bpz}} {{m|plf-pro|*əpat}}, from {{etyl|poz-cet-pro|bpz}} {{
 {{head|da|interjection}}
 
 # [[ha#English|ha!]] {{gloss|an exclamation of triumph or discovery}}
-# {{context|onomatopoeia|lang=da}} [[ha#English|ha]] {{gloss|a representation of laughter}}, often repeated
+# {{label|da|onomatopoeia}} [[ha#English|ha]] {{gloss|a representation of laughter}}, often repeated
 
 ====Synonyms====
 * {{sense|onomatopoeia}} [[he]], [[hi]], [[ho]], [[hæ]], [[hø]], [[hå]], [[tihi]]
@@ -289,7 +289,7 @@ From {{etyl|plf-pro|bpz}} {{m|plf-pro|*əpat}}, from {{etyl|poz-cet-pro|bpz}} {{
 ===Interjection===
 {{head|hu|interjection}}
 
-# {{context|poetic|lang=hu}} (indicates anger or surprise)
+# {{label|hu|poetic}} (indicates anger or surprise)
 #* '''1857''', [[w:János Arany|János Arany]], A walesi bárdok ([[w:The Bards of Wales|The Bards of Wales]])
 #*: '''Ha''', '''ha'''! Mi [[zúg]]? … [[mi]] [[éji]] [[dal]]
 #*:: London [[utca|utcáin]] [[ez]]?
@@ -443,7 +443,7 @@ From {{etyl|plf-pro|bpz}} {{m|plf-pro|*əpat}}, from {{etyl|poz-cet-pro|bpz}} {{
 ==Norwegian Bokmål==
 
 ===Etymology===
-From {{etyl|non|nb}} {{term|hafa|lang=non}}.
+From {{etyl|non|nb}} {{m|non|hafa}}.
 
 ===Verb===
 {{head|nb|verb|imperative|ha|present tense|har|simple past|hadde|past participle|hatt}}
@@ -461,7 +461,7 @@ From {{etyl|non|nb}} {{term|hafa|lang=non}}.
 * {{nn-frf}} {{nn-inf|hav}}
 
 ===Etymology===
-From {{etyl|non|nn}} {{term|hafa|lang=non}}.
+From {{etyl|non|nn}} {{m|non|hafa}}.
 
 ===Verb===
 {{nn-verb-irreg|har|hadde|hatt|second_root=hav}}
@@ -480,7 +480,7 @@ From {{etyl|non|nn}} {{term|hafa|lang=non}}.
 ===Verb===
 {{head|nov|verb|past|had|active participle|hant}}
 
-# {{context|auxiliary|lang=nov}} [[have]]/[[has]], {{non-gloss definition|added to the front of a verb to make it perfect}}
+# {{label|nov|auxiliary}} [[have]]/[[has]], {{non-gloss definition|added to the front of a verb to make it perfect}}
 
 ----
 
@@ -514,7 +514,7 @@ From {{etyl|poz-pol-pro|rap}} {{m|poz-pol-pro|*fa}}, from {{etyl|poz-oce-pro|rap
 ===Numeral===
 {{head|rap|numeral}}
 
-# {{context|cardinal|lang=rap}} {{l|en|four}}
+# {{label|rap|cardinal}} {{l|en|four}}
 
 ===Usage notes===
 When counting, use {{l|rap|kaha}}.
@@ -544,19 +544,19 @@ When counting, use {{l|rap|kaha}}.
 * {{audio|Sv-ha.ogg|audio|lang=sv}}
 
 ===Etymology 1===
-From earlier {{term|hava|lang=sv}}, from {{etyl|non|sv}} {{term|hafa|lang=non}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*habjaną}}, {{etyl|ine-pro|sv}} {{m|ine-pro|*keh₂p-||to take, seize, catch}}.
+From earlier {{m|sv|hava}}, from {{etyl|non|sv}} {{m|non|hafa}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*habjaną}}, {{etyl|ine-pro|sv}} {{m|ine-pro|*keh₂p-||to take, seize, catch}}.
 
 ====Verb====
 {{sv-verb-irr|har|hade|haft|ha}}
 
-# {{context|transitive|lang=sv}} To [[have]]; to [[possess]], or to have as a property; to [[come]] into [[possession]] of something concrete or abstract.
+# {{label|sv|transitive}} To [[have]]; to [[possess]], or to have as a property; to [[come]] into [[possession]] of something concrete or abstract.
 #: ''John '''har''' två katter.''
 #:: John has two cats.
 #: ''Den slipsen '''har''' en fruktansvärd färg.''
 #:: That tie has a terrible colour.
 #: ''Vi '''hade''' riktigt trevligt igår kväll.''
 #:: We had a really nice time last night.
-# {{context|auxiliary|lang=sv}} Used together with the [[supine tense|supine]] form of a verb in the construction of [[perfect]] or [[pluperfect]] forms
+# {{label|sv|auxiliary}} Used together with the [[supine tense|supine]] form of a verb in the construction of [[perfect]] or [[pluperfect]] forms
 #: ''Jenny '''har''' köpt en hund.''
 #:: Jenny has bought a dog.
 
