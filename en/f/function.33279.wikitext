@@ -2,7 +2,7 @@
 {{wikipedia|dab=function}}
 
 ===Etymology===
-From {{etyl|frm|en}} {{term|function|lang=frm}}, from {{etyl|fro|en}} {{term|fonction|lang=fr}}, from {{etyl|la|en}} {{term|functionem|lang=la}}, accusative of {{term|functiō||[[performance]], [[execution]]|lang=la}}, from {{term|functus|lang=la}} perfect participle of {{m|la|fungor||I [[perform]], I [[execute]], I [[discharge]]}}.
+From {{etyl|frm|en}} {{m|frm|function}}, from {{etyl|fro|en}} {{m|fr|fonction}}, from {{etyl|la|en}} {{m|la|functionem}}, accusative of {{m|la|functiō||[[performance]], [[execution]]}}, from {{m|la|functus}} perfect participle of {{m|la|fungor||I [[perform]], I [[execute]], I [[discharge]]}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈfʌŋ(k)ʃən/|/ˈfʌŋkʃn̩/|lang=en}}
@@ -22,11 +22,11 @@ From {{etyl|frm|en}} {{term|function|lang=frm}}, from {{etyl|fro|en}} {{term|fon
 # A [[professional]] or [[official]] position.
 # {{senseid|en|official or social occasion}}An [[official]] or [[social]] [[occasion]].
 # A relation where one thing is dependent on another for its existence, value, or significance.
-# {{context|mathematics|lang=en}} A relation in which each element of the [[domain]] is associated with exactly one element of the [[codomain]].
-# {{context|computing|lang=en}} A [[routine]] that receives zero or more [[argument]]s and may return a result.
-# {{context|biology|lang=en}} The physiological activity of an organ or body part.
-# {{context|chemistry|lang=en}} The characteristic behavior of a chemical compound.
-# {{context|anthropology|lang=en}} The role of a social practice in the continued existence of the group.
+# {{label|en|mathematics}} A relation in which each element of the [[domain]] is associated with exactly one element of the [[codomain]].
+# {{label|en|computing}} A [[routine]] that receives zero or more [[argument]]s and may return a result.
+# {{label|en|biology}} The physiological activity of an organ or body part.
+# {{label|en|chemistry}} The characteristic behavior of a chemical compound.
+# {{label|en|anthropology}} The role of a social practice in the continued existence of the group.
 
 ====Synonyms====
 * {{sense|what something does or is used for}} [[aim]], [[intention]], [[purpose]], [[role]], [[use]]
@@ -277,8 +277,8 @@ the tables above.-->
 ===Verb===
 {{en-verb}}
 
-# {{context|intransitive|lang=en}} to have a function
-# {{context|intransitive|lang=en}} to carry on a function; to be in action
+# {{label|en|intransitive}} to have a function
+# {{label|en|intransitive}} to carry on a function; to be in action
 
 ====Synonyms====
 * {{sense|to have a function}} [[officiate]], [[serve]]
