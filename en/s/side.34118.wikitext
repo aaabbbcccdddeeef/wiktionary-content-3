@@ -318,7 +318,7 @@ From {{etyl|enm|en}} {{m|enm|side}}, from {{etyl|ang|en}} {{m|ang|sīde||side, f
 ====Verb====
 {{en-verb|sid}}
 
-# {{context|intransitive|lang=en}} To [[ally]] oneself, be in an alliance, usually with "with" or rarely "in with"
+# {{label|en|intransitive}} To [[ally]] oneself, be in an alliance, usually with "with" or rarely "in with"
 #: ''Which will you '''side with''', good or evil?''
 #* '''1597''', Francis Bacon, ''Essays'' – "Of Great Place":
 #*: All rising to great place is by a winding star; and if there be factions, it is good to '''side''' a man's self, whilst he is in the rising, and to balance himself when he is placed.
@@ -328,13 +328,13 @@ From {{etyl|enm|en}} {{m|enm|side}}, from {{etyl|ang|en}} {{m|ang|sīde||side, f
 #*: How does it feel... to... '''side in with''' those who voted against you in 1947?
 # To [[lean]] on one side.
 #: {{rfquotek|Francis Bacon}}
-# {{context|transitive|obsolete|lang=en}} To be or stand at the side of; to be on the side toward.
+# {{label|en|transitive|obsolete}} To be or stand at the side of; to be on the side toward.
 #* Spenser
 #*: His blind eye that '''sided''' Paridell.
-# {{context|transitive|obsolete|lang=en}} To [[suit]]; to [[pair]]; to [[match]].
+# {{label|en|transitive|obsolete}} To [[suit]]; to [[pair]]; to [[match]].
 #: {{rfquotek|Clarendon}}
-# {{context|transitive|shipbuilding|lang=en}} To work (a timber or rib) to a certain thickness by trimming the sides.
-# {{context|transitive|lang=en}} To furnish with a [[siding]].
+# {{label|en|transitive|shipbuilding}} To work (a timber or rib) to a certain thickness by trimming the sides.
+# {{label|en|transitive}} To furnish with a [[siding]].
 #: ''to '''side''' a house''
 
 =====Synonyms=====
@@ -373,22 +373,22 @@ From {{etyl|enm|en}} {{m|enm|side}}, {{m|enm|syde}}, {{m|enm|syd}}, from {{etyl|
 #: ''a '''side''' issue; a '''side''' view or remark''
 #* Hooker
 #*: The law hath no '''side''' respect to their persons.
-# {{context|UK|_|dialectal|Northern England|Scotland|lang=en}} [[wide|Wide]]; [[large]]; [[long]], [[pendulous]], [[hanging]] low, [[trailing]]; [[far-reaching]].
+# {{label|en|UK|_|dialectal|Northern England|Scotland}} [[wide|Wide]]; [[large]]; [[long]], [[pendulous]], [[hanging]] low, [[trailing]]; [[far-reaching]].
 #* Laneham
 #*: His gown had '''side''' sleeves down to mid leg.
 #: {{rfquotek|Shakespeare}}
-# {{context|Scotland|lang=en}} [[far|Far]]; [[distant]].
+# {{label|en|Scotland}} [[far|Far]]; [[distant]].
 
 =====Derived terms=====
 * {{l|en|sidth}}
 
 ===Etymology 3===
-From {{etyl|enm|en}} {{term|side|lang=enm}}, {{term|syde|lang=enm}}, from {{etyl|ang|en}} {{m|ang|sīde||widely, extensively, amply}}. See above.
+From {{etyl|enm|en}} {{m|enm|side}}, {{m|enm|syde}}, from {{etyl|ang|en}} {{m|ang|sīde||widely, extensively, amply}}. See above.
 
 ====Adverb====
 {{en-adv}}
 
-# {{context|UK|_|dialectal|lang=en}} [[widely|Widely]]; [[wide]]; [[far]].
+# {{label|en|UK|_|dialectal}} [[widely|Widely]]; [[wide]]; [[far]].
 
 ===Anagrams===
 * [[Desi#English|Desi]], [[dies#English|dies]], [[ides#English|ides]]
@@ -435,7 +435,7 @@ From {{inh|fi|fiu-fin-pro|*sidek}}. Equivalent to {{affix|fi|sitoa|-e}}.
 # [[bandage]]
 # [[bond]]
 # [[sanitary towel]]
-# {{context|anatomy|lang=fi}} [[ligament]]
+# {{label|fi|anatomy}} [[ligament]]
 
 ====Declension====
 {{fi-decl-hame|si|d|t|ä}}
@@ -513,7 +513,7 @@ From {{inh|mga|sga|síd}}.
 ==Norwegian Bokmål==
 
 ===Etymology===
-From {{etyl|non|nb}} {{term|síða|lang=non}}.
+From {{etyl|non|nb}} {{m|non|síða}}.
 
 ===Noun===
 {{head|nb|noun|g=m|g2=f|definite singular|sida|or|siden|indefinite plural|sider|definite plural|sidene}}
@@ -521,8 +521,8 @@ From {{etyl|non|nb}} {{term|síða|lang=non}}.
 # a [[page]] (''e.g. in a book'')
 # {{l|en|side}}
 #: ''på høyre '''side''' - on the right-hand side''
-# {{context|of a case|lang=nb}} [[aspect]]
-# {{context|on animal|lang=nb}} [[flank]]
+# {{label|nb|of a case}} [[aspect]]
+# {{label|nb|on animal}} [[flank]]
 
 ====Derived terms====
 {{top2}}
@@ -549,7 +549,7 @@ From {{etyl|non|nb}} {{term|síða|lang=non}}.
 ==Norwegian Nynorsk==
 
 ===Etymology===
-From {{etyl|non|nn}} {{term|síða|lang=non}}.
+From {{etyl|non|nn}} {{m|non|síða}}.
 
 ===Noun===
 {{head|nn|noun|g=f|definite singular|sida|indefinite plural|sider|definite plural|sidene}}
