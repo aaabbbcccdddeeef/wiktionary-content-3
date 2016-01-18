@@ -6,7 +6,7 @@
 * [[cubick]] {{qualifier|obsolete}}
 
 ===Etymology===
-From {{etyl|frm|en}} {{term|cubique|lang=frm}}
+From {{etyl|frm|en}} {{m|frm|cubique}}
 
 ===Pronunciation===
 * {{IPA|/ˈkjuː.bɪk/|lang=en}}
@@ -15,10 +15,10 @@ From {{etyl|frm|en}} {{term|cubique|lang=frm}}
 ===Adjective===
 {{en-adj|-}}
 
-# {{context|geometry|lang=en}} Used in the names of units of volume formed by multiplying a unit of length by itself twice. <!--note: this is correct; although there are three factors, there are only two multiplications-->
+# {{label|en|geometry}} Used in the names of units of volume formed by multiplying a unit of length by itself twice. <!--note: this is correct; although there are three factors, there are only two multiplications-->
 #: {{ux|en|'''cubic''' metre}}, {{ux|en|'''cubic''' foot}}
-# {{context|algebraic geometry|lang=en}} Of a class of [[polynomial]] of the form <math> a.x^3 + b.x^2 + c.x + d </math>
-# {{context|crystallography|lang=en}} Having three equal axes and all angles 90°.
+# {{label|en|algebraic geometry}} Of a class of [[polynomial]] of the form <math> a.x^3 + b.x^2 + c.x + d </math>
+# {{label|en|crystallography}} Having three equal axes and all angles 90°.
 #: {{ux|en|'''cubic''' cleavage}}
 
 ====Synonyms====
@@ -81,7 +81,7 @@ From {{etyl|frm|en}} {{term|cubique|lang=frm}}
 ===Noun===
 {{en-noun}}
 
-# {{context|algebraic geometry|lang=en}} A [[cubic curve]].
+# {{label|en|algebraic geometry}} A [[cubic curve]].
 
 ====Synonyms====
 * [[cubic curve]]
