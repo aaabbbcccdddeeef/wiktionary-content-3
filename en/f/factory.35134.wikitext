@@ -2,7 +2,7 @@
 
 ===Etymology===
 {{PIE root|en|dʰeh₁}}
-From {{etyl|frm|en}} {{term|factorie|lang=frm}}, from {{etyl|ML.|en}} {{term|factoria|lang=la}}, from {{etyl|la|en}} {{term|factor|lang=la}}. Compare Italian {{term|fattoria|lang=it}}, Spanish {{term|factoría|lang=es}}, Portuguese {{term|feitoria|lang=pt}}, Dutch {{m|nl|factorij}}.
+From {{etyl|frm|en}} {{m|frm|factorie}}, from {{etyl|ML.|en}} {{m|la|factoria}}, from {{etyl|la|en}} {{m|la|factor}}. Compare Italian {{m|it|fattoria}}, Spanish {{m|es|factoría}}, Portuguese {{m|pt|feitoria}}, Dutch {{m|nl|factorij}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈfaktəɹi/|lang=en}}
@@ -11,8 +11,8 @@ From {{etyl|frm|en}} {{term|factorie|lang=frm}}, from {{etyl|ML.|en}} {{term|fac
 ===Noun===
 {{en-noun|factories}}
 
-# {{context|obsolete|lang=en}} A trading establishment, especially set up by merchants working in a foreign country.
-# {{context|now|_|rare|lang=en}} The position or state of being a [[factor]].
+# {{label|en|obsolete}} A trading establishment, especially set up by merchants working in a foreign country.
+# {{label|en|now|_|rare}} The position or state of being a [[factor]].
 # A [[building]] or other place where [[manufacture|manufacturing]] takes place.
 #* {{quote-book|year=1918|author={{w|W. B. Maxwell}}|chapter=7
 |title=[http://openlibrary.org/works/OL1097634W The Mirror and the Lamp]
@@ -21,7 +21,7 @@ From {{etyl|frm|en}} {{term|factorie|lang=frm}}, from {{etyl|ML.|en}} {{term|fac
 |chapter=7|url=http://openlibrary.org/works/OL2004261W
 |passage=The highway to the East Coast which ran through the borough of Ebbfield had always been a main road and even now, despite the vast garages, the pylons and the gaily painted '''factory''' glasshouses which had sprung up beside it, there still remained an occasional trace of past cultures.}}
 # A device which produces or manufactures something.
-# {{context|programming|lang=en}} In a computer program or library, a [[function]], [[method]], etc. which creates an [[object]].
+# {{label|en|programming}} In a computer program or library, a [[function]], [[method]], etc. which creates an [[object]].
 #* '''2010''', Sayed Ibrahim Hashimi, William Bartholomew, ''Inside the Microsoft Build Engine''
 #*: The task '''factory''' {{...}} is the object that is responsible for creating instances of those tasks dynamically.
 
