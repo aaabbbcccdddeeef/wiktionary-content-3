@@ -4,7 +4,7 @@
 [[File:BigHorn Sheep in Alberta CA.jpg|thumb|A ram (male sheep)]]
 
 ===Etymology===
-From {{etyl|enm|en}} {{m|enm|ram}}, {{m|enm|rom}}, {{m|enm|ramme}}, from {{etyl|ang|en}} {{term|ramm||ram|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*rammaz||ram}}, possibly from {{etyl|gem-pro|en}} {{m|gem-pro|*rammaz||strong}}. Cognate with {{etyl|stq|-}} {{m|stq|Rom||ram}}, {{etyl|nl|-}} {{term|ram||a male sheep|lang=nl}}, German {{m|de|Ramm}}, {{m|de|Ramme||ram}}. Possibly akin also to Danish {{m|da|ram||sharp; acrid; rank}}, Swedish {{m|sv|ram||strong; perfect}}, Faroese {{m|fo|ramur||strong; competent}}, Icelandic {{m|is|rammur||strong; sturdy}}.
+From {{etyl|enm|en}} {{m|enm|ram}}, {{m|enm|rom}}, {{m|enm|ramme}}, from {{etyl|ang|en}} {{m|ang|ramm||ram}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*rammaz||ram}}, possibly from {{etyl|gem-pro|en}} {{m|gem-pro|*rammaz||strong}}. Cognate with {{etyl|stq|-}} {{m|stq|Rom||ram}}, {{etyl|nl|-}} {{m|nl|ram||a male sheep}}, German {{m|de|Ramm}}, {{m|de|Ramme||ram}}. Possibly akin also to Danish {{m|da|ram||sharp; acrid; rank}}, Swedish {{m|sv|ram||strong; perfect}}, Faroese {{m|fo|ramur||strong; competent}}, Icelandic {{m|is|rammur||strong; sturdy}}.
 
 ===Pronunciation===
 * {{a|UK|US}} {{enPR|răm}}, {{IPA|/ɹæm/|lang=en}}
@@ -133,8 +133,8 @@ From {{etyl|enm|en}} {{m|enm|ram}}, {{m|enm|rom}}, {{m|enm|ramme}}, from {{etyl|
 ===Verb===
 {{en-verb|ramm}}
 
-# {{context|transitive|lang=en}} To intentionally [[collide]] with (a ship) with the intention of damaging or sinking it.
-# {{context|transitive|lang=en}} To [[strike]] (something) hard, especially with an implement.
+# {{label|en|transitive}} To intentionally [[collide]] with (a ship) with the intention of damaging or sinking it.
+# {{label|en|transitive}} To [[strike]] (something) hard, especially with an implement.
 #: ''After placing the cartridge in the musket, '''ram''' it down securely with the ramrod.''
 # {{lb|en|transitive}} To fill or compact by pounding or driving.
 #: '''''Rammed''' earth walls''
@@ -185,7 +185,7 @@ From {{etyl|enm|en}} {{m|enm|ram}}, {{m|enm|rom}}, {{m|enm|ramme}}, from {{etyl|
 ==Dutch==
 
 ===Etymology===
-From {{inh|nl|dum|ram||a male sheep}}, from {{inh|nl|odt|*ram}}, of West-Germanic origin, possibly from {{etyl|gem-pro|nl}} {{m|gem-pro|*rammaz||strong}}. Cognate to {{etyl|en|-}} {{term|ram||a male sheep|lang=en}}.
+From {{inh|nl|dum|ram||a male sheep}}, from {{inh|nl|odt|*ram}}, of West-Germanic origin, possibly from {{etyl|gem-pro|nl}} {{m|gem-pro|*rammaz||strong}}. Cognate to {{etyl|en|-}} {{m|en|ram||a male sheep}}.
 
 ===Pronunciation===
 * {{IPA|/rɑm/|lang=nl}}
@@ -227,7 +227,7 @@ From {{inh|nl|dum|ram||a male sheep}}, from {{inh|nl|odt|*ram}}, of West-Germani
 ==Friulian==
 
 ===Etymology 1===
-From {{etyl|la|fur}} {{term|rāmus|lang=la}}.
+From {{etyl|la|fur}} {{m|la|rāmus}}.
 
 ====Noun====
 {{fur-noun|m}}
@@ -238,7 +238,7 @@ From {{etyl|la|fur}} {{term|rāmus|lang=la}}.
 * {{l|fur|rame}}
 
 ===Etymology 2===
-From {{etyl|LL.|fur}} {{m|la|aerāmen}}, from {{etyl|la|fur}} {{term|aes||copper|lang=la}}. Compare Italian {{term|rame|lang=it}}.
+From {{etyl|LL.|fur}} {{m|la|aerāmen}}, from {{etyl|la|fur}} {{m|la|aes||copper}}. Compare Italian {{m|it|rame}}.
 
 ====Noun====
 {{head|fur|noun|g=m}}
@@ -253,7 +253,7 @@ From {{etyl|LL.|fur}} {{m|la|aerāmen}}, from {{etyl|la|fur}} {{term|aes||copper
 * ɣam
 
 ===Etymology===
-Related to {{etyl|anc|-}} {{term|am||water|lang=anc}}.
+Related to {{etyl|anc|-}} {{m|anc|am||water}}.
 
 ===Noun===
 {{head|gek|noun}}
@@ -307,7 +307,7 @@ From {{etyl|la|ro}} ''[[ramus|rāmus]]''.
 ===Noun===
 {{ro-noun|n|ramuri}}
 
-# {{context|rare|lang=ro}} [[branch]], [[bough]]
+# {{label|ro|rare}} [[branch]], [[bough]]
 
 ====Synonyms====
 * [[creangă]]
@@ -322,13 +322,13 @@ From {{etyl|la|ro}} ''[[ramus|rāmus]]''.
 ==Romansch==
 
 ===Etymology 1===
-From {{etyl|la|rm}} {{term|rāmus|lang=la}}.
+From {{etyl|la|rm}} {{m|la|rāmus}}.
 
 ====Noun====
 {{rm-noun|m}}
 
-# {{context|Puter|lang=rm}} [[branch]] {{qualifier|of tree, river, etc.}}
-# {{context|Puter|education|lang=rm}} [[subject]]
+# {{label|rm|Puter}} [[branch]] {{qualifier|of tree, river, etc.}}
+# {{label|rm|Puter|education}} [[subject]]
 
 =====Alternative forms=====
 * {{qualifier|Rumantsch Grischun|Sursilvan|Sutsilvan|Surmiran|Vallader}} {{l|rm|rom}}
@@ -342,7 +342,7 @@ From {{etyl|la|rm}} {{term|rāmus|lang=la}}.
 ====Noun====
 {{rm-noun|m}}
 
-# {{context|Puter|lang=rm}} [[frame]], [[framework]]
+# {{label|rm|Puter}} [[frame]], [[framework]]
 
 =====Alternative forms=====
 * {{qualifier|Rumantsch Grischun|Sursilvan|Sutsilvan|Surmiran|Vallader}} {{l|rm|rom}}
@@ -354,7 +354,7 @@ From {{etyl|la|rm}} {{term|rāmus|lang=la}}.
 ====Noun====
 {{rm-noun|f}}
 
-# {{context|Puter|lang=rm}} [[knot]], [[gnarl]]
+# {{label|rm|Puter}} [[knot]], [[gnarl]]
 
 =====Alternative forms=====
 * {{qualifier|Rumantsch Grischun|Sursilvan|Sutsilvan|Surmiran|Vallader}} {{l|rm|rom}}
