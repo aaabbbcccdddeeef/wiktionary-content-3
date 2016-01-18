@@ -11,16 +11,16 @@
 * {{homophones|lang=en|mussed}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{term|moste||must|lit=had to|lang=enm}}, from {{etyl|ang|en}} {{m|ang|mōste||had to}}, 1st & 3rd person singular past tense of {{m|ang|mōtan||to be allowed, be able to, have the opportunity to, be compelled to, must, may}}. Cognate with Dutch {{term|moest||had to|lang=nl}}, German {{term|musste||had to|lang=de}}, Swedish {{term|måste||must, have to, be obliged to|lang=sv}}. More at [[mote#Etymology_2|mote]].
+From {{etyl|enm|en}} {{m|enm|moste||must|lit=had to}}, from {{etyl|ang|en}} {{m|ang|mōste||had to}}, 1st & 3rd person singular past tense of {{m|ang|mōtan||to be allowed, be able to, have the opportunity to, be compelled to, must, may}}. Cognate with Dutch {{m|nl|moest||had to}}, German {{m|de|musste||had to}}, Swedish {{m|sv|måste||must, have to, be obliged to}}. More at [[mote#Etymology_2|mote]].
 
 ====Verb====
 {{head|en|verb}}
 
-# {{context|modal|_|auxiliary|defective|lang=en}} To do with [[certainty]]; {{non-gloss definition|indicates that the speaker is [[certain]] that the subject will have executed the [[predicate]]}}.
+# {{label|en|modal|_|auxiliary|defective}} To do with [[certainty]]; {{non-gloss definition|indicates that the speaker is [[certain]] that the subject will have executed the [[predicate]]}}.
 #: ''If it has rained all day, it '''must''' be very wet outside.''
 #: ''You picked one of two, and it wasn't the first: it '''must''' have been the second.''
 #: ''The children '''must''' be asleep by now.''
-# {{context|modal|_|auxiliary|defective|lang=en}} To do as a [[require]]ment; {{non-gloss definition|indicates that the sentence subject is [[required]] as an imperative or directive to execute the sentence [[predicate]], with failure to do so resulting in a negative consequence}}.
+# {{label|en|modal|_|auxiliary|defective}} To do as a [[require]]ment; {{non-gloss definition|indicates that the sentence subject is [[required]] as an imperative or directive to execute the sentence [[predicate]], with failure to do so resulting in a negative consequence}}.
 #: ''You '''must''' arrive in class on time.'' — the requirement is an imperative
 #: ''This door handle '''must''' be rotated fully.'' — the requirement is a directive
 #: ''Arise, and go into the city, and it shall be told thee what thou '''must''' do.'' (Bible, Acts 9:6)
@@ -154,7 +154,7 @@ From {{etyl|enm|en}} {{term|moste||must|lit=had to|lang=enm}}, from {{etyl|ang|e
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{etyl|fro|en}} {{term|must|lang=fro}}, {{term|most|lang=fro}}, from {{etyl|la|en}} {{term|mustum|lang=la}}
+From {{etyl|fro|en}} {{m|fro|must}}, {{m|fro|most}}, from {{etyl|la|en}} {{m|la|mustum}}
 
 ====Noun====
 {{en-noun}}
@@ -197,14 +197,14 @@ From {{etyl|fro|en}} {{term|must|lang=fro}}, {{term|most|lang=fro}}, from {{etyl
 ====Verb====
 {{en-verb}}
 
-# {{context|transitive|lang=en}} To make [[musty]].
-# {{context|intransitive|lang=en}} To become [[musty]].
+# {{label|en|transitive}} To make [[musty]].
+# {{label|en|intransitive}} To become [[musty]].
 
 =====External links=====
 * {{pedialite}}
 
 ===Etymology 3===
-{{etyl|fa|en}} {{term|مست|tr=mast||drunk, inebriated|sc=fa-Arab|lang=fa}}, from {{etyl|pal|en}} {{term|𐭬𐭮𐭲|tr=mast|lang=pal}}.
+{{etyl|fa|en}} {{m|fa|مست|tr=mast||drunk, inebriated|sc=fa-Arab}}, from {{etyl|pal|en}} {{m|pal|𐭬𐭮𐭲|tr=mast}}.
 
 ====Noun====
 {{en-noun}}
@@ -281,7 +281,7 @@ From {{inh|et|fiu-fin-pro|*musta}}.
 ==Romanian==
 
 ===Etymology===
-From {{etyl|la|ro}} {{term|mustum|lang=la}}.
+From {{etyl|la|ro}} {{m|la|mustum}}.
 
 ===Noun===
 {{ro-noun|n|musturi}}
@@ -303,7 +303,7 @@ From {{etyl|la|ro}} {{term|mustum|lang=la}}.
 ==Swedish==
 
 ===Etymology===
-From {{etyl|non|sv}} {{term|muster|lang=non}}, {{term|moster|lang=non}}, from {{etyl|la|sv}} {{term|mustum|lang=la}}.
+From {{etyl|non|sv}} {{m|non|muster}}, {{m|non|moster}}, from {{etyl|la|sv}} {{m|la|mustum}}.
 
 ===Pronunciation===
 * {{IPA|/mɵst/|lang=sv}}
