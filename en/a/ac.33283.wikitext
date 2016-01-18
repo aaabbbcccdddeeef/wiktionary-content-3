@@ -10,12 +10,12 @@
 # [[acre]]
 # [[air conditioning]]
 # [[alicyclic]]
-# {{context|electricity|lang=en}} [[alternating current]]
+# {{label|en|electricity}} [[alternating current]]
 
 ===Adjective===
 {{en-adj|-}}
 
-# {{context|medicine|lang=en}} [[ante cibum]], before meals
+# {{label|en|medicine}} [[ante cibum]], before meals
 
 ----
 
@@ -25,7 +25,7 @@
 * [[acu]]
 
 ===Etymology===
-From {{etyl|la|rup}} {{term|acus|lang=la}}. Compare Daco-Romanian {{term|ac|lang=ro}}.
+From {{etyl|la|rup}} {{m|la|acus}}. Compare Daco-Romanian {{m|ro|ac}}.
 
 ===Noun===
 {{head|rup|noun|g=n}} (''plural'' '''[[atsi]]/[[atse]]''')
@@ -81,7 +81,7 @@ From {{etyl|la|rup}} {{term|acus|lang=la}}. Compare Daco-Romanian {{term|ac|lang
 ==Middle English==
 
 ===Etymology===
-From {{etyl|ang|enm}} {{term|ac|lang=ang}}.
+From {{etyl|ang|enm}} {{m|ang|ac}}.
 
 ===Conjunction===
 {{head|enm|conjunction}}
@@ -110,7 +110,7 @@ From {{etyl|ang|enm}} {{term|ac|lang=ang}}.
 ==Old English==
 
 ===Etymology 1===
-From {{inh|ang|gem-pro|*aiks}}, from {{etyl|ine-pro|ang}} {{m|ine-pro|*eiǵ-}}. Cognate with Old Frisian {{term|ēk|lang=ofs}}, {{etyl|osx|-}} {{term|ēk|lang=osx}}, {{etyl|nl|-}} {{term|eik|lang=nl}}, {{etyl|goh|-}} {{term|eih|lang=goh}} ({{etyl|de|-}} {{term|Eiche|lang=de}}), {{etyl|non|-}} {{term|eik|lang=non}} ({{etyl|sv|-}} {{term|ek|lang=sv}}, {{etyl|da|-}} {{term|eg|lang=da}}).
+From {{inh|ang|gem-pro|*aiks}}, from {{etyl|ine-pro|ang}} {{m|ine-pro|*eiǵ-}}. Cognate with Old Frisian {{m|ofs|ēk}}, {{etyl|osx|-}} {{m|osx|ēk}}, {{etyl|nl|-}} {{m|nl|eik}}, {{etyl|goh|-}} {{m|goh|eih}} ({{etyl|de|-}} {{m|de|Eiche}}), {{etyl|non|-}} {{m|non|eik}} ({{etyl|sv|-}} {{m|sv|ek}}, {{etyl|da|-}} {{m|da|eg}}).
 
 ====Pronunciation====
 * {{IPA|/ɑːk/|lang=ang}}
@@ -119,7 +119,7 @@ From {{inh|ang|gem-pro|*aiks}}, from {{etyl|ine-pro|ang}} {{m|ine-pro|*eiǵ-}}. 
 {{ang-noun|head=āc|f}}
 
 # [[oak]] (wood or tree)
-# {{context|poetic|lang=ang}} an oaken ship
+# {{label|ang|poetic}} an oaken ship
 # The runic character {{lang|und|sc=Runr|ᚪ}} ({{IPAchar|/a/}})
 
 =====Descendants=====
@@ -130,7 +130,7 @@ From {{inh|ang|gem-pro|*aiks}}, from {{etyl|ine-pro|ang}} {{m|ine-pro|*eiǵ-}}. 
 [[Category:ang:Oaks]]
 
 ===Etymology 2===
-From {{inh|ang|gem-pro|*ak}}. Cognate with {{etyl|osx|-}} {{term|ac|lang=osx}}, Gothic {{term|𐌰𐌺|lang=got}}, {{etyl|goh|-}} {{term|oh|lang=goh}}.
+From {{inh|ang|gem-pro|*ak}}. Cognate with {{etyl|osx|-}} {{m|osx|ac}}, Gothic {{m|got|𐌰𐌺}}, {{etyl|goh|-}} {{m|goh|oh}}.
 
 ====Pronunciation====
 * {{IPA|/ɑk/|lang=ang}}
@@ -154,7 +154,7 @@ From {{inh|ang|gem-pro|*ak}}. Cognate with {{etyl|osx|-}} {{term|ac|lang=osx}}, 
 ==Romanian==
 
 ===Etymology===
-From {{etyl|la|ro}} {{term|acus|lang=la}}.
+From {{etyl|la|ro}} {{m|la|acus}}.
 
 ===Noun===
 {{ro-noun|n|ace}}
