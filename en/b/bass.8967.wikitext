@@ -3,7 +3,7 @@
 {{slim-wikipedia|Bass (disambiguation)}}
 
 ===Etymology 1===
-{{etyl|it|en}} {{term|basso||low|lang=it}}, from {{etyl|la|en}} {{term|bassus||low|lang=la}}.
+{{etyl|it|en}} {{m|it|basso||low}}, from {{etyl|la|en}} {{m|la|bassus||low}}.
 
 ====Pronunciation====
 * {{rhymes|eɪs|lang=en}}
@@ -50,7 +50,7 @@
 #: ''The conductor preferred to situate the '''bass''' in the middle rear, rather than to one side of the orchestra.''
 # A male [[singer]] who sings in the bass range.
 #: ''Halfway through middle school, Edgar morphed from a soprano to a '''bass''', much to the amazement and amusement of his fellow choristers.''
-# {{context|musical instrument|lang=en}} An [[instrument]] that plays in the bass range, in particular a [[double bass]], [[bass guitar]], [[electric bass]] or bass [[synthesiser]].
+# {{label|en|musical instrument}} An [[instrument]] that plays in the bass range, in particular a [[double bass]], [[bass guitar]], [[electric bass]] or bass [[synthesiser]].
 #: ''The musician swung the '''bass''' over his head like an axe and smashed it into the amplifier, creating a discordant howl of noise.''
 # The [[clef]] sign that indicates that the pitch of the notes is below middle C; a [[bass clef]].
 #: ''The score had been written without the treble and '''bass''', but it was easy to pick out which was which based on the location of the notes on the staff.''
@@ -198,7 +198,7 @@
 
 ===Etymology 2===
 [[File:Smallmouth_bass.jpg|thumb|right|200px|a [[smallmouth bass]] ({{taxlink|Micropterus dolomieu|species|noshow=1}})]]
-From {{etyl|enm|en}} {{term|bas|lang=enm}}, alteration of {{term|bars|lang=enm}}, from {{etyl|ang|en}} {{term|bærs||a fish, perch|lang=ang}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*barsaz||perch", literally "prickly fish}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bhars-}}, {{m|ine-pro|*bharst-||prickle, thorn, scale}}. Cognate with {{etyl|nl|-}} {{term|baars||perch, bass|lang=nl}}, {{etyl|de|-}} {{term|Barsch||perch|lang=de}}. More at {{l|en|barse}}.
+From {{etyl|enm|en}} {{m|enm|bas}}, alteration of {{m|enm|bars}}, from {{etyl|ang|en}} {{m|ang|bærs||a fish, perch}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*barsaz||perch", literally "prickly fish}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bhars-}}, {{m|ine-pro|*bharst-||prickle, thorn, scale}}. Cognate with {{etyl|nl|-}} {{m|nl|baars||perch, bass}}, {{etyl|de|-}} {{m|de|Barsch||perch}}. More at {{l|en|barse}}.
 
 ====Pronunciation====
 * {{enPR|băs}}, {{IPA|/bæs/|lang=en}}
@@ -261,7 +261,7 @@ From {{etyl|enm|en}} {{term|bas|lang=enm}}, alteration of {{term|bars|lang=enm}}
 {{trans-bottom}}
 
 ===Etymology 3===
-A corruption of {{term|bast|lang=en}}.
+A corruption of {{m|en|bast}}.
 
 ====Noun====
 {{en-noun|es}}
@@ -324,8 +324,8 @@ From {{etyl|it|lv}}
 ===Noun===
 {{head|no|noun}}
 
-# {{context|music|lang=no}} [[#English|bass]]; (musical range, person, instrument or group performing in the base range)
-# {{context|music|lang=no}} a [[bass guitar]]
+# {{label|no|music}} [[#English|bass]]; (musical range, person, instrument or group performing in the base range)
+# {{label|no|music}} a [[bass guitar]]
 
 ----
 
@@ -335,12 +335,12 @@ From {{etyl|it|lv}}
 * {{qualifier|Vallader}} {{l|rm|bas}}
 
 ===Etymology===
-From {{etyl|LL.|rm}} {{term|bassus|lang=la}}.
+From {{etyl|LL.|rm}} {{m|la|bassus}}.
 
 ===Adjective===
 {{head|rm|adjective|g=m|f|bassa|m pl|bass|f pl|bassas}}
 
-# {{context|Rumantsch Grischun|Sursilvan|Sutsilvan|Surmiran|Puter|Vallader|lang=rm}} [[deep]], [[low]]
+# {{label|rm|Rumantsch Grischun|Sursilvan|Sutsilvan|Surmiran|Puter|Vallader}} [[deep]], [[low]]
 
 [[ca:bass]]
 [[cs:bass]]
