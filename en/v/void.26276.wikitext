@@ -7,7 +7,7 @@
 * {{rhymes|ɔɪd|lang=en}}
 
 ===Etymology 1===
-From {{etyl|fro|en}} ''[[vuit]]'', ''[[voide]]'' (modern {{term|vide|lang=fr}}).
+From {{etyl|fro|en}} ''[[vuit]]'', ''[[voide]]'' (modern {{m|fr|vide}}).
 
 ====Adjective====
 {{en-adj|-}}
@@ -35,7 +35,7 @@ From {{etyl|fro|en}} ''[[vuit]]'', ''[[voide]]'' (modern {{term|vide|lang=fr}}).
 # Containing no immaterial quality; destitute of mind or soul.
 #* Alexander Pope
 #*: idol, '''void''' and vain
-# {{context|computing|programming|of a [[function]] or [[method]]|lang=en}} That does not [[return]] a value.
+# {{label|en|computing|programming|of a [[function]] or [[method]]}} That does not [[return]] a value.
 #* '''2005''', Craig Larman, ''Applying UML and patterns''
 #*: In particular, the ''roll'' method is '''void''' — it has no return value.
 #* '''2007''', Andrew Krause, ''Foundations of GTK+ Development''
@@ -101,9 +101,9 @@ From {{etyl|fro|en}} ''[[vuit]]'', ''[[voide]]'' (modern {{term|vide|lang=fr}}).
 #: ''Nobody has crossed the '''void''' since one man died trying three hundred years ago; it's high time we had another go.''
 #* Alexander Pope
 #*: Pride, where wit fails, steps in to our defence, / And fills up all the mighty '''void''' of sense.
-# {{context|astronomy|lang=en}} An extended region of [[space]] containing no [[galaxy|galaxies]]
-# {{context|materials science|lang=en}} A collection of adjacent [[vacancy|vacancies]] inside a [[crystal]] [[lattice]].
-# {{context|fluid mechanics|lang=en}} A pocket of [[vapour]] inside a fluid flow, created by [[cavitation]].
+# {{label|en|astronomy}} An extended region of [[space]] containing no [[galaxy|galaxies]]
+# {{label|en|materials science}} A collection of adjacent [[vacancy|vacancies]] inside a [[crystal]] [[lattice]].
+# {{label|en|fluid mechanics}} A pocket of [[vapour]] inside a fluid flow, created by [[cavitation]].
 
 =====Synonyms=====
 * {{sense|(engineering) collection of vacancies}} [[pore]]
@@ -206,7 +206,7 @@ Alteration of {{term|voidee}}.
 ====Noun====
 {{en-noun}}
 
-# {{context|now|_|rare|historical|lang=en}} A [[voidee]]. {{defdate|from 15th c.}}
+# {{label|en|now|_|rare|historical}} A [[voidee]]. {{defdate|from 15th c.}}
 #* '''2011''', Thomas Penn, ''Winter King'', Penguin 2012, p. 68:
 #*: Late on the final evening, as the customary ‘'''void'''’ – spiced wine and sweetmeats – was served, more elaborate disguisings in the great hall culminated in the release of a flock of white doves.
 
