@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|LL.|en}} {{term|operandum|lang=la}}
+From {{etyl|LL.|en}} {{m|la|operandum}}
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ɒpə(ɹ)ænd/|lang=en}}
@@ -11,7 +11,7 @@ From {{etyl|LL.|en}} {{term|operandum|lang=la}}
 ===Noun===
 {{en-noun}}
 
-# {{context|mathematics|computing|lang=en}} A quantity to which an [[operator]] is applied (in <math>3 - x</math>, the operands of the subtraction operator are 3 and <math>x</math>).
+# {{label|en|mathematics|computing}} A quantity to which an [[operator]] is applied (in <math>3 - x</math>, the operands of the subtraction operator are 3 and <math>x</math>).
 #* '''1992''', Michael A. Miller, ''The 68000 Microprocessor Family: Architecture, Programming, and Applications'' (page 47)
 #*: When the microprocessor decodes the JSR opcode, it stores the '''operand''' into the TEMP register and pushes the current contents of the PC ($00 0128) onto the stack.
 
