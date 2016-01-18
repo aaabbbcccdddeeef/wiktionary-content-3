@@ -5,7 +5,7 @@
 [[Image:Rost Dose.jpg|thumb|right|'''Rust''' on a can]]
 
 ===Etymology===
-From {{etyl|enm|en}} {{term|rust|lang=enm}}, {{term|rost|lang=enm}}, {{term|roust|lang=enm}}, from {{etyl|ang|en}} {{term|rust||lang=ang}}, {{m|ang|rūst||rust}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*rustaz||rust}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*rudʰso-||red}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*h₁rewdʰ-||red}}. Cognate with {{etyl|sco|-}} {{term|roust||rust|lang=sco}}, {{etyl|stq|-}} {{term|rust||rust|lang=stq}}, {{etyl|fy|-}} {{term|roast||rust|lang=fy}}, {{etyl|nl|-}} {{term|roest||rust|lang=nl}}, {{etyl|de|-}} {{term|Rost||rust|lang=de}}, {{etyl|da|-}} {{term|rust||rust|lang=da}}, {{etyl|sv|-}} {{term|rost||rust|lang=sv}}, {{etyl|no|-}} {{term|rust|lang=no}}, {{term|ryst||rust|lang=no}}. Related to {{term|red|lang=en}}.
+From {{etyl|enm|en}} {{m|enm|rust}}, {{m|enm|rost}}, {{m|enm|roust}}, from {{etyl|ang|en}} {{m|ang|rust|}}, {{m|ang|rūst||rust}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*rustaz||rust}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*rudʰso-||red}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*h₁rewdʰ-||red}}. Cognate with {{etyl|sco|-}} {{m|sco|roust||rust}}, {{etyl|stq|-}} {{m|stq|rust||rust}}, {{etyl|fy|-}} {{m|fy|roast||rust}}, {{etyl|nl|-}} {{m|nl|roest||rust}}, {{etyl|de|-}} {{m|de|Rost||rust}}, {{etyl|da|-}} {{m|da|rust||rust}}, {{etyl|sv|-}} {{m|sv|rost||rust}}, {{etyl|no|-}} {{m|no|rust}}, {{m|no|ryst||rust}}. Related to {{m|en|red}}.
 
 ===Pronunciation===
 * {{enPR|rŭst}}, {{IPA|/rʌst/|lang=en}}
@@ -163,12 +163,12 @@ From {{etyl|enm|en}} {{term|rust|lang=enm}}, {{term|rost|lang=enm}}, {{term|rous
 ===Verb===
 {{en-verb}}
 
-# {{context|intransitive|lang=en}} to oxidize, especially of [[iron]] or [[steel]].
+# {{label|en|intransitive}} to oxidize, especially of [[iron]] or [[steel]].
 #: ''The patio furniture had '''rusted''' in the wind-driven spray.''
-# {{context|transitive|lang=en}} to cause to oxidize.
+# {{label|en|transitive}} to cause to oxidize.
 #: ''The wind-driven spray had thoroughly '''rusted''' the patio furniture.''
-# {{context|intransitive|lang=en}} To be affected with the parasitic fungus called rust.
-# {{context|figuratively|lang=en}} To degenerate in idleness; to become dull or impaired by inaction.
+# {{label|en|intransitive}} To be affected with the parasitic fungus called rust.
+# {{label|en|figuratively}} To degenerate in idleness; to become dull or impaired by inaction.
 #* Dryden
 #*: Must I '''rust''' in Egypt? never more / Appear in arms, and be the chief of Greece?
 
@@ -244,7 +244,7 @@ From {{etyl|enm|en}} {{term|rust|lang=enm}}, {{term|rost|lang=enm}}, {{term|rous
 {{wikipedia|lang=da}}
 
 ===Etymology===
-From {{etyl|gmq-osw|da}} {{term|rost||rust|lang=gmq-osw}}.
+From {{etyl|gmq-osw|da}} {{m|gmq-osw|rost||rust}}.
 
 ===Pronunciation===
 * {{IPA|/rost/|[ʁɔsd̥]|lang=da}}
@@ -273,7 +273,7 @@ From {{etyl|gmq-osw|da}} {{term|rost||rust|lang=gmq-osw}}.
 
 # [[rest]], [[calm]], [[peace]]
 #: ''Waarom laat je me niet met rust?''. - Why don't you leave me '''alone'''?
-# {{context|sports|lang=nl}} [[half-time]]
+# {{label|nl|sports}} [[half-time]]
 
 ====Derived terms====
 * [[rusteloos]]
@@ -291,7 +291,7 @@ From {{etyl|gmq-osw|da}} {{term|rost||rust|lang=gmq-osw}}.
 {{wikipedia|lang=no}}
 
 ===Noun===
-{{head|nb|noun|g=m|g2=f|definite singular|rusta|or|rusten}} {{context|uncountable|lang=nb}}
+{{head|nb|noun|g=m|g2=f|definite singular|rusta|or|rusten}} {{label|nb|uncountable}}
 
 # {{l|en|rust}} (''oxidation of iron and steel'')
 # {{l|en|rust}} (''disease affecting plants'')
@@ -307,7 +307,7 @@ From {{etyl|gmq-osw|da}} {{term|rost||rust|lang=gmq-osw}}.
 {{wikipedia|lang=nn}}
 
 ===Noun===
-{{head|nn|noun|g=f|definite singular|rusta}} {{context|uncountable|lang=nn}}
+{{head|nn|noun|g=f|definite singular|rusta}} {{label|nn|uncountable}}
 
 # {{l|en|rust}} (''oxidation, as above'')
 # {{l|en|rust}} (''plant disease'')
