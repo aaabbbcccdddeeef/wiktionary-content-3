@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|enm|en}} {{term|gut|lang=enm}}, {{term|gutte|lang=enm}}, {{term|gotte|lang=enm}}, from {{etyl|ang|en}} {{term|gutt|lang=ang}} (usually in plural {{term|guttas||guts, entrails|lang=ang}}), from {{etyl|gem-pro|en}} {{m|gem-pro|*gut-}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*gʰeud-||to pour}}. Related to {{etyl|en|-}} {{term|gote||drain|lang=en}}, {{etyl|ang|-}} {{m|ang|ġēotan||to pour}}. More at {{l|en|gote}}, {{l|en|yote}}.
+From {{etyl|enm|en}} {{m|enm|gut}}, {{m|enm|gutte}}, {{m|enm|gotte}}, from {{etyl|ang|en}} {{m|ang|gutt}} (usually in plural {{m|ang|guttas||guts, entrails}}), from {{etyl|gem-pro|en}} {{m|gem-pro|*gut-}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*gʰeud-||to pour}}. Related to {{etyl|en|-}} {{m|en|gote||drain}}, {{etyl|ang|-}} {{m|ang|ġēotan||to pour}}. More at {{l|en|gote}}, {{l|en|yote}}.
 
 ===Pronunciation===
 * {{IPA|/ɡʌt/|lang=en}}
@@ -13,12 +13,12 @@ From {{etyl|enm|en}} {{term|gut|lang=enm}}, {{term|gutte|lang=enm}}, {{term|gott
 {{en-noun}}
 
 # The [[alimentary canal]], especially the [[intestine]].
-# {{context|informal|lang=en}} The [[abdomen]] of a person, especially one that is enlarged
+# {{label|en|informal}} The [[abdomen]] of a person, especially one that is enlarged
 #: ''beer '''gut'''''
-# {{context|uncountable|lang=en}} The intestines of an animal used to make strings of a [[tennis racket]] or [[violin]], etc.
+# {{label|en|uncountable}} The intestines of an animal used to make strings of a [[tennis racket]] or [[violin]], etc.
 # A person's emotional, [[visceral]] self.
 #: ''I have a funny feeling in my '''gut'''.''
-# {{context|informal|lang=en}} A [[gut course]]
+# {{label|en|informal}} A [[gut course]]
 #: ''You should take Intro Astronomy: it's a '''gut'''.''
 # A narrow passage of water.
 #: ''the '''Gut''' of Canso''
@@ -95,8 +95,8 @@ From {{etyl|enm|en}} {{term|gut|lang=enm}}, {{term|gutte|lang=enm}}, {{term|gott
 ===Verb===
 {{en-verb|gutt}}
 
-# {{context|transitive|lang=en}} To [[eviscerate]].
-# {{context|transitive|lang=en}} To [[remove]] or [[destroy]] the most important parts of.
+# {{label|en|transitive}} To [[eviscerate]].
+# {{label|en|transitive}} To [[remove]] or [[destroy]] the most important parts of.
 #:* fire ''gutted'' the building
 #:* Congress ''gutted'' the welfare bill.
 
@@ -164,7 +164,7 @@ From {{etyl|enm|en}} {{term|gut|lang=enm}}, {{term|gutte|lang=enm}}, {{term|gott
 * {{l|gmw-cfr|jot}} {{qualifier|Ripuarian}}
 
 ===Etymology===
-From {{etyl|goh|gmw-cfr}} ''(*)''{{term||guod|lang=goh}}, northern variant of {{m|goh|guot}}.
+From {{etyl|goh|gmw-cfr}} ''(*)''{{m|goh||guod}}, northern variant of {{m|goh|guot}}.
 
 ===Pronunciation===
 * {{IPA|/guːt/|lang=gmw-cfr}}
@@ -182,7 +182,7 @@ From {{etyl|goh|gmw-cfr}} ''(*)''{{term||guod|lang=goh}}, northern variant of {{
 * {{IPA|/ɡut/|[ɡ̊ud̥]|lang=da}}
 
 ===Etymology 1===
-From {{etyl|no|da}} {{term|gutt|lang=no}}.
+From {{etyl|no|da}} {{m|no|gutt}}.
 
 ====Noun====
 {{da-noun|stem=gutt|en|er}}
@@ -193,7 +193,7 @@ From {{etyl|no|da}} {{term|gutt|lang=no}}.
 {{da-noun-infl|stem=gutt|en|er}}
 
 ===Etymology 2===
-From {{etyl|en|da}} {{term|gut|lang=en}}.
+From {{etyl|en|da}} {{m|en|gut}}.
 
 ====Noun====
 {{da-noun|stem=gutt|en|-}}
@@ -205,7 +205,7 @@ From {{etyl|en|da}} {{term|gut|lang=en}}.
 ==German==
 
 ===Etymology===
-From {{etyl|goh|de}} {{term|guot|lang=goh}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*gōdaz}}, from {{etyl|ine-pro|de}} {{m|ine-pro|*gʰedʰ-}}. Cognate to Dutch and West Frisian {{term|goed|lang=nl}}, English {{term|good|lang=en}}, Danish, Norwegian and Swedish {{term|god|lang=da}}.
+From {{etyl|goh|de}} {{m|goh|guot}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*gōdaz}}, from {{etyl|ine-pro|de}} {{m|ine-pro|*gʰedʰ-}}. Cognate to Dutch and West Frisian {{m|nl|goed}}, English {{m|en|good}}, Danish, Norwegian and Swedish {{m|da|god}}.
 
 ===Pronunciation===
 * {{IPA|/ɡuːt/|lang=de}} {{a|standard}}
@@ -281,7 +281,7 @@ From {{etyl|goh|de}} {{term|guot|lang=goh}}, from {{etyl|gem-pro|de}} {{m|gem-pr
 ==Tok Pisin==
 
 ===Etymology===
-From {{etyl|en|tpi}} {{term|good|lang=en}}.
+From {{etyl|en|tpi}} {{m|en|good}}.
 
 ===Adverb===
 {{head|tpi|adverb}}
