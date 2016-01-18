@@ -4,7 +4,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|enm|en}}, from {{etyl|ML.|en}} {{term|instrumentalis|lang=la}}, from {{term|instruere||to build into, set up, construct, furnish, hence "to train"|lang=la}}, from {{term|in-||on|lang=la}} + {{term|struere||to put together, arrange, pile up, build, construct|lang=la}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*strew-||to spread, to strew}}.
+From {{etyl|enm|en}}, from {{etyl|ML.|en}} {{m|la|instrumentalis}}, from {{m|la|instruere||to build into, set up, construct, furnish, hence "to train"}}, from {{m|la|in-||on}} + {{m|la|struere||to put together, arrange, pile up, build, construct}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*strew-||to spread, to strew}}.
 
 ===Pronunciation===
 * {{audio|en-us-instrumental.ogg|Audio (US)|lang=en}}
@@ -18,13 +18,13 @@ From {{etyl|enm|en}}, from {{etyl|ML.|en}} {{term|instrumentalis|lang=la}}, from
 #*: The head is not more native to the heart, The hand more '''instrumental''' to the mouth &mdash;
 #* '''2012''', Christoper Zara, ''Tortured Artists: From Picasso and Monroe to Warhol and Winehouse, the Twisted Secrets of the World's Most Creative Minds'', part 1, chapter 2, {{gbooks|q=instrumental|id=HV4jKhjzMVYC|pg=51}}:
 #*: Few songwriters have been as '''instrumental''' in creating the mold for American music.
-# {{context|music|lang=en}} Pertaining to, made by, or prepared for, an instrument, especially a musical instrument.
+# {{label|en|music}} Pertaining to, made by, or prepared for, an instrument, especially a musical instrument.
 #: '''''instrumental''' music''
 #* {{rfdate}} {{w|Thomas Babington Macaulay}}
 #*: He defended the use of '''instrumental''' music in public worship.
 #* {{rfdate}} {{w|John Dryden}}
 #* Sweet voices mix'd with '''instrumental''' sounds.
-# {{context|grammar|lang=en}} Applied to a [[case]] expressing [[means]] or [[agency]], generally indicated in English by ''by'' or ''with'' with the objective.
+# {{label|en|grammar}} Applied to a [[case]] expressing [[means]] or [[agency]], generally indicated in English by ''by'' or ''with'' with the objective.
 #: ''the '''instrumental''' case'' <!--This is found in [[Sanskrit]] as a separate case, but in [[Greek]] it was merged into the [[dative]], and in [[Latin]] into the [[ablative]]. In Old English it was a separate case, but has disappeared, leaving only a few anomalous forms. It continues to be used in [[Slavic]] languages.-->
 
 ====Coordinate terms====
@@ -93,8 +93,8 @@ From {{etyl|enm|en}}, from {{etyl|ML.|en}} {{term|instrumentalis|lang=la}}, from
 ===Noun===
 {{en-noun|~}}
 
-# {{context|uncountable|grammar|lang=en}} The [[instrumental case]].
-# {{context|countable|music|lang=en}} A [[composition]] without [[lyrics]].
+# {{label|en|uncountable|grammar}} The [[instrumental case]].
+# {{label|en|countable|music}} A [[composition]] without [[lyrics]].
 #* '''1977''', ''Stereo Review'' (volume 38, page 70)
 #*: I recommend this album in the face of the fact that five of the eleven songs are the purest filler, dull '''instrumentals''' with a harmonica rifling over an indifferent rhythm section. The rest is magnificent{{...}}
 
@@ -140,7 +140,7 @@ From {{etyl|enm|en}}, from {{etyl|ML.|en}} {{term|instrumentalis|lang=la}}, from
 ===Noun===
 {{fr-noun|m|instrumentaux}}
 
-# {{context|grammar|lang=fr}} the [[#English|instrumental]] case
+# {{label|fr|grammar}} the [[#English|instrumental]] case
 
 ====See also====
 * [[accusatif]]
@@ -159,14 +159,14 @@ From {{etyl|enm|en}}, from {{etyl|ML.|en}} {{term|instrumentalis|lang=la}}, from
 ==German==
 
 ===Etymology===
-From {{etyl|fr|de}} {{term|instrumental|lang=fr}}.
+From {{etyl|fr|de}} {{m|fr|instrumental}}.
 
 {{suffix|Instrument|al|lang=de}}
 
 ===Adjective===
 {{de-adj|-}}
 
-# {{context|music|lang=de}} [[#English|instrumental]]
+# {{label|de|music}} [[#English|instrumental]]
 
 ====Antonyms====
 * [[nichtinstrumental]]
