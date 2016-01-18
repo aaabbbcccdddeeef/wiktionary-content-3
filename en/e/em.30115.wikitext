@@ -15,7 +15,7 @@ The typographic em is named after the metal [[type]] for the capital {{m|en|M}} 
 
 # {{Latn-def|en|name|M|m}}
 #: ''The ems and ens at the beginnings and ends.''
-# {{context|typography|lang=en}} A [[unit]] of [[measurement]] equal to the [[height]] of the type in use.
+# {{label|en|typography}} A [[unit]] of [[measurement]] equal to the [[height]] of the type in use.
 
 =====Synonyms=====
 * {{sense|typography}} [[quad]], [[em quad]]
@@ -75,7 +75,7 @@ Coined by Christine M. Elverson by removing the "th" from {{m|en|them}}, perhaps
 ====Pronoun====
 {{en-pron|desc=third-person singular, [[gender-neutral]], objective case|reflexive|emself|possessive|eir}}
 
-# {{context|neologism|lang=en}} [[them]] {{qualifier|singular}}. {{non-gloss definition|[[gender-neutral|Gender-neutral]] third-person singular object pronoun, coordinate with {{m|en|him}} and {{m|en|her}}.}}
+# {{label|en|neologism}} [[them]] {{qualifier|singular}}. {{non-gloss definition|[[gender-neutral|Gender-neutral]] third-person singular object pronoun, coordinate with {{m|en|him}} and {{m|en|her}}.}}
 #* {{quote-book
 |date=1986-04-01
 |title=The Joy of TeX: A Gourmet Guide to Typesetting with the AMS-TeX macro package
@@ -152,7 +152,7 @@ Compare [[um]].
 ====Interjection====
 {{en-interj}}
 
-# {{context|Scotland|Ireland|lang=en}} a form of [[hesitant]] [[speech]], or an expression of [[uncertainty]]; [[um]]; [[umm]]; [[erm]]
+# {{label|en|Scotland|Ireland}} a form of [[hesitant]] [[speech]], or an expression of [[uncertainty]]; [[um]]; [[umm]]; [[erm]]
 #: ''She was going to, '''em'''... the salon, I think.''
 
 ===Anagrams===
@@ -197,7 +197,7 @@ Compare [[um]].
 # {{non-gloss definition|The name of the letter ''{{l|la|M}}''.}}
 
 ====Usage notes====
-* Multiple Latin names for the letter {{term||M|lang=la}}, {{term||m|lang=la}} have been suggested. The most common is {{term||em|lang=la}} or a {{l|en|syllabic}} {{term||m|lang=la}}, although there is some evidence which also supports, as names for the letter, {{term||mē|lang=la}}, {{term||əm|lang=la}}, {{term||mə|lang=la}}, and even (in the fourth- or fifth-century first Antinoë papyrus, which gives Greek transliterations of the Latin names of the Roman alphabet’s letters) {{term|ιμμε|lang=grc}}.
+* Multiple Latin names for the letter {{m|la||M}}, {{m|la||m}} have been suggested. The most common is {{m|la||em}} or a {{l|en|syllabic}} {{m|la||m}}, although there is some evidence which also supports, as names for the letter, {{m|la||mē}}, {{m|la||əm}}, {{m|la||mə}}, and even (in the fourth- or fifth-century first Antinoë papyrus, which gives Greek transliterations of the Latin names of the Roman alphabet’s letters) {{m|grc|ιμμε}}.
 
 ====Coordinate terms====
 * {{Latin letter names of the Roman alphabet}}
@@ -384,7 +384,7 @@ When followed by an article, a pronoun, a demonstrative pronoun or adjective, ''
 ===Verb===
 {{head|sco|verb forms}}
 
-# {{context|South Scots||lang=sco}} Emphatic first-person singular simple present form of ''ti [[be]]''
+# {{label|sco|South Scots|}} Emphatic first-person singular simple present form of ''ti [[be]]''
 
 ===See also===
 * [[er]]
