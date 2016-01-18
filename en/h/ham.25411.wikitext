@@ -15,14 +15,14 @@ From {{etyl|enm|en}} {{m|enm|hamme}}, from {{etyl|ang|en}} {{m|ang|hamm||inner o
 ====Noun====
 {{en-noun}}
 
-# {{context|anatomy|lang=en}} The region back of the [[knee]] [[joint]]; the [[popliteal]] space; the [[hock]].
-# {{context|countable|lang=en}} A [[thigh]] and [[buttock]] of an animal slaughtered for meat.
-# {{context|uncountable|lang=en}} Meat from the thigh of a [[hog]] cured for food.
+# {{label|en|anatomy}} The region back of the [[knee]] [[joint]]; the [[popliteal]] space; the [[hock]].
+# {{label|en|countable}} A [[thigh]] and [[buttock]] of an animal slaughtered for meat.
+# {{label|en|uncountable}} Meat from the thigh of a [[hog]] cured for food.
 #: ''a little piece of '''ham''' for the cat''
 #* {{rfdate}}, Audra Lilly Griffeth, ''A King's Daughter'' (ISBN 146915532X):
 #*: She put some '''ham''' in the beans and cut up some sweet potatoes to boil.
 # The back of the thigh.
-# {{context|internet|informal|lang=en}} [[electronic mail|Electronic mail]] that is wanted; mail that is not [[spam]] or [[junk mail]].
+# {{label|en|internet|informal}} [[electronic mail|Electronic mail]] that is wanted; mail that is not [[spam]] or [[junk mail]].
 
 =====Derived terms=====
 * [[ham-fisted]]
@@ -150,7 +150,7 @@ From {{etyl|ang|en}} {{m|ang|hām}}.
 * {{R:Online Etymology Dictionary}}
 
 ===Etymology 3===
-Shortened from {{term|hamfatter||inferior actor|lang=en}}, said to derive from the 1863 minstrel show song ''The Ham-fat Man''.<ref name=hamref>[http://www.etymonline.com/index.php?allowed_in_frame=0&search=ham&searchmode=none "ham"], Online Etymology Dictionary</ref>
+Shortened from {{m|en|hamfatter||inferior actor}}, said to derive from the 1863 minstrel show song ''The Ham-fat Man''.<ref name=hamref>[http://www.etymonline.com/index.php?allowed_in_frame=0&search=ham&searchmode=none "ham"], Online Etymology Dictionary</ref>
 
 ====Noun====
 {{en-noun}}
@@ -207,7 +207,7 @@ Shortened from {{term|hamfatter||inferior actor|lang=en}}, said to derive from t
 {{wikipedia|Ham (eina)|Ham|lang=ca}}
 
 ===Etymology===
-From {{etyl|la|ca}} {{term|hamus|lang=la}}.
+From {{etyl|la|ca}} {{m|la|hamus}}.
 
 ===Noun===
 {{ca-noun|m}}
@@ -219,7 +219,7 @@ From {{etyl|la|ca}} {{term|hamus|lang=la}}.
 ==Danish==
 
 ===Etymology 1===
-From {{etyl|non|da}} {{term|hamr|lang=non}}.
+From {{etyl|non|da}} {{m|non|hamr}}.
 
 ====Pronunciation====
 * {{IPA|/ham/|[hɑmˀ]|lang=da}}
@@ -247,7 +247,7 @@ See {{l|da|han}}.
 ====Pronoun====
 {{head|da|pronoun}}
 
-# {{context|personal|lang=da}} [[objective case]] of {{l|da|han}}
+# {{label|da|personal}} [[objective case]] of {{l|da|han}}
 
 =====See also=====
 {{Danish personal pronouns}}
@@ -285,7 +285,7 @@ From {{etyl|hi|hif}} {{m|hi|हम||we, I}}.
 ==Fyer==
 
 ===Etymology===
-Related to {{etyl|gek|-}} {{term|ram||water|lang=gek}}.
+Related to {{etyl|gek|-}} {{m|gek|ram||water}}.
 
 ===Noun===
 {{head|fie|noun}}
@@ -333,7 +333,7 @@ Related to {{etyl|gek|-}} {{term|ram||water|lang=gek}}.
 ==Montol==
 
 ===Etymology===
-Related to {{etyl|sur|-}} {{term|am||water|lang=sur}}.
+Related to {{etyl|sur|-}} {{m|sur|am||water}}.
 
 ===Noun===
 {{head|mtl|noun|head=hàm}}
@@ -362,19 +362,19 @@ Related to {{etyl|sur|-}} {{term|am||water|lang=sur}}.
 * {{IPA|/hɑm/|lang=ang}}
 
 ===Etymology 1===
-From {{inh|ang|gem-pro|*hamō-}}. Cognate with Middle Dutch {{term|hamme|lang=dum}} (Dutch {{term|ham|lang=nl}}), Old High German {{term|hamma|lang=goh}} (dialectal German {{term|Hamm|lang=de}}), Old Norse {{term|hǫm|lang=non}}.
+From {{inh|ang|gem-pro|*hamō-}}. Cognate with Middle Dutch {{m|dum|hamme}} (Dutch {{m|nl|ham}}), Old High German {{m|goh|hamma}} (dialectal German {{m|de|Hamm}}), Old Norse {{m|non|hǫm}}.
 
 ====Noun====
 {{ang-noun|f}}
 
-# {{context|anatomy|lang=ang}} [[ham#English|ham]], inner knee
+# {{label|ang|anatomy}} [[ham#English|ham]], inner knee
 #: ''Monegum men gescrincaþ his fet to his '''homme''''': with many men the feet shrink up to the knee. (''Leechbook'')
 
 =====Descendants=====
 * English [[ham#English|ham]]
 
 ===Etymology 2===
-From {{inh|ang|gem-pro|*hammaz}}. Cognate with Old Frisian {{term|ham|lang=ofs}}, Middle Low German {{term|hamme|lang=gml}} (Low German {{term|Hamm|lang=nds}}).
+From {{inh|ang|gem-pro|*hammaz}}. Cognate with Old Frisian {{m|ofs|ham}}, Middle Low German {{m|gml|hamme}} (Low German {{m|nds|Hamm}}).
 
 ====Noun====
 {{ang-noun|m}}
@@ -446,12 +446,12 @@ Of {{etyl|gem|fro}} origin, probably {{etyl|frk|fro}}
 ==Ron==
 
 ===Etymology===
-Related to {{etyl|gek|-}} {{term|ram||water|lang=gek}}.
+Related to {{etyl|gek|-}} {{m|gek|ram||water}}.
 
 ===Noun===
 {{head|cla|noun}}
 
-# {{context|all|_|dialects|including|_|Bokkos|Daffo-Butura|Shagawu|lang=cla}}<!--specified this in case we decide to consider these separate languages, like some linguists do--> [[water]]
+# {{label|cla|all|_|dialects|including|_|Bokkos|Daffo-Butura|Shagawu}}<!--specified this in case we decide to consider these separate languages, like some linguists do--> [[water]]
 
 ===References===
 * ''Etymological Dictionary of Egyptian, volume 3: m-'' (2007, ISBN 9789004164123), page 201:
@@ -463,7 +463,7 @@ Related to {{etyl|gek|-}} {{term|ram||water|lang=gek}}.
 ==Tal==
 
 ===Etymology===
-Related to {{etyl|sur|-}} {{term|am||water|lang=sur}}.
+Related to {{etyl|sur|-}} {{m|sur|am||water}}.
 
 ===Noun===
 {{head|tal|noun|head=hàm}}
@@ -480,7 +480,7 @@ Related to {{etyl|sur|-}} {{term|am||water|lang=sur}}.
 ==Turkish==
 
 ===Etymology===
-From {{etyl|fa|tr}} {{term|خام|lang=fa|sc=fa-Arab|tr=xâm}}.
+From {{etyl|fa|tr}} {{m|fa|خام|sc=fa-Arab|tr=xâm}}.
 
 ===Adjective===
 {{tr-adj}}
