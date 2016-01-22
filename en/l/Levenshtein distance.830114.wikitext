@@ -1,13 +1,13 @@
 ==English==
 
 ===Etymology===
-From {{term|Levenshtein|lang=en}} + {{term|distance|lang=en}}, after the Russian mathematician [[w:Vladimir Levenshtein|Vladimir Levenshtein]].
+From {{m|en|Levenshtein}} + {{m|en|distance}}, after the Russian mathematician [[w:Vladimir Levenshtein|Vladimir Levenshtein]].
 
 ===Noun===
 {{wikipedia}}
 {{en-noun}}
 
-# {{context|computer science|lang=en}} The number of [[edit]]s ([[replacements]], [[deletions]] and [[insertions]]) required to change one [[string]] into another.
+# {{label|en|computer science}} The number of [[edit]]s ([[replacements]], [[deletions]] and [[insertions]]) required to change one [[string]] into another.
 
 ====Translations====
 {{trans-top|(computer science) the number of edits required to change one string into another}}
