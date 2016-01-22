@@ -6,7 +6,7 @@ From {{etyl|sa|en}}, meaning "two".
 ===Prefix===
 {{head|en|prefixes}}
 
-# {{context|chemistry|dated|lang=en}} In [[chemistry]], a [[designation]] prefix for undiscovered [[chemical]] [[element]]s lying two periods under a known element in the [[periodic table]]. (For example, [[rhenium]] was called [[dwi-manganese]] before its discovery in 1926.)
+# {{label|en|chemistry|dated}} In [[chemistry]], a [[designation]] prefix for undiscovered [[chemical]] [[element]]s lying two periods under a known element in the [[periodic table]]. (For example, [[rhenium]] was called [[dwi-manganese]] before its discovery in 1926.)
 
 ====Usage notes====
 Current official [[IUPAC]] practice is to use a [[systematic]] element name based on the [[atomic number]] of the element as the [[provisional]] name, instead of being based on its position in the periodic table as these prefixes require.
@@ -26,12 +26,12 @@ Current official [[IUPAC]] practice is to use a [[systematic]] element name base
 {{cardinalbox|id|1|2|3|satu|tiga}}
 
 ===Etymology===
-From {{etyl|ms|id}} {{term|dwi-|lang=ms}}, from {{term|dwi|lang=ms}}, from {{etyl|sa|id}} {{term|द्वि|tr=dvi|lang=sa}}, from {{term|द्व|tr=dvá|lang=sa}}, from {{etyl|ine-pro|id}} {{m|ine-pro|*dwó}}, {{m|ine-pro|*dwóh₁}}.
+From {{etyl|ms|id}} {{m|ms|dwi-}}, from {{m|ms|dwi}}, from {{etyl|sa|id}} {{m|sa|द्वि|tr=dvi}}, from {{m|sa|द्व|tr=dvá}}, from {{etyl|ine-pro|id}} {{m|ine-pro|*dwó}}, {{m|ine-pro|*dwóh₁}}.
 
 ===Prefix===
 {{head|id|prefix}}
 
-# {{context|cardinal|lang=id}} {{l|en|bi-}}
+# {{label|id|cardinal}} {{l|en|bi-}}
 
 ====Synonyms====
 * {{l|id|dua}}
@@ -44,7 +44,7 @@ From {{etyl|ms|id}} {{term|dwi-|lang=ms}}, from {{term|dwi|lang=ms}}, from {{ety
 {{cardinalbox|ms|1|2|3|satu|tiga}}
 
 ===Etymology===
-From {{term|dwi|lang=ms}}, from {{etyl|sa|ms}} {{term|द्वि|tr=dvi|lang=sa}}, from {{term|द्व|tr=dvá|lang=sa}}, from {{etyl|ine-pro|ms}} {{m|ine-pro|*dwó}}, {{m|ine-pro|*dwóh₁}}.
+From {{m|ms|dwi}}, from {{etyl|sa|ms}} {{m|sa|द्वि|tr=dvi}}, from {{m|sa|द्व|tr=dvá}}, from {{etyl|ine-pro|ms}} {{m|ine-pro|*dwó}}, {{m|ine-pro|*dwóh₁}}.
 
 ===Alternative forms===
 * {{l|ms|دوي|sc=Arab}} ({{l|ms|دوي-|sc=Arab}})
@@ -55,7 +55,7 @@ From {{term|dwi|lang=ms}}, from {{etyl|sa|ms}} {{term|द्वि|tr=dvi|lang=s
 ===Prefix===
 {{head|ms|prefix|Jawi spelling|دوي-}}
 
-# {{context|cardinal|lang=ms}} {{l|en|bi-}}
+# {{label|ms|cardinal}} {{l|en|bi-}}
 
 ====Synonyms====
 * {{l|ms|dua}} / {{l|ms|دوا|sc=Arab}}
