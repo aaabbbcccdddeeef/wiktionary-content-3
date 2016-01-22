@@ -6,8 +6,8 @@
 
 ===Noun===
 {{en-noun}}
-# {{context|telephony|lang=en}} The person who is [[called]] by the [[caller]] (on the telephone).
-# {{context|computing|lang=en}} A [[function]] called by another.
+# {{label|en|telephony}} The person who is [[called]] by the [[caller]] (on the telephone).
+# {{label|en|computing}} A [[function]] called by another.
 #* '''1975''', [[w:Gerald Jay Sussman|Gerald Jay Sussman]] and [[w:Guy L. Steele Jr.|Guy L. Steele, Jr.]], ''[[s:Scheme: An Interpreter for Extended Lambda Calculus|Scheme: An Interpreter for Extended Lambda Calculus]]'', [[w:MIT Computer Science and Artificial Intelligence Laboratory|MIT AI Lab]], page [[s:Scheme: An Interpreter for Extended Lambda Calculus/Section 4|24]]:
 #*: The interpreter must provide for correctly resuming the caller when the '''callee''' has returned its value.
 
