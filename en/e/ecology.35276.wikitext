@@ -1,5 +1,4 @@
 ==English==
-{{wikipedia}}
 
 ===Alternative forms===
 * {{l|en|œcology}} {{qualifier|archaic}}
@@ -8,8 +7,9 @@
 From {{etyl|de|en}} {{m|de|Ökologie}}, from {{etyl|grc|en}} {{m|grc|οἶκος||house}} + {{m|grc|-λογία||study of}}
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|/ɪ.ˈkɒlə.dʒɪ/|lang=en}}
+* {{a|UK}} {{IPA|/ɛˈkɒlədʒi/|lang=en}}, {{IPA|/ɪˈkɒlədʒi/|lang=en}}
 * {{a|US}} {{enPR|ĕkŏlŏjĕ}}, {{IPA|/i.ˈkɑ.lə.dʒi/|lang=en}}
+* {{hyphenation|ecol|ogy|lang=en}}
 
 ===Noun===
 {{en-noun|~|ecologies}}
@@ -25,15 +25,38 @@ From {{etyl|de|en}} {{m|de|Ökologie}}, from {{etyl|grc|en}} {{m|grc|οἶκος
 |url=http://www.americanscientist.org/issues/feature/2012/1/how-to-be-manipulative
 |passage=As in much of biology, the most satisfying truths in '''ecology''' derive from manipulative experimentation. Tinker with nature and quantify how it responds.}}
 
+====Hyponyms====
+{{hyp4
+| [[agroecology]]
+| [[autecology]]
+| [[chemical ecology]]
+| [[dendroecology]]
+| [[ethnoecology]]
+| [[geoecology]]
+| [[hydroecology]]
+| [[macroecology]]
+| [[myrmecology]]
+| [[palaeoecology]]
+| [[paleoecology]]
+| [[photoecology]]
+| [[radioecology]]
+| [[restoration ecology]]
+| [[social ecology]]
+| [[socioecology]]
+| [[synecology]]
+}}
+
 ====Derived terms====
-{{der3|agroecology|autecology|chemical ecology|dendroecology|ecology block|ethnoecology|geoecology|hydroecology|macroecology|myrmecology|palaeoecology|paleoecology|photoecology|radioecology|restoration ecology|social ecology|socioecology|synecology|lang=en}}
+{{der4
+| [[eco-]]
+| [[ecological]]
+| [[ecologist]]
+| [[ecosystem]]
+| [[ecotribe]]
+}}
 
 ====Related terms====
-* [[eco-]]
-* [[ecological]]
-* [[ecologist]]
-* [[ecosystem]]
-* [[ecotribe]]
+* [[ecology block]]
 
 ====Translations====
 {{trans-top|branch of biology}}
@@ -111,7 +134,7 @@ From {{etyl|de|en}} {{m|de|Ökologie}}, from {{etyl|grc|en}} {{m|grc|οἶκος
 * Tajik: {{t|tg|экология|sc=Cyrl}}
 * Tamil: {{t+|ta|சூழ்நிலையியல்|sc=Taml}}
 * Thai: {{t|th|นิเวศวิทยา|tr=níwêt wíttáyaa|sc=Thai}}
-* Turkish: {{t+|tr|ekologi}}, {{t|tr|çevrebilim}}
+* Turkish: {{t|tr|çevre bilimi}}, {{t+|tr|ekoloji}}
 * Ukrainian: {{t+|uk|екологія|f|tr=ekolóhija}}
 * Vietnamese: {{t+|vi|sinh thái học}} ({{t|vi|生態學}})
 * Volapük: {{t|vo|köolog}}
@@ -121,9 +144,12 @@ From {{etyl|de|en}} {{m|de|Ökologie}}, from {{etyl|grc|en}} {{m|grc|οἶκος
 {{checktrans-top}}
 * Corsican: {{t-check|co|ekologia}} <!-- was "[[ekologia]]?" -->
 * Sardinian: {{t-check|sc|ecologia|f}} <!-- was "[[ecologia]]?" -->
-{{trans-mid}}
+{{checktrans-mid}}
 * Sicilian: {{t-check|scn|ecologia|f}} <!-- was "[[ecologia]]?" -->
-{{trans-bottom}}
+{{checktrans-bottom}}
+
+===References===
+* {{pedia}}
 
 ====See also====
 * [[Appendix:Glossary of ecology]]
