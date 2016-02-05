@@ -7,7 +7,6 @@
 
 ===Pronunciation===
 * {{a|UK|US}} {{IPA|/pɪŋ/|lang=en}}
-* {{a|US|also}} {{IPA|/piːŋ/|lang=en}}
 * {{rhymes|ɪŋ|lang=en}}
 
 ===Noun===
@@ -15,7 +14,7 @@
 
 # A high-pitched, short and somewhat sharp sound.
 #: ''My car used to make an odd '''ping''', but after the last oil change it went away.''
-# {{qualifier|submarine navigation}} A pulse of high-pitched or ultrasonic sound whose echoes provide information about nearby objects and vessels.
+# {{label|en|submarine navigation}} A pulse of high-pitched or ultrasonic sound whose echoes provide information about nearby objects and vessels.
 #: ''The submarine sent out a '''ping''' and got an echo from a battleship.''
 # {{label|en|networking}} A packet which a remote [[host]] is expected to echo, thus indicating its presence.
 #: ''The network is overloaded from all the '''pings''' going out.''
@@ -62,7 +61,7 @@
 
 # To make a high-pitched, short and somewhat sharp sound.
 #: ''My car was '''pinging''' until my last oil change.''
-# {{qualifier|submarine navigation}} To emit a signal and then listen for its echo in order to detect objects.
+# {{label|en|submarine navigation}} To emit a signal and then listen for its echo in order to detect objects.
 # {{label|en|networking}} To send a packet in order to determine whether a [[host]] is present, particularly by use of the ping utility.
 #: ''I'm '''pinging''' their server.''
 #: ''The server '''pings''' its affiliates periodically.''
