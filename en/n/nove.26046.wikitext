@@ -31,7 +31,7 @@
 {{cardinalbox|gl|8|9|10|oito|dez|ord=noveno|wplink=Nove}}
 
 ===Etymology===
-From {{etyl|la|gl}} {{m|la|novem}}.
+From {{inh|gl|roa-opt|nove}}, from {{inh|gl|la|novem}}, from {{inh|gl|ine-pro|*h₁néwn̥}}.
 
 ===Pronunciation===
 * {{IPA|[ˈnɔbe]|lang=gl}}
@@ -64,28 +64,34 @@ From {{inh|it|la|novem}}, ultimately from {{inh|it|ine-pro|*h₁néwn̥}}.
 
 ===Numeral===
 {{head|it|numeral}}
-# {{label|it|cardinal}} [[nine]]
+
+# {{lb|it|cardinal}} [[nine]]
 
 ===Adjective===
 {{head|it|adjective|g=m|g2=f|invariable}}
+
 # [[nine]]
 
 ===Noun===
 {{head|it|noun|g=m|invariable}}
+
 # [[nine]]
 
 {{head|it|noun|g=f-p}}
+
 # {{label|it|following the article|_|[[le#Italian|le]]}} [[nine o'clock]] (a.m. or p.m.)
 #: {{ux|it|Sono '''le nove'''.|It's '''nine o'clock'''.}}
 
 ===Related terms===
-* [[novanta]]
-* [[novecentesco]]
-* [[novecento]], [[Novecento]]
-* [[novembre]]
-* [[novemila]]
-* [[novennale]]
-* [[a nove zeri]]
+{{rel3
+|[[novanta]]
+|[[novecentesco]]
+|[[novecento]], [[Novecento]]
+|[[novembre]]
+|[[novemila]]
+|[[novennale]]
+|[[a nove zeri]]
+|lang=it}}
 
 ===See also===
 * [[Appendix:Italian numbers]]
@@ -95,19 +101,16 @@ From {{inh|it|la|novem}}, ultimately from {{inh|it|ine-pro|*h₁néwn̥}}.
 ==Latin==
 
 ===Etymology===
-From ''[[novus]]'' + ''[[-e]]''.
+From {{m|la|novus}} + {{m|la|-e}}.
 
 ===Adverb===
-{{head|la|adverbs}}
+{{head|la|adverb}}
 
 # [[newly]], in a [[new]] or [[unusual]] manner
 # [[fashionably]]
-#: ''Ornata ut lepide! Ut concinne! Ut '''nove'''!''
-#:: But decked out, sparkling with gold, and adorned so splendidly! How nicely! How '''fashionably'''!
+#: {{ux|la|Ornata ut lepide! Ut concinne! Ut '''nove'''!|But decked out, sparkling with gold, and adorned so splendidly! How nicely! How '''fashionably'''!}}
 # [[recently]], [[short]] time ago
 # [[finally]], [[lastly]], at last
-
-[[Category:Latin adverbs]]
 
 ----
 
@@ -115,7 +118,7 @@ From ''[[novus]]'' + ''[[-e]]''.
 {{cardinalbox|pt|8|9|10|oito|dez|ord=nono|mult=nônuplo|wplink=Nove}}
 
 ===Etymology===
-From {{etyl|roa-opt|pt}} {{m|roa-opt|nove}}, from {{etyl|la|pt}} {{m|la|novem||nine}}, from {{etyl|ine-pro|pt}} {{m|ine-pro|*h₁néwn̥}}.
+From {{inh|pt|roa-opt|nove}}, from {{inh|pt|la|novem||nine}}, from {{inh|pt|ine-pro|*h₁néwn̥}}.
 
 ===Pronunciation===
 * {{a|Brazil}} {{IPA|[ˈnɔ.vi]|lang=pt}}
@@ -158,9 +161,7 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|nove}}, from {{etyl|la|pt}} {{m|la|novem||n
 ===Adjective===
 {{head|vec|adjective form}}
 
-# {{feminine plural of|novo|lang=vec}}
-
-[[Category:Venetian adjective forms]]
+# {{inflection of|novo||f|p|lang=vec}}
 
 [[roa-rup:nove]]
 [[ast:nove]]
