@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-{{borrowing|fr|quatre|lang=en}}.
+{{bor|en|fr|quatre}}.
 
 ===Noun===
 {{en-noun}}
@@ -14,13 +14,13 @@
 
 ==Catalan==
 
+===Etymology===
+From {{der|ca|pro}}, from {{inh|ca|la|quattuor||four}}.
+
 ===Pronunciation===
 * {{a|Standard}} {{IPA|/ˈkwatɾə/|lang=ca}}
 * {{a|Valencian}} {{IPA|/ˈkwatɾe/|lang=ca}}
 * {{rhymes|atɾe|lang=ca}}
-
-===Etymology===
-From {{etyl|pro|ca}}, from {{etyl|la|ca}} {{m|la|quattuor||four}}.
 
 ===Numeral===
 {{cardinalbox|ca|3|4|5|tres|cinc|ord=quart|mult=quàdruple|wplink=Quatre}}
@@ -29,8 +29,8 @@ From {{etyl|pro|ca}}, from {{etyl|la|ca}} {{m|la|quattuor||four}}.
 # {{label|ca|cardinal}} [[four]]
 
 ====Derived terms====
-* ser quatre gats = very few people
-* dir quatre coses = tell off
+* {{l|ca|ser quatre gats||very few people}}
+* {{l|ca|dir quatre coses||to tell off}}
 
 ===Noun===
 {{ca-noun|m}}
@@ -42,7 +42,7 @@ From {{etyl|pro|ca}}, from {{etyl|la|ca}} {{m|la|quattuor||four}}.
 ==French==
 
 ===Etymology===
-From {{etyl|fro|fr}} {{m|fro|quatre}}, {{m|fro|qatre}}, {{m|fro|catre}}, from {{etyl|la|fr}} {{m|la|quattuor}}.
+From {{inh|fr|fro|quatre}}, {{m|fro|qatre}}, {{m|fro|catre}}, from {{inh|fr|la|quattuor}}.
 
 ===Pronunciation===
 * {{qualifier|alone or preceding a vowel}} {{IPA|/katʁ/|lang=fr}}
@@ -56,7 +56,7 @@ From {{etyl|fro|fr}} {{m|fro|quatre}}, {{m|fro|qatre}}, {{m|fro|catre}}, from {{
 # [[four]]
 
 ====Derived terms====
-* [[quatrième]]
+* {{l|fr|quatrième}}
 
 ====Descendants====
 {{etymtree|fr|ine-pro|*kʷetwóres}}
@@ -111,7 +111,7 @@ From {{inh|nrf|fro|quatre}}, from {{inh|nrf|la|quattuor}}, from {{inh|nrf|ine-pr
 ==Occitan==
 
 ===Etymology===
-From {{etyl|pro|oc}}, from {{etyl|la|oc}} {{m|la|quattuor}}.
+From {{inh|oc|pro}}, from {{inh|oc|la|quattuor}}.
 
 ===Pronunciation===
 * {{IPA|/ˈkatre/|lang=oc}}
@@ -122,9 +122,9 @@ From {{etyl|pro|oc}}, from {{etyl|la|oc}} {{m|la|quattuor}}.
 # [[four]]
 
 ====Related terms====
-* [[quaranta]]
-* [[quart]]
-* [[quatren]]
+* {{l|oc|quaranta}}
+* {{l|oc|quart}}
+* {{l|oc|quatren}}
 
 ----
 
@@ -135,7 +135,7 @@ From {{etyl|pro|oc}}, from {{etyl|la|oc}} {{m|la|quattuor}}.
 * {{l|fro|qatre}}
 
 ===Etymology===
-From {{etyl|la|fro}} {{m|la|quattuor}}.
+From {{inh|fro|la|quattuor}}.
 
 ===Numeral===
 {{head|fro|numeral}}
