@@ -96,21 +96,25 @@ From {{etyl|frm|en}} {{m|frm|nul}}, from {{etyl|la|en}} {{m|la|nullus}}.
 
 ----
 
-==Norwegian==
+==Norwegian Bokmål==
+
+===Etymology===
+From {{etyl|la|nb}} {{m|la|nullus}}
 
 ===Numeral===
-{{head|no|numeral}}
+{{head|nb|numeral}}
 
-# {{label|no|cardinal}} [[zero]]
+# {{label|nb|cardinal}} [[zero]], {{l|en|nought}}, {{l|en|nil}}
 
 ===Noun===
-{{head|no|noun}}
+{{nb-noun-m1}} {{clear}}
+{{nb-noun-n3}}
 
-# [[zero]] {{gloss|numeric symbol of zero}}
-# [[zero]] {{gloss|derogatory about a person}}
+# [[zero]] {{gloss|numeric symbol of zero}}, {{l|en|nought}}, {{l|en|nil}}
+# a {{l|en|nobody}} or {{l|en|nonentity}} {{qual|derogatory about a person}}
 
-====Inflection====
-{{no-noun-infl|nb-class=m1|nb-class2=n3|nn-class=m1|nn-class2=n1}}
+===References===
+* {{R:The Bokmål Dictionary}}
 
 [[ast:null]]
 [[ca:null]]
