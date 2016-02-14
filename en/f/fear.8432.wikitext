@@ -474,12 +474,12 @@ From {{etyl|enm|en}} {{m|enm|fere}}, {{m|enm|feore}}, from {{etyl|ang|en}} {{m|a
 
 ==Irish==
 
-===Pronunciation===
-* {{IPA|lang=ga|[fʲaɾˠ]}}
-* {{a|Connemara}} {{IPA|[fʲæːɾˠ]|lang=ga}}
-
 ===Etymology===
-From {{etyl|sga|ga}} {{m|sga|fer}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*wiros}}, from {{etyl|ine-pro|ga}} {{m|ine-pro|*wiHrós}}. Cognate with Welsh {{m|cy|gŵr}}, Latin {{m|la|vir}}, Old English {{m|ang|wer}}.
+From {{inh|ga|sga|fer}}, from {{inh|ga|cel-pro|*wiros}}, from {{inh|ga|ine-pro|*wiHrós}}. Cognate with {{cog|cy|gŵr}}, {{cog|la|vir}}, and {{cog|ang|wer}}.
+
+===Pronunciation===
+* {{IPA|lang=ga|/fʲaɾˠ/}}
+* {{a|Connemara}} {{IPA|/fʲæːɾˠ/|lang=ga}}
 
 ===Noun===
 {{ga-noun|fir|fir|g=m}}
@@ -492,11 +492,9 @@ From {{etyl|sga|ga}} {{m|sga|fer}}, from {{etyl|cel-pro|ga}} {{m|cel-pro|*wiros}
 {{ga-decl-m1|f|ear|ir}}
 
 ===Mutation===
-{{ga mut cons|f|ear}}
+{{ga-mut-cons|f|ear}}
 
-[[Category:ga:Family]]
-[[Category:ga:Human]]
-[[Category:ga:Male]]
+{{topics|ga|Family|Human|Male}}
 
 ----
 
