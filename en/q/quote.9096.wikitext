@@ -5,10 +5,9 @@
 Recorded since 1387 “to mark (a book) with chapter numbers or marginal references”, from {{etyl|fro|en}} {{m|fro|coter}}, from {{etyl|ML.|en}} {{m|la|quotare||to distinguish by numbers, number chapters}}, itself from {{etyl|la|en}} {{m|la|quotus||which, what number (in sequence)}}, from {{m|la|quot||how many}} and related to {{m|la|quis||who}}. The sense developed via “to give as a reference, to cite as an authority” to “to copy out exact words” (since 1680); the business sense “to state the price of a commodity” (1866) revives the etymological meaning. The noun, in the sense of “quotation,” is attested from 1885; see also [[#Usage notes|usage note]], below.
 
 ===Pronunciation===
-{{wikipedia}}
 * {{IPA|/kwəʊt/|lang=en}}
+* {{hyphenation|quote|lang=en}}
 * {{audio|en-us-quote.ogg|Audio (US)|lang=en}}
-
 * {{rhymes|əʊt|lang=en}}
 
 ===Noun===
@@ -24,6 +23,7 @@ Recorded since 1387 “to mark (a book) with chapter numbers or marginal referen
 Until the late 19th century, ''quote'' was exclusively used as a verb. Since then, it has been used as a shortened form of either [[quotation]] or [[quotation mark]]; see [[#Etymology|etymology]], above. This use as a noun is well-understood and widely used, although it is often rejected in formal and academic contexts.<ref>Rosenheim, Edward W.; Ann Batko. (2004) ''When Bad Grammar Happens to Good People: How to Avoid Common Errors in English''. Career Press, Franklin Lakes, NJ. p. 207 ISBN 1-56414-722-3</ref>
 
 ====Derived terms====
+* {{l|en|double-quote}}
 * {{l|en|pull-quote}}
 
 ====Translations====
@@ -79,7 +79,7 @@ Until the late 19th century, ''quote'' was exclusively used as a verb. Since the
 * Russian: {{t+|ru|кавы́чка|f}}, {{t+|ru|кавы́чки|f-p}}, {{qualifier|usual Russian quotes:}} {{t|ru|«}}, {{t|ru|»}}
 * Spanish: {{t+|es|comillas|f-p}}
 * Swedish: {{t+|sv|citationstecken|n}}
-* Turkish: {{t|tr|tırnak işareti}}
+* Turkish: {{t|tr|tırnak}}, {{t|tr|tırnak işareti}}
 {{trans-bottom}}
 
 {{trans-top|a summary of work to be done with a set price}}
@@ -104,6 +104,9 @@ Until the late 19th century, ''quote'' was exclusively used as a verb. Since the
 * Spanish: {{t+|es|cotización|f}}
 {{trans-bottom}}
 
+====References====
+* {{pedia}}
+
 ===Verb===
 {{en-verb|quotes|quoting|quoted}}
 
@@ -124,16 +127,15 @@ Until the late 19th century, ''quote'' was exclusively used as a verb. Since the
 * {{l|en|unquote}}
 
 ====Derived terms====
-{{der-top|Derived terms of ''quote'' (verb)}}
-* {{l|en|misquote}}
-* {{l|en|quota}}
-* {{l|en|quotable}}
-* {{l|en|quotation}}
-{{der-mid}}
-* {{l|en|quotidian}}
-* {{l|en|quotient}}
-* {{l|en|unquote}}
-{{der-bottom}}
+{{der4
+| {{l|en|misquote}}
+| {{l|en|quota}}
+| {{l|en|quotable}}
+| {{l|en|quotation}}
+| {{l|en|quotidian}}
+| {{l|en|quotient}}
+| {{l|en|unquote}}
+}}
 
 ====Related terms====
 * {{l|en|quote unquote}}
@@ -167,7 +169,7 @@ Until the late 19th century, ''quote'' was exclusively used as a verb. Since the
 * Serbo-Croatian: {{t+|sh|navod}}, {{t+|sh|citat}}
 * Spanish: {{t+|es|citar}}
 * Swedish: {{t+|sv|citera}}
-* Turkish: {{t|tr|alıntı yapmak}}, {{t+|tr|alıntılamak}}, {{t+|tr|iktibas etmek}} {{qualifier|obsolecent}}
+* Turkish: {{t|tr|alıntı yapmak}}, {{t+|tr|alıntılamak}}, {{t+|tr|iktibas etmek}} {{qualifier|obsolescent}}
 {{trans-bottom}}
 
 {{trans-top|to prepare a summary of work to be done and set a price}}
@@ -195,13 +197,13 @@ Until the late 19th century, ''quote'' was exclusively used as a verb. Since the
 {{trans-mid}}
 * Portuguese: {{t+|pt|cotar}}
 * Russian: {{t|ru|назнача́ть це́ну}}, {{t|ru|дава́ть расце́нку}}
-* Turkish: {{t|tr|fiyatı söylemek}}
+* Turkish: {{t|tr|fiyat söylemek}}
 {{trans-bottom}}
 
 {{trans-top|to indicate the start of a quotation}}
 * French: [[ouvrir]] [[les]] [[guillemet]]s
-{{trans-mid}}
 * German: {{t+|de|anführen}}
+{{trans-mid}}
 * Turkish: {{t|tr|tırnak içine almak}}
 {{trans-bottom}}
 
@@ -209,7 +211,7 @@ Until the late 19th century, ''quote'' was exclusively used as a verb. Since the
 * German: {{t+|de|bemerken}}, {{t+|de|berücksichtigen}}
 * Greek: {{t+|el|μνημονεύω}}, {{t+|el|επικαλούμαι}}
 {{trans-mid}}
-* Turkish: {{t+|tr|belirtmek}}
+* Turkish: {{t+|tr|belirtmek}}; {{t+|tr|akılta tutmak}}, {{t+|tr|dikkate almak}}, {{t+|tr|göz önünde bulundurmak}}, {{t+|tr|göz önüne almak}}, {{t+|tr|hesaba katmak}}
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -221,11 +223,11 @@ Until the late 19th century, ''quote'' was exclusively used as a verb. Since the
 * {{l|en|invoice}}
 * {{l|en|MSRP}}
 
-===Anagrams===
-* {{l|en|toque}}
-
 ===References===
 <references/>
+
+===Anagrams===
+* {{l|en|toque}}
 
 [[Category:en:Dictation]]
 
