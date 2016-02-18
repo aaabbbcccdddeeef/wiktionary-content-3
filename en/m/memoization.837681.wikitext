@@ -7,7 +7,6 @@
 From {{suffix|memoize|ation|lang=en}}, or {{suffix|memo|ization|lang=en}}.
 
 ===Noun===
-{{wikipedia}}
 {{en-noun|-}}
 
 # {{label|en|computer science}} A technique in which [[partial]] results are recorded (forming a [[memo]]) and then can be re-used later without having to [[recompute]] them.
@@ -21,5 +20,8 @@ From {{suffix|memoize|ation|lang=en}}, or {{suffix|memo|ization|lang=en}}.
 * Japanese: {{t|ja|メモ化|tr=memoka|sc=Jpan}}
 * Russian: {{t|ru|мемоизация|f}}
 {{trans-bottom}}
+
+===References===
+* {{pedia}}
 
 [[io:memoization]]
