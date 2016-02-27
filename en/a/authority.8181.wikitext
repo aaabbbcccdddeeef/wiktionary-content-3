@@ -66,7 +66,7 @@
 * Georgian: {{t|ka|უფლებამოსილება}}, {{t|ka|ხელისუფლება}}, {{t|ka|ძალაუფლება}}, {{t|ka|რწმუნებულება}}
 * German: {{t+|de|Autorität|f}}
 * Greek: {{t+|el|εξουσία|f}}, {{t+|el|αρχή|f}}
-* Hebrew: {{t|he|סמכות|f|tr=samkhut|sc=Hebr}}
+* Hebrew: {{t|he|סמכות|f|tr=samkhut}}
 * Hungarian: {{t+|hu|felhatalmazás}}, {{t+|hu|meghatalmazás}}
 * Indonesian: {{t+|id|otoritas}}
 * Irish: {{t|ga|údarás|m}}, {{t|ga|urlámhas|m}}
@@ -94,7 +94,7 @@
 * Swedish: {{t+|sv|auktoritet|c}}
 * Telugu: {{t+|te|అధికారము}}
 * Turkish: {{t+|tr|otorite}}, {{t+|tr|yetki}}
-* Ukrainian: {{t+|uk|вла́да|f|sc=Cyrl}}
+* Ukrainian: {{t+|uk|вла́да|f}}
 {{trans-bottom}}
 
 {{trans-top|persons in command; specifically, government}}
@@ -103,7 +103,7 @@
 * Chinese:
 *: Mandarin: {{t|cmn|當局|sc=Hani}}, {{t+|cmn|当局|tr=dāngjú|sc=Hani}}
 * Czech: {{t+|cs|autorita|f}}
-* Dutch: {{t+|nl|autoriteit|f}}, {{qualifier|usually plural}} {{t+|nl|autoriteiten|f-p}}, {{t+|nl|gezag|n}}
+* Dutch: {{t+|nl|autoriteit|f}}, {{t+|nl|autoriteiten|f-p}} {{qualifier|usually plural}}, {{t+|nl|gezag|n}}
 * Esperanto: {{t|eo|instanco}}
 * Estonian: {{t|et|võim}}
 * Finnish: {{t+|fi|viranomaiset}}
@@ -128,7 +128,7 @@
 * Swahili: {{t+|sw|mamlaka}}
 * Swedish: {{t+|sv|myndighet|c}}
 * Turkish: {{t|tr|salahiyetliler|p}} {{qualifier|obsolescent}}, {{t+|tr|yetkililer|p}}
-* Ukrainian: {{t+|uk|вла́да|f|sc=Cyrl}}
+* Ukrainian: {{t+|uk|вла́да|f}}
 {{trans-bottom}}
 
 {{trans-top|person accepted as a source of reliable information on a subject}}
@@ -144,7 +144,7 @@
 * French: {{t+|fr|autorité|f}}
 * German: {{t+|de|Autorität|f}}
 * Greek: {{t+|el|αυθεντία|f}}
-* Hebrew: {{t|he|בר-סמכא|m|tr=bar-samkha|sc=Hebr}}
+* Hebrew: {{t|he|בר-סמכא|m|tr=bar-samkha}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|tekintély}}, {{t|hu|szaktekintély}}
 * Italian: {{t+|it|autorità|f}}
@@ -163,8 +163,9 @@
 
 {{checktrans-top}}
 * Breton: {{t-check|br|aotrouniezh|f}}, {{t-check|br|beli|f}}
-{{checktrans-mid}}
 * Georgian: {{t-check|ka|უფლებამოსილება}}
+{{checktrans-mid}}
+* Irish: {{t-check|ga|barántas|m}}
 {{checktrans-bottom}}
 
 ===Statistics===
