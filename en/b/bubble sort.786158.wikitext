@@ -1,14 +1,16 @@
 ==English==
 
 ===Noun===
-{{en-noun|head=[[bubble]] [[sort]]}}
+{{wikipedia}}
+{{en-noun}}
 
-# {{label|en|computing}} A [[sort]]ing [[algorithm]] in which neighboring two values are compared and swapped into right order if necessary in the most inner loop.
+# {{label|en|computing}} A [[sort]]ing [[algorithm]] in which neighboring two values are compared and swapped into the right order if necessary in the most inner loop.
 
 ====Translations====
 {{trans-top|sorting algorithm}}
-* Japanese: {{t|ja|バブルソート|tr=baburu sōto}}
+* French: {{t|fr|tri à bulles|m}}
 {{trans-mid}}
+* Japanese: {{t|ja|バブルソート|tr=baburu sōto}}
 {{trans-bottom}}
 
 [[ta:bubble sort]]
