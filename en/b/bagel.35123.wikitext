@@ -38,7 +38,7 @@ From {{etyl|yi|en}} {{m|yi|בייגל|tr=beygl}}, ultimately from {{etyl|goh|en}
 * Dutch: [[ongezuurde broodje]] {{g|n}}<!-- wikify if idiomatic -->, [[#Dutch|bagel]]
 * Esperanto: {{t|eo|kringo}}
 * Finnish: {{t|fi|vesirinkeli}}
-* French: {{t+|fr|bagel}}
+* French: {{t+|fr|bagel|m}}
 * Georgian: {{t|ka|ბლითი|sc=Geor}}
 * German: {{t+|de|Bagel|m}}
 * Hebrew: {{t|he|בייגל|m|tr=béigel|sc=Hebr}}
@@ -53,7 +53,7 @@ From {{etyl|yi|en}} {{m|yi|בייגל|tr=beygl}}, ultimately from {{etyl|goh|en}
 * Portuguese: {{t|pt|bagel|m}}
 * Romanian: {{t+|ro|covrig}}
 * Russian: {{t+|ru|бу́блик|m}}, {{t+|ru|бара́нка|f}}, {{t+|ru|су́шка|f}}, {{qualifier|foreign style}} {{t+|ru|бейгл|m|tr=bɛjgl}}, {{t+|ru|рога́лик|m|sc=Cyrl}} {{qualifier|semi-circle}}
-* Spanish: {{t|es|panecillo|m}}, {{t|es|bagel}}
+* Spanish: {{t|es|panecillo|m}}, {{t|es|bagel|m}}
 * Swedish: {{t|sv|bagel|c}}, {{t|sv|beigel|c}}
 * Urdu: {{t|ur|بیگل روٹی|f|tr=baigal roṭī|sc=ur-Arab}}
 * Yiddish: {{t|yi|בײגל|m|tr=beygl|sc=Hebr}}
@@ -86,17 +86,49 @@ From {{etyl|yi|en}} {{m|yi|בייגל|tr=beygl}}, ultimately from {{etyl|goh|en}
 [[Category:en:Breads]]
 
 ----
+==French==
+===Alternative forms===
+* {{l|fr|baguel}}
+===Etymology===
+{{PIE root|fr|bʰewgʰ}}
+From {{etyl|en|fr}} {{m|en|bagel}}, from {{etyl|yi|fr}} {{m|yi|בייגל}}.
+
+===Noun===
+{{fr-noun|m}}
+
+# {{l|en|bagel}} {{gloss|toroidal bread roll}}
+
+{{C|fr|Breads}}
+----
 
 ==Portuguese==
 
 ===Etymology===
 {{PIE root|pt|bʰewgʰ}}
-{{rfe|lang=pt}}
+From {{etyl|en|pt}} {{m|en|bagel}}, from {{etyl|yi|pt}} {{m|yi|בייגל}}.
 
 ===Noun===
 {{pt-noun|m|s}}
 
 # {{l|en|bagel}} {{gloss|toroidal bread roll}}
+
+{{C|pt|Breads}}
+
+----
+
+==Spanish==
+===Alternative forms===
+* {{l|es|baguel}}
+===Etymology===
+{{PIE root|es|bʰewgʰ}}
+From {{etyl|en|es}} {{m|en|bagel}}, from {{etyl|yi|es}} {{m|yi|בייגל}}.
+
+===Noun===
+{{es-noun|m}}
+
+# {{l|en|bagel}} {{gloss|toroidal bread roll}}
+
+{{C|es|Breads}}
 
 [[bg:bagel]]
 [[de:bagel]]
