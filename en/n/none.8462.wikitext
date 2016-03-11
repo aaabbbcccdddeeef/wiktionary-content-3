@@ -184,7 +184,7 @@ However, where the given or implied context is clearly singular or plural, then 
 ===Noun===
 {{nl-noun|m|-en|noontje}}
 
-# {{label|nl|music}} An [[interval]] of 13 {{qualifier|kleine none}} of 14 {{qualifier|grote none}} [[halftone]]s.
+# {{lb|nl|music}} An [[interval]] of 13 {{qualifier|kleine none}} of 14 {{qualifier|grote none}} [[halftone]]s.
 
 ===Anagrams===
 * [[neon#Dutch|neon]]
@@ -225,14 +225,14 @@ Feminine of {{m|fur|nono}}. Compare Italian {{m|it|nonna}}, Venetian {{m|vec|non
 ==Italian==
 
 ===Adjective===
-{{head|it|adjective form}}
+{{head|it|adjective form|g=f-p}}
 
-# {{feminine plural of|nono|lang=it}}
+# {{inflection of|nono||f|p|lang=it}}
 
 ===Noun===
-{{head|it|noun plural form|g=f}}
+{{head|it|noun plural form|g=f-p}}
 
-# {{plural of|nona|lang=it}}
+# {{inflection of|nona||p|lang=it}}
 
 ===Anagrams===
 * [[neon#Italian|neon]]
@@ -260,12 +260,12 @@ Feminine of {{m|fur|nono}}. Compare Italian {{m|it|nonna}}, Venetian {{m|vec|non
 ==Norwegian==
 
 ===Etymology===
-From {{etyl|la|no}} {{m|la|la|nonus}}.
+From {{der|no|la|nonus}}.
 
 ===Noun===
 {{head|no|noun|g=m}}
 
-# {{label|no|music}} An [[interval]] of 13 (''liten none'') or 14 (''stor none'') [[halftone]]s.
+# {{lb|no|music}} An [[interval]] of 13 (''liten none'') or 14 (''stor none'') [[halftone]]s.
 
 ====Inflection====
 {{no-noun-infl|nb-class=m1|nn-class=m1|stem=non}}
@@ -277,7 +277,7 @@ From {{etyl|la|no}} {{m|la|la|nonus}}.
 ===Noun===
 {{head|fro|noun form|g=f}}
 
-# {{nominative singular of|nonain|lang=fro}}
+# {{inflection of|nonain||nom|s|lang=fro}}
 
 ----
 
@@ -294,7 +294,7 @@ From {{etyl|la|no}} {{m|la|la|nonus}}.
 # [[no]]
 
 ===See also===
-* [[sìne]]
+* {{l|roa-tar|sìne}}
 
 [[Category:Tarantino ordinal numbers]]
 
@@ -305,7 +305,7 @@ From {{etyl|la|no}} {{m|la|la|nonus}}.
 ===Noun===
 {{head|vec|noun plural form}}
 
-# {{plural of|nona|lang=vec}}
+# {{inflection of|nona||p|lang=vec}}
 
 [[ast:none]]
 [[ca:none]]
