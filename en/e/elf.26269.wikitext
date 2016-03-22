@@ -6,7 +6,7 @@
 * {{l|en|elve}} (obsolete)
 
 ===Etymology===
-From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|ælf||incubus, elf}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*albiz}}.
+From {{inh|en|enm}}, from {{inh|en|ang|ælf||incubus, elf}}, from {{inh|en|gem-pro|*albiz}}.
 
 ===Pronunciation===
 * {{enPR|ĕlf}}, {{IPA|/ɛlf/|lang=en}}
@@ -17,17 +17,37 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|ælf||incubus, elf}}, from {{
 {{en-noun|elves}}
 {{wikipedia}}
 
-# {{label|en|Norse mythology}} A luminous [[spirit]] presiding over nature and fertility and dwelling in the world of [[Álfheim]] ([[Elfland]]). Compare [[angel]], [[nymph]], [[fairy]].
+# {{lb|en|Norse mythology}} A luminous [[spirit]] presiding over nature and fertility and dwelling in the world of [[Álfheim]] ([[Elfland]]). Compare [[angel]], [[nymph]], [[fairy]].
 #* Shakespeare
 #*: Every '''elf''', and fairy sprite, / Hop as light as bird from brier.
 # Any from a [[race]] of [[mythical]], [[supernatural]] [[being]]s resembling but seen as distinct from [[human being]]s. Usually skilled in [[magic]] or [[spellcraft]]ing; sometimes depicted as [[clashing]] with [[dwarves]], especially in modern fantasy literature.
-# {{label|en|fantasy}} Any of the magical, typically forest-guarding races bearing some similarities to the Norse [[álfar]] (through Tolkien's Eldar)
+# {{lb|en|fantasy}} Any of the magical, typically forest-guarding races bearing some similarities to the Norse [[álfar]] (through Tolkien's Eldar)
 # A very diminutive person; a dwarf. <!--Webster 1913-->
+
+====Hyponyms====
+* [[elfe]]
+* [[elven]]
+* [[wood elf]], [[wood-elf]]
+
+====Derived terms====
+{{der3
+|[[elfin]]
+|[[elfinwood]]
+|[[elfish]]
+|[[Elfland]]
+|[[elflike]]
+|[[elflock]]
+|[[elven]]
+|[[elvish]]
+|[[dark elves]]
+|[[light elves]]
+|[[wood elf]], [[wood-elf]]
+}}
 
 =====Translations=====
 {{trans-top|a magical being}}
 * Arabic: {{t+|ar|آلْف|m}}
-* Bulgarian: {{t+|bg|елф|m|tr=elf|sc=Cyrl}}
+* Bulgarian: {{t+|bg|елф|m}}
 * Catalan: {{t|ca|elf|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|精靈|sc=Hani}}, {{t|cmn|精灵|tr=jīnglíng|sc=Hani}}
@@ -43,7 +63,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|ælf||incubus, elf}}, from {{
 *: Middle High German: {{t|gmh|elbe}}, {{t|gmh|alb}}, {{t|gmh|alp}}
 * Greek: {{t+|el|ξωτικό|n}}
 * Hebrew: {{t+|he|אלף|m|tr=elff|sc=Hebr}}
-* Hindi: {{t|hi|देव|m|tr=dev|sc=Deva}}, {{t|hi|अप्सरा|sc=Deva}}
+* Hindi: {{t|hi|देव|m}}, {{t|hi|अप्सरा}}
 * Hungarian: {{t+|hu|manó}}, {{t+|hu|elf}}, {{t+|hu|tündér}}, {{t+|hu|tünde}}
 * Icelandic: {{t+|is|álfur|m}}
 * Irish: {{t+|ga|lucharachán}}, {{t|ga|ealbh|m}}
@@ -54,9 +74,9 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|ælf||incubus, elf}}, from {{
 * Latin: {{t-needed|la}}
 * Latvian: {{t+|lv|elfs|m}}, {{t|lv|elfa|f}}
 * Lithuanian: {{t|lt|elfas|m}}, {{t|lt|elfė|f}}
-* Macedonian: {{t|mk|виленик|m|tr=vílenik|sc=Cyrl}}, {{t|mk|џуџе|n|tr=džúdže|sc=Cyrl}}, {{t|mk|елф|m|tr=elf|sc=Cyrl}}
+* Macedonian: {{t|mk|ви́леник|m}}, {{t|mk|џу́џе|n}}, {{t|mk|елф|m}}
 * Maltese: {{t|mt|nanu}}, {{t|mt|elf}}
-* Marathi: {{t|mr|एल्फ|m|tr=elfa|sc=Deva}}
+* Marathi: {{t|mr|एल्फ|m|tr=elfa}}
 * Norwegian: {{t+|no|alv|m}}
 * Old English: {{t|ang|ælf}}
 * Old High German: {{t|goh|alp}}
@@ -68,38 +88,17 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|ælf||incubus, elf}}, from {{
 * Romanian: {{t+|ro|elf}}
 * Russian: {{t+|ru|эльф|m}}, {{t|ru|альв|m}}
 * Scots: {{t|sco|eemock}}
-* Scottish Gaelic: {{t|gd|sìthiche}}, {{t|gd|luspardan}}, {{t|gd|tàcharan}}
+* Scottish Gaelic: {{t|gd|sìthiche|m}}, {{t|gd|luspardan|m}}, {{t|gd|tàcharan|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|патуљак|sc=Cyrl}}, {{t|sh|вилељак|sc=Cyrl}}
 *: Roman: {{t+|sh|patuljak}}, {{t+|sh|vilenjak}}
 * Slovak: {{t|sk|škriatok|m}}
 * Spanish: {{t|es|elfo|m}}, {{t|es|duende|m}}
 * Swahili: {{t|sw|kibwengo}}
-* Swedish: {{t+|sv|alv|m}}, {{t+|sv|älva|f}}, (''concerning Old Norse belief, sometimes'') {{t+|sv|alf}}
+* Swedish: {{t+|sv|alv|m}}, {{t+|sv|älva|f}}, {{t+|sv|alf}} {{qualifier|concerning Old Norse belief, sometimes}}
 * Turkish: {{t+|tr|elf}}
-* Ukrainian: {{t|uk|ельф|m|tr=elʹf|sc=Cyrl}}, {{t|uk|альв|m|tr=alʹv|sc=Cyrl}}
+* Ukrainian: {{t|uk|ельф|m}}, {{t|uk|альв|m}}
 {{trans-bottom}}
-
-====Hyponyms====
-* [[elfe]]
-* [[elven]]
-* [[wood elf]], [[wood-elf]]
-
-====Derived terms====
-{{top2}}
-* [[elfin]]
-* [[elfinwood]]
-* [[elfish]]
-* [[Elfland]]
-* [[elflike]]
-* [[elflock]]
-{{mid2}}
-* [[elven]]
-* [[elvish]]
-* [[dark elves]]
-* [[light elves]]
-* [[wood elf]], [[wood-elf]]
-{{bottom}}
 
 ===See also===
 * [[dark elf]]
@@ -125,12 +124,12 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|ælf||incubus, elf}}, from {{
 {{cardinalbox|af|10|11|12|tien|twaalf|ord=elfde}}
 
 ===Etymology===
-From {{etyl|nl|af}} {{m|nl|elf}}, from {{etyl|dum|af}} {{m|dum|ellef}}, {{m|dum|elf}}, from {{etyl|odt|af}} {{m|odt|*ellef}}, from {{etyl|gem-pro|af}} {{m|gem-pro|*ainalif}}.
+From {{inh|af|nl|elf}}, from {{inh|af|dum|ellef}}, {{m|dum|elf}}, from {{inh|af|odt|*ellef}}, from {{inh|af|gem-pro|*ainalif}}.
 
 ===Numeral===
 {{head|af|numeral}}
 
-# {{label|af|cardinal}} [[eleven]]
+# {{lb|af|cardinal}} [[eleven]]
 
 ----
 
@@ -139,7 +138,7 @@ From {{etyl|nl|af}} {{m|nl|elf}}, from {{etyl|dum|af}} {{m|dum|ellef}}, {{m|dum|
 ===Noun===
 {{ca-noun|m}}
 
-# {{l|en|elf}}
+# [[#English|elf]]
 
 ----
 
@@ -165,13 +164,13 @@ From {{etyl|nl|af}} {{m|nl|elf}}, from {{etyl|dum|af}} {{m|dum|ellef}}, {{m|dum|
 * {{audio|Nl-elf.ogg|audio|lang=nl}}
 
 ===Etymology 1===
-From {{inh|nl|dum|ellef}}, {{m|dum|elf}}, from {{inh|nl|odt|*ellef}}, from {{inh|nl|gem-pro|*ainalif}}, a compound of {{m|gem-pro|*ainaz}} and {{m|gem-pro|*lif-}}. Compare German {{m|de|elf}}, West Frisian {{m|fy|alve}}, English {{m|en|eleven}}, Danish {{m|da|elleve}}.
+From {{inh|nl|dum|ellef}}, {{m|dum|elf}}, from {{inh|nl|odt|*ellef}}, from {{inh|nl|gem-pro|*ainalif}}, a compound of {{m|gem-pro|*ainaz}} and {{m|gem-pro|*lif-}}. Compare {{cog|de|elf}}, {{cog|fy|alve}}, {{cog|en|eleven}}, {{cog|da|elleve}}.
 
 ====Numeral====
 {{cardinalbox|nl|10|11|12|tien|twaalf|ord=elfde}}
 {{nl-num}}
 
-# {{label|nl|cardinal}} [[eleven]]
+# {{lb|nl|cardinal}} [[eleven]]
 
 ====Noun====
 {{nl-noun|f|-ven|elfje}}
@@ -200,7 +199,7 @@ From {{inh|nl|dum|ellef}}, {{m|dum|elf}}, from {{inh|nl|odt|*ellef}}, from {{inh
 ==Dutch Low Saxon==
 
 ===Etymology===
-Ultimately cognate to {{etyl|de|-}} ''[[elf]]''.
+Ultimately cognate to {{cog|de|elf}}.
 
 ===Numeral===
 {{head|nds-nl|numeral}}
@@ -216,10 +215,10 @@ Ultimately cognate to {{etyl|de|-}} ''[[elf]]''.
 : ''See also'' [[Elf]]
 
 ===Etymology===
-From {{etyl|goh|de}} {{m|goh|einlif}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*ainalif}}, a compound of {{m|gem-pro|*ainaz}} and {{m|gem-pro|*lif-}}. Compare Dutch {{m|nl|elf}}, West Frisian {{m|fy|alve}}, English {{m|en|eleven}}, Danish {{m|da|elleve}}.
+From {{inh|de|goh|einlif}}, from {{inh|de|gem-pro|*ainalif}}, a compound of {{m|gem-pro|*ainaz}} and {{m|gem-pro|*lif-}}. Compare {{cog|nl|elf}}, {{cog|fy|alve}}, {{cog|en|eleven}}, {{cog|da|elleve}}.
 
 ===Alternative forms===
-* {{l|de|eilf}}, {{l|de|eilff}}, {{l|de|eylff}} ''(dated/obsolete)''
+* {{l|de|eilf}}, {{l|de|eilff}}, {{l|de|eylff}} {{qualifier|dated/obsolete}}
 
 ===Pronunciation===
 * {{IPA|/ʔɛlf/|lang=de}}
@@ -228,7 +227,7 @@ From {{etyl|goh|de}} {{m|goh|einlif}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*ain
 ===Numeral===
 {{head|de|numeral}}
 
-# {{label|de|cardinal}} [[eleven]]
+# {{lb|de|cardinal}} [[eleven]]
 
 ====Coordinate terms====
 {{de-cardinal}}
@@ -241,7 +240,7 @@ From {{etyl|goh|de}} {{m|goh|einlif}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*ain
 ==German Low German==
 
 ===Etymology===
-Ultimately cognate to {{etyl|de|-}} ''[[elf]]''.
+Ultimately cognate to {{cog|de|elf}}.
 
 ===Numeral===
 {{head|nds-de|numeral}}
@@ -255,7 +254,7 @@ Ultimately cognate to {{etyl|de|-}} ''[[elf]]''.
 ==Maltese==
 
 ===Etymology===
-From {{etyl|ar|mt}} {{m|ar|الف|أَلْف}}.
+From {{der|mt|ar|الف|أَلْف}}.
 
 ===Numeral===
 {{head|mt|numeral|g=m|g2=f|pl|elef}}
