@@ -10,7 +10,7 @@
 * {{rhymes|ɒŋ|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|ang|longe}}, {{m|ang|long}}, {{m|ang|lang||long, tall, lasting}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*langaz||long}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*dl̥h₁gʰós||long}}. Cognate with {{etyl|sco|-}} {{m|sco|lang||long}}, {{etyl|frr|-}} {{m|frr|long}}, {{m|frr|lung||long}}, {{etyl|stq|-}} {{m|stq|loang||long}}, {{etyl|fy|-}} {{m|fy|lang||long}}, {{etyl|nl|-}} {{m|nl|lang||long}}, {{etyl|de|-}} {{m|de|lang||long}}, {{etyl|sv|-}} {{m|sv|lång||long}}, {{etyl|is|-}} {{m|is|langur||long}}, {{etyl|gl|-}} {{m|gl|longo||long}}, {{etyl|la|-}} {{m|la|longus||long}}, {{etyl|grc|-}} {{m|grc|δολιχός}}, {{etyl|ru|-}} {{m|ru|до́лгий}}, {{m|ru|дли́нный}}.
+From {{inh|en|enm|long}}, {{m|enm|lang}}, from {{inh|en|ang|longe}}, {{m|ang|long}}, {{m|ang|lang||long, tall, lasting}}, from {{inh|en|gem-pro|*langaz||long}}, from {{inh|en|ine-pro|*dl̥h₁gʰós||long}}. Cognate with {{cog|sco|lang||long}}, {{cog|frr|long}}, {{m|frr|lung||long}}, {{cog|stq|loang||long}}, {{cog|fy|lang||long}}, {{cog|nl|lang||long}}, {{cog|de|lang||long}}, {{cog|sv|lång||long}}, {{cog|is|langur||long}}, {{cog|gl|longo||long}}, {{cog|la|longus||long}}, {{cog|grc|δολιχός}}, {{cog|ru|до́лгий}}, {{m|ru|дли́нный}}.
 
 ====Adjective====
 {{en-adj|er}}
@@ -34,15 +34,15 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 #* {{quote-book|year=1898|author={{w|Winston Churchill (novelist)|Winston Churchill}}
 |title={{w|The Celebrity}}|chapter=2
 |passage=I had occasion […] to make a somewhat '''long''' business trip to Chicago, and on my return […] I found Farrar awaiting me in the railway station. He smiled his wonted fraction by way of greeting, […], and finally leading me to his buggy, turned and drove out of town. I was completely mystified at such an unusual proceeding.}}
-# {{label|en|British|dialect}} Not [[short]]; [[tall]].
+# {{lb|en|British|dialect}} Not [[short]]; [[tall]].
 #* {{RQ:Frgsn Zlnstn|I}}
 #*: The colonel and his sponsor made a queer contrast: Greystone [the sponsor] '''long''' and stringy, with a face that seemed as if a cold wind was eternally playing on it.
-# {{label|en|finance}} Possessing or owning [[stocks]], [[bonds]], commodities or other financial instruments with the aim of benefiting of the expected rise in their value.
+# {{lb|en|finance}} Possessing or owning [[stocks]], [[bonds]], commodities or other financial instruments with the aim of benefiting of the expected rise in their value.
 #: {{ux|en|I'm '''long''' in DuPont;&emsp; I have a '''long''' position in DuPont.}}
-# {{label|en|cricket}} Of a [[fielding]] [[position]], close to the [[boundary]] (or closer to the boundary than the equivalent [[short]] position).
-# {{label|en|tennis|of a ball or a shot}} That [[land]] beyond the [[baseline]] (and therefore is ''out'').
+# {{lb|en|cricket}} Of a [[fielding]] [[position]], close to the [[boundary]] (or closer to the boundary than the equivalent [[short]] position).
+# {{lb|en|tennis|of a ball or a shot}} That [[land]] beyond the [[baseline]] (and therefore is ''out'').
 #: {{ux|en|No! That forehand is '''long'''{{nb...}}.}}
-# {{label|en|obsolete}} Occurring or coming after an extended interval; distant in time; far away.
+# {{lb|en|obsolete}} Occurring or coming after an extended interval; distant in time; far away.
 #* {{w|Edmund Spenser}} (c.1552–1599)
 #*: That we may us reserve both fresh and strong / Against the tournament, which is not '''long'''.
 
@@ -135,7 +135,7 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 * Hausa: {{t|ha|dōgō}}
 * Hawaiian: {{t|haw|loa}}
 * Hebrew: {{t-needed|he}}
-* Hindi: {{t|hi|लम्बा|tr=lambā}}, {{t+|hi|लंबा|tr=lambā|sc=Deva}}
+* Hindi: {{t|hi|लम्बा}}, {{t+|hi|लंबा}}
 * Hungarian: {{t+|hu|hosszú}}
 * Icelandic: {{t+|is|langur}}
 * Ido: {{t+|io|longa}}
@@ -154,7 +154,7 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 * Karachay-Balkar: {{t|krc|узун|tr=uzun|sc=Cyrl}}
 * Karakalpak: {{t|kaa|uzın}}
 * Kazakh: {{t+|kk|ұзын|sc=Cyrl}}
-* Khakas: {{t|kjh|узун|tr=uzun|sc=Cyrl}}
+* Khakas: {{t|kjh|узун}}
 * Khmer: {{t+|km|វែង|tr=vɛɛŋ|sc=Khmr}}
 * Korean: {{t+|ko|길다|sc=Kore}}
 * Koryak: {{t|kpy|нивʼлыӄин|tr=niwləqin|sc=Cyrl}}
@@ -226,8 +226,8 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 * Turkish: {{t+|tr|uzun}}
 * Turkmen: {{t|tk|uzyn}}
 * Tuvan: {{t|tyv|узун|sc=Cyrl}}
-* Ukrainian: {{t|uk|довгий|m|tr=dóvhyj}}
-* Urdu: {{t|ur|لمبا|tr=lambā|sc=ur-Arab}}
+* Ukrainian: {{t|uk|до́вгий|m}}
+* Urdu: {{t|ur|لمبا|tr=lambā}}
 * Uyghur: {{t-needed|ug}}
 * Uzbek: {{t+|uz|uzun}}
 * Venetian: {{t+|vec|longo}}
@@ -236,7 +236,7 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 * Walloon: {{t+|wa|long|m}}, {{t+|wa|longue|f}}
 * Welsh: {{t+|cy|hir}}
 * Yakut: {{t|sah|уһун|sc=Cyrl}}
-* Yiddish: {{t|yi|לאַנג|tr=lang|sc=Hebr}}
+* Yiddish: {{t|yi|לאַנג}}
 * Zulu: {{t-needed|zu}}
 {{trans-bottom}}
 
@@ -245,7 +245,7 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 * Arabic: {{t+|ar|طَوِيل}}
 * Armenian: {{t+|hy|երկար}}
 * Asturian: {{t+|ast|llargu}}
-* Belarusian: {{t|be|до́ўгі|sc=Cyrl}}
+* Belarusian: {{t|be|до́ўгі}}
 * Catalan: {{t+|ca|llong}}
 * Chinese:
 *: Cantonese: {{t|yue|久|tr=gau2|sc=Hant}}, {{t|yue|長|sc=Hant}}, {{t|yue|长|tr=cheung4|sc=Hant}}
@@ -258,9 +258,9 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 * French: {{t+|fr|long}}
 * Georgian: {{t-needed|ka}}
 * German: {{t+|de|lang}}
-* Greek: {{t+|el|πολύς|sc=Grek}}
+* Greek: {{t+|el|πολύς}}
 * Hawaiian: {{t|haw|kō}}
-* Hindi: {{t|hi|लम्बा|tr=lambā}}, {{t+|hi|लंबा|tr=lambā|sc=Deva}}
+* Hindi: {{t|hi|लम्बा}}, {{t+|hi|लंबा}}
 * Hungarian: {{t+|hu|hosszú}}
 * Icelandic: {{t+|is|langur}}
 * Irish: {{t|ga|fada}}
@@ -274,7 +274,6 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 * Latvian: {{t|lv|ilgs}}
 * Lithuanian: {{t+|lt|ilgas}}
 * Malay: {{t|ms|lama}}
-* {{ttbc|Maore Comorian}} {{attention|und|name not recognised by xte: update [[Template:langrev]] and [[Module:languages]] appropriately or report to [[User talk:Kephir/gadgets/xte]]}}: {{t|swb|le|alt=-le}}
 * Mongolian: {{t-needed|mn}}
 * Norwegian: {{t+|no|lang}}
 * Old Church Slavonic: {{t|cu|дльгъ|sc=Cyrs}}
@@ -309,7 +308,7 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 
 {{trans-top|tennis: bounces behind the baseline}}
 * Finnish: {{t+|fi|pitkä}}
-* Greek: {{t+|el|έξω|sc=Grek}}
+* Greek: {{t+|el|έξω}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|hosszú}}
 {{trans-bottom}}
@@ -318,7 +317,7 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 * Albanian: {{t-check|sq|gjatë}}
 * Catalan: {{t+check|ca|llarg}}
 * Esperanto: {{t-check|eo|longa}}
-* Hebrew: {{t+check|he|ארוך|m|tr=arokh|alt=אָרֹךְ|sc=Hebr}}, {{t+check|he|ארוכה|f|tr=aruka|alt=אֲרֻכָּה|sc=Hebr}}
+* Hebrew: {{t+check|he|ארוך|m|tr=arokh|alt=אָרֹךְ}}, {{t+check|he|ארוכה|f|tr=aruka|alt=אֲרֻכָּה}}
 * Hungarian: {{t+check|hu|hosszú}}
 * Icelandic: {{t+check|is|langur}}
 * Ido: {{t+check|io|longa}}
@@ -327,14 +326,14 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 {{checktrans-mid}}
 * Latin: {{t+check|la|longus}}
 * Lithuanian: {{t+check|lt|ilgas}}
-* Mongolian: {{t-check|mn|ᠤᠷᠲᠤ|tr=urtu|sc=Cyrl}}
+* Mongolian: {{t-check|mn|ᠤᠷᠲᠤ|tr=urtu}}
 * Persian: {{t+check|fa|بُلَند|tr=bolænd}}
 * Romanian: {{t+check|ro|lung}}
 * Serbo-Croatian: {{t+check|sh|dug}}
 * Slovak: {{t-check|sk|dlhý}}
 * Slovene: {{t+check|sl|dolg}}
 * Spanish: {{t+check|es|largo}}
-* Telugu: {{t+check|te|పొడవైన|sc=Telu}}
+* Telugu: {{t+check|te|పొడవైన}}
 {{checktrans-bottom}}
 
 ====Adverb====
@@ -369,7 +368,7 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 {{trans-top|over a great distance}}
 * Czech: {{t+|cs|daleko}}
 * Finnish: {{t+|fi|kauas}}
-* Greek: {{t+|el|μακριά|sc=Grek}}
+* Greek: {{t+|el|μακριά}}
 * Icelandic: {{t+|is|langt}}
 * Italian: {{t+|it|distante}}
 * Korean: {{t|ko|길게|tr=gilge}}, {{t+|ko|멀리|tr=meolli}}
@@ -389,7 +388,7 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 * Finnish: {{t+|fi|kauan}}
 * French: {{t+|fr|temps|m}}
 *: ''how long'' &mdash; combien de temps
-* Greek: {{t+|el|ώρα|f|sc=Grek}}
+* Greek: {{t+|el|ώρα|f}}
 * Icelandic: {{t|is|lengi}}
 {{trans-mid}}
 * Italian: {{t+|it|tempo|m}}
@@ -409,7 +408,7 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 * Faroese: {{t|fo|leingi}}
 * Finnish: {{t+|fi|kauan}}
 * French: {{t+|fr|longtemps}}
-* Greek: {{t+|el|πολύ|sc=Grek}}
+* Greek: {{t+|el|πολύ}}
 * Icelandic: {{t|is|lengi}}
 {{trans-mid}}
 * Latin: {{t+|la|diu}}
@@ -436,17 +435,17 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 ====Noun====
 {{en-noun}}
 
-# {{label|en|linguistics}} A long [[vowel]].
-# {{label|en|programming}} A long [[integer]] variable, twice the size of an [[int]], two or four times the size of a [[short]], and half of a [[long long]].
+# {{lb|en|linguistics}} A long [[vowel]].
+# {{lb|en|programming}} A long [[integer]] variable, twice the size of an [[int]], two or four times the size of a [[short]], and half of a [[long long]].
 #: ''A '''long''' is typically 64 [[bit]]s in a 32-bit environment.''
-# {{label|en|finance}} An entity with a long position in an asset.
+# {{lb|en|finance}} An entity with a long position in an asset.
 #: ''Every uptick made the '''longs''' cheer.''
-# {{label|en|music}} A [[note]] formerly used in music, one half the length of a [[large]], twice that of a [[breve]].
+# {{lb|en|music}} A [[note]] formerly used in music, one half the length of a [[large]], twice that of a [[breve]].
 
 ====Verb====
 {{en-verb}}
 
-# {{label|en|transitive|finance}} To take a long position in.
+# {{lb|en|transitive|finance}} To take a long position in.
 #* {{quote-book|title=The Oxford Guide to Financial Modeling|page=84|author=Thomas S. Y. Ho|coauthors=Sang Bin Lee, Sang-bin Yi|year=2004|passage=The left panel shows the profile of a portfolio consisting of longing a call and shorting a put.}}
 
 =====See also=====
@@ -454,12 +453,12 @@ From {{etyl|enm|en}} {{m|enm|long}}, {{m|enm|lang}}, from {{etyl|ang|en}} {{m|an
 * [[wide]]
 
 ===Etymology 2===
-From {{etyl|enm|en}} {{m|enm|longen}}, from {{etyl|ang|en}} {{m|ang|langian||to long for, yearn after, grieve for, be pained, lengthen, grow longer, summon, belong}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*langōną||to desire, long for}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*dl̥h₁gʰós||long}}. Cognate with {{etyl|de|-}} {{m|de|langen||to reach, be sufficient}}, {{etyl|sv|-}} {{m|sv|langa||to push, pass by hand}}, {{etyl|is|-}} {{m|is|langa||to want, desire}}, {{etyl|nl|-}} and {{etyl|de|-}} {{m|nl|verlangen||to desire, want, long for}}.
+From {{inh|en|enm|longen}}, from {{inh|en|ang|langian||to long for, yearn after, grieve for, be pained, lengthen, grow longer, summon, belong}}, from {{inh|en|gem-pro|*langōną||to desire, long for}}, from {{der|en|ine-pro|*dl̥h₁gʰós||long}}. Cognate with {{cog|de|langen||to reach, be sufficient}}, {{cog|sv|langa||to push, pass by hand}}, {{cog|is|langa||to want, desire}}, {{etyl|nl|-}} and {{cog|de|verlangen||to desire, want, long for}}.
 
 ====Verb====
 {{en-verb}}
 
-# {{label|en|intransitive}} To [[await]], to [[aspire]], to [[desire]] greatly (something to occur or to be true)
+# {{lb|en|intransitive}} To [[await]], [[aspire]], [[desire]] greatly (something to occur or to be true)
 #: ''She '''longed''' for him to come back.''
 #* '''1922''', {{w|Margery Williams}}, ''{{w|The Velveteen Rabbit}}''
 #*: The Rabbit sighed. He thought it would be a long time before this magic called Real happened to him. He '''longed''' to become Real, to know what it felt like; and yet the idea of growing shabby and losing his eyes and whiskers was rather sad.
@@ -486,7 +485,7 @@ From {{etyl|enm|en}} {{m|enm|longen}}, from {{etyl|ang|en}} {{m|ang|langian||to 
 * Finnish: {{t+|fi|ikävöidä}}
 * French: {{t+|fr|aspirer|alt=aspirer à}}
 * German: (sich) {{t+|de|sehnen}}
-* Greek: {{t+|el|λαχταρώ|sc=Grek}}
+* Greek: {{t+|el|λαχταρώ}}
 * Hungarian: {{t+|hu|vágyik}}
 * Icelandic: {{t+|is|þrá}}
 {{trans-mid}}
@@ -507,19 +506,19 @@ From {{etyl|enm|en}} {{m|enm|longen}}, from {{etyl|ang|en}} {{m|ang|langian||to 
 {{trans-bottom}}
 
 ===Etymology 3===
-Aphetic form of {{etyl|ang|en}} {{m|en|gelang}}; the verb later reinterpreted as an aphetic form of {{m|en|belong}}.
+Aphetic form of {{der|en|ang|gelang}}; the verb later reinterpreted as an aphetic form of {{m|en|belong}}.
 
 ====Adjective====
 {{en-adj|-}}
 
-# {{label|en|archaic}} On account {{m|en|of}}, [[because]] {{m|en|of}}.
+# {{lb|en|archaic}} On account {{m|en|of}}, [[because]] {{m|en|of}}.
 #* '''1603''', {{w|John Florio}}, translating Michel de Montaigne, ''Essays'', II.8:
 #*: I am of opinion that in regard of these debauches and lewd actions, fathers may, in some sort, be blamed, and that it is only '''long''' of them.
 
 ====Verb====
 {{en-verb}}
 
-# {{label|en|archaic}} To be [[appropriate]] {{m|en|to}}, to [[pertain]] or [[belong]] {{m|en|to}}.
+# {{lb|en|archaic}} To be [[appropriate]] {{m|en|to}}, to [[pertain]] or [[belong]] {{m|en|to}}.
 #* '''1590''', {{w|Edmund Spenser}}, ''The Faerie Queene'', III.3:
 #*: A goodly Armour, and full rich aray, / Which '''long'd''' to Angela, the Saxon Queene, / All fretted round with gold, and goodly wel beseene.
 #* '''about 1591''', {{w|William Shakespeare}}, ''The Taming of the Shrew'', IV, 4:
