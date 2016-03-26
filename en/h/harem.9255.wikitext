@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|tr|en}} {{m|tr|harem}}, from {{etyl|ar|en}} {{m|ar|حَرَم||something prohibited; sanctuary, women}}; and later also from {{m|ar|حَرِيم}} with same meaning, both from {{m|ar|حَرُمَ||be forbidden or unlawful}}. (Eng. usg. 1623)
+{{bor|en|ota|حرم|tr=harem}} {{cog|tr|harem}}, from {{der|en|ar|حَرَم||something prohibited; sanctuary, women}}; and later also from {{m|ar|حَرِيم}} with same meaning, both from {{m|ar|حَرُمَ||be forbidden or unlawful}}. (Eng. usg. 1623)
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/ˈhɛərəm/|lang=en}}
@@ -81,7 +81,7 @@ From {{etyl|tr|en}} {{m|tr|harem}}, from {{etyl|ar|en}} {{m|ar|حَرَم||somet
 * Esperanto: {{t-check|eo|haremo}}
 * Estonian: {{t-check|et|haarem}}
 * Hebrew: {{t-check|he|הרמון}} {{rftranslit|he}}
-* Hindi: {{t-check|hi|महल-सरा|f|tr=mahal-sarā|sc=Deva}}, {{t-check|hi|हरम-सरा|f|tr=haram-sarā|sc=Deva}}
+* Hindi: {{t-check|hi|महल-सरा|f}}|tr=mahal-sarā|sc=Deva, {{t-check|hi|हरम-सरा|f}}|tr=haram-sarā|sc=Deva
 * Hungarian: {{t+check|hu|hárem}}
 {{trans-mid}}
 * Italian: {{t+check|it|harem}}
@@ -89,7 +89,7 @@ From {{etyl|tr|en}} {{m|tr|harem}}, from {{etyl|ar|en}} {{m|ar|حَرَم||somet
 * Spanish: {{t+check|es|harén|m}}
 * Swedish: {{t+check|sv|harem|n}}
 * Turkish: {{t+check|tr|harem}}, {{t+check|tr|haremlik}}
-* Urdu: {{t-check|ur|محل سرا|f|tr=mahal-sarā|sc=ur-Arab}}, {{t-check|ur|حرم سرا|f|tr=haram-sarā|sc=ur-Arab}}
+* Urdu: {{t-check|ur|محل سرا|f|tr=mahal-sarā}}, {{t-check|ur|حرم سرا|f|tr=haram-sarā}}
 {{trans-bottom}}
 
 ====See also====
@@ -112,7 +112,7 @@ From {{etyl|tr|en}} {{m|tr|harem}}, from {{etyl|ar|en}} {{m|ar|حَرَم||somet
 ==Italian==
 
 ===Etymology===
-{{etyl|tr|it}}
+{{bor|it|ota}}.
 
 ===Noun===
 {{head|it|noun|g=m|invariable}}
@@ -125,7 +125,7 @@ From {{etyl|tr|en}} {{m|tr|harem}}, from {{etyl|ar|en}} {{m|ar|حَرَم||somet
 {{wikipedia|lang=pl}}
 
 ===Etymology===
-From {{etyl|tr|pl}} {{m|tr|harem}}, from {{etyl|ar|pl}} {{m|ar|حَرَم}}
+{{bor|pl|ota|حرم|tr=harem}} ({{cog|tr|harem}}), from {{der|pl|ar|حَرَم}}.
 
 ===Pronunciation===
 * {{audio|Pl-harem.ogg|Audio|lang=pl}}
@@ -154,7 +154,7 @@ From {{etyl|tr|pl}} {{m|tr|harem}}, from {{etyl|ar|pl}} {{m|ar|حَرَم}}
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|ota|sh}} {{m|ota|حرم|tr=harem|sc=ota-Arab}}, from {{etyl|ar|sh}} {{m|ar|حَرَم}}.
+{{bor|sh|ota|حرم|tr=harem}}, from {{der|sh|ar|حَرَم}}.
 
 ===Noun===
 {{sh-noun|g=m|head=hárem|r|харем|ха́рем}}
@@ -177,10 +177,10 @@ From {{etyl|ota|sh}} {{m|ota|حرم|tr=harem|sc=ota-Arab}}, from {{etyl|ar|sh}} 
 ==Turkish==
 
 ===Etymology===
-From {{etyl|ar|tr}} {{m|ar|حَرَم}}.
+From {{inh|tr|ota|حرم|tr=harem}}, from {{der|tr|ar|حَرَم}}.
 
 ===Noun===
-{{head|tr|noun}}
+{{tr-noun|i|ler}}
 
 # [[#English|harem]]
 
