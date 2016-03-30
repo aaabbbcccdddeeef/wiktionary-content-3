@@ -26,6 +26,7 @@ Shortening of ''[[graphic]] [[formula]]''.
 # {{label|en|mathematics}} A [[diagram]] displaying data, in particular one showing the relationship between two or more [[variable]]s; specifically, for a function <math>f(x_1, x_2, \ldots, x_n)</math>, the [[set]] of all [[tuple]]s <math>(x_1, x_2, \ldots, x_n, f(x_1, x_2, \ldots, x_n))</math>.
 # {{label|en|graph theory}} An [[ordered pair]] <math>(V,E)</math>, where <math>V</math> is a set of elements called ''[[vertex|vertices]]'' (or ''[[node]]s'') and <math>E</math> is a set of pairs of [[element]]s of <math>V</math>, called ''[[edge]]s''; informally, a set of vertices together with a set edges that join these vertices.
 # {{lb|en|typography}} A [[character]], in particular the [[abstracted]] fundamental shape of a character as distinct from its [[ductus]] (realization in a particular typeface or handwriting: compare [[glyph]]).
+# {{lb|en|category theory}} ''Said to be of a morphism f'': a [[morphism]] <math>\Gamma_f</math> from the [[domain]] of ''f'' to the [[categorical product|product]] of the domain and [[codomain]] of ''f'', such that the first projection applied to <math>\Gamma_f</math> equals the [[identity morphism|identity]] of the domain, and the second projection applied to <math>\Gamma_f</math> is equal to ''f''.
 
 ====Synonyms====
 * {{sense|in graph theory}} [[undirected graph]]
