@@ -8,7 +8,7 @@
 * [[caff]] {{qualifier|UK|informal}}
 
 ===Etymology===
-{{borrowing|fr|café|t=coffee; coffee shop|lang=en}}.
+{{bor|en|fr|café||coffee; coffee shop}}.
 
 ===Pronunciation===
 * {{a|US}} {{IPA|/ˌkæˈfeɪ/|lang=en}}
@@ -32,13 +32,12 @@
 * [[restaurant]]<!--serves more substantial food than a café-->
 
 ====Derived terms====
-{{der-top}}
-* [[café society]]
-* [[cybercafé]]
-{{der-mid}}
-* [[dementia café]]
-* [[memory café]]
-{{der-bottom}}
+{{der3
+|[[café society]]
+|[[cybercafé]]
+|[[dementia café]]
+|[[memory café]]
+}}
 
 ====Translations====
 {{trans-top|coffee shop}}
@@ -136,7 +135,7 @@
 {{wikipedia|lang=ast}}
 
 ===Etymology===
-{{borrowing|fr|café|lang=ast}}.
+{{bor|ast|fr|café}}.
 
 ===Noun===
 {{ast-noun|m}}
@@ -150,7 +149,7 @@
 {{wikipedia|lang=nl}}
 
 ===Etymology===
-{{borrowing|fr|café|lang=nl}}.
+{{bor|nl|fr|café}}.
 
 ===Pronunciation===
 * {{audio|Nl-café.ogg|Audio|lang=nl}}
@@ -169,7 +168,7 @@
 {{wikipedia|lang=fr}}
 
 ===Etymology===
-{{borrowing|it|caffè|lang=fr}}, first appearing as the form ''caveé''<ref>http://www.cnrtl.fr/etymologie/cafe</ref>, from {{etyl|tr|fr}} {{m|tr|kahve}}, from {{etyl|ar|fr}} {{m|ar|قَهْوَة||coffee}}.
+{{borrowing|lang=fr|it|caffè}}, first appearing as the form ''caveé''<ref>http://www.cnrtl.fr/etymologie/cafe</ref>, from {{der|fr|ota|قهوه|tr=kahve}} ({{cog|tr|kahve}}), from {{der|fr|ar|قَهْوَة||coffee}}.
 
 ===Pronunciation===
 * {{audio|Fr-café.ogg|audio|lang=fr}}
@@ -186,7 +185,8 @@
 # [[cafe]], [[coffee shop]]
 
 ====Derived terms====
-{{der3|{{l|fr|café-bar}}
+{{der3
+|{{l|fr|café-bar}}
 |{{l|fr|café-concert}}
 |{{l|fr|caféiculteur}}
 |{{l|fr|caféiculture}}
@@ -216,7 +216,8 @@
 |{{l|fr|café liégeois}}
 |{{l|fr|café turc}}
 |{{l|fr|capuccino}}
-|{{l|fr|expresso}}}}
+|{{l|fr|expresso}}
+}}
 
 ====Descendants====
 * German: {{l|de|Café}}
@@ -262,37 +263,37 @@
 ==Norman==
 
 ===Etymology===
-{{borrowing|fr|café|lang=nrf}}.
+{{bor|nrf|fr|café}}.
 
 ===Noun===
 {{nrf-noun|m}}
 
-# {{label|nrf|Jersey}} [[coffee]] {{gloss|beverage}}
-# {{label|nrf|Jersey}} {{l|en|café}} (establishment)
+# {{lb|nrf|Jersey}} [[coffee]] {{gloss|beverage}}
+# {{lb|nrf|Jersey}} {{l|en|café}} (establishment)
 
 ====Related terms====
 * {{l|nrf|caf'tchiéthe||coffee pot}}
 
-{{catlangcode|nrf|Beverages}}
+{{topics|nrf|Beverages}}
 
 ----
 
 ==Portuguese==
 {{wikipedia|lang=pt}}
 
+===Etymology===
+{{bor|pt|it|caffè}}, from {{der|pt|ota|قهوه|tr=kahve}} ({{cog|tr|kahve}}), from Classical {{der|pt|ar|قَهْوَة||coffee}}.
+
 ===Pronunciation===
 * {{a|PT}} {{IPA|/kɐˈfɛ/|lang=pt}}
 * {{a|BR}} {{IPA|/kaˈfɛ/|/kɐˈfɛ/|lang=pt}}
 * {{rhymes|ɛ|lang=pt}}
 
-===Etymology===
-{{borrowing|it|caffè|lang=pt}}, from {{etyl|tr|pt}} {{m|tr|kahve}}, from Classical {{etyl|ar|pt}} {{m|ar|قَهْوَة||coffee}}.
-
 ===Noun===
 {{pt-noun|m}}
 
 # [[coffee]]
-# a {{l|en|café}}, an establishment selling coffee and other beverages, alcoholic or not, simple meals or snacks, with a facility to consume them on the premises
+# a [[#English|café]], an establishment selling coffee and other beverages, alcoholic or not, simple meals or snacks, with a facility to consume them on the premises
 
 ====Derived terms====
 * {{l|pt|cafeteria}}
@@ -312,7 +313,7 @@
 [[Image:A small cup of coffee.JPG|thumb|café]]
 
 ===Etymology===
-{{borrowing|it||caffè|lang=es}}, from {{etyl|tr|es}} {{m|tr|kahve}}, from {{etyl|ar|es}} {{m|ar|قَهْوَة||coffee}}.
+{{bor|es|it|caffè}}, from {{der|es|ota|قهوه|tr=kahve}} ({{cog|tr|kahve}}), from {{der|es|ar|قَهْوَة||coffee}}.
 
 ===Pronunciation===
 * {{audio|Es-café-bo-La Paz.ogg|Audio (BOL)|lang=es}}
@@ -345,7 +346,7 @@
 {{wikipedia|lang=sv}}
 
 ===Etymology===
-{{borrowing|fr|café|lang=sv}}
+{{bor|sv|fr|café}}.
 
 ===Pronunciation===
 * {{IPA|/kaˈfeː/|lang=sv}}
