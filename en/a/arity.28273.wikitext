@@ -12,6 +12,7 @@ From {{m|en|-ary}} (taken from {{m|en|[[unary]]/[[binary]]/[[trinary]] [<nowiki/
 {{en-noun|arities}}
 
 # {{label|en|logic|mathematics|computer science}} The number of [[argument]]s or [[operand]]s a [[function]] or [[operation]] takes. For a [[relation]], the number of [[domain]]s in the [[correspond]]ing [[Cartesian product]].
+# {{label|en|mathematics|computer science}} The maximum number of [[child]] nodes that any node in a given [[tree]] (data structure) may have.
 
 ====Synonyms====
 * {{qualifier|number of arguments}} [[adinity]], [[adicity]], [[type]], [[rank]]
