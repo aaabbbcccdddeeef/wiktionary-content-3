@@ -304,7 +304,7 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 ==Danish==
 
 ===Etymology===
-From {{etyl|en|da}} {{m|en|tank}}.
+{{bor|da|en|tank}}.
 
 ===Pronunciation===
 * {{sense|military fighting vehicle}} {{IPA|/taːnk/|[tˢæːŋɡ̊]|lang=da}}
@@ -324,15 +324,15 @@ From {{etyl|en|da}} {{m|en|tank}}.
 # [[filling station]], [[gas station]] (US), [[petrol station]] (UK), [[service station]]
 
 ====Synonyms====
-* [[kampvogn]] (''military fighting vehicle'')
-* [[tankstation]] (''filling station etc.'')
+* {{sense|military fighting vehicle}} {{l|da|kampvogn}}
+* {{sense|filling station, etc.}} {{l|da|tankstation}}
 
 ----
 
 ==Dutch==
 
 ===Etymology===
-From {{der|nl|en|tank}}.
+{{bor|nl|en|tank}}.
 
 ===Pronunciation===
 * {{IPA|lang=nl|/tɛŋk/|/tɑŋk/}}
@@ -358,7 +358,7 @@ From {{der|nl|en|tank}}.
 ==French==
 
 ===Etymology===
-From {{etyl|en|fr}} {{m|en|tank}}.
+{{bor|fr|en|tank}}.
 
 ===Pronunciation===
 * {{IPA|/tɑ̃k/|lang=fr}}
@@ -390,14 +390,14 @@ From {{etyl|en|fr}} {{m|en|tank}}.
 {{head|de|verb form}}
 
 # {{de-verb form of|tanken|i|s}}
-# {{label|de|colloquial}} {{de-verb form of|tanken|1|s|g}}
+# {{lb|de|colloquial}} {{de-verb form of|tanken|1|s|g}}
 
 ----
 
 ==Italian==
 
 ===Etymology===
-{{etyl|en|it}}
+{{bor|it|en}}.
 
 ===Noun===
 {{head|it|noun|g=m|invariable}}
@@ -409,7 +409,7 @@ From {{etyl|en|fr}} {{m|en|tank}}.
 ==Norwegian Bokmål==
 
 ===Etymology===
-From {{etyl|en|nb}} {{m|en|tank}}
+{{bor|nb|en|tank}}
 
 ===Noun===
 {{head|nb|noun|g=m|definite singular|tanken|indefinite plural|tanker|definite plural|tankene}}
@@ -431,7 +431,7 @@ From {{etyl|en|nb}} {{m|en|tank}}
 * {{IPA|/tank/|lang=nn}} {{nn-pronu-note}}
 
 ===Etymology 1===
-From {{etyl|en|nn}}.
+{{bor|nn|en}}.
 
 ====Noun====
 {{nn-noun-m1}}
@@ -465,18 +465,20 @@ From {{etyl|en|nn}}.
 {{sv-infl-noun-c-ar}}
 
 ====Related terms====
-* [[bensintank]]
-* [[flyttank]]
-* [[mjölktank]]
-* [[tanka]]
-* [[tankbil]]
-* [[tanker]]
-* [[tankfartyg]]
-* [[tankvagn]]
+{{rel3
+|[[bensintank]]
+|[[flyttank]]
+|[[mjölktank]]
+|[[tanka]]
+|[[tankbil]]
+|[[tanker]]
+|[[tankfartyg]]
+|[[tankvagn]]
+|lang=sv}}
 
 ====See also====
-* [[dunk]]
-* [[tanke]]
+* {{l|sv|dunk}}
+* {{l|sv|tanke}}
 
 [[az:tank]]
 [[zh-min-nan:tank]]
