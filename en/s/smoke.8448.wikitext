@@ -649,7 +649,7 @@ From {{etyl|enm|en}} {{m|enm|smoke}}, from {{etyl|ang|en}} {{m|ang|smoca||smoke}
 * Slovak: {{t|sk|fajčiť|impf}}
 * Slovene: {{t+|sl|kaditi|impf}}
 * Sorbian:
-*: Upper Sorbian: {{t|hsb|kurić}}
+*: Upper Sorbian: {{t|hsb|kurić|impf}}
 * Spanish: {{t+|es|fumar}}
 * Swedish: {{t+|sv|röka}}
 * Tajik: {{t|tg|тамоку кашидан}}, {{t|tg|кашидан}}
@@ -673,12 +673,12 @@ From {{etyl|enm|en}} {{m|enm|smoke}}, from {{etyl|ang|en}} {{m|ang|smoca||smoke}
 {{trans-top|to inhale and exhale tobacco smoke regularly or habitually}}
 * Arabic: {{t|ar|دَخَّنَ}}
 * Basque: {{t|eu|erre}}
-* Belarusian: {{t|be|куры́ць}}
-* Bulgarian: {{t+|bg|пу́ша}}
+* Belarusian: {{t|be|куры́ць|impf}}
+* Bulgarian: {{t+|bg|пу́ша|impf}}
 * Catalan: {{t+|ca|fumar}}
 * Chinese:
 *: Mandarin: {{t|cmn|吸煙|sc=Hani}}, {{t+|cmn|吸烟|tr=xīyān|sc=Hani}}, {{t|cmn|抽煙|sc=Hani}}, {{t+|cmn|抽烟|tr=chōuyān|sc=Hani}}
-* Czech: {{t+|cs|kouřit}}
+* Czech: {{t+|cs|kouřit|impf}}
 * Danish: {{t+|da|ryge}}
 * Dutch: {{t+|nl|roken}}, {{t+|nl|smoren}}
 * Esperanto: {{t|eo|fumi}}
@@ -692,31 +692,31 @@ From {{etyl|enm|en}} {{m|enm|smoke}}, from {{etyl|ang|en}} {{m|ang|smoca||smoke}
 * Hindi: {{t+|hi|पीना|tr=pīnā}}
 * Hungarian: {{t+|hu|dohányzik}}
 * Italian: {{t+|it|fumare}}
-* Japanese: {{t|ja|タバコを吸う|tr=tabako-o suu}}
-* Korean: {{t|ko|담배피우다|sc=Hang}}
+* Japanese: {{t+|ja|吸う|tr=すう, suu|sc=Jpan}}, {{t|ja|タバコを吸う|tr=タバコをすう, tabako o suu}}
+* Korean: {{t+|ko|피우다|sc=Hang}}, {{t|ko|담배를 피우다|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t|ckb|جگەرە کێشان|tr=cigere kêşan}}
 {{trans-mid}}
 * Lao: {{t|lo|ສູບຢາ|sc=Laoo}}
-* Macedonian: {{t|mk|пуши}}
+* Macedonian: {{t|mk|пуши|impf}}
 * Maori: {{t|mi|kai tupeka}}, {{t|mi|kaipaipa}}
 * Norman: {{t|nrf|feunmer}} {{qualifier|Jersey}}
 * Novial: {{t|nov|fuma}}
-* Polish: {{t+|pl|palić}} (''fajkę, papierosa'')
+* Polish: {{t+|pl|palić|impf}} (''fajkę, papierosa'')
 * Portuguese: {{t+|pt|fumar}}
 * Romanian: {{t+|ro|fuma}}
 * Romansch: {{t|rm|fimar}} {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan, Surmiran}}, {{t|rm|fümer}} {{qualifier|Puter}}, {{t|rm|fümar}} {{qualifier|Vallader}}
-* Russian: {{t+|ru|кури́ть}}
+* Russian: {{t+|ru|кури́ть|impf}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|пушити|sc=Cyrl}}
-*: Roman: {{t+|sh|pušiti}}
-* Slovak: {{t|sk|fajčiť}}
-* Slovene: {{t+|sl|kaditi}}
+*: Cyrillic: {{t|sh|пушити|impf|sc=Cyrl}}
+*: Roman: {{t+|sh|pušiti|impf}}
+* Slovak: {{t|sk|fajčiť|impf}}
+* Slovene: {{t+|sl|kaditi|impf}}
 * Spanish: {{t+|es|fumar}}
 * Swedish: {{t+|sv|röka}}
 * Telugu: {{t+|te|తాగు}}
-* Thai: {{t|th|สูบบุหรี่|tr=sòop bù rèe}}
-* Ukrainian: {{t|uk|кури́ти}}, {{t|uk|пали́ти}}
+* Thai: {{t|th|สูบบุหรี่}}
+* Ukrainian: {{t|uk|кури́ти|impf}}, {{t|uk|пали́ти|impf}}
 * Urdu: {{t|ur|پینا|tr=pīnā}}
 * Vietnamese: {{t|vi|hơi thuốc}}, {{t+|vi|hút thuốc}}
 * Welsh: {{t+|cy|ysmygu}}
@@ -744,7 +744,7 @@ From {{etyl|enm|en}} {{m|enm|smoke}}, from {{etyl|ang|en}} {{m|ang|smoca||smoke}
 * Interlingua: {{t|ia|fumar}}
 * Japanese: {{t|ja|煙る|tr=けむる, kemuru}}
 {{trans-mid}}
-* Korean: {{t|ko|뿜다|tr=ppumda}}
+* Korean: {{t|ko|뿜다}}
 * Kurdish:
 *: Sorani: {{t|ckb|دووکەڵ کردن|tr=dûkeł kirdin}}
 * Latin: {{t|la|fumare}}
@@ -755,7 +755,7 @@ From {{etyl|enm|en}} {{m|enm|smoke}}, from {{etyl|ang|en}} {{m|ang|smoca||smoke}
 * Polish: {{t+|pl|dymić}}
 * Portuguese: {{t+|pt|fumegar}}
 * Romanian: {{t+|ro|fumega}}, {{t+|ro|fuma}}
-* Russian: {{t+|ru|дыми́ть}}, {{t+|ru|дыми́ться}}
+* Russian: {{t+|ru|дыми́ть|impf}}, {{t+|ru|дыми́ться|impf}}
 * Slovak: {{t|sk|dymiť}}
 * Spanish: {{t+|es|humear}}
 * Swedish: {{t+|sv|ryka}}
@@ -785,7 +785,7 @@ From {{etyl|enm|en}} {{m|enm|smoke}}, from {{etyl|ang|en}} {{m|ang|smoca||smoke}
 * Portuguese: {{t+|pt|defumar}}
 * Romanian: {{t+|ro|afuma}}
 * Romansch: {{t|rm|fimentar}} {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan}}, {{t|rm|fimantar}} {{qualifier|Surmiran}}, {{t|rm|fümanter}} {{qualifier|Puter}}, {{t|rm|fümantar}} {{qualifier|Vallader}}
-* Russian: {{t+|ru|копти́ть}}, {{t+|ru|закоптить}}
+* Russian: {{t+|ru|копти́ть|impf}}, {{t+|ru|закопти́ть|pf}}
 * Slovak: {{t|sk|údiť}}
 * Spanish: {{t+|es|ahumar}}
 * Swedish: {{t+|sv|röka}}
