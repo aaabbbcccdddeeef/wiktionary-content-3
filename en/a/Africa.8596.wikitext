@@ -326,21 +326,23 @@ The Latin term formed alongside Greek ἡ [[Ἀφρική]], both terms being at
 {{wikipedia|lang=ro}}
 
 ===Etymology===
-{{etyl|la|ro}} {{m|la|Africa}}
+{{bor|ro|la|Africa}}.
 
 ===Pronunciation===
 * {{IPA|[ˈa.fri.ka]|lang=ro}}
 
 ===Proper noun===
-{{head|ro|proper noun|g=f}}
+{{ro-proper noun|f}}
 
-# [[#English|Africa]]
+# {{place|ro|continent|t1=Africa}}
 
 ====Declension====
-{{ro-country|gend=f|Africii}}
+{{ro-noun-f-ă-i|Afric|n=sg}}
+
+====See also====
+* {{list:continents/ro}}
 
 [[Category:ro:Africa]]
-[[Category:ro:Continents]]
 
 [[af:Africa]]
 [[ar:Africa]]
