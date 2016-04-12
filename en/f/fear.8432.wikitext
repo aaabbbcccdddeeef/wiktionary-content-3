@@ -484,11 +484,11 @@ From {{etyl|enm|en}} {{m|enm|fere}}, {{m|enm|feore}}, from {{etyl|ang|en}} {{m|a
 From {{inh|ga|sga|fer}}, from {{inh|ga|cel-pro|*wiros}}, from {{inh|ga|ine-pro|*wiHrós}}. Cognate with {{cog|cy|gŵr}}, {{cog|la|vir}}, and {{cog|ang|wer}}.
 
 ===Pronunciation===
-* {{IPA|lang=ga|/fʲaɾˠ/}}
+* {{IPA|/fʲaɾˠ/|lang=ga}}
 * {{a|Connemara}} {{IPA|/fʲæːɾˠ/|lang=ga}}
 
 ===Noun===
-{{ga-noun|fir|fir|g=m}}
+{{ga-noun|g=m|fir|fir}}
 
 # [[man]]
 #: {{ux|ga|Tá an '''fear''' ag ól uisce.|The man is drinking water.}}
@@ -497,8 +497,31 @@ From {{inh|ga|sga|fer}}, from {{inh|ga|cel-pro|*wiros}}, from {{inh|ga|ine-pro|*
 ====Declension====
 {{ga-decl-m1|f|ear|ir}}
 
+====Derived terms====
+{{der3
+|{{l|ga|crannfhear|g=m||aging man}}
+|{{l|ga|banaltra fir|g=f||(male) nurse}}
+|{{l|ga|baintreach fir|g=f||widower}}
+|{{l|ga|seanfhear|g=m||old man}}
+|{{l|ga|fear fichille|g=m||chess piece, chessman}}
+|{{l|ga|ógfhear|g=m||young man}}
+|{{l|ga|fear dorcha|g=m||blind man}}
+|{{l|ga|fear ionaid|g=m||deputy; vicar; (male) substitute player}}
+|{{l|ga|fear sorcais|g=m||circus clown; funny fellow, gay lad}}
+|{{l|ga|fuathaitheoir fear|g=m||misandrist}}
+|{{l|ga|fear sneachta|g=m||snowman}}
+|{{l|ga|fear na gcrúb|g=m||the Devil; joker}}
+|{{l|ga|fear céile|g=m||husband}}
+|{{l|ga|fearúil|pos=a||manly, masculine; virile; brave}}
+|{{l|ga|fear bréige|g=m}}, {{l|ga|fear falsa|g=m||scarecrow}}
+}}
+
 ===Mutation===
 {{ga-mut-cons|f|ear}}
+
+===References===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|21665|head=1 fer}}
 
 {{topics|ga|Family|Human|Male}}
 
