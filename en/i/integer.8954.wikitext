@@ -185,7 +185,7 @@ From {{inh|la|itc-pro|*entagros}}, from {{etyl|ine-pro|la}} {{m|ine-pro|*n̥-th�
 ==Limburgish==
 
 ===Etymology===
-Borrowed from Latin ''[[integer#Latin|integer]]''
+Borrowed from {{etym|la|li}} {{m|la|integer}}.
 
 ===Adjective===
 {{li-adj|comp=integerder}}
@@ -197,73 +197,8 @@ Borrowed from Latin ''[[integer#Latin|integer]]''
 Unlike Dutch, not used in the meaning of ''[[honest]]'' or ''[[trustworthy]]''.
 
 ====Inflection====
-{| class="wikitable" style="text-align: center;"
-|-
-!
-! colspan="2" | Masculine
-! colspan="2" | Feminine
-! colspan="2" | Neutral
-|-
-!
-! Singular
-! Plural
-! Singular
-! Plural
-! Singular
-! Plural
-|-
-! [[nominative]]
-| integere
-| integer
-| integer
-| integer
-| integer
-| integer
-|-
-! [[genitive]]
-| integers
-| integerer
-| integerer
-| integerer
-| integers
-| integerer
-|-
-! [[locative]]
-| integeres
-| integeres
-| integeres
-| integeres
-| integeres
-| integeres
-|-
-! [[vocative]]²
-| integer
-| integer
-| integer
-| integer
-| integer
-| integer
-|-
-! [[dative]]¹
-| integere
-| integeren
-| integerer
-| integeren
-| integer
-| integeren
-|-
-! [[accusative]]¹
-| integere
-| integeren
-| integer
-| integer
-| integer
-| integeren
-|}
-* Dative and accusative are nowadays obsolete, use nominative instead.
-* Vocative only exists for about ten words.
+{{li-decl-adj}}
 
-[[Category:Limburgish adjectives]]
 [[Category:en:Numbers]]
 
 [[ar:integer]]
