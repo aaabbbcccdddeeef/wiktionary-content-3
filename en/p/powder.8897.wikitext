@@ -157,10 +157,10 @@ From {{etyl|enm|en}} {{m|enm|poudre}}, {{m|enm|pouldre}}, {{etyl|fro|en}} {{m|fr
 #: ''to '''powder''' the hair''
 #* {{rfdate}} [[w:John Milton|John Milton]]:
 #*: A circling zone thou seest / '''Powdered''' with stars.
-# {{label|en|intransitive}} To be reduced to powder; to become like powder.
-#: ''Some salts '''powder''' easily.''
 # {{label|en|intransitive}} To use powder on the hair or skin.
 #: ''She paints and '''powders'''.''
+# {{label|en|intransitive}} To be reduced to powder; to become like powder.
+#: ''Some salts '''powder''' easily.''
 # {{label|en|transitive}} To [[sprinkle]] with [[salt]]; to [[corn]], as [[meat]].
 
 ====Synonyms====
@@ -170,7 +170,7 @@ From {{etyl|enm|en}} {{m|enm|poudre}}, {{m|enm|pouldre}}, {{etyl|fro|en}} {{m|fr
 {{trans-top|to reduce to fine particles}}
 * Dutch: {{t+|nl|fijnmalen}}, {{t+|nl|malen}}
 * Faroese: {{t|fo|mjølva}}
-* Finnish: [[jauhaa]] [[hieno|hienoksi]]
+* Finnish: {{t|fi|hienontaa}}, {{t|fi|pulveroida}}; {{t|fi|[[jauhaa]] [[hienoksi]]}}
 * French: {{t|fr|réduire en poudre}}, {{t+|fr|pulvériser}}
 {{trans-mid}}
 * Maori: {{t|mi|whakanehu}}
@@ -180,19 +180,12 @@ From {{etyl|enm|en}} {{m|enm|poudre}}, {{m|enm|pouldre}}, {{etyl|fro|en}} {{m|fr
 
 {{trans-top|to sprinkle with powder}}
 * Dutch: {{t|nl|bepoederen}}
-* Finnish: {{t+|fi|sirotella}}
+* Finnish: {{t+|fi|sirotella}}; {{t|fi|puuteroida}} {{qualifier|use cosmetic powder}}
 * French: {{t+|fr|poudrer}}, {{t+|fr|pulvériser|alt=pulvériser (sur)}}, {{t+|fr|saupoudrer}}
 {{trans-mid}}
 * Irish: {{t|ga|púdráil}}
 * Norwegian: {{t|no|pudre}}
 * Spanish: {{t+|es|espolvorear}}
-{{trans-bottom}}
-
-{{trans-top|to be reduced to powder}}
-* French: {{t|fr|se réduire en poudre}}, {{t|fr|se pulvériser}}
-* Spanish: {{t+|es|pulverizarse}}, {{t|es|hacerse polvo}}
-{{trans-mid}}
-* Telugu: {{t|te|పొడి చేయు}}
 {{trans-bottom}}
 
 {{trans-top|to use powder on the hair or skin}}
@@ -201,6 +194,19 @@ From {{etyl|enm|en}} {{m|enm|poudre}}, {{m|enm|pouldre}}, {{etyl|fro|en}} {{m|fr
 {{trans-mid}}
 * Norwegian: {{t|no|pudre}}
 * Spanish: {{t|es|ponerse polvos}}, {{t+|es|empolvarse}}
+{{trans-bottom}}
+
+{{trans-top|to be reduced to powder}}
+* Finnish: {{t|fi|jauhautua}}, {{t|fi|pulveroitua}}
+* French: {{t|fr|se réduire en poudre}}, {{t|fr|se pulvériser}}
+{{trans-mid}}
+* Spanish: {{t+|es|pulverizarse}}, {{t|es|hacerse polvo}}
+* Telugu: {{t|te|పొడి చేయు}}
+{{trans-bottom}}
+
+{{trans-top|to sprinkle with salt}}
+* Finnish: {{t|fi|[[sirotella]] [[suolaa]]}}, {{t|fi|suolata}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ===See also===
