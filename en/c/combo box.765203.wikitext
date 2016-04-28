@@ -1,5 +1,4 @@
 ==English==
-{{wikipedia}}
 [[Image:Combo box example.PNG|thumb|A combo box]]
 
 ===Pronunciation===
@@ -7,9 +6,12 @@
 * {{hyphenation|combo box|lang=en}}
 
 ===Noun===
-{{en-noun|head=[[combo]] [[box]]|es}}
+{{en-noun|es}}
 
 # {{label|en|graphical user interface}} A GUI [[widget]] that is a combination of a [[dropdown list]] or [[list box]] and a single-line textbox, allowing the user either to type a value directly into the control or choose from the list of existing options.
+
+====Hypernyms====
+* [[box]]
 
 ====Translations====
 {{trans-top|GUI widget}}
@@ -21,8 +23,11 @@
 * Japanese: {{t|ja|コンボボックス|tr=konbobokkusu|sc=Jpan}}
 * Russian: {{t|ru|по́ле со спи́ском|n}}
 * Swedish: {{t|sv|kombinationsfält|n}}
-* Turkish: {{t|tr|açılan kutu}}, {{t|tr|bileşik kutu}}, {{t|tr|bileşim kutusu}}, {{t|tr|karma kutu}}
+* Turkish: {{t|tr|bileşik kutu}}, {{t|tr|bileşim kutusu}}, {{t|tr|karma kutu}}
 {{trans-bottom}}
+
+===References===
+* {{pedia}}
 
 [[de:combo box]]
 [[ta:combo box]]
