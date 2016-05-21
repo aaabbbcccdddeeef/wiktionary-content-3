@@ -5,12 +5,19 @@
 {{en-noun}}
 
 # Any of various devices that are used to [[inject]] something
+# {{lb|en|object-oriented programming}} Object which realizes a [[dependency injection]].
 
 ====Translations====
 {{trans-top|device used to inject}}
+* French: {{t|fr|injecteur|m}}
 * German: {{t|de|Einspritzdüse|f}}
 {{trans-mid}}
 * Spanish: {{t|es|inyector|m}}
+{{trans-bottom}}
+
+{{trans-top|object-oriented programmin}}
+* French: {{t|fr|injecteur|m}}
+{{trans-mid}}
 {{trans-bottom}}
 
 [[et:injector]]
