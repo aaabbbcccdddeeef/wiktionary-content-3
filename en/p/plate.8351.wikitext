@@ -53,13 +53,13 @@ From {{etyl|fro|en}} {{m|fro|plate}}, from {{etyl|ML.|en}} {{m|la|plata|}}, from
 #* Milton
 #*: mangled {{...}} through '''plate''' and mail
 # {{label|en|herpetology}} Any of various larger [[scales]] found in some [[reptile]]s.
-# {{label|en|engineering|electricity}} An [[electrode]] such as can be found in an [[accumulator]] battery, or in an [[electrolysis]] tank.
+# {{label|en|engineering|electricity}} A [[flat]] [[electrode]] such as can be found in an [[accumulator]] battery, or in an [[electrolysis]] tank.
 # {{label|en|engineering|electricity}} The [[anode]] of a [[vacuum tube]].
 #: ''Regulating the oscillator '''plate''' voltage greatly improves the keying.''
 # {{label|en|obsolete}} A [[coin]], usually a [[silver]] coin.
 #* Shakespeare
 #*: Realms and islands were as '''plates''' dropp'd from his pocket.
-# {{label|en|heraldiccharge}} A [[roundel]] of [[silver]] or [[tinctured]] [[argent]].
+# {{label|en|heraldic charge}} A [[roundel]] of [[silver]] or [[tinctured]] [[argent]].
 # A [[prize]] given to the [[winner]] in a [[contest]].
 # {{label|en|chemistry}} Any flat piece of material such as coated glass or plastic.
 # {{label|en|aviation|travel industry|dated}} A metallic card, used to imprint tickets with an airline's logo, name, and numeric code.
@@ -85,7 +85,7 @@ From {{etyl|fro|en}} {{m|fro|plate}}, from {{etyl|ML.|en}} {{m|la|plata|}}, from
 {{rel-bottom}}
 
 =====Translations=====
-{{trans-top|dish from which food is served or eaten}}
+{{trans-top|flat dish}}
 * Afrikaans: {{t|af|bord}}
 * Ainu: {{t|ain|セイ|tr=sey}}
 * Albanian: {{t+|sq|pjatë|f}}
@@ -180,9 +180,15 @@ From {{etyl|fro|en}} {{m|fro|plate}}, from {{etyl|ML.|en}} {{m|la|plata|}}, from
 * Zulu: {{qualifier|nc 7}} {{t-check|zu|isitsha}}
 {{trans-bottom}}
 
+{{trans-top|such dishes collectively}}
+* Finnish: {{t|fi|lautaset|p}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|contents of a plate}}
 * Chinese:
 *: Cantonese: {{t|yue|碟|tr=dip6|sc=Hani}}
+* Finnish: {{t|fi|lautasellinen}}
 * French: {{t+|fr|assiette|f}}
 * Irish: {{t|ga|pláta|m}}
 {{trans-mid}}
@@ -192,8 +198,9 @@ From {{etyl|fro|en}} {{m|fro|plate}}, from {{etyl|ML.|en}} {{m|la|plata|}}, from
 * Spanish: {{t+|es|plato|m}}
 {{trans-bottom}}
 
-{{trans-top|a course at a meal}}
+{{trans-top|course at a meal}}
 * Czech: {{t+|cs|chod|m}}
+* Finnish: {{t|fi|ruokalaji}}
 * French: {{t+|fr|plat|m}}
 * German: {{t+|de|Gang|m}}
 * Greek: {{t+|el|πιάτο|n}}
@@ -205,10 +212,15 @@ From {{etyl|fro|en}} {{m|fro|plate}}, from {{etyl|ML.|en}} {{m|la|plata|}}, from
 * Spanish: {{t+|es|plato|m}}
 {{trans-bottom}}
 
-{{trans-top|a flat metallic object}}
+{{trans-top|agenda of tasks, problems, or responsibilities}}
+* Finnish: {{t|fi|työlista}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|flat metallic object}}
 * Czech: {{t|cs|štítek|m}}
 * Dutch: {{t+|nl|plaat|f}}
-* Finnish: {{t+|fi|levy}}
+* Finnish: {{t+|fi|levy}}, {{t|fi|laatta}}
 * French: {{t+|fr|plaque|f}}
 * German: {{t+|de|Platte|f}}
 * Greek: {{t+|el|έλασμα|n}}
@@ -227,14 +239,15 @@ From {{etyl|fro|en}} {{m|fro|plate}}, from {{etyl|ML.|en}} {{m|la|plata|}}, from
 * Swedish: {{t+|sv|platta}}
 {{trans-bottom}}
 
-{{trans-top|vehicle license}}
+{{trans-top|vehicle license plate}}
 * Catalan: {{t+|ca|matrícula|f}}
+* Finnish: {{t|fi|kilpi}}
 * French: {{t+|fr|plaque d'immatriculation|f}}, {{t+|fr|plaque|f}}, {{t+|fr|plaque minéralogique|f}}
 * German: {{t+|de|Nummernschild|n}}, {{t+|de|Kennzeichen|n}}
 * Hungarian: {{t+|hu|rendszámtábla}}
 * Italian: {{t+|it|targa|f}}
-* Macedonian: {{t|mk|табличка|f|sc=Cyrl}}
 {{trans-mid}}
+* Macedonian: {{t|mk|табличка|f|sc=Cyrl}}
 * Persian: {{t+|fa|پلاک|tr=pelâk|sc=fa-Arab}}
 * Portuguese: {{t+|pt|placa|f}}
 * Romanian: {{t|ro|plăcuță de înmatriculare|f}}
@@ -242,21 +255,33 @@ From {{etyl|fro|en}} {{m|fro|plate}}, from {{etyl|ML.|en}} {{m|la|plata|}}, from
 * Spanish: {{t+|es|matrícula|f}}, {{t+|es|placa|f}}
 {{trans-bottom}}
 
-{{trans-top|(dated) decorative or food service item coated with silver}}
+{{trans-top|layer of a material on the surface of something}}
+* Finnish: {{t|fi|päällyste}}, {{t|fi|pinta}}, {{t|fi|pinnoite}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|material covered with such a layer}}
+* Finnish: {{t|fi|[[pinnoitettu]] [[materiaali]]}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|item coated with silver}}
 * Dutch: {{t+|nl|dienblad|n}}
+* Finnish: {{t|fi|[[hopeoitu]] [[astia]]}} {{qualifier|dish}}, {{t|fi|[[hopeoitu]] [[esine]]}} {{qualifier|other object}}
 * Greek: {{t|el|ασημένιο σερβίτσιο|n}}
 {{trans-mid}}
 * Norwegian: {{t+|no|brett|n}}
 {{trans-bottom}}
 
-{{trans-top|(weightlifting) weighted disk}}
+{{trans-top|weightlifting: weighted disk}}
+* Finnish: {{t|fi|levy}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|(printing) engraved surface used to transfer an image to paper}}
+{{trans-top|printing: engraved surface used to transfer an image to paper}}
 * Czech: {{t|cs|štoček|m}}
 * Dutch: {{t+|nl|plaat|f}}
-* Finnish: {{t|fi|painolaatta}}, {{t|fi|painolevy}}
+* Finnish: {{t|fi|painolaatta}}, {{t|fi|laatta}}, {{t|fi|painolevy}}
 * French: {{t+|fr|planche|f}}
 * German: {{t+|de|Druckstock|m}}
 {{trans-mid}}
@@ -268,7 +293,7 @@ From {{etyl|fro|en}} {{m|fro|plate}}, from {{etyl|ML.|en}} {{m|la|plata|}}, from
 * Spanish: {{t+|es|placa|f}}
 {{trans-bottom}}
 
-{{trans-top|(printing, photography) image or copy}}
+{{trans-top|printing, photography: image or copy}}
 * Finnish: {{t|fi|planssi}}
 * French: {{t+|fr|planche|f}}
 {{trans-mid}}
@@ -276,7 +301,7 @@ From {{etyl|fro|en}} {{m|fro|plate}}, from {{etyl|ML.|en}} {{m|la|plata|}}, from
 * Spanish: {{t+|es|grabado|m}}
 {{trans-bottom}}
 
-{{trans-top|(printing, publishing) full page illustration}}
+{{trans-top|printing, publishing: full page illustration}}
 * Finnish: {{t|fi|planssi}}
 * French: {{t+|fr|planche|f}}
 {{trans-mid}}
@@ -284,7 +309,8 @@ From {{etyl|fro|en}} {{m|fro|plate}}, from {{etyl|ML.|en}} {{m|la|plata|}}, from
 * Spanish: {{t+|es|lámina|f}}
 {{trans-bottom}}
 
-{{trans-top|(dentistry) dental plate}}
+{{trans-top|dental plate}}
+* Finnish: {{t|fi|hammasproteesin pohjalevy}}
 * French: {{t+|fr|dentier|m}}
 * Greek: {{t+|el|μασέλα|f}}
 * Irish: {{t|ga|pláta|m}}
@@ -295,51 +321,103 @@ From {{etyl|fro|en}} {{m|fro|plate}}, from {{etyl|ML.|en}} {{m|la|plata|}}, from
 * Spanish: {{t+|es|placa|f}}
 {{trans-bottom}}
 
-{{trans-top|(construction) horizontal framing member at the top or bottom of a group of vertical studs}}
+{{trans-top|construction: horizontal framing member}}
+* Finnish: {{t|fi|laatta}}
 * Macedonian: {{t|mk|плоча|f|sc=Cyrl}}
-* Maori: {{t|mi|paetara}}
 {{trans-mid}}
+* Maori: {{t|mi|paetara}}
 * Russian: {{t+|ru|плита́|f}}
 {{trans-bottom}}
 
-{{trans-top|(Cockney rhyming slang) foot}}
-{{trans-mid}}
-{{trans-bottom}}
+{{trans-see|Cockney rhyming slang: foot|foot}}
 
-{{trans-see|(baseball) home plate|home plate}}
+{{trans-see|baseball: home plate|home plate}}
 
-{{trans-see|(geology) tectonic plate|tectonic plate}}
+{{trans-see|geology: tectonic plate|tectonic plate}}
 
-{{trans-top|(historical) plate armour}}
+{{trans-top|historical: plate armour}}
+* Finnish: {{t|fi|haarniska}}
 * French: {{t|fr|armure de plates|f}}
 {{trans-mid}}
 * Spanish: {{t+|es|armadura|f}}
 {{trans-bottom}}
 
-{{trans-top|(herpetology) reptilian scale}}
+{{trans-top|herpetology: large reptilian scale}}
+* Finnish: {{t|fi|suomu}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|(engineering, electricity) electrode}}
+{{trans-top|flat electrode}}
+* Finnish: {{t|fi|levy}}
 * French: {{t+|fr|plaque|f}}
 {{trans-mid}}
 * Romanian: {{t+|ro|placă|f}}
 * Spanish: {{t+|es|placa|f}}
 {{trans-bottom}}
 
-{{trans-top|(engineering, electricity) anode of vacuum tube}}
+{{trans-top|anode of vacuum tube}}
+* Finnish: {{t|fi|anodi}}
 * Romanian: {{t+|ro|anod|m}}
-* Russian: {{t+|ru|ано́д|m}}
 {{trans-mid}}
+* Russian: {{t+|ru|ано́д|m}}
 * Swedish: {{t+|sv|anod|c}}
 {{trans-bottom}}
 
-{{trans-top|(chemistry) flat piece of material like glass}}
+{{trans-top|silver coin}}
+* Finnish: {{t|fi|hopearaha}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|heraldic charge: roundel of silver}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|prize given to the winner in a contest|prize}}
+
+{{trans-top|chemistry: flat piece of material}}
+* Finnish: {{t|fi|levy}}
 * French: {{t+|fr|plaque|f}}
 * Italian: {{t+|it|piastra}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|placa}}, {{t+|pt|chapa|f}}
 * Spanish: {{t+|es|placa|f}}
+{{trans-bottom}}
+
+{{trans-top|aviation, dated: metallic card, used to imprint tickets with an airline's logo}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|aviation: ability of a travel agent to issue tickets on behalf of a particular airline}}
+* Finnish: {{t|fi|lipunkirjoitusoikeus}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|VIN plate}}
+* Finnish: {{t|fi|VIN-[[kilpi]]}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|one of the thin parts of the brisket of an animal}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|very light steel horseshoe}}
+* Finnish: {{t|fi|ravikenkä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|skins sewn together for fur lining}}
+* Finnish: {{t|fi|turkislevy}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|hat-making: fine nap on a hat made from inferior material}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|music: record}}
+* Finnish: {{t|fi|levy}}; {{t|fi|lätty}} {{qualifier|slang}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
