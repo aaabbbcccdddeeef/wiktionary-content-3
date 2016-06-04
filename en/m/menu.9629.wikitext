@@ -293,7 +293,7 @@
 ==French==
 
 ===Etymology===
-From {{etyl|la|fr}} {{m|la|minutus||minute, tiny}}.
+From {{inh|fr|frm|menu}}, from {{inh|fr|fro|menu}}, from {{inh|fr|la|minūtus||minute, tiny}}. {{doublet|lang=fr|minute}}.
 
 ===Pronunciation===
 * {{audio|Fr-menu.ogg|audio|lang=fr}}
@@ -351,7 +351,7 @@ From {{etyl|la|fr}} {{m|la|minutus||minute, tiny}}.
 ==Middle French==
 
 ===Etymology===
-{{etyl|fro|frm}} {{m|fro|menu}}.
+From {{inh|frm|fro|menu}}.
 
 ===Adjective===
 {{frm-adj}}
@@ -362,12 +362,14 @@ From {{etyl|la|fr}} {{m|la|minutus||minute, tiny}}.
 * {{l|frm|grand}}
 * {{l|frm|gross}}
 
+====Descendants====
+* French: {{l|fr|menu}}
 ----
 
 ==Old French==
 
 ===Etymology===
-From {{etyl|la|fro}} {{m|la|minutus}}.
+From {{inh|fro|la|minūtus}}.
 
 ===Adjective===
 {{head|fro|adjective|g=m|feminine|menue|or|menude}}
@@ -377,6 +379,10 @@ From {{etyl|la|fro}} {{m|la|minutus}}.
 
 ====Declension====
 {{fro-decl-adj|ssm=[[menus]], [[menuz]]|opm=[[menus]], [[menuz]]|ssf=[[menue]], [[menude]]|osf=[[menue]], [[menude]]|spf=[[menues]], [[menudes]]|opf=[[menues]], [[menudes]]}}
+
+====Descendants====
+* Middle French: {{l|frm|menu}}
+** French: {{l|fr|menu}}
 
 ===References===
 * {{R:Godefroy}}
@@ -402,7 +408,7 @@ From {{etyl|la|fro}} {{m|la|minutus}}.
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|fr|pt}} {{m|fr|menu}}.
+{{bor|pt|fr|menu}}.
 
 ===Pronunciation===
 * {{a|Portugal}} {{IPA|/mɨ.ˈnu/|/mɛ.ˈnu/|lang=pt}}
