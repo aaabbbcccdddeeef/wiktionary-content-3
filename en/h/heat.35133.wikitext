@@ -8,7 +8,7 @@
 * {{rhymes|iːt|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|hete}}, from {{etyl|ang|en}} {{m|ang|hǣte}}, {{m|ang|hǣtu||heat, warmth; fervor, ardor}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*haitį̄||heat}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*kÀit-||heat; hot}}. Cognate with {{etyl|sco|-}} {{m|sco|hete||heat}}, {{etyl|frr|-}} {{m|frr|hiet||heat}}, {{etyl|goh|-}} {{m|goh|heizī||heat}}. Related also to {{etyl|nl|-}} {{m|nl|hitte||heat}}, {{etyl|de|-}} {{m|de|Hitze||heat}}, {{etyl|sv|-}} {{m|sv|hetta||heat}}, {{etyl|is|-}} {{m|is|hita||heat}}.
+From {{inh|en|enm|hete}}, from {{inh|en|ang|hǣte}}, {{m|ang|hǣtu||heat, warmth; fervor, ardor}}, from {{inh|en|gem-pro|*haitį̄||heat}}, from {{der|en|ine-pro|*kayd-}}, a derived form of {{m|ine-pro|*kay-||heat; hot}}. Cognate with {{cog|sco|hete||heat}}, {{cog|frr|hiet||heat}}, {{cog|goh|heizī||heat}}. Related also to {{cog|nl|hitte||heat}}, {{cog|de|Hitze||heat}}, {{cog|sv|hetta||heat}}, {{cog|is|hita||heat}}.
 
 ====Noun====
 {{en-noun|~}}
@@ -53,26 +53,26 @@ From {{etyl|enm|en}} {{m|enm|hete}}, from {{etyl|ang|en}} {{m|ang|hǣte}}, {{m|a
 #: {{ux|en|During the power outage we had no '''heat''' because the controls are electric.&nbsp;&nbsp; Older folks like more '''heat''' than the young.}}
 
 =====Derived terms=====
-{{rel-top|terms derived from ''heat (noun)''}}
-* {{l|en|heat capacity}}
-* {{l|en|heat death}}
-* {{l|en|heat engine}}
-* {{l|en|heat exchanger}}
-* {{l|en|heat lamp}}
-* {{l|en|heatproof}}
-* {{l|en|heat pump}}
-* {{l|en|heat rash}}
-* {{l|en|heat}}-[[resistant]]
-{{rel-mid}}
-* {{l|en|heat-seeking}}
-* {{l|en|heat shield}}
-* {{l|en|heat sink}}
-* {{l|en|heatstroke}}
-* {{l|en|heat treatment}}
-* {{l|en|heatwave}}
-* {{l|en|in heat}}
-* {{l|en|on heat}}
-{{rel-bottom}}
+{{der3|lang=en<!--
+-->|more heat than light<!--
+-->|heat capacity<!--
+-->|heat death<!--
+-->|heat engine<!--
+-->|heat exchanger<!--
+-->|heat lamp<!--
+-->|heatproof<!--
+-->|heat pump<!--
+-->|heat rash<!--
+-->|heat-resistant<!--
+-->|heat-seeking<!--
+-->|heat shield<!--
+-->|heat sink<!--
+-->|heatstroke<!--
+-->|heat treatment<!--
+-->|heatwave<!--
+-->|in heat<!--
+-->|on heat<!--
+-->}}
 
 =====Translations=====
 {{trans-top|thermal energy}}
@@ -309,7 +309,7 @@ From {{etyl|enm|en}} {{m|enm|hete}}, from {{etyl|ang|en}} {{m|ang|hǣte}}, {{m|a
 * French: {{t+|fr|chaleur|f}}
 * German: {{t+|de|Hitze|f}}
 * Hebrew: {{t|he|גל חום|m|tr=gal khóm}}
-* Hindi: {{t+|hi|गरमी|f|tr=garmī|sc=Deva}}
+* Hindi: {{t+|hi|गरमी|f}}
 * Hungarian: {{t+|hu|hőség}}
 * Irish: {{t|ga|teas|m}}
 {{trans-mid}}
