@@ -3,7 +3,7 @@
 {{wikipedia|lang=en}}
 
 ===Etymology===
-From {{etyl|fro|en}} {{m|fro|baron}}, {{etyl|LL.|en}} {{m|la|baro|barō, barōnem}} (not to be confused with classical ''bārō, bārōnem'' "simpleton"). Used in early Germanic law in the sense of ''homō'', especially "man, servant, follower, warrior" (also as ''barus''). It is presumably of {{etyl|frk|en}} origin, from a Germanic word meaning "servant; man, warrior", possibly cognate with Old English {{m|ang|beorn}}, perhaps originally {{m|gem-pro|*barô||carrier}}. A Celtic origin has also been suggested, due to the occurrence of a Latin {{m|la|barones}} meaning ''servos militum'' as early as the first century (Cornutus, ''On Persius' Fifth Satire''). OED takes this hypothetical Celtic {{m|cel-pro|*bar-||hero}} to be a figment.
+{{bor|en|fro|baron}}, {{der|en|ML.|baro|barō, barōnem}} (not to be confused with classical ''bārō, bārōnem'' "simpleton"). Used in early Germanic law in the sense of ''homō'', especially "man, servant, follower, warrior" (also as ''barus''). It is presumably of {{der|en|frk}} origin, from a Germanic word meaning "servant; man, warrior", possibly cognate with Old English {{m|ang|beorn}}, perhaps originally {{m|gem-pro|*barô||carrier}}. A Celtic origin has also been suggested, due to the occurrence of a Latin {{m|la|barones}} meaning ''servos militum'' as early as the first century (Cornutus, ''On Persius' Fifth Satire''). OED takes this hypothetical Celtic {{m|cel-pro|*bar-||hero}} to be a figment.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈbæɹən/|lang=en}}
@@ -118,7 +118,7 @@ Readjustment from earlier {{m|nl|baroen}} through French influence, from {{inh|n
 ==French==
 
 ===Etymology===
-From {{etyl|frm|fr}}, from {{etyl|fro|fr}} {{m|fro|baron}}, from {{etyl|LL.|fr}} or {{etyl|ML.|fr}} {{m|la|baro|barō, barōnem}}, probably of {{etyl|frk|fr}} or {{etyl|gem|fr}} origin.
+From {{inh|fr|frm|baron}}, from {{inh|fr|fro|baron}}, from or corresponding to {{der|fr|LL.}} or {{der|fr|LL.|baro|barō, barōnem}}, probably of {{der|fr|frk}} or other {{der|fr|gem}} origin; alternatively, of ultimately Celtic origin.
 
 ===Pronunciation===
 * {{audio|Fr-baron.ogg|Audio|lang=fr}}
@@ -141,7 +141,7 @@ From {{etyl|frm|fr}}, from {{etyl|fro|fr}} {{m|fro|baron}}, from {{etyl|LL.|fr}}
 ==Middle French==
 
 ===Etymology===
-{{inh|frm|fro|baron}}.
+From {{inh|frm|fro|baron}}.
 
 ===Noun===
 {{frm-noun|m}}
@@ -165,7 +165,7 @@ From {{etyl|frm|fr}}, from {{etyl|fro|fr}} {{m|fro|baron}}, from {{etyl|LL.|fr}}
 ==Old French==
 
 ===Etymology===
-From {{der|fro|ML.|bārōnem}}, accusative singular of {{m|la|bārō}}, probably of {{der|fro|frk}} or other {{der|fro|gem}} origin. The nominative form {{m|fro|ber}} derives from the nominative {{m|la|barō}}.
+From or corresponding to {{der|fro|ML.|bārōnem}}, accusative singular of {{m|la|bārō}}, probably of {{der|fro|frk}} or other {{der|fro|gem}} origin; alternatively, ultimately of Celtic origin. The nominative form {{m|fro|ber}} corresponds to the nominative {{m|la|barō}}.
 
 ===Noun===
 {{fro-noun|m|barons|ber|baron}}
@@ -178,7 +178,8 @@ From {{der|fro|ML.|bārōnem}}, accusative singular of {{m|la|bārō}}, probably
 
 ====Descendants====
 * English: {{l|en|baron}}
-* French: {{l|fr|baron}} (rare)
+* Middle French: {{l|frm|baron}}
+** French: {{l|fr|baron}} (rare)
 * Norman: {{l|nrf|bâron}}
 
 [[Category:fro:Occupations]]
