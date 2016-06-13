@@ -166,7 +166,7 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf||life, existence;
 * Bashkir: {{t|ba|тормош|sc=Cyrl}}
 * Basque: {{t|eu|bizi}}
 * Belarusian: {{t|be|жыццё|n|sc=Cyrl}}, {{qualifier|Taraškievica}} {{t|be|жыцьцё|n|sc=Cyrl}}
-* Bengali: {{t|bn|জীবন|tr=jibôn|sc=Beng}}
+* Bengali: {{t+|bn|জীবন|tr=jibôn|sc=Beng}}
 * Berber:
 *: Tashelhit: {{t|shi|tudrt|f}}
 * Breton: {{t+|br|buhez|f}}
@@ -207,7 +207,7 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf||life, existence;
 * Gujarati: {{t|gu|જીવન|tr=jīvan|sc=Gujr}}
 * Hawaiian: {{t|haw|ola}}
 * Hebrew: {{t+|he|חיים|m-p|tr=khayím}}
-* Hindi: {{t|hi|ज़िंदगी|f|tr=zindagī|sc=Deva}}, {{t+|hi|जीवन|m|tr=jīvan|sc=Deva}}, {{t|hi|हयात|f|tr=hayāt|sc=Deva}}, {{t|hi|जी|m|tr=jī|sc=Deva}}, {{t|hi|प्राण|f|tr=prāṇ|sc=Deva}}
+* Hindi: {{t|hi|ज़िंदगी|f|tr=zindagī|sc=Deva}}, {{t+|hi|जीवन|m|tr=jīvan|sc=Deva}}, {{t+|hi|हयात|f|tr=hayāt|sc=Deva}}, {{t+|hi|जी|m|tr=jī|sc=Deva}}, {{t+|hi|प्राण|f|tr=prāṇ|sc=Deva}}
 * Hopi: {{t|hop|qatsi}}
 * Hungarian: {{t+|hu|élet}}
 * Icelandic: {{t+|is|líf|n}}
@@ -265,7 +265,7 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf||life, existence;
 * Romanian: {{t+|ro|viață|f}}
 * Russian: {{t+|ru|жизнь|f}}, {{t+|ru|житие́|f}} {{qualifier|archaic, poetic}}, {{t+|ru|живо́т|m}} {{qualifier|archaic, poetic, now means "belly"}}
 * Rusyn: {{t|rue|жыво́т|m}}
-* Sanskrit: {{t|sa|जीवन|tr=jīvana|sc=Deva}}, {{t|sa|जीवित|n|tr=jīvitá|sc=Deva}}
+* Sanskrit: {{t+|sa|जीवन|tr=jīvana|sc=Deva}}, {{t+|sa|जीवित|n|tr=jīvitá|sc=Deva}}
 * Santali: {{t|sat|ᱪᱳᱞᱚ|tr=cola|sc=Olck}}
 * Sardinian: {{t|sc|bida|f}}, {{t|sc|vida|f}}
 *: Campidanese: {{t|sc|vida|f}}
@@ -372,7 +372,7 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf||life, existence;
 * Greek: {{t+|el|ζωή|f}}
 * Hawaiian: {{t|haw|ola}}
 * Hebrew: {{t+|he|חיים|m-p|tr=ħayim}}
-* Hindi: {{t|hi|जी}}, {{t|hi|जान}}, {{t|hi|प्राण}}<!--ref Oxf. H-E Dict.-->
+* Hindi: {{t+|hi|जी}}, {{t+|hi|जान}}, {{t+|hi|प्राण}}<!--ref Oxf. H-E Dict.-->
 * Hopi: {{t|hop|qatsi}}
 * Irish: {{t|ga|beatha|f}}
 * Italian: {{t+|it|vita|f}}
@@ -413,7 +413,7 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf||life, existence;
 * German: {{t+|de|Leben|n}}
 * Greek: {{t+|el|ζωή|f}}
 * Hebrew: {{t+|he|חיים|m-p|tr=ħayim}}
-* Hindi: {{t|hi|जी}}, {{t|hi|जान}}, {{t|hi|प्राण}}<!--ref Oxf. H-E Dict.-->
+* Hindi: {{t+|hi|जी}}, {{t+|hi|जान}}, {{t+|hi|प्राण}}<!--ref Oxf. H-E Dict.-->
 * Hopi: {{t|hop|qatsi}}
 * Latin: {{t+|la|vita}}
 * Macedonian: {{t|mk|живот|m}}
@@ -516,7 +516,7 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf||life, existence;
 {{trans-bottom}}
 
 {{trans-top|life sentence}}
-* Armenian: {{t|hy|ցմահ}}
+* Armenian: {{t+|hy|ցմահ}}
 * Catalan: {{t+|ca|vida|f}}
 * Czech: {{t|cs|doživotí|n}}
 * Danish: {{t|da|livstid|c}}
