@@ -134,9 +134,9 @@ From {{etyl|xno|en}} {{m|fro|paper}}, from {{etyl|fro|en}} {{m|fro|papier}}, fro
 * Abkhaz: {{t|ab|aқьаад|sc=Cyrl}}
 * Afrikaans: {{t+|af|papier}}
 * Ainu: {{t|ain|カㇺビ|tr=kambi}}
-* Albanian: {{t|sq|letër}}, {{t|sq|kartë}}
+* Albanian: {{t+|sq|letër}}, {{t+|sq|kartë}}
 * Amharic: {{t|am|ወረቀት|sc=Ethi}}
-* Arabic: {{t|ar|وَرَق|f}}, {{t|ar|قِرْطَاس|m}}, {{t|ar|كَاغِد|m}}
+* Arabic: {{t+|ar|وَرَق|f}}, {{t|ar|قِرْطَاس|m}}, {{t|ar|كَاغِد|m}}
 *: Egyptian Arabic: {{t|arz|ورق|m|tr=wáraʾ|sc=Arab}}
 *: Moroccan Arabic: {{t|ary|كاغط|tr=káḡiṭ}}
 * Armenian: {{t+|hy|թուղթ}}
@@ -161,7 +161,7 @@ From {{etyl|xno|en}} {{m|fro|paper}}, from {{etyl|fro|en}} {{m|fro|papier}}, fro
 * Crimean Tatar: {{t|crh|kâğıt}}
 * Czech: {{t+|cs|papír|m}}
 * Danish: {{t+|da|papir}}
-* Dhivehi: {{t|dv|ކަރުދާސް|sc=Thaa}}
+* Dhivehi: {{t+|dv|ކަރުދާސް|sc=Thaa}}
 * Dutch: {{t+|nl|papier|n}}
 * East Futuna: {{t|fud|pepa}}
 * Erzya: {{t|myv|конёв}}
@@ -218,7 +218,7 @@ From {{etyl|xno|en}} {{m|fro|paper}}, from {{etyl|fro|en}} {{m|fro|papier}}, fro
 * Maori: {{t|mi|pepa}}
 * Marathi: {{t|mr|कागद|tr=kāgad}}
 * Mingrelian: {{t|xmf|ქაღარდი}}, {{t|xmf|ქარღადი}}
-* Mongolian: {{t|mn|цаас|sc=Cyrl}}
+* Mongolian: {{t+|mn|цаас|sc=Cyrl}}
 * Nahuatl: {{t+|nah|amatl}}
 * Nepali: {{t|ne|कागज|tr=kāgaja|sc=Deva}}
 * Nogai: {{t|nog|кагыт}}
@@ -227,7 +227,7 @@ From {{etyl|xno|en}} {{m|fro|paper}}, from {{etyl|fro|en}} {{m|fro|papier}}, fro
 * Novial: {{t|nov|papere}}
 * Occitan: {{t+|oc|papièr|m}}
 * Old English: {{t+|ang|leaf|n}}
-* Oriya: {{t|or|ପେପର୍|tr=pēpar|sc=Orya}}
+* Oriya: {{t+|or|ପେପର୍|tr=pēpar|sc=Orya}}
 * Ossetian: {{t|os|гӕххӕтт|sc=Cyrl}}, {{t|os|гӕгъӕди}}
 * Ottoman Turkish: {{t|ota|كاغذ|tr=kâgaz|sc=ota-Arab}}
 * Palauan: {{t|pau|babier}}
@@ -249,7 +249,7 @@ From {{etyl|xno|en}} {{m|fro|paper}}, from {{etyl|fro|en}} {{m|fro|papier}}, fro
 * Sinhalese: {{t+|si|කඩදාසිය|sc=Sinh}}
 * Slovak: {{t|sk|papier|m}}
 * Slovene: {{t+|sl|papír|m}}
-* Somali: {{t|so|xaansho|f}}, {{t|so|warqad|f}}, {{t|so|qardaas|m}}
+* Somali: {{t|so|xaansho|f}}, {{t+|so|warqad|f}}, {{t|so|qardaas|m}}
 * Southern Altai: {{t|alt|чаазын|tr=çaazın}}
 * Southern Thai: {{t-needed|sou}}
 * Spanish: {{t+|es|papel|m}}
@@ -258,7 +258,7 @@ From {{etyl|xno|en}} {{m|fro|paper}}, from {{etyl|fro|en}} {{m|fro|papier}}, fro
 * Swedish: {{t+|sv|papper|n}}
 * Tagalog: {{t+|tl|papel}}
 * Tahitian: {{t-needed|ty}}
-* Tajik: {{t|tg|коғаз}}
+* Tajik: {{t+|tg|коғаз}}
 * Tamil: {{t+|ta|காகிதம்}}
 * Tatar: {{t+|tt|кәгазь}}
 * Telugu: {{t+|te|కాగితము}}
@@ -294,7 +294,7 @@ From {{etyl|xno|en}} {{m|fro|paper}}, from {{etyl|fro|en}} {{m|fro|papier}}, fro
 {{trans-see|wrapping paper}}
 
 {{trans-top|open hand in the game of rock, paper and scissors}}
-* Finnish: {{t|fi|paperi}}
+* Finnish: {{t+|fi|paperi}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -303,7 +303,7 @@ From {{etyl|xno|en}} {{m|fro|paper}}, from {{etyl|fro|en}} {{m|fro|papier}}, fro
 * Bulgarian: {{t+|bg|документ|m}}, {{t+|bg|статия|f}}
 * Catalan: {{t+|ca|article|m}}
 * Czech: {{qualifier|scientific}} {{t+|cs|článek|m}}
-* Dutch: {{t+|nl|document|n}}, {{t+|nl|werk|n}}, {{t|nl|eindwerk|n}}
+* Dutch: {{t+|nl|document|n}}, {{t+|nl|werk|n}}, {{t+|nl|eindwerk|n}}
 * Finnish: {{t|fi|raportti}}
 * German: {{t+|de|Papier|n}}, {{t+|de|Dokument|n}}
 * Greek: {{t+|el|έγγραφο|n}}
@@ -344,18 +344,18 @@ From {{etyl|xno|en}} {{m|fro|paper}}, from {{etyl|fro|en}} {{m|fro|papier}}, fro
 {{trans-bottom}}
 
 {{trans-top|scholastic essay}}
-* Finnish: {{t|fi|aine}}, {{t|fi|tutkielma}}
+* Finnish: {{t+|fi|aine}}, {{t+|fi|tutkielma}}
 {{trans-mid}}
 * French: {{t+|fr|rédaction|f}}
 {{trans-bottom}}
 
 {{trans-top|slang: money}}
-* Finnish: {{t|fi|tuohi}}
+* Finnish: {{t+|fi|tuohi}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|university course}}
-* Finnish: {{t|fi|kurssi}}
+* Finnish: {{t+|fi|kurssi}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -365,7 +365,7 @@ From {{etyl|xno|en}} {{m|fro|paper}}, from {{etyl|fro|en}} {{m|fro|papier}}, fro
 {{trans-bottom}}
 
 {{trans-top|medicinal preparation}}
-* Finnish: {{t|fi|paperi}}
+* Finnish: {{t+|fi|paperi}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -399,7 +399,7 @@ From {{etyl|xno|en}} {{m|fro|paper}}, from {{etyl|fro|en}} {{m|fro|papier}}, fro
 {{trans-mid}}
 * Icelandic: {{t|is|pappírs-}}, {{t|is|pappa-}}
 * Indonesian: {{t|id|[[dari]] [[bahan]] [[kertas]]}}
-* Italian: di {{t+|it|carta}}, {{t|it|cartaceo}}
+* Italian: di {{t+|it|carta}}, {{t+|it|cartaceo}}
 * Malay: {{t|ms|kertas}}
 * Norwegian: {{t+|no|papir}}
 * Persian: {{t+|fa|کاغذی|tr=kâğazi|sc=fa-Arab}}
