@@ -15,33 +15,48 @@
 From {{inh|ga|sga|cell}}, from {{der|ga|la|cella}}.
 
 ===Noun===
-{{ga-noun|cille|cealla|g=f}}
+{{ga-noun|g=f|cille|cealla}}
 
-# {{label|ga|biology}} [[cell]]
+# {{lb|ga|historical}} [[church]]
 # [[churchyard]]
+# {{lb|ga|Christianity|biology|electricity}} [[cell]]
 
 ====Declension====
 {{ga-decl-f2|c|ill|ille|pl=ealla|genpl=eall}}
 
 ====Derived terms====
-* {{l|ga|aerchill|g=f||air cell}}
-* {{l|ga|aoncheallach}}
-* {{l|ga|Cill Chainnigh||Kilkenny}}
-* {{l|ga|cillín}}
-* {{l|ga|eachtarcheallach|pos=adj||extracellular}}
-* {{l|ga|fótaichill}}
+{{der3
+|{{l|ga|aerchill|g=f||air cell}}
+|{{l|ga|aoncheallach|pos=a||unicellular, single celled}}
+|{{l|ga|Cill Chainnigh||Kilkenny}}
+|{{l|ga|cillín|g=m||cell; hoard, nest-egg}}
+|{{l|ga|eachtarcheallach|pos=a||extracellular}}
+|{{l|ga|fótaichill||photocell}}
+|{{l|ga|cill chriathrach||[[sieve cell]]}}
+|{{l|ga|cill shómach||somatic cell}}
+|{{l|ga|cill thirim||[[dry cell]]}}
+|{{l|ga|cloch-chill||stone cell}}
+|{{l|ga|taisc-chill||[[storage cell]]}}
+|{{l|ga|cillscannán|g=m||cell membrane}}
+|{{l|ga|cilldeighilt|g=f||cell division}}
+|{{l|ga|cillsú|g=m||[[cell sap]]}}
+}}
 
 ===Mutation===
 {{ga-mut-cons|c|ill}}
 
-[[Category:ga:Burial]]
+===References===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|8562|head=cell}}
+
+{{topics|ga|Burial}}
 
 ----
 
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{etyl|sga|gd}} {{m|sga|cell}}, from {{etyl|la|gd}} {{m|la|cella}}.
+From {{inh|gd|sga|cell}}, from {{der|gd|la|cella}}.
 
 ===Pronunciation===
 * {{IPA|[kʲiːʎ]|lang=gd}}
@@ -53,6 +68,12 @@ From {{etyl|sga|gd}} {{m|sga|cell}}, from {{etyl|la|gd}} {{m|la|cella}}.
 # [[chapel]]
 # [[churchyard]]
 # [[burial ground]]
+
+===References===
+* {{R:Dwelly}}
+* {{R:DIL|8562|head=cell}}
+
+{{topics|gd|Burial}}
 
 [[et:cill]]
 [[fr:cill]]
