@@ -14,7 +14,7 @@
 ==Irish==
 
 ===Etymology 1===
-From {{etyl|sga|ga}} {{m|sga|es}}, {{m|sga|ess||cataract, rapid, rapidly flowing stream}}.
+From {{inh|ga|sga|es}}, {{m|sga|ess||cataract, rapid, rapidly flowing stream}}.
 
 ====Noun====
 {{ga-noun|g=m|easa|easanna}}
@@ -27,18 +27,21 @@ From {{etyl|sga|ga}} {{m|sga|es}}, {{m|sga|ess||cataract, rapid, rapidly flowing
 [[Category:ga:Water]]
 
 ===Etymology 2===
-From {{etyl|sga|ga}} {{m|sga|es||stoat, weasel}}.
+From {{inh|ga|mga|es||stoat, weasel}}.
 
 ====Noun====
 {{ga-noun|g=f|easa|easa}}
 
-# {{alternative form of|easóg|lang=ga}}
+# [[stoat]], [[weasel]]
 
 =====Declension=====
 {{ga-decl-f-irreg|e|as|asa|asa|as}}
 
+=====Derived terms=====
+* {{l|ga|easóg}}
+
 ===Mutation===
-{{ga mut vowel}}
+{{ga-mut-vowel}}
 
 [[Category:ga:Mustelids]]
 
