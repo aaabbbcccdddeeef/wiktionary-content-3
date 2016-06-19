@@ -9,6 +9,9 @@
 
 ==Irish==
 
+===Alternative forms===
+* {{l|ga|Beáltaine}}
+
 ===Etymology===
 From {{inh|ga|sga|Beltaine}}.
 
@@ -16,7 +19,7 @@ From {{inh|ga|sga|Beltaine}}.
 * {{IPA|/ˈbʲal̪ˠt̪ˠənʲə/|lang=ga}}
 
 ===Proper noun===
-{{ga-proper noun|Bealtaine|g=f}}
+{{ga-proper noun|g=f|Bealtaine}}
 
 # [[May]] {{gloss|month}}
 # [[Beltane]]
@@ -28,11 +31,27 @@ From {{inh|ga|sga|Beltaine}}.
 * Used with the word {{m|ga|mí||month}}, but may be used alone:
 *: {{ux|ga|mí na '''Bealtaine'''|month of May|inline=1}}
 
-===Mutation===
-{{ga-mut-cons|B|ealtaine}}
+====Derived terms====
+{{der3
+|{{l|ga|Lá Bealtaine||May Day}}
+|{{l|ga|Oíche Bhealtaine||eve of May Day}}
+|{{l|ga|idir dhá thine Bhealtaine||in a dilemma}}
+|{{l|ga|bearnán Bealtaine||marsh marigold}}
+|{{l|ga|bláth bán na Bealtaine||hawthorn blossom}}
+|{{l|ga|cuil Bhealtaine||may-fly}}
+|{{l|ga|lus buí Bealtaine||marsh marigold}}
+|{{l|ga|oíche Lae Bealtaine||May-Day night}}
+|{{l|ga|(Lá) [[Sean-Bhealtaine]]}}, {{l|ga|Seanlá Bealtaine||old-style May Day, 12th May}}
+}}
 
 ===See also===
 * {{list:Gregorian calendar months/ga}}
+
+===Mutation===
+{{ga-mut-cons|B|ealtaine}}
+
+===References===
+* {{R:ga:Ó Dónaill}}
 
 {{topics|ga|Calendar terms|Months}}
 
