@@ -49,18 +49,25 @@ From {{etyl|ang|en}} {{m|ang|linke|}}, probably from {{etyl|non|en}} {{m|non|*hl
 =====Holonyms=====
 * {{l|en|chain}}
 
-=====Derived terms=====
-{{hyp4|title=connection: Hyponyms of ''link''
-| [[cufflink]]
-| [[hyperlink]]
-| [[linkage]]
-| [[link farm]]
-| [[missing link]]
-| [[OpenLink]]
+====Hyponyms====
+{{hyp4
+| {{l|en|backlink}}
+| {{l|en|hyperlink}}
+| {{l|en|missing link}}
+| {{l|en|sausage link}}
 }}
-* {{sense|element of a chain}} {{l|en|sausage link}}
-* {{l|en|link-up}}
-* {{l|en|chainlink}}
+
+=====Derived terms=====
+{{der4
+| {{l|en|chainlink}}
+| {{l|en|cufflink}}
+| {{l|en|link-up}}
+| {{l|en|linkage}}
+| {{l|en|OpenLink}}
+}}
+
+====Related terms====
+* {{l|en|link farm}}
 
 =====Translations=====
 {{trans-top|connection}}
