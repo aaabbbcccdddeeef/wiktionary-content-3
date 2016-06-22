@@ -7,7 +7,7 @@
 * {{rhymes|ɪə(ɹ)|lang=en}}
 
 ===Etymology===
-From {{etyl|frm|en}} ''[[#Adjective 2|premier]]'' (as an adjective), from {{etyl|la|en}} {{m|la|prīmārius}}.
+{{bor|en|frm}} ''[[#Adjective 2|premier]]'' (as an adjective), from {{der|en|la|prīmārius}}.
 
 ===Adjective===
 {{en-adj|-}}
@@ -140,7 +140,7 @@ Often capitalised, especially when used as a title. In British English, {{m|en|p
 * {{qualifier|abbreviation|after names}} [[I]]
 
 ===Etymology===
-From {{etyl|la|fr}} {{m|la|prīmārius}}.
+From {{inh|fr|frm|premier}}, from {{inh|fr|fro|premier}}, from {{inh|fr|la|prīmārius}}.
 
 ===Pronunciation===
 * {{audio|Fr-premier.ogg|audio|lang=fr}}
@@ -207,7 +207,7 @@ From {{etyl|la|fr}} {{m|la|prīmārius}}.
 ==Italian==
 
 ===Etymology===
-{{etyl|en|it}}
+{{bor|it|en|premier}} or {{bor|it|fr|premier|notext=1}}.
 
 ===Noun===
 {{head|it|noun|g=m|g2=f|invariable}}
@@ -222,13 +222,15 @@ From {{etyl|la|fr}} {{m|la|prīmārius}}.
 ==Middle French==
 
 ===Etymology===
-{{etyl|fro|frm}}, from {{etyl|la|frm}} {{m|la|primarius}}.
+From {{inh|frm|fro|premier}}, from {{inh|frm|la|primarius}}.
 
 ===Adjective===
 {{frm-adj}}
 
 # {{label|frm|ordinal}} [[first]] {{gloss|ordinal number}}
 
+====Descendants====
+* French: {{l|fr|premier}}
 ----
 
 ==Norwegian Bokmål==
@@ -246,7 +248,7 @@ From {{etyl|la|fr}} {{m|la|prīmārius}}.
 * {{l|fro|primer}}
 
 ===Etymology===
-From {{etyl|la|fro}} {{m|la|primarius}}.
+From {{inh|fro|la|prīmārius}}.
 
 ===Adjective===
 {{head|fro|adjective|g=m|feminine|premiere}}
@@ -271,8 +273,9 @@ From {{etyl|la|fro}} {{m|la|primarius}}.
 #: {{ux|fro|saver ke le tenant fut le '''primer''' ke entra|t=to know that the tenant was the first who entered}}
 
 ====Descendants====
-* French: {{l|fr|premier}}
+* Middle French: {{l|frm|premier}}
 ** English: {{l|en|premier}}
+** French: {{l|fr|premier}}
 
 [[Category:Old French ordinal numbers]]
 
@@ -281,7 +284,7 @@ From {{etyl|la|fro}} {{m|la|primarius}}.
 ==Polish==
 
 ===Etymology===
-From {{etyl|fr|pl}} {{m|fr|premier||first}}
+{{bor|pl|fr|premier||first}}.
 
 ===Pronunciation===
 * {{IPA|[ˈprɛmʲɛr]|lang=pl}}
@@ -314,6 +317,9 @@ From {{etyl|fr|pl}} {{m|fr|premier||first}}
 ----
 
 ==Spanish==
+
+===Etymology===
+Cf. French and English {{m|en|premier}}.
 
 ===Noun===
 {{es-noun|mf|es}}
