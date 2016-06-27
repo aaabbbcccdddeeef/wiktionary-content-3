@@ -9,7 +9,7 @@
 * {{rhymes|ɪŋk|lang=en}}
 
 ===Etymology 1===
-From {{etyl|ang|en}} {{m|ang|linke|}}, probably from {{etyl|non|en}} {{m|non|*hlenkr}}, from {{etyl|gem-pro|en}}. Used in English since the 14th century.
+From {{inh|en|ang|linke}}, probably from {{der|en|non|*hlenkr}}, from {{der|en|gem-pro}}. Used in English since the 14th century.
 
 ====Noun====
 {{en-noun}}
@@ -122,7 +122,7 @@ From {{etyl|ang|en}} {{m|ang|linke|}}, probably from {{etyl|non|en}} {{m|non|*hl
 * Italian: {{t+|it|anello|m}}, {{t+|it|maglia|f}}
 * Latgalian: {{t|ltg|trūps|m}}, {{t|ltg|puosmys|m}}
 * Latvian: {{t|lv|posms|m}}
-* Macedonian: {{t|mk|алка|f|tr=álka}}
+* Macedonian: {{t|mk|а́лка|f}}
 * Norman: {{t|nrf|lian|m}} {{qualifier|Jersey}}
 * Persian: {{t+|fa|حلقه|tr=halghe}}
 * Polish: {{t+|pl|ogniwo|n}}
@@ -151,7 +151,7 @@ From {{etyl|ang|en}} {{m|ang|linke|}}, probably from {{etyl|non|en}} {{m|non|*hl
 
 {{trans-top|computing: hyperlink}}
 * Arabic: {{t|ar|رَابِط|m}}, {{t|ar|رَوَابِط|m-p|p}}
-* Bulgarian: {{t|bg|линк|m|tr=link|sc=Cyrl}}
+* Bulgarian: {{t|bg|линк|m}}
 * Catalan: {{t+|ca|enllaç|m}}, {{t+|ca|vincle|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|連結|sc=Hani}}, {{t+|cmn|连结|tr=liánjié|sc=Hani}}, {{t+|cmn|鏈接|sc=Hani}}, {{t+|cmn|链接|tr=liànjiē|sc=Hani}}
@@ -312,7 +312,7 @@ Origin unknown.
 {{wikipedia|lang=da}}
 
 ===Etymology===
-From {{etyl|en|da}} {{m|en|link}} (since 1995).
+{{bor|da|en|link}} (since 1995).
 
 ===Pronunciation===
 * {{IPA|/lenɡk/|[leŋɡ̊]|lang=da}}
@@ -351,7 +351,7 @@ From {{etyl|en|da}} {{m|en|link}} (since 1995).
 * {{l|nl|linkerd}}
 
 ===Etymology 2===
-From {{der|nl|en|link}}, only since late 20th century.
+{{bor|nl|en|link}}, only since late 20th century.
 
 ====Noun====
 {{nl-noun|m|-s|linkje}}
@@ -376,7 +376,7 @@ From {{der|nl|en|link}}, only since late 20th century.
 ==German==
 
 ===Etymology===
-From {{etyl|gmh|de}} {{m|gmh|linc}}, from {{etyl|goh|de}} {{m|goh|slinc}}. Compare {{etyl|ang|-}} {{m|ang|slincan||crawl}}.
+From {{inh|de|gmh|linc}}, from {{inh|de|goh|slinc}}. Compare {{cog|ang|slincan||crawl}}.
 
 ===Pronunciation===
 * {{IPA|/lɪŋk/|lang=de}}
@@ -401,7 +401,7 @@ From {{etyl|gmh|de}} {{m|gmh|linc}}, from {{etyl|goh|de}} {{m|goh|slinc}}. Compa
 * {{audio|Hu-link.ogg|Audio|lang=hu}}
 
 ===Etymology 1===
-From {{etyl|en|hu}} {{m|en|link}}. <ref name=link-hu>{{R:TotfalusiEty 2005}}</ref>
+{{bor|hu|en|link}}. <ref name=link-hu>{{R:TotfalusiEty 2005}}</ref>
 
 ====Noun====
 {{hu-noun|ek}}
@@ -412,13 +412,13 @@ From {{etyl|en|hu}} {{m|en|link}}. <ref name=link-hu>{{R:TotfalusiEty 2005}}</re
 {{hu-decl-ek|lin|k|et}}{{hu-pos-etek|link|j|jei}}
 
 ===Etymology 2===
-From {{etyl|yi|hu}} {{m|yi|לינק}}, {{etyl|de|hu}} {{m|de|link}} (both meaning "left, sinister").<ref name=link-hu/>
+{{bor|hu|yi|לינק}}, {{etyl|de|hu}} {{m|de|link}} (both meaning "left, sinister").<ref name=link-hu/>
 
 ====Adjective====
 {{hu-adj|ebb}}
 
 # {{label|hu|colloquial}} [[fishy]], [[shifty]] (dishonest, criminal, unreliable)
-#: '''''link''' alak'' - crook
+#: {{ux|hu|'''link''' alak|inline=1|crook}}
 
 ===References===
 <references/>
@@ -431,7 +431,7 @@ From {{etyl|yi|hu}} {{m|yi|לינק}}, {{etyl|de|hu}} {{m|de|link}} (both meanin
 {{wikipedia|lang=it}}
 
 ===Etymology===
-From {{etyl|en|it}} {{m|en|link}}.
+{{bor|it|en|link}}.
 
 ===Noun===
 {{head|it|noun|g=m|invariable}}
@@ -460,6 +460,9 @@ From {{etyl|en|it}} {{m|en|link}}.
 
 ==Polish==
 
+===Etymology===
+{{bor|pl|en|link}}.
+
 ===Pronunciation===
 * {{IPA|[lʲĩŋk]|lang=pl}}
 * {{audio|Pl-link.ogg|Audio|lang=pl}}
@@ -486,6 +489,9 @@ From {{etyl|en|it}} {{m|en|link}}.
 ----
 
 ==Portuguese==
+
+===Etymology===
+{{bor|pt|en|link}}.
 
 ===Noun===
 {{pt-noun|m|s}}
