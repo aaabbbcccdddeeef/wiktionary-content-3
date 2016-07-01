@@ -1,7 +1,7 @@
 ==English==
 {{wikipedia}}
 ===Etymology===
-From Latin {{m|la|supernaturalis}}, from {{m|la|super||above}} + {{m|la|natura||nature; that which we are born with}}, from {{m|la|natus||born}}, perfect passive participle of {{m|la|nasci||to be born}} + adjective suffix {{m|la|-alis}}.
+From {{der|en|la|supernātūrālis}}, from {{m|la|super||above}} + {{m|la|nātūra||nature; that which we are born with}}, from {{m|la|nātus||born}}, perfect passive participle of {{m|la|nāscī||to be born}} + adjective suffix {{m|la|-ālis}}.
 
 ===Pronunciation===
 * {{audio|en-us-supernatural.ogg|Audio (US)|lang=en}}
@@ -25,7 +25,7 @@ From Latin {{m|la|supernaturalis}}, from {{m|la|super||above}} + {{m|la|natura||
 {{trans-top|above nature}}
 * Albanian: {{t+|sq|mbinatyrshëm}}
 * Armenian: {{t+|hy|գերբնական}}
-* Belarusian: {{t|be|звышнатуральны|m|sc=Cyrl}}
+* Belarusian: {{t|be|звышнатуральны|m}}
 * Catalan: {{t+|ca|sobrenatural}}
 * Czech: {{t|cs|nadpřirozený}}
 * Dutch: {{t+|nl|bovennatuurlijk}}
@@ -50,7 +50,7 @@ From Latin {{m|la|supernaturalis}}, from {{m|la|super||above}} + {{m|la|natura||
 * Swahili: -si- -a dunia hii (ex: isiyo ya dunia hii) {{attention|sw}}
 * Tagalog: {{t|tl|higlikas}}
 * Welsh: {{t+|cy|goruwchnaturiol}}
-* Yiddish: {{t|yi|איבערנאַטירלעך|tr=ibernatirlekh}}
+* Yiddish: {{t|yi|איבערנאַטירלעך}}
 {{trans-bottom}}
 
 {{trans-top|not of the usual}}
@@ -68,32 +68,32 @@ From Latin {{m|la|supernaturalis}}, from {{m|la|super||above}} + {{m|la|natura||
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Serbo-Croatian: {{t+|sh|natprírodan}}, {{t+|sh|nadnárāvan}}
-* Danish: {{t|da|overnaturlig}}
-* Dutch: {{t+|nl|bovennatuurlijk}}
-* German: {{t+|de|übernatürlich}}
-* Estonian: {{t+|et|üleloomulik}}
-* Finnish: {{t|fi|yliluonnollinen}}
-* French: {{t+|fr|surnaturel}}, {{t+|fr|extraordinaire}}
-* Hungarian: [[természetfeletti]] (1), {{t+|hu|különös}}, [[rendkívüli]] (2)
-* Icelandic: {{t|is|yfirnáttúrleiki}}
-* Italian: {{t+|it|soprannaturale}}, {{t|it|sovrannaturale}}
+* Serbo-Croatian: {{t+check|sh|natprírodan}}, {{t+check|sh|nadnárāvan}}
+* Danish: {{t-check|da|overnaturlig}}
+* Dutch: {{t+check|nl|bovennatuurlijk}}
+* German: {{t+check|de|übernatürlich}}
+* Estonian: {{t+check|et|üleloomulik}}
+* Finnish: {{t-check|fi|yliluonnollinen}}
+* French: {{t+check|fr|surnaturel}}, {{t+check|fr|extraordinaire}}
+* Hungarian: {{t-check|hu|természetfeletti}} (1), {{t+check|hu|különös}}, {{t-check|hu|rendkívüli}} (2)
+* Icelandic: {{t-check|is|yfirnáttúrleiki}}
+* Italian: {{t+check|it|soprannaturale}}, {{t|it|sovrannaturale}}
 {{trans-mid}}
-* Latin: {{t|la|supernaturalis}}
-* Portuguese: {{t+|pt|sobrenatural}}
-* Romanian: {{t+|ro|supranatural}}
-* Scots: {{t|sco|supernaitural}}
-* Slovene: {{t+|sl|nadnaraven}}
-* Serbo-Croatian: {{t|sh|nadprirodan}}
-* Swedish: {{t+|sv|övernaturlig}}
-* Welsh: {{t+|cy|goruwchnaturiol}}
+* Latin: {{t-check|la|supernaturalis}}
+* Portuguese: {{t+check|pt|sobrenatural}}
+* Romanian: {{t+check|ro|supranatural}}
+* Scots: {{t-check|sco|supernaitural}}
+* Slovene: {{t+check|sl|nadnaraven}}
+* Serbo-Croatian: {{t-check|sh|nadprirodan}}
+* Swedish: {{t+check|sv|övernaturlig}}
+* Welsh: {{t+check|cy|goruwchnaturiol}}
 {{trans-bottom}}
 
 ===Noun===
 {{en-noun}}
 
-# {{label|en|countable}} A supernatural being.
-# {{label|en|uncountable}} Supernatural beings and events collectively. {{qualifier|When used with definite article: "the supernatural".}}
+# {{lb|en|countable}} A supernatural being.
+# {{lb|en|uncountable}} Supernatural beings and events collectively. {{qualifier|When used with definite article: "the supernatural".}}
 #* '''2012''', Blake Morrison, ''The Guardian'', [http://www.guardian.co.uk/books/2012/jul/20/blake-morrison-under-the-witches-spell?INTCMP=SRCH]:
 #*: Dr Johnson defended Shakespeare's use of '''the supernatural''' from the charge of implausibility on the grounds that, "The reality of witchcraft … has in all ages and countries been credited by the common people, and in most by the learned."
 
@@ -105,8 +105,13 @@ From Latin {{m|la|supernaturalis}}, from {{m|la|super||above}} + {{m|la|natura||
 {{trans-bottom}}
 
 [[Category:en:Parapsychology]]
+
 ----
+
 ==Spanish==
+
+===Etymology===
+From {{der|es|la|supernātūrālis}}.
 
 ===Adjective===
 {{es-adj|pl=supernaturales}}
