@@ -27,11 +27,11 @@ From {{etyl|fa|en}} {{m|fa|تهران||sc=fa-Arab|tr=Tehrân}}.
 *: Assyrian Neo-Aramaic: {{t|aii|ܛܗܪܢ|sc=Syrc}}
 * Armenian: {{t|hy|Թեհրան|sc=Armn}}
 * Belarusian: {{t|be|Тэгера́н|m|sc=Cyrl}}
-* Bengali: {{t|bn|তেহরান|tr=Tehrān|sc=Beng}}, {{t|bn|তেহ্রাণ|tr=Tehrāṇ|sc=Beng}}
+* Bengali: {{t|bn|তেহরান|sc=Beng}}, {{t|bn|তেহ্রাণ|sc=Beng}}
 * Brahui: {{t|brh|Taerán}}
 * Bulgarian: {{t|bg|Техера́н|m|sc=Cyrl}}
 * Chinese:
-*: Mandarin: {{t|cmn|德黑蘭|sc=Hani}}, {{t+|cmn|德黑兰|tr=Déhēilán|sc=Hani}}
+*: Mandarin: {{t+|cmn|德黑蘭|sc=Hani}}, {{t+|cmn|德黑兰|tr=Déhēilán|sc=Hani}}
 * Czech: {{t+|cs|Teherán|m}}
 * Danish: {{t|da|Teheran}}
 * Dutch: {{t+|nl|Teheran|n}}
@@ -41,14 +41,14 @@ From {{etyl|fa|en}} {{m|fa|تهران||sc=fa-Arab|tr=Tehrân}}.
 * Georgian: {{t|ka|თეირანი|sc=Geor}}
 * German: {{t+|de|Teheran|n}}
 * Greek: {{t+|el|Τεχεράνη|sc=Grek}}
-* Gujarati: {{t|gu|તેહરાન|tr=Tehrān|sc=Gujr}}
+* Gujarati: {{t|gu|તેહરાન|sc=Gujr}}
 * Hebrew: {{t|he|טהראן|tr=teherán|sc=Hebr}}
-* Hindi: {{t|hi|तेहरान|f|tr=tehrān|sc=Deva}}
+* Hindi: {{t|hi|तेहरान|f|sc=Deva}}
 * Hungarian: {{t+|hu|Teherán}}
 * Italian: {{t+|it|Teheran}}
 * Japanese: {{t+|ja|テヘラン|tr=Teheran}}
-* Korean: {{t+|ko|테헤란|tr=Teheran|sc=Hang}}
-* Kumyk: {{t|kum|Тегьран|tr=Tehran|sc=Cyrl}}
+* Korean: {{t+|ko|^테헤란|sc=Hang}}
+* Kumyk: {{t|kum|Тегьран|sc=Cyrl}}
 * Kurdish: {{t+|ku|Taran}}
 * Lak: {{t|lbe|Тегьеран|sc=Cyrl}}
 {{trans-mid}}
@@ -56,14 +56,14 @@ From {{etyl|fa|en}} {{m|fa|تهران||sc=fa-Arab|tr=Tehrân}}.
 * Lithuanian: {{t|lt|Teheranas|m}}
 * Malay: {{t|ms|Teheran}}
 * Maltese: {{t|mt|Teħran|m}}
-* Mazanderani: {{t|mzn|تهرون|tr=Tehrun|sc=fa-Arab}}
+* Mazanderani: {{t|mzn|تهرون|tr=tehrun|sc=fa-Arab}}
 * Mongolian: {{t|mn|Тегеран|sc=Cyrl}}
 * Navajo: {{t|nv|Tʼehewan}}
-* Pashto: {{t|ps|تهران|tr=Tehrān|sc=ps-Arab}}
-* Persian: {{t+|fa|تهران|tr=Tehrân|sc=fa-Arab}}, {{t|fa|تهرون|tr=Tehrun|sc=fa-Arab}}
+* Pashto: {{t|ps|تهران|tr=tehrān|sc=ps-Arab}}
+* Persian: {{t+|fa|تهران|tr=tehrân|sc=fa-Arab}}, {{t|fa|تهرون|tr=tehrun|sc=fa-Arab}}
 * Polish: {{t+|pl|Teheran|m}}
 * Portuguese: {{t|pt|Teerã|f}} {{qualifier|Brazil}}, {{t+|pt|Teerão|f}} {{qualifier|Portugal}}
-* Punjabi: {{t|pa|ਤਿਹ੍ਰਾਨ|tr=Tihrān|sc=Guru}}
+* Punjabi: {{t|pa|ਤਿਹ੍ਰਾਨ|tr=tihrān|sc=Guru}}
 * Romanian: {{t+|ro|Teheran}}
 * Russian: {{t+|ru|Тегера́н|m}}
 * Serbo-Croatian:
@@ -76,7 +76,7 @@ From {{etyl|fa|en}} {{m|fa|تهران||sc=fa-Arab|tr=Tehrân}}.
 * Tamil: {{t|ta|டெஹரான்|sc=Taml}}
 * Tatar: {{t|tt|Техран|sc=Cyrl}}
 * Telugu: {{t|te|టెహరాన|sc=Telu}}
-* Thai: {{t|th|เตหะราน|tr=dthèraan|sc=Thai}}
+* Thai: {{t|th|เตหะราน|sc=Thai}}
 * Turkish: {{t+|tr|Tahran}}
 * Turkmen: {{t|tk|Tähran}}
 * Ukrainian: {{t|uk|Тегера́н|m|sc=Cyrl}}
