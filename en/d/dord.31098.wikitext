@@ -1,7 +1,7 @@
 ==Irish==
 
 ===Etymology===
-From {{etyl|sga|ga}} {{m|sga|dord||buzzing, humming, droning, intoning}}.
+From {{inh|ga|sga|dord||buzzing, humming, droning, intoning}}.
 
 ===Noun===
 {{ga-noun|g=m|doird|doird}}
@@ -13,21 +13,20 @@ From {{etyl|sga|ga}} {{m|sga|dord||buzzing, humming, droning, intoning}}.
 {{ga-decl-m1|d|ord|oird}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|ga|dordfhocal|gloss=buzzword}}
-* {{l|ga|dord figiúrtha|gloss=figured bass}}
-* {{l|ga|dord-druma|gloss=bass drum}}
-* {{l|ga|dordeochair|gloss=bass clef}}
-* {{l|ga|dordghuth|gloss=bass voice}}
-* {{l|ga|dordlíne}}, {{l|ga|líne an doird|gloss=bassline}}
-{{der-mid}}
-* {{l|ga|dordóir|gloss=bassist}}
-* {{l|ga|dordveidhil|gloss=cello}}
-* {{l|ga|dordveidhlín|gloss=bass fiddle}}
-* {{l|ga|fo-dhord|gloss=subdued murmur; backbiting}}
-* {{l|ga|fo-dhordaire|gloss=subwoofer}}
-* {{l|ga|olldord|gloss=double bass, contrabass}}
-{{der-bottom}}
+{{der3<!--
+-->|{{l|ga|dordfhocal||buzzword}}<!--
+-->|{{l|ga|dord figiúrtha||figured bass}}<!--
+-->|{{l|ga|dord-druma||bass drum}}<!--
+-->|{{l|ga|dordeochair||bass clef}}<!--
+-->|{{l|ga|dordghuth||bass voice}}<!--
+-->|{{l|ga|dordlíne}}, {{l|ga|líne an doird||bassline}}<!--
+-->|{{l|ga|dordóir||bassist}}<!--
+-->|{{l|ga|dordveidhil||cello}}<!--
+-->|{{l|ga|dordveidhlín||bass fiddle}}<!--
+-->|{{l|ga|fo-dhord||subdued murmur; backbiting}}<!--
+-->|{{l|ga|fo-dhordaire||subwoofer}}<!--
+-->|{{l|ga|olldord||double bass, contrabass}}<!--
+-->|}}
 
 ===Verb===
 {{ga-verb|pres=dordann|fut=dordfaidh|vn=dordadh|pp=dordta}}
@@ -39,6 +38,6 @@ From {{etyl|sga|ga}} {{m|sga|dord||buzzing, humming, droning, intoning}}.
 {{ga-conj-1a|d|or|d|broad}}
 
 ===Mutation===
-{{ga mut cons|d|ord}}
+{{ga-mut-cons|d|ord}}
 
 [[mg:dord]]
