@@ -18,7 +18,7 @@
 ==Franco-Provençal==
 
 ===Etymology===
-From {{etyl|la|frp}} {{m|la|caballus}}.
+From {{inh|frp|LL.|caballus||horse}}, from {{inh|frp|la|caballus||pack horse}}, of {{der|frp|cel-gau|-}} origin.
 
 ===Noun===
 {{head|frp|noun|g=m|plural|chevôs}}
@@ -31,7 +31,7 @@ From {{etyl|la|frp}} {{m|la|caballus}}.
 {{wikipedia|lang=fr}}
 
 ===Etymology===
-From {{etyl|la|fr}} {{m|la|caballus}}, of {{etyl|cel-gau|fr}} origin.
+From {{inh|fr|frm|cheval}}, from {{inh|fr|fro|cheval}}, from {{inh|fr|LL.|caballus||horse}}, from {{inh|fr|la|caballus||pack horse}}, of {{der|fr|cel-gau|-}} origin.
 
 ===Pronunciation===
 * {{audio|Fr-un cheval-fr.ogg|audio|lang=fr}}
@@ -73,6 +73,9 @@ From {{etyl|la|fr}} {{m|la|caballus}}, of {{etyl|cel-gau|fr}} origin.
 
 ==Middle French==
 
+===Etymology===
+From {{inh|frm|fro|cheval}}.
+
 ===Noun===
 {{frm-noun|m|chevaux|pl2=chevaulx}}
 
@@ -81,6 +84,9 @@ From {{etyl|la|fr}} {{m|la|caballus}}, of {{etyl|cel-gau|fr}} origin.
 ====Related terms====
 * {{l|frm|chevalier}}
 
+====Descendants====
+* French: {{l|fr|cheval}}
+
 [[Category:frm:Animals]]
 
 ----
@@ -88,7 +94,7 @@ From {{etyl|la|fr}} {{m|la|caballus}}, of {{etyl|cel-gau|fr}} origin.
 ==Old French==
 
 ===Etymology===
-From {{etyl|la|fro}} {{m|la|caballus}}.
+From {{inh|fro|LL.|caballus||horse}}, from {{inh|fro|la|caballus||pack horse}}, of {{der|fro|cel-gau|-}} origin.
 
 ===Noun===
 {{fro-noun|m}}
@@ -104,7 +110,8 @@ From {{etyl|la|fro}} {{m|la|caballus}}.
 
 ====Descendants====
 {{top2}}
-* French: {{l|fr|cheval}}
+* Middle French: {{l|frm|cheval}}
+** French: {{l|fr|cheval}}
 * Gallo: {{l|roa-gal|ch'fa}}
 {{mid2}}
 * Norman: {{l|nrf|ch'fa}} {{qualifier|Guernsey}}, {{l|nrf|j'va}} {{qualifier|Jersey}}, {{l|nrf|queva}} {{qualifier|continental Normandy}}
