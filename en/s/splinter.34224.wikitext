@@ -2,9 +2,6 @@
 {{was wotd|2009|February|1}}
 {{wikipedia|dab=splinter}}
 
-===Etymology===
-{{-er|splint}}
-
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈsplɪntə(ɹ)/|lang=en}}
 * {{a|US}} {{IPA|/ˈsplɪntɚ/|[ˈsplɪɾ̃ɚ]|lang=en}}
@@ -12,17 +9,20 @@
 * {{audio|en-us-splinter.ogg|Audio (US)|lang=en}}
 * {{rhymes|ɪntə(r)|ɪntɚ|lang=en}}
 
-===Noun===
+===Etymology 1===
+From {{inh|en|enm|splinter}}, from {{der|en|dum|splinter}}.
+
+====Noun====
 {{en-noun}}
 
 # A [[long]], [[sharp]] [[fragment]] of material, often [[wood]].
 # A [[group]] that formed by [[split]]ting off from a larger [[membership]].
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|long sharp fragment}} {{l|en|shard}}, {{l|en|spelk}}.
 * {{sense|group formed by splitting}} {{l|en|faction}}, {{l|en|splinter group}}.
 
-====Translations====
+=====Translations=====
 {{trans-top|fragment of material}}
 * Arabic: {{t|ar|شَظِيَّة|f}}
 * Armenian: {{t+|hy|տաշեղ}}
@@ -87,7 +87,10 @@
 * Swedish: {{t|sv|avknoppning|c}}, {{t|sv|utbrytning|c}}, {{t|sv|utbrytargrupp|c}}
 {{trans-bottom}}
 
-===Verb===
+===Etymology 2===
+From the noun {{m|en|splinter}}.
+
+====Verb====
 {{en-verb}}
 
 # {{label|en|intransitive}} To come [[apart]] into long sharp [[fragment]]s.
@@ -102,11 +105,11 @@
 # {{label|en|transitive}} To fasten or confine with splinters, or splints, as a broken limb.
 #: {{rfquotek|Bishop Wren}}
 
-====Related terms====
+=====Related terms=====
 * {{l|en|splint}}
 * {{l|en|splinter up}}
 
-====Translations====
+=====Translations=====
 {{trans-top|to come apart into splinters}}
 * Czech: {{t|cs|štěpit}} se
 * Dutch: {{t+|nl|versplinteren}}, {{t|nl|splinteren}}
