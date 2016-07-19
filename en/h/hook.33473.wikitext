@@ -362,7 +362,7 @@ From {{etyl|enm|en}} {{m|enm|hoke}}, from {{etyl|ang|en}} {{m|ang|hōc}}, from {
 * Czech: {{t|cs|zaháknout}}
 * Danish: {{t|da|hænge}}
 * Dutch: {{t+|nl|haken}}
-* Finnish: [[kiinnittää#Finnish|kiinnittää]] {{t+|fi|koukku|alt=koukkuun}}
+* Finnish: {{t|fi|[[ripustaa]] [[koukkuun]]}}
 * French: {{t+|fr|accrocher}}
 * German: {{t+|de|haken}}
 * Italian: {{t+|it|agganciare}}
@@ -379,7 +379,7 @@ From {{etyl|enm|en}} {{m|enm|hoke}}, from {{etyl|ang|en}} {{m|ang|hōc}}, from {
 * Czech: {{t|cs|zaháknout}}
 * Danish: {{t|da|få på krogen}}, {{t|da|få til at bide på}}
 * Dutch: {{t-check|nl|[[aan]] [[de]] [[haak]] [[slaan]]}} <!-- was "aan de haak slaan" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
-* Finnish: [[saada#Finnish|saada]] {{t+|fi|koukku|alt=koukkuun}}
+* Finnish: {{t|fi|[saada]] [[koukkuun]]}}
 * French: {{t+|fr|ferrer}} (un poisson) “to iron a fish”
 * German: {{t+|de|haken}}
 * Ido: {{t+|io|angelagar}}
@@ -397,11 +397,18 @@ From {{etyl|enm|en}} {{m|enm|hoke}}, from {{etyl|ang|en}} {{m|ang|hōc}}, from {
 * Tok Pisin: {{t|tpi|hukim}}
 {{trans-bottom}}
 
+{{trans-top|to insert in a curved way}}
+* Finnish: {{t|fi|[[laittaa]] [[koukkuun]]}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|to ensnare someone}}
 * Finnish: {{t+|fi|napata}}, {{t+|fi|koukuttaa}}
 {{trans-mid}}
 * Italian: {{t+|it|agganciare}}, {{t+|it|attirare}}
 {{trans-bottom}}
+
+{{trans-see|to steal|steal}}
 
 {{trans-top|to connect}}
 * Czech: {{t|cs|připojit}}
@@ -416,17 +423,20 @@ From {{etyl|enm|en}} {{m|enm|hoke}}, from {{etyl|ang|en}} {{m|ang|hōc}}, from {
 * Swedish: {{t+|sv|haka}}
 {{trans-bottom}}
 
-{{trans-top|make addicted}}
+# {{lb|en|usually|in passive}} To make [[addicted]]; to [[captivate]].
+#: ''He had gotten '''hooked''' on cigarettes in his youth.''
+#: ''I watched one episode of that TV series and now I'm '''hooked'''.''
+{{trans-top|to make addicted}}
 * Catalan: {{t+|ca|enganxar}}
 * Dutch: {{t+|nl|verslaven}}
-* Finnish: {{t+|fi|koukuttaa}} {{qualifier|transitive}}, [[jäädä#Finnish|jäädä]] {{t+|fi|koukku|alt=loukkuun}} {{qualifier|intransitive}}
+* Finnish: {{t+|fi|koukuttaa}} {{qualifier|transitive}}; {{t|fi|[[jäädä]] [[koukkuun]]}}, {{t|fi|[[olla]] [[koukussa]]}} {{qualifier|intransitive}}
 {{trans-mid}}
 * Spanish: {{t+|es|enganchar}}
 * Swahili: {{t+|sw|ndowani}}
 {{trans-bottom}}
 
 {{trans-top|golf, cricket: to play a hook shot}}
-* Finnish: [[lyödä#Finnish|lyödä]] {{t|fi|hukki}} {{qualifier|golf}}
+* Finnish: {t|fi|[[lyödä]] [[hukki]]}} {{qualifier|golf}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -437,17 +447,35 @@ From {{etyl|enm|en}} {{m|enm|hoke}}, from {{etyl|ang|en}} {{m|ang|hōc}}, from {
 {{trans-bottom}}
 
 {{trans-top|soccer: to swerve a ball}}
-* Finnish: [[potkaista#Finnish|potkaista]] {{t|fi|kierrepotku}}, [[potkaista#Finnish|potkaista]] {{t+|fi|banaanipotku}}
+* Finnish: {{t|fi|[[potkaista]] [[kierrepotku]]}}, {{t|fi|[[potkaista]] [[banaanipotku]]}}
 {{trans-mid}}
 * Norwegian: {{t|no|skru}}
 {{trans-bottom}}
 
 {{trans-top|slang: to engage in prostitution}}
 * Czech: {{t|cs|hákovat}}
-* Finnish: [[myydä#Finnish|myydä]] {{t+|fi|itse|alt=itseään}}
+* Finnish: {{t+|fi|huorata}}
 {{trans-mid}}
 * Italian: {{t+|it|adescare}}
 * Swahili: {{t+|sw|ndowani}}
+{{trans-bottom}}
+
+{{trans-top|Scrabble: to add a single letter perpendicularly to the existing word}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|bridge slang: to finesse}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to seize or pierce with the points of the horns}}
+* Finnish: {{t|fi|keihästää}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to move or go with a sudden turn}}
+* Finnish: {{t|fi|koukata}}
+{{trans-mid}}
 {{trans-bottom}}
 
 [[Category:en:Diacritical marks]]
