@@ -124,7 +124,7 @@ From {{inh|en|enm|ells}}, {{m|enm|elles}}, from {{inh|en|ang|elles||other, other
 
 # [[for|For]] [[otherwise]]; [[or else]].
 #: ''Then the Wronskian of ''f'' and ''g'' must be nonzero, '''else''' they could not be linearly independent.''
-# {{label|en|computing|in many programming languages and [[pseudocode]]}} but [[if]] the [[condition]] of the previous {{m|en|if}} clause is false, do the following.
+# {{lb|en|computing|in many programming languages and [[pseudocode]]}} but [[if]] the [[condition]] of the previous {{m|en|if}} clause is false, do the following.
 #: ''<tt>if (edits.Count == 0) { NoEditsLabel.Visible = true; }</tt>''
 #: ''<tt>'''else''' { EditHistory.Show(edits); }</tt>''
 
