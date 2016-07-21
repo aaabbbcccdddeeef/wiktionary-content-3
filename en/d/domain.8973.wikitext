@@ -28,19 +28,19 @@ From {{inh|en|enm|demeine}}, {{m|enm|demain||rule}}, {{bor|en|fro|demeine|notext
 |magazine=[[w:American Scientist|American Scientist]]
 |url=http://www.americanscientist.org/bookshelf/pub/tackling-infinity
 |passage=Some of the most beautiful and thus appealing physical theories, including quantum electrodynamics and quantum gravity, have been dogged for decades by infinities that erupt when theorists try to prod their calculations into new '''domains'''. Getting rid of these nagging infinities has probably occupied far more effort than was spent in originating the theories.}}
-# {{label|en|mathematics}} The [[set]] of all [[possible]] mathematical entities ([[point]]s) where a given [[function]] is defined.
-# {{label|en|mathematics|set theory}} The set of [[input]] ([[argument]]) values for which a [[function]] is defined.
-# {{label|en|mathematics}} A {{l|en|ring}} with no [[zero divisor]]s; that is, in which no {{l|en|product}} of nonzero elements is zero.
-# {{label|en|mathematics|topology|analysis}} An open and connected set in some [[topology]]. For example, the interval (0,1) as a subset of the [[real number]]s.
-# {{label|en|computing|Internet}} Any [[Domain Name System|DNS]] [[domain name]], particularly one which has been [[delegate|delegated]] and has become representative of the delegated domain name and its [[subdomain|subdomains]].
+# {{lb|en|mathematics}} The [[set]] of all [[possible]] mathematical entities ([[point]]s) where a given [[function]] is defined.
+# {{lb|en|mathematics|set theory}} The set of [[input]] ([[argument]]) values for which a [[function]] is defined.
+# {{lb|en|mathematics}} A {{l|en|ring}} with no [[zero divisor]]s; that is, in which no {{l|en|product}} of nonzero elements is zero.
+# {{lb|en|mathematics|topology|analysis}} An open and connected set in some [[topology]]. For example, the interval (0,1) as a subset of the [[real number]]s.
+# {{lb|en|computing|Internet}} Any [[Domain Name System|DNS]] [[domain name]], particularly one which has been [[delegate|delegated]] and has become representative of the delegated domain name and its [[subdomain|subdomains]].
 #* '''2000''', ''BIND 9 Administrator Reference Manual (9.3.2)'', Internet Software Consortium [http://www.bind9.net/manual/bind/9.3.2/Bv9ARM.ch01.html]
 #*: Every name in the DNS tree is a '''domain''', even if it is terminal, that is, has no subdomains.
-# {{label|en|computing|Internet}} A collection of [[Domain Name System|DNS]] or DNS-like [[domain name|domain names]] consisting of a [[delegate|delegated]] [[domain name]] and all its [[subdomain|subdomains]].
-# {{label|en|computing}} A collection of information having to do with a domain, the [[computer]]s named in the domain, and the [[network]] on which the computers named in the domain reside.
-# {{label|en|computing}} The collection of computers identified by a domain's [[domain name]]s.
-# {{label|en|physics}} A small region of a magnetic material with a consistent magnetization direction.
-# {{label|en|computing}} Such a region used as a data storage element in a [[bubble memory]].
-# {{label|en|data processing}} A form of technical [[metadata]] that represent the type of a data item, its characteristics, name, and usage.
+# {{lb|en|computing|Internet}} A collection of [[Domain Name System|DNS]] or DNS-like [[domain name|domain names]] consisting of a [[delegate|delegated]] [[domain name]] and all its [[subdomain|subdomains]].
+# {{lb|en|computing}} A collection of information having to do with a domain, the [[computer]]s named in the domain, and the [[network]] on which the computers named in the domain reside.
+# {{lb|en|computing}} The collection of computers identified by a domain's [[domain name]]s.
+# {{lb|en|physics}} A small region of a magnetic material with a consistent magnetization direction.
+# {{lb|en|computing}} Such a region used as a data storage element in a [[bubble memory]].
+# {{lb|en|data processing}} A form of technical [[metadata]] that represent the type of a data item, its characteristics, name, and usage.
 #* {{quote-web
 |year=
 |author=IBM
@@ -50,8 +50,8 @@ From {{inh|en|enm|demeine}}, {{m|enm|demain||rule}}, {{bor|en|fro|demeine|notext
 |accessdate=2013-12-29
 }}
 #*: A characteristic of a field. A data domain specifies a data type and applies the minimum and maximum values allowed and other constraints.
-# {{label|en|taxonomy}} The highest [[rank]] in the classification of [[organism]]s, above [[kingdom]]; in the three-domain system, one of the [[taxon|taxa]] ''[[Bacteria]]'', ''[[Archaea]]'', or ''[[Eukaryota]]''.
-# {{label|en|biochemistry}} A [[folded]] section of a [[protein]] [[molecule]] that has a [[discrete]] [[function]].
+# {{lb|en|taxonomy}} The highest [[rank]] in the classification of [[organism]]s, above [[kingdom]]; in the three-domain system, one of the [[taxon|taxa]] ''[[Bacteria]]'', ''[[Archaea]]'', or ''[[Eukaryota]]''.
+# {{lb|en|biochemistry}} A [[folded]] section of a [[protein]] [[molecule]] that has a [[discrete]] [[function]].
 
 ====Usage notes====
 * {{sense|collection of information}} Used in a context in which [[domain name services]], or domain name like services, are managed in a fashion that is [[integrated]] with the management of other computer and network related information.
