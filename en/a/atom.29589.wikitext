@@ -17,9 +17,9 @@ From {{etyl|frm|en}} {{m|frm|athome}}, from {{etyl|la|en}} {{m|la|atomus||smalle
 ===Noun===
 {{en-noun}}
 
-# {{label|en|now|_|historical}} The smallest medieval unit of [[time]], equal to fifteen ninety-fourths of a [[second]]. {{defdate|from 10th c.}}
-# {{label|en|history of science}} A hypothetical [[particle]] posited by Greek philosophers as an ultimate and indivisible component of [[matter]]. {{defdate|from 15th c.}}
-# {{label|en|physics|chemistry}} The smallest possible amount of [[matter]] which still retains its identity as a chemical element, now known to consist of a [[nucleus]] surrounded by [[electrons]]. {{defdate|from 16th c.}}
+# {{lb|en|now|_|historical}} The smallest medieval unit of [[time]], equal to fifteen ninety-fourths of a [[second]]. {{defdate|from 10th c.}}
+# {{lb|en|history of science}} A hypothetical [[particle]] posited by Greek philosophers as an ultimate and indivisible component of [[matter]]. {{defdate|from 15th c.}}
+# {{lb|en|physics|chemistry}} The smallest possible amount of [[matter]] which still retains its identity as a chemical element, now known to consist of a [[nucleus]] surrounded by [[electrons]]. {{defdate|from 16th c.}}
 #: {{ux|en|A molecule is a close combination of '''atoms'''.}}
 #* {{quote-magazine|year=2013|month=September-October|author=[http://www.americanscientist.org/authors/detail/katie-l-burke Katie L. Burke]
 |magazine={{w|American Scientist}}|title=[http://www.americanscientist.org/issues/pub/2013/5/in-the-news-47 In the News]
@@ -33,8 +33,8 @@ From {{etyl|frm|en}} {{m|frm|athome}}, from {{etyl|la|en}} {{m|la|atomus||smalle
 #*: "I have hardly the faintest '''atom''' of hope," answered this honest, earnest man.
 #* {{RQ:Orwell Animal Farm|1}}
 #*: {{...}} those of us who are capable of it are forced to work to the last '''atom''' of our strength
-# {{label|en|mathematics}} A non-zero member of a {{w|Boolean algebra}} that is not a [[union]] of any other elements. {{defdate|from 20th c.}}
-# {{label|en|computing|programming|[[Lisp]]}} An individual [[number]] or [[symbol]], as opposed to a [[list]]. A [[scalar]] value.
+# {{lb|en|mathematics}} A non-zero member of a {{w|Boolean algebra}} that is not a [[union]] of any other elements. {{defdate|from 20th c.}}
+# {{lb|en|computing|programming|[[Lisp]]}} An individual [[number]] or [[symbol]], as opposed to a [[list]]. A [[scalar]] value.
 
 ====Synonyms====
 * See also [[Wikisaurus:atom]]
@@ -233,7 +233,7 @@ From {{etyl|frm|en}} {{m|frm|athome}}, from {{etyl|la|en}} {{m|la|atomus||smalle
 ===Noun===
 {{cs-noun|g=m}}
 
-# {{label|cs|physics}} {{l|en|atom}}
+# {{lb|cs|physics}} {{l|en|atom}}
 
 ====Related terms====
 * [[atomový]]
@@ -308,7 +308,7 @@ From {{etyl|en|ms}} {{m|en|atom}}, from {{etyl|fro|ms}} {{m|fro|atome}}, from {{
 ===Noun===
 {{ms-noun}}
 
-# {{label|ms|physics}} [[#English|atom]] {{gloss|physics: smallest possible amount of matter retaining its chemical properties}}
+# {{lb|ms|physics}} [[#English|atom]] {{gloss|physics: smallest possible amount of matter retaining its chemical properties}}
 
 ----
 
@@ -357,7 +357,7 @@ From {{etyl|grc|nn}} ''"atomos"''
 ===Noun===
 {{pl-noun|m-in}}
 
-# {{label|pl|physics}} {{l|en|atom}}
+# {{lb|pl|physics}} {{l|en|atom}}
 
 ====Declension====
 {{pl-decl-noun-m-in}}
@@ -426,7 +426,7 @@ From {{etyl|grc|sh}} {{m|grc|ἄτομος}}.
 {{sv-noun|c}}
 
 # {{l|en|atom}}; the smallest particle to retain the properties of the element
-# {{label|sv|historical}} atom; the theoretically smallest possible particle
+# {{lb|sv|historical}} atom; the theoretically smallest possible particle
 
 ====Declension====
 {{sv-infl-noun-c-er}}
@@ -460,7 +460,7 @@ From {{etyl|grc|sh}} {{m|grc|ἄτομος}}.
 ===Noun===
 {{tr-noun|u|lar}}
 
-# {{label|tr|physics}} {{l|en|atom}}
+# {{lb|tr|physics}} {{l|en|atom}}
 
 ====Declension====
 {{tr-noun-c|o|d}}
