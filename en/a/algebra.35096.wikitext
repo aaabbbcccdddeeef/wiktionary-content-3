@@ -13,7 +13,7 @@ From {{etyl|ML.|en}} ''algebraica'', from {{etyl|ar|en}} word {{m|ar|جبر|ال
 {{wikipedia}}
 {{en-noun|~}}
 
-# {{label|en|uncountable|medicine|historical|rare}} The surgical treatment of a dislocated or fractured bone. Also {{label|en|countable}}: a dislocation or fracture.
+# {{lb|en|uncountable|medicine|historical|rare}} The surgical treatment of a dislocated or fractured bone. Also {{lb|en|countable}}: a dislocation or fracture.
 #* {{quote-book|year=a1420
 |year_published=1894
 |author=The British Museum Additional MS, 12,056
@@ -50,7 +50,7 @@ From {{etyl|ML.|en}} ''algebraica'', from {{etyl|ar|en}} word {{m|ar|جبر|ال
 |page=65
 |passage='''''Algebra''''' is used today by surgeons to mean ''bone-setting'', i.e. the restoration of bones, and the idea of restoration is present in the mathematical context, too.
 }}
-# {{label|en|uncountable|mathematics}} A system for computation using letters or other symbols to represent numbers, with rules for manipulating these symbols.
+# {{lb|en|uncountable|mathematics}} A system for computation using letters or other symbols to represent numbers, with rules for manipulating these symbols.
 #* {{quote-book|year=1551
 |year_published=1888
 |author=
@@ -69,9 +69,9 @@ From {{etyl|ML.|en}} ''algebraica'', from {{etyl|ar|en}} word {{m|ar|جبر|ال
 |page=217
 |passage=Also the rule of false position, with dyuers examples not onely vulgar, but some appertaynyng to the rule of '''Algeber'''.
 }}
-# {{label|en|uncountable|mathematics}} The study of [[algebraic structure]]s.
-# {{label|en|countable|mathematics}} A [[universal algebra]].
-# {{label|en|countable|algebra}} An algebraic structure consisting of a [[module]] of a [[commutative]] [[ring]] along with an additional [[binary operation]] that is [[bilinear]].
+# {{lb|en|uncountable|mathematics}} The study of [[algebraic structure]]s.
+# {{lb|en|countable|mathematics}} A [[universal algebra]].
+# {{lb|en|countable|algebra}} An algebraic structure consisting of a [[module]] of a [[commutative]] [[ring]] along with an additional [[binary operation]] that is [[bilinear]].
 #* {{quote-book|year=1854
 |year_published=
 |author={{w|George Boole}}
@@ -90,9 +90,9 @@ From {{etyl|ML.|en}} ''algebraica'', from {{etyl|ar|en}} word {{m|ar|جبر|ال
 |page=37
 |passage=Let us conceive, then, of an '''Algebra''' in which the symbols ''x'', ''y'', ''z'', &c. admit indifferently of the values 0 and 1, and of these values alone.
 }}
-# {{label|en|countable|set theory|analysis}} A collection of subsets of a given set, such that this collection contains the empty set, and the collection is closed under [[union]]s and [[complement]]s (and thereby also under [[intersection]]s and [[difference]]s).
-# {{label|en|countable|mathematics}} One of several other types of [[mathematical structure]].
-# {{label|en|figurative}} A system or process, that is like algebra by substituting one thing for another, or in using signs, symbols, etc., to represent concepts or ideas.
+# {{lb|en|countable|set theory|analysis}} A collection of subsets of a given set, such that this collection contains the empty set, and the collection is closed under [[union]]s and [[complement]]s (and thereby also under [[intersection]]s and [[difference]]s).
+# {{lb|en|countable|mathematics}} One of several other types of [[mathematical structure]].
+# {{lb|en|figurative}} A system or process, that is like algebra by substituting one thing for another, or in using signs, symbols, etc., to represent concepts or ideas.
 #* {{quote-book|year=1663
 |year_published=1871
 |author=William Clark
@@ -319,7 +319,7 @@ From {{etyl|ML.|en}} ''algebraica'', from {{etyl|ar|en}} word {{m|ar|جبر|ال
 ===Noun===
 {{nl-noun|f|g2=m|-|-}}
 
-# {{label|nl|mathematics}} {{l|en|algebra}}
+# {{lb|nl|mathematics}} {{l|en|algebra}}
 
 ----
 
@@ -421,7 +421,7 @@ From {{etyl|ar|nb}} {{m|ar|جبر|الْجَبْر}}, via {{etyl|ML.|nb}} {{m|la
 ===Noun===
 {{nb-noun-m1}}
 
-# {{label|nb|maths}} {{l|en|algebra}}
+# {{lb|nb|maths}} {{l|en|algebra}}
 # an {{l|en|algebra}} [[textbook]]
 
 ====Derived terms====
@@ -442,7 +442,7 @@ From {{etyl|ar|nn}} {{m|ar|جبر|الْجَبْر}}, via {{etyl|ML.|nn}} {{m|la
 ===Noun===
 {{head|nn|noun|g=m|definite singular|algebraen|indefinite plural|algebraer|definite plural|algebraene}}
 
-# {{label|nn|maths}} {{l|en|algebra}}
+# {{lb|nn|maths}} {{l|en|algebra}}
 # an {{l|en|algebra}} [[textbook]]
 
 ====Derived terms====
@@ -518,7 +518,7 @@ From Italian, Spanish or mediaeval Latin, from {{etyl|ar|pl}} {{l|ar|جبر|ال
 ===Noun===
 {{sv-noun|c}}
 
-# {{label|sv|mathematics}} {{l|en|algebra}}
+# {{lb|sv|mathematics}} {{l|en|algebra}}
 
 ====Declension====
 {{sv-infl-noun-c-or|algebr}}
