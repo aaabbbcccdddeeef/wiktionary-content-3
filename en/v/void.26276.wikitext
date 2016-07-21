@@ -35,7 +35,7 @@ From {{etyl|fro|en}} ''[[vuit]]'', ''[[voide]]'' (modern {{m|fr|vide}}), in turn
 # Containing no immaterial quality; destitute of mind or soul.
 #* Alexander Pope
 #*: idol, '''void''' and vain
-# {{label|en|computing|programming|of a [[function]] or [[method]]}} That does not [[return]] a value.
+# {{lb|en|computing|programming|of a [[function]] or [[method]]}} That does not [[return]] a value.
 #* '''2005''', Craig Larman, ''Applying UML and patterns''
 #*: In particular, the ''roll'' method is '''void''' — it has no return value.
 #* '''2007''', Andrew Krause, ''Foundations of GTK+ Development''
@@ -101,9 +101,9 @@ From {{etyl|fro|en}} ''[[vuit]]'', ''[[voide]]'' (modern {{m|fr|vide}}), in turn
 #: ''Nobody has crossed the '''void''' since one man died trying three hundred years ago; it's high time we had another go.''
 #* Alexander Pope
 #*: Pride, where wit fails, steps in to our defence, / And fills up all the mighty '''void''' of sense.
-# {{label|en|astronomy}} An extended region of [[space]] containing no [[galaxy|galaxies]]
-# {{label|en|materials science}} A collection of adjacent [[vacancy|vacancies]] inside a [[crystal]] [[lattice]].
-# {{label|en|fluid mechanics}} A pocket of [[vapour]] inside a fluid flow, created by [[cavitation]].
+# {{lb|en|astronomy}} An extended region of [[space]] containing no [[galaxy|galaxies]]
+# {{lb|en|materials science}} A collection of adjacent [[vacancy|vacancies]] inside a [[crystal]] [[lattice]].
+# {{lb|en|fluid mechanics}} A pocket of [[vapour]] inside a fluid flow, created by [[cavitation]].
 
 =====Synonyms=====
 * {{sense|(engineering) collection of vacancies}} {{l|en|pore}}
@@ -140,13 +140,13 @@ From {{etyl|fro|en}} ''[[vuit]]'', ''[[voide]]'' (modern {{m|fr|vide}}), in turn
 ====Verb====
 {{en-verb}}
 
-# {{label|en|transitive}} To make invalid or worthless.
+# {{lb|en|transitive}} To make invalid or worthless.
 #: {{ux|en|He '''voided''' the check and returned it.}}
 #* {{w|Edward Hyde, 1st Earl of Clarendon|Earl of Clarendon}} (1609-1674)
 #*: It was become a practice{{...}}to '''void''' the security that was at any time given for money so borrowed.
 #* {{w|Gilbert Burnet|Bishop Burnet}} (1643-1715)
 #*: after they had '''voided''' the obligation of the oath he had taken
-# {{label|en|transitive|medicine}} To empty.
+# {{lb|en|transitive|medicine}} To empty.
 #: {{ux|en|'''void''' one’s bowels}}
 # To throw or send out; to evacuate; to emit; to discharge.
 #: {{ux|en|to '''void''' excrement}}
@@ -156,11 +156,11 @@ From {{etyl|fro|en}} ''[[vuit]]'', ''[[voide]]'' (modern {{m|fr|vide}}), in turn
 #*: With shovel, like a fury, '''voided''' out / The earth and scattered bones.
 #* {{w|Isaac Barrow}} (1630-1677)
 #*: a watchful application of mind in '''voiding''' prejudices
-# {{label|en|intransitive|obsolete}} To [[withdraw]], [[depart]].
+# {{lb|en|intransitive|obsolete}} To [[withdraw]], [[depart]].
 #* {{RQ:Mlry MrtDrthr|3.14|2|I|xvj}}:
 #*: BY than come in to the feld kynge Ban as fyers as a lyon{{...}}/ Ha a said kyng Lot we must be discomfyte / for yonder I see the moste valyaunt knyght of the world / and the man of the most renoume / for suche ij bretheren as is kyng Ban & kyng bors ar not lyuynge / wherfore we must nedes '''voyde''' or deye
 <!--Prior quote:suche ii brethren as is kyng Ban & kyng bors ar not lyuynge, wherfore we must nedes '''voyde''' or deye.-->
-# {{label|en|transitive|obsolete}} To remove the contents of; to make or leave vacant or empty; to quit; to leave.
+# {{lb|en|transitive|obsolete}} To remove the contents of; to make or leave vacant or empty; to quit; to leave.
 #: {{ux|en|to '''void''' a table}}
 #* {{quote-book|year=1394|author={{w|Geoffrey Chaucer|Chaucer}}|title={{w|The Franklin's Tale}}|chapter=v. 1149|edition=|url=http://books.google.com/books?id=OnkgAAAAMAAJ&pg=PA642|passage=Somtyme a castel, al of lym and stoon; And whan hem lyked, '''voyded''' it anon.}}
 #* {{RQ:Shakespeare Henry 5}}
@@ -206,7 +206,7 @@ Alteration of {{term|voidee}}.
 ====Noun====
 {{en-noun}}
 
-# {{label|en|now|_|rare|historical}} A [[voidee]]. {{defdate|from 15th c.}}
+# {{lb|en|now|_|rare|historical}} A [[voidee]]. {{defdate|from 15th c.}}
 #* '''2011''', Thomas Penn, ''Winter King'', Penguin 2012, p. 68:
 #*: Late on the final evening, as the customary ‘'''void'''’ – spiced wine and sweetmeats – was served, more elaborate disguisings in the great hall culminated in the release of a flock of white doves.
 
