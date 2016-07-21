@@ -32,14 +32,14 @@ From {{etyl|frm|en}} {{m|frm|masque||a covering to hide or protect the face}}, f
 # A person wearing a mask.
 #* G. W. Cable
 #*: the '''mask''' that has the arm of the Indian queen
-# {{label|en|obsolete}} A dramatic [[performance]], formerly in vogue, in which the actors wore masks and represented mythical or allegorical characters.
-# {{label|en|architecture}} A [[grotesque]] head or face, used to adorn [[keystone]]s and other prominent parts, to spout water in fountains, and the like; -- called also [[mascaron]].
-# {{label|en|fortification}} In a permanent fortification, a redoubt which protects the caponiere.
-# {{label|en|fortification}} A [[screen]] for a battery
-# {{label|en|zoology}} The [[lower]] [[lip]] of the [[larva]] of a [[dragonfly]], modified so as to form a prehensile organ.
-# {{label|en|Puebloan|anthropology}} A ceremonial object used in Puebloan [[kachina]] cults that resembles a Euro-American masks. (The term is objected as an appropriate translation by Puebloan peoples as it emphasizes imitation but ignores power and representational intent.)
-# {{label|en|computing|programming}} A [[pattern]] of [[bit]]s used in [[bitwise]] [[operation]]s; [[bitmask]].
-# {{label|en|computer graphics}} A two-color (black and white) [[bitmap]] generated from an [[image]], used to create [[transparency]] in the image.
+# {{lb|en|obsolete}} A dramatic [[performance]], formerly in vogue, in which the actors wore masks and represented mythical or allegorical characters.
+# {{lb|en|architecture}} A [[grotesque]] head or face, used to adorn [[keystone]]s and other prominent parts, to spout water in fountains, and the like; -- called also [[mascaron]].
+# {{lb|en|fortification}} In a permanent fortification, a redoubt which protects the caponiere.
+# {{lb|en|fortification}} A [[screen]] for a battery
+# {{lb|en|zoology}} The [[lower]] [[lip]] of the [[larva]] of a [[dragonfly]], modified so as to form a prehensile organ.
+# {{lb|en|Puebloan|anthropology}} A ceremonial object used in Puebloan [[kachina]] cults that resembles a Euro-American masks. (The term is objected as an appropriate translation by Puebloan peoples as it emphasizes imitation but ignores power and representational intent.)
+# {{lb|en|computing|programming}} A [[pattern]] of [[bit]]s used in [[bitwise]] [[operation]]s; [[bitmask]].
+# {{lb|en|computer graphics}} A two-color (black and white) [[bitmap]] generated from an [[image]], used to create [[transparency]] in the image.
 
 =====Hyponyms=====
 * {{sense|a cover for the face}} {{l|en|domino mask}}, {{l|en|sleep mask}}
@@ -215,23 +215,23 @@ From {{etyl|frm|en}} {{m|frm|masque||a covering to hide or protect the face}}, f
 ====Verb====
 {{en-verb}}
 
-# {{label|en|transitive}} To [[cover]], as the face, by way of [[concealment]] or defense against injury; to conceal with a mask or visor.
+# {{lb|en|transitive}} To [[cover]], as the face, by way of [[concealment]] or defense against injury; to conceal with a mask or visor.
 #* {{rfdate}} Shakespeare, ''Merry Wives of Windsor, IV,vi'':
 #*: They must all be '''masked''' and vizarded
-# {{label|en|transitive}} To [[disguise]]; to cover; to hide.
+# {{lb|en|transitive}} To [[disguise]]; to cover; to hide.
 #* {{rfdate}} Shakespeare, ''Macbeth, III-i'':
 #*: '''Masking''' the business from the common eye
-# {{label|en|transitive|military}} To [[conceal]]; also, to intervene in the line of.
-# {{label|en|transitive|military}} To [[cover]] or keep in check.
+# {{lb|en|transitive|military}} To [[conceal]]; also, to intervene in the line of.
+# {{lb|en|transitive|military}} To [[cover]] or keep in check.
 #: ''to '''mask''' a body of troops or a fortess by a superior force, while some hostile evolution is being carried out''
-# {{label|en|intransitive}} To take part as a [[masker]] in a masquerade
+# {{lb|en|intransitive}} To take part as a [[masker]] in a masquerade
 #: {{rfquotek|Cavendish}}
-# {{label|en|intransitive}} To [[wear]] a mask; to be disguised in any way
+# {{lb|en|intransitive}} To [[wear]] a mask; to be disguised in any way
 #: {{rfquotek|Shakespeare}}
-# {{label|en|transitive|computing}} To [[set]] or [[unset]] (certain [[bit]]s, or binary digits, within a value) by means of a [[bitmask]].
+# {{lb|en|transitive|computing}} To [[set]] or [[unset]] (certain [[bit]]s, or binary digits, within a value) by means of a [[bitmask]].
 #* '''1993''', Richard E. Haskell, ''Introduction to computer engineering'' (page 287)
 #*: That is, the lower nibble (the 4 bits 1010 = A) has been '''masked''' to zero. This is because ANDing anything with a zero produces a zero, while ANDing any bit with a 1 leaves the bit unchanged{{...}}
-# {{label|en|transitive|computing}} To [[disable]] (an [[interrupt]], etc.) by unsetting the associated [[bit]].
+# {{lb|en|transitive|computing}} To [[disable]] (an [[interrupt]], etc.) by unsetting the associated [[bit]].
 #* '''1998''', Rick Grehan, ‎Robert Moote, ‎Ingo Cyliax, ''Real-time programming: a guide to 32-bit embedded development''
 #*: When should you '''mask''' a specific interrupt, rather than disabling all interrupts?
 
@@ -290,7 +290,7 @@ From {{etyl|enm|en}} {{m|enm|maske}}, from {{etyl|ang|en}} {{m|ang|max}}, {{m|an
 {{en-noun}}
 
 # A [[mesh]].
-# {{label|en|UK|_|dialectal|Scotland}} The mesh of a net; a [[net]]; net-bag.
+# {{lb|en|UK|_|dialectal|Scotland}} The mesh of a net; a [[net]]; net-bag.
 
 ===Etymology 3===
 From {{etyl|enm|en}} {{m|enm|*mask}}, {{m|enm|masch}}, from {{etyl|ang|en}} {{m|ang|māx}}, {{m|ang|māsc||mash}}. More at {{l|en|mash}}.
@@ -298,14 +298,14 @@ From {{etyl|enm|en}} {{m|enm|*mask}}, {{m|enm|masch}}, from {{etyl|ang|en}} {{m|
 ====Noun====
 {{en-noun}}
 
-# {{label|en|UK|_|dialectal}} [[mash|Mash]].
+# {{lb|en|UK|_|dialectal}} [[mash|Mash]].
 
 ====Verb====
 {{en-verb}}
 
-# {{label|en|transitive|UK|_|dialectal}} To [[mash]].
-# {{label|en|transitive|UK|_|dialectal}} {{label|en|brewing}} To [[mix]] [[malt]] with hot water to yield [[wort]].
-# {{label|en|UK|_|dialectal|Scotland}} To prepare tea in a teapot; alternative to [[brew]].
+# {{lb|en|transitive|UK|_|dialectal}} To [[mash]].
+# {{lb|en|transitive|UK|_|dialectal}} {{lb|en|brewing}} To [[mix]] [[malt]] with hot water to yield [[wort]].
+# {{lb|en|UK|_|dialectal|Scotland}} To prepare tea in a teapot; alternative to [[brew]].
 
 ===Etymology 4===
 From {{etyl|enm|en}} {{m|enm|masken}}, short for {{m|enm|*maskeren}}, {{m|enm|malskren||to bewilder; be confused, wander}}. More at {{l|en|masker}}.
@@ -313,7 +313,7 @@ From {{etyl|enm|en}} {{m|enm|masken}}, short for {{m|enm|*maskeren}}, {{m|enm|ma
 ====Verb====
 {{en-verb}}
 
-# {{label|en|transitive|UK|_|dialectal}} To [[bewilder]]; [[confuse]].
+# {{lb|en|transitive|UK|_|dialectal}} To [[bewilder]]; [[confuse]].
 
 ====References====
 <references/>
