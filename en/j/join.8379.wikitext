@@ -28,14 +28,14 @@ From {{inh|en|enm|joinen}}, {{m|enm|joynen}}, {{m|enm|joignen}}, from {{bor|en|f
 #* {{quote-book|year=1918|author={{w|W. B. Maxwell}}|chapter=22
 |title=[http://openlibrary.org/works/OL1097634W The Mirror and the Lamp]
 |passage=In the autumn there was a row at some cement works about the unskilled labour men. A union had just been started for them and all but a few '''joined'''. One of these blacklegs was laid for by a picket and knocked out of time.}}
-# {{label|en|computing|databases|transitive}} To produce an [[intersection]] of [[data]] in two or more [[database]] [[table]]s.
+# {{lb|en|computing|databases|transitive}} To produce an [[intersection]] of [[data]] in two or more [[database]] [[table]]s.
 #: {{ux|en|By '''joining''' the Customer table on the Product table, we can show each customer's name alongside the products they have ordered.}}
 # To unite in marriage.
 #* {{w|John Wycliffe}} (1320-1384)
 #*: he that '''joineth''' his virgin in matrimony
 #* Bible, {{w|Gospel of Matthew|Matthew}} xix. 6
 #*: What, therefore, God hath '''joined''' together, let not man put asunder.
-# {{label|en|obsolete|rare}} To [[enjoin]] upon; to [[command]].
+# {{lb|en|obsolete|rare}} To [[enjoin]] upon; to [[command]].
 #* {{w|William Tyndale}} (1494-1536)
 #*: They '''join''' them penance, as they call it.
 # To accept, or engage in, as a contest.
@@ -174,8 +174,8 @@ From {{inh|en|enm|joinen}}, {{m|enm|joynen}}, {{m|enm|joignen}}, from {{bor|en|f
 {{en-noun}}
 
 # An intersection of piping or wiring; an [[interconnect]].
-# {{label|en|computing|databases}} An [[intersection]] of [[data]] in two or more [[database]] [[table]]s.
-# {{label|en|algebra}} The lowest upper bound, an operation between pairs of elements in a [[lattice]], denoted by the symbol {{m|mul|∨}}.
+# {{lb|en|computing|databases}} An [[intersection]] of [[data]] in two or more [[database]] [[table]]s.
+# {{lb|en|algebra}} The lowest upper bound, an operation between pairs of elements in a [[lattice]], denoted by the symbol {{m|mul|∨}}.
 
 ====Antonyms====
 * {{sense|lowest upper bound}} {{l|en|meet}}
