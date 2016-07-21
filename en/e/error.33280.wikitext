@@ -20,10 +20,10 @@ From {{etyl|enm|en}} {{m|enm|errour}}, from {{etyl|la|en}} {{m|la|error||wanderi
 ===Noun===
 {{en-noun|~}}
 
-# {{label|en|uncountable}} The state, quality, or condition of being [[wrong]].
+# {{lb|en|uncountable}} The state, quality, or condition of being [[wrong]].
 #* '''1913''', The Inland printer:
 #*: "Am I in '''error''' in marking out the ''s'' in the word ''assistants'' used in the following manner? [...]"
-# {{label|en|countable}} A [[mistake]]; an accidental wrong action or a false statement not made deliberately.
+# {{lb|en|countable}} A [[mistake]]; an accidental wrong action or a false statement not made deliberately.
 #* {{quote-journal
 |date=October 22, 2011
 |author=Sam Sheringham
@@ -32,10 +32,10 @@ From {{etyl|enm|en}} {{m|enm|errour}}, from {{etyl|la|en}} {{m|la|error||wanderi
 |url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/15319417.stm#skip_feature_02
 |page=
 |passage=Chris Brunt sliced the spot-kick well wide but his '''error''' was soon forgotten as Olsson headed home from a corner.}}
-# {{label|en|computing|countable}} A [[failure]] to complete a task, usually involving a premature termination.
-# {{senseid|en|difference between a measured or calculated value and a true one}}{{label|en|statistics|countable}} The [[difference]] between a [[measured]] or [[calculated]] [[value]] and a [[true]] one.
-# {{label|en|baseball|countable}} A play which is scored as having been made incorrectly.
-# {{label|en|appellate|_|legal|uncountable}} One or more mistakes in a trial that could be grounds for review of the judgement.
+# {{lb|en|computing|countable}} A [[failure]] to complete a task, usually involving a premature termination.
+# {{senseid|en|difference between a measured or calculated value and a true one}}{{lb|en|statistics|countable}} The [[difference]] between a [[measured]] or [[calculated]] [[value]] and a [[true]] one.
+# {{lb|en|baseball|countable}} A play which is scored as having been made incorrectly.
+# {{lb|en|appellate|_|legal|uncountable}} One or more mistakes in a trial that could be grounds for review of the judgement.
 # Any alteration in the DNA chemical structure occurring during DNA replication, recombination or repairing.
 
 ====Synonyms====
@@ -207,13 +207,13 @@ From {{etyl|enm|en}} {{m|enm|errour}}, from {{etyl|la|en}} {{m|la|error||wanderi
 ===Verb===
 {{en-verb}}
 
-# {{label|en|computing}} To function improperly due to an error, especially accompanied by error message.
+# {{lb|en|computing}} To function improperly due to an error, especially accompanied by error message.
 #: ''The web-page took a long time to load and '''errored''' out.''
 #: ''Remove that line of code and the script should stop '''erroring''' there.''
 #: ''This directory '''errors''' with a "Permission denied" message.''
-# {{label|en|telecommunications}} To show or contain an error or fault.
+# {{lb|en|telecommunications}} To show or contain an error or fault.
 #: ''The block transmission '''errored''' near the start and could not be received.''
-# {{label|en|nonstandard}} To [[err]].
+# {{lb|en|nonstandard}} To [[err]].
 #* '''1993''' December, Arie Kaufman (editor), ''Rendering, Visualization, and Rasterization Hardware'', Springer-Verlag New York LLC
 #*: Pixels which are mathematically outside of a triangle, but which are included for anti-aliasing purposes can be generated with colour and depth information outside of the valid range. The ADE should identify these cases and clamp the output to the minimum or maximum value depending on the direction it has '''errored''' in.
 #* '''2000''' December, Randy W. Kamphaus, ''Clinical Assessment of Child And Adolescent Intelligence'', Allyn & Bacon
