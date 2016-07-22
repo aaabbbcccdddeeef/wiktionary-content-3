@@ -49,20 +49,16 @@ From {{etyl|frm|en}} {{m|frm|énergie}}, from {{etyl|LL.|en}} {{m|la|energia}}, 
 | {{l|en|barycentric energy}}
 | {{l|en|binding energy}}
 | {{l|en|bioenergy}}
-| {{l|en|bond dissociation energy}}
 | {{l|en|bond energy}}
-| {{l|en|bundle of energy}}
 | {{l|en|chemical energy}}
 | {{l|en|cohesive energy}}
 | {{l|en|collateral energy}}
-| {{l|en|conservation of energy}}
 | {{l|en|correlation energy}}
 | {{l|en|Coulomb energy}}
 | {{l|en|dark energy}}
 | {{l|en|deformation energy}}
 | {{l|en|disintegration energy}}
 | {{l|en|dissociation energy}}
-| {{l|en|eddy kinetic energy}}
 | {{l|en|effective energy}}
 | {{l|en|eigenenergy}}
 | {{l|en|elastic energy}}
@@ -123,7 +119,6 @@ From {{etyl|frm|en}} {{m|frm|énergie}}, from {{etyl|LL.|en}} {{m|la|energia}}, 
 | {{l|en|Wigner energy}}
 | {{l|en|Zeeman energy}}
 | {{l|en|zero-point energy}}
-| {{l|en|zonal kinetic energy}}
 }}
 
 ====Derived terms====
@@ -154,9 +149,13 @@ From {{etyl|frm|en}} {{m|frm|énergie}}, from {{etyl|LL.|en}} {{m|la|energia}}, 
 }}
 
 ====Related terms====
-* {{l|en|ergonomics}}
-* {{l|en|law of conservation of energy}}
-* {{l|en|synergy}}
+{{rel4
+| {{l|en|bundle of energy}}
+| {{l|en|conservation of energy}}
+| {{l|en|ergonomics}}
+| {{l|en|law of conservation of energy}}
+| {{l|en|synergy}}
+}}
 
 ====Translations====
 {{trans-top|impetus behind activity}}
