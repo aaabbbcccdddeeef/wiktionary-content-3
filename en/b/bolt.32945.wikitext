@@ -388,7 +388,7 @@ From {{etyl|enm|en}} {{m|enm|bulten}}, from {{etyl|xno|en}} {{m|fro|buleter|}}, 
 {{borrowing|it|volta||vault|lang=hu}}.
 
 ===Pronunciation===
-* {{IPA|/ˈbolt/|lang=hu}}
+* {{hu-IPA}}
 
 ===Noun===
 {{hu-noun|ok}}
@@ -397,18 +397,31 @@ From {{etyl|enm|en}} {{m|enm|bulten}}, from {{etyl|xno|en}} {{m|fro|buleter|}}, 
 # [[vault]]
 
 ====Declension====
-{{hu-decl-ok|bol|t|ot}}{{hu-pos-otok|bolt|j|jai}}
+{{hu-infl-nom|bolto|o}}{{hu-pos-otok|bolt|j|jai}}
 
 ====Synonyms====
 * {{sense|shop}} [[áruház]], [[üzlet]]
 
 ====Derived terms====
-* {{sense|shop}} [[ajándékbolt]], [[boltkóros]], [[bolti]], [[boltos]], [[illatszerbolt]], [[játékbolt]], [[kenyérbolt]], [[könyvesbolt]]
-* {{sense|vault}} [[égbolt]], [[boltozat]]
+* {{l|hu|bolti}}
+* {{l|hu|boltos}}
+* {{l|hu|boltozat}}
+{{der4|lang=hu|title=Compound words
+|ajándékbolt
+|barkácsbolt
+|boltkóros
+|égbolt
+|illatszerbolt
+|játékbolt
+|kenyérbolt
+|könyvesbolt
+}}
+
 
 [[Category:hu:Buildings]]
 
 ----
+
 ==Norwegian Bokmål==
 
 ===Etymology===
