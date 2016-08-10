@@ -33,7 +33,7 @@ From {{suffix|localize|ation|lang=en}}; compare French {{m|fr|localisation}}.
 *: Mandarin: {{t+|cmn|本地化|tr=běndìhuà|sc=Hani}}, {{t|cmn|地方化|tr=dìfānghuà|sc=Hani}}
 * Dutch: {{t+|nl|lokalisatie|f}}
 * Finnish: {{t+|fi|lokalisoida}}, {{t+|fi|kotoistaa}}
-* French: {{t+|fr|localisation}}
+* French: {{t+|fr|localisation|f}}
 * German: {{t|de|Lokalisieren|n}}, {{t|de|Lokalisierung|f}}
 * Greek: {{t+|el|εντοπισμός|m}} (''entopismós'')
 {{trans-mid}}
@@ -49,23 +49,11 @@ From {{suffix|localize|ation|lang=en}}; compare French {{m|fr|localisation}}.
 * Turkish: {{t+|tr|lokalizasyon}}, {{t|tr|yerini saptama}}, {{t|tr|yerini tayin etme}}
 {{trans-bottom}}
 
-{{trans-top|state of being localized}}
-* Chinese:
-*: Mandarin: {{t+|cmn|本地化|tr=běndìhuà|sc=Hani}}
-* Dutch: {{t+|nl|lokalisatie|f}}
-{{trans-mid}}
-* French: {{t+|fr|localisation}}
-* Italian: {{t+|it|localizzazione}}
-* Norwegian: {{t|no|lokalisering|f}}
-* Portuguese: {{t+|pt|localização|f}}
-* Russian: {{t|ru|локализо́ванность|f}}
-* Spanish: {{t+|es|localización}}
-{{trans-bottom}}
-
 {{trans-top|software engineering: act or process of making a product suitable for use in a particular country or region}}
 * Chinese:
 *: Mandarin: {{t+|cmn|本地化|tr=běndìhuà|sc=Hani}}
 * Dutch: {{t-check|nl|[[landelijke]] [[aanpassing]]}} <!-- was "landelijke aanpassing" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* French: {{t+|fr|localisation|f}} (''Anglicism'')
 * German: {{t|de|Lokalisierung|f}}
 * Greek: {{t|el|τοπικοποίηση|f}} (''topikopoíisi'')
 {{trans-mid}}
@@ -78,8 +66,24 @@ From {{suffix|localize|ation|lang=en}}; compare French {{m|fr|localisation}}.
 * Turkish: {{t+|tr|sınırlama}}, {{t+|tr|yerelleştirme}}
 {{trans-bottom}}
 
+{{trans-top|state of being localized}}
+* Chinese:
+*: Mandarin: {{t+|cmn|本地化|tr=běndìhuà|sc=Hani}}
+* Dutch: {{t+|nl|lokalisatie|f}}
+{{trans-mid}}
+* French: {{t+|fr|localisation|f}}
+* Italian: {{t+|it|localizzazione}}
+* Norwegian: {{t|no|lokalisering|f}}
+* Portuguese: {{t+|pt|localização|f}}
+* Russian: {{t|ru|локализо́ванность|f}}
+* Spanish: {{t+|es|localización}}
+{{trans-bottom}}
+
+{{trans-top|systematic method of adding multiplicative inverses to a ring}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{checktrans-top}}
-* French: {{t+check|fr|localisation|f}}
 * Italian: {{t-check|it|localizzazione}}
 * Korean: {{t-check|ko|지방화|tr=rookaraizeeshon|sc=Kore}}
 {{trans-mid}}
