@@ -1,6 +1,5 @@
 {{also|Image|imagé}}
 ==English==
-{{wikipedia}}
 [[Image:Gnome-applications-graphics.svg|100px|right|thumb|An image that represents image files]]
 
 ===Etymology===
@@ -42,29 +41,42 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{m|la|imāgō||
 * {{sense|something mapped to}} {{l|en|value}}
 * {{sense|subset of the codomain}} {{l|en|range}}
 
+====Hyponyms====
+{{hyp4
+| {{l|en|inverse image}}
+| {{l|en|macroimage}}
+| {{l|en|mental image}}
+| {{l|en|microimage}}
+| {{l|en|mirror image}}
+| {{l|en|real image}}
+| {{l|en|spitting image}}
+| {{l|en|virtual image}}
+}}
+
 ====Derived terms====
-{{top2}}
-* {{l|en|imagery}}
-* {{l|en|image magic}}
-* {{l|en|inverse image}}
-* {{l|en|macroimage}}
-* {{l|en|mental image}}
-* {{l|en|microimage}}
-{{mid2}}
-* {{l|en|mirror image}}
-* {{l|en|preimage}}
-* {{l|en|real image}}
-* {{l|en|reimage}}
-* {{l|en|spitting image}}
-* {{l|en|virtual image}}
-{{bottom}}
+{{der4
+| {{l|en|five-image}}
+| {{l|en|four-image}}
+| {{l|en|imagery}}
+| {{l|en|macroimage}}
+| {{l|en|microimage}}
+| {{l|en|one-image}}
+| {{l|en|preimage}}
+| {{l|en|reimage}}
+| {{l|en|six-image}}
+| {{l|en|three-image}}
+| {{l|en|two-image}}
+}}
 
 ====Related terms====
-* {{l|en|imaginary}}
-* {{l|en|imaginable}}
-* {{l|en|imagination}}
-* {{l|en|imaginative}}
-* {{l|en|imagine}}
+{{rel4
+| {{l|en|image magic}}
+| {{l|en|imaginary}}
+| {{l|en|imaginable}}
+| {{l|en|imagination}}
+| {{l|en|imaginative}}
+| {{l|en|imagine}}
+}}
 
 ====Descendants====
 * German: {{l|de|Image}}
@@ -221,6 +233,9 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{etyl|la|en}} {{m|la|imāgō||
 * Finnish: {{t|fi|kuvausjoukko}}
 {{trans-mid}}
 {{trans-bottom}}
+
+===References===
+* {{pedia}}
 
 ===Verb===
 {{en-verb|imag}}
