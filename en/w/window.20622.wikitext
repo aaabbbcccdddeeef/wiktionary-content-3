@@ -150,11 +150,11 @@ From {{etyl|enm|en}} {{m|enm|windowe}}, {{m|enm|windohe}}, {{m|enm|windoge}}, fr
 * Bashkir: {{t|ba|тәҙрә}}
 * Basque: {{t|eu|leiho}}
 * Belarusian: {{t|be|акно́|n}}, {{t|be|вакно́|n}}
-* Bengali: {{t|bn|জানালা|tr=janala|sc=Beng}}
+* Bengali: {{t|bn|জানালা|sc=Beng}}
 * Breton: {{t+|br|prenestr|m}}
 * Bulgarian: {{t+|bg|прозо́рец|m}}
 * Burmese: {{t+|my|ပြတင်းပေါက်}}, {{t+|my|လေသာပေါက်}}
-* Buryat: {{qualifier|Russian Buryat}} {{t|bua|сонхо}}
+* Buryat: {{t|bua|сонхо}}
 * Catalan: {{t+|ca|finestra|f}}
 * Chamicuro: {{t|ccc|wentana}}
 * Chechen: {{t|ce|кор}}
@@ -164,8 +164,8 @@ From {{etyl|enm|en}} {{m|enm|windowe}}, {{m|enm|windohe}}, {{m|enm|windoge}}, fr
 *: Cantonese: {{t|yue|窗|tr=coeng1|sc=Hani}}
 *: Mandarin: {{t+|cmn|窗戶|sc=Hani}}, {{t+|cmn|窗户|tr=chuānghù|sc=Hani}}, {{t+|cmn|窗口|tr=chuāngkǒu|sc=Hani}}, {{t+|cmn|窗子|tr=chuāngzi|sc=Hani}}
 *: Min Dong: {{t|cdo|檻門囝|sc=Hani}}, {{t|cdo|槛门囝|tr=kāng-muòng-giāng|sc=Hani}}, {{t|cdo|檻門|sc=Hani}}, {{t|cdo|槛门|tr=kāng-muòng|sc=Hani}}
-*: Min Nan: {{t|yue|窗仔門|sc=Hani}}, {{t|yue|窗仔门|tr=[[thang-á-mn̂g]]|sc=Hani}}, {{t+|nan|窗|tr=thang|sc=Hani}}
-*: Wu: {{t|wuu|窗头|tr=tshaon-deu|sc=Hani}}, {{t|wuu|窗頭|sc=Hani}}, {{t|wuu|窗头|tr=tshaan deu|sc=Hani}}
+*: Min Nan: {{t|yue|窗仔門|sc=Hani}}, {{t|yue|窗仔门|tr=thang-á-mn̂g|sc=Hani}}, {{t+|nan|窗|tr=thang|sc=Hani}}
+*: Wu: {{t|wuu|窗頭|sc=Hani}}, {{t|wuu|窗头|tr=tshaan deu|sc=Hani}}
 * Chuvash: {{t|cv|чӳрече}}
 * Cornish: {{t|kw|fenester}}
 * Corsican: {{t+|co|finestra|f}}
@@ -197,7 +197,7 @@ From {{etyl|enm|en}} {{m|enm|windowe}}, {{m|enm|windohe}}, {{m|enm|windoge}}, fr
 * Hausa: {{t|ha|taga|f}}
 * Hawaiian: {{t|haw|pukaaniani}}
 * Hebrew: {{t+|he|חַלּוֹן|m|tr=khalón}}
-* Hindi: {{t+|hi|खिड़की|f|tr=khiṛkī}}
+* Hindi: {{t+|hi|खिड़की|f}}
 * Hungarian: {{t+|hu|ablak}}
 * Icelandic: {{t+|is|gluggi|m}}
 * Ido: {{t+|io|fenestro}}
@@ -212,7 +212,6 @@ From {{etyl|enm|en}} {{m|enm|windowe}}, {{m|enm|windohe}}, {{m|enm|windoge}}, fr
 * Japanese: {{t+|ja|窓|tr=[[まど]], mado}}, {{qualifier|cashier window}} {{t+|ja|窓口|tr=まどぐち, madoguchi|sc=Jpan}}, {{qualifier|katakana}} {{t+|ja|ウィンドウ|tr=u~indō|sc=Jpan}}
 * Javanese: {{t|jv|jendhéla}}, {{t|jv|cendhéla}}
 * Neapolitan: {{t|nap|fenesta|f}}
-* Norman: {{qualifier|Jersey}} {{t|nrf|f'nêtre|f}}, {{t|nrf|f'nêt'|f}}, {{qualifier|Guernsey}} {{t|nrf|f'nête}}, {{qualifier|Sark}} {{t|nrf|fneetr|f}}
 * Kabardian: {{t|kbd|щхьэгъубжэ}}
 * Kalmyk: {{t|xal|терз}}
 * Kannada: {{t+|kn|ಕಿಟಕಿ|sc=Knda}}
@@ -248,11 +247,12 @@ From {{etyl|enm|en}} {{m|enm|windowe}}, {{m|enm|windohe}}, {{m|enm|windoge}}, fr
 * Maltese: {{t+|mt|tieqa|f}}
 * Mandinka: {{t|mnk|janerango}}
 * Manx: {{t|gv|uinnag|f}}
-* Marathi: {{t|mr|खिडकी|f|tr=khiḍkī|sc=Deva}}
+* Marathi: {{t|mr|खिडकी|f|sc=Deva}}
 * Mirandese: {{t|mwl|jinela|f}}
 * Mongolian: {{t+|mn|цонх|sc=Cyrl}}
 * Nama: {{t|naq|mûǂûi-daos}}
 * Navajo: {{t|nv|tsésǫʼ}}
+* Norman: {{qualifier|Jersey}} {{t|nrf|f'nêtre|f}}, {{t|nrf|f'nêt'|f}}, {{qualifier|Guernsey}} {{t|nrf|f'nête}}, {{qualifier|Sark}} {{t|nrf|fneetr|f}}
 * North Frisian:
 *: Föhr-Amrum: {{t|frr|wöning|n}}
 *: Helgoland: {{t|frr|Fenster|n}}
@@ -280,7 +280,7 @@ From {{etyl|enm|en}} {{m|enm|windowe}}, {{m|enm|windohe}}, {{m|enm|windoge}}, fr
 * Russian: {{t+|ru|окно́|n}}
 * Rwanda-Rundi: {{t|rw|idirishya|c5|c6}}, {{t|rw|idirisha}}
 * Samoan: {{t|sm|fa'amalama}}
-* Sanskrit: {{t+|sa|वातायनः|tr=vātāyanaḥ|sc=Deva}}
+* Sanskrit: {{t+|sa|वातायन|n|sc=Deva}}
 * Sardinian: {{t|sc|fentana|f}}, {{t|sc|fontana}}, {{t|sc|vantana}}, {{t|sc|balcone}}, {{t|sc|balconi}}, {{t|sc|barcone}}, {{t|sc|barconi}}, {{t|sc|bracone}}, {{t|sc|bracone}}
 * Scots: {{t|sco|windae}}, {{t|sco|winnock}}, {{t|sco|wyndok}}
 * Scottish Gaelic: {{t|gd|uinneag|f}}
@@ -309,7 +309,7 @@ From {{etyl|enm|en}} {{m|enm|windowe}}, {{m|enm|windohe}}, {{m|enm|windoge}}, fr
 * Taos: {{t|twf|łòxwóloną}}
 * Tatar: {{t+|tt|тәрәзә}}
 * Telugu: {{t+|te|కిటికీ|sc=Telu}}
-* Thai: {{t+|th|หน้าต่าง|tr=nâa dtàang}}
+* Thai: {{t+|th|หน้าต่าง}}
 * Tibetan: {{t|bo|སྒེ་ཁུང|sc=Tibt}}
 * Turkish: {{t+|tr|pencere}}, {{t+|tr|cam}}
 * Turkmen: {{t|tk|penjire}}
@@ -331,7 +331,7 @@ From {{etyl|enm|en}} {{m|enm|windowe}}, {{m|enm|windohe}}, {{m|enm|windoge}}, fr
 * Wolof: {{t|wo|palanteer}}
 * Xhosa: {{t|xh|ifestile|c9|c10}}
 * Yakut: {{t|sah|түннүк|sc=Cyrl}}
-* Yiddish: {{t|yi|פֿענצטער|m|tr=fentster|sc=Hebr}}
+* Yiddish: {{t|yi|פֿענצטער|m|sc=Hebr}}
 * Yoruba: {{t|yo|fèrèsé}}, {{t|yo|ojú afẹ́fẹ́}}
 * Yup'ik: {{t|esu|egaleq}}
 * Zulu: {{t+|zu|ifasitela|c5|c6}}
