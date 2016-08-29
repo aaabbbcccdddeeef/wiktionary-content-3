@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|ja|en}} {{m|ja|仮名|tr=kana||phonetic character|pos=literally “borrowed character”, from the way that ''kana'' were originally Chinese characters "borrowed" for their phonetic values}}.
+{{bor|en|ja|仮名|tr=kana||phonetic character|pos=literally “borrowed character”, from the way that ''kana'' were originally Chinese characters "borrowed" for their phonetic values}}.
 
 ===Pronunciation===
 * {{IPA|/ˈkɑːnə/|[ˈkʰɑːnə]|lang=en}}
@@ -75,12 +75,15 @@ From {{etyl|ja|en}} {{m|ja|仮名|tr=kana||phonetic character|pos=literally “b
 ==Breton==
 
 ===Etymology===
-From {{etyl|cel-pro|br}} (compare {{cog|cy|canu}}, {{cog|ga|canadh}}).
+{{inh|br|cel-pro}} (compare {{cog|cy|canu}}, {{cog|ga|canadh}}).
 
 ===Verb===
 {{br-verb}}
 
-# to [[sing]]
+# {{def|to [[sing]]}}
+
+===Mutation===
+{{br-verb-mutation|k|ana}}
 
 ----
 
@@ -100,7 +103,7 @@ From {{etyl|cel-pro|br}} (compare {{cog|cy|canu}}, {{cog|ga|canadh}}).
 [[image:Chicken portrait.jpg|thumb]]
 
 ===Etymology===
-From {{etyl|gem-pro|et}} {{m|gem-pro|*hanô}}, cognate to Old Icelandic [[hani]], Gothic [[hani]], Swedish [[hane]], Finnish {{m|fi|kana}}, Livonian [[kanā]], Votic [[kana]], Veps [[kana]]
+From {{der|et|gem-pro|*hanô}}, cognate to {{cog|non|hani}}, {{cog|got|𐌷𐌰𐌽𐌰}}, {{cog|sv|hane}}, {{cog|fi|kana}}, {{cog|liv|kanā}}, {{cog|vot|kana}}, {{cog|vep|kana}}.
 
 ===Noun===
 {{et-noun|kana|kana}}
@@ -124,7 +127,7 @@ From {{etyl|gem-pro|et}} {{m|gem-pro|*hanô}}, cognate to Old Icelandic [[hani]]
 ==Fijian==
 
 ===Etymology===
-From {{etyl|poz-oce-pro|fj}}, from {{etyl|poz-pro|fj}} {{m|poz-pro|*kaən}}, from {{etyl|map-pro|fj}} {{m|map-pro|*kaən}}.
+From {{inh|fj|poz-oce-pro|-}}, from {{inh|fj|poz-pro|*kaən}}, from {{inh|fj|map-pro|*kaən}}.
 
 ===Verb===
 {{head|fj|verb}}
@@ -144,7 +147,7 @@ From {{etyl|poz-oce-pro|fj}}, from {{etyl|poz-pro|fj}} {{m|poz-pro|*kaən}}, fro
 * {{audio|fi-kana.ogg|Audio|lang=fi}}
 
 ===Etymology 1===
-Borrowed from a {{etyl|gem|fi}} language, ultimately from {{etyl|gem-pro|fi}} {{m|gem-pro|*hanô}}. Related to Estonian {{m|et|kana}}.
+Borrowed from a {{der|fi|gem}} language, ultimately from {{der|fi|gem-pro|*hanô}}. Related to {{cog|et|kana}}.
 
 ====Noun====
 {{fi-noun}}
@@ -161,7 +164,7 @@ Borrowed from a {{etyl|gem|fi}} language, ultimately from {{etyl|gem-pro|fi}} {{
 |title=[[Kalevala]]
 |page=
 |passage=
-''Sanoi Pohjolan emäntä, itse lausui, noin nimesi:/ Kummallenp' on mielit mennä, kun tulevat tahtomahan/ ikuiseksi ystäväksi, kainaloiseksi '''kanaksi'''?''<br>
+''Sanoi Pohjolan emäntä, itse lausui, noin nimesi:/ Kummallenp' on mielit mennä, kun tulevat tahtomahan/ ikuiseksi ystäväksi, kainaloiseksi '''kanaksi'''?''
 #*:: Said the mistress of Pohjola, stated herself, thus worded:/ To which one do you want to go, when they come to woo you/ to be their eternal friend, a '''chicken''' under their arm?}}
 
 =====Declension=====
@@ -181,48 +184,45 @@ The word '''''kana''''' usually refers to a mature bird. The Finnish translation
 * {{l|fi|kuin päätön kana}}
 
 =====Compounds=====
-{{top4}}
-* [[helmikana]]
-* [[kanaemo]]
-* [[kanahaukka]]
-* [[kanahäkki]]
-* [[kanakarja]]
-* [[kanakeitto]]
-* [[kanakoira]]
-* [[kanakolera]]
-* [[kanakoppi]]
-* [[kanalintu]]
-{{mid4}}
-* [[kanamainen]]
-* [[kanamuori]]
-* [[kananhoito]]
-* [[kanankaali]]
-* [[kanankoipi]]
-* [[kananlanta]]
-* [[kananliha]]
-* [[kananmuna]]
-* [[kananpaisti]]
-{{mid4}}
-* [[kananpaska]]
-* [[kananpoika]]
-* [[kananpoikanen]]
-* [[kananpää]]
-* [[kananrinta]]
-* [[kananruoka]]
-* [[kanansiipi]]
-* [[kanaparvi]]
-* [[kanapoikanen]]
-{{mid4}}
-* [[kanarotu]]
-* [[kanarutto]]
-* [[kanatarha]]
-* [[kanatuberkuloosi]]
-* [[kanatäi]]
-* [[kanavaras]]
-* [[liejukana]]
-* [[metsäkana]]
-* [[nokikana]]
-{{bottom}}
+{{der3|lang=fi<!--
+-->|helmikana<!--
+-->|kanaemo<!--
+-->|kanahaukka<!--
+-->|kanahäkki<!--
+-->|kanakarja<!--
+-->|kanakeitto<!--
+-->|kanakoira<!--
+-->|kanakolera<!--
+-->|kanakoppi<!--
+-->|kanalintu<!--
+-->|kanamainen<!--
+-->|kanamuori<!--
+-->|kananhoito<!--
+-->|kanankaali<!--
+-->|kanankoipi<!--
+-->|kananlanta<!--
+-->|kananliha<!--
+-->|kananmuna<!--
+-->|kananpaisti<!--
+-->|kananpaska<!--
+-->|kananpoika<!--
+-->|kananpoikanen<!--
+-->|kananpää<!--
+-->|kananrinta<!--
+-->|kananruoka<!--
+-->|kanansiipi<!--
+-->|kanaparvi<!--
+-->|kanapoikanen<!--
+-->|kanarotu<!--
+-->|kanarutto<!--
+-->|kanatarha<!--
+-->|kanatuberkuloosi<!--
+-->|kanatäi<!--
+-->|kanavaras<!--
+-->|liejukana<!--
+-->|metsäkana<!--
+-->|nokikana<!--
+-->}}
 
 =====See also=====
 * {{l|fi|kaakattaa}}
@@ -255,7 +255,7 @@ From Japanese
 ==Lower Sorbian==
 
 ===Etymology===
-From {{etyl|de|dsb}} {{m|de|Kanne}}, from {{etyl|gem-pro|dsb}} {{m|gem-pro|*kannǭ}}.
+{{bor|dsb|de|Kanne}}, from {{der|dsb|gem-pro|*kannǭ}}.
 
 ===Pronunciation===
 * {{IPA|[ˈkana]|lang=dsb}}
@@ -293,7 +293,7 @@ From {{etyl|de|dsb}} {{m|de|Kanne}}, from {{etyl|gem-pro|dsb}} {{m|gem-pro|*kann
 ==Serbo-Croatian==
 
 ===Etymology 1===
-From {{etyl|tr|sh}} {{m|tr|kına}}, from {{etyl|ar|sh}} {{m|ar|حِنَّاء}}.
+From {{der|sh|tr|kına}}, from {{der|sh|ar|حِنَّاء}}.
 
 ====Pronunciation====
 * {{IPA|/kâna/|lang=sh}}
@@ -315,7 +315,7 @@ From {{etyl|tr|sh}} {{m|tr|kına}}, from {{etyl|ar|sh}} {{m|ar|حِنَّاء}}.
 }}
 
 ===Etymology 2===
-From {{etyl|ja|sh}} {{m|ja|仮名|tr=kana}}.
+{{bor|sh|ja|仮名|tr=kana}}.
 
 ====Pronunciation====
 * {{IPA|/kǎna/|lang=sh}}
@@ -382,7 +382,7 @@ From {{etyl|ja|sh}} {{m|ja|仮名|tr=kana}}.
 ==Veps==
 
 ===Etymology===
-Ultimately from {{etyl|gem-pro|vep}} {{m|gem-pro|*hanô}}.
+Ultimately from {{der|vep|gem-pro|*hanô}}.
 
 ===Noun===
 {{vep-noun}}
@@ -409,7 +409,7 @@ Ultimately from {{etyl|gem-pro|vep}} {{m|gem-pro|*hanô}}.
 ==Võro==
 
 ===Etymology===
-Ultimately from {{etyl|gem-pro|vro}} {{m|gem-pro|*hanô}}. Cognate to Estonian {{m|et|kana}}.
+Ultimately from {{der|vro|gem-pro|*hanô}}. Cognate to {{cog|et|kana}}.
 
 ===Pronunciation===
 * {{IPA|/kɑnɑ/|lang=vro}}
