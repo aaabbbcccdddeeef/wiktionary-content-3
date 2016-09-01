@@ -1,16 +1,35 @@
 ==English==
 
 ===Etymology===
-{{suffix|Venetia|an|lang=en}}, from {{etyl|la|en}} {{m|la|Venetia||Venice}}.
+{{suffix|en|Venetia|an}}, from {{der|en|la|Venetia||Venice}}.
 
 ===Pronunciation===
-* {{IPA|/vəˈniʃən/|lang=en}}
+* {{a|GA}} {{IPA|/vəˈniʃən/|lang=en}}
+* {{a|RP}} {{IPA|/vəˈniːʃən/|lang=en}}
 * {{rhymes|iːʃən|lang=en}}
 
 ===Adjective===
 {{en-adj|-}}
 
-# Of, from, or relating to [[Venice]].
+# Of, from, or relating to {{l|en|Venice}}.
+
+====Derived terms====
+{{der-top5}}
+* {{l|en|Venetian blind}}
+* {{l|en|Venetian carpet}}
+{{der-mid5}}
+* {{l|en|Venetian ceruse}}
+* {{l|en|Venetian chalk}}
+{{der-mid5}}
+* {{l|en|Venetian door}}
+* {{l|en|Venetian glass}}
+{{der-mid5}}
+* {{l|en|Venetian red}}
+* {{l|en|Venetian soap}}
+{{der-mid5}}
+* {{l|en|Venetian sumac}}
+* {{l|en|Venetian window}}
+{{der-bottom}}
 
 ====Translations====
 {{trans-top|relating to Venice}}
@@ -19,7 +38,7 @@
 * Dutch: {{t+|nl|Venetiaans}}
 * Finnish: {{t+|fi|venetsialainen}}
 * French: {{t+|fr|vénitien}}
-* Galician: {{t|gl|veneciano}}, {{t+|gl|véneto}}
+* Galician: {{t|gl|veneciano}}
 * German: {{t+|de|venezianisch}}
 * Greek: {{t+|el|βενετσιάνικος}}
 * Hungarian: {{t+|hu|velencei}}
@@ -32,18 +51,17 @@
 *: Nynorsk: {{t|nn|venetiansk}}
 * Polish: {{t+|pl|wenecki}}
 * Portuguese: {{t+|pt|veneziano}}
-* Spanish: {{t+|es|veneciano}}, {{t+|es|véneto}}
+* Spanish: {{t+|es|veneciano}}
 * Venetian: {{t|vec|venessian}}
 {{trans-bottom}}
 
 ===Noun===
 {{en-noun}}
 
-# An inhabitant or a resident of [[Venice]] and the region of [[Venezia]].
-# {{lb|en|colloquial}} A [[Venetian blind]].
-#* Mowbray Thomson, ''The Story of Cawnpore''
-#*: We never saw her ladyship, but the attendants told us, that the '''Venetians''' of her apartments were not impenetrably opaque from within, and that the old lady had seen us, and was concerned for our welfare.
-# {{lb|en|obsolete|in the plural}} [[galligaskins]]
+# {{l|en|An inhabitant or a resident of [[Venice]] and the region of [[Venezia]].}}
+# {{lb|en|colloquial}} A {{l|en|Venetian blind}}.
+#* {{quote-book|author=Mowbray Thomson|title=The Story of Cawnpore|passage=We never saw her ladyship, but the attendants told us, that the '''Venetians''' of her apartments were not impenetrably opaque from within, and that the old lady had seen us, and was concerned for our welfare.}}
+# {{lb|en|obsolete|in the plural}} {{l|en|galligaskins}}
 
 ====Translations====
 {{trans-top|inhabitant of Venice (city)}}
@@ -65,31 +83,18 @@
 * Spanish: {{t+|es|veneciano|m}}, {{t+|es|veneciana|f}}, {{t+|es|véneto|m}}
 * Turkish: {{t|tr|Venedikli}}
 {{trans-bottom}}
-
 {{trans-top|inhabitant of Venice (region)}}
 * Irish: {{t|ga|Veinéiseach|m}}
 {{trans-mid}}
 * Polish: {{t+|pl|Wenecjanin|m}}, {{t+|pl|Wenecjanka|f}}
 {{trans-bottom}}
 
-===Related terms===
-* {{l|en|Venetian blind}}
-* {{l|en|Venetian carpet}}
-* {{l|en|Venetian ceruse}}
-* {{l|en|Venetian chalk}}
-* {{l|en|Venetian door}}
-* {{l|en|Venetian glass}}
-* {{l|en|Venetian red}}
-* {{l|en|Venetian soap}}
-* {{l|en|Venetian sumac}}
-* {{l|en|Venetian window}}
-
 ===Proper noun===
 {{en-proper noun}}
 {{wikipedia|Venetian language}}
 
-# The [[Romance]] [[language]] spoken mostly in the [[Veneto]] region of [[Italy]], sometimes considered to be a [[dialect]] of [[Italian]]. It should not be confused with [[Venetic]], an extinct [[Indo-European]] language once spoken in the same area.
-# The form of this language spoken in [[Venice]].
+# {{def|The [[Romance]] [[language]] spoken mostly in the [[Veneto]] region of [[Italy]], sometimes considered to be a [[dialect]] of [[Italian]]. It should not be confused with [[Venetic]], an extinct [[Indo-European]] language once spoken in the same area.}}
+# The form of this language spoken in {{l|en|Venice}}.
 
 ====Translations====
 {{trans-top|Romance language}}
@@ -106,11 +111,10 @@
 * Swedish: {{t+|sv|venetianska|c}}
 * Venetian: {{t+|vec|vèneto|m}}, {{t|vec|łéngua vèneta|f}}
 {{trans-bottom}}
-
 {{trans-top|form spoken in Venice}}
 * Italian: {{t+|it|veneziano|m}}
 {{trans-mid}}
-* Venetian: {{t|vec|venesian}}
+* Venetian: {{t|vec|venesian|m}}
 {{trans-bottom}}
 
 ===See also===
@@ -121,9 +125,7 @@
 ===Anagrams===
 * {{l|en|Aventine}}
 
-[[Category:English words suffixed with -ian]]
-[[Category:en:Demonyms]]
-[[Category:en:Languages]]
+{{catlangcode|en|Demonyms|Languages}}
 
 [[ca:Venetian]]
 [[fr:Venetian]]
