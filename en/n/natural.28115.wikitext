@@ -134,6 +134,7 @@
 * Arabic: {{t|ar|فُطْرِيّ}}
 * Armenian: {{t+|hy|բնական}}
 * Azeri: {{t+|az|təbii}}
+* Catalan: {{t|ca|natural}}
 * Chinese:
 *: Mandarin: {{t+|cmn|自然|tr=zìrán de|alt=自然的|sc=Hani}}
 * Czech: {{t+|cs|přírodní|m}}
@@ -142,6 +143,7 @@
 * Estonian: {{t|et|looduslik}}, {{t|et|loomulik}}
 * Finnish: {{t+|fi|luonnollinen}}, {{t+|fi|luonnonmukainen}}
 * French: {{t+|fr|naturel}}
+* Galician: {{t|gl|natural}}
 * Georgian: {{t|ka|ბუნებრივი}}
 * German: {{t+|de|natürlich}}
 * Greek: {{t+|el|φυσικός}}
@@ -199,7 +201,7 @@
 * Russian: {{t+|ru|натура́льный}}
 * Scottish Gaelic: {{t|gd|nàdarrach}}
 * Serbo-Croatian: {{t+|sh|prirodno|n}}
-* Spanish: {{t+|es|natural|m|f}}, {{t+|es|naturales|p}}
+* Spanish: {{t+|es|natural|m|f}}
 * Telugu: {{t+|te|సహజమైన}}
 * Turkish: {{t+|tr|doğal}}, {{t+|tr|tabii}}, {{t+|tr|natürel}}
 {{trans-bottom}}
@@ -244,10 +246,13 @@
 {{trans-bottom}}
 
 {{trans-top|musically not sharp or flat}}
+* Catalan: {{t|ca|natural}}
 * Finnish: {{t+|fi|luonnollinen}}, {{t+|fi|palautettu}}
+* Galician: {{t|gl|natural}}
 * Irish: {{t|ga|nádúrtha}}
 {{trans-mid}}
 * Scottish Gaelic: {{t|gd|seachran}}
+* Spanish: {{t|es|natural}}
 {{trans-bottom}}
 
 {{trans-top|without adjustment}}
@@ -319,10 +324,66 @@
 
 ==Catalan==
 
+===Pronunciation===
+* {{ca-IPA}}
+
 ===Adjective===
 {{ca-adj|mf}}
 
 # {{l|en|natural}}
+
+====Derived terms====
+* {{l|ca|naturalment}}
+
+===Noun===
+{{ca-noun|mf}}
+
+# [[native]], {{l|en|natural}} {{gloss|person who is native to a place}}
+
+====Synonyms====
+* {{l|ca|nadiu}}
+
+===Noun===
+{{ca-noun|m}}
+
+# [[nature]] {{gloss|innate characteristics of a person}}
+
+====Related terms====
+* {{l|ca|natura}}
+
+====External links====
+* {{R:IEC2}}
+
+----
+
+==Galician==
+
+===Adjective===
+{{gl-adj|pl=naturais}}
+
+# {{l|en|natural}}
+
+====Derived terms====
+* {{l|gl|naturalmente}}
+
+===Noun===
+{{gl-noun|mf|pl=naturais}}
+
+# [[native]], {{l|en|natural}}
+
+====Synonyms====
+* {{l|gl|nativo}}
+
+===Noun 2===
+{{gl-noun|m|pl=naturais}}
+
+# [[nature]] {{gloss|innate characteristics of a person}}
+
+====Related terms====
+* {{l|gl|natureza}}
+
+====External links====
+* {{R:RAG}}
 
 ----
 
@@ -396,10 +457,14 @@ From {{etyl|la|es}} {{m|la|nātūrālis}}.
 # {{l|en|natural}}
 
 ====Related terms====
-* [[sobrenatural]]
-* [[naturaleza]]
-* [[naturalidad]]
-* [[naturalizar]]
+* {{l|es|sobrenatural}}
+* {{l|es|naturaleza}}
+* {{l|es|naturalidad}}
+* {{l|es|naturalizar}}
+* {{l|es|naturalmente}}
+
+====External links====
+* {{R:DRAE 2001}}
 
 [[ar:natural]]
 [[az:natural]]
