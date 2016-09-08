@@ -187,7 +187,7 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Basque: {{t+|eu|bihotz}}
 * Bau Bidayuh: {{t|sne|satung}}
 * Belarusian: {{t+|be|сэ́рца|n}}
-* Bengali: {{t|bn|হৃৎপিন্ড|tr=hritpinḑô|sc=Beng}}, {{t|bn|হার্ট|tr=harţ|sc=Beng}}
+* Bengali: {{t|bn|হৃৎপিন্ড|sc=Beng}}, {{t|bn|হার্ট|sc=Beng}}
 * Bikol Central: {{t|bcl|puso}}
 * Breton: {{t+|br|kalon|f}}
 * Bulgarian: {{t+|bg|сърце́|n}}
@@ -245,9 +245,9 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Harsusi: {{t-needed|hss}}
 * Hausa: {{t+|ha|zuciya}}
 * Hawaiian: {{t|haw|puʻuwai}}
-* Hebrew: {{t+|he|לב|m|tr=lev}}
+* Hebrew: {{t+|he|לֵב|m|tr=lev}}
 * Hidatsa: {{t|hid|náada}}
-* Hindi: {{t+|hi|दिल|m|tr=dil}}, {{t+|hi|हृदय|m|tr=hŕday}}
+* Hindi: {{t+|hi|दिल|m}}, {{t+|hi|हृदय|m}}
 * Hittite: {{t|hit|𒆠𒅕|tr=kir|sc=Xsux}}
 * Hungarian: {{t+|hu|szív}}
 * Icelandic: {{t+|is|hjarta|n}}
@@ -264,10 +264,8 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 *: Old Irish: {{t|sga|cride|n}}
 * Istriot: {{t|ist|core}}, {{t|ist|cor|m}}, {{t|ist|cour}}
 * Italian: {{t+|it|cuore|m}}
-* Japanese: {{t+|ja|心臓|tr=[[しんぞう]], shinzō}}
+* Japanese: {{t+|ja|心臓|tr=しんぞう, shinzō}}
 * Javanese: {{t+|jv|jantung}}
-* Nogai: {{t|nog|юрек|sc=Cyrl}}
-* Norman: {{t|nrf|tchoeu|m}}, {{t|nrf|tchoeur|m}}
 * K'iche': {{t|quc|anima’}}
 * Kalmyk: {{t|xal|зүркн}}
 * Kannada: {{t+|kn|ಹೃದಯ|sc=Knda}}
@@ -278,7 +276,7 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Khmer: {{t|km|បេះដូង|tr=beh dooŋ|sc=Khmr}}
 * Komi-Permyak: {{t|koi|сьӧлӧм}}
 * Komi-Zyrian: {{t|kpv|сьӧлӧм}}
-* Korean: {{t+|ko|심장|tr=simjang, [[心臟]]|sc=Hang}}
+* Korean: {{t+|ko|심장|sc=Hang}} ({{t+|ko|心臟|sc=Hang}})
 * Kumyk: {{t|kum|юрек}}
 * Kuna: {{t|cuk|kuage}}
 * Kurdish: {{t+|ku|dil|m}}, {{t+|ku|qelb|m}}
@@ -309,7 +307,7 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Manx: {{t|gv|cree|f}}
 * Maori: {{t|mi|manawa}}
 * Mapudungun: {{t|arn|piwke}}
-* Marathi: {{t|mr|ह्रुदय|tr=hruday|sc=Deva}}
+* Marathi: {{t|mr|ह्रुदय|sc=Deva}}
 * Mari:
 *: Eastern Mari: {{t|chm|шӱм}}
 *: Western Mari: {{t|mrj|йӓнг}}
@@ -326,8 +324,10 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Navajo: {{t|nv|ajéídíshjool}}
 * Neapolitan: {{t|nap|core|m}}
 * Nenets: {{t|yrk|сей|tr=sej}}
-* Nepali: {{t|ne|मुटु|tr=muṭu|sc=Deva}}, {{t|ne|हृदय|tr=hŕday|sc=Deva}}
+* Nepali: {{t|ne|मुटु|sc=Deva}}, {{t|ne|हृदय|sc=Deva}}
 * Newari: {{t|new|नुगः|tr=nugaḥ}}
+* Nogai: {{t|nog|юрек|sc=Cyrl}}
+* Norman: {{t|nrf|tchoeu|m}}, {{t|nrf|tchoeur|m}}
 * North Frisian: {{qualifier|Föhr-Amrum}} {{t|frr|hart|n}}
 * Norwegian:
 *: Bokmål: {{t+|no|hjerte|n}}
@@ -368,7 +368,7 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Rwanda-Rundi: {{t|rw|umutima}}
 * Samoan: {{t|sm|fatu}}
 * Samogitian: {{t|sgs|šėrdės|f}}
-* Sanskrit: {{t+|sa|हृदय|n|tr=hṛdaya}}, {{t+|sa|हृद्|n|tr=hṛd|sc=Deva}}
+* Sanskrit: {{t+|sa|हृदय|n}}, {{t+|sa|हृद्|n|sc=Deva}}
 * Santali: {{t|sat|ᱵᱳᱨᱳ|tr=boro|sc=Olck}}
 * Sardinian: {{t|sc|còro|m}}
 * Saterland Frisian: {{t|stq|Haat|n}}
@@ -405,7 +405,7 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Tatar: {{t+|tt|йөрәк|sc=Cyrl}}
 * Telugu: {{t+|te|గుండె}}
 * Tetum: {{t|tet|fuan}}
-* Thai: {{t+|th|หัวใจ|tr=hŭajai}}, {{t+|th|ดวงใจ|sc=Thai|tr=duang jai}}, {{t+|th|หฤทัย|sc=Thai|tr=hareuthai}}, {{t+|th|ฤทัย|sc=Thai|tr=reuthai}}
+* Thai: {{t+|th|หัวใจ}}, {{t+|th|ดวงใจ|sc=Thai}}, {{t+|th|หฤทัย|sc=Thai}}, {{t+|th|ฤทัย|sc=Thai}}
 * Tibetan: {{t|bo|སྙིང|sc=Tibt}}, {{t|bo|མགུལ་སྙིང|sc=Tibt}} {{qualifier|honorific}}
 * Tigre: {{t|tig|ልብ|sc=Ethi}}
 * Tigrinya: {{t|ti|ልቢ|sc=Ethi}}
@@ -425,7 +425,7 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Uzbek: {{t+|uz|yurak}}
 * Venetian: {{t|vec|còre|m}}
 * Veps: {{t|vep|südäin}}
-* Vietnamese: {{t+|vi|trái tim}} (trái + tim({{t+|vi|心}}) )
+* Vietnamese: {{t+|vi|trái tim}} ([[trái]] + [[tim]] ({{t+|vi|心}}))
 * Volapük: {{t+|vo|lad}}
 * Votic: {{t|vot|süä}}
 * Võro: {{t|vro|süä}}
@@ -437,7 +437,7 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Xhosa: {{t|xh|intliziyo|c9|c10}}
 * ǃXóõ: {{t|nmn|ǀqʻàn}}
 * Yakut: {{t|sah|сүрэх|sc=Cyrl}}
-* Yiddish: {{t|yi|האַרץ|n|tr=harts}}
+* Yiddish: {{t|yi|האַרץ|n}}
 * Yoruba: {{t|yo|o̩kàn}}
 * Yucatec Maya: {{t|yua|puksi’ik’al}}
 * Yurok: {{t|yur|chekws}}
@@ -449,7 +449,7 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 {{trans-top|emotions or kindness}}
 * Armenian: {{t+|hy|սիրտ}}
 * Bashkir: {{t|ba|күңел}}
-* Bengali: {{t|bn|হৃদয়|tr=hridoy|sc=Beng}}
+* Bengali: {{t|bn|হৃদয়|sc=Beng}}
 * Burmese: {{t+|my|အသည်းနှလုံး|sc=Mymr}}
 * Chinese:
 *: Dungan: {{t|dng|щин|sc=Cyrl}} ({{t|dng|心}})
@@ -464,12 +464,12 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Greek: {{t+|el|καρδιά|f|sc=Grek}}, {{t+|el|ψυχή|f|sc=Grek}}
 *: Ancient: {{t|grc|καρδία|f}}
 * Hidatsa: {{t|hid|náada}}
-* Hindi: {{t+|hi|दिल|m|tr=dil}}, {{t+|hi|मन|m|tr=man}}, {{t|hi|क़ल्ब|m|tr=qalb}}
+* Hindi: {{t+|hi|दिल|m}}, {{t+|hi|मन|m}}, {{t|hi|क़ल्ब|m}}
 * Indonesian: {{t+|id|kalbu}}, {{t+|id|sanubari}}
 * Irish: {{t+|ga|croí|m}}
 * Italian: {{t+|it|cuore|m}}
-* Japanese: {{t+|ja|気持ち|tr=[[きもち]], kimochi}}, {{t+|ja|心|tr=[[こころ]], kokoro}}
-* Korean: {{t+|ko|마음|tr=maǔm|sc=Kore}}
+* Japanese: {{t+|ja|気持ち|tr=きもち, kimochi}}, {{t+|ja|心|tr=こころ, kokoro}}
+* Korean: {{t+|ko|마음|sc=Kore}}
 * Kurdish: {{t+|ku|dil|m}}, {{t+|ku|qelb|m}}
 {{trans-mid}}
 * Macedonian: {{t|mk|срце|n}}
@@ -490,7 +490,7 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Swedish: {{t+|sv|hjärta|n}}
 * Tagalog: {{t+|tl|puso}}
 * Telugu: {{t+|te|మనసు}}, {{t+|te|హృదయం}}
-* Thai: {{t+|th|หัวใจ|tr=hŭajai}}, {{t+|th|ดวงใจ|tr=duang jai}}, {{t+|th|ฤทัย|tr=réutai}}, {{t+|th|ใจ|tr=jai}}
+* Thai: {{t+|th|หัวใจ}}, {{t+|th|ดวงใจ}}, {{t+|th|ฤทัย}}, {{t+|th|ใจ}}
 * Urdu: {{t+|ur|دل|m|tr=dil}}, {{t+|ur|من|m|tr=man}}, {{t+|ur|قلب|m|tr=qalb}}
 * West Frisian: {{t|fy|hert}}
 * Vietnamese: {{t+|vi|lòng}}
@@ -500,10 +500,11 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 {{trans-top|seat of affections, understanding or will}}
 * French: {{t+|fr|cœur|m}}
 * German: {{t+|de|Herz|n}}
-* Japanese: {{t+|ja|心|tr=[[こころ]], kokoro}}
+* Japanese: {{t+|ja|心|tr=こころ, kokoro}}
 * Latvian: {{t+|lv|sirds|f}}
 * Ngazidja Comorian: {{t|zdj|muo|c3|c4}}, {{t|zdj|roho|c9|c10}}, {{t|zdj|moo}}
 * Polish: {{t+|pl|serce|n}}
+* Russian: {{t+|ru|се́рдце|n}}
 {{trans-bottom}}
 
 {{trans-top|a shape or symbol}}
@@ -541,7 +542,7 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Polish: {{t+|pl|serce|n}}, {{t+|pl|serduszko|n}}
 * Portuguese: {{t+|pt|coração|m}}
 * Romanian: {{t+|ro|inimă}}
-* Russian: {{t+|ru|се́рдце|n}}
+* Russian: {{t+|ru|се́рдце|n}}, {{t+|ru|серде́чко|n}}
 * Scottish Gaelic: {{t|gd|cridhe|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|ср̏це|n|sc=Cyrl}}
@@ -576,7 +577,6 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Irish: {{t|ga|hart|m}}
 * Italian: {{t+|it|cuori|m-p}}
 * Japanese: {{t+|ja|ハート|tr=hāto}}
-* Norman: {{t|nrf|tchoeu|m}}
 * Khmer: {{t|km|កឺ|tr=kəɨ|sc=Khmr}}
 * Kurdish: {{t+|ku|dil|m}}, {{t+|ku|qelb|m}}
 * Macedonian: {{t|mk|херц|m}}, {{t|mk|срце|n}}
@@ -585,6 +585,7 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Maltese: {{t|mt|koppi}}
 * Mizo: {{t|lus|tawka}}
 * Navajo: {{t|nv|góobas}}, {{t|nv|báabas}}
+* Norman: {{t|nrf|tchoeu|m}}
 * Norwegian:
 *: Bokmål: {{t+|no|hjerter|n}}
 * Ojibwe: {{t|oj|gii'on}}, {{t|oj|giiwoon}}, {{t|oj|giiyoon}}
@@ -644,7 +645,7 @@ From {{inh|en|enm|herte}}, from {{inh|en|ang|heorte||heart}}, from {{inh|en|gem-
 * Portuguese: {{t+|pt|cerne|m}} (ex: ''o '''cerne''' da questão'' / ''the '''core''' of the question)
 * Romanian: {{t+|ro|centru|n}}, {{t+|ro|mijloc|n}}, {{t+|ro|inimă|f}}
 * Russian: {{t+|ru|се́рдце|n}}, {{t+|ru|сердцеви́на|f}}
-* Sanskrit: {{t+|sa|हृदय|n|tr=hṛdaya|sc=Deva}}, {{t|sa|अन्तर्भाग|m|tr=antarbhāga|sc=Deva}}, {{t+|sa|मध्य|m|tr=madhya|sc=Deva}}
+* Sanskrit: {{t+|sa|हृदय|n|sc=Deva}}, {{t|sa|अन्तर्भाग|m|sc=Deva}}, {{t+|sa|मध्य|m|sc=Deva}}
 * Scottish Gaelic: {{t|gd|cridhe|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|ср̏це|n|sc=Cyrl}}
