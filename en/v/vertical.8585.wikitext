@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|frm|en}} {{m|frm|vertical}}, from {{etyl|LL.|en}} {{m|la|verticalis}}
+{{bor|en|frm|vertical}}, from {{der|en|LL.|verticālis}}.
 
 ===Pronunciation===
 * {{audio|En-us-vertical.ogg|audio (US)|lang=en}}
@@ -30,13 +30,12 @@ From {{etyl|frm|en}} {{m|frm|vertical}}, from {{etyl|LL.|en}} {{m|la|verticalis}
 * {{l|en|horizontal}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|vertical flute}}
-* {{l|en|vertical lips}}
-{{der-mid}}
-* {{l|en|vertically}}
-* {{l|en|vertical smile}}
-{{der-bottom}}
+{{der2
+|{{l|en|vertical flute}}
+|{{l|en|vertical lips}}
+|{{l|en|vertically}}
+|{{l|en|vertical smile}}
+}}
 
 ====Related terms====
 * {{l|en|postvertical}}
@@ -48,10 +47,10 @@ From {{etyl|frm|en}} {{m|frm|vertical}}, from {{etyl|LL.|en}} {{m|la|verticalis}
 * Armenian: {{t+|hy|ուղղահայաց}}
 * Asturian: {{t|ast|vertical}}
 * Azeri: {{t+|az|şaquli}}
-* Bengali: {{t|bn|খাড়া|sc=Beng}}
+* Bengali: {{t|bn|খাড়া}}
 * Catalan: {{t+|ca|vertical}}
 * Chinese:
-*: Mandarin: {{t+|cmn|豎|alt=豎的|sc=Hani}}, {{t+|cmn|竖|alt=竖的|tr=shù-de|sc=Hani}}, {{t+|cmn|垂直|tr=chuízhí|sc=Hani}}, {{t+|cmn|直立|tr=zhílì|sc=Hani}}
+*: Mandarin: {{t+|cmn|豎|alt=豎的}}, {{t+|cmn|竖|alt=竖的|tr=shù-de}}, {{t+|cmn|垂直|tr=chuízhí}}, {{t+|cmn|直立|tr=zhílì}}
 * Czech: {{t+|cs|svislý|m}}
 * Danish: {{t+|da|lodret}}
 * Dutch: {{t+|nl|verticaal}}
@@ -65,7 +64,7 @@ From {{etyl|frm|en}} {{m|frm|vertical}}, from {{etyl|LL.|en}} {{m|la|verticalis}
 * Greek: {{t+|el|κατακόρυφος}}, {{t+|el|κάθετος}}
 {{trans-mid}}
 * Hebrew: {{t+|he|אנכי|tr=anakhi}}
-* Hindi: {{t|hi|लंबवत्|m|sc=Deva}}
+* Hindi: {{t|hi|लंबवत्|m}}
 * Hungarian: {{t+|hu|függőleges}}
 * Icelandic: {{t|is|lóðrétt}}
 * Italian: {{t+|it|verticale}}
@@ -94,7 +93,7 @@ From {{etyl|frm|en}} {{m|frm|vertical}}, from {{etyl|LL.|en}} {{m|la|verticalis}
 ==Asturian==
 
 ===Etymology===
-From {{etyl|la|ast}} {{m|la|verticalis}}.
+From {{der|ast|LL.|verticālis}}.
 
 ===Adjective===
 {{ast-adj-mf|pl=verticales}}
@@ -109,7 +108,7 @@ From {{etyl|la|ast}} {{m|la|verticalis}}.
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{m|la|verticalis}}.
+From {{der|ca|LL.|verticālis}}.
 
 ===Adjective===
 {{ca-adj|mf}}
@@ -127,7 +126,7 @@ From {{etyl|la|ca}} {{m|la|verticalis}}.
 ==French==
 
 ===Etymology===
-From {{etyl|la|fr}} {{m|la|verticalis}}.
+From {{der|fr|LL.|verticālis}}.
 
 ===Pronunciation===
 * {{audio|Fr-vertical.ogg|audio|lang=fr}}
@@ -147,7 +146,7 @@ From {{etyl|la|fr}} {{m|la|verticalis}}.
 ==Galician==
 
 ===Etymology===
-From {{etyl|la|gl}} {{m|la|verticalis}}.
+From {{der|gl|LL.|verticālis}}.
 
 ===Adjective===
 {{gl-adj|pl=verticais}}
@@ -164,6 +163,9 @@ From {{etyl|la|gl}} {{m|la|verticalis}}.
 
 ==Ladin==
 
+===Etymology===
+From {{der|lld|LL.|verticālis}}.
+
 ===Adjective===
 {{lld-adj|vertica|l}}
 
@@ -174,7 +176,7 @@ From {{etyl|la|gl}} {{m|la|verticalis}}.
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|la|pt}} {{m|la|verticalis}}.
+From {{der|pt|LL.|verticālis}}.
 
 ===Adjective===
 {{pt-adj|vertic|al|comp=no}}
@@ -192,7 +194,7 @@ From {{etyl|la|pt}} {{m|la|verticalis}}.
 ==Spanish==
 
 ===Etymology===
-From {{etyl|la|es}} {{m|la|verticalis}}.
+From {{der|es|LL.|verticālis}}.
 
 ===Adjective===
 {{es-adj|pl=verticales}}
