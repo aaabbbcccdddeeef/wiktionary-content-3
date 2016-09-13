@@ -39,6 +39,7 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 * Esperanto: {{t|eo|unuopulo}}
 * Finnish: {{t+|fi|yksilö}}
 * French: {{t+|fr|individu|m}}
+* Galician: {{t|gl|individuo|m}}
 * German: {{t+|de|Individuum|n}}
 * Hindi: {{t+|hi|व्यक्ति|m|tr=vyakti}}
 * Ido: {{t+|io|individuo}}
@@ -51,14 +52,14 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 * Norwegian:
 *: Bokmål: {{t+|nb|individ|n}}
 * Persian: {{t+|fa|فرد|tr=fard|sc=fa-Arab}}
-* Portuguese: {{t+|pt|indivíduo}}
+* Portuguese: {{t+|pt|indivíduo|m}}
 * Romanian: {{t+|ro|individ}}
 * Russian: {{t+|ru|индиви́дуум|m}}, {{t+|ru|лицо́|n}}, {{t+|ru|ли́чность|f}}, {{t+|ru|осо́ба|f}}, {{t+|ru|индиви́д|m}}
 * Serbo-Croatian: {{t+|sh|pojedinac|m}}, {{t|sh|pojedinka|f}}
 * Slovene: {{t+|sl|posameznik|m}}, {{t|sl|posameznica|f}}
-* Spanish: {{t+|es|individuo}}
+* Spanish: {{t+|es|individuo|m}}
 * Swedish: {{t+|sv|individ|c}}, {{t+|sv|enskild|c}}
-* Telugu: {{t+|te|వ్యక్తి|sc=Telu}}
+* Telugu: {{t+|te|వ్యక్తి}}
 * Turkish: {{t+|tr|birey}}
 {{trans-bottom}}
 
@@ -114,6 +115,7 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 
 ====Translations====
 {{trans-top|relating to a single person or thing}}
+* Asturian: {{t|ast|individual}}
 * Catalan: {{t+|ca|individual}}
 * Chinese:
 *: Mandarin: {{t|cmn|單個|sc=Hani}}, {{t+|cmn|单个|tr=dāngè|sc=Hani}}, {{t|cmn|獨個|sc=Hani}}, {{t|cmn|独个|tr=dúgè|sc=Hani}}
@@ -121,6 +123,7 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 * Dutch: {{t+|nl|individueel}}
 * Finnish: {{t+|fi|yksittäinen}}
 * French: {{t+|fr|individuel}}
+* Galician: {{t|gl|individual}}
 * German: {{t+|de|einzeln}}, {{t+|de|individuell}}
 * Japanese: {{t+|ja|個々|tr=ここの, koko-no|alt=個々の|sc=Jpan}}
 * Norman: {{t|nrf|îndividuel}}
@@ -130,7 +133,7 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 * Norwegian:
 *: Bokmål: {{t+|nb|enkelt}}, {{t|nb|individuell}}
 * Portuguese: {{t+|pt|individual}}
-* Romanian: {{t+|ro|individual|m|n}}, {{t|ro|individuală|f}}, {{t|ro|individuali|m-p}}
+* Romanian: {{t+|ro|individual}}
 * Russian: {{t+|ru|отде́льный}}, {{t+|ru|индивидуа́льный}}, {{t+|ru|едини́чный}}, {{t+|ru|ча́стный}}
 * Scottish Gaelic: {{t|gd|air leth}}
 * Spanish: {{t+|es|individual}}
@@ -145,6 +148,7 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 * Czech: {{t|cs|individuální}}
 * Dutch: {{t+|nl|individueel}}
 * Finnish: {{t+|fi|yksilöllinen}}
+* Galician: {{t|gl|individual}}
 * German: {{t+|de|individuell}}
 * Norwegian:
 *: Bokmål: {{t|nb|individuell}}
@@ -183,13 +187,41 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 {{ca-adj|mf}}
 
 # {{l|en|individual}}
+
+====Related terms====
+* {{l|ca|individu}}
+* {{l|ca|individualitat}}
+
+====Derived terms====
+* {{l|ca|individualisme}}
+* {{l|ca|individualista}}
+* {{l|ca|individualitzar}}
+* {{l|ca|individualment}}
+
+====External links====
+* {{R:IEC2}}
+
 ----
+
 ==Galician==
 
 ===Adjective===
 {{gl-adj|f=individual|pl=individuais}}
 
 # {{l|en|individual}}
+
+====Related terms====
+* {{l|gl|individuo}}
+* {{l|gl|individualidade}}
+
+====Derived terms====
+* {{l|gl|individualismo}}
+* {{l|gl|individualista}}
+* {{l|gl|individualizar}}
+* {{l|gl|individualmente}}
+
+====External links====
+* {{R:RAG}}
 
 ----
 
@@ -209,13 +241,23 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 
 # {{l|en|individual}}
 
+====Related terms====
+* {{l|es|individuo}}
+* {{l|es|individualidad}}
+
+====Derived terms====
+* {{l|es|individualismo}}
+* {{l|es|individualista}}
+* {{l|es|individualizar}}
+* {{l|es|individualmente}}
+
 ===Noun===
 {{es-noun|m|es}}
 
 # [[place mat]]
 
-===Related terms===
-* {{l|es|individuo}}
+====External links====
+* {{R:DRAE 2001}}
 
 [[ar:individual]]
 [[ca:individual]]
