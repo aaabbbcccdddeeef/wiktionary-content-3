@@ -78,7 +78,7 @@
 * Azeri: {{t+|az|televiziya}}
 * Basque: {{t|eu|telebista}}
 * Belarusian: {{t|be|тэлеба́чанне|n}}, {{t|be|тэлеві́зія|f|sc=Cyrl}}
-* Bengali: {{t+|bn|টেলিভিশন|tr=ţelibhishôn|sc=Beng}}
+* Bengali: {{t+|bn|টেলিভিশন|sc=Beng}}
 * Breton: {{t|br|skinwel}}
 * Bulgarian: {{t+|bg|телеви́зия|f}}
 * Burmese: {{t+|my|တယ်လီဗီးရှင်း}}, {{t+|my|ရုပ်မြင်သံကြား}}, {{t|my|တယ်လီဗစ်ရှင်း}}
@@ -88,7 +88,7 @@
 * Chinese:
 *: Cantonese: {{t|yue|電視}}, {{t|yue|电视|tr=din6 si6}}
 *: Hakka: {{t|hak|電視|tr=thien-sṳ|sc=Hani}}
-*: Mandarin: {{t|cmn|電視|sc=Hani}}, {{t+|cmn|电视|tr=diànshì|sc=Hani}}
+*: Mandarin: {{t+|cmn|電視|sc=Hani}}, {{t+|cmn|电视|tr=diànshì|sc=Hani}}
 *: Min Nan: {{t+|nan|電視|tr=tiān-sī|sc=Hani}}
 * Chuvash: {{t|cv|телекурӑм|sc=Cyrl}}
 * Crimean Tatar: {{t|crh|telekörüv}}
@@ -108,8 +108,8 @@
 * Guaraní: {{t|gn|terevi}}, {{t|gn|ta'ãngambyry}}
 * Gujarati: {{t|gu|દૂરદર્શન|tr=dūradarśan|sc=Gujr}}
 * Haitian Creole: {{t|ht|televizyon}}
-* Hebrew: {{t+|he|טלוויזיה|f|tr=televizia}}
-* Hindi: {{t+|hi|टेलिविजन|tr=ṭelivijan}}, {{t|hi|टेलीविज़न|tr=ṭelīvizan}}, {{t+|hi|दूरदर्शन|tr=dūradarśan}}, {{t|hi|टीवी|tr=ṭīvī|sc=Deva}}
+* Hebrew: {{t+|he|טלוויזיה|f|tr=televízya|alt=טלוויזיה \ טֶלֶוִיזְיָה}}
+* Hindi: {{t+|hi|टेलिविजन}}, {{t|hi|टेलीविज़न}}, {{t+|hi|दूरदर्शन}}, {{t|hi|टीवी|sc=Deva}}
 * Hungarian: {{t+|hu|televízió}}
 * Icelandic: {{t+|is|sjónvarp|n}}, {{t|is|imbakassi|m}}
 * Ido: {{t+|io|televiziono}}
@@ -118,7 +118,6 @@
 * Irish: {{t+|ga|teilifís|f}}
 * Italian: {{t+|it|televisione|f}}
 * Japanese: {{t+|ja|テレビジョン|tr=terebijon}}, {{t+|ja|テレビ|tr=terebi}}, {{t+|ja|電視|tr=denshi|sc=Jpan}}
-* Norman: {{t|nrf|télévîsion|f}}
 * Kalmyk: {{t|xal|телеүзгдл}}
 * Kannada: {{t+|kn|ದೂರದರ್ಶನ|sc=Knda}}
 * Kazakh: {{t+|kk|теледидар|sc=Cyrl}}, {{t|kk|телевидение|sc=Cyrl}}
@@ -141,10 +140,11 @@
 * Maltese: {{t|mt|televixin}}
 * Manx: {{t|gv|chellveeish|f}}
 * Maori: {{t|mi|pouaka whakaata}}
-* Marathi: {{t|mr|दूरचित्रवाणी|tr=dūrcitravāṇi|sc=Deva}}
+* Marathi: {{t|mr|दूरचित्रवाणी|sc=Deva}}
 * Mongolian: {{t+|mn|телевиз|sc=Cyrl}}, {{t+|mn|зурагт|sc=Cyrl}}
 * Nahuatl: {{t+|nah|huehcaīxipcaxitl}}
 * Navajo: {{t|nv|níłchʼi naalkidí}}
+* Norman: {{t|nrf|télévîsion|f}}
 * Northern Sami: {{t|se|televišuvdna}}
 * Norwegian:
 *: Bokmål: {{t+|nb|fjernsyn|n}}, {{t|nb|TV|m}}
@@ -177,7 +177,7 @@
 * Tamil: {{t+|ta|தொலைக்காட்சி|sc=Taml}}
 * Tatar: {{t|tt|телевидение|sc=Cyrl}}
 * Telugu: {{t+|te|టెలివిజన్|sc=Telu}}
-* Thai: {{t+|th|โทรทัศน์|tr=thorāthāt}}, {{t+|th|ทีวี|tr=tee-wee|sc=Thai}}
+* Thai: {{t+|th|โทรทัศน์}}, {{t+|th|ทีวี|sc=Thai}}
 * Tibetan: {{t|bo|བརྙན་འཕྲིན|sc=Tibt}}
 * Turkish: {{t+|tr|televizyon}}
 * Turkmen: {{t|tk|telewizion}}
@@ -203,12 +203,12 @@
 * Azeri: {{t+|az|televizor}}
 * Basque: {{t|eu|telebista}}
 * Belarusian: {{t|be|тэлеві́зар|m|sc=Cyrl}}
-* Bengali: {{t|bn|টেলিভিশন সেট|tr=ţelibhishôn seţ|sc=Beng}}
+* Bengali: {{t|bn|টেলিভিশন সেট|sc=Beng}}, {{t+|bn|টেলিভিশন|sc=Beng}}
 * Bulgarian: {{t+|bg|телеви́зор|m}}
 * Catalan: {{t+|ca|televisió|f}}, {{t+|ca|televisor|m}}
 * Chinese:
 *: Cantonese: {{t|yue|電視機}}, {{t|yue|电视机|tr=din6 si6 gei1}}
-*: Mandarin: {{t|cmn|電視機|sc=Hani}}, {{t+|cmn|电视机|tr=diànshìjī|sc=Hani}}
+*: Mandarin: {{t+|cmn|電視機|sc=Hani}}, {{t+|cmn|电视机|tr=diànshìjī|sc=Hani}}
 * Czech: {{t+|cs|televizor|m}}, {{t+|cs|televize|f}}, {{t|cs|televizní přijímač|m}}
 * Danish: {{t+|da|fjernsyn|n}}, {{t+|da|tv|n}}
 * Dutch: {{t+|nl|televisie|m}}
@@ -222,8 +222,8 @@
 * German: {{t+|de|Fernseher|m}}, {{t+|de|Fernsehapparat|m}}, {{t+|de|Glotze|f}} {{qualifier|informal}}
 * Greek: {{t+|el|τηλεόραση|f}}
 * Guaraní: {{t|gn|terevi}}
-* Hebrew: {{t+|he|טלוויזיה|f|tr=televizia}}
-* Hindi: {{t+|hi|दूरदर्शन|tr=dūradarśan}}, {{t|hi|टेलिविजन सेट|tr=ṭelivijan seṭ|sc=Deva}}
+* Hebrew: {{t+|he|טלוויזיה|f|tr=televízya|alt=טלוויזיה \ טֶלֶוִיזְיָה}}
+* Hindi: {{t+|hi|दूरदर्शन}}, {{t|hi|टेलिविजन सेट|sc=Deva}}
 * Hungarian: {{t|hu|tévékészülék}}
 * Icelandic: {{t+|is|sjónvarp}}, {{t+|is|sjónvarpstæki|n}}
 * Ido: {{t+|io|televidilo}}, {{t+|io|televiziono}}
@@ -232,7 +232,6 @@
 * Irish: {{t+|ga|teilifíseán|m}}
 * Italian: {{t+|it|televisore|m}}
 * Japanese: {{t+|ja|テレビ|tr=terebi}}, {{t|ja|テレビセット|tr=terebisetto}}, {{t|ja|受像機|tr=じゅぞうき, juzōki}}
-* Norman: {{t|nrf|télévîsion|f}}
 * Kalmyk: {{t|xal|зургт}}
 * Kamba: {{t|kam|tivii}}, {{t|kam|tivii}}
 * Kazakh: {{t|kk|телевизор|sc=Cyrl}}, {{t+|kk|теледидар|sc=Cyrl}}
@@ -255,6 +254,7 @@
 * Meru: {{t|mer|tivii}}
 * Mongolian: {{t+|mn|телевизор|sc=Cyrl}}, {{t+|mn|зурагт|sc=Cyrl}}
 * Navajo: {{t|nv|níłchʼi naalkidí}}
+* Norman: {{t|nrf|télévîsion|f}}
 * Norwegian:
 *: Bokmål: {{t+|nb|fjernsyn|n}}, {{t|nb|TV|m}}
 *: Nynorsk: {{t|nn|fjernsyn|n}}, {{t|nn|TV|m}}
@@ -279,7 +279,7 @@
 * Tajik: {{t+|tg|телевизор|sc=Cyrl}}
 * Tamil: {{t|ta|தொலைக்காட்சிப் பெட்டி|sc=Taml}}
 * Tatar: {{t|tt|телевизор|sc=Cyrl}}
-* Thai: {{t+|th|โทรทัศน์|tr=thorāthāt}}
+* Thai: {{t+|th|โทรทัศน์}}
 * Turkish: {{t+|tr|televizyon}}, {{t+|tr|televizyon alıcısı}}
 * Turkmen: {{t|tk|telewizor}}
 * Ukrainian: {{t|uk|телеві́зор|m}}
@@ -301,7 +301,7 @@
 * Catalan: {{t+|ca|televisió|f}}
 * Chinese:
 *: Cantonese: {{t|yue|電視}}, {{t|yue|电视|tr=din6 si6}}
-*: Mandarin: {{t|cmn|電視|sc=Hani}}, {{t+|cmn|电视|tr=diànshì|sc=Hani}}
+*: Mandarin: {{t+|cmn|電視|sc=Hani}}, {{t+|cmn|电视|tr=diànshì|sc=Hani}}
 * Czech: {{t+|cs|televize|f}}
 * Danish: {{t+|da|tv|n}}
 * Dutch: {{t+|nl|televisie|m}}
