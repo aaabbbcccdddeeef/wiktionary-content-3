@@ -1,4 +1,5 @@
 ==English==
+[[Image:URI Euler Diagram no lone URIs.svg|thumb|The ''URL'' is together with the URN inside any URI]]
 
 ===Pronunciation===
 * Acronym; England, Australia, etc: {{IPA|/ɜːl/|lang=en}}
@@ -14,6 +15,10 @@
 # A [[Uniform Resource Locator]]: the [[address]] of a web page, ftp site, audio stream or other [[Internet]] resource.
 #: ''<code><nowiki>http://en.wiktionary.org/</nowiki></code> is the '''URL''' of English Wiktionary.''
 
+====Hypernyms====
+* {{l|en|IRI}}
+* {{l|en|URI}}
+
 ====Translations====
 {{trans-top|URL}}
 * Finnish: {{t|fi|web-osoite}}
@@ -25,19 +30,18 @@
 * Portuguese: {{t+|pt|endereço}}
 * Scottish Gaelic: {{t|gd|seòladh-lìn|m}}
 * Swedish: {{t+|sv|URL|c}}
+* Turkish: {{t|tr|BKB}}, {{t|tr|URL}}
 {{trans-bottom}}
 
 ====See also====
-* {{l|en|IRI}}
-* {{l|en|URI}}
 * {{pedialite}}
 
 ===Abbreviation===
-'''URL'''
+{{en-abbr}}
 
-# {{lb|en|US|military|nautical}} [[unrestricted]] [[line]] [[officer]]
+# {{lb|en|US|military|nautical}} {{abbreviation of|[[unrestricted]] [[line]] [[officer]]|lang=en}}
 
-====See also====
+====Hypernyms====
 * {{l|en|line officer}}
 
 [[Category:English acronyms]]
