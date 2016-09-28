@@ -10,10 +10,13 @@
 * {{l|en|XMLNS}}
 
 ====Related terms====
-* {{l|en|XLink}}
-* {{l|en|XPath}}
-* {{l|en|XPointer}}
-* {{l|en|XSLT}}
+{{rel4
+| {{l|en|XHTML}}
+| {{l|en|XLink}}
+| {{l|en|XPath}}
+| {{l|en|XPointer}}
+| {{l|en|XSLT}}
+}}
 
 ====Translations====
 {{trans-top|extensible markup language}}
@@ -26,9 +29,6 @@
 * Swedish: {{t+|sv|XML|n}}
 * Turkish: {{t+|tr|GİD}}, {{t+|tr|XML}}
 {{trans-bottom}}
-
-====Related terms====
-* {{l|en|XHTML}}
 
 ===See also===
 * {{l|en|HTML}}
