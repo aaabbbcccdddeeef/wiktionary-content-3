@@ -106,29 +106,84 @@ From {{etyl|LL.|en}} {{m|la|phi}}, from {{etyl|grc|en}} {{m|grc|ϕεῖ}}.<ref>'
 
 ==Vietnamese==
 
-===Etymology 1===
-{{vi-etym-sino|飛|to fly; to gallop}}
-
 ===Pronunciation 1===
 {{vi-pron}}
 
-===Verb===
+===Etymology 1===
+{{vi-etym-sino|飛|to fly; to gallop}}
+
+====Verb====
 {{vi-verb}}
 
-# (of horses) [[gallop]]
+# {{lb|vi|of a|horse}} to [[gallop]]
+#: {{ux|vi|Ngựa '''phi'''.|The horse gallops.}}
+# to [[flee]]; to [[travel]] very quickly
+#: {{ux|vi|'''Phi''' nhanh về nhà kẻo tối.|Hurry home before it gets dark.}}
+# to [[lance]] {{gloss|to throw in the manner of a lance}}
+#: {{ux|vi|'''phi''' dao găm|to throw a dagger}}
+
+====Derived terms====
+* {{vi-l|phi ngựa||to gallop a horse}}
 
 ===Etymology 2===
 {{vi-etym-sino|非|not}}
 
-===Pronunciation 2===
-{{vi-pron}}
+====Prefix====
+{{head|vi|prefix|非}}
 
-===Definitions===
-# prefix
+# [[not]], [[without]], [[-less]]
 
-===Compounds===
-* {{l|vi|phi nghĩa}}
-* {{l|vi|phi chính phủ}}
+=====Usage notes=====
+{{m|vi|phi|Phi}} and {{m|vi|vô}} are used before [[Sino-Vietnamese]] nouns, whereas {{m|vi|không}} is used before native Vietnamese nouns.
+
+=====Synonyms=====
+* {{sense|not}} {{vi-l|vô}}, {{vi-l|không}}
+
+=====Derived terms=====
+* {{vi-l|phi chính phủ||non-governmental}}
+* {{vi-l|phi lợi nhuận||non-profit}}
+* {{vi-l|phi nghĩa||meaningless}}
+
+====Conjunction====
+{{vi-conj}}
+
+# [[if it isn't]]
+#: {{ux|vi|'''Phi''' anh ấy, không ai biết.|If it isn't him, then who knows?}}
+
+===Etymology 3===
+====Verb====
+{{vi-verb}}
+
+# to [[stir-fry]] (an [[onion]], [[scallion]], or clove of [[garlic]]) before preparing a dish
+#: {{ux|vi|'''Phi''' tỏi rồi mới bỏ [[rau muống]] vào.|Stir-fry the garlic before adding in [[water spinach]].}}
+#: {{ux|vi|'''Phi''' hành để nấu [[nước chấm]].|Stir-fry the onion to make dipping sauce.}}
+
+===Etymology 4===
+====Noun====
+{{vi-noun|cls=con}}
+
+# Various [[species]] of saltwater [[clam]] of the genus ''[[Sanguinolaria]]'', such as ''[[Sanguinolaria diphos]]'' and ''[[Sanguinolaria planculata]]''.
+
+===Etymology 5===
+{{borrowed|vi|la|phi}}
+
+====Noun====
+{{vi-noun}}
+
+# {{l|en|phi}} {{gloss|Φ}}
+
+===Etymology 6===
+====Noun====
+{{vi-noun|cls=bà}}
+
+# [[concubine]]
+#: {{ux|vi|các bà '''phi''' trong cung|the palace '''concubines'''}}
+
+=====Synonyms=====
+* {{sense|concubine}} {{vi-l|vợ lẽ}}, {{vi-l|vợ bé}}
+
+===References===
+* {{R:FVDP}}
 
 [[et:phi]]
 [[fr:phi]]
