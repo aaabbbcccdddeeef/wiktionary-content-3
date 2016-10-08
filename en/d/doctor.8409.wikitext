@@ -137,7 +137,7 @@ From {{etyl|enm|en}} {{m|enm||doctor, doctour|an expert, authority on a subject}
 * Azeri: {{t+|az|həkim}}, {{t+|az|doktor}}
 * Basque: {{t+|eu|sendagile}}, {{t+|eu|osagile}}
 * Belarusian: {{t|be|ле́кар|m|sc=Cyrl}}, {{t|be|ле́карка|f|sc=Cyrl}}, {{t|be|ура́ч|m|f|sc=Cyrl}}, {{t|be|ўрач|m|f|sc=Cyrl}}, {{t|be|до́ктар|m|f|sc=Cyrl}}
-* Bengali: {{t|bn|ডাক্তার|tr=ḑaktar|sc=Beng}}
+* Bengali: {{t|bn|ডাক্তার|sc=Beng}}
 * Bulgarian: {{t+|bg|до́ктор|m}}, {{t+|bg|лекар|m}}
 * Burmese: {{t+|my|ဆရာဝန်}}
 * Catalan: {{t+|ca|metge|m}}, {{t+|ca|metgessa|f}}
@@ -165,8 +165,8 @@ From {{etyl|enm|en}} {{m|enm||doctor, doctour|an expert, authority on a subject}
 * Greek: {{t+|el|ιατρός|m|f}}
 * Greenlandic: {{t|kl|nakorsaq}}
 * Hawaiian: {{t|haw|kauka}}
-* Hebrew: {{t+|he|רופא|m|tr=rofe}}, {{t|he|רופאה|f|tr=rof'a}}, {{t+|he|דוקטור|m|tr=doqt'or}} (''colloquial, while addressing doctor'')
-* Hindi: {{t+|hi|डाक्टर|m|tr=ḍākṭar}}, {{t|hi|डॉक्टर|m|tr=ḍokṭar}}
+* Hebrew: {{t+|he|רוֹפֵא|m|tr=rofé}}, {{t|he|רוֹפְאָה|f|tr=rof'á}}, {{t+|he|דוֹקטוֹר|m|tr=dóktor}} (''colloquial, while addressing doctor'')
+* Hindi: {{t+|hi|डाक्टर|m}}, {{t|hi|डॉक्टर|m}}
 * Hungarian: {{t+|hu|orvos|m}}, {{t+|hu|doktor|m}}, {{t+|hu|orvosnő|f}}, {{t+|hu|doktornő|f}}
 * Icelandic: {{t+|is|læknir|m}}
 * Ido: {{t+|io|mediko}}
@@ -236,7 +236,7 @@ From {{etyl|enm|en}} {{m|enm||doctor, doctour|an expert, authority on a subject}
 * Tangsa: {{t|nst|tsiqshäraz}}
 * Tatar: {{t|tt|доктор}}, {{t+|tt|табиб}}
 * Telugu: {{t+|te|వైద్యుడు}}
-* Thai: {{t+|th|หมอ|tr=mŏr}}, {{t+|th|แพทย์|tr=pâet}}, {{t|th|เวช|tr=wêt}}
+* Thai: {{t+|th|หมอ}}, {{t+|th|แพทย์}}, {{t|th|เวช}}
 * Tibetan: {{t|bo|ཨེམ་ཆི|sc=Tibt}}
 * Tigrinya: {{t|ti|ዶክተር|sc=Ethi}}
 * Tok Pisin: {{t|tpi|dokta}}
@@ -253,10 +253,8 @@ From {{etyl|enm|en}} {{m|enm||doctor, doctour|an expert, authority on a subject}
 * Volapük: {{qualifier|♂♀}} {{t+|vo|sanan}}, {{qualifier|♂}} {{t|vo|hisanan}}, {{qualifier|♀}} {{t|vo|jisanan}}, {{qualifier|older term}} {{t|vo|sanel}}, {{qualifier|older term}} {{t|vo|medinel}}
 * Walloon: {{t+|wa|docteur|m}}, {{t+|wa|doctoresse|f}}, {{t+|wa|medcén|m}}, {{t+|wa|méde|m}} {{qualifier|old}}
 * Welsh: {{t+|cy|meddyg|m}}, {{t|cy|meddyges|f}}
-* Yiddish: {{t|yi|דאָקטער|m|tr=dokter}}
-* Zulu:
-*: {{qualifier|Modern doctor}} {{t|zu|udokotela|c1a|c2a}}, {{t|zu|umelaphi|c1|c2}}
-*: {{qualifier|Traditional doctor}} {{t+|zu|inyanga|c9|c10}}, {{t|zu|ugedla|c11|c10}}
+* Yiddish: {{t|yi|דאָקטער|m}}
+* Zulu: {{qualifier|Modern doctor}} {{t|zu|udokotela|c1a|c2a}}, {{t|zu|umelaphi|c1|c2}}, {{qualifier|Traditional doctor}} {{t+|zu|inyanga|c9|c10}}, {{t|zu|ugedla|c11|c10}}
 {{trans-bottom}}
 
 {{trans-top|person who has attained a doctorate}}
@@ -283,7 +281,7 @@ From {{etyl|enm|en}} {{m|enm||doctor, doctour|an expert, authority on a subject}
 * Ido: {{t+|io|doktoro}}
 * Indonesian: {{t+|id|doktor}}
 * Italian: {{t+|it|dottore|m}}, {{t+|it|dottoressa|f}}
-* Japanese: {{t+|ja|博士|tr=[[はくし]], hakushi, [[はかせ]] hakase}}
+* Japanese: {{t+|ja|博士|tr=はくし, hakushi, はかせ hakase}}
 * Norman: {{t|nrf|docteu|m}}
 * Khmer: {{t+|km|បណ្ឌិត|tr=ban dit|sc=Khmr}}, {{t|km|បរិញ្ញឯក|tr=pak ri nha aek|sc=Khmr}}
 * Kurdish:
@@ -308,14 +306,14 @@ From {{etyl|enm|en}} {{m|enm||doctor, doctour|an expert, authority on a subject}
 * Swahili: {{t+|sw|daktari}}, {{t|sw|dokta}}
 * Swedish: {{t+|sv|doktor}}
 * Tagalog: {{t|tl|paham}}
-* Thai: {{t|th|ดอกเตอร์|sc=Thai}}, {{t|th|ดุษฎีบัณฑิต|tr=dòotsàdee bantít|sc=Thai}}
+* Thai: {{t|th|ดอกเตอร์|sc=Thai}}, {{t|th|ดุษฎีบัณฑิต|sc=Thai}}
 * Turkish: {{t+|tr|doktor}}
 * Ukrainian: {{t|uk|до́ктор}}
 * Uyghur: {{t|ug|دوكتور}}
 * Vietnamese: {{t+|vi|tiến sĩ}}
 * Volapük: {{qualifier|♂♀}} {{t+|vo|dokan}}, {{qualifier|♂}} {{t|vo|hidokan}}, {{qualifier|♀}} {{t|vo|jidokan}}, {{qualifier|older term}} {{t|vo|dokel}}
 * Walloon: {{t+|wa|docteur|m}}
-* Yiddish: {{t|yi|דאָקטאָר|m|tr=doktor}}
+* Yiddish: {{t|yi|דאָקטאָר|m}}
 {{trans-bottom}}
 
 {{trans-see|veterinarian}}
