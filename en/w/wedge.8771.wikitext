@@ -14,6 +14,7 @@
 {{en-noun}}
 {{Wikipedia|wedge (mechanical device)}}
 [[File:Wedge-1.jpg|thumb|A wedge]]
+[[File:Geometric_wedge.png|150px|thumb|right|Wedge in geometry.]]
 
 # One of the [[simple machine]]s; a piece of material, such as metal or wood, thick at one edge and [[tapered]] to a thin edge at the other for [[insertion]] in a narrow [[crevice]], used for [[split]]ting, tightening, securing, or [[lever]]ing.
 #: ''Stick a '''wedge''' under the door, will you? It keeps blowing shut.''
@@ -27,7 +28,7 @@
 # {{lb|en|archaic}} A flank of cavalry acting to split some portion of an opposing army, charging in an inverted V formation.
 # {{lb|en|golf}} A type of [[iron]] club used for short, high trajectories.
 # A group of [[goose|geese]], [[swan]]s or other birds when they are in flight in a V formation.
-# {{lb|en|in the plural}} Wedge-heeled shoes.
+# One of a pair of [[wedge heel|wedge-heeled]] [[shoe|shoes]].
 #* '''2010''', Sue Limb, ''Girls, Guilty But Somehow Glorious''
 #*: She was wearing '''wedges''', and I have a horrible suspicion they were her mum's wedges left over from the last century.
 # {{lb|en|colloquial|British}} A quantity of money.
@@ -44,6 +45,7 @@
 #*: Turned V is referred to as “'''Wedge'''” by some phoneticians, but this seems inadvisable to us, because the ''haček'' accent (ˇ) is also called that in names like Wedge C for (č).
 # {{lb|en|mathematics}} The symbol {{m|mul|∧}}, denoting a [[meet]] ([[infimum]]) operation or logical [[conjunction]].
 # {{lb|en|meteorology}} a [[wedge tornado]]
+
 =====Derived terms=====
 * {{l|en|wedge gauge}}, {{l|en|wedge gage}}
 * {{l|en|wedge gear}}
@@ -101,7 +103,7 @@
 {{trans-bottom}}
 
 {{trans-top|piece of food etc.}}
-* Finnish: {{t+|fi|kiila}}
+* Finnish: {{t|fi|kolmio}} {{qualifier|food}}; {{t+|fi|kiila}} 
 * French: {{t+|fr|part|m}}, {{t+|fr|morceau|m}}, {{t+|fr|quartier|m}}
 * German: {{t+|de|Stück|n}}
 * Italian: {{t+|it|spicchio}}
@@ -115,6 +117,16 @@
 * Swedish: {{t+|sv|bit|c}}
 {{trans-bottom}}
 
+{{trans-top|geometry: type of five-sided polyhedron}}
+* Finnish: {{t|fi|kiila}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|figurative: something that creates a division}}
+* Finnish: {{t|fi|kiila}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|flank of cavalry}}
 * Finnish: {{t+|fi|kiila}}
 * Greek: {{t+|el|σμήνος|n}}
@@ -123,7 +135,7 @@
 * Swedish: {{t+|sv|kil|c}}
 {{trans-bottom}}
 
-{{trans-top|golf club}}
+{{trans-top|type of golf club}}
 * Finnish: {{t+|fi|wedge}}
 * French: {{t+|fr|cale|f}}
 {{trans-mid}}
@@ -131,7 +143,7 @@
 * Swedish: {{t+|sv|wedge|c}}
 {{trans-bottom}}
 
-{{trans-top|group of geese or swans in flight}}
+{{trans-top|group of birds flying in V formation}}
 * Dutch: {{t|nl|vendel|n}}
 * Finnish: {{t+|fi|aura}}
 * Greek: {{t+|el|σμήνος|n}}
@@ -145,12 +157,30 @@
 * Swedish: {{t+|sv|plog|c}}
 {{trans-bottom}}
 
-{{trans-top|wedge-heeled shoe}}
-* Finnish: {{t|fi|kiilakorkokengät|p}}
-* Spanish: {{t|es|zapatos de cuña|p}}
+{{trans-top|one of a pair of wedge-heeled shoes}}
+* Finnish: {{t|fi|kiilakorkokenkä}}
+* Spanish: {{t|es|zapato de cuña}}
 {{trans-mid}}
-* Swedish: {{t|sv|kilklacksskor|c-p}}
+* Swedish: {{t|sv|kilklackssko|c}}
 {{trans-bottom}}
+
+{{trans-top|colloquial: quantity of money}}
+* Finnish: {{t|fi|massi}}, {{t|fi|paalu}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|typography: háček|háček}}
+
+{{trans-top|phonetics: IPA character ʌ}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|mathematics: the symbol ∧}}
+* Finnish: {{t|fi|konjunktio}}, {{t|fi|ja}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|meteorology: wedge tornado|wedge tornado}}
 
 {{ttbc-top}}
 * Ido: {{t+check|io|taketo}}
