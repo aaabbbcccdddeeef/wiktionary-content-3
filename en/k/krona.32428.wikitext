@@ -24,6 +24,7 @@ From {{etyl|sv|en}} {{m|sv|krona||crown}}.
 * Icelandic: {{t+|is|króna|f}}
 * Norwegian: {{t+|no|krone|m|f}}
 * Russian: {{t+|ru|кро́на|f}}
+* Slovak: {{t|sk|krona|f}}
 * Swedish: {{t+|sv|krona|c}}
 {{trans-bottom}}
 
@@ -91,6 +92,27 @@ From {{etyl|gml|nn}} {{m|gml|krōne}}, from {{etyl|la|nn}} {{m|la|corōna||crown
 {{head|nn|noun form|g=f}}
 
 # {{singular definite of|krone|lang=nn}}
+
+----
+
+==Slovak==
+
+===Etymology===
+From {{der|sk|sv|krona}}, from {{der|sk|la|corōna}}.
+
+===Pronunciation===
+* {{IPA|lang=sk|/ˈkrona/|/ˈkruːna/}}
+
+===Noun===
+{{sk-noun|g=f|gen=krony|pl=krony|decl=žena}}
+
+# {{lb|sk|currency}} {{l|en|krona}} {{qualifier|currency of Sweden}}
+
+====Declension====
+{{sk-decl-noun|krona|krony|krone|kronu|krone|kronou|krony|kron|kronám|krony|kronách|kronami}}
+
+===References===
+* {{R:SDK}}
 
 ----
 
