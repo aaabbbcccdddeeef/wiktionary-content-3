@@ -2,7 +2,7 @@
 
 ===Etymology===
 {{PIE root|en|ḱerd|dʰeh₁}}
-From {{etyl|ang|en}} {{m|ang|credo}}, {{m|ang|crede}}, {{etyl|ang|en}} {{m|ang|creda}}, from {{etyl|la|en}} {{m|la|credo||I believe}}, from {{m|la|credere||to believe}}; akin to Old Irish {{m|sga|cretim||I believe}}, and Sanskrit {{m|sa|रद्दध्मि|tr=raddadhmi}}.
+From {{inh|en|ang|credo}}, {{m|ang|crede}}, {{m|ang|creda}}, from {{der|en|la|credo||I believe}}, from {{m|la|credere||to believe}}; akin to {{cog|sga|cretim||I believe}}, and {{cog|sa|रद्दध्मि}}.
 
 ===Pronunciation===
 * {{IPA|/ˈkɹiːd/|lang=en}}
@@ -14,7 +14,7 @@ From {{etyl|ang|en}} {{m|ang|credo}}, {{m|ang|crede}}, {{etyl|ang|en}} {{m|ang|c
 
 # That which is [[believe]]d; accepted [[doctrine]], especially [[religious]]; a particular set of [[belief]]s; any [[summary]] of [[principle]]s or [[opinion]]s [[profess]]ed or [[adhere]]d to.
 # A [[reading]] or [[statement]] of belief that [[summarize]]s the [[faith]] it represents; a definite summary of what is believed; a [[confession]] of faith for public use; especially, one which is brief and comprehensive.
-#* ''A '''creed''' is a [[manifesto]] of religious or spiritual beliefs''
+#* {{ux|en|A '''creed''' is a [[manifesto]] of religious or spiritual beliefs}}
 # {{lb|en|rare}} The fact of [[believe|believing]]; [[belief]], [[faith]].
 #* '''1819''', Lord Byron, ''Don Juan'', I:
 #*: The precipice she stood on was immense, / So was her '''creed''' in her own innocence.
@@ -25,24 +25,23 @@ From {{etyl|ang|en}} {{m|ang|credo}}, {{m|ang|crede}}, {{etyl|ang|en}} {{m|ang|c
 * {{l|en|Nicene Creed}}
 
 ====Related terms====
-{{rel-top|terms related to ''creed''}}
-* {{l|en|credible}}
-* {{l|en|credibility}}
-* {{l|en|credit}}
-* {{l|en|creditable}}
-{{rel-mid}}
-* {{l|en|creditor}}
-* {{l|en|credence}}
-* {{l|en|credential}}
-* {{l|en|credo}}
-{{rel-bottom}}
+{{rel3
+|{{l|en|credible}}
+|{{l|en|credibility}}
+|{{l|en|credit}}
+|{{l|en|creditable}}
+|{{l|en|creditor}}
+|{{l|en|credence}}
+|{{l|en|credential}}
+|{{l|en|credo}}
+}}
 
 ====Translations====
 {{trans-top|that which is believed}}
 * Arabic: {{t+|ar|عَقِيدَة|f}}
-* Bulgarian: {{t+|bg|вероизповедание|n|tr=veroizpovédanie|sc=Cyrl}}, {{t+|bg|верую|n|tr=vèruyu|sc=Cyrl}}
+* Bulgarian: {{t+|bg|вероизпове́дание|n}}, {{t+|bg|вѐрую|n}}
 * Chinese:
-*: Mandarin: {{t+|cmn|教義|sc=Hani}}, {{t+|cmn|教义|tr=jiàoyì|sc=Hani}}, {{t+|cmn|信條|sc=Hani}}, {{t+|cmn|信条|tr=xìntiáo|sc=Hani}}
+*: Mandarin: {{t+|cmn|教義}}, {{t+|cmn|教义|tr=jiàoyì}}, {{t+|cmn|信條}}, {{t+|cmn|信条|tr=xìntiáo}}
 * Czech: {{t|cs|vyznání|n}}
 * Dutch: {{t+|nl|geloofsovertuiging|f}}
 * Esperanto: {{t|eo|kredokonfeso}}
@@ -53,22 +52,22 @@ From {{etyl|ang|en}} {{m|ang|credo}}, {{m|ang|crede}}, {{etyl|ang|en}} {{m|ang|c
 * Hebrew: {{t+|he|דָּת|tr=dat}}
 * Italian: {{t+|it|credo|m}}
 {{trans-mid}}
-* Japanese: {{t+|ja|教義|tr=きょうぎ, kyōgi|sc=Jpan}}
-* Korean: {{t+|ko|교의|sc=Kore}}
+* Japanese: {{t+|ja|教義|tr=きょうぎ, kyōgi}}
+* Korean: {{t+|ko|교의}}
 * Maori: {{t|mi|whakapono}}
 * Norwegian: {{t+|no|tro|m}}
 * Persian: {{t+|fa|عقیده|tr='aqide}}, {{t+|fa|باور|tr=bâvar}}
 * Portuguese: {{t+|pt|crença|f}}, {{t+|pt|credo|m}}
 * Romanian: {{t+|ro|credință}}
-* Russian: {{t+|ru|кре́до|n}}, {{qualifier|faith}} {{t+|ru|ве́ра|f}}, {{qualifier|religion}} {{t+|ru|вероиспове́дание|n}}, {{t+|ru|конфе́ссия|f|sc=Cyrl}} {{qualifier|religion}}
+* Russian: {{t+|ru|кре́до|n}}, {{qualifier|faith}} {{t+|ru|ве́ра|f}}, {{qualifier|religion}} {{t+|ru|вероиспове́дание|n}}, {{t+|ru|конфе́ссия|f}} {{qualifier|religion}}
 * Spanish: {{t+|es|credo|m}}
 * Swedish: {{t+|sv|tro|c}}, {{t+|sv|lära|c}}, {{t|sv|troslära|c}}
 {{trans-bottom}}
 
 {{trans-top|reading or statement of belief that summarizes the faith it represents}}
-* Bulgarian: {{t|bg|кредо|n}}, {{t+|bg|верую|n}}
+* Bulgarian: {{t|bg|кредо|n}}, {{t+|bg|вѐрую|n}}
 * Chinese:
-*: Mandarin: {{t+|cmn|信條|sc=Hani}}, {{t+|cmn|信条|tr=xìntiáo|sc=Hani}}
+*: Mandarin: {{t+|cmn|信條}}, {{t+|cmn|信条|tr=xìntiáo}}
 * Czech: {{t|cs|krédo|n}}
 * Dutch: {{t|nl|geloofsbelijdenis|f}}, {{t+|nl|credo|n}}
 * Esperanto: {{t|eo|kredo}}
@@ -78,7 +77,7 @@ From {{etyl|ang|en}} {{m|ang|credo}}, {{m|ang|crede}}, {{etyl|ang|en}} {{m|ang|c
 * French: {{t+|fr|crédo|m}}
 * German: {{t+|de|Glaubensbekenntnis|n}}
 * Icelandic: {{t|is|trúarjátning|f}}
-* Japanese: {{t|ja|信条|tr=しんじょう, shinjō|sc=Jpan}}
+* Japanese: {{t|ja|信条|tr=しんじょう, shinjō}}
 * Norwegian: {{t|no|trosbekjennelse|m}}
 * Portuguese: {{t+|pt|crença|f}}, {{t+|pt|credo|m}}
 * Russian: {{t+|ru|кре́до|n}}
@@ -86,8 +85,8 @@ From {{etyl|ang|en}} {{m|ang|credo}}, {{m|ang|crede}}, {{etyl|ang|en}} {{m|ang|c
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Norman: {{t-check|nrf|symbole|m}} {{qualifier|Jersey}}
 * Maori: {{t-check|mi|mano}}
+* Norman: {{t-check|nrf|symbole|m}} {{qualifier|Jersey}}
 {{trans-mid}}
 * Romanian: {{t+check|ro|crez|n}}
 {{trans-bottom}}
@@ -99,7 +98,7 @@ From {{etyl|ang|en}} {{m|ang|credo}}, {{m|ang|crede}}, {{etyl|ang|en}} {{m|ang|c
 
 ====Translations====
 {{trans-top|believe}}
-* Bulgarian: {{t+|bg|вярвам}}
+* Bulgarian: {{t+|bg|вя́рвам}}
 * Dutch: {{t+|nl|geloven}}
 * Finnish: {{t+|fi|uskoa}}
 * German: {{t+|de|glauben}}
