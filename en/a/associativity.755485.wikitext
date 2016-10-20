@@ -4,7 +4,11 @@
 {{wikipedia}}
 {{en-noun|associativities}}
 
-# {{lb|en|algebra}} the condition of being [[associative]]
+# {{lb|en|algebra}} The condition of being [[associative]].
+# {{lb|en|programming}} The property of an [[operator]] which determines how it is grouped with operators of the same [[precedence]] in the absence of parentheses.
+
+====Related terms====
+* {{l|en|left-associative}}, {{l|en|right-associative}}, {{l|en|non-associative}}
 
 ====Translations====
 {{trans-top|condition of being associative}}
