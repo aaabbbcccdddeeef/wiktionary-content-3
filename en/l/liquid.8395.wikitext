@@ -142,15 +142,15 @@ From {{der|en|enm|liquide}}, from {{der|en|fro|liquide}}, from {{der|en|la|liqui
 {{en-adj}}
 
 # Flowing freely like water; [[fluid]]; not [[solid]] and not [[gaseous]]; composed of particles that move freely among each other on the slightest pressure.
-#: '''''liquid''' nitrogen''
+#: {{ux|en|'''liquid''' nitrogen}}
 # {{lb|en|finance|of an [[asset]]}} Easily sold or disposed of without losing value.
 # {{lb|en|finance|of a [[market]]}} Having sufficient trading activity to make buying or selling easy.
 # Flowing or sounding smoothly or without abrupt transitions or harsh tones.
-#: ''a '''liquid''' melody''
-# Pronounced without any jar or harshness; smooth.
-#: ''L and R are '''liquid''' letters.''
+#: {{ux|en|a '''liquid''' melody}}
+# {{lb|en|phonology}} Pronounced without any jar or harshness; smooth.
+#: {{ux|en|L and R are '''liquid''' letters.}}
 # Fluid and transparent.
-#: ''the '''liquid''' air''
+#: {{ux|en|the '''liquid''' air}}
 
 ====Antonyms====
 * {{sense|flowing freely}} {{l|en|solid}}; [[gaseous]]
@@ -158,18 +158,20 @@ From {{der|en|enm|liquide}}, from {{der|en|fro|liquide}}, from {{der|en|la|liqui
 * {{sense|having sufficient activity}} {{l|en|illiquid}}
 
 ====Related terms====
-* {{l|en|liquefiable}}
-* {{l|en|liquefy}}
-* {{l|en|liquidity}}
-* {{l|en|liquidous}}
-* {{l|en|liquify}}
+{{rel3
+|{{l|en|liquefiable}}
+|{{l|en|liquefy}}
+|{{l|en|liquidity}}
+|{{l|en|liquidous}}
+|{{l|en|liquify}}
+}}
 
 ====Translations====
 {{trans-top|fluid; not solid and not gaseous}}
 * Afrikaans: {{t|af|vloeibare}}
 * Armenian: {{t+|hy|հեղուկ}}
 * Asturian: {{t|ast|líquidu}}
-* Bashkir: {{t|ba|шыйыҡ|sc=Cyrl}}
+* Bashkir: {{t|ba|шыйыҡ}}
 * Catalan: {{t+|ca|líquid}}
 * Crimean Tatar: {{t|crh|şingen}}
 * Czech: {{t|cs|tekutý|m}}, {{t+|cs|kapalný|m}}
@@ -189,11 +191,11 @@ From {{der|en|enm|liquide}}, from {{der|en|fro|liquide}}, from {{der|en|la|liqui
 * Irish: {{t|ga|leachtach}}
 * Italian: {{t+|it|liquido|m}}, {{t+|it|liquida|f}}
 * Latgalian: {{t|ltg|škeists|m}}
-{{trans-mid}}
 * Latvian: {{t|lv|šķidrs|m}}, {{t|lv|šķidra|f}}
+{{trans-mid}}
 * Lithuanian: {{t|lt|skystas|m}}
 * Malay: {{t|ms|cair}}
-* Mansi: {{t|mns|ся̄лыг|tr=sâ̄lyg}}
+* Mansi: {{t|mns|ся̄лыг}}|tr=sâ̄lyg
 * Manx: {{t|gv|so-eaysley}}
 * Norwegian: {{t|no|flytende}}
 * Occitan: {{t|oc|liquid}}
@@ -258,7 +260,8 @@ From {{der|en|enm|liquide}}, from {{der|en|fro|liquide}}, from {{der|en|la|liqui
 {{checktrans-top}}
 * Lithuanian: {{t-check|lt|skysta|f}}, {{t-check|lt|likvidi|f}}
 * Slovak: {{t-check|sk|likvidný|m}}, {{t-check|sk|likvidná|f}}
-* {{ttbc|te}}: [[ద్రవ]] (drava)
+{{trans-mid}}
+* Telugu: {{t-check|te|ద్రవ}} (drava)
 {{trans-bottom}}
 
 ===External links===
