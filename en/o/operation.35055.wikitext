@@ -1,6 +1,5 @@
 {{also|Operation|opération}}
 ==English==
-{{wikipedia}}
 
 ===Etymology===
 From {{etyl|frm|en}} {{m|frm|operation}}, from {{etyl|fro|en}} {{m|fro|operacion}}, from {{etyl|la|en}} {{m|la|operātiō}}, from the verb {{m|la|operor||I work}}, from {{m|la|opus}}, {{m|la|operis||work}}.
@@ -40,23 +39,22 @@ From {{etyl|frm|en}} {{m|frm|operation}}, from {{etyl|fro|en}} {{m|fro|operacion
 ====Synonyms====
 * {{sense|mathematics}} {{l|en|function}}, {{l|en|transformation}}
 
-====Derived terms====
-* {{l|en|logical operator}}
-* {{l|en|operational}}
-* {{l|en|short-circuit logical operator}}
+====Hyponyms====
+* {{l|en|logical operation}}
+* {{l|en|short-circuit logical operation}}
 
-====Related terms====
-{{rel-top|terms related to ''operation (noun)''}}
-* {{l|en|opera}}
-* {{l|en|operable}}
-* {{l|en|operand}}
-* {{l|en|operant}}
-{{rel-mid}}
-* {{l|en|operate}}
-* {{l|en|operative}}
-* {{l|en|operator}}
-* {{l|en|opus}}
-{{rel-bottom}}
+====Derived terms====
+{{der4
+| {{l|en|opera}}
+| {{l|en|operable}}
+| {{l|en|operand}}
+| {{l|en|operant}}
+| {{l|en|operate}}
+| {{l|en|operational}}
+| {{l|en|operative}}
+| {{l|en|operator}}
+| {{l|en|opus}}
+}}
 
 ====Translations====
 {{trans-top|method by which a device performs its function}}
@@ -206,6 +204,9 @@ From {{etyl|frm|en}} {{m|frm|operation}}, from {{etyl|fro|en}} {{m|fro|operacion
 * Turkish: {{t+|tr|operasyon}}
 * Welsh: {{t|cy|ymgyrch}}
 {{trans-bottom}}
+
+===References===
+* {{pedia}}
 
 ====External links====
 * {{R:Webster 1913}}
