@@ -57,7 +57,7 @@ From {{etyl|fro|en}} {{m|fro|seculer}}, from {{etyl|la|en}} {{m|la|saecularis||o
 * Armenian: {{t-needed|hy}}
 * Catalan: {{t+|ca|secular}}, {{t+|ca|laic}}
 * Chinese:
-*: Mandarin: {{t+|cmn|世俗|tr=shìsú|sc=Hani}}, {{t+|cmn|凡|tr=fán|sc=Hani}}, {{t+|cmn|塵俗|sc=Hani}}, {{t+|cmn|尘俗|tr=chénsú|sc=Hani}}, {{t+|cmn|非宗教|tr=fēizōngjiāo|sc=Hani}}
+*: Mandarin: {{t+|cmn|世俗|tr=shìsú}}, {{t+|cmn|凡|tr=fán}}, {{t+|cmn|塵俗}}, {{t+|cmn|尘俗|tr=chénsú}}, {{t+|cmn|非宗教|tr=fēizōngjiāo}}
 * Czech: {{t+|cs|světský}}
 * Danish: {{t+|da|verdslig}}, {{t+|da|sekulær}}
 * Dutch: {{t+|nl|seculier}}, {{t+|nl|wereldlijk}}
@@ -66,14 +66,14 @@ From {{etyl|fro|en}} {{m|fro|seculer}}, from {{etyl|la|en}} {{m|la|saecularis||o
 * French: {{t+|fr|séculier}}, {{t+|fr|laïque}}, {{t+|fr|mondain}}
 * German: {{t+|de|säkular}}, {{t+|de|weltlich}}
 * Greek: {{t+|el|κοσμικός|m}}
-* Hebrew: {{t+|he|חול|tr=ḥoll|alt=חול \ חֹל|sc=Hebr}}
-* Hindi: {{t|hi|पन्थनिरपेक्ष|tr=panthnirpeksh|sc=Deva}}
+* Hebrew: {{t+|he|חול|tr=ḥoll|alt=חול \ חֹל}}
+* Hindi: {{t|hi|पन्थनिरपेक्ष}}
 {{trans-mid}}
 * Irish: {{t|ga|saolta}}, {{t|ga|tuata}}
 * Italian: {{t+|it|secolare}}
 * Japanese: {{t+|ja|世俗|alt=世俗的な|tr=せぞくてきな, sezokuteki-na}}, {{t+|ja|世俗|alt=世俗の|tr=せぞくの, sezoku-no}}, {{t|ja|非宗教的|alt=非宗教的な|tr=ひしゅうきょうてきな, hishūkyōteki-na}}
-* Norman: {{t|nrf|sétchulyi}}
 * Maori: {{t|mi|whakawhenua}}
+* Norman: {{t|nrf|sétchulyi}} {{qualifier|Jersey}}
 * Polish: {{t+|pl|świecki}}
 * Portuguese: {{t+|pt|secular}}
 * Russian: {{t+|ru|све́тский}}, {{t+|ru|мирско́й}}, {{t+|ru|секуля́рный}}
@@ -89,10 +89,10 @@ From {{etyl|fro|en}} {{m|fro|seculer}}, from {{etyl|la|en}} {{m|la|saecularis||o
 {{trans-top|temporal}}
 * Finnish: {{t+|fi|maallinen}}, {{t+|fi|ajallinen}}
 * French: {{t+|fr|séculier}}
-* Norman: {{t|nrf|sétchulyi}}
 * Greek: {{t+|el|κοσμικός|m}}
-{{trans-mid}}
 * Maori: {{t|mi|whakawhenua}}
+{{trans-mid}}
+* Norman: {{t|nrf|sétchulyi}} {{qualifier|Jersey}}
 * Portuguese: {{t+|pt|secular}}
 * Scottish Gaelic: {{t|gd|saoghalta}}
 * Spanish: {{t+|es|seglar}}, {{t+|es|secular}}
@@ -107,16 +107,16 @@ From {{etyl|fro|en}} {{m|fro|seculer}}, from {{etyl|la|en}} {{m|la|saecularis||o
 {{trans-top|happening once in an age or century}}
 * Finnish: {{t+|fi|sekulaarinen}}
 * French: {{t+|fr|séculaire}}
-{{trans-mid}}
 * Italian: {{t+|it|secolare}}
+{{trans-mid}}
 * Portuguese: {{t+|pt|secular}}
 * Spanish: {{t+|es|secular}}
 {{trans-bottom}}
 
 {{trans-top|long-term}}
 * Finnish: {{t+|fi|pysyvä}}, {{t+|fi|pitkäaikainen}}
-{{trans-mid}}
 * Spanish: {{t+|es|secular}}
+{{trans-mid}}
 * Swedish: {{t+|sv|sekulär}}, {{t|sv|långsamt skeende}}
 {{trans-bottom}}
 
@@ -134,8 +134,9 @@ From {{etyl|fro|en}} {{m|fro|seculer}}, from {{etyl|la|en}} {{m|la|saecularis||o
 {{checktrans-top}}
 * Dutch: {{t-check|nl|seculier}}
 * French: {{t-check|fr|profane}}
+{{trans-mid}}
 * Italian: {{t-check|it|secolare}}
-* {{ttbc|ml}}: [[മതേതരം]] (mathEtharam) (2)
+* Malayalam: {{t-check|ml|മതേതരം}}
 {{trans-bottom}}
 
 ===References===
