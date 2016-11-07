@@ -2,7 +2,7 @@
 
 ===Etymology===
 {{PIE root|en|dewk}}
-From {{etyl|la|en}} ''[[deducere]]'', "lead from or concerning", from ''[[de-]]'', "of" or "concerning", ''[[ducere]]'', "lead".
+{{bor|en|la|deducere}}, "lead from or concerning", from ''[[de-]]'', "of" or "concerning", ''[[ducere]]'', "lead".
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/dɪˈdjuːs/|lang=en}}, {{IPA|/dɪˈdʒuːs/|lang=en}}
@@ -103,12 +103,15 @@ From {{etyl|la|en}} ''[[deducere]]'', "lead from or concerning", from ''[[de-]]'
 ==Romanian==
 
 ===Etymology===
-Borrowed from {{etyl|la|ro}} ''[[deducere]]'', {{etyl|fr|ro}} ''[[déduire]]''.
+{{bor|ro|la|deducere}}, {{bor|ro|fr|déduire|notext=1}}, with conjugation based on {{m|ro|duce}}.
 
 ===Verb===
 {{ro-verb|conj=3|deduce|dedus}}
 
 # {{lb|ro|transitive}} to [[infer]], {{l|en|deduce}} (to conclude by reasoning or deduction, as from premises or evidence)
+
+=====Conjugation=====
+{{ro-conj-duce|1=de}}
 
 ----
 
