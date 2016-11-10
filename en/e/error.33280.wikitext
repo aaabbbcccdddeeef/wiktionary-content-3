@@ -1,5 +1,4 @@
 ==English==
-{{wikipedia}}
 
 ===Alternative forms===
 * {{l|en|errour}} {{qualifier|obsolete}}
@@ -13,6 +12,7 @@ From {{etyl|enm|en}} {{m|enm|errour}}, from {{etyl|la|en}} {{m|la|error||wanderi
 ** {{qualifier|some accents}} {{IPA|/ˈɛɚ/|lang=en}}
 * {{audio|en-us-error.ogg|Audio (US)|lang=en}}
 * {{rhymes|ɛrə(r)|lang=en}}
+* {{hyphenation|error|lang=en}}
 * {{homophones|lang=en|era}} {{qualifier|in [[non-rhotic]] US pronunciations}}
 * {{homophones|lang=en|air|e'er|ere|heir}} {{qualifier|in some US pronunciations}}
 * {{homophones|lang=en|err}} {{qualifier|in some US pronunciations}}
@@ -43,42 +43,43 @@ From {{etyl|enm|en}} {{m|enm|errour}}, from {{etyl|la|en}} {{m|la|error||wanderi
 * {{sense|a mistake}} {{l|en|blooper}}, {{l|en|blunder}}, {{l|en|boo-boo}}, {{l|en|defect}}, {{l|en|fault}}, {{l|en|faux pas}}, {{l|en|fluff}}, {{l|en|flub}}, {{l|en|fumble}}, {{l|en|gaffe}}, {{l|en|lapse}}, {{l|en|mistake}}, {{l|en|slip}}, {{l|en|stumble}}, {{l|en|thinko}}
 * See also [[Wikisaurus:error]]
 
+====Hyponyms====
+{{hyp4
+| {{l|en|absolute error}}
+| {{l|en|compass error}}
+| {{l|en|measurement error}}
+| {{l|en|sampling error}}
+| {{l|en|spelling error}}
+| {{l|en|syntax error}}
+| {{l|en|typographical error}}
+| {{l|en|unforced error}}
+}}
+
 ====Derived terms====
-{{rel-top3|Terms derived from ''error'' (noun)}}
-* {{l|en|absolute error}}
-* {{l|en|comedy of errors}}
-* {{l|en|compass error}}
-* {{l|en|error bar}}
-* {{l|en|error catastrophe}}
-* {{l|en|error correction}}
-* {{l|en|error handler}}
-{{rel-mid3}}
-* {{l|en|error handling}}
-* {{l|en|error in judgement}} / [[error in judgment]]
-* {{l|en|error of judgement}} / [[error of judgment]]
-* {{l|en|error message}}
 * {{l|en|error-ridden}}
-* {{l|en|in error}}
-* {{l|en|margin of error}}
-{{rel-mid3}}
-* {{l|en|measurement error}}
-* {{l|en|plaintiff in error}}
-* {{l|en|sampling error}}
-* {{l|en|spelling error}}
-* {{l|en|syntax error}}
-* {{l|en|trial and error}}
-* {{l|en|typographical error}}
-* {{l|en|unforced error}}
-{{rel-bottom}}
 
 ====Related terms====
-{{rel-top|Terms etymologically related to ''error'' (noun)}}
-* {{l|en|err}}
-* {{l|en|errant}}
-{{rel-mid}}
-* {{l|en|erroneous}}
-* {{l|en|erroneously}}
-{{rel-bottom}}
+{{rel4
+| {{l|en|comedy of errors}}
+| {{l|en|err}}
+| {{l|en|errant}}
+| {{l|en|erroneous}}
+| {{l|en|erroneously}}
+| {{l|en|error bar}}
+| {{l|en|error catastrophe}}
+| {{l|en|error correction}}
+| {{l|en|error handler}}
+| {{l|en|error handling}}
+| {{l|en|error in judgement}}
+| {{l|en|error in judgment}}
+| {{l|en|error of judgement}}
+| {{l|en|error of judgment}}
+| {{l|en|error message}}
+| {{l|en|in error}}
+| {{l|en|margin of error}}
+| {{l|en|plaintiff in error}}
+| {{l|en|trial and error}}
+}}
 
 ====Translations====
 {{trans-top|mistake}}
@@ -204,6 +205,9 @@ From {{etyl|enm|en}} {{m|enm|errour}}, from {{etyl|la|en}} {{m|la|error||wanderi
 * Spanish: {{t+check|es|error|m}}, {{t+check|es|yerro|m}}
 * Swedish: {{t+check|sv|fel|n}}, {{t+check|sv|misstag|n}}
 {{trans-bottom}}
+
+===References===
+* {{pedia}}
 
 ===Verb===
 {{en-verb}}
