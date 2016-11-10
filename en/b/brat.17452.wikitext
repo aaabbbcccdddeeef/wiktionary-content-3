@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology 1===
-Origin uncertain. According to the [http://www.etymonline.com/index.php?term=brat Online Etymology Dictionary], the term "brat" derives from an {{etyl|ang|-}} slang term meaning "beggar's child". Originally a dialectal word, from northern and western England and the Midlands, for a "makeshift or ragged garment"; probably the same word as {{cog|ang|bratt||cloak}}, which is from a Celtic source (compare Old Irish {{m|sga|bratt||cloak, cloth}}).
+Origin uncertain. According to the [http://www.etymonline.com/index.php?term=brat Online Etymology Dictionary], the term "brat" derives from an {{der|en|ang|-}} slang term meaning "beggar's child". Originally a dialectal word, from northern and western England and the Midlands, for a "makeshift or ragged garment"; probably the same word as {{cog|ang|bratt||cloak}}, which is from a Celtic source (compare Old Irish {{m|sga|bratt||cloak, cloth}}).
 
 ====Pronunciation====
 * {{a|UK}} {{IPA|/bɹat/|lang=en}}
@@ -62,7 +62,7 @@ Origin uncertain. According to the [http://www.etymonline.com/index.php?term=bra
 [[Category:en:Children]]
 
 ===Etymology 2===
-Shortened from {{m|en|bratwurst}}, from the {{etyl|de|en}} ''[[Bratwurst]]''
+Shortened from {{m|en|bratwurst}}, from {{der|en|de|Bratwurst}}.
 
 ====Pronunciation====
 * {{a|US}} {{enPR|brŏt}}, {{IPA|/bɹɑt/|lang=en}}
@@ -106,7 +106,7 @@ Shortened from {{m|en|bratwurst}}, from the {{etyl|de|en}} ''[[Bratwurst]]''
 * {{IPA|/brat/|[b̥ʁɑd̥]|lang=da}}
 
 ===Etymology 1===
-From {{etyl|non|da}} {{m|non|brantr}}, {{m|non|brattr}}. Cognate with Faroese and Icelandic ''[[brattur]]'', Norwegian {{m|no|bratt}}, Swedish {{m|sv|brant}}, and Old English {{m|ang|brant}}, {{m|ang|bront}} (English {{m|en|brant}}, {{m|en|brent}}, Scots {{m|sco|brent}}).
+From {{inh|da|non|brantr}}, {{m|non|brattr}}. Cognate with Faroese and {{cog|is|brattur}}, {{cog|no|bratt}}, {{cog|sv|brant}}, and {{cog|ang|brant}}, {{m|ang|bront}} ({{cog|en|brant}}, {{m|en|brent}}, {{cog|sco|brent}}).
 
 ====Alternative forms====
 * {{l|da|brant}} {{qualifier|dialectal}}
@@ -120,7 +120,7 @@ From {{etyl|non|da}} {{m|non|brantr}}, {{m|non|brattr}}. Cognate with Faroese an
 {{da-infl-adj|bratt|est}}
 
 ===Etymology 2===
-From {{etyl|non|da}} {{m|non|brattr||steep}} and merged with {{etyl|non|da}} {{m|non|bráðr||hasty, sudden}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*brēþaz||hot, in a hurry, rushed}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*bʰrē-}}, {{m|ine-pro|*bʰerē-||steam, vapour}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*bʰer-||to seethe, toss about, cook}}.
+From {{inh|da|non|brattr||steep}} and merged with {{cog|non|bráðr||hasty, sudden}}, from {{inh|da|gem-pro|*brēþaz||hot, in a hurry, rushed}}, from {{der|da|ine-pro|*bʰrē-}}, {{m|ine-pro|*bʰerē-||steam, vapour}}, from {{der|da|ine-pro|*bʰer-||to seethe, toss about, cook}}.
 
 ====Adjective====
 {{da-adj}}
@@ -204,7 +204,7 @@ From {{inh|ga|sga|bratt}}, from {{inh|ga|cel-pro|*bratto-}} (compare {{cog|cy|br
 ==Kashubian==
 
 ===Etymology===
-From {{inh|csb|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{etyl|ine-pro|csb}} {{m|ine-pro|*bʰréh₂tēr}}.
+From {{inh|csb|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{inh|csb|ine-pro|*bʰréh₂tēr}}.
 
 ===Noun===
 {{head|csb|noun|g=m}}
@@ -229,7 +229,7 @@ From {{inh|csb|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{etyl|ine-pro|cs
 {{was fwotd|2015|November|7|lang=pl}}
 
 ===Etymology===
-From {{inh|pl|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{etyl|ine-pro|pl}} {{m|ine-pro|*bʰréh₂tēr}}.
+From {{inh|pl|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{inh|pl|ine-pro|*bʰréh₂tēr}}.
 
 ===Pronunciation===
 * {{IPA|lang=pl|[brat]}}
@@ -259,7 +259,7 @@ From {{inh|pl|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{etyl|ine-pro|pl}
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{etyl|sga|gd}} {{m|sga|bratt}}, from {{etyl|cel-pro|gd}} {{m|cel-pro|*bratto-}} (compare {{cog|cy|brethyn||cloth}}, from {{m|cel-pro|*bratt-ino-}}).
+From {{inh|gd|sga|bratt}}, from {{inh|gd|cel-pro|*bratto-}} (compare {{cog|cy|brethyn||cloth}}, from {{m|cel-pro|*bratt-ino-}}).
 
 ===Noun===
 {{gd-noun|g=m|gen=brata|pl=bratan}}
@@ -275,7 +275,7 @@ From {{etyl|sga|gd}} {{m|sga|bratt}}, from {{etyl|cel-pro|gd}} {{m|cel-pro|*brat
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{inh|sh|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{etyl|ine-pro|sh}} {{m|ine-pro|*bʰréh₂tēr}}.
+From {{inh|sh|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{inh|sh|ine-pro|*bʰréh₂tēr}}.
 
 ===Pronunciation===
 * {{IPA|/brât/|lang=sh}}
@@ -308,7 +308,7 @@ There is no plural form for this noun. Instead, the collective term {{m|sh|brȁ�
 ==Slovak==
 
 ===Etymology===
-From {{inh|sk|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{etyl|ine-pro|sk}} {{m|ine-pro|*bʰréh₂tēr}}.
+From {{inh|sk|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{inh|sk|ine-pro|*bʰréh₂tēr}}.
 
 ===Pronunciation===
 * {{IPA|lang=sk|[brat]}}
@@ -331,7 +331,7 @@ From {{inh|sk|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{etyl|ine-pro|sk}
 ==Slovene==
 
 ===Etymology===
-From {{inh|sl|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{etyl|ine-pro|sl}} {{m|ine-pro|*bʰréh₂tēr}}.
+From {{inh|sl|sla-pro|*bratrъ}}, {{m|sla-pro|*bratъ}}, from {{inh|sl|ine-pro|*bʰréh₂tēr}}.
 
 ===Pronunciation===
 * {{IPA|lang=sl|/ˈbrát/}}
