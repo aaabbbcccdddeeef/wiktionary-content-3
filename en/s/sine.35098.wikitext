@@ -4,7 +4,7 @@
 [[Image:Sine.svg|thumb|Sine function]]
 
 ===Etymology===
-From {{etyl|la|en}} {{m|la|sinus}}, translation of {{etyl|ar|en}} {{m|ar|جَيْب}}.<!--Acc. to AHD-->
+From {{der|en|la|sinus||bosom}}, a calque of {{der|en|ar|جَيْب||bosom}}.<!--Acc. to AHD-->
 
 ===Pronunciation===
 * {{enPR|sīn}}, {{IPA|/saɪn/|lang=en}}
@@ -20,7 +20,7 @@ From {{etyl|la|en}} {{m|la|sinus}}, translation of {{etyl|ar|en}} {{m|ar|جَي�
 ====Usage notes====
 In various branches of mathematics, the sine of an angle is determined in various ways, including the following:
 * The [[y-coordinate|''y''-coordinate]] of the [[point]] on the [[unit]] [[circle]] at the given [[anticlockwise]] angle from the [[x-axis|''x''-axis]].
-* The [[sum]] of the [[real]] or [[complex]] [[power series]]<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<math>\sum_{n=1}^\infty{{(-1)^{n-1}}\over{(2n-1)!}}x^{2n-1} = x - {1\over 6} x^3 + {1\over 120} x^5 - {1\over 5040} x^7 + ...</math><br><br>where ''x'' is in [[radian]]s.
+* The [[sum]] of the [[real]] or [[complex]] [[power series]]<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<math>\sum_{n=1}^\infty{{(-1)^{n-1}}\over{(2n-1)!}}x^{2n-1} = x - {1\over 6} x^3 + {1\over 120} x^5 - {1\over 5040} x^7 + ...</math><br/><br/>where ''x'' is in [[radian]]s.
 
 ====Synonyms====
 * Symbol: [[sin]]
@@ -136,7 +136,7 @@ From {{inh|ga|sga|[[sine]], [[siniu]]}}, comparative form of {{m|sga|sen||old}}.
 # {{comparative of|sean|lang=ga|nodot=yes}}: [[older]]
 
 ===Etymology 2===
-From {{inh|ga|sga|sine||teat, dug, pap}}, from {{inh|ga|cel-pro|*sɸenyo-}}, from {{der|ga|ine-pro|*pstḗn}}. Cognate with Old Norse {{m|non|speni||teat}}, English {{m|en|spean||teat (of a cow)}}.
+From {{inh|ga|sga|sine||teat, dug, pap}}, from {{inh|ga|cel-pro|*sɸenyos}}, from {{der|ga|ine-pro|*pstḗn}}. Cognate with Old Norse {{m|non|speni||teat}}, English {{m|en|spean||teat (of a cow)}}.
 
 ====Noun====
 {{ga-noun|f|-|siní}}
@@ -218,7 +218,7 @@ Possibly from {{der|la|ine-pro|*sene-}}, {{m|ine-pro|*sane-||apart, without}}. C
 ==Norwegian Bokmål==
 
 ===Etymology===
-From {{etyl|non|nb}} {{m|non|sínir}}.
+From {{inh|nb|non|sínir}}.
 
 ===Pronunciation===
 * {{IPA|/siːne/|lang=nb}}
@@ -236,7 +236,7 @@ From {{etyl|non|nb}} {{m|non|sínir}}.
 ==Norwegian Nynorsk==
 
 ===Etymology===
-From {{etyl|non|nn}} {{m|non|sínir}}.
+From {{inh|nn|non|sínir}}.
 
 ===Pronunciation===
 * {{IPA|/siːnә/|lang=nn}} {{nn-pronu-note}}
@@ -293,7 +293,7 @@ From {{inh|ro|la|sē}}, as with {{m|ro|mine}}, {{m|ro|tine}}.
 * {{IPA|/ˈʃinə/|lang=gd}}
 
 ===Etymology 1===
-From {{etyl|sga|gd}} {{m|sga|sine||teat, dug, pap}}, from {{etyl|cel-pro|gd}} {{m|cel-pro|*sɸenyo-}}, from {{etyl|ine-pro|gd}} {{m|ine-pro|*pstḗn}}. Cognate with Old Norse {{m|non|speni||teat}}, English {{m|en|spean||teat (of a cow)}}.
+From {{inh|gd|sga|sine||teat, dug, pap}}, from {{inh|gd|cel-pro|*sɸenyos}}, from {{der|gd|ine-pro|*pstḗn}}. Cognate with {{cog|non|speni||teat}}, {{cog|en|spean||teat (of a cow)}}.
 
 ====Noun====
 {{gd-noun|g=f|gen=sine|pl=sinean}}
