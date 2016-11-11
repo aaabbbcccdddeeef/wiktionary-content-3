@@ -77,8 +77,9 @@
 #*: Once the callee (the called function) terminates, it cleans the stack that it has been locally using and '''pops''' the next value stored on top of the stack.
 #* '''2011''', John Mongan, ‎Noah Kindler, ‎Eric Giguère, ''Programming Interviews Exposed''
 #*: The algorithm '''pops''' the stack to obtain a new current node when there are no more children (when it reaches a leaf).
-# {{lb|en|UK}} To [[place]] (something) (somewhere).
+# {{lb|en|UK}} To [[place]] (something) (somewhere); to move or position (something) with a short movement.
 #: {{ux|en|Just '''pop''' it in the fridge for now.}}
+#: {{ux|en|He '''popped''' his head around the door.}}
 #* Milton
 #*: He '''popped''' a paper into his hand.
 # {{lb|en|transitive|slang}} To [[pawn]] something (to raise money).
