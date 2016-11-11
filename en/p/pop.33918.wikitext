@@ -58,7 +58,7 @@
 ====Verb====
 {{en-verb|popp}}
 
-# To make a pop, or sharp, quick sound.
+# {{lb|en|intransitive}} To make a pop, or sharp, quick sound.
 #: {{ux|en|The muskets '''popped''' away on all sides.}}
 # {{lb|en|ergative}} To [[burst]] (something) with a popping sound.
 #: {{ux|en|The boy with the pin '''popped''' the balloon.}}
@@ -67,24 +67,24 @@
 #*: The waves came round her. She was a rock. She was covered with the seaweed which '''pops''' when it is pressed. He was lost.
 #* {{quote-journal|date=December 14, 2011|author=Steven Morris|title=Devon woman jailed for 168 days for killing kitten in microwave|work=Guardian|url=http://www.guardian.co.uk/world/2011/dec/14/woman-killed-kitten-microwave-jail}}
 #*: The court was told Robins had asked if she could use the oven to heat some baby food for her child. Knutton heard a loud '''popping''' noise "like a crisp packet being '''popped'''" coming from the kitchen followed by a "screeching" noise. When she saw what had happened to the kitten she was sick in the sink.
-# {{rfv-sense}} To act [[suddenly]], [[unexpectedly]] or [[quickly]].
-# {{lb|en|UK}} To [[place]] (something) (somewhere); to move or position (something) with a short movement.
+# {{rfv-sense}} {{lb|en|intransitive}} To act [[suddenly]], [[unexpectedly]] or [[quickly]].
+# {{lb|en|transitive|UK}} To [[place]] (something) (somewhere); to move or position (something) with a short movement.
 #: {{ux|en|Just '''pop''' it in the fridge for now.}}
 #: {{ux|en|He '''popped''' his head around the door.}}
-#* Milton
+#* {{rfdate|and other bibliographic particulars}} {{w|John Milton}}
 #*: He '''popped''' a paper into his hand.
 # (''often with ''over'', ''round'', ''along'', etc.'') To make a short trip or visit.
 #: ''I'm just '''popping''' round to the newsagent.''
-# To [[hit]] (something or someone).
+# {{lb|en|transitive}} To [[hit]] (something or someone).
 #: {{ux|en|He '''popped''' me on the nose.}}
-# {{lb|en|slang}} To shoot (usually somebody) with a firearm.
-# {{lb|en|vulgar}} To [[ejaculate]].
-# {{lb|en|computing}} To remove (a data item) from the top of a [[stack]].
+# {{lb|en|transitive|slang}} To shoot (usually somebody) with a firearm.
+# {{lb|en|intransitive|vulgar}} To [[ejaculate]].
+# {{lb|en|transitive|computing}} To remove (a data item) from the top of a [[stack]].
 #* '''2010''', Enrico Perla, ‎Massimiliano Oldani, ''A Guide to Kernel Exploitation: Attacking the Core'' (page 55)
 #*: Once the callee (the called function) terminates, it cleans the stack that it has been locally using and '''pops''' the next value stored on top of the stack.
 #* '''2011''', John Mongan, ‎Noah Kindler, ‎Eric Giguère, ''Programming Interviews Exposed''
 #*: The algorithm '''pops''' the stack to obtain a new current node when there are no more children (when it reaches a leaf).
-# {{lb|en|transitive|slang}} To [[pawn]] something (to raise money).
+# {{lb|en|transitive|slang}} To [[pawn]] (something) (to raise money).
 #: {{ux|en|I had to '''pop''' my watch to see me through until pay-day.}}
 # {{lb|en|transitive|slang}} To [[swallow]] (a tablet of a drug).
 #* '''1994''', Ruth Garner and Patricia A. Alexander, ''Beliefs about text and instruction with text'':
@@ -97,13 +97,19 @@
 # {{lb|en|intransitive|of the [[ear]]s}} To undergo [[equalization]] of [[pressure]] when the [[Eustachian tube]]s open.
 #: {{ux|en|My ears '''popped''' as the aeroplane began to ascend.}}
 # {{lb|en|intransitive}} To enter, or issue forth, with a quick, sudden movement; to move from place to place suddenly; to dart; with ''in'', ''out'', ''upon'', etc.
-#* Shakespeare
-#*: He that killed my king {{...}} / '''Popp'd''' in between the election and my hopes.
-#* Jonathan Swift
-#*: a trick of '''popping''' up and down every moment
+#* {{rfdate}} {{w|William Shakespeare}}, {{w|Hamlet}}, v 2 65
+#*: He that hath . . ./ '''Popp'd''' in between the election and my hopes.
+#* {{rfdate|and other bibliographic particulars}} {{w|Addison}}
+#*: I startled at his '''popping''' upon me unexpectedly. 
+#* {{rfdate|and other bibliographic particulars}} {{w|John Donne}}, Sermons, iv 
+#*: So, diving in a bottomless sea, they [the Roman Church] '''pop''' sometimes above water to take breath.
+#* {{rfdate|and other bibliographic particulars}} {{w|Jonathan Swift}}
+#*: Others have a trick of popping up and down every moment from their paper to the audience, like an idle school-boy. 
+#* {{rfdate|and other bibliographic particulars}} {{w|Oliver Goldsmith}}, ''She Stoops to Conquer'', ii
+#*: When company comes, you are not to pop out and stare, and then run in again, like frightened rabbits in a warren. 
 #* '''1989''', Clifford Stoll, ''The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage''
 #*: Lee Cheng '''popped''' on the phone line. "Right. I'm tracing it." More keytaps, this time with a few beeps thrown in.
-# To stand out, to be visually distinctive.
+# {{lb|en|intransitive}} To stand out, to be visually distinctive.
 #* {{quote-journal|date=July 18, 2011|author=Robert Costa|title=The Battle from Waterloo: Representative Bachmann runs for president|work=National Review}}
 #*: She also looked like a star - and not the Beltway type. On a stage full of stiff suits, she '''popped'''.
 
