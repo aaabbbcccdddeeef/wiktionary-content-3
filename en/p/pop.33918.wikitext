@@ -68,6 +68,11 @@
 #* {{quote-journal|date=December 14, 2011|author=Steven Morris|title=Devon woman jailed for 168 days for killing kitten in microwave|work=Guardian|url=http://www.guardian.co.uk/world/2011/dec/14/woman-killed-kitten-microwave-jail}}
 #*: The court was told Robins had asked if she could use the oven to heat some baby food for her child. Knutton heard a loud '''popping''' noise "like a crisp packet being '''popped'''" coming from the kitchen followed by a "screeching" noise. When she saw what had happened to the kitten she was sick in the sink.
 # To act [[suddenly]], [[unexpectedly]] or [[quickly]].
+# {{lb|en|UK}} To [[place]] (something) (somewhere); to move or position (something) with a short movement.
+#: {{ux|en|Just '''pop''' it in the fridge for now.}}
+#: {{ux|en|He '''popped''' his head around the door.}}
+#* Milton
+#*: He '''popped''' a paper into his hand.
 # (''often with ''over'', ''round'', ''along'', etc.'') To make a short trip or visit.
 #: ''I'm just '''popping''' round to the newsagent.''
 # To [[hit]] (something or someone).
@@ -79,11 +84,6 @@
 #*: Once the callee (the called function) terminates, it cleans the stack that it has been locally using and '''pops''' the next value stored on top of the stack.
 #* '''2011''', John Mongan, ‎Noah Kindler, ‎Eric Giguère, ''Programming Interviews Exposed''
 #*: The algorithm '''pops''' the stack to obtain a new current node when there are no more children (when it reaches a leaf).
-# {{lb|en|UK}} To [[place]] (something) (somewhere); to move or position (something) with a short movement.
-#: {{ux|en|Just '''pop''' it in the fridge for now.}}
-#: {{ux|en|He '''popped''' his head around the door.}}
-#* Milton
-#*: He '''popped''' a paper into his hand.
 # {{lb|en|transitive|slang}} To [[pawn]] something (to raise money).
 #: {{ux|en|I had to '''pop''' my watch to see me through until pay-day.}}
 # {{lb|en|transitive|slang}} To [[swallow]] (a tablet of a drug).
@@ -126,18 +126,18 @@
 {{trans-mid}}
 {{trans-bottom}}
 
+{{trans-top|to place something somewhere}}
+* Finnish: {{t+|fi|tyrkätä}}
+{{trans-mid}}
+* Russian: {{t+|ru|сова́ть|impf}}, {{t+|ru|су́нуть|pf}}
+{{trans-bottom}}
+
 {{trans-see|to hit|hit}}
 
 {{trans-see|to ejaculate|ejaculate}}
 
 {{trans-top|computing: to remove a data item from the top of a stack}}
 {{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|to place something somewhere}}
-* Finnish: {{t+|fi|tyrkätä}}
-{{trans-mid}}
-* Russian: {{t+|ru|сова́ть|impf}}, {{t+|ru|су́нуть|pf}}
 {{trans-bottom}}
 
 {{trans-top|slang: to swallow}}
