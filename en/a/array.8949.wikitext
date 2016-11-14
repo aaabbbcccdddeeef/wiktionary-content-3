@@ -53,50 +53,45 @@ From {{etyl|enm|en}} {{m|enm|arrayen}}, from {{etyl|xno|en}} {{m|fro|arraier}} (
 * {{sense|orderly series}} {{l|en|disarray}}
 
 ====Hyponyms====
-{{hyp-top3|computing: Hyponyms of ''array''}}
-* {{l|en|associative array}}
-* {{l|en|bit array}}
-* {{l|en|blessed array}}
-* {{l|en|dynamic array}}
-{{hyp-mid3}}
-* {{l|en|Global Arrays}}
-* {{l|en|jagged array}}
-* {{l|en|multidimensional array}}
-* {{l|en|parallel array}}
-{{hyp-mid3}}
-* {{l|en|sparse array}}
-* {{l|en|unblessed array}}
-* {{l|en|variable-length array}}
-{{hyp-bottom}}
+{{hyp4|title=computing: Hyponyms of ''array''
+| {{l|en|associative array}}
+| {{l|en|bit array}}
+| {{l|en|blessed array}}
+| {{l|en|dynamic array}}
+| {{l|en|Global Arrays}}
+| {{l|en|jagged array}}
+| {{l|en|multidimensional array}}
+| {{l|en|parallel array}}
+| {{l|en|ragged array}}
+| {{l|en|sparse array}}
+| {{l|en|unblessed array}}
+| {{l|en|variable-length array}}
+}}
 
-{{hyp-top|mathematics: Hyponyms of ''array''}}
-* {{l|en|Costas array}}
-* {{l|en|intersection array}}
-{{hyp-mid}}
-* {{l|en|Monge array}}
-* {{l|en|standard array}}
-{{hyp-bottom}}
+{{hyp4|title=mathematics: Hyponyms of ''array''
+| {{l|en|Costas array}}
+| {{l|en|intersection array}}
+| {{l|en|Monge array}}
+| {{l|en|standard array}}
+}}
 
-{{hyp-top4|technology: Hyponyms of ''array''}}
-* {{l|en|antenna array}}
-* {{l|en|color filter array}}/{{l|en|colour filter array}}
-* {{l|en|disc array}}
-{{hyp-mid4}}
-* {{l|en|gate array}}
-* {{l|en|Halbach array}}
-* {{l|en|linear diode array}}
-* {{l|en|microphone array}}
-{{hyp-mid4}}
-* {{l|en|parametric array}}
-* {{l|en|photovoltaic array}}
-* {{l|en|processor array}}
-* {{l|en|reconfigurable datapath array}}
-{{hyp-mid4}}
-* {{l|en|staring array}}
-* {{l|en|systolic array}}
-* {{l|en|Video Graphics Array}}
-* {{l|en|Wi-Fi array}}
-{{hyp-bottom}}
+{{hyp4|title=technology: Hyponyms of ''array''
+| {{l|en|antenna array}}
+| {{l|en|color filter array}}/{{l|en|colour filter array}}
+| {{l|en|disc array}}
+| {{l|en|gate array}}
+| {{l|en|Halbach array}}
+| {{l|en|linear diode array}}
+| {{l|en|microphone array}}
+| {{l|en|parametric array}}
+| {{l|en|photovoltaic array}}
+| {{l|en|processor array}}
+| {{l|en|reconfigurable datapath array}}
+| {{l|en|staring array}}
+| {{l|en|systolic array}}
+| {{l|en|Video Graphics Array}}
+| {{l|en|Wi-Fi array}}
+}}
 
 ====Related terms====
 {{rel-top3}}
