@@ -13,19 +13,19 @@
 ==Irish==
 
 ===Etymology===
-From {{etyl|sga|ga}} {{m|sga|maide}}.
+From {{inh|ga|sga|maide}}.
 
 ===Pronunciation===
 * {{IPA|/ˈmˠadʲə/|lang=ga}}
 
 ===Noun===
-{{ga-noun|m|maide|maidí}}
+{{ga-noun|m|~|maidí}}
 
-# [[stick]]
-# [[peg]]
-# [[baton]]
-# {{lb|sga|nautical}} [[rib]], [[timber]]
-# {{lb|sga|golf}} [[club]]
+# {{l|en|stick}}
+# {{l|en|peg}}
+# {{l|en|baton}}
+# {{lb|ga|nautical}} {{def|[[rib]], [[timber]]}}
+# {{lb|ga|golf}} {{l|en|club}}
 
 ====Declension====
 {{ga-decl-m4|m|aide|aidí}}
@@ -41,7 +41,10 @@ From {{etyl|sga|ga}} {{m|sga|maide}}.
 * {{l|ga|slis den seanmhaide||chip off the old block}}
 
 ===Mutation===
-{{ga mut cons|m|aide}}
+{{ga-mut}}
+
+===References===
+* {{R:DIL|31298}}
 
 ----
 
@@ -62,15 +65,21 @@ From {{etyl|sga|ga}} {{m|sga|maide}}.
 * Manx: {{l|gv|maidjey}}
 * Scottish Gaelic: {{l|gd|maide}}
 
+===Mutation===
+{{sga-mutation|m|aide}}
+
+===References===
+* {{R:DIL|31298}}
+
 ----
 
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{etyl|sga|gd}} {{m|sga|maide}}.
+From {{inh|gd|mga|maide}}.
 
 ===Pronunciation===
-* {{IPA|[mad̊ʲɪ]|lang=gd}}
+* {{IPA|/ˈmatʲə/|lang=gd}}
 
 ===Noun===
 {{gd-noun|g=m|gen=maide|pl=maidean|pl2=maideachan}}
@@ -109,7 +118,11 @@ From {{etyl|sga|gd}} {{m|sga|maide}}.
 |{{l|gd|làir-mhaide||see-saw}}
 |{{l|gd|maide-snìomh||distaff}}}}
 
+===Mutation===
+{{gd-mut-cons|m|aide}}
+
 ===References===
+* {{R:DIL|31298}}
 * {{R:Dwelly}}
 
 [[es:maide]]
