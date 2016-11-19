@@ -13,9 +13,7 @@ From {{etyl|la|en}} {{m|la|tangentem}}, the accusative of {{m|la|tangēns||touch
 {{en-noun}}
 
 # {{lb|en|geometry}} A [[straight]] [[line]] [[touching]] a [[curve]] at a single [[point]] without [[crossing]] it there.
-# {{lb|en|trigonometry}} In a [[right triangle]], the [[ratio]] of the [[length]] of the [[side]] [[opposite]] the [[angle]] to the length of the side [[adjacent]] to the angle. Symbols: [[tan]], [[tg]]
-<!--This definition equivalent to the one above; it does not define a new sense of the word
-# {{context|mathematics|lang=en}} The ratio of the [[sine]] to the [[cosine]], in either the [[real]] or [[complex]] [[number]]s.-->
+# {{lb|en|math}} A function of an angle that gives the ratio of the [[sine]] to the [[cosine]], in either the [[real]] or [[complex]] [[number]]s. Symbols: {{m|mul|tan}}, {{m|mul|tg}}.
 # A [[topic]] nearly [[unrelated]] to the main topic, but having a point in [[common]] with it.
 #: ''I believe we went off onto a '''tangent''' when we started talking about monkeys on unicycles at his retirement party.''
 #* {{quote-book|year=1928|author=Lawrence R. Bourne
@@ -45,6 +43,7 @@ From {{etyl|la|en}} {{m|la|tangentem}}, the accusative of {{m|la|tangēns||touch
 * Chinese:
 *: Mandarin: {{t+|cmn|切線|sc=Hani}}, {{t+|cmn|切线|tr=qiēxiàn|sc=Hani}}
 * Czech: {{t|cs|tečna|f}}
+* Danish: {{t|da|tangent}}
 * Dutch: {{t|nl|raaklijn|f}}
 * Esperanto: {{t|eo|tanĝanto}}
 * Finnish: {{t+|fi|tangentti}}, {{t+|fi|sivuaja}}
@@ -82,6 +81,7 @@ From {{etyl|la|en}} {{m|la|tangentem}}, the accusative of {{m|la|tangēns||touch
 * Chinese:
 *: Mandarin: {{t+|cmn|正切|tr=zhèngqiē|sc=Hani}}
 * Czech: {{t+|cs|tangens|m}}
+* Danish: {{t|da|tangens}}
 * Dutch: {{t+|nl|tangens|m}}
 * Esperanto: {{t|eo|tangento}}
 * Finnish: {{t+|fi|tangentti}}
@@ -108,6 +108,7 @@ From {{etyl|la|en}} {{m|la|tangentem}}, the accusative of {{m|la|tangēns||touch
 
 {{trans-top|nearly unrelated topic}}
 * Catalan: {{t|ca|tangent|f}}
+* Danish: {{t|da|sidespor|n}}
 * Esperanto: {{t|eo|parentezaĵo}}
 * Finnish: {{t|fi|sivuraide}}, {{t|fi|harhapolku}}
 {{trans-mid}}
