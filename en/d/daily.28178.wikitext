@@ -184,12 +184,12 @@ From {{inh|en|enm|dayly}}, from {{inh|en|ang|dæġlīċ}}, from {{inh|en|gem-pro
 ====Translations====
 {{trans-top|a newspaper that is published every day}}
 * Afrikaans: {{t|af|dagblad}}
-* Armenian: {{t+|hy|օրաթերթ|sc=Armn}}
+* Armenian: {{t+|hy|օրաթերթ}}
 * Basque: {{t|eu|egunkari}}
 * Bulgarian: {{t+|bg|ежедневник|m}}
 * Catalan: {{t+|ca|diari|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|日報|sc=Hani}}, {{t+|cmn|日报|tr=rìbào|sc=Hani}}
+*: Mandarin: {{t+|cmn|日報}}, {{t+|cmn|日报|tr=rìbào}}
 * Dutch: {{t+|nl|dagblad|n}}
 * Faroese: {{t|fo|dagblað|n}}
 * Finnish: {{t+|fi|päivälehti}}
@@ -201,13 +201,13 @@ From {{inh|en|enm|dayly}}, from {{inh|en|ang|dæġlīċ}}, from {{inh|en|gem-pro
 * Hungarian: {{t+|hu|napilap}}
 * Irish: {{t|ga|páipéar laethúil|m}}
 * Italian: {{t+|it|quotidiano|m}}
-* Japanese: {{t|ja|日刊新聞|tr=にっかんしんぶん, nikkan shinbun|sc=Jpan}}, {{t|ja|日刊紙|tr=にっかんし, nikkanshi|sc=Jpan}}
+* Japanese: {{t|ja|日刊新聞|tr=にっかんしんぶん, nikkan shinbun}}, {{t|ja|日刊紙|tr=にっかんし, nikkanshi}}
+* Korean: {{t+|ko|일보}} ({{t+|ko|日報}})
+* Kurdish: {{t+|ku|rojname}}
 {{trans-mid}}
-* Norman: {{t|nrf|papi d'touos les jours|m}}, {{t|nrf|papi journalyi|m}}
-* Korean: {{t+|ko|일보|sc=Kore}} ({{t+|ko|日報|sc=Kore}})
-* Kurdish: {{t+|ku|rojname|sc=ku-Arab}}
 *: Sorani: {{t|ku|ڕۆژنامه‌}}
-* Macedonian: {{t|mk|дневен весник|m|sc=Cyrl}}
+* Macedonian: {{t|mk|дневен весник|m}}
+* Norman: {{t|nrf|papi d'touos les jours|m}} {{qualifier|Jersey}}, {{t|nrf|papi journalyi|m}} {{qualifier|Jersey}}
 * Norwegian:
 *: Bokmål: {{t|nb|dagsavis|m|f}}
 *: Nynorsk: {{t|nn|dagsavis|f}}
@@ -215,7 +215,9 @@ From {{inh|en|enm|dayly}}, from {{inh|en|ang|dæġlīċ}}, from {{inh|en|gem-pro
 * Portuguese: {{t+|pt|diário|m}}
 * Romanian: {{t+|ro|ziar|n}}
 * Russian: {{t|ru|ежедне́вная газе́та|f}}
-* Serbo-Croatian: {{t|sh|дневне новине|f-p}}, {{t|sh|dnevne novine|f-p}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|дневне новине|f-p}}
+*: Roman: {{t|sh|dnevne novine|f-p}}
 * Slovak: {{t|sk|denník|m}}
 * Spanish: {{t+|es|diario|m}}
 * Swedish: {{t+|sv|dagstidning|c}}
