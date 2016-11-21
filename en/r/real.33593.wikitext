@@ -332,7 +332,7 @@
 {{trans-see|mathematics: a real number|real number}}
 
 ===Etymology 2===
-From {{etyl|es|en}} {{m|es|real||royal}}, from {{etyl|la|en}} {{m|la|rēgālis||regal, royal}}. {{doublet|regal|lang=en}} and {{m|en|royal}}
+{{bor|en|es|real||royal}}, from {{der|en|la|rēgālis||regal, royal}}. {{doublet|regal|lang=en}} and {{m|en|royal}}
 
 ====Pronunciation====
 * {{a|UK}} {{enPR|rāäl'}}, {{IPA|/ɹeɪˈɑːl/|lang=en}}
@@ -431,6 +431,9 @@ From {{etyl|pt|en}} {{m|pt|real||royal}}, from {{etyl|la|en}} {{m|la|rēgālis||
 
 ==Catalan==
 
+===Etymology===
+{{bor|ca|LL.|reālis}}, from {{der|ca|la|rēs}}.
+
 ===Adjective===
 {{ca-adj|mf}}
 
@@ -511,7 +514,7 @@ From {{etyl|LL.|crh}} {{m|la|reālis||real, actual}}, from {{etyl|la|crh}} {{m|l
 * {{hyphenation|re|al|lang=pt}}
 
 ===Etymology 1===
-Borrowed from {{etyl|LL.|pt}} {{m|la|reālis||actual}}, from {{etyl|la|pt}} {{m|la|rēs||matter, thing}}, from {{etyl|ine-pro|pt}} {{m|ine-pro|*rēy-||thing; possession}}.
+{{bor|pt|LL.|reālis||actual}}, from {{der|pt|la|rēs||matter, thing}}, from {{der|pt|ine-pro|*rēy-||thing; possession}}.
 
 ====Adjective====
 {{pt-adj|rea|l}}
@@ -534,7 +537,7 @@ Borrowed from {{etyl|LL.|pt}} {{m|la|reālis||actual}}, from {{etyl|la|pt}} {{m|
 ===Etymology 2===
 [[File:Brasil_coin_1_real.jpg|thumb|x200px|[[moeda|Moeda]] brasileira de 1 '''real''']]
 
-From {{etyl|la|pt}} {{m|la|rēgālis||royal}}, from {{m|la|rēx||king}} + {{m|la|-alis}}, from {{etyl|ine-pro|pt}} {{m|ine-pro|*h₃rḗǵs||ruler, king}}.
+From {{inh|pt|la|rēgālis||royal}}, from {{m|la|rēx||king}} + {{m|la|-alis}}, from {{der|pt|ine-pro|*h₃rḗǵs||ruler, king}}.
 
 ====Adjective====
 {{pt-adj|rea|l}}
@@ -564,7 +567,7 @@ From {{etyl|la|pt}} {{m|la|rēgālis||royal}}, from {{m|la|rēx||king}} + {{m|la
 ==Romanian==
 
 ===Etymology===
-Borrowed from {{etyl|fr|ro}} {{m|fr|réel}}, from {{etyl|LL.|ro}} {{m|la|reālis||real, actual}}, from {{etyl|la|ro}} {{m|la|rēs||matter, thing}}
+{{bor|ro|fr|réel}}, {{bor|ro|LL.|reālis||real, actual|notext=1}}, from {{der|ro|la|rēs||matter, thing}}
 
 ===Pronunciation===
 * {{IPA|[reˈal]|lang=ro}}
@@ -591,7 +594,7 @@ Borrowed from {{etyl|fr|ro}} {{m|fr|réel}}, from {{etyl|LL.|ro}} {{m|la|reālis
 * {{rhymes|al|lang=es}}
 
 ===Etymology 1===
-Borrowed from {{etyl|LL.|es}} {{m|la|reālis||actual}} from {{etyl|la|es}} {{m|la|rēs||matter, thing}}.
+{{bor|es|LL.|reālis||actual}}, from {{der|es|la|rēs||matter, thing}}.
 
 ====Adjective====
 {{es-adj|pl=reales}}
@@ -611,7 +614,7 @@ Borrowed from {{etyl|LL.|es}} {{m|la|reālis||actual}} from {{etyl|la|es}} {{m|l
 * {{l|es|realismo}}
 
 ===Etymology 2===
-From {{etyl|la|es}} {{m|la|rēgālis||regal, royal}}.
+From {{inh|es|la|rēgālis||regal, royal}}, from {{m|la|rēx}}.
 
 ====Adjective====
 {{es-adj|pl=reales}}
@@ -623,6 +626,9 @@ From {{etyl|la|es}} {{m|la|rēgālis||regal, royal}}.
 
 =====Antonyms=====
 * {{l|es|plebeyo}}
+
+====Related terms====
+* {{l|es|rey}}
 
 ====Noun====
 {{es-noun|m|es}}
