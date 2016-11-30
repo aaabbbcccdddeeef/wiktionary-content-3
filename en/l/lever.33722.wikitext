@@ -15,7 +15,7 @@
 * {{homophones|leaver|Lever|lang=en}} {{qualifier|for the pronunciation {{IPAchar|/ˈliːvə(ɹ)/}}}}
 
 ===Etymology 1===
-From {{etyl|fro|en}} {{m|fro|leveor}}, {{m|fro|leveur||a lifter, lever (also {{etyl|fro|en}} and {{etyl|fr|en}} {{m|fr|levier}})}}, from {{etyl|la|en}} {{m|la|levator||a lifter}}, from {{m|la|levare}}, past part. {{m|la|levatus||to raise}}; see [[levant]]. Compare [[alleviate]], [[elevate]], [[leaven]].
+{{bor|en|fro|leveor}}, {{m|fro|leveur||a lifter, lever (also {{etyl|fro|en}} and {{etyl|fr|en}} {{m|fr|levier}})}}, from {{der|en|la|levator||a lifter}}, from {{m|la|levare}}, past part. {{m|la|levatus||to raise}}; see [[levant]]. Compare [[alleviate]], [[elevate]], [[leaven]].
 
 ====Noun====
 {{en-noun}}
@@ -143,7 +143,7 @@ From {{etyl|fro|en}} {{m|fro|leveor}}, {{m|fro|leveur||a lifter, lever (also {{e
 {{der-bottom}}
 
 ===Etymology 2===
-From {{etyl|enm|en}} comparative of {{m|en|leve||dear}} of Germanic origin (compare German {{m|de|lieb}}) or {{m|en|lief}}.
+From the {{inh|en|enm|-}} comparative of {{m|en|leve||dear}} of Germanic origin (compare German {{m|de|lieb}}) or {{m|en|lief}}.
 
 ====Adverb====
 {{en-adv|-}}
@@ -160,7 +160,7 @@ From {{etyl|enm|en}} comparative of {{m|en|leve||dear}} of Germanic origin (comp
 {{trans-see|rather}}
 
 ===Etymology 3===
-From {{etyl|fr|en}} {{m|fr|lever}}.
+{{bor|en|fr|lever}}.
 
 ====Noun====
 {{en-noun}}
@@ -190,7 +190,7 @@ From {{etyl|fr|en}} {{m|fr|lever}}.
 {{wikipedia|lang=da}}
 
 ===Etymology 1===
-From {{etyl|gmq-oda|da}} {{m|gmq-oda|liuær}}, from {{etyl|non|da}} {{m|non|lifr}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*librō}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*leyp-||to smudge, stick}}, from {{etyl|ine-pro|da}} {{m|ine-pro|*ley-||to be slimy, be sticky, glide}}.
+From {{inh|da|gmq-oda|liuær}}, from {{inh|da|non|lifr}}, from {{inh|da|gem-pro|*librō}}, from {{der|da|ine-pro|*leyp-||to smudge, stick}}, from {{m|ine-pro|*ley-||to be slimy, be sticky, glide}}.
 
 ====Pronunciation====
 * {{IPA|/leːvər/|[leʊ̯ˀɐ]|lang=da}}
@@ -269,7 +269,7 @@ From {{inh|nl|dum|levere}}, from {{inh|nl|odt|*livara}}, from {{inh|nl|gem-pro|*
 ==French==
 
 ===Etymology===
-From {{etyl|la|fr}} {{m|la|levāre}}, present active infinitive of {{m|la|lēvō||to elevate}}, from {{m|la|levis||light, not heavy}}
+From {{inh|fr|frm|lever}}, from {{inh|fr|fro|lever}}, from {{inh|fr|la|levāre}}, present active infinitive of {{m|la|lēvō||to elevate}}, from {{m|la|levis||light, not heavy}}
 
 ===Pronunciation===
 * {{audio|Fr-lever.ogg|audio|lang=fr}}
@@ -351,6 +351,9 @@ From {{etyl|la|fr}} {{m|la|levāre}}, present active infinitive of {{m|la|lēvō
 
 ==Middle English==
 
+===Etymology===
+Comparative of {{m|enm|leve||dear}} of Germanic origin (compare German {{m|de|lieb}}) or {{m|en|lief}}.
+
 ===Adverb===
 {{head|enm|adverb}}
 
@@ -363,7 +366,7 @@ From {{etyl|la|fr}} {{m|la|levāre}}, present active infinitive of {{m|la|lēvō
 ==Middle French==
 
 ===Etymology===
-{{etyl|fro|frm}} {{m|fro|lever}}.
+From {{inh|frm|fro|lever}}.
 
 ===Verb===
 {{head|frm|verb}}
@@ -388,7 +391,7 @@ From {{etyl|la|fr}} {{m|la|levāre}}, present active infinitive of {{m|la|lēvō
 {{rfp|lang=nb}}
 
 ===Etymology 1===
-From {{etyl|non|nb}} {{m|non|lifr}}, from {{etyl|gem-pro|nb}} {{m|gem-pro|*librō}}, from {{etyl|ine-pro|nb}} {{m|ine-pro|*leyp-||to smudge, stick}}, from {{etyl|ine-pro|nb}} {{m|ine-pro|*ley-||to be slimy, be sticky, glide}}.
+From {{inh|nb|non|lifr}}, from {{inh|nb|gem-pro|*librō}}, from {{der|nb|ine-pro|*leyp-||to smudge, stick}}, from {{m|ine-pro|*ley-||to be slimy, be sticky, glide}}.
 
 ====Noun====
 {{head|nb|noun|g=m|g2=f|definite singular|leveren|or|levra|indefinite plural|levere|or|levre|or|levrer|definite plural|leverne|or|levrene}}
@@ -415,7 +418,7 @@ From {{etyl|non|nb}} {{m|non|lifr}}, from {{etyl|gem-pro|nb}} {{m|gem-pro|*libr�
 {{wikipedia|lang=nn}}
 
 ===Etymology 1===
-From {{etyl|non|nn}} {{m|non|lifr}}, from {{etyl|gem-pro|nn}} {{m|gem-pro|*librō}}, from {{etyl|ine-pro|nn}} {{m|ine-pro|*leyp-||to smudge, stick}}, from {{etyl|ine-pro|nn}} {{m|ine-pro|*ley-||to be slimy, be sticky, glide}}.
+From {{inh|nn|non|lifr}}, from {{inh|nn|gem-pro|*librō}}, from {{der|nn|ine-pro|*leyp-||to smudge, stick}}, from {{m|ine-pro|*ley-||to be slimy, be sticky, glide}}.
 
 ====Noun====
 {{head|nn|noun|g=f|definite singular|levra|indefinite plural|levrar|or|levrer|definite plural|levrane|or|levrene}}
@@ -438,7 +441,7 @@ From {{etyl|non|nn}} {{m|non|lifr}}, from {{etyl|gem-pro|nn}} {{m|gem-pro|*libr�
 ==Old French==
 
 ===Etymology===
-{{etyl|la|fro}} {{m|la|lēvō}}
+From {{inh|fro|la|lēvāre}}, present active infinitive of {{m|la|lēvō}}.
 
 ===Verb===
 {{head|fro|verb}}
@@ -450,7 +453,8 @@ From {{etyl|non|nn}} {{m|non|lifr}}, from {{etyl|gem-pro|nn}} {{m|gem-pro|*libr�
 {{fro-conj-er|press=liev}}
 
 ====Descendants====
-* French: {{l|fr|lever}}
+* Middle French: {{l|frm|lever}}
+** French: {{l|fr|lever}}
 
 ----
 
@@ -478,7 +482,7 @@ From {{inh|gmq-osw|non|hleifr}}, from {{inh|gmq-osw|gem-pro|*hlaibaz}}.
 * {{audio|Sv-lever.ogg|audio|lang=sv}}
 
 ===Etymology 1===
-From {{etyl|non|sv}} {{m|non|lifr}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*librō}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*leyp-||to smudge, stick}}, from {{etyl|ine-pro|sv}} {{m|ine-pro|*ley-||to be slimy, be sticky, glide}}.
+From {{inh|sv|non|lifr}}, from {{inh|sv|gem-pro|*librō}}, from {{der|sv|ine-pro|*leyp-||to smudge, stick}}, from {{m|ine-pro|*ley-||to be slimy, be sticky, glide}}.
 
 ====Noun====
 {{sv-noun|c}}
