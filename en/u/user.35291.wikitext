@@ -27,22 +27,30 @@ From {{etyl|enm|en}} {{m|enm|user}}, equivalent to {{suffix|use|er|lang=en}}.
 ====Synonyms====
 * {{sense|one that unfairly takes advantage of or exploits}} {{l|en|parasite}}
 
-====Derived terms====
-{{der-top}}
+====Hypernyms====
+* {{l|en|person}}
+
+====Hyponyms====
 * {{l|en|magic user}}
 * {{l|en|misuser}}
-* {{l|en|UGC}}
-* {{l|en|user-friendly}}
-* {{l|en|user-generated content}}
-* {{l|en|user guide}}
-{{der-mid}}
-* {{l|en|user interface}}
-* {{l|en|user's guide}}
-* {{l|en|user manual}}
-* {{l|en|user's manual}}
-* {{l|en|user satisfaction}}
-* {{l|en|user-unfriendly}}
-{{der-bottom}}
+
+====Derived terms====
+{{der4
+| {{l|en|misuser}}
+| {{l|en|user-friendly}}
+| {{l|en|user-generated content}}
+| {{l|en|user-unfriendly}}
+}}
+
+====Related terms====
+{{rel4
+| {{l|en|user guide}}
+| {{l|en|user interface}}
+| {{l|en|user's guide}}
+| {{l|en|user manual}}
+| {{l|en|user's manual}}
+| {{l|en|user satisfaction}}
+}}
 
 ====Translations====
 {{trans-top|one who uses something, a consumer}}
