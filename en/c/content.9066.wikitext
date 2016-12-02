@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology 1===
-From {{etyl|la|en}} {{m|la|contentus||satisfied, content}}, past participle of {{m|la|continere||to hold in, contain}}; see [[contain]].
+{{bor|en|la|contentus||satisfied, content}}, past participle of {{m|la|continere||to hold in, contain}}; see [[contain]].
 
 ====Pronunciation====
 * {{a|RP}} {{IPA|/ˈkɒn.tɛnt/|lang=en}}
@@ -120,7 +120,7 @@ From {{etyl|la|en}} {{m|la|contentus||satisfied, content}}, past participle of {
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{etyl|enm|en}}, from {{etyl|fro|en}} {{m|fro|content}}, from {{etyl|la|en}} {{m|la|contentus||satisfied, content}}, past participle of {{m|la|continere||to hold in, contain}}; see [[contain]].
+From {{inh|en|enm|-}}, a {{bor|en|fro|content|nocap=1}}, from {{der|en|la|contentus||satisfied, content}}, past participle of {{m|la|continere||to hold in, contain}}; see [[contain]].
 
 ====Pronunciation====
 * {{enPR|kəntĕnt'}}, {{IPA|/kənˈtɛnt/|lang=en}}
@@ -173,7 +173,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{m|fro|content}}, from {{etyl|la|en}
 {{trans-bottom}}
 
 ===Etymology 3===
-From {{etyl|fro|en}} {{m|fro|contente||content, contentment}}, from {{m|fro|contenter}}; see content as a verb.
+{{bor|en|fro|contente||content, contentment}}, from {{m|fro|contenter}}; see content as a verb.
 
 ====Noun====
 {{en-noun}}
@@ -241,7 +241,7 @@ From {{etyl|fro|en}} {{m|fro|contenter}}, from {{etyl|ML.|en}} {{m|la|contentare
 ==French==
 
 ===Etymology===
-Borrowed from {{etyl|la|fr}} {{m|la|contentus}}.
+From {{inh|fr|frm|content}}, from {{inh|fr|fro|-}}, a {{bor|fr|la|contentus|nocap=1}}.
 
 ===Pronunciation===
 * {{IPA|/kɔ̃.tɑ̃/|lang=fr}}
@@ -266,11 +266,16 @@ Borrowed from {{etyl|la|fr}} {{m|la|contentus}}.
 
 ==Middle French==
 
+===Etymology===
+From {{inh|fr|fro|content}}, a {{bor|fr|la|contentus|nocap=1}}.
+
 ===Adjective===
 {{frm-adj|contente|contens|contentes}}
 
 # [[happy]]; [[satisfied]]; {{l|en|content}}
 
+====Descendants====
+* French: {{l|fr|content}}
 ----
 
 ==Norman==
@@ -279,7 +284,7 @@ Borrowed from {{etyl|la|fr}} {{m|la|contentus}}.
 * {{l|nrf|caontent}} {{qualifier|Guernsey}}
 
 ===Etymology===
-From {{der|nrf|la|contentus||having been held together, contained}}, from {{m|la|contineō}}, {{m|la|continēre||hold or keep together, surround, contain}}.
+From {{inh|nrf|fro|-}}, a {{bor|nrf|la|contentus||having been held together, contained|nocap=1}}, from {{m|la|contineō}}, {{m|la|continēre||hold or keep together, surround, contain}}.
 
 ===Adjective===
 {{nrf-adj}}
