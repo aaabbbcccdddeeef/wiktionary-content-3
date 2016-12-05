@@ -74,11 +74,11 @@ The name appears in a wide range of forms in Middle English, including {{m|enm|R
 * Azeri: {{t+|az|Roma}}
 * Bashkir: {{t|ba|Рим|sc=Cyrl}}
 * Basque: {{t+|eu|Erroma}}
-* Belarusian: {{t|be|Рым|m|tr=Rym}}
+* Belarusian: {{t|be|Рым|m}}
 * Bengali: {{t|bn|রোম|sc=Beng}}
 * Breton: {{t|br|Roma}}
-* Bulgarian: {{t|bg|Рим|m|tr=Rim}}
-* Burmese: {{t+|my|ရောမ|tr=jo: ma.|sc=Mymr}}
+* Bulgarian: {{t|bg|Рим|m}}
+* Burmese: {{t+|my|ရောမ|sc=Mymr}}
 * Catalan: {{t|ca|Roma|f}}
 * Chechen: {{t|ce|Рим|sc=Cyrl}}
 * Chinese:
@@ -99,7 +99,7 @@ The name appears in a wide range of forms in Middle English, including {{m|enm|R
 *: Ancient: {{t|grc|Ῥώμη|f}}
 * Gujarati: {{t|gu|રોમ|sc=Gujr}}
 * Hebrew: {{t+|he|רוֹמָא|f|tr=róma}}
-* Hindi: {{t+|hi|रोम|tr=rom}}
+* Hindi: {{t+|hi|रोम}}
 * Hungarian: {{t+|hu|Róma}}
 * Icelandic: {{t|is|Róm|f}}, {{t|is|Rómaborg|f}}
 * Ido: {{t+|io|Roma}}
@@ -111,31 +111,32 @@ The name appears in a wide range of forms in Middle English, including {{m|enm|R
 * Kannada: {{t|kn|ರೋಮ್|sc=Knda}}
 * Kazakh: {{t|kk|Рим|tr=Rim|sc=Cyrl}}
 * Khmer: {{t+|km|រ៉ូម|tr=room|sc=Khmr}}
-* Korean: {{t+|ko|로마|tr=Roma|sc=Hang}}
+* Korean: {{t+|ko|^로마|sc=Hang}}
 * Kurdish: {{t+|ku|Roma}}
 * Kyrgyz: {{t|ky|Рим|sc=Cyrl}}
 {{trans-mid}}
-* Lao: {{t|lo|ໂລມ|tr=loom|sc=Laoo}}
+* Lao: {{t|lo|ໂລມ|sc=Laoo}}
 * Latin: {{t+|la|Rōma|f}}
 * Latvian: {{t+|lv|Roma|f}}
 * Lithuanian: {{t+|lt|Roma|f}}
-* Macedonian: {{t|mk|Рим|m|tr=Rim}}
+* Macedonian: {{t|mk|Рим|m}}
 * Malay: {{t|ms|Rom}}
 * Malayalam: {{t|ml|റോം|sc=Mlym}}
 * Maltese: {{t|mt|Ruma}}
 * Manx: {{t|gv|Raue|alt=Yn Raue|f}}
 * Maori: {{t|mi|Rōma}}
-* Marathi: {{t|mr|रोम|n|tr=rom|sc=Deva}}
+* Marathi: {{t|mr|रोम|n|sc=Deva}}
 * Mongolian: {{t|mn|Ром|sc=Cyrl}}
 * Navajo: {{t|nv|Róóm}}
 * Nepali: {{t|ne|रोम|sc=Deva}}
 * Norwegian: {{t+|no|Roma}}
-* Old Church Slavonic: {{t|cu|Римъ|sc=Cyrs}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|Римъ|sc=Cyrs}}
 * Old Norse: {{t|non|Róm|n}}, {{t|non|Róma|f}}, {{t|non|Rómaborg|f}}
 * Old Portuguese: {{t|roa-opt|Roma}}
 * Old Provençal: {{t|pro|Roma}}
 * Ossetian: {{t|os|Ром}}
-* Persian: {{t+|fa|رم|tr=Rom|sc=fa-Arab}}
+* Persian: {{t+|fa|رم|tr=rom|sc=fa-Arab}}
 * Polish: {{t+|pl|Rzym|m}}
 * Portuguese: {{t+|pt|Roma|f}}
 * Punjabi: {{t|pa|ਰੋਮ|sc=Guru}}
@@ -159,17 +160,17 @@ The name appears in a wide range of forms in Middle English, including {{m|enm|R
 * Tamil: {{t|ta|உரோம்|sc=Taml}}
 * Tatar: {{t|tt|Рим}}
 * Telugu: {{t|te|రోమ్|sc=Telu}}
-* Thai: {{t+|th|โรม|tr=rohm}}
+* Thai: {{t+|th|โรม}}
 * Turkish: {{t+|tr|Roma}}
 * Turkmen: {{t|tk|Rim}}
 * Ukrainian: {{t|uk|Рим|m|tr=Rym}}
 * Urdu: {{t|ur|روم|tr=rom|sc=ur-Arab}}
 * Uzbek: {{t|uz|Rim}}
-* Vietnamese: {{t|vi|Roma}}, {{t+|vi|Rôma}}, {{t|vi|La Mã}} {{qualifier|dated}}
+* Vietnamese: {{t+|vi|Rôma}}, {{t|vi|La Mã}} {{qualifier|dated}}
 * Volapük: {{t|vo|Roma}}, {{qualifier|seven hills}} {{t|vo|Vellubelazif}}
 * Welsh: {{t|cy|Rhufain}}
 * West Frisian: {{t|fy|Rome}}
-* Yiddish: {{t|yi|רוים}}
+* Yiddish: {{t|yi|רוים|n}}
 {{trans-bottom}}
 
 {{trans-top|empire}}
@@ -181,14 +182,14 @@ The name appears in a wide range of forms in Middle English, including {{m|enm|R
 * Esperanto: {{t|eo|Romio}}
 * Greek: {{t|el|[[ρωμαϊκή]] [[αυτοκρατορία]]|f}}
 * Hebrew: {{t|he|רוֹמִי|f|tr=rómi}}
-* Japanese: [[ローマ]][[帝国]] (rōma teikoku)
+* Japanese: {{t|ja|[[ローマ]][[帝国|tr=Rōma teikoku}}
 * Khmer: {{t+|km|រ៉ូម|tr=room|sc=Khmr}}
 {{trans-mid}}
-* Macedonian: {{t|mk|Рим|m|tr=Rim}}
+* Macedonian: {{t|mk|Рим|m}}
 * Maltese: {{t|mt|Ruman}}
-* Marathi: {{t|mr|रोम|n|tr=rom|sc=Deva}}
+* Marathi: {{t|mr|रोम|n|sc=Deva}}
 * Persian: {{t+|fa|روم|tr=rum|sc=fa-Arab}}
-*: Middle Persian: {{t|pal|𐭧𐭫𐭥𐭬|tr=Hrōm|sc=Phli}}
+*: Middle Persian: {{t|pal|𐭧𐭫𐭥𐭬|tr=hrōm|sc=Phli}}
 * Portuguese: {{t+|pt|Roma|f}}
 * Russian: {{t+|ru|Рим|m}}
 * Vietnamese: {{t|vi|La Mã}}
