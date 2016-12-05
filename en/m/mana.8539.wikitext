@@ -11,7 +11,7 @@
  [[Category:English 2-syllable words]]
 
 ===Etymology 1===
-From {{etyl|mi|en}} {{m|mi|mana}}, ultimately from Proto-Polynesian {{m|poz-pol-pro|*mana}}.
+{{bor|en|mi|mana}}, ultimately from {{der|en|poz-pol-pro|*mana}}.
 
 ====Noun====
 {{en-noun|-}}
@@ -53,10 +53,10 @@ From {{etyl|mi|en}} {{m|mi|mana}}, ultimately from Proto-Polynesian {{m|poz-pol-
 ===Interjection===
 {{head|ca|interjection}}
 
-# [[sorry]], [[pardon]] (I did not hear you)
+# [[sorry]], [[pardon]] {{gloss|I did not hear you}}
 
 ====Synonyms====
-* {{l|ca|perdó}}?
+* {{l|ca|perdó?}}
 
 ===Verb===
 {{head|ca|verb form}}
@@ -82,8 +82,8 @@ From {{etyl|mi|en}} {{m|mi|mana}}, ultimately from Proto-Polynesian {{m|poz-pol-
 * {{sense|death}} {{l|fi|kuolema}}, {{l|fi|kuolo}}, {{l|fi|tuoni}}
 
 =====Derived terms=====
-* nouns: [[manala]]
-* verbs: [[manata]], [[mennä manalle]], [[mennä manan majoille]]
+* nouns: {{l|fi|manala]]
+* verbs: {{l|fi|manata}}, {{l|fi|mennä manalle}}, {{l|fi|mennä manan majoille}}
 
 ===Etymology 2===
 
@@ -106,8 +106,7 @@ From {{etyl|mi|en}} {{m|mi|mana}}, ultimately from Proto-Polynesian {{m|poz-pol-
 {{head|hts|noun}}
 
 # [[meat]]
-#: '''manako''' unîko
-#:: tasty '''meat'''
+#: {{ux|hts|'''manako''' unîko|tasty '''meat'''}}
 
 [[Category:hts:Meats]]
 
@@ -116,7 +115,7 @@ From {{etyl|mi|en}} {{m|mi|mana}}, ultimately from Proto-Polynesian {{m|poz-pol-
 ==Hawaiian==
 
 ===Etymology===
-From {{etyl|poz-pol-pro|haw}} {{m|poz-pol-pro|*mana}}
+From {{inh|haw|poz-pol-pro|*mana}}.
 
 ===Noun===
 {{head|haw|noun}}
@@ -136,13 +135,13 @@ From {{etyl|poz-pol-pro|haw}} {{m|poz-pol-pro|*mana}}
 ====Verb====
 {{is-verb-weak|manaði|manað}}
 
-# to [[dare]] (someone to do something)
+# to [[dare]] {{qualifier|someone to do something}}
 
 =====Conjugation=====
 {{is-conj-w4|m|a|n}}
 
 ===Etymology 2===
-From {{etyl|en|is}} {{m|en|mana}}, from a {{etyl|poz-pol|is}} language.
+{{bor|is|en|mana}}, from a {{der|is|poz-pol}} language.
 
 ====Noun====
 {{is-noun|n|mana|-}}
@@ -171,17 +170,20 @@ From {{etyl|en|is}} {{m|en|mana}}, from a {{etyl|poz-pol|is}} language.
 ==Irish==
 
 ===Etymology===
+{{rfe|lang=ga}}
 
 ===Noun===
-{{ga-noun|m|-|-}}
+{{ga-noun|m|~|~í}}
 
+# [[portent]], [[sign]]
+# [[attitude]], [[outlook]]
 # [[motto]]
 
 ====Declension====
 {{ga-decl-m4|m|ana|anaí}}
 
 ===Mutation===
-{{ga-mut-cons|m|ana}}
+{{ga-mut}}
 
 ===References===
 * {{R:ga:Ó Dónaill}}
@@ -247,7 +249,7 @@ Only comes in the following form {{m|ms|di mana||at, in where}}, {{m|ms|ke mana|
 ==Maori==
 
 ===Etymology===
-From {{etyl|poz-pol-pro|mi}} {{m|poz-pol-pro|*mana}}
+From {{inh|mi|poz-pol-pro|*mana}}.
 
 ===Noun===
 {{mi-noun}}
@@ -261,7 +263,7 @@ From {{etyl|poz-pol-pro|mi}} {{m|poz-pol-pro|*mana}}
 ==Neapolitan==
 
 ===Etymology===
-Ultimately from {{etyl|la|nap}} {{m|la|manus}}.
+Ultimately from {{der|nap|la|manus}}.
 
 ===Noun===
 {{head|nap|noun|g=f}}
@@ -304,7 +306,7 @@ Ultimately from {{etyl|la|nap}} {{m|la|manus}}.
 ==Rapa Nui==
 
 ===Etymology===
-From {{etyl|poz-pol-pro|rap}} {{m|poz-pol-pro|*mana}}
+From {{inh|rap|poz-pol-pro|*mana}}.
 
 ===Noun===
 {{head|rap|noun}}
@@ -343,7 +345,7 @@ From {{inh|sh|sla-pro|*mana}}.
 * verbs: [[manisati]]
 
 ===Etymology 2===
-From {{etyl|la|sh}} {{m|la|manna}}, from {{etyl|grc|sh}} {{m|grc|μάννα}}, from {{etyl|he|sh}} {{m|he|מן|tr=mān||'manna}}.
+From {{der|sh|la|manna}}, from {{der|sh|grc|μάννα}}, from {{der|sh|he|מן|tr=mān|t='manna}}.
 
 ====Pronunciation====
 * {{IPA|/mâna/|lang=sh}}
@@ -365,7 +367,7 @@ From {{etyl|la|sh}} {{m|la|manna}}, from {{etyl|grc|sh}} {{m|grc|μάννα}}, f
 }}
 
 ===Etymology 3===
-From {{etyl|en|sh}} {{m|en|mana}}, itself from a [[Polynesian]] source.
+{{bor|sh|en|mana}}, itself from a {{der|sh|poz-pol}} source.
 
 ====Pronunciation====
 * {{IPA|/mâna/|lang=sh}}
@@ -437,7 +439,7 @@ From {{etyl|en|sh}} {{m|en|mana}}, itself from a [[Polynesian]] source.
 ==Tahitian==
 
 ===Etymology===
-From {{etyl|poz-pol-pro|ty}} {{m|poz-pol-pro|*mana}}
+From {{inh|ty|poz-pol-pro|*mana}}.
 
 ===Noun===
 {{head|ty|noun}}
@@ -450,7 +452,7 @@ From {{etyl|poz-pol-pro|ty}} {{m|poz-pol-pro|*mana}}
 ==Tongan==
 
 ===Etymology===
-From {{etyl|poz-pol-pro|to}} {{m|poz-pol-pro|*mana}}
+From {{inh|to|poz-pol-pro|*mana}}.
 
 ===Noun===
 {{head|to|noun}}
@@ -462,7 +464,7 @@ From {{etyl|poz-pol-pro|to}} {{m|poz-pol-pro|*mana}}
 ==Turkish==
 
 ===Etymology===
-From the {{etyl|ar|tr}} {{m|ar|مَعْنًى}} (plural: {{m|ar|مَعَانٍ}}).
+From {{der|tr|ar|مَعْنًى}} (plural: {{m|ar|مَعَانٍ}}).
 
 ===Noun===
 {{tr-noun|head=mânâ|yı|lar}}
