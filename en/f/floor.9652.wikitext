@@ -47,6 +47,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|flōr||floor, pavement, groun
 # {{lb|en|mathematics}} The largest [[integer]] less than or equal to a given number.
 #: {{ux|en|The '''floor''' of 4.5 is 4.}}
 # {{lb|en|gymnastics}} An [[event]] performed on a floor-like carpeted surface.
+# {{lb|en|gymnastics}} A floor-like carpeted surface for performing gymnastic movements.
 # {{lb|en|finance}} A lower limit on the interest rate payable on an otherwise variable-rate loan, used by lenders to defend against falls in interest rates. Opposite of a [[cap]].
 # A [[dance floor]].
 #* '''1983''', "[[w:Maniac (song)|Maniac]]", Michael Sembello and Dennis Matkosky:
@@ -66,7 +67,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|flōr||floor, pavement, groun
 * {{l|en|mop the floor with someone}}
 
 ====Translations====
-{{trans-top|lower part of a room}}
+{{trans-top|bottom part of a room}}
 * Albanian: {{t+|sq|dysheme|f}}
 * Arabic: {{t+|ar|أَرْضِيَّة|}}, {{t+|ar|أَرْض|f}}
 * Armenian: {{t+|hy|հատակ|sc=Armn}}
@@ -163,6 +164,11 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|flōr||floor, pavement, groun
 * Yup'ik: {{t|esu|nateq}}
 {{trans-bottom}}
 
+{{trans-top|surface of the Earth, as opposed to the sky or water or underground}}
+* Finnish: {{t|fi|maanpinta}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|lower inside surface of a hollow space}}
 * Bulgarian: {{t+|bg|под|m|sc=Cyrl}}
 * Finnish: {{t+|fi|pohja}}
@@ -189,7 +195,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|flōr||floor, pavement, groun
 * Swahili: {{t+|sw|sakafu}}
 {{trans-bottom}}
 
-{{trans-see|storey}}
+{{trans-see|storey of a building|storey}}
 
 {{trans-top|part of the house assigned to the members of a legislative assembly}}
 * Finnish: {{t+|fi|sali}}
@@ -200,7 +206,7 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|flōr||floor, pavement, groun
 * Swahili: {{t+|sw|sakafu}}
 {{trans-bottom}}
 
-{{trans-top|right to speak in a legislative assembly}}
+{{trans-top|right to speak}}
 * Bulgarian: {{t+|bg|ду́ма|f|sc=Cyrl}}
 * Finnish: {{t+|fi|puheenvuoro}}
 * French: {{t+|fr|parole}}
@@ -210,15 +216,16 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|flōr||floor, pavement, groun
 * Swahili: {{t+|sw|sakafu}}
 {{trans-bottom}}
 
-{{trans-top|near-horizontal part of a vessel}}
+{{trans-top|nautical: near-horizontal part of the bottom of a vessel}}
 * Finnish: {{t+|fi|pohja}}
 {{trans-mid}}
 * Swahili: {{t+|sw|sakafu}}
 {{trans-bottom}}
 
-{{trans-top|rock underlying a stratified or nearly horizontal deposit}}
-* Swahili: {{t+|sw|sakafu}}
+{{trans-top|mining: rock underlying a stratified or nearly horizontal deposit}}
+* Finnish: {{t|fi|alapohja}}
 {{trans-mid}}
+* Swahili: {{t+|sw|sakafu}}
 {{trans-bottom}}
 
 {{trans-top|horizontal, flat ore body}}
@@ -226,8 +233,9 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|flōr||floor, pavement, groun
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|(mathematics) the largest integer less than or equal to a given number}}
+{{trans-top|mathematics: the largest integer less than or equal to a given number}}
 * Czech: {{t|cs|dolní celá část}}
+* Finnish: {{t|fi|kokonaislukuosa}}
 * French: {{t+|fr|partie entière|f}}
 {{trans-mid}}
 * Japanese: {{t|ja|床関数|tr=yuka kansū|sc=Jpan}}
@@ -236,6 +244,23 @@ From {{etyl|enm|en}}, from {{etyl|ang|en}} {{m|ang|flōr||floor, pavement, groun
 
 {{trans-top|gymnastics event}}
 * Finnish: {{t+|fi|permanto}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|gymnastics: floor-like carpeted surface}}
+* Finnish: {{t+|fi|permanto}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|finance: lower limit on the interest rate payable on an otherwise variable-rate loan}}
+* Finnish: {{t+|fi|lattia}}, {{t|fi|korkolattia}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|dance floor}}
+
+{{trans-top|area in which business is conducted at a convention or exhibition}}
+* Finnish: {{t+|fi|lattia}}
 {{trans-mid}}
 {{trans-bottom}}
 
