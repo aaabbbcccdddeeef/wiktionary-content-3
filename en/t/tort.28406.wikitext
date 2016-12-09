@@ -18,7 +18,7 @@ Dialectal variation of {{l|en|tart}}.
 # [[tart|Tart]], [[sharp]].
 
 ===Etymology 2===
-From {{der|en|fro|tort}}, from {{der|en|la|tortum}}, from {{m|la|tortus||[[twisted]]}}.
+{{bor|en|fro|tort}}, from {{der|en|la|tortum}}, from {{m|la|tortus||[[twisted]]}}.
 
 ====Noun====
 {{en-noun}}
@@ -80,19 +80,21 @@ From {{der|en|fro|tort}}, from {{der|en|la|tortum}}, from {{m|la|tortus||[[twist
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{m|la|tortus}}.
+From {{inh|ca|pro|-}}, from {{inh|ca|la|tortus}}.
 
 ===Adjective===
 {{ca-adj}}
 
 # [[bent]], [[twisted]], [[crooked]], [[askew]], [[wonky]]
 
+====Related terms====
+* {{l|ca|tòrcer}}
 ----
 
 ==French==
 
 ===Etymology===
-From {{etyl|fro|fr}} {{m|fro|tort}}, from {{etyl|la|fr}} ''[[tortum]]'', substantive use of {{m|la|tortus}}, the past participle of {{m|la|torqueō||twist, turn}}.
+From {{inh|fr|fro|tort}}, from {{inh|fr|la|tortum}}, substantive use of {{m|la|tortus}}, the past participle of {{m|la|torqueō||twist, turn}}.
 
 ===Pronunciation===
 * {{audio|Fr-tort.ogg|audio|lang=fr}}
@@ -114,6 +116,10 @@ From {{etyl|fro|fr}} {{m|fro|tort}}, from {{etyl|la|fr}} ''[[tortum]]'', substan
 * {{l|fr|avoir tort}}
 * {{l|fr|à tort ou à raison}}, "right or wrong".
 
+====Related terms====
+* {{l|fr|tordre}}
+* {{l|fr|torture}}
+
 ===Anagrams===
 * {{l|fr|trot}}
 
@@ -125,7 +131,7 @@ From {{etyl|fro|fr}} {{m|fro|tort}}, from {{etyl|la|fr}} ''[[tortum]]'', substan
 ==Norwegian Bokmål==
 
 ===Etymology===
-From {{etyl|fr|nb}}, from {{etyl|la|nb}} {{m|la|torquere}}.
+{{bor|nb|fr|tort}}, from {{der|nb|la|tortum}}.
 
 ===Pronunciation===
 * {{IPA|/tuʈ/|lang=nb}}
@@ -150,7 +156,7 @@ Only used in the legal phrase {{m|nb|tort og svie}}.
 ==Old French==
 
 ===Etymology===
-From {{etyl|la|fro}} {{m|la|tortum}}, substantive use of {{m|la|tortus}}, the past participle of {{m|la|torqueō||twist, turn}}.
+From {{inh|fro|la|tortum}}, substantive use of {{m|la|tortus}}, the past participle of {{m|la|torqueō||twist, turn}}.
 
 ===Noun===
 {{fro-noun|m}}
@@ -167,7 +173,7 @@ From {{etyl|la|fro}} {{m|la|tortum}}, substantive use of {{m|la|tortus}}, the pa
 ==Old Provençal==
 
 ===Etymology===
-From {{etyl|la|pro}} {{m|la|tortum}}, substantive use of {{m|la|tortus}}, the past participle of {{m|la|torqueō||twist, turn}}.
+From {{inh|pro|la|tortum}}, substantive use of {{m|la|tortus}}, the past participle of {{m|la|torqueō||twist, turn}}.
 
 ===Noun===
 {{pro-noun|m|tortz|tortz}}
@@ -205,7 +211,7 @@ From {{etyl|la|pro}} {{m|la|tortum}}, substantive use of {{m|la|tortus}}, the pa
 ==Romanian==
 
 ===Etymology 1===
-From {{etyl|la|ro}} {{m|la|tortus}}.
+From {{inh|ro|la|tortus}}.
 
 ====Noun====
 {{ro-noun|n|torturi}}
