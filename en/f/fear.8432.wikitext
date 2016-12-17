@@ -337,14 +337,14 @@ The verb is from {{inh|en|enm|feren}}, from {{inh|en|ang|fǣran||to frighten, ra
 * Armenian: {{t+|hy|վախենալ}}, {{t+|hy|երկյուղել}}, {{t+|hy|երկնչել}}
 * Asturian: {{t|ast|temer}}, {{t|ast|atarrecer}}
 * Azeri: {{t+|az|qorxmaq}}
-* Belarusian: {{t|be|бая́цца}}
-* Bengali: {{t|bn|ভয় করা|tr=bhôe kôra}}
-* Bulgarian: {{t|bg|страхувам се}}, {{t|bg|боя се}}
+* Belarusian: {{t|be|бая́цца|impf}}
+* Bengali: {{t|bn|ভয় করা}}
+* Bulgarian: {{t|bg|страхувам се|impf}}, {{t|bg|боя се|impf}}
 * Burmese: {{t+|my|ကြောက်}}, {{t+|my|ကြောက်}}
 * Catalan: {{t+|ca|témer}}, {{t|ca|tenir por de}}
 * Chinese:
 *: Mandarin: {{t+|cmn|害怕|tr=hàipà}}, {{t+|cmn|怕|tr=pà}}
-* Czech: {{t|cs|bát|alt=bát se}}
+* Czech: {{t|cs|bát|impf|alt=bát se}}
 * Danish: {{t+|da|frygte}}, {{t|da|være bange for}}
 * Dutch: {{t+|nl|vrezen}}
 * Esperanto: {{t+|eo|timi}}
@@ -379,7 +379,7 @@ The verb is from {{inh|en|enm|feren}}, from {{inh|en|ang|fǣran||to frighten, ra
 * Latin: {{t|la|timeo}}, {{t|la|paveo}}, {{t|la|veror}}, {{t+|la|vereor}}, {{t|la|formido}}, {{t|la|metuo}}
 * Latvian: {{t+|lv|baidīties}}, {{t|lv|bīties}}, {{t|lv|bažīties}}, {{t|lv|baiļoties}}
 * Lithuanian: {{t|lt|bijoti}}, {{t|lt|baimintis}}, {{t|lt|būgštauti}}, {{t|lt|nuogąstauti}}
-* Macedonian: {{t|mk|страши се}}
+* Macedonian: {{t|mk|страши се|impf}}
 * Malay: {{t|ms|takut}}
 * Malayalam: {{t+|ml|ഭയം}}, {{t+|ml|പേടി}}
 * Maori: {{t|mi|uruwehi}}
@@ -394,17 +394,17 @@ The verb is from {{inh|en|enm|feren}}, from {{inh|en|ang|fǣran||to frighten, ra
 * Rapa Nui: {{t|rap|mataku}}
 * Romanian: {{t+|ro|teme}}
 * Romansch: {{t|rm|temair}}, {{t|rm|temer}}, {{t|rm|tmair}}
-* Russian: {{t+|ru|боя́ться}} {{qualifier|+ genitive}}, {{t+|ru|страши́ться}} {{qualifier|+ genitive}}, {{t+|ru|опаса́ться}} {{qualifier|+ genitive}}
+* Russian: {{t+|ru|боя́ться|impf}} {{qualifier|+ genitive}}, {{t+|ru|страши́ться|impf}} {{qualifier|+ genitive}}, {{t+|ru|опаса́ться|impf}} {{qualifier|+ genitive}}
 * Sanskrit: {{t+|sa|बिभेति}}, {{t+|sa|त्रसति}}
 * Santali: {{t|sat|ᱵᱳᱨᱳ|tr=boro}}
 * Sardinian: {{t|sc|tímere}}, {{t|sc|timi}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|бојати|alt=бојати се}}
-*: Roman: {{t+|sh|bojati|alt=bojati se}}
-* Slovak: {{t|sk|báť sa}}
-* Slovene: {{t|sl|bati|alt=bati se}}
+*: Cyrillic: {{t|sh|бојати|impf|alt=бојати се}}
+*: Roman: {{t+|sh|bojati|impf|alt=bojati se}}
+* Slovak: {{t|sk|báť sa|impf}}
+* Slovene: {{t|sl|bati|impf|alt=bati se}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb|bójaś|alt=bójaś se}}
+*: Lower Sorbian: {{t|dsb|bójaś|impf|alt=bójaś se}}
 * Spanish: {{t+|es|temer}}, {{t|es|tener miedo de}}
 * Sundanese: {{t|su|sebér}}
 * Swedish: {{t+|sv|frukta}}, {{t+|sv|rädas}}, {{gloss|of something being the case or coming to pass}} {{t+|sv|befara}}
@@ -415,7 +415,7 @@ The verb is from {{inh|en|enm|feren}}, from {{inh|en|ang|fǣran||to frighten, ra
 * Tupinambá: {{t-check|tpn|...r[[esé]] [[sykyîé]]}} {{attention|tpn|2=was "...r[[esé]] [[sykyîé]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:Kephir/gadgets/xte#Translation_fixing]]}}
 * Turkish: {{t+|tr|korkmak}}, {{t+|tr|ürkmek}}
 * Turkmen: {{t|tk|gorkmak}}
-* Ukrainian: {{t+|uk|боя́тися}}
+* Ukrainian: {{t+|uk|боя́тися|impf}}
 * Urdu: {{t|ur|ڈرنا|tr=ḍarnā}}
 * Uzbek: {{t+|uz|qoʻrqmoq}}, {{t+|uz|hayiqmoq}}
 * Venetian: {{t|vec|temer}}
@@ -431,7 +431,7 @@ The verb is from {{inh|en|enm|feren}}, from {{inh|en|ang|fǣran||to frighten, ra
 * German: {{t+|de|fürchten}}
 * Haitian Creole: {{t|ht|pè}}
 * Hungarian: {{t+|hu|fél}}
-* Japanese: {{t+|ja|畏れる|tr=osoreru}}
+* Japanese: {{t+|ja|畏れる|tr=おそれる, osoreru}}
 {{trans-mid}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|tirsîn}}
