@@ -1,6 +1,5 @@
 {{also|Domain}}
 ==English==
-{{wikipedia|lang=en}}
 
 ===Etymology===
 From {{inh|en|enm|demeine}}, {{m|enm|demain||rule}}, {{bor|en|fro|demeine|notext=1}}, {{m|fro|demaine}}, {{m|fro|demeigne}}, {{m|fro|domaine||power}}, ({{cog|fr|domaine}}), from {{der|en|la|dominium||property, right of ownership}}, from {{m|la|dominus||master, proprietor, owner}}. See [[dame]], and confer [[demain]], [[danger]], [[dungeon]]. See also [[demesne]].
@@ -31,10 +30,10 @@ From {{inh|en|enm|demeine}}, {{m|enm|demain||rule}}, {{bor|en|fro|demeine|notext
 # {{lb|en|mathematics|set theory}} The set of [[input]] ([[argument]]) values for which a [[function]] is defined.
 # {{lb|en|mathematics}} A {{l|en|ring}} with no [[zero divisor]]s; that is, in which no {{l|en|product}} of nonzero elements is zero.
 # {{lb|en|mathematics|topology|analysis}} An open and connected set in some [[topology]]. For example, the interval (0,1) as a subset of the [[real number]]s.
-# {{lb|en|computing|Internet}} Any [[Domain Name System|DNS]] [[domain name]], particularly one which has been [[delegate|delegated]] and has become representative of the delegated domain name and its [[subdomain|subdomains]].
+# {{lb|en|computing|Internet}} Any [[Domain Name System|DNS]] [[domain name]], particularly one which has been [[delegate|delegated]] and has become representative of the delegated domain name and its [[subdomain]]s.
 #* '''2000''', ''BIND 9 Administrator Reference Manual (9.3.2)'', Internet Software Consortium [http://www.bind9.net/manual/bind/9.3.2/Bv9ARM.ch01.html]
 #*: Every name in the DNS tree is a '''domain''', even if it is terminal, that is, has no subdomains.
-# {{lb|en|computing|Internet}} A collection of [[Domain Name System|DNS]] or DNS-like [[domain name|domain names]] consisting of a [[delegate|delegated]] [[domain name]] and all its [[subdomain|subdomains]].
+# {{lb|en|computing|Internet}} A collection of [[Domain Name System|DNS]] or DNS-like [[domain name|domain names]] consisting of a [[delegate|delegated]] [[domain name]] and all its [[subdomain]]s.
 # {{lb|en|computing}} A collection of information having to do with a domain, the [[computer]]s named in the domain, and the [[network]] on which the computers named in the domain reside.
 # {{lb|en|computing}} The collection of computers identified by a domain's [[domain name]]s.
 # {{lb|en|physics}} A small region of a magnetic material with a consistent magnetization direction.
@@ -64,28 +63,29 @@ From {{inh|en|enm|demeine}}, {{m|enm|demain||rule}}, {{bor|en|fro|demeine|notext
 * {{sense|domain of definition of a function}} {{l|en|range}}
 * {{sense|domain of definition of a function}} {{l|en|codomain}}
 
+====Hyponyms====
+{{hyp4
+| {{l|en|application domain}}
+| {{l|en|source domain}}
+| {{l|en|subdomain}}
+| {{l|en|target domain}}
+| {{l|en|top-level domain}}
+}}
+
 ====Derived terms====
-{{der-top}}
-* {{l|en|domain hack}}
-* {{l|en|domain name}}
-* {{l|en|domain of discourse}}
 * {{l|en|domaining}}
 * {{l|en|domainless}}
-{{der-mid}}
-* {{l|en|source domain}}
-* {{l|en|subdomain}}
-* {{l|en|target domain}}
-* {{l|en|top-level domain}}
-{{der-bottom}}
 
 ====Related terms====
-{{rel-top}}
-* {{l|en|DNS}}
-* {{l|en|dominate}}
-{{rel-mid}}
-* {{l|en|dominion}}
-* {{l|en|domino}}
-{{rel-bottom}}
+{{rel4
+| {{l|en|DNS}}
+| {{l|en|domain hack}}
+| {{l|en|domain name}}
+| {{l|en|domain of discourse}}
+| {{l|en|dominate}}
+| {{l|en|dominion}}
+| {{l|en|domino}}
+}}
 
 ====Translations====
 {{trans-top|geographic area owned or controlled by a single person or organization}}
@@ -261,9 +261,12 @@ From {{inh|en|enm|demeine}}, {{m|enm|demain||rule}}, {{bor|en|fro|demeine|notext
 * Spanish: {{t+|es|dominio}}
 {{trans-bottom}}
 
+===References===
+* {{pedia|lang=en}}
+
 ====External links====
-* {{R:Webster 1913}}
 * {{R:Century 1911}}
+* {{R:Webster 1913}}
 
 ===Statistics===
 * {{rank|looks|running|garden|887|domain|touch|higher|military}}
@@ -271,6 +274,7 @@ From {{inh|en|enm|demeine}}, {{m|enm|demain||rule}}, {{bor|en|fro|demeine|notext
 ===Anagrams===
 * {{l|en|daimon}}
 * {{l|en|domina}}
+
 [[Category:English 2-syllable words]] 
 
 ----
