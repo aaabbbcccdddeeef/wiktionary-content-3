@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|xno|en}}, {{etyl|fro|en}} {{m|fro|prince}}, from {{etyl|la|en}} {{m|la|princeps||first head}}, from {{m|la|primus||first}} + {{m|la|capio|capere|seize, take}}.
+{{bor|en|xno|-}}, {{bor|en|fro|prince|notext=1}}, from {{der|en|la|princeps||first head}}, from {{m|la|primus||first}} + {{m|la|capio|capere|seize, take}}.
 
 ===Pronunciation===
 * {{enPR|prĭns}}, {{IPA|/pɹɪns/|lang=en}}
@@ -277,7 +277,7 @@ From {{etyl|xno|en}}, {{etyl|fro|en}} {{m|fro|prince}}, from {{etyl|la|en}} {{m|
 ==French==
 
 ===Etymology===
-From {{etyl|fro|fr}}, from {{etyl|la|fr}} {{m|la|prīnceps}}, ''prīncipem''.
+From {{inh|fr|frm|prince}}, from {{inh|fr|fro|prince}}, a semi-learned {{bor|fr|la|princeps|prīnceps, prīncipem|nocap=1}}.
 
 ===Pronunciation===
 * {{audio|Fr-prince.ogg|audio|lang=fr}}
@@ -303,17 +303,22 @@ From {{etyl|fro|fr}}, from {{etyl|la|fr}} {{m|la|prīnceps}}, ''prīncipem''.
 
 ==Middle French==
 
+===Etymology===
+From {{inh|frm|fro|prince}}.
+
 ===Noun===
 {{frm-noun|m}}
 
 # {{l|en|prince}}
 
+====Descendants====
+* French: {{l|fr|prince}}
 ----
 
 ==Old French==
 
 ===Etymology===
-{{etyl|la|fro}} {{m|la|prīncipem}}, accusative singular of {{m|la|prīnceps}}.
+Semi-learned {{bor|fro|la|prīncipem|nocap=1}}, accusative singular of {{m|la|prīnceps}}.
 
 ===Pronunciation===
 * {{IPA|/ˈprĩntse/|lang=fro}}
@@ -328,7 +333,7 @@ From {{etyl|fro|fr}}, from {{etyl|la|fr}} {{m|la|prīnceps}}, ''prīncipem''.
 ==Old Provençal==
 
 ===Etymology===
-{{etyl|la|pro}} {{m|la|prīncipem}} (accusative), {{term|princeps|prīnceps}} (nominative).
+From {{der|pro|la|prīncipem}} (accusative), {{term|princeps|prīnceps}} (nominative), possibly a borrowing.
 
 ===Pronunciation===
 * {{IPA|/ˈpɾintse/|lang=pro}}
