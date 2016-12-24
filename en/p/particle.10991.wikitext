@@ -1,5 +1,4 @@
 ==English==
-{{wikipedia}}
 
 ===Etymology===
 From {{etyl|frm|en}} {{m|frm|particule}}, and its source, {{etyl|la|en}} {{m|la|particula||small part, particle}}, diminutive of {{m|la|pars||part, piece}}.
@@ -51,22 +50,24 @@ From {{etyl|frm|en}} {{m|frm|particule}}, and its source, {{etyl|la|en}} {{m|la|
 ====Synonyms====
 * See also [[Wikisaurus:particle]]
 
-====Derived terms====
-{{der-top}}
+====Hyponyms====
 * {{l|en|aspect particle}}
 * {{l|en|modal particle}}
-* {{l|en|particle accelerator}}
-* {{l|en|particle beam}}
-{{der-mid}}
-* {{l|en|particle board}}
-* {{l|en|particle physics}}
 * {{l|en|tachyonic particle}}
-{{der-bottom}}
+
+====Derived terms====
+* {{l|en|charged-particle}}
 
 ====Related terms====
-* {{l|en|part}}
-* {{l|en|particular}}
-* {{l|en|particulate}}
+{{rel4
+| {{l|en|part}}
+| {{l|en|particular}}
+| {{l|en|particle accelerator}}
+| {{l|en|particle beam}}
+| {{l|en|particle board}}
+| {{l|en|particle physics}}
+| {{l|en|particulate}}
+}}
 
 ====Translations====
 {{trans-top|body with very small size}}
@@ -211,14 +212,17 @@ From {{etyl|frm|en}} {{m|frm|particule}}, and its source, {{etyl|la|en}} {{m|la|
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Breton: {{qualifier|1,2,3}} {{t-check|br|rannig|f}} -où ''pl''
+* Breton: {{qualifier|1–3}} {{t-check|br|rannig|f}} -où ''pl''
 * Esperanto: {{t-check|eo|partiklo}}
 * Interlingua: {{qualifier|1}} {{t-check|ia|particula}}
-{{trans-mid}}
-* Italian: {{qualifier|1, 2, 3}} {{t-check|it|particella|f}}, {{t-check|it|briciolo}}, {{t-check|it|granello}}, {{t-check|it|grano}}
-* Swedish: {{qualifier|1,2}} {{t-check|sv|partikel|c}}
-* Telugu: {{t-check|te|రేణువు|sc=Telu}} (́1)
-{{trans-bottom}}
+{{checktrans-mid}}
+* Italian: {{qualifier|1–3}} {{t-check|it|particella|f}}, {{t-check|it|briciolo}}, {{t-check|it|granello}}, {{t-check|it|grano}}
+* Swedish: {{qualifier|1, 2}} {{t-check|sv|partikel|c}}
+* Telugu: {{qualifier|1}} {{t-check|te|రేణువు|sc=Telu}}
+{{checktrans-bottom}}
+
+===References===
+* {{pedia}}
 
 [[Category:en:Parts of speech]]
 
