@@ -449,25 +449,43 @@ Inflected forms.
 ==Irish==
 
 ===Etymology===
-{{borrowing|ga|en|bus}}.
+{{bor|ga|en|bus}}.
 
 ===Pronunciation===
 * {{IPA|[bˠʊsˠ]|lang=ga}}
 
 ===Noun===
-{{ga-noun|m|bus|busanna}}
+{{ga-noun|m|~|~anna}}
 
 # {{l|en|bus}}
+# {{lb|ga|computing}} bus
 
 ====Declension====
 {{ga-decl-m4|b|us|usanna}}
 
 ====Derived terms====
-* {{l|ga|busáras|gloss=bus station}}
-* {{l|ga|lána bus}}, {{l|ga|buslána|gloss=bus lane}}
+{{der3
+|{{l|ga|busáras}}, {{l|ga|stáisiún bus|t=bus station}}
+|{{l|ga|buslána}}, {{l|ga|lána bus|t=bus lane}}
+|{{l|ga|tiománaí bus|t=bus-driver}}
+|{{l|ga|bus tralaí|t=trolleybus}}
+|{{l|ga|stad bus|t=bus-stop}}
+|{{l|ga|stiúrthóir bus|t=bus conductor}}
+|{{l|ga|tairseach bus|t=platform of bus}}
+|{{l|ga|líne busanna|t=bus line}}
+|{{l|ga|bus altach|t=bendy bus}}
+|{{l|ga|pas bus|t=bus pass}}
+|{{l|ga|scáthlán bus|t=bus shelter}}
+|{{l|ga|bus dhá stór}}, {{l|ga|bus dhá urlár|t=double decker bus}}
+|{{l|ga|bus scoile|t=school bus}}
+}}
 
 ===Mutation===
-{{ga mut cons|b|us}}
+{{ga-mut}}
+
+===External links===
+* {{R:ga:Ó Dónaill}}
+* {{R:ga:Foras}}
 
 [[Category:ga:Vehicles]]
 
