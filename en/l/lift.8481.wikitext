@@ -253,7 +253,7 @@ From {{etyl|enm|en}} {{m|enm|liften}}, {{m|enm|lyften}}, from {{etyl|non|en}} {{
 * German: {{t+|de|Mitfahrgelegenheit|f}}
 * Greek: {{t+|el|μεταφορά|f}}
 * Italian: {{t+|it|passaggio|m}} <!--(He gave me a lift to the station - ''Mi ha dato un passaggio alla stazione'')-->
-* Japanese: {{t|ja|車に乗せてやること|tr=kuruma ni nosete yaru koto|sc=Jpan}}
+* Japanese: {{t|ja|[[車]]に[[乗せる|乗せて]]やること|tr=kuruma ni nosete yaru koto|sc=Jpan}}
 * Khmer: {{t+|km|ជូន|tr=cuun|sc=Khmr}}
 * Korean: {{t-needed|ko}}
 * Macedonian: {{t|mk|префрлање|n}}, {{t|mk|одвезување|n}}
@@ -281,14 +281,14 @@ From {{etyl|enm|en}} {{m|enm|liften}}, {{m|enm|lyften}}, from {{etyl|non|en}} {{
 * Afrikaans: {{t|af|hysbak}}
 * Albanian: {{t+|sq|ashensor}}
 * Arabic: {{t|ar|مِصْعَد|m}}
-*: Hijazi Arabic: {{t|acw|أَصَنْصير|m|tr=ʼaṣanṣēr}}
+*: Hijazi Arabic: {{t|acw|أَصَنْصير|m|tr=ʾaṣanṣēr}}
 *: Gulf Arabic: {{t|afb|أَصَنْصير|m|tr=aṣanṣeir}}
 * Armenian: {{t+|hy|վերելակ}}
 * Asturian: {{t|ast|ascensor|m}}
 * Azeri: {{t+|az|lift}}
 * Basque: {{t|eu|igogailu}}
 * Belarusian: {{t|be|ліфт|m|sc=Cyrl}}
-* Bengali: {{t|bn|লিফট|tr=liphţ|sc=Beng}}
+* Bengali: {{t|bn|লিফট|sc=Beng}}
 * Bulgarian: {{t+|bg|асансьо́р|m}}
 * Burmese: {{t+|my|ဓာတ်လှေကား|sc=Mymr}}
 * Catalan: {{t|ca|ascensor|m}}
@@ -308,8 +308,8 @@ From {{etyl|enm|en}} {{m|enm|liften}}, {{m|enm|lyften}}, from {{etyl|non|en}} {{
 * Georgian: {{t|ka|ლიფტი}}
 * German: {{t+|de|Lift|m}}, {{t+|de|Fahrstuhl|m}}, {{t+|de|Aufzug|m}}
 * Greek: {{t+|el|ασανσέρ|n}}, {{t+|el|ανελκυστήρας|m}}
-* Hebrew: {{t+|he|מעלית|f|tr=ma'alít|sc=Hebr}}
-* Hindi: {{t|hi|लिफ़्ट|tr=lifṭ|sc=Deva}}, {{t|hi|लिफ्ट|tr=liphṭ, lifṭ|sc=Deva}}, {{t+|hi|उत्थापक|tr=utthāpak|sc=Deva}}, {{t|hi|उच्चालित्र|tr=uccālitra|sc=Deva}}
+* Hebrew: {{t+|he|מַעֲלִית|f|tr=ma'alít|sc=Hebr}}
+* Hindi: {{t|hi|लिफ़्ट|sc=Deva}}, {{t|hi|लिफ्ट|sc=Deva}}, {{t+|hi|उत्थापक|sc=Deva}}, {{t|hi|उच्चालित्र|sc=Deva}}
 * Hungarian: {{t+|hu|lift}}, {{t+|hu|felvonó}}, {{t+|hu|személyfelvonó}}
 * Icelandic: {{t+|is|lyfta|f}}
 * Ido: {{t+|io|acensilo}}
@@ -317,8 +317,6 @@ From {{etyl|enm|en}} {{m|enm|liften}}, {{m|enm|lyften}}, from {{etyl|non|en}} {{
 * Irish: {{t|ga|ardaitheoir|m}}
 * Italian: {{t+|it|ascensore|m}}
 * Japanese: {{t+|ja|エレベーター|tr=erebētā}}, {{t+|ja|昇降機|tr=しょうこうき, shōkōki|sc=Jpan}}
-* Nepali: {{t|ne|लिफ्ट}}
-* Norman: {{t|nrf|ascenseux|m}}
 * Kannada: {{t+|kn|ಏರಿಳಿಯಂತ್ರ|sc=Knda}}, {{t+|kn|ಎತ್ತುಗ|sc=Knda}}
 * Kazakh: {{t+|kk|лифт|sc=Cyrl}}
 * Khmer: {{t|km|ជណ្ដើរយោង|tr=cʊəndaə yooŋ|sc=Khmr}}
@@ -327,17 +325,19 @@ From {{etyl|enm|en}} {{m|enm|liften}}, {{m|enm|lyften}}, from {{etyl|non|en}} {{
 * Lao: {{t|lo|ຂັ້ນໄດໄຟຟ້າ|sc=Laoo}}, {{t|lo|ລິບ|sc=Laoo}}, {{t|lo|ລິຟ|sc=Laoo}}
 * Latin: {{t|la|teleferica|f}}
 * Latvian: {{t|lv|lifts|m}}
-{{trans-mid}}
 * Lithuanian: {{t|lt|liftas|m}}
-* Macedonian: {{t|mk|лифт|m|tr=lift}}
+* Macedonian: {{t|mk|лифт|m}}
+{{trans-mid}}
 * Malay: {{t|ms|lif}}
 * Malayalam: {{t|ml|ലിഫ്റ്റ്}}
 * Maltese: {{t|mt|lift|m}}
 * Maori: {{t|mi|ararewa}}
-* Marathi: {{t|mr|उद्वाहक|tr=udvāhak|sc=Deva}}
+* Marathi: {{t|mr|उद्वाहक|sc=Deva}}
 * Mongolian: {{t|mn|цахилгаан шат|sc=Cyrl}}, {{t|mn|өргөдөг шат|sc=Cyrl}}
 * Nahuatl: {{t|nah|acuanhuaztli}}, {{t|nah|tepantlacoc}}
 * Navajo: {{t|nv|dego dóó yaago iłnídílzhoʼí}}, {{t|nv|hoł háádaalchʼąłígíí}}, {{t|nv|hoł háádaalzhoʼígíí}}, {{t|nv|hoł háádaalwoʼígíí}}
+* Nepali: {{t|ne|लिफ्ट}}
+* Norman: {{t|nrf|ascenseux|m}}
 * Norwegian:
 *: Bokmål: {{t+|nb|heis|m}}
 *: Nynorsk: {{t|nn|heis|m}}
@@ -364,7 +364,7 @@ From {{etyl|enm|en}} {{m|enm|liften}}, {{m|enm|lyften}}, from {{etyl|non|en}} {{
 * Tamil: {{t+|ta|உயர்த்தி|sc=Taml}}, {{t+|ta|மின்தூக்கி|sc=Taml}}
 * Tatar: {{t|tt|лифт|sc=Cyrl}}, {{t+|tt|күтәргеч|sc=Cyrl}}
 * Telugu: {{t|te|లిఫ్ట్}}, {{t|te|ఎలివేటర్}}
-* Thai: {{t+|th|ลิฟต์|tr=líf|sc=Thai}}
+* Thai: {{t+|th|ลิฟต์|sc=Thai}}
 * Tibetan: {{t|bo|གློག་གི་སྐས་འཛེགས}}
 * Turkish: {{t+|tr|asansör}}
 * Turkmen: {{t|tk|lift}}
@@ -374,7 +374,7 @@ From {{etyl|enm|en}} {{m|enm|liften}}, {{m|enm|lyften}}, from {{etyl|non|en}} {{
 * Uzbek: {{t+|uz|lift}}
 * Vietnamese: {{t+|vi|thang máy}}
 * Welsh: {{t+|cy|lifft|m}}
-* Yiddish: {{t|yi|ליפט|tr=lift|sc=Hebr}}
+* Yiddish: {{t|yi|ליפט|sc=Hebr}}
 {{trans-bottom}}
 
 {{trans-top|upward force}}
