@@ -110,14 +110,14 @@ The noun is from {{etyl|enm|en}} {{m|enm|pleye}}, from {{etyl|ang|en}} {{m|ang|p
 * Aromanian: {{t|rup|gioc}}
 * Asturian: {{t|ast|xugar}}
 * Basque: {{t|eu|joka}}
-* Belarusian: {{t|be|граць}}
+* Belarusian: {{t|be|граць|impf}}
 * Bulgarian: {{t+|bg|игра́я|impf|sc=Cyrl}}
 * Burmese: {{t+|my|ဆော့|sc=Mymr}}
 * Catalan: {{t+|ca|jugar}}
 * Chinese:
 *: Cantonese: {{t|yue|玩|tr=waan2|sc=Hani}}
 *: Mandarin: {{t+|cmn|玩|tr=wán|sc=Hani}}, {{t+|cmn|玩兒|sc=Hani}}, {{t+|cmn|玩儿|tr=wánr|sc=Hani}}
-* Czech: {{t+check|cs|hrát|alt=hrát si}} <!-- was "[[hrát]] si" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Czech: {{t+|cs|hrát|impf}}
 * Corsican: {{t+|co|ghjucà}}
 * Danish: {{t|da|lege}}
 * Dutch: {{t+|nl|spelen}}
@@ -132,8 +132,8 @@ The noun is from {{etyl|enm|en}} {{m|enm|pleye}}, from {{etyl|ang|en}} {{m|ang|p
 *: Alemannic German: {{t|gsw|schpile}}
 * Greek: {{t+|el|παίζω}}
 * Greenlandic: {{t|kl|pinnguarpoq}}
-* Hebrew: {{t+|he|שיחק|tr=sikhék}}, {{t|he|השתעשע|tr=hishta'ashéa}}
-* Hindi: {{t+|hi|खेलना|tr=khelnā|sc=Deva}}
+* Hebrew: {{t+|he|שיחק|tr=sikhék|alt=שִׂחֵק / שיחק}}, {{t|he|השתעשע|tr=hishta'ashéa}}
+* Hindi: {{t+|hi|खेलना|sc=Deva}}
 * Hungarian: {{t+|hu|játszik}}
 * Icelandic: {{t+|is|leika}}, {{t+|is|leika sér}}
 * Indonesian: {{t+|id|permainan}}, {{t+|id|bermain}}, {{t+|id|main}}
@@ -141,28 +141,28 @@ The noun is from {{etyl|enm|en}} {{m|enm|pleye}}, from {{etyl|ang|en}} {{m|ang|p
 * Irish: {{t|ga|imir}}, {{t|ga|súgradh}}
 * Italian: {{t+|it|giocare}}
 * Japanese: {{t+|ja|遊ぶ|tr=あそぶ, asobu|sc=Jpan}}
-* Ngunawal: {{t|xul|woggabaliri}}
-* Norman: {{t|nrf|jouer}}
 * Korean: {{t+|ko|놀다|sc=Kore}}
 * Kurdish:
 *: Sorani: {{t|ku|یاری کردن|tr=yarí kirdin|sc=ku-Arab}}
-{{trans-mid}}
 * Lao: {{t|lo|ຫລິ້ນ|sc=Laoo}}
+{{trans-mid}}
 * Latgalian: {{t|ltg|kaitavuot}}
 * Latin: {{t|la|lūdō}}
 * Latvian: {{t|lv|spēlēt}}
 * Lingala: {{t|ln|kosakana}}
 * Lithuanian: {{t+|lt|žaisti}}
-* Macedonian: {{t|mk|игра}}
+* Macedonian: {{t|mk|игра|impf}}
 * Malay: {{t|ms|bermain}}
 * Navajo: {{t|nv|naashné}}
 * Neapolitan: {{t|nap|pazzià}}
 * Ngazidja Comorian: {{t|zdj|tsapvuha|alt=utsapvuha}}
+* Ngunawal: {{t|xul|woggabaliri}}
+* Norman: {{t|nrf|jouer}}
 * Norwegian: {{t+|no|leke}}
 * Old English: {{t|ang|lācan}}, {{t|ang|gamenian}}, {{t|ang|plegan}}
 * Pashto: {{t|ps|لوبې كول|tr=lobe kawəl|sc=ps-Arab}}, {{t|ps|لوبول|tr=lobawəl|sc=ps-Arab}}
 * Persian: {{t+|fa|بازی کردن|tr=bâzi kardan|sc=fa-Arab}}
-* Polish: {{t+|pl|bawić się}}
+* Polish: {{t+|pl|bawić się|impf}}
 * Portuguese: {{t+|pt|jogar}}, {{t+|pt|brincar}}
 * Quechua: {{t|qu|pukllay}}, {{t|qu|awsay}}, {{t|qu|pukllai}}
 * Romani: {{t|rom|khelel}}
@@ -172,11 +172,11 @@ The noun is from {{etyl|enm|en}} {{m|enm|pleye}}, from {{etyl|ang|en}} {{m|ang|p
 * Sardinian: {{t|sc|giogae}}, {{t|sc|giogai}}, {{t|sc|giogare}}, {{t|sc|zogare}}
 * Scottish Gaelic: {{t|gd|cluich}}, {{qualifier|children}} {{t|gd|cleasaich}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|и̏грати|sc=Cyrl}}
-*: Roman: {{t+|sh|ȉgrati}}
+*: Cyrillic: {{t|sh|и̏грати|impf|sc=Cyrl}}
+*: Roman: {{t+|sh|ȉgrati|impf}}
 * Sicilian: {{t+|scn|giucari}}, {{t+|scn|jucari}}
 * Slovak: {{t|sk|hrať sa}}
-* Slovene: {{t+|sl|igrati se}}
+* Slovene: {{t+|sl|igrati se|impf}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|graś|impf}}
 *: Upper Sorbian: {{t|hsb|hrać|impf}}, {{t|hsb|zahrać|pf}}
@@ -188,7 +188,7 @@ The noun is from {{etyl|enm|en}} {{m|enm|pleye}}, from {{etyl|ang|en}} {{m|ang|p
 * Thai: {{t+|th|เล่น|sc=Thai}}
 * Tok Pisin: {{t|tpi|pilai}}
 * Turkish: {{t+|tr|oynamak}}
-* Ukrainian: {{t+|uk|гра́ти}}
+* Ukrainian: {{t+|uk|гра́ти|impf}}
 * Urdu: {{t|ur|کھیلنا|tr=khelnā|sc=ur-Arab}}
 * Venetian: {{t+|vec|xugar}}, {{t|vec|zugar}}, {{t|vec|xogar}}, {{t+|vec|zogar}}
 * Vietnamese: {{t+|vi|chơi}}
@@ -198,6 +198,8 @@ The noun is from {{etyl|enm|en}} {{m|enm|pleye}}, from {{etyl|ang|en}} {{m|ang|p
 {{trans-top|produce music using a musical instrument (transitive sense), affecting a noun}}
 * Arabic: {{t|ar|عَزَفَ}}
 * Armenian: {{t+|hy|նվագել}}
+* Belarusian: {{t|be|граць|impf}}
+* Bulgarian: {{t+|bg|игра́я|impf|sc=Cyrl}}
 * Catalan: {{t+|ca|tocar}}
 * Chinese:
 *: Mandarin: {{t+|cmn|演奏|tr=yǎnzòu|sc=Hani}}, {{qualifier|string instruments including piano}} {{t+|cmn|彈|sc=Hani}}, {{t+|cmn|弹|tr=tán|sc=Hani}}&{{qualifier|formal}}{{t+|cmn|彈奏|sc=Hani}}, {{t+|cmn|弹奏|tr=tánzòu|sc=Hani}}, {{qualifier|string instruments with a bow such as violin}} {{t+|cmn|拉|tr=lā|sc=Hani}}, {{qualifier|wind instruments}} {{t+|cmn|吹|tr=chuī|sc=Hani}}&{{qualifier|formal}}{{t+|cmn|吹奏|tr=chuīzòu|sc=Hani}}, {{qualifier|percussion instruments, especially gong}} {{t+|cmn|敲|tr=qiāo|sc=Hani}}, {{qualifier|percussion instruments, especially drum}} {{t+|cmn|打|tr=dǎ|sc=Hani}}
@@ -219,7 +221,6 @@ The noun is from {{etyl|enm|en}} {{m|enm|pleye}}, from {{etyl|ang|en}} {{m|ang|p
 * Japanese: {{t|ja|演奏する|tr=えんそうする, ensō-suru|sc=Jpan}}, {{t|ja|奏でる|tr=かなでる, kanaderu|sc=Jpan}} {{qualifier|string instruments including piano}} {{t+|ja|弾く|tr=ひく, hiku|sc=Jpan}}, {{qualifier|wind instruments}} {{t+|ja|吹く|tr=ふく, fuku|sc=Jpan}}, {{qualifier|drums}} {{t+|ja|叩く|tr=たたく, tataku|sc=Jpan}}
 {{trans-mid}}
 * Javanese: {{t+|jv|dolanan}}
-* Norman: {{t|nrf|jouer}}, {{t|nrf|sonner}}
 * Khmer: {{t+|km|ដេញ|tr=dəɲ|sc=Khmr}}
 * Latgalian: {{t|ltg|spieļuot}}
 * Latin: {{t+|la|cano}}
@@ -227,9 +228,10 @@ The noun is from {{etyl|enm|en}} {{m|enm|pleye}}, from {{etyl|ang|en}} {{m|ang|p
 * Lojban: {{t|jbo|zgipli}}
 * Macedonian: {{t|mk|свири}}
 * Maori: {{t|mi|whakatangi}}
+* Norman: {{t|nrf|jouer}}, {{t|nrf|sonner}}
 * Old English: {{t|ang|lācan}}, {{t|ang|gliwian}}
 * Pashto: {{t+|ps|ږغول|tr=zhaγawəl|sc=ps-Arab}}
-* Polish: {{t+check|pl|grać|alt=grać na}} <!-- was "[[grać]] na" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Polish: {{t+|pl|grać|impf}} (na)
 * Portuguese: {{t+|pt|tocar}}
 * Quechua: {{t+|qu|takiy}}
 * Romanian: {{t+|ro|cânta}} (la)
@@ -243,6 +245,7 @@ The noun is from {{etyl|enm|en}} {{m|enm|pleye}}, from {{etyl|ang|en}} {{m|ang|p
 * Tagalog: {{t|tl|tumugtog}}
 * Thai: {{t+|th|เล่น|tr=lên|sc=Thai}}
 * Turkish: {{t+|tr|çalmak}}
+* Ukrainian: {{t+|uk|гра́ти|impf}}
 * Urdu: {{t|ur|بجانا|tr=bajānā|sc=ur-Arab}}
 {{trans-bottom}}
 
