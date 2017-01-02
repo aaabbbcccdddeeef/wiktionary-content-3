@@ -136,9 +136,9 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{m|frm|gendre}}, {{m|frm|genre}}, fr
 * Georgian: {{t|ka|სქესი}}, {{t+|ka|გენდერი}}
 * German: {{t+|de|Geschlecht|n}}
 * Greek: {{t+|el|γένος|n}}
-* Gujarati: {{t|gu|લિંગ|tr=ling|sc=Gujr}}
+* Gujarati: {{t|gu|લિંગ|sc=Gujr}}
 * Hebrew: {{t+|he|מִין|m|tr=min}}
-* Hindi: {{t+|hi|लिंग|m|tr=liṅg|sc=Deva}}
+* Hindi: {{t+|hi|लिंग|m|sc=Deva}}
 * Hungarian: {{t+|hu|nem}}
 * Icelandic: {{t+|is|kyn|n}}
 * Ido: {{t+|io|genro}}
@@ -149,7 +149,6 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{m|frm|gendre}}, {{m|frm|genre}}, fr
 * Irish: {{t|ga|inscne|f}}
 * Italian: {{t+|it|genere}}
 * Japanese: {{t+|ja|性|tr=せい, sei}}
-* Norman: {{t|nrf|genre|m}}
 * Kazakh: {{t|kk|род|m|sc=Cyrl}}
 {{trans-mid}}
 * Khmer: {{t+|km|លិង្គ|tr=lɨng|sc=Khmr}}
@@ -165,6 +164,7 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{m|frm|gendre}}, {{m|frm|genre}}, fr
 * Maltese: {{t|mt|sess|m}}
 * Marathi: {{t|mr|लिंग|sc=Deva}}
 * Mirandese: {{t-needed|mwl}}
+* Norman: {{t|nrf|genre|m}}
 * Norwegian: {{t+|no|kjønn|n}}
 * Novial: {{t-needed|nov}}
 * Occitan: {{t-needed|oc}}
@@ -194,7 +194,7 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{m|frm|gendre}}, {{m|frm|genre}}, fr
 * Swedish: {{t+|sv|genus|n}}
 * Tajik: {{t|tg|ҷинс|sc=Cyrl}}
 * Tatar: {{t+|tt|җенес|sc=Cyrl}}
-* Thai: {{t+|th|ลิงค์|tr=ling|sc=Thai}}
+* Thai: {{t+|th|ลิงค์|sc=Thai}}
 * Turkish: {{t+|tr|cins}}, {{t+|tr|cinsiyet}}
 * Ukrainian: {{t|uk|рід|m|sc=Cyrl}}
 * Urdu: {{t|ur|لنگ|m|tr=liṅg|sc=ur-Arab}}
@@ -215,8 +215,8 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{m|frm|gendre}}, {{m|frm|genre}}, fr
 * Asturian: {{t|ast|sexu|m}}
 * Azeri: {{t+|az|cins}}
 * Belarusian: {{t|be|пол|m|sc=Cyrl}}, {{t|be|плоць|f|sc=Cyrl}}
-* Bengali: {{t+|bn|লিঙ্গ|tr=ling|sc=Beng}}
-* Bulgarian: {{t|bg|пол|m|tr=pol|sc=Cyrl}}
+* Bengali: {{t+|bn|লিঙ্গ|sc=Beng}}
+* Bulgarian: {{t|bg|пол|m|sc=Cyrl}}
 * Burmese: {{t+|my|လိင်|sc=Mymr}}
 * Catalan: {{t+|ca|sexe|m}}
 * Cherokee: {{t-needed|chr}}
@@ -235,8 +235,8 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{m|frm|gendre}}, {{m|frm|genre}}, fr
 * Georgian: {{t|ka|სქესი}}
 * German: {{t+|de|Geschlecht|n}}
 * Greek: {{t+|el|φύλο|n}}
-* Hebrew: {{t+|he|מגדר|tr=migdár}}, {{t+|he|מִין|m|tr=min}}
-* Hindi: {{t+|hi|लिंग|m|tr=liṅg|sc=Deva}}
+* Hebrew: {{t+|he|מִגְדָּר|tr=migdár}}, {{t+|he|מִין|m|tr=min}}
+* Hindi: {{t+|hi|लिंग|m|sc=Deva}}
 * Icelandic: {{t+|is|kyn|n}}
 * Ido: {{t+|io|sexuo}}
 * Indonesian: {{t+|id|jenis}}, {{t+|id|jenis kelamin}}
@@ -278,7 +278,7 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{m|frm|gendre}}, {{m|frm|genre}}, fr
 * Tagalog: {{t+|tl|kasarian}}
 * Tajik: {{t|tg|ҷинс|sc=Cyrl}}, {{t|tg|ҷинсият|sc=Cyrl}}
 * Tatar: {{t+|tt|җенес|sc=Cyrl}}
-* Thai: {{t+|th|เพศ|tr=pâyt}}, {{t+|th|ลิงค์|tr=ling|sc=Thai}}
+* Thai: {{t+|th|เพศ}}, {{t+|th|ลิงค์|sc=Thai}}
 * Turkish: {{t+|tr|cinsiyet}}, {{t+|tr|cins}}
 * Turkmen: {{t+|tk|jyns}}, {{t|tk|pol}}
 * Ukrainian: {{t|uk|стать|f|sc=Cyrl}}
@@ -302,7 +302,7 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{m|frm|gendre}}, {{m|frm|genre}}, fr
 * Esperanto: {{t|eo|socia sekso}}
 * Finnish: {{t+|fi|sukupuoli}}, {{t|fi|sosiaalinen sukupuoli}}
 * French: {{t+|fr|genre|m}}
-* Hebrew: {{t+|he|מגדר}}
+* Hebrew: {{t+|he|מִגְדָּר|tr=migdár}}
 * Norman: {{t|nrf|genre|m}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|género|m}} {{qualifier|Portugal}}, {{t+|pt|gênero|m}} {{qualifier|Brazil}}
@@ -331,7 +331,6 @@ From {{etyl|enm|en}}, from {{etyl|frm|en}} {{m|frm|gendre}}, {{m|frm|genre}}, fr
 
 {{checktrans-top}}
 * Italian: {{t+check|it|sesso|m}}, {{t+check|it|genere|m}}
-* Korean: {{t+check|ko|성별|tr=[[性別]], seongbyeol|sc=Kore}}
 * Romanian: {{t+check|ro|sex|n}}
 {{trans-mid}}
 * Serbo-Croatian:
