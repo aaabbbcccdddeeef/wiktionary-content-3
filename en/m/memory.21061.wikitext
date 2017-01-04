@@ -73,7 +73,7 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 ====Translations====
 {{trans-top|ability to recall}}
 * Afrikaans: {{t|af|geheue}}
-* Albanian: {{t+|sq|kujtesë}}
+* Albanian: {{t+|sq|kujtesë|f}}
 * Amharic: {{t-needed|am}}
 * Arabic: {{t|ar|ذَاكِرَة|f}}
 * Armenian: {{t+|hy|հիշողություն}}
@@ -82,16 +82,16 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Azeri: {{t|az|yaddaş}}, {{t|az|hafizə}}
 * Bashkir: {{t|ba|иҫ|sc=Cyrl}}, {{t|ba|хәтер|sc=Cyrl}}
 * Belarusian: {{t|be|па́мяць|f|sc=Cyrl}}
-* Bengali: {{t|bn|স্মৃতি|tr=smriti|sc=Beng}}
+* Bengali: {{t|bn|স্মৃতি|sc=Beng}}
 * Breton: {{t-needed|br}}
 * Bulgarian: {{t+|bg|па́мет|f|sc=Cyrl}}
 * Burmese: {{t+|my|စိတ်မှတ်|sc=Mymr}}
 * Catalan: {{t+|ca|memòria|f}}
 * Central Melanau: {{t|mel|keneng}}
-* Cherokee: {{t|chr|ᎠᏅᏓᏗᏍᏗ|tr=anvdadisdi|sc=Cher}}
+* Cherokee: {{t|chr|ᎠᏅᏓᏗᏍᏗ|sc=Cher}}
 * Chinese:
 *: Cantonese: {{t|yue|記性|sc=Hani}}, {{t|yue|记性|tr=gei3 sing3|sc=Hani}}
-*: Mandarin: {{t+check|cmn|記憶|sc=Hani}}, {{t+check|cmn|记忆|tr=jìyì|sc=Hani}}, {{t+|cmn|記性|sc=Hani}}, {{t+|cmn|记性|tr=jìxing|sc=Hani}}
+*: Mandarin: {{t+|cmn|記憶|sc=Hani}}, {{t+|cmn|记忆|tr=jìyì|sc=Hani}}, {{t+|cmn|記性|sc=Hani}}, {{t+|cmn|记性|tr=jìxing|sc=Hani}}
 * Czech: {{t+|cs|paměť|f}}
 * Danish: {{t|da|hukommelse|c}}
 * Dutch: {{t+|nl|geheugen|n}}
@@ -110,8 +110,8 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Gujarati: {{t|gu|યાદ|f|tr=yād|sc=Gujr}}
 * Hausa: {{t-needed|ha}}
 * Hawaiian: {{t|haw|hoʻomanaʻo ʻana}}, {{t|haw|haliʻa}}
-* Hebrew: {{t+|he|זכרון|m|tr=zikarón}}
-* Hindi: {{t+|hi|स्मृति|f|tr=smṛ́ti}}, {{t+|hi|याद|f|tr=yād}}
+* Hebrew: {{t+|he|זכרון|m|tr=zikarón|alt=זיכרון \ זִכָּרוֹן}}
+* Hindi: {{t+|hi|स्मृति|f}}, {{t+|hi|याद|f}}
 * Hungarian: {{t+|hu|emlékezet}}, {{t+|hu|memória}}
 * Icelandic: {{t+|is|minni|n}}
 * Ido: {{t+|io|memoro}}
@@ -119,7 +119,6 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Irish: {{t|ga|cuimhne|f}}
 * Italian: {{t+|it|memoria|f}}
 * Japanese: {{t+|ja|記憶|tr=きおく, kioku}}
-* Norman: {{t|nrf|mémouaithe|f}}
 * Kannada: {{t+|kn|ನೆನಪು|sc=Knda}}
 * Kazakh: {{t+|kk|ес|sc=Cyrl}}
 * Khmer: {{t+|km|សតិ|tr=sa’te’|sc=Khmr}}
@@ -144,6 +143,7 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Mirandese: {{t|mwl|mimória}}
 * Mongolian: {{t|mn|ой ухаан|sc=Cyrl}}
 * Nepali: {{t-needed|ne}}
+* Norman: {{t|nrf|mémouaithe|f}}
 * Norwegian: {{t|no|hukommelse|m}}, {{t+|no|minne|n}}
 * Novial: {{t-needed|nov}}
 * Occitan: {{t+|oc|memòria|f}}
@@ -161,7 +161,9 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Russian: {{t+|ru|па́мять|f}}
 * Scots: {{t-needed|sco}}
 * Scottish Gaelic: {{t|gd|cuimhne|f}}
-* Serbo-Croatian: {{t|sh|памћење|n}}, {{t+|sh|pȃmćēnje|n}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|памћење|n}}
+*: Roman: {{t+|sh|pȃmćēnje|n}}
 * Shor: {{t|cjs|эс|tr=es|sc=Cyrl}}
 * Sindhi: {{t-needed|sd}}
 * Sinhalese: {{t|si|මතක|sc=Sinh}}
@@ -173,7 +175,7 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Tajik: {{t|tg|ёд|sc=Cyrl}}, {{t|tg|зеҳн|sc=Cyrl}}, {{t+|tg|хотир|sc=Cyrl}}
 * Tamil: {{t+|ta|ஞாபகம்|sc=Taml}}
 * Telugu: {{t+|te|జ్ఞాపకము|sc=Telu}}
-* Thai: {{t+|th|ความจำ|tr=kwaam-jam}}, {{t|th|ความทรงจำ|tr=kwaam-song-jam}}
+* Thai: {{t+|th|ความจำ}}, {{t|th|ความทรงจำ}}
 * Turkish: {{t+|tr|hafıza}}, {{t+|tr|bellek}}, {{t+|tr|hatır}}
 * Turkmen: {{t|tk|hakyda}}, {{t|tk|huş}}, {{t|tk|ýadygär}}, {{t|tk|ýat}}, {{t|tk|ýatlama}}
 * Ukrainian: {{t|uk|па́м'ять|f|sc=Cyrl}}
@@ -193,7 +195,7 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Catalan: {{t+|ca|record|m}}
 * Chinese:
 *: Cantonese: {{t|yue|記憶|sc=Hani}}, {{t|yue|记忆|tr=gei3 jik1|sc=Hani}}
-*: Mandarin: {{t+|cmn|記憶|sc=Hani}}, {{t+|cmn|记忆|tr=jìyì|sc=Hani}}, {{t-check|cmn|記性|sc=Hani}}, {{t+check|cmn|记性|tr=jìxing|sc=Hani}}
+*: Mandarin: {{t+|cmn|記憶|sc=Hani}}, {{t+|cmn|记忆|tr=jìyì|sc=Hani}}, {{t+|cmn|記性|sc=Hani}}, {{t+|cmn|记性|tr=jìxing|sc=Hani}}
 * Czech: {{t+|cs|vzpomínka|f}}
 * Dutch: {{t+|nl|herinnering|f}}
 * Esperanto: {{t|eo|memoro}}
@@ -202,7 +204,7 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Galician: {{t+|gl|memoria|f}}
 * German: {{t+|de|Erinnerung|f}}
 * Greek: {{t+|el|ανάμνηση|f}}, {{t+|el|θύμηση|f}}, {{t+|el|μνήμη|f}}
-* Hebrew: {{t+|he|זכרון|m|tr=zikarón}}
+* Hebrew: {{t+|he|זכרון|m|tr=zikarón|alt=זיכרון \ זִכָּרוֹן}}
 * Hungarian: {{t+|hu|emlék}}
 * Italian: {{t+|it|memoria|f}}
 * Japanese: {{t+|ja|記憶|tr=きおく, kioku}}
@@ -217,7 +219,9 @@ From {{etyl|xno|en}} {{m|fro|memorie}}, {{etyl|fro|en}} {{m|fro|memoire}} etc., 
 * Romanian: {{t+|ro|amintire|f}}
 * Russian: {{t+|ru|воспомина́ние|n}}
 * Scottish Gaelic: {{t|gd|cuimhne|f}}
-* Serbo-Croatian: {{t+|sh|sjećanje|n}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|памћење|n}}
+*: Roman: {{t+|sh|pȃmćēnje|n}}
 * Slovak: {{t|sk|spomienka|f}}
 * Slovene: {{t+|sl|spomin|m}}
 * Spanish: {{t+|es|memoria|f}}, {{t+|es|recuerdo|m}}
