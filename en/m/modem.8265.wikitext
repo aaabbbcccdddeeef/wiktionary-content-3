@@ -25,35 +25,34 @@
 * Arabic: {{t|ar|مُودِم|m}}, {{t|ar|مُودِم|m|tr=modem}}
 * Armenian: {{t|hy|մոդեմ}}
 * Azeri: {{t|az|modem}}
-* Belarusian: {{t|be|мадэ́м|m|sc=Cyrl}}
-* Bengali: {{t|bn|মডেম|tr=môḑem|sc=Beng}}
-* Bulgarian: {{t|bg|модем|m|sc=Cyrl}}
+* Belarusian: {{t|be|мадэ́м|m}}
+* Bengali: {{t|bn|মডেম}}
+* Bulgarian: {{t|bg|модем|m}}
 * Burmese: {{t-needed|my}}
 * Catalan: {{t+|ca|mòdem|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|調制解調器|sc=Hani}}, {{t|cmn|调制解调器|tr=tiáozhìjiětiáoqì|sc=Hani}}
+*: Mandarin: {{t+|cmn|調制解調器}}, {{t|cmn|调制解调器|tr=tiáozhìjiětiáoqì}}
 * Czech: {{t+|cs|modem|m}}
 * Dutch: {{t+|nl|modem|m|n}}
 * Esperanto: {{t|eo|modemo}}
 * Estonian: {{t+|et|modem}}
 * Finnish: {{t+|fi|modeemi}}
 * French: {{t+|fr|modem|m}}
-* Georgian: {{t|ka|მოდემი|sc=Geor}}
+* Georgian: {{t|ka|მოდემი}}
 * German: {{t+|de|Modem|n}}
-* Greek: {{t+|el|διαποδιαμορφωτής|m}}, {{t|el|μοντέμ|sc=Grek}}
+* Greek: {{t+|el|διαποδιαμορφωτής|m}}, {{t|el|μοντέμ}}
 * Hebrew: {{t+|he|מוֹדֶם|m|tr=módem}}
-* Hindi: {{t|hi|मॉडेम|tr=mŏḍēm}}
+* Hindi: {{t|hi|मॉडेम}}
 * Hungarian: {{t+|hu|modem}}
 * Indonesian: {{t+|id|modem}}
 * Italian: {{t+|it|modem|m}}
 * Japanese: {{t+|ja|モデム|tr=modemu}}
-* Norman: {{t|nrf|modem|m}}
-* Kazakh: {{t|kk|модем|sc=Cyrl}}
-* Khmer: {{t+|km|ម៉ូដឹម|tr=moodəm|sc=Khmr}}
+* Kazakh: {{t|kk|модем}}
+* Khmer: {{t+|km|ម៉ូដឹម|tr=moodəm}}
 {{trans-mid}}
-* Korean: {{t|ko|모뎀|sc=Hang}}
-* Kyrgyz: {{t|ky|модем|sc=Cyrl}}
-* Lao: {{t|lo|ໂມເດັມ|sc=Laoo}}
+* Korean: {{t|ko|모뎀}}
+* Kyrgyz: {{t|ky|модем}}
+* Lao: {{t|lo|ໂມເດັມ}}
 * Latvian: {{t|lv|modems|m}}
 * Lithuanian: {{t|lt|modemas|m}}
 * Low German:
@@ -61,26 +60,27 @@
 * Macedonian: {{t|mk|мо́дем|m}}
 * Malay: {{t+|ms|modem}}
 * Maori: {{t|mi|pouwhanga}}
-* Mongolian: {{t|mn|модем|sc=Cyrl}}
-* Persian: {{t+|fa|مودم|tr=mōdem|sc=fa-Arab}}
+* Mongolian: {{t|mn|модем}}
+* Norman: {{t|nrf|modem|m}} {{qualifier|Jersey}}
+* Persian: {{t+|fa|مودم|tr=mōdem}}
 * Polish: {{t+|pl|modem|m}}
 * Portuguese: {{t+|pt|modem|m}}
 * Romanian: {{t+|ro|modem|n}}
 * Russian: {{t+|ru|моде́м|m|tr=modɛ́m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|модем|m}}
-*: Roman: {{t+|sh|modem|m}}
+*: Cyrillic: {{t|sh|мо̀де̄м|m}}
+*: Roman: {{t+|sh|mòdēm|m}}
 * Slovak: {{t|sk|modem|m}}
 * Slovene: {{t+|sl|modem|m}}
 * Spanish: {{t+|es|módem|m}}
 * Swedish: {{t|sv|modem|n}}
-* Tajik: {{t|tg|модем|sc=Cyrl}}
-* Tatar: {{t|tt|модем|sc=Cyrl}}
+* Tajik: {{t|tg|модем}}
+* Tatar: {{t|tt|модем}}
 * Thai: {{t|th|โมเด็ม|tr=moh-dem}}
 * Turkish: {{t+|tr|modem}}
 * Turkmen: {{t|tk|modem}}
-* Ukrainian: {{t|uk|моде́м|m|sc=Cyrl}}
-* Urdu: {{t|ur|موڈیم|tr=moḍem|sc=ur-Arab}}
+* Ukrainian: {{t|uk|моде́м|m}}
+* Urdu: {{t|ur|موڈیم|tr=moḍem}}
 * Uzbek: {{t|uz|modem}}
 * Vietnamese: {{t+|vi|modem}}, {{t|vi|bộ điều giải}}
 * West Frisian: {{t|fy|modem}}, {{t|fy|oerset}}
@@ -105,12 +105,12 @@
 
 ==Dutch==
 
+===Etymology===
+{{bor|nl|en|modem}}.
+
 ===Pronunciation===
 * {{IPA|/ˈmoːdəm/|/ˈmoːdɛm/|lang=nl}}
 * {{audio|Nl-modem.ogg|Audio|lang=nl}}
-
-===Etymology===
-{{der|nl|en|modem}}
 
 ===Noun===
 {{nl-noun|m|g2=n|-s|modempje}}
@@ -122,7 +122,7 @@
 ==French==
 
 ===Etymology===
-{{etyl|en|fr}} {{m|fr|modem}}
+{{bor|fr|en|modem}}.
 
 ===Pronunciation===
 * {{IPA|/modˈɛm/|lang=fr}}
@@ -137,7 +137,7 @@
 ==Hungarian==
 
 ===Etymology===
-From {{etyl|en|hu}} {{m|en|modem}}. <ref>{{R:TotfalusiEty 2005}}</ref>
+{{bor|hu|en|modem}}. <ref>{{R:TotfalusiEty 2005}}</ref>
 
 ===Pronunciation===
 * {{hu-IPA}}
@@ -159,7 +159,7 @@ From {{etyl|en|hu}} {{m|en|modem}}. <ref>{{R:TotfalusiEty 2005}}</ref>
 ==Norman==
 
 ===Etymology===
-{{borrowing|nrf|en|modem}}.
+{{bor|nrf|en|modem}}.
 
 ===Noun===
 {{nrf-noun|m}}
@@ -169,6 +169,9 @@ From {{etyl|en|hu}} {{m|en|modem}}. <ref>{{R:TotfalusiEty 2005}}</ref>
 ----
 
 ==Polish==
+
+===Etymology===
+{{bor|pl|en|modem}}.
 
 ===Pronunciation===
 * {{IPA|/ˈmɔd̪ɛm/|lang=pl}}
@@ -198,7 +201,7 @@ From {{etyl|en|hu}} {{m|en|modem}}. <ref>{{R:TotfalusiEty 2005}}</ref>
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|en|pt}} {{m|en|modem}}.
+{{bor|pt|en|modem}}.
 
 ===Pronunciation===
 * {{a|Brazil}} {{IPA|/ˈmo.dẽj̃/|lang=pt}}
@@ -213,7 +216,7 @@ From {{etyl|en|pt}} {{m|en|modem}}.
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{etyl|en|sh}} {{m|en|modem}}.
+{{bor|sh|en|modem}}.
 
 ===Pronunciation===
 * {{IPA|/mǒdeːm/|lang=sh}}
@@ -250,10 +253,10 @@ From {{etyl|en|sh}} {{m|en|modem}}.
 ==Swedish==
 
 ===Etymology===
-{{etyl|en|sv}} {{m|en|modem}}
+{{bor|sv|en|modem}}.
 
 ===Noun===
-{{sv-noun|n}} (''plural'' '''modem''', ''definite singular'' '''[[modemet]]''', ''definite plural'' '''[[modemen]]''')
+{{head|sv|noun|g=n|plural|modem|definite singular|modemet|definite plural|modemen}}
 
 # {{l|en|modem}}
 
@@ -261,12 +264,12 @@ From {{etyl|en|sh}} {{m|en|modem}}.
 
 ==Vietnamese==
 
+===Etymology===
+{{bor|vi|en|modem}}.
+
 ===Pronunciation===
 * {{IPA|/ˈmodem/|lang=vi}}
 * Vietnamese transliteration: mô-đêm
-
-===Etymology===
-{{etyl|en|vi}} {{m|en|modem}}
 
 ===Noun===
 {{head|vi|noun|g=m}}
