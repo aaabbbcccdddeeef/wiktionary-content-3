@@ -23,8 +23,8 @@
 ====Translations====
 {{trans-top|articulated with the tongue near or touching the back of the alveolar ridge}}
 * Afrikaans: {{t|af|postalveolêr}}
-* Arabic: {{t|ar|لِثَوِيّ غَارِيّ|lit=alveolar palatal}}
-* Danish: {{t+|da|postalveolar}}
+* Arabic: {{t|ar|لِثَوِيّ غَارِيّ}}
+* Danish: {{t|da|postalveolær}}
 * Dutch: {{t|nl|postalveolair}}
 * German: {{t+|de|postalveolar}}
 * Italian: {{t|it|postalveolare}}
@@ -52,11 +52,27 @@
 ====Translations====
 {{trans-top|any sound articulated with the tongue near or touching the back of the alveolar ridge}}
 * Afrikaans: {{t|af|postalveolaar}}
+* Danish: {{t+|da|postalveolar|c}}
 * Dutch: {{t|nl|postalveolaar|c}}
 {{trans-mid}}
 * German: {{t+|de|Postalveolar|m}}, {{t|de|Postalveolarlaut|m}}
 * Polish {{t|pl|[[spółgłoska]] [[zadziąsłowy|zadziąsłowa]]|f}}, {{t|pl|[[spółgłoska]] [[postalweolarny|postalweolarna]]|f}}
 {{trans-bottom}}
+
+----
+
+==Danish==
+
+===Noun===
+{{da-noun|en|er}}
+
+# {{lb|da|phonetics}} {{l|en|postalveolar}}
+
+====Declension====
+{{da-decl|en|er}}
+
+====See also====
+* {{l|da|postalveolær}}
 
 [[da:postalveolar]]
 [[de:postalveolar]]
