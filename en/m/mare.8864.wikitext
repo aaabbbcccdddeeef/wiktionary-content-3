@@ -4,11 +4,11 @@
 ===Etymology 1===
 From {{inh|en|enm|mare}}, {{m|enm|mere}}, from {{inh|en|ang|mere}}, {{m|ang|miere|t=female horse, mare}}, from {{inh|en|gem-pro|*marhijō|t=female horse}}, from {{inh|en|ine-pro|*márkos}}, {{m|ine-pro|*marḱ-|t=horse}}. Cognate with {{cog|sco|mere}}, {{m|sco|meir}}, {{m|sco|mear|t=mare}}, {{cog|frr|mar|t=mare, horse}}, {{cog|fy|merje|t=mare}}, {{cog|nl|merrie|t=mare}}, {{cog|de|Mähre|t=decrepit old horse}}, {{cog|da|mær|t=mare}}, {{cog|sv|märr|t=mare}}, {{cog|is|meri|t=mare}}. Related also to {{cog|ang|mearh|t=male horse, steed}}.
 
-Alternative etymology cites derivation via {{inh|en|ang|mere}}, {{m|ang|miere}}, from {{inh|en|gem-pro|*marhijō}} (compare {{cog|nl|merrie}}, {{cog|de|Mähre}}), from {{m|gem-pro|*marhaz|t=horse}} (compare {{cog|ang|mearh}}), from {{der|en|cel-gau|markos}} (compare {{cog|cy|march}}), from {{cog|ira-pro|*marikas}} (compare {{cog|peo|tr=marikas|t=male, manly}}), from {{m|ira-pro|*maryas}} (compare {{cog|ae|tr=mairya|t=man; male animal}}); akin to {{cog|sa|tr=máryas|t=young man; stallion}}. More at [[marry]].
+Alternative etymology cites derivation via {{inh|en|ang|mere}}, {{m|ang|miere}}, from {{inh|en|gem-pro|*marhijō}} (compare {{cog|nl|merrie}}, {{cog|de|Mähre}}), from {{m|gem-pro|*marhaz|t=horse}} (compare {{cog|ang|mearh}}), from {{der|en|cel-gau|markos}} (compare {{cog|cy|march}}), from {{cog|ira-pro|*marikas}} (compare {{cog|peo|tr=marikas|t=male, manly}}), from {{m|ira-pro|*maryas}} (compare {{cog|ae|tr=mairya|t=man; male animal}}); akin to {{cog|sa|मर्य|tr=márya|t=young man; stallion}}. More at [[marry]].
 
 ====Pronunciation====
-* {{a|British}} {{IPA|/mɛə/|lang=en}}
-* {{a|US}} {{IPA|/ˈmɛɚ/|lang=en}}
+* {{a|RP}} {{IPA|/mɛə/|lang=en}}
+* {{a|GA}} {{IPA|/ˈmɛɹ/|lang=en}}
 * {{audio|en-us-mare.ogg|Audio (US)|lang=en}}
 * {{homophones|lang=en|mayor}} {{qualifier|in many dialects}}
 [[Category:English 1-syllable words]]
@@ -169,7 +169,7 @@ From {{inh|en|ang|mare}}, from {{inh|en|ang|mare||nightmare, monster}}, from {{i
 {{trans-bottom}}
 
 ===Etymology 3===
-From {{etyl|la|en}} {{m|la|mare||sea}}.
+{{bor|en|la|mare||sea}}.
 
 ====Pronunciation====
 * {{IPA|/ˈmɑːreɪ/|/ˈmeːri/|/ˈmɑːri/|lang=en}}
@@ -340,7 +340,7 @@ Related to {{m|nl|nachtmerrie||nightmare}}, a compound in which the latter compo
 ==French==
 
 ===Etymology===
-From {{inh|fr|frm|mare}}, from {{inh|fr|fro|mare}}, from {{der|fr|non|marr||lake, sea, pool}}, from {{der|fr|gem-pro|*mari||lake, sea}}, from {{der|fr|ine-pro|*mari-}}, {{m|ine-pro|*mori-||marsh, lake, sea}}. Akin to {{cog|goh|meri}} {{gloss|"lake, sea"; > {{etyl|de|-}} {{m|de|Meer}}}}, {{cog|osx|meri}}, {{cog|ang|mere}} {{gloss|"pond, pool, mere"; > {{etyl|en|-}} {{m|en|mere}}}}. More at {{l|en|mere}}.
+From {{inh|fr|frm|mare}}, from {{inh|fr|fro|mare}}, from {{der|fr|non|marr||lake, sea, pool}}, from {{der|fr|gem-pro|*mari||lake, sea}}, from {{der|fr|ine-pro|*mari-}}, {{m|ine-pro|*mori-||marsh, lake, sea}}. Akin to {{cog|goh|meri||lake, sea}} ({{cog|de|Meer}}), {{cog|osx|meri}}, {{cog|ang|mere||pond, pool, mere}} ({{cog|en|mere}}}}. More at {{l|en|mere}}.
 
 ===Pronunciation===
 * {{IPA|/mɑʁ/|lang=fr}}
@@ -379,7 +379,7 @@ From {{inh|ist|la|mare}}.
 * {{l|ist|alto mare}}
 
 ===Etymology 2===
-From {{etyl|la|ist}} {{m|la|mater}}, ''matrem''.
+From {{inh|ist|la|māter}}.
 
 ===Noun===
 {{head|ist|noun|g=f}}
@@ -674,7 +674,7 @@ From {{inh|vec|la|māter|māter, mātrem}}. Compare Italian {{m|it|madre}}
 {{wikipedia|lang=zza}}
 
 ===Etymology===
-From {{etyl|ar|zza}} {{m|ar|مارا}}.
+{{bor|zza|ar|مارا}}.
 
 ===Noun===
 {{zza-noun|g=mf}}
