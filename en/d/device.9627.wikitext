@@ -98,7 +98,7 @@
 * Czech: {{t+|cs|zařízení|n}}
 * Dutch: {{t+|nl|toestel}}, {{t+|nl|apparaat}}
 * Esperanto: {{t|eo|aparato}}
-* Finnish: {{t+|fi|laite}}
+* Finnish: {{t+|fi|laite}}, {{t|fi|kone}}
 * French: {{t+|fr|appareil|m}}
 * Galician: {{t+|gl|aparello|m}}
 * Georgian: {{t|ka|მექანიზმი|sc=Geor}}, {{t|ka|მოწყობილობა|sc=Geor}}
@@ -132,10 +132,12 @@
 * Ukrainian: {{t+|uk|пристрі́й|m}}
 {{trans-bottom}}
 
+{{trans-see|computing|peripheral device}}
+
 {{trans-top|project, stratagem, artifice}}
 * Bulgarian: {{t+|bg|план|m}}, {{t+|bg|прое́кт|m}}
 * Esperanto: {{t|eo|intrigo}}
-* Finnish: {{t+|fi|suunnitelma}}, {{t+|fi|juoni}}
+* Finnish: {{t+|fi|suunnitelma}}, {{t+|fi|juoni}} {{qualifier|scheme}}; {{t|fi|väline}}, {{t|fi|apuväline}} {{qualifier|artifice}}
 * French: {{t+|fr|stratagème|m}}, {{t+|fr|ruse|f}}, {{t+|fr|manœuvre|f}}, {{t+|fr|artifice|m}}
 * German: {{t+|de|Instrument|n}}, {{t+|de|Kunstgriff|m}}, {{t+|de|Vorrichtung|f}}, {{t+|de|Einrichtung|f}}, {{t+|de|Hilfsmittel|n}}
 * Greek: {{t+|el|τέχνασμα|n}}
@@ -149,24 +151,16 @@
 * Swedish: {{t+|sv|plan|c}}, {{t+|sv|föresats|c}}, {{t+|sv|knep|n}}
 {{trans-bottom}}
 
-{{trans-top|rhetorical device}}
-* Finnish: {{t|fi|tehokeino}}
-* German: {{t+|de|Hilfsmittel|n}}
-* Greek: {{t+|el|μεταφορά|f}}
-* Hebrew: {{t+|he|אמצעי רטורי|m|tr=emca'í retóri|sc=Hebr}}
-* Hungarian: {{t+|hu|eszköz}}, {{t+|hu|mód}}
-* Italian: {{t+|it|procedimento|m}}
+{{trans-top|improvised explosive device}}
+* Finnish: {{t|fi|[[omatekoinen]] [[pommi]]}}
 {{trans-mid}}
-* Macedonian: {{t|mk|фигу́ра|f|sc=Cyrl}}, {{t|mk|сре́дство|n|sc=Cyrl}}
-* Mongolian: {{t+|mn|хэрэглүүр|sc=Cyrl}}
-* Portuguese: {{t+|pt|dispositivo|m}}
-* Russian: {{t+|ru|приём|m}}, {{t+|ru|фигу́ра|f}}, {{t+|ru|сре́дство|n}}
-* Swedish: {{t+|sv|retorisk figur|c}}
 {{trans-bottom}}
+
+{{trans-see|rhetoric: device|rhetorical device}}
 
 {{trans-top|heraldry: personal motto or emblem}}
 * Bulgarian: {{t+|bg|девиз|m}}
-* Finnish: {{t+|fi|tunnus}}
+* Finnish: {{t+|fi|tunnus}}; {{l|fi|tunnuskuvio}} {{qualifier|emblem}}; {{t|fi|tunnuslause}} {{qualifier|motto}}
 * German: {{t+|de|Motto|n}}, {{t+|de|Emblem|n}}, {{t+|de|Devise|f}}
 * Italian: {{t+|it|emblema|m}}, {{t|it|coccarda|f}}, {{t+|it|motto|m}}, {{t|it|inscrizione|f}}
 {{trans-mid}}
@@ -176,12 +170,12 @@
 * Swedish: {{t+|sv|devis|c}}
 {{trans-bottom}}
 
-{{trans-top|obsolete: power of devising}}
+{{trans-top|power of devising; invention; contrivance}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|law: image used in whole or part as a trademark or service mark}}
-* Finnish: {{t+|fi|tunnusmerkki}}
+* Finnish: {{t+|fi|tunnusmerkki}}, {{t|fi|tunnus}}
 * German: {{t+|de|Emblem|n}}, {{t+|de|Marke|f}}
 {{trans-mid}}
 * Greek: {{t+|el|έμβλημα|n}}
@@ -189,6 +183,7 @@
 {{trans-bottom}}
 
 {{trans-top|printing: image denoting authority or provenience}}
+* Finnish: {{t|fi|tunnus}}, {{t|fi|merkintä}}
 {{trans-mid}}
 {{trans-bottom}}
 
