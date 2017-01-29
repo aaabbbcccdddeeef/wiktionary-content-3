@@ -20,10 +20,25 @@ From {{prefix|down|load|lang=en}}.
 #: ''I got the '''download''' but it wouldn't work on my computer.''
 
 ====Derived terms====
-* {{l|en|DL}} , [[dl]] , [[d/l]] , [[D/L]] {{qualifier|abbreviation}}
+* {{l|en|DL}}, [[dl]], [[d/l]], [[D/L]] {{qualifier|abbreviation}}
 
 ====Antonyms====
 * {{l|en|upload}}
+
+====Descendants====
+{{des-top}}
+* Bengali: {{l|bn|ডাউনলোড|tr=ḑa'unloḑ}}
+* Dutch: {{l|nl|download}}
+* German: {{l|de|Download}}
+* Hindi: {{l|hi|डाउनलोड}}
+* Italian: {{l|it|download}}
+{{des-mid}}
+* Japanese: {{l|ja|ダウンロード|tr=daunrōdo}}
+* Korean: {{l|ko|다운로드}}
+* Lao: {{l|lo|ດາວໂຫຼດ}}
+* Portuguese: {{l|pt|download}}
+* Urdu: {{l|ur|ڈاؤنلوڈ|tr=ḍā'unloḍ}}
+{{des-bottom}}
 
 ====Translations====
 {{trans-top|file transfer to the local computer}}
@@ -94,13 +109,19 @@ From {{prefix|down|load|lang=en}}.
 * {{l|en|move}}
 * {{l|en|take}}
 * {{l|en|transfer}}
-* {{l|en|DL}} , [[dl]] , [[d/l]] , [[D/L]] {{qualifier|abbreviation}}
+* {{l|en|DL}}, [[dl]], [[d/l]], [[D/L]] {{qualifier|abbreviation}}
 
 ====Antonyms====
 * {{l|en|upload}}
 
 ====Derived terms====
 * {{l|en|downloader}}
+
+===Descendants===
+* Dutch: {{l|nl|downloaden}}
+* German: {{l|de|downloaden}}
+* Lao: {{l|lo|ດາວໂຫຼດ}}
+* Thai: {{l|th|ดาวน์โหลด|tr=daao-lòot}}
 
 ====Translations====
 {{trans-top|to transfer data from a remote computer to a local one}}
@@ -165,15 +186,6 @@ From {{prefix|down|load|lang=en}}.
 * Korean: {{t-check|ko|내려받다|sc=Kore}}
 {{trans-bottom}}
 
-===Descendants===
-* Bengali: {{l|bn|ডাউনলোড|tr=ḑa'unloḑ}}
-* Japanese: {{l|ja|ダウンロード|tr=daunrōdo}}
-* Hindi: {{l|hi|डाउनलोड}}
-* Korean: {{l|ko|다운로드|tr=daunnodeu}}
-* Lao: {{l|lo|ດາວໂຫຼດ}}
-* Thai: {{l|th|ดาวน์โหลด|tr=daao-lòot}}
-* Urdu: {{l|ur|ڈاؤنلوڈ|tr=ḍā'unloḍ}}
-
 ===Anagrams===
 * {{l|en|woodland}}
 
@@ -185,16 +197,19 @@ From {{prefix|down|load|lang=en}}.
 
 ==Dutch==
 
+===Etymology===
+{{bor|nl|en|download}}.
+
 ===Pronunciation===
 * {{audio|Nl-download.ogg|Audio|lang=nl}}
 
 ===Noun===
-'''download''' {{g|m}}
+{{head|nl|noun|g=m}}
 
-# A {{l|en|download}}.
+# {{l|en|download}}
 
 ====Related terms====
-* [[downloaden]]
+* {{l|nl|downloaden}}
 
 ===Verb===
 {{nl-verb-form}}
@@ -208,6 +223,9 @@ From {{prefix|down|load|lang=en}}.
 
 ==Italian==
 
+===Etymology===
+{{bor|it|en|download}}.
+
 ===Noun===
 {{head|it|noun|g=m|invariable}}
 
@@ -216,6 +234,9 @@ From {{prefix|down|load|lang=en}}.
 ----
 
 ==Portuguese==
+
+===Etymology===
+{{bor|pt|en|download}}.
 
 ===Noun===
 {{pt-noun|m|s}}
