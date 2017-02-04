@@ -39,7 +39,7 @@
 ====Translations====
 {{trans-top|make tea or coffee}}
 * Chinese: 
-*: Mandarin: {{t-needed|cmn}}
+*: Mandarin: {{t+|cmn|沏|tr=qī}}, {{t+|cmn|泡|tr=pào}}, {{t+|cmn|煮|tr=zhǔ}}, {{t+|cmn|沖}}, {{t+|cmn|冲|tr=chōng}}
 {{trans-mid}}
 * Finnish: {{t-needed|fi}}
 * Spanish: {{t-needed|es}}
@@ -47,7 +47,7 @@
 
 {{trans-top|make a hot soup}}
 * Chinese: 
-*: Mandarin: {{t-needed|cmn}}
+*: Mandarin: {{t+|cmn|煮|tr=zhǔ}}
 {{trans-mid}}
 * Finnish: {{t-needed|fi}}
 * Spanish: {{t-needed|es}}
@@ -55,7 +55,7 @@
 
 {{trans-top|make beer}}
 * Chinese: 
-*: Mandarin: {{t-needed|cmn}}
+*: Mandarin: {{t+|cmn|釀造}}, {{t+|cmn|酿造|tr=niàngzào}}, {{t|cmn|釀製}}, {{t|cmn|酿制|tr=niàngzhì}}
 {{trans-mid}}
 * Finnish: {{t-needed|fi}}
 * Spanish: {{t-needed|es}}
@@ -63,7 +63,7 @@
 
 {{trans-top|contrive; plot}}
 * Chinese: 
-*: Mandarin: {{t-needed|cmn}}
+*: Mandarin: {{t+|cmn|圖謀}}, {{t+|cmn|图谋|tr=túmóu}}, {{t+|cmn|密謀}}, {{t+|cmn|密谋|tr=mìmóu}}
 {{trans-mid}}
 * Finnish: {{t-needed|fi}}
 * Spanish: {{t-needed|es}}
@@ -71,7 +71,7 @@
 
 {{trans-top|go through the process of brewing}}
 * Chinese: 
-*: Mandarin: {{t-needed|cmn}}
+*: Mandarin: {{t+|cmn|釀造}}, {{t+|cmn|酿造|tr=niàngzào}}, {{t|cmn|釀製}}, {{t|cmn|酿制|tr=niàngzhì}}
 {{trans-mid}}
 * Finnish: {{t-needed|fi}}
 * Spanish: {{t-needed|es}}
@@ -80,10 +80,10 @@
 {{trans-top|(of an unwelcome event) be in a state of preparation}}
 * Bulgarian: {{t+|bg|приготвям}}
 * Chinese: 
-*: Mandarin: {{t-needed|cmn}}
+*: Mandarin: {{t+|cmn|[[在]][[醞釀]][[之]][[中]]}}, {{t+|cmn|[[在]][[酝酿]][[之]][[中]]|tr=zài yùnniàng zhī zhōng}}
 * Finnish: {{t+|fi|valmistella}}, {{t|fi|olla tekeillä}}
-* German: {{t-check|de|zusammenbrauen|alt=sich zusammenbrauen}}
 {{trans-mid}}
+* German: {{t-check|de|zusammenbrauen|alt=sich zusammenbrauen}}
 * Russian: {{t+|ru|назрева́ть|impf}} {{qualifier|figurative}}
 * Spanish: {{t+|es|hirviendo}}, {{t+|es|fermentando}}
 * Swahili: {{t+|sw|chebuka}}
@@ -122,11 +122,14 @@
 
 ====Translations====
 {{trans-top|something brewed}}
+* Chinese:
+*: Mandarin: {{t+|cmn|[[釀製]][[飲料]]}}, {{t+|cmn|[[酿制]][[饮料]]|tr=niàngzhì yǐnliào}}
 * Dutch: {{t+|nl|brouwsel|n}}
+* Finnish: {{t-needed|fi}}
+{{trans-mid}}
 * French: {{t+|fr|breuvage|m}}
 * Russian: {{t+|ru|ва́рево|n}}
 * Spanish: {{t+|es|destilado|m}}
-{{trans-mid}}
 * Swahili: {{t+|sw|chebuka}}
 * Swedish: {{t+|sv|brygd|c}}
 {{trans-bottom}}
