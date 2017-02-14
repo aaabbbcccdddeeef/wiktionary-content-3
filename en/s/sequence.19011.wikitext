@@ -1,6 +1,6 @@
 {{also|séquence|séquencé}}
 ==English==
-{{wikipedia}}
+
 
 ===Etymology===
 From {{etyl|enm|en}} {{m|enm|sequence}}, from {{etyl|fro|en}} {{m|fr|sequence||a sequence of cards, answering verses}}, from {{etyl|LL.|en}} {{m|la|sequentia||a following}}, from {{etyl|la|en}} {{m|la|sequens||following}}, from {{m|la|sequi||to follow}}; see {{m|en|sequent}}.
@@ -33,25 +33,32 @@ From {{etyl|enm|en}} {{m|enm|sequence}}, from {{etyl|fro|en}} {{m|fr|sequence||a
 ====Usage notes====
 * {{sense|mathematics}} Beginning students often confuse {{m|en||sequence}} with {{m|en|series}}.
 
-====Related terms====
-* {{l|en|et seq}}
-* {{l|en|nolle prosequi}}
-* {{l|en|non sequitur}}
-* {{l|en|persecute}}
+====Hyponyms====
 * {{l|en|presequence}} <!--noun-->
-* {{l|en|prosecute}}
-* {{l|en|segue}}
-* {{l|en|sequel}}
-* {{l|en|sequela}}
+
+====Derived terms====
+* {{l|en|main-sequence}}
 * {{l|en|sequenceless}}
-* {{l|en|sequent}}
-* {{l|en|sequential}}
 * {{l|en|sequencer}}
-* {{l|en|sequinator}}<!--possibly a protein-sequencing device?-->
-* {{l|en|suant}}
-* {{l|en|sue}}
-* {{l|en|suit}}
-* {{l|en|suite}}
+
+====Related terms====
+{{rel4|
+| {{l|en|et seq}}
+| {{l|en|nolle prosequi}}
+| {{l|en|non sequitur}}
+| {{l|en|persecute}}
+| {{l|en|prosecute}}
+| {{l|en|segue}}
+| {{l|en|sequel}}
+| {{l|en|sequela}}
+| {{l|en|sequent}}
+| {{l|en|sequential}}
+| {{l|en|sequinator}}<!--possibly a protein-sequencing device?-->
+| {{l|en|suant}}
+| {{l|en|sue}}
+| {{l|en|suit}}
+| {{l|en|suite}}
+}}
 
 ====Translations====
 {{trans-top|set of things in a set order}}
@@ -150,8 +157,12 @@ From {{etyl|enm|en}} {{m|enm|sequence}}, from {{etyl|fro|en}} {{m|fr|sequence||a
 {{checktrans-top}}
 * {{ttbc|cmn}}: [[序列]] (xù liè)
 * {{ttbc|la}}: [[sequentia]], -ae {{g|f}}
+{{checktrans-mid}}
 * Slovak: {{t-check|sk|postupnosť|f}}
-{{trans-bottom}}
+{{checktrans-bottom}}
+
+===References===
+* {{pedia}}
 
 ===Verb===
 {{en-verb|sequences|sequencing|sequenced}}
