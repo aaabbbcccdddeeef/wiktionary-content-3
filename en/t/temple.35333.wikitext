@@ -80,8 +80,8 @@ From {{etyl|enm|en}} {{m|enm|temple}}, from {{etyl|ang|en}} {{m|en|templ}}, from
 * Greek: {{t+|el|ναός|m}}
 * Gujarati: {{t|gu|મંદિર|n|tr=ma.ndir}}
 * Hawaiian: {{t|haw|heiau}}
-* Hebrew: {{t+|he|מִקְדָּשׁ|m|tr=miqdash|sc=Hebr}}
-* Hindi: {{t+|hi|मन्दिर|m|tr=mandir|sc=Deva}}, {{t+|hi|मठ|m|tr=maṭh|sc=Deva}}
+* Hebrew: {{t+|he|מִקְדָּשׁ|m|tr=mikdásh|sc=Hebr}}
+* Hindi: {{t+|hi|मन्दिर|m|sc=Deva}}, {{t+|hi|मठ|m|sc=Deva}}
 * Hungarian: {{t+|hu|szentély}}, {{t+|hu|templom}}
 * Icelandic: {{t+|is|musteri|n}}, {{t+|is|hof|n}}
 * Ido: {{t+|io|templo}}
@@ -89,11 +89,10 @@ From {{etyl|enm|en}} {{m|enm|temple}}, from {{etyl|ang|en}} {{m|en|templ}}, from
 * Isan: {{t-needed|tts}}
 * Italian: {{t+|it|tempio|m}}
 * Japanese: {{t+|ja|神殿|tr=しんでん, shinden|sc=Jpan}}, ''Buddhist temple:'' {{t|ja|堂塔|tr=どうとう, dōtō|sc=Jpan}}, {{t+|ja|寺|tr=てら, tera|sc=Jpan}}, {{t|ja|寺院|tr=じいん, jiin}}, {{qualifier|Shinto shrine}} {{t+|ja|神社|tr=じんじゃ, jinja}}
-* Norman: {{t|nrf|templ'ye|m}}
 * Kannada: {{t+|kn|ದೇವಸ್ಥಾನ|sc=Knda}}
 * Kazakh: {{t|kk|ғыйбадатһана|sc=Cyrl}}
 * Khmer: {{t+|km|វត្ត|tr=voat|sc=Khmr}}, {{t|km|ទេវាល័យ|sc=Khmr|tr=teivieleay}}, {{t+|km|ប្រាសាទ|sc=Khmr|tr=praasaat}}
-* Korean: {{t+|ko|절|sc=Kore}}, {{t+|ko|사찰|sc=Kore}}<!--unsure what to make of this bit: ([[寺刹]], sachal)-->
+* Korean: {{t+|ko|절|sc=Kore}}, {{t+|ko|사찰|sc=Kore}} ({{t|ko|寺刹}})
 * Kurdish:
 *: Sorani: {{t|ku|په‌رستگا|sc=ku-Arab}}
 * Kyrgyz: {{t|ky|ибадаткана|sc=Cyrl}}
@@ -109,6 +108,7 @@ From {{etyl|enm|en}} {{m|enm|temple}}, from {{etyl|ang|en}} {{m|en|templ}}, from
 * Maltese: {{t|mt|tempju|m}}, {{t|mt|maqdes|m}}
 * Maori: {{t|mi|temepara}}
 * Mongolian: {{t+|mn|сүм|sc=Cyrl}}, {{t|mn|сүм дуган|sc=Talu}}, {{t+|mn|дуган|sc=Talu}}
+* Norman: {{t|nrf|templ'ye|m}}
 * Norwegian:
 *: Bokmål: {{t+|no|tempel|n}}
 *: Nynorsk: {{t|nn|tempel|n}}
@@ -118,8 +118,8 @@ From {{etyl|enm|en}} {{m|enm|temple}}, from {{etyl|ang|en}} {{m|en|templ}}, from
 * Portuguese: {{t+|pt|templo|m}}
 * Romani: {{t|rom|khangeri|f}}
 * Romanian: {{t+|ro|templu|n}}
-* Russian: {{t+|ru|храм|m}}, {{t|ru|ме́сто богослужения}}
-* Sanskrit: {{t+|sa|देवालय|tr=dēvālaya|sc=Deva}}, {{t+|sa|मठ|m|tr=maṭh|sc=Deva}}
+* Russian: {{t+|ru|храм|m}}, {{t|ru|[[ме́сто]] [[богослужение|богослуже́ния]]|n}}
+* Sanskrit: {{t+|sa|देवालय|sc=Deva}}, {{t+|sa|मठ|m|sc=Deva}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|храм|m|sc=Cyrl}}, {{t|sh|богомоља|f|sc=Cyrl}}
 *: Roman: {{t+|sh|hram|m}}, {{t+|sh|bogomolja|f}}
@@ -131,7 +131,7 @@ From {{etyl|enm|en}} {{m|enm|temple}}, from {{etyl|ang|en}} {{m|en|templ}}, from
 * Swedish: {{t+|sv|tempel|n}}
 * Tamil: {{t+|ta|கோயில்|sc=Taml}}, {{t+|ta|தேவளம்|sc=Taml}}, {{t+|ta|தேவாலயம்|sc=Taml}}
 * Telugu: {{t+|te|కోవెల|sc=Telu}}, {{t+|te|ఆలయము|sc=Telu}}, {{t+|te|గుడి|sc=Telu}}, {{t+|te|దేవళము|sc=Telu}}
-* Thai: {{t+|th|วัด|tr=wát|sc=Thai}}
+* Thai: {{t+|th|วัด|sc=Thai}}
 * Tibetan: {{t|bo|ལྷ་ཁང|sc=Tibt}}
 * Turkish: {{t+|tr|tapınak}}, {{t+|tr|toplak}}, {{t+|tr|ibadethane}} {{qualifier|archaic}}, {{t+|tr|mabet}}
 * Ukrainian: {{t+|uk|храм|m|sc=Cyrl}}
