@@ -1,6 +1,5 @@
 {{also|Group}}
 ==English==
-{{wikipedia|dab=group}}
 
 ===Alternative forms===
 * {{l|en|groupe}} {{qualifier|obsolete}}
@@ -52,13 +51,37 @@ From {{etyl|fr|en}} {{m|fr|groupe||cluster, group}}, from {{etyl|it|en}} {{m|it|
 * {{sense|in group theory}} {{l|en|monoid}}
 
 ====Hyponyms====
-{{hyp4|[[Abelian group]]|[[encounter group]]|[[factor group]]<!--mathematics-->|[[free group]]<!--mathematics-->|[[fundamental group]]|[[general linear group]]<!--mathematics-->|[[girl group]]|[[kinematic group]]<!--astronomy-->|[[Lie group]]|[[Local Group]]<!--astronomy-->|[[minority group]]|[[moving group]]<!--astronomy-->|[[p-group|''p''-group]]|[[pop group]]<!--music-->|[[quotient group]]<!--mathematics-->|[[simple group]]<!--mathematics-->|[[subgroup]]}}
+{{hyp4
+| {{l|en|Abelian group}}
+| {{l|en|encounter group}}
+| {{l|en|factor group}}<!--mathematics-->
+| {{l|en|free group}}<!--mathematics-->
+| {{l|en|fundamental group}}
+| {{l|en|general linear group}}<!--mathematics-->
+| {{l|en|girl group}}
+| {{l|en|kinematic group}}<!--astronomy-->
+| {{l|en|Lie group}}
+| {{l|en|Local Group}}<!--astronomy-->
+| {{l|en|minority group}}
+| {{l|en|moving group}}<!--astronomy-->
+| {{l|en|p-group|''p''-group}}
+| {{l|en|pop group}}<!--music-->
+| {{l|en|quotient group}}<!--mathematics-->
+| {{l|en|simple group}}<!--mathematics-->
+| {{l|en|subgroup}}
+}}
 
 ====Derived terms====
 * {{l|en|subgroup}}
 
 ====Related terms====
-{{rel4||[[group homomorphism]]<!--mathematics-->|[[group isomorphism]]<!--mathematics-->|[[group leader]]|[[group representation]]<!--mathematics-->|[[group theory]]<!--mathematics-->}}
+{{rel4
+| {{l|en|group homomorphism}}<!--mathematics-->
+| {{l|en|group isomorphism}}<!--mathematics-->
+| {{l|en|group leader}}
+| {{l|en|group representation}}<!--mathematics-->
+| {{l|en|group theory}}<!--mathematics-->
+}}
 
 ====Translations====
 {{trans-top|number of things or persons being in some relation to each other}}
@@ -279,6 +302,9 @@ From {{etyl|fr|en}} {{m|fr|groupe||cluster, group}}, from {{etyl|it|en}} {{m|it|
 {{trans-mid}}
 * Swedish: {{t+|sv|grupp|c}}
 {{trans-bottom}}
+
+====References====
+* {{pedia|dab=group}}
 
 ===Verb===
 {{en-verb}}
