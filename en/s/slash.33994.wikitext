@@ -3,6 +3,7 @@
 ===Pronunciation===
 * {{a|UK}} {{IPA|/slaʃ/|lang=en}}
 * {{a|US}} {{IPA|/slæʃ/|lang=en}}
+* {{hyphenation|slash|lang=en}}
 * {{rhymes|æʃ|lang=en}}
 
 ===Etymology 1===
@@ -41,9 +42,6 @@ Originally a verb of uncertain etymology. Possibly from {{der|en|fr|esclachier||
 #* '''2013''', Katherine Arcement, "Diary", ''London Review of Books'', vol. 35, no. 5:
 #*: Comments merely allow readers to proclaim themselves mortally offended by the content of a story, despite having been warned in large block letters of INCEST or '''SLASH''' (any kind of sex between two men or two women: the term originated with the Kirk/Spock pairing – it described the literal slash between their names).
 
-=====Hypernyms=====
-* {{sense|typographic mark}} {{l|en|fraction bar}} {{qualifier|in fractions}}; {{l|en|division sign}} {{qualifier|in division}}
-
 =====Synonyms=====
 * {{sense|deep cut}} {{l|en|gash}}
 * {{sense|typographic mark}} {{l|en|slash mark}}; {{l|en|solidus}} {{qualifier|formal name}}; {{l|en|stroke}} {{qualifier|chiefly UK}}; {{l|en|forward slash}}, {{l|en|forward stroke}}, {{l|en|foreslash}}, {{l|en|frontslash}}, {{l|en|front slash}} {{qualifier|sometimes proscribed}}; {{l|en|virgule}} {{qualifier|marking line breaks}}; {{l|en|shilling mark}} {{qualifier|UK|historical currency sign}}; {{l|en|slant}}s, {{l|en|slant line}}s {{qualifier|marking pronunciations}}; {{l|en|separatrix}} {{qualifier|proofreading mark}}; {{l|en|scratch comma}} {{qualifier|former use as a form of comma}}; {{l|en|oblique}}, {{l|en|oblique mark}}, {{l|en|oblique stroke}}, {{l|en|oblique dash}} {{qualifier|chiefly UK|dated}}; {{l|en|diagonal}}, {{l|en|diagonal mark}} {{qualifier|dated}}; {{l|en|virgula}} {{qualifier|obsolete}}; {{l|en|virgil}} {{qualifier|UK|obsolete}}; {{l|en|whack}} {{qualifier|improper}}; {{l|en|bar}} {{qualifier|improper|obsolete}}
@@ -52,11 +50,31 @@ Originally a verb of uncertain etymology. Possibly from {{der|en|fr|esclachier||
 =====Antonyms=====
 * {{l|en|backslash}}
 
-=====Derived terms=====
-{{der3|backslash|division slash|foreslash|forward slash|fraction slash|frontslash|front slash|slashable|slash area|slash fiction|slash fire|slash mark|slashy|lang=en}}
+=====Hypernyms=====
+* {{sense|typographic mark}} {{l|en|fraction bar}} {{qualifier|in fractions}}; {{l|en|division sign}} {{qualifier|in division}}
 
-=====See also=====
-{{punctuation}}
+=====Hyponyms=====
+{{hyp4
+| {{l|en|division slash}}
+| {{l|en|fraction slash}}
+}}
+
+=====Derived terms=====
+{{der4
+| {{l|en|backslash}}
+| {{l|en|foreslash}}
+| {{l|en|frontslash}}
+| {{l|en|slashable}}
+| {{l|en|slashy}}
+}}
+
+====Related terms====
+{{hyp4
+| {{l|en|slash area}}
+| {{l|en|slash fiction}}
+| {{l|en|slash fire}}
+| {{l|en|slash mark}}
+}}
 
 =====Translations=====
 {{trans-top|swift cut with a blade}}
@@ -114,9 +132,12 @@ Originally a verb of uncertain etymology. Possibly from {{der|en|fr|esclachier||
 {{checktrans-top}}
 * French: {{t-check|fr|entaille|f}} (3)
 * Japanese: {{t-check|ja|斬撃 (ざんげき)|tr=zangeki}}
-{{trans-mid}}
+{{checktrans-mid}}
 * Norman: {{t-check|nrf|slache|f}} {{qualifier|Jersey}}
-{{trans-bottom}}
+{{checktrans-bottom}}
+
+=====See also=====
+{{punctuation}}
 
 ====Verb====
 {{en-verb|es}}
@@ -145,10 +166,12 @@ Originally a verb of uncertain etymology. Possibly from {{der|en|fr|esclachier||
 * {{sense|to strike a whip}} {{l|en|crack}}
 
 =====Derived terms=====
-* {{l|en|slash down}}
-* {{l|en|slash off}}
-* {{l|en|slash out}}
-* {{l|en|slash pile}}
+{{der4
+| {{l|en|slash down}}
+| {{l|en|slash off}}
+| {{l|en|slash out}}
+| {{l|en|slash pile}}
+}}
 
 =====Translations=====
 {{trans-top|to make a broad cut with an edged weapon}}
