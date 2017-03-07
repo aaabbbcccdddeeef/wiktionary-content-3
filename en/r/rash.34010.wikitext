@@ -7,13 +7,13 @@
 * {{rhymes|æʃ|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|rash}}, {{m|enm|rasch||hasty, headstrong}}, from {{etyl|ang|en}} {{m|ang|*ræsc}} {{gloss|"rash"; found in derivatives: {{m|ang|ræscan||to move rapidly, flicker, flash, quiver, glitter}}, {{m|ang|ræscettan||to crackle, sparkle}}, etc.}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*raskaz}}, {{m|gem-pro|*raskuz}}, {{m|gem-pro|*raþskaz}}, {{m|gem-pro|*raþskuz||rash, rapid}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*ret-||to run, roll}}. Cognate with Dutch {{m|nl|rasch}}, {{m|nl|ras||rash, snell}}, Middle Low German {{m|gml|rasch||rash}}, German {{m|de|rasch||rash, swift}}, Swedish {{m|sv|rask||brisk, quick, rash}}, Icelandic {{m|is|röskur||strong, vigorous}}.
+From {{inh|en|enm|rash}}, {{m|enm|rasch|t=hasty, headstrong}}, from {{inh|en|ang|*ræsc}} {{gloss|"rash"; found in derivatives: {{m|ang|ræscan|t=to move rapidly, flicker, flash, quiver, glitter}}, {{m|ang|ræscettan|t=to crackle, sparkle}}, etc.}}, from {{inh|en|gem-pro|*raskaz}}, {{m|gem-pro|*raskuz}}, {{m|gem-pro|*raþskaz}}, {{m|gem-pro|*raþskuz|t=rash, rapid}}, from {{der|en|ine-pro|*ret-|t=to run, roll}}. Cognate with {{cog|nl|rasch}}, {{m|nl|ras|t=rash, snell}}, {{cog|gml|rasch|t=rash}}, {{cog|de|rasch|t=rash, swift}}, {{cog|sv|rask|t=brisk, quick, rash}}, {{cog|is|röskur|t=strong, vigorous}}.
 
 ====Adjective====
 {{en-adj|er}}
 
 # Acting too quickly without considering the risks and consequences; not [[careful]]; [[hasty]].
-#: '''''rash''' words spoken in the heat of debate''
+#: {{ux|en|'''rash''' words spoken in the heat of debate}}
 # So dry as to fall out of the [[ear]] with handling, as [[corn]].
 # {{lb|en|obsolete}} Requiring sudden action; pressing; urgent.
 #* Shakespeare
@@ -61,28 +61,31 @@ From {{etyl|enm|en}} {{m|enm|rash}}, {{m|enm|rasch||hasty, headstrong}}, from {{
 
 # {{lb|en|symptom}} An area of reddened, irritated, and inflamed skin.
 # A [[surge]] in [[problem]]s; a [[spate]], [[string]] or [[trend]]
-#: ''There has been a '''rash''' of vandalism lately.''
+#: {{ux|en|There has been a '''rash''' of vandalism lately.}}
 
 =====Synonyms=====
 {{sense|A surge in problems}} [[epidemic]]
 
+=====Derived terms=====
+{{der4|canker rash|diaper rash|heat rash|[[hiker's rash|hiker’s rash]]|nappy rash|nettle rash|rashguard|rashie|rash vest|reef rash|rose rash|tooth rash|lang=en}}
+
 =====Translations=====
 {{trans-top|of skin}}
 * Chinese:
-*: Mandarin: {{t+|cmn|皮疹|tr=pízhěn|sc=Hani}}, {{t+|cmn|疹|tr=zhěn|sc=Hani}}
+*: Mandarin: {{t+|cmn|皮疹|tr=pízhěn}}, {{t+|cmn|疹|tr=zhěn}}
 * Czech: {{t+|cs|vyrážka|f}}
 * Dutch: {{t|nl|huiduitslag}}, {{t+|nl|uitslag}}
 * Finnish: {{t+|fi|ihottuma}}, {{t+|fi|ekseema}}
 * French: {{t+|fr|irritation|f}} (de la peau), {{t+|fr|éruption|f}}, {{t|fr|éruption cutanée|f}}
 * German: {{t+|de|Hautausschlag|m}}
-* Ido: [[iritar|iritifo]]
+* Ido: {{t|io|iritifo}}
 * Italian: {{t|it|sfogo cutaneo|m}}, {{t|it|eruzione cutanea|f}}
-* Japanese: {{t|ja|皮疹|tr=ひしん, hishin|sc=Jpan}}, {{t|ja|発疹|tr=はっしん, hasshin, ほっしん, hosshin|sc=Jpan}}
-* Norman: {{t|nrf|feu|m}}
-{{trans-mid}}
+* Japanese: {{t|ja|皮疹|tr=ひしん, hishin}}, {{t|ja|発疹|tr=はっしん, hasshin, ほっしん, hosshin}}
 * Luhya: {{t|luy|ohuseruha}}
+{{trans-mid}}
 * Maori: {{t|mi|tūtutupo}}, {{t|mi|kōpukupuku}}, {{t|mi|mahaki}}
-* Navajo: {{t|nv|naʼakǫs}}
+* Navajo: {{t|nv|naʼakǫs|sc=Latn}}
+* Norman: {{t|nrf|feu|m}} {{qualifier|Jersey}}
 * Norwegian: {{t|no|utslett|n}}
 * Polish: {{t+|pl|wysypka|f}}
 * Portuguese: {{t+|pt|erupção|f}}
@@ -103,9 +106,6 @@ From {{etyl|enm|en}} {{m|enm|rash}}, {{m|enm|rasch||hasty, headstrong}}, from {{
 * Spanish: {{t+|es|erupción|f}}
 * Swedish: {{t+|sv|våg|c}}, {{t+|sv|utbrott|n}}
 {{trans-bottom}}
-
-=====Derived terms=====
-{{der4|canker rash|diaper rash|heat rash|[[hiker's rash|hiker’s rash]]|nappy rash|nettle rash|rashguard|rashie|rash vest|reef rash|rose rash|tooth rash|lang=en}}
 
 =====See also=====
 * {{l|en|prudent}}
