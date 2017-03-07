@@ -15,7 +15,7 @@ From {{inh|en|enm|sense}}, from {{der|en|fro|[[sens]], [[sen]], [[san]]||sense, 
 * {{rhymes|ɛns|lang=en}}
 * {{homophones|lang=en|cents|scents|since}} {{qualifier|some dialects}}
 
- [[Category:English 1-syllable words]]
+[[Category:English 1-syllable words]]
 
 ===Noun===
 {{en-noun}}
@@ -51,29 +51,31 @@ From {{inh|en|enm|sense}}, from {{der|en|fro|[[sens]], [[sen]], [[san]]||sense, 
 # {{senseid|en|biochemistry}}{{lb|en|biochemistry}} referring to the strand of a nucleic acid that directly specifies the product.
 
 ====Hyponyms====
+{{hyp4
+| {{l|en|business sense}}
+| {{l|en|common sense}}
+| {{l|en|sense of humor}}
+| {{l|en|sense of humour}}
+| {{l|en|sixth sense}}
+| {{l|en|transferred sense}}
+}}
 * See also [[Wikisaurus:sense]]
 
 ====Derived terms====
-{{top3}}
-* {{l|en|business sense}}
-* {{l|en|come to one's senses}}
-* {{l|en|common sense}}
-{{mid3}}
-* {{l|en|sense of humor}}, {{l|en|sense of humour}}
-* {{l|en|sense organ}}
-* {{l|en|sixth sense}}
-{{mid3}}
-* {{l|en|transferred sense}}
-{{bottom}}
+* {{l|en|common-sense}}
 
 ====Related terms====
-* {{l|en|extrasensory}}
-* {{l|en|sensation}}
-* {{l|en|sensible}}
-* {{l|en|sensitive}}
-* {{l|en|sensor}}
-* {{l|en|sensual}}
-* {{l|en|sensuous}}
+{{rel4
+| {{l|en|come to one's senses}}
+| {{l|en|extrasensory}}
+| {{l|en|sense organ}}
+| {{l|en|sensation}}
+| {{l|en|sensible}}
+| {{l|en|sensitive}}
+| {{l|en|sensor}}
+| {{l|en|sensual}}
+| {{l|en|sensuous}}
+}}
 
 ====Translations====
 {{trans-top|method to gather data}}
@@ -341,23 +343,29 @@ From {{inh|en|enm|sense}}, from {{der|en|fro|[[sens]], [[sen]], [[san]]||sense, 
 
 {{checktrans-top}}
 * Mandarin: {{t+check|cmn|官能|tr=guānnèng|sc=Hani}}, {{t+check|cmn|感官|tr=gǎnguāng|sc=Hani}}, {{t+check|cmn|识别力|tr=shíbié lì|sc=Hani}}
-{{trans-bottom}}
+{{checktrans-mid}}
+{{checktrans-bottom}}
 
 ====See also====
-* [[audition]]
+{{top4}}
+* {{l|en|audition}}
 * {{l|en|equilibrioception}}
-* [[gustation]]
+* {{l|en|gustation}}
 * {{l|en|hearing}}
+{{mid4}}
 * {{l|en|nociception}}
-* [[olfaction]]
+* {{l|en|olfaction}}
 * {{l|en|proprioception}}
 * {{l|en|sight}}
+{{mid4}}
 * {{l|en|smell}}
-* [[tactition]]
+* {{l|en|tactition}}
 * {{l|en|taste}}
 * {{l|en|thermoception}}
+{{mid4}}
 * {{l|en|touch}}
-* [[vision]]
+* {{l|en|vision}}
+{{bottom}}
 
 ===Verb===
 {{en-verb|sens}}
@@ -413,9 +421,9 @@ From {{inh|en|enm|sense}}, from {{der|en|fro|[[sens]], [[sen]], [[san]]||sense, 
 
 {{checktrans-top}}
 * Latin: {{t-check|la|sentire}}
-{{trans-mid}}
+{{checktrans-mid}}
 * Italian: {{t+|it|sentire}}
-{{trans-bottom}}
+{{checktrans-bottom}}
 
 ===Statistics===
 * {{rank|cause|close|England|420|sense|ten|beautiful|possible}}
