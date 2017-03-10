@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|ja|en}} {{m|ja|先生|tr=sensei||teacher; elder}}, from {{etyl|ltc|en}} {{m|ltc|先生|tr=sen-ʂænɡ||master, elder}}, from {{m|ltc|先||earlier, first}} + {{m|ltc|生||born}}. Compare modern {{etyl|cmn|-}} {{zh-l|先生|tr=xiānshēng|Mr.}}
+{{bor|en|ja|先生|tr=sensei|t=teacher; elder}}, from {{der|en|ltc|先生|tr=sen-ʂænɡ|t=master, elder}}, from {{m|ltc|先|t=earlier, first}} + {{m|ltc|生|t=born}}. Compare modern {{cog|cmn|先生|tr=xiānshēng|t=Mr.}}
 
 ===Pronunciation===
 * {{IPA|/ˈsɛnseɪ/|lang=en}}
@@ -14,6 +14,9 @@ From {{etyl|ja|en}} {{m|ja|先生|tr=sensei||teacher; elder}}, from {{etyl|ltc|e
 # {{l|en|A [[martial arts]] instructor. Sensei of martial arts usually live and/or work at a [[dojo]] where they instruct their [[apprentices]]. A live-in apprentice is also called [[uchi-deshi]].}}
 # a Japanese (language) teacher.
 # a suffix attached to the name of a teacher (principally in translations from Japanese)
+
+====Synonyms====
+* {{sense|martial arts instructor}} {{l|en|[[sifu]], [[shifu]]}}
 
 ====Translations====
 {{trans-top|martial arts instructor}}
@@ -45,9 +48,6 @@ From {{etyl|ja|en}} {{m|ja|先生|tr=sensei||teacher; elder}}, from {{etyl|ltc|e
 * Russian: {{t+|ru|сэнсэ́й}}
 {{trans-bottom}}
 
-====Synonyms====
-* {{sense|martial arts instructor}} {{l|en|[[sifu]], [[shifu]]}}
-
 ===Anagrams===
 * {{l|en|Nessie}}
 * {{l|en|sees in}}
@@ -61,7 +61,7 @@ From {{etyl|ja|en}} {{m|ja|先生|tr=sensei||teacher; elder}}, from {{etyl|ltc|e
 ==French==
 
 ===Etymology===
-From {{etyl|ja|fr}} {{l|ja|先生|tr=せんせい ''sensei''}}.
+{{bor|fr|ja|先生|tr=せんせい ''sensei''}}.
 
 ===Noun===
 {{fr-noun|m}}
@@ -82,7 +82,7 @@ From {{etyl|ja|fr}} {{l|ja|先生|tr=せんせい ''sensei''}}.
 ==Palauan==
 
 ===Etymology===
-From {{etyl|ja|pau}} {{l|ja|先生|tr=せんせい ''sensei''}}.
+{{bor|pau|ja|先生|tr=せんせい ''sensei''}}.
 
 ===Noun===
 {{head|pau|noun}}
@@ -95,20 +95,23 @@ From {{etyl|ja|pau}} {{l|ja|先生|tr=せんせい ''sensei''}}.
 
 ==Portuguese==
 
+===Etymology===
+{{bor|pt|ja|先生|tr=sensei}}
+
 ===Noun===
 {{pt-noun|m}}
 
 # {{l|en|sensei}} {{gloss|martial arts instructor}}
 # {{l|en|sensei}} {{gloss|a Japanese teacher or master}}
 
-{{catlangcode|pt|Occupations}}
+{{topics|pt|Occupations}}
 
 ----
 
 ==Spanish==
 
 ===Etymology===
-From {{etyl|ja|es}} {{l|ja|先生|tr=せんせい ''sensei''}}.
+{{bor|es|ja|先生|tr=sensei}}
 
 ===Noun===
 {{es-noun|m}}
