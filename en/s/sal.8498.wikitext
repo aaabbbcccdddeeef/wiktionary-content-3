@@ -58,7 +58,7 @@ From {{etyl|nl|af}} {{m|nl|zal}}.
 {{wikipedia|lang=ast}}
 
 ===Etymology===
-From {{etyl|la|ast}} {{m|la|sāl}}, ''salem''.
+From {{inh|ast|la|sal|sāl, salem}}.
 
 ===Noun===
 {{ast-noun|m|sales}}
@@ -69,10 +69,16 @@ From {{etyl|la|ast}} {{m|la|sāl}}, ''salem''.
 
 ==Catalan==
 
+===Etymology===
+From {{inh|ca|pro|sal}}, from {{inh|ca|la|sal|sāl, salem}}, from {{der|ca|ine-pro|*seh₂l-}}.
+
 ===Noun===
 {{ca-noun|f}}
 
 # [[salt]]
+
+====Related terms====
+* {{l|ca|salar}}
 
 ----
 
@@ -118,7 +124,7 @@ From {{etyl|non|da}} {{m|non|salr}}, from {{etyl|gem-pro|da}} {{m|gem-pro|*saliz
 ==Franco-Provençal==
 
 ===Etymology===
-From {{etyl|la|frp}} {{m|la|sāl}}, ''salem''.
+From {{inh|frp|la|sal|sāl, salem}}.
 
 ===Noun===
 {{head|frp|noun|g=f}}
@@ -130,7 +136,7 @@ From {{etyl|la|frp}} {{m|la|sāl}}, ''salem''.
 ==Galician==
 
 ===Etymology===
-From {{etyl|la|gl}} {{m|la|sāl}}, ''salem''.
+From {{inh|gl|roa-opt|sal}}, from {{inh|gl|la|sal|sāl, salem}}.
 
 ===Noun===
 {{head|gl|noun|g=m}}
@@ -152,7 +158,7 @@ From {{etyl|la|gl}} {{m|la|sāl}}, ''salem''.
 ==Istriot==
 
 ===Etymology===
-From {{etyl|la|ist}} {{m|la|sāl}}, ''salem''.
+From {{inh|ist|la|sal|sāl, salem}}.
 
 ===Noun===
 {{head|ist|noun}}
@@ -343,7 +349,7 @@ From {{inh|ang|gem-pro|*sailą||rope}}. Cognate with Old Saxon {{m|osx|sēl}} (D
 ==Old Spanish==
 
 ===Etymology===
-From {{etyl|la|osp}} {{m|la|salem}}, accusative of {{m|la|sāl}}.
+From {{inh|osp|la|salem}}, accusative of {{m|la|sāl}}.
 
 ===Pronunciation===
 * {{IPA|[ˈsal]|lang=osp}}
@@ -375,7 +381,7 @@ From {{etyl|la|osp}} {{m|la|salem}}, accusative of {{m|la|sāl}}.
 * {{rhymes|aw|lang=pt}}
 
 ===Etymology 1===
-From {{etyl|roa-opt|pt}} {{m|roa-opt|sal}}, from {{etyl|la|pt}} {{m|la|sal|salem|salt, wit}}, from {{etyl|ine-pro|pt}} {{m|ine-pro|*seh₂l-||salt}}.
+From {{inh|pt|roa-opt|sal}}, from {{inh|pt|la|sal|sāl, salem|salt, wit}}, from {{der|pt|ine-pro|*seh₂l-||salt}}.
 
 ====Noun====
 {{pt-noun|m|sais}}
@@ -432,7 +438,7 @@ From {{etyl|roa-opt|pt}} {{m|roa-opt|sal}}, from {{etyl|la|pt}} {{m|la|sal|salem
 * {{IPA|[sal]|lang=ro}}
 
 ===Etymology 1===
-From {{etyl|tr|ro}} {{m|tr|şal}}, from {{etyl|fa|ro}} {{m|fa|شال|sc=fa-Arab|tr=šāl}}.
+{{bor|ro|tr|şal}}, from {{der|ro|fa|شال|sc=fa-Arab|tr=šāl}}.
 
 ====Noun====
 {{ro-noun|n|saluri}}
@@ -463,7 +469,7 @@ Shortened form of {{m|ro|salut}}.
 * {{qualifier|Puter}} {{l|rm|sel}}
 
 ===Etymology===
-From {{etyl|la|rm}} {{m|la|sāl}}, ''salem'', from {{etyl|ine-pro|rm}} {{m|ine-pro|*séh₂ls}}.
+From {{inh|rm|la|sal|sāl, salem}}., from {{der|rm|ine-pro|*séh₂ls}}.
 
 ===Noun===
 {{head|rm|noun|g=m}}
@@ -483,7 +489,7 @@ From {{etyl|la|rm}} {{m|la|sāl}}, ''salem'', from {{etyl|ine-pro|rm}} {{m|ine-p
 {{wikipedia|lang=es|Sal (química)}}
 
 ===Etymology 1===
-From {{etyl|osp|es}} {{m|osp|sal}}, from {{etyl|la|es}} {{m|la|sāl}} (compare {{cog|ca|sal}}, {{cog|fr|sel}}, {{cog|it|sale}}, {{cog|pt|sal}}, {{cog|ro|sare}}), from {{etyl|ine-pro|es}} {{m|ine-pro|*seh₂l-}}, a root shared by {{cog|en|salt}}.
+From {{inh|es|osp|sal}}, from {{inh|es|la|sal|sāl, salem}} (compare {{cog|ca|sal}}, {{cog|fr|sel}}, {{cog|it|sale}}, {{cog|pt|sal}}, {{cog|ro|sare}}), from {{der|es|ine-pro|*seh₂l-}}, a root shared by {{cog|en|salt}}.
 
 ====Noun====
 {{es-noun|f|es}}
@@ -497,10 +503,9 @@ From {{etyl|osp|es}} {{m|osp|sal}}, from {{etyl|la|es}} {{m|la|sāl}} (compare {
 =====Derived terms=====
 {{top3}}
 * {{l|es|agua salada|g=f}}
-* {{l|es|salar}} {{pos_v}}
 * {{l|es|sal común|g=f}}
-{{mid3}}
 * {{l|es|sal de mesa|g=f}}
+{{mid3}}
 * {{l|es|salero|g=m}}
 * {{l|es|salino}}
 {{mid3}}
@@ -509,9 +514,15 @@ From {{etyl|osp|es}} {{m|osp|sal}}, from {{etyl|la|es}} {{m|la|sāl}} (compare {
 {{bottom}}
 
 =====Related terms=====
+{{top2}}
+* {{l|es|salar}} {{pos_v}}
 * {{l|es|salado}}
+* {{l|es|ensalada}}
+{{mid2}}
 * {{l|es|salitre}}
+* {{l|es|salmuera}}
 * {{l|es|salso}}, {{l|es|salsa}}
+{{bottom}}
 
 ===Etymology 2===
 
@@ -568,7 +579,7 @@ From {{etyl|non|sv}} {{m|non|salr}}, from {{etyl|gem-pro|sv}} {{m|gem-pro|*sal
 * {{l|vec|sale}}
 
 ===Etymology===
-From {{etyl|la|vec}} {{m|la|sāl}}, ''salem''.
+From {{inh|vec|la|sal|sāl, salem}}.
 
 ===Noun===
 {{wikipedia|lang=vec}}
