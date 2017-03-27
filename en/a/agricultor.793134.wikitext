@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-{{etyl|la|en}} {{lena}}
+{{bor|en|la|agricultor}}
 
 ===Noun===
 {{en-noun}}
@@ -12,6 +12,9 @@
 
 ==Galician==
 
+===Etymology===
+{{rfe|gl|{{bor|gl|la|agricultor}}?}}
+
 ===Noun===
 {{gl-noun|m|agricultores}}
 
@@ -19,7 +22,52 @@
 
 ----
 
+==Latin==
+
+===Alternative forms===
+* {{alter|la|agrī cultor}}
+
+===Etymology===
+{{compound|la|agrī|cultor|t1=of the field|pos1=genitive singular of {{m|la|ager}}|t2=a cultivator}}
+
+===Pronunciation===
+* {{la-IPA}}
+
+===Noun===
+{{la-noun|agricultor|agricultōris|m|third}}
+
+# an {{l|en|agriculturist}}, a {{l|en|farmer}}, a {{l|en|husbandman}}
+
+====Declension====
+{{la-decl-3rd|agricultor|agricultōr}}
+
+====Synonyms====
+* {{sense|farmer}} {{l|la|agricola}}
+
+====Derived terms====
+* {{l|la|agricultōrius}} {{qual|New Latin}}
+
+====Descendants====
+{{col-top|2}}
+* English: {{l|en|agricultor}}
+* French: {{l|fr|agriculteur}}
+** Romanian: {{l|ro|agricultor}}
+* ?Galician: {{l|gl|agricultor}}
+* ?Portuguese: {{l|pt|agricultor}}
+* ?Spanish: {{l|es|agricultor}}
+{{col-bottom}}
+
+===References===
+* {{R:L&S|agrĭcultor|agricultor}}
+* {{R:Gaffiot|agrī cultŏr|agri_cultor|91/3}}
+* {{R:OLD|1|agricultor|91/1}}
+
+----
+
 ==Portuguese==
+
+===Etymology===
+{{rfe|pt|{{bor|pt|la|agricultor}}?}}
 
 ===Noun===
 {{pt-noun|m|es|agricultora|f=agricultora}}
@@ -75,6 +123,9 @@
 ----
 
 ==Spanish==
+
+===Etymology===
+{{rfe|es|{{bor|es|la|agricultor}}?}}
 
 ===Noun===
 {{es-noun|m|es|f=agricultora}}
