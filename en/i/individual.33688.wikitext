@@ -5,7 +5,7 @@
 * {{l|en|individuall}} {{qualifier|obsolete}}
 
 ===Etymology===
-From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuum||an indivisible thing}}, neuter of {{m|la|individuus||indivisible, undivided}}, from {{m|en|in}} + {{m|la|dividuus||divisible}}, from {{m|la|divido||divide}}.
+From {{der|en|ML.|indīviduālis}}, from {{der|en|la|individuum|t=an indivisible thing}}, neuter of {{m|la|individuus|t=indivisible, undivided}}, from {{m|la|in}} + {{m|la|dividuus|t=divisible}}, from {{m|la|divido|t=divide}}.
 
 ===Pronunciation===
 * {{IPA|/ˌɪndɪˈvɪd͡ʒuəl/|lang=en}}
@@ -33,7 +33,7 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 * Arabic: {{t+|ar|فَرْد|m}}
 * Catalan: {{t+|ca|individu|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|個體|sc=Hani}}, {{t+|cmn|个体|tr=gètǐ|sc=Hani}}, {{t+|cmn|個人|sc=Hani}}, {{t+|cmn|个人|tr=gèrén|sc=Hani}}, {{t+|cmn|私人|tr=sīrén|sc=Hani}}
+*: Mandarin: {{t+|cmn|個體}}, {{t+|cmn|个体|tr=gètǐ}}, {{t+|cmn|個人}}, {{t+|cmn|个人|tr=gèrén}}, {{t+|cmn|私人|tr=sīrén}}
 * Czech: {{t+|cs|jedinec|m}}, {{t|cs|jednotlivec|m}}
 * Dutch: {{t+|nl|enkeling|m}}, {{t+|nl|individu|n}}
 * Esperanto: {{t|eo|unuopulo}}
@@ -41,11 +41,11 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 * French: {{t+|fr|individu|m}}
 * Galician: {{t+|gl|individuo|m}}
 * German: {{t+|de|Individuum|n}}
-* Hindi: {{t+|hi|व्यक्ति|m|tr=vyakti}}
+* Hindi: {{t+|hi|व्यक्ति|m}}
 * Ido: {{t+|io|individuo}}
 * Italian: {{t+|it|individuo}}
-* Japanese: {{t+|ja|個人|tr=こじん, kojin|sc=Jpan}}, {{t|ja|個体|tr=こたい, kotai|sc=Jpan}}, {{t+|ja|私人|tr=しじん, shijin|sc=Jpan}}
-* Korean: {{t+|ko|개인|sc=Kore}}
+* Japanese: {{t+|ja|個人|tr=こじん, kojin}}, {{t|ja|個体|tr=こたい, kotai}}, {{t+|ja|私人|tr=しじん, shijin}}
+* Korean: {{t+|ko|개인}}
 {{trans-mid}}
 * Malay: {{t|ms|individu}}
 * Maori: {{t|mi|tangata}}
@@ -53,11 +53,12 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 * Norwegian:
 *: Bokmål: {{t+|nb|individ|n}}, {{t|nb|enkeltperson|m}}
 *: Nynorsk: {{t|nn|individ|n}}, {{t|nn|enkeltperson|m}}
-* Persian: {{t+|fa|فرد|tr=fard|sc=fa-Arab}}
+* Persian: {{t+|fa|فرد|tr=fard}}
 * Portuguese: {{t+|pt|indivíduo|m}}
 * Romanian: {{t+|ro|individ}}
 * Russian: {{t+|ru|индиви́дуум|m}}, {{t+|ru|лицо́|n}}, {{t+|ru|ли́чность|f}}, {{t+|ru|осо́ба|f}}, {{t+|ru|индиви́д|m}}
-* Serbo-Croatian: {{t+|sh|pojedinac|m}}, {{t|sh|pojedinka|f}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|pojedínac|m}}, {{t|sh|pojedinka|f}}
 * Slovene: {{t+|sl|posameznik|m}}, {{t|sl|posameznica|f}}
 * Spanish: {{t+|es|individuo|m}}
 * Swedish: {{t+|sv|individ|c}}, {{t+|sv|enskild|c}}
@@ -67,11 +68,11 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 
 {{trans-top|single human as legal subject}}
 * Finnish: {{t+|fi|henkilö}}, {{t+|fi|luonnollinen henkilö}}
-* Japanese: {{t+|ja|個人|tr=こじん, kojin|sc=Jpan}}
-{{trans-mid}}
+* Japanese: {{t+|ja|個人|tr=こじん, kojin}}
 * Norwegian:
 *: Bokmål: {{t|nb|enkeltperson|m}}
 *: Nynorsk: {{t|nn|enkeltperson|m}}
+{{trans-mid}}
 * Polish: {{t+|pl|osoba fizyczna|f}}
 * Russian: {{t+|ru|физи́ческое лицо́|n}}
 {{trans-bottom}}
@@ -128,7 +129,7 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 * Galician: {{t|gl|individual}}
 * German: {{t+|de|einzeln}}, {{t+|de|individuell}}
 * Japanese: {{t+|ja|個々|tr=ここの, koko-no|alt=個々の}}
-* Latin: {{t|la|individualis}}
+* Latin: {{t|la|indīviduālis}}
 {{trans-mid}}
 * Maori: {{t|mi|takitahi}}
 * Norman: {{t|nrf|îndividuel}} {{qualifier|Jersey}}
@@ -152,9 +153,9 @@ From {{etyl|ML.|en}} {{m|en|individualis}}, from {{etyl|la|en}} {{m|la|individuu
 * Finnish: {{t+|fi|yksilöllinen}}
 * Galician: {{t|gl|individual}}
 * German: {{t+|de|individuell}}
+{{trans-mid}}
 * Norwegian:
 *: Bokmål: {{t|nb|individuell}}
-{{trans-mid}}
 * Portuguese: {{t+|pt|individual}}
 * Romanian: {{t+|ro|individual}}
 * Russian: {{t+|ru|индивидуа́льный}}, {{t+|ru|персона́льный}}, {{t+|ru|ли́чный}}, {{t+|ru|ча́стный}}
