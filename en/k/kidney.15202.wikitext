@@ -66,7 +66,7 @@ Alternate etymology traces the first element to {{cog|ang|cēod}}, {{m|ang|codd|
 * Bashkir: {{t|ba|бөйөр}}
 * Basque: {{t+|eu|giltzurrun}}
 * Belarusian: {{t|be|ны́рка|f|sc=Cyrl}}
-* Bengali: {{t|bn|কিডনি|tr=kiḑni|sc=Beng}}, {{t|bn|বৃক্ক|tr=brikkô|sc=Beng}}, {{t+|bn|অন্ত্র|tr=ôntrô|sc=Beng}}
+* Bengali: {{t|bn|কিডনি|sc=Beng}}, {{t|bn|বৃক্ক|tr=brikkô|sc=Beng}}, {{t+|bn|অন্ত্র|tr=ôntrô|sc=Beng}}
 * Bulgarian: {{t+|bg|бъ́брек|m}}
 * Burmese: {{t+|my|ကျောက်ကပ်|sc=Mymr}}
 * Catalan: {{t+|ca|ronyó|m}}
@@ -90,11 +90,11 @@ Alternate etymology traces the first element to {{cog|ang|cēod}}, {{m|ang|codd|
 * German: {{t+|de|Niere|f}}
 * Greek: {{t+|el|νεφρό|n}}, {{t+|el|νεφρός|m}}, {{t+|el|νεφρί|n}}
 *: Ancient: {{t|grc|νεφρός|m}}
-* Gujarati: {{t|gu|મુત્રપિંડ|tr=mutrapiṃḍ|sc=Gujr}}
+* Gujarati: {{t|gu|મુત્રપિંડ|sc=Gujr}}
 * Hausa: {{t-needed|ha}}
 * Hawaiian: {{t|haw|hakuʻala}}
-* Hebrew: {{t+|he|כליה|f|tr=kilya|sc=Hebr}}, {{t|he|כליות|f-p|tr=klayót|sc=Hebr}}
-* Hindi: {{t+|hi|गुर्दा|m|tr=gurdā|sc=Deva}}
+* Hebrew: {{t+|he|כִּלְיָה|f|tr=kilya|sc=Hebr}}, {{t|he|כליות|f-p|tr=klayót|sc=Hebr}}
+* Hindi: {{t+|hi|गुर्दा|m|sc=Deva}}
 * Hungarian: {{t+|hu|vese}}
 * Icelandic: {{t+|is|nýra|n}}
 * Ido: {{t+|io|reno}}
@@ -104,7 +104,6 @@ Alternate etymology traces the first element to {{cog|ang|cēod}}, {{m|ang|codd|
 * Irish: {{t+|ga|duán|m}}
 * Italian: {{t+|it|rene|m}}
 * Japanese: {{t+|ja|腎臓|tr=じんぞう, jinzō}}
-* Norman: {{t|nrf|rein|m}}
 * Kannada: {{t+|kn|ಮೂತ್ರಪಿಂಡ|sc=Knda}}
 * Kazakh: {{t+|kk|бүйрек|sc=Cyrl}}
 * Khmer: {{t|km|តម្រងមូត្រ|tr=tɑɑmrɔɔng moot|sc=Khmr}}
@@ -115,9 +114,9 @@ Alternate etymology traces the first element to {{cog|ang|cēod}}, {{m|ang|codd|
 * Lao: {{t|lo|ໄຕ|sc=Laoo}}
 * Latgalian: {{t|ltg|eiksts}}
 * Latin: {{t+|la|ren|m}}
-* Latvian: {{t|lv|niere}}, {{t|lv|īkstis|f-p}} {{qualifier|archaism}}
+* Latvian: {{t|lv|niere|f}}, {{t|lv|īkstis|f-p}} {{qualifier|archaism}}
 {{trans-mid}}
-* Lithuanian: {{t|lt|inkstas}}
+* Lithuanian: {{t|lt|inkstas|m}}
 * Luxembourgish: {{t+|lb|Nier|f}}
 * Lü: {{t-needed|khb}}
 * Macedonian: {{t|mk|бубрег|m|sc=Cyrl}}
@@ -125,12 +124,13 @@ Alternate etymology traces the first element to {{cog|ang|cēod}}, {{m|ang|codd|
 * Malayalam: {{t+|ml|വൃക്ക|sc=Mlym}}
 * Maltese: {{t|mt|kilwa|f}}
 * Maori: {{t|mi|tākihi}}, {{t|mi|whatukuhu}}, {{t|mi|whatumanawa}}
-* Marathi: {{t|mr|गुडदा|tr=guḍdā|sc=Deva}}
+* Marathi: {{t|mr|गुडदा|sc=Deva}}
 * Mirandese: {{t|mwl|renhon|m}}
 * Mizo: {{t|lus|kal}}
 * Mongolian: {{t+|mn|бөөр|sc=Cyrl}}
 * Navajo: {{t|nv|achą́ʼáshkʼazhí}}
-* Nepali: {{t|ne|मिर्गौलो|tr=mirgaulō|sc=Deva}}
+* Nepali: {{t|ne|मिर्गौलो|sc=Deva}}
+* Norman: {{t|nrf|rein|m}}
 * Norwegian:
 *: Bokmål: {{t+|nb|nyre|m|f|n}}
 *: Nynorsk: {{t|nn|nyre|f|n}}
@@ -170,7 +170,7 @@ Alternate etymology traces the first element to {{cog|ang|cēod}}, {{m|ang|codd|
 * Tamil: {{t+|ta|சிறுநீரகம்|sc=Taml}}
 * Tatar: {{t+|tt|бөер|sc=Cyrl}}
 * Telugu: {{t+|te|మూత్రపిండము|sc=Telu}}
-* Thai: {{t|th|ไต|tr=dtai|sc=Thai}}
+* Thai: {{t|th|ไต|sc=Thai}}
 * Tibetan: {{t|bo|མཁལ་རིལ|sc=Tibt}}
 * Turkish: {{t+|tr|böbrek}}
 * Turkmen: {{t+|tk|böwrek}}
