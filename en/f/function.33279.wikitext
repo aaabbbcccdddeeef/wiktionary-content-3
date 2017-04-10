@@ -19,26 +19,23 @@ From {{etyl|frm|en}} {{m|frm|function}}, from {{etyl|fro|en}} {{m|fr|fonction}},
 |title=[http://www.americanscientist.org/issues/feature/2013/3/rapid-evolution-in-eggs-and-sperm Rapid Evolution in Eggs and Sperm]
 |volume=101|issue=3|magazine={{w|American Scientist}}
 |passage=Many genes with reproductive roles also have antibacterial and immune '''functions''', which indicate that the threat of microbial attack on the sperm or egg may be a major influence on rapid evolution during reproduction.}}
+#: {{syn|en|aim|intention|purpose|role|use}}
 # A [[professional]] or [[official]] position.
+#: {{syn|en|occupation|office|part|role}}
 # {{senseid|en|official or social occasion}}An [[official]] or [[social]] [[occasion]].
+#: {{syn|en|affair|occasion|social occasion|social function}}
 # A relation where one thing is dependent on another for its existence, value, or significance.
 # {{lb|en|mathematics}} A relation in which each element of the [[domain]] is associated with exactly one element of the [[codomain]].
+#: {{syn|en|map|mapping|mathematical function|operator|transformation}}
+#: {{hyper|en|relation}}
 # {{lb|en|computing}} A [[routine]] that receives zero or more [[argument]]s and may return a result.
+#: {{syn|en|procedure|routine|subprogram|subroutine|func|funct}}
 # {{lb|en|biology}} The physiological activity of an organ or body part.
 # {{lb|en|chemistry}} The characteristic behavior of a chemical compound.
 # {{lb|en|anthropology}} The role of a social practice in the continued existence of the group.
 
-====Synonyms====
-* {{sense|what something does or is used for}} {{l|en|aim}}, {{l|en|intention}}, {{l|en|purpose}}, {{l|en|role}}, {{l|en|use}}
-* {{sense|professional or official position}} {{l|en|occupation}}, {{l|en|office}}, {{l|en|part}}, {{l|en|role}}
-* {{sense|official or social occasion}} {{l|en|affair}}, {{l|en|occasion}}, {{l|en|social occasion}}, {{l|en|social function}}
-* {{sense|analysis: many-to-one relation}} {{l|en|map}}, {{l|en|mapping}}, {{l|en|mathematical function}}, {{l|en|operator}}, {{l|en|transformation}}
-* {{sense|computing: routine that returns a result}} {{l|en|procedure}}, {{l|en|routine}}, {{l|en|subprogram}}, {{l|en|subroutine}}, {{l|en|func}}, {{l|en|funct}}
-
-====Hypernyms====
-* {{sense|mathematics}} {{l|en|relation}}
-
 ====Hyponyms====
+{{checksense|en}}
 * {{l|en|subfunction}}
 {{hyp4|title=astronomy: Hyponyms of "function"
 | {{l|en|luminosity function}}
@@ -511,14 +508,10 @@ the tables above.-->
 {{en-verb}}
 
 # {{lb|en|intransitive}} to have a function
+#: {{syn|en|officiate|serve}}
 # {{lb|en|intransitive}} to carry on a function; to be in action
-
-====Synonyms====
-* {{sense|to have a function}} {{l|en|officiate}}, {{l|en|serve}}
-* {{sense|to carry on a function}} {{l|en|go}}, {{l|en|operate}}, {{l|en|run}}, {{l|en|work}}
-
-====Antonyms====
-* {{sense|to carry on a function}} {{l|en|malfunction}}
+#: {{syn|en|go|operate|run|work}}
+#: {{ant|en|malfunction}}
 
 ====Related terms====
 * {{l|en|functional}}
