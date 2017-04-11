@@ -130,7 +130,7 @@ From {{etyl|enm|en}} {{m|enm|knowleche||knowledge}}, of uncertain formation. The
 * Belarusian: {{t|be|ве́данне|n|sc=Cyrl}}
 * Bulgarian: {{t+|bg|зна́ние|n|sc=Cyrl}}
 * Catalan: {{t+|ca|coneixement|m}}
-* Central Atlas Tamazight: {{t|tzm|ⵜⵓⵙⵙⵏⴰ|f|tr=tussna}}
+* Central Atlas Tamazight: {{t|tzm|ⵜⵓⵙⵙⵏⴰ|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|知識|sc=Hani}}, {{t+|cmn|知识|tr=zhīshi|sc=Hani}}
 * Crimean Tatar: {{t|crh|bilgi}}, {{t|crh|bilme}}
@@ -147,8 +147,8 @@ From {{etyl|enm|en}} {{m|enm|knowleche||knowledge}}, of uncertain formation. The
 * German: {{t+|de|Wissen|n}}, {{t+|de|Kenntnis|n}}
 * Greek: {{t+|el|γνώση|f}}
 * Hawaiian: {{t|haw|ʻike}}
-* Hebrew: {{t+|he|ידע|tr=yedah|sc=Hebr}}
-* Hindi: {{t+|hi|जान|tr=jān|sc=Deva}}, {{t+|hi|ज्ञान|tr=jñāna|sc=Deva}}, {{t+|hi|बुद्धि|tr=buddhi|sc=Deva}}
+* Hebrew: {{t+|he|יֶדַע|tr=yéda|sc=Hebr}}
+* Hindi: {{t+|hi|जान|f|sc=Deva}}, {{t+|hi|ज्ञान|m|sc=Deva}}, {{t+|hi|बुद्धि|f|sc=Deva}}
 * Hungarian: {{t+|hu|tudás}}, {{t+|hu|ismeret}}
 * Icelandic: {{t+|is|þekking|f}}
 * Interlingua: {{t|ia|cognoscentia}}
@@ -172,10 +172,12 @@ From {{etyl|enm|en}} {{m|enm|knowleche||knowledge}}, of uncertain formation. The
 * Quechua: {{t|qu|riqsiy}}
 * Romanian: {{t+|ro|cunoaștere|f}}, {{t+|ro|știre|f}}
 * Russian: {{t+|ru|зна́ние|n}}, {{t+|ru|осведомлённость|f}}
-* Sanskrit: {{t+|sa|ज्ञान|tr=jñāna|sc=Deva}}, {{t+|sa|बुद्धि|tr=buddhi|sc=Deva}}, {{t+|sa|विद्या|tr=vidyā|sc=Deva}}, {{t+|sa|बोध|tr=bōdha|sc=Deva}}
+* Sanskrit: {{t+|sa|ज्ञान|sc=Deva}}, {{t+|sa|बुद्धि|tr=buddhi|sc=Deva}}, {{t+|sa|विद्या|sc=Deva}}, {{t+|sa|बोध|sc=Deva}}
 * Scots: {{t|sco|kennin}}
 * Scottish Gaelic: {{t|gd|fios|m}}
-* Serbo-Croatian: {{t|sh|знање|n|alt=знáње}}, {{t+|sh|znánje|n}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|знáње|n}}
+*: Roman: {{t+|sh|znánje|n}}
 * Slovak: {{t|sk|znalosť|f}}
 * Slovene: {{t+|sl|znanje}}
 * Spanish: {{t+|es|conocimiento|m}}
@@ -185,7 +187,7 @@ From {{etyl|enm|en}} {{m|enm|knowleche||knowledge}}, of uncertain formation. The
 * Tagalog: {{qualifier|literally}} {{t|tl|karunungan|n}}
 * Tajik: {{t+|tg|дониш|sc=Cyrl}}, {{t+|tg|маърифат|sc=Cyrl}}
 * Tamil: {{t+|ta|அறிவு|sc=Taml}}
-* Telugu: {{t+|te|జ్ఞానము}}, {{t+|te|బోధ}} (bOdha)
+* Telugu: {{t+|te|జ్ఞానము}}, {{t+|te|బోధ}}
 * Tok Pisin: {{t|tpi|save}}
 * Turkish: {{t+|tr|bilim}}, {{t+|tr|marifet}}, {{t+|tr|bilgi}}
 * Ukrainian: {{t+|uk|знання́|n}}
@@ -226,7 +228,9 @@ From {{etyl|enm|en}} {{m|enm|knowleche||knowledge}}, of uncertain formation. The
 * Portuguese: {{t+|pt|conhecimento|m}}, {{t+|pt|ciência|f}}
 * Russian: {{t+|ru|зна́ние|n}}, {{t+|ru|осведомлённость|f}}
 * Scottish Gaelic: {{t|gd|fios|m}}
-* Serbo-Croatian: {{t|sh|знање|n|alt=знáње}}, {{t+|sh|znánje|n}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|знáње|n}}
+*: Roman: {{t+|sh|znánje|n}}
 * Spanish: {{t+|es|conocimiento|m}}
 * Swedish: {{t+|sv|kännedom|c}}
 * Tamil: {{t+|ta|விழிப்பு|sc=Taml}}, {{t+|ta|கவனம்|sc=Taml}}
@@ -285,7 +289,7 @@ From {{etyl|enm|en}} {{m|enm|knowleche||knowledge}}, of uncertain formation. The
 * Galician: {{t+check|gl|coñecemento|m}}
 * Georgian: {{t-check|ka|ცოდნა}}, {{t-check|ka|სწავლა}}
 * Hebrew: {{t-check|he|ידיעה|f|tr=yədi’ah|sc=Hebr}}
-* Hindi: {{t-check|hi|ज्ञान|m|tr=gyān|sc=Deva}}, {{t-check|hi|बोध|m|tr=bodh|sc=Deva}}, {{t-check|hi|बुद्धि|f|tr=buddhi|sc=Deva}}, {{t-check|hi|इल्म|m|tr=ilm|sc=Deva}}
+* Hindi: {{t-check|hi|ज्ञान|m|sc=Deva}}, {{t-check|hi|बोध|m|sc=Deva}}, {{t-check|hi|बुद्धि|f|sc=Deva}}, {{t-check|hi|इल्म|m|sc=Deva}}
 * Icelandic: {{t+check|is|þekking|f}}
 * Ido: {{t+check|io|konoco}}
 * Indonesian: {{t+check|id|pengetahuan}}
@@ -302,7 +306,7 @@ From {{etyl|enm|en}} {{m|enm|knowleche||knowledge}}, of uncertain formation. The
 * Slovene: {{t-check|sl|vednost|f}}, {{t+check|sl|znanje|n}}
 * Spanish: {{t+check|es|sabiduría|f}}, {{t+check|es|conocimiento|m}}
 * Telugu: {{t+check|te|తెలివి|sc=Telu}}
-* Thai: {{t+check|th|ความรู้|tr=kwaam róo|sc=Thai}}
+* Thai: {{t+check|th|ความรู้|sc=Thai}}
 * Turkish: {{t+check|tr|bilgi|n}}
 * Urdu: {{t+check|ur|علم|tr=ilm|m}}, {{t-check|ur|گیان|tr=gyān|m}}, {{t-check|ur|دانش|tr=dāniš|f}}, {{t+check|ur|معرفت|tr=ma'rifat|f}}, {{t-check|ur|بدھ|tr=buddhi|f}}, {{t-check|ur|بودھ|tr=bodh|m}}
 * Vietnamese: {{t+check|vi|kiến thức}}
