@@ -1,6 +1,5 @@
 {{also|Life}}
 ==English==
-{{wikipedia}}
 {{commons cat}}
 
 ===Etymology===
@@ -10,7 +9,9 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf||life, existence;
 * {{IPA|/laɪf/|lang=en}}, {{enPR|līf}}
 * {{audio|en-us-life.ogg|Audio (US)|lang=en}}
 * {{audio|En-uk-life.ogg|Audio (UK)|lang=en}}
+* {{hyphenation|life|lang=en}}
 * {{rhymes|aɪf|lang=en}}
+
 [[Category:English 1-syllable words]]
 
 ===Noun===
@@ -86,79 +87,89 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf||life, existence;
 * {{sense|biology}} {{l|en|coma}}
 * {{sense|philosophy}} {{l|en|void}}
 
+====Hyponyms====
+{{hyp4
+| {{l|en|afterlife}}
+| {{l|en|artificial life}}
+| {{l|en|biological life}}
+| {{l|en|daily life}}
+| {{l|en|dog's life}}
+| {{l|en|forelife}}
+| {{l|en|high life}}
+| {{l|en|human life}}
+| {{l|en|personal life}}
+| {{l|en|private life}}
+| {{l|en|public life}}
+| {{l|en|real life}}
+| {{l|en|social life}}
+| {{l|en|still life}}
+| {{l|en|thug life}}
+| {{l|en|working life}}
+| {{l|en|work life}}
+}}
+
 ====Derived terms====
-{{der3|lang=en
-|afterlife
-|all one's life's worth
-|artificial life
-|biological life
-|birdlife
-|daily life
-|dog's life
-|dreamlife
-|forelife
-|get a life
-|get life
-|give life
-|have the time of one's life
-|highlife
-|high life
-|human life
-|lifeboat
-|[[lifebuoy]], [[life-buoy]]
-|life coach
-|lifeday
-|life-force
-|life form
-|[[life goal]], [[lifegoal]]
-|life's a bitch
-|life insurance
-|life is like a box of chocolates
-|life is not all skittles and beer
-|[[life jacket]], [[lifejacket]]
-|lifeblood
-|lifelike
-|[[lifeline]], [[life line]], [[life-line]]
-|lifeness
-|life of Riley
-|life of the party
-|life plan
-|lifesaver
-|lifestyle
-|lifetime
-|life vest
-|lifework
-|lose one's life
-|love life
-|meaning of life
-|midlife
-|personal life
-|private life
-|public life
-|quality of life
-|real life
-|sealife
-|set for life
-|shelf life
-|social life
-|still life
-|this is the life
-|that's life
-|thug life
-|to save one's life
-|wildlife
-|working life
-|[[work life]], [[work-life]]
+{{der4
+| {{l|en|afterlife}}
+| {{l|en|birdlife}}
+| {{l|en|dreamlife}}
+| {{l|en|forelife}}
+| {{l|en|highlife}}
+| {{l|en|lifeboat}}
+| {{l|en|lifebuoy}}
+| {{l|en|life-buoy}}
+| {{l|en|lifeday}}
+| {{l|en|life-force}}
+| {{l|en|lifegoal}}
+| {{l|en|lifejacket}}
+| {{l|en|lifeblood}}
+| {{l|en|lifelike}}
+| {{l|en|lifeline}}
+| {{l|en|life-line}}
+| {{l|en|lifeness}}
+| {{l|en|lifesaver}}
+| {{l|en|lifestyle}}
+| {{l|en|lifetime}}
+| {{l|en|life vest}}
+| {{l|en|lifework}}
+| {{l|en|midlife}}
+| {{l|en|sealife}}
+| {{l|en|wildlife}}
+| {{l|en|work-life}}
 }}
 
 ====Related terms====
-{{rel-top3|Terms etymologically related to ''life''}}
-* {{l|en|live}}
-{{rel-mid3}}
-* {{l|en|alive}}
-{{rel-mid3}}
-* {{l|en|lively}}
-{{rel-bottom}}
+{{rel4|title=Terms etymologically related to ''life''
+| {{l|en|alive}}
+| {{l|en|all one's life's worth}}
+| {{l|en|get a life}}
+| {{l|en|get life}}
+| {{l|en|give life}}
+| {{l|en|have the time of one's life}}
+| {{l|en|life coach}}
+| {{l|en|life form}}
+| {{l|en|life goal}}
+| {{l|en|life insurance}}
+| {{l|en|life is like a box of chocolates}}
+| {{l|en|life is not all skittles and beer}}
+| {{l|en|life jacket}}
+| {{l|en|life line}}
+| {{l|en|life of Riley}}
+| {{l|en|life of the party}}
+| {{l|en|life plan}}
+| {{l|en|life's a bitch}}
+| {{l|en|live}}
+| {{l|en|lively}}
+| {{l|en|lose one's life}}
+| {{l|en|love life}}
+| {{l|en|meaning of life}}
+| {{l|en|quality of life}}
+| {{l|en|set for life}}
+| {{l|en|shelf life}}
+| {{l|en|that's life}}
+| {{l|en|this is the life}}
+| {{l|en|to save one's life}}
+}}
 
 ====Translations====
 {{trans-top|the state of being alive}}
@@ -559,6 +570,9 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf||life, existence;
 * Welsh: {{t+check|cy|bywyd|m}}
 * Estonian: {{t-check|et|eluks}}
 {{trans-bottom}}
+
+===References===
+* {{pedia}}
 
 ====External links====
 * {{w|Biological life}}
