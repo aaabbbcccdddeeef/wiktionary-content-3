@@ -1,36 +1,45 @@
 {{also|Romaji|rōmaji|Rōmaji}}
 ==English==
-{{wikipedia|lang=en}}
+{{wikipedia}}
 
 ===Alternative forms===
-* {{l|en|Romaji}}, {{l|en|Rōmaji}}, {{l|en|Roma-ji}}, {{l|en|Rōma-ji}}, {{l|en|roma-ji}}, {{l|en|rōmaji}}
-* {{l|en|romanji}} ''(nonstandard)''
+{{top3}}
+* {{l|en|Romaji}}
+* {{l|en|Rōmaji}}
+{{mid3}}
+* {{l|en|Roma-ji}}
+* {{l|en|Rōma-ji}}
+* {{l|en|roma-ji}}
+{{mid3}}
+* {{l|en|rōmaji}}
+* {{l|en|romanji}} {{qualifier|nonstandard}}
+{{bottom}}
 
 ===Etymology===
-From {{etyl|ja|en}} {{m|ja|ローマ字|sc=Jpan|tr=[[rōmaji]]||roman letters}}
+{{bor|en|ja|ローマ字|tr=Rōma-ji|lit=roman letters}}, from {{m|ja|ローマ|tr=Rōma||Rome, Roman}} + {{m|ja|字|tr=じ, ji||character, script}}.
 
 ===Pronunciation===
 * {{a|US}} {{IPA|/ˈɹoʊmədʒi/|lang=en}}
 
 ===Noun===
-{{en-noun|romaji}}
+{{en-noun|-}}
 
-# A representation of [[Japanese]] in [[Latin]] script.
-#: ''The '''romaji''' of the word'' ローマ字 ''is "rōmaji".''
+# {{def|A representation of [[Japanese]] in [[Latin]] script.}}
+#: {{ux|en|The '''romaji''' of the word ''{{lang|ja|ローマ字}}'' is “rōmaji”.}}
 
 ====Translations====
-{{trans-top|A representation of Japanese in Latin script}}
-* Arabic: {{t+|ar|رُومَاجِي|m|tr=rūmajī}}, {{t+|ar|رُومَاجِي|m|tr=romajī}}
+{{trans-top|representation of Japanese in Latin script}}
+* Arabic: {{t+|ar|رُومَاجِي|m|tr=rūmajī, romajī}}
 * Chinese:
-*: Mandarin: {{t+|cmn|羅馬字|sc=Hani}}, {{t+|cmn|罗马字|tr=Luómǎ-zì|sc=Hani}}
+*: Mandarin: {{t+|cmn|羅馬字}}, {{t+|cmn|罗马字|tr=Luómǎ-zì}}
 * Esperanto: {{t|eo|romaĵi}}
 * Finnish: {{t|fi|romaji}}
-* Hebrew: {{t|he|רומאג׳י|m|tr=romáji}}
+* Hebrew: {{t|he|רומאג׳י|m|tr=romají}}
 {{trans-mid}}
-* Japanese: {{t+|ja|ローマ字|tr=ろーまじ, Rōma-ji}}
-* Korean: {{t+|ko|로마자|tr=Romaja|sc=Hang}} ([[로마]] + [[字]])
-* Persian: {{t|fa|روماجی|tr=romāji|sc=fa-Arab}}
-* Portuguese: {{t+|pt|romaji|m}}, {{t+|pt|romanização|f}}
+* Japanese: {{t+|ja|ローマ字|tr=ローマじ, Rōma-ji}}
+* Korean: {{t+|ko|^로마자}}
+* Persian: {{t|fa|روماجی|tr=româji}}
+* Portuguese: {{t+|pt|romaji|m}}, {{t+|pt|rōmaji|m}} {{t+|pt|romanização|f}}
 * Russian: {{t+|ru|ро́мадзи|f}}
 * Vietnamese: {{t|vi|chữ cái Latinh}}, {{t+|vi|chữ Latinh}}
 {{trans-bottom}}
