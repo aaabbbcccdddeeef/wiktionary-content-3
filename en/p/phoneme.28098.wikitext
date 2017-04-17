@@ -2,7 +2,8 @@
 ==English==
 
 ===Etymology===
-From {{etyl|grc|en}} {{m|grc|φώνημα||sound}}, from {{m|grc|φωνέω||to sound}}, from {{m|grc|φωνή||sound}}.
+{{PIE root|en|bʰeh₂|id=speak}}
+From {{der|en|grc|φώνημα||sound}}, from {{m|grc|φωνέω||to sound}}, from {{m|grc|φωνή||sound}}.
 
 ===Pronunciation===
 * {{a|GA}} {{IPA|/ˈfoʊnim/|lang=en}}
@@ -24,38 +25,36 @@ From {{etyl|grc|en}} {{m|grc|φώνημα||sound}}, from {{m|grc|φωνέω||to 
 * {{l|en|phonemics}}
 
 ====Related terms====
-{{top3|Terms related to ''phoneme''}}
-* {{l|en|allophone}}
-* {{l|en|allophonic}}
-* {{l|en|allophonical}}
-* {{l|en|allophonically}}
-* {{l|en|allophonics}}
-* {{l|en|diaphone}}
-* {{l|en|diaphonic}}
-* {{l|en|diaphonical}}
-* {{l|en|diaphonically}}
-* {{l|en|diaphonics}}
-{{mid3}}
-* {{l|en|diaphonologic}}
-* {{l|en|diaphonological}}
-* {{l|en|diaphonologically}}
-* {{l|en|diaphonology}}
-* {{l|en|phone}}
-* {{l|en|phonetic}}
-* {{l|en|phonetical}}
-* {{l|en|phonetically}}
-* {{l|en|phonetics}}
-{{mid3}}
-* {{l|en|phonic}}
-* {{l|en|phonical}}
-* {{l|en|phonically}}
-* {{l|en|phonics}}
-* {{l|en|phonologic}}
-* {{l|en|phonological}}
-* {{l|en|phonologically}}
-* {{l|en|phonologist}}
-* {{l|en|phonology}}
-{{bottom}}
+{{rel3|lang=en
+|allophone
+|allophonic
+|allophonical
+|allophonically
+|allophonics
+|diaphone
+|diaphonic
+|diaphonical
+|diaphonically
+|diaphonics
+|diaphonologic
+|diaphonological
+|diaphonologically
+|diaphonology
+|phone
+|phonetic
+|phonetical
+|phonetically
+|phonetics
+|phonic
+|phonical
+|phonically
+|phonics
+|phonologic
+|phonological
+|phonologically
+|phonologist
+|phonology
+}}
 
 [[Category:en:Phonology]]
 
@@ -134,7 +133,6 @@ From {{etyl|grc|en}} {{m|grc|φώνημα||sound}}, from {{m|grc|φωνέω||to 
 
 ===Anagrams===
 * {{l|en|phenome}}
-[[Category:English terms derived from the PIE root *bʰeh₂- (speak)]]
 
 [[et:phoneme]]
 [[el:phoneme]]
