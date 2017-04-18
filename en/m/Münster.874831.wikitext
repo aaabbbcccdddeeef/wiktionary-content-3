@@ -56,9 +56,6 @@ From {{etyl|de|en}} {{l|de|Münster}}
 # {{l|en|Münster}} (city in [[North Rhine-Westphalia]], Germany)
 # {{lb|de|historical}} The prince-bishopric based in that city
 
-====Declension====
-{{rfinfl|de|proper noun}}
-
 ====Descendants====
 * English: {{l|en|Münster}}
 
@@ -70,6 +67,12 @@ From {{etyl|de|en}} {{l|de|Münster}}
 
 # [[minster]] {{gloss|monastic church}}
 
+====Declension====
+As a neuter noun:
+{{de-decl-noun-n|s}}
+As a masculine noun:
+{{de-decl-noun-m|s}}
+
 ====References====
 * {{R:Duden|Muenster_Kirche}}
 
@@ -79,7 +82,7 @@ From {{etyl|de|en}} {{l|de|Münster}}
 * {{pedia|lang=de|Münster (Westfalen)}}
 * {{pedia|lang=de|Hochstift Münster}}
 
-{{catlangcode|de|Architecture|Christianity|Cities}}
+{{C|de|Architecture|Christianity|Cities}}
 
 [[de:Münster]]
 [[fr:Münster]]
