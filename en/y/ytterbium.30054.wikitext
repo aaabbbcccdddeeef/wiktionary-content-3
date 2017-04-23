@@ -4,13 +4,18 @@
 {{elements|Yb|thulium|Tm|lutetium|Lu}}
 
 ===Etymology===
-[[File:Ytterbium-3.jpg|thumb|A sample of ytterbium]]
-[[File:Galissard de Marignac.jpg|thumb|A {{circa2|1850|short=yes}} photograph of Swiss chemist {{w|Jean Charles Galissard de Marignac}} (1817–1894), who discovered ytterbium in 1878]]
+{{multiple images
+|direction = vertical
+|image1    = Ytterbium-3.jpg
+|caption1  = A sample of ytterbium
+|image2    = Galissard de Marignac.jpg
+|caption2  = A {{circa2|1850|short=yes}} photograph of Swiss chemist {{w|Jean Charles Galissard de Marignac}} (1817–1894), who discovered ytterbium in 1878
+}}
 
-{{suffix|en|Ytterby|t1=a town in [[Sweden]]|ium}}.
+From {{suffix|en|Ytterby|t1=a town in [[Sweden]]|ium}}.
 
 ===Pronunciation===
-* {{a|RP}} {{IPA|/ɪˈtɜːɹbi.əm/|lang=en}}
+* {{a|RP}} {{IPA|/ɪˈtɜːɹ.bi.əm/|lang=en}}
 * {{hyphenation|yt|terb|ium|lang=en}}
 
 ===Noun===
@@ -21,29 +26,13 @@
 
 ====Synonyms====
 * {{l|en|aldebaranium}} {{qualifier|name proposed by Baron [[w:Carl Auer von Welsbach|Carl Auer von Welsbach]], one of the discoverers of ytterbium, but rejected}}
+* {{l|en|neoytterbia}} {{qualifier|former name}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|diytterbium trioxide}}
-* {{l|en|ytterbium oxide}}
-{{der-mid}}
-* {{l|en|ytterbium trichloride}}
-{{der-bottom}}
+{{der4|lang=en|diytterbium trioxide|ytterbia|ytterbic|ytterbium oxide|ytterbium trichloride}}
 
 ====Related terms====
-{{rel-top}}
-* {{l|en|erbium}}<!--same etymology-->
-* {{l|en|neoytterbia}}
-* {{l|en|terbium}}<!--same etymology-->
-* {{l|en|ytter}}
-* {{l|en|ytterbia}}
-{{rel-mid}}
-* {{l|en|ytterbic}}
-* {{l|en|ytterbite}}
-* {{l|en|ytterite}}
-* {{l|en|yttria}}
-* {{l|en|yttrium}}<!--same etymology-->
-{{rel-bottom}}
+{{rel4|lang=en|erbium<!--same etymology-->|terbium<!--same etymology-->|ytter|ytterbite|ytterite|yttria|yttrium<!--same etymology-->}}
 
 ====Translations====
 {{trans-top|chemical element}}
@@ -122,7 +111,7 @@
 * West Frisian: {{t|fy|ytterbium}}
 {{trans-bottom}}
 
-===External links===
+===Further reading===
 * {{pedia}}
 
 [[Category:en:Chemical elements]]
