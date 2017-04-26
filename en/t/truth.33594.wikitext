@@ -104,7 +104,7 @@ From {{etyl|enm|en}} {{m|enm|truthe}}, {{m|enm|trewthe}}, {{m|enm|treowthe}}, fr
 * Bulgarian: {{t+|bg|исти́на|f|sc=Cyrl}}
 * Burmese: {{t-needed|my}}
 * Catalan: {{t+|ca|veritat|f}}
-* Cherokee: {{t|chr|ᏚᏳᎪᏛ|tr=duyugodv|sc=Cher}}
+* Cherokee: {{t|chr|ᏚᏳᎪᏛ|sc=Cher}}
 * Chinese:
 *: Mandarin: {{t+|cmn|保真度|tr=bǎozhēndù|sc=Hani}}
 * Czech: {{t+|cs|pravda|f}}, {{t|cs|věrnost|f}}
@@ -124,7 +124,7 @@ From {{etyl|enm|en}} {{m|enm|truthe}}, {{m|enm|trewthe}}, {{m|enm|treowthe}}, fr
 * Hausa: {{t-needed|ha}}
 * Hawaiian: {{t|haw|ʻoiaʻiʻo}}
 * Hebrew: {{t+|he|אמת|f|tr=emét|sc=Hebr}}
-* Hindi: {{t+|hi|सच|tr=sac|sc=Deva}}, {{t+|hi|सचाई|tr=sacā'ī|sc=Deva}}
+* Hindi: {{t+|hi|सच|m|sc=Deva}}, {{t+|hi|सचाई|sc=Deva}}
 * Hungarian: {{t+|hu|igazságosság}}
 * Icelandic: {{t-needed|is}}
 * Ido: {{t+|io|vereso}}
@@ -134,7 +134,7 @@ From {{etyl|enm|en}} {{m|enm|truthe}}, {{m|enm|trewthe}}, {{m|enm|treowthe}}, fr
 * Interlingue: {{t-needed|ie}}
 * Irish: {{t+|ga|fírinne|f}}
 * Italian: {{t|it|veritate|f}}, {{t+|it|verità}}
-* Japanese: {{t+|ja|誠|tr=makoto}}, {{t|ja|まこと|tr=makoto}}
+* Japanese: {{t+|ja|誠|tr=まこと, makoto}}
 * Kannada: {{t-needed|kn}}
 * Kazakh: {{t-needed|kk}}
 * Khmer: {{t|km|ការពិត|tr=kaa pɨt|sc=Khmr}}
@@ -165,15 +165,15 @@ From {{etyl|enm|en}} {{m|enm|truthe}}, {{m|enm|trewthe}}, {{m|enm|treowthe}}, fr
 * Oriya: {{t-needed|or}}
 * Ossetian: {{t-needed|os}}
 * Pashto: {{t+|ps|رښتيا|sc=ps-Arab}}
-* Persian: {{t+|fa|حقیقت|tr=haqīqat|sc=fa-Arab}}
+* Persian: {{t+|fa|حقیقت|tr=haqiqat|sc=fa-Arab}}
 * Polish: {{t+|pl|wierność|f}}
 * Portuguese: {{t+|pt|verdade|f}}
-* Punjabi: {{t|pa|ਸਤਿ|tr=sat}}
+* Punjabi: {{t|pa|ਸਤਿ}}
 * Rajasthani: {{t-needed|raj}}
 * Romanian: {{t+|ro|adevăr|n}}{{t+|ro|corectitudine|f}}, {{t+|ro|sinceritate}}, {{t|ro|bună credință|f}}, {{t+|ro|veridicitate}}
 * Romansch: {{t|rm|vardad|f}} {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan}}, {{t|rm|verdad|f}} {{qualifier|Surmiran}}, {{t|rm|vardet|f}} {{qualifier|Puter}}, {{t|rm|vardà|f}} {{qualifier|Vallader}}
 * Russian: {{t+|ru|ве́рность|f}}
-* Sanskrit: {{t+|sa|सत्य|tr=satya|sc=Deva}}, {{t+|sa|सत्यता|tr=satyatā|sc=Deva}}, {{t+|sa|तथ्य|tr=tathya|sc=Deva}}
+* Sanskrit: {{t+|sa|सत्य|n|sc=Deva}}, {{t+|sa|सत्यता|sc=Deva}}, {{t+|sa|तथ्य|n|sc=Deva}}
 * Sardinian: {{t-needed|sc}}
 * Scots: {{t-needed|sco}}
 * Scottish Gaelic: {{t|gd|fìrinn|f}}
@@ -212,7 +212,7 @@ From {{etyl|enm|en}} {{m|enm|truthe}}, {{m|enm|trewthe}}, {{m|enm|treowthe}}, fr
 * Aramaic:
 *: Syriac: {{t|syc|ܫܪܪܐ|m|tr=š(ə)rārāʾ|sc=Syrc}}
 * Dutch: {{t+|nl|eed|m}}
-* Japanese: {{t+|ja|誠|tr=makoto}}, {{t|ja|まこと|tr=makoto}}
+* Japanese: {{t+|ja|誠|tr=まこと, makoto}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|juramento|m}}
 * Serbo-Croatian: {{t+|sh|odanost|m}}
@@ -246,11 +246,11 @@ From {{etyl|enm|en}} {{m|enm|truthe}}, {{m|enm|trewthe}}, {{m|enm|treowthe}}, fr
 * German: {{t+|de|Wahrheit|f}}
 * Greek: {{t+|el|αλήθεια|f}}, {{t+|el|ορθότητα|f}}
 * Hebrew: {{t+|he|אֶמֶת|f|tr=emét}}
-* Hindi: {{t+|hi|सच|m|tr=sac|sc=Deva}}, {{t+|hi|सत्य|m}}
+* Hindi: {{t+|hi|सच|m|sc=Deva}}, {{t+|hi|सत्य|m}}
 * Hungarian: {{t+|hu|igazság}}
 * Icelandic: {{t+|is|sannleikur|m}}
 * Irish: {{t+|ga|fírinne|f}}
-* Japanese: {{t+|ja|真実|tr=shinjitsu}}, {{t+|ja|しんじつ|tr=shinjitsu}}, {{t+|ja|事実|tr=jijitsu}}, {{t|ja|じじつ|tr=jijitsu}}, {{t+|ja|本当|tr=hontō}}, {{t|ja|ほんとう|tr=hontō}}, {{t+|ja|真理|tr=しんり, shinri|sc=Jpan}}
+* Japanese: {{t+|ja|真実|tr=しんじつ, shinjitsu}}, {{t+|ja|事実|tr=じじつ, jijitsu}}, {{t+|ja|本当|tr=ほんとう, hontō}}, {{t+|ja|真理|tr=しんり, shinri|sc=Jpan}}
 * Kazakh: {{t+|kk|шындық}}
 * Khmer: {{t|km|ការពិត|tr=kaa pɨt|sc=Khmr}}
 * Korean: {{t+|ko|진리|sc=Kore}} ({{t+|ko|真理|sc=Kore}})
@@ -288,7 +288,7 @@ From {{etyl|enm|en}} {{m|enm|truthe}}, {{m|enm|trewthe}}, {{m|enm|treowthe}}, fr
 * Turkish: {{t+|tr|hakikat}}
 * Turkmen: {{t+|tk|hakykat}}
 * Ukrainian: {{t+|uk|пра́вда|f|sc=Cyrl}}, {{t+|uk|і́стина|f|sc=Cyrl}}
-* Urdu: {{t|ur|سچ|m|tr=sac|sc=ur-Arab}}, {{t|ur|حقیقت|sc=ur-Arab}}
+* Urdu: {{t|ur|سچ|m|tr=sac|sc=ur-Arab}}, {{t|ur|حقیقت|f|tr=haqīqat|sc=ur-Arab}}
 * Uyghur: {{t|ug|ھەقىقەت}}
 * Uzbek: {{t+|uz|haqiqat}}
 * Vietnamese: {{t+|vi|chân lý}} ({{t|vi|真理}})
@@ -317,11 +317,11 @@ From {{etyl|enm|en}} {{m|enm|truthe}}, {{m|enm|trewthe}}, {{m|enm|treowthe}}, fr
 * Georgian: {{t|ka|სიმართლე}}
 * German: {{t+|de|Wahrheit|f}}
 * Greek: {{t+|el|αλήθεια|f}}
-* Hindi: {{t+|hi|सच|m|tr=sac|sc=Deva}}
+* Hindi: {{t+|hi|सच|m|sc=Deva}}
 * Hungarian: {{t+|hu|igazság}}
 * Icelandic: {{t+|is|sannleikur|m}}
 * Irish: {{t+|ga|fírinne|f}}
-* Japanese: {{t+|ja|真実|tr=shinjitsu}}, {{t+|ja|しんじつ|tr=shinjitsu}}, {{t+|ja|真相|tr=shinsō}}, {{t|ja|しんそう|tr=shinsō}}, {{t+|ja|実態|tr=jittai}}, {{t+|ja|じったい|tr=jittai}}, {{t+|ja|事実|tr=jijitsu}}, {{t|ja|じじつ|tr=jijitsu}}, {{t+|ja|本当|tr=hontō}}, {{t|ja|ほんとう|tr=hontō}}
+* Japanese: {{t+|ja|真実|tr=しんじつ, shinjitsu}}, {{t+|ja|真相|tr=しんそう, shinsō}}, {{t+|ja|実態|tr=じったい, jittai}}, {{t+|ja|事実|tr=じじつ, jijitsu}}, {{t+|ja|本当|tr=ほんとう, hontō}}
 * Khmer: {{t|km|ការពិត|tr=kaa pɨt|sc=Khmr}}
 * Korean: {{t+|ko|진실|sc=Kore}} ({{t+|ko|眞實|sc=Kore}})
 * Latin: {{t+|la|veritas}}, {{t+|la|verum}}
@@ -382,7 +382,7 @@ From {{etyl|enm|en}} {{m|enm|truthe}}, {{m|enm|trewthe}}, {{m|enm|treowthe}}, fr
 * Polish: {{t+|pl|prawda|f}}
 * Portuguese: {{t+|pt|verdade}}, {{t+|pt|verdades|f-p}}, {{t+|pt|realidade|f}}
 * Romanian: {{t+|ro|adevăr}}, {{t+|ro|veridicitate|f}}
-* Sanskrit: {{t+|sa|सत्य|n|tr=satya|sc=Deva}}
+* Sanskrit: {{t+|sa|सत्य|n|sc=Deva}}
 * Scottish Gaelic: {{t|gd|fìrinn|f}}
 * Spanish: {{t+|es|verdad|f}}
 * Swahili: {{t+|sw|ukweli}}
@@ -451,7 +451,7 @@ From {{etyl|enm|en}} {{m|enm|truthe}}, {{m|enm|trewthe}}, {{m|enm|treowthe}}, fr
 * Slovene: {{t+check|sl|resnica|f}}
 * Spanish: {{t+check|es|verdad|f}}
 * Swahili: {{qualifier|class 9/10}} {{t+check|sw|kweli}} ''''
-* Telugu: {{t+check|te|నిజము}} (nijamu)
+* Telugu: {{t+check|te|నిజము}}
 * Welsh: {{t+check|cy|gwir}}
 {{trans-bottom}}
 
