@@ -502,11 +502,6 @@ Common South Slavic; compare Slovene {{m|sl|pa}}, Bulgarian {{m|bg|па}}. See a
 
 ==Swahili==
 
-===Particle===
-{{head|sw|particle form}}
-
-# {{sw-adj form of|pa|a}}
-
 ===Verb===
 {{sw-verb}}
 
@@ -515,12 +510,31 @@ Common South Slavic; compare Slovene {{m|sl|pa}}, Bulgarian {{m|bg|па}}. See a
 ====Conjugation====
 {{sw-conj|imp_s=-|imp_p=-}}
 
+====Derived terms====
+{{sw-der|pass=pewa|appl=pea|nom=mpaji}}
+
 ====Usage notes====
 * This verb must be used with an object concord:
 :* ''Nime'''wa'''kupa kitabu'' (I have given '''them''' a book)
 :* ''Nija'''wa'''pa kitabu'' (I have not (yet) given '''them''' a book)
 
+===Particle===
+{{head|sw|particle form}}
+
+# {{sw-adj form of|pa|a}}
+
 ----
+==Swahili==
+===Verb===
+{{sw-verb}}
+
+# {{sw-derform|pass|funga}}
+
+====Derived terms====
+* {{l|sw|mfungwa}}
+
+====Conjugation====
+{{sw-conj}}
 
 ==Walloon==
 
