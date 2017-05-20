@@ -4,7 +4,7 @@
 {{wikipedia}}
 {{en-noun}}
 
-# {{lb|en|computing}} A [[sort]]ing [[algorithm]] in which neighboring two values are compared and swapped into the right order if necessary in the most inner loop.
+# {{lb|en|computing}} A [[sort]]ing [[algorithm]] in which pairs of neighboring values are compared and swapped into the right order if necessary in the innermost loop.
 
 ====Translations====
 {{trans-top|sorting algorithm}}
