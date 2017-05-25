@@ -10,7 +10,7 @@
 * {{rhymes|ɛt|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|nett}}, from {{etyl|ang|en}} {{m|ang|net}}, {{m|ang|nett}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*natją}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*ned-||to turn, twist, knot}}. Compare West Frisian {{m|fy|net}}, Low German {{m|nds|Nett}}, Dutch {{m|nl|net}}, German {{m|de|Netz}}, Danish {{m|da|net}}, Swedish {{m|sv|nät}}.
+From {{inh|en|enm|nett}}, from {{inh|en|ang|net}}, {{m|ang|nett}}, from {{inh|en|gem-pro|*natją}}, from {{der|en|ine-pro|*ned-||to turn, twist, knot}}. Compare West Frisian {{m|fy|net}}, Low German {{m|nds|Nett}}, Dutch {{m|nl|net}}, German {{m|de|Netz}}, Danish {{m|da|net}}, Swedish {{m|sv|nät}}.
 
 ====Noun====
 {{en-noun}}
@@ -369,7 +369,7 @@ From {{etyl|enm|en}} {{m|enm|nett}}, from {{etyl|ang|en}} {{m|ang|net}}, {{m|ang
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{etyl|enm|en}} {{m|enm|net}}, {{m|enm|nette}}, from {{etyl|fro|en}} {{m|fro|net}}, from {{etyl|la|en}} {{m|la|nitidus}}. Compare {{m|en|nitid}}, {{m|en|neat}}.
+From {{inh|en|enm|net}}, {{m|enm|nette}}, a {{bor|en|fro|net|nocap=1}}, from {{der|en|la|nitidus}}. Compare {{m|en|nitid}}, {{m|en|neat}}.
 
 ====Alternative forms====
 * {{l|en|nett}}
@@ -497,7 +497,7 @@ From {{etyl|enm|en}} {{m|enm|net}}, {{m|enm|nette}}, from {{etyl|fro|en}} {{m|fr
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{m|la|nitidus}}.
+From {{der|ca|la|nitidus}}, contracted to a {{der|ca|VL.|*nittus}}. {{doublet|nèdol|lang=ca}}, which came through a different Old Catalan form {{m|roa-oca|nèdeu}}. Compare also French {{m|fr|net}}, Italian {{m|it|netto}}.
 
 ===Adjective===
 {{ca-adj}}
@@ -605,7 +605,7 @@ From {{inh|nl|dum|net}}, which is borrowed from {{der|nl|fr|net}}, from {{der|nl
 ==Faroese==
 
 ===Etymology===
-From {{etyl|non|fo}} {{m|non|net}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*natją}}, from {{etyl|ine-pro|fo}} {{m|ine-pro|*ned-||to turn, twist, knot}}.
+From {{inh|fo|non|net}}, from {{inh|fo|gem-pro|*natją}}, from {{der|fo|ine-pro|*ned-||to turn, twist, knot}}.
 
 ===Noun===
 {{fo-noun|n|nets|net}}
@@ -642,7 +642,7 @@ From {{etyl|non|fo}} {{m|non|net}}, from {{etyl|gem-pro|fo}} {{m|gem-pro|*natją
 ==French==
 
 ===Etymology===
-Inherited from {{inh|fr|la|nitidus||shiny}}. {{doublet|lang=fr|nitide}}, a borrowing.
+From {{inh|fr|fro|net}}, inherited from {{inh|fr|la|nitidus||shiny}} through a contracted {{inh|fr|VL.|-}} form {{m|la|*nittus}}. {{doublet|lang=fr|nitide}}, a borrowing.
 
 ===Pronunciation===
 * {{IPA|/nɛt/|lang=fr}}
@@ -661,6 +661,8 @@ Inherited from {{inh|fr|la|nitidus||shiny}}. {{doublet|lang=fr|nitide}}, a borro
 ====Derived terms====
 * {{l|fr|nettement}}
 * {{l|fr|netteté}}
+
+====Related terms====
 * {{l|fr|nettoyer}}
 
 ===Further reading===
@@ -671,7 +673,7 @@ Inherited from {{inh|fr|la|nitidus||shiny}}. {{doublet|lang=fr|nitide}}, a borro
 ==Friulian==
 
 ===Etymology===
-From {{etyl|la|fur}} {{m|la|nitidus}}.
+From {{inh|fur|VL.|*nittus}}, from {{inh|fur|la|nitidus}}.
 
 ===Adjective===
 {{head|fur|adjective}}
@@ -798,7 +800,7 @@ From {{etyl|goh|lb}} {{m|goh|niowiht}}, from {{m|goh|nio||never}} + {{m|goh|wiht
 * {{l|nrf|naette}} {{qualifier|Guernsey}}
 
 ===Etymology===
-From {{etyl|la|nrf}} {{m|la|nitidus||shiny}}.
+From {{inh|nrf|fro|net}}, from {{inh|nrf|VL.|*nittus}}, from {{inh|nrf|la|nitidus||shiny}}.
 
 ===Pronunciation===
 * {{audio|Jer-net.ogg|Audio|lang=nrf}}
@@ -894,6 +896,9 @@ From {{inh|non|gem-pro|*natją}}, whence also {{cog|ang|net}}, {{m|ang|nett}}, {
 ----
 
 ==Portuguese==
+
+===Etymology===
+{{bor|pt|en|net}}.
 
 ===Noun===
 {{pt-noun|f|-}}
