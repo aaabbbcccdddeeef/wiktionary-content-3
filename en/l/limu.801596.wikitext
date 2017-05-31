@@ -2,7 +2,7 @@
 ==English==
 {{wikipedia|Limu (algae)}}
 ===Etymology===
-From {{etyl|haw|en}} {{m|haw|limu}}, from {{etyl|poz-pep-pro|en}} {{m|poz-pep-pro|*rimu}}, from {{etyl|poz-pnp-pro|en}} {{m|poz-pnp-pro|*rimu}}, from {{etyl|poz-pol-pro|en}} {{m|poz-pol-pro|*rimu}}, from {{etyl|poz-oce-pro|en}} {{m|poz-oce-pro|*limut}}, from {{etyl|pqe-pro|en}} {{m|pqe-pro|*limut}}, from {{etyl|poz-cet-pro|en}} {{m|poz-cet-pro|*limut}}, from {{etyl|poz-pro|en}} {{m|poz-pro|*limut}}.
+{{bor|en|haw|limu}}, from {{der|en|poz-pep-pro|*rimu}}, from {{der|en|poz-pnp-pro|*rimu}}, from {{der|en|poz-pol-pro|*rimu}}, from {{der|en|poz-oce-pro|*limut}}, from {{der|en|pqe-pro|*limut}}, from {{der|en|poz-cet-pro|*limut}}, from {{der|en|poz-pro|*limut}}.
 
 ===Noun===
 {{en-noun|~}}
@@ -38,12 +38,24 @@ From {{etyl|haw|en}} {{m|haw|limu}}, from {{etyl|poz-pep-pro|en}} {{m|poz-pep-pr
 ==Hawaiian==
 
 ===Etymology===
-From {{etyl|poz-pep-pro|haw}} {{m|poz-pep-pro|*rimu}}, from {{etyl|poz-pnp-pro|haw}} {{m|poz-pnp-pro|*rimu}}, from {{etyl|poz-pol-pro|haw}} {{m|poz-pol-pro|*rimu}}, from {{etyl|poz-oce-pro|haw}} {{m|poz-oce-pro|*limut}}, from {{etyl|pqe-pro|haw}} {{m|pqe-pro|*limut}}, from {{etyl|poz-cet-pro|haw}} {{m|poz-cet-pro|*limut}}, from {{etyl|poz-pro|haw}} {{m|poz-pro|*limut}}.
+From {{der|haw|poz-pep-pro|*rimu}}, from {{der|haw|poz-pnp-pro|*rimu}}, from {{inh|haw|poz-pol-pro|*rimu}}, from {{inh|haw|poz-oce-pro|*limut}}, from {{inh|haw|pqe-pro|*limut}}, from {{der|haw|poz-cet-pro|*limut}}, from {{inh|haw|poz-pro|*limut}}.
 
 ===Noun===
 {{head|haw|noun}}
 
 # [[moss]] {{gloss|plants of the division Bryophyta}}
+
+----
+
+==Sikaiana==
+
+===Etymology===
+From {{inh|sky|poz-pol-pro|*rimu}}.
+
+===Noun===
+{{head|sky|noun}}
+
+# [[moss]] {{gloss|plants of the division Bryophyta}}, [[seagrass]]
 
 ----
 
@@ -53,10 +65,3 @@ From {{etyl|poz-pep-pro|haw}} {{m|poz-pep-pro|*rimu}}, from {{etyl|poz-pnp-pro|h
 {{head|tbl|numeral}}
 
 # {{lb|tbl|cardinal}} {{l|en|five}}
-
-[[fr:limu]]
-[[mg:limu]]
-[[uz:limu]]
-[[pl:limu]]
-[[sh:limu]]
-[[fi:limu]]
