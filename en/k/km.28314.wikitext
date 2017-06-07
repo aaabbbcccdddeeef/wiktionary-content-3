@@ -41,8 +41,7 @@
 
 # [[black]]
 
-====Usage notes====
-Alternative hieroglyphic writings:
+====Alternative forms====
 {| class="wikitable"
 |-
 | <hiero>km:Y1</hiero>|| <hiero>km</hiero>
@@ -51,26 +50,17 @@ Alternative hieroglyphic writings:
 |}
 
 ====Inflection====
-{| class="wikitable"
-|-
-! !! Masculine !! Feminine
-|-
-| Singular || ''km'' || ''kmt''
-|-
-| Plural || ''kmw'' || ''kmt''
-|}
+{{egy-decl-adj|km}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|egy|kmt}}: [[Egypt]]
-* {{l|egy|kmt}}<sup>?</sup>: a type of jar
-{{der-mid}}
-* {{l|egy|kmt}}: the [[egyptians]]
-* {{l|egy|km wr}}: [[w:Great Bitter Lake|the Bitter Lakes]]
-{{der-bottom}}
+{{der2|lang=egy
+|{{l|egy|kmt||[[Egypt]]}}
+|{{l|egy|kmt}}<sup>?</sup> (“a type of jar”)
+|{{l|egy|kmt||the [[Egyptian]]s}}
+|{{l|egy|km wr||[[w:Great Bitter Lake|the Bitter Lakes]]}}}}
 
 ===References===
-Faulkner, ''A Concise Dictionary of Middle Egyptian''
+* {{R:egy:Faulkner}}
 
 [[Category:egy:Colors]]
 
