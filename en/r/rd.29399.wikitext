@@ -22,26 +22,17 @@
 ===Etymology 1===
 
 ====Noun====
-{{head|egy|noun|head=<hiero>r:d-D56</hiero>}}
-''masculine''
+{{head|egy|noun|g=m|head=<hiero>r:d-D56</hiero>}}
 
 # [[foot]]
 
 =====Inflection=====
-{| class="wikitable"
-|-
-! colspan="2"|Declension
-|-
-| sing. || ''rd''
-|-
-| dual || ''rdwj''
-|-
-| plural || ''rdw''
-|}
+{{egy-decl-noun|g=m|rd}}
 
 =====Derived terms=====
-* [[rdw]]: [[staircase]]
-* [[rdwy]]: [[servant]], [[footman]]
+{{der2|lang=egy
+|{{l|egy|rdw||[[staircase]]}}
+|{{l|egy|rdwj||[[servant]], [[footman]]}}}}
 
 ===Etymology 2===
 
@@ -54,16 +45,7 @@
 # [[bud]], [[shoot]]
 
 =====Inflection=====
-{| class="wikitable"
-|-
-! colspan="2"|Declension
-|-
-| sing. || ''rd''
-|-
-| dual || ''rdwj''
-|-
-| plural || ''rdw''
-|}
+{{egy-decl-noun|g=m|rd}}
 
 ===Etymology 3===
 
@@ -85,7 +67,7 @@ Alternate hieroglyphic writing
 =====Inflection=====
 {| class="wikitable"
 |-
-! colspan="6" style="background: #ffdead;"| ''rd'': Bilateral Root (2-lit)
+! colspan="6" style="background: #ffdead;"| ''rd'': Biliteral Root (2-lit)
 |-
 | '''Base Root:''' || style="width: 100px"| ''rd'' || '''Geminated Root:''' || ''rdd'' || '''Imperative:''' || ''(j)rd''
 |-
@@ -130,7 +112,8 @@ Alternate hieroglyphic writing
 11) -w only appears in the masculine singular
 
 =====Derived terms=====
-* [[rwḏ]]: [[prosper]]
+{{der2|lang=egy
+|{{l|egy|rwḏ||[[prosper]]}}}}
 
 ===References===
 * {{R:egy:Faulkner}}
