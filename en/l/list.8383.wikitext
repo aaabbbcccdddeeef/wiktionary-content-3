@@ -718,15 +718,25 @@ From {{inh|sh|sla-pro|*listъ||leaf}}.
 ===Etymology===
 From {{inh|sk|sla-pro|*listъ||leaf}}.
 
+===Pronunciation===
+* {{IPA|/ˈlist/|lang=sk}}
+
 ===Noun===
-{{head|sk|noun|g=m}}
+{{sk-noun|g=m|gen=[[listu]], [[lista]]|pl=listy|genpl=listov|decl=dub}}
 
 # [[letter]]; a written message
 # [[leaf]]; a part of a tree
 # [[sheet]]; a piece of paper
 
 ====Declension====
-{{sk-decl-noun|list|listu|gs2=lista|listu|list|liste|listom|listy|listov|listom|listy|listoch|listami}}
+{{sk-decl-noun|list|[[listu]], [[lista]]|listu|list|liste|listom|listy|listov|listom|listy|listoch|listami}}
+
+====Derived terms====
+* {{l|sk|listový}}
+* {{l|sk|lístok}}
+* {{l|sk|lístkový}}
+* {{l|sk|lístoček}}
+* {{l|sk|listisko}}
 
 ===Further reading===
 * {{R:SDK}}
