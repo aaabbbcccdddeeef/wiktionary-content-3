@@ -591,10 +591,25 @@ From {{etyl|en|sh}} {{m|en|lift}}.
 
 ==Slovak==
 
-===Noun===
-{{head|sk|noun|g=m}}
+===Etymology===
+From {{der|sk|en|lift}}.
 
-# an [[elevator]], [[lift#English|lift]]
+===Pronunciation===
+* {{IPA|/ˈlift/|lang=sk}}
+
+===Noun===
+{{sk-noun|g=m|gen=liftu|pl=lifty|genpl=liftov|decl=dub}}
+
+# {{lb|sk|colloquial}} an [[elevator]], [[lift#English|lift]]
+
+====Declension====
+{{sk-decl-noun|lift|liftu|liftu|lift|lifte|liftom|lifty|liftov|liftom|lifty|liftoch|[[liftami]], [[liftmi]]}}
+
+====Synonyms====
+* {{l|sk|výťah}}
+
+====Derived terms====
+* {{l|sk|liftový}}
 
 ===Further reading===
 * {{R:SDK}}
