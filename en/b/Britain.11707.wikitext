@@ -12,8 +12,8 @@
 ====Proper noun====
 {{en-proper noun|s}}
 
-# The island of [[Great Britain]], consisting of [[England]], [[Scotland]] and [[Wales]]. {{defdate|from 10th c.}}
-# {{lb|en|loosely}} The [[United Kingdom]].
+# {{senseid|en|Q23666}}The island of [[Great Britain]], consisting of [[England]], [[Scotland]] and [[Wales]]. {{defdate|from 10th c.}}
+# {{senseid|en|Q145}}{{lb|en|loosely}} The [[United Kingdom]].
 # {{lb|en|now|historical}} [[Brittany]]. {{defdate|from 13th c.}}
 # {{lb|en|now|historical}} The British state and its dominions and holdings; the [[British Empire]]. {{defdate|from 17th c.}}
 # {{lb|en|in the plural}} The [[British Empire]]. {{defdate|from 19th c.}}
@@ -30,7 +30,7 @@
 * {{l|en|Broken Britain}}
 
 =====Translations=====
-{{trans-top-also|island|Great Britain|British Isles}}
+{{trans-top-also|id=Q23666|island|Great Britain|British Isles}}
 * Albanian: {{t|sq|Britania|f}}
 * Amharic: {{t|am|ብሪታንያ}}
 * Arabic: {{t+|ar|بِرِيطانِيَا|f}}
@@ -101,7 +101,7 @@
 * Welsh: {{t+|cy|Prydain}}
 {{trans-bottom}}
 
-{{trans-see|United Kingdom}}
+{{trans-see|id=Q145|United Kingdom}}
 
 {{trans-see|Brittany}}
 
@@ -130,6 +130,6 @@ From {{etyl|la|en}} {{m|la|Britannus}} (adjective and noun, plural {{m|la|Britan
 ===Further reading===
 * {{pedialite|Britain (placename)}}
 
-[[Category:en:Countries]]
+[[Category:en:Countries of Europe]]
 [[Category:en:Islands]]
 [[Category:en:United Kingdom]]
