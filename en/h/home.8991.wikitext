@@ -108,12 +108,12 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Catalan: {{t+|ca|llar|m}}, {{t+|ca|casa|f}}
 * Chamicuro: {{t|ccc|ajkochi}}
 * Chamorro: {{t-needed|ch}}
-* Cherokee: {{t|chr|ᎣᏪᏅᏒ|tr=owenvsv|sc=Cher}}
+* Cherokee: {{t|chr|ᎣᏪᏅᏒ|sc=Cher}}
 * Chichewa: {{t-needed|ny}}
 * Chinese:
 *: Cantonese: {{t|yue|家|tr=gaa1|sc=Hani}}
 *: Mandarin: {{t+|cmn|家|tr=jiā|sc=Hani}}
-*: Min Nan: {{t+|nan|厝|tr=[[chhù]]|sc=Hani}}, {{t|nan|㢄|tr=[[tau]]|sc=Hani}}
+*: Min Nan: {{t+|nan|厝|tr=chhù|sc=Hani}}, {{t|nan|㢄|tr=tau|sc=Hani}}
 * Chiricahua: {{t|apm|kuugha̧}}
 * Choctaw: {{t|cho|chuka}}
 * Czech: {{t+|cs|domov|m}}
@@ -137,8 +137,8 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Gujarati: {{t-needed|gu}}
 * Hausa: {{t-needed|ha}}
 * Hawaiian: {{t|haw|kauhale}}, {{t|haw|home}}
-* Hebrew: {{t+|he|בית|m|tr=báyit}}
-* Hindi: {{t+|hi|घर|m|tr=ghar}}, {{t+|hi|निवास|tr=nivās}}, {{t+|hi|मकान|tr=makān}}, {{t+|hi|आश्रय|sc=Deva}}
+* Hebrew: {{t+|he|בַּיִת|m|tr=báyit}}
+* Hindi: {{t+|hi|घर|m}}, {{t+|hi|निवास}}, {{t+|hi|मकान}}, {{t+|hi|आश्रय|sc=Deva}}
 * Hungarian: {{t+|hu|otthon}}
 * Icelandic: {{t+|is|heimili|n}}, {{qualifier|away from home}} {{t|is|heiman}}, {{qualifier|away from home}} {{t|is|að heiman}}, {{qualifier|home}} {{t+|is|heim}}, {{qualifier|at home}} {{t+|is|heima}}
 * Ido: {{t+|io|hemo}}
@@ -148,7 +148,7 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Interlingue: {{t|ie|hem}}
 * Irish: {{t+|ga|baile|m}}
 * Italian: {{t+|it|casa|f}}, {{t+|it|focolare|m}}
-* Japanese: {{t+|ja|家|tr=[[いえ]], ie, [[うち]], uchi|sc=Jpan}}, {{t|ja|お住まい|tr=おすまい, osumai|sc=Jpan}}, {{t|ja|お宅|tr=おたく, otaku|sc=Jpan}} {{qualifier|honorific}}
+* Japanese: {{t+|ja|家|tr=いえ, ie, うち, uchi|sc=Jpan}}, {{t|ja|お[[住まい]]|tr=おすまい, osumai|sc=Jpan}}, {{t|ja|お宅|tr=おたく, otaku|sc=Jpan}} {{qualifier|honorific}}
 * Kannada: {{t+|kn|ಮನೆ}}
 * Karelian: {{t|krl|kodi}}
 * Khmer: {{t+|km|ផ្ទះ|tr=pteah|sc=Khmr}}
@@ -170,7 +170,7 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Malayalam: {{t+|ml|വീട്|sc=Mlym}}
 * Maltese: {{t+|mt|dar}}
 * Maori: {{t|mi|kāinga}}
-* Marathi: {{t|mr|घर|n|tr=ghar}}
+* Marathi: {{t|mr|घर|n}}
 * Mirandese: {{t-needed|mwl}}
 * Mongolian: {{t+|mn|гэр}}
 * Nahuatl: {{t+|nah|chantli}}
@@ -179,7 +179,7 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Norwegian: {{t+|no|hjem|n}}, {{t+|no|heim|n}}
 * Novial: {{t-needed|nov}}
 * Old French: {{t|fro|maison|f}}, {{t|fro|maisun|f}}
-* Oriya: {{t+|or|ଘର|sc=Orya}}
+* Oriya: {{t+|or|ଘର|tr=ghar|sc=Orya}}
 * Pashto: {{t|ps|كور|m|tr=kor|sc=ps-Arab}}, {{t|ps|كوټه|f|tr=kotta|sc=ps-Arab}}
 * Persian: {{t+|fa|خانه|tr=xâna}}
 * Polish: {{t+|pl|dom|m}}
@@ -192,7 +192,7 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Romansch: {{t|rm|chasa|m}} {{qualifier|Rumantsch Grischun, Vallader}}, {{t|rm|casa|f}} {{qualifier|Sursilvan}}, {{t|rm|tgea|f}}, {{t|rm|tgeasa|f}} {{qualifier|Sutsilvan}}, {{t|rm|tgesa|f}} {{qualifier|Surmiran}}, {{t|rm|chesa|f}} {{qualifier|Puter}}
 * Russian: {{t+|ru|дом|m}}
 * Samoan: {{t-needed|sm}}
-* Sanskrit: {{t+|sa|गृह|tr=gṛhá|sc=Deva}}
+* Sanskrit: {{t+|sa|गृह|m|sc=Deva}}
 * Sardinian: {{t-needed|sc}}
 * Scots: {{t|sco|hame}}
 * Scottish Gaelic: {{t|gd|dachaigh|f}}, {{t+|gd|taigh|m}}
@@ -210,7 +210,7 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Tajik: {{t+|tg|хона}}
 * Tamil: {{t+|ta|வீடு|sc=Taml}}
 * Telugu: {{t+|te|ఇల్లు}}
-* Thai: {{t+|th|บ้าน|tr=bâan}}
+* Thai: {{t+|th|บ้าน}}
 * Tsonga: {{t|ts|kaya}}
 * Tulu: {{t|tcy|ಇಲ್ಲು|tr=illu}}
 * Turkish: {{t+|tr|ev}}
@@ -228,7 +228,7 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Western Apache: {{t|apw|gowąh}}
 * Wolof: {{t-needed|wo}}
 * Xhosa: {{t|xh|ikhaya}}
-* Yiddish: {{t|yi|היים|n|tr=heym}}
+* Yiddish: {{t|yi|היים|n}}
 * Yoruba: {{t-needed|yo}}
 * Zulu: {{t|zu|ikhaya}}
 {{trans-bottom}}
