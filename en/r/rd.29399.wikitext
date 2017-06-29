@@ -22,7 +22,7 @@
 ===Etymology 1===
 
 ====Noun====
-{{head|egy|noun|g=m|head=<hiero>r:d-D56</hiero>}}
+{{egy-noun|m|head=<hiero>r:d-D56</hiero>}}
 
 # [[foot]]
 
@@ -40,27 +40,23 @@
 * {{a|Reconstructed}} {{IPA|/ˈraːduw/|lang=egy}}<ref name=Loprieno>1995, Antonio Loprieno, ''Ancient Egyptian: A linguistic introduction'', ISBN 0-521-44384-9</ref>
 
 ====Noun====
-{{head|egy|noun|g=m|head=<hiero>r:d-M30</hiero>}}
+{{egy-noun|m|head=<hiero>r:d-M30</hiero>}}
 
 # [[bud]], [[shoot]]
 
 =====Inflection=====
-{{egy-decl-noun|g=m|rd}}
+{{egy-decl-noun|g=m|type=u-stem|rd}}
 
 ===Etymology 3===
 
 ====Verb====
-{{head|egy|verb|head=<hiero>r:d-M30</hiero>}}
+{{egy-verb|2-lit|head=<hiero>r:d-M30</hiero>}}
 
 # [[grow]]
 
 =====Usage notes=====
-Alternate hieroglyphic writing
-{| class="wikitable"
-| <hiero>r:d-T12</hiero>
-|-
-| ''rd''
-|}
+{{egy-hieroforms
+|<hiero>r:d-T12</hiero>|read1=rd}}
 
 =====Inflection=====
 {{egy-conj-2-lit|rd|rdd}}
