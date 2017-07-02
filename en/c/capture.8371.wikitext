@@ -23,6 +23,8 @@
 # The recording or storage of something for later playback.
 #: ''video '''capture'''''
 # {{lb|en|computing}} A particular [[match]] found for a [[pattern]] in a [[text]] [[string]].
+#* '''2006''', Jeffrey Friedl, ''Mastering Regular Expressions'' (page 409)
+#*: After the match {{...}}, the text matched within the named '''capture''' is available via the <code>Match</code> object's <code>Groups(</code>''name''<code>)</code> property.
 
 ====Translations====
 {{trans-top|act of capturing}}
