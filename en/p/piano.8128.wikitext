@@ -441,10 +441,25 @@ From {{etyl|it|pt}} {{m|it|piano}}, short form of {{m|it|pianoforte}}.
 
 ==Slovak==
 
+===Pronunciation===
+* {{IPA|/ˈpianɔ/|lang=sk}}
+
 ===Adverb===
 {{sk-adv}}
 
 # musical directive to play softly
+
+===Noun===
+{{sk-noun|g=m|gen=piana|pl=pianá|genpl=pián|decl=mesto}}
+
+# {{lb|sk|musical instrument}} {{l|en|piano}}
+# a very soft {{l|en|sound}}
+
+====Declension====
+{{sk-decl-noun|piano|piana|pianu|piano|piane|pianom|pianá|pián|pianám|pianá|pianách|pianami}}
+
+====Synonyms====
+* {{sense|piano}} {{l|sk|klavír}}
 
 ===Further reading===
 * {{R:SDK}}
