@@ -2,7 +2,7 @@
 {{wikipedia|dab=context}}
 
 ===Etymology===
-From {{etyl|la|en}} {{m|la|contextus}}.
+From {{der|en|la|contextus}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/ˈkɒntɛkst/|lang=en}}
@@ -30,25 +30,15 @@ From {{etyl|la|en}} {{m|la|contextus}}.
 * {{l|en|isolation}}
 
 ====Derived terms====
-{{der-top|}}
-* {{l|en|context-dependent}}
-* {{l|en|context-free}}
-* {{l|en|context-sensitive}}
-* {{l|en|in context}}, compare [[in isolation]]
-{{der-mid}}
-* {{l|en|keyword in context}}, {{l|en|KWIC}}
-* {{l|en|keyword out of context}}, {{l|en|KWOC}}
-* {{l|en|out of context}}
-* {{l|en|take out of context}}
-{{der-bottom}}
+{{der4|context-dependent|context-free|context-sensitive|[[in context]], compare [[in isolation]]|[[keyword in context]], [[KWIC]]|[[keyword out of context]], [[KWOC]]|out of context|take out of context|lang=en}}
 
 ====Translations====
 {{trans-top|text in which a word appears}}
 * Arabic: {{t|ar|سِيَاق|m}}
 * Armenian: {{t|hy|համատեքստ}}
-* Bulgarian: {{t+|bg|контекст|m|tr=kontékst}}
+* Bulgarian: {{t+|bg|конте́кст|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|上下文|tr=shàngxiàwén|sc=Hani}}, {{t+|cmn|語境|sc=Hani}}, {{t+|cmn|语境|tr=yǔjìng|sc=Hani}}, {{t+|cmn|前後文|sc=Hani}}, {{t+|cmn|前后文|tr=qiánhòuwén|sc=Hani}}
+*: Mandarin: {{t+|cmn|上下文|tr=shàngxiàwén}}, {{t+|cmn|語境}}, {{t+|cmn|语境|tr=yǔjìng}}, {{t+|cmn|前後文}}, {{t+|cmn|前后文|tr=qiánhòuwén}}
 * Czech: {{t+|cs|kontext}}
 * Dutch: {{t+|nl|context|m}}
 * Esperanto: {{t|eo|kunteksto}}
@@ -56,18 +46,18 @@ From {{etyl|la|en}} {{m|la|contextus}}.
 * Finnish: {{t+|fi|konteksti}}, {{t|fi|asiayhteys}}, {{t+|fi|yhteys}}
 * French: {{t+|fr|contexte|m}}
 * German: {{t+|de|Kontext|m}}
-* Greek: {{t+|el|πλαίσιο|n|sc=Grek}}
+* Greek: {{t+|el|πλαίσιο|n}}
 * Hungarian: {{t+|hu|szövegkörnyezet}}, {{t+|hu|kontextus}}
 * Irish: {{t|ga|comhthéacs|m}}
 * Italian: {{t+|it|contesto|m}}
 {{trans-mid}}
 * Japanese: {{t+|ja|文脈|tr=bunmyaku}}, {{t|ja|前後関係|tr=zengokankei}}
-* Korean: {{t+|ko|문맥}} ({{t+|ko|文脈|sc=Hani}}), {{t+|ko|맥락}} ({{t+|ko|脈絡|sc=Hani}})
+* Korean: {{t+|ko|문맥}} ({{t+|ko|文脈}}), {{t+|ko|맥락}} ({{t+|ko|脈絡}})
 * Manx: {{t|gv|co-lhaih}}, {{t|gv|cohecks}}
 * Norwegian:
 *: Bokmål: {{t+|nb|sammenheng|m}}, {{t+|nb|kontekst|m}}
 *: Nynorsk: {{t|nn|samanheng|m}}, {{t|nn|kontekst|m}}
-* Persian: {{t+|fa|زمینه|tr=|sc=fa-Arab}}
+* Persian: {{t+|fa|زمینه}}
 * Polish: {{t+|pl|kontekst|m}}
 * Portuguese: {{t+|pt|contexto|m}}
 * Romanian: {{t+|ro|context|n}}
@@ -82,21 +72,21 @@ From {{etyl|la|en}} {{m|la|contextus}}.
 {{trans-top|circumstances or settings}}
 * Arabic: {{t+|ar|حَالَة|f}}
 * Armenian: {{t|hy|համատեքստ}}
-* Bulgarian: {{t+|bg|обстановка|f|tr=obstanóvka}}, {{t+|bg|ситуация|f|tr=situácija}}
+* Bulgarian: {{t+|bg|обстано́вка|f}}, {{t+|bg|ситуа́ция|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|場合|sc=Hani}}, {{t+|cmn|场合|tr=chǎnghé|sc=Hani}}, {{t+|cmn|情況|sc=Hani}}, {{t+|cmn|情况|tr=qíngkuàng|sc=Hani}}, {{t+|cmn|背景|tr=bèijǐng|sc=Hani}}, {{t+|cmn|環境|sc=Hani}}, {{t+|cmn|环境|tr=huánjìng|sc=Hani}}
+*: Mandarin: {{t+|cmn|場合}}, {{t+|cmn|场合|tr=chǎnghé}}, {{t+|cmn|情況}}, {{t+|cmn|情况|tr=qíngkuàng}}, {{t+|cmn|背景|tr=bèijǐng}}, {{t+|cmn|環境}}, {{t+|cmn|环境|tr=huánjìng}}
 * Dutch: {{t+|nl|context|m}}
 * Finnish: {{t|fi|asiayhteys}}, {{t+|fi|yhteys}}
 * French: {{t+|fr|contexte|m}}
 * German: {{t+|de|Kontext|m}}, {{t+|de|Zusammenhang|m}}
-* Greek: {{t+|el|συμφραζόμενα|n-p|sc=Grek}}, {{t+|el|πλαίσιο|n|sc=Grek}}
+* Greek: {{t+|el|συμφραζόμενα|n-p}}, {{t+|el|πλαίσιο|n}}
 * Hebrew: {{t|he|הקשר|m|tr=heqsher}}
 * Hungarian: {{t+|hu|összefüggés}}
 * Irish: {{t|ga|comhthéacs|m}}
 * Italian: {{t+|it|contesto|m}}
 * Japanese: {{t|ja|前後関係|tr=zengokankei}}, {{t+|ja|状況|tr=jōkyō}}
 {{trans-mid}}
-* Korean: {{t+|ko|맥락}} ({{t+|ko|脈絡|sc=Hani}}), {{t+|ko|짜임새}}, {{t+|ko|바탕}}
+* Korean: {{t+|ko|맥락}} ({{t+|ko|脈絡}}), {{t+|ko|짜임새}}, {{t+|ko|바탕}}
 * Maori: {{t|mi|horopaki}}
 * Norwegian:
 *: Bokmål: {{t+|nb|sammenheng|m}}, {{t+|nb|kontekst|m}}
@@ -109,7 +99,7 @@ From {{etyl|la|en}} {{m|la|contextus}}.
 * Spanish: {{t|es|contexto|m}}, {{t+|es|marco|m}}
 * Swedish: {{t+|sv|sammanhang|n}}, {{t+|sv|kontext|c}}
 * Tagalog: {{t|tl|kalamnan}}
-* Telugu: {{t+|te|సందర్భం|tr=sandarbham}}
+* Telugu: {{t+|te|సందర్భం}}
 {{trans-bottom}}
 
 ====Quotations====
