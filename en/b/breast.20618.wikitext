@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{m|enm|brest}}, from {{etyl|ang|en}} {{m|ang|brēost}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*breustą}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bʰrews-||to swell}}. Compare West Frisian {{m|fy|boarst}}, Danish {{m|da|bryst}}, Swedish {{m|sv|bröst}}; cf. also Dutch {{m|nl|borst}}, German {{m|de|Brust}}.
+From {{inh|en|enm|brest}}, from {{inh|en|ang|brēost}}, from {{inh|en|gem-pro|*breustą}}, from {{der|en|ine-pro|*bʰrews-||to swell}}. Compare West Frisian {{cog|fy|boarst}}, {{cog|da|bryst}}, {{cog|sv|bröst}}; cf. also {{cog|nl|borst}}, {{cog|de|Brust}}.
 
 ===Pronunciation===
 * {{IPA|/bɹɛst/|lang=en}}
@@ -15,21 +15,21 @@ From {{etyl|enm|en}} {{m|enm|brest}}, from {{etyl|ang|en}} {{m|ang|brēost}}, fr
 [[File:Illu breast anatomy.jpg|thumb|A breast]]
 
 # Either of the two organs on the front of a female human's chest, which contain the [[mammary gland]]s; also the analogous organs in males.
-#: ''Tanya's '''breasts''' grew remarkably during pregnancy.''
+#: {{ux|en|Tanya's '''breasts''' grew remarkably during pregnancy.}}
 # The [[chest]], or front of the human thorax.
 #* '''1798''', {{w|Samuel Taylor Coleridge}}, "The Rime of the Ancient Mariner"
 #*: ''The Wedding-Guest here beat his '''breast''', For he heard the loud bassoon.''
 # A section of clothing covering the breast area.
 # The figurative seat of the [[emotions]], [[feelings]] etc.; one's heart or innermost thoughts.
-#: ''She kindled hope in the '''breast''' of all who heard her.''
+#: {{ux|en|She kindled hope in the '''breast''' of all who heard her.}}
 #* Shakespeare
 #*: He has a loyal '''breast'''.
 # The [[ventral]] portion of an animal's [[thorax]].
-#: ''The robin has a red '''breast'''.''
+#: {{ux|en|The robin has a red '''breast'''.}}
 # A choice cut of [[poultry]], especially [[chicken]] or [[turkey]], taken from the bird’s breast; also a cut of meat from other animals, breast of [[mutton]], [[veal]], [[pork]].
-#: ''Would you like '''breast''' or wing?''
+#: {{ux|en|Would you like '''breast''' or wing?}}
 # The front or forward part of anything.
-#: ''a chimney '''breast'''; a plough '''breast'''''
+#: {{ux|en|a chimney '''breast'''; a plough '''breast'''}}
 #* Milton
 #*: Mountains on whose barren '''breast''' / The labouring clouds do often rest.
 #* {{quote-journal|author=Jeff Howell|title=The secret of longer lasting tiles &#91;print version: How to avoid cracking up, 4 April 2015, p.&nbsp;P7&#93;|url=http://www.telegraph.co.uk/finance/property/11518126/The-secret-of-longer-lasting-tiles.html|archiveurl=https://web.archive.org/web/20150422110458/http://www.telegraph.co.uk/finance/property/11518126/The-secret-of-longer-lasting-tiles.html|archivedate=22 April 2015|work={{w|The Daily Telegraph}} (Property)|date=7 April 2015|passage=If you burn wood on its own, the flue gases are cooler than from a coal fire. This can result in tars condensing out within the parging and brickwork of the flue, sometimes causing brown or yellow staining on upstairs chimney '''breasts'''.}}
@@ -50,49 +50,35 @@ From {{etyl|enm|en}} {{m|enm|brest}}, from {{etyl|ang|en}} {{m|ang|brēost}}, fr
 * {{sense|cut of poultry}} {{l|en|thigh}}, {{l|en|wing}}, {{l|en|dark meat}}
 
 ====Derived terms====
-{{der3|lang=en
-|abreast
-|breastbone
-|breast cancer
-|breastfeed
-|[[breast feeding]], [[breastfeeding]]
-|breastless
-|[[breast milk]], [[breastmilk]]
-|breastplate
-|breast pump
-|breaststroke
-|breastwork
-|make a clean breast
-|redbreast
-}}
+{{der4|abreast|breastbone|breast cancer|breastfeed|[[breast feeding]], [[breastfeeding]]|breastless|[[breast milk]], [[breastmilk]]|breastplate|breast pump|breaststroke|breastwork|make a clean breast|redbreast|lang=en}}
 
 ====Translations====
 {{trans-top|female organ}}
 * Afrikaans: {{t|af|bors}}
 * Albanian: {{t+|sq|gji}}
 * Arabic: {{t|ar|ثَدْي|m}}
-*: Egyptian Arabic: {{t|arz|بز|m|tr=bezz|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|بز|m|tr=bezz}}
 * Armenian: {{t+|hy|կուրծք}}
 * Aromanian: {{t|rup|sin}}
 * Asturian: {{t+|ast|pechu|m}}
-* Avar: {{t|av|кеке|sc=Cyrl}}
+* Avar: {{t|av|кеке}}
 * Azeri: {{t|az|məmə}}
-* Bashkir: {{t|ba|имсәк|sc=Cyrl}}
+* Bashkir: {{t|ba|имсәк}}
 * Basque: {{t|eu|bular}}, {{t|eu|titi}}, {{t|eu|ugatz}}, {{t+|eu|papar}}, {{t|eu|papo}}
 * Belarusian: {{t|be|гру́дзі|f-p}}
-* Bengali: {{t+|bn|স্তন|sc=Beng}}
+* Bengali: {{t+|bn|স্তন}}
 * Breton: {{t+|br|bronn|f}}
 * Bulgarian: {{t+|bg|гърда́|f}}, {{t|bg|гръд|f}}
-* Burmese: {{t+|my|နို့|sc=Mymr}}
-* Catalan: {{t+|ca|pit|m}}, {{t+|ca|mama|f}}, {{t|ca|mamella|f}} {{qualifier|colloquial, vulgar}}, {{t|ca|teta|f}} {{qualifier|colloquial}}, {{t+|ca|sina|f}} {{qualifier|poetic, formal}}
+* Burmese: {{t+|my|နို့}}
+* Catalan: {{t+|ca|pit|m}}, {{t+|ca|mama|f}}, {{t|ca|mamella|f}} {{qual|colloquial, vulgar}}, {{t|ca|teta|f}} {{qual|colloquial}}, {{t+|ca|sina|f}} {{qual|poetic, formal}}
 * Chamicuro: {{t|ccc|teni}}
 * Chamorro: {{t|ch|susu}}
 * Chichewa: {{t|ny|bere}}
 * Chinese:
-*: Mandarin: {{t+|cmn|乳房|tr=rǔfáng|sc=Hani}}, {{t+|cmn|胸|tr=xiōng|sc=Hani}}
-*: Min Nan: {{t+|nan|奶|tr=ling, ni|sc=Hans}}
+*: Mandarin: {{t+|cmn|乳房|tr=rǔfáng}}, {{t+|cmn|胸|tr=xiōng}}
+*: Min Nan: {{t+|nan|奶|tr=ling, ni}}
 * Chiricahua: {{t|apm|-be’}}
-* Coptic: {{t|cop|ⲕⲓϥⲓ|f|tr=kifi}}, {{t|cop|ⲙⲛⲟⲧ|m|tr=ʔmnod, ʔmnot}}, {{t|cop|ⲙⲛⲟϯ|p|tr=ʔmnodi, ʔmnoti}}
+* Coptic: {{t|cop|ⲕⲓϥⲓ|f}}, {{t|cop|ⲙⲛⲟⲧ|m|tr=ʔmnod, ʔmnot}}, {{t|cop|ⲙⲛⲟϯ|p|tr=ʔmnodi, ʔmnoti}}
 * Crimean Tatar: {{t|crh|emçek}}
 * Czech: {{t+|cs|prs|m}}, {{t+|cs|ňadro|n}}
 * Danish: {{t+|da|bryst|n}}
@@ -105,29 +91,29 @@ From {{etyl|enm|en}} {{m|enm|brest}}, from {{etyl|ang|en}} {{m|ang|brēost}}, fr
 * Finnish: {{t+|fi|rinta}}
 * French: {{t+|fr|sein|m}}
 * Friulian: {{t|fur|stomi}}, {{t|fur|pet}}, {{t|fur|tete}}, {{t|fur|sen}}
-* Georgian: {{t|ka|ძუძუ|sc=Geor}}
+* Georgian: {{t|ka|ძუძუ}}
 * German: {{t+|de|Brust|f}}
-* Greek: {{t+|el|στήθος|n}}, {{qualifier|formal}} {{t+|el|μαστός|m}}
+* Greek: {{t+|el|στήθος|n}}, {{t+|el|μαστός|m}} {{qual|formal}}
 * Guaraní: {{t|gn|titi}}
 * Haitian Creole: {{t|ht|sen}}
 * Hawaiian: {{t|haw|ū}}, {{t|haw|waiū}}
-* Hebrew: {{t+|he|שָׁד|m|tr=shad|sc=Hebr}}, {{qualifier|colloquial, vulgar}} {{t|he|ציצי|m|tr=tsitsi|sc=Hebr}}
+* Hebrew: {{t+|he|שָׁד|m|tr=shad}}, {{t|he|ציצי|m|tr=tsitsi}} {{qual|colloquial, vulgar}}
 * Hindi: {{t+|hi|स्तन|m}}
 * Hungarian: {{t+|hu|mell}}
 * Icelandic: {{t+|is|brjóst|n}}, {{t|is|bobblingur|m}} (vulgar)
 * Ido: {{t+|io|mamo}}
-* Indonesian: {{t+|id|payudara}}, {{qualifier|colloquial, vulgar}} {{t+|id|susu}}
+* Indonesian: {{t+|id|payudara}}, {{t+|id|susu}} {{qual|colloquial, vulgar}}
 * Irish: {{t|ga|brollach|m}}, {{t|ga|cíoch|f}}, {{t|ga|broinne|m}}
 * Italian: {{t+|it|seno|m}}
-* Japanese: {{t+|ja|胸|tr=むね, mune|sc=Jpan}}, {{t|ja|乳房|tr=ちぶさ, chibusa|sc=Jpan}}, {{t|ja|にゅうぼう|tr=nyūbō|sc=Jpan}}
-* Kannada: {{t+|kn|ಮೊಲೆ|sc=Knda}}, {{t+|kn|ಸ್ತನ|sc=Knda}}
-* Kazakh: {{t+|kk|емшек|sc=Cyrl}}
-* Khmer: {{t+|km|ដោះ|sc=Khmr|tr=dɑh}}, {{t|km|ថនា|sc=Khmr|tr=tʰanie}}, {{t+|km|សុដន់|sc=Khmr|tr=sodɑn}}
+* Japanese: {{t+|ja|胸|tr=むね, mune}}, {{t|ja|乳房|tr=ちぶさ, chibusa}}, {{t|ja|にゅうぼう|tr=nyūbō}}
+* Kannada: {{t+|kn|ಮೊಲೆ}}, {{t+|kn|ಸ್ತನ}}
+* Kazakh: {{t+|kk|емшек}}
+* Khmer: {{t+|km|ដោះ|tr=dɑh}}, {{t|km|ថនា|tr=tʰanie}}, {{t+|km|សុដន់|tr=sodɑn}}
 * Korean: {{t+|ko|유방}} ({{t+|ko|乳房}}), {{t+|ko|가슴}}
 * Kurdish: {{t+|ku|çiçik}}
-*: Sorani: {{t+|ku|مه‌مک|tr=memk|sc=ku-Arab}}
-* Kyrgyz: {{t+|ky|эмчек|sc=Cyrl}}
-* Lao: {{t+|lo|ຕູ້|sc=Laoo}}
+*: Sorani: {{t+|ku|مه‌مک|tr=memk}}
+* Kyrgyz: {{t+|ky|эмчек}}
+* Lao: {{t+|lo|ຕູ້}}
 * Latgalian: {{t|ltg|kryuts|f}}
 * Latin: {{t|la|mamma|f}}
 * Latvian: {{t+|lv|krūts|f}}
@@ -136,27 +122,27 @@ From {{etyl|enm|en}} {{m|enm|brest}}, from {{etyl|ang|en}} {{m|ang|brēost}}, fr
 * Luhya: {{t|luy|kamaturu}}
 * Macedonian: {{t|mk|града|f}}, {{t|mk|дојка|f}}
 * Malay: {{t|ms|tetek}}, {{t|ms|payudara}}, {{t|ms|susu}}
-* Malayalam: {{t+|ml|മുല|sc=Mlym}}, {{t|ml|സ്‌തനം|sc=Mlym}}
+* Malayalam: {{t+|ml|മുല}}, {{t|ml|സ്‌തനം}}
 * Maltese: {{t|mt|tas-sider}}
 * Manx: {{t|gv|kee}}
 * Meriam: {{t|ulk|nano}}
 * Mon: {{t|mnw|တှ်|tr=tɔh}}
-* Mongolian: {{t+|mn|мээм|sc=Cyrl}}
+* Mongolian: {{t+|mn|мээм}}
 * Mwani: {{t|wmw|were}}
 * Nahuatl: {{t+|nah|chichihualli}}
 * Navajo: {{t|nv|-be’|sc=nv-Latn}}
-* Nepali: {{t+|ne|स्तन|tr=stan|sc=Deva}}
+* Nepali: {{t+|ne|स्तन|tr=stan}}
 * Northern Sami: {{t|se|čižži}}
 * Norwegian:
-*: Bokmål: {{t|nb|bryst|n}}, (''informal'') {{t|nb|pupp|m}}
-*: Nynorsk: {{t|nn|bryst|n}}, (''informal'') {{t|nn|pupp|m}}
-* Ottoman Turkish: {{t|ota|پستان|tr=pistan|sc=ota-Arab}}, {{t|ota|ثدی|tr=sedy|sc=ota-Arab}}
+*: Bokmål: {{t|nb|bryst|n}}, {{t|nb|pupp|m}} {{qual|informal}}
+*: Nynorsk: {{t|nn|bryst|n}}, {{t|nn|pupp|m}} {{qual|informal}}
+* Ottoman Turkish: {{t|ota|پستان|tr=pistan}}, {{t|ota|ثدی|tr=sedy}}
 * Persian: {{t+|fa|پستان|tr=pestân}}
-* Pitjantjatjara: {{t|pjt|ipi|sc=pjt-Latn}}, {{t|pjt|mimi|sc=pjt-Latn}}
+* Pitjantjatjara: {{t|pjt|ipi}}, {{t|pjt|mimi}}
 * Polish: {{t+|pl|pierś|f}}, {{t+|pl|biust|m}}
 * Portuguese: {{t+|pt|seio|m}}, {{t+|pt|peito|m}}
 * Romanian: {{t+|ro|piept|m|f}}, {{t+|ro|sân|m}}
-* Russian: {{t+|ru|грудь|f}}, {{t+|ru|гру́ди|f-p}}, {{qualifier|mildly vulgar}} {{t+|ru|сиська|alt=си́ськи|f-p}}, {{t+|ru|пе́рси|f-p}} {{qualifier|dated or poetic}}, {{t+|ru|дойка|f-p|alt=до́йки}} {{qualifier|slang}}, {{t+|ru|ти́тьки|f-p}} {{qualifier|slang or childish}}, {{t+|ru|буфер|m-p|alt=буфера́}} {{qualifier|slang}}
+* Russian: {{t+|ru|грудь|f}}, {{t+|ru|гру́ди|f-p}}, {{t+|ru|сиська|alt=си́ськи|f-p}} {{qual|mildly vulgar}}, {{t+|ru|пе́рси|f-p}} {{qual|dated or poetic}}, {{t+|ru|дойка|f-p|alt=до́йки}} {{qual|slang}}, {{t+|ru|ти́тьки|f-p}} {{qual|slang or childish}}, {{t+|ru|буфер|m-p|alt=буфера́}} {{qual|slang}}
 * Sanskrit: {{t+|sa|कुच}}
 * Sardinian: {{t|sc|sinu}}
 * Scottish Gaelic: {{t|gd|cìoch|f}}
@@ -174,17 +160,17 @@ From {{etyl|enm|en}} {{m|enm|brest}}, from {{etyl|ang|en}} {{m|ang|brēost}}, fr
 * Swahili: {{t+|sw|titi|c5|c6}}
 * Swedish: {{t+|sv|bröst|n}}
 * Tagalog: {{t+|tl|suso}}
-* Tajik: {{t|tg|пистон|sc=Cyrl}}
-* Tamil: {{t+|ta|முலை|sc=Taml}}
-* Tatar: {{t+|tt|ими|sc=Cyrl}}
-* Telugu: {{t+|te|చన్ను|sc=Telu}}, {{t+|te|స్తనము|sc=Telu}}
+* Tajik: {{t|tg|пистон}}
+* Tamil: {{t+|ta|முலை}}
+* Tatar: {{t+|tt|ими}}
+* Telugu: {{t+|te|చన్ను}}, {{t+|te|స్తనము}}
 * Thai: {{t|th|เต้านม}}
 * Torres Strait Creole: {{t|tcs|susu}}
 * Turkish: {{t+|tr|meme}}
 * Turkmen: {{t|tk|emjek}}, {{t|tk|määme}}
-* Ukrainian: {{t|uk|грудь|f|sc=Cyrl}}, usually plural: {{t|uk|гру́ди|f-p}}
-* Urdu: {{t|ur|پستان|m|tr=pistān|sc=ur-Arab}}
-* Uyghur: {{t|ug|يېلىن|sc=ug-Arab}}
+* Ukrainian: {{t|uk|грудь|f}}, usually plural: {{t|uk|гру́ди|f-p}}
+* Urdu: {{t|ur|پستان|m|tr=pistān}}
+* Uyghur: {{t|ug|يېلىن}}
 * Uzbek: {{t+|uz|emchak}}
 * Vietnamese: {{t+|vi|vú}}
 * Volapük: {{t+|vo|blöt}}
@@ -203,52 +189,52 @@ From {{etyl|enm|en}} {{m|enm|brest}}, from {{etyl|ang|en}} {{m|ang|brēost}}, fr
 * Aromanian: {{t+|rup|cheptu}}
 * Asturian: {{t+|ast|pechu}}
 * Azeri: {{t+|az|döş}}
-* Bashkir: {{t|ba|күкрәк|sc=Cyrl}}, {{t|ba|түш|sc=Cyrl}}
+* Bashkir: {{t|ba|күкрәк}}, {{t|ba|түш}}
 * Breton: {{t+|br|bruched|m}}
-* Bulgarian: {{t+|bg|гърди́|p|sc=Cyrl}}, {{t|bg|гръден кош}}
-* Burmese: {{t+|my|ရင်|sc=Mymr}}, {{t+|my|ရင်ဘတ်|sc=Mymr}}
+* Bulgarian: {{t+|bg|гърди́|p}}, {{t|bg|гръден кош}}
+* Burmese: {{t+|my|ရင်}}, {{t+|my|ရင်ဘတ်}}
 * Catalan: {{t+|ca|pit|m}}
 * Chamicuro: {{t|ccc|tu'lu}}
 * Chinese:
-*: Cantonese: {{t|yue|胸部|tr=hung1 bou6|sc=Hani}}
-*: Mandarin: {{t+|cmn|胸部|tr=xiōngbù|sc=Hani}}
+*: Cantonese: {{t|yue|胸部|tr=hung1 bou6}}
+*: Mandarin: {{t+|cmn|胸部|tr=xiōngbù}}
 * Crimean Tatar: {{t|crh|köküs}}, {{t|crh|kökrek}}
 * Czech: {{t|cs|hruď}}
 * Dutch: {{t+|nl|borst|f}}
 * Faroese: {{t|fo|bringa|f}}
 * Finnish: {{t+|fi|rinta}}, {{t+|fi|rintakehä}}
 * French: {{t+|fr|poitrine|f}}
-* Georgian: {{t|ka|მკერდი|sc=Geor}}
+* Georgian: {{t|ka|მკერდი}}
 * German: {{t+|de|Brust|f}}
 * Greek: {{t+|el|στήθος|n}}, {{t+|el|στέρνο|n}}
-* Gujarati: {{t+|gu|છાતી|tr=chātī|sc=Gujr}}
-* Hebrew: {{t+|he|חזה|m|tr=khaze|sc=Hebr}}
-* Hindi: {{t+|hi|छाती|f|tr=chātī|sc=Deva}}
+* Gujarati: {{t+|gu|છાતી}}
+* Hebrew: {{t+|he|חזה|m|tr=khaze}}
+* Hindi: {{t+|hi|छाती|f}}
 * Hungarian: {{t+|hu|mell}}
 * Icelandic: {{t+|is|bringa|f}}, {{t+|is|brjóst|f}}
 * Indonesian: {{t+|id|dada}}
 * Irish: {{t|ga|brollach|m}}, {{t|ga|ucht|m}}
 * Istro-Romanian: {{t|ruo|kľeptu}}
 * Italian: {{t+|it|petto|m}}
-* Japanese: {{t+|ja|胸|tr=[[むね]], muné|sc=Jpan}}
+* Japanese: {{t+|ja|胸|tr=[[むね]], muné}}
 {{trans-mid}}
-* Kazakh: {{t|kk|кеуде|sc=Cyrl}}
-* Khmer: {{t|km|ដើមទ្រូង|sc=Khmr|tr=daəm truung}}
+* Kazakh: {{t|kk|кеуде}}
+* Khmer: {{t|km|ដើមទ្រូង|tr=daəm truung}}
 * Korean: {{t+|ko|가슴}}
 * Kurdish:
-*: Sorani: {{t+|ku|سنگ|tr=sing|sc=ku-Arab}}
-* Kyrgyz: {{t|ky|көкүрөк|sc=Cyrl}}
-* Lao: {{t|lo|ຊວງ|sc=Laoo}}
+*: Sorani: {{t+|ku|سنگ|tr=sing}}
+* Kyrgyz: {{t|ky|көкүрөк}}
+* Lao: {{t|lo|ຊວງ}}
 * Latin: {{t|la|pectus|n}}
 * Macedonian: {{t|mk|гради|f-p}}
 * Malay: {{t|ms|dada}}
 * Maltese: {{t|mt|sider|m}}
 * Neapolitan: {{t|nap|pietto|m}}
-* Nepali: {{t|ne|छाती|sc=Deva}}
+* Nepali: {{t|ne|छाती}}
 * Norman: {{t|nrf|broinne|m}}
 * Norwegian: {{t|no|bryst|n}}
 * Occitan: {{t+|oc|pitre}}
-* Persian: {{t+|fa|سینه|tr=sine|sc=fa-Arab}}
+* Persian: {{t+|fa|سینه|tr=sine}}
 * Portuguese: {{t+|pt|peito|m}}, {{t+|pt|peitos|m-p}}
 * Romanian: {{t+|ro|piept}}
 * Romansch: {{t|rm|pet}}, {{t|rm|pèz}}
@@ -256,11 +242,11 @@ From {{etyl|enm|en}} {{m|enm|brest}}, from {{etyl|ang|en}} {{m|ang|brēost}}, fr
 * Scottish Gaelic: {{t|gd|broilleach|m}}, {{t|gd|uchd|m}}
 * Spanish: {{t+|es|pecho|m}}
 * Swedish: {{t+|sv|bröst|n}}, {{t+|sv|bringa|n}}
-* Tajik: {{t|tg|сина|sc=Cyrl}}
-* Tatar: {{t+|tt|түш|sc=Cyrl}}, {{t+|tt|күкрәк|sc=Cyrl}}
+* Tajik: {{t|tg|сина}}
+* Tatar: {{t+|tt|түш}}, {{t+|tt|күкрәк}}
 * Turkish: {{t+|tr|göğüs}}
 * Turkmen: {{t|tk|göwüs}}
-* Urdu: {{t|ur|چهاتي|f|tr=chātī|sc=ur-Arab}}
+* Urdu: {{t|ur|چهاتي|f|tr=chātī}}
 * Uzbek: {{t+|uz|bagʻir}}
 * Volapük: {{t+|vo|blöt}}
 * Walloon: {{t+|wa|pwetrene|f}}
@@ -272,7 +258,7 @@ From {{etyl|enm|en}} {{m|enm|brest}}, from {{etyl|ang|en}} {{m|ang|brēost}}, fr
 * Finnish: {{t|fi|rinnus}}, {{t|fi|rintamus}}, {{t+|fi|miehusta}}
 * Greek: {{t+|el|στήθος|n}}
 * Kurdish:
-*: Sorani: {{t+|ku|سنگ|tr=sing|sc=ku-Arab}}
+*: Sorani: {{t+|ku|سنگ|tr=sing}}
 {{trans-mid}}
 * Norwegian: {{t|no|bryst|n}}
 * Russian: {{t+|ru|грудь|f}}
@@ -282,23 +268,23 @@ From {{etyl|enm|en}} {{m|enm|brest}}, from {{etyl|ang|en}} {{m|ang|brēost}}, fr
 {{trans-top|seat of emotions}}
 * Bulgarian: {{t|bg|гръд|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|思想|tr=sīxiǎng|sc=Hani}}
+*: Mandarin: {{t+|cmn|思想|tr=sīxiǎng}}
 * Dutch: {{t+|nl|hart|n}}
 * Finnish: {{t+|fi|rinta}}, {{t+|fi|sydän}}
 * French: {{t+|fr|poitrine|f}}, {{t+|fr|cœur|m}}
 * German: {{t+|de|Brust|f}}
-* Greek: {{t+|el|καρδιά|f}}, {{t+|el|στήθος|n|sc=Grek}} {{qualifier|usu plural}}
-* Hebrew: {{t+|he|לב|m|tr=lev|sc=Hebr}}
+* Greek: {{t+|el|καρδιά|f}}, {{t+|el|στήθος|n}} {{qual|usually plural}}
+* Hebrew: {{t+|he|לב|m|tr=lev}}
 * Hungarian: {{t+|hu|kebel}}
 * Icelandic: {{t+|is|brjóst|f}}
 {{trans-mid}}
 * Kurdish:
-*: Sorani: {{t|ku|دڵ|tr=dil|sc=ku-Arab}}
+*: Sorani: {{t|ku|دڵ|tr=dil}}
 * Macedonian: {{t|mk|гради|f-p}}
 * Ngazidja Comorian: {{t|zdj|ifuɓa|c7|c8|tr=ifuba}}
 * Norwegian: {{t|no|bryst|n}}
 * Portuguese: {{t+|pt|coração|m}}
-* Russian: {{t+|ru|се́рдце|n}} {{qualifier|letter "{{l|ru|д}}" ("d") is silent}}
+* Russian: {{t+|ru|се́рдце|n}} {{qual|letter "{{l|ru|д}}" ("d") is silent}}
 * Spanish: {{t+|es|corazón|m}}
 * Swahili: {{t+|sw|kifua|c7|c8}}
 * Swedish: {{t+|sv|bröst|n}}
@@ -307,7 +293,7 @@ From {{etyl|enm|en}} {{m|enm|brest}}, from {{etyl|ang|en}} {{m|ang|brēost}}, fr
 {{trans-top|animal's thorax}}
 * Armenian: {{t+|hy|դոշ}}
 * Chinese:
-*: Mandarin: {{t+|cmn|胸甲|tr=xiōngjiǎ|sc=Hani}}
+*: Mandarin: {{t+|cmn|胸甲|tr=xiōngjiǎ}}
 * Dutch: {{t+|nl|borst|f}}
 * Finnish: {{t+|fi|rinta}}
 * French: {{t+|fr|poitrine|f}}, {{t+|fr|poitrail|m}}
@@ -327,13 +313,13 @@ From {{etyl|enm|en}} {{m|enm|brest}}, from {{etyl|ang|en}} {{m|ang|brēost}}, fr
 {{trans-top|choice cut of meat from poultry or other animals}}
 * Bulgarian: {{t+|bg|гърди|p}}
 * Chinese:
-*: Cantonese: {{t|yue|胸|tr=hung1|sc=Hani}}
-*: Mandarin: {{t+|cmn|胸|tr=xiōng|sc=Hani}}
+*: Cantonese: {{t|yue|胸|tr=hung1}}
+*: Mandarin: {{t+|cmn|胸|tr=xiōng}}
 * Dutch: {{t+|nl|borst|f}}, {{t|nl|borststuk|n}}
 * Faroese: {{t|fo|bringa|f}}
 * Finnish: {{t+|fi|rinta}}
 * French: {{t+|fr|blanc|m}}
-* German: {{t|de|-brust|f}}, {{t|de|Entenbrust|f}} {{qualifier|duck}}, {{t|de|Fasanenbrust|f}} {{qualifier|pheasant}}, {{t|de|Gänsebrust|f}} {{qualifier|goose}}, {{t|de|Geflügelbrust|f}} {{qualifier|chicken}}, {{t+|de|Hühnchenbrust|f}} {{qualifier|chicken}}, {{t|de|Hähnchenbrust|f}} {{qualifier|chicken}}, {{t|de|Hammelbrust|f}} {{qualifier|sheep}}, {{t|de|Schweinsbrust|f}} {{qualifier|pork}}
+* German: {{t|de|-brust|f}}, {{t|de|Entenbrust|f}} {{qual|duck}}, {{t|de|Fasanenbrust|f}} {{qual|pheasant}}, {{t|de|Gänsebrust|f}} {{qual|goose}}, {{t|de|Geflügelbrust|f}} {{qual|chicken}}, {{t+|de|Hühnchenbrust|f}} {{qual|chicken}}, {{t|de|Hähnchenbrust|f}} {{qual|chicken}}, {{t|de|Hammelbrust|f}} {{qual|sheep}}, {{t|de|Schweinsbrust|f}} {{qual|pork}}
 * Greek: {{t+|el|στήθος|n}}
 * Hungarian: {{t+|hu|mell}}
 * Icelandic: {{t+|is|bringa|f}}
@@ -342,29 +328,29 @@ From {{etyl|enm|en}} {{m|enm|brest}}, from {{etyl|ang|en}} {{m|ang|brēost}}, fr
 * Irish: {{t|ga|brollach|m}}
 * Italian: {{t+|it|petto|m}}
 * Kurdish:
-*: Sorani: {{t+|ku|سنگ|tr=sing|sc=ku-Arab}}
+*: Sorani: {{t+|ku|سنگ|tr=sing}}
 * Macedonian: {{t|mk|гради|f-p}}
 * Norwegian: {{t+|no|bringe|c}}
 * Portuguese: {{t+|pt|peito|m}}
 * Russian: {{t+|ru|гру́дка|f}}
 * Spanish: {{t+|es|pechuga|f}}
 * Swedish: {{t+|sv|bröst|n}}
-* Volapük: {{t|vo|-blötot}}, {{t|vo|gokablötot}} {{qualifier|chicken}}, {{t|vo|dindunablötot}} {{qualifier|turkey}}, {{t|vo|pijunablötot}} {{qualifier|pigeon}}, {{t|vo|pijunülablötot}} {{qualifier|squab}}, {{t|vo|fasanablötot}} {{qualifier|pheasant}}, {{t|vo|koturablötot}} {{qualifier|quail}}
+* Volapük: {{t|vo|-blötot}}, {{t|vo|gokablötot}} {{qual|chicken}}, {{t|vo|dindunablötot}} {{qual|turkey}}, {{t|vo|pijunablötot}} {{qual|pigeon}}, {{t|vo|pijunülablötot}} {{qual|squab}}, {{t|vo|fasanablötot}} {{qual|pheasant}}, {{t|vo|koturablötot}} {{qual|quail}}
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Romanian: {{t+check|ro|sân|f}}, {{t-check|ro|tâță|f}} :[[sâni, tâțe]] {{g|p}}
-* Swahili: {{t+check|sw|titi}}, {{t+check|sw|matiti}} (''pl noun 5/6''), {{t+check|sw|titi}}
+* Romanian: {{t+check|ro|sân|f}}, {{t-check|ro|tâță|f}} :[[sâni]], [[tâțe]] {{g|p}}
+* Swahili: {{t+check|sw|titi}}, {{t+check|sw|matiti}} {{qual|pl noun 5/6}}, {{t+check|sw|titi}}
 {{trans-mid}}
-* Swahili: {{t-check|sw|maziwa ''pl}} (noun 6)'' (2)
-* Thai: {{t-check|th|เต้านม|sc=Thai|tr=dtâo nom}}
+* Swahili: {{t-check|sw|maziwa}}  {{qual|pl (noun 6)}} (2)
+* Thai: {{t-check|th|เต้านม|tr=dtâo nom}}
 {{trans-bottom}}
 
 ===Verb===
 {{en-verb}}
 
-# {{lb|en|transitive}} To push against with the breast; to meet full on, to [[oppose]], to [[face]].
-#: ''He '''breasted''' the hill and saw the town before him.''
+# {{lb|en|transitive}} To push against with the breast; to meet full on, [[oppose]], [[face]]
+#: {{ux|en|He '''breasted''' the hill and saw the town before him.}}
 #* Wirt
 #*: The court '''breasted''' the popular current by sustaining the demurrer.
 
