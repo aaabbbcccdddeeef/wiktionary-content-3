@@ -250,6 +250,9 @@ From {{etyl|enm|en}} {{m|enm|floten}}, from {{etyl|ang|en}} {{m|ang|flotian||to 
 # {{lb|en|UK|dated}} A [[coal]] [[cart]].
 #: {{rfquotek|Simmonds}}
 # A [[breakdancing]] [[move]] in which the body is held [[parallel]] to the floor while balancing on one or both hands.
+# {{lb|en|computing}} A [[visual]] [[style]] on a [[web page]] that causes the [[element]]s inside it to float above or beside others.
+#* '''2007''', Michael Bowers, ''Pro CSS and HTML Design Patterns'' (page 93)
+#*: When a '''float''' cannot fit next to another float, it moves down below it. A float's position, size, padding, borders, and margins affect the position of adjacent floats and adjacent inline content.
 
 ====Synonyms====
 * {{sense|Shares offered to the public:}} {{l|en|initial public offering}}
