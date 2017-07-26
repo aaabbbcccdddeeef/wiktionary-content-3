@@ -26,21 +26,22 @@
 #: ''In the sentence "What did Bill say he wants to buy?", "what" is an '''operator''', binding a phonetically empty variable.''
 
 ====Hyponyms====
-{{hyp4|lang=en
-|arithmetic operator
-|assignment operator
-|binary operator
-|bitwise operator
-|conditional operator
-|comparison operator
-|differential operator
-|integral operator
-|lifted operator
-|logic operator
-|smooth operator
-|ternary operator
-|unary operator
-}}
+{{hyp4
+| {{l|en|arithmetic operator}}
+| {{l|en|assignment operator}}
+| {{l|en|binary operator}}
+| {{l|en|bitwise operator}}
+| {{l|en|conditional operator}}
+| {{l|en|comparison operator}}
+| {{l|en|differential operator}}
+| {{l|en|infix operator}}
+| {{l|en|integral operator}}
+| {{l|en|lifted operator}}
+| {{l|en|logic operator}}
+| {{l|en|smooth operator}}
+| {{l|en|ternary operator}}
+| {{l|en|unary operator}}
+|lang=en}}
 
 ====Related terms====
 {{rel4|lang=en
