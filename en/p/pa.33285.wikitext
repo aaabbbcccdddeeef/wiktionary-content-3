@@ -16,7 +16,7 @@
 
 =====Usage notes=====
 * Often capitalized when used to refer to a specific person; see [[Pa]].
-: ''Hey, Pa, I'd like you to meet my friend Jamie.''
+: {{ux|en|Hey, Pa, I'd like you to meet my friend Jamie.}}
 
 =====Synonyms=====
 * {{sense|father}} {{l|en|da}} {{qualifier|Irish}} <!-- is this a translation? or a word in the Irish version of English (in which case it should perhaps read as such)? -->, [[dad]], [[daddy]], [[papa]], [[pater]]
@@ -29,7 +29,7 @@
 * German: {{t+|de|Vati|m}}
 * Italian: {{t+|it|papà|m}}, {{t+|it|babbo|m}}
 {{trans-mid}}
-* Macedonian: {{t|mk|тато|m|tr=táto}}
+* Macedonian: {{t|mk|та́то|m}}|tr=táto
 * Russian: {{t+|ru|па́па|m}}
 * Spanish: {{t+|es|papá|m}}
 * Volapük: {{t+|vo|fatül}}
@@ -41,7 +41,7 @@
 * German: {{t+|de|Opa|m}}
 * Italian: {{t+|it|nonno|m}}
 {{trans-mid}}
-* Macedonian: {{t|mk|дедо|m|tr=dédo}}
+* Macedonian: {{t|mk|де́до|m}}|tr=dédo
 * Russian: {{t+|ru|де́душка|m}}
 * Spanish: {{t+|es|abuelo|m}}, {{t|es|abuelito|m}}
 {{trans-bottom}}
@@ -51,14 +51,15 @@
 * {{l|en|ma}}
 
 ===Etymology 2===
-
-====Alternative forms====
-* {{l|en|pah}}
+{{bor|en|mi|-}}.
 
 ====Noun====
 {{en-noun}}
 
-# A [[Maori]] [[fort]].
+# a [[Maori]] [[fort]]
+
+=====Alternative forms=====
+* {{l|en|pah}}
 
 ===Anagrams===
 * {{anagrams|en|A&P|AP|Ap|ap|ap.}}
@@ -68,6 +69,9 @@
 ----
 
 ==Afrikaans==
+
+===Etymology===
+From {{inh|af|nl|-}}.
 
 ===Noun===
 {{af-noun|pa's}}
@@ -89,7 +93,7 @@
 ==Albanian==
 
 ===Etymology===
-From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*apa}}, from {{etyl|ine-pro|sq}} {{m|ine-pro|*h2(e)po-}} 'off, away'. Cognate to Ancient Greek {{m|grc|ἄπα}}, {{m|grc|ἀπά||away, off}}.
+From {{inh|sq|sqj-pro|*apa}}, from {{der|sq|ine-pro|*h2(e)po-|t=off, away}}. Cognate to {{cog|grc|ἄπα}}, {{m|grc|ἀπά|t=away, off}}.
 
 ===Preposition===
 {{sq-preposition|ac}}
@@ -109,7 +113,7 @@ From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*apa}}, from {{etyl|ine-pro|sq}} {{m|ine-pr
 ==Anuta==
 
 ===Etymology===
-From {{etyl|poz-pol-pro|aud}} {{m|poz-pol-pro|*fa}}, from {{etyl|poz-oce-pro|aud}} {{m|poz-oce-pro|*pat}}, from {{etyl|pqe-pro|aud}} {{m|pqe-pro|*əpat}}, from {{etyl|poz-cet-pro|aud}} {{m|poz-cet-pro|*əpat}}, from {{etyl|poz-pro|aud}} {{m|poz-pro|*əpat}}, from {{etyl|map-pro|aud}} {{m|map-pro|*Səpat}}.
+From {{inh|aud|poz-pol-pro|*fa}}, from {{inh|aud|poz-oce-pro|*pat}}, from {{inh|aud|pqe-pro|*əpat}}, from {{der|aud|poz-cet-pro|*əpat}}, from {{inh|aud|poz-pro|*əpat}}, from {{inh|aud|map-pro|*Səpat}}.
 
 ===Numeral===
 {{head|aud|numeral}}
@@ -123,7 +127,7 @@ From {{etyl|poz-pol-pro|aud}} {{m|poz-pol-pro|*fa}}, from {{etyl|poz-oce-pro|aud
 ==Asturian==
 
 ===Etymology===
-Compare Spanish {{m|es|pa}}, a contracted form of {{m|es|para}}.
+Compare {{cog|es|pa}}, a contracted form of {{m|es|para}}.
 
 ===Preposition===
 {{head|ast|preposition}}
@@ -160,7 +164,7 @@ Compare Spanish {{m|es|pa}}, a contracted form of {{m|es|para}}.
 ==Catalan==
 
 ===Etymology===
-From {{inh|ca|pro|pan}}, from {{inh|ca|la|panis|pānis, pānem}}, possibly from {{der|ca|ine-pro|*peh₂-||to graze, feed}}.
+From {{inh|ca|pro|pan}}, from {{inh|ca|la|[[pānis]], pānem}}, possibly from {{der|ca|ine-pro|*peh₂-|t=to graze, feed}}.
 
 ===Pronunciation===
 * {{ca-IPA}}
@@ -223,7 +227,7 @@ From {{inh|ca|pro|pan}}, from {{inh|ca|la|panis|pānis, pānem}}, possibly from 
 ==Fala==
 
 ===Etymology===
-From {{etyl|roa-opt|fax}} {{m|roa-opt|pera}}.
+From {{inh|fax|roa-opt|pera}}.
 
 ===Preposition===
 {{head|fax|preposition}}
@@ -251,7 +255,7 @@ From {{etyl|roa-opt|fax}} {{m|roa-opt|pera}}.
 ==Haitian Creole==
 
 ===Etymology===
-From {{etyl|fr|ht}} {{m|fr|pas}}
+From {{der|ht|fr|pas}}.
 
 ===Adverb===
 {{head|ht|adverb}}
@@ -259,7 +263,7 @@ From {{etyl|fr|ht}} {{m|fr|pas}}
 # [[not]]
 
 ====Usage notes====
-* Double negatives (e.g. pa ... [[janm]] or pa ... [[anyen]]) are grammatically correct in Haitian Creole.
+* Double negatives (e.g. {{m|ht|pa ... [[janm]]}} or {{m|ht|pa ... [[anyen]]}}) are grammatically correct in Haitian Creole.
 
 ----
 
@@ -268,7 +272,7 @@ From {{etyl|fr|ht}} {{m|fr|pas}}
 ===Verb===
 {{head|hiw|verb}}
 
-# to [[finish]], to (be brought to an) [[end]]
+# to [[finish]], (be brought to an) [[end]]
 
 ===Further reading===
 * Alexandre François, ''Pragmatic demotion and clause dependency: On two atypical subordinating strategies in the Lo-Toga and Hiw (Torres, Vanuatu)'' (2010), in ''Clause Linking and Clause Hierarchy'' (edited by Isabelle Bril)
@@ -335,10 +339,13 @@ From {{etyl|fr|ht}} {{m|fr|pas}}
 
 ==Maori==
 
+===Etymology===
+{{rfe|lang=mi}}
+
 ===Noun===
 {{mi-noun}}
 
-# A [[Maori]] fortified camp.
+# a [[Maori]] fortified camp
 
 ----
 
@@ -373,11 +380,11 @@ From {{etyl|fr|ht}} {{m|fr|pas}}
 
 ==Old Prussian==
 
+===Etymology===
+From the {{der|prg|ine-pro|-}} root {{m|ine-pro|*upo-|t=under, up}}.
+
 ===Pronunciation===
 * {{rfp|lang=prg}}
-
-===Etymology===
-From the {{etyl|ine-pro|prg}} root ''*upo-'' (''under'', ''up'').
 
 ===Preposition===
 {{head|prg|preposition}}
@@ -435,7 +442,7 @@ From {{inh|ple|plf-pro|*əpat}}, from {{der|ple|poz-cet-pro|*əpat}}, from {{inh
 ==Romanian==
 
 ===Etymology===
-{{borrowing|ro|hu|pá}}.
+{{bor|ro|hu|pá}}.
 
 ===Pronunciation===
 * {{IPA|[pa]|lang=ro}}
@@ -454,7 +461,7 @@ From {{inh|ple|plf-pro|*əpat}}, from {{der|ple|poz-cet-pro|*əpat}}, from {{inh
 ==Serbo-Croatian==
 
 ===Etymology===
-Common South Slavic; compare Slovene {{m|sl|pa}}, Bulgarian {{m|bg|па}}. See also {{m|sh|pa-}}.
+Common South Slavic; compare {{cog|sl|pa}}, {{cog|bg|па}}. See also {{m|sh|pa-}}.
 
 ===Pronunciation===
 * {{IPA|/pa/|lang=sh}}
@@ -530,8 +537,8 @@ Common South Slavic; compare Slovene {{m|sl|pa}}, Bulgarian {{m|bg|па}}. See a
 
 ====Usage notes====
 * This verb must be used with an object concord:
-:* ''Nime'''wa'''kupa kitabu'' (I have given '''them''' a book)
-:* ''Nija'''wa'''pa kitabu'' (I have not (yet) given '''them''' a book)
+:* {{ux|sw|Nime'''wa'''kupa kitabu.|inline=1|I have given '''them''' a book.}}
+:* {{ux|sw|Nija'''wa'''pa kitabu.|inline=1|I have not (yet) given '''them''' a book.}}
 
 ===Particle===
 {{head|sw|particle form}}
@@ -543,7 +550,7 @@ Common South Slavic; compare Slovene {{m|sl|pa}}, Bulgarian {{m|bg|па}}. See a
 ==Tshobdun==
 
 ===Etymology===
-{{inh|sit-tsh|sit-pro|*pʷak}}.
+From {{inh|sit-tsh|sit-pro|*pʷak}}.
 
 ===Noun===
 {{head|sit-tsh|noun}}
@@ -599,7 +606,7 @@ From {{inh|cy|cel-pro|*kʷid}}, from {{inh|cy|ine-pro|*kʷid}} (compare {{m|ine-
 ==Zazaki==
 
 ===Etymology===
-From {{etyl|ine-pro|zza}} {{m|ine-pro|*pṓds||foot}}, cognates include Sanskrit {{m|sa|पद्|tr=pád}}, Latin {{m|la|pes}} (French {{m|fr|pied}}), German {{m|de|Fuß}}, English {{m|en|foot}}.
+From {{der|zza|ine-pro|*pṓds||foot}}, cognates include {{cog|sa|पद्|tr=pád}}, {{cog|la|pes}} ({{cog|fr|pied}}), {{cog|de|Fuß}}, {{cog|en|foot}}.
 
 ===Pronunciation===
 * {{IPA|/pɔː/|lang=zza}}
@@ -607,6 +614,4 @@ From {{etyl|ine-pro|zza}} {{m|ine-pro|*pṓds||foot}}, cognates include Sanskrit
 ===Noun===
 {{zza-noun}}
 
-# [[leg]], [[foot]]
-
-[[Category:zza:Anatomy]]
+# {{lb|zza|anatomy}} [[leg]], [[foot]]
