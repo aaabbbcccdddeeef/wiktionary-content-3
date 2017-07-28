@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-Recorded since 1580; presumably short for {{m|en|luncheon}}, but earliest found also as {{m|en|lunshin}}, {{m|en|lunching}}, equivalent to {{suffix||alt1=lunch|ing|lang=en}}, with the suffix {{m|en|-ing}} later modified to simulate a French origin. ''Lunch'' is possibly a variant of {{m|en|lump}} (as {{m|en|hunch}} is for {{m|en|hump}}, etc.), or represents an alteration of {{m|en|nuncheon}}, from {{etyl|enm|en}} {{m|enm|nonechenche}} {{gloss|"light mid-day meal"; see {{l|en|nuncheon}}}} and altered by northern English dialect {{m|en||lunch|hunk of bread or cheese}} (1590), which perhaps is from {{m|en|lump}} or from {{cog|es|lonja||a slice|lit=loin}}.
+Recorded since 1580; presumably short for {{m|en|luncheon}}, but earliest found also as {{m|en|lunshin}}, {{m|en|lunching}}, equivalent to {{af|en||alt1=lunch|-ing}}, with the suffix {{m|en|-ing}} later modified to simulate a French origin. ''Lunch'' is possibly a variant of {{m|en|lump}} (as {{m|en|hunch}} is for {{m|en|hump}}, etc.), or represents an alteration of {{m|en|nuncheon}}, from {{der|en|enm|nonechenche|t=light mid-day meal}} (see {{l|en|nuncheon}}) and altered by northern English dialect {{m|en||lunch|t=hunk of bread or cheese}} (1590), which perhaps is from {{m|en|lump}} or from {{cog|es|lonja|t=a slice|lit=loin}}.
 
 ===Pronunciation===
 * {{IPA|/lʌnt͡ʃ/|lang=en}}
@@ -25,20 +25,14 @@ Recorded since 1580; presumably short for {{m|en|luncheon}}, but earliest found 
 * {{sense|midday meal}} {{l|en|luncheon}}; {{l|en|nones}} {{qualifier|obsolete}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|liquid lunch}}
-* {{l|en|little lunch}}
-{{der-mid}}
-* {{l|en|lunch break}}
-* {{l|en|playlunch}}
-{{der-bottom}}
+{{der4|liquid lunch|little lunch|lunch break|playlunch|lang=en}}
 
 ====Translations====
 {{trans-top|meal around midday}}
 * Afrikaans: {{t|af|middagete}}
 * Albanian: {{t+|sq|drekë|f}}, {{t+|sq|sillë|f}}
 * Arabic: {{t|ar|غَدَاء|m}}
-*: Hijazi Arabic: {{t|acw|غدا|m|tr=ḡada|sc=Arab}}
+*: Hijazi Arabic: {{t|acw|غدا|m|tr=ḡada}}
 * Armenian: {{t|hy|լանչ}}, {{t+|hy|ճաշ}}
 * Aromanian: {{t|rup|prãndzu}}
 * Asturian: {{t+|ast|comida|f}}
@@ -46,15 +40,15 @@ Recorded since 1580; presumably short for {{m|en|luncheon}}, but earliest found 
 * Baluchi: {{t|bal|چاشت|tr=cášt}}
 * Basque: {{t+|eu|bazkari}}
 * Belarusian: {{t|be|абе́д|m}}
-* Bengali: {{t|bn|লাঞ্চ|tr=lanc|sc=Beng}}
+* Bengali: {{t|bn|লাঞ্চ}}
 * Breton: {{t+|br|merenn|f}}
 * Bulgarian: {{t+|bg|обя́д|m}}
-* Burmese: {{t+|my|နေ့လယ်စာ|sc=Mymr}}
+* Burmese: {{t+|my|နေ့လယ်စာ}}
 * Catalan: {{t+|ca|dinar|m}}
 * Central Atlas Tamazight: {{t|tzm|ⵎⵎⵏⵙⵓ|tr=mmnsu}}, {{t|tzm|ⵉⵎⴽⵍⵉ|tr=imkli}}
 * Chinese:
-*: Cantonese: {{t|yue|晏晝|sc=Hani}}, {{t|yue|晏昼|tr=aan3 zau3|sc=Hani}}
-*: Mandarin: {{t+|cmn|午飯|sc=Hani}}, {{t+|cmn|午饭|tr=wǔfàn|sc=Hani}}, {{t+|cmn|午餐|tr=wǔcān|sc=Hani}}
+*: Cantonese: {{t|yue|晏晝}}, {{t|yue|晏昼|tr=aan3 zau3}}
+*: Mandarin: {{t+|cmn|午飯}}, {{t+|cmn|午饭|tr=wǔfàn}}, {{t+|cmn|午餐|tr=wǔcān}}
 * Czech: {{t+|cs|oběd|m}}
 * Danish: {{t+|da|frokost|c}}
 * Dutch: {{t+|nl|lunch}}, {{t+|nl|middageten|n}}, {{t|nl|([[licht]]) [[middagmaal]]|n}}
@@ -71,7 +65,7 @@ Recorded since 1580; presumably short for {{m|en|luncheon}}, but earliest found 
 *: Ancient: {{t|grc|ἄριστον|n}}
 * Hawaiian: {{t|haw|ʻaina awakea}}
 * Hebrew: {{t+|he|ארוחת צהריים|f|tr=arukhát' tsohoráyim|alt=אֲרוּחַת צָהֳרַיִם / ארוחת צהריים}}
-* Hindi: {{t+|hi|लंच|m}}, {{t|hi|दोपहर का खाना|m|sc=Deva}}
+* Hindi: {{t+|hi|लंच|m}}, {{t|hi|दोपहर का खाना|m}}
 * Hungarian: {{t+|hu|ebéd}}
 * Ido: {{t+|io|dejuno}}, {{t+|io|dejuneto}}
 * Indonesian: {{t+|id|makan siang}}
@@ -79,17 +73,17 @@ Recorded since 1580; presumably short for {{m|en|luncheon}}, but earliest found 
 * Inupiak: {{t|ik|aiḷiłiq}}, {{t|ik|qitiqquutaq}}
 * Irish: {{t|ga|lón|m}}
 * Italian: {{t+|it|pranzo|m}}, {{t|it|seconda colazione|f}}
-* Japanese: {{t+|ja|昼食|tr=ちゅうしょく, chūshoku|sc=Jpan}}, {{t+|ja|昼ご飯|tr=ひるごはん, hirugohan|sc=Jpan}}, {{t+|ja|昼|tr=おひる, o-hiru|alt=お昼|sc=Jpan}}, {{t+|ja|ランチ|tr=ranchi|sc=Jpan}}
-* Kazakh: {{t|kk|қонақасы|sc=Cyrl}}, {{t+|kk|түскі ас|sc=Cyrl}}, {{t|kk|түскі тамақ|sc=Cyrl}}, {{t|kk|түстік|sc=Cyrl}}
-* Khmer: {{t|km|អាហារថ្ងៃត្រង់|tr=aahaa tŋay trɑŋ|sc=Khmr}}
+* Japanese: {{t+|ja|昼食|tr=ちゅうしょく, chūshoku}}, {{t+|ja|昼ご飯|tr=ひるごはん, hirugohan}}, {{t+|ja|昼|tr=おひる, o-hiru|alt=お昼}}, {{t+|ja|ランチ|tr=ranchi}}
+* Kazakh: {{t|kk|қонақасы}}, {{t+|kk|түскі ас}}, {{t|kk|түскі тамақ}}, {{t|kk|түстік}}
+* Khmer: {{t|km|អាហារថ្ងៃត្រង់|tr=aahaa tŋay trɑŋ}}
 * Korean: {{t+|ko|점심}} ({{t|ko|點心}}), {{t+|ko|중식}} ({{t+|ko|中食}})
 * Kurdish:
-*: Kurmanji: {{t+|ku|firavîn|f}}
+*: Kurmanji: {{t+|ku|firavîn|f|sc=Latn}}
 *: Sorani:
 *: Sorani: {{t|ku|نانی نیوه‌ڕۆ}}
 {{trans-mid}}
-* Kyrgyz: {{t|ky|түштөм|sc=Cyrl}}, {{t|ky|обед|sc=Cyrl}}
-* Lao: {{t+|lo|ອາຫານທ່ຽງ|sc=Laoo}}
+* Kyrgyz: {{t|ky|түштөм}}, {{t|ky|обед}}
+* Lao: {{t+|lo|ອາຫານທ່ຽງ}}
 * Latgalian: {{t|ltg|pušdīnis}}
 * Latin: {{t|la|prandium|n}}
 * Latvian: {{t|lv|pusdienas|m}}
@@ -98,16 +92,16 @@ Recorded since 1580; presumably short for {{m|en|luncheon}}, but earliest found 
 * Malay: {{t|ms|makan tengahari}}
 * Maltese: {{t|mt|ikla|f}}
 * Maori: {{t|mi|tina}}
-* Mazanderani: {{t|mzn|چاشت|tr=cašt|sc=mzn-Arab}}
-* Mongolian: {{t|mn|ленч|sc=Cyrl}}, {{t|mn|хөнгөн зууш|sc=Cyrl}}
-* Navajo: {{t|nv|yistʼéí}}
+* Mazanderani: {{t|mzn|چاشت|tr=cašt}}
+* Mongolian: {{t|mn|ленч}}, {{t|mn|хөнгөн зууш}}
+* Navajo: {{t|nv|yistʼéí|sc=Latn}}
 * Norman: {{t|nrf|dénaïr|m}}
 * Norwegian:
 *: Bokmål: {{t+|no|lunsj|m}}
 *: Nynorsk: {{t+|no|lunsj|m}}
 * Old Church Slavonic:
-*: Cyrillic: {{t|cu|обѣдъ|m|sc=Cyrs}}
-* Persian: {{t+|fa|ناهار|tr=nâhâr|sc=fa-Arab}}
+*: Cyrillic: {{t|cu|обѣдъ|m}}
+* Persian: {{t+|fa|ناهار|tr=nâhâr}}
 * Polish: {{t+|pl|obiad|m}}
 * Portuguese: {{t+|pt|almoço|m}}
 * Romanian: {{t+|ro|prânz|n}}
@@ -115,14 +109,14 @@ Recorded since 1580; presumably short for {{m|en|luncheon}}, but earliest found 
 * Russian: {{t+|ru|обе́д|m}}, {{t+|ru|второ́й за́втрак|m}}, {{t+|ru|ланч|m}}, {{t+|ru|ленч|m}}
 * Scottish Gaelic: {{t|gd|diathad|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|ручак|m}}, {{t|sh|обед|m}}
-*: Roman: {{t+|sh|ručak|m}}, {{t|sh|obed|m}}
+*: Cyrillic: {{t|sh|ру́чак|m}}, {{t|sh|обед|m}}
+*: Roman: {{t+|sh|rúčak|m}}, {{t|sh|obed|m}}
 * Sindhi: {{t+|sd|مانجھاندو|tr=manjhando|m}}
 * Slovak: {{t+|sk|obed|m}}
 * Slovene: {{t+|sl|kosilo|n}}, {{t|sl|obed|m}}, {{t|sl|južina|f}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|wobjed|m}}
-* Spanish: {{qualifier|Latin America}} {{t+|es|almuerzo|m}}, {{qualifier|Spain}} {{t+|es|comida|f}}
+* Spanish: {{t+|es|almuerzo|m}} {{qualifier|Latin America}}, {{t+|es|comida|f}} {{qualifier|Spain}}
 * Swedish: {{t+|sv|lunch|c}}, {{t+|sv|middag}}
 * Tagalog: {{t+|tl|tanghalian}}
 * Tajik: {{t|tg|ноҳор}}, {{t|tg|хӯроки пешин}}, {{t|tg|таоми пешин}}
@@ -130,7 +124,7 @@ Recorded since 1580; presumably short for {{m|en|luncheon}}, but earliest found 
 * Turkish: {{t+|tr|öğle yemeği}}
 * Turkmen: {{t|tk|günortanlyk}}, {{t|tk|günortanlyk nahar}}
 * Ukrainian: {{t|uk|обі́д|m}}, {{t|uk|ланч|m}}
-* Urdu: {{t|ur|لنچ|m|tr=lanc|sc=ur-Arab}}, {{t|ur|دوپہر کا کھانا|m|tr=dophar kā khānā|sc=ur-Arab}}
+* Urdu: {{t|ur|لنچ|m|tr=lanc}}, {{t|ur|دوپہر کا کھانا|m|tr=dophar kā khānā}}
 * Uzbek: {{t+|uz|tushlik}}, {{t|uz|lench}}, {{t|uz|ikkinchi nonushta}}, {{t+|uz|obed}}
 * Venetian: {{t+|vec|disnar}}
 * Vietnamese: {{t|vi|bữa trưa}}, {{t|vi|bữa ăn trưa}}
@@ -154,7 +148,7 @@ Recorded since 1580; presumably short for {{m|en|luncheon}}, but earliest found 
 {{en-verb|lunches|lunching|lunched}}
 
 # {{lb|en|intransitive}} To [[eat]] lunch.
-#: ''I like to '''lunch''' in Italian restaurants.''
+#: {{ux|en|I like to '''lunch''' in Italian restaurants.}}
 #* {{w|Cole Porter}}
 #*: Miss Otis regrets she's unable to lunch today.
 #* '''1909''', Frank Sidgwick, ''Love and battles'' (page 291)
@@ -164,9 +158,7 @@ Recorded since 1580; presumably short for {{m|en|luncheon}}, but earliest found 
 #*: We dined him, we lunched him, we were photographed in his company by flashlight.
 
 ====Derived terms====
-* {{l|en|luncher}}
-* {{l|en|lunchroom}}
-* {{l|en|ladies who lunch}}
+{{der3|luncher|lunchroom|ladies who lunch|lang=en}}
 
 ====Related terms====
 * {{l|en|luncheonette}}
@@ -176,12 +168,12 @@ Recorded since 1580; presumably short for {{m|en|luncheon}}, but earliest found 
 * Albanian: {{t+|sq|drekoj}}, {{t+|sq|silloj}}
 * Aromanian: {{l|rup|prãndzu}}
 * Basque: {{t+|eu|bazkaldu}}
-* Belarusian: {{t|be|абедаць|impf|tr=abjédacʹ|sc=Cyrl}}, {{t|be|паабедаць|pf|tr=paabjédacʹ|sc=Cyrl}}
+* Belarusian: {{t|be|абе́даць|impf}}, {{t|be|паабе́даць|pf}}
 * Breton: {{t+|br|merennañ}}
-* Bulgarian: {{t|bg|обядвам|impf|tr=objádvam|sc=Cyrl}}
+* Bulgarian: {{t|bg|обя́двам|impf}}
 * Catalan: {{t+|ca|dinar}}
 * Chinese:
-*: Mandarin: {{t|cmn|[[吃]][[午飯]]|sc=Hani}}, {{t|cmn|[[吃]][[午饭]]|tr=chī wǔfàn|sc=Hani}}
+*: Mandarin: {{t|cmn|[[吃]][[午飯]]}}, {{t|cmn|[[吃]][[午饭]]|tr=chī wǔfàn}}
 * Czech: {{t+|cs|obědvat}}
 * Dalmatian: {{t|dlm|disnur}}
 * Danish: {{t+|da|spise}}, {{t+|da|spise}} {{t+|da|frokost}}
@@ -197,10 +189,10 @@ Recorded since 1580; presumably short for {{m|en|luncheon}}, but earliest found 
 * Interlingua: {{t|ia|prander}}, {{t|ia|lunchar}}
 * Irish: {{t|ga|[[lón]] [[a]] [[ithe]]}}
 * Italian: {{t+|it|pranzare}}
-* Japanese: {{t|ja|[[昼食]][[を]][[とる]]|tr=chūshoku o toru|sc=Jpan}}
+* Japanese: {{t|ja|[[昼食]][[を]][[とる]]|tr=chūshoku o toru}}
 * Kurdish:
-*: Sorani: {{t|ckb|نان خواردنی نیوه‌ڕۆ|sc=ku-Arab}}
-* Macedonian: {{t|mk|руча|impf|tr=rúča}}
+*: Sorani: {{t|ckb|نان خواردنی نیوه‌ڕۆ}}
+* Macedonian: {{t|mk|ру́ча|impf}}
 * Maori: {{t|mi|tina}}
 * Polish: {{t|pl|[[jeść]] [[obiad]]|impf}}
 * Portuguese: {{t+|pt|almoçar}}
