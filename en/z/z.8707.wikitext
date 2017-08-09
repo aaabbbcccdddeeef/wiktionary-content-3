@@ -175,74 +175,45 @@ This preposition is followed by the [[genitive]] case.
 ==Egyptian==
 
 ===Noun===
-{{head|egy|noun|g=m|head=<hiero>z:Z1</hiero>}}
+{{egy-noun|m|head=<hiero>z:Z1</hiero>}}
 
-# A door bolt of wood or copper {{defdate|since the Pyramid Texts}}
+# A door [[bolt]] of wood or copper {{defdate|since the Pyramid Texts}}
 
 ====Alternative forms====
-{| class="wikitable"
-|-
-| <hiero>z</hiero>
-| <hiero>z:M3</hiero>
-| <hiero>z:t-M3</hiero>
-| <hiero>z:t*Z1-M3</hiero>
-|-
-| {{defdate|Old Kingdom}}
-| {{defdate|New Kingdom}}
-| {{defdate|Late Period}}
-| {{defdate|Late Period}}
-|}
+{{egy-hieroforms
+|<hiero>z</hiero>|date1=Old Kingdom
+|<hiero>z:M3</hiero>|date2=New Kingdom
+|<hiero>z:t-M3</hiero>|date3=Late Period
+|<hiero>z:t*Z1-M3</hiero>|date4=Late Period}}
 
 ====Inflection====
 {{egy-decl-noun|g=m|z}}
 
 ===Verb===
-{{head|egy|verb|head=<hiero>z:Z1</hiero>}}
+{{egy-verb|head=<hiero>z:Z1</hiero>}}
 
 # To latch such a bolt
 # To keep a door shut with such a bolt
 
 ====Alternative forms====
-{| class="wikitable"
-|-
-| <hiero>z</hiero>
-| <hiero>z:M3</hiero>
-| <hiero>z:t-M3</hiero>
-| <hiero>z:t*Z1-M3</hiero>
-|-
-| {{defdate|Old Kingdom}}
-| {{defdate|New Kingdom}}
-| {{defdate|Late Period}}
-| {{defdate|Late Period}}
-|}
+See the alternative forms under the noun above.
 
 ===Noun===
-{{head|egy|noun|g=m|head=<hiero>z:A3*Z1</hiero>}}
+{{egy-noun|m|head=<hiero>z:A3*Z1</hiero>}}
 
 # [[man]] (male person) {{defdate|since the Old Kingdom}}
 # someone, anyone
 
 ====Alternative forms====
-{| class="wikitable"
-|-
-| <hiero>A3</hiero>
-| <hiero>z</hiero>
-| <hiero>z:A3</hiero>
-| <hiero>z:Z1*A3</hiero>
-| <hiero>s-A3</hiero>
-| <hiero>s-Z1-A3</hiero>
-| <hiero>s-i-A3</hiero>
-| <hiero>Aa18-A3</hiero>
-|-
-| {{defdate|Old Kingdom}}
-| {{defdate|since Middle Kingdom}}
-| {{defdate|since Middle Kingdom}}
-| {{defdate|since Middle Kingdom}}
-| {{defdate|since 19th dynasty}}
-| {{defdate|since 19th dynasty}}
-| {{defdate|Late Period}}
-| {{defdate|in Greek inscriptions}}
-|}
+{{egy-hieroforms
+|<hiero>A3</hiero>|date1=Old Kingdom
+|<hiero>z</hiero>|date2=since the Middle Kingdom
+|<hiero>z:A3</hiero>|date3=since the Middle Kingdom
+|<hiero>z:Z1*A3</hiero>|date4=since the Middle Kingdom
+|<hiero>s-A3</hiero>|date5=since the 19th Dynasty
+|<hiero>s-Z1-A3</hiero>|date6=since the 19th Dynasty
+|<hiero>s-i-A3</hiero>|date7=Late Period
+|<hiero>Aa18-A3</hiero>|date8=Greco-Roman Period}}
 
 ====Usage notes====
 This word can be placed after a type of person and before a number to indicate that many prisoners of that type were taken.
@@ -251,18 +222,18 @@ This word can be placed after a type of person and before a number to indicate t
 {{egy-decl-noun|g=m|z}}
 
 ====Descendants====
-* Coptic: {{l|cop|ⲥⲁ-}}
+* {{desc|cop|ⲥⲁ-}}
 
 ===Noun===
-{{head|egy|noun|g=m|head=<hiero>z</hiero>}}
+{{egy-noun|m|head=<hiero>z</hiero>}}
 
-# Being, creature <!-- Wesen --> (used of a snake) {{defdate|Pyramid Texts}}
+# [[being]], [[creature]]<!-- Wesen --> (used of a snake) {{defdate|Pyramid Texts}}
 
 ====Inflection====
 {{egy-decl-noun|g=m|z}}
 
 ===Noun===
-{{head|egy|noun|g=m|head=<hiero>z</hiero>}}
+{{egy-noun|m|head=<hiero>z</hiero>}}
 
 # A type of fish {{defdate|22nd dynasty}}
 
