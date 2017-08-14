@@ -7,7 +7,11 @@
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|physics}} Any of several forms of [[particle accelerator]] in which two opposing [[beam]]s of [[particle]]s [[collide]]
+# {{lb|en|physics}} Any of several forms of [[particle accelerator]] in which two opposing [[beam]]s of [[particle]]s [[collide]].
+# {{lb|en|video games}} A model of the [[shape]] of an [[object]] for purposes of [[collision detection]].
+#* '''2014''', Jeff W. Murray, ''C# Game Programming Cookbook for Unity 3D'' (page 339)
+#*: The race controller will check for a trigger hit between this player's '''collider''' and the start/finish line trigger, but this script has an OnTriggerEnter function to check for triggers used to force a respawn.
+
 
 ====Translations====
 {{trans-top|particle accelerator}}
