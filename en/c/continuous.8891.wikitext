@@ -19,7 +19,7 @@ Either via {{bor|en|fr|-|notext=1}} or directly, from {{bor|en|la|continuus|note
 #: ''a '''continuous''' line of railroad''
 # {{lb|en|botany}} Not [[deviate|deviating]] or [[vary]]ing from [[uniformity]]; not interrupted; not joined or articulated.
 # {{lb|en|analysis|of a [[function]]}} Such that, for every ''x'' in the [[domain]], for each small [[open]] [[interval]] ''D'' about ''f''(''x''), there's an interval containing ''x'' whose [[image]] is in ''D''.
-# {{lb|en|mathematics|more generally|of a function}} Such that each [[open]] set in the [[range]] has an open [[preimage]].
+# {{lb|en|mathematics|more generally|of a function between two [[topological space]]s}} Such that each [[open]] set in the target space has an open [[preimage]] (in the domain space, with respect to the given function).
 #: ''Each '''continuous''' function from the real line to the rationals is constant, since the rationals are totally disconnected.''
 # {{lb|en|grammar}} Expressing an ongoing action or state.
 
