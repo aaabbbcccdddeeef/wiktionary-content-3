@@ -13,18 +13,20 @@
 ====Translations====
 {{trans-top|key in database table}}
 * Chinese:
-*: Mandarin: {{t|cmn|主鍵|sc=Hani}}, {{t|cmn|主键|tr=zhǔjiàn|sc=Hani}}, {{t|cmn|主碼|sc=Hani}}, {{t|cmn|主码|tr=zhǔmǎ|sc=Hani}}
+*: Mandarin: {{t|cmn|主鍵}}, {{t|cmn|主键|tr=zhǔjiàn}}, {{t|cmn|主碼}}, {{t|cmn|主码|tr=zhǔmǎ}}
 * Czech: {{t|cs|primární klíč|m}}
-* Esperanto: {{t|eo|ĉefŝlosilo}}
+* Esperanto: {{t-check|eo|ĉefŝlosilo}}
 * Finnish: {{t|fi|pääavain}}
 * French: {{t+|fr|clé primaire|f}}
 * German: {{t|de|Primärschlüssel|m}}
 * Hungarian: {{t+|hu|elsődleges kulcs}}
 {{trans-mid}}
-* Japanese: {{t|ja|主キー|tr=shu-kī|sc=Jpan}}
+* Japanese: {{t|ja|主キー|tr=shu-kī}}
 * Romanian: {{t|ro|cheie primară}}
 * Russian: {{t|ru|перви́чный ключ|m}}
-* Serbo-Croatian: {{t|sh|primarni ključ|m}}, {{t|sh|примарни кључ|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|примарни кључ|m}}
+*: Roman: {{t|sh|primarni ključ|m}}
 * Swedish: {{t|sv|primärnyckel|c}}
 * Turkish: {{t|tr|birincil anahtar}}
 {{trans-bottom}}
