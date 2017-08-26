@@ -3,7 +3,7 @@
 
 ===Etymology===
 {{PIE root|en|deh₃}}
-From {{etyl|LL.|en}} {{m|la|additivus}}, from the participial stem of {{etyl|la|en}} {{m|la|addere||to add}}.
+From {{der|en|LL.|additivus}}, from the participial stem of {{der|en|la|addere|t=to add}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈæ.dɪ.tɪv/|lang=en}}
@@ -12,33 +12,26 @@ From {{etyl|LL.|en}} {{m|la|additivus}}, from the participial stem of {{etyl|la|
 ===Adjective===
 {{en-adj}}
 
-# {{lb|en|mathematics}} Pertaining to [[addition]]; that can be, or has been, [[added]].
-# {{lb|en|mathematics|of a [[function]], etc.}} [[distributive#English|Distributive]] over [[addition]].
-#: ''Matrix multiplication is '''additive''' in that <math>M\vec v+M\vec w=M(\vec v+\vec w)</math>.''
-# {{lb|en|algebra}} Having [[addition]] as an [[operator]].
-#: ''It is natural to look at a finite cyclic group as an '''additive''' group.''
-# {{lb|en|chemistry}} Pertaining to chemical [[addition]].
-# {{lb|en|genetics}} Describing [[gene]]s (or the interaction etc. of such genes) which govern the same trait and whose effects work together on the [[phenotype]].
+# {{lb|en|mathematics}} pertaining to [[addition]]; that can be, or has been, [[added]]
+# {{lb|en|mathematics|of a [[function]], etc.}} [[distributive#English|distributive]] over [[addition]]
+#: {{ux|en|Matrix multiplication is '''additive''' in that <math>M\vec v+M\vec w=M(\vec v+\vec w)</math>.}}
+# {{lb|en|algebra}} having [[addition]] as an [[operator]]
+#: {{ux|en|It is natural to look at a finite cyclic group as an '''additive''' group.}}
+# {{lb|en|chemistry}} pertaining to chemical [[addition]]
+# {{lb|en|genetics}} describing [[gene]]s (or the interaction etc. of such genes) which govern the same trait and whose effects work together on the [[phenotype]]
 
 ====Antonyms====
 * {{l|en|subtractive}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|additive color}}
-* {{l|en|additive function}}
-* {{l|en|additive group}}
-{{der-mid}}
-* {{l|en|additive identity}}
-* {{l|en|additive inverse}}
-{{der-bottom}}
+{{der3|additive color|additive function|additive group|additive identity|additive inverse|lang=en}}
 
 ===Noun===
 {{en-noun}}
 
-# A [[substance]] added to another substance or [[product]] for its ability to [[alter]] its [[properties]].
-#: ''Oil may be used as an '''additive''' in gasoline to improve the lubrication of a small engine.''
-# {{lb|en|grammar}} A [[word]] or [[phrase]] that adds something, such as ''also'', ''even'', or ''nor''.
+# A [[substance]] added to another substance or [[product]] for its ability to [[alter]] its [[properties]]
+#: {{ux|en|Oil may be used as an '''additive''' in gasoline to improve the lubrication of a small engine.}}
+# {{lb|en|grammar}} a [[word]] or [[phrase]] that adds something, such as ''also'', ''even'', or ''nor''
 
 ====Translations====
 {{trans-top|substance altering another substance}}
