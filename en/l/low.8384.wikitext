@@ -46,8 +46,7 @@ From {{etyl|enm|en}} {{m|enm|lowe}}, {{m|enm|lohe}}, {{m|enm|lah|lāh}}, from {{
 #*: In comparison of these divine writers, the noblest wits of the heathen world are '''low''' and dull.
 # Simple in complexity or development.
 # Designed for the slowest speed, as in '''''low''' gear''.
-# Articulated with a wide space between the flat [[tongue]] and the [[palette]].
-# {{lb|en|phonetics}} Made, as a vowel, with a low position of part of the tongue in relation to the palate.
+# {{lb|en|phonetics}} Articulated, as a vowel, with a low position of part of the tongue in relation to the [[palate]].
 # {{lb|en|archaic}} Not rich, highly seasoned, or nourishing; plain; simple.
 #: ''a '''low''' diet''
 
@@ -55,7 +54,7 @@ From {{etyl|enm|en}} {{m|enm|lowe}}, {{m|enm|lohe}}, {{m|enm|lah|lāh}}, from {{
 * {{sense|in a position comparatively close to the ground}} {{l|en|nether}}, {{l|en|underslung}}
 * {{sense|small in height}} {{l|en|short}}, {{l|en|small}}
 * {{sense|depressed}} {{l|en|blue}}, {{l|en|depressed}}, {{l|en|down}}, {{l|en|miserable}}, {{l|en|sad}}, {{l|en|unhappy}}, {{l|en|gloomy}}
-* {{sense|in an amount nearest to zero, such as low prices}} {{l|en|reduced}}, {{l|en|devalued}}, {{l|en|low-level}}
+* {{sense|not high in an amount}} {{l|en|reduced}}, {{l|en|devalued}}, {{l|en|low-level}}
 * {{sense|of a pitch, suggesting a lower frequency}} {{l|en|low-pitched}}, {{l|en|deep}}, {{l|en|flat}}
 * {{sense|of a loudness, suggesting a lower amplitude}} {{l|en|low-toned}}, {{l|en|soft}}
 * {{sense|despicable thing to do}} {{l|en|immoral}}, {{l|en|abject}}, {{l|en|scummy}}, {{l|en|scurvy}}
@@ -179,7 +178,7 @@ From {{etyl|enm|en}} {{m|enm|lowe}}, {{m|enm|lohe}}, {{m|enm|lah|lāh}}, from {{
 * Esperanto: {{t|eo|malalta}}
 * Estonian: {{t+|et|madal}}
 * Faroese: {{t|fo|lágur}}
-* Finnish: {{t+|fi|alhainen}}
+* Finnish: {{t|fi|matala}}, {{t+|fi|alhainen}}
 * French: {{t+|fr|bas}}
 * Galician: {{t+|gl|baixo}}
 * Georgian: {{t|ka|დაბალი}}
@@ -266,6 +265,11 @@ From {{etyl|enm|en}} {{m|enm|lowe}}, {{m|enm|lohe}}, {{m|enm|lah|lāh}}, from {{
 * Turkish: {{t+|tr|alçak}}
 {{trans-bottom}}
 
+{{trans-top|situated below the normal level}}
+* Finnish: {{t|fi|alhainen}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|depressed, sad}}
 * Danish: {{t|da|nede}}
 * Finnish: {{t+|fi|alakuloinen}}
@@ -280,18 +284,25 @@ From {{etyl|enm|en}} {{m|enm|lowe}}, {{m|enm|lohe}}, {{m|enm|lah|lāh}}, from {{
 * Swedish: {{t+|sv|nere}}
 {{trans-bottom}}
 
+{{trans-top|not high in amount or quantity}}
+* Danish: {{t+|da|lav}}
+* Finnish: {{t|fi|alhainen}}, {{t|fi|matala}}
+* French: {{t+|fr|bas}}, {{t+|fr|faible}}, {{t+|fr|petit}}
+{{trans-mid}}
+* Khmer: {{t+|km|ថោក|tr=tʰaok|sc=Khmr}}
+* Latvian: {{t|lv|zems}}
+{{trans-bottom}}
+
 {{trans-top|of pitch}}
+* Finnish: {{t|fi|matala}}
 * French: {{t+|fr|grave}}
 {{trans-mid}}
 * Maori: {{t|mi|mārū}}
 {{trans-bottom}}
 
-{{trans-top|in an amount nearest to zero}}
-* Danish: {{t+|da|lav}}
-* French: {{t+|fr|bas}}, {{t+|fr|faible}}, {{t+|fr|petit}}
+{{trans-top|quiet; soft; not loud}}
+* Finnish: {{t|fi|hiljainen}}, {{l|fi|matala}}
 {{trans-mid}}
-* Khmer: {{t+|km|ថោក|tr=tʰaok|sc=Khmr}}
-* Latvian: {{t|lv|zems}}
 {{trans-bottom}}
 
 {{trans-top|despicable}}
@@ -306,6 +317,41 @@ From {{etyl|enm|en}} {{m|enm|lowe}}, {{m|enm|lohe}}, {{m|enm|lah|lāh}}, from {{
 * Portuguese: {{t+|pt|baixo}}, {{t+|pt|vil}}
 * Russian: {{t+|ru|ни́зкий}}, {{t+|ru|по́длый}}
 * Spanish: {{t+|es|bajo}}
+{{trans-bottom}}
+
+{{trans-top|lacking health or vitality; feeble; weak}}
+* Finnish: {{t|fi|alhainen}} {{qualifier|e.g. pulse}}; {{l|fi|heikko}} {{qualifier|weak, feeble}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|being near the equator}}
+* Finnish: {{t|fi|matala}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|humble in character or status}}
+* Finnish: {{t|fi|vaatimaton}} {{qualifier|character}}; {{l|fi|vaatimaton}}, {{l|fi|alhainen}} {{qualifier|status}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|simple in complexity or development}}
+* Finnish: {{t|fi|yksinkertainen}} {{qualifier|complexity}}; {{t|fi|alhainen}} {{qualifier|development}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|designed for the slowest speed}}
+* Finnish: {{t|fi|pieni}} {{qualifier|of gears}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|phonetics: articulated with a low position of part of the tongue in relation to the palate}}
+* Finnish: {{t|fi|ala-}}, ''see'' {{l|fi|alavokaali}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|not rich; plain; simple}}
+* Finnish: {{t|fi|niukka}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ====Noun====
