@@ -34,15 +34,18 @@ Shortening of {{m|en|[[graphic]] [[formula]]}}.
 * See also [[Wikisaurus:graph]]
 
 ====Hyponyms====
+{{der4|acyclic graph|biased graph|biconnected graph|bipartite graph|complete graph|connected graph|dependency graph|directed graph|Eulerian graph|Hamiltonian graph|hypergraph|line graph|multigraph|object graph|Petersen graph|pseudograph|random graph|regular graph|signed graph|small world graph|strongly regular graph|subgraph|superregular graph|undirected graph|unicursal graph|voltage graph|weighted graph|lang=en}}
 * {{sense|in graph theory}} {{l|en|tree}}
 
 ====Derived terms====
-{{der4|acyclic graph|biased graph|biconnected graph|bipartite graph|complete graph|connected graph|directed graph|Eulerian graph|graph articulation|graph centre|graph eccentricity|graph eigenvalue|graph geodesic|graph minor|graph polynomial|graph spectrum|graph thickness|graphic matroid|graphoid|Hamiltonian graph|hypergraph|line graph|multigraph|object graph|Petersen graph|pseudograph|random graph|regular graph|signed graph|small world graph|strongly regular graph|subgraph|superregular graph|undirected graph|unicursal graph|voltage graph|weighted graph|lang=en}}
+{{der4|graph centre|graph eccentricity|graph eigenvalue|graph geodesic|graph minor|graph polynomial|graph spectrum|graph thickness|graphic matroid|graphoid|lang=en}}
 
 ====Related terms====
-* {{l|en|graphic}}
-* {{l|en|graphical}}
-* {{l|en|graphism}}
+{{rel3
+|graphic
+|graphical
+|graphism
+|lang=en}}
 
 ====Translations====
 {{trans-top|mathematical diagram}}
