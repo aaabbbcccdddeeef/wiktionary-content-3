@@ -1,15 +1,38 @@
 ==English==
+{{wikipedia|dab=helicity}}
 
 ===Noun===
-{{wikipedia}}
 {{en-noun|helicities}}
 
 # The quality of being [[helical]].
-# {{lb|en|physics}} The [[quantized]] [[spin]] [[component]] of a moving [[particle]]
+# {{lb|en|physics|fluid mechanics|electrodynamics}} Any of certain measures of the extent to which [[vortex line]]s (in fluid flow) or [[field line]]s (in a [[magnetic field|magnetic]] or [[electromagnetic field]]) kink and twist and/or link and coil around one another.
+#* '''1991''', E. Levich, L. Shtilman, '''''Helicity''' Fluctuations and Coherence in Developed Turbulence'', D. Schertzer, S. Lovejoy (editors), ''Non-Linear Variability in Geophysics: Scaling and Fractals'', Kluwer Academic Publishers, [https://books.google.com.au/books?id=y9LsCAAAQBAJ&pg=PA18&dq=%22helicity%22%7C%22helicities%22&hl=en&sa=X&ved=0ahUKEwiO_arHto_WAhVJJpQKHd1iC1AQ6AEIrgIwLg#v=onepage&q=%22helicity%22%7C%22helicities%22&f=false page 18],
+#*: The conjecture made in Tsinober and Levich (1983) was that coherent structures should possess a significant coherent '''helicity'''.
+#* '''1995''', G. E. Marsh, ''2: '''Helicity''' and Electrodynamic Field Topology'', Terence William Barrett, Dale M. Grimes (editors), ''Advanced Electromagnetism: Foundations, Theory and Applications'', {{w|World Scientific}}, [https://books.google.com.au/books?id=lA8tgLMRu2kC&pg=PA62&dq=%22helicity%22%7C%22helicities%22&hl=en&sa=X&ved=0ahUKEwiO_arHto_WAhVJJpQKHd1iC1AQ6AEIvAEwGg#v=onepage&q=%22helicity%22%7C%22helicities%22&f=false page 62],
+#*: The '''helicity''' associated with the writhing number is obtained by observing that a torus with twist number ±1 may be distorted into a figure-8 configuration which appears untwisted.{{...}}Note that at each step the total '''helicity''', consisting of the sum of twist, kink, and link '''helicities''', is conserved.
+#* '''2001''', Mitchell A. Berger, ''Measures of Topological Structure in Magnetic Fields'', Renzo L. Ricca (editor), ''An Introduction to the Geometry and Topology of Fluid Flows'', Springer, [https://books.google.com.au/books?id=4raAU0OJrUMC&pg=PA249&dq=%22helicity%22%7C%22helicities%22&hl=en&sa=X&ved=0ahUKEwiO_arHto_WAhVJJpQKHd1iC1AQ6AEIfDAP#v=onepage&q=%22helicity%22%7C%22helicities%22&f=false page 249],
+#*: Thus the total '''helicity''' ''H'' equals the sum of the entries in a matrix ''H''<sub>ij</sub>. If ''N'' is large then there will be many more mutual '''helicity''' terms. In this case ignoring the self '''helicities''' (if they are difficult to observe) may only give a small error.
+#* '''2016''', Eric G. Blackman, ''Magnetic '''Helicity''' and Large Scale Magnetic Fields: A Primer'', Andre Balogh, Andrei Bykov, Jonathan Eastwood, Jelle Kaastra (editors), ''Multi-scale Structure Formation and Dynamics in Cosmic Plasmas'', Springer, [https://books.google.com.au/books?id=7amFCwAAQBAJ&pg=PA72&dq=%22helicity%22%7C%22helicities%22&hl=en&sa=X&ved=0ahUKEwiO_arHto_WAhVJJpQKHd1iC1AQ6AEIjgIwKA#v=onepage&q=%22helicity%22%7C%22helicities%22&f=false page 72],
+#*: Now conservation of '''helicity''' is maintained: the writhe of the loops in the second panel is compensated for by the opposite sign of the twist '''helicity''' along the loops.
+# {{lb|en|physics|quantum mechanics}} The [[quantized]] [[spin]] [[component]] of a moving [[particle]].
+#* '''1989''', John Taylor, ''17: Gauge theories in particle physics'', {{w|Paul Davies}}, ''The New Physics'', {{w|Cambridge University Press}}, 1992, 1st Paperback Edition, [https://books.google.com.au/books?id=akb2FpZSGnMC&pg=PA467&dq=%22helicity%22%7C%22helicities%22&hl=en&sa=X&ved=0ahUKEwiO_arHto_WAhVJJpQKHd1iC1AQ6AEIbDAM#v=onepage&q=%22helicity%22%7C%22helicities%22&f=false page 467],
+#*: To understand this name, note that the '''helicity''' is, roughly speaking, the spin in the direction of motion.
+#* '''1999''', Gustavo Castelo Branco, Luís Lavoura, João Paulo Silva, ''CP Violation'', {{w|Oxford University Press}}, [https://books.google.com.au/books?id=N-uHNjmnRoIC&pg=PA12&dq=%22helicity%22%7C%22helicities%22&hl=en&sa=X&ved=0ahUKEwiO_arHto_WAhVJJpQKHd1iC1AQ6AEIlwEwFA#v=onepage&q=%22helicity%22%7C%22helicities%22&f=false page 12],
+#*: The experiment was particularly ingenious because, as the neutrino hardly interacts with matter, some way of indirectly measuring its '''helicity''' had to be devised.
+#* '''2010''', Franz Mandl, Graham Shaw, ''Quantum Field Theory'', {{w|John Wiley & Sons|Wiley}}, [https://books.google.com.au/books?id=Ef4zDW1V2LkC&pg=PA151&dq=%22helicity%22%7C%22helicities%22&hl=en&sa=X&ved=0ahUKEwiO_arHto_WAhVJJpQKHd1iC1AQ6AEIQDAF#v=onepage&q=%22helicity%22%7C%22helicities%22&f=false page 151],
+#*: Interpreted in terms of '''helicity''', this means that if the incident electron has positive '''helicity''', then the outgoing electron has positive '''helicity''' for forward scattering, and negative '''helicity''' for backward scattering.
+
+====Derived terms====
+* {{l|en|hydrodynamical helicity}}
+* {{l|en|magnetic helicity}}
 
 ====Translations====
 {{trans-top|quality of being helical}}
 * Finnish: {{t+|fi|kierteisyys}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|physics: measure of twistedness, linkedness, etc. of vortex or field lines}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -18,3 +41,8 @@
 {{trans-mid}}
 * Spanish: {{t|es|helicidad|f}}
 {{trans-bottom}}
+
+===See also===
+* {{l|en|chirality}}
+* {{l|en|linking number}}
+* {{l|en|vorticity}}
