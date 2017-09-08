@@ -156,7 +156,7 @@ From {{bor|en|xno|raisun}} ({{der|en|fro|raison}}), from {{der|en|la|ratiō}}, f
 * Latin: {{t+|la|ratio}}
 * Polish: {{t+|pl|powód|m}}
 * Portuguese: {{t+|pt|motivo|m}}
-* Russian: {{t+|ru|причи́на|f}}, {{t+|ru|резо́н|m}}, {{t+|ru|моти́в|m}}
+* Russian: {{t+|ru|причи́на|f}}, {{t+|ru|резо́н|m}}, {{t+|ru|моти́в|m}}, {{t+|ru|по́вод|m}}
 * Swedish: {{t+|sv|anledning|c}}, {{t+|sv|skäl|n}}, {{t+|sv|motiv}}
 * Turkish: {{t+|tr|sebep}}
 * Venetian: {{t|vec|motivo|m}}
@@ -173,7 +173,7 @@ From {{bor|en|xno|raisun}} ({{der|en|fro|raison}}), from {{der|en|la|ratiō}}, f
 * Irish: {{t+|ga|ábhar|m}}, {{t|ga|fáth|m}}
 *: Old Irish: {{t|sga|adbar|n}}
 * Italian: {{t+|it|scusa|f}}, {{t+|it|pretesa|f}}
-* Russian: {{t+|ru|по́вод|m}}
+* Russian: {{t+|ru|по́вод|m}}, {{t+|ru|до́вод|m}}
 * Turkish: {{t+|tr|açıklama}}, {{t+|tr|izahat}} {{qualifier|obsolecent}}
 * Venetian: {{t|vec|scuxa|f}}
 {{trans-bottom}}
@@ -184,7 +184,8 @@ From {{bor|en|xno|raisun}} ({{der|en|fro|raison}}), from {{der|en|la|ratiō}}, f
 * Armenian: {{l|hy|բանականություն}}
 * Asturian: {{t|ast|razón}}
 * Bashkir: {{t|ba|аҡыл}}
-* Bulgarian: {{t-needed|bg}}
+* Belarusian: {{t|be|ро́зум|m}}
+* Bulgarian: {{t+|bg|ра́зум|m}}
 * Catalan: {{t+|ca|raó|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|理致|tr=lǐzhì}}
@@ -200,27 +201,33 @@ From {{bor|en|xno|raisun}} ({{der|en|fro|raison}}), from {{der|en|la|ratiō}}, f
 * Greek: {{t+|el|λόγος|m}}, {{t+|el|λογική|f}}
 * Hungarian: {{t+|hu|értelem}}
 * Irish: {{t|ga|réasún|m}}
-{{trans-mid}}
 * Italian: {{t+|it|ragione|f}}
-* Japanese: {{t|ja|思慮|tr=しりょ, shiryo}}
-* Korean: {{t+|ko|이성}}
+* Japanese: {{t|ja|思慮|tr=しりょ, shiryo}}, {{t+|ja|理致|tr=りち, richi}}
+* Korean: {{t+|ko|이성}}, {{t|ko|이치}}, {{t+|ko|리치}} {{qualifier|North Korea}}
+{{trans-mid}}
 * Ladin: {{t|lld|rejon}}
 * Latin: {{t+|la|ratio|f}}, {{t+|la|causa|f}}
 * Latvian: {{t|lv|saprāts|m}}
 * Norwegian: {{t+|no|fornuft}}
 * Occitan: {{t+|oc|rason}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|разоумъ|m}}
 * Old French: {{t|fro|reson}}, {{t|fro|raison}}
 * Persian: {{t+|fa|عقل|sc=fa-Arab}}
 * Polish: {{t+|pl|rozum|m}}
 * Portuguese: {{t+|pt|razão|f}}
 * Romanian: {{t+|ro|rațiune}}
-* Russian: {{t+|ru|ра́зум}}
-* Serbo-Croatian: {{t+|sh|rȁzūm|m}}
+* Russian: {{t+|ru|ра́зум}}, {{t+|ru|рассу́док|m}}, {{t+|ru|ум|m}}
+* Serbo-Croatian: {{t+|sh|rȁzūm|m}}, {{t|sh|ра̏зӯм|m}}
+* Slovak: {{t|sk|rozum|m}}
+* Slovene: {{t|sl|rázum|m}}
 * Spanish: {{t+|es|razón|f}}
 * Swedish: {{t+|sv|förstånd|n}}, {{t+|sv|förnuft|n}}
 * Thai: {{t+|th|เหตุผล}}
 * Turkish: {{t+|tr|akıl}}
+* Ukrainian: {{t+|uk|ро́зум|m}}
 * Venetian: {{t|vec|raxon}}, {{t+|vec|rexon|f}}
+* Vietnamese: {{t+|vi|lý trí}}
 {{trans-bottom}}
 
 {{trans-top|something reasonable}}
