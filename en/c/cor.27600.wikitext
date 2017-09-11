@@ -130,7 +130,7 @@ From {{inh|gl|roa-opt|coor}}, from {{inh|gl|la|color|color, colōrem}}.
 ==Irish==
 
 ===Etymology===
-From {{inh|ga|sga|cor||act of putting, placing; setting up, etc.; act of throwing, casting; act of letting go, discarding; leap, twist; throw (in wrestling); twist, coil; twist, detour, circuit in road, etc.; tune, melody; contract; surety, guarantor; act of overthrowing, defeating; defeat, reverse; state, condition, plight; act of tiring; tiredness, fatigue}}, verbal noun of {{m|sga|fo·ceird||sets, puts, places; throws, casts; casts down, overthrows; puts forth, emits, sends out; launches; utters, makes; raises (a shout, cry); performs, executes, wages}}.
+From {{inh|ga|sga|cor||act of putting}}, verbal noun of {{m|sga|fo·ceird||to put}}.
 
 ===Pronunciation===
 * {{IPA|/kɔɾˠ/|lang=ga}}
@@ -182,7 +182,7 @@ From {{inh|ga|sga|cor||act of putting, placing; setting up, etc.; act of throwin
 # [[tiredness]], [[exhaustion]]
 
 ====Declension====
-{{ga-decl-m-irreg-nopl|c|or|oir}}
+{{ga-decl-m1-nopl|c|or|oir}}
 
 ===Verb===
 {{ga-verb|pres=corann|fut=corfaidh|vn=coradh|pp=cortha}}
@@ -190,7 +190,7 @@ From {{inh|ga|sga|cor||act of putting, placing; setting up, etc.; act of throwin
 # [[turn]]
 
 ===Conjugation===
-{{ga-conj-1a|c|o|r|briad}}
+{{ga-conj-1a|c|o|r|broad}}
 
 ===Synonyms===
 * {{l|ga|cas}}
@@ -199,9 +199,9 @@ From {{inh|ga|sga|cor||act of putting, placing; setting up, etc.; act of throwin
 * {{l|ga|feoil chortha|g=f||tainted meat}}
 
 ===Mutation===
-{{ga mut cons|c|or}}
+{{ga-mut}}
 
-===References===
+===Further reading===
 * {{R:ga:ODonaill}}
 * {{R:DIL|12406|head=1 cor}}
 
