@@ -4,7 +4,23 @@
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|statistics}} The discrete [[probability distribution]] of the number of successes in a sequence of n independent yes/no experiments, each of which yields success with probability p.
+# {{lb|en|probability theory|statistics}} The [[discrete]] [[probability distribution]] of the number of successes in a sequence of ''n'' independent trials, each of which yields success with probability ''p''.
+#* '''1979''', M. G. Bulmer, ''Principles of Statistics'', Dover, [https://books.google.com.au/books?id=dh24EaSrmBkC&pg=PA81&dq=%22binomial+distribution%22%7C%22binomial+distributions%22&hl=en&sa=X&ved=0ahUKEwjWhqDXqKnWAhUjxFQKHQgDAeE4ZBDoAQiXATAR#v=onepage&q=%22binomial%20distribution%22%7C%22binomial%20distributions%22&f=false page 81],
+#*: The first two have long histories in statistical theory, the '''binomial distribution''' having been discovered by James Bernoulli about 1700 and the Poisson distribution, which is a limiting form of the '''binomial distribution''', by S. D. Poisson in 1837.
+#* '''2003''', Jim Albert, ''Teaching Statistics Using Baseball'', {{w|Mathematical Association of America}}, [https://books.google.com.au/books?id=1mNZfyil2ecC&pg=PA163&dq=%22binomial+distribution%22%7C%22binomial+distributions%22&hl=en&sa=X&ved=0ahUKEwjZpJj1nanWAhXIu7wKHf91DtsQ6AEIOjAE#v=onepage&q=%22binomial%20distribution%22%7C%22binomial%20distributions%22&f=false page 263],
+#*: The number of hits by a player in a given number of at-bats can be represented by a '''binomial distribution''' where the probability of a hit is the player's "true" batting average.
+#* '''2008''', Lisa Marie Sullivan, ''Essentials of Biostatistics'', Jones and Bartlett Publishers, [https://books.google.com.au/books?id=Xsqa6b_6Oe4C&pg=PA67&dq=%22binomial+distribution%22%7C%22binomial+distributions%22&hl=en&sa=X&ved=0ahUKEwjZpJj1nanWAhXIu7wKHf91DtsQ6AEImwEwFw#v=onepage&q=%22binomial%20distribution%22%7C%22binomial%20distributions%22&f=false page 67],
+#*: In any application of the '''binomial distribution''', we must clearly specify which outcome is the success and which is the failure. The '''binomial distribution''' model allows us to compute the probability of observing a specified number of successes when the process is repeated a specific number of times (e.g., in a set of patients) and the outcome for a given patient is either a success or a failure.
+
+====Usage notes====
+The special case ''n'' = 1 (a single trial) is called the {{m|en|Bernoulli distribution}}.
+
+====Derived terms====
+* {{l|en|negative binomial distribution}}
+
+====Related terms====
+* {{l|en|binomial random variable}}
+* {{l|en|binomial test}}
 
 ====Translations====
 {{trans-top|probability distribution}}
