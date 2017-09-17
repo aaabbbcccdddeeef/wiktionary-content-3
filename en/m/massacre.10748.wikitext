@@ -5,10 +5,10 @@
 * {{l|en|massacer}} {{qualifier|archaic}}
 
 ===Etymology===
-1580, from {{etyl|frm|en}} {{m|frm|massacre}}, of disputed origin:
-* From {{etyl|la|en}} {{m|la|macellum||butcher shop}}.
-* From {{etyl|fro|en}} {{m|fro|macecrer}}, {{m|fro|macecler}}, from {{etyl|VL.|en}} *''matteuculāre'', from *''matteuca'' (cf. {{m|fr|massue}}), from {{etyl|LL.|en}} ''mattea'', from Latin {{m|la|mateola}}.
-* From {{etyl|fro|en}} {{m|fro|macacre|macacre, macecle|slaughterhouse, butchery}}, from {{etyl|ML.|en}} {{m|la|mazacrium||massacre, slaughter, killing”, also “the head of a newly killed stag}}, from {{etyl|gml|en}} {{m|gml|*matskelen||to massacre}} (compare {{cog|de|metzeln||massacre}}), frequentative of {{m|gml|matsken|matsken, matzgen|to cut, hew}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*maitaną||to cut}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*mei-||small}}. Akin to {{cog|goh|meizan||to cut}} among others.
+1580, from {{bor|en|frm|massacre|notext=1}}, of disputed origin:
+* From {{der|en|la|macellum||butcher shop}}.
+* From {{der|en|fro|macecrer}}, {{m|fro|macecler}}, from {{der|en|VL.|-}} *''matteuculāre'', from *''matteuca'' (cf. {{m|fr|massue}}), from {{der|en|LL.|-}} ''mattea'', ''mattia'', from Latin {{m|la|mateola}}.
+* From Old French {{m|fro|macacre|macacre, macecle|slaughterhouse, butchery}}, from {{der|en|ML.|mazacrium||massacre, slaughter, killing”, also “the head of a newly killed stag}}, from {{der|en|gml|*matskelen||to massacre}} (compare {{cog|de|metzeln||massacre}}), frequentative of {{m|gml|matsken|matsken, matzgen|to cut, hew}}, from {{der|en|gem-pro|*maitaną||to cut}}, from {{der|en|ine-pro|*mei-||small}}. Akin to {{cog|goh|meizan||to cut}} among others.
 
 ===Pronunciation===
 * {{a|GA}} {{IPA|/ˈmæs.ə.kɚ/|lang=en}}
@@ -152,6 +152,9 @@ Borrowed from {{bor|ca|fr|massacre|notext=1}}.
 
 ==French==
 
+===Etymology===
+From {{inh|fr|frm|massacre}}, from the verb {{m|fr|massacrer}}.
+
 ===Pronunciation===
 * {{IPA|/ma.sakʁ/|lang=fr}}
 
@@ -186,18 +189,24 @@ Borrowed from {{bor|ca|fr|massacre|notext=1}}.
 
 ===Etymology===
 Of disputed origin:
-* From {{etyl|la|frm}} {{m|la|macellum||butcher shop}}.
-* From {{etyl|fro|frm}} {{m|fro|macecrer}}, {{m|fro|macecler}}, from {{etyl|VL.|frm}} *''matteuculāre'', from *''matteuca'' (cf. {{m|fr|massue}}), from {{etyl|LL.|frm}} ''mattea''.
-* From {{etyl|fro|frm}} {{m|fro|macacre|macacre, macecle|slaughterhouse, butchery}}, from {{etyl|ML.|frm}} {{m|la|mazacrium||massacre, slaughter, killing”, also “the head of a newly killed stag}}, from {{etyl|gml|frm}} {{m|gml|*matskelen||to massacre}} (compare {{cog|de|metzeln||massacre}}), frequentative of {{m|gml|matsken|matsken, matzgen|to cut, hew}}, from {{etyl|gem-pro|frm}} {{m|gem-pro|*maitaną||to cut}}, from {{etyl|ine-pro|frm}} {{m|ine-pro|*mei-||small}}. Akin to {{cog|goh|meizan||to cut}} among others.
+* Most likely from {{inh|frm|fro|macecrer}}, {{m|fro|macecler}}, from {{inh|frm|VL.||*matteuculāre}}, from {{m|la||*matteuca}} (cf. {{m|fr|massue}}), from {{inh|frm|LL.|mattia}}, {{m|la|*mattea}}, from {{inh|frm|la|mateola}}.
+* From a derivative of {{der|frm|la|macellum||butcher shop}}, although this is less likely.
+* From {{inh|frm|fro|macacre|macacre, macecle|slaughterhouse, butchery}}, alternatively from {{der|frm|ML.|mazacrium||massacre, slaughter, killing”, also “the head of a newly killed stag}}, from {{der|frm|gml|*matskelen||to massacre}} (compare {{cog|de|metzeln||massacre}}), frequentative of {{m|gml|matsken|matsken, matzgen|to cut, hew}}, from {{der|frm|gem-pro|*maitaną||to cut}}, from {{der|frm|ine-pro|*mei-||small}}. Akin to {{cog|goh|meizan||to cut}} among others.
 
 ===Noun===
 {{frm-noun|m}}
 
 # {{l|en|massacre}}
 
+====Descendants====
+* French: {{l|fr|massacre}}
+
 ----
 
 ==Portuguese==
+
+===Etymology===
+{{bor|pt|fr|massacre}}.
 
 ===Noun===
 {{pt-noun|m}}
