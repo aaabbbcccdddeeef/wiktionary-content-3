@@ -9,7 +9,7 @@
 
 ===Etymology 1===
 {{PIE root|en|welh₁}}
-From {{etyl|enm|en}} {{m|enm|willen}}, {{m|enm|wullen}}, {{m|enm|wollen}}, from {{etyl|ang|en}} {{m|ang|willan}}, {{m|ang|wyllan||to will, be willing, wish, desire, be used to, to be about to}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*wiljaną||to desire, wish}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*wel(h₁)-||to choose, wish}}. Cognate with Dutch {{m|nl|willen}}, {{cog|nds|willen}}, German {{m|de|wollen}}, {{cog|sv|-}} and {{cog|nn|vilja}}, {{cog|nb|ville}}, {{cog|la|velle||wish|pos=verb}} and {{cog|sq|vel||to satisfy, be stuffed}}. The verb is not always distinguishable from Etymology 2, below.
+From {{inh|en|enm|willen}}, {{m|enm|wullen}}, {{m|enm|wollen}}, from {{inh|en|ang|willan}}, {{m|ang|wyllan||to will, be willing, wish, desire, be used to, to be about to}}, from {{inh|en|gem-pro|*wiljaną||to desire, wish}}, from {{der|en|ine-pro|*wel(h₁)-||to choose, wish}}. Cognate with {{cog|nl|willen}}, {{cog|nds|willen}}, {{cog|de|wollen}}, {{cog|sv|-}} and {{cog|nn|vilja}}, {{cog|nb|ville}}, {{cog|la|velle||wish|pos=verb}} and {{cog|sq|vel||to satisfy, be stuffed}}. The verb is not always distinguishable from Etymology 2, below.
 
 ====Verb====
 {{en-verb|will|willing|would|-}}
@@ -115,7 +115,7 @@ From {{etyl|enm|en}} {{m|enm|willen}}, {{m|enm|wullen}}, {{m|enm|wollen}}, from 
 
 ===Etymology 2===
 {{PIE root|en|welh₁}}
-From {{etyl|enm|en}} {{m|enm|wille}}, from {{etyl|ang|en}} {{m|ang|willa||mind, will, determination, purpose, desire, wish, request, joy, delight, pleasure}} (compare verb {{m|ang|willian}}), from {{etyl|gem-pro|en}} {{m|gem-pro|*wiljô||desire, will}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*welh₁-||to choose, wish}}. Cognate with Dutch {{m|nl|wil}}, German {{m|de|Wille}}, Swedish {{m|sv|vilja}}, {{cog|no|vilje}}. The verb is not always distinguishable from Etymology 1, above.
+From {{inh|en|enm|wille}}, from {{inh|en|ang|willa||mind, will, determination, purpose, desire, wish, request, joy, delight, pleasure}} (compare verb {{m|ang|willian}}), from {{inh|en|gem-pro|*wiljô||desire, will}}, from {{der|en|ine-pro|*welh₁-||to choose, wish}}. Cognate with {{cog|nl|wil}}, {{cog|de|Wille}}, {{cog|sv|vilja}}, {{cog|no|vilje}}. The verb is not always distinguishable from Etymology 1, above.
 
 ====Noun====
 {{en-noun}}
@@ -152,11 +152,12 @@ From {{etyl|enm|en}} {{m|enm|wille}}, from {{etyl|ang|en}} {{m|ang|willa||mind, 
 * {{sense|law}} {{l|en|last will}}, {{l|en|last will and testament}}, {{l|en|testament}}
 
 =====Derived terms=====
-{{der3|lang=en|{{l|en|at will}}
-|{{l|en|wilful}}, {{l|en|willful}}
-|{{l|en|willpower}}
-|{{l|en|will to power}}
-|{{l|en|with a will}}
+{{der3|lang=en|
+|at will
+|[[wilful]], [[willful]]
+|willpower
+|will to power
+|with a will
 }}
 
 =====Translations=====
@@ -375,7 +376,6 @@ From {{etyl|enm|en}} {{m|enm|wille}}, from {{etyl|ang|en}} {{m|ang|willa||mind, 
 ====Statistics====
 * {{rank|said|would|been|47|will|no|them|when}}
 
-[[Category:English 1-syllable words]]
 [[Category:English auxiliary verbs]]
 [[Category:English basic words]]
 [[Category:English defective verbs]]
@@ -409,5 +409,3 @@ From {{etyl|enm|en}} {{m|enm|wille}}, from {{etyl|ang|en}} {{m|ang|willa||mind, 
 
 # {{de-verb form of|wollen|1|s|g}}
 # {{de-verb form of|wollen|3|s|g}}
-
-[[Category:German verb forms]]
