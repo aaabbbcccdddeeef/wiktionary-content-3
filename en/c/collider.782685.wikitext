@@ -12,7 +12,6 @@
 #* '''2014''', Jeff W. Murray, ''C# Game Programming Cookbook for Unity 3D'' (page 339)
 #*: The race controller will check for a trigger hit between this player's '''collider''' and the start/finish line trigger, but this script has an OnTriggerEnter function to check for triggers used to force a respawn.
 
-
 ====Translations====
 {{trans-top|particle accelerator}}
 * Basque: {{t+|eu|talkagailu}}
