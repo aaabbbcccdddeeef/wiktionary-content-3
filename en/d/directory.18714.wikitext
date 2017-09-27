@@ -15,8 +15,23 @@ From {{etyl|enm|en}} {{m|enm|directorie}}, from {{etyl|ML.|en}} {{m|la|directori
 # {{lb|en|computing}} A [[structured]] [[listing]] of the [[name]]s and [[characteristic]]s of the [[file]]s on a [[storage]] [[device]].
 # {{lb|en|computing}} A [[virtual]] container in a [[computer]]'s [[file system]], in which [[file]]s and other directories may be [[store]]d. The files and [[subdirectory|subdirectories]] in a directory are usually [[related]].
 
+====Hyponyms====
+{{hyp4
+|home directory
+|pseudodirectory
+|subdirectory
+|telephone directory
+|lang=en}}
+
 ====Derived terms====
-{{der3|directory service|directoryless|ex-directory|home directory|multidirectory|nondirectory|pseudodirectory|subdirectory|telephone directory|lang=en}}
+{{der4
+|directory service
+|directoryless
+|ex-directory
+|multidirectory
+|nondirectory
+|per-directory
+|lang=en}}
 
 ====Synonyms====
 * {{sense|structured listing}} {{l|en|folder}}
