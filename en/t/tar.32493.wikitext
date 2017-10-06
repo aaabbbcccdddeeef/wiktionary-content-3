@@ -208,11 +208,10 @@ Abbreviation of ''[[tape]] [[archive]]''.
 # {{lb|en|computing}} A [[file]] produced by such a program.
 
 =====Derived terms=====
-{{der2|lang=en|title=Terms derived from ''tar'' (verb)
+{{der2|lang=en
 |tarball
 |tarbomb
-|tarfile
-|untar}}
+|tarfile}}
 
 =====Translations=====
 {{trans-top|a file produced by a archiving program}}
@@ -225,6 +224,9 @@ Abbreviation of ''[[tape]] [[archive]]''.
 {{en-verb|tars|tarring|tarred|tarred}}
 
 # {{lb|en|computing|transitive}} To create a tar archive.
+
+=====Derived terms=====
+* {{l|en|untar}}
 
 =====Antonyms=====
 * {{l|en|untar}}
