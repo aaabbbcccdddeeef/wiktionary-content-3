@@ -29,6 +29,7 @@ From {{etyl|frm|en}} {{m|fr|centre}}, from {{etyl|la|en}} {{m|la|centrum}}, from
 # The [[middle]] portion of something; the part well away from the [[edge]]s.
 # {{lb|en|geometry}} The point on a [[line]] that is [[midway]] between the [[end]]s.
 # {{lb|en|geometry}} The point in the interior of any [[figure]] of any number of [[dimension]]s that has as its [[coordinates]] the [[arithmetic mean]] of the coordinates of all points on the [[perimeter]] of the figure (or of all points in the [[interior]] for a center of volume).
+# {{lb|en|group theory}} The [[set]], denoted ''Z''(''G''), of elements of given [[group]] ''G'' that [[commute]] with every element of ''G''.
 # A place where some [[function]] or [[activity]] occurs.
 #: ''shopping '''center''''', ''convention '''center''''', ''civic '''center''''', ''garment '''center''''', ''Lincoln '''Center''' for the Performing Arts'', ''Rockefeller '''Center'''''
 # A [[topic]] that is particularly [[important]] in a given context.
@@ -327,6 +328,11 @@ From {{etyl|frm|en}} {{m|fr|centre}}, from {{etyl|la|en}} {{m|la|centrum}}, from
 * Welsh: {{t+|cy|canol|m}}
 * West Frisian: {{t+|fy|sintrum}}
 * Yiddish: {{t|yi|צענטער|m|sc=Hebr}}
+{{trans-bottom}}
+
+{{trans-top|set of elements of a group that commute with all elements}}
+* Italian: {{t|it|centro|m}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|place where a function or activity occurs}}
