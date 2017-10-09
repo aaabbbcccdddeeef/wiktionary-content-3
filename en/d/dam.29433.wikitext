@@ -127,9 +127,6 @@ From {{der|en|enm|dam}}, {{m|enm|damme}}, from {{der|en|ang|*dam}}, {{m|ang|*dam
 * Yiddish: {{t|yi|דאַם|m|sc=Hebr}}
 {{trans-bottom}}
 
-====References====
-<references/>
-
 ====Verb====
 {{en-verb|dams|damming|dammed}}
 
@@ -149,6 +146,9 @@ From {{der|en|enm|dam}}, {{m|enm|damme}}, from {{der|en|ang|*dam}}, {{m|ang|*dam
 
 =====See also=====
 * {{projectlink|wikipedia}}
+
+====References====
+<references/>
 
 ===Etymology 2===
 Variant of {{m|en|dame}}.
@@ -224,11 +224,11 @@ From {{inh|da|non|dammr||dam}}.
 
 # [[pond]]
 
-=====Derived terms=====
-* {{l|da|dambrug|g=n}}
-
 =====Inflection=====
 {{da-noun-infl|stem=damm|en|e}}
+
+=====Derived terms=====
+* {{l|da|dambrug|g=n}}
 
 ===Etymology 2===
 Borrowed from {{bor|da|fr|jeu de dames||draughts|notext=1}}.
@@ -303,11 +303,11 @@ From {{inh|fr|la|damnum}}.
 ====Related terms====
 * {{l|fr|dommage}}
 
-===Anagrams===
-* {{l|fr|AMD}}
-
 ===Further reading===
 * {{R:TLFi}}
+
+===Anagrams===
+* {{l|fr|AMD}}
 
 ----
 
@@ -499,6 +499,9 @@ From {{der|rhg|bn|}}.
 ====Declension====
 {{sv-infl-noun-c-r|2=dame}}
 
+====Synonyms====
+* {{sense|in chess}} {{l|sv|drottning}}
+
 ====Related terms====
 {{rel3
 |[[damallsvenskan]]
@@ -556,9 +559,6 @@ From {{der|rhg|bn|}}.
 |[[damväska]]
 |[[hovdam]]
 |lang=sv}}
-
-====Synonyms====
-* {{sense|in chess}} {{l|sv|drottning}}
 
 ===See also===
 {{table:chess pieces/sv}}
