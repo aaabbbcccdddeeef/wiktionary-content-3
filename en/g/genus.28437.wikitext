@@ -36,16 +36,6 @@ Borrowed from {{etyl|la|en}} {{m|la|genus||birth, origin, a race, sort, kind}} f
 ====Related terms====
 {{rel4|general|generic|generate|generation|gender|genocide|genre|infrageneric|lang=en}}
 
-====See also====
-* {{l|en|generic name}}
-* {{l|en|class}}
-* {{l|en|division}}
-* {{l|en|kingdom}}
-* {{l|en|order}}
-* {{l|en|phylum}}
-* {{l|en|species}}
-* {{sense|semantics}} {{l|en|differentia}}
-
 ====Translations====
 {{trans-top|rank in a taxonomic classification between family and species}}
 * Armenian: {{t+|hy|ցեղ}}
@@ -134,6 +124,16 @@ Borrowed from {{etyl|la|en}} {{m|la|genus||birth, origin, a race, sort, kind}} f
 * Spanish: {{t+check|es|género|m}}
 {{trans-bottom}}
 
+====See also====
+* {{l|en|generic name}}
+* {{l|en|class}}
+* {{l|en|division}}
+* {{l|en|kingdom}}
+* {{l|en|order}}
+* {{l|en|phylum}}
+* {{l|en|species}}
+* {{sense|semantics}} {{l|en|differentia}}
+
 ====Further reading====
 * {{R:Webster 1913}}
 * {{R:Century 1911}}
@@ -171,13 +171,13 @@ Borrowed from {{etyl|la|da}} {{m|la|genus}}.
 
 ==Dutch==
 
+===Etymology===
+Borrowed from {{der|nl|la|genus}}.
+
 ===Pronunciation===
 * {{IPA|lang=nl|/ˈɣeː.nʏs/}}
 * {{audio|Nl-genus.ogg|Audio|lang=nl}}
 * {{hyphenation|lang=nl|ge|nus}}
-
-===Etymology===
-Borrowed from {{der|nl|la|genus}}.
 
 ===Noun===
 {{nl-noun|n|genera|-}}
@@ -280,14 +280,14 @@ From {{inh|la|itc-pro|*genos}}, from {{inh|la|ine-pro|*ǵénh₁os|t=race}}, fro
 # {{lb|sv|grammar}} [[gender]] (division of nouns and pronouns)
 # (social) gender, [[sex]] (social issues of being man or woman)
 
+====Usage notes====
+* Biological gender is called {{l|sv|kön}}. The Latin word ''genus'' is used for grammar and more recently for gender studies.
+
 ====Declension====
 {{sv-infl-noun-n-zero|genitive=}}
 
 ====Synonyms====
 * {{sense|grammar}} {{l|sv|kön}}
-
-====Usage notes====
-* Biological gender is called {{l|sv|kön}}. The Latin word ''genus'' is used for grammar and more recently for gender studies.
 
 ====Related terms====
 {{rel4|genusforskning|genusfråga|genuspedagogik|genusperspektiv|genusteori|genusväxling|genusändelse|lang=sv}}
