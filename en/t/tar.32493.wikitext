@@ -1,15 +1,15 @@
-{{also|Tar|TAR|tár|tår|tar-|-tar|-tär|Appendix:Variations of "tar"}}
+{{also|Appendix:Variations of "tar"}}
 ==English==
 {{was wotd|2007|May|22}}
 {{wikipedia|dab=tar (disambiguation)|tar}}
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/tɑː/|lang=en}}
-* {{a|US}} {{IPA|/tɑɹ/|[tʰɑɻ]|[tʰɑɹ]|[tʰɑ˞]|lang=en}}, {{audio|en-us-tar.ogg|Audio (US)|lang=en}}
+* {{a|GA}} {{IPA|/tɑɹ/|[tʰɑɻ]|[tʰɑɹ]|lang=en}}, {{audio|en-us-tar.ogg|Audio (US)|lang=en}}
 * {{rhymes|ɑː(ɹ)|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|terr|terr, tarr}}, from {{etyl|ang|en}} {{m|ang|teoru}}, {{m|ang|teru}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*terwą}} (compare West Frisian {{m|fy|tarre}}, Dutch {{m|nl|teer}}), from {{etyl|ine-pro|en}} {{m|ine-pro|*derwo-}} (compare Welsh {{m|cy|derw||oaks}}, Lithuanian {{m|lt|dervà||pinewood, resin}}, Russian {{m|ru|де́рево||tree}}, Bulgarian {{m|bg|дърво||tree|tr=dǎrvó|sc=Cyrl}}), from {{m|ine-pro|*dóru||tree}}. More at [[tree]].
+From {{inh|en|enm|terr}}, {{m|enm|tarr}}, from {{inh|en|ang|teoru}}, {{m|ang|teru}}, from {{inh|en|gem-pro|*terwą}} (compare {{cog|fy|tarre}}, {{cog|nl|teer}}), from {{der|en|ine-pro|*derwo-}} (compare {{cog|cy|derw||oaks}}, {{cog|lt|dervà||pinewood, resin}}, {{cog|ru|де́рево||tree}}, {{cog|bg|дърво́||tree}}), from {{m|ine-pro|*dóru||tree}}. More at [[tree]].
 
 ====Noun====
 {{wikipedia|tar|tar (viscous substance)}}
@@ -118,7 +118,7 @@ From {{etyl|enm|en}} {{m|enm|terr|terr, tarr}}, from {{etyl|ang|en}} {{m|ang|teo
 {{trans-top|coal tar}}
 * Belarusian: {{t|be|смала́|f|sc=Cyrl}}
 * Bulgarian: {{t+|bg|смола́|f|sc=Cyrl}}
-* Catalan: [[quitrà]] [[de]] [[carbó]] {{g|m}}
+* Catalan: {{t|ca|[[quitrà]] [[de]] [[carbó]]|m}}
 * Dutch: {{t|nl|koolteer}}
 * Esperanto: {{t+|eo|gudro}}
 * Finnish: {{t|fi|kivihiiliterva}}
@@ -243,7 +243,7 @@ Abbreviation of ''[[tape]] [[archive]]''.
 
 ===Etymology 3===
 {{wikipedia|Tar (lute)}}
-From {{etyl|fa|en}} {{m|fa|تار‎|tr=târ}}.
+From {{bor|en|fa|تار‎|tr=târ|notext=1}}.
 [[Image:Hasht-Behesht Palace tar.jpg|thumb|150px]]
 
 ====Alternative forms====
@@ -252,7 +252,7 @@ From {{etyl|fa|en}} {{m|fa|تار‎|tr=târ}}.
 ====Noun====
 {{en-noun}}
 
-# {{lb|en|musical instruments}} A Persian long-necked, waisted instrument, shared by many cultures and countries in the Middle East and the Caucasus.
+# A Persian long-necked, waisted instrument, shared by many cultures and countries in the Middle East and the Caucasus.
 
 =====Translations=====
 {{trans-top|Persian musical instrument}}
@@ -275,12 +275,12 @@ From {{etyl|fa|en}} {{m|fa|تار‎|tr=târ}}.
 * {{l|en|Appendix:Glossary of chordophones}}
 
 ===Etymology 4===
-From Arabic [[طار]]
+From {{bor|en|ar|طار|notext=1}}.
 
 ====Noun====
 {{en-noun}}
 
-# {{lb|en|musical instrument}} A single-headed round [[frame drum]] originating in North Africa and the Middle East.
+# A single-headed round [[frame drum]] originating in North Africa and the Middle East.
 
 =====See also=====
 * {{l|en|Appendix:Glossary of membranophones}}
@@ -290,6 +290,8 @@ From Arabic [[طار]]
 
 ===Anagrams===
 * {{anagrams|en|'art|ART|ATR|Art|RAT|RTA|Rat|art|art.|rat}}
+
+{{C|en|Musical instruments}}
 
 ----
 
@@ -319,8 +321,7 @@ Ultimately from {{inh|ast|la|stāre}}, present active infinitive of {{m|la|stō}
 # to [[be]] (referring to geographical place)
 # to [[be]] (referring to something temporary)
 # to [[be]] (for use in constructing continuous verb forms)
-#: tas xugando
-#:: you are playing
+#: {{uxi|ast|tas xugando|you are playing}}
 
 ====Conjugation====
 {{ast-conj-tar}}
@@ -361,7 +362,8 @@ From {{der|hu|trk-pro|*daŕ}}, {{m|trk-pro|*dāŕ|t=bald}}. Cognate to {{cog|tr|
 ==Irish==
 
 ===Etymology===
-{{etyl|sga|ga}} {{m|sga|doicc|do·icc}}
+{{PIE root|ga|h₂neḱ}}
+From {{inh|ga|sga|do·icc}}.
 
 ===Pronunciation===
 * {{IPA|lang=ga|/t̪ˠaɾˠ/}}
@@ -395,7 +397,7 @@ Alternative forms of the second-person singular imperative include {{m|ga|tair}}
 * {{l|ga|tar slán}}
 
 ===Mutation===
-{{ga mut cons|t|ar}}
+{{ga-mut}}
 
 ----
 
@@ -411,7 +413,7 @@ Alternative forms of the second-person singular imperative include {{m|ga|tair}}
 ==Maltese==
 
 ===Etymology===
-From {{etyl|ar|mt}} {{m|ar|طَارَ||to fly}}.
+From {{inh|mt|ar|طَارَ|t=to fly}}.
 
 ===Pronunciation===
 * {{IPA|/taːr/|lang=mt}}
@@ -446,7 +448,8 @@ From {{etyl|ar|mt}} {{m|ar|طَارَ||to fly}}.
 ==Manx==
 
 ===Etymology===
-{{rfe|lang=gv}}
+{{PIE root|gv|h₂neḱ}}
+From {{inh|gv|sga|do·icc}}.
 
 ===Verb===
 {{head|gv|verb|verbal noun|çheet|simple past|haink|future|hig|conditional|harragh}}
@@ -535,7 +538,7 @@ From {{etyl|ar|mt}} {{m|ar|طَارَ||to fly}}.
 * {{l|sga|dar}}
 
 ===Etymology===
-Cognate with Welsh {{m|cy|tra}} and Latin {{m|la|trāns}}.
+Cognate with {{cog|cy|tra}} and {{cog|la|trāns}}.
 
 ===Preposition===
 {{head|sga|preposition|with accusative}}
@@ -565,8 +568,7 @@ Cognate with Welsh {{m|cy|tra}} and Latin {{m|la|trāns}}.
 
 # {{lb|pt|Portugal}} {{nonstandard spelling of|estar|lang=pt}}
 #* '''1983''', Manuel da Costa Fontes, ''Romanceiro da Ilha de São Jorge'', Universidade de Coimbra, page 236:
-#*: Eu '''tou''' aqui nesta serra
-#*:: I''''m''' here in this mountain chain
+#*: {{quote|pt|Eu '''tou''' aqui nesta serra|I'''’m''' here in this mountain chain}}
 
 ----
 
