@@ -32,7 +32,7 @@ Some translation dictionaries have used the abbreviation {{m|en|s.o.}} or {{m|en
 * Asturian: {{t|ast|daquién}}
 * Belarusian: {{t|be|хто́сьці|sc=Cyrl}}, {{t|be|хтось|sc=Cyrl}}, {{t|be|не́хта|sc=Cyrl}}
 * Bengali: {{t|bn|কেউ একটা|sc=Beng}}
-* Bulgarian: {{t|bg|някой|tr=njakoj}}
+* Bulgarian: {{t|bg|някой}}
 * Catalan: {{t+|ca|algú}}, {{t|ca|qualcú}}
 * Chamicuro: {{t|ccc|ana'shanaye}}
 * Chinese:
@@ -47,15 +47,16 @@ Some translation dictionaries have used the abbreviation {{m|en|s.o.}} or {{m|en
 * Galician: {{t+|gl|alguén}}
 * German: {{t+|de|jemand}}
 * Greek: {{t+|el|κάποιος}}
-* Hebrew: {{t|he|מישהו}}
+* Hebrew: {{t|he|מִישֶׁהוּ|tr=míshehu}}
+* Hindi: {{t+|hi|कोई|sc=Deva}}
 * Hungarian: {{t+|hu|valaki}}
 * Icelandic: {{t+|is|einhver}}
 * Ido: {{t+|io|ulu}}
 * Indonesian: {{t+|id|seseorang}}
 * Interlingua: {{t|ia|alicuno}}, {{t|ia|alcuno}}
 * Italian: {{t+|it|qualcuno}}
-* Japanese: {{t|ja|誰か|tr=だれか, dare-ka}}, {{t|ja|或る人|tr=あるひと, aru hito}}
-* Korean: {{t|ko|누군가|tr=nugunga}}
+* Japanese: {{t|ja|誰か|tr=だれか, dareka}}, {{t|ja|或る人|tr=あるひと, aru hito}}
+* Korean: {{t|ko|누군가}}
 * Kurdish:
 *: Sorani: {{t|ku|یه‌کێک|tr=yekék|sc=ku-Arab}}, {{t|ku|که‌سێک|tr=kesék|sc=ku-Arab}}
 {{trans-mid}}
@@ -74,21 +75,24 @@ Some translation dictionaries have used the abbreviation {{m|en|s.o.}} or {{m|en
 * Portuguese: {{t+|pt|alguém}}
 * Romani: {{t|rom|varekon}}
 * Romanian: {{t+|ro|cineva}}
-* Russian: {{t+|ru|кто́-то}}, {{t+|ru|кто-нибу́дь}}, {{t+|ru|не́кто}}, {{t+|ru|кто-ли́бо}}
+* Russian: {{t+|ru|кто́-то}}, {{t+|ru|кто-нибу́дь}}, {{t+|ru|не́кто}}, {{t+|ru|кто-ли́бо}}, {{t+|ru|кое-кто́}}
 * Scottish Gaelic: {{t|gd|cuideigin}}, {{qualifier|male}} {{t|gd|duin'-eigin}}, {{qualifier|male}} {{t|gd|feareigin}}, {{qualifier|female}} {{t|gd|tè-eigin}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|неко}}
-*: Roman: {{t+|sh|neko}}
+*: Cyrillic: {{qualifier|Bosnian, Serbian}} {{t|sh|неко|m|sc=Cyrl}}, {{qualifier|Croatian}} {{t|sh|нетко|m|sc=Cyrl}}
+*: Roman: {{qualifier|Bosnian, Serbian}} {{t+|sh|neko|m}}, {{qualifier|Croatian}} {{t|sh|netko|m}}
 * Slovak: {{t|sk|niekto}}, {{t|sk|dakto}}, {{t|sk|voľakto}}
-* Slovene: {{t+|sl|nekdo}}
+* Slovene: {{t+|sl|nekdó}}
 * Spanish: {{t+|es|alguien}}, {{t+|es|alguno}}
 * Swedish: {{t+|sv|någon}}
 * Talysh: {{t|tly|ای نفری|tr=i nafari|sc=fa-Arab}}
-* Telugu: {{t|te|ఎవరో|tr=evarO}}
+* Telugu: {{t|te|ఎవరో}}
+* Thai: {{t|th|บางคน}
 * Turkish: {{t+|tr|biri}}
-* Ukrainian: {{t+|uk|хтось|tr=xtos'}}, {{t+|uk|хто-не́будь}}
+* Ukrainian: {{t+|uk|хтось}}, {{t+|uk|хто-не́будь}}
+* Vietnamese: {{t|vi|một người nào đó}}, {{t+|vi|có người}}
 * Volapük: {{t+|vo|ek}}
 * Welsh: {{t+|cy|rhywun|m}}
+* Yiddish: {{t|yi|עמעצער}}
 {{trans-bottom}}
 
 ===Noun===
