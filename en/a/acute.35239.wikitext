@@ -15,21 +15,31 @@
 {{en-adj|er|more}}
 
 # [[urgent|Urgent]].
+#: {{syn|en|pressing|urgent|emergent|sudden}}
 #: {{ux|en|His need for medical attention was '''acute'''.}}
 # [[sensitive|Sensitive]].
+#: {{syn|en|intense|powerful|strong|sharp|keen}}
+#: {{ant|en|dull|witless|obtuse|slow}}
 #: {{ux|en|She had an '''acute''' sense of honor.&nbsp;&nbsp; Eagles have very '''acute''' vision.}}
 # [[short|Short]], [[quick]], [[brief]].
+#: {{syn|en|fast|rapid}}
+#: {{ant|en|slow|leisurely}}
 #* {{quote-magazine|year=2013|month=July-August|author=[http://www.americanscientist.org/authors/detail/philip-j-bushnell Philip J. Bushnell]
 |title=[http://www.americanscientist.org/issues/feature/2013/4/solvents-ethanol-car-crashes-amp-tolerance Solvents, Ethanol, Car Crashes & Tolerance]|magazine={{w|American Scientist}}
 |passage=Surprisingly, this analysis revealed that '''acute''' exposure to solvent vapors at concentrations below those associated with long-term effects appears to increase the risk of a fatal automobile accident. Furthermore, this increase in risk is comparable to the risk of death from leukemia after long-term exposure to benzene, another solvent, which has the well-known property of causing this type of cancer.}}
 #: {{ux|en|It was an '''acute''' event.}}
 # {{lb|en|geometry}} Of an [[angle]], less than 90 [[degree]]s.
+#: {{ant|en|obtuse}}
 # {{lb|en|geometry}} Of a [[triangle]], having all three interior angles measuring less than 90 degrees.
+#: {{syn|en|acute-angled}}
+#: {{ant|en|obtuse|obtuse-angled}}
 # {{lb|en|botany}} With the sides meeting directly to form an acute angle (at a [[apex]] or [[base]])
+#: {{syn|en|obtuse}}
 #* [[File:Eremophila abietina.jpg|thumb|The [[corollas]] of the [[plant]] [[species]] ''Eremophila abietina'' have '''acute''' [[lobe]]s.]]{{quote-book|year=2007|author=R. J. Chinnock|title=''Eremophila'' and Allied Genera: A Monograph of the Plant Family Myoporaceae|passage=204. ''Eremophila abietina'' ... Corolla 23–35 mm long, ... lobes '''acute'''.}}
 # {{lb|en|medicine}} Of an abnormal [[condition]] of recent or sudden [[onset]], in contrast to delayed onset; this sense does not imply severity (unlike the common usage).
 #: {{ux|en|He dropped dead of an '''acute''' illness.}}
 # {{lb|en|medicine}} Of a short-lived condition, in contrast to a chronic condition; this sense also does not imply severity.
+#: {{ant|en|chronic}}
 #* {{quote-magazine|year=2013|month=May-June|author=[http://www.americanscientist.org/authors/detail/katie-l-burke Katie L. Burke]
 |title=[http://www.americanscientist.org/issues/pub/2013/3/in-the-news-45 In the News]
 |volume=101|issue=3|page=193|magazine={{w|American Scientist}}
@@ -38,31 +48,10 @@
 # {{lb|en|orthography|after a letter}} Having an [[acute accent]].
 #: {{ux|en|The last letter of “café” is ‘e’ '''acute'''.}}
 # High or shrill.
-#: ''an '''acute''' tone or accent''
-
-====Synonyms====
-* {{sense|urgent}} {{l|en|pressing}}, {{l|en|urgent}}, {{l|en|emergent}}, {{l|en|sudden}}
-* {{sense|sensitive}} {{l|en|intense}}, {{l|en|powerful}}, {{l|en|strong}}, {{l|en|sharp}}, {{l|en|keen}}
-* {{sense|quick}} {{l|en|fast}}, {{l|en|rapid}}
-* {{sense|triangle}} {{l|en|acute-angled}}
-* {{sense|leaf shape}} {{l|en|obtuse}}
-
-====Antonyms====
-* {{sense|sensitive}} {{l|en|dull}}, {{l|en|witless}}, {{l|en|obtuse}}, {{l|en|slow}}
-* {{sense|angle}} {{l|en|obtuse}}
-* {{sense|quick}} {{l|en|slow}}, {{l|en|leisurely}}
-* {{sense|triangle}} {{l|en|obtuse}}, {{l|en|obtuse-angled}}
-* {{sense|medicine: condition}} {{l|en|chronic}}
+#: {{ux|en|an '''acute''' tone or accent}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|acuity}}
-* {{l|en|acutance}}
-* {{l|en|acute accent}}
-{{der-mid}}
-* {{l|en|acute-angled}}
-* {{l|en|acuteness}}
-{{der-bottom}}
+{{der3|acuity|acutance|acute accent|acute-angled|acuteness|lang=en}}
 
 ====Related terms====
 * {{l|en|ague}}
@@ -95,11 +84,10 @@
 * Finnish: {{t+|fi|tarkka}}, {{t+|fi|terävä}}
 * French: {{t+|fr|aigu|m}}, {{t+|fr|aiguë|f}}
 * German: {{t+|de|scharf}}
-* Greek: {{t+|el|οξύς|sc=Grek}}
+* Greek: {{t+|el|οξύς}}
 {{trans-mid}}
 * Japanese: {{t|ja|せつじつ|tr=satsujitsu}}
 * Malay: {{t|ms|tajam}}
-* Mandarin: {{t+|cmn|激烈|tr=jīliè|sc=Hani}}
 * Polish: {{t+|pl|ostry}}
 * Portuguese: {{t+|pt|agudo}}
 * Russian: {{t+|ru|о́стрый}}, {{t+|ru|то́нкий}}
@@ -116,20 +104,20 @@
 
 {{trans-top|geometry: less than 90 deg.}}
 * Armenian: {{t+|hy|սուր}}
-* Belarusian: {{t|be|во́стры|m|sc=Cyrl}}
+* Belarusian: {{t|be|во́стры|m}}
 * Bulgarian: {{t+|bg|остър}}
 * Catalan: {{t+|ca|agut}}
 * Chinese:
-*: Mandarin: {{t+|cmn|锐角|sc=Hani}}
+*: Mandarin: {{t+|cmn|锐角}}
 * Dutch: {{t+|nl|scherp}}
 * Esperanto: {{t+|eo|akuta}}
 * Finnish: {{t+|fi|terävä}}
 * French: {{t+|fr|aigu}}
-* Greek: {{t+|el|οξύς|sc=Grek}}
+* Greek: {{t+|el|οξύς}}
 * Hungarian: {{t+|hu|hegyes}}
 {{trans-mid}}
 * Italian: {{t+|it|acuto}}
-* Japanese: {{t+|ja|鋭角|tr=eikaku no|alt=鋭角の|sc=Jpan}}
+* Japanese: {{t+|ja|鋭角|tr=eikaku no|alt=鋭角の}}
 * Lithuanian: {{t|lt|smailus}}
 * Malay: {{t|ms|tirus}}
 * Maori: {{t|mi|tāhapa}}
@@ -155,7 +143,7 @@
 * Bulgarian: {{t+|bg|остър}}, {{t|bg|акутен}}
 * Catalan: {{t+|ca|agut}}
 * Chinese:
-*: Mandarin: {{t+|cmn|急性|tr=jíxìng|sc=Hani}}
+*: Mandarin: {{t+|cmn|急性|tr=jíxìng}}
 * Czech: {{t+|cs|akutní}}
 * Dutch: {{t+|nl|acuut}}
 {{trans-mid}}
@@ -163,7 +151,7 @@
 * Finnish: {{t+|fi|akuutti}}
 * French: {{t+|fr|aigu}}
 * German: {{t+|de|akut}}
-* Japanese: {{t+|ja|急性|tr=きゅうせいの, kyūsei no|alt=急性の|sc=Jpan}}
+* Japanese: {{t+|ja|急性|tr=きゅうせいの, kyūsei no|alt=急性の}}
 * Malay: {{t|ms|mendadak}}, {{t|ms|akut}}
 * Portuguese: {{t+|pt|agudo}}
 * Russian: {{t+|ru|о́стрый}}
@@ -175,7 +163,7 @@
 * Bulgarian: {{t+|bg|остър}}, {{t|bg|акутен}}
 * Catalan: {{t+|ca|agut}}
 * Chinese:
-*: Mandarin: {{t+|cmn|急性|tr=jíxìng|sc=Hani}}
+*: Mandarin: {{t+|cmn|急性|tr=jíxìng}}
 * Czech: {{t+|cs|akutní}}
 * Dutch: {{t+|nl|acuut}}
 * Esperanto: {{t+|eo|akuta}}, {{t+|eo|akra}}
@@ -183,9 +171,9 @@
 * Finnish: {{t+|fi|akuutti}}
 {{trans-mid}}
 * French: {{t+|fr|aigu}}
-* Greek: {{t+|el|οξύς|sc=Grek}}
+* Greek: {{t+|el|οξύς}}
 * Hungarian: {{t+|hu|akut}}
-* Japanese: {{t+|ja|急性|tr=きゅうせいの, kyūsei no|alt=急性の|sc=Jpan}}
+* Japanese: {{t+|ja|急性|tr=きゅうせいの, kyūsei no|alt=急性の}}
 * Malay: {{t|ms|mendadak}}, {{t|ms|akut}}
 * Norwegian:
 *: Bokmål: {{t+|nb|akutt}}
@@ -201,7 +189,7 @@
 * Finnish: {{t+|fi|nouseva}}, {{t+|fi|akuutti}}
 {{trans-mid}}
 * French: {{t+|fr|aigu}}
-* Navajo: {{t|nv|zhítsʼóóz}}
+* Navajo: {{t|nv|zhítsʼóóz|sc=Latn}}
 * Vietnamese: {{t+|vi|sắc}}
 {{trans-bottom}}
 
