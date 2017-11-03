@@ -10,6 +10,18 @@
 * The symbols ¬, !, ~, ˈ and Ā have all been used for the NOT operator in various contexts.
 * Boolean variables and states ({{l|en|AND}}, {{l|en|OR}}, {{l|en|NOT}}, {{l|en|TRUE}}, {{l|en|FALSE}} etc.) are commonly written in all uppercase in order to distinguish them from the ordinary uses of the words.
 
+{| class="wikitable" style="clear:right; float:right; width:248px"
+|+ NOT Truth Table
+|-
+!colspan="2" | Input || rowspan="1" | Output
+|-
+!A ||
+|-
+| 0 || 1
+|-
+| 1 || 0 
+|}
+
 ====Synonyms====
 * {{l|en|¬}}
 * {{l|en|!}}
