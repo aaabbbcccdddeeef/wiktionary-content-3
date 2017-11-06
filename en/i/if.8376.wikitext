@@ -7,7 +7,7 @@
 * {{l|en|ifen}}, {{l|en|iffen}}
 
 ===Etymology===
-From {{inh|en|enm|yif}}, {{m|enm|yef}}, from {{inh|en|ang|ġif}}, {{m|ang|ġef||if; whether, though}}, from {{inh|en|gem-pro|*jabai||when, if}}. Cognate with {{etyl|sco|-}} {{m|sc|gif||if, whether}}, {{cog|stq|af}}, {{m|stq|of||if, whether}}, {{cog|fy|oft||whether}}, {{cog|nl|of||or, whether, but}}, {{cog|gml|ef}}, {{m|gml|if}}, {{m|gml|af}}, {{m|gml|of}} {{gloss|"if; whether"; > {{cog|nds-de|of}}}}, {{cog|de|ob||if, whether}}, {{cog|is|ef}}, {{m|is|if||if}}.
+From {{inh|en|enm|yif}}, {{m|enm|yef}}, from {{inh|en|ang|ġif}}, {{m|ang|ġef||if; whether, though}}, from {{inh|en|gem-pro|*jabai||when, if}}. Cognate with {{cog|sco|gif||if, whether}}, {{cog|stq|af}}, {{m|stq|of||if, whether}}, {{cog|fy|oft||whether}}, {{cog|nl|of||or, whether, but}}, {{cog|gml|ef}}, {{m|gml|if}}, {{m|gml|af}}, {{m|gml|of}} {{gloss|"if; whether"; > {{cog|nds-de|of}}}}, {{cog|de|ob||if, whether}}, {{cog|is|ef}}, {{m|is|if||if}}.
 
 ===Pronunciation===
 * {{enPR|ĭf}}, {{IPA|/ɪf/|lang=en}}
@@ -48,18 +48,20 @@ From {{inh|en|enm|yif}}, {{m|enm|yef}}, from {{inh|en|ang|ġif}}, {{m|ang|ġef||
 :: ''Whether you like today's weather does not matter.'' (not ''If you like today's weather'')
 
 ====Derived terms====
-* {{l|en|as if}}
-* {{l|en|even if}}
-* {{l|en|if and only if}}
-* {{l|en|if and when}}
-* {{l|en|if clause}}
-* {{l|en|iff}}
-* {{l|en|if I were you}}
-* {{l|en|if not}}
-* {{l|en|if only}}
-* {{l|en|if so}}
-* {{l|en|if so be}}
-* {{l|en|what if}}
+{{der3|lang=en
+|as if
+|even if
+|if and only if
+|if and when
+|if clause
+|iff
+|if I were you
+|if not
+|if only
+|if so
+|if so be
+|what if
+}}
 
 ====Translations====
 {{trans-top|supposing that}}
@@ -81,7 +83,7 @@ From {{inh|en|enm|yif}}, {{m|enm|yef}}, from {{inh|en|ang|ġif}}, {{m|ang|ġef||
 * Bakhtiari: {{t|bqi|ار|tr=ar|sc=fa-Arab}}
 * Bashkir: {{t|ba|әгәр}}
 * Belarusian: {{t+|be|калі́}}
-* Bengali: {{t|bn|যদি|tr=jôdi}}
+* Bengali: {{t|bn|যদি}}
 * Bislama: {{t|bi|sapos}}
 * Breton: {{t+|br|ma}}
 * Bulgarian: {{t+|bg|а́ко}}
@@ -185,7 +187,7 @@ From {{inh|en|enm|yif}}, {{m|enm|yef}}, from {{inh|en|ang|ġif}}, {{m|ang|ġef||
 * Walloon: {{t+|wa|si}}
 * Welsh: {{t|cy|os}}, {{t|cy|pe}}, (''subjunctive'', ''i.e.'', "if" and "only if")
 * West Frisian: {{t|fy|as}}, {{t|fy|at}}
-* Yiddish: {{t|yi|אויב|tr=oyb|sc=Hebr}}, {{t|yi|טאָמער|tr=tomer|sc=Hebr}}, {{t|yi|אַז|tr=az|sc=Hebr}}
+* Yiddish: {{t|yi|אויב}}, {{t|yi|טאָמער}}, {{t|yi|אַז}}
 * Zazaki: {{t|zza|eger}}
 {{trans-bottom}}
 
@@ -203,7 +205,7 @@ From {{inh|en|enm|yif}}, {{m|enm|yef}}, from {{inh|en|ang|ġif}}, {{m|ang|ġef||
 *: Moroccan Arabic: {{t|ary|اِلى|tr=ila}}, {{t|ary|إلا|tr=ila}}
 *: Tunisian Arabic: {{t|aeb|اذا|alt=اِذَا|tr=ʾiḏā|sc=Arab}}
 * Asturian: {{t+|ast|si}}
-* Bengali: {{t|bn|কিনা|tr=kina}}, {{t|bn|কি না|tr=ki na}}
+* Bengali: {{t|bn|কিনা}}, {{t|bn|কি না}}
 * Catalan: {{t+|ca|si}}
 * Chinese:
 *: Mandarin: (usually not used), {{t+|cmn|是否|tr=shì-fǒu|sc=Hani}}
@@ -310,10 +312,7 @@ From {{inh|en|enm|yif}}, {{m|enm|yef}}, from {{inh|en|ang|ġif}}, {{m|ang|ġef||
 
 ===Anagrams===
 * {{anagrams|en|FI|Fi|fi}}
-
-[[Category:English basic words]]
-[[Category:English subordinating conjunctions]]
-[[Category:English two-letter words]]
+{{cln|en|basic words|subordinating conjunctions|two-letter words}}
 
 ----
 
@@ -335,8 +334,7 @@ From {{inh|fr|frm|if}}, from {{inh|fr|fro|if}}, from either {{der|fr|frk|*iw|*ī
 ===Further reading===
 * {{R:TLFi}}
 
-[[Category:fr:Conifers]]
-[[Category:fr:Trees]]
+{{C|fr|Conifers|Trees}}
 
 ----
 
@@ -379,4 +377,4 @@ Borrowed from {{bor|vo|en|if|notext=1}}.
 ===Conjunction===
 {{head|vo|conjunction}}
 
-# [[#English|if]]
+# {{l|en|if}}
