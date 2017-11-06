@@ -452,47 +452,49 @@ From {{m|nl|hossen}}.
 ==Norwegian Bokmål==
 
 ===Etymology 1===
-Related to ''{{nn-inf|host|e=1|/}}'' ("to cough").
+Related to {{m|nb|hoste}} ("to cough").
 
 ====Pronunciation====
 * {{IPA|/hust/|lang=no}}
 * {{rhymes|ust|lang=no}}
 
 ====Noun====
-{{head|no|noun}}
+{{nb-noun-n1}} <br>
+{{nb-noun-m1}}
 
 # A single [[cough]] [[expulsion]]
 
-=====Inflection=====
-{{no-noun-infl|nb-class=irreg|nb-g=m|nb-ds=hosten|nb-ip=host|nb-dp=hostene|nb-class2=n1|nn-class=n1}}
-
-====Verb====
-{{head|no|verb form}}
-
-# {{nn-verb-form of|imperative|host|lang=nn}} {{lb|no|Nynorsk}}
-
 ===Etymology 2===
-From {{etyl|en|no}}.
+From {{der|nb|en|host}}.
 
 ====Pronunciation====
 * {{IPA|/hɔust/|lang=no}}
 * {{rhymes|ɔust|lang=no}}
 
 ====Noun====
-{{head|no|noun|g=m}}
+{{nb-noun-m1}}
 
-# {{lb|no|computing}} [[#English|host]]
+# {{lb|nb|computing}} {{l|en|host}}
 
 =====Inflection=====
 {{no-noun-infl|nb-class=m1|nn-class=m1}}
 
 =====Synonyms=====
-* {{l|no|vertsmaskin}}
+* {{l|nb|vertsmaskin}}
 
-===Verb===
+===Etymology 3===
+====Verb====
 {{head|nb|verb form}}
 
 # {{form of|imperative|hoste|lang=nb}}
+
+====Verb====
+{{head|no|verb form}}
+
+# {{nn-verb-form of|imperative|host|lang=nn}} {{lb|no|Nynorsk}}
+
+===References===
+* {{R:Dokpro|lang=nb}}
 
 ----
 
