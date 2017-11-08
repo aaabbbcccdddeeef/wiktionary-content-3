@@ -11,7 +11,7 @@
 {{wikipedia}}
 [[Image:Mixed nuts small white3.jpg|thumb|right|A bowl of mixed nuts (hard-shelled seeds).]]
 [[Image:Nut-hardware.jpg|thumb|right|Assorted nuts (fasteners with internal threads).]]
-From {{etyl|enm|en}} {{m|enm|nute}}, {{m|enm|note}}, from {{etyl|ang|en}} {{m|ang|hnutu}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*hnuts||nut}} (compare West Frisian {{m|fy|nút}}, Dutch {{m|nl|noot}}, German {{m|de|Nuss}}, Danish {{m|da|nød}}, Swedish {{m|sv|nöt}}, {{cog|no|nøtt}}), from {{inh|en|ine-pro|*knew-}} (compare Irish {{m|ga|cnó}}, Latin {{m|la|nux||walnut}}, Albanian {{m|sq|nyç||a gnarl}}).
+From {{inh|en|enm|nute}}, {{m|enm|note}}, from {{inh|en|ang|hnutu}}, from {{inh|en|gem-pro|*hnuts||nut}} (compare {{cog|fy|nút}}, {{cog|nl|noot}}, {{cog|de|Nuss}}, {{cog|da|nød}}, {{cog|sv|nöt}}, {{cog|no|nøtt}}), from {{inh|en|ine-pro|*knew-}} (compare {{cog|ga|cnó}}, {{cog|la|nux||walnut}}, {{cog|sq|nyç||a gnarl}}).
 
 ====Noun====
 {{en-noun}}
@@ -136,7 +136,7 @@ From {{etyl|enm|en}} {{m|enm|nute}}, {{m|enm|note}}, from {{etyl|ang|en}} {{m|an
 * Javanese: {{t-needed|jv}}
 * Kazakh: {{t+|kk|жаңғақ|sc=Cyrl}}
 * Khmer: {{t+|km|គ្រាប់|tr=kroap|sc=Khmr}}
-* Korean: {{t+|ko|견과|tr=堅果, gyeon-gwa}}
+* Korean: {{t|ko|堅果}}/{{t+|ko|견과}}
 * Kyrgyz: {{t+|ky|жаңгак}}
 * Lao: {{t|lo|ແຫ້ງເປືອກ|sc=Laoo}}
 * Latgalian: {{t|ltg|rīksts}}
@@ -195,7 +195,7 @@ From {{etyl|enm|en}} {{m|enm|nute}}, {{m|enm|note}}, from {{etyl|ang|en}} {{m|an
 * Vietnamese: {{t+|vi|đậu}}
 * Welsh: {{t+|cy|cneuen|f}}
 * West Frisian: {{t|fy|nút}}
-* Yiddish: {{t|yi|נוס|m|f|tr=nus}}
+* Yiddish: {{t|yi|נוס|m|f}}
 * Zhuang: {{t-needed|za}}
 {{trans-bottom}}
 
@@ -415,9 +415,9 @@ From the adjective {{inh|nl|dum|nutte||useful}}, or from {{inh|nl|dum|nut||yield
 #: {{syn|nl|voordeel}}
 
 ====Derived terms====
-* [[nuttig]]
-* [[nutteloos]]
-* [[onnut]]
+* {{l|nl|nuttig}}
+* {{l|nl|nutteloos}}
+* {{l|nl|onnut}}
 
 ----
 
@@ -434,7 +434,7 @@ From the adjective {{inh|nl|dum|nutte||useful}}, or from {{inh|nl|dum|nut||yield
 [[File:Stalheim Norway 3.jpg|thumb|''nut'', the top to the left]]
 
 ===Etymology===
-From {{etyl|non|no}} {{m|non|hnútr}}.
+From {{inh|no|non|hnútr}}.
 
 ===Noun===
 {{head|no|noun|g=m}}
@@ -446,8 +446,6 @@ From {{etyl|non|no}} {{m|non|hnútr}}.
 
 ====References====
 * {{R:Dokumentasjonsprosjektet}}
-
-{{-}}
 
 ----
 
