@@ -1,13 +1,13 @@
 ==English==
-{{wikipedia}}
+[[File:Bezier_curve.svg|thumb|A '''Bézier curve''' with four control points]]
 
 ===Etymology===
-Popularized by Pierre Bézier.
+Named after Renault engineer {{w|Pierre Bézier}} who popularized the curves developed earlier by {{w|Paul de Casteljau}}.
 
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|mathematics}} A [[parametric]] curve defined by a set of [[control point]]s, two of which are the ends of the curve, and the others determine its shape. Bézier curves are applied e.g. in [[computer graphics]] to produce smooth, infinitely scalable curves.
+# {{lb|en|mathematics}} A [[parametric]] curve defined by a set of [[control point]]s, two of which are the ends of the curve, and the others determine its shape. Bézier curves are applied e.g. in [[computer graphics]] to produce smooth, infinitely scalable curves. {{defdate|from 1960s}}
 
 ====Translations====
 {{trans-top|kind of parametric curve}}
@@ -22,6 +22,9 @@ Popularized by Pierre Bézier.
 * Russian: {{t|ru|крива́я Безье́|f}}
 * Spanish: {{t|es|curva de Bézier|f}}
 {{trans-bottom}}
+
+===Further reading===
+* {{pedia}}
 
 [[Category:English eponyms]]
 [[Category:English terms spelled with É|bezier curve]]
