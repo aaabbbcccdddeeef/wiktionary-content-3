@@ -4,14 +4,12 @@
 * {{IPA|/ˈɛl.zas/|lang=br}}
 
 ===Proper noun===
-{{head|br|proper noun}}
+{{br-proper noun}}
 
 # [[Alsace]]
 
 ====Derived terms====
-* {{l|br|Elzasad}}
-* {{l|br|elzaseg}}
-* {{l|br|elzasek}}
+{{der3|Elzasad|elzaseg|elzasek|lang=br}}
 
 [[Category:br:Regions of France]]
 
@@ -28,15 +26,17 @@
 {{nl-proper noun|n}}
 
 # The [[Alsace]] region on the Franco-German border
-#: ''De '''Elzas''' is afwisselend Duits en Frans geweest, onder uiteenlopende bewindsvormen
-#:: ''The Alsace was alternately German and French, under various regimes
+#: {{ux|nl|De '''Elzas''' is afwisselend Duits en Frans geweest, onder uiteenlopende bewindsvormen|The Alsace was alternately German and French, under various regimes}}
 # The name of several feudal and other historical jurisdictions, and part of some more
 
 ====Derived terms====
-* [[Elzasser]] {{g2|m}} & adjective
-* [[Elzas-Lotharingen]] {{g2|n}}
-* [[Neder-Elzas]] {{g2|n}}
-* [[Opper-Elzas]] {{g2|n}}
+{{der3
+|{{l|nl|Elzasser|g=m}}
+|{{l|nl|Elzasser|pos=a}}
+|{{l|nl|Elzas-Lotharingen|g=n}}
+|{{l|nl|Neder-Elzas|g=n}}
+|{{l|nl|Opper-Elzas|g=n}}
+|lang=nl}}
 
 [[Category:nl:Regions of France]]
 
@@ -51,6 +51,7 @@
 {{sh-proper noun|g=m|head=Èlzas}}
 
 # [[Alsace]]
+#: {{syn|sh|Alsace}}
 
 ====Declension====
 {{sh-decl-noun-unc
@@ -62,8 +63,5 @@
 |Elzasu
 |Elzasom
 }}
-
-====Synonyms====
-* {{l|sh|Alsace}}
 
 [[Category:sh:Place names]]
