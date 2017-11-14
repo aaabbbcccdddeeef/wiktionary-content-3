@@ -16,28 +16,30 @@ Shortening of {{m|en|[[graphic]] [[formula]]}}.
 ===Noun===
 {{en-noun}}
 
-# A [[diagram]] displaying data; in particular one showing the relationship between two or more [[quantity|quantities]], [[measurement]]s or [[indicative]] numbers that may or may not have a specific mathematical formula relating them to each other.
-#* {{quote-magazine|date=2012-03
+# {{n-g|in the common language}}
+## A [[diagram]] displaying data; in particular one showing the relationship between two or more [[quantity|quantities]], [[measurement]]s or [[indicative]] numbers that may or may not have a specific mathematical formula relating them to each other.
+##* {{quote-magazine|date=2012-03
 |author=[[w:Brian Hayes (scientist)|Brian Hayes]]
 |title=Pixels or Perish
 |volume=100|issue=2|page=106
 |magazine=[[w:American Scientist|American Scientist]]
 |url=http://www.americanscientist.org/issues/pub/pixels-or-perish
 |passage=Drawings and pictures are more than mere ornaments in scientific discourse. Blackboard sketches, geological maps, diagrams of molecular structure, astronomical photographs, MRI images, the many varieties of statistical charts and '''graphs''': These pictorial devices are indispensable tools for presenting evidence, for explaining a theory, for telling a story.}}
-# {{lb|en|mathematics}} A [[diagram]] displaying data, in particular one showing the relationship between two or more [[variable]]s; specifically, for a function <math>f(x_1, x_2, \ldots, x_n)</math>, the [[set]] of all [[tuple]]s <math>(x_1, x_2, \ldots, x_n, f(x_1, x_2, \ldots, x_n))</math>.
-# {{lb|en|graph theory}} An [[ordered pair]] <math>(V,E)</math>, where <math>V</math> is a set of elements called ''[[vertex|vertices]]'' (or ''[[node]]s'') and <math>E</math> is a set of pairs of [[element]]s of <math>V</math>, called ''[[edge]]s''; informally, a set of vertices together with a set edges that join these vertices.
-# {{lb|en|linguistics|typography}} A [[graphical]] unit on the {{l|en|token-level}}, the [[abstracted]] fundamental shape of a [[character]] or [[letter]] as distinct from its [[ductus]] (realization in a particular typeface or handwriting on the {{l|en|instance-level}}) and as distinct by a {{l|en|grapheme}} on the {{l|en|type-level}} by not fundamentally distinguishing {{l|en|meaning}}.
-#* {{quote-book|author=J. Richard Andrews|year=2003|title=Introduction to Classical Nahuatl, Revised Edition|page=10|publisher=University of Oklahoma Press|passage=A '''''graph''''' <!--- bold and italic in the source ---> is a token-level nondistinctive representation of a grapheme. It can differ from the other variants of its grapheme with regard to upper case, lower case, script, print, typeface style, typeface size, etc.}}
-#: {{syn|en|glyph}}
-# {{lb|en|category theory}} ''Said to be of a morphism f'': a [[morphism]] <math>\Gamma_f</math> from the [[domain]] of ''f'' to the [[categorical product|product]] of the domain and [[codomain]] of ''f'', such that the first projection applied to <math>\Gamma_f</math> equals the [[identity morphism|identity]] of the domain, and the second projection applied to <math>\Gamma_f</math> is equal to ''f''.
-
-====Synonyms====
-* {{sense|in graph theory}} {{l|en|undirected graph}}
-* See also [[Wikisaurus:graph]]
+# {{n-g|in mathematics}}
+## {{lb|en|mathematics}} A [[diagram]] displaying data, in particular one showing the relationship between two or more [[variable]]s; specifically, for a function <math>f(x_1, x_2, \ldots, x_n)</math>, the [[set]] of all [[tuple]]s <math>(x_1, x_2, \ldots, x_n, f(x_1, x_2, \ldots, x_n))</math>.
+## {{lb|en|graph theory}} An [[ordered pair]] <math>(V,E)</math>, where <math>V</math> is a set of elements called ''[[vertex|vertices]]'' (or ''[[node]]s'') and <math>E</math> is a set of pairs of [[element]]s of <math>V</math>, called ''[[edge]]s''; informally, a set of vertices together with a set edges that join these vertices.
+##: {{syn|en|undirected graph}}
+##: {{hypo|en|tree}}
+## {{lb|en|category theory}} ''Said to be of a morphism f'': a [[morphism]] <math>\Gamma_f</math> from the [[domain]] of ''f'' to the [[categorical product|product]] of the domain and [[codomain]] of ''f'', such that the first projection applied to <math>\Gamma_f</math> equals the [[identity morphism|identity]] of the domain, and the second projection applied to <math>\Gamma_f</math> is equal to ''f''.
+# {{n-g|in linguistics}}
+## {{lb|en|linguistics|typography}} A [[graphical]] unit on the {{l|en|token-level}}, the [[abstracted]] fundamental shape of a [[character]] or [[letter]] as distinct from its [[ductus]] (realization in a particular typeface or handwriting on the {{l|en|instance-level}}) and as distinct by a {{l|en|grapheme}} on the {{l|en|type-level}} by not fundamentally distinguishing {{l|en|meaning}}.
+##* {{quote-book|author=J. Richard Andrews|year=2003|title=Introduction to Classical Nahuatl, Revised Edition|page=10|publisher=University of Oklahoma Press|passage=A '''''graph''''' <!--- bold and italic in the source ---> is a token-level nondistinctive representation of a grapheme. It can differ from the other variants of its grapheme with regard to upper case, lower case, script, print, typeface style, typeface size, etc.}}
+##: {{syn|en|glyph}}
 
 ====Hyponyms====
 {{der4|acyclic graph|biased graph|biconnected graph|bipartite graph|complete graph|connected graph|dependency graph|directed graph|Eulerian graph|Hamiltonian graph|hypergraph|line graph|multigraph|object graph|Petersen graph|pseudograph|random graph|regular graph|signed graph|small world graph|strongly regular graph|subgraph|superregular graph|undirected graph|unicursal graph|voltage graph|weighted graph|lang=en}}
-* {{sense|in graph theory}} {{l|en|tree}}
+
+* See also [[Wikisaurus:graph]]
 
 ====Derived terms====
 {{der4|graph centre|graph eccentricity|graph eigenvalue|graph geodesic|graph minor|graph polynomial|graph spectrum|graph thickness|graphic matroid|graphoid|lang=en}}
@@ -128,11 +130,6 @@ Shortening of {{m|en|[[graphic]] [[formula]]}}.
 * Thai: {{t+|th|กราฟ}}
 * Ukrainian: {{t|uk|гра́фік|m}}, {{t|uk|діагра́ма|f}}
 * Vietnamese: {{t+|vi|biểu đồ}}
-{{trans-bottom}}
-
-<!--Remove this section once all of the translations below have been moved into the tables above.-->
-{{checktrans-top}}
-* Spanish: {{t-check|es|grafo|m}}
 {{trans-bottom}}
 
 ===Verb===
