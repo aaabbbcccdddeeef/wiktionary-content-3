@@ -1,9 +1,6 @@
 {{also|Alert}}
 ==English==
 
-===Etymology===
-From {{etyl|fr|en}} {{m|fr|alerte||alert}}, from the phrase {{m|fr|à l'erte||on the watch}}, from {{etyl|it|en}} {{m|it|all'erta||to the height}}, from {{m|it|erta||lookout, tower}}.
-
 ===Pronunciation===
 * {{a|RP}} {{IPA|/əˈlɜːt/|lang=en}}
 * {{a|GA}} {{enPR|ə-lûrtʹ}}, {{IPA|/əˈlɝt/|lang=en}}
@@ -11,15 +8,18 @@ From {{etyl|fr|en}} {{m|fr|alerte||alert}}, from the phrase {{m|fr|à l'erte||on
 * {{rhymes|ɜː(ɹ)t|lang=en}}
 * {{hyph|a|lert|lang=en}}
 
-===Adjective===
+===Etymology 1===
+Boreowed from {{bor|en|fr|alerte||alert}}, from the phrase {{m|fr|à l'erte||on the watch}}, from {{etyl|it|en}} {{m|it|all'erta||to the height}}, from {{m|it|erta||lookout, tower}}.
+
+====Adjective====
 {{en-adj}}
 
-# [[attentive|Attentive]]; [[awake]]; on guard.
+# {{senseid|en|attentive}} [[attentive|Attentive]]; [[awake]]; on guard.
 # {{lb|en|obsolete}} Brisk; nimble; moving with celerity.
 #* Addison
 #*: an '''alert''' young fellow
 
-====Translations====
+=====Translations=====
 {{trans-top|attentive}}
 * Arabic: {{t|ar|يَقِظ}}
 * Armenian: {{t+|hy|զգաստ}}, {{t+|hy|արթուն}}, {{t+|hy|զգոն}}
@@ -57,13 +57,13 @@ From {{etyl|fr|en}} {{m|fr|alerte||alert}}, from the phrase {{m|fr|à l'erte||on
 * Westrobothnian: {{t|gmq-bot|knor}}
 {{trans-bottom}}
 
-===Noun===
+====Noun====
 {{en-noun}}
 
 # An [[alarm]].
 # A [[notification]] of higher importance than an [[advisory]].
 
-====Translations====
+=====Translations=====
 {{trans-top|an alarm}}
 * Bulgarian: {{t+|bg|тревога}}
 * Catalan: {{t+|ca|alerta|f}}
@@ -100,7 +100,10 @@ From {{etyl|fr|en}} {{m|fr|alerte||alert}}, from the phrase {{m|fr|à l'erte||on
 * Swahili: {{t+|sw|chonjo}}, {{t+|sw|tahadhari}}
 {{trans-bottom}}
 
-===Verb===
+===Etymology 2===
+Formed within {{etyl|en|en}} by conversion, from {{m-self|en|alert||pos=adj|id=attentive}}. Compare {{cog|fr|alerter}}.
+
+====Verb====
 {{en-verb}}
 
 # To give [[warning]] to.
