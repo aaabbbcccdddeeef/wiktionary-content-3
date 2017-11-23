@@ -246,7 +246,17 @@ From {{der|nn|nds|busse}}, "short case or ring of metal for lining of an axle, s
 # {{topics|sms|Vehicles}} [[bus]]
 
 ====Inflection====
-{{sms-decl|buss|buuss|buuss|buʹsse|buussâst|buussin|[[buusstää]], [[buusstaa]]|bussân|bussâd|buuss|buussid|buussi|buussid|buussin|buussivuiʹm|[[buussitää]], [[buussitaa]]}}
+{{sms-infl-noun
+|nom_s=buss|nom_p=buuss
+|acc_s=buuss|acc_p=buussid
+|gen_s=buuss|gen_p=buussi
+|ill_s=buʹsse|ill_p=buussid
+|loc_s=buussâst|loc_p=buussin
+|com_s=buussin|com_p=buussivuiʹm
+|abe_s=buusstää|abe_s2=buusstaa|abe_p=buussitää|abe_p2=buussitaa
+|ess=bussân
+|par=bussâd
+}}
 
 ----
 
