@@ -116,7 +116,7 @@ From {{etyl|enm|en}} {{m|enm|skinn}}, from {{etyl|non|en}} {{m|non|skinn||animal
 |lang=en}}
 
 ====Translations====
-{{trans-top|outer covering of the body of a person or animal}}
+{{trans-top|outer protective of the body of a person or animal}}
 * Abkhaz: {{t-needed|ab}}
 * Afrikaans: {{t|af|vel}}
 * Albanian: {{t+|sq|lëkurë|f}}
@@ -160,7 +160,7 @@ From {{etyl|enm|en}} {{m|enm|skinn}}, from {{etyl|non|en}} {{m|non|skinn||animal
 * Esperanto: {{t+|eo|haŭto}}
 * Estonian: {{t+|et|nahk}}
 * Faroese: {{t|fo|húð|f}}
-* Finnish: {{t+|fi|iho}}
+* Finnish: {{t+|fi|iho}} {{qualifier|chiefly human}}; {{t|fi|nahka}} {{qualifier|chiefly animal}}
 * French: {{t+|fr|peau|f}}
 * Friulian: {{t|fur|piel|f}}
 * Gagauz: {{t|gag|deri}}
@@ -228,7 +228,7 @@ From {{etyl|enm|en}} {{m|enm|skinn}}, from {{etyl|non|en}} {{m|non|skinn||animal
 * Russian: {{t+|ru|ко́жа|f}}, {{t+|ru|шку́ра|f}} {{qualifier|disparaging}}
 * Sanskrit: {{t-needed|sa}}
 * Sardinian: {{t|sc|pedhe}}
-* Scottish Gaelic: {{t|gd|craiceann|m}}
+* Scottish Gaelic: {{t|gd|craiceann|m}}; {{qualifier|animal}} {{t|gd|seiche|f}}
 * Sebop: {{t|sib|kulit}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|кожа|f|sc=Cyrl}}
@@ -271,48 +271,21 @@ From {{etyl|enm|en}} {{m|enm|skinn}}, from {{etyl|non|en}} {{m|non|skinn||animal
 * Wolof: {{t+|wo|der}}
 * Yakut: {{t|sah|тирии|sc=Cyrl}}
 * Yiddish: {{t|yi|הויט|f}}
-* Zulu: {{t+|zu|isikhumba|c7|c8}}, {{t|zu|inyama|c9|c10}}
+* * Zulu: {{qualifier|animal}} {{t+|zu|isikhumba|c7|c8}}; {{qualifier|human}} {{t|zu|inyama|c9|c10}}
 {{trans-bottom}}
 
-{{trans-top|the outer protective layer of any plant or animal}}
+{{trans-top|outer protective layer of fruit}}
 * Arabic:
-*: Moroccan Arabic: {{t|ary|قشرة|f|tr=qəšra}} {{qualifier|peeled fruit}}, {{t|ary|جلدة|f|tr=jəlda}}
-* Aromanian: {{t|rup|coaji|f}}
-* Chinese:
-*: Mandarin: {{t+|cmn|皮|tr=pí|sc=Hani}}, {{t+|cmn|皮膚|sc=Hani}}, {{t+|cmn|皮肤|tr=pífū|sc=Hani}}
-* Danish: {{t|da|skræl|c}}, {{t+|da|skind|n}}
-* Dutch: {{t+|nl|huid|f}}, {{t+|nl|vel|n}}
-* Finnish: {{t+|fi|nahka}}, {{t+|fi|iho}} {{qualifier|animal}}, {{t+|fi|kuori}} (''fruit etc.''), {{t+|fi|pinta}} {{qualifier|other}}
-* French: {{t+|fr|peau|f}}
-* German: {{t+|de|Fell|n}}
-* Greek: {{t+|el|δέρμα|n}}
-* Hawaiian: {{t|haw|ʻili}}
-* Hungarian: {{t+|hu|héj}} {{qualifier|fruit, vegetable}}, {{t+|hu|kéreg}} {{qualifier|plant}}, {{t+|hu|bőr}} {{qualifier|animal}}
-* Irish: {{t+|ga|craiceann|m}}, {{t|ga|cneas|m}}, {{t|ga|seithe|f}}
-* Kurdish:
-*: Sorani: {{t+|ku|چه‌رم|sc=ku-Arab}}
-* Malay: {{t|ms|kulit}}
+*: Moroccan Arabic: {{t|ary|قشرة|f|tr=qəšra}} {{qualifier|peeled fruit}}
+* Finnish: {{t|fi|kuori}}
+* Hungarian: {{t+|hu|héj}} {{qualifier|fruit, vegetable}}, {{t+|hu|kéreg}} {{qualifier|plant}}
 {{trans-mid}}
-* Malayalam: {{t+|ml|തൊലി|sc=Mlym}}, {{t|ml|ചര്‍മ്മം|sc=Mlym}}
-* Norman: {{t|nrf|pé|f}}
-* Norwegian:
-*: Bokmål: {{t+|nb|skinn|n}}
-*: Nynorsk: {{t|nn|skinn|n}}
-* Persian: {{t+|fa|پوست|tr=pust}}
-* Portuguese: {{t+|pt|pele|f}}, {{t+|pt|casca|f}}
-* Quechua: {{t|qu|qara}}
-* Romanian: {{t+|ro|piele|f}}, {{t+|ro|coajă|f}}
-* Russian: {{t+|ru|ко́жа|f}}, {{t+|ru|шку́ра|f}}, {{t+|ru|кожура́|f}} ''of plants''
-* Scottish Gaelic: {{qualifier|animal}} {{t|gd|seiche|f}}
-* Swahili: {{t+|sw|ngozi|c9|c10}}
-* Telugu: {{t+|te|పట్ట|sc=Telu}}
-* Tok Pisin: {{t|tpi|skin}}
-* Ukrainian: {{t|uk|шку́ра|f|sc=Cyrl}}
-* Walloon: {{t+|wa|pelete|f}} {{qualifier|peeled fruit}}, {{t+|wa|pelote|f}}
-* Zulu: {{qualifier|animal}} {{t+|zu|isikhumba|c7|c8}}, {{qualifier|fruit}} {{t+|zu|ikhasi|c5|c6}}
+* Russian: {{t+|ru|кожура́|f}} {{qualifier|of plants}}
+* Walloon: {{t+|wa|pelete|f}} {{qualifier|peeled fruit}}
+* Zulu: {{qualifier|fruit}} {{t+|zu|ikhasi|c5|c6}}
 {{trans-bottom}}
 
-{{trans-top|skin of an animal used by humans}}
+{{trans-top|skin and fur of an animal used by humans}}
 * Arabic:
 *: Moroccan Arabic: {{t|ary|هدورة|f|tr=hədura}} {{qualifier|sheep skin with wool}}
 * Armenian: {{t+|hy|կաշի|sc=Armn}}, {{t+|hy|մորթի|sc=Armn}}
@@ -321,7 +294,7 @@ From {{etyl|enm|en}} {{m|enm|skinn}}, from {{etyl|non|en}} {{m|non|skinn||animal
 * Danish: {{t+|da|skind|n}}
 * Dutch: {{t+|nl|huid|f}}, {{t+|nl|bont|n}}, {{t+|nl|pels|f}}
 * Egyptian: {{t-egy|jnm|h=i-in:n-T34-m-F27}}
-* Finnish: {{t+|fi|nahka}}
+* Finnish: {{t+|fi|talja}}
 * French: {{t+|fr|peau|f}}
 * Greek: {{t+|el|δέρμα|n}}, {{t+|el|επιδερμίδα|f}}
 * Hawaiian: {{t|haw|ʻili}}
@@ -422,8 +395,8 @@ From {{etyl|enm|en}} {{m|enm|skinn}}, from {{etyl|non|en}} {{m|non|skinn||animal
 * Swahili: {{t+|sw|gamba}}
 {{trans-bottom}}
 
-{{trans-top|skinhead}}
-* Dutch: {{t+|nl|skinhead}}, {{t+|nl|skin|m}}
+{{trans-top|skinhead (clipping of)}}
+* Dutch: {{t+|nl|skin|m}}
 * Finnish: {{t+|fi|skini}}
 * Hungarian: {{t+|hu|skinhead}}, {{t+|hu|szkinhed}}
 * Polish: {{t+|pl|skin|m}}
@@ -433,20 +406,68 @@ From {{etyl|enm|en}} {{m|enm|skinn}}, from {{etyl|non|en}} {{m|non|skinn||animal
 * Swedish: {{t|sv|skinnskalle|c}}, {{t|sv|skinhead|c}}
 {{trans-bottom}}
 
-{{trans-top|a subgroup within an Australian aboriginal people}}
+{{trans-top|subgroup within an Australian aboriginal people}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|An alternate appearance (texture map or geometry) for a 3D character model in a video game.}}
+{{trans-top|alternate appearance for a 3D character model in a video game}}
 * Russian: {{t+|ru|скин|m}}
 {{trans-mid}}
 {{trans-bottom}}
 
+{{trans-top|slang: bare flesh}}
+* Finnish: {{t|fi|[[paljas]] [[pinta]]}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|vessel made of skin}}
+* Finnish: {{t|fi|nahkaleili}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|nautical: part of a sail}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|nautical: covering outside the framing}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{checktrans-top}}
+* Arabic:
+*: Moroccan Arabic: {{t-check|ary|جلدة|f|tr=jəlda}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" --> 
+* Aromanian: {{t-check|rup|coaji|f}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Chinese:
+*: Mandarin: {{t+check|cmn|皮|tr=pí|sc=Hani}}, {{t+check|cmn|皮膚|sc=Hani}}, {{t+check|cmn|皮肤|tr=pífū|sc=Hani}} <!-- Were under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Danish: {{t-check|da|skræl|c}}, {{t+check|da|skind|n}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Dutch: {{t+check|nl|huid|f}}, {{t+check|nl|vel|n}} <!-- Were under the non-existing sense "the outer protective layer of any plant or animal" -->
+* French: {{t+check|fr|peau|f}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* German: {{t+check|de|Fell|n}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Greek: {{t+check|el|δέρμα|n}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Hawaiian: {{t-check|haw|ʻili}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Irish: {{t+check|ga|craiceann|m}}, {{t-check|ga|cneas|m}}, {{t-check|ga|seithe|f}} <!-- Were under the non-existing sense "the outer protective layer of any plant or animal" -->
 * Isthmus Zapotec: {{t-check|zai|guidi}}, {{t-check|zai|guidi ladi}}
 * Kuna: {{t-check|cuk|uka}}
+* Kurdish:
+*: Sorani: {{t+check|ku|چه‌رم|sc=ku-Arab}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Malay: {{t-check|ms|kulit}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
 {{trans-mid}}
+* Malayalam: {{t+check|ml|തൊലി|sc=Mlym}}, {{t-check|ml|ചര്‍മ്മം|sc=Mlym}} <!-- Were under the non-existing sense "the outer protective layer of any plant or animal" -->
 * Mongolian: {{t-check|mn|хальс}}
+* Norman: {{t-check|nrf|pé|f}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Norwegian:
+*: Bokmål: {{t+check|nb|skinn|n}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+*: Nynorsk: {{t-check|nn|skinn|n}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Persian: {{t+check|fa|پوست|tr=pust}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Portuguese: {{t+check|pt|pele|f}}, {{t+check|pt|casca|f}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Quechua: {{t-check|qu|qara}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Romanian: {{t+check|ro|piele|f}}, {{t+check|ro|coajă|f}} <!-- Were under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Russian: {{t+|ru|ко́жа|f}}, {{t+|ru|шку́ра|f}} <!-- Were under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Swahili: {{t+check|sw|ngozi|c9|c10}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Telugu: {{t+check|te|పట్ట|sc=Telu}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Tok Pisin: {{t-check|tpi|skin}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Ukrainian: {{t-check|uk|шку́ра|f|sc=Cyrl}} <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
+* Walloon: {{t+|wa|pelote|f}}  <!-- Was under the non-existing sense "the outer protective layer of any plant or animal" -->
 {{trans-bottom}}
 
 ====See also====
