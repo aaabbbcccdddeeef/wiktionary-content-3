@@ -21,12 +21,16 @@
 ===Etymology 1===
 
 ====Noun====
-{{egy-noun|m|head=<hiero>r:d-D56</hiero>}}
+{{egy-noun|m|head=<hiero>r:d-rd</hiero>}}
 
 # [[foot]]
 
 =====Inflection=====
 {{egy-decl-noun|g=m|rd}}
+
+====Alternative forms====
+{{egy-hieroforms
+|<hiero>r:d-rd-F51</hiero>|read1=rd}}
 
 =====Derived terms=====
 {{der2|lang=egy
@@ -55,7 +59,7 @@
 ====Verb====
 {{egy-verb|2-lit|head=<hiero>r:d-M30</hiero>}}
 
-# [[grow]]
+# to [[grow]]
 
 =====Inflection=====
 {{egy-conj-2-lit|rd|rdd}}
@@ -70,6 +74,7 @@
 
 ===References===
 * {{R:egy:Faulkner}}
+* {{R:egy:Allen|256}}
 <references/>
 
 [[Category:egy:Anatomy]]
