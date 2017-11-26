@@ -19,13 +19,13 @@ Alternate etymology derives Proto-Germanic *''stuppōną'' from an assumed {{cog
 {{en-verb|stopp}}
 
 # {{lb|en|intransitive}} To [[cease]] moving.
-#* {{quote-book|year=1918|author={{w|W. B. Maxwell}}|chapter=5
-|title=[http://openlibrary.org/works/OL1097634W The Mirror and the Lamp]
-|passage=Then everybody once more knelt, and soon the blessing was pronounced. The choir and the clergy trooped out slowly, [&hellip;], down the nave to the western door. [&hellip;] At a seemingly immense distance the surpliced group '''stopped''' to say the last prayer.}}
 #: {{ux|en|I '''stopped''' at the traffic lights.}}
 # {{lb|en|intransitive}} To not [[continue]].
 #: {{ux|en|The riots '''stopped''' when police moved in.}}
 #: {{ux|en|Soon the rain will '''stop'''.}}
+#* {{quote-book|year=1918|author={{w|W. B. Maxwell}}|chapter=5
+|title=[http://openlibrary.org/works/OL1097634W The Mirror and the Lamp]
+|passage=Then everybody once more knelt, and soon the blessing was pronounced. The choir and the clergy trooped out slowly, [&hellip;], down the nave to the western door. [&hellip;] At a seemingly immense distance the surpliced group '''stopped''' to say the last prayer.}}
 # {{lb|en|transitive}} To cause (something) to cease moving or [[progressing]].
 #* {{quote-magazine|date=2013-06-01|volume=407|issue=8838
 |page=13 (Technology Quarterly)|magazine={{w|The Economist}}
@@ -95,7 +95,7 @@ Alternate etymology derives Proto-Germanic *''stuppōną'' from an assumed {{cog
 * {{l|en|the buck stops here}}
 
 =====Translations=====
-{{trans-top|cease moving}}
+{{trans-top|to cease moving}}
 * Arabic: {{t|ar|تَوَقَّفَ}}, {{t|ar|وَقَفَ}}
 * Armenian: {{t+|hy|կանգնել|sc=Armn}}, {{t|hy|կանգ առնել|sc=Armn}}
 * Belarusian: {{t|be|спыня́цца|impf|sc=Cyrl}}, {{t|be|спыні́цца|pf|sc=Cyrl}}
@@ -166,7 +166,7 @@ Alternate etymology derives Proto-Germanic *''stuppōną'' from an assumed {{cog
 * West Frisian: {{t|fy|stûkje}}
 {{trans-bottom}}
 
-{{trans-top|do not continue}}
+{{trans-top|to not continue}}
 * Afrikaans: {{t|af|stilhou}}
 * Arabic: {{t|ar|تَوَقَّفَ}}
 * Armenian: {{t+|hy|դադարել}}, {{t+|hy|վերջանալ}}
@@ -177,7 +177,7 @@ Alternate etymology derives Proto-Germanic *''stuppōną'' from an assumed {{cog
 *: Mandarin: {{t+|cmn|停|tr=tíng|sc=Hani}}, {{t+|cmn|停止|tr=tíngzhǐ|sc=Hani}}
 * Czech: {{t+|cs|skončit|pf}}
 * Dutch: {{t+|nl|stoppen}}, {{t+|nl|ophouden}}
-* Finnish: {{t+|fi|pysähtyä}}
+* Finnish: {{t+|fi|lakata}}, {{t|fi|loppua}}
 * French: {{t+|fr|cesser}}, {{t+|fr|s'arrêter}}
 * Georgian: {{t-needed|ka}}
 * German: {{t+|de|aufhören}}
@@ -206,7 +206,7 @@ Alternate etymology derives Proto-Germanic *''stuppōną'' from an assumed {{cog
 * Turkish: {{t+|tr|durmak}}, {{t+|tr|kesmek}}
 {{trans-bottom}}
 
-{{trans-top|cause (something) to cease moving}}
+{{trans-top|to cause to cease moving}}
 * Afrikaans: {{t|af|stop}}
 * Arabic: {{t|ar|أَوْقَفَ}}, {{t|ar|وَقَفَ}}
 * Belarusian: {{t|be|спыня́ць|impf|sc=Cyrl}}, {{t|be|спыні́ць|pf|sc=Cyrl}}
@@ -216,7 +216,7 @@ Alternate etymology derives Proto-Germanic *''stuppōną'' from an assumed {{cog
 *: Mandarin: {{t+|cmn|停下|tr=tíngxià|sc=Hani}}
 * Czech: {{t+|cs|zastavit}}
 * Dutch: {{t+|nl|aanhouden}}, {{t+|nl|stoppen}}
-* Finnish: {{t+|fi|pysäyttää}}, {{t+|fi|loppua}}
+* Finnish: {{t+|fi|pysäyttää}}
 * French: {{t+|fr|arrêter}}
 * Georgian: {{t-needed|ka}}
 * German: {{t+|de|anhalten}}, {{t+|de|stoppen}}
@@ -251,14 +251,14 @@ Alternate etymology derives Proto-Germanic *''stuppōną'' from an assumed {{cog
 * Welsh: {{t+|cy|stopio}}
 {{trans-bottom}}
 
-{{trans-top|cause (something) to come to an end}}
+{{trans-top|to cause to come to an end}}
 * Afrikaans: {{t|af|stop}}
 * Arabic: {{t|ar|أَوْقَفَ}}, {{t|ar|وَقَفَ}}
 * Bulgarian: {{t+|bg|прекратя́вам|impf}}
 * Burmese: {{t+|my|ရပ်}}
 * Czech: {{t+|cs|ukončit}}
 * Dutch: {{t+|nl|stoppen}}, {{t+|nl|beëindigen}}, {{t+|nl|afbreken}}
-* Finnish: {{t+|fi|pysäyttää}}, {{t+|fi|lopettaa}}
+* Finnish: {{t+|fi|lopettaa}}
 * French: {{t+|fr|arrêter}}
 * German: {{t+|de|stoppen}}, {{t+|de|beenden}}
 * Hebrew: {{t+|he|גמר|tr=gamár}}, {{t|he|הִפְסִיק|m|tr=hifsik}}
@@ -282,10 +282,11 @@ Alternate etymology derives Proto-Germanic *''stuppōną'' from an assumed {{cog
 * Turkish: {{t+|tr|durdurmak}}
 {{trans-bottom}}
 
-{{trans-top|close an aperture}}
+{{trans-top|to close an opening}}
 * Chinese:
 *: Mandarin: {{t+|cmn|堵住|tr=dǔzhù|sc=Hani}}
 * Dutch: {{t+|nl|deppen}}
+* Finnish: {{t|fi|sulkea}}, {{t|fi|tukkia}}
 * German: {{t+|de|stopfen}}
 * Hebrew: {{t+|he|סתם|tr=satám}}
 * Maori: {{t|mi|tiriwā}}, {{t|mi|purupuru}}
@@ -297,11 +298,17 @@ Alternate etymology derives Proto-Germanic *''stuppōną'' from an assumed {{cog
 * Welsh: {{t+|cy|stopio}}
 {{trans-bottom}}
 
-{{trans-top|stay a while}}
+{{trans-top|photography: to adjust the aperture}}
+* Finnish: {{t|fi|[[säätää]] [[aukkoa]]}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to stay a while}}
 * Chinese:
 *: Mandarin: {{t+|cmn|住宿|tr=zhùsù|sc=Hani}}
 * Czech: {{t+|cs|zůstat}}
 * Dutch: {{t+|nl|verblijven}}, {{t+|nl|blijven}}, {{t+|nl|stoppen}}
+* Finnish: {{t|fi|asua}}, {{t|fi|vierailla}}, {{t|fi|viipyä}}
 * French: {{t+|fr|s'arrêter}}
 * Hebrew: {{t|he|עָצַר|tr=`atsár}}
 * Italian: {{t+|it|fermarsi}}
@@ -320,7 +327,7 @@ Alternate etymology derives Proto-Germanic *''stuppōną'' from an assumed {{cog
 * Telugu: {{t+|te|ఉండు}}
 {{trans-bottom}}
 
-{{trans-top|tarry}}
+{{trans-top|to tarry}}
 * Czech: {{t|cs|pobývat}}
 * Dutch: {{t+|nl|langsgaan}}, {{t+|nl|stoppen}}
 * French: {{t+|fr|s'arrêter}}
@@ -333,6 +340,14 @@ Alternate etymology derives Proto-Germanic *''stuppōną'' from an assumed {{cog
 * Scottish Gaelic: {{t|gd|fan}}
 * Slovene: {{t|sl|zadrževati se|impf}}, {{t|sl|zadržati se|pf}}, {{t|sl|oglasiti se|pf}}
 {{trans-bottom}}
+
+{{trans-top|music: to regulate the sounds by shortening the vibrating part}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|to punctuate|punctuate}}
+
+{{trans-see|nautical: to make fast|stopper}}
 
 {{checktrans-top}}
 * Esperanto: {{t-check|eo|halti}}, {{t-check|eo|haltigi}}, {{t-check|eo|ĉesigi}}
