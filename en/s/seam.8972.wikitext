@@ -10,7 +10,7 @@
 * {{rhymes|iːm|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|seem}}, {{m|enm|seme}}, from {{etyl|ang|en}} {{m|ang|sēam||seam}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*saumaz||that which is sewn}}. Cognate with West Frisian {{m|fy|seam}}, Dutch {{m|nl|zoom}}, German {{m|de|Saum}}, Swedish {{m|sv|söm}}.
+From {{inh|en|enm|seem}}, {{m|enm|seme}}, from {{inh|en|ang|sēam|t=seam}}, from {{inh|en|gem-pro|*saumaz|t=that which is sewn}}. Cognate with West Frisian {{cog|fy|seam}}, Dutch {{cog|nl|zoom}}, German {{cog|de|Saum}}, Swedish {{cog|sv|söm}}.
 
 ====Noun====
 {{en-noun}}
@@ -26,17 +26,14 @@ From {{etyl|enm|en}} {{m|enm|seem}}, {{m|enm|seme}}, from {{etyl|ang|en}} {{m|an
 #* '''1952''', [[w:en:Louis Francis Salzman|L. F. Salzman]], ''Building in England'', p. 175.
 #*: As white glass was 6s. the 'seam', containing 24 'weys' (pise, or pondera) of 5 lb., and 2&frac12; lb. was reckoned sufficient to make one foot of glazing, the cost of glass would be 1&frac12;d. leaving 2&frac12;d. for labour.
 # {{lb|en|construction}} A joint formed by mating two separate sections of materials.
-#: '''''Seams''' can be made or sealed in a variety of ways, including adhesive bonding, hot-air welding, solvent welding, using adhesive tapes, sealant, etc.''
+#: {{ux|en|'''Seams''' can be made or sealed in a variety of ways, including adhesive bonding, hot-air welding, solvent welding, using adhesive tapes, sealant, etc.}}
 # A line or depression left by a cut or wound; a [[scar]]; a [[cicatrix]].
 # {{lb|en|figurative}} A line of junction; a joint.
 #* {{w|Joseph Addison}} (1672-1719)
 #*: Precepts should be so finely wrought together{{...}}that no coarse '''seam''' may discover where they join.
 
 =====Derived terms=====
-* {{l|en|seam carving}}
-* {{l|en|seamless}}
-* {{l|en|seamster}}
-* {{l|en|seamstress}}
+{{der4|seam carving|seamless|seamster|seamstress|lang=en}}
 
 =====Translations=====
 {{trans-top|folded back and stitched piece of fabric}}
@@ -58,7 +55,7 @@ From {{etyl|enm|en}} {{m|enm|seem}}, {{m|enm|seme}}, from {{etyl|ang|en}} {{m|an
 * Norwegian:
 *: Bokmål: {{t+|nb|søm|m}}
 *: Nynorsk: {{t|nn|saum|m}}
-* Persian: {{t+|fa|درز|tr=darz|sc=fa-Arab}}
+* Persian: {{t+|fa|درز|tr=darz}}
 * Polish: {{t+|pl|szew|m}}
 * Portuguese: {{t+|pt|costura|f}}
 * Romanian: {{t+|ro|cusătură|f}}
@@ -73,7 +70,7 @@ From {{etyl|enm|en}} {{m|enm|seem}}, {{m|enm|seme}}, from {{etyl|ang|en}} {{m|an
 {{trans-top|suture}}
 * Armenian: {{t+|hy|կար}}
 * Chinese:
-*: Mandarin: {{t+|cmn|縫|sc=Hani}}, {{t+|cmn|缝|tr=féng|sc=Hani}}, {{t+|cmn|縫合|sc=Hani}}, {{t+|cmn|缝合|tr=fénghé|sc=Hani}}
+*: Mandarin: {{t+|cmn|縫}}, {{t+|cmn|缝|tr=féng}}, {{t+|cmn|縫合}}, {{t+|cmn|缝合|tr=fénghé}}
 * Danish: {{t|da|sutur|c}}, {{t+|da|søm|c}}
 * Finnish: {{t+|fi|ommel}}, {{t|fi|tikkaus}}
 * French: {{t+|fr|suture|f}}
@@ -82,7 +79,7 @@ From {{etyl|enm|en}} {{m|enm|seem}}, {{m|enm|seme}}, from {{etyl|ang|en}} {{m|an
 * Hungarian: {{t+|hu|varrat}}
 {{trans-mid}}
 * Italian: {{t+|it|sutura|f}}
-* Japanese: {{t|ja|縫合|tr=ほうごう, hōgō|sc=Jpan}}
+* Japanese: {{t|ja|縫合|tr=ほうごう, hōgō}}
 * Latin: {{t|la|sūtūra|f}}
 * Manx: {{t|gv|whaaley|m}}
 * Polish: {{t+|pl|szew|m}}
@@ -135,8 +132,6 @@ From {{etyl|enm|en}} {{m|enm|seem}}, {{m|enm|seme}}, from {{etyl|ang|en}} {{m|an
 * Georgian: {{t-check|ka|ნაოჭი}}
 * Hebrew: {{t-check|he|תפר|tr=tefer|m}}
 {{trans-mid}}
-* {{ttbc|it}}: [[cucitura]] {{g|f}} (1), costura
-* {{ttbc|ko}}: [[솔기]] (solgi)
 {{trans-bottom}}
 
 ====Verb====
