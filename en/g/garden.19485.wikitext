@@ -159,7 +159,7 @@ From {{etyl|enm|en}} {{m|enm|garden}}, from {{etyl|xno|en}}, {{etyl|ONF.|en}} {{
 * Bashkir: {{t|ba|баҡса|sc=Cyrl}}
 * Basque: {{t|eu|lorategi}}
 * Bavarian: {{t|bar|Goatn}}, {{t|bar|Gartn}}
-* Belarusian: {{t|be|сад|m|sc=Cyrl}}, {{t|be|агаро́д|m|sc=Cyrl}} {{qualifier|vegetable garden}}
+* Belarusian: {{t|be|сад|m|sc=Cyrl}}
 * Bengali: {{t|bn|উদ্দ্যান|sc=Beng}}
 * Bulgarian: {{t+|bg|гради́на|f|sc=Cyrl}}
 * Burmese: {{t+|my|ဥယျာဉ်|sc=Mymr}}, {{t+|my|ပန်းခြံ|sc=Mymr}}
@@ -228,7 +228,7 @@ From {{etyl|enm|en}} {{m|enm|garden}}, from {{etyl|xno|en}}, {{etyl|ONF.|en}} {{
 * Portuguese: {{t+|pt|jardim|m}}
 * Romanian: {{t+|ro|grădină|f}}
 * Romansch: {{t|rm|curtin|m}} {{qualifier|Rumantsch Grischun, Puter, Vallader}}, {{t|rm|curtgin|m}} {{qualifier|Sursilvan}}, {{t|rm|curtgegn|m}} {{qualifier|Sutsilvan}}, {{t|rm|curtgign|m}} {{qualifier|Surmiran}}
-* Russian: {{t+|ru|сад|m}}, {{t+|ru|огоро́д|m}} {{qualifier|vegetable garden}}
+* Russian: {{t+|ru|сад|m}}
 * Scottish Gaelic: {{t|gd|gàrradh|m}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|вртњак|sc=Cyrl}}, {{t|sh|повртњак|sc=Cyrl}}, {{t|sh|сад|sc=Cyrl}}, {{t|sh|садњак|sc=Cyrl}}, {{t|sh|посадњак|sc=Cyrl}}, {{t|sh|врт|m|sc=Cyrl}}
@@ -249,17 +249,29 @@ From {{etyl|enm|en}} {{m|enm|garden}}, from {{etyl|xno|en}}, {{etyl|ONF.|en}} {{
 * Thai: {{t+|th|สวน}}
 * Turkish: {{t+|tr|bahçe}}
 * Turkmen: {{t+|tk|bag}}
-* Ukrainian: {{t|uk|сад|m|sc=Cyrl}}, {{t+|uk|го́род|m|sc=Cyrl}} {{qualifier|vegetable garden}}
+* Ukrainian: {{t|uk|сад|m|sc=Cyrl}}
 * Urdu: {{t|ur|باغیچہ|m|tr=bāġīcā|sc=ur-Arab}}, {{t|ur|باغ|m|tr=bāġ|sc=ur-Arab}}
 * Uyghur: {{t+|ug|باغ}}, {{t|ug|باغچا}}
 * Uzbek: {{t+|uz|bogʻ}}, {{t+|uz|bogʻcha}}
 * Venetian: {{t|vec|xardin|m}}, {{t|vec|jardin}}
 * Vietnamese: {{t+|vi|vườn}}, {{t|vi|khu vườn}}, {{t|vi|hoa viên}} ({{t|vi|花園}})
-* Volapük: {{t+|vo|gad}}, {{qualifier|vegetable}} {{t+|vo|härbatagad}}
+* Volapük: {{t+|vo|gad}}
 * Walloon: {{t+|wa|corti|m}}, {{t+|wa|djårdén|m}}
 * Welsh: {{t+|cy|gardd}}
 * Yiddish: {{t|yi|גאָרטן|m|sc=Hebr}}
 * Zazaki: {{t|zza|baxçe}}
+{{trans-bottom}}
+
+{{trans-top|a vegetable garden}}
+* Belarusian: {{t|be|агаро́д|m|sc=Cyrl}}
+* Hungarian: {{t+|hu|veteményeskert}}
+* Persian: {{t+|fa|بستان|tr=bostân}}
+* Russian: {{t+|ru|огоро́д|m}}, {{t+|ru|бахча́|f}} {{qualifier|for (water-)melons or pumpkins}}
+{{trans-mid}}
+* Turkish: {{t|tr|bostan}}
+* Ukrainian: {{t+|uk|го́род|m|sc=Cyrl}}
+* Volapük: {{t+|vo|härbatagad}}
+* Zazaki: {{t|zza|boston}}
 {{trans-bottom}}
 
 {{trans-top|gardens with public access}}
@@ -338,7 +350,7 @@ From {{etyl|enm|en}} {{m|enm|garden}}, from {{etyl|xno|en}}, {{etyl|ONF.|en}} {{
 * Portuguese: {{t+|pt|quintal|m}}
 * Romanian: {{t+|ro|grădină|f}}, {{t+|ro|curte|f}}
 * Romansch: {{t|rm|curtin|m}} {{qualifier|Rumantsch Grischun, Puter, Vallader}}, {{t|rm|curtgin|m}} {{qualifier|Sursilvan}}, {{t|rm|curtgegn|m}} {{qualifier|Sutsilvan}}, {{t|rm|curtgign|m}} {{qualifier|Surmiran}}
-* Russian: {{t+|ru|сад|m}}, {{t+|ru|огоро́д|m}} {{qualifier|vegetable garden}}, {{t+|ru|бахча́|f}} {{qualifier|for (water-)melons or pumpkins}}
+* Russian: {{t+|ru|сад|m}}, {{t+|ru|бахча́|f}} {{qualifier|for (water-)melons or pumpkins}}
 * Slovak: {{t|sk|záhrada|f}}, {{t|sk|záhradka|f}}
 * Slovene: {{t+|sl|vrt|m}}
 * Spanish: {{t+|es|jardín|m}}
