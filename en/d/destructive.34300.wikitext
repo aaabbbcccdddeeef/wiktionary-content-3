@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|frm|en}} {{m|frm|destructif}}, from {{etyl|la|en}} {{m|la|destructivus}}, from past participle of {{m|la|destruo|destruere|to tear down, destroy}} + {{m|la|-ivus|}}.
+From {{der|en|frm|destructif}}, from {{der|en|la|destructivus}}, from past participle of {{m|la|destruo|destruere|t=to tear down, destroy}} + {{m|la|-ivus|}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/dɪˈstɹʌktɪv/|/dɪˈstɹʊktɪv/|lang=en}}
@@ -19,9 +19,9 @@ From {{etyl|frm|en}} {{m|frm|destructif}}, from {{etyl|la|en}} {{m|la|destructiv
 |page=
 |passage=After rescuing his estranged daughter in the last film, Live Free Or Die Hard, Willis heads to Russia to rescue his estranged son (Jai Courtney), a CIA agent on a mission to protect a whistleblower (Sebastian Koch) from a corrupt government official (Sergei Kolesnikov) with no shortage of '''destructive''' resources at his disposal.}}
 # Causing [[breakdown]] or [[disassembly]].
-#: ''Catabolism is a '''destructive''' metabolism that involves the breakdown of molecules and release of energy.''
+#: {{ux|en|Catabolism is a '''destructive''' metabolism that involves the breakdown of molecules and release of energy.}}
 # {{lb|en|computing}} [[lossy|Lossy]]; causing [[irreversible]] [[change]].
-#: ''Blurring an image is a '''destructive''' operation, but rotating an image is not.''
+#: {{ux|en|Blurring an image is a '''destructive''' operation, but rotating an image is not.}}
 
 ====Synonyms====
 * {{l|en|calamitous}}
@@ -41,28 +41,10 @@ From {{etyl|frm|en}} {{m|frm|destructif}}, from {{etyl|la|en}} {{m|la|destructiv
 * {{l|en|productive}}
 
 ====Derived terms====
-{{der3|lang=en
-|antidestructive
-|autodestructive
-|destructive criticism
-|destructive distillation
-|destructive sorites
-|destructively
-|destructiveness
-|indestructive
-|neurodestructive
-|nondestructive
-|omnidestructive
-|self-destructive
-|superdestructive
-|undestructive}}
+{{der3|antidestructive|autodestructive|destructive criticism|destructive distillation|destructive sorites|destructively|destructiveness|indestructive|neurodestructive|nondestructive|omnidestructive|self-destructive|superdestructive|undestructive|lang=en}}
 
 ====Related terms====
-* {{l|en|destruct}}
-* {{l|en|destruction}}
-* {{l|en|destructively}}
-* {{l|en|destructiveness}}
-* {{l|en|destructivity}}
+{{rel3|destruct|destruction|destructively|destructiveness|destructivity|lang=en}}
 
 ====Translations====
 {{trans-top|causing destruction; damaging}}
@@ -79,7 +61,7 @@ From {{etyl|frm|en}} {{m|frm|destructif}}, from {{etyl|la|en}} {{m|la|destructiv
 * French: {{t+|fr|destructif}}
 * German: {{t+|de|destruktiv}}, {{t+|de|schädlich}}, {{t+|de|zerstörend}}
 * Greek: {{t+|el|καταστροφικός|m}}, {{t+|el|καταστρεπτικός|m}}
-* Hebrew: {{t|he|הרסני|tr=harsany|sc=Hebr}}
+* Hebrew: {{t|he|הרסני|tr=harsany}}
 * Hindi: {{t-needed|hi}}
 * Hungarian: {{t+|hu|destruktív}}, {{t+|hu|kártékony}}, {{t+|hu|pusztító}}
 * Ido: {{t-needed|io}}
@@ -97,7 +79,8 @@ From {{etyl|frm|en}} {{m|frm|destructif}}, from {{etyl|la|en}} {{m|la|destructiv
 * Romanian: {{t+|ro|distructiv|m|n}}, {{t+|ro|distrugător|m|n}}
 * Russian: {{t+|ru|разруши́тельный}}
 * Scottish Gaelic: {{t|gd|millteach}}, {{t|gd|sgriosach}}, {{t|gd|sgriosail}}
-* Serbo-Croatian: {{t+|sh|rázōran}}, {{t+|sh|dȅstruktīvan}}, {{t+|sh|rùšilačkī}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|rázōran}}, {{t+|sh|dȅstruktīvan}}, {{t+|sh|rùšilačkī}}
 * Spanish: {{t+|es|destructivo}}
 * Swedish: {{t+|sv|destruktiv}}
 * Tagalog: {{t|tl|mapanira}}
