@@ -669,7 +669,7 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 * Norman: {{t|nrf|ordonner}}
 * Norwegian: {{t+|no|ordne}}
 * Portuguese: {{t+|pt|ordenar}}
-* Russian: {{t|ru|[[приводи́ть]] [[в]] [[поря́док]]|impf}}, {{t|ru|[[привести́]] [[в]] [[поря́док]]}}
+* Russian: {{t|ru|[[приводи́ть]] [[в]] [[поря́док]]|impf}}, {{t|ru|[[привести́]] [[в]] [[поря́док]]|pf}}
 * Scottish Gaelic: {{t|gd|òrdaich}}
 * Spanish: {{t+|es|ordenar}}, {{t+|es|arreglar}}
 * Swahili: {{t+|sw|oda}}
@@ -683,7 +683,7 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 * Belarusian: {{t|be|раска́зваць|impf}}, {{t|be|расказа́ць|pf}}
 * Burmese: {{t+|my|ခိုင်း}}, {{t+|my|စေ}}, {{t+|my|ဆင့်}}
 * Catalan: {{t+|ca|ordenar}}
-* Cherokee: {{t|chr|ᎠᏓᏅᏍᏗ|tr=adanvsdi|sc=Cher}}
+* Cherokee: {{t|chr|ᎠᏓᏅᏍᏗ|sc=Cher}}
 * Chinese:
 *: Mandarin: {{t+|cmn|命令|tr=mìnglìng|sc=Hani}}
 * Czech: {{t|cs|rozkázat}}
@@ -700,7 +700,7 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 * Interlingua: {{t|ia|ordinar}}
 * Irish: {{t|ga|ordaigh}}
 * Italian: {{t+|it|ordinare}}
-* Japanese: {{t+|ja|命令|tr=めいれいする, meirei-suru|alt=命令する|sc=Jpan}}, {{t|ja|命じる|tr=めいじる, meijiru}}
+* Japanese: {{t+|ja|命令|tr=めいれいする, meirei suru|alt=命令する|sc=Jpan}}, {{t|ja|命じる|tr=めいじる, meijiru}}
 * Khmer: {{t+|km|បញ្ជា|tr=bɑɲcie|sc=Khmr}}, {{t|km|បង្គាប់បញ្ជា|tr=bɑŋkoap bɑɲcie}}
 * Korean: {{t+|ko|명령하다}}, {{t|ko|명하다}}
 * Latin: {{t|la|iubēre}}
@@ -750,15 +750,15 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 * Georgian: {{t|ka|უკვეთავს}}, {{t|ka|გამოიძახებს}}
 * German: {{t+|de|bestellen}}, {{t+|de|ordern}}
 * Greek: {{t+|el|παραγγέλνω|}}
-* Hindi: {{t|hi|मंगाना|tr=māṅgnā|sc=Deva}}
+* Hindi: {{t|hi|मंगाना|sc=Deva}}
 * Hungarian: {{t+|hu|rendel}}
 * Icelandic: {{t+|is|panta}}
 * Indonesian: {{t+|id|memesan}}
 * Italian: {{t+|it|ordinare}}
-* Japanese: {{t+|ja|注文|tr=ちゅうもんする, chūmon-suru|alt=注文する|sc=Jpan}}
+* Japanese: {{t+|ja|注文|tr=ちゅうもんする, chūmon suru|alt=注文する|sc=Jpan}}
 * Khmer: {{t+|km|ហៅ|tr=hav|sc=Khmr}}, {{t|km|កុម្ម៉ង់|tr=kommɑŋ|sc=Khmr}}, {{t|km|រ៉ឺកុម្មងដេ|tr=rəɨkommɑŋdee}}
 {{trans-mid}}
-* Korean: {{t+|ko|주문|alt=주문하다}}
+* Korean: {{t+|ko|주문하다}}
 * Lao: {{t|lo|ສັ່ງ|sc=Laoo}}
 * Lithuanian: {{t|lt|užsakyti}}
 * Luxembourgish: {{t|lb|bestellen}}
@@ -776,8 +776,8 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 * Swedish: {{t+|sv|beställa}}, {{t|sv|lägga en order}}
 * Thai: {{t+|th|สั่ง}}, {{t|th|สั่งซื้อ}}
 * Turkish: {{t+|tr|sipariş vermek}}
-* Ukrainian: {{t|uk|замовити}}
-* Urdu: {{t|ur|منگانا|tr=māṅgnā|sc=ur-Arab}}, {{t|ur|طلب کرنا|sc=ur-Arab}}
+* Ukrainian: {{t|uk|замо́вити|pf}}
+* Urdu: {{t|ur|منگانا|tr=māngnā|sc=ur-Arab}}, {{t|ur|طلب کرنا|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|gọi}}
 * Zulu: {{t|zu|biza|alt=-biza}}, {{t|zu|oda|alt=-oda}}
 {{trans-bottom}}
