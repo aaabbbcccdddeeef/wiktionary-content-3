@@ -50,7 +50,7 @@ From the {{etyl|xno|en}} {{m|fro|punisceement}}, {{m|fro|punisement}}, {{m|fro|p
 * Asturian: {{t|ast|castigu|m}}
 * Azeri: {{t+|az|cəza}}
 * Belarusian: {{t|be|пакара́нне|n|sc=Cyrl}}, {{t|be|ка́ра|f|sc=Cyrl}}
-* Bengali: {{t|bn|সাজা|tr=saja|sc=Beng}}, {{t|bn|দণ্ড|tr=ḑônḑ|sc=Beng}}
+* Bengali: {{t|bn|সাজা|sc=Beng}}, {{t|bn|দণ্ড|sc=Beng}}
 * Bulgarian: {{t+|bg|наказа́ние|n|sc=Cyrl}}
 * Burmese: {{t+|my|ဒဏ်|sc=Mymr}}, {{t+|my|အပြစ်|sc=Mymr}}
 * Catalan: {{t|ca|punició|f}}, {{t|ca|puniment|m}}
@@ -68,13 +68,13 @@ From the {{etyl|xno|en}} {{m|fro|punisceement}}, {{m|fro|punisement}}, {{m|fro|p
 * Georgian: {{t|ka|დასჯა}}
 * German: {{t+|de|Strafe|f}}, {{t+|de|Bestrafung|f}}
 * Greek: {{t+|el|τιμωρία}}
-* Hebrew: {{t+|he|עוֹנֶשׁ|m}}, {{t+|he|עֲנִישָׁה|f}}
+* Hebrew: {{t+|he|ענש|m|tr='ónesh|alt=עונש \ עֹנֶשׁ}}, {{t+|he|עֲנִישָׁה|f}}
 * Hindi: {{t|hi|सज़ा|f|sc=Deva}}, {{t+|hi|दण्ड|m|sc=Deva}}
 * Hungarian: {{t+|hu|büntetés}}
 * Icelandic: {{t+|is|refsing|f}}
 * Indonesian: {{t+|id|hukuman}}
 * Italian: {{t+|it|punizione|f}}
-* Japanese: {{t+|ja|罰|tr=[[ばつ]], batsu}}, {{t+|ja|懲罰|tr=ちょうばつ, chōbatsu}}, {{t+|ja|処罰|tr=しょばつ, shobatsu|sc=Jpan}}
+* Japanese: {{t+|ja|罰|tr=ばつ, batsu}}, {{t+|ja|懲罰|tr=ちょうばつ, chōbatsu}}, {{t+|ja|処罰|tr=しょばつ, shobatsu|sc=Jpan}}
 * Kazakh: {{t+|kk|жаза|sc=Cyrl}}
 * Khmer: {{t+|km|ទណ្ឌ|tr=toan|sc=Khmr}}, {{t+|km|ទណ្ឌកម្ម|tr=toandea’kam|sc=Khmr}}, {{t|km|ទណ្ឌកិច្ច|tr=toandea’kəc|sc=Khmr}}
 * Korean: {{t+|ko|처벌}}, {{t+|ko|벌}}
@@ -138,16 +138,16 @@ From the {{etyl|xno|en}} {{m|fro|punisceement}}, {{m|fro|punisement}}, {{m|fro|p
 * Galician: {{t+|gl|castigo|m}}
 * Georgian: {{t|ka|სასჯელი}}
 * German: {{t+|de|Bestrafung|f}}
-* Gothic: {{t|got|𐍅𐌴𐌹𐍄𐌹|n|tr=weiti}}
+* Gothic: {{t|got|𐍅𐌴𐌹𐍄𐌹|n}}
 * Greek: {{t+|el|τιμωρία}}, {{t+|el|ποινή}}
-* Hindi: {{t+|hi|दण्ड|tr=daṇḍ|sc=Deva}}, {{t|hi|सज़ा|tr=sazā|sc=Deva}}
+* Hindi: {{t+|hi|दण्ड|m|sc=Deva}}, {{t|hi|सज़ा|f|sc=Deva}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|büntetés}}
 * Irish: {{t+|ga|pionós|m}}
-* Japanese: {{t+|ja|罰|tr=[[ばつ]], batsu}}, {{t|ja|刑罰|tr=keibatsu}}, {{t+|ja|処罰|tr=shobatsu}}
+* Japanese: {{t+|ja|罰|tr=ばつ, batsu}}, {{t|ja|刑罰|tr=けいばつ, keibatsu}}, {{t+|ja|処罰|tr=しょばつ, shobatsu}}
 * Latvian: {{t|lv|sods|m}}
 * Luxembourgish: {{t+|lb|Strof|f}}, {{t|lb|Bestrofung|f}}
-* Macedonian: {{t|mk|казна|f|tr=kázna}}
+* Macedonian: {{t|mk|казна|f}}
 * Malay: {{t|ms|azab}}
 * Norman: {{t|nrf|peunnition|f}}
 * Polish: {{t+|pl|kara|f}}
@@ -166,7 +166,7 @@ From the {{etyl|xno|en}} {{m|fro|punisceement}}, {{m|fro|punisement}}, {{m|fro|p
 * Catalan: {{t|ca|punició|f}}, {{t|ca|puniment|m}}
 * Dutch: {{t+|nl|afstraffing|f}}, {{t+|nl|boetedoening|f}}, {{t+|nl|vergelding|f}}, {{t+|nl|boete|m|f}}
 * French: {{t+|fr|punition|f}}, {{t+|fr|châtiment|m}}
-* Macedonian: {{t|mk|казна|f|tr=kázna}}
+* Macedonian: {{t|mk|казна|f}}
 * Malay: {{t|ms|azab}}
 {{trans-mid}}
 * Ngazidja Comorian: {{t|zdj|âdhaɓu|c9|c10|tr=âdhabu}}
@@ -187,10 +187,8 @@ From the {{etyl|xno|en}} {{m|fro|punisceement}}, {{m|fro|punisement}}, {{m|fro|p
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Bulgarian: {{t-check|bg|наказание|n|tr=nakazánie|sc=Cyrl}} (1)
 * Hebrew: {{t-check|he|ענישה|f}}
 * Italian: {{t-check|it|punizione|f}}
-* Korean: {{t-check|ko|벌|tr=beol|sc=Kore}}
 * Kurdish: {{t-check|ku|ceza|m}}, {{t-check|ku|siza|m}}
 * Latin: {{t-check|la|punitio|f}}
 {{trans-mid}}
