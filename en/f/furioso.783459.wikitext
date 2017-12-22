@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-{{etyl|it|en}}
+{{bor|en|it|-|withtext=yes}}.
 
 ===Adverb===
 {{en-adv|-}}
@@ -13,7 +13,7 @@
 ==Italian==
 
 ===Etymology===
-From {{etyl|la|it}} {{m|la|furiōsus}}.
+From {{der|it|la|furiōsus}}.
 
 ===Adjective===
 {{it-adj|furios}}
@@ -25,7 +25,7 @@ From {{etyl|la|it}} {{m|la|furiōsus}}.
 * {{l|it|furiosamente}}
 
 ====Descendants====
-* Greek: {{l|el|φουριόζος|gloss=hasty}}
+* {{desc|el|φουριόζος|t=hasty|bor=1}}
 
 [[Category:Italian words suffixed with -oso]]
 
@@ -46,7 +46,7 @@ From {{etyl|la|it}} {{m|la|furiōsus}}.
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|la|pt}} {{m|la|furiōsus||furious}}, from {{m|la|furia||rage}}.
+From {{der|pt|la|furiōsus|t=furious}}, from {{m|la|furia|t=rage}}.
 
 ===Pronunciation===
 * {{a|Brazil|Portugal}} {{IPA|/fu.ɾi.ˈo.zu/|/fu.ˈɾjo.zu/|lang=pt}}
@@ -59,15 +59,15 @@ From {{etyl|la|pt}} {{m|la|furiōsus||furious}}, from {{m|la|furia||rage}}.
 
 # {{l|en|furious}}; {{l|en|enraged}}
 # {{l|en|furious}} {{gloss|moving or occurring with violence}}
-#: {{ux|pt|Vento '''furioso'''.|translation='''Furious''' wind.}}
+#: {{ux|pt|Vento '''furioso'''.|inline=1|'''Furious''' wind.}}
+#: {{syn|pt|violento}}
+#: {{ant|pt|calmo}}
 
 ====Synonyms====
 * {{sense|enraged}} see [[WS:furioso#Synonyms|Thesaurus:furioso]]
-* {{sense|moving or occurring with violence}} {{l|pt|violento}}
 
 ====Antonyms====
 * {{sense|enraged}} see [[WS:furioso#Antonyms|Thesaurus:furioso]]
-* {{sense|moving or occurring with violence}} {{l|pt|calmo}}
 
 ====Related terms====
 * {{l|pt|enfurecer}}
@@ -80,7 +80,7 @@ From {{etyl|la|pt}} {{m|la|furiōsus||furious}}, from {{m|la|furia||rage}}.
 ==Spanish==
 
 ===Etymology===
-From {{etyl|la|es}} {{m|la|furiōsus}}.
+From {{der|es|la|furiōsus}}.
 
 ===Adjective===
 {{es-adj|f=furiosa}}
@@ -88,4 +88,4 @@ From {{etyl|la|es}} {{m|la|furiōsus}}.
 # [[furious]], [[raging]], [[relentless]]
 
 ====Related terms====
-* [[furia]]
+* {{l|es|furia}}
