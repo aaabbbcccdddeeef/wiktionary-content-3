@@ -3,11 +3,12 @@
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|combinatorics}} A [[coefficient]] of any of the terms in the expansion of the [[binomial]] (''x''+''y'')<sup>''n''</sup>.
+# {{lb|en|combinatorics}} a [[coefficient]] of any of the terms in the expansion of the [[binomial]] (''x''+''y'')<sup>''n''</sup>, defined by <math>{n \choose k} = \frac{n!}{k!(n-k)!}</math>, read as "n choose k"
 
 ====Translations====
 {{trans-top|binomial coefficient}}
 * Czech: {{t|cs|kombinační číslo|n}}
+* Danish: {{t|da|binomialkoefficient|c}}
 * French: {{t|fr|coefficient binomial|m}}
 * German: {{t+|de|Binomialkoeffizient|m}}
 {{trans-mid}}
