@@ -476,7 +476,8 @@ Borrowed from {{bor|ga|en|bus}}.
 {{ga-decl-m4|b|us|usanna}}
 
 ====Derived terms====
-{{der3|lang=ga|{{l|ga|busáras}}, {{l|ga|stáisiún bus|t=bus station}}
+{{der3
+|{{l|ga|busáras}}, {{l|ga|stáisiún bus|t=bus station}}
 |{{l|ga|buslána}}, {{l|ga|lána bus|t=bus lane}}
 |{{l|ga|tiománaí bus|t=bus-driver}}
 |{{l|ga|bus tralaí|t=trolleybus}}
@@ -489,7 +490,7 @@ Borrowed from {{bor|ga|en|bus}}.
 |{{l|ga|scáthlán bus|t=bus shelter}}
 |{{l|ga|bus dhá stór}}, {{l|ga|bus dhá urlár|t=double decker bus}}
 |{{l|ga|bus scoile|t=school bus}}
-}}
+|lang=ga}}
 
 ===Mutation===
 {{ga-mut}}
@@ -497,6 +498,7 @@ Borrowed from {{bor|ga|en|bus}}.
 ===Further reading===
 * {{R:ga:Ó Dónaill}}
 * {{R:ga:Foras}}
+* {{R:ga:EID}}
 
 [[Category:ga:Vehicles]]
 
