@@ -51,13 +51,13 @@ From {{inh|en|enm|curse}}, {{m|enm|kors}}, {{m|enm|cors}}, {{m|enm|curs}}, from 
 * German: {{t+|de|Fluch|m}}, {{t+|de|Verwünschung|f}}, {{t|de|Verdammnis|f}}
 * Greek: {{t+|el|κατάρα|f}}
 *: Ancient: {{t|grc|ἀρά|f}}
-* Hebrew: {{t+|he|קללה|f|tr=k'lalá}}
+* Hebrew: {{t+|he|קְלָלָה|f|tr=k'lalá}}
 * Hungarian: {{t+|hu|átok}}
 * Icelandic: {{t+|is|bölvun|f}}
 * Italian: {{t+|it|maledizione|f}}, {{t+|it|maleficio|m}}
 * Japanese: {{t+|ja|呪い|tr=のろい, noroi}}, {{t|ja|呪縛|tr=jubaku}}
 * Javanese: {{t+|jv|sepata}}
-* Korean: {{t+|ko|저주|tr=咀呪}}, {{t+|ko|저주}}
+* Korean: {{t+|ko|저주}}
 * Kurdish: {{t+|ku|lanet|f}}, {{t+|ku|nalet|f}}, {{t|ku|جوێن}}
 * Kyrgyz: {{t+|ky|аалат|n}}
 * Latin: {{t|la|exsecratio|f}}
@@ -87,7 +87,7 @@ From {{inh|en|enm|curse}}, {{m|enm|kors}}, {{m|enm|cors}}, {{m|enm|curs}}, from 
 * Tagalog: {{t|tl|sumpa}}
 * Tamil: {{t+|ta|சாபம்}}
 * Telugu: {{t+|te|శాపం}}
-* Thai: {{t+|th|สาป}}, {{t+|th|คำสาป|tr=kam-sàap}}
+* Thai: {{t+|th|สาป}}, {{t+|th|คำสาป}}
 * Turkish: {{t+|tr|lanet}}, {{t+|tr|bela}}
 * Ukrainian: {{t+|uk|прокля́ття|n}}
 * Volapük: {{t|vo|mifätot}}
@@ -193,7 +193,7 @@ From {{inh|en|enm|curse}}, {{m|enm|kors}}, {{m|enm|cors}}, {{m|enm|curs}}, from 
 * Bulgarian: {{t+|bg|проклинам}}
 * Chinese:
 *: Mandarin: {{t+|cmn|詛咒}}, {{t+|cmn|诅咒|tr=zǔzhòu}}
-* Czech: {{t+|cs|proklít}}, {{t+|cs|proklínat}}
+* Czech: {{t+|cs|proklínat|impf}}, {{t+|cs|proklít|pf}}
 * Dutch: {{t+|nl|vervloeken}}, {{t+|nl|beheksen}}
 * Esperanto: {{t|eo|malbeni}}
 * Finnish: {{t+|fi|kirota}}
@@ -214,15 +214,16 @@ From {{inh|en|enm|curse}}, {{m|enm|kors}}, {{m|enm|cors}}, {{m|enm|curs}}, from 
 * Latin: {{t|la|exsecror}}
 * Ngazidja Comorian: {{t|zdj|laâni|alt=ulaâni}}
 * Norwegian: {{t+|no|forbanne}}
-* Old Church Slavonic: {{t|cu|клѧти}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|клѧти|impf}}
 * Old Irish: {{t|sga|dobeir mallachta for|alt=do·beir mallachta for}}
-* Polish: {{qualifier|perf}} {{t|pl|przekląć}}, {{qualifier|imperf}} {{t+|pl|przeklinać}}
+* Polish: {{t+|pl|przeklinać|impf}}, {{t|pl|przekląć|pf}}
 * Portuguese: {{t+|pt|amaldiçoar}}
 * Romanian: {{t+|ro|blestema}}
 * Russian: {{t+|ru|проклина́ть|impf}}, {{t+|ru|прокля́сть|pf}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|про̀кле̄ти}}, {{t|sh|у̀кле̄ти}}, {{t|sh|кле̑тӣ}}
-*: Roman: {{t+|sh|pròklēti}}, {{t+|sh|ùklēti}}, {{t+|sh|klȇtī}}
+*: Cyrillic: {{t|sh|про̀кле̄ти|pf}}, {{t|sh|у̀кле̄ти|pf}}, {{t|sh|кле̑тӣ|impf}}
+*: Roman: {{t+|sh|pròklēti|pf}}, {{t+|sh|ùklēti|pf}}, {{t+|sh|klȇtī|impf}}
 * Sicilian: {{t+|scn|maldiri}}, {{t+|scn|malidiri}}, {{t|scn|maridiri}}
 * Slovak: {{t|sk|preklínať|impf}}, {{t|sk|prekliať|pf}}
 * Slovene: {{t+|sl|preklinjati|impf}}
