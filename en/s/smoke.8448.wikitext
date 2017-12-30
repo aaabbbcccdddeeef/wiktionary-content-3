@@ -80,9 +80,9 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * Abaza: {{t|abq|лгӏва}}
 * Abkhaz: {{t|ab|алҩа}}
 * Adyghe: {{t|ady|ӏугъу|sc=Cyrl}}
-* Ainu: {{t|ain|スプヤ|tr=supuya|sc=Kana}}
 * Afrikaans: {{t-simple|af|rook|langname=Afrikaans}}
 * Ahtna: {{t-simple|aht|łet|langname=Ahtna}}
+* Ainu: {{t|ain|スプヤ|tr=supuya|sc=Kana}}
 * Akkadian: {{t-simple|akk|qutru|langname=Akkadian}}
 * Alabama: {{t-simple|akz|sobotli|langname=Alabama}}
 * Albanian: {{t+|sq|tym|m}}
@@ -118,6 +118,8 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * Cabécar: {{t-simple|cjp|shikapo|langname=Cabécar}}
 * Catalan: {{t+|ca|fum|m}}
 * Central Atlas Tamazight: {{t|tzm|ⴰⴳⴳⵓ|tr=aggu|m}}
+* Central Melanau: {{t-simple|mel|tugun|langname=Central Melanau}}
+* Ch'orti': {{t|caa|b'utz'}}
 * Chachi: {{t-simple|cbi|nibuyo|langname=Chachi}}
 * Chamicuro: {{t-simple|ccc|kawsa|langname=Chamicuro}}
 * Chamorro: {{t-simple|ch|aso|langname=Chamorro}}
@@ -125,9 +127,8 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * Chepang: {{t|cdm|म्हेःकुः|tr=hmeʔkuʔ|sc=Deva}}
 * Cherokee: {{t|chr|ᏧᎦᏒᏍᏗ}}
 * Cheyenne: {{t|chy|-atová}}
-* Copainalá Zoque: {{t-simple|zoc|jocoj|langname=Copainalá Zoque}}
+* Chicahuaxtla Triqui: {{t|trs|gatse'e|alt=gatse'<sup>4</sup>e}}
 * Chichewa: {{t-simple|ny|utsi|langname=Chichewa}}
-* Tsimané: {{t|cas|jị'sa'}}, {{t|cas|jï'sä'}} {{qualifier|Mosetén}}
 * Chinantec:
 *: Lealao Chinantec: {{t|cle|ñi|alt=ñi<sup>2</sup>}}
 *: Ozumacín Chinantec: {{t|chz|ñe|alt=ñe<sup>/</sup>}}, {{t|chz|wañe|alt=wa<sup>/</sup>ñe<sup>/</sup>}}
@@ -135,16 +136,14 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 *: Cantonese: {{t+|cmn|煙|tr=jin1|sc=Hani}}
 *: Mandarin: {{t+|cmn|煙|sc=Hani}}, {{t+|cmn|烟|tr=yān|sc=Hani}}
 * Chiquihuitlán Mazatec: {{t-simple|maq|nihndi|langname=Chiquihuitlán Mazatec}}
-* Central Melanau: {{t-simple|mel|tugun|langname=Central Melanau}}
 * Chol: {{t|ctu|buts'}}
-* Ch'orti': {{t|caa|b'utz'}}
 * Chuj: {{t|cac|tap'}}
 * Chuvash: {{t|cv|тӗтӗм}}
+* Copainalá Zoque: {{t-simple|zoc|jocoj|langname=Copainalá Zoque}}
 * Cora: {{t|crn|cʌʌtzí}}
 * Cornish: {{t|kw|mog|m}}
 * Corsican: {{t|co|fume|m}}, {{t+|co|fumu|m}}
 * Crimean Tatar: {{t|crh|тютюн|sc=Cyrl}}
-* Tepeuxila Cuicatec: {{t|cux|y'am'i|alt=y'a<sup>3</sup>m'i<sup>3</sup>}}
 * Czech: {{t+|cs|dým|m}}, {{t+|cs|kouř|m}}
 * Dakota: {{t-simple|dak|šota|langname=Dakota}}
 * Danish: {{t+|da|røg|c}}
@@ -153,30 +152,30 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * Dogrib: {{t-simple|dgr|ło|langname=Dogrib}}
 * Dutch: {{t+|nl|rook|m}}, {{t+|nl|walm|m}}
 * Dzongkha: {{t|dz|དུ་པ|sc=Tibt}}
+* East Futuna: {{t|fud|ʻafu}}
 * Elfdalian: {{t|ovd|räk|m}}
 * Emilian: {{t-simple|egl|fomm|langname=Emilian}} {{qualifier|Bolognese dialect}}
-* Tundra Enets: {{t|enh|кочи|tr=koči|sc=Cyrl}}
 * Erzya: {{t|myv|качамо|sc=Cyrl}}
 * Esperanto: {{t-simple|eo|fumo|langname=Esperanto|interwiki=1}}
 * Estonian: {{t-simple|et|suits|langname=Estonian}}
-* Extremaduran: {{t|ext|humu|m}}
 * Evenki: {{t|evn|саӈнян|tr=sangnjan|sc=Cyrl}}
 * Ewe: {{t|ee|adzudzɔ}}
+* Extremaduran: {{t|ext|humu|m}}
 * Faroese: {{t|fo|roykur|m}}, {{t|fo|dampur|m}}
 * Fiji Hindi: {{t-simple|hif|dhuuan|langname=Fiji Hindi}}
 * Finnish: {{t-simple|fi|savu|langname=Finnish|interwiki=1}}
 * French: {{t+|fr|fumée|f}}
-* Friulian: {{t|fur|fum|m}}
 * Frisian:
 *: North: {{t|frr|riik}}
 *: Saterland: {{t|stq|Rook}}
 *: West: {{t+|fy|reek|c}}
-* East Futuna: {{t|fud|ʻafu}}
+* Friulian: {{t|fur|fum|m}}
 * Gagauz: {{t-simple|gag|tütün|langname=Gagauz}}
 * Galician: {{t+|gl|fume|m}}
 * Georgian: {{t|ka|ბოლი}}, {{t|ka|კვამლი}}
 * German: {{t+|de|Rauch|m}}
 *: Central Franconian: {{t|gmw-cfr|Quallem}}
+* Gilbertese: {{t-simple|gil|bubu|langname=Gilbertese}}
 * Gothic: {{t|got|𐌳𐌰𐌿𐌽𐍃|sc=Goth}}
 * Greek: {{t+|el|καπνός|m}}
 *: Griko: {{t|el|kannò|m}}
@@ -210,6 +209,7 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * Italian: {{t+|it|fumo|m}}
 * Jakaltek: {{t|jac|nhub'}}
 * Japanese: {{t+|ja|煙|tr=けむり, kemuri|sc=Jpan}}
+* K'iche': {{t-simple|quc|sïb|langname=K'iche'}}
 * Kabardian: {{t|kbd|ӏугъуэ|sc=Cyrl}}
 * Kabyle: {{t-simple|kab|awwu|langname=Kabyle}}, {{t-simple|kab|ddexxan|langname=Kabyle}}
 * Kalmyk: {{t|xal|утан}}
@@ -223,9 +223,7 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * Khanty: {{t|kca|нусаӈ|sc=Cyrl}}
 * Khmer: {{t+|km|ផ្សែង|tr=psaing|sc=Khmr}}
 * Khvarshi: {{t|khv|гутӏ|tr=gut'|sc=Cyrl}}
-* K'iche': {{t-simple|quc|sïb|langname=K'iche'}}
 * Kildin Sami: {{t|sjd|сȳвв|sc=Cyrl}}
-* Gilbertese: {{t-simple|gil|bubu|langname=Gilbertese}}
 * Komi-Permyak: {{t|koi|тшын|sc=Cyrl}}
 * Komi-Zyrian: {{t|kpv|тшын}}
 * Korean: {{t+|ko|연기}} ({{t+|ko|煙氣}})
@@ -250,16 +248,15 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 *: Eastern: {{t|lmo|föm|m}}
 *: Western: {{t|lmo|fumm|m}}
 * Low German: {{t|nds|Ruak|n}}
-{{trans-mid}}
 * Lower Tanana: {{t-simple|taa|łet|langname=Lower Tanana}}
-* Nyole (Uganda): {{t-simple|nuj|eriisi|langname=Nyole (Uganda)}}
 * Luxembourgish: {{t|lb|Damp|m}}
+{{trans-mid}}
 * Maasai: {{t-simple|mas|empurúó|langname=Maasai}}
 * Macedonian: {{t|mk|чад|m}}, {{t|mk|дим|m}}
 * Machiguenga: {{t-simple|mcb|tsitsíenka|langname=Machiguenga}}, {{t-simple|mcb|énkatsi|langname=Machiguenga}}
+* Malagasy: {{t-simple|mg|setroka|langname=Malagasy|interwiki=1}}
 * Malay: {{t-simple|ms|asap|langname=Malay}}
 * Malayalam: {{t+|ml|പുക|sc=Mlym}}
-* Malagasy: {{t-simple|mg|setroka|langname=Malagasy|interwiki=1}}
 * Maltese: {{t-simple|mt|duħħan|langname=Maltese}}
 * Mambae: {{t-simple|mgm|fuma|langname=Mambae}}
 * Manx: {{t-simple|gv|jaagh|langname=Manx}}
@@ -271,6 +268,7 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 *: Western: {{t|mrj|шӹкш}}
 * Mayo: {{t-simple|mfy|buichiria|langname=Mayo}}
 * Megleno-Romanian: {{t|ruq|fum|m}}
+* Mezquital Otomi: {{t|ote|'bifi}}
 * Middle High German: {{t-simple|gmh|smouch|langname=Middle High German}}
 * Mingrelian: {{t|xmf|ლოლი|sc=Geor}}, {{t|xmf|ფურკი|sc=Geor}}, {{t|xmf|ფუტი|sc=Geor}}
 * Mirandese: {{t|mwl|fumo|m}}
@@ -283,7 +281,6 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * Nauruan: {{t-simple|na|ebadetsi|langname=Nauruan}}
 * Navajo: {{t-simple|nv|łid|langname=Navajo}}
 * Neapolitan: {{t|nap|fummo|m}}
-* Tundra Nenets: {{t|yrk|якэ|tr=jake|sc=Cyrl}}
 * Nepali: {{t|ne|धुँवा|tr=mekkhuma|sc=Deva}}, {{t|ne|धूवाँ|tr=dhūvā͂|sc=Deva}}
 * Newari: {{t-needed|new}}
 * Nganasan: {{t|nio|кинтә|tr=kintĕ|sc=Cyrl}}, {{t|nio|дякагә|tr=djakagĕ|sc=Cyrl}}
@@ -292,6 +289,7 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * Norman: {{t|nrf|feunmée|f}} {{qual|Jersey}}, {{t|nrf|fumaïe|f}} {{qual|Guernsey}}
 * Northern Sami: {{t|se|suovva}}
 * Norwegian: {{t|no|røyk|m}}
+* Nyole (Uganda): {{t-simple|nuj|eriisi|langname=Nyole (Uganda)}}
 * Occitan: {{t+|oc|fum|m}}
 * Old Church Slavonic: {{t|cu|дꙑмъ|m|sc=Cyrs}}
 * Old French: {{t|fro|fum|m}}
@@ -301,7 +299,6 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * Oromo: {{t-simple|om|aara|langname=Oromo}}
 * Oscan: {{t|osc|𐌚𐌄𐌔𐌚|tr=fesf|sc=Ital}}
 * Ossetian: {{t|os|фæздæг|sc=Cyrl}}
-* Mezquital Otomi: {{t|ote|'bifi}}
 * Ottoman Turkish: {{t|ota|دومان|tr=duman}}, {{t|ota|دخان|tr=duhân}}, {{t|ota|توتون|tr=tütün}}
 * Papiamentu: {{t-simple|pap|huma|langname=Papiamentu}}
 * Pashto: {{t+|ps|دود|tr=dud|sc=ps-Arab}}
@@ -328,6 +325,7 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * Rusyn: {{t|rue|дим|sc=Cyrl}}
 * Rwanda-Rundi: {{t|rw|umwotsi|3|4}}
 * Samoan: {{t-simple|sm|asu|langname=Samoan|interwiki=1}}
+* San Juan Atzingo Popoloca: {{t-simple|poe|ihnchi|langname=San Juan Atzingo Popoloca}}
 * San Pedro Amuzgos Amuzgo: {{t-simple|azg|tseoon|langname=San Pedro Amuzgos Amuzgo}}
 * Sango: {{t-simple|sg|gürü|langname=Sango}}
 * Sanskrit: {{t+|sa|धूम}}
@@ -340,8 +338,6 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 *: Roman: {{t+|sh|dȉm|m}}
 * Seri: {{t-simple|sei|hamcaaxat|langname=Seri}}
 * Sherpa: {{t|xsr|तुत​|tr=tuta|sc=Deva}}
-* Tabasco Chontal: {{t|chf|butz'}}, {{t|chf|butz'i}}
-* Tashelhit: {{t-simple|shi|aggu|langname=Tashelhit}}
 * Shona: {{t-simple|sn|utsi|langname=Shona}}
 * Shor: {{t|cjs|тӱдӱн|tr=tüdün|sc=Cyrl}}
 * Shughni: {{t|sgh|д̌уд}}
@@ -357,7 +353,6 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * Sotho: {{t-simple|st|mosi|langname=Sotho}}
 * Southeastern Tepehuan: {{t|stp|kuubhɨx}}
 * Southern Altai: {{t|alt|ыш|tr=ış|sc=Cyrl}}, {{t|alt|тӱдӱн|tr=tüdün|sc=Cyrl}}
-* San Juan Atzingo Popoloca: {{t-simple|poe|ihnchi|langname=San Juan Atzingo Popoloca}}
 * Spanish: {{t+|es|humo|m}}
 * Sranan Tongo: {{t-simple|srn|smoko|langname=Sranan Tongo}}
 * Sumerian: {{t-simple|sux|ibi|langname=Sumerian}}
@@ -367,24 +362,29 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * Swedish: {{t+|sv|rök|c}}
 * Sylheti: {{t|syl|ꠗꠥꠝꠣ}}
 * Tabasaran: {{t|tab|кум|sc=Cyrl}}
+* Tabasco Chontal: {{t|chf|butz'}}, {{t|chf|butz'i}}
 * Tacana: {{t-simple|tna|judhu|langname=Tacana}}
 * Tagalog: {{t-simple|tl|usok|langname=Tagalog}}
 * Tahitian: {{t-simple|ty|auauhi|langname=Tahitian}}
 * Tajik: {{t+|tg|дуд}}
 * Tamil: {{t+|ta|புகை}}
 * Tanacross: {{t-simple|tcb|łet|langname=Tanacross}}
+* Tashelhit: {{t-simple|shi|aggu|langname=Tashelhit}}
 * Tatar: {{t+|tt|төтен}}
 * Telugu: {{t+|te|పొగ}}
+* Tepeuxila Cuicatec: {{t|cux|y'am'i|alt=y'a<sup>3</sup>m'i<sup>3</sup>}}
 * Tetum: {{t-simple|tet|fuma|langname=Tetum}}
 * Thai: {{t+|th|ควัน}}
 * Tibetan: {{t|bo|དུ་བ|sc=Tibt}}
 * Tigrinya: {{t|tig|ትኪ|sc=Ethi}}
 * Tindi: {{t|tin|гутӏ|tr=gut'|sc=Cyrl}}
 * Tlingit: {{t|tli|s'eekh}}, {{t|tli|s'eikh}}
-* Chicahuaxtla Triqui: {{t|trs|gatse'e|alt=gatse'<sup>4</sup>e}}
 * Tsez: {{t|ddo|гутӏ|tr=gut'|sc=Cyrl}}
+* Tsimané: {{t|cas|jị'sa'}}, {{t|cas|jï'sä'}} {{qualifier|Mosetén}}
 * Tswana: {{t-simple|tn|mosi|langname=Tswana}}
 * Tumbuka: {{t-simple|tum|josi|langname=Tumbuka}}
+* Tundra Enets: {{t|enh|кочи|tr=koči|sc=Cyrl}}
+* Tundra Nenets: {{t|yrk|якэ|tr=jake|sc=Cyrl}}
 * Tupinambá: {{t-simple|tpn|timbora|langname=Tupinambá}}
 * Turkish: {{t-simple|tr|sis|langname=Turkish|interwiki=1}}, {{t-simple|tr|duman|langname=Turkish|interwiki=1}}
 * Turkmen: {{t-simple|tk|tüsse|langname=Turkmen}}
@@ -440,8 +440,8 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * Guaraní: {{t-simple|gn|petỹ|langname=Guaraní}}
 * Indonesian: {{t-simple|id|rokok|langname=Indonesian|interwiki=1}}
 * Interlingua: {{t-simple|ia|fumo|langname=Interlingua}}
-{{trans-mid}}
 * Korean: {{t+|ko|담배}}
+{{trans-mid}}
 * Latvian: {{t|lv|smēķis|m}}
 * Macedonian: {{t|mk|цигара|f}}, {{t|mk|тутун|m}}
 * Maori: {{t-simple|mi|hikareti|langname=Maori}}
@@ -510,6 +510,7 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 
 {{checktrans-top}}
 * Dutch: {{t+check|nl|sigaret|f}} (doesn't look like a colloquial term for a cigarette)
+{{trans-mid}}
 {{trans-bottom}}
 
 ===Verb===
