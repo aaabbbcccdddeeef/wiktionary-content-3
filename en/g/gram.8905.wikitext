@@ -27,10 +27,10 @@ From {{etyl|fr|en}} {{m|fr|gramme}}, from {{etyl|grc|en}} {{m|grc|γράμμα||
 * Armenian: {{t+|hy|գրամ}}
 * Asturian: {{t|ast|gramu|m}}
 * Azeri: {{t+|az|qram}}
-* Belarusian: {{t|be|грам|m|sc=Cyrl}}
-* Bengali: {{t+|bn|গ্রাম|sc=Beng}}
-* Bulgarian: {{t+|bg|грам|m|sc=Cyrl}}
-* Burmese: {{t+|my|ဂရမ်|sc=Mymr}}
+* Belarusian: {{t|be|грам|m}}
+* Bengali: {{t+|bn|গ্রাম}}
+* Bulgarian: {{t+|bg|грам|m}}
+* Burmese: {{t+|my|ဂရမ်}}
 * Catalan: {{t+|ca|gram|m}}
 * Chinese:
 *: Cantonese: {{t|yue|克|tr=hak1}}, {{t|yue|公克|tr=gung1 hak1}}
@@ -49,7 +49,7 @@ From {{etyl|fr|en}} {{m|fr|gramme}}, from {{etyl|grc|en}} {{m|grc|γράμμα||
 * Greek: {{t+|el|γραμμάριο|n}}
 *: Ancient: {{t|grc|γραμμάριον|n}}
 * Gujarati: {{t|gu|ગ્રામ|tr=grām}}
-* Hebrew: {{t+|he|גְרַם|m|tr=gram|sc=Hebr}}
+* Hebrew: {{t+|he|גְרַם|m|tr=gram}}
 * Hindi: {{t+|hi|ग्राम|m}}
 * Hungarian: {{t+|hu|gramm}}
 * Icelandic: {{t+|is|gramm|n}}
@@ -59,15 +59,15 @@ From {{etyl|fr|en}} {{m|fr|gramme}}, from {{etyl|grc|en}} {{m|grc|γράμμα||
 * Italian: {{t+|it|grammo|m}}
 * Japanese: {{t+|ja|グラム|tr=guramu}}
 * Kazakh: {{t|kk|грамм|sc=Cyrl}}
-* Khmer: {{t+|km|ក្រាម|tr=kraam|sc=Khmr}}
+* Khmer: {{t+|km|ក្រាម|tr=kraam}}
 {{trans-mid}}
 * Korean: {{t+|ko|그램}}
 * Kyrgyz: {{t+|ky|грамм|sc=Cyrl}}
-* Lao: {{t|lo|ກຣາມ|sc=Laoo}}, {{t|lo|ກາມ|sc=Laoo}}
+* Lao: {{t|lo|ກຣາມ}}, {{t|lo|ກາມ}}
 * Latvian: {{t|lv|grams|m}}
 * Lithuanian: {{t+|lt|gramas|m}}
 * Luxembourgish: {{t|lb|Gramm|m}}
-* Macedonian: {{t|mk|грам|m|sc=Cyrl}}
+* Macedonian: {{t|mk|грам|m}}
 * Malay: {{t|ms|gram}}
 * Maori: {{t|mi|karamu}}, {{t|mi|koma}}
 * Mongolian: {{t+|mn|грамм|sc=Cyrl}}
@@ -76,7 +76,7 @@ From {{etyl|fr|en}} {{m|fr|gramme}}, from {{etyl|grc|en}} {{m|grc|γράμμα||
 * Persian: {{t+|fa|گرم|tr=geram|sc=fa-Arab}}
 * Polish: {{t+|pl|gram|m}}
 * Portuguese: {{t+|pt|grama|m}}
-* Punjabi: [[ਗ੍ਰਾਮ]] (grāma)
+* Punjabi: {{t|pa|ਗ੍ਰਾਮ|tr=grāma}}
 * Quechua: {{t|qu|k'isura}}
 * Romanian: {{t+|ro|gram|n}}
 * Russian: {{t+|ru|грамм|m}}
@@ -95,7 +95,7 @@ From {{etyl|fr|en}} {{m|fr|gramme}}, from {{etyl|grc|en}} {{m|grc|γράμμα||
 * Thai: {{t+|th|กรัม}}
 * Turkish: {{t+|tr|gram}}
 * Turkmen: {{t|tk|gramm}}
-* Ukrainian: {{t+|uk|грам|m|sc=Cyrl}}
+* Ukrainian: {{t+|uk|грам|m}}
 * Urdu: {{t|ur|گرام|m|tr=grām|sc=ur-Arab}}
 * Uzbek: {{t+|uz|gramm}}
 * Vietnamese: {{t+|vi|gam}}
@@ -164,6 +164,26 @@ Diminutive of [[grandmother]]
 [[Category:en:Legumes]]
 [[Category:en:SI units]]
 [[Category:en:Units of measure]]
+
+----
+
+==Catalan==
+
+===Etymology===
+From {{bor|ca|fr|gramme}}.
+
+===Pronunciation===
+* {{ca-IPA}}
+
+===Noun===
+{{ca-noun|m}}
+
+# {{l|en|gram}} {{gloss|unit of mass}}
+
+===Further reading===
+* {{R:IEC2}}
+
+{{C|ca|SI units}}
 
 ----
 
@@ -417,7 +437,7 @@ From {{etyl|la|sh}} {{m|la|gramma}}.
 ===Noun===
 {{vo-noun}}
 
-# gram
+# {{l|en|gram}}
 
 ====Declension====
 {{vo-decl-noun}}
