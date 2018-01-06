@@ -6,7 +6,7 @@
 * {{l|en|accusour}} {{qualifier|obsolete}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{m|enm|acuser}}, {{m|enm|accusour}}, from {{etyl|fro|en}} {{m|fro|accusour}}, from {{etyl|la|en}} {{m|la|accusator}}, from {{m|la|accusare}}. Equivalent to {{suffix|accuse|er|id2=agent noun|lang=en}}.
+From {{inh|en|enm|acuser}}, {{m|enm|accusour}}, borrowed from {{bor|en|fro|accusour}}, from {{der|en|la|accusator}}, from {{m|la|accusare}}. Equivalent to {{suffix|accuse|er|id2=agent noun|lang=en}}.
 
 ===Pronunciation===
 * {{a|US}} {{IPA|/əˑˈkju.zɚ/|lang=en}}
@@ -53,7 +53,7 @@ From {{etyl|enm|en}} {{m|enm|acuser}}, {{m|enm|accusour}}, from {{etyl|fro|en}} 
 ==French==
 
 ===Etymology===
-Borrowed from {{bor|fr|la|accūsāre}}, present active infinitive of {{m|la|accūsō}}.
+From {{inh|fr|frm|accuser}}, from {{inh|fr|fro|acuser}}, {{m|fro|accuser}}, borrowed from {{bor|fr|la|accūsāre}}, present active infinitive of {{m|la|accūsō}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -87,7 +87,7 @@ Borrowed from {{bor|fr|la|accūsāre}}, present active infinitive of {{m|la|acc�
 ==Middle French==
 
 ===Etymology===
-{{etyl|la|frm}} {{m|la|accūsō}}.
+From {{inh|frm|fro|acuser}}, {{m|fro|accuser}}, borrowed from {{bor|frm|la|accuso|accuso, accusare}}.
 
 ===Verb===
 {{head|frm|verb}}
@@ -96,3 +96,6 @@ Borrowed from {{bor|fr|la|accūsāre}}, present active infinitive of {{m|la|acc�
 
 ====Conjugation====
 {{frm-conj-er|accus}}
+
+====Descendants====
+* French: {{l|fr|accuser}}
