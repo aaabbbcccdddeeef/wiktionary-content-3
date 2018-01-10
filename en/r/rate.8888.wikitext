@@ -10,8 +10,6 @@
 ===Etymology 1===
 From {{inh|en|enm|rate}}, from {{der|en|fro|rate}}, from {{der|en|ML.|rata}}, from {{der|en|la||prō ratā parte|according to a fixed part}}, from {{m|la|ratus||fixed}}, from {{m|la|rērī||think, deem, judge, estimate", ''originally'' "reckon, calculate}}.
 
-{{wikipedia}}
-
 ====Noun====
 {{en-noun}}
 
@@ -54,20 +52,26 @@ From {{inh|en|enm|rate}}, from {{der|en|fro|rate}}, from {{der|en|ML.|rata}}, fr
 #: ''daily '''rate'''; hourly '''rate'''; etc.''
 
 =====Hyponyms=====
-* {{l|en|birth rate}}, {{l|en|birthrate}}
-* {{l|en|exchange rate}}
-* {{l|en|failure rate}}
-* {{l|en|flat rate}}
-* {{l|en|interest rate}}
-* {{l|en|mortality rate}}
+{{hyp4
+|birth rate
+|birthrate
+|exchange rate
+|failure rate
+|flat rate
+|high-burden-rate
+|interest rate
+|mortality rate
+|lang=en}}
 
 =====Derived terms=====
 <!-- compounds -->
 * {{l|en|clathrate}}
 
 ====Related terms====
-* {{l|en|at any rate}}
-* {{l|en|rate limiting}}
+{{rel2
+|at any rate
+|rate limiting
+|lang=en}}
 
 =====Translations=====
 {{trans-top|proportional relationship between amounts}}
@@ -177,12 +181,15 @@ From {{inh|en|enm|rate}}, from {{der|en|fro|rate}}, from {{der|en|ML.|rata}}, fr
 * French: {{t-check|fr|proportion|f}}
 * German: {{t-check|de|Verhältnis|n}}
 * Italian: {{t-check|it|proporzione|f}}
-{{trans-mid}}
+{{checktrans-mid}}
 * {{ttbc|ko}}: [[비율]] (biyul)
 * {{ttbc|cmn}}: [[比率]] (bǐlǜ)
 * Spanish: {{t-check|es|proporción|f}}
-* {{ttbc|sv}}: [[proportion]] {{g|c}}
-{{trans-bottom}}
+* {{ttbc|sv}}: {{t-check|sv|proportion|c}}
+{{checktrans-bottom}}
+
+=====References=====
+* {{pedia}}
 
 ====Verb====
 {{en-verb|rat}}
@@ -217,6 +224,9 @@ From {{inh|en|enm|rate}}, from {{der|en|fro|rate}}, from {{der|en|ML.|rata}}, fr
 =====Synonyms=====
 * {{sense|have position in a certain class}} {{l|en|rank}}
 
+====Derived terms====
+* {{l|en|rating}}
+
 =====Translations=====
 {{trans-top|assign a particular rank or level}}
 * French: {{t+|fr|coter}}
@@ -225,9 +235,6 @@ From {{inh|en|enm|rate}}, from {{der|en|fro|rate}}, from {{der|en|ML.|rata}}, fr
 * Spanish: {{t+|es|calificar}}
 * Swedish: {{t+|sv|gradera}}
 {{trans-bottom}}
-
-====Derived terms====
-* {{l|en|rating}}
 
 ===Etymology 2===
 From {{der|en|enm|raten||to scold, chide}}, from {{der|en|non|hrata||to refuse, reject, slight, find fault with}}, from {{der|en|gem-pro|*hratōną||to sway, shake}}, from {{der|en|ine-pro|*krad-||to swing}}. Cognate with {{cog|sv|rata||to reject, refuse, find fault, slight}}, {{cog|no|rata||to reject, cast aside}}, {{cog|ang|hratian||to rush, hasten}}.
