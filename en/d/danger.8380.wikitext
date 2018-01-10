@@ -43,9 +43,9 @@ From {{etyl|enm|en}} {{m|enm|daunger||power, dominion, peril}}, from {{etyl|xno|
 ====Translations====
 {{trans-top|exposure to liable harm}}
 * Afrikaans: {{t|af|gevaar}}
-* Albanian: {{t+|sq|rrezik}}
+* Albanian: {{t+|sq|rrezik|m}}
 * Arabic: {{t|ar|خَطَر|m}}
-*: Egyptian Arabic: {{t|arz|خطر|m|tr=xaṭar|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|خطر|m|tr=ḵaṭar|sc=Arab}}
 * Armenian: {{t+|hy|վտանգ}}
 * Asturian: {{t|ast|peligru|m}}
 * Azeri: {{t+|az|təhlükə}}
@@ -54,7 +54,7 @@ From {{etyl|enm|en}} {{m|enm|daunger||power, dominion, peril}}, from {{etyl|xno|
 * Bulgarian: {{t+|bg|опа́сност|f}}
 * Burmese: {{t+|my|ဘယာ|sc=Mymr}}, {{t+|my|ဘေး|sc=Mymr}}
 * Catalan: {{t+|ca|perill|m}}
-* Cherokee: {{t|chr|ᎦᏂᏰᎩ|tr=ganiyegi|sc=Cher}}
+* Cherokee: {{t|chr|ᎦᏂᏰᎩ|sc=Cher}}
 * Chinese:
 *: Mandarin: {{t+|cmn|危險|sc=Hani}}, {{t+|cmn|危险|tr=wēixiǎn|sc=Hani}}
 * Classical Nahuatl: {{t|nci|ohuihcāyōtl}}
@@ -74,8 +74,8 @@ From {{etyl|enm|en}} {{m|enm|daunger||power, dominion, peril}}, from {{etyl|xno|
 *: Ancient: {{t|grc|κίνδυνος}}
 * Gujarati: {{t-needed|gu}}
 * Haitian Creole: {{t|ht|danje}}
-* Hebrew: {{t|he|סכנה|f|tr=sakaná|sc=Hebr}}
-* Hindi: {{t+|hi|जोखिम|tr=jōkhim|sc=Deva}}, {{t|hi|ख़तरा|tr=xatrā|sc=Deva}}
+* Hebrew: {{t|he|סַכָּנָה|f|tr=sakaná|sc=Hebr}}
+* Hindi: {{t+|hi|जोखिम|m|sc=Deva}}, {{t|hi|ख़तरा|m|sc=Deva}}
 * Hungarian: {{t+|hu|veszély}}
 * Icelandic: {{t+|is|hætta|f}}, {{t|is|háski|m}}, {{t|is|voði|m}}
 * Ido: {{t+|io|danjero}}
@@ -131,7 +131,7 @@ From {{etyl|enm|en}} {{m|enm|daunger||power, dominion, peril}}, from {{etyl|xno|
 * Turkish: {{t+|tr|tehlike}}
 * Turkmen: {{t|tk|howp}}, {{t|tk|hovp}}
 * Ukrainian: {{t|uk|небезпе́ка|f|sc=Cyrl}}
-* Urdu: {{t|ur|جوکھم|tr=jōkhim|sc=ur-Arab}}, {{t|ur|خطرہ|tr=xatra|sc=ur-Arab}}
+* Urdu: {{t|ur|جوکھم|m|tr=jōkhim|sc=ur-Arab}}, {{t|ur|خطرہ|m|tr=xatra|sc=ur-Arab}}
 * Uzbek: {{t+|uz|xatar}}, {{t+|uz|xavflilik}}
 * Venetian: {{t|vec|pericoło|m}}, {{t|vec|pericol}}, {{t|vec|pericolo}}, {{t|vec|perigoło}}
 * Vietnamese: {{t+|vi|nguy hiểm}} ({{t|vi|危險}})
@@ -157,7 +157,7 @@ From {{etyl|enm|en}} {{m|enm|daunger||power, dominion, peril}}, from {{etyl|xno|
 * German: {{t+|de|Gefahr|f}}, {{t+|de|Bedrohung|f}}
 * Greek: {{t+|el|κίνδυνος|m}}
 * Haitian Creole: {{t|ht|danje}}
-* Hebrew: {{t|he|סכנה|tr=sakana|f}}
+* Hebrew: {{t|he|סַכָּנָה|tr=sakana|f}}
 * Ido: {{t+|io|danjero}}
 * Indonesian: {{t+|id|bahaya}}
 {{trans-mid}}
@@ -182,14 +182,11 @@ From {{etyl|enm|en}} {{m|enm|daunger||power, dominion, peril}}, from {{etyl|xno|
 {{checktrans-top}}
 * French: {{qualifier|3}} {{t-check|fr|danger|m}}, {{qualifier|6}} {{t-check|fr|risque|m}}
 * Hebrew: {{t-check|he|לסכן|tr=lesaken|sc=Hebr}} (2)
-* Hindi: {{t-check|hi|खत्रा|tr=khatrā|sc=Deva}}
 * Icelandic: {{t-check|is|hætta}}
-* Korean: {{t-check|ko|위험|tr=wi-hum|sc=Kore}}
 * Kurdish: {{qualifier|3}} {{t-check|ku|xeter|f}}, {{qualifier|3}} {{t-check|ku|talûke|f}}, {{qualifier|3}} {{t-check|ku|bive|f}}, {{qualifier|3}} {{t-check|ku|gef|f}}, {{qualifier|3}} {{t-check|ku|rîsk|f}}
 {{trans-mid}}
 * Lithuanian: {{qualifier|3}} {{t-check|lt|pavojus|m}}
 * Lojban: {{t-check|jbo|ckape}}
-* Mandarin: {{t-check|cmn|危险|tr=wēi-xiǎn|sc=Hani}}
 * Norwegian: {{t-check|no|fare}}
 * Old English: {{t-check|ang|fǣr|m}}
 {{trans-bottom}}
