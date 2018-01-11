@@ -37,32 +37,36 @@ From {{etyl|enm|en}} {{m|enm|sequence}}, from {{etyl|fro|en}} {{m|fr|sequence||a
 
 ====Hyponyms====
 * {{l|en|presequence}} <!--noun-->
+* {{sense|computing}} {{l|en|escape sequence}}
 
 ====Meronyms====
 * {{sense|mathematics}} {{l|en|term}}
 
 ====Derived terms====
-* {{l|en|main-sequence}}
-* {{l|en|sequenceless}}
-* {{l|en|sequencer}}
+{{der3
+|main-sequence
+|sequenceless
+|sequencer
+|lang=en}}
 
 ====Related terms====
-{{rel4|lang=en||{{l|en|et seq}}
-|{{l|en|nolle prosequi}}
-|{{l|en|non sequitur}}
-|{{l|en|persecute}}
-|{{l|en|prosecute}}
-|{{l|en|segue}}
-|{{l|en|sequel}}
-|{{l|en|sequela}}
-|{{l|en|sequent}}
-|{{l|en|sequential}}
-|{{l|en|sequinator}}<!--possibly a protein-sequencing device?-->
-|{{l|en|suant}}
-|{{l|en|sue}}
-|{{l|en|suit}}
-|{{l|en|suite}}
-}}
+{{rel4
+|et seq
+|nolle prosequi
+|non sequitur
+|persecute
+|prosecute
+|segue
+|sequel
+|sequela
+|sequent
+|sequential
+|sequinator<!--possibly a protein-sequencing device?-->
+|suant
+|sue
+|suit
+|suite
+|lang=en}}
 
 ====Translations====
 {{trans-top|set of things in a set order}}
