@@ -1,5 +1,4 @@
 ==English==
-{{wikipedia}}
 
 ===Etymology===
 Borrowed from {{bor|en|la|integer||untouched, unhurt, unchanged, sound, fresh, whole, entire, pure, honest}}, from {{m|la|in}} + {{m|la|tangere||to touch}}. {{doublet|entire|lang=en}}. See {{m|en|tangere}}, {{m|en|tact}}.
@@ -11,7 +10,7 @@ Borrowed from {{bor|en|la|integer||untouched, unhurt, unchanged, sound, fresh, w
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|arithmetic}} A number that is not a [[fraction]]; an element of the infinite and numerable [[set]] {...,-3,-2,-1,0,1,2,3,...}.
+# {{lb|en|arithmetic}} A number that is not a [[fraction]]; an element of the infinite and numerable [[set]] {..., -3, -2, -1, 0, 1, 2, 3, ...}.
 
 ====Synonyms====
 * {{l|en|whole number}}, when understood to include negative numbers and zero.
@@ -30,13 +29,14 @@ Borrowed from {{bor|en|la|integer||untouched, unhurt, unchanged, sound, fresh, w
 * {{l|en|zero}}
 
 ====Derived terms====
-* {{l|en|algebraic integer}}
-* {{l|en|quadratic integer}}
+* {{l|en|float-to-integer}}
 
 ====Related terms====
-* {{l|en|integrate}}
-* {{l|en|integral}}
-* {{l|en|integrity}}
+{{rel3
+|integrate
+|integral
+|integrity
+|lang=en}}
 
 ====Translations====
 {{trans-top|integer}}
@@ -85,6 +85,9 @@ Borrowed from {{bor|en|la|integer||untouched, unhurt, unchanged, sound, fresh, w
 ====Further reading====
 * {{R:Webster 1913}}
 * {{R:Century 1911}}
+
+===References===
+* {{pedia}}
 
 ===Anagrams===
 * {{anagrams|en|greetin'|treeing}}
