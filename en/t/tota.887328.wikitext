@@ -9,17 +9,17 @@ From the native name in Egypt.
 
 # A kind of monkey, the [[grivet]] or [[waag]].
 
-{{Webster 1913}}
-
 ===Anagrams===
 * {{anagrams|en|atto-|to a T|toat}}
+
+{{Webster 1913}}
 
 ----
 
 ==Albanian==
 
 ===Alternative forms===
-* [[totë]]
+* {{alter|sq|totë}}
 
 ===Etymology===
 A Lallwort
@@ -29,14 +29,17 @@ A Lallwort
 
 # [[big sister]], [[sister]]
 
+[[Category:sq:Family]]
+[[Category:sq:Female]]
+
 ----
 
 ==Catalan==
 
 ===Adjective===
-{{head|ca|adjective form}}
+{{head|ca|adjective form|g=f-s}}
 
-# {{feminine of|tot|lang=ca}}
+# {{inflection of|tot||f|s|lang=ca}}
 
 ----
 
@@ -51,10 +54,7 @@ A Lallwort
 {{fi-int|tota}}
 
 # {{lb|fi|colloquial}} Space [[filler]] or [[pause]] during conversation.
-
-====Synonyms====
-* {{l|fi|tuota}}
-* {{l|fi|öö}}
+#: {{syn|fi|tuota|öö}}
 
 ===Anagrams===
 * {{anagrams|fi|atto-|otat|taot}}
@@ -75,10 +75,12 @@ Borrowed from {{bor|io|en|total}}, {{bor|io|fr|total}}, {{bor|io|de|total}}, {{b
 # [[whole]], [[entire]]
 
 ====Derived terms====
-* {{l|io|tote||entirely, perfectly, thoroughly}}
-* {{l|io|totala||total}}
-* {{l|io|totale||totally}}
-* {{l|io|entote||ensemble, altogether, on the whole, in all, in a body, bodily, overall}}
+{{der2
+|{{l|io|tote|pos=adv|t=entirely, perfectly, thoroughly}}
+|{{l|io|totala|pos=a|t=total}}
+|{{l|io|totale|pos=adv|t=totally}}
+|{{l|io|entote|pos=adv|t=ensemble, altogether, on the whole, in all, in a body, bodily, overall}}
+|lang=io}}
 
 ----
 
@@ -109,6 +111,4 @@ Borrowed from {{bor|io|en|total}}, {{bor|io|fr|total}}, {{bor|io|de|total}}, {{b
 {{sh-pronoun}}
 
 # {{lb|sh|Kajkavian}} [[this]] (one)
-
-====Synonyms====
-* {{l|sh|ta}}
+#: {{syn|sh|ta}}
