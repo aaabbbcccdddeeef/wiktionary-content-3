@@ -39,9 +39,9 @@ From {{etyl|fr|en}} {{m|fr|profil||a profile}}, from {{etyl|it|en}} {{m|it|profi
 * {{l|en|low-profile}}
 
 ====Translations====
-{{trans-top|the outermost shape, view, or edge of an object}}
+{{trans-top|outermost shape}}
 * Arabic: {{t|ar|حُدُود خَارِجِيَّة}}
-* Finnish: {{t+|fi|profiili}}, {{t|fi|ääriviivat|p}}, {{t+|fi|siluetti}}
+* Finnish: {{t+|fi|profiili}}, {{t|fi|ääriviiva}}
 * French: {{t+|fr|contour|m}}
 * Hungarian: {{t+|hu|körvonal}}
 * Japanese: {{t+|ja|輪郭|tr=rinkaku|sc=Jpan}}
@@ -52,7 +52,7 @@ From {{etyl|fr|en}} {{m|fr|profil||a profile}}, from {{etyl|it|en}} {{m|it|profi
 * Swedish: {{t+|sv|profil|c}}
 {{trans-bottom}}
 
-{{trans-top|the shape, view, or shadow of a person's head from the side}}
+{{trans-top|shape, view, or shadow of a person's head from the side}}
 * Arabic: {{t|ar|صُورَة جَانِبِيَّة|tr=ṣūra jānibiyya}}
 * Czech: {{t|cs|profil|m}}
 * Finnish: {{t+|fi|profiili}}, {{t|fi|sivukuva}}, {{t+|fi|siluetti}}
@@ -69,7 +69,7 @@ From {{etyl|fr|en}} {{m|fr|profil||a profile}}, from {{etyl|it|en}} {{m|it|profi
 * Turkish: {{t+|tr|profil}}
 {{trans-bottom}}
 
-{{trans-top|a summary or collection of information, especially about a person}}
+{{trans-top|summary or collection of information, especially about a person}}
 * Arabic: {{t|ar|سيرَة}}
 * Armenian: {{t|hy|հատկագիր|sc=Armn}}
 * Finnish: {{t+|fi|profiili}}, {{t|fi|henkilökuva}}
@@ -84,24 +84,20 @@ From {{etyl|fr|en}} {{m|fr|profil||a profile}}, from {{etyl|it|en}} {{m|it|profi
 * Swedish: {{t+|sv|profil|c}}
 {{trans-bottom}}
 
-{{trans-top|a space with personal information in software or Internet systems}}
+{{trans-top|space with personal information in software or Internet systems}}
 * Dutch: {{t+|nl|profiel}}
+* Finnish: {{t|fi|profiili}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|profil}}
 {{trans-bottom}}
 
-{{trans-top|reputation}}
-* Arabic: {{t|ar|سمعَة}}
-* French: {{t+|fr|réputation|f}}
-{{trans-mid}}
-* Japanese: {{t|ja|評判|tr=hyōban|sc=Jpan}}
-* Russian: {{t+|ru|про́филь|m}}
-{{trans-bottom}}
+{{trans-see|reputation}}
 
-{{trans-top|the amount by which something protrudes}}
+{{trans-top|amount by which something protrudes}}
 * Arabic: {{t|ar|بروز}}
-* Japanese: {{t|ja|プロファイル|tr=purofairu|sc=Jpan}}
+* Finnish: {{t|fi|profiili}}
 {{trans-mid}}
+* Japanese: {{t|ja|プロファイル|tr=purofairu|sc=Jpan}}
 * Russian: {{t+|ru|про́филь|m}}
 {{trans-bottom}}
 
@@ -111,6 +107,26 @@ From {{etyl|fr|en}} {{m|fr|profil||a profile}}, from {{etyl|it|en}} {{m|it|profi
 {{trans-mid}}
 * Japanese: {{t|ja|注目度|tr=chūmokudo|sc=Jpan}}
 * Russian: {{t+|ru|про́филь|m}}
+{{trans-bottom}}
+
+{{trans-top|archaeology: smoothed vertical surface of an excavation}}
+* Finnish: {{t+|fi|profiili}}, {{t|fi|leikkaus}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|totality of related characteristics}}
+* Finnish: {{t|fi|ominaisuudet|p}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|architecture: section of any member}}
+* Finnish: {{t+|fi|profiili}}, {{t|fi|poikkileikkaus}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|civil engineering: drawing exhibiting a vertical section of the ground}}
+* Finnish: {{t+|fi|profiili}}, {{t|fi|poikkileikkaus}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|military: exemption from duty}}
