@@ -26,7 +26,7 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 #: ''I burned three '''tanks''' of gas on the drive to New York.''
 # An [[armoured fighting vehicle]], armed with a gun in a [[turret]], and moving on [[caterpillar track]]s.
 # {{lb|en|Australian and Indian English}} A [[reservoir]] or dam.
-# {{lb|en|Southwestern US|chiefly|_|Texas}} A large metal container, usually placed near a wind-driven water pump, in an animal pen or field.
+# {{lb|en|Southwestern US|chiefly|_|Texas}} A large metal container for holding drinking water for animals, usually placed near a wind-driven water pump, in an animal pen or field.
 # {{lb|en|Southwestern US|chiefly|_|Texas}} By extension a small pond for the same purpose.
 # {{lb|en|slang}} A very muscular and physically imposing person. Somebody who is [[built like a tank]].
 # {{lb|en|role-playing games|board games|video games}} a unit or character designed primarily around damage absorption and holding the attention of the enemy (as opposed to dealing damage, healing, or other tasks)
@@ -118,7 +118,7 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 {{des-bottom}}
 
 =====Translations=====
-{{trans-top|closed container}}
+{{trans-top|closed container for fluids}}
 * Arabic: {{t|ar|فِنْطَاس|m}}
 * Burmese: {{t+|my|တိုင်ကီ}}
 * Catalan: {{t+|ca|tanc|m}}, {{t|ca|dipòsit|m}}
@@ -162,12 +162,17 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 * Welsh: {{t|cy|tank}}, {{t|cy|tanc}}
 {{trans-bottom}}
 
-{{trans-top|open container}}
-* Finnish: {{t+|fi|allas}}
+{{trans-top|open container for liquids}}
+* Finnish: {{t+|fi|allas}}, {{t|fi|säiliö}}
 * French: {{t+|fr|cuve|f}}, {{t+|fr|réservoir|m}}, {{t+|fr|aquarium|m}} {{qualifier|fish}}
 {{trans-mid}}
 * German: {{t+|de|Becken|n}}, {{t+|de|Tank|m}}
 * Vietnamese: {{t+|vi|bể}}
+{{trans-bottom}}
+
+{{trans-top|pond, pool, or small lake, natural or artificial}}
+* Finnish: {{t|fi|lampi}} {{q|natural}}; {{t|fi|allas}} {{q|artificial, or as technical term}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|fuel reservoir}}
@@ -177,6 +182,7 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 *: Mandarin: {{t+|cmn|箱|tr=xiāng|sc=Hani}}, {{t+|cmn|罐|tr=guàn|sc=Hani}}
 * Danish: {{t|da|tank|c}} {{qualifier|vehicle}}
 * Dutch: {{t+|nl|tank|m}}
+* Finnish: {{l|fi|polttoainesäiliö}}, {{t|fi|polttoainetankki}}, {{t|fi|tankki}}
 * French: {{t+|fr|réservoir|m}}, {{t+|fr|citerne|f}}
 * German: {{t+|de|Tank|m}}
 * Greek: {{t+|el|υδροταμιευτήρας|m}}
@@ -202,7 +208,7 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 
 {{trans-see|tankful}}
 
-{{trans-top|military armoured fighting vehicle}}
+{{trans-top|armoured fighting vehicle}}
 * Afrikaans: {{t|af|tenk}}
 * Albanian: {{t+|sq|tank|m}}
 * Arabic: {{t|ar|دَبَّابَة|f}}
@@ -225,7 +231,7 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 * Esperanto: {{t+|eo|tanko}}
 * Estonian: {{t+|et|tank}}
 * Faroese: {{t|fo|stríðsvognur|m}}
-* Finnish: {{t+|fi|panssarivaunu}}, {{t+|fi|tankki}}
+* Finnish: {{t+|fi|panssarivaunu}}; {{t+|fi|tankki}} {{lb|fi|colloquial}}
 * French: {{t+|fr|char de combat|m}}, {{t+|fr|tank|m}}, {{t+|fr|char d'assaut|m}}
 * Galician: {{t|gl|carro de combate|m}}
 * Georgian: {{t+|ka|ტანკი|sc=Geor}}
@@ -289,21 +295,19 @@ In the sense of armoured vehicle, to disguise their nature, prototypes were desc
 * Yiddish: {{t|yi|טאַנק|m}}
 {{trans-bottom}}
 
-{{trans-top|(Australian and Indian English) dam}}
-* French: {{t+|fr|réservoir|m}}
+{{trans-see|reservoir or dam|reservoir|dam}}
+
+{{trans-top|large metal container for water}}
+* Finnish: {{t|fi|vesisäiliö}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|(Southwestern US, chiefly Texas) large metal container in an animal pen}}
-{{trans-mid}}
-{{trans-bottom}}
-
-{{trans-top|(Southwestern US, chiefly Texas) small pond in an animal pen}}
+{{trans-top|small pond in an animal pen}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|muscular and physically imposing person}}
-* Finnish: {{t+|fi|kaappi}} {{qualifier|slang}}
+* Finnish: {{t+|fi|lihaskimppu}} 
 * Italian: {{t+|it|energumeno}}
 {{trans-mid}}
 * Swedish: {{t|sv|muskelknutte}}
