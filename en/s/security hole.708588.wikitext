@@ -1,4 +1,4 @@
-==English==
+== English ==
 {{wikipedia|vulnerability (computing)}}
 
 ===Noun===
@@ -14,4 +14,18 @@
 {{trans-mid}}
 * German: {{t+|de|Sicherheitslücke|f}}, {{t|de|Sicherheitsmangel|m}}
 * Icelandic: {{t|is|öryggisveila|f}}, {{t|is|öryggisbrestur|m}}
-{{trans-bottom}}
+{{trans-bottom}}Security holes are constantly discovered in all sorts of anti virus software and to plug them software vendors issue patches - also called "fixes" or just plainly "security updates" - to offer an immediate quick-repair solution for the problem and/or a general enhancement of the software.
+
+Flaws in Microsoft's software seem to be the most popular to exploit, so the American software giant releases a lot of patches. But other common desktop applications like Firefox, QuickTime, Real Player, Adobe Reader, Adobe Flash Player, and Sun Java Run-time Environment also need to be patched often to fix security issues.
+
+'''Fast working criminals'''
+
+Today's cyber-criminals are very fast at creating exploit code. When Microsoft issues patches, exploit code for the publicly disclosed vulnerabilities will usually appear the same or the next day. Hackers are able to do that through reverse engineering.
+
+In April 2008, a group of computer researchers urged Microsoft to redesign the way it distributes patches, after they created a technique that automatically produces attack code by comparing the vulnerable and repaired versions of a program.
+
+A well-known attack based on a security hole is Operation Aurora, a targeted malware attack against at least 30 major companies — including Google and Adobe — which exploited a zero-day flaw in Internet Explorer. The exploit allowed malware to load onto users' computers. Once loaded, the malware could take control of the computer to steal corporate intellectual property.
+
+loaded, the malware could take control of the computer to steal corporate intellectual property.
+
+In conclusion, using an automated tool, an exploit could be created in a few minutes or less after looking at the patch, according to the researchers. This means it is theoretically possible for hackers to start trying to exploit machines a short time after the attackers have received the patch, putting more PCs at risk of becoming infected with malicious software.
