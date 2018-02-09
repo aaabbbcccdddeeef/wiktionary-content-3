@@ -286,7 +286,16 @@ From {{inh|cs|sla-pro|*ěxati}}, ultimately from {{etyl|ine-pro|cs}} {{m|ine-pro
 # to [[go]] (by vehicle)
 
 ====Conjugation====
-{{cs-conj-jet|}}
+''Result''
+{{cs-conj-forms
+|pf 1s=jedu
+|pf 3s=jede
+|pf 3p=jedou
+|im 2s=jeď
+|past ms=jel
+|tr1 pres=jeda
+|tr2 pres=jedouc
+|future=po}}
 
 ====Derived terms====
 * {{l|cs|dojet}}
