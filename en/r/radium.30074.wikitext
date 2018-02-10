@@ -3,7 +3,7 @@
 {{elements|Ra|francium|Fr|actinium|Ac}}
 
 ===Etymology===
-[[radio-]] (from [[radioactive]]) + [[-ium]]
+{{af|en|radio-|sort=ium}} (from {{m|en|radioactive}}) + {{af|en|-ium}}
 
 ===Noun===
 {{en-noun|-}}
@@ -47,14 +47,7 @@
 {{rel-bottom}}
 
 ====Related terms====
-{{rel-top}}
-* {{l|en|radiation}}
-* {{l|en|radioactive}}
-* {{l|en|radioactivity}}
-{{rel-mid}}
-* {{l|en|radius}}
-* {{l|en|ray}}
-{{rel-bottom}}
+{{rel3|radiation|radioactive|radioactivity|radius|ray|lang=en}}
 
 ====Translations====
 {{trans-top|chemical element}}
@@ -63,7 +56,7 @@
 * Armenian: {{t+|hy|ռադիում}}
 * Asturian: {{t+|ast|radiu|m}}
 * Breton: {{t|br|radiom|m}}
-* Bulgarian: {{t|bg|радий|m|tr=radij}}
+* Bulgarian: {{t|bg|радий|m}}
 * Burmese: {{t-needed|my}}
 * Catalan: {{t+|ca|radi|m}}
 * Chinese:
@@ -82,7 +75,7 @@
 {{trans-mid}}
 * Greek: {{t+|el|ράδιο|n}}
 * Hebrew: {{t+|he|רדיום|tr=radiyum}}
-* Hindi: {{t|hi|तेजातु|tr=tejaatu|sc=Deva}}
+* Hindi: {{t|hi|तेजातु}}
 * Italian: {{t+|it|radio|m}}
 * Japanese: {{t+|ja|ラジウム|tr=rajiumu}}, {{t|ja|ラディウム|tr=radiumu}}
 * Korean: {{t+|ko|라듐}}
@@ -93,10 +86,11 @@
 * Portuguese: {{t+|pt|rádio|m}}
 * Romanian: {{t+|ro|radiu|n}}
 * Russian: {{t+|ru|ра́дий|m}}
-* Serbo-Croatian: {{t+|sh|radij|m}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|rȃdīj|m}}
 * Spanish: {{t+|es|radio|m}}
 * Swedish: {{t+|sv|radium}}
-* Tamil: {{t|ta|கருகன்|tr=karugan}}
+* Tamil: {{t|ta|கருகன்}}
 * Thai: {{t|th|เรเดียม}}
 * Turkish: {{t+|tr|radyum}}
 * Vietnamese: {{t|vi|rađi}}
@@ -124,7 +118,7 @@
 ===Noun===
 {{da-noun}}
 
-# radium
+# {{l|en|radium}}
 
 ----
 
@@ -138,7 +132,7 @@
 ===Noun===
 {{nl-noun|n|-|-}}
 
-# [[#English|radium]]
+# {{l|en|radium}}
 
 ----
 
@@ -148,7 +142,7 @@
 ===Noun===
 {{fi-noun}}
 
-# [[#English|radium]]
+# {{l|en|radium}}
 
 ====Declension====
 {{fi-decl-risti|n=sg|radium|||a|i=0}}
@@ -169,7 +163,7 @@
 ===Noun===
 {{fr-noun|m|-}}
 
-# [[#English|radium]]
+# {{l|en|radium}}
 
 ===Further reading===
 * {{R:TLFi}}
@@ -187,7 +181,7 @@
 ===Noun===
 {{la-noun|radium|radiī|n|second}}
 
-# [[#English|radium]]
+# {{l|en|radium}}
 # {{inflection of|radius||acc|s|lang=la}}
 
 ====Inflection====
@@ -202,7 +196,7 @@
 {{elements|Ra|fransium|Fr|aktinium|Ac|lang=ms}}
 
 ===Etymology===
-From {{etyl|en|ms}} {{m|en|radium}}.
+From {{der|ms|en|radium}}.
 
 ===Pronunciation===
 * {{IPA|[radiom]|[radiəm]|[rediəm]|lang=ms}}
@@ -211,4 +205,4 @@ From {{etyl|en|ms}} {{m|en|radium}}.
 ===Noun===
 {{head|ms|noun}}
 
-# [[#English|radium]] {{gloss|chemical element}}
+# {{l|en|radium}} {{gloss|chemical element}}
