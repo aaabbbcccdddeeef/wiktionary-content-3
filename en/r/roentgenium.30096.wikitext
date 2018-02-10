@@ -3,7 +3,7 @@
 {{elements|Rg|darmstadtium|Ds|copernicium|Cn}}
 
 ===Etymology===
-Surname of [[w:Wilhelm Roentgen|Wilhelm Roentgen]] {{suffix||ium|lang=en}}.
+Surname of [[w:Wilhelm Roentgen|Wilhelm Roentgen]] + {{af|en|-ium}}.
 
 ===Pronunciation===
 * {{audio|en-us-roentgenium.ogg|Audio (US)|lang=en}}
@@ -20,18 +20,19 @@ Surname of [[w:Wilhelm Roentgen|Wilhelm Roentgen]] {{suffix||ium|lang=en}}.
 * {{l|en|unununium}} {{qualifier|used before the element was officially named}}
 
 ====Related terms====
-* [[w:Wilhelm Roentgen|Roentgen]]
-* {{l|en|roentgen}}
-* {{l|en|roentgenate}}
+{{rel3|[[w:Wilhelm Roentgen|Roentgen]]
+|roentgen
+|roentgenate
+|lang=en}}
 
 ====Translations====
 {{trans-top|chemical element}}
 * Arabic: {{t|ar|رُونْتْجِينْيُوم|tr=rontginyum|m}}
 * Armenian: {{t|hy|ռենտգենիում}}
-* Bulgarian: {{t|bg|рьонтгений|sc=Cyrl}}
+* Bulgarian: {{t|bg|рьонтгений}}
 * Catalan: {{t+|ca|roentgeni|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|錀|sc=Hani}}, {{t+|cmn|𬬭|tr=lún|sc=Hani}}
+*: Mandarin: {{t+|cmn|錀}}, {{t+|cmn|𬬭|tr=lún}}
 * Czech: {{t+|cs|roentgenium}}
 * Dhivehi: {{t-needed|dv}}
 * Dutch: {{t+|nl|roentgenium|n}}
@@ -50,7 +51,7 @@ Surname of [[w:Wilhelm Roentgen|Wilhelm Roentgen]] {{suffix||ium|lang=en}}.
 {{trans-mid}}
 * Korean: {{t+|ko|뢴트게늄}}
 * Kurdish: {{t|ku|ûnûnûnyûm}}
-* Latin: roentgenium {{g|n}}<!--Neo-Latin-->
+* Latin: {{t-check|la|roentgenium|n}}<!--Neo-Latin-->
 * Latvian: {{t|lv|rentgenijs|m}}
 * Lithuanian: {{t+|lt|rentgenis|m}}
 * Malay: {{t|ms|roentgenium}}
@@ -60,14 +61,14 @@ Surname of [[w:Wilhelm Roentgen|Wilhelm Roentgen]] {{suffix||ium|lang=en}}.
 * Romanian: {{t+|ro|roentgeniu}}
 * Russian: {{t+|ru|рентге́ний|m}}
 * Serbo-Croatian: {{t|sh|roentgenij}}
-*: Cyrillic: {{t|sh|рентгенијум|m|sc=Cyrl}}, {{t|sh|рендгениј|m}}
+*: Cyrillic: {{t|sh|рентгенијум|m}}, {{t|sh|рендгениј|m}}
 *: Roman: {{t|sh|rentgenijum|m}}, {{t|sh|rendgenij|m}}
 * Spanish: {{t+|es|roentgenio|m}}
 * Swedish: {{t+|sv|röntgenium}}
-* Tamil: {{t|ta|யுனுனுனியம்|tr=yunununiyam}}
+* Tamil: {{t|ta|யுனுனுனியம்}}
 * Thai: {{t|th|เรินต์เกเนียม}}
 * Turkish: {{t+|tr|röntgenyum}}
-* Ukrainian: {{t|uk|унунуній|tr=ununúnij|m}}
+* Ukrainian: {{t|uk|унуну́ній|m}}
 * Volapük: {{t+|vo|röntgenin}}
 {{trans-bottom}}
 
