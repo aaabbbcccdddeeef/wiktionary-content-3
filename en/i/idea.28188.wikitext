@@ -480,23 +480,33 @@ From {{etyl|la|sk}} {{m|la|idea||a (Platonic) idea; archetype}}, from {{etyl|grc
 
 ==Spanish==
 
-===Etymology===
-From {{etyl|la|es}} {{m|la|idea}}, from {{etyl|grc|es}} {{m|grc|ἰδέα||notion, pattern}}, from {{m|grc|εἴδω||I see}}. Compare Portuguese {{m|pt|ideia}}.
-
 ===Pronunciation===
-* {{IPA|/iˈðea/|lang=es}}
+* {{es-IPA}}
 
-===Noun===
+===Etymology 1===
+From {{der|es|la|idea}}, from {{der|es|grc|ἰδέα||notion, pattern}}, from {{m|grc|εἴδω||I see}}. Compare Portuguese {{m|pt|ideia}}.
+
+====Noun====
 {{es-noun|f}}
 
-# [[#English|idea]]
+# {{l|en|idea}}
 
-===Verb===
+=====Related terms=====
+* {{l|es|ideal}}
+* {{l|es|idear}}
+
+===Etymology 2===
+{{nonlemma}}
+
+====Verb====
 {{head|es|verb form}}
 
 # {{es-verb form of|ending=ar|mood=imperative|sense=affirmative|pers=2|formal=no|number=singular|idear}}
 # {{es-verb form of|ending=ar|mood=indicative|tense=present|pers=2|formal=yes|number=singular|idear}}
 # {{es-verb form of|ending=ar|mood=indicative|tense=present|pers=3|number=singular|idear}}
+
+===Further reading===
+* {{R:DRAE 2001}}
 
 [[Category:Spanish basic words]]
 [[Category:es:Thinking]]
