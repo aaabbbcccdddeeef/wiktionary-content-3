@@ -1,9 +1,33 @@
 ==English==
+[[File:TooManyPigeons.jpg|right|thumb|An illustration of the '''pigeonhole principle''': with 10 pigeons in 9 pigeonholes, one hole contains two pigeons]]
+
+===Etymology===
+From the commonly used expository example that if ''n''+1 pigeons are placed in ''n'' pigeonholes, at least one pigeonhole must contain two (or more) pigeons.
 
 ===Noun===
-{{head|en|noun|head=the [[pigeonhole]] [[principle]]}} {{lb|en|singulare tantum}}
+{{en-noun|~}}
 
-# {{lb|en|mathematics}} A theorem which states that there does not exist an [[injective]] [[function]] on [[finite]] [[set]]s whose [[codomain]] is smaller than its [[domain]].
+# {{lb|en|mathematics}} The theorem which states that any [[partition]] of a [[finite]] [[set]] of ''n'' [[element]]s into ''m'' (< ''n'') [[subset]]s (allowing empty subsets) must include a subset with two or more elements; any of certain reformulations concerning the partition of infinite sets where the [[cardinality]] of the unpartitioned set exceeds that of the partition (so there is no one-to-one correspondence).
+#* '''1993''', David Gries, Fred B. Schneider, ''A Logical Approach to Discrete Math'', Springer, [https://books.google.com.au/books?id=103UBwAAQBAJ&pg=PA355&dq=%22pigeonhole+principle%22%7C%22pigeonhole+principles%22&hl=en&sa=X&ved=0ahUKEwiG673FhL7ZAhWJhZAKHV4uBSkQ6AEIKjAB#v=onepage&q=%22pigeonhole%20principle%22%7C%22pigeonhole%20principles%22&f=false page 355],
+#*: The '''pigeonhole principle''' is usually stated as follows.
+#*: (16.43)&nbsp;&nbsp;&nbsp;&nbsp; If more than ''n'' pigeons are placed in ''n'' holes, at least one hole will contain more than one pigeon.
+#*: The '''pigeonhole principle''' is obvious, and one may wonder what it has to do with computer science or mathematics.
+#* '''2009''', John Harris, Jeffry L. Hirst, Michael Mossinghoff, ''Combinatorics and Graph Theory'', Springer, [https://books.google.com.au/books?id=DfcQaZKUVLwC&pg=PA313&dq=%22pigeonhole+principles%22&hl=en&sa=X&ved=0ahUKEwimmdLShL7ZAhWGlJAKHdWqDicQ6AEIPjAE#v=onepage&q=%22pigeonhole%20principles%22&f=false page 313],
+#*: Of course our list of '''pigeonhole principles''' is not all inclusive. For example, more set theoretic '''pigeonhole principles''' are given in [72].
+#*: '''Corollary 3.31''' (Ultimate '''Pigeonhole Principle'''). ''The following are equivalent:''
+#*:: ''1. κ is a {{w|regular cardinal}}.''
+#*:: ''2. If we put κ pigeons into λ < κ pigeonholes, then some pigeonhole must contain κ pigeons.''
+#* '''2012''', {{w|Dov M. Gabbay}}, {{w|Akihiro Kanamori}}, {{w|John Woods (logician)|John Woods}} (editors), ''Handbook of the History of Logic: Volume 6: Sets and Extensions in the Twentieth Century'', Elevier (North-Holland), [https://books.google.com.au/books?id=RBrWwKVbmMUC&pg=PA325&dq=%22pigeonhole+principles%22&hl=en&sa=X&ved=0ahUKEwimmdLShL7ZAhWGlJAKHdWqDicQ6AEISzAG#v=onepage&q=%22pigeonhole%20principles%22&f=false page 325],
+#*: As we turn to look at various '''pigeonhole principles''' and how they are used to prove partition theorems, particularly for pairs, we keep in mind the slogan that is embedded in the Motzkin quote: complete disorder is impossible.
+
+====Usage notes====
+An alternative formulation is that ''the [[codomain]] of an [[injective]] [[function]] on [[finite]] [[set]]s cannot be smaller than its [[domain]]''.
+With this formulation, no restatement is necessary when infinite sets are considered.
+
+The plural, strictly speaking, refers to ''formulations'' of the theorem.
+
+====Synonyms====
+* {{sense|theorem limiting size of codomains}} {{l|en|Dirichlet's box principle}}, {{l|en|Dirichlet's drawer principle}}
 
 ====Translations====
 {{trans-top|combinatorial theorem}}
@@ -13,4 +37,8 @@
 {{trans-bottom}}
 
 ====Further reading====
-* {{pedia}}
+* {{pedialite|Pigeonhole principle}}
+* {{pedialite|Multinomial theorem#Interpretations}}
+* {{pedialite|Ramsey's theorem}}
+* {{pedialite|Dedekind-infinite set}}
+* {{pedialite|Hilbert's paradox of the Grand Hotel}}
