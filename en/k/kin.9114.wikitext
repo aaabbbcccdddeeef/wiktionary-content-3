@@ -23,23 +23,21 @@ From {{inh|en|enm|kin}}, {{m|enm|kyn}}, {{m|enm|ken}}, {{m|enm|kun}}, from {{inh
 # Kind; [[sort]]; [[manner]]; [[way]].
 
 =====Derived terms=====
-{{der-top3}}
-* {{l|en|akin}}
-* {{l|en|kind}}
-* {{l|en|kindred}}
-* {{l|en|kinfolk}}
-* {{l|en|kinhood}}
-{{der-mid3}}
-* {{l|en|kinship}}
-* {{l|en|kinsman}}
-* {{l|en|kinstate}}
-* {{l|en|kinswoman}}
-{{der-mid3}}
-* {{l|en|kith and kin}}
-* {{l|en|next of kin}}
-* {{l|en|otakukin}}
-* {{l|en|otherkin}}
-{{der-bottom}}
+{{der3|lang=en
+|akin
+|kind
+|kindred
+|kinfolk
+|kinhood
+|kinship
+|kinsman
+|kinstate
+|kinswoman
+|kith and kin
+|next of kin
+|otakukin
+|otherkin
+}}
 
 =====Translations=====
 {{trans-see|relative}}
@@ -48,20 +46,20 @@ From {{inh|en|enm|kin}}, {{m|enm|kyn}}, {{m|enm|ken}}, {{m|enm|kun}}, from {{inh
 * Armenian: {{t+|hy|ցեղ}}, {{t+|hy|տոհմ}}
 *: Old Armenian: {{t|xcl|ցեղ}}, {{t|xcl|տոհմ}}, {{t|xcl|զարմ}}
 * Chinese:
-*: Mandarin: {{t+|cmn|親屬|sc=Hani}}, {{t+|cmn|亲属|tr=qīnshǔ|sc=Hani}}, {{t+|cmn|親族|sc=Hani}}, {{t+|cmn|亲族|tr=qīnzú|sc=Hani}}
+*: Mandarin: {{t+|cmn|親屬}}, {{t+|cmn|亲属|tr=qīnshǔ}}, {{t+|cmn|親族}}, {{t+|cmn|亲族|tr=qīnzú}}
 * Dutch: {{t+|nl|verwanten}}
 * Faroese: {{t|fo|ættarfólk|n-p}}
 * Finnish: {{t+|fi|suku}}
-* French: {{t+|fr|proche|alt=proches|m-p}}, {{t+|fr|parenté|f}}
+* French: {{t+|fr|[[proche]]s|m-p}}, {{t+|fr|parenté|f}}
 * German: {{t+|de|Verwandtschaft|f}}, {{t+|de|Verwandte|p}}
 * Greek: {{t+|el|συγγενείς|m-p|f-p}}, {{t+|el|οικογένεια|f}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|rokonság}}
 * Icelandic: {{t|is|ættmenni|n-p}}, {{t|is|skyldmenni|n-p}}
-* Japanese: {{t+|ja|親族|tr=しんぞく, shinzoku|sc=Jpan}}
+* Japanese: {{t+|ja|親族|tr=しんぞく, shinzoku}}
 * Maori: {{t|mi|ngare}}, {{t|mi|huānga}}
 * Portuguese: {{t|pt|parentagem|f}}
-* Russian: {{t+|ru|родня́|f}}, {{t+|ru|родственник|alt=ро́дственники|m-p}}, {{t+|ru|родич|alt=ро́дичи|m-p}}, {{t+|ru|сородич|alt=соро́дичи|m-p}}
+* Russian: {{t+|ru|родня́|f}}, {{t+|ru|[[ро́дственник]]и|m-p}}, {{t+|ru|[[ро́дич]]и|m-p}}, {{t+|ru|[[соро́дич]]и|m-p}}
 * Scottish Gaelic: {{t|gd|càirdeas|m}}
 * Slovene: {{t|sl|sorodstvo|n}}
 * Tagalog: {{t|tl|hinlog}}
@@ -69,8 +67,8 @@ From {{inh|en|enm|kin}}, {{m|enm|kyn}}, {{m|enm|ken}}, {{m|enm|kun}}, from {{inh
 {{trans-bottom}}
 
 =====See also=====
-* {{l|en|kith}}
-* {{l|en|clan}}
+* [[kith]]
+* [[clan]]
 
 =====Further reading=====
 * {{projectlink|1911|Kin}}
@@ -128,12 +126,12 @@ From {{inh|en|enm|kin}}, {{m|enm|kyn}}, {{m|enm|ken}}, {{m|enm|kun}}, from {{inh
 ==Afrikaans==
 
 ===Etymology===
-From {{etyl|nl|af}} {{m|nl|kin}}.
+From {{inh|af|nl|kin}}, from {{inh|af|dum|kinne}}, from {{inh|af|odt|kinni}}, from {{inh|af|gem-pro|*kinnuz}}, from {{inh|af|ine-pro|*ǵénus}}.
 
 ===Noun===
 {{af-noun|kinne}}
 
-# {{l|en|chin}}
+# [[chin]]
 
 ----
 
@@ -194,7 +192,7 @@ From {{inh|nl|dum|kinne}}, from {{inh|nl|odt|kinni}}, from {{inh|nl|gem-pro|*kin
 {{cardinalbox|io|4|5|6|quar|sis|ord=kinesma|adv=kinfoye|mult=kinopla|frac=kinima|wplink=5_(nombro)}}
 
 ===Etymology===
-From {{etyl|fr|io}} {{m|fr|cinq}}, {{etyl|es|io}} {{m|es|cinco}}, {{etyl|it|io}} {{m|it|cinque}}, ultimately from {{etyl|ine-pro|io}} {{m|ine-pro|*pénkʷe}}.
+From {{der|io|fr|cinq}}, {{der|io|es|cinco}}, {{der|ioit|cinque}}, ultimately from {{der|io|ine-pro|*pénkʷe}}.
 
 ===Numeral===
 {{head|io|numeral}}
@@ -281,7 +279,7 @@ Compare {{cog|dgr|kǫ̀}}.
 ==West Frisian==
 
 ===Etymology 1===
-Borrowed from {{etyl|gml|fy}} {{m|gml|kinne}}, {{m|gml|kin}}, from {{etyl|osx|fy}} {{m|osx|kinni}}, from {{etyl|gem-pro|fy}} {{m|gem-pro|*kinnuz}}. Compare also Dutch {{m|nl|kin}}. Compare Old Frisian {{m|ofs|zin}}, English {{m|en|chin}}.
+Borrowed from {{bor|fy|gml|kinne}}, {{m|gml|kin}}, from {{der|fy|osx|kinni}}, from {{der|fy|gem-pro|*kinnuz}}. Compare also {{cog|nl|kin}}. Compare {{cog|ofs|zin}}, {{cog|en|chin}}.
 
 ====Noun====
 {{head|fy|noun}}
