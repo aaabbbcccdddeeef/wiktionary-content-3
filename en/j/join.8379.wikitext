@@ -184,37 +184,27 @@ From {{inh|en|enm|joinen}}, {{m|enm|joynen}}, {{m|enm|joignen}}, from {{bor|en|f
 ====Hyponyms====
 {{hyp4
 |ANSI join
+|antijoin
+|autojoin
 |comparator-based join
 |cross join
+|equijoin
 |equi-join
+|explicit join
+|hash join
+|implicit join
 |inner join
+|left join
 |natural join
 |outer join
+|right join
 |self join
+|semijoin
 |straight join
+|theta join
 |[[three-table|three-table join]]
-|[[two-table|three-table join]]
+|[[two-table|two-table join]]
 |lang=en}}
-
-====Derived terms====
-{{rel-top3|Terms derived from ''join'' (noun)}}
-* {{l|en|antijoin}}
-* {{l|en|autojoin}}
-* {{l|en|cross join}}
-* {{l|en|equijoin}}
-* {{l|en|explicit join}}
-{{rel-mid3}}
-* {{l|en|hash join}}
-* {{l|en|implicit join}}
-* {{l|en|inner join}}
-* {{l|en|left join}}
-* {{l|en|natural join}}
-{{rel-mid3}}
-* {{l|en|outer join}}
-* {{l|en|right join}}
-* {{l|en|semijoin}}
-* {{l|en|theta join}}
-{{rel-bottom}}
 
 ====Translations====
 {{trans-top|an intersection of piping or wiring; an interconnect}}
