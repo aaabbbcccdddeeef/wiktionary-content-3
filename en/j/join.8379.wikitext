@@ -182,7 +182,19 @@ From {{inh|en|enm|joinen}}, {{m|enm|joynen}}, {{m|enm|joignen}}, from {{bor|en|f
 * {{sense|lowest upper bound}} {{l|en|meet}}
 
 ====Hyponyms====
-* {{list:database joins/en}}
+{{hyp4
+|ANSI join
+|comparator-based join
+|cross join
+|equi-join
+|inner join
+|natural join
+|outer join
+|self join
+|straight join
+|[[three-table|three-table join]]
+|[[two-table|three-table join]]
+|lang=en}}
 
 ====Derived terms====
 {{rel-top3|Terms derived from ''join'' (noun)}}
