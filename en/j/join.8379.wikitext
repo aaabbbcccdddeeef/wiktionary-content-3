@@ -8,6 +8,73 @@ From {{inh|en|enm|joinen}}, {{m|enm|joynen}}, {{m|enm|joignen}}, from {{bor|en|f
 * {{IPA|/ˈdʒɔɪn/|lang=en}}
 * {{rhymes|ɔɪn|lang=en}}
 * {{audio|en-us-join.ogg|Audio (US)|lang=en}}
+* {{hyphenation|join|lang=en}}
+
+===Noun===
+{{en-noun}}
+
+# An intersection of piping or wiring; an [[interconnect]].
+# {{lb|en|computing|databases}} An [[intersection]] of [[data]] in two or more [[database]] [[table]]s.
+# {{lb|en|algebra}} The lowest upper bound, an operation between pairs of elements in a [[lattice]], denoted by the symbol {{m|mul|∨}}.
+
+====Antonyms====
+* {{sense|lowest upper bound}} {{l|en|meet}}
+
+====Hyponyms====
+{{hyp4
+|ANSI join
+|antijoin
+|autojoin
+|comparator-based join
+|cross join
+|equijoin
+|equi-join
+|explicit join
+|hash join
+|implicit join
+|inner join
+|left join
+|natural join
+|outer join
+|right join
+|self join
+|semijoin
+|straight join
+|theta join
+|[[three-table|three-table join]]
+|[[two-table|two-table join]]
+|lang=en}}
+
+====Derived terms====
+{{der2
+|disjoin
+|self-join
+|lang=en}}
+
+====Translations====
+{{trans-top|an intersection of piping or wiring; an interconnect}}
+* Catalan: {{t+|ca|unió}}
+* Chinese:
+*: Mandarin: {{t+|cmn|連接}}, {{t+|cmn|连接|tr=liánjiē}}
+* Dutch: {{t+|nl|verbinding}}
+* French: {{t+|fr|jointure|f}}
+* German: {{t+|de|Verbindung|f}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|kötés}}, {{t+|hu|csatlakozás}}, {{t|hu|toldás}}
+* Japanese: {{t|ja|接続|tr=setsuzoku}}, {{t+|ja|結合|tr=ketsugō}}
+* Macedonian: {{t|mk|спојка|f}}, {{t|mk|спојница|f}}, {{t|mk|спој|m}}
+* Portuguese: {{t+|pt|conexão|f}}
+* Russian: {{t+|ru|соедине́ние|n}}, {{t+|ru|стык|m}}
+{{trans-bottom}}
+
+{{trans-top|an intersection of data}}
+* French: {{t+|fr|jointure|f}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|junção|f}}
+{{trans-bottom}}
+
+===References===
+* {{pedia}}
 
 ===Verb===
 {{en-verb}}
@@ -165,74 +232,11 @@ From {{inh|en|enm|joinen}}, {{m|enm|joynen}}, {{m|enm|joignen}}, from {{bor|en|f
 * Catalan: {{t-check|ca|afegir}}, {{t-check|ca|ajuntar}}
 * French: {{t+check|fr|rejoindre}}
 * {{ttbc|de}}: [[verbinden]] (1), sich [[treffen]] (2), sich [[anschließen]] (3), [[beitreten]] (4)
-{{trans-mid}}
+{{checktrans-mid}}
 * Hebrew: {{t-needed|he}}
 * {{ttbc|sl}}: [[združiti]] (1,2), [[pridružiti]] se (3,4)
 * Spanish: {{t+check|es|juntar}}
-{{trans-bottom}}
-
-===Noun===
-{{en-noun}}
-
-# An intersection of piping or wiring; an [[interconnect]].
-# {{lb|en|computing|databases}} An [[intersection]] of [[data]] in two or more [[database]] [[table]]s.
-# {{lb|en|algebra}} The lowest upper bound, an operation between pairs of elements in a [[lattice]], denoted by the symbol {{m|mul|∨}}.
-
-====Antonyms====
-* {{sense|lowest upper bound}} {{l|en|meet}}
-
-====Hyponyms====
-{{hyp4
-|ANSI join
-|antijoin
-|autojoin
-|comparator-based join
-|cross join
-|equijoin
-|equi-join
-|explicit join
-|hash join
-|implicit join
-|inner join
-|left join
-|natural join
-|outer join
-|right join
-|self join
-|semijoin
-|straight join
-|theta join
-|[[three-table|three-table join]]
-|[[two-table|two-table join]]
-|lang=en}}
-
-====Derived terms====
-* {{l|en|disjoin}}
-
-====Translations====
-{{trans-top|an intersection of piping or wiring; an interconnect}}
-* Catalan: {{t+|ca|unió}}
-* Chinese:
-*: Mandarin: {{t+|cmn|連接}}, {{t+|cmn|连接|tr=liánjiē}}
-* Dutch: {{t+|nl|verbinding}}
-* French: {{t+|fr|jointure|f}}
-* German: {{t+|de|Verbindung|f}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|kötés}}, {{t+|hu|csatlakozás}}, {{t|hu|toldás}}
-* Japanese: {{t|ja|接続|tr=setsuzoku}}, {{t+|ja|結合|tr=ketsugō}}
-* Macedonian: {{t|mk|спојка|f}}, {{t|mk|спојница|f}}, {{t|mk|спој|m}}
-* Portuguese: {{t+|pt|conexão|f}}
-* Russian: {{t+|ru|соедине́ние|n}}, {{t+|ru|стык|m}}
-{{trans-bottom}}
-
-{{trans-top|an intersection of data}}
-* French: {{t+|fr|jointure|f}}
-{{trans-mid}}
-* Portuguese: {{t+|pt|junção|f}}
-{{trans-bottom}}
-
-===References===
-* {{pedia}}
+{{checktrans-bottom}}
 
 [[Category:English basic words]]
 
