@@ -202,12 +202,12 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf|t=life, existence
 *: Syriac: {{t|arc|ܚܝܐ|m-p|tr=ħayē}}
 * Armenian: {{t+|hy|կյանք|sc=Armn}}
 * Aromanian: {{t|rup|banã|f}}, {{t|rup|yeatsã|f}}
-* Assamese: {{t+|as|জীউ}}, {{t+|as|জীৱন|tr=ziwon|sc=Beng}}, {{t+|as|জান}}, {{t+|as|পৰাণ}}
+* Assamese: {{t+|as|জীউ}}, {{t+|as|জীৱন|sc=Beng}}, {{t+|as|জান}}, {{t+|as|পৰাণ}}
 * Asturian: {{t|ast|vida|f}}
 * Azerbaijani: {{t+|az|həyat}}
 * Bashkir: {{t|ba|тормош|sc=Cyrl}}
 * Basque: {{t|eu|bizi}}
-* Belarusian: {{t|be|жыццё|n|sc=Cyrl}}, {{qualifier|Taraškievica}} {{t|be|жыцьцё|n|sc=Cyrl}}
+* Belarusian: {{t|be|жыццё|n|sc=Cyrl}}, {{t|be|жыцьцё|n|sc=Cyrl}} {{qualifier|Taraškievica}}
 * Bengali: {{t|bn|জীবন|sc=Beng}}
 * Berber:
 *: Tashelhit: {{t|shi|tudrt|f}}
@@ -225,7 +225,7 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf|t=life, existence
 *: Min Nan: {{t+|nan|性命|tr=sèⁿ-miā, sìⁿ-miā|sc=Hani}}, {{t+|nan|生活|tr=seⁿ-o̍ah, seng-o̍ah|sc=Hani}}
 * Chuvash: {{t|cv|пурнӑҫ|sc=Cyrl}}
 * Classical Nahuatl: {{t|nci|yōliliztli}}, {{t|nci|nemiliztli}}
-* Coptic: {{t|cop|ⲱⲛϧ|sc=Copt}}
+* Coptic: {{t|cop|ⲱⲛϧ|m|sc=Copt}}
 * Czech: {{t+|cs|život|m}}
 * Dalmatian: {{t|dlm|vaita|f}}
 * Danish: {{t+|da|liv|n}}
@@ -236,9 +236,9 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf|t=life, existence
 * Elfdalian: {{t|ovd|liv|n}}
 * Esperanto: {{t+|eo|vivo}}
 * Estonian: {{t+|et|elu}}
-* Ewe: {{t|ee|agbe|n}}
+* Ewe: {{t|ee|agbe}}
 * Faroese: {{t|fo|lív|n}}
-* Finnish: {{t+|fi|elämä}}, (''when its safety is questioned'') {{t+|fi|henki}}
+* Finnish: {{t+|fi|elämä}}, {{t+|fi|henki}} {{qualifier|When its safety is questioned}}
 * Franco-Provençal: {{t|frp|via|f}}
 * French: {{t+|fr|vie|f}}
 * Friulian: {{t|fur|vite|f}}
@@ -247,9 +247,9 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf|t=life, existence
 * German: {{t+|de|Leben|n}}
 *: Alemannic German: {{t|gsw|Läbe|n}}
 * Greek: {{t+|el|ζωή|f|sc=Grek}}
-*: Ancient: {{t|grc|ζωή|f}}, {{t|grc|βίος|m}}, {{t|grc|ψῡχή}}
+*: Ancient: {{t|grc|ζωή|f}}, {{t|grc|βίος|m}}, {{t|grc|ψῡχή|f}}
 * Greenlandic: {{t|kl|inuuneq}}
-* Gujarati: {{t|gu|જીવન|sc=Gujr}}
+* Gujarati: {{t|gu|જીવન|n|sc=Gujr}}
 * Hawaiian: {{t|haw|ola}}
 * Hebrew: {{t+|he|חַיִּים|m-p|tr=khayím}}
 * Hindi: {{t|hi|ज़िंदगी|f|sc=Deva}}, {{t+|hi|जीवन|m|sc=Deva}}, {{t+|hi|हयात|f|sc=Deva}}, {{t+|hi|जी|m|sc=Deva}}, {{t+|hi|प्राण|f|sc=Deva}}
@@ -271,24 +271,26 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf|t=life, existence
 * Khakas: {{t|kjh|чуртас}}
 * Khmer: {{t+|km|ជីវិត|tr=jīweut|sc=Khmr}}
 * Korean: {{t+|ko|생명}} ({{t+|ko|生命}}), {{t+|ko|삶}}, {{t+|ko|생활}}
-* Kurdish: {{t+|ku|jiyan|f}}, {{t+|ku|ژیان|sc=ku-Arab}}
+* Kurdish: 
+*: Kurmanji: {{t+|ku|jiyan|f}}
+*: Sorani: {{t+|ku|ژیان|f|sc=ku-Arab}}
 * Kyrgyz: {{t+|ky|өмүр}}, {{t+|ky|турмуш}}
 * Ladin: {{t|lld|vita|f}}
 * Lao: {{t+|lo|ຊີວິດ|sc=Laoo}}
 * Latgalian: {{t|ltg|dzeive|f}}
 {{trans-mid}}
 * Latin: {{t+|la|vīta|f}}, {{t+|la|lux|f}}
-* Latvian: {{t+|lv|dzīve}}
-* Lithuanian: {{t+|lt|gyvenimas}}
+* Latvian: {{t+|lv|dzīve|f}}
+* Lithuanian: {{t+|lt|gyvenimas|m}}
 * Luxembourgish: {{t|lb|Liewen|n}}
 * Macedonian: {{t|mk|живот|m}}, {{t|mk|живеење|n}}
 * Malay: {{t|ms|hidup}}, {{t|ms|kehidupan}}, {{t|ms|nyawa}}, {{t|ms|hayat}}
 * Malayalam: {{t+|ml|ജീവിതം}}
-* Maltese: {{t|mt|ħajja}}
+* Maltese: {{t|mt|ħajja|f}}
 * Manchu: {{t|mnc|ᡝᡵᡤᡝᠨ|tr=ergen}}
 * Manx: {{t|gv|bea|f}}
 * Maori: {{t|mi|koiora}}, {{t|mi|ora}}
-* Marathi: {{t|mr|जीवन|sc=Deva}}
+* Marathi: {{t|mr|जीवन|m|sc=Deva}}
 * Mirandese: {{t|mwl|bida|f}}
 * Moksha: {{t|mdf|эряф}}
 * Mongolian: {{t+|mn|амь}}, {{t+|mn|амьдрал}}
@@ -302,13 +304,13 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf|t=life, existence
 * Occitan: {{t+|oc|vida|f}}
 * Okinawan: {{t|ryu|いぬち|tr=ʔinuci}}
 * Old Church Slavonic: {{t|cu|животъ|m|sc=Cyrs}}, {{t|cu|жизнь|f|sc=Cyrs}}
-* Old English: {{t|ang|līf}}
+* Old English: {{t|ang|līf|n}}
 * Ossetian: {{t|os|цард|sc=Cyrl}}
-* Pashto: {{t+|ps|ژوند|m|tr=žwәnd|sc=ps-Arab}}, {{t+|ps|حيات|tr=hayãt}}
+* Pashto: {{t+|ps|ژوند|m|tr=žwәnd|sc=ps-Arab}}, {{t+|ps|حيات|tr=hayãt|m}}
 * Persian: {{t+|fa|زندگی|tr=zendegi, zindagi}}, {{t+|fa|زنده|tr=zende|sc=fa-Arab}}, {{t+|fa|حیات|tr=hayât}}
 * Polish: {{t+|pl|życie|n}}
 * Portuguese: {{t+|pt|vida|f}}
-* Punjabi: {{t|pa|ਜੀਵਨ|sc=Guru}}
+* Punjabi: {{t|pa|ਜੀਵਨ|m|sc=Guru}}
 * Quechua: {{t+|qu|kawsay}}
 * Romani: {{t|rom|trajo|m}}, {{t|rom|zhuvipe|m}}
 * Romanian: {{t+|ro|viață|f}}
@@ -333,12 +335,12 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf|t=life, existence
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|žywjenje|n}}
 *: Upper Sorbian: {{t|hsb|žiwjenje|n}}
-* Southern Altai: {{t|alt|јӱрӱм|tr=cürüm|sc=Cyrl}},{{t|alt|ӧмӱр}}('''''Kizhi''''')
+* Southern Altai: {{t|alt|јӱрӱм|sc=Cyrl}}, {{t|alt|ӧмӱр}} {{qualifier|Kizhi}}
 * Spanish: {{t+|es|vida|f}}
 * Sumerian: {{t|sux|𒍣|tr=ZI|sc=Xsux}}
 * Svan: {{t|sva|ლიდრე}}
-* Swahili: {{t+|sw|uhai}}, {{t+|sw|maisha}}
-* Swedish: {{t+|sv|liv}}
+* Swahili: {{t+|sw|uhai|c11|c12}}, {{t+|sw|maisha|c5|c6}}
+* Swedish: {{t+|sv|liv|n}}
 * Tajik: {{t+|tg|ҳаёт}}, {{t+|tg|зиндагӣ}}
 * Tamil: {{t+|ta|உயிர்|sc=Taml}}, {{t+|ta|வாழ்க்கை|sc=Taml}}
 * Tatar: {{t+|tt|тереклек}}, {{t+|tt|тормыш}}
@@ -353,14 +355,14 @@ From {{inh|en|enm|lif}}, {{m|enm|lyf}}, from {{inh|en|ang|līf|t=life, existence
 * Urdu: {{t+|ur|زندگی|f|tr=zindagī|sc=ur-Arab}}, {{t|ur|جیون|m|tr=jīvan|sc=ur-Arab}}, {{t+|ur|حیات|f|tr=hayāt|sc=ur-Arab}}
 * Uyghur: {{t|ug|ھايات|sc=ug-Arab}}
 * Uzbek: {{t+|uz|hayot}}
-* Venetian: {{t|vec|vita}}
+* Venetian: {{t|vec|vita|f}}
 * Veps: {{t|vep|elo}}
 * Vietnamese: {{t+|vi|đời sống}}
 * Votic: {{t|vot|elo}}
 * Võro: {{t|vro|elo}}
 * Walloon: {{t+|wa|veye|f}}
-* Welsh: {{t+|cy|bywyd}}
-* West Frisian: {{t|fy|libben}}
+* Welsh: {{t+|cy|bywyd|m}}
+* West Frisian: {{t|fy|libben|n}}
 * Yiddish: {{t|yi|לעבן|n|sc=Hebr}}
 * Zhuang: {{t|za|sengmingh}}, {{t|za|mingh}}, {{t|za|ndwenngoenz}}
 * Zulu: {{t+|zu|ukuphila}}
