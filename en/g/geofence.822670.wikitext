@@ -1,25 +1,31 @@
 ==English==
+{{was wotd|2018|May|30}}
 
 ===Etymology===
-{{prefix|geo|fence|lang=en}}
+{{prefix|en|geo|fence}}.
+
+===Pronunciation===
+* {{a|RP}} {{IPA|/ˈdʒiːəʊfɛns/|/ˈdʒiːə-/|lang=en}}
+* {{a|GA}} {{IPA|/ˈdʒioʊfɛns/|/ˈdʒiːə-/|lang=en}}
+* {{hyphenation|geo|fence|lang=en}}
 
 ===Noun===
 {{en-noun}}
 
-# A [[virtual]] [[perimeter]] around a [[geographic]] [[area]], typically enforced by [[monitor]]ing the positions of [[trackable]] [[mobile device]]s inside or outside the area, and determining if they cross the fence.
-#* PetsMobility, in a document quoted in ''The Geopolitics of American Insecurity: Terror, Power and Foreign Policy'' (François Debrix, Mark J. Lacy), page 101:
-#*: Establish a remote programmable '''geofence''' around a yard or campus, and use handy notification features that alert your cell phone when a breach occurs.
-#* {{quote-text|year=2011|author=Chuck Martin|title=The Third Screen: Marketing to Your Customers in a World Gone Mobile|page=144|passage=A '''geofence''' could be a mile or more around a store or it could be fifty feet from the front door, whatever the business decides.}}
-#* {{quote-text|year=2012|author=Dan Burges|title=Cargo Theft, Loss Prevention, and Supply Chain Security|passage=It is recommended that the load be monitored actively or that alerts in the event of a '''geofence''' break be sent to an offsite monitoring service in addition to the shipper's point of contact in order to expedite the escalation {{...}}}}
+# {{lb|en|computing}} A [[virtual]] [[perimeter]] around a [[geographic]] [[area]], typically [[enforce]]d by [[monitor#Verb|monitoring]] the [[position#Noun|positions]] of [[trackable]] [[mobile device]]s inside or outside the area, and [[determine|determining]] if they [[cross#Verb|cross]] the "fence".
+#* {{quote-journal|magazine=[[w:PC Magazine|PC Magazine: The Independent Guide to IBM-standard Personal Computing]]|location=New York, N.Y.|publisher=PC Communications Corporation|year=1986|volume=23|page=82|column=2|issn=0888-8507|oclc=854802590|passage=To make the location data more useful to its customers, uLocate has developed some enhancements. For instance, users can set up "'''geofences'''" around specific locations; when a phone enters or leaves that area, an alert is triggered. This could be used to let parents know, by e-mail or SMS, when a child reaches school.}}
+#* {{quote-book|author=Mark J. Lacy|chapter=Designing Security: Control Society and MoMA’s ''SAFE: Design Takes on Risk''|editors=François Debrix and Mark J. Lacy|title=The Geopolitics of American Insecurity: Terror, Power and Foreign Policy|series=PRIO New Security Studies|location=Abingdon, Oxon.; New York, N.Y.|publisher={{w|Routledge}}|year=2009|page=101|pageurl=https://books.google.com/books?id=kb6mw3glvZMC&pg=PA101|isbn=978-0-415-46042-2|passage=A company like PetsMobility produces the "PetsCell," a "revolutionary waterproof A-GPS CDMA cell phone for your Pet" (as the company puts it). PetsMobility declares that / there's no hiding with the PetsCell™. {{...}} Establish a remote programmable '''geofence''' around a yard or campus, and use handy notification features that alert your cell phone when a breach occurs.}}
+#* {{quote-book|author=Chuck Martin|title=The Third Screen: Marketing to Your Customers in a World Gone Mobile|location=Boston, Mass.|publisher=[[w:John Murray (publisher)|Nicholas Brealey]]|year=2011|page=144|isbn=978-1-85788-564-4|passage=A '''geofence''' could be a mile or more around a store or it could be fifty feet from the front door, whatever the business decides.}}
+#* {{quote-book|author=Dan Burges|chapter=In-transit Security|title=Cargo Theft, Loss Prevention, and Supply Chain Security|location=Waltham, Mass.; Kidlington, Oxford|publisher={{w|Butterworth-Heinemann}}|year=2013|page=207|pageurl=https://books.google.com/books?id=qzUmf_KoMSAC&pg=PA207|isbn=978-0-12-416007-1|passage=In the event that the secured lot and locking systems emplaced fail to keep a load from being stolen, by emplacing a '''geofence''' (or electronic boundary) around the stationary load, the user or a control center can be notified immediately when the load begins to move and crosses the electronic boundary, which allows for an immediate response protocol, which can enhance the chances for recovery exponentially.}}
+
+====Alternative forms====
+* {{l|en|geo-fence}}
 
 ===Verb===
 {{en-verb|geofenc|es}}
 
-# {{lb|en|transitive}} To provide a geofence around (an area).
-#* {{quote-web
-|date=2017-04-23
-|author=Andrew Liptak
-|title=Uber tried to fool Apple and got caught
-|work=The Verge
-|url=https://www.theverge.com/2017/4/23/15399438/apple-uber-app-store-fingerprint-program-tim-cook-travis-kalanick
-|passage=The practice, called fingerprinting, is prohibited by Apple. To prevent the company from discovering the practice, Uber '''geofenced''' Apple headquarters in Cupertino, changing its code so that it would be hidden from Apple Employees.}}
+# {{lb|en|transitive|computing}} To provide a geofence around (an area).
+#* {{quote-web|author=Andrew Liptak|title=Uber tried to fool Apple and got caught: Uber geofenced Apple’s Cupertino headquarters to hide that it was tracking iPhones|url=https://www.theverge.com/2017/4/23/15399438/apple-uber-app-store-fingerprint-program-tim-cook-travis-kalanick|archiveurl=https://web.archive.org/web/20180212074653/https://www.theverge.com/2017/4/23/15399438/apple-uber-app-store-fingerprint-program-tim-cook-travis-kalanick|archivedate=12 February 2018|work={{w|The Verge}}|date=23 April 2017|passage=The practice, called fingerprinting, is prohibited by Apple. To prevent the company from discovering the practice, Uber '''geofenced''' Apple headquarters in Cupertino, changing its code so that it would be hidden from Apple Employees.}}
+
+===Further reading===
+* {{pedia|geo-fence}}
