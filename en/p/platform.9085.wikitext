@@ -1,5 +1,4 @@
 ==English==
-{{wikipedia|platform|mul=platform (geology)}}
 
 ===Etymology===
 From {{der|en|frm|plate-forme||a [[flat]] [[form]]}}, from {{m|frm|plate||flat}} (from {{der|en|fro|plat}}, from {{der|en|grc|πλατύς||flat}}) + {{m|frm|forme||form}} (from {{der|en|la|forma|fōrma|[[shape]]; [[figure]]; form}}); compare {{m|en|flatscape}}.
@@ -49,27 +48,29 @@ From {{der|en|frm|plate-forme||a [[flat]] [[form]]}}, from {{m|frm|plate||flat}}
 * {{l|en|podium}}
 
 ====Hyponyms====
-* {{l|en|island platform}}
-* {{l|en|oil platform}}
-* {{l|en|work platform}}
+{{hyp4
+|container platform
+|island platform
+|microservices platform
+|oil platform
+|work platform
+|lang=en}}
 
 ====Derived terms====
-{{der4|lang=en|{{l|en|cross-platform}}
-|{{l|en|no-platform}}
-|{{l|en|platformer}}
-|{{l|en|platforming}}
-|{{l|en|puzzle-platform}}
-}}
-
-====Related terms====
-{{rel4|lang=en|{{l|en|platform balance}}
-|{{l|en|platform bed}}
-|{{l|en|platform car}}
-|{{l|en|platform game}}
-|{{l|en|platform rocker}}
-|{{l|en|platform scale}}
-|{{l|en|platform ticket}}
-}}
+{{der4
+|cross-platform
+|no-platform
+|platformer
+|platforming
+|puzzle-platform
+|platform balance
+|platform bed
+|platform car
+|platform game
+|platform rocker
+|platform scale
+|platform ticket
+|lang=en}}
 
 ====Translations====
 {{trans-top|stage for speeches and performances}}
@@ -257,10 +258,14 @@ From {{der|en|frm|plate-forme||a [[flat]] [[form]]}}, from {{m|frm|plate||flat}}
 {{checktrans-top}}
 * Danish: {{t-check|da|perron|c}}
 * Old English: {{t-check|ang|yppe|f}}
-{{trans-mid}}
+{{checktrans-mid}}
 * Spanish: {{t-check|es|plataforma|f}}
 * {{ttbc|sv}}: [[plattform]] {{g|c}}
-{{trans-bottom}}
+{{checktrans-bottom}}
+
+===References===
+* {{pedia|platform|mul=platform (geology)}}
+
 
 ===Verb===
 {{en-verb}}
