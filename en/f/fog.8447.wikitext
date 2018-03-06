@@ -409,7 +409,7 @@ From {{inh|hu|urj-pro|*piŋe||tooth}}. Cognates include {{cog|mns|пуӈк|tr=pu
 {{hu-noun|ak}}
 
 # {{lb|hu|anatomy}} [[tooth]]
-#: ''Ez a '''fog''' lyukas.'' - This '''tooth''' has a cavity.
+#: {{ux|hu|Ez a '''fog''' lyukas.|This '''tooth''' has a cavity.|inline=1}}
 # [[tooth]], [[cog]]
 #: ''Egy átlagos hegyikerékpár hátsó fogaskerekein rendre 11, 13, 15, 18, 21, 24, 34 '''fog'''ak vannak.'' - There are 11, 13, 15, 18, 21, 24 and 34 [[teeth]] on a standard [[mountain bike]]'s rear [[sprockets]].
 # [[tooth]] {{gloss|a sharp [[projection]] on a [[saw]] or similar implement}}
@@ -419,23 +419,29 @@ From {{inh|hu|urj-pro|*piŋe||tooth}}. Cognates include {{cog|mns|пуӈк|tr=pu
 {{hu-infl-nom|foga|o}}{{hu-pos-atok|fog||ai}}
 
 =====Derived terms=====
-* {{l|hu|fogas}}
-* {{l|hu|fogász}}
-* {{l|hu|fogatlan}}
-{{qualifier|Compound words}}:
-* {{l|hu|bölcsességfog}}
-* {{l|hu|fogkefe}}
-* {{l|hu|fogkrém}}
-* {{l|hu|fogorvos}}
-* {{l|hu|fogselyem}}
-* {{l|hu|fogszabályzó}}
-* {{l|hu|fogtündér}}
-* {{l|hu|fogzománc}}
-* {{l|hu|tejfog}}
-* {{l|hu|zápfog}}
-{{qualifier|Expressions}}:
-* {{l|hu|ajándék lónak ne nézd a fogát}}
-* {{l|hu|foggal-körömmel}}
+{{der4|lang=hu
+|fogas
+|fogász
+|fogatlan
+|fogú
+}}
+{{der4|lang=hu|title=Compound words
+|bölcsességfog
+|foggal-körömmel
+|fogkefe
+|fogkrém
+|fogmeder
+|fogorvos
+|fogselyem
+|fogszabályzó
+|fogtündér
+|fogzománc
+|tejfog
+|zápfog
+}}
+{{der4|lang=hu|title=Expressions
+|ajándék lónak ne nézd a fogát
+}}
 
 ===Etymology 2===
 From {{inh|hu|urj-ugr-pro|*puŋɜ-||to grasp, catch}}. Cognates include {{cog|mns|пуви|tr=puwi, puγi, puw-, puγ-}}.<ref>{{R:Uralonet|1830}}</ref><ref>{{R:Zaicz 2006}}</ref>
