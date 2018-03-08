@@ -453,7 +453,7 @@ From {{der|fr|en|test}}, itself from Old French
 ==Hungarian==
 
 ===Etymology===
-Of unknown origin.
+{{unk.|title=Of unknown origin.|lang=hu}}<ref>{{R:Zaicz 2006}}</ref>
 
 ===Pronunciation===
 * {{hu-IPA}}
@@ -463,7 +463,7 @@ Of unknown origin.
 ===Noun===
 {{hu-noun|ek}}
 
-# [[body]]
+# {{lb|hu|anatomy}} [[body]]
 # {{lb|hu|geometry}} [[solid]] {{gloss|three-dimensional figure}}
 # {{lb|hu|algebra}} [[field]] {{gloss|commutative ring}}
 {{wikipedia|lang=hu|Test (algebra)}}
@@ -472,26 +472,31 @@ Of unknown origin.
 {{hu-infl-nom|teste|e}}{{hu-pos-etek|test||ei}}
 
 ====Derived terms====
-* {{l|hu|testes}}
-* {{l|hu|testi}}
-* {{l|hu|testű}}
-{{qualifier|Compound words}}:
-* {{l|hu|forgástest}}
-* {{l|hu|holttest}}
-* {{l|hu|testalkat}}
-* {{l|hu|testápolás}}
-* {{l|hu|testépítés}}
-* {{l|hu|testnevelés}}
-* {{l|hu|testőr}}
-* {{l|hu|testvér}}
-{{qualifier|Expressions}}:
-* {{l|hu|a lélek kész, de a test erőtlen}}
-* {{l|hu|arkhimédészi test}}
-* {{l|hu|platóni test}}
-* {{l|hu|testre szab}}
+{{der4|lang=hu
+|testes
+|testi
+|testű
+}}
+{{der4|lang=hu|title=Compound words
+|forgástest
+|holttest
+|testalkat
+|testápolás
+|testépítés
+|testnevelés
+|testőr
+|testvér
+|vértest
+}}
+{{der4|lang=hu|title=Expressions
+|a lélek kész, de a test erőtlen
+|arkhimédészi test
+|platóni test
+|testre szab
+}}
 
-[[Category:Hungarian terms with unknown etymologies]]
-[[Category:hu:Anatomy]]
+===References===
+<references/>
 
 ----
 
