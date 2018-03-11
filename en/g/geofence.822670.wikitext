@@ -2,6 +2,8 @@
 {{was wotd|2018|May|30}}
 
 ===Etymology===
+[[File:GeoFence.jpg|thumb|A map showing two geofence [[zone#Noun|zones]] defined in {{w|Golden Gate Park}}, [[San Francisco]], [[California]], USA, by a [[global positioning system]] [[application]]]]
+
 {{prefix|en|geo|fence}}.
 
 ===Pronunciation===
@@ -21,11 +23,16 @@
 ====Alternative forms====
 * {{l|en|geo-fence}}
 
+====Derived terms====
+* {{l|en|geofencing|pos=noun}}
+
 ===Verb===
 {{en-verb|geofenc|es}}
 
 # {{lb|en|transitive|computing}} To provide a geofence around (an area).
+#* {{quote-book|author=Martin O'Hanlon|author2=David Whale|chapter=Adventure 10: The Minecraft Lift|title=Adventures in Minecraft|location=Chichester, West Sussex|publisher={{w|John Wiley & Sons}}|year=2015|page=BC20|pageurl=https://books.google.com/books?id=uvY8BQAAQBAJ&pg=PA20|isbn=978-1-118-94691-6|passage=In this adventure you have built the hardware and software for a fully functional passenger lift, just like the lifts inside real buildings. By doing this, you have used many of the skills you learnt by working through all of the adventures in this book, including sensing the players' position, '''geo-fencing''' the lift shaft, moving the player, building blocks automatically, sensing when a block has been hit, interfacing with electronic circuits, using Python lists, developing and testing a program one step at a time, and many more amazing things!}}
 #* {{quote-web|author=Andrew Liptak|title=Uber tried to fool Apple and got caught: Uber geofenced Apple’s Cupertino headquarters to hide that it was tracking iPhones|url=https://www.theverge.com/2017/4/23/15399438/apple-uber-app-store-fingerprint-program-tim-cook-travis-kalanick|archiveurl=https://web.archive.org/web/20180212074653/https://www.theverge.com/2017/4/23/15399438/apple-uber-app-store-fingerprint-program-tim-cook-travis-kalanick|archivedate=12 February 2018|work={{w|The Verge}}|date=23 April 2017|passage=The practice, called fingerprinting, is prohibited by Apple. To prevent the company from discovering the practice, Uber '''geofenced''' Apple headquarters in Cupertino, changing its code so that it would be hidden from Apple Employees.}}
+#* {{quote-book|author=Dawn Dunkerley|title=CompTIA Security+ Exam SY0-501|series=Mike Meyers’ Certification Passport|edition=5th|location=New York, N.Y.|publisher={{w|McGraw-Hill Education}}|year=2018|page=414|isbn=978-1-260-02655-9|passage=In this case, you could use the GPS to "'''geo-fence'''" the area, and implement access control measures that track where devices are located within the facility, alerting you when mobile devices enter unapproved areas.}}
 
 ===Further reading===
 * {{pedia|geo-fence}}
