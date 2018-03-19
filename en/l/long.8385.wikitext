@@ -9,6 +9,7 @@
 * {{audio|en-uk-long.ogg|Audio (UK): {{IPAchar|[ˈlɒŋ]}}|lang=en}}
 * {{audio|en-us-long.ogg|Audio (US): {{IPAchar|[ˈlɑŋ]}}|lang=en}}
 * {{rhymes|ɒŋ|lang=en}}
+* {{hyphenation|long|lang=en}}
 
 ===Etymology 1===
 From {{inh|en|enm|long}}, {{m|enm|lang}}, from {{inh|en|ang|longe}}, {{m|ang|long}}, {{m|ang|lang||long, tall, lasting}}, from {{inh|en|gem-pro|*langaz||long}}, from {{inh|en|ine-pro|*dl̥h₁gʰós||long}}. Cognate with {{cog|sco|lang||long}}, {{cog|frr|long}}, {{m|frr|lung||long}}, {{cog|stq|loang||long}}, {{cog|no|-}}, {{cog|fy|-}}, {{cog|nl|-}} and {{cog|de|lang||long}}, {{cog|sv|lång||long}}, {{cog|is|langur||long}}, {{cog|gl|longo||long}}, {{cog|es|luengo||long}}, {{cog|la|longus||long}}, {{cog|grc|δολιχός}}, {{cog|ru|до́лгий}}, {{m|ru|дли́нный}}.
@@ -61,33 +62,34 @@ From {{inh|en|enm|long}}, {{m|enm|lang}}, from {{inh|en|ang|longe}}, {{m|ang|lon
 * {{sense|finance}} {{l|en|short}}
 
 =====Hyponyms=====
-{{hyp4|lang=en|title=Hyponyms of ''long'' (long duration)
-|{{l|en|daylong}}
-|{{l|en|day-long}}
-|{{l|en|dayslong}}
-|{{l|en|days-long}}
-|{{l|en|decadelong}}
-|{{l|en|decade-long}}
-|{{l|en|decades-long}}
-|{{l|en|five-decade-long}}
-|{{l|en|fortnight-long}}
-|{{l|en|hour-long}}
-|{{l|en|hours-long}}
-|{{l|en|kilometer-long}}
-|{{l|en|km-long}}
-|{{l|en|month-long}}
-|{{l|en|months-long}}
-|{{l|en|weeklong}}
-|{{l|en|week-long}}
-|{{l|en|weeks-long}}
-|{{l|en|yearlong}}
-|{{l|en|year-long}}
-|{{l|en|yearslong}}
-|{{l|en|years-long}}
-}}
+{{hyp4|title=Hyponyms of ''long'' (long duration)
+|daylong
+|day-long
+|dayslong
+|days-long
+|decadelong
+|decade-long
+|decades-long
+|five-decade-long
+|fortnight-long
+|hour-long
+|hours-long
+|kilometer-long
+|km-long
+|long-standing 
+|month-long
+|months-long
+|weeklong
+|week-long
+|weeks-long
+|yearlong
+|year-long
+|yearslong
+|years-long
+|lang=en}}
 
 =====Derived terms=====
-{{der4|lang=en|a long time coming
+{{der4|a long time coming
 |as the day is long
 |long arm of the law
 |long drum
@@ -108,10 +110,11 @@ From {{inh|en|enm|long}}, {{m|enm|lang}}, from {{inh|en|ang|longe}}, {{m|ang|lon
 |long-time
 |long vehicle
 |long-waisted
-|[[long wave]], [[longwave]]
+|long wave
+|longwave
 |long white radish
 |the long and short
-}}
+|lang=en}}
 
 =====Translations=====
 {{trans-top|having much distance from one point to another}}
@@ -367,7 +370,7 @@ From {{inh|en|enm|long}}, {{m|enm|lang}}, from {{inh|en|ang|longe}}, {{m|ang|lon
 * Korean: (1) {{t+check|ko|길다|sc=Kore}}, {{t+check|ko|멀다|sc=Kore}}
 * Kurdish: {{t+check|ku|dirêj}}, {{t+check|ku|درێژ}}
 * Latin: {{t+check|la|longus}}
-{{trans-mid}}
+{{checktrans-mid}}
 * Lithuanian: {{t+check|lt|ilgas}}
 * Mongolian: {{t-check|mn|ᠤᠷᠲᠤ}}
 * Persian: {{t+check|fa|بُلَند|tr=bolænd}}
@@ -377,7 +380,7 @@ From {{inh|en|enm|long}}, {{m|enm|lang}}, from {{inh|en|ang|longe}}, {{m|ang|lon
 * Slovene: {{t+check|sl|dolg}}
 * Spanish: {{t+check|es|largo}}
 * Telugu: {{t+check|te|పొడవైన}}
-{{trans-bottom}}
+{{checktrans-bottom}}
 
 ====Adverb====
 {{en-adv|er}}
@@ -471,9 +474,9 @@ From {{inh|en|enm|long}}, {{m|enm|lang}}, from {{inh|en|ang|longe}}, {{m|ang|lon
 
 {{checktrans-top}}
 * Korean: {{t+check|ko|길이|sc=Kore}}, {{t+check|ko|오래|sc=Kore}}
-{{trans-mid}}
+{{checktrans-mid}}
 * Spanish: {{t+check|es|mucho}}, {{t+check|es|harto}}
-{{trans-bottom}}
+{{checktrans-bottom}}
 
 =====See also=====
 * {{l|en|far}}
