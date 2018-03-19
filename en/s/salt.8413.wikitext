@@ -479,12 +479,12 @@ From {{der|en|enm|salt}}, from {{der|en|ang|sealt}}, from {{der|en|gem-pro|*salt
 #: ''to '''salt''' fish, beef, or pork''; ''to '''salt''' the city streets in the winter''
 # {{lb|en|intransitive}} To deposit salt as a saline solution.
 #: ''The brine begins to '''salt'''.''
-# {{lb|en|mining}} To blast gold into {{qualifier|as a portion of a mine}} in order to cause to appear to be a productive seam.
-# {{lb|en|cryptography}} To add filler bytes before encrypting, in order to make brute-force decryption more resource-intensive.
-# To include colorful language in.
-# To insert or inject something into an object to give it properties it would not naturally have.
-# {{lb|en|archaeology}} To add [[bogus]] evidence to an archeological site.
 # To fill with salt between the timbers and planks, as a ship, for the [[preservation]] of the [[timber]].
+# To insert or inject something into an object to give it properties it would not naturally have.
+## {{lb|en|mining}} To blast gold into {{qualifier|as a portion of a mine}} in order to cause to appear to be a productive seam.
+## {{lb|en|archaeology}} To add [[bogus]] evidence to an archeological site.
+# To include colorful language in.
+# {{lb|en|cryptography}} To add filler bytes before encrypting, in order to make brute-force decryption more resource-intensive.
 
 ====Antonyms====
 * {{sense|add salt}} {{l|en|desalt}}
@@ -549,8 +549,8 @@ From {{der|en|enm|salt}}, from {{der|en|ang|sealt}}, from {{der|en|gem-pro|*salt
 * Zazaki: {{t|zza|solnaene}}
 {{trans-bottom}}
 
-{{trans-top|to add filler bytes before encryption}}
-* Swahili: {{t+|sw|chumvi}}
+{{trans-top|to add something into an object}}
+* Finnish: {{t+|fi|terästää}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -563,8 +563,8 @@ From {{der|en|enm|salt}}, from {{der|en|ang|sealt}}, from {{der|en|gem-pro|*salt
 * Swedish: {{t+|sv|krydda}}
 {{trans-bottom}}
 
-{{trans-top|to add something into an object}}
-* Finnish: {{t+|fi|terästää}}
+{{trans-top|to add filler bytes before encryption}}
+* Swahili: {{t+|sw|chumvi}}
 {{trans-mid}}
 {{trans-bottom}}
 
