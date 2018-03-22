@@ -46,33 +46,84 @@ Borrowed from {{bor|en|grc|στέμμα}}.
 
 ==Icelandic==
 
-===Etymology===
-From {{der|is|non|stemma|t=to halt, to dam}}, from {{der|is|gem-pro|*stammijaną}}. Compare {{cog|sv|stämma|t=to block}}, {{cog|ang|gistemen|t=to restrain}}, {{cog|en|stem}} and {{cog|en|stammer}}
-
 ===Pronunciation===
 * {{IPA|/ˈstɛmːa/|lang=is}}
 * {{rhymes|ɛmːa|lang=is}}
 
-===Verb===
+===Etymology 1===
+From {{der|is|non|stemma|t=to halt, to dam}}, from {{der|is|gem-pro|*stammijaną}}. Compare {{cog|sv|stämma|t=to block}}, {{cog|ang|gistemen|t=to restrain}}, {{cog|en|stem}} and {{cog|en|stammer}}.
+
+====Verb====
 {{is-verb-weak|stemmdi|stemmt}}
 
-# to [[stop]]
-# to [[fit]], to [[agree]] with, to [[accede]], to [[correspond]] to, to [[coincide]]
-# {{lb|is|music|of an instrument}} to [[tune]]
+# to [[stop]], [[block]], [[stem]]
 
-====Conjugation====
+=====Conjugation=====
 {{is-conj-w2|st|e|mm|mp=-}}
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|stop}} {{l|is|stífla}}
-* {{sense|fit, agree with}} {{l|is|koma heim}}
-* {{sense|tune}} {{l|is|stilla}}
 
-====Derived terms====
+=====Derived terms=====
 * {{l|is|stemma stigu við}}
 * {{l|is|stemmdur}}
 
-{{attention|is|add noun, etymology, expand senses}}
+===Etymology 2===
+Derived from the verb {{m|is|stemma}} (1) or the related adjective {{m|is|stamur}}, which shows variation between {{m|is|-m-}} and {{m|is|-mm-}} in the stem; compare {{cog|got|𐍃𐍄𐌰𐌼𐌼𐍃}}.
+
+====Noun====
+{{is-noun|f|stemmu|stemmur}}
+
+# [[dam]]
+# [[stiffness]]
+# [[moistness]]
+
+=====Declension=====
+{{is-decl-noun-f-w1|st|e|mm}}
+
+===Etymology 3===
+From {{bor|is|da|stemme}}, from {{der|is|gml|stemmen}}. Related to {{m|is|stemma||melody [for a ballad]}} (4).
+
+====Verb====
+{{is-verb-weak|stemmdi|stemmt}}
+
+# to [[fit]], to [[agree]] (with something), to [[correspond]] (to something), to [[coincide]]
+# {{lb|is|music|of an instrument}} to be [[in tune]]
+# {{lb|is|music}} to [[tune]] (an instrument)
+
+=====Conjugation=====
+{{is-conj-w1|st|e|mm|mp=-}}
+
+=====Synonyms=====
+* {{sense|fit, agree with}} {{l|is|koma heim}}, {{l|is|koma heim og saman}}, {{l|is|passa}}
+* {{sense|tune}} {{l|is|stilla}}
+
+===Etymology 4===
+From {{bor|is|da|stemme||voice; musical part; vote}}.
+
+====Noun====
+{{is-noun|f|stemmu|stemmur}}
+
+# {{lb|is|obsolete}} a musical [[voice]] or [[sound]]
+# a [[melody]], generally for ballads ({{m|is|ríma|rímur}})
+# {{lb|is|obsolete}} [[vote]] {{gloss|instance of participating in a formalized choice by a group}}
+
+=====Declension=====
+{{is-decl-noun-f-w1|st|e|mm}}
+
+===Etymology 5===
+From {{bor|is|la|stemma||garland, wreath; pedigree, family tree}}, from {{der|is|grc|στέμμα||garland, wreath}}.
+
+====Noun====
+{{is-noun|n|stemma|stemmu}}
+
+# {{lb|is|stemmatics}} [[#English|stemma]] {{gloss|diagram showing the relationship of variants of a text}}
+
+=====Declension=====
+{{is-decl-noun-n-w|st|e|mm}}
+
+===References===
+* {{R:is:Íslensk orðsifjabók|stemma}}
 
 ----
 
