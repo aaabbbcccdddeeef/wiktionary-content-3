@@ -14,6 +14,13 @@ From {{etyl|grc|en}} {{m|grc|κάππα}}.
 {{en-noun}}
 
 # The tenth letter of the Greek alphabet.
+# {{lb|en|finance}} A measurement of the sensitivity of the value of an [[option]] to changes in the implied [[volatility]] of the price of the [[underlying]] [[asset]].
+
+====Synonyms====
+* {{sense|measure of derivative price sensitivity}} {{l|en|tau}}, {{l|en|vega}}
+
+====Hypernyms====
+* {{sense|measure of derivative price sensitivity}} {{l|en|Greeks}} {{qualifier|includes list of coordinate terms}}
 
 =====Translations=====
 {{trans-top|Greek letter}}
