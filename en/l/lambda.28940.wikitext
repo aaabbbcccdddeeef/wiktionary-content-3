@@ -18,6 +18,7 @@ From {{etyl|grc|en}} {{m|grc|λάμβδα}}.
 # {{lb|en|computing|programming}} A [[lambda expression]].
 # {{lb|en|anatomy}} The junction of the [[lambdoid]] and [[sagittal]] [[suture]]s of the [[cranium]]
 # {{lb|en|physics}} A [[lambda baryon]]
+# {{lb|en|finance}} The percentage change in an [[option]] value divided by the percentage change in the [[underlying]] [[asset]]'s [[price]].
 
 ====Derived terms====
 {{der-top}}
@@ -30,6 +31,12 @@ From {{etyl|grc|en}} {{m|grc|λάμβδα}}.
 * {{l|en|lambdoid}}
 * {{l|en|lamda}}
 {{der-bottom}}
+
+====Synonyms====
+* {{sense|measure of derivative price sensitivity}} {{l|en|elasticity}}, {{l|en|omega}}
+
+====Hypernyms====
+* {{sense|measure of derivative price sensitivity}} {{l|en|Greeks}} {{qualifier|includes list of coordinate terms}}
 
 ====Translations====
 {{trans-top|name of the Greek letter}}
