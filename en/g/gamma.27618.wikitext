@@ -18,7 +18,10 @@
 # {{lb|en|mathematics}} A [[constant]] approximately equal to 0.55721566, symbolized by γ (also known as the [[w:Euler–Mascheroni constant|Euler–Mascheroni constant]]).
 # {{lb|en|physics}} A unit of magnetic [[field]] equal to 1 [[nT]].
 # {{lb|en|industries}} slope of log-log plot of video input and luminance output.
-# {{lb|en|finance}} The rate of change in [[delta]] with respect to changes in underlying [[price]].
+# {{lb|en|finance}} A [[second-order]] measure of [[derivative]] price sensitivity, expressed as the rate of change in [[delta]] with respect to changes in the [[underlying]] [[asset]] [[price]].
+
+====Hypernyms====
+* {{sense|measure of derivative price sensitivity}} {{l|en|Greeks}} {{qualifier|includes list of coordinate terms}}
 
 ====Derived terms====
 {{der-top}}
