@@ -24,6 +24,7 @@ From {{etyl|la|en}} {{m|la|spectrum||appearance, image, apparition}}, from {{m|l
 # {{lb|en|chemistry}} The pattern of [[absorption]] or [[emission]] of [[radiation]] produced by a substance when subjected to energy (radiation, heat, electricity, etc.).
 # {{lb|en|mathematics|linear algebra}} The set of [[eigenvalue]]s of a [[matrix]].
 # {{lb|en|mathematics|functional analysis}} Of a [[bounded]] [[linear operator]] ''A'', the set of [[scalar]] values λ such that the [[operator]] ''A—λI'', where ''I'' denotes the identity operator, does not have a bounded [[inverse]]; intended as a generalisation of the linear algebra sense.
+# {{lb|en|abstract algebra|algebraic geometry}} The set, denoted Spec(''R''), of all [[prime ideal]]s of a given [[ring]] ''R'', commonly augmented with a [[Zariski topology]] and considered as a [[topological space]].
 
 ====Derived terms====
 * {{l|en|light spectrum}}
