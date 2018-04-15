@@ -113,7 +113,7 @@ When the word "poor" is used to express pity, it does not change the meaning of 
 * Esperanto: {{t|eo|malriĉa}}
 * Estonian: {{t|et|vaene}}
 * Faroese: {{t|fo|fátækur}}
-* Finnish: {{t+|fi|köyhä}}, {{t+|fi|varaton}}
+* Finnish: {{t+|fi|köyhä}}
 * French: {{t+|fr|pauvre}}
 * Friulian: {{t|fur|puar}}, {{t|fur|pùar}}
 * Galician: {{t+|gl|pobre}}
@@ -211,7 +211,47 @@ When the word "poor" is used to express pity, it does not change the meaning of 
 * Yiddish: {{t|yi|אָרעם}}
 {{trans-bottom}}
 
-{{trans-top|to be pitied}}
+{{trans-top|of low quality}}
+* Armenian: {{t+|hy|վատ}}, {{t+|hy|ստից}} {{qualifier|colloquial}}
+* Bulgarian: {{t+|bg|лош}}
+* Catalan: {{t+|ca|pobre}}
+* Chinese:
+*: Mandarin: {{t+|cmn|貧乏}}, {{t+|cmn|贫乏|tr=pínfá}}
+* Czech: {{t+|cs|nevalný}}
+* Finnish: {{t|fi|huono}}, {{t+|fi|kehno}}, {{t+|fi|heikkolaatuinen}}, {{t|fi|surkea}}
+* French: {{t+|fr|piètre}}
+* Galician: {{t+|gl|pobre|m|f}}
+* German: {{t+|de|armselig}}
+* Greek: {{t+|el|φτωχός}}
+* Hungarian: {{t+|hu|szegényes}}
+* Ido: {{t|io|nebona}}
+* Indonesian: {{t+|id|buruk}}
+* Irish: {{t|ga|bocht}}
+* Italian: {{t+|it|misero}}
+* Japanese: {{t|ja|劣る|tr=otoru}}, {{t+|ja|拙い|tr=mazui, tsutanai}}, {{t|ja|粗末|tr=somatsu na|alt=粗末な}}, {{t+|ja|下手|alt=下手な|tr=heta na}}
+* Kurdish:
+*: Sorani: {{t|ku|خه‌راپ}}, {{t|ku|بێ قیمه‌ت}}
+{{trans-mid}}
+* Luxembourgish: {{t+|lb|aarmséileg}}
+* Macedonian: {{t|mk|лош}}
+* Malay: {{t|ms|teruk}}
+* Norwegian: {{t+|no|dårlig}}, {{t|no|elendig}}
+* Old English: {{t|ang|earm}}
+* Polish: {{t+|pl|nędzny|m}}
+* Portuguese: {{t+|pt|fraco|m}}, {{t+|pt|ruim}}
+* Romanian: {{t+|ro|prost|m}}, {{t+|ro|slab|m}}
+* Russian: {{t+|ru|плохо́й}}, {{t+|ru|сла́бый}}, {{t+|ru|убо́гий}}
+* Scottish Gaelic: {{t|gd|bochd}}
+* Slovene: {{t+|sl|slàb}}
+* Spanish: {{t+|es|pobre}}
+* Swedish: {{t+|sv|dålig}}, {{t+|sv|undermålig}}, {{t+|sv|eländig}}, {{t+|sv|miserabel}}, {{t+|sv|usel}}
+* Telugu: {{t+|te|నాసి}}, {{t|te|నాసి రకం}}
+* Turkish: {{t+|tr|berbat}}, {{t+|tr|zayıf}}, {{t+|tr|kötü}}
+* Ukrainian: {{t+|uk|пога́ний}}
+* Walloon: {{t+|wa|pôve}}, {{t+|wa|fayé}}, {{t+|wa|saké}}
+{{trans-bottom}}
+
+{{trans-top|used to express pity}}
 * Arabic: {{t|ar|مِسْكِين}}
 * Armenian: {{t+|hy|խեղճ}}, {{t+|hy|ողորմելի}}
 * Asturian: {{t|ast|probe}}
@@ -222,7 +262,7 @@ When the word "poor" is used to express pity, it does not change the meaning of 
 * Danish: {{t|da|stakkels}}
 * Dutch: {{t+|nl|arm}}, {{t+|nl|arme}}, {{t+|nl|beklagenswaardig}}
 * Esperanto: {{t|eo|bedaŭrinda}}, {{t|eo|kompatinda}}
-* Finnish: {{t+|fi|raukka}}, {{t|fi|rukka}}, {{t|fi|poloinen}}, {{t|fi|rassu}}
+* Finnish: {{t+|fi|raukka}}, {{t|fi|rukka}}, {{t|fi|rassu}}, {{t|fi|raasu}}, {{t|fi|poloinen}}
 * French: {{t+|fr|pitoyable}}, {{t+|fr|pauvre}}
 * Galician: {{t+|gl|pobre}}
 * Georgian: {{t|ka|საწყალი}}
@@ -260,44 +300,19 @@ When the word "poor" is used to express pity, it does not change the meaning of 
 * West Frisian: {{t|fy|earm}}
 {{trans-bottom}}
 
-{{trans-top|of low quality}}
-* Armenian: {{t+|hy|վատ}}, {{t+|hy|ստից}} {{qualifier|colloquial}}
-* Bulgarian: {{t+|bg|лош}}
-* Catalan: {{t+|ca|pobre}}
-* Chinese:
-*: Mandarin: {{t+|cmn|貧乏}}, {{t+|cmn|贫乏|tr=pínfá}}
-* Czech: {{t+|cs|nevalný}}
-* Finnish: {{t+|fi|kehno}}, {{t+|fi|heikkolaatuinen}}
-* French: {{t+|fr|piètre}}
-* Galician: {{t+|gl|pobre|m|f}}
-* German: {{t+|de|armselig}}
-* Greek: {{t+|el|φτωχός}}
-* Hungarian: {{t+|hu|szegényes}}
-* Ido: {{t|io|nebona}}
-* Indonesian: {{t+|id|buruk}}
-* Irish: {{t|ga|bocht}}
-* Italian: {{t+|it|misero}}
-* Japanese: {{t|ja|劣る|tr=otoru}}, {{t+|ja|拙い|tr=mazui, tsutanai}}, {{t|ja|粗末|tr=somatsu na|alt=粗末な}}, {{t+|ja|下手|alt=下手な|tr=heta na}}
-* Kurdish:
-*: Sorani: {{t|ku|خه‌راپ}}, {{t|ku|بێ قیمه‌ت}}
+{{trans-top|deficient in a specified way}}
+* Finnish: {{t|fi|köyhä|alt=-köyhä}}
 {{trans-mid}}
-* Luxembourgish: {{t+|lb|aarmséileg}}
-* Macedonian: {{t|mk|лош}}
-* Malay: {{t|ms|teruk}}
-* Norwegian: {{t+|no|dårlig}}, {{t|no|elendig}}
-* Old English: {{t|ang|earm}}
-* Polish: {{t+|pl|nędzny|m}}
-* Portuguese: {{t+|pt|fraco|m}}, {{t+|pt|ruim}}
-* Romanian: {{t+|ro|prost|m}}, {{t+|ro|slab|m}}
-* Russian: {{t+|ru|плохо́й}}, {{t+|ru|сла́бый}}, {{t+|ru|убо́гий}}
-* Scottish Gaelic: {{t|gd|bochd}}
-* Slovene: {{t+|sl|slàb}}
-* Spanish: {{t+|es|pobre}}
-* Swedish: {{t+|sv|dålig}}, {{t+|sv|undermålig}}, {{t+|sv|eländig}}, {{t+|sv|miserabel}}, {{t+|sv|usel}}
-* Telugu: {{t+|te|నాసి}}, {{t|te|నాసి రకం}}
-* Turkish: {{t+|tr|berbat}}, {{t+|tr|zayıf}}, {{t+|tr|kötü}}
-* Ukrainian: {{t+|uk|пога́ний}}
-* Walloon: {{t+|wa|pôve}}, {{t+|wa|fayé}}, {{t+|wa|saké}}
+{{trans-bottom}}
+
+{{trans-top|inadequate, insufficient}}
+* Finnish: {{t|fi|riittämätön}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|free from self-assertion; not proud or arrogant}}
+* Finnish: {{t|fi|nöyrä}}, {{t|fi|vaatimaton}}; {{t|fi|köyhä}} {{q|in Matthew 3:5}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
