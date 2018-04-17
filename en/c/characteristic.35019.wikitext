@@ -1,5 +1,5 @@
 ==English==
-{{wikipedia}}
+{{wikipedia|dab=Characteristic}}
 
 ===Etymology===
 From {{der|en|grc|χαρακτηριστικός}}, from {{m|grc|χαρακτηρίζω||to designate by a characteristic mark}}, from {{m|grc|χαρακτήρ||a mark, character}}.
@@ -74,21 +74,30 @@ From {{der|en|grc|χαρακτηριστικός}}, from {{m|grc|χαρακτη�
 ===Noun===
 {{en-noun}}
 
-# a [[distinguishing]] [[feature]] of a person or thing
-# {{lb|en|mathematics}} the [[integer]] part of a [[logarithm]]
-# {{lb|en|nautical}} the distinguishing features of a [[navigational]] [[light]] on a [[lighthouse]] etc by which it can be identified (colour, pattern of flashes etc)
-# {{lb|en|algebra|field theory}} The [[minimum]] number of times that the [[unit]] of a [[field]] must be added unto itself in order to yield that field's [[zero]], or, if that minimum [[natural number]] does not exist, then (the [[integer]]) zero.
-#: A field's [[characteristic]], if non-zero, must be a prime number.
+# A [[distinguishing]] [[feature]] of a person or thing.
+# {{lb|en|mathematics}} The [[integer]] part of a [[logarithm]].
+#* '''1830''', Solomon Pearson Miles, Thomas Sherwin, ''Mathematical Tables: Comprising Logarithms of Numbers,{{...}}'', [https://books.google.com.au/books?id=diBRAAAAYAAJ&pg=PA69&dq=%22characteristic%22%7C%22characteristics%22+logarithm&hl=en&sa=X&ved=0ahUKEwilsePx7sDaAhWDfrwKHXA9DW4Q6AEIVDAI#v=onepage&q=%22characteristic%22%7C%22characteristics%22%20logarithm&f=false page 69],
+#*: It is evident, moreover, that as the logarithms of numbers, which are tenfold, the one of the other, do not differ except in their '''characteristics''', it is sufficient that the tables contain the fractional parts only of the logarithms.
+#* '''1911''', F. T. Swanwick, ''Elementary Trigonometry'', {{w|Cambridge University Press}}, [https://books.google.com.au/books?id=Phg9AAAAIAAJ&pg=PA60&dq=%22characteristic%22%7C%22characteristics%22+logarithm&hl=en&sa=X&ved=0ahUKEwilsePx7sDaAhWDfrwKHXA9DW4Q6AEIpQEwFw#v=onepage&q=%22characteristic%22%7C%22characteristics%22%20logarithm&f=false page 60],
+#*: As the sine and cosine are always proper fractions their logarithms are negative, i.e. have negative '''characteristics'''. When we are given an angle, it is impossible to say, from inspection of the angle, what the '''characteristic''' of the logarithm of its sine, cosine or tangent may be; so the '''characteristics''' have to be printed with the mantissae.
+#* '''1961''', ''Principles and Applications of Mathematics for Communications-Electronics'', [U.S.] Department of the Army, [https://books.google.com.au/books?id=yNUXAAAAYAAJ&pg=PA69&dq=%22characteristic%22%7C%22characteristics%22+logarithm&hl=en&sa=X&ved=0ahUKEwilsePx7sDaAhWDfrwKHXA9DW4Q6AEIQDAE#v=onepage&q=%22characteristic%22%7C%22characteristics%22%20logarithm&f=false page 69],
+#*: Similarly, the '''characteristic''' for .003 is −3, and the '''characteristic''' for .0003 is −4.
+# {{lb|en|nautical}} The distinguishing features of a [[navigational]] [[light]] on a [[lighthouse]] etc by which it can be identified (colour, pattern of flashes etc.).
+# {{lb|en|algebra|field theory|ring theory}} For a given [[field]] or [[ring]], a [[natural number]] that is either the [[minimum]] number of times that the [[multiplicative identity]] (1) must be summed to yield the [[additive identity]] (0), or, if that minimum number does not exist, the [[integer]] 0.
+#: {{ux|en|The '''characteristic''' of a field, if non-zero, must be a prime number.}}
+#* '''1962''' [John Wiley & Sons], Nathan Jacobson, ''Lie Algebras'', 1979, Dover, [https://books.google.com.au/books?id=hPE1Mmm7SFMC&pg=PA289&dq=%22characteristic%22%7C%22characteristics%22+field%7Cring&hl=en&sa=X&ved=0ahUKEwiK5bKX28DaAhUBEpAKHbLEATQQ6AEIwgEwGw#v=onepage&q=%22characteristic%22%7C%22characteristics%22%20field%7Cring&f=false page 289],
+#*: In this chapter we study the problem of classifying the finite-dimensional simple Lie algebras over an arbitrary field of '''characteristic''' 0.
+#* '''1992''', Simeon Ivanov (translator), P. M. Gudivok, E. Ya. Pogorilyak, ''On Modular Representations of Finite Groups over Integral Domains'', Simeon Ivanov (editor), ''Galois Theory, Rings, Algebraic Groups and Their Applications'', {{w|American Mathematical Society}}, [https://books.google.com.au/books?id=yvJMXnJkhtIC&pg=PA87&dq=%22characteristic%22%7C%22characteristics%22+field%7Cring&hl=en&sa=X&ved=0ahUKEwiK5bKX28DaAhUBEpAKHbLEATQQ6AEIiQEwEQ#v=onepage&q=%22characteristic%22%7C%22characteristics%22%20field%7Cring&f=false page 87],
+#*: Let ''R'' be a Noetherian factorial ring of '''characteristic''' ''p'' which is not a field.
+#* '''1993''', S. Warner, ''Topological Rings'', Elsevier (North-Holland), [https://books.google.com.au/books?id=mZ3Wbewhpx0C&pg=PA424&dq=%22characteristic%22%7C%22characteristics%22+field%7Cring&hl=en&sa=X&ved=0ahUKEwiK5bKX28DaAhUBEpAKHbLEATQQ6AEI4AEwIA#v=onepage&q=%22characteristic%22%7C%22characteristics%22%20field%7Cring&f=false page 424],
+#*: Traditionally, a complete, discretely valued field of '''characteristic''' zero, the maximal ideal of whose valuation ring is generated by the prime number ''p'', has been called a ''p''-adic field. In our terminology, the valuation ring of a ''p''-adic field is a Cohen ring of '''characteristic''' zero whose residue field has characteristic ''p'', and consequently a ''p''-adic field is simply the quotient field of such a Cohen ring.
 
 ====Synonyms====
-* {{l|en|attribute}}
-* {{l|en|idiosyncrasy}}
-* {{l|en|mannerism}}
-* {{l|en|quality}}
-* {{l|en|tendency}}
-* {{l|en|trademark}}
-* {{l|en|trait}}
+* {{sense|distinguishing feature of a person or thing}} {{l|en|attribute}}, {{l|en|idiosyncrasy}}, {{l|en|mannerism}}, {{l|en|quality}}, {{l|en|tendency}}, {{l|en|trademark}}, {{l|en|trait}}
 * See also [[Thesaurus:characteristic]]
+
+====Coordinate terms====
+* {{sense|part of a logarithm}} {{l|en|mantissa}}
 
 ====Derived terms====
 * {{l|en|defining characteristic}}
