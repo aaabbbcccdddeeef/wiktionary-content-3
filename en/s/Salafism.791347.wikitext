@@ -1,5 +1,4 @@
 ==English==
-{{wikipedia}}
 
 ===Etymology===
 From {{af|en|Salafi|-ism}}.
@@ -9,13 +8,18 @@ From {{af|en|Salafi|-ism}}.
 
 # A [[Sunni]] Islamic movement that takes the pious ancestors, the salaf of the [[patristic]] period of early Islam, as exemplary models.<ref>Moosa, Ebrahim. ''Ghazali And The Poetics Of Imagination'' {{ISBN|0-8078-5612-6}} p. 21</ref>
 
-====Synonyms====
+====Hypernyms====
+* {{l|en|Islam}}
+
+====Hyponyms====
 * {{l|en|Wahhabism}}
 
 ====Related terms====
-* {{l|en|Salafi}}
-* {{l|en|Salafist}}
-* {{l|en|Salafiyya}}
+{{rel3
+|Salafi
+|Salafist
+|Salafiyya
+|lang=en}}
 
 ====Translations====
 {{trans-top|a Sunni Islamic movement}}
@@ -25,17 +29,19 @@ From {{af|en|Salafi|-ism}}.
 * Dutch: {{t+|nl|salafisme|n}}
 * French: {{t+|fr|salafisme|m}}
 * German: {{t+|de|Salafismus|m}}
-{{trans-mid}}
 * Italian: {{t|it|salafismo|m}}
+{{trans-mid}}
 * Japanese: {{t|ja|サラフィズム|tr=sarafizumu|sc=Jpan}}
 * Polish: {{t|pl|salafizm|m}}
 * Portuguese: {{t|pt|salafismo|m}}
 * Russian: {{t+|ru|салафи́зм|m}}
 * Spanish: {{t|es|salafismo|m}}
+* Turkish: {{t|tr|Selefilik}}
 {{trans-bottom}}
 
 ===References===
 <references/>
+* {{pedia}}
 
 [[Category:English eponyms]]
 [[Category:en:Islam]]
