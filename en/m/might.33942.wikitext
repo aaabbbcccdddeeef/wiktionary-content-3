@@ -16,7 +16,7 @@ From {{inh|en|enm|myght}}, {{m|enm|might}} (also {{m|enm|maught}}, {{m|enm|macht
 ====Noun====
 {{en-noun|~}}
 
-# {{lb|en|uncountable|countable}} [[power|Power]], [[strength]], [[force]] or [[influence]] held by a [[person]] or [[group]].
+# {{lb|en|countable|uncountable}} [[power|Power]], [[strength]], [[force]] or [[influence]] held by a [[person]] or [[group]].
 #* '''1969''', ''{unattributed}'', [https://books.google.com/books?id=4pI8AQAAIAAJ&q=%22mights%22&dq=%22peace+lies+in+balancing+the+military+mights+of+the+possible+rivals%22&hl=en&sa=X&ved=0CCcQ6AEwAGoVChMI_7rAhqztyAIVCMpjCh1kSglc Journal of the United Service Institution of India, Volume 99]
 #*: "Since every nation considers itself right, peace lies in balancing the military '''mights''' of the possible rivals."
 # {{lb|en|uncountable}} [[physical|Physical]] strength.
@@ -24,11 +24,13 @@ From {{inh|en|enm|myght}}, {{m|enm|might}} (also {{m|enm|maught}}, {{m|enm|macht
 # {{lb|en|uncountable}} The [[ability]] to do something.
 
 =====Derived terms=====
-* {{l|en|mighteous}}
-* {{l|en|mightful}}
-* {{l|en|mightless}}
-* {{l|en|mighty}}
-* {{l|en|unmight}}
+{{der4
+|mighteous
+|mightful
+|mightless
+|mighty
+|unmight
+|lang=en}}
 
 =====Translations=====
 {{trans-top|personal power}}
@@ -54,6 +56,7 @@ From {{inh|en|enm|myght}}, {{m|enm|might}} (also {{m|enm|maught}}, {{m|enm|macht
 * Slovene: {{t+|sl|moč|f}}, {{t|sl|mogota|f}}
 * Spanish: {{t+|es|potestad}}, {{t+|es|potencia}}, {{t+|es|poder}}
 * Swedish: {{t+|sv|makt|c}}
+* Turkish: {{t+|tr|güç}}
 * Ukrainian: {{t+|uk|міць}}, {{t|uk|могу́тність}}
 {{trans-bottom}}
 
@@ -78,6 +81,7 @@ From {{inh|en|enm|myght}}, {{m|enm|might}} (also {{m|enm|maught}}, {{m|enm|macht
 * Slovene: {{t+|sl|moč|f}}
 * Spanish: {{t+|es|potencia}}, {{t+|es|fuerza}}, {{t+|es|vis}}
 * Swedish: {{t+|sv|kraft|c}}, {{t+|sv|styrka|c}}
+* Turkish: {{t+|tr|kuvvet}}
 {{trans-bottom}}
 
 {{trans-top|ability}}
@@ -85,7 +89,7 @@ From {{inh|en|enm|myght}}, {{m|enm|might}} (also {{m|enm|maught}}, {{m|enm|macht
 * Czech: {{t|cs|zdatnost|f}}
 * Dutch: {{t+|nl|vermogen}}
 * Finnish: {{t+|fi|kyky}}, {{t+|fi|voima}}
-* German: {{t+|de|Vermögen|n}}, {{t+|de|Macht|f}}
+* German: {{t+|de|Macht|f}}, {{t+|de|Vermögen|n}}
 * Gothic: {{t|got|𐌼𐌰𐌷𐍄𐍃|f}}
 * Hungarian: {{t+|hu|erő}}
 {{trans-mid}}
@@ -95,12 +99,13 @@ From {{inh|en|enm|myght}}, {{m|enm|might}} (also {{m|enm|maught}}, {{m|enm|macht
 * Polish: {{t+|pl|zdolność|f}}
 * Russian: {{t+|ru|возмо́жность}}
 * Swedish: {{t+|sv|förmåga|c}}, {{t+|sv|makt|c}}
+* Turkish: {{t+|tr|güç}}, {{t+|tr|kuvvet}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 * Spanish: {{t-check|es|poder}}, {{t-check|es|fuerza}}
-{{trans-mid}}
-{{trans-bottom}}
+{{checktrans-mid}}
+{{checktrans-bottom}}
 
 ====Adjective====
 {{en-adj|er}}
