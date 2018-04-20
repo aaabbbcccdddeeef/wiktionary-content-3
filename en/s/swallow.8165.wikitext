@@ -248,7 +248,7 @@ The noun is from late {{inh|en|ang|swelg|t=gulf, chasm}}, from the verb.
 ===Etymology 2===
 {{wikipedia}}
 [[Image:Hirundo daurica.jpg|thumb|A red-rumped swallow]]
-From {{inh|en|enm|swalowe}}, from {{inh|en|ang|swealwe}}, from {{inh|en|gem-pro|*swalwǭ}}. Cognate with {{cog|da|-}} and {{cog|no|svale}}, Dutch {{m|nl|zwaluw}}, German {{m|de|Schwalbe}}, Swedish {{m|sv|svala}}.
+From {{inh|en|enm|swalowe}}, from {{inh|en|ang|swealwe}}, from {{inh|en|gem-pro|*swalwǭ}}. Cognate with {{cog|da|-}} and {{cog|no|svale}}, {{cog|nl|zwaluw}}, {{cog|de|Schwalbe}}, {{cog|sv|svala}}.
 
 ====Noun====
 {{en-noun}}
@@ -261,9 +261,11 @@ From {{inh|en|enm|swalowe}}, from {{inh|en|ang|swealwe}}, from {{inh|en|gem-pro|
 * {{sense|bird of Hirundinidae}} {{l|en|martin}}
 
 =====Derived terms=====
-* {{l|en|barn swallow}}
-* {{l|en|one swallow does not make a summer}}
-* {{l|en|swallow-tailed}}
+{{der3
+|barn swallow
+|one swallow does not make a summer
+|swallow-tailed
+|lang=en}}
 
 =====Related terms=====
 * {{sense|bird of Hirundinidae}} {{l|en|martlet}} {{qualifier|type of feetless bird in heraldry}}
@@ -274,7 +276,7 @@ From {{inh|en|enm|swalowe}}, from {{inh|en|ang|swealwe}}, from {{inh|en|gem-pro|
 * Albanian: {{t|sq|dallëndyshja}}
 * Algonquin: {{t|alq|tinogkukquas}}
 * Arabic: {{t|ar|سُنُونُو|m}}
-*: Egyptian Arabic: {{t|arz|سنونو|m|tr=sununu|sc=Arab}}, {{t|arz|عصفور الجنة|tr=ʕaṣfour eg-gana|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|سنونو|m|tr=sununu}}, {{t|arz|عصفور الجنة|tr=ʕaṣfour eg-gana}}
 *: Moroccan Arabic: {{t|ary|بو خطيفة|f|tr=bu ḫṭifa|alt=بو خْطيفة}}
 * Armenian: {{t+|hy|ծիծեռնակ}}
 *: Old Armenian: {{t|xcl|ծիծեռն}}, {{t|xcl|ծիծառն}}
@@ -290,7 +292,7 @@ From {{inh|en|enm|swalowe}}, from {{inh|en|ang|swealwe}}, from {{inh|en|gem-pro|
 * Chamicuro: {{t|ccc|cholo}}
 * Chechen: {{t|ce|чIегIардиг}}
 * Chinese:
-*: Mandarin: {{t+|cmn|燕子|tr=yànzi|sc=Hani}}
+*: Mandarin: {{t+|cmn|燕子|tr=yànzi}}
 * Crimean Tatar: {{t|crh|qarılğaç}}
 * Czech: {{t+|cs|vlaštovka|f}}
 * Dalmatian: {{t|dlm|rondaina|f}}
@@ -356,9 +358,9 @@ From {{inh|en|enm|swalowe}}, from {{inh|en|ang|swealwe}}, from {{inh|en|gem-pro|
 * Scots: {{t|sco|swalla}}
 * Scottish Gaelic: {{t|gd|gòbhlan-gaoithe|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|ластавица|f|sc=Cyrl}}, {{t|sh|ласта|f|sc=Cyrl}}
-*: Roman: {{t+|sh|lastavica|f}}, {{t+|sh|lasta|f}}
-* Shor: {{t|cjs|қарлығаш|tr=qarlığaş|sc=Cyrl}}
+*: Cyrillic: {{t|sh|ла̏ставица|f}}, {{t|sh|ла́ста|f}}
+*: Roman: {{t+|sh|lȁstavica|f}}, {{t+|sh|lásta|f}}
+* Shor: {{t|cjs|қарлығаш|tr=qarlığaş}}
 * Sicilian: {{t|scn|rìndina|f}}, {{t|scn|rìnnina|f}}
 * Slovak: {{t|sk|lastovička|f}}
 * Slovene: {{t|sl|lastovka|f}}, {{t+|sl|lastovica|f}}
@@ -369,7 +371,7 @@ From {{inh|en|enm|swalowe}}, from {{inh|en|ang|swealwe}}, from {{inh|en|gem-pro|
 * Swahili: {{t+|sw|mbayuwayu}}
 * Swedish: {{t+|sv|svala}}, {{t+|sv|ladusvala}}
 * Tagalog: {{t|tl|layanglayang}}
-* Tajik: {{t|tg|фароштурук|sc=Cyrl}}
+* Tajik: {{t|tg|фароштурук}}
 * Tashelhit: {{t|shi|ⵉⴼⵍⵉⵍⵍⵉⵙ|m|tr=iflillis}}
 * Tatar: {{t+|tt|карлыгач}}
 * Thai: {{t+|th|นางแอ่น|tr=naang àen}}
