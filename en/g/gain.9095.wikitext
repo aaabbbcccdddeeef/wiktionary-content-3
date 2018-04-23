@@ -18,7 +18,7 @@ From dialectal English {{m|en|gen}}, {{m|en|gin}}, short for {{m|en|again}}, {{m
 * {{l|en|gainful}}
 
 ===Etymology 2===
-From {{etyl|enm|en}} {{m|enm|gayn}}, {{m|enm|gein}}, {{m|enm|geyn||straight, direct, short, fit, good}}, from {{etyl|non|en}} {{m|non|gegn||straight, direct, short, ready, serviceable, kindly}}, from {{m|non|gegn||pos=adverb|opposite, against}} (whence {{m|non|gagna||to go against, meet, suit, be meet}}); see below at [[gain#Etymology_3|gain]]. Adverb from {{etyl|enm|en}} {{m|enm|gayne||fitly, quickly}}, from the adjective.
+From {{inh|en|enm|gayn|id=direct}}, {{m|enm|gein}}, {{m|enm|geyn||straight, direct, short, fit, good}}, from {{der|en|non|gegn||straight, direct, short, ready, serviceable, kindly}}, from {{m|non|gegn||pos=adverb|opposite, against}} (whence {{m|non|gagna||to go against, meet, suit, be meet}}); see below at [[gain#Etymology_3|gain]]. Adverb from {{etyl|enm|en}} {{m|enm|gayne||fitly, quickly}}, from the adjective.
 
 ====Adjective====
 {{en-adj}}
@@ -42,9 +42,9 @@ From {{etyl|enm|en}} {{m|enm|gayn}}, {{m|enm|gein}}, {{m|enm|geyn||straight, dir
 #: '''''gain''' quiet (= fairly/pretty quiet)''
 
 ===Etymology 3===
-From {{etyl|enm|en}} {{m|enm|gain}}, {{m|enm|gein||profit, advantage}}, from {{etyl|non|en}} {{m|non|gagn||benefit, advantage, use}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*gagną}}, {{m|gem-pro|*gaganą||gain, profit", literally "return}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*gagana||back, against, in return}}, a reduplication of {{etyl|gem-pro|en}} {{m|gem-pro|*ga-||with, together}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*kom||next to, at, with, along}}. Cognate with {{cog|is|gagn||gain, advantage, use}}, {{cog|sv|gagn||benefit, profit}}, {{cog|da|gavn||gain, profit, success}}, {{cog|got|𐌲𐌰𐌲𐌴𐌹𐌲𐌰𐌽||to gain, profit}}, {{cog|non|gegn||ready}}, {{etyl|sv|-}} dialectal {{m|sv|gen||useful, noteful}}, {{cog|la|cum||with}}; see {{l|en|gain-}}, {{l|en|again}}, {{l|en|against}}. Compare also {{cog|enm|gainen||to be of use, profit, avail}}, {{etyl|is|-}} and {{cog|sv|gagna||to avail, help}}, {{cog|da|gavne||to benefit}}.
+From {{inh|en|enm|gain|id=gain}} {{m|enm|gain}}, {{m|enm|gein||profit, advantage}}, from {{der|en|non|gagn||benefit, advantage, use}}, from {{der|en|gem-pro|*gagną}}, {{m|gem-pro|*gaganą||gain, profit", literally "return}}, from {{der|en|gem-pro|*gagana||back, against, in return}}, a reduplication of {{der|en|gem-pro|*ga-||with, together}}, from {{der|en|ine-pro|*kom||next to, at, with, along}}. Cognate with {{cog|is|gagn||gain, advantage, use}}, {{cog|sv|gagn||benefit, profit}}, {{cog|da|gavn||gain, profit, success}}, {{cog|got|𐌲𐌰𐌲𐌴𐌹𐌲𐌰𐌽||to gain, profit}}, {{cog|non|gegn||ready}}, {{etyl|sv|-}} dialectal {{m|sv|gen||useful, noteful}}, {{cog|la|cum||with}}; see {{l|en|gain-}}, {{l|en|again}}, {{l|en|against}}. Compare also {{cog|enm|gainen||to be of use, profit, avail}}, {{etyl|is|-}} and {{cog|sv|gagna||to avail, help}}, {{cog|da|gavne||to benefit}}.
 
-The Middle English word was reinforced by {{etyl|frm|en}} {{m|frm|gain||gain, profit, advancement, cultivation}}, from {{etyl|fro|en}} {{m|fro|gaaing}}, {{m|fro|gaaigne}}, {{m|fro|gaigne}}, a noun derivative of {{m|fro|gaaignier||to till, earn, win}}, from {{etyl|frk|en}} {{m|frk|*waidanjan||to pasture, graze, hunt for food}}, ultimately from {{etyl|gem-pro|en}} {{m|gem-pro|*waiþiz}}, {{m|gem-pro|*waiþī}}, {{m|gem-pro|*waiþō}}, {{m|gem-pro|*waiþijō||pasture, field, hunting ground}}; compare {{cog|goh|weidōn}}, {{m|goh|weidanōn||to hunt, forage for food}} (Modern {{cog|de|Weide||pasture}}), {{cog|non|veiða||to catch, hunt}}, {{cog|ang|wǣþan||to hunt, chase, pursue}}. Related to {{l|en|wathe}}, {{l|en|wide}}.
+The Middle English word was reinforced by {{der|en|frm|gain||gain, profit, advancement, cultivation}}, from {{der|en|fro|gaaing}}, {{m|fro|gaaigne}}, {{m|fro|gaigne}}, a noun derivative of {{m|fro|gaaignier||to till, earn, win}}, from {{der|en|frk|*waidanjan||to pasture, graze, hunt for food}}, ultimately from {{der|en|gem-pro|*waiþiz}}, {{m|gem-pro|*waiþī}}, {{m|gem-pro|*waiþō}}, {{m|gem-pro|*waiþijō||pasture, field, hunting ground}}; compare {{cog|goh|weidōn}}, {{m|goh|weidanōn||to hunt, forage for food}} (Modern {{cog|de|Weide||pasture}}), {{cog|non|veiða||to catch, hunt}}, {{cog|ang|wǣþan||to hunt, chase, pursue}}. Related to {{l|en|wathe}}, {{l|en|wide}}.
 
 ====Noun====
 {{en-noun|~}}
@@ -245,6 +245,9 @@ From {{etyl|frm|fr}} {{m|frm|gain}}, from {{etyl|fro|fr}} {{m|fro|gaaing}}, from
 
 ===Further reading===
 * {{R:TLFi}}
+
+----
+
 
 ----
 
