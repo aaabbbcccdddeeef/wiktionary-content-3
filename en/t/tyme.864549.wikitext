@@ -17,20 +17,74 @@
 
 ==Middle English==
 
+==Middle English==
+
 ===Etymology 1===
-From {{inh|enm|ang|tīma}}.
+From {{der|enm|fro|thym}}, from {{der|enm|la|thymum}}, from {{der|enm|grc|θύμον|}}.
+
+====Alternative forms====
+* {{alter|enm|time|thime}}
+
+====Pronunciation====
+* {{IPA|lang=enm|/tim/|/tiːm/}}
 
 ====Noun====
-{{head|enm|noun}}
+{{enm-noun|-}}
 
-# {{l|en|time}}
-#* '''1407''', ''[[w:The Testimony of William Thorpe|The Testimony of William Thorpe]]'', pages 40–41
-#*: And with alle these men I was ofte homli and I comownede with hem long '''tyme''' and fele, and so bifore alle othir men I chees wilfulli to be enformed bi hem and of hem”
+# {{senseid|enm|thyme}} [[thyme]] {{gloss|plants in the genus ''[[Thymus]]''}}
+
+=====Descendants=====
+* {{desc|en|thyme}} 
+
+=====References=====
+* {{R:MED Online|entry=tī̆me (n.(1)) |id=MED45870 |accessdate=2018-04-25}}
 
 ===Etymology 2===
+From {{inh|enm|ang|tīma}}, from {{inh|enm|gem-pro|*tīmô}}. {{doublet|enm|demon}}.
+
+====Alternative forms====
+* {{alter|enm|timæ|time|teyme|teme|tyma|tym|tim|tima}}
+
+====Pronunciation====
+* {{IPA|lang=enm|/tiːm(ə)/}}
+
+====Noun====
+{{enm-noun|pl2=tymen}}
+
+# {{l|en|time}} {{gloss|as a concept}}
+# A specific [[duration]] or [[period]] of time; the following specific uses are most common:
+#* '''1407''', ''[[w:The Testimony of William Thorpe|The Testimony of William Thorpe]]'', pages 40–41
+#*: And with alle these men I was ofte homli and I comownede with hem long '''tyme''' and fele, and so bifore alle othir men I chees wilfulli to be enformed bi hem and of hem”
+## A [[reign]]; a period of time where a person holds an office.
+## A [[lifetime]]; the time which a person's life is composed of.
+## A [[portion]] of a larger period of time (e.g. a year; a day), especially a [[season]] or [[yeartide]].
+## A [[step]] or [[stage]] of a process or event.
+## A [[ephemeral]], [[momentane]] or [[very]] [[short]] duration; a point of time or [[instance]].
+# A generic reference to some vaguely-specified or unspecified duration or point of time.
+# An [[occasion]], [[event]], or [[occurence]]; a specific time.
+# [[times]]; [[multiplied]] [[by]] {{q|usually in the plural}}
+# {{non-gloss|Specifies the ratio of comparison in a comparative sentence}}.
+# {{lb|enm|grammar}} Verbal tense; the way time is morphologically marked on a verb. 
+
+=====Derived terms=====
+* {{l|enm|timen}}
+* {{l|enm|tymeful}}
+* {{l|enm|tymely}}
+
+=====Descendants=====
+* {{desc|en|time}} 
+* {{desc|sco|time}}, {{l|sco|teime}}, {{l|sco|tim}}
+
+=====References=====
+* {{R:MED Online|entry=tīme (n.(2)) |id=MED45870 |accessdate=2018-04-25}}
+
+===Etymology 3===
 From {{bor|enm|fro|teme}}.
 
 ====Noun====
 {{head|enm|noun}}
 
 # {{alternative form of|teme|lang=enm|t=topic|id=topic}}
+
+[[Category:enm:Herbs]]
+[[Category:enm:Time]]
