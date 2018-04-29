@@ -1,26 +1,36 @@
 ==English==
+{{wikipedia}}
 
 ===Etymology===
-{{etyl|la|en}} roots, {{compound|nil|potent|t1=not any|t2=having power|lang=en}} – literally, “having zero power”.
+From {{compound|nil|potent|t1=not any|t2=having power|lang=en}} with literal meaning “having zero power” - bearing {{etyl|la|en}} roots {{m|la|nil}} and {{m|la|potens}}.
+Coined in 1870, along with {{m|en|idempotent}}, by American mathematician {{w|Benjamin Peirce}} to describe elements of [[associative]] [[algebra]]s.
 
 ===Adjective===
 {{en-adj|-}}
-{{wikipedia}}
 
-# {{lb|en|mathematics}} Describing an [[element]] of a [[ring]], for which there exists some positive integer n such that x<sup>n</sup> = 0.
+# {{lb|en|algebra|of an [[element]] ''x'' of a [[semigroup]] or [[ring]]}} Such that, for some positive integer ''n'', ''x<sup>n</sup>'' = 0.
+#* '''2012''', Martin W. Liebeck, Gary M. Seitz, ''Unipotent and Nilpotent Classes in Simple Algebraic Groups and Lie Algebras'', {{w|American Mathematical Society}}, [https://books.google.com.au/books?id=Th-CAwAAQBAJ&pg=PA129&dq=%22nilpotent+element%7Celements%22&hl=en&sa=X&ved=0ahUKEwj_tvaJ29_aAhWBgrwKHRTEDYMQ6AEILDAB#v=onepage&q=%22nilpotent%20element%7Celements%22&f=false page 129],
+#*: The rest of this book is devoted to determining the conjugacy classes and centralizers of '''nilpotent''' elements in ''L''(''G'') and unipotent elements in ''G'', where ''G'' is an exceptional algebraic group of type ''E''<sub>8</sub>,''E''<sub>7</sub>, ''E''<sub>6</sub>, ''F''<sub>4</sub> or ''G''<sub>2</sub> over an algebraically closed field ''K'' of characteristic ''p''. This chapter contains statements of the main results for '''nilpotent''' elements.
+
+====Coordinate terms====
+* {{l|en|idempotent}}
 
 ====Derived terms====
-* {{l|en|nilpotently}}
-* {{l|en|nilpotency}}
-* {{l|en|nilpotence}}
+* {{l|en|nilpotent algebra}}
+* {{l|en|nilpotent ideal}}
+* {{l|en|nilpotent orbit}}
+* {{l|en|nilpotent semigroup}}
 
 ====Related terms====
+* {{l|en|nilpotence}}
+* {{l|en|nilpotency}}
+* {{l|en|nilpotently}}
 * {{l|en|idempotent}}
 * {{l|en|nullipotent}}
 * {{l|en|unipotent}}
 
 ====Translations====
-{{trans-top|math}}
+{{trans-top|{algebra)}}
 * Czech: {{t|cs|nilpotentní}}
 * Danish: {{t|da|nilpotent}}
 {{trans-mid}}
@@ -30,6 +40,6 @@
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|math}} A nilpotent element.
+# {{lb|en|algebra}} A '''nilpotent''' element.
 #* {{quote-journal|year=2015|date=|author=Garret Sobczyk|title=Part I: Vector Analysis of Spinors|journal=arXiv|url=http://arxiv.org/abs/1507.06608|doi=|volume=|issue=|pages=
 |passage=The so-called spinor algebra of C(2), the language of the quantum mechanics, is formulated in terms of the idempotents and '''nilpotents''' of the geometric algebra of space, including its beautiful representation on the Riemann sphere, and a new proof of the Heisenberg uncertainty principle.}}
