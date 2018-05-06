@@ -23,6 +23,12 @@ From {{der|en|fro|matrice||pregnant animal}}, from {{etyl|la|en}} {{m|la|mātrī
 # {{lb|en|biology}} Part of the [[mitochondrion]].
 # {{lb|en|biology}} The medium in which [[bacterium|bacteria]] are cultured.
 # {{lb|en|mathematics}} A [[rectangular]] [[arrangement]] of [[number]]s or [[term]]s having various uses such as [[transform]]ing [[coordinate]]s in [[geometry]], solving [[system]]s of [[linear equation]]s in [[linear algebra]] and [[represent]]ing [[graph]]s in [[graph theory]].
+#* '''1987''' [1985], {{w|Roger Horn|Roger A. Horn}}, {{w|Charles Royal Johnson|Charles R. Johnson}}, '''''Matrix''' Analysis'', {{w|Cambridge University Press}}, 1990, Paperback Edition, [https://books.google.com.au/books?id=PlYQN0ypTwEC&pg=PA464&dq=%22matrix%22%7C%22matrices%22&hl=en&sa=X&ved=0ahUKEwi06faVqvDaAhWEDZAKHS5eDKsQ6AEI-AIwOA#v=onepage&q=%22matrix%22%7C%22matrices%22&f=false page 464],
+#*: Theorem (7.5.2) then says that every positive semidefinite '''matrix''' is a convex combination of '''matrices''' that lie on extreme rays.
+#* '''2003''', Robert A. Liebler, ''Basic '''Matrix''' Algebra with Algorithms and Applications'', CRC Press (Chapman & Hall/CRC), [https://books.google.com.au/books?id=dD1OKMD-rMoC&pg=PA64&dq=%22matrix%22%7C%22matrices%22&hl=en&sa=X&ved=0ahUKEwi06faVqvDaAhWEDZAKHS5eDKsQ6AEIhwIwJQ#v=onepage&q=%22matrix%22%7C%22matrices%22&f=false page 64],
+#*: Check that the <math>\mathcal{A}(\mathcal{D})^2</math> in the example is itself the adjacency '''matrix''' of the indicated digraph:
+#* '''2007''', Gerhard Kloos, '''''Matrix''' Methods for Optical Layout'', {{w|SPIE|SPIE Press}}, [https://books.google.com.au/books?id=ASxQn58joMQC&pg=PA25&dq=%22matrix%22%7C%22matrices%22&hl=en&sa=X&ved=0ahUKEwjxgp7Lr_DaAhUBHJAKHVMnBeA4ZBDoAQh4MA8#v=onepage&q=%22matrix%22%7C%22matrices%22&f=false page 25],
+#*: The '''matrix''' describing the reflection at a plane mirror can be obtained by taking the '''matrix''' for reflection at a spherical reflector and letting the radius of the spherical mirror tend to infinity.
 # {{lb|en|computing}} A [[two-dimensional]] [[array]].
 # {{lb|en|electronics}} A grid-like arrangement of electronic components, especially one intended for information coding, decoding or storage.
 #* '''2002''', B. Somantathan Nair, ''Digital Electronics and Logic Design''
@@ -30,7 +36,7 @@ From {{der|en|fro|matrice||pregnant animal}}, from {{etyl|la|en}} {{m|la|mātrī
 #* '''1987''', David Ardayfio, ''Fundamentals of Robotics''
 #*: Robot controllers range in complexity from simple stepping switches through pneumatic logic sequencers, diode '''matrix''' boards, electronic sequencers, and microprocessors to minicomputers.
 #* '''1962''', Burroughs Corporation, ''Digital Computer Principles''
-#*: A transistor-diode ''matrix''' is composed of vertical and horizontal wires with a transistor at each intersection.
+#*: A transistor-diode '''matrix''' is composed of vertical and horizontal wires with a transistor at each intersection.
 #* '''1959''', John Millar Carroll, ''Modern Transistor Circuits''
 #*: The transistor '''matrix''' in the encoder supplies the sequential gates.
 # A [[table]] of [[data]].
@@ -39,7 +45,7 @@ From {{der|en|fro|matrice||pregnant animal}}, from {{etyl|la|en}} {{m|la|mātrī
 # {{lb|en|analytical chemistry}} The environment from which a given sample is taken.
 # {{lb|en|printing|historical}} In hot metal typesetting, a [[mold]] for [[cast]]ing a [[letter]].
 # {{lb|en|printing|historical}} In [[printmaking]], the [[plate]] or [[block]] used, with [[ink]], to hold the [[image]] that makes up the print.
-# {{lb|en|material science}} [[Binding agent]]) of [[composite material]]s, e.g. [[resin]] in [[fibreglass]].
+# {{lb|en|material science}} A [[binding agent]] of [[composite material]]s, e.g. [[resin]] in [[fibreglass]].
 
 ====Synonyms====
 * {{sense|mathematics}} {{l|en|array}}, {{l|en|table}}
