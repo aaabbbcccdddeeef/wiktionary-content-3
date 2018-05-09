@@ -184,7 +184,7 @@ From {{inh|nl|odt|reini}}, {{m|odt|rēni}}, from {{inh|nl|gem-pro|*hrainiz}}.
 ==French==
 
 ===Etymology===
-Borrowed from {{bor|fr|la|rēn}}.
+From {{inh|fr|frm|rein}}, from {{inh|fr|fro|rein}}, from the plural {{m|fro|reins}}, from {{inh|fr|la|rēnes}} < {{m|la|rēn}}, from {{inh|fr|itc-pro|*hrēn||}}, possibly from {{inh|fr|ine-pro|*gʷʰren-||an internal part of the body}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -282,17 +282,23 @@ The standard language distinguishes the meanings of {{m|de|hinein||in there: ''a
 
 ==Middle French==
 
+===Etymology===
+From {{inh|frm|fro|rein}}.
+
 ===Noun===
 {{frm-noun|m}}
 
 # {{lb|frm|anatomy}} [[kidney]]
+
+====Descendants====
+* French: {{l|fr|rein}}
 
 ----
 
 ==Norman==
 
 ===Etymology===
-From {{der|nrf|la|rēn}}.
+From {{inh|nrf|fro|rein}}, {{m|fro|reins}}, from {{inh|nrf|la|rēn}}, {{m|la|rēnes}}.
 
 ===Noun===
 {{nrf-noun|m}}
@@ -388,7 +394,7 @@ From {{der|nn|non|hreinn}}
 ==Old French==
 
 ===Etymology 1===
-First attested in the plural as {{m|fro|reins}}, from {{der|fro|la|rēnes}}, plural of the almost unused {{m|la|rēn}}.
+First attested in the plural as {{m|fro|reins}}, from {{inh|fro|la|rēnes}}, plural of the almost unused {{m|la|rēn}}.
 
 ====Alternative forms====
 * {{l|fro|rain}}
@@ -400,7 +406,9 @@ First attested in the plural as {{m|fro|reins}}, from {{der|fro|la|rēnes}}, plu
 # {{lb|fro|in the plural|reins}} [[small of the back]], lower back
 
 =====Descendants=====
-* French: {{l|fr|rein}}
+* Middle French: {{l|frm|rein}}
+** French: {{l|fr|rein}}
+* Norman: {{l|nrf|rein}}
 
 ===Etymology 2===
 See {{m|fro|rien}}
