@@ -361,17 +361,33 @@
 
 ==Welsh==
 
-===Alternative forms===
-* {{l|cy|down}} {{qualifier|colloquial}}
-* {{l|cy|deuwn}} {{qualifier|literary}}
-
 ===Pronunciation===
 * {{audio|Cy-dawn.ogg|Audio|lang=cy}}
 
-===Verb===
+===Etymology 1===
+From {{inh|cy|cel-bry-pro|*don}}, from {{inh|cy|cel-pro|*dānus}} (whence also {{cog|ga|dán}}). Compare {{cog|la|dōnum}}.
+
+====Noun====
+{{cy-noun|f|doniau}}
+
+# [[talent]], natural [[gift]], [[ability]]
+
+=====Derived terms=====
+* {{l|cy|donio||to gift, to endow}}
+* {{l|cy|doniog||gifted, talented}}
+* {{l|cy|doniol||funny}}
+
+===Etymology 2===
+Inflected form of {{m|cy|dod||to come}}.
+
+====Verb====
 {{head|cy|verb form}}
 
 # {{lb|cy|colloquial}} {{inflection of|dod||1|p|futr|lang=cy}}
+
+=====Alternative forms=====
+* {{l|cy|down}} {{qualifier|colloquial}}
+* {{l|cy|deuwn}} {{qualifier|literary}}
 
 ===Mutation===
 {{cy-mut-auto}}
