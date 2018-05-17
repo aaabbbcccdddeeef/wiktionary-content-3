@@ -196,7 +196,7 @@ From {{inh|ext|la|dāre}}, present active infinitive of {{m|la|dō||give}}.
 {{wikipedia|lang=hu}}
 
 ===Etymology===
-{{rfe|hu}}
+An [[onomatopoeia]]. It is also possible that it is a {{back-form|dalol|lang=hu|nocap=y}}<ref>{{R:Eory 2007}}</ref>
 
 ===Pronunciation===
 * {{hu-IPA}}
@@ -215,20 +215,26 @@ From {{inh|ext|la|dāre}}, present active infinitive of {{m|la|dō||give}}.
 * {{l|hu|nóta}}
 
 ====Derived terms====
-{{top4}}
-* {{l|hu|altatódal}}
-* {{l|hu|bölcsődal}}
-{{mid4}}
-* {{l|hu|dalmű}}
-* {{l|hu|dalnok}}
-{{mid4}}
-* {{l|hu|dalol}}
-* {{l|hu|dalszerző}}
-{{mid4}}
-* {{l|hu|dalszöveg}}
-* {{l|hu|hattyúdal}}
-* {{l|hu|népdal}}
-{{bottom}}
+{{der4|lang=hu
+|dalárda
+|dallam
+|dalnok
+|dalol
+|dalos
+}}
+{{der4|lang=hu|title=Compound words
+|altatódal
+|dalszínház
+|bölcsődal
+|dalmű
+|dalszerző
+|dalszöveg
+|hattyúdal
+|népdal
+}}
+
+===References===
+<references/>
 
 [[Category:Hungarian three-letter words]]
 [[Category:hu:Music]]
