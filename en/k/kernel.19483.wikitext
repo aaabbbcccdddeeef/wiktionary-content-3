@@ -27,7 +27,7 @@ From {{etyl|enm|en}} {{m|enm|kernel}}, {{m|enm|kirnel}}, {{m|enm|kurnel|kürnel}
 # {{lb|en|calculus}} A function used to define an [[integral transform]].
 #: {{ux|en|The Dirichlet '''kernel''' convolved with a function yields its Fourier series approximation.}}
 # {{lb|en|mathematics}} A set of pairs of a mapping's domain which are mapped to the same value.
-# {{lb|en|mathematics|algebra}} Those elements, in the [[domain]] of a [[function]], which the function maps to [[zero]].
+# {{lb|en|mathematics|linear algebra|functional analysis}} For a given [[function]] (especially a [[linear map]] between [[vector space]]s), the set of elements in the [[domain]] which are mapped to [[zero]]; {{lb|en|formally}} given ''f''&nbsp;:&nbsp;''X''&nbsp;→&nbsp;''Y'', the set {''x''&nbsp;∈&nbsp;''X''&nbsp;:&nbsp;''f''(''x'')&nbsp;=&nbsp;0}.
 #: {{ux|en|If a function is continuous then its '''kernel''' is a closed set.}}
 # {{lb|en|mathematics|category theory}} For a given [[morphism]] ''f'' and a morphism ''z'' from the [[initial object]] 0 to the [[codomain]] of ''f'', the [[pullback]] of ''z'' along ''f''.
 # {{lb|en|mathematics|fuzzy set theory}} The [[set]] of members of a [[fuzzy set]] that are fully included (i.e., whose grade of membership is 1).
@@ -51,6 +51,7 @@ From {{etyl|enm|en}} {{m|enm|kernel}}, {{m|enm|kirnel}}, {{m|enm|kurnel|kürnel}
 * {{l|en|kernel of truth}}
 * {{l|en|kernel space}}
 * {{l|en|kernelization}}
+* {{l|en|positive-definite kernel}}
 {{der-bottom}}
 
 ====Translations====
