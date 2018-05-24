@@ -42,14 +42,14 @@ From {{etyl|grc|en}} {{m|grc|νέον|}}, neuter of {{m|grc|νέος||new}}, fro
 * Asturian: {{t+|ast|neón}}
 * Basque: {{t|eu|neona}}
 * Belarusian: {{t|be|нео́н|m}}
-* Bengali: {{t|bn|নিয়ন|sc=Beng|tr=niẏan}}
+* Bengali: {{t|bn|নিয়ন|tr=niẏan}}
 * Breton: {{t|br|neon|m}}
 * Bulgarian: {{t|bg|нео́н|m}}
 * Catalan: {{t+|ca|neó}}
 * Chinese:
-*: Mandarin: {{t+|cmn|氖|tr=nǎi|sc=Hani}}
+*: Mandarin: {{t+|cmn|氖|tr=nǎi}}
 *: Min Nan: {{t|nan|ne}}
-* Chuvash: {{t|cv|неон|sc=Cyrl}}
+* Chuvash: {{t|cv|неон}}
 * Cornish: {{t|kw|neon}}
 * Corsican: {{t|co|neone}}
 * Czech: {{t+|cs|neon|m}}
@@ -67,20 +67,20 @@ From {{etyl|grc|en}} {{m|grc|νέον|}}, neuter of {{m|grc|νέος||new}}, fro
 * Greek: {{t+|el|νέον|n}}
 * Haitian Creole: {{t|ht|neyon}}
 * Hawaiian: {{t|haw|nīane}}
-* Hindi: {{t|hi|शिथिराति|tr=śithirāti|sc=Deva}}
+* Hindi: {{t|hi|शिथिराति}}
 * Hungarian: {{t+|hu|neon}}
 * Icelandic: {{t+|is|neon}}
 * Ido: {{t+|io|neono}}
 * Indonesian: {{t+|id|neon}}
 * Interlingua: {{t|ia|neon}}
-* Irish: {{t+|ga|neon}}
+* Irish: {{t+|ga|neon|m}}
 * Italian: {{t+|it|neon|m}}, {{t+|it|neo|m}}
 * Japanese: {{t+|ja|ネオン|tr=neon}}
 * Javanese: {{t|jv|neon}}
-* Kannada: {{t|kn|ನಿಯಾನ್|sc=Knda}}
+* Kannada: {{t|kn|ನಿಯಾನ್}}
 * Kashubian: {{t|csb|néón}}
-* Kazakh: {{t+|kk|неон|sc=Cyrl}}
-* Khmer: {{t|km|នេអុង|tr=neiong|sc=Khmr}}
+* Kazakh: {{t+|kk|неон}}
+* Khmer: {{t|km|នេអុង|tr=neiong}}
 * Korean: {{t+|ko|네온}}
 {{trans-mid}}
 * Kurdish: {{t+|ku|neon}}
@@ -91,14 +91,14 @@ From {{etyl|grc|en}} {{m|grc|νέον|}}, neuter of {{m|grc|νέος||new}}, fro
 * Luxembourgish: {{t|lb|Neon}}
 * Macedonian: {{t|mk|неон}}
 * Malay: {{t|ms|neon}}
-* Malayalam: {{t|ml|നിയോണ്‍|sc=Mlym}}
+* Malayalam: {{t|ml|നിയോണ്‍}}
 * Maltese: {{t|mt|neon}}
 * Manx: {{t|gv|neion}}
 * Maori: {{t|mi|haukura}}
-* Marathi: {{t|mr|नियॉन|sc=Deva|tr=niyŏn}}
-* Mongolian: {{t+|mn|неон|sc=Cyrl}}
+* Marathi: {{t|mr|नियॉन}}
+* Mongolian: {{t+|mn|неон}}
 * Nahuatl: {{t|nah|yancuīquehēcatl}}
-* Navajo: {{t|nv|níłchʼi łitsxooí}}
+* Navajo: {{t|nv|níłchʼi łitsxooí|sc=Latn}}
 * Newari: {{t|new|नियोन|tr=niyōn}}
 * Norwegian: {{t+|no|neon}}
 *: Nynorsk: {{t+|nn|neon}}
@@ -110,20 +110,20 @@ From {{etyl|grc|en}} {{m|grc|νέον|}}, neuter of {{m|grc|νέος||new}}, fro
 * Russian: {{t+|ru|нео́н|m}}
 * Scottish Gaelic: {{t|gd|neon}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|неон|m|sc=Cyrl}}
-*: Roman: {{t+|sh|neon|m|sc=Latn}}
+*: Cyrillic: {{t|sh|неон|m}}
+*: Roman: {{t+|sh|neon|m}}
 * Slovak: {{t+|sk|neón|m}}
 * Slovene: {{t+|sl|néon|m}}
 * Spanish: {{t+|es|neón|m}}
 * Swahili: {{t|sw|neoni}}
 * Swedish: {{t+|sv|neon|n}}
-* Tajik: {{t|tg|неон|sc=Cyrl}}
+* Tajik: {{t|tg|неон}}
 * Tamil: {{t+|ta|நியான்}}, {{t|ta|ஒளிரியம்}}
 * Thai: {{t+|th|นีออน}}
 * Turkish: {{t+|tr|neon}}
 * Ukrainian: {{t|uk|нео́н|m}}
 * Urdu: {{t|ur|نیون}}
-* Uzbek: {{t+|uz|neon}}, {{t+|uz|неон|tr=neon|sc=Cyrl}}
+* Uzbek: {{t+|uz|neon}}, {{t+|uz|неон}}|tr=neon
 * Vietnamese: {{t+|vi|neon}}, {{t+|vi|nê-ông}}
 * Welsh: {{t+|cy|neon}}
 * West Frisian: {{t|fy|neon}}
@@ -131,9 +131,10 @@ From {{etyl|grc|en}} {{m|grc|νέον|}}, neuter of {{m|grc|νέος||new}}, fro
 {{trans-bottom}}
 
 {{trans-top|neon signs}}
-* Bulgarian: {{t|bg|нео́н|m|sc=Cyrl}}
+* Bulgarian: {{t|bg|нео́н|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|霓虹|tr=níhóng|sc=Hani}}, {{t+|cmn|霓虹燈|sc=Hani}}, {{t+|cmn|霓虹灯|tr=níhóngdēng|sc=Hani}}
+*: Mandarin: {{t+|cmn|霓虹|tr=níhóng}}, {{t+|cmn|霓虹燈}}, {{t+|cmn|霓虹灯|tr=níhóngdēng}}
+* Irish: {{t+|ga|neon|m}}
 {{trans-mid}}
 * Japanese: {{t+|ja|ネオン|tr=neon}}
 * Russian: {{t+|ru|нео́н|m}}
@@ -141,7 +142,7 @@ From {{etyl|grc|en}} {{m|grc|νέον|}}, neuter of {{m|grc|νέος||new}}, fro
 {{trans-bottom}}
 
 {{trans-top|neon tetra}}
-* Bulgarian: {{t|bg|нео́нова те́тра|f|sc=Cyrl}}
+* Bulgarian: {{t|bg|нео́нова те́тра|f}}
 {{trans-mid}}
 {{trans-bottom}}
 
