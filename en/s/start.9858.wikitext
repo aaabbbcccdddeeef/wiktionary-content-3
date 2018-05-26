@@ -65,7 +65,7 @@ From {{der|en|enm|stert}}, from the verb {{m|enm|sterten||to start, startle}}. S
 * Inari Sami: {{t|smn|algâ}}
 * Italian: {{t+|it|avvio|m}}, {{t+|it|partenza|f}}, {{t+|it|inizio|m}}
 {{trans-mid}}
-* Japanese: {{t+|ja|開始|tr=kaishi}}, {{t+|ja|スタート|tr=sutāto}}, {{t|ja|初め|tr=はじめ, hajime|sc=Jpan}}
+* Japanese: {{t+|ja|開始|tr=kaishi}}, {{t+|ja|スタート|tr=sutāto}}, {{t+|ja|初め|tr=はじめ, hajime|sc=Jpan}}
 * Kurdish:
 *: Sorani: {{t|ckb|سەرەتا|tr=sereta}}
 * Macedonian: {{t|mk|по́четок|m|sc=Cyrl}}
@@ -100,7 +100,7 @@ From {{der|en|enm|stert}}, from the verb {{m|enm|sterten||to start, startle}}. S
 * Italian: {{t+|it|avvio|m}}
 * Maori: {{t|mi|tamaki}}, {{t|mi|kahuki}}, {{t|mi|oho}}, {{t|mi|ohorere}}, {{t|mi|ohotata}}
 * Norwegian: 
-*: Bokmål: {{t+|no|rykk|n}}
+*: Bokmål: {{t|no|rykk|n}}
 * Portuguese: {{t+|pt|sobressalto|m}}
 {{trans-mid}}
 * Russian: {{t+|ru|рыво́к|m}}
@@ -392,8 +392,8 @@ From {{inh|en|enm|sterten|t=to leap up suddenly, rush out}}, from {{inh|en|ang|s
 {{trans-bottom}}
 
 {{trans-top|to awaken suddenly}}
-* Finnish: {{t|fi|säpsähtää}}, {{t|fi|havahtua}}
-* Hungarian: {{t|hu|felriad}}
+* Finnish: {{t|fi|säpsähtää}}, {{t+|fi|havahtua}}
+* Hungarian: {{t+|hu|felriad}}
 * Icelandic: {{t|is|hrökkva upp}}
 {{trans-mid}}
 * Japanese: {{t|ja|飛び起きる|tr=tobi-okiru}}
