@@ -6,26 +6,11 @@
 * {{rhymes|ætʃ|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|bache}}, {{m|enm|bæcche}}, from {{etyl|ang|en}} {{m|ang|bæċe}}, {{m|ang|beċe||brook, stream}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*bakiz||brook}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bʰog-||flowing water}}. More at {{l|en|beach}}.
-
-====Alternative forms====
-* {{l|en|baiche}} {{qualifier|obsolete}}
-
-====Noun====
-{{en-noun|batches}}
-
-# A [[bank]]; a [[sandbank]].
-# A [[field]] or [[patch]] of ground lying near a stream; the [[dale]] in which a stream flows.
-
-===Etymology 2===
 From {{etyl|enm|en}} {{m|enm|bache}}, {{m|enm|bacche}}, from {{etyl|ang|en}} {{m|ang|*bæċe}}, {{m|ang|*bæċċe||baking; something baked}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*bakiz||baking}}, related to {{m|ang|bacan||to bake}}. Compare German {{m|de|Gebäck|}}, Dutch {{m|nl|gebak|}} and {{m|nl|baksel|}}.
 
 ====Noun====
 {{en-noun|es}}
 
-# {{lb|en|obsolete}} The process of [[baking]].
-#* '''1551''', T. Wilson, ''Logike 42 b'':
-#*: Except the baker doe his part also in the '''batch'''.
 # The quantity of [[bread]] or other baked goods [[bake]]d at one time.
 #: ''We made a '''batch''' of cookies to take to the party.''
 # A quantity of anything produced at one operation.
@@ -38,6 +23,9 @@ From {{etyl|enm|en}} {{m|enm|bache}}, {{m|enm|bacche}}, from {{etyl|ang|en}} {{m
 # {{lb|en|UK|dialect|Midlands}} A [[bread roll]].
 # {{lb|en|Philippines}} A [[graduating]] class.
 #: ''She was the valedictorian of '''Batch''' '73.''
+# {{lb|en|obsolete}} The process of [[baking]].
+#* '''1551''', T. Wilson, ''Logike 42 b'':
+#*: Except the baker doe his part also in the '''batch'''.
 
 =====Synonyms=====
 * {{sense|quantity of baked goods}} {{l|en|recipe}}
@@ -108,16 +96,16 @@ From {{etyl|enm|en}} {{m|enm|bache}}, {{m|enm|bacche}}, from {{etyl|ang|en}} {{m
 ====Verb====
 {{en-verb|batches|batching|batched}}
 
-# To [[aggregate]] things together into a batch.
+# {{lb|en|transitive}} To [[aggregate]] things together into a batch.
 #: ''The contractor '''batched''' the purchase orders for the entire month into one statement.''
-# {{lb|en|computing}} To handle a set of input data or requests as a [[batch process]].
+# {{lb|en|transitive|computing}} To handle a set of input data or requests as a [[batch process]].
 #: ''The purchase requests for the day were stored in a queue and '''batched''' for printing the next morning.''
 
 ====Adjective====
 {{en-adj|-}}
 
 # Of a process, operating for a defined set of conditions, and then halting.
-#: ''The plant had two '''batch''' assembly lines for packaging, as well as a continuous feed production line.
+#: ''The plant had two '''batch''' assembly lines for packaging, as well as a continuous feed production line.''
 
 =====Antonyms=====
 * {{l|en|continuous}}
@@ -129,6 +117,18 @@ From {{etyl|enm|en}} {{m|enm|bache}}, {{m|enm|bacche}}, from {{etyl|ang|en}} {{m
 ====References====
 * {{R:Webster 1913}}
 * '''1996,''' T.F. Hoad, ''The Concise Oxford Dictionary of Etymology'', Oxford University Press, {{ISBN|0192830988}}
+
+===Etymology 2===
+From {{inh|en|enm|bache}}, {{m|enm|bæcche}}, from {{inh|en|ang|bæċe}}, {{m|ang|beċe||brook, stream}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*bakiz||brook}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*bʰog-||flowing water}}. More at {{l|en|beach}}.
+
+====Alternative forms====
+* {{l|en|baiche}} {{qualifier|obsolete}}
+
+====Noun====
+{{en-noun|es}}
+
+# A [[bank]]; a [[sandbank]].
+# A [[field]] or [[patch]] of ground lying near a stream; the [[dale]] in which a stream flows.
 
 ===Etymology 3===
 from an abbreviation of the pronunciation of {{m|en|bachelor||unmarried adult male}}
