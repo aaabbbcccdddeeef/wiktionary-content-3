@@ -7,7 +7,7 @@
 ===Proper noun===
 {{en-proper noun}}
 
-# {{lb|en|mathematics|analysis}} A [[holomorphic]] [[function]] whose [[domain]] is the [[set]] of [[complex number]]s (except [[one|1]]), and for a real number ''x'' greater than 1 equals the sum of the series <math>\sum_{n=0}^\infty \frac 1 {n^x}</math>.
+# {{lb|en|mathematics|analysis}} A [[holomorphic]] [[function]] whose [[domain]] is the [[set]] of [[complex number]]s (except [[one|1]]), and for a real number ''x'' greater than 1 equals the sum of the series <math>\sum_{n=0}^\infty \frac 1 {n^x} = \frac1{1^x} + \frac1{2^x} + \frac1{3^x} + \frac1{4^x} + \cdots.</math>
 
 ====Hypernyms====
 * {{l|en|function}}
