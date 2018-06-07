@@ -68,21 +68,31 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 # {{lb|en|electronics}} a [[power]] of [[polynomial]] [[function]] in an electronic [[circuit]]’s block, such as a [[filter]], an [[amplifier]], etc.
 #* a 3-stage cascade of a 2nd-order bandpass Butterworth filter.
 # {{lb|en|chemistry}} The overall [[power]] of the rate law of a [[chemical reaction]], expressed as a [[polynomial]] [[function]] of [[concentration]]s of [[reactant]]s and [[product]]s.
-# {{lb|en|mathematics}} The [[cardinality]], or number of elements in a set or more complex structure regardable as a set.
+# {{lb|en|mathematics}} The [[cardinality]], or number of elements in a set, group, or other structure regardable as a set.
 #* '''1911''' [Cambridge University Press], William Burnside, ''Theory of Groups of Finite '''Order''''', 2nd Edition, Reprint, Dover (Dover Phoenix), 2004, [https://books.google.com.au/books?id=LaRWFpBxi_cC&pg=PA222&dq=%22order%22%7C%22orders%22+set%7Cgroup&hl=en&sa=X&ved=0ahUKEwj87tPq0fPaAhWG-lQKHdE4DaEQ6AEIrAIwMQ#v=onepage&q=%22order%22%7C%22orders%22%20set%7Cgroup&f=false page 222],
 #*: In this case, the conjugate set contains ''n''(''n'' − 1)/''x''(''x'' − 1) distinct sub-groups of '''order''' ''m'', and ''H'' is therefore self-conjugate in a group ''K'' of '''order''' ''x''(''x'' − l)''m''.
 #* '''2000''', {{w|Michael Aschbacher}}, ''Finite Group Theory'', {{w|Cambridge University Press}}, 2nd Edition, [https://books.google.com.au/books?id=BprbtnlI6HEC&pg=PA260&dq=%22order%22%7C%22orders%22+set%7Cgroup&hl=en&sa=X&ved=0ahUKEwj87tPq0fPaAhWG-lQKHdE4DaEQ6AEIsgIwMg#v=onepage&q=%22order%22%7C%22orders%22%20set%7Cgroup&f=false page 260],
 #*: For various reasons it turns out to be better to enlarge this set of invariants to include suitable normalizers of subgroups of odd prime '''order'''.
+# {{lb|en|group theory|of an element of a group}} For given group ''G'' and element ''g'' ∈ ''G'', the smallest [[positive]] [[natural number]] ''n'', if it exists, such that (using multiplicative notation), ''g<sup>n</sup> = e'', where ''e'' is the [[identity element]] of ''G''; ''if no such number exists, the element is said to be of '''infinite order''' (or sometimes '''zero order''').''
+#* '''1997''', Frank Celler, C. R. Leedham-Green, ''Calculating the '''Order''' of an Invertible Matrix'', Larry Finkelstein, William M. Kantor (editors), ''Groups and Computation II'', {{w|American Mathematical Society}}, [https://books.google.com.au/books?id=lyL8Ui36FKsC&pg=PA55&dq=%22order+of+an+element%22&hl=en&sa=X&ved=0ahUKEwj6gPTexsDbAhVIjpAKHbudDeEQ6AEIWTAI#v=onepage&q=%22order%20of%20an%20element%22&f=false page 55],
+#*: The object of this note is to observe that it is possible to calculate the '''order''' of an element <math>A</math> of <math>G = \mathit{GL}(d,q)</math> on average using <math>O(d^3 \mathsf{log}\ q)</math> field operations, assuming that <math>q^i-1</math> has been factorised for <math>i\le d</math>.
+#* '''1999''', A. Ehrenfeucht, T. Harju, G. Rozenberg, ''The Theory of 2-structures'', World Scientific, [https://books.google.com.au/books?id=GbVB76O2pn8C&pg=PA15&dq=%22order+of+an+element%22&hl=en&sa=X&ved=0ahUKEwj6gPTexsDbAhVIjpAKHbudDeEQ6AEITTAG#v=onepage&q=%22order%20of%20an%20element%22&f=false page 15],
+#*: If <math>\Delta</math> is a finite group, its cardinality is called the '''order''' of <math>\Delta</math>. The '''order''' of an element <math>a \in \Delta</math> is defined as the smallest nonnegative integer <math>n</math> such that <math>a^n = 1_\Delta</math>. The second case of the following result is known as Cauchy's theorem.
+#*: '''Theorem 1.10''' ''Let <math>\Delta</math> be a finite group.''
+#*:: ''(i) The '''order''' of an element <math>a \in \Delta</math> divides the order <math>|\Delta|</math> of the group.''
+#*:: ''(ii) If a prime number <math>p</math> divides <math>|\Delta|</math>, then there exists an element <math>a \in \Delta</math> of '''order''' <math>p</math>.''
+#* '''2010''', A. R. Vasishta, A. K. Vasishta, ''Modern Algebra'', Krishna Prakashan Media, 60th Edition, [https://books.google.com.au/books?id=45eCTUS6YnQC&pg=PA180&dq=%22order+of+an+element%22&hl=en&sa=X&ved=0ahUKEwj6gPTexsDbAhVIjpAKHbudDeEQ6AEIXzAJ#v=onepage&q=%22order%20of%20an%20element%22&f=false page 180],
+#*: Since in a finite group the '''order''' of an element must be a divisor of the order of the group, therefore ''o'' (''a'') cannot be 3 and so we must have ''o'' (''a'')=4=the order of the group ''G''.
 # {{lb|en|graph theory}} The number of [[vertex|vertices]] in a [[graph]].
 # {{lb|en|order theory}} A [[partially ordered set]].
-# {{lb|en|order theory}} The [[relation]] on a partially ordered set that determines that it in fact a partially ordered set.
+# {{lb|en|order theory}} The [[relation]] on a partially ordered set that determines that it is, in fact, a partially ordered set.
 # {{lb|en|mathematics}} The [[sum]] of the [[exponent]]s on the [[variable]]s in a [[monomial]], or the [[high]]est such among all monomials in a [[polynomial]].
 
 ====Quotations====
-* '''1611''' — [[w:King James Version of the Bible|King James Version of the Bible]], ''[[s:Bible (King James)/Luke|Luke]] 1:1''
-*: Forasmuch as many have taken in hand to set forth in '''order''' a declaration of those things which are most surely believed among us...
-* Donald Knuth. [[wikipedia:The Art of Computer Programming|''The Art of Computer Programming,'']] Volume 3: ''Sorting and Searching,'' Addison-Wesley, 1973, chapter 8:
-*: Since only two of our tape drives were in working '''order''', I was '''ordered''' to '''order''' more tape units in short '''order''', in '''order''' to '''order''' the data several '''orders''' of magnitude faster.
+* '''1611''', ''{{w|King James Version of the Bible|Bible}}'', King James Version, ''[[s:Bible (King James)/Luke|Luke]]'', 1:i:
+*: Forasmuch as many have taken in hand to set forth in '''order''' a declaration of those things which are most surely believed among us{{...}}.
+*  '''1973''', {{w|Donald Knuth}}, ''{{w|The Art of Computer Programming}}'', Volume 3: ''Sorting and Searching,'' Addison-Wesley, chapter 8:
+*: Since only two of our tape drives were in working '''order''', I was ordered to order more tape units in short '''order''', in '''order''' to order the data several '''orders''' of magnitude faster.
 
 ====Antonyms====
 * {{l|en|chaos}}
@@ -642,8 +652,11 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 ====See also====
 * {{l|en|Appendix:Glossary of order theory}}
 
-====References====
-* {{pedia}}
+====Further reading====
+* {{pedialite}}
+* {{pedialite|Order (group theory)}}
+* {{pedialite|Cauchy's theorem (group theory)}}
+* {{pedialite|Lagrange's theorem (group theory)}}
 
 ===Verb===
 {{en-verb}}
