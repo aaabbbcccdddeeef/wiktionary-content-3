@@ -2,23 +2,21 @@
 ==English==
 
 ===Etymology===
-From {{etyl|frm|en}} {{m|frm|perméable}}, from {{etyl|la|en}} {{m|la|permeabilis}}.
+From {{bor|en|frm|perméable}}, from {{der|en|la|permeābilis}}.
 
 ===Adjective===
 {{en-adj}}
 
-# Of or relating to [[substance]], [[substrate]], [[membrane]] or [[material]] that absorbs or allows the [[passage]] of fluids.
-#: ''Rainwater sinks through '''permeable''' rock to form an underground reservoir.''
-
-====Synonyms====
-* {{l|en|water-permeable}}
-
-====Antonyms====
-* {{l|en|impermeable}}
+# of or relating to [[substance]], [[substrate]], [[membrane]] or [[material]] that absorbs or allows the [[passage]] of fluids
+#: {{ux|en|Rainwater sinks through '''permeable''' rock to form an underground reservoir.}}
+#: {{syn|en|water-permeable}}
+#: {{ant|en|impermeable}}
 
 ====Related terms====
-* {{l|en|permeability}}
-* {{l|en|nonpermeable}}
+{{rel2
+|permeability
+|nonpermeable
+|lang=en}}
 
 ====Translations====
 {{trans-top|that absorbs or allows the passage of fluids}}
@@ -41,7 +39,7 @@ From {{etyl|frm|en}} {{m|frm|perméable}}, from {{etyl|la|en}} {{m|la|permeabili
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{m|la|permeābilis}}.
+From {{der|ca|la|permeābilis}}.
 
 ===Pronunciation===
 * {{ca-IPA}}
@@ -50,9 +48,7 @@ From {{etyl|la|ca}} {{m|la|permeābilis}}.
 {{ca-adj|mf}}
 
 # {{l|en|permeable}}
-
-====Antonyms====
-* {{l|ca|impermeable}}
+#: {{ant|ca|impermeable}}
 
 ====Related terms====
 * {{l|ca|permeabilitat}}
@@ -64,15 +60,16 @@ From {{etyl|la|ca}} {{m|la|permeābilis}}.
 ==Spanish==
 
 ===Etymology===
-From {{etyl|la|es}} {{m|la|permeabilis}}.
+From {{der|es|la|permeābilis}}.
+
+===Pronunciation===
+* {{es-IPA}}
 
 ===Adjective===
 {{es-adj|mf}}
 
 # {{l|en|permeable}}
-
-====Antonyms====
-* {{l|es|impermeable}}
+#: {{ant|es|impermeable}}
 
 ====Related terms====
 * {{l|es|permeabilidad}}
