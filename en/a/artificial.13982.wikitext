@@ -45,11 +45,11 @@ Via {{etyl|fro|en}} (French: ''[[artificiel]]''), from {{etyl|la|en}} {{m|la|art
 * Armenian: {{t+|hy|արհեստական}}
 * Asturian: {{t|ast|artificial}}
 * Belarusian: {{t|be|шту́чны}}
-* Bengali: {{t|bn|কৃত্রিম|tr=kritrim}}
-* Bulgarian: {{t+|bg|изкуствен}}, {{t+|bg|изку́ствен}}
+* Bengali: {{t|bn|কৃত্রিম}}
+* Bulgarian: {{t+|bg|изку́ствен}}
 * Catalan: {{t+|ca|artificial}}
 * Chinese:
-*: Mandarin: {{t|cmn|人造的|tr=rénzào de}}, {{t+|cmn|人造|tr=rénzào de|alt=人造的}}
+*: Mandarin: {{t+|cmn|人造|tr=rénzào de|alt=人造的}}
 * Czech: {{t+|cs|umělý}}
 * Danish: {{t+|da|kunstig}}, {{t|da|artificiel}}
 * Dutch: {{t+|nl|artificieel}}, {{t+|nl|kunstmatig}}
@@ -64,7 +64,7 @@ Via {{etyl|fro|en}} (French: ''[[artificiel]]''), from {{etyl|la|en}} {{m|la|art
 * Ido: {{t+|io|artificala}}
 {{trans-mid}}
 * Italian: {{t+|it|artificiale}}, {{t+|it|artefatto|m}}
-* Japanese: {{t+|ja|人工|alt=人工の|tr=jinkō no}}, {{t+|ja|人工|tr=じんこうの, jinkō no|alt=人工の}}
+* Japanese: {{t+|ja|人工|tr=じんこうの, jinkō no|alt=人工の}}
 * Korean: {{t+|ko|인공|alt=인공의}}
 * Macedonian: {{t|mk|вештачки}}
 * Mongolian: {{t+|mn|хиймэл|sc=Cyrl}}
@@ -73,9 +73,11 @@ Via {{etyl|fro|en}} (French: ''[[artificiel]]''), from {{etyl|la|en}} {{m|la|art
 * Portuguese: {{t+|pt|artificial}}
 * Romanian: {{t+|ro|artificial}}
 * Russian: {{t+|ru|иску́сственный}}
-* Sanskrit: {{t+|sa|कृत्रिम|tr=kritrima}}
+* Sanskrit: {{t+|sa|कृत्रिम}}
 * Scottish Gaelic: {{t|gd|fuadain}}
-* Serbo-Croatian: {{t+|sh|veštački}}, {{t|sh|вештачки}}
+* Serbo-Croatian: 
+*: Cyrillic: {{t|sh|вештачки}}
+*: Roman: {{t+|sh|veštački}}
 * Slovak: {{t|sk|umelý}}
 * Slovene: {{t|sl|umeten}}
 * Spanish: {{t+|es|artificial}}
@@ -116,7 +118,7 @@ Via {{etyl|fro|en}} (French: ''[[artificiel]]''), from {{etyl|la|en}} {{m|la|art
 * Albanian: {{t+|sq|artificial}}
 * Armenian: {{t+|hy|արհեստական}}
 * Asturian: {{t|ast|artificial}}
-* Bengali: {{t|bn|কৃত্রিম|tr=kritrim}}
+* Bengali: {{t|bn|কৃত্রিম}}
 * Bulgarian: {{t+|bg|неестествен}}, {{t+|bg|принуден}}
 * Catalan: {{t+|ca|artificial}}
 * Dutch: {{t+|nl|kunstmatig}}, {{t+|nl|artificieel}}, {{t+|nl|onnatuurlijk}}, {{t+|nl|nagemaakt}}
@@ -126,11 +128,11 @@ Via {{etyl|fro|en}} (French: ''[[artificiel]]''), from {{etyl|la|en}} {{m|la|art
 {{trans-mid}}
 * Greek: {{t+|el|τεχνητός}}, {{t+|el|αφύσικος}}
 * Italian: {{t+|it|innaturale}}
-* Japanese: {{t-check|ja|人為的な|tr=jin'iteki na}}<!-- especially translit -->
+* Japanese: {{t|ja|人為的|tr=じんいてきな, jin'iteki na|alt=人為的な}}
 * Macedonian: {{t|mk|вештачки}}, {{t|mk|неприроден}}
 * Portuguese: {{t+|pt|artificial}}
 * Romanian: {{t+|ro|nenatural}}, {{t+|ro|artificial}}
-* Russian: {{t+|ru|иску́сственный}}, {{t+|ru|ненатура́льный}}
+* Russian: {{t+|ru|иску́сственный}}, {{t+|ru|ненатура́льный}}, {{t+|ru|неесте́ственный}}
 * Spanish: {{t+|es|artificial}}
 * Telugu: {{t|te|అసహజమైన}}
 * Turkish: {{t+|tr|yapay}}, {{t+|tr|yapmacık}}
