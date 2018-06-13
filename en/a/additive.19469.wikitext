@@ -1,9 +1,10 @@
 {{also|Additive|additivé}}
 ==English==
+{{wikipedia}}
 
 ===Etymology===
 {{PIE root|en|deh₃}}
-From {{der|en|LL.|additivus}}, from the participial stem of {{der|en|la|addere|t=to add}}.
+From {{der|en|LL.|additivus}}, from the participial stem of {{der|en|la|addere||to add}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈæ.dɪ.tɪv/|lang=en}}
@@ -12,29 +13,38 @@ From {{der|en|LL.|additivus}}, from the participial stem of {{der|en|la|addere|t
 ===Adjective===
 {{en-adj}}
 
-# {{lb|en|mathematics}} pertaining to [[addition]]; that can be, or has been, [[added]]
-# {{lb|en|mathematics|of a [[function]], etc.}} [[distributive#English|distributive]] over [[addition]]
-#: {{ux|en|Matrix multiplication is '''additive''' in that <math>M\vec v+M\vec w=M(\vec v+\vec w)</math>.}}
-# {{lb|en|algebra}} having [[addition]] as an [[operator]]
+# {{lb|en|mathematics}} Pertaining to [[addition]]; that can be, or has been, [[added]].
+# {{lb|en|mathematics|of a [[function]], etc.}} That is [[distributive#English|distributive]] over [[addition]].
+#: {{ux|en|Matrix multiplication is '''additive''', in that <math>M\vec v+M\vec w=M(\vec v+\vec w)</math>.}}
+# {{lb|en|group theory|of a group, semigroup, etc.}} Whose [[operator]] is identified as [[addition]].
 #: {{ux|en|It is natural to look at a finite cyclic group as an '''additive''' group.}}
-# {{lb|en|chemistry}} pertaining to chemical [[addition]]
-# {{lb|en|genetics}} describing [[gene]]s (or the interaction etc. of such genes) which govern the same trait and whose effects work together on the [[phenotype]]
+# {{lb|en|chemistry}} Pertaining to chemical [[addition]].
+# {{lb|en|genetics}} Of or pertaining to [[gene]]s (or the interaction etc. of such genes) which govern the same trait and whose effects work together on the [[phenotype]].
 
-====Antonyms====
+====Coordinate terms====
+* {{l|en|multiplicative}}
 * {{l|en|subtractive}}
 
 ====Derived terms====
-{{der3|additive color|additive function|additive group|additive identity|additive inverse|lang=en}}
+{{der3|additive color
+|additive function
+|additive group
+|additive identity
+|additive inverse
+|lang=en}}
+
+====Related terms====
+* {{l|en|additivity}}
 
 ===Noun===
 {{en-noun}}
 
-# A [[substance]] added to another substance or [[product]] for its ability to [[alter]] its [[properties]]
+# A [[substance]] added to another substance or [[product]] to produce specific [[properties]] in the combined substance.
 #: {{ux|en|Oil may be used as an '''additive''' in gasoline to improve the lubrication of a small engine.}}
-# {{lb|en|grammar}} a [[word]] or [[phrase]] that adds something, such as ''also'', ''even'', or ''nor''
+# {{lb|en|grammar}} A [[word]] or [[phrase]] that [[add]]s something, such as ''also'', ''even'', or ''nor''.
 
 ====Translations====
-{{trans-top|substance altering another substance}}
+{{trans-top|substance added to another substance to produce certain properties}}
 * Asturian: {{t|ast|aditivu|m}}
 * Bulgarian: {{t+|bg|доба́вка|f}}
 * Catalan: {{t|ca|additiu|m}}
@@ -63,9 +73,16 @@ From {{der|en|LL.|additivus}}, from the participial stem of {{der|en|la|addere|t
 * Swedish: {{t+|sv|tillsats|c}}
 {{trans-bottom}}
 
-====Further reading====
+===References===
 * {{R:Webster 1913}}
 * {{R:Century 1911}}
+
+===Further reading===
+* {{pedialite|Additive genetic effects}}
+* {{pedialite|Additive polynomial}}
+* {{pedialite|Additive utility}}
+* {{pedialite|Freshman's dream}} (''In which the function ƒ(x) = x<sup>n</sup> is erroneously thought to be '''additive'''.'')
+* {{pedialite|Weakly additive}}
 
 ===Anagrams===
 * {{anagrams|en|davidite}}
