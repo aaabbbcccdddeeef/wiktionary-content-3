@@ -23,6 +23,9 @@ From {{inh|en|enm|mokken}}, from {{der|en|fro|mocquer}}, {{m|fro|moquier|t=to de
 #*: Fools make a '''mock''' at sin.
 # A [[practice]] [[exam]] set by an educating institution to prepare students for an important exam.
 #: ''He got a B in his History '''mock''', but improved to an A in the exam.''
+# {{lb|en|software engineering}} A [[mockup]] or [[prototype]].
+#* '''2013''', Jeff Langr, ''Modern C++ Programming with Test-Driven Development''
+#*: You can, if you must, create a '''mock''' that derives from a concrete class. The problem is that the resulting class represents a mix of production and mocked behavior, a beast referred to as a partial '''mock'''.
 
 ====Derived terms====
 * {{l|en|mocksome}}
