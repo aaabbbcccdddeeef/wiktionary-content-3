@@ -1,4 +1,6 @@
 ==English==
+[[File:Monotonicity example1.png|right|thumb|A ''nondecreasing'' '''monotone function''']]
+[[File:Monotonicity example2.png|right|thumb|A ''nonincreasing'' '''monotone function''']]
 
 ===Alternative forms===
 * {{l|en|monotonic function}}
@@ -6,23 +8,72 @@
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|mathematics}}a [[function]] that either never decreases or never increases as its [[independent variable]] increases.
+# {{lb|en|calculus}} A [[function]] ''f'' : ''X''→'''R''' (where ''X'' is a [[subset]] of '''R''', possibly a [[discrete set]]) that either never decreases or never increases as its [[independent variable]] increases; that is, either ''x'' ≤ ''y'' implies ''f''(''x'') ≤ ''f''(''y'') or ''x'' ≤ ''y'' implies ''f''(''y'') ≤ ''f''(''x'').
+#: {{ux|en|Where defined, the first derivative of a '''monotone function''' never changes sign, although it may be zero.}}
+#* '''2005''', Anthony W. Knapp, ''Basic Real Analysis'', Springer, [https://books.google.com.au/books?id=4ZZCAAAAQBAJ&pg=PA357&dq=%22monotone+function%22%7C%22monotone+functions%22&hl=en&sa=X&ved=0ahUKEwjk9oCWhunbAhXG2LwKHbCACD8Q6AEIpAEwGA#v=onepage&q=%22monotone%20function%22%7C%22monotone%20functions%22&f=false page 357],
+#*: Section 1 contains Lebesgue's main tool, a theorem saying that '''monotone functions''' on the line are differentiable almost everywhere.
+#* '''2011''', Saminathan Ponnusamy, ''Foundations of Mathematical Analysis'', Springer, [https://books.google.com.au/books?id=KcGYMPnxHCQC&pg=PA468&dq=%22monotone+function%22%7C%22monotone+functions%22&hl=en&sa=X&ved=0ahUKEwjk9oCWhunbAhXG2LwKHbCACD8Q6AEI_gEwKQ#v=onepage&q=%22monotone%20function%22%7C%22monotone%20functions%22&f=false page 469],
+#*: '''Monotone functions''' on <math>[a, b]</math> have nice properties. For example, they are integrable on <math>[a, b]</math> and have only a countable number of jump discontinuities. In this section, we shall also show that every '''monotone function''' is a function of bounded variation, and hence the class <math>\mathit{BV}([a,b])</math> contains the class of '''monotone functions''' on <math>[a, b]</math>.
+#* '''2013''', Donald Yau, ''A First Course in Analysis'', World Scientific, [https://books.google.com.au/books?id=osx4mw9ZhPMC&pg=PA104&dq=%22monotone+function%22%7C%22monotone+functions%22&hl=en&sa=X&ved=0ahUKEwjk9oCWhunbAhXG2LwKHbCACD8Q6AEIngEwFw#v=onepage&q=%22monotone%20function%22%7C%22monotone%20functions%22&f=false page 104],
+#*: We saw in the previous section that '''monotone functions''' have some nice properties. For example, a '''monotone function''' is continuous except possibly on a countable set. They are also closed under scalar multiplication, and the sum of two increasing functions is increasing. (Exercise (4) on page 103). However, the difference and product of two '''monotone functions''' are not necessarily monotone (Exercise (5) on page 103).
+# {{lb|en|order theory|analysis}} A function ''f'', whose [[domain]] has a [[partial order]] "≤", with either: (1) the property that ''x'' ≤ ''y'' implies ''f''(''x'') ≤ ''f''(''y''), or (2) the property that ''x'' ≤ ''y'' implies ''f''(''y'') ≤ ''f''(''x'').
+# {{lb|en|Boolean algebra}} A [[Boolean function]] with the property that switching any one input variable from 0 to 1 results either in no change in output or a change from 0 to 1.
+
+====Usage notes====
+* The order theory definition avoids reference to the concepts {{m|en|increasing}} and {{m|en|decreasing}}, making it somewhat more generally applicable.
+* In the Boolean algebra case, there is implicit in the definition an intuitively natural [[partial order]] "≤" (see ''{{w|product order}}'' on Wikipedia) such that, given two input tuples ''a'' = (''a''<sub>1</sub>, ''a''<sub>2</sub>,... ''a''<sub>n</sub>) and ''b'' = (''b''<sub>1</sub>, ''b''<sub>2</sub>,... ''b''<sub>n</sub>), ''a'' ≤ ''b'' means that ''b'' can be obtained from ''a'' via a series of (zero or more) steps each switching an input from 0 to 1. With this partial order in mind, (only) property (1) of the order theory definition applies.
+
+====Synonyms====
+* {{sense|function that either never decreases or never increases}} {{l|en|monotonic}} '''function'''
 
 ====Hypernyms====
 * {{l|en|function}}
 
 ====Hyponyms====
-* {{l|en|monotone nondecreasing function}}
-* {{l|en|monotone nonincreasing function}}
-* {{l|en|monotonic increasing function}}
+* {{sense|calculus}}
+** {{sense|function that never decreases as its independent variable increases}}
+*** {{l|en|nondecreasing function}}, {{l|en|monotone nondecreasing function}}, {{l|en|monotonic nondecreasing function}}, {{l|en|monotonically}} '''nondecreasing function'''
+*** {{l|en|increasing function}}, {{l|en|monotone increasing function}}, {{l|en|monotonic increasing function}}, {{l|en|monotonically}} '''increasing function'''
+** {{sense|function that never increases as its independent variable increases}}
+*** {{l|en|nonincreasing function}}, {{l|en|monotone nonincreasing function}}, {{l|en|monotonic nonincreasing function}}, {{l|en|monotonically}} '''nonincreasing function'''
+*** {{l|en|decreasing function}}, {{l|en|monotone decreasing function}}, {{l|en|monotonic decreasing function}}, {{l|en|monotonically}} '''decreasing function'''
+* {{sense|order theory}}
+** {{l|en|isotone function}}, {{l|en|order-preserving function}}
+** {{l|en|anti-monotone function}}, {{l|en|antitone function}}, {{l|en|order-reversing function}}
+
+====Related terms====
+* {{l|en|monotone}}
+* {{l|en|monotone operator}}
+* {{l|en|monotone transformation}}
+* {{l|en|monotonic}}
 
 ====Translations====
-{{trans-top|function that never decreases}}
-* German: {{t|de|monoton fallende Funktion|f}}
+{{trans-top|calculus: real function that either never decreases or never increases}}
+* German: {{t|de|monotone Funktion|f}}
 * Serbo-Croatian: {{t|sh|monotona funkcija|f}}
 {{trans-mid}}
-* Turkish: {{t|tr|monoton azalan fonksiyon}}
+* Turkish: {{t|tr|monoton fonksiyon}}
+{{trans-bottom}}
+{{trans-top|order theory: function such that either ''x'' ≤ ''y'' implies ''f''(''x'') ≤ ''f''(''y'') or ''x'' ≤ ''y'' implies ''f''(''y'') ≤ ''f''(''x'')}}
+* German: {{t|de|monotone Funktion|f}}
+* Serbo-Croatian: {{t|sh|monotona funkcija|f}}
+{{trans-mid}}
+* Turkish: {{t|tr|monoton fonksiyon}}
+{{trans-bottom}}
+{{trans-top|Boolean function such that switching an input from 0 to 1 either does not change the output or changes it from 0 to 1}}
+{{trans-mid}}
 {{trans-bottom}}
 
-===References===
-* {{pedia}}
+===See also===
+* {{l|en|absolutely monotonic}}
+* {{l|en|strictly decreasing}}
+* {{l|en|strictly increasing}}
+* {{l|en|weakly decreasing}}
+* {{l|en|weakly increasing}}
+
+===Further reading===
+* {{pedialite|Monotonic function}}
+* {{pedialite|Bernstein's theorem on monotone functions}}
+* {{pedialite|Monotone cubic interpolation}}
+* [https://www.encyclopediaofmath.org/index.php/Monotone_function Monotone function] on {{w|Encyclopedia of Mathematics}}
+* [http://mathworld.wolfram.com/MonotonicFunction.html Monotonic Function] on {{w|MathWorld|Wolfram MathWorld}}
