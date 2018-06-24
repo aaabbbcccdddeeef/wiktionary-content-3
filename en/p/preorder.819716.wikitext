@@ -4,7 +4,7 @@
 {{wikipedia}}
 
 ===Etymology===
-{{prefix|pre|order|lang=en}}
+{{prefix|pre|order|lang=en}}.
 
 ===Verb===
 {{en-verb}}
@@ -22,16 +22,27 @@
 {{en-noun}}
 
 # An order for goods or services placed [[in advance]].
-# {{lb|en|set theory}} A [[binary relation]] that is [[reflexive]] and [[transitive]].
-#: ''The relation of logical implication over sentences is an example of a [[preorder]].''
+# {{lb|en|set theory|order theory}} A [[binary relation]] that is [[reflexive]] and [[transitive]].
+#: {{ux|en|The relation of logical implication over sentences is an example of a '''preorder'''.}}
+#* '''2002''', Yves Nievergelt, ''Foundations of Logic and Mathematics'', Springer (Birkhäuser), [https://books.google.com.au/books?id=_H_nJdagqL8C&pg=PA152&dq=%22preorder%22%7C%22preorders%22&hl=en&sa=X&ved=0ahUKEwiLzvTciOzbAhUIpJQKHW5zBfAQ6AEIPDAE#v=onepage&q=%22preorder%22%7C%22preorders%22&f=false page 152],
+#*: '''Example 436''' For each set <math>A</math>, the relation <math>\subseteq</math> is a '''preorder''' on <math>\mathcal{P}(A)</math>.
+#* '''2010''', S. Kaci, ''Refined Preference-Based Argumentation Frameworks'', Pietro Baroni, F. Cerutti, M. Giacomin, G. R. Simari (editors), ''Computational Models of Argument: Proceedings of COMMA 2010'', IOS Press, [https://books.google.com.au/books?id=8TOFQ-8pvRkC&pg=PA306&dq=%22preorder%22%7C%22preorders%22&hl=en&sa=X&ved=0ahUKEwiLzvTciOzbAhUIpJQKHW5zBfAQ6AEIvwEwGw#v=onepage&q=%22preorder%22%7C%22preorders%22&f=false page 306],
+#*: Let us first compare <math>S_1</math>, <math>S_2</math> and <math>S_3</math> w.r.t. the partial '''preorder''' <math>\succeq</math>.
 
 ====Synonyms====
-* {{l|en|quasiorder}}
+* {{sense|binary relation that is reflexive and transitive}} {{l|en|quasiorder}}
 
 ====Hyponyms====
-* {{l|en|partial order}}
-** [[total order]]
-*** [[well-order]]
+* {{sense|binary relation that is reflexive and transitive}}
+** {{l|en|partial order}}
+*** [[total order]]
+**** [[well-order]]
+
+====Derived terms====
+* {{l|en|preorder algebra}}
+* {{l|en|preorder atom}}
+* {{l|en|preorder functor}}
+* {{l|en|strict preorder}}
 
 ====Related terms====
 * {{l|en|preordered set}}
@@ -53,7 +64,13 @@
 ===Adjective===
 {{en-adj|-}}
 
-# {{lb|en|computing theory}} Of a [[tree traversal]], [[recursive]]ly visiting the [[root]] before the [[left]] and [[right]] [[subtree]]s.
+# {{lb|en|computing theory|of a [[traversal]] of a [[tree]]}} Such that, [[recursive]]ly, the [[root]] is visited before the [[left]] and [[right]] [[subtree]]s.
+#* '''2002''', Gabriel Valiente, ''Algorithms on Trees and Graphs'', Springer, [https://books.google.com.au/books?id=NSfIWxqPlbcC&pg=PA115&dq=%22preorder%22%7C%22preorders%22&hl=en&sa=X&ved=0ahUKEwiLzvTciOzbAhUIpJQKHW5zBfAQ6AEIaTAM#v=onepage&q=%22preorder%22%7C%22preorders%22&f=false page 115],
+#*: Now, the '''preorder''' traversal of a tree can be constructed from the '''preorder''' traversals of the subtrees rooted at the children of the root of the tree.
+
+====Coordinate terms====
+* {{l|en|inorder}}
+* {{l|en|postorder}}
 
 ====Hypernyms====
 * {{l|en|depth-first}}
