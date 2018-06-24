@@ -1,35 +1,33 @@
 ==English==
-{{wikipedia}}
 
 ===Etymology===
 From {{m|en|subjunctive}} (from {{etyl|la|en}} {{m|la|subjunctivus}}, from {{m|la|sub-||under}} + {{m|la|junctus||joined}}, perfect passive participle of {{m|la|jungere||to join}} + adjective suffix {{m|la|-ivus}}) + {{m|en|mood}} (from {{etyl|la|en}} {{m|la|modus}}).
 
 ===Noun===
+{{examples-right|
+* ''If John '''were''' here, he would know what to do.''
+* ''If this '''be''' liberty, then give me death!''
+* ''I wish that I '''were''' there.''
+* ''I want that he '''go'''.''
+}}
 {{en-noun}}
 
 # {{lb|en|grammar}} [[mood#Etymology_2|Mood]] expressing an action or state which is [[hypothetical]] or [[anticipated]] rather than [[actual]], including [[wish]]es and [[command]]s.
-#: ''If John '''were''' here, he would know what to do.''
-#: ''If this '''be''' liberty, then give me death!''
-#: ''I wish that I '''were''' there.''
-#: ''I want that he '''go'''.''
+#: {{syn|en|conjunctive|conjunctive mode|conjunctive mood|subjunctive|subjunctive mode}}
 
 ====Usage notes====
-Subjunctive mood is used much more in some other languages, such as Spanish and Latin, than it is in English. Apart from the third-person singular form without the suffix -('''e''')'''s''' (''I want that he '''go'''''), modern English has only one verb that has mutually distinguishable [[indicative mood|indicative]] and subjunctive forms &mdash; ''[[be]]''.
-::* be (subjunctive present, all persons except for archaic second-person singular)
-::: ''I suggest that that measure '''be''' taken.''
-::* [[beest]] (archaic second-person singular, subjunctive present)
-::: ''Stephano!—If thou '''beest''' Stephano, touch me, and speak to me; for I am Trinculo:—be not afeared—thy good friend Trinculo.'' -- {{RQ:Shakespeare Tempest}}
-::* [[wert]] (archaic second-person singular, subjunctive past)
-::: ''If thou '''wert''' pure and upright; surely now he would awake for thee, ...'' -- '''1611''', ''The Bible, Job 8:6'' (King James (Authorised) Version)
-::: ''I know thy works, that thou art neither cold nor hot: I would thou '''wert''' cold or hot.'' -- '''1611''', ''The Bible, Revelation 3:15'' (King James (Authorised) Version)
-::* [[were]] (first- and third-person singular, subjunctive past)
-::: ''If John '''were''' here, he would know what to do.''
+Subjunctive mood is used much more in some other languages, such as Spanish and Latin, than it is in English. Apart from the third-person singular form without the suffix -('''e''')'''s''' (''I want that he '''go'''''), modern English has only one verb that has mutually distinguishable [[indicative mood|indicative]] and subjunctive forms &mdash; {{m|en|be}}.
+:* {{m|en|be}} (subjunctive present, all persons except for archaic second-person singular)
+:: ''I suggest that that measure '''be''' taken.''
+:* {{m|en|beest}} (archaic second-person singular, subjunctive present)
+:: ''Stephano!—If thou '''beest''' Stephano, touch me, and speak to me; for I am Trinculo:—be not afeared—thy good friend Trinculo.'' -- {{RQ:Shakespeare Tempest}}
+:* {{m|en|wert}} (archaic second-person singular, subjunctive past)
+:: ''If thou '''wert''' pure and upright; surely now he would awake for thee, ...'' -- '''1611''', ''The Bible, Job 8:6'' (King James (Authorised) Version)
+:: ''I know thy works, that thou art neither cold nor hot: I would thou '''wert''' cold or hot.'' -- '''1611''', ''The Bible, Revelation 3:15'' (King James (Authorised) Version)
+:* {{m|en|were}} (first- and third-person singular, subjunctive past)
+:: ''If John '''were''' here, he would know what to do.''
 
 See also the conjugation at ''[[be#Conjugation|be]]''.
-
-====Synonyms====
-* {{l|en|conjunctive}}, {{l|en|conjunctive mode}}, {{l|en|conjunctive mood}}
-* {{l|en|subjunctive}}, {{l|en|subjunctive mode}}
 
 ====Translations====
 {{trans-top|subjunctive mood}}
@@ -73,5 +71,8 @@ See also the conjugation at ''[[be#Conjugation|be]]''.
 * Vietnamese: {{t+|vi|lối cầu khẩn}}
 * Yiddish: {{t|yi|קאָניונקטיוו|m}}
 {{trans-bottom}}
+
+===Further reading===
+* {{pedia}}
 
 [[Category:en:Grammatical moods]]
