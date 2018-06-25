@@ -28,6 +28,8 @@
 #*: '''Example 436''' For each set <math>A</math>, the relation <math>\subseteq</math> is a '''preorder''' on <math>\mathcal{P}(A)</math>.
 #* '''2010''', S. Kaci, ''Refined Preference-Based Argumentation Frameworks'', Pietro Baroni, F. Cerutti, M. Giacomin, G. R. Simari (editors), ''Computational Models of Argument: Proceedings of COMMA 2010'', IOS Press, [https://books.google.com.au/books?id=8TOFQ-8pvRkC&pg=PA306&dq=%22preorder%22%7C%22preorders%22&hl=en&sa=X&ved=0ahUKEwiLzvTciOzbAhUIpJQKHW5zBfAQ6AEIvwEwGw#v=onepage&q=%22preorder%22%7C%22preorders%22&f=false page 306],
 #*: Let us first compare <math>S_1</math>, <math>S_2</math> and <math>S_3</math> w.r.t. the partial '''preorder''' <math>\succeq</math>.
+#* '''2000''', Jean-Charles Pomerol, Sergio Barba-Romero, ''Multicriterion Decision in Management: Principles and Practice'', Springer, Softcover, [https://books.google.com.au/books?id=sk_hBwAAQBAJ&pg=PA58&dq=%22preorder%22%7C%22preorders%22&hl=en&sa=X&ved=0ahUKEwiLzvTciOzbAhUIpJQKHW5zBfAQ6AEIzAEwHQ#v=onepage&q=%22preorder%22%7C%22preorders%22&f=false page 58],
+#*: It can easily be verified that the above relation is a '''preorder''', i.e. that it is reflexive and transitive.
 
 ====Synonyms====
 * {{sense|binary relation that is reflexive and transitive}} {{l|en|quasiorder}}
@@ -67,6 +69,10 @@
 # {{lb|en|computing theory|of a [[traversal]] of a [[tree]]}} Such that, [[recursive]]ly, the [[root]] is visited before the [[left]] and [[right]] [[subtree]]s.
 #* '''2002''', Gabriel Valiente, ''Algorithms on Trees and Graphs'', Springer, [https://books.google.com.au/books?id=NSfIWxqPlbcC&pg=PA115&dq=%22preorder%22%7C%22preorders%22&hl=en&sa=X&ved=0ahUKEwiLzvTciOzbAhUIpJQKHW5zBfAQ6AEIaTAM#v=onepage&q=%22preorder%22%7C%22preorders%22&f=false page 115],
 #*: Now, the '''preorder''' traversal of a tree can be constructed from the '''preorder''' traversals of the subtrees rooted at the children of the root of the tree.
+#* '''2006''', ISRD Group, ''Data Structures Using C'', Tata McGraw-Hill Education, [https://books.google.com.au/books?id=a_YnrbXyCv8C&pg=PA254&dq=%22preorder%22%7C%22preorders%22&hl=en&sa=X&ved=0ahUKEwiLzvTciOzbAhUIpJQKHW5zBfAQ6AEIowIwLQ#v=onepage&q=%22preorder%22%7C%22preorders%22&f=false page 254],
+#*: In the program given above, tree is constructed and is traversed in inorder, '''preorder''' and postorder traversal.
+#* '''2011''', Ananda Rao Akepogu, Radhika Raju Palagiri, ''Data Structures and Algorithms Using C++'', Pearson Education India, [https://books.google.com.au/books?id=VRaxY61mw5cC&pg=SA9-PA16&dq=%22preorder%22%7C%22preorders%22&hl=en&sa=X&ved=0ahUKEwiLzvTciOzbAhUIpJQKHW5zBfAQ6AEI9gIwPA#v=onepage&q=%22preorder%22%7C%22preorders%22&f=false page 9.16],
+#*: The '''preorder''' traversal visits a node first after which it traverses its left subtree and then traverses its right subtree.
 
 ====Coordinate terms====
 * {{l|en|inorder}}
