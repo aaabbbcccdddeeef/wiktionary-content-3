@@ -20,7 +20,7 @@
 # {{lb|en|Boolean algebra}} A [[Boolean function]] with the property that switching any one input variable from 0 to 1 results either in no change in output or a change from 0 to 1.
 
 ====Usage notes====
-* The order theory definition avoids reference to the concepts {{m|en|increasing}} and {{m|en|decreasing}}, making it somewhat more generally applicable. Strictly speaking, the [[partial order]]s for ''X'' and ''Y'' need not be related (the notation "≤" is used for convenience). This case encompasses the possibility that ''X'' and ''Y'' are multidimensional spaces (e.g. '''R'''<sup>n</sup>) and ''f'' is a mapping between them.
+* The order theory definition avoids reference to the concepts {{m|en|increasing}} and {{m|en|decreasing}}, making it somewhat more generally applicable. Strictly speaking, the [[partial order]]s for ''X'' and ''Y'' need not be related (the notation "≤" is conventional). This case encompasses the possibility that ''X'' and ''Y'' are multidimensional spaces (e.g. '''R'''<sup>n</sup>) and ''f'' is a mapping between them.
 * In the Boolean algebra case, there is implicit in the definition an intuitively natural [[partial order]] "≤" (see ''{{w|product order}}'' on Wikipedia) such that, given two input tuples ''a'' = (''a''<sub>1</sub>, ''a''<sub>2</sub>,... ''a''<sub>n</sub>) and ''b'' = (''b''<sub>1</sub>, ''b''<sub>2</sub>,... ''b''<sub>n</sub>), ''a'' ≤ ''b'' means that ''b'' can be obtained from ''a'' via a series of (zero or more) steps each switching an input from 0 to 1. With this partial order in mind, (only) property (1) of the order theory definition applies.
 
 ====Synonyms====
