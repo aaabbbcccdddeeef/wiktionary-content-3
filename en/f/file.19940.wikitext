@@ -29,29 +29,22 @@
 * {{sense|collection}} {{l|en|document}}, a [[paper]]
 
 =====Hyponyms=====
-{{hyp4|lang=en|title=Hyponyms of ''file'' (etymology 1)
-|{{l|en|audio file}}
-|{{l|en|binary file}}
-|{{l|en|code file}}
-|{{l|en|destination file}}
-|{{l|en|hypertext file}}
-|{{l|en|source code file}}
-|{{l|en|source file}}
-|{{l|en|system file}}
-|{{l|en|text file}}
-|{{l|en|video file}}
-}}
+{{hyp4|title=Hyponyms of ''file'' (etymology 1)
+|audio file
+|binary file
+|code file
+|destination file
+|hypertext file
+|Jenkinsfile
+|source code file
+|source file
+|system file
+|text file
+|video file
+|lang=en}}
 
 =====Derived terms=====
-{{hyp4|lang=en|title=Derived terms of ''file'' (etymology 1)
-|{{l|en|filehandle}}
-|{{l|en|filename}}
-|{{l|en|filesystem}}
-|{{l|en|per-file}}
-}}
-
-=====Related terms=====
-{{rel4|title=Terms related to ''file'' (etymology 1)
+{{der4|title=Derived terms of ''file'' (etymology 1)
 |file extension
 |file film
 |file footage
@@ -62,6 +55,10 @@
 |file pointer
 |file system
 |file video
+|filehandle
+|filename
+|filesystem
+|per-file
 |lang=en}}
 
 =====Translations=====
@@ -205,7 +202,7 @@
 #*: I would have my several courses and my dishes well '''filed'''.
 
 =====Derived terms=====
-* {{l|en|filings}}<!-- especially in the plural -->
+* [[filings]]<!-- especially in the plural -->
 
 =====Translations=====
 {{trans-top|to commit papers}}
@@ -291,9 +288,11 @@ French ''{{l|fr|file}}'', from ''[[filer]]'', “to spin out”, “arrange one 
 # {{lb|en|chess}} one of the eight vertical lines of squares on a chessboard (i.e., those identified by a letter). The analog horizontal lines are the ''[[rank]]s''.
 
 =====Derived terms=====
-* {{l|en|Indian file}}
-* {{l|en|rank and file}}
-* {{l|en|single file}}
+{{der3
+|Indian file
+|rank and file
+|single file
+|lang=en}}
 
 =====Translations=====
 {{trans-top|column of people}}
@@ -369,8 +368,10 @@ French ''{{l|fr|file}}'', from ''[[filer]]'', “to spin out”, “arrange one 
 #: ''The applicants kept '''filing''' into the room until it was full.''
 
 =====Derived terms=====
-* {{l|en|file in}}
-* {{l|en|file out}}
+{{der2
+|file in
+|file out
+|lang=en}}
 
 ===Etymology 3===
 From {{etyl|enm|en}} {{m|enm|file}}, {{m|enm|fyle}}, from {{etyl|ang|en}} {{m|ang|fēl}}, {{m|ang|fēol||file}}, from earlier {{m|ang|fīil}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*finhlō}}, {{m|gem-pro|*finhilō||file, rasp}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*peyḱ-||to adorn, form}}. Cognate with {{cog|fy|file||file}}, Dutch {{m|nl|vijl||file}}, German {{m|de|Feile||file}}.
@@ -389,12 +390,11 @@ From {{etyl|enm|en}} {{m|enm|file}}, {{m|enm|fyle}}, from {{etyl|ang|en}} {{m|an
 * {{l|en|rasp}}
 
 =====Derived terms=====
-{{rel-top|terms derived from ''file (tool) (noun)''}}
-* {{l|en|file snake}}
-{{rel-mid}}
-* {{l|en|nail-file}}
-* {{l|en|rat-tail file}}
-{{rel-bottom}}
+{{der3|title=terms derived from ''file (tool) (noun)''
+|file snake
+|nail-file
+|rat-tail file
+|lang=en}}
 
 =====Translations=====
 {{trans-top|cutting or smoothing tool}}
@@ -476,10 +476,8 @@ From {{etyl|enm|en}} {{m|enm|file}}, {{m|enm|fyle}}, from {{etyl|ang|en}} {{m|an
 #*: Orion hit a rabbit once; but though sore wounded it got to the bury, and, struggling in, the arrow caught the side of the hole and was drawn out. Indeed, a nail '''filed''' sharp is not of much avail as an arrowhead; you must have it barbed, and that was a little beyond our skill.
 
 =====Derived terms=====
-{{rel-top|terms derived from ''file (use tool) {verb}''}}
-* {{l|en|filing}}
-{{rel-mid}}
-{{rel-bottom}}
+<!-- {{der2|terms derived from ''file (use tool) {verb}''}} -->
+* [[filing]]
 
 =====Translations=====
 {{trans-top|to smooth with a file}}
