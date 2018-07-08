@@ -3,12 +3,27 @@
 ===Adjective===
 {{en-adj|-}}
 
-# {{lb|en|mathematics|of a set}} Being both [[countable]] and [[infinite]]; having the same [[cardinality]] as the set of [[natural number]]s.
+# {{lb|en|set theory|of a set}} That is both [[countable]] and [[infinite]]; having the same [[cardinality]] as the set of [[natural numbers]]; ''formally'', such that a [[bijection]] exists from [[ℕ]] to the set.
+#* '''1953''' [Addison-Wesley], Bruce Elwyn Meserve, ''Fundamental Concepts of Algebra'', 1982, Dover, [https://books.google.com.au/books?id=qtuySdnGDtoC&pg=PA36&dq=%22countably+infinite%22&hl=en&sa=X&ved=0ahUKEwiAwbDH647cAhXCj5QKHXEpDAYQ6AEISzAG#v=onepage&q=%22countably%20infinite%22&f=false page 36],
+#*: This one-to-one correspondence between the set of positive integers and the set of pairs of positive integers indicates that the set of pairs is '''countably infinite'''. Since the set of positive rational numbers is a subset of the set of all pairs of positive integers, the set of positive rational numbers is at most '''countably infinite'''. Then, since it is also at least '''countably infinite''', the set of positive rational numbers is '''countably infinite'''.
+#* '''1970''', Edna E. Kramer, ''The Nature and Growth of Modern Mathematics'', {{w|Princeton University Press}}, 1982, Paperback, [https://books.google.com.au/books?id=LLEZQC74gVcC&pg=PA332&dq=%22countably+infinite%22&hl=en&sa=X&ved=0ahUKEwiAwbDH647cAhXCj5QKHXEpDAYQ6AEIVzAI#v=onepage&q=%22countably%20infinite%22&f=false page 332],
+#*: Instead of saying that the aggregate of natural numbers is '''''countably infinite''''' (see Chapter 24), one can use Cantor's symbolism and state that its cardinal number is <math>\aleph_0</math> (read ''aleph null'').{{...}}Now the range of a random variable may be a finite set, a '''countably infinite''' set, or a continuum.
+#* '''2000''', Ethan D. Bloch, ''Proofs and Fundamentals: A First Course in Abstract Mathematics'', Springer (Birkhäuser), [https://books.google.com.au/books?id=vJLqBwAAQBAJ&pg=PA211&dq=%22countably+infinite%22&hl=en&sa=X&ved=0ahUKEwiAwbDH647cAhXCj5QKHXEpDAYQ6AEIbjAM#v=onepage&q=%22countably%20infinite%22&f=false page 211],
+#*: The term “'''countably infinite'''” would seem to suggest that such a set is infinite. However, the definitions of “'''countably infinite'''” and “infinite” were made separately, and so we have to prove that '''countably infinite''' sets are indeed infinite (otherwise our notation would be rather misleading).
 
 ====Hypernyms====
-* [[infinite]]
-* [[countable]]
+* {{sense|set theory}} {{l|en|countable}}, {{l|en|infinite}}
 
 ====Coordinate terms====
-* [[finite]]
-* [[uncountable]]
+* {{sense|set theory}} {{l|en|finite}}, {{l|en|uncountable}}
+
+===See also===
+* {{l|en|continuum}}
+
+===Further reading===
+* {{pedialite|Countable set}}
+* {{pedialite|Aleph number}}
+* {{pedialite|Cardinal number}}
+* {{pedialite|Counting}}
+* {{pedialite|Ordinal number}}
+* {{pedialite|Hilbert's paradox of the Grand Hotel}}
