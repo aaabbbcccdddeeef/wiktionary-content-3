@@ -2,26 +2,32 @@
 {{wikipedia}}
 
 ===Etymology===
-{{prefix|multi|set|lang=en}}
+{{prefix|multi|set|lang=en}}.
 
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|set theory}} A generalization of a [[set]]: a container, in which, unlike for [[set]], an [[element]] can be present multiple times.
-#: ''Two words are anagrams if they are made up of the same [[multiset]] of letters.''
+# {{lb|en|set theory}} A generalized type of [[set]] in which multiple occurrences of an [[element]] are permitted.
+#: {{ux|en|Two words are anagrams if they are made up of the same '''multiset''' of letters.}}
+#* '''2002''', Gheorghe Pǎun, ''Membrane Computing: An Introduction'', Springer, [https://books.google.com.au/books?id=8CE3BZ7y_kIC&pg=PA50&dq=%22multiset%22%7C%22multisets%22&hl=en&sa=X&ved=0ahUKEwiFtLr20ZTcAhXGv7wKHYtBAdYQ6AEIZzAN#v=onepage&q=%22multiset%22%7C%22multisets%22&f=false page 49],
+#*: Membrane computing essentially deals with '''multisets''', which are sets with multiplicities associated with their elements.
+#* '''2006''', Xin Chen, Lan Liu, Zheng Liu, Tao Jiang, ''On the Minimum Common Integer Partition Problem'', Tiziana Calamoneri, Irene Finocchi, Giuseppe F. Italiano (editors), ''Algorithms and Complexity: 6th Italian Conference CIAC 2006, Proceedings'', Springer, {{w|LNCS}} 3998, [https://books.google.com.au/books?id=T4LAK65R2i0C&pg=PA236&dq=%22multiset%22%7C%22multisets%22&hl=en&sa=X&ved=0ahUKEwiFtLr20ZTcAhXGv7wKHYtBAdYQ6AEIiAEwEw#v=onepage&q=%22multiset%22%7C%22multisets%22&f=false page 236],
+#*: A ''partition'' of a positive integer ''n'' is a '''multiset''' of positive integers that add up to exactly ''n'', and an ''integer partition'' of a '''multiset''' ''S'' of integers is defined as the '''multiset''' union of partitions of integers in ''S''.
+#* '''2012''', Edward A. Scheinerman, ''Mathematics: A Discrete Introduction'' Brooks/Cole (Cengage Learning), [https://books.google.com.au/books?id=DZBHGD2sEYwC&pg=PA102&dq=%22multiset%22%7C%22multisets%22&hl=en&sa=X&ved=0ahUKEwiFtLr20ZTcAhXGv7wKHYtBAdYQ6AEIYTAM#v=onepage&q=%22multiset%22%7C%22multisets%22&f=false page 102],
+#*: Two '''multisets''' are the same provided they contain the same elements with the same multiplicities. For example, {1, 2, 3, 3} = {3, 1, 3, 2}, but {1, 2, 3, 3} ≠ {1, 2, 3, 3, 3}.
 
 ====Synonyms====
-* {{l|en|bag}}
+* {{sense|generalized type of set that may contain multiple occurrences of elements}} {{l|en|bag}}, {{l|en|mset}}.
 
 ====Hyponyms====
-* {{l|en|set}}
+* {{sense|generalized type of set that may contain multiple occurrences of elements}} {{l|en|set}}
 
 ====Related terms====
 * {{l|en|multisubset}}
 * {{l|en|submultiset}}
 
 ====Translations====
-{{trans-top|container}}
+{{trans-top|generalized type of set that may contain multiple occurrences of elements}}
 * Chinese:
 *: Mandarin: {{t|cmn|多重集|tr=duōchóngjí|sc=Hani}}, {{t|cmn|多重集合|tr=duōchóngjíhé|sc=Hani}}
 * Czech: {{t|cs|multimnožina|f}}
@@ -29,7 +35,11 @@
 * French: {{t+|fr|multiensemble|m}}
 {{trans-mid}}
 * German: {{t|de|Multimenge|f}}
+* Italian: {{t|it|multiinsieme|m}}
 * Japanese: {{t|ja|多重集合|tr=たじゅうしゅうごう, tajūshūgō|sc=Jpan}}
 * Russian: {{t+|ru|мультимно́жество|n}}
 * Swedish: {{t|sv|multimängd|c}}
 {{trans-bottom}}
+
+===See also===
+* {{l|en|multirelation}}
