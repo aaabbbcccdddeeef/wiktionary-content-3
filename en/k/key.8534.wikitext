@@ -68,6 +68,11 @@ From {{inh|en|enm|keye}}, {{m|enm|kaye}}, {{m|enm|keiȝe}}, from {{inh|en|ang|c�
 #: {{ux|en|The door panel should be sanded down carefully to provide a good '''key''' for the new paint.}}
 # {{lb|en|cartomancy}} The thirty-third card of the [[Lenormand]] deck.
 # {{lb|en|print and film}} The [[black]] [[ink]] layer, especially in relation to the three color layers of cyan, magenta, and yellow.  See also [[CMYK]].
+# {{lb|en|computer graphics|television}} A [[color]] to be [[mask]]ed or made [[transparent]].
+#* '''2004''', Mark Schmidt, ‎Simon Robinson, ''Microsoft Visual C# .NET 2003 Developer's Cookbook'' (page 195)
+#*: You can easily create this type of user interface by creating a bitmap with certain portions set to a predefined color you want to use as the transparency '''key'''.
+#* '''2016''', Jerry C. Whitaker, ''The SBE Broadcast Engineering Handbook''
+#*: There are '''key''' controls that adjust the “slice level” or the level at which the '''key''' kicks-in and starts cutting a hole for the “fill” {{...}} Chroma key is another form of keying, which derives the key cutter or hole from a selected color.
 
 =====Hyponyms=====
 {{hyp4|lang=en|{{l|en|candidate key}}
