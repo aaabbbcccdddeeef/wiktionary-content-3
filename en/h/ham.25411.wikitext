@@ -450,22 +450,6 @@ Related to {{cog|sur|am||water}}.
 ==Old English==
 
 ===Etymology 1===
-From {{inh|ang|gem-pro|*hammō}}.
-
-====Noun====
-{{ang-noun|f}}
-
-# {{alternative form of|hamm|t=inner knee|lang=ang}}
-
-===Etymology 2===
-From {{inh|ang|gem-pro|*hammaz}}. Cognate with Old Frisian {{m|ofs|ham}}, Middle Low German {{m|gml|hamme}} (Low German {{m|nds|Hamm}}).
-
-====Noun====
-{{ang-noun|m}}
-
-# {{alternative form of|hamm|t=enclosure|lang=ang}}
-
-===Etymology 3===
 From {{inh|ang|gem-pro|*haimaz}}, from {{der|ang|ine-pro|*kōim-|t=village}}, {{m|ine-pro|*ḱóymos}}, {{m|ine-pro|*(t)ḱoimos}}. Cognate with {{cog|ofs|hām}} ({{cog|fy|hiem}}), {{cog|osx|hēm}}, {{cog|frk|*haim}} ({{cog|nl|heem}}), {{cog|goh|heim}} ({{cog|de|Heim}}), {{cog|non|heimr}} ({{cog|sv|hem}}, {{cog|da|hjem}}), {{cog|got|𐌷𐌰𐌹𐌼𐍃}}. The Indo-European root is also the source of {{cog|el|κωμη}}, {{cog|sga|cóim}}, {{cog|lt|šeimà}}, {{cog|ru|семья}}.
 
 ====Pronunciation====
@@ -480,8 +464,11 @@ From {{inh|ang|gem-pro|*haimaz}}, from {{der|ang|ine-pro|*kōim-|t=village}}, {{
 # [[property]], [[estate]], [[farm]]
 # [[village]]; [[community]]
 
+====Usage notes====
+* In early Old English, the dative singular was always ''hām'', not the expected form ''hāme''.
+
 =====Declension=====
-{{ang-decl-noun-a-m|ham|alt1=hām}}
+{{ang-decl-noun|hām|[[hāmas]]|hām|[[hāmas]]|[[hāmes]]|[[hāma]]|[[hām]], [[hāme]]|[[hāmum]]}}
 
 =====Derived terms=====
 * {{l|ang|hāmlēas}}
@@ -499,6 +486,22 @@ From {{inh|ang|gem-pro|*haimaz}}, from {{der|ang|ine-pro|*kōim-|t=village}}, {{
 #: {{ux|ang|hām cuman|to come home}}
 #: {{ux|ang|hām ċierran|to turn home}}
 #: {{ux|ang|hām bringan|to bring home}}
+
+===Etymology 2===
+From {{inh|ang|gem-pro|*hammaz}}. Cognate with Old Frisian {{m|ofs|ham}}, Middle Low German {{m|gml|hamme}} (Low German {{m|nds|Hamm}}).
+
+====Noun====
+{{ang-noun|m}}
+
+# {{alternative form of|hamm|t=enclosure|lang=ang}}
+
+===Etymology 3===
+From {{inh|ang|gem-pro|*hammō}}.
+
+====Noun====
+{{ang-noun|f}}
+
+# {{alternative form of|hamm|t=inner knee|lang=ang}}
 
 ----
 
