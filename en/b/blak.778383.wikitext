@@ -96,7 +96,7 @@ From {{etyl|non|is}} {{m|non|blak}}.
 * {{alter|enm|blake|blakke|black|blac}}
 
 ===Etymology===
-From {{etyl|ang|enm}} {{m|ang|blæc}}
+From {{inh|enm|ang|blæc}}, from {{inh|enm|gem-pro|*blakaz}}.
 
 ===Pronunciation===
 * {{IPA|lang=enm|/blak/|/blaːk/}}
@@ -106,11 +106,15 @@ From {{etyl|ang|enm}} {{m|ang|blæc}}
 
 # [[black]] (of a black color)
 # [[black]] (having black skin)
-# [[black-haired]]
+# [[black]]-[[haired]]
 # [[dark]], [[blackish]]
 
 ====Descendants====
-* English: {{l|en|black}}
+* {{desc|en|black}}
+** {{desc|nl|black|bor=1}}
+** {{desc|fr|black|bor=1}}
+* {{desc|sco|black}}
+* {{desc|yol|bhlock}}
 
 ===See also===
 {{table:colors/enm}}
