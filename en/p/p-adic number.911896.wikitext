@@ -3,28 +3,46 @@
 {{wikipedia|p-adic number|''p''-adic number}}
 
 ===Noun===
-{{en-noun|head=''p''[[-adic]] [[number]]}}
+{{en-noun|head=[[p-adic|''p''-adic]] [[number]]}}
 
-# {{lb|en|mathematics}} An element of a [[completion]] of the field of [[rational number]]s which has a [[p-adic ultrametric|''p''-adic ultrametric]] as its [[metric]].<ref>'''2008''', Jacqui Ramagge, [http://www.uow.edu.au/content/groups/public/@web/@inf/@math/documents/web/uow061321.pdf Unreal numbers: The story of ''p''-adic numbers]</ref>
-#: The expansion (21)2121<sub>''p''</sub> is equal to the rational <b>''p''-adic number</b> <math>{2 p + 1 \over p^2 - 1}</math>.
-#: In the set of [[p-adic number|3-adic numbers]], the closed ball of radius 1/3 "centered" at 1, call it ''B'', is the set <math> \{x | \exists n \in \mathbb{Z} . \, x = 3 n + 1 \} </math>. This closed ball partitions into exactly three smaller closed balls of radius 1/9: <math>\{x | \exists n \in \mathbb{Z} . \, x = 1 + 9 n \} </math>, <math>\{x | \exists n \in \mathbb{Z} . \, x = 4 + 9 n \}</math>, and <math>\{x | \exists n \in \mathbb{Z} . \, x = 7 + 9 n \} </math>. Then each of those balls partitions into exactly 3 smaller closed balls of radius 1/27, and the sub-partitioning can be continued indefinitely, in a fractal manner.<br>Likewise, going upwards in the hierarchy, ''B'' is part of the closed ball of radius 1 centered at 1, namely, the set of integers. Two other closed balls of radius 1 are "centered" at 1/3 and 2/3, and all three closed balls of radius 1 form a closed ball of radius 3, <math>\{x| \exists n \in \mathbb{Z} . \, x = 1 + {n\over 3} \} </math>, which is one out of three closed balls forming a closed ball of radius 9, and so on.
+# {{lb|en|number theory}} An element of a [[completion]] of the field of [[rational number]]s with respect to a [[p-adic ultrametric|''p''-adic ultrametric]].<ref>'''2008''', Jacqui Ramagge, [http://www.uow.edu.au/content/groups/public/@web/@inf/@math/documents/web/uow061321.pdf Unreal numbers: The story of ''p''-adic numbers]</ref>
+#: {{ux|en|The expansion (21)2121<sub>''p''</sub> is equal to the rational <b>''p''-adic number</b> <math>\textstyle{2 p + 1 \over p^2 - 1}.</math>}}
+#: ''In the set of [[p-adic number|3-adic numbers]], the closed ball of radius 1/3 "centered" at 1, call it ''B'', is the set <math>\textstyle\{x | \exists n \in \mathbb{Z} . \, x = 3 n + 1 \}.</math> This closed ball partitions into exactly three smaller closed balls of radius 1/9: <math>\{x | \exists n \in \mathbb{Z} . \, x = 1 + 9 n \},</math> <math>\{x | \exists n \in \mathbb{Z} . \, x = 4 + 9 n \},</math> and <math>\{x | \exists n \in \mathbb{Z} . \, x = 7 + 9 n \}.</math> Then each of those balls partitions into exactly 3 smaller closed balls of radius 1/27, and the sub-partitioning can be continued indefinitely, in a fractal manner.<br>Likewise, going upwards in the hierarchy, ''B'' is part of the closed ball of radius 1 centered at 1, namely, the set of integers. Two other closed balls of radius 1 are "centered" at 1/3 and 2/3, and all three closed balls of radius 1 form a closed ball of radius 3, <math>\{x| \exists n \in \mathbb{Z} . \, x = 1 + {n\over 3} \},</math> which is one out of three closed balls forming a closed ball of radius 9, and so on.''
+#* '''1914''', ''{{w|Bulletin of the American Mathematical Society}}'', [https://books.google.com.au/books?id=doDxAAAAMAAJ&q=%22p-adic+number%22%7C%22p-adic+numbers%22&dq=%22p-adic+number%22%7C%22p-adic+numbers%22&hl=en&sa=X&ved=0ahUKEwiVtYitlrrcAhXJ0J8KHfXvBRkQ6AEIjwIwKA page 452],
+#*: 3. In his recent book Professor Hensel has developed a theory of logarithms of the rational '''''p''-adic numbers''', and from this he has shown how all such numbers can be written in the form <math>p^\alpha \omega^\beta e^\gamma</math>.
+#* '''1991''', M. D. Missarov, ''Renormalization Group and Renormalization Theory in p-Adic and Adelic Scalar Models'', {{w|Yakov Sinai|Ya. G. Sinaĭ}} (editor), ''Dynamical Systems and Statistical Mechanics: From the Seminar on Statistical Physics held at Moscow State University'', {{w|American Mathematical Society}}, [https://books.google.com.au/books?id=rcCDgaRXRssC&pg=PA143&dq=%22p-adic+number%22%7C%22p-adic+numbers%22&hl=en&sa=X&ved=0ahUKEwiVtYitlrrcAhXJ0J8KHfXvBRkQ6AEI1AIwNA#v=onepage&q=%22p-adic%20number%22%7C%22p-adic%20numbers%22&f=false page 143],
+#*: '''''p''-Adic numbers''' were introduced in mathematics by K. Hensel, and this invention led to substantial developments in number theory, where '''''p''-adic numbers''' are now as natural as ordinary real numbers.{{...}}Bleher noticed in [19] that the set of purely fractional '''''p''-adic numbers''' is an example of hierarchical lattice.
+#* '''2000''', Masato Kuwata (translator), Kazuya Kato, Nobushige Kurokawa, Takeshi Saitō, Takeshi Saito, ''Number Theory: Fermat's dream'', {{w|American Mathematical Society}}, [https://books.google.com.au/books?id=lARCMo8z5uoC&pg=PA58&dq=%22p-adic+number%22%7C%22p-adic+numbers%22&hl=en&sa=X&ved=0ahUKEwiVtYitlrrcAhXJ0J8KHfXvBRkQ6AEIhAEwEw#v=onepage&q=%22p-adic%20number%22%7C%22p-adic%20numbers%22&f=false page 58],
+#*: <math>\Q_p</math> is called the '''''p-adic number''' field'', and its elements are called '''''p-adic numbers'''''. In this section we introduce the '''''p''-adic number''' fields, which are very important objects in number theory.
+#*: The '''''p''-adic numbers''' were originally introduced by {{w|Kurt Hensel|Hensel}} around 1900.
 
 ====Usage notes====
-* The '<i>p</i>' in "''p''-adic" is a parameter which stands for a positive integer, preferably a [[prime number]].
-* For a fixed prime value of ''p'', a <b>''p''-adic number</b> is a member of the [[field]] <math>\mathbb{Q}_p</math> which is a completion of the set of rational numbers.
-* For a composite value of ''p'', a <b>''p''-adic number</b> is a member of a ring which is an extension of the field of rational numbers. <!-- Is it also a completion? -->
+* An expanded, constructive definition:
+** For given <math>p</math>, the [[natural numbers]] are exactly those expressible as some ''finite'' sum <math>\textstyle\sum_{k=0}^n a_k p^k</math>, where each <math>a_k</math> is an integer: <math>0\le a_k<p</math> and <math>n\ge 0</math>. (To this extent, <math>p</math> acts exactly like a [[base]]).
+** The slightly more general sum <math>\textstyle\sum_{k=N}^n a_k p^k</math> (where <math>N</math> can be negative) expresses a class of [[fraction]]s: natural numbers divided by a power of <math>p</math>.
+** Much more expressiveness (to encompass all of <math>\Q</math>) results from permitting ''infinite'' sums: <math>\textstyle\sum_{k=N}^\infty a_k p^k</math>.
+*** The [[p-adic ultrametric|''p''-adic ultrametric]] and the limitation on coefficients together ensure convergence, meaning that infinite sums can be manipulated to produce valid results that at times seem paradoxical. (For example, a sum with positive coefficients can represent a negative rational number. In fact, the concept {{m|en|negative}} has limited meaning for ''p''-adic numbers; it is best simply interpreted as {{m|en|additive inverse}}.)
+** Forming the [[completion]] of <math>\Q</math> with respect to the ultrametric means augmenting it with the [[limit point]]s of ''all'' such infinite sums.
+* The augmented set is denoted <math>\Q_p</math>.
+* The construction works generally (for any integer <math>p>1</math>), but it is only for [[prime]] <math>p</math> that it becomes of significant mathematical interest.
+** For <math>p</math> the power of some prime number, <math>\Q_p</math> is still a field. For other composite <math>p</math>, <math>\Q_p</math> is a [[ring]], but not a field.
+* <math>\Q_p</math> is not the same as <math>\R</math>.
+** For example, <math>\sqrt{p}\notin\Q_p</math> for any <math>p</math>, and, for some values of <math>p</math>, <math>\sqrt{-1}\in\Q_p</math>.
 
 ====Hyponyms====
-* [[rational number]]
-** [[integer]]
+* {{sense|element of a completion of the rational numbers with respect to a p-adic ultrametric}}
+** [[rational number]]
+*** [[integer]]
 
 ====Related terms====
-* [[p-adic absolute value|''p''-adic absolute value]], [[p-adic norm|''p''-adic norm]]
-* [[p-adic ordinal|''p''-adic ordinal]]
-* [[p-adic ultrametric|''p''-adic ultrametric]]
+* {{l|en|p-adic|''p''-adic}}
+* {{l|en|p-adic absolute value|''p''-adic absolute value}}, {{l|en|p-adic norm|''p''-adic norm}}
+* {{l|en|p-adic integer|''p''-adic integer}}
+* {{l|en|p-adic ordinal|''p''-adic ordinal}}
+* {{l|en|p-adic ultrametric|''p''-adic ultrametric}}
 
 ====Translations====
-{{trans-top}}
+{{trans-top|element of a completion of the rational numbers with respect to a ''p''-adic ultrametric}}
 * Chinese:
 *: Mandarin: {{t|cmn|p进数|tr=p jìn shù|sc=Hani}}
 {{trans-mid}}
@@ -32,7 +50,15 @@
 {{trans-bottom}}
 
 ===See also===
-* [[n-adic|''n''-adic]]
+* {{l|en|n-adic|''n''-adic}}
 
 ===References===
 <references />
+
+===Further reading===
+* {{pedialite|Mahler's theorem}}
+* {{pedialite|P-adic quantum mechanics|''p''-adic quantum mechanics}}
+* {{pedialite|Volkenborn integral}}
+* {{pedialite|Hensel's lemma#Hensel's lemma for p-adic numbers}}
+* [http://mathworld.wolfram.com/p-adicNumber.html p-adic Number] on {{w|MathWorld|Wolfram MathWorld}}
+* [https://www.encyclopediaofmath.org/index.php/P-adic_number P-adic number] on {{w|Encyclopedia of Mathematics}}
