@@ -14,10 +14,10 @@
 ==Irish==
 
 ===Etymology 1===
-From {{inh|ga|sga|[[es]]([[ess|s]])||cataract, rapid, rapidly flowing stream}}.
+From {{inh|ga|sga|[[es]]([[ess|s]])|t=cataract, rapid, rapidly flowing stream}}.
 
 ====Noun====
-{{ga-noun|m|easa|easanna}}
+{{ga-noun|m|~a|~anna}}
 
 # [[waterfall]], [[cascade]], [[rapid]]
 
@@ -25,10 +25,10 @@ From {{inh|ga|sga|[[es]]([[ess|s]])||cataract, rapid, rapidly flowing stream}}.
 {{ga-decl-m3|e|as|asa|asanna}}
 
 ===Etymology 2===
-From {{inh|ga|mga|es||stoat, weasel}}, from {{inh|ga|sga|[[nes]]([[ness|s]])}}.
+From {{inh|ga|mga|es|t=stoat, weasel}}, from {{inh|ga|sga|[[nes]]([[ness|s]])}}.
 
 ====Noun====
-{{ga-noun|f|easa|easa}}
+{{ga-noun|f|~a|~a}}
 
 # [[stoat]], [[weasel]]
 
@@ -39,7 +39,7 @@ From {{inh|ga|mga|es||stoat, weasel}}, from {{inh|ga|sga|[[nes]]([[ness|s]])}}.
 * {{l|ga|easóg}}
 
 ===Mutation===
-{{ga-mut-vowel}}
+{{ga-mut|msn}}
 
 ===Further reading===
 * {{R:DIL|20364|20362|head=3 es(s) ‘cataract, rapid’}}
@@ -74,11 +74,14 @@ From {{inh|ga|mga|es||stoat, weasel}}, from {{inh|ga|sga|[[nes]]([[ness|s]])}}.
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{inh|gd|sga|es}}, {{m|sga|ess||cataract, rapid, rapidly flowing stream}}.
+From {{inh|gd|sga|es}}, {{m|sga|ess|t=cataract, rapid, rapidly flowing stream}}.
 
 ===Noun===
 {{gd-noun|g=m|gen=easa|pl=easan}}
 
 # [[waterfall]], [[cascade]], [[falls]]
+
+===Mutation===
+{{gd-mut-vowel}}
 
 [[Category:gd:Water]]
