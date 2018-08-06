@@ -5,7 +5,7 @@
 ===Etymology===
 [[File:Hospital room ubt.jpeg|thumb|A room in a hospital]]
 
-Borrowing from {{bor|en|fro|hospital}} (Modern {{cog|fr|hôpital}}), from {{der|en|LL.|hospitālis|hospitālis, hospitāle|hospice, shelter, guesthouse}}, from noun use of {{der|en|la|hospitālis||hospitable}}, from {{m|la|hospes||host, guest}}. {{doublet|hotel|lang=en}}.
+From {{inh|en|enm|hospital}}, {{m|enm|hospitall}}, from from {{bor|en|fro|hospital}} (Modern {{cog|fr|hôpital}}), from {{der|en|LL.|hospitālis|hospitālis, hospitāle|hospice, shelter, guesthouse}}, from noun use of {{der|en|la|hospitālis||hospitable}}, from {{m|la|hospes||host, guest}}. {{doublet|hotel|lang=en}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/ˈhɒs.pɪ.tl̩/|lang=en}}
@@ -350,7 +350,7 @@ From {{inh|gl|roa-opt|hospital}}, {{m|roa-opt|espital}}, {{m|roa-opt|spital}}, b
 ==Malay==
 
 ===Etymology===
-Borrowed from {{bor|ms|en|hospital}}, from {{der|ms|fro|hospital}}, from {{der|ms|la|hospitālis}}.
+Borrowed from {{bor|ms|en|hospital}}, from {{der|ms|enm|hospital}}, form {{der|ms|fro|hospital}}, from {{der|ms|la|hospitālis}}.
 
 ===Pronunciation===
 * {{IPA|/hɔspital/|lang=ms}}
@@ -363,6 +363,39 @@ Borrowed from {{bor|ms|en|hospital}}, from {{der|ms|fro|hospital}}, from {{der|m
 
 ====Synonyms====
 * {{l|ms|rumah sakit}}
+
+----
+
+==Middle English==
+
+===Alternative forms===
+* {{alter|enm|hospitall|hospitale|hospitalle|hospytal|hospytall|hospytale|ospitale|hospitel}}
+
+===Etymology===
+Borrowed form {{bor|enm|fro|hospital}}, from {{inh|enm|LL.|hospitālis}}. {{doublet|enm|hostel}}.
+
+===Pronunciation===
+* {{IPA|lang=enm|/(h)ɔspiˈtaːl/|/ˈ(h)ɔspital/|/ˈ(h)ɔspitəl/}}
+
+===Noun===
+{{enm-noun|hospitals}}
+
+# A [[hostel]] or [[guesthouse]]; a place of accomodation or lodging.
+# A [[shelter]] for the poor, ill or otherwise needy.
+# A place of refuge; a retreat or redoubt.
+# The [[w:Knights Hospitaller]] {{gloss|a religious order}}
+
+====Descendants====
+* {{desc|en|hospital}}
+* {{desc|sco|hospital}}
+
+====References====
+* {{R:MED Online|entry=hospitāl (n.) |id=MED21265 |accessdate=2018-08-05}}
+
+[[Category:enm:Hotels]]
+[[Category:enm:Buildings and structures]]
+[[Category:enm:Housing]]
+[[Category:enm:Christianity]]
 
 ----
 
@@ -394,6 +427,7 @@ Borrowed from {{bor|fro|LL.|hospitālis|hospitālis, hospitāle|hospice, shelter
 ====Descendants====
 * Middle French: {{l|frm|hospital}}
 ** French: {{l|fr|hôpital}}
+* {{desctree|enm|hospital}}
 
 ===Adjective===
 {{fro-adj}}
