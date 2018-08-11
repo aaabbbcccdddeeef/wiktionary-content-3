@@ -33,26 +33,53 @@ Diminutive from {{suffix|lang=la|fax|ula|t1=torch}}.
 {{la-decl-1st|facul}}
 
 ====Descendants====
-* Catalan: {{l|ca|fàcula}} {{q|borrowing}}, {{l|ca|falla}}
-* Dutch: {{l|nl|fakkel}} {{q|borrowing}}
-* English: {{l|en|facula}} {{q|borrowing}}
-* Galician: {{l|gl|facha}}, {{l|gl|facho}}
-* Italian: {{l|it|facola}} {{q|borrowing}}, {{l|it|fiaccola}}
-* Portuguese: {{l|pt|fácula}} {{q|borrowing}}, {{l|pt|facha}}, {{l|pt|facho}}, [[faúlha]], [[fagulha]]
-* Romanian: {{l|ro|fachie}}, {{l|ro|flacără}}, {{l|ro|faclă}} {{q|through Greek}}, {{l|ro|făclie}} {{q|diminutive or through a South Slavic language}}
-* Romansh: {{l|rm|facla}}
-* Serbo-Croatian: {{l|sh|faklja}} {{q|borrowing}}
-* Slovak: {{l|sk|fakľa}} {{q|borrowing}}
-* Spanish: {{l|es|fácula}} {{q|borrowing}}, {{l|es|hacha}}
-----
+* {{desc|VL.||*facla}}
+** {{desc|pro|-}}
+*** {{desc|ca|falla}}
+** {{desc|ro|fachie}}
+** {{desc|rm|facla}}
+** {{desc|bor=1|goh|faccala}}, {{l|goh|vackel}}
+*** {{desc|gsw|Fachele}}
+*** {{desctree|de|Fackel}}
+*** {{desc|lb|Fakel}}
+*** {{desc|gmw-rfr|-}}
+***: {{desc|pdc|Fackel}}
+*** {{desc|bor=1|sh|-}}
+***: {{desc|sclb=1|sh|бакља}}
+***: {{desc|sclb=1|sh|baklja}}
+*** {{desc|bor=1|sk|fakľa}}
+*** {{desc|bor=1|sl|bakla}}
+* {{desc|VL.||*facucla}}
+** {{desc|roa-opt|-}}
+*** {{desc|pt|fagulha}}, {{l|pt|faúlha}}
+* {{desc|VL.||*fascla}} {{q|crossed with {{l|la|fascis||bundle}}}}
+** {{desc|roa-opt|facha}}
+*** {{desc|gl|facha}}, {{l|gl|facho}}
+*** {{desc|pt|facha}}, {{l|pt|facho}}
+** {{desc|osp|facha}}
+*** {{desc|es|hacha}}
+* {{desc|VL.||*flacula}}
+** {{desctree|it|fiaccola}}
+** {{desc|ro|flacără}}
 * {{desc|bor=1|sq|flakë}} {{q|possibly}}
+* {{desc|bor=1|bg|факла}}
+** {{desc|bor=1|ro|faclă}} {{q|or from Greek}}
 * {{desc|bor=1|bg|факлия}}
 ** {{desc|bor=1|ro|făclie}} {{q|or a diminutive of {{l|ro|faclă}}, or from Serbo-Croatian}}
-* {{desc|bor=1|goh|faccala}}
-** {{desc|gsw|Fachele}}
-** {{desctree|de|Fackel}}
-** {{desc|gmw-rfr|-}}
-**: {{desc|pdc|Fackel}}
+* {{desc|bor=1|ca|fàcula}}
+* {{desc|bor=1|nl|fakkel}}
+* {{desc|bor=1|en|facula}}
+* {{desc|bor=1|el|φάϰλα}}
+** {{desc|bor=1|ro|faclă}} {{q|or from Bulgarian}}
+* {{desc|bor=1|hu|fáklya}}
+* {{desc|bor=1|it|facola}}
+* {{desc|bor=1|nds|Fachel}}
+* {{desc|bor=1|ang|fæcele}}
+* {{desc|bor=1|pt|fácula}}
+* {{desc|bor=1|sh|faklja}}
+** {{desc|bor=1|ro|faclă}} {{q|or a diminutive of {{l|ro|faclă}}, or from Bulgarian}}
+* {{desc|bor=1|es|fácula}}
+* {{desc|bor=1|sv|fackla}}
 
 ===References===
 * {{R:L&S}}
