@@ -21,14 +21,14 @@
 # {{lb|en|uncountable}} The East [[Slavic]] language of Ukrainians, and the official [[language]] of [[Ukraine]].
 
 ====Synonyms====
-* {{l|en|bohunk}}, {{l|en|hunky}} {{qualifier|pejorative}}
-* {{l|en|Cossack}} {{qualifier|obsolete}}
-* {{l|en|Little Russian}} {{qualifier|obsolete}}
-* {{l|en|Malo-Russian}} {{qualifier|obsolete}}
-* {{l|en|Rusnak}}, {{l|en|Rusniac}}, {{l|en|Rusniak}}, {{l|en|Russniak}}, {{l|en|Russniac}}, {{l|en|Rousniak}}, {{l|en|Rusnak}} {{qualifier|archaic}}
-* {{l|en|Ruthenian}} {{qualifier|historical}}, [[Ruthene]], [[Ruthen]], [[Rutene]] {{qualifier|archaic}}
-* {{l|en|Uke}}, {{l|en|Ukie}} {{qualifier|informal}}
-* {{l|en|Ukrainer}} {{qualifier|obsolete|rare}}
+* {{l|en|bohunk}}, {{l|en|hunky}} {{q|pejorative}}
+* {{l|en|Cossack}} {{q|obsolete}}
+* {{l|en|Little Russian}} {{q|obsolete}}
+* {{l|en|Malo-Russian}} {{q|obsolete}}
+* {{l|en|Rusnak}}, {{l|en|Rusniac}}, {{l|en|Rusniak}}, {{l|en|Russniak}}, {{l|en|Russniac}}, {{l|en|Rousniak}}, {{l|en|Rusnak}} {{q|archaic}}
+* {{l|en|Ruthenian}} {{q|historical}}, [[Ruthene]], [[Ruthen]], [[Rutene]] {{q|archaic}}
+* {{l|en|Uke}}, {{l|en|Ukie}} {{q|informal}}
+* {{l|en|Ukrainer}} {{q|obsolete|rare}}
 
 ====Translations====
 {{trans-top|ethnic/citizen}}
@@ -45,7 +45,7 @@
 *: Mandarin: {{t+|cmn|烏克蘭人}}, {{t+|cmn|乌克兰人|tr=Wūkèlánrén}}
 * Czech: {{t+|cs|Ukrajinec|m}}
 * Danish: {{t+|da|ukrainer|c}}
-* Esperanto: {{t+|eo|ukraino}} {{qualifier|man or woman}}, {{t|eo|ukrainino}} {{qualifier|woman}}
+* Esperanto: {{t+|eo|ukraino}} {{q|male or female}}, {{t|eo|ukrainino}} {{q|female}}
 * Estonian: {{t|et|ukrainlane}}
 * Faroese: {{t|fo|ukraini|m}}
 * Finnish: {{t+|fi|ukrainalainen}}
@@ -67,16 +67,16 @@
 *: Nynorsk: {{t+|nn|ukrainar|m}}
 * Occitan: {{t+|oc|ucrainés|m}}
 * Polish: {{t+|pl|Ukrainiec|m}}, {{t+|pl|Ukrainka|f}},
-* Portuguese: {{t+|pt|ucraniano|m}}
+* Portuguese: {{t+|pt|ucraniano|m}}, {{t|pt|ucraniana|f}}
 * Romanian: {{t+|ro|ucrainean|m}}, {{t+|ro|ucraineană|f}}, {{t+|ro|ucraineancă|f}}, {{t|ro|ucraineni|m-p}}, {{t|ro|ucrainene|f-p}}, {{t|ro|ucrainence|f-p}}
 * Romansch: {{t|rm|ucranais|m}}, {{t|rm|ucranaisa|f}}
 * Russian: {{t+|ru|украи́нец|m}}, {{t+|ru|украи́нка|f}}
 * Serbo-Croatian:
 *: Roman: {{t+|sh|Ukrajinac|m}}, {{t|sh|Ukrajinka|f}}
 * Slovene: {{t+|sl|Ukrajínec|m}}, {{t|sl|Ukrajínka|f}}
-* Spanish: {{t+|es|ucraniano}}, {{t+|es|ucranio}}
+* Spanish: {{t+|es|ucraniano|m}}, {{t+|es|ucraniana|f}}, {{t+|es|ucranio|m}}, {{t+|es|ucrania|f}}
 * Swahili: {{t+|sw|Mkraini}}
-* Swedish: {{t+|sv|ukrainsk}}, {{t+|sv|ukrainare|c}}, {{t+|sv|ukrainska|c}}
+* Swedish: {{t+|sv|ukrainare|c}}, {{t+|sv|ukrainska|c}}
 * Tagalog: {{t|tl|Ukranyo}}
 * Turkish: {{t+|tr|Ukraynalı}}
 * Ukrainian: {{t+|uk|украї́нець|m}}, {{t+|uk|украї́нка|f}}, {{t+|uk|украї́нці|p}}, {{t|uk|украї́нки|f-p}}
@@ -96,7 +96,7 @@
 * Belarusian: {{t|be|украі́нская мо́ва|f}}, {{t|be|украі́нская|f}}
 * Bengali: {{t|bn|ইউক্রেনীয় ভাষা|tr=Iukreniẹ bhasha}}
 * Breton: {{t|br|Ukrainiek}}
-* Bulgarian: {{t|bg|украи́нски|m}} {{qualifier|ези́к}}
+* Bulgarian: {{t|bg|украи́нски|m}} {{q|ези́к}}
 * Catalan: {{t+|ca|ucraïnès|m}}
 *: Valencian: {{t|ca|ucraïnés|m}}
 * Cherokee: {{t|chr|ᏳᎧᏪᏂ|tr=Yukaweni}}
@@ -105,7 +105,7 @@
 * Czech: {{t+|cs|ukrajinština|f}}
 * Danish: {{t|da|ukrainsk}}
 * Dutch: {{t+|nl|Oekraïens|n}}
-* Esperanto: {{t|eo|Ukraina lingvo}}
+* Esperanto: {{t|eo|[[la]] [[ukraina]] ([[lingvo]])}}
 * Estonian: {{t|et|ukraina}}
 * Faroese: {{t|fo|ukrainskt}}
 * Finnish: {{t+|fi|ukraina}}
@@ -128,8 +128,9 @@
 * Limburgish: {{t+|li|Oekraïens}}
 {{trans-mid}}
 * Lithuanian: {{t+|lt|ukrainiečių kalba|f}}, {{t|lt|ukrainų kalba|f}}, {{t+|lt|ukrainiečių}}, {{t|lt|ukrainietiškai}} {{qualifier|adverb}}
-* Low German: {{t|nds|ukrainsche Spraak}}
-* Macedonian: {{t|mk|украи́нски|m}} {{qualifier|ја́зик}}
+* Low German: 
+*: German Low German: {{t+|nds-de|Ukrainsch|n}}, {{t|nds-de|[[ukrainsch]]e [[Spraak]]|f}}
+* Macedonian: {{t|mk|украи́нски|m}} {{q|ја́зик}}
 * Malay: {{t|ms|bahasa Ukraine}}, {{t|ms|bahasa Ukrainia}}
 * Maltese: {{t|mt|Ukren}}, {{t|mt|Ukranjan}}
 * Moksha: {{t|mdf|украинань}}
@@ -137,24 +138,24 @@
 * Navajo: {{t|nv|Yóókwein bizaad}}
 * Nepali: {{t|ne|युक्रेनी|tr=yukrenī}}
 * Norwegian:
-*: Bokmål: {{t+|nb|ukrainsk}}
-*: Nynorsk: {{t+|nn|ukrainsk}}
+*: Bokmål: {{t+|nb|ukrainsk|m}}
+*: Nynorsk: {{t+|nn|ukrainsk|m}}
 * Occitan: {{t|oc|Ucraïnès}}
 * Old English: {{t|ang|[[Ūcrægnisc]] [[sprǣc]]}}
 * Persian: {{t|fa|اوکراینی|tr=ukrâini}}
-* Polish: {{qualifier|język}} {{t+|pl|ukraiński|m}}
+* Polish: {{q|język}} {{t+|pl|ukraiński|m}}
 * Portuguese: {{t+|pt|ucraniano|m}}
 * Romanian: {{t+|ro|ucraineană|f}}
 * Russian: {{t+|ru|украи́нский язы́к|m}}, {{t+|ru|украи́нский|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|украински|m}} {{qualifier|језик}}
-*: Roman: {{t|sh|ukrainski|m}} {{qualifier|jezik}}
+*: Cyrillic: {{t|sh|украински|m}} {{q|језик}}
+*: Roman: {{t|sh|ukrainski|m}} {{q|jezik}}
 * Slovak: {{t+|sk|ukrajinčina|f}}
 * Slovene: {{t+|sl|ukrajínščina|f}}
 * Sorbian: [[Ukrainšćina]]
 * Spanish: {{t+|es|ucraniano|m}}
 * Swahili: {{t|sw|Kikraini}}
-* Swedish: {{t+|sv|ukrainska}}
+* Swedish: {{t+|sv|ukrainska|c}}
 * Tagalog: {{t|tl|Ukranyo}}
 * Tamil: {{t|ta|யூக்ரேனியன்}}
 * Tatar: {{t|tt|украина}}
@@ -175,10 +176,10 @@
 # Relating to [[Ukraine]] or its people.
 
 ====Synonyms====
-* {{l|en|Little Russian}}, {{l|en|Malo-Russian}} {{qualifier|obsolete}}
-* {{l|en|Rusnak}}, {{l|en|Rusniac}}, {{l|en|Rusniak}}, {{l|en|Russniak}}, {{l|en|Russniac}}, {{l|en|Rousniak}}, {{l|en|Rusnak}} {{qualifier|archaic}}
-* {{l|en|Ruthenian}} {{qualifier|historical}}, [[Ruthene]], [[Ruthen]], [[Rutene]] {{qualifier|archaic}}
-* {{l|en|Ukie}} {{qualifier|informal}}
+* {{l|en|Little Russian}}, {{l|en|Malo-Russian}} {{q|obsolete}}
+* {{l|en|Rusnak}}, {{l|en|Rusniac}}, {{l|en|Rusniak}}, {{l|en|Russniak}}, {{l|en|Russniac}}, {{l|en|Rousniak}}, {{l|en|Rusnak}} {{q|archaic}}
+* {{l|en|Ruthenian}} {{q|historical}}, [[Ruthene]], [[Ruthen]], [[Rutene]] {{q|archaic}}
+* {{l|en|Ukie}} {{q|informal}}
 
 ====Translations====
 {{trans-top|relating to Ukraine or its people}}
@@ -188,7 +189,7 @@
 * Catalan: {{t+|ca|ucraïnès|m}}, {{t+|ca|ucraïnesa|f}}
 *: Valencian: {{t|ca|ucraïnés|m}}, {{t+|ca|ucraïnesa|f}}
 * Chinese:
-*: Mandarin: {{qualifier|relating to Ukraine}} {{t+|cmn|烏克蘭|alt=烏克蘭的}}, {{t+|cmn|乌克兰|alt=乌克兰的|tr=Wūkèlán de}}, {{qualifier|relating to its people}} {{t+|cmn|烏克蘭人|alt=烏克蘭人的}}, {{t+|cmn|乌克兰人|alt=乌克兰人的|tr=Wūkèlánrén de}}
+*: Mandarin: {{q|relating to Ukraine}} {{t+|cmn|烏克蘭|alt=烏克蘭的}}, {{t+|cmn|乌克兰|alt=乌克兰的|tr=Wūkèlán de}}, {{q|relating to its people}} {{t+|cmn|烏克蘭人|alt=烏克蘭人的}}, {{t+|cmn|乌克兰人|alt=乌克兰人的|tr=Wūkèlánrén de}}
 * Czech: {{t+|cs|ukrajinský}}
 * Danish: {{t|da|ukrainsk}}
 * Faroese: {{t|fo|ukrainskur}}
@@ -207,6 +208,8 @@
 * Kazakh: {{t|kk|украин}}, {{t|kk|украиндық}}
 * Latvian: {{t|lv|ukraiņu}}, {{t|lv|ukrainisks}}
 * Lithuanian: {{t+|lt|ukrainiečių}}, {{t|lt|ukrainietiškas}}
+* Low German: 
+*: German Low German: {{t|nds-de|ukrainsch}}
 * Maltese: {{t|mt|Ukranjan}}
 * Norwegian:
 *: Bokmål: {{t+|nb|ukrainsk}}
@@ -227,7 +230,7 @@
 {{trans-bottom}}
 
 ====Derived terms====
-{{der2
+{{der2|lang=en
 |{{l|en|Ukrainian American}}, {{l|en|Ukrainian-American}}
 |{{l|en|Ukrainian Canadian}}, {{l|en|Ukrainian-Canadian}}
 |{{l|en|Ukrainian Catholic}}, {{l|en|Ukrainian Greek Catholic}}
@@ -235,7 +238,7 @@
 |{{l|en|Ukrainian Easter egg}}
 |{{l|en|Ukrainian Easter}}
 |{{l|en|Ukrainian Orthodox}}, {{l|en|Ukrainian Greek Orthodox}}
-|lang=en}}
+}}
 
 ===See also===
 * {{l|en|Index:Ukrainian}} – Words in Ukrainian
