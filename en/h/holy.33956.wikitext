@@ -3,7 +3,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|enm|en}} {{m|enm|holi}}, {{m|enm|hali}}, from {{etyl|ang|en}} {{m|ang|hāliġ}}, {{m|ang|hāleġ||holy, consecrated, sacred, venerated, godly, saintly, ecclesiastical, pacific, tame}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*hailagaz||holy, bringing health}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*hailaz||healthy, whole}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*kóh₂ilus||healthy, whole}}, equivalent to {{suffix|whole|y|lang=en}}. Cognate with {{cog|sco|haly||holy}}, {{cog|fy|hillich||holy}}, {{cog|nds|hillig||holy}}, {{cog|nl|heilig||holy}}, {{cog|de|heilig||holy}}, {{cog|da|hellig||holy}}, {{cog|sv|helig||holy}}. More at {{l|en|whole}}.
+From {{inh|en|enm|holi}}, {{m|enm|hali}}, from {{inh|en|ang|hāliġ}}, {{m|ang|hāleġ||holy, consecrated, sacred, venerated, godly, saintly, ecclesiastical, pacific, tame}}, from {{inh|en|gem-pro|*hailagaz||holy, bringing health}}, from {{der|en|gem-pro|*hailaz||healthy, whole}}, from {{der|en|ine-pro|*kóh₂ilus||healthy, whole}}, equivalent to {{suffix|whole|y|lang=en}}. Cognate with {{cog|sco|haly||holy}}, {{cog|fy|hillich||holy}}, {{cog|nds|hillig||holy}}, {{cog|nl|heilig||holy}}, {{cog|de|heilig||holy}}, {{cog|da|hellig||holy}}, {{cog|sv|helig||holy}}. More at {{l|en|whole}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/ˈhəʊli/|lang=en}}
@@ -284,7 +284,7 @@ From {{etyl|enm|en}} {{m|enm|holi}}, {{m|enm|hali}}, from {{etyl|ang|en}} {{m|an
 ==Middle English==
 
 ===Etymology 1===
-From {{inh|enm|ang|hāliġ}}.
+From {{inh|enm|ang|hāliġ}}, from {{der|enm|gem-pro|*hailagaz}}; equivalent to {{af|enm|hool|-y}}.
 
 ====Alternative forms====
 * {{alter|enm|hooly|holi|hooli|holye|holie|holly|hoolly|holli|hoolli|oly|oli|wholy|woly|hole|hali|haly|hayly|aly|ali|hale|hely|heli|holiȝ|holiȝe|holia|halge|halege|halȝe|hallȝhe|haliȝ|haliȝe|halie}}
@@ -298,6 +298,8 @@ From {{inh|enm|ang|hāliġ}}.
 #*: …of moost '''holi''' lyuynge, and best taught and moost wyse of heuenly wysdom…
 
 =====Derived terms=====
+* {{l|enm|halyday}}
+* {{l|enm|halywater}}
 * {{l|enm|holynesse}}
 * {{l|enm|holyhede}}
 * {{l|enm|holyliche}}
@@ -308,7 +310,6 @@ From {{inh|enm|ang|hāliġ}}.
 * {{l|enm|holy rode}}
 * {{l|enm|Holigost}}
 * {{l|enm|holy writ}}
-* {{l|enm|halywater}}
 * {{l|enm|popholy}}
 * {{l|enm|pompholy}}
 * {{l|enm|lyfholy}}
@@ -356,3 +357,5 @@ From {{affix|enm|hol|-y}}
 
 ====References====
 * {{R:MED Online|entry= holi, adj. (1) |id=MED21021 |accessdate=4 August 2018}}
+
+[[Category:enm:Religion]]
