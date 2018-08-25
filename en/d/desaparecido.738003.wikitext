@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|es|en}} {{m|es|desaparecido}}.
+From {{bor|en|es|desaparecido}}.
 
 ===Noun===
 {{en-noun}}
@@ -31,28 +31,31 @@ From {{etyl|es|en}} {{m|es|desaparecido}}.
 # [[disappeared]]
 
 ===Verb===
-{{head|pt|verb form}}
+{{pt-pp|desaparecid|desaparecer}}
 
-# {{pt-verb form of|desaparecer|er|past participle|masculine|singular}}
+# {{pt-verb-form-of|desaparecer}}
 
 ----
 
 ==Spanish==
 
+===Pronunciation===
+* {{es-IPA}}
+
 ===Adjective===
 {{es-adj|f=desaparecida}}
 
 # [[disappeared]], [[missing]]
-#: {{eg|es|¿Adónde fue el conejo '''desaparacido'''?|Where did the '''disappeared''' rabbit go?}}
+#: {{uxi|es|¿Adónde fue el conejo '''desaparacido'''?|Where did the '''disappeared''' rabbit go?}}
 
 ===Verb===
-{{head|es|verb form}}
+{{es-past participle|desaparecid}}
 
-# {{es-verb form of|mood=participle|tense=past|ending=er|desaparecer|nodot=1}} ("to disappear").
-#: {{ux|es|Mis llaves han '''desaparacido'''.|My keys have '''disappeared'''.}}
+# {{es-verb form of|mood=participle|gen=m|num=s|ending=er|desaparecer|nodot=1}} ("to disappear").
+#: {{uxi|es|Mis llaves han '''desaparacido'''.|My keys have '''disappeared'''.}}
 
 ===Noun===
 {{es-noun|m|f=desaparecida}}
 
 # [[disappeared]], [[missing]] people or things <!--awkward translating this-->
-#: {{eg|es|La policía encontré ayer los '''desparecidos'''.|Yesterday the police found the '''missing individuals'''.}}
+#: {{uxi|es|La policía encontré ayer los '''desparecidos'''.|Yesterday the police found the '''missing individuals'''.}}
