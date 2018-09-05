@@ -12,8 +12,11 @@
 
 ==Catalan==
 
+===Pronunciation===
+* {{ca-IPA}}
+
 ===Verb===
-{{head|ca|verb form}}
+{{head|ca|past participle|g=f-s}}
 
 # {{ca-verb form of|g=f|m=ptc|t=past|posar}}
 
@@ -67,12 +70,22 @@ From {{m|sh|posaditi}}, influenced by {{cog|cs|posádka}}.
 
 ==Spanish==
 
+===Pronunciation===
+* {{es-IPA}}
+
 ===Noun===
 {{es-noun|f}}
 
-# {{lb|es|antiquated}} [[hotel]].
+# {{lb|es|antiquated}} [[hotel]]
 
 ====Related terms====
-* {{l|es|posar}}
-* {{l|es|reposar}}
-* {{l|es|reposo}}
+{{rel3
+|posar
+|reposar
+|reposo
+|lang=es}}
+
+===Verb===
+{{head|es|past participle form|g=f-s}}
+
+# {{es-verb form of|mood=participle|gen=f|num=s|ending=ar|posar}}
