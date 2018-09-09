@@ -44,13 +44,13 @@ From {{inh|en|enm|juel}}, {{m|enm|jewel}}, {{m|enm|juwel}}, {{m|enm|jeuel}}, {{m
 
 ====Translations====
 {{trans-top|gemstone}}
-* Arabic: {{t+|ar|جوهر|tr=jawhar}}, {{t|ar|جَوْهَرَة‎|f}} {{qualifier|singulative}}
+* Arabic: {{t+|ar|جَوْهَر|m}}, {{t|ar|جَوْهَرَة‎|f}} {{qualifier|singulative}}
 * Belarusian: {{t|be|кашто́ўны ка́мень|m}}
 * Bulgarian: {{t|bg|скъпоце́нен ка́мък|m}}
 * Burmese: {{t+|my|ရတနာ}}
 * Chinese:
 *: Mandarin: {{t+|cmn|寶石}}, {{t+|cmn|宝石|tr=bǎoshí}}
-* Czech: {{t+|cs|drahokam}}
+* Czech: {{t|cs|klenot|m}}, {{t+|cs|drahokam|m}}
 * Dutch: {{t+|nl|juweel|n}}
 * Estonian: {{t|et|kalliskivi}}
 * Finnish: {{t+|fi|jalokivi}}, {{t+|fi|korukivi}} (''semiprecious'')
@@ -59,23 +59,26 @@ From {{inh|en|enm|juel}}, {{m|enm|jewel}}, {{m|enm|juwel}}, {{m|enm|jeuel}}, {{m
 * Greek: {{t+|el|πετράδι|n}}, {{t+|el|πολύτιμος λίθος|m}}
 * Irish: {{t|ga|seoid|f}}
 * Italian: {{t+|it|gemma|f}}
-* Japanese: {{t+|ja|宝石|tr=hōseki|sc=Jpan}}
+* Japanese: {{t+|ja|宝石|tr=ほうせき, hōseki|sc=Jpan}}
 * Khmer: {{t+|km|ត្បូង}}, {{t+|km|មណី}}
-* Korean: {{t+|ko|보석}}
+* Korean: {{t+|ko|보석}} ({{t+|ko|寶石}})
 * Lao: {{t-needed|lo}}
 * Latin: {{t|la|gemma|f}}
 * Latvian: {{t|lv|dārgakmens|m}}
 {{trans-mid}}
 * Lithuanian: {{t|lt|brangakmenis|m}}
 * Marathi: {{t|mr|रत्न|sc=Deva}}
-* Pashto: {{t+|ps|غمی|m|tr=ghamai}}
-* Persian: {{t+|fa|گوهر|tr=gohar|sc=fa-Arab}}
-* Polish: {{t+|pl|klejnot|m}}
+* Pashto: {{t+|ps|غمی|m|tr=ǧamáy}}
+* Persian: {{t+|fa|گوهر|tr=gowhar}}
+* Polish: {{t+|pl|klejnot|m}}, {{t+|pl|kamień szlachetny|m}}
 * Portuguese: {{t+|pt|joia|f}}, {{t+|pt|gema|f}}
 * Romanian: {{t+|ro|nestemată|f}}, {{t|ro|nestemate|f-p}}, {{t|ro|pietre scumpe|f-p}}
-* Russian: {{t+|ru|драгоце́нный ка́мень|m}}
+* Russian: {{t+|ru|драгоце́нный ка́мень|m}}, {{t+|ru|самоцве́т|m}}
 * Scottish Gaelic: {{t|gd|seud|m}}
-* Serbo-Croatian: {{t|sh|dragulje}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|драгуљ|m}}
+*: Roman: {{t+|sh|dragulj|m}}
+* Slovak: {{t|sk|klenot|m}}
 * Slovene: {{t+|sl|dragulj|m}}
 * Spanish: {{t+|es|gema|f}}, {{t+|es|joya|f}}, {{t+|es|alhaja|f}}
 * Swahili: {{t|sw|johari|c9|c10}}
@@ -84,11 +87,12 @@ From {{inh|en|enm|juel}}, {{m|enm|jewel}}, {{m|enm|juwel}}, {{m|enm|jeuel}}, {{m
 * Tocharian A: {{t|xto|wmār}}
 * Tocharian B: {{t|txb|wamer}}
 * Turkish: {{t+|tr|mücevher}}
-* Ukrainian: {{t|uk|дорогоці́нний ка́мінь|m}}, {{t|uk|кошто́вний ка́мінь|m}}
+* Ukrainian: {{t|uk|дорогоці́нний ка́мінь|m}}, {{t|uk|кошто́вний ка́мінь|m}}, {{t|uk|самоцві́т|m}}
 * Welsh: {{t+|cy|tlws|m}}, {{t|cy|tlysau|m-p}}
 {{trans-bottom}}
 
 {{trans-top|valuable object for ornamentation}}
+* Bulgarian: {{t+|bg|драгоце́нност|f}}
 * Czech: {{t+|cs|šperk|m}}, {{t|cs|klenot|m}}
 * Dutch: {{t+|nl|sieraad|n}}
 * Esperanto: {{t|eo|juvelo}}
@@ -109,7 +113,10 @@ From {{inh|en|enm|juel}}, {{m|enm|jewel}}, {{m|enm|juwel}}, {{m|enm|jeuel}}, {{m
 * Romanian: {{t+|ro|bijuterie|f}}, {{t|ro|bijuterii|f-p}}, {{t|ro|giuvaeruri|n-p}}
 * Russian: {{t+|ru|драгоце́нность|f}}
 * Scottish Gaelic: {{t|gd|seud|m}}, {{t|gd|àilleag|m}}
-* Slovak: {{t|sk|klenot}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|драгоценост|f}}
+*: Roman: {{t+|sh|dragocenost|f}}
+* Slovak: {{t|sk|klenot|m}}
 * Spanish: {{t+|es|joya|f}}
 * Swahili: {{t|sw|johari|c9|c10}}
 * Tamil: {{t+|ta|நகை|sc=Taml}}, {{t+|ta|ஆபரணம்|sc=Taml}}
