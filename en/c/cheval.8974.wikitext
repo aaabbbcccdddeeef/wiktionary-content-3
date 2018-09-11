@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-{{etyl|fr|en}}. See {{m|en|cavalcade}}.
+Borrowed from {{bor|en|fr|cheval}}. See {{m|en|cavalcade}}.
 
 ===Noun===
 {{en-noun|chevaux}}
@@ -58,6 +58,9 @@ From {{inh|fr|frm|cheval}}, from {{inh|fr|fro|cheval}}, from {{inh|fr|LL.|caball
 * {{l|fr|cheval-jupon}}
 * {{l|fr|cheval-vapeur}}
 
+====Descendants====
+* {{desc|bor=1|en|cheval}}
+
 ====Related terms====
 {{top2}}
 * {{l|fr|cavalier}}
@@ -93,7 +96,7 @@ From {{inh|frm|fro|cheval}}.
 * {{l|frm|chevalier}}
 
 ====Descendants====
-* French: {{l|fr|cheval}}
+* {{desctree|fr|cheval}}
 
 [[Category:frm:Animals]]
 
@@ -117,12 +120,10 @@ From {{inh|fro|LL.|caballus||horse}}, from {{inh|fro|la|caballus||pack horse}}, 
 * {{l|fro|chevalier}}
 
 ====Descendants====
-{{top2}}
-* Middle French: {{l|frm|cheval}}
-** French: {{l|fr|cheval}}
-* Gallo: {{l|roa-gal|ch'fa}}
-{{mid2}}
-* Norman: {{l|nrf|ch'fa}} {{qualifier|Guernsey}}, {{l|nrf|j'va}} {{qualifier|Jersey}}, {{l|nrf|queva}} {{qualifier|continental Normandy}}
-{{bottom}}
+* {{desc|roa-gal|ch'fa}}
+* {{desctree|frm|cheval}}
+* {{desc|nrf|ch'fa|alts=1}}
+* {{desc|roa-tou|chvau}}
+* {{desc|wa|tchivå|alts=1}}
 
 [[Category:fro:Animals]]
