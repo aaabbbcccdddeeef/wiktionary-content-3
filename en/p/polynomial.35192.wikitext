@@ -5,39 +5,6 @@
 ===Etymology===
 {{confix|poly|nomial|lang=en}}, from {{m|grc|νομός||portion, part}}, by analogy with {{m|en|binomial}}.
 
-===Adjective===
-{{en-adj|-}}
-
-# {{lb|en|algebra}} Able to be described or limited by a [[#Noun|polynomial]].
-# {{lb|en|taxonomy}} of a polynomial name or entity
-
-====Translations====
-{{trans-top|in algebra}}
-* Afrikaans: {{t|af|polinomies}}
-* Catalan: {{t|ca|polinomial}}
-* Czech: {{t|cs|polynomický}}
-* Finnish: {{t|fi|polynominen}}
-* French: {{t+|fr|polynomial}}
-* German: {{t|de|polynomisch}}
-* Greek: {{t+|el|πολυωνυμικός}}
-* Hungarian: {{t|hu|polinomiális}}
-* Italian: {{t+|it|polinomiale}}
-{{trans-mid}}
-* Polish: {{t|pl|wielomianowy|m}}
-* Portuguese: {{t|pt|polinomial}}
-* Romanian: {{t+|ro|polinomial}}, {{t|ro|polinomic}}
-* Russian: {{t+|ru|многочле́нный}}, {{t+|ru|полиномиа́льный}}
-* Spanish: {{t|es|polinomial}}, {{t|es|polinómico}}
-* Swedish: {{t+|sv|polynomiell}}
-* Thai: {{t|th|พหุนาม}}
-* Turkish: {{t+|tr|polinom}}
-{{trans-bottom}}
-
-{{trans-top|in taxonomy}}
-* French: {{t|fr|polynominal|m}}, {{t|fr|polynominale|f}}, {{t+|fr|polynomial|m}}, {{t+|fr|polynomiale|f}}
-{{trans-mid}}
-{{trans-bottom}}
-
 ===Noun===
 {{en-noun}}
 
@@ -97,6 +64,39 @@
 * {{l|en|trinomial}}
 * {{l|en|quadrinomial}}
 * {{l|en|quantic}}
+
+===Adjective===
+{{en-adj|-}}
+
+# {{lb|en|algebra}} Able to be described or limited by a [[#Noun|polynomial]].
+# {{lb|en|taxonomy}} of a polynomial name or entity
+
+====Translations====
+{{trans-top|in algebra}}
+* Afrikaans: {{t|af|polinomies}}
+* Catalan: {{t|ca|polinomial}}
+* Czech: {{t|cs|polynomický}}
+* Finnish: {{t|fi|polynominen}}
+* French: {{t+|fr|polynomial}}
+* German: {{t|de|polynomisch}}
+* Greek: {{t+|el|πολυωνυμικός}}
+* Hungarian: {{t|hu|polinomiális}}
+* Italian: {{t+|it|polinomiale}}
+{{trans-mid}}
+* Polish: {{t|pl|wielomianowy|m}}
+* Portuguese: {{t|pt|polinomial}}
+* Romanian: {{t+|ro|polinomial}}, {{t|ro|polinomic}}
+* Russian: {{t+|ru|многочле́нный}}, {{t+|ru|полиномиа́льный}}
+* Spanish: {{t|es|polinomial}}, {{t|es|polinómico}}
+* Swedish: {{t+|sv|polynomiell}}
+* Thai: {{t|th|พหุนาม}}
+* Turkish: {{t+|tr|polinom}}
+{{trans-bottom}}
+
+{{trans-top|in taxonomy}}
+* French: {{t|fr|polynominal|m}}, {{t|fr|polynominale|f}}, {{t+|fr|polynomial|m}}, {{t+|fr|polynomiale|f}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ===See also===
 * [[Appendix:English polynomial degrees]]
