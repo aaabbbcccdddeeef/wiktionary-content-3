@@ -78,7 +78,7 @@ The verb is from {{inh|en|enm|pipen|pīpen}}, {{m|enm|pypen||to play a pipe; to 
 {{der3|lang=en|airpipe|anonymous pipe|blowpipe|boatswain's pipe|churchwarden pipe|crack-pipe|crosspipe|double pipe|drainage pipe|dutchman's pipe|food pipe|half-pipe|hawse pipe|hashpipe|hornpipe|hosepipe|named pipe|organ pipe|panpipe|peace pipe|pipelike|pipeline|pipesmoke|pipe cleaner|pipe dream|pipe wrench|pitch pipe|quarter-pipe|set of pipes|smokepipe|soil pipe|standpipe|steampipe|stopped pipe|stovepipe|superpipe|waste pipe|water pipe|windpipe}}
 
 ====Translations====
-{{trans-top|musical instrument}}
+{{trans-top|wind instrument}}
 * Arabic: {{t|ar|مِزْمَار|m}}
 * Armenian: {{t+|hy|շվի}}, {{t+|hy|սրինգ}}
 * Catalan: {{t+|ca|gaita|f}}
@@ -128,7 +128,7 @@ The verb is from {{inh|en|enm|pipen|pīpen}}, {{m|enm|pypen||to play a pipe; to 
 * Swedish: {{t|sv|orgelpipa|c}}
 {{trans-bottom}}
 
-{{trans-top|hollow tube}}
+{{trans-top|rigid tube}}
 * Afrikaans: {{t|af|buis}}, {{t+|af|pyp}}
 * Albanian: {{t+|sq|tub|m}}
 * Arabic: {{t|ar|مَاسُورَة|f}}
@@ -204,47 +204,28 @@ The verb is from {{inh|en|enm|pipen|pīpen}}, {{m|enm|pypen||to play a pipe; to 
 * Zulu: {{t|zu|ithumbu|c5|c6}}
 {{trans-bottom}}
 
-{{trans-see|smoking tool|tobacco pipe}}
-
-{{trans-top|geology}}
-* Spanish: {{t+|es|chimenea|f}}
+{{trans-top|(''idiomatic, slang'') penis}}<!--Add only terms similar to "pipe"-->
+* Spanish: {{t+|es|fierro|m}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|pasta}}
+{{trans-top|decorative edging}}
+* Spanish: {{t+|es|encaje|m}}, {{t+|es|orla|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|type of pasta}}
 * Polish: {{t+|pl|rurki|f-p}}
 {{trans-mid}}
 * Spanish: {{t+|es|codos|m-p}}, {{t|es|coditos|m-p}}
 {{trans-bottom}}
 
-{{trans-top|decorative edging}}
-* Spanish: {{t+|es|orla|f}}, {{t+|es|encaje|m}}
+{{trans-top|vertical conduit through the Earth's crust}}
+* Spanish: {{t+|es|chimenea|f}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|computing slang}}
-* Czech: {{t|cs|svislítko|n}}
-* Finnish: {{t+|fi|letku}}
-* Italian: {{t+|it|pipe|f}}
-{{trans-mid}}
-* Russian: {{t+|ru|пайп|m}}
-* Spanish: {{t|es|banda ancha|f}}
-* Swedish: {{t+|sv|lina|c}}
-{{trans-bottom}}
-
-{{trans-top|punctuation mark}}
-* Czech: {{t|cs|svislítko|n}}, {{qualifier|slang}} {{t+|cs|pipa|f}} /paɪpa/
-* Finnish: {{t+|fi|pystyviiva}}
-* French: {{t+|fr|barre verticale|f}}, {{t+|fr|tube}}, {{t+|fr|pipe|m}}, {{t+|fr|barre|f}}
-* Icelandic: {{t|is|lóðlína}}
-* Irish: {{t|ga|píopa|m}}
-{{trans-mid}}
-* Polish: {{t|pl|kreska pionowa|f}}
-* Spanish: {{t+|es|pleca|f}}
-* Thai: {{t|th|ไพป์}}, {{t|th|ขีดตั้ง}}
-{{trans-bottom}}
-
-{{trans-top|computing: means of interprocess communication}}
+{{trans-top|mechanism that enables one program to communicate with another}}
 * Czech: {{t|cs|roura|f}}
 * Finnish: {{t+|fi|putki}}
 * Italian: {{t+|it|pipe|f}}
@@ -255,10 +236,29 @@ The verb is from {{inh|en|enm|pipen|pīpen}}, {{m|enm|pypen||to play a pipe; to 
 * Swahili: {{t+|sw|digali}}
 {{trans-bottom}}
 
-{{trans-top|slang term for penis}}
-* Spanish: {{t+|es|fierro|m}}
+{{trans-top|data backbone or broadband Internet access}}
+* Czech: {{t|cs|svislítko|n}}
+* Finnish: {{t+|fi|letku}}
+* Italian: {{t+|it|pipe|f}}
 {{trans-mid}}
+* Russian: {{t+|ru|пайп|m}}
+* Spanish: {{t|es|banda ancha|f}}
+* Swedish: {{t+|sv|lina|c}}
 {{trans-bottom}}
+
+{{trans-top|the character <nowiki>|</nowiki>}}
+* Czech: {{t|cs|svislítko|n}}, {{qualifier|slang}} {{t+|cs|pipa|f}}
+* Finnish: {{t+|fi|pystyviiva}}
+* French: {{t+|fr|barre verticale|f}}, {{t+|fr|tube}}, {{t+|fr|pipe|m}}, {{t+|fr|barre|f}}
+* Icelandic: {{t|is|lóðlína}}
+{{trans-mid}}
+* Irish: {{t|ga|píopa|m}}
+* Polish: {{t|pl|kreska pionowa|f}}
+* Spanish: {{t+|es|pleca|f}}
+* Thai: {{t|th|ไพป์}}, {{t|th|ขีดตั้ง}}
+{{trans-bottom}}
+
+{{trans-see|smoking implement|tobacco pipe}}
 
 {{checktrans-top}}
 * Telugu: {{t+check|te|గొట్టము}}
