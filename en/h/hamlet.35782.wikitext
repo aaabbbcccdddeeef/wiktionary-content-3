@@ -107,20 +107,36 @@ From {{inh|en|enm|hamlet}}, {{m|enm|hamelet}}, a borrowing from {{der|en|fro|ham
 
 ----
 
-==Norwegian==
-
-===Alternative forms===
-* [[hamlett]] ([[Nynorsk|Norwegian Nynorsk]] only)
+==Norwegian Bokmål==
 
 ===Etymology===
-Made up of ''[[ham]]'' (skin) and ''[[let]]'' ([[colour]]).
+From {{af|nb|ham|t1=skin|let|t2=colour}}
 
 ===Noun===
-{{head|no|noun|g=m}}
+{{nb-noun-m1}}
 
-# The [[skin colour]]
-: ''Han var m&oslash;rk i '''hamleten'''.''
-:: ''His skin colour was dark.
+# [[skin colour]], {{l|en|complexion}}
+: {{ux|nb|Han var mørk i '''hamleten'''.|inline=1|His skin colour was dark.}}
 
 ====Synonyms====
-* [[hudfarge]]
+* {{l|nb|hudfarge}}
+
+===References===
+* {{R:Dokpro|lang=nb}}
+
+----
+==Norwegian Nynorsk==
+
+===Etymology===
+From {{af|nn|ham|t1=skin|let|t2=colour}}
+
+===Noun===
+{{nn-noun-m2}}
+
+# [[skin colour]], {{l|en|complexion}}
+
+====Alternative forms====
+* {{l|nn|hamlett}}
+
+===References===
+* {{R:Dokpro|lang=nn}}
