@@ -158,43 +158,51 @@ From {{inh|la|itc-pro|*entagros}}, from {{der|la|ine-pro|*n̥th₂gros}}, from {
 * ''comparative'': '''[[integrior]]''', ''superlative'': '''[[integerrimus]]'''
 
 ====Derived terms====
-{{top2}}
-* {{l|la|integellus}}
-* {{l|la|integrātiō}}
-* {{l|la|integrātor}}
-* {{l|la|integrē}}
-{{mid2}}
-* {{l|la|integritās}}
-* {{l|la|integritūdō}}
-* {{l|la|integrō}}
-{{bottom}}
+{{der4
+|integellus
+|integrātiō
+|integrātor
+|integrē
+|integritās
+|integritūdō
+|integrō
+|lang=la}}
 
 ====Descendants====
-{{top2}}
-* Aromanian: {{l|rup|ãntreg}}, {{l|rup|ntreg}}
-* Asturian: {{l|ast|enteru}}, {{l|ast|integru}} {{qualifier|borrowing}}
-* Catalan: {{l|ca|enter}}, {{l|ca|íntegre}} {{qualifier|borrowing}}
-* Dalmatian: {{l|dlm|intric}}
-* English: [[entire]], {{l|en|integer}} {{qualifier|borrowing}}
-* Old French: {{l|fro|entier}}
-** French: {{l|fr|entier}}, {{l|fr|intègre}} {{qualifier|borrowing}}
-* Friulian: {{l|fur|intîr}}
-* Galician: {{l|gl|enteiro}}, {{l|gl|íntegro}} {{qualifier|borrowing}}
-* Italian: {{l|it|integro}} {{qualifier|borrowing}}, {{l|it|intero}}
-* Norman: {{l|nrf|entchi}}
-* Ladin: {{l|ast|ntier}}
-{{mid2}}
-* Occitan: {{l|oc|entièr}}, {{l|oc|entegre}}
-* Old Portuguese: {{l|roa-opt|enteiro}}, {{l|roa-opt|enteyro}}
-* Old Spanish: {{l|osp|entero}}, {{l|osp|entrego}}, {{l|osp|entegro}} {{qualifier|borrowing}}
-* Portuguese: {{l|pt|íntegro}} {{qualifier|borrowing}}, {{l|pt|inteiro}}
-* Romanian: {{l|ro|întreg}}, {{l|ro|integru}} {{qualifier|borrowing}}
-* Romansch: {{l|rm|entir}}
-* Sardinian: {{l|sc|interu}}
-* Sicilian: {{l|scn|nteru}}
-* Spanish: {{l|es|entero}}, {{l|es|íntegro}} {{qualifier|borrowing}}
-* Venetian: {{l|vec|intier}}, {{l|vec|intiero}}, {{l|vec|intrego}}, {{l|vec|intriego}}
-* Walloon: {{l|wa|entier}}
+{{top4}}
+* {{desc|rup|ãntreg}}, {{l|rup|ntreg}}
+* {{desc|ast|enteru}}
+* {{desc|ast|integru|bor=1}}
+* {{desc|ca|enter}}
+* {{desc|ca|íntegre|bor=1}}
+* {{desc|dlm|intric}}
+* {{desc|en|integer|bor=1}}
+* {{desc|fr|intègre|bor=1}}
+* {{desc|fur|intîr}}
+* {{desc|gl|íntegro|bor=1}}
+* {{desc|it|integro|bor=1}}
+* {{desc|it|intero}}
+* {{desc|ast|ntier}}
+* {{desc|oc|entièr}}, {{l|oc|entegre}}
+* {{desc|fro|entier}}
+** {{desc|en|entire|bor=1}}
+** {{desc|fr|entier}}
+** {{desc|nrf|entchi}} {{q|Jersey}}
+** {{desc|wa|entier}}
+* {{desc|roa-opt|enteiro}}, {{l|roa-opt|enteyro}}
+** {{desc|gl|enteiro}}
+** {{desc|pt|inteiro}}
+* {{desc|osp|entero}}, {{l|osp|entrego}}
+** {{desc|es|entero}}
+* {{desc|osp|entegro|bor=1}}
+* {{desc|pt|íntegro|bor=1}}
+* {{desc|ro|întreg}}
+* {{desc|ro|integru|bor=1}}
+* {{desc|rm|entir}}
+* {{desc|sc|interu}}
+* {{desc|scn|nteru}}
+* {{desc|es|íntegro|bor=1}}
+* {{desc|vec|intier}}, {{l|vec|intiero}}, {{l|vec|intrego}}, {{l|vec|intriego}}
 {{bottom}}
 
 ===References===
