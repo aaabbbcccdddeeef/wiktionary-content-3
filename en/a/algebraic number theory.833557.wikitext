@@ -1,11 +1,35 @@
 ==English==
+{{wikipedia}}
+
+===Etymology===
+{{blend|en|algebraic number|number theory}}. Possibly (alternatively or also) a [[calque]] of German {{m|de|algebraische Zahlentheorie}}.
 
 ===Noun===
-{{en-noun|-|head=[[algebraic number]] [[theory]]}}
-# {{lb|en|mathematics}} The subfield of [[number theory]] where [[algebraic number]]s are studied using [[algebra]].
+{{en-noun|-|head=[[algebraic]] [[number theory]]}}
+# {{lb|en|mathematics|number theory}} The branch of [[number theory]] in which number-theoretic questions are expressed in terms of properties of [[algebraic number field]]s or related objects, and studied using techniques from [[algebra]].
+#* '''1998''', Norbert Klingen, ''Arithmetical Similarities: Prime Decomposition and Finite Group Theory'', {{w|Oxford University Press}} (Clarendon Press), [https://books.google.com.au/books?id=oYzCGKGeni8C&pg=PA241&dq=%22algebraic+number+theory%22%7C%22algebraic+number+theories%22&hl=en&sa=X&ved=0ahUKEwjmtZWDusPdAhXGXLwKHZLqArcQ6AEIiAQwVA#v=onepage&q=%22algebraic%20number%20theory%22%7C%22algebraic%20number%20theories%22&f=false page 241],
+#*: As is well-known in '''algebraic number theory''', there is a far-reaching analogy between number fields and algebraic function fields in one variable with finite constant field.
+#* '''2008''', Steven H. Weintraub, ''Factorization: Unique and Otherwise'', CRC Press, [https://books.google.com.au/books?id=3FTkCLl3ZlcC&pg=PA143&dq=%22algebraic+number+theory%22%7C%22algebraic+number+theories%22&hl=en&sa=X&ved=0ahUKEwjmtZWDusPdAhXGXLwKHZLqArcQ6AEIrwMwRQ#v=onepage&q=%22algebraic%20number%20theory%22%7C%22algebraic%20number%20theories%22&f=false page 143],
+#*: The field of mathematics that these generalize to is known as '''''algebraic number theory'''''. As a matter of historical fact, our development here parallels the development of '''algebraic number theory'''.
+#* '''2013''', Mak Trifković, ''Algebraic Theory of Quadratic Numbers'', Springer, [https://books.google.com.au/books?id=_F64BAAAQBAJ&pg=PR5&dq=%22algebraic+number+theory%22%7C%22algebraic+number+theories%22&hl=en&sa=X&ved=0ahUKEwjmtZWDusPdAhXGXLwKHZLqArcQ6AEIiQMwPw#v=onepage&q=%22algebraic%20number%20theory%22%7C%22algebraic%20number%20theories%22&f=false page v],
+#*: Elementary arithmetic studies divisibility and factorization of ordinary integers, '''Algebraic number theory''' considers the same questions for algebraic numbers, solutions to polynomial equations with integer coefficients. In this setting, (un)fortunately, the uniqueness of prime factorization no longer holds. Remedying and measuring its failure is the starting point of '''algebraic number theory'''.
 
 ====Translations====
-{{trans-top|subfield that studies algebraic numbers}}
-* Portuguese: {{t|pt|teoria dos números algébricos|f}}
+{{trans-top|branch of number theory concerning algebraic number fields}}
+* German: {{t|de|algebraische Zahlentheorie|f}}
+* Italian: {{t|it|teoria algebrica dei numeri|f}}, {{t|it|teoria dei numeri algebrica|f}}
 {{trans-mid}}
+* Portuguese: {{t|pt|teoria dos números algébricos|f}}, {{t|pt|teoria algébrica dos números|f}}
 {{trans-bottom}}
+
+===See also===
+* {{l|en|analytic number theory}}
+* {{l|en|arithmetic geometry}}
+* {{l|en|diophantine geometry}}
+
+===Further reading===
+* {{pedialite|Algebraic number field}}
+* {{pedialite|Number theory#Algebraic number theory}}
+* {{pedialite|Ring of integers}}
+* [https://www.encyclopediaofmath.org/index.php/Algebraic_number_theory Algebraic number theory] on {{w|Encyclopedia of Mathematics}}
+* [http://mathworld.wolfram.com/AlgebraicNumberTheory.html Algebraic Number Theory] on {{w|MathWorld|Wolfram MathWorld}}
