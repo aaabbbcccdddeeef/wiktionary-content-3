@@ -12,22 +12,26 @@ From {{compound|air|craft|lang=en}}.
 ===Noun===
 {{en-noun|aircraft}}
 
-# A vehicle capable of atmospheric [[flight]] due to interaction with the [[air]], such as [[buoyancy]] or [[lift]].
+# a vehicle capable of atmospheric [[flight]] due to interaction with the [[air]], such as [[buoyancy]] or [[lift]]
 
 ====Usage notes====
-* The nonstandard plural form {{l|en|aircrafts}} is in use among non-native speakers of English.
+* The nonstandard plural form {{m|en|aircrafts}} is in use among non-native speakers of English.
 
 ====Hyponyms====
 * See also [[Thesaurus:aircraft]]
 
 ====Derived terms====
-* {{l|en|aircraft carrier}}
-* {{l|en|model aircraft}}
-* {{l|en|rocket aircraft}}
+{{der3
+|aircraft carrier
+|model aircraft
+|rocket aircraft
+|lang=en}}
 
 ====Related terms====
-* {{l|en|spacecraft}}
-* {{l|en|watercraft}}
+{{rel2
+|spacecraft
+|watercraft
+|lang=en}}
 
 ====Translations====
 {{trans-top|machine capable of atmospheric flight}}
@@ -38,12 +42,12 @@ From {{compound|air|craft|lang=en}}.
 * Basque: {{t|eu|hegazkinen}}
 * Bengali: {{t+|bn|বিমান|tr=bimāna}}
 * Bulgarian: {{t+|bg|самолет|m}}
-* Burmese: {{t|my|လေယာဉ်ပျံ|tr=lay yarny pyaan|sc=Mymr}}
+* Burmese: {{t|my|လေယာဉ်ပျံ|tr=lay yarny pyaan}}
 * Catalan: {{t+|ca|aeronau|f}}
 * Chichewa: {{t|ny|ndege}}
 * Chinese:
 *: Mandarin: {{t+|cmn|航空器|tr=hángkōngqì}}, {{t+|cmn|飛機}}, {{t+|cmn|飞机|tr=fēijī}}
-*: Min Nan: {{t|nan|飞行器|tr=hui1-hing5-khi3|sc=Hani}}
+*: Min Nan: {{t|nan|飞行器|tr=hui1-hing5-khi3}}
 * Czech: {{t+|cs|letadlo|n}}
 * Danish: {{t+|da|luftfartøj|n}}
 * Dutch: {{t+|nl|luchtvaartuig|n}}
@@ -57,14 +61,14 @@ From {{compound|air|craft|lang=en}}.
 * German: {{t+|de|Luftfahrzeug|n}}; ''but when meaning "airplane" use'' {{t+|de|Flugzeug|n}}
 * Greek: {{t+|el|αεροσκάφος|n}}
 * Hebrew: {{t+|he|כְּלִי טַיִס|m|tr=kli-tayis}}
-* Hungarian: {{t+|hu|repülőgép}}, {{qualifier|colloquial}} {{t+|hu|repülő}}
+* Hungarian: {{t+|hu|repülőgép}}, {{t+|hu|repülő}} {{qualifier|colloquial}}
 * Ido: {{t+|io|aviacilo}}
 * Indonesian: {{t|id|pesawat udara}}
 * Interlingua: {{t|ia|aeronave}}, {{t|ia|avion}}
 * Irish: {{t|ga|aerárthach|m}}
 * Italian: {{t+|it|aeromobile|m}}
 * Japanese: {{t+|ja|航空機|tr=こうくうき, kōkūki}}, {{t+|ja|飛行機|tr=ひこうき, hikōki}}
-* Javanese: {{t|jv|palwa anggegana}}
+* Javanese: {{t|jv|ꦥꦭ꧀ꦮꦲꦁꦒꦼꦒꦤ|tr=palwa anggegana}}
 * Kannada: {{t+|kn|ವಿಮಾನ}}
 * Korean: {{t+|ko|항공기}} ({{t|ko|航空器}})
 {{trans-mid}}
@@ -74,7 +78,7 @@ From {{compound|air|craft|lang=en}}.
 * Malay: {{t|ms|pesawat}}
 * Malayalam: {{t+|ml|ആകാശനൗക}}, {{t+|ml|വിമാനം}}
 * Maltese: {{t|mt|ajruplan}}
-* Navajo: {{t|nv|chidí naatʼaʼí}}
+* Navajo: {{t|nv|chidí naatʼaʼí|sc=Latn}}
 * Norwegian:
 *: Bokmål: {{t+|nb|luftfartøy|n}}
 *: Nynorsk: {{t|nn|luftfartøy|n}}
@@ -86,13 +90,13 @@ From {{compound|air|craft|lang=en}}.
 * Romanian: {{t+|ro|aeronavă|f}}, {{t|ro|[[aparat]] [[de]] [[zbor]]|n}}, {{t|ro|aparat zburător|n}}
 * Russian: {{t+|ru|лета́тельный аппара́т|m}}, {{t|ru|возду́шное су́дно|n}}, {{t+|ru|самолёт|m}}
 * Serbo-Croatian: {{t+|sh|zrakoplov|m}}
-*: Cyrillic: {{t|sh|летјелица|f}} / {{t|sh|летелица|f}}
-*: Roman: {{t+|sh|letelica|f}} / {{t+|sh|letjelica|f}}, {{t+|sh|vazduhoplov}}, {{t+|sh|zrakoplov|m}} {{qualifier|Croatia}}
+*: Cyrillic: {{t|sh|лѐтелица|f}} / {{t|sh|лѐтјелица|f}}
+*: Roman: {{t+|sh|lètelica|f}} / {{t+|sh|lètjelica|f}}, {{t+|sh|vazduhoplov}}, {{t+|sh|zrȁkoplōv|m}} {{qualifier|Croatia}}
 * Slovak: {{t+|sk|lietadlo|n}}
 * Slovene: {{t|sl|letal|n}}
 * Spanish: {{t+|es|aeronave|f}}
 * Tagalog: {{t|tl|salipaw}}, {{t+|tl|eroplano}}
-* Tajik: {{t|tg|ҳавопаймоӣ|tr=havopajmoī|sc=Cyrl}}
+* Tajik: {{t|tg|ҳавопаймоӣ}}
 * Tamil: {{t+|ta|விமானம்}}
 * Telugu: {{t+|te|విమానము}}
 * Thai: {{t|th|อากาศยาน}}
