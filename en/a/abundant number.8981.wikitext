@@ -8,14 +8,34 @@
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|number theory}} A number that is less than the sum of all of its [[divisor]]s except itself.
+# {{lb|en|number theory}} A number that is less than the sum of its [[proper]] [[divisor]]s (all divisors except the number itself).
 #: ''The factors of 30 are 1, 2, 3, 5, 6, 10, 15 and 30, and 1 + 2 + 3 + 5 + 6 + 10 + 15 = 42, which is greater than 30, so 30 is an '''abundant number'''.''
+#* '''1970''', ''Geometric Transformations III'', Random House, [https://books.google.com.au/books?id=FEsUAAAAIAAJ&q=%22abundant+number%22%7C%22abundant+numbers%22&dq=%22abundant+number%22%7C%22abundant+numbers%22&hl=en&sa=X&ved=0ahUKEwiahfDN2cvdAhVnyVQKHWBkBcAQ6AEIbDAO page 128],
+#*: It has been shown that the largest odd number which cannot be written as the sum of two '''abundant numbers''' is 20161.
+#* '''1992''', Stanley Rabinowitz (editor), ''Index to Mathematical Problems, 1980-1984'', MathPro Press, [https://books.google.com.au/books?id=n-F52zK2UAgC&pg=PA185&dq=%22abundant+number%22%7C%22abundant+numbers%22&hl=en&sa=X&ved=0ahUKEwiahfDN2cvdAhVnyVQKHWBkBcAQ6AEINjAD#v=onepage&q=%22abundant%20number%22%7C%22abundant%20numbers%22&f=false page 185],
+#*: (a) Let ''k'' be fixed. Do there exist sequences of ''k'' consecutive '''abundant numbers'''?
+#* '''1996''', Richard R. Hall, ''Sets of Multiples'', {{w|Cambridge University Press}}}, [https://books.google.com.au/books?id=40g9YJIck0QC&pg=PR11&dq=%22abundant+number%22%7C%22abundant+numbers%22&hl=en&sa=X&ved=0ahUKEwiahfDN2cvdAhVnyVQKHWBkBcAQ6AEISzAH#v=onepage&q=%22abundant%20number%22%7C%22abundant%20numbers%22&f=false page xi],
+#*: We shall not be concerned with '''abundant numbers''' in this book, nevertheless it may be helpful to use this historical example as an illustration. We note the property that any multiple of an '''abundant number''' is abundant.
+
+====Usage notes====
+* The requirement may be expressed as <math>s(n)>n</math>, where <math>s(n)</math> denotes the {{m|en|aliquot sum}} (sum of proper divisors) of <math>n</math>.
+** It is also sometimes expressed as <math>\sigma(n)>2n</math>, where <math>\sigma(n)</math> (sometimes <math>\sigma_1(n)</math>) denotes the sum of ''all'' divisors of <math>n</math>.
+* Given an abundant number <math>n</math>, the amount, <math>s(n)-n,</math> by which the aliquot sum exceeds it may be called its {{m|en|abundance}}.
+* For arbitrary <math>n</math>, the ratio <math>\frac{\sigma(n)}{n}</math> may be called its {{m|en|abundancy index}}. Thus, an abundant number is one whose abundancy index is > 2.
 
 ====Synonyms====
-* {{l|en|excessive number}}
+* {{sense|number that is less than the sum of its proper divisors}} {{l|en|excessive number}}
+
+=====Hyponyms=====
+* {{sense|number that is less than the sum of its proper divisors}} {{l|en|weird number}}
+
+====Derived terms====
+* {{l|en|extremely abundant number}}
+* {{l|en|highly abundant number}}
+* {{l|en|superabundant number}}
 
 ====Translations====
-{{trans-top|abundant number}}
+{{trans-top|number that is less than the sum of its proper divisors}}
 * Finnish: {{t+|fi|runsas luku}}
 * French: {{t+|fr|nombre abondant|m}}
 * Italian: {{t+|it|numero abbondante|m}}
@@ -25,7 +45,15 @@
 {{trans-bottom}}
 
 ===See also===
+* {{l|en|abundance}}
+* {{l|en|abundancy index}}
 * {{l|en|amicable number}}
 * {{l|en|deficient number}}
-* {{l|en|sociable number}}
 * {{l|en|perfect number}}
+* {{l|en|semiperfect number}}
+* {{l|en|sociable number}}
+
+===Further reading===
+* {{pedialite|Divisor function}}
+* [https://primes.utm.edu/glossary/page.php?sort=AbundantNumber abundant number] on [https://primes.utm.edu/glossary/home.php The Prime Glossary]
+* [http://mathworld.wolfram.com/AbundantNumber.html Abundant Number] on {{w|MathWorld|Wolfram MathWorld}}
