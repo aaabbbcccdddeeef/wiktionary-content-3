@@ -10,17 +10,17 @@
 ===Adjective===
 {{en-adj|-}}
 
-# {{lb|en|mathematics|of two or more positive integers}} Having [[no]] positive integer [[factor]]s [[in common]], aside from [[1]].
+# {{lb|en|number theory|of two or more positive integers}} Having [[no]] positive integer [[factor]]s [[in common]], aside from [[1]].
 #: ''24 and 35 are '''coprime'''.''
-# {{lb|en|mathematics|of a positive integer}} Having no positive integer factors, aside from 1, in common with one or more specified other positive integers.
+# {{lb|en|number theory|of a positive integer}} Having no positive integer factors, aside from 1, in common with one or more specified other positive integers.
 #: ''24 is '''coprime''' to 35.''
 
 ====Usage notes====
 {{en-usage-equal}}
 
 ====Synonyms====
-* {{sense|having no factors in common}} [[relatively prime]]
-* {{sense|having no factors in common with}} [[relatively prime]]
+* {{sense|having no factors in common}} {{l|en|relatively prime}}
+* {{sense|having no factors in common with}} {{l|en|relatively prime}}
 
 ====Translations====
 {{trans-top|(of two or more positive integers) having no factors in common}}
@@ -51,6 +51,9 @@
 * Polish: {{t|pl|względnie pierwsza|f}}
 * Portuguese: {{t|pt|coprimo}}
 {{trans-bottom}}
+
+===See also===
+* {{l|en|greatest common divisor}}
 
 ===Anagrams===
 * {{anagrams|en|meropic}}
