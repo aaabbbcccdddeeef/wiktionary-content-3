@@ -1,16 +1,31 @@
 {{also|Analphabet}}
 ==English==
+{{was wotd|2019|February|21}}
 
 ===Etymology===
-{{prefix|an|alphabet|lang=en}}
+From {{der|en|LL.|analphabetus||unable to read and write; illiterate}}, from {{der|en|grc|αναλφάβητος||illiterate}}, from {{m|grc|ἀν-}} (a variant of {{m|grc|ᾰ̓-||the [[alpha privativum]], a prefix forming words having an opposite sense to the word or stem to which it is attached}}) + {{m|grc|ἀλφάβητος||alphabet}}; analysable as {{prefix|en|an|alphabet}}. The English word was probably influenced by cognate words in other languages such as {{cog|fr|analphabète|pos=adjective}}, {{cog|de|Analphabetus}}, {{m|de|Analphabet|pos=nouns}}, {{m|de|analphabeten|pos=adjective}}, {{cog|it|analfabeta|pos=adjective, noun}}, {{m|it|analfabeto|pos=adjective, noun}}, {{cog|pt|analfabeto|pos=adjective}}, {{cog|es|analfabeto|pos=adjective, noun}}.<ref name="OED">{{R:OED Online|pos=''adj.'' and ''n.''|noformat=yes|id=7031|date=November 2010|nodot=yes}}; {{R:Oxford Dictionaries Online}}</ref>
+
+The adjective was derived from the noun.<ref name="OED"/>
+
+===Pronunciation===
+* {{a|RP}} {{IPA|/ænˈælfəbɛt/|lang=en}}
+* {{a|GA}} {{IPA|/ˌæˈnælfəbɛt/|lang=en}}
+* {{hyphenation|an|al|pha|bet|lang=en}}
 
 ===Noun===
 {{en-noun}}
 
-# An [[illiterate]] person who does not know the letters of the [[alphabet]]
+# A person who does not know the [[letter#Noun|letters]] of the [[alphabet]]; a [[partly]] or [[wholly]] [[illiterate]] person. {{defdate|from mid 17th c.}}
+#: {{synonyms|en|illiterate|q1=noun}}
+
+====Alternative forms====
+* {{l|en|analphabete}}
+
+====Derived terms====
+{{der2|lang=en|analphabetic|analphabetical|analphabetically|analphabetism}}
 
 ====Translations====
-{{trans-top|illiterate}}
+{{trans-top-also|person who does not know the letters of the alphabet|illiterate}}
 * Catalan: {{t+|ca|analfabet|m}}, {{t+|ca|analfabeta|f}}
 * Danish: {{t+|da|analfabet|c}}
 * Finnish: {{t+|fi|analfabeetti}}
@@ -35,3 +50,20 @@
 * Spanish: {{t+|es|analfabeto|m}}, {{t+|es|analfabeta|f}}
 * Swedish: {{t+|sv|analfabet|c}}
 {{trans-bottom}}
+
+===Adjective===
+{{en-adj}}
+
+# [[ignorant|Ignorant]] of the [[letter#Noun|letters]] of the [[alphabet]]; [[partly]] or [[wholly]] [[illiterate#Adjective|illiterate]].
+#: {{synonyms|en|illiterate|q1=adjective}}
+
+====Translations====
+{{trans-top-also|ignorant of the letters of the alphabet|illiterate}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===References===
+<references />
+
+===Further reading===
+* {{pedia|literacy}}
