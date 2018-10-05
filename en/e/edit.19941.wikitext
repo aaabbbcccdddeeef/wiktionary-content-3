@@ -27,7 +27,7 @@
 ====Translations====
 {{trans-top|a change to the text of a document}}
 * Arabic: {{t|ar|تَحْرِيف|m}}
-* Bulgarian: {{t+|bg|редакция|f}}
+* Bulgarian: {{t+|bg|реда́кция|f}}
 * Catalan: {{t+|ca|edició|f}}, {{t|ca|modificació|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|編輯}}, {{t+|cmn|编辑|tr=biānjí}}
@@ -45,7 +45,7 @@
 * Korean: {{t+|ko|편집}} ({{t+|ko|編輯}})
 * Latin: {{t|la|correctio|corrēctiō}}
 * Malay: {{t|ms|suntingan}}
-* Malayalam: {{t+|ml|സംശോധനം|tr=samśodhanaṁ}}
+* Malayalam: {{t+|ml|സംശോധനം}}
 * Maori: {{t|mi|ētita}}
 * Norwegian: {{t+|no|redigere}}
 * Old English: {{t|ang|adihtan}}
@@ -55,7 +55,7 @@
 * Romanian: {{t+|ro|modificare|f}}, {{t+|ro|corectare|f}}, {{t+|ro|redactare|f}}
 * Russian: {{t+|ru|реда́кция|f}}, {{t+|ru|редакти́рование|n}}, {{t+|ru|пра́вка|f}}
 * Swedish: {{t+|sv|ändra}}, {{t+|sv|redigera}}
-* Thai: {{t+|th|การแก้ไข|tr=kār kæ̂k̄hị}}
+* Thai: {{t+|th|การแก้ไข|tr=gaan-gɛ̂ɛ-kǎi}}
 * Vietnamese: {{t+|vi|biên tập|alt=sự biên tập}}
 {{trans-bottom}}
 
@@ -98,12 +98,12 @@
 * Armenian: {{t+|hy|խմբագրել}}
 * Basque: {{t|eu|argitaratu}}
 * Belarusian: {{t|be|рэдагава́ць|impf}}
-* Bulgarian: {{t+|bg|редактирам}}
+* Bulgarian: {{t+|bg|редакти́рам|impf}}
 * Burmese: {{t+|my|တည်}}
 * Catalan: {{t+|ca|editar}}
 * Chinese:
 *: Mandarin: {{t+|cmn|編輯}}, {{t+|cmn|编辑|tr=biānjí}}
-* Czech: {{t|cs|editovat}}
+* Czech: {{t|cs|editovat|impf}}
 * Danish: {{t+|da|redigere}}
 * Dutch: {{t+|nl|bewerken}}, {{t+|nl|wijzigen}}
 * Esperanto: {{t|eo|ŝanĝi}}, {{t|eo|modifi}}, {{t+|eo|adapti}}, {{t|eo|redakti}}
@@ -113,16 +113,16 @@
 * Georgian: {{t|ka|რედაქციის გაკეტება}}, {{t|ka|რედაქტირება}}
 * German: {{t+|de|bearbeiten}}, {{t+|de|redigieren}}, {{t+|de|editieren}}
 * Hebrew: {{t+|he|ערך|tr=arákh}}
-* Hindi: {{t|hi|संपादन करना|tr=sampādan karnā}}
+* Hindi: {{t|hi|संपादन करना}}
 * Hungarian: {{t+|hu|szerkeszt}}
 * Ido: {{t+|io|redaktar}}
 * Interlingua: {{t|ia|editar}}
 * Irish: {{t|ga|cuir in eagar}}
 * Italian: {{t+|it|redigere}}, {{t+|it|elaborare}}
 {{trans-mid}}
-* Japanese: {{t|ja|編集する|tr=へんしゅうする, henshū-suru}}
+* Japanese: {{t|ja|編集する|tr=へんしゅうする, henshū suru}}
 * Khmer: {{t|km|កែសំរួល|tr=kae sɑmruəl|sc=Khmr}}, {{t|km|កែប្រែ|tr=kae prae|sc=Khmr}}
-* Korean: {{t+|ko|편집|alt=편집하다}}
+* Korean: {{t+|ko|편집하다}}
 * Latin: {{t|la|corrigō}}
 * Malay: {{t|ms|menyunting}}, {{t|ms|mengedit}}
 * Mongolian: {{t+|mn|редакторлах}}
@@ -130,17 +130,18 @@
 * Norwegian: {{t+|no|redigere}}
 * Old English: {{t-needed|ang}}
 * Persian: {{t|fa|ویرایش کردن|tr=virâyeš kardan}}
-* Polish: {{t+|pl|edytować}}, {{t+|pl|redagować}}
+* Polish: {{t+|pl|edytować|impf}}, {{t+|pl|redagować|impf}}
 * Portuguese: {{t+|pt|editar}}
 * Romanian: {{t+|ro|edita}}, {{t+|ro|modifica}}, {{t+|ro|schimba}}
 * Russian: {{t+|ru|редакти́ровать|impf}}, {{t+|ru|изменя́ть|impf}}, {{t+|ru|пра́вить|impf}}
-* Serbo-Croatian: {{t+|sh|urediti}}
-* Slovak: {{t|sk|zmeniť}}, {{t|sk|editovať}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|urediti|pf}}
+* Slovak: {{t|sk|zmeniť|pf}}, {{t|sk|editovať|impf}}
 * Spanish: {{t+|es|editar}}
 * Swedish: {{t+|sv|redigera}}, {{t+|sv|bearbeta}}, {{t+|sv|ändra}}
 * Thai: {{t+|th|แก้ไข}}
 * Turkish: <!-- ''lit.'' to change --> {{t+|tr|değiştirmek}}
-* Ukrainian: {{t|uk|редагувати}}, {{t|uk|змінювати}}
+* Ukrainian: {{t|uk|редагува́ти|impf}}, {{t|uk|змі́нювати|impf}}
 * Vietnamese: {{t+|vi|biên tập}} ({{t|vi|編輯}})
 * Welsh: {{t+|cy|golygu}}
 {{trans-bottom}}
