@@ -1,19 +1,49 @@
 {{also|Riemann zeta-function}}
 ==English==
+{{wikipedia}}
 
 ===Alternative forms===
 * {{l|en|Riemann zeta-function}}
+* {{l|en|Riemann's zeta function}}
 
-===Proper noun===
-{{en-proper noun}}
+===Etymology===
+{{named-after|nationality=German|occupation=mathematician|Bernhard Riemann|wplink=Bernhard Riemann|lang=en}}.
 
-# {{lb|en|mathematics|analysis}} A [[holomorphic]] [[function]] whose [[domain]] is the [[set]] of [[complex number]]s (except [[one|1]]), and for a real number ''x'' greater than 1 equals the sum of the series <math>\sum_{n=0}^\infty \frac 1 {n^x} = \frac1{1^x} + \frac1{2^x} + \frac1{3^x} + \frac1{4^x} + \cdots.</math>
+===Noun===
+{{en-noun|-|s}}
+
+# {{lb|en|number theory|analytic number theory|uncountable}} The function ''ζ'' defined by the [[Dirichlet series]] <math>\textstyle \zeta(s)=\sum_{n=1}^\infty \frac 1 {n^s} = \frac1{1^s} + \frac1{2^s} + \frac1{3^s} + \frac1{4^s} + \cdots</math>, which is summable for points ''s'' in the complex [[half-plane]] with real part > 1; the [[analytic continuation]] of said function, being a [[holomorphic]] function defined on the [[complex numbers]] with [[pole]] at [[one|1]].
+#* '''2004''', Paula B. Cohen, ''Interactions between number theory and operator algebras in the study of the '''Riemann zeta function''' (d'apres Bost-Connes and Connes)'', David Chudnovsky, Gregory Chudnovsky, Melvyn Bernard Nathanson (editors), ''Number Theory: New York Seminar 2003'', Springer, [https://books.google.com.au/books?id=paD8Uv5KkpIC&pg=PA87&dq=%22Riemann+zeta+function%22%7C%22Riemann+zeta+functions%22&hl=en&sa=X&ved=0ahUKEwjBk63K-fPdAhUUO30KHRoKBjoQ6AEIjwIwLQ#v=onepage&q=%22Riemann%20zeta%20function%22%7C%22Riemann%20zeta%20functions%22&f=false page 87],
+#*: It is straightforward to show that the '''Riemann zeta function''' has zeros at the negative even integers and these are called the trivial zeros of the '''Riemann zeta function'''.
+#* '''2008''', Sanford L. Segal, ''Nine Introductions in Complex Analysis'', Elsevier (North-Holland), Revised Edition, [https://books.google.com.au/books?id=NGR2rUAfyiQC&pg=PA397&dq=%22Riemann+zeta+function%22%7C%22Riemann+zeta+functions%22&hl=en&sa=X&ved=0ahUKEwjBk63K-fPdAhUUO30KHRoKBjoQ6AEIrAIwMQ#v=onepage&q=%22Riemann%20zeta%20function%22%7C%22Riemann%20zeta%20functions%22&f=false page 397],
+#*: The '''Riemann zeta-function''' (which has no relation to the Weierstrass function of Chapter 8, and must not be confused with it) was originally of interest because of its connection with number theory. Since then it has served as the model for a proliferation of "zeta-functions" throughout mathematics. Some mention of the '''Riemann zeta-function''', and treatment of the prime number theorem as an asymptotic result have become a topic treated by writers of introductory texts in complex variables.
+#* '''2009''', Arthur T. Benjamin, Ezra Brown (editors), ''Biscuits of Number Theory'', {{w|Mathematical Association of America}}, [https://books.google.com.au/books?id=_g5TvMCJQB4C&pg=PA195&dq=%22Riemann+zeta+function%22%7C%22Riemann+zeta+functions%22&hl=en&sa=X&ved=0ahUKEwjBk63K-fPdAhUUO30KHRoKBjoQ6AEIhAMwQA#v=onepage&q=%22Riemann%20zeta%20function%22%7C%22Riemann%20zeta%20functions%22&f=false page 195],
+#*: The '''Riemann zeta function''' is the function <math>\textstyle \zeta(s)=\sum_{n=1}^\infty n^{-s}</math> for <math>s</math> a complex number whose real part is greater than 1.{{...}}The historical moments include Euler's proof that there are infinitely many primes, in which he proves
+#*:::: <math>\zeta(s)=\prod_{p\text{ prime}} \left (1-\frac 1 {p^s}\right )^{-1}</math>
+#*: as well as Riemann's statement of his hypothesis and several others. Beineke and Hughes then define the moment of the modulus of the '''Riemann zeta function''' by
+#*::: <math>I_k(T)=\frac 1 T \int_0^\infty \left\vert\zeta\left ( \frac 1 2 + it\right )\right\vert^{2k}dt</math>
+#*: and take us through the work of several mathematicians on properties of the second and fourth moments.
+# {{lb|en|countable}} A usage of (a specified value of) the Riemann zeta function, such as in an equation.
+#* '''2005''', Jay Jorgenson, Serge Lang, ''Pos<sub>n</sub>(R) and Eisenstein Series'', Springer, {{w|Lecture Notes in Mathematics}} 1868, [https://books.google.com.au/books?id=Pa2jK1rGpz8C&pg=PA134&dq=%22Riemann+zeta+functions%22&hl=en&sa=X&ved=0ahUKEwjoyPmkz_bdAhWOFTQIHd50DhkQ6AEImgEwEw#v=onepage&q=%22Riemann%20zeta%20functions%22&f=false page 134],
+#*: When the eigenfunctions are characters, these eigenvalues are respectively polynomials, products of ordinary gamma functions, and products of '''Riemann zeta functions''', with the appropriate complex variables.
+#* '''2007''', M. W. Wong, ''Weyl Transforms, Heat Kernels, Green Function and '''Riemann Zeta Functions''' on Compact Lie Groups'', Joachim Toft, M. W. Wong, Hongmei Zhu (editors), ''Modern Trends in Pseudo-Differential Operators'', Springer, [https://books.google.com.au/books?id=SiQ-URACnCYC&pg=PA68&dq=%22Riemann+zeta+function%22%7C%22Riemann+zeta+functions%22&hl=en&sa=X&ved=0ahUKEwjBk63K-fPdAhUUO30KHRoKBjoQ6AEI8AIwPA#v=onepage&q=%22Riemann%20zeta%20function%22%7C%22Riemann%20zeta%20functions%22&f=false page 68],
+#*: The ubiquity of the heat kernels is demonstrated in Sections 9 and 10 by constructing, respectively, the Green functions and the '''Riemann zeta functions''' for the Laplacians on compact Lie groups. The '''Riemann zeta function''' of the Laplacian on a compact Lie group is the Mellin transform of the regularized trace of the heat kernel, and we express the '''Riemann zeta function''' in terms of the eigenvalues of the Laplacian. Issues on the regions of convergence of the series defining the '''Riemann zeta functions''' are beyond the scope of this paper and hence omitted.
+#* '''2013''', George E. Andrews, Bruce C. Berndt, ''Ramanujan's Lost Notebook: Part IV'', Springer, [https://books.google.com.au/books?id=6Z5GAAAAQBAJ&pg=PA367&dq=%22Riemann+zeta+functions%22&hl=en&sa=X&ved=0ahUKEwjoyPmkz_bdAhWOFTQIHd50DhkQ6AEIhgEwEA#v=onepage&q=%22Riemann%20zeta%20functions%22&f=false page 367],
+#*: Page 203 is an isolated page on which Ramanujan evaluates six quotients of either '''Riemann zeta functions''' or ''L''-functions.
+
+====Usage notes====
+* The Riemann zeta function and generalisations comprise an important subject of research in {{w|analytic number theory}}.
+* There are numerous analogues to the Riemann zeta function: such a one may be referred to as a {{m|en|zeta function}}, and some are given names of the form ''X zeta function''. Many, but not all functions so named are generalisations of the Riemann zeta function. (See {{pedialite|List of zeta functions}})
+* The Riemann zeta function is used in physics (such as in the theory of heat kernels and wave propagation), apparently for reasons more to do with the function's behaviour than any approximation of reality.
+
+====Synonyms====
+* {{sense|analytic continuation of a function defined as the sum of a Dirichlet series}} {{l|en|Euler–Riemann zeta function}}
 
 ====Hypernyms====
-* {{l|en|function}}
+* {{sense|analytic continuation of a function defined as the sum of a Dirichlet series}} {{l|en|analytic function}}, {{l|en|zeta function}}
 
 ====Translations====
-{{trans-top|function}}
+{{trans-top|analytic continuation of a function defined as the sum of a Dirichlet series}}
 * Dutch: {{t|nl|Riemann-zeta-functie}}
 * German: {{t|de|riemannsche ζ-Funktion|f}}
 * Italian: {{t|it|funzione zeta di Riemann|f}}
@@ -21,11 +51,23 @@
 * Spanish: {{t|es|función zeta de Riemann|f}}
 * Turkish: {{t|tr|Riemann zeta fonksiyonu}}
 {{trans-bottom}}
-===See Also===
-* {{l|en|Riemann hypothesis}}
+
+===See also===
 * {{l|en|Dirichlet eta function}}
+* {{l|en|Dirichlet series}}
+* {{l|en|L-function|''L''-function}}
+* {{l|en|L-series|''L''-series}}
+* {{l|en|Riemann hypothesis}}
+* {{l|en|zeta function}}
 
-===References===
-* {{pedia}}
-
-[[Category:English eponyms]]
+===Further reading===
+* {{pedialite|Particular values of Riemann zeta function}}
+* {{pedialite|Dirichlet series}}
+* {{pedialite|Riemann hypothesis}}
+* {{pedialite|Lehmer pair}}
+* {{pedialite|List of zeta functions}}
+* {{pedialite|Riemann Xi function}}
+* [https://www.encyclopediaofmath.org/index.php/Zeta-function Zeta-function] on {{w|Encyclopedia of Mathematics}}
+* [http://mathworld.wolfram.com/RiemannZetaFunction.html Riemann Zeta Function] on {{w|MathWorld|Wolfram MathWorld}}
+** [http://mathworld.wolfram.com/RiemannZetaFunctionZeta2.html Riemann Zeta Function zeta(2)] on {{w|MathWorld|Wolfram MathWorld}}
+* [http://mathworld.wolfram.com/Xi-Function.html Xi-Function] on {{w|MathWorld|Wolfram MathWorld}}
