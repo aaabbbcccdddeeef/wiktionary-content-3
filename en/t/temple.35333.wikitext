@@ -9,7 +9,7 @@
 
 ===Etymology 1===
 [[File:Ryusenji-Temple01.JPG|thumb|right|Ryusenji temple in Osaka, Japan.]]
-From {{etyl|enm|en}} {{m|enm|temple}}, from {{etyl|ang|en}} {{m|en|templ}}, from {{etyl|la|en}} {{m|la|templum||shrine, temple, area for auspices}}.
+From {{inh|en|enm|temple}}, from {{inh|en|ang|templ}}, borrowed from {{der|en|la|templum||shrine, temple, area for auspices}}.
 
 ====Noun====
 {{en-noun}}
@@ -213,7 +213,7 @@ From {{etyl|enm|en}} {{m|enm|temple}}, from {{etyl|ang|en}} {{m|en|templ}}, from
 {{Wiktionary:Picture dictionary/en:head}}
 {{wikipedia|Temple (anatomy)}}
 [[File:Temple (anatomy) (PSF).svg|thumb|Temple in anatomy]]
-From {{inh|en|enm|temple}}, from {{der|en|fro|temple}}, from {{der|en|la|tempora|t=the temples}}, plural of {{m|la|tempus|t=temple, head, face}}. See {{m|en|temporal bone}}.
+From {{inh|en|enm|temple}}, borrowed from {{bor|en|fro|temple}}, from {{der|en|VL.||*temp(u)la}}, from {{der|en|la|tempora|t=the temples}}, plural of {{m|la|tempus|t=temple, head, face}}. See {{m|en|temporal bone}}.
 
 ====Noun====
 {{en-noun}}
@@ -336,6 +336,9 @@ From {{etyl|la|en}} {{m|la|templum||a small timber, a purlin}}; compare {{m|en|t
 
 ==Catalan==
 
+===Etymology===
+From {{der|ca|la|templum}}.
+
 ===Noun===
 {{ca-noun|m}}
 
@@ -348,7 +351,7 @@ From {{etyl|la|en}} {{m|la|templum||a small timber, a purlin}}; compare {{m|en|t
 ==French==
 
 ===Etymology===
-Borrowed from {{bor|fr|la|templum}}, from {{etyl|ine-pro|fr}} {{m|ine-pro|*t(e)mp-lo-s}}, from the root {{m|ine-pro|*temp-||to stretch, string}}.
+Borrowed from {{bor|fr|la|templum}}, from {{der|fr|ine-pro|*t(e)mp-lo-s}}, from the root {{m|ine-pro|*temp-||to stretch, string}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -370,7 +373,7 @@ Borrowed from {{bor|fr|la|templum}}, from {{etyl|ine-pro|fr}} {{m|ine-pro|*t(e)m
 ==Old French==
 
 ===Etymology 1===
-From {{etyl|la|fro}} {{m|la|tempora}}, plural of {{m|la|tempus}}.
+From {{inh|fr|fro|VL.||*temp(u)la}}, from {{inh|fr|la|tempora}}, plural of {{m|la|tempus}}.
 
 ====Noun====
 {{fro-noun|m}}
@@ -392,6 +395,9 @@ Borrowed from {{bor|fro|la|templum}}.
 ----
 
 ==Spanish==
+
+===Etymology===
+Regressively derived from the verb {{m|es|templar}}.
 
 ===Noun===
 {{es-noun|m}}
