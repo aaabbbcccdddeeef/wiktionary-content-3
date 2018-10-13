@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|la|en}} {{m|la|sexuālis}}, from {{m|la|sexus||sex}}; see {{m|en|sex}}.
+From {{der|en|la|sexuālis}}, from {{m|la|sexus|t=sex}}; see {{m|en|sex}}.
 
 ===Pronunciation===
 * {{a|GenAm}} {{IPA|/ˈsɛkʃuəl/|lang=en}}
@@ -29,16 +29,14 @@ From {{etyl|la|en}} {{m|la|sexuālis}}, from {{m|la|sexus||sex}}; see {{m|en|sex
 #: {{ux|en|'''sexual''' preferences}}
 
 ====Derived terms====
-{{rel-top3|Terms derived from ''sexual''}}
-* {{l|en|nonsexual}}
-* {{l|en|sexuality}}
-{{rel-mid3}}
-* {{l|en|sexualism}}
-* {{l|en|sexually}}
-{{rel-mid3}}
-* {{l|en|sexual politics}}
-* {{l|en|subsexual}}
-{{rel-bottom}}
+{{der3
+|nonsexual
+|sexuality
+|sexualism
+|sexually
+|sexual politics
+|subsexual
+|lang=en}}
 
 ====Related terms====
 * {{l|en|sex}}
@@ -184,11 +182,9 @@ From {{etyl|la|en}} {{m|la|sexuālis}}, from {{m|la|sexus||sex}}; see {{m|en|sex
 {{en-noun}}
 
 # {{lb|en|biology}} A species which reproduces by sexual rather than asexual reproduction, or a member of such a species.
+#: {{ant|en|asexual}}
 # {{lb|en|LGBT}} A person who experiences [[sexual#Adjective|sexual]] [[attraction]], a person who has interest in or desire for [[sex]] {{qualifier|especially as contrasted with an [[asexual]]}}.
-
-====Antonyms====
-* {{sense|biology}} {{l|en|asexual}}
-* {{sense|person}} {{l|en|asexual}}
+#: {{ant|en|asexual}}
 
 ====Further reading====
 * {{R:Webster 1913}}
@@ -201,7 +197,7 @@ From {{etyl|la|en}} {{m|la|sexuālis}}, from {{m|la|sexus||sex}}; see {{m|en|sex
 ==Asturian==
 
 ===Etymology===
-From {{etyl|la|ast}} {{m|la|sexualis}}.
+From {{der|ast|la|sexualis}}.
 
 ===Adjective===
 {{ast-adj-mf|pl=sexuales}}
@@ -213,7 +209,7 @@ From {{etyl|la|ast}} {{m|la|sexualis}}.
 ==Catalan==
 
 ===Etymology===
-From {{etyl|la|ca}} {{m|la|sexualis}}.
+From {{der|ca|la|sexuālis}}.
 
 ===Adjective===
 {{ca-adj|mf}}
@@ -222,11 +218,10 @@ From {{etyl|la|ca}} {{m|la|sexualis}}.
 
 ----
 
-
 ==German==
 
 ===Etymology===
-From {{bor|de|la|sexualis}}.
+From {{bor|de|la|sexuālis}}.
 
 ===Adjective===
 {{de-adj|er|sten}}
@@ -247,7 +242,7 @@ From {{bor|de|la|sexualis}}.
 ==Portuguese==
 
 ===Etymology===
-From {{etyl|la|pt}} {{m|la|sexualis}}.
+From {{der|pt|la|sexuālis}}.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|/sɛˈkswaɫ/|lang=pt}}
@@ -255,7 +250,7 @@ From {{etyl|la|pt}} {{m|la|sexualis}}.
 ===Adjective===
 {{pt-adj|sexua|l}}
 
-# [[#English|sexual]]
+# {{l|en|sexual}}
 
 ====Inflection====
 {{pt-adj-infl|sexua|l}}
@@ -265,7 +260,7 @@ From {{etyl|la|pt}} {{m|la|sexualis}}.
 ==Romanian==
 
 ===Etymology===
-From {{etyl|la|ro}} {{m|la|sexualis}}.
+From {{der|ro|la|sexuālis}}.
 
 ===Pronunciation===
 * {{IPA|[seksuˈal]|lang=ro}}
@@ -273,7 +268,7 @@ From {{etyl|la|ro}} {{m|la|sexualis}}.
 ===Adjective===
 {{ro-adj|4}}
 
-# [[#English|sexual]]
+# {{l|en|sexual}}
 
 ====Declension====
 {{ro-adj-4}}
@@ -283,7 +278,7 @@ From {{etyl|la|ro}} {{m|la|sexualis}}.
 ==Spanish==
 
 ===Etymology===
-From {{etyl|la|es}} {{m|la|sexualis}}.
+From {{der|es|la|sexuālis}}.
 
 ===Pronunciation===
 * {{IPA|/seˈksual/|lang=es}}
@@ -292,4 +287,4 @@ From {{etyl|la|es}} {{m|la|sexualis}}.
 ===Adjective===
 {{es-adj|pl=sexuales}}
 
-# [[#English|sexual]]
+# {{l|en|sexual}}
