@@ -37,6 +37,7 @@ From {{inh|en|enm|list|lī̆st}}, {{m|enm|liste|lī̆ste|band, stripe; hem, selv
 # {{lb|en|computing|programming}} A [[codified#Adjective|codified]] [[representation]] of a list used to [[store#Verb|store]] [[data]] or in [[processing#Noun|processing]]; especially, in the [[LISP]] [[programming language]], a [[data structure]] consisting of a [[sequence#Noun|sequence]] of [[zero]] or more items.
 #* {{quote-journal|author=Ed Acly|title=A Tale of Three Languages: C, Ada & Lisp|magazine=[[w:Computerworld|Computerworld: The Newsweekly for the Computer Community]]|location=Framingham, Mass.|publisher=CW Communications|date=10 March 1985|volume=XIX|issue=12|page=ID/10|pageurl=https://books.google.com/books?id=EFea26Iy2kQC&pg=PA62|columns=1–2|issn=0010-4841|oclc=234191689|passage=Lisp is an applicative language. This means that it is structured around applying functions (operations) to a linked '''list''' of arguments that accompany those functions. {{...}} A function call or function definition is only coded in the syntax of a '''list''', which can be of an indefinite length. Thus, the '''list''' is the only data structure for a Lisp program.}}
 # {{lb|en|architecture}} A little [[square#Adjective|square]] [[moulding#Noun|moulding]]; a [[fillet]] or [[listel]].
+#* {{quote-book|author=[John Carter]|chapter=STRIÆ|title=The Builder’s Magazine: Or, A Universal Dictionary for Architects, Carpenters, Masons, Bricklayers, &c.{{nb...|as well as for Every Gentleman who would Wish to be a Competent Judge of the Elegat and Necessary Art of Building. [...]}}|edition=new|location=London|publisher=Printed for E. Newbery,{{nb...|the corner of St. Paul's Church Yard, in Ludgate Street; and sold by all other booksellers in Great Britain and Ireland.}}|year=1788|page=284|pageurl=https://books.google.com/books?id=TOAX7lqmLbQC&pg=PA284|oclc=12051583|passage=STRIÆ, in ancient architecture, the '''liſts''', fillets or rays which ſeparate the ſtriges or flutings of columns.}}
 #* {{quote-book|author=Edward Shaw|author2=Thomas W[illiam] Silloway|authorlink2=Thomas Silloway|author3=George M[ilford] Harding|authorlink3=George M. Harding|chapter=Introduction|title=Civil Architecture; being a Complete Theoretical and Practical System of Building, Containing the Fundamental Principles of the Art.{{nb...|[...] To which is Added a Treatise on Gothic Architecture, etc., by Thomas W. Silloway and George M. Harding, Architects.}}|edition=11th|location=Philadelphia, Pa.|publisher=Henry Carey Baird & Co.,{{nb...|industrial publishers, booksellers, and importers, 810 Walnut Street.}}|year=1876|page=22|pageurl=https://books.google.com/books?id=hpNZAAAAYAAJ&pg=PA22|column=2|oclc=191228916|passage=A ''volute'' is a kind of spiral scroll, used in the Ionic and Composite capitals, of which it makes the principal characteristic and ornament. {{...}} There are several diversities practised in the volute. In some, the '''list''' or edge, throughout all the circumvolutions, is in the same line or plane. {{...}} [I]n others, the canal or one circumvolution is detached from the '''list''' of another by a vacuity or aperture.}}
 # {{lb|en|carpentry}} A [[narrow#Adjective|narrow]] strip of [[wood]], especially [[sapwood]], cut from the edge of a [[board#Noun|board]] or [[plank#Noun|plank]].
 # {{lb|en|ropemaking}} A piece of [[woollen#Adjective|woollen]] cloth with which the [[yarn]]s are [[grasp#Verb|grasped]] by a [[worker]].
@@ -77,7 +78,7 @@ From {{inh|en|enm|list|lī̆st}}, {{m|enm|liste|lī̆ste|band, stripe; hem, selv
 * Bashkir: {{t|ba|исемлек|sc=Cyrl}}, {{t|ba|теҙем|sc=Cyrl}}
 * Basque: {{t-needed|eu}}
 * Belarusian: {{t|be|спіс|m|sc=Cyrl}}
-* Bengali: {{t+|bn|তালিকা|tr=talika|sc=Beng}}
+* Bengali: {{t+|bn|তালিকা}}
 * Bulgarian: {{t+|bg|спи́сък|m}}
 * Burmese: {{t+|my|စာရင်း}}
 * Catalan: {{t+|ca|llista|f}}
@@ -98,7 +99,7 @@ From {{inh|en|enm|list|lī̆st}}, {{m|enm|liste|lī̆ste|band, stripe; hem, selv
 *: Ancient: {{t|grc|κατάλογος|m}}, {{t|grc|ἀπογραφή|f}}
 * Haitian Creole: {{t|ht|lis}}
 * Hebrew: {{t|he|רְשִׁימָה|f|tr=r'shimá|sc=Hebr}}
-* Hindi: {{t+|hi|लिस्ट|f|tr=lisṭ|sc=Deva}}
+* Hindi: {{t+|hi|लिस्ट|f}}
 * Hungarian: {{t+|hu|lista}}
 * Icelandic: {{t+|is|listi|m}}, {{t+|is|skrá|f}}
 * Ido: {{t+|io|listo}}
@@ -152,7 +153,7 @@ From {{inh|en|enm|list|lī̆st}}, {{m|enm|liste|lī̆ste|band, stripe; hem, selv
 * Vietnamese: {{t+|vi|danh sách}}
 * Walloon: {{t+|wa|lisse|f}}, {{t+|wa|djivêye|f}}
 * Welsh: {{t+|cy|rhestr|f}}
-* Yiddish: {{t+|yi|רשימה|f}}
+* Yiddish: {{t+|yi|רשימה|f|tr=r'shimá}}
 {{trans-bottom}}
 
 {{trans-top|barriers for tournaments}}
