@@ -1,6 +1,6 @@
 {{also|Graph|-graph}}
 ==English==
-{{wikipedia}}
+{{wikipedia|dab=Graph}}
 [[File:Demography graphic of Pichilemu.png|thumb|A '''graph''' of demographic data]]
 
 ===Etymology===
@@ -16,41 +16,65 @@ Shortening of {{m|en|[[graphic]] [[formula]]}}. From 1878; verb from 1889.<ref>{
 ===Noun===
 {{en-noun}}
 
-# {{n-g|in the common language}}
-## A [[diagram]] displaying data; in particular one showing the relationship between two or more [[quantity|quantities]], [[measurement]]s or [[indicative]] numbers that may or may not have a specific mathematical formula relating them to each other.
-##* {{quote-magazine|date=2012-03
+# {{lb|en|applied mathematics|statistics}} A [[data]] [[chart]] (graphical representation of data) intended to illustrate the [[relationship]] between a set (or sets) of numbers ([[quantity|quantities]], [[measurement]]s or [[indicative]] numbers) and a reference set, whose elements are indexed to those of the former set(s) and may or may not be numbers.
+#: {{hypo|en|bar graph|line graph|pie graph}}
+#* {{quote-magazine|date=2012-03
 |author=[[w:Brian Hayes (scientist)|Brian Hayes]]
 |title=Pixels or Perish
 |volume=100|issue=2|page=106
 |magazine=[[w:American Scientist|American Scientist]]
 |url=http://www.americanscientist.org/issues/pub/pixels-or-perish
 |passage=Drawings and pictures are more than mere ornaments in scientific discourse. Blackboard sketches, geological maps, diagrams of molecular structure, astronomical photographs, MRI images, the many varieties of statistical charts and '''graphs''': These pictorial devices are indispensable tools for presenting evidence, for explaining a theory, for telling a story.}}
-# {{n-g|in mathematics}}
-## {{lb|en|mathematics}} A [[diagram]] displaying data, in particular one showing the relationship between two or more [[variable]]s; specifically, for a function <math>f(x_1, x_2, \ldots, x_n)</math>, the [[set]] of all [[tuple]]s <math>(x_1, x_2, \ldots, x_n, f(x_1, x_2, \ldots, x_n))</math>.
-## {{lb|en|graph theory}} An [[ordered pair]] <math>(V,E)</math>, where <math>V</math> is a set of elements called ''[[vertex|vertices]]'' (or ''[[node]]s'') and <math>E</math> is a set of pairs of [[element]]s of <math>V</math>, called ''[[edge]]s''; informally, a set of vertices together with a set edges that join these vertices.
-##: {{hypo|en|tree|undirected graph}}
-## {{lb|en|category theory}} ''Said to be of a morphism f'': a [[morphism]] <math>\Gamma_f</math> from the [[domain]] of ''f'' to the [[categorical product|product]] of the domain and [[codomain]] of ''f'', such that the first projection applied to <math>\Gamma_f</math> equals the [[identity morphism|identity]] of the domain, and the second projection applied to <math>\Gamma_f</math> is equal to ''f''.
-# {{n-g|in linguistics}}
-## {{lb|en|linguistics|typography}} A [[graphical]] unit on the {{l|en|token-level}}, the [[abstracted]] fundamental shape of a [[character]] or [[letter]] as distinct from its [[ductus]] (realization in a particular typeface or handwriting on the {{l|en|instance-level}}) and as distinct by a {{l|en|grapheme}} on the {{l|en|type-level}} by not fundamentally distinguishing {{l|en|meaning}}.
-##* {{quote-book|author=J. Richard Andrews|year=2003|title=Introduction to Classical Nahuatl, Revised Edition|page=10|publisher=University of Oklahoma Press|passage=A '''''graph''''' <!--- bold and italic in the source ---> is a token-level nondistinctive representation of a grapheme. It can differ from the other variants of its grapheme with regard to upper case, lower case, script, print, typeface style, typeface size, etc.}}
-##: {{syn|en|glyph}}
+# {{lb|en|mathematics}} A set of points constituting a graphical representation of a [[real function]]; {{lb|en|formally}} a set of [[tuple]]s <math>(x_1, x_2, \ldots, x_m, y)\in\R^{m+1}</math>, where <math>y=f(x_1, x_2, \ldots, x_m)</math> for a given function <math>f: \R^m\rightarrow\R</math>.
+#* '''1969''' [MIT Press], Thomas Walsh, Randell Magee (translators), I. M. Gelfand, E. G. Glagoleva, E. E. Shnol, ''Functions and '''Graphs''''', 2002, Dover, [https://books.google.com.au/books?id=5GTDAgAAQBAJ&printsec=frontcover&dq=%22graph%22%7C%22graphs%22&hl=en&sa=X&ved=0ahUKEwjoo9Tsi5feAhWwHDQIHe6XANYQ6AEI5gEwHQ#v=onepage&q=%22graph%22%7C%22graphs%22&f=false page 19],
+#*: Let us take any point of the first '''graph''', for example, <math>\textstyle x=\frac 1 2, y=\frac 4 5</math>, that is, the point <math>\textstyle M_1(\frac 1 2,\frac 4 5)</math>.
+# {{lb|en|graph theory}} {{lb|en|formally}} An [[ordered pair]] of sets <math>(V,E)</math>, where the [[element]]s of <math>V</math> are called ''[[vertex|vertices]]'' or ''[[node]]s'' and <math>E</math> is a set of pairs (called ''[[edge]]s'') of elements of <math>V</math>; {{lb|en|less formally}} a set of ''vertices'' (or ''nodes'') together with a set of ''edges'' that connect (some of) the vertices.
+#: {{hypo|en|directed graph|undirected graph|tree}}
+#* '''1973''', Edward Minieka (translator), {{w|Claude Berge}}, '''''Graphs''' and Hypergraphs'', Elsevier (North-Holland), [1970, Claude Berge, ''Graphes et Hypergraphes''], [https://books.google.com.au/books?id=Wy2mhanRnk4C&pg=PR7&dq=%22graph%22%7C%22graphs%22+%22category+theory%22&hl=en&sa=X&ved=0ahUKEwj1opeLjJfeAhUiFzQIHVfGDP8Q6AEIZzAL#v=onepage&q=%22graph%22%7C%22graphs%22%20%22category%20theory%22&f=false page vii],
+#*: Problems involving '''graphs''' first appeared in the mathematical folklore as puzzles (e.g. Königsberg bridge problem). Later, '''graphs''' appeared in electrical engineering (Kirchhof's Law), chemistry, psychology and economics before becoming a unified field of study.
+#* '''1997''', Fan R. K. Chung, ''Spectral Graph Theory'', {{w|American Mathematical Society}}, [https://books.google.com.au/books?id=YUc38_MCuhAC&printsec=frontcover&dq=%22graph%22%7C%22graphs%22&hl=en&sa=X&ved=0ahUKEwjoo9Tsi5feAhWwHDQIHe6XANYQ6AEIzgIwLQ#v=onepage&q=%22graph%22%7C%22graphs%22&f=false page 1],
+#*: Spectral '''graph''' theory has a long history. In the early days, matrix theory and linear algebra were used to analyze adjacency matrices of '''graphs'''. Algebraic methods are especially effective in treating '''graphs''' which are regular and symmetric.
+# {{lb|en|topology}} A [[topological space]] which represents some graph (ordered pair of sets) and which is constructed by representing the ''vertices'' as ''[[point]]s'' and the ''edges'' as copies of the [[real numbers|real]] [[interval]] [0,1] (where, for any given edge, 0 and 1 are identified with the points representing the two vertices) and equipping the result with a particular [[topology]] called the ''[[graph topology]]''.
+#: {{syn|en|topological graph}}
+#* '''2008''', Unnamed translators (AMS), A. V. Alexeevski, S. M. Natanzon, ''Hurwitz Numbers for Regular Coverings of Surfaces by Seamed Surfaces and Cardy-Frobenius Algebras of Finite Groups'', V. M. Buchstaber, I. M. Krichever (editors), ''Geometry, Topology, and Mathematical Physics: S.P. Novikov's Seminar, 2006-2007'', {{w|American Mathematical Society}}, [https://books.google.com.au/books?id=zjrHDWkVKvoC&pg=PA6&dq=%22graph%22%7C%22graphs%22+topology&hl=en&sa=X&ved=0ahUKEwjQta7r3pneAhWoGDQIHX8rDvsQ6AEIdjAN#v=onepage&q=%22graph%22%7C%22graphs%22%20topology&f=false page 6],
+#*: First, let us define its 1-dimensional analog, that is, a topological graph. A '''''graph''''' <math>\Delta</math> is a 1-dimensional stratified topological space with finitely many 0-strata (vertices) and finitely many 1-strata (edges).{{...}}A '''graph''' such that any vertex belongs to at least two half-edges we call an ''s-'''graph'''''. Clearly the boundary <math>\partial\Omega</math> of a surface <math>\Omega</math> with marked points is an s-'''graph'''.
+#*: A morphism of '''graphs''' <math>\varphi: \Delta'\rightarrow\Delta''</math> is a continuous epimorphic map of '''graphs''' compatible with the stratification; i.e., the restriction of <math>\varphi</math> to any open 1-stratum (interior of an edge) of <math>\Delta'</math> is a local (therefore, global) homeomorphism with appropriate open 1-stratum of <math>\Delta''</math>.
+# {{lb|en|category theory|of a morphism f}} A [[morphism]] <math>\Gamma_f</math> from the [[domain]] of <math>f</math> to the [[categorical product|product]] of the domain and [[codomain]] of <math>f</math>, such that the first projection applied to <math>\Gamma_f</math> equals the [[identity morphism|identity]] of the domain, and the second projection applied to <math>\Gamma_f</math> is equal to <math>f</math>.
+# {{lb|en|linguistics|typography}} A [[graphical]] unit on the {{l|en|token-level}}, the [[abstracted]] fundamental shape of a [[character]] or [[letter]] as distinct from its [[ductus]] (realization in a particular typeface or handwriting on the {{l|en|instance-level}}) and as distinct by a {{l|en|grapheme}} on the {{l|en|type-level}} by not fundamentally distinguishing {{l|en|meaning}}.
+#: {{syn|en|glyph}}
+#* {{quote-book|author=J. Richard Andrews|year=2003|title=Introduction to Classical Nahuatl, Revised Edition|page=10|publisher=University of Oklahoma Press|passage=A '''''graph''''' <!--- bold and italic in the source ---> is a token-level nondistinctive representation of a grapheme. It can differ from the other variants of its grapheme with regard to upper case, lower case, script, print, typeface style, typeface size, etc.}}
+
+====Usage notes====
+* In mathematics, the ''graphical representation of a function'' sense is generally of interest only at an elementary level.
+** Nevertheless, the term {{m|en|vertex-edge graph}} is sometimes used in educational texts to distinguish the graph theory sense.
+* {{sense|points constituting a graphical representation of a function}}
+** A graph is similar to, but not the same as a (real) function (as defined formally).
+*** The ''function'' <math>f</math> is a set of ''ordered pairs'' <math>(x,f(x))</math>, where <math>x=(x_1, x_2, \ldots, x_m)</math> is a point in <math>\R^m</math> and <math>f(x)</math> is a point in <math>\R</math>.
+*** A ''graph'' of <math>f</math> is a set of ''points'' <math>(x_1, x_2, \ldots, x_m, f(x_1, x_2, \ldots, x_m))\in\R^{m+1}</math>.
+* {{sense|graph theory}}
+** A graph <math>G=(V,E)</math> may be defined such that the elements of <math>E</math> are [[ordered pair]]s or [[unordered]] [[pair]]s.
+*** If the pairs are unordered, <math>G</math> may be called an {{m|en|undirected graph}} and the elements of <math>E</math> are called {{m|en|edge|edges}}.
+*** If the pairs are ordered, <math>G</math> is called a {{m|en|directed graph}} or {{m|en|digraph}} and the elements of <math>E</math> may be called {{m|en|arc|arcs}}; the notation <math>G=(V,A)</math> is sometimes used.
+*** If the two vertices of an edge represent the same point, the edge may be called a {{m|en|loop}}.
 
 ====Hyponyms====
-{{der4|acyclic graph|biased graph|biconnected graph|bipartite graph|complete graph|connected graph|dependency graph|directed graph|Eulerian graph|Hamiltonian graph|hypergraph|line graph|multigraph|object graph|Petersen graph|pseudograph|random graph|regular graph|signed graph|small world graph|strongly regular graph|subgraph|superregular graph|undirected graph|unicursal graph|voltage graph|weighted graph|title=Derived terms for types of graph|lang=en}}
-
+{{der4|acyclic graph|biased graph|biconnected graph|bipartite graph|complete graph|connected graph|dependency graph|directed graph|Eulerian graph|Hamiltonian graph|line graph|multigraph|nonoriented graph|object graph|oriented graph|Petersen graph|pseudograph|random graph|regular graph|signed graph|small world graph|strongly regular graph|subgraph|superregular graph|undirected graph|unicursal graph|voltage graph|weighted graph|title=Derived terms for types of graph|lang=en}}
+* See also {{pedialite|Graph (discrete mathematics)#Types of graphs}}
 * See also [[Thesaurus:graph]]
 
 ====Derived terms====
-{{der4|graph centre|graph eccentricity|graph eigenvalue|graph geodesic|graph minor|graph polynomial|graph spectrum|graph thickness|graphic matroid|graphoid|lang=en}}
+{{der4|conceptual graph|graph centre|graph eccentricity|graph eigenvalue|graph geodesic|graph minor|graph paper|graph polynomial|graph spectrum|graph thickness|graph topology|graphic matroid|graphoid|hypergraph|topological graph|lang=en}}
 
 ====Related terms====
 {{rel3
+|grapheme
 |graphic
 |graphical
 |graphism
 |lang=en}}
 
 ====Translations====
+{{trans-see|chart}}
 {{trans-top|mathematical diagram}}
 * Asturian: {{t|ast|gráficu|m}}
 * Belarusian: {{t|be|гра́фік|m}}, {{t|be|дыягра́ма|f}}
@@ -95,7 +119,7 @@ Shortening of {{m|en|[[graphic]] [[formula]]}}. From 1878; verb from 1889.<ref>{
 * Welsh: {{t|cy|graff|m}}
 {{trans-bottom}}
 
-{{trans-top|an ordered pair in graph theory}}
+{{trans-top|ordered pair in graph theory}}
 * Belarusian: {{t|be|гра́фік|m}}, {{t|be|дыягра́ма|f}}
 * Bulgarian: {{t|bg|граф|m}}
 * Chinese:
@@ -138,7 +162,7 @@ Shortening of {{m|en|[[graphic]] [[formula]]}}. From 1878; verb from 1889.<ref>{
 # {{lb|en|transitive|mathematics}} To draw a graph of a function.
 
 ====Synonyms====
-* {{sense|draw a graph of}} {{l|en|plot}}, {{l|en|chart}}
+* {{sense|draw a graph of}} {{l|en|chart}}, {{l|en|plot}}
 
 ====Translations====
 {{trans-top|draw a graph of}}
@@ -152,12 +176,34 @@ Shortening of {{m|en|[[graphic]] [[formula]]}}. From 1878; verb from 1889.<ref>{
 {{trans-bottom}}
 
 ===See also===
-* {{l|en|plot}}
-* {{l|en|diagram}}
 * {{l|en|axis}}
+* {{l|en|Cartesian product}}
+* {{l|en|chart}}
+* {{l|en|diagram}}
+* {{l|en|grapheme}}
+* {{l|en|plot}}
 
 ===References===
 <references />
+
+===Further reading===
+* {{pedialite|Chart}}
+* {{pedialite|Graph of a function}}
+* {{pedialite|Graph theory}}
+* {{pedialite|Graph (discrete mathematics)}}
+* {{pedialite|Graph (topology)}}
+* {{pedialite|Graph (abstract data type)}}
+* {{pedialite|Conceptual graph}}
+* {{pedialite|Glyph (disambiguation)}}
+* {{pedialite|Tree (disambiguation)}}
+* [https://www.encyclopediaofmath.org/index.php/Graph Graph] on {{w|Encyclopedia of Mathematics}}
+* [https://ncatlab.org/nlab/show/graph graph] on {{w|NLab|''n''Lab}}
+* [https://ncatlab.org/nlab/show/graph+of+a+function graph of a function] on {{w|NLab|''n''Lab}}
+* [https://ncatlab.org/nlab/show/graph+of+a+functor graph of a functor] on {{w|NLab|''n''Lab}}
+** [http://mathworld.wolfram.com/FunctionGraph.html Function Graph] on {{w|MathWorld|Wolfram MathWorld}}
+* [http://mathworld.wolfram.com/Graph.html Graph] on {{w|MathWorld|Wolfram MathWorld}}
+** [http://mathworld.wolfram.com/GraphVertex.html Graph Vertex] on {{w|MathWorld|Wolfram MathWorld}}
+** [http://mathworld.wolfram.com/GraphEdge.html Graph Edge] on {{w|MathWorld|Wolfram MathWorld}}
 
 ===Anagrams===
 * {{anagrams|en|phrag}}
