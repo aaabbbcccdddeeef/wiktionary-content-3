@@ -162,33 +162,51 @@ From {{inh|da|non|brattr||steep}} and merged with {{cog|non|bráðr||hasty, sudd
 * {{a|Connacht|Ulster}} {{IPA|lang=ga|[bˠɾˠat̪ˠ]}}
 
 ===Etymology 1===
-From {{inh|ga|sga|bratt}}, from {{inh|ga|cel-pro|*bratto-}} (compare {{cog|cy|brethyn||cloth}}, from {{m|cel-pro|*bratt-ino-}}).
+From {{inh|ga|sga|bratt}}, from {{inh|ga|cel-pro|*bratto-}} (compare {{cog|cy|brethyn|t=cloth}}, from {{m|cel-pro|*bratt-ino-}}).
 
 ====Noun====
 {{ga-noun|m|brait|brait}}
 
 # [[mantle]], [[cloak]]
+#: Proverb: {{ux|ga|Ná leath do '''bhrat''' ach mar is féidir leat a chonlú.|lit=Don’t spread your '''cloak''' farther than you can fold it.|t=Cut your coat according to your cloth.}}
 # [[covering]]
 # {{lb|ga|theatre}} [[curtain]]
+# {{alternative form of|bratach|t=flag|lang=ga}}
 
 =====Declension=====
 {{ga-decl-m1|b|rat|rait}}
 
 =====Derived terms=====
-{{der3|lang=ga|{{l|ga|brat altóra|g=m||vestment, altar-cloth}}
-|{{l|ga|brateagraíocht|g=f||umbrella organization}}
-|{{l|ga|ceannbhrat|g=m||canopy}}
-|{{l|ga|fo-bhrat|g=m||undercoat}}
-|{{l|ga|brat sneachta|g=m||mantle of snow}}
-|{{l|ga|aerbhrat|g=m||atmosphere}}
-|{{l|ga|brat deataigh|g=m||smoke-screen}}
-}}
+{{der4
+|{{l|ga|brat altóra|t=vestment, altar-cloth}}
+|{{l|ga|brateagraíocht|g=f|t=umbrella organization}}
+|{{l|ga|ceannbhrat|t=canopy}}
+|{{l|ga|fo-bhrat|t=undercoat}}
+|{{l|ga|brat sneachta|t=mantle of snow}}
+|{{l|ga|aerbhrat|t=atmosphere}}
+|{{l|ga|brat deataigh|t=smoke-screen}}
+|{{l|ga|brat Bhríde|t=(piece of cloth representing) St. Brigid’s mantle}}
+|{{l|ga|brat allais|t=sweat-cloth; lather of sweat}}
+|{{l|ga|brat boird|t=table-cloth}}
+|{{l|ga|brat brád|t=neckerchief}}
+|{{l|ga|brat bróin|brat (bróin)|t=pall}}
+|{{l|ga|brat cinn|t=head-dress, kerchief}}
+|{{l|ga|brat móna|t=cut turf spread on bog}}
+|{{l|ga|brat dín|t=protective covering}}
+|{{l|ga|brata|brata (le)|pos=a|t=carpeted, covered (with)}}
+|{{l|ga|bratchreimeadh|g=m|t=sheet erosion}}
+|{{l|ga|bratfhiaile|g=f|t=blanketweed}}
+|{{l|ga|bratlong|g=f|t=flagship}}
+|{{l|ga|bratóg|g=f|t=small cloak, covering; rag; flake}}
+|{{l|ga|bratsáirsint|g=m|t=colour-sergeant}}
+|{{l|ga|bratscair|g=f|t=layered, spread-out, material; covering}}
+|lang=ga}}
 
 ===Etymology 2===
 {{rfe|lang=ga}}
 
 ====Noun====
-{{ga-noun|m|-|bratanna}}
+{{ga-noun|m|~|~anna}}
 
 # [[broth]]; thick [[soup]]
 
@@ -198,9 +216,11 @@ From {{inh|ga|sga|bratt}}, from {{inh|ga|cel-pro|*bratto-}} (compare {{cog|cy|br
 ===Mutation===
 {{ga-mut}}
 
-===References===
+===Further reading===
 * {{R:ga:Ó Dónaill}}
 * {{R:DIL|6598|head=bratt}}
+* {{R:ga:EID}}
+* {{R:ga:NEID}}
 
 {{topics|ga|Clothing|Soups}}
 
