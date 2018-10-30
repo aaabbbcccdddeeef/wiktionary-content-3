@@ -417,11 +417,11 @@ From {{inh|hu|urj-pro|*piŋe||tooth}}. Cognates include {{cog|mns|пуӈк|tr=pu
 {{hu-noun|ak}}
 
 # {{lb|hu|anatomy}} [[tooth]]
-#: {{ux|hu|Ez a '''fog''' lyukas.|This '''tooth''' has a cavity.|inline=1}}
+#: {{uxi|hu|Ez a '''fog''' lyukas.|This '''tooth''' has a cavity.}}
 # [[tooth]], [[cog]]
-#: ''Egy átlagos hegyikerékpár hátsó fogaskerekein rendre 11, 13, 15, 18, 21, 24, 34 '''fog'''ak vannak.'' - There are 11, 13, 15, 18, 21, 24 and 34 [[teeth]] on a standard [[mountain bike]]'s rear [[sprockets]].
+#: {{ux|hu|Egy átlagos hegyikerékpár hátsó fogaskerekein rendre 11, 13, 15, 18, 21, 24, 34 '''fog''' van.|There are 11, 13, 15, 18, 21, 24 and 34 '''teeth''' on a standard mountain bike's rear sprockets.}}
 # [[tooth]] {{gloss|a sharp [[projection]] on a [[saw]] or similar implement}}
-#: ''Az egyik '''foga''' hiányzik a fűrésznek.'' - One of the saw’s teeth is missing.
+#: {{uxi|hu|A fűrész egyik '''foga''' hiányzik.|One of the saw’s '''teeth''' is missing.}}
 
 =====Declension=====
 {{hu-infl-nom|foga|o}}{{hu-pos-atok|fog||ai}}
@@ -444,10 +444,11 @@ From {{inh|hu|urj-pro|*piŋe||tooth}}. Cognates include {{cog|mns|пуӈк|tr=pu
 |fogszabályzó
 |fogtündér
 |fogzománc
+|metszőfog
 |tejfog
 |zápfog
 }}
-{{der4|lang=hu|title=Expressions
+{{der3|lang=hu|title=Expressions
 |ajándék lónak ne nézd a fogát
 |fogat mos
 }}
@@ -459,33 +460,38 @@ From {{inh|hu|urj-ugr-pro|*puŋɜ-||to grasp, catch}}. Cognates include {{cog|mn
 {{hu-verb}}
 
 # {{lb|hu|transitive}} to [[grasp]], [[grip]], [[hold]]
-#: ''A fiú egy almát '''fog''' a kezében.'' - The boy is holding an apple in his hand.
+#: {{uxi|hu|A fiú egy almát '''fog''' a kezében.|The boy '''is holding''' an apple in his hand.}}
 # {{lb|hu|transitive}} to [[catch]], [[take]], [[receive]]
-#: ''A macska egeret '''fogott'''.'' - The cat caught a mouse.
-#: '''''Fogta''' a pénzt és elment.'' - He took the money and left.
-#: ''Nem tudom '''fogni''' az adást a tv-ben.'' - I can’t receive signals on the TV.
+#: {{uxi|hu|A macska egeret '''fogott'''.|The cat '''caught''' a mouse.}}
+#: {{uxi|hu|'''Fogta''' a pénzt és elment.|He '''took''' the money and left.}}
+#: {{uxi|hu|Nem tudom '''fogni''' az adást a tv-ben.|I can’t '''receive''' signals on the TV.}}
 # {{lb|hu|indicating future}} [[will]], [[going to]]
-#: ''Esni '''fog'''''. - It will be raining.
+#: {{uxi|hu|Esni '''fog'''|It '''will''' be raining.}}
 
 =====Conjugation=====
 {{hu-conj-ok|f|o|g}}
 
 =====Derived terms=====
-* {{l|hu|fogad}}
-* {{l|hu|fogalom}}
-* {{l|hu|fogás}}
-* {{l|hu|fogat}}
-* {{l|hu|fogékony}}
-* {{l|hu|fogható}}
-* {{l|hu|foglal}}
-{{qualifier|Expressions}}:
-* {{l|hu|aki sokat markol, keveset fog}}
-* {{l|hu|fog az esze, mint a borotva}}
-* {{l|hu|kezet fog}}
-* {{l|hu|szagot fog}}
-{{hu-verbpref|sep=5|fog|át|be|bele|egybe|el|fel|föl|hozzá|ki|le|meg|mellé|neki|oda|össze|rá|vissza}}
+{{der4|lang=hu
+|fogad
+|fogalom
+|fogás
+|fogat
+|fogékony
+|fogható
+|foglal
+}}
+{{der3|lang=hu|title=With verbal prefixes
+|átfog|befog|belefog|egybefog|elfog|felfog|fölfog|hozzáfog|kifog|lefog|megfog|melléfog|nekifog|odafog|összefog|ráfog|visszafog
+}}
+{{der3|lang=hu|title=Expressions
+|aki sokat markol, keveset fog
+|fog az esze, mint a borotva
+|kezet fog
+|szagot fog
+}}
 
-=====References=====
+===References===
 <references/>
 
 [[Category:Hungarian three-letter words]]
