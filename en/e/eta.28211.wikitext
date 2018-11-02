@@ -276,6 +276,41 @@ From {{inh|non|gem-pro|*etaną}}, akin to {{cog|ang|etan}} ( > {{cog|en|eat}}), 
 # this
 # this one
 
+====Declension====
+{{Template:User:RichardW57/pi-decl-noun|eta|g=m
+|novoc=true
+|noms_mod=replace|noms=eso|noms2=esa
+|dats_mod=replace|dats=etassa
+|abls_mod=replace|abls=etasmā|abls2=etamhā
+|locs_mod=replace|locs=etasmiṃ|locs2=etamhi
+|nomp_mod=replace|nomp=ete
+|datp_mod=replace|datp=etesaṃ|datp2=etesānaṃ
+|genp_mod=replace|genp=etesaṃ|genp2=etesānaṃ
+}}
+{{Template:User:RichardW57/pi-decl-noun|etā|g=f
+|novoc=true
+|noms_mod=replace|noms=esā
+|dats1=etassā|dats2=etissā|dats3=etissāya
+|gens1=etassā|gens2=etissā|gens3=etissāya
+|locs=etissaṃ
+|nomp_mod=replace|nomp=etā
+|accp_mod=replace|accp=etā
+|datp_mod=replace|datp=etāsaṃ|datp2=etāsānaṃ
+|genp_mod=replace|genp=etāsaṃ|genp2=etāsānaṃ
+}}
+{{Template:User:RichardW57/pi-decl-noun|eta|g=n
+|novoc=true
+|noms=etad|accs=etad
+|dats_mod=replace|dats=etassa
+|abls_mod=replace|abls=etasmā|abls2=etamhā
+|locs_mod=replace|locs=etasmiṃ|locs2=etamhi
+|datp_mod=replace|datp=etesaṃ|datp2=etesānaṃ
+|genp_mod=replace|genp=etesaṃ|genp2=etesānaṃ
+}}
+
+===Usage notes===
+The case form {{l|pi|etad}} is only used before vowels and as the prefixed combining form.
+
 ===References===
 {{R:pi:PTS|etad}}
 
