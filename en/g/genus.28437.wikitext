@@ -24,11 +24,14 @@ Borrowed from {{der|en|la|genus||birth, origin, a race, sort, kind}} from the ro
 # A [[group]] with [[common]] [[attribute]]s.
 #* '''1945''', {{w|Bertrand Russell}}, ''A History of Western Philosophy'', p. 655:
 #*: Recollection is one of a whole '''genus''' of effects which are more or less peculiar to the phenomena that we naturally call "mental."
-# {{lb|en|topology}} A [[number]] measuring some aspect of the [[complexity]] of any of various [[manifold]]s or [[graph]]s
+# {{lb|en|topology|graph theory|algebraic geometry}} A [[natural number]] representing any of several related measures of the [[complexity]] of a given [[manifold]] or [[graph]].
 # {{lb|en|semantics}} Within a definition, a broader category of the defined concept.
 
 ====Synonyms====
 * See also [[Thesaurus:class]]
+
+====Hyponyms====
+* {{sense|topology|graph theory}} {{l|en|Euler genus}}
 
 ====Derived terms====
 * {{l|en|summum genus}}
