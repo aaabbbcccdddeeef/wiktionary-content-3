@@ -36,7 +36,11 @@ From {{inh|en|enm|degre}}, from {{der|en|fro|degré}} (French: {{m|fr|degré}}).
 # {{lb|en|physics}} A unit of measurement of [[temperature]] on any of several [[scales]], such as [[Celsius]] or [[Fahrenheit]]. {{defdate|from 18th c.}}
 #: {{ux|en|90 '''degrees''' Fahrenheit is equivalent to 32.2 '''degrees''' Celsius.}}
 #: {{ux|en|Water boils at 100 '''degrees''' Celsius.}}
-# {{lb|en|mathematics}} The sum of the [[exponent]]s of a [[term]]; the [[order]] of a [[polynomial]]. {{defdate|from 18th c.}}
+# {{lb|en|algebra}} The sum of the [[exponent]]s of a [[term]]; the [[order]] of a [[polynomial]]. {{defdate|from 18th c.}}
+#: {{ux|en|A quadratic polynomial is a polynomial of '''degree''' 2.}}
+# {{lb|en|algebra|field theory}} The [[dimensionality]] of a [[field extension]].
+#: {{ux|en|The set of [[complex number]]s constitutes a field extension of '''degree''' 2 over the [[real numbers]].}}
+#: {{ux|en|The [[Galois field]] <math>\operatorname{GF}(125) = \operatorname{GF}(5^3)</math> has '''degree''' 3 over its subfield <math>\operatorname{GF}(5).</math>}}
 # {{lb|en|graph theory}} The number of [[edge]]s that a [[vertex]] takes part in; a [[valency]].
 # {{lb|en|logic}} The number of [[logical connective]]s in a formula.
 # {{lb|en|surveying}} The [[curvature]] of a circular arc, expressed as the angle [[subtend]]ed by a fixed length of arc or chord.
@@ -60,17 +64,18 @@ From {{inh|en|enm|degre}}, from {{der|en|fro|degré}} (French: {{m|fr|degré}}).
 * {{l|en|advanced degree}}
 * {{l|en|bachelor's degree}}
 * {{l|en|degree Celsius}}
-{{rel-mid3}}
 * {{l|en|degree centigrade}}
+{{rel-mid3}}
 * {{l|en|degree days}}
 * {{l|en|degree of comparison}}
 * {{l|en|degree of frost}}
-{{rel-mid3}}
 * {{l|en|degree Fahrenheit}}
 * {{l|en|first-degree burn}}
+{{rel-mid3}}
 * {{l|en|master's degree}}
 * {{l|en|second-degree burn}}
 * {{l|en|third-degree burn}}
+* {{l|en|transcendence degree}}
 {{rel-bottom}}
 
 ====Translations====
@@ -340,7 +345,7 @@ From {{inh|en|enm|degre}}, from {{der|en|fro|degré}} (French: {{m|fr|degré}}).
 * Ukrainian: {{t+|uk|сту́пінь}}
 {{trans-bottom}}
 
-{{trans-top|''(mathematics)'' the maximal exponent of a polynomial}}
+{{trans-top|in algebra: the maximal exponent of a polynomial}}
 * Bulgarian: {{t+|bg|степен|f}}
 * Finnish: {{t+|fi|aste}}, {{t|fi|kertaluku}}
 * French: {{t+|fr|degré|m}}, {{t+|fr|ordre|m}}
@@ -354,6 +359,10 @@ From {{inh|en|enm|degre}}, from {{der|en|fro|degré}} (French: {{m|fr|degré}}).
 * Romanian: {{t+|ro|grad|n}}
 * Tagalog: {{t|tl|antas}}
 * Thai: {{t+|th|ดีกรี}}
+{{trans-bottom}}
+
+{{trans-top|in field theory: the dimensionality of a field extension}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
