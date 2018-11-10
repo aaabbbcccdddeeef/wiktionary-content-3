@@ -68,7 +68,7 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 # {{lb|en|electronics}} a [[power]] of [[polynomial]] [[function]] in an electronic [[circuit]]’s block, such as a [[filter]], an [[amplifier]], etc.
 #: a 3-stage cascade of a 2nd-order bandpass Butterworth filter.
 # {{lb|en|chemistry}} The overall [[power]] of the rate law of a [[chemical reaction]], expressed as a [[polynomial]] [[function]] of [[concentration]]s of [[reactant]]s and [[product]]s.
-# {{lb|en|mathematics}} The [[cardinality]], or number of elements in a set, group, or other structure regardable as a set.
+# {{lb|en|set theory}} The [[cardinality]], or number of elements in a set, group, or other structure regardable as a set.
 #* '''1911''' [Cambridge University Press], William Burnside, ''Theory of Groups of Finite '''Order''''', 2nd Edition, Reprint, Dover (Dover Phoenix), 2004, [https://books.google.com.au/books?id=LaRWFpBxi_cC&pg=PA222&dq=%22order%22%7C%22orders%22+set%7Cgroup&hl=en&sa=X&ved=0ahUKEwj87tPq0fPaAhWG-lQKHdE4DaEQ6AEIrAIwMQ#v=onepage&q=%22order%22%7C%22orders%22%20set%7Cgroup&f=false page 222],
 #*: In this case, the conjugate set contains ''n''(''n'' − 1)/''x''(''x'' − 1) distinct sub-groups of '''order''' ''m'', and ''H'' is therefore self-conjugate in a group ''K'' of '''order''' ''x''(''x'' − l)''m''.
 #* '''2000''', {{w|Michael Aschbacher}}, ''Finite Group Theory'', {{w|Cambridge University Press}}, 2nd Edition, [https://books.google.com.au/books?id=BprbtnlI6HEC&pg=PA260&dq=%22order%22%7C%22orders%22+set%7Cgroup&hl=en&sa=X&ved=0ahUKEwj87tPq0fPaAhWG-lQKHdE4DaEQ6AEIsgIwMg#v=onepage&q=%22order%22%7C%22orders%22%20set%7Cgroup&f=false page 260],
@@ -86,7 +86,8 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 # {{lb|en|graph theory}} The number of [[vertex|vertices]] in a [[graph]].
 # {{lb|en|order theory}} A [[partially ordered set]].
 # {{lb|en|order theory}} The [[relation]] on a partially ordered set that determines that it is, in fact, a partially ordered set.
-# {{lb|en|mathematics}} The [[sum]] of the [[exponent]]s on the [[variable]]s in a [[monomial]], or the [[high]]est such among all monomials in a [[polynomial]].
+# {{lb|en|algebra}} The [[sum]] of the [[exponent]]s on the [[variable]]s in a [[monomial]], or the [[high]]est such among all monomials in a [[polynomial]].
+#: {{ux|en|A quadratic polynomial, <math>a x^2 + b x +c,</math> is said to be of '''order''' (or degree) 2.}}
 
 ====Quotations====
 * '''1611''', ''{{w|King James Version of the Bible|Bible}}'', King James Version, ''[[s:Bible (King James)/Luke|Luke]]'', 1:i:
