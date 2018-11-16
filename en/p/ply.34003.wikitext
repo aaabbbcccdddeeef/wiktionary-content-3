@@ -1,34 +1,42 @@
 ==English==
-{{wikipedia|dab=ply}}
+{{was wotd|2019|March|9}}
 
 ===Pronunciation===
-* {{IPA|/plaɪ/|lang=en}}
+* {{a|RP|GA}} {{IPA|/plaɪ/|lang=en}}
 * {{rhymes|aɪ|lang=en}}
 
 ===Etymology 1===
-From {{inh|en|enm|-}}, borrowed from {{bor|en|frm|pli||pleat, fold}}, from {{m|frm|plier||bend, fold}}, from {{der|en|la|plicō||I fold, I fold together}}.
+From {{inh|en|enm|pleit}}, {{m|enm|plit}}, {{m|enm|plite||a fold, pleat, wrinkle; braid, strand in a braided cord, ply}}, from {{der|en|xno|pli}}, {{m|fro|plei}}, {{m|fro|pleit}},<ref>{{R:MED Online|entry=pleit|part of speech=n|id=MED33678|accessdate 16 November 2018}}</ref> and {{der|en|frm|pli}}, {{m|frm|ploy}}, {{m|frm|ply||a fold, pleat; joint in armour; situation, state}} (modern {{cog|fr|pli||a fold, pleat}}), from {{m|frm|plier}}, {{m|frm|ployer||to bend, fold}},<ref>{{R:OED Online|part of speech=n|id=146281|date=September 2006}}</ref> from {{der|en|la|plicāre}}, {{glossary|present}} {{glossary|active}} {{glossary|infinitive}} of {{m|la|plicō||to bend, fold, roll up}}, from {{der|en|ine-pro|*pleḱ-||to fold, plait, weave}}.
 
 ====Noun====
-{{en-noun|~|s|plies}}
+{{en-noun|~|ply|plies|plys}} {{qualifier|rare}}
 
-# A [[layer]] of material.
+# A [[layer#Noun|layer]] of [[material#Noun|material]].
 #: {{ux|en|two-'''ply''' toilet paper}}
 #* '''1999''', [https://books.google.com/books?id=MGctAQAAMAAJ&q=%22with+less+ply%22&dq=%22with+less+ply%22&hl=en&sa=X&ved=0ahUKEwin_cDsj-PRAhVFhlQKHZlHAPoQ6AEIKjAD VLSI Design '99]
 #*: It is possible to have a very well load balanced partition but with such a high ply that its slowest piece is slower than a not-so-well balanced partition with less '''ply'''.
-# A [[strand]] that, twisted together with other strands, makes up [[yarn]] or [[rope]].
-# {{lb|en|colloquial}} [[plywood|Plywood]].
-# {{lb|en|artificial intelligence|combinatorial game theory}} In two-player sequential games, a "half-turn", or one move made by one of the players.
-#: ''He proposed to build Deep Purple, a super-computer capable of 24-'''ply''' look-ahead for chess.''
-# {{lb|en|now|_|chiefly|_|Scotland}} [[state|State]], [[condition]].
+# A [[strand#Noun|strand]] that, [[twist#Verb|twisted]] together with other strands, makes up [[rope#Noun|rope]] or [[yarn#Noun|yarn]].
+# {{lb|en|colloquial}} {{short for|plywood|lang=en}}
+# {{lb|en|artificial intelligence|combinatorial|_|game theory}} In [[two]]-[[player]] [[sequential]] [[game#Noun|games]], a "[[half]]-[[turn#Noun|turn]]" or a [[move#Noun|move]] made by one of the players.
+#: {{ux|en|He proposed to build Deep Purple, a super-computer capable of 24-'''ply''' look-ahead for chess.}}
+# {{lb|en|now|chiefly|Scotland}} A [[condition#Noun|condition]], a [[state#Noun|state]].
 #* '''1749''', John Cleland, ''Memoirs of a Woman of Pleasure'', Penguin 1985, p. 66:
 #*: You may be sure, in the '''ply''' I was now taking, I had no objection to the proposal, and was rather a-tiptoe for its accomplishment.
 
 ====Translations====
-{{trans-top|a layer of material}}
+{{trans-top|layer of material}}
 * German: {{t+|de|Lage|f}}
 * Maori: {{t|mi|paparanga}}, {{t|mi|apa}}, {{t|mi|papanga}}, {{t|mi|mātā}}
 {{trans-mid}}
 * Polish: {{t+|pl|warstwa|f}}
+{{trans-bottom}}
+
+{{trans-top|strand making up rope or yarn}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|in two-player sequential games, a "half-turn" or a move made by one of the players}}
+{{trans-mid}}
 {{trans-bottom}}
 
 =====Derived terms=====
@@ -128,4 +136,9 @@ From {{inh|en|enm|plien|}}, short for {{m|enm|applien||apply}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{Webster 1913}}
+===References===
+<references />
+
+===Further reading===
+* {{pedia|ply (layer)}}
+* {{pedia|ply|ply (disambiguation)}}
