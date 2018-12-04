@@ -30,7 +30,7 @@ From {{etyl|fro|en}} {{m|fro|ierarchie}} (French {{m|fr|hiérarchie}}), from {{e
 * Arabic: {{t|ar|سِلْسِلَةُ مَراتِب‎|f}}
 * Armenian: {{t+|hy|հիերարխիա}}, {{t|hy|պաշտոնակարգություն}}
 * Belarusian: {{t|be|іера́рхія|f}}
-* Bulgarian: {{t+|bg|йерархия|f}}
+* Bulgarian: {{t+|bg|йера́рхия|f}}
 * Catalan: {{t|ca|jerarquia|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|等級制度|sc=Hani}}, {{t+|cmn|等级制度|tr=děngjí zhìdù|sc=Hani}}, {{t+|cmn|階層|sc=Hani}}, {{t+|cmn|阶层|tr=jiēcéng|sc=Hani}}, {{t+|cmn|层次|tr=céngcì|sc=Hani}}
@@ -49,35 +49,38 @@ From {{etyl|fro|en}} {{m|fro|ierarchie}} (French {{m|fr|hiérarchie}}), from {{e
 * Hungarian: {{t+|hu|hierarchia}}
 * Italian: {{t+|it|gerarchia|f}}
 * Japanese: {{t+|ja|階層|tr=かいそう, kaisō|sc=Jpan}}, {{t|ja|序列|tr=じょれつ, joretsu|sc=Jpan}}, {{t+|ja|ヒエラルキー|tr=hierarukī}}
-{{trans-mid}}
 * Khmer: {{t|km|ទំរង់ស័ក្តិ}}, {{t|km|យសស័ក្តិ}}
+{{trans-mid}}
 * Korean: {{t+|ko|계층}}
 * Latin: {{t|la|hierarchia|f}}
 * Luxembourgish: {{t|lb|Hierarchie}}
-* Macedonian: {{t|mk|хиерархија|f|tr=hierárhija}}, {{t|mk|чинослед|m|sc=Cyrl}}
+* Macedonian: {{t|mk|хиерархија|f}}, {{t|mk|чинослед|m}}
 * Mongolian: {{t-needed|mn}}
 * Norwegian:
 *: Bokmål: {{t|nb|hierarki|n}}
 *: Nynorsk: {{t|nn|hierarki|n}}
-* Ottoman Turkish: {{t|ota|سلسلهء مراتب|tr=silsile -i merâtib|sc=ota-Arab}}
+* Ottoman Turkish: {{t|ota|سلسلهء مراتب|tr=silsile-i merâtib|sc=ota-Arab}}
 * Persian: {{t|fa|سلسله‌مراتب|tr=selsele-ye marâteb}}
 * Polish: {{t+|pl|hierarchia|f}}
 * Portuguese: {{t+|pt|hierarquia|f}}
 * Romanian: {{t+|ro|ierarhie|f}}
 * Russian: {{t+|ru|иера́рхия|f}}
-* Serbo-Croatian: {{t+|sh|hijerarhija|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|хијера̀рхија|f}}
+*: Roman: {{t+|sh|hijeràrhija|f}}
 * Slovak: {{t|sk|hierarchia|f}}
 * Spanish: {{t+|es|jerarquía|f}}
 * Swedish: {{t+|sv|hierarki|c}}
 * Tagalog: {{t|tl|halpunuan}}
-* Thai: {{t|th|ลำดับชั้น|tr=lamdàp chán}}
+* Thai: {{t|th|ลำดับชั้น}}
 * Turkish: {{t+|tr|hiyerarşi}}
-* Ukrainian: {{t|uk|ієра́рхія}}
+* Ukrainian: {{t|uk|ієра́рхія|f}}
 * Vietnamese: {{t-needed|vi}}
 {{trans-bottom}}
 
 {{trans-top|class of objects}}
-* Bulgarian: {{t+|bg|йерархия|f}}
+* Belarusian: {{t|be|іера́рхія|f}}
+* Bulgarian: {{t+|bg|йера́рхия|f}}
 * Burmese: {{t-needed|my}}
 * Catalan: {{t|ca|jerarquia|f}}
 * Chinese:
@@ -90,16 +93,18 @@ From {{etyl|fro|en}} {{m|fro|ierarchie}} (French {{m|fr|hiérarchie}}), from {{e
 * Hungarian: {{t+|hu|hierarchia}}
 {{trans-mid}}
 * Khmer: {{t|km|លំដាប់សក្តិ}}, {{t|km|អនុក្រម}}
-* Macedonian: {{t|mk|хиерархија|f|tr=hierárhija}}
+* Macedonian: {{t|mk|хиерархија|f}}
 * Mongolian: {{t-needed|mn}}
 * Polish: {{t+|pl|hierarchia|f}}
 * Portuguese: {{t+|pt|hierarquia|f}}
 * Russian: {{t+|ru|иера́рхия|f}}
-* Serbo-Croatian: {{t+|sh|hijerarhija|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|хијера̀рхија|f}}
+*: Roman: {{t+|sh|hijeràrhija|f}}
 * Spanish: {{t+|es|jerarquía|f}}
 * Swedish: {{t+|sv|hierarki|c}}
 * Thai: {{t-needed|th}}
-* Ukrainian: {{t|uk|ієра́рхія}}
+* Ukrainian: {{t|uk|ієра́рхія|f}}
 * Vietnamese: {{t-needed|vi}}
 {{trans-bottom}}
 
@@ -107,7 +112,7 @@ From {{etyl|fro|en}} {{m|fro|ierarchie}} (French {{m|fr|hiérarchie}}), from {{e
 * French: {{t+check|fr|hiérarchie|f}}
 * Italian: {{t+check|it|gerarchia|f}}
 {{trans-mid}}
-* {{ttbc|ja}}: [[階層性]] (かいそうせい, kaisōsei), [[序列]] (じょれつ, joretsu)
+* {{ttbc|ja}}: {{t-check|ja|階層性|tr=かいそうせい, kaisōsei}}, {{t-check|ja|序列|tr=じょれつ, joretsu}}
 {{trans-bottom}}
 
 [[Category:English words suffixed with -archy]]
