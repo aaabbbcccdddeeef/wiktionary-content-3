@@ -195,16 +195,23 @@ Most likely from {{der|la|grc|εἰλεός||colic}}, from {{m|grc|εἰλέω||
 
 ==Turkish==
 
-===Conjunction===
-{{head|tr|conjunction}}
+===Postposition===
+{{tr-postposition}}
 
 # [[with]]
-#: {{ux|tr|Arkadaşım'''la''' dışarı çıkıyorum.|I am going out with my friend.}}
-# [[and]]
-#: {{ux|tr|Ateş'''le''' [[barut]] yan yana durmaz.|The fire and the gunpowder don't stand nearby.}}
+#: {{uxi|tr|Arkadaşım'''la''' dışarı çıkıyorum.|I am going out '''with''' my friend.}}
+#: {{uxi|tr|Müsadeniz'''le'''.|'''With''' your permission.}}
 
-====Usage notes====
-Generally suffixed to words as {{m|tr|-la}} / {{m|tr|-yla}} or {{m|tr|-le}} / {{m|tr|-yle}}. Which form is used depends on the affixed word's dominant vowel, and whether the word ends in a vowel or a consonant.
+===Conjunction===
+{{tr-con}}
+
+# [[and]] {{gloss|joining two noun phrases}}
+#: {{uxi|tr|Ateş'''le''' barut yan yana durmaz.|Fire '''and''' gunpowder, side by side, do not last.}}
+
+===Usage notes===
+These usage notes apply equally to the use of ''ile'' as a postposition and as a conjunction.
+
+The term can be used as a stand-alone word, but usually takes the form of an enclitic, that is, it is suffixed to the preceding word as {{m|tr|-la}} / {{m|tr|-yla}} or {{m|tr|-le}} / {{m|tr|-yle}}. Which form is used depends on the affixed word's dominant vowel, and whether the word ends in a vowel or a consonant.
 * -le — with a dominant front-vowel (i, e, ü, ö) and a consonant ending
 ** {{m|tr|kardeşin||your brother}} — {{m|tr|kardeşinle||with your brother}}
 ** {{m|tr|düşünceleriniz||your ideas}} — {{m|tr|düşüncelerinizle||with your ideas}}
@@ -218,8 +225,14 @@ Generally suffixed to words as {{m|tr|-la}} / {{m|tr|-yla}} or {{m|tr|-le}} / {{
 ** {{m|tr|arkadaşı||his friend}} — {{m|tr|arkadaşıyla||with his friend}}
 ** {{m|tr|oyuncakları||their toys}} — {{m|tr|oyuncaklarıyla||with their toys}}
 
-An apostrophe is required when suffixed to proper nouns:
+An apostrophe is required when suffixed to a proper noun:
 * Şebnem'le
 * Ali'yle
 * Barış'la
 * Beyza'yla
+
+Generally, the stress in a Turkish word goes to the last syllable, but, when used as an enclitic, ''(y)le'' / ''(y)la'' is unstressed and leaves the stress of the preceding word to which it is suffixed unchanged.
+
+In a curious exception to vowel harmony, the suffix ''-yla'' raises a preceding back vowel ''ı'' to a front vowel ''i''. For example, the word {{m|tr|dolayısıyla}} (“consequently”, “therefore”) is pronounced {{IPAchar|/dolajɯˈsijla/}}.
+
+The dual role of the term can occasionally result in an ambiguity. The saying {{m|tr|bir taşla iki kuş vurmak|bir taş'''la''' iki kuş vurmak}}, literally “to hit two birds '''with''' one stone”, can (theoretically) also mean “to hit one stone '''and''' two birds”.
