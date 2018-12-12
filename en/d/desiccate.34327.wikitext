@@ -1,36 +1,38 @@
 ==English==
+{{was wotd|2019|April|30}}
 
 ===Etymology===
-Borrowed from {{bor|en|la|desicco|dēsiccō, dēsiccātus}}.
+From {{der|en|la|dēsiccāre||to dry completely, dry up}} {{suffix|en||ate|t2=''verb suffix indicating acting in the specified manner''}}.<ref>Compare {{R:OED Online|part of speech=v|id=50817|date=1895|nodot=yes}}; {{R:Oxford Dictionaries Online}}</ref> ''Dēsiccāre'' is derived from {{m|la|dēsiccō||to dessicate, dry up; to drain dry}} ({{m|la|dē-||''prefix meaning ‘completely, to exhaustion’''}} + {{m|la|siccō||to dry; to drain, exhaust}}, from {{m|la|siccus||dry}}, from {{der|en|ine-pro|*seyk-}}) + {{m|la|-āre}}.
+
+The adjective is derived from {{der|en|la|dēsiccātus||dried up}},<ref>{{R:OED Online|part of speech=adj|id=50816|date=1895}}</ref> the {{glossary|perfect}} {{glossary|passive}} {{glossary|participle}} of {{m|la|dēsiccō}}: ''see above''. The noun is derived from the adjective.<ref>{{R:OED Online|part of speech=n|id=50815|date=1972}}</ref>
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|/ˈdɛs.ɪ.keɪt/|lang=en}}
-* {{hyphenation|des|ic|cate|lang=en}}
+* Verb and adjective:
+** {{a|RP}} {{IPA|/ˈdɛsɪkeɪt/|/dɪˈsɪkeɪt/|qual2=archaic|lang=en}}
+** {{a|GA}} {{IPA|/ˈdɛsɪkeɪt/|lang=en}}
+* Noun:
+** {{a|RP|GA}} {{IPA|/ˈdɛsɪkət/|lang=en}}
+* {{hyphenation|de|sic|cate|lang=en}}
 
 ===Verb===
 {{en-verb|desiccat}}
 
-# {{lb|en|transitive}} To [[dry]].
+# {{lb|en|transitive}} To [[remove#Verb|remove]] [[moisture]] from; to [[dry#Verb|dry]]. {{defdate|from late 16th c.}}
+#: {{synonyms|en|dehydrate|exiccate|q2=obsolete|exsiccate|parch}}
+#: {{antonyms|en|hydrate|moisten|moisturize|wet}}
 #* Francis Bacon
 #*: bodies '''desiccated''' by heat or age
-# {{lb|en|transitive}} To [[preserve]] by drying.
-# {{lb|en|intransitive}} To [[dry up]].
+# {{lb|en|transitive}} To [[preserve#Verb|preserve]] by drying. {{defdate|from late 16th c.}}
+# {{lb|en|intransitive|rare}} To [[become]] dry; to [[dry up]].
 
-====Synonyms====
-* {{sense|dry}} [[dehydrate]], [[parch]]
-
-====Antonyms====
-* {{sense|dry}} [[moisten]], [[moisturize]], [[wet]]
+====Derived terms===
+{{der3|lang=en|title=Terms derived from ''dessicate'' (verb)|[[desiccated]] {{qualifier|adjective}}|desiccation|desiccative|desiccator}}
 
 ====Related terms====
-* {{l|en|desiccant}}
-* {{l|en|desiccation}}
-* {{l|en|desiccative}}
-* {{l|en|desiccator}}
-* {{l|en|exsiccate}}
+{{rel3|lang=en|title=Terms related to ''dessicate'' (verb)|desiccant|[[dessicating]] {{qualifier|adjective, noun}}|[[exiccate]], [[exiccation]] {{qualifier|obsolete}}|exsiccant|exsiccate|exsiccation|exsiccative|exsiccator}}
 
 ====Translations====
-{{trans-top|to dry}}
+{{trans-top-also|to remove moisture from|dry}}
 * Bulgarian: {{t+|bg|изсушавам}}
 * Dutch: {{t+|nl|drogen}}, {{t+|nl|dehydreren}}, {{t|nl|deshydrateren}}, {{t+|nl|ontwateren}}, {{t+|nl|uitdrogen}}, {{t+|nl|verdrogen}}
 * Finnish: {{t+|fi|kuivata}}
@@ -56,6 +58,37 @@ Borrowed from {{bor|en|la|desicco|dēsiccō, dēsiccātus}}.
 {{trans-mid}}
 * German: {{t+check|de|trocknen}}, {{t-check|de|dehydratieren}}
 {{trans-bottom}}
+
+===Adjective===
+{{en-adj}}
+
+# Having had [[moisture]] [[remove#Verb|removed]]; [[dehydrated#Adjective|dehydrated]], [[dessicated#Adjective|dessicated]].
+#: {{synonyms|en|dried}}
+
+====Derived terms====
+* {{l|en|desiccated coconut}}
+* {{l|en|desiccatedly}}
+
+====Translations====
+{{trans-top-also|having had moisture removed|dehydrated|dessicated}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# A [[substance]] which has been [[#Verb|dessicated]], that is, had its [[moisture]] [[remove#Verb|removed]].
+
+====Translations====
+{{trans-top|substance which has been dessicated}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===References===
+<references />
+
+===Further reading===
+* {{pedia|dessication}}
 
 ----
 
