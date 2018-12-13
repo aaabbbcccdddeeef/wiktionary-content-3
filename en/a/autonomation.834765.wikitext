@@ -1,7 +1,8 @@
 ==English==
 
 ===Noun===
-{{en-noun}}
+{{en-noun|-}}
+
 # {{lb|en|manufacturing}} Automation design concept developed at Toyota using error-proofing and automatic process defect-detection to ease human participation in demanding just-in-time manufacturing.
 #* {{quote-text|year=1988|author=Taiichi Ohno|title=Toyota Production System: Beyond Large-scale Production|page=121|passage='''Autonomation''' (Automation with a Human Touch)}}
 #*: '''Autonomation''' means transferring human intelligence to a machine.
@@ -10,7 +11,7 @@
 #*: "'''Autonomation'''" implies the attachment of extra functions to automated machines so the machine will stop automatically when […].
 
 ===Usage notes===
-Used to translate Japanese word ''jidoka''.
+Used to translate the Japanese word {{m|ja|自動化}}.
 
 ===See also===
 * {{l|en|poka-yoke}}
