@@ -29,7 +29,7 @@ Borrowed from {{bor|en|frm|centre}}, from {{der|en|la|centrum}}, from {{der|en|g
 # The [[middle]] portion of something; the part well away from the [[edge]]s.
 # {{lb|en|geometry}} The point on a [[line]] that is [[midway]] between the [[end]]s.
 # {{lb|en|geometry}} The point in the interior of any [[figure]] of any number of [[dimension]]s that has as its [[coordinates]] the [[arithmetic mean]] of the coordinates of all points on the [[perimeter]] of the figure (or of all points in the [[interior]] for a center of volume).
-# {{lb|en|group theory}} The [[set]], denoted ''Z''(''G''), of elements of given [[group]] ''G'' that [[commute]] with every element of ''G''.
+# {{lb|en|group theory|ring theory}} The [[subgroup]] (respectively, [[subring]]), denoted ''Z''(''G''), of those elements of a given [[group]] (respectively, [[ring]]) ''G'' that [[commute]] with every element of ''G''.
 # A place where the greater part of some [[function]] or [[activity]] occurs.
 #: ''shopping '''center''''', ''convention '''center''''', ''civic '''center''''', ''garment '''center''''', ''Lincoln '''Center''' for the Performing Arts'', ''Rockefeller '''Center'''''
 # A [[topic]] that is particularly [[important]] in a given context.
@@ -61,6 +61,9 @@ Borrowed from {{bor|en|frm|centre}}, from {{der|en|la|centrum}}, from {{der|en|g
 # {{lb|en|engineering}} One of the two [[conical]] [[steel]] [[pin]]s in a [[lathe]], etc., upon which the work is held, and about which it [[revolve]]s.
 # {{lb|en|engineering}} A conical [[recess]] or [[indentation]] in the end of a [[shaft]] or other work, to receive the point of a center, on which the work can turn, as in a lathe.
 # {{lb|en|politics}} The [[ensemble]] of [[moderate]] or [[centrist]] [[political]] [[party|parties]].
+
+====Usage notes====
+{{sense|group theory}} In the notation ''Z''(''G''), the letter ''Z'' derives from the German {{l|de|Zentrum||center}}.
 
 ====Synonyms====
 * {{sense|point on a line midway between the ends}} {{l|en|midpoint}}
