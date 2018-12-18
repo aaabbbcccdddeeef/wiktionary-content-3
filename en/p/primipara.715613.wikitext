@@ -1,19 +1,47 @@
 ==English==
 
+===Etymology===
+Borrowed from {{bor|en|la|prīmipara||pregnant for the first time; having given birth to only one offspring; primiparous}},<ref>{{R:OED Online|part of speech=n|id=151343|date=June 2007}}</ref> from {{m|la|prīmus||first}} + {{m|la|parere}}<ref>{{R:Oxford Dictionaries Online}}</ref> (from {{m|la|pariō||to bear, give birth to; to beget, produce}}, ultimately from {{der|en|ine-pro|*per-||to carry forth}}). The word is cognate with {{cog|fr|primipare}}.
+
 ===Pronunciation===
-{{rfap|UK|UK|lang=en}}
-{{rfap|US|US|lang=en}}
+* {{a|RP}} {{IPA|/ˌpɹaɪˈmɪpəɹə/|/ˌpɹaɪˈmɪpɹə/|lang=en}}
+* {{a|GA}} {{IPA|/pɹaɪˈmɪpəɹə/|lang=en}}
+* {{hyphenation|pri|mi|pa|ra|lang=en}}
+{{rfap|RP|RP|lang=en}}
+{{rfap|GA|GA|lang=en}}
 
 ===Noun===
 {{en-noun|s|primiparae}}
 
-# {{lb|en|obstetrics|veterinary medicine}} A [[woman]] or [[female#Adjective|female]] [[animal]] during or after her [[first#Adjective|first]] [[pregnancy]].
-#: {{synonyms|en|primigravid|primigravida}}
+# {{lb|en|obstetrics|veterinary medicine}} A [[woman]] or [[female#Adjective|female]] [[animal]] during or after her [[first#Adjective|first]] [[pregnancy]]. {{defdate|from mid 19th c.}}
+#: {{synonyms|en|primigravid|primigravida|primip}}
+#: {{antonyms|en|multigravid|multigravida|multip|multipara}}
 # {{lb|en|obstetrics|veterinary medicine|specifically}} A woman or female animal that has [[carry|carried]] a pregnancy to a [[viable]] [[gestational]] [[age#Noun|age]].
+#: {{synonyms|en|primip}}
+#: {{antonyms|en|multip|multipara}}
 
 ====Derived terms====
+* {{l|en|primip}}
 * {{l|en|primiparity}}
 * {{l|en|primiparous}}
+
+====Related terms====
+{{der3|lang=en|title=Terms related to ''primipara''|multip|multipara|multiparity|nullipara|nulliparity|primigravid|primigravida|primigravidity|primigravity}}
+
+====Translations====
+{{trans-top-also|woman or female animal during or after her first pregnancy|primigravida}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|woman or female animal that has carried a pregnancy to a viable gestational age}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===References===
+<references />
+
+===Further reading===
+* {{pedia|gravidity and parity}}
 
 [[Category:en:Female]]
 [[Category:en:Pregnancy]]
