@@ -157,35 +157,45 @@ Borrowed from {{bor|sh|en|sonar}}.
 
 ==Spanish==
 
-===Etymology===
+===Pronunciation===
+* {{es-IPA}}
+
+===Etymology 1===
 From {{inh|es|osp|sonar}}, from {{inh|es|la|sonāre}}, present active infinitive of {{m|la|sonō}}, ultimately from {{der|es|ine-pro|*swen-||to sound, resound}}.
 
-===Verb===
+====Verb====
 {{es-verb|son|ar|pres=sueno}}
 
 # to [[sound]], to [[ring]]
-# {{lb|es|figuratively}} to [[ring a bell]], to [[familiar|be familiar]]
+# {{lb|es|figuratively}} to [[ring a bell]], to be [[familiar]]
 #: {{ux|es|Me '''suena''' el nombre, pero no lo ubico.|translation=His name '''rings a bell''' but I can't place him.}}
-# {{lb|es|reflexive}} {{lb|es|figuratively}} to [[blow|blow one's nose]]
-#: {{ux|es|Despues de estornudar, me '''soné''' la nariz.|translation=After I sneezed, I '''blew''' my nose}}
+# {{lb|es|transitive|reflexive|figuratively}} to [[blow one's nose]]
+#: {{ux|es|Despues de estornudar, me '''soné''' la nariz.|translation=After I sneezed, I '''blew''' my nose.}}
 
-====Conjugation====
+=====Conjugation=====
 {{es-conj-ar|s|n|p=o-ue|combined=1}}
 
-====Related terms====
-{{top2}}
-* {{l|es|resonar}}
-* {{l|es|son}}
+=====Derived terms=====
 * {{l|es|sonadero}}
 * {{l|es|sonador}}
-{{mid2}}
-* {{l|es|sonajera}}
-* {{l|es|sonido}}
-* {{l|es|sonoro}}
-{{bottom}}
+* {{l|es|sonante}}
 
-===See also===
-* {{l|es|sondear}}
+=====Related terms=====
+{{rel3|resonar|son|sonaja|sonido|sonoro|lang=es}}
+
+===Etymology 2===
+Borrowed from {{bor|es|en|sonar}}.
+
+====Noun====
+{{es-noun|m}}
+
+# {{l|en|sonar}} {{gloss|a device that uses hydrophones to locate objects underwater}}
+
+=====Alternative forms=====
+* {{l|es|sónar}}
+
+===Further reading===
+* {{R:DRAE}}
 
 [[Category:es:Sound]]
 
