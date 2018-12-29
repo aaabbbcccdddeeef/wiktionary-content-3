@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|la|en}} {{m|la|amurca||oil dregs}}.
+From {{bor|en|la|amurca}}.
 
 ===Noun===
 {{en-noun}}
@@ -10,7 +10,24 @@ From {{etyl|la|en}} {{m|la|amurca||oil dregs}}.
 
 ====Translations====
 {{trans-top|sediment in olive oil}}
+* Arabic: {{t|ar|[[مَاء]] ال[[زَيْتُون]]|m}}, {{t|ar|دُرْدِيّ|m}}, {{t|ar|كُسْب}}
+*: South Levantine Arabic: {{t|ajp|جفت|tr=jift|m}}
+* Aramaic:
+*: Jewish Babylonian Aramaic: {{t|arc|גִּיפְתׇּא|tr=gīp̄tā|m}}
+* Catalan: {{t|ca|morca|f}}
+* German: {{t|de|Öldrüsen|f-p}}, {{t|de|Ölhefe|f}}, {{t|de|Ölsatz|m}}, {{t|de|Gärbe|f}}
+* Greek:
+*: Ancient: {{t|el|ἀμόργη|f}}
+*: Modern: {{t|el|μούργα|f}}
+{{trans-mid}}
+* Hebrew: {{t|he|גֶּפֶת|tr=gāp̄āṯ}}
+* Italian: {{t|it|morchia|f}}
+* Latin: {{t|la|amurca|f}}
 * Portuguese: {{t|pt|amurca|f}}
+* Russian: {{t|ru|аму́рка|f}}
+* Serbo-Croatian: {{t|sh|mȗrga|f}}, {{t|sh|mȗlj|m}}, {{t|sh|[[ȗljnī]] [[tálog]]|m}}, {{t|sh|[[bȋljna]] [[vòda]]|f}} <!-- https://ec.europa.eu/epale/sites/epale/files/vodic_za_poznavanje_maslinovog_ulja.pdf S. 16 -->
+* Slovenian: {{t|sl|murga|f}}
+* Spanish: {{t|es|amurca|f}}, {{t|es|morga|f}}, {{t|es|alpechín|m}}, {{t|es|jámila|f}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -34,11 +51,17 @@ From {{der|la|grc|ἀμόργη}}, from {{m|grc|ἀμέργω||pluck, pull}}.
 {{la-decl-1st|amurc}}
 
 ====Descendants====
-* Aragonese: {{l|an|morca}}
-* English: {{l|en|amurca}}
-* Italian: {{l|it|morchia}}
-* Portuguese: {{l|pt|amurca}}
-* Spanish: {{l|es|amurca}}, {{l|es|morga}}, {{l|es|murga}}
+* {{desc|an|morca}}
+* {{desc|dlm|muarka}}
+** {{desc|sh|mȗrga|bor=1}}
+** {{desc|sl|mȗrga|bor=1}}
+* {{desc|en|amurca}}
+* {{desc|it|morchia}}
+* {{desc|pt|amurca|bor=1}}
+* {{desc|es|morga}}, {{l|es|murga}}
+* {{desc|es|amurca|bor=1}}
+* {{desc|ru|аму́рка|bor=1}}
+* {{desc|vec|morga}}
 
 ===References===
 * {{R:L&S}}
@@ -51,7 +74,7 @@ From {{der|la|grc|ἀμόργη}}, from {{m|grc|ἀμέργω||pluck, pull}}.
 {{wikipedia|lang=pt}}
 
 ===Etymology===
-From {{etyl|la|pt}} {{m|la|amurca}}.
+Borrowed from {{bor|pt|la|amurca}}.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|/ɐˈmurkɐ/|lang=pt}}
@@ -59,8 +82,24 @@ From {{etyl|la|pt}} {{m|la|amurca}}.
 ===Noun===
 {{pt-noun|f|s}}
 
-# amurca
+# {{l|en|amurca}}
 
 ===Synonyms===
 * {{l|pt|almofeira}}
 * {{l|pt|albufeira}}
+
+----
+
+==Spanish==
+{{wikipedia|lang=es}}
+
+===Etymology===
+Borrowed from {{bor|es|la|amurca}}. {{doublet|es|morga}}, {{l|es|murga}}.
+
+===Pronunciation===
+* {{es-IPA}}
+
+===Noun===
+{{pt-noun|f|s}}
+
+# {{l|en|amurca}}
