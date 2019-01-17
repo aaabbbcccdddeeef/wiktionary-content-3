@@ -57,7 +57,7 @@ From {{inh|en|enm|dauncer}}, {{m|enm|dawncere}}, {{m|enm|dancere}}, equivalent t
 *: Mandarin: {{t+|cmn|舞蹈家|tr=wǔdǎojiā|sc=Hani}}, {{t|cmn|舞蹈演員|sc=Hani}}, {{t|cmn|舞蹈演员|tr=wǔdǎo yǎnyuán|sc=Hani}}, {{t|cmn|跳舞者|tr=tiàowǔ-zhě|sc=Hani}}
 *: Min Nan: {{t|nan|舞蹈家|tr=bú-tō-ka|sc=Hans}}
 * Czech: {{t+|cs|tanečník|m}}, {{t+|cs|tanečnice|f}}
-* Danish: {{t+|da|danser|c}}, {{t|da|danserinde|c}}, {{t|da|danserske|c}} {{qualifier|female}}
+* Danish: {{t+|da|danser|c}}, {{t|da|danserinde|c}} {{q|female}}, {{t|da|danserske|c}} {{q|female}}
 * Dutch: {{t+|nl|danser|m}}, {{t+|nl|danseres|f}}
 * Esperanto: {{t|eo|dancisto}}, {{t|eo|virdancisto}} {{q|male}}, {{t|eo|dancistino}} {{q|female}}
 * Estonian: {{t|et|tantsija}}
@@ -75,7 +75,7 @@ From {{inh|en|enm|dauncer}}, {{m|enm|dawncere}}, {{m|enm|dancere}}, equivalent t
 * Hindi: {{t|hi|नृत्यनर्तक|m|tr=nŕtyanartak|sc=Deva}} {{qualifier|male}}, {{t+|hi|नर्तकी|f|tr=nartakī|sc=Deva}} {{qualifier|female}}
 * Hungarian: {{t+|hu|táncos|m}}, {{t+|hu|táncosnő|f}}
 * Icelandic: {{t+|is|dansari|m}}
-* Ido: {{t+|io|dansero}}, {{t+|io|dansisto}}, {{t+|io|dansanto}}
+* Ido: {{t+|io|dansanto}}, {{t|io|dansantulo}} {{q|male}}, {{t|io|dansantino}} {{q|female}}, {{t+|io|dansero}}, {{t+|io|danserulo}} {{q|male}}, {{t+|io|danserino}} {{q|female}} {{t+|io|dansisto}}, {{t|io|dansistulo}} {{q|male}}, {{t+|io|dansistino}} {{q|female}}
 * Indonesian: {{t+|id|penari}}
 * Irish: {{t|ga|rinceoir|m}}, {{t|ga|damhsóir|m}}
 * Italian: {{t+|it|ballerino|m}}, {{t+|it|ballerina|f}}, {{t|it|danzatore|m}}, {{t|it|danzatrice|f}}
@@ -96,7 +96,7 @@ From {{inh|en|enm|dauncer}}, {{m|enm|dawncere}}, {{m|enm|dancere}}, equivalent t
 * Malayalam: {{t|ml|തുളളിച്ചാടുന്നവൻ|sc=Mlym}}
 * Mongolian: {{t+|mn|бүжигчин|sc=Cyrl}}
 * Norwegian:
-*: Bokmål: {{t+|nb|danser|m}}, {{t|nb|danserinne|m|f}} {{q|female}}, {{t|nb|danserske|m|f}} {{qualifier|female}}
+*: Bokmål: {{t+|nb|danser|m}}, {{t|nb|danserinne|m|f}} {{q|female}}, {{t|nb|danserske|m|f}} {{q|female}}
 *: Nynorsk: {{t|nn|dansar|m}}, {{t|nn|dansarinne|f}} {{q|female}}
 * Occitan: {{t|oc|dançaire|m}}
 * Old English: {{t|ang|hlēapere|m}}, {{t|ang|hlēapestre|f}}; {{t|ang|hoppere|m}}, {{t|ang|tumbere|m}}
@@ -117,7 +117,7 @@ From {{inh|en|enm|dauncer}}, {{m|enm|dawncere}}, {{m|enm|dancere}}, equivalent t
 * Slovak: {{t+|sk|tanečník|m}}, {{t|sk|tanečnica|f}}
 * Slovene: {{t+|sl|plesalec|m}}, {{t|sl|plesalka|f}}
 * Spanish: {{t+|es|bailarín|m}}, {{t|es|bailarina|f}}, {{t+|es|bailador|m}}, {{t+|es|bailadora|f}}
-* Swedish: {{t+|sv|dansare|c}}, {{t+|sv|danserska|c}}, {{t+|sv|dansös|c}}
+* Swedish: {{t+|sv|dansare|c}}, {{t+|sv|danserska|c}} {{q|female}}, {{t+|sv|dansös|c}} {{q|female}}
 * Tagalog: {{t|tl|mananayaw}}
 * Tajik: {{t|tg|раққос|sc=Cyrl}}
 * Tamil: {{t|ta|நடனக்காரர்|sc=Taml}}
@@ -130,7 +130,7 @@ From {{inh|en|enm|dauncer}}, {{m|enm|dawncere}}, {{m|enm|dancere}}, equivalent t
 * Ukrainian: {{t|uk|танцюри́ст|m|sc=Cyrl}}, {{t|uk|танцюри́стка|f|sc=Cyrl}}
 * Uzbek: {{t+|uz|tansachi}}, {{t+|uz|raqqos}}
 * Vietnamese: {{t|vi|người nhảy}}, {{t|vi|người múa}}, {{t|vi|người khiêu vũ}}, {{t|vi|vũ công}}
-* Volapük: {{qualifier|♂♀}} {{t+|vo|danüdan}}, {{qualifier|♂}} {{t|vo|hidanüdan}}, {{qualifier|♀}} {{t+|vo|jidanüdan}}
+* Volapük: {{t+|vo|danüdan}}, {{t|vo|hidanüdan}} {{q|male}}, {{t+|vo|jidanüdan}} {{q|female}}
 * Yiddish: {{t|yi|טענצער|m|tr=tentser|sc=Hebr}}, {{t|yi|טענצערין|f}}
 {{trans-bottom}}
 
@@ -139,15 +139,14 @@ From {{inh|en|enm|dauncer}}, {{m|enm|dawncere}}, {{m|enm|dancere}}, equivalent t
 * Dutch: {{t|nl|exotisch danser|m}}, {{t|nl|karakterdanser|m}}, {{t|nl|stripdanser|m}}
 * Finnish: {{t+|fi|tanssija}}, {{t+|fi|tanssijatar}}
 {{trans-mid}}
-* German: {{t+|de|Tänzerin|f}}, {{t+|de|Tänzer|m}}
+* German: {{t+|de|Tänzer|m}}, {{t+|de|Tänzerin|f}}, {{t+|de|exotischer Tänzer|m}}, {{t+|de|exotische Tänzerin|f}}
 * Greek: {{t+|el|χορεύτρια|f}}
-* Portuguese: {{t|pt|dançarina exótica|f}}
+* Portuguese: {{t|pt|dançarino exótico|f}}, {{t|pt|dançarina exótica|f}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 * Estonian: {{t-check|et|tantsija}}
 * Guaraní: {{t-check|gn|jerokyha}}
-* {{ttbc|he}}: {{t+check|he|רקדן|m}} (raqdan), {{t-check|he|רקדנית|f}} (raqdanyt)
 * {{ttbc|ia}}: {{t-check|ia|dansator|m}}, {{t-check|ia|dansatrice|f}}; {{t-check|ia|ballerino|m}}, {{t-check|ia|ballerina|f}} (= ballet dancer)
 {{trans-mid}}
 * {{ttbc|ku}}: {{t+check|ku|danser|m|f}}, {{t+check|ku|semavan|m|f}}, {{t+check|ku|reqas|m|f}}, {{t+check|ku|dansoz|f}}
