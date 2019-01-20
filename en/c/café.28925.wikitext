@@ -57,7 +57,7 @@ Borrowed from {{bor|en|fr|café||coffee; coffee shop}}.
 *: Min Nan: {{t|nan|咖啡廳}}, {{t|nan|咖啡厅|tr=ka-pi-thiaⁿ}}, {{t|nan|咖啡館}}, {{t|nan|咖啡馆|tr=ka-pi-koán}}
 * Cornish: {{t|kw|koffiji|m}}
 * Czech: {{t+|cs|kavárna|f}}
-* Danish: {{t+|da|café|n}}, {{t+|da|cafe|n}}
+* Danish: {{t+|da|café|c}}, {{t+|da|cafe|c}}
 * Dutch: {{t+|nl|café|n}}, {{t+|nl|koffiehuis|n}}
 * Esperanto: {{t|eo|kafejo}}
 * Estonian: {{t+|et|kohvik}}
@@ -151,17 +151,21 @@ Borrowed from {{bor|ast|fr|café}}.
 ----
 
 ==Danish==
+{{wikipedia|lang=da}}
 
 ===Etymology===
 Borrowed from {{bor|da|fr|café}}.
 
 ===Noun===
-{{da-noun}}
+{{da-noun|en|caféer}}
 
 # {{l|en|café}}
 
 ====Declension====
 {{da-decl|en|er}}
+
+====Derived terms====
+* {{l|da|fortovscafé}}
 
 ----
 
