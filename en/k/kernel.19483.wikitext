@@ -29,7 +29,7 @@ From {{inh|en|enm|kernel}}, {{m|enm|kirnel}}, {{m|enm|kurnel|kürnel}}, from {{i
 # {{lb|en|mathematics}} A set of pairs of a mapping's domain which are mapped to the same value.
 # {{lb|en|mathematics|linear algebra|functional analysis}} For a given [[function]] (especially a [[linear map]] between [[vector space]]s), the set of elements in the [[domain]] which are mapped to [[zero]]; {{lb|en|formally}} given ''f''&nbsp;:&nbsp;''X''&nbsp;→&nbsp;''Y'', the set {''x''&nbsp;∈&nbsp;''X''&nbsp;:&nbsp;''f''(''x'')&nbsp;=&nbsp;0}.
 #: {{ux|en|If a function is continuous then its '''kernel''' is a closed set.}}
-# {{lb|en|mathematics|category theory}} For a given [[morphism]] ''f'' and a morphism ''z'' from the [[initial object]] 0 to the [[codomain]] of ''f'', the [[pullback]] of ''z'' along ''f''.
+# {{lb|en|mathematics|category theory}} ''For a category with [[zero morphism]]s'': the [[equalizer]] of a given morphism and the zero morphism which is parallel to that given morphism.
 # {{lb|en|mathematics|fuzzy set theory}} The [[set]] of members of a [[fuzzy set]] that are fully included (i.e., whose grade of membership is 1).
 # {{lb|en|slang}} The human [[clitoris]].
 #* '''2014''', Karyn Gerrard, Irene Preston, Lotchie Burton ''et al'', ''Summer Heat: 10 Spicy Romances That Sizzle''
