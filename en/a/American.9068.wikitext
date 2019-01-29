@@ -194,6 +194,13 @@ From {{suffix|America|n|lang=en}}, or via Modified Latin ''Americanus'' ({{etyl|
 #: ''He married an '''American''' woman in order to get an '''American''' passport.''
 #* {{RQ:Melville Moby-Dick|1}}
 #*: Should you ever be athirst in the great '''American''' desert, try this experiment, if your caravan happen to be supplied with a metaphysical professor.
+# {{lb|en|finance}} {{qualifier|of an option|not comparable}} Can be [[exercise]]d on any date between the [[issue]] date and the [[expiry]] date.
+#* '''2009''', {{w|John C. Hull}}, ''Options, Futures, and other Derivatives (Seventh Edition)'', Pearson Education, page 182:
+#*: All of these trade on the Chicago Board Options Exchange. Most of the contracts are European. An exception is the OEX contract on the S&P 100, which is '''American'''.
+#* '''2009''', Shih-Feng Huang and Meihui Guo, ''Applied Quantitative Finance (Second Edition)'', Springer, page 295:
+#*: Multi-dimensional option pricing becomes an important topic in financial markets (Franker et al., 2008). Among which, the '''American'''-type derivative (e.g. the Bermudan option) pricing is a challenging problem.
+#* '''2010''', Johnathan Mun, ''Modeling Risk + DVD: Applying Monte Carlo Risk Simulation, Strategic Real Options, Stochastic Forecasting, and Portfolio Optimization (Second Edition)'', John Wiley & Sons:
+#*: Based on the analyses throughout the case study, it is recommended that the use of a model that assumes an ESO is European style when, in fact, the option is '''American''' style with the other exotic variables should not be permitted, as this substantially overstates compensation expenses.
 
 ====Usage notes====
 Sometimes (usually outside of the [[U.S.]]) used [[pejoratively]] (see also [[anti-Americanism]]).
@@ -201,6 +208,9 @@ Sometimes (usually outside of the [[U.S.]]) used [[pejoratively]] (see also [[an
 ====Synonyms====
 * {{l|en|Western Hemispherian}}, {{l|en|New Worlder}}
 * {{sense|US American}} {{l|en|United Statesian}}, {{l|en|USAian}}, {{l|en|Usanian}}, {{l|en|Usonian}}, {{l|en|US American}}, {{l|en|US-ian}}; (''in Cockney rhyming slang:'') [[Septic]], [[Usonan]]
+
+====Coordinate terms====
+* {{sense|timing of option exercise}} {{l|en|Bermudan}}, {{l|en|European}}
 
 ====Translations====
 {{trans-top|of or pertaining to the Americas}}
