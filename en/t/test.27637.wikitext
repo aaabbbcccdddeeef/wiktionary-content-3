@@ -10,7 +10,7 @@
 :
 
 ===Etymology 1===
-From {{inh|en|enm|test}}, {{m|enm|teste}}, from {{der|en|fro|test}}, {{m|fro|teste|t=an earthen vessel, especially a pot in which metals were tried}}, from {{der|en|la|testum|t=the lid of an earthen vessel, an earthen vessel, an earthen pot}}, from {{m|la|*terstus}}, past participle of the root {{m|la|*tersa||dry land}}. See [[terra]], [[thirst]].
+From {{inh|en|enm|test}}, {{m|enm|teste}}, borrowed from {{bor|en|fro|test}}, {{m|fro|teste|t=an earthen vessel, especially a pot in which metals were tried}}, from {{der|en|la|testum|t=the lid of an earthen vessel, an earthen vessel, an earthen pot}}, from {{m|la|*terstus}}, past participle of the root {{m|la|*tersa||dry land}}. See [[terra]], [[thirst]].
 
 ====Noun====
 {{en-noun}}
@@ -486,7 +486,7 @@ From {{der|nl|en|test}}.
 * {{fr-IPA|teste}}
 
 ===Etymology 1===
-From {{der|fr|fro|test}}, from {{der|fr|la|testa}}.
+From {{der|fr|fro|test}}, from {{der|fr|la|testa}}. The orthography of this form reflects semi-learned influence; compare the doublet {{doublet|têt|lang=fr|notext=1}}.
 
 ====Noun====
 {{fr-noun|m}}
@@ -495,7 +495,7 @@ From {{der|fr|fro|test}}, from {{der|fr|la|testa}}.
 # {{lb|fr|marine biology}} [[test#English|test]], the external [[calciferous]] shell, or [[endoskeleton]], of an [[echinoderm]].
 
 ===Etymology 2===
-From {{der|fr|en|test}}, itself from Old French
+Borrowed from {{bor|fr|en|test}}, itself from {{der|fr|fro|test}}.
 
 ====Noun====
 {{fr-noun|m}}
@@ -642,7 +642,7 @@ From {{der|nn|en|test}}
 ==Old French==
 
 ===Etymology===
-From {{der|fro|la|testum}}.
+From {{inh|fro|la|testum}}.
 
 ===Noun===
 {{fro-noun|m}}
@@ -652,6 +652,7 @@ From {{der|fro|la|testum}}.
 
 ====Descendants====
 * {{desc|fr|test}}
+* {{desc|fr|têt}}
 * {{desc|bor=1|enm|test}}
 ** {{desc|en|test}} {{see desc}}
 ** {{desc|sco|test}}
