@@ -109,7 +109,7 @@ From {{inh|gl|la|textus|texta|t=woven}}.
 * {{hyph|te|sta|lang=it}}
 
 ===Etymology 1===
-From {{der|it|la|testa}}.
+From {{inh|it|la|testa}}.
 
 ====Noun====
 {{it-noun|f}}
@@ -129,6 +129,7 @@ From {{der|it|la|testa}}.
 
 ====Descendants====
 * {{desc|bor=1|gsw|Teste}}
+* {{desc|bor=1|es|testa}}
 
 ===Etymology 2===
 {{nonlemma}}
@@ -196,7 +197,7 @@ From {{der|it|la|testa}}.
 ** {{desc|gl|testa}}
 ** {{desc|pt|testa}}
 * {{desc|osp}}
-** {{desc|es|tiesta}}, {{l|es|testa}}
+** {{desc|es|tiesta}}
 * Rhaeto-Romance:
 ** {{desc|rm|testa}}
 * {{desc|scn|testa}}
@@ -239,12 +240,16 @@ From {{der|it|la|testa}}.
 ==Old Occitan==
 
 ===Etymology===
-From {{etyl|la|pro}} {{m|la|testa}}.
+From {{inh|pro|la|testa}}.
 
 ===Noun===
 {{pro-noun|f}}
 
 # [[head]]
+
+====Descendants====
+* {{desc|ca|testa}}
+* {{desc|oc|tèsta}}, {{l|oc|testa}} {{q|Limousin}}
 
 ----
 
@@ -257,7 +262,7 @@ From {{etyl|la|pro}} {{m|la|testa}}.
 * {{hyphenation|tes|ta|lang=pt}}
 
 ===Etymology 1===
-From {{etyl|roa-opt|pt}} {{m|roa-opt|testa}}, from {{etyl|la|pt}} {{m|la|testa}}.
+From {{inh|pt|roa-opt|testa}}, from {{inh|pt|la|testa}}.
 
 ====Noun====
 {{pt-noun|f}}
@@ -304,7 +309,7 @@ From {{bor|ro|fr|tester}}.
 ==Romansch==
 
 ===Etymology===
-From {{etyl|la|rm}} {{m|la|testa||pot}}.
+From {{inh|rm|la|testa||pot}}.
 
 ===Noun===
 {{rm-noun|f}}
@@ -327,7 +332,7 @@ In [[Rumantsch Grischun]], the literary standard language, ''testa'' is used in 
 ==Sicilian==
 
 ===Etymology===
-From {{etyl|la|scn}} {{m|la|testa||brick}}.
+From {{inh|scn|la|testa||brick}}.
 
 ===Pronunciation===
 * {{IPA|/t̪ʲɛs(ʃ)ta/|lang=scn}}
@@ -345,7 +350,7 @@ From {{etyl|la|scn}} {{m|la|testa||brick}}.
 ==Spanish==
 
 ===Etymology 1===
-From {{etyl|la|es}} {{m|la|testa}}.
+Borrowed from {{bor|es|it|testa}}, from {{der|it|la|testa}}. Compare the inherited Old Spanish {{m|osp|tiesta}}.
 
 ====Noun====
 {{es-noun|f}}
