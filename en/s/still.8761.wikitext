@@ -9,7 +9,7 @@
 * {{rhymes|ɪl|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|ang|stille||motionless, stationary}}, from {{etyl|ang|en}} {{m|ang|stille||still, quiet, calm; without motion, at rest, not moving from a place, not disturbed; moving little or gently; silent; not loud; secret; unchanging, undisturbed, stable, fixed; not vehement, gentle}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*stillijaz||quiet, still}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*stel-||to place, stell; fixed, motionless, still, stiff}}. Cognate with {{cog|sco|stil||still}}, {{cog|stq|stil||motionless, calm, quiet}}, {{cog|fy|stil||quiet, still}}, {{cog|nl|stil||quiet, silent, still}}, {{cog|nds|still||quiet, still}}, {{cog|de|still||still, quiet, tranquil, silent}}, {{cog|sv|stilla||quiet, silent, peaceful}}, {{cog|is|stilltur||set, quiet, calm, still}}. Related to {{l|en|stall}}.
+From {{inh|en|ang|stille||motionless, stationary}}, from {{inh|en|ang|stille||still, quiet, calm; without motion, at rest, not moving from a place, not disturbed; moving little or gently; silent; not loud; secret; unchanging, undisturbed, stable, fixed; not vehement, gentle}}, from {{inh|en|gem-pro|*stillijaz||quiet, still}}, from {{der|en|ine-pro|*stel-||to place, stell; fixed, motionless, still, stiff}}. Cognate with {{cog|sco|stil||still}}, {{cog|stq|stil||motionless, calm, quiet}}, {{cog|fy|stil||quiet, still}}, {{cog|nl|stil||quiet, silent, still}}, {{cog|nds|still||quiet, still}}, {{cog|de|still||still, quiet, tranquil, silent}}, {{cog|sv|stilla||quiet, silent, peaceful}}, {{cog|is|stilltur||set, quiet, calm, still}}. Related to {{l|en|stall}}.
 
 ====Alternative forms====
 * {{l|en|stil}}
@@ -19,7 +19,7 @@ From {{etyl|enm|en}} {{m|ang|stille||motionless, stationary}}, from {{etyl|ang|e
 {{en-adj|er|more}}
 
 # Not [[moving]]; [[calm]].
-#: '''''Still''' waters run deep.''
+#: {{ux|en|'''Still''' waters run deep.}}
 # Not effervescing; not sparkling.
 #: '''''still''' water; '''still''' wines''
 # Uttering no sound; [[silent]].
@@ -442,13 +442,13 @@ Aphetic form of {{m|en|distil}}, or from {{etyl|la|en}} {{lena}} {{m|la|stillare
 ==German==
 
 ===Etymology===
-From {{etyl|goh|de}} {{m|goh|stilli}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*stillijaz||motionless, still, quiet}}.
+From {{inh|de|gmh|}}, from {{inh|de|goh|stilli}}, from {{inh|de|gem-pro|*stillijaz||motionless, still, quiet}}.
 
 ===Pronunciation===
 * {{IPA|/ʃtɪl/|lang=de}}
 
 ===Adjective===
-{{de-adj|stiller|stillsten}}
+{{de-adj|er|sten}}
 
 # [[quiet]], [[silent]]
 
@@ -462,6 +462,21 @@ From {{etyl|goh|de}} {{m|goh|stilli}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*sti
 
 ===Further reading===
 * {{R:Duden}}
+
+----
+
+==Hunsrik==
+
+===Pronunciation===
+* {{IPA|/ʃtil/|lang=hrx}}
+
+===Adjective===
+{{head|hrx|adjective}}
+
+# [[quiet]], [[silent]]
+
+===Further reading===
+* [https://hunsriqueanoriograndense.wordpress.com/dicionario-werterbuch/ Online Hunsrik Dictionary]
 
 ----
 
@@ -491,7 +506,6 @@ From {{etyl|goh|de}} {{m|goh|stilli}}, from {{etyl|gem-pro|de}} {{m|gem-pro|*sti
 ===Etymology 2===
 
 ===Adjective===
-
 {{nn-adj-irreg|fm=still|n=stilt|ds_pl=stille}}
 
 # {{alternative form of|stille|lang=nn}}
