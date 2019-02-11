@@ -460,14 +460,85 @@ From {{inh|hu|urj-ugr-pro|*puŋɜ-||to grasp, catch}}. Cognates include {{cog|mn
 ====Verb====
 {{hu-verb}}
 
-# {{lb|hu|transitive}} to [[grasp]], [[grip]], [[hold]]
-#: {{uxi|hu|A fiú egy almát '''fog''' a kezében.|The boy '''is holding''' an apple in his hand.}}
-# {{lb|hu|transitive}} to [[catch]], [[take]], [[receive]]
-#: {{uxi|hu|A macska egeret '''fogott'''.|The cat '''caught''' a mouse.}}
-#: {{uxi|hu|'''Fogta''' a pénzt és elment.|He '''took''' the money and left.}}
-#: {{uxi|hu|Nem tudom '''fogni''' az adást a tévében.|I can’t '''receive''' signals on the TV.}}
-# {{lb|hu|auxiliary|_|with a verb in the infinitive}} [[will]], [[going to]]
-#: {{uxi|hu|Esni '''fog'''.|It '''is going to''' rain.}}
+# {{lb|hu|transitive}} to [[hold]] {{gloss|to keep in one's hands}}
+#*{{quote-book
+|lang=hu
+|year=1983
+|author=Mihály Padisák
+|chapter=I
+|title=Gyalog Juli
+|url=http://mek.oszk.hu/02800/02821/02821.htm
+|passage=Valaki ült is mellette, '''fogta''' a kezét, de az arcát valahogy nem látta.
+|translation=Somebody was sitting next to her, '''held''' her hand, but somehow she couldn't see his face.}}
+# {{lb|hu|transitive}} to [[take]] {{gloss|to get into one's hands}}
+#*{{quote-book
+|lang=hu
+|year=1882
+|author={{w|Mór Jókai}}
+|chapter=IV
+|chapterurl=http://mek.oszk.hu/00700/00794/html/jokai5.htm
+|title=Szeretve mind a vérpadig
+|passage='''Fogd''' ezt az aranyat, fizesd ki vele, akit megkárosítottál.
+|translation='''Take''' this gold, use it to pay back those to whom you have caused damage.}}
+# {{lb|hu|transitive}} to [[catch]], to [[capture]]
+#*{{quote-book
+|lang=hu
+|year=1985
+|author={{w|Áron Tamási}}
+|title=Bölcső és bagoly: Regényes életrajz
+|url=http://mek.oszk.hu/01000/01085/01085.htm
+|passage=Így például nekem kellett megmondani, hogy a macska egeret '''fog''' [...]
+|translation=For instance, I had to tell them that cats '''catch''' mice [...]}}
+# {{lb|hu|transitive|broadcasting|nocat=y}} to [[receive]]
+#*{{quote-book
+|lang=hu
+|year=1996
+|author=István Kamarás
+|author2={{w|István Péter Németh}}
+|chapter=Világverseny a berekben
+|title=Origósdi
+|url=http://mek.oszk.hu/08700/08740/08740.htm
+|passage=Egyébként egészen jól lehetett '''fogni''' az adást.
+|translation=As a matter of fact, I '''received''' the broadcast quite clearly.}}
+# {{lb|hu|transitive|by extension|slang}} to [[listen]] to, to [[hear]], to [[understand]]
+#*{{quote-book
+|lang=hu
+|year=2007
+|author=Csilla Tóth
+|chapter=4
+|title=Körbe ég
+|passage='''Fogod''', amit mondok? Észnél vagy?
+|translation=Do you '''hear''' what I'm sayin'? Are you out of your mind?}}
+# {{lb|hu|intransitive}} to [[write]] {{gloss|of a pen, to leave a mark}}
+#*{{quote-book
+|lang=hu
+|year=2009
+|author=Attila Salga
+|chapter=A félresikerült randi
+|title=Mi lenne velem nélkülem?
+|url=http://mek.oszk.hu/11700/11775/11775.pdf
+|passage=Olyan furcsa volt, ahogyan felírta a rendelést: nem '''fogott''' a tolla, és elkezdte rázni.
+|translation=It was strange, the way she took the order: her pen wouldn't '''write''', and she started shaking it.}}
+# {{lb|hu|intransitive}}  to [[transfer]] {{gloss|of ink or dye, to leave a stain upon contact}}
+#*{{quote-journal
+|lang=hu
+|year=1980
+|author=Károly Gombos
+|title=Régi kaukázusi azerbajdzsán szőnyegek
+|periodical=Művészettörténeti értesítő
+|url=http://real-j.mtak.hu/544/1/MUVTORTERT_29_1980.pdf
+|passage=A rossz festékekkel megfestett újabb szőnyegeken a kék színek '''fognak''', mosás közben kék színt eresztenek [...]
+|translation=In newer carpets dyed with poor dyes, the blue colors '''transfer''', they bleed blue color when being washed [...]}}
+# {{lb|hu|auxiliary|_|with a verb in the infinitive}} [[will]], [[going to]] {{gloss|used to form the future tense}}
+#*{{quote-book
+|lang=hu
+|year=1924
+|author={{w|Margarete Böhme}}
+|translator=Elza Pogány
+|title=Egy mozgalmas élet története
+|url=http://mek.oszk.hu/17700/17782/17782.htm
+|passage=Most azonban jó lesz sietve hazamenni, mert mindjárt esni '''fog'''.
+|translation=But now we'd better go home quickly, because it's '''going to''' rain soon.}}
 
 =====Conjugation=====
 {{hu-conj-ok|f|o|g}}
