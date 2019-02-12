@@ -47,7 +47,7 @@ Borrowed from {{bor|en|fr|banal}}, from {{etyl|Medieval Latin|en}} {{m|la|bannal
 * Bulgarian: {{t+|bg|обикновен}}, {{t+|bg|банален}}
 * Catalan: {{t+|ca|banal}}
 * Chinese:
-*: Mandarin: {{t+|cmn|平凡|tr=píngfán|sc=Hani}}, {{t+|cmn|平庸|tr=píngyōng|sc=Hani}}, {{t+|cmn|平常|tr=píngcháng|sc=Hani}}
+*: Mandarin: {{t+|cmn|平凡|tr=píngfán}}, {{t+|cmn|平庸|tr=píngyōng}}, {{t+|cmn|平常|tr=píngcháng}}
 * Czech: {{t+|cs|banální}}
 * Dutch: {{t+|nl|banaal}}
 * Esperanto: {{t+|eo|banala}}
@@ -63,7 +63,7 @@ Borrowed from {{bor|en|fr|banal}}, from {{etyl|Medieval Latin|en}} {{m|la|bannal
 * Indonesian: {{t+|id|banal}}
 * Interlingua: {{t|ia|banal}}
 * Italian: {{t+|it|banale}}
-* Japanese: {{t|ja|ありふれた|tr=arifureta|sc=Jpan}}, {{t+|ja|陳腐|tr=ちんぷな, chinpu-na|alt=陳腐な|sc=Jpan}}
+* Japanese: {{t|ja|ありふれた|tr=arifureta}}, {{t+|ja|陳腐|tr=ちんぷな, chinpu-na|alt=陳腐な}}
 * Kyrgyz: {{t+|ky|тамтыгы чыккан}}
 * Lithuanian: {{t|lt|banalus|m}}
 * Malay: {{t|ms|basi}}, {{t|ms|banal}}
@@ -107,9 +107,11 @@ Borrowed from {{bor|en|fr|banal}}, from {{etyl|Medieval Latin|en}} {{m|la|bannal
 # {{l|en|banal}} {{gloss|common in a boring way}}
 
 ====Derived terms====
-* {{l|ca|banalitat}}
-* {{l|ca|banalitzar}}
-* {{l|ca|banalment}}
+{{der3
+|banalitat
+|banalitzar
+|banalment
+|lang=ca}}
 
 ===Further reading===
 * {{R:IEC2}}
@@ -122,7 +124,7 @@ Borrowed from {{bor|en|fr|banal}}, from {{etyl|Medieval Latin|en}} {{m|la|bannal
 ==French==
 
 ===Etymology===
-From {{affix|fr|ban|-al}}, related to {{der|fr|ML.|bannalis}}, from {{m|la|bannum}}.
+From {{af|fr|ban|-al}}, related to {{der|fr|ML.|bannalis}}, from {{m|la|bannum}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -139,7 +141,7 @@ From {{affix|fr|ban|-al}}, related to {{der|fr|ML.|bannalis}}, from {{m|la|bannu
 
 # {{lb|fr|legal}} {{l|en|public}}
 # {{lb|fr|historic}} relating to facilities owned by [[feudal lord]]s
-#: {{ux|fr|un four '''banal''', un moulin '''banal'''}}
+#: {{uxi|fr|un four '''banal''', un moulin '''banal'''}}
 
 ====Derived terms====
 * {{l|fr|banalité}}
@@ -149,14 +151,14 @@ From {{affix|fr|ban|-al}}, related to {{der|fr|ML.|bannalis}}, from {{m|la|bannu
 * {{pedia|Banalité (droit seigneurial)|lang=fr}}
 
 ===Anagrams===
-* {{l|fr|Alban}}
+* {{anagrams|fr|Alban}}
 
 ----
 
 ==German==
 
 ===Etymology===
-From {{etyl|fr|de}} {{m|fr|banal}}, from {{etyl|Medieval Latin|de}} {{m|la|bannalis}}, from {{m|la|bannum}}.
+From {{bor|de|fr|banal}}, from {{der|de|ML.|bannalis}}, from {{m|la|bannum}}.
 
 ===Pronunciation===
 * {{audio|De-banal.ogg|Audio|lang=de}}
@@ -165,14 +167,16 @@ From {{etyl|fr|de}} {{m|fr|banal}}, from {{etyl|Medieval Latin|de}} {{m|la|banna
 ===Adjective===
 {{de-adj|er|sten}}
 
-# [[banal#English|banal]]
+# {{l|en|banal}}
 
 ====Declension====
 {{de-decl-adj|banal|banaler|banalst}}
 
 ====Related terms====
-* {{l|de|Banalität}}
-* {{l|de|banalisieren}}
+{{rel2
+|Banalität
+|banalisieren
+|lang=de}}
 
 ===Further reading===
 * {{R:Duden}}
@@ -182,7 +186,7 @@ From {{etyl|fr|de}} {{m|fr|banal}}, from {{etyl|Medieval Latin|de}} {{m|la|banna
 ==Indonesian==
 
 ===Etymology===
-From {{etyl|ms|id}} {{m|ms|banal}}, from {{etyl|nl|id}} {{m|nl|banaal}}, from {{etyl|fr|id}} {{m|fr|banal}}, from {{etyl|Medieval Latin|id}} {{m|la|bannalis}}, from {{m|la|bannum}}.
+From {{inh|id|ms|banal}}, from {{der|id|nl|banaal}}, from {{der|id|fr|banal}}, from {{der|id|ML.|bannalis}}, from {{m|la|bannum}}.
 
 ===Adjective===
 {{head|id|adjective}}
@@ -206,7 +210,7 @@ From {{etyl|ms|id}} {{m|ms|banal}}, from {{etyl|nl|id}} {{m|nl|banaal}}, from {{
 ==Malay==
 
 ===Etymology===
-From {{etyl|nl|ms}} {{m|nl|banaal}}, from {{etyl|fr|ms}} {{m|fr|banal}}, from {{etyl|Medieval Latin|ms}} {{m|la|bannalis}}, from {{m|la|bannum}}.
+From {{bor|ms|nl|banaal}}, from {{der|ms|fr|banal}}, from {{der|ms|ML.|bannalis}}, from {{m|la|bannum}}.
 
 ===Pronunciation===
 * {{IPA|/banal/|lang=ms}}
@@ -216,9 +220,7 @@ From {{etyl|nl|ms}} {{m|nl|banaal}}, from {{etyl|fr|ms}} {{m|fr|banal}}, from {{
 {{head|ms|adjective}}
 
 # {{l|en|banal}} {{gloss|common}}
-
-====Synonyms====
-* {{l|ms|basi}}
+#: {{syn|ms|basi}}
 
 ----
 
@@ -229,16 +231,20 @@ From {{etyl|nl|ms}} {{m|nl|banaal}}, from {{etyl|fr|ms}} {{m|fr|banal}}, from {{
 
 # {{l|en|banal}} {{gloss|common}}
 # {{l|en|hackneyed}} {{gloss|repeated too often}}
+#: {{syn|pt|batido|trivial}}
 
-====Synonyms====
-* {{sense|hackneyed}} {{l|pt|trivial}}, {{l|pt|batido}}
+====Derived terms====
+{{der2
+|banalidade
+|banalizar
+|lang=pt}}
 
 ----
 
 ==Spanish==
 
 ===Etymology===
-From {{etyl|fr|es}} {{m|fr|banal}}, from {{etyl|Medieval Latin|es}} {{m|la|bannalis}}, from {{m|la|bannum}}.
+From {{bor|es|fr|banal}}, from {{der|es|ML.|bannalis}}, from {{m|la|bannum}}.
 
 ===Pronunciation===
 * {{es-IPA}}
@@ -249,8 +255,10 @@ From {{etyl|fr|es}} {{m|fr|banal}}, from {{etyl|Medieval Latin|es}} {{m|la|banna
 # {{l|en|banal}}
 
 ====Derived terms====
-* {{l|es|banalidad}}
-* {{l|es|banalizar}}
+{{der2
+|banalidad
+|banalizar
+|lang=es}}
 
 ===Further reading===
 * {{R:DRAE}}
