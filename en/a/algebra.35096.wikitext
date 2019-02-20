@@ -89,9 +89,11 @@ From {{der|en|ML.|algebrāica}}, from {{der|en|ar|-}} word {{m|ar|جبر|الْ�
 }}
 # {{lb|en|uncountable|mathematics}} The study of [[algebraic structure]]s.
 # {{lb|en|countable|mathematics}} A [[universal algebra]].
-# {{lb|en|countable|algebra}} An algebraic structure consisting of a [[module]] over a [[commutative]] [[ring]] along with an additional [[binary operation]] that is [[bilinear]].
+# {{lb|en|countable|algebra}} An algebraic structure consisting of a [[module]] over a [[commutative]] [[ring]] (or a [[vector space]] over a [[field]]) along with an additional [[binary operation]] that is [[bilinear]] over module (or vector) addition and scalar multiplication.
+#: {{synonyms|en|algebra over a field}}
 #* {{quote-wikipedia|lang=en|article=Lie algebra|revision=831953572|date=2018-03-23|passage=In [[mathematics]], a '''Lie algebra''' (pronounced /liː/ "Lee") is a vector space <math>\mathfrak g</math> together with a non-associative, alternating bilinear map <math>\mathfrak g \times \mathfrak g \rightarrow \mathfrak g; (x, y) \mapsto [x, y]</math>, called the Lie bracket, satisfying the Jacobi identity.}}
 # {{lb|en|countable|set theory|analysis}} A collection of subsets of a given set, such that this collection contains the empty set, and the collection is closed under [[union]]s and [[complement]]s (and thereby also under [[intersection]]s and [[difference]]s).
+#: {{synonyms|en|field of sets}}
 # {{lb|en|countable|mathematics}} One of several other types of [[mathematical structure]].
 # {{lb|en|figurative}} A system or process, that is like algebra by substituting one thing for another, or in using signs, symbols, etc., to represent concepts or ideas.
 #* {{quote-book|lang=en|year=1663
