@@ -27,14 +27,18 @@ From {{der|en|enm|liquide}}, from {{der|en|fro|liquide}}, from {{der|en|la|liqui
 <!-- From Century 1911: -->The differentiation of a liquid as an incompressible fluid is not strictly correct, experiment having shown that liquids are compressible to a very limited extent. See [[fluid]].
 
 ====Coordinate terms====
-* {{l|en|solid}}<!--Within one of three states of matter.-->
-* {{l|en|gas}}<!--Within one of three states of matter.-->
+* [[solid]]<!--Within one of three states of matter.-->
+* [[gas]]<!--Within one of three states of matter.-->
+
+====Hyponyms====
+{{hyp2|lang=en|ideal liquid|non-ideal liquid}}
 
 ====Related terms====
-* {{l|en|liquidate}}
-* {{l|en|liquidation}}
-* {{l|en|liquidizer}}
-* {{l|en|liquor}}
+{{rel4|lang=en
+|liquidate
+|liquidation
+|liquidizer
+|liquor}}
 
 ====Translations====
 {{trans-top|substance that is liquid}}
@@ -112,7 +116,7 @@ From {{der|en|enm|liquide}}, from {{der|en|fro|liquide}}, from {{der|en|la|liqui
 * Tagalog: {{t|tl|danum}}, {{t|tl|danumin}}
 * Tajik: {{t+|tg|моеъ}}
 * Thai: {{t+|th|ของเหลว}}
-* Turkish: {{t+|tr|sıvı}}
+* Turkish: {{t+|tr|mayi}} {{qualifier|obsolecent}}, {{t+|tr|sıvı}}
 * Turkmen: {{t|tk|suwuklyk}}
 * Ukrainian: {{t+|uk|рідина́|f}}
 * Urdu: {{t|ur|مائع|tr=mā'i'}}
