@@ -79,7 +79,7 @@ From {{inh|en|enm|floten}}, from {{inh|en|ang|flotian|t=to float}}, from {{der|e
 * Galician: {{t|gl|flotar}}
 * Georgian: {{t-needed|ka}}
 * German: {{t+|de|treiben}}, {{t+|de|schwimmen}}, {{t+|de|schweben}}
-* Hungarian: {{t+|hu|lebeg}}, {{t+|hu|úszik}}, {{t|hu|felszínen marad}}
+* Hungarian: {{t+|hu|lebeg}}, {{t+|hu|úszik}}, {{t|hu|[[felszín]]en [[marad]]}}
 * Indonesian: {{t+|id|apung}}
 * Italian: {{t+|it|galleggiare}}
 * Japanese: {{t+|ja|浮かぶ|tr=ukabu}}, {{t+|ja|浮く|tr=uku}}, {{t|ja|漂う|tr=tadayou}}
@@ -110,6 +110,10 @@ From {{inh|en|enm|floten}}, from {{inh|en|ang|flotian|t=to float}}, from {{der|e
 * Yiddish: {{t|yi|שווימען}}
 {{trans-bottom}}
 
+{{trans-top|to cause something to be suspended in a liquid of greater density}}
+{{trans-mid}}
+{{trans-bottom}}
+
 {{trans-top|to be capable of floating}}
 * Arabic: {{t|ar|طَفَا}}
 * Bulgarian: {{t|bg|държа се на повърхността|sc=Cyrl}}
@@ -132,6 +136,28 @@ From {{inh|en|enm|floten}}, from {{inh|en|ang|flotian|t=to float}}, from {{der|e
 * Vietnamese: {{t+|vi|nổi}}
 {{trans-bottom}}
 
+{{trans-top|to move in a particular direction with the liquid in which one is floating}}
+* Assamese: {{t|as|উট}}
+* Dutch: {{t+|nl|meedrijven}}
+* Finnish: {{t+|fi|lipua}}
+* French: {{t+|fr|flotter}}
+* German: {{t+|de|treiben}}
+* Hungarian: {{t+|hu|sodródik}}, {{t+|hu|úszik}}
+{{trans-mid}}
+* Lithuanian: {{t+|lt|plaukti|impf}}
+* Norman: {{t|nrf|fliotter}}
+* Russian: {{t+|ru|плыть|impf}}, {{t+|ru|дре́йфовать|impf}} {{qualifier|of a ship}}
+* Serbo-Croatian: {{t|sh|odplutati}}, {{t+|sh|ploviti}}
+* Spanish: {{t+|es|flotar}}
+* Vietnamese: {{t+|vi|trôi}}
+{{trans-bottom}}
+
+{{trans-top|to drift aimlessly}}
+* Maori: {{t|mi|whakatairangi}}
+{{trans-mid}}
+* Serbo-Croatian: {{t+|sh|muvati se}}, {{t+|sh|tumarati}}, {{t|sh|besciljno se kretati}}, {{t+|sh|motati se}}
+{{trans-bottom}}
+
 {{trans-top|to drift gently through the air}}
 * Bulgarian: {{t|bg|нося се|sc=Cyrl}}
 * Finnish: {{t+|fi|leijua}}
@@ -152,22 +178,6 @@ From {{inh|en|enm|floten}}, from {{inh|en|ang|flotian|t=to float}}, from {{der|e
 * Yiddish: {{t|yi|שוועבן}}
 {{trans-bottom}}
 
-{{trans-top|to move in a particular direction with the liquid in which one is floating}}
-* Assamese: {{t|as|উট}}
-* Dutch: {{t+|nl|meedrijven}}
-* Finnish: {{t+|fi|lipua}}
-* French: {{t+|fr|flotter}}
-* German: {{t+|de|treiben}}
-* Hungarian: {{t+|hu|sodródik}}, {{t+|hu|úszik}}
-{{trans-mid}}
-* Lithuanian: {{t+|lt|plaukti|impf}}
-* Norman: {{t|nrf|fliotter}}
-* Russian: {{t+|ru|плыть|impf}}, {{t+|ru|дре́йфовать|impf}} {{qualifier|of a ship}}
-* Serbo-Croatian: {{t|sh|odplutati}}, {{t+|sh|ploviti}}
-* Spanish: {{t+|es|flotar}}
-* Vietnamese: {{t+|vi|trôi}}
-{{trans-bottom}}
-
 {{trans-top|to move in a fluid manner}}
 * Dutch: {{t+|nl|vloeien}}
 * Finnish: {{t+|fi|lipua}}, {{t+|fi|leijua}}
@@ -181,10 +191,14 @@ From {{inh|en|enm|floten}}, from {{inh|en|ang|flotian|t=to float}}, from {{der|e
 * Spanish: {{t+|es|flotar}}
 {{trans-bottom}}
 
-{{trans-top|to drift aimlessly}}
-* Maori: {{t|mi|whakatairangi}}
+{{trans-top|to propose for consideration}}
+* Dutch: {{t|nl|te water laten}}, {{t+|nl|voorstellen}}
+* Finnish: {{t+|fi|ehdottaa}}, {{t+|fi|heittää}}
+* German: {{t+|de|vorschlagen}}
 {{trans-mid}}
-* Serbo-Croatian: {{t+|sh|muvati se}}, {{t+|sh|tumarati}}, {{t|sh|besciljno se kretati}}, {{t+|sh|motati se}}
+* Hungarian: {{t+|hu|felvet}}, {{t+|hu|javasol}}
+* Japanese: {{t+|ja|浮かぶ|tr=ukabu}}
+* Serbo-Croatian: {{t+|sh|predložiti}}, {{t+|sh|baciti}}
 {{trans-bottom}}
 
 {{trans-top|to automatically adjust a parameter as related parameters change}}
@@ -200,16 +214,6 @@ From {{inh|en|enm|floten}}, from {{inh|en|ang|flotian|t=to float}}, from {{der|e
 {{trans-mid}}
 * Norman: {{t|nrf|fliotter}}
 * Swedish: {{t+|sv|flyta}}
-{{trans-bottom}}
-
-{{trans-top|to propose for consideration}}
-* Dutch: {{t|nl|te water laten}}, {{t+|nl|voorstellen}}
-* Finnish: {{t+|fi|ehdottaa}}, {{t+|fi|heittää}}
-* German: {{t+|de|vorschlagen}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|felvet}}, {{t+|hu|javasol}}
-* Japanese: {{t+|ja|浮かぶ|tr=ukabu}}
-* Serbo-Croatian: {{t+|sh|predložiti}}, {{t+|sh|baciti}}
 {{trans-bottom}}
 
 {{trans-top|to extend a short-term loan to}}
