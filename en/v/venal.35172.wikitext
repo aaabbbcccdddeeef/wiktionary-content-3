@@ -43,11 +43,12 @@ Do not confuse venal behavior (bribery/corruption) with [[venial]] behavior (mil
 
 =====Translations=====
 {{trans-top|for sale, available for a price}}
+* Catalan: {{t|ca|venal}}
 * Finnish: {{t|fi|myytävänä}}
 * French: {{t+|fr|vénal}}
-* Greek: {{t+|el|παραδόπιστος|m}}, {{t+|el|αργυρώνητος|m}}, {{t+|el|εξαγοράσιμος|m}}
+* Greek: {{t+|el|παραδόπιστος}}, {{t+|el|αργυρώνητος}}, {{t+|el|εξαγοράσιμος}}
 {{trans-mid}}
-* Latin: {{t|la|vēnālis}}, {{t|la|nummarius|m}}
+* Latin: {{t|la|vēnālis}}, {{t|la|nummarius}}
 * Spanish: {{t+|es|venal}}
 * Swedish: {{t+|sv|fal}}
 {{trans-bottom}}
@@ -59,8 +60,8 @@ Do not confuse venal behavior (bribery/corruption) with [[venial]] behavior (mil
 * Georgian: {{t|ka|ანგარებიანი}}, {{t|ka|მოსყიდული}}, {{t|ka|მექრთამე}}, {{t|ka|დაქრთამული}}
 * German: {{t+|de|käuflich}}
 {{trans-mid}}
-* Greek: {{t+|el|αργυρώνητος|m}}, {{t|el|δωροδοκούμενος|m}}
-* Latin: {{t|la|venalis|m|f}}, {{t|la|venale|n}}, {{t|la|venale|n}}
+* Greek: {{t+|el|αργυρώνητος}}, {{t|el|δωροδοκούμενος}}
+* Latin: {{t|la|venalis}}, {{t|la|venale}}
 * Russian: {{t+|ru|прода́жный}}
 * Spanish: {{t+|es|venal}}
 * Swedish: {{t|sv|mutbar}}, {{t+|sv|besticklig}}
@@ -68,17 +69,48 @@ Do not confuse venal behavior (bribery/corruption) with [[venial]] behavior (mil
 
 {{trans-top|corrupt, mercenary}}
 * French: {{t+|fr|vénal}}
-* Greek: {{t+|el|παραδόπιστος|m}}, {{t+|el|αργυρώνητος|m}}
+* Greek: {{t+|el|παραδόπιστος}}, {{t+|el|αργυρώνητος}}
 * Italian: {{t+|it|venale}}
-* Latin: {{t|la|venalis|m|f}}, {{t|la|venale|n}}, {{t|la|nummarius|m}}, {{t|la|nummaria}}, {{t|la|nummarium}}
+* Latin: {{t|la|venalis}}, {{t|la|venale}}, {{t|la|nummarius}}, {{t|la|nummaria}}, {{t|la|nummarium}}
 {{trans-mid}}
-* Polish: {{t+|pl|prostytutka|m|f}}
+* Polish: {{t+|pl|prostytutka}}
 * Spanish: {{t+|es|venal}}
 * Swedish: {{t+|sv|korrumperad}}, {{t+|sv|korrupt}}
 {{trans-bottom}}
 
 ===Anagrams===
 * {{anagrams|en|a=aelnv|Alven|Levan|elvan|levan|navel}}
+
+----
+
+==Catalan==
+
+===Pronunciation===
+* {{ca-IPA}}
+
+===Etymology 1===
+{{af|ca|vena|-al}}
+
+====Adjective====
+{{ca-adj|mf}}
+
+# {{l|en|venal}}, [[venous]]
+
+===Etymology 2===
+Borrowed from {{bor|ca|la|vēnālis|t=for sale}}, from {{m|la|vēnum|t=something for sale}}.
+
+====Adjective====
+{{ca-adj|mf}}
+
+# [[for sale]], [[sellable]]
+# {{l|en|venal}} {{gloss|willing to take bribes}}
+#: {{syn|ca|subornable}}
+
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
 
 ----
 
@@ -105,6 +137,9 @@ Borrowed from {{bor|es|la|vēnālis|t=for sale}}, from {{m|la|vēnum|t=something
 {{es-adj|pl=venales}}
 
 # {{l|en|venal}}, [[corruptible]]
-# [[sellable]]
+# [[for sale]], [[sellable]]
+
+===Further reading===
+* {{R:DRAE}}
 
 [[Category:Spanish 2-syllable words]]
