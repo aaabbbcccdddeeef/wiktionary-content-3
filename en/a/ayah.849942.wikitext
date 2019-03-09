@@ -4,17 +4,16 @@
 * {{IPA|/aɪə/|lang=en}}
 
 ===Etymology 1===
-From various Indian languages (e.g. {{etyl|hi|-}} {{m|hi||आया|dry nurse, nanny}}), after {{etyl|pt|en}} {{m|pt|aia||nurse, governess}}, feminine of {{m|pt|aio||tutor}}, possibly from {{etyl|la|en}} {{m|la|avia||grandmother}}.
+From various Indian languages (e.g. {{der|en|hi|आया||dry nurse, nanny}}), from {{der|en|pt|aia||nurse, governess}}, feminine of {{m|pt|aio||tutor}}, possibly from [[w:Latin language|Latin]] {{m|la|avia||grandmother}}.
 
 ====Noun====
 {{en-noun}}
 
-# A native female servant or [[maid]], especially working for Europeans in South Asia.
-#* '''1888''', Rudyard Kipling, ‘Watches of the Night’, ''Plain Tales from the Hills'', Folio 2005, p. 59:
-#*: She manufactured the Station scandal, and—talked to her '''''ayah'''''.
+# A [[native]] [[female]] [[servant]] or [[maid]], especially working for Europeans in South Asia.
+#* {{quote-book|year=1888|author=Rudyard Kipling|authorlink=Rudyard Kipling|chapter=[[w:Watches of the Night|Watches of the Night]]|title=[[w:Plain Tales from the Hills|Plain Tales from the Hills]]|genre=fiction|text=She manufactured the Station scandal, and talked to her '''''ayah'''''.|lang=en}}
 
-====See also====
-{{Wikisource1911Enc Citation|Ayah}}
+=====See also=====
+* {{l|en|amah}}
 
 ===Etymology 2===
 Borrowed from {{bor|en|ar|آيَة||sign, token}}.
@@ -22,7 +21,10 @@ Borrowed from {{bor|en|ar|آيَة||sign, token}}.
 ====Noun====
 {{en-noun|s|ayat}}
 
-# A verse in the Quran.
+# A [[verse]] in the [[Quran]].
+
+=====Related terms=====
+* {{l|en|ayat}}
 
 =====Translations=====
 {{trans-top|A verse in the Quran.}}
@@ -39,61 +41,85 @@ Borrowed from {{bor|en|ar|آيَة||sign, token}}.
 ===Anagrams===
 * {{anagrams|en|a=aahy|Haya|haya}}
 
+===Further reading===
+{{Wikisource1911Enc Citation|Ayah}}
+* {{pedia|Āyah}}
+* {{pedia|ayah (disambiguation)}}
+
 ----
 
 ==Indonesian==
+{{wp|lang=id}}
 
-===Etymology 1===
-From {{inh|id|ms|ayah|t=[[father]]}}, from {{der|id|pi|ayya|t=[[gentleman]], [[honourable]]}}, from {{der|id|sa|आर्य}}.
+===Etymology===
+From {{inh|id|ms|ayah|t=[[father]]}}, from {{der|id|pi|ayya|t=[[gentleman]], [[honourable]]}}, from {{der|id|sa|आर्य}}, from {{der|id|inc-pro|*áryas}}, from {{der|id|iir-pro|*áryas}}.
 
-====Pronunciation====
+===Pronunciation===
 * {{IPA|/a.jah/|lang=id}}
 * {{hyphenation|a|yah|lang=id}}
 
-====Noun====
+===Noun===
 {{id-noun}}
-# [[father]] (male parent)
+
+# {{lb|id|formal}} [[father]] {{gloss|male parent}}
 
 ====Synonyms====
 * {{l|id|bapak}}
 
-===Etymology 2===
-From {{bor|id|hi|आया}}, from {{der|id|pt|aia}}.
+====Derived terms====
+{{id-der|lang=id|340|40}}
 
-====Pronunciation====
-* {{IPA|/a.jah/|lang=id}}
-* {{hyphenation|a|yah|lang=id}}
-
-====Noun====
-{{head|id|noun}}
-# {{lb|id|Malaysia}} [[nurse]] [[maid]]
-
-===See also===
-* [[bung]]
+====See also====
+* {{l|id|bung}}
 
 ===Further reading===
 * {{R:KBBI Daring}}
+
 ----
 
 ==Malay==
 
 ===Pronunciation===
-* {{IPA|/ajah/|lang=ms}}
+* {{IPA|/a.jah/|lang=ms}}
 * {{rhymes|ajah|jah|ah|lang=ms}}
 
-===Noun===
-{{head|ms|noun}}
+===Etymology 1===
+{{wp|lang=ms}}
+From {{der|ms|pi|ayya|t=[[gentleman]], [[honourable]]}}, from {{der|ms|sa|आर्य}}, from {{der|ms|inc-pro|*áryas}}, from {{der|ms|iir-pro|*áryas}}.
 
-# {{l|en|father}} (male parent)
+====Noun====
+{{ms-noun|j=ايه}}
 
-====Synonyms====
+# {{lb|ms|formal|polite}} [[father]] {{gloss|male parent}}
+#: {{uxi|ms|'''ayah''' angkat|foster '''father'''}}
+#: {{uxi|ms|'''ayah''' tiri|step'''father'''}}
+
+=====Synonyms=====
 * {{l|ms|bapa}} ({{l|ms|bapanda}}, {{l|ms|bapai}}, {{l|ms|bapak}}, {{l|ms|bapang}}, {{l|ms|baba}}, {{l|ms|papa}})
 * {{l|ms|abah}} ({{l|ms|aba}}, {{l|ms|bah}})
 * {{l|ms|rama}}
 
-====Derived terms====
-* {{l|ms|ayahanda}}
-* {{l|ms|aya}} (shortened)
-* {{l|ms|yah}} (shortened)
+=====Derived terms=====
+{{ms-der|340|340+221|40|ayahanda}}
+
+===Etymology 2===
+{{wp|Amah (occupation)}}
+Borrowed from {{bor|ms|hi|आया}}, from {{der|ms|pt|aia}}.
+
+====Noun====
+{{ms-noun|j=ايه}}
+
+# {{lb|ms|dated}} [[nursemaid]], usually one of [[Indian]] ancestry
+
+=====Related terms=====
+* {{l|ms|amah}}
+
+=====See also=====
+* {{l|ms|pengasuh|gloss=[[caretaker]]}}
+* {{l|ms|pembantu rumah|gloss=[[domestic worker]]}}
+
+===Further reading===
+* {{R:KD4}}
+* {{R:PRPM}}
 
 [[Category:ms:Family]]
