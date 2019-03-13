@@ -10,9 +10,19 @@ From {{suffix|associate|ive|lang=en}}.
 ===Adjective===
 {{en-adj}}
 
-# 
-#:{{ux|en|Awk's '''associative''' arrays may be indexed by strings.}}
-#:{{ux|en|'''Associative''' memories were once given considerable attention.}}
+# Pertaining to, resulting from, or characterised by [[association]]; capable of associating; tending to associate or unite.
+#* '''1998''', Kazimierz Zieliński, ''Pairing, Continuity, Contingency - What's the Difference'', Anna Neugebauer (editor), ''Macromolecular Interplay in Brain '''Associative''' Mechanisms: Proceedings of the International School of Biocybernetics'', World Scientific, [https://books.google.com.au/books?id=vQGJkpdPuKwC&pg=PA63&dq=%22associative%22&hl=en&sa=X&ved=0ahUKEwjG_OvZnJvbAhUExWMKHe6LDIgQ6AEIpgIwLQ#v=onepage&q=%22associative%22&f=false page 63],
+#*: At present conditioning is viewed as a special case of '''associative''' learning which provides an animal (and human being alike) with die ability to discover, memorize, retrieve, and use relationships between signals and reinforcers and also to control rewards and aversive events.
+# {{lb|en|algebra|of a [[binary operator]] <math>*</math>}} Such that, for any [[operand]]s <math>a, b</math> and <math>c</math>, <math>(a * b) * c = a * (b * c)</math>; {{lb|en|of a [[ring]], etc.}} whose [[multiplication]] operation is associative.
+#* '''2000''', Freddy Van Oystaeyen, ''Algebraic Geometry for '''Associative''' Algebras'', Marcel Dekker, [https://books.google.com.au/books?id=0XBJwWI8nSkC&pg=PA235&dq=%22associative%22&hl=en&sa=X&ved=0ahUKEwjG_OvZnJvbAhUExWMKHe6LDIgQ6AEI8AEwJA#v=onepage&q=%22associative%22&f=false page 235],
+#*: Perhaps it is an advantage of the "'''associative''' algebraic geometry" we have tried to develop in foregoing chapters that it is independent of braidings and further generalizations because it will remain valid as long as the corresponding "function"-rings constructed in these theories are '''associative''' algebras.
+#* '''2006''', Ibrahim Assem, Daniel Simson, Andrzej Skowroński, ''Elements of the Representation Theory of '''Associative''' Algebras, 1: Techniques of Representation Theory'', {{w|Cambridge University Press}}, [https://books.google.com.au/books?id=ayNHpi3tYhQC&pg=PR7&dq=%22associative%22&hl=en&sa=X&ved=0ahUKEwjG_OvZnJvbAhUExWMKHe6LDIgQ6AEIuQIwMA#v=onepage&q=%22associative%22&f=false page vii],
+#*: It is now generally accepted that the representation theory of '''associative''' algebras traces its origin to Hamilton's description of the complex numbers by pairs of real numbers.
+#* '''2014''', Miguel Cabrera García, Ángel Rodríguez Palacios, ''Non-'''Associative''' Normed Algebras, Volume 1: The Vidav–Palmer and Gelfand-Naimark Theorems'', {{w|Cambridge University Press}}, [https://books.google.com.au/books?id=NacdBAAAQBAJ&pg=PA1&dq=%22associative%22&hl=en&sa=X&ved=0ahUKEwjG_OvZnJvbAhUExWMKHe6LDIgQ6AEIwwEwHA#v=onepage&q=%22associative%22&f=false page 1],
+#*: In this section we develop the basic theory of normed algebras, putting special emphasis on the case of complete normed unital '''associative''' complex algebras.
+# {{lb|en|computing}} Addressable by a key more complex than an integer index.
+#: {{ux|en|Awk's '''associative''' arrays may be indexed by strings.}}
+#: {{ux|en|'''Associative''' memories were once given considerable attention.}}
 
 ====Antonyms====
 * {{l|en|antiassociative}}
