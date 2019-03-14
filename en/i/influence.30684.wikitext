@@ -52,7 +52,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{m|fro|influence||emanation from the
 * Arabic: {{t|ar|نَفُوذ|m}}
 * Belarusian: {{t|be|уплы́ў|m|sc=Cyrl}}, {{t|be|ўплыў|m|sc=Cyrl}}
 * Breton: {{t+|br|levezon|f}}
-* Bulgarian: {{t+|bg|влияние|n|sc=Cyrl}}
+* Bulgarian: {{t+|bg|влия́ние|n}}
 * Catalan: {{t+|ca|influència|f}}
 * Chinese:
 *: Cantonese: {{t|yue|影響|tr=jing2 hoeng2|sc=Hani}}
@@ -73,7 +73,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{m|fro|influence||emanation from the
 * Italian: {{t+|it|influenza|f}}, {{t+|it|ascendente|m}}
 {{trans-mid}}
 * Japanese: {{t+|ja|影響力|tr=えいきょうりょく, eikyōryoku}}
-* Korean: {{t+|ko|영향력|tr=yeong-hyangryeok}}, {{t+|ko|영향}}
+* Korean: {{t+|ko|영향력}}, {{t+|ko|영향}}
 * Latvian: {{t|lv|ietekme|f}}, {{t|lv|iedarbība}}, {{t|lv|iedarbe|f}}
 * Macedonian: {{t|mk|влијание|n}}
 * Malagasy: {{t+|mg|fianjadiana}}
@@ -152,7 +152,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{m|fro|influence||emanation from the
 * German: {{t+|de|Einfluss|m}}
 {{trans-mid}}
 * Greek: {{t+|el|επιρροή|f}}
-* Korean: [[영향]] {{qualifier|yeong-hyang}}
+* Korean: {{t+|ko|영향}}
 * Slovene: {{t|sl|vpliv|m}}
 {{trans-bottom}}
 
@@ -170,14 +170,13 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{m|fro|influence||emanation from the
 
 {{checktrans-top}}
 * Arabic: {{t-check|ar|تأثير}}
-* {{ttbc|bg}}: [[влияние]] {{qualifier|vlijanie}} {{g|n}}
 * Hebrew: {{t+check|he|השפעה|f}}
-* {{ttbc|io}}: [[influo]] +, [[influeso]] -
+* {{ttbc|io}}: {{t-check|io|influo}}, {{t-check|io|influeso}}
 {{trans-mid}}
 * Italian: {{t-check|it|Influenza}}
 * Lithuanian: {{t-check|lt|įtaka|f}}
 * Swedish: {{t+check|sv|inflytande|n}}
-* {{ttbc|te}}: [[ప్రభావము]] (p''rabhaavamu'')
+* {{ttbc|te}}: {{t-check|te|ప్రభావము}}
 {{trans-bottom}}
 
 ===Verb===
@@ -227,13 +226,14 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{m|fro|influence||emanation from the
 * Russian: {{t+|ru|влия́ть|impf}}
 * Spanish: {{t+|es|influir}}, {{t+|es|influenciar}}
 * Swedish: {{t+|sv|påverka}}, {{t+|sv|influera}}
-* Ukrainian: {{t|uk|впливати}}
+* Ukrainian: {{t|uk|вплива́ти|impf}}
 * Vietnamese: {{t+|vi|ảnh hưởng}}
 * Volapük: {{t+|vo|flunön}}
 * Yiddish: {{t|yi|באַאײַנפֿלוסן|sc=Hebr}}
 {{trans-bottom}}
 
 {{trans-top|intransitive: to exert influence}}
+* Belarusian: {{t|be|уплыва́ць|impf}}
 * Catalan: {{t+|ca|influir}}
 * Chinese:
 *: Mandarin: {{t+|cmn|影響|sc=Hani}}, {{t+|cmn|影响|tr=yǐngxiǎng|sc=Hani}}
@@ -248,7 +248,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}} {{m|fro|influence||emanation from the
 * Russian: {{t+|ru|влия́ть|impf}}, {{t+|ru|возде́йствовать|impf}}, {{t+|ru|де́йствовать|impf}}
 * Spanish: {{t+|es|influir}}
 * Swedish: {{t+|sv|påverka}}, {{t+|sv|influera}}
-* Ukrainian: {{t|uk|впливати}}
+* Russian: {{t+|ru|влия́ть|impf}}
 {{trans-bottom}}
 
 {{checktrans-top}}
