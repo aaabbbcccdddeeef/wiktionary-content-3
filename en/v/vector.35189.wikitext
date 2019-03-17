@@ -25,7 +25,7 @@ The use of the term “vector” in mathematics was introduced by {{w|William Ro
 #* {{quote-book|lang=en|passage=As examples of '''vector''' quantities may be mentioned the distance between any two given points, a velocity, a force, an acceleration, angular velocity, intensity of magnetization flux of heat.|title=[[S:The New Student's Reference Work/Vector|The New Student's Reference Work]]|year=1914}}
 # {{lb|en|mathematics}} An [[order]]ed [[tuple]] representing a [[directed]] [[quantity]] or the {{soplink|signed|difference}} between two points.
 # {{lb|en|mathematics}} Any member of a ([[generalize]]d) [[vector space]].
-#: ''The '''vectors''' in <math>{\mathbb Q}[X]</math> are the single-variable polynomials with rational coefficients: one is <math>\textstyle x^{42}+\frac1{137}x-1</math>.''
+#: {{ux|en|The '''vectors''' in <math>{\mathbb Q}[X]</math> are the single-variable polynomials with rational coefficients: one is <math>\textstyle x^{42}+\frac1{137}x-1</math>.}}
 # {{lb|en|aviation}} A chosen [[course]] or [[direction]] for [[motion]], as of an [[aircraft]].
 # {{senseid|en|carrier of a disease-causing agent}}{{lb|en|epidemiology}} A [[carrier]] of a [[disease]]-causing [[agent]].
 # {{lb|en|sociology}} A person or entity that passes along an [[urban legend]] or other [[meme]].
@@ -35,6 +35,10 @@ The use of the term “vector” in mathematics was introduced by {{w|William Ro
 # {{lb|en|programming}} A one-dimensional [[array]].
 #* '''2004''', Jesse Liberty, ‎Bradley L. Jones, ''Sams Teach Yourself C++ in 21 Days'' (page 694)
 #*: To create a '''vector''' of students in a class, you will want the vector to be large enough {{...}}
+# {{lb|en|computer graphics|attributive}} A [[graphical]] [[representation]] using [[outline]]s; [[vector graphics]].
+#: {{coordinate terms|en|raster}}
+#: {{ux|en|a '''vector''' image}}
+#: {{ux|en|'''vector''' graphics}}
 # {{lb|en|molecular biology}} A [[DNA]] [[molecule]] used to carry [[genetic]] information from one [[organism]] into another.
 
 ====Usage notes====
