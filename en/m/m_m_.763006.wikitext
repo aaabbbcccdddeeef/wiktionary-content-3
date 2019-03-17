@@ -25,7 +25,7 @@
 {{rfc-header|Abbreviation}}
 {{head|nb|abbreviation}}
 
-# {{abbreviation of|med mer|lang=nb|dot=}}; = {{l|en|etc.}}, {{l|en|et cetera}}
+# {{abbreviation of|med mer|lang=nb|nodot=1}}; = {{l|en|etc.}}, {{l|en|et cetera}}
 
 ===References===
 * {{R:Dokpro|lang=nb}}
@@ -36,7 +36,7 @@
 ===Abbreviation===
 {{head|nn|abbreviation}}
 
-# {{abbreviation of|med meir|lang=nn|dot=}}; = {{l|en|etc.}}, {{l|en|et cetera}}
+# {{abbreviation of|med meir|lang=nn|nodot=1}}; = {{l|en|etc.}}, {{l|en|et cetera}}
 
 ===References===
 * {{R:Dokpro|lang=nn}}
