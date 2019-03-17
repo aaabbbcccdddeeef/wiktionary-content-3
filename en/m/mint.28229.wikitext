@@ -456,18 +456,24 @@ From {{etyl|enm|en}} {{m|enm|minten}}, from {{etyl|ang|en}} {{m|ang|myntan||to m
 ===Conjunction===
 {{head|hu|conjunction}}
 
-# {{lb|hu|comparison}} [[than]], [[as]] ... [[as]]
-#: {{ux|hu|A kastély nagyobb, '''mint''' a kutyaház.|The castle is bigger '''than''' the dog-house.|inline=1}}
-#: {{ux|hu|Olyan nagy a házam, '''mint''' a tiéd.|My house is '''as''' big '''as''' yours.|inline=1}}
-# [[as]]
-#: {{ux|hu|János '''mint''' zsűritag vett részt az eseményen.|János took part in the event '''as''' a member of the jury.|inline=1}}
+# {{lb|hu|comparison of things with a quality present at different degrees}} {{l|en|than}
+#: {{uxi|hu|A kastély nagyobb, '''mint''' a kutyaház.|The castle is bigger '''than''' the dog-house.}}
+#: {{syn|hu|-nál|-nél|-tól|-től|q3=dialectal|q4=dialectal}}
+# {{lb|hu|comparison of things with a quality present at the same degree}} {{l|en|as}} …… {{l|en|as}}
+#: {{uxi|hu|Olyan nagy a házam, '''mint''' a tiéd.|My house is '''as''' big '''as''' yours.}}
+#: {{syn|hu|amint|akár|akárcsak|q2=literary|q3=literary}}
+# {{lb|hu|comparison of things with some similar quality}} {{l|en|like}}
+#: {{uxi|hu|Olyan ez a ház, '''mint''' egy kastély.|This house is '''like''' a castle.}}
+#: {{syn|hu|amint|akár|akárcsak|q2=literary|q3=literary}}
+# {{lb|hu|somewhat|formal|pointing at a comparable feature at a different place or occasion}} {{l|en|as}}
+#: {{uxi|hu|Mint mondtam, ő nem tud ma eljönni.|'''As''' I said, he cannot come today.}}
+#: {{syn|hu|amint|ahogy|ahogyan}}
+# {{lb|hu|stating someone's capacity in a situation}} {{l|en|as}}
+#: {{uxi|hu|János '''mint''' zsűritag vett részt az eseményen.|János took part in the event '''as''' a member of the jury.}}
+#: {{syn|hu|-ként}}
 
 ====Usage notes====
 In the context of comparison, ''mint'' starts a new clause, so a comma is needed before it.
-
-====Synonyms====
-* {{sense|than}} {{l|hu|-nál}}/[[-nél]], [[-tól]]/[[-től]]
-* {{sense|as}} {{l|hu|-ként}}
 
 ====Derived terms====
 * {{l|hu|amint}}
