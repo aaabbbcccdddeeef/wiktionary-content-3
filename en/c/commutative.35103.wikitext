@@ -6,11 +6,11 @@ From {{der|en|fr|commuter||to substitute or switch}} + {{af|en|-ative|t1=tending
 ===Adjective===
 {{en-adj|-}}
 
-# {{lb|en|algebra|of an [[algebraic structure]]}} Having a commutative [[operation]].
-# {{lb|en|mathematics|of a [[diagram]] of [[morphism]]s}} Such that any two sequences of morphisms with the same initial and final positions [[compose]] to the same morphism.
 # {{lb|en|mathematics|of a [[binary]] [[operation]]}} Such that the [[order]] in which the [[operand]]s are taken does not affect their [[image]] under the operation.
 #: ''Addition on the real numbers is '''commutative''' because for any real numbers <math>s,t</math>, it is true that <math>s+t=t+s</math>.
 #: ''Addition and multiplication are '''commutative''' operations but subtraction and division are not.''
+# {{lb|en|algebra|of an [[algebraic structure]]}} Having a commutative [[operation]].
+# {{lb|en|mathematics|of a [[diagram]] of [[morphism]]s}} Such that any two sequences of morphisms with the same initial and final positions [[compose]] to the same morphism.
 # Relating to [[exchange]]; [[interchangeable]].
 
 ====Synonyms====
@@ -34,18 +34,6 @@ From {{der|en|fr|commuter||to substitute or switch}} + {{af|en|-ative|t1=tending
 |lang=en}}
 
 ====Translations====
-{{trans-top|algebra: having a commutative operation}}
-* Catalan: {{t|ca|commutatiu}}
-* Czech: {{t|cs|komutativní|m}}
-* Finnish: {{t+|fi|kommutatiivinen}}, {{t|fi|vaihdannainen}}
-* German: {{t+|de|kommutativ}}
-{{trans-mid}}
-* Portuguese: {{t+|pt|comutativo}}
-* Romanian: {{t+|ro|comutativ}}
-* Tagalog: {{t|tl|palitin}}
-* Turkish: {{t|tr|değişmeli}}
-{{trans-bottom}}
-
 {{trans-top|mathematics: such that order of operands does not affect result}}
 * Catalan: {{t|ca|commutatiu}}
 * Czech: {{t|cs|komutativní|m}}
@@ -57,6 +45,18 @@ From {{der|en|fr|commuter||to substitute or switch}} + {{af|en|-ative|t1=tending
 {{trans-mid}}
 * Icelandic: {{t|is|víxlinn|m}}
 * Polish: {{t+|pl|przemienny|m}}
+* Portuguese: {{t+|pt|comutativo}}
+* Romanian: {{t+|ro|comutativ}}
+* Tagalog: {{t|tl|palitin}}
+* Turkish: {{t|tr|değişmeli}}
+{{trans-bottom}}
+
+{{trans-top|algebra: having a commutative operation}}
+* Catalan: {{t|ca|commutatiu}}
+* Czech: {{t|cs|komutativní|m}}
+* Finnish: {{t+|fi|kommutatiivinen}}, {{t|fi|vaihdannainen}}
+* German: {{t+|de|kommutativ}}
+{{trans-mid}}
 * Portuguese: {{t+|pt|comutativo}}
 * Romanian: {{t+|ro|comutativ}}
 * Tagalog: {{t|tl|palitin}}
