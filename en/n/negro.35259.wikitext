@@ -3,7 +3,7 @@
 [[File:WEB DuBois 1918.jpg|thumb|The term '''Negro''' was advanced by American polymath {{w|W. E. B. Du Bois}}.]]
 
 ===Etymology===
-Borrowed from {{bor|en|es|-}} and {{bor|en|pt|negro||black}}, from {{der|en|la|nigrum}}, masculine accusative case of {{m|la|niger||black}}, of uncertain origin<ref>{{R:De Vaan 2008}}</ref>, but possibly from {{etyl|ine-pro|en}} {{m|ine-pro|*nókʷts||night}}.<ref> Watkins, Calvert, ed., The American Heritage Dictionary of Indo-European Roots, 2nd ed., Houghton Mifflin Co., 2000. </ref>
+Borrowed from {{bor|en|es|-}} and {{bor|en|pt|negro|t=black}}, from {{der|en|la|nigrum}}, masculine accusative case of {{m|la|niger|t=black}}, of uncertain origin<ref>{{R:De Vaan 2008}}</ref>, but possibly from {{der|en|ine-pro|*nókʷts|t=night}}.<ref> Watkins, Calvert, ed., The American Heritage Dictionary of Indo-European Roots, 2nd ed., Houghton Mifflin Co., 2000. </ref>
 
 ===Pronunciation===
 * {{a|GA}} {{IPA|/ˈniɡɹoʊ/|lang=en}}
@@ -24,8 +24,7 @@ Before 1966, {{m|en||negro}} was accepted and in fact the usual endonym – cons
 See also [[w:African American#Terms no longer in common use|discussion at Wikipedia]].
 
 ====Related terms====
-* {{l|en|negress}}
-* {{l|en|negroid}}
+{{rel2|lang=en|negress|negroid}}
 
 ====Translations====
 {{trans-top|offensive: relating to the black ethnicity}}
@@ -109,6 +108,10 @@ See also [[w:African American#Terms no longer in common use|discussion at Wikipe
 
 ==Esperanto==
 
+===Pronunciation===
+* {{IPA|/ˈneɡro/|lang=eo}}
+* {{rhymes|eɡro|lang=eo}}
+
 ===Noun===
 {{eo-head}}
 
@@ -126,14 +129,14 @@ See also [[w:African American#Terms no longer in common use|discussion at Wikipe
 |pageurl=http://books.google.com/books?id=BBASAAAAIAAJ&pg=PA89
 |passage=“Ses centojn da '''negroj''' mi ĉe Senegal<br />Akiris je prezo profita,<br />Malmola viando, simila al ŝton’,<br />La membroj — el ŝtalo forĝita.”
 |translation=“600 '''negros''' at Senegal I acquired at a profitable price, hard meat, like stone, the members - from steel forged.”}}
-
-====Hyponyms====
-* {{l|eo|negrino|gloss=[[negress]]}}
+#: {{hyponyms|eo|negrino}}
 
 ====Derived terms====
-* {{l|eo|negreco|gloss=[[negritude]]}}
-* {{l|eo|negristo|gloss=a [[slave]] [[merchant]] of Negros}}
-* {{l|eo|negroida|gloss=[[negroid]]}}
+{{der3
+|{{l|eo|negreco|t=[[negritude]]}}
+|{{l|eo|negristo|t=a [[slave]] [[merchant]] of Negros}}
+|{{l|eo|negroida|t=[[negroid]]}}
+|lang=eo}}
 
 [[Category:eo:Ethnicity]]
 
@@ -165,15 +168,14 @@ From {{inh|gl|roa-opt|negro}}, from {{inh|gl|la|nigrum}}, accusative of {{m|la|n
 # [[black]] person, usually black [[man]], {{l|en|negro}}
 
 ====Related terms====
-* {{l|ia|negra}}
-* {{l|ia|negre}}
+{{rel2|lang=ia|negra|negre}}
 
 ----
 
 ==Italian==
 
 ===Alternative forms===
-* {{l|it|nero}}
+* {{alter|it|nero}}
 
 ===Etymology===
 From {{inh|it|la|nigrum}}, accusative form of {{m|la|niger}}.
@@ -194,14 +196,10 @@ From {{inh|it|la|nigrum}}, accusative form of {{m|la|niger}}.
 # {{lb|it|now|offensive|ethnic slur|now|vulgar}} [[nigger]]
 
 ===Related terms===
-* {{l|it|negriero}}
-* {{l|it|negritudine}}
-* {{l|it|negroide}}
-* {{l|it|nero}}
+{{rel4|lang=it|negriero|negritudine|negroide|nero}}
 
 ===Anagrams===
-* {{l|it|regno}}, {{l|it|regnò}}
-* {{l|it|rogne}}
+* {{anagrams|it|regno|regnò|rogne}}
 
 [[Category:it:Colors]]
 
@@ -222,13 +220,11 @@ From {{inh|roa-opt|la|nigrum}}, accusative of {{m|la|niger}}.
 #* {{roa-opt-cite-cantigas|E|68|http://www.pbm.com/~lindahl/cantigas/facsimiles/E/172small.gif}}
 #*: {{...}} chus '''negro''' ca pez.
 #*:: {{...}} '''black'''er than pitch.
-
-====Synonyms====
-* {{l|roa-opt|preto}}
+#: {{syn|roa-opt|preto}}
 
 ====Descendants====
-* Galician: {{l|gl|negro}}
-* Portuguese: {{l|pt|negro}}
+* {{desc|gl|negro}}
+* {{desc|pt|negro}}
 
 ===See also===
 {{table:colors/roa-opt}}
@@ -261,7 +257,7 @@ From {{inh|pt|roa-opt|negro}}, from {{inh|pt|la|nigrum}}, accusative of {{m|la|n
 # {{l|en|black}}; {{l|en|dark-skinned}}
 #: {{syn|pt|[[preto]] {{q|often offensive}}}}
 # {{lb|pt|literary}} {{l|en|dark}} {{gloss|associated with evil}}
-#: {{ux|pt|Cavaleiro '''negro'''.|'''Dark''' knight.}}
+#: {{uxi|pt|Cavaleiro '''negro'''.|'''Dark''' knight.}}
 
 ====Inflection====
 {{pt-adj infl|negr|o|aug=1|dim=1}}
@@ -270,9 +266,7 @@ From {{inh|pt|roa-opt|negro}}, from {{inh|pt|la|nigrum}}, accusative of {{m|la|n
 {{der3|lang=pt|negão|nego|negreiro|negroide|negrume|neguinho}}
 
 ====Related terms====
-* {{l|pt|negritude}}
-* {{l|pt|nigrescente}}
-* {{l|pt|nigro-}}
+{{rel3|lang=pt|negritude|nigrescente|nigro-}}
 
 {{topics|pt|Blacks|Ethnicity|Colors}}
 
@@ -306,7 +300,7 @@ From {{inh|es|la|nigrum}}, accusative of {{m|la|niger}}.
 # {{lb|es|Spain}} [[angry]]
 
 ====Derived terms====
-{{der2|lang=es|title=Diminutives|negrillo|negrito}}
+* {{l|es|negrillo}}, {{l|es|negrito|pos=diminutives}}
 {{der2|lang=es|albinegro|carinegro|{{l|es|cisne negro}}|{{l|es|dejar negro}}|{{l|es|pantera negra}}|{{l|es|perdiz negra}}|{{l|es|poner negro}}}}
 
 ===See also===
