@@ -50,8 +50,8 @@ From {{inh|en|enm|hoke}}, from {{inh|en|ang|hōc}}, from {{inh|en|gem-pro|*hōka
 # {{lb|en|cricket}} a type of [[shot]] played by [[swinging]] the [[bat]] in a [[horizontal]] [[arc]], hitting the ball [[high]] in the air to the [[leg]] side, often played to balls which [[bounce]] around head height
 # {{lb|en|baseball}} a [[curveball]]
 #: {{ux|en|He threw a '''hook''' in the dirt.}}
-# {{lb|en|software}} a [[feature]], definition, or coding that enables future enhancements to happen compatibly or more easily
-#: {{ux|en|We've added "user-defined" codepoints in several places and careful definitions of what to do with unknown message types as '''hooks''' in the standard to enable implementations to be both backward and forward compatible to future versions of the standard.}}
+# {{lb|en|programming}} Part of a system's operation that can be [[intercept]]ed to change or augment its behaviour.
+#: {{ux|en|We've added '''hooks''' to allow undefined message types to be handled with custom code.}}
 # {{lb|en|golf}} a [[golf]] shot that (for the right-handed player) curves unintentionally to the left. See [[draw]], [[slice]], [[fade]]
 # {{lb|en|basketball}} a [[basketball]] shot in which the offensive player, usually turned perpendicular to the basket, gently throws the ball with a sweeping motion of his arm in an upward arc with a follow-through which ends over his head. Also called [[hook shot]].
 # {{lb|en|boxing}} a type of [[punch]] delivered with the arm rigid and partially bent and the fist travelling nearly horizontally [[mesially]] along an [[arc]]
