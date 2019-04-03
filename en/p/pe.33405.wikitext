@@ -5,7 +5,7 @@
 * {{l|en|pei}}, {{l|en|pey}}
 
 ===Etymology===
-From {{etyl|sem-pro|en}} {{m|sem-pro|*pay-||mouth}}.
+From {{bor|en|he|פֵּא|tr=pê}}, from {{der|en|sem-pro|*pay-||mouth}}.
 
 ===Pronunciation===
 * {{IPA|/peɪ/|lang=en}}
@@ -21,7 +21,7 @@ From {{etyl|sem-pro|en}} {{m|sem-pro|*pay-||mouth}}.
 * Finnish: {{t+|fi|pe}}
 * French: {{t+|fr|pé|m}}
 {{trans-mid}}
-* Hebrew: {{t+|he|פֵּא}}
+* Hebrew: {{t+|he|פֵּא|tr=pê}}
 * Malay: {{t|ms|pa}}
 * Yiddish: {{t|yi|פּא|m|f|tr=pey}}
 {{trans-bottom}}
@@ -51,7 +51,7 @@ From {{etyl|sem-pro|en}} {{m|sem-pro|*pay-||mouth}}.
 * {{l|sq|pê}}
 
 ===Etymology===
-* From {{etyl|sqj-pro|sq}} {{m|sqj-pro|*petja}}, from {{etyl|ine-pro|sq}} {{m|ine-pro|*petino}}, from {{m|ine-pro|*pet}} 'to spread out, to extend' (compare English {{m|en|fathom}}). Alternatively from {{etyl|la|sq}} ''[[pannus]]'' 'cloth, rag, garment'; cf. {{cog|el|πανί}}.<ref>{{R:sq:Orel:2000|page=313}}</ref>
+* From {{inh|sq|sqj-pro|*petja}}, from {{inh|sq|ine-pro|*petino-}}, from {{m|ine-pro|*pet-|t=to spread out, to extend}} (compare {{cog|en|fathom}}). Alternatively from {{bor|sq|la|pannus|t=cloth, rag, garment}}; cf. {{cog|el|πανί}}.<ref>{{R:sq:Orel:2000|page=313}}</ref>
 
 * From {{inh|sq|sqj-pro|*pena-}}, from {{der|sq|ine-pro|*(s)penh₁-|gloss=to draw}}.<ref>Stefan Schumacher & Joachim Matzinger, ''Die Verben des Altalbanischen: Belegwörterbuch, Vorgeschichte und Etymologie'' (Wiesbaden: Otto Harrassowitz, 2013), 218.</ref>
 
@@ -74,7 +74,7 @@ From {{etyl|sem-pro|en}} {{m|sem-pro|*pay-||mouth}}.
 ==Annobonese==
 
 ===Etymology===
-From {{etyl|cri|fab}} {{m|cri|pe||father}}, from {{etyl|pt|fab}} {{m|pt|pai||father}}, from {{etyl|roa-opt|fab}} {{m|roa-opt|pay}}, {{m|roa-opt|padre||father}}, from {{etyl|la|fab}} {{m|la|pater|patrem|father}}, from {{etyl|ine-pro|fab}} {{m|ine-pro|*ph₂tḗr||father}}.
+From {{der|fab|cri|pe||father}}, from {{der|fab|pt|pai||father}}, from {{der|fab|roa-opt|pay}}, {{m|roa-opt|padre||father}}, from {{der|fab|la|pater|t=father}}, from {{der|fab|ine-pro|*ph₂tḗr||father}}.
 
 ===Noun===
 {{head|fab|noun}}
@@ -310,7 +310,7 @@ From {{inh|lij|la|per}}, from {{der|lij|ine-pro||*peri}}, derived from the root 
 ==Neapolitan==
 
 ===Etymology===
-From {{etyl|la|nap}} {{m|la|per}}.
+From {{inh|nap|la|per}}.
 
 ===Pronunciation===
 * {{IPA|/pe/|lang=nap}}, {{a|Naples}} {{IPA|/pə/|lang=nap}}
@@ -425,7 +425,7 @@ In [[Rumantsch Grischun]] and [[Sutsilvan]], the plural is {{m|rm|pes}}. In [[Su
 
 ===Etymology===
 {{PIE root|xto|ped}}
-Ultimately from {{etyl|ine-pro|xto}} {{m|ine-pro|*pṓds}}. Compare the nominative/accusative dual form, {{m|xto|peṃ}}, presumably from a {{etyl|ine-toc-pro|xto}} dual *''peine'' (whence also Tocharian B nominative/accusative dual form {{m|txb|paine}}), from an earlier {{m|ine-toc-pro|*pei}}, from the Proto-Indo-European dual {{m|ine-pro|*póde}}, from {{m|ine-pro|*pṓds}}. It is from this dual form in Proto-Tocharian that the singular forms have probably been analogically built. Compare Tocharian B {{m|txb|paiyye}}. <ref>http://www.geocities.ws/protoillyrian/tocharian.html</ref>
+Ultimately from {{inh|xto|ine-pro|*pṓds}}. Compare the nominative/accusative dual form, {{m|xto|peṃ}}, presumably from {{inh|xto|ine-toc-pro|*peine|g=d}} (whence also {{cog|txb|paine}}), from an earlier {{m|ine-toc-pro|*pei}}, from the {{inh|xto|ine-pro|*póde|g=d}}, from {{m|ine-pro|*pṓds}}. It is from this dual form in Proto-Tocharian that the singular forms have probably been analogically built. Compare {{cog|txb|paiyye}}. <ref>http://www.geocities.ws/protoillyrian/tocharian.html</ref>
 
 ===Noun===
 {{head|xto|noun|g=m}}
