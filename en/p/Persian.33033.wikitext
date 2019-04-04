@@ -50,7 +50,7 @@ From {{der|en|enm|percynne}}, from {{der|en|frm|persien}}, from {{der|en|it|pers
 * Bulgarian: {{t|bg|перси́йски|m}}, {{t+|bg|фарси́|m}}
 * Catalan: {{t+|ca|persa|m}}, {{t+|ca|farsi|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|波斯語|sc=Hani}}, {{t+|cmn|波斯语|tr=Bōsīyǔ|sc=Hani}}, {{t|cmn|法爾西語|sc=Hani}}, {{t|cmn|法尔西语|tr=Fà’ěrxīyǔ|sc=Hani}}, {{t|cmn|帕爾西語|sc=Hani}}, {{t|cmn|帕尔西语|tr=Pà’ěrxīyǔ|sc=Hani}} {{qualifier|historical}}
+*: Mandarin: {{t+|cmn|波斯語|sc=Hani}}, {{t+|cmn|波斯语|tr=bōsīyǔ|sc=Hani}}, {{t|cmn|法爾西語|sc=Hani}}, {{t|cmn|法尔西语|tr=fà'ěrxīyǔ|sc=Hani}}, {{t|cmn|帕爾西語|sc=Hani}}, {{t|cmn|帕尔西语|tr=pà'ěrxīyǔ|sc=Hani}} {{qualifier|historical}}
 * Czech: {{t+|cs|perština|f}}
 * Danish: {{t+|da|persisk}}
 * Dutch: {{t+|nl|Perzisch|n}}
@@ -65,15 +65,15 @@ From {{der|en|enm|percynne}}, from {{der|en|frm|persien}}, from {{der|en|it|pers
 * Greek: {{t+|el|περσικά|n-p}}, {{t+|el|φαρσί}}
 *: Ancient: {{t|grc|περσιστί}}
 * Greenlandic: {{t|kl|persiskisut}}
-* Gujarati: {{t+|gu|ફારસી|tr=pharsī|sc=Gujr}}
+* Gujarati: {{t+|gu|ફારસી}}
 * Hebrew: {{t+|he|פרסית|f|tr=parsít}}
-* Hindi: {{t+|hi|फ़ारसी|f|tr=fārsī}}, {{t+|hi|पारसी|f|tr=pārsī}}
+* Hindi: {{t+|hi|फ़ारसी|f}}, {{t+|hi|पारसी|f}}
 * Hungarian: {{t+|hu|perzsa}}
 * Icelandic: {{t+|is|persneska|f}}
 * Irish: {{t|ga|Peirsis |f}}, {{t|ga|Fairsis|f}}
 * Italian: {{t+|it|persiano|m}}
 * Japanese: {{t+|ja|ペルシア語|tr=pérushiago}}
-* Korean: {{t|ko|페르샤어}}
+* Korean: {{t+|ko|페르시아어}}
 * Kumyk: {{t|kum|фарс тил|tr=fars til}}
 * Kurdish: {{t+|ku|farisî}}, {{t+|ku|فارسی|sc=ku-Arab}}
 {{trans-mid}}
@@ -83,7 +83,7 @@ From {{der|en|enm|percynne}}, from {{der|en|frm|persien}}, from {{der|en|it|pers
 * Macedonian: {{t|mk|пе́рсиски|m}}, {{t|mk|фа́рси|m}}
 * Malay: {{t|ms|bahasa Parsi}}
 * Maltese: {{t|mt|Persjan|m|alt=Il-Persjan}}
-* Marathi: {{t|mr|फारसी|f|tr=phārsī|sc=Deva}}, {{t|mr|पर्शियन|f|tr=parśiyana|sc=Deva}}
+* Marathi: {{t|mr|फारसी|f}}, {{t|mr|पर्शियन|f}}
 * Mongolian: {{t|mn|перс хэл|sc=Cyrl}}
 * Navajo: {{t|nv|Béézhąą bizaad}}
 * Nepali: {{t|ne|पर्सियन|tr=parsiyan|sc=Deva}}, {{t|ne|पर्सियन|tr=parsiyan|sc=Deva}}
@@ -156,7 +156,7 @@ From {{der|en|enm|percynne}}, from {{der|en|frm|persien}}, from {{der|en|it|pers
 * Norwegian Bokmål: {{t+|nb|perser|m}}
 * Norwegian Nynorsk: {{t|nn|persar}}
 * Ossetian: {{t-needed|os}}
-* Pashto: {{t|ps|پارسیوان|m|tr=Pârsiwân|sc=ps-Arab}}
+* Pashto: {{t|ps|پارسیوان|m|tr=pârsiwân|sc=ps-Arab}}
 * Persian: {{t+|fa|فارس|tr=fârs}}, {{t+|fa|پارس|tr=pârs}}
 * Polish: {{t+|pl|Pers|m}}
 * Portuguese: {{t+|pt|persa|m|f}}
@@ -207,7 +207,6 @@ From {{der|en|enm|percynne}}, from {{der|en|frm|persien}}, from {{der|en|it|pers
 * Esperanto: {{qualifier|2}} {{t-check|eo|perso}}
 * French: {{qualifier|1,2}} {{t+check|fr|Persan|m}}
 * Gujarati: {{t+check|gu|ફારસી|tr=pharsī|sc=Gujr}} (1)
-* Hindi: {{t+check|hi|फ़ारसी|tr=farsī|sc=Deva}} (1)
 * Indonesian: {{qualifier|2}} {{t-check|id|farsi}}
 {{trans-mid}}
 * Korean: {{t-check|ko|페르샤의|tr=pereusya-ui|sc=Kore}} (2)
@@ -277,7 +276,7 @@ From {{der|en|enm|percynne}}, from {{der|en|frm|persien}}, from {{der|en|it|pers
 * Hindi: {{t+|hi|फ़ारसी}}
 * Hungarian: {{t+|hu|perzsa}}
 * Italian: {{t+|it|persiano}}, {{t+|it|persico}} (today almost only in geographical terms as [[Golfo Persico]])
-* Japanese: {{t+check|ja|ペルシア|tr=Perushia no|alt=ペルシアの|sc=Jpan}}
+* Japanese: {{t+|ja|ペルシア|tr=Perushia no|alt=ペルシアの|sc=Jpan}}
 * Korean: {{t+|ko|페르시아|alt=페르시아의}}
 * Kurdish: {{t-needed|ku}}
 * Latin: {{t+|la|persicus|m}}
@@ -306,7 +305,7 @@ From {{der|en|enm|percynne}}, from {{der|en|frm|persien}}, from {{der|en|it|pers
 * Hawaiian: {{t|haw|Pelekia}}
 * Hungarian: {{t+|hu|perzsa}}
 * Italian: {{t+|it|persiano}}
-* Japanese: {{t-check|ja|ペルシア人|tr=Perushiajin no|alt=ペルシア人の|sc=Jpan}}
+* Japanese: {{t-check|ja|ペルシア人|tr=perushiajin no|alt=ペルシア人の|sc=Jpan}}
 * Latin: {{t+|la|persicus|m}}
 * Polish: {{t+|pl|perski}}
 * Portuguese: {{t+|pt|persa}}, {{t+|pt|pérsico}}
