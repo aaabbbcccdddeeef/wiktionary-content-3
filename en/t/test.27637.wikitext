@@ -41,7 +41,7 @@ From {{inh|en|enm|test}}, {{m|enm|teste}}, borrowed from {{bor|en|fro|test}}, {{
 
 =====Hyponyms=====
 {{checksense|en}}
-{{hyp3|title=Hyponyms of ''test''
+{{col3|en|title=Hyponyms of ''test''
 |acid test
 |babysitter test
 |blood test
@@ -59,16 +59,16 @@ From {{inh|en|enm|test}}, {{m|enm|teste}}, borrowed from {{bor|en|fro|test}}, {{
 |sniff test
 |software test
 |stress test
-|lang=en}}
+}}
 
 =====Derived terms=====
-{{der3|lang=en|{{l|en|foretest}}
-|{{l|en|test case}}
-|{{l|en|test drive}}
-|{{l|en|tester}}
-|{{l|en|test flight}}
-|{{l|en|test run}}
-|{{l|en|test tube}}
+{{der3|en|foretest
+|test case
+|test drive
+|tester
+|test flight
+|test run
+|test tube
 }}
 
 =====Descendants=====
@@ -525,12 +525,12 @@ Borrowed from {{bor|fr|en|test}}, itself from {{der|fr|fro|test}}.
 {{hu-infl-nom|teste|e}}{{hu-pos-etek|test||ei}}
 
 ====Derived terms====
-{{der4|lang=hu
+{{der4|hu
 |testes
 |testi
 |testű
 }}
-{{der4|lang=hu|title=Compound words
+{{der4|hu|title=Compound words
 |forgástest
 |fűtőtest
 |holttest
@@ -543,7 +543,7 @@ Borrowed from {{bor|fr|en|test}}, itself from {{der|fr|fro|test}}.
 |testvér
 |vértest
 }}
-{{der4|lang=hu|title=Expressions
+{{der4|hu|title=Expressions
 |a lélek kész, de a test erőtlen
 |arkhimédészi test
 |platóni test
@@ -758,4 +758,4 @@ From {{der|tr|en|test}}.
 {{tr-infl-noun-c|e|poss=1}}
 
 ====Derived terms====
-{{der4|lang=tr|[[testçi]]|[[testçik]]|[[testçilik]]|[[testle]]|[[testli]]|[[testse]]|[[testsiz]]}}
+{{der4|tr|testçi|testçik|testçilik|testle|testli|testse|testsiz}}
