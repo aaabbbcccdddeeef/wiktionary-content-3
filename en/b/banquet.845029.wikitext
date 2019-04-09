@@ -170,7 +170,7 @@ From {{suffix|ca|banc|et}}.
 ==French==
 
 ===Etymology===
-{{etyl|frm|fr}} {{m|frm|banquet||}}, from {{etyl|it|fr}} {{m|it|banchetto||light repast between meals, snack eaten on a small bench|lit=a small bench}}, from {{m|it|banco||bench}}, from {{der|fr|lng|bank||bench}} / {{der|fr|lng|panch||bench}}, from {{etyl|gem-pro|fr}} {{m|gem-pro|*bankiz||bench}}. Akin to {{cog|goh|bank|bank, banch|bench}}, {{cog|ang|benc||bench}}. Compare {{etyl|fro|fr}} {{m|fro|banquet||}}, which only meant "small bench", from the same Proto-Germanic source.
+From {{inh|fr|frm|banquet||}}, from {{der|fr|it|banchetto||light repast between meals, snack eaten on a small bench|lit=a small bench}}, from {{m|it|banco||bench}}, from {{der|fr|lng|bank||bench}} / {{der|fr|lng|panch||bench}}, from {{der|fr|gem-pro|*bankiz||bench}}. Akin to {{cog|goh|bank|bank, banch|bench}}, {{cog|ang|benc||bench}}. Compare {{cog|fro|banquet}}, which only meant "small bench", from the same Proto-Germanic source.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -180,6 +180,15 @@ From {{suffix|ca|banc|et}}.
 {{fr-noun|m}}
 
 # {{l|en|banquet}}
+
+====Descendants====
+* {{desc|bor=1|ca|banquet}}
+* {{desc|bor=1|no|-}} {{l|nb|bankett}}
+* {{desc|bor=1|pt|banquete}}
+* {{desc|bor=1|ro|banchet}}
+* {{desc|bor=1|es|banquete}}
+* {{desc|bor=1|sv|bankett}}
+** {{desc|bor=1|fi|banketti}}
 
 ===Further reading===
 * {{R:TLFi}}
