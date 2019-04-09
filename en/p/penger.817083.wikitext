@@ -36,26 +36,40 @@ Compare {{m|fi|penkki}}.
 {{wikipedia|lang=no}}
 
 ===Etymology===
-{{rfe|lang=nb}}
+Plural form of {{m|nb|penge}}. From {{inh|nb|non|pengar|pen(in)gar}}, plural form of {{m|non|pengr|pen(in)gr}}. {{doublet|nb|penning}}.
+
+===Pronunciation===
+* {{IPA|/peŋːer/|[²pʰɛŋːəɾ]|lang=nb}}
 
 ===Noun===
 {{head|nb|noun|g=p|definite plural|pengene}}
 
 # [[money]]
+#: ''Har du nok '''penger''' til dette maleriet?''
+#:: ''Do you have enough '''money''' for this painting?''
+# {{plural of|penge||coin|lang=nb}}
+
+====Synonyms====
+* {{sense|money}} {{l|nb|gryn}}, {{l|nb|spenn}}
 
 ====Derived terms====
-{{top2}}
-* {{l|nb|bompenger}}
-* {{l|nb|feriepenger}}
-* {{l|nb|lommepenger}}
-* {{l|nb|løsepenger}}
-* {{l|nb|pengemangel}}
-* {{l|nb|pengepolitikk}}
-{{mid2}}
-* {{l|nb|pengepung}}
-* {{l|nb|penger vokser ikke på trær}}
-* {{l|nb|pengeseddel}}
-* {{l|nb|pengeskap}}
-* {{l|nb|pengesum}}
-* {{l|nb|småpenger}}
-{{bottom}}
+{{der3|nb
+|{{l|nb|bompenger}}
+|{{l|nb|feriepenger}}
+|{{l|nb|lommepenger}}
+|{{l|nb|løsepenger}}
+|{{l|nb|pengemangel}}
+|{{l|nb|pengepolitikk}}
+|{{l|nb|pengepung}}
+|{{l|nb|penger vokser ikke på trær}}
+|{{l|nb|pengeseddel}}
+|{{l|nb|pengeskap}}
+|{{l|nb|pengesum}}
+|{{l|nb|småpenger}}
+}}
+
+===See also===
+* {{l|nn|pengar}} (''Nynorsk'')
+
+===References===
+{{R:The Bokmål Dictionary}}
