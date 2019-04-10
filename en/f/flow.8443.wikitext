@@ -1,8 +1,5 @@
 ==English==
 
-===Etymology===
-From {{etyl|enm|en}} {{m|enm|flowen}}, from {{etyl|ang|en}} {{m|ang|flōwan||to flow}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*flōaną||to flow}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*plōw-}}, lengthened o-grade form of {{m|ine-pro|*plew-||to fly, flow, run}}.
-
 ===Pronunciation===
 * {{enPR|flō}}
 ** {{a|RP}} {{IPA|/fləʊ/|lang=en}}
@@ -11,7 +8,10 @@ From {{etyl|enm|en}} {{m|enm|flowen}}, from {{etyl|ang|en}} {{m|ang|flōwan||to 
 * {{homophones|lang=en|floe|Flo}}
 * {{rhymes|əʊ|lang=en}}
 
-===Noun===
+===Etymology 1===
+From {{inh|en|enm|flowen}}, from {{inh|en|ang|flōwan||to flow}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*flōaną||to flow}}, from {{etyl|ine-pro|en}} {{m|ine-pro|*plōw-}}, lengthened o-grade form of {{m|ine-pro|*plew-||to fly, flow, run}}.
+
+====Noun====
 {{en-noun|~}}
 
 # A movement in people or things with a particular way in large numbers or amounts
@@ -28,18 +28,17 @@ From {{etyl|enm|en}} {{m|enm|flowen}}, from {{etyl|ang|en}} {{m|ang|flōwan||to 
 # {{lb|en|psychology}} A mental state characterized by concentration, focus and enjoyment of a given task.
 # The [[emission]] of [[blood]] during [[menstruation]].
 #: {{ux|en|Tampons can be small or large, slender or thick. From “slender” to “super”, you can pick the size that matches your '''flow'''.}}
-# {{lb|en|Scotland}} A [[morass]] or [[marsh]].
 # {{lb|en|rap|_|music|_|slang}} The ability to skilfully {{l|en|rap}} along to a {{l|en|beat}}.
 #: {{ux|en|The production on his new mixtape is mediocre but his '''flow''' is on point.}}
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|continuity}} See also [[Thesaurus:continuity]]
 
-====Antonyms====
+=====Antonyms=====
 * {{sense|movement of the tide}} {{l|en|ebb}}
 * {{sense|continuity}} See also [[Thesaurus:discontinuity]]
 
-====Hyponyms====
+=====Hyponyms=====
 {{col4|en|airflow
 |antiflow
 |dark flow
@@ -56,14 +55,14 @@ From {{etyl|enm|en}} {{m|enm|flowen}}, from {{etyl|ang|en}} {{m|ang|flōwan||to 
 |upflow
 }}
 
-====Derived terms====
+=====Derived terms=====
 * {{l|en|ebb and flow}}
 * {{l|en|flowchart}}
 * {{l|en|flowmeter}}
 * {{l|en|freeflow}}
 * {{l|en|single-flow}}
 
-====Translations====
+=====Translations=====
 {{trans-top|the movement of a fluid}}
 * Armenian: {{t+|hy|հոսք}}, {{t+|hy|հոսանք}}
 * Asturian: {{t|ast|fluxu|m}}, {{t|ast|fluxu|m}}
@@ -182,11 +181,11 @@ From {{etyl|enm|en}} {{m|enm|flowen}}, from {{etyl|ang|en}} {{m|ang|flōwan||to 
 {{trans-mid}}
 {{trans-bottom}}
 
-====Further reading====
+=====Further reading=====
 * {{pedialite}}
 * {{pedialite|Flow (psychology)}}
 
-===Verb===
+====Verb====
 {{en-verb}}
 
 # {{lb|en|intransitive}} To move as a [[fluid]] from one position to another.
@@ -218,13 +217,13 @@ From {{etyl|enm|en}} {{m|enm|flowen}}, from {{etyl|ang|en}} {{m|ang|flōwan||to 
 # {{lb|en|transitive}} To cover with [[varnish]].
 # {{lb|en|intransitive}} To [[discharge]] [[excessive]] [[blood]] from the [[uterus]].
 
-====Derived terms====
+=====Derived terms=====
 * {{l|en|flowable}}, {{l|en|reflowable}}
 * {{l|en|free-flowing}}
 * {{l|en|overflow}}
 * {{l|en|underflow}}
 
-====Translations====
+=====Translations=====
 {{trans-see|to flow|run}}
 
 {{trans-see|to flow|stream}}
@@ -376,6 +375,14 @@ From {{etyl|enm|en}} {{m|enm|flowen}}, from {{etyl|ang|en}} {{m|ang|flōwan||to 
 {{trans-mid}}
 * Telugu: {{t+check|te|ప్రవహించు}}
 {{trans-bottom}}
+
+===Etymology 2===
+{{rfe|Icelandic floi, a marsh, flóa, to flood.|lang=en}}
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|Scotland}} A [[morass]] or [[marsh]].
 
 ===Anagrams===
 * {{anagrams|en|a=flow|Wolf|fowl|wolf}}
