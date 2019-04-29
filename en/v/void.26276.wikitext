@@ -6,6 +6,7 @@
 * {{IPA|/vɔɪd/|lang=en}}, sometimes /vwɑːd/
 * {{audio|en-us-void.ogg|Audio (US)|lang=en}}
 * {{rhymes|ɔɪd|lang=en}}, sometimes /ɑːd/
+* {{hyphenation|void|lang=en}}
 
 ===Etymology 1===
 Borrowed from {{bor|en|fro|vuit}}, {{m|fro|voide}}, {{m|fro|vuide}} (modern {{m|fr|vide}}), in turn from a {{der|en|VL.|*vocitus}}, related to {{der|en|la|vacuus||empty}}.
@@ -128,8 +129,11 @@ Borrowed from {{bor|en|fro|vuit}}, {{m|fro|voide}}, {{m|fro|vuide}} (modern {{m|
 # {{lb|en|fluid mechanics}} A pocket of [[vapour]] inside a fluid flow, created by [[cavitation]].
 
 =====Synonyms=====
-* {{sense|(engineering) collection of vacancies}} {{l|en|pore}}
-* {{sense|(engineering) pocket of vapour in fluid}} {{l|en|bubble}}
+* {{sense|(engineering) collection of vacancies}} [[pore]]
+* {{sense|(engineering) pocket of vapour in fluid}} [[bubble]]
+
+=====Hyponyms=====
+* {{sense|(astronomy) An extended region of space containing no galaxies}} [[Local Void]]
 
 =====Translations=====
 {{trans-top|An empty space; a vacuum}}
@@ -163,7 +167,7 @@ Borrowed from {{bor|en|fro|vuit}}, {{m|fro|voide}}, {{m|fro|vuide}} (modern {{m|
 * Spanish: {{t+|es|vacío|m}}
 * Swedish: {{t+|sv|tomrum|n}}
 {{trans-bottom}}
-{{trans-top|(astronomy) extended region of space containing no galaxies}}
+{{trans-top|(astronomy) An extended region of space containing no galaxies}}
 * German: {{t+|de|Hohlraum|m}} {{qualifier|rare}}, {{t+|de|Void|m}}
 {{trans-mid}}
 * Turkish: {{t+|tr|boşluk}}
