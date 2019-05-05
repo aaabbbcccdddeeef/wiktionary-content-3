@@ -51,15 +51,15 @@ From {{inh|en|enm|counten}}, borrowed from {{bor|en|xno|conter}}, from {{der|en|
 * Asturian: {{t|ast|contar}}
 * Azerbaijani: {{t+|az|saymaq}}
 * Belarusian: {{t|be|рахава́ць}}, {{t|be|лічы́ць|impf}}, {{t|be|палічы́ць|pf}}
-* Bengali: {{t|bn|গুনতি|tr=gunti|sc=Beng}}, {{t|bn|গণনা|tr=gôṇna|sc=Beng}}
+* Bengali: {{t|bn|গুনতি}}, {{t|bn|গণনা}}
 * Breton: {{t+|br|kontañ}}
-* Bulgarian: {{t+|bg|бро́я}}
+* Bulgarian: {{t+|bg|бро́я|impf}}
 * Burmese: {{t+|my|ရေ}}, {{t+|my|ရေတွက်}}
 * Catalan: {{t+|ca|comptar}}
 * Chinese:
 *: Mandarin: {{t+|cmn|數|sc=Hani}}, {{t+|cmn|数|tr=shǔ|sc=Hani}}, {{t+|cmn|計數|sc=Hani}}, {{t+|cmn|计数|tr=jìshù|sc=Hani}}, {{t+|cmn|計算|sc=Hani}}, {{t+|cmn|计算|tr=jìsuàn|sc=Hani}}, {{t+|cmn|算|tr=suàn|sc=Hani}}, {{t+|cmn|點|sc=Hani}}, {{t+|cmn|点|tr=diǎn|sc=Hani}}
 * Classical Nahuatl: {{t|nci|pōhua}}
-* Czech: {{t+|cs|počítat}}
+* Czech: {{t+|cs|počítat|impf}}
 * Dalmatian: {{t|dlm|embruar}}
 * Danish: {{t+|da|tælle}}
 * Dongxiang: {{t|sce|toula}}
@@ -80,8 +80,8 @@ From {{inh|en|enm|counten}}, borrowed from {{bor|en|xno|conter}}, from {{der|en|
 * Greenlandic: {{t|kl|kisitsivoq}}
 * Haitian Creole: {{t|ht|konte}}
 * Hawaiian: {{t|haw|helu}}
-* Hebrew: {{t+|he|ספר|tr=safár|sc=Hebr}}, {{t+|he|מָנָה|tr=maná|sc=Hebr}}
-* Hindi: {{t+|hi|गिनना|tr=ginnā|sc=Deva}}
+* Hebrew: {{t+|he|סָפַר|tr=safár|sc=Hebr}}, {{t+|he|מָנָה|tr=maná|sc=Hebr}}
+* Hindi: {{t+|hi|गिनना}}
 * Hungarian: {{t+|hu|számol}}
 * Icelandic: {{t+|is|telja}}
 * Ido: {{t+|io|kontar}}
@@ -90,7 +90,7 @@ From {{inh|en|enm|counten}}, borrowed from {{bor|en|xno|conter}}, from {{der|en|
 * Italian: {{t+|it|contare}}
 * Japanese: {{t+|ja|数える|tr=かぞえる, kazoeru|sc=Jpan}}
 * Kazakh: {{t+|kk|санау}}
-* Khmer: {{t+|km|រាប់|tr=roap|sc=Khmr}}
+* Khmer: {{t+|km|រាប់}}
 * Komi-Permyak: {{t|koi|артавны}}
 * Korean: {{t+|ko|세다}}
 * Kurdish:
@@ -103,7 +103,7 @@ From {{inh|en|enm|counten}}, borrowed from {{bor|en|xno|conter}}, from {{der|en|
 * Latvian: {{t|lv|skaitīt}}, {{t|lv|rēķināt}}
 * Lithuanian: {{t|lt|skaičiuoti}}
 * Luxembourgish: {{t|lb|zielen}}
-* Macedonian: {{t|mk|брои}}
+* Macedonian: {{t|mk|брои|impf}}
 * Malay: {{t+|ms|kira}}, {{t+|ms|bilang}}, {{t+|ms|hitung}}
 * Maltese: {{t|mt|għadd}}, {{t|mt|għadd}}
 * Maore Comorian: {{t|swb|hisaɓu|tr=uhisabu|alt=uhisaɓu}}
@@ -120,7 +120,7 @@ From {{inh|en|enm|counten}}, borrowed from {{bor|en|xno|conter}}, from {{der|en|
 * Old English: {{t|ang|tellan}}
 * Old Norse: {{t|non|telja}}
 * Persian: {{t+|fa|شمردن|tr=šomordan}}
-* Polish: {{t+|pl|liczyć}}
+* Polish: {{t+|pl|liczyć|impf}}
 * Portuguese: {{t+|pt|contar}}
 * Quechua: {{t|qu|yupay}}, {{t|qu|yupai}}
 * Rapa Nui: {{t|rap|tataku}}
@@ -128,11 +128,11 @@ From {{inh|en|enm|counten}}, borrowed from {{bor|en|xno|conter}}, from {{der|en|
 * Romansch: {{t|rm|enumerar}}, {{t|rm|dumbrar}}
 * Russian: {{t+|ru|счита́ть|impf}}, {{t+|ru|посчита́ть|pf}}, {{t+|ru|счесть|pf}}, {{t+|ru|сосчита́ть|pf}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|бројати|sc=Cyrl}}
-*: Roman: {{t+|sh|brojati}}
+*: Cyrillic: {{t|sh|бро̀јати|impf}}
+*: Roman: {{t+|sh|bròjati|impf}}
 * Sinhalese: {{t|si|ගණිනවා}}
-* Slovak: {{t+|sk|počítať}}
-* Slovene: {{t|sl|šteti}}, {{t|sl|prešteti}}
+* Slovak: {{t+|sk|počítať|impf}}
+* Slovene: {{t|sl|šteti|impf}}, {{t|sl|prešteti|pf}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|licyś|impf}}
 *: Upper Sorbian: {{t|hsb|ličić|impf}}
@@ -145,7 +145,7 @@ From {{inh|en|enm|counten}}, borrowed from {{bor|en|xno|conter}}, from {{der|en|
 * Thai: {{t+|th|นับ}}
 * Turkish: {{t+|tr|saymak}}
 * Turkmen: {{t|tk|sanamak}}
-* Ukrainian: {{t+|uk|рахува́ти}}, {{t|uk|лічи́ти}}
+* Ukrainian: {{t+|uk|рахува́ти|impf}}, {{t|uk|лічи́ти|impf}}
 * Urdu: {{t|ur|گنا|tr=ginnā|sc=ur-Arab}}
 * Uzbek: {{t+|uz|sanamoq}}
 * Vietnamese: {{t+|vi|đếm}}
@@ -178,7 +178,7 @@ From {{inh|en|enm|counten}}, borrowed from {{bor|en|xno|conter}}, from {{der|en|
 *: Nynorsk: {{t+|nn|telje}}
 * Polish: {{t+|pl|liczyć się}}
 * Portuguese: {{t+|pt|valer}}, {{t+|pt|contar}}, {{t+|pt|importar}}
-* Russian: {{t+|ru|счита́ться}}
+* Russian: {{t+|ru|счита́ться|impf}}
 * Slovene: {{t|sl|šteti}}
 * Spanish: {{t+|es|importar}}
 * Swedish: {{t+|sv|räknas}}
