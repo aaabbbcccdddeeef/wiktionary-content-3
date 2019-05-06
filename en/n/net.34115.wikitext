@@ -1006,21 +1006,16 @@ From {{inh|ang|gem-pro|*natją}}, whence also {{cog|ofs|nette}}, {{m|ofs|nitte}}
 From {{inh|sga|cel-pro|*nisdos}}, from {{inh|sga|ine-pro|*nisdós}}.
 
 ===Noun===
-{{sga-noun|m}}
+{{sga-noun|m|nit|nit}}
 
 # [[nest]]
 
 ====Inflection====
-{{sga-decl-o-masc
-|gs=nit
-|ap=nitu
-|np=nid
-|dp=*netaib
-}}
+{{sga-decl-o-masc/new|nit|gen_sg2=nid|acc_pl=nitu}}
 
 ====Descendants====
-* Irish: {{l|ga|nead}}
-* Scottish Gaelic: {{l|gd|nead}}
+* {{desc|ga|nead}}
+* {{desc|gd|nead}}
 
 ===References===
 * {{R:DIL|33139}}
