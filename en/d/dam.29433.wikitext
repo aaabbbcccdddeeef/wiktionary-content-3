@@ -478,20 +478,18 @@ From {{inh|sga|cel-pro|*damos||bull}}, from {{inh|sga|ine-pro|*demh₂-}}
 # {{lb|sga|by extension}} [[hero]], [[champion]]
 
 =====Declension=====
-{{sga-decl-o-masc
-|gs=daim
-|ds=daum
-|ap=daumu
-|dp=damaib
-}}
-* Alternative forms:
-*: genitive singular, nominative plural: {{l|sga|doim}}
-*: dative singular: {{l|sga|dum}}, {{l|sga|dam}}
-*: accusative plural: {{l|sga|dumu}}, {{l|sga|damu}}
+{{sga-decl-o-masc/new
+|daim|dat_sg=daum
+|acc_pl=daumu
+|dat_pl=damaib
+|gen_sg2=doim
+|dat_sg2=dum|dat_sg3=dam
+|acc_pl2=dumu|acc_pl3=damu}}
 
 =====Descendants=====
-* Irish: {{l|ga|damh}}
-* Scottish Gaelic: {{l|gd|damh}}
+* {{desc|ga|damh}}
+* {{desc|gv|dow}}
+* {{desc|gd|damh}}
 
 ====Noun====
 {{sga-noun|f}}
