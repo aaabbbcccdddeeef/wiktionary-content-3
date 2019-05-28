@@ -74,16 +74,16 @@ The noun is from late {{inh|en|ang|swelg|t=gulf, chasm}}, from the verb.
 * Azerbaijani: {{t+|az|udmaq}}
 * Bashkir: {{t|ba|йотоу}}
 * Basque: {{t-needed|eu}}
-* Belarusian: {{t|be|каўта́ць}}, {{t|be|глыта́ць}}
+* Belarusian: {{t|be|каўта́ць|impf}}, {{t|be|глыта́ць|impf}}
 * Bengali: {{t|bn|গেলা}}
-* Bulgarian: {{t+|bg|гълтам}}
+* Bulgarian: {{t+|bg|гълтам|impf}}
 * Burmese: {{t+|my|မျို}}
 * Catalan: {{t+|ca|engolir}}, {{t+|ca|enviar}} {{q|Balearic Islands}}
 * Chinese:
 *: Cantonese: {{t|yue|吞|tr=tan1}}, {{t|yue|吞落肚|tr=tan1 lok6 tou5}}
-*: Mandarin: {{t+|cmn|吞|tr=tūn}}, {{t+|cmn|咽|tr=yàn}}, {{t+|cmn|吞嚥}}
+*: Mandarin: {{t+|cmn|吞|tr=tūn}}, {{t+|cmn|咽|tr=yàn}}, {{t+|cmn|吞嚥|tr=tūnyàn}}
 * Crimean Tatar: {{t|crh|yutmaq}}
-* Czech: {{t+|cs|polknout|pf}}, {{t+|cs|spolknout|pf}}; {{t+|cs|polykat|impf}}
+* Czech: {{t+|cs|polykat|impf}}, {{t+|cs|polknout|pf}}, {{t+|cs|spolknout|pf}}
 * Danish: {{t+|da|sluge}}
 * Dutch: {{t+|nl|slikken}}, {{t+|nl|doorslikken}}
 * Esperanto: {{t+|eo|gluti}}
@@ -97,7 +97,7 @@ The noun is from late {{inh|en|ang|swelg|t=gulf, chasm}}, from the verb.
 *: Alemannic German: {{t|gsw|schlucke}}
 * Greek: {{t+|el|καταπίνω}}
 *: Ancient: {{t|grc|καταπίνω}}
-* Hebrew: {{t|he|בלע}}, {{t|he|בָּלַע|tr=balá}}
+* Hebrew: {{t|he|בָּלַע|tr=balá}}
 * Hindi: {{t+|hi|निगलना}}
 * Hungarian: {{t+|hu|nyel}}, {{t+|hu|lenyel}}
 * Icelandic: {{t|is|kyngja}}, {{t+|is|gleypa}}
@@ -127,7 +127,7 @@ The noun is from late {{inh|en|ang|swelg|t=gulf, chasm}}, from the verb.
 *: Nynorsk: {{t|nn|svelgje}}
 * Old East Slavic: {{t|orv|глътати|impf}}
 * Persian: {{t+|fa|بلعیدن|tr=bal'idan, balidan}}, {{t+|fa|اوباردن|tr=obârdan}} {{qualifier|literary}}
-* Polish: {{t+|pl|połknąć}}, {{t+|pl|połykać}}
+* Polish: {{t+|pl|połykać|impf}}, {{t+|pl|połknąć|pf}}
 * Portuguese: {{t+|pt|engolir}}, {{t|pt|deglutir}}
 * Quechua: {{t|qu|millp'uy}}
 * Romanian: {{t+|ro|înghiți}}
@@ -135,10 +135,10 @@ The noun is from late {{inh|en|ang|swelg|t=gulf, chasm}}, from the verb.
 * Scots: {{t|sco|swallie}}
 * Scottish Gaelic: {{t|gd|sluig}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|гу̀тати}}, {{t|sh|прогу̀тати}}
-*: Roman: {{t+|sh|gùtati}}, {{t+|sh|progùtati}}
-* Slovak: {{t|sk|hltať}}
-* Slovene: {{t+|sl|pogoltniti}}, {{t|sl|požirati}}
+*: Cyrillic: {{t|sh|гу̀тати|impf}}, {{t|sh|прогу̀тати|pf}}
+*: Roman: {{t+|sh|gùtati|impf}}, {{t+|sh|progùtati|pf}}
+* Slovak: {{t|sk|hltať|impf}}
+* Slovene: {{t+|sl|pogoltniti|pf}}, {{t|sl|požirati}}
 * Spanish: {{t+|es|tragar}} (common use), {{t+|es|engullir}} (in common case with very hungry), {{t+|es|deglutir}} (formal), {{t+|es|ingurgitar}}
 * Swahili: {{t+|sw|meza|alt=kumeza}}
 * Swedish: {{t+|sv|svälja}}
@@ -149,7 +149,7 @@ The noun is from late {{inh|en|ang|swelg|t=gulf, chasm}}, from the verb.
 * Tibetan: {{t-needed|bo}}
 * Turkish: {{t+|tr|yutmak}}
 * Turkmen: {{t|tk|ýuwutmak}}
-* Ukrainian: {{t|uk|ковта́ти}}
+* Ukrainian: {{t|uk|ковта́ти|impf}}
 * Urdu: {{t|ur|نگلنا|tr=nigalnā}}
 * Uyghur: {{t|ug|يۇتماق}}
 * Uzbek: {{t+|uz|yutmoq}}, {{t+|uz|yutinmoq}}
@@ -169,7 +169,7 @@ The noun is from late {{inh|en|ang|swelg|t=gulf, chasm}}, from the verb.
 * French: {{t+|fr|avaler}}
 * Hungarian: {{t+|hu|elnyel}}, {{t+|hu|bekebelez}}
 * Italian: {{t+|it|consumare}}, {{t+|it|assorbire}}
-* Japanese: {{t|ja|嚥下する|tr=engesuru}}
+* Japanese: {{t+|ja|嚥下|alt=嚥下する|tr=えんげする, enge suru}}
 * Kurdish: {{t+|ku|daqurtandin}}, {{t+|ku|daûrandin}}, {{t+|ku|dabilandin}}
 * Maori: {{t|mi|horopū}} {{qualifier|whole}}
 * Norwegian:
@@ -184,7 +184,7 @@ The noun is from late {{inh|en|ang|swelg|t=gulf, chasm}}, from the verb.
 * Spanish: {{t+|es|tragar}}
 * Swahili: {{t+|sw|meza}}
 * Swedish: {{t+|sv|sluka}}
-* Telugu: {{t+|te|తిను}} (tinu)
+* Telugu: {{t+|te|తిను}}
 * Turkish: {{t+|tr|almak}}, {{t+|tr|tüketmek}}
 * Zazaki: {{t|zza|groten}}, {{t|zza|groten}}
 {{trans-bottom}}
