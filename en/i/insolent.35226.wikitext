@@ -3,24 +3,24 @@
 ===Etymology===
 {{PIE word|en|swé}}
 {{PIE root|en|dʰeh₁}}
-From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{der|en|la|insolens||unaccustomed, unwanted, unusual, immoderate, excessive, arrogant, insolent}}, from {{m|la|in-||priv.}} + {{m|la|solens}}, present participle of {{m|la|solere||to be accustomed, to be wont}}.
+From {{inh|en|enm|-}}, from {{der|en|fro|-}}, from {{der|en|la|insolens|t=unaccustomed, unwanted, unusual, immoderate, excessive, arrogant, insolent}}, from {{m|la|in-|pos=[[privative]] prefix}} + {{m|la|solens}}, present participle of {{m|la|solere|t=to be accustomed, to be wont}}.
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|/ˈɪnsə.lənt/|lang=en}}
-* {{a|US}} {{IPA|/ˈɪnsə.lənt/|lang=en}}
+* {{a|UK}} {{IPA|en|/ˈɪnsə.lənt/}}
+* {{a|US}} {{IPA|en|/ˈɪnsə.lənt/}}
 
 ===Adjective===
 {{en-adj}}
 
-# [[insulting|Insulting]] in [[manner]] or [[word]]s.
-# [[rude|Rude]].
+# [[insulting]] in [[manner]] or [[word]]s
+#: {{syn|en|arrogant|bold|cocky|impudent}}
+# [[rude]]
 #* {{RQ:Chmbrs YngrSt|VI}}
 #*: “I don't mean all of your friends—only a small proportion—which, however, connects your circle with that deadly, idle, brainless bunch—the '''insolent''' chatterers at the opera, the gorged dowagers,{{...}}the chlorotic squatters on huge yachts, the speed-mad fugitives from the furies of ennui, the neurotic victims of mental cirrhosus,{{nb...}}!”
-# [[cheeky|Cheeky]].
+#: {{syn|en|disrespectful|impertinent|insubordinate|offensive}}
+# [[cheeky]]
 
 ====Synonyms====
-* ''insulting:'' [[arrogant]], [[bold]], [[cocky]], [[impudent]]
-* ''rude:'' [[disrespectful]], [[impertinent]], [[insubordinate]], [[offensive]]
 * See also [[Thesaurus:cheeky]]
 * See also [[Thesaurus:arrogant]]
 
@@ -28,8 +28,9 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{der|en|la|insolens||unaccusto
 * {{l|en|insolently}}
 
 ====Related terms====
-* {{l|en|insolence}}
-* {{l|en|insolency}}
+{{rel2|en
+|insolence
+|insolency}}
 
 ====Translations====
 {{trans-top|insulting in manner or words}}
@@ -68,7 +69,7 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{der|en|la|insolens||unaccusto
 ===Noun===
 {{en-noun}}
 
-# A person who is insolent.
+# a person who is insolent
 #* '''2010''', Louisa Shea, ''The Cynic Enlightenment: Diogenes in the Salon'' (page 7)
 #*: Diogenes Laertius reports that Diogenes was apt to take the identification with the dog at face value, as when he lifted his leg and relieved himself on a group of young '''insolents''' who teased him with a dog's bone {{...}}
 
@@ -83,6 +84,9 @@ From {{etyl|enm|en}}, from {{etyl|fro|en}}, from {{der|en|la|insolens||unaccusto
 
 ===Etymology===
 From {{der|ca|la|insolens}}.
+
+===Pronunciation===
+* {{ca-IPA}}
 
 ===Adjective===
 {{ca-adj|mf}}
@@ -107,14 +111,15 @@ From {{der|ca|la|insolens}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
-* {{audio|Fr-insolent-fr FR-Paris.ogg|Audio (Paris)|lang=fr}}
-* {{audio|Fr-Paris--insolent.oga|Audio (Paris)|lang=fr}}
-* {{audio|LL-Q150 (fra)-DSwissK-insolent.wav|Audio|lang=fr}}
+* {{audio|fr|Fr-insolent-fr FR-Paris.ogg|Audio (Paris)}}
+* {{audio|fr|Fr-Paris--insolent.oga|Audio (Paris)}}
+* {{audio|fr|LL-Q150 (fra)-DSwissK-insolent.wav|Audio}}
+* {{homophones|fr|insolents}}
 
 ===Adjective===
 {{fr-adj}}
 
-# [[#English|insolent]]
+# {{l|en|insolent}}
 
 ====Derived terms====
 * {{l|fr|insolemment}}
