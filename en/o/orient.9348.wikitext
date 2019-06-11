@@ -1,43 +1,83 @@
 {{also|Orient}}
 ==English==
+{{was wotd|2019|September|4}}
 
 ===Etymology===
-From {{inh|en|enm|orient}}, borrowed from {{bor|en|fro|orient}}, from {{der|en|la|oriens||rising; as a noun, the quarter where the sun rises, the east, day}}, present participle of {{m|la|oriri||to rise}}.
+{{PIE root|en|h₃er}}
+The noun is derived from {{inh|en|enm|orient}}, {{m|enm|oriente}}, {{m|enm|oryent}}, {{m|enm|oryente}}, {{m|enm|oryentte||the east direction; eastern horizon or sky; eastern regions of the world, Asia, Orient; eastern edge of the world}},<ref>{{R:MED Online|entry=orient(e|pos=n|id=MED30896|accessdate=11 June 2019}}</ref> borrowed from {{bor|en|xno|orient}}, {{m|fro|oriente}}, and {{bor|en|fro|orient||east direction; Asia, Orient}} (modern {{cog|fr|orient}}), or directly from its {{glossary|etymon}} {{der|en|la|oriēns||the east; daybreak, dawn; sunrise; (''pariciple'') rising; appearing; originating}}, {{glossary|present}} {{glossary|active}} {{glossary|participle}} of {{m|la|orior||to get up, rise; to appear, become visible; to be born, come to exist, originate}}, from {{der|en|ine-pro|*h₃er-||to move, stir; to rise, spring}}.<ref>Compare {{R:OED Online|pos=n.'' and ''adj|id=132525|date=September 2004|nodot=yes}}; {{R:Oxford Dictionaries Online}}</ref>
+
+The adjective is derived from {{inh|en|enm|orient||eastern; from Asia or the Orient; brilliant, shining (characteristic of jewels from the Orient)}}, from {{m|enm|orient|pos=noun}}; ''see above''.<ref>{{R:MED Online|pos=adj|id=MED30893|accessdate=11 June 2019}}</ref>
+
+The verb is derived from {{der|en|fr|orienter||to orientate; to guide; to set to north}} from {{m|fr|orient|pos=noun}} (''see above'') + {{m|fr|-er|pos=''suffix forming infinitives of first-conjugation verbs''}}.<ref>{{R:OED Online|pos=v|id=132526|date=September 2004}}</ref>
 
 ===Pronunciation===
-* {{a|US}} {{IPA|/ˈɔɹ.iː.ɛnt/|lang=en}}
+* {{a|RP}} {{IPA|en|/ˈɔː.ɹɪ.ənt/}}
+* {{a|GA}} {{IPA|en|/ˈɔɹ.i.ənt/|/ˈɒɹ.ɪ-/}}
+* {{hyphenation|en|ori|ent}}
+
+===Noun===
+{{en-noun}}
+
+# ''Usually preceded by'' '''{{l|en|the}}''': {{alternative case form of|en|Orient||a [[region]] or a [[part#Noun|part]] of the [[world]] to the [[east]] of a certain [[place#Noun|place]]; [[country|countries]] of [[Asia]], the [[East]] (especially [[East Asia]])|nocap=1}} {{defdate|from 14th c.}}
+#: {{antonyms|en|occident}}
+# The part of the [[horizon]] where the [[sun#Noun|sun]] [[first]] [[appear]]s in the [[morning]]; the [[east]].
+#* '''1609''', {{w|William Shakespeare}}, Sonnet 7:
+#*: Lo, in the '''orient''' when the gracious light
+#*: Lifts up his burning head ...
+#* {{rfdate||and other bibliographic particulars, eg, title of work, page, url, full name of author}} {{w|Tennyson}}
+#*: [Morn] came furrowing all the '''orient''' into gold.
+# {{lb|en|obsolete}} A [[pearl#Noun|pearl]] [[originate|originating]] from the [[Indian#Adjective|Indian]] region, [[repute#Verb|reputed]] to be of [[great#Adjective|great]] [[brilliance]]; {{lb|en|by extension}} any pearl of particular [[beauty]] and [[value#Noun|value]]. {{defdate|19th c.}}
+#* '''1890''', {{w|Oscar Wilde}}, ''The Picture of Dorian Gray'', Vintage 2007, page 120:
+#*: Henry II wore jewelled gloves reaching to the elbow, and had a hawk-glove sewn with twelve rubies and fifty-two great '''orients'''.
+#* {{w|Thomas Carlyle}}, from letter quoted in ''Thomas Carlyle; a History of the First Forty Years of His Life'' by {{w|James Anthony Froude}}
+#*: The chambers of the East are opened in every land, and the sun comes forth to sow the earth with '''orient''' pearl.
+# The [[brilliance]] or [[colour]] of a [[high-quality]] pearl.
+
+===Adjective===
+{{en-adj|-}}
+
+# {{lb|en|dated|poetic|also|figuratively}} [[rising#Adjective|Rising]], like the [[morning]] [[sun#Noun|sun]].
+#* {{rfdate||and other bibliographic particulars, eg, title of work, page, url}} {{w|John Milton}}
+#*: Moon, that now meet'st the '''orient''' sun
+# {{lb|en|dated|poetic}} Of the [[colour#Noun|colour]] of the [[sky]] at [[daybreak]]; [[bright]] [[red]].
+#: {{synonyms|en|Orient red}}
+# {{lb|en|obsolete|except|poetic}} Of, [[face#Verb|facing]], or located in the [[east#Noun|east]]; [[eastern]], [[oriental]].
+#: {{antonyms|en|occidental}}
+#* {{rfdate||and other bibliographic particulars, eg, title of work, page, url, full name of author}} {{w|Hakluyt}}
+#*: the '''orient''' part
+# {{lb|en|obsolete|except|poetic}} Of a [[pearl]] or other [[gem]]: of [[great#Adjective|great]] [[brilliance]] and [[value#Noun|value]]; {{lb|en|by extension}} [[bright]], [[lustrous]].
+#: {{synonyms|en|Thesaurus:shining}}
+#* {{rfdate||and other bibliographic particulars, eg, title of work, page, url}} {{w|Jeremy Taylor}}
+#*: pearls round and '''orient'''
+#* {{rfdate||and other bibliographic particulars, eg, title of work, page, url, full name of author}} {{w|Wordsworth}}
+#*: '''orient''' gems
+#* {{rfdate||and other bibliographic particulars, eg, title of work, page, url, full name of author}} {{w|John Milton}}
+#*: '''orient''' liquor in a crystal glass
 
 ===Verb===
-{{en-verb}}
+{{en-verb}} {{term-label|en|commonly|_|US}}
 
 # {{lb|en|transitive}} To familiarize with a situation or circumstance.
-#: ''Give him time to '''orient''' himself within the new hierarchy.''
-# {{lb|en|transitive|figurative}} To set the [[focus]] of so as to [[relate]] or [[appeal]] to a certain group.
-#: ''We will '''orient''' our campaign to the youth who are often disinterested.''
+#: {{synonyms|en|orientate|q1=commonly Britain}}
+#: {{ux|en|Give him time to '''orient''' himself within the new hierarchy.}}
 # {{lb|en|transitive}} To [[point]] at or [[direct]] towards.
-#: ''I will '''orient''' all of the signs to face the road.''
+#: {{ux|en|I will '''orient''' all of the signs to face the road.}}
 # {{lb|en|transitive}} To [[determine]] which direction one is facing.
-#: ''Let me just '''orient''' myself and we can be on our way.''
+#: {{ux|en|Let me just '''orient''' myself and we can be on our way.}}
 # {{lb|en|transitive}} To [[place]] or [[build]] so as to [[face]] [[eastward]].
+# {{lb|en|transitive}} To place (a map or chart) so that its east side, north side, etc., lie toward the corresponding parts of the horizon; {{lb|en|specifically|surveying}} to rotate (a map attached to a plane table) until the line of direction between any two of its points is parallel to the corresponding direction in nature.
+# {{lb|en|transitive|figuratively}} To set the [[focus]] of so as to [[relate]] or [[appeal]] to a certain group.
+#: {{ux|en|We will '''orient''' our campaign to the youth who are often disinterested.}}
 # {{lb|en|intransitive}} To change [[direction]] so as to face [[east]].
 # {{lb|en|by extension}} To change direction to face a certain way.
-# {{lb|en|transitive}} To place (a map or chart) so that its east side, north side, etc., lie toward the corresponding parts of the horizon;
-## {{lb|en|surveying}} specifically, to rotate (a map attached to a plane table) until the line of direction between any two of its points is parallel to the corresponding direction in nature.
-
-====Synonyms====
-* {{l|en|orientate}} {{qualifier|UK}}
 
 ====Derived terms====
-{{der-top|}}
-* {{l|en|orientate}} {{qualifier|UK}}
+* {{l|en|orientate}}
 * {{l|en|orientation}}
 * {{l|en|orienteer}}
-{{der-bottom}}
 
 ====Related terms====
-{{rel-top|}}
 * {{l|en|origin}}
-{{rel-bottom}}
 
 ====Translations====
 {{trans-top|to familiarize with a situation or circumstance}}
@@ -73,41 +113,11 @@ From {{inh|en|enm|orient}}, borrowed from {{bor|en|fro|orient}}, from {{der|en|l
 {{trans-mid}}
 {{trans-bottom}}
 
-===Noun===
-{{en-noun}}
+===References===
+<references />
 
-# {{alternative case form of|Orient|lang=en}} {{defdate|from 14th c.}}
-# The part of the [[horizon]] where the [[sun]] first appears in the morning; the [[east]].
-#* '''1609''', {{w|William Shakespeare}}, Sonnet 7:
-#*: Lo, in the '''orient''' when the gracious light
-#*: Lifts up his burning head ...
-#* {{rfdate||and other bibliographic particulars, eg, title of work, page, url, full name of author}} {{w|Tennyson}}
-#*: [Morn] came furrowing all the '''orient''' into gold.
-# {{lb|en|obsolete}} A [[pearl of orient]]. {{defdate|19th c.}}
-#* '''1890''', {{w|Oscar Wilde}}, ''The Picture of Dorian Gray'', Vintage 2007, page 120:
-#*: Henry II wore jewelled gloves reaching to the elbow, and had a hawk-glove sewn with twelve rubies and fifty-two great '''orients'''.
-#* {{w|Thomas Carlyle}}, from letter quoted in ''Thomas Carlyle; a History of the First Forty Years of His Life'' by {{w|James Anthony Froude}}
-#*: The chambers of the East are opened in every land, and the sun comes forth to sow the earth with '''orient''' pearl.
-
-===Adjective===
-{{en-adj|-}}
-
-# {{lb|en|obsolete|poetic}} Rising, like the sun.
-#* {{rfdate||and other bibliographic particulars, eg, title of work, page, url}} {{w|John Milton}}
-#*: Moon, that now meet'st the '''orient''' sun
-# [[eastern]]; [[oriental]]
-#* {{rfdate||and other bibliographic particulars, eg, title of work, page, url, full name of author}} {{w|Hakluyt}}
-#*: the '''orient''' part
-# Bright; lustrous; superior; pure; perfect; pellucid; used of gems and also figuratively, because the most perfect jewels are found in the East.
-#* {{rfdate||and other bibliographic particulars, eg, title of work, page, url}} {{w|Jeremy Taylor}}
-#*: pearls round and '''orient'''
-#* {{rfdate||and other bibliographic particulars, eg, title of work, page, url, full name of author}} {{w|Wordsworth}}
-#*: '''orient''' gems
-#* {{rfdate||and other bibliographic particulars, eg, title of work, page, url, full name of author}} {{w|John Milton}}
-#*: '''orient''' liquor in a crystal glass
-
-====Antonyms====
-* {{l|en|occident}}
+===Further reading===
+* {{pedia|Orient}}
 
 ===Anagrams===
 * {{anagrams|en|a=einort|Ireton|iteron|norite|retino-|tonier|trione}}
