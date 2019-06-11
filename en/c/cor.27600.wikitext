@@ -362,18 +362,20 @@ From {{inh|fro|la|cornu}}.
 
 ==Old Irish==
 
+===Etymology===
+{{PIE root|sga|(s)ker|id=turn}}
+From {{inh|sga|cel-pro|*koros|t=casting, a throw}}, from {{der|sga|ine-pro|*(s)ker-|t=to turn}}
+
 ===Pronunciation===
-* {{IPA|/kor/|lang=sga}}
+* {{IPA|sga|/kor/}}
 
 ===Noun===
 {{sga-noun|m|cuir|-}}
 
-# {{verbal noun of|fo·ceird|lang=sga}}
+# {{verbal noun of|sga|fo·ceird}}
 
 ====Inflection====
-{{sga-decl-noun
-|class=o-m
-}}
+{{sga-decl-o-masc|cuir|n=s}}
 
 ===Mutation===
 {{sga-mutation|c|or}}
