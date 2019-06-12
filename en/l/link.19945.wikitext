@@ -96,7 +96,7 @@ From {{inh|en|enm|linke}}, {{m|enm|lenke}}, from a merger of {{inh|en|ang|hlenċ
 * Danish: {{t|da|forbindelse|c}}
 * Dutch: {{t+|nl|link|m}}, {{t+|nl|verbinding|f}}, {{t+|nl|relatie|f}}, {{t+|nl|koppeling|f}}
 * Esperanto: {{t+|eo|ligo}}
-* Finnish: {{t+|fi|yhteys}}, {{t+|fi|sidos}}
+* Finnish: {{t+|fi|yhteys}}, {{t+|fi|sidos}}, {{t|fi|linkki}}
 * French: {{t+|fr|lien|m}}, {{t+|fr|connexion|f}}, {{t+|fr|rapport|m}}
 * Georgian: {{t|ka|კავშირი}}
 * German: {{t+|de|Verbindung|f}}
@@ -166,24 +166,7 @@ From {{inh|en|enm|linke}}, {{m|enm|lenke}}, from a merger of {{inh|en|ang|hlenċ
 * West Frisian: {{t|fy|keppeling}}
 {{trans-bottom}}
 
-{{trans-top|computing: connection between busses or systems}}
-* Catalan: {{t+|ca|enllaç|m}}, {{t+|ca|link|m}}
-* Danish: {{t+|da|link}}, {{t|da|forbindelse}}
-* Dutch: {{t+|nl|link}}, {{t+|nl|verbinding|f}}
-* Galician: {{t|gl|ligazón|m}}
-* German: {{t+|de|Verknüpfung|m}}
-* Ido: {{t+|io|ligilo}}
-* Italian: {{t+|it|connessione|f}}
-{{trans-mid}}
-* Macedonian: {{t|mk|врска|f}}
-* Persian: {{t+|fa|پیوند|tr=peyvand}}, {{t+|fa|اتصال|tr=ettesâl}}
-* Portuguese: {{t+|pt|ligação|f}}
-* Russian: {{t+|ru|связь|f}}
-* Spanish: {{t+|es|enlace|m}}, {{t+|es|vínculo|m}}
-* Vietnamese: {{t|vi|kết nối}}, {{t+|vi|liên kết}}
-{{trans-bottom}}
-
-{{trans-top|computing: hyperlink}}
+{{trans-top-also|computing: short for hyperlink|hyperlink}}
 * Arabic: {{t+|ar|رَابِط|m}}, {{t|ar|وَصْلَة|f}}
 * Armenian: {{t+|hy|հղում}}
 * Azerbaijani: {{t+|az|keçid}}, {{t|az|hiperkeçid}}, {{t+|az|link}}
@@ -233,11 +216,66 @@ From {{inh|en|enm|linke}}, {{m|enm|lenke}}, from a merger of {{inh|en|ang|hlenċ
 * Walloon: {{t+|wa|hårdêye|f}}, {{t+|wa|loyén|m}}
 {{trans-bottom}}
 
-{{trans-top|mathematics: a space comprising one or more disjoint knots}}
+{{trans-top|computing: connection between buses or systems}}
+* Catalan: {{t+|ca|enllaç|m}}, {{t+|ca|link|m}}
+* Danish: {{t+|da|link}}, {{t|da|forbindelse}}
+* Dutch: {{t+|nl|link}}, {{t+|nl|verbinding|f}}
+* Galician: {{t|gl|ligazón|m}}
+* German: {{t+|de|Verknüpfung|m}}
+* Ido: {{t+|io|ligilo}}
+* Italian: {{t+|it|connessione|f}}
+{{trans-mid}}
+* Macedonian: {{t|mk|врска|f}}
+* Persian: {{t+|fa|پیوند|tr=peyvand}}, {{t+|fa|اتصال|tr=ettesâl}}
+* Portuguese: {{t+|pt|ligação|f}}
+* Russian: {{t+|ru|связь|f}}
+* Spanish: {{t+|es|enlace|m}}, {{t+|es|vínculo|m}}
+* Vietnamese: {{t|vi|kết nối}}, {{t+|vi|liên kết}}
+{{trans-bottom}}
+
+{{trans-top|mathematics: space comprising one or more disjoint knots}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|a thin wild bank of land splitting two cultivated patches}}
+{{trans-top|thin wild bank of land splitting two cultivated patches}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|individual person or element in a  system}}
+* Finnish: {{t|fi|lenkki}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|anything doubled and closed like a link of a chain}}
+* Finnish: {{t|fi|lenkki}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|type of sausage}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|kinematics: elementary piece of a mechanism by which relative motion of other parts is produced and constrained}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|engineering: intermediate rod or piece for transmitting force or motion}}
+* Finnish: {{t|fi|linkku}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|surveying: length of one joint of Gunter's chain}}
+* Finnish: {{t|fi|lenkki}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|chemistry: bond of affinity}}
+* Finnish: {{t|fi|sidos}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|windings of a river; the land along a winding stream}}
+* Finnish: {{t|fi|mutka}}
 {{trans-mid}}
 {{trans-bottom}}
 
