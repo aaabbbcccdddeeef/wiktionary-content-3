@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{affix|en|pan-|-sexual}}. First attested in 1926 (with ''[[pansexualism]]'' attested since 1917), as a descriptor of the psychological theory that all human activity is based on [[sexuality]].<ref>{{R:Etymonline}}</ref><ref>{{R:Dictionary.com}}</ref><ref>{{R:MWO}}</ref> Used to describe a [[sexual orientation]] since at least the 1970s.<!--see citations page-->
+From {{af|en|pan-|-sexual}}. First attested in 1926 (with ''[[pansexualism]]'' attested since 1917), as a descriptor of the psychological theory that all human activity is based on [[sexuality]].<ref>{{R:Etymonline}}</ref><ref>{{R:Dictionary.com}}</ref><ref>{{R:MWO}}</ref> Used to describe a [[sexual orientation]] since at least the 1970s.<!--see citations page-->
 
 ===Pronunciation===
 * {{a|GenAm}} {{IPA|/pænˈsɛkʃuəl/|lang=en}}
@@ -23,17 +23,19 @@ From {{affix|en|pan-|-sexual}}. First attested in 1926 (with ''[[pansexualism]]'
 # {{lb|en|psychology}} Pertaining to the psychological theory of [[pansexualism]].
 
 ====Alternative forms====
-* {{l|en|pan-sexual}}
+* {{alter|en|pan-sexual}}
 
 ====Derived terms====
-* {{l|en|pansexuality}}
-* {{l|en|pansexually}}
+{{der2|en
+|pansexuality
+|pansexually}}
 
 ====Related terms====
-* {{l|en|pansexualism}}, {{l|en|pansexualist}}
-* {{l|en|pansexualize}}, {{l|en|pansexualization}}
-* {{l|en|panromantic}}
-* {{l|en|pan-curious}}
+{{rel4|en
+|[[pansexualism]], [[pansexualist]]
+|[[pansexualize]], [[pansexualization]]
+|panromantic
+|pan-curious}}
 
 ===Noun===
 {{en-noun}}
@@ -66,15 +68,21 @@ From {{affix|en|pan-|-sexual}}. First attested in 1926 (with ''[[pansexualism]]'
 
 ==Catalan==
 
+===Etymology===
+From {{af|ca|pan-|sexual}}.
+
+===Pronunciation===
+* {{ca-IPA}}
+
 ===Adjective===
 {{ca-adj|mf}}
 
-# [[#English|pansexual]]
+# {{l|en|pansexual}}
 
 ===Noun===
 {{ca-noun|mf}}
 
-# [[#English|pansexual]]
+# {{l|en|pansexual}}
 
 ====Related terms====
 * {{l|ca|pansexualitat}}
@@ -86,15 +94,15 @@ From {{affix|en|pan-|-sexual}}. First attested in 1926 (with ''[[pansexualism]]'
 ==Romanian==
 
 ===Etymology===
-From {{bor|ro|en|pansexual}}
+From {{bor|ro|en|pansexual}}.
 
 ===Pronunciation===
-* {{IPA|/ˌpan.sek.suˈal/|lang=ro}}
+* {{IPA|ro|/ˌpan.sek.suˈal/}}
 
 ===Adjective===
 {{ro-adj|4}}
 
-# [[#English|pansexual]]
+# {{l|en|pansexual}}
 
 ====Declension====
 {{ro-adj-4}}
@@ -102,7 +110,7 @@ From {{bor|ro|en|pansexual}}
 ===Noun===
 {{ro-noun|m|pansexuali}}
 
-# [[#English|pansexual]]
+# {{l|en|pansexual}}
 
 ====Declension====
 {{ro-noun-m}}
@@ -116,7 +124,16 @@ From {{bor|ro|en|pansexual}}
 
 ==Spanish==
 
+===Etymology===
+From {{af|es|pan-|sexual}}.
+
+===Pronunciation===
+* {{es-IPA}}
+
 ===Adjective===
 {{es-adj|pl=pansexuales}}
 
 # {{l|en|pansexual}}
+
+====Derived terms====
+* {{l|es|pansexualidad}}
