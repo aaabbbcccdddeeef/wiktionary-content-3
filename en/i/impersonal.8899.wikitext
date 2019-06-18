@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|fr|en}} {{m|fr|impersonnel}}, from {{etyl|la|en}} {{m|la|impersōnālis}}, from Latin {{m|la|im-||not}} + {{m|la|persōnālis||personal}}.
+From {{bor|en|fr|impersonnel}}, from {{der|en|la|impersōnālis}}, from {{m|la|im-||not}} + {{m|la|persōnālis||personal}}.
 
 ===Pronunciation===
 * {{a|GA}} {{IPA|/ɪmˈpɝsənəl/|lang=en}}
@@ -10,11 +10,11 @@ From {{etyl|fr|en}} {{m|fr|impersonnel}}, from {{etyl|la|en}} {{m|la|impersōnā
 {{en-adj}}
 
 # Not [[personal]]; not representing a [[person]]; not having personality.
-#: ''An almighty but '''impersonal''' power, called Fate.'' &ndash;Sir J. Stephen.
+#: ''An almighty but '''impersonal''' power, called Fate.'' &ndash;Sir J. Stephen. {{rfdate|en}}
 # Lacking warmth or emotion; cold.
-#: ''She sounded '''impersonal''' as she gave her report of the Nazi death camps.''
+#: {{ux|en|She sounded '''impersonal''' as she gave her report of the Nazi death camps.}}
 # {{lb|en|grammar|of a verb or other word}} Not having a subject, or having a third person pronoun without an antecedent.
-#: ''The verb “rain” is '''impersonal''' in sentences like “It’s raining.”''
+#: {{ux|en|The verb “rain” is '''impersonal''' in sentences like “It’s raining.”}}
 
 ====Synonyms====
 * {{sense|grammar}} {{l|en|monopersonal}}, {{l|en|unipersonal}}
@@ -27,11 +27,13 @@ From {{etyl|fr|en}} {{m|fr|impersonnel}}, from {{etyl|la|en}} {{m|la|impersōnā
 
 ====Translations====
 {{trans-top|not representing a person}}
-* Czech: {{t|cs|neosobní|m}}
+* Catalan: {{t|ca|impersonal}}
+* Czech: {{t|cs|neosobní}}
 * Dutch: {{t+|nl|onpersoonlijk}}
 * Finnish: {{t|fi|persoonaton}}
+* Galician: {{t|gl|impersoal}}
 * German: {{t+|de|unpersönlich}}
-* Greek: {{t+|el|απρόσωπος|sc=Grek}}
+* Greek: {{t+|el|απρόσωπος}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|személytelen}}
 * Ido: {{t+|io|nepersonala}}
@@ -43,9 +45,11 @@ From {{etyl|fr|en}} {{m|fr|impersonnel}}, from {{etyl|la|en}} {{m|la|impersōnā
 {{trans-top|lacking warmth or emotion}}
 * Belarusian: {{t|be|бязлі́кі}}
 * Bulgarian: {{t+|bg|обективен}}
-* Czech: {{t|cs|neosobní|m}}
+* Catalan: {{t|ca|impersonal}}
+* Czech: {{t|cs|neosobní}}
 * Dutch: {{t+|nl|onpersoonlijk}}
 * Finnish: {{t|fi|persoonaton}}
+* Galician: {{t|gl|impersoal}}
 * German: {{t+|de|unpersönlich}}
 {{trans-mid}}
 * Greek: {{t+|el|απρόσωπος}}
@@ -60,17 +64,19 @@ From {{etyl|fr|en}} {{m|fr|impersonnel}}, from {{etyl|la|en}} {{m|la|impersōnā
 * Belarusian: {{t|be|безасабо́вы}}
 * Breton: {{t+|br|dic'hour}}
 * Bulgarian: {{t+|bg|безличен}}
+* Catalan: {{t|ca|impersonal}}
 * Chinese:
 *: Mandarin: {{t+|cmn|無人稱}}, {{t+|cmn|无人称|tr=wúrénchēng}}
 * Estonian: {{t|et|umbisikuline}}
 * Finnish: {{t|fi|persoonaton}}
 * French: {{t+|fr|impersonnel}}
+* Galician: {{t|gl|impersoal}}
 * German: {{t+|de|unpersönlich}}
 {{trans-mid}}
-* Greek: {{t+|el|απρόσωπος|sc=Grek}}
+* Greek: {{t+|el|απρόσωπος}}
 * Hungarian: {{t+|hu|személytelen}}
 * Kumyk: {{t|kum|бетсиз|tr=betsiz}}
-* Latin: {{t|la|impersonalis|m}}
+* Latin: {{t|la|impersonalis}}
 * Polish: {{t+|pl|bezosobowy}}
 * Russian: {{t+|ru|безли́чный}}
 * Spanish: {{t+|es|impersonal}}
@@ -79,6 +85,31 @@ From {{etyl|fr|en}} {{m|fr|impersonnel}}, from {{etyl|la|en}} {{m|la|impersōnā
 
 ===Anagrams===
 * {{anagrams|en|a=aeilmnoprs|mailperson|prolamines}}
+
+----
+
+==Catalan==
+
+===Etymology===
+From {{der|ca|la|impersōnālis}}.
+
+===Adjective===
+{{ca-adj|mf}}
+
+# {{l|en|impersonal}} {{gloss|not representing a person}}
+#: {{ant|ca|personal}}
+# {{lb|es|grammar}} {{l|en|impersonal}} {{gloss|not having a subject}}
+
+====Derived terms====
+* {{l|ca|impersonalitat}}
+* {{l|ca|impersonalitzar}}
+* {{l|ca|impersonalment}}
+
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
 
 ----
 
