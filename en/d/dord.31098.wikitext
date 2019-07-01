@@ -2,47 +2,54 @@
 ==Irish==
 
 ===Etymology===
-From {{inh|ga|sga|dord||buzzing, humming, droning, intoning}}.
+From {{inh|ga|sga|dord|t=buzzing, humming, droning, intoning}}.
 
 ===Noun===
-{{ga-noun|m|doird|doird}}
+{{ga-noun|m|doird|doird|vngen=dordta}}
 
+# {{verbal noun of|ga|dord}}
 # [[buzz]], [[drone]]
 # {{lb|ga|music}} [[bass]]
 
 ====Declension====
+;As verbal noun:
+{{ga-decl-m-irreg-nopl|d|ord|ordta}}
+;As substantive:
 {{ga-decl-m1|d|ord|oird}}
 
 ====Derived terms====
-{{der-top3}}
-* {{l|ga|andord|t=drone, chant}}
-* {{l|ga|dordfhocal|t=buzzword}}
-* {{l|ga|dord figiúrtha|t=figured bass}}
-* {{l|ga|dord-druma|t=bass drum}}
-* {{l|ga|dordeochair|t=bass clef}}
-{{der-mid3}}
-* {{l|ga|dordghuth|t=bass voice}}
-* {{l|ga|dordlíne}}, {{l|ga|líne an doird|t=bassline}}
-* {{l|ga|dordóir|t=bassist}}
-* {{l|ga|dordveidhil|t=cello}}
-{{der-mid3}}
-* {{l|ga|dordveidhlín|t=bass fiddle}}
-* {{l|ga|fo-dhord|t=subdued murmur; backbiting}}
-* {{l|ga|fo-dhordaire|t=subwoofer}}
-* {{l|ga|olldord|t=double bass, contrabass}}
-{{der-bottom}}
+{{der4|ga
+|{{l|ga|andord|t=drone, chant}}
+|{{l|ga|dordfhocal|t=buzzword}}
+|{{l|ga|dord figiúrtha|t=figured bass}}
+|{{l|ga|dord-druma|t=bass drum}}
+|{{l|ga|dordeochair|t=bass clef}}
+|{{l|ga|dordghuth|t=bass voice}}
+|{{l|ga|dordlíne}}, {{l|ga|líne an doird|t=bassline}}
+|{{l|ga|dordóir|t=bassist}}
+|{{l|ga|dordveidhil|t=cello}}
+|{{l|ga|dordveidhlín|t=bass fiddle}}
+|{{l|ga|fo-dhord|t=subdued murmur; backbiting}}
+|{{l|ga|fo-dhordaire|t=subwoofer}}
+|{{l|ga|olldord|t=double bass, contrabass}}
+}}
 
 ===Verb===
-{{ga-verb|pres=dordann|fut=dordfaidh|vn=dordadh|pp=dordta}}
+{{ga-verb|pres=~ann|fut=~faidh|vn=~|pp=~ta}}
 
-# to [[hum]], [[buzz]], [[drone]]
-# to [[chant]] in a deep voice
+# {{lb|ga|intransitive}} [[hum]], [[buzz]], [[drone]]
+# {{lb|ga|intransitive}} [[chant]] in a deep voice
 
 ====Conjugation====
 {{ga-conj-1a|d|or|d|broad}}
 
 ===Mutation===
 {{ga-mut}}
+
+===References===
+* {{R:ga:Ó Dónaill}}
+* {{R:ga:EID}}
+* {{R:ga:NEID}}
 
 ----
 
@@ -65,7 +72,10 @@ From {{inh|ga|sga|dord||buzzing, humming, droning, intoning}}.
 * {{l|sga|dordaid}}
 
 ====Descendants====
-* Irish: {{l|ga|dord}}
+* {{desc|ga|dord}}
+
+===Mutation===
+{{sga-mutation|d|ord}}
 
 ===References===
 * {{R:DIL|18319}}
