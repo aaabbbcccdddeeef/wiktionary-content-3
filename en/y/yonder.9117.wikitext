@@ -2,13 +2,13 @@
 {{was wotd|2006|December|2}}
 
 ===Etymology===
-From {{inh|en|enm|yonder}}, {{m|enm|yondre}}, {{m|enm|ȝondre}}, {{m|enm|ȝendre}}, from {{inh|en|ang|ġeonre|t=thither; yonder|pos=adv}}, equivalent to {{m|en|yond}} (from {{etyl|ang|en}} {{m|ang|ġeond}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*jend-}}, {{m|gem-pro|*jand-}}) + {{m|en|-er}}, as in {{m|en|hither}}, {{m|en|thither}}. Cognate with {{cog|sco|ȝondir|t=yonder}}, {{cog|nl|ginder|t=over there; yonder}}, {{cog|got|𐌾𐌰𐌹𐌽𐌳𐍂𐌴|t=thither}}.
+From {{inh|en|enm|yonder}}, {{m|enm|yondre}}, {{m|enm|ȝondre}}, {{m|enm|ȝendre}}, from {{inh|en|ang|ġeonre|t=thither; yonder|pos=adv}}, equivalent to {{m|en|yond}} (from {{m|ang|ġeond}}, from {{der|en|gem-pro|*jend-}}, {{m|gem-pro|*jand-}}) + {{m|en|-er}}, as in {{m|en|hither}}, {{m|en|thither}}. Cognate with {{cog|sco|ȝondir|t=yonder}}, {{cog|nl|ginder|t=over there; yonder}}, {{cog|got|𐌾𐌰𐌹𐌽𐌳𐍂𐌴|t=thither}}.
 
 ===Pronunciation===
-* {{a|RP}} {{IPA|/ˈjɒndə(ɹ)/|lang=en}}
+* {{a|RP}} {{IPA|en|/ˈjɒndə(ɹ)/}}
 * {{a|US}} {{audio-pron|en-us-yonder.ogg|ipa=/ˈjɑndə(ɹ)/|lang=en|country=us}}
-* {{audio|en-au-yonder.ogg|Audio (AU)|lang=en}}
-* {{rhymes|ɒndə(ɹ)|lang=en}}
+* {{audio|en|en-au-yonder.ogg|Audio (AU)}}
+* {{rhymes|en|ɒndə(ɹ)}}
 
 ===Adverb===
 {{en-adv|-}}
@@ -37,7 +37,7 @@ From {{inh|en|enm|yonder}}, {{m|enm|yondre}}, {{m|enm|ȝondre}}, {{m|enm|ȝendre
 * Breton: {{t+|br|hont}}, {{t+|br|ahont}}
 * Catalan: {{t+|ca|allà}}
 * Chinese:
-*: Mandarin: {{t+|cmn|那邊|alt=（在）那邊|sc=Hani}}, {{t+|cmn|那边|alt=（在）那边|tr=(zài) nàbiān|sc=Hani}}
+*: Mandarin: {{t+|cmn|那邊|alt=（在）那邊}}, {{t+|cmn|那边|alt=（在）那边|tr=(zài) nàbiān}}
 * Cornish: {{t|kw|hons}}, {{t|kw|enos}}, {{t|kw|en-hons}}
 * Czech: {{t+|cs|tam}}
 * Dutch: {{t+|nl|ginder}}
@@ -48,17 +48,19 @@ From {{inh|en|enm|yonder}}, {{m|enm|yondre}}, {{m|enm|ȝondre}}, {{m|enm|ȝendre
 * Icelandic: {{t+|is|þarna}}
 * Irish: {{t|ga|ansiúd}}
 * Italian: {{t+|it|laggiù}}
-* Japanese: {{t+|ja|あそこ|tr=asoko ni|alt=あそこに|sc=Jpan}}, {{t+|ja|彼方|tr=kanata}}
+* Japanese: {{t+|ja|あそこ|tr=asoko ni|alt=あそこに}}, {{t+|ja|彼方|tr=kanata}}
 {{trans-mid}}
 * Korean: {{t+|ko|저편}}
-* Macedonian: {{t|mk|онде|tr=ónde}}, {{t|mk|ондека|tr=óndeka}}
+* Macedonian: {{t|mk|о́нде}}, {{t|mk|о́ндека}}
 * Malay: {{t|ms|sana}}, {{t|ms|di sana}}
 * Maori: {{t|mi|korā}}
-* Mongolian: {{t|mn|энэ хавьд|sc=Cyrl}}
+* Mongolian: {{t|mn|энэ хавьд}}
 * Portuguese: {{t+|pt|além}}, {{t+|pt|acolá}}
 * Russian: {{t|ru|[[вон]] [[та́м]]}}, {{t+|ru|там}}
 * Scottish Gaelic: {{t|gd|an siud}}
-* Serbo-Croatian: {{t|sh|онде}}, {{t+|sh|onde}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|о́нде}}
+*: Roman: {{t+|sh|ónde}}
 * Sicilian: {{t|scn|ddassutta}}, {{t|scn|ddocu sutta}}
 * Spanish: {{t|es|de allá}}
 * Turkish: {{t+|tr|orada}}
@@ -92,7 +94,12 @@ From {{inh|en|enm|yonder}}, {{m|enm|yondre}}, {{m|enm|ȝondre}}, {{m|enm|ȝendre
 * {{sense|distant but within sight}} {{l|en|yon}}
 
 ====Derived terms====
-* {{l|en|yonderly}}, {{l|en|yondermair}}, {{l|en|yondermost}}, {{l|en|that yonder}}, {{l|en|this yonder}}
+{{der3|en
+|yonderly
+|yondermair
+|yondermost
+|that yonder
+|this yonder}}
 
 ====Translations====
 {{trans-top|distant but within sight}}
@@ -102,10 +109,10 @@ From {{inh|en|enm|yonder}}, {{m|enm|yondre}}, {{m|enm|ȝondre}}, {{m|enm|ȝendre
 * Cornish: {{t|kw|enos}}
 * Finnish: {{t+|fi|tuo}}
 * French: {{t+|fr|là-bas}}
-* Japanese: {{t+|ja|あの|tr=ano|sc=Jpan}}
+* Japanese: {{t+|ja|あの|tr=ano}}
 {{trans-mid}}
 * Korean: {{t+|ko|그|tr=keu}}, {{t+|ko|그것|tr=keu-geot}}
-* Macedonian: {{t|mk|онде|tr=ónde}}, {{t|mk|ондека|tr=óndeka}}, {{t|mk|оној|tr=onoj|sc=Cyrl}}
+* Macedonian: {{t|mk|о́нде}}, {{t|mk|о́ндека}}, {{t|mk|оној}}
 * Portuguese: {{t+|pt|aquele|m}}, {{t+|pt|aquela|f}}, {{t+|pt|aquilo|n}}
 * Russian: {{t|ru|[[вон]] [[то́т]]|m}}, {{t|ru|[[вон]] [[та́]]|f}}, {{t|ru|[[вон]] [[то́]]|n}}, {{t|ru|[[вон]] [[те́]]|p}}
 * Spanish: {{t+|es|aquel|m}}, {{t+|es|aquella|f}}
@@ -121,14 +128,16 @@ From {{inh|en|enm|yonder}}, {{m|enm|yondre}}, {{m|enm|ȝondre}}, {{m|enm|ȝendre
 #*: Off we go in to the wild blue '''yonder''',<br>Climbing high into the sun...
 
 ====Derived terms====
-* {{l|en|yonderward}}, {{l|en|yonderway}}
+{{der2|en
+|yonderward
+|yonderway}}
 
 ====Translations====
 {{trans-top|the vast distance}}
 * Finnish: {{t+|fi|tuo}}
 * German: {{t|de|dort drüben}}
 {{trans-mid}}
-* Japanese: {{t+|ja|あれ|tr=are|sc=Jpan}}
+* Japanese: {{t+|ja|あれ|tr=are}}
 * Russian: {{t+|ru|далёко}}
 {{trans-bottom}}
 
