@@ -228,6 +228,9 @@ From {{etyl|enm|en}} {{m|enm|narow}}, {{m|enm|narowe}}, {{m|enm|narewe}}, {{m|en
 #: ''He stepped in front of me, '''narrowing '''his eyes to slits.''
 #: ''She wagged her finger in his face, and her eyes '''narrowed'''.''
 # {{lb|en|knitting}} To contract the size of, as a stocking, by taking two stitches into one.
+# {{lb|en|transitive|programming}} To convert to a [[data type]] that cannot hold as many distinct values.
+#: {{antonyms|widen}}
+#: ''to '''narrow''' an <code>int</code> variable to a <code>short</code> variable''
 
 =====Synonyms=====
 * {{l|en|taper}}
