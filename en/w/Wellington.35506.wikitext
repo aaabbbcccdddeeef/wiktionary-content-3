@@ -6,9 +6,9 @@
 From {{w|Arthur Wellesley, 1st Duke of Wellington}}, British soldier and statesman.
 
 ====Pronunciation====
-* {{a|RP|GA}} {{IPA|/ˈwɛlɪŋtən/|lang=en}}
-* {{a|GNZ}} {{IPA|/ˈwelɘŋtɘn/|lang=en}}
-* {{audio|En-au-Wellington.ogg|Audio (AU)|lang=en}}
+* {{a|RP|GA}} {{IPA|en|/ˈwɛlɪŋtən/}}
+* {{a|GNZ}} {{IPA|en|/ˈwelɘŋtɘn/}}
+* {{audio|en|En-au-Wellington.ogg|Audio (AU)}}
 
 ====Proper noun====
 {{en-proper noun}}
@@ -30,10 +30,10 @@ From {{w|Arthur Wellesley, 1st Duke of Wellington}}, British soldier and statesm
 {{trans-top|capital of New Zealand}}
 * Arabic: {{t|ar|وِيلِنْجْتُون|m|tr=wilingtūn}}, {{t|ar|وِيلِينْغْتُون|m|tr=wilinḡtūn}}
 * Armenian: {{t|hy|Վելինգտոն}}
-* Belarusian: {{t|be|Велінгтон|m|tr=Velinhtón}}
-* Bulgarian: {{t|bg|Уелингтън|m|tr=Uélingtǎn}}
+* Belarusian: {{t|be|Велінгто́н|m}}
+* Bulgarian: {{t|bg|Уе́лингтън|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|威靈頓|sc=Hani}}, {{t+|cmn|威灵顿|tr=Wēilíngdùn|sc=Hani}}; (also:) {{t+|cmn|惠靈頓|sc=Hani}}, {{t+|cmn|惠灵顿|tr=Huìlíngdùn|sc=Hani}}
+*: Mandarin: {{t+|cmn|威靈頓}}, {{t+|cmn|威灵顿|tr=Wēilíngdùn}}; (also:) {{t+|cmn|惠靈頓}}, {{t+|cmn|惠灵顿|tr=Huìlíngdùn}}
 * Czech: {{t+|cs|Wellington|m}}
 * Danish: {{t|da|Wellington}}
 * Dutch: {{t+|nl|Wellington}}
@@ -52,7 +52,7 @@ From {{w|Arthur Wellesley, 1st Duke of Wellington}}, British soldier and statesm
 * Korean: {{t|ko|웰링턴|tr=Wellingteon}}
 * Latvian: {{t|lv|Velingtona|f}}
 * Lithuanian: {{t|lt|Velingtonas|m}}
-* Macedonian: {{t|mk|Велингтон|m|tr=Vélington}}
+* Macedonian: {{t|mk|Ве́лингтон|m}}
 * Maltese: {{t|mt|Wellington}}
 * Maori: {{t|mi|Te Whanganui-a-Tara}}, {{t|mi|Poneke}}
 * Persian: {{t|fa|ولینگتون}}
@@ -60,7 +60,9 @@ From {{w|Arthur Wellesley, 1st Duke of Wellington}}, British soldier and statesm
 * Portuguese: {{t|pt|Wellington|f}}
 * Romanian: {{t+|ro|Wellington}}
 * Russian: {{t|ru|Ве́ллингтон|m}}, {{t|ru|Веллингто́н|m}}, {{t|ru|Уэ́ллингтон|m}}, {{t|ru|Уэ́ллингтон|m}}
-* Serbo-Croatian: {{t|sh|Велингтон|m|sc=Cyrl}}, {{t|sh|Wellington|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|Велингтон|m}}
+*: Roman: {{t|sh|Wellington|m}}
 * Spanish: {{t+|es|Wellington|m}}
 * Thai: {{t|th|เวลลิงตัน|tr=wellingtạn}}
 * Ukrainian: {{t|uk|Веллінгтон|m|tr=Véllinhton, Vellinhtón}}
@@ -89,10 +91,11 @@ Generalization from [[beef Wellington]].
 # Meat baked in a puff pastry.
 
 =====Related terms=====
-* {{l|en|beef Wellington}}
-* {{l|en|lamb Wellington}}
-* {{l|en|salmon Wellington}}
-* {{l|en|sausage Wellington}}
+{{rel4|en
+|beef Wellington
+|lamb Wellington
+|salmon Wellington
+|sausage Wellington}}
 
 [[Category:English eponyms]]
 [[Category:en:Australia]]
