@@ -183,8 +183,8 @@ Cognate with {{cog|fy|molke}}, {{cog|nl|melk}}, {{cog|nds-nl|melk}}, {{cog|de|Mi
 * Arabic: {{t+|ar|حَلِيب|m}}, {{t+|ar|لَبَن|m}}
 *: Egyptian Arabic: {{t|arz|لبن|m|tr=laban|sc=Arab}}
 * Aramaic:
-*: Hebrew: {{t|arc|חלבא|m|tr=ħalbā’|sc=Hebr}}
-*: Syriac: {{t|arc|ܚܠܒܐ|m|tr=ħalbā’|sc=Syrc}}
+*: Classical Syriac: {{t|syc|ܚܠܒܐ|m|tr=ḥaləḇā}}
+*: Jewish Babylonian Aramaic: {{t|arc|חַלְבָּא|m|tr=ḥalbā|sc=Hebr}}
 * Arapaho: {{t|arp|beθéneč}}
 * Armenian: {{t+|hy|կաթ}}
 * Aromanian: {{t|rup|lapte}}
@@ -313,8 +313,8 @@ Cognate with {{cog|fy|molke}}, {{cog|nl|melk}}, {{cog|nds-nl|melk}}, {{cog|de|Mi
 * Ligurian: {{t|lij|læte|m}}
 * Limburgish: {{t+|li|mèlk|m}}
 * Lingala: {{t|ln|míliki|c9|c10}}
-{{trans-mid}}
 * Lithuanian: {{t+|lt|pienas|m}}
+{{trans-mid}}
 * Livonian: {{t|liv|sēmḑa}}
 * Low German:
 *: Dutch Low Saxon: {{t|nds-nl|melk|f}}
@@ -511,6 +511,8 @@ From {{inh|en|ang|melcan}}, from {{inh|en|gem-pro|*melkaną}}, ultimately from {
 {{trans-top|to express milk from mammal}}
 * Afrikaans: {{t+|af|melk}}
 * Arabic: {{t|ar|حَلَبَ}}
+* Aramaic:
+*: Classical Syriac: {{t|syc|ܚܠܒ|tr=ḥəlaḇ}}
 * Armenian: {{t+|hy|կթել}}
 * Aromanian: {{t|rup|mulgu}}, {{t|rup|lãptuescu}}
 * Assamese: {{t|as|খিৰোৱা}}
@@ -536,7 +538,7 @@ From {{inh|en|ang|melcan}}, from {{inh|en|gem-pro|*melkaną}}, ultimately from {
 * German: {{t+|de|melken}}
 * Greek: {{t+|el|αρμέγω}}
 *: Ancient: {{t|grc|ἀμέλγω}}
-* Hebrew: {{t+|he|חלב|tr=khaláv}}
+* Hebrew: {{t+|he|חָלַב|tr=khaláv}}
 * Hungarian: {{t+|hu|fej}}
 * Ido: {{t+|io|melkar}}
 * Irish: {{t|ga|crúigh}}
@@ -549,8 +551,8 @@ From {{inh|en|ang|melcan}}, from {{inh|en|gem-pro|*melkaną}}, ultimately from {
 *: German Low German: {{t|nds-de|melken}}
 * Luxembourgish: {{t|lb|sträichen}}
 * Macedonian: {{t|mk|молзе}}
-* Maltese: {{t|mt|ħaleb}}
 {{trans-mid}}
+* Maltese: {{t|mt|ħaleb}}
 * Maori: {{t|mi|kutētē}}, {{t|mi|whakatētē}}
 * Ngazidja Comorian: {{t|zdj|hama|alt=uhama}}
 * Norman: {{t|nrf|traithe}}
