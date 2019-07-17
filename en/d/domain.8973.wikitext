@@ -1,72 +1,309 @@
+{{also|Domain}}
 ==English==
 
 ===Etymology===
-From , , , , , , (), from , from . See , and compare , , . See also .
+From {{inh|en|enm|demeine}}, {{m|enm|demain||rule}}, {{bor|en|fro|demeine}}, {{m|fro|demaine}}, {{m|fro|demeigne}}, {{m|fro|domaine||power}}, ({{cog|fr|domaine}}), from {{der|en|la|dominium||property, right of ownership}}, from {{m|la|dominus||master, proprietor, owner}}. See {{m|en|dame}}, and compare {{m|en|demain}}, {{m|en|danger}}, {{m|en|dungeon}}. See also {{m|en|demesne}}.
 
 ===Pronunciation===
-* 
-* 
-* 
-* 
+* {{a|RP}} {{IPA|/dəʊˈmeɪn/|lang=en}}
+* {{a|GenAm}} {{IPA|/doʊˈmeɪn/|/dəˈmeɪn/|lang=en}}
+* {{audio|en-us-domain.ogg|Audio (UK)|lang=en}}
+* {{rhymes|eɪn|lang=en}}
 
 ===Noun===
-<br />
+{{en-noun}}
 
-# A geographic area owned or controlled by a single person or organization.
-#:''The king ruled his '''domain''' harshly.''
-# A field or sphere of activity, influence or expertise.
-#:''Dealing with complaints isn't really my '''domain''': get in touch with customer services.''
+# A [[geographic]] area [[own]]ed or [[controlled]] by a single [[person]] or [[organization]].
+#: ''The king ruled his '''domain''' harshly.''
+# A [[field]] or [[sphere]] of [[activity]], [[influence]] or [[expertise]].
+#: ''Dealing with complaints isn't really my '''domain''': get in touch with customer services.''
 #: ''His '''domain''' is English history.''
-# A group of related items, topics, or subjects.
-#* 
-# The set of all possible mathematical entities (points) where a given function is defined.
-# The set of input (argument) values for which a function is defined.
-# A  with no zero divisors; that is, in which no  of nonzero elements is zero.
-#: 
-# An open and connected set in some topology. For example, the interval (0,1) as a subset of the real numbers.
-# Any DNS domain name, particularly one which has been delegated and has become representative of the delegated domain name and its subdomains.
-#*'''2000''', ''BIND 9 Administrator Reference Manual (9.3.2)'', Internet Software Consortium 
+# A [[group]] of [[related]] [[item]]s, [[topic]]s, or [[subject]]s.
+#* {{quote-journal|lang=en|date=2012-01
+|author=Michael Riordan
+|title=Tackling Infinity
+|volume=100|issue=1|page=86
+|magazine=[[w:American Scientist|American Scientist]]
+|url=http://www.americanscientist.org/bookshelf/pub/tackling-infinity
+|passage=Some of the most beautiful and thus appealing physical theories, including quantum electrodynamics and quantum gravity, have been dogged for decades by infinities that erupt when theorists try to prod their calculations into new '''domains'''. Getting rid of these nagging infinities has probably occupied far more effort than was spent in originating the theories.}}
+# {{lb|en|mathematics}} The [[set]] of all [[possible]] mathematical entities ([[point]]s) where a given [[function]] is defined.
+# {{lb|en|mathematics|set theory}} The set of [[input]] ([[argument]]) values for which a [[function]] is defined.
+# {{lb|en|mathematics}} A {{l|en|ring}} with no [[zero divisor]]s; that is, in which no {{l|en|product}} of nonzero elements is zero.
+#: {{hyponyms|en|integral domain}}
+# {{lb|en|mathematics|topology|analysis}} An open and connected set in some [[topology]]. For example, the interval (0,1) as a subset of the [[real number]]s.
+# {{lb|en|computing|Internet}} Any [[Domain Name System|DNS]] [[domain name]], particularly one which has been [[delegate|delegated]] and has become representative of the delegated domain name and its [[subdomain]]s.
+#* '''2000''', ''BIND 9 Administrator Reference Manual (9.3.2)'', Internet Software Consortium [http://www.bind9.net/manual/bind/9.3.2/Bv9ARM.ch01.html]
 #*: Every name in the DNS tree is a '''domain''', even if it is terminal, that is, has no subdomains.
-# A collection of DNS or DNS-like domain names consisting of a delegated domain name and all its subdomains.
-# A collection of information having to do with a domain, the computers named in the domain, and the network on which the computers named in the domain reside.
-# The collection of computers identified by a domain's domain names.
-# A small region of a magnetic material with a consistent magnetization direction.
-# Such a region used as a data storage element in a bubble memory.
-# {{lb|en|data processing}} A form of technical metadata that represent the type of a data item, its characteristics, name, and usage.
+# {{lb|en|computing|Internet}} A collection of [[Domain Name System|DNS]] or DNS-like [[domain name|domain names]] consisting of a [[delegate|delegated]] [[domain name]] and all its [[subdomain]]s.
+# {{lb|en|computing}} A collection of information having to do with a domain, the [[computer]]s named in the domain, and the [[network]] on which the computers named in the domain reside.
+# {{lb|en|computing}} The collection of computers identified by a domain's [[domain name]]s.
+# {{lb|en|physics}} A small region of a magnetic material with a consistent magnetization direction.
+# {{lb|en|computing}} Such a region used as a data storage element in a [[bubble memory]].
+# {{lb|en|data processing}} A form of technical [[metadata]] that represent the type of a data item, its characteristics, name, and usage.
+#* {{quote-web
+|lang=en
+|year=
+|author=IBM
+|title=IBM Terminology - terms D
+|site='IBM Software{{!}}Globalization{{!}}Terminology'
+|url=http://www-01.ibm.com/software/globalization/terminology/d.html
+|accessdate=2013-12-29
+}}
 #*: A characteristic of a field. A data domain specifies a data type and applies the minimum and maximum values allowed and other constraints.
-# The highest rank in the classification of organisms, above kingdom; in the three-domain system, one of the taxa ''Bacteria'', ''Archaea'', or ''Eukaryota''.
-# A folded section of a protein molecule that has a discrete function; the equivalent section of a chromosome
+# {{lb|en|taxonomy}} The highest [[rank]] in the classification of [[organism]]s, above [[kingdom]]; in the three-domain system, one of the [[taxon|taxa]] ''[[Bacteria]]'', ''[[Archaea]]'', or ''[[Eukaryota]]''.
+# {{lb|en|biochemistry}} A [[folded]] section of a [[protein]] [[molecule]] that has a [[discrete]] [[function]]; the equivalent section of a [[chromosome]]
 
 ====Usage notes====
-* {{sense|collection of information}} Used in a context in which domain name services, or kindred services, are managed in a fashion that is integrated with the management of other computer and network related information.
+* {{sense|collection of information}} Used in a context in which [[domain name services]], or kindred services, are managed in a fashion that is [[integrated]] with the management of other computer and network related information.
 * {{sense|collection of computers}} Used in the same context as the ''collection of information'' '''domain''' sense.
 
 ====Synonyms====
-* {{sense|geographic area}} 
-* {{sense|where a function is defined}} 
-* {{sense|collection of DNS names}} , 
+* {{sense|geographic area}} {{l|en|demesne}}
+* {{sense|where a function is defined}} {{l|en|domain of definition}}
+* {{sense|collection of DNS names}} {{l|en|domain name}}, {{l|en|hostname}}
 
 ====Antonyms====
-* {{sense|domain of definition of a function}} 
-* {{sense|domain of definition of a function}} 
+* {{sense|domain of definition of a function}} {{l|en|range}}
+* {{sense|domain of definition of a function}} {{l|en|codomain}}
 
 ====Hyponyms====
+{{col4
+|en|application domain
+|source domain
+|subdomain
+|target domain
+|top-level domain
+}}
+
 ====Derived terms====
+{{der4
+|en|cross-domain
+|domain hack
+|domain-joined
+|domain name
+|domain of discourse
+|domaining
+|domain kiting
+|domainless
+|domain tasting
+|domain theory
+|domain wall
+|megadomain
+}}
+
 ====Related terms====
+{{rel4
+|en|DNS
+|dominate
+|dominion
+|domino
+}}
+
 ====Translations====
+{{trans-top|geographic area owned or controlled by a single person or organization}}
+* Bashkir: {{t|ba|даирә|sc=Cyrl}}
+* Bulgarian: {{t+|bg|област|f}}
+* Czech: {{t|cs|doména|f}}
+* Dutch: {{t+|nl|domein|n}}
+* Finnish: {{t+|fi|alue}}, {{t+|fi|tontti}}, {{t+|fi|valtakunta}}
+* French: {{t+|fr|domaine|f}}
+* Georgian: {{t|ka|სამფლობელო}}
+* German: {{t+|de|Domäne|f}}, {{t+|de|Gebiet|n}}, {{t+|de|Bezirk|m}}
+* Greek: {{t+|el|επικράτεια|f}}
+* Hebrew: {{t+|he|תחום|m}}
+{{trans-mid}}
+* Italian: {{t+|it|dominio|m}}
+* Norwegian:
+*: Bokmål: {{t+|nb|domene|n}}
+*: Nynorsk: {{t|nn|domene|n}}
+* Polish: {{t+|pl|dziedzina|f}}
+* Portuguese: {{t+|pt|domínio|m}}
+* Romanian: {{t+|ro|domeniu|n}}
+* Russian: {{t+|ru|владе́ние|n}}
+* Spanish: {{t+|es|dominio|m}}
+* Vietnamese: {{t+|vi|đất đai}}, {{t+|vi|tài sản}}, {{t|vi|dinh cơ}}
+{{trans-bottom}}
+
+{{trans-top|a field or sphere of activity, influence or expertise}}
+* Armenian: {{t-needed|hy}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Czech: {{t|cs|doména|f}}
+* Esperanto: {{t-needed|eo}}
+* Finnish: {{t+|fi|ala}}
+* French: {{t+|fr|domaine|f}}
+* German: {{t+|de|Domäne|f}}, {{t+|de|Gebiet|n}}, {{t+|de|Bereich|m}}
+* Hebrew: {{t+|he|תחום|m}}
+* Indonesian: {{t+|id|ranah}}
+* Maori: {{t|mi|kainga}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t+|nb|domene|n}}
+*: Nynorsk: {{t|nn|domene|n}}
+* Polish: {{t+|pl|dziedzina|f}}
+* Portuguese: {{t+|pt|domínio|m}}
+* Romanian: {{t+|ro|domeniu|n}}
+* Russian: {{t-needed|ru}}
+* Spanish: {{t+|es|esfera|f}}
+* Swedish: {{t+|sv|domän|c}}
+* Thai: {{t-needed|th}}
+* Vietnamese: {{t+|vi|lãnh địa}}, {{t+|vi|lãnh thổ}}
+{{trans-bottom}}
+
+{{trans-top|group of related items}}
+* Bulgarian: {{t+|bg|област|f}}
+* Finnish: {{t+|fi|luokka}}, {{t+|fi|laji}}, {{t+|fi|suku}}, {{t+|fi|ala}}
+* German: {{t+|de|Gebiet|n}}, {{t+|de|Bereich|m}}
+{{trans-mid}}
+* Greek: {{t+|el|κλάδος|m}}, {{t+|el|τομέας|m}}
+* Polish: {{t+|pl|dziedzina|f}}
+* Portuguese: {{t+|pt|domínio|m}}
+{{trans-bottom}}
+
+{{trans-top|(mathematics) the set on which a function is defined}}
+* Bulgarian: {{t|bg|интервал на съществуване}}
+* Chinese:
+*: Mandarin: {{t+|cmn|定義域|sc=Hani}}, {{t+|cmn|定义域|tr=dìngyì yù|sc=Hani}}
+* Czech: {{t|cs|definiční obor|m}}
+* Danish: {{t|da|definitionsmængde|c}}
+* Estonian: {{t|et|määramispiirkond}}
+* Finnish: {{t+|fi|määrittelyjoukko}}, {{t|fi|määrittelyalue}}
+* French: {{t|fr|domaine de définition|m}}, {{t+|fr|domaine|m}}
+* German: {{t|de|Definitionsbereich|m}}, {{t|de|Definitionsmenge|f}}
+* Greek: {{t+|el|πεδίο ορισμού}}
+* Hebrew: {{t+|he|תחום|m|tr=tchúm}}, {{t+|he|תחום הגדרה|m|tr=tchúm hagdará}}
+* Hungarian: {{t+|hu|értelmezési tartomány}}
+* Icelandic: {{t|is|formengi|n}}, {{t|is|frámengi|n}}, {{t|is|skilgreiningarmengi|n}}, {{t|is|óðal|n}}
+* Italian: {{t+|it|dominio|m}}
+{{trans-mid}}
+* Japanese: {{t+|ja|定義域|tr=ていぎいき, teigiïki|sc=Jpan}}, {{t+|ja|始域|tr=しいき, shiïki|sc=Jpan}}
+* Norwegian: {{t|no|definisjonsområde|n}}
+*: Bokmål: {{t+|nb|definisjonsmengde|m}}
+*: Nynorsk: {{t|nn|definisjonsmengd|f}}, {{t|nn|definisjonsmengde|f}}
+* Occitan: {{t|oc|domeni de definicion|m}}, {{t|oc|domeni|m}}
+* Polish: {{t+|pl|dziedzina|f}}
+* Portuguese: {{t+|pt|domínio|m}}
+* Romanian: {{t+|ro|domeniu|n}}
+* Russian: {{t|ru|о́бласть определе́ния|f}} <!-- link as t-SOP if non-idiomatic; put marked word in |alt=; see [[User:Kephir/gadgets/xte#Translation_fixing]] -->
+* Spanish: {{t+|es|dominio|m}}
+* Swedish: {{t+|sv|definitionsmängd|c}}
+* Tagalog: {{t|tl|saklaw}}
+* Vietnamese: {{t|vi|tập xác định}}, {{t|vi|miền xác định}}
+{{trans-bottom}}
+
+{{trans-top|(mathematics) ring with no zero divisors}}
+* Finnish: {{t+|fi|alue}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|(mathematics) an open and connected set}}
+* Chinese:
+*: Mandarin: {{t+|cmn|区域|tr=qūyù|sc=Hani}}
+{{trans-mid}}
+* Finnish: {{t+|fi|alue}}
+* Hebrew: {{t+|he|תחום|m|tr=tchúm}}
+{{trans-bottom}}
+
+{{trans-top|DNS domain name}}
+* Arabic: {{t|ar|مَجَال إِنْتَرْنَت|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|域名|tr=yùmíng|sc=Hani}}
+* Esperanto: {{t|eo|domajno}}
+* Finnish: {{t+|fi|verkkotunnus}}
+* French: {{t+|fr|domaine|m}}
+* German: {{t+|de|Domain|f}}, {{t+|de|Domäne|f}}
+* Italian: {{t+|it|dominio|m}}
+* Japanese: {{t+|ja|ドメイン|tr=domein}}
+{{trans-mid}}
+* Korean: {{t+|ko|도메인}}
+* Polish: {{t+|pl|domena|f}}
+* Portuguese: {{t+|pt|domínio|m}}
+* Russian: {{t+|ru|доме́н|m}}
+* Scottish Gaelic: {{t|gd|àrainn-lìn|f}}
+* Spanish: {{t+|es|dominio|m}}
+* Swedish: {{t+|sv|domän|c}}
+* Vietnamese: {{t+|vi|tên miền}}, {{t+|vi|không gian tên}}
+{{trans-bottom}}
+
+{{trans-top|collection of DNS domain names}}
+* Finnish: {{t+|fi|verkkotunnus}}
+* German: {{t+|de|Domains|f-p}}, {{t+|de|Domänen|f-p}}
+* Polish: {{t+|pl|domena|f}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|domínio|m}}
+* Scottish Gaelic: {{t|gd|àrainn-lìn|f}}
+{{trans-bottom}}
+
+{{trans-top|collection of information}}
+* Finnish: {{t+|fi|verkkotunnus}}, {{t|fi|domaini}}
+* German: {{t+|de|Domain|f}}, {{t+|de|Domäne|f}}, {{t|de|Wissensgebiet|n}}
+* Italian: {{t+|it|dominio|m}}
+{{trans-mid}}
+* Polish: {{t+|pl|domena|f}}
+* Scottish Gaelic: {{t|gd|àrainn-lìn|f}}
+{{trans-bottom}}
+
+{{trans-top|collection of computers}}
+* Finnish: {{t|fi|domaini}}, {{t|fi|toimialue}}
+* German: {{t+|de|Domain|f}}, {{t+|de|Domäne|f}}
+* Polish: {{t+|pl|domena|f}}
+* Portuguese: {{t+|pt|domínio|m}}
+{{trans-mid}}
+* Russian: {{t+|ru|доме́н|m}}
+* Scottish Gaelic: {{t|gd|àrainn-lìn|f}}
+* Vietnamese: {{t+check|vi|không gian tên}}, {{t-check|vi|tên miền không gian}} <!-- link as t-SOP if non-idiomatic - was: "[[tên]] [[miền]] [[không gian]]" -->
+{{trans-bottom}}
+
+{{trans-top|small region of magnetic material}}
+* Finnish: {{t|fi|alkeismagneetti}}, {{t|fi|alkeisalue}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|(taxonomy) highest-level grouping of organisms}}
+* Chinese:
+*: Cantonese: {{t|yue|域|tr=wik6|sc=Hani}}
+*: Mandarin: {{t+|cmn|域|tr=yù|sc=Hani}}
+*: Min Nan: {{t|nan|域|tr=he̍k|sc=Hani}}
+* Finnish: {{t|fi|domeeni}}, {{t|fi|yläkunta}}
+* Georgian: {{t|ka|დომენი}}
+* German: {{t+|de|Domäne|f}}, {{t+|de|Bereich|f}}
+* Greek: {{t+|el|επικράτεια|f}}
+* Hungarian: {{t|hu|domén}}
+* Khmer: {{t|km|វិស័យ|tr=vi sai|sc=Khmr}}
+{{trans-mid}}
+* Korean: {{t+|ko|역}}
+* Norwegian:
+*: Bokmål: {{t+|nb|domene|n}}
+*: Nynorsk: {{t|nn|domene|n}}
+* Persian: {{t+|fa|دامنه|tr=dāmane}}
+* Portuguese: {{t+|pt|domínio|m}}
+* Russian: {{t+|ru|доме́н}}
+* Thai: {{t+|th|เขต}}
+* Vietnamese: {{t|vi|lãnh giới}}, {{t+|vi|vực}}
+{{trans-bottom}}
+
+{{trans-top|folded section of a protein}}
+* Finnish: {{t|fi|domeeni}}, {{t|fi|proteiinidomeeni}}
+* French: {{t+|fr|domaine}}
+* Italian: {{t+|it|dominio}}
+{{trans-mid}}
+* Portuguese: {{t+|pt|domínio}}
+* Spanish: {{t+|es|dominio}}
+{{trans-bottom}}
+
 ====Further reading====
-* 
-* 
-* 
+* {{pedia|lang=en|Domain (biology)}}
+* {{R:Century 1911}}
+* {{R:Webster 1913}}
 
 ===Anagrams===
-* 
+* {{anagrams|en|a=adimno|Amidon|Imonda|daimon|domina}}
 
 ----
 
 ==Spanish==
 
 ===Noun===
-<br />
+{{es-noun|m|domains}}
 
-#
+# {{lb|es|internet}} {{l|en|domain}}
