@@ -3,33 +3,32 @@
 {{wikipedia}}
 
 ===Alternative forms===
-* {{l|en|proctour}} {{qualifier|obsolete}}
+* {{alter|en|proctour||obsolete}}
 
 ===Etymology===
-From {{etyl|enm|en}}, from a contraction of {{m|en|procurator}}.
+From {{inh|en|enm|proctour}}, from a contraction of {{m|en|procurator}}.
 
 ===Noun===
 {{en-noun}}
 
 # {{lb|en|US}} A [[person]] who [[supervise]]s [[student]]s as they take an [[examination]], in the United States at the college/university level; often the department secretary, or a fellow/graduate student; an invigilator.
+#: {{syn|en|invigilator}}
 # {{lb|en|UK}} An [[official]] at any of several older [[university|universities]].
 # {{lb|en|British|legal}} A [[legal]] [[practitioner]] in [[ecclesiastical]] and some other [[court]]s.
 # {{lb|en|obsolete}} One appointed to collect [[alms]] for those who could not go out to beg for themselves, such as [[leper]]s and the [[bedridden]].
 # A [[procurator]] or [[manager]] for another.
 # A representative of the [[clergy]] in [[convocation]].
 
-====Synonyms====
-* {{sense|examination supervisor}} {{l|en|invigilator}}
-
 ====Derived terms====
-* {{l|en|proctorial}}
-* {{l|en|proctorship}}
+{{der2|en
+|proctorial
+|proctorship}}
 
 ====Translations====
 {{trans-top|person who supervises students as they take an examination}}
 * Finnish: {{t+|fi|valvoja}}
 * French: {{t+|fr|surveillant}}
-* Persian: {{t+|fa|مراقب|tr=morâgeb|sc=fa-Arab}}
+* Persian: {{t+|fa|مراقب|tr=morâgeb}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|fiscal}}
 * Swedish: {{t+|sv|tentamensvakt|c}}
@@ -51,8 +50,8 @@ From {{etyl|enm|en}}, from a contraction of {{m|en|procurator}}.
 ===Verb===
 {{en-verb}}
 
-# {{lb|en|US}} To function as a proctor.
-# {{lb|en|transitive}} To [[manage]] as an [[attorney]] or [[agent]].
+# {{lb|en|US}} to function as a proctor
+# {{lb|en|transitive}} to [[manage]] as an [[attorney]] or [[agent]]
 #: {{rfquotek|Bishop Warburton}}
 
 [[Category:en:Education]]
