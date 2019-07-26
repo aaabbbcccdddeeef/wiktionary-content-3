@@ -10,13 +10,15 @@ From {{bor|en|la|amurca}}.
 
 ====Translations====
 {{trans-top|sediment in olive oil}}
-* Arabic: {{t|ar|[[مَاء]] ال[[زَّيْتُون]]|m}}, {{t|ar|دُرْدِيّ|m}}, {{t|ar|[[دُرْدِيّ]] ال[[زَّيْت]]|m}}, {{t|ar|كُسْب}}
+* Arabic: {{t|ar|[[مَاء]] ال[[زَّيْتُون]]|m}}, {{t|ar|دُرْدِيّ|m}}, {{t|ar|[[دُرْدِيّ]] ال[[زَّيْت]]|m}}
 *: South Levantine Arabic: {{t|ajp|جفت|tr=jift|m}}
 * Aramaic:
 *: Jewish Babylonian Aramaic: {{t|arc|גִּיפְתׇּא|tr=gīp̄tā|m}}
+* Basque: {{t-needed|eu}}
 * Catalan: {{t+|ca|morca|f}}
+* Finnish: {{t-needed|fi}}
 * French: {{t+|fr|margine|f}}
-* German: {{t|de|Öldrüsen|f-p}}, {{t|de|Ölhefe|f}}, {{t|de|Ölsatz|m}}, {{t|de|Gärbe|f}}
+* German: {{t|de|Öldrüsen|f-p}}, {{t|de|Ölhefe|f}}, {{t|de|Ölsatz|m}}, {{t|de|Gärbe|f}}, {{t|de|Ölschaum|m}}
 * Greek:
 *: Ancient: {{t|grc|ἀμόργη|f}}
 *: Modern: {{t+|el|μούργα|f}}
@@ -24,12 +26,20 @@ From {{bor|en|la|amurca}}.
 * Hebrew: {{t+|he|גֶּפֶת|tr=gāp̄āṯ}}
 * Italian: {{t+|it|morchia|f}}, {{t|it|acqua di vegetazione|f}}
 * Latin: {{t|la|amurca|f}}
+* Malay: {{t-needed|ms}}
+* Persian: {{t-needed|fa}}
 * Portuguese: {{t|pt|amurca|f}}
 * Russian: {{t+|ru|аму́рка|f}}
 * Serbo-Croatian: {{t+|sh|mȗrga|f}}, {{t+|sh|mȗlj|m}}, {{t|sh|[[ȗljnī]] [[tálog]]|m}}, {{t|sh|[[bȋljna]] [[vòda]]|f}} <!-- https://ec.europa.eu/epale/sites/epale/files/vodic_za_poznavanje_maslinovog_ulja.pdf S. 16 -->
 * Slovene: {{t|sl|murga|f}}
 * Spanish: {{t+|es|amurca|f}}, {{t|es|morga|f}}, {{t|es|alpechín|m}}, {{t|es|jámila|f}}
+* Swedish: {{t-needed|sv}}
+* Thai: {{t-needed|th}}
+* Vietnamese: {{t-needed|vi}}
 {{trans-bottom}}
+
+===See also===
+* {{l|en|oil cake}}
 
 ===Anagrams===
 * {{anagrams|en|a=aacmru|Maruca}}
@@ -39,16 +49,20 @@ From {{bor|en|la|amurca}}.
 ==Latin==
 
 ===Etymology===
-From {{der|la|grc|ἀμόργη}}, from {{m|grc|ἀμέργω||pluck, pull}}.
+From {{der|la|grc|ἀμόργη}}, from {{m|grc|ἀμέργω|t=pluck, pull}}.
 
 ===Noun===
 {{la-noun|amurca|amurcae|f|first}}
 
-# The watery part that flows out in pressing [[olives]]
-# The [[lees]] or [[dregs]] of [[oil]]
+# The watery part that flows out in pressing [[olives]], the [[lees]] or [[dregs]] of [[oil]]
+#* '''200s''', {{w|Quintus Gargilius Martialis}} ''De arboribus pomiferis'' 1. 1 ed. {{w|Angelo Mai}} ''Operis deperditi de hortis Fragmenta ex codicibus Neapolitano et Romano cum scholiis palaeographicis et adnotationibus'' Rome 1846 [https://books.google.com/books?id=UqM9AAAAcAAJ&hl=de&pg=PA58 p. 58]
+#*: {{quote|la|Sunt qui figularem cretam cum '''amurca''' subigunt, soleque siccatis cydoneis inliniri existimant, si in loco sicco et frigido reponantur.|There are those who mix potter clay with '''amurca''' and hold it to be daubed on quinces when they are set up in a dry and cold stead.}}
 
 ====Declension====
 {{la-ndecl|amurca<1>}}
+
+====Derived terms====
+* {{l|la|amurcārius}}
 
 ====Descendants====
 * {{desc|an|morca}}
