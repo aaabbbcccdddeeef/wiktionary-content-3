@@ -17,18 +17,21 @@ From {{inh|en|enm|pushen}}, {{m|enm|poshen}}, {{m|enm|posson}}, borrowed from {{
 #: ''In his anger he '''pushed''' me against the wall and threatened me.''
 #: ''You need to '''push''' quite hard to get this door open.''
 # {{lb|en|transitive}} To continually attempt to persuade (a person) into a particular course of action.
-#* Jonathan Swift
+#* Jonathan Swift {{rfdate|en}}
 #*: We are '''pushed''' for an answer.
 #* ''Spectator''
 #*: Ambition '''pushes''' the soul to such actions as are apt to procure honour to the actor.
 # {{lb|en|transitive}} To press or urge forward; to drive.
 #: ''to '''push''' an objection too far; to '''push''' one's luck''
-#* Dryden
+#* Dryden {{rfdate|en}}
 #*: to '''push''' his fortune
 # {{lb|en|transitive}} To continually [[promote]] (a point of view, a product for sale, etc.).
 #: ''Stop '''pushing''' the issue &mdash; I'm not interested.''
 #: ''They're '''pushing''' that perfume again.''
 #: ''There were two men hanging around the school gates today, '''pushing''' drugs.''
+# {{lb|en|intransitive}} To continually [[exert]] oneself in order to achieve a goal.
+#* {{quote-book|en|title=How to be an artist without losing your mind, your shirt, or your creative compass|author=JoAnneh Nagler|year=2016|ISBN=9781581573671|page=91
+|passage=Don't think that if you keep '''pushing''' harder and harder, it will make you succeed faster or earn more.}}
 # {{lb|en|informal|transitive}} To [[approach]]; to come close to.
 #: ''My old car is '''pushing''' 250,000 miles.''
 #: ''He's '''pushing''' sixty.'' (= ''he's nearly sixty years old'')
@@ -39,16 +42,16 @@ From {{inh|en|enm|pushen}}, {{m|enm|poshen}}, {{m|enm|posson}}, borrowed from {{
 # {{lb|en|poker}} To make an [[all-in]] [[bet]].
 # {{lb|en|chess|transitive}} To move (a [[pawn]]) directly [[forward]].
 # {{lb|en|computing}} To add (a data item) to the top of a [[stack]].
-#* '''1992''', Michael A. Miller, ''The 68000 Microprocessor Family: Architecture, Programming, and Applications'' (page 47)
-#*: When the microprocessor decodes the JSR opcode, it stores the operand into the TEMP register and '''pushes''' the current contents of the PC ($00 0128) onto the stack.
+#* {{quote-book|en|year=1992|author=Michael A. Miller|title=The 68000 Microprocessor Family: Architecture, Programming, and Applications|page=47
+|passage=When the microprocessor decodes the JSR opcode, it stores the operand into the TEMP register and '''pushes''' the current contents of the PC ($00 0128) onto the stack.}}
 # {{lb|en|computing}} To [[publish]] (an update, etc.) by transmitting it to other computers.
-#* '''2002''', Lars Powers, Mike Snell, ''Visual Basic Programmer's Guide to the .NET Framework Class Library'' (page 968)
-#*: Because this version of the Windows Installer is aware of the GAC, it has the capability to publish components into it. {{...}} You can manually or programmatically '''push''' an assembly into the GAC by using the command-line tool Gacutil.exe.
+#* {{quote-book|en|year=2002|author=Lars Powers, Mike Snell|title=Visual Basic Programmer's Guide to the .NET Framework Class Library|page=968
+|passage=Because this version of the Windows Installer is aware of the GAC, it has the capability to publish components into it. {{...}} You can manually or programmatically '''push''' an assembly into the GAC by using the command-line tool Gacutil.exe.}}
 # {{lb|en|obsolete}} To thrust the points of the horns against; to [[gore]].
 #* Bible, Exodus xxi. 32
 #*: If the ox shall '''push''' a manservant or maidservant, {{...}} the ox shall be stoned.
 # To burst out of its pot, as a bud or shoot.
-# {{lb|en|snooker}} To strike the [[cue ball]] in such a way that it stays in contact with the [[cue]] and [[object ball]] at the same time (a foul shot)
+# {{lb|en|snooker}} To strike the [[cue ball]] in such a way that it stays in contact with the [[cue]] and [[object ball]] at the same time (a foul shot).
 
 =====Synonyms=====
 * {{sense|transitive: apply a force to (an object) so it moves away}} {{l|en|press}}, {{l|en|shove}}, {{l|en|thrutch}}
@@ -66,8 +69,8 @@ From {{inh|en|enm|pushen}}, {{m|enm|poshen}}, {{m|enm|posson}}, borrowed from {{
 {{col4|en|title=Hyponyms of ''push'' (verb)
 |push around
 |push down
-|{{l|en|push in}}<!--jump the queue/line-->
-|{{l|en|push off}}<!--also imperative-->
+|push in
+|push off
 |push one's luck
 |push someone's buttons
 }}
@@ -77,7 +80,7 @@ From {{inh|en|enm|pushen}}, {{m|enm|poshen}}, {{m|enm|posson}}, borrowed from {{
 <!--"give someone the push-off" is derived from "push off"-->
 |[[pushbike]], [[push-bike]]
 |pushful
-|{{l|en|pushover}}<!--noun-->
+|pushover
 |push-up
 |pushy
 }}
