@@ -47,7 +47,8 @@ From [[w:Latin|Latin]] ''[[divide et impera]]''
 {{en-noun|-}}
 
 # A strategy for achieving political or military control.
-# {{lb|en|computing}} An algorithm design technique applied to various [[algorithm]]s, such as [[quicksort]], that solve a problem by splitting it [[recursively]] into smaller problems until all of the remaining problems are [[trivial]].
+# {{lb|en|computing}} An [[algorithm]] [[design]] [[technique]] that solves a problem by splitting it [[recursively]] into smaller problems until all of the remaining problems are [[trivial]].
+#: ''The [[quicksort]] algorithm is an example of '''divide and conquer'''.''
 
 [[Category:English coordinated pairs]]
 [[Category:English merisms]]
