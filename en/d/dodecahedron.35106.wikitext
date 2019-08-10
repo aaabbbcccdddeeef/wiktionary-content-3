@@ -3,13 +3,13 @@
 [[Image:120px-Dodecahedron-slowturn.gif|thumb|A dodecahedron]]
 
 ===Etymology===
-From {{der|en|grc|δωδεκάεδρον}}. Equivalent to {{affix|en|dodeca-|-hedron}}.
+From {{der|en|grc|δωδεκάεδρον}}. Equivalent to {{af|en|dodeca-|-hedron}}.
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|/ˌdəʊdɛkəˈhiːdɹən/|/ˌdəʊdɪkəˈhiːdɹən/|lang=en}}
-* {{a|US}} {{IPA|/ˌdoʊdɛkəˈhiːdɹən/|lang=en}}
-* {{audio|en-us-dodecahedron.ogg|Audio (US)|lang=en}}
-* {{audio|en-au-dodecahedron.ogg|Audio (AU)|lang=en}}
+* {{a|UK}} {{IPA|en|/ˌdəʊdɛkəˈhiːdɹən/|/ˌdəʊdɪkəˈhiːdɹən/}}
+* {{a|US}} {{IPA|en|/ˌdoʊdɛkəˈhiːdɹən/}}
+* {{audio|en|en-us-dodecahedron.ogg|Audio (US)}}
+* {{audio|en|en-au-dodecahedron.ogg|Audio (AU)}}
 
 ===Noun===
 {{en-noun|dodecahedra|s}}
@@ -20,18 +20,19 @@ From {{der|en|grc|δωδεκάεδρον}}. Equivalent to {{affix|en|dodeca-|-he
 #:{{syn|en|duodecahedron}}
 
 ====Related terms====
-* {{l|en|dodecahedral}}
-* {{l|en|dodecadodecahedron}}
-* {{l|en|great dodecahedron}}
-* {{l|en|icosidodecahedron}}
-* {{l|en|rhombicosidodecahedron}}
+{{rel3|en
+|dodecahedral
+|dodecadodecahedron
+|great dodecahedron
+|icosidodecahedron
+|rhombicosidodecahedron}}
 
 ====Translations====
 {{trans-top|a polyhedron with 12 faces}}
 * Azerbaijani: {{t|az|dodekaedr}}
 * Catalan: {{t+|ca|dodecàedre}}, {{t+|ca|dodecaedre|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|正十二面體|sc=Hani}}, {{t+|cmn|正十二面体|tr=zhèngshí'èr miàntǐ|sc=Hani}}
+*: Mandarin: {{t+|cmn|正十二面體}}, {{t+|cmn|正十二面体|tr=zhèngshí'èr miàntǐ}}
 * Czech: {{t+|cs|dvanáctistěn|m}}, {{t+|cs|dodekaedr|m}}
 * Danish: {{t|da|dodekaeder|n}}
 * Dutch: {{t+|nl|dodecaëder|m}}, {{t|nl|regelmatig twaalfvlak|n}}
@@ -58,12 +59,14 @@ From {{der|en|grc|δωδεκάεδρον}}. Equivalent to {{affix|en|dodeca-|-he
 * Portuguese: {{t+|pt|dodecaedro|m}}
 * Quechua: {{t|qu|chunka iskayniyuq uya}}
 * Russian: {{t+|ru|додека́эдр|m}}
-* Serbo-Croatian: {{t|sh|додекаедар|m|sc=Cyrl}}, {{t+|sh|dodekaedar|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|до̀декае̄дар|m}},
+*: Roman: {{t+|sh|dòdekaēdar|m}}
 * Spanish: {{t+|es|dodecaedro|m}}
 * Swedish: {{t+|sv|dodekaeder|c}}
 * Tamil: {{t|ta|பன்னிரண்டுமுக ஐங்கோணகம்}}
 * Thai: {{t|th|ทรงสิบสองหน้า|tr=song sìp sŏng nâa}}
-* Ukrainian: {{t|uk|додекаедр|m|tr=dodekáedr}}
+* Ukrainian: {{t|uk|додека́едр|m}}
 * Vietnamese: {{t|vi|Khối mười hai mặt}}
 * Welsh: {{t|cy|dodecahedron}}
 {{trans-bottom}}
