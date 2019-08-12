@@ -16,10 +16,14 @@
 
 # {{acronym of|Uniform Resource Locator|lang=en|nodot=1}}: the [[address]] of a web page, ftp site, audio stream or other [[Internet]] resource.
 #: ''<code><nowiki>https://en.wiktionary.org/</nowiki></code> is the '''URL''' of English Wiktionary.''
+# {{lb|en|US|military|nautical}} {{abbreviation of|[[unrestricted]] [[line]] [[officer]]|lang=en}}
 
 ====Hypernyms====
+{{sense|Uniform Resource Locater}}
 * {{l|en|IRI}}
 * {{l|en|URI}}
+{{sense|unrestricted line officer}}
+* {{l|en|line officer}}
 
 ====Translations====
 {{trans-top|URL}}
@@ -37,14 +41,6 @@
 
 ====See also====
 * {{pedialite}}
-
-===Abbreviation===
-{{en-abbr}}
-
-# {{lb|en|US|military|nautical}} {{abbreviation of|[[unrestricted]] [[line]] [[officer]]|lang=en}}
-
-====Hypernyms====
-* {{l|en|line officer}}
 
 ===Anagrams===
 * {{anagrams|en|a=lru|lur}}
