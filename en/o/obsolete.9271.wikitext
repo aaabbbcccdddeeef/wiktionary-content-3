@@ -2,12 +2,12 @@
 ==English==
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|/ˈɒbsəliːt/|lang=en}}
-* {{a|US}} {{enPR|äbsəˈlēt}}, {{IPA|/ɑbsəˈliːt/|/ˈɑbsəliːt/|lang=en}}
-* {{audio|en-us-obsolete.ogg|Audio (US)|lang=en}}
+* {{a|UK}} {{IPA|en|/ˈɒbsəliːt/}}
+* {{a|US}} {{enPR|äbsəˈlēt}}, {{IPA|en|/ɑbsəˈliːt/|/ˈɑbsəliːt/}}
+* {{audio|en|en-us-obsolete.ogg|Audio (US)}}
 
 ===Etymology 1===
-From {{etyl|la|en}} {{m|la|obsoletus||worn out, gone out of use}}, past participle of {{m|la|obsolescere||to wear out, fall into disuse, grow old, decay}}; see {{m|en|obsolesce}}.
+From {{der|en|la|obsolētus|t=worn out, gone out of use}}, past participle of {{m|la|obsolesco|obsolēscere|t=to wear out, fall into disuse, grow old, decay}}; see {{m|en|obsolesce}}.
 
 ====Adjective====
 {{en-adj}}
@@ -17,15 +17,16 @@ From {{etyl|la|en}} {{m|la|obsoletus||worn out, gone out of use}}, past particip
 |title=[http://www.economist.com/news/http://www.economist.com/news/business/21582001-army-new-online-courses-scaring-wits-out-traditional-universities-can-they The attack of the MOOCs]
 |passage=Since the launch early last year of&nbsp;[&hellip;] two Silicon Valley start-ups offering free education through MOOCs, massive open online courses, the ivory towers of academia have been shaken to their foundations. University brands built in some cases over centuries have been forced to contemplate the possibility that information technology will rapidly make their existing business model '''obsolete'''.}}
 #: {{ux|en|It is speculated that, within a few years, the Internet's speedy delivery of news worldwide will make newspapers '''obsolete'''.}}
+#: {{syn|en|antiquated|deprecated|disused}},
 # {{lb|en|biology}} [[imperfect|Imperfectly]] developed; not very distinct.
 #* {{quote-book|lang=en|title=The Birds of Our Rambles: With a Companion for the Country|page=130|author=Charles Dixon|year=1891|passage=These two birds somewhat closely resemble each other, but the Sedge Warbler is russet-brown above, the feathers with dark centres, the pale buff eyestripe is very clearly defined, and the underparts are buffish white; the Reed Warbler is more olive on the upper parts, the feathers having no dark centres, the underparts are more inclined to buff, and the eyestripe is nearly '''obsolete'''.}}
+#: {{syn|en|abortive|obscure|rudimental}}
 
 =====Usage notes=====
 * Nouns to which "obsolete" is often applied: word, phrase, equipment, computer, technology, weapon, machine, law, statute, currency, building, idea, skill, concept, custom, theory, tradition, institution.
 
 =====Synonyms=====
-* {{sense|no longer in use}} {{l|en|antiquated}}, {{l|en|deprecated}}, {{l|en|disused}}, see also [[Thesaurus:obsolete]]
-* {{sense|in biology: imperfectly developed}} {{l|en|abortive}}, {{l|en|obscure}}, {{l|en|rudimental}}
+* {{sense|no longer in use}} see also [[Thesaurus:obsolete]]
 
 =====Derived terms=====
 * {{l|en|obsoleteness}}
@@ -35,7 +36,7 @@ From {{etyl|la|en}} {{m|la|obsoletus||worn out, gone out of use}}, past particip
 * Arabic: {{t|ar|عفا عليها الزمن}}
 * Catalan: {{t+|ca|obsolet}}
 * Chinese:
-*: Mandarin: {{t+|cmn|淘汰|tr=táotài|sc=Hani}}, {{t+|cmn|過時|sc=Hani}}, {{t+|cmn|过时|tr=guòshí|sc=Hani}}, {{t+|cmn|廢棄|sc=Hani}}, {{t+|cmn|废弃|tr=fèiqì|sc=Hani}}
+*: Mandarin: {{t+|cmn|淘汰|tr=táotài}}, {{t+|cmn|過時}}, {{t+|cmn|过时|tr=guòshí}}, {{t+|cmn|廢棄}}, {{t+|cmn|废弃|tr=fèiqì}}
 * Danish: {{t|da|gået af brug}}, {{t|da|forældet}}
 * Dutch: {{t+|nl|verouderd}}, {{t+|nl|achterhaald}}, {{t|nl|in onbruik}}
 * Finnish: {{t+|fi|vanhentunut}}
@@ -50,7 +51,7 @@ From {{etyl|la|en}} {{m|la|obsoletus||worn out, gone out of use}}, past particip
 * Irish: {{t|ga|seanchaite}}
 {{trans-mid}}
 * Italian: {{t+|it|obsoleto}}, {{t|it|in disuso}}
-* Japanese: {{t|ja|廃れる|tr=すたれた, sutareta|alt=廃れた|sc=Jpan}}
+* Japanese: {{t|ja|廃れる|tr=すたれた, sutareta|alt=廃れた}}
 * Korean: {{t+|ko|폐어|tr=pe-eo}}
 * Latin: {{t|la|obsolētus}}
 * Latvian: {{t|lv|novecojis}}
@@ -63,7 +64,7 @@ From {{etyl|la|en}} {{m|la|obsoletus||worn out, gone out of use}}, past particip
 * Russian: {{t+|ru|устаре́вший}}
 * Spanish: {{t+|es|obsoleto}}
 * Swedish: {{t+|sv|förlegad}}
-* Tamil: {{t|ta|வழக்கற்றுப்போன|sc=Taml}}
+* Tamil: {{t|ta|வழக்கற்றுப்போன}}
 * Turkish: {{t+|tr|eskimiş}}
 {{trans-bottom}}
 
@@ -72,19 +73,19 @@ From {{etyl|la|en}} {{m|la|obsoletus||worn out, gone out of use}}, past particip
 * Dutch: {{t+|nl|rudimentair}}
 * Greek: {{t+|el|υποτυπώδης|m|f}}
 {{trans-mid}}
-* Hindi: {{t|hi|अर्धविकसित|m|tr=ardhavikasita|sc=Deva}}
-* Japanese: {{t+|ja|退化|tr=たいかした, taika shita|alt=退化した|sc=Jpan}}
+* Hindi: {{t|hi|अर्धविकसित|m|tr=ardhavikasita}}
+* Japanese: {{t+|ja|退化|tr=たいかした, taika shita|alt=退化した}}
 {{trans-bottom}}
 
 ===Etymology 2===
-From {{etyl|la|en}} {{m|la|obsoleto||degrade, soil, sully, stain, defile}}
+From {{der|en|la|obsolētō|t=degrade, soil, sully, stain, defile}}
 
 ====Verb====
 {{en-verb|obsolet}}
 
 # {{lb|en|transitive|US}} To cause to become obsolete.
-#: ''This software component has been '''obsoleted'''.''
-#: ''We are in the process of '''obsoleting''' this product.''
+#: {{ux|en|This software component has been '''obsoleted'''.}}
+#: {{ux|en|We are in the process of '''obsoleting''' this product.}}
 
 =====Usage notes=====
 * {{m|en|obsolete|To obsolete}} is often used in computing and other technical fields to indicate an effort to remove or replace something.
@@ -99,13 +100,13 @@ From {{etyl|la|en}} {{m|la|obsoleto||degrade, soil, sully, stain, defile}}
 {{trans-bottom}}
 
 ===Related terms===
-* {{l|en|obsolesce}}
-* {{l|en|obsolescence}}
-* {{l|en|obsolescent}}
-* {{l|en|obsoletion}}
+{{rel4|en
+|obsolesce
+|obsolescence
+|obsolescent
+|obsoletion}}
 
 ===Further reading===
-
 * {{R:Webster 1913}}
 * {{R:Century 1911}}
 * {{R:OneLook}}
@@ -124,18 +125,23 @@ From {{etyl|la|en}} {{m|la|obsoleto||degrade, soil, sully, stain, defile}}
 ==Italian==
 
 ===Adjective===
-{{head|it|adjective form|g=f-p|feminine plural form of|obsoleto}}
+{{head|it|adjective form|g=f-p}}
 
-# {{inflection of|it|obsoleto||f|p}}
+# {{it-adj form of|obsoleto|f|pl}}
 
 ----
 
 ==Latin==
 
+===Pronunciation===
+* {{sense|obsolētē}} {{la-IPA|obsolētē}}
+* {{sense|obsolēte}} {{la-IPA|obsolēte}}
+
 ===Adverb===
 {{head|la|adverb|head=obsolētē}}
 
 # old
+# {{rfdef|la}}
 
 ===Adjective===
 {{la-part-form|obsolēte}}
