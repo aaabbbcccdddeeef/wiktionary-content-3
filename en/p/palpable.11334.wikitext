@@ -2,7 +2,7 @@
 {{was wotd|2008|May|4}}
 
 ===Etymology===
-From {{etyl|frm|en}} {{m|frm|palpable}} and its source, {{etyl|la|en}} {{m|la|palpābilis}}.
+From {{bor|en|frm|palpable}} and its source, {{der|en|la|palpābilis}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|/ˈpalpəbəl/|lang=en}}
@@ -40,7 +40,7 @@ From {{etyl|frm|en}} {{m|frm|palpable}} and its source, {{etyl|la|en}} {{m|la|pa
 * Finnish: {{t|fi|käsinkosketeltava}}, {{t|fi|kouriintuntuva}}
 * French: {{t+|fr|palpable}}
 * German: {{t+|de|greifbar}}
-* Greek: {{t+|el|απτός|m|sc=Grek}}, {{t+|el|αισθητός|m|sc=Grek}}, {{t+|el|ψηλαφητός}}
+* Greek: {{t+|el|απτός}}, {{t+|el|αισθητός}}, {{t+|el|ψηλαφητός}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|tapintható}}
 * Italian: {{t+|it|palpabile}}
@@ -51,14 +51,14 @@ From {{etyl|frm|en}} {{m|frm|palpable}} and its source, {{etyl|la|en}} {{m|la|pa
 {{trans-bottom}}
 
 {{trans-top|obvious}}
-* Bulgarian: {{t+|bg|очевиден|m|sc=Cyrl}}, {{t+|bg|ясен|m}}, {{t+|bg|явен|m}}
+* Bulgarian: {{t+|bg|очевиден}}, {{t+|bg|ясен}}, {{t+|bg|явен}}
 * Catalan: {{t|ca|palpable}}
 * Czech: {{t+|cs|zřejmý}}
 * Dutch: {{t|nl|te snijden}}
 * Finnish: {{t+|fi|selvä}}, {{t|fi|kouriintuntuva}}, {{t|fi|käsinkosketeltava}}
 * French: {{t+|fr|palpable}}
 {{trans-mid}}
-* Greek: {{t+|el|προφανής|m|sc=Grek}}
+* Greek: {{t+|el|προφανής}}
 * Hungarian: {{t+|hu|érzékelhető}}
 * Italian: {{t+|it|evidente}}
 * Portuguese: {{t+|pt|palpável}}
@@ -80,12 +80,21 @@ From {{etyl|frm|en}} {{m|frm|palpable}} and its source, {{etyl|la|en}} {{m|la|pa
 ==Catalan==
 
 ===Etymology===
-{{etyl|la|ca}} {{m|la|palpābilis}}.
+From {{bor|ca|LL.|palpābilis}}.
+
+===Pronunciation===
+* {{ca-IPA}}
 
 ===Adjective===
 {{ca-adj|mf}}
 
 # {{l|en|palpable}}
+
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
 
 ----
 
@@ -123,7 +132,16 @@ Borrowed from {{bor|fr|LL.|palpābilis}}.
 
 ==Spanish==
 
+===Etymology===
+From {{bor|es|LL.|palpābilis}}.
+
+===Pronunciation===
+* {{es-IPA}}
+
 ===Adjective===
 {{es-adj}}
 
 # {{l|en|palpable}}
+
+===Further reading===
+* {{R:DRAE}}
