@@ -57,9 +57,9 @@ From {{etyl|xno|en}} {{m|fro|taillour}}, from {{etyl|fro|en}} {{m|fro|tailleor}}
 *: Mandarin: {{t+|cmn|裁縫|sc=Hani}}, {{t+|cmn|裁缝|tr=cáifeng|sc=Hani}}
 * Cornish: {{t|kw|tregher|m}}
 * Czech: {{t+|cs|krejčí|m}}
-* Danish: {{t+|da|skrædder|c}}, {{t|da|skrædderske|c}}
+* Danish: {{t+|da|skrædder|c}}, {{t|da|skrædderske|c}} {{q|female}}
 * Dutch: {{t+|nl|kleermaker|m}}, {{t+|nl|kleermaakster|f}}
-* Esperanto: {{qualifier|♂♀, generic}} {{t+|eo|tajloro}}, {{qualifier|♂}} {{t|eo|virtajloro}}, {{qualifier|♀}} {{t|eo|tajlorino}}
+* Esperanto: {{t+|eo|tajloro}}, {{t|eo|virtajloro}} {{q|male}}, {{t|eo|tajlorino}} {{q|female}}
 * Estonian: {{t|et|rätsep}}
 * Faroese: {{t|fo|skraddari|m}}
 * Finnish: {{t+|fi|räätäli}}, {{t+|fi|vaatturi}}
@@ -73,11 +73,11 @@ From {{etyl|xno|en}} {{m|fro|taillour}}, from {{etyl|fro|en}} {{m|fro|tailleor}}
 * Icelandic: {{t+|is|klæðskeri|m}}, {{t|is|skraddari|m}}
 * Irish: {{t|ga|táilliúir|m}}
 *: Middle Irish: {{t|mga|táilliúr|m}}
-* Italian: {{t+|it|sarto}}
+* Italian: {{t+|it|sarto|m}}, {{t+|it|sarta|f}}
 * Japanese: {{t+|ja|仕立て屋|tr=したてや, shitateya|sc=Jpan}}, {{t+|ja|テーラー|tr=tērā|sc=Jpan}}
 * Korean: {{t+|ko|재단사}}
 * Lao: {{t|lo|ຊ່າງຕັດເຄື່ອງຜູ້ຊາຍ}}
-* Latin: {{t|la|sartor}}, {{t|la|scissor}}
+* Latin: {{t|la|sartor|m}}, {{t|la|sartrīx|f}}, {{t|la|scissor|m}}
 {{trans-mid}}
 * Low German:
 *: German Low German: {{t|nds-de|Snieder|m}}, {{t|nds-de|Sniederin|f}}, {{t|nds-de|Sniedersch|f}}, {{t|nds-de|Sniedersche|f}}
@@ -86,15 +86,15 @@ From {{etyl|xno|en}} {{m|fro|taillour}}, from {{etyl|fro|en}} {{m|fro|tailleor}}
 * Maltese: {{t|mt|ħajjat|m}}, {{t|mt|ħajjata|f}}
 * Manx: {{t|gv|thalhear|m}}
 * Maori: {{t|mi|kaitui}}
-* Norman: {{t|nrf|couôtuthyi|m}} {{qualifier|Jersey}}, {{t|nrf|couôtuthiéthe|f}} {{qualifier|Jersey}}
+* Norman: {{t|nrf|couôtuthyi|m}} {{qualifier|Jersey}}, {{t|nrf|couôtuthiéthe|f}} {{q|Jersey}}
 * Norwegian:
 *: Bokmål: {{t|no|skredder|m}}, {{t|no|skredderske|f}}
 *: Nynorsk: {{t|nn|skreddar|m}}
 * Occitan: {{t+|oc|sartre|m}}, {{t|oc|sastre|m}}
 * Old English: {{t|ang|sēamere|m}}, {{t|ang|sēamestre|f}}
 * Persian: {{t+|fa|درزی|tr=darzi|sc=fa-Arab}}, {{t+|fa|خیاط|tr=xayyât|sc=fa-Arab}}
-* Polish: {{t+|pl|krawiec|m}}, {{t+|pl|krawcowa|f}}
-* Portuguese: {{t+|pt|alfaiate|m}}
+* Polish: {{t+|pl|krawiec|m}}, {{t+|pl|krawcowa|f}}, {{t+|pl|krawczyni|f}} {{q|regional}}, {{t+|pl|szwoczka|f}} {{q|Cieszyn Silesia}}
+* Portuguese: {{t+|pt|alfaiate|m}}, {{t+|pt|alfaiata|f}}
 * Romanian: {{t+|ro|croitor|m}}, {{t+|ro|croitoreasă|f}}
 * Russian: {{t+|ru|портно́й|m}}, {{t+|ru|портни́ха|f}}, {{t+|ru|швец|m}}, {{t+|ru|швея́|f}}
 * Scottish Gaelic: {{t|gd|tàillear|m}}
@@ -102,10 +102,10 @@ From {{etyl|xno|en}} {{m|fro|taillour}}, from {{etyl|fro|en}} {{m|fro|tailleor}}
 *: Cyrillic: {{t|sh|кројач|m}}, {{t|sh|кројачица|f}}
 *: Roman: {{t+|sh|krojač|m}}, {{t+|sh|krojačica|f}}
 * Slovak: {{t|sk|krajčír|m}}
-* Slovene: {{t+|sl|krojač|m}}
+* Slovene: {{t+|sl|krojáč|m}}, {{t|sl|krojáčica|f}}
 * Spanish: {{t+|es|sastre|m|f}}, {{t+|es|modisto|m}}, {{t|es|modista|m|f}}
 * Swahili: {{t|sw|mshonaji}}
-* Swedish: {{t+|sv|skräddare|c}}, {{t|sv|skrädderska|c}}
+* Swedish: {{t+|sv|skräddare|c}}, {{t|sv|skrädderska|c}} {{q|female}}
 * Tagalog: {{t|tl|mananahi}}, {{t|tl|sastre}}
 * Telugu: {{t+|te|దర్జీ}}
 * Thai: {{t|th|ช่างตัดเสื้อ}}
@@ -113,7 +113,7 @@ From {{etyl|xno|en}} {{m|fro|taillour}}, from {{etyl|fro|en}} {{m|fro|tailleor}}
 * Ukrainian: {{t+|uk|краве́ць|m}}
 * Urdu: {{t|ur|درزی|m|tr=darzī|sc=ur-Arab}}
 * Vietnamese: {{t+|vi|thợ may}}
-* Volapük: {{qualifier|♂♀}} {{t+|vo|skrädan}}, {{qualifier|♂}} {{t|vo|hiskrädan}}, {{qualifier|♀}} {{t|vo|jiskrädan}}
+* Volapük: {{t+|vo|skrädan}}, {{t|vo|hiskrädan}} {{q|male}}, {{t|vo|jiskrädan}} {{q|female}}
 * Welsh: {{t|cy|teiliwr|m}}
 * Yiddish: {{t|yi|שנײַדער|m}}, {{t|yi|שנײַדערקע|f}}
 {{trans-bottom}}
