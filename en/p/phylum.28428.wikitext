@@ -2,7 +2,7 @@
 {{wikipedia|phylum|lang=en}}
 
 ===Etymology===
-From {{etyl|la|en}} {{m|la|phylum}}, from {{etyl|grc|en}} {{m|grc|φῦλον||tribe, race}}.
+From {{bor|en|la|phylum}}, from {{der|en|grc|φῦλον||tribe, race}}.
 
 ===Pronunciation===
 * {{IPA|/ˈfaɪləm/|lang=en}}
@@ -13,7 +13,7 @@ From {{etyl|la|en}} {{m|la|phylum}}, from {{etyl|grc|en}} {{m|grc|φῦλον||t
 {{en-noun|phyla|phylums}}
 
 # {{lb|en|taxonomy}} A [[rank]] in the classification of [[organism]]s, below [[kingdom]] and above [[class]]; also called a [[division]], especially in describing [[plant]]s; a taxon at that rank
-#: ''Mammals belong to the '''phylum''' Chordata.''
+#: {{ux|en|Mammals belong to the '''phylum''' Chordata.}}
 # {{lb|en|linguistics}} A large division of possibly related languages, or a major language family which is not subordinate to another.
 
 ====Synonyms====
@@ -33,9 +33,9 @@ From {{etyl|la|en}} {{m|la|phylum}}, from {{etyl|grc|en}} {{m|grc|φῦλον||t
 * Azerbaijani: {{t+|az|tip}}
 * Catalan: {{t|ca|fílum|m}}
 * Chinese:
-*: Cantonese: {{t|yue|門|sc=Hani}}, {{t|yue|门|tr=mun4|sc=Hani}}
-*: Mandarin: {{t+|cmn|門|sc=Hani}}, {{t+|cmn|门|tr=mén|sc=Hani}}
-*: Min Nan: {{t+|nan|門|sc=Hani}}, {{t|nan|门|tr=mn̂g, mûi|sc=Hani}}
+*: Cantonese: {{t|yue|門}}, {{t|yue|门|tr=mun4}}
+*: Mandarin: {{t+|cmn|門}}, {{t+|cmn|门|tr=mén}}
+*: Min Nan: {{t+|nan|門}}, {{t|nan|门|tr=mn̂g, mûi}}
 * Czech: {{t+|cs|kmen|m}}
 * Danish: {{t+|da|række|c}}
 * Dutch: {{t+|nl|stam}}
@@ -53,35 +53,37 @@ From {{etyl|la|en}} {{m|la|phylum}}, from {{etyl|grc|en}} {{m|grc|φῦλον||t
 {{trans-mid}}
 * Interlingua: {{t|ia|phylo}}
 * Italian: {{t+|it|filo|m}}, {{t+|it|tipo|m}}, {{t+|it|divisione|f}}
-* Khmer: {{t+|km|សាខា|tr=sar khar|sc=Khmr}}
+* Khmer: {{t+|km|សាខា|tr=sar khar}}
 * Korean: {{t+|ko|문}}
 * Latvian: {{t|lv|tips|m}}
 * Lithuanian: {{t|lt|tipas|m}}
-* Macedonian: {{t|mk|колено|n|tr=kóleno|sc=Cyrl}}
+* Macedonian: {{t|mk|колено|n|tr=kóleno}}
 * Maori: {{t|mi|pori}}
 * Mongolian: {{t+|mn|хүрээ}}
 * Occitan: {{t|oc|filum|m}}
 * Portuguese: {{t+|pt|filo|m}}
 * Romanian: {{t+|ro|încrengătură|f}}
-* Russian: {{qualifier|zool.}} [[тип]] (tip) {{g|m}}, {{qualifier|botany}} {{t+|ru|отде́л|m}}
+* Russian: {{qualifier|zoology}} {{t|ru|тип|m}}, {{qualifier|botany}} {{t+|ru|отде́л|m}}
 * Slovak: {{t-needed|sk}}
 * Spanish: {{t+|es|filo|m}}
 * Swedish: {{t+|sv|stam|c}}, {{t+|sv|fylum|n}}, {{t+|sv|provins|c}}, {{t+|sv|phylum|n}}
 * Tagalog: {{t|tl|sangahay}}
 * Thai: {{t|th|ไฟลัม}}
 * Turkish: {{t+|tr|şube}}, {{t+|tr|dal}}, {{t+|tr|filum}}
-* Ukrainian: {{qualifier|zool.}} {{t|uk|тип|m|tr=typ|sc=Cyrl}}, {{qualifier|botany}} {{t|uk|відділ|m|tr=víddil|sc=Cyrl}}
+* Ukrainian: {{qualifier|zoology}} {{t|uk|тип|m|tr=typ}}, {{qualifier|botany}} {{t|uk|відділ|m|tr=víddil}}
 * Vietnamese: {{t+|vi|ngành}}
 * Welsh: {{t+|cy|ffylwm}}
 {{trans-bottom}}
 
-[[Category:English 1-syllable words]]
 [[Category:English nouns with irregular plurals]]
 
 ----
 
 ==Latin==
 {{wikipedia|lang=la}}
+
+===Etymology===
+From {{bor|la|grc|φῦλον}}.
 
 ===Pronunciation===
 * {{la-IPA|phylum}}
