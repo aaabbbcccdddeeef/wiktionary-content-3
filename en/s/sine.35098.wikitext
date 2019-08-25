@@ -341,10 +341,10 @@ From {{inh|ro|la|sē}}, as with {{m|ro|mine}}, {{m|ro|tine}}.
 ==Scottish Gaelic==
 
 ===Pronunciation===
-* {{IPA|/ˈʃinə/|lang=gd}}
+* {{IPA|gd|/ˈʃinə/}}
 
 ===Etymology 1===
-From {{inh|gd|sga|sine||teat, dug, pap}}, from {{inh|gd|cel-pro|*sɸenyos}}, from {{der|gd|ine-pro|*pstḗn}}. Cognate with {{cog|non|speni||teat}}, {{cog|en|spean||teat (of a cow)}}.
+From {{inh|gd|sga|sine|t=teat, dug, pap}}, from {{inh|gd|cel-pro|*sɸenyos}}, from {{der|gd|ine-pro|*pstḗn}}. Cognate with {{cog|non|speni|t=teat}}, {{cog|en|spean|t=teat (of a cow)}}.
 
 ====Noun====
 {{gd-noun|g=f|gen=sine|pl=sinean}}
@@ -360,12 +360,30 @@ Borrowed from {{bor|gd|en|gin}}.
 # [[gin]] {{gloss|drink}}
 
 ===Etymology 3===
-{{rfe|lang=gd}}
+From {{inh|gd|sga|sine|t=old age, seniority, antiquity}}, from {{m|gd|sen|t=old}}.
+
+====Noun====
+{{gd-noun|g=f}}
+
+# [[oldness]]
+# [[old age]]
+
+===Etymology 4===
+{{nonlemma}}
 
 ====Adjective====
-{{head|gd|adjective form}}
+{{head|gd|adjective form|cat2=adjective comparative forms}}
 
-# {{comparative of|sean|lang=gd}}
+# {{inflection of|gd|sean|t=old||comparative}}
+
+===Mutation===
+{{gd-mut-cons|si|ne}}
+
+===References===
+* {{R:Dwelly}}
+* {{R:DIL|37576|head=1 sine}}
+* {{R:DIL|37577|head=2 sine}}
+* {{R:DIL|37578|head=3 sine}}
 
 ----
 
