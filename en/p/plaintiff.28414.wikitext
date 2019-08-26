@@ -2,24 +2,16 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|enm|en}} {{m|enm|plaintif}}, from {{etyl|xno|en}}, from {{etyl|fro|en}} {{m|fro|plaintif||complaining; as a noun, one who complains, a plaintiff}} from the verb {{m|fro|plaindre}}. {{doublet|en|plaintive}}.
+From {{inh|en|enm|plaintif}}, from {{der|en|xno|-}}, from {{der|en|fro|plaintif|t=complaining; as a noun, one who complains, a plaintiff}} from the verb {{m|fro|plaindre}}. {{doublet|en|plaintive}}.
 
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|legal}} A [[party]] [[bringing]] a [[suit]] in [[civil law]] against a [[defendant]]; accusers.
-
-====Synonyms====
-* {{l|en|complainant}}, {{l|en|litigant}}, {{l|en|claimant}} {{qualifier|English law}}, {{l|en|pursuer}} {{qualifier|Scottish law}}
-
-====Antonyms====
-* {{l|en|defendant}}, {{l|en|suspect}}
-
-====Hypernyms====
-* {{l|en|litigant}}, {{l|en|litigator}}
-
-====Hyponyms====
-* {{l|en|suer}}, {{l|en|petitioner}}
+# {{lb|en|law}} A [[party]] [[bringing]] a [[suit]] in [[civil law]] against a [[defendant]]; accusers.
+#: {{syn|en|complainant|litigant|claimant|q3=English law|pursuer|q4=Scottish law}}
+#: {{ant|en|defendant|suspect}}
+#: {{hyper|en|litigant|litigator}}
+#: {{hypo|en|suer|petitioner}}
 
 ====Related terms====
 * {{l|en|plaintive}}
@@ -27,7 +19,7 @@ From {{etyl|enm|en}} {{m|enm|plaintif}}, from {{etyl|xno|en}}, from {{etyl|fro|e
 ====Translations====
 {{trans-top|party bringing a suit in civil law against a defendant}}
 * Arabic: {{qualifier|indefinite}} {{t|ar|مُدَّعٍ|m}}, {{qualifier|definite}} {{t|ar|اَلْمُدَّعِي}}
-* Armenian: {{t+|hy|հայցվոր|sc=Armn}}
+* Armenian: {{t+|hy|հայցվոր}}
 * Bulgarian: {{t+|bg|тъжител|m}}
 * Chinese:
 *: Cantonese: {{t|yue|原告|tr=jyun4 gou3}}
@@ -44,11 +36,11 @@ From {{etyl|enm|en}} {{m|enm|plaintif}}, from {{etyl|xno|en}}, from {{etyl|fro|e
 * Hungarian: {{t+|hu|felperes}}
 * Icelandic: {{t|is|stefnandi|m}}
 * Indonesian: {{t+|id|penggugat}}
-{{trans-mid}}
 * Interlingua: {{t|ia|demandator}}
 * Irish: {{t|ga|éilitheoir|m}}, {{t|ga|gearánaí|m}}
 * Italian: {{t+|it|querelante|m}}, {{t|it|parte civile|f}}, {{t+|it|ricorrente|m}}
 * Japanese: {{t+|ja|原告|tr=げんこく, genkoku}}
+{{trans-mid}}
 * Latin: {{t|la|petītor|m}}, {{t|la|petītrix|f}}
 * Manchu: {{t|mnc|ᡥᠠᠪᡧᠠᡥᠠ ᠨᡳᠶ᠋ᠠᠯᠮᠠ}}
 * Maori: {{t|mi|kaiwhakapae}}
@@ -60,7 +52,9 @@ From {{etyl|enm|en}} {{m|enm|plaintif}}, from {{etyl|xno|en}}, from {{etyl|fro|e
 * Polish: {{t+|pl|powód|m}}, {{t|pl|powódka|f}}
 * Portuguese: {{t+|pt|querelante|m|f}}, {{t+|pt|acusação|f}}, {{t+|pt|promotoria}}
 * Russian: {{t+|ru|исте́ц|m}}
-* Serbo-Croatian: {{t|sh|жалилац|m|tr=žalilac}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|жа̀лилац|m}}
+*: Roman: {{t+|sh|žàlilac|m}}
 * Slovak: {{t|sk|žalobca|m}}
 * Spanish: {{t+|es|demandante}}, {{t|es|querellante}}
 * Swedish: {{t+|sv|åtalad|c}}, {{t+|sv|kärande|c}}, {{t+|sv|målsägande|c}}, {{t+|sv|målsägare|c}}
