@@ -3,7 +3,7 @@
 [[File:Bycicle diagram.svg|thumb|300px|right|A bicycle]]
 
 ===Etymology===
-From {{prefix|en|bi|gloss1=two|sort=cycle}} {{etyl|grc|en}} {{m|grc|κύκλος||circle, wheel|sc=polytonic}}, on the pattern of {{m|en|tricycle}}. First attested in English in 1868, from {{etyl|fr|en}} {{m|fr|bicyclette}} (1847). Superseded earlier {{m|en|velocipede}}.
+Borrowed from {{bor|en|fr|bicycle}} (modern {{m|fr|bicyclette}}), from {{af|fr|bi-|cycle|t1=bi-; two|t2=cycle}}. First attested in English in 1868, and in French in 1847.
 
 ===Pronunciation===
 * {{IPA|/ˈbaɪsɪkl̩/|lang=en}}
@@ -11,23 +11,64 @@ From {{prefix|en|bi|gloss1=two|sort=cycle}} {{etyl|grc|en}} {{m|grc|κύκλος
 * {{audio|En-uk-a bicycle.ogg|Audio (UK)|lang=en}}
 * {{audio|EN-AU ck1 bicycle.ogg|Audio (AU)|lang=en}}
 * {{audio|LL-Q1860 (eng)-Benoît Prieur-bicycle.wav|Audio|lang=en}}
-* {{rhymes|aɪsɪkəl|lang=en}}
 * {{hyphenation|bi|cy|cle|lang=en}}
 
 ===Noun===
 {{en-noun}}
 
 # A [[vehicle]] that has two wheels, one behind the other, a steering handle, and a [[saddle]] [[seat]] or seats and is usually [[propel]]led by the action of a rider’s feet upon [[pedal]]s.
+#: {{syn|en|bike|q1=clipping|pushbike|velocipede|q3=historical|Thesaurus:bicycle}}
+#: {{hyper|en|cycle}}
 # A traveling block used on a [[cable]] in [[skid]]ding [[log]]s.
 # The best possible hand in [[lowball]].
 # {{lb|en|British|AU|NZ}} A [[motorbike]].
 
-====Synonyms====
-* {{l|en|bike}} {{qualifier|colloquial}}
-* {{l|en|cycle}}
-* {{l|en|push-bike}}, {{l|en|pushbike}}
-* {{l|en|velocipede}}
-* See also [[Thesaurus:bicycle]]
+====Derived terms====
+{{der4|en
+|a woman without a man is like a fish without a bicycle
+|antibicycle
+|autobicycle
+|balance bicycle
+|bicycle bridge
+|bicycle clip
+|bicycle helmet
+|bicycle lane
+|bicycle mail
+|bicycle motocross
+|bicycle kick
+|bicycle path
+|bicycle pump
+|bicycle rack
+|bicycle roundabout
+|bicycle stand
+|bicycle tire
+|bicycle touring
+|bicycle tourist
+|bicyclelike
+|bicycler
+|bicyclian
+|bicyclism
+|bicyclist
+|exercise bicycle
+|fixed-gear bicycle
+|like riding a bicycle
+|lowrider bicycle
+|motorbicycle
+|recumbent bicycle
+|ride the cotton bicycle
+|safety bicycle
+|stationary bicycle
+|tandem bicycle
+|town bicycle
+|village bicycle
+|water bicycle}}
+
+====Related terms====
+{{rel4|en
+|cycle
+|motorcycle
+|tricycle
+|unicycle}}
 
 ====Descendants====
 * {{desc|my|ဘိုင်စကယ်|bor=1}}
@@ -38,7 +79,7 @@ From {{prefix|en|bi|gloss1=two|sort=cycle}} {{etyl|grc|en}} {{m|grc|κύκλος
 {{trans-top|vehicle}}
 * Afrikaans: {{t+|af|fiets}}
 * Albanian: {{t+|sq|biçikletë|f}}
-* Amharic: {{t|am|ብስክሌት|sc=Ethi}}
+* Amharic: {{t|am|ብስክሌት}}
 * Arabic: {{t+|ar|دَرَّاجَة|f}}
 *: Egyptian Arabic: {{t|arz|عجلة|f|tr=ʿagala|sc=Arab}}, {{t|arz|بسكلتة|f|tr=beskleta|sc=Arab}}
 *: Hijazi Arabic: {{t|acw|بسكليتة|f|tr=buskulēta|sc=Arab}}
@@ -47,21 +88,21 @@ From {{prefix|en|bi|gloss1=two|sort=cycle}} {{etyl|grc|en}} {{m|grc|κύκλος
 * Asturian: {{t|ast|bicicleta|f}}
 * Azerbaijani: {{t+|az|velosiped}}, {{t|az|dırığın}} {{qualifier|dialectal}}
 * Basque: {{t+|eu|txirrindu}}, {{t+|eu|bizikleta}}
-* Belarusian: {{t|be|ро́вар|m}}, {{t|be|веласіпе́д|m|sc=Cyrl}}
-* Bengali: {{t|bn|বাইসাইকেল|sc=Beng}}, {{t|bn|সাইকেল|sc=Beng}}
+* Belarusian: {{t|be|ро́вар|m}}, {{t|be|веласіпе́д|m}}
+* Bengali: {{t|bn|বাইসাইকেল}}, {{t|bn|সাইকেল}}
 * Bouyei: {{t|pcc|danycey}}
 * Breton: {{t|br|bisiklet|m}}, {{t+|br|marc'h-houarn|m}}
 * Bulgarian: {{t+|bg|колело́|n}}, {{t+|bg|велосипе́д|m}}
-* Burmese: {{t+|my|စက်ဘီး|sc=Mymr}}, {{t+|my|ဘိုင်စကယ်}}
+* Burmese: {{t+|my|စက်ဘီး}}, {{t+|my|ဘိုင်စကယ်}}
 * Catalan: {{t+|ca|bicicleta|f}}
 * Central Dusun: {{t|dtp|bosikol}}
 * Central Melanau: {{t|mel|basikal}}
 * Cheyenne: {{t|chy|amo'a'óvâhtsestôtse}}
 * Chichewa: {{t|ny|njinga}}
 * Chinese:
-*: Cantonese: {{t|yue|單車|sc=Hani}}, {{t|yue|单车|tr=daan1 ce1|sc=Hani}}, {{t|yue|腳車|sc=Hani}}, {{t|yue|脚车|tr=goek3 ce1|sc=Hani}}, {{t|yue|自行車|sc=Hani}}, {{t|yue|自行车|tr=zi6 hang4 ce1|sc=Hani}}, {{t|yue|腳踏車|sc=Hani}}, {{t|yue|脚踏车|tr=goek3 daap6 ce1|sc=Hani}}
+*: Cantonese: {{t|yue|單車}}, {{t|yue|单车|tr=daan1 ce1}}, {{t|yue|腳車}}, {{t|yue|脚车|tr=goek3 ce1}}, {{t|yue|自行車}}, {{t|yue|自行车|tr=zi6 hang4 ce1}}, {{t|yue|腳踏車}}, {{t|yue|脚踏车|tr=goek3 daap6 ce1}}
 *: Hakka: {{t|hak|自行車|sc=Hani}}, {{t|hak|自行车|tr=chhṳ-hàng-chhâ|sc=Hani}}, {{t|hak|腳踏車|sc=Hani}}, {{t|hak|脚踏车|tr=kiok-tha̍p-chhâ|sc=Hani}}, {{t|hak|自轉車|sc=Hani}}, {{t|hak|自转车|tr=chhṳ-chón-chhâ|sc=Hani}}
-*: Mandarin: {{t+|cmn|自行車|sc=Hani}}, {{t+|cmn|自行车|tr=zìxíngchē|sc=Hani}}, {{t+|cmn|腳踏車|sc=Hani}}, {{t+|cmn|脚踏车|tr=jiǎotàchē|sc=Hani}} {{qualifier|Taiwan}}, {{t+|cmn|單車|sc=Hani}}, {{t+|cmn|单车|tr=dānchē|sc=Hani}} {{qualifier|regional}}, {{t+|cmn|鐵馬|sc=Hani}}, {{t+|cmn|铁马|tr=tiěmǎ|sc=Hani}} {{qualifier|Taiwan}}, {{t|cmn|自由車|sc=Hani}}, {{t|cmn|自由车|tr=zìyóuchē|sc=Hani}}
+*: Mandarin: {{t+|cmn|自行車}}, {{t+|cmn|自行车|tr=zìxíngchē}}, {{t+|cmn|腳踏車}}, {{t+|cmn|脚踏车|tr=jiǎotàchē}} {{qualifier|Taiwan}}, {{t+|cmn|單車}}, {{t+|cmn|单车|tr=dānchē}} {{qualifier|regional}}, {{t+|cmn|鐵馬}}, {{t+|cmn|铁马|tr=tiěmǎ}} {{qualifier|Taiwan}}, {{t|cmn|自由車}}, {{t|cmn|自由车|tr=zìyóuchē}}
 *: Min Nan: {{t+|nan|跤踏車|sc=Hani}}, {{t|nan|跤踏车|tr=kha-ta̍h-chhia|sc=Hani}}, {{t+|nan|孔明車|sc=Hani}}, {{t|nan|孔明车|tr=khóng-bêng-chhia|sc=Hani}}, {{t+|nan|自轉車|sc=Hani}}, {{t|nan|自转车|tr=chū-choán-chhia|sc=Hani}}, {{t+|nan|鐵馬|sc=Hani}}, {{t+|nan|铁马|tr=thih-bé|sc=Hani}}, {{t|nan|鐵馬仔|sc=Hani}}, {{t|nan|铁马仔|tr=thih-bé-á|sc=Hani}}, {{t|nan|自輪車|sc=Hani}}, {{t|nan|自轮车|tr=chū-lián-chhia|sc=Hani}}, {{t|nan|動輪車|sc=Hani}}, {{t|nan|动轮车|tr=tōng-lián-chhia|sc=Hani}}, {{t|nan|獨輪車|sc=Hani}}, {{t|nan|独轮车|tr=to̍k-lián-chhia|sc=Hani}}, {{t|nan|單車|sc=Hani}}, {{t|nan|单车|tr=tan-chhia|sc=Hani}}, {{t|nan|自行車|sc=Hani}}, {{t|nan|自行车|tr=chū-hêng-chhia|sc=Hani}}
 *: Wu: {{t|wuu|腳踏車|sc=Hani}}, {{t|wuu|脚踏车|tr=jiaq daq tsho|sc=Hani}}
 * Cornish: {{t|kw|deuros}}, {{t|kw|dewros|f}}
@@ -77,11 +118,11 @@ From {{prefix|en|bi|gloss1=two|sort=cycle}} {{etyl|grc|en}} {{m|grc|κύκλος
 * Flemish: {{t+|nl|velo|m}}
 * French: {{t+|fr|vélo|m}}, {{t+|fr|bicyclette|f}}, {{t+|fr|vélocipède|m}} {{qualifier|dated}}
 * Galician: {{t+|gl|bicicleta|f}}
-* Georgian: {{t|ka|ველოსიპედი|sc=Geor}}, {{t|ka|ველო|sc=Geor}} {{qualifier|colloquial}}
+* Georgian: {{t|ka|ველოსიპედი}}, {{t|ka|ველო}} {{qualifier|colloquial}}
 * German: {{t+|de|Fahrrad|n}}, {{t+|de|Velo|n}} {{qualifier|Switzerland}}, colloquial: {{t+|de|Drahtesel|m}}, {{t+|de|Veloziped|n}} {{qualifier|dated}}
 *: Alemannic German: {{t|gsw|Welo|n}}
 * Greek: {{t+|el|ποδήλατο|n}}
-* Gujarati: {{t|gu|સાઇકલ|sc=Gujr}}, {{t|gu|પાયગાડી}}
+* Gujarati: {{t|gu|સાઇકલ}}, {{t|gu|પાયગાડી}}
 * Hausa: {{t|ha|basukur}}
 * Hebrew: {{t+|he|אוֹפַנַּיִם|m-p|tr=ofanáyim}}, {{t|he|זוּג אוֹפַנַּיִם|m|tr=zug ofanáyim}}
 * Hiligaynon: {{t|hil|bisikleta}}
@@ -97,7 +138,7 @@ From {{prefix|en|bi|gloss1=two|sort=cycle}} {{etyl|grc|en}} {{m|grc|κύκλος
 * Italian: {{t+|it|bicicletta|f}}, {{t+|it|bici|f}} {{qualifier|informal}}
 * Japanese: {{t+|ja|自転車|tr=じてんしゃ, jitensha}}, {{qualifier|colloquial}} {{t|ja|チャリンコ|tr=charinko}}, {{qualifier|abbreviation}} {{t|ja|チャリ|tr=chari}}
 * Javanese: {{t|jv|ꦱꦼꦥꦺꦝꦃ|tr=sepédhah}}, {{t|jv|ꦥꦶꦠ꧀|tr=pit}}
-* Kannada: {{t+|kn|ಸೈಕಲ್|sc=Knda}}, {{t+|kn|ಇಗ್ಗಾಲಿ|sc=Knda}}, {{t|kn|ದ್ವಿಚಕ್ರ|sc=Knda}}, {{t|kn|ಕಾಲುಬಂಡಿ|sc=Knda}}, {{t|kn|ಕಾಲುಬಂಡಿ|sc=Knda}}, {{t+|kn|ತುಳಿಬಂಡಿ|sc=Knda}}, {{t+|kn|ಸೈಕಲ್ಲು|sc=Knda}}
+* Kannada: {{t+|kn|ಸೈಕಲ್}}, {{t+|kn|ಇಗ್ಗಾಲಿ}}, {{t|kn|ದ್ವಿಚಕ್ರ}}, {{t|kn|ಕಾಲುಬಂಡಿ}}, {{t|kn|ಕಾಲುಬಂಡಿ}}, {{t+|kn|ತುಳಿಬಂಡಿ}}, {{t+|kn|ಸೈಕಲ್ಲು}}
 * Kashubian: {{t|csb|kòło}}
 * Kazakh: {{t+|kk|велосипед|sc=Cyrl}}
 * Khmer: {{t+|km|កង់}}, {{t|km|រទេះកង់}}, {{t|km|ប៊ីស៊ីក្លេត}}, {{t+|km|ទោចក្រយាន}}
@@ -118,11 +159,11 @@ From {{prefix|en|bi|gloss1=two|sort=cycle}} {{etyl|grc|en}} {{m|grc|κύκλος
 * Lü: {{t|khb|ᦷᦟᧆᦂᦳᧂᦵᦦᧃ|tr=lot kuŋ kwen}}, {{t|khb|ᦷᦟᧆᦏᦲᧇᧈ|tr=lot tʰiip}}
 * Macedonian: {{t|mk|велосипе́д|m}}, {{qualifier|colloquial}} {{t|mk|точак|m}}
 * Malay: {{t+|ms|basikal}}, {{t|ms|kereta angin}}, {{t|ms|sepeda}}, {{t|ms|pit}}
-* Malayalam: {{t+|ml|സൈക്കിൾ|sc=Mlym}}
+* Malayalam: {{t+|ml|സൈക്കിൾ}}
 * Maltese: {{t+|mt|rota}}
 * Manx: {{t|gv|daachiarkyl}}, {{t|gv|daawheeyl}}
 * Maori: {{t|mi|paihikara}}
-* Marathi: {{t|mr|सायकल|tr=saykal|sc=Deva}}
+* Marathi: {{t|mr|सायकल|tr=saykal}}
 * Mongolian: {{t+|mn|унадаг дугуй|sc=Cyrl}}
 * Nahuatl: {{t|nah|omalacatl}}, {{t+|nah|omemalacatl}}
 * Navajo: {{t|nv|dziʼizí}}
@@ -144,7 +185,7 @@ From {{prefix|en|bi|gloss1=two|sort=cycle}} {{etyl|grc|en}} {{m|grc|κύκλος
 *: Cyrillic: {{t|sh|бицикл|m}}
 *: Roman: {{t+|sh|bicikl|m}}
 * Shan: {{t-needed|shn}}
-* Sinhalese: {{t|si|බයිසිකලය|sc=Sinh}}, {{t|si|පාපැදි|sc=Sinh}}
+* Sinhalese: {{t|si|බයිසිකලය}}, {{t|si|පාපැදි}}
 * Slovak: {{t+|sk|bicykel|m}}
 * Slovene: {{t+|sl|kolo|n}}
 * Somali: {{t|so|baskiil|m}}
@@ -164,7 +205,7 @@ From {{prefix|en|bi|gloss1=two|sort=cycle}} {{etyl|grc|en}} {{m|grc|κύκλος
 * Tatar: {{t|tt|велосипед|sc=Cyrl}}
 * Telugu: {{t+|te|సైకిలు}}
 * Thai: {{t+|th|จักรยาน}}, {{t+|th|รถถีบ}}
-* Tibetan: {{t|bo|རྐང་འཁོར|sc=Tibt}}
+* Tibetan: {{t|bo|རྐང་འཁོར}}
 * Tolai: {{t|ksd|aingau}}
 * Turkish: {{t+|tr|bisiklet}}
 * Turkmen: {{t|tk|welosiped}}
@@ -189,14 +230,14 @@ From {{prefix|en|bi|gloss1=two|sort=cycle}} {{etyl|grc|en}} {{m|grc|κύκλος
 ===Verb===
 {{en-verb|bicycl}}
 
-# To [[travel]] or [[exercise]] using a bicycle.
+# {{lb|en|intransitive}} To [[travel]] or [[exercise]] using a bicycle.
 
 =====Translations=====
 {{trans-top|to ride a bicycle}}
 * Dutch: {{t+|nl|fietsen}}, {{t+|nl|wielrennen}} {{qualifier|sport}}
 * Esperanto: {{t+|eo|bicikli}}
 * French: {{t|fr|faire du vélo}}, {{t|fr|faire de la bicyclette}}, {{t|fr|rouler à vélo}}
-* Galician: {{t|gl|andar en bicicleta}}
+* Galician: {{t|gl|[[andar]] [[en]] [[bicicleta]]}}
 * German: {{t+|de|Rad fahren}}, {{qualifier|colloquial}} {{t+|de|radeln}}
 * Greek: {{t+|el|ποδηλατώ}}
 * Icelandic: {{t+|is|hjóla}}
@@ -209,12 +250,6 @@ From {{prefix|en|bi|gloss1=two|sort=cycle}} {{etyl|grc|en}} {{m|grc|κύκλος
 * Volapük: {{t+|vo|saikulön}}
 * Yiddish: {{t|yi|ביציקלירן}}
 {{trans-bottom}}
-
-===See also===
-* {{l|en|like riding a bicycle}}
-* {{l|en|motorcycle}}
-* {{l|en|tricycle}}
-* {{l|en|unicycle}}
 
 [[Category:English hybridisms]]
 [[Category:en:Cycling]]
@@ -233,3 +268,6 @@ From {{prefix|en|bi|gloss1=two|sort=cycle}} {{etyl|grc|en}} {{m|grc|κύκλος
 
 # {{l|en|bicycle}}
 #: {{syn|fr|bicyclette}}
+
+====Descendants====
+* {{desc|en|bicycle|bor=1}}
