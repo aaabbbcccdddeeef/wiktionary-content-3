@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From Early Modern English {{m|en|pleasur}}, {{m|en|plesur}}, alteration (with ending accommodated to {{m|en|-ure}}) of {{etyl|enm|en}} {{m|enm|plaisir||pleasure}}, from {{etyl|fro|en}} {{m|fro|plesir}}, {{m|fro|plaisir||to please}}, infinitive used as a noun, conjugated form of {{m|fro|plaisir}} or {{m|fro|plaire}}, from {{etyl|la|en}} {{m|la|placeo|placēre|to please, to seem good}}, from the {{etyl|ine-pro|en}} {{m|ine-pro|*plā-k-||wide and flat}}. Related to {{cog|nl|plezier||pleasure, fun}}. More at {{l|en|please}}.
+From Early Modern English {{m|en|pleasur}}, {{m|en|plesur}}, alteration (with ending accommodated to {{m|en|-ure}}) of {{inh|en|enm|plaisir||pleasure}}, from {{der|en|fro|plesir}}, {{m|fro|plaisir||to please}}, infinitive used as a noun, conjugated form of {{m|fro|plaisir}} or {{m|fro|plaire}}, from {{der|en|la|placeo|placēre|to please, to seem good}}, from the {{der|en|ine-pro|*plā-k-||wide and flat}}. Related to {{cog|nl|plezier||pleasure, fun}}. More at {{m|en|please}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|/ˈplɛʒə/|lang=en}}
@@ -268,14 +268,15 @@ From Early Modern English {{m|en|pleasur}}, {{m|en|plesur}}, alteration (with en
 ===Verb===
 {{en-verb|pleasur}}
 
-# {{lb|en|transitive}} To give or afford pleasure to; to please; to gratify.
+# {{lb|en|transitive}} To give or afford pleasure to.
+#: {{syn|en|please|gratify}}
 #: {{rfquotek|Shakespeare}}
 #* {{rfdate||and other bibliographic particulars}} {{w|Tennyson}}
 #*: [Rolled] his hoop to '''pleasure''' Edith.
 # {{lb|en|transitive}} To give sexual pleasure to.
-#: ''Johnny '''pleasured''' Jackie orally last night.''
+#: {{ux|en|Johnny '''pleasured''' Jackie orally last night.}}
 # {{lb|en|intransitive|dated}} To take pleasure; to seek or pursue pleasure.
-#: ''to go '''pleasuring'''''
+#: {{ux|en|to go '''pleasuring'''}}
 
 ====Translations====
 {{trans-top|to give pleasure to}}
@@ -284,7 +285,7 @@ From Early Modern English {{m|en|pleasur}}, {{m|en|plesur}}, alteration (with en
 * Spanish: {{t+|es|gustar}}
 {{trans-bottom}}
 
-===Related terms===
+====Related terms====
 * {{l|en|displeasure}}<!--not directly from the English "pleasure"-->
 * {{l|en|please}}
 * {{l|en|pleasant}}
