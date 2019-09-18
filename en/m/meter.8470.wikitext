@@ -223,6 +223,7 @@ From {{inh|an|la|mittere}}, present active infinitive of {{m|la|mittō}}.
 ===Pronunciation===
 * {{IPA|/ˈmeːtər/|lang=nl}}
 * {{audio|Nl-meter.ogg|Audio|lang=nl}}
+* {{hyphenation|lang=nl|me|ter}}
 * {{rhymes|nl|eːtər}}
 
 ===Etymology 1===
@@ -235,16 +236,18 @@ From {{af|nl|meten|-er|id2=agent noun}}.
 # [[#English|meter]] {{gloss|device that measures things or indicates a physical quantity}}
 
 =====Derived terms=====
-* {{l|nl|stroommeter}} / {{l|nl|ampèremeter}}
+* {{l|nl|ampèremeter}}
 * {{l|nl|energiemeter}}
 * {{l|nl|krachtmeter}}
 * {{l|nl|landmeter}}
 * {{l|nl|snelheidsmeter}}
-* {{l|nl|spanningsmeter}} / {{l|nl|voltmeter}}
+* {{l|nl|spanningsmeter}}
+* {{l|nl|stroommeter}}
 * {{l|nl|thermometer}}
+* {{l|nl|voltmeter}}
 
 ===Etymology 2===
-From {{der|nl|fr|mètre}}.
+Borrowed from {{bor|nl|fr|mètre}}.
 
 ====Noun====
 {{nl-noun|m|-s|metertje}}
@@ -268,11 +271,13 @@ From {{der|nl|fr|mètre}}.
 {{der-bottom}}
 
 ===Etymology 3===
+From {{inh|nl|dum|meter}}, from {{m|dum|metrijn}}, from {{der|nl|la|matrīna}}.
 
 ====Noun====
 {{nl-noun|f|-s|metertje}}
 
 # [[godmother]]
+#: {{syn|nl|peettante|petemoei}}
 
 [[Category:nl:Measuring instruments]]
 
