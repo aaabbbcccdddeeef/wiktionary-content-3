@@ -2,18 +2,18 @@
 {{wikipedia}}
 
 ===Alternative forms===
-* {{l|en|dictatour}} {{qualifier|obsolete}}
+* {{alter|en|dictatour||obsolete}}
 
 ===Etymology===
 {{PIE root|en|deyḱ}}
-From {{bor|en|la|dictātor||a chief magistrate}}, from {{m|la|dictō||dictate, prescribe}}, from {{m|la|dīcō||say, speak}}.
+From {{bor|en|la|dictātor|t=a chief magistrate}}, from {{m|la|dictō|t=dictate, prescribe}}, from {{m|la|dīcō|t=say, speak}}.
 
-Surface analysis is {{suffix|en|dictate|or|t2=(agent)}} “one who dictates”.
+Surface analysis is {{af|en|dictate|-or|id2=agent noun}} “one who dictates”.
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|/dɪkˈteɪtə(ɹ)/|lang=en}}
-* {{a|US}} {{IPA|/ˈdɪkteɪtəɹ/|lang=en}}
-** {{audio|en-us-dictator.ogg|Audio (US)|lang=en}}
+* {{a|UK}} {{IPA|en|/dɪkˈteɪtə(ɹ)/}}
+* {{a|US}} {{IPA|en|/ˈdɪkteɪtəɹ/}}
+** {{audio|en|en-us-dictator.ogg|Audio (US)}}
 
 ===Noun===
 {{en-noun}}
@@ -67,7 +67,7 @@ Surface analysis is {{suffix|en|dictate|or|t2=(agent)}} “one who dictates”.
 * Kyrgyz: {{t+|ky|диктатор}}
 {{trans-mid}}
 * Lao: {{t|lo|ຜູ້ບົ່ງການ}}, {{t|lo|ຜູ້ຜະເດັດການ}}
-* Latin: {{t|la|dictator|m}}
+* Latin: {{t|la|dictātor|m}}
 * Latvian: {{t|lv|diktators|m}}
 * Lithuanian: {{t|lt|diktatorius|m}}
 * Macedonian: {{t|mk|дикта́тор|m}}
@@ -121,26 +121,23 @@ Surface analysis is {{suffix|en|dictate|or|t2=(agent)}} “one who dictates”.
 Borrowed from {{bor|nl|la|dictātor}}.
 
 ===Pronunciation===
-* {{IPA|lang=nl|/ˌdɪkˈtaː.tɔr/}}
-* {{audio|Nl-dictator.ogg|Audio|lang=nl}}
-* {{hyphenation|lang=nl|dic|ta|tor}}
-* {{rhymes|lang=nl|aːtɔr}}
+* {{IPA|nl|/ˌdɪkˈtaː.tɔr/}}
+* {{audio|nl|Nl-dictator.ogg|Audio}}
+* {{hyph|nl|dic|ta|tor}}
+* {{rhymes|nl|aːtɔr}}
 
 ===Noun===
 {{nl-noun|m|-:en|pl2=-s|dictatortje}}
 
 # {{l|en|dictator}} {{gloss|tyrant, despot}}
+#: {{syn|nl|despoot|dwingeland|tiran}}
 # {{lb|nl|historical}} {{l|en|dictator}} {{gloss|Roman magistrate with expanded powers}}
 
-====Synonyms====
-* {{l|nl|despoot}}
-* {{l|nl|dwingeland}}
-* {{l|nl|tiran}}
-
 ====Related terms====
-* {{l|nl|dictaat}}
-* {{l|nl|dictatoriaal}}
-* {{l|nl|dictatuur}}
+{{rel3|nl
+|dictaat
+|dictatoriaal
+|dictatuur}}
 
 ----
 
@@ -148,7 +145,7 @@ Borrowed from {{bor|nl|la|dictātor}}.
 
 ===Etymology===
 {{PIE root|la|deyḱ}}
-{{suffix|la|dictō|tor|gloss1=I dictate}}
+From {{af|la|dictō|-tor|t1=I dictate}}.
 
 ===Pronunciation===
 * {{la-IPA|dictātor}}
@@ -163,34 +160,32 @@ Borrowed from {{bor|nl|la|dictātor}}.
 {{la-ndecl|dictātor<3>}}
 
 ====Derived terms====
-* {{l|la|dictātōrius}}
-* {{l|la|dictātrīx}}
-* {{l|la|dictātūra}}
+{{der3|la
+|dictātōrius
+|dictātrīx
+|dictātūra}}
 
 ====Related terms====
-{{top2}}
-* {{l|la|dīcō}}
-* {{l|la|dictāmen}}
-* {{l|la|dictāta}}
-* {{l|la|dictātiō}}
-* {{l|la|dictātiuncula}}
-* {{l|la|dictiō}}
-{{mid2}}
-* {{l|la|dictiōsus}}
-* {{l|la|dictitō}}
-* {{l|la|dictō}}
-* {{l|la|dictum}}
-* {{l|la|dictus}}
-{{bottom}}
+{{rel4|la
+|dīcō
+|dictāmen
+|dictāta
+|dictātiō
+|dictātiuncula
+|dictiō
+|dictiōsus
+|dictitō
+|dictō
+|dictum
+|dictus}}
 
 ====Descendants====
-{{top2}}
+{{top3}}
 * {{desc|ca|dictador}}
 * {{desc|en|dictator}}
 * {{desc|fr|dictateur}}
-* Italian: [[dittatore]]
-* Polish: [[dyktator]]
-{{mid2}}
+* {{desc|it|dittatore}}
+* {{desc|pl|dyktator}}
 * {{desc|pt|ditador}}
 * {{desc|ro|dictator}}
 * {{desc|ru|дикта́тор}}
@@ -211,7 +206,7 @@ Borrowed from {{bor|nl|la|dictātor}}.
 ==Romanian==
 
 ===Etymology===
-Borrowed from {{bor|ro|fr|dictateur}}, {{bor|ro|la|dictator}}.
+Borrowed from {{bor|ro|fr|dictateur}}, {{bor|ro|la|dictātor}}.
 
 ===Noun===
 {{ro-noun|m|dictatori}}
@@ -219,6 +214,7 @@ Borrowed from {{bor|ro|fr|dictateur}}, {{bor|ro|la|dictator}}.
 # {{l|en|dictator}}
 
 ====Related terms====
-* {{l|ro|dictatură}}
-* {{l|ro|dictat}}
-* {{l|ro|dicta}}
+{{rel3|ro
+|dictatură
+|dictat
+|dicta}}
