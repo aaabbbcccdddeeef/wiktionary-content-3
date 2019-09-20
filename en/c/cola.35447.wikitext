@@ -293,24 +293,24 @@ From {{inh|es|VL.|coda}}, from {{inh|es|la|cauda}}, or from its diminutive {{m|l
 {{es-noun|f}}
 
 # {{lb|es|anatomy}} [[tail]]
+#: {{syn|es|rabo}}
 # {{lb|es|aviation}} [[empennage]], [[aircraft tail]]
 # {{lb|es|astronomy}} [[coma]] (a comet's tail)
+#: {{syn|es|coma}}
 # [[line#Noun|line]] {{qualifier|US}}; [[queue]] {{qualifier|UK}}
+#: {{syn|es|fila}}
 # {{lb|es|computing|informatics}} [[queue]]
 # {{lb|es|slightly|obscene}} [[ass]], the [[buttock]]s
 # {{lb|es|Chile|LGBT|sometimes pejorative}} [[gayboy]], [[homo]]
-
-=====Synonyms=====
-* {{sense|tail}} [[rabo]]
-* {{sense|comet}} {{l|es|coma}}
-* {{sense|queue}} [[fila]]
-* {{sense|homo}} [[colihue]]
+#: {{syn|es|colihue}}
 
 =====Derived terms=====
-* [[cola de caballo]] {{g|f}}
-* [[colista]] {{g|m|f}}
-* [[colero]] {{g|m}}
-* [[coleta]] {{g|f}}
+{{der3|es
+|cola de caballo
+|coliblanco
+|colista
+|colero
+|coleta}}
 
 ===Etymology 2===
 From {{inh|es|VL.|colla}}, from {{der|es|grc|κόλλα}}. Cognate to {{cog|pt|cola}}, {{cog|it|colla}}, {{cog|fr|colle}}.
@@ -320,12 +320,10 @@ From {{inh|es|VL.|colla}}, from {{der|es|grc|κόλλα}}. Cognate to {{cog|pt|c
 {{es-noun|f}}
 
 # {{lb|es|adhesive}} [[glue]]
-
-=====Synonyms=====
-* [[pegamento]]
+#: {{syn|es|pegamento}}
 
 =====Derived terms=====
-* [[cola fría]]
+* {{l|es|cola fría}}
 
 ===Etymology 3===
 From a {{der|es|nic}} language.
@@ -335,27 +333,25 @@ From a {{der|es|nic}} language.
 ====Noun====
 {{es-noun|f}}
 
-# {{lb|es|drink}} [[cola#Noun_2|cola]] (short form of [[bebida de cola]])
+# {{lb|es|drink}} {{short for|es|bebida de cola|gloss=cola}}
 # {{lb|es|nut}} [[kola]]
 # {{lb|es|tree}} [[kola tree]]
 
-=====Synonyms=====
-* {{sense|drink}} [[bebida de cola]] (''also der. term'')
-
 =====Derived terms=====
-* {{sense|nut}} [[bebida de cola]] (''also syn.'')
-* {{sense|nut}} [[sabor cola]]
+* {{sense|nut}} {{l|es|bebida de cola}}
+* {{sense|nut}} {{l|es|sabor cola}}
 
 ===Anagrams===
-{{top3}}
+{{top2}}
 * {{l|es|calo}}
 * {{l|es|caló}}
-{{mid3}}
 * {{l|es|laco}}
 * {{l|es|loca}}
-{{mid3}}
 * {{l|es|ocal}}
 {{bottom}}
+
+===Further reading===
+* {{R:DRAE}}
 
 [[Category:Spanish terms with multiple etymologies]]
 [[Category:es:Beverages]]
