@@ -6,23 +6,23 @@
 * {{rhymes|ætʃ|lang=en}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|bache}}, {{m|enm|bacche}}, from {{etyl|ang|en}} {{m|ang|*bæċe}}, {{m|ang|*bæċċe||baking; something baked}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*bakiz||baking}}, related to {{m|ang|bacan||to bake}}. Compare {{cog|de|Gebäck|}}, {{cog|nl|gebak|}} and {{m|nl|baksel|}}.
+From {{inh|en|enm|bache}}, {{m|enm|bacche}}, from {{inh|en|ang|*bæċe}}, {{m|ang|*bæċċe||baking; something baked}}, from {{inh|en|gem-pro|*bakiz||baking}}, related to {{m|ang|bacan||to bake}}. Compare {{cog|de|Gebäck}}, {{cog|nl|gebak}}, {{m|nl|baksel}}.
 
 ====Noun====
 {{en-noun|es}}
 
 # The quantity of [[bread]] or other baked goods [[bake]]d at one time.
-#: ''We made a '''batch''' of cookies to take to the party.''
+#: {{ux|en|We made a '''batch''' of cookies to take to the party.}}
 # A quantity of anything produced at one operation.
-#: ''We poured a bucket of water in at the top, and the ice-maker dispensed a '''batch''' of ice-cubes at the bottom.''
+#: {{ux|en|We poured a bucket of water in at the top, and the ice-maker dispensed a '''batch''' of ice-cubes at the bottom.}}
 # A [[group]] or [[collection]] of things of the [[same]] kind, such as a batch of letters or the next batch of business.
 #* Lady M. W. Montagu
 #*: a new '''batch''' of Lords
 # {{lb|en|computing}} A set of [[data]] to be processed with one [[execute|execution]] of a program.
-#: ''The system throttled itself to '''batches''' of 50 requests at a time to keep the thread count under control.''
+#: {{ux|en|The system throttled itself to '''batches''' of 50 requests at a time to keep the thread count under control.}}
 # {{lb|en|UK|dialect|Midlands}} A [[bread roll]].
 # {{lb|en|Philippines}} A [[graduating]] class.
-#: ''She was the valedictorian of '''Batch''' '73.''
+#: {{ux|en|She was the valedictorian of '''Batch''' '73.}}
 # {{lb|en|obsolete}} The process of [[baking]].
 #* '''1551''', T. Wilson, ''Logike 42 b'':
 #*: Except the baker doe his part also in the '''batch'''.
@@ -109,15 +109,15 @@ From {{etyl|enm|en}} {{m|enm|bache}}, {{m|enm|bacche}}, from {{etyl|ang|en}} {{m
 {{en-verb|batches|batching|batched}}
 
 # {{lb|en|transitive}} To [[aggregate]] things together into a batch.
-#: ''The contractor '''batched''' the purchase orders for the entire month into one statement.''
+#: {{ux|en|The contractor '''batched''' the purchase orders for the entire month into one statement.}}
 # {{lb|en|transitive|computing}} To handle a set of input data or requests as a [[batch process]].
-#: ''The purchase requests for the day were stored in a queue and '''batched''' for printing the next morning.''
+#: {{ux|en|The purchase requests for the day were stored in a queue and '''batched''' for printing the next morning.}}
 
 ====Adjective====
 {{en-adj|-}}
 
 # Of a process, operating for a defined set of conditions, and then halting.
-#: ''The plant had two '''batch''' assembly lines for packaging, as well as a continuous feed production line.''
+#: {{ux|en|The plant had two '''batch''' assembly lines for packaging, as well as a continuous feed production line.}}
 
 =====Antonyms=====
 * {{l|en|continuous}}
