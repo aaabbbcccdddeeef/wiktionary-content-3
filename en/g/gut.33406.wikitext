@@ -17,14 +17,14 @@ The verb is from {{inh|en|enm|gutten}}, {{m|enm|gotten|t=to gut}}.
 
 # The [[alimentary canal]], especially the [[intestine]].
 # {{lb|en|informal}} The [[abdomen]] of a person, especially one that is enlarged
-#: ''beer '''gut'''''
+#: {{ux|en|beer '''gut'''}}
 # {{lb|en|uncountable}} The intestines of an animal used to make strings of a [[tennis racket]] or [[violin]], etc.
 # A person's emotional, [[visceral]] self.
-#: ''I have a funny feeling in my '''gut'''.''
+#: {{ux|en|I have a funny feeling in my '''gut'''.}}
 # {{lb|en|informal}} A [[class]] that is not demanding or challenging.
-#: ''You should take Intro Astronomy: it's a '''gut'''.''
+#: {{ux|en|You should take Intro Astronomy: it's a '''gut'''.}}
 # A narrow passage of water.
-#: ''the '''Gut''' of Canso''
+#: {{ux|en|the '''Gut''' of Canso}}
 # The [[sac]] of [[silk]] taken from a [[silkworm]] when ready to spin its cocoon, for the purpose of drawing it out into a thread. When dry, it is exceedingly strong, and is used as the [[snood]] of a fishing line.
 
 ====Synonyms====
@@ -59,7 +59,7 @@ The verb is from {{inh|en|enm|gutten}}, {{m|enm|gotten|t=to gut}}.
 {{trans-bottom}}
 
 {{trans-top|abdomen}}
-* Bulgarian: {{t+|bg|корем|m|sc=Cyrl}}
+* Bulgarian: {{t+|bg|корем|m}}
 * Dutch: {{t+|nl|buik|m}}
 * French: {{t+|fr|panse|f}} {{qualifier|enlarged or not}}, {{t+|fr|bedaine|f}} {{qualifier|enlarged}}, {{t+|fr|bide|m}}
 * German: {{t+|de|Bauch|m}}, {{t+|de|Ranzen|m-p}}
@@ -74,7 +74,7 @@ The verb is from {{inh|en|enm|gutten}}, {{m|enm|gotten|t=to gut}}.
 {{trans-bottom}}
 
 {{trans-top|intestines of an animal used to make strings of a tennis racket or violin, etc}}
-* Bulgarian: {{t+|bg|черва|n-p|sc=Cyrl}}
+* Bulgarian: {{t+|bg|черва|n-p}}
 * Dutch: {{t+|nl|ingewanden|p}}
 * French: {{t+|fr|boyaux|m-p}}, {{t|fr|[[corde]]s [[de]] [[boyau]]|f-p}}
 * German: {{t+|de|Darm|f}}, {{t+|de|Darmsaite|f}}
@@ -93,7 +93,7 @@ The verb is from {{inh|en|enm|gutten}}, {{m|enm|gotten|t=to gut}}.
 {{trans-bottom}}
 
 {{trans-top|narrow passage of water}}
-* Bulgarian: {{t|bg|тесен пролив|m|sc=Cyrl}}
+* Bulgarian: {{t|bg|тесен пролив|m}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -111,15 +111,15 @@ The verb is from {{inh|en|enm|gutten}}, {{m|enm|gotten|t=to gut}}.
 {{en-verb|gutt}}
 
 # {{lb|en|transitive}} To [[eviscerate]].
-#: ''The [[fisherman]] '''guts''' the fish before cooking them.''
-#: ''The [[lioness]] '''gutted''' her prey.''
+#: {{ux|en|The [[fisherman]] '''guts''' the fish before cooking them.}}}
+#: {{ux|en|The [[lioness]] '''gutted''' her prey.}}
 # {{lb|en|transitive}} To [[remove]] or [[destroy]] the most important parts of.
-#: ''Fire '''gutted''' the building.''
-#: ''Congress '''gutted''' the welfare bill.''
+#: {{ux|en|Fire '''gutted''' the building.}}
+#: {{ux|en|Congress '''gutted''' the welfare bill.}}
 
 ====Translations====
 {{trans-top|To eviscerate}}
-* Bulgarian: {{t|bg|изкормвам|tr=izkormvam}}
+* Bulgarian: {{t|bg|изкормвам}}
 * Catalan: {{t+|ca|estripar}}, {{t+|ca|esbudellar}}
 * Czech: {{t|cs|vykuchat}}
 * Dutch: {{t+|nl|uithalen}}
@@ -134,7 +134,7 @@ The verb is from {{inh|en|enm|gutten}}, {{m|enm|gotten|t=to gut}}.
 * Latin: {{t|la|exenterō}}
 * Maori: {{t|mi|tuaki}}, {{t|mi|huke}} {{qualifier|Refers to fish}}
 * Norman: {{t|nrf|êbieilli}} {{qualifier|fish}}
-* Persian: {{t|fa|شکم دریدن|tr=şekam daridan|sc=fa-Arab}}
+* Persian: {{t|fa|شکم دریدن|tr=šekam daridan|sc=fa-Arab}}
 * Russian: {{t+|ru|потроши́ть|impf}}, {{t+|ru|вы́потрошить|pf}}
 * Spanish: {{t+|es|destripar}}
 * Welsh: {{t|cy|diberfeddu}}
@@ -161,14 +161,14 @@ The verb is from {{inh|en|enm|gutten}}, {{m|enm|gotten|t=to gut}}.
 
 ====Translations====
 {{trans-top|made of gut}}
-* Bulgarian: {{t|bg|чревен|tr=čreven}}
+* Bulgarian: {{t|bg|чревен}}
 * French: {{t|fr|[[en]] [[boyau]]}}
 {{trans-mid}}
 * German: {{t|de|darmbesaitet}}
 {{trans-bottom}}
 
 {{trans-top|instinctive}}
-* Bulgarian: {{t+|bg|инстинктивен|tr=instinktiven}}
+* Bulgarian: {{t+|bg|инстинктивен}}
 * French: {{t+|fr|viscéral}}
 {{trans-mid}}
 * German: {{t+|de|instinktiv}}
@@ -232,7 +232,7 @@ From {{der|da|en|gut}}.
 ==German==
 
 ===Alternative forms===
-* gůt {{q|Early New High German}}
+* {{alter|de|gůt}} {{q|Early New High German}}
 
 ===Etymology===
 From {{der|de|goh|guot}}, from {{der|de|gem-pro|*gōdaz}}, from {{der|de|ine-pro|*gʰedʰ-}}. Cognate to {{cog|lb|gutt}}, {{cog|sli|gutt}}, {{cog|nl|goed}}, {{cog|fy|goed}}, {{cog|en|good}}, {{cog|da|god}}, {{cog|no|god}} and {{cog|sv|god}}.
@@ -283,8 +283,7 @@ From {{der|de|goh|guot}}, from {{der|de|gem-pro|*gōdaz}}, from {{der|de|ine-pro
 {{de-interjection}}
 
 # [[okay]], [[all right]], [[now then]]
-#: '''''Gut''', dann fangen wir mal an.''
-#:: '''All right''', then let's get started.
+#: {{ux|de|'''Gut''', dann fangen wir mal an.|'''All right''', then let's get started.}}
 
 ===Further reading===
 * {{R:Duden}}
@@ -391,4 +390,4 @@ From {{der|tpi|en|good}}.
 ===Noun===
 {{gmq-bot-noun|m}}
 
-# A {{l|en|boy}} (young male.)
+# A {{l|en|boy}}
