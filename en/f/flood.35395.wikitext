@@ -80,10 +80,10 @@ From {{inh|en|enm|flod}}, from {{inh|en|ang|flōd}}, from {{inh|en|gem-pro|*flō
 
 ====Translations====
 {{trans-top|overflow of water}}
-* Albanian: {{t+|sq|përmbytje}}
+* Albanian: {{t+|sq|përmbytje|f}}
 * Arabic: {{t+|ar|طُوفَان|m}}, {{t|ar|فَيَضَان|m}}
 * Armenian: {{t+|hy|հեղեղ}}, {{t+|hy|ջրհեղեղ}}
-* Assamese: {{t|as|বানপানী|tr=banpani}}, {{t|as|বান|tr=ban}}
+* Assamese: {{t|as|বানপানী}}, {{t|as|বান}}
 * Asturian: {{t|ast|inundación|f}}
 * Azerbaijani: {{t+|az|daşqın}}, {{t+|az|sel}}
 * Bashkir: {{t|ba|ташҡын|sc=Cyrl}}
@@ -99,7 +99,7 @@ From {{inh|en|enm|flod}}, from {{inh|en|ang|flōd}}, from {{inh|en|gem-pro|*flō
 * Catalan: {{t+|ca|inundació|f}}, {{t+|ca|aiguat}}
 * Chamicuro: {{t|ccc|imujki}}
 * Chinese:
-*: Cantonese: {{t|yue|水浸}}
+*: Cantonese: {{t|yue|水浸|tr=seoi2 zam3}}
 *: Mandarin: {{t+|cmn|洪水|tr=hóngshuǐ|sc=Hani}}, {{t+|cmn|洪災|sc=Hani}}, {{t+|cmn|洪灾|tr=hóngzāi|sc=Hani}}, {{t+|cmn|水災|sc=Hani}}, {{t+|cmn|水灾|tr=shuǐzāi|sc=Hani}}, {{t+|cmn|大水|tr=dàshuǐ}}
 * Czech: {{t+|cs|povodeň|f}}, {{t+|cs|záplava|f}}, {{t+|cs|potopa|f}}
 * Danish: {{t+|da|oversvømmelse|c}}
@@ -115,8 +115,8 @@ From {{inh|en|enm|flod}}, from {{inh|en|ang|flōd}}, from {{inh|en|gem-pro|*flō
 * Greek: {{t+|el|πλημμύρα|f}}
 *: Ancient: {{t|grc|πλημμύρα|f}}, {{t|grc|κατακλυσμός|m}}
 * Haitian Creole: {{t|ht|inondasyon}}
-* Hebrew: {{t+|he|מבול|m|tr=mabbul}}, {{t+|he|שיטפון|m|tr=šittafon}}
-* Hindi: {{t+|hi|बाढ़|f|tr=bāṛh}}
+* Hebrew: {{t+|he|מַבּוּל|m|tr=mabúl}}, {{t+|he|שיטפון|m|tr=shittafon|alt=שיטפון \ שִׁטָּפוֹן}}
+* Hindi: {{t+|hi|बाढ़|f}}
 * Hungarian: {{t+|hu|árvíz}}, {{t+|hu|ár}}
 * Icelandic: {{t+|is|flóð|n}}
 * Ilocano: {{t|ilo|layos}}
@@ -136,7 +136,7 @@ From {{inh|en|enm|flod}}, from {{inh|en|ang|flōd}}, from {{inh|en|gem-pro|*flō
 * Latgalian: {{t|ltg|poli|m-p}}
 * Latin: {{t|la|dīluviēs|f}}, {{t|la|dīluvium|n}}, {{t|la|inundatio|f}}, {{t|la|abluvium|n}}
 * Latvian: {{t|lv|plūdi|m-p}}, {{t|lv|pali|m-p}}
-* Lithuanian: {{t|lt|potvynis|m}}, {{t|lt|poplūdis}}
+* Lithuanian: {{t|lt|potvynis|m}}, {{t|lt|poplūdis|m}}
 * Lotud: {{t|dtr|liud}}
 * Low German:
 *: German Low German: {{t|nds-de|fluss}}
@@ -158,7 +158,7 @@ From {{inh|en|enm|flod}}, from {{inh|en|ang|flōd}}, from {{inh|en|gem-pro|*flō
 * Occitan: {{t|oc|inondacion|f}}, {{t+|oc|aigat|m}}
 * Old English: {{t|ang|flede}}
 * Pashto: {{t|ps|نېز|m|tr=nez}}
-* Persian: {{t+|fa|سیل|tr=sail}}
+* Persian: {{t+|fa|سیل|tr=seyl}}
 * Polish: {{t+|pl|powódź|f}}, {{t+|pl|potop|m}}
 * Portuguese: {{t+|pt|cheia|f}}, {{t+|pt|enchente|f}}, {{t+|pt|inundação|f}}
 * Quechua: {{t|qu|nuyuy}}
@@ -190,7 +190,7 @@ From {{inh|en|enm|flod}}, from {{inh|en|ang|flōd}}, from {{inh|en|gem-pro|*flō
 * Turkish: {{t+|tr|sel}}, {{t+|tr|taşkın}}
 * Turkmen: {{t|tk|joşgun}}, {{t|tk|sil}}
 * Tuwali Ifugao: {{t|ifk|olwang}}
-* Ukrainian: {{t+|uk|повінь}}, {{t|uk|пото́п|m|sc=Cyrl}}, {{t|uk|пові́ддя|n}}
+* Ukrainian: {{t+|uk|по́вінь|f}}, {{t|uk|пото́п|m}}, {{t|uk|пові́ддя|n}}
 * Urdu: {{t|ur|باڑھ|f|tr=bāṛh}}
 * Uyghur: {{t|ug|تاشقىن}}
 * Uzbek: {{t+|uz|toshqin}}, {{t+|uz|sel}}
@@ -199,7 +199,7 @@ From {{inh|en|enm|flod}}, from {{inh|en|ang|flōd}}, from {{inh|en|gem-pro|*flō
 * Welsh: {{t|cy|llifogydd}}
 * West Frisian: {{t|fy|oerstreaming}}
 * Westrobothnian: {{t|gmq-bot|flø|f}}, {{t|gmq-bot|flo|f}}
-* Yiddish: {{t|yi|פֿאַרפֿלייצונג}}
+* Yiddish: {{t|yi|פֿאַרפֿלייצונג|f}}
 * Zhuang: {{t|za|raemxrongz}}
 {{trans-bottom}}
 
