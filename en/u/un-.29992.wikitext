@@ -272,17 +272,31 @@ From {{m|gv|un||one, single}}.
 * {{IPA|/un/|lang=ang}}
 
 ===Etymology 1===
-From {{inh|ang|gem-pro|*un-}}, from {{inh|ang|ine-pro|*n̥-}}, a prefix use of the particle {{m|ine-pro|*ne||not}}. Cognate with {{cog|osx|un-}}, {{cog|nl|on-}}, {{cog|goh|un-}} ({{cog|de|un-}}), {{cog|non|ó-}} ({{cog|sv|o-}}, {{cog|no|u-}}){{,}} and {{cog|got|𐌿𐌽-}}. The Indo-European root is also the source of {{cog|grc|ἀ-}}, {{m|grc|ἀν-}}, {{cog|la|in-}}{{,}} and {{cog|sga|in-}}.
+From {{inh|ang|gem-pro|*un-}}, from {{inh|ang|ine-pro|*n̥-}}, a prefix use of the particle {{m|ine-pro|*ne||not}}. Cognate with {{cog|ofs|un-}}, {{cog|osx|un-}}, {{cog|odt|un-}}, {{cog|goh|un-}}, {{cog|non|ó-}}, {{cog|got|𐌿𐌽-}}. The Indo-European root is also the source of {{cog|grc|ἀ-}}, {{cog|la|in-}}, and {{cog|sga|in-}}.
 
 ====Prefix====
 {{head|ang|prefix}}
 
-# {{lb|ang|added to nouns and adjectives}} [[negation]], [[privation]]{{,}} or [[absence]] of
+# {{lb|ang|added to nouns and adjectives}} [[negation]] or [[absence]] of: {{l|en|un-}}, [[non-]]
+#: {{prefixusex|ang|dēadlīċ|gloss1=mortal|undēadlīċ|gloss2=immortal}}
+#: {{prefixusex|ang|dēop|gloss1=deep|undēop|gloss2=shallow}}
+#: {{prefixusex|ang|dīere|gloss1=expensive|undīere|gloss2=cheap}}
+#: {{prefixusex|ang|druncen|gloss1=drunk|undruncen|gloss2=sober}}
+#: {{prefixusex|ang|ġewǣpnod|gloss1=armed|unġewǣpnod|gloss2=unarmed}}
+#: {{prefixusex|ang|sċyldiġ|gloss1=guilty|unsċyldiġ|gloss2=innocent}}
 # [[bad]] {{qualifier|used to denote a pejorative sense}} (compare {{m|en|mis-}}, {{m|en|mal-}})
-#: {{prefixusex|ang|dǣd|gloss1=action, deed, event, exploit|undǣd|gloss2=un-deed, bad deed}}
-#: {{prefixusex|ang|lǣċe|gloss1=physician, doctor|unlǣċe|gloss2=bad physician}}
-# {{lb|ang|added to verbs}} [[down]]
-#: {{prefixusex|ang|settan|gloss1=to set, establish, place, make|unsettan|gloss2=to set down, put down}}
+#: {{prefixusex|ang|dǣd|gloss1=action|undǣd|gloss2=crime}}
+#: {{prefixusex|ang|ġelimp|gloss1=event|unġelimp|gloss2=accident}}
+#: {{prefixusex|ang|hlisa|gloss1=fame|unhlisa|gloss2=infamy}}
+#: {{prefixusex|ang|lǣċe|gloss1=doctor|unlǣċe|gloss2=bad doctor}}
+#: {{prefixusex|ang|lyft|gloss1=air|unlyft}} (“malaria,” lit. “bad air”)
+#: {{prefixusex|ang|mann|gloss1=person|unmann|gloss2=brute}}
+#: {{prefixusex|ang|rǣd|gloss1=advice|unrǣd|gloss2=bad advice}}
+#: {{prefixusex|ang|stenċ|gloss1=smell|unstenċ|gloss2=stench}}
+#: {{prefixusex|ang|swefn|gloss1=dream|unswefn|gloss2=bad dream}}
+#: {{prefixusex|ang|tīma|gloss1=time|untīma|gloss2=wrong time}}
+#: {{prefixusex|ang|weder|gloss1=weather|unweder|gloss2=bad weather}}
+#: {{prefixusex|ang|þēaw|gloss1=habit|unþēaw|gloss2=bad habit}}
 
 =====Descendants=====
 * {{desc|enm|un-}}
@@ -290,7 +304,7 @@ From {{inh|ang|gem-pro|*un-}}, from {{inh|ang|ine-pro|*n̥-}}, a prefix use of t
 ** {{desc|en|un-}}
 
 ===Etymology 2===
-Originally identical with {{m|ang|and-}}, from {{inh|ang|gem-pro|*and-}}. Cognate with {{cog|ofs|und-}}, {{cog|osx|ant-}}, {{cog|goh|ant-}} ({{cog|de|ent-}}).
+Originally an alternative form of {{m|ang|on-}}, from {{inh|ang|gem-pro|*and-}}. Cognate with {{cog|ofs|und-}}, {{cog|osx|ant-}}, {{cog|goh|ant-}} ({{cog|de|ent-}}).
 
 ====Alternative forms====
 * {{l|ang|on-}}
