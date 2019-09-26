@@ -677,22 +677,30 @@ From {{etyl|enm|en}} {{m|enm|stoppe}}, from {{etyl|ang|en}} {{m|ang|stoppa||buck
 
 ==Dutch==
 
-===Etymology===
-From {{inh|nl|dum|stoppen}}
-
 ===Pronunciation===
-* {{audio|Nl-stop.ogg|Audio|lang=nl}}
-* {{rhymes|ɔp|lang=nl}}
 * {{IPA|/stɔp/|lang=nl}}
+* {{audio|Nl-stop.ogg|Audio|lang=nl}}
+* {{hyphenation|lang=nl|stop}}
+* {{rhymes|ɔp|lang=nl}}
 
-===Noun===
+===Etymology 1===
+From {{inh|nl|dum|stoppe}}.
+
+====Noun====
 {{nl-noun|m|-en|stopje}}
 
-# an action of stopping, [[cessation]]
-# [[plug]] for a [[sink]], a [[stopper]]
-# electric [[fuse]]
+# An action of stopping, [[cessation]].
+# A [[plug]] for a [[sink]], a [[stopper]].
+# An electric [[fuse]].
+#: {{syn|nl|zekering}}
 
-===Verb===
+=====Derived terms=====
+* {{l|nl|stoppenkast}}
+
+===Etymology 2===
+{{nonlemma}}
+
+====Verb====
 {{head|nl|verb form}}
 
 # {{nl-verb form of|p=1|n=sg|t=pres|m=ind|stoppen}}
