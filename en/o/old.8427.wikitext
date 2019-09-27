@@ -276,12 +276,12 @@ From {{inh|en|enm|old}}, {{m|enm|ald}}, from {{inh|en|ang|ald}}, {{m|ang|eald|t=
 * Old English: {{t+|ang|eald}}, {{t|ang|gamol}}
 * Old Saxon: {{t|osx|ald}}
 * Oriya: {{t-needed|or}}
-* Pashto: {{t+|ps|زوړ|m|tr=zoŗ}}, {{t+|ps|زړه|f|tr=zaŗa}}
+* Pashto: {{t+|ps|زوړ|m|tr=zoṛ}}, {{t+|ps|زړه|f|tr=zaṛa}}
 * Persian: {{t+|fa|قدیمی|tr=qadimi|sc=fa-Arab}}, {{t+|fa|دیرین|tr=dirin}} {{qualifier|archaic}}, {{t+|fa|کهن|tr=kohan}}, {{t+|fa|کهنه|tr=kohne|sc=fa-Arab}}
 * Piedmontese: {{t|pms|vecc}}
 * Polish: {{t+|pl|stary}}
 * Portuguese: {{t+|pt|velho}}, {{t+|pt|antigo}}
-* Punjabi: {{t|pa|ਪੁਰਾਣਾ|m|sc=Guru|tr=purāṇā}}, {{t|pa|ਪੁਰਾਣੀ|f|sc=Guru|tr=purāṇī}}, {{t|pa|ਪੁਰਾਣੇ|p|sc=Guru|tr=purāṇe}}, {{t|pa|ਪੁਰਾਣੀਆਂ|f-p|sc=Guru|tr=purāṇīāṁ}}
+* Punjabi: {{t|pa|ਪੁਰਾਣਾ|m|sc=Guru}}, {{t|pa|ਪੁਰਾਣੀ|f|sc=Guru}}, {{t|pa|ਪੁਰਾਣੇ|p|sc=Guru}}, {{t|pa|ਪੁਰਾਣੀਆਂ|f-p|sc=Guru}}
 * Quechua: {{t|qu|mauka}}
 * Rajasthani: {{t-needed|raj}}
 * Romani: {{t|rom|phurano}}
@@ -343,7 +343,7 @@ From {{inh|en|enm|old}}, {{m|enm|ald}}, from {{inh|en|ang|ald}}, {{m|ang|eald|t=
 * Albanian: {{t+|sq|plak}}
 * American Sign Language: {{t|ase|S@Chin S@FromChin}}
 * Arabic: {{t|ar|كَبِير اَلسِّنّ}}, {{t|ar|مُسِنّ}}
-*: Egyptian Arabic: {{t|arz|عجوز|m|tr=ʿagoz|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|عجوز|m|tr=ʿagōz|sc=Arab}}
 * Aragonese: {{t|an|biello}}, {{t|an|viello|m}}
 * Armenian: {{t+|hy|ծեր}}, {{t+|hy|պառավ}}, {{t+|hy|տարեց|sc=Armn}}
 * Asturian: {{t+|ast|vieyu}}
@@ -461,7 +461,7 @@ From {{inh|en|enm|old}}, {{m|enm|ald}}, from {{inh|en|ang|ald}}, {{m|ang|eald|t=
 * Armenian: {{t+|hy|անցած}}
 * Asturian: {{t|ast|antiguu}}
 * Bashkir: {{t|ba|элекке}}
-* Bulgarian: {{t+|bg|бивш|m|tr=bívš|sc=Cyrl}}
+* Bulgarian: {{t+|bg|бивш|m}}
 * Catalan: {{t+|ca|vell}}, {{t+|ca|antic}}
 * Chinese:
 *: Mandarin: {{t+|cmn|前|tr=qián|sc=Hani}}
@@ -576,7 +576,7 @@ From {{inh|en|enm|old}}, {{m|enm|ald}}, from {{inh|en|ang|ald}}, {{m|ang|eald|t=
 
 {{trans-top|tiresome}}
 * Bashkir: {{t|ba|ялҡытҡан}}, {{t|ba|биҙрәткән}}
-* Bulgarian: {{t+|bg|досаден|tr=dosáden|sc=Cyrl}}, {{t|bg|на втора ръка|tr=na vtóra rǎká|sc=Cyrl}}
+* Bulgarian: {{t+|bg|доса́ден|sc=Cyrl}}, {{t|bg|на вто́ра ръка́}}
 * French: {{t+|fr|ça commence à bien faire}}
 * German: {{t+|de|alt}}
 {{trans-mid}}
@@ -589,8 +589,8 @@ From {{inh|en|enm|old}}, {{m|enm|ald}}, from {{inh|en|ang|ald}}, {{m|ang|eald|t=
 <!--Remove this section once all of the translations below have been moved into the tables above.-->
 {{checktrans-top}}
 * {{ttbc|cmn}}:
-*: Simplified: [[过时]]的 (guòshí de)
-*: Traditional: [[過時]]的 (guòshí de)
+*: Simplified: {{t|zh|过时|alt=过时的|tr=guòshí de}}
+*: Traditional: {{t|zh|過時|alt=過時的|tr=guòshí de}}
 * Interlingua: {{t-check|ia|ancian}}
 * Irish: {{t-check|ga|críonna}}
 * {{ttbc|mnc}}: (fe)
