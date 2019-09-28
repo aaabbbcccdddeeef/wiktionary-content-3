@@ -11,18 +11,18 @@ The “person or entity that passes along an urban legend or other meme” sense
 The use of the term “vector” in mathematics was introduced by {{w|William Rowan Hamilton}} when he introduced the quaternion product.
 
 ===Pronunciation===
-* {{hyphenation|vec|tor|lang=en}}
-* {{a|UK}} {{IPA|/ˈvɛktə/|lang=en}}
-* {{a|US}} {{enPR|vĕk'tər}}, {{IPA|/ˈvɛktɚ/|lang=en}}
-* {{audio|en-us-vector.ogg|Audio (US)|lang=en}}
-* {{audio|en-au-vector.ogg|Audio (AU)|lang=en}}
-* {{rhymes|ɛktə(ɹ)|lang=en}}
+* {{hyphenation|en|vec|tor}}
+* {{a|UK}} {{IPA|en|/ˈvɛktə/}}
+* {{a|US}} {{enPR|vĕk'tər}}, {{IPA|en|/ˈvɛktɚ/}}
+* {{audio|en|en-us-vector.ogg|Audio (US)}}
+* {{audio|en|en-au-vector.ogg|Audio (AU)}}
+* {{rhymes|en|ɛktə(ɹ)}}
 
 ===Noun===
 {{en-noun}}
 
 # {{lb|en|mathematics}} A [[directed]] [[quantity]], one with both [[magnitude]] and [[direction]]; the [[signed]] [[difference]] between two [[points]].
-#* {{quote-book|lang=en|passage=As examples of '''vector''' quantities may be mentioned the distance between any two given points, a velocity, a force, an acceleration, angular velocity, intensity of magnetization flux of heat.|title=[[S:The New Student's Reference Work/Vector|The New Student's Reference Work]]|year=1914}}
+#* {{quote-book|en|passage=As examples of '''vector''' quantities may be mentioned the distance between any two given points, a velocity, a force, an acceleration, angular velocity, intensity of magnetization flux of heat.|title=[[S:The New Student's Reference Work/Vector|The New Student's Reference Work]]|year=1914}}
 # {{lb|en|mathematics}} An [[order]]ed [[tuple]] representing a [[directed]] [[quantity]] or the {{soplink|signed|difference}} between two points.
 # {{lb|en|mathematics}} Any member of a ([[generalize]]d) [[vector space]].
 #: {{ux|en|The '''vectors''' in <math>{\mathbb Q}[X]</math> are the single-variable polynomials with rational coefficients: one is <math>\textstyle x^{42}+\frac1{137}x-1</math>.}}
@@ -30,7 +30,7 @@ The use of the term “vector” in mathematics was introduced by {{w|William Ro
 # {{senseid|en|carrier of a disease-causing agent}}{{lb|en|epidemiology}} A [[carrier]] of a [[disease]]-causing [[agent]].
 # {{lb|en|sociology}} A person or entity that passes along an [[urban legend]] or other [[meme]].
 # {{lb|en|psychology}} A recurring psychosocial issue that stimulates growth and development in the personality.
-# The way in which the eyes are drawn across the visual text. The trail that a book cover can encourage the eyes to follow from certain objects to others.{{rfex|lang=en}}
+# The way in which the eyes are drawn across the visual text. The trail that a book cover can encourage the eyes to follow from certain objects to others.{{rfex|en}}
 # {{lb|en|computing|operating systems}} A memory address containing the address of a [[code entry point]], usually one which is part of a [[table]] and often one that is [[dereference|dereferenced]] and [[jump|jumped]] to during the execution of an [[interrupt]].
 # {{lb|en|programming}} A one-dimensional [[array]].
 #* '''2004''', Jesse Liberty, ‎Bradley L. Jones, ''Sams Teach Yourself C++ in 21 Days'' (page 694)
@@ -249,10 +249,10 @@ The use of the term “vector” in mathematics was introduced by {{w|William Ro
 Borrowed from {{bor|nl|la|vector}}.
 
 ===Pronunciation===
-* {{IPA|lang=nl|/ˈvɛk.tɔr/}}
-* {{audio|Nl-vector.ogg|Audio|lang=nl}}
-* {{hyphenation|lang=nl|vec|tor}}
-* {{rhyme|lang=nl|ɛktɔr}}
+* {{IPA|nl|/ˈvɛk.tɔr/}}
+* {{audio|nl|Nl-vector.ogg|Audio}}
+* {{hyphenation|nl|vec|tor}}
+* {{rhyme|nl|ɛktɔr}}
 
 ===Noun===
 {{nl-noun|m|-:en|vectortje}}
@@ -310,7 +310,7 @@ From {{der|gl|la|vector}}
 ===Verb===
 {{la-verb-form|vector}}
 
-# {{inflection of|vectō||1|s|pres|pasv|indc|lang=la}}
+# {{inflection of|la|vectō||1|s|pres|pasv|indc}}
 
 ===References===
 * {{R:L&S}}
@@ -324,7 +324,7 @@ From {{der|gl|la|vector}}
 ===Noun===
 {{pt-noun|m}}
 
-# {{superseded spelling of|vetor|lang=pt}}
+# {{superseded spelling of|pt|vetor}}
 
 ----
 
