@@ -2,14 +2,14 @@
 ==English==
 
 ===Pronunciation===
-* {{qualifier|1=after voiceless consonants except {{IPAchar|/s/|lang=en}}, {{IPAchar|lang=en|/ʃ/}}, {{IPAchar|lang=en|/t͡ʃ/}}}} {{enPR|s}}, {{IPA|/s/|lang=en}}
+* {{qualifier|1=after voiceless consonants except {{IPAchar|/s/|lang=en}}, {{IPAchar|lang=en|/ʃ/}}, {{IPAchar|lang=en|/t͡ʃ/}}}} {{enPR|s}}, {{IPA|en|/s/}}
 * {{qualifier|after a sibilant or affricate}}
-** {{a|UK}} {{enPR|ĭz}}, {{IPA|/ɪz/|lang=en}}
-** {{a|US}} {{enPR|ĭz|əz}}, {{IPA|/ɪz/|/əz/|lang=en}}
-** {{a|AU}} {{enPR|əz}}, {{IPA|/əz/|lang=en}}
-* {{qualifier|elsewhere}} {{enPR|z}}, {{IPA|/z/|lang=en}}
-* {{homophones|-s|lang=en}}
-{{rfap|lang=en}}
+** {{a|UK}} {{enPR|ĭz}}, {{IPA|en|/ɪz/}}
+** {{a|US}} {{enPR|ĭz|əz}}, {{IPA|en|/ɪz/|/əz/}}
+** {{a|AU}} {{enPR|əz}}, {{IPA|en|/əz/}}
+* {{qualifier|elsewhere}} {{enPR|z}}, {{IPA|en|/z/}}
+* {{homophones|en|-s}}
+{{rfap|en}}
 
 ===Etymology 1===
 Contractions.
@@ -17,19 +17,19 @@ Contractions.
 ====Suffix====
 {{head|en|suffix|clitic}}
 
-# {{contraction of|is|lang=en}}
+# {{contraction of|en|is}}
 #: ''The dog'''’s''' running after me!''
-# {{contraction of|has|lang=en}}
+# {{contraction of|en|has}}
 #: ''The dog'''’s''' been chasing the mail carrier again.''
-# {{lb|en|informal}} {{contraction of|does|lang=en|nodot=1}} {{qualifier|used only with the auxiliary meaning of {{m|en|does}} and only after interrogative words}}.
+# {{lb|en|informal}} {{contraction of|en|does|nodot=1}} {{qualifier|used only with the auxiliary meaning of {{m|en|does}} and only after interrogative words}}.
 #: ''What'''’s''' he do for a living?''
 #: ''What'''’s''' it say?''
 #: ''Where'''’s''' the ''n'' in ''Javanese'' come from?''
 # {{lb|en|nonstandard|sometimes|proscribed}} [[are]] {{qualifier|used mainly after {{m|en|where}}, {{m|en|here}}, and {{m|en|there}}}}.
 #: ''[[where's|Where'''’s''']] the table tennis balls?''
-# {{contraction of|us|lang=en|nodot=1}} {{qualifier|found in the formula '''[[let's|let’s]]''' which is used to form first-person plural [[imperative]]s}}.
+# {{contraction of|en|us|nodot=1}} {{qualifier|found in the formula '''[[let's|let’s]]''' which is used to form first-person plural [[imperative]]s}}.
 #: ''What are you guys waiting for? Let'''’s''' go!''
-# {{lb|en|UK|dialect}} {{contraction of|as|lang=en|nodot=1}} {{qualifier|when it is (nonstandardly) used as a relative conjunction, or like a relative pronoun, meaning "that"}}.
+# {{lb|en|UK|dialect}} {{contraction of|en|as|nodot=1}} {{qualifier|when it is (nonstandardly) used as a relative conjunction, or like a relative pronoun, meaning "that"}}.
 #: ''All'''’s''' he wanted was to go home.''
 
 ===Etymology 2===
@@ -44,7 +44,7 @@ From {{inh|en|enm|-s}}, {{m|enm|-es}}, from {{inh|en|ang|-es||-'s|pos=masculine 
 #: ''The cat bit the dog with the shaggy fur'''’s''' tail.'' (''the dog with the shaggy fur'' + '''''’s''''')
 #: ''women'''’s''' contributions to science''
 #* {{quote-journal
-|lang=en
+|en
 |date=April 15, 2012
 |author=Phil McNulty
 |title=Tottenham 1-5 Chelsea
@@ -176,7 +176,7 @@ The use of '''''’s''''' to form plurals of initialisms or numerals is not curr
 ====Suffix====
 {{head|af|suffix|clitic}}
 
-# {{contraction of|is|lang=af}}
+# {{contraction of|af|is}}
 #: {{uxi|af|Julle''''s''' almal die selfde.|You''''re''' all the same.}}
 #: {{uxi|af|Hier''''s''' wat ek jou kan vertel.|Here''''s''' what I can tell you.}}
 
@@ -185,8 +185,8 @@ The use of '''''’s''''' to form plurals of initialisms or numerals is not curr
 ==Dutch==
 
 ===Pronunciation===
-* {{IPA|lang=nl|/s/}}
-* {{audio|Nl-'s.ogg|Audio|lang=nl}}
+* {{IPA|nl|/s/}}
+* {{audio|nl|Nl-'s.ogg|Audio}}
 
 ===Suffix===
 {{head|nl|suffix|cat2=inflectional suffixes|g=p}}
@@ -225,7 +225,7 @@ The use of '''''’s''''' to form plurals of initialisms or numerals is not curr
 ====Article====
 {{head|de|article|head=-’s}} ''(clitic)''
 
-# {{form of|contracted form|das|lang=de}}
+# {{form of|de|contracted form|das}}
 
 ====See also====
 * {{l|de|'s}}
@@ -238,7 +238,7 @@ The use of '''''’s''''' to form plurals of initialisms or numerals is not curr
 ====Pronoun====
 {{head|de|pronoun|head=-’s}} ''(clitic)''
 
-# {{form of|contracted form|es|lang=de}}
+# {{form of|de|contracted form|es}}
 #: {{qualifier|with other pronouns}} mir's, ich's, ... = mir es, ich es, ...
 #: {{qualifier|with verbs}} geht's, nimm's, ... = geht es, nimm es, ...
 #: {{qualifier|with particles}} wenn's, ob's, ... = wenn es, ob es, ...
