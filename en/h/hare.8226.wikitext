@@ -5,9 +5,9 @@
 {{wikipedia}}
 
 ===Pronunciation===
-* {{IPA|/hɛɚ/|/heɹ/|/heə/|lang=en}}
-* {{audio|en-us-hare.ogg|Audio (US)|lang=en}}
-* {{homophones|lang=en|hair}}
+* {{IPA|en|/hɛɚ/|/heɹ/|/heə/}}
+* {{audio|en|en-us-hare.ogg|Audio (US)}}
+* {{homophones|en|hair}}
 
 ===Etymology 1===
 From {{der|en|enm|hare}}, from {{der|en|ang|hara||hare}}, from {{der|en|gem-pro|*hasô}} (compare {{cog|fy|hazze}}, {{cog|nl|haas}}, {{cog|de|Hase}}, {{cog|no|-}} and {{cog|sv|hare}}, {{cog|is|heri}}), from {{der|en|gem-pro|*haswaz||grey}} (compare {{cog|ang|hasu}}, {{cog|gmh|heswe||pale, dull}}), from {{der|en|ine-pro|*ḱeh₂s-|*ḱh₂s-én-}} (compare {{cog|cy|cannu||to whiten}}, {{m|cy|ceinach||hare}}, {{cog|la|cānus||white}}, {{m|la|cascus||old}}, {{cog|prg|sasnis||hare}}, {{cog|ps|سوی|tr=soe||hare}} and {{cog|sa|शश||hare}}).
@@ -206,7 +206,7 @@ From {{der|en|enm|hare}}, from {{der|en|ang|hara||hare}}, from {{der|en|gem-pro|
 
 # {{lb|en|intransitive}} To move swiftly.
 #* {{quote-journal
-|lang=en
+|en
 |date=February 4, 2011
 |author=Gareth Roberts
 |title=Wales 19-26 England
@@ -282,7 +282,7 @@ From {{inh|af|nl|({{l|nl|de}}) {{l|nl|hare}}}}.
 From {{der|da|non|hari}}, {{m|non|heri||hare}}.
 
 ===Pronunciation===
-* {{IPA|/haːrə/|[ˈhɑːɑ]|lang=da}}
+* {{IPA|da|/haːrə/|[ˈhɑːɑ]}}
 
 ===Noun===
 {{da-noun|n|r}}
@@ -305,20 +305,20 @@ From {{der|da|non|hari}}, {{m|non|heri||hare}}.
 From {{inh|nl|dum|hare}}. {{etystub|nl}}
 
 ===Pronunciation===
-* {{IPA|lang=nl|/ˈɦaː.rə/}}
-* {{audio|Nl-hare.ogg|Audio|lang=nl}}
-* {{hyphenation|lang=nl|ha|re}}
-* {{rhyme|lang=nl|aːrə}}
+* {{IPA|nl|/ˈɦaː.rə/}}
+* {{audio|nl|Nl-hare.ogg|Audio}}
+* {{hyphenation|nl|ha|re}}
+* {{rhyme|nl|aːrə}}
 
 ===Determiner===
 {{head|nl|determiner|cat2=possessive determiners}}
 
-# {{form of|non-[[attributive]] form|haar|lang=nl}} (English: [[hers]])
+# {{form of|nl|non-[[attributive]] form|haar}} (English: [[hers]])
 #: Normally used in conjunction with the definite article [[de]] or [[het]] depending on the gender of what is being referred to.
 #:: ''Die auto is de hare.'' &mdash; That car is her one. That car is hers.
 #:: ''Dat huis is het hare.'' &mdash; That house is her one. That house is hers.
 #:: ''Dat is de/het hare.'' &mdash; That is her one. That is hers.
-# {{lb|nl|archaic}} {{form of|inflected form|haar|lang=nl}}
+# {{lb|nl|archaic}} {{form of|nl|inflected form|haar}}
 
 ====Derived terms====
 * {{l|nl|Hare Majesteit}}
@@ -350,12 +350,12 @@ From {{inh|nl|dum|hare}}. {{etystub|nl}}
 ====Determiner====
 {{head|enm|determiner}}
 
-# {{alt form|hire|lang=enm}}
+# {{alt form|enm|hire}}
 
 ====Pronoun====
 {{head|enm|pronoun}}
 
-# {{alt form|hire|lang=enm}}
+# {{alt form|enm|hire}}
 
 ====References====
 * {{R:MED Online|entry= hir, (pron.1) |id=MED20860 |accessdate=10 May 2018}}
@@ -365,7 +365,7 @@ From {{inh|nl|dum|hare}}. {{etystub|nl}}
 ====Pronoun====
 {{head|enm|pronoun}}
 
-# {{alt form|hire|lang=enm}}
+# {{alt form|enm|hire}}
 
 ====References====
 * {{R:MED Online|entry= hir(e), pron (2) |id=MED20861 |accessdate=10 June 2018}}
@@ -376,14 +376,14 @@ From {{inh|enm|ang|hǣr}}.
 ====Noun====
 {{head|enm|noun}}
 
-# {{alt form|lang=enm|her|t=hair|id=hair}}
+# {{alt form|enm|her|t=hair|id=hair}}
 
 ===Etymology 4===
 
 ====Determiner====
 {{head|enm|determiner}}
 
-# {{lb|enm|chiefly West Midland and Kentish dialectal}} {{alt form|here|lang=enm|t=their|id=their}}
+# {{lb|enm|chiefly West Midland and Kentish dialectal}} {{alt form|enm|here|t=their|id=their}}
 
 =====References=====
 * {{R:MED Online|entry=her(e (pron.) |id=MED20493 |accessdate=12 June 2018}}
@@ -395,7 +395,7 @@ From {{inh|enm|ang|hara}}, from {{der|enm|gem-pro|*hasô}}; some forms have the 
 * {{alter|enm|hara|haar|hayre|harre|hayr|are|here}}
 
 ====Pronunciation====
-* {{IPA|lang=enm|/ˈhaːr(ə)/}}
+* {{IPA|enm|/ˈhaːr(ə)/}}
 
 ====Noun====
 {{enm-noun|hares}}
@@ -428,8 +428,8 @@ From {{inh|enm|ang|hara}}, from {{der|enm|gem-pro|*hasô}}; some forms have the 
 From {{der|nb|non|*heri}}, from {{der|nb|gem-pro|*háswa-}}. Compare with {{cog|de|Hase}}, {{cog|sv|hare}}.
 
 ===Pronunciation===
-* {{IPA|/ˈhaːrə/|lang=nb}}
-* {{homophones|lang=nb|harde}}
+* {{IPA|nb|/ˈhaːrə/}}
+* {{homophones|nb|harde}}
 
 ===Noun===
 {{nb-noun-m1}}
@@ -450,8 +450,8 @@ From {{der|nb|non|*heri}}, from {{der|nb|gem-pro|*háswa-}}. Compare with {{cog|
 From {{der|nn|non|*heri}}, from {{der|nn|gem-pro|*háswa-}}. Akin to {{cog|en|hare}}.
 
 ===Pronunciation===
-* {{IPA|/²hɑːrə/|lang=nn}}
-* {{homophones|harde|lang=nn}}
+* {{IPA|nn|/²hɑːrə/}}
+* {{homophones|nn|harde}}
 
 ===Noun===
 {{nn-noun-m1}}
@@ -501,7 +501,7 @@ From {{inh|rap|poz-pol-pro|*fale}}.
 From {{inh|sv|gmq-osw|hari}}, {{m|gmq-osw|hæri}}, from {{inh|sv|non|*hari}}, {{m|non|heri}}, from {{inh|sv|gem-pro|*hasô}}.
 
 ===Pronunciation===
-* {{audio|Sv-en hare.ogg|audio|lang=sv}}
+* {{audio|sv|Sv-en hare.ogg|audio}}
 
 ===Noun===
 {{sv-noun|c}}
