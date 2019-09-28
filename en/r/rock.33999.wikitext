@@ -4,11 +4,11 @@
 
 ===Pronunciation===
 * {{a|AusE}} {{IPAchar|[ɹʷɔk]}}
-* {{a|RP}} {{IPA|/ɹɒk/|lang=en}}
-* {{rhymes|ɒk|lang=en}}
-* {{a|US}} {{enPR|rŏk}}, {{IPA|/ɹɑk/|lang=en}}
-* {{audio|en-us-rock.ogg|Audio (US)|lang=en}}
-* {{homophones|roc|rawk|lang=en}}
+* {{a|RP}} {{IPA|en|/ɹɒk/}}
+* {{rhymes|en|ɒk}}
+* {{a|US}} {{enPR|rŏk}}, {{IPA|en|/ɹɑk/}}
+* {{audio|en|en-us-rock.ogg|Audio (US)}}
+* {{homophones|en|roc|rawk}}
 
 ===Etymology 1===
 From {{inh|en|enm|rocke}}, {{m|enm|rokke|t=rock formation}}, from {{inh|en|ang|*rocc|t=rock}}, as in {{cog|ang|stānrocc|t=high stone rock, peak, obelisk}}, and also later from {{der|en|xno|roc}}, {{m|fro|roce}}, {{m|fro|roque}} (compare Modern {{cog|fr|roc}}, {{m|fr|roche}}, {{m|fr|rocher}}), from {{der|en|ML.|rocca}} (attested 767), from {{der|en|VL.|*rocca}}, of {{unk|en|title=uncertain}} origin, sometimes said to be of {{der|en|cel}} (in particular, perhaps {{der|en|cel-gau|}}) origin (compare {{cog|br|roc'h}}).<ref>{{R:Etymonline|rock}}</ref>
@@ -22,7 +22,7 @@ From {{inh|en|enm|rocke}}, {{m|enm|rokke|t=rock formation}}, from {{inh|en|ang|*
 
 # A formation of [[mineral]]s, specifically:
 ## {{lb|en|uncountable}} The naturally occurring [[aggregate]] of solid [[mineral]] matter that constitutes a significant part of the earth's crust.
-##* {{quote-journal|lang=en|date=2013-06-29|volume=407|issue=8842|page=28|magazine={{w|The Economist}}
+##* {{quote-journal|en|date=2013-06-29|volume=407|issue=8842|page=28|magazine={{w|The Economist}}
 |title=[http://www.economist.com/news/asia/21580209-natural-disaster-aggravated-poor-response-high-and-wet High and wet]
 |passage=Floods in northern India, mostly in the small state of Uttarakhand, have wrought disaster on an enormous scale.{{...}}'''Rock'''-filled torrents smashed vehicles and homes, burying victims under rubble and sludge.}}
 ##: {{ux|en|The face of the cliff is solid '''rock'''.}}
@@ -646,7 +646,7 @@ From {{inh|en|enm|rokken}}, from {{inh|en|ang|roccian}}, from {{inh|en|gem-pro|*
 {{en-verb}}
 
 # {{lb|en|transitive|and|intransitive}} To [[move]] gently [[back and forth]].
-#* {{quote-book|lang=en|year=1918|author={{w|W. B. Maxwell}}|chapter=12
+#* {{quote-book|en|year=1918|author={{w|W. B. Maxwell}}|chapter=12
 |title=[http://openlibrary.org/works/OL1097634W The Mirror and the Lamp]
 |passage=To Edward […] he was terrible, nerve-inflaming, poisonously asphyxiating. He sat '''rocking''' himself in the late Mr. Churchill's swing chair, smoking and twaddling.}}
 #: {{ux|en|'''Rock''' the baby to sleep.}}
@@ -663,7 +663,7 @@ From {{inh|en|enm|rokken}}, from {{inh|en|ang|roccian}}, from {{inh|en|gem-pro|*
 #: {{ux|en|Downing Street has been '''rocked''' by yet another sex scandal.}}
 #: {{ux|en|She '''rocked''' my world.}}
 # {{lb|en|intransitive}} To do well or to be operating at high efficiency.
-#* {{quote-journal|lang=en|date=April 24, 2012|author=Phil Dawkes|work=BBC Sport
+#* {{quote-journal|en|date=April 24, 2012|author=Phil Dawkes|work=BBC Sport
 |title=[http://www.bbc.co.uk/sport/0/football/17817584 Barcelona 2-2 Chelsea]
 |passage=The Blues' challenge had been '''rocking''' at that point, with Terry's centre-back partner Gary Cahill lost to injury and Barca having just levelled the tie through Busquets's neat, close-range finish from Isaac Cuenca's pull-back.}}
 # {{lb|en|slang|transitive|euphemistic}} to [[make love]] to or [[have sex]] with.
@@ -931,7 +931,7 @@ Shortened from {{m|en|rock and roll}}. Since the meaning of {{m|en||rock}} has a
 #* '''2011''', Tim Jonze, ''The Guardian'', 29 Apr 2011:
 #*: Take today, where she's '''rocking''' that well-known fashion combo – a Tory Burch outfit offset with a whacking great bruise attained by smacking her head on a plane's overhead lockers.
 #* {{quote-journal
-|lang=en
+|en
 |date=May 8, 2012
 |author=
 |title=Rhianna dazzles at the Met Gala
@@ -1009,7 +1009,7 @@ From {{etyl|enm|en}} {{m|enm|rok}}, {{m|enm|rocke}}, {{m|enm|rokke}}, perhaps fr
 ====Noun====
 {{en-noun}}
 
-# {{archaic form of|roc|nodot=yes|lang=en}} (mythical bird)
+# {{archaic form of|en|roc|nodot=yes}} (mythical bird)
 
 ===Anagrams===
 * {{anagrams|en|a=ckor|Cork|cork}}
@@ -1050,9 +1050,9 @@ From {{etyl|en|cs}} {{m|en|rock}}.
 From {{der|nl|en|rock}}.
 
 ===Pronunciation===
-* {{audio|Nl-rock.ogg|Audio|lang=nl}}
-* {{rhymes|ɔk|lang=nl}}
-* {{IPA|/rɔk/|lang=nl}}
+* {{audio|nl|Nl-rock.ogg|Audio}}
+* {{rhymes|nl|ɔk}}
+* {{IPA|nl|/rɔk/}}
 
 ===Noun===
 {{nl-noun|m|-|-}}
@@ -1106,7 +1106,7 @@ Borrowed from {{bor|fr|en|rock}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
-* {{audio|Fr-rock.ogg|Audio (le rock)|lang=fr}}
+* {{audio|fr|Fr-rock.ogg|Audio (le rock)}}
 
 ===Noun===
 {{fr-noun|m|-}}
@@ -1146,8 +1146,8 @@ From {{etyl|en|it}}
 From {{etyl|en|pt}} {{m|en|rock}}.
 
 ===Pronunciation===
-* {{a|Portugal}} {{IPA|/ʁɔk/|lang=pt}}
-* {{a|Brazil}} {{IPA|/ˈʁɔk/|/ˈʁɔ.ki/|lang=pt}}
+* {{a|Portugal}} {{IPA|pt|/ʁɔk/}}
+* {{a|Brazil}} {{IPA|pt|/ˈʁɔk/|/ˈʁɔ.ki/}}
 
 ===Noun===
 {{pt-noun|m|-}}
@@ -1169,7 +1169,7 @@ From {{etyl|en|pt}} {{m|en|rock}}.
 From {{etyl|en|es}} {{m|en|rock}}.
 
 ===Pronunciation===
-* {{IPA|[rok]|lang=es}}
+* {{IPA|es|[rok]}}
 
 ===Noun===
 {{es-noun|m}}
@@ -1194,7 +1194,7 @@ From {{etyl|en|es}} {{m|en|rock}}.
 ==Swedish==
 
 ===Pronunciation===
-* {{audio|Sv-rock.ogg|audio|lang=sv}}
+* {{audio|sv|Sv-rock.ogg|audio}}
 
 ===Noun===
 {{sv-noun|c}}
