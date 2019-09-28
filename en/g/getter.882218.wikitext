@@ -5,10 +5,10 @@
 {{suffix|en|get|er}}
 
 ===Pronunciation===
-* {{a|RP}} {{IPA|/ˈɡɛtə/|lang=en}}
-* {{a|GA}} {{IPA|/ˈɡɛtə(ɹ)/|/-ɾə(ɹ)/|lang=en}}
-* {{rhymes|ɛtə|ɛtə(ɹ)|lang=en}}
-* {{hyphenation|get|ter|lang=en}}
+* {{a|RP}} {{IPA|en|/ˈɡɛtə/}}
+* {{a|GA}} {{IPA|en|/ˈɡɛtə(ɹ)/|/-ɾə(ɹ)/}}
+* {{rhymes|en|ɛtə|ɛtə(ɹ)}}
+* {{hyphenation|en|get|ter}}
 
 ===Noun===
 {{en-noun}}
@@ -20,7 +20,7 @@
 #*: In any case, now we have defined the identities and established the unique characteristics of all types of gift givers and gift '''getters'''.
 # {{lb|en|object-oriented programming}} A [[function]] used to [[retrieve]] the value of some [[property]] of an [[object]], contrasted with the [[setter]].
 #* {{quote-book
-|lang=en
+|en
 |year=2002
 |author=James Steven Perry
 |title=Java Management Extensions
@@ -30,7 +30,7 @@
 |passage=A proper '''getter''' must return the type of its attribute.}}
 # {{lb|en|sciences}} A material which is included in a [[vacuum]] system or device for [[removing]] [[gas]] by [[sorption]].
 #* {{quote-book
-|lang=en
+|en
 |year=1979
 |author=G. L. Weissler and Robert Warner Carlson
 |title=Vacuum Physics and Technology
@@ -65,7 +65,7 @@
 
 # {{lb|en|sciences}} To [[remove]] [[gas]] by [[sorption]].
 #* {{quote-book
-|lang=en
+|en
 |year=2003
 |author=John F. O'Hanlon
 |title=A Users Guide to Vacuum Technology
@@ -105,7 +105,7 @@ Specifically from {{etyl|fro|frm}} {{m|fro|geter}}, the northern variant of {{m|
 ===Verb===
 {{head|frm|verb}}
 
-# {{alternative form of|iecter|lang=frm}}
+# {{alternative form of|frm|iecter}}
 
 ====Conjugation====
 {{frm-conj-er|gett}}
