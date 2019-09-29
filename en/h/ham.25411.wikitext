@@ -7,11 +7,11 @@
 From {{inh|en|enm|hamme}}, from {{inh|en|ang|hamm||inner or hind part of the knee, ham}}, from {{inh|en|gem-pro|*hamō}}, {{m|gem-pro|*hammō}}, {{m|gem-pro|*hanmō}}, from {{der|en|ine-pro|*kónh₂m|t=leg}}. Cognate with {{cog|nl|ham||ham}}, dialectal {{cog|de|Hamme||hind part of the knee, ham}}, dialectal {{cog|sv|ham||the hind part of the knee}}, {{cog|is|höm||the ham or haunch of a horse}}, {{cog|sga|cnáim||bone}}, {{cog|grc|κνήμη||shinbone}}. Compare {{m|en|gammon}}.
 
 ====Pronunciation====
-* {{a|RP|US}} {{enPR|hăm}}, {{IPA|/ˈhæm/|lang=en}}
-* {{a|Southern England, Australia}} {{IPA|/ˈhæːm/|lang=en}}
-* {{audio|en-us-ham.ogg|Audio (US)|lang=en}}
-* {{audio|en-uk-ham.ogg|Audio (UK)|lang=en}}
-* {{rhymes|æm|lang=en}}
+* {{a|RP|US}} {{enPR|hăm}}, {{IPA|en|/ˈhæm/}}
+* {{a|Southern England, Australia}} {{IPA|en|/ˈhæːm/}}
+* {{audio|en|en-us-ham.ogg|Audio (US)}}
+* {{audio|en|en-uk-ham.ogg|Audio (UK)}}
+* {{rhymes|en|æm}}
 
 ====Noun====
 {{en-noun|~}}
@@ -170,7 +170,7 @@ From {{der|en|ang|hām}}.
 ====Noun====
 {{en-noun|-}}
 
-# {{obsolete form of|home|lang=en}}
+# {{obsolete form of|en|home}}
 
 ====Usage notes====
 * Persists in many old place names, such as {{m|en|Buckingham}}.
@@ -296,7 +296,7 @@ From {{der|ceb|en|ham}}, from {{der|ceb|enm|hamme}}, from {{der|ceb|ang|hamm||in
 From {{inh|da|non|hamr}}.
 
 ====Pronunciation====
-* {{IPA|/ham/|[hɑmˀ]|lang=da}}
+* {{IPA|da|/ham/|[hɑmˀ]}}
 
 ====Noun====
 {{da-noun|stem=hamm|en|e}}
@@ -319,7 +319,7 @@ From {{inh|da|non|hamr}}.
 See {{l|da|han}}.
 
 ====Pronunciation====
-* {{IPA|/ham/|[hɑm]|lang=da}}
+* {{IPA|da|/ham/|[hɑm]}}
 
 ====Pronoun====
 {{head|da|pronoun}}
@@ -337,9 +337,9 @@ See {{l|da|han}}.
 From {{inh|nl|gem-pro|*hammō}}, from {{der|nl|ine-pro|*kónh₂m|t=leg}}.
 
 ===Pronunciation===
-* {{IPA|lang=nl|/ɦɑm/}}
-* {{audio|Nl-ham.ogg|audio|lang=nl}}
-* {{rhyme|lang=nl|ɑm}}
+* {{IPA|nl|/ɦɑm/}}
+* {{audio|nl|Nl-ham.ogg|audio}}
+* {{rhyme|nl|ɑm}}
 
 ===Noun===
 {{nl-noun|f|-en|hammetje}}
@@ -388,12 +388,12 @@ Related to {{cog|gek|ram||water}}.
 ==Irish==
 
 ===Pronunciation===
-* {{IPA|[haːmˠ]|[hamˠ]|lang=ga}}
+* {{IPA|ga|[haːmˠ]|[hamˠ]}}
 
 ===Noun===
 {{head|ga|mutated noun|g=m}}
 
-# {{h-prothesis of|am|lang=ga}}
+# {{h-prothesis of|ga|am}}
 
 ----
 
@@ -405,7 +405,7 @@ From {{inh|enm|ang|heom}}.
 ====Pronoun====
 {{head|enm|pronoun}}
 
-# {{alt form|hem|lang=enm}}
+# {{alt form|enm|hem}}
 
 ===Etymology 2===
 From {{inh|enm|ang|hām}}.
@@ -413,7 +413,7 @@ From {{inh|enm|ang|hām}}.
 ====Noun====
 {{head|enm|noun}}
 
-# {{alternative form of|home|lang=enm}}
+# {{alternative form of|enm|home}}
 
 ===Etymology 3===
 From {{inh|enm|ang|ham|t=back of the knee}}.
@@ -421,7 +421,7 @@ From {{inh|enm|ang|ham|t=back of the knee}}.
 ====Noun====
 {{head|enm|noun}}
 
-# {{alternative form of|hamme|lang=enm|t=back of the knee|id=back of the knee}}
+# {{alternative form of|enm|hamme|t=back of the knee|id=back of the knee}}
 
 ===Etymology 4===
 From {{inh|enm|ang|ham|t=enclosure}}.
@@ -429,7 +429,7 @@ From {{inh|enm|ang|ham|t=enclosure}}.
 ====Noun====
 {{head|enm|noun}}
 
-# {{alternative form of|hamme|lang=enm|t=pasture|id=pasture}}
+# {{alternative form of|enm|hamme|t=pasture|id=pasture}}
 
 ----
 
@@ -475,7 +475,7 @@ Related to {{cog|sur|am||water}}.
 ==Norwegian Bokmål==
 
 ===Pronunciation===
-* {{IPA|/hɑm/|lang=nb}}
+* {{IPA|nb|/hɑm/}}
 
 ===Etymology 1===
 
@@ -531,7 +531,7 @@ From {{der|nn|non|hamr}}
 From {{inh|ang|gem-pro|*haimaz}}, from {{der|ang|ine-pro|*kōim-|t=village}}, {{m|ine-pro|*ḱóymos}}, {{m|ine-pro|*(t)ḱoimos}}. Cognate with {{cog|ofs|hām}} ({{cog|fy|hiem}}), {{cog|osx|hēm}}, {{cog|frk|*haim}} ({{cog|nl|heem}}), {{cog|goh|heim}} ({{cog|de|Heim}}), {{cog|non|heimr}} ({{cog|sv|hem}}, {{cog|da|hjem}}), {{cog|got|𐌷𐌰𐌹𐌼𐍃}}. The Indo-European root is also the source of {{cog|el|κωμη}}, {{cog|sga|cóim}}, {{cog|lt|šeimà}}, {{cog|ru|семья}}.
 
 ====Pronunciation====
-* {{IPA|/hɑːm/|lang=ang}}
+* {{IPA|ang|/hɑːm/}}
 
 ====Noun====
 {{ang-noun|m|head=hām}}
@@ -572,7 +572,7 @@ From {{inh|ang|gem-pro|*hammaz}}. Cognate with {{cog|ofs|ham}}, {{cog|gml|hamme}
 ====Noun====
 {{ang-noun|m}}
 
-# {{alternative form of|hamm|t=enclosure|lang=ang}}
+# {{alternative form of|ang|hamm|t=enclosure}}
 
 ===Etymology 3===
 From {{inh|ang|gem-pro|*hammō}}.
@@ -580,7 +580,7 @@ From {{inh|ang|gem-pro|*hammō}}.
 ====Noun====
 {{ang-noun|f}}
 
-# {{alternative form of|hamm|t=inner knee|lang=ang}}
+# {{alternative form of|ang|hamm|t=inner knee}}
 
 ----
 
@@ -618,7 +618,7 @@ Borrowed from {{bor|fro|frk|*haim||home, village}}.
 ==Romanian==
 
 ===Pronunciation===
-* {{IPA|/ham/|lang=ro}}
+* {{IPA|ro|/ham/}}
 
 ===Etymology 1===
 Borrowed from {{bor|ro|hu|hám}}.
