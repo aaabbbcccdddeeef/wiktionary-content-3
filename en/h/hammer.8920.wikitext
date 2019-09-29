@@ -10,12 +10,12 @@ The Germanic ''*hamaraz'' "tool with a stone head" derives from {{inh|en|ine-pro
 For {{m|ine-pro|*h₂éḱmō||stone}}, compare {{cog|lt|akmuõ}}, {{cog|ru|камень}}, {{cog|sh|kamēn}}, {{cog|sq|kmesë||sickle}}, {{cog|grc|ἄκμων||meteor rock, anvil}}, {{cog|ae|𐬥𐬀𐬨𐬯𐬀|tr=asman}}, {{cog|sa|अश्मन्|tr=áśman|sc=Deva}}) (root {{m|ine-pro|*h₂eḱ-||sharp}}).
 {{PIE root|en|h₂eḱ}}
 ===Pronunciation===
-* {{a|UK}} {{IPA|/ˈhæm.ə(ɹ)/|lang=en}}
-* {{audio|LL-Q1860 (eng)-Nattes à chat-hammer.wav|Audio|lang=en}}
-* {{rhymes|æmə(r)|lang=en}}
-* {{audio|en-uk-hammer.ogg|Audio (UK)|lang=en}}
-* {{a|US}} {{IPA|/ˈhæmɚ/|lang=en}}
-* {{audio|en-us-hammer.ogg|Audio (US)|lang=en}}
+* {{a|UK}} {{IPA|en|/ˈhæm.ə(ɹ)/}}
+* {{audio|en|LL-Q1860 (eng)-Nattes à chat-hammer.wav|Audio}}
+* {{rhymes|en|æmə(r)}}
+* {{audio|en|en-uk-hammer.ogg|Audio (UK)}}
+* {{a|US}} {{IPA|en|/ˈhæmɚ/}}
+* {{audio|en|en-us-hammer.ogg|Audio (US)}}
 
 ===Noun===
 {{en-noun}}
@@ -439,7 +439,7 @@ For {{m|ine-pro|*h₂éḱmō||stone}}, compare {{cog|lt|akmuõ}}, {{cog|ru|ка
 # {{lb|en|figuratively}} To [[emphasize]] a point [[repeatedly]].
 # {{lb|en|sports}} To hit particularly hard.
 #* {{quote-journal
-|lang=en
+|en
 |date=December 28, 2010
 |author=Marc Vesty
 |title=Stoke 0 - 2 Fulham
@@ -566,7 +566,7 @@ For {{m|ine-pro|*h₂éḱmō||stone}}, compare {{cog|lt|akmuõ}}, {{cog|ru|ка
 From {{der|da|non|hamarr}}, from {{der|da|gem-pro|*hamaraz}}, from {{der|da|ine-pro|*h₂eḱmoros}}, from {{m|ine-pro|*h₂éḱmō||stone}}.
 
 ===Pronunciation===
-* {{IPA|/hamər/|[ˈhɑmɐ]|lang=da}}
+* {{IPA|da|/hamər/|[ˈhɑmɐ]}}
 
 ===Noun===
 {{da-noun|en|e|pl-indef-2=hamre}}
@@ -581,13 +581,13 @@ From {{der|da|non|hamarr}}, from {{der|da|gem-pro|*hamaraz}}, from {{der|da|ine-
 ==German==
 
 ===Pronunciation===
-* {{IPA|/ˈhamɐ/|lang=de}}
-* {{homophone|Hammer|lang=de}}
+* {{IPA|de|/ˈhamɐ/}}
+* {{homophone|de|Hammer}}
 
 ===Verb===
 {{head|de|verb form}}
 
-# {{lb|de|colloquial|regional}} {{contraction of|[[haben]] [[wir]]|lang=de}}
+# {{lb|de|colloquial|regional}} {{contraction of|de|[[haben]] [[wir]]}}
 #: ''Da '''hammer''' jetz' keine Zeit für.''
 #:: We don't have time for that now.
 
@@ -604,7 +604,7 @@ This contraction is common throughout central Germany, southern Germany, and Aus
 ===Noun===
 {{head|enm|noun}}
 
-# {{alt form|lang=enm|hamer}}
+# {{alt form|enm|hamer}}
 
 ----
 
@@ -629,7 +629,7 @@ From {{der|nb|non|hamarr}}, from {{der|nb|gem-pro|*hamaraz}}, from {{der|nb|ine-
 ====Noun====
 {{head|nb|noun form|g=m}}
 
-# {{inflection of|ham||indef|p|lang=nb}}
+# {{inflection of|nb|ham||indef|p}}
 
 ===References===
 * {{R:The Bokmål Dictionary}}
