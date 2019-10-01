@@ -360,7 +360,7 @@ Usage for women specifically follows {{der|en|frm|sexe|le sexe|women}} (attested
 * Spanish: {{t+|es|relación|alt=relaciones sexuales|f-p}}, {{t+|es|sexo|m}}, {{qualifier|attributive}} {{t+|es|sexual|m|f}}
 * Swahili: {{t+|sw|ngono}}
 * Swedish: {{t+|sv|sex|n}}, {{t+|sv|samlag|n}}
-* Tagalog: {{t|tl|pagtalik}}, {{t+|tl|kantot}} (vulgar)
+* Tagalog: {{t|tl|pagtalik}}, {{t|tl|kantot}} {{q|vulgar}} 
 * Tahitian: {{t|ty|aira'a}}
 * Tajik: {{t|tg|шаҳват}}, {{t|tg|секс}}
 * Tamil: {{t+|ta|பாலுறவு}}, {{t|ta|உடலுறவ}}
@@ -452,7 +452,7 @@ Usage for women specifically follows {{der|en|frm|sexe|le sexe|women}} (attested
 {{trans-bottom}}
 
 {{trans-top|women}}
-* French: le {{t+|fr|sexe|m}}
+* French: {{t-check|fr|sexe|m|alt=le sexe}} {{attention|fr|2=was "le [[sexe]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:So9q/Improved-xte.js/documentation#Translation_fixing]]}}
 {{trans-mid}}
 {{trans-bottom}}
 
@@ -496,10 +496,10 @@ The ability to '''sex''' birds invasively through laparoscopy initially solved t
 {{trans-top|to determine the sex of}}
 * Catalan: {{t+|ca|sexar}}
 * Danish: {{t|da|kønsbestemme}}
-* Dutch: geslacht [[bepalen]], {{t+|nl|seksen}}
-* Finnish: [[määrittää]] [[sukupuoli]]
+* Dutch: {{t-check|nl|bepalen|alt=geslacht bepalen}} {{attention|nl|2=was "geslacht [[bepalen]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:So9q/Improved-xte.js/documentation#Translation_fixing]]}}, {{t+|nl|seksen}}
+* Finnish: {{t-check|fi|[[määrittää]] [[sukupuoli]]}} {{attention|fi|2=was "[[määrittää]] [[sukupuoli]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:So9q/Improved-xte.js/documentation#Translation_fixing]]}}
 * French: {{t+|fr|sexer}}
-* German: das [[Geschlecht]] [[bestimmen]], {{t+|de|sexen}}
+* German: {{t-check|de|das [[Geschlecht]] [[bestimmen]]}} {{attention|de|2=was "das [[Geschlecht]] [[bestimmen]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:So9q/Improved-xte.js/documentation#Translation_fixing]]}}, {{t+|de|sexen}}
 {{trans-mid}}
 * Lithuanian: {{t|lt|mylėtis}}
 * Polish: {{t+|pl|seksować}}
@@ -510,8 +510,8 @@ The ability to '''sex''' birds invasively through laparoscopy initially solved t
 {{trans-bottom}}
 
 {{trans-top|informal: to have sex with}}
-* Danish: {{t+|da|bolle}}, have {{t+|da|samleje}} med, {{t+|da|kneppe}}
-* Dutch: {{t+|nl|vrijen}}, de [[liefde bedrijven]]
+* Danish: {{t+|da|bolle}}, {{t|da|samleje|alt=have samleje med}}, {{t+|da|kneppe}}
+* Dutch: {{t+|nl|vrijen}}, {{t-check|nl|liefde bedrijven|alt=de liefde bedrijven}} {{attention|nl|2=was "de [[liefde bedrijven]]" - assumed inflected form or vocalised spelling; please verify if linking is acceptable. see [[User:So9q/Improved-xte.js/documentation#Translation_fixing]]}}
 * Finnish: {{t+|fi|rakastella}}, {{t|fi|[[harrastaa]] [[seksi]]ä}}
 * German: {{t|de|Sex haben}}
 * Greek: {{t+|el|συνουσιάζομαι}}
@@ -521,9 +521,9 @@ The ability to '''sex''' birds invasively through laparoscopy initially solved t
 * Italian: {{t|it|fare sesso}}
 * Japanese: {{t|ja|セックスする|tr=sekkusu-suru}}
 * Portuguese: {{t+|pt|comer}}
-* Russian: [[заниматься]] [[секс#Russian|сексом с]] (zanimát’s’a séksom s)
+* Russian: {{t-check|ru|[[заниматься]] [[секс#Russian|сексом с]]}} {{q|zanimát’s’a séksom s}}  {{attention|ru|2=was "[[заниматься]] [[секс#Russian|сексом с]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:So9q/Improved-xte.js/documentation#Translation_fixing]]}}
 * Slovak: {{t|sk|sexovať}}, {{t|sk|súložiť}}
-* Swedish: {{t+|sv|knulla}}, ha {{t+|sv|samlag}} med
+* Swedish: {{t+|sv|knulla}}, {{t|sv|samlag|alt=ha samlag med}}
 {{trans-bottom}}
 
 =====References=====
