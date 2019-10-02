@@ -143,7 +143,7 @@ From {{der|en|fr|hydrogène}}, coined by {{w|Louis-Bernard Guyton de Morveau}}, 
 * Bavarian: {{t|bar|Wassastoff|m}}
 * Belarusian: {{t|be|вадаро́д|m}}
 * Bengali: {{t|bn|উদজান}}
-* Bhojpuri: {{t|bho|उदजन|tr=udjan}}
+* Bhojpuri: {{t|bho|उदजन}}
 * Breton: {{t|br|hidrogen|m}}
 * Bulgarian: {{t|bg|водоро́д|m}}
 * Burmese: {{t+|my|ဟိုက်ဒရိုဂျင်}}
@@ -163,7 +163,7 @@ From {{der|en|fr|hydrogène}}, coined by {{w|Louis-Bernard Guyton de Morveau}}, 
 * Corsican: {{t|co|idrogenu|m}}
 * Czech: {{t+|cs|vodík|m}}
 * Danish: {{t+|da|brint}}, {{t+|da|hydrogen}}
-* Dogri: {{t|doi|उदजन|tr=udjan}}
+* Dogri: {{t|doi|उदजन}}
 * Dutch: {{t+|nl|waterstof|n}}
 * Dutch Low Saxon: {{t|nds-nl|waeterstof}}
 * Erzya: {{t|myv|ведь чачтый}}
@@ -260,8 +260,8 @@ From {{der|en|fr|hydrogène}}, coined by {{w|Louis-Bernard Guyton de Morveau}}, 
 * Saterland Frisian: {{t|stq|Woaterstof}}
 * Scottish Gaelic: {{t|gd|haidreagain}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|водоник|m}}, {{t|sh|водик|m}}
-*: Roman: {{t+|sh|vodonik|m}}, {{t+|sh|vodik|m}}
+*: Cyrillic: {{t|sh|водоник|m}}, {{t|sh|во̀дӣк|m}}
+*: Roman: {{t+|sh|vodonik|m}}, {{t+|sh|vòdīk|m}}
 * Sicilian: {{t+|scn|idrògginu|m}}
 * Sindhi: {{t|sd|उदजन|tr=udjan}}
 * Sinhalese: {{t+|si|ජලකර}}
@@ -337,9 +337,7 @@ From {{der|en|fr|hydrogène}}, coined by {{w|Louis-Bernard Guyton de Morveau}}, 
 {{da-noun|et|-}}
 
 # {{l|en|hydrogen}}
-
-====Synonyms====
-* {{l|da|brint}} {{g|c}}
+#: {{syn|da|brint}}
 
 [[Category:da:Chemical elements]]
 
@@ -354,13 +352,12 @@ From {{der|en|fr|hydrogène}}, coined by {{w|Louis-Bernard Guyton de Morveau}}, 
 # {{l|en|hydrogen}} (''chemical element, symbol'' '''[[H]]''')
 
 ====Derived terms====
-{{der-top3|Terms derived from ''hydrogen''}}
-* {{l|nb|hydrogencyanid}}
-* {{l|nb|hydrogenkarbonat}}
-* {{l|nb|hydrogenklorid}}
-* {{l|nb|hydrogensulfid}}
-* {{l|nb|hydroksid}}
-{{der-bottom}}
+{{der3|nb
+|hydrogencyanid
+|hydrogenkarbonat
+|hydrogenklorid
+|hydrogensulfid
+|hydroksid}}
 
 [[Category:nb:Chemical elements]]
 
@@ -375,13 +372,12 @@ From {{der|en|fr|hydrogène}}, coined by {{w|Louis-Bernard Guyton de Morveau}}, 
 # {{l|en|hydrogen}} (''chemical element, symbol'' '''[[H]]''')
 
 ====Derived terms====
-{{der-top3|Terms derived from ''hydrogen''}}
-* {{l|nn|hydrogencyanid}}
-* {{l|nn|hydrogenkarbonat}}
-* {{l|nn|hydrogenklorid}}
-* {{l|nn|hydrogensulfid}}
-* {{l|nn|hydroksid}}
-{{der-bottom}}
+{{der3|nn
+|hydrogencyanid
+|hydrogenkarbonat
+|hydrogenklorid
+|hydrogensulfid
+|hydroksid}}
 
 [[Category:nn:Chemical elements]]
 
@@ -399,23 +395,23 @@ Borrowed from {{bor|cy|en|hydrogen}}.
 {{cy-noun|m|-}}
 
 # [[hydrogen]]
-
-====Synonyms====
-* {{lb|cy|obsolete}} {{l|cy|ulai}}
+#: {{syn|cy|ulai|q1=obsolete}}
 
 ====Derived terms====
-* {{l|cy|adnewyddu hydrogen||hydrogen renewability}}
-* {{l|cy|alcyleiddio hydrogen fflworid||hydrogen fluoride alkylation}}
-* {{l|cy|bond hydrogen||hydrogen bond}}
-* {{l|cy|derbynnydd hydrogen||hydrogen acceptor}}
-* {{l|cy|halid hydrogen||hydrogen halide}}
-* {{l|cy|hydrogen bromid||hydrogen bromide}}
-* {{l|cy|hydrogen clorid||hydrogen chloride}}
-* {{l|cy|hydrogen fflworid||hydrogen fluoride}}
-* {{l|cy|hydrogen ïodid||hydrogen iodide}}
-* {{l|cy|hydrogen perocsid||hydrogen peroxide}}
-* {{l|cy|hydrogen sylffid||hydrogen sulphide}}
-* {{l|cy|ïon hydrogen||hydrogen ion}}
+{{der4|cy
+|{{l|cy|adnewyddu hydrogen|t=hydrogen renewability}}
+|{{l|cy|alcyleiddio hydrogen fflworid|t=hydrogen fluoride alkylation}}
+|{{l|cy|bond hydrogen|t=hydrogen bond}}
+|{{l|cy|derbynnydd hydrogen|t=hydrogen acceptor}}
+|{{l|cy|halid hydrogen|t=hydrogen halide}}
+|{{l|cy|hydrogen bromid|t=hydrogen bromide}}
+|{{l|cy|hydrogen clorid|t=hydrogen chloride}}
+|{{l|cy|hydrogen fflworid|t=hydrogen fluoride}}
+|{{l|cy|hydrogen ïodid|t=hydrogen iodide}}
+|{{l|cy|hydrogen perocsid|t=hydrogen peroxide}}
+|{{l|cy|hydrogen sylffid|t=hydrogen sulphide}}
+|{{l|cy|ïon hydrogen|t=hydrogen ion}}
+}}
 
 ===References===
 * {{R:cy:GPC}}
