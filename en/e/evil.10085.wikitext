@@ -95,8 +95,8 @@ From {{inh|en|enm|evel}}, {{m|enm|ivel}}, {{m|enm|uvel}}, from {{inh|en|ang|yfel
 * Armenian: {{t+|hy|չար|}}
 * Asturian: {{t|ast|malu}}
 * Basque: {{t+|eu|gaizto}}
-* Belarusian: {{t|be|злы|sc=Cyrl}}
-* Bulgarian: {{t+|bg|лош|m}}, {{t+|bg|зъл|sc=Cyrl}}
+* Belarusian: {{t|be|злы}}
+* Bulgarian: {{t+|bg|лош|m}}, {{t+|bg|зъл}}
 * Catalan: {{t+|ca|malvat}}, {{t+|ca|dolent}}, {{t|ca|maliciós}}, {{t|ca|malèfic}}, {{t+|ca|roí}}
 * Chinese:
 *: Mandarin: {{t+|cmn|邪惡|alt=邪惡的|sc=Hani}}, {{t+|cmn|邪恶|tr=xié'è de|alt=邪恶的|sc=Hani}}, {{t+|cmn|壞|alt=壞的|sc=Hani}}, {{t+|cmn|坏|tr=huài de|alt=坏的|sc=Hani}}, {{t+|cmn|凶狠|tr=xiōnghěn|sc=Hani}}
@@ -118,7 +118,7 @@ From {{inh|en|enm|evel}}, {{m|enm|ivel}}, {{m|enm|uvel}}, from {{inh|en|ang|yfel
 * Haitian Creole: {{t|ht|move}}, {{t|ht|mechan}}
 * Hebrew: {{t+|he|רע}}, {{t|he|מרושע|m|tr=merusha}}
 * Hiligaynon: {{t|hil|malain}}
-* Hindi: {{t+|hi|दुष्ट|tr=duṣṭa|sc=Deva}}, {{t+|hi|बुरा|tr=burā|sc=Deva}}, {{t+|hi|पापी|tr=pāpī|sc=Deva}}
+* Hindi: {{t+|hi|दुष्ट}}, {{t+|hi|बुरा}}, {{t+|hi|पापी}}
 * Hungarian: {{t+|hu|gonosz}}
 * Icelandic: {{t+|is|illur|m}}, {{t+|is|ill|f}} {{t+|is|illt|n}}, {{t+|is|vondur}}, {{t+|is|slæmur}}
 * Ido: {{t+|io|mala}}
@@ -139,9 +139,9 @@ From {{inh|en|enm|evel}}, {{m|enm|ivel}}, {{m|enm|uvel}}, from {{inh|en|ang|yfel
 * Lithuanian: {{t+|lt|piktas}}, {{t+|lt|blogas}}
 * Luhya: {{t-needed|luy}}
 * Luo: {{t-needed|luo}}
-* Macedonian: {{t|mk|лош|tr=loš|sc=Cyrl}}, {{t|mk|зол|tr=zol|sc=Cyrl}}
+* Macedonian: {{t|mk|лош}}, {{t|mk|зол}}
 * Malay: {{t|ms|jahat}}
-* Malayalam: {{t|ml|തിന്മ|tr=tinma}}
+* Malayalam: {{t|ml|തിന്മ}}
 * Maore Comorian: {{t|swb|ovu|alt=-ovu}}
 * Navajo: {{t|nv|doo yáʼáshǫ́ǫ da}}
 * Neapolitan: {{t|nap|malo}}
@@ -289,7 +289,7 @@ From {{inh|en|enm|evel}}, {{m|enm|ivel}}, {{m|enm|uvel}}, from {{inh|en|ang|yfel
 * Latin: {{t+|la|malum|n}}
 {{trans-mid}}
 * Latvian: {{t|lv|ļaunums}}
-* Macedonian: {{t|mk|зло|n|tr=zlo}}
+* Macedonian: {{t|mk|зло|n}}
 * Malay: {{t|ms|jahat}}
 * Maori: {{t+|mi|kino}}
 * Norwegian: {{t+|nb|onde|n}}, {{t|no|ondskap|c}}
@@ -310,7 +310,7 @@ From {{inh|en|enm|evel}}, {{m|enm|ivel}}, {{m|enm|uvel}}, from {{inh|en|ang|yfel
 * Thai: {{t|th|ความชั่วร้าย|tr=kwaam chûa ráai}}, {{t+|th|บาป}}
 * Turkish: {{t+|tr|kötülük}}
 * Tuvaluan: {{t|tvl|amiomasei}}
-* Ukrainian: {{t|uk|зло|n}}, {{t|uk|лихо|n|tr=lýxo}}
+* Ukrainian: {{t|uk|зло|n}}, {{t|uk|ли́хо|n}}
 * Volapük: {{t+|vo|bad}}
 * Welsh: {{t|cy|drygioni|m}}
 * West Frisian: {{t|fy|kwea}}
@@ -325,7 +325,7 @@ From {{inh|en|enm|evel}}, {{m|enm|ivel}}, {{m|enm|uvel}}, from {{inh|en|ang|yfel
 {{trans-bottom}}
 
 {{checktrans-top}}
-* {{ttbc|he}}: [[רע]] (ra), [[רשע]] (resha)
+* {{ttbc|he}}: {{t|he|רע|tr=ra'}}, {{t|he|רשע|tr=resha'}}
 * Indonesian: {{t+check|id|kejahatan}}
 * Interlingua: {{t-check|ia|mal}}
 {{trans-mid}}
