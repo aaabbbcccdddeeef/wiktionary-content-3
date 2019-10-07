@@ -48,7 +48,7 @@ From {{inh|en|enm|calf}}, {{m|enm|kælf}}, {{m|enm|kelf}}, from {{inh|en|ang|cæ
 * Afrikaans: {{t+|af|kalwers|p}}
 * Akkadian: {{t|akk|𒀫|tr=būru|sc=Xsux}}
 * Arabic: {{t+|ar|عِجْل|m}}
-*: Egyptian Arabic: {{t|arz|عجل|m|tr=ʕegl|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|عجل|m|tr=ʿegl|sc=Arab}}
 * Aramaic:
 *: Classical Syriac: {{t|syc|ܥܶܓܠܳܐ|m|tr=ʿeglā}}, {{t|syc|ܐܰܪܘܳܢܳܐ|m|tr=ʾarwanā}}
 * Armenian: {{t+|hy|հորթ|sc=Armn}}
@@ -75,7 +75,7 @@ From {{inh|en|enm|calf}}, {{m|enm|kælf}}, {{m|enm|kelf}}, from {{inh|en|ang|cæ
 * Dutch: {{t+|nl|kalf|n}}
 * Egyptian: {{t-egy|bḥz|m|h=bH:z-E9}}, {{t-egy|rny|m|h=r:n-i-i-E1}}, {{t-egy|ms|m|h=ms-s-E3}}
 * Eshtehardi: {{t|esh|جینگ|m|alt=جینگَ|tr=jinga|sc=fa-Arab}}, {{t|esh|دوگیه|f|alt=دوگیَه|tr=dugiya|sc=fa-Arab}}
-* Esperanto: {{qualifier|♂♀}} {{t|eo|bovido}}, {{qualifier|♂}} {{t|eo|virbovido}}, {{qualifier|♀}} {{t|eo|bovidino}}
+* Esperanto: {{t|eo|bovido}}, {{t|eo|virbovido|m}}, {{t|eo|bovidino|f}}
 * Estonian: {{t+|et|vasikas}}
 * Faroese: {{t|fo|kálvur|m}}
 * Finnish: {{t+|fi|vasikka}}
@@ -88,13 +88,13 @@ From {{inh|en|enm|calf}}, {{m|enm|kælf}}, {{m|enm|kelf}}, from {{inh|en|ang|cæ
 * Greek: {{t+|el|μοσχάρι|n}}
 *: Ancient: {{t|grc|μόσχος|m|f}}
 * Hebrew: {{t+|he|עגל|m|tr=‘egel}}
-* Hindi: {{t|hi|बछिया|f|tr=bachiyā|sc=Deva}}
+* Hindi: {{t|hi|बछिया|f}}
 * Hungarian: {{t+|hu|borjú}}
 * Icelandic: {{t+|is|kálfur|m}}
 * Ido: {{qualifier|♂♀}} {{t+|io|bovyuno}}, {{qualifier|♂}} {{t+|io|bovyunulo}}, {{qualifier|♀}} {{t+|io|bovyunino}}
 * Irish: {{t|ga|lao|m}}, {{t|ga|gamhain|m}}
 * Italian: {{t+|it|vitello|m}}
-* Japanese: {{t|ja|子牛|tr=こうし, ko-ushi}}
+* Japanese: {{t|ja|子牛|tr=こうし, koushi}}
 * Khmer: {{t|km|កូនគោ|tr=koon koo|sc=Khmr}}
 * Korean: {{t+|ko|송아지}}
 * Latgalian: {{t|ltg|teļš}}
@@ -112,7 +112,7 @@ From {{inh|en|enm|calf}}, {{m|enm|kælf}}, {{m|enm|kelf}}, from {{inh|en|ang|cæ
 * Manx: {{t|gv|lheiy|m}}
 * Maori: {{t|mi|kāwhe}}
 * Mongolian: {{t+|mn|тугал}}
-* Ngazidja Comorian: {{t|zdj|mna-mɓe|c1|c2|tr=mna-mbe}}
+* Ngazidja Comorian: {{t|zdj|mna-mɓe|c1|c2}}
 * Norman: {{t|nrf|vieau|m}}
 * North Frisian: {{qualifier|Mooring dialect}} {{t|frr|kuulew|n}}; {{qualifier|Föhr-Amrum}} {{t|frr|kualew|n}}
 * Norwegian:
@@ -235,7 +235,7 @@ From {{inh|en|enm|calf}}, {{m|enm|kalf}}, from {{der|en|non|kalfi}}, possibly de
 {{trans-top|anatomy: back of the leg below the knee}}
 * Albanian: {{t-needed|sq}}
 * Arabic: {{t+|ar|بَطَة|f}}, {{t|ar|رَبْلَةُ|f}}
-*: Egyptian Arabic: {{t|arz|سمانة|f|tr=semana|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|سمانة|f|tr=semāna|sc=Arab}}
 * Armenian: {{t-needed|hy}}
 * Aromanian: {{t|rup|pulpã|f}}
 * Azerbaijani: {{t+|az|baldır}}
@@ -284,7 +284,7 @@ From {{inh|en|enm|calf}}, {{m|enm|kalf}}, from {{der|en|non|kalfi}}, possibly de
 * Nepali: {{t-needed|ne}}
 * Norwegian: {{t+|no|legg|m}}
 * Old English: {{t|ang|spearlira|m}}
-* Ottoman Turkish: {{t|ota|بالدر|tr=baldyr|sc=ota-Arab}}
+* Ottoman Turkish: {{t|ota|بالدر|tr=baldır|sc=ota-Arab}}
 * Persian: {{t|fa|پشت ساق|tr=pošt-e sâq|sc=fa-Arab}}
 * Polish: {{t+|pl|łydka|f}}
 * Portuguese: {{t+|pt|panturrilha|f}}
@@ -350,7 +350,7 @@ From {{inh|en|enm|calf}}, {{m|enm|kalf}}, from {{der|en|non|kalfi}}, possibly de
 
 {{checktrans-top}}
 * Afrikaans: {{t-check|af|kuit|n}}
-* Breton: {{t+check|br|kof-gar|m}} kofoù-gar, {{t-check|br|kofoù-divhar|p}}
+* Breton: {{t+check|br|kof-gar|m}}, {{t-check|br|kofoù-divhar|p}}
 {{trans-mid}}
 * Lithuanian: {{t+check|lt|blauzda|f}}
 * Spanish: {{t+check|es|gemelo|m}}
