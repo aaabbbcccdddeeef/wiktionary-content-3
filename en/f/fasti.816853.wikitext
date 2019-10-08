@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-Borrowed from {{bor|en|la|}}
+Borrowed from {{bor|en|la|fāstī}}.
 
 ===Noun===
 {{en-plural noun}}
@@ -21,16 +21,24 @@ Borrowed from {{bor|en|la|}}
 
 ==Esperanto==
 
+===Etymology===
+{{rfe|eo}}
+Compare {{cog|en|fast}}, {{cog|de|fasten}}.
+
 ===Pronunciation===
-* {{IPA|/ˈfasti/|lang=eo}}
+* {{IPA|eo|/ˈfasti/}}
+* {{rhymes|eo|asti}}
 
 ===Verb===
 {{eo-head}}
 
-# to [[fast]]
+# {{lb|eo|intransitive}} to [[fast]]
 
 ====Conjugation====
 {{eo-conj|intr=yes}}
+
+====Descendants====
+* {{desc|io|fastar}}
 
 ====Related terms====
 * {{l|eo|fasto}}
@@ -42,21 +50,22 @@ Borrowed from {{bor|en|la|}}
 ===Noun===
 {{head|it|noun plural form|g=m}}
 
-# {{plural of|fasto|lang=it}}
+# {{plural of|it|fasto}}
 
 ===Anagrams===
-* {{l|it|sfati}}
+* {{anagrams|it|sfati}}
 
 ----
 
 ==Latin==
 
+===Pronunciation===
+* {{la-IPA|fāstī}}
+
 ===Noun===
 {{la-noun-form|fāstī}}
 
-# {{inflection of|fāstus||nom|p|lang=la}}
-# {{inflection of|fāstus||gen|s|lang=la}}
-# {{inflection of|fāstus||voc|p|lang=la}}
+# {{inflection of|la|fāstus||nom//voc|p|;|gen|s}}
 
 ===References===
 * {{R:L&S}}
