@@ -155,7 +155,7 @@ From {{inh|fj|poz-oce-pro|-}}, from {{inh|fj|poz-pro|*kaən}}, from {{inh|fj|map
 
 ===Etymology 1===
 {{PIE root|fi|keh₂n}}
-From {{inh|fi|fiu-fin-pro|*kana}}, from {{der|fi|gem-pro|*hanjō||hen}}, from {{der|fi|ine-pro|*keh₂n-||to sing}}. Cognates include {{cog|et|kana}}, {{cog|en|hen}}.
+From {{inh|fi|fiu-fin-pro|*kana}}, from {{der|fi|gem-pro|*hanjō|t=hen}}, from {{der|fi|ine-pro|*keh₂n-|t=to sing}}. Cognates include {{cog|et|kana}}, {{cog|en|hen}}.
 
 ====Noun====
 {{fi-noun}}
@@ -163,6 +163,7 @@ From {{inh|fi|fiu-fin-pro|*kana}}, from {{der|fi|gem-pro|*hanjō||hen}}, from {{
 # [[chicken]] (domestic fowl of species ''[[Gallus gallus]]'', {{taxlink|Gallus domesticus|species|noshow=1}})
 # [[hen]] (female chicken)
 # chicken (meat from this bird eaten as food)
+#: {{syn|fi|broileri}}
 # {{lb|fi|taxonomy}} [[gallinaceous]] (when used as modifier in some compound terms)
 #: {{uxi|fi|'''kana'''lintu|'''gallinaceous''' bird}}
 # {{lb|fi|derogatory}} hen (unintelligent, talkative woman)
@@ -173,71 +174,68 @@ From {{inh|fi|fiu-fin-pro|*kana}}, from {{der|fi|gem-pro|*hanjō||hen}}, from {{
 |page=
 |passage=Sanoi Pohjolan emäntä, itse lausui, noin nimesi:/ Kummallenp' on mielit mennä, kun tulevat tahtomahan/ ikuiseksi ystäväksi, kainaloiseksi '''kanaksi'''?
 |translation=Said the mistress of Pohjola, stated herself, thus worded:/ To which one do you want to go, when they come to woo you/ to be their eternal friend, a '''chicken''' under their arm?}}
+#: {{syn|fi|vaimo|q1=archaic|nainen}}
 
 =====Declension=====
 {{fi-decl-kala|kan|||a}}
 
 =====Usage notes=====
-The word '''''kana''''' usually refers to a mature bird. The Finnish translation for "chicken" in the sense "young hen" is ''[[kananpoika]]'' or ''[[broileri]]''.
-
-=====Synonyms=====
-* {{sense|meat}} {{l|fi|broileri}}
-* {{sense|woman}} {{l|fi|vaimo}} {{qualifier|archaic}}, {{l|fi|nainen}}
+The word '''''kana''''' usually refers to a mature bird. The Finnish translation for "chicken" in the sense "young hen" is {{m|fi|kananpoika}} or {{m|fi|broileri}}.
 
 =====Derived terms=====
-* {{l|fi|kanala}}
-* {{l|fi|kananen}}
-* {{l|fi|kanan muisti}}
-* {{l|fi|kuin päätön kana}}
+{{der4|fi
+|{{l|fi|kanala}}
+|{{l|fi|kananen}}
+|{{l|fi|kanan muisti}}
+|{{l|fi|kuin päätön kana}}
+}}
 
 ====Compounds====
-{{der-top3|compounds}}
-* {{l|fi|currykana}}
-* {{l|fi|kanaemo}}
-* {{l|fi|kanahaukka}}
-* {{l|fi|kanahäkki}}
-* {{l|fi|kanakeitto}}
-* {{l|fi|kanakoira}}
-* {{l|fi|kanalauma}}
-* {{l|fi|kanalintu}}
-* {{l|fi|kananhoito}}
-* {{l|fi|kananjalostus}}
-* {{l|fi|kanankaali}}
-* {{l|fi|kanankakka}}
-* {{l|fi|kananlanta}}
-{{der-mid3}}
-* {{l|fi|kananliha}}
-* {{l|fi|kananmuna}}
-* {{l|fi|kananpesä}}
-* {{l|fi|kananpoika}}
-* {{l|fi|kananpoikanen}}
-* {{l|fi|kananpää}}
-* {{l|fi|kananrehu}}
-* {{l|fi|kananruoka}}
-* {{l|fi|kanaparvi}}
-* {{l|fi|kanarotu}}
-* {{l|fi|kanasalaatti}}
-* {{l|fi|kanatalous}}
-* {{l|fi|kanatarha}}
-{{der-mid3}}
-* {{l|fi|kanaverkko}}
-* {{l|fi|kanaviillokki}}
-* {{l|fi|kanaviilokki}}
-* {{l|fi|karrikana}}
-* {{l|fi|leghornkana}}
-* {{l|fi|liejukana}}
-* {{l|fi|luhtakana}}
-* {{l|fi|metsäkana}}
-* {{l|fi|nokikana}}
-* {{l|fi|rantakana}}
-* {{l|fi|riekkokana}}
-* {{l|fi|teerikana}}
-{{der-bottom}}
+{{der4|fi
+|{{l|fi|currykana}}
+|{{l|fi|kanaemo}}
+|{{l|fi|kanahaukka}}
+|{{l|fi|kanahäkki}}
+|{{l|fi|kanakeitto}}
+|{{l|fi|kanakoira}}
+|{{l|fi|kanalauma}}
+|{{l|fi|kanalintu}}
+|{{l|fi|kananhoito}}
+|{{l|fi|kananjalostus}}
+|{{l|fi|kanankaali}}
+|{{l|fi|kanankakka}}
+|{{l|fi|kananlanta}}
+|{{l|fi|kananliha}}
+|{{l|fi|kananmuna}}
+|{{l|fi|kananpesä}}
+|{{l|fi|kananpoika}}
+|{{l|fi|kananpoikanen}}
+|{{l|fi|kananpää}}
+|{{l|fi|kananrehu}}
+|{{l|fi|kananruoka}}
+|{{l|fi|kanaparvi}}
+|{{l|fi|kanarotu}}
+|{{l|fi|kanasalaatti}}
+|{{l|fi|kanatalous}}
+|{{l|fi|kanatarha}}
+|{{l|fi|kanaverkko}}
+|{{l|fi|kanaviillokki}}
+|{{l|fi|kanaviilokki}}
+|{{l|fi|karrikana}}
+|{{l|fi|leghornkana}}
+|{{l|fi|liejukana}}
+|{{l|fi|luhtakana}}
+|{{l|fi|metsäkana}}
+|{{l|fi|nokikana}}
+|{{l|fi|rantakana}}
+|{{l|fi|riekkokana}}
+|{{l|fi|teerikana}}
+}}
 
 =====See also=====
 * {{l|fi|kaakattaa}}
 * {{l|fi|kotkottaa}}
-* {{l|fi|kynä||feather}}
+* {{l|fi|kynä|t=feather}}
 
 ===Etymology 2===
 From {{bor|fi|ja|-}} {{ja-r|仮名|かな}}.
