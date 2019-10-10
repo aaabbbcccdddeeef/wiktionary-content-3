@@ -71,7 +71,7 @@ From {{inh|en|enm|temple}}, from {{inh|en|ang|templ}}, {{m|ang|tempel}}, borrowe
 * Afrikaans: {{t+|af|tempel}}
 * Albanian: {{t+|sq|tempull}}
 * Arabic: {{t|ar|مَعْبَد|m}}, {{t|ar|هَيْكَل|m}}
-*: Egyptian Arabic: {{t|arz|معبد|m|tr=maʕbad}}
+*: Egyptian Arabic: {{t|arz|معبد|m|tr=maʿbad}}
 * Armenian: {{t+|hy|տաճար}}
 * Asturian: {{t|ast|templu|m}}
 * Azerbaijani: {{t|az|məbəd}}, {{t|az|ibadətxana}}
@@ -99,7 +99,7 @@ From {{inh|en|enm|temple}}, from {{inh|en|ang|templ}}, {{m|ang|tempel}}, borrowe
 * Gothic: {{t|got|𐌰𐌻𐌷𐍃|f}}, {{t|got|𐌲𐌿𐌳𐌷𐌿𐍃|n}}
 * Greek: {{t+|el|ναός|m}}
 *: Ancient: {{t|grc|ναός|m}}, {{t|grc|ἱερόν|n}}
-* Gujarati: {{t|gu|મંદિર|n|tr=ma.ndir}}
+* Gujarati: {{t|gu|મંદિર|n}}
 * Hawaiian: {{t|haw|heiau}}
 * Hebrew: {{t+|he|מִקְדָּשׁ|m|tr=mikdásh|sc=Hebr}}
 * Hindi: {{t+|hi|मन्दिर|m|sc=Deva}}, {{t+|hi|मठ|m|sc=Deva}}
@@ -161,8 +161,8 @@ From {{inh|en|enm|temple}}, from {{inh|en|ang|templ}}, {{m|ang|tempel}}, borrowe
 * Turkish: {{t+|tr|tapınak}}, {{t+|tr|toplak}}, {{t+|tr|ibadethane}} {{qualifier|archaic}}, {{t+|tr|mabet}}
 * Turkmen: {{t|tk|ybadathana}}
 * Ukrainian: {{t+|uk|храм|m|sc=Cyrl}}
-* Umbrian: {{t|xum|𐌖𐌄𐌓𐌚𐌀𐌋𐌄|tr=uerfale}}
-* Urdu: {{t|ur|مندر|m|tr=mandir|sc=ur-Arab}}, {{t|ur|معبد|m|tr=maʿbad|sc=ur-Arab}}, {{t|ur|مٹھ|m|tr=maṭh|sc=ur-Arab}}
+* Umbrian: {{t|xum|𐌖𐌄𐌓𐌚𐌀𐌋𐌄}}
+* Urdu: {{t|ur|مندر|m|tr=mandir|sc=ur-Arab}}, {{t|ur|معبد|m|tr=mābad|sc=ur-Arab}}, {{t|ur|مٹھ|m|tr=maṭh|sc=ur-Arab}}
 * Uyghur: {{t|ug|يباداتھانا|sc=ug-Arab}}, {{t|ug|تاۈينيديغان چاي|sc=ug-Arab}}
 * Uzbek: {{t+|uz|ibodatxona}}, {{t+|uz|butxona}}
 * Vietnamese: {{t+|vi|đền}}, {{t|vi|thiền viện}}
@@ -216,7 +216,7 @@ From {{inh|en|enm|temple}}, borrowed from {{bor|en|fro|temple}}, from {{der|en|V
 =====Translations=====
 {{trans-top|region of skull}}
 * Arabic: {{t|ar|صَدْغ|m}}
-*: Egyptian Arabic: {{t|arz|حنطور عين|m|tr=ḥanṭuur ʕén|sc=Arab}}, {{t|arz|صدغ|m|tr=ṣadğ|sc=Arab}}, {{t|arz|سداغ|f-p|tr=sedaağ}}
+*: Egyptian Arabic: {{t|arz|حنطور عين|m|tr=ḥanṭūr ʿēn|sc=Arab}}, {{t|arz|صدغ|m|tr=ṣadḡ|sc=Arab}}, {{t|arz|سداغ|f-p|tr=sedāḡ}}
 * Armenian: {{t+|hy|քունք}}
 * Asturian: {{t+|ast|vidaya|f}}, {{t+|ast|tenllera|f}}
 * Basque: {{t|eu|loki}}
@@ -253,7 +253,7 @@ From {{inh|en|enm|temple}}, borrowed from {{bor|en|fro|temple}}, from {{der|en|V
 * Korean: {{t+|ko|관자놀이}}
 * Latgalian: {{t|ltg|dzausnys}}, {{t|ltg|pluonumi}}
 {{trans-mid}}
-* Latin: {{t+|la|tempus|alt=temp•us -oris}} ''(3rd)''
+* Latin: {{t+|la|tempus|n}}
 * Latvian: {{t|lv|deniņi}}
 * Lithuanian: {{t|lt|smilkinys}}
 * Low German:
@@ -284,7 +284,7 @@ From {{inh|en|enm|temple}}, borrowed from {{bor|en|fro|temple}}, from {{der|en|V
 * Spanish: {{t+|es|sien|f}}
 * Swedish: {{t+|sv|tinning|c}}
 * Tagalog: {{t|tl|pilipisan}}
-* Tamil: {{t+|ta|நெற்றி|tr=netri}}
+* Tamil: {{t+|ta|நெற்றி}}
 * Thai: {{t+|th|ขมับ}}
 * Tibetan: {{t|bo|ཡ་མ}}
 * Turkish: {{t+|tr|şakak}}
