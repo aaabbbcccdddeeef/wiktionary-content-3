@@ -39,19 +39,23 @@
 ==Ido==
 
 ===Etymology===
-Borrowed from {{bor|io|en|gravid}}, {{bor|io|fr|gravide}}, {{bor|io|es|grávido}}, {{bor|io|it|gravido}}, all from {{der|io|la|gravidus}}.
+{{io-bor|gravid|gravide||gravido||grávido|nodot=1}}, all from {{der|io|la|gravidus}}.
 
 ===Pronunciation===
 * {{IPA|io|/ɡraˈvi.da/}}
 
 ===Adjective===
-{{io-adj}}
+{{io-head}}
 
-# [[pregnant]]
+# {{l|en|pregnant}}
 
 ====Derived terms====
-* {{l|io|gravideskar||to get pregnant}}
-* {{l|io|gravidigar||to make pregnant}}
+{{der2|io
+| {{l|io|gravideso||pregnancy, gestation}}
+| {{l|io|gravidigar||to make pregnant}}
+| {{l|io|gravideskar||to become pregnant, conceive a child}}
+| {{l|io|gravideskeso||conception}}
+}}
 
 ----
 
