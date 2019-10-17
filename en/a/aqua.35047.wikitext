@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{inh|en|enm|aqua||water}}, borrowed from {{der|en|la|aqua}}. Perhaps also learnedly borrowed directly from {{bor|en|la|-}}. {{doublet|en|ea}}.
+From {{inh|en|enm|aqua|t=water}}, borrowed from {{der|en|la|aqua}}. Perhaps also learnedly borrowed directly from {{bor|en|la|-}}. {{doublet|en|ea}}.
 
 ===Pronunciation===
 * {{a|UK|US}} {{IPA|en|/ˈækwə/|/ˈɑkwə/}}
@@ -15,42 +15,41 @@ From {{inh|en|enm|aqua||water}}, borrowed from {{der|en|la|aqua}}. Perhaps also 
 #: {{color panel|aqua|00FFFF}}
 #* {{quote-journal|en|date=June 27, 2009|author=Patricia Cohen|title=Employing Art Along With Ambassadors|work=New York Times|url=http://www.nytimes.com/2009/06/27/arts/design/27embassy.html
 |passage=Ms. Rockburne, with help from a team of artists, is working on a gargantuan mural of deep blues, shimmering '''aquas''' and luminous gold leaf that is headed for the American Embassy in Kingston, Jamaica.}}
+#: {{syn|en|aquamarine}}
 
 ===Adjective===
 {{en-adj}}
 
 # Of a greenish-blue colour.
+#: {{syn|en|aquamarine}}
 
 ====Synonyms====
-* {{sense|colour}} {{l|en|aquamarine}}
 * {{sense|water}} see [[Thesaurus:water]]
 
 ===Derived terms===
-{{der-top3|terms derived from ''aqua'' English noun}}
-* {{l|en|aquabib}}
-* {{l|en|aquabis}}
-* {{l|en|aquabob}}
-* {{l|en|aquacade}}
-* {{l|en|aquacise}}
-* {{l|en|aquacrop}}
-* {{l|en|aquaculture}}
-{{der-mid3}}
-* {{l|en|aquaculturist}}
-* {{l|en|aquadynamic}}
-* {{l|en|aquaerobics}}
-* {{l|en|aqualung}}
-* {{l|en|aquamarine}}
-* {{l|en|aquanaut}}
-* {{l|en|aquapasto}}
-{{der-mid3}}
-* {{l|en|aquaphobia}}
-* {{l|en|aquaplane}}
-* {{l|en|aqueous}}
-* {{l|en|aquiculture}}
-* {{l|en|aquifer}}
-* {{l|en|aquitard}}
-* {{l|en|subaqua}}
-{{der-bottom}}
+{{der4|en
+|aquabib
+|aquabis
+|aquabob
+|aquacade
+|aquacise
+|aquacrop
+|aquaculture
+|aquaculturist
+|aquadynamic
+|aquaerobics
+|aqualung
+|aquamarine
+|aquanaut
+|aquapasto
+|aquaphobia
+|aquaplane
+|aqueous
+|aquiculture
+|aquifer
+|aquitard
+|subaqua
+}}
 
 ===See also===
 * {{list:blues/en}}
@@ -60,6 +59,9 @@ From {{inh|en|enm|aqua||water}}, borrowed from {{der|en|la|aqua}}. Perhaps also 
 ----
 
 ==Ido==
+
+===Pronunciation===
+{{io-IPA}}
 
 ===Adjective===
 {{io-adj}}
@@ -94,7 +96,7 @@ From {{inh|en|enm|aqua||water}}, borrowed from {{der|en|la|aqua}}. Perhaps also 
 From {{inh|ist|la|aqua}}.
 
 ===Noun===
-{{head|ist|noun|g=f}} (''plural'' '''[[aque#Istriot|aque]]''')
+{{head|ist|noun|g=f|plural|aque}}
 
 # [[water]]
 
@@ -113,7 +115,7 @@ From {{inh|ist|la|aqua}}.
 ==Latin==
 
 ===Etymology===
-From {{inh|la|itc-pro|*akʷā}}, from {{inh|la|ine-pro|*h₂ékʷeh₂}}. Cognate with {{cog|ang|ēa||flowing water, stream, river}}. More at {{l|en|ea}}.
+From {{inh|la|itc-pro|*akʷā}}, from {{inh|la|ine-pro|*h₂ékʷeh₂}}. Cognate with {{cog|ang|ēa|t=flowing water, stream, river}}. More at {{l|en|ea}}.
 
 ===Pronunciation===
 * {{la-IPA|aqua}}
@@ -130,21 +132,22 @@ From {{inh|la|itc-pro|*akʷā}}, from {{inh|la|ine-pro|*h₂ékʷeh₂}}. Cognat
 * The genitive singular is also archaic {{m|la|aquai}}.
 
 ====Derived terms====
-{{col-top|2}}
-* {{l|la|aquaeductus}}
-* {{l|la|aqualis}}
-* {{l|la|aqua regia}}
-* {{l|la|aqua fortis}}
-* {{l|la|aquarius}}
-* {{l|la|aquaticus}}
-* {{l|la|aqueus}}
-* {{l|la|aquilentus}}
-* {{l|la|aquor}}
-* {{l|la|aquōsus}}
-* {{l|la|aquula}}
-{{col-bottom}}
+{{der4|la
+|aquaeductus
+|aquālis
+|aqua rēgia
+|aqua fortis
+|aquārius
+|aquāticus
+|aqueus
+|aquilentus
+|aquor
+|aquōsus
+|aquola
+}}
 
 ====Descendants====
+{{top4}}
 * Eastern:
 ** {{desc|rup|apã}}
 ** {{desc|ruo|åpe}}
@@ -241,6 +244,7 @@ From {{inh|la|itc-pro|*akʷā}}, from {{inh|la|ine-pro|*h₂ékʷeh₂}}. Cognat
 ** {{desc|ia|aqua}}
 ** {{desc|ie|aqua}}
 ** {{desc|nov|aque}}
+{{bottom}}
 
 ===References===
 * {{R:L&S}}
