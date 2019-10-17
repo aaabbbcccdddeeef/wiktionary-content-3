@@ -3,10 +3,10 @@
 {{wikipedia}}
 
 ===Alternative forms===
-* {{l|en|probleme}} {{q|obsolete}}
+* {{alter|en|probleme||obsolete}}
 
 ===Etymology===
-From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|problema}}, from {{der|en|grc|πρόβλημα||anything thrown forward, hindrance, obstacle, anything projecting, a headland, promontory}}, from {{m|grc|προβάλλω||to throw or lay something in front of someone, to put forward}}, from {{m|grc|προ-||in front of}} + {{m|grc|βάλλω||to throw, to cast, to hurl}}.
+From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|problema}}, from {{der|en|grc|πρόβλημα|t=anything thrown forward, hindrance, obstacle, anything projecting, a headland, promontory}}, from {{m|grc|προβάλλω|t=to throw or lay something in front of someone, to put forward}}, from {{m|grc|προ-|t=in front of}} + {{m|grc|βάλλω|t=to throw, to cast, to hurl}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|en|/ˈpɹɒbləm/}}
@@ -27,7 +27,7 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 # A [[question]] to be answered, [[schoolwork]] [[exercise]].
 # A [[puzzle|puzzling]] [[circumstance]].
 # Objection.
-#: ''You got a '''problem''' with that?''
+#: {{ux|en|You got a '''problem''' with that?}}
 
 ====Antonyms====
 * {{l|en|solution}}
@@ -36,48 +36,46 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 * {{l|en|Entscheidungsproblem}}
 
 ====Derived terms====
-{{der-top3|terms derived from ''problem'' (noun)}}
-* {{l|en|alcohol problem}}
-* {{l|en|algorithmic problem}}
-* {{l|en|Apollonian problem}}
-* {{l|en|Archimedes' problem}}
-* {{l|en|behavior problem}}
-* {{l|en|core problem}}
-{{der-mid3}}
-* {{l|en|decision problem}}
-* {{l|en|drug problem}}
-* {{l|en|fencepost problem}}
-* {{l|en|fiscal problem}}
-* {{l|en|halting problem}}
-* {{l|en|logic problem}}
-{{der-mid3}}
-* {{l|en|mathematical problem}}
-* {{l|en|no problem}}
-* {{l|en|problematic}}
-* {{l|en|problematical}}
-* {{l|en|problematize}}
-{{der-bottom}}
+{{der4|en
+|alcohol problem
+|algorithmic problem
+|Apollonian problem
+|Archimedes' problem
+|behavior problem
+|core problem
+|decision problem
+|drug problem
+|fencepost problem
+|fiscal problem
+|halting problem
+|logic problem
+|mathematical problem
+|no problem
+|problematic
+|problematical
+|problematize
+}}
 
 ====Translations====
 {{trans-top|difficulty}}
 * Albanian: {{t+|sq|çështje|f}}, {{t+|sq|zavall|m}}, {{t+|sq|problem|m}}
-* Amharic: {{t|am|ችግር|tr=čəggər|sc=Ethi}}
+* Amharic: {{t|am|ችግር}}|tr=čəggər
 * Arabic: {{t|ar|مُشْكِلَة|f}}
 * Aragonese: {{t|an|problema|m}}
 * Armenian: {{t+|hy|խնդիր}}
 * Asturian: {{t|ast|problema|m}}
 * Azerbaijani: {{t+|az|problem}}, {{t+|az|məsələ}}
-* Bashkir: {{t|ba|мәсьәлә|sc=Cyrl}}
+* Bashkir: {{t|ba|мәсьәлә}}
 * Basque: {{t|eu|arazo}}
-* Belarusian: {{t|be|прабле́ма|f|sc=Cyrl}}
-* Bengali: {{t|bn|প্রব্লেম|tr=prôblem|sc=Beng}}
+* Belarusian: {{t|be|прабле́ма|f}}
+* Bengali: {{t|bn|প্রব্লেম}}|tr=prôblem
 * Breton: {{t+|br|kudenn|f}}
-* Bulgarian: {{t+|bg|пробле́м|m|sc=Cyrl}}
-* Burmese: {{t+|my|ပြဿနာ|sc=Mymr}}
+* Bulgarian: {{t+|bg|пробле́м|m}}
+* Burmese: {{t+|my|ပြဿနာ}}
 * Catalan: {{t+|ca|problema|m}}
 * Cebuano: {{t|ceb|kalisud}}
 * Chinese:
-*: Mandarin: {{t+|cmn|問題|sc=Hani}}, {{t+|cmn|问题|tr=wèntí|sc=Hani}}, {{t+|cmn|困難|sc=Hani}}, {{t+|cmn|困难|tr=kùnnán|sc=Hani}}, {{t+|cmn|難題|sc=Hani}}, {{t+|cmn|难题|tr=nántí|sc=Hani}}, {{t+|cmn|麻煩|sc=Hani}}, {{t+|cmn|麻烦|tr=máfán|sc=Hani}}
+*: Mandarin: {{t+|cmn|問題}}, {{t+|cmn|问题|tr=wèntí}}, {{t+|cmn|困難}}, {{t+|cmn|困难|tr=kùnnán}}, {{t+|cmn|難題}}, {{t+|cmn|难题|tr=nántí}}, {{t+|cmn|麻煩}}, {{t+|cmn|麻烦|tr=máfán}}
 * Czech: {{t+|cs|problém|m}}
 * Danish: {{t+|da|problem|n}}
 * Dutch: {{t+|nl|probleem|n}}
@@ -89,40 +87,40 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 * Georgian: {{t|ka|პრობლემა}}
 * German: {{t+|de|Problem|n}}
 * Greek: {{t+|el|πρόβλημα|n}}
-*: Ancient: {{t|grc|ἀπορία|f|sc=polytonic}}
-* Hebrew: {{t|he|בְּעָיָה|f|tr=be'aya|sc=Hebr}}
+*: Ancient: {{t|grc|ἀπορία|f}}
+* Hebrew: {{t|he|בְּעָיָה|f|tr=be'aya}}
 * Hiligaynon: {{t|hil|palaligban}}, {{t|hil|problema}}
-* Hindi: {{t+|hi|समस्या|f|sc=Deva}}, {{t+|hi|मसला|sc=Deva}}, {{t+|hi|प्रश्न|m|sc=Deva}}, {{t|hi|दिक़्क़त|f}}, {{t+|hi|दिक्कत|f}}
+* Hindi: {{t+|hi|समस्या|f}}, {{t+|hi|मसला|?}}, {{t+|hi|प्रश्न|m}}, {{t|hi|दिक़्क़त|f}}, {{t+|hi|दिक्कत|f}}
 * Hungarian: {{t+|hu|probléma}}, {{t+|hu|baj}}, {{t+|hu|gond}}
 * Icelandic: {{t+|is|vandamál|n}}
 * Indonesian: {{t+|id|masalah}}
 * Interlingue: {{t|ie|problema}}
 * Italian: {{t+|it|problema|m}}
-* Japanese: {{t+|ja|問題|tr=もんだい, mondai|sc=Jpan}}
-* Kazakh: {{t+|kk|проблема|sc=Cyrl}}, {{t|kk|мәселе|sc=Cyrl}}
-* Khmer: {{t+|km|ចំណោទ|tr=cɑmnaot|sc=Khmr}}
+* Japanese: {{t+|ja|問題|tr=もんだい, mondai}}
+* Kazakh: {{t+|kk|проблема}}, {{t|kk|мәселе}}
+* Khmer: {{t+|km|ចំណោទ|tr=cɑmnaot}}
 * Korean: {{t+|ko|문제}}
-* Kyrgyz: {{t+|ky|проблема|sc=Cyrl}}, {{t|ky|көйгөй|sc=Cyrl}}, {{t+|ky|маселе|sc=Cyrl}}
+* Kyrgyz: {{t+|ky|проблема}}, {{t|ky|көйгөй}}, {{t+|ky|маселе}}
 * Lao: {{t|lo|ບັນຫາ}}
 * Latvian: {{t+|lv|problēma|f}}
 * Lithuanian: {{t|lt|problema|f}}
-* Macedonian: {{t|mk|про́блем|m|sc=Cyrl}}
+* Macedonian: {{t|mk|про́блем|m}}
 {{trans-mid}}
 * Malay: {{t+|ms|masalah}}, {{t|ms|kesulitan}}, {{t|ms|kemusykilan}}
 * Maltese: {{t|mt|problema|f}}
 * Maore Comorian: {{t|swb|taãɓu|c9|c10|tr=taãbu}}
 * Maori: {{t|mi|rarunga}}
 * Mirandese: {{t|mwl|porblema|m}}
-* Mongolian: {{t+|mn|хүндрэл|sc=Cyrl}}
+* Mongolian: {{t+|mn|хүндрэл}}
 * Neapolitan: {{t|nap|prubblema}}
 * Ngazidja Comorian: {{t|zdj|shaka|c5|c6}}
-* Norman: {{t|nrf|problième|m}}
+* Norman: {{t|nrf|problième|m}} {{q|Jersey}}
 * Norwegian:
 *: Bokmål: {{t+|nb|problem|n}}
 *: Nynorsk: {{t|nn|problem|n}}
 * Occitan: {{t+|oc|problèma|m}}
 * Old English: {{t-needed|ang}}
-* Persian: {{t+|fa|مشکل|tr=moškel}}, {{t+|fa|مسئله|tr=mas'ale|sc=fa-Arab}}
+* Persian: {{t+|fa|مشکل|tr=moškel}}, {{t+|fa|مسئله|tr=mas'ale}}
 * Polish: {{t+|pl|problem|m}}, {{t+|pl|kłopot|m}}
 * Portuguese: {{t+|pt|problema|m}}
 * Romanian: {{t+|ro|problemă|f}}
@@ -130,8 +128,8 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 * Sanskrit: {{t+|sa|समस्या|f}}
 * Scottish Gaelic: {{t|gd|duilgheadas|m}}, {{t|gd|staing|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|проблем|m|sc=Cyrl}}
-*: Latin: {{t+|sh|problem|m}}
+*: Cyrillic: {{t|sh|про̀бле̄м|m}}
+*: Latin: {{t+|sh|pròblēm|m}}
 * Slovak: {{t+|sk|problém|m}}
 * Slovene: {{t|sl|problem|m}}
 * Spanish: {{t+|es|problema|m}}, {{t+|es|dificultad|f}}, {{t+|es|lío|m}}
@@ -145,13 +143,13 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 * Turkish: {{t+|tr|sorun}}, {{t+|tr|problem}}
 * Turkmen: {{t|tk|problem}}, {{t|tk|problema}}, {{t|tk|mesele}}
 * Tuvaluan: {{t|tvl|fakalavelave}}
-* Ukrainian: {{t|uk|пробле́ма|f|sc=Cyrl}}
-* Urdu: {{t|ur|سمسیا|m|tr=samasyā|sc=ur-Arab}}, {{t|ur|مسئلہ|m|tr=maslā|sc=ur-Arab}}, {{t|ur|پرشن|m|tr=praśna|sc=ur-Arab}}
+* Ukrainian: {{t|uk|пробле́ма|f}}
+* Urdu: {{t|ur|سمسیا|m|tr=samasyā}}, {{t|ur|مسئلہ|m|tr=maslā}}, {{t|ur|پرشن|m|tr=praśna}}
 * Uzbek: {{t+|uz|masala}}, {{t+|uz|muammo}}, {{t+|uz|problema}}
 * Vietnamese: {{t+|vi|vấn đề}}
 * Walloon: {{t+|wa|rujhe|f}}, {{t+|wa|aroke|f}}, {{t+|wa|arnåjhe|f}}, {{t+|wa|rascråwe|f}}
 * Welsh: {{t+|cy|problem|f}}
-* Yiddish: {{t|yi|פּראָבלעם|m|sc=Hebr}}
+* Yiddish: {{t|yi|פּראָבלעם|m}}
 * Yucatec Maya: {{t|yua|toop}}
 {{trans-bottom}}
 
@@ -159,12 +157,12 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 * Arabic: {{t+|ar|مَسْأَلَة|f}}, {{t|ar|مُشْكِلَة|f}}
 * Armenian: {{t+|hy|խնդիր}}, {{t+|hy|հարց}}
 * Asturian: {{t|ast|problema|m}}
-* Bashkir: {{t|ba|мәсьәлә|sc=Cyrl}}
+* Bashkir: {{t|ba|мәсьәлә}}
 * Basque: {{t+|eu|buruketa}}
 * Breton: {{t|br|poelladenn|f}}
 * Catalan: {{t+|ca|problema|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|題目|sc=Hani}}, {{t+|cmn|题目|tr=tímù|sc=Hani}}, {{t+|cmn|習題|sc=Hani}}, {{t+|cmn|习题|tr=xítí|sc=Hani}}, {{t+|cmn|課題|sc=Hani}}, {{t+|cmn|课题|tr=kètí|sc=Hani}}
+*: Mandarin: {{t+|cmn|題目}}, {{t+|cmn|题目|tr=tímù}}, {{t+|cmn|習題}}, {{t+|cmn|习题|tr=xítí}}, {{t+|cmn|課題}}, {{t+|cmn|课题|tr=kètí}}
 * Dutch: {{t+|nl|oefening|f}}, {{t+|nl|probleem|n}}
 * Estonian: {{t|et|harjutus}}
 * Finnish: {{t+|fi|harjoitus}}, {{t+|fi|harjoitustehtävä}}
@@ -173,26 +171,26 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 * Georgian: {{t|ka|ამოცანა}}
 * German: {{t+|de|Übung|f}}
 * Greek: {{t+|el|πρόβλημα|n}}
-*: Ancient: {{t|grc|πρόβλημα|n|sc=polytonic}}
+*: Ancient: {{t|grc|πρόβλημα|n}}
 * Hungarian: {{t+|hu|feladat}}, {{t+|hu|példa}}
 * Interlingua: {{t|ia|problema}}
 * Korean: {{t+|ko|문제}}
 {{trans-mid}}
 * Latvian: {{t|lv|uzdevums|m}}
-* Macedonian: {{t|mk|задача|f|sc=Cyrl}}, {{t|mk|проблем|m|sc=Cyrl}}
+* Macedonian: {{t|mk|задача|f}}, {{t|mk|проблем|m}}
 * Maori: {{t|mi|rapanga}}
 * Middle English: {{t|enm|probleme}}
-* Norman: {{t|nrf|problième|m}}
+* Norman: {{t|nrf|problième|m}} {{q|Jersey}}
 * Norwegian: {{t+|no|oppgave|m}}
 * Occitan: {{t+|oc|problèma|m}}
-* Persian: {{t+|fa|مسئله|tr=mas'ale|sc=fa-Arab}}
+* Persian: {{t+|fa|مسئله|tr=mas'ale}}
 * Polish: {{t+|pl|zadanie|n}}
 * Portuguese: {{t+|pt|problema|m}}, {{t+|pt|exercício|m}}
 * Romanian: {{t+|ro|problemă|f}}, {{t+|ro|exercițiu|n}}
 * Russian: {{t+|ru|зада́ча|f}}, {{t+|ru|зада́ние|n}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|проблем|m|sc=Cyrl}}
-*: Latin: {{t+|sh|problem|m}}, {{t+|sh|zadatak|m}}, {{t+|sh|jednadžba|f}}
+*: Cyrillic: {{t|sh|про̀бле̄м|m}}
+*: Latin: {{t+|sh|pròblēm|m}}, {{t+|sh|zadátak|m}}, {{t+|sh|jednàdžba|f}}
 * Spanish: {{t+|es|problema|m}}, {{t+|es|ejercicio|m}}
 * Swahili: {{t+|sw|masaibu}}
 * Thai: {{t+|th|โจทย์|tr=jòot}}
@@ -201,9 +199,9 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 {{trans-bottom}}
 
 {{trans-top|puzzling circumstance}}
-* Bashkir: {{t|ba|мәсьәлә|sc=Cyrl}}
+* Bashkir: {{t|ba|мәсьәлә}}
 * Basque: {{t|eu|arazo}}, {{t|eu|buruhauste}}
-* Bengali: {{t|bn|প্রব্লেম|sc=Beng}}
+* Bengali: {{t|bn|প্রব্লেম}}
 * Catalan: {{t+|ca|problema|m}}
 * Cebuano: {{t|ceb|problema}}
 * Dutch: {{t+|nl|probleem|n}}
@@ -217,8 +215,8 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 * Romanian: {{t+|ro|problemă|f}}
 * Russian: {{t+|ru|пробле́ма|f}}, {{t+|ru|зада́ча|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|проблем|m|sc=Cyrl}}
-*: Latin: {{t+|sh|problem|m}}
+*: Cyrillic: {{t|sh|про̀бле̄м|m}}
+*: Latin: {{t+|sh|pròblēm|m}}
 * Spanish: {{t+|es|problema|m}}, {{t+|es|embrollo|m}}, {{t+|es|lío|m}}, {{t+|es|bronca|f}} {{qualifier|Mexico}}
 * Swahili: {{t+|sw|tatizo}}, {{t+|sw|masaibu}}
 * Tagalog: {{t+|tl|problema}}
@@ -253,7 +251,7 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 # a {{l|en|problem}}
 
 ====Derived terms====
-{{col3|da
+{{der3|da
 |helseproblem
 |hovedproblem
 |problembarn
@@ -261,7 +259,9 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 |søvnproblem
 |vægtproblem
 }}
+
 ----
+
 ==Middle English==
 
 ===Noun===
@@ -384,37 +384,32 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 * {{l|sv|uppgift}}
 
 ====Related terms====
-{|
-|- valign=top
-|
-* {{l|sv|problematik}}
-* {{l|sv|problematisera}}
-* {{l|sv|problematisering}}
-* {{l|sv|problematisk}}
-* {{l|sv|problemavfall}}
-* {{l|sv|problembarn}}
-* {{l|sv|problembaserad}}
-|
-* {{l|sv|problemdiktning}}
-* {{l|sv|problemdrama}}
-* {{l|sv|problemformulering}}
-* {{l|sv|problemfri}}
-* {{l|sv|problemfylld}}
-* {{l|sv|problemhärva}}
-* {{l|sv|probleminventering}}
-|
-* {{l|sv|problemkomplex}}
-* {{l|sv|problemkredit}}
-* {{l|sv|problemlös}}
-* {{l|sv|problemlösare}}
-* {{l|sv|problemlösning}}
-* {{l|sv|problemområde}}
-* {{l|sv|problemorienterad}}
-|
-* {{l|sv|problemsituation}}
-* {{l|sv|problemställning}}
-* {{l|sv|problemtyngd}}
-|}
+{{rel4|sv
+|problematik
+|problematisera
+|problematisering
+|problematisk
+|problemavfall
+|problembarn
+|problembaserad
+|problemdiktning
+|problemdrama
+|problemformulering
+|problemfri
+|problemfylld
+|problemhärva
+|probleminventering
+|problemkomplex
+|problemkredit
+|problemlös
+|problemlösare
+|problemlösning
+|problemområde
+|problemorienterad
+|problemsituation
+|problemställning
+|problemtyngd
+}}
 
 ===References===
 * {{R:svenska.se|saol}}
