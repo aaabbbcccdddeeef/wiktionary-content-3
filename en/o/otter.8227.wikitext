@@ -5,7 +5,7 @@
 
 ===Etymology 1===
 {{PIE root|en|wed}}
-From {{inh|en|enm|oter}}, {{m|enm|otir}}, {{m|enm|otur}}, {{m|enm|otyre}}, from {{inh|en|ang|otor}}, from {{inh|en|gem-pro|*utraz}}, from {{inh|en|ine-pro|*udrós||aquatic, water-animal}}, from {{der|en|ine-pro|*wed-||water}}. Cognate with {{cog|stq|Otter}}, {{cog|nl|otter}}, {{cog|de|Otter}}, {{cog|sv|utter}}, {{cog|no|oter}}, {{cog|is|otur}}, {{cog|sa|उद्र|tr=udrá}}, {{cog|ru|вы́дра}}, and {{cog|grc|ὕδρα||water snake}}. More etymology under English [[water]].
+From {{inh|en|enm|oter}}, {{m|enm|otir}}, {{m|enm|otur}}, {{m|enm|otyre}}, from {{inh|en|ang|otor}}, from {{inh|en|gem-pro|*utraz}}, from {{inh|en|ine-pro|*udrós|t=aquatic, water-animal}}, from {{der|en|ine-pro|*wed-|t=water}}. Cognate with {{cog|stq|Otter}}, {{cog|nl|otter}}, {{cog|de|Otter}}, {{cog|sv|utter}}, {{cog|no|oter}}, {{cog|is|otur}}, {{cog|sa|उद्र|tr=udrá}}, {{cog|ru|вы́дра}}, and {{cog|grc|ὕδρα|t=water snake}}. More etymology under English [[water]].
 
 ====Pronunciation====
 * {{a|RP}} {{IPA|en|/ˈɒt.ə/}}
@@ -20,19 +20,18 @@ From {{inh|en|enm|oter}}, {{m|enm|otir}}, {{m|enm|otur}}, {{m|enm|otyre}}, from 
 # {{lb|en|gay slang}} A [[hairy]] man with a [[slender]] [[physique]], in contrast with a [[bear]], who is more [[thickset]].
 
 =====Derived terms=====
-{{rel-top|terms derived from otter (mammal)}}
-* {{l|en|European otter}} (''{{ll|mul|Lutra lutra}}'')
-* [[giant otter]] (''{{ll|mul|Pteronura brasiliensis}}'')
-* {{vern|marine otter}} ({{taxlink|Lontra felina|species|ver=190723}})
-* {{l|en|otterless}}
-* {{l|en|otterish}}
-* {{l|en|otterlike}}
-{{rel-mid}}
-* {{l|en|Otter Tail County}}
-* {{l|en|ottery}}
-* {{l|en|river otter}} (''{{ll|mul|Lontra}}'' spp.)
-* {{l|en|sea otter}} (''{{ll|mul|Enhydra lutris}}'')
-{{rel-bottom}}
+{{der4|en
+|{{l|en|European otter}} (''{{ll|mul|Lutra lutra}}'')
+|{{l|en|giant otter}} (''{{ll|mul|Pteronura brasiliensis}}'')
+|{{vern|marine otter}} ({{taxlink|Lontra felina|species|ver=190723}})
+|{{l|en|otterless}}
+|{{l|en|otterish}}
+|{{l|en|otterlike}}
+|{{l|en|Otter Tail County}}
+|{{l|en|ottery}}
+|{{l|en|river otter}} (''{{ll|mul|Lontra}}'' spp.)
+|{{l|en|sea otter}} (''{{ll|mul|Enhydra lutris}}'')
+}}
 
 =====Translations=====
 {{trans-top|mammal}}
@@ -49,13 +48,13 @@ From {{inh|en|enm|oter}}, {{m|enm|otir}}, {{m|enm|otur}}, {{m|enm|otyre}}, from 
 * Bengali: {{t|bn|ভোঁদড়}}
 * Breton: {{t+|br|dourgi|m}}, {{t+|br|ki-dour|m}}
 * Bulgarian: {{t+|bg|ви́дра|f}}
-* Burmese: {{t+|my|ဖျံ|sc=Mymr}}
+* Burmese: {{t+|my|ဖျံ}}
 * Catalan: {{t+|ca|llúdria|f}}, {{t|ca|llúdriga|f}}
 * Central Melanau: {{t|mel|dengen}}
 * Chepang: {{t|cdm|तीःचोरो}}
-* Cherokee: {{t|chr|ᏥᏯ|tr=tsiya}}
+* Cherokee: {{t|chr|ᏥᏯ}}
 * Chinese:
-*: Mandarin: {{t+|cmn|水獺|sc=Hani}}, {{t+|cmn|水獭|tr=shuǐtǎ|sc=Hani}}
+*: Mandarin: {{t+|cmn|水獺}}, {{t+|cmn|水獭|tr=shuǐtǎ}}
 * Chipewyan: {{t|chp|ną́bį}}
 * Chukchi: {{t|ckt|кыквэтвун|tr=kykvėtvun}}, {{t|ckt|нэннэт|tr=nėnnėt}}
 * Czech: {{t+|cs|vydra|f}}
@@ -67,13 +66,13 @@ From {{inh|en|enm|oter}}, {{m|enm|otir}}, {{m|enm|otur}}, {{m|enm|otyre}}, from 
 * Faroese: {{t|fo|otur|m}}
 * Finnish: {{t+|fi|saukko}}
 * French: {{t+|fr|loutre|f}}
-* Friulian: {{t|fur|lodre}}
-* Galician: {{t+|gl|lontra}}, {{t|gl|londra}}, {{t|gl|ludra|f}}, {{t|gl|lóndrega|f}}
+* Friulian: {{t|fur|lodre|?}}
+* Galician: {{t+|gl|lontra|?}}, {{t|gl|londra|?}}, {{t|gl|ludra|f}}, {{t|gl|lóndrega|f}}
 * Georgian: {{t|ka|წავი}}
 * German: {{t+|de|Otter|m}}
 * Greek: {{t+|el|βίδρα|f}}
 * Hebrew: {{t+|he|לוּטְרָה|f|tr=lútra}}, {{t|he|כֶּלֶב נָהָר|m|tr=kélev nahar}}
-* Hindi: {{t+|hi|ऊदबिलाव|sc=Deva|m}}, {{t+|hi|ऊद|m}}
+* Hindi: {{t+|hi|ऊदबिलाव|m}}, {{t+|hi|ऊद|m}}
 * Hungarian: {{t+|hu|vidra}}
 * Icelandic: {{t|is|otur|m}}
 * Ido: {{t+|io|lutro}}
@@ -81,13 +80,13 @@ From {{inh|en|enm|oter}}, {{m|enm|otir}}, {{m|enm|otur}}, {{m|enm|otyre}}, from 
 * Irish: {{t+|ga|dobharchú|m}}, {{t+|ga|madra uisce|m}}, {{t+|ga|dobhrán|m}}, {{t+|ga|cú dobhráin|m}}
 *: Old Irish: {{t|sga|doburchú|f}}
 * Italian: {{t+|it|lontra|f}}
-* Japanese: {{qualifier|freshwater}} {{t+|ja|獺|tr=かわうそ, kawauso|sc=Jpan}}, {{t|ja|川獺|tr=かわうそ, kawauso|sc=Jpan}}, {{t+|ja|カワウソ|tr=kawauso|sc=Jpan}}, {{qualifier|marine}} {{t+|ja|海獺|tr=らっこ, rakko|sc=Jpan}}, {{t+|ja|ラッコ|tr=rakko|sc=Jpan}}
+* Japanese: {{qualifier|freshwater}} {{t+|ja|獺|tr=かわうそ, kawauso}}, {{t|ja|川獺|tr=かわうそ, kawauso}}, {{t+|ja|カワウソ|tr=kawauso}}, {{qualifier|marine}} {{t+|ja|海獺|tr=らっこ, rakko}}, {{t+|ja|ラッコ|tr=rakko}}
 * Jingpho: {{t|kac|shäram}}
-* Kazakh: {{t|kk|кәмшат|sc=Cyrl}}, {{t|kk|қамшат|sc=Cyrl}}
+* Kazakh: {{t|kk|кәмшат}}, {{t|kk|қамшат}}
 * Khmer: {{t+|km|ភេ}}
 * Korean: {{t+|ko|수달}}
-* Kyrgyz: {{t+|ky|кундуз|sc=Cyrl}}
-* Ladin: {{t|lld|lontra}}
+* Kyrgyz: {{t+|ky|кундуз}}
+* Ladin: {{t|lld|lontra|?}}
 * Lao: {{t|lo|ນາກ}}
 * Latgalian: {{t|ltg|iudrys|m}}
 * Latin: {{t|la|lutra|f}}
@@ -97,12 +96,12 @@ From {{inh|en|enm|oter}}, {{m|enm|otir}}, {{m|enm|otur}}, {{m|enm|otyre}}, from 
 * Lun Bawang: {{t|lnd|dengen}}
 * Macedonian: {{t|mk|видра|f}}
 * Malay: {{t|ms|anjing air}}, {{t|ms|berang-berang}}
-*: Jawi: {{t|ms|انجيڠ اءير|sc=Arab}}, {{t|ms|برڠ٢|sc=Arab}}
+*: Jawi: {{t|ms|انجيڠ اءير}}, {{t|ms|برڠ٢}}
 {{trans-mid}}
 * Malayalam: {{t|ml|നീർനായ}}
-* Maltese: {{t|mt|lutra}}
+* Maltese: {{t|mt|lutra|?}}
 * Manx: {{t|gv|dooarchoo|m}}, {{t|gv|moddey ushtey|m}}
-* Marathi: {{t|mr|पाणमांजर}}
+* Marathi: {{t|mr|पाणमांजर|?}}
 * Mi'kmaq: {{t|mic|giwnig|an}}
 * Mon: {{t|mnw|ဖေံ}}
 * Navajo: {{t|nv|tábąąstíín}}
@@ -113,22 +112,21 @@ From {{inh|en|enm|oter}}, {{m|enm|otir}}, {{m|enm|otur}}, {{m|enm|otyre}}, from 
 * Old English: {{t|ang|otor|m}}
 * Oriya: {{t|or|ଓଧ}}
 * Ossetian:
-*: Digor: {{t|os|урдӕ|sc=Cyrl}}
-*: Iron: {{t|os|уырд|sc=Cyrl}}
-* Persian: {{t|fa|سمور آبی|tr=samur-e âbi|sc=fa-Arab}}
+*: Digor: {{t|os|урдӕ}}
+*: Iron: {{t|os|уырд}}
+* Persian: {{t|fa|سمور آبی|tr=samur-e âbi}}
 * Pipil: {{t|ppl|ākuyūt}}
 * Pirahã: {{t|myp|pibaóí}}
 * Polish: {{t+|pl|wydra|f}}
-* Portuguese: {{t+|pt|lontra}}
+* Portuguese: {{t+|pt|lontra|?}}
 * Romanian: {{t+|ro|lutră|f}}, {{t+|ro|vidră|f}}
 * Romansch: {{t|rm|ludra|f}}, {{t|rm|lutra|f}}
 * Russian: {{t+|ru|вы́дра|f}}
-* Sami: [[čeavrris]]
 * Santali: {{t|sat|ᱚᱫᱟᱢ}}, {{t|sat|ᱩᱫᱟᱢ}}
-* Sardinian: {{t|sc|lontra}}
+* Sardinian: {{t|sc|lontra|?}}
 * Scottish Gaelic: {{t|gd|dòbhran|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|ви̏дра|f|sc=Cyrl}}
+*: Cyrillic: {{t|sh|ви̏дра|f}}
 *: Roman: {{t+|sh|vȉdra|f}}
 * Sicilian: {{t+|scn|lutra|f}}
 * Slovak: {{t|sk|vydra|f}}
@@ -150,7 +148,7 @@ From {{inh|en|enm|oter}}, {{m|enm|otir}}, {{m|enm|otur}}, {{m|enm|otyre}}, from 
 * Turkish: {{t+|tr|susamuru}}, {{t+|tr|lutr}}
 * Turkmen: {{t|tk|gunduz}}
 * Ukrainian: {{t|uk|ви́дра|f}}
-* Urdu: {{t|ur|اودبلاؤ|tr=ūd-bilā'o|sc=ur-Arab|m}}
+* Urdu: {{t|ur|اودبلاؤ|m|tr=ūd-bilā'o}}
 * Uzbek: {{t+|uz|qunduz}}
 * Venetian: {{t|vec|lùdria|f}}, {{t|vec|lodra}}
 * Vietnamese: {{t+|vi|rái cá}}, {{t+|vi|rái}}
@@ -158,7 +156,7 @@ From {{inh|en|enm|oter}}, {{m|enm|otir}}, {{m|enm|otur}}, {{m|enm|otyre}}, from 
 * Walloon: {{t+|wa|lote}}
 * Welsh: {{t|cy|dyfrgi|m}}, {{t|cy|dwrgi|m}}
 * West Coast Bajau: {{t|bdr|dongor}}, {{t|bdr|embirud}}
-* West Frisian: {{t|fy|fiskotter}}
+* West Frisian: {{t|fy|fiskotter|?}}
 * Yiddish: {{t|yi|ווידרע|f}}
 * Zhuang: {{t|za|nag}}
 {{trans-bottom}}
