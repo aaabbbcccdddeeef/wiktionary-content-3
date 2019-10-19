@@ -2,7 +2,7 @@
 
 ===Etymology===
 {{PIE root|en|dʰeh₁}}
-From {{etyl|frm|en}} {{m|frm|factorie}}, from {{etyl|ML.|en}} {{m|la|factoria}}, from {{etyl|la|en}} {{m|la|factor}}. Compare {{cog|it|fattoria}}, {{cog|es|factoría}}, {{cog|pt|feitoria}}, {{cog|nl|factorij}}.
+From {{der|en|frm|factorie}}, from {{der|en|ML.|factoria}}, from {{der|en|la|factor}}. Compare {{cog|it|fattoria}}, {{cog|es|factoría}}, {{cog|pt|feitoria}}, {{cog|nl|factorij}}.
 
 ===Pronunciation===
 * {{a|RP|GA}} {{IPA|en|/ˈfæktəɹi/|/ˈfæktɹi/}}
@@ -12,6 +12,7 @@ From {{etyl|frm|en}} {{m|frm|factorie}}, from {{etyl|ML.|en}} {{m|la|factoria}},
 {{en-noun|factories}}
 
 # {{lb|en|obsolete}} A trading establishment, especially set up by merchants working in a foreign country.
+#: {{syn|en|fondaco|q1=Italian contexts|tradepost|trading post}}
 # {{lb|en|now|_|rare}} The position or state of being a [[factor]].
 # A [[building]] or other place where [[manufacture|manufacturing]] takes place.
 #* {{quote-book|en|year=1918|author={{w|W. B. Maxwell}}|chapter=7
@@ -20,14 +21,11 @@ From {{etyl|frm|en}} {{m|frm|factorie}}, from {{etyl|ML.|en}} {{m|la|factoria}},
 #* {{quote-book|en|year=1963|author={{w|Margery Allingham}}|title={{w|The China Governess}}
 |chapter=7|url=http://openlibrary.org/works/OL2004261W
 |passage=The highway to the East Coast which ran through the borough of Ebbfield had always been a main road and even now, despite the vast garages, the pylons and the gaily painted '''factory''' glasshouses which had sprung up beside it, there still remained an occasional trace of past cultures.}}
+#: {{syn|en|manufactory}}
 # A device which produces or manufactures something.
 # {{lb|en|programming}} In a computer program or library, a [[function]], [[method]], etc. which creates an [[object]].
 #* '''2010''', Sayed Ibrahim Hashimi, William Bartholomew, ''Inside the Microsoft Build Engine''
 #*: The task '''factory''' {{...}} is the object that is responsible for creating instances of those tasks dynamically.
-
-====Synonyms====
-* {{sense|building(s) used for trading or storage of trade goods}} {{l|en|trading post}}, {{l|en|tradepost}}; {{l|en|fondaco}} {{qualifier|Italian contexts}}
-* {{sense|building(s) used for manufacturing}} {{l|en|manufactory}}
 
 ====Derived terms====
 {{der2|en
@@ -58,7 +56,7 @@ From {{etyl|frm|en}} {{m|frm|factorie}}, from {{etyl|ML.|en}} {{m|la|factoria}},
 * Asturian: {{t|ast|fábrica|f}}
 * Azerbaijani: {{t|az|fabrika}}, {{t+|az|zavod}}
 * Belarusian: {{t|be|фа́брыка|f}}, {{t|be|заво́д|m}}
-* Bengali: {{t|bn|কারখানা|sc=Beng}}, {{t|bn|ফ্যাক্টরী|sc=Beng}}
+* Bengali: {{t|bn|কারখানা}}, {{t|bn|ফ্যাক্টরী}}
 * Breton: {{t+|br|labouradeg|f}}, {{t|br|greanti|m}}
 * Bulgarian: {{t+|bg|фа́брика|f}}, {{t+|bg|заво́д|m}}
 * Burmese: {{t|my|စက်ရုံ}}, {{t+|my|အလုပ်ရုံ}}
@@ -66,7 +64,7 @@ From {{etyl|frm|en}} {{m|frm|factorie}}, from {{etyl|ML.|en}} {{m|la|factoria}},
 * Chinese:
 *: Cantonese: {{t|yue|廠|tr=cong2}}, {{t|yue|工廠|tr=gung1 cong2}}
 *: Dungan: {{t|dng|гунчон}}
-*: Mandarin: {{t+|cmn|厰|sc=Hani}}, {{t+|cmn|廠|sc=Hani}}, {{t+|cmn|厂|tr=chǎng|sc=Hani}}，{{t+|cmn|工廠|sc=Hani}}, {{t+|cmn|工厂|tr=gōngchǎng|sc=Hani}}，{{t+|cmn|廠家|sc=Hani}}, {{t+|cmn|厂家|tr=chǎngjiā|sc=Hani}}
+*: Mandarin: {{t+|cmn|厰}}, {{t+|cmn|廠}}, {{t+|cmn|厂|tr=chǎng}}，{{t+|cmn|工廠}}, {{t+|cmn|工厂|tr=gōngchǎng}}，{{t+|cmn|廠家}}, {{t+|cmn|厂家|tr=chǎngjiā}}
 * Chuvash: {{t|cv|хапрӑк|alt=хапрăк}}
 * Cornish: {{t|kw|gweythva|f}}
 * Czech: {{t+|cs|továrna|f}}, {{t|cs|fabrika|f}}, {{t+|cs|závod|m}}
@@ -78,28 +76,28 @@ From {{etyl|frm|en}} {{m|frm|factorie}}, from {{etyl|ML.|en}} {{m|la|factoria}},
 * Faroese: {{t|fo|verksmiðja|f}}, {{t|fo|virki|n}}
 * Finnish: {{t+|fi|tehdas}}, {{t+|fi|laitos}}, {{t|fi|tehdaslaitos}}, {{t+|fi|tuotantolaitos}}, {{t+|fi|teollisuuslaitos}}
 * French: {{t+|fr|usine|f}}, {{t+|fr|fabrique|f}}, {{t+|fr|manufacture|f}}
-* Georgian: {{t|ka|ქარხანა|sc=Geor}}, {{t+|ka|ფაბრიკა|sc=Geor}}
+* Georgian: {{t|ka|ქარხანა}}, {{t+|ka|ფაბრიკა}}
 * German: {{t+|de|Fabrik|f}}, {{t+|de|Manufaktur|f}}, {{t+|de|Werk|n}}
 * Greek: {{t+|el|εργοστάσιο|n}}
 *: Ancient: {{t|grc|ἐργαστήριον|n}}
 * Greenlandic: {{t|kl|fabrikki}}
-* Hebrew: {{t+|he|מִפְעָל|tr=mif’ál|m}}, {{t|he|בֵּית חֲרֹשֶׁת|m|tr=béit-kharóshet|sc=Hebr}}
-* Hindi: {{t|hi|कारख़ाना|m|sc=Deva}}, {{t|hi|फ़ैक्टरी|f|sc=Deva}}
+* Hebrew: {{t+|he|מִפְעָל|m|tr=mif’ál}}, {{t|he|בֵּית חֲרֹשֶׁת|m|tr=béit-kharóshet}}
+* Hindi: {{t|hi|कारख़ाना|m}}, {{t|hi|फ़ैक्टरी|f}}
 * Hungarian: {{t+|hu|gyár}}, {{t+|hu|üzem}}
 * Icelandic: {{t+|is|verksmiðja|f}}, {{t+|is|smiðja|f}}, {{t|is|fabrikka|f}} {{qualifier|rare}}
 * Ido: {{t+|io|fabrikerio}}
 * Indonesian: {{t+|id|pabrik}}
 * Interlingua: {{t|ia|fabrica}}
-* Irish: {{t|ga|mhonarcha}}, {{t+|ga|monarcha|f}}, {{t|ga|gléasra|m}}
+* Irish: {{t|ga|gléasra|m}}, {{t+|ga|monarcha|f}}
 * Italian: {{t+|it|fabbrica|f}}, {{t+|it|impianto|m}}, {{t+|it|manifattura|f}}, {{t+|it|stabilimento|m}}
-* Japanese: {{t+|ja|工場|tr=こうじょう, kōjō|sc=Jpan}}
+* Japanese: {{t+|ja|工場|tr=こうじょう, kōjō}}
 * Kalmyk: {{t|xal|фабрик}}
 * Kashubian: {{t|csb|fabrika|f}}
 * Kazakh: {{t|kk|зауыт}}, {{t+|kk|фабрика}}
 * Khmer: {{t+|km|រោងចក្រ}}, {{t+|km|កម្មន្តសាល}}, {{t|km|ការណដ្ឋាន}}
 * Korean: {{t+|ko|공장}} ({{t+|ko|工場}})
 * Kurdish:
-*: Sorani: {{t+|ku|کارگه‌|sc=ku-Arab}}, {{t+|ku|کارخانه‌|sc=ku-Arab}}
+*: Sorani: {{t+|ku|کارگه‌}}, {{t+|ku|کارخانه‌}}
 * Kyrgyz: {{t+|ky|фабрика}}, {{t+|ky|завод}}, {{t+|ky|зоот}}
 * Lao: {{t+|lo|ໂຮງງານ}}
 * Latin: {{t|la|opificīna|f}}, {{t|la|officīna|f}}
@@ -112,12 +110,12 @@ From {{etyl|frm|en}} {{m|frm|factorie}}, from {{etyl|ML.|en}} {{m|la|factoria}},
 * Malay: {{t|ms|kilang}}, {{t|ms|pabrik}}
 * Maltese: {{t|mt|fabbrika|f}}
 * Maori: {{t|mi|wheketere}}, {{t|mi|wharemahi}}
-* Mongolian: {{t|mn|үйлдвэрийн газар}}, {{t+|mn|завод}}, {{t+|mn|үйлдвэр|sc=Cyrl}}
+* Mongolian: {{t|mn|үйлдвэрийн газар}}, {{t+|mn|завод}}, {{t+|mn|үйлдвэр}}
 * Neapolitan: {{t|nap|fràveca|f}}
 * Northern Sami: {{t|se|fabrihkka}}
 * Norwegian: {{t+|no|fabrikk|m}}
 * Pashto: {{t+|ps|کارخانه|f|tr=kārxāná}}, {{t+|ps|فابريکه|f|tr=fābriká}}, {{t|ps|منډاو|m|tr=manḍãw}}, {{t|ps|کارګاه|m|tr=kārgãh}}
-* Persian: {{t+|fa|کارخانه|tr=kârxâne}}, {{t|fa|فابریکه|tr=fâbrike|sc=fa-Arab}}
+* Persian: {{t+|fa|کارخانه|tr=kârxâne}}, {{t|fa|فابریکه|tr=fâbrike}}
 * Polish: {{t+|pl|fabryka|f}}, {{t+|pl|zakład|m}}
 * Portuguese: {{t+|pt|fábrica|f}}, {{t+|pt|usina|f}}
 * Romanian: {{t+|ro|fabrică|f}}, {{t+|ro|uzină|f}}
@@ -125,10 +123,10 @@ From {{etyl|frm|en}} {{m|frm|factorie}}, from {{etyl|ML.|en}} {{m|la|factoria}},
 * Russian: {{t+|ru|фа́брика|f}}, {{t+|ru|заво́д|m}}, {{t+|ru|комбина́т|m}}
 * Scottish Gaelic: {{t|gd|taigh-oibre|m}}, {{t|gd|taigh-gnìomhachais|m}}, {{t|gd|taigh-ceàirde|m}}, {{t|gd|taigh-tionnsgain|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|фабрика|f|sc=Cyrl}}, {{t|sh|творница|f|sc=Cyrl}}
-*: Roman: {{t+|sh|fabrika|f}}, {{t+|sh|tvornica|f}}
+*: Cyrillic: {{t|sh|фа̀брика|f}} {{q|Bosnia, Serbia}}, {{t|sh|тво́рница|f}} {{q|Croatia}}
+*: Roman: {{t+|sh|fàbrika|f}} {{q|Bosnia, Serbia}}, {{t+|sh|tvórnica|f}} {{q|Croatia}}
 * Shan: {{t|shn|ႁူင်းၸၢၵ်ႈ}}
-* Sinhalese: {{t|si|පැක්ටරි}}
+* Sinhalese: {{t|si|පැක්ටරි|?}}
 * Slovak: {{t|sk|továreň|f}}, {{t+|sk|fabrika|f}}
 * Slovene: {{t+|sl|tovarna|f}}, {{t|sl|fabrika|f}}
 * Sorbian:
@@ -139,7 +137,7 @@ From {{etyl|frm|en}} {{m|frm|factorie}}, from {{etyl|ML.|en}} {{m|la|factoria}},
 * Swahili: {{t+|sw|karakana}}
 * Swedish: {{t+|sv|fabrik|c}}
 * Tagalog: {{t|tl|pabrika}}, {{t|tl|pagawaan}}
-* Tajik: {{t|tg|корхона}}, {{t|tg|завод|sc=Cyrl}}, {{t|tg|фабрика|sc=Cyrl}}
+* Tajik: {{t|tg|корхона}}, {{t|tg|завод}}, {{t|tg|фабрика}}
 * Tatar: {{t|tt|фабрика}}
 * Telugu: {{t|te|కర్మాగారం}}
 * Thai: {{t+|th|โรงงาน}}
@@ -147,7 +145,7 @@ From {{etyl|frm|en}} {{m|frm|factorie}}, from {{etyl|ML.|en}} {{m|la|factoria}},
 * Turkish: {{t+|tr|fabrika}}, {{t+|tr|tesis}}
 * Turkmen: {{t|tk|fabrika}}, {{t|tk|fabrik}}, {{t+|tk|zawod}}
 * Ukrainian: {{t|uk|фа́брика|f}}, {{t+|uk|заво́д|m}}
-* Urdu: {{t|ur|کارخانہ|m|tr=kārkhānā|sc=ur-Arab}}, {{t|ur|فیکٹری|f|tr=faikṭarī|sc=ur-Arab}}
+* Urdu: {{t|ur|کارخانہ|m|tr=kārkhānā}}, {{t|ur|فیکٹری|f|tr=faikṭarī}}
 * Uyghur: {{t|ug|فابرىكا}}, {{t|ug|زاۋۇت}}
 * Uzbek: {{t+|uz|zavod}}, {{t+|uz|fabrika}}
 * Vietnamese: {{t+|vi|nhà máy}}
@@ -188,6 +186,6 @@ From {{etyl|frm|en}} {{m|frm|factorie}}, from {{etyl|ML.|en}} {{m|la|factoria}},
 {{en-adj|-}}
 
 # {{lb|en|colloquial|of a configuration, part, etc.}} Having come from the factory in the state it is currently in; [[original]], [[stock]].
-#: ''See how there's another layer of metal there? That's not '''factory'''.''
+#: {{ux|en|See how there's another layer of metal there? That's not '''factory'''.}}
 
 [[Category:en:Buildings]]
