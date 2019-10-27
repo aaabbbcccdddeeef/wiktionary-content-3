@@ -1,12 +1,13 @@
 ==English==
 
 ===Etymology===
-From {{suffix|en|afford|ance}}; coined in 1977 by psychologist {{w|James J. Gibson|J. J. Gibson}}.
+From {{suffix|en|afford|ance}}; coined in 1977 by psychologist {{w|James J. Gibson}}, and adopted in 1988 by Donald Norman in the context of human-machine interaction.
 
 ===Noun===
 {{en-noun}}
 
-# A [[potential]] [[transaction]] that is made possible by a given object or [[environment]]; ''especially'', one that is made easily discoverable.
+# Anything that is [[provide]]d or [[furnish]]ed by an [[environment]] to an [[organism]] dwelling within it, whether good or bad.
+# {{lb|en|human-machine interaction}} A [[potential]] [[transaction]] or [[operation]] that is made possible by a given object or [[environment]]; ''especially'', one that is made easily discoverable.
 #* {{quote-book
 |en
 |year=1988
@@ -17,6 +18,8 @@ From {{suffix|en|afford|ance}}; coined in 1977 by psychologist {{w|James J. Gibs
 |location=New York
 |title=The Design of Everyday Things 
 |passage='''Affordances''' provide strong clues to the operations of things. Plates are for pushing. Knobs are for turning. Slots are for inserting things into. Balls are for throwing or bouncing. When '''affordances''' are taken advantage of, the user knows what to do by just looking: no pictures, label, or instruction is required.}}
+# {{lb|en|GUI|by extension}} Any [[interactive]] [[control]] or [[component]] serving as a [[cue]] to the user to take some action.
+#: ''The grab handles on the edges of this image are '''affordances''' that the user can exploit to change the size of the image.''
 
 ====Related terms====
 * {{l|en|affordant}}
