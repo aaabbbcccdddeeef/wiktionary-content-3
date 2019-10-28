@@ -54,7 +54,7 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Azerbaijani: {{t+|az|xristian}}
 * Banjarese: {{t|bjn|Kerestén}}
 * Belarusian: {{t|be|хрысція́нін|m}}, {{t|be|хрысція́нка|f}}
-* Bengali: {{t|bn|খ্রীষ্টান|tr=khrishţan}}
+* Bengali: {{t|bn|খ্রীষ্টান}}
 * Bulgarian: {{t|bg|християнин|m}}, {{t|bg|христия́нка|f}}
 * Burmese: {{t+|my|ခရစ်ယာန်}}
 * Catalan: {{t+|ca|cristià|m}}, {{t+|ca|cristiana|f}}
@@ -75,13 +75,13 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Greek: {{t+|el|χριστιανός|m}}, {{t+|el|χριστιανή|f}}
 *: Ancient: {{t|grc|χριστεπώνυμος|m}}, {{t|grc|χριστιανός|m}}
 * Hebrew: {{t|he|נוֹצְרִי|m|tr=notsrí}}, {{t|he|נוצרייה|f|alt=נוֹצְרִיָה|tr=notsriyá}}
-* Hindi: {{t+|hi|ईसाई|tr=īsā'ī}}
+* Hindi: {{t+|hi|ईसाई}}
 * Hungarian: {{t+|hu|keresztény}}, {{t|hu|keresztyén}}
 * Hunsrik: {{t|hrx|Krist|m}}, {{t|hrx|Kristin|f}}
 * Indonesian: {{t+|id|Kristen}}, {{t+|id|Nasrani}}
 * Irish: {{t|ga|Críostaí|m}}
 * Italian: {{t+|it|cristiano|m}}, {{t+|it|cristiana|f}}
-* Japanese: {{t|ja|クリスチャン|tr=kurisuchan}}, {{t|ja|キリスト教徒|tr=kirisuto kyōto}}
+* Japanese: {{t|ja|クリスチャン|tr=kurisuchan}}, {{t|ja|キリスト教徒|tr=Kirisuto kyōto}}
 * Kazakh: {{t+|kk|христиан|sc=Cyrl}}
 * Khmer: {{t|km|អ្នកគ្រិស្ទាន|tr=neak krɨstien}}
 * Korean: {{t|ko|그리스도인}}, {{t+|ko|기독교도}}, {{t+|ko|크리스천}}
@@ -91,7 +91,7 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Latvian: {{t|lv|kristietis|m}}
 * Lithuanian: {{t|lt|krikščionis|m}}, {{t|lt|krikščionė|f}}
 * Ma'anyan: {{t|mhy|Karistén}}
-* Macedonian: {{t|mk|христијанин|m|tr=hristíjanin}}, {{t|mk|христијанка|f|tr=hristíjanka}}
+* Macedonian: {{t|mk|христијанин|m}}, {{t|mk|христијанка|f}}
 {{trans-mid}}
 * Malay: {{t|ms|Kristian}}
 * Maltese: {{t|mt|Kristjan|m}}, {{t|mt|Kristjana|f}}, {{t|mt|Nisrani|m}}, {{t|mt|Nisranija|f}}
@@ -135,7 +135,7 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Uzbek: {{t+|uz|xristian}}
 * Venetian: {{t|vec|cristian|m}}, {{t|vec|crestian|m}}, {{t|vec|cristcian|m}}
 * Vietnamese: {{t|vi|người theo đạo Cơ đốc}}
-* Volapük: {{qualifier|♂♀}} {{t+|vo|kritan}}, {{qualifier|♂}} {{t|vo|hikritan}}, {{qualifier|♀}} {{t+|vo|jikritan}}
+* Volapük: {{t+|vo|kritan|m|f}}, {{t|vo|hikritan|m}}, {{t+|vo|jikritan|f}}
 * Walloon: {{t+|wa|crustin}}
 * Welsh: {{t+|cy|Cristion|m}}
 * Yiddish: {{t|yi|קריסט|m}}
@@ -345,7 +345,7 @@ From {{der|ceb|en|Christian}}, from {{der|ceb|la|Christianus}}, from {{der|ceb|g
 {{der|da|la|Christianus}}.
 
 ===Pronunciation===
-* {{IPA|da|[ˈkʰʁæsd̥jan]}}
+* {{IPA|da|[ˈkʰʁɛsd̥jan]}}
 
 ===Proper noun===
 {{da-proper noun}}
@@ -371,7 +371,7 @@ From {{der|ceb|en|Christian}}, from {{der|ceb|la|Christianus}}, from {{der|ceb|g
 ==French==
 
 ===Pronunciation===
-* {{IPA|fr|/kʁis.tjɑ̃/}}
+* {{fr-IPA}}
 
 ===Proper noun===
 {{fr-proper noun}}
