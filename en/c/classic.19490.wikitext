@@ -5,7 +5,7 @@
 * {{alter|en|classick||obsolete}}
 
 ===Etymology===
-From {{etyl|fr|en}} {{m|fr|classique|}}, from {{etyl|la|en}} {{m|la|classicus||relating to the classes of Roman citizenry, especially the highest}}, from {{m|la|classis|}}
+From {{bor|en|fr|classique|}}, from {{der|en|la|classicus|t=relating to the classes of Roman citizenry, especially the highest}}, from {{m|la|classis}}
 
 ===Pronunciation===
 * {{IPA|en|/ˈklæ.sɪk/}}
@@ -30,21 +30,20 @@ From {{etyl|fr|en}} {{m|fr|classique|}}, from {{etyl|la|en}} {{m|la|classicus||r
 #: {{ux|en|Users who dislike the new visual layout can return to '''classic''' mode.}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|classical}}
-* {{l|en|classic example}}
-* {{l|en|classic female blues}}
-* {{l|en|classic rock}}
-{{der-mid}}
-* {{l|en|classic skiing}}
-* {{l|en|fall classic}}
-{{der-bottom}}
+{{col3|en
+|classical
+|classic example
+|classic female blues
+|classic rock
+|classic skiing
+|fall classic
+}}
 
 ====Translations====
 {{trans-top|of or relating to the first class or rank}}
 * Finnish: {{t+|fi|klassinen}}
-{{trans-mid}}
 * Hungarian: {{t+|hu|elsőrangú}}
+{{trans-mid}}
 * Maori: {{t|mi|tauhira}}
 {{trans-bottom}}
 
@@ -68,7 +67,8 @@ From {{etyl|fr|en}} {{m|fr|classique|}}, from {{etyl|la|en}} {{m|la|classicus||r
 * Polish: {{t+|pl|klasyczny|m}}
 * Portuguese: {{t+|pt|clássico}}
 * Russian: {{t+|ru|класси́ческий}}
-* Serbo-Croatian: {{t+|sh|klàsičan}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|klàsičan}}
 * Slovene: {{t+|sl|klasičen}}
 * Spanish: {{t+|es|clásico}}
 * Swedish: {{t+|sv|klassisk}}
@@ -93,7 +93,8 @@ From {{etyl|fr|en}} {{m|fr|classique|}}, from {{etyl|la|en}} {{m|la|classicus||r
 * Mongolian: {{t-needed|mn}}
 * Polish: {{t+|pl|klasyczny|m}}
 * Portuguese: {{t+|pt|clássico}}
-* Serbo-Croatian: {{t+|sh|klàsičan}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|klàsičan}}
 * Swedish: {{t+|sv|tidlös}}, {{t+|sv|klassisk}}
 {{trans-bottom}}
 
@@ -126,7 +127,7 @@ From {{etyl|fr|en}} {{m|fr|classique|}}, from {{etyl|la|en}} {{m|la|classicus||r
 * Afrikaans: {{t+|af|klassieke}}
 * Bulgarian: {{t+|bg|образе́ц|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|典型|tr=diǎnxíng|sc=Hani}}
+*: Mandarin: {{t+|cmn|典型|tr=diǎnxíng}}
 * Finnish: {{t+|fi|klassikko}}
 * French: {{t+|fr|classique|m}}
 {{trans-mid}}
@@ -142,7 +143,7 @@ From {{etyl|fr|en}} {{m|fr|classique|}}, from {{etyl|la|en}} {{m|la|classicus||r
 * Afrikaans: {{t+|af|klassieke}}
 * Bulgarian: {{t+|bg|кла́сика|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|經典|sc=Hani}}, {{t+|cmn|经典|tr=jīngdiǎn|sc=Hani}}, {{t+|cmn|名著|tr=míngzhù|sc=Hani}}
+*: Mandarin: {{t+|cmn|經典}}, {{t+|cmn|经典|tr=jīngdiǎn}}, {{t+|cmn|名著|tr=míngzhù}}
 * Finnish: {{t+|fi|klassikko}}
 * French: {{t+|fr|classique|m}}
 {{trans-mid}}
@@ -150,7 +151,7 @@ From {{etyl|fr|en}} {{m|fr|classique|}}, from {{etyl|la|en}} {{m|la|classicus||r
 * Hungarian: {{t+|hu|klasszikus}}
 * Irish: {{t|ga|clasaic|f}}, {{t|ga|clasaiceach|m}}
 * Italian: {{t+|it|classico|m}}
-* Japanese: {{t|ja|クラシック|tr=kurashikku|sc=Jpan}}, {{t+|ja|古典|tr=こてん, koten|sc=Jpan}}
+* Japanese: {{t|ja|クラシック|tr=kurashikku}}, {{t+|ja|古典|tr=こてん, koten}}
 * Korean: {{t+|ko|고전}}, {{t+|ko|클래식}}
 * Portuguese: {{t+|pt|clássico|m}}
 * Russian: {{t+|ru|кла́ссика|f}}
@@ -158,8 +159,8 @@ From {{etyl|fr|en}} {{m|fr|classique|}}, from {{etyl|la|en}} {{m|la|classicus||r
 
 {{trans-top|author}}
 * Armenian: {{t+|hy|դասական}}
-{{trans-mid}}
 * Finnish: {{t+|fi|klassikko}}
+{{trans-mid}}
 * Hungarian: {{t+|hu|klasszikus}}
 {{trans-bottom}}
 
