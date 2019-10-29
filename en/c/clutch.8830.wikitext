@@ -49,7 +49,7 @@ Alternative etymology derives {{cog|ang|clyċċan}} from {{der|en|gem-pro|*klēk
 {{trans-mid}}
 * Italian: {{t+|it|avvinghiare}}
 * Japanese: {{t+|ja|掴む|tr=つかむ, tsukamu|sc=Jpan}}
-* Macedonian: {{t|mk|фаќа|tr=fáḱa|sc=Cyrl}}, {{t|mk|зграпчува|tr=zgrápčuva|sc=Cyrl}}
+* Macedonian: {{t|mk|фаќа}}, {{t|mk|зграпчува}}
 * Maori: {{t|mi|whakakopa}}, {{t|mi|kapokapo}}
 * Portuguese: {{t+|pt|agarrar}}
 * Romanian: {{t+|ro|agăța}}, {{t+|ro|apuca}}
@@ -164,12 +164,12 @@ Alternative etymology derives {{cog|ang|clyċċan}} from {{der|en|gem-pro|*klēk
 * Latvian: {{t|lv|sajūgs|m}}
 * Macedonian: {{t|mk|квачило|n}}, {{t|mk|спојка|f}}, {{t|mk|куплунг|m}}
 * Norwegian: {{t|no|clutchpedal|m}}, {{t|no|kløtsjpedal|m}}, {{t|no|koblingspedal|m}}
-* Polish: {{t+|pl|sprzęgło|n}}, [[pedał]] sprzęgła {{g|m}}
+* Polish: {{t+|pl|sprzęgło|n}}, {{t|pl|[[pedał]] [[sprzęgło|sprzęgła]]|m}}
 * Portuguese: {{t+|pt|embraiagem|f}}, {{t+|pt|embreagem|f}}
 * Romanian: {{t|ro|pedală de ambreiaj|f}}
 * Russian: {{t|ru|педа́ль сцепле́ния|f}}
 * Serbo-Croatian: {{t|sh|квачило|n}}, {{t|sh|спојка|f}}, {{t|sh|куплунг|m}}, {{t+|sh|kvačilo}}, {{t+|sh|spojka}}, {{t+|sh|kuplung}}
-* Spanish: [[cloch]] {{g|m}} {{qualifier|Colombia|Costa Rica|Honduras|Mexico|Nicaragua}}, [[cloche]] {{qualifier|Caribbean Islands|Colombian Atlantic Coast|Venezuela}}, clutch {{qualifier|Colombia|El Salvador|Guatemala|Mexico|Panama|Peru - pronounced 'cloch'}} {{g|m}}, [[croche]] {{g|m}} {{qualifier|Venezuela}}, [[embrague]] {{g|m}} {{qualifier|Argentina|Bolivia|Chile|Ecuador|Paraguay|Spain|Uruguay}}
+* Spanish: {{t|es|cloch|m}} {{qualifier|Colombia|Costa Rica|Honduras|Mexico|Nicaragua}}, {{t|es|cloche|m}} {{qualifier|Caribbean Islands|Colombian Atlantic Coast|Venezuela}}, {{t|es|clutch|m}} {{qualifier|Colombia|El Salvador|Guatemala|Mexico|Panama|Peru}}, {{t|es|croche|m}} {{qualifier|Venezuela}}, {{t|es|embrague|m}} {{qualifier|Argentina|Bolivia|Chile|Ecuador|Paraguay|Spain|Uruguay}}
 * Swedish: {{t|sv|kopplingspedal}}, {{t+|sv|koppling|c}}
 * Tagalog: {{t+|tl|daklot}}
 * Turkish: {{t+|tr|debriyaj}}
@@ -179,7 +179,7 @@ Alternative etymology derives {{cog|ang|clyċċan}} from {{der|en|gem-pro|*klēk
 * Finnish: {{t|fi|kirjekuorilaukku}}
 * Portuguese: {{t|pt|bolsa carteira}}
 {{trans-mid}}
-* Russian: {{t+|ru|клатч|m}}, {{l|ru|су́мка}}-{{l|ru|клатч|g=f}}, {{t+|ru|ридикю́ль|m}}
+* Russian: {{t+|ru|клатч|m}}, {{t|ru|[[су́мка]]-[[клатч]]|f}}, {{t+|ru|ридикю́ль|m}}
 {{trans-bottom}}
 
 ===Etymology 2===
@@ -309,6 +309,9 @@ From {{der|nn|en|clutch}}
 ----
 
 ==Spanish==
+
+===Pronunciation===
+* {{es-IPA|cloch}}
 
 ===Noun===
 {{es-noun|m|clutches}}
