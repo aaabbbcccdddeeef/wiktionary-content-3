@@ -19,30 +19,28 @@ When applied to whole numbers, multiplication can be considered as repeated addi
 #*: If the lesser nobility have remained more numerous, it must be attributed partly to the gradual '''multiplication''' of letters of nobility, and partly to the state of indigence in which in some provinces vast numbers of the gentry lived, and which left them strangers to those habits of caution by which opulent families are governed.
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|cross-multiplication}}
-* {{l|en|demultiplication}}
-* {{l|en|multiplication sign}}
-{{der-mid}}
-* {{l|en|multiplication table}}
-* {{l|en|scalar multiplication}}
-{{der-bottom}}
+{{col3|en
+|cross-multiplication
+|demultiplication
+|multiplication sign
+|multiplication table
+|scalar multiplication
+}}
 
 ====Related terms====
-{{rel-top}}
-* {{l|en|multi-}}
-* {{l|en|multiplicand}}
-* {{l|en|multiplicative}}
-{{rel-mid}}
-* {{l|en|multiplicity}}
-* {{l|en|multiply}}
-{{rel-bottom}}
+{{col3|en
+|multi-
+|multiplicand
+|multiplicative
+|multiplicity
+|multiply
+}}
 
 ====Translations====
 {{trans-top|process}}
 * Arabic: {{t+|ar|ضَرْب|m}}
 * Armenian: {{t+|hy|բազմապատկում}}
-* Bashkir: {{t|ba|ҡабатлау|sc=Cyrl}}
+* Bashkir: {{t|ba|ҡабатлау}}
 * Belarusian: {{t|be|мно́жанне|n}}
 * Bulgarian: {{t+|bg|умноже́ние|n}}
 * Catalan: {{t+|ca|multiplicació|f}}
@@ -81,7 +79,7 @@ When applied to whole numbers, multiplication can be considered as repeated addi
 * Persian: {{t+|fa|ضرب|tr=zarb}}
 * Polish: {{t+|pl|mnożenie|n}}
 * Portuguese: {{t+|pt|multiplicação|f}}
-* Romanian: {{t+|ro|multiplicare|f}}, {{t+|ro|înmulțire}}, {{t+|ro|multiplicație|f}}
+* Romanian: {{t+|ro|multiplicare|f}}, {{t+|ro|înmulțire|?}}, {{t+|ro|multiplicație|f}}
 * Russian: {{t+|ru|умноже́ние|n}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|мно̀же̄ње|n}}
@@ -94,17 +92,17 @@ When applied to whole numbers, multiplication can be considered as repeated addi
 * Telugu: {{t+|te|గుణకారము}}
 * Turkish: {{t+|tr|çarpma}}, {{t|tr|çarpma işlemi}}
 * Ukrainian: {{t|uk|мно́ження|n}}
-* Urdu: {{t|ur|ضرب|tr=zarb}}
+* Urdu: {{t|ur|ضرب|?|tr=zarb}}
 * Uzbek: {{t+|uz|koʻpaytirish}}, {{t+|uz|koʻpaytirish}}
 * Vietnamese: {{t+|vi|phép nhân}}
-* West Frisian: {{t|fy|fermannichfâldiging}}
+* West Frisian: {{t|fy|fermannichfâldiging|?}}
 * Westrobothnian: {{t|gmq-bot|gaang|f}}
 {{trans-bottom}}
 
 {{trans-top|calculation}}
 * Arabic: {{t+|ar|ضَرْب|m}}
 * Armenian: {{t+|hy|բազմապատկում}}
-* Bashkir: {{t|ba|ҡабатлау|sc=Cyrl}}
+* Bashkir: {{t|ba|ҡабатлау}}
 * Belarusian: {{t|be|мно́жанне|n}}
 * Bulgarian: {{t+|bg|умноже́ние|n}}
 * Cebuano: {{t|ceb|pagpilo-pilo}}
@@ -130,7 +128,9 @@ When applied to whole numbers, multiplication can be considered as repeated addi
 * Portuguese: {{t+|pt|multiplicação|f}}
 * Romanian: {{t+|ro|înmulțire|f}}, {{t+|ro|multiplicare|f}}, {{t+|ro|multiplicație|f}}
 * Russian: {{t+|ru|умноже́ние|n}}
-* Serbo-Croatian: {{t+|sh|množenje|n}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|мно̀же̄ње|n}}
+*: Roman: {{t+|sh|mnòžēnje|n}}
 * Swedish: {{t+|sv|multiplikation|c}}
 * Tagalog: {{t|tl|palaramihan}}
 * Turkish: {{t|tr|çarpma işlemi}}
