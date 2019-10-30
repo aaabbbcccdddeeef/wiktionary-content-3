@@ -11,7 +11,9 @@ From the past participle of {{m|en|nim|t=to take}}. Compare {{cog|de|benommen|t=
 {{en-adj|er}}
 
 # [[physical|Physically]] unable to [[feel]], not having the power of [[sensation]].
-#: ''fingers '''numb''' with cold; legs '''numb''' from kneeling''
+#: {{ux|en|fingers '''numb''' with cold}}
+#: {{ux|en|legs '''numb''' from kneeling}}
+#: {{syn|en|deadened|insensible}}
 # [[emotion|Emotionally]] unable to [[feel]] or [[respond]] in a normal way.
 #: '''''numb''' with shock; '''numb''' with boredom''
 #* '''1915''', {{w|Nellie McClung}}, ''In Times Like These'', Toronto: McLeod & Allen, Chapter 2,<sup>[https://www.gutenberg.org/files/29861/29861-h/29861-h.htm]</sup>
@@ -20,27 +22,23 @@ From the past participle of {{m|en|nim|t=to take}}. Compare {{cog|de|benommen|t=
 #*: {{...}} seeing the dog—somehow that made me feel again. I’d been too dazed, too '''numb''', to feel the full viciousness of it.
 #* '''2016''', {{w|Julian Barnes}}, ''{{w|The Noise of Time}}'', Random House Canada, Part Three,<sup>[https://books.google.ca/books?id=1xt2CgAAQBAJ&printsec=frontcover#v=onepage&q&f=false]</sup>
 #*: {{...}} he submitted {{...}} as a traitor, his mind '''numb''' with vodka, submits to a firing squad.
+#: {{syn|en|stunned}}
 # {{lb|en|obsolete}} Causing [[numbness]].
 #* {{circa|1592}} {{w|William Shakespeare}}, ''{{w|Richard III (play)|Richard III}}'', Act II, Scene 1,<sup>[http://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=richard3&Scope=entire&pleasewait=1&msg=pl]</sup>
 #*: {{...}} he did lap me
 #*: Even in his own garments, and gave himself,
 #*: All thin and naked to the '''numb''' cold night.
 
-====Synonyms====
-* {{sense|physically unable to feel}} {{l|en|deadened}}, {{l|en|insensible}}
-* {{sense|emotionally unable to feel}} {{l|en|stunned}}
-
 ====Antonyms====
 * {{l|en|sensible}}, {{l|en|sensitive}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|benumb}}
-* {{l|en|numbly}}
-{{der-mid}}
-* {{l|en|numbness}}
-* {{l|en|numbnuts}}
-{{der-bottom}}
+{{col4|en
+|benumb
+|numbly
+|numbness
+|numbnuts
+}}
 
 ====Related terms====
 * {{l|en|numskull}}
@@ -61,12 +59,12 @@ From the past participle of {{m|en|nim|t=to take}}. Compare {{cog|de|benommen|t=
 * German: {{t+|de|taub}}, {{t+|de|benommen}}, {{t+|de|betäubt}}, {{t+|de|gefühllos}}, {{t+|de|starr}}
 * Greek: {{t+|el|ναρκωμένος}}
 *: Ancient: {{t|grc|ἀναίσθητος}}
-* Hebrew: {{t|he|רדום|m|tr=radúm|sc=Hebr}} {{qualifier|slang}}, {{t|he|רדומה|f|tr=redumá|sc=Hebr}} {{qualifier|slang}}, {{t|he|נרדם|m|tr=nirdám|sc=Hebr}} {{qualifier|slang}}, {{t|he|נרדמה|f|tr=nirdemá|sc=Hebr}} {{qualifier|slang}}
+* Hebrew: {{t|he|רדום|m|tr=radúm}} {{qualifier|slang}}, {{t|he|רדומה|f|tr=redumá}} {{qualifier|slang}}, {{t|he|נרדם|m|tr=nirdám}} {{qualifier|slang}}, {{t|he|נרדמה|f|tr=nirdemá}} {{qualifier|slang}}
 * Hungarian: {{t+|hu|dermedt}}, {{t+|hu|zsibbadt}}, {{t|hu|meggémberedett}}, {{t+|hu|kábult}}, {{t+|hu|eltompult}}
 * Hunsrik: {{t|hrx|daab}}
 * Italian: {{t+|it|intorpidito|m}}, {{t+|it|intorpidita|f}}
-* Japanese: {{t|ja|無感覚|alt=無感覚な|tr=mukankaku na}}
-* Khmer: {{t+|km|ស្រយង់|tr=srɑyɑŋ|sc=Khmr}}, {{t+|km|ស្គឹះ|tr=skɨh|sc=Khmr}}, {{t+|km|សំទក់|tr=sɑmtʊək|sc=Khmr}}
+* Japanese: {{t|ja|無感覚|tr=mukankaku na|alt=無感覚な}}
+* Khmer: {{t+|km|ស្រយង់|tr=srɑyɑŋ}}, {{t+|km|ស្គឹះ|tr=skɨh}}, {{t+|km|សំទក់|tr=sɑmtʊək}}
 * Korean: {{t|ko|마비되는}}
 * Kurdish:
 *: Central Kurdish: {{t|ckb|سِڕ}}
@@ -79,7 +77,7 @@ From the past participle of {{m|en|nim|t=to take}}. Compare {{cog|de|benommen|t=
 * Norman: {{t|nrf|gourd}}
 * Norwegian:
 *: Bokmål: {{t|no|nummen}}
-* Persian: {{t+|fa|بیحس}}, {{t+|fa|کرخ|tr=kerex|sc=fa-Arab}}
+* Persian: {{t+|fa|بیحس}}, {{t+|fa|کرخ|tr=kerex}}
 * Polish: {{t|pl|odrętwiały|m}}
 * Portuguese: {{t|pt|entorpecido|m}}, {{t|pt|entorpecido|f|alt=entorpecida}}
 * Romanian: {{t+|ro|amorțit|m|n}}, [[amorțit|amorțită]] {{g|f}}
@@ -104,12 +102,14 @@ From the past participle of {{m|en|nim|t=to take}}. Compare {{cog|de|benommen|t=
 {{en-verb}}
 
 # {{lb|en|transitive}} To cause to become numb (physically or emotionally).
-#: ''The dentist gave me novocaine to '''numb''' my tooth before drilling, thank goodness.''
-#: ''When I first heard the news, I was '''numbed''' by the shock.''
+#: {{ux|en|The dentist gave me novocaine to '''numb''' my tooth before drilling, thank goodness.}}
+#: {{ux|en|When I first heard the news, I was '''numbed''' by the shock.}}
+#: {{syn|en|benumb}}
 # {{lb|en|transitive}} To cause (a feeling) to be less [[intense]].
-#: ''He turned to alcohol to '''numb''' his pain.''
+#: {{ux|en|He turned to alcohol to '''numb''' his pain.}}
 #* '''1861''', {{w|Elizabeth Gaskell}}, “The Grey Woman” in ''The Grey Woman and Other Tales'', London: Smith, Elder & Co.,<sup>[https://www.gutenberg.org/files/28636/28636-h/28636-h.htm]</sup>
 #*: [I was] thankful for the pain, which helped to '''numb''' my terror.
+#: {{syn|en|dull}}
 # {{lb|en|transitive}} To cause (the mind, [[faculty|faculties]], etc.) to be less [[acute]].
 #* '''1912''', {{w|Saki}}, “The Hounds of Fate” in ''The Chronicles of Clovis'', London: John Lane, p. 219,<sup>[https://archive.org/details/chroniclesofclov00sakirich]</sup>
 #*: {{...}} hunger, fatigue, and despairing hopelessness had '''numbed''' his brain {{...}}
@@ -117,15 +117,12 @@ From the past participle of {{m|en|nim|t=to take}}. Compare {{cog|de|benommen|t=
 #*: The noise, the rush of air past our ears, was positively terrific. It actually seemed to '''numb''' the senses and make it almost impossible to take in impressions at all.
 #* '''2004''', {{w|Cory Doctorow}}, ''{{w|Eastern Standard Tribe}}'', Chapter 13,<sup>[http://www.gutenberg.org/cache/epub/17028/pg17028-images.html]</sup>
 #*: [The sofa] exhaled a breath of trapped ancient farts, barf-smell, and antiseptic, the ''parfum de asylum'' that gradually '''numbed''' my nose to all other scents on the ward.
+#: {{syn|en|dull}}
 # {{lb|en|intransitive}} To become numb (especially physically).
 #* '''1918''', {{w|Lewis R. Freeman}}, ''Many Fronts'', London: John Murray, “Wonders of the Teleferica,” p. 270,<sup>[https://archive.org/details/manyfronts00freeiala]</sup>
 #*: {{...}} after fumbling with '''numbing''' fingers for ten or fifteen minutes, he waved his hand with a gesture of despair {{...}}
 #* '''1919''', {{w|Arthur Murray Chisholm}}, ''The Land of Strong Men'', New York: H.K. Fly, Chapter 18,<sup>[https://www.gutenberg.org/files/33612/33612-h/33612-h.htm]</sup>
 #*: {{...}} once more his feet began to '''numb'''. Again he got down and stamped the circulation going, but as soon as he began to ride again they '''numbed'''.
-
-====Synonyms====
-* {{sense|cause to become numb}} {{l|en|benumb}}
-* {{sense|cause to be less intense / less acute}} {{l|en|dull}}
 
 ====Derived terms====
 * {{l|en|mind-numbing}}
