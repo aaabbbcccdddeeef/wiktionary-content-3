@@ -23,23 +23,24 @@ From {{bor|en|la|līneāris}}, from {{m|la|līnea||line}} + {{m|la|-āris}} (adj
 #: {{ux|en|a [[linear meter]]}}
 
 ====Coordinate terms====
-* {{sense|pertaining to length}} {{l|en|areal}}, {{l|en|spacial}}, {{l|en|spatial}}
-* {{sense|one-dimensional unit}} {{l|en|square}}, {{l|en|cubic}}
+* {{sense|pertaining to length}} {{l|en|areal|spacial|spatial}}
+* {{sense|one-dimensional unit}} {{l|en|cubic|square}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|curvilinear}}
-* {{l|en|interlineal}}
-{{der-mid}}
-* {{l|en|interlinear}}
-* {{l|en|lineal}}
-* {{l|en|supralinear}}
-{{der-bottom}}
+{{col3|en
+|curvilinear
+|interlineal
+|interlinear
+|lineal
+|supralinear
+}}
 
 ====Related terms====
-* {{l|en|linear algebra}}
-* {{l|en|linear foot}}
-* {{l|en|linear meter}}, {{l|en|linear metre}}
+{{col3|en
+|{{l|en|linear algebra}}
+|{{l|en|linear foot}}
+|{{l|en|linear meter}}, {{l|en|linear metre}}
+}}
 
 ====Translations====
 {{trans-top|having the form of a line}}
@@ -106,15 +107,15 @@ From {{bor|en|la|līneāris}}, from {{m|la|līnea||line}} + {{m|la|-āris}} (adj
 * German: {{t+|de|linear}}
 {{trans-mid}}
 * Polish: {{t+|pl|liniowy|m}}
-* Russian: {{t+|ru|линейный|sc=Cyrl}}, {{t+|ru|одномерный|sc=Cyrl}}
+* Russian: {{t+|ru|линейный}}, {{t+|ru|одномерный}}
 * Spanish: {{t+|es|unidimensional}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 * French: {{qualifier|1,2}} {{t+check|fr|linéaire}}
-* Japanese: {{t-check|ja|リニア|tr=rinia|sc=Jpan}}, {{t+check|ja|リンネル|tr=rinneru|sc=Jpan}}, {{t-check|ja|線形|tr=senkei 1,2|sc=Jpan}}, {{t-check|ja|一次|tr=ichiji 2,3|sc=Jpan}}
+* Japanese: {{t-check|ja|リニア|tr=rinia}}, {{t+check|ja|リンネル|tr=rinneru}}, {{t-check|ja|線形|tr=senkei 1,2}}, {{t-check|ja|一次|tr=ichiji 2,3}}
 {{trans-mid}}
-* Korean: {{t+check|ko|선형|tr=1,2|sc=Kore}}, {{t+check|ko|일차|tr=2,3|sc=Kore}}
+* Korean: {{t+check|ko|선형}} {{q|1,2}}, {{t+check|ko|일차}} {{q|2,3}}
 {{trans-bottom}}
 
 ===Anagrams===
