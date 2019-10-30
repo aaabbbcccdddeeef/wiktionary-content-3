@@ -14,27 +14,24 @@ From {{inh|en|enm|respect}}, from {{der|en|fro|respect}}, also {{m|fro|respit||r
 {{en-noun|~}}
 
 # {{lb|en|uncountable}} an attitude of consideration or high [[regard#Noun|regard]]
-#: ''He is an intellectual giant, and I have great '''respect''' for him.''
-#: ''we do respect people for their dignity and worth.''
+#: {{ux|en|He is an intellectual giant, and I have great '''respect''' for him.}}
+#: {{ux|en|We do respect people for their dignity and worth.}}
+#: {{syn|en|deference|esteem|consideration|regard|fealty|reverence|aught}}
 # {{lb|en|uncountable}} good opinion, honor, or admiration
+#: {{syn|en|admiration|esteem|reverence|regard|recognition|veneration|honor}}
 # {{lb|en|uncountable|always plural}} Polite [[greetings]], often offered as [[condolences]] after a death.
-#: ''The mourners paid their last '''respects''' to the deceased poet.''
+#: {{ux|en|The mourners paid their last '''respects''' to the deceased poet.}}
 # {{lb|en|countable}} a particular [[aspect]], [[feature]] or [[detail]] of something
 #* '''1609''', {{w|William Shakespeare}}, Sonnet 36:
 #*: In our two loves there is but one '''respect'''
-#: ''This year's model is superior to last year's in several '''respects'''.''
+#: {{ux|en|This year's model is superior to last year's in several '''respects'''.}}
+#: {{syn|en|aspect|dimension|face|facet|side}}
 # Good will; favor
 #* '''1611''', {{w|King James Version}}, Exodus 2:25:
 #*: And God looked upon the children of Israel, and God had '''respect''' unto them.
 
 ====Usage notes====
 * Adjectives often applied to "respect": great, high, utmost, absolute
-
-====Synonyms====
-* {{sense|attitude of consideration}} {{l|en|deference}}, {{l|en|esteem}}, {{l|en|consideration}}, {{l|en|regard}}, {{l|en|fealty}}, {{l|en|reverence}}, {{l|en|aught}}
-* {{sense|good opinion}} {{l|en|admiration}}, {{l|en|esteem}}, {{l|en|reverence}}, {{l|en|regard}}, {{l|en|recognition}}, {{l|en|veneration}}, {{l|en|honor}}
-* {{sense|polite greetings, condolences}}
-* {{sense|aspect}} {{l|en|aspect}}, {{l|en|facet}}, {{l|en|face}}, {{l|en|side}}, {{l|en|dimension}}
 
 ====Antonyms====
 * {{l|en|belittlement}}
@@ -51,17 +48,16 @@ From {{inh|en|enm|respect}}, from {{der|en|fro|respect}}, also {{m|fro|respit||r
 * {{l|en|slight}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|final respects}}
-* {{l|en|in many respects}}
-* {{l|en|last respects}}
-* {{l|en|respectable}}
-{{der-mid}}
-* {{l|en|respectful}}
-* {{l|en|with all due respect}}
-* {{l|en|with respect}}
-* {{l|en|with respect to}}
-{{der-bottom}}
+{{col4|en
+|final respects
+|in many respects
+|last respects
+|respectable
+|respectful
+|with all due respect
+|with respect
+|with respect to
+}}
 
 ====Related terms====
 * {{l|en|respective}}
@@ -69,14 +65,14 @@ From {{inh|en|enm|respect}}, from {{der|en|fro|respect}}, also {{m|fro|respit||r
 ====Translations====
 {{trans-top|admiration for a person or entity because of perceived merit}}
 * Arabic: {{t+|ar|اِحْتِرَام|m}}
-*: Egyptian Arabic: {{t|arz|احترام|m|tr=ʾeḥtrām|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|احترام|m|tr=ʾeḥtrām}}
 *: Gulf Arabic: {{t|afb|احترام|m|tr=iḥtirām}}
 * Armenian: {{t+|hy|հարգանք}}
 * Azerbaijani: {{t+|az|hörmət}}
 * Breton: {{t+|br|doujañs|f}}
 * Catalan: {{t+|ca|respecte|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|尊重|tr=zūnzhòng|sc=Hani}}, {{t+|cmn|尊敬|tr=zūnjìng|sc=Hani}}
+*: Mandarin: {{t+|cmn|尊重|tr=zūnzhòng}}, {{t+|cmn|尊敬|tr=zūnjìng}}
 * Czech: {{t+|cs|respekt|m}}, {{t+|cs|úcta|f}}
 * Dutch: {{t+|nl|respect|m}}, {{t+|nl|achting|f}}, {{t+|nl|eerbied|f}}
 * Esperanto: {{t|eo|respekto}}, {{t|eo|altestimo}}
@@ -94,14 +90,14 @@ From {{inh|en|enm|respect}}, from {{der|en|fro|respect}}, also {{m|fro|respit||r
 * Icelandic: {{t+|is|virðing|f}}
 * Irish: {{t|ga|meas|m}}, {{t|ga|urraim|f}}, {{t|ga|oirmhidin|f}}
 * Italian: {{t+|it|rispetto|m}}
-* Japanese: {{t+|ja|尊敬|tr=sonkei|sc=Jpan}}, {{t+|ja|崇敬|tr=sūkei|sc=Jpan}}, {{t+|ja|尊重|tr=sonchō|sc=Jpan}}, {{t+|ja|重視|tr=jushi|sc=Jpan}}
-* Khmer: {{t|km|សមានការ|tr=sa’maanea’kaa|sc=Khmr}}, {{t+|km|ស្តុតិ|tr=sto’te’|sc=Khmr}}
+* Japanese: {{t+|ja|尊敬|tr=sonkei}}, {{t+|ja|崇敬|tr=sūkei}}, {{t+|ja|尊重|tr=sonchō}}, {{t+|ja|重視|tr=jushi}}
+* Khmer: {{t|km|សមានការ|tr=sa’maanea’kaa}}, {{t+|km|ស្តុតិ|tr=sto’te’}}
 * Korean: {{t+|ko|존중}} ({{t+|ko|尊重}}), {{t+|ko|경의}} ({{t+|ko|敬意}})
 * Kurdish:
 *: Sorani: {{t+|ku|ڕێز}}
-* Ladin: {{t|lld|respet}}
+* Ladin: {{t|lld|respet|?}}
 {{trans-mid}}
-* Latgalian: {{t|ltg|cīns}}
+* Latgalian: {{t|ltg|cīns|?}}
 * Latin: {{t|la|respectus|m}}, {{t|la|observantia|f}}, {{t|la|reverentia|f}}
 * Latvian: {{t|lv|cieņa}}
 * Lithuanian: {{t|lt|pagarba|f}}
@@ -111,15 +107,16 @@ From {{inh|en|enm|respect}}, from {{der|en|fro|respect}}, also {{m|fro|respit||r
 * Norwegian:
 *: Bokmål: {{t+|nb|respekt|m}}
 *: Nynorsk: {{t|nn|respekt|m}}
-* Persian: {{t+|fa|احترام|tr=ehterâm|sc=fa-Arab}}, {{t+|fa|ادب|tr=adab|sc=fa-Arab}}
+* Persian: {{t+|fa|احترام|tr=ehterâm}}, {{t+|fa|ادب|tr=adab}}
 * Polish: {{t+|pl|respekt|m}}, {{t+|pl|szacunek|m}}
 * Portuguese: {{t+|pt|respeito|m}}
-* Romanian: {{t+|ro|respect}}
+* Romanian: {{t+|ro|respect|?}}
 * Russian: {{t+|ru|уваже́ние|n}}, {{t+|ru|почте́ние|n}}
 * Sanskrit: {{t+|sa|आदर|m}}
 * Scottish Gaelic: {{t|gd|onair|f}}, {{t|gd|urram|m}}, {{t|gd|suim|f}}
-* Serbo-Croatian: {{t+|sh|poštovanje|n}}
-* Sicilian: {{t+|scn|rispettu}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|poštovánje|n}}
+* Sicilian: {{t+|scn|rispettu|?}}
 * Slovene: {{t+|sl|spoštovanje|n}}
 * Spanish: {{t+|es|respeto|m}}
 * Swahili: {{t+|sw|adabu}}
@@ -127,7 +124,7 @@ From {{inh|en|enm|respect}}, from {{der|en|fro|respect}}, also {{m|fro|respit||r
 * Telugu: {{t+|te|గౌరవం}}
 * Thai: {{t+|th|ความเคารพ}}
 * Turkish: {{t+|tr|saygı}}, {{t+|tr|hürmet}}
-* Urdu: {{t|ur|آدر|m|tr=ādar|sc=ur-Arab}}, {{t|ur|احترام|m|tr=ihtirām|sc=ur-Arab}}
+* Urdu: {{t|ur|آدر|m|tr=ādar}}, {{t|ur|احترام|m|tr=ihtirām}}
 * Vietnamese: {{t+|vi|tôn trọng|alt=sự tôn trọng}}
 * Welsh: {{t+|cy|parch|m}}
 * Westrobothnian: {{t|gmq-bot|lydn|m}}, {{t|gmq-bot|lidn|m}}, {{t|gmq-bot|stäv|n}}
@@ -135,7 +132,7 @@ From {{inh|en|enm|respect}}, from {{der|en|fro|respect}}, also {{m|fro|respit||r
 
 {{trans-top|good opinion, honor, or admiration}}
 * Italian: {{t+|it|rispetto|m}}
-* Japanese: {{t+|ja|尊敬|tr=sonkei|sc=Jpan}}, {{t+|ja|崇敬|tr=sūkei|sc=Jpan}}
+* Japanese: {{t+|ja|尊敬|tr=sonkei}}, {{t+|ja|崇敬|tr=sūkei}}
 * Norwegian:
 *: Bokmål: {{t+|nb|respekt|m}}
 *: Nynorsk: {{t|nn|respekt|m}}
@@ -163,7 +160,7 @@ From {{inh|en|enm|respect}}, from {{der|en|fro|respect}}, also {{m|fro|respit||r
 * Hungarian: {{t+|hu|vonatkozás}}, {{t+|hu|szempont}}
 * Icelandic: {{t+|is|leyti|n}}
 * Norwegian:
-*: Bokmål: {{t+|nb|måte|m}}, {{t+|nb|aspekt|n}}, {{t|nb|henseende}}
+*: Bokmål: {{t+|nb|måte|m}}, {{t+|nb|aspekt|n}}, {{t|nb|henseende|?}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|respeito|m}}
 * Spanish: {{t+|es|respeto|m}}
