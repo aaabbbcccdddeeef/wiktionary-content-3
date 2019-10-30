@@ -3,7 +3,7 @@
 {{wikipedia|dab=sir (disambiguation)}}
 
 ===Etymology===
-From {{inh|en|enm|sir}}, borrowed from {{bor|en|fro|sire||master, sir, lord}}, from {{der|en|la|senior||[[older]], [[elder]]}}, from {{m|la|senex||old}}. Compare [[signor]], [[señor]]. {{doublet|en|senior||seignior||seigneur||sire}}.
+From {{inh|en|enm|sir}}, borrowed from {{der|en|fro|sire|t=master, sir, lord}}, from {{der|en|la|senior|t=[[older]], [[elder]]}}, from {{m|la|senex|t=old}}. Compare [[signor]], [[señor]]. {{doublet|en|senior||seignior||seigneur||sire}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|en|/ˈsɜː(ɹ)/}}
@@ -25,38 +25,34 @@ From {{inh|en|enm|sir}}, borrowed from {{bor|en|fro|sire||master, sir, lord}}, f
 ##: {{ux|en|Just be careful. He gets whingy now if you don't address him as '''Sir''' John.}}
 ## to a [[superior]] [[military]] [[officer]].
 ##: {{ux|en|'''Sir''', yes sir.}}
+##: {{coordinate terms|en|ma'am}}
 ## to a [[teacher]].
 ##: {{ux|en|Here's my report, '''sir'''.}}
+##: {{coordinate terms|en|miss}}
 # {{n-g|A respectful term of address to an  adult male (often older), especially if his [[name]] or proper [[title]] is [[unknown]].}}
-#: ''Excuse me, '''sir''', do you know the way to the art museum?''
-
-====Coordinate terms====
-* {{sense|address for a military superior officer}} {{l|en|ma'am}}
-* {{sense|address for a teacher}} {{l|en|miss}}
-* {{sense|address for stranger}} {{l|en|madam}}, {{l|en|ma'am}}, {{l|en|miss}}
+#: {{ux|en|Excuse me, '''sir''', do you know the way to the art museum?}}
+#: {{coordinate terms|en|madam|ma'am|miss}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|nossuh}}
-* {{l|en|siree}}
-* {{l|en|sirrah}}
-{{der-mid}}
-* {{l|en|sirree}}
-* {{l|en|yessuh}}
-{{der-bottom}}
+{{col3|en
+|nossuh
+|siree
+|sirrah
+|sirree
+|yessuh
+}}
 
 ====Related terms====
-{{rel-top}}
-* {{l|en|senate}}
-* {{l|en|senex}}
-{{rel-mid}}
-* {{l|en|senior}}
-* {{l|en|sire}}
-{{rel-bottom}}
+{{col4|en
+|senate
+|senex
+|senior
+|sire
+}}
 
 ====Translations====
 {{trans-top|man of a higher rank or position}}
-* Bulgarian: {{t+|bg|господи́н|m|sc=Cyrl}}
+* Bulgarian: {{t+|bg|господи́н|m}}
 * Dutch: {{t+|nl|heer|m}}, {{t+|nl|meneer|m}}
 * Finnish: {{t+|fi|herra}}
 * Galician: {{t|gl|señor|m}}
@@ -67,9 +63,9 @@ From {{inh|en|enm|sir}}, borrowed from {{bor|en|fro|sire||master, sir, lord}}, f
 * Lithuanian: {{t|lt|ponas|m}}
 * Polish: {{t+|pl|pan|m}}
 * Portuguese: {{t+|pt|senhor|m}}
-* Russian: {{t+|ru|господи́н|m|sc=Cyrl}}
+* Russian: {{t+|ru|господи́н|m}}
 * Turkish: {{t+|tr|efendim}}
-* Ukrainian: {{t|uk|пан|m|sc=Cyrl}}
+* Ukrainian: {{t|uk|пан|m}}
 {{trans-bottom}}
 
 {{trans-top|address to a military superior}}
@@ -77,11 +73,11 @@ From {{inh|en|enm|sir}}, borrowed from {{bor|en|fro|sire||master, sir, lord}}, f
 *: Cantonese: {{t|yue|蛇|tr=soe4}}, {{t|yue|阿蛇|tr=aa3 soe4}}
 * Dutch: {{t+|nl|meneer|m}}
 * Finnish: {{t+|fi|herra}} {{qualifier|followed by the name of the rank}}
-* Hebrew: {{t|he|המפקד|m|tr=hamfakéd|sc=Hebr}}
+* Hebrew: {{t|he|המפקד|m|tr=hamfakéd}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|senhor|m}}
 * Romanian: {{t|ro|să trăiți}} {{gloss|''lit.'' "may you live"}}
-* Russian: (''comrade'') {{t+|ru|това́рищ|m}} {{qualifier|+ military rank, in the Soviet/Russian Army}}, {{t+|ru|сэр|m}} {{qualifier|in translations from English}}, {{t+|ru|господи́н|m}} {{qualifier|+ military rank, in the Russian Army before 1917}}
+* Russian: {{q|comrade}} {{t+|ru|това́рищ|m}} {{qualifier|+ military rank, in the Soviet/Russian Army}}, {{t+|ru|сэр|m}} {{qualifier|in translations from English}}, {{t+|ru|господи́н|m}} {{qualifier|+ military rank, in the Russian Army before 1917}}
 * Turkish: {{t|tr|komutanım}}
 {{trans-bottom}}
 
@@ -92,12 +88,12 @@ From {{inh|en|enm|sir}}, borrowed from {{bor|en|fro|sire||master, sir, lord}}, f
 * Azerbaijani: {{t+|az|cənab}}, {{t+|az|ağa}}, {{t+|az|efendi}}
 * Baluchi: {{t|bal|واجہ|tr=wája}}
 * Belarusian: {{t|be|спада́р|m}}, {{t|be|пан|m}}
-* Bengali: {{t|bn|জনাব|sc=Beng}}
+* Bengali: {{t|bn|জনাব}}
 * Bulgarian: {{t+|bg|господи́н|m}}
-* Burmese: {{t+|my|ဦး|sc=Mymr}}, {{t+|my|ခင်ဗျာ}} {{qualifier|used by males to address both males and females}}, {{t+|my|ရှင်}} {{qualifier|used by females to address both males and females}}
+* Burmese: {{t+|my|ဦး}}, {{t+|my|ခင်ဗျာ}} {{qualifier|used by males to address both males and females}}, {{t+|my|ရှင်}} {{qualifier|used by females to address both males and females}}
 * Chinese:
-*: Mandarin: {{t+|cmn|先生|tr=xiānsheng|sc=Hani}}
-*: Min Nan: {{t+|nan|先生|tr=sian-siⁿ, sin-seⁿ, sian-seⁿ|sc=Hani}}
+*: Mandarin: {{t+|cmn|先生|tr=xiānsheng}}
+*: Min Nan: {{t+|nan|先生|tr=sian-siⁿ, sin-seⁿ, sian-seⁿ}}
 * Czech: {{t+|cs|pan|m}}, {{t+|cs|pán|m}}
 * Danish: {{t+|da|herre|c}}
 * Dutch: {{t+|nl|meneer|m}}, {{t+|nl|mijnheer|m}}
@@ -106,45 +102,45 @@ From {{inh|en|enm|sir}}, borrowed from {{bor|en|fro|sire||master, sir, lord}}, f
 * French: {{t+|fr|monsieur|m}}
 * Friulian: {{t|fur|siôr|m}}, {{t|fur|signôr|m}}, {{t|fur|missâr|m}}
 * Georgian: {{t|ka|ბატონო}}
-* German: {{t+|de|Herr|m}}, [[mein Herr]] {{g|m}} {{gloss|"my lord"}}
-* Greek: {{t+|el|κύριος|m}}, [[κύριε]] {{g|m}} (''[[vocative case|vocative]]'')
-*: Ancient Greek: {{t|grc|[[μακάριος|μακάριε]]|m}} {{qualifier|vocative}}
+* German: {{t+|de|Herr|m}}, {{t|de|mein Herr|m}} {{gloss|"my lord"}}
+* Greek: {{t+|el|κύριος|m}}
+*: Ancient Greek: {{t|grc|μακάριος|m|alt=μακάριε}} {{qualifier|vocative}}
 * Haitian Creole: {{t|ht|konpè}}, {{t|ht|mesye}}
-* Hebrew: {{t|he|אֲדוֹנִי|tr=adoní|sc=Hebr}}
-* Hindi: {{t+|hi|श्रीमान|m}}, {{t+|hi|श्री|sc=Deva}}, {{t+|hi|सर|m|sc=Deva}}, {{t+|hi|साहिब|m|sc=Deva}}, {{t+|hi|महोदय|m|sc=Deva}}, {{t+|hi|जनाब|m|sc=Deva}}
+* Hebrew: {{t|he|אֲדוֹנִי|tr=adoní}}
+* Hindi: {{t+|hi|श्रीमान|m}}, {{t+|hi|श्री|?}}, {{t+|hi|सर|m}}, {{t+|hi|साहिब|m}}, {{t+|hi|महोदय|m}}, {{t+|hi|जनाब|m}}
 * Hungarian: {{t+|hu|uram}}
 * Icelandic: {{t+|is|herra|m}}
 * Indonesian: {{t+|id|tuan}}
 * Italian: {{t+|it|signore|m}}
 * Japanese: {{t|ja|だんな|tr=danna}}, {{t|ja|サー|tr=sā}} {{qualifier|in translations from English}}, {{t|ja|だんな様|tr=だんなさま, danna-sama|sc=Jpan}}
-* Kazakh: {{t+|kk|мырза|sc=Cyrl}}
-* Khmer: {{t|km|ភោ|tr=pʰou|sc=Khmr}}
+* Kazakh: {{t+|kk|мырза}}
+* Khmer: {{t|km|ភោ|tr=pʰou}}
 {{trans-mid}}
 * Korean: {{t+|ko|선생님}}, {{t+|ko|씨|alt=-씨}}, {{t+|ko|아저씨}}
 * Kurdish:
 *: Sorani: {{t+|ku|کاک}}
-* Kyrgyz: {{t+|ky|господин|sc=Cyrl}}, {{t|ky|мырза|sc=Cyrl}}
+* Kyrgyz: {{t+|ky|господин}}, {{t|ky|мырза}}
 * Lao: {{t|lo|ທ່ານ}}, {{t|lo|ທ່ານເອີຽ}}
-* Latin: {{t+|la|dominus|m}}, [[domine]] {{g|m}} (''[[vocative case|vocative]]'')
+* Latin: {{t+|la|dominus|m}}, {{t|la|domine|m}} {{q|[[vocative case|vocative]]}}
 * Latvian: {{t|lv|kungs|m}}
-* Lithuanian: {{t|lt|ponas|m}}, {{t|lt|pone|m}} (''[[vocative case|vocative]]'')
-* Macedonian: {{t|mk|го́сподин|m}}, {{t|mk|госпо́дине|m}} (''[[vocative case|vocative]]'')
+* Lithuanian: {{t|lt|ponas|m}}, {{t|lt|pone|m}} {{q|[[vocative case|vocative]]}}
+* Macedonian: {{t|mk|го́сподин|m}}, {{t|mk|госпо́дине|m}} {{q|[[vocative case|vocative]]}}
 * Malay: {{t|ms|tuan}}
 * Maori: {{t|mi|tā}}
-* Mongolian: {{t+|mn|ноён|sc=Cyrl}}
+* Mongolian: {{t+|mn|ноён}}
 * Mwali Comorian: {{t|wlc|bwana}}
 * Ndzwani Comorian: {{t|wni|mwenye}}
 * Norwegian:
 *: Bokmål: {{t+|nb|herre|m}}
-* Persian: {{t+|fa|آقا|tr=âqâ|sc=fa-Arab}}, {{t+|fa|جناب|tr=jenâb}}
-* Polish: {{t+|pl|pan|m}}, {{t|pl|panie|m}} (''[[vocative case|vocative]]'')
+* Persian: {{t+|fa|آقا|tr=âqâ}}, {{t+|fa|جناب|tr=jenâb}}
+* Polish: {{t+|pl|pan|m}}, {{t|pl|panie|m}} {{q|[[vocative case|vocative]]}}
 * Portuguese: {{t+|pt|senhor|m}}
-* Romanian: {{t+|ro|domn|m}}, ({{t|ro|domnule}}) (''[[vocative case|vocative]]'')
+* Romanian: {{t+|ro|domn|m}}, ({{t|ro|domnule}}) {{q|[[vocative case|vocative]]}}
 * Russian: {{qualifier|obsolete}} {{t+|ru|су́дарь|m}}, {{t+|ru|господи́н|m}}, {{t+|ru|сэр|m}} {{qualifier|in translations from English}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|господин|m}}
-*: Roman: {{t+|sh|gospodin|m}}
-* Slovak: {{t+|sk|pán|m}}, {{t+|sk|pane|m}} (''[[vocative case|vocative]]'')
+*: Cyrillic: {{t|sh|госпо̀дин|m}}
+*: Roman: {{t+|sh|gospòdin|m}}
+* Slovak: {{t+|sk|pán|m}}, {{t+|sk|pane|m}} {{q|[[vocative case|vocative]]}}
 * Slovene: {{t+|sl|gospod|m}}
 * Spanish: {{t+|es|señor|m}}
 * Swedish: {{t+|sv|herr|c}}, {{t+|sv|herre|c}}
@@ -152,7 +148,7 @@ From {{inh|en|enm|sir}}, borrowed from {{bor|en|fro|sire||master, sir, lord}}, f
 * Turkish: {{t+|tr|beyefendi}}, {{t+|tr|efendi}}, {{t+|tr|ağa}}
 * Turkmen: {{t+|tk|jenap}}
 * Ukrainian: {{t|uk|пан|m}}
-* Urdu: {{t|ur|صاحب|m|tr=sāhib|sc=ur-Arab}}, {{t|ur|جناب|m|tr=janāb}}, {{t+|ur|سر|m|tr=sar}}
+* Urdu: {{t|ur|صاحب|m|tr=sāhib}}, {{t|ur|جناب|m|tr=janāb}}, {{t+|ur|سر|m|tr=sar}}
 * Uyghur: {{t|ug|جاناپ}}
 * Uzbek: {{t+|uz|janob}}, {{t|uz|agʻa}}
 * Vietnamese: {{t+|vi|ngài}}, {{t+|vi|ông}}
@@ -172,9 +168,7 @@ From {{inh|en|enm|sir}}, borrowed from {{bor|en|fro|sire||master, sir, lord}}, f
 
 # To address (someone) using "sir".
 #: {{ux|en|Sir, yes, sir!<br>Don't you '''sir''' me, private! I work for a living!}}
-
-====Coordinate terms====
-* {{l|en|ma'am}}, {{l|en|mam}}
+#: {{coordinate terms|en|ma'am|mam}}
 
 ===See also===
 * {{l|en|lord}}
@@ -198,9 +192,10 @@ From {{inh|en|enm|sir}}, borrowed from {{bor|en|fro|sire||master, sir, lord}}, f
 {{gd-verb|past=shir|fut=siridh|vn=sireadh|pp=sirte}}
 
 # [[seek]], [[search]], [[look for]]
+#: {{syn|gd|lorg}}
 
-====Synonyms====
-* {{l|gd|lorg}}
+===Mutation===
+{{gd-mut-cons|si|r}}
 
 ----
 
@@ -305,15 +300,16 @@ Cognate to {{cog|stv||tr=sa:r}}.
 ==Zazaki==
 [[File:Czosnek.jpg|thumb|218px|right|garlic]]
 
+===Etymology===
+Compare {{cog|fa|سیر|tr=sir|t=garlic}}.
+
 ===Pronunciation===
 * {{IPA|zza|[ˈsiɾ]}}
 * {{hyphenation|zza|sir}}
 
-===Etymology===
-Compare {{cog|fa|سیر|tr=sir|t=garlic}}.
-
 ===Noun===
 {{zza-noun|m}}
+
 # [[garlic]]
 
 ===References===
