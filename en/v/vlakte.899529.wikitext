@@ -1,12 +1,32 @@
 ==English==
 
 ===Etymology===
-{{bor|en|af|vlakte}}
+Borrowed from {{bor|en|af|vlakte}}.
 
 ===Noun===
 {{en-noun}}
 
 # {{lb|en|South Africa}} A [[plain]].
+
+----
+
+==Afrikaans==
+{{wikipedia|lang=af}}
+
+===Etymology===
+From {{inh|af|nl|vlakte}}. Equivalent to {{suf|af|vlak|te}}.
+
+===Pronunciation===
+* {{IPA|af|/ˈflak.tə/}}
+
+===Noun===
+{{af-noun|s}}
+
+# [[flatness|Flatness]], [[levelness]].
+# A [[plain]].
+
+====Descendants====
+* {{desc|en|vlakte|bor=1}}
 
 ----
 
@@ -19,15 +39,22 @@ From {{suffix|nl|vlak|te}}.
 ===Pronunciation===
 * {{IPA|nl|/ˈvlɑktə/}}
 * {{audio|nl|Nl-vlakte.ogg|Audio}}
+* {{hyphenation|nl|vlak|te}}
+* {{rhymes|nl|ɑktə}}
 
 ===Noun===
 {{nl-noun|f|-en|pl2=-s|vlaktetje}}
 
-# [[flatness]]
-# [[plain]], [[expanse]] (of land with relatively low relief)
+# [[flatness|Flatness]], [[levelness]].
+# A [[plain]], an [[expanse]] {{gloss|tract of land with relatively low relief, level terrain}}.
 
 ====Derived terms====
+* {{l|nl|hoogvlakte}}
+* {{l|nl|laagvlakte}}
 * {{l|nl|tegen de vlakte}}
 * {{l|nl|watervlakte}}
+
+====Descendants====
+* {{desctree|af|vlakte}}
 
 [[Category:nl:Landforms]]
