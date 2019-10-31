@@ -403,7 +403,7 @@ From {{der|pap|pt|caminhar}} and {{der|pap|es|caminar}} and {{der|pap|kea|kaminh
 ==Serbo-Croatian==
 
 ===Etymology 1===
-Borrowed from {{bor|sh|ota}} ({{cog|tr|kına}}), from {{der|sh|ar|حِنَّاء}}.
+Borrowing from {{bor|sh|ota|قنا|tr={{m|tr|kına}}}}, from {{der|sh|ar|حِنَّاء}}.
 
 ====Pronunciation====
 * {{IPA|sh|/kâna/}}
@@ -412,10 +412,11 @@ Borrowed from {{bor|sh|ota}} ({{cog|tr|kına}}), from {{der|sh|ar|حِنَّاء
 ====Noun====
 {{sh-noun|g=f|head=kȁna}}
 
-# [[henna]] {{rfclarify|sh}}
+# [[henna]] (''[[Lawsonia inermis]]'') {{gloss|shrub; dye}}
 
 =====Declension=====
-{{sh-decl-noun|kȁna|kane
+{{sh-decl-noun
+|kȁna|kane
 |kane|kȃnā
 |kani|kanama
 |kanu|kane
@@ -445,6 +446,8 @@ Borrowed from {{bor|sh|ja|仮名|tr=kana}}.
 |kani|kanama
 |kanom|kanama
 }}
+
+{{C|sh|Pigments|Myrtales order plants‎}}
 
 ----
 
