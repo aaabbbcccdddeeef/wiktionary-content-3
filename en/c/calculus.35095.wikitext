@@ -197,7 +197,7 @@
 ==Latin==
 
 ===Etymology===
-Diminutive from {{suffix|la|calx|ulus|gloss1=limestone, game counter}}.
+From {{suf|la|calx|alt1=calx, calcis|ulus|gloss1=limestone, game counter|pos2=diminutive suffix}}.
 
 ===Pronunciation===
 * {{la-IPA|calculus}}
@@ -205,7 +205,7 @@ Diminutive from {{suffix|la|calx|ulus|gloss1=limestone, game counter}}.
 ===Noun===
 {{la-noun|calculus<2>}}
 
-# {{diminutive of|la|calx}}
+# {{diminutive of|la|calx|nocap=1}}
 # [[pebble]], [[stone]]
 # [[reckoning]], [[calculating]]
 # a [[piece]] in the ''[[latrunculus|latrunculi]]'' game
@@ -219,20 +219,21 @@ Diminutive from {{suffix|la|calx|ulus|gloss1=limestone, game counter}}.
 * {{l|la|calculō}}
 * {{l|la|calculōsus}}
 
-====Related terms====
-* {{l|la|calx}}
-
-====Descendants====
-{{top2}}
-* {{desc|ca|càlcul}}
-* {{desc|en|calculus}}
-* {{desc|fr|calcul}}
-* {{desc|it|calcolo}}
-{{mid2}}
-* {{desc|pt|cálculo}}
-* {{desc|ro|calcul}}
-* {{desc|es|cálculo}}
-{{bottom}}
+====Descendants==== 
+* {{desc|ca|càlcul|bor=1}}
+* {{desc|en|calculus|bor=1}}
+* {{desctree|fr|calcul|bor=1}}
+* {{desc|sdn|calculu|bor=1}}
+* {{desc|ka|კალკულუსი|bor=1}}
+* {{desc|hu|kalkulus|bor=1}}
+* {{desc|ga|calcalas|bor=1}}
+* {{desc|it|calcolo|bor=1}}
+* {{desc|pt|cálculo|bor=1}} 
+* {{desc|sc|calculu|bor=1}}, {{l|sc|càrculu}}
+* {{desc|sdc|càlcuru|bor=1}}
+* {{desc|es|cálculo|bor=1}}
+* {{desc|cy|calcwlws|bor=1}}
+*  {{desc|yi|קאַלקולוס|bor=1}}
 
 ===References===
 * {{R:L&S}}
