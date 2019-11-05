@@ -36,35 +36,40 @@
 
 ==Egyptian==
 
-===Pronunciation===
-Etymology 1
+===Etymology 1===
+
+====Pronunciation====
 {{egy-IPA-R|o=kaːm|m=kaːm|l=koːm}}
-Etymology 2
-{{egy-IPA-R|o=ˈkuːmaw|m=ˈkuːmaw|l=keːm}}
 {{egy-IPA-E}}
 
-===Verb===
+====Verb====
 {{egy-verb|2-lit|head=<hiero>km-m</hiero>}}
 
 # {{lb|egy|transitive}} to [[complete]]
 
-====Inflection====
+=====Inflection=====
 {{egy-conj-2-lit|km|kmm}}
 
-===Adjective===
+===Etymology 2===
+
+====Pronunciation====
+{{egy-IPA-R|o=ˈkuːmaw|m=ˈkuːmaw|l=keːm}}
+{{egy-IPA-E}}
+
+====Adjective====
 {{egy-adj|head=<hiero>km-m-D3</hiero>}}
 
 # [[black]]
 
-====Inflection====
+=====Inflection=====
 {{egy-decl-adj|km|ptcp=pa}}
 
-====Alternative forms====
+=====Alternative forms=====
 {{egy-hieroforms
 |<hiero>km:Y1</hiero>|read1=km
 |<hiero>km</hiero>|read2=km}}
 
-====Derived terms====
+=====Derived terms=====
 {{der2|egy
 |{{l|egy|kmt||[[Egypt]]}}
 |{{l|egy|kmt}}<sup>?</sup> (“a type of jar”)
@@ -72,11 +77,11 @@ Etymology 2
 |{{l|egy|km wr||[[w:Great Bitter Lake|the Bitter Lakes]]}}
 |m km n ꜣt}}
 
-===See also===
+=====See also=====
 {{table:colors/egy}}
 
 ===References===
-* {{R:egy:Faulkner}}
+* {{R:egy:Faulkner|286}}
 * {{R:egy:Allen|316}}
 
 [[Category:egy:Colors]]
