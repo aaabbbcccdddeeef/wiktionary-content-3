@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|hu|en}} {{m|hu|Budapest}}.
+From {{bor|en|hu|Budapest}}.
 
 ===Pronunciation===
 * {{IPA|en|/ˈbuːdəpɛst/|/ˈbʊdəpɛst/|/ˈbjuːdəpɛst/|/ˈbuːdəpɛʃt/}}
@@ -15,8 +15,10 @@ From {{etyl|hu|en}} {{m|hu|Budapest}}.
 # The capital city of [[Hungary]].
 
 ====Derived terms====
-* {{l|en|Budapester}}
-* {{l|en|Budapestian}}
+{{col2|en
+|Budapester
+|Budapestian
+}}
 
 ====Translations====
 {{trans-top|the capital city of Hungary}}
@@ -26,7 +28,7 @@ From {{etyl|hu|en}} {{m|hu|Budapest}}.
 * Bulgarian: {{t|bg|Будапе́ща|f}}
 * Catalan: {{t|ca|Budapest}}
 * Chinese:
-*: Mandarin: {{t+|cmn|布達佩斯|sc=Hani}}, {{t+|cmn|布达佩斯|tr=Bùdápèisī|sc=Hani}}
+*: Mandarin: {{t+|cmn|布達佩斯}}, {{t+|cmn|布达佩斯|tr=Bùdápèisī}}
 * Czech: {{t+|cs|Budapešť|f}}
 * Danish: {{t+|da|Budapest}}
 * Dutch: {{t+|nl|Boedapest|n}}
@@ -34,10 +36,10 @@ From {{etyl|hu|en}} {{m|hu|Budapest}}.
 * Estonian: {{t+|et|Budapest}}
 * Finnish: {{t+|fi|Budapest}}
 * French: {{t+|fr|Budapest|m}}
-* Georgian: {{t|ka|ბუდაპეშტი|sc=Geor}}
+* Georgian: {{t|ka|ბუდაპეშტი}}
 * German: {{t+|de|Budapest|n}}
 * Greek: {{t+|el|Βουδαπέστη|f}}
-* Hindi: {{t|hi|बुदापैशत|tr=budāpaiśat}}, {{t|hi|बुडापेस्ट|tr=buḍāpēsṭ}}
+* Hindi: {{t|hi|बुदापैशत}}, {{t|hi|बुडापेस्ट|tr=buḍāpēsṭ}}
 * Hungarian: {{t+|hu|Budapest}}
 * Irish: {{t|ga|Búdaipeist|f}}
 * Italian: {{t+|it|Budapest|f}}
@@ -59,15 +61,15 @@ From {{etyl|hu|en}} {{m|hu|Budapest}}.
 * Romanian: {{t+|ro|Budapesta|f}}
 * Russian: {{t+|ru|Будапе́шт|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|Будимпешта|f}}
-*: Roman: {{t+|sh|Budimpešta|f}}
+*: Cyrillic: {{t|sh|Бу̀димпешта|f}}
+*: Roman: {{t+|sh|Bùdimpešta|f}}
 * Slovak: {{t+|sk|Budapešť|f}}
 * Slovene: {{t+|sl|Búdimpešta|f}}
 * Spanish: {{t+|es|Budapest|m}}
 * Thai: {{t|th|บูดาเปสต์|tr=boodaabpàyt}}
 * Turkish: {{t+|tr|Budapeşte}}
 * Ukrainian: {{t|uk|Будапе́шт|m}}
-* Yiddish: {{t|yi|בודאַפּעשט|tr=budapesht|sc=Hebr}}
+* Yiddish: {{t|yi|בודאַפּעשט}}
 {{trans-bottom}}
 
 [[Category:en:Capital cities]]
