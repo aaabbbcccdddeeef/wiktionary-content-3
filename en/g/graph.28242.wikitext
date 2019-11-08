@@ -49,8 +49,8 @@ Shortening of {{m|en|[[graphic]] [[formula]]}}. From 1878; verb from 1889.<ref>{
 ** Nevertheless, the term {{m|en|vertex-edge graph}} is sometimes used in educational texts to distinguish the graph theory sense.
 * {{sense|points constituting a graphical representation of a function}}
 ** A graph is similar to, but not the same as a (real) function (as defined formally).
-*** The ''function'' <math>f</math> is a set of ''ordered pairs'' <math>(x,f(x))</math>, where <math>x=(x_1, x_2, \ldots, x_m)</math> is a point in <math>\R^m</math> and <math>f(x)</math> is a point in <math>\R</math>.
-*** A ''graph'' of <math>f</math> is a set of ''points'' <math>(x_1, x_2, \ldots, x_m, f(x_1, x_2, \ldots, x_m))\in\R^{m+1}</math>.
+*** The ''function'' <math>f</math> is a set of ''ordered pairs'' <math>(x, f(x))</math>, where <math>x=(x_1, x_2, \ldots, x_n)</math> is a point in <math>\R^n</math> and <math>f(x)</math> is a point in <math>\R</math> (or some other '''set''').
+*** A ''graph'' of <math>f</math> is a set of ''points'' (usually '''n-tuples''') <math>(x_1, x_2, \ldots, x_n, f(x_1, x_2, \ldots, x_n))\in\R^{n+1}</math>.
 * {{sense|graph theory}}
 ** A graph <math>G=(V,E)</math> may be defined such that the elements of <math>E</math> are [[ordered pair]]s or [[unordered]] [[pair]]s.
 *** If the pairs are unordered, <math>G</math> may be called an {{m|en|undirected graph}} and the elements of <math>E</math> are called {{m|en|edge|edges}}.
