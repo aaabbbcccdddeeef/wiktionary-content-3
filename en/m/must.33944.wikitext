@@ -272,22 +272,67 @@ From {{inh|en|enm|must}}, from {{inh|en|ang|must}} and {{der|en|fro|must}}, {{m|
 ==Estonian==
 
 ===Etymology===
-From {{inh|et|fiu-fin-pro|*musta}}. Possibly from {{derived|fiu-fin-pro|gem-pro|*mus-ta-}}, {{noncognate|nb|must||steam, fume, mist}}.<ref>http://eki.ee/dict/ety/index.cgi?Q=must&F=M&C06=en</ref>
+From {{inh|et|fiu-fin-pro|*musta}}. Cognate with {{cognate|fi|musta}}, {{cognate|vep|must}} and {{cognate|liv|mustā}}. Possibly from {{der|et|gem-pro|*mus-ta-}}, compare {{noncognate|nb|must||steam, fume, mist}}.<ref>http://eki.ee/dict/ety/index.cgi?Q=must&F=M&C06=en</ref>
+
+===Pronunciation===
+*{{et-IPA}}
+*{{hyphenation|et|must}}
 
 ===Adjective===
-{{et-adj|musta|musta}}
+{{et-adj|musta|musta|c=mustem|s2=mustim}}
 
 # [[black]] {{gloss|color}}
-# [[dirty]], [[unclean]]
+#: {{ux|et|Lindude sulestik on '''must''', aga tiibadel märkame valget laiku.|The plumage of the birds is '''black''', but you can notice a white spot on the wings.}}
+# [[dark|Dark]], without [[light]], [[illumination]] (and poorly [[visible]]).
+#:{{ux|et|'''Mustad''' sügisööd.|'''Dark''' autumn nights.}}
+## Without [[snow]].
+##: {{ux|et|Maa on '''must''' ja kelgutada ei saa.|The ground is '''without snow''' and you can't go sledding.}}
+# Having [[dark]] [[skin]].
+#: {{ux|et|'''Must''' poiss muudkui naeris.|The '''black''' kid kept laughing.}} 
+# [[dirty|Dirty]], [[unclean]], full of [[garbage]] and/or [[grime]].
+#: {{ux|et|Mu riided said '''mustaks''' ja pidin neid pesema.|My clothes became '''dirty''' and I had to wash them.}}
+#: {{syn|et|räpane}}
+## Not [[requiring]] [[special]] [[skill]]s, making something or someone [[dirty]].
+##: {{ux|et|Hauakaevaja '''must''' töö.|The '''dirty''' job of a gravedigger.}}
+# [[grim|Grim]], [[dreary]], [[hopeless]], without any (good) [[solution]].
+#: {{ux|et|Meeleolu on '''must'''.|The mood around here is '''dark'''.}}
+## [[illegal|Illegal]], [[unofficial]], [[disgraceful]].
+##: {{ux|et|Kartsin, et mu '''mustad''' teod tulevad päevavalgele.|I feared, that my '''dark''' acts will come to light.}}
 
 ====Declension====
 {{et-decl-külm|must|must|a}}
 
-====Derived terms====
+===Noun===
+{{et-noun|musta|musta}}
+
+# The color [[black]].
+#: {{ux|et|Halli värvi kombineerimine '''musta''' ja valgega suurendad enda usaldatavust.|By combining gray with '''black''' and white, you increase your own reliability.}}
+# Something colored in [[black]].
+#: {{ux|et|Otsustasime, kumb mängib valgete, kumb '''mustadega'''.|We decided, who plays with whites (white chesspieces), and who plays with '''blacks''' (black chesspieces).}}
+# A [[person]] having [[dark]] [[skin]].
+#: {{ux|et|Meie tulevikulootus ei ole enam lapsed, vaid hoopis mustad.|Our hopes for the future aren't our children anymore, but '''blacks'''.}} 
+
+====Declension====
+{{et-decl-külm|must|must|a}}
+
+===Antonyms===
+* {{l|et|valge}}
+
+===Derived terms===
+* {{l|et|mustus}}
+* {{l|et|mustuma}}
+* {{l|et|mustendama}}
+* {{l|et|mustenma}}
+* {{l|et|mustama}}
+
+===Related terms===
 * {{l|et|must auk}}
 * {{l|et|mustvalge}}
+* {{l|et|musträstas}}
+* {{l|et|süsimust}}
+* {{l|et|must sõstar}}
 
-====See also====
+===See also===
 {{table:colors/et}}
 
 ===References===
