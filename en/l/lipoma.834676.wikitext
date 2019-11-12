@@ -19,15 +19,36 @@
 
 ====Translations====
 {{trans-top|benign tumor}}
+* Catalan: {{t+|ca|lipoma|m}}
 * Chinese:
 *: Mandarin: {{t|cmn|脂肪瘤}}
 {{trans-mid}}
 * Czech: {{t|cs|lipom|m}}
 * Finnish: {{t|fi|rasvakudoskasvain}}, {{t|fi|lipoma}}, {{t+|fi|lipooma}}
+* Italian: {{t+|it|lipoma|m}}
+* Spanish: {{t+|es|lipoma|m}}
 {{trans-bottom}}
 
 ===Anagrams===
 * {{anagrams|en|a=ailmop|pimola}}
+
+----
+
+==Catalan==
+
+===Etymology===
+{{confix|ca|lipo|oma}}
+
+===Noun===
+{{ca-noun|m}}
+
+# {{lb|ca|medicine}} [[#English|lipoma]]
+
+====Related terms====
+* {{l|ca|liposarcoma}}
+
+====Further reading====
+* {{R:DNV}}
 
 ----
 
@@ -65,9 +86,21 @@
 ==Spanish==
 {{wikipedia|lang=es}}
 
+===Etymology===
+{{confix|es|lipo|oma}}
+
+===Pronunciation===
+* {{es-IPA}}
+* {{rhymes|es|oma}}
+* {{hyph|es|li|po|ma}}
+
 ===Noun===
 {{es-noun|m}}
 
 # {{lb|es|oncology}} [[#English|lipoma]]
 
-[[Category:Spanish 3-syllable words]]
+====Related terms====
+* {{l|es|liposarcoma}}
+
+====Further reading====
+* {{R:DRAE}}
