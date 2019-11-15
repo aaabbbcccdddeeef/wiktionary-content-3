@@ -12,14 +12,10 @@ See {{m|en|acetic}}. Compare {{m|en|ketone}}.
 {{en-noun|~}}
 
 # {{lb|en|organic compound}} A [[colourless]], [[volatile]], [[flammable]] [[liquid]] [[ketone]], (CH<sub>3</sub>)<sub>2</sub>CO, used as a [[solvent]].
-
-====Synonyms====
-* {{l|en|propanone}}
-* propan-2-one
-* {{l|en|dimethyl ketone}}
+#: {{syn|en|propanone|propan-2-one|dimethyl ketone}}
 
 ====Derived terms====
-{{der3|en
+{{col4|en
 |acetonic
 |acetone peroxide
 |monoacetone
@@ -39,7 +35,8 @@ See {{m|en|acetic}}. Compare {{m|en|ketone}}.
 |metacetone
 |aminoacetone
 |vanillylacetone
-|triacetone}}
+|triacetone
+}}
 
 ====Translations====
 {{trans-top|the organic compound (CH<sub>3</sub>)<sub>2</sub>CO}}
@@ -49,8 +46,8 @@ See {{m|en|acetic}}. Compare {{m|en|ketone}}.
 * Bulgarian: {{t|bg|ацето́н|m}}
 * Catalan: {{t|ca|acetona|f}}
 * Chinese:
-*: Cantonese: {{t|yue|丙酮|tr=bing2 tung4|sc=Hani}}, {{t|yue|醋酮|tr=cou3 tung4|sc=Hani}}
-*: Mandarin: {{t+|cmn|丙酮|tr=bǐngtóng|sc=Hani}}, {{t|cmn|醋酮|tr=cùtóng|sc=Hani}}
+*: Cantonese: {{t|yue|丙酮|tr=bing2 tung4}}, {{t|yue|醋酮|tr=cou3 tung4}}
+*: Mandarin: {{t+|cmn|丙酮|tr=bǐngtóng}}, {{t|cmn|醋酮|tr=cùtóng}}
 * Czech: {{t|cs|aceton|m}}
 * Danish: {{t|da|acetone|c}}
 * Dutch: {{t+|nl|aceton|m|n}}
@@ -61,14 +58,14 @@ See {{m|en|acetic}}. Compare {{m|en|ketone}}.
 * German: {{t+|de|Aceton|n}}, {{t+|de|Azeton|n}}, {{t+|de|Propanon|n}}, {{t+|de|Dimethylketon|n}}
 * Greek: {{t+|el|ασετόν|n}}
 * Hebrew: {{t+|he|אצטון|m|tr=atsetón}}
-* Hindi: {{t+|hi|शुक्ता|tr=shuktaa|sc=Deva}}
+* Hindi: {{t+|hi|शुक्ता|?}}
 * Hungarian: {{t+|hu|aceton}}
-{{trans-mid}}
 * Icelandic: {{t|is|asetón|n}}
+{{trans-mid}}
 * Interlingue: {{t|ie|aceton}}
 * Irish: {{t|ga|aicéatón|m}}
 * Italian: {{t+|it|acetone|m}}
-* Japanese: {{t|ja|アセトン|tr=aseton|sc=Jpan}}
+* Japanese: {{t|ja|アセトン|tr=aseton}}
 * Korean: {{t+|ko|아세톤}}
 * Norwegian:
 *: Bokmål: {{t+|nb|aceton|n}}
@@ -79,7 +76,7 @@ See {{m|en|acetic}}. Compare {{m|en|ketone}}.
 * Romanian: {{t+|ro|acetonă|f}}
 * Russian: {{t+|ru|ацето́н|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|ацѐто̄н|m|sc=Cyrl}}
+*: Cyrillic: {{t|sh|ацѐто̄н|m}}
 *: Roman: {{t+|sh|acètōn|m}}
 * Slovene: {{t+|sl|acetón|m}}
 * Spanish: {{t+|es|acetona|f}}
@@ -100,7 +97,7 @@ See {{m|en|acetic}}. Compare {{m|en|ketone}}.
 ==Danish==
 
 ===Etymology===
-From {{der|da|la|acētum||vinegar}} {{suffix|da||one}}.
+From {{der|da|la|acētum|t=vinegar}} + {{af|da|-one}}.
 
 ===Pronunciation===
 * {{IPA|da|/asətoːnə/|[asəˈtˢoːnə]}}
@@ -127,4 +124,4 @@ From {{der|da|la|acētum||vinegar}} {{suffix|da||one}}.
 # {{lb|it|organic compound}} {{l|en|acetone}}
 
 ===Anagrams===
-* {{anagrams|it|enoteca}}
+* {{anagrams|it|a=aceenot|enoteca}}
