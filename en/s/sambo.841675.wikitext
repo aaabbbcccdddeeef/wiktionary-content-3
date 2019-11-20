@@ -82,33 +82,57 @@ Originally from {{etyl|pt|eo}}, though reinforced by several other languages.
 
 ==Swedish==
 
-===Etymology===
-From {{confix|sv|sam-|-bo|gloss1=together|gloss2=habitant}}.
+===Etymology 1===
+* {{q|noun}} From {{confix|sv|sam-|-bo|t1=co-|t2=habitant}}.
+* {{q|verb}} From {{prefix|sv|sam-|bo|t1=co-|t2=to live}}, compare {{m|sv|sammanbo}}.
 
-===Pronunciation===
+====Pronunciation====
 * {{IPA|sv|/ˈsambʊ/|qual=sometimes proscribed}}
 * {{audio|sv|Sv-sambo.ogg|Audio}}
 * {{IPA|sv|/²samˌbuː/}}
 
-===Noun===
+====Noun====
 {{sv-noun|c}}
 
 # [[partner]] with whom one lives, usually not in a common law [[marriage]] [[relationship]]; [[cohabitant]]
 
-====Usage notes====
+=====Usage notes=====
 The pronunciation of this word was originally with {{w|Swedish phonology#Stress and pitch|accent 2}}, {{glossary|secondary stress}} and a long final [[vowel]], i.e. /²samˌbuː/, which is in line with other compounds with {{m|sv|-bo}}, e.g. {{m|sv|öbo|t=islander}}, {{m|sv|stadsbo|t=city dweller}}. The pronunciation has however for most speakers shifted to {{w|Swedish phonology#Stress and pitch|accent 1}} with a short final vowel without secondary stress, i.e. /ˈsambʊ/, probably due to influence from words like {{m|sv|hambo|t=type of folk dance}}, and loanwords on ''-o'' which commonly receive accent 1, e.g. {{m|sv|mambo|t=[[mambo]], type of dance}}, {{m|sv|sambo#Etymology 2|sambo|t=[[Sambo]]}}, {{m|sv|tango}}, {{m|sv|mango}}, etc. This accent 1 pronunciation also applies other words coined with ''sambo'' in mind, e.g. {{m|sv|särbo|t=partner one does not live together with}}, {{m|sv|mambo#Etymology 1|mambo|t=person who lives with their mother}}.
 
 This causes uncertainty in the declension of this word. Whereas {{glossary|common gender}} words with a long final /uː/ are regularly pluralized with {{m|sv|-r}}, i.e. ''sko'' > ''skor'', ''öbo'' > ''öbor'', common gender words with a final /ʊ/ do not have a native pluralization. For this reason, many speakers colloquially treat ''sambo'' as a loanword and pluralize the word with a foreign {{m|sv|-s}} plural marker, ''sambos'', or with a double plural marker {{m|sv|-sar}}, i.e. ''sambosar''.
 
 This pronunciation and this declension are usually {{glossary|proscribed}}, and dictionaries like {{w|Svenska Akademiens ordlista|''SAOL''}} and ''Svensk ordbok'' recommend using the accent 2 pronunciation with an ''-r'' plural in line with words like ''öbo'', and recommend likewise for words like ''särbo'' and ''mambo''.
 
-====Declension====
+=====Declension=====
 {{sv-infl-noun-c-r}}
 {{sv-noun-irreg-c|sambo|sambon|[[sambos]], [[sambosar]]|sambosarna|definitions=(colloquial, proscribed)}}
 
-====Related terms====
+=====Related terms=====
 * {{l|sv|särbo}}
 * {{l|sv|mambo}}
+
+====Verb====
+{{sv-verb-reg|sambo|r|dde}}
+
+# to [[cohabit]]
+
+=====Conjugation=====
+{{sv-conj-wk|sambo|end=vw|nop=1|nopp=1}}
+
+===Etymology 2===
+From {{der|sv|es|zambo}}.
+
+====Pronunciation====
+* {{IPA|sv|/ˈsambʊ/}}
+* {{rhymes|sv|ambʊ}}
+
+====Noun====
+{{sv-noun|c}}
+
+# {{lb|sv|archaic|derogatory}} [[Sambo]]; the [[offspring]] of a [[Native American]] and a person of [[African]] [[descent]]
+
+=====Declension=====
+{{sv-infl-noun-c-r}}
 
 ===References===
 * {{R:svenska.se|so}}
