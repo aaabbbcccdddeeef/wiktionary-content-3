@@ -15,17 +15,45 @@
 ----
 
 ==Estonian==
+{{wikipedia|lang=et}}
 
 ===Etymology===
-From {{inh|et|fiu-fin-pro|*sakna}}. Cognate to {{cog|fi|sauna}} and {{cog|olo|saunu}}.
+From {{inh|et|fiu-fin-pro|*sakna}}, possibly from {{der|et|gem-pro|*stakkaz||a barn; rick; haystack}}, cognate with {{cog|en|stack}}, {{cog|non|stakkr||stack}} and dialectal {{cognate|sv|stake||hearth, fireplace}}. Possibly also from {{der|et|gem-pro|*sāpnaz||a place of soap}}. Cognate with {{cog|fi|sauna}}, {{cog|olo|saunu}}, {{cog|liv|sōna}} and {{cog|se|suovdnji||a pit dug in snow}}.<ref>https://www.eki.ee/dict/ety/index.cgi?Q=saun</ref>
+
+===Pronunciation===
+* {{et-IPA}}
 
 ===Noun===
 {{et-noun|sauna|sauna}}
 
 # [[sauna]]
+## A [[heated]] [[building]] or [[room]] made for [[sweating]] and [[washing]].
+##: {{ux|et|Spaas on ka mitu '''sauna''' ja jõusaal.|The spa has also many '''saunas''' and a gym.}}
+## The act of using a sauna.
+##: {{ux|et|Pärast trenni on hea '''saunas''' käia|It feels great to have a '''sauna''' after a workout.}}
 
 ====Declension====
 {{et-decl-leib|saun|saun|a}}
+
+====Derived terms====
+* {{l|et|saunik}}
+* {{l|et|saunaline}}
+* {{l|et|saunandus}}
+* {{l|et|saunatama}}
+* {{l|et|saunatamine}}
+* {{l|et|saunataja}}
+* {{l|et|saunakütja}}
+* {{l|et|saunakütmine}}
+* {{l|et|saunaminek}}
+* {{l|et|saunaskäija}}
+* {{l|et|saunaskäik}}
+
+====Related terms====
+* {{l|et|saunaviht}}
+* {{l|et|aurusaun}}
+* {{l|et|leilisaun}}
+* {{l|et|suitsusaun}}
+* {{l|et|veresaun}}
 
 ----
 
@@ -56,3 +84,6 @@ From {{etyl|en|tpi}} {{m|en|sound}}.
 {{head|vo|noun}}
 
 # [[health]]
+<references />
+[[Category:et:Rooms]]
+[[Category:et:Sauna]]
