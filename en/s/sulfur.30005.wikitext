@@ -4,10 +4,10 @@
 {{elements|en|S|phosphorus|P|chlorine|Cl}}
 
 ===Alternative forms===
-* {{l|en|sulphur}} {{q|Australia, Canada, India, New Zealand, UK; nonstandard in scientific usage}}
+* {{alter|en|sulphur}} {{q|Australia, Canada, India, New Zealand, UK; nonstandard in scientific usage}}
 
 ===Etymology===
-From {{inh|en|enm|-}}, borrowed from {{bor|en|xno|-}} {{m|fro|sulfre}}, from {{der|en|la|sulfur}}, from {{m|la|sulpur}} itself of uncertain origin, but probably from {{der|en|ine-pro|*swelplos}}, from the root {{m|ine-pro|*swel-||to burn, smoulder}}. Displaced Old English {{m|ang|swefl}} and largely displaced ''[[brimstone]]''.
+From {{inh|en|enm|-}}, borrowed from {{bor|en|xno|sulfre}}, from {{der|en|la|sulfur}}, from {{m|la|sulpur}} itself of uncertain origin, but probably from {{der|en|ine-pro|*swelplos}}, from the root {{m|ine-pro|*swel-|t=to burn, smoulder}}. Displaced {{cog|ang|swefl}} and largely displaced {{m|en|brimstone}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|en|/ˈsʌl.fə/}}
@@ -19,12 +19,10 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|xno|-}} {{m|fro|sulfre}}, from {{d
 {{en-noun|-|s}}
 
 # {{senseid|en|Q682}}{{lb|en|uncountable}} A chemical element (''symbol'' S) with an [[atomic number]] of 16.
-#: {{hypernyms|en|chalcogen}}
+#: {{sen|en|brimstone|q1=archaic, not in technical usage}}
+#: {{hyper|en|chalcogen}}
 # {{lb|en|countable|uncountable}} A [[yellow]]ish [[green]] colour, like that of sulfur.
 #: {{color panel|CCCB32}}
-
-====Synonyms====
-* {{sense|element}} {{l|en|brimstone}} {{qualifier|archaic, not in technical usage}}
 
 ====Derived terms====
 {{rel-top4|terms derived from sulfur (noun)}}
@@ -145,7 +143,7 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|xno|-}} {{m|fro|sulfre}}, from {{d
 * Assamese: {{t|as|গন্ধক}}
 * Asturian: {{t+|ast|azufre|m}}
 * Azerbaijani: {{t|az|kükürd}}
-* Bashkir: {{t|ba|көкөрт|sc=Cyrl}}
+* Bashkir: {{t|ba|көкөрт}}
 * Basque: {{t+|eu|sufre}}
 * Belarusian: {{t|be|се́ра|f}}
 * Bengali: {{t|bn|গন্ধক}}
@@ -156,9 +154,9 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|xno|-}} {{m|fro|sulfre}}, from {{d
 * Catalan: {{t+|ca|sofre|m}}
 * Central Melanau: {{t|mel|melireng}}
 * Chinese:
-*: Mandarin: {{t+|cmn|硫|tr=liú|sc=Hani}}, {{t+|cmn|硫黄|tr=liúhuáng|sc=Hani}}
+*: Mandarin: {{t+|cmn|硫|tr=liú}}, {{t+|cmn|硫黄|tr=liúhuáng}}
 * Chuvash: {{t|cv|кӳкӗрт}}
-* Cornish: {{t|kw|sulfor}}
+* Cornish: {{t|kw|sulfor|?}}
 * Crimean Tatar: {{t|crh|kükürt}}
 * Czech: {{t+|cs|síra|f}}
 * Danish: {{t+|da|svovl|n|c}}
@@ -169,16 +167,16 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|xno|-}} {{m|fro|sulfre}}, from {{d
 * Faroese: {{t|fo|svávul|n}}
 * Finnish: {{t+|fi|rikki}}
 * French: {{t+|fr|soufre|m}}
-* Friulian: {{t|fur|solfar}}
+* Friulian: {{t|fur|solfar|?}}
 * Galician: {{t+|gl|xofre|m}}, {{t|gl|enxofre|m}}
-* Georgian: {{t|ka|გოგირდი|sc=Geor}}
+* Georgian: {{t|ka|გოგირდი}}
 * German: {{t+|de|Schwefel|m}}, {{t|de|Sulfur|n}}
 * Gothic: {{t|got|𐍃𐍅𐌹𐌱𐌻𐍃|m}}
 * Greek: {{t+|el|θείο|n}}
 *: Ancient: {{t|grc|θεῖον|n}}
-* Gujarati: {{t|gu|ગંધક}}
-* Hebrew: {{t+|he|גָּפְרִית|f|tr=gofrít|sc=Hebr}}
-* Hindi: {{t+|hi|गन्धक|tr=gandhak}}
+* Gujarati: {{t|gu|ગંધક|?}}
+* Hebrew: {{t+|he|גָּפְרִית|f|tr=gofrít}}
+* Hindi: {{t+|hi|गन्धक|?}}
 * Hungarian: {{t+|hu|kén}}
 * Icelandic: {{t+|is|brennisteinn|m}}
 * Ido: {{t+|io|sulfo}}
@@ -189,31 +187,31 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|xno|-}} {{m|fro|sulfre}}, from {{d
 * Japanese: {{t+|ja|硫黄|tr=いおう, iō}}
 * Javanese: {{t+|jv|ꦮ꧀ꦭꦶꦫꦁ}}
 * Kashubian: {{t|csb|sarka}}
-* Kazakh: {{t+|kk|күкірт|sc=Cyrl}}
+* Kazakh: {{t+|kk|күкірт}}
 * Khmer: {{t+|km|ស្ពាន់ធ័រ}}
 * Korean: {{t+|ko|황}} ({{t+|ko|黃}}), {{t+|ko|석유황}} ({{t+|ko|石硫黃}}), {{t|ko|유황}}, {{t|ko|황아}} ({{t|ko|黃芽}})
 * Kurdish:
 *: Kurmanji: {{t+|ku|kewkurd}}, {{t+|ku|kirkût}}
-*: Sorani: {{t+|ku|گۆگرد|tr=gogird|sc=ku-Arab}}
+*: Sorani: {{t+|ku|گۆگرد|tr=gogird}}
 * Kyrgyz: {{t+|ky|күкүрт}}
 * Lao: {{t|lo|ກຳມະຖັນ}}, {{t|lo|ມາດ}}
 {{trans-mid}}
-* Latin: {{t+|la|sulfur}}, {{t|la|sulpur|n}}
+* Latin: {{t+|la|sulfur|?}}, {{t|la|sulpur|n}}
 * Latvian: {{t+|lv|sērs|m}}
 * Lithuanian: {{t+|lt|siera|f}}
 * Low German: {{t|nds|Swevel|m}}, {{t|nds|Svävel|m}}
 * Luxembourgish: {{t|lb|Schwiefel|m}}
 * Macedonian: {{t|mk|сулфур|m}}
 * Malay: {{t|ms|sulfur}}, {{t|ms|belerang}}
-* Malayalam: {{t+|ml|ഗന്ധകം|sc=Mlym}}
+* Malayalam: {{t+|ml|ഗന്ധകം}}
 * Maltese: {{t|mt|kubrit|m}}
 * Manx: {{t|gv|sulfur|m}}
 * Maori: {{t|mi|pungatara}}, {{t|mi|pūngāwhā}}, {{t|mi|ohaki}}
-* Mongolian: {{t+|mn|хүхэр|sc=Cyrl}}
+* Mongolian: {{t+|mn|хүхэр}}
 * Navajo: {{t|nv|łeetsoii}}
 * Ngaju: {{t|nij|barirang}}
 * Norwegian: {{t+|no|svovel|m}}
-* Occitan: {{t+|oc|solpre}}, {{t+|oc|sofre|m}}
+* Occitan: {{t+|oc|solpre|?}}, {{t+|oc|sofre|m}}
 * Old English: {{t|ang|swefl|m}}
 * Pashto: {{t|ps|ګوګړ|m|tr=gogǝ́ṛ}}, {{t+|ps|سلفر|m|tr=salfár}}
 * Persian: {{t+|fa|گوگرد|tr=gugerd}}
@@ -222,13 +220,13 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|xno|-}} {{m|fro|sulfre}}, from {{d
 * Romanian: {{t+|ro|sulf|n}}, {{t|ro|sulfuri|n-p}}
 * Russian: {{t+|ru|се́ра|f}}
 * Sanskrit: {{t+|sa|गन्धक|n}}
-* Sardinian: {{t|sc|súlfaru}}, {{t|sc|súlfuru}}, {{t|sc|súrfuru}}
+* Sardinian: {{t|sc|súlfaru|?}}, {{t|sc|súlfuru|?}}, {{t|sc|súrfuru|?}}
 * Scottish Gaelic: {{t|gd|pronnasdail|m}}, {{t+|gd|pronnasg|m}}, {{t|gd|pronnastan|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|сумпор|m|sc=Cyrl}}
+*: Cyrillic: {{t|sh|сумпор|m}}
 *: Roman: {{t+|sh|sumpor|m}}
 * Sicilian: {{t+|scn|sùrfuru|m}}, {{t|scn|suffuru|m}}
-* Sinhalese: {{t|si|ගෙන්දගම්}}, {{t|si|සල්ෆර්}}
+* Sinhalese: {{t|si|ගෙන්දගම්|?}}, {{t|si|සල්ෆර්|?}}
 * Slovak: {{t+|sk|síra|f}}
 * Slovene: {{t+|sl|žveplo|n}}
 * Spanish: {{t+|es|azufre|m}}
@@ -239,7 +237,7 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|xno|-}} {{m|fro|sulfre}}, from {{d
 * Tagalog: {{t|tl|sangyawa}}
 * Tajik: {{t+|tg|гӯгирд}}
 * Taliabu: {{t|tlv|walirang}}
-* Tamil: {{t+|ta|கந்தகம்|sc=Taml}}
+* Tamil: {{t+|ta|கந்தகம்}}
 * Tatar: {{t+|tt|күкерт}}
 * Tetum: {{t|tet|baliran}}
 * Thai: {{t+|th|กำมะถัน}}, {{t+|th|มาศ}}
@@ -247,15 +245,15 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|xno|-}} {{m|fro|sulfre}}, from {{d
 * Turkish: {{t+|tr|kükürt}}
 * Turkmen: {{t|tk|kükürt}}
 * Ukrainian: {{t|uk|сі́рка|f}}
-* Urdu: {{t|ur|گندھک|tr=gandhak|sc=ur-Arab}}
+* Urdu: {{t|ur|گندھک|?|tr=gandhak}}
 * Uyghur: {{t|ug|گۈڭگۈرت}}
-* Uzbek: {{t|uz|олтингугурт|sc=Cyrl}}, {{t+|uz|oltingugurt}}
+* Uzbek: {{t|uz|олтингугурт}}, {{t+|uz|oltingugurt}}
 * Vietnamese: {{t+|vi|lưu huỳnh}} ({{t|vi|硫黃}})
 * Volapük: {{t+|vo|sulfin}}
 * Welsh: {{t+|cy|sylffwr|m}}
 * West Frisian: {{t|fy|swevel|n}}
 * Wolio: {{t|wlo|walira}}
-* Yiddish: {{t|yi|שוועבל|m|tr=shvebl|sc=Hebr}}
+* Yiddish: {{t|yi|שוועבל|m}}
 * Zhuang: {{t|za|vuengzcungq}}
 {{trans-bottom}}
 
@@ -265,7 +263,7 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|xno|-}} {{m|fro|sulfre}}, from {{d
 * Ido: {{t|io|sulfeo}}
 {{trans-mid}}
 * Italian: {{t|it|sulfureo}}
-* Japanese: {{t|ja|硫黄色|sc=Jpan}}, {{t|ja|いおうしょく|tr=iō-shoku|sc=Jpan}}
+* Japanese: {{t|ja|硫黄色}}, {{t|ja|いおうしょく|tr=iō-shoku}}
 * Korean: {{t|ko|유황색}}
 {{trans-bottom}}
 
@@ -282,7 +280,7 @@ From {{inh|en|enm|-}}, borrowed from {{bor|en|xno|-}} {{m|fro|sulfre}}, from {{d
 * Ido: {{t|io|sulfea}}
 {{trans-mid}}
 * Italian: {{t|it|sulfureo}}
-* Japanese: {{t|ja|硫黄色|tr=いおうしょくの, iō-shoku no|alt=硫黄色の|sc=Jpan}}
+* Japanese: {{t|ja|硫黄色|tr=いおうしょくの, iō-shoku no|alt=硫黄色の}}
 * Korean: {{t|ko|유황색의}}
 {{trans-bottom}}
 
