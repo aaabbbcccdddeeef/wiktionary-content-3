@@ -3,7 +3,7 @@
 
 ===Etymology===
 {{PIE root|en|terkʷ}}
-Attested since about 1510, from {{etyl|sco|en}}, perhaps from {{etyl|gml|en}} (Brunswick [[dialect]]) {{m|gml|queer||oblique, off-center}} (also compare with {{cog|de|quer||diagonally}}), from {{etyl|gem-pro|en}} {{m|gem-pro|*þwerhaz}}, from {{der|en|ine-pro|*terkʷ-||to turn, twist, wind}}. Compare {{cog|la|torqueo}}. Related to {{m|en|thwart}}.
+Attested since about 1510, from {{bor|en|sco|-}}, perhaps from {{der|en|gml|-}} (Brunswick [[dialect]]) {{m|gml|queer|t=oblique, off-center}} (also compare with {{cog|de|quer|t=diagonally}}), from {{der|en|gem-pro|*þwerhaz}}, from {{der|en|ine-pro|*terkʷ-|t=to turn, twist, wind}}. Compare {{cog|la|torqueo}}. Related to {{m|en|thwart}}.
 
 ===Pronunciation===
 * {{a|GenAm}} {{enPR|kwîr}}, {{IPA|en|/kwɪɹ/}}
@@ -50,21 +50,19 @@ Attested since about 1510, from {{etyl|sco|en}}, perhaps from {{etyl|gml|en}} (B
 * {{sense|unconventional sexual behavior}}
 
 ====Derived terms====
-{{rel-top3|Terms derived from ''queer''}}
-* {{l|en|as queer as Dick's hatband}}
-* {{l|en|genderqueer}}
-* {{l|en|queer as Dick's hatband}}
-* {{l|en|queercore}}
-{{rel-mid3}}
-* {{l|en|queer fish}}
-* {{l|en|queerish}}
-* {{l|en|queer ken}}
-* {{l|en|queerly}}
-{{rel-mid3}}
-* {{l|en|queerness}}
-* {{l|en|queerplatonic}}
-* {{l|en|queer theory}}
-{{rel-bottom}}
+{{col4|en
+|as queer as Dick's hatband
+|genderqueer
+|queer as Dick's hatband
+|queercore
+|queer fish
+|queerish
+|queer ken
+|queerly
+|queerness
+|queerplatonic
+|queer theory
+}}
 
 ====Translations====
 {{trans-top|weird, odd, different}}
@@ -72,7 +70,7 @@ Attested since about 1510, from {{etyl|sco|en}}, perhaps from {{etyl|gml|en}} (B
 * Bulgarian: {{t+|bg|странен|m}}, {{t+|bg|чудат|m}}, {{t+|bg|особен|m}}
 * Catalan: {{t+|ca|estrany}}
 * Chinese:
-*: Mandarin: {{t+|cmn|怪|tr=guai|sc=Hani}}
+*: Mandarin: {{t+|cmn|怪|tr=guai}}
 * Dutch: {{t+|nl|bizar}}, {{t+|nl|afwijkend}}, {{t+|nl|vreemd}}
 * Esperanto: {{t|eo|stranga}}
 * Estonian: {{t|et|umbluu}}
@@ -84,8 +82,8 @@ Attested since about 1510, from {{etyl|sco|en}}, perhaps from {{etyl|gml|en}} (B
 * German: {{t+|de|seltsam}}
 * Hungarian: {{t+|hu|furcsa}}
 * Italian: {{t+|it|strano}}, {{t+|it|bizzarro|m}}
-* Japanese: {{t+|ja|奇妙|tr=きみょうな, kimyō na|alt=奇妙な|sc=Jpan}}
-* Macedonian: {{t|mk|чуден|m|tr=čúden}}, {{t|mk|необичен|m|tr=neóbičen}}
+* Japanese: {{t+|ja|奇妙|tr=きみょうな, kimyō na|alt=奇妙な}}
+* Macedonian: {{t|mk|чу́ден|m}}, {{t|mk|нео́бичен|m}}
 * Portuguese: {{t+|pt|bizarro}}, {{t+|pt|estranho}}
 * Russian: {{t+|ru|стра́нный|m}}
 * Scottish Gaelic: {{t|gd|neònach}}
@@ -96,10 +94,10 @@ Attested since about 1510, from {{etyl|sco|en}}, perhaps from {{etyl|gml|en}} (B
 * Breton: {{t|br|dihet}}
 * Dutch: {{t+|nl|slecht}}, ('''to feel queer''' zich slecht in zijn vel voelen)
 * Finnish: {{t+|fi|outo}}, {{t+|fi|omituinen}}
-* French: [[mal]] [[fichu]] ('''to feel queer''' se sentir mal fichu)
+* French: {{t|fr|[[mal]] [[fichu]]}} ('''to feel queer''' se sentir mal fichu)
 {{trans-mid}}
 * German: {{t+|de|unwohl}}
-* Italian: un po' [[male]] ('''to feel queer''' stare un po' male, [[sentirsi]] poco bene)
+* Italian: {{t|it|un po' [[male]]}} ('''to feel queer''' stare un po' male, {{l|it|sentirsi}} poco bene)
 * Spanish: {{t+|es|trucha}}
 {{trans-bottom}}
 
@@ -109,14 +107,14 @@ Attested since about 1510, from {{etyl|sco|en}}, perhaps from {{etyl|gml|en}} (B
 * Dutch: {{t+|nl|homoseksueel}}, {{t+|nl|homo}}
 * Esperanto: {{qualifier|inoffensive}} {{t+|eo|geja}}, {{qualifier|offensive}} {{t|eo|gejaĉa}}, {{qualifier|offensive or archaic}} {{t|eo|pederasta}}
 * Finnish: {{t+|fi|sateenkaari|alt=sateenkaari-}} {{qualifier|neutral slang for LGBT}}, {{t+|fi|hintti|alt=hintti-}} {{qualifier|offensive for gay men}}
-* French: [[gay]] (''inoffensive''), {{t+|fr|pédé}} {{qualifier|highly offensive}}
+* French: {{t+|fr|gay}} {{q|inoffensive}}, {{t+|fr|pédé}} {{qualifier|highly offensive}}
 * German: {{t+|de|schwul}}, {{t+|de|lesbisch}} {{qualifier|lesbian}}, {{t+|de|homo}}, {{t+|de|queer}}
 * Hungarian: {{t+|hu|buzi}}
 * Icelandic: {{t|is|hinsegin}}
 * Indonesian: {{t+|id|homo}}, {{t+|id|maho}}, {{t|id|hombreng}}
 {{trans-mid}}
 * Irish: {{t|ga|aiteach}}
-* Italian: {{t+|it|omosessuale}} (''neutral''), {{t+|it|finocchio|m}}, {{t+|it|checca|f}}, {{t+|it|frocio|m}}
+* Italian: {{t+|it|omosessuale}} {{q|neutral}}, {{t+|it|finocchio|m}}, {{t+|it|checca|f}}, {{t+|it|frocio|m}}
 * Northern Sami: {{t|se|bonju}}
 * Norwegian: {{t+|no|skeiv}}, {{t+|no|homse|m}}, {{qualifier|highly offensive}} {{t+|no|soper|m}}
 * Portuguese: {{t+|pt|bicha|f}}, {{t+|pt|viado|m}}
@@ -156,6 +154,7 @@ Attested since about 1510, from {{etyl|sco|en}}, perhaps from {{etyl|gml|en}} (B
 # {{lb|en|definite|with "the"|informal|archaic}} [[counterfeit|Counterfeit]] [[money]].
 #* '''1913''', [[w:Rex Stout|Rex Stout]], ''Her Forbidden Knight'', 1997 [[w:Carroll & Graf Publishers|Carroll & Graf]] edition, {{ISBN|0786704446}}, page 133:
 #*: You're shoving '''the queer'''.
+#: {{syn|en|funny money|snide}}
 
 ====Usage notes====
 * See the notes on the adjective (above) for more on the meaning of the term.
@@ -163,30 +162,28 @@ Attested since about 1510, from {{etyl|sco|en}}, perhaps from {{etyl|gml|en}} (B
 
 ====Synonyms====
 * {{sense|homosexual person}} {{seeSynonyms|en|homosexual person|male homosexual|sense=1}}
-* {{sense|counterfeit money}} {{l|en|funny money}}, {{l|en|snide}}
 
 ====Hypernyms====
 * {{l|en|LGBTQ}}, {{l|en|QUILTBAG}}
 
 ====Derived terms====
-* {{l|en|queerdo}}
-* {{l|en|shove the queer}}
+{{col2|en
+|queerdo
+|shove the queer
+}}
 
 ====Translations====
 {{trans-see|slang: homosexual|fag}}
 
 {{trans-top|slang: person of atypical sexuality or sexual identity}}
-* Dutch: [[janet]] {{g|m}} {{qualifier|offensive}}, {{t+|nl|nicht|m}}
+* Dutch: {{t+|nl|janet|m}} {{qualifier|offensive}}, {{t+|nl|nicht|m}}
 * Finnish: {{t+|fi|vinokas}} {{qualifier|neutral}}, {{t+|fi|pervo}} {{qualifier|archaic}}, {{t+|fi|queer}}, {{t|fi|kveeri}}
 {{trans-mid}}
 * German: {{t|de|Queers|p}} {{qualifier|plural}}
 * Hebrew: {{t|he|קְוִּויר|m|tr=kuir}}
 {{trans-bottom}}
 
-{{checktrans-top}}
-* {{ttbc|br}}: [[heñvelreviad]] {{g|m}} (neutral), [[paotretaer]] {{g|m}} (inoffensive), [[pich kaoc'h]] {{g|m}} (offensive)
-* {{ttbc|bg}}: [[хомосексуалист]] {{g|m}}, [[гей]] {{g|m}}, [[педераст]] {{g|m}} (offensive), [[педал]] {{g|m}} (highly offensive)
-* {{ttbc|de}}: {{t+check|de|Homosexueller|m}}, [[Schwuler]] {{g|m}}, [[Lesbe]] {{g|f}} (latter two sometimes offensive)
+{{trans-top}}
 {{trans-mid}}
 * Hungarian: {{t+check|hu|buzi}}
 * Swedish: {{t+check|sv|gay}}, {{t+check|sv|bög}}
@@ -198,6 +195,7 @@ Attested since about 1510, from {{etyl|sco|en}}, perhaps from {{etyl|gml|en}} (B
 # {{lb|en|transitive}} To [[render]] an endeavor or agreement [[ineffective]] or [[null]].
 #* '''1955''', [[w:Rex Stout|Rex Stout]], "When a Man Murders...",<!--... in title--> in [[w:Three Witnesses (book)|''Three Witnesses'']], October 1994 [[w:Bantam Books|Bantam]] edition, {{ISBN|0553249592}}, page 78:
 #*: I was a lot more apt to '''queer''' it than help it.
+#: {{syn|en|invalidate}}
 # {{lb|en|UK|dialect|dated}} To [[puzzle]]. <!--Webster 1913-->
 #* '''1887''', G. W. Appelton, ''A Terrible Legacy: A Tale of the South Downs'', London: Ward and Downey, Chapter II, page 12, [https://books.google.ca/books?id=VWQUAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false]:
 #*: "But lor-a-mussy, Jacob, how could a woman get away from here with all her boxes in the middle of the night?"
@@ -218,9 +216,6 @@ Attested since about 1510, from {{etyl|sco|en}}, perhaps from {{etyl|gml|en}} (B
 #* '''2013''', Mark Davidson, Deborah Martin, ''Urban Politics: Critical Approaches'', SAGE ({{ISBN|9781446293034}}), [https://books.google.de/books?id=d6CVAgAAQBAJ&lpg=PT168&dq=%22urban%20studies%22&pg=PT168#v=onepage&q=%22urban%20studies%22&f=false chapter 8]:
 #*: We might say that there has been a ‘'''queering'''’ of urban studies insofar as the metropolitan lives, subcultures and social movements of gays and lesbians are now seen as valid objects of study.
 
-====Synonyms====
-* {{l|en|invalidate}}
-
 ====Translations====
 {{trans-top|applying queer theory}}
 * Esperanto: {{t|eo|kvirigi}}
@@ -228,10 +223,10 @@ Attested since about 1510, from {{etyl|sco|en}}, perhaps from {{etyl|gml|en}} (B
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Dutch: {{t+|nl|bederven}}, {{t+|nl|tegenwerken}}
-* French: {{t+|fr|obstruer}}, {{t+|fr|saboter}}
+* Dutch: {{t+check|nl|bederven}}, {{t+check|nl|tegenwerken}}
+* French: {{t+check|fr|obstruer}}, {{t+check|fr|saboter}}
 {{trans-mid}}
-* German: {{t+|de|queeren}}
+* German: {{t+check|de|queeren}}
 {{trans-bottom}}
 
 ===Adverb===
