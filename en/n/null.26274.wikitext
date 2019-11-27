@@ -122,32 +122,35 @@ From {{der|fo|la|nullus}}.
 
 ==German==
 
+===Etymology===
+From the noun {{m|de|Null|t=the number zero}}, from {{der|de|it|nulla}}, from {{der|de|la|nulla}}, feminine singular of {{m|la|nullus|t=no, none}}.
+
 ===Pronunciation===
 * {{IPA|de|/nʊl/}}
 * {{audio|de|De-null.ogg|Audio}}
 
-===Adjective===
-{{de-adj|-}}
-
-# {{lb|de|slang}} [[no]], [[zero]] {{gloss|absolutely none}}
-# {{lb|de|law}} {{l|en|null}} {{gloss|having no validity}}
-
-====Declension====
-{{rfc|de|This word is indeclinable. For example the feminine strong accusative is "sie hat null Ahnung" (= "sie hat keine Ahnung") and not "sie hat nulle Ahnung".}}
-{{de-decl-adj-notcomp|null}}
-
-====Synonyms====
-* {{l|de|kein}}
-* {{l|de|überhaupt}} {{l|de|kein}}
-
 ===Numeral===
 {{head|de|numeral}}
 
-# {{cln|de|cardinal numbers}} [[zero]], {{q|British}} [[nought]] {{gloss|number occurring before one and that denotes no quantity or amount at all}}
-# {{lb|de|sports}} [[nil]], {{q|tennis}} [[love]], [[zero]] {{gloss|no score}}
+# {{cln|de|cardinal numbers}} [[zero]]; [[nil]]; [[nought]]; {{q|tennis}} [[love]] {{gloss|integer number between -1 and 1, denoting no quantity at all}}
+#: {{ux|de|'''Null''' mal '''null''' ist '''null'''.|'''Zero''' times '''zero''' is '''zero'''.}}
+# {{lb|de|colloquial}} [[zero]]; [[no]]
+#: {{syn|de|([[überhaupt]]) [[kein]]}}
+#: {{ux|de|Ich hab echt '''null''' Bock, da mit dir jetzt drüber zu diskutieren.|I frankly have '''zero''' interest in discussing this with you right now.}}
 
 ====Coordinate terms====
 {{de-cardinal}}
+
+===Adjective===
+{{de-adj|-}}
+
+# {{lb|de|specialist|law|chiefly|predicative}} {{l|en|null}} {{gloss|having no validity}}
+
+====Declension====
+{{de-decl-adj-notcomp|null}}
+
+====Derived terms====
+* {{l|de|null und nichtig}} {{q|also in common use}}
 
 ===External links===
 * {{R:Duden|_null_kein_kein_bisschen}} and {{R:Duden|_null_Kardinalzahl}}; cp. {{R:Duden|Null_Ziffer_Versager_Depp|Null}} and {{R:Duden|Null_Spiel_Skat|Null}}
