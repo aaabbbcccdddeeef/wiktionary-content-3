@@ -282,7 +282,7 @@ Cognate with {{cog|sco|fox||fox}}, {{cog|fy|foks||fox}}, Fering-Öömrang {{cog|
 * Occitan: {{t+|oc|mandra|f}}, {{t+|oc|rainal|m}}, {{t+|oc|guèine|m}}
 * Ojibwe: {{t|oj|ᐙᑯᔥ|tr=[[waagosh]]}}
 * Okinawan: {{t|ryu|狐|tr=ちちに, chichini}}
-* Old English: {{t+|ang|fox|m}}
+* Old English: {{t|ang|fox|m}}
 * Old High German: {{t|goh|fuhs}}, {{t|goh|fō̮ha}}
 * Old Norse: {{t|non|fóa|f}}
 * Old Prussian: {{t|prg|lape}}
@@ -566,7 +566,7 @@ From {{inh|enm|ang|fox}}, from {{inh|enm|gem-pro|*fuhsaz}}.
 ==Old English==
 
 ===Etymology===
-From {{inh|ang|gem-pro|*fuhsaz}}, from {{der|ang|ine-pro|*puk-}}, {{m|ine-pro|*pewk-||bushy hair}}. Cognate with {{cog|osx|vuhs}}, {{cog|nl|vos}}, {{cog|goh|fuhs}} ({{cog|yi|פֿוקס}}, {{cog|de|Fuchs}}). The Indo-European root was also the source of {{cog|ae|𐬞𐬎𐬯𐬀|t=plait}}, {{cog|sla-pro|*puxъ}} ({{cog|ru|пух||fuzz}}), {{cog|ine-bsl-pro|*pausti-}} ({{cog|lt|paustìs||fur}}).
+From {{inh|ang|gem-pro|*fuhsaz}}. Cognate with {{cog|ofs|*foks}}, {{cog|osx|fohs}}, {{cog|odt|fus}}, {{cog|goh|fuhs}}.
 
 ===Pronunciation===
 * {{IPA|ang|/foks/}}
@@ -578,6 +578,9 @@ From {{inh|ang|gem-pro|*fuhsaz}}, from {{der|ang|ine-pro|*puk-}}, {{m|ine-pro|*p
 
 ====Declension====
 {{ang-decl-noun-a-m|fox}}
+
+====Derived terms====
+* {{l|ang|foxhol}}
 
 ====Descendants====
 * {{desctree|enm|fox}}
