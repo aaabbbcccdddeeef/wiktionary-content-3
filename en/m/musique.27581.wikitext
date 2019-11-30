@@ -10,37 +10,40 @@
 
 ==French==
 
-===Alternative forms===
-* {{alter|fr|zicmu}}, {{l|fr|zikmu}} {{q|verlan}}
-* {{alter|fr|zik}} {{q|clipping}}
-
-===Etymology===
-From {{inh|fr|fro|musique}}, reborrowed from {{der|fr|la|mūsica}}, borrowed from {{der|fr|grc|μουσική|t=art of the Muses}}, derived from {{m|grc|Μοῦσα|t=Muse}}.
-
 ===Pronunciation===
 * {{fr-IPA}}
-* {{audio|fr|Fr-musique.ogg|Audio (France)}}
 * {{a|Quebec}} {{IPA|fr|/my.zɪk/|/mʏ.zɪk/}}
 * {{homophones|fr|musiques|musiquent}}
+* {{audio|fr|Fr-musique.ogg|Audio (France)}}
 * {{rhymes|fr|ik}}
 
-===Noun===
+===Etymology 1===
+From {{inh|fr|fro|musique}}, reborrowed from {{der|fr|la|mūsica}}, borrowed from {{der|fr|grc|μουσική|t=art of the Muses}}, derived from {{m|grc|Μοῦσα|t=Muse}}.
+
+====Noun====
 {{fr-noun|f|~}}
 
 # [[music]]
 
-===Verb===
-{{head|fr|verb form}}
-
-# {{inflection of|fr|musiquer||1|s|pres|indc}}
-# {{inflection of|fr|musiquer||3|s|pres|indc}}
-# {{inflection of|fr|musiquer||1|s|pres|subj}}
-# {{inflection of|fr|musiquer||3|s|pres|subj}}
-# {{inflection of|fr|musiquer||2|s|impr}}
+====Alternative forms====
+* {{alter|fr|zicmu|zikmu||verlan}}
+* {{alter|fr|zik||clipping}}
 
 ====Related terms====
-* {{l|fr|musicale}}
-* {{l|fr|musicien}}
+{{col2|fr
+|musicale
+|musicien
+}}
+
+===Etymology 2===
+{{nonlemma}}
+
+====Verb====
+{{head|fr|verb form}}
+
+# {{inflection of|fr|musiquer||1//3|s|pres|indc}}
+# {{inflection of|fr|musiquer||1//3|s|pres|subj}}
+# {{inflection of|fr|musiquer||2|s|impr}}
 
 ===Further reading===
 * {{R:TLFi}}
@@ -102,6 +105,9 @@ From {{der|fro|grc|-}} via {{inh|fro|la|-}}, see above.
 ----
 
 ==Spanish==
+
+===Pronunciation===
+* {{es-IPA}}
 
 ===Verb===
 {{head|es|verb form}}
