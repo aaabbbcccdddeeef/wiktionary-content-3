@@ -40,10 +40,8 @@ From {{inh|en|enm|voide}}, {{m|enm|voyde}}, from {{der|en|fro|vuit}}, {{m|fro|vo
 #* {{rfdatek|en|Alexander Pope}}
 #*: idol, '''void''' and vain
 # {{lb|en|computing|programming|of a [[function]] or [[method]]}} That does not [[return]] a value.
-#* '''2005''', Craig Larman, ''Applying UML and patterns''
-#*: In particular, the ''roll'' method is '''void''' — it has no return value.
-#* '''2007''', Andrew Krause, ''Foundations of GTK+ Development''
-#*: The return value can safely be ignored if it is a '''void''' function.
+#* {{quote-book|en|year=2005|author=Craig Larman|title=Applying UML and patterns|passage=In particular, the ''roll'' method is '''void''' — it has no return value.}}
+#* {{quote-book|en|year=2007|author=Andrew Krause|title=Foundations of GTK+ Development|passage=The return value can safely be ignored if it is a '''void''' function.}}
 
 =====Translations=====
 {{trans-top|containing nothing}}
