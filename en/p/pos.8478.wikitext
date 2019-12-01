@@ -55,23 +55,39 @@ Borrowed from {{bor|io|la|post}} (with the ''t'' dropped so not to interfere wit
 
 ----
 
-==Malay==
+==Indonesian==
 {{wikipedia|lang=id}}
 
-===Etymology===
-From {{bor|ms|en|post}} and {{bor|ms|nl|post|t=post}}.
-
 ===Pronunciation===
-* {{q|Indonesia}} {{IPA|ms|/pos/|}}
-* {{q|Indonesia}} {{hyphenation|ms|pos}}
+* {{IPA|id|[ˈpɔs]|}}
+* {{hyphenation|id|pos}}
 
-===Noun===
-{{head|ms|noun}}
+===Etymology 1===
+From {{bor|id|nl|post|t=post}}, from {{der|id|frm|poste}}, from {{der|id|it|posta}}, {{m|it|posto}}, from {{der|id|la|postus}}, from {{m|la|positus}}. Cognate to {{cog|ms|pos}}.
+
+====Noun====
+{{id-noun}}
 # {{l|en|mail}}.
-# {{l|en|post}}, an assigned station, an appointed position in an organization.
+## {{l|en|post}}.
+## {{l|en|post office}}.
+##: {{syn|id|kantor pos}}
+## {{lb|id|archaic}} {{l|en|posthorse}}.
+## {{lb|id|archaic}} {{l|en|postal}} {{l|en|station}}.
+
+===Etymology 2===
+From {{bor|id|nl|post|t=post}}, from {{bor|nl|fr|poste}}, from {{der|nl|it|posto}}, from {{der|id|la|postus}}, from {{m|la|positus}}. Cognate to {{cog|id|pos}}.
+
+====Noun====
+{{id-noun}}
+# {{l|en|post}}, {{l|en|station}}.
+## {{l|en|station}}.
+## {{lb|id|archaic}} {{l|en|postal}} {{l|en|station}}.
+## {{l|en|base}}.
+# {{lb|id|colloquial}} {{l|en|meeting place}}.
+# {{lb|id|accounting}} {{l|en|budget}}.
 
 ===Derived terms===
-{{der2|ms|
+{{der4|id|
 |mengeposkan
 |pengeposan
 |mengepos
@@ -88,6 +104,19 @@ From {{bor|ms|en|post}} and {{bor|ms|nl|post|t=post}}.
 
 ===Further reading===
 * {{R:KBBI Daring}}
+
+----
+
+==Malay==
+{{wikipedia|lang=ms}}
+
+===Etymology===
+From {{bor|ms|en|post}}. Cognate to {{cog|id|pos}}.
+
+===Noun===
+{{head|ms|noun}}
+# {{l|en|mail}}.
+# {{l|en|post}}, an assigned station, an appointed position in an organization.
 
 ----
 
