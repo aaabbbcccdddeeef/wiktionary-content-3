@@ -17,13 +17,13 @@ From {{inh|en|enm|pushen}}, {{m|enm|poshen}}, {{m|enm|posson}}, borrowed from {{
 #: ''In his anger he '''pushed''' me against the wall and threatened me.''
 #: ''You need to '''push''' quite hard to get this door open.''
 # {{lb|en|transitive}} To continually attempt to persuade (a person) into a particular course of action.
-#* Jonathan Swift {{rfdate|en}}
+#* {{rfdatek|en|Jonathan Swift}}
 #*: We are '''pushed''' for an answer.
-#* ''Spectator''
+#* {{rfdatek|en|Spectator}}
 #*: Ambition '''pushes''' the soul to such actions as are apt to procure honour to the actor.
 # {{lb|en|transitive}} To press or urge forward; to drive.
 #: ''to '''push''' an objection too far; to '''push''' one's luck''
-#* Dryden {{rfdate|en}}
+#* {{rfdatek|en|Dryden}}
 #*: to '''push''' his fortune
 # {{lb|en|transitive}} To continually [[promote]] (a point of view, a product for sale, etc.).
 #: ''Stop '''pushing''' the issue &mdash; I'm not interested.''
@@ -42,11 +42,9 @@ From {{inh|en|enm|pushen}}, {{m|enm|poshen}}, {{m|enm|posson}}, borrowed from {{
 # {{lb|en|poker}} To make an [[all-in]] [[bet]].
 # {{lb|en|chess|transitive}} To move (a [[pawn]]) directly [[forward]].
 # {{lb|en|computing}} To add (a data item) to the top of a [[stack]].
-#* {{quote-book|en|year=1992|author=Michael A. Miller|title=The 68000 Microprocessor Family: Architecture, Programming, and Applications|page=47
-|passage=When the microprocessor decodes the JSR opcode, it stores the operand into the TEMP register and '''pushes''' the current contents of the PC ($00 0128) onto the stack.}}
+#* {{quote-book|en|year=1992|author=Michael A. Miller| title=The 68000 Microprocessor Family: Architecture, Programming, and Applications| page=47| passage=When the microprocessor decodes the JSR opcode, it stores the operand into the TEMP register and '''pushes''' the current contents of the PC ($00 0128) onto the stack.}}
 # {{lb|en|computing}} To [[publish]] (an update, etc.) by transmitting it to other computers.
-#* {{quote-book|en|year=2002|author=Lars Powers, Mike Snell|title=Visual Basic Programmer's Guide to the .NET Framework Class Library|page=968
-|passage=Because this version of the Windows Installer is aware of the GAC, it has the capability to publish components into it. {{...}} You can manually or programmatically '''push''' an assembly into the GAC by using the command-line tool Gacutil.exe.}}
+#* {{quote-book|en|year=2002|author=Lars Powers, Mike Snell| title=Visual Basic Programmer's Guide to the .NET Framework Class Library| page=968| passage=Because this version of the Windows Installer is aware of the GAC, it has the capability to publish components into it. {{...}} You can manually or programmatically '''push''' an assembly into the GAC by using the command-line tool Gacutil.exe.}}
 # {{lb|en|obsolete}} To thrust the points of the horns against; to [[gore]].
 #* Bible, Exodus xxi. 32
 #*: If the ox shall '''push''' a manservant or maidservant, {{...}} the ox shall be stoned.
