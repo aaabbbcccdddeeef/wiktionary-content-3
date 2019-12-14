@@ -309,42 +309,42 @@ From {{inh|nl|dum|lēvere}}, from {{inh|nl|odt|*levara}}, from {{inh|nl|gem-pro|
 ==French==
 
 ===Etymology===
-From {{inh|fr|frm|lever}}, from {{inh|fr|fro|lever}}, from {{inh|fr|la|levāre}}, present active infinitive of {{m|la|lēvō||to elevate}}, from {{m|la|levis||light, not heavy}}
+From {{inh|fr|frm|lever}}, from {{inh|fr|fro|lever}}, from {{inh|fr|la|levāre}}, present active infinitive of {{m|la|lēvō|t=to elevate}}, from {{m|la|levis|t=light, not heavy}}
 
 ===Pronunciation===
 * {{fr-IPA}}
 * {{audio|fr|Fr-lever.ogg|audio}}
+* {{fr-homophones-er|lev}}
 
 ===Verb===
 {{fr-verb}}
 
-# {{lb|fr|transitive}} to [[raise]], to [[lift]]
-# {{lb|fr|reflexive}} to [[rise]], to [[stand]] up
+# {{lb|fr|transitive}} to [[raise]], [[lift]]
+#: {{ant|fr|baisser}}
+# {{lb|fr|reflexive}} to [[rise]], [[stand]] up
+#: {{ant|fr|[[abaisser|s'abaisser]]}}
 # {{lb|fr|reflexive}} to [[get up]] (out of bed)
-#: ''Je me '''lève''', je me lave.''
-#:: ''I get up, I wash.''
-# {{lb|fr|reflexive|of fog, rain and etc}} to [[clear]], to [[lift]]
+#: {{uxi|fr|Je me '''lève''', je me lave.|I get up, I wash.}}
+#: {{ant|fr|[[coucher|se coucher]]|[[allonger|s'allonger]]}}
+# {{lb|fr|reflexive|of fog, rain and etc}} to [[clear]], [[lift]]
 
 ====Conjugation====
 {{fr-conj-auto|l|ever}}
 
-====Antonyms====
-* {{sense|to raise}} {{l|fr|baisser}}
-* {{sense|to rise}} {{l|fr|abaisser|s'abaisser}}
-* {{sense|to get up}} {{l|fr|coucher|se coucher}}, {{l|fr|allonger|s'allonger}}
-
 ====Related terms====
-* {{l|fr|levage|g=m}}
-* {{l|fr|levant}}, {{l|fr|Levant}}, {{l|fr|Levantin|g=m}}
-* {{l|fr|levé}}
-* {{l|fr|lève}}
-* {{l|fr|lève-Dieu}}
-* {{l|fr|levée}}
-* {{l|fr|se lever}}
-* {{l|fr|lever du soleil}}
-* {{l|fr|lève-tard}}
-* {{l|fr|leveur|g=m}}
-* {{l|fr|levure}}
+{{col4|fr
+|{{l|fr|levage|g=m}}
+|{{l|fr|levant}}, {{l|fr|Levant}}, {{l|fr|Levantin|g=m}}
+|{{l|fr|levé}}
+|{{l|fr|lève}}
+|{{l|fr|lève-Dieu}}
+|{{l|fr|levée}}
+|{{l|fr|se lever}}
+|{{l|fr|lever du soleil}}
+|{{l|fr|lève-tard}}
+|{{l|fr|leveur|g=m}}
+|{{l|fr|levure}}
+}}
 
 ===Noun===
 {{fr-noun|m}}
@@ -355,7 +355,7 @@ From {{inh|fr|frm|lever}}, from {{inh|fr|fro|lever}}, from {{inh|fr|la|levāre}}
 * {{R:TLFi}}
 
 ===Anagrams===
-* {{l|fr|lèvre}}
+* {{anagrams|fr|a=eelrv|lèvre}}
 
 [[Category:French nominalized infinitives]]
 
