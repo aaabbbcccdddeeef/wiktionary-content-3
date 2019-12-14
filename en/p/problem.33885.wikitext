@@ -6,7 +6,7 @@
 * {{alter|en|probleme||obsolete}}
 
 ===Etymology===
-From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|problema}}, from {{der|en|grc|πρόβλημα|t=anything thrown forward, hindrance, obstacle, anything projecting, a headland, promontory}}, from {{m|grc|προβάλλω|t=to throw or lay something in front of someone, to put forward}}, from {{m|grc|προ-|t=in front of}} + {{m|grc|βάλλω|t=to throw, to cast, to hurl}}.
+From {{inh|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|problema}}, from {{der|en|grc|πρόβλημα|t=anything thrown forward, hindrance, obstacle, anything projecting, a headland, promontory}}, from {{m|grc|προβάλλω|t=to throw or lay something in front of someone, to put forward}}, from {{m|grc|προ-|t=in front of}} + {{m|grc|βάλλω|t=to throw, to cast, to hurl}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|en|/ˈpɹɒbləm/}}
@@ -247,9 +247,12 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 ==Danish==
 
 ===Noun===
-{{da-noun}}
+{{da-noun|et|er}}
 
-# a {{l|en|problem}}
+# {{l|en|problem}}
+
+====Declension====
+{{da-decl|et|er}}
 
 ====Derived terms====
 {{der3|da
@@ -260,6 +263,10 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 |søvnproblem
 |vægtproblem
 }}
+
+===References===
+* {{R:DDO}}
+* {{R:ODS online}}
 
 ----
 
@@ -277,7 +284,7 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 ===Noun===
 {{nb-noun-n3}}
 
-# a {{l|en|problem}}
+# {{l|en|problem}}
 
 ====Derived terms====
 {{Template:User:Donnanz/der3-u|lang=nb
@@ -302,7 +309,7 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 ===Noun===
 {{nn-noun-n1}}
 
-# a {{l|en|problem}}
+# {{l|en|problem}}
 
 ====Derived terms====
 {{Template:User:Donnanz/der3-u|lang=nn
@@ -364,8 +371,8 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 
 ===Pronunciation===
 * {{IPA|sv|/prʊˈbleːm/|/prɔ-/|/-ˈblɛːm/}}
+* {{hyph|sv|pro|blem}}
 * {{audio|sv|Sv-problem.ogg|Audio (of "ett problem," meaning "a problem")}}
-* {{hyphenation|sv|pro|blem}}
 
 ===Noun===
 {{sv-noun|n}}
@@ -417,3 +424,15 @@ From {{der|en|enm|probleme}}, from {{der|en|frm|probleme}}, from {{der|en|la|pro
 
 ===Anagrams===
 * {{anagrams|sv|a=belmopr|plomber}}
+
+----
+
+==Vilamovian==
+
+===Pronunciation===
+* {{audio|wym|Wym-problem (wersja Józefa Gary).ogg|Audio}}
+
+===Noun===
+{{wym-noun|n}}
+
+# [[#English|problem]]
