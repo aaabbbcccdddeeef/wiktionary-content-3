@@ -3,23 +3,21 @@
 {{wikipedia|dab=Judge (disambiguation)|Judge}}
 
 ===Alternative forms===
-* {{l|en|judg}} {{qualifier|obsolete}}
-
-===Etymology===
-{{PIE root|en|h₂yew}}
-From {{inh|en|enm|jugge}}, {{m|enm|juge||a judge}}, {{m|enm|juggen}}, {{m|enm|jugen||to judge}}, borrowed from {{bor|en|fro|juge||judge|pos=noun}}, {{m|fro|juger||to judge|pos=verb}}, ultimately from {{der|en|la|iudico|iūdicare|pass judgement upon}}, from {{m|la|iūdicem||accusative of iūdex}}, from {{m|la|iūdex||judge}}, from {{m|la|iūs||law}} + {{m|la|dicus||speaker}}. 
-
-The verb has mostly displaced native English ''{{l|en|deem}}'' and ''{{l|en|doom}}''.
+* {{alter|en|judg||obsolete}}
 
 ===Pronunciation===
 * {{enPR|jŭj}}, {{IPA|en|/d͡ʒʌd͡ʒ/}}
 * {{audio|en|en-us-judge.ogg|Audio (US)}}
 * {{rhymes|en|ʌdʒ}}
 
-===Noun===
+===Etymology 1===
+{{PIE root|en|h₂yew|deyḱ}}
+From {{inh|en|enm|juge|juǧe, juge, jugge}}, borrowed from {{der|en|fro|juge}}, from {{der|en|la|iūdex|iūdex, iūdicem}}.
+
+====Noun====
 {{en-noun}}
 
-# {{senseid|en|public judicial official}}A public [[official]] whose duty it is to [[administer]] the [[law]], especially by [[presiding]] over [[trial]]s and [[render]]ing [[judgment]]s; a [[justice]].
+# {{senseid|en|public judicial official}} A public [[official]] whose duty it is to [[administer]] the [[law]], especially by [[presiding]] over [[trial]]s and [[render]]ing [[judgment]]s; a [[justice]].
 #* {{rfdatek|en|Francis Bacon}}
 #*: The parts of a '''judge''' in hearing are four: to direct the evidence; to moderate length, repetition, or impertinency of speech; to recapitulate, select, and collate the material points of that which hath been said; and to give the rule or sentence.
 # A [[person]] who [[decide]]s the [[fate]] of someone or something that has been [[call]]ed into [[question]].
@@ -289,7 +287,13 @@ The verb has mostly displaced native English ''{{l|en|deem}}'' and ''{{l|en|doom
 * Turkish: {{t+check|tr|hakim|alt=hâkim}}, {{t+check|tr|yargıç}}
 {{trans-bottom}}
 
-===Verb===
+===Etymology 2===
+{{PIE root|en|h₂yew|deyḱ}}
+From {{inh|en|enm|juǧen}}, borrowed from {{der|en|xno|juger}}, from {{der|en|fro|jugier}}, from {{der|en|la|iūdicō|iūdicāre}}.
+
+Mostly displaced native {{m|en|deem}}.
+
+====Verb====
 {{en-verb|judg}}
 
 # {{lb|en|transitive}} To sit in [[judgment]] on; to [[pass]] [[sentence]] on.
@@ -298,7 +302,7 @@ The verb has mostly displaced native English ''{{l|en|deem}}'' and ''{{l|en|doom
 #: ''Justices in this country '''judge''' without appeal.''
 # {{lb|en|transitive}} To [[form]] an [[opinion]] on.
 #: ''I '''judge''' a man’s character by the cut of his suit.''
-#* {{rfdatek|en|Michael Collins}}
+#* '''1921''', {{w|Michael Collins (Irish leader)|Michael Collins}}, after the {{w|Anglo-Irish Treaty}}:
 #*: Let us be '''judged''' for what we attempted rather than what we achieved. 
 # {{lb|en|intransitive}} To [[arbitrate]]; to pass [[opinion]] on something, especially to [[settle]] a [[dispute]] etc.
 #: ''We cannot both be right: you must '''judge''' between us.''
@@ -323,20 +327,6 @@ The verb has mostly displaced native English ''{{l|en|deem}}'' and ''{{l|en|doom
 * {{l|en|misjudge}}
 * {{l|en|unjudge}}
 * {{l|en|you can't judge a book by its cover}}
-
-====Related terms====
-{{top2}}
-* {{l|en|abjudge}}
-* {{l|en|abjudicate}}
-* {{l|en|adjudicate}}
-{{mid2}}
-* {{l|en|judgment}}
-* {{l|en|judicator}}
-* {{l|en|judicial}}
-* {{l|en|judiciary}}
-* {{l|en|prejudice}}
-* {{l|en|magistrate}}
-{{bottom}}
 
 ====Translations====
 {{trans-top|to sit in judgment on, pass sentence on}}
@@ -556,6 +546,17 @@ The verb has mostly displaced native English ''{{l|en|deem}}'' and ''{{l|en|doom
 * Turkish: {{t-check|tr|hükmektmek}}, {{t+check|tr|yargıya varmak}}
 {{trans-bottom}}
 
+===See also===
+ * {{l|en|abjudge}}
+* {{l|en|abjudicate}}
+* {{l|en|adjudicate}}
+ * {{l|en|judgment}}
+* {{l|en|judicator}}
+* {{l|en|judicial}}
+* {{l|en|judiciary}}
+* {{l|en|prejudice}}
+* {{l|en|magistrate}}
+ 
 [[Category:en:Law]]
 [[Category:en:Occupations]]
 [[Category:en:People]]
