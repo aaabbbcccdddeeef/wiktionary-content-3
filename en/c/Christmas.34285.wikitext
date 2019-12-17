@@ -75,7 +75,7 @@ From {{inh|en|enm|Cristemasse}}, from {{inh|en|ang|Cristes mæsse}} (literally �
 * {{desc|bor=1|gvf|geresma}}
 * {{desc|bor=1|haw|Kalikimaka}}
 * {{desc|bor=1|ja|クリスマス|tr=Kurisumasu}}
-* {{desc|bor=1|ko|크리스마스}}
+* {{desc|bor=1|ko|^크리스마스}}
 
 ====Translations====
 {{trans-top|Christian holiday}}
@@ -83,8 +83,8 @@ From {{inh|en|enm|Cristemasse}}, from {{inh|en|ang|Cristes mæsse}} (literally �
 * Albanian: {{t|sq|Kërshëndella}}
 * Alutiiq: {{t|ems|Aʀusistuaq}}
 * Amharic: {{t|am|ገና|tr=gäna}}
-* Arabic: {{t|ar|عِيد الْمِيلَاد|m}}, {{t|ar|الْمِيلَاد|m}}, {{t|ar|الْكْرِيسْمَاس|m|tr=al-krismas}}
-*: Egyptian Arabic: {{t|arz|عيد الملاد|m|tr=ʕīd il-milād}}
+* Arabic: {{t|ar|عِيد الْمِيلَاد|m}}, {{t|ar|مِيلَاد|alt=الْمِيلَاد|m}}, {{t|ar|كْرِيسْمَاس|alt=الْكْرِيسْمَاس|m|tr=al-krismas}}
+*: Egyptian Arabic: {{t|arz|عيد الملاد|m|tr=ʿīd il-milād}}
 * Armenian: {{t|hy|Սուրբ Ծնունդ}}
 * Aromanian: {{t|rup|Crãciun}}
 * Asturian: {{t|ast|navidá|f}}, {{t|ast|ñavidá|f}}
@@ -130,8 +130,8 @@ From {{inh|en|enm|Cristemasse}}, from {{inh|en|ang|Cristes mæsse}} (literally �
 * Gujarati: {{t|gu|નાતાલ|sc=Gujr}}
 * Hausa: {{t|ha|Kirsimati}}
 * Hawaiian: {{t|haw|Kalikimaka}}, {{t|haw|Kalikamaka}}
-* Hebrew: {{t+|he|חַג הַמּוֹלָד|tr=khag ha'molad|sc=Hebr}}
-* Hindi: {{t|hi|क्रिसमस|m|sc=Deva}}, {{t|hi|बड़ा दिन|sc=Deva}}, {{t|hi|क्रिस्मस|m}}
+* Hebrew: {{t+|he|חַג הַמּוֹלָד|tr=khag ha'molad}}
+* Hindi: {{t|hi|बड़ा दिन}}, {{t|hi|क्रिसमस|m}}, {{t|hi|क्रिस्मस|m}}
 * Hungarian: {{t+|hu|karácsony}}
 * Hunsrik: {{t|hrx|Weinachte|n}}
 * Icelandic: {{t+|is|jól|n-p}}
@@ -168,7 +168,7 @@ From {{inh|en|enm|Cristemasse}}, from {{inh|en|ang|Cristes mæsse}} (literally �
 * Marathi: {{t|mr|नाताळ|sc=Deva}}
 * Mongolian: {{t|mn|Зул сар|sc=Cyrl}}, {{t|mn|Христосын мэндэлсэн өдөр|sc=Cyrl}}
 * Navajo: {{t|nv|Késhmish}}
-* Nepali: {{t|ne|क्रिसमस|tr=krismas|sc=Deva}}
+* Nepali: {{t|ne|क्रिसमस}}
 * Norman: {{t|nrf|Noué|m}}
 * Northern Sami: {{t|se|juovllat|p}}
 * Norwegian: {{t+|no|jul|f}}, {{t+|no|jol|f}}
@@ -182,7 +182,7 @@ From {{inh|en|enm|Cristemasse}}, from {{inh|en|ang|Cristes mæsse}} (literally �
 * Polish: {{t+|pl|Boże Narodzenie|n}}
 * Portuguese: {{t+|pt|Natal|m}}
 * Punjabi: {{t|pa|ਕ੍ਰਿਸਮਸ}}
-* Romanian: {{t+|ro|Crăciun|n}}, [[naștere|Naștere]]a [[lui]] [[Isus|Isus Cristos]] {{g|f}}, [[naștere|Naștere]]a [[domn|Domn]]ului {{g|f}}
+* Romanian: {{t+|ro|Crăciun|n}}, {{t+|ro|[[naștere|Nașterea]] [[lui]] [[Isus]] [[Cristos]]|f}}, {{t+ro|[[naștere|Nașterea]] [[domn|Domnului]]|f}}
 * Russian: {{t+|ru|Рождество́ Христо́во|n}}, {{t+|ru|Рождество́|n}}, {{t|ru|Кри́стмас|m}} {{qualifier|colloquial, foreign context or foreign communities}}
 * Rusyn: {{t|rue|Ріство́|n}}
 * Scots: {{t|sco|Yule}}
