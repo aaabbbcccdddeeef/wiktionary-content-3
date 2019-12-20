@@ -381,7 +381,7 @@ The city in England, capital of England and the United Kingdom, is invariably na
 ----
 
 ==Hungarian==
-{{wikipedia|lang=hu}}
+{{swp|lang=hu}}
 
 ===Pronunciation===
 * {{hu-IPA}}
@@ -390,12 +390,15 @@ The city in England, capital of England and the United Kingdom, is invariably na
 ===Proper noun===
 {{head|hu|proper noun}}
 
-# {{l|en|London}}
+# {{l|en|London}} {{gloss|the capital of the [[United Kingdom]] and of [[England]]}}
 
 ====Declension====
-{{hu-infl-nom|Londono|o|-}}{{hu-pos-otok|London|j|jai}}
+{{hu-infl-nom|Londono|o|-|n=sg}}{{hu-pos-otok|London|j|jai|n=sg}}
 
-{{topics|hu|Capital cities}}
+====Derived terms====
+* {{l|hu|londoni}}
+
+{{topics|hu|Capital cities|Cities in England}}
 
 ----
 
