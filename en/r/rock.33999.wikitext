@@ -577,7 +577,7 @@ From {{inh|en|enm|rocke}}, {{m|enm|rokke|t=rock formation}}, from {{inh|en|ang|*
 * Danish: {{t|da|isklump|c}}
 * Finnish: {{t+|fi|jääpala}}, {{t+|fi|jää|p|alt=jäät}}, {{t|fi|jääkuutio}}
 * Norwegian: {{t|no|isbit|m}}
-* Portuguese: {{t|pt|cubo de gelo|m}}, {{t+|pt|cubo}}
+* Portuguese: {{t|pt|cubo de gelo|m}}, {{t+|pt|cubo|m}}
 {{trans-mid}}
 * Russian: {{qualifier|on the rocks}} {{t|ru|со льдом}}
 * Swedish: {{t+|sv|isbit|c}}
@@ -611,7 +611,7 @@ From {{inh|en|enm|rocke}}, {{m|enm|rokke|t=rock formation}}, from {{inh|en|ang|*
 * Finnish: {{t+|fi|tollo}}
 * Latvian: {{t|lv|cietpauris|m}}, {{t|lv|aunapiere|f}}
 {{trans-mid}}
-* Marathi: {{t|mr|ढ|tr=Dh|sc=Deva}}
+* Marathi: {{t|mr|ढ|tr=Dh}}
 * Russian: {{t+|ru|тупи́ца|c}}, {{t+|ru|би́вень|m}} {{qualifier|colloquial}}
 {{trans-bottom}}
 
@@ -626,7 +626,7 @@ From {{inh|en|enm|rocke}}, {{m|enm|rokke|t=rock formation}}, from {{inh|en|ang|*
 
 {{checktrans-top}}
 * Georgian: {{t-check|ka|კლდე}}, {{t-check|ka|ქვა}}, {{t-check|ka|ქარაფი}}
-* Hebrew: {{t+check|he|אבן|f|alt=אֶבֶן|sc=Hebr}}
+* Hebrew: {{t+check|he|אבן|f|alt=אֶבֶן}}
 * Hungarian: {{t+check|hu|kő}}
 * Italian: {{qualifier|1,2}} {{t+check|it|roccia|f}}, {{qualifier|2}} {{t+check|it|pietra|f}}, {{qualifier|3}} {{t+check|it|sasso|m}}, {{qualifier|4}} {{t+check|it|masso|m}}, {{qualifier|5}} {{t+check|it|scoglio|m}}
 {{trans-mid}}
@@ -709,7 +709,7 @@ From {{inh|en|enm|rokken}}, from {{inh|en|ang|roccian}}, from {{inh|en|gem-pro|*
 * German: {{t+|de|schwanken}}, {{t+|de|schaukeln}}, {{qualifier|baby}} {{t+|de|wiegen}}
 * Ido: {{t+|io|baskuligar}}
 * Italian: {{t+|it|cullare}}, {{t+|it|ondeggiare}}, {{t+|it|trastullare}}
-* Khmer: {{t+|km|យោល|tr=yool, youl|sc=Khmr}}
+* Khmer: {{t+|km|យោល|tr=yool, youl}}
 {{trans-mid}}
 * Latvian: {{t|lv|šūpot}} {{qualifier|transitive}}, {{t|lv|aijāt}} {{qualifier|an infant; transitive}}, {{t|lv|šūpoties}} {{qualifier|reflexive}}
 * Macedonian: {{t|mk|лулеам}}
@@ -755,7 +755,7 @@ From {{inh|en|enm|rokken}}, from {{inh|en|ang|roccian}}, from {{inh|en|gem-pro|*
 * Danish: {{t+|da|gynge}}, {{t|da|krænge}} {{qualifier|vehicle}}
 * Dutch: {{t+|nl|schommelen}}, {{t+|nl|waggelen}}
 * Finnish: {{t+|fi|keikkua}}
-* German: {{t+|de|schaukeln}}, (''naut.'') {{t+|de|stampfen}}
+* German: {{t+|de|schaukeln}}, {{q|nautical}} {{t+|de|stampfen}}
 * Italian: {{t+|it|cullare}}
 * Latvian: {{t|lv|šūpoties}}
 * Maori: {{t|mi|tāhurihuri}} {{qualifier|refers to a boat}}, {{t|mi|tāhurihuri}}, {{t|mi|pīoioi}}
@@ -894,7 +894,7 @@ Shortened from {{m|en|rock and roll}}. Since the meaning of {{m|en||rock}} has a
 * German: {{t+|de|Rock|m}}
 * Greek: {{t+|el|ροκ|n|f}}
 * Hebrew: {{t+|he|רוֹק|m|tr=rok}}
-* Hindi: {{t|hi|रॉक संगीत|m|sc=Deva}}, {{t|hi|रॉक|sc=Deva}}
+* Hindi: {{t|hi|रॉक संगीत|m}}, {{t|hi|रॉक}}
 * Interlingua: {{t|ia|rock}}
 * Irish: {{t|ga|rac-cheol}}
 {{trans-mid}}
@@ -904,7 +904,7 @@ Shortened from {{m|en|rock and roll}}. Since the meaning of {{m|en||rock}} has a
 * Latvian: {{t|lv|roks|m}}
 * Lithuanian: {{t|lt|rokas|m}}
 * Malay: {{t|ms|rok}}
-* Maori: {{t|mi|puoro pīoioi }}
+* Maori: {{t|mi|puoro pīoioi}}
 * Polish: {{t+|pl|rock|m}}
 * Portuguese: {{t+|pt|rock|m}}
 * Russian: {{t+|ru|рок|m}}
@@ -1026,17 +1026,22 @@ From {{etyl|enm|en}} {{m|enm|rok}}, {{m|enm|rocke}}, {{m|enm|rokke}}, perhaps fr
 
 ==Catalan==
 
+===Etymology===
+From {{bor|ca|en|rock}}.
+
 ===Noun===
 {{ca-noun|m|-}}
 
 # {{l|en|rock}}, [[rock music]]
+
+{{topics|ca|Musical genres}}
 
 ----
 
 ==Czech==
 
 ===Etymology===
-From {{etyl|en|cs}} {{m|en|rock}}.
+From {{bor|cs|en|rock}}.
 
 ===Noun===
 {{cs-noun|g=m}}
@@ -1046,12 +1051,14 @@ From {{etyl|en|cs}} {{m|en|rock}}.
 ====Derived terms====
 * {{l|cs|rockový}}
 
+{{topics|cs|Musical genres}}
+
 ----
 
 ==Dutch==
 
 ===Etymology===
-From {{der|nl|en|rock}}.
+From {{bor|nl|en|rock}}.
 
 ===Pronunciation===
 * {{audio|nl|Nl-rock.ogg|Audio}}
@@ -1062,6 +1069,8 @@ From {{der|nl|en|rock}}.
 {{nl-noun|m|-|-}}
 
 # {{l|en|rock}} {{gloss|style of music}}
+
+{{topics|nl|Musical genres}}
 
 ----
 
@@ -1131,12 +1140,14 @@ Borrowed from {{bor|fr|en|rock}}.
 ==Italian==
 
 ===Etymology===
-From {{etyl|en|it}}
+From {{bor|it|en|rock}}.
 
 ===Noun===
 {{head|it|noun|g=m}}
 
 # [[rock]] {{gloss|style of music}}
+
+{{topics|it|Musical genres}}
 
 ----
 
@@ -1147,7 +1158,7 @@ From {{etyl|en|it}}
 * {{l|pt|roque}}
 
 ===Etymology===
-From {{etyl|en|pt}} {{m|en|rock}}.
+From {{bor|pt|en|rock}}.
 
 ===Pronunciation===
 * {{a|Portugal}} {{IPA|pt|/ʁɔk/}}
@@ -1162,7 +1173,9 @@ From {{etyl|en|pt}} {{m|en|rock}}.
 * {{l|pt|rock and roll}}
 
 ====Derived terms====
-* {{l|pt|roqueiro|g=m}}, {{l|pt|roqueiro|g=f}}
+* {{l|pt|roqueiro}}
+
+{{topics|pt|Musical genres}}
 
 ----
 
@@ -1170,7 +1183,7 @@ From {{etyl|en|pt}} {{m|en|rock}}.
 {{wikipedia|lang=es}}
 
 ===Etymology===
-From {{etyl|en|es}} {{m|en|rock}}.
+From {{bor|es|en|rock}}.
 
 ===Pronunciation===
 * {{IPA|es|[rok]}}
@@ -1183,13 +1196,16 @@ From {{etyl|en|es}} {{m|en|rock}}.
 ====Derived terms====
 * {{l|es|roquero|g=m}}, {{l|es|roquera|g=f}}
 * {{l|es|rockero|g=m}}, {{l|es|rockera|g=f}}
-* {{l|es|rockear|g=m}}, {{l|es|roquear|g=m}}
+* {{l|es|rockear}}
 * {{l|es|rockódromo|g=m}}
 
 ====Related terms====
 * {{l|es|rocanrol|g=m}}
 * {{l|es|rocanrolero|g=m}}
 * {{l|es|rock and roll|g=m}}
+
+===Further reading===
+* {{R:DRAE}}
 
 [[Category:es:Musical genres]]
 
@@ -1222,3 +1238,5 @@ From {{etyl|en|es}} {{m|en|rock}}.
 * {{l|sv|söndagsrock}}
 * {{l|sv|vinterrock}}
 * {{l|sv|ytterrock}}
+
+{{topics|sv|Musical genres}}
