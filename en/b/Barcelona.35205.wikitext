@@ -13,6 +13,7 @@
 {{en-proper noun}}
 
 # The capital city of [[Catalonia]] ([[Spain]]).
+# {{place|en|province|r/Catalonia|c/Spain}}
 
 ====Derived terms====
 * {{l|en|Barcelonan}}, {{l|en|Barcelonian}}
@@ -83,17 +84,15 @@ Two predominant theories are:
 ===Proper noun===
 {{ca-proper noun|f}}
 
-# {{l|en|Barcelona}}
+# {{place|ca|city/regional capital|r/Catalonia|c/Spain|t=Barcelona}}
+# {{place|ca|province|r/Catalonia|c/Spain|t=Barcelona}}
 
 ====Derived terms====
-* {{l|ca|barceloní|g=m}}, {{l|ca|barcelonina}} {{g|f}}
-* {{l|ca|barcelonès|g=m}}, {{l|ca|barcelonesa}} {{g|f}}
-* {{l|ca|Barcelonès|g=m}}
-* {{l|ca|Barça|g=m}}
-* {{l|ca|barcelonisme|g=m}}, {{l|ca|barcelonista}} {{g|m}} and {{g|f}}
-
-[[Category:ca:Cities in Spain]]
-[[Category:ca:Provinces of Spain]]
+* {{l|ca|barceloní}}, {{l|ca|barcelonina}}
+* {{l|ca|barcelonès}}, {{l|ca|barcelonesa}}
+* {{l|ca|Barcelonès}}
+* {{l|ca|Barça}}
+* {{l|ca|barcelonisme}}, {{l|ca|barcelonista}}
 
 ----
 
@@ -102,7 +101,7 @@ Two predominant theories are:
 ===Proper noun===
 {{cs-proper noun|g=f}}
 
-# {{l|en|Barcelona}}
+# {{place|cs|city/regional capital|r/Catalonia|c/Spain|t=Barcelona}}
 
 ====Derived terms====
 * {{l|cs|Barceloňan}}
@@ -119,9 +118,7 @@ Two predominant theories are:
 ===Proper noun===
 {{head|da|proper noun}}
 
-# {{l|en|Barcelona}}
-
-[[Category:da:Cities]]
+# {{place|da|city/regional capital|r/Catalonia|c/Spain|t=Barcelona}}
 
 ----
 
@@ -142,9 +139,7 @@ Borrowed from {{bor|nl|es|Barcelona}}.
 ===Proper noun===
 {{nl-proper noun|n}}
 
-# {{l|en|Barcelona}}
-
-[[Category:nl:Cities in Spain]]
+# {{place|nl|city/regional capital|r/Catalonia|c/Spain|t=Barcelona}}
 
 ----
 
@@ -157,10 +152,7 @@ Borrowed from {{bor|nl|es|Barcelona}}.
 ===Proper noun===
 {{de-proper noun|n}}
 
-# {{l|en|Barcelona}}
-
-[[Category:de:Cities]]
-[[Category:de:Spain]]
+# {{place|de|city/regional capital|r/Catalonia|c/Spain|t=Barcelona}}
 
 ----
 
@@ -174,15 +166,13 @@ Borrowed from {{bor|nl|es|Barcelona}}.
 ===Proper noun===
 {{head|hu|proper noun}}
 
-# {{l|en|Barcelona}} {{gloss|a city, the regional capital of [[Catalonia]], [[Spain]]}}
+# {{place|hu|city/regional capital|r/Catalonia|c/Spain|t=Barcelona}}
 
 ====Declension====
 {{hu-infl-nom|Barceloná|o|n=sg}}{{hu-pos-tok|Barceloná|n=sg}}
 
 ====Derived terms====
 * {{l|hu|barcelonai}}
-
-{{topics|hu|Cities in Spain}}
 
 ----
 
@@ -192,9 +182,9 @@ Borrowed from {{bor|nl|es|Barcelona}}.
 * {{IPA|oc|/baɾseˈluno/}}
 
 ===Proper noun===
-{{oc-proper noun|n}}
+{{oc-proper noun}}
 
-# {{l|en|Barcelona}}
+# {{place|oc|city/regional capital|r/Catalonia|c/Spain|t=Barcelona}}
 
 ----
 
@@ -207,7 +197,7 @@ Borrowed from {{bor|nl|es|Barcelona}}.
 ===Proper noun===
 {{pl-proper noun|f}}
 
-# {{l|en|Barcelona}}
+# {{place|pl|city/regional capital|r/Catalonia|c/Spain|t=Barcelona}}
 
 ====Declension====
 {{pl-decl-noun-f|tantum=s}}
@@ -219,8 +209,6 @@ Borrowed from {{bor|nl|es|Barcelona}}.
 ===Further reading===
 * {{R:PWN}}
 
-[[Category:pl:Cities in Spain]]
-
 ----
 
 ==Portuguese==
@@ -229,6 +217,7 @@ Borrowed from {{bor|nl|es|Barcelona}}.
 {{pt-proper noun|f}}
 
 # {{place|pt|city/regional capital|autonomous community/Catalonia|c/Spain|t1=Barcelona}}
+# {{place|pt|province|r/Catalonia|c/Spain|t=Barcelona}}
 
 ----
 
@@ -267,19 +256,21 @@ Borrowed from {{bor|es|ca|Barcelona}}.
 ===Proper noun===
 {{sv-proper noun|n}}
 
-# {{l|en|Barcelona}}
-
-[[Category:sv:Cities in Spain]]
+# {{place|sv|city/regional capital|r/Catalonia|c/Spain|t=Barcelona}}
 
 ----
 
 ==Tagalog==
+
 ===Etymology===
-Borrowed from {{bor|tl|es|-}}
+Borrowed from {{bor|tl|es|Barcelona}}.
+
 ===Proper noun===
 {{head|tl|proper noun}}
-#{{place|tl|city|c/Spain|t1=[[Barcelona]]}}
-#{{place|tl|municipality|p/Sorsogon|c/Philippines|t1=Barcelona}}
-#{{surname|tl|from=Spanish}}
+
+# {{place|tl|city|c/Spain|t1=Barcelona}}
+# {{place|tl|municipality|p/Sorsogon|c/Philippines|t1=Barcelona}}
+# {{surname|tl|from=Spanish}}
+
 ===Statistics===
 {{surname-philippines-forebears|name=Barcelona|rank=448th|count=19,656}}
