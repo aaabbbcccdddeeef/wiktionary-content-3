@@ -30,7 +30,7 @@ From {{inh|en|enm|mole}}, {{m|enm|mool}}, from {{inh|en|ang|māl}}, {{m|ang|mǣl
 {{trans-top|dark spot on the skin}}
 * Albanian: {{t+|sq|nishan|m}}
 * Arabic: {{t+|ar|خَال|m}}, {{t|ar|شَامَة|f}}
-*: Egyptian Arabic: {{t|arz|حسنة|f|tr=ḥasana|sc=Arab}}, {{t|arz|شامة|f|tr=shama|sc=Arab}}
+*: Egyptian Arabic: {{t|arz|حسنة|f|tr=ḥasana|sc=Arab}}, {{t|arz|شامة|f|tr=šāma|sc=Arab}}
 * Armenian: {{t+|hy|խալ}}
 * Asturian: {{t+|ast|llunar|m|f}}
 * Bashkir: {{t|ba|миң}}
@@ -53,19 +53,19 @@ From {{inh|en|enm|mole}}, {{m|enm|mool}}, from {{inh|en|ang|māl}}, {{m|ang|mǣl
 * Georgian: {{t|ka|ხალი}}
 * German: {{t+|de|Muttermal|n}}, {{t+|de|Mal|n}}
 * Greek: {{t+|el|ελιά|f}}
-* Hindi: {{t+|hi|तिल|m|tr=til|sc=Deva}}
+* Hindi: {{t+|hi|तिल|m}}
 * Hungarian: {{t+|hu|anyajegy}}
 * Interlingua: {{t|ia|nevo}}
 * Irish: {{t|ga|ball dobhráin|m}}
 * Isthmus Zapotec: {{t|zai|biuyaa}}
 * Italian: {{t+|it|neo|m}}
-* Japanese: {{t+|ja|ほくろ|tr=hokuro}} ({{t+|ja|黒子|tr=hokuro}})
+* Japanese: {{t+|ja|ほくろ|tr=hokuro}}, {{t+|ja|黒子|tr=hokuro}}
 * Kapampangan: {{t|pam|alimpuyu}}, {{t|pam|alingpuyu}}
 * Khmer: {{t+|km|ប្រជ្រុយ}}
 * Korean: {{t+|ko|반점}}, {{t+|ko|점}}
 * Kurdish:
 *: Northern Kurdish: {{t+|kmr|xal}}
-*: Sorani: {{t+|ku|خاڵ|tr=xall|sc=ku-Arab}}
+*: Sorani: {{t+|ku|خاڵ}}
 *: Southern Kurdish: {{t|sdh|خاڵ}}
 {{trans-mid}}
 * Ladino: {{t|lad|benk}}
@@ -75,7 +75,7 @@ From {{inh|en|enm|mole}}, {{m|enm|mool}}, from {{inh|en|ang|māl}}, {{m|ang|mǣl
 * Macedonian: {{t|mk|бе́нка|f|sc=Cyrl}}
 * Malay: {{t|ms|tahi lalat}}
 * Maori: {{t|mi|ira}}
-* Marathi: {{t|mr|तीळ|m|tr=tīḷ}}
+* Marathi: {{t|mr|तीळ|m}}
 * Navajo: {{t|nv|azhiin}}
 * Norwegian: {{t+|no|føflekk|m}}
 * Old English: {{t|ang|māl|n}}
@@ -157,7 +157,7 @@ Derivation as an abbreviation of {{cog|enm|molewarpe}}, a variation of {{m|enm|m
 * Afrikaans: {{t+|af|mol}}
 * Albanian: {{t+|sq|urith|m}}
 * Arabic: {{t|ar|خُلْد|m}}
-*: Egyptian Arabic: {{t|arz|خلد|m|tr=ḵuld}} {{qualifier|collective}}, {{t|arz|خلدة|f|tr=ḵulda}} (''[[singulative]]'')
+*: Egyptian Arabic: {{t|arz|خلد|m|tr=ḵuld}} {{q|collective}}, {{t|arz|خلدة|f|tr=ḵulda}} {{q|singulative}}
 * Aramaic:
 *: Classical Syriac: {{t|syc|ܚܘܠܕܐ|m|tr=ḥuldāʾ}}
 * Armenian: {{t+|hy|խլուրդ}}
@@ -212,7 +212,7 @@ Derivation as an abbreviation of {{cog|enm|molewarpe}}, a variation of {{m|enm|m
 * Interlingua: {{t|ia|talpa}}
 * Irish: {{t+|ga|caochán|m}}
 * Italian: {{t+|it|talpa|f}}
-* Japanese: {{t+|ja|モグラ|tr=mogura}} ({{t|ja|土竜}})
+* Japanese: {{t+|ja|モグラ|tr=mogura}}, {{t|ja|土竜|tr=mogura}}
 * Karelian: {{t|krl|muakondii}}, {{t|krl|mygry}}
 * Kashubian: {{t|csb|kret|m}}
 * Kazakh: {{t|kk|көртышқан}}
@@ -284,7 +284,7 @@ Derivation as an abbreviation of {{cog|enm|molewarpe}}, a variation of {{m|enm|m
 * Turkish: {{t+|tr|köstebek}}, {{t+|tr|sokur}}
 * Ukrainian: {{t|uk|кріт|m}}
 * Urdu: {{t|ur|چھچھوندر|m|tr=chachū̃dar|sc=ur-Arab}}
-* Uzbek: {{t+|uz|koʻrsichqon|alt=ko`rsichqon}}
+* Uzbek: {{t+|uz|koʻrsichqon}}
 * Venetian: {{t|vec|topinara|f}}
 * Veps: {{t|vep|makondi}}
 * Vietnamese: {{t|vi|chuột chũi}}
@@ -412,7 +412,7 @@ From {{etyl|fr|en}} {{m|fr|môle}} or {{etyl|la|en}} {{m|la|mōles||mass, heap, 
 From {{etyl|de|en}} {{m|de|Mol}}.
 
 ====Alternative forms====
-* {{l|en|mol}} ''(dated)''
+* {{l|en|mol}} {{q|dated}}
 
 ====Pronunciation====
 * {{a|UK}} {{IPA|en|/məʊl/}}
@@ -445,19 +445,19 @@ From {{etyl|de|en}} {{m|de|Mol}}.
 * Georgian: {{t|ka|მოლი}}
 * German: {{t+|de|Mol|n}}, {{t|de|Gramm-Molekül}}
 * Greek: {{t|el|μολ|n}}, {{t|el|γραμμομόριο|n}}
-* Hindi: {{t+|hi|मोल|tr=mōl}}
+* Hindi: {{t+|hi|मोल}}
 * Hungarian: {{t+|hu|mól}}
 {{trans-mid}}
 * Indonesian: {{t+|id|mol}}
 * Irish: {{t|ga|mól|m}}, {{t|ga|gram-mhóilín|m}}
 * Italian: {{t+|it|mole|f}}, {{t+|it|grammo-molecola|f}}
 * Japanese: {{t+|ja|モル|tr=moru}}
-* Korean: {{t+|ko|몰|tr=mol}}
+* Korean: {{t+|ko|몰}}
 * Malay: {{t|ms|mol}}
 * Polish: {{t+|pl|mol|m}}
 * Portuguese: {{t+|pt|mol|m}}, {{t+|pt|mole|m}}
 * Romanian: {{t+|ro|mol|m}}
-* Russian: {{t+|ru|моль|m}}, {{t+|ru|грамм-молекула|f|tr=grámm-molékula}}
+* Russian: {{t+|ru|моль|m}}, {{t+|ru|гра́мм-моле́кула|f|}}
 * Spanish: {{t+|es|mol|f}}
 * Swahili: {{t+|sw|mfuko}}
 * Swedish: {{t+|sv|mol}}
