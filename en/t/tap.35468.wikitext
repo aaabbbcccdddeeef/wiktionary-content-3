@@ -381,14 +381,25 @@ From {{inh|en|enm|tappen}}, {{m|enm|teppen}}, from {{der|en|fro|tapper}}, {{m|fr
 
 # A gentle or slight blow; a light rap; a pat.
 #: {{rfquotek|en|Addison}}
-#: ''When Steve felt a '''tap''' on his shoulder, he turned around.''
-# [[tap dance]]
-# {{lb|en|computing}} The act of [[touch]]ing a [[touch screen]].
-# A piece of leather fastened upon the bottom of a boot or shoe in repairing or renewing the sole or heel; a [[heeltap]].
+#: {{ux|en|When Steve felt a '''tap''' on his shoulder, he turned around.}}
+# {{lb|en|dance}} {{ellipsis of|en|tap dance}}.
+# {{lb|en|computing|graphical user interface}} The act of [[touch]]ing a [[touch screen]].
+#: {{cot|en|click}}
+# A piece of leather fastened upon the bottom of a boot or shoe in repairing or renewing the sole or heel.
+#: {{syn|en|heeltap}}
 # {{lb|en|military}} A [[signal]], by [[drum]] or [[trumpet]], for extinguishing all lights in soldiers' quarters and retiring to bed; usually given about a quarter of an hour after [[tattoo]].
 #: {{rfquotek|en|1881, Thomas Wilhelm, "A Military Dictionary and Gazetteer"}}
 # {{lb|en|phonetics}} A [[consonant]] sound made by a single muscle [[contraction]], such as the sound [<nowiki/>[[ɾ]]<nowiki/>] in the standard [[American English]] pronunciation of ''[[body]]''.
 #: {{syn|en|flap}}
+
+=====Translations=====
+{{trans-top|act of touching a touch-screen}}
+* Finnish: {{t+|fi|kosketus}}, {{t+|fi|napautus}}
+* Macedonian: {{t|mk|допира}}
+{{trans-mid}}
+* Russian: {{t+|ru|нажатие|n}}, {{t+|ru|прикосновение|n}}
+* Spanish: {{t+|es|toque|m}}
+{{trans-bottom}}
 
 ===Etymology 3===
 {{bor|en|hi|}}
