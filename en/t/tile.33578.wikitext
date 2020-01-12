@@ -29,13 +29,17 @@ From {{inh|en|enm|tile}}, {{m|enm|tyle}}, {{m|enm|tigel}}, {{m|enm|tiȝel}}, {{m
 #* 1911, Charles Collins, Fred E. Terry and E.A. Sheppard, "Any Old Iron", British Music Hall song
 #*: Dressed in style, brand-new '''tile''', And your father's old green tie on.
 
-=====Derived terms=====
-{{der4|en|field tile|glazed tile|out on the tiles|tilework}}
+====Derived terms====
+{{der4|en|field tile|glazed tile|out on the tiles|roof tile|tilework}}
 
-=====Related terms=====
-* {{l|en|tiler}}
+====Descendants====
+* {{desc|bn|টালি|bor=1}}
+* {{desc|ja|タイル|tr=tairu|bor=1}}
+* {{desc|ko|타일|bor=1}}
+* {{desc|ne|टाइल|tr=ṭāil|bor=1}}
+* {{desc|or|ଟାଇଲ୍|bor=1}}
 
-=====Translations=====
+====Translations====
 {{trans-top|mostly rectangular shaped sheet of ceramic or fired clay to cover surfaces}}
 * Albanian: {{t+|sq|tjegull}}, {{t+|sq|pllakë}}
 * Arabic: {{t|ar|قِرْمِيدَة|f}}, {{t|ar|قِرْمِيد}} {{qualifier|collective}}
@@ -43,6 +47,7 @@ From {{inh|en|enm|tile}}, {{m|enm|tyle}}, {{m|enm|tigel}}, {{m|enm|tiȝel}}, {{m
 * Avar: {{t|av|щегӏ}}
 * Azerbaijani: {{t|az|kaşı}}
 * Belarusian: {{t|be|ка́фля|f}}, {{t|be|плі́тка|f}}
+* Bengali: {{t|bn|টালি}}
 * Bulgarian: {{t+|bg|пло́чка|f}}
 * Burmese: {{t+|my|အုတ်ကြွပ်}}
 * Catalan: {{t+|ca|teula|f}}, {{t+|ca|rajola|f}}
@@ -81,11 +86,13 @@ From {{inh|en|enm|tile}}, {{m|enm|tyle}}, {{m|enm|tigel}}, {{m|enm|tiȝel}}, {{m
 * Macedonian: {{t|mk|пло́чка|f}} {{qualifier|floor and wall tile}}, {{t|mk|ќера́мида|f}} {{qualifier|roof tile}}
 * Malay: {{t|ms|jubin}}
 * Maori: {{t|mi|tāpa }}
+* Nepali: {{t|ne|टाइल|tr=ṭāil}}
 * Norwegian:
 *: Bokmål: {{q|roof}} {{t|nb|takstein|m}}, {{t|nb|tegl|n}}, {{t+|nb|teglstein|m}}, {{q|elsewhere}} {{t|nb|flis|m|f}}
 *: Nynorsk: {{q|roof}} {{t|nn|takstein|m}}, {{t|nn|tegl|n}}, {{t|nn|teglstein|m}}, {{q|elsewhere}} {{t|nn|flis|f}}
 * Occitan: {{t+|oc|teule|m}}
 * Old English: {{t|ang|tiġele|f}}
+* Oriya: {{t|or|ଟାଇଲ୍}}
 * Persian: {{t+|fa|کاشی|tr=kâši}}, {{t+|fa|سفال|tr=sofâl}}
 * Polish: {{t+|pl|kafel|m}}, {{t+|pl|kafelek|m}}, {{t+|pl|fliza|f}}
 * Portuguese: {{t+|pt|azulejo|m}} {{qualifier|glazed tile}}, {{t+|pt|ladrilho|m}}, {{t+|pt|telha|f}} {{qualifier|roof tile}}
@@ -116,10 +123,10 @@ From {{inh|en|enm|tile}}, {{m|enm|tyle}}, {{m|enm|tigel}}, {{m|enm|tiȝel}}, {{m
 # {{lb|en|GUI}} To arrange in a regular pattern, with adjoining edges (applied to tile-like objects, graphics, windows in a computer interface).
 # {{lb|en|comptheory}} To [[optimize]] (a [[loop]] in program code) by means of the [[tiling]] technique.
 
-=====Related terms=====
+====Derived terms====
 * {{l|en|tiler}}
 
-=====Translations=====
+====Translations====
 {{trans-top|to cover with tiles}}
 * Catalan: {{t+|ca|enrajolar}} {{q|floor}}, {{t+|ca|teular}} {{q|roof}}
 * Danish: {{t|da|[[beklæde]] med [[fliser]]}} {{qualifier|wall tiles}}
