@@ -2,7 +2,7 @@
 
 ===Etymology===
 {{PIE root|en|ǵneh₃}}
-From {{der|en|ML.|cognitīvus}}, from {{der|en|la|cognitus}}, perfect passive participle of {{m|la|cognosco||I know}} + adjective suffix {{m|la|-ivus|}}.
+From {{der|en|ML.|cognitīvus}}, from {{der|en|la|cognitus}}, perfect passive participle of {{m|la|cognōscō|t=I know}} + {{m|la|-īvus|pos=adjective suffix}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|en|/ˈkɒɡnɪtɪv/}}
@@ -27,13 +27,15 @@ From {{der|en|ML.|cognitīvus}}, from {{der|en|la|cognitus}}, perfect passive pa
 #*: ''Wanux'' "white man," '''cognitive''' with Aben. ''awanoch'', now used for "Canadian Frenchman";
 
 ====Related terms====
-* {{l|en|cognate}}
-* {{l|en|cogniscient}}
-* {{l|en|cognition}}
-* {{l|en|cognizable}}
+{{col4|en
+|cognate
+|cogniscient
+|cognition
+|cognizable
+}}
 
 ====Derived terms====
-{{der3|en
+{{col4|en
 |acognitive
 |amnestic mild cognitive impairment
 |anticognitive
@@ -71,7 +73,8 @@ From {{der|en|ML.|cognitīvus}}, from {{der|en|la|cognitus}}, perfect passive pa
 |sociocognitively
 |trauma focused cognitive behavioral therapy
 |ultracognitive
-|visuocognitive}}
+|visuocognitive
+}}
 
 ====Translations====
 {{trans-top|relating to mental functions}}
@@ -93,12 +96,13 @@ From {{der|en|ML.|cognitīvus}}, from {{der|en|la|cognitus}}, perfect passive pa
 * Icelandic: {{t|is|skilvitlegur}}
 * Italian: {{t+|it|cognitivo}}
 * Malay: {{t|ms|kognisi}}, {{t|ms|kognitif}}
-* Persian: {{t+|fa|شناختی|tr=šenâxti|sc=fa-Arab}}
+* Persian: {{t+|fa|شناختی|tr=šenâxti}}
 * Polish: {{t+|pl|poznawczy|m}}
 * Portuguese: {{t+|pt|cognitivo}}
 * Romanian: {{t+|ro|cognitiv}}
 * Russian: {{t+|ru|когнити́вный}}
-* Serbo-Croatian: {{t|sh|kognitivni}}, {{t+|sh|spoznajni}}
+* Serbo-Croatian:
+*: Roman: {{t|sh|kognitivni}}, {{t+|sh|spȍznājnī}}
 * Spanish: {{t+|es|cognitivo}}
 {{trans-bottom}}
 
@@ -117,6 +121,10 @@ From {{der|en|ML.|cognitīvus}}, from {{der|en|la|cognitus}}, perfect passive pa
 
 ==French==
 
+===Pronunciation===
+* {{fr-IPA||cogg-nitive}}
+* {{homophones|fr|cognitives}}
+
 ===Adjective===
 {{head|fr|adjective form}}
 
@@ -129,4 +137,4 @@ From {{der|en|ML.|cognitīvus}}, from {{der|en|la|cognitus}}, perfect passive pa
 ===Adjective===
 {{head|it|adjective form}}
 
-# {{feminine plural of|it|cognitivo}}
+# {{it-adj form of|cognitivo|f|pl}}
