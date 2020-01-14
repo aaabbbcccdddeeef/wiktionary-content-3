@@ -1,5 +1,6 @@
 ==English==
 {{wikipedia}}
+[[Image:Short Exact Sequence.svg|thumb|right|350px|Diagram of a '''short exact sequence''' <math>0 \xrightarrow{z} A \xrightarrow{i} B \xrightarrow{s} C \xrightarrow{c} 0</math>; actually the diagram suggests a model thereof in category <math>\mathbf{Set}</math> (or any category that has a forgetful functor to <math>\mathbf{Set}</math>). Function ''i'' is an injection and function ''s'' a surjection. Function ''c'' is constant. The image <math>i(A)</math> equals ''A’'', and ''C'' is isomorphic to the quotient ''B'' modulo ''A’''.]]
 
 ===Noun===
 {{en-noun|head=[[short]] [[exact sequence]]|s}}
