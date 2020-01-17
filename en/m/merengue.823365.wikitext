@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From American {{der|en|es|merengue}}, from {{etyl|fr|en}} {{m|fr|meringue}}.
+From American {{bor|en|es|merengue}}, from {{der|en|fr|meringue}}.
 
 ===Pronunciation===
 * {{IPA|en|/məˈɹɛŋɡeɪ/}}
@@ -27,7 +27,7 @@ From American {{der|en|es|merengue}}, from {{etyl|fr|en}} {{m|fr|meringue}}.
 ==French==
 
 ===Etymology===
-From {{der|fr|es|merengue}}, itself borrowed from {{der|fr|fr|meringue}}.
+From {{bor|fr|es|merengue}}, itself borrowed from {{der|fr|fr|meringue}}.
 
 ===Noun===
 {{fr-noun|m}}
@@ -37,18 +37,30 @@ From {{der|fr|es|merengue}}, itself borrowed from {{der|fr|fr|meringue}}.
 ----
 
 ==Spanish==
-===Etymology===
-From {{der|es|fr|meringue}}
-===Noun===
-{{es-noun|m|-}}
 
-# A type of [[music]] common in the [[Caribbean]]
+===Etymology===
+From {{bor|es|fr|meringue}}.
+
+===Pronunciation===
+* {{es-IPA}}
+
+===Noun===
+{{es-noun|m}}
+
+# {{l|en|merengue}} {{gloss|a type of music common in the Caribbean}}
 # [[meringue]]
 # [[wuss]]; [[wimp]]
 
 {{es-noun|mf}}
 
-# {{lb|es|football|attributive}} A person connected with [[w:Real Madrid C.F.|Real Madrid]], as a player, fan, coach etc.
+# {{lb|es|football|attributive}} a person connected with [[w:Real Madrid C.F.|Real Madrid]], as a player, fan, coach etc.
 
-====Related terms====
+====Derived terms====
 * {{l|es|merenguero}}
+
+====Descendants====
+* {{desc|en|merengue|bor=1}}
+* {{desc|fr|merengue|bor=1}}
+
+===Further reading===
+* {{R:DRAE}}
