@@ -166,23 +166,33 @@ Borrowed from {{bor|ca|fr|massacre}}.
 
 ==French==
 
-===Etymology===
-From {{inh|fr|frm|massacre}}, from the verb {{m|fr|massacrer}}.
-
 ===Pronunciation===
 * {{fr-IPA|pos=vnv}}
 
-===Noun===
+===Etymology 1===
+From {{inh|fr|frm|massacre}}, from the verb {{m|fr|massacrer}}.
+
+====Noun====
 {{fr-noun|m}}
 
 # {{l|en|massacre}}
 
-====Descendants====
-* {{desc|ca|massacre}}
-* {{desc|de|Massaker}}
-* {{desc|es|masacre}}
+=====Related terms=====
+* {{l|fr|massacrer}}
 
-===Verb===
+=====Descendants=====
+{{top3}}
+* {{desc|ca|massacre|bor=1}}
+* {{desc|da|massakre|bor=1}}
+* {{desc|de|Massaker|bor=1}}
+* {{desc|nb|massakre|bor=1}}
+* {{desc|nn|massakre|bor=1}}
+* {{desc|es|masacre|bor=1}}
+{{bottom}}
+
+===Etymology 2===
+
+====Verb====
 {{head|fr|verb form}}
 
 # {{inflection of|fr|massacrer||1|s|pres|indc}}
