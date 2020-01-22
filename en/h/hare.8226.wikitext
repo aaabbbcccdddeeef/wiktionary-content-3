@@ -60,7 +60,7 @@ From {{der|en|enm|hare}}, from {{der|en|ang|hara||hare}}, from {{der|en|gem-pro|
 * Basque: {{t+|eu|erbi}}
 * Bavarian: {{t|bar|Hås}}
 * Belarusian: {{t|be|за́яц|m}}
-* Bengali: {{t|bn|খরগোশ|tr=khôrgoś}}
+* Bengali: {{t|bn|খরগোশ}}
 * Breton: {{t+|br|gad}}
 * Bulgarian: {{t+|bg|за́ек|m}}
 * Burmese: {{t+|my|ယုန်}} {{q|rabbit or hare}}
@@ -101,7 +101,7 @@ From {{der|en|enm|hare}}, from {{der|en|ang|hara||hare}}, from {{der|en|gem-pro|
 * Indonesian: {{t+|id|terwelu}}, {{t|id|tegalan}}
 * Irish: {{t|ga|giorria|m}}
 * Italian: {{t+|it|lepre|f}}
-* Japanese: {{t|ja|野兎|tr=のうさぎ, no-usagi}}, {{t|ja|野ウサギ|tr=no-usagi}}<!--"o" and "u" are separate -->, {{t+|ja|兎|tr=うさぎ, usagi}}, {{t+|ja|ウサギ|tr=usagi}}
+* Japanese: {{t|ja|野兎|tr=のうさぎ, nousagi}}, {{t|ja|野ウサギ|tr=nousagi}}, {{t+|ja|兎|tr=うさぎ, usagi}}, {{t+|ja|ウサギ|tr=usagi}}
 * Kalmyk: {{t|xal|туула}}
 * Karachay-Balkar: {{t|krc|къоян}}
 * Kashmiri: {{t-needed|ks}}
@@ -147,7 +147,7 @@ From {{der|en|enm|hare}}, from {{der|en|ang|hara||hare}}, from {{der|en|gem-pro|
 *: Iron: {{t|os|тӕрхъус}}
 * Pashto: {{t+|ps|سوی|tr=soai}}
 * Persian: {{t+|fa|خرگوش|tr=xarguš}}
-*: Middle Persian: {{t|pal|sahōg}}
+*: Middle Persian: {{t|pal|ts=sahōg}}
 * Polish: {{t+|pl|zając|m}}
 * Portuguese: {{t+|pt|lebrão|m}}, {{t+|pt|lebre|f}}
 * Romani: {{t|rom|baro-shoshoy|m}}, {{t|rom|bari-shoshni|f}}
@@ -184,7 +184,7 @@ From {{der|en|enm|hare}}, from {{der|en|ang|hara||hare}}, from {{der|en|gem-pro|
 * Tuvan: {{t|tyv|тоолай}}, {{t|tyv|кодан}}
 * Udmurt: {{t|udm|кеч}}
 * Ukrainian: {{t|uk|за́єць|m}}
-* Urdu: {{t|ur|خرگوش|m|tr=khargoś}}, {{t|ur|خرہا|m|tr=kharhā}}
+* Urdu: {{t|ur|خرگوش|m|tr=xargoś}}, {{t|ur|خرہا|m|tr=xarhā}}
 * Uyghur: {{t|ug|توشقان}}
 * Uzbek: {{t+|uz|quyon}}, {{t+|uz|tovushqon}}
 * Venetian: {{t|vec|jévre|m}}, {{t|vec|liévore|m}}
@@ -271,8 +271,7 @@ From {{inh|af|nl|({{l|nl|de}}) {{l|nl|hare}}}}.
 {{head|af|pronoun}}
 
 # [[hers]] {{gloss|that or those of her}}
-#: ''Sy het my hemp aangehad en ek '''hare.'''''
-#:: She wore my shirt and I wore '''hers.'''
+#: {{ux|af|Sy het my hemp aangehad en ek '''hare.'''|She wore my shirt and I wore '''hers.'''}}
 
 ----
 
@@ -315,9 +314,9 @@ From {{inh|nl|dum|hare}}. {{etystub|nl}}
 
 # {{form of|nl|non-[[attributive]] form|haar}} (English: [[hers]])
 #: Normally used in conjunction with the definite article [[de]] or [[het]] depending on the gender of what is being referred to.
-#:: ''Die auto is de hare.'' &mdash; That car is her one. That car is hers.
-#:: ''Dat huis is het hare.'' &mdash; That house is her one. That house is hers.
-#:: ''Dat is de/het hare.'' &mdash; That is her one. That is hers.
+#:: {{uxi|nl|''Die auto is de hare.|That car is her one. That car is hers.}}
+#:: {{uxi|nl|Dat huis is het hare.|That house is her one. That house is hers.}}
+#:: {{uxi|nl|Dat is de/het hare.|That is her one. That is hers.}}
 # {{lb|nl|archaic}} {{form of|nl|inflected form|haar}}
 
 ====Derived terms====
