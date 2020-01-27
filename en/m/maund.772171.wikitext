@@ -4,11 +4,11 @@
 * {{a|UK}} {{IPA|en|/mɔːnd/}}
 
 ===Etymology 1===
-From {{inh|en|enm|maunde}}, {{m|enm|mande}}, from {{inh|en|ang|mand}}, {{m|ang|mond||basket}}, from {{etyl|gem-pro|en}} {{m|gem-pro|*mandō||basket}}. Cognate with {{cog|nl|mand}}, {{cog|nds|mande}}, archaic German {{m|de|Mande}}, later influenced by {{etyl|xno|en}} and {{etyl|frm|en}} {{m|frm|mande}} (< {{etyl|gem|en}}). Related to {{l|en|mannequin}}.
+From {{inh|en|enm|maunde}}, {{m|enm|mande}}, from {{inh|en|ang|mand}}, {{m|ang|mond|t=basket}}, from {{inh|en|gem-pro|*mandō|t=basket}}.
 
 ====Alternative forms====
-* {{l|en|mand}}
-* {{l|en|mande}}, {{l|en|mawn}}, {{l|en|mond}} {{qualifier|Scotland}}
+* {{alter|en|mand}}
+* {{alter|en|mande|mawn|mond||Scotland}}
 
 ====Noun====
 {{en-noun}}
@@ -19,20 +19,16 @@ From {{inh|en|enm|maunde}}, {{m|enm|mande}}, from {{inh|en|ang|mand}}, {{m|ang|m
 
 ===Etymology 2===
 {{wikipedia}}
-Anglicised pronunciation of a word in many southern and western Asian languages. The ''-d'' probably from assimilation with Etymology 1 above, or from comparison with [[pound]].<br>
-Original root is unclear, but may be {{etyl|ar|en}} {{m|ar|مَنّ}}, {{etyl|fa|en}} {{m|fa|من|tr=man|sc=fa-Arab}} or {{etyl|sa|en}} {{m|sa|मान}}. {{etyl|sa|en}} has a verb root {{m|sa|मा-}}, "to [[measure]]".<br>
-Possibly cognate with {{etyl|he|en}} {{m|he|מנה|tr=maneh|sc=Hebr}} and {{etyl|grc|en}} {{m|grc|μνᾶ||mina}}.
+Anglicised pronunciation of mainly {{bor|en|hi|मान}} / {{bor|en|ur|من|tr=man}} meaning a certain unit of weight, also confused with {{bor|en|hi|मान}} / {{bor|en|ur|مان‎|tr=mān|t=measure}}. The ''-d'' is probably from assimilation with Etymology 1 above, or from comparison with {{m|en|pound}}.
 
 ====Alternative forms====
-* {{l|en|mun}}
-* {{l|en|man}}
+* {{alter|en|mun|man}}
 
 ====Noun====
 {{en-noun}}
 
 # {{lb|en|historical}} A unit of weight in southern and western Asia, whose value varied widely by location. Two maunds made one chest of opium in East India. One maund equalled 136 [[pound]]s of opium in Turkey.
-#* '''1888''', Rudyard Kipling, ‘In Flood Time’, ''In Black and White'', Folio Society 2005, p. 410:
-#*: Now the rail has come, and the fire-carriage says ''buz-buz-buz'', and a hundred lakhs of '''''maunds''''' slide across that big bridge.
+#* {{quote-book|en|year=1888|author=Rudyard Kipling|chapter=In Flood Time|title={{w|In Black and White (short story collection)|In Black and White}}|publisher=Folio Society|year_published=2005|page=410|text=Now the rail has come, and the fire-carriage says ''buz-buz-buz'', and a hundred lakhs of '''''maunds''''' slide across that big bridge.}}
 
 =====Usage notes=====
 This spelling ('''maund''') is usually used for the unit in [[British India]], equal to 25&nbsp;pounds [[avoirdupois]] at [[Madras]], 28&nbsp;pounds avoirdupois at [[Bombay]] and 10&nbsp;[[troy pound]]s at [[Calcutta]]. For the equivalent unit in the [[W:Mughal Empire|Mughal Empire]] and in [[Persian]]- and [[Arabic]]-speaking countries, it is more usual to use the spelling ''[[mun]]'' or ''[[man]]'' (italicised to show that the word has not been assimilated into English).
@@ -59,7 +55,7 @@ This spelling ('''maund''') is usually used for the unit in [[British India]], e
 {{trans-bottom}}
 
 ===Etymology 3===
-Unclear, but possibly from {{der|en|fr|mendier}} or {{m|fr|quémander||to beg}}. Compare {{cog|rom|mang||to beg}}.
+Unclear, but possibly from {{der|en|fr|mendier}} or {{m|fr|quémander|t=to beg}}. Compare {{cog|rom|mang|t=to beg}}.
 
 ====Noun====
 {{en-noun|-}}
@@ -76,5 +72,4 @@ Unclear, but possibly from {{der|en|fr|mendier}} or {{m|fr|quémander||to beg}}.
 ===Anagrams===
 * {{anagrams|en|a=admnu|Duman|Munda|dunam|mandu|undam|unmad}}
 
-[[Category:en:Containers]]
-[[Category:en:Units of measure]]
+{{c|en|Containers|Units of measure}}
