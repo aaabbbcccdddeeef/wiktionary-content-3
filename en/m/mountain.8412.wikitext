@@ -84,20 +84,20 @@ As with the names of {{l|en|river|rivers}} and {{l|en|lake|lakes}}, the names of
 * Amharic: {{t|am|ተራራ|sc=Ethi}}
 * Apache:
 *: Western Apache: {{t|apw|dził}}
-* Arabic: {{t|ar|جَبَل|m|tr=jabal}}, {{t+|ar|طَوْر|m}}, {{t+|ar|طَوْد|m}}
+* Arabic: {{t|ar|جَبَل|m}}, {{t+|ar|طَوْر|m}}, {{t+|ar|طَوْد|m}}
 *: Egyptian Arabic: {{t|arz|جبل|m|tr=gabal}}
 *: Moroccan Arabic: {{t|ary|جبل|m|tr=jbal}}
 * Aragonese: {{t+|an|montaña|f}}
 * Aramaic:
-*: Syriac: {{t|arc|ܛܘܪܐ|tr=Ṭūrā’|m}}
-*: Hebrew: {{t|arc|טורא|tr=Ṭūrā’|m}}
+*: Syriac: {{t|arc|ܛܘܪܐ|tr=ṭūrā’|m}}
+*: Hebrew: {{t|arc|טורא|tr=ṭūrā’|m}}
 * Armenian: {{t+|hy|լեռ}}, {{t+|hy|սար}}
 * Aromanian: {{t|rup|munti|m}}, {{t|rup|munte|m}}
 * Assamese: {{t|as|পর্বত}}
 * Asturian: {{t+|ast|monte|m}}
 * Atayal: {{t|tay|rgyax}}
 * Avar: {{t|av|мегӏер}}
-* Avestan: {{t|ae|𐬐𐬀𐬊𐬟𐬀|tr=kaofa-}}
+* Avestan: {{t|ae|𐬐𐬀𐬊𐬟𐬀}}
 * Azerbaijani: {{t+|az|dağ}}
 * Baluchi: {{t|bal|کوہ|tr=koh}}
 * Banjarese: {{t|bjn|gunung}}
@@ -306,10 +306,10 @@ As with the names of {{l|en|river|rivers}} and {{l|en|lake|lakes}}, the names of
 * Ottoman Turkish: {{t|ota|طاغ|tr=dağ}}
 * Pali: {{t|pi|pabbatō}}
 *: Devanagari: {{t|pi|पब्बतो}}
-* Pashto: {{t+|ps|غر|m|tr=ghar|sc=ps-Arab}}
-* Persian: {{t+|fa|کوه|tr=kuh|sc=fa-Arab}}, {{t+|fa|کوهستان|tr=kuhestān|sc=fa-Arab}}
+* Pashto: {{t+|ps|غر|m|tr=ğar|sc=ps-Arab}}
+* Persian: {{t+|fa|کوه|tr=kuh|sc=fa-Arab}}, {{t+|fa|کوهستان|tr=kuhestân|sc=fa-Arab}}
 *: Middle Persian: {{t|pal|kōf}}
-*: Old Persian: {{t|peo|𐎣𐎢𐎳|tr=kaufa|sc=Xpeo}}
+*: Old Persian: {{t|peo|𐎣𐎢𐎳|ts=kaufa|sc=Xpeo}}
 * Piedmontese: {{t|pms|montagna}}
 * Pipil: {{t|ppl|tepet}}
 * Pitcairn-Norfolk: {{t|pih|maun}}
@@ -341,7 +341,7 @@ As with the names of {{l|en|river|rivers}} and {{l|en|lake|lakes}}, the names of
 * Shan: {{t|shn|လွႆ}}
 * Shona: {{t|sn|gomo}}
 * Shor: {{t|cjs|тағ|tr=tağ|sc=Cyrl}}
-* Sichuan Yi: {{t|ii|ꁧ|tr=bbo}}
+* Sichuan Yi: {{t|ii|ꁧ}}
 * Sicilian: {{t+|scn|muntagna|f}}
 * Sikkimese: {{t-needed|sip}}
 * Sindhi: {{t|sd|جبل|m|tr=jabalu|sc=sd-Arab}}
@@ -353,13 +353,13 @@ As with the names of {{l|en|river|rivers}} and {{l|en|lake|lakes}}, the names of
 *: Lower Sorbian: {{t|dsb|góra|f}}
 *: Upper Sorbian: {{t|hsb|hora|f}}
 * Sotho: {{t+|st|thaba}}
-* Southern Altai: {{t|alt|туу|tr=tuu|sc=Cyrl}}
+* Southern Altai: {{t|alt|туу|sc=Cyrl}}
 * Southern Kalinga: {{t|ksc|filig}}
 * Southern Ohlone: {{t|css|saTum}}
 * Southern Sierra Miwok: {{t|skd|lemem·yʔ ʔinim·yok}}
 * Spanish: {{t+|es|montaña|f}}, {{t+|es|monte|m}}
 * Sranan Tongo: {{t|srn|bergi}}
-* Sundanese: {{t|su|ᮌᮥᮔᮥᮀ|tr=gunung}}
+* Sundanese: {{t|su|ᮌᮥᮔᮥᮀ}}
 * Swahili: {{t+|sw|mlima|c3|c4}}
 * Swedish: {{t+|sv|berg|n}}
 * Tagalog: {{t+|tl|bundok}}
@@ -406,7 +406,7 @@ As with the names of {{l|en|river|rivers}} and {{l|en|lake|lakes}}, the names of
 * White Hmong: {{t-needed|mww}}
 * Wolof: {{t|wo|tangor}}
 * Written Oirat: {{t|xwo|ᡇᡇ᠌ᠯᠠ}}
-* Xhosa: {{t|xh|intaba|c9/10}}
+* Xhosa: {{t|xh|intaba|c9|c10}}
 * Yagara: {{t|yxg|bibu}}
 * Yagnobi: {{t|yai|куҳ}}
 * Yakut: {{t|sah|хайа}}, {{t|sah|сис}}
