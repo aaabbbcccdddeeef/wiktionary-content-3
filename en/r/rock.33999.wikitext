@@ -321,7 +321,7 @@ From {{inh|en|enm|rocke}}, {{m|enm|rokke|t=rock formation}}, from {{inh|en|ang|*
 * Bulgarian: {{t+|bg|скала}}, {{t+|bg|камък}}
 * Catalan: {{t+|ca|quer|m}}, {{t+|ca|roc|m}}, {{t+|ca|roca|f}}, {{t+|ca|pedra|f}}
 * Catawba: {{t|chc|iti}}, {{t|chc|inti}}
-* Central Atlas Tamazight: {{t|tzm|ⴰⵇⵛⵎⵉⵔ|m|tr=aqcmir|sc=Tfng}}
+* Central Atlas Tamazight: {{t|tzm|ⴰⵇⵛⵎⵉⵔ|m|sc=Tfng}}
 * Central Melanau: {{t|mel|batou}}
 * Chechen: {{t-needed|ce}}
 * Cherokee: {{t|chr|ᏅᏯ}}
@@ -361,7 +361,7 @@ From {{inh|en|enm|rocke}}, {{m|enm|rokke|t=rock formation}}, from {{inh|en|ang|*
 * Maltese: {{t|mt|ġebla|f}}
 * Manx: {{t|gv|carrick|f}}
 * Maori: {{t|mi|kāmaka}}, {{t|mi|kōhatu}}, {{t|mi|kōwhatu}}
-* Marathi: {{t|mr|खडक|m|tr=khadak|sc=Deva}}
+* Marathi: {{t|mr|खडक|m}}
 * Mizo: {{t|lus|lung}}
 * Mongolian: {{t-needed|mn}}
 * Navajo: {{t|nv|tsé}}
@@ -371,8 +371,8 @@ From {{inh|en|enm|rocke}}, {{m|enm|rokke|t=rock formation}}, from {{inh|en|ang|*
 * Occitan: {{t+|oc|ròcha|f}}
 * Old English: {{t|ang|stān|m}}
 * Ossetian: {{t-needed|os}}
-* Persian: {{t+|fa|تخته سنگ|tr=taxta(e)sang}}
-* Phoenician: {{t|phn|𐤀𐤁𐤍|tr=abn|sc=Phnx}}
+* Persian: {{t+|fa|تخته سنگ|tr=taxta-e sang}}
+* Phoenician: {{t|phn|𐤀𐤁𐤍}}
 * Polish: {{t+|pl|skała|f}}
 * Portuguese: {{t+|pt|rocha|f}}, {{t+|pt|pedra|f}}
 * Quechua: {{t|qu|rumi}}
@@ -428,7 +428,7 @@ From {{inh|en|enm|rocke}}, {{m|enm|rokke|t=rock formation}}, from {{inh|en|ang|*
 * Lithuanian: {{t|lt|uola|f}}
 * Macedonian: {{t|mk|карпа}}
 * Maori: {{t|mi|kāmaka}}, {{t|mi|kōhatu}}, {{t|mi|kōwhatu}}
-* Marathi: {{t|mr|सुळका|m|tr=suLka|sc=Deva}}
+* Marathi: {{t|mr|सुळका|m}}
 * Mizo: {{t|lus|lung}}, {{t|lus|lungpui}}, {{t|lus|lung}}
 * Norman: {{t|nrf|rotchi|m}}
 * Norwegian: {{t+|no|klippe|m}}
@@ -611,7 +611,7 @@ From {{inh|en|enm|rocke}}, {{m|enm|rokke|t=rock formation}}, from {{inh|en|ang|*
 * Finnish: {{t+|fi|tollo}}
 * Latvian: {{t|lv|cietpauris|m}}, {{t|lv|aunapiere|f}}
 {{trans-mid}}
-* Marathi: {{t|mr|ढ|tr=Dh}}
+* Marathi: {{t+check|mr|ढ}}
 * Russian: {{t+|ru|тупи́ца|c}}, {{t+|ru|би́вень|m}} {{qualifier|colloquial}}
 {{trans-bottom}}
 
@@ -633,7 +633,7 @@ From {{inh|en|enm|rocke}}, {{m|enm|rokke|t=rock formation}}, from {{inh|en|ang|*
 * Mongolian: {{t+check|mn|чулуу}}
 * Norman: {{t-check|nrf|greune|f}} {{qualifier|Jersey}}
 * Spanish: {{qualifier|1,2}} {{t+check|es|peña|f}}, {{qualifier|1,2}} {{t+check|es|roca|f}}
-* Swahili: {{qualifier|2}} {{t+check|sw|jiwe}}, {{t+check|sw|mawe|c5|c6}} ''pl '' (1,2)
+* Swahili: {{qualifier|2}} {{t+check|sw|jiwe|c5|c6}} ''pl '' (1,2)
 {{trans-bottom}}
 
 ====References====
@@ -738,7 +738,7 @@ From {{inh|en|enm|rokken}}, from {{inh|en|ang|roccian}}, from {{inh|en|gem-pro|*
 * French: {{t+|fr|secouer}}, {{qualifier|boat}} {{t|fr|faire tanguer}}
 * Galician: {{t|gl|sacudir}}, {{t+|gl|abalar}}
 * Latvian: {{t|lv|sašūpināt}}
-* Maori: {{t|mi|whakatāhurihuri|tr=as to a boat}}, {{t|mi|whakatāhurihuri}}, {{t|mi|whakapīoioi}}
+* Maori: {{t|mi|whakatāhurihuri}} {{q|as to a boat}}, {{t|mi|whakatāhurihuri}}, {{t|mi|whakapīoioi}}
 {{trans-mid}}
 * Norwegian: {{t+|no|riste}}
 * Portuguese: {{t+|pt|balançar}}, {{t+|pt|abalar}}
@@ -876,7 +876,7 @@ Shortened from {{m|en|rock and roll}}. Since the meaning of {{m|en||rock}} has a
 
 =====Translations=====
 {{trans-top|style of music}}
-* Arabic: {{t|ar|رُوك|m}}, {{t|ar|رُوك|m|tr=rok}}, {{t|ar|مُوسِيقَى اَلرُّوك|f|tr=mūsīqā r-rūk}}
+* Arabic: {{t|ar|رُوك|m}}, {{t|ar|رُوك|m|tr=rok}}, {{t|ar|مُوسِيقَى اَلرُّوك|f}}
 * Armenian: {{t+|hy|ռոք}}
 * Belarusian: {{t|be|рок|m}}
 * Bengali: {{t|bn|রক}}, {{t|bn|রক সঙ্গীত}}
