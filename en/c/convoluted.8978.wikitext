@@ -1,19 +1,26 @@
 ==English==
+{{was wotd|2020|February|9}}
 
 ===Etymology===
-{{suffix|en|convolute|d}}.
+From {{suffix|en|convolute|d}}.<ref>{{R:OED Online|pos=adj|id=40878|date=1893|nodot=yes}}; {{R:Lexico|pos=adj}}</ref>
 
 ===Pronunciation===
-* {{a|US}} {{IPA|en|/ˈkɑːnvəˌluːtəd/}}
-* {{audio|en|en-us-convoluted.ogg|Audio (US)}}
+* {{a|RP}} {{IPA|en|/ˌkɒnvəˈl(j)uːtɪd/|/ˈkɒnvəl(j)uːtɪd/|/-vəʊ-/}}
+* {{a|GA}} {{IPA|en|/ˌkɑnvəˈlutəd/|/ˈkɑnvəˌlutəd/|[-ɾəd]}}
+* {{audio|en|En-us-convoluted.ogg|Audio (GA)}}
+* {{hyphenation|en|con|vo|lut|ed}}
 
 ===Adjective===
 {{en-adj}}
 
-# Having numerous overlapping [[coils]] or [[folds]].
-# [[complex|Complex]], [[intricate]] or [[complicated]].
-#: ''He gave a '''convoluted''' explanation that amounted to little more than a weak excuse for his absence.''
+# {{lb|en|chiefly|anatomy|zoology}} Having [[numerous]] [[overlapping#Adjective|overlapping]] [[coil#Noun|coils]] or [[fold#Noun|folds]].
+# {{lb|en|figuratively}} [[complex#Adjective|Complex]], [[complicated#Adjective|complicated]], or [[intricate]].
+#: {{ux|en|He gave a '''convoluted''' explanation that amounted to little more than a weak excuse for his absence.}}
 #* {{quote-web|en|author=A. A. Dowd|title=''[[w:Mission: Impossible – Fallout|Fallout]]'' may be the Most Breathlessly Intense ''Mission: Impossible'' Adventure Yet|url=https://film.avclub.com/fallout-may-be-the-most-breathlessly-intense-mission-i-1827872096|archiveurl=https://web.archive.org/web/20180731040150/https://film.avclub.com/fallout-may-be-the-most-breathlessly-intense-mission-i-1827872096|archivedate=31 July 2018|work={{w|The A.V. Club}}|date=25 July 2018|passage=The plots of ''[[w:Mission: Impossible (film series)|Mission: Impossible]]'' movies tend to be '''convoluted''' but negligible, really only there to provide connective tissue between jaw-dropping set pieces.}}
+
+====Derived terms====
+* {{l|en|convolutedly}}
+* {{l|en|convolutedness}}
 
 ====Related terms====
 * {{l|en|convolve}}
@@ -21,35 +28,43 @@
 * {{l|en|convolution}}
 
 ====Translations====
-{{trans-top|having numerous overlapping coils}}
+{{trans-top|having numerous overlapping coils or folds}}
 * Czech: {{t|cs|propletený}}, {{t|cs|zamotaný}}
 * Finnish: {{t|fi|kierteinen}}
 * French: {{t+|fr|convoluté}}
 * German: {{t+|de|gewunden}}
+* Italian: {{t+|it|convoluto}}, {{t+|it|accartocciato}}, {{t+|it|appallottolato}}, {{t+|it|spiegazzato}}
 {{trans-mid}}
-* Italian: {{t+|it|convoluto}}, {{t+|it|accartocciato}}, {{t+|it|spiegazzato}}, {{t+|it|appallottolato}}
 * Persian: {{t+|fa|پیچاپیچ|tr=pičâpič|sc=fa-Arab}}
 * Portuguese: {{t+|pt|convoluto}}
-* Russian: {{t+|ru|изви́листый}}, {{t+|ru|вито́й}}, {{t+|ru|кручёный}}
+* Russian: {{t+|ru|изви́листый}}, {{t+|ru|кручёный}}, {{t+|ru|вито́й}}
 {{trans-bottom}}
 
 {{trans-top|complex}}
 * Catalan: {{t+|ca|complicat}}, {{t|ca|enrevessat}}
-* Czech: {{t+|cs|složitý}}, {{t+|cs|komplikovaný}}
+* Czech: {{t+|cs|komplikovaný}}, {{t+|cs|složitý}}
 * Dutch: {{t|nl|[[nodeloos]] [[ingewikkeld]]}}
 * Finnish: {{t+|fi|monimutkainen}}, {{t+|fi|mutkikas}}
-* French: {{t+|fr|compliqué}}, {{t+|fr|alambiqué}}
+* French: {{t+|fr|alambiqué}}, {{t+|fr|compliqué}}
 * Galician: {{t|gl|complicado|m}}
 * German: {{t+|de|verwickelt}}
 * Greek:
 *: Ancient: {{t|grc|πολύπλοκος}}
-* Italian: {{t+|it|tortuoso}}, {{t+|it|complicato}}, {{t+|it|contorto}}, {{t+|it|intricato}}, {{t|it|labirintico}}
+* Italian: {{t+|it|complicato}}, {{t+|it|contorto}}, {{t+|it|intricato}}, {{t|it|labirintico}}, {{t+|it|tortuoso}}
 {{trans-mid}}
 * Persian: {{t+|fa|پیچیده|tr=pičide|sc=fa-Arab}}, {{t|fa|در هم پیچیده|tr=dar ham pičide|sc=fa-Arab}}
 * Polish: {{t+|pl|zawiły|m}}
 * Portuguese: {{t+|pt|complicado}}, {{t|pt|enrolado}}
-* Russian: {{t+|ru|запу́танный}}, {{t+|ru|сло́жный}}
-* Serbo-Croatian: {{t|sh|замршен|m|tr=zamršen|sc=Cyrl}}
-* Spanish: {{t+|es|complicado}}, {{t+|es|enrevesado}}, {{t+|es|enredado|m}}, {{t+|es|alambicado}}
+* Russian: {{t+|ru|сло́жный}}, {{t+|ru|запу́танный}}
+* Serbo-Croatian: {{t|sh|замршен|m|tr=zamršen}}
+* Spanish: {{t+|es|alambicado}}, {{t+|es|complicado}}, {{t+|es|enredado|m}}, {{t+|es|enrevesado}}
 * Turkish: {{t|tr|anlaşılması güç}}
 {{trans-bottom}}
+
+===Verb===
+{{head|en|verb form}}
+
+# {{en-past of|convolute}}
+
+===References===
+<references />
