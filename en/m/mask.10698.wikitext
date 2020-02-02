@@ -89,7 +89,6 @@ Borrowed from {{bor|en|frm|masque||a covering to hide or protect the face}}, fro
 * {{l|en|ski mask}}
 * {{l|en|sleep mask}}
 * {{l|en|surgical mask}}
-* {{l|en|unmask}}
 {{der-bottom}}
 
 =====Translations=====
@@ -279,6 +278,10 @@ Borrowed from {{bor|en|frm|masque||a covering to hide or protect the face}}, fro
 #*: That is, the lower nibble (the 4 bits 1010 = A) has been '''masked''' to zero. This is because ANDing anything with a zero produces a zero, while ANDing any bit with a 1 leaves the bit unchanged{{...}}
 # {{lb|en|transitive|computing}} To [[disable]] (an [[interrupt]], etc.) by setting or unsetting the associated [[bit]].
 #* {{quote-book|en|author=Rick Grehan|author2=Robert Moote|author3=Ingo Cyliax|year=1998|title=Real-Time Programming: A Guide to 32-bit Embedded Development|page=199|pageurl=https://books.google.com/books?newbks=1&newbks_redir=0&id=o5FQAAAAMAAJ&dq=Real-time+programming%3A+a+guide+to+32-bit+embedded+development&focus=searchwithinvolume&q=rather+than+disabling+all|text=Some hardware interrupts can be '''masked''', or disabled; that is, the CPU is told to ignore them.}}
+
+====Derived terms====
+* {{l|en|maskable}}
+* {{l|en|unmask}}
 
 =====Translations=====
 {{trans-top|to cover, as the face, by way of concealment or defense against injury}}
