@@ -29,8 +29,14 @@ Originally short for “rifled gun”, referring to the spiral grooves inside th
 |sniper rifle}}
 
 ====Descendants====
+{{top3}}
+* {{desc|ca|rifle|bor=1}}
+* {{desc|fr|rifle|bor=1}}
 * {{desc|ja|ライフル|tr=raifuru|bor=1}}
 * {{desc|ko|라이플|bor=1}}
+* {{desc|pt|rifle|bor=1}}
+* {{desc|es|rifle|bor=1}}
+{{bottom}}
 
 ====Translations====
 {{trans-top|firearm with a rifled barrel}}
@@ -194,30 +200,46 @@ Originally short for “rifled gun”, referring to the spiral grooves inside th
 
 ==Catalan==
 
+===Etymology===
+From {{bor|ca|en|rifle}}.
+
+===Pronunciation===
+* {{ca-IPA}}
+
 ===Noun===
 {{ca-noun|m}}
 
 # {{l|en|rifle}}
 
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+
+{{topics|ca|Firearms}}
+
 ----
 
 ==French==
 
-===Etymology===
-From {{der|fr|AE.|rifle}} (19th century).
-
 ===Pronunciation===
 * {{fr-IPA}}
 
-===Noun===
+===Etymology 1===
+From {{bor|fr|AE.|rifle}} (19th century).
+
+====Noun====
 {{fr-noun|m}}
 
 # {{l|en|rifle}} ([[carabine]])
 
-====Related terms====
+=====Related terms=====
 * {{l|fr|.22 Long Rifle}}
 
-===Verb===
+===Etymology 2===
+
+====Verb====
 {{head|fr|verb form}}
 
 # {{inflection of|fr|rifler||1|s|pres|indc}}
@@ -231,6 +253,8 @@ From {{der|fr|AE.|rifle}} (19th century).
 
 ===Anagrams===
 * {{anagrams|fr|filer}}
+
+{{topics|fr|Firearms}}
 
 ----
 
@@ -281,7 +305,7 @@ As above.
 * {{alter|pt|refle}}
 
 ===Etymology===
-From {{der|pt|en|rifle}}, from {{der|pt|enm|-}}, from {{der|pt|fro|rifler|t=to scrape off, plunder}}, from Old Low Franconian {{der|pt|odt|*riffilōn|*rifillon}}, frequentative of {{der|pt|gem-pro|*rīfaną}}.
+From {{bor|pt|en|rifle}}, from {{der|pt|enm|-}}, from {{der|pt|fro|rifler|t=to scrape off, plunder}}, from Old Low Franconian {{der|pt|odt|*riffilōn|*rifillon}}, frequentative of {{der|pt|gem-pro|*rīfaną}}.
 
 ===Pronunciation===
 * {{a|Brazil}} {{IPA|pt|/ˈʁi.fli/}}
@@ -293,6 +317,9 @@ From {{der|pt|en|rifle}}, from {{der|pt|enm|-}}, from {{der|pt|fro|rifler|t=to s
 # {{l|en|rifle}}
 #: {{syn|pt|escopeta|espingarda|fuzil|refle}}
 
+===Further reading===
+* {{R:Priberam}}
+
 [[Category:pt:Firearms]]
 
 ----
@@ -302,16 +329,17 @@ From {{der|pt|en|rifle}}, from {{der|pt|enm|-}}, from {{der|pt|fro|rifler|t=to s
 ===Etymology===
 Borrowed from {{bor|es|en|rifle}}.
 
+===Pronunciation===
+* {{es-IPA}}
+
 ===Noun===
 {{es-noun|m}}
 
 # {{l|en|rifle}}
 #: {{syn|es|fusil}}
 
-====Derived terms====
-{{col3|es
-|pistola de aire 
-}}
+===Further reading===
+* {{R:DRAE}}
 
 [[Category:es:Firearms]]
 [[Category:es:Weapons]]
