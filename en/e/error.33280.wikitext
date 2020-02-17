@@ -374,7 +374,7 @@ From {{etyl|xno|en}} {{m|enm|errour}}, from {{etyl|fro|en}} {{m|fro|error}}, fro
 ==Asturian==
 
 ===Etymology===
-From {{etyl|la|ast}} {{m|la|error}}.
+From {{der|ast|la|error}}.
 
 ===Noun===
 {{ast-noun|m|errores}}
@@ -385,19 +385,41 @@ From {{etyl|la|ast}} {{m|la|error}}.
 
 ==Catalan==
 
+===Etymology===
+From {{der|ca|la|error}}.
+
 ===Noun===
 {{ca-noun|m}}
 
 # {{l|en|error}}
 
+====Related terms====
+* {{l|ca|errar}}
+
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+
 ----
 
 ==Galician==
 
+===Etymology===
+From {{der|gl|la|error}}.
+
 ===Noun===
 {{gl-noun|m|errores}}
 
-# {{alternative form of|gl|erro}}
+# {{l|en|error}}
+#: {{syn|gl|erro}}
+
+====Related terms====
+* {{l|gl|errar}}
+
+===Further reading===
+* {{R:DRAG}}
 
 ----
 
@@ -452,19 +474,19 @@ From {{inh|la|itc-pro|*erzōs}}. Equivalent to {{af|la|erro|t1=I err, I stray|-o
 ==Spanish==
 
 ===Etymology===
-From {{etyl|la|es}} {{m|la|error}}.
+From {{der|es|la|error}}.
 
 ===Pronunciation===
-* {{IPA|es|[eˈroɾ]}}
+* {{es-IPA}}
 
 ===Noun===
-{{es-noun|m|errores}}
+{{es-noun|m}}
 
 # {{l|en|error}}
-
-====Synonyms====
-* {{l|es|equivocación|g=f}}
-* {{l|es|yerro|g=m}}
+#: {{syn|es|equivocación|yerro}}
 
 ====Related terms====
 * {{l|es|errar}}
+
+===Further reading===
+* {{R:DRAE}}
