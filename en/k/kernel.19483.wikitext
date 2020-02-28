@@ -31,9 +31,9 @@ From {{inh|en|enm|kernel}}, {{m|enm|kirnel}}, {{m|enm|kurnel|kürnel}}, from {{i
 #: {{ux|en|The Dirichlet '''kernel''' convolved with a function yields its Fourier series approximation.}}
 # {{lb|en|mathematics}} A set of pairs of a mapping's domain which are mapped to the same value.
 # {{lb|en|mathematics|linear algebra|functional analysis}} For a given [[function]] (especially a [[linear map]] between [[vector space]]s), the set of elements in the [[domain]] which are mapped to [[zero]]; {{lb|en|formally}} given ''f''&nbsp;:&nbsp;''X''&nbsp;→&nbsp;''Y'', the set {''x''&nbsp;∈&nbsp;''X''&nbsp;:&nbsp;''f''(''x'')&nbsp;=&nbsp;0}.
-#: {{ux|en|If a function is continuous then its '''kernel''' is a closed se
+#: {{ux|en|If a function is continuous then its '''kernel''' is a closed set.}}
 #: {{ant|en|support}}
-#: {{meronyms|en|root|zero}}t.}}
+#: {{meronyms|en|root|zero}}
 # {{lb|en|mathematics|category theory}} ''For a category with [[zero morphism]]s'': the [[equalizer]] of a given morphism and the zero morphism which is parallel to that given morphism.
 # {{lb|en|mathematics|fuzzy set theory}} The [[set]] of members of a [[fuzzy set]] that are fully included (i.e., whose grade of membership is 1).
 # {{lb|en|slang}} The human [[clitoris]].
