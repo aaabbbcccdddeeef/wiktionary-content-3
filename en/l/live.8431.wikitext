@@ -109,7 +109,7 @@ Throughout Late Middle English and Early Modern English in Midlands and Northern
 * Georgian: {{t|ka|სიცოცხლე}}, {{t|ka|ცხოვრება}}
 * German: {{t+|de|leben}}
 * Greek: {{t+|el|ζω}}
-*: Ancient: {{t|grc|ζάω}}
+*: Ancient: {{t|grc|ζάω}}, {{t|grc|ζῶ}}
 * Greenlandic: {{t|kl|inuuvoq}}
 * Haitian Creole: {{t|ht|ret}}, {{t|ht|rete}}
 * Hebrew: {{t+|he|חַי|tr=kháy|sc=Hebr}}
@@ -129,7 +129,7 @@ Throughout Late Middle English and Early Modern English in Midlands and Northern
 * Kunigami: {{t|xug|生ちちゅん|tr=ひちちゅん, hichichun}}
 * Kurdish:
 *: Kurmanji: {{t+|ku|jîyan}}
-*: Sorani: {{t+|ku|ژیان|tr=jiyan|sc=ku-Arab}}
+*: Sorani: {{t+|ku|ژیان|alt=ژِیان}}
 * Kyrgyz: {{t+|ky|өмүр сүрүү|sc=Cyrl}}, {{t+|ky|жашоо|sc=Cyrl}}
 * Ladin: {{t|lld|viver}}
 * Laboya: {{t|lmy|morha}}
@@ -145,7 +145,7 @@ Throughout Late Middle English and Early Modern English in Midlands and Northern
 * Macedonian: {{t|mk|живее|impf}}
 * Malay: {{t|ms|hidup}}
 * Maltese: {{t|mt|għex}}
-* Manchu: {{t|mnc|ᠪᠠᠨᠵᡳᠮᠪᡳ|tr=banjimbi}}
+* Manchu: {{t|mnc|ᠪᠠᠨᠵᡳᠮᠪᡳ}}
 * Miyako: {{t|mvi|生きーㇲ゙|tr=いきーㇲ゙, ikīz}}
 * Mongolian: {{t+|mn|амьдрах|sc=Cyrl}}
 * Navajo: {{t|nv|hiná}}
@@ -178,8 +178,8 @@ Throughout Late Middle English and Early Modern English in Midlands and Northern
 * Scots: {{t|sco|leeve}}
 * Scottish Gaelic: {{t|gd|bi}} {{t|gd|beò}}
 * Serbo-Croatian:
-*: Cyrillic: (''Ekavian'') {{t|sh|жи́вети|impf|sc=Cyrl}}, (''Ijekavian'') {{t|sh|жи́вјети|impf|sc=Cyrl}}
-*: Roman: (''Ekavian'') {{t+|sh|žíveti|impf}}, (''Ijekavian'') {{t+|sh|žívjeti|impf}}
+*: Cyrillic: {{q|Ekavian}} {{t|sh|жи́вети|impf|sc=Cyrl}}, {{q|Ijekavian}} {{t|sh|жи́вјети|impf|sc=Cyrl}}
+*: Roman: {{q|Ekavian}} {{t+|sh|žíveti|impf}}, {{q|Ijekavian}} {{t+|sh|žívjeti|impf}}
 * Sicilian: {{t+|scn|vìviri}}
 * Sinhalese: {{t|si|ජීවත් වෙනවා|sc=Sinh}}
 * Slovak: {{t|sk|žiť|impf}}
@@ -262,13 +262,13 @@ Throughout Late Middle English and Early Modern English in Midlands and Northern
 * Luxembourgish: {{t+|lb|wunnen}}
 * Malay: {{t+|ms|tinggal}}
 {{trans-mid}}
-* Manchu: {{t|mnc|ᡨᡝᠮᠪᡳ|tr=tembi}}
+* Manchu: {{t|mnc|ᡨᡝᠮᠪᡳ}}
 * Norman: {{t|nrf|d'meuther}}
 * North Frisian: {{qualifier|Mooring dialect}} {{t|frr|booge}}
 * Northern Sami: {{t|se|orrut}}, {{t|se|ássat}}
 * Norwegian: {{t+|no|bo}}
 * Old English: {{t|ang|wunian}}, {{t|ang|libban}}
-* Pashto: {{t|ps|ژوند کول|tr=žwǝ́nd kawǝ́l}}
+* Pashto: {{t|ps|ژوند کول|tr=žwə́nd kawə́l}}
 * Persian: {{t+|fa|زندگی کردن|tr=zendegi kardan|sc=fa-Arab}}
 * Polish: {{t+|pl|mieszkać|impf}}
 * Portuguese: {{t+|pt|viver}}, {{t+|pt|morar}}
@@ -281,8 +281,8 @@ Throughout Late Middle English and Early Modern English in Midlands and Northern
 * Scots: {{t|sco|bide}}
 * Scottish Gaelic: {{t|gd|fuirich}}, {{t|gd|còmhnaich}}
 * Serbo-Croatian:
-*: Cyrillic: (''Ekavian'') {{t|sh|жи́вети|impf|sc=Cyrl}}, (''Ijekavian'') {{t|sh|жи́вјети|impf|sc=Cyrl}}
-*: Roman: (''Ekavian'') {{t+|sh|žíveti|impf}}, (''Ijekavian'') {{t+|sh|žívjeti|impf}}
+*: Cyrillic: {{q|Ekavian}} {{t|sh|жи́вети|impf|sc=Cyrl}}, {{q|Ijekavian}} {{t|sh|жи́вјети|impf|sc=Cyrl}}
+*: Roman: {{q|Ekavian}} {{t+|sh|žíveti|impf}}, {{q|Ijekavian}} {{t+|sh|žívjeti|impf}}
 * Sichuan Yi: {{t|ii|ꀀ}}
 * Slovak: {{t|sk|žiť|impf}}, {{t|sk|bývať|impf}}
 * Slovene: {{t+|sl|živéti|impf}}
@@ -290,7 +290,7 @@ Throughout Late Middle English and Early Modern English in Midlands and Northern
 *: Lower Sorbian: {{t|dsb|bydliś|impf}}
 *: Upper Sorbian: {{t|hsb|bydlić|impf}}
 * Sotho: {{t+|st|dula}}
-* Spanish: {{t+|es|vivir}}, {{t+|es|morar}} {{qualifier|literarily}}
+* Spanish: {{t+|es|vivir}}, {{t+|es|morar}} {{qualifier|literary}}
 * Swahili: {{t+|sw|ishi}}
 * Swedish: {{t+|sv|bo}}
 * Tagalog: {{t|tl|manirahan}}
@@ -327,7 +327,7 @@ Throughout Late Middle English and Early Modern English in Midlands and Northern
 * Kurdish: {{t+|ku|jîn}}, {{t+|ku|jiyan}}
 * Latin: {{t+|la|vivo}}
 {{trans-mid}}
-* Manchu: {{t|mnc|ᡨᠠᡴᠰᡳᠮᠪᡳ|tr=taksimbi}}
+* Manchu: {{t|mnc|ᡨᠠᡴᠰᡳᠮᠪᡳ}}
 * Polish: {{t+|pl|przetrwać}}, {{t+|pl|przeżyć}}
 * Portuguese: {{t+|pt|sobreviver}}, {{t+|pt|perseverar}}
 * Romanian: {{t+|ro|supraviețui|alt=a supraviețui}}
@@ -615,7 +615,7 @@ See [[alive]]
 {{en-noun}}
 
 # {{lb|en|obsolete}} [[life]]
-#: {{rfquotek|en|Geoffrey Chaucer}}
+#: {{rfquotek|en|Geoffrey Chaucer}}{{attention|en|Chaucer is Middle English (enm)}}
 
 ===Further reading===
 * {{R:Webster 1913}}
@@ -635,7 +635,7 @@ See [[alive]]
 Verbal form of the noun {{m|da|liv||life}}.
 
 ====Pronunciation====
-* {{IPA|da|/liːvə/|[ˈliːwə]}}
+* {{IPA|da|/liːvə/|[ˈliːʊ̯ə]|[ˈliːʊ]}}
 
 ====Verb====
 {{da-verb|liv|live|liver|livede|har|livet}}
@@ -729,7 +729,7 @@ From {{bor|fi|en|live}}.
 From {{bor|de|en|live}}.
 
 ===Pronunciation===
-* {{IPA|mt|/laɪ̯f/}}
+* {{IPA|de|/laɪ̯f/}}
 * {{audio|de|De-live.ogg|Audio}}
 
 ===Adverb===
