@@ -3,7 +3,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|fa|en}} {{m|fa|کابل|tr=kâbol}} which is borrowed from {{etyl|ps|en}} {{m|ps|کابل|tr=kâbël}}. Possibly from {{m|en|Kambuja}}, an {{etyl|iir|en}} tribe; alternatively, from {{etyl|sa|en}} {{m|sa|कम्बुज}}.
+From {{bor|en|fa|کابل|tr=kâbol}}, from {{der|en|ps|کابل|tr=kâbël}}. Possibly from {{m|en|Kambuja}}, an {{der|en|iir|-}} tribe; alternatively, from {{der|en|sa|कम्बुज}}.
 
 ===Pronunciation===
 * {{IPA|en|/ˈkɑːbəl/}}
@@ -11,7 +11,7 @@ From {{etyl|fa|en}} {{m|fa|کابل|tr=kâbol}} which is borrowed from {{etyl|ps
 ===Proper noun===
 {{en-proper noun}}
 
-# The capital of [[Afghanistan]].
+# {{place|en|capital city|c/Afghanistan}}.
 
 ====Derived terms====
 * {{l|en|Kabulese}}
@@ -38,7 +38,7 @@ From {{etyl|fa|en}} {{m|fa|کابل|tr=kâbol}} which is borrowed from {{etyl|ps
 * Hungarian: {{t+|hu|Kabul}}
 * Irish: {{t|ga|Cabúl|m}}
 * Japanese: {{t|ja|カブール|tr=Kabūru}}
-* Khmer: {{t+|km|កាប៊ុល|tr=kaabul|sc=Khmr}}
+* Khmer: {{t+|km|កាប៊ុល|tr=kaabul}}
 {{trans-mid}}
 * Korean: {{t+|ko|^카불}}
 * Kumyk: {{t|kum|Къабул|tr=Qabul}}
@@ -46,7 +46,7 @@ From {{etyl|fa|en}} {{m|fa|کابل|tr=kâbol}} which is borrowed from {{etyl|ps
 * Manchu: {{t|mnc|ᡥᠠᠪᡠᠯ}}
 * Marathi: {{t|mr|काबुल}}
 * Middle Persian: {{t|pal|tr=kʾpwl|ts=kābul}}
-* Pashto: {{t+|ps|کابل|tr=Kâbël|sc=ps-Arab}}
+* Pashto: {{t+|ps|کابل|tr=Kâbël}}
 * Persian: {{t+|fa|کابل|tr=kâbol}}
 * Polish: {{t+|pl|Kabul|m}}
 * Portuguese: {{t+|pt|Cabul|m}}
@@ -56,7 +56,7 @@ From {{etyl|fa|en}} {{m|fa|کابل|tr=kâbol}} which is borrowed from {{etyl|ps
 *: Roman: {{t+|sh|Kabul|m}}
 * Spanish: {{t+|es|Kabul|m}}
 * Sylheti: {{t|syl|ꠇꠣꠛꠥꠟ}}
-* Tajik: {{t+|tg|Кобул|sc=Cyrl}}
+* Tajik: {{t+|tg|Кобул}}
 * Tamil: {{t+|ta|காபூல்}}
 * Thai: {{t|th|คาบูล}}
 * Turkish: {{t|tr|Kâbil}}
@@ -67,8 +67,6 @@ From {{etyl|fa|en}} {{m|fa|کابل|tr=kâbol}} which is borrowed from {{etyl|ps
 ===Anagrams===
 * {{anagrams|en|a=abklu|baulk}}
 
-{{topics|en|Cities in Afghanistan|Capital cities}}
-
 ----
 
 ==Estonian==
@@ -76,10 +74,7 @@ From {{etyl|fa|en}} {{m|fa|کابل|tr=kâbol}} which is borrowed from {{etyl|ps
 ===Proper noun===
 {{head|et|proper noun}}
 
-# {{l|en|Kabul}}
-
-[[Category:et:Capital cities]]
-[[Category:et:Cities in Afghanistan]]
+# {{place|et|capital city|c/Afghanistan|t1=Kabul}}
 
 ----
 
@@ -92,9 +87,7 @@ From {{etyl|fa|en}} {{m|fa|کابل|tr=kâbol}} which is borrowed from {{etyl|ps
 ===Proper noun===
 {{de-proper noun|n}}
 
-# {{l|en|Kabul}}
-
-[[Category:de:Capital cities]]
+# {{place|de|capital city|c/Afghanistan|t1=Kabul}}
 
 ----
 
@@ -106,16 +99,14 @@ From {{etyl|fa|en}} {{m|fa|کابل|tr=kâbol}} which is borrowed from {{etyl|ps
 ===Proper noun===
 {{head|pl|proper noun|g=m}}
 
-# {{l|en|Kabul}}
+# {{place|pl|capital city|c/Afghanistan|t1=Kabul}}
 
 ====Declension====
 {{pl-decl-noun-sing|Kabul|Kabulu|Kabulowi|Kabul|Kabulem|Kabulu|Kabulu}}
 
 ====Derived terms====
-* {{l|pl|kabulczyk|g=m}}, {{l|pl|kabulka}} {{g|f}}
-* adjective: {{l|pl|kabulski}}
-
-[[Category:pl:Capital cities]]
+* {{l|pl|kabulczyk|g=m}}, {{l|pl|kabulka|g=f}}
+* {{l|pl|kabulski|pos=adj}}
 
 ----
 
@@ -125,9 +116,7 @@ From {{etyl|fa|en}} {{m|fa|کابل|tr=kâbol}} which is borrowed from {{etyl|ps
 ===Proper noun===
 {{sh-proper noun|g=m}}
 
-# {{l|en|Kabul}}
-
-[[Category:sh:Capital cities]]
+# {{place|sh|capital city|c/Afghanistan|t1=Kabul}}
 
 ----
 
@@ -137,6 +126,4 @@ From {{etyl|fa|en}} {{m|fa|کابل|tr=kâbol}} which is borrowed from {{etyl|ps
 ===Proper noun===
 {{es-proper noun|m}}
 
-# {{place|es|city|c/Afghanistan|t1=Kabul}}
-
-[[Category:es:Capital cities]]
+# {{place|es|capital city|c/Afghanistan|t1=Kabul}}
