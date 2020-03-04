@@ -5,7 +5,7 @@
 ===Proper noun===
 {{en-proper noun}}
 
-# A 14th-century [[Malay]] [[kingdom]] centered in modern-day [[Singapore]].
+# {{place|en|A 14th-century [[Malay]] <<kingdom>> centered in modern-day <<c/Singapore>>}}.
 
 ===Noun===
 {{en-noun}}
@@ -53,12 +53,13 @@ From {{inh|id|ms|Singapura}}, from  from {{der|id|sa|सिंहपुर|tr=si
 
 ===Proper noun===
 {{head|id|proper noun}}
-# [[Singapore]]
+
+# {{place|id|country|c/Southeast Asia|t1=Singapore}}
+# {{place|id|capital city|c/Singapore|t1=Singapore}}
 
 ===Further reading===
 * {{R:KBBI Daring}}
-[[Category:id:Capital cities]]
-[[Category:id:Countries]]
+
 ----
 
 ==Latin==
@@ -67,12 +68,11 @@ From {{inh|id|ms|Singapura}}, from  from {{der|id|sa|सिंहपुर|tr=si
 ===Proper noun===
 {{la-proper noun|Singapura<1>}}
 
-# {{lb|la|New Latin}} [[Singapore]]
+# {{lb|la|New Latin}} {{place|la|country|c/Southeast Asia|t1=Singapore}}
+# {{lb|la|New Latin}} {{place|la|capital city|c/Singapore|t1=Singapore}}
 
 ====Declension====
 {{la-ndecl|Singapura<1>}}
-
-[[Category:la:Countries in Asia]]
 
 ----
 
@@ -90,11 +90,8 @@ From {{etyl|sa|ms}} {{m|sa|सिंह|tr=siṃhá||lion}} and {{m|sa|पुर
 ===Proper noun===
 {{ms-proper noun|head=[[singa|Singa]][[pura]]|j=سيڠاڤورا}}
 
-# {{l|en|Singapore}}
-
-[[Category:ms:Capital cities]]
-[[Category:ms:Cities]]
-[[Category:ms:Countries]]
+# {{place|ms|country|c/Southeast Asia|t1=Singapore}}
+# {{place|ms|capital city|c/Singapore|t1=Singapore}}
 
 ----
 
@@ -106,21 +103,22 @@ From {{etyl|sa|ms}} {{m|sa|सिंह|tr=siṃhá||lion}} and {{m|sa|पुर
 ===Proper noun===
 {{pt-proper noun|f}} {{tlb|pt|European orthography}}
 
-# {{place|pt|country|in southeast|continent/Asia|t1=Singapore}}
+# {{place|pt|country|c/Southeast Asia|t1=Singapore}}
+# {{place|pt|capital city|c/Singapore|t1=Singapore}}
 
 ----
 
 ==Tagalog==
 {{wikipedia|lang=tl}}
+
 ===Etymology===
 From {{der|tl|ms|Singapura||Singapore}}.
 
 ===Proper noun===
 {{head|tl|proper noun}}
 
-# [[Singapore]]
+# {{place|tl|country|c/Southeast Asia|t1=Singapore}}
+# {{place|tl|capital city|c/Singapore|t1=Singapore}}
 
 ===Synonyms===
-* [[Singgapur]]
-
-[[Category:tl:Countries]]
+* {{l|tl|Singgapur}}
