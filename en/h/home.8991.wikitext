@@ -151,13 +151,13 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Cherokee: {{t|chr|ᎣᏪᏅᏒ|sc=Cher}}
 * Chichewa: {{t-needed|ny}}
 * Chinese:
-*: Cantonese: {{t+|yue|家|tr=gaa1|sc=Hani}}, {{t|yue|屋企|tr=uk1 kei5-2}}
+*: Cantonese: {{t|yue|屋企|tr=uk1 kei5-2}}, {{t+|yue|家|tr=gaa1}}
 *: Dungan: {{t|dng|җя}}
 *: Hakka: {{t|hak|屋下|tr=vuk-hâ / vuk-khâ / luk-khâ}}
-*: Mandarin: {{t+|cmn|家|tr=jiā|sc=Hani}}
+*: Mandarin: {{t+|cmn|家|tr=jiā}}
 *: Min Bei: {{t|mnp|厝|tr=chio̤̿}}
 *: Min Dong: {{t|cdo|厝|tr=chió}}
-*: Min Nan: {{t+|nan|厝|tr=chhù|sc=Hani}}, {{t|nan|㢄|tr=tau|sc=Hani}}, {{t+|nan|兜|tr=tau / to͘}}
+*: Min Nan: {{t+|nan|厝|tr=chhù}}, {{t+|nan|兜|tr=tau / to͘}}
 *: Wu: {{t|wuu|屋裡}}, {{t|wuu|屋里|tr=oq li}}
 * Chiricahua: {{t|apm|kuugha̧}}
 * Choctaw: {{t|cho|chuka}}
@@ -200,7 +200,7 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Kaqchikel: {{t|cak|jay}}
 * Karelian: {{t|krl|kodi}}
 * Kazakh: {{t+|kk|үй}}
-* Khmer: {{t+|km|ផ្ទះ|tr=pteah|sc=Khmr}}
+* Khmer: {{t+|km|ផ្ទះ}}
 * Komi-Permyak: {{t|koi|горт}}
 * Korean: {{t+|ko|집}}, {{t+|ko|댁}} {{qualifier|honorific}}
 * Kurdish:
@@ -251,10 +251,10 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Scots: {{t|sco|hame}}
 * Scottish Gaelic: {{t|gd|dachaigh|f}}, {{t+|gd|taigh|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t+|sh|дом|m|sc=Cyrl}}
-*: Roman: {{t+|sh|dom|m}}
+*: Cyrillic: {{t+|sh|до̏м|m}}
+*: Roman: {{t+|sh|dȍm|m}}
 * Sinhalese: {{t+|si|ගෙදර}}
-* Slovak: {{t+|sk|domov|m}}
+* Slovak: {{t+|sk|domōv|m}}
 * Slovene: {{t+|sl|dóm|m}}
 * Somali: {{t-needed|so}}
 * Sotho: {{t|st|lehae}}
@@ -307,7 +307,7 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * French: {{t+|fr|patrie|f}}
 * German: {{t+|de|Heimat|f}}
 * Greek: {{t+|el|πατρίδα|f}}, {{t+|el|γενέτειρα|f}}
-* Hebrew: {{t+|he|בית|m|tr=báyit}}
+* Hebrew: {{t+|he|בַּיִת|m|tr=báyit}}
 * Hungarian: {{t+|hu|szülőföld}}
 * Italian: {{t+|it|patria|f}}, {{t+|it|paese|m}}
 * Japanese: {{t+|ja|故郷|tr=こきょう, kokyō|sc=Jpan}}, {{qualifier|homeland}} {{t+|ja|母国|tr=ぼこく, bokoku|sc=Jpan}}
@@ -327,13 +327,15 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Romansch: {{t|rm|patria|f-p}}
 * Scots: {{t|sco|hame}}
 * Scottish Gaelic: {{t|gd|dachaigh|f}}
-* Serbo-Croatian: {{t+|sh|domovina|f}}
-* Slovene: {{t+|sl|dóm|m}}, {{t+|sl|domovina|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|до̀мовина|f}}
+*: Roman: {{t+|sh|dòmovina|f}}
+* Slovene: {{t+|sl|dóm|m}}, {{t+|sl|domovína|f}}
 * Spanish: {{t+|es|patria|f}}
 * Swedish: {{t+|sv|hemland|n}}
 * Telugu: {{t|te|పూర్వీకము|sc=Telu}}
 * Turkish: {{t+|tr|memleket}}, {{t+|tr|vatan}}, {{t+|tr|yurt}}
-* Ukrainian: {{t+|uk|батьківщина|f}}, {{t+|uk|домівка|f}}
+* Ukrainian: {{t+|uk|ба́тьківщина|f}}, {{t+|uk|батьківщи́на|f}}, {{t+|uk|домі́вка|f}}
 * Uyghur: {{t|ug|يۇرت|sc=ug-Arab}}, {{t|ug|ۋەتەن|sc=ug-Arab}}
 * Vietnamese: {{t+|vi|quê}}, {{t+|vi|quê hương}}, {{t+|vi|tổ quốc}}
 {{trans-bottom}}
@@ -348,7 +350,7 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Finnish: {{t+|fi|lapsuudenkoti}}
 * German: {{t+|de|Elternhaus|n}}, {{t+|de|Nest|n}}, {{t+|de|Zuhause|n}}
 * Greek: {{t+|el|πατρικό|n}}
-* Hebrew: {{t+|he|בית|m|tr=báyit}}
+* Hebrew: {{t+|he|בַּיִת|m|tr=báyit}}
 * Hindi: {{t+|hi|जन्मभूमि}}
 * Hungarian: {{t+|hu|otthon}}
 * Japanese: {{t+|ja|故郷|tr=[[こきょう]], kokyō|sc=Jpan}}, {{t|ja|実家|tr=[[じっか]], jikka|sc=Jpan}}
@@ -365,7 +367,9 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Russian: {{t+|ru|дом|m}}
 * Scots: {{t|sco|hame}}
 * Scottish Gaelic: {{t|gd|dachaigh|f}}
-* Serbo-Croatian: {{t+|sh|dom|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t+|sh|до̏м|m}}
+*: Roman: {{t+|sh|dȍm|m}}
 * Slovene: {{t+|sl|dóm|m}}
 * Spanish: {{t+|es|hogar}}
 * Swedish: {{t+|sv|barndomshem|n|n-p}}
@@ -399,9 +403,9 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Finnish: {{t|fi|elinpaikka}}, {{t+|fi|kotipaikka}}
 * German: {{t+|de|Heimat|f}}
 * Greek: {{t+|el|κατοικία|f}}, {{t+|el|περιβάλλον|n}}
-* Hebrew: {{t+|he|בית|m|tr=báyit}}, {{t+|he|מקום|m|tr=makóm}}
+* Hebrew: {{t+|he|בַּיִת|m|tr=báyit}}, {{t+|he|מָקוֹם|m|tr=makóm}}
 * Italian: {{t+|it|habitat|m}}, {{t+|it|dimora|f}}
-* Japanese: {{t|ja|生息地|tr=[[せいそくち]], seisokuchi|sc=Jpan}}
+* Japanese: {{t|ja|生息地|tr=せいそくち, seisokuchi|sc=Jpan}}
 * Latin: {{t+|la|domus|f}}, {{t|la|focus|m}}, {{t|la|penates|m-p}}
 {{trans-mid}}
 * Macedonian: {{t|mk|дом|m}}, {{t|mk|живеалиште|n}}
