@@ -9,11 +9,10 @@
 * {{audio|en|en-au-apostrophe.ogg|Audio (AU)}}
 
 ===Etymology 1===
-From {{etyl|fr|en}} {{m|fr|apostrophe}}, or {{etyl|la|en}} {{m|la|apostrophus}}, from {{etyl|grc|en}} {{m|grc|ἀπόστροφος||accent of elision}}, a noun use of an adjective from {{m|grc|ἀποστρέφω||I turn away}}, from {{mention|grc|ἀπό|t=away from}} + {{mention|grc|στρέφω|t=to turn}}.
+From {{der|en|fr|apostrophe}}, or {{der|en|la|apostrophus}}, from {{der|en|grc|ἀπόστροφος|t=accent of elision}}, a noun use of an adjective from {{m|grc|ἀποστρέφω|t=I turn away}}, from {{mention|grc|ἀπό|t=away from}} + {{mention|grc|στρέφω|t=to turn}}.
 
 ====Alternative forms====
-* {{l|en|apostrophë}}
-* {{l|en|apostrophy}}
+* {{alter|en|apostrophë|apostrophy}}
 
 ====Noun====
 {{en-noun}}
@@ -24,10 +23,12 @@ From {{etyl|fr|en}} {{m|fr|apostrophe}}, or {{etyl|la|en}} {{m|la|apostrophus}},
 In English, the apostrophe is used to mark the [[possessive]] (e.g. “my friend’s wife”) or to show the [[omission]] of letters or numbers (e.g. “my friend’s angry”).
 
 =====Derived terms=====
-* {{l|en|greengrocer's apostrophe}}
-* {{l|en|printer's apostrophe}}
-* {{l|en|typographic apostrophe}}
-* {{l|en|typewriter apostrophe}}
+{{col4|en
+|greengrocer's apostrophe
+|printer's apostrophe
+|typographic apostrophe
+|typewriter apostrophe
+}}
 
 =====Translations=====
 {{trans-top|the character ’}}
@@ -35,11 +36,11 @@ In English, the apostrophe is used to mark the [[possessive]] (e.g. “my friend
 * Armenian: {{t+|hy|ապաթարց}}
 * Asturian: {{t|ast|apóstrofu|m}}
 * Belarusian: {{t|be|апо́страф|m}}
-* Bengali: {{t|bn|ঊর্ধকমা|sc=Beng}}
+* Bengali: {{t|bn|ঊর্ধকমা}}
 * Bulgarian: {{t+|bg|апостроф|m}}
 * Catalan: {{t|ca|apòstrof|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|省略符號|sc=Hani}}, {{t+|cmn|省略符号|tr=shěnglüè fúhào|sc=Hani}}, {{t|cmn|隔音符號|sc=Hani}}, {{t|cmn|隔音符号|tr=géyīn fúhào|sc=Hani}}, {{t|cmn|省字符|tr=shěngzìfú|sc=Hani}}, {{t|cmn|單引號|sc=Hani}}, {{t|cmn|单引号|tr=dānyǐnhào|sc=Hani}}
+*: Mandarin: {{t+|cmn|省略符號}}, {{t+|cmn|省略符号|tr=shěnglüè fúhào}}, {{t|cmn|隔音符號}}, {{t|cmn|隔音符号|tr=géyīn fúhào}}, {{t|cmn|省字符|tr=shěngzìfú}}, {{t|cmn|單引號}}, {{t|cmn|单引号|tr=dānyǐnhào}}
 * Cornish: {{t|kw|kollverk|m}}, {{t|kw|kollverkys|m-p}}
 * Czech: {{t+|cs|apostrof|m}}
 * Danish: {{t|da|apostrof|c}}
@@ -76,15 +77,15 @@ In English, the apostrophe is used to mark the [[possessive]] (e.g. “my friend
 * Norwegian:
 *: Bokmål: {{t|no|apostrof|m}}
 *: Nynorsk: {{t|nn|apostrof|m}}
-* Persian: {{t+|fa|آپوستروف|tr=âpostrof|sc=fa-Arab}}
+* Persian: {{t+|fa|آپوستروف|tr=âpostrof}}
 * Polish: {{t+|pl|apostrof|m}}
 * Portuguese: {{t+|pt|apóstrofo|m}}
 * Romanian: {{t+|ro|apostrof|n}}
 * Russian: {{t+|ru|апо́стро́ф|m}}
 * Scottish Gaelic: {{t|gd|ascair|m}}, {{t|gd|asgair|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|апостроф|m}}, {{t|sh|изоставник|m}}
-*: Latin: {{t+|sh|apostrof|m}}, {{t+|sh|izostavnik|m}}
+*: Cyrillic: {{t|sh|а̀построф|m}}, {{t|sh|изо̀ставник|m}}
+*: Latin: {{t+|sh|àpostrof|m}}, {{t+|sh|izòstavnik|m}}
 * Slovak: {{t|sk|apostrof|m}}
 * Slovene: {{t+|sl|opuščaj|m}}, {{t+|sl|apostrof|m}}
 * Spanish: {{t+|es|apóstrofo|m}}
