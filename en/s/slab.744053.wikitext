@@ -8,7 +8,7 @@
 * {{rhymes|en|æb}}
 
 ===Etymology 1===
-From {{etyl|enm|en}} {{m|enm|sclabbe}}, {{m|enm|slabbe}}, of {{unk|en|title=uncertain}} origin; possibly from {{m|enm|*slap|}}, related to dialectal {{m|enm|slappel||portion, piece}}, along with {{m|enm|slape||slippery}}, {{m|enm|sleip||smooth piece of timber}}, borrowed through {{der|en|non|sleipr}} from {{der|en|gem-pro|*slaipaz}}, from {{der|en|ine-pro|*(s)leyb-}}.  See also {{cog|no|sleip||slippery}} and {{cog|is|sleipur}}.
+From {{inh|en|enm|sclabbe}}, {{m|enm|slabbe}}, of {{unk|en|title=uncertain}} origin; possibly from {{m|enm|*slap|}}, related to dialectal {{m|enm|slappel||portion, piece}}, along with {{m|enm|slape||slippery}}, {{m|enm|sleip||smooth piece of timber}}, borrowed through {{der|en|non|sleipr}} from {{der|en|gem-pro|*slaipaz}}, from {{der|en|ine-pro|*(s)leyb-}}.  See also {{cog|no|sleip||slippery}} and {{cog|is|sleipur}}.
 
 ====Noun====
 {{en-noun}}
@@ -45,9 +45,11 @@ From {{etyl|enm|en}} {{m|enm|sclabbe}}, {{m|enm|slabbe}}, of {{unk|en|title=unce
 #*: Being driven by the gravitational force, the subducting Pacific '''slab''' continues to sink down to the boundary between the upper and lower mantle...
 
 =====Derived terms=====
-* {{l|en|slabby}}
-* {{l|en|slab hut}}
-* {{l|en|slab on grade}}
+{{der3|en
+|slabby
+|slab hut
+|slab on grade
+}}
 
 =====Translations=====
 {{trans-top|flat piece of material}}
@@ -109,7 +111,7 @@ Compare {{cog|cel-gae}} and {{cog|ga|slaib|t=mud, mire left on a river strand}},
 #*: Some do also plant oziers in their eights, like quick-sets, thick, and (near the water) keep them not more than half a foot above ground; but then they must be diligently cleansed from moss, '''slab''', and ouze, and frequently prun'd (especially the smaller spires) to form single shoots;{{...}}.
 
 =====Derived terms=====
-* {{l|en|slabby}}
+* [[slabby]]
 
 ====Adjective====
 {{en-adj}}
@@ -147,13 +149,13 @@ This term been popularized through the southern rap genre of hip-hop, most notab
 ==Aromanian==
 
 ===Alternative forms===
-* {{l|rup|slabu}}
+* {{alter|rup|slabu}}
 
 ===Etymology===
-From a {{etyl|sla|rup}} language, ultimately from {{etyl|sla-pro|rup}} {{m|sla-pro|*slabъ}}. Compare {{cog|ro|slab}}, Bulgarian and Macedonian {{m|mk|слаб}}, Serbo-Croatian {{m|sh|slab}}.
+From a {{bor|rup|sla}} language, ultimately from {{der|rup|sla-pro|*slàbъ}}. Compare {{cog|ro|slab}}, {{cog|bg|-}} and {{cog|mk|слаб}}, {{cog|sh|slȁb}}.
 
 ===Adjective===
-{{head|rup|adjective|g=m}} (''feminine'' '''[[slabã]]''', ''masculine plural'' '''[[slaghi]]''', ''feminine plural'' '''[[slabi]]'''/'''[[slabe]]''')
+{{head|rup|adjective|g=m|feminine|slabã|masculine plural|slaghi|feminine plural|slabi|or|slabe}}
 
 # [[weak]]
 # [[lean]], [[thin]], [[skinny]]
@@ -202,7 +204,7 @@ From a {{etyl|sla|rup}} language, ultimately from {{etyl|sla-pro|rup}} {{m|sla-p
 ==Italian==
 
 ===Etymology===
-{{etyl|en|it}}
+Borrowed from {{bor|it|en|slab}}
 
 ===Noun===
 {{it-noun|m|-}}
@@ -217,7 +219,7 @@ From a {{etyl|sla|rup}} language, ultimately from {{etyl|sla-pro|rup}} {{m|sla-p
 ==Romanian==
 
 ===Etymology===
-From {{etyl|sla|ro}}, {{etyl|sla-pro|ro}} {{m|sla-pro|*slabъ}}. Compare {{cog|rup|slab}}, Bulgarian and Macedonian {{m|bg|слаб}}, Serbo-Croatian {{m|sh|slab}}.
+From {{bor|ro|sla}}, from {{der|ro|sla-pro|*slàbъ}}. Compare {{cog|rup|slab}}, {{cog|bg|-}} and {{cog|bg|слаб}}, {{cog|sh|slȁb}}.
 
 ===Pronunciation===
 * {{IPA|ro|[slab]}}
@@ -236,23 +238,25 @@ From {{etyl|sla|ro}}, {{etyl|sla-pro|ro}} {{m|sla-pro|*slabъ}}. Compare {{cog|r
 * {{sense|thin}} {{l|ro|gras}}
 
 ====Related terms====
-* {{l|ro|slăbănog}}
-* {{l|ro|slăbătură}}
-* {{l|ro|slăbi}}
-* {{l|ro|slăbiciune}}
-* {{l|ro|slăbire}}
-* {{l|ro|slăbit}}
-* {{l|ro|slăbuț}}
+{{der3|ro
+|slăbănog
+|slăbătură
+|slăbi
+|slăbiciune
+|slăbire
+|slăbit
+|slăbuț
+}}
 
 ====See also====
-* [[subțire]]
+* {{l|ro|subțire}}
 
 ----
 
 ==Serbo-Croatian==
 
 ===Etymology===
-From {{inh|sh|sla-pro|*slabъ}}.
+From {{inh|sh|sla-pro|*slàbъ}}.
 
 ===Pronunciation===
 * {{IPA|sh|/slâb/}}
@@ -270,7 +274,7 @@ From {{inh|sh|sla-pro|*slabъ}}.
 ==Slovene==
 
 ===Etymology===
-From {{inh|sl|sla-pro|*slabъ}}.
+From {{inh|sl|sla-pro|*slàbъ}}.
 
 ===Pronunciation===
 * {{sl-IPA|slȁb}}
