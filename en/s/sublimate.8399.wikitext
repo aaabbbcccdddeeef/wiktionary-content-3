@@ -2,7 +2,7 @@
 {{was wotd|2006|September|3}}
 
 ===Etymology===
-From {{bor|en|la|sublīmātus}}, past participle of {{m|la|sublīmāre|gloss=to raise, elevate}}.
+From {{bor|en|la|sublīmātus}}, past participle of {{m|la|sublimo|sublīmāre|t=to raise, elevate}}.
 
 ===Pronunciation===
 * {{IPA|en|/ˈsʌblɪmeɪt/}}
@@ -23,21 +23,23 @@ From {{bor|en|la|sublīmātus}}, past participle of {{m|la|sublīmāre|gloss=to 
 #*: The precepts of Christianity are {{...}} so apt to cleanse and '''sublimate''' the more gross and corrupt.
 
 ====Related terms====
-* {{l|en|corrosive sublimate}}
-* {{l|en|sublimation}}
-* {{l|en|sublime}}
+{{col3|en
+|corrosive sublimate
+|sublimation
+|sublime
+}}
 
 ====Translations====
 {{trans-top|to change from solid to gas}}
 * Catalan: {{t+|ca|sublimar}}
 * Chinese:
-*: Mandarin: {{t+|cmn|升華|sc=Hani}}, {{t+|cmn|升华|tr=shēnghuá|sc=Hani}}
+*: Mandarin: {{t+|cmn|升華}}, {{t+|cmn|升华|tr=shēnghuá}}
 * Czech: {{t|cs|sublimovat}}
 * Finnish: {{t|fi|sublimoitua}} {{qualifier|intr.}}, {{t|fi|sublimoida}} {{qualifier|tr.}}
 * French: {{t+|fr|sublimer}}
 * German: {{t+|de|sublimieren}}
 * Japanese: {{t+|ja|昇華|alt=昇華させる|tr=shōka saseru}}
-* Korean: {{t+|ko|승화하다|sc=Kore}}
+* Korean: {{t+|ko|승화하다}}
 * Maori: {{t|mi|whakahaurehu}}, {{t|mi|whāhaurehu}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|sublimar}}
@@ -109,20 +111,33 @@ From {{bor|en|la|sublīmātus}}, past participle of {{m|la|sublīmāre|gloss=to 
 
 ----
 
+==Ido==
+
+===Pronunciation===
+{{io-IPA}}
+
+===Verb===
+{{io-part|adv}}
+
+# {{io-form of|sublim}}
+
+----
+
 ==Italian==
 
 ===Verb===
-{{head|it|verb form}}
+{{head|it|verb form|cat2=past participle forms}}
 
 # {{inflection of|it|sublimare||2|p|pres|indc}}
 # {{inflection of|it|sublimare||2|p|impr}}
 # {{feminine plural of|it|sublimato}}
 
-[[Category:Italian past participle forms]]
-
 ----
 
 ==Latin==
+
+===Pronunciation===
+* {{la-IPA|sublīmāte}}
 
 ===Verb===
 {{la-verb-form|sublīmāte}}
