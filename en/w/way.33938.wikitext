@@ -148,18 +148,25 @@ From {{inh|en|enm|way}}, {{m|enm|wey}}, from {{inh|en|ang|weġ|t=way; path}}, fr
 =====Translations=====
 {{trans-top|road, direction, path}}
 * Albanian: {{t+|sq|rrugë}}
+* Amharic: {{t|am|መንገድ}}
 * Arabic: {{t+|ar|طَرِيق|m}}
 * Armenian: {{t+|hy|ուղի}}, {{t+|hy|ճանապարհ}}
+* Azerbaijani: {{t+|az|yol}}
 * Bashkir: {{t|ba|юл}}
 * Basque: {{t+|eu|bide}}
+* Belarusian: {{t|be|шлях|m}}, {{t|be|даро́га|f}}, {{t|be|пуць|m}}
+* Bengali: {{t|bn|রাস্তা}}, {{t|bn|পথ}}
 * Bouyei: {{t-needed|pcc}}
 * Breton: {{t+|br|hent|m}}
+* Bulgarian: {{t+|bg|път|m}}
+* Burmese: {{t+|my|လမ်း}}
 * Catalan: {{t+|ca|via|f}}, {{t+|ca|camí|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|道|tr=dào}}
 * Czech: {{t+|cs|cesta|f}}
 * Danish: {{t+|da|vej|c}}
 * Dutch: {{t+|nl|weg}}
+* Dzongkha: {{t|dz|ལམ}}
 * Egyptian: {{t-egy|mṯn|h=m-T:n-N31}}
 * Esperanto: {{t+|eo|vojo}}
 * Estonian: {{t+|et|tee}}
@@ -174,7 +181,7 @@ From {{inh|en|enm|way}}, {{m|enm|wey}}, from {{inh|en|ang|weġ|t=way; path}}, fr
 * Guaraní: {{t+|gn|tape}}
 * Hawaiian: {{t|haw|ala}}
 * Hebrew: {{t+|he|דרך|f|tr=derekh}}
-* Hindi: {{t+|hi|रास्ता|m}} <!-- removed [[बाट]] (bāṭa) ? -->
+* Hindi: {{t+|hi|रास्ता|m}} <!-- removed [[बाट]] (bāṭa) ? -->, {{t+|hi|पथ|m}}
 * Hungarian: {{t+|hu|út}}
 * Icelandic: {{t+|is|vegur|m}}
 * Ido: {{t+|io|voyo}}
@@ -185,23 +192,32 @@ From {{inh|en|enm|way}}, {{m|enm|wey}}, from {{inh|en|ang|weġ|t=way; path}}, fr
 * Italian: {{t+|it|via|f}}
 * Japanese: {{t+|ja|道|tr=みち, michi}}
 * Kazakh: {{t+|kk|жол}}
+* Khmer: {{t+|km|ផ្លូវ}}, {{t+|km|ថ្នល់}}
 * Korean: {{t+|ko|길}}
 * Kurdish:
 *: Sorani: {{t+|ku|ڕێگە}}
+* Kyrgyz: {{t+|ky|жол}}
 * Lao: {{t|lo|ທາງ}}
 * Latin: {{t+|la|via|f}}
 * Latvian: {{t+|lv|ceļš|m}}
+* Lithuanian: {{t+|lt|kelias|m}}
 * Luxembourgish: {{t|lb|Wee|m}}
-{{trans-mid}}
 * Lü: {{t|khb|ᦑᦱᧂ}}
+* Macedonian: {{t|mk|пат|m}}
+{{trans-mid}}
 * Malay: {{t+|ms|jalan}}
 * Maori: {{t|mi|ara}}, {{t|mi|riunga}}
 * North Frisian: {{t|frr|wäi|m}} {{qualifier|Mooring}}
+* Northern Thai: {{t|nod|ᨴᩤ᩠ᨦ}}
 * Norwegian:
 *: Bokmål: {{t+|no|vei|m}}
 *: Nynorsk: {{t|nn|veg|m}}
 * Occitan: {{t+|oc|via|f}}, {{t+|oc|camin|m}}
-* Old English: {{t|ang|ƿeg|m}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|пѫть|m}}
+*: Glagolitic: {{t|cu|ⱂⱘⱅⱐ|m}}
+* Old East Slavic: {{t|orv|путь|m}}
+* Old English: {{t|ang|ƿeg|m}}, {{t|ang|weġ|m}}
 * Old Norse: {{t|non|vegr|m}}
 * Old Portuguese: {{t|roa-opt|camỹo}}
 * Old Turkic: {{t|otk|𐰖𐰆𐰞|tr=yol}}
@@ -216,26 +232,34 @@ From {{inh|en|enm|way}}, {{m|enm|wey}}, from {{inh|en|ang|weġ|t=way; path}}, fr
 * Sanskrit: {{t+|sa|मार्ग|m}}, {{t+|sa|पथ|m}}
 * Scottish Gaelic: {{t|gd|slighe|f}}
 * Serbo-Croatian:
+*: Cyrillic: {{t|sh|пу̑т|m}}
 *: Roman: {{t+|sh|pȗt|m}}
 * Shan: {{t|shn|တၢင်း}}
 * Shor: {{t|cjs|чол|tr=çol}}
+* Slovak: {{t+|sk|cesta|f}}
 * Slovene: {{t+|sl|pot}}
 * Spanish: {{t+|es|camino|m}}, {{t+|es|vía|f}}
 * Swahili: {{t+|sw|mamna}}
 * Swedish: {{t+|sv|väg|c}}
+* Tajik: {{t+|tg|роҳ}}
+* Tatar: {{t+|tt|юл}}
 * Telugu: {{t+|te|మార్గము}}, {{t+|te|దారి}}
 * Thai: {{t+|th|ทาง}}
+* Tibetan: {{t|bo|ལམ}}
+* Tigrinya: {{t+|ti|መንገዲ}}
 * Turkish: {{t+|tr|yol}}
-* Ukrainian: {{t+|uk|шлях|m}}
+* Turkmen: {{t+|tk|ýol}}
+* Ukrainian: {{t+|uk|шлях|m}}, {{t+|uk|доро́га|f}}, {{t|uk|путь|m}}
 * Urdu: {{t|ur|راستہ|m|tr=rāstā}}
 * Uyghur: {{t|ug|يول}}
+* Uzbek: {{t+|uz|yoʻl}}
 * Walloon: {{t+|wa|voye|f}}, {{t+|wa|tchimin|m}}
 * Welsh: {{t+|cy|ffordd|f}}
 * West Frisian: {{t|fy|wei|c}}
 * Yakut: {{t|sah|суол}}
 * Yiddish: {{t|yi|וועג|m}}
 * Zazaki: {{t|zza|ray|f}}, {{t|zza|vay|f}}
-* Zhuang: {{t-needed|za}}
+* Zhuang: {{t|za|dauh}}, {{t|za|loh}}
 * ǃXóõ: {{t|nmn|ʻáu}}
 {{trans-bottom}}
 
