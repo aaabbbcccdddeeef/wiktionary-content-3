@@ -48,10 +48,10 @@ Borrowed from {{bor|en|fr|taxonomie}}. Surface analysis {{confix|en|taxo|nomy}}.
 ====Translations====
 {{trans-top|science of finding, describing, classifying and naming organisms}}
 * Arabic: {{t|ar|عِلْم اَلتَّصْنِيف|m}}
-* Armenian: {{t+|hy|տաքսոնոմիա|sc=Armn}}, {{t+|hy|կարգաբանություն|sc=Armn}}, {{t+|hy|կարգաբաշխություն|sc=Armn}}
+* Armenian: {{t+|hy|տաքսոնոմիա}}, {{t+|hy|կարգաբանություն}}, {{t+|hy|կարգաբաշխություն}}
 * Catalan: {{t+|ca|taxonomia|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|分類學|sc=Hani}}, {{t+|cmn|分类学|tr=fēnlèixué|sc=Hani}}
+*: Mandarin: {{t+|cmn|分類學}}, {{t+|cmn|分类学|tr=fēnlèixué}}
 * Czech: {{t+|cs|taxonomie|f}}
 * Danish: {{t+|da|taksonomi|c}}
 * Dutch: {{t+|nl|taxonomie|f}}
@@ -59,7 +59,7 @@ Borrowed from {{bor|en|fr|taxonomie}}. Surface analysis {{confix|en|taxo|nomy}}.
 * Finnish: {{t+|fi|taksonomia}}
 * French: {{t+|fr|taxinomie|f}}, {{t+|fr|taxonomie|f}}
 * German: {{t+|de|Taxonomie|f}}
-* Greek: {{t+|el|ταξινομία|f|sc=Grek}}
+* Greek: {{t+|el|ταξινομία|f}}
 * Hebrew: {{t+|he|טַקְסוֹנוֹמְיָה|f|tr=taksonómya}}
 * Hungarian: {{t+|hu|rendszertan}}, {{t+|hu|taxonómia}}
 * Icelandic: {{t|is|flokkunarfræði|m}}
@@ -69,17 +69,18 @@ Borrowed from {{bor|en|fr|taxonomie}}. Surface analysis {{confix|en|taxo|nomy}}.
 * Korean: {{t+|ko|분류학}}
 * Macedonian: {{t|mk|таксономија|f}}
 * Malay: {{t|ms|kaji urutan}}, {{t|ms|taksonomi}}
-* Maltese: {{t|mt|tassonomija}}
+* Maltese: {{t|mt|tassonomija|?}}
 * Maori: {{t|mi|pūnaha whakarōpū}}
 * Norwegian:
 *: Bokmål: {{t+|nb|taksonomi|m}}
 *: Nynorsk: {{t|nn|taksonomi|m}}
-* Occitan: {{t|oc|taxonomia}}, {{t|oc|taxinomia|f}}
+* Occitan: {{t|oc|taxonomia|f}}, {{t|oc|taxinomia|f}}
 * Polish: {{t+|pl|taksonomia|f}}
 * Portuguese: {{t+|pt|taxonomia|f}}, {{t+|pt|taxinomia|f}}, {{t+|pt|taxionomia|f}}
 * Romanian: {{t+|ro|taxonomie|f}}
 * Russian: {{t+|ru|таксоно́мия|f}}
-* Serbo-Croatian: {{t+|sh|taksonòmija|f}}, {{t+|sh|sistemàtika|f}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|taksonòmija|f}}, {{t+|sh|sistemàtika|f}}
 * Spanish: {{t+|es|taxonomía|f}}
 * Swedish: {{t+|sv|taxonomi|c}}
 * Thai: {{t|th|อนุกรมวิธาน}}
@@ -91,24 +92,25 @@ Borrowed from {{bor|en|fr|taxonomie}}. Surface analysis {{confix|en|taxo|nomy}}.
 * Arabic: {{t|ar|تَصْنِيف|m}}
 * Catalan: {{t+|ca|taxonomia|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|分類法|sc=Hani}}, {{t+|cmn|分类法|tr=fēnlèifǎ|sc=Hani}}, {{t+|cmn|分類|sc=Hani}}, {{t+|cmn|分类|tr=fēnlèi|sc=Hani}}
+*: Mandarin: {{t+|cmn|分類法}}, {{t+|cmn|分类法|tr=fēnlèifǎ}}, {{t+|cmn|分類}}, {{t+|cmn|分类|tr=fēnlèi}}
 * Danish: {{t+|da|taksonomi|c}}, {{t|da|systematik|c}}
 * Finnish: {{t+|fi|taksonomia}}
 * French: {{t+|fr|taxinomie|f}}
-* Greek: {{t+|el|ταξινόμηση|f|sc=Grek}}
+* Greek: {{t+|el|ταξινόμηση|f}}
 * Hungarian: {{t+|hu|osztályozás}}
 * Japanese: {{t|ja|分類法|tr=ぶんふいほう, bunruihō}}, {{t+|ja|分類|tr=ぶんふい, bunrui}}
 {{trans-mid}}
 * Korean: {{t|ko|분류법}}, {{t+|ko|분류}}
 * Malay: {{t|ms|taksonomi}}
-* Maltese: {{t|mt|tassonomija}}
+* Maltese: {{t|mt|tassonomija|?}}
 * Norwegian:
 *: Bokmål: {{t+|nb|taksonomi|m}}
 *: Nynorsk: {{t|nn|taksonomi|m}}
 * Portuguese: {{t+|pt|taxonomia|f}}, {{t+|pt|taxinomia|f}}, {{t+|pt|taxionomia|f}}
 * Romanian: {{t+|ro|taxonomie|f}}, {{t|ro|ierarhică clasificare|f}}
 * Russian: {{t+|ru|система́тика|f}}, {{t+|ru|классифика́ция}}
-* Serbo-Croatian: {{t+|sh|taksonòmija|f}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|taksonòmija|f}}
 * Swedish: {{t+|sv|taxonomi|c}}, {{t+|sv|systematik|c}}
 {{trans-bottom}}
 
@@ -118,7 +120,8 @@ Borrowed from {{bor|en|fr|taxonomie}}. Surface analysis {{confix|en|taxo|nomy}}.
 * Latin: {{t+check|la|taxonomia|f}}
 * Persian: {{t+check|fa|رده بندی|tr=rade bandi}}
 {{trans-mid}}
-* Serbo-Croatian: {{t+check|sh|taksonomija|f}}
+* Serbo-Croatian:
+*: Roman: {{t+check|sh|taksonòmija|f}}
 * Slovak: {{t-check|sk|taxonómia|f}}
 * Slovene: {{t+check|sl|taksonomija|f}}
 * Turkish: {{t-check|tr|sınıflandırma bilimi}}, {{t+check|tr|taksonomi}}
