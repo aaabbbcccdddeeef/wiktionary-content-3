@@ -44,7 +44,7 @@ From {{inh|en|enm|Parys}}, {{m|enm|Paris}}, from {{der|en|fro|Paris}}, from the 
 ====Proper noun====
 {{en-proper noun}}
 
-# {{senseid|en|Q90}}{{place|en|The <<capital and most populous <<city>> of <<c/France>>}}.
+# {{senseid|en|Q90}}{{place|en|caplc|c/France}}.
 # {{place|en|department|r/Île-de-France|c/France}}.
 # {{lb|en|figuratively}} The [[government]] of France.
 # {{place|en|locale named after the French city}}.
@@ -340,7 +340,7 @@ Borrowed from {{bor|en|grc|Πάρις}}.
 ===Proper noun===
 {{head|az|proper noun}}
 
-# {{place|az|capital city|c/France|t1=Paris}}
+# {{place|az|caplc|c/France|t1=Paris}}
 
 ====Declension====
 {{az-latin-noun-decl|c|i}}
@@ -355,7 +355,7 @@ Borrowed from {{bor|en|grc|Πάρις}}.
 ===Proper noun===
 {{head|da|proper noun}}
 
-# {{place|da|capital city|c/France|t1=Paris}}
+# {{place|da|caplc|c/France|t1=Paris}}
 
 ----
 
@@ -374,7 +374,7 @@ From {{inh|fr|fro|Paris}}, from {{inh|fr|LL.|-}} name of an earlier settlement, 
 ===Proper noun===
 {{fr-proper noun|mf}} (mostly {{g|m}})
 
-# {{place|fr|capital city|c/France|t1=Paris}}
+# {{place|fr|caplc|c/France|t1=Paris}}
 #: {{ux|fr|'''Paris''' est beaucoup moins bruyant en été|Paris is much less noisy in summer}}
 #: {{ux|fr|'''Paris''' est vraiment belle la nuit|Paris is really beautiful at night}}
 # {{place|fr|department|r/Île-de-France|c/France|t=Paris}}
@@ -410,7 +410,7 @@ From {{inh|fr|fro|Paris}}, from {{inh|fr|LL.|-}} name of an earlier settlement, 
 ===Proper noun===
 {{de-proper noun|n|Paris}}
 
-# {{place|de|capital city|c/France|t1=Paris}}
+# {{place|de|caplc|c/France|t1=Paris}}
 
 ----
 
@@ -419,7 +419,7 @@ From {{inh|fr|fro|Paris}}, from {{inh|fr|LL.|-}} name of an earlier settlement, 
 ===Proper noun===
 {{la-proper noun|Paris/Parid<3.loc>|g=m}}
 
-# [[Paris]]
+# {{place|la|caplc|of modern|c/France|t1=Paris}}
 
 ====Declension====
 {{la-ndecl|Paris/Parid<3.loc>}}
@@ -441,7 +441,7 @@ From {{inh|fr|fro|Paris}}, from {{inh|fr|LL.|-}} name of an earlier settlement, 
 ===Proper noun===
 {{head|nb|proper noun}}
 
-# {{place|nb|capital city|c/France|t1=Paris}}
+# {{place|nb|caplc|c/France|t1=Paris}}
 
 ----
 
@@ -451,7 +451,7 @@ From {{inh|fr|fro|Paris}}, from {{inh|fr|LL.|-}} name of an earlier settlement, 
 ===Proper noun===
 {{head|nn|proper noun}}
 
-# {{place|nn|capital city|c/France|t1=Paris}}
+# {{place|nn|caplc|c/France|t1=Paris}}
 
 ----
 
@@ -463,7 +463,7 @@ From {{inh|fr|fro|Paris}}, from {{inh|fr|LL.|-}} name of an earlier settlement, 
 ===Proper noun===
 {{fro-proper noun|g=no}}
 
-# {{place|fro|capital city|c/France|t1=Paris}}
+# {{place|fro|caplc|of modern|c/France|t1=Paris}}
 
 ----
 
@@ -477,7 +477,7 @@ From {{inh|fr|fro|Paris}}, from {{inh|fr|LL.|-}} name of an earlier settlement, 
 ===Proper noun===
 {{pt-proper noun|f}}
 
-# {{senseid|pt|French capital}} {{place|pt|capital city|c/France|t1=Paris}}
+# {{senseid|pt|French capital}} {{place|pt|caplc|c/France|t1=Paris}}
 
 ====Quotations====
 {{seeCites|pt}}
@@ -492,7 +492,7 @@ From {{inh|fr|fro|Paris}}, from {{inh|fr|LL.|-}} name of an earlier settlement, 
 ===Proper noun===
 {{head|ro|proper noun|g=f}}
 
-# {{place|ro|capital city|c/France|t1=Paris}}
+# {{place|ro|caplc|c/France|t1=Paris}}
 
 ----
 
@@ -545,7 +545,7 @@ Borrowed from {{bor|es|grc|Πάρις|}}.
 ===Proper noun===
 {{sv-proper noun|n}}
 
-# {{place|sv|capital city|c/France|t1=Paris}}
+# {{place|sv|caplc|c/France|t1=Paris}}
 # {{lb|sv|Greek mythology}} Paris, Trojan prince
 
 ===Derived terms===
@@ -561,7 +561,7 @@ Borrowed from {{bor|es|grc|Πάρις|}}.
 ===Proper noun===
 {{tt-pos|proper noun|l}}
 
-# {{place|tt|capital city|c/France|t1=Paris}}
+# {{place|tt|caplc|c/France|t1=Paris}}
 
 ====Declension====
 {{tt-latin-noun|nıñ|ga|nı|da|dan}}
@@ -580,7 +580,7 @@ Borrowed from {{bor|es|grc|Πάρις|}}.
 ===Proper noun===
 {{tr-proper noun}}
 
-# {{place|tr|capital city|c/France|t1=Paris}}
+# {{place|tr|caplc|c/France|t1=Paris}}
 
 ====Declension====
 {{tr-prop-c2-ei}}
