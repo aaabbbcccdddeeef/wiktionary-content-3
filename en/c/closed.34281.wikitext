@@ -2,9 +2,9 @@
 {{wikipedia|dab=closed}}
 
 ===Pronunciation===
-* {{a|GenAm}} {{IPA|en|/kloʊzd/}}
 * {{a|RP}} {{IPA|en|/kləʊzd/}}
-* {{audio|en|en-us-closed.ogg|Audio (US)}}
+* {{a|GA}} {{IPA|en|/kloʊzd/}}
+* {{audio|en|En-us-closed.ogg|Audio (GA)}}
 * {{rhymes|en|əʊzd}}
 
 ===Adjective===
@@ -13,11 +13,10 @@
 # [[sealed|Sealed]], made [[inaccessible]] or [[impassable]]; not [[open]].
 # {{lb|en|of a store or business}} Not operating or conducting trade.
 # Not public.
-#: ''[[closed source]]''
-#: ''a '''closed''' committee''
+#: {{ux|en|[[closed source]]&emsp; a '''closed''' committee''}}
 # {{lb|en|topology|of a [[set]]}} Having an [[open]] [[complement]].
 # {{lb|en|mathematics|of a [[set]]}} Such that its [[image]] under the specified [[operation]] is [[contain]]ed in it.
-#: ''The set of integers is '''closed''' under addition: <math>\forall x,y\in\mathbb{Z}\,x+y\in\mathbb{Z}</math>.''
+#: {{ux|en|The set of integers is '''closed''' under addition: <math>\forall x,y\in\mathbb{Z}\,x+y\in\mathbb{Z}</math>.}}
 # {{lb|en|mathematics|logic|of a [[formula]]}} [[lack|Lacking]] a [[free]] [[variable]].
 # {{lb|en|graph theory|of a [[walk]]}} Whose first and last vertices are the same, forming a closed [[loop]].
 # {{lb|en|phonology}} Formed by closing the mouth and nose passages completely, like the [[consonant]]s /t/, /d/{{,}} and /p/.
@@ -28,6 +27,9 @@
 
 ====Antonyms====
 * {{sense|also phonetics (of vowels, syllables)}} {{l|en|open}}
+
+====Derived terms====
+* {{l|en|a closed mouth gathers no feet}}
 
 ====Translations====
 {{trans-top|not open}}
