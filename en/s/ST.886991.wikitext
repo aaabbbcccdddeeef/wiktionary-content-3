@@ -15,9 +15,14 @@
 ==English==
 
 ===Noun===
-{{en-noun}}
+{{en-noun|~}}
+
 # {{init of|en|[[short ton]](s)}}
 # {{init of|en|[[storyteller]]|nodot=1}}, especially in the context of running certain [[tabletop]] [[role-playing]] games.
+# {{lb|en|uncountable}} {{abbreviation of|en|steam}}
+
+====Descendants====
+* {{sense|steam}} {{desc|fr|ST|bor=1}}
 
 ===Proper noun===
 {{en-proper noun}}
@@ -33,6 +38,12 @@
 
 # Someone who acts as a [[game master]] ([[GM]]) in a [[tabletop]] [[role-playing]] game, especially any of the games produced by [[w:White Wolf|White Wolf]].
 
+===Translations===
+{{trans-top|steam}}
+* French: {{t|fr|ST}}
+{{trans-mid}}
+{{trans-bottom}}
+
 ===Anagrams===
 * {{anagrams|en|a=st|T's|TS|Ts|t's|ts}}
 
@@ -40,15 +51,18 @@
 
 ==French==
 
-===Adjective===
+===Etymology 1===
+Abbreviation
+
+====Adjective====
 {{head|fr|adjective}}
 
 # {{lb|fr|initialism|film}} {{init of|fr|[[sous-titrée]]||[[subtitled]]; a non-French film with French subtitles}}
 
-====Alternative forms====
+=====Alternative forms=====
 * {{l|fr|S.T.}}, {{l|fr|S. T.}}, {{l|fr|st}}, {{l|fr|s.t.}}, {{l|fr|s. t.}}
 
-====Derived terms====
+=====Derived terms=====
 {{der-top}}
 * {{l|fr|STA}}
 * {{l|fr|STF}}
@@ -63,7 +77,15 @@
 * {{l|fr|VOSTF}}
 {{der-bottom}}
 
-====See also====
+=====See also=====
 * {{l|fr|VO}}
 * {{l|fr|VA}}
 * {{l|fr|VF}}
+
+===Etymology 2===
+* {{sense|vapeur}} {{bor|fr|en|ST}}
+
+====Noun====
+{{fr-noun|f|-}}
+
+# {{m|en|ST|gloss=steam}} {{abbreviation of|fr|vapeur}}
