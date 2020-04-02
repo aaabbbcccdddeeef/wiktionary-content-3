@@ -234,9 +234,6 @@ From {{inh|en|enm|ferre}}, {{m|enm|fer}}, {{inh|en|ang|feor}}, {{m|ang|feorr}}, 
 ====Adverb====
 {{en-adv|farther|further}}
 
-# Distant in space, time or degree.
-#: {{ux|en|My house is quite '''far''' from the beach.&emsp; {{nowrap|The plan is good, but it is '''far''' from being flawless.}}}}
-#* {{RQ:Jefferies Amateur Poacher|chapter=1|passage=It was not '''far''' from the house; but the ground sank into a depression there, and the ridge of it behind shut out everything except just the roof of the tallest hayrick. As one sat on the sward behind the elm, with the back turned on the rick and nothing in front but the tall elms and the oaks in the other hedge, it was quite easy to fancy it the verge of the prairie with the backwoods close by.}}
 # To or from a great distance, time, or degree.
 #: {{ux|en|You have all come '''far''' and you will go '''farther'''.}}
 # {{lb|en|with a comparative}} Very much.
@@ -249,7 +246,23 @@ From {{inh|en|enm|ferre}}, {{m|enm|fer}}, {{inh|en|ang|feor}}, {{m|ang|feorr}}, 
 #*: He was '''far''' from ill looking, though he thought himself still farther.
 
 =====Translations=====
-{{trans-top|distant in space, time, or degree}}
+{{trans-top|to or from a great distance, time, or degree}}
+* Catalan: {{t+|ca|enllà}}, {{t+|ca|ençà}}
+* Chinese:
+*: Mandarin: {{t+|cmn|遠|alt=遠的|sc=Hani}}, {{t+|cmn|远|alt=远的|tr=yuǎn de|sc=Hani}}, {{t+|cmn|遠離|alt=遠離的|sc=Hani}}, {{t+|cmn|远离|alt=远离的|tr=yuǎnlí de|sc=Hani}}, {{t+|cmn|更遠|alt=更遠的|sc=Hani}}, {{t+|cmn|更远|alt=更远的|tr=gèngyuǎn de|sc=Hani}}
+* Finnish: {{t+|fi|kauas}} {{q|to}}, {{t+|fi|kaukaa}} {{q|from}}, {{t+|fi|etäälle}}, {{t+|fi|etäältä}}
+* French: {{t+|fr|loin}}
+{{trans-mid}}
+* Latin: {{t+|la|longē}}
+* Norwegian: {{t+|no|langt}}
+* Russian: {{t+|ru|далеко́}}
+* Swedish: {{t+|sv|långt}}
+{{trans-bottom}}
+
+{{trans-see|context: with a comparative|very much}}
+
+<!-- "distant in space, time, or degree" is not the definition of an adverb; unclear which of these translations are supposed to be adverbs and which adjectives -->
+{{checktrans-top|distant in space, time, or degree}}
 * Arabic: {{t+|ar|بَعِيداً}}
 *: Egyptian Arabic: {{t|arz|بعيد|tr=beʿīd|sc=Arab}}
 * Armenian: {{t+|hy|հեռու}}
@@ -299,21 +312,6 @@ From {{inh|en|enm|ferre}}, {{m|enm|fer}}, {{inh|en|ang|feor}}, {{m|ang|feorr}}, 
 * Vietnamese: {{t+|vi|xa}}
 * Walloon: {{t+|wa|lon}}
 {{trans-bottom}}
-
-{{trans-top|to or from a great distance, time, or degree}}
-* Catalan: {{t+|ca|enllà}}, {{t+|ca|ençà}}
-* Chinese:
-*: Mandarin: {{t+|cmn|遠|alt=遠的|sc=Hani}}, {{t+|cmn|远|alt=远的|tr=yuǎn de|sc=Hani}}, {{t+|cmn|遠離|alt=遠離的|sc=Hani}}, {{t+|cmn|远离|alt=远离的|tr=yuǎnlí de|sc=Hani}}, {{t+|cmn|更遠|alt=更遠的|sc=Hani}}, {{t+|cmn|更远|alt=更远的|tr=gèngyuǎn de|sc=Hani}}
-* Finnish: {{t+|fi|kauas}} {{q|to}}, {{t+|fi|kaukaa}} {{q|from}}, {{t+|fi|etäälle}}, {{t+|fi|etäältä}}
-* French: {{t+|fr|loin}}
-{{trans-mid}}
-* Latin: {{t+|la|longē}}
-* Norwegian: {{t+|no|langt}}
-* Russian: {{t+|ru|далеко́}}
-* Swedish: {{t+|sv|långt}}
-{{trans-bottom}}
-
-{{trans-see|context: with a comparative|very much}}
 
 ===Etymology 2===
 From {{bor|en|la|far}}. Doublet of {{m|en|farro}}.
