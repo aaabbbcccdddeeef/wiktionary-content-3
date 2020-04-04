@@ -25,6 +25,8 @@ From {{inh|en|enm|nere}}, {{m|enm|ner|}}, from {{inh|en|ang|nēar|t=nearer|pos=c
 #*: He served great Hector, and was ever '''near''', / Not with his trumpet only, but his spear.
 #: {{syn|en|close}}
 #: {{ant|en|remote}}
+# Close in time.
+#: {{ux|en|The end is '''near'''.}}
 # Closely connected or related.
 #: ''The deceased man had no '''near''' relatives.''
 #* {{rfdate|en}} Bible, Leviticus xviii. 12
@@ -35,8 +37,6 @@ From {{inh|en|enm|nere}}, {{m|enm|ner|}}, from {{inh|en|ang|nēar|t=nearer|pos=c
 #: {{ux|en|a version '''near''' to the original}}
 # So as barely to avoid or pass injury or loss; close; narrow.
 #: {{ux|en|a '''near''' escape}}
-# {{lb|en|of an event}} Approaching.
-#: {{ux|en|The end is '''near'''.}}
 # [[approximate|Approximate]], [[almost]].
 #: {{ux|en|The two words are '''near''' synonyms.}}
 # {{lb|en|British|in relation to a vehicle}} On the side nearest to the kerb (the left-hand side if one drives on the left).
@@ -180,7 +180,15 @@ From {{inh|en|enm|nere}}, {{m|enm|ner|}}, from {{inh|en|ang|nēar|t=nearer|pos=c
 * Zhuang: {{t|za|gaenh}}, {{t|za|gyawj}}
 {{trans-bottom}}
 
-{{trans-top|of an event, approaching}}
+{{trans-top|almost}}
+* Cebuano: {{t|ceb|padulong}}
+* Finnish: {{t+|fi|melkein}} {{qualifier|adverb}}
+{{trans-mid}}
+* Spanish: {{t+|es|casi}}
+{{trans-bottom}}
+
+<!-- "near" doesn't mean "approaching"; translations need to be checked to see if they fit the meaning "close in time" -->
+{{checktrans-top|of an event, approaching}}
 * Bikol Central: {{t+|bcl|madali}}
 * Finnish: {{t+|fi|lähestyvä}}
 * French: {{t+|fr|proche}}
@@ -193,13 +201,6 @@ From {{inh|en|enm|nere}}, {{m|enm|ner|}}, from {{inh|en|ang|nēar|t=nearer|pos=c
 * Latin: {{t+|la|prope}}
 * Portuguese: {{t+|pt|próximo}}, {{t+|pt|prestes}}
 * Spanish: {{t+|es|próximo}}
-{{trans-bottom}}
-
-{{trans-top|almost}}
-* Cebuano: {{t|ceb|padulong}}
-* Finnish: {{t+|fi|melkein}} {{qualifier|adverb}}
-{{trans-mid}}
-* Spanish: {{t+|es|casi}}
 {{trans-bottom}}
 
 ===Adverb===
