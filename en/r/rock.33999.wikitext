@@ -1029,6 +1029,7 @@ From {{der|en|enm|rok}}, {{m|enm|rocke}}, {{m|enm|rokke}}, perhaps from {{der|en
 [[Category:English basic words]]
 [[Category:English ergative verbs]]
 [[Category:English terms with multiple etymologies]]
+{{topics|en|Musical genres}}
 
 ----
 
@@ -1262,15 +1263,19 @@ From {{bor|es|en|rock}}.
 ==Swedish==
 
 ===Pronunciation===
+* {{IPA|sv|/¹rɔk/|[¹rɔkː]}}
 * {{audio|sv|Sv-rock.ogg|audio}}
+* {{rhymes|sv|ɔk}}
 
-===Noun===
+===Etymology 1===
+From {{inh|sv|gmq-osw|rokker}}, from {{der|sv|gml|rock}}, from {{der|sv|gem-pro|*rukkaz}}.
+
+====Noun====
 {{sv-noun|c}}
 
 # a [[coat]], an [[overcoat]]
-# {{lb|sv|music|uncountable}} [[rock#Etymology 3|rock]], [[rock and roll]]
 
-====Declension====
+=====Declension=====
 {{sv-infl-noun-c-ar}}
 
 ====Synonyms====
@@ -1280,11 +1285,28 @@ From {{bor|es|en|rock}}.
 * {{l|sv|ulster}}
 
 ====Related terms====
-* {{l|sv|rockband}}
-* {{l|sv|rockmusik}}
 * {{l|sv|rockslag}}
 * {{l|sv|söndagsrock}}
 * {{l|sv|vinterrock}}
 * {{l|sv|ytterrock}}
+
+===Etymology 2===
+Borrowed from {{bor|sv|en|rock}}.
+
+====Noun====
+{{sv-noun|c|2=-}}
+
+# {{lb|sv|music|uncountable}} [[rock#Etymology 3|rock]], [[rock and roll]]
+
+=====Declension=====
+{{sv-noun-unc-irreg-c|2=rocken}}
+
+====Related terms====
+* {{l|sv|rockband}}
+* {{l|sv|rockmusik}}
+
+===References===
+*{{R:svenska.se|SO|rock}}
+*{{R:runeberg.org|svetym|0738.html rock}}
 
 {{topics|sv|Musical genres}}
