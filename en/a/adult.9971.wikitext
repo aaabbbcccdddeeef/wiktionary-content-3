@@ -29,14 +29,14 @@ From {{etyl|fr|en}} {{m|fr|adulte}}, {{etyl|la|en}} {{m|la|adultus||grown up}}, 
 * Arabic: {{t|ar|بَالِغ|m}}, {{t|ar|رَاشِد|m}}
 * Armenian: {{t+|hy|մեծահասակ}}, {{t+|hy|չափահաս}}
 * Asturian: {{t|ast|adultu|m}}, {{t|ast|adulta|f}}
-* Belarusian: {{t|be|даро́слы|m|sc=Cyrl}}, {{t|be|даро́слая|f}}
-* Bulgarian: {{t+|bg|възрастен|m}}
+* Belarusian: {{t|be|даро́слы|m}}, {{t|be|даро́слая|f}}
+* Bulgarian: {{t+|bg|въ́зрастен|m}}
 * Burmese: {{t+|my|လူကြီး}}
 * Catalan: {{t+|ca|adult|m}}, {{t+|ca|adulta|f}}
 * Chichewa: {{t|ny|mkulu}}
 * Chinese:
 *: Cantonese: {{t|yue|大人|tr=daai6 jan4}}
-*: Mandarin: {{t+|cmn|成人|tr=chéngrén|sc=Hani}}, {{t+|cmn|大人|tr=dàrén|sc=Hani}}, {{t+|cmn|成年|tr=chéngnián|sc=Hani}}
+*: Mandarin: {{t+|cmn|成人|tr=chéngrén}}, {{t+|cmn|大人|tr=dàrén}}, {{t+|cmn|成年|tr=chéngnián}}
 * Czech: {{t+|cs|dospělý|m}} {{q|cf. {{t+|cs|dospělák|m}}}}, {{t|cs|dospělá|f}}
 * Danish: {{t+|da|voksen|c}}
 * Dutch: {{t+|nl|volwassene|m|f}}
@@ -79,8 +79,8 @@ From {{etyl|fr|en}} {{m|fr|adulte}}, {{etyl|la|en}} {{m|la|adultus||grown up}}, 
 * Russian: {{t+|ru|взро́слый|m}}, {{t+|ru|взро́слая|f}}
 * Sanskrit: {{t+|sa|प्रौढ|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|одрастао}}, {{t|sh|пунолетан}}, {{t|sh|пунољетство}}
-*: Roman: {{t+|sh|odrastao}}, {{t+|sh|punoletan}}, {{t+|sh|punoljetstvo}}
+*: Cyrillic: {{t|sh|о̀дра̄стао}}, {{t|sh|пу̏нолетан}}, {{t|sh|пу̏нољетан}}
+*: Roman: {{t+|sh|òdrāstao}}, {{t+|sh|pȕnoleta}}, {{t+|sh|pȕnoljetan}}
 * Sinhalese: {{t|si|වැඩිහිටියා|sc=Sinh}}
 * Slovak: {{t+|sk|dospelý|m}}, {{t|sk|dospelá|f}}
 * Slovene: {{t|sl|odrasel|m}}, {{t|sl|odrasla|f}}
@@ -90,7 +90,7 @@ From {{etyl|fr|en}} {{m|fr|adulte}}, {{etyl|la|en}} {{m|la|adultus||grown up}}, 
 * Tagalog: {{t|tl|maygulang}}, {{t|tl|nasagulang}}, {{t|tl|adulto}}
 * Thai: {{t+|th|ผู้ใหญ่}}
 * Turkish: {{t+|tr|yetişkin}}
-* Ukrainian: {{t|uk|доро́слий|m|sc=Cyrl}}, {{t|uk|доро́сла|f}}
+* Ukrainian: {{t|uk|доро́слий|m}}, {{t|uk|доро́сла|f}}
 * Vietnamese: {{t+|vi|người lớn}}
 * Volapük: {{t+|vo|daülan}}, {{t|vo|hidaülan}} {{q|male}}, {{t|vo|jidaülan}} {{q|female}}
 * Welsh: {{t+|cy|oedolyn|m}}
@@ -126,12 +126,12 @@ From {{etyl|fr|en}} {{m|fr|adulte}}, {{etyl|la|en}} {{m|la|adultus||grown up}}, 
 {{trans-top|fully grown}}
 * Armenian: {{t+|hy|հասուն}}
 * Asturian: {{t|ast|adultu}}
-* Belarusian: {{t|be|даро́слы|sc=Cyrl}}
-* Bulgarian: {{t+|bg|възрастен}}, {{t+|bg|пълнолетен}}
+* Belarusian: {{t|be|даро́слы}}
+* Bulgarian: {{t+|bg|въ́зрастен}}, {{t+|bg|пълноле́тен}}
 * Catalan: {{t+|ca|adult}}
 * Central Sierra Miwok: {{t|csm|ˀypé·la-}}
 * Chinese:
-*: Mandarin: {{t+|cmn|成人|tr=chéngrén|sc=Hani}}
+*: Mandarin: {{t+|cmn|成人|tr=chéngrén}}
 * Czech: {{t+|cs|dospělý}}
 * Dutch: {{t+|nl|volwassen}}
 * Esperanto: {{t|eo|plenkreska}}, {{t|eo|adolta}}
@@ -173,11 +173,12 @@ From {{etyl|fr|en}} {{m|fr|adulte}}, {{etyl|la|en}} {{m|la|adultus||grown up}}, 
 * Interlingue: {{t|ie|adult}}
 * Irish: {{t|ga|aosach|m}}, {{t|ga|d'aosaigh}}
 * Italian: {{t|it|per adulti}}
-* Korean: {{t|ko|성인의}}
+* Korean: {{t+|ko|성인|alt=성인의}}
 {{trans-mid}}
 * Polish: {{t|pl|dla dorosłych}}
-* Russian: {{t|ru|для взро́слых}}
-* Serbo-Croatian: {{t|sh|za odrasle}}
+* Russian: {{t|ru|[[для]] [[взрослый|взро́слых]]}}
+* Serbo-Croatian:
+*: Roman: {{t|sh|za odrasle}}
 * Swedish: {{t|sv|vuxen-}}
 * Turkish: {{t+|tr|yetişkin}}
 * Welsh: {{t|cy|(i) oedolion}}
