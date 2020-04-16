@@ -1,12 +1,11 @@
 ==English==
-{{wikipedia|dab=Essential}}
 
 ===Alternative forms===
 * {{alter|en|essentiall||obsolete}}
 
 ===Etymology===
 {{PIE root|en|h₁es}}
-From {{etyl|LL.|en}} {{m|la|essentialis}}, from {{etyl|la|en}} {{m|la|essentia||being, essence}}.
+From {{bor|en|LL.|essentiālis}}, from {{der|en|la|essentia||being, essence}}.
 
 ===Pronunciation===
 * {{IPA|en|/ɪˈsɛn.ʃəl/|[əˈsɛn.tʃəl]}}
@@ -17,30 +16,28 @@ From {{etyl|LL.|en}} {{m|la|essentialis}}, from {{etyl|la|en}} {{m|la|essentia||
 {{en-adj}}
 
 # [[necessary|Necessary]].
+#: {{syn|en|indispensable|Thesaurus:requisite}}
+#: {{ant|en|accidental|accessorial|incidental|unnecessary|unneeded}}
 # Very [[important]]; of high [[importance]].
+#: {{syn|en|crucial|Thesaurus:important}}
+#: {{ant|en|unimportant|Thesaurus:insignificant}}
 #* {{quote-journal|en|date=2013-05-17|author=George Monbiot| authorlink=George Monbiot| title=Money just makes the rich suffer| volume=188| issue=23| page=19| magazine={{w|The Guardian Weekly}}| url=http://www.guardian.co.uk/commentisfree/2013/may/06/politics-envy-keenest-rich| passage=In order to grant the rich these pleasures, the social contract is reconfigured. The welfare state is dismantled. '''Essential''' public services are cut so that the rich may pay less tax.&nbsp;[&hellip;]}}
 # {{lb|en|biology}} {{l|en|necessary}} for survival but not {{l|en|synthesize|synthesized}} by the organism, thus needing to be ingested
 # Being in the [[basic]] form; showing its [[essence]].
-#: ''Don’t mind him being grumpy. That’s the '''essential''' Fred.''
-# Really existing; existent.
+#: {{syn|en|Thesaurus:intrinsic|Thesaurus:bare-bones}}
+#: {{ant|en|adscititious|Thesaurus:extrinsic}}
+#: {{ux|en|Don’t mind him being grumpy. That’s the '''essential''' Fred.}}
+# Really existing; [[existent]].
+#: {{syn|en|Thesaurus:existent}}
+#: {{ant|en|Thesaurus:inexistent}}
 #* {{rfdatek|en|Webster}}
 #*: Is it true, that thou art but a name, / And no '''essential''' thing?
 # {{lb|en|of a [[lamination]] of a 3-[[manifold]]}} Such that each [[complementary region]] is [[irreducible]], the [[boundary]] of each complementary region is [[incompressible]] by [[disk]]s and [[monogon]]s in the complementary region, and no [[leaf]] is a [[sphere]] or a [[torus]] [[bound]]ing a [[solid torus]] in the [[manifold]].
 #: {{rfex|en|difference between 1 and 2}}
 # {{lb|en|medicine}} [[idiopathic|Idiopathic]].
 
-====Synonyms====
-* {{sense|necessary}} {{l|en|indispensable}}; See also [[Thesaurus:requisite]]
-* {{sense|of high importance}} {{l|en|crucial}}; See also [[Thesaurus:important]]
-* {{sense|in the basic form}} See also [[Thesaurus:intrinsic]] or [[Thesaurus:bare-bones]]
-* {{sense|really existing}} {{l|en|existent}}; See also [[Thesaurus:existent]]
-
 ====Antonyms====
-* {{sense|necessary}} {{l|en|accidental}}, {{l|en|accessorial}}, {{l|en|incidental}}, {{l|en|unnecessary}}, {{l|en|unneeded}}
-* {{sense|of high importance}} {{l|en|unimportant}}; See also [[Thesaurus:insignificant]]
-* {{sense|in the basic form}} {{l|en|adscititious}}; See also [[Thesaurus:extrinsic]]
-* {{sense|really existing}} See also [[Thesaurus:inexistent]]
-* {{sense|all senses}} {{l|en|inessential}}, {{l|en|unessential}}, {{l|en|nonessential}}
+* {{l|en|inessential}}, {{l|en|unessential}}, {{l|en|nonessential}}
 
 ====Derived terms====
 {{rel-top|terms derived from ''essential'' (adjective)}}
@@ -157,7 +154,7 @@ From {{etyl|LL.|en}} {{m|la|essentialis}}, from {{etyl|la|en}} {{m|la|essentia||
 
 # A [[necessary]] [[ingredient]].
 # A [[fundamental]] ingredient.
-{{rfex|en}}
+#: {{rfex|en}}
 
 ====Related terms====
 * {{l|en|essence}}
@@ -183,6 +180,9 @@ From {{etyl|LL.|en}} {{m|la|essentialis}}, from {{etyl|la|en}} {{m|la|essentia||
 * Greek: {{t+|el|ουσιαστικός|m}}, {{t+|el|ουσιώδης|m}}, {{t+|el|στοιχειώδης|m}}
 * Slovak: {{t|sk|esencia}}
 {{trans-bottom}}
+
+===Further reading===
+* {{pedia}}
 
 ===Anagrams===
 * {{anagrams|en|a=aeeilnsst|siletanes}}
