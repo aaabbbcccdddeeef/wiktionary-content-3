@@ -77,7 +77,7 @@
 ###* [https://www.w3schools.com/php/php_form_required.asp PHP 5 Forms Required Fields] at [[w:W3Schools|W3Schools]]
 ###*: From the validation rules table on the previous page, we see that the "Name", "E-mail", and "Gender" '''fields''' are required. These '''fields''' cannot be empty and must be filled out in the HTML form.
 ### A component of a database in which a single unit of information is stored.
-#### {{senseid|en|computing: area of memory or storage reserved for a particular value}}{{lb|en|computing}} An area of [[memory]] or [[storage]] reserved for a particular value, subject to virtual access controls.
+#### {{senseid|en|computing: area of memory or storage reserved for a particular value}}{{lb|en|computing|object-oriented programming}} An area of [[memory]] or [[storage]] reserved for a particular value, subject to virtual access controls.
 ## {{lb|en|electronics|film|animation}} Part (usually one half) of a [[frame]] in an [[interlace]]d signal
 
 ====Synonyms====
@@ -592,7 +592,7 @@
 *: Mandarin: {{t+|cmn|字段}}, {{t|cmn|信息组}}
 * Czech: {{t+|cs|pole|n}}
 * Estonian: {{t|et|lahter}}
-* Finnish: {{t+|fi|alue}}
+* Finnish: {{t+|fi|alue}} {{q|general}}, {{t+|fi|kenttä}} {{q|object-oriented programming}}
 * German: {{t+|de|Feld|n}}
 * Greek: {{t+|el|πεδίο|n}}
 * Italian: {{t+|it|campo|m}}
