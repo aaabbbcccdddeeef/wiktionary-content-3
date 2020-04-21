@@ -5,7 +5,7 @@
 From {{prefix|en|semi|conductor}}
 
 ===Noun===
-B
+{{en-noun}}
 
 # {{lb|en|physics}} A substance with [[electrical]] properties intermediate between a good [[conductor]] and a good [[insulator]].
 #* {{quote-book|en|title=Natural Philosophy for General Readers and Young Persons|page=422|author=Adolphe Ganot|year=1876|passage=In this sense we are to understand the following table in which bodies are classed as ''conductors'', '''''semiconductors''''', and ''nonconductors''; those bodies being conveniently designated as conductors which, when applied to an electroscope charged with either kind of electricity discharge it almost instantaneously; '''semiconductors''' being those which discharge it in a short but measurable time, a few seconds, for instance; while nonconductors effect no discharge even, in the course of a minute.}}
@@ -20,8 +20,47 @@ B
 {{rel3|en|semiconductance|semiconducting|semiconduction|semiconductive|semiconductivity}}
 
 ====Translations====
+{{trans-top|substance with electrical properties between conductor and insulator}}
+* Arabic: {{t|ar|شَبَه مُوَصِّل|m}}
+* Armenian: {{t+|hy|կիսահաղորդիչ}}
+* Basque: {{t|eu|erdieroale}}
+* Catalan: {{t|ca|semiconductor|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|半導體|sc=Hani}}, {{t+|cmn|半导体|tr=bàndǎotǐ|sc=Hani}}
+* Czech: {{t+|cs|polovodič|m}}
+* Danish: {{t+|da|halvleder|c}}
+* Dutch: {{t+|nl|halfgeleider|m}}
+* Esperanto: {{t|eo|duonkonduktaĵo}}, {{t|eo|semikonduktaĵo}}, {{t|eo|duonkonduktanto}}
+* Estonian: {{t+|et|pooljuht}}
+* Finnish: {{t+|fi|puolijohde}}
+* French: {{t+|fr|semiconducteur|m}}
+* German: {{t+|de|Halbleiter|m}}
+* Icelandic: {{t|is|hálfleiðari|m}}
+* Irish: {{t|ga|leathsheoltóir|m}}
+* Italian: {{t+|it|semiconduttore|m}}
+* Japanese: {{t+|ja|半導体|tr=はんどうたい, handōtai}}
+{{trans-mid}}
+* Khmer: {{t|km|អង្គធាតុកន្លះចម្លង|tr=ang theat kan las chom long|sc=Khmr}}, {{t|km|សឺមីកុងឌុចទ័រ|tr=ser mi kong duch ter|sc=Khmr}}
+* Korean: {{t+|ko|반도체}}
+* Latvian: {{t|lv|pusvadītājs|m}}
+* Lithuanian: {{t|lt|puslaidininkis|m}}
+* Norwegian:
+*: Bokmål: {{t|nb|halvleder|m}}
+* Polish: {{t+|pl|półprzewodnik|m}}
+* Portuguese: {{t+|pt|semicondutor|m}}
+* Romanian: {{t+|ro|semiconductor|n}}
+* Russian: {{t+|ru|полупроводни́к|m}}
+* Scottish Gaelic: {{t|gd|fo-ghiùlanair|m}}
+* Serbo-Croatian: {{t+|sh|poluvòdīč|m}}
+* Spanish: {{t+|es|semiconductor|m}}
+* Swedish: {{t+|sv|halvledare|c}}
+* Tagalog: {{t|tl|malasaluyan}}
+* Turkish: {{t+|tr|yarı iletken}}
+* Vietnamese: {{t|vi|chất bán dẫn}}
+{{trans-bottom}}
+
 ====See also====
-* {{l||germanium|||pos=|tr=|sc=|lit=|g=}}
+* {{l|en|germanium}}
 * {{l|en|silicium}}
 * {{l|en|silicon}}
 
