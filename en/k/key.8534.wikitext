@@ -262,8 +262,8 @@ From {{inh|en|enm|keye}}, {{m|enm|kaye}}, {{m|enm|keiȝe}}, from {{inh|en|ang|c�
 * Ossetian: {{t|os|дӕгъӕл|sc=Cyrl}}
 * Ottoman Turkish: {{t|ota|مفتاح|tr=miftah|sc=ota-Arab}}, {{t|ota|مفاتیح|p|tr=mefâtih|sc=ota-Arab}}, {{t|ota|آناختار|tr=ānāḫtār|sc=ota-Arab}}
 * Pali: {{t|pi|kuñcikā}}
-* Pashto: {{t|ps|کونجي|f|tr=kwәnǰí}}, {{t|ps|کلۍ|f|tr=kǝlǝ́y}}, {{t+|ps|چابي|f|tr=čābí}}
-* Persian: {{t+|fa|کلید|tr=kelid|sc=fa-Arab}}, {{t|fa|سوئیچ|tr=suič}} (''car key''), {{t|fa|کیلید|tr=kilid|sc=fa-Arab}} {{qualifier|colloquial}}
+* Pashto: {{t|ps|کونجي|f|tr=kwənǰí}}, {{t|ps|کلۍ|f|tr=kələ́y}}, {{t+|ps|چابي|f|tr=čābí}}
+* Persian: {{t+|fa|کلید|tr=kelid|sc=fa-Arab}}, {{t|fa|سوئیچ|tr=suič}} {{q|car key}}, {{t|fa|کیلید|tr=kilid|sc=fa-Arab}} {{qualifier|colloquial}}
 * Polish: {{t+|pl|klucz|m}}
 * Portuguese: {{t+|pt|chave|f}}
 * Punjabi: {{t|pa|ਕੁੰਜੀ}}
@@ -300,7 +300,7 @@ From {{inh|en|enm|keye}}, {{m|enm|kaye}}, {{m|enm|keiȝe}}, from {{inh|en|ang|c�
 * Tagalog: {{qualifier|literally}} {{t+|tl|susi|n}}
 * Tajik: {{t+|tg|калид|sc=Cyrl}}
 * Tamil: {{t+|ta|சாலி}}, {{t+|ta|சாவி}}
-* Tashelhit: {{t|shi|ⵜⴰⵙⴰⵔⵓⵜ|f|tr=tæsærut}}
+* Tashelhit: {{t|shi|ⵜⴰⵙⴰⵔⵓⵜ|f}}
 * Tatar: {{t+|tt|ачкыч|sc=Cyrl}}
 * Telugu: {{t|te|తాళంచెవి}}, {{t|te|బీగంచెవి}}
 * Thai: {{t+|th|กุญแจ}}
@@ -711,14 +711,14 @@ From {{inh|en|enm|keye}}, {{m|enm|kaye}}, {{m|enm|keiȝe}}, from {{inh|en|ang|c�
 * Catalan: {{t+|ca|clau}}
 * Czech: {{t+|cs|klíčový|m}}
 * Estonian: {{t|et|võtme-}}, {{t|et|otsustav}}, {{t|et|peamine}}
-* Finnish: {{t|fi|[[avain]]-}}
+* Finnish: {{t|fi|avain|alt=avain-}}
 * French: {{t+|fr|clé|f}}
 * Georgian: {{t|ka| მნიშვნელოვანი }}, {{t|ka|ძირითადი}}, {{t|ka|მთავარი}}
 * Hungarian: {{t+|hu|kulcs|alt=kulcs-}}, {{t|hu|kulcsfontosságú}}
 * Icelandic: {{t+|is|lykill|alt=lykil-}}
 * Irish: {{t+|ga|eochair|alt=eochair-}}, {{t|ga|príomh-}}
 * Italian: {{t+|it|chiave}}, {{t+|it|essenziale}}, {{t+|it|indispensabile}}
-* Japanese: {{t+|ja|キー|tr=kii}}
+* Japanese: {{t+|ja|キー|tr=kī}}
 {{trans-mid}}
 * Macedonian: {{t|mk|клучен|sc=Cyrl}}, {{t|mk|суштински|sc=Cyrl}}
 * Persian: {{t+|fa|کلیدی|tr=kelidi}}
@@ -742,7 +742,7 @@ From {{inh|en|enm|keye}}, {{m|enm|kaye}}, {{m|enm|keiȝe}}, from {{inh|en|ang|c�
 * Hungarian: {{t+|hu|fontos}}, {{t+|hu|lényeges}}
 * Irish: {{t+|ga|eochair|alt=eochair-}}
 * Italian: {{t+|it|chiave}}
-* Japanese: {{t+|ja|キー|tr=kii}}
+* Japanese: {{t+|ja|キー|tr=kī}}
 {{trans-mid}}
 * Macedonian: {{t|mk|суштински|sc=Cyrl}}
 * Maori: {{t+|mi|tino}}
@@ -802,7 +802,7 @@ From {{inh|en|enm|keye}}, {{m|enm|kaye}}, {{m|enm|keiȝe}}, from {{inh|en|ang|c�
 * Finnish: {{t|fi|[[varustaa]] [[avain|avaimella]]}}
 * Hungarian: {{t+|hu|bezár}}, {{t|hu|[[kulcs|kulccsal]] [[bezár]]}}
 {{trans-mid}}
-* Persian: {{t|fa|قفل کردن|tr=ghofl kardan}}
+* Persian: {{t|fa|قفل کردن|tr=qofl kardan}}
 * Swahili: {{t+|sw|fungua}}
 {{trans-bottom}}
 
@@ -815,7 +815,7 @@ From {{inh|en|enm|keye}}, {{m|enm|kaye}}, {{m|enm|keiȝe}}, from {{inh|en|ang|c�
 {{trans-bottom}}
 
 {{trans-top|telegraphy: depress (a telegraph key)}}
-* Finnish: {{t|fi|[[painaa]] [[avain]]ta}}
+* Finnish: {{t|fi|[[painaa]] [[avain|avainta]]}}
 {{trans-mid}}
 * Swahili: {{t+|sw|fungua}}
 {{trans-bottom}}
@@ -850,7 +850,7 @@ From {{inh|en|enm|keye}}, {{m|enm|kaye}}, {{m|enm|keiȝe}}, from {{inh|en|ang|c�
 <references />
 
 ===Etymology 2===
-Variant of [[cay]], from {{der|en|es|cayo}}, from {{der|en|tnq|cayo|gloss=small island}}
+Variant of {{m|en|cay}}, from {{der|en|es|cayo}}, from {{der|en|tnq|cayo|gloss=small island}}
 
 ====Alternative forms====
 * {{l|en|cay}}
@@ -871,7 +871,7 @@ Variant of [[cay]], from {{der|en|es|cayo}}, from {{der|en|tnq|cayo|gloss=small 
 * French: {{t+|fr|caye|f}}
 * Irish: {{t|ga|cae|m}}
 {{trans-mid}}
-* Lithuanian: approxim. [[salelė]] {{g|f}}
+* Lithuanian: {{t|lt|salelė|f}}
 * Spanish: {{t+|es|cayo|m}}
 * Swedish: approx. {{t+|sv|skär|n}}
 {{trans-bottom}}
