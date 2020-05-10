@@ -16,7 +16,7 @@ Borrowed from {{bor|en|grc|γάμμα}}.
 # The third letter of the [[Greek]] [[alphabet]] ('''[[Γ]]''', '''[[γ]]'''), preceded by [[beta]] ('''[[Β]]''', '''[[β]]''') and followed by [[delta]], ('''[[Δ]]''', '''[[δ]]''').
 # {{lb|en|mathematics}} The {{w|Gamma function}}, symbolized by Γ.
 # {{lb|en|mathematics}} A [[constant]] approximately equal to 0.55721566, symbolized by γ (also known as the [[w:Euler–Mascheroni constant|Euler–Mascheroni constant]]).
-# {{lb|en|physics}} A unit of magnetic [[field]] equal to 1 [[nT]].
+# {{lb|en|physics}} A non-[[SI]] [[unit of measure]] of [[magnetic flux density]], equal to 1 [[nT]].
 # {{lb|en|industries}} slope of log-log plot of video input and luminance output.
 # {{lb|en|finance}} A [[second-order]] measure of [[derivative]] price sensitivity, expressed as the rate of change in [[delta]] with respect to changes in the [[underlying]] [[asset]] [[price]].
 # {{lb|en|computer graphics}} {{synonym of|en|gamma correction}}
@@ -28,7 +28,7 @@ Borrowed from {{bor|en|grc|γάμμα}}.
 {{der3|en|gamma-aminobutyric acid|gamma correction|gamma globulin|digamma|gamma ray|nongamma}}
 
 ====Translations====
-{{trans-top|the name of the third letter of the Greek alphabet}}
+{{trans-top|third letter of the Greek alphabet}}
 * Arabic: {{t|ar|غَامَا|f}}
 *: Egyptian Arabic: {{t|arz|جاما|f|tr=gaamaa|sc=Arab}}
 * Asturian: {{t+|ast|gama|f}}
@@ -66,25 +66,35 @@ Borrowed from {{bor|en|grc|γάμμα}}.
 * Turkish: {{t+|tr|gama}}
 {{trans-bottom}}
 
-{{trans-top|the Gamma function}}
+{{trans-top-also|math: gamma function|gamma function}}
 * Finnish: {{t|fi|gammafunktio}}
 {{trans-mid}}
 * Russian: {{t+|ru|га́мма-фу́нкция|f}}
 {{trans-bottom}}
 
-{{trans-top|the Euler–Mascheroni constant}}
+{{trans-top|math: Euler–Mascheroni constant}}
 * Finnish: {{t+|fi|gamma}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|gama|m}}
 {{trans-bottom}}
 
-{{trans-top|a unit of magnetic field}}
+{{trans-top|physics: unit of magnetic flux density}}
 * Finnish: {{t+|fi|gamma}}
 * Greek: {{t+|el|γάμμα|n}}
 {{trans-mid}}
 * Persian: {{t+|fa|گاما|tr=gâmâ|sc=fa-Arab}}
 * Portuguese: {{t+|pt|gama|m}}
 {{trans-bottom}}
+
+{{trans-top|industries: slope of log-log plot of video input and luminance output}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|finance: second-order measure of derivative price sensitivity}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|computer graphics: gamma correction|gamma correction}}
 
 {{checktrans-top}}
 * French: {{t+check|fr|gamme|f}}
