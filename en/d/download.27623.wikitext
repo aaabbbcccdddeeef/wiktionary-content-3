@@ -99,22 +99,17 @@ From {{prefix|en|down|load}}.
 ===Verb===
 {{en-verb}}
 
-# {{lb|en|transitive|computing}} To transfer (computer data, especially as one or more [[file|files]]) from a remote computer ([[server]]) to a local [[computer]], usually via a [[network]].
-#: ''You can '''download''' a trial version of the program for thirty days to determine whether you want to purchase the full version.''
-# {{lb|en|transitive|nonstandard}} to [[upload]]; to copy a file from a local computer to a remote computer via a network.
-# {{lb|en|transitive|nonstandard}} to transfer a file to or from removable media.
-#: ''I needed to '''download''' photos to a CD-ROM''
-# {{lb|en|transitive|nonstandard}} to [[install]] software.
+# {{lb|en|transitive|computing}} To transfer [[data]] from a remote computer ([[server]]) to a local [[computer]], usually via a [[network]].
+#: {{syn|en|copy|move|transfer}}
+#: {{ant|en|upload}}
+#: {{ux|en|You can '''download''' a trial version of the program for thirty days to determine whether you want to purchase the full version.}}
+# {{lb|en|transitive|nonstandard}} To [[upload]]; to copy a file from a local computer to a remote computer via a network.
+# {{lb|en|transitive|nonstandard}} To transfer a file to or from removable media.
+#: {{ux|en|I needed to '''download''' photos to a CD-ROM}}
+# {{lb|en|transitive|nonstandard}} To [[install]] software.
 
 ====Synonyms====
-* {{l|en|copy}}
-* {{l|en|move}}
-* {{l|en|take}}
-* {{l|en|transfer}}
 * {{l|en|DL}}, [[dl]], [[d/l]], [[D/L]] {{qualifier|abbreviation}}
-
-====Antonyms====
-* {{l|en|upload}}
 
 ====Derived terms====
 * {{l|en|downloader}}
