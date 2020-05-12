@@ -15,17 +15,19 @@ From {{inh|en|enm|refreshen}}, {{m|enm|refreschen}}, {{m|enm|refrisschen}}, from
 
 # {{lb|en|transitive}} To [[renew]] or [[revitalize]].
 #: ''Sleep '''refreshes''' the body and the mind.''
+# {{lb|en|intransitive}} To become fresh again; to be revitalized.
 # {{lb|en|computing|ambitransitive}} To [[reload]] (a [[document]], especially a [[webpage]]) and show any new changes.
 #* {{quote-book|en|year=2007|author=Beth Harbison|title=Shoe Addicts Anonymous|passage=She '''refreshed''' the page. She was still the high bidder. Good.}}
 # {{lb|en|computing|ambitransitive}} To cause (a [[web browser]] or similar software) to refresh its display.
 #* {{quote-book|en|year=2007|author=Philip C Plumlee|title=Test Driven Ajax (on Rails)|passage=You can save your code, '''refresh''' your browser, and see a change instantly. This simple trick turns a lowly web browser into a development environment {{...}}}}
 # To perform the [[periodic]] [[energize|energizing]] required to maintain the contents of computer [[memory]], the display [[luminance]] of a computer screen, etc. <!--Or TV screen, or portable DVD player, or... -->
-# {{lb|en|intransitive}} To become fresh again; to be revitalized.
 # {{lb|en|intransitive|colloquial|dated}} To take [[refreshment]]; to eat or drink.
 #* '''1972''', ''Vermont History'' (volume 40, page 268)
 #*: We got within two miles of there, and stopped in the woods out of sight, where we '''refreshed''' with some brandy, and gave the two boys very large portions.
 
 ====Translations====
+# {{lb|en|transitive}} To [[renew]] or [[revitalize]].
+#: ''Sleep '''refreshes''' the body and the mind.''
 {{trans-top|to renew or revitalize}}
 * Arabic: {{t|ar|جَدَّدَ}}
 * Aromanian: {{t|rup|mpruspitedz}}
@@ -57,7 +59,12 @@ From {{inh|en|enm|refreshen}}, {{m|enm|refreschen}}, {{m|enm|refrisschen}}, from
 * Swedish: {{t|sv|uppfriska}}
 {{trans-bottom}}
 
-{{trans-top|to reload a document}}
+{{trans-top|to become fresh again; to be revitalized}}
+* Finnish: {{t|fi|virkistyä}}, {{t|fi|piristyä}}, {{t|fi|elpyä}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|computing: to reload a document, web page etc.}}
 * Chinese:
 *: Mandarin: {{t+|cmn|刷新|tr=shuāxīn|sc=Hani}}
 * Dutch: {{t|nl|een webpagina herladen}}
@@ -73,14 +80,14 @@ From {{inh|en|enm|refreshen}}, {{m|enm|refreschen}}, {{m|enm|refrisschen}}, from
 
 {{trans-top|computing: to cause to refresh a display}}
 * Esperanto: {{t|eo|aktualigi}}
-* Finnish: {{t+|fi|päivittää}}, {{t|fi|[[piirtää]] [[uudelleen]]}}
+* Finnish: {{t+|fi|päivittää}}
 * Greek: {{t+|el|ανανεώνω}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|atualizar}}, {{t|pt|recarregar}}
 * Spanish: {{t+|es|refrescar}}
 {{trans-bottom}}
 
-{{trans-top|to perform periodic energizing}}
+{{trans-top|computing: to perform periodic energizing}}
 * Finnish: {{t+|fi|virkistää}}
 * Greek: {{t+|el|ανανεώνω}}
 {{trans-mid}}
