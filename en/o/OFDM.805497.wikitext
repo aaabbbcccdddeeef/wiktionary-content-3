@@ -1,21 +1,46 @@
 ==English==
-{{wikipedia|Orthogonal frequency-division multiplexing}}
 
 ===Noun===
 {{en-noun|-}}
 
 # {{lb|en|electronics}} {{initialism of|en|orthogonal frequency division multiplexing}}
 
-====Related terms====
-{{rel-top}}
+====Hypernyms====
+{{top2|orthogonal frequency division multiplexing}}
 * {{l|en|FDM|gloss=frequency division multiplexing}}
+* {{l|en|MUX|gloss=multiplexing}}
+{{bottom}}
+
+====Derived terms====
+{{der-top|orthogonal frequency division multiplexing}}
+* {{l|en|COFDM|gloss=coded orthogonal frequency division multiplexing}}
+* {{l|en|N-OFDM|gloss=non-orthogonal frequency division multiplexing}}
+* {{l|en|MIMO-OFDM|gloss=multiple-input&ndash;multiple-output&mdash;orthogonal frequency division multiplexing}}
+* {{l|en|FLASH-OFDM|gloss=Fast Low-latency Access with Seamless Hand-off &mdash; Orthogonal Frequency Division Multiplexing}}
+{{der-bottom}}
+
+====Related terms====
+{{rel-top|orthogonal frequency division multiplexing}}
 * {{l|en|TDM|gloss=time division multiplexing}}
 * {{l|en|CDM|gloss=code division multiplexing}}
 * {{l|en|OFDMA|gloss=orthogonal frequency division multiple access}}
 * {{l|en|FDMA|gloss=frequency division multiple access}}
 * {{l|en|TDMA|gloss=time division multiple access}}
 * {{l|en|CDMA|gloss=code division multiple access}}
+* {{l|en|orthogonal}}
+* {{l|en|frequency}}
+* {{l|en|division}}
+* {{l|en|multiplexing}}
 {{rel-bottom}}
+
+====Coordinate terms====
+{{top2|orthogonal frequency division multiplexing}}
+* {{l|en|spread spectrum}}
+* {{l|en|MIMO|gloss=multiple-in multiple-out}}
+{{bottom}}
+
+===See also===
+* {{pedia|lang=enOrthogonal frequency-division multiplexing}}
 
 ===Anagrams===
 * {{anagrams|en|a=dfmo|mod.F.}}
