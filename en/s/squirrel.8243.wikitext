@@ -62,7 +62,7 @@ Displaced native {{noncog|enm|acquerne}}, {{m|enm|aquerne}}, from {{noncog|ang|�
 * Central Mazahua: {{t|maz|mijñi}}
 * Central Melanau: {{t|mel|bap}}
 * Central Sierra Miwok: {{t|csm|mé·we-}}
-* Chechen: {{t|ce|тарсал|tr=tərsəl}}
+* Chechen: {{t|ce|тарсал|ts=tərsəl}}
 * Cherokee: {{t|chr|ᏌᎳᎵ}}, {{t|chr|ᏌᎶᎵ}}
 * Cheyenne: {{t|chy|no'ee'e}}
 * Chinese:
@@ -113,7 +113,7 @@ Displaced native {{noncog|enm|acquerne}}, {{m|enm|aquerne}}, from {{noncog|ang|�
 * Khmer: {{t+|km|កំប្រុក|tr=kɑmprok}}, {{t+|km|កង្ហែន}}
 * Kimaragang: {{t|kqr|bosing}}
 * Korean: {{t+|ko|다람쥐}}
-* Kumyk: {{t|kum|атъялман|tr=atyalman}}
+* Kumyk: {{t|kum|атъялман}}
 * Kurdish:
 *: Sorani: {{t|ckb|سیمۆرە}}
 *: Southern Kurdish: {{t|sdh|سنجاو}}
@@ -122,7 +122,7 @@ Displaced native {{noncog|enm|acquerne}}, {{m|enm|aquerne}}, from {{noncog|ang|�
 * Lak: {{t|lbe|бюрхттукку}}
 * Lao: {{t|lo|ກະຈ້ອນ}}, {{t+|lo|ກະຮອກ}}, {{t|lo|ກະເລັນ}}, {{t|lo|ກະແຕ}}, {{t|lo|ກະໄນ່}}, {{t|lo|ກະໄຫນ່}}, {{t|lo|ກະໄໜ່}}, {{t|lo|ຈ້ອນ}}, {{t|lo|ຕົວບ່າງ}}, {{t|lo|ຮອກ}}
 * Latgalian: {{t|ltg|vuovere|f}}
-* Latin: {{t+|la|sciurus|m}}
+* Latin: {{t+|la|sciūrus|m}}
 * Latvian: {{t+|lv|vāvere|f}}
 * Lithuanian: {{t+|lt|voverė|f}}
 * Low German:
@@ -134,10 +134,10 @@ Displaced native {{noncog|enm|acquerne}}, {{m|enm|aquerne}}, from {{noncog|ang|�
 * Malay:
 *: Jawi: {{t|ms|توڤاي}}, {{t|ms|باجيڠ}}
 *: Rumi: {{t|ms|tupai}}, {{t|ms|bajing}}
-* Maltese: {{t|mt|skwiril|m}}
+* Maltese: {{t|mt|skwiril|m}}, {{t|mt|skojjatlu|m}}
 * Manx: {{t|gv|fiorag|f}}
 * Maori: {{t|mi|kirera}}
-* Marathi: {{t|mr|खार}}
+* Marathi: {{t|mr|खार|n}}
 * Mi'kmaq: {{t|mic|atu'tuej|an}}
 * Middle English: {{t|enm|aquerne|m}}
 * Mongolian: {{t+|mn|хэрэм}}
@@ -147,10 +147,10 @@ Displaced native {{noncog|enm|acquerne}}, {{m|enm|aquerne}}, from {{noncog|ang|�
 * Navajo: {{t|nv|tseekʼi nástánii}}, {{t|nv|hazéí}}
 * Newar: {{t|new|थ्वाच्चा}}
 * Nivkh: {{t|niv|лаӄр̌}}
-* Norman: {{qualifier|Jersey}} {{t|nrf|êtchutheu|m}}, {{qualifier|continental Norman}} {{t|nrf|jaqùet|m}}
+* Norman: {{t|nrf|êtchutheu|m}} {{qualifier|Jersey}}, {{t|nrf|jaqùet|m}} {{qualifier|continental Norman}}
 * North Frisian: {{t|frr|kaateeker}} {{qualifier|Föhr}}
 * Northern Sami: {{t|se|oarri|alt=oarˈri}}
-* Northern Sotho: {{t|nso|sehlora}}
+* Northern Sotho: {{t|nso|sehlora|?}}
 * Norwegian:
 *: Bokmål: {{t+|nb|ekorn|m|n}}
 *: Nynorsk: {{t|nn|ekorn|n}}, {{t|nn|ikorn|n}}
@@ -171,21 +171,20 @@ Displaced native {{noncog|enm|acquerne}}, {{m|enm|aquerne}}, from {{noncog|ang|�
 * Quechua: {{t|qu|antharu}}
 * Romani: {{t|rom|viaveritsa|f}}
 * Romanian: {{t+|ro|veveriță|f}}
-* Romansch: {{t|rm|stgilat|m}}
 * Russian: {{t+|ru|бе́лка|f}}, {{t+|ru|ве́верица|f}} {{qualifier|obsolete}}, {{t+|ru|ве́кша|f}} {{qualifier|regional}}, {{t|ru|вевёрка|f}} {{qualifier|obsolete}}
-* Saanich: {{t|sa|ȾEPŚI¸OŦEN}} (ts'epshi'athen)
+* Saanich: {{t|sa|ȾEPŚI¸OŦEN|tr=ts'epshi'athen}}
 * Sami:
 *: Northern Sami: {{t|se|oarri}}
 * Sanskrit: {{t+|sa|वृक्षमर्कटिका|f}}, {{t+|sa|वृक्षशायिका|f}}
 * Sardinian: {{t|sc|schirrittu|m}}, {{t|sc|schirrimatta|f}}, {{t|sc|iscojàttulu|m}}
-* Scottish Gaelic: {{t|gd|feòrag}}
+* Scottish Gaelic: {{t|gd|feòrag|f}}
 * Sebop: {{t|sib|pu'an}}
 * Serbo-Croatian:
-*: Cyrillic: {{qualifier|Ekavian}} {{t|sh|ве̏верица|f}}, {{qualifier|Ijekavian}} {{t|sh|вје̏верица|f}}
-*: Roman: {{qualifier|Ekavian}} {{t+|sh|vȅverica|f}}, {{qualifier|Ijekavian}} {{t+|sh|vjȅverica|f}}
+*: Cyrillic: {{t|sh|ве̏верица|f}} {{qualifier|Ekavian}}, {{t|sh|вје̏верица|f}} {{qualifier|Ijekavian}}
+*: Roman: {{t+|sh|vȅverica|f}} {{qualifier|Ekavian}}, {{t+|sh|vjȅverica|f}} {{qualifier|Ijekavian}}
 * Shona: {{t|sn|tsindi}}
 * Shor: {{t|cjs|тииң|tr=tiiñ}}
-* Sinhalese: {{t|si|ලේනා}}
+* Sinhalese: {{t|si|ලේනා|?}}
 * Slovak: {{t+|sk|veverica|f}}
 * Slovene: {{t+|sl|veverica|f}}
 * Sorbian:
@@ -198,13 +197,13 @@ Displaced native {{noncog|enm|acquerne}}, {{m|enm|aquerne}}, from {{noncog|ang|�
 * Sranan Tongo: {{t|srn|ekosi}}
 * Sudovian: {{t|xsv|vevare|f}}
 * Sundanese: {{t+|su|bajing}}
-* Swahili: {{qualifier|nc 9/10}} {{t-check|sw|kindi}}
+* Swahili: {{t-check|sw|kindi|9/10}}
 * Swedish: {{t+|sv|ekorre|c}}
 * Tagal Murut: {{t|mvv|kaitan}}
 * Tagalog: {{t|tl|ardilya}}, {{t|tl|buot}}
 * Tamil: {{t+|ta|அணில்}}
 * Taos: {{t|twf|c’ùwala’ána}}
-* Tashelhit: {{t|shi|ⴰⵏⵥⵉⴹ|m|tr=anẓiḍ}}, {{t|shi|ⴰⴳⴱⵓⵔ|m|tr=agbur}} {{qualifier|Atlantoxerus getulus}}
+* Tashelhit: {{t|shi|ⴰⵏⵥⵉⴹ|m}}, {{t|shi|ⴰⴳⴱⵓⵔ|m}} {{qualifier|Atlantoxerus getulus}}
 * Tatar: {{t+|tt|тиен}}
 * Telugu: {{t+|te|ఉడుత}}
 * Thai: {{t+|th|กระรอก}}
@@ -224,7 +223,7 @@ Displaced native {{noncog|enm|acquerne}}, {{m|enm|aquerne}}, from {{noncog|ang|�
 * Walloon: {{t+|wa|spirou|m}}, {{t+|wa|skiron|m}}
 * Welsh: {{t+|cy|gwiwer|f}}
 * West Coast Bajau: {{t|bdr|basing}}
-* West Frisian: {{t|fy|iikhoarntsje|n}}, {{t|fy|iikhoarn}}
+* West Frisian: {{t|fy|iikhoarntsje|n}}, {{t|fy|iikhoarn|c}}
 * Wolof: {{t|wo|[[jaar]] ji}}
 * Yakut: {{t|sah|тииҥ}}
 * Yiddish: {{t|yi|וועוורקע|f}}, {{t|yi|וועווריק|m}}
