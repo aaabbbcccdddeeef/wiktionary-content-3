@@ -157,9 +157,9 @@
 {{trans-bottom}}
 
 ===Adverb===
-{{en-adv}}
+{{en-adv|-}}
 
-# {{n-g|Describes actions performed over the Internet.}}
+# While online; while in a running or active state, or connected to the Internet.
 #: ''He works '''online'''.''
 
 ====Translations====
@@ -172,6 +172,13 @@
 * Polish: {{t+|pl|online}}
 * Portuguese: {{t+|pt|online}}
 {{trans-bottom}}
+
+===Verb===
+{{en-verb|onlin}}
+
+# {{lb|en|computing|transitive}} To bring (a system, etc.) online; to promote to an active or running state.
+#* '''2013''', John Clarke, ''Oracle Exadata Recipes: A Problem-Solution Approach'' (page 219)
+#*: The output in Listing 8-2 shows your disk group status prior to '''onlining''' the disks, the commands to '''online''' your disks, and the status after '''onlining'''.
 
 ====See also====
 * {{l|en|come online}}
