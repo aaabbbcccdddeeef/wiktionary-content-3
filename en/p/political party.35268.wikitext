@@ -14,7 +14,7 @@
 * Afrikaans: {{t+|af|party}}
 * Albanian: {{t+|sq|parti|f}}
 * Arabic: {{t|ar|حِزْب|m}}, {{t|ar|حِزْب سِيَاسِيّ|m}}
-* Armenian: {{t+|hy|կուսակցություն}}
+* Armenian: {{t+|hy|կուսակցություն}}, {{t+|hy|պարտիա}} {{qualifier|dated}}
 * Asturian: {{t|ast|partíu|m}}
 * Azerbaijani: {{t+|az|partiya}}
 * Bashkir: {{t|ba|фирҡә}}
@@ -23,10 +23,15 @@
 * Biatah Bidayuh: {{t|bth|patii}}
 * Bulgarian: {{t+|bg|па́ртия|f}}
 * Burmese: {{t+|my|ပါတီ}}, {{t|my|[[နိုင်ငံရေး]][[ပါတီ]]}}
+* Buryat: {{t|bua|нам}}
 * Catalan: {{t+|ca|partit|m}}, {{t|ca|partit polític|m}}
 * Chechen: {{t|ce|парти}}
 * Chinese:
+*: Cantonese: {{t|yue|政黨}}, {{t|yue|政党|tr=zing3 dong2}}
+*: Dungan: {{t|dng|дон}}, {{t|dng|җындон}}
 *: Mandarin: {{t+|cmn|政黨}}, {{t+|cmn|政党|tr=zhèngdǎng}}, {{qualifier|suffix}} {{t+|cmn|黨|alt=-黨}}, {{t+|cmn|党|tr=-dǎng|alt=-党}}
+*: Min Nan: {{t+|nan|政黨}}, {{t+|nan|政党|tr=chèng-tóng}}
+*: Wu: {{t|wuu|政黨}}, {{t|wuu|政党|tr=tsen taan}}
 * Crimean Tatar: {{t|crh|fırqa}}, {{t|crh|siyasiy fırqa}}
 * Czech: {{t+|cs|strana|f}}, {{t+|cs|politická strana|f}}
 * Danish: {{t|da|parti|n}},  {{t|da|[[politisk]] [[parti]]|n}}
@@ -40,6 +45,7 @@
 * Georgian: {{t|ka|პარტია}}, {{t|ka|პოლიტიკური პარტია}}
 * German: {{t+|de|Partei|f}}, {{t|de|[[politische]] [[Partei]]|f}}
 * Greek: {{t+|el|κόμμα|n}}, {{t|el|πολιτικό κόμμα|n}}
+* Gujarati: {{t|gu|પાર્ટી}}
 * Haitian Creole: {{t|ht|pati}}
 * Hausa: {{t|ha|jam'iyya}}
 * Hebrew: {{t+|he|מִפְלָגָה|tr=miflagá}}
@@ -52,30 +58,35 @@
 * Irish: {{t|ga|páirtí|m}}, {{t|ga|páirtí polaitíochta|m}}
 * Italian: {{t+|it|partito|n}}
 * Japanese: {{t+|ja|政党|tr=せいとう, seitō}}, {{qualifier|suffix}} {{t+|ja|党|tr=-とう, -tō|alt=-党}}
+* Kannada: {{t+|kn|ಪಕ್ಷ}}
 * Kazakh: {{t+|kk|партия}}
 * Khmer: {{t|km|គណបក្ស}}
 * Korean: {{t+|ko|정당}} ({{t+|ko|政黨}})
 * Kurdish:
 *: Kurmanji: {{t+|kmr|partî|f}}, {{t+|ku|hizb}}
 *: Sorani: {{t|ckb|پارتی|f}}
-{{trans-mid}}
 * Kyrgyz: {{t+|ky|партия}}
+{{trans-mid}}
 * Lao: {{t|lo|ກ້ຳ}}, {{t|lo|ພວກ}}, {{t|lo|ພັກ}}, {{t|lo|ພັກ​ການ​ເມືອງ}}
 * Latvian: {{t|lv|partija|f}}, {{t|lv|politiska partija|f}}, {{t|lv|politiskā partija|f}}
 * Lithuanian: {{t+|lt|partija|f}}, {{t|lt|politinė partija|f}}
 * Lule Sami: {{t|smj|belludahka}}
 * Macedonian: {{t|mk|страна}}, {{t|mk|партија}}, {{t|mk|политичка партија|f}}
 * Malay: {{t+|ms|parti}}
+* Malayalam: {{t+|ml|പാർട്ടി}}
 * Maori: {{t|mi|rōpū tōrangapū}}
+* Marathi: {{t|mr|पार्टी}}
 * Mongolian: {{t+|mn|нам}}
 * Norman: {{t|nrf|parti|m}}
 * Northern Sami: {{t|se|bellodat}}
 * Norwegian: {{t+|no|parti|n}}
 * Occitan: {{t|oc|[[partit]] ([[politic]])}}
+* Oriya: {{t|or|ପାର୍ଟୀ}}
 * Pashto: {{t+|ps|حزب|m|tr=hezb}}, {{t|ps|ګوند|m|tr=gwand}}
 * Persian: {{t+|fa|حزب|tr=hezb}}
 * Polish: {{t+|pl|partia|f}}
 * Portuguese: {{t+|pt|partido|m}}, {{t|pt|partido político|m}}
+* Punjabi: {{t|pa|ਪਾਰਟੀ}}
 * Romanian: {{t+|ro|partid|n}}, {{t|ro|partide politice|n-p}}, {{t|ro|partid politic|n}}
 * Russian: {{t+|ru|па́ртия|f}}, {{t|ru|[[политический|полити́ческая]] [[па́ртия]]|f}}
 * Scottish Gaelic: {{t|gd|pàirtidh|m}}
@@ -91,18 +102,22 @@
 * Spanish: {{t+|es|partido|m}}, {{t|es|[[partido]] [[político]]|m}}
 * Swahili: {{t+|sw|chama}}
 * Swedish: {{t+|sv|politiskt parti|n}}, {{t+|sv|parti|n}}
-* Tagalog: {{t|tl|lapian}}
+* Tagalog: {{t|tl|lapian}}, {{t+|tl|partido}}
 * Tajik: {{t+|tg|партия}}, {{t+|tg|ҳизб}}
+* Tamil: {{t+|ta|கட்சி}}
 * Tatar: {{t+|tt|фирка}}, {{t|tt|партия}}
+* Telugu: {{t+|te|పార్టీ}}
 * Thai: {{t+|th|พรรคการเมือง}}, {{t+|th|พรรค}}, {{t+|th|คณะ}}
 * Tibetan: {{t|bo|ཚོགས་པ}}
 * Turkish: {{t+|tr|parti}}, {{t+|tr|siyasî parti}}
 * Turkmen: {{t|tk|partiýa}}
+* Tuvan: {{t|tyv|партия}}
 * Ukrainian: {{t|uk|па́ртія|f}}
 * Urdu: {{t|ur|پارٹی|f|tr=pārṭī}}, {{t|ur|حزب|tr=hizb}}
 * Uyghur: {{t|ug|پارتىيە}}
 * Uzbek: {{t+|uz|partiya}}, {{t|uz|hizb}}
 * Vietnamese: {{t|vi|chánh đảng}} ({{t|vi|政黨}}), {{t+|vi|đảng}} ({{t|vi|黨}})
+* Yakut: {{t|sah|баартыйа}}, {{t|sah|партия}}
 * Yiddish: {{t|yi|פּאַרטיי|f}}
 * Zhuang: {{t|za|dangj}}
 {{trans-bottom}}
