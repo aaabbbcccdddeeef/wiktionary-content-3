@@ -1,9 +1,10 @@
 {{also|Cobalt}}
+
 ==English==
 {{wikipedia}}
 
 ===Etymology===
-From {{etyl|de|en}} {{m|de|Kobold||goblin}}, from {{etyl|gmh|en}} (see {{m|en|Kobold}} for more).
+From {{der|en|de|Kobold||goblin}}, from {{etyl|gmh|en}} (see {{m|en|Kobold}} for more).
 
 {{elements|en|Co|iron|Fe|nickel|Ni}}
 
@@ -205,12 +206,18 @@ From {{etyl|de|en}} {{m|de|Kobold||goblin}}, from {{etyl|gmh|en}} (see {{m|en|Ko
 {{wikipedia|lang=da}}
 
 ===Alternative forms===
-* {{l|da|kobalt}}, {{l|da|kobolt}}
+* {{alter|da|kobolt||official spelling}}
+* {{alter|da|kobalt}}
 
 ===Noun===
-{{da-noun}}
+{{da-noun|en|-}}
+
+{{da-noun|et|-}}
 
 # {{l|en|cobalt}}
+
+===Further reading===
+* {{R:DDO}}
 
 ----
 
@@ -236,6 +243,9 @@ From {{etyl|de|en}} {{m|de|Kobold||goblin}}, from {{etyl|gmh|en}} (see {{m|en|Ko
 ==Occitan==
 {{wikipedia|lang=oc}}
 
+===Pronunciation===
+{{rfp|oc}}
+
 ===Noun===
 {{oc-noun|m|-}}
 
@@ -250,16 +260,19 @@ From {{etyl|de|en}} {{m|de|Kobold||goblin}}, from {{etyl|gmh|en}} (see {{m|en|Ko
 {{elements|ro|Co|fier|Fe|nichel|Ni}}
 
 ===Etymology===
-From {{etyl|fr|ro}} {{m|fr|cobalt}} or {{etyl|de|ro}} {{m|de|Kobalt}}, from {{etyl|de|ro}} {{m|de|Kobold||goblin}}, from {{etyl|gmh|ro}}.
+From {{der|ro|fr|cobalt}} or {{der|ro|de|Kobalt}}, from {{der|ro|de|Kobold||goblin}}, from {{etyl|gmh|ro}}.
 
 ===Pronunciation===
 * {{IPA|ro|/ˈkobalt/}}
-* {{hyphenation|ro|co|balt}}
+* {{hyph|ro|co|balt}}
 
 ===Noun===
 {{ro-noun|n|-}}
 
 # [[cobalt#English|cobalt]] {{gloss|chemical element}}
+
+====Declension====
+{{ro-noun-n|n=sg}}
 
 ===References===
 * {{R:DEX}}
