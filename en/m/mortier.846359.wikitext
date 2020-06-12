@@ -3,6 +3,8 @@
 ===Etymology===
 {{bor|en|fr|mortier}}
 
+{{rfi|en}}
+
 ===Noun===
 {{en-noun}}
 
@@ -18,7 +20,7 @@ Borrowed from {{inh|nl|dum|mortier}}, from {{der|nl|frm|mortier}}, from {{der|nl
 ===Pronunciation===
 * {{IPA|nl|/mɔrˈtiːr/}}
 * {{audio|nl|Nl-mortier.ogg|Audio}}
-* {{hyphenation|nl|mor|tier}}
+* {{hyph|nl|mor|tier}}
 * {{rhyme|nl|iːr}}
 
 ===Noun===
@@ -66,15 +68,24 @@ From {{inh|fr|fro}}, from {{inh|fr|la|mortārium}}.
 ===Etymology===
 Borrowed from {{bor|ro|fr|mortier}}.
 
+===Pronunciation===
+* {{IPA|ro|/mor.tiˈer/}}
+
 ===Noun===
 {{ro-noun|n|mortiere}}
 
 # [[mortar]] {{gloss|the artillery weapon}}
+
+====Declension====
+{{ro-noun-n}}
 
 ====Related terms====
 * {{l|ro|mortar}}
 
 ====See also====
 * {{l|ro|obuzier}}
+
+===Further reading===
+* {{R:DEX}}
 
 [[Category:ro:Weapons]]
