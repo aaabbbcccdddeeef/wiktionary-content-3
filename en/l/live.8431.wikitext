@@ -407,7 +407,10 @@ See [[alive]]
 # Being in existence; [[actual]]
 #: ''He is a '''live''' example of the consequences of excessive drinking.''
 # Having active properties; being energized.
-# [[operational|Operational]]; being in actual use rather than in testing.
+# [[operational|Operational]]; in actual use rather than in testing etc.
+## {{lb|en|programming}} Of an object or value: that may potentially be used in the future execution of a program.
+##* {{antonyms|en|dead}}
+##* {{quote-book|en|year=1996|author=Richard Jones|author2=Rafael Lins|title=Garbage Collection|isbn=0471941484|page=4|passage=An object in the heap is '''live''' if its address is held in a root, or there is a pointer to it held in another '''live''' heap node.}}
 # Taken from a living animal.
 #: '''''live''' feathers''
 # {{lb|en|engineering}} Imparting power; having motion.
@@ -435,9 +438,6 @@ See [[alive]]
 # {{lb|en|obsolete}} Vivid; bright.
 #* {{rfdatek|en|Thomson}}
 #*: the '''live''' carnation
-# {{lb|en|computer programming}} Describing an object or value that may be used in the future execution of a program, or at least can not be proved to be unused.
-#* {{antonyms|en|dead}}
-#* {{quote-book|en|year=1996|author=Richard Jones|author2=Rafael Lins|title=Garbage Collection|isbn=0471941484|page=4|passage=An object in the heap is '''live''' if its address is held in a root, or there is a pointer to it held in another '''live''' heap node.}}
 
 =====Usage notes=====
 * ''Live'' in the sense of "having life" is used only attributively (before a noun), as in "live animals". Predicatively (after the noun), ''alive'' is used, as in "be alive". ''Living'' may be used either attributively or predicatively.
