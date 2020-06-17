@@ -277,6 +277,7 @@ Borrowed from {{bor|en|frm|masque||a covering to hide or protect the face}}, fro
 #: {{rfquotek|en|Cavendish}}
 # {{lb|en|intransitive}} To [[wear]] a mask; to be disguised in any way
 #: {{rfquotek|en|Shakespeare}}
+# {{lb|en|transitive}} to [[cover]] or [[shield]] a part of a design or picture in order to prevent reproduction or to safeguard the surface from the colors used when working with an air brush or painting
 # {{lb|en|transitive|computing}} To [[set]] or [[unset]] (certain [[bit]]s, or binary digits, within a value) by means of a [[bitmask]].
 #* '''1993''', Richard E. Haskell, ''Introduction to computer engineering'' (page 287)
 #*: That is, the lower nibble (the 4 bits 1010 = A) has been '''masked''' to zero. This is because ANDing anything with a zero produces a zero, while ANDing any bit with a 1 leaves the bit unchanged{{...}}
