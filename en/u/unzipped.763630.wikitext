@@ -1,6 +1,21 @@
 ==English==
 
+===Etymology===
+From {{suffix|en|zip|ed}}.
+
 ===Verb===
 {{head|en|verb form}}
 
 # {{en-past of|unzip}}
+
+===Adjective===
+{{en-adj|-}}
+
+# Not [[zipped]] ([[close]]d with a [[zip fastener]]).
+#* {{quote-book |en |title=Shout Down the Moon |first=Lisa |last=Tucker |authorlink=Lisa Tucker (author) |date=6 April 2004 |publisher=[[w:Pocket Books|Pocket Books]] |isbn=0743488865 |page=63 |text=She threw the '''unzipped''' backpack outside, and when I ran out to get it, because I was worried about my homework blowing away, she locked and bolted the door.}}
+#* {{quote-book |en |title=December |first=Elizabeth Hartley |last=Winthrop |authorlink=Elizabeth Hartley Winthrop |publisher=[[w:Knopf Doubleday Publishing Group|Knopf Doubleday Publishing Group]] |date=17 June 2008 |isbn=0307269566 |page=226 |text=She sees the books from her backpack scattered around her, and suddenly she is in her father’s old bedroom again, putting her books into her backpack when her mother comes to tell her that the cousins have arrived, slinging her backpack on before it is zipped and following her downstairs, and her backpack is '''unzipped''' in the hall as they eat Yorkshire pudding and roast beef, and it is '''unzipped''' in the hall as they eat Yorkshire pudding and roast beef, and it is unzipped in the car as they drive home, and it is '''unzipped''' as she runs through the lobby and crashes to the tiles, but it is only now, as the blood from her nose seeps into the cuff of her sweater and the books lie all around her, that she realizes that it has been '''unzipped''' all this time.}}
+#* {{quote-book |en |title=It’s Raining Uber |first=Jasmine |last=Jean-Pierre |date=4 December 2013 |publisher=[[w:Archway Publishing|Archway Publishing]] |isbn=1480801232 |page=75 |text=Cloudy crawls inside the '''unzipped''' backpack.}}
+# Not [[zipped]] ([[compress]]ed into a single and often smaller file, especially a [[zip file]]).
+#* {{quote-book |en |title=UNIX: Teach yourself Unix the quick and easy way! This Visual QuickStart Guide uses pictures rather than lengthy explanations. You’ll be up and running in no time! |first=Deborah S. |last=Ray |fist2=Eric J. |last2=Ray |year=2003 |publisher=[[w:Peachpit Press|Peachpit Press]] |isbn=0321170105 |chapter=Chapter 13: Working with Encoded & Compressed Files |section=Zipping a File or Directory with <code>gzip</code> |page=288 |text=To zip a file or directory with <code>gzip</code>: / {{...}} / 2. <code>gzip zipadeedoodah.tar</code> / Type <code>gzip</code> followed by the name of the file or directory to <code>gzip</code>. The zipped file file will replace the '''unzipped''' version and will have a new <code>.gz</code> extension. / ✓ Tips / {{...}} / ▪ If you want to keep a copy of the original, '''unzipped''' file, try <code>gzip -c filetogzip > compressed.gz</code>.}}
+#* {{quote-book |en |title=Analyzing Baseball Data with R |first=Max |last=Marchi |first2=Jim |last2=Albert |date=29 October 2013 |publisher=[[w:CRC Press|CRC Press]] |isbn=1466570229 |page=303 |text=The function <code>unzip.retrosheet</code> unzips the file and puts the individual event files and roster files in the “'''unzipped'''” folder. The function <code>create.csv.file(season)</code> reads the individual team record files into R, merges the files, and writes a new single combined file in csv format in the “'''unzipped'''” folder.}}
+#* {{quote-book |en |title=Psychology of the Digital Age: Humans Become Electric |first=John R. |last=Suler |authorlink=John Suler |publisher=[[w:Cambridge University Press|Cambridge University Press]] |year=2016 |isbn=1107128749 |page=132 |text={{smc|hawkeye}}: as one of my friends like to say, “How hard is your big drive?” / {{smc|daisy}}: lol! / {{smc|dragon}}: more importantly, Hawkeye, is it compressed? / {{smc|daisy}}: more importantly, is it '''unzipped'''? / {{smc|hawkeye}}: and how often do you optimize it?}}
