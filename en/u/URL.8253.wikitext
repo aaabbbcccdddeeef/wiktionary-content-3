@@ -15,16 +15,13 @@
 ===Noun===
 {{en-noun}}
 
-# {{acronym of|en|Uniform Resource Locator|nodot=1}}: the [[address]] of a web page, ftp site, audio stream or other [[Internet]] resource.
+# {{initialism of|en|Uniform Resource Locator|nodot=1}}: the [[address]] of a web page, ftp site, audio stream or other [[Internet]] resource.
 #: ''<code><nowiki>https://en.wiktionary.org/</nowiki></code> is the '''URL''' of English Wiktionary.''
-# {{lb|en|US|military|nautical}} {{abbreviation of|en|[[unrestricted]] [[line]] [[officer]]}}
-
-====Hypernyms====
-{{sense|Uniform Resource Locater}}
-* {{l|en|IRI}}
-* {{l|en|URI}}
-{{sense|unrestricted line officer}}
-* {{l|en|line officer}}
+#: {{hyper|en|IRI|URI}}
+# {{lb|en|US|military|nautical}} {{initialism of|en|[[unrestricted]] [[line]] [[officer]]}}
+#: {{hyper|en|line officer}}
+# {{lb|en|medicine|statistics}} {{initialism of|en|[[upper]] [[reference]] [[limit]]}}
+#: {{cot|en|LRL}}
 
 ====Translations====
 {{trans-top|Uniform Resource Locator}}
