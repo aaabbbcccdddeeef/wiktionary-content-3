@@ -3,10 +3,10 @@
 {{enum|en|quadratic|quartic|[[Appendix:English polynomial degrees|polynomial degrees]]}}
 
 ===Alternative forms===
-* {{l|en|cubick}} {{qualifier|obsolete}}
+* {{alter|en|cubick||obsolete}}
 
 ===Etymology===
-From {{etyl|frm|en}} {{m|frm|cubique}}
+From {{der|en|frm|cubique}}.
 
 ===Pronunciation===
 * {{a|RP}} {{IPA|en|/ˈkjuː.bɪk/}}
@@ -22,15 +22,11 @@ From {{etyl|frm|en}} {{m|frm|cubique}}
 #*: On one recent day, officials said the fine dust concentration levels in Seoul rose above 130 micrograms per '''cubic''' meter. 
 #*:: {{audio|en|On one recent day, officials said the fine dust concentration levels in Seoul rose above 130 micrograms per cubic meter.ogg|Audio (US)}}
 #: {{ux|en|'''cubic''' foot}}
+#: {{coordinate terms|en|linear|square}}
 # {{lb|en|algebraic geometry}} Of a class of [[polynomial]] of the form <math> ax^3 + bx^2 + cx + d </math>
 # {{lb|en|crystallography}} Having three equal axes and all angles 90°.
 #: {{ux|en|'''cubic''' cleavage}}
-
-====Synonyms====
-* {{sense|crystallography}} {{l|en|isometric}}, {{l|en|monometric}}
-
-====Coordinate terms====
-* {{sense|three-dimensional unit}} {{l|en|linear}}, {{l|en|square}}
+#: {{syn|en|isometric|monometric}}
 
 ====Derived terms====
 * {{l|en|cubic capacity}}
@@ -67,12 +63,12 @@ From {{etyl|frm|en}} {{m|frm|cubique}}
 * Catalan: {{t+|ca|cúbic}}
 * Czech: {{t+|cs|kubický}}
 * Dutch: {{t+|nl|derdegraads}}
-* Finnish: {{t|fi|[[kolmannen asteen polynomi|kolmannen asteen]]}}
+* Finnish: {{t|fi|kolmannen asteen polynomi|alt=kolmannen asteen}}
 * French: {{t+|fr|cubique}}
 * Irish: {{t|ga|ciúbach}}
 {{trans-mid}}
-* Italian: {{t+|it|cubico|m}}, {{t+|it|cubica|f}}
-* Polish: [[trzeci]]ego [[stopień|stopnia]]
+* Italian: {{t+|it|cubico}}
+* Polish: {{t|pl|[[trzeci]]ego [[stopień|stopnia]]}}
 * Portuguese: {{t+|pt|cúbico}}
 * Russian: {{t+|ru|куби́ческий}}, {{t|ru|в [[куб|ку́бе]]}}, {{t|ru|[[третий|тре́тьей]] [[степень|сте́пени]]}}
 * Spanish: {{t|es|cúbico}}
@@ -87,8 +83,8 @@ From {{etyl|frm|en}} {{m|frm|cubique}}
 * Hungarian: {{t|hu|köbös}}
 {{trans-mid}}
 * Irish: {{t|ga|ciúbach}}
-* Polish: {{t+|pl|regularny|m}}, {{t|pl|kubiczny|m}}
-* Spanish: {{t|es|cúbico|m}}
+* Polish: {{t+|pl|regularny}}, {{t|pl|kubiczny}}
+* Spanish: {{t|es|cúbico}}
 * Tagalog: {{t|tl|buukin}}
 {{trans-bottom}}
 
@@ -96,9 +92,7 @@ From {{etyl|frm|en}} {{m|frm|cubique}}
 {{en-noun}}
 
 # {{lb|en|algebraic geometry}} A [[cubic curve]].
-
-====Synonyms====
-* {{l|en|cubic curve}}
+#: {{syn|en|cubic curve}}
 
 ====Translations====
 {{trans-top|cubic curve}}
