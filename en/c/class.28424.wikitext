@@ -479,7 +479,7 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Yiddish: {{t|yi|קלאַס|m}}
 {{trans-bottom}}
 
-{{trans-top|classification below Phylum and above Order}}
+{{trans-top|taxonomy: classification below Phylum and above Order}}
 * Armenian: {{t+|hy|դաս|sc=Armn}}
 * Bulgarian: {{t+|bg|клас|m|sc=Cyrl}}
 * Catalan: {{t+|ca|classe|f}}
@@ -524,7 +524,12 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Thai: {{t|th|ชั้นหนึ่ง}}
 {{trans-bottom}}
 
-{{trans-top|(set theory) collection of sets definable by a shared property}}
+{{trans-top|statistics: grouping of data values in an interval}}
+* Finnish: {{t|fi|luokka}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|set theory: collection of sets definable by a shared property}}
 * Armenian: {{t+|hy|դաս|sc=Armn}}
 * Bulgarian: {{t+|bg|клас|m|sc=Cyrl}}
 * Catalan: {{t+|ca|classe|f}}
@@ -552,11 +557,11 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Bulgarian: {{t+|bg|набор|m|sc=Cyrl}}
 * Catalan: {{t+|ca|classe|f}}
 {{trans-mid}}
-* Finnish: {{t+|fi|saapumiserä}}
+* Finnish: {{t+|fi|saapumiserä}} {{q|those actually conscripted}}
 * Greek: {{t+|el|σειρά|f|sc=Grek}}
 {{trans-bottom}}
 
-{{trans-top|(programming, object-oriented) set of objects possibly differing in state but not behavior}}
+{{trans-top|object-oriented programming: set of objects possibly differing in state but not behavior}}
 * Bulgarian: {{t+|bg|клас|m|sc=Cyrl}}
 * Catalan: {{t+|ca|classe|f}}
 * Chechen: {{t|ce|класс|sc=Cyrl}}
@@ -585,6 +590,11 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Swedish: {{t+|sv|klass|c}}
 * Thai: {{t|th|คลาส}}
 * Turkish: {{t+|tr|sınıf}}
+{{trans-bottom}}
+
+{{trans-top|one of the sections of a Methodist church or congregation}}
+* Finnish: {{t|fi|luokka}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
