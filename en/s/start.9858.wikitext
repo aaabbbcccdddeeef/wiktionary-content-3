@@ -34,10 +34,6 @@ From {{der|en|enm|stert}}, from the verb {{m|enm|sterten||to start, startle}}. S
 # An initial advantage over somebody else; a [[head start]].
 #: ''to get, or have, the '''start'''''
 
-=====See also=====
-* [[by fits and starts]]
-* {{l|en|by starts and leaps}}
-
 ======Translations======
 {{trans-top|beginning of an activity}}
 * American Sign Language: {{t|ase|1@InFinger-PalmDown-OpenB@CenterChesthigh 1@InFinger-PalmUp-OpenB@CenterChesthigh}}
@@ -171,6 +167,10 @@ From {{der|en|enm|stert}}, from the verb {{m|enm|sterten||to start, startle}}. S
 * Sylheti: {{t|syl|ꠡꠥꠞꠥ}}
 * Telugu: {{t+check|te|మొదలు|sc=Telu}}, {{t+check|te|ప్రారంభం|sc=Telu}}
 {{trans-bottom}}
+
+=====See also=====
+* {{l|en|by fits and starts}}
+* {{l|en|by starts and leaps}}
 
 ===Etymology 2===
 From {{inh|en|enm|sterten|t=to leap up suddenly, rush out}}, from {{inh|en|ang|styrtan|t=to leap up, start}}, from {{inh|en|gem-pro|*sturtijaną|t=to startle, move, set in motion}}, causative of {{m|gem-pro|*stirtaną|t=to leap, tumble}}, from {{inh|en|ine-pro|*stere-}}, {{m|ine-pro|*strē-|t=to be strong, steady, rigid, fixed}}. Cognate with {{cog|ofs|stirta|t=to fall down, tumble}}, {{cog|dum|sterten|t=to rush, fall, collapse}} ({{cog|nl|storten}}), {{cog|goh|sturzen|t=to hurl, plunge, turn upside down}} ({{cog|de|stürzen}}), {{cog|goh|sterzan|t=to be stiff, protrude}}. More at {{l|en|stare}}.
@@ -488,8 +488,8 @@ From {{inh|en|enm|stert}}, {{m|enm|start}}, from {{inh|enm|ang|steort}}, {{m|ang
 
 {{Webster 1913}}
 
-====Derived forms====
-# [[redstart]]
+====Derived terms====
+# {{l|en|redstart}}
 
 ===Anagrams===
 * {{anagrams|en|a=arstt|Strat|Tarts|strat|tarts}}
@@ -712,9 +712,9 @@ Borrowed from {{bor|pl|en|start}}.
 }}
 
 ====Derived terms====
-* {{l|pl|startować}} &mdash; ''verb'' to start
-* {{l|pl|startowy}} &mdash; ''adjective'' starting, take-off
-* {{l|pl|falstart}} {{qualifier|m}} &mdash; ''noun'' [[false start]]
+* {{l|pl|startować|pos=verb|t=to start}}
+* {{l|pl|startowy|pos=adjective|t=tarting, take-off}}
+* {{l|pl|falstart|g=m|pos=noun|t=[[false start]]}}
 
 ===Further reading===
 * {{R:PWN}}
@@ -738,13 +738,13 @@ Borrowed from {{bor|sv|en|start}}.
 ====Declension====
 {{sv-infl-noun-c-er}}
 
+====Derived terms====
+{{der3|sv|kallstart|nystart|omstart|startanordning|startavgift|startbana|startbatteri|startberedd|startbidrag|startbil|startblock|startelva|startflagga|startfålla|startfält|startgalopp|startgrop|startgrupp|starthjälp|startkabel|startkapital|startklar|startknapp|startledare|startlinje|startlista|startläge|startman|startmotor|startnummer|startnyckel|startpall|startpistol|startplats|startplatta|startpunkt|startraket|startsida|startsignal|startskott|startsnabb|startspår|startsträcka|starttid|startur|startvev|startväxel|startögonblick|tjuvstart}}
+
 ====Related terms====
 * {{l|sv|starta}}
 * {{l|sv|starter}}
 * {{l|sv|startare}}
-
-====Derived terms====
-{{der3|sv|kallstart|nystart|omstart|startanordning|startavgift|startbana|startbatteri|startberedd|startbidrag|startbil|startblock|startelva|startflagga|startfålla|startfält|startgalopp|startgrop|startgrupp|starthjälp|startkabel|startkapital|startklar|startknapp|startledare|startlinje|startlista|startläge|startman|startmotor|startnummer|startnyckel|startpall|startpistol|startplats|startplatta|startpunkt|startraket|startsida|startsignal|startskott|startsnabb|startspår|startsträcka|starttid|startur|startvev|startväxel|startögonblick|tjuvstart}}
 
 ===References===
 * {{R:svenska.se|saol}}
