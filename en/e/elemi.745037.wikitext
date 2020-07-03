@@ -28,7 +28,7 @@
 ==Hungarian==
 
 ===Etymology===
-{{affix|hu|elem|-i|pos=adjective}}
+{{affix|hu|elem|-i|pos2=adjective-forming suffix|pos=adjective}}
 
 ===Pronunciation===
 * {{hu-IPA}}
@@ -39,9 +39,34 @@
 {{hu-adj|bb}}
 
 # [[elementary]], [[basic]], [[fundamental]], [[elemental]]
+# {{lb|hu|education|before 1945}} [[primary]], [[elementary]], [[grammar]], [[grade]] {{gloss|of or relating to an elementary school}}
+#: {{uxi|hu|'''elemi''' iskola|'''primary/grade''' school}}
 
 ====Declension====
 {{hu-infl-nom|elemie|e|-}}
 
 ====Derived terms====
+* {{l|hu|elemileg}}
+* {{l|hu|elemiség}}
 * {{l|hu|elemi részecske}}
+
+===Noun===
+{{hu-noun|k}}
+
+# {{lb|hu|education}} [[grade school]], [[elementary school]], [[primary school]]
+#*{{quote-book|hu
+|year=1905-1908
+|author={{w|Lőrinc Szabó}}
+|title=Elemi (Grade School), poem
+|url=http://mek.niif.hu/01000/01068/01068.htm#61
+|passage=Ekkortájt kezdődött az '''elemi'''. / A betűket már tudtam...|translation='''Grade school''' started around this time. / I already knew the letters...}}
+
+====Declension====
+{{hu-infl-nom|elemi|e}}{{hu-pos-tek|elemi|je}}
+
+====Derived terms====
+* {{l|hu|elemis}}
+
+===Further reading===
+* {{R:ErtSz}}
+* {{R:Nagyszotar}}
