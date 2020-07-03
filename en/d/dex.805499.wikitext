@@ -12,7 +12,7 @@ Contraction of {{m|en|decimal}} {{m|en|exponent}}.
 #*: The data points for <nowiki>low-<nH></nowiki> paths are scattered more widely than those for denser sight lines, because O/H ratios for such paths shorter than 800 pc are generally about 0.10 '''dex''' lower than the values for longer ones.
 
 =====Usage notes=====
-Used both to refer to the function <math>\mathrm{dex}(x) = 10^x</math> and the number of (possibly fractional) orders of magnitude separating two numbers. When dealing with [[log]] to the base 10 transform of a number set the transform of 10, 100, and 1 000 000 is <math>\log_{10}(10) = 1</math>, <math>\log_{10}(100) = 2</math>, and <math>\log_{10}(1 000 000) = 6</math>, so the difference between 10 and 100 in base 10 is 1 dex and the difference between 1 and 1 000 000 is 6 dex.
+Used both to refer to the function <math>\mathrm{dex}(x) = 10^x</math> and the number of (possibly fractional) orders of magnitude separating two numbers. <math>\log_{10}(5) /approx 0.70</math> and <math>\log_{10}(8) /approx 0.90</math>, so the ratio of 8 to 5 is about 0.20 dex.
 
 =====See also=====
 * {{l|en|order of magnitude}}, {{l|en|decibel}}
