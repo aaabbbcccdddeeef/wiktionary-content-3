@@ -3,7 +3,8 @@
 ==English==
 {{wikipedia}}
 
-* 
+===Alternative forms===
+* {{l|en|androides}} {{qualifier|dated}}
 
 ===Etymology===
 From {{bor|en|NL.|androides}}, from {{der|en|grc|ἀνδρός|}} (genitive of {{m|grc|ἀνήρ}}, “man”) + {{m|grc|-ειδής}}, itself from {{m|grc|εἶδος||form, image, shape, appearance, look}}. Note the form {{m|grc|ἀνδρώδης||manly}} already existed in {{cog|grc|-}}. Synchronically, {{affix|en|andro-|-oid}}.
@@ -12,8 +13,67 @@ From {{bor|en|NL.|androides}}, from {{der|en|grc|ἀνδρός|}} (genitive of {
 * {{IPA|en|/ˈænˌdɹɔɪd/}}
 * {{audio|en|en-us-android.ogg|Audio (US)}}
 
-# 
-# art-shaped brim, typically found in the male.
+===Noun===
+{{en-noun}}
+
+# A [[robot]] that is designed to look and act like a [[human]] being (not necessarily male)
+
+====Hypernyms====
+* {{l|en|robot}}
+
+====Hyponyms====
+* {{l|en|gynoid}}, {{l|en|fembot}}
+
+====Derived terms====
+* {{l|en|droid}}
+
+====Translations====
+{{trans-top|robot with human form}}
+* Arabic: {{t|ar|أندرويد|m}}
+* Catalan: {{t+|ca|androide|m}}
+* Chinese:
+*: Cantonese: {{t|yue|仿生人|tr=fong2 sang1 jan4|sc=Hani}}, {{t|yue|人造人|tr=jan4 zou6 jan4|sc=Hani}}, {{t|yue|人形機械人|sc=Hani}}, {{t|yue|人形机械人|tr=jan4 jing4 gei1 haai3 jan4|sc=Hani}}
+*: Mandarin: {{t|cmn|人形機器人|sc=Hani}}, {{t|cmn|人形机器人|tr=rénxíng jīqìrén|sc=Hani}}, {{t|cmn|仿生人|tr=fǎngshēngrén|sc=Hani}}, {{t|cmn|人造人|tr=rénzàorén|sc=Hani}}
+* Czech: {{t+|cs|android|m}}
+* Danish: {{t+|da|androide|c}}
+* Dutch: {{t+|nl|androïde|m}}
+* Esperanto: {{t|eo|homaŭtomato}}, {{t|eo|androido}}
+* Finnish: {{t+|fi|androidi}}
+* French: {{t+|fr|androïde|m}}
+{{trans-mid}}
+* German: {{t+|de|Android|m}} / {{t+|de|Androide|m}}
+* Greek: {{t+|el|ανδροειδές|n}}
+* Ido: {{t+|io|androido}}
+* Italian: {{t+|it|androide|m}}
+* Japanese: {{t|ja|人造人間|tr=じんぞうにんげん, jinzō ningen}}, {{t|ja|アンドロイド|tr=andoroido}}, {{t+|ja|ロボット|tr=robotto}}
+* Korean: {{t|ko|안드로이드}}, {{t+|ko|로봇}}
+* Navajo: {{t|nv|béésh hináanii}}
+* Polish: {{t+|pl|android|m}}
+* Portuguese: {{t+|pt|androide|m}}
+* Russian: {{t+|ru|андро́ид|m}}, {{t+|ru|ро́бот|m}}
+* Spanish: {{t+|es|androide|m}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|cyborg}}
+
+===Adjective===
+{{en-adj}}
+
+# Possessing human qualities.
+# {{lb|en|anatomy|in [[pelvimetry]]}} Of the [[pelvis]], having a [[narrow]] [[anterior]] [[segment]] and a [[heart]]-shaped [[brim]], typically found in the [[male]].
+
+====Translations====
+{{trans-top|possessing human qualities}}
+* Danish: {{t|da|android}}
+* Dutch: {{t+|nl|androïde|m}}
+* Finnish: {{t+|fi|ihmismäinen}}
+* French: {{t+|fr|androïde|m}}
+{{trans-mid}}
+* Norwegian:
+*: Bokmål: {{t|nb|androide|m}}
+* Russian: {{t+|ru|человекоподо́бный}}
+{{trans-bottom}}
 
 ===Anagrams===
 * {{anagrams|en|a=addinor|Dinardo|Dorinda}}
@@ -45,8 +105,20 @@ From {{lbor|pl|grc|ἀνήρ||man|notext=1}}, {{m|grc|ἀνδρός}}, + {{m|grc
 * {{audio|pl|Pl-android.ogg|Audio}}
 
 ===Noun===
+{{pl-noun|m-an}}
 
-# 
+# [[#English|android]]
+
+====Declension====
+{{pl-decl-noun
+|android|androidy
+|androida|androidów
+|androidowi|androidom
+|androida|androidy
+|androidem|androidami
+|androidzie|androidach
+|androidzie|androidy
+}}
 
 ===Further reading===
 * {{R:PWN}}
