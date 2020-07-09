@@ -3,7 +3,7 @@
 {{wikipedia|dab=Ping (disambiguation)|ping}}
 
 ===Etymology===
-Partly [[onomatopoeic]], and partly continuing {{inh|en|enm|pingen|t=to push, shove, pierce, stab, prod, goad, urge, feel remorse, incite}}, from {{inh|en|ang|pyngan|t=to prick}}. Compare {{cog|en|pang}}.
+Partly {{onomatopoeic|en|nocap=1}}, and partly continuing {{inh|en|enm|pingen|t=to push, shove, pierce, stab, prod, goad, urge, feel remorse, incite}}, from {{inh|en|ang|pyngan|t=to prick}}. Compare {{cog|en|pang}}.
 
 ===Pronunciation===
 * {{a|UK|US}} {{IPA|en|/pɪŋ/}}
@@ -14,13 +14,15 @@ Partly [[onomatopoeic]], and partly continuing {{inh|en|enm|pingen|t=to push, sh
 {{en-noun}}
 
 # A high-pitched, short and somewhat sharp sound.
-#: ''My car used to make an odd '''ping''', but after the last oil change it went away.''
+#: {{cot|en|beep|peep}}
+#: {{ux|en|My car used to make an odd '''ping''', but after the last oil change it went away.}}
 # {{lb|en|submarine navigation}} A pulse of high-pitched or ultrasonic sound whose echoes provide information about nearby objects and vessels.
-#: ''The submarine sent out a '''ping''' and got an echo from a battleship.''
+#: {{ux|en|The submarine sent out a '''ping''' and got an echo from a battleship.}}
 # {{lb|en|networking}} A packet which a remote [[host]] is expected to echo, thus indicating its presence.
-#: ''The network is overloaded from all the '''pings''' going out.''
+#: {{cot|en|heartbeat|ACK}}
+#: {{ux|en|The network is overloaded from all the '''pings''' going out.}}
 # {{lb|en|text messaging|Internet}} An [[email]] or other message sent requesting acknowledgement.
-#: ''I sent a '''ping''' to the insurance company to see if they received our claim.''
+#: {{ux|en|I sent a '''ping''' to the insurance company to see if they received our claim.}}
 # {{lb|en|networking}} [[latency|Latency]].
 #* '''2000''' April 4, "CaPRubberchecks" (username), ''Low-'''Ping''' servers...YIKES!'' in <tt>alt.games.starsiege.tribes</tt>, ''Usenet''
 #* '''2000''' November 8, "the_mad...@my-deja.com", ''HL DM with a low '''ping'''.......'', in <tt>alt.games.half-life</tt>, ''Usenet'':
@@ -52,12 +54,8 @@ Partly [[onomatopoeic]], and partly continuing {{inh|en|enm|pingen|t=to push, sh
 {{trans-mid}}
 {{trans-bottom}}
 
-====See also====
-* {{l|en|beep}}
-* {{l|en|peep}}
+====Related terms====
 * {{l|en|ping pong}}
-* {{l|en|ACK}}
-* {{l|en|heartbeat}}
 
 ===Verb===
 {{en-verb}}
@@ -65,7 +63,8 @@ Partly [[onomatopoeic]], and partly continuing {{inh|en|enm|pingen|t=to push, sh
 # To make a high-pitched, short and somewhat sharp sound.
 #: {{ux|en|My car was '''pinging''' until my last oil change.}}
 # {{lb|en|submarine navigation}} To emit a signal and then listen for its echo in order to detect objects.
-# {{lb|en|networking}} To send a packet in order to determine whether a [[host]] is present, particularly by use of the ping utility.
+# {{lb|en|networking}} To send a [[packet]] in order to determine whether a [[host]] is present, particularly by use of the ping utility.
+#: {{cot|en|poll}}
 #: {{ux|en|I'm '''pinging''' their server.}}
 #: {{ux|en|The server '''pings''' its affiliates periodically.}}
 # {{lb|en|by extension}} To send an email or other message to someone in hopes of eliciting a response.
@@ -94,8 +93,7 @@ Partly [[onomatopoeic]], and partly continuing {{inh|en|enm|pingen|t=to push, sh
 |url=http://news.bbc.co.uk/sport2/hi/rugby_union/14812577.stm
 |page=
 |passage=However, after an inside pass from Moody to Tom Croft and a surge from the England blind-side, number eight James Haskell was eventually '''pinged''' from in front of the posts for not releasing.}}
-# {{lb|en|WMF jargon}} To send a [[notification]] to (another user) when commenting on a public page.
-# {{lb|en|colloquial|}} To penalise.
+# {{lb|en|colloquial|}} To [[penalise]].
 #: {{ux|en|Gary Ablett was '''pinged''' for holding the ball and gave away a free kick.}}
 
 ====Translations====
@@ -114,10 +112,6 @@ Partly [[onomatopoeic]], and partly continuing {{inh|en|enm|pingen|t=to push, sh
 * Dutch: {{t+|nl|pingen}}
 {{trans-mid}}
 * Finnish: {{t|fi|pingata}}
-{{trans-bottom}}
-
-{{trans-top|To ping and receive an acknowledgement}}
-{{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|To send an email or other message to someone in hopes of eliciting a response}}
@@ -139,13 +133,8 @@ Partly [[onomatopoeic]], and partly continuing {{inh|en|enm|pingen|t=to push, sh
 {{trans-mid}}
 {{trans-bottom}}
 
-====See also====
-* {{l|en|poll}} ''networking''
-
 ===Anagrams===
 * {{anagrams|en|a=ginp|NigP}}
-
-[[Category:English onomatopoeias]]
 
 ----
 
