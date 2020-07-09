@@ -95,7 +95,7 @@ From {{lbor|cs|grc|ἀνδρός||man|notext=1}} + {{m|grc|-ειδής||form, ap
 ----
 
 ==Polish==
-{{wikipedia|lang=pl}}
+{{wp|lang=pl}}
 
 ===Etymology===
 From {{lbor|pl|grc|ἀνήρ||man|notext=1}}, {{m|grc|ἀνδρός}}, + {{m|grc|-ειδής||form, appearance}}. Analogous to {{affix|pl|andro-|-id}}.
@@ -107,21 +107,13 @@ From {{lbor|pl|grc|ἀνήρ||man|notext=1}}, {{m|grc|ἀνδρός}}, + {{m|grc
 ===Noun===
 {{pl-noun|m-an}}
 
-# [[#English|android]]
+# {{l|en||android}}
 
 ====Declension====
-{{pl-decl-noun
-|android|androidy
-|androida|androidów
-|androidowi|androidom
-|androida|androidy
-|androidem|androidami
-|androidzie|androidach
-|androidzie|androidy
-}}
+{{pl-decl-noun-m-an}}
 
 ===Further reading===
+* {{R:pl:WSJP}}
 * {{R:PWN}}
 
-[[Category:pl:Robotics]]
-[[Category:pl:Science fiction]]
+{{c|pl|Robotics|Science fiction}}
