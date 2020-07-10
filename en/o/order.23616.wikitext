@@ -1006,20 +1006,35 @@ From {{bor|id|nl|order}}, from from {{der|id|fro|ordre}}, {{m|fro|ordne}}, {{m|f
 ----
 
 ==Polish==
+{{wp|lang=pl}}
+
+===Etymology===
+From {{der|pl|fro|ordre}}, {{m|fro|ordne}}, {{m|fro|ordene||order, rank}}, from {{der|pl|la|ōrdinem}}, accusative of {{m|la|ōrdō||row, rank, regular arrangement|lit=row of threads in a loom}}.
 
 ===Pronunciation===
-{{pl-IPA-auto}}
+* {{pl-IPA-auto}}
+* {{audio|pl|Pl-order.ogg|Audio}}
 
 ===Noun===
-{{pl-noun|m-in}}
+{{pl-noun|m-in|dim=orderek|aug=orderzysko}}
 
-# {{l|en|order}} {{gloss|a {{l|en|decoration}} awarded by government or other authority}}
+# {{l|en|order}} (decoration awarded by government or other authority)
+#: {{syn|pl|odznaczenie}}
 
 ====Declension====
-{{pl-decl-noun-masc-inani|orde|r|u}}
+{{pl-decl-noun-m-in|orde|r|u}}
 
-====Synonyms====
-* {{l|pl|odznaczenie}}
+====Derived terms====
+* {{q|verbs}} {{l|pl|orderować}}, {{l|pl|uorderować}}, {{l|pl|wyorderować}}
+* {{q|nouns}} {{l|pl|orderowiec}}, {{l|pl|orderomania}}
+* {{q|adjective}} {{l|pl|orderowy}}
+
+====Related terms====
+* {{q|noun}} {{l|pl|ordereczek}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:PWN}}
 
 {{c|pl|Awards}}
 
