@@ -315,7 +315,7 @@ Usage for women specifically follows {{der|en|frm|sexe|le sexe|women}} (attested
 * Dutch: {{t+|nl|seks|m}}, {{t+|nl|geslachtsgemeenschap|m}}, {{t+|nl|vrijen|n}}
 * Esperanto: {{t-simple|eo|langname=Esperanto|amoro}}, {{t-simple|eo|langname=Esperanto|amorado}}, {{t-simple|eo|langname=Esperanto|koito}}
 * Estonian: {{t-simple|interwiki=1|et|langname=Estonian|seks}}, {{t-simple|interwiki=1|et|langname=Estonian|suguühe}}
-* Faroese: {{t|fo|kynslív|n}}
+* Faroese: {{t-simple|fo|langname=Faroese|kynslív|n}}
 * Finnish: {{t+|fi|seksi}}, {{t+|fi|yhdyntä}}
 * French: {{t+|fr|rapport sexuel|alt=rapports sexuels|m-p}}, {{t+|fr|sexe|m}}, {{t+|fr|cul|m}}
 * Georgian: {{t+|ka|სექსი}}, {{t|ka|სქესობრივი აქტი}}
@@ -327,9 +327,9 @@ Usage for women specifically follows {{der|en|frm|sexe|le sexe|women}} (attested
 * Hebrew: {{t+|he|יַחֲסֵי מִין|tr=yakhaséy min|m-p}} {{qualifier|literally: sexual relations}}, {{t+|he|מִין|m|tr=min}}, {{t|he|סֶקְס|m|tr=seks}}
 * Hindi: {{t+|hi|मैथुन|m}}, {{t|hi|सेक्स|m}}
 * Hungarian: {{t-simple|interwiki=1|hu|langname=Hungarian|szex}}, {{t-simple|interwiki=1|hu|langname=Hungarian|közösülés}}
-* Icelandic: {{t|is|kynlíf|n}}, {{t-simple|is|langname=Icelandic|mök|g=n-p}}, {{t|is|kynmök|n-p}}
-* Ido: {{t+|io|koito}}
-* Igbo: {{t|ig|dinàkọ}}
+* Icelandic: {{t-simple|is|langname=Icelandic|kynlíf|g=n}}, {{t-simple|is|langname=Icelandic|mök|g=n-p}}, {{t-simple|is|langname=Icelandic|kynmök|g=n-p}}
+* Ido: {{t-simple|interwiki=1|io|langname=Ido|koito}}
+* Igbo: {{t-simple|ig|langname=Igbo|dinàkọ}}
 * Italian: {{t-simple|interwiki=1|it|langname=Italian|sesso|m}}
 * Japanese: {{t+|ja|性交|tr=せいこう, seikō}}, {{t+|ja|セックス|tr=sekkusu}}
 * Kazakh: {{t|kk|секс}}, {{t|kk|жыныстық акт|sc=Cyrl}}
@@ -340,17 +340,17 @@ Usage for women specifically follows {{der|en|frm|sexe|le sexe|women}} (attested
 * Kyrgyz: {{t+|ky|секс}}
 * Lao: {{t|lo|ການຮ່ວມເພດ}}, {{t|lo|ປະເວນີ}}
 * Latin: {{t|la|coitus|m}}
-* Latvian: {{t|lv|sekss|m}}
-* Lithuanian: {{t+|lt|seksas|m}}
+* Latvian: {{t-simple|lv|langname=Latvian|sekss|m}}
+* Lithuanian: {{t-simple|interwiki=1|lt|langname=Lithuanian|seksas|g=m}}
 * Macedonian: {{t|mk|секс|m}}, {{t|mk|полов однос|m}}, {{t|mk|сексуа́лен однос|m}}
 * Malayalam: {{t|ml|ലൈംഗികബന്ധം}}, {{t|ml|സംഭോഗം}}, {{t+|ml|മൈഥുനം}}
-* Maltese: {{t|mt|sess|m}}
+* Maltese: {{t-simple|mt|langname=Maltese|sess|g=m}}
 * Marathi: {{t|mr|कामजीवन|sc=Deva}}
 * Mongolian: {{t+|mn|хурьцал}}, {{t|mn|секс}}
 * Norwegian:
 *: Bokmål: {{t+|nb|sex|m}}, {{t+|nb|samleie|n}}
 *: Nynorsk: {{t+|nn|sex|m}}, {{t|nn|samlege|f}}, {{t|nn|samleie|n}}
-* Old English: {{t|ang|hǣmed}}, {{t|ang|leġertēam}}, {{t|ang|wīfġemāna}}
+* Old English: {{t-simple|ang|langname=Old English|hǣmed}}, {{t-simple|ang|langname=Old English|leġertēam}}, {{t-simple|ang|langname=Old English|wīfġemāna}}
 * Persian: {{t|fa|آمیزش جنسی|tr=âmizeš-e jensi}}, {{t+|fa|جماع|tr=jemâʿ}}, {{t|fa|سپودن|tr=sepudan}}, {{t|fa|همخوابگی|tr=ham-xâbegi}}, {{t+|fa|سکس|tr=seks|sc=fa-Arab}}
 * Polish: {{t+|pl|seks|m}}, {{t+|pl|stosunek płciowy|m}}, {{t+|pl|spółkowanie|n}}
 * Portuguese: {{t+|pt|sexo|m}}, {{t+|pt|transa|f}}
@@ -399,7 +399,7 @@ Usage for women specifically follows {{der|en|frm|sexe|le sexe|women}} (attested
 * Danish: {{t+|da|køn}}
 * Dutch: {{t+|nl|geslacht|n}}, {{t+|nl|sekse|f}}
 * Estonian: {{t-simple|et|langname=Estonian|sugu}}
-* Faroese: {{t|fo|kyn|n}}
+* Faroese: {{t-simple|fo|langname=Faroese|kyn|n}}
 * Finnish: {{t+|fi|sukupuoli}}
 * French: {{t+|fr|sexe|m}}
 * Georgian: {{t|ka|სქესი}}
@@ -408,8 +408,8 @@ Usage for women specifically follows {{der|en|frm|sexe|le sexe|women}} (attested
 * Hebrew: {{t+|he|מִין|m|tr=min}}, {{t+|he|מִגְדָּר|tr=migdár}} {{qualifier|literally: gender}}
 * Hindi: {{t+|hi|लिंग|m|sc=Deva}}
 * Hungarian: {{t-simple|interwiki=1|hu|langname=Hungarian|nem}}
-* Icelandic: {{t+|is|kyn|n}}
-* Ido: {{t+|io|sexuo}}
+* Icelandic: {{t-simple|interwiki=1|is|langname=Icelandic|kyn|n}}
+* Ido: {{t-simple|interwiki=1|io|langname=Ido|sexuo}}
 * Indonesian: {{t+|id|jenis}}, {{t+|id|jenis kelamin}}
 * Interlingua: {{t-simple|ia|langname=Interlingua|sexo}}
 * Irish: {{t-simple|ga|langname=Irish|gnéas}}
@@ -423,13 +423,13 @@ Usage for women specifically follows {{der|en|frm|sexe|le sexe|women}} (attested
 * Lao: {{t|lo|ລິງ}}, {{t|lo|ເພດ}}
 {{trans-mid}}
 * Latin: {{t|la|sexus|m}}
-* Latvian: {{t|lv|dzimums|m}}, {{t|lv|sekss|m}}
-* Lithuanian: {{t+|lt|lytis|m}}
+* Latvian: {{t-simple|lv|langname=Latvian|dzimums|m}}, {{t-simple|lv|langname=Latvian|sekss|m}}
+* Lithuanian: {{t-simple|interwiki=1|lt|langname=Lithuanian|lytis|g=m}}
 * Macedonian: {{t|mk|пол}}
-* Malay: {{t|ms|jantina}}
+* Malay: {{t-simple|ms|langname=Malay|jantina}}
 * Malayalam: {{t+|ml|ലിംഗം}}
-* Maltese: {{t|mt|sess|m}}
-* Manx: {{t|gv|keintys|m}}
+* Maltese: {{t-simple|mt|langname=Maltese|sess|m}}
+* Manx: {{t-simple|gv|langname=Manx|keintys|m}}
 * Mongolian: {{t+|mn|хүйс}}
 * Norwegian: {{t+|no|kjønn|n}}
 * Novial: {{t|nov|sexu}}
@@ -513,7 +513,7 @@ The ability to '''sex''' birds invasively through laparoscopy initially solved t
 * French: {{t+|fr|sexer}}
 * German: {{t-check|de|das [[Geschlecht]] [[bestimmen]]}} {{attention|de|2=was "das [[Geschlecht]] [[bestimmen]]" - assumed sum-of-parts; if an idiom, remove the wikilinks to the individual words. see [[User:So9q/Improved-xte.js/documentation#Translation_fixing]]}}, {{t+|de|sexen}}
 {{trans-mid}}
-* Lithuanian: {{t|lt|mylėtis}}
+* Lithuanian: {{t-simple|lt|langname=Lithuanian|mylėtis}}
 * Polish: {{t+|pl|seksować}}
 * Portuguese: {{t|pt|sexar}}
 * Slovak: {{t|sk|sexovať}}
