@@ -5,12 +5,14 @@
 {{en-noun}}
 
 # {{lb|en|statistics}} One of a family of techniques used to analyze [[time series]] data, in which a [[weighted average]] is determined for a given data point based on its value and the past values.
-
-====Synonyms====
-* [[rolling average]]
+#: {{syn|en|rolling average}}
 
 ====Translations====
 {{trans-top|statistical technique}}
 * Czech: {{t|cs|klouzavý průměr|m}}
 {{trans-mid}}
 {{trans-bottom}}
+
+===Further reading===
+* {{R:OneLook}}
+* {{R:GNV|moving average, rolling average}}
