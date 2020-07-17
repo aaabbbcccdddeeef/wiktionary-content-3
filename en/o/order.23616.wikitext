@@ -216,7 +216,7 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 * Greek:
 *: Ancient: {{t|grc|τάξις|f}}
 * Hebrew: {{t+|he|סֵדֶר|m|tr=séder|sc=Hebr}}
-* Hindi: {{t+|hi|तरतीब|f}}, {{t+|hi|नियम|m}}, {{t+|hi|क्रम|m}}, {{t+|hi|व्यवस्था|f}}
+* Hindi: {{t+|hi|तरतीब|f}}, {{t+|hi|नियम|m}}, {{t+|hi|क्रम|m}}, {{t+|hi|व्यवस्था|f}}, {{t+|hi|निजाम|m}}, {{t+|hi|निज़ाम|m}}, {{t+|hi|विधान|m}}, {{t|hi|तंज़ीम|f}}, {{t+|hi|तनजीम|f}}
 * Hungarian: {{t+|hu|rendezés}}, {{t+|hu|rend}}, {{t+|hu|elrendezés}}, {{t+|hu|sorrend}}
 * Icelandic: {{t+|is|röð|f}}
 * Indonesian: {{t+|id|aturan}}
@@ -285,7 +285,7 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 * German: {{t+|de|Ordnung|f}}
 * Greek: {{t+|el|σειρά|f}}, {{t+|el|τάξη|f}}
 * Hebrew: {{t+|he|סֵדֶר|tr=séder|sc=Hebr}}
-* Hindi: {{t+|hi|सुव्यवस्था|f}}
+* Hindi: {{t+|hi|सुव्यवस्था|f}}, {{t|hi|क्रम पद्धति|f}}, {{t+|hi|तरतीब|f}}, {{t|hi|तंज़ीम|f}}, {{t+|hi|तनजीम|f}}
 * Hungarian: {{t+|hu|rend}}, {{t|hu|rendezettség}}
 * Ido: {{t+|io|ordino}}
 * Indonesian: {{t+|id|aturan}}
@@ -351,7 +351,7 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 * German: {{t|de|Order|f}}, {{t+|de|Befehl|m}}, {{t+|de|Geheiß|n}}
 * Greek: {{t+|el|διαταγή|f}}
 *: Ancient: {{t|grc|ἐντολή|f}}, {{t|grc|κέλευσμα|n}}
-* Hindi: {{t+|hi|आदेश|m}}, {{t+|hi|आज्ञा|f}}, {{t+|hi|हुक्म|m}}
+* Hindi: {{t+|hi|आदेश|m}}, {{t+|hi|आज्ञा|f}}, {{t+|hi|हुक्म|m}}, {{t+|hi|दस्तूर|m}}, {{t|hi|फ़रमान|m}}, {{t+|hi|फरमान|m}}, {{t+|hi|अम्र|m}}
 * Hungarian: {{t+|hu|parancs}}, {{t+|hu|rendelet}}, {{t+|hu|utasítás}}, {{t+|hu|végzés}}
 * Indonesian: {{t+|id|perintah}}
 * Interlingua: {{t|ia|ordine}}
@@ -422,7 +422,7 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 * Georgian: {{t|ka|შეკვეთა}}, {{t|ka|გამოძახება}}
 * German: {{t+|de|Bestellung|f}}, {{t|de|Order|f}}
 * Greek: {{t+|el|παραγγελία|f}}
-* Hindi: {{t|hi|ऑर्डर|m}}
+* Hindi: {{t|hi|ऑर्डर|m}}, {{t|hi|सिफ़ारिश|f}}, {{t+|hi|तलब|f}}
 * Hungarian: {{t+|hu|rendelés}}, {{t+|hu|megrendelés}}
 * Icelandic: {{t+|is|pöntun|f}}
 * Indonesian: {{t+|id|pesanan}}
@@ -474,7 +474,7 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 * French: {{t+|fr|ordre|m}}
 * German: {{t+|de|Orden|m}}
 * Greek: {{t+|el|τάγμα|n}}
-* Hindi: {{t+|hi|वर्ग|m}}, {{t+|hi|श्रेणी|f}}
+* Hindi: {{t+|hi|वर्ग|m}}, {{t+|hi|श्रेणी|f}}, {{t+|hi|जमात|f}}
 * Hungarian: {{t+|hu|rend}}, {{t+|hu|szerzetesrend}}
 * Indonesian: {{t+|id|ordo}}
 * Interlingua: {{t|ia|ordine}}
@@ -536,6 +536,7 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 * French: {{t+|fr|ordre|m}}
 * Georgian: {{t|ka|ორდენი}}
 * German: {{t+|de|Orden|m}}
+* Hindi: {{t+|hi|निशान|m}}
 * Hungarian: {{t+|hu|rend}}, {{t+|hu|érdemrend}}, {{t+|hu|rendjel}}
 * Japanese: {{t+|ja|勲章|tr=くんしょう, kunshō|sc=Jpan}}
 * Kazakh: {{t|kk|орден}}
@@ -581,6 +582,7 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 * Georgian: {{t|ka|რიგი}}
 * German: {{t+|de|Ordnung|f}}, {{t+|de|Ordo|f}}
 * Hebrew: {{t+|he|סדרה|f|tr=sidrá}}
+* Hindi: {{t+|hi|क्रम|m}}
 * Hungarian: {{t+|hu|rend}}
 * Icelandic: {{t+|is|ættbálkur|m}}
 * Indonesian: {{t+|id|ordo}}
@@ -816,7 +818,7 @@ https://books.google.com/books?id=VJA5AQAAMAAJ| author=New York (State). Natural
 * German: {{t+|de|befehlen}}, {{t+|de|anordnen}}
 * Greek: {{t+|el|διατάζω}}, {{t+|el|διατάσσω}}
 *: Ancient: {{t|grc|ἐντέλλομαι}}, {{t|grc|κελεύω}}, {{t|grc|ἐπιτέλλω}}
-* Hindi: {{t|hi|आज्ञा देना}}, {{t|hi|आदेश देना}}, {{t|hi|हुक्म देना}}
+* Hindi: {{t|hi|आज्ञा देना}}, {{t|hi|आदेश देना}}, {{t|hi|हुक्म देना}}, {{t|hi|फ़रमान}}, {{t+|hi|फरमान}}, {{t+|hi|हुक्म}}, {{t+|hi|हुकम}}, {{t+|hi|आदेश}}
 * Hungarian: {{t+|hu|elrendel}}, {{t+|hu|megparancsol}}, {{t+|hu|parancsol}}, {{t+|hu|utasít}}
 * Icelandic: {{t+|is|skipa}}
 * Indonesian: {{t+|id|memerintah}}
