@@ -1,14 +1,14 @@
 ==English==
 
-===Etymology===
-From {{etyl|fro|en}} {{m|fr|desfait}}, from the verb {{m|fro|desfaire}} (compare modern French {{m|fr|défaire}}), from {{m|fro|des-}} + {{m|fro|faire}}, or possibly from {{etyl|VL.|en}} {{m|la|disfacio|disfaciō, disfacere|unmake}}, from {{etyl|la|en}} {{m|la|dis-}} + {{m|la|faciō}}.
-
 ===Pronunciation===
 * {{IPA|en|/dɪˈfiːt/}}
 * {{audio|en|en-us-defeat.ogg|Audio (US)}}
 * {{rhymes|en|iːt}}
 
-===Verb===
+===Etymology 1===
+From {{inh|en|enm|defeten}}, from {{der|en|enm|defet|t=disfigured|pos=past participle}} and {{m|enm|defet|t=defect|pos=noun}}, see Etymology 2 below.
+
+====Verb====
 {{en-verb}}
 
 # {{lb|en|transitive}} To [[overcome]] in [[battle]] or [[contest]].
@@ -22,16 +22,16 @@ From {{etyl|fro|en}} {{m|fr|desfait}}, from the verb {{m|fro|desfaire}} (compare
 #* {{rfdatek|en|Hallam}}
 #*: The escheators {{...}} '''defeated''' the right heir of his succession.
 
-====Derived terms====
+=====Derived terms=====
 * {{l|en|self-defeating}}
 
-====Synonyms====
+=====Synonyms=====
 * {{l|en|vanquish}}, {{l|en|overcome}}, {{l|en|beat}}
 
-====Hyponyms====
+=====Hyponyms=====
 * {{l|en|conquer}} {{qualifier|defeat and annex}}; {{l|en|rout}}, {{l|en|crush}}, {{l|en|cream}} {{qualifier|decisive}}; {{l|en|shutout}}, {{l|en|zilch}} {{qualifier|sports, to defeat without permitting any opposing score}}
 
-====Related terms====
+=====Related terms=====
 {{rel-top}}
 * {{l|en|defeasance}}
 * {{l|en|defeasible}}
@@ -42,7 +42,7 @@ From {{etyl|fro|en}} {{m|fr|desfait}}, from the verb {{m|fro|desfaire}} (compare
 * {{l|en|defeature}}
 {{rel-bottom}}
 
-====Translations====
+=====Translations=====
 {{trans-top|to overcome in battle or contest}}
 * Arabic: {{t|ar|غَلَبَ}}, {{t|ar|هَزَمَ}}
 *: Egyptian Arabic: {{t|arz|غلب|tr=ḡalab}}
@@ -130,7 +130,10 @@ From {{etyl|fro|en}} {{m|fr|desfait}}, from the verb {{m|fro|desfaire}} (compare
 {{trans-mid}}
 {{trans-bottom}}
 
-===Noun===
+===Etymology 2===
+From {{inh|en|enm|defet}}, from {{der|en|fr|deffet}}, {{m|fro|desfait}}, past participle of the verb {{m|fro|desfaire}} (compare modern French {{m|fr|défaire}}), from {{m|fro|des-}} + {{m|fro|faire}}.
+
+====Noun====
 {{en-noun|~}}
 
 # The act or instance of being defeated, of being overcome or vanquished; a [[loss]].
@@ -147,10 +150,10 @@ From {{etyl|fro|en}} {{m|fr|desfait}}, from the verb {{m|fro|desfaire}} (compare
 #* '''1599''', [[w:William Shakespeare|William Shakespeare]], ''[[w:Much Ado About Nothing|Much Ado About Nothing]]'', [[s:Much Ado About Nothing (Shakespeare)|act 4, scene 1]]:
 #*: and made '''defeat''' of her virginity
 
-====Antonyms====
+=====Antonyms=====
 * {{l|en|victory}}
 
-====Translations====
+=====Translations=====
 
 {{trans-top|the act of being defeated, of losing}}
 * Arabic: {{t|ar|هَزِيمَة|f}}
