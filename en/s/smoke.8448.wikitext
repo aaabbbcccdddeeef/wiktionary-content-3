@@ -3,10 +3,7 @@
 {{wikipedia}}
 
 ===Alternative forms===
-* {{l|en|smoak}} {{qualifier|obsolete}}
-
-===Etymology===
-From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivative of the verb {{m|ang|smocian||to smoke, emit smoke; fumigate}}, from {{inh|en|gem-pro|*smukōną||to smoke}}, ablaut derivative of {{inh|en|gem-pro|*smaukaną||to smoke}}, from {{inh|en|ine-pro|*(s)mewg-||to smoke}}. Related to {{cog|ang|smēocan||to smoke, emit smoke; fumigate}}, {{cog|fy|smoke||(to) smoke}}, {{cog|nl|smook||smoke}}, {{cog|gml|smôk||smoke}}, {{cog|nds-de|smoken||to smoke}}, dialectal {{cog|de|Schmauch||smoke}}, {{cog|bar|schmuckelen||to smell bad, reek}}.
+* {{alter|en|smoak||obsolete}}
 
 ===Pronunciation===
 * {{a|UK}} {{enPR|smōk}}, {{IPA|en|/sməʊk/}}
@@ -15,7 +12,10 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 * {{audio|en|LL-Q1860 (eng)-Back ache-smoke.wav|Audio (UK)}}
 * {{rhymes|en|əʊk}}
 
-===Noun===
+===Etymology 1===
+From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivative of the verb (see below). Related to {{cog|nl|smook|t=smoke}}, {{cog|gml|smôk|t=smoke}}, dialectal {{cog|de|Schmauch|t=smoke}}.
+
+====Noun====
 [[File:Sunday Fire 030313.jpg|thumb|Smoke (1)]]
 {{en-noun|~}}
 
@@ -40,10 +40,10 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 # {{lb|en|military|uncountable}} A [[particulate]] of [[solid]] or [[liquid]] particles dispersed into the air on the [[battlefield]] to degrade enemy ground or for [[aerial]] observation. Smoke has many uses--[[smokescreen|screening smoke]], [[signal]]ing smoke, smoke [[curtain]], smoke [[haze]], and smoke [[deception]]. Thus it is an artificial [[aerosol]].
 # {{lb|en|baseball|slang}} A [[fastball]].
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|cigarette}} {{l|en|cig}}, {{l|en|ciggy}}, {{l|en|cancer stick}}, {{l|en|coffin nail}}, {{l|en|fag}} {{qualifier|British|Australia}}
 
-====Derived terms====
+=====Derived terms=====
 {{der4|en
 |Big Smoke
 |holy smoke
@@ -77,10 +77,44 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 |Smokey the Bear
 |throwing smoke}}
 
-====Translations====
+=====Translations=====
 See {{section link|smoke/translations#Noun}}.
 
-===Verb===
+====Adjective====
+{{en-adj|?}}
+
+# Of the colour known as smoke.
+# Made of or with smoke.
+#* {{quote-book|en|year=2006|author={{w|Edwin Black}}| title=Internal Combustion| chapter=1| url=http://openlibrary.org/works/OL4103950W| passage=If successful, Edison and Ford—in 1914—would move society away from the{{...}}hazards of gasoline cars: air and water pollution, noise and noxiousness, constant coughing and the undeniable rise in cancers caused by '''smoke''' exhaust particulates.}}
+
+=====Translations=====
+{{trans-top|of the colour known as smoke}}
+* Finnish: {{t-simple|fi|savunharmaa|langname=Finnish}}
+* Romanian: {{t-simple|ro|fumuriu|langname=Romanian|interwiki=1}}
+{{trans-mid}}
+* Russian: {{t+|ru|ды́мчатый|m}}
+{{trans-bottom}}
+
+=====Related terms=====
+{{rel-top3}}
+* {{l|en|fumaric acid}}
+* {{l|en|fumarole}}
+* {{l|en|fumet}}
+* {{l|en|fumigate}}
+{{mid3}}
+* {{l|en|fumitory}}
+* {{l|en|perfume}}
+* {{l|en|sfumato}}
+{{mid3}}
+* {{l|en|smog}}
+* {{l|en|smoko}}
+* {{l|en|smoky quartz}}
+{{rel-bottom}}
+
+===Etymology 2===
+From {{inh|en|enm|smoken}}, from {{inh|en|ang|smocian|t=to smoke, emit smoke; fumigate}}, from {{inh|en|gmw-pro|*smokōn}}, from {{inh|en|gem-pro|*smukōną|t=to smoke}}, ablaut derivative of {{der|en|gem-pro|*smaukaną|t=to smoke}}, from {{der|en|ine-pro|*(s)mewg-|t=to smoke}}. Cognate with {{cog|stq|smookje|t=to smoke}}, {{cog|fy|smoke|t=to smoke}}, {{cog|nds|smöken|t=to smoke}}, {{cog|nds-de|smoken|t=to smoke}}. Related also to {{cog|ang|smēocan|t=to smoke, emit smoke; fumigate}}, {{cog|bar|schmuckelen|t=to smell bad, reek}}.
+
+====Verb====
 {{en-verb|smok}}
 
 # {{lb|en|transitive}} To inhale and exhale the smoke from a burning [[cigarette]], [[cigar]], [[pipe]], etc.
@@ -135,10 +169,10 @@ See {{section link|smoke/translations#Noun}}.
 # {{lb|en|transitive|US|_|military slang}} To punish (a person) for a minor offense by excessive physical exercise.
 # {{lb|en|transitive}} To cover (a [[key]] [[blank]]) with [[soot]] or [[carbon]] to aid in seeing the marks made by [[impression]]ing.
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|to inhale and exhale smoke from a burning cigarette}} have a smoke
 
-====Derived terms====
+=====Derived terms=====
 {{der4|en
 |chain-smoke
 |smoke around
@@ -146,10 +180,10 @@ See {{section link|smoke/translations#Noun}}.
 |smoke out
 |smoking}}
 
-====Descendants====
+=====Descendants=====
 * {{desc|nl|smoken}}
 
-====Translations====
+=====Translations=====
 {{trans-top|to inhale and exhale smoke from a burning cigarette}}
 * Abkhaz: {{t-needed|ab}}
 * Albanian: {{t|sq|pi duhan}}, {{t-simple|sq|pi|langname=Albanian|interwiki=1}}
@@ -411,37 +445,6 @@ See {{section link|smoke/translations#Noun}}.
 {{trans-mid}}
 * Tupinambá: {{t-check|tpn|timbora}}, {{t-check|tpn|petymbu}}
 {{trans-bottom}}
-
-===Adjective===
-{{en-adj|?}}
-
-# Of the colour known as smoke.
-# Made of or with smoke.
-#* {{quote-book|en|year=2006|author={{w|Edwin Black}}| title=Internal Combustion| chapter=1| url=http://openlibrary.org/works/OL4103950W| passage=If successful, Edison and Ford—in 1914—would move society away from the{{...}}hazards of gasoline cars: air and water pollution, noise and noxiousness, constant coughing and the undeniable rise in cancers caused by '''smoke''' exhaust particulates.}}
-
-====Translations====
-{{trans-top|of the colour known as smoke}}
-* Finnish: {{t-simple|fi|savunharmaa|langname=Finnish}}
-* Romanian: {{t-simple|ro|fumuriu|langname=Romanian|interwiki=1}}
-{{trans-mid}}
-* Russian: {{t+|ru|ды́мчатый|m}}
-{{trans-bottom}}
-
-===Related terms===
-{{rel-top3}}
-* {{l|en|fumaric acid}}
-* {{l|en|fumarole}}
-* {{l|en|fumet}}
-* {{l|en|fumigate}}
-{{mid3}}
-* {{l|en|fumitory}}
-* {{l|en|perfume}}
-* {{l|en|sfumato}}
-{{mid3}}
-* {{l|en|smog}}
-* {{l|en|smoko}}
-* {{l|en|smoky quartz}}
-{{rel-bottom}}
 
 ===See also===
 {{top3}}
