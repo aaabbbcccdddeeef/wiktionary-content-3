@@ -340,7 +340,6 @@ From {{inh|non|gem-pro|*etaną}}, akin to {{cog|ang|etan}} ( > {{cog|en|eat}}), 
 {{pi-adj}}
 
 # this
-# this one
 
 ====Declension====
 {{pi-decl-noun|eta|g=m
@@ -374,7 +373,48 @@ From {{inh|non|gem-pro|*etaną}}, akin to {{cog|ang|etan}} ( > {{cog|en|eat}}), 
 |genp_mod=replace|genp=etesaṃ|genp2=etesānaṃ
 }}
 
-===Usage notes===
+====Usage notes====
+The case form {{l|pi|etad}} is only used before vowels and as the prefixed combining form.
+
+====Derived terms====
+* {{lb|pi|pronoun}} etā
+
+===Pronoun===
+{{pi-pronoun|m}}
+
+# this one
+
+====Declension====
+<!-- Same as masculine of adjective -->
+{{pi-decl-noun|eta|g=m
+|novoc=true
+|noms_mod=replace|noms=eso|noms2=esa
+|dats_mod=replace|dats=etassa
+|abls_mod=replace|abls=etasmā|abls2=etamhā
+|locs_mod=replace|locs=etasmiṃ|locs2=etamhi
+|nomp_mod=replace|nomp=ete
+|datp_mod=replace|datp=etesaṃ|datp2=etesānaṃ
+|genp_mod=replace|genp=etesaṃ|genp2=etesānaṃ
+}}
+
+===Pronoun===
+{{pi-pronoun|n}}
+
+# this one
+
+====Declension====
+<!-- Same as neuter of adjective -->
+{{pi-decl-noun|eta|g=n
+|novoc=true
+|noms=etad|accs=etad
+|dats_mod=replace|dats=etassa
+|abls_mod=replace|abls=etasmā|abls2=etamhā
+|locs_mod=replace|locs=etasmiṃ|locs2=etamhi
+|datp_mod=replace|datp=etesaṃ|datp2=etesānaṃ
+|genp_mod=replace|genp=etesaṃ|genp2=etesānaṃ
+}}
+
+====Usage notes====
 The case form {{l|pi|etad}} is only used before vowels and as the prefixed combining form.
 
 ===References===
