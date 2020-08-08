@@ -29,31 +29,37 @@ From {{inh|gsw|goh|bringan}}, from {{inh|gsw|gem-pro|*bringaną}}. Compare {{cog
 ==Danish==
 
 ===Pronunciation===
-* {{IPA|da|/brenɡə/|[ˈb̥ʁæŋə]}}
+* {{IPA|da|/brenɡə/|[ˈb̥ʁæŋə]|[ˈb̥ʁæŋŋ̩]}}
 
 ===Etymology 1===
-From {{der|da|non|bringa}}.
+From {{der|da|non|bringa}}, from {{inh|da|gem-pro|*bringô}}, cognate with {{cog|sv|bringa}}, {{cog|ang|bringádl||epilepsy}}.
 
 ====Noun====
 {{da-noun|n|r}}
 
-# [[chest]]
+# {{l|en|chest}} {{q|of a larger animal, especially horses}}
 
 =====Inflection=====
-{{da-noun-infl|n|r}}
+{{da-decl|n|r}}
+
+=====References=====
+* {{R:DDO|bringe,1}}
 
 ===Etymology 2===
-Borrowed from {{bor|da|gml|bringen}}, {{m|gml|brengen}}, from {{der|da|osx|brengian}}, {{m|osx|bringan}}, from {{der|da|gem-pro|*bringaną}}, from {{der|da|ine-pro|*bʰrenk-}}. Compare {{cog|nl|brengen}}, {{cog|de|bringen}}, {{cog|en|bring}}, {{cog|fy|bringe}}.
+Borrowed from {{bor|da|gml|bringen|bringen, brengen}}, from {{der|da|gem-pro|*bringaną}}, cognate with {{cog|en|bring}}, {{cog|de|bringen}}, {{cog|nl|brengen}}, {{cog|got|𐌱𐍂𐌹𐌲𐌲𐌰𐌽}}. {{cog|no|bringe}} and {{cog|sv|bringa}} are also borrowed from Low German.
 
 ====Verb====
-{{da-verb|bring|bringe|bringer|bragte|har|bragt}}
+{{head|da|verb|past tense|bragte|past participle|bragt}}
 
-# [[bring]]
-# to [[publish]] something (not necessarily [[fresh news]]) in the [[mass media]]
+# to {{l|en|bring}}
+# to {{l|en|publish}} {(q|in the [[mass media]]}}
 #: {{ux|da|Avisen '''bragte''' en historie om nogle vindruer.|The newspaper '''published''' a story about some grapes.}}
 
 ====Inflection====
-{{da-conj|bring||er|bragte|h|bragt||||}}
+{{da-conj|bring||er|bragte|h|bragt}}
+
+=====References=====
+* {{R:DDO|bringe,2}}
 
 ----
 
