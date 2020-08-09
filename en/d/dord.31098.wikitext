@@ -53,20 +53,18 @@ From {{inh|ga|sga|dord|t=buzzing, humming, droning, intoning}}.
 
 ----
 
-==Old Irish==
+==Middle Irish==
 
 ===Etymology===
 From {{inh|sga|cel-pro|*dor-d-}}, from {{onomatopoeic|sga|title=imitative}} {{der|sga|ine-pro|-}} root {{m|ine-pro|*dʰer-}}, {{m|ine-pro|*dʰrēn-||drone; to murmur}}, see also {{cog|en|drone}}, {{m|en|dor}} and {{cog|grc|θρῆνος||dirge, lament}}.
 
 ===Noun===
-{{sga-noun}}
+{{mga-noun}}
 
 # [[buzz]], [[hum]], [[drone]]
 
 ====Inflection====
-{{sga-decl-noun
-|class=o-?
-}}
+{{rfinfl|mga|noun}}
 
 ====Derived terms====
 * {{l|sga|dordaid}}
@@ -75,7 +73,7 @@ From {{inh|sga|cel-pro|*dor-d-}}, from {{onomatopoeic|sga|title=imitative}} {{de
 * {{desc|ga|dord}}
 
 ===Mutation===
-{{sga-mutation|d|ord}}
+{{mga-mutation|d|ord}}
 
 ===References===
 * {{R:DIL|18319}}
