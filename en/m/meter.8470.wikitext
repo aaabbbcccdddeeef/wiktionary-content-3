@@ -3,10 +3,10 @@
 {{wikipedia|Meter (disambiguation)|each of various senses}}
 
 ===Alternative forms===
-* {{l|en|metre}} (Commonwealth English for noun senses 4 to 7, rare for other senses)
+* {{alter|en|metre||Commonwealth English for noun senses 4 to 7, rare for other senses}}
 
 ===Etymology===
-Borrowed from {{bor|en|fr|mètre}}, from {{der|en|grc|μέτρον||measure}}.
+Borrowed from {{bor|en|fr|mètre}}, from {{der|en|grc|μέτρον|t=measure}}.
 
 ===Pronunciation===
 * {{a|GA}} {{IPA|en|/ˈmitəɹ/|[ˈmiɾɚ]}}
@@ -34,39 +34,37 @@ Borrowed from {{bor|en|fr|mètre}}, from {{der|en|grc|μέτρον||measure}}.
 #: {{rfquotek|en|Robynson (More's Utopia)}}
 
 ====Derived terms====
-{{rel-top3|Terms derived from ''meter''}}
-* {{l|en|altimeter}}
-* {{l|en|ammeter}}
-* {{l|en|centimeter}}
-* {{l|en|common meter}}
-* {{l|en|cubic meter}}
-* {{l|en|electricity meter}}
-* {{l|en|feed the meter}}
-* {{l|en|flowmeter}}
-* {{l|en|gas meter}}
-* {{l|en|kilometer}}
-{{rel-mid3}}
-* {{l|en|linear meter}}
-* {{l|en|long meter}}
-* {{l|en|metric}}
-* {{l|en|metrical}}
-* {{l|en|millimeter}}
-* {{l|en|multimeter}}
-* {{l|en|odometer}}
-* {{l|en|parking meter}}
-* {{l|en|pedometer}}
-{{rel-mid3}}
-* {{l|en|pentameter}}
-* {{l|en|short meter}}
-* {{l|en|smart meter}}
-* {{l|en|spectropolarimeter}}
-* {{l|en|speedometer}}
-* {{l|en|square meter}}
-* {{l|en|tachymeter}}
-* {{l|en|tetrameter}}
-* {{l|en|voltmeter}}
-* {{l|en|water meter}}
-{{rel-bottom}}
+{{col4|en
+|altimeter
+|ammeter
+|centimeter
+|common meter
+|cubic meter
+|electricity meter
+|feed the meter
+|flowmeter
+|gas meter
+|kilometer
+|linear meter
+|long meter
+|metric
+|metrical
+|millimeter
+|multimeter
+|odometer
+|parking meter
+|pedometer
+|pentameter
+|short meter
+|smart meter
+|spectropolarimeter
+|speedometer
+|square meter
+|tachymeter
+|tetrameter
+|voltmeter
+|water meter
+}}
 
 ====Translations====
 {{trans-top|measuring instrument}}
@@ -76,7 +74,7 @@ Borrowed from {{bor|en|fr|mètre}}, from {{der|en|grc|μέτρον||measure}}.
 * Bulgarian: {{t|bg|измери́телен у́ред|m}}, {{t+|bg|броя́ч|m}}
 * Catalan: {{t|ca|comptador|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|計量表|sc=Hani}}, {{t+|cmn|计量表|tr=jìliángbiǎo|sc=Hani}}
+*: Mandarin: {{t+|cmn|計量表}}, {{t+|cmn|计量表|tr=jìliángbiǎo}}
 * Czech: {{t+|cs|metr|m}}, {{t|cs|měřič|m}}
 * Danish: {{t+|da|måler|c}}
 * Dutch: {{t+|nl|meter|m}}, {{t+|nl|teller|m}}
@@ -110,12 +108,12 @@ Borrowed from {{bor|en|fr|mètre}}, from {{der|en|grc|μέτρον||measure}}.
 * Persian: {{t|fa|اندازه‌گیر|tr=andâzegir}}, {{t+|fa|سنجه|tr=sanje}}
 * Polish: {{t+|pl|miernik|m}}
 * Portuguese: {{t+|pt|contador|m}}
-* Romanian: {{t+|ro|metru|m}} (instrument), {{t+|ro|contor|n}}
+* Romanian: {{t+|ro|metru|m}} {{q|instrument}}, {{t+|ro|contor|n}}
 * Russian: {{t+|ru|счётчик|m}}, {{t+|ru|измери́тель|m}}
 * Scottish Gaelic: {{t|gd|inneal-tomhais|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|ме̏тар|sc=Cyrl}}
-*: Roman: {{t+|sh|mȅtar}}
+*: Cyrillic: {{t|sh|ме̏тар|m}}
+*: Roman: {{t+|sh|mȅtar|m}}
 * Slovak: {{t|sk|merač|m}}
 * Slovene: {{t|sl|števec|m}}
 * Spanish: {{t|es|medidor|m}}, {{t+|es|contador|m}}, {{t+|es|metro|m}}
@@ -159,10 +157,10 @@ Borrowed from {{bor|en|fr|mètre}}, from {{der|en|grc|μέτρον||measure}}.
 * Irish: {{t|ga|aiste|f}}, {{t|ga|meadaracht|f}}
 {{trans-mid}}
 * Japanese: {{t|ja|韻律|tr=いんりつ, inritsu}}
-* Khmer: {{t+|km|បាទ|tr=baat|sc=Khmr}}, {{t+|km|មាត្រា|tr=mietraa|sc=Khmr}}
-* Latin: {{t+|la|metrum}}
+* Khmer: {{t+|km|បាទ|tr=baat}}, {{t+|km|មាត្រា|tr=mietraa}}
+* Latin: {{t+|la|metrum|n}}
 * Macedonian: {{t|mk|ме́тар|m}}
-* Persian: {{t+|fa|وزن|tr=vazn|sc=fa-Arab}}, {{t+|fa|بحر|tr=bahr|sc=fa-Arab}}
+* Persian: {{t+|fa|وزن|tr=vazn}}, {{t+|fa|بحر|tr=bahr}}
 * Russian: {{t+|ru|разме́р|m}}, {{t+|ru|ритм|m}}
 * Spanish: {{t+|es|métrica|f}}
 {{trans-bottom}}
@@ -208,11 +206,13 @@ From {{inh|an|la|mittere}}, present active infinitive of {{m|la|mittō}}.
 {{da-noun-infl|en||ne}}
 
 ====Derived terms====
-* {{l|da|centimeter}}
-* {{l|da|kilometer}}
-* {{l|da|kvadratmeter}}
-* {{l|da|millimeter}}
-* {{l|da|sekundmeter}}
+{{col3|da
+|centimeter
+|kilometer
+|kvadratmeter
+|millimeter
+|sekundmeter
+}}
 
 ===References===
 * {{R:Den Danske Ordbog}}
@@ -237,15 +237,17 @@ From {{af|nl|meten|-er|id2=agent noun}}.
 # [[#English|meter]] {{gloss|device that measures things or indicates a physical quantity}}
 
 =====Derived terms=====
-* {{l|nl|ampèremeter}}
-* {{l|nl|energiemeter}}
-* {{l|nl|krachtmeter}}
-* {{l|nl|landmeter}}
-* {{l|nl|snelheidsmeter}}
-* {{l|nl|spanningsmeter}}
-* {{l|nl|stroommeter}}
-* {{l|nl|thermometer}}
-* {{l|nl|voltmeter}}
+{{col3|nl
+|ampèremeter
+|energiemeter
+|krachtmeter
+|landmeter
+|snelheidsmeter
+|spanningsmeter
+|stroommeter
+|thermometer
+|voltmeter
+}}
 
 ===Etymology 2===
 Borrowed from {{bor|nl|fr|mètre}}.
@@ -256,21 +258,20 @@ Borrowed from {{bor|nl|fr|mètre}}.
 # [[#English|meter]], [[metre]] {{gloss|unit of distance}}
 
 =====Derived terms=====
-{{der-top}}
-* {{l|nl|nanometer}}
-* {{l|nl|micrometer}}
-* {{l|nl|millimeter}}
-* {{l|nl|centimeter}}
-* {{l|nl|decimeter}}
-* {{l|nl|decameter}}
-* {{l|nl|hectometer}}
-* {{l|nl|kilometer}}
-* {{l|nl|myriameter}}
-{{der-mid}}
-* {{l|nl|kubieke meter}}
-* {{l|nl|newtonmeter}}
-* {{l|nl|vierkante meter}}
-{{der-bottom}}
+{{col4|nl
+|nanometer
+|micrometer
+|millimeter
+|centimeter
+|decimeter
+|decameter
+|hectometer
+|kilometer
+|myriameter
+|kubieke meter
+|newtonmeter
+|vierkante meter
+}}
 
 =====Descendants=====
 * {{desc|af|meter}}
@@ -292,7 +293,7 @@ From {{inh|nl|dum|meter}}, from {{m|dum|metrijn}}, from {{der|nl|la|matrīna}}.
 ==Galician==
 
 ===Etymology===
-From Old Galician and {{inh|gl|roa-opt|meter}}, from {{inh|gl|la|mittō|mittō, mittēre|t=to send, put}}, probably from {{der|gl|ine-pro|*mey-|*meyth₂-}}, {{m|ine-pro|*mith₂-||to exchange, remove}}.
+From Old Galician and {{inh|gl|roa-opt|meter}}, from {{inh|gl|la|mittō|mittō, mittēre|t=to send, put}}, probably from {{der|gl|ine-pro|*mey-|*meyth₂-}}, {{m|ine-pro|*mith₂-|t=to exchange, remove}}.
 
 ===Pronunciation===
 * {{IPA|gl|/meˈteɾ/}}
@@ -325,10 +326,11 @@ From Old Galician and {{inh|gl|roa-opt|meter}}, from {{inh|gl|la|mittō|mittō, 
 * {{hyphenation|id|mè|têr}}
 
 ===Etymology 1===
-From {{bor|id|nl|meter}}, {{m|nl|meten}} from {{der|id|dum|mēten}}, from {{der|id|odt|metan}}, from {{der|id|gem-pro|*metaną}}, from {{der|id|ine-pro|*med-||to measure}}. {{doublet|id|metrum}}.
+From {{bor|id|nl|meter}}, {{m|nl|meten}} from {{der|id|dum|mēten}}, from {{der|id|odt|metan}}, from {{der|id|gem-pro|*metaną}}, from {{der|id|ine-pro|*med-|t=to measure}}. {{doublet|id|metrum}}.
 
 ====Noun====
 {{id-noun|head=mètêr}}
+
 # {{l|en|meter}}, a device that measures things.
 
 ===Etymology 2===
@@ -336,11 +338,12 @@ From {{bor|id|nl|meter}}, from {{der|id|fr|mètre}}, from {{der|id|la|metrum}}, 
 
 ====Noun====
 {{id-noun|head=mètêr}}
+
 # {{l|en|meter}}, {{l|en|metre}}, the [[base unit]] of [[length]] in the [[International System of Units]] ([[SI]]).
 
 ====Related terms====
-{{rel4|id|
-| metrum
+{{col4|id|
+|metrum
 |}}
 
 ===Etymology 3===
@@ -348,6 +351,7 @@ From {{bor|id|nl|meter}}, from {{der|id|dum|meter}}, from {{m|dum|metrijn}}, fro
 
 ====Noun====
 {{id-noun|head=mètêr}}
+
 # {{l|en|godmother}}.
 
 ===Further reading===
@@ -372,6 +376,9 @@ From {{inh|lld|la|mittere}}, present active infinitive of {{m|la|mittō}}.
 
 ==Latin==
 
+===Pronunciation===
+* {{la-IPA|mēter}}
+
 ===Verb===
 {{la-verb-form|mēter}}
 
@@ -383,7 +390,7 @@ From {{inh|lld|la|mittere}}, present active infinitive of {{m|la|mittō}}.
 
 ===Etymology===
 {{PIE root|mhn|meh₁}}
-From {{bor|mhn|fr|mètre}}, from {{der|mhn|la|metrum||a measure}}, from {{der|mhn|grc|μέτρον}}.
+From {{bor|mhn|fr|mètre}}, from {{der|mhn|la|metrum|t=a measure}}, from {{der|mhn|grc|μέτρον}}.
 
 ===Noun===
 {{mhn-noun|m|meter}}
@@ -443,10 +450,10 @@ From {{bor|mhn|fr|mètre}}, from {{der|mhn|la|metrum||a measure}}, from {{der|mh
 ==Portuguese==
 
 ===Alternative forms===
-* {{l|pt|metter}} {{qualifier|obsolete}}
+* {{alter|pt|metter||obsolete}}
 
 ===Etymology===
-From {{inh|pt|roa-opt|meter}}, from {{inh|pt|la|mittere}}, present active infinitive of {{m|la|mittō||I send, I put}}, probably from {{der|pt|ine-pro|*mey-|*meyth₂-}}, {{m|ine-pro|*mith₂-||to exchange, remove}}.
+From {{inh|pt|roa-opt|meter}}, from {{inh|pt|la|mittere}}, present active infinitive of {{m|la|mittō|t=I send, I put}}, probably from {{der|pt|ine-pro|*mey-|*meyth₂-}}, {{m|ine-pro|*mith₂-|t=to exchange, remove}}.
 
 ===Pronunciation===
 * {{a|PT}} {{IPA|pt|/mɨˈteɾ/}}
@@ -455,10 +462,11 @@ From {{inh|pt|roa-opt|meter}}, from {{inh|pt|la|mittere}}, present active infini
 ===Verb===
 {{pt-verb|met|er}}
 
-# to [[put]]
-# to insert
-# (reflexive) to [[meddle]], [[interfere]]
-# (vulgar) to [[fuck]], to [[screw]]
+# {{lb|pt|transitive}} to [[put]]
+# {{lb|pt|transitive}} to [[insert]]
+# {{lb|pt|reflexive}} to [[meddle]], [[interfere]]
+# {{lb|pt|transitive|vulgar}} to [[fuck]], [[screw]]
+# {{pt-verb-form-of|meter}}
 
 ====Conjugation====
 {{pt-conj|met|er}}
@@ -469,6 +477,13 @@ From {{inh|pt|roa-opt|meter}}, from {{inh|pt|la|mittere}}, present active infini
 
 ====Quotations====
 {{seeCites|pt}}
+
+===Further reading===
+* {{R:Aulete}}
+* {{R:DAN}}
+* {{R:pt:Infopédia}}
+* {{R:Michaelis}}
+* {{R:Priberam}}
 
 ----
 
@@ -502,7 +517,7 @@ From {{inh|pt|roa-opt|meter}}, from {{inh|pt|la|mittere}}, present active infini
 ==Spanish==
 
 ===Etymology===
-From {{inh|es|osp|meter}}, from {{inh|es|la|mittere}}, present active infinitive of {{m|la|mittō||I send, I put}}, probably from {{der|es|ine-pro|*mey-|*meyth₂-}}, {{m|ine-pro|*mith₂-||to exchange, remove}}. Cognate with {{cog|en|mess}}.
+From {{inh|es|osp|meter}}, from {{inh|es|la|mittere}}, present active infinitive of {{m|la|mittō|t=I send, I put}}, probably from {{der|es|ine-pro|*mey-|*meyth₂-}}, {{m|ine-pro|*mith₂-|t=to exchange, remove}}. Cognate with {{cog|en|mess}}.
 
 ===Pronunciation===
 * {{es-IPA}}
@@ -510,40 +525,39 @@ From {{inh|es|osp|meter}}, from {{inh|es|la|mittere}}, present active infinitive
 ===Verb===
 {{es-verb|met|er}}
 
-# to [[put]], to [[insert]]
-# to [[score]] {{qual|sports}}
-#: {{ux|es|'''meter''' un gol|inline=1|to '''score''' a goal}}
+# to [[put]], [[insert]]
+# {{lb|es|sports}} to [[score]]
+#: {{uxi|es|'''meter''' un gol|to '''score''' a goal}}
 # to [[make]] {{qual|noise}}
 # to [[cram]], to [[stuff]], to [[stick]], to [[shove]]
 # {{lb|es|reflexive}} to [[meddle]], [[interfere]]
+#: {{syn|es|inmiscuirse|es|meter la nariz}}
 
 ====Conjugation====
 {{es-conj-er|met|combined=1}}
 {{es-conj-er|met|ref=yes}}
 
-====Synonyms====
-* (''to meddle, interfere'') {{l|es|inmiscuirse}}
-* (''to meddle, interfere'') {{l|es|meter la nariz}}
-
 ====Derived terms====
-* {{l|es|meter la cuchara}}
-* {{l|es|meter la nariz}}
-* {{l|es|meter la pata}}
-* {{l|es|metérsela}}
+{{col4|es
+|meter la cuchara
+|meter la nariz
+|meter la pata
+|metérsela
+}}
 
 ====Related terms====
-{{top2}}
-* {{l|es|metete}}
-* {{l|es|metiche}}
-* {{l|es|metido}}
-* {{l|es|misión}}
-* {{l|es|admitir}}
-* {{l|es|cometer}}
-* {{l|es|emitir}}
-* {{l|es|omitir}}
-* {{l|es|permitir}}
-* {{l|es|prometer}}
-{{bottom}}
+{{col4|es
+|metete
+|metiche
+|metido
+|misión
+|admitir
+|cometer
+|emitir
+|omitir
+|permitir
+|prometer
+}}
 
 ----
 
@@ -561,7 +575,7 @@ From {{inh|es|osp|meter}}, from {{inh|es|la|mittere}}, present active infinitive
 # a [[#English|meter]]; a device that measures things.
 
 ====Usage notes====
-Indefinite form plural could also be [[metrar]]/[[metrars]]
+Indefinite form plural could also be {{m|sv|metrar}}/{{m|sv|metrars}}
 
 ====Declension====
 {{sv-noun-irreg-c|2=metern|3=meter|4=meterna}}
