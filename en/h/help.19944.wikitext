@@ -85,8 +85,8 @@ From {{inh|en|enm|help}}, from {{inh|en|ang|help|t=help, aid, assistance, relief
 *: Ancient: {{t|grc|βοήθεια|f}}, {{t|grc|ὠφέλεια|f}}
 * Haitian Creole: {{t|ht|èd}}
 * Hawaiian: {{t|haw|kōkua}}
-* Hebrew: {{t+|he|עזרה|f|tr=ezrá}}, {{t|he|סיוע|m|tr=si'yua}}
-* Hindi: {{t+|hi|मदद|f}}, {{t+|hi|सहायता}}, {{t+|hi|उपकार}}
+* Hebrew: {{t+|he|עֶזְרָה|f|tr=ʿezrá}}, {{t|he|סיוע|m|tr=si'yua}}
+* Hindi: {{t+|hi|मदद|f}}, {{t+|hi|सहायता|f|tr=sahāytā}}<!-- manual translit required-->, {{t+|hi|उपकार|m}}
 * Hungarian: {{t+|hu|segítség}}
 * Icelandic: {{t+|is|hjálp|f}}, {{t+|is|aðstoð|f}}, {{t+|is|fulltingi|n}} {{qualifier|archaic}}
 * Ido: {{t+|io|helpo}}
@@ -129,7 +129,9 @@ From {{inh|en|enm|help}}, from {{inh|en|ang|help|t=help, aid, assistance, relief
 *: Campidanese: {{t|sc|aggiudu}}
 *: Logudorese: {{t|sc|ayudu}}, {{t|sc|azudu}}
 * Sassarese: {{t|sdc|aggiuddu}}
-* Serbo-Croatian: {{t|sh|по̏мо̄ћ|f}}, {{t+|sh|pȍmōć|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|по̏мо̄ћ|f}}
+*: Roman: {{t|sh|pȍmōć|f}}
 * Slovak: {{t|sk|pomoc|f}}
 * Slovene: {{t+|sl|pomoč|f}}
 * Sorbian:
@@ -143,10 +145,10 @@ From {{inh|en|enm|help}}, from {{inh|en|ang|help|t=help, aid, assistance, relief
 * Tamil: {{t+|ta|உதவி}}
 * Tatar: {{t+|tt|ярдәм}}
 * Telugu: {{t+|te|సహాయము}}, {{t+|te|సాయము}}
-* Thai: {{t+|th|ความช่วยเหลือ|tr=kwaam-chûai-lʉ̌ʉa}}
+* Thai: {{t+|th|ความช่วยเหลือ}}
 * Turkish: {{t+|tr|yardım}}
 * Turkmen: {{t|tk|ýardam}}, {{t|tk|kömek}}
-* Ukrainian: {{t|uk|допомо́га|f}}
+* Ukrainian: {{t|uk|допомо́га|f}}, {{t|uk|по́міч|f}}
 * Urdu: {{t|ur|مدد|f|tr=madad}}
 * Uyghur: {{t|ug|ياردەم}}
 * Uzbek: {{t+|uz|yordam}}, {{t+|uz|bermoq}}, {{t+|uz|koʻmak}}
