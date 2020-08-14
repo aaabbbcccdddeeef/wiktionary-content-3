@@ -701,33 +701,42 @@ From {{inh|af|nl|markt}}.
 
 ==Danish==
 
-===Etymology===
-From {{der|da|non|mǫrk}}.
-
 ===Pronunciation===
-* {{IPA|da|/mark/|[mɑːɡ̊]}}
+* {{IPA|da|/mark/|[ˈmɑːɡ̊]}}
 
-===Noun===
+===Etymology 1===
+From {{der|da|non|mǫrk||wilderness}}, from {{inh|da|gem-pro|*markō||border, marker}}, cognate with {{cog|en|mark}}, {{cog|de|Mark||border land, marches}}
+
+====Noun====
 {{da-noun|en|er}}
 
-# [[field]] {{gloss|wide, open space used to grow crops or to hold farm animals}}
+# {{l|en|field}} {{q|wide, open space used to grow crops or to hold farm animals}}
+#: {{synonyms|da|ager}}
 
-====Inflection====
-{{da-noun-infl|en|er}}
+=====Inflection=====
+{{da-decl|en|er}}
 
-===Noun===
+====Further reading====
+* {{R:DDO|mark,1}}
+
+===Etymology 2===
+From {{der|da|non|mǫrk}}, from {{inh|da|gem-pro|*markō||border, marker}}, originally the same word as the previous one.
+
+====Noun====
 {{da-noun|en}}
 
-# {{l|en|mark}} {{gloss|unit of currency}}
+# {{lb|da|historical}} {{l|en|mark}} {{q|unit of currency, in Denmark from the Middle Ages until 1875, in Germany and Finland until 2002}}
 
-====Inflection====
-{{da-noun-infl|en}}
+=====Inflection=====
+{{da-decl|en}}
 
-====Derived terms====
+=====Derived terms=====
 * {{l|da|finmark}}
 * {{l|da|D-mark}}
+* {{l|da|rigsmark}}
 
-===Further reading===
+====Further reading====
+* {{R:DDO|mark,2}}
 * {{pedialite|lang=da}}
 * {{pedialite|Mark (møntenhed)|lang=da}}
 
