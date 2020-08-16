@@ -121,7 +121,7 @@ For the semantic development, compare {{cog|la|robustus||tough}} from {{m|la|rob
 * Friulian: {{t|fur|vêr}}
 * Galician: {{t|gl|verdadeiro}}
 * Georgian: {{t|ka|ნამდვილი}}, {{t|ka|მართალი}}, {{t|ka|ჭეშმარიტი}}
-* German: {{t+|de|wahr}}, {{t+|de|echt}}
+* German: {{t+|de|wahr}}, {{t+|de|echt}}, {{t+|de|richtig}}, {{t+|de|zutreffend}}, {{t|de|stimmig}}, {{t+|de|wahrheitsgemäß}}, {{t+|de|wahrhaftig}}, {{t+|de|korrekt}}
 * Gothic: {{t|got|𐍃𐌿𐌽𐌾𐌹𐍃}}
 * Greek: {{t+|el|αληθινός}}
 *: Ancient: {{t|grc|ἀληθής}}, {{t|grc|ἀληθινός}}, {{t|grc|ὤν}}, {{t|grc|ἐτεός}}, {{t|grc|ἐτήτυμος}} {{qualifier|poetic}}, {{t|grc|ἔτυμος}} {{qualifier|poetic}}, {{t|grc|ὀρθός}}
@@ -251,7 +251,7 @@ For the semantic development, compare {{cog|la|robustus||tough}} from {{m|la|rob
 * Dutch: {{t+|nl|echt}}
 * Finnish: {{t+|fi|oikea}}
 * Georgian: {{t|ka|ნამდვილი}}
-* German: {{t+|de|echt}}
+* German: {{t+|de|echt}}, {{t+|de|wahr}}, {{t+|de|eigentlich}}, {{t+|de|tatsächlich}}, {{t+|de|effektiv}}
 * Greek: {{t+|el|αληθινός}}, {{t+|el|αυθεντικός|m}}
 * Hungarian: {{t+|hu|igazi}}, {{t+|hu|valódi}}, {{t+|hu|eredeti}}
 * Irish: {{t|ga|fíor}}
@@ -281,7 +281,7 @@ For the semantic development, compare {{cog|la|robustus||tough}} from {{m|la|rob
 * Armenian: {{t+|hy|իրական}}
 * Dutch: {{t+|nl|waar}}
 * Finnish: {{t+|fi|todellinen}}
-* German: {{t+|de|wahr}}
+* German: {{t+|de|wahr}}, {{t+|de|legitim}}, {{t+|de|rechtmäßig}}, {{t+|de|wahrhaftig}}, {{t+|de|eigentlich}}, {{t+|de|tatsächlich}}
 * Greek: {{t+|el|αληθινός}}, {{t+|el|νόμιμος|m}}
 * Irish: {{t|ga|fíor}}
 * Japanese: {{t+|ja|正統|tr=せいとうな, seitō-na|alt=正統な|sc=Jpan}}
@@ -327,6 +327,7 @@ For the semantic development, compare {{cog|la|robustus||tough}} from {{m|la|rob
 {{trans-top|accurately}}
 * Georgian: {{t|ka|მართლად}}
 {{trans-mid}}
+* German: {{t+|de|genau}}, {{t+|de|reinrassig}}, {{t+|de|akkurat}}, {{t+|de|reinerbig}}, {{t|de|klangtreu}}
 * Japanese: {{t+|ja|正確|tr=せいかくに, seikaku ni|alt=正確に|sc=Jpan}}
 {{trans-bottom}}
 
@@ -350,6 +351,7 @@ For the semantic development, compare {{cog|la|robustus||tough}} from {{m|la|rob
 
 ====Translations====
 {{trans-top|State of being in alignment}}
+* German: {{t+|de|Ausrichtung|f}}, {{t+|de|Zentrierung|f}}, {{t+|de|Justierung|f}}, {{t+|de|Justage|f}}
 * Italian: {{t-check|it|centratura|f}}
 * Korean: {{t+|ko|참}}
 {{trans-mid}}
@@ -374,6 +376,7 @@ For the semantic development, compare {{cog|la|robustus||tough}} from {{m|la|rob
 {{trans-top|straighten}}
 * Dutch: {{t+|nl|rechttrekken}}, {{t+|nl|rechtzetten}}
 * Finnish: {{t+|fi|suoristaa}}
+* German: {{t+|de|zentrieren}}, {{t+|de|ausrichten}}, {{t+|de|justieren}}, {{t+|de|berichtigen}}, {{t+|de|begradigen}}, {{t+|de|glätten}}, {{t+|de|ebnen}}, {{t|de|einebnen}}, {{t+|de|korrigieren}}, {{t+|de|einstellen}}, {{t+|de|zurichten}}, {{t+|de|richten}}
 * Greek: {{t|el|αληθεύει}}
 * Japanese: {{l|ja|正しい|正しく}}{{l|ja|調整|調整する|tr=tadashiku chōsei suru}}, {{l|ja|正確|正確に}}{{l|ja|形作る|tr=seikaku ni katachizukuru}}
 {{trans-mid}}
