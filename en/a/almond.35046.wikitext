@@ -18,13 +18,13 @@ From {{inh|en|enm|almond}}, {{m|enm|almaund}}, from {{der|en|fro|almande}}, {{m|
 #* '''2004''', {{w|Richard Fortey}}, ''The Earth'', Folio Society 2011, p. 3:
 #*: In early March the '''almonds''' are in flower, delicately pink, and there are washes of bright daffodils beneath the orchard trees; you can see women gathering them for market.
 # Other plants that produce almond-like nuts:
-## {{taxlink|Prunus dulcis var. amara|variety|noshow=1}}, [[bitter almond]], a variety that only produces bitter fruits
+## {{taxlink|Prunus dulcis var. amara|variety}}, [[bitter almond]], a variety that only produces bitter fruits
 ##: {{syn|en|bitter almond}}
-## {{taxlink|Prunus japonica|species|noshow=1|ver=161009}}, {{vern|flowering almond}}, an ornamental shrub in family [[Rosaceae]]
-## {{taxlink|Prunus andersonii|species|noshow=1|ver=161009}}, {{vern|desert almond}}, a North American shrub in family [[Rosaceae]]
-## {{taxlink|Prunus fasciculata|species|noshow=1|ver=161009}}, {{vern|desert range almond}} or {{vern|wild almond}}, North American shrub in family [[Rosaceae]]
+## {{taxlink|Prunus japonica|species|ver=161009}}, {{vern|flowering almond}}, an ornamental shrub in family [[Rosaceae]]
+## {{taxlink|Prunus andersonii|species|ver=161009}}, {{vern|desert almond}}, a North American shrub in family [[Rosaceae]]
+## {{taxlink|Prunus fasciculata|species|ver=161009}}, {{vern|desert range almond}} or [[wild almond]], North American shrub in family [[Rosaceae]]
 ## ''[[Terminalia catappa]]'', [[Indian almond]] or [[tropical almond]], in family [[Combretaceae]]
-## {{taxlink|Brabejum stellatifolium|species|noshow=1|ver=161009}}, {{vern|wild almond|novern=1}} or [[bitter almond]], in family [[Proteaceae]]
+## {{taxlink|Brabejum stellatifolium|species|ver=161009}}, {{vern|wild almond|novern=1}} or [[bitter almond]], in family [[Proteaceae]]
 ##: {{syn|en|bitter almond}}
 # {{lb|en|uncountable}} The [[colour]] of the [[kernel]] of an almond without its [[shell]] and thin [[seed coat]], a [[creamy]] off-[[white]] colour.
 #: {{color panel|almond|FFEBCD}}<!--this is the hex tripled used for the X11 BlanchedAlmond color-->
@@ -252,7 +252,7 @@ From {{inh|en|enm|almond}}, {{m|enm|almaund}}, from {{der|en|fro|almande}}, {{m|
 
 ===Further reading===
 * {{pedia}}
-* {{projectlink|species|Prunus dulcis}}
+* {{specieslite|i=1|Prunus dulcis}}
 
 ===References===
 <references/>
