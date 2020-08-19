@@ -533,40 +533,63 @@ From {{bor|es|grc|βῆτα}} ultimately from {{der|es|sem-pro|*bayt-|t=house}}.
 
 ==Swedish==
 
-===Etymology===
-{{der|sv|la|beta}}, from {{der|sv|grc|βῆτα}}.
+===Etymology 1===
+{{der|sv|la|bēta}}, from {{der|sv|grc|βῆτα}}.
 
-===Noun===
+====Noun====
 {{sv-noun|n|g2=c}}
 
 # {{l|en|beta}}; the Greek letter [[Β]], [[β]]
-# [[beetroot]]
 # {{lb|sv|computing}} a beta version of a program
 # {{lb|sv|slang}} ''short for'' [[minnesbeta]]
 
-====Declension====
+=====Declension=====
 {{sv-noun-irreg-n|beta|betat|beta|betan|definitions=Greek letter}}
-{{sv-infl-noun-c-or|bet|definitions=Beet, beta version, minnesbeta}}
+{{sv-infl-noun-c-or|bet|definitions=Beta version, minnesbeta}}
 
-===Verb===
-{{head|sv|verb}}
+====Verb====
+{{sv-verb-reg}}
 
-# to [[graze]]; to eat grass; to feed on growing herbage.
-# to test software prior to release.
+# to test software prior to release
 
-====Conjugation====
+=====Conjugation=====
 {{sv-conj-wk}}
 
-====See also====
+===Etymology 2===
+Ultimately from {{der|sv|la|bēta||beet}}.
+
+====Noun====
+{{sv-noun|c}}
+
+# [[beetroot]]
+
+=====Declension=====
+{{sv-infl-noun-c-or|bet}}
+
+===Etymology 3===
+{{suffix|sv|bete|a}}
+
+====Verb====
+{{sv-verb-reg}}
+
+# to [[graze]]; to eat grass; to feed on growing herbage.
+
+=====Conjugation=====
+{{sv-conj-wk}}
+
+=====See also=====
 * {{l|sv|beta av}}
 * {{l|sv|bete}}
 
-===Verb===
-{{head|sv|verb}}
+===Etymology 4===
+{{clipping of|sv|betaga|dot=;}} {{prefix|sv|be|ta}}. {{rfe|sv}}
+
+====Verb====
+{{sv-verb|betar|betog|betagit|beta}}
 
 # to [[steal]]
 
-====Conjugation====
+=====Conjugation=====
 {{sv-conj-st|class=6|beta|betog|betag|end=vw|full=betaga}}
 {{sv-conj-st|class=6|head=betaga|betag|betog|betag|end=s|definitions=(dated)}}
 
