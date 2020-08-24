@@ -34,7 +34,7 @@ From {{inh|en|enm|-}}, from {{bor|en|fro|-}}, from {{der|en|la|fervens|fervens, 
 ====Translations====
 {{trans-top|exhibiting particular enthusiasm, zeal, conviction, persistence, or belief}}
 * Bulgarian: {{t+|bg|пламенен|sc=Cyrl}}, {{t+|bg|страстен|sc=Cyrl}}
-* Catalan: {{t|ca|fervent}}
+* Catalan: {{t|ca|fervent}}, {{t|ca|fervorós}}
 * Chinese:
 *: Mandarin: {{t+|cmn|熱切|sc=Hani}}, {{t+|cmn|热切|tr=rèqiè|sc=Hani}}, {{t+|cmn|踴躍|sc=Hani}}, {{t+|cmn|踊跃|tr=yǒngyuè|sc=Hani}}, {{t+|cmn|熱烈|sc=Hani}}, {{t+|cmn|热烈|tr=rèliè|sc=Hani}}
 * Dutch: {{t+|nl|fervent}}
@@ -97,6 +97,31 @@ From {{inh|en|enm|-}}, from {{bor|en|fro|-}}, from {{der|en|la|fervens|fervens, 
 
 ----
 
+==Catalan==
+
+===Etymology===
+From {{der|ca|la|fervēns}}.
+
+===Adjective===
+{{ca-adj|mf}}
+
+# [[fervent]]
+#: {{syn|ca|fervorós}}
+
+====Derived terms====
+* {{l|ca|ferventment}}
+
+====Related terms====
+* {{l|ca|fervor}}
+
+===Further reading===
+* {{R:IEC2}}
+* {{R:GDLC}}
+* {{R:DNV}}
+* {{R:DCVB}}
+
+----
+
 ==French==
 
 ===Etymology===
@@ -110,7 +135,10 @@ From {{inh|fr|fro|-}}, borrowed from {{bor|fr|la|fervēntem}}, accusative of {{m
 ===Adjective===
 {{fr-adj}}
 
-# '''fervent'''
+# {{l|en|fervent}}
+
+====Derived terms====
+* {{l|fr|fervemment}}
 
 ===Further reading===
 * {{R:TLFi}}
