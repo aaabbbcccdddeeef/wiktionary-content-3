@@ -55,22 +55,11 @@ From {{der|en|enm|han}}.
 
 ==Danish==
 
-===Alternative forms===
-* {{l|da|hand}} {{qual|obsolete}}
-
 ===Etymology===
 From {{der|da|non|hann}} (dative {{m|non|hánum}}).
 
 ===Pronunciation===
-* {{IPA|da|/han/|[han]}}
-
-===Noun===
-{{da-noun|stem=hann|en|er}}
-
-# [[male]], [[he]]
-
-====Declension====
-{{da-noun-infl|stem=hann|en|er}}
+* {{IPA|da|/han/|[ˈhan]}}
 
 ===Pronoun===
 {{head|da|pronoun|cat2=personal pronouns|genitive|hans|accusative|ham}}
@@ -80,9 +69,19 @@ From {{der|da|non|hann}} (dative {{m|non|hánum}}).
 ====See also====
 {{Danish personal pronouns}}
 
-===References===
-* {{R:DDO}}
+====References====
 * {{R:DDO|han,2}}
+
+===Noun===
+{{da-noun|stem=hann|en|er}}
+
+# [[male]], [[he]]
+
+====Inflection====
+{{da-decl|dc=1|en|er}}
+
+====References====
+* {{R:DDO|han,1}}
 
 ----
 
