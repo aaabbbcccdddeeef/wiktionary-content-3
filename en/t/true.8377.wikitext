@@ -396,16 +396,19 @@ For the semantic development, compare {{cog|la|robustus||tough}} from {{m|la|rob
 
 ==Danish==
 
-===Pronunciation===
-{{IPA|da|[ˈtˢʁ̥uːu, ˈtˢʁ̥oːo]}}
-
 ===Etymology===
-From {{inh|da|non|þrúga}}, {{inh|da|gem-pro|*þrūgōną}}. Cognate with {{cog|sv|truga}}. The verb is related to {{cog|da|trykke}} and {{cog|de|drücken||to press}} (= {{m|gem-pro|*þrukkijaną}}), but apparently not to {{cog|de|drohen||threaten}} (= {{m|gem-pro|*þraujaną}}) or {{cog|en|threaten}} (= {{m|gem-pro|*þrautōną}}).
+From {{inh|da|non|þrúga}}, {{inh|da|gem-pro|*þrūgōną}}, cognate with {{cog|sv|truga}}. The verb is related to {{cog|da|trykke}} and {{cog|de|drücken||to press}} (= {{m|gem-pro|*þrukkijaną}}), but apparently not to {{cog|de|drohen||threaten}} (= {{m|gem-pro|*þraujaną}}) or {{cog|en|threaten}} (= {{m|gem-pro|*þrautōną}}).
+
+===Pronunciation===
+{{IPA|da|/truːə/|[ˈtˢʁ̥uːu]|[ˈtˢʁ̥oːo]}}
 
 ===Verb===
-{{da-verb|tru||truer|truede|har|truet}}
+{{head|da|verb|past tense|truede|past participle|truet}}
 
 # to [[threaten]]
+
+====Inflection====
+{{da-conj|tru||er|ede|h|et}}
 
 ===Further reading===
 * {{R:DDO}}
