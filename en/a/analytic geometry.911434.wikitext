@@ -1,13 +1,31 @@
 ==English==
+{{wikipedia}}
 
 ===Noun===
-{{wikipedia}}
 {{en-noun|-}}
 
-# {{lb|en|geometry}} A branch of [[mathematics]] that investigates [[properties]] of [[figure]]s through the [[coordinate]]s of their points.
+# {{lb|en|geometry}} The subbranch of geometry that investigates geometrical figures via the mathematical properties of their representations in a [[coordinate system]].
+#* '''1889''', {{w|Arthur Sherburne Hardy}}, ''Elements of '''Analytic Geometry''''', 1891, Ginn, [https://books.google.com.au/books?id=P3tTAAAAYAAJ&q=%22analytic+geometry%22%7C%22analytic+geometries%22&dq=%22analytic+geometry%22%7C%22analytic+geometries%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjbgLTC2rjrAhXRmeYKHRq2Cb84ZBDoATANegQIPBAC page 12],
+#*: Having thus noted the distinction between '''Analytic Geometry''' and Geometry, let us note in what way it differs from Algebra.
+#* '''1921''', Claude Irwin Palmer, William Charles Krathwohl, '''''Analytic Geometry''''', McGraw-Hill, [https://books.google.com.au/books?id=N486AAAAMAAJ&q=%22analytic+geometry%22%7C%22analytic+geometries%22&dq=%22analytic+geometry%22%7C%22analytic+geometries%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjbgLTC2rjrAhXRmeYKHRq2Cb84ZBDoATAXegQISxAC page 261],
+#*: In plane '''analytic geometry''', all the points and lines are confined to one plane.
+#* '''2018''', Peter Kuhfittig, ''Technical Calculus with '''Analytic Geometry''''', 5th Edition, {{w|Cengage|Cengage Learning}} (BROOKS/COLE), [https://books.google.com.au/books?id=UR0LAAAAQBAJ&pg=PA1&dq=%22analytic+geometry%22%7C%22analytic+geometries%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiBybPiwbjrAhUPt54KHUiDCEsQ6AEwIXoECFMQAg#v=onepage&q=%22analytic%20geometry%22%7C%22analytic%20geometries%22&f=false page 1],
+#*: '''Analytic geometry''' may be defined as the study of classical geometry by means of algebra.
+
+====Synonyms====
+* {{l|en|Cartesian geometry}}
+* {{l|en|coordinate geometry}}
+
+====Coordinate terms====
+* {{l|en|affine geometry}}
+* {{l|en|synthetic geometry}}
+
+====Derived terms====
+* {{l|en|complex analytic geometry}}
+* {{l|en|real analytic geometry}}
 
 ====Translations====
-{{trans-top|branch of mathematics}}
+{{trans-top|subbranch of geometry}}
 * Finnish: {{t+|fi|analyyttinen geometria}}
 * Greek: {{t|el|αναλυτική γεωμετρία|f}}
 * Hungarian: {{t+|hu|analitikus geometria}}
@@ -22,7 +40,13 @@
 * Turkish: {{t|tr|analitik geometri}}
 {{trans-bottom}}
 
-====See also====
-* [[algebraic geometry]]
-* [[differential geometry]]
-* [[projective geometry]]
+===See also===
+* {{l|en|affine geometry}}
+* {{l|en|algebraic geometry}}
+* {{l|en|differential geometry}}
+* {{l|en|projective geometry}}
+* {{l|en|synthetic geometry}}
+
+===Further reading===
+* {{pedialite|Analytic geometry and algebraic geometry}}
+* {{pedialite|Coordinate system}}
