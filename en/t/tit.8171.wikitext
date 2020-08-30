@@ -298,10 +298,10 @@ Probably of {{der|en|gmq|-}}/Scandinavian origin; found earliest in {{m|en|titli
 ==Danish==
 
 ===Pronunciation===
-* {{IPA|da|[ˈtˢid̥]}}
+* {{IPA|da|/tit/|[ˈtˢid̥]}}
 
 ===Etymology 1===
-From {{inh|da|non|títt|t=often}} and {{m|non|tíðr|t=frequent}}, from {{m|non|tíð|t=time}}.
+From {{inh|da|non|títt|t=often}}, the neuter form of the adjective {{m|non|tíðr|t=frequent}}, from {{inh|da|gem-pro|*tīdijaz}}. Derived from the noun {{m|gem-pro|*tīdiz||time}}.
 
 ====Adverb====
 {{head|da|adverb|[[Appendix:Glossary#comparable|comparative]]|tiere|[[Appendix:Glossary#comparable|superlative]]|tiest}}
@@ -315,7 +315,7 @@ From {{inh|da|non|títt|t=often}} and {{m|non|tíðr|t=frequent}}, from {{m|non|
 * {{l|da|mange gange}}
 
 ===Etymology 2===
-Verbal noun to {{m|da|titte|t=peep, peek}}, from {{der|da|non|títa|t=see}}.
+Verbal noun to {{m|da|titte|t=peep, peek}}.
 
 ====Noun====
 {{da-noun|et|tit|stem=titt}}
@@ -323,7 +323,7 @@ Verbal noun to {{m|da|titte|t=peep, peek}}, from {{der|da|non|títa|t=see}}.
 # [[glimpse]]
 
 =====Inflection=====
-{{da-noun-infl|et|stem=titt}}
+{{da-decl|et|dc=1}}
 
 ===Etymology 3===
 {{nonlemma}}
@@ -331,7 +331,7 @@ Verbal noun to {{m|da|titte|t=peep, peek}}, from {{der|da|non|títa|t=see}}.
 ===Verb===
 {{head|da|verb form}}
 
-# {{inflection of|da|titte||imperative}}
+# {{inflection of|da|titte||imperative|nocat=1}}
 
 ----
 
