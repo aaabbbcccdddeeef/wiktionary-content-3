@@ -107,8 +107,8 @@ From {{etyl|xno|en}} {{m|enm|errour}}, from {{etyl|fro|en}} {{m|fro|error}}, fro
 * Chukchi: {{t|ckt|ԓыганэн|tr=ḷyganėn}}
 * Czech: {{t+|cs|chyba|f}}, {{t+|cs|omyl|m}}
 * Danish: {{t+|da|fejl|c}}, {{t+|da|fejltagelse|c}}, {{t|da|forseelse|c}}
-* Dutch: {{t+|nl|fout}}, {{t+|nl|vergissing|f}}, {{t|nl|onjuistheid|f}}
-* Erzya: {{t+|myv|ильведькс}}, {{t+|myv|ильведевкс}}, {{t+|myv|ильведема}}
+* Dutch: {{t+|nl|fout}}, {{t+|nl|vergissing|f}}, {{t+|nl|onjuistheid|f}}
+* Erzya: {{t|myv|ильведькс}}, {{t|myv|ильведевкс}}, {{t|myv|ильведема}}
 * Esperanto: {{t|eo|eraro}}, {{t|eo|miso}}
 * Estonian: {{t|et|viga}}
 * Finnish: {{t+|fi|erehdys}}, {{t+|fi|virhe}}
@@ -117,7 +117,7 @@ From {{etyl|xno|en}} {{m|enm|errour}}, from {{etyl|fro|en}} {{m|fro|error}}, fro
 * Georgian: {{t|ka|შეცდომა}}
 * German: {{t+|de|Fehler|m}}
 * Greek: {{t+|el|λάθος|n}}
-* Hebrew: {{t|he|טָעוּת|f|tr=ta'út}}
+* Hebrew: {{t+|he|טָעוּת|f|tr=ta'út}}
 * Hindi: {{t+|hi|त्रुटि|f}}, {{t+|hi|ग़लती|f}}, {{t+|hi|भूल|f}}
 * Hungarian: {{t+|hu|hiba}}
 * Icelandic: {{t+|is|mistök|f}}, {{t+|is|villa|f}}, {{t|is|skyssa|f}}
@@ -127,7 +127,7 @@ From {{etyl|xno|en}} {{m|enm|errour}}, from {{etyl|fro|en}} {{m|fro|error}}, fro
 * Italian: {{t+|it|errore|m}}, {{t+|it|sbaglio|m}}
 * Japanese: {{t+|ja|誤り|tr=あやまり, ayamari}}, {{t+|ja|間違い|tr=まちがい, machigai}}, {{t+|ja|エラー|tr=erā}}
 * Kabuverdianu: {{t|kea|asnera}}
-* Kashubian: {{t+|csb|zmiłka|f}}, {{t+|csb|fela|f}}, {{t+|csb|błąd|m}}, {{t+|csb|fel|m}}, {{t+|csb|feler|m}}, {{t+|csb|ochëba|f}}, {{t+|csb|pomilenié|n}}, {{t+|csb|przelisk|m}}, {{t+|csb|przerzeczenié|n}}, {{t+|csb|zarzek|m}}, {{t+|csb|zarznięcé|n}}, {{t+|csb|zbrida|f}}, {{t+|csb|zmilenié|n}}
+* Kashubian: {{t|csb|zmiłka|f}}, {{t|csb|fela|f}}, {{t|csb|błąd|m}}, {{t|csb|fel|m}}, {{t|csb|feler|m}}, {{t|csb|ochëba|f}}, {{t|csb|pomilenié|n}}, {{t|csb|przelisk|m}}, {{t|csb|przerzeczenié|n}}, {{t|csb|zarzek|m}}, {{t|csb|zarznięcé|n}}, {{t|csb|zbrida|f}}, {{t|csb|zmilenié|n}}
 * Kazakh: {{t|kk|қателік}}
 * Khmer: {{t+|km|កំហុស}}
 {{trans-mid}}
@@ -142,7 +142,7 @@ From {{etyl|xno|en}} {{m|enm|errour}}, from {{etyl|fro|en}} {{m|fro|error}}, fro
 * Luhya: {{t|luy|ekasoro}}
 * Macedonian: {{t|mk|грешка|f}}
 * Malay: {{t|ms|ralat}}, {{t|ms|kesalahan}}
-* Mokshan: {{t+|mdf|эльбятькс}}
+* Mokshan: {{t|mdf|эльбятькс}}
 * Mongolian: {{t+|mn|алдаа}}
 * Norwegian:
 *: Bokmål: {{t+|nb|feil|m}}
@@ -175,7 +175,7 @@ From {{etyl|xno|en}} {{m|enm|errour}}, from {{etyl|fro|en}} {{m|fro|error}}, fro
 * Uyghur: {{t|ug|خاتا}}
 * Uzbek: {{t+|uz|xato}}, {{t+|uz|gʻalat}}
 * Vietnamese: {{t+|vi|lỗi}}
-* Vilamovian: {{t+|wym|faołer|m}}
+* Vilamovian: {{t|wym|faołer|m}}
 * Yiddish: {{t|yi|טעות|m|tr=toes}}, {{t|yi|גרײַז|m}}, {{t|yi|פֿעלער|m}}
 {{trans-bottom}}
 
@@ -246,7 +246,7 @@ From {{etyl|xno|en}} {{m|enm|errour}}, from {{etyl|fro|en}} {{m|fro|error}}, fro
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Hebrew: {{t+check|he|שגיאה|f}}, {{t-check|he|טעות|f}}
+* Hebrew: {{t+check|he|שגיאה|f}}, {{t+check|he|טעות|f}}
 * Romanian: {{t+check|ro|eroare|f}}, {{t+check|ro|greșeală|f}}
 * Slovene: {{t+check|sl|napaka|f}}
 {{trans-mid}}
