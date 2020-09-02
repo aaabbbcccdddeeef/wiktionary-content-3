@@ -1,8 +1,17 @@
 {{also|Arņo}}
 ==English==
 
-===Proper noun===
+===Etymology===
+{{bor|en|it|Arno}}, from {{der|en|la|Arnus}}. {{etystub|en}}
+
+===Pronunciation===
 {{wikipedia}}
+* {{a|UK}} {{IPA|en|/ˈɑːnəʊ/}}
+* {{a|US}} {{IPA|en|/ˈɑɹnoʊ/}}
+* {{enPR|ärʹnō}}
+* {{rhymes|en|ɑː(ɹ)nəʊ}}
+
+===Proper noun===
 {{en-proper noun}}
 
 # {{place|en|river|r/Tuscany}} that flows through [[Pisa]] and [[Florence]].
@@ -10,6 +19,7 @@
 ====Translations====
 {{trans-top|river in Tuscany}}
 * Italian: {{t+|it|Arno|m}}
+* Latin: {{t|la|Arnus|m}}
 {{trans-mid}}
 * Portuguese: {{t|pt|Arno|m}}
 {{trans-bottom}}
@@ -21,10 +31,16 @@
 
 ==Estonian==
 
-===Proper noun===
-{{head|et|proper noun}}
+===Etymology===
+{{clipping|et|Arnold}}.
 
-# {{given name|et|male}}, short form of {{m|et|Arnold}}.
+===Pronunciation===
+{{rfp|et}}
+
+===Proper noun===
+{{et-proper noun}}
+
+# {{given name|et|male|dim=Arnold}}.
 
 ====Related terms====
 * {{l|et|Aarne}}
@@ -33,35 +49,51 @@
 
 ==German==
 
+===Etymology===
+{{clipping|de}}.
+
 ===Pronunciation===
-* {{audio|de|De-Arno.ogg|Audio}}
+* {{audio|de|De-Arno.ogg}}
 
 ===Proper noun===
-{{head|de|proper noun}}
+{{de-proper noun|m}}
 
-# {{given name|de|male}}, short form of [[Germanic]] compound names beginning with ''[[arn]]''- "eagle", such as [[Arnold]].
+# {{given name|de|male}}{{n-g|, short form of [[Germanic]] compound names beginning with {{m|goh|arn|arn-|eagle}}, such as {{m|de|Arnold}}.}}
+
+====Declension====
+{{rfinfl|de}}
 
 ----
 
 ==Italian==
 
 ===Etymology===
-From {{etyl|la|it}} {{m|la|Arnus}}.
+From {{inh|la|Arnus}}. {{etystub|it}}
+
+===Pronunciation===
+{{wikipedia|lang=it}}
+* {{it-IPA}}
+* {{rhymes|it|arno}}
+* {{hyphenation|it|Ar|no}}
 
 ===Proper noun===
-{{wikipedia|lang=it}}
-{{it-proper noun}}
+{{it-proper noun|m|head=[[l']]Arno}}
 
-# The [[river]] that flows through [[Florence]]
-
-[[Category:it:Rivers]]
+# {{place|it|river|r/Tuscany|t1=Arno}}
 
 ----
 
 ==Portuguese==
 
+===Etymology===
+{{der|pt|it|Arnus}}, through {{bor|pt|it|Arno}}. {{etystub|en}}
+
+===Pronunciation===
+{{wikipedia|lang=pt}}
+* {{hyphenation|pt|Ar|no}}
+
 ===Proper noun===
-{{pt-proper noun|m}}
+{{pt-proper noun|m|head=[[o]] Arno}}
 
 # {{place|pt|river|r/Tuscany|t1=Arno}}
 
@@ -69,18 +101,20 @@ From {{etyl|la|it}} {{m|la|Arnus}}.
 
 ==Slovak==
 
+===Etymology===
+{{clipping|sk|Arnold}}.
+
 ===Pronunciation===
 * {{IPA|sk|/ˈarnɔ/}}
+* {{sk-IPA}}
 
 ===Proper noun===
 {{sk-proper noun|g=m|gen=Arna|decl=chlap}}
 
-# A pet form of the male [[given name]] [[Arnold]].
+# {{given name|et|male|dim=Arnold}}.
 
 ====Declension====
 {{sk-decl-noun-sg|Arno|Arna|Arnovi|Arna|Arnovi|Arnom}}
 
 ===Further reading===
 * {{R:SDK|Arnold}}
-
-[[Category:Slovak diminutives of male given names]]
