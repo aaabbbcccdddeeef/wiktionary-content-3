@@ -189,28 +189,28 @@ From {{inh|en|enm|skyn}}, {{m|enm|skinn}}, from {{inh|en|ang|scinn}}, from {{der
 * Finnish: {{t+|fi|iho}} {{qualifier|chiefly human}}; {{t+|fi|nahka}} {{qualifier|chiefly animal}}
 * French: {{t-simple|interwiki=1|fr|langname=French|peau|g=f}}
 * Friulian: {{t-simple|fur|langname=Friulian|piel|g=f}}
-* Gagauz: {{t|gag|deri}}
-* Galician: {{t+|gl|pel|f}}, {{t+|gl|coiro|m}}
+* Gagauz: {{t-simple|gag|langname=Gagauz|deri}}
+* Galician: {{t-simple|interwiki=1|gl|langname=Galician|pel|g=f}}, {{t-simple|interwiki=1|gl|langname=Galician||coiro|g=m}}
 * Georgian: {{t|ka|კანი}}
 * German: {{t+|de|Haut|f}}
 * Greek: {{t+|el|δέρμα|n}}
 *: Ancient: {{t|grc|δέρμα|n}}, {{t|grc|χρώς|m}}, {{t|grc|χρῶμα|n}}, {{t|grc|ῥινός|f}} {{qualifier|Epic}}, {{t|grc|δέρας|n}} {{qualifier|Epic}}
-* Greenlandic: {{t|kl|ameq}}
-* Guaraní: {{t|gn|api}}
+* Greenlandic: {{t-simple|kl|langname=Greenlandic|ameq}}
+* Guaraní: {{t-simple|gn|langname=Guaraní|api}}
 * Gujarati: {{t|gu|ચામડી|f}}, {{t|gu|ત્વચા|?}}
-* Haitian Creole: {{t|ht|po}}
+* Haitian Creole: {{t-simple|ht|langname=Haitian Creole|po}}
 * Hawaiian: {{t|haw|ʻili}}
 * Hebrew: {{t+|he|עוֹר|m|tr=or}}
 * Hindi: {{t+|hi|त्वचा|f}}
-* Hungarian: {{t+|hu|bőr}}
-* Hunsrik: {{t|hrx|Haut|f}}, {{t|hrx|haut|f}}
-* Icelandic: {{t+|is|húð|f}}, {{t+|is|skinn|n}}, {{t+|is|hörund|n}}
-* Ido: {{t+|io|pelo}}
-* Indonesian: {{t+|id|kulit}}
+* Hungarian: {{t-simple|interwiki=1|hu|langname=Hungarian|bőr}}
+* Hunsrik: {{t-simple|hrx|langname=Hunsrik|Haut|g=f}}, {{t-simple|hrx|langname=Hunsrik|haut|g=f}}
+* Icelandic: {{t-simple|interwiki=1|is|langname=Icelandic|húð|g=f}}, {{t-simple|interwiki=1|is|langname=Icelandic|hskinn|g=n}}, {{t-simple|interwiki=1|is|langname=Icelandic|hhörund|g=n}}
+* Ido: {{t-simple|interwiki=1|io|langname=Ido|pelo}}
+* Indonesian: {{t-simple|interwiki=1|id|langname=Indonesian|kulit}}
 * Interlingua: {{t-needed|ia}}
 * Irish: {{t+|ga|craiceann|m}}, {{t|ga|seithe|f}} {{qualifier|non-human}}, {{t|ga|cneas|m}} {{qualifier|human}}
-* Italian: {{t+|it|pelle|f}}
-* Iu Mien: {{t|ium|ndopv}}
+* Italian: {{t-simple|interwiki=1|it|langname=Italian|pelle|g=f}}
+* Iu Mien: {{t-simple|ium|langname=Iu Mien:|ndopv}}
 * Japanese: {{t+|ja|皮膚|tr=ひふ, hifu}}, {{t+|ja|肌|tr=はだ, hada}}
 * Kalmyk: {{t|xal|арсн}}
 * Kannada: {{t+|kn|ಚರ್ಮ}}
@@ -342,8 +342,8 @@ From {{inh|en|enm|skyn}}, {{m|enm|skinn}}, from {{inh|en|ang|scinn}}, from {{der
 {{trans-mid}}
 * Finnish: {{t+|fi|kuori}}
 * French: {{t-simple|interwiki=1|fr|langname=French|peau|g=f}}
-* Galician: {{t|gl|pela|f}}, {{t|gl|bagullo|m}}
-* Hungarian: {{t+|hu|héj}} {{qualifier|fruit, vegetable}}, {{t+|hu|kéreg}} {{qualifier|plant}}
+* Galician: {{t-simple|gl|langname=Galician|pela|g=f}}, {{t-simple|gl|langname=Galician||bagullo|g=m}}
+* Hungarian: {{t-simple|interwiki=1|hu|langname=Hungarian|héj}} {{qualifier|fruit, vegetable}}, {{t-simple|interwiki=1|hu|langname=Hungarian|kéreg}} {{qualifier|plant}}
 * Romanian: {{t+|ro|coajă|f}}
 * Russian: {{t+|ru|кожура́|f}} {{qualifier|of plants}}
 * Walloon: {{t+|wa|pelete|f}} {{qualifier|peeled fruit}}
@@ -365,8 +365,8 @@ From {{inh|en|enm|skyn}}, {{m|enm|skinn}}, from {{inh|en|ang|scinn}}, from {{der
 * French: {{t-simple|interwiki=1|fr|langname=French|peau|g=f}}
 * Greek: {{t+|el|δέρμα|n}}, {{t+|el|επιδερμίδα|f}}
 * Hawaiian: {{t|haw|ʻili}}
-* Hungarian: {{t+|hu|bőr}}
-* Icelandic: {{t+|is|skinn|n}}
+* Hungarian: {{t-simple|interwiki=1|hu|langname=Hungarian|bőr}}
+* Icelandic: {{t-simple|interwiki=1|is|langname=Icelandic|hskinn|g=n}}
 * Irish: {{t|ga|seithe|f}}
 * Japanese: {{t+|ja|革|tr=かわ, kawa}}, {{t+|ja|皮革|tr=ひかく, hikaku}}
 * Korean: {{t+|ko|가죽}}
@@ -414,7 +414,7 @@ From {{inh|en|enm|skyn}}, {{m|enm|skinn}}, from {{inh|en|ang|scinn}}, from {{der
 * Finnish: {{t+|fi|kalvo}}
 * French: {{t-simple|interwiki=1|fr|langname=French|peau|g=f}}
 * Greek: {{t+|el|πέτσα|f}}
-* Hungarian: {{t+|hu|pille}}, {{t+|hu|hártya}}, {{t+|hu|bőr}}
+* Hungarian: {{t-simple|interwiki=1|hu|langname=Hungarian|pille}}, {{t-simple|interwiki=1|hu|langname=Hungarian|hártya}}, {{t-simple|interwiki=1|hu|langname=Hungarian|bőr}}
 * Japanese: {{t+|ja|膜|tr=まく, maku}}
 * Korean: {{t+|ko|막}}, {{t+|ko|피막}}
 * Kurdish: {{t+|ku|tûk}}
@@ -439,7 +439,7 @@ From {{inh|en|enm|skyn}}, {{m|enm|skinn}}, from {{inh|en|ang|scinn}}, from {{der
 * Finnish: {{t+|fi|taustakuva}}
 * French: {{t-simple|interwiki=1|fr|langname=French|apparence|g=f}}
 * German: {{t+|de|Design|n}}
-* Italian: {{t+|it|interfaccia|f}}
+* Italian: {{t-simple|interwiki=1|it|langname=Italian|interfaccia|f}}
 {{trans-mid}}
 * Polish: {{t+|pl|skórka|f}}, {{t+|pl|kompozycja|f}}
 * Portuguese: {{t+|pt|capa|f}}, {{t+|pt|skin|f}}
@@ -454,7 +454,7 @@ From {{inh|en|enm|skyn}}, {{m|enm|skinn}}, from {{inh|en|ang|scinn}}, from {{der
 * Dutch: {{t+|nl|blaadje|n}}, {{t+|nl|vloeitje|n}}
 * Finnish: {{t+|fi|sätkäpaperi}}
 * Greek: {{t+|el|τσιγαρόχαρτο|n}}
-* Hungarian: {{t+|hu|cigarettapapír}}, {{t|hu|cigipapír}}
+* Hungarian: {{t-simple|interwiki=1|hu|langname=Hungarian|cigarettapapír}}, {{t-simple|hu|langname=Hungarian|cigipapír}}
 * Norwegian:
 *: Bokmål: {{t|nb|sigarettpapir|n}}
 *: Nynorsk: {{t|nn|sigarettpapir|n}}
@@ -468,7 +468,7 @@ From {{inh|en|enm|skyn}}, {{m|enm|skinn}}, from {{inh|en|ang|scinn}}, from {{der
 {{trans-top|skinhead (clipping of)}}
 * Dutch: {{t+|nl|skin|m}}
 * Finnish: {{t+|fi|skini}}
-* Hungarian: {{t+|hu|skinhead}}, {{t+|hu|szkinhed}}
+* Hungarian: {{t-simple|interwiki=1|hu|langname=Hungarian|skinhead}}, {{t-simple|interwiki=1|hu|langname=Hungarian|szkinhed}}
 * Polish: {{t+|pl|skin|m}}
 {{trans-mid}}
 * Portuguese: {{t|pt|skinhead|m}}
@@ -589,7 +589,7 @@ From {{inh|en|enm|skyn}}, {{m|enm|skinn}}, from {{inh|en|ang|scinn}}, from {{der
 * French: {{t-simple|interwiki=1|fr|langname=French|écorcher}}
 * German: {{t|de|aufschürfen}}
 * Greek: {{t+|el|γδέρνω}}
-* Hungarian: {{t+|hu|lehorzsol}}
+* Hungarian: {{t-simple|interwiki=1|hu|langname=Hungarian|lehorzsol}}
 {{trans-mid}}
 * Norwegian:
 *: Bokmål: {{t+|nb|skrubbe}}
@@ -611,13 +611,13 @@ From {{inh|en|enm|skyn}}, {{m|enm|skinn}}, from {{inh|en|ang|scinn}}, from {{der
 * Dutch: {{t+|nl|villen}}, {{t|nl|onthuiden}}, (de huid) {{t+|nl|afstropen}}
 * Finnish: {{t+|fi|nylkeä}}
 * French: {{t-simple|interwiki=1|fr|langname=French|écorcher}}, {{t-simple|interwiki=1|fr|langname=French|dépouiller}}, {{t-simple|interwiki=1|fr|langname=French|peler}}
-* Galician: {{t+|gl|esfolar}}
+* Galician: {{t-simple|interwiki=1|gl|langname=Galician|esfolar}}
 * German: {{t+|de|häuten}}
 * Greek: {{t+|el|γδέρνω}}
 *: Ancient: {{t|grc|δέρω}}
-* Hungarian: {{t+|hu|nyúz}}, {{t+|hu|lenyúz}}, {{t+|hu|megnyúz}}
+* Hungarian: {{t-simple|interwiki=1|hu|langname=Hungarian|nyúz}}, {{t-simple|interwiki=1|hu|langname=Hungarian|lenyúz}}, {{t-simple|interwiki=1|hu|langname=Hungarian|megnyúz}}
 * Irish: {{t|ga|feann}}, {{t|ga|seithigh}}
-* Italian: {{t+|it|scuoiare}}
+* Italian: {{t-simple|interwiki=1|it|langname=Italian|scuoiare}}
 {{trans-mid}}
 * Kabuverdianu: {{t|kea|sfola}}, {{t|kea|sfolá}}
 * Latin: {{t|la|excorticare}}
