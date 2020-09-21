@@ -1,11 +1,168 @@
 {{also|déclaration}}
 ==English==
 
-poop
+===Etymology===
+From {{inh|en|enm|declaration}}, {{m|enm|declaracion}}, {{m|enm|declaracioun}}, from {{der|en|fro|declaration}} ({{cog|fr|déclaration}}), from {{der|en|la|dēclārātiōnem}}, accusative of {{der|en|la|dēclārātiō}}.
 
-L
+===Pronunciation===
+* {{IPA|en|/ˌdɛkləˈɹeɪʃən/}}
+* {{audio|en|en-us-declaration.ogg|Audio (US)}}
+* {{audio|en|en-au-declaration.ogg|Audio (AU)}}
+* {{rhymes|en|eɪʃən}}
 
-suck
+===Noun===
+{{en-noun|~}}
+
+# A written or [[oral]] [[indication]] of a fact, opinion, or belief.
+# A list of items for various [[legal]] purposes, e.g. ''customs declaration.''
+# The act or process of [[declare|declaring]].
+# {{lb|en|cricket}} The act, by the [[captain]] of a batting side, of declaring an [[innings]] closed.
+# {{lb|en|legal}} In [[common law]], the formal document specifying [[plaintiff]]'s [[cause of action]], including the facts necessary to sustain a proper cause of action, and to advise the [[defendant]] of the [[grounds]] upon which he is being [[sued]].
+# {{lb|en|computing}} The specification of an object, such as a [[variable]] or [[function]], establishing its [[existence]] but not necessarily describing its contents.
+
+====Quotations====
+* '''1611''', {{w|King James Version of the Bible}}, ''[[s:Bible (King James)/Luke|Luke]] 1:1''
+*: Forasmuch as many have taken in hand to set forth in order a '''declaration''' of those things which are most surely believed among us...
+
+====Synonyms====
+* {{sense|act or process of declaring}} {{l|en|notice}}
+* {{sense|list of items for legal purposes}} {{l|en|notice}}, {{l|en|statement}}
+* {{sense|written or oral indication}} {{l|en|avowal}}, {{l|en|notice}}, {{l|en|statement}}
+
+====Hyponyms====
+* {{sense|computing}} {{l|en|forward declaration}}
+
+====Related terms====
+* {{l|en|declare}}
+
+====Translations====
+{{trans-top|written or oral indication of a fact, opinion, or belief}}
+* Arabic: {{t|ar|إِعْلَان|m}}
+* Armenian: {{t+|hy|հայտարարություն}}
+* Asturian: {{t|ast|declaración|f}}
+* Azerbaijani: {{t+|az|bəyannamə}}
+* Bulgarian: {{t+|bg|заявление|n}}, {{t+|bg|декларация|f}}
+* Catalan: {{t+|ca|declaració|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|聲明}}, {{t+|cmn|声明|tr=shēngmíng}}
+* Czech: {{t+|cs|prohlášení|n}}
+* Danish: {{t|da|erklæring|c}}
+* Dutch: {{t+|nl|verklaring|f}}, {{t+|nl|declaratie|f}}
+* Esperanto: {{t|eo|deklaracio}}
+* Finnish: {{t+|fi|julistus}}, {{t+|fi|tiedoksianto}}
+* French: {{t+|fr|déclaration|f}}
+* Galician: {{t+|gl|declaración|f}}
+* German: {{t+|de|Erklärung|f}}, {{t+|de|Deklaration|f}}
+* Gothic: {{t|got|𐌹𐌽𐍃𐌰𐌷𐍄𐍃|f}}
+* Hebrew: {{t|he|הצהרה|tr=hatzhara|f}}
+* Ido: {{t+|io|deklaro}}
+{{trans-mid}}
+* Indonesian: {{t+|id|deklarasi}}
+* Italian: {{t+|it|dichiarazione|f}}, {{t+|it|asserzione|f}}, {{t+|it|voto|m}}, {{t+|it|conferma|f}}, {{t+|it|enunciazione|f}}
+* Japanese: {{t+|ja|宣言|tr=せんげん, sengen}}
+* Korean: {{t+|ko|선언}}
+* Latin: {{t|la|fatum|n}}
+* Malay: {{t|ms|perisytiharan}}
+* Norwegian:
+*: Bokmål: {{t+|nb|erklæring|m|f}}, {{t+|nb|deklarasjon|m}}
+*: Nynorsk: {{t|nn|erklæring|f}}, {{t|nn|deklarasjon|m}}
+* Portuguese: {{t+|pt|declaração|f}}
+* Romanian: {{t+|ro|declarație|f}}
+* Russian: {{t+|ru|заявле́ние|n}}, {{t+|ru|деклара́ция|f}}
+* Spanish: {{t+|es|declaración|f}}
+* Swedish: {{t+|sv|tillkännagivande}}
+* Tatar: {{t|tt|декларация}}
+* Tocharian B: {{t|txb|weweñor}}
+* Turkish: {{t+|tr|açıklama}}, {{t+|tr|deklarasyon}}, {{t+|tr|bildiri}}
+* Ukrainian: {{t|uk|заява}}, {{t|uk|декларація}}
+* West Frisian: {{t|fy|ferklearring|c}}
+* Yiddish: {{t|yi|דעקלאַראַציע|f}}
+{{trans-bottom}}
+
+{{trans-top|list of items for various legal purposes}}
+* Armenian: {{t+|hy|հայտարարագիր}}
+* Azerbaijani: {{t+|az|bəyannamə}}
+* Bulgarian: {{t+|bg|декларация|f}}
+* Catalan: {{t+|ca|declaració|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|報單}}, {{t+|cmn|报单|tr=bàodān}}
+* Danish: {{t|da|deklaration|c}}
+* Finnish: {{t+|fi|selvitys}}
+* French: {{t+|fr|déclaration|f}}
+* German: {{t+|de|Erklärung|f}}, {{t+|de|Deklaration|f}}
+* Irish: {{t|ga|dearbhú|m}}
+* Italian: {{t+|it|elenco|m}}
+{{trans-mid}}
+* Kurdish:
+*: Sorani: {{t+|ku|بەیان}}
+* Latin: {{t|la|fatum|n}}
+* Norwegian:
+*: Bokmål: {{t+|nb|deklarasjon|m}}
+*: Nynorsk: {{t|nn|deklarasjon|m}}
+* Portuguese: {{t+|pt|declaração|f}}
+* Romanian: {{t+|ro|declarație|f}}
+* Russian: {{t+|ru|деклара́ция|f}}
+* Turkish: {{t+|tr|beyanat}}, {{t+|tr|bildirge}}
+{{trans-bottom}}
+
+{{trans-top|act or process of declaring}}
+* Armenian: {{t+|hy|հայտարարում}}
+* Asturian: {{t|ast|declaración|f}}
+* Bulgarian: {{t|bg|заявяване|n}}, {{t+|bg|деклариране|n}}
+* Catalan: {{t+|ca|declaració|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|報單}}, {{t+|cmn|报单|tr=bàodān}}, {{t+|cmn|宣言|tr=xuānyán}}
+* Czech: {{t|cs|vyhlášení|n}}
+* Danish: {{t|da|deklaration|c}}
+* Finnish: {{t+|fi|julistus}}
+* French: {{t+|fr|déclaration|f}}
+* Galician: {{t+|gl|declaración|f}}
+{{trans-mid}}
+* German: {{t+|de|Erklärung|f}}, {{t+|de|Deklaration|f}}
+* Hebrew: {{t|he|הצהרה|tr=hatzhara|f}}
+* Ido: {{t+|io|deklaro}}
+* Latin: {{t|la|fatum|n}}
+* Maori: {{t|mi|whakapuakanga}}
+* Portuguese: {{t+|pt|declaração|f}}
+* Romanian: {{t+|ro|declarare|f}}
+* Russian: {{t+|ru|заявле́ние|n}}, {{t+|ru|объявле́ние|n}}
+* Spanish: {{t+|es|declaración|f}}
+* Swedish: {{t+|sv|förklaring}}, {{t+|sv|deklaration}}
+{{trans-bottom}}
+
+{{trans-top|(cricket) act, by the captain of a batting side, of declaring an innings closed}}
+* Latin: {{t|la|fatum|n}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|specification of a variables type}}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Czech: {{t|cs|deklarace|f}}
+* Finnish: {{t+|fi|esittely}}, {{t|fi|[[muuttujan]] [[tyypin]] [[määrittely]]}}, {{t|fi|deklaraatio}}
+* German: {{t+|de|Deklaration|f}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+* Latin: {{t|la|fatum|n}}
+* Russian: {{t+|ru|объявле́ние|n}}
+* Turkish: {{t|tr|açıklayıcı deyim}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Esperanto: {{t-check|eo|deklaro}}
+* Italian: {{t+check|it|dichiarazione|f}}
+{{trans-mid}}
+* Korean: {{t+check|ko|선언}}
+{{trans-bottom}}
+
+====See also====
+* {{l|en|complaint}}
+* {{l|en|customs declaration}}
+* {{l|en|statutory}}
+* {{l|en|statutory declaration}}
+
+====Further reading====
+* {{projectlink|wikipedia}}
 
 ===Anagrams===
 * {{anagrams|en|a=aacdeilnort|indacaterol|redactional}}
