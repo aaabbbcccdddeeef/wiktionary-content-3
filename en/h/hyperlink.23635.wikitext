@@ -1,16 +1,20 @@
 {{also|Hyperlink}}
 ==English==
+[[File:NCSA_Mosaic_Browser_Screenshot.png|thumb|Early web browsers used underlined blue text to mark hyperlinks (1)]]
 
 ===Etymology===
 {{prefix|en|hyper|link}}
 
 ===Noun===
-{{en-noun}}
+{{en-noun}} {{tlb|en|dated}}
 
 # Some text or a graphic in an [[electronic]] [[document]] that can be [[activate]]d to display another document or [[trigger]] an action.
 #: {{ux|en|Click the '''hyperlink''' to go to the next page.}}
 # An address, [[URL]], or program that defines a hyperlink's function.
 #: {{ux|en|Copy the '''hyperlink''' and paste it into an email.}}
+
+====Synonyms====
+* {{l|en|link}}
 
 ====Hypernyms====
 * {{l|en|link}}
@@ -114,14 +118,11 @@
 {{en-verb}}
 
 # {{lb|en|of a hypertext document}} To point to another document by a hyperlink.
-#* '''2001''', Barbara Notarius and Gail Sforza Brewer, ''Open Your Own Bead & Breakfast'', 4th ed, John Wiley and Sons, p 165:
-#*: Their Web page '''hyperlinks''' to your Web site.
+#* {{quote-book|en|year=2001|author=Barbara Notarius|author2=Gail Sforza Brewer|title=Open Your Own Bead & Breakfast|edition=4th|publisher=John Wiley and Sons|page=165|passage=Their Web page '''hyperlinks''' to your Web site.}}
 # To add a hyperlink to a document.
-#* '''2004''', Gregory M. Lamb, “[http://www.csmonitor.com/2004/0415/p14s02-stin.html Blogs: Here to Stay - With Changes]” in ''Christian Science Monitor'', April 15, 2004.
-#*: One valuable thing a blogger often does is '''hyperlink''' to magazine and newspaper stories or other interesting blogs, she says.
+#* {{quote-web|en|date=April 15, 2004|author=Gregory M. Lamb|url=http://www.csmonitor.com/2004/0415/p14s02-stin.html|title=Blogs: Here to Stay - With Changes|work=Christian Science Monitor|passage=One valuable thing a blogger often does is '''hyperlink''' to magazine and newspaper stories or other interesting blogs, she says.}}
 # To use a hyperlink to jump to a document.
-#* '''1999''', John Graubert and Jill Coleman, “Consumer Protection and Antitrust Enforcement at the Speed of Light: The FTC Meets the Internet” in ''Canada–United States Law Journal'', v 25, p 275:
-#*: Indeed, what consumers will see on a Web site is likely to vary depending on the point or Web page at which they access the Web site, how many pages they “'''hyperlink'''” through when reviewing the site, and how much of the page containing the disclosure is displayed by consumers' Web browsers without requiring additional scrolling.
+#* {{quote-journal|en|year=1999|author=John Graubert|author2=Jill Coleman|title=Consumer Protection and Antitrust Enforcement at the Speed of Light: The FTC Meets the Internet|work=Canada–United States Law Journal|volume=25|page=275|passage=Indeed, what consumers will see on a Web site is likely to vary depending on the point or Web page at which they access the Web site, how many pages they “'''hyperlink'''” through when reviewing the site, and how much of the page containing the disclosure is displayed by consumers' Web browsers without requiring additional scrolling.}}
 
 ====Translations====
 {{trans-top|to point to another document by a hyperlink}}
@@ -151,7 +152,7 @@
 * Irish: {{t|ga|hipearnasc}}
 {{trans-bottom}}
 
-===References===
+===Further reading===
 * {{pedia}}
 
 [[Category:en:Computing]]
