@@ -44,17 +44,34 @@ From {{etyl|grc|en}} {{m|grc|ἅλμα||leap}}.
 
 ==Hungarian==
 
-===Etymology===
-{{affix|hu|halom|-a|id2=possessive|pos2=possessive suffix|nocat=y}}
-
 ===Pronunciation===
 * {{hu-IPA}}
 * {{hyphenation|hu|hal|ma}}
+* {{rhymes|hu|mɒ}}
 
-===Noun===
+===Etymology 1===
+{{swp|lang=hu}}
+
+====Noun====
+{{hu-noun}}
+
+# {{lb|hu|games|singular only}} {{l|en|halma}}
+
+=====Declension=====
+{{hu-infl-nom|halmá|o|n=sg}}{{hu-pos-tok|halmá|n=sg}}
+
+===Etymology 2===
+{{affix|hu|halom|t1=pile, heap|-a|id2=possessive|pos2=possessive suffix|nocat=y}}
+
+====Noun====
 {{head|hu|noun form}}
 
 # {{inflection of|hu|halom||3|s|spos|poss}}
 
-====Declension====
+=====Declension=====
 {{hu-infl-nom|halmá|o|n=sg|esm_sg=1}}
+
+===Further reading===
+* {{R:ErtSz}}
+
+{{cln|hu|terms with lemma and non-lemma form etymologies|terms with noun and noun form etymologies}}
