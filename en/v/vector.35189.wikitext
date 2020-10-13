@@ -22,13 +22,15 @@ The mathematics sense was {{coin|en|William Rowan Hamilton|nocap=1|in=1846}}.
 {{en-noun}}
 
 # {{lb|en|mathematics}} A [[directed]] [[quantity]], one with both [[magnitude]] and [[direction]]; the [[signed]] [[difference]] between two [[points]].
+#: {{hyper|en|tensor}}
 #* {{quote-book|en|passage=As examples of '''vector''' quantities may be mentioned the distance between any two given points, a velocity, a force, an acceleration, angular velocity, intensity of magnetization flux of heat.|title=[[S:The New Student's Reference Work/Vector|The New Student's Reference Work]]|year=1914}}
 # {{lb|en|mathematics}} An [[order]]ed [[tuple]] representing a [[directed]] [[quantity]] or the [[signed]] [[difference]] between two points.
 # {{lb|en|mathematics}} Any member of a ([[generalize]]d) [[vector space]].
 #: {{ux|en|The '''vectors''' in <math>{\mathbb Q}[X]</math> are the single-variable polynomials with rational coefficients: one is <math>\textstyle x^{42}+\frac1{137}x-1</math>.}}
 # {{lb|en|aviation}} A chosen [[course]] or [[direction]] for [[motion]], as of an [[aircraft]].
 # {{senseid|en|carrier of a disease-causing agent}}{{lb|en|epidemiology}} A [[carrier]] of a [[disease]]-causing [[agent]].
-# {{lb|en|sociology}} A person or entity that passes along an [[urban legend]] or other [[meme]].
+# {{lb|en|by extension|sociology}} A person or entity that passes along an [[urban legend]] or other [[meme]].
+#* {{quote-web|en|work=The New Yorker|title=Why Facebook Can’t Fix Itself|date=2020-10-12|author=Andrew Marantz|url=https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself|passage=These days, their primary job is to insist that Facebook is a fun place to share baby photos and sell old couches, not a '''vector''' for hate speech, misinformation, and violent extremist propaganda.}}
 # {{lb|en|psychology}} A recurring psychosocial issue that stimulates growth and development in the personality.
 # The way in which the eyes are drawn across the visual text. The trail that a book cover can encourage the eyes to follow from certain objects to others.{{rfex|en}}
 # {{lb|en|computing|operating systems}} A memory address containing the address of a [[code entry point]], usually one which is part of a [[table]] and often one that is [[dereference|dereferenced]] and [[jump|jumped]] to during the execution of an [[interrupt]].
@@ -43,9 +45,6 @@ The mathematics sense was {{coin|en|William Rowan Hamilton|nocap=1|in=1846}}.
 
 ====Usage notes====
 * {{sense|programming}} The term {{m|en||vector}} is used loosely when the indices are not (either positive or non-negative) integers.
-
-====Hypernyms====
-* {{l|en|tensor}}
 
 ====Hyponyms====
 {{hyp-top3|Hyponyms}}
