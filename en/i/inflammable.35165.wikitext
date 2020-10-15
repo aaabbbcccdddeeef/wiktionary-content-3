@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|frm|en}} {{m|frm|inflammable}}, from {{etyl|ML.|en}} {{m|la||inflammabilis}}, from {{etyl|la|en}} {{m|la|inflammare||to set on fire}}, from {{m|la|in||in, on}} + {{m|la|flamma||flame}}.
+From {{der|en|frm|inflammable}}, from {{der|en|ML.|īnflammābilis}}, from {{der|en|la|inflammo|īnflammāre|t=to set on fire}}, from {{m|la|in|t=in, on}} + {{m|la|flamma|t=flame}}.
 
 ===Pronunciation===
 * {{enPR|ĭnʹflăm-ə-bəl}}, {{IPA|en|/ɪnˈflæməbəl/}}
@@ -10,52 +10,50 @@ From {{etyl|frm|en}} {{m|frm|inflammable}}, from {{etyl|ML.|en}} {{m|la||inflamm
 {{en-adj}}
 
 # Capable of burning; easily set on [[fire]].
+#: {{syn|en|combustible|flammable}}
+#: {{ant|en|fireproof|incombustible|non-flammable}}
 # {{lb|en|figuratively}} Easily excited; [[set off]] by the slightest excuse; easily [[enrage]]d or [[inflame]]d.
+#: {{syn|en|hot-headed|[[quick]] to [[anger]]}}
+#: {{ant|en|level-headed|unflappable}}
 
 ====Usage notes====
 * {{m|en||Inflammable}} can be misinterpreted as an [[antonym]] of {{m|en|flammable}} and so taken to have the opposite meaning to that intended. Where such confusion might arise, especially where this may be a safety hazard, one may prefer to use {{m|en||flammable}} or another [[synonym]].
 
-====Synonyms====
-* {{sense|capable of burning}} {{l|en|combustible}}, {{l|en|flammable}}
-* {{sense|easily excited}} {{l|en|hot-headed}}, {{l|en|quick}} to [[anger]]
-
-====Antonyms====
-* {{sense|capable of burning}} {{l|en|fireproof}}, {{l|en|incombustible}}, {{l|en|non-flammable}}
-* {{sense|easily excited}} {{l|en|level-headed}}, {{l|en|unflappable}},
-
 ====Related terms====
-* {{l|en|inflammability}}
-* {{l|en|inflammation}}
-* {{l|en|inflame}}
+{{col3|en
+|inflammability
+|inflammation
+|inflame
+}}
 
 ====Translations====
 {{trans-top-also|capable of burning|flammable}}
 * Bulgarian: {{t+|bg|запалим}}
 * Catalan: {{t+|ca|inflamable}}, {{t+|ca|combustible}}
 * Chinese:
-*: Mandarin: {{t+|cmn|易燃|tr=yìrán de|alt=易燃的|sc=Hani}}
+*: Mandarin: {{t+|cmn|易燃|tr=yìrán de|alt=易燃的}}
 * Czech: {{t|cs|vznětlivý}}, {{t|cs|zápalný}}, {{t+|cs|hořlavý}}
 * Danish: {{t|da|brændbar}}, {{t|da|letantændelig}}
 * Dutch: {{t+|nl|ontvlambaar}}
 * Finnish: {{t+|fi|palava}}, {{t+|fi|tulenarka}}, {{t+|fi|syttyvä}}, {{t|fi|[[helposti]] [[syttyvä]]}}
 * French: {{t+|fr|inflammable}}
-* Georgian: {{t+|ka|აალებადი|sc=Geor}}
+* Georgian: {{t+|ka|აალებადი}}
 * German: {{t+|de|brennbar}}, {{t|de|entflammbar}}
 * Hungarian: {{t+|hu|gyúlékony}}
 * Icelandic: {{t|is|eldfimur}}
-* Irish: {{t|ga|so-adhainte}}, {{t|ga|inlasta}}, {{t|ga|inadhainte}}, {{t|ga|adhantach}}, {{t|ga|so-lasta}}
+* Irish: {{t|ga|adhantach}}, {{t|ga|inadhainte}}, {{t|ga|inlasta}}, {{t|ga|so-adhainte}}, {{t|ga|so-lasta}}
 * Italian: {{t+|it|infiammabile}}
 * Japanese: {{t|ja|引火性|tr=いんかせい, inkasei}}, {{t+|ja|可燃|tr=kanen}}, {{t+|ja|可燃性|tr=かねんせい, kanensei}}
 * Manx: {{t|gv|so-lostey}}, {{t|gv|so-ghreesaghey}}
 {{trans-mid}}
-* Norman: {{t|nrf|înfliammabl'ye}}
+* Norman: {{t|nrf|înfliammabl'ye}} {{q|Jersey}}
 * Polish: {{t+|pl|palny}}
 * Portuguese: {{t+|pt|inflamável}}
 * Romanian: {{t+|ro|inflamabil}}
 * Russian: {{t+|ru|легковоспламеня́ющийся}}, {{t+|ru|воспламеня́ющийся}}, {{t+|ru|горю́чий}}, {{t+|ru|огнеопа́сный}}
 * Scottish Gaelic: {{t|gd|loisgeach}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|го̀рљив|sc=Cyrl}}, {{t|sh|го̀рив|sc=Cyrl}}
+*: Cyrillic: {{t|sh|го̀рљив}}, {{t|sh|го̀рив}}
 *: Roman: {{t+|sh|gòrljiv}}, {{t+|sh|gòriv}}
 * Slovene: {{t|sl|vnetljivo|n}}
 * Spanish: {{t+|es|inflamable}}, {{t+|es|combustible}}
@@ -87,7 +85,7 @@ From {{etyl|frm|en}} {{m|frm|inflammable}}, from {{etyl|ML.|en}} {{m|la||inflamm
 ==French==
 
 ===Etymology===
-{{etyl|frm|fr}} {{suffix|fr|inflammer|able}}, from {{etyl|la|fr}} {{m|la|inflammabilis}}.
+From {{inh|fr|frm|-}} {{af|fr|inflammer|-able}}, from {{der|fr|la|īnflammābilis}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -98,13 +96,10 @@ From {{etyl|frm|en}} {{m|frm|inflammable}}, from {{etyl|ML.|en}} {{m|la||inflamm
 {{fr-adj}}
 
 # [[flammable]], [[inflammable#English|inflammable]]
-
-====Antonyms====
-* {{l|fr|ininflammable}}
+#: {{ant|fr|ininflammable}}
 
 ====Derived terms====
-* Condition: {{l|fr|inflammabilité}}
-* Antonym: {{l|fr|ininflammable}}
+* {{l|fr|inflammabilité}}
 
 ===Further reading===
 * {{R:TLFi}}
