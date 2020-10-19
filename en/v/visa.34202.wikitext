@@ -296,7 +296,7 @@ Inflected form of {{m|la|vīsus||seen, having been seen}}, perfect passive parti
 
 ===Etymology 1===
 {{PIE root|nn|weyd}}
-From {{der|nn|non|vísa}}, from {{inh|nn|gem-pro|*wīsōną}}.
+From {{inh|nn|non|vísa}}, from {{inh|nn|gem-pro|*wīsōną}}.
 
 ====Alternative forms====
 * {{alter|nn|vise}} (e and split infinitives)
@@ -316,17 +316,34 @@ From {{der|nn|non|vísa}}, from {{inh|nn|gem-pro|*wīsōną}}.
 * {{l|nn|vise til rette}}
 
 =====Synonyms=====
-* {{sense|most senses}} {{l|nn|syna}}/{{l|nn|syne}}
+* {{s|most senses}} {{l|nn|syna}}/{{l|nn|syne}}
 
 ===Etymology 2===
+From {{inh|nn|non|vísa}}.
+
+====Noun====
+{{nn-noun-f2/2012}}
+
+# {{nn-former|vise|2012}}
+# {{infl of|nn|vise||def|s}}
+
+===Etymology 3===
+{{nonlemmas}}
+
+====Noun====
+{{nn-noun-form}}
+
+# {{infl of|nn|vis|g=n||def|p}}
+# {{infl of|nn|vis|g=f||def|s}}
+
+===Etymology 4===
 {{nonlemma}}
 
 ====Noun====
-{{head|nn|noun form}}
+{{nn-noun-form|n}}
 
-# {{infl of|nn|vis|g=f|g2=n||f|def|s|;|n|def|p}}
-# {{infl of|nn|vise|g=f||def|s}}
-# {{nn-former-context|2012}} {{infl of|nn|visum|g=n||indef|and|def|p}}
+# {{nn-former-context|2012}} {{infl of|nn|visum||indef|p}}
+# {{nn-former-context|2012}} {{infl of|nn|visum||def|p}}
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
