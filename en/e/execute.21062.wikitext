@@ -13,48 +13,48 @@ From {{etyl|fro|en}} {{m|fro|executer}} (French {{m|fro|exécuter}}), from {{ety
 {{en-verb|execut}}
 
 # {{lb|en|transitive}} To kill as punishment for [[capital]] [[crime]]s.
-#: ''There are certain states where it is lawful to '''execute''' prisoners convicted of certain crimes.''
+#: {{ux|en|There are certain states where it is lawful to '''execute''' prisoners convicted of certain crimes.}}
 # {{lb|en|transitive}} To carry out; to put into effect.
-#: ''Your orders have been '''executed''', sir!''
-#: ''I'll '''execute''' your orders as soon as this meeting is adjourned.''
+#: {{ux|en|Your orders have been '''executed''', sir!}}
+#: {{ux|en|I'll '''execute''' your orders as soon as this meeting is adjourned.}}
 #* {{RQ:Milton PL|9|passage=Why delays / His hand to '''execute''' what his decree / Fixed on this day?}}
 # {{lb|en|transitive}} To [[perform]].
-#: ''to '''execute''' a difficult piece of music brilliantly''
-#: ''to '''execute''' a turn in ballet''
-# {{lb|en|transitive|legal}} To [[carry out]], to [[perform]] an act; to put into [[effect]] or cause to become legally [[binding]] or [[valid]] (as a [[contract]]) by so doing.
+#: {{ux|en|to '''execute''' a difficult piece of music brilliantly}}
+#: {{ux|en|to '''execute''' a turn in ballet}}
+# {{lb|en|transitive|law}} To [[carry out]], to [[perform]] an act; to put into [[effect]] or cause to become legally [[binding]] or [[valid]] (as a [[contract]]) by so doing.
 #: {{ux|en|to '''execute''' a contract}}
 # {{lb|en|transitive|computing}} To start, [[launch]] or [[run]]
 #: {{ux|en|to '''execute''' a program}}
+#: {{syn|en|start|launch|run|open}}
 # {{lb|en|intransitive|computing}} To [[run]], usually successfully.
-#: ''The program '''executed''', but data problems were discovered.''
-
-====Synonyms====
-* {{sense|computing}} {{l|en|start}}, {{l|en|launch}}, {{l|en|run}}, {{l|en|open}}
+#: {{ux|en|The program '''executed''', but data problems were discovered.}}
 
 ====Related terms====
-* {{l|en|executable}}
-* {{l|en|execution}}
-* {{l|en|executioner}}
-* {{l|en|executive}}
-* {{l|en|executor}}
-* {{l|en|executed}}
+{{col3|en
+|executable
+|execution
+|executioner
+|executive
+|executor
+|executed
+}}
 * See also [[Thesaurus:kill]]
 
 ====Translations====
 {{trans-top|to kill as punishment}}
 * Arabic: {{t|ar|أَعْدَمَ}}
 * Azerbaijani: {{t|az|edam etmək}}
-* Bulgarian: {{t|bg|екзекутирам|sc=Cyrl}}
+* Bulgarian: {{t|bg|екзекутирам}}
 * Catalan: {{t+|ca|executar}}
 * Chinese:
-*: Mandarin: {{t+|cmn|處決|sc=Hani}}, {{t+|cmn|处决|tr=chǔjué|sc=Hani}}, {{t+|cmn|處死|sc=Hani}}, {{t+|cmn|处死|tr=chǔsǐ|sc=Hani}}
+*: Mandarin: {{t+|cmn|處決}}, {{t+|cmn|处决|tr=chǔjué}}, {{t+|cmn|處死}}, {{t+|cmn|处死|tr=chǔsǐ}}
 * Czech: {{t+|cs|popravit}}
 * Dutch: {{t+|nl|executeren}}
 * Esperanto: {{t|eo|ekzekuti}}
 * Estonian: {{t|et|hukama}}
 * Finnish: {{t+|fi|teloittaa}}
 * French: {{t+|fr|exécuter}}, {{t+|fr|mettre à mort}}
-* Georgian: {{t|ka|სიკვდილით დასჯა|sc=Geor}}
+* Georgian: {{t|ka|სიკვდილით დასჯა}}
 * German: {{t+|de|hinrichten}}
 * Gothic: {{t|got|𐌳𐌰𐌿𐌸𐌾𐌰𐌽}}
 * Greek: {{t+|el|εκτελώ}}, {{t+|el|θανατώνω}}
@@ -62,18 +62,19 @@ From {{etyl|fro|en}} {{m|fro|executer}} (French {{m|fro|exécuter}}), from {{ety
 * Hungarian: {{t+|hu|kivégez}}
 * Italian: {{t+|it|giustiziare}}
 {{trans-mid}}
-* Japanese: {{t+|ja|処刑|alt=処刑する|tr=shokei suru}}, {{t+|ja|消す|tr=kesu}} (''slang'')
+* Japanese: {{t+|ja|処刑|alt=処刑する|tr=shokei suru}}, {{t+|ja|消す|tr=kesu}} {{q|slang}}
 * Latin: {{t|la|carnificō}}, {{t|la|[[ad]] [[necum]] [[mittō]]}}
 * Maori: {{t|mi|whakamate}}
 * Norman: {{t|nrf|exétchuter}}
 * Norwegian:
 *: Bokmål: {{t+|nb|henrette}}
-* Persian: {{t|fa|اعدام کردن|tr=e'dâm kardan|sc=fa-Arab}}
+* Persian: {{t|fa|اعدام کردن|tr=e'dâm kardan}}
 * Portuguese: {{t+|pt|executar}}
 * Quechua: {{t|qu|hayratachiy}}
 * Romanian: {{t+|ro|executa}}
 * Russian: {{t+|ru|казни́ть|impf|pf}}
-* Serbo-Croatian: {{t+|sh|smàknuti}}, {{t+|sh|pogùbiti}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|smàknuti}}, {{t+|sh|pogùbiti}}
 * Slovene: {{t|sl|usmrtiti}}
 * Spanish: {{t+|es|ejecutar}}, {{t+|es|ajusticiar}}
 * Swedish: {{t+|sv|avrätta}}
@@ -84,30 +85,31 @@ From {{etyl|fro|en}} {{m|fro|executer}} (French {{m|fro|exécuter}}), from {{ety
 
 {{trans-top|to start a defined process and run it to completion}}
 * Arabic: {{t|ar|ينفذ}}
-* Bulgarian: {{t+|bg|изпълнявам|sc=Cyrl}}, {{t+|bg|извършвам|sc=Cyrl}}
+* Bulgarian: {{t+|bg|изпълнявам}}, {{t+|bg|извършвам}}
 * Catalan: {{t+|ca|executar}}
 * Chinese:
-*: Mandarin: {{t+|cmn|執行|sc=Hani}}, {{t+|cmn|执行|tr=zhíxíng|sc=Hani}}, {{t+|cmn|運行|sc=Hani}}, {{t+|cmn|运行|tr=yùnxíng|sc=Hani}}
+*: Mandarin: {{t+|cmn|執行}}, {{t+|cmn|执行|tr=zhíxíng}}, {{t+|cmn|運行}}, {{t+|cmn|运行|tr=yùnxíng}}
 * Danish: {{t|da|afvikle}}, {{t|da|udføre}}, {{t|da|eksekvere}}
 * Dutch: {{t+|nl|bewerkstelligen}}, {{t+|nl|uitvoeren}}
 * Finnish: {{t+|fi|toteuttaa}}, {{t|fi|panna toimeen}}, {{t|fi|[[panna]] [[täytäntöön]]}}
-* Georgian: {{t|ka|შესრულება|sc=Geor}}, {{t|ka|ასრულება|sc=Geor}}, {{t|ka|სისრულეში მოყვანა|sc=Geor}}
+* Georgian: {{t|ka|შესრულება}}, {{t|ka|ასრულება}}, {{t|ka|სისრულეში მოყვანა}}
 * Greek:
 *: Ancient: {{t|grc|ἐνεργέω}}
 * Hungarian: {{t+|hu|végrehajt}}
 * Ido: {{t+|io|exekutar}}
-* Japanese: {{t+|ja|実行|tr=jikkō suru|alt=実行する|sc=Jpan}}, {{t+|ja|行う|tr=okonau}}
-* Khmer: {{t+|km|ប្រតិបត្តិ|tr=prɑte’bat|sc=Khmr}}
+* Japanese: {{t+|ja|実行|tr=jikkō suru|alt=実行する}}, {{t+|ja|行う|tr=okonau}}
+* Khmer: {{t+|km|ប្រតិបត្តិ|tr=prɑte’bat}}
 {{trans-mid}}
 * Kurdish:
-*: Sorani: {{t+|ku|بردن بەڕێوە|sc=ku-Arab}}
+*: Sorani: {{t+|ku|بردن بەڕێوە}}
 * Latin: {{t+|la|fungor}}
 * Maori: {{t|mi|whakahaere}}
 * Portuguese: {{t+|pt|executar}}
 * Romanian: {{t+|ro|executa}}
 * Russian: {{t+|ru|исполня́ть|impf}}, {{t+|ru|испо́лнить|pf}}
 * Scottish Gaelic: {{t|gd|cuir an gnìomh}}
-* Serbo-Croatian: {{t+|sh|izvŕšiti}}, {{t+|sh|pròvesti}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|izvŕšiti}}, {{t+|sh|pròvesti}}
 * Slovene: {{t|sl|izvršiti}}
 * Spanish: {{t+|es|ejecutar}}
 * Swedish: {{t+|sv|verkställa}}, {{t+|sv|expediera}}, {{t+|sv|utföra}}
@@ -124,14 +126,14 @@ From {{etyl|fro|en}} {{m|fro|executer}} (French {{m|fro|exécuter}}), from {{ety
 * Finnish: {{t+|fi|aloittaa}}, {{t+|fi|käynnistää}}
 * Polish: {{t+|pl|uruchomić}}, {{t+|pl|rozpocząć}}, {{t+|pl|zacząć}}
 * Romanian: {{t+|ro|executa}}
-* Russian: {{t+|ru|выполнять|impf|sc=Cyrl}}, {{t+|ru|исполнять|impf|sc=Cyrl}}
+* Russian: {{t+|ru|выполнять|impf}}, {{t+|ru|исполнять|impf}}
 * Scottish Gaelic: {{t|gd|cuir an gnìomh}}
 * Ukrainian: {{t|uk|вико́нувати|impf}}
 {{trans-bottom}}
 
 {{trans-top|to start, launch or run software}}
 * Arabic: {{t|ar|ينفذ}}
-* Bulgarian: {{t+|bg|изпълнявам|sc=Cyrl}}
+* Bulgarian: {{t+|bg|изпълнявам}}
 * Catalan: {{t+|ca|executar}}, {{t+|ca|arrancar}}, {{t+|ca|arrencar}}
 * Danish: {{t|da|afvikle}}, {{t|da|udføre}}, {{t|da|eksekvere}}
 * Dutch: {{t+|nl|uitvoeren}}
@@ -146,11 +148,11 @@ From {{etyl|fro|en}} {{m|fro|executer}} (French {{m|fro|exécuter}}), from {{ety
 * Norwegian:
 *: Bokmål: {{t+|nb|kjøre}}, {{t|nb|eksekvere}}
 *: Nynorsk: {{t|nn|køyre}}, {{t|nn|eksekvere}}
-* Persian: {{t+|fa|اجرا|tr=ejrâ|sc=fa-Arab}}
+* Persian: {{t+|fa|اجرا|tr=ejrâ}}
 * Polish: {{t+|pl|uruchomić}}, {{t|pl|wystartować}}, {{t+|pl|wykonać}}
 * Portuguese: {{t+|pt|executar}}, {{t+|pt|rodar}}
 * Romanian: {{t+|ro|executa}}
-* Russian: {{t+|ru|прогонять|impf|sc=Cyrl}}, {{t+|ru|выполнять|impf|sc=Cyrl}}, {{t+|ru|запускать|impf|sc=Cyrl}}
+* Russian: {{t+|ru|прогонять|impf}}, {{t+|ru|выполнять|impf}}, {{t+|ru|запускать|impf}}
 * Slovene: {{t|sl|zagnati}}
 * Spanish: {{t+|es|ejecutar}}, {{t+|es|arrancar}}
 * Swedish: {{t+|sv|exekvera}}, {{t+|sv|köra}}
@@ -161,7 +163,7 @@ From {{etyl|fro|en}} {{m|fro|executer}} (French {{m|fro|exécuter}}), from {{ety
 * Catalan: {{t+|ca|executar}}
 * Finnish: {{t|fi|saattaa voimaan}}
 {{trans-mid}}
-* Russian: {{t+|ru|подписывать|impf|sc=Cyrl}}, {{t+|ru|подписать|pf|sc=Cyrl}}
+* Russian: {{t+|ru|подписывать|impf}}, {{t+|ru|подписать|pf}}
 {{trans-bottom}}
 
 [[Category:en:Death]]
@@ -170,6 +172,9 @@ From {{etyl|fro|en}} {{m|fro|executer}} (French {{m|fro|exécuter}}), from {{ety
 ----
 
 ==Latin==
+
+===Pronunciation===
+* {{la-IPA|execūte}}
 
 ===Participle===
 {{la-part-form|execūte}}
@@ -183,10 +188,7 @@ From {{etyl|fro|en}} {{m|fro|executer}} (French {{m|fro|exécuter}}), from {{ety
 ===Verb===
 {{head|pt|verb form}}
 
-# {{pt-verb form of|executar|ar|subjunctive|present|singular|first}}
-# {{pt-verb form of|executar|ar|subjunctive|present|singular|third}}
-# {{pt-verb form of|executar|ar|imperative|affirmative|singular|third|}}
-# {{pt-verb form of|executar|ar|imperative|negative|singular|third|}}
+# {{pt-verb-form-of|executar}}
 
 ----
 
