@@ -579,10 +579,10 @@ From {{der|nb|non|faðir}}, from {{der|nb|gem-pro|*fadēr}}, from {{der|nb|ine-p
 ==Norwegian Nynorsk==
 
 ===Pronunciation===
-* {{IPA|no|/fɑːr/}}
+* {{IPA|nn|/fɑːr/}} {{nn-pronu-note}}
 
 ===Etymology 1===
-From {{der|nn|non|faðir}}, from {{der|nn|gem-pro|*fadēr}}, from {{der|nn|ine-pro|*ph₂tḗr||father}}. Compare longer version {{m|nn|fader}}. Akin to {{cog|en|father}}.
+From {{inh|nn|non|faðir}}, from {{inh|nn|gem-pro|*fadēr}}, from {{inh|nn|ine-pro|*ph₂tḗr||father}}. Compare longer version {{m|nn|fader}}. Akin to {{cog|en|father}}.
 
 ===Noun===
 {{nn-noun|m|faren|fedrar|fedrane}}
@@ -595,18 +595,51 @@ From {{der|nn|non|faðir}}, from {{der|nn|gem-pro|*fadēr}}, from {{der|nn|ine-p
 
 ====Derived terms====
 {{Template:User:Donnanz/der3-u|lang=nn
+|aleinefar
+|allfar
+|bamsefar
+|barnefar
 |bestefar
+|den heilage far
+|familiefar
 |farbror
 |farfar
+|farlaus
 |farmor
+|farsarv
+|farsdag
 |farsfigur
 |farskap
+|farsrolle
 |farsside
+|farsslekt
+|farsyster
+|farsætt
+|fembarnsfar
+|firebarnsfar
+|forfar
+|fosterfar
+|gamlefar
+|godfar
 |gudfar
+|husfar
+|kyrkjefar
+|litlefar
+|medfar
 |morfar
+|oldefar
+|pleiefar
+|skriftefar
 |stamfar
 |stefar
+|stykfar
 |svigerfar
+|tobarnsfar
+|trebarnsfar
+|vera sonen til far sin
+|verfar
+|veslefar
+|ættfar
 }}
 
 ====Related terms====
@@ -615,7 +648,8 @@ From {{der|nn|non|faðir}}, from {{der|nn|gem-pro|*fadēr}}, from {{der|nn|ine-p
 * {{l|nn|son}}, {{l|nn|dotter}}
 
 ===Etymology 2===
-From {{der|nn|non|far}}.
+{{PIE root|nn|per}}
+From {{inh|nn|non|far}}, from {{inh|nn|gem-pro|*farą}}.
 
 ===Noun===
 {{nn-noun-n1}}
@@ -623,19 +657,54 @@ From {{der|nn|non|far}}.
 # {{l|en|trace}}, {{l|en|track}}
 
 ====Synonyms====
-* {{l|nn|spor}}
+* {{l|nn|spor|g=n}}
+* {{l|nn|laup|g=n}}
+
+====Derived terms====
+{{Template:User:Donnanz/der3-u|lang=nn
+|allfarveg
+|bekkefar
+|dyrefar
+|elvefar
+|farkost
+|farlei
+|farmann
+|farsott
+|fartøy
+|farvatn
+|farveg
+|fonnefar
+|fotefar
+|framfar
+|gjerefar
+|helsefar
+|hjulfar
+|ifar
+|médfar
+|mosefar
+|omfar
+|orkefar
+|saumfar
+|skifar
+|skredfar
+|skrufar
+|stokkefar
+|tilfar
+|vassfar
+}}
 
 ===Etymology 3===
+{{nonlemma}}
 
 ===Verb===
-{{head|nn|verb form}}
+{{nn-verb-form}}
 
-# {{inflection of|nn|fara||imp}}
+# {{infl of|nn|fara||imp}}
 
 ===References===
-* {{R:Dokumentasjonsprosjektet|lang=nn}}
+* {{R:The Nynorsk Dictionary}}
 
-[[Category:nn:Family]]
+{{topics|nn|Family|Family members|Male family members|Parents}}
 
 ----
 
