@@ -56,370 +56,372 @@ For {{m|ine-pro|*h₂éḱmō||stone}}, compare {{cog|lt|akmuõ}}, {{cog|ru|ка
 
 ====Translations====
 {{trans-top|tool}}
-* Abaza: {{t|abq|жьахӏва|sc=Cyrl}}
-* Abenaki: {{t-simple|abe|langname=Abenaki|bagam8gan-al}}, {{t-simple|abe|langname=Abenaki|malto}}
-* Abkhaz: {{t|ab|ажьаҳәа|sc=Cyrl}}
-* Adyghe: {{t|ady|уатэ|sc=Cyrl}}, {{t|ady|уадэ|sc=Cyrl}}, {{t|ady|отэшху|sc=Cyrl}}
-* Afrikaans: {{t-simple|interwiki=1|af|langname=Afrikaans|hamer}}
-* Alabama: {{t-simple|akz|langname=Alabama|isbatatka}}, {{t-simple|akz|langname=Alabama|isbatka}}
-* Albanian: {{t+|sq|çekan|m}}, {{t+|sq|çekiç|m}}, {{t+|sq|vare|f}}
-* Alemannic German: {{t-simple|gsw|langname=Alemannic German|Hàmmer}}
-* Amharic: {{t|am|መዶሻ|sc=Ethi}}
-* Arabic: {{t+|ar|مِطْرَقَة|f}}
-*: Algerian Arabic: {{t|arq|مارطو|tr=marṭu}}
-*: Egyptian Arabic: {{t|arz|شَاكُوش|m|tr=šakūš|sc=Arab}}
-*: Hijazi Arabic: {{t|acw|شَاكُوش|m|tr=šākūš|sc=Arab}}, {{t|acw|مِطْرَقَة|m|tr=miṭraga|sc=Arab}}
-*: Moroccan Arabic: {{t|ary|مطرقة|f|tr=mṭarqa}}
-* Aragonese: {{t-simple|an|langname=Aragonese|martiello|g=m}}
+{{multitrans|data=
+* Abaza: {{tt|abq|жьахӏва|sc=Cyrl}}
+* Abenaki: {{tt|abe|bagam8gan-al}}, {{tt|abe|malto}}
+* Abkhaz: {{tt|ab|ажьаҳәа|sc=Cyrl}}
+* Adyghe: {{tt|ady|уатэ|sc=Cyrl}}, {{tt|ady|уадэ|sc=Cyrl}}, {{tt|ady|отэшху|sc=Cyrl}}
+* Afrikaans: {{tt+|af|hamer}}
+* Alabama: {{tt|akz|isbatatka}}, {{tt|akz|isbatka}}
+* Albanian: {{tt+|sq|çekan|m}}, {{tt+|sq|çekiç|m}}, {{tt+|sq|vare|f}}
+* Alemannic German: {{tt|gsw|Hàmmer}}
+* Amharic: {{tt|am|መዶሻ|sc=Ethi}}
+* Arabic: {{tt+|ar|مِطْرَقَة|f}}
+*: Algerian Arabic: {{tt|arq|مارطو|tr=marṭu}}
+*: Egyptian Arabic: {{tt|arz|شَاكُوش|m|tr=šakūš|sc=Arab}}
+*: Hijazi Arabic: {{tt|acw|شَاكُوش|m|tr=šākūš|sc=Arab}}, {{tt|acw|مِطْرَقَة|m|tr=miṭraga|sc=Arab}}
+*: Moroccan Arabic: {{tt|ary|مطرقة|f|tr=mṭarqa}}
+* Aragonese: {{tt|an|martiello|m}}
 * Aramaic:
-*: Classical Syriac: {{t|syc|ܐܪܙܦܬܐ|f|tr=ʾarzap̄tā|sc=Syrc}}, {{t|syc|ܡܪܙܦܬܐ|f|tr=marzap̄tā|sc=Syrc}}
-* Armenian: {{t+|hy|մուրճ}}
-*: Old Armenian: {{t|xcl|մուրճ}}, {{t|xcl|ուռն}}, {{t|xcl|կռան}}
-* Assamese: {{t|as|হাতুড়ি}}
-* Asturian: {{t-simple|ast|langname=Asturian|martiellu|g=m}}
-* Avar: {{t|av|квартӏа|sc=Cyrl}}
-* Aymara: {{t-simple|ay|langname=Aymara|liq'iña}}
-* Azerbaijani: {{t-simple|interwiki=1|az|langname=Azerbaijani|çəkic}}
-* Bambara: {{t-simple|bm|langname=Bambara|marito}}
-* Banjarese: {{t-simple|bjn|langname=Banjarese|tukul}}
-* Bashkir: {{t|ba|сүкеш|sc=Cyrl}}, {{t|ba|балға|sc=Cyrl}}
-* Basque: {{t-simple|eu|langname=Basque|mailu}}
-* Bats: {{t|bbl|kʼver}}
-* Belarusian: {{t|be|мо́лат|m|sc=Cyrl}}, {{t|be|малато́к|m|sc=Cyrl}}
-* Bengali: {{t|bn|হাতুড়ি|sc=Beng}}
+*: Classical Syriac: {{tt|syc|ܐܪܙܦܬܐ|f|tr=ʾarzap̄tā|sc=Syrc}}, {{tt|syc|ܡܪܙܦܬܐ|f|tr=marzap̄tā|sc=Syrc}}
+* Armenian: {{tt+|hy|մուրճ}}
+*: Old Armenian: {{tt|xcl|մուրճ}}, {{tt|xcl|ուռն}}, {{tt|xcl|կռան}}
+* Assamese: {{tt|as|হাতুড়ি}}
+* Asturian: {{tt|ast|martiellu|m}}
+* Avar: {{tt|av|квартӏа|sc=Cyrl}}
+* Aymara: {{tt|ay|liq'iña}}
+* Azerbaijani: {{tt+|az|çəkic}}
+* Bambara: {{tt|bm|marito}}
+* Banjarese: {{tt|bjn|tukul}}
+* Bashkir: {{tt|ba|сүкеш|sc=Cyrl}}, {{tt|ba|балға|sc=Cyrl}}
+* Basque: {{tt|eu|mailu}}
+* Bats: {{tt|bbl|kʼver}}
+* Belarusian: {{tt|be|мо́лат|m|sc=Cyrl}}, {{tt|be|малато́к|m|sc=Cyrl}}
+* Bengali: {{tt|bn|হাতুড়ি|sc=Beng}}
 * Berber:
-*: Central Atlas Tamazight: {{t-simple|tzm|langname=Central Atlas Tamazight|tasmart}}
-*: Kabyle: {{t-simple|kab|langname=Kabyle|tafḍist}}
-* Bikol Central: {{t-simple|bcl|langname=Bikol Central|dongsol}}, {{t-simple|bcl|langname=Bikol Central|martilyo}}
-* Bislama: {{t-simple|bi|langname=Bislama|hama}}
-* Breton: {{t+|br|morzhol|m}}, morzholioù {{g|p}}
-* Bulgarian: {{t+|bg|чук|m|sc=Cyrl}}
-* Burmese: {{t+|my|တူ|sc=Mymr}}
-* Buryat: {{t|bua|балта|sc=Cyrl}}, {{t|bua|алха|sc=Cyrl}}
-* Catalan: {{t-simple|interwiki=1|ca|langname=Catalan|martell|g=m}}
-* Cebuano: {{t-simple|ceb|langname=Cebuano|martilyo}}
-* Chamorro: {{t-simple|ch|langname=Chamorro|måttiyu}}
-* Chechen: {{t|ce|варзап|sc=Cyrl}}, {{t|ce|жӀов}}
-* Cherokee: {{t|chr|ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ}}
-* Cheyenne: {{t-simple|chy|langname=Cheyenne|tôhohko}}
-* Chichewa: {{t-simple|ny|langname=Chichewa|nyundo}}
+*: Central Atlas Tamazight: {{tt|tzm|tasmart}}
+*: Kabyle: {{tt|kab|tafḍist}}
+* Bikol Central: {{tt|bcl|dongsol}}, {{tt|bcl|martilyo}}
+* Bislama: {{tt|bi|hama}}
+* Breton: {{tt+|br|morzhol|m}}, morzholioù {{g|p}}
+* Bulgarian: {{tt+|bg|чук|m|sc=Cyrl}}
+* Burmese: {{tt+|my|တူ|sc=Mymr}}
+* Buryat: {{tt|bua|балта|sc=Cyrl}}, {{tt|bua|алха|sc=Cyrl}}
+* Catalan: {{tt+|ca|martell|m}}
+* Cebuano: {{tt|ceb|martilyo}}
+* Chamorro: {{tt|ch|måttiyu}}
+* Chechen: {{tt|ce|варзап|sc=Cyrl}}, {{tt|ce|жӀов}}
+* Cherokee: {{tt|chr|ᎪᎱᏍᏗ ᎬᏔᏂᏓᏍᏗ}}
+* Cheyenne: {{tt|chy|tôhohko}}
+* Chichewa: {{tt|ny|nyundo}}
 * Chinese:
-*: Cantonese: {{t|yue|錘|tr=ceoi4}}
-*: Mandarin: {{t+|cmn|錘子|sc=Hani}}, {{t+|cmn|锤子|tr=chuízi|sc=Hani}}, {{t+|cmn|榔頭|sc=Hani}}, {{t+|cmn|榔头|tr=lángtou|sc=Hani}}
-*: Min Nan: {{t+|nan|摃槌仔|sc=Hani}}, {{t|nan|扛槌仔|tr=kòng-thûi-á|sc=Hani}}
-* Chuvash: {{t|cv|мӑлатук|sc=Cyrl}}
-* Cornish: {{t-simple|kw|langname=Cornish|morthol|g=m}}
-* Corsican: {{t-simple|co|langname=Corsican|martellu|g=m}}
-* Cree: {{t|cr|ᐸᑲᒫᑲᓂᐢ}}
-* Crimean Tatar: {{t-simple|crh|langname=Crimean Tatar|çöküç}}
-* Czech: {{t-simple|interwiki=1|cs|langname=Czech|kladivo|g=n}}
-* Dakota: {{t-simple|dak|langname=Dakota|iyokataŋ}}, {{t-simple|dak|langname=Dakota|maziaphe}}
-* Danish: {{t+|da|hammer|c}}
-* Dargwa: {{t|dar|кьякь}}
-* Dhivehi: {{t|dv|މަރުތެޔޮ}}
-* Dutch: {{t+|nl|hamer|m}}
-* Dzongkha: {{t|dz|ཐོཝ|sc=Tibt}}
-* East Futuna: {{t-simple|fud|langname=East Futuna|āmale}}
-* Emilian: {{t-simple|egl|langname=Emilian|martèl|g=m}}, {{t-simple|egl|langname=Emilian|martel|g=m}}
-* Erzya: {{t|myv|молотка|sc=Cyrl}}
-* Esperanto: {{t-simple|interwiki=1|eo|langname=Esperanto|martelo}}
-* Estonian: {{t-simple|interwiki=1|et|langname=Estonian|haamer}}, {{t-simple|interwiki=1|et|langname=Estonian|vasar}}
-* Even: {{t|eve|халка̇}}
-* Evenki: {{t|evn|халкачан|sc=Cyrl}}, {{t|evn|халка|sc=Cyrl}}, {{t|evn|халка}}
-* Extremaduran: {{t-simple|ext|langname=Extremaduran|maltillu}}
-* Farefare: {{t|gur|hãma}}, {{t|gur|zãarɛ}}
-* Faroese: {{t-simple|fo|hamari|langname=Faroese|g=m}}
-* Fiji Hindi: {{t-simple|interwiki=1|hif|langname=Fiji Hindi|haamaa}}
-* Fijian: {{t-simple|fj|langname=Fijian|ituki}}
-* Finnish: {{t+|fi|vasara}}
-* French: {{t-simple|interwiki=1|fr|langname=French|marteau|g=m}}
-* Friulian: {{t-simple|fur|langname=Friulian|martiel|g=m}}
-* Gagauz: {{t-simple|gag|langname=Gagauz|çokan}}, {{t-simple|gag|langname=Gagauz|çekiç}}
-* Galician: {{t-simple|interwiki=1|gl|langname=Galician|martelo|g=m}}, {{t-simple|gl|langname=Galician|marra|g=f}}, {{t-simple|gl|langname=Galician|repelo|g=m}}, {{t-simple|gl|langname=Galician|bugarda|g=f}}, {{t-simple|gl|langname=Galicianl|soliñadeira|g=f}}, {{t-simple|gl|langname=Galician|escoda|g=f}}, {{t-simple|gl|langname=Galician|cotás|g=m}}
-* Gallo: {{t-simple|roa-gal|langname=Gallo|martet}}
-* Georgian: {{t|ka|ჩაქუჩი}}, {{t|ka|ურო}}
-* German: {{t+|de|Hammer|m}}
-* Gilbertese: {{t-simple|gil|langname=Gilbertese|aama}}
-* Greek: {{t+|el|σφυρί|n}}
-*: Ancient: {{t|grc|σφῦρα|f}}, {{t|grc|κέστρα|f}}
+*: Cantonese: {{tt|yue|錘|tr=ceoi4}}
+*: Mandarin: {{tt+|cmn|錘子|sc=Hani}}, {{tt+|cmn|锤子|tr=chuízi|sc=Hani}}, {{tt+|cmn|榔頭|sc=Hani}}, {{tt+|cmn|榔头|tr=lángtou|sc=Hani}}
+*: Min Nan: {{tt+|nan|摃槌仔|sc=Hani}}, {{tt|nan|扛槌仔|tr=kòng-thûi-á|sc=Hani}}
+* Chuvash: {{tt|cv|мӑлатук|sc=Cyrl}}
+* Cornish: {{tt|kw|morthol|m}}
+* Corsican: {{tt|co|martellu|m}}
+* Cree: {{tt|cr|ᐸᑲᒫᑲᓂᐢ}}
+* Crimean Tatar: {{tt|crh|çöküç}}
+* Czech: {{tt+|cs|kladivo|n}}
+* Dakota: {{tt|dak|iyokataŋ}}, {{tt|dak|maziaphe}}
+* Danish: {{tt+|da|hammer|c}}
+* Dargwa: {{tt|dar|кьякь}}
+* Dhivehi: {{tt|dv|މަރުތެޔޮ}}
+* Dutch: {{tt+|nl|hamer|m}}
+* Dzongkha: {{tt|dz|ཐོཝ|sc=Tibt}}
+* East Futuna: {{tt|fud|āmale}}
+* Emilian: {{tt|egl|martèl|m}}, {{tt|egl|martel|m}}
+* Erzya: {{tt|myv|молотка|sc=Cyrl}}
+* Esperanto: {{tt+|eo|martelo}}
+* Estonian: {{tt+|et|haamer}}, {{tt+|et|vasar}}
+* Even: {{tt|eve|халка̇}}
+* Evenki: {{tt|evn|халкачан|sc=Cyrl}}, {{tt|evn|халка|sc=Cyrl}}, {{tt|evn|халка}}
+* Extremaduran: {{tt|ext|maltillu}}
+* Farefare: {{tt|gur|hãma}}, {{tt|gur|zãarɛ}}
+* Faroese: {{tt|fo|hamari|m}}
+* Fiji Hindi: {{tt+|hif|haamaa}}
+* Fijian: {{tt|fj|ituki}}
+* Finnish: {{tt+|fi|vasara}}
+* French: {{tt+|fr|marteau|m}}
+* Friulian: {{tt|fur|martiel|m}}
+* Gagauz: {{tt|gag|çokan}}, {{tt|gag|çekiç}}
+* Galician: {{tt+|gl|martelo|m}}, {{tt|gl|marra|f}}, {{tt|gl|repelo|m}}, {{tt|gl|bugarda|f}}, {{tt|gl|soliñadeira|f}}, {{tt|gl|escoda|f}}, {{tt|gl|cotás|m}}
+* Gallo: {{tt|roa-gal|martet}}
+* Georgian: {{tt|ka|ჩაქუჩი}}, {{tt|ka|ურო}}
+* German: {{tt+|de|Hammer|m}}
+* Gilbertese: {{tt|gil|aama}}
+* Greek: {{tt+|el|σφυρί|n}}
+*: Ancient: {{tt|grc|σφῦρα|f}}, {{tt|grc|κέστρα|f}}
 *: Griko: [[martèddhi]] {{g|n}}
-* Greenlandic: {{t-simple|kl|langname=Greenlandic|kaataq}}
-* Guaraní: {{t-simple|gn|langname=Guaraní|mbotaha}}
-* Gujarati: {{t|gu|હથોડો|f|sc=Gujr}}
-* Haitian Creole: {{t|ht|mato}}
-* Hausa: {{t|ha|gùdumā̀}}, {{t|ha|hamā̀}}
-* Hawaiian: {{t|haw|hāmale}}, {{t|haw|hamare}}
-* Hebrew: {{t+|he|פַּטִּישׁ|m|tr=patísh|sc=Hebr}}
-* Hindi: {{t+|hi|हथौड़ा|m|sc=Deva}}
-* Hungarian: {{t+|hu|kalapács}}
-* Icelandic: {{t+|is|hamar|m}}
-* Ido: {{t+|io|martelo}}
-* Ilocano: {{t|ilo|martilio}}
-* Indonesian: {{t+|id|palu}}
-* Ingush: {{t|inh|жӏов|sc=Cyrl}}, {{t|inh|гон|sc=Cyrl}}
-* Interlingua: {{t|ia|martello}}
-* Interlingue: {{t|ie|martell}}
-* Irish: {{t|ga|casúr|m}}
-* Italian: {{t+|it|martello|m}}
-* Japanese: {{t+|ja|金槌|tr=かなづち, kanazuchi|sc=Jpan}}, {{t+|ja|槌|tr=つち, tsuchi|sc=Jpan}}, {{t|ja|ハンマー|tr=hanmā|sc=Jpan}}
-* Javanese: {{t+|jv|gandhèn}}
-* Kalmyk: {{t|xal|алх|sc=Cyrl}}
-* Kannada: {{t+|kn|ಬಡಿಗೆ|sc=Knda}}
-* Kapampangan: {{t|pam|pamukpuk}}, {{t|pam|martiliu}}
-* Karachay-Balkar: {{t|krc|чёгюч|sc=Cyrl}}
-* Karelian: {{t|krl|vazara}}, {{t|krl|pal’l’u}}
-* Kashubian: {{t|csb|młotk}}, {{t|csb|mérk}}
-* Kazakh: {{t+|kk|балға|sc=Cyrl}}
-* Khakas: {{t|kjh|пасха|sc=Cyrl}}, {{t|kjh|пасхаӌах|sc=Cyrl}}
-* Khanty: {{t|kca|кеви|sc=Cyrl}}, {{t|kca|сяк|sc=Cyrl}}
-* Khmer: {{t+|km|ញញួរ}}
-* Kildin Sami: {{t|sjd|ве̄жяр|sc=Cyrl}}
-* Komi-Zyrian: {{t|kpv|мӧлӧт|sc=Cyrl}}
-* Kongo: {{t|kg|nkonko}}
-* Konkani: {{t|kok|आथोडि|tr=aathoDi|sc=Deva}}
-* Korean: {{t+|ko|망치}}
-* Kumyk: {{t|kum|чёгюч|sc=Cyrl}}
-* Kurdish: {{t+|ku|çekûç|m}}, {{t+|ku|keçûç|m}}
-*: Kurmanji: {{t+|ku|çakuç}}
-*: Sorani: {{t+|ku|چەکوچ}}
-* Kyrgyz: {{t+|ky|барскан|sc=Cyrl}}
-* Ladin: {{t|lld|martel|m}}
-* Lao: {{t+|lo|ຄ້ອນຕີ}}
-* Latgalian: {{t|ltg|vasars|m}}
-* Latin: {{t+|la|malleus|m}}, {{qualifier|Late Latin}} {{t|la|martellus|m}}, {{t|la|marcus|m}}, {{t|la|tudes|m}}
-* Latvian: {{t|lv|āmurs|m}}, {{t|lv|veseris|m}}
-* Laz: {{t|lzz|languri}}
-* Lezgi: {{t|lez|кӏаш|sc=Cyrl}}, {{t|lez|кӏута|sc=Cyrl}}
-* Ligurian: {{t|lij|martello|m}}
-* Limburgish: {{t|li|hamel|m}}
-* Lingala: {{t|ln|ebétele}}, {{t|ln|yende}}
-* Lithuanian: {{t|lt|plaktukas|m}}, {{t|lt|kūjis|m}}
+* Greenlandic: {{tt|kl|kaataq}}
+* Guaraní: {{tt|gn|mbotaha}}
+* Gujarati: {{tt|gu|હથોડો|f|sc=Gujr}}
+* Haitian Creole: {{tt|ht|mato}}
+* Hausa: {{tt|ha|gùdumā̀}}, {{tt|ha|hamā̀}}
+* Hawaiian: {{tt|haw|hāmale}}, {{tt|haw|hamare}}
+* Hebrew: {{tt+|he|פַּטִּישׁ|m|tr=patísh|sc=Hebr}}
+* Hindi: {{tt+|hi|हथौड़ा|m|sc=Deva}}
+* Hungarian: {{tt+|hu|kalapács}}
+* Icelandic: {{tt+|is|hamar|m}}
+* Ido: {{tt+|io|martelo}}
+* Ilocano: {{tt|ilo|martilio}}
+* Indonesian: {{tt+|id|palu}}
+* Ingush: {{tt|inh|жӏов|sc=Cyrl}}, {{tt|inh|гон|sc=Cyrl}}
+* Interlingua: {{tt|ia|martello}}
+* Interlingue: {{tt|ie|martell}}
+* Irish: {{tt|ga|casúr|m}}
+* Italian: {{tt+|it|martello|m}}
+* Japanese: {{tt+|ja|金槌|tr=かなづち, kanazuchi|sc=Jpan}}, {{tt+|ja|槌|tr=つち, tsuchi|sc=Jpan}}, {{tt|ja|ハンマー|tr=hanmā|sc=Jpan}}
+* Javanese: {{tt+|jv|gandhèn}}
+* Kalmyk: {{tt|xal|алх|sc=Cyrl}}
+* Kannada: {{tt+|kn|ಬಡಿಗೆ|sc=Knda}}
+* Kapampangan: {{tt|pam|pamukpuk}}, {{tt|pam|martiliu}}
+* Karachay-Balkar: {{tt|krc|чёгюч|sc=Cyrl}}
+* Karelian: {{tt|krl|vazara}}, {{tt|krl|pal’l’u}}
+* Kashubian: {{tt|csb|młotk}}, {{tt|csb|mérk}}
+* Kazakh: {{tt+|kk|балға|sc=Cyrl}}
+* Khakas: {{tt|kjh|пасха|sc=Cyrl}}, {{tt|kjh|пасхаӌах|sc=Cyrl}}
+* Khanty: {{tt|kca|кеви|sc=Cyrl}}, {{tt|kca|сяк|sc=Cyrl}}
+* Khmer: {{tt+|km|ញញួរ}}
+* Kildin Sami: {{tt|sjd|ве̄жяр|sc=Cyrl}}
+* Komi-Zyrian: {{tt|kpv|мӧлӧт|sc=Cyrl}}
+* Kongo: {{tt|kg|nkonko}}
+* Konkani: {{tt|kok|आथोडि|tr=aathoDi|sc=Deva}}
+* Korean: {{tt+|ko|망치}}
+* Kumyk: {{tt|kum|чёгюч|sc=Cyrl}}
+* Kurdish: {{tt+|ku|çekûç|m}}, {{tt+|ku|keçûç|m}}
+*: Kurmanji: {{tt+|ku|çakuç}}
+*: Sorani: {{tt+|ku|چەکوچ}}
+* Kyrgyz: {{tt+|ky|барскан|sc=Cyrl}}
+* Ladin: {{tt|lld|martel|m}}
+* Lao: {{tt+|lo|ຄ້ອນຕີ}}
+* Latgalian: {{tt|ltg|vasars|m}}
+* Latin: {{tt+|la|malleus|m}}, {{qualifier|Late Latin}} {{tt|la|martellus|m}}, {{tt|la|marcus|m}}, {{tt|la|tudes|m}}
+* Latvian: {{tt|lv|āmurs|m}}, {{tt|lv|veseris|m}}
+* Laz: {{tt|lzz|languri}}
+* Lezgi: {{tt|lez|кӏаш|sc=Cyrl}}, {{tt|lez|кӏута|sc=Cyrl}}
+* Ligurian: {{tt|lij|martello|m}}
+* Limburgish: {{tt|li|hamel|m}}
+* Lingala: {{tt|ln|ebétele}}, {{tt|ln|yende}}
+* Lithuanian: {{tt|lt|plaktukas|m}}, {{tt|lt|kūjis|m}}
 {{trans-mid}}
-* Livonian: {{t|liv|vazār}}
-* Lombard: {{t|lmo|martel|m}}, {{t|lmo|martee|m}}
-* Low German: {{t|nds|Hamer}}
-* Luganda: {{t|lg|ennyondo}}, {{t|lg|okukomerera}}
-* Luhya: {{t|luy|enyundo}}
-* Luxembourgish: {{t|lb|Hummer|m}}
-* Maasai: {{t|mas|e-nyúntù}}
-* Macedonian: {{t|mk|че́кан|m|sc=Cyrl}}
-* Malagasy: {{t+|mg|famepika}}
-* Malay: {{t|ms|tukul}}, {{t|ms|palu}}, {{t|ms|penukul}}, {{t|ms|martil}}
-* Malayalam: {{t|ml|ചുറ്റിക|sc=Mlym}}
-* Maltese: {{t|mt|martell|m}}, {{t|mt|mitraq|m}}
-* Manchu: {{t|mnc|ᡶᠣᠯᡥᠣ}}
-* Manx: {{t|gv|oard}}
-* Maori: {{t|mi|pākuru}}
-* Marathi: {{t|mr|हातोडा|sc=Deva}}
-* Mari: {{t|chm|чӧгыт|sc=Cyrl}}, {{t|chm|молот|m|sc=Cyrl}}
-* Megleno-Romanian: {{t|ruq|tšecan|alt=tšecán}}
-* Mirandese: {{t|mwl|martielho|m}}
-* Moksha: {{t|mdf|молатка|sc=Cyrl}}
-* Mongolian: {{t+|mn|алх|sc=Cyrl}}
-* Nahuatl: {{t|nah|tepuztlatetzotzonaloni}}, {{t|nah|tlateuiloni}}
-* Nanai: {{t|gld|палоа|sc=Cyrl}}, {{t|gld|палоа}}
-* Nauruan: {{t|na|amar}}
-* Navajo: {{t|nv|bee atsidí}}
-* Neapolitan: {{t|nap|martiello|m}}
-* Negidal: {{t|neg|halka}}
-* Nenets: {{t|yrk|ма|sc=Cyrl}}
-* Nepali: {{t|ne|हथौडा}}
-* Nganasan: {{t|nio|мыә|sc=Cyrl}}
-* Ngarrindjeri: {{t|nay|yerungi}}
-* Nogai: {{t|nog|шоькиш|sc=Cyrl}}, {{t|nog|таптавыш|sc=Cyrl}}
-* Norman: {{t|nrf|marté|m}}
-* North Frisian: {{t|frr|höömerk}}
-* Northern Sami: {{t|se|veažir}}
-* Northern Sotho: {{t|nso|nôtô}}, {{t|nso|hamola}}
+* Livonian: {{tt|liv|vazār}}
+* Lombard: {{tt|lmo|martel|m}}, {{tt|lmo|martee|m}}
+* Low German: {{tt|nds|Hamer}}
+* Luganda: {{tt|lg|ennyondo}}, {{tt|lg|okukomerera}}
+* Luhya: {{tt|luy|enyundo}}
+* Luxembourgish: {{tt|lb|Hummer|m}}
+* Maasai: {{tt|mas|e-nyúntù}}
+* Macedonian: {{tt|mk|че́кан|m|sc=Cyrl}}
+* Malagasy: {{tt+|mg|famepika}}
+* Malay: {{tt|ms|tukul}}, {{tt|ms|palu}}, {{tt|ms|penukul}}, {{tt|ms|martil}}
+* Malayalam: {{tt|ml|ചുറ്റിക|sc=Mlym}}
+* Maltese: {{tt|mt|martell|m}}, {{tt|mt|mitraq|m}}
+* Manchu: {{tt|mnc|ᡶᠣᠯᡥᠣ}}
+* Manx: {{tt|gv|oard}}
+* Maori: {{tt|mi|pākuru}}
+* Marathi: {{tt|mr|हातोडा|sc=Deva}}
+* Mari: {{tt|chm|чӧгыт|sc=Cyrl}}, {{tt|chm|молот|m|sc=Cyrl}}
+* Megleno-Romanian: {{tt|ruq|tšecan|alt=tšecán}}
+* Mirandese: {{tt|mwl|martielho|m}}
+* Moksha: {{tt|mdf|молатка|sc=Cyrl}}
+* Mongolian: {{tt+|mn|алх|sc=Cyrl}}
+* Nahuatl: {{tt|nah|tepuztlatetzotzonaloni}}, {{tt|nah|tlateuiloni}}
+* Nanai: {{tt|gld|палоа|sc=Cyrl}}, {{tt|gld|палоа}}
+* Nauruan: {{tt|na|amar}}
+* Navajo: {{tt|nv|bee atsidí}}
+* Neapolitan: {{tt|nap|martiello|m}}
+* Negidal: {{tt|neg|halka}}
+* Nenets: {{tt|yrk|ма|sc=Cyrl}}
+* Nepali: {{tt|ne|हथौडा}}
+* Nganasan: {{tt|nio|мыә|sc=Cyrl}}
+* Ngarrindjeri: {{tt|nay|yerungi}}
+* Nogai: {{tt|nog|шоькиш|sc=Cyrl}}, {{tt|nog|таптавыш|sc=Cyrl}}
+* Norman: {{tt|nrf|marté|m}}
+* North Frisian: {{tt|frr|höömerk}}
+* Northern Sami: {{tt|se|veažir}}
+* Northern Sotho: {{tt|nso|nôtô}}, {{tt|nso|hamola}}
 * Norwegian:
-*: Bokmål: {{t+|nb|hammer|m}}
-*: Nynorsk: {{t|nn|hammar|m}}
-* Occitan: {{t+|oc|martèl|m}}
-* Old Norse: {{t|non|hamarr}}
-* Old Prussian: {{t|prg|hamer}}
-* Oroch: {{t|oac|халуа}}
-* Orok: {{t|oaa|пало}}
-* Oromo: {{t|om|madooshaa}}
-* Ossetian: {{t|os|дзӕбуг|sc=Cyrl}}
-* Pali: {{t|pi|muggaro}}
-* Pashto: {{t|ps|څېټۍ|sc=ps-Arab}}
-* Persian: {{t+|fa|چکش|tr=čakoš|sc=fa-Arab}}
-* Picard: {{t|pcd|martieau|m}}
-* Piedmontese: {{t|pms|martel|m}}
-* Plautdietsch: {{t|pdt|Homa|m}}
-* Polish: {{t+|pl|młot|m}}, {{t+|pl|młotek|m}}
-* Pontic Greek: {{t|pnt|τσακούτς|sc=Grek}}
-* Portuguese: {{t+|pt|martelo|m}}
-* Punjabi: {{t|pa|ਹਥੌੜਾ}}
-* Quechua: {{t|qu|takana}}
-* Romagnol: {{t|rgn|martel|m}}
-* Romanian: {{t+|ro|ciocan|n}}
-* Romansch: {{t|rm|martè|m}}, {{t|rm|marti|m}}, {{t|rm|martel|m}}
-* Russian: {{t+|ru|мо́лот|m}}, {{t+|ru|молото́к|m}}
-* Rwanda-Rundi: {{t|rw|inyundo|c9|c10}}
-* Samoan: {{t|sm|samala}}
-* Samogitian: {{t|sgs|kūjātis}}
-* Sanskrit: {{t+|sa|मुद्गर}}
-* Sardinian: {{t|sc|marteddu}}, {{t|sc|maltedhu}}, {{t|sc|malteddu}}, {{t|sc|marcedhu}}, {{t|sc|martedhu}}, {{t|sc|martzedhu}}, {{t|sc|martzeddu}}, {{t|sc|matedhu}}, {{t|sc|mateddu}}, {{t|sc|matzedhu}}, {{t|sc|matzeddu}}
-* Saterland Frisian: {{t|stq|Hoomer}}
-* Scots: {{t|sco|haimer}}
-* Scottish Gaelic: {{t|gd|òrd|m}}
-* Selkup: {{t|sel|сөлы|sc=Cyrl}}
+*: Bokmål: {{tt+|nb|hammer|m}}
+*: Nynorsk: {{tt|nn|hammar|m}}
+* Occitan: {{tt+|oc|martèl|m}}
+* Old Norse: {{tt|non|hamarr}}
+* Old Prussian: {{tt|prg|hamer}}
+* Oroch: {{tt|oac|халуа}}
+* Orok: {{tt|oaa|пало}}
+* Oromo: {{tt|om|madooshaa}}
+* Ossetian: {{tt|os|дзӕбуг|sc=Cyrl}}
+* Pali: {{tt|pi|muggaro}}
+* Pashto: {{tt|ps|څېټۍ|sc=ps-Arab}}
+* Persian: {{tt+|fa|چکش|tr=čakoš|sc=fa-Arab}}
+* Picard: {{tt|pcd|martieau|m}}
+* Piedmontese: {{tt|pms|martel|m}}
+* Plautdietsch: {{tt|pdt|Homa|m}}
+* Polish: {{tt+|pl|młot|m}}, {{tt+|pl|młotek|m}}
+* Pontic Greek: {{tt|pnt|τσακούτς|sc=Grek}}
+* Portuguese: {{tt+|pt|martelo|m}}
+* Punjabi: {{tt|pa|ਹਥੌੜਾ}}
+* Quechua: {{tt|qu|takana}}
+* Romagnol: {{tt|rgn|martel|m}}
+* Romanian: {{tt+|ro|ciocan|n}}
+* Romansch: {{tt|rm|martè|m}}, {{tt|rm|marti|m}}, {{tt|rm|martel|m}}
+* Russian: {{tt+|ru|мо́лот|m}}, {{tt+|ru|молото́к|m}}
+* Rwanda-Rundi: {{tt|rw|inyundo|c9|c10}}
+* Samoan: {{tt|sm|samala}}
+* Samogitian: {{tt|sgs|kūjātis}}
+* Sanskrit: {{tt+|sa|मुद्गर}}
+* Sardinian: {{tt|sc|marteddu}}, {{tt|sc|maltedhu}}, {{tt|sc|malteddu}}, {{tt|sc|marcedhu}}, {{tt|sc|martedhu}}, {{tt|sc|martzedhu}}, {{tt|sc|martzeddu}}, {{tt|sc|matedhu}}, {{tt|sc|mateddu}}, {{tt|sc|matzedhu}}, {{tt|sc|matzeddu}}
+* Saterland Frisian: {{tt|stq|Hoomer}}
+* Scots: {{tt|sco|haimer}}
+* Scottish Gaelic: {{tt|gd|òrd|m}}
+* Selkup: {{tt|sel|сөлы|sc=Cyrl}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|чекић|m|sc=Cyrl}}
-*: Roman: {{t+|sh|čekić|m}}
-* Sherpa: {{t|xsr|थो|tr=tho|sc=Deva}}
-* Shona: {{t|sn|nyundo}}
-* Shor: {{t|cjs|масқа|sc=Cyrl}}
-* Sicilian: {{t+|scn|marteddu|m}}
-* Silesian: {{t|szl|hamer}}
-* Sinhalese: {{t|si|මිටිය|sc=Sinh}}
-* Slovak: {{t+|sk|kladivo|n}}
-* Slovene: {{t+|sl|kladivo|n}}
-* Somali: {{t|so|cuddad|f}}
+*: Cyrillic: {{tt|sh|чекић|m|sc=Cyrl}}
+*: Roman: {{tt+|sh|čekić|m}}
+* Sherpa: {{tt|xsr|थो|tr=tho|sc=Deva}}
+* Shona: {{tt|sn|nyundo}}
+* Shor: {{tt|cjs|масқа|sc=Cyrl}}
+* Sicilian: {{tt+|scn|marteddu|m}}
+* Silesian: {{tt|szl|hamer}}
+* Sinhalese: {{tt|si|මිටිය|sc=Sinh}}
+* Slovak: {{tt+|sk|kladivo|n}}
+* Slovene: {{tt+|sl|kladivo|n}}
+* Somali: {{tt|so|cuddad|f}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb|klapac|m}}
-*: Upper Sorbian: {{t|hsb|hamor|m}}
-* Sotho: {{t|st|noto|c9|c10}}, {{t|st|hamore|c9|10}}
-* Southern Altai: {{t|alt|маска|sc=Cyrl}}, {{t|alt|балга}}
-* Spanish: {{t+|es|martillo|m}}
-* Sranan Tongo: {{t|srn|ambra}}, {{t|srn|amra}}
-* Sundanese: {{t|su|palu}}, {{t|su|martil}}
-* Swahili: {{t+|sw|nyundo|c9|c10}}
-* Swedish: {{t+|sv|hammare|c}}
-* Tagalog: {{t|tl|martilyo}}, {{t|tl|pamukpok}}, {{t|tl|binalalak}}
-* Tahitian: {{t|ty|tiapai}}, {{t|ty|tupai}}
-* Tajik: {{t|tg|чакуш|sc=Cyrl}}
-* Tamil: {{t+|ta|சுத்தியல்|sc=Taml}}
-* Taos: {{t|twf|moltìyu’úna}}
-* Tatar: {{t+|tt|чүкеч|sc=Cyrl}}
-* Telugu: {{t+|te|సుత్తి|sc=Telu}}
-* Tetum: {{t|tet|martelu}}
-* Thai: {{t+|th|ค้อน}}
-* Tibetan: {{t|bo|ཐོ་བ|sc=Tibt}}
-* Tigrinya: {{t|ti|ማርተሎ|sc=Ethi}}
-* Tsonga: {{t|ts|noto}}, {{t|ts|hamore}}
-* Turkish: {{t+|tr|çekiç}}
-* Turkmen: {{t|tk|çekiç}}
-* Tuvan: {{t|tyv|алага|sc=Cyrl}}, {{t|tyv|маска|sc=Cyrl}}
-* Udihe: {{t|ude|халуга}}, {{t|ude|халуга}}
-* Udmurt: {{t|udm|чекыч|sc=Cyrl}}, {{t|udm|чӧкыч|sc=Cyrl}}
-* Ukrainian: {{t|uk|мо́лот|m|sc=Cyrl}}, {{t|uk|молото́к|m|sc=Cyrl}}
-* Ulch: {{t|ulc|palawun}}
-* Urdu: {{t|ur|ہتوڑا|m|tr=hathauṛā|sc=ur-Arab}}
-* Uyghur: {{t|ug|بولقا|sc=ug-Arab}}
-*: Cyrillic: {{t|ug|болқа|sc=Cyrl}}
-*: Latin: {{t|ug|bolqa}}
-* Uzbek: {{t+|uz|bolgʻa}}
-* Venetian: {{t|vec|martel|m}}, {{t|vec|marteło|m}}
-* Veps: {{t|vep|pal’l’}}
-* Vietnamese: {{t+|vi|búa}}
-* Vilamovian: {{t|wym|homer}}
-* Volapük: {{t+|vo|fög}}
-* Votic: {{t|vot|vasara}}
-* Võro: {{t|vro|vassar}}
-* Wallisian: {{t|wls|hāmale}}
-* Walloon: {{t|wa|mârtia}}
-* Waray-Waray: {{t|war|martilyo}}
-* Welsh: {{t+|cy|morthwyl|m}}
-* West Flemish: {{t|vls|oamer}}
-* West Frisian: {{t|fy|hammer}}
-* Wolof: {{t|wo|marto}}
-* Xhosa: {{t|xh|ihamile}}
-* Yakut: {{t|sah|өтүйэ|sc=Cyrl}}, {{t|sah|балта|sc=Cyrl}}
-* Yiddish: {{t|yi|האַמער|m|sc=Hebr}}
-* Yoruba: {{t|yo|òlù}}
-* Yucatec Maya: {{t|yua|bahab}}
-* Yup'ik: {{t|esu|multuuk}}
-* Zazaki: {{t|zza|çaquş}}
-* Zulu: {{t|zu|isando|c7|c8}}
+*: Lower Sorbian: {{tt|dsb|klapac|m}}
+*: Upper Sorbian: {{tt|hsb|hamor|m}}
+* Sotho: {{tt|st|noto|c9|c10}}, {{tt|st|hamore|c9|10}}
+* Southern Altai: {{tt|alt|маска|sc=Cyrl}}, {{tt|alt|балга}}
+* Spanish: {{tt+|es|martillo|m}}
+* Sranan Tongo: {{tt|srn|ambra}}, {{tt|srn|amra}}
+* Sundanese: {{tt|su|palu}}, {{tt|su|martil}}
+* Swahili: {{tt+|sw|nyundo|c9|c10}}
+* Swedish: {{tt+|sv|hammare|c}}
+* Tagalog: {{tt|tl|martilyo}}, {{tt|tl|pamukpok}}, {{tt|tl|binalalak}}
+* Tahitian: {{tt|ty|tiapai}}, {{tt|ty|tupai}}
+* Tajik: {{tt|tg|чакуш|sc=Cyrl}}
+* Tamil: {{tt+|ta|சுத்தியல்|sc=Taml}}
+* Taos: {{tt|twf|moltìyu’úna}}
+* Tatar: {{tt+|tt|чүкеч|sc=Cyrl}}
+* Telugu: {{tt+|te|సుత్తి|sc=Telu}}
+* Tetum: {{tt|tet|martelu}}
+* Thai: {{tt+|th|ค้อน}}
+* Tibetan: {{tt|bo|ཐོ་བ|sc=Tibt}}
+* Tigrinya: {{tt|ti|ማርተሎ|sc=Ethi}}
+* Tsonga: {{tt|ts|noto}}, {{tt|ts|hamore}}
+* Turkish: {{tt+|tr|çekiç}}
+* Turkmen: {{tt|tk|çekiç}}
+* Tuvan: {{tt|tyv|алага|sc=Cyrl}}, {{tt|tyv|маска|sc=Cyrl}}
+* Udihe: {{tt|ude|халуга}}, {{tt|ude|халуга}}
+* Udmurt: {{tt|udm|чекыч|sc=Cyrl}}, {{tt|udm|чӧкыч|sc=Cyrl}}
+* Ukrainian: {{tt|uk|мо́лот|m|sc=Cyrl}}, {{tt|uk|молото́к|m|sc=Cyrl}}
+* Ulch: {{tt|ulc|palawun}}
+* Urdu: {{tt|ur|ہتوڑا|m|tr=hathauṛā|sc=ur-Arab}}
+* Uyghur: {{tt|ug|بولقا|sc=ug-Arab}}
+*: Cyrillic: {{tt|ug|болқа|sc=Cyrl}}
+*: Latin: {{tt|ug|bolqa}}
+* Uzbek: {{tt+|uz|bolgʻa}}
+* Venetian: {{tt|vec|martel|m}}, {{tt|vec|marteło|m}}
+* Veps: {{tt|vep|pal’l’}}
+* Vietnamese: {{tt+|vi|búa}}
+* Vilamovian: {{tt|wym|homer}}
+* Volapük: {{tt+|vo|fög}}
+* Votic: {{tt|vot|vasara}}
+* Võro: {{tt|vro|vassar}}
+* Wallisian: {{tt|wls|hāmale}}
+* Walloon: {{tt|wa|mârtia}}
+* Waray-Waray: {{tt|war|martilyo}}
+* Welsh: {{tt+|cy|morthwyl|m}}
+* West Flemish: {{tt|vls|oamer}}
+* West Frisian: {{tt|fy|hammer}}
+* Wolof: {{tt|wo|marto}}
+* Xhosa: {{tt|xh|ihamile}}
+* Yakut: {{tt|sah|өтүйэ|sc=Cyrl}}, {{tt|sah|балта|sc=Cyrl}}
+* Yiddish: {{tt|yi|האַמער|m|sc=Hebr}}
+* Yoruba: {{tt|yo|òlù}}
+* Yucatec Maya: {{tt|yua|bahab}}
+* Yup'ik: {{tt|esu|multuuk}}
+* Zazaki: {{tt|zza|çaquş}}
+* Zulu: {{tt|zu|isando|c7|c8}}
 {{trans-bottom}}
 
 {{trans-top|part of a firearm}}
-* Bulgarian: {{t+|bg|у́дарник|m|sc=Cyrl}}, {{t+|bg|петле́|n|sc=Cyrl}}
-* Danish: {{t|da|geværhane|c}}
-* Dutch: {{t+|nl|hamer|m}}
-* Finnish: {{t+|fi|hana}}, {{t|fi|iskuvasara}}
-* French: {{t-simple|interwiki=1|fr|langname=French|chien|g=m}}
-* Greek: {{t+|el|επικρουστήρας|n}}, {{qualifier|colloquial}} {{t+|el|λύκος|m}}, {{qualifier|colloquial}} {{t+|el|κόκορας|m}}
-* Irish: {{t|ga|casúr|m}}
-* Italian: {{t+|it|cane|m}}, {{t+|it|percussore|m}}
-* Macedonian: {{t|mk|ороз|m}}
-* Manx: {{t|gv|casoor|m}}
+* Bulgarian: {{tt+|bg|у́дарник|m|sc=Cyrl}}, {{tt+|bg|петле́|n|sc=Cyrl}}
+* Danish: {{tt|da|geværhane|c}}
+* Dutch: {{tt+|nl|hamer|m}}
+* Finnish: {{tt+|fi|hana}}, {{tt|fi|iskuvasara}}
+* French: {{tt+|fr|chien|m}}
+* Greek: {{tt+|el|επικρουστήρας|n}}, {{qualifier|colloquial}} {{tt+|el|λύκος|m}}, {{qualifier|colloquial}} {{tt+|el|κόκορας|m}}
+* Irish: {{tt|ga|casúr|m}}
+* Italian: {{tt+|it|cane|m}}, {{tt+|it|percussore|m}}
+* Macedonian: {{tt|mk|ороз|m}}
+* Manx: {{tt|gv|casoor|m}}
 {{trans-mid}}
 * Norwegian:
-*: Bokmål: {{t+|nb|hane|m}} {{qualifier|''literally'' cock}}
-* Polish: {{t+|pl|kurek|m}}
-* Portuguese: {{t|pt|percussor|m}}, {{t+|pt|cão|m}}
-* Russian: {{t+|ru|куро́к|m}}, {{t+|ru|уда́рник|m}}
+*: Bokmål: {{tt+|nb|hane|m}} {{qualifier|''literally'' cock}}
+* Polish: {{tt+|pl|kurek|m}}
+* Portuguese: {{tt|pt|percussor|m}}, {{tt+|pt|cão|m}}
+* Russian: {{tt+|ru|куро́к|m}}, {{tt+|ru|уда́рник|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|ударач|m|sc=Cyrl}}
-*: Roman: {{t|sh|udarač|m}}
-* Spanish: {{t+|es|percutor|m}}
-* Swahili: {{t+|sw|nyundo}}
-* Swedish: {{t+|sv|hane|c}}
-* Welsh: {{t+|cy|morthwyl|m}}, {{t|cy|cnicyn|m}}
+*: Cyrillic: {{tt|sh|ударач|m|sc=Cyrl}}
+*: Roman: {{tt|sh|udarač|m}}
+* Spanish: {{tt+|es|percutor|m}}
+* Swahili: {{tt+|sw|nyundo}}
+* Swedish: {{tt+|sv|hane|c}}
+* Welsh: {{tt+|cy|morthwyl|m}}, {{tt|cy|cnicyn|m}}
 {{trans-bottom}}
 
 {{trans-top|bone of the middle ear; ''see also'' [[malleus]]}}
-* Bulgarian: {{t|bg|чукче|n}}
-* Catalan: {{t-simple|interwiki=1|ca|langname=Catalan|martell|g=m}}
+* Bulgarian: {{tt|bg|чукче|n}}
+* Catalan: {{tt+|ca|martell|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|錘骨|sc=Hani}}, {{t+|cmn|锤骨|tr=chuígǔ|sc=Hani}}
-* Czech: {{t-simple|interwiki=1|cs|langname=Czech|kladívko|n}}
-* Dutch: {{t+|nl|hamer|m}}
-* Estonian: {{t-simple|interwiki=1|et|langname=Estonian|vasar}}
-* Finnish: {{t+|fi|vasara}}, {{t+|fi|vasaraluu}}
-* French: {{t-simple|interwiki=1|fr|langname=French|malléus}}, {{t-simple|interwiki=1|fr|langname=French|marteau}}
-* German: {{t+|de|Hammer|m}}, {{t|de|Malleus|m}}
-* Greek: {{t+|el|σφύρα|f}}
-* Irish: {{t|ga|casúirín|m}}, {{t|ga|mailléas|m}}
-* Japanese: {{t+|ja|槌骨|tr=つちこつ, tsuchikotsu}}
-* Korean: {{t|ko|추골}}
+*: Mandarin: {{tt+|cmn|錘骨|sc=Hani}}, {{tt+|cmn|锤骨|tr=chuígǔ|sc=Hani}}
+* Czech: {{tt+|cs|kladívko|n}}
+* Dutch: {{tt+|nl|hamer|m}}
+* Estonian: {{tt+|et|vasar}}
+* Finnish: {{tt+|fi|vasara}}, {{tt+|fi|vasaraluu}}
+* French: {{tt+|fr|malléus}}, {{tt+|fr|marteau}}
+* German: {{tt+|de|Hammer|m}}, {{tt|de|Malleus|m}}
+* Greek: {{tt+|el|σφύρα|f}}
+* Irish: {{tt|ga|casúirín|m}}, {{tt|ga|mailléas|m}}
+* Japanese: {{tt+|ja|槌骨|tr=つちこつ, tsuchikotsu}}
+* Korean: {{tt|ko|추골}}
 {{trans-mid}}
-* Latvian: {{t|lv|āmuriņš|m}}
-* Macedonian: {{t|mk|че́канче|n}}
-* Maori: {{t|mi|hama}}
+* Latvian: {{tt|lv|āmuriņš|m}}
+* Macedonian: {{tt|mk|че́канче|n}}
+* Maori: {{tt|mi|hama}}
 * Norwegian:
-*: Bokmål: {{t+|nb|hammer|m}}
-* Polish: {{t+|pl|młoteczek|m}}
-* Portuguese: {{t+|pt|martelo|m}}
-* Romanian: {{t+|ro|ciocan|n}}
-* Russian: {{t+|ru|молото́чек|m}}
-* Slovene: {{t+|sl|kladivce|n}}
-* Spanish: {{t|es|malleus}}, {{t+|es|martillo|m}}
-* Swahili: {{t+|sw|nyundo}}
-* Turkish: {{t+|tr|çekiç}}
-* Welsh: {{t+|cy|morthwyl|m}}
+*: Bokmål: {{tt+|nb|hammer|m}}
+* Polish: {{tt+|pl|młoteczek|m}}
+* Portuguese: {{tt+|pt|martelo|m}}
+* Romanian: {{tt+|ro|ciocan|n}}
+* Russian: {{tt+|ru|молото́чек|m}}
+* Slovene: {{tt+|sl|kladivce|n}}
+* Spanish: {{tt|es|malleus}}, {{tt+|es|martillo|m}}
+* Swahili: {{tt+|sw|nyundo}}
+* Turkish: {{tt+|tr|çekiç}}
+* Welsh: {{tt+|cy|morthwyl|m}}
 {{trans-bottom}}
 
 {{trans-top|piano part}}
-* Bulgarian: {{t|bg|чукче|n}}
-* Danish: {{t+|da|hammer|c}}
-* Dutch: {{t+|nl|hamer|m}}
-* Finnish: {{t+|fi|vasara}}
-* German: {{t+|de|Hammer|m}}
-* Greek: {{t+|el|πλήκτρο|n}}
+* Bulgarian: {{tt|bg|чукче|n}}
+* Danish: {{tt+|da|hammer|c}}
+* Dutch: {{tt+|nl|hamer|m}}
+* Finnish: {{tt+|fi|vasara}}
+* German: {{tt+|de|Hammer|m}}
+* Greek: {{tt+|el|πλήκτρο|n}}
 {{trans-mid}}
-* Icelandic: {{t+|is|hamar|m}}
-* Irish: {{t|ga|casúr|m}}
+* Icelandic: {{tt+|is|hamar|m}}
+* Irish: {{tt|ga|casúr|m}}
 * Norwegian:
-*: Bokmål: {{t+|nb|hammer|m}}
-* Portuguese: {{t+|pt|martelo|m}}
-* Russian: {{t+|ru|молото́чек|m}}
+*: Bokmål: {{tt+|nb|hammer|m}}
+* Portuguese: {{tt+|pt|martelo|m}}
+* Russian: {{tt+|ru|молото́чек|m}}
 {{trans-bottom}}
 
 {{trans-top|sports: device}}
-* Bulgarian: {{t+|bg|чук|m}}
-* Finnish: {{t+|fi|moukari}}
-* German: {{t+|de|Hammer|m}}
-* Irish: {{t|ga|ord|m}}
+* Bulgarian: {{tt+|bg|чук|m}}
+* Finnish: {{tt+|fi|moukari}}
+* German: {{tt+|de|Hammer|m}}
+* Irish: {{tt|ga|ord|m}}
 {{trans-mid}}
 * Norwegian:
-*: Bokmål: {{t+|nb|slegge|m|f}}
-*: Nynorsk: {{t|nn|sleggje|f}}
-* Russian: {{t+|ru|мо́лот|m}}
-* Welsh: {{t+|cy|gordd|f}}
+*: Bokmål: {{tt+|nb|slegge|m|f}}
+*: Nynorsk: {{tt|nn|sleggje|f}}
+* Russian: {{tt+|ru|мо́лот|m}}
+* Welsh: {{tt+|cy|gordd|f}}
+}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
 {{trans-top|curling: last rock in an end}}
@@ -486,14 +488,14 @@ For {{m|ine-pro|*h₂éḱmō||stone}}, compare {{cog|lt|akmuõ}}, {{cog|ru|ка
 ====Translations====
 {{trans-top|to strike repeatedly}}
 * Bulgarian: {{t+|bg|чукам}}
-* Catalan: {{t-simple|interwiki=1|ca|langname=Catalan|martellejar}}
+* Catalan: {{t+|ca|martellejar}}
 * Chinese:
 *: Cantonese: {{t|yue|揼|tr=dap6}}
 * Danish: {{t|da|hamre}}
 * Dutch: {{t+|nl|hameren}}, {{t+|nl|timmeren}}
 * Finnish: {{t+|fi|vasaroida}}, {{t+|fi|takoa}}
-* French: {{t-simple|interwiki=1|fr|langname=French|marteler}}
-* Galician: {{t-simple|gl|langname=Galician|mazar}}, {{t-simple|interwiki=1|gl|langname=Galician|martelar}}
+* French: {{t+|fr|marteler}}
+* Galician: {{t|gl|mazar}}, {{t+|gl|martelar}}
 * Hungarian: {{t+|hu|kalapál}}
 * Ido: {{t+|io|martelagar}}
 * Italian: {{t+|it|martellare}}, {{t+|it|colpire}}, {{t+|it|picchiare}}
@@ -528,7 +530,7 @@ For {{m|ine-pro|*h₂éḱmō||stone}}, compare {{cog|lt|akmuõ}}, {{cog|ru|ка
 {{trans-top|figuratively: to emphasize a point repeatedly}}
 * Dutch: op {{t|nl|doorhameren}}, {{t+|nl|inhameren}}
 * Finnish: {{t+|fi|takoa}}, {{t+|fi|jankuttaa}}, {{t|fi|[[painottaa]] [[toistuvasti]]}}
-* French: {{t-simple|interwiki=1|fr|langname=French|marteler}}
+* French: {{t+|fr|marteler}}
 {{trans-mid}}
 * Italian: {{t+|it|martellare}}
 * Occitan: {{t|oc|martelar}}
@@ -536,7 +538,7 @@ For {{m|ine-pro|*h₂éḱmō||stone}}, compare {{cog|lt|akmuõ}}, {{cog|ru|ка
 {{trans-bottom}}
 
 {{trans-top|sports: to hit particularly hard}}
-* Catalan: {{t-simple|interwiki=1|ca|langname=Catalan|clavar}}
+* Catalan: {{t+|ca|clavar}}
 * Finnish: {{t+|fi|moukaroida}}, {{t+|fi|tykittää}}
 {{trans-mid}}
 * Macedonian: {{t|mk|зачукува}}
