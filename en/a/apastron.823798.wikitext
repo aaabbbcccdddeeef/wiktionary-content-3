@@ -1,23 +1,43 @@
 {{also|Apastron}}
 ==English==
+{{was wotd|2021|May|15}}
 
 ===Etymology===
-{{prefix|en|apo|astron}}
+[[File:Apastron (PSF).png|thumb|A diagram illustrating the apastron between [[two]] [[star#Noun|stars]].]]
+
+{{root|en|ine-pro|*h₂eHs-}}
+From [[w:English language|English]] {{m|en|apo-|pos={{glossary|prefix}} meaning ‘away from, separate’}} + {{der|en|grc|ᾰ̓́στρον|t=fixed star}}, modelled after {{m|en|aphelion}}.<ref>{{R:OED Online|pos=n|id=249028|date=December 2012|nodot=1}}; {{R:Lexico|pos=n}}</ref> {{m|grc||Ἄ̆στρον}} is derived from {{m|grc|ᾰ̓στήρ|t=celestial body (including a star, planet, meteor, etc.)}} (ultimately from {{der|en|ine-pro|*h₂eHs-|t=to burn; to glow}}) + {{m|grc|-ον|pos={{glossary|suffix}} forming {{glossary|nominative}}, {{glossary|accusative}} and {{glossary|vocative}} {{glossary|singular}} {{glossary|noun}}s}}.
 
 ===Pronunciation===
-* {{IPA|en|/əˈpæstɹən/}}<ref>{{R:Dictionary.com}}</ref>
-* {{audio|en|LL-Q1860 (eng)-I learned some phrases-apastron.wav|Audio (UK)}}
+* {{a|RP}} {{IPA|en|/æˈpæstɹ(ə)n/}}
+* {{audio|en|LL-Q1860 (eng)-I learned some phrases-apastron.wav|Audio (RP)}}
+* {{a|GA}} {{IPA|en|/æˈpæstɹən/|[ə-]}}
+* {{hyphenation|en|apas|tron}}
 
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|astronomy}} The [[point]] of greatest [[separation]] between two [[star]]s, especially in a [[binary star]] situation.
+# {{lb|en|astronomy}} The [[point#Noun|point]] of [[great#Adjective|greatest]] [[separation]] between [[two]] [[star#Noun|stars]], especially in a [[binary star]] [[situation]].
+#: {{antonyms|en|periastron}}
 
-====Antonyms====
-* {{l|en|periastron}}
+====Hypernyms====
+* {{l|en|apoapsis}}
 
-====Related terms====
-* ''see'' {{l|en|apoapsis}}
+====Coordinate terms====
+{{col3|en
+|aphelion
+|apoareion
+|apocynthion
+|apogalacticon
+|apogee
+|apohermion
+|apojove
+|[[apokrone]], [[apokron]]
+|apolune
+|aponigricon
+|aposaturnium
+|aposelene
+}}
 
 ====Translations====
 {{trans-top|point of greatest separation between two stars}}
@@ -30,3 +50,8 @@
 
 ===References===
 <references/>
+
+===Further reading===
+* {{pedia|apsis}}
+
+[[Category:English words prefixed with apo-|astron]]
