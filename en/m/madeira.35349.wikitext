@@ -19,12 +19,10 @@
 {{fi-noun}}
 
 # [[Madeira]] {{gloss|fortified wine produced on Madeira}}
+#: {{syn|fi|madeiraviini}}
 
 ====Declension====
 {{fi-decl-katiska|madeir|a}}
-
-====Synonyms====
-* {{l|fi|madeiraviini}}
 
 [[Category:fi:Wines]]
 
@@ -53,10 +51,10 @@ From {{inh|gl|roa-opt|madeira}}, from {{inh|gl|la|materia}}. Cf. also {{m|gl|mat
 * {{hyphenation|pt|ma|dei|ra}}
 
 ===Etymology 1===
-From {{inh|pt|roa-opt|madeira}}, from {{inh|pt|la|materia}}, from {{der|pt|ine-pro|*méh₂tēr||mother}}. Cognates include {{cog|es|madera}}. {{doublet|pt|matéria}}, a borrowing.
+From {{inh|pt|roa-opt|madeira}}, from {{inh|pt|la|māteria}}, from {{der|pt|ine-pro|*méh₂tēr|t=mother}}. Cognates include {{cog|es|madera}}. {{doublet|pt|matéria}}, a borrowing.
 
 ====Alternative forms====
-* {{l|pt|madeyra}} {{qualifier|obsolete}}
+* {{alter|pt|madeyra||obsolete}}
 
 ====Noun====
 {{pt-noun|f|s}}
@@ -69,29 +67,24 @@ From {{inh|pt|roa-opt|madeira}}, from {{inh|pt|la|materia}}, from {{der|pt|ine-p
 #: {{syn|pt|pau}}
 
 =====Derived terms=====
-* {{l|pt|bater na madeira}}
-* {{l|pt|Madeira}}
-* {{l|pt|madeira-da-china}}
-* {{l|pt|madeira-de-cheiro}}
-* {{l|pt|madeira de lei}}
+{{col3|pt
+|bater na madeira
+|Madeira
+|madeira-da-china
+|madeira-de-cheiro
+|madeira de lei
+}}
 
 =====Related terms=====
-{{top2}}
-* {{l|pt|madeirame}}
-* {{l|pt|madeiramento}}
-* {{l|pt|madeirar}}
-* {{l|pt|madeireira}}
-{{mid2}}
-* {{l|pt|madeireiro}}
-* {{l|pt|madeirite}}
-* {{l|pt|madeiro}}
-{{bottom}}
-
-====Verb====
-{{head|pt|verb form}}
-
-# {{pt-verb form of|madeirar|ar|indicative|present|singular|third}}
-# {{pt-verb form of|madeirar|ar|imperative|affirmative|singular|second}}
+{{col4|pt
+|madeirame
+|madeiramento
+|madeirar
+|madeireira
+|madeireiro
+|madeirite
+|madeiro
+}}
 
 ====Interjection====
 {{pt-interj|!}}
@@ -99,16 +92,24 @@ From {{inh|pt|roa-opt|madeira}}, from {{inh|pt|la|materia}}, from {{der|pt|ine-p
 # [[timber|Timber]]!; {{non-gloss definition|used by lumberjacks to warn others when a tree is falling down}}
 
 ===Etymology 2===
-Shortening of {{m|pt|vinho da Madeira||wine of Madeira}}, after the Portuguese island of [[Madeira]].
+Shortening of {{m|pt|vinho da Madeira|lit=wine of Madeira}}, after the Portuguese island of [[Madeira]].
 
 ====Alternative forms====
-* {{l|pt|Madeira}}
+* {{alter|pt|Madeira}}
 
 ====Noun====
 {{pt-noun|m|-}}
 
 # a type of {{l|en|fortified wine}} produced in the island of {{l|en|Madeira}}
 #: {{syn|pt|vinho da Madeira|vinho Madeira}}
+
+===Etymology 2===
+{{nonlemma}}
+
+====Verb====
+{{head|pt|verb form}}
+
+# {{pt-verb-form-of|madeirar}}
 
 ===Further reading===
 * {{pedia|lang=pt}}
