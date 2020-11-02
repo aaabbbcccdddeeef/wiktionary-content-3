@@ -259,23 +259,7 @@ From {{inh|en|enm|passen}}, borrowed from {{bor|en|fro|passer||to step, walk, pa
 * Venetian: {{t+|vec|pasar}}
 {{trans-bottom}}
 
-{{trans-top|to go past}}
-* Chinese:
-*: Mandarin: {{t-needed|cmn}}
-* Cimbrian: {{t|cim|büarbaigan}}
-* Finnish: {{t+|fi|ohittaa}}
-* French: {{t+|fr|dépasser}}
-* German: {{t-needed|de}}
-{{trans-mid}}
-* Hungarian: {{t|hu|[[elmegy]] [[mellette]]}}, {{q|of a car: overtake}} {{t+|hu|előz}}, {{t+|hu|megelőz}}
-* Japanese: {{t-needed|ja}}
-* Old English: {{t|ang|lēoran}}
-* Russian: {{t+|ru|проходить}}
-* Spanish: {{t+|es|pasar}}
-* Turkish: {{t+|tr|geçmek}}
-{{trans-bottom}}
-
-{{trans-top|to go by, over, etc}}{{attn|en| is this sense the same as "to go past" above? (it's not listed separately among the definitions) }}
+{{trans-top|to go by, over, or through}}
 * Arabic: {{t+|ar|مَرَّ}}
 * Armenian: {{t+|hy|անցնել}}
 * Chinese:
@@ -286,7 +270,7 @@ From {{inh|en|enm|passen}}, borrowed from {{bor|en|fro|passer||to step, walk, pa
 * French: {{t+|fr|passer}}
 * German: {{t+|de|vorbeigehen}}
 * Greek: {{t+|el|περνάω|sc=Grek}}
-* Hungarian: {{t+check|hu|elmegy}}
+* Hungarian: {{t|hu|[[elmegy]] [[mellette]]}}
 {{trans-mid}}
 * Italian: {{t+|it|passare}}
 * Japanese: {{t+|ja|通る|tr=[[とおる]], tōru}}, {{t+|ja|過ぎる|tr=[[すぎる]], sugiru}}, {{t+|ja|通過|alt=通過する|tr=[[つうかする]], tsūka suru}}
@@ -298,6 +282,22 @@ From {{inh|en|enm|passen}}, borrowed from {{bor|en|fro|passer||to step, walk, pa
 * Spanish: {{t+|es|pasar}}
 * Swedish: {{t+|sv|förflytta}}
 * ǃXóõ: {{t|nmn|ǃkxʻáa}}
+{{trans-bottom}}
+
+{{trans-top|to go past}}{{attn|en| it should be possibly merged with the translation box above; this sense is not distinct in the definitions above }}
+* Chinese:
+*: Mandarin: {{t-needed|cmn}}
+* Cimbrian: {{t|cim|büarbaigan}}
+* Finnish: {{t+|fi|ohittaa}}
+* French: {{t+|fr|dépasser}}
+* German: {{t-needed|de}}
+* Hungarian: {{q|of a car: overtake}} {{t+|hu|előz}}, {{t+|hu|megelőz}}
+{{trans-mid}}
+* Japanese: {{t-needed|ja}}
+* Old English: {{t|ang|lēoran}}
+* Russian: {{t+|ru|проходить}}
+* Spanish: {{t+|es|pasar}}
+* Turkish: {{t+|tr|geçmek}}
 {{trans-bottom}}
 
 {{trans-top|to cause to move or go; to send; to transfer from one person, place, or condition to another; to transmit; to deliver; to hand}}
