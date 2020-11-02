@@ -216,7 +216,7 @@ From {{inh|en|enm|passen}}, borrowed from {{bor|en|fro|passer||to step, walk, pa
 {{rel-bottom}}
 
 =====Translations=====
-{{trans-top|move or be moved from one place to another}}
+{{trans-top|to move or be moved from one place to another}}
 * Albanian: {{qualifier|to give}} {{t+|sq|jap}}, {{t+|sq|dhuroj}}
 * Armenian: {{t+|hy|անցնել}}
 * Belarusian: {{qualifier|to give}} {{t|be|перадава́ць|impf|sc=Cyrl}}, {{t|be|перада́ць|pf|sc=Cyrl}}
@@ -275,7 +275,54 @@ From {{inh|en|enm|passen}}, borrowed from {{bor|en|fro|passer||to step, walk, pa
 * Turkish: {{t+|tr|geçmek}}
 {{trans-bottom}}
 
-{{trans-top|change from one state to another}}
+{{trans-top|to go by, over, etc}}{{attn|en| is this sense the same as "to go past" above? (it's not listed separately among the definitions) }}
+* Arabic: {{t+|ar|مَرَّ}}
+* Armenian: {{t+|hy|անցնել}}
+* Chinese:
+*: Mandarin: {{t+|cmn|過|sc=Hani}}, {{t+|cmn|过|tr=guò|sc=Hani}}
+* Czech: {{t|cs|jít kolem}}, {{t+|cs|minout}}
+* Dutch: {{t+|nl|voorbijgaan}}
+* Finnish: {{t+|fi|kulkea}}
+* French: {{t+|fr|passer}}
+* German: {{t+|de|vorbeigehen}}
+* Greek: {{t+|el|περνάω|sc=Grek}}
+* Hungarian: {{t+check|hu|elmegy}}
+{{trans-mid}}
+* Italian: {{t+|it|passare}}
+* Japanese: {{t+|ja|通る|tr=[[とおる]], tōru}}, {{t+|ja|過ぎる|tr=[[すぎる]], sugiru}}, {{t+|ja|通過|alt=通過する|tr=[[つうかする]], tsūka suru}}
+* Korean: {{t+|ko|지나가다}}
+* Latin: {{t|la|praeterire}}, {{t|la|praetereo}}
+* Persian: {{t+|fa|گذشتن|tr=gozaštan|sc=fa-Arab}}
+* Portuguese: {{t+|pt|passar}}
+* Russian: {{t+|ru|проходи́ть|impf}}, {{t+|ru|пройти́|pf}}
+* Spanish: {{t+|es|pasar}}
+* Swedish: {{t+|sv|förflytta}}
+* ǃXóõ: {{t|nmn|ǃkxʻáa}}
+{{trans-bottom}}
+
+{{trans-top|medicine: to eliminate (something) from the body by natural processes; to go through the intestines}}
+* Arabic: {{t+|ar|مَرَّ}}
+* Finnish: {{t+|fi|ohittaa}}
+* French: {{qualifier|informal}} {{t+|fr|passer}}
+{{trans-mid}}
+* Latin: {{t|la|praetereo}}
+* Spanish: {{t+|es|pasar}}
+{{trans-bottom}}
+
+{{trans-top|to go from one person to another}}
+* Arabic: {{t|ar|مَرَّرَ}}, {{t+|ar|مَرَّ}}
+* Finnish: {{t+|fi|siirtyä}}
+* French: {{t+|fr|passer}}
+* Hungarian: {{t+|hu|kerül}}, {{t+|hu|jut}}
+* Latin: {{t|la|praetereo}}
+{{trans-mid}}
+* Old English: {{t|ang|gesellan}}
+* Russian: {{t+|ru|переходи́ть|impf}}, {{t+|ru|перейти́|pf}} {{qualifier|intransitive}}
+* Spanish: {{t+|es|pasar}}
+* Ukrainian: {{t|uk|переходити}}
+{{trans-bottom}}
+
+{{trans-top|to change from one state to another}}
 * Dutch: {{t+|nl|overgaan}}
 * Finnish: {{t+|fi|muuttua}}, {{t+|fi|vaihtua}}
 * French: {{t+|fr|passer}}
@@ -289,7 +336,7 @@ From {{inh|en|enm|passen}}, borrowed from {{bor|en|fro|passer||to step, walk, pa
 * Spanish: {{t+|es|pasar}}
 {{trans-bottom}}
 
-{{trans-top|move beyond the range of the senses or of knowledge}}
+{{trans-top|to move beyond the range of the senses or of knowledge}}
 * Catalan: {{t+|ca|passar}}
 * Finnish: {{t+|fi|kadota}}
 * French: {{t+|fr|passer}}
@@ -299,7 +346,7 @@ From {{inh|en|enm|passen}}, borrowed from {{bor|en|fro|passer||to step, walk, pa
 * Spanish: {{t+|es|pasar}}
 {{trans-bottom}}
 
-{{trans-top|die}}
+{{trans-top|to die}}
 * Dutch: {{t+|nl|doodgaan}}, {{t+|nl|overlijden}}, {{t+|nl|heengaan}} {{qualifier|euphemistic}}
 * Finnish: {{t+|fi|poistua}}, {{t+|fi|kuolla}}
 * French: {{t+|fr|mourir}}, {{t+|fr|décéder}}, {{qualifier|colloquial}} {{t+|fr|avaler son extrait de naissance}}, {{qualifier|colloquial}} {{t+|fr|casser sa pipe}}
@@ -321,73 +368,18 @@ From {{inh|en|enm|passen}}, borrowed from {{bor|en|fro|passer||to step, walk, pa
 * Ukrainian: {{t|uk|вмирати}}
 {{trans-bottom}}
 
-{{trans-top|happen}}
-* Basque: {{t|eu|gertatu}}
-* Catalan: {{t+|ca|passar}}
-* Dutch: {{t+|nl|gebeuren}}
-* Finnish: {{t+|fi|tapahtua}}, {{t+|fi|käydä}}
-* French: {{t+|fr|survenir}}
-{{trans-mid}}
-* German: {{t+|de|passieren}}
-* Hungarian: {{t+|hu|történik}}, {{t+|hu|megtörténik}}
-* Japanese: {{t+|ja|起こる|tr=[[おこる]], okoru}}, {{t|ja|生じる|tr=[[しょうじる]], shōjiru}}
-* Old English: {{t|ang|weorþan}}, {{t|ang|belimpan}}
-* Spanish: {{t+|es|pasar}}, {{t+|es|ocurrir}}, {{t+|es|suceder}}
-{{trans-bottom}}
-
-{{trans-top|elapse}}
-* Arabic: {{t|ar|اِنْقَضَى}}, {{t+|ar|مَرَّ}}
-* Armenian: {{t+|hy|անցնել}}
-* Catalan: {{t+|ca|passar}}
-* Chinese:
-*: Mandarin: {{t+|cmn|過去|sc=Hani}}, {{t+|cmn|过去|tr=guòqù|sc=Hani}}, {{t+|cmn|過|sc=Hani}}, {{t+|cmn|过|tr=guò|sc=Hani}}
-* Dutch: {{t+|nl|voorbijgaan}}
-* Finnish: {{t+|fi|kulua}}, {{t+|fi|mennä}}
-* French: {{t+|fr|passer|alt=se passer}}
-* Georgian: {{t-needed|ka}}
-* German: {{t+|de|vergehen}}
-* Greek:
-*: Ancient: {{t|grc|διαγίνομαι}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|eltelik}}, {{t+|hu|telik}}, {{t+|hu|elmúlik}}, {{t+|hu|múlik}}
-* Japanese: {{t+|ja|過ぎる|tr=[[すぎる]], sugiru}}, {{t+|ja|経つ|tr=[[たつ]], tatsu}}
-* Lithuanian: {{t|lt|slinkti}}
-* Old English: {{t|ang|āgān}}
-* Persian: {{t+|fa|گذشتن|tr=gozaštan|sc=fa-Arab}}, {{t|fa|سپری شدن|tr=separi šodan|sc=fa-Arab}}
-* Portuguese: {{t+|pt|passar}}
-* Russian: {{t+|ru|проходи́ть|impf}}, {{t+|ru|пройти́|pf}}, {{t+|ru|минова́ть|impf}}, {{t+|ru|ми́нуть|pf}}, {{t+|ru|истека́ть|impf}}, {{t+|ru|исте́чь|pf}}
-* Slovene: {{t|sl|miniti}}
-* Swedish: {{t+|sv|gå}}
-* Ukrainian: {{t|uk|проминати}}, {{t|uk|минати}}
-{{trans-bottom}}
-
-{{trans-top|go from one person to another}}
-* Arabic: {{t|ar|مَرَّرَ}}, {{t+|ar|مَرَّ}}
-* Finnish: {{t+|fi|siirtyä}}
+{{trans-top|to go successfully through}}
+* Arabic: {{t|ar|اجتازَ}}
+* Dutch: {{t|nl|Slagen}}
+* Finnish: {{t+|fi|päästä läpi}}
 * French: {{t+|fr|passer}}
-* Hungarian: {{t+|hu|kerül}}, {{t+|hu|jut}}
-* Latin: {{t|la|praetereo}}
 {{trans-mid}}
-* Old English: {{t|ang|gesellan}}
-* Russian: {{t+|ru|переходи́ть|impf}}, {{t+|ru|перейти́|pf}} {{qualifier|intransitive}}
-* Spanish: {{t+|es|pasar}}
-* Ukrainian: {{t|uk|переходити}}
+* Hungarian: {{t+|hu|átmegy}}, {{t+|hu|átjut}}
+* Scottish Gaelic: {{t|gd|pasaig}}
+* Telugu: {{t|te|పాసగు}}
 {{trans-bottom}}
 
-{{trans-top|advance through all the steps or stages necessary to validity or effectiveness}}
-* Arabic: {{t|ar|اِحْتَازَ}}
-* Catalan: {{t|ca|ser aprovat}}
-* Finnish: {{t+|fi|läpäistä}}, {{t|fi|[[mennä]] [[läpi]]}}
-* French: {{t+|fr|passer}}
-* Greek: {{t+|el|περνάω|sc=Grek}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|átmegy}}, {{t|hu|elfogad|alt=elfogadják}}, {{t|hu|jóváhagy|alt=jóváhagyják}}, {{t|hu|megszavaz|alt=megszavazzák}}
-* Japanese: {{t+|ja|通る|tr=[[とおる]], tōru}}, {{t+|ja|通過|alt=通過する|tr=[[つうかする]], tsūka suru}}, {{t+|ja|承認|alt=承認する|tr=[[しょうにんする]], shōnin suru}}, {{t+|ja|可決|alt=可決する|tr=[[かけつする]], kaketsu suru}}, {{t+|ja|批准|alt=批准する|tr=[[ひじゅんする]], hijyun suru}}
-* Latin: {{t|la|praetereo}}
-* Spanish: {{t+|es|pasar}}
-{{trans-bottom}}
-
-{{trans-top|go through any inspection or test successfully}}
+{{trans-top|to go through any inspection or test successfully}}
 * Arabic: {{t|ar|اجتاز}}
 * Armenian: {{t+|hy|անցնել}}
 * Burmese: {{t+|my|အောင်|sc=Mymr}}
@@ -419,14 +411,65 @@ From {{inh|en|enm|passen}}, borrowed from {{bor|en|fro|passer||to step, walk, pa
 * Vietnamese: {{t-needed|vi}}
 {{trans-bottom}}
 
-{{trans-top|to be tolerated}}
-* Arabic: {{t|ar|تَغَاضَى}}
-* Finnish: {{t+|fi|sietää}}, {{t+|fi|käydä}}
+{{trans-top|to advance through all the steps or stages necessary to validity or effectiveness}}
+* Arabic: {{t|ar|اِحْتَازَ}}
+* Catalan: {{t|ca|ser aprovat}}
+* Finnish: {{t+|fi|läpäistä}}, {{t|fi|[[mennä]] [[läpi]]}}
 * French: {{t+|fr|passer}}
+* Greek: {{t+|el|περνάω|sc=Grek}}
 {{trans-mid}}
-* Hungarian: {{t+|hu|megfelel}}, {{t+|hu|elmegy}}
+* Hungarian: {{t+|hu|átmegy}}, {{t|hu|elfogad|alt=elfogadják}}, {{t|hu|jóváhagy|alt=jóváhagyják}}, {{t|hu|megszavaz|alt=megszavazzák}}
+* Japanese: {{t+|ja|通る|tr=[[とおる]], tōru}}, {{t+|ja|通過|alt=通過する|tr=[[つうかする]], tsūka suru}}, {{t+|ja|承認|alt=承認する|tr=[[しょうにんする]], shōnin suru}}, {{t+|ja|可決|alt=可決する|tr=[[かけつする]], kaketsu suru}}, {{t+|ja|批准|alt=批准する|tr=[[ひじゅんする]], hijyun suru}}
 * Latin: {{t|la|praetereo}}
 * Spanish: {{t+|es|pasar}}
+{{trans-bottom}}
+
+{{trans-top|law: to be conveyed or transferred by will, deed, or other instrument of conveyance}}
+* Finnish: {{t+|fi|siirtyä}}
+* Greek: {{t+|el|αφήνω|sc=Grek}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|háramlik}}, {{t|hu|átruház|alt=átruházzák}}, {{t|hu|átír|alt=átírják}}, {{t|hu|átkerül}}
+* Japanese: {{t+|ja|譲渡|alt=譲渡する|tr=[[じょうとする]], jōto suru}}
+{{trans-bottom}}
+
+{{trans-top|to cause to advance by stages of process}}
+* Finnish: {{t+|fi|hyväksyttää}}
+* Hungarian: {{t|hu|végigvisz}}, {{t|hu|megszavaztat}}, {{t|hu|jóváhagyat}}, {{t+|hu|meghoz}}
+{{trans-mid}}
+* Japanese: {{t+|ja|通る|tr=[[とおる]], tōru}}, {{t+|ja|通過|alt=通過する|tr=[[つうかする]], tsūka suru}}, {{t+|ja|承認|alt=承認する|tr=[[しょうにんする]], shōnin suru}}, {{t+|ja|可決|alt=可決する|tr=[[かけつする]], kaketsu suru}}, {{t+|ja|批准|alt=批准する|tr=[[ひじゅんする]], hijyun suru}}
+{{trans-bottom}}
+
+{{trans-top|to elapse}}
+* Arabic: {{t|ar|اِنْقَضَى}}, {{t+|ar|مَرَّ}}
+* Armenian: {{t+|hy|անցնել}}
+* Catalan: {{t+|ca|passar}}
+* Chinese:
+*: Mandarin: {{t+|cmn|過去|sc=Hani}}, {{t+|cmn|过去|tr=guòqù|sc=Hani}}, {{t+|cmn|過|sc=Hani}}, {{t+|cmn|过|tr=guò|sc=Hani}}
+* Dutch: {{t+|nl|voorbijgaan}}
+* Finnish: {{t+|fi|kulua}}, {{t+|fi|mennä}}
+* French: {{t+|fr|passer|alt=se passer}}
+* Georgian: {{t-needed|ka}}
+* German: {{t+|de|vergehen}}
+* Greek:
+*: Ancient: {{t|grc|διαγίνομαι}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|eltelik}}, {{t+|hu|telik}}, {{t+|hu|elmúlik}}, {{t+|hu|múlik}}
+* Japanese: {{t+|ja|過ぎる|tr=[[すぎる]], sugiru}}, {{t+|ja|経つ|tr=[[たつ]], tatsu}}
+* Lithuanian: {{t|lt|slinkti}}
+* Old English: {{t|ang|āgān}}
+* Persian: {{t+|fa|گذشتن|tr=gozaštan|sc=fa-Arab}}, {{t|fa|سپری شدن|tr=separi šodan|sc=fa-Arab}}
+* Portuguese: {{t+|pt|passar}}
+* Russian: {{t+|ru|проходи́ть|impf}}, {{t+|ru|пройти́|pf}}, {{t+|ru|минова́ть|impf}}, {{t+|ru|ми́нуть|pf}}, {{t+|ru|истека́ть|impf}}, {{t+|ru|исте́чь|pf}}
+* Slovene: {{t|sl|miniti}}
+* Swedish: {{t+|sv|gå}}
+* Ukrainian: {{t|uk|проминати}}, {{t|uk|минати}}
+{{trans-bottom}}
+
+{{trans-top|to go by without noticing}}
+* Arabic: {{t|ar|أَهمَلَ}}
+{{trans-mid}}
+* Finnish: {{t+|fi|ohittaa}}
+* Hungarian: {{t+|hu|figyelmen kívül hagy}}
 {{trans-bottom}}
 
 {{trans-top|to continue}}
@@ -440,24 +483,31 @@ From {{inh|en|enm|passen}}, borrowed from {{bor|en|fro|passer||to step, walk, pa
 * Spanish: {{t+|es|pasar}}
 {{trans-bottom}}
 
-{{trans-top|go through the intestines}}
-* Arabic: {{t+|ar|مَرَّ}}
-* Finnish: {{t+|fi|ohittaa}}
-* French: {{qualifier|informal}} {{t+|fr|passer}}
+{{trans-top|to happen}}
+* Basque: {{t|eu|gertatu}}
+* Catalan: {{t+|ca|passar}}
+* Dutch: {{t+|nl|gebeuren}}
+* Finnish: {{t+|fi|tapahtua}}, {{t+|fi|käydä}}
+* French: {{t+|fr|survenir}}
 {{trans-mid}}
+* German: {{t+|de|passieren}}
+* Hungarian: {{t+|hu|történik}}, {{t+|hu|megtörténik}}
+* Japanese: {{t+|ja|起こる|tr=[[おこる]], okoru}}, {{t|ja|生じる|tr=[[しょうじる]], shōjiru}}
+* Old English: {{t|ang|weorþan}}, {{t|ang|belimpan}}
+* Spanish: {{t+|es|pasar}}, {{t+|es|ocurrir}}, {{t+|es|suceder}}
+{{trans-bottom}}
+
+{{trans-top|to be tolerated}}
+* Arabic: {{t|ar|تَغَاضَى}}
+* Finnish: {{t+|fi|sietää}}, {{t+|fi|käydä}}
+* French: {{t+|fr|passer}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|megfelel}}, {{t+|hu|elmegy}}
 * Latin: {{t|la|praetereo}}
 * Spanish: {{t+|es|pasar}}
 {{trans-bottom}}
 
-{{trans-top|law: to be conveyed or transferred by will, deed, or other instrument of conveyance}}
-* Finnish: {{t+|fi|siirtyä}}
-* Greek: {{t+|el|αφήνω|sc=Grek}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|háramlik}}, {{t|hu|átruház|alt=átruházzák}}, {{t|hu|átír|alt=átírják}}, {{t|hu|átkerül}}
-* Japanese: {{t+|ja|譲渡|alt=譲渡する|tr=[[じょうとする]], jōto suru}}
-{{trans-bottom}}
-
-{{trans-top|decline to play in one's turn}}
+{{trans-top|game: to decline to play in one's turn}}
 * Arabic: {{t|ar|تَخَلَّى}}
 * Danish: {{t|da|melde pas}}
 * Esperanto: {{t|eo|cedi}}
@@ -470,64 +520,14 @@ From {{inh|en|enm|passen}}, borrowed from {{bor|en|fro|passer||to step, walk, pa
 * Spanish: {{t+|es|pasar}}
 {{trans-bottom}}
 
-{{trans-top|go by, over, etc}}{{attn|en| is this sense the same as "to go past" above? (it's not listed among the definitions) }}
-* Arabic: {{t+|ar|مَرَّ}}
-* Armenian: {{t+|hy|անցնել}}
-* Chinese:
-*: Mandarin: {{t+|cmn|過|sc=Hani}}, {{t+|cmn|过|tr=guò|sc=Hani}}
-* Czech: {{t|cs|jít kolem}}, {{t+|cs|minout}}
-* Dutch: {{t+|nl|voorbijgaan}}
-* Finnish: {{t+|fi|kulkea}}
-* French: {{t+|fr|passer}}
-* German: {{t+|de|vorbeigehen}}
-* Greek: {{t+|el|περνάω|sc=Grek}}
-* Hungarian: {{t+check|hu|elmegy}}
-{{trans-mid}}
-* Italian: {{t+|it|passare}}
-* Japanese: {{t+|ja|通る|tr=[[とおる]], tōru}}, {{t+|ja|過ぎる|tr=[[すぎる]], sugiru}}, {{t+|ja|通過|alt=通過する|tr=[[つうかする]], tsūka suru}}
-* Korean: {{t+|ko|지나가다}}
-* Latin: {{t|la|praeterire}}, {{t|la|praetereo}}
-* Persian: {{t+|fa|گذشتن|tr=gozaštan|sc=fa-Arab}}
-* Portuguese: {{t+|pt|passar}}
-* Russian: {{t+|ru|проходи́ть|impf}}, {{t+|ru|пройти́|pf}}
-* Spanish: {{t+|es|pasar}}
-* Swedish: {{t+|sv|förflytta}}
-* ǃXóõ: {{t|nmn|ǃkxʻáa}}
-{{trans-bottom}}
-
-{{trans-top|go by without noticing}}
-* Arabic: {{t|ar|أَهمَلَ}}
-{{trans-mid}}
-* Finnish: {{t+|fi|ohittaa}}
-* Hungarian: {{t+|hu|figyelmen kívül hagy}}
-{{trans-bottom}}
-
-{{trans-top|transcend}}
+{{trans-top|to transcend, to surpass}}
 * Arabic: {{t|ar|تَجَاوَزَ}}
 {{trans-mid}}
 * Finnish: {{t+|fi|ylittää}}
 * Hungarian: {{t+|hu|meghalad}}, {{t+|hu|átlép}}
 {{trans-bottom}}
 
-{{trans-top|go successfully through}}
-* Arabic: {{t|ar|اجتازَ}}
-* Dutch: {{t|nl|Slagen}}
-* Finnish: {{t+|fi|päästä läpi}}
-* French: {{t+|fr|passer}}
-{{trans-mid}}
-* Hungarian: {{t+|hu|átmegy}}, {{t+|hu|átjut}}
-* Scottish Gaelic: {{t|gd|pasaig}}
-* Telugu: {{t|te|పాసగు}}
-{{trans-bottom}}
-
-{{trans-top|cause to advance by stages of process}}
-* Finnish: {{t+|fi|hyväksyttää}}
-* Hungarian: {{t|hu|végigvisz}}, {{t|hu|megszavaztat}}, {{t|hu|jóváhagyat}}, {{t+|hu|meghoz}}
-{{trans-mid}}
-* Japanese: {{t+|ja|通る|tr=[[とおる]], tōru}}, {{t+|ja|通過|alt=通過する|tr=[[つうかする]], tsūka suru}}, {{t+|ja|承認|alt=承認する|tr=[[しょうにんする]], shōnin suru}}, {{t+|ja|可決|alt=可決する|tr=[[かけつする]], kaketsu suru}}, {{t+|ja|批准|alt=批准する|tr=[[ひじゅんする]], hijyun suru}}
-{{trans-bottom}}
-
-{{trans-top|fencing: make, as a thrust, punto}}
+{{trans-top|fencing: to make, as a thrust, punto}}
 * Finnish: {{t+|fi|pistää}}
 {{trans-mid}}
 * Japanese: {{t+|ja|突く|tr=[[つく]], tsuku}}
