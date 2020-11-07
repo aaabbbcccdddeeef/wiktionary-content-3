@@ -818,8 +818,8 @@ From {{inh|rw|bnt-pro|*-páa}}.
 #:: Jenny has bought a dog.
 
 =====Conjugation=====
-{{sv-conj-wk|end=vw|past=hade|full=hava|sup=haft|nopp=1}}<!-- currently no way to get pp=havd in here -->
-{{sv-conj-wk|head=hava|hav|past=hade|sup=haft|definitions=(dated)}}
+{{sv-conj-wk|end=vw|past=hade|full=hava|sup=haft|pp=havd}}
+{{sv-conj-wk|head=hava|hav|past=hade|sup=haft|note=dated}}
 
 =====Alternative forms=====
 * {{sense|dated}} {{l|sv|hava}}
