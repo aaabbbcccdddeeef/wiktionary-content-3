@@ -3,7 +3,7 @@
 
 ===Etymology===
 {{root|en|ine-pro|*delh₁-}}
-From {{etyl|fr|en}} {{m|fr|indolent}}, from {{etyl|la|en}} {{m|la|indolentem}}, from {{m|la|in-||not}} + {{m|la|dolēns||pain}}.
+From {{bor|en|fr|indolent}}, from {{der|en|la|indolens}}, from {{prefix|la|in-|t1=not|dolēns|t2=hurting|nocat=1}}, from {{m|la|doleo|t=to hurt}}.
 
 ===Pronunciation===
 * {{a|UK|US}} {{IPA|en|/ˈɪn.dəl.ənt/}}
@@ -110,3 +110,34 @@ From {{der|fr|la|indolentem}}, accusative singular masculine and feminine of {{m
 {{fr-adj}}
 
 # {{l|en|indolent}} {{q|all senses}}
+
+----
+
+==German==
+
+===Etymology===
+Borrowed from {{bor|de|fr|indolent}}.
+
+===Pronunciation===
+* {{IPA|de|/ɪndoˈlɛnt/|/ˈɪndolɛnt/}}
+* {{audio|de|De-indolent.ogg|Audio}}
+* {{hyph|de|in|do|lent}}
+
+===Adjective===
+{{de-adj|indolenter|indolentesten}}
+
+# [[indolent]] {{gloss|mentally lazy}}
+#: {{syn|de|denkfaul}}
+# {{lb|de|medicine}} [[insensible]] to pain
+
+====Declension====
+{{de-decl-adj|indolent|indolenter|indolentest}}
+
+====Related terms====
+* {{l|de|Indolenz}}
+
+===Further reading===
+* {{R:Duden}}
+* {{R:DWDS}}
+
+{{topics|de|Personality}}
