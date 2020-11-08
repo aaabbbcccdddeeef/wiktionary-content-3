@@ -343,22 +343,31 @@ Of uncertain origin; perhaps compare {{der|en|ru|крашени́на||coarse li
 
 ==Dutch==
 
-===Etymology===
-Borrowed from {{bor|nl|en|crash}}.
-
 ===Pronunciation===
 * {{a|NL}} {{IPA|nl|/krɛʃ/}}
 * {{audio|nl|Nl-crash.ogg|Audio}}
+* {{hyphenation|nl|crash}}
 * {{homophone|nl|crèche}}
 
-===Noun===
+===Etymology 1===
+Borrowed from {{bor|nl|en|crash}}.
+
+====Noun====
 {{nl-noun|m|-es|crashje}}
 
-# {{l|en|crash}}, {{l|en|collision}}
+# {{l|en|crash}}, {{l|en|collision}}, esp. when involving [[aircraft]]
 # economic crash, especially in relation to [[stock exchange]]s
+#: {{syn|nl|krach}}
 # computer crash
 
-===Verb===
+=====Derived terms=====
+* {{l|nl|beurscrash}}
+* {{l|nl|computercrash}}
+
+===Etymology 2===
+{{nonlemma}}
+
+====Verb====
 {{head|nl|verb form}}
 
 # {{nl-verb form of|p=1|n=sg|t=pres|m=ind|crashen}}
