@@ -136,7 +136,7 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 *: Bokmål: {{t+|nb|gave|m|f}}, {{t+|nb|presang|m}}
 *: Nynorsk: {{t+|no|gåve|f}}, {{t+|no|presang|m}}
 * Occitan: {{t|oc|present|m}}, {{t+|oc|don|m}}
-* Old English: {{t+|ang|ġiefu|f}}
+* Old English: {{t|ang|ġiefu|f}}
 * Old Norse: {{t|non|gipt|f}}, {{t|non|gáfa|f}}, {{t|non|gjǫf|f}}
 * Oriya: {{t+|or|ଦାନ}}
 * Ossetian: {{t|os|лӕвар}}
@@ -579,10 +579,13 @@ From {{inh|ang|gem-pro|*giftiz}}. Cognate with {{cog|ofs|jeft}}, {{cog|osx|*gift
 * {{ang-IPA|ġift}}
 
 ===Noun===
-{{ang-noun|head=ġift|f|ġifta|pl2=ġiftu}}
+{{ang-noun|head=ġift|f|ġifta}}
 
 # payment for a [[wife]]
 # {{lb|ang|in the plural}} a [[wedding]]
+
+====Declension====
+{{ang-decl-noun-o-f|ġift}}
 
 ====Descendants====
 * {{desc|enm|ȝift}}, {{l|enm|ȝeft}}, {{l|enm|gift}} {{i|in part from Old Norse}}
