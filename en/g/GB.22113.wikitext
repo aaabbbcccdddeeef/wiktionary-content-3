@@ -19,25 +19,17 @@
 
 ==English==
 
-===Proper noun===
-{{en-proper-noun}}
+===Symbol===
+{{en-symbol}}
 
-# {{initialism of|en|Great Britain}}
-# {{abbreviation of|en|Green Bay|nodot=1}} in [[Wisconsin]], [[USA]].
-# {{initialism of|en|{{w|Nintendo Game Boy|Game Boy}}}}
-# {{initialism of|en|Guantanamo Bay}}
-
-====See also====
-* {{pedia|lang=en|Great Britain}}
-* {{pedia|lang=en|Green Bay, Wisconsin}}
+# {{lb|en|computing|formal}} {{l|en|gigabyte}} {{gloss|1,000 [[megabyte]]s or 1,000,000,000 [[byte]]s}}
+#* '''1989''', IBM, ''[http://bitsavers.informatik.uni-stuttgart.de/pdf/ibm/dasd/reference_summary/GX26-4577-0_3390_Reference_Summary_Jun89.pdf IBM 3390 Direct Access Storage Reference Summary]'', page 7
+#*: MB equals 10<sup>6</sup> bytes and '''GB''' equals 10<sup>9</sup> bytes
+# {{lb|en|computing|informal}} {{l|en|gibibyte}} {{gloss|2<sup>10</sup> (1024) [[megabyte]]s ([[mebibytes]]) or 2<sup>30</sup> (1,073,741,824) [[byte]]s}}. {{synonym of|en|GiB|gloss=[[gibibyte]]}}.
 
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|computing|formal}} {{abbreviation of|en|gigabyte}} {{gloss|1,000 [[megabyte]]s or 1,000,000,000 [[byte]]s}}
-#* '''1989''', IBM, ''[http://bitsavers.informatik.uni-stuttgart.de/pdf/ibm/dasd/reference_summary/GX26-4577-0_3390_Reference_Summary_Jun89.pdf IBM 3390 Direct Access Storage Reference Summary]'', page 7
-#*: MB equals 10<sup>6</sup> bytes and '''GB''' equals 10<sup>9</sup> bytes
-# {{lb|en|computing|informal}} {{abbreviation of|en|gigabyte}} {{synonym of|en|GiB|gloss=[[gibibyte]]}} {{gloss|2<sup>10</sup> (1024) [[megabyte]]s ([[mebibytes]]) or 2<sup>30</sup> (1,073,741,824) [[byte]]s}}
 # {{lb|en|anatomy}} {{initialism of|en|gallbladder}}
 # {{lb|en|informal|pharmaceutical drug}} {{initialism of|en|goofball|t=barbiturate}}
 #* {{quote-journal|en|date=1965-02-26|author=James Mills|title=The World of Needle Park|journal={{w|Time (magazine)|Time}}|volume=58|issue=8|page={{gbooks|KEEEAAAAMBAJ|82|GBs}}|passage=Goofballs usually produce a quiet drowsiness, but also at times a tense aggressiveness that can be frighteningly unpredictable. Irene's behavior when she is high on '''GBs''', which is most of the time, has created such havoc in the neighborhood restaurants that they no longer let her in.}}
@@ -49,6 +41,18 @@
 * Georgian: {{t|ka|გბაიტი}}, {{t|ka|გბ}}
 * Tigrinya: {{t|ti|ጊባ}}
 {{trans-bottom}}
+
+===Proper noun===
+{{en-proper-noun}}
+
+# {{initialism of|en|Great Britain}}
+# {{abbreviation of|en|Green Bay|nodot=1}} in [[Wisconsin]], [[USA]].
+# {{initialism of|en|{{w|Nintendo Game Boy|Game Boy}}}}
+# {{initialism of|en|Guantanamo Bay}}
+
+====See also====
+* {{pedia|lang=en|Great Britain}}
+* {{pedia|lang=en|Green Bay, Wisconsin}}
 
 ===Phrase===
 {{head|en|phrase}}
