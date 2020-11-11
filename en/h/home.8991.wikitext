@@ -495,7 +495,7 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Thai: {{t+check|th|บ้าน|tr=bâan|sc=Thai}}, {{t+check|th|ที่อยู่|tr=tee-yoo|sc=Thai}}
 * Turkish: {{t+check|tr|ev}}, {{t+check|tr|yurt}}
 * Welsh: {{t+check|cy|tref|f}}
-}}
+}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
 ===Verb===
@@ -634,66 +634,67 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 
 ====Translations====
 {{trans-top|at home}}
+{{multitrans|data=
 * Bavarian: {{t-simple|bar|langname=Bavarian|dahoam}}
-* Belarusian: {{t|be|до́ма|sc=Cyrl}}
-* Bulgarian: {{t|bg|у дома}}
+* Belarusian: {{tt|be|до́ма|sc=Cyrl}}
+* Bulgarian: {{tt|bg|у дома}}
 * Catalan: {{t-simple|ca|langname=Catalan|a casa}}
 * Chinese:
-*: Mandarin: {{t|cmn|在家里|tr=zài jiālǐ|sc=Hani}}
+*: Mandarin: {{tt|cmn|在家里|tr=zài jiālǐ|sc=Hani}}
 * Czech: {{t-simple|interwiki=1|cs|langname=Czech|doma}}
 * Danish: {{t-simple|interwiki=1|da|langname=Danish|hjemme}}
 * Dutch: {{t-simple|interwiki=1|nl|langname=Dutch|thuis}}
 * Elfdalian: {{t-simple|ovd|langname=Elfdalian|iema}}
 * Faroese: {{t-simple|interwiki=1|fo|langname=Faroese|heima}}
-* Finnish: {{t+|fi|kotona}}
-* French: {{t+|fr|à la maison}}
-* German: {{t+|de|daheim}}, {{t+|de|zu Hause}}, {{t+|de|zuhause}}
-* Greek: {{t|el|[[στο]] [[σπίτι]]}}
-*: Ancient: {{t|grc|οἴκοι}}
-* Hindi: {{t|hi|घर पर}}
-* Hungarian: {{t+|hu|otthon}}, {{t|hu|itthon}}
-* Icelandic: {{t+|is|heima}}
-* Ido: {{t+|io|heme}}, {{t+|io|enheme}}
-* Irish: {{t|ga|sa bhaile}}
-* Italian: {{t|it|a casa}}
-* Japanese: {{t+|ja|家|tr=うちに, uchi ni|alt=家に|sc=Jpan}}, {{t+|ja|家|tr=うちで, uchi de|alt=家で|sc=Jpan}}
-* Korean: {{t|ko|집에}}
-* Latin: {{t+|la|domi}}
-* Macedonian: {{t|mk|дома}}
-* Navajo: {{t|nv|hooghandi}}
-* Northern Sami: {{t|se|ruovttus}}
+* Finnish: {{tt+|fi|kotona}}
+* French: {{tt+|fr|à la maison}}
+* German: {{tt+|de|daheim}}, {{tt+|de|zu Hause}}, {{tt+|de|zuhause}}
+* Greek: {{tt|el|[[στο]] [[σπίτι]]}}
+*: Ancient: {{tt|grc|οἴκοι}}
+* Hindi: {{tt|hi|घर पर}}
+* Hungarian: {{tt+|hu|otthon}}, {{tt|hu|itthon}}
+* Icelandic: {{tt+|is|heima}}
+* Ido: {{tt+|io|heme}}, {{tt+|io|enheme}}
+* Irish: {{tt|ga|sa bhaile}}
+* Italian: {{tt|it|a casa}}
+* Japanese: {{tt+|ja|家|tr=うちに, uchi ni|alt=家に|sc=Jpan}}, {{tt+|ja|家|tr=うちで, uchi de|alt=家で|sc=Jpan}}
+* Korean: {{tt|ko|집에}}
+* Latin: {{tt+|la|domi}}
+* Macedonian: {{tt|mk|дома}}
+* Navajo: {{tt|nv|hooghandi}}
+* Northern Sami: {{tt|se|ruovttus}}
 * Norwegian:
-*: Bokmål: {{t+|no|hjemme}}, {{t+|no|heime}}
-*: Nynorsk: {{t+|nn|heime}}
+*: Bokmål: {{tt+|no|hjemme}}, {{tt+|no|heime}}
+*: Nynorsk: {{tt+|nn|heime}}
 {{trans-mid}}
-* Pennsylvania German: {{t|pdc|deheem}}
-* Persian: {{t+|fa|منزل|tr=manzel|sc=fa-Arab}}, {{t|fa|در منزل|tr=dar manzel|sc=fa-Arab}}
-* Polish: {{t|pl|w domu}}
-* Portuguese: {{t|pt|em casa}}
-* Romanian: {{t+|ro|acasă}}
-* Romansch: {{t|rm|a chasa}} {{qualifier|Rumantsch Grischun|Vallader}}, {{t|rm|a casa}} {{qualifier|Sursilvan}}, {{t|rm|a tgea}}, {{t|rm|a tgeasa}} {{qualifier|Sutsilvan}}, {{t|rm|a tgesa}} {{qualifier|Surmiran}}, {{t|rm|a chesa}} {{qualifier|Puter}}
-* Russian: {{t+|ru|до́ма}}
-* Scots: {{t|sco|hame}}
-* Scottish Gaelic: {{t|gd|dhachaigh}}
-* Sinhalese: {{t+|si|ගෙදර}}
-* Slovak: {{t+|sk|doma}}
-* Slovene: {{t+|sl|domá}}
+* Pennsylvania German: {{tt|pdc|deheem}}
+* Persian: {{tt+|fa|منزل|tr=manzel|sc=fa-Arab}}, {{tt|fa|در منزل|tr=dar manzel|sc=fa-Arab}}
+* Polish: {{tt|pl|w domu}}
+* Portuguese: {{tt|pt|em casa}}
+* Romanian: {{tt+|ro|acasă}}
+* Romansch: {{tt|rm|a chasa}} {{qualifier|Rumantsch Grischun|Vallader}}, {{tt|rm|a casa}} {{qualifier|Sursilvan}}, {{tt|rm|a tgea}}, {{tt|rm|a tgeasa}} {{qualifier|Sutsilvan}}, {{tt|rm|a tgesa}} {{qualifier|Surmiran}}, {{tt|rm|a chesa}} {{qualifier|Puter}}
+* Russian: {{tt+|ru|до́ма}}
+* Scots: {{tt|sco|hame}}
+* Scottish Gaelic: {{tt|gd|dhachaigh}}
+* Sinhalese: {{tt+|si|ගෙදර}}
+* Slovak: {{tt+|sk|doma}}
+* Slovene: {{tt+|sl|domá}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb|doma}}
-* Spanish: {{t|es|en casa}}
-* Swedish: {{t+|sv|hemma}}
-* Telugu: {{t|te|ఇంటి వద్ద}}
-* Turkish: {{t+|tr|evde}}
-* Ukrainian: {{t+|uk|вдо́ма}}
-* Urdu: {{t|ur|گھر پر|tr=ghar par|sc=ur-Arab}}
-* Uyghur: {{t|ug|ئۆيدە|sc=ug-Arab}}
-* Welsh: {{t|cy|gartref}}, {{t|cy|gartre}}
+*: Lower Sorbian: {{tt|dsb|doma}}
+* Spanish: {{tt|es|en casa}}
+* Swedish: {{tt+|sv|hemma}}
+* Telugu: {{tt|te|ఇంటి వద్ద}}
+* Turkish: {{tt+|tr|evde}}
+* Ukrainian: {{tt+|uk|вдо́ма}}
+* Urdu: {{tt|ur|گھر پر|tr=ghar par|sc=ur-Arab}}
+* Uyghur: {{tt|ug|ئۆيدە|sc=ug-Arab}}
+* Welsh: {{tt|cy|gartref}}, {{tt|cy|gartre}}
 {{trans-bottom}}
 
 {{trans-top|homewards}}
-* Armenian: {{t+|hy|տուն|sc=Armn}}
+* Armenian: {{tt+|hy|տուն|sc=Armn}}
 * Asturian: {{t-simple|ast|langname=Asturian|a casa}}
-* Belarusian: {{t|be|дадо́му|sc=Cyrl}}
+* Belarusian: {{tt|be|дадо́му|sc=Cyrl}}
 * Bengali: {{t-needed|bn}}
 * Breton: {{t-needed|br}}
 * Catalan: {{t-simple|ca|langname=Catalan|a casa}}
@@ -703,86 +704,87 @@ Cognate with {{cog|ga|caoimh||dear}}, {{cog|lt|kaimas||village}}, {{m|lt|šeima|
 * Danish: {{t-simple|interwiki=1|da|langname=Danish|hjem}}, {{t-simple|da|langname=Danish|hjemad}}
 * Dhivehi: {{t-needed|dv}}
 * Dutch: {{t-simple|nl|langname=Dutch|naar huis}}
-* Estonian: {{t|et|koju}}
+* Estonian: {{tt|et|koju}}
 * Faroese: {{t-simple|fo|langname=Faroese|heim}}
-* Finnish: {{t+|fi|kotiin}}
-* French: {{t+|fr|à la maison}}
+* Finnish: {{tt+|fi|kotiin}}
+* French: {{tt+|fr|à la maison}}
 * Friulian: {{t-needed|fur}}
-* Galician: {{t|gl|a casa}}
+* Galician: {{tt|gl|a casa}}
 * Georgian: {{t-needed|ka}}
-* German: {{t|de|nach Hause}}, {{t|de|nachhause}}, {{t+|de|heimwärts}}, {{t+|de|heim}}
-*: Alemannic German: {{t|gsw|häi}}
-* Greek: {{t|el|[[προς]] [[το]] [[σπίτι]]}}
-*: Ancient: {{t|grc|οἴκαδε}}, {{q|Epic}} {{t|grc|δόμονδε}}
+* German: {{tt|de|nach Hause}}, {{tt|de|nachhause}}, {{tt+|de|heimwärts}}, {{tt+|de|heim}}
+*: Alemannic German: {{tt|gsw|häi}}
+* Greek: {{tt|el|[[προς]] [[το]] [[σπίτι]]}}
+*: Ancient: {{tt|grc|οἴκαδε}}, {{q|Epic}} {{tt|grc|δόμονδε}}
 * Gujarati: {{t-needed|gu}}
 * Hausa: {{t-needed|ha}}
-* Hawaiian: {{t|haw|i kauhale}}
-* Hebrew: {{t+|he|הביתה|tr=habáyta|sc=Hebr}}
+* Hawaiian: {{tt|haw|i kauhale}}
+* Hebrew: {{tt+|he|הביתה|tr=habáyta|sc=Hebr}}
 * Hindi: {{t-needed|hi}}
-* Hungarian: {{t+|hu|haza}}
-* Icelandic: {{t+|is|heim}}
-* Ido: {{t+|io|adheme}}
+* Hungarian: {{tt+|hu|haza}}
+* Icelandic: {{tt+|is|heim}}
+* Ido: {{tt+|io|adheme}}
 * Igbo: {{t-needed|ig}}
 * Indonesian: {{t-needed|id}}
 * Interlingua: {{t-needed|ia}}
-* Interlingue: {{t|ie|a hem}}
-* Irish: {{t|ga|abhaile}}
-* Italian: {{t|it|a casa}}
-* Japanese: {{t+|ja|家|tr=うちへ, uchi e|alt=家へ|sc=Jpan}}, {{t+|ja|家|tr=うちに, uchi ni|alt=家に|sc=Jpan}}
+* Interlingue: {{tt|ie|a hem}}
+* Irish: {{tt|ga|abhaile}}
+* Italian: {{tt|it|a casa}}
+* Japanese: {{tt+|ja|家|tr=うちへ, uchi e|alt=家へ|sc=Jpan}}, {{tt+|ja|家|tr=うちに, uchi ni|alt=家に|sc=Jpan}}
 * Javanese: {{t-needed|jv}}
 * Kannada: {{t-needed|kn}}
-* Khmer: {{t|km|ទៅផ្ទះ|tr=tɨv pteah|sc=Khmr}}
-* Korean: {{t+|ko|집|alt=집에}}, {{t|ko|집으로}}
-* Latin: {{t+|la|domum}}
+* Khmer: {{tt|km|ទៅផ្ទះ|tr=tɨv pteah|sc=Khmr}}
+* Korean: {{tt+|ko|집|alt=집에}}, {{tt|ko|집으로}}
+* Latin: {{tt+|la|domum}}
 {{trans-mid}}
-* Macedonian: {{t|mk|дома}}
-* Navajo: {{t|nv|hooghangóó}}
-* Northern Sami: {{t|se|ruoktot}}
+* Macedonian: {{tt|mk|дома}}
+* Navajo: {{tt|nv|hooghangóó}}
+* Northern Sami: {{tt|se|ruoktot}}
 * Norwegian:
-*: Bokmål: {{t+|no|hjem}}, {{t+|no|heim}}, {{t|no|hjemover}}, {{t|no|heimover}}
-*: Nynorsk: {{t|nn|heim}}, {{t|nn|heimover}}
-* Novial: {{t|nov|a hem}}
+*: Bokmål: {{tt+|no|hjem}}, {{tt+|no|heim}}, {{tt|no|hjemover}}, {{tt|no|heimover}}
+*: Nynorsk: {{tt|nn|heim}}, {{tt|nn|heimover}}
+* Novial: {{tt|nov|a hem}}
 * Pashto: {{t-needed|ps}}
-* Pennsylvania German: {{t|pdc|heem}}
+* Pennsylvania German: {{tt|pdc|heem}}
 * Persian: {{t-needed|fa}}
-* Polish: {{t|pl|[[do]] [[dom]]u}}, {{t-check|pl|[[ku]] [[dom]]owi}}, {{t-check|pl|[[w]] [[strona|stronę]] [[dom]]u}}
-* Portuguese: {{t|pt|para casa}}
+* Polish: {{tt|pl|[[do]] [[dom]]u}}, {{t-check|pl|[[ku]] [[dom]]owi}}, {{t-check|pl|[[w]] [[strona|stronę]] [[dom]]u}}
+* Portuguese: {{tt|pt|para casa}}
 * Punjabi: {{t-needed|pa}}
 * Rajasthani: {{t-needed|raj}}
 * Romanian: {{t-needed|ro}}
-* Romansch: {{t|rm|a chasa}} {{qualifier|Rumantsch Grischun|Vallader}}, {{t|rm|a casa}} {{qualifier|Sursilvan}}, {{t|rm|a tgea}}, {{t|rm|a tgeasa}} {{qualifier|Sutsilvan}}, {{t|rm|a tgesa}} {{qualifier|Surmiran}}, {{t|rm|a chesa}} {{qualifier|Puter}}
-* Russian: {{t+|ru|домо́й}}
+* Romansch: {{tt|rm|a chasa}} {{qualifier|Rumantsch Grischun|Vallader}}, {{tt|rm|a casa}} {{qualifier|Sursilvan}}, {{tt|rm|a tgea}}, {{tt|rm|a tgeasa}} {{qualifier|Sutsilvan}}, {{tt|rm|a tgesa}} {{qualifier|Surmiran}}, {{tt|rm|a chesa}} {{qualifier|Puter}}
+* Russian: {{tt+|ru|домо́й}}
 * Rwanda-Rundi: {{t-needed|rw}}
 * Sanskrit: {{t-needed|sa}}
 * Sardinian: {{t-needed|sc}}
-* Scots: {{t|sco|hame}}
-* Scottish Gaelic: {{t|gd|dhachaigh}}
+* Scots: {{tt|sco|hame}}
+* Scottish Gaelic: {{tt|gd|dhachaigh}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|кући}}
-*: Roman: {{t+|sh|kući}}
+*: Cyrillic: {{tt|sh|кући}}
+*: Roman: {{tt+|sh|kući}}
 * Sicilian: {{t-needed|scn}}
 * Sindhi: {{t-needed|sd}}
-* Sinhalese: {{t|si|ගෙදර දෙසට}}
-* Slovak: {{t+|sk|domov}}
-* Slovene: {{t+|sl|domôv}}
+* Sinhalese: {{tt|si|ගෙදර දෙසට}}
+* Slovak: {{tt+|sk|domov}}
+* Slovene: {{tt+|sl|domôv}}
 * Somali: {{t-needed|so}}
-* Spanish: {{t|es|a casa}}
-* Swedish: {{t+|sv|hem}}, {{t+|sv|hemåt}}
+* Spanish: {{tt|es|a casa}}
+* Swedish: {{tt+|sv|hem}}, {{tt+|sv|hemåt}}
 * Tamil: {{t-needed|ta}}
-* Telugu: {{t|te|ఇంటి వైపు|sc=Telu}}
-* Turkish: {{t+|tr|eve}}, {{t|tr|eve doğru}}
+* Telugu: {{tt|te|ఇంటి వైపు|sc=Telu}}
+* Turkish: {{tt+|tr|eve}}, {{tt|tr|eve doğru}}
 * Turkmen: {{t-needed|tk}}
-* Ukrainian: {{t|uk|додо́му}}
+* Ukrainian: {{tt|uk|додо́му}}
 * Urdu: {{t-needed|ur}}
 * Uyghur: {{t-needed|ug}}
 * Uzbek: {{t-needed|uz}}
 * Walloon: {{t-needed|wa}}
-* Welsh: {{t+|cy|adref}}, {{t|cy|adre}}
+* Welsh: {{tt+|cy|adref}}, {{tt|cy|adre}}
 * Wolof: {{t-needed|wo}}
 * Xhosa: {{t-needed|xh}}
-* Yiddish: {{t|yi|אַהײם}}
+* Yiddish: {{tt|yi|אַהײם}}
 * Yoruba: {{t-needed|yo}}
 * Zulu: {{t-needed|zu}}
+}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
 ===Further reading===
