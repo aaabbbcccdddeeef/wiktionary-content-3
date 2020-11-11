@@ -1,20 +1,21 @@
 {{also|Constitution}}
 ==English==
-{{wikipedia}}
 
 ===Etymology===
-From {{inh|en|enm|constitucioun}}, from {{der|en|fro|constitucion}} ({{cog|fr|constitution}}), from {{der|en|la|constitutio|cōnstitūtiō, cōnstitūtiōnem}}.
+{{PIE word|en|ḱóm}}{{root|en|ine-pro|*steh₂-}}
+From {{inh|en|enm|constitucioun}}, {{m|enm|constitucion|t=edict, law, ordinance, regulation, rule, statute; body of laws or rules, or customs; body of fundamental principles; principle or rule (of science); creation}}<ref>{{R:MED Online|entry=constitūciǒun|pos=n|id=MED9433}}</ref> from {{der|en|fro|constitucion}} (modern {{cog|fr|constitution}}), a [[learned borrowing]] from {{der|en|la|cōnstitūtiō}}, {{m|la|cōnstitūtiōnem|t=character, constitution, disposition, nature; definition; point in dispute; order, regulation; arrangement, system}}, from {{m|la|cōnstituō|t=to establish, set up; to confirm; to decide, resolve}} (from {{m|la|con-|pos={{glossary|prefix}} indicating a being or bringing together of several objects}} + {{m|la|statuō|t=to set up, station; to establish; to determine, fix}} (ultimately from {{der|en|ine-pro|*steh₂-|t=to stand (up)}})) + {{m|la|-tiō|pos=suffix forming {{glossary|noun}}s relating to actions or the results of actions}}, {{m|la|-tiōnem|pos={{glossary|accusative}} {{glossary|singular}} of ''-tiō''}}.
 
 ===Pronunciation===
-* {{a|RP}} {{IPA|en|/ˌkɒnstɪˈtjuːʃən/|/ˌkɒnstɪˈtʃuːʃən/}}
-* {{a|GA}} {{IPA|en|/ˌkɑnstɪˈtuʃən/}}
-* {{audio|en|en-us-constitution.ogg|Audio (US)}}
+* {{a|RP}} {{IPA|en|/ˌkɒnstɪˈtjuːʃ(ə)n/|/-ˈtʃuː-/}}
+* {{a|GA}} {{IPA|en|/ˌkɑnstɪˈtuʃ(ə)n/}}
+* {{audio|en|En-us-constitution.ogg|Audio (GA)}}
 * {{hyphenation|en|con|sti|tu|tion}}
 
 ===Noun===
 {{en-noun}}
 
 # The act, or process of setting something up, or establishing something; the [[composition]] or [[structure]] of such a thing; its [[makeup]].
+#: {{synonyms|en|configuration|form|Thesaurus:composition}}
 #* '''1876''', {{w|John Herschel}}, ''Outlines of Astronomy''
 #*: the physical '''constitution''' of the sun
 # {{lb|en|government}} The [[formal]] or [[informal]] [[system]] of [[primary]] [[principle]]s and [[law]]s that [[regulate]]s a [[government]] or other [[institution]]s.
@@ -25,15 +26,12 @@ From {{inh|en|enm|constitucioun}}, from {{der|en|fro|constitucion}} ({{cog|fr|co
 #* '''1828''', {{w|Joseph Story}}, ''Appeal to the Republic''
 #*: Our '''constitutions''' have never been enfeebled by the vices or luxuries of the old world.
 #* {{RQ:Clarendon Rebellion}}
-#*: He defended himself with {{...}} less passion than was expected from his '''constitution'''.
+#*: He defended himself with [...] less passion than was expected from his '''constitution'''.
 # {{lb|en|dated}} The general [[health]] of a [[person]].
 #* {{quote-journal|en|year=1766|month=May|work=The Gentleman's and London Magazine: Or Monthly Chronologer|title=The Life of Mr. Barton Booth|author=|volume=|number=|page=281|passage=But when once his '''constitution''' began to decline, he broke very fast, and being attacked bya complication of diseases, he at length gave way to fate, May 10, 1733.}}
 #* {{quote-journal|en|date=July 18, 1792|work=The Phoenix|title=History of Nicholas Pedrosa|author=|volume=1|number=3|page=39|passage=Don Manuel de Casafonda the governor, whose countenance bespoke a '''constitution''' far gone in a decliner had thrown himself on a sopha in the last state of despair and given way to an effusion of tears:}}
 #* {{quote-journal|en|year=1827|month=July|work=The Oriental Herald and Journal of General Literature|title=On the Mal-organization of the Medical Profession, and of the Necessity of a Medical Reform|page=79|author=|volume=14|number=43|passage=The physician, to gratify the apothecary, himself obliged to order ten times more physic than the patient really wants, by which means he ruins his '''constitution''', and too often his life; otherwise how is it posible an apothecarty's bill in a fever should amount to forty, or fifty, or more pounds?}}
-#* {{quote-book|en|year=1838 | author=George Godfrey Cunningham | title=Lives of Eminent and Illustrious Englishmen|page=| passage=In early life his health was infirm, and his education much interrupted in consequence; but by diligent study, as his '''constitution''' improved, he made up his lost ground, and became one of the most accomplished classical and general scholars of his time.}}
-
-====Synonyms====
-* {{sense|process of setting something up}} {{l|en|configuration}}, {{l|en|form}}; see also [[Thesaurus:composition]]
+#* {{quote-book|en|year=1838|author=George Godfrey Cunningham|title=Lives of Eminent and Illustrious Englishmen|page=|passage=In early life his health was infirm, and his education much interrupted in consequence; but by diligent study, as his '''constitution''' improved, he made up his lost ground, and became one of the most accomplished classical and general scholars of his time.}}
 
 ====Derived terms====
 * {{l|en|constitutional}}
@@ -258,6 +256,13 @@ From {{inh|en|enm|constitucioun}}, from {{der|en|fro|constitucion}} ({{cog|fr|co
 * Norwegian: {{t-check|no|grunnlov|m}}
 * Spanish: {{t+check|es|constitución|f}}
 {{trans-bottom}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{pedia}}
+* {{pedia|constitution (disambiguation)}}
 
 [[Category:en:Directives]]
 
