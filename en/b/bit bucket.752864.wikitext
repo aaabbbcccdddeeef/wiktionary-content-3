@@ -1,20 +1,50 @@
 {{also|bitbucket|bit-bucket}}
 
 ==English==
-{{wikipedia}}
+{{was wotd|2020|December|2}}
 
-===Alternative forms===
-* {{l|en|bitbucket}}
+===Etymology===
+[[File:Univac bit bucket.JPG|thumb|A bit bucket ''(sense 1)'' from a [[UNIVAC]] [[keypunch]].]]
+
+From {{compound|en|bit|t1=small amount of something; smallest unit of storage in a digital computer, consisting of a binary digit|bucket}}.<ref>{{R:OED Online|pos=n|id=309542|date=March 2012|nodot=1}}; {{R:Lexico|pos=n}}</ref> ''Bit'' in this context originally referred to small pieces of paper punched out from [[paper tape]] or [[punch card]]s (see sense 1), but came to be regarded as the [[unit]] of [[datum|data]] [[storage]] (sense 2).
 
 ===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈbɪt ˌbʌkɪt/|/-kət/}}
+* {{a|GA}} {{IPA|en|/ˈbɪt ˌbʌkət/}}
 * {{audio|en|En-au-bit bucket.ogg|Audio (AU)}}
+* {{hyphenation|en|bit buck|et}}
 
 ===Noun===
-{{en-noun}}
+{{en-noun}} {{term-label|en|computing}}
 
-# {{lb|en|computing|slang|humorous}} The supposed place where [[bit]]s (binary digits) go when they fall off the end of a [[register]] during a [[shift]] operation; the resting-place of lost or [[missing]] [[digital]] [[information]].
+# {{lb|en|historical}} A [[container]] for [[hold#Verb|holding]] {{l|en|chad|t=[[small]] [[punch out|punched-out]] [[piece#Noun|pieces]] of [[paper#Noun|paper]]}} from [[paper tape]] or [[punch card]]s [[use#Verb|used]] with [[teleprinter]]s, early [[computer]]s, and other [[machine#Noun|machines]]; a [[chad box]].
+#* {{quote-book|en|author=Donald I. Cutler|chapter=6|title=Introduction to Computer Programming|location=Englewood Cliffs, N.J.|publisher=[[w:Prentice Hall|Prentice-Hall]]|year=1964|section=footnote 1|page=108|oclc=803034371|passage=The lost bits fall into a container called a '''bit bucket'''. They are emptied periodically and the collected bits are used for confetti at weddings, parties, and other festive occasions.}}
+# {{lb|en|by extension|humorous|slang}} The [[supposed#Adjective|supposed]] [[place#Noun|place]] where [[bit#Noun|bits]] ([[binary digit]]s) go when they [[fall off]] the [[end#Noun|end]] of a [[register#Noun|register]] during a [[shift]] [[operation]]; the [[notional]] [[resting place]] of [[lost#Adjective|lost]] or [[missing#Adjective|missing]] [[digital]] [[information]].
+#: {{synonyms|en|byte bucket}}
+
+====Alternative forms====
+* {{l|en|bitbucket}}
+* {{l|en|bit-bucket}}
+
+====Translations====
+{{trans-top|container for holding chad from paper tape or punch cards}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|supposed place where bits go when they fall off the end of a register during a shift operation}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ===Verb===
 {{en-verb}}
 
-# {{lb|en|computing|slang|humorous}} To [[delete]].
+# {{lb|en|transitive|computing|humorous|slang}} To [[delete]].
+
+====Translations====
+{{trans-see|to delete|delete}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{pedia}}
