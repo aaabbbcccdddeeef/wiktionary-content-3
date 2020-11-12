@@ -15,7 +15,7 @@ Borrowed from {{der|en|la|genus||birth, origin, a race, sort, kind}} from the ro
 ===Noun===
 {{en-noun|genera|pl2qual=both nonstandard|+|genusses}}
 
-# {{lb|en|taxonomy}} A [[rank]] in the classification of [[organism]]s, below [[family]] and above [[species]]; a [[taxon]] at that rank.
+# {{lb|en|biology|taxonomy}} A [[category]] in the classification of [[organism]]s, ranking below [[family]] (Lat. [[familia]]) and above [[species]]; a [[taxon]] at this rank.
 #: ''All magnolias belong to the '''genus''' ''Magnolia''.''
 #: ''Other species of the '''genus''' ''Bos'' are often called cattle or wild cattle.''
 #: ''There are only two '''genera''' and species of seadragons''.
@@ -31,6 +31,7 @@ Borrowed from {{der|en|la|genus||birth, origin, a race, sort, kind}} from the ro
 
 ====Hyponyms====
 * {{sense|topology|graph theory}} {{l|en|Euler genus}}
+* {{sense|taxonomy}} {{l|en|subgenus}}
 
 ====Derived terms====
 {{der2|en|summum genus|genus alternas}}
@@ -169,14 +170,16 @@ Borrowed from {{der|en|la|genus||birth, origin, a race, sort, kind}} from the ro
 {{trans-bottom}}
 
 ====See also====
-* {{l|en|generic name}}
-* {{l|en|class}}
-* {{l|en|division}}
-* {{l|en|kingdom}}
-* {{l|en|order}}
-* {{l|en|phylum}}
-* {{l|en|species}}
 * {{sense|semantics}} {{l|en|differentia}}
+* {{sense|biological taxa}}
+:* {{l|en|domain}}
+:* {{l|en|kingdom}}
+:* {{l|en|phylum}}/{{l|en|division}}
+:* {{l|en|class}}
+:* {{l|en|order}}
+:* {{l|en|family}}
+:* '''genus''', {{l|en|generic name}}
+:* {{l|en|species}}
 
 ====Further reading====
 * {{R:Webster 1913}}
