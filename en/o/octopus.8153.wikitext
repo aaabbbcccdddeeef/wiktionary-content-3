@@ -28,15 +28,15 @@ From {{der|en|la|octopūs}}, from {{der|en|grc|ὀκτώπους}}, from {{m|grc
 * {{l|en|polypus}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|octopean}}
-* {{l|en|octopian}}
-* {{l|en|octopic}}
-{{der-mid}}
-* {{l|en|octopine}}
-* {{l|en|octopuslike}}
-* {{l|en|octopussy}}
-{{der-bottom}}
+{{der4|en
+|octopean
+|octopian
+|octopic
+|octopine
+|octopoid
+|octopuslike
+|octopussy
+}}
 
 ====Translations====
 {{trans-top|mollusc}}
@@ -74,13 +74,13 @@ From {{der|en|la|octopūs}}, from {{der|en|grc|ὀκτώπους}}, from {{m|grc
 * French: {{t+|fr|pieuvre|f}}, {{t+|fr|poulpe|m}}
 * Galician: {{t+|gl|polbo|m}}
 * Georgian: {{t|ka|რვაფეხა}}
-* German: {{t+|de|Tintenfisch|m}} {{q|usual word; scientific for Coleoidea}}; {{t+|de|Oktopus|m}} {{q|chiefly scientific for the genus Octopus}}; {{t+|de|Krake|f}} {{q|scientific for Octopoda}}
+* German: {{t+|de|Tintenfisch|m}} {{q|usual word; scientific for Coleoidea}}; {{t+|de|Oktopus|m}} {{q|chiefly scientific for the genus Octopus}}; {{t+|de|Krake|m|f}} {{q|scientific for Octopoda}}
 * Greek: {{t+|el|χταπόδι|n}}
 *: Ancient: {{t|grc|πολύπους|m}}, {{t|grc|ὀκτώπους|m}}
 * Haida: {{t|hai|núugyaa}}
 * Haitian Creole: {{t|ht|pyèv}}
 * Hawaiian: {{t|haw|heʻe}}
-* Hebrew: {{t+|he|תְּמָנוּן|tr=tmanún|sc=Hebr}}
+* Hebrew: {{t+|he|תמנון|m|tr=tmanún|alt=תמנון \ תְּמָנוּן}}
 * Hindi: {{t|hi|ऑक्टोपस|m|sc=Deva}}, {{t|hi|अष्टबाहु|sc=Deva}}
 * Hungarian: {{t+|hu|polip}}
 * Icelandic: {{t+|is|kolkrabbi|m}}
@@ -117,8 +117,8 @@ From {{der|en|la|octopūs}}, from {{der|en|grc|ὀκτώπους}}, from {{m|grc
 * Neapolitan: {{t|nap|purpo|m}}
 * Nepali: {{t+|ne|अक्टोपस|sc=Deva}}
 * Nootka: {{t|nuk|tiiłuup}}
-* Norman: {{t|nrf|pieuvre|f}} {{qualifier|Jersey|Guernsey}}, {{qualifier|Sark}} {{t|nrf|pövr|f}}
-* Norwegian: {{t|no|blekksprut|m}}, {{t+|no|akkar|m}}
+* Norman: {{t|nrf|pieuvre|f}} {{q|Jersey|Guernsey}}, {{t|nrf|pövr|f}} {{q|Sark}} 
+* Norwegian: 
 *: Bokmål: {{t|nb|blekksprut|m}}, {{t+|nb|akkar|m}}
 *: Nynorsk: {{t|nn|blekksprut|m}}, {{t|nn|akkar|m}}
 * Occitan: {{t+|oc|pofre|m}}
@@ -136,7 +136,7 @@ From {{der|en|la|octopūs}}, from {{der|en|grc|ὀκτώπους}}, from {{m|grc
 * Saanich: {{t|str|sqim̕ək̕ʷ}}
 * Samoan: {{t|sm|fe'e}}
 * Santali: {{t|sat|ᱚᱠᱴᱚᱯᱚᱥ}}
-* Sardinian: {{t|sc|pruppu|m}} {{qualifier|Campidanese}}
+* Sardinian: {{t|sc|pruppu|m}} {{q|Campidanese}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|хоботница|f|sc=Cyrl}}, {{t|sh|осмоног|m|sc=Cyrl}}
 *: Roman: {{t+|sh|hobotnica|f}}, {{t|sh|osmonog|m}}
@@ -149,7 +149,7 @@ From {{der|en|la|octopūs}}, from {{der|en|grc|ὀκτώπους}}, from {{m|grc
 * Spanish: {{t+|es|pulpo|m}}
 * Sundanese: {{t|su|gurita}}
 * Swahili: {{t+|sw|pweza}}, [[pweza]] [[mkubwa]]
-* Swedish: {{t+|sv|bläckfisk}}
+* Swedish: {{t+|sv|bläckfisk|c}}
 * Tagalog: {{t|tl|pugita}}, {{t|tl|salabay}}
 * Tahitian: {{t-needed|ty}}
 * Tajik: {{t|tg|ҳаштпо|sc=Cyrl}}
@@ -176,7 +176,6 @@ From {{der|en|la|octopūs}}, from {{der|en|grc|ὀκτώπους}}, from {{m|grc
 * {{l|en|cuttlefish}}
 * {{l|en|Kraken}}
 * {{l|en|nautilus}}
-* {{l|en|octopoid}}
 * {{l|en|squid}}
 
 ===Verb===
