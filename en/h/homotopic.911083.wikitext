@@ -4,18 +4,19 @@
 ===Adjective===
 {{en-adj|-}}
 
-# {{lb|en|topology|of two [[map]]s}} Such that there is an [[interval]] of maps joining one to the other.
-#: f'' and ''g'' are homotopic.''
-# {{lb|en|phonetics|rare}} [[homorganic]]
+# {{lb|en|topology|of two [[continuous]] [[map]]s}} Such that there is a [[homotopy]] (a continuous [[deformation]]) taking one to the other.
+#: {{ux|en|f'' and ''g'' are '''homotopic'''.}}
+# {{lb|en|phonetics|rare}} [[homorganic|Homorganic]].
 
 ====Usage notes====
 * {{en-usage-equal}}
 
 ====Translations====
-{{trans-top|(topology) such that there is an interval of maps joining one to the other}}
+{{trans-top|(topology) such that there is a homotopy taking one to the other}}
 * Dutch: {{t|nl|homotopisch}}
 * Finnish: {{t|fi|homotooppinen}}
-{{trans-mid}}
 * French: {{t+|fr|homotope|m|f}}
+{{trans-mid}}
+* Italian: {{t|it|omotopico|m}}
 * Spanish: {{t|es|homotópico}}
 {{trans-bottom}}
