@@ -13,7 +13,7 @@
 ===Etymology 1===
 {{root|en|ine-pro|*ped-}}
 [[Image:Chess pawn 0968.jpg|thumb|A black pawn in chess]]
-From {{inh|en|enm|pown}}, {{m|enm|pawn}}, from {{der|en|xno|paun}}, {{m|fro|poun||pawn, pedestrian}} ( = {{der|en|fro|poon}}, {{m|fro|paon|päon}}, {{m|fro|peon|pëon}}), from {{der|en|LL.|pedo|pedō, pedonis|footsoldier}}, from {{der|en|la|pes|pēs, ped-|foot}}. {{doublet|en|peon}}.
+From {{inh|en|enm|pown}}, {{m|enm|pawn}}, from {{der|en|xno|paun}}, {{m|fro|poun||pawn, pedestrian}} ( = {{der|en|fro|poon}}, {{m|fro|paon|päon}}, {{m|fro|peon|pëon}}), from {{der|en|LL.|pedo|pedō, pedōnis|footsoldier}}, from {{der|en|la|pes|pēs, pēd-|foot}}. {{doublet|en|peon}}.
 
 ====Noun====
 {{en-noun}}
@@ -35,7 +35,7 @@ From {{inh|en|enm|pown}}, {{m|enm|pawn}}, from {{der|en|xno|paun}}, {{m|fro|poun
 * Armenian: {{t+|hy|զինվոր}}
 * Asturian: {{t|ast|peón|m}}
 * Azerbaijani: {{t+|az|piyada}}
-* Breton: [[pezh]] [[gwerin]] {{g|m}}
+* Breton: {{t+|br|[[pezh]] [[gwerin]]|m}}
 * Bulgarian: {{t|bg|пе́шка|f}}
 * Catalan: {{t+|ca|peó|m}}
 * Chinese:
@@ -71,7 +71,7 @@ From {{inh|en|enm|pown}}, {{m|enm|pawn}}, from {{der|en|xno|paun}}, {{m|fro|poun
 * Malay: {{t|ms|bidak}}, {{t|ms|pion}}, {{t|ms|piadah}}
 * Maori: {{t|mi|kaihāpai-ō}}
 * Middle English: {{t|enm|pown}}
-* Middle Persian: {{t|pal|𐭯𐭣𐭠𐭲𐭪|tr=payādag|sc=Phli}}
+* Middle Persian: {{t|pal|𐭯𐭣𐭠𐭲𐭪|ts=payādag|sc=Phli}}
 * Mongolian: {{t+|mn|хүү}}
 * Navajo: {{t|nv|naaʼnil}}
 * Norwegian: {{t+|no|bonde|m}}
@@ -138,13 +138,13 @@ From {{etyl|frm|en}} {{m|frm|pan||pledge, security}}, apparently from a Germanic
 {{en-noun|~}}
 
 # {{lb|en|uncountable}} The state of being held as [[security]] for a loan, or as a pledge.
-#: ''All our jewellery was in '''pawn''' by this stage.''
+#: {{ux|en|All our jewellery was in '''pawn''' by this stage.}}
 # An instance of pawning something.
 #*: {{RQ:Shakespeare Richard 2|II|i|passage=Redeem from broking '''pawn''' the blemish'd crown.}}
 #* {{RQ:Donne Devotions}}
 #*: As therefore the morning dew is a '''pawn''' of the evening fatness, so, O Lord, let this day's comfort be the earnest of to-morrow's.
 # {{lb|en|now|_|rare}} An item given as [[security]] on a loan, or as a pledge.
-#*: {{RQ:Shakespeare Lear|I|i|passage=My life I never held but as a '''pawn''' / To wage against thy enemies.}}
+#*: {{RQ:Shakespeare Lear|I|i|passage=My life I never held but as a '''pawn''' <br> To wage against thy enemies.}}
 #* {{RQ:RBrtn AntmyMlncly}}, New York, 2001, p.106:
 #*: Brokers, takers of '''pawns''', biting userers, I will not admit; yet {{...}} I will tolerate some kind of usery.
 #* {{RQ:Bacon Of Usury}}
@@ -188,7 +188,7 @@ From {{etyl|frm|en}} {{m|frm|pan||pledge, security}}, apparently from a Germanic
 * Greek: {{t+|el|ενεχυροδανειστήριο|n}}
 * Hebrew: {{t|he|חנות משכונות|f}}, {{t|he|בית עבוט|m}}
 {{trans-mid}}
-* Korean: {{t+|ko|고물상}} ([[古]][[物]][[商]])
+* Korean: {{t+|ko|고물상}} ({{t|ko|[[古]][[物]][[商]]}})
 * Macedonian: {{t|mk|заложница|f}}
 * Norwegian:
 *: Bokmål: {{t|nb|pantelåner|m}}
