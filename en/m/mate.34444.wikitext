@@ -138,9 +138,11 @@ From {{inh|en|enm|mate}}, a borrowing from {{der|en|gml|mate|t=messmate}} (repla
 {{en-verb}}
 
 # {{lb|en|intransitive}} To [[match]], [[fit]] [[together]] without [[space]] between.
-#: {{ux|en|The pieces of the puzzle mate perfectly.}}
+#: {{syn|en|match|couple|pair}}
+#: {{ux|en|The pieces of the puzzle '''mate''' perfectly.}}
 # {{lb|en|intransitive}} To [[copulate]].
-# {{lb|en|intransitive}} To [[pair]] in order to raise [[offspring]]
+#: {{syn|en|couple|Thesaurus:copulate}}
+# {{lb|en|intransitive}} To [[pair]] in order to raise [[offspring]].
 # {{lb|en|transitive}} To [[arrange]] in matched [[pair]]s.
 # {{lb|en|transitive}} To [[introduce]] (animals) together for the purpose of [[breeding]].
 # {{lb|en|transitive|of an animal}} To [[copulate]] with.
@@ -152,15 +154,7 @@ From {{inh|en|enm|mate}}, a borrowing from {{der|en|gml|mate|t=messmate}} (repla
 #* {{RQ:Shakespeare Henry 8|III|ii|passage=I, {{...}} in the way of loyalty and truth, {{...}} / Dare '''mate''' a sounder man than Surrey can be.}}
 # {{lb|en|transitive}} To [[fit]] (objects) together without [[space]] between.
 # {{lb|en|transitive|aerospace}} To move (a [[space shuttle]] [[orbiter]]) onto the back of an [[aircraft]] that can carry it.
-
-=====Synonyms=====
-{{checksense|en}}
-* {{l|en|couple}}
-* {{l|en|match}}
-* {{l|en|pair}}
-
-=====Antonyms=====
-* {{sense|aerospace}} {{l|en|demate}}
+#: {{ant|en|demate}}
 
 =====Derived terms=====
 * {{l|en|mating}}
