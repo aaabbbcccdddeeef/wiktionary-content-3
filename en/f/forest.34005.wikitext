@@ -56,7 +56,7 @@ Displaced native {{cog|enm|weald}}, {{m|enm|wald||forest, weald}}, from {{cog|an
 * See also [[Thesaurus:forest#Meronyms|Thesaurus:forest]]
 
 ====Derived terms====
-{{der3|en|title=Terms derived from ''forest'' (noun)
+{{der4|en
 |Black Forest
 |Bracknell Forest
 |can't see the forest for the trees
@@ -90,7 +90,7 @@ Displaced native {{cog|enm|weald}}, {{m|enm|wald||forest, weald}}, from {{cog|an
 {{trans-top|dense collection of trees}}
 * Abaza: {{t|abq|бна}}
 * Abkhaz: {{t|ab|абна}}
-* Adyghe: {{t|ady|мэзы}}, {{qualifier|Shapsug}} {{t|ady|мэз}}
+* Adyghe: {{t|ady|мэзы}}, {{t|ady|мэз}} {{q|Shapsug}} 
 * Afrikaans: {{t|af|woud}}
 * Akkadian: {{t|akk|𒀀𒌁|tr=qištu|sc=Xsux}}
 * Albanian: {{t+|sq|pyll|m}}
@@ -152,7 +152,7 @@ Displaced native {{cog|enm|weald}}, {{m|enm|wald||forest, weald}}, from {{cog|an
 * Esperanto: {{t+|eo|arbaro}}, {{t|eo|forsto}}
 * Estonian: {{t+|et|mets}}
 * Faroese: {{t+|fo|skógur|m}}, {{t|fo|skógvur|m}}
-* Finnish: {{t+|fi|metsä}}; {{gloss|only large areas}} {{t+|fi|korpi}}, {{t+|fi|salo}}, {{t|fi|selkonen}}
+* Finnish: {{t+|fi|metsä}}, {{t+|fi|korpi}} {{q|only large areas}}, {{t+|fi|salo}}, {{t|fi|selkonen}}
 * French: {{t+|fr|forêt|f}}, {{t+|fr|brousse|f}}, {{t+|fr|sylve|f}}, {{t+|fr|bois|m}}, {{t+|fr|bosquet|m}}
 * Friulian: {{t|fur|selve|m}}, {{t|fur|bosc|m}}
 * Galician: {{t+|gl|bosque}}, {{t+|gl|fraga}}, {{t+|gl|selva}}
@@ -245,10 +245,12 @@ Displaced native {{cog|enm|weald}}, {{m|enm|wald||forest, weald}}, from {{cog|an
 * Navajo: {{t|nv|tsintah}}
 * Nepali: {{t+|ne|वन}}, {{t+|ne|वनजङ्गल|tr=vanjaṅgal}}, {{t+|ne|जङ्गल}}
 * Ngazidja Comorian: {{t|zdj|djiva|c5|c6}}
-* Norman: {{qualifier|Jersey, continental Norman}} {{t|nrf|forêt|f}}, {{qualifier|Guernsey}} {{t|nrf|fouorêt|f}}
+* Norman: {{t|nrf|forêt|f}} {{q|Jersey, continental Norman}}, {{t|nrf|fouorêt|f}} {{q|Guernsey}}
 * Northern Altai: {{t|atv|ой}}
 * Northern Sami: {{t|se|vuovdi}}, {{t|se|meahcci}}
-* Norwegian: {{t+|no|skog|m}}
+* Norwegian: 
+*: Bokmål: {{t+|nb|skog|m}}, {{t|nb|skau|m}}
+*: Nynorsk: {{t+|nn|skog|m}}
 * Occitan: {{t+|oc|forèst|f}}, {{t+|oc|selva|f}}
 * Ojibwe: {{t|oj|mitigwaaki|sc=Cans}}, {{t|oj|mitigwaakiin|p|sc=Cans}}
 * Old Church Slavonic: {{t|cu|лѣсъ|m|sc=Cyrs}}, {{t|cu|дрѧзга|f|sc=Cyrs}}
@@ -267,7 +269,7 @@ Displaced native {{cog|enm|weald}}, {{m|enm|wald||forest, weald}}, from {{cog|an
 * Portuguese: {{t+|pt|floresta|f}}, {{t+|pt|selva}}, {{t+|pt|bosque}}, {{t+|pt|mata|f}}
 * Punjabi: {{t|pa|ਵਣ|m|sc=Guru}}
 * Quechua: {{t|qu|sach’ara}}, {{t|qu|sach'a-sach'a}}
-* Romanian: {{t+|ro|pădure|f}}, {{t+|ro|codru|m}}, {{t+|ro|silvă|f}} {{qualifier|rare}}
+* Romanian: {{t+|ro|pădure|f}}, {{t+|ro|codru|m}}, {{t+|ro|silvă|f}} {{q|rare}}
 * Russian: {{t+|ru|лес|m}}
 * Sanskrit: {{t+|sa|वन|n}}, {{t+|sa|अरण्य|n}}, {{t+|sa|अटवी}}
 * Santali: {{t|sat|ᱵᱤᱨ|tr=bir}}
@@ -278,11 +280,11 @@ Displaced native {{cog|enm|weald}}, {{m|enm|wald||forest, weald}}, from {{cog|an
 *: Roman: {{t+|sh|šuma|f}}, {{t+|sh|les|m}}, {{t+|sh|lug|m}}
 * Shan: {{t+|shn|ပႃႇ}}
 * Shona: {{t|sn|sango}}
-* Shor: {{t|cjs|чыш}} {{qualifier|çış}}
+* Shor: {{t|cjs|чыш}} {{q|çış}}
 * Silesian: {{t|szl|las|m}}
 * Sinhalese: {{t|si|කැලය|sc=Sinh}}
 * Slovak: {{t+|sk|les|m}}, {{t+|sk|hora|f}}
-* Slovene: {{t+|sl|gozd|m}}, {{t+|sl|les|m}} {{qualifier|literary}}, {{t|sl|hosta|f}}
+* Slovene: {{t+|sl|gozd|m}}, {{t+|sl|les|m}} {{q|literary}}, {{t|sl|hosta|f}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|góla|f}}, {{t|dsb|lěs|m}}
 * Southern Altai: {{t|alt|каба}}, {{t|alt|ормон}}
@@ -320,7 +322,7 @@ Displaced native {{cog|enm|weald}}, {{m|enm|wald||forest, weald}}, from {{cog|an
 * Veps: {{t|vep|mec}}
 * Vietnamese: {{t+|vi|rừng}}
 * Vilamovian: {{t|wym|pūś|m}}
-* Volapük: {{t+|vo|fot}}, {{qualifier|diminutive}} {{t|vo|fotil}}
+* Volapük: {{t+|vo|fot}}, {{t|vo|fotil}} {{q|diminutive}}
 * Voro: {{t|vor|mõts}}
 * Votic: {{t|vot|mettsä}}
 * Walloon: {{t+|wa|bwès|m}}, {{t+|wa|bos|m}}, {{t+|wa|grand bwès|m}}, {{t+|wa|grand bos|m}}
@@ -366,7 +368,7 @@ Displaced native {{cog|enm|weald}}, {{m|enm|wald||forest, weald}}, from {{cog|an
 * Swahili: {{t+|sw|msitu}}
 {{trans-bottom}}
 
-====See also====
+===See also===
 * {{comcatlite}}
 
 ===Verb===
@@ -397,19 +399,21 @@ Displaced native {{cog|enm|weald}}, {{m|enm|wald||forest, weald}}, from {{cog|an
 * Slovene: {{t|sl|pogozdovati}}
 * Spanish: {{t+|es|forestar}}
 * Swahili: {{t+|sw|msitu}}
-* Swedish: {{t|sv|beskoga}}, {{t|sv|återplantera}} {{qualifier|required after harvesting}}
+* Swedish: {{t|sv|beskoga}}, {{t|sv|återplantera}} {{q|required after harvesting}}
 * Turkish: {{t+|tr|ağaçlandırmak}}, {{t+|tr|ormanlaştırmak}}
 {{trans-bottom}}
 
 ===See also===
-* {{l|en|bush}}
-* {{l|en|deforest}}
-* {{l|en|holt}}
-* {{l|en|jungle}}
-* {{l|en|weald}}
-* {{l|en|wood}}
-* {{l|en|woodland}}
-* {{l|en|woods}}
+{{col4|en
+|bush
+|deforest
+|holt
+|jungle
+|weald
+|wood
+|woodland
+|woods
+}}
 
 ===Anagrams===
 * {{anagrams|en|a=eforst|Forets|Fortes|Foster|fetors|forset|fortes|fortés|foster|froste|softer}}
@@ -441,7 +445,7 @@ Borrowed from {{bor|enm|fro|forest}}.
 * {{desc|sco|forest}}
 * {{desc|cy|fforest|bor=1}}
 
-====References====
+===References===
 * {{R:MED Online|entry=forest (n.)|id=MED16875|accessdate=2018-10-17}}
 
 [[Category:enm:Forests]]
@@ -461,7 +465,7 @@ From {{inh|frm|fro|forest}}, from {{inh|frm|ML.|forestis||open wood}}, first use
 #*: {{quote|frm|Mais quand il eut mis fin a ses parolles, & que semblablement les '''forestz''' resonnãtes se furent appaisées {{...}}
 |But when he had finished talking, and the '''forests''' felt appeased {{...}}}}
 
-====Further reading====
+===Further reading===
 * {{R:TLFi}}
 
 ----
