@@ -140,9 +140,10 @@ From {{der|en|enm|moste}} {{gloss|"must", literally, "had to", the past tense of
 {{en-noun}}
 
 # Something that is [[mandatory]] or [[required]].
-#: {{syn|en|imperative}}
-#: {{ant|en|no-no}}
 #: {{ux|en|If you'll be out all day, a map is a '''must'''.}}
+#: {{syn|en|imperative|necessity}}
+#: {{hypo|en|must-do|must-see}}
+#: {{ant|en|no-no}}
 
 =====Descendants=====
 * {{desc|fr|must|bor=1}}
@@ -151,7 +152,7 @@ From {{der|en|enm|moste}} {{gloss|"must", literally, "had to", the past tense of
 {{trans-top|something mandatory}}
 * Dutch: {{t+|nl|moetje|n}}
 * Finnish: {{t+|fi|pakko}}
-* French: {{t+|fr|must|m}} or {{t+|fr|obligation|m}}
+* French: {{t+|fr|must|m}}, {{t+|fr|obligation|m}}
 * Galician: {{t+|gl|deber}}
 * German: {{t+|de|Muss|n}}
 * Greek: {{t+|el|αναγκαιότητα|f}}, {{t+|el|υποχρέωση|f}}
