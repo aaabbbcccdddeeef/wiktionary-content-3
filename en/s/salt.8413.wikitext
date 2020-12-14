@@ -82,73 +82,75 @@ From {{der|en|enm|salt}}, from {{der|en|ang|sealt}}, from {{der|en|gem-pro|*salt
 
 ====Translations====
 {{trans-top|salty}}
-* Aymara: {{t|ay|jayuk'ara}}, {{t-simple|ay|jayuni|langname=Aymara}}
-* Azerbaijani: {{t+|az|duzlu}}
-* Catalan: {{t|ca|salat}}
-* Czech: {{t-simple|cs|slaný|langname=Czech|interwiki=1}}
-* Danish: {{t-simple|da|salt|langname=Danish|interwiki=1}}
-* Dutch: {{t-simple|nl|zout|langname=Dutch|interwiki=1}}, {{t-simple|nl|zoutig|langname=Dutch|interwiki=1}}, {{t-simple|nl|gezouten|langname=Dutch|interwiki=1}}
-* Estonian: {{t-simple|et|soolane|langname=Estonian|interwiki=1}}
-* Faroese: {{t-simple|fo|saltur|langname=Faroese}}
-* Finnish: {{t-simple|fi|suolainen|langname=Finnish|interwiki=1}}
-* French: {{t-simple|fr|salé|langname=French|interwiki=1}}
-* Galician: {{t+|gl|salgado}}
-* Greek: {{t+|el|αλμυρός|m}}
-* Icelandic: {{t-simple|is|saltur|langname=Icelandic}}
-* Italian: {{t-simple|it|salato|langname=Italian|interwiki=1}}
+{{multitrans|data=
+* Aymara: {{tt|ay|jayuk'ara}}, {{tt|ay|jayuni}}
+* Azerbaijani: {{tt+|az|duzlu}}
+* Catalan: {{tt|ca|salat}}
+* Czech: {{tt+|cs|slaný}}
+* Danish: {{tt+|da|salt}}
+* Dutch: {{tt+|nl|zout}}, {{tt+|nl|zoutig}}, {{tt+|nl|gezouten}}
+* Estonian: {{tt+|et|soolane}}
+* Faroese: {{tt|fo|saltur}}
+* Finnish: {{tt+|fi|suolainen}}
+* French: {{tt+|fr|salé}}
+* Galician: {{tt+|gl|salgado}}
+* Greek: {{tt+|el|αλμυρός|m}}
+* Icelandic: {{tt|is|saltur}}
+* Italian: {{tt+|it|salato}}
 * Kurdish:
-*: Central Kurdish: {{t+|ckb|سوێر}}, {{t+|ckb|خوێواو}}
-* Latvian: {{t-simple|lv|sāļš|langname=Latvian}}
+*: Central Kurdish: {{tt+|ckb|سوێر}}, {{tt+|ckb|خوێواو}}
+* Latvian: {{tt|lv|sāļš}}
 {{trans-mid}}
-* Macedonian: {{t|mk|солен}}
-* Maori: {{t-simple|mi|mātaitai|langname=Maori}}, {{t-simple|mi|tote|langname=Maori}}
-* Mopan Maya: {{t|mop|ch'ooch'}}
+* Macedonian: {{tt|mk|солен}}
+* Maori: {{tt|mi|mātaitai}}, {{tt|mi|tote}}
+* Mopan Maya: {{tt|mop|ch'ooch'}}
 * Norwegian:
-*: Bokmål: {{t+|nb|salt}}, {{t|nb|saltet}}
-*: Nynorsk: {{t|nn|salt}}, {{t|nn|salta}}
-* Old English: {{t|ang|sealt}}
-* Polish: {{t-simple|pl|słony|langname=Polish|interwiki=1}}
-* Portuguese: {{t-simple|pt|salgado|langname=Portuguese|interwiki=1}}
-* Punjabi: {{t|pa|ਨਮਕੀਨ|sc=Guru}}
-* Romanian: {{t-simple|ro|sărat|langname=Romanian|interwiki=1}}
-* Russian: {{t+|ru|солёный}}
-* Slovene: {{t-simple|sl|slan|langname=Slovene|interwiki=1}}
-* Spanish: {{t-simple|es|salado|langname=Spanish|interwiki=1}}
-* Swahili: {{t-simple|sw|chumvi|langname=Swahili|interwiki=1}}
-* Swedish: {{t-simple|sv|salt|langname=Swedish|interwiki=1}}
+*: Bokmål: {{tt+|nb|salt}}, {{tt|nb|saltet}}
+*: Nynorsk: {{tt|nn|salt}}, {{tt|nn|salta}}
+* Old English: {{tt|ang|sealt}}
+* Polish: {{tt+|pl|słony}}
+* Portuguese: {{tt+|pt|salgado}}
+* Punjabi: {{tt|pa|ਨਮਕੀਨ|sc=Guru}}
+* Romanian: {{tt+|ro|sărat}}
+* Russian: {{tt+|ru|солёный}}
+* Slovene: {{tt+|sl|slan}}
+* Spanish: {{tt+|es|salado}}
+* Swahili: {{tt+|sw|chumvi}}
+* Swedish: {{tt+|sv|salt}}
 {{trans-bottom}}
 
 {{trans-top|saline}}
-* Catalan: {{t+|ca|salí}}
-* Czech: {{t-simple|cs|solný|m|langname=Czech|interwiki=1}}
-* Danish: {{t-simple|da|saltholdig|langname=Danish|interwiki=1}}
-* Dutch: {{t-simple|nl|zout|n|langname=Dutch|interwiki=1}}, {{t+|nl|zout|n|alt=zout-}}
-* Estonian: {{t-simple|et|soolane|langname=Estonian|interwiki=1}}, {{t|et|soola-}}
-* Faroese: {{t-simple|fo|saltkendur|langname=Faroese}}
-* Finnish: {{t-simple|fi|suolainen|langname=Finnish|interwiki=1}}, {{t-simple|fi|suola|alt=suola-|langname=Finnish|interwiki=1}}
-* French: {{t-simple|fr|salin|langname=French|interwiki=1}}
-* Galician: {{t+|gl|salino}}
-* Greek: {{t+|el|αλατούχος|m}}, {{t+|el|αλατώδης|m}}
-* Italian: {{t-simple|it|salino|langname=Italian|interwiki=1}}
-* Macedonian: {{t|mk|солен}}
+* Catalan: {{tt+|ca|salí}}
+* Czech: {{tt+|cs|solný|m}}
+* Danish: {{tt+|da|saltholdig}}
+* Dutch: {{tt+|nl|zout|n}}, {{tt+|nl|zout|n|alt=zout-}}
+* Estonian: {{tt+|et|soolane}}, {{tt|et|soola-}}
+* Faroese: {{tt|fo|saltkendur}}
+* Finnish: {{tt+|fi|suolainen}}, {{tt+|fi|suola|alt=suola-}}
+* French: {{tt+|fr|salin}}
+* Galician: {{tt+|gl|salino}}
+* Greek: {{tt+|el|αλατούχος|m}}, {{tt+|el|αλατώδης|m}}
+* Italian: {{tt+|it|salino}}
+* Macedonian: {{tt|mk|солен}}
 {{trans-mid}}
-* Maori: {{t-simple|mi|kurutai|langname=Maori}}, {{t-simple|mi|kurutaitai|langname=Maori}}
+* Maori: {{tt|mi|kurutai}}, {{tt|mi|kurutaitai}}
 * Norwegian:
-*: Bokmål: {{t+|nb|saltholdig}}
-*: Nynorsk: {{t|nn|salthaldig}}
-* Polish: {{t-simple|pl|słony|langname=Polish|interwiki=1}}
-* Portuguese: {{t-simple|pt|salino|langname=Portuguese}}
-* Russian: {{t+|ru|солево́й}}, {{t+|ru|соляно́й}}
-* Spanish: {{t-simple|es|salino|langname=Spanish|interwiki=1}}
-* Swahili: {{t-simple|sw|chumvi|langname=Swahili|interwiki=1}}
-* Swedish: {{t-simple|sv|salthaltig|langname=Swedish}}
+*: Bokmål: {{tt+|nb|saltholdig}}
+*: Nynorsk: {{tt|nn|salthaldig}}
+* Polish: {{tt+|pl|słony}}
+* Portuguese: {{tt|pt|salino}}
+* Russian: {{tt+|ru|солево́й}}, {{tt+|ru|соляно́й}}
+* Spanish: {{tt+|es|salino}}
+* Swahili: {{tt+|sw|chumvi}}
+* Swedish: {{tt|sv|salthaltig}}
 {{trans-bottom}}
 
 {{trans-top|related to salt deposits, excavation, processing or use}}
-* Catalan: {{t+|ca|salí}}
-* Finnish: {{t|fi|[[suola]]-}}
+* Catalan: {{tt+|ca|salí}}
+* Finnish: {{tt|fi|[[suola]]-}}
 {{trans-mid}}
-* Russian: {{t+|ru|солево́й}}, {{t+|ru|соляно́й}}
+* Russian: {{tt+|ru|солево́й}}, {{tt+|ru|соляно́й}}
+}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
 {{checktrans-top}}
@@ -185,84 +187,86 @@ From {{der|en|enm|salt}}, from {{der|en|ang|sealt}}, from {{der|en|gem-pro|*salt
 
 ====Translations====
 {{trans-top|to add salt to}}
-* Arabic: {{t|ar|مَلَّحَ}}
+{{multitrans|data=
+* Arabic: {{tt|ar|مَلَّحَ}}
 * Armenian: {{t-needed|hy}}
-* Aromanian: {{t-simple|rup|ãnsar|langname=Aromanian}}, {{t-simple|rup|nsar|langname=Aromanian}}
-* Azerbaijani: {{t+|az|duzlamaq}}
-* Belarusian: {{t|be|салі́ць|impf|sc=Cyrl}}, {{t|be|пасалі́ць|pf|sc=Cyrl}}
-* Catalan: {{t-simple|ca|salar|langname=Catalan|interwiki=1}}
+* Aromanian: {{tt|rup|ãnsar}}, {{tt|rup|nsar}}
+* Azerbaijani: {{tt+|az|duzlamaq}}
+* Belarusian: {{tt|be|салі́ць|impf|sc=Cyrl}}, {{tt|be|пасалі́ць|pf|sc=Cyrl}}
+* Catalan: {{tt+|ca|salar}}
 * Chinese:
-*: Cantonese: {{t|yue|[[加]][[鹽]]|sc=Hani}}, {{t|yue|[[加]][[盐]]|tr=gaa1 jim4|sc=Hani}}, {{t|yue|[[落]][[鹽]]}}, {{t|yue|[[落]][[盐]]|tr=lok6 jim4}}
+*: Cantonese: {{tt|yue|[[加]][[鹽]]|sc=Hani}}, {{tt|yue|[[加]][[盐]]|tr=gaa1 jim4|sc=Hani}}, {{tt|yue|[[落]][[鹽]]}}, {{tt|yue|[[落]][[盐]]|tr=lok6 jim4}}
 *: Mandarin: {{t-needed|cmn}}
-* Czech: {{t-simple|cs|solit|langname=Czech|interwiki=1}}, {{t-simple|cs|osolit|langname=Czech}}
-* Danish: {{t-simple|da|salte|langname=Danish|interwiki=1}}
-* Dutch: {{t-simple|nl|zouten|langname=Dutch|interwiki=1}}
-* Esperanto: {{t-simple|eo|sali|langname=Esperanto}}
-* Estonian: {{t-simple|et|soolama|langname=Estonian}}
-* Faroese: {{t-simple|fo|salta|langname=Faroese}}
-* Finnish: {{t-simple|fi|suolata|langname=Finnish|interwiki=1}}
-* French: {{t-simple|fr|saler|langname=French|interwiki=1}}
-* Friulian: {{t-simple|fur|salâ|langname=Friulian}}
-* Galician: {{t+|gl|salgar}}, {{t|gl|salpresar}}
-* Georgian: {{t|ka|დამარილება}}
-* German: {{t-simple|de|salzen|langname=German|interwiki=1}}
-* Greek: {{t+|el|αλατίζω}}
-*: Ancient: {{t|grc|ἁλίζω}}
-* Hebrew: {{t+|he|המליח|tr=himlíakh}}
-* Hungarian: {{t-simple|hu|sóz|langname=Hungarian|interwiki=1}}
-* Icelandic: {{t-simple|is|salta|langname=Icelandic}}
-* Ido: {{t-simple|io|salizar|langname=Ido|interwiki=1}}
-* Irish: {{t-simple|ga|saill|langname=Irish}}, {{t|ga|cuir salann ar}}
+* Czech: {{tt+|cs|solit}}, {{tt|cs|osolit}}
+* Danish: {{tt+|da|salte}}
+* Dutch: {{tt+|nl|zouten}}
+* Esperanto: {{tt|eo|sali}}
+* Estonian: {{tt|et|soolama}}
+* Faroese: {{tt|fo|salta}}
+* Finnish: {{tt+|fi|suolata}}
+* French: {{tt+|fr|saler}}
+* Friulian: {{tt|fur|salâ}}
+* Galician: {{tt+|gl|salgar}}, {{tt|gl|salpresar}}
+* Georgian: {{tt|ka|დამარილება}}
+* German: {{tt+|de|salzen}}
+* Greek: {{tt+|el|αλατίζω}}
+*: Ancient: {{tt|grc|ἁλίζω}}
+* Hebrew: {{tt+|he|המליח|tr=himlíakh}}
+* Hungarian: {{tt+|hu|sóz}}
+* Icelandic: {{tt|is|salta}}
+* Ido: {{tt+|io|salizar}}
+* Irish: {{tt|ga|saill}}, {{tt|ga|cuir salann ar}}
 {{trans-mid}}
-* Italian: {{t-simple|it|salare|langname=Italian|interwiki=1}}
-* Japanese: {{t|ja|塩漬けにする|tr=shio-zuke ni suru|sc=Jpan}}
+* Italian: {{tt+|it|salare}}
+* Japanese: {{tt|ja|塩漬けにする|tr=shio-zuke ni suru|sc=Jpan}}
 * Korean: {{t-needed|ko}}
-* Latin: {{t-simple|la|salio|langname=Latin}}
-* Latvian: {{t-simple|lv|sālīt|langname=Latvian}}
-* Macedonian: {{t|mk|соли}}, {{t|mk|посоли}}, {{t|mk|засоли}}
-* Maori: {{t-simple|mi|tote|langname=Maori}}, {{t-simple|mi|whakatote|langname=Maori}}
-* Norman: {{t-simple|nrf|saler|langname=Norman}} {{qualifier|Jersey}}
-* Norwegian: {{t-simple|no|salte|langname=Norwegian|interwiki=1}}
-* Occitan: {{t-simple|oc|salar|langname=Occitan|interwiki=1}}
-* Old English: {{t|ang|sieltan}}
-* Piedmontese: {{t|pms|salé}}
-* Polish: {{t-simple|pl|solić|langname=Polish|interwiki=1}}, {{t-simple|pl|posolić|langname=Polish|interwiki=1}}
-* Portuguese: {{t-simple|pt|salgar|langname=Portuguese|interwiki=1}}
-* Romanian: {{t-simple|ro|săra|langname=Romanian|interwiki=1}}
-* Romansch: {{t-simple|rm|ensalar|langname=Romansch}}, {{t-simple|rm|ansalar|langname=Romansch}}, {{t-simple|rm|saler|langname=Romansch}}, {{t-simple|rm|insaler|langname=Romansch}}, {{t-simple|rm|salar|langname=Romansch}}
-* Russian: {{t+|ru|соли́ть|impf}}, {{t+|ru|посоли́ть|pf}}
-* Sardinian: {{t-simple|sc|salire|langname=Sardinian}}, {{t-simple|sc|saliri|langname=Sardinian}}
-* Scottish Gaelic: {{qualifier|for preservation}} {{t-simple|gd|saill|langname=Scottish Gaelic}}
-* Sicilian: {{t-simple|scn|salari|langname=Sicilian}}
-* Slovene: {{t-simple|sl|soliti|langname=Slovene}}
-* Spanish: {{t-simple|es|salar|langname=Spanish|interwiki=1}}
-* Swahili: {{t-simple|sw|chumvi|langname=Swahili|interwiki=1}}
-* Swedish: {{t-simple|sv|salta|langname=Swedish|interwiki=1}}
-* Turkish: {{t-simple|tr|tuzlamak|langname=Turkish|interwiki=1}}
+* Latin: {{tt|la|salio}}
+* Latvian: {{tt|lv|sālīt}}
+* Macedonian: {{tt|mk|соли}}, {{tt|mk|посоли}}, {{tt|mk|засоли}}
+* Maori: {{tt|mi|tote}}, {{tt|mi|whakatote}}
+* Norman: {{tt|nrf|saler}} {{qualifier|Jersey}}
+* Norwegian: {{tt+|no|salte}}
+* Occitan: {{tt+|oc|salar}}
+* Old English: {{tt|ang|sieltan}}
+* Piedmontese: {{tt|pms|salé}}
+* Polish: {{tt+|pl|solić}}, {{tt+|pl|posolić}}
+* Portuguese: {{tt+|pt|salgar}}
+* Romanian: {{tt+|ro|săra}}
+* Romansch: {{tt|rm|ensalar}}, {{tt|rm|ansalar}}, {{tt|rm|saler}}, {{tt|rm|insaler}}, {{tt|rm|salar}}
+* Russian: {{tt+|ru|соли́ть|impf}}, {{tt+|ru|посоли́ть|pf}}
+* Sardinian: {{tt|sc|salire}}, {{tt|sc|saliri}}
+* Scottish Gaelic: {{qualifier|for preservation}} {{tt|gd|saill}}
+* Sicilian: {{tt|scn|salari}}
+* Slovene: {{tt|sl|soliti}}
+* Spanish: {{tt+|es|salar}}
+* Swahili: {{tt+|sw|chumvi}}
+* Swedish: {{tt+|sv|salta}}
+* Turkish: {{tt+|tr|tuzlamak}}
 * Walloon: {{t-needed|wa}}
-* Welsh: {{t-simple|cy|halltu|langname=Welsh|interwiki=1}}, {{t|cy|dodi halen ar}}
-* Yiddish: {{t|yi|זאַלצן|sc=Hebr}}
-* Zazaki: {{t-simple|zza|solnaene|langname=Zazaki}}
+* Welsh: {{tt+|cy|halltu}}, {{tt|cy|dodi halen ar}}
+* Yiddish: {{tt|yi|זאַלצן|sc=Hebr}}
+* Zazaki: {{tt|zza|solnaene}}
 {{trans-bottom}}
 
 {{trans-top|to add something into an object}}
-* Finnish: {{t-simple|fi|terästää|langname=Finnish|interwiki=1}}
+* Finnish: {{tt+|fi|terästää}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|to include colorful language}}
-* Danish: {{t-simple|da|krydre|langname=Danish|interwiki=1}}
-* Dutch: {{t-simple|nl|kleuren|langname=Dutch|interwiki=1}}
-* Finnish: {{t-simple|fi|maustaa|langname=Finnish|interwiki=1}}, {{t-simple|fi|höystää|langname=Finnish|interwiki=1}}
+* Danish: {{tt+|da|krydre}}
+* Dutch: {{tt+|nl|kleuren}}
+* Finnish: {{tt+|fi|maustaa}}, {{tt+|fi|höystää}}
 {{trans-mid}}
-* French: {{t-simple|fr|épicer|langname=French|interwiki=1}}
-* Swedish: {{t-simple|sv|krydda|langname=Swedish|interwiki=1}}
+* French: {{tt+|fr|épicer}}
+* Swedish: {{tt+|sv|krydda}}
 {{trans-bottom}}
 
 {{trans-top|to add filler bytes before encryption}}
-* Finnish: {{t-simple|fi|suolata|langname=Finnish|interwiki=1}}
+* Finnish: {{tt+|fi|suolata}}
 {{trans-mid}}
-* Swahili: {{t-simple|sw|chumvi|langname=Swahili|interwiki=1}}
+* Swahili: {{tt+|sw|chumvi}}
+}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
 {{checktrans-top}}
