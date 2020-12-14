@@ -3,4 +3,27 @@
 
 ===Noun===
 {{en-noun}}
-# {{lb|en|topology}} The [[group]] whose [[element]]s are [[homotopy]] [[class]]es of [[image]]s of the [[closed]] [[interval]] in a specified [[topological space]], such that the [[endpoint]]s are both [[map]]ped to a designated [[point]], and whose [[operation]] is [[concatenation]].
+
+# {{lb|en|topology}} For a specified [[topological space]], the [[group]] whose [[element]]s are [[homotopy]] [[class]]es of loops ([[image]]s of some arbitrary [[closed]] [[interval]] whose [[endpoint]]s are both [[map]]ped to a designated [[point]]) and whose group [[operation]] is [[concatenation]].
+#* '''1991''', {{w|William S. Massey}}, ''A Basic Course in Algebraic Topology'', Springer, [https://books.google.com.au/books?id=svbU9nxi2xQC&pg=PA35&dq=%22fundamental+group%22%7C%22fundamental+groups%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwimjaOYhM3tAhX94zgGHcQdA7AQ6AEwEnoECD8QAg#v=onepage&q=%22fundamental%20group%22%7C%22fundamental%20groups%22&f=false page 35],
+#*: From the definition it will be clear the group is a topological invariant of ''X''; i.e., if two spaces are homeomorphic, their '''fundamental groups''' are isomorphic.
+#* '''2011''', John Coates, Minhyong Kim, Florian Pop, Mohamed Saïdi, Peter Schneider (editors), ''Non-abelian '''Fundamental Groups''' and Iwasawa Theory'', {{w|Cambridge University Press}}, [https://books.google.com.au/books?id=IE1ntkuVdGgC&pg=PR7&dq=%22fundamental+group%22%7C%22fundamental+groups%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwimjaOYhM3tAhX94zgGHcQdA7AQ6AEwB3oECCgQAg#v=onepage&q=%22fundamental%20group%22%7C%22fundamental%20groups%22&f=false page vii],
+#*: Therein came into focus the far-reaching vision that the perspective of non-abelian '''fundamental groups''' could lead to a fundamentally new understanding of deep arithmetic phenomena, including the arithmetic theory of moduli and Diophantine finiteness on hyperbolic curves.
+#* '''2012''', Jakob Stix (editor), ''The Arithmetic of '''Fundamental Groups''': PIA 2010'', Springer, [https://books.google.com.au/books?id=0qKgVKmQ4PIC&pg=PR9&dq=%22fundamental+group%22%7C%22fundamental+groups%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwimjaOYhM3tAhX94zgGHcQdA7AQ6AEwBnoECCcQAg#v=onepage&q=%22fundamental%20group%22%7C%22fundamental%20groups%22&f=false page ix],
+#*: During the more than 100 years of its existence, the notion of the '''fundamental group''' has undergone a considerable evolution.
+
+====Derived terms====
+* {{l|en|algebraic fundamental group}}
+* {{l|en|étale fundamental group}}
+* {{l|en|orbifold fundamental group}}
+
+====Related terms====
+* {{l|en|fundamental groupoid}}
+
+====Translations====
+{{trans-top|group of equivalence classes of the homotopies of loops in a given topological space}}
+* French: {{t|fr|groupe fondamental|m}}
+* German: {{t|de|Fundamentalgruppe|f}}
+{{trans-mid}}
+* Italian: {{t|it|gruppo fondamentale|m}}
+{{trans-bottom}}
