@@ -91,10 +91,12 @@ From {{inh|en|enm|smoke}}, from {{inh|en|ang|smoca||smoke}}, probably a derivati
 
 =====Translations=====
 {{trans-top|of the colour known as smoke}}
-* Finnish: {{t-simple|fi|savunharmaa|langname=Finnish}}
-* Romanian: {{t-simple|ro|fumuriu|langname=Romanian|interwiki=1}}
+{{multitrans|data=
+* Finnish: {{tt|fi|savunharmaa}}
+* Romanian: {{tt+|ro|fumuriu}}
 {{trans-mid}}
-* Russian: {{t+|ru|ды́мчатый|m}}
+* Russian: {{tt+|ru|ды́мчатый|m}}
+}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
 =====Related terms=====
@@ -186,259 +188,261 @@ From {{inh|en|enm|smoken}}, from {{inh|en|ang|smocian|t=to smoke, emit smoke; fu
 
 =====Translations=====
 {{trans-top|to inhale and exhale smoke from a burning cigarette}}
+{{multitrans|data=
 * Abkhaz: {{t-needed|ab}}
-* Albanian: {{t|sq|pi duhan}}, {{t-simple|sq|pi|langname=Albanian|interwiki=1}}
-* Arabic: {{t|ar|دَخَّنَ}}
-* Armenian: {{t+|hy|ծխել}}
-* Aromanian: {{t-simple|rup|fumedz|langname=Aromanian}}
-* Assamese: {{t|as|হোপা}}
-* Asturian: {{t-simple|ast|fumar|langname=Asturian}}
-* Avar: {{t|av|хъалиян|sc=Cyrl}}
-* Azerbaijani: {{t|az|papiros çəkmək}}, {{t|az|siqaret çəkmək}}, {{t+|az|çəkmək}}
-* Bashkir: {{t|ba|тәмәке тартыу|sc=Cyrl}}, {{t|ba|тартыу|sc=Cyrl}}
-* Basque: {{t-simple|eu|erre|langname=Basque}}
-* Belarusian: {{t|be|куры́ць|impf}}, {{t|be|пакуры́ць|pf}}
-* Bengali: {{t|bn|ত্তড়ান|tr=ttôŗan|sc=Beng}}, {{t|bn|ধোঁয়া ত্তড়ান|tr=dhoṁya ttôŗan|sc=Beng}}
-* Bulgarian: {{t+|bg|пу́ша|impf}}
-* Burmese: {{t+|my|သောက်|sc=Mymr}} {{qualifier|to drink, to smoke}}, {{t+|my|ရှူ|sc=Mymr}}
-* Catalan: {{t-simple|ca|fumar|langname=Catalan|interwiki=1}}
+* Albanian: {{tt|sq|pi duhan}}, {{tt+|sq|pi}}
+* Arabic: {{tt|ar|دَخَّنَ}}
+* Armenian: {{tt+|hy|ծխել}}
+* Aromanian: {{tt|rup|fumedz}}
+* Assamese: {{tt|as|হোপা}}
+* Asturian: {{tt|ast|fumar}}
+* Avar: {{tt|av|хъалиян|sc=Cyrl}}
+* Azerbaijani: {{tt|az|papiros çəkmək}}, {{tt|az|siqaret çəkmək}}, {{tt+|az|çəkmək}}
+* Bashkir: {{tt|ba|тәмәке тартыу|sc=Cyrl}}, {{tt|ba|тартыу|sc=Cyrl}}
+* Basque: {{tt|eu|erre}}
+* Belarusian: {{tt|be|куры́ць|impf}}, {{tt|be|пакуры́ць|pf}}
+* Bengali: {{tt|bn|ত্তড়ান|tr=ttôŗan|sc=Beng}}, {{tt|bn|ধোঁয়া ত্তড়ান|tr=dhoṁya ttôŗan|sc=Beng}}
+* Bulgarian: {{tt+|bg|пу́ша|impf}}
+* Burmese: {{tt+|my|သောက်|sc=Mymr}} {{qualifier|to drink, to smoke}}, {{tt+|my|ရှူ|sc=Mymr}}
+* Catalan: {{tt+|ca|fumar}}
 * Chinese:
-*: Cantonese: {{t|yue|吸煙|sc=Hani}}, {{t|yue|吸菸|sc=Hani}}, {{t|yue|吸烟|tr=kap1 jin1|sc=Hani}}, {{t|yue|抽煙|sc=Hani}}, {{t|yue|抽菸|sc=Hani}}, {{t|yue|抽烟|tr=cau1 jin1|sc=Hani}}, {{t|yue|食煙|sc=Hani}}, {{t|yue|食菸|sc=Hani}}, {{t|yue|食烟|tr=sik6 jin1|sc=Hani}}
-*: Hakka: {{t|hak|食煙|sc=Hani}}, {{t|hak|食菸|sc=Hani}}, {{t|hak|食烟|tr=sṳ̍t-yên|sc=Hani}}, {{t|hak|哺煙|sc=Hani}}, {{t|hak|哺菸|sc=Hani}}, {{t|hak|哺烟|tr=pù-yên|sc=Hani}}, {{t|hak|㗘煙|sc=Hani}}, {{t|hak|㗘菸|sc=Hani}}, {{t|hak|㗘烟|tr=po̍k-yên|sc=Hani}}
-*: Mandarin: {{t+|cmn|吸煙|sc=Hani}}, {{t+|cmn|吸菸|sc=Hani}}, {{t+|cmn|吸烟|tr=xīyān|sc=Hani}}, {{t+|cmn|抽煙|sc=Hani}}, {{t+|cmn|抽菸|sc=Hani}}, {{t+|cmn|抽烟|tr=chōuyān|sc=Hani}}, {{t+|cmn|抽|tr=chōu|sc=Hani}}
-*: Min Nan: {{t+|nan|食薰|tr=chia̍h-hun|sc=Hani}}, {{t+|nan|噗薰|tr=pok-hun|sc=Hani}}, {{t|nan|吸煙|sc=Hani}}, {{t|nan|吸菸|sc=Hani}}, {{t|nan|吸烟|tr=khip-ian|sc=Hani}}, {{t|nan|欶薰|tr=suh-hun|sc=Hani}}, {{t|nan|灸薰|tr=kù-hun|sc=Hani}} {{qualifier|jokingly}}
-* Cornish: {{t-simple|kw|megi|langname=Cornish}}
-* Czech: {{t+|cs|kouřit|impf}}
-* Danish: {{t-simple|da|ryge|langname=Danish|interwiki=1}}
-* Dutch: {{t-simple|nl|roken|langname=Dutch|interwiki=1}}
-* Esperanto: {{t-simple|eo|fumi|langname=Esperanto}}
-* Estonian: {{t-simple|et|suitsetama|langname=Estonian}}
-* Faroese: {{t-simple|fo|roykja|langname=Faroese}}
-* Finnish: {{t-simple|fi|polttaa|langname=Finnish|interwiki=1}}, {{t-simple|fi|tupakoida|langname=Finnish|interwiki=1}}
-* French: {{t-simple|fr|fumer|langname=French|interwiki=1}}
-* Friulian: {{t-simple|fur|fumâ|langname=Friulian}}
-* Galician: {{t-simple|gl|fumar|langname=Galician|interwiki=1}}
-* Georgian: {{t|ka|მოწევა|sc=Geor}}
-* German: {{t-simple|de|rauchen|langname=German|interwiki=1}}
-*: Alemannic German: {{t|gsw|rauche}}
-* Greek: {{t+|el|καπνίζω}}
-* Greenlandic: {{t-simple|kl|pujortarpoq|langname=Greenlandic}}
-* Hebrew: {{t|he|עישן|m|tr='ishén|alt=עישן \ עִשֵּׁן}}
-* Hindi: {{t+|hi|पीना}}, {{t|hi|सिगरेट पीना}}
-* Hungarian: {{t-simple|hu|dohányzik|langname=Hungarian|interwiki=1}}
-* Icelandic: {{t-simple|is|reykja|langname=Icelandic|interwiki=1}}
-* Ido: {{t-simple|io|fumar|langname=Ido|interwiki=1}}
-* Ilocano: {{t|ilo|agsigarilio}}
-* Indonesian: {{t-simple|id|rokok|langname=Indonesian}}
-* Interlingua: {{t-simple|ia|fumar|langname=Interlingua}}
-* Irish: {{t-simple|ga|caith|langname=Irish}}
-* Italian: {{t-simple|it|fumare|langname=Italian|interwiki=1}}
-* Japanese: {{t+|ja|吸う|tr=すう, suu|sc=Jpan}}, {{t|ja|タバコを吸う|tr=タバコをすう, tabako o suu}}, {{t+|ja|喫煙|tr=きつえんする, kitsuen suru|alt=喫煙する}}
-* Jarai: {{t|jra|djŭp}}
-* Kazakh: {{t|kk|шегу}}, {{t|kk|темекі тарту}}, {{t+|kk|тарту}}
-* Khmer: {{t+|km|ជក់|tr=cʊək|sc=Khmr}}, {{t|km|ជក់បារី|tr=cʊək baarəy|sc=Khmr}}
-* Korean: {{t+|ko|피우다}}, {{t|ko|담배를 피우다}}, {{t|ko|흡연하다}}
+*: Cantonese: {{tt|yue|吸煙|sc=Hani}}, {{tt|yue|吸菸|sc=Hani}}, {{tt|yue|吸烟|tr=kap1 jin1|sc=Hani}}, {{tt|yue|抽煙|sc=Hani}}, {{tt|yue|抽菸|sc=Hani}}, {{tt|yue|抽烟|tr=cau1 jin1|sc=Hani}}, {{tt|yue|食煙|sc=Hani}}, {{tt|yue|食菸|sc=Hani}}, {{tt|yue|食烟|tr=sik6 jin1|sc=Hani}}
+*: Hakka: {{tt|hak|食煙|sc=Hani}}, {{tt|hak|食菸|sc=Hani}}, {{tt|hak|食烟|tr=sṳ̍t-yên|sc=Hani}}, {{tt|hak|哺煙|sc=Hani}}, {{tt|hak|哺菸|sc=Hani}}, {{tt|hak|哺烟|tr=pù-yên|sc=Hani}}, {{tt|hak|㗘煙|sc=Hani}}, {{tt|hak|㗘菸|sc=Hani}}, {{tt|hak|㗘烟|tr=po̍k-yên|sc=Hani}}
+*: Mandarin: {{tt+|cmn|吸煙|sc=Hani}}, {{tt+|cmn|吸菸|sc=Hani}}, {{tt+|cmn|吸烟|tr=xīyān|sc=Hani}}, {{tt+|cmn|抽煙|sc=Hani}}, {{tt+|cmn|抽菸|sc=Hani}}, {{tt+|cmn|抽烟|tr=chōuyān|sc=Hani}}, {{tt+|cmn|抽|tr=chōu|sc=Hani}}
+*: Min Nan: {{tt+|nan|食薰|tr=chia̍h-hun|sc=Hani}}, {{tt+|nan|噗薰|tr=pok-hun|sc=Hani}}, {{tt|nan|吸煙|sc=Hani}}, {{tt|nan|吸菸|sc=Hani}}, {{tt|nan|吸烟|tr=khip-ian|sc=Hani}}, {{tt|nan|欶薰|tr=suh-hun|sc=Hani}}, {{tt|nan|灸薰|tr=kù-hun|sc=Hani}} {{qualifier|jokingly}}
+* Cornish: {{tt|kw|megi}}
+* Czech: {{tt+|cs|kouřit|impf}}
+* Danish: {{tt+|da|ryge}}
+* Dutch: {{tt+|nl|roken}}
+* Esperanto: {{tt|eo|fumi}}
+* Estonian: {{tt|et|suitsetama}}
+* Faroese: {{tt|fo|roykja}}
+* Finnish: {{tt+|fi|polttaa}}, {{tt+|fi|tupakoida}}
+* French: {{tt+|fr|fumer}}
+* Friulian: {{tt|fur|fumâ}}
+* Galician: {{tt+|gl|fumar}}
+* Georgian: {{tt|ka|მოწევა|sc=Geor}}
+* German: {{tt+|de|rauchen}}
+*: Alemannic German: {{tt|gsw|rauche}}
+* Greek: {{tt+|el|καπνίζω}}
+* Greenlandic: {{tt|kl|pujortarpoq}}
+* Hebrew: {{tt|he|עישן|m|tr='ishén|alt=עישן \ עִשֵּׁן}}
+* Hindi: {{tt+|hi|पीना}}, {{tt|hi|सिगरेट पीना}}
+* Hungarian: {{tt+|hu|dohányzik}}
+* Icelandic: {{tt+|is|reykja}}
+* Ido: {{tt+|io|fumar}}
+* Ilocano: {{tt|ilo|agsigarilio}}
+* Indonesian: {{tt|id|rokok}}
+* Interlingua: {{tt|ia|fumar}}
+* Irish: {{tt|ga|caith}}
+* Italian: {{tt+|it|fumare}}
+* Japanese: {{tt+|ja|吸う|tr=すう, suu|sc=Jpan}}, {{tt|ja|タバコを吸う|tr=タバコをすう, tabako o suu}}, {{tt+|ja|喫煙|tr=きつえんする, kitsuen suru|alt=喫煙する}}
+* Jarai: {{tt|jra|djŭp}}
+* Kazakh: {{tt|kk|шегу}}, {{tt|kk|темекі тарту}}, {{tt+|kk|тарту}}
+* Khmer: {{tt+|km|ជក់|tr=cʊək|sc=Khmr}}, {{tt|km|ជក់បារី|tr=cʊək baarəy|sc=Khmr}}
+* Korean: {{tt+|ko|피우다}}, {{tt|ko|담배를 피우다}}, {{tt|ko|흡연하다}}
 {{trans-mid}}
 * Kurdish:
-*: Central Kurdish: {{t+|ckb|جگەرە کێشان|tr=cigere kêşan}}
-* Kyrgyz: {{t|ky|тамеки тартуу}}, {{t+|ky|тартуу}}
-* Lao: {{t|lo|ສູບ}}, {{t|lo|ດູດ}}, {{t|lo|ສູບຢາ}}
-* Latin: {{t+|la|fumō}}
-* Latvian: {{t-simple|lv|smēķēt|langname=Latvian}}, {{t-simple|lv|pīpēt|langname=Latvian}}
-* Lithuanian: {{t-simple|lt|rūkyti|langname=Lithuanian}}
-* Luxembourgish: {{t-simple|lb|fëmmen|langname=Luxembourgish|interwiki=1}}
-* Macedonian: {{t|mk|пуши|impf}}
-* Malay: {{t-simple|ms|hisap|langname=Malay}}
-* Maltese: {{t-simple|mt|pejjep|langname=Maltese}}
-* Manx: {{t-simple|gv|toghtan|langname=Manx}}
-* Maori: {{t|mi|kai tupeka}}, {{t-simple|mi|kaipaipa|langname=Maori}}, {{t|mi|kai tupeka}}, {{t-simple|mi|puhipuhi|langname=Maori}} {{qualifier|a pipe}}
-* Mongolian: {{t+|mn|татах|sc=Cyrl}}, {{t|mn|тамхи татах|sc=Cyrl}}
-* Norman: {{t-simple|nrf|feunmer|langname=Norman}} {{qualifier|Jersey}}
+*: Central Kurdish: {{tt+|ckb|جگەرە کێشان|tr=cigere kêşan}}
+* Kyrgyz: {{tt|ky|тамеки тартуу}}, {{tt+|ky|тартуу}}
+* Lao: {{tt|lo|ສູບ}}, {{tt|lo|ດູດ}}, {{tt|lo|ສູບຢາ}}
+* Latin: {{tt+|la|fumō}}
+* Latvian: {{tt|lv|smēķēt}}, {{tt|lv|pīpēt}}
+* Lithuanian: {{tt|lt|rūkyti}}
+* Luxembourgish: {{tt+|lb|fëmmen}}
+* Macedonian: {{tt|mk|пуши|impf}}
+* Malay: {{tt|ms|hisap}}
+* Maltese: {{tt|mt|pejjep}}
+* Manx: {{tt|gv|toghtan}}
+* Maori: {{tt|mi|kai tupeka}}, {{tt|mi|kaipaipa}}, {{tt|mi|kai tupeka}}, {{tt|mi|puhipuhi}} {{qualifier|a pipe}}
+* Mongolian: {{tt+|mn|татах|sc=Cyrl}}, {{tt|mn|тамхи татах|sc=Cyrl}}
+* Norman: {{tt|nrf|feunmer}} {{qualifier|Jersey}}
 * Norwegian:
-*: Bokmål: {{t+|nb|røyke}}
-* Novial: {{t-simple|nov|fuma|langname=Novial}}
-* Occitan: {{t-simple|oc|fumar|langname=Occitan|interwiki=1}}
-* Ojibwe: {{t-simple|oj|zagaswaa|langname=Ojibwe}}
-* Panamint: {{t|par|paho'ih}}
-* Persian: {{t|fa|سیگار کشیدن|tr=sigâr kešidan|sc=fa-Arab}}, {{t+|fa|کشیدن|tr=kešidan|sc=fa-Arab}}
-* Polish: {{t+|pl|palić|impf}} (''fajkę, papierosa'')
-* Portuguese: {{t-simple|pt|fumar|langname=Portuguese|interwiki=1}}
-* Romanian: {{t-simple|ro|fuma|langname=Romanian|interwiki=1}}
-* Romansch: {{t-simple|rm|fimar|langname=Romansch}} {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan, Surmiran}}, {{t-simple|rm|fümer|langname=Romansch}} {{qualifier|Puter}}, {{t-simple|rm|fümar|langname=Romansch}} {{qualifier|Vallader}}
-* Russian: {{t+|ru|кури́ть|impf}}, {{t+|ru|покури́ть|pf}}
+*: Bokmål: {{tt+|nb|røyke}}
+* Novial: {{tt|nov|fuma}}
+* Occitan: {{tt+|oc|fumar}}
+* Ojibwe: {{tt|oj|zagaswaa}}
+* Panamint: {{tt|par|paho'ih}}
+* Persian: {{tt|fa|سیگار کشیدن|tr=sigâr kešidan|sc=fa-Arab}}, {{tt+|fa|کشیدن|tr=kešidan|sc=fa-Arab}}
+* Polish: {{tt+|pl|palić|impf}} (''fajkę, papierosa'')
+* Portuguese: {{tt+|pt|fumar}}
+* Romanian: {{tt+|ro|fuma}}
+* Romansch: {{tt|rm|fimar}} {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan, Surmiran}}, {{tt|rm|fümer}} {{qualifier|Puter}}, {{tt|rm|fümar}} {{qualifier|Vallader}}
+* Russian: {{tt+|ru|кури́ть|impf}}, {{tt+|ru|покури́ть|pf}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|пушити|impf|sc=Cyrl}}
-*: Roman: {{t+|sh|pušiti|impf}}
-* Sicilian: {{t-simple|scn|fumari|langname=Sicilian|interwiki=1}}
-* Slovak: {{t|sk|fajčiť|impf}}
-* Slovene: {{t+|sl|kaditi|impf}}
+*: Cyrillic: {{tt|sh|пушити|impf|sc=Cyrl}}
+*: Roman: {{tt+|sh|pušiti|impf}}
+* Sicilian: {{tt+|scn|fumari}}
+* Slovak: {{tt|sk|fajčiť|impf}}
+* Slovene: {{tt+|sl|kaditi|impf}}
 * Sorbian:
-*: Upper Sorbian: {{t|hsb|kurić|impf}}
-* Spanish: {{t-simple|es|fumar|langname=Spanish|interwiki=1}}
-* Swedish: {{t-simple|sv|röka|langname=Swedish|interwiki=1}}
-* Tagalog: {{t-simple|tl|manigarilyo|langname=Tagalog}}
-* Tajik: {{t|tg|тамоку кашидан}}, {{t+|tg|кашидан}}
-* Tatar: {{t|tt|тәмәке тарту}}
-* Telugu: {{t+|te|తాగు}}, {{t+|te|పొగతాగు}}
-* Thai: {{t+|th|สูบ}}, {{t|th|สูบบุหรี่}}
-* Tibetan: {{t|bo|ཐ་མ་ཁ་འཐེན}}, {{t|bo|ཐ་མག་འཐེན}}, {{t|bo|འཐེན}}, {{t|bo|གནང}} {{qualifier|honorific}}
-* Turkish: {{t+|tr|sigara içmek}}, {{t-simple|tr|içmek|langname=Turkish|interwiki=1}}
-* Turkmen: {{t|tk|çilim çekmek}}, {{t-simple|tk|çekmek|langname=Turkmen}}
-* Tuvan: {{t|tyv|таакпылаар}}, {{t|tyv|таакпы тыртар}}
-* Ukrainian: {{t|uk|кури́ти|impf}}, {{t|uk|пали́ти|impf}}
-* Urdu: {{t|ur|پینا|tr=pīnā}}, {{t|ur|سگریٹ پینا|tr=sigreṭ pīnā}}
-* Uzbek: {{t|uz|tutun chiqarmoq}}, {{t-simple|uz|chiqarmoq|langname=Uzbek|interwiki=1}}
-* Venetian: {{t-simple|vec|fumar|langname=Venetian|interwiki=1}}
-* Vietnamese: {{t+|vi|hút}} {{t+|vi|thuốc}}
-* Volapük: {{t-simple|vo|smökön|langname=Volapük|interwiki=1}}
-* Welsh: {{t-simple|cy|ysmygu|langname=Welsh|interwiki=1}}
-* Yiddish: {{t|yi|רייכערן|tr=reykhern|sc=Hebr}}
+*: Upper Sorbian: {{tt|hsb|kurić|impf}}
+* Spanish: {{tt+|es|fumar}}
+* Swedish: {{tt+|sv|röka}}
+* Tagalog: {{tt|tl|manigarilyo}}
+* Tajik: {{tt|tg|тамоку кашидан}}, {{tt+|tg|кашидан}}
+* Tatar: {{tt|tt|тәмәке тарту}}
+* Telugu: {{tt+|te|తాగు}}, {{tt+|te|పొగతాగు}}
+* Thai: {{tt+|th|สูบ}}, {{tt|th|สูบบุหรี่}}
+* Tibetan: {{tt|bo|ཐ་མ་ཁ་འཐེན}}, {{tt|bo|ཐ་མག་འཐེན}}, {{tt|bo|འཐེན}}, {{tt|bo|གནང}} {{qualifier|honorific}}
+* Turkish: {{tt+|tr|sigara içmek}}, {{tt+|tr|içmek}}
+* Turkmen: {{tt|tk|çilim çekmek}}, {{tt|tk|çekmek}}
+* Tuvan: {{tt|tyv|таакпылаар}}, {{tt|tyv|таакпы тыртар}}
+* Ukrainian: {{tt|uk|кури́ти|impf}}, {{tt|uk|пали́ти|impf}}
+* Urdu: {{tt|ur|پینا|tr=pīnā}}, {{tt|ur|سگریٹ پینا|tr=sigreṭ pīnā}}
+* Uzbek: {{tt|uz|tutun chiqarmoq}}, {{tt+|uz|chiqarmoq}}
+* Venetian: {{tt+|vec|fumar}}
+* Vietnamese: {{tt+|vi|hút}} {{tt+|vi|thuốc}}
+* Volapük: {{tt+|vo|smökön}}
+* Welsh: {{tt+|cy|ysmygu}}
+* Yiddish: {{tt|yi|רייכערן|tr=reykhern|sc=Hebr}}
 * Yoruba: {{t-needed|yo}}
-* Zealandic: {{t|zea|smoke}}
+* Zealandic: {{tt|zea|smoke}}
 {{trans-bottom}}
 
 {{trans-top|to inhale and exhale tobacco smoke regularly or habitually}}
-* Arabic: {{t|ar|دَخَّنَ}}
-* Basque: {{t-simple|eu|erre|langname=Basque}}
-* Belarusian: {{t|be|куры́ць|impf}}
-* Bulgarian: {{t+|bg|пу́ша|impf}}
-* Catalan: {{t-simple|ca|fumar|langname=Catalan|interwiki=1}}
+* Arabic: {{tt|ar|دَخَّنَ}}
+* Basque: {{tt|eu|erre}}
+* Belarusian: {{tt|be|куры́ць|impf}}
+* Bulgarian: {{tt+|bg|пу́ша|impf}}
+* Catalan: {{tt+|ca|fumar}}
 * Chinese:
-*: Cantonese: {{t|yue|食煙}}, {{t|yue|食烟|tr=sik6 jin1}}
-*: Mandarin: {{t+|cmn|吸煙|sc=Hani}}, {{t+|cmn|吸烟|tr=xīyān|sc=Hani}}, {{t+|cmn|抽煙|sc=Hani}}, {{t+|cmn|抽烟|tr=chōuyān|sc=Hani}}
-* Czech: {{t+|cs|kouřit|impf}}
-* Danish: {{t-simple|da|ryge|langname=Danish|interwiki=1}}
-* Dutch: {{t-simple|nl|roken|langname=Dutch|interwiki=1}}, {{t-simple|nl|smoren|langname=Dutch|interwiki=1}}
-* Esperanto: {{t-simple|eo|fumi|langname=Esperanto}}
-* Estonian: {{t-simple|et|suitsetama|langname=Estonian}}
-* Finnish: {{t-simple|fi|polttaa|langname=Finnish|interwiki=1}}, {{t-simple|fi|tupakoida|langname=Finnish|interwiki=1}}
-* French: {{t-simple|fr|fumer|langname=French|interwiki=1}}
-* Friulian: {{t-simple|fur|fumâ|langname=Friulian}}
-* German: {{t-simple|de|rauchen|langname=German|interwiki=1}}
-* Greek: {{t+|el|καπνίζω}}
-* Hebrew: {{t+|he|עשן|tr=a`shein}}
-* Hindi: {{t+|hi|पीना|tr=pīnā}}
-* Hungarian: {{t-simple|hu|dohányzik|langname=Hungarian|interwiki=1}}
-* Indonesian: {{t-simple|id|rokok|langname=Indonesian}}
-* Italian: {{t-simple|it|fumare|langname=Italian|interwiki=1}}
-* Japanese: {{t+|ja|吸う|tr=すう, suu|sc=Jpan}}, {{t|ja|タバコを吸う|tr=タバコをすう, tabako o suu}}
-* Korean: {{t+|ko|피우다}}, {{t|ko|담배를 피우다}}
+*: Cantonese: {{tt|yue|食煙}}, {{tt|yue|食烟|tr=sik6 jin1}}
+*: Mandarin: {{tt+|cmn|吸煙|sc=Hani}}, {{tt+|cmn|吸烟|tr=xīyān|sc=Hani}}, {{tt+|cmn|抽煙|sc=Hani}}, {{tt+|cmn|抽烟|tr=chōuyān|sc=Hani}}
+* Czech: {{tt+|cs|kouřit|impf}}
+* Danish: {{tt+|da|ryge}}
+* Dutch: {{tt+|nl|roken}}, {{tt+|nl|smoren}}
+* Esperanto: {{tt|eo|fumi}}
+* Estonian: {{tt|et|suitsetama}}
+* Finnish: {{tt+|fi|polttaa}}, {{tt+|fi|tupakoida}}
+* French: {{tt+|fr|fumer}}
+* Friulian: {{tt|fur|fumâ}}
+* German: {{tt+|de|rauchen}}
+* Greek: {{tt+|el|καπνίζω}}
+* Hebrew: {{tt+|he|עשן|tr=a`shein}}
+* Hindi: {{tt+|hi|पीना|tr=pīnā}}
+* Hungarian: {{tt+|hu|dohányzik}}
+* Indonesian: {{tt|id|rokok}}
+* Italian: {{tt+|it|fumare}}
+* Japanese: {{tt+|ja|吸う|tr=すう, suu|sc=Jpan}}, {{tt|ja|タバコを吸う|tr=タバコをすう, tabako o suu}}
+* Korean: {{tt+|ko|피우다}}, {{tt|ko|담배를 피우다}}
 * Kurdish:
-*: Central Kurdish: {{t+|ckb|جگەرە کێشان|tr=cigere kêşan}}
+*: Central Kurdish: {{tt+|ckb|جگەرە کێشان|tr=cigere kêşan}}
 {{trans-mid}}
-* Lao: {{t|lo|ສູບຢາ}}
-* Macedonian: {{t|mk|пуши|impf}}
-* Maori: {{t|mi|kai tupeka}}, {{t-simple|mi|kaipaipa|langname=Maori}}
-* Norman: {{t-simple|nrf|feunmer|langname=Norman}} {{qualifier|Jersey}}
-* Novial: {{t-simple|nov|fuma|langname=Novial}}
-* Polish: {{t+|pl|palić|impf}} (''fajkę, papierosa'')
-* Portuguese: {{t-simple|pt|fumar|langname=Portuguese|interwiki=1}}
-* Romanian: {{t-simple|ro|fuma|langname=Romanian|interwiki=1}}
-* Romansch: {{t-simple|rm|fimar|langname=Romansch}} {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan, Surmiran}}, {{t-simple|rm|fümer|langname=Romansch}} {{qualifier|Puter}}, {{t-simple|rm|fümar|langname=Romansch}} {{qualifier|Vallader}}
-* Russian: {{t+|ru|кури́ть|impf}}
+* Lao: {{tt|lo|ສູບຢາ}}
+* Macedonian: {{tt|mk|пуши|impf}}
+* Maori: {{tt|mi|kai tupeka}}, {{tt|mi|kaipaipa}}
+* Norman: {{tt|nrf|feunmer}} {{qualifier|Jersey}}
+* Novial: {{tt|nov|fuma}}
+* Polish: {{tt+|pl|palić|impf}} (''fajkę, papierosa'')
+* Portuguese: {{tt+|pt|fumar}}
+* Romanian: {{tt+|ro|fuma}}
+* Romansch: {{tt|rm|fimar}} {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan, Surmiran}}, {{tt|rm|fümer}} {{qualifier|Puter}}, {{tt|rm|fümar}} {{qualifier|Vallader}}
+* Russian: {{tt+|ru|кури́ть|impf}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|пушити|impf|sc=Cyrl}}
-*: Roman: {{t+|sh|pušiti|impf}}
-* Slovak: {{t|sk|fajčiť|impf}}
-* Slovene: {{t+|sl|kaditi|impf}}
-* Spanish: {{t-simple|es|fumar|langname=Spanish|interwiki=1}}
-* Swedish: {{t-simple|sv|röka|langname=Swedish|interwiki=1}}
-* Telugu: {{t+|te|తాగు}}
-* Thai: {{t|th|สูบบุหรี่}}
-* Ukrainian: {{t|uk|кури́ти|impf}}, {{t|uk|пали́ти|impf}}
-* Urdu: {{t|ur|پینا|tr=pīnā}}
-* Vietnamese: {{t|vi|hơi thuốc}}, {{t+|vi|hút thuốc}}
-* Welsh: {{t-simple|cy|ysmygu|langname=Welsh|interwiki=1}}
-* Zealandic: {{t|zea|smoke}}
+*: Cyrillic: {{tt|sh|пушити|impf|sc=Cyrl}}
+*: Roman: {{tt+|sh|pušiti|impf}}
+* Slovak: {{tt|sk|fajčiť|impf}}
+* Slovene: {{tt+|sl|kaditi|impf}}
+* Spanish: {{tt+|es|fumar}}
+* Swedish: {{tt+|sv|röka}}
+* Telugu: {{tt+|te|తాగు}}
+* Thai: {{tt|th|สูบบุหรี่}}
+* Ukrainian: {{tt|uk|кури́ти|impf}}, {{tt|uk|пали́ти|impf}}
+* Urdu: {{tt|ur|پینا|tr=pīnā}}
+* Vietnamese: {{tt|vi|hơi thuốc}}, {{tt+|vi|hút thuốc}}
+* Welsh: {{tt+|cy|ysmygu}}
+* Zealandic: {{tt|zea|smoke}}
 {{trans-bottom}}
 
 {{trans-top|to give off smoke}}
-* Arabic: {{t|ar|دَخَنَ}}
-* Aromanian: {{t-simple|rup|fumig|langname=Aromanian}}
-* Asturian: {{t-simple|ast|afumar|langname=Asturian}}, {{t-simple|ast|fumar|langname=Asturian}}, {{t-simple|ast|afumiar|langname=Asturian}}, {{t-simple|ast|fumiar|langname=Asturian}}
-* Catalan: {{t-simple|ca|fumar|langname=Catalan|interwiki=1}}, {{t-simple|ca|fumejar|langname=Catalan|interwiki=1}}
+* Arabic: {{tt|ar|دَخَنَ}}
+* Aromanian: {{tt|rup|fumig}}
+* Asturian: {{tt|ast|afumar}}, {{tt|ast|fumar}}, {{tt|ast|afumiar}}, {{tt|ast|fumiar}}
+* Catalan: {{tt+|ca|fumar}}, {{tt+|ca|fumejar}}
 * Chinese:
-*: Mandarin: {{t+|cmn|冒煙|sc=Hani}}, {{t+|cmn|冒烟|tr=màoyān|sc=Hani}}
-* Czech: {{t-simple|cs|kouřit|langname=Czech|interwiki=1}}, {{t-simple|cs|dýmat|langname=Czech}}
-* Danish: {{t-simple|da|ryge|langname=Danish|interwiki=1}}
-* Dutch: {{t-simple|nl|roken|langname=Dutch|interwiki=1}}
-* Esperanto: {{t-simple|eo|fumi|langname=Esperanto}}
-* Estonian: {{t-simple|et|suitsema|langname=Estonian}}
-* Finnish: {{t-simple|fi|savuta|langname=Finnish|interwiki=1}}, {{t-simple|fi|savuttaa|langname=Finnish|interwiki=1}}
-* French: {{t-simple|fr|fumer|langname=French|interwiki=1}}
-* Friulian: {{t-simple|fur|fumâ|langname=Friulian}}
-* Galician: {{t-simple|gl|fumear|langname=Galician|interwiki=1}}, {{t-simple|gl|fumegar|langname=Galician}}
-* German: {{t-simple|de|rauchen|langname=German|interwiki=1}}
-* Greek: {{t+|el|καπνίζω}}
-* Hungarian: {{t-simple|hu|füstölög|langname=Hungarian|interwiki=1}}
-* Interlingua: {{t-simple|ia|fumar|langname=Interlingua}}
+*: Mandarin: {{tt+|cmn|冒煙|sc=Hani}}, {{tt+|cmn|冒烟|tr=màoyān|sc=Hani}}
+* Czech: {{tt+|cs|kouřit}}, {{tt|cs|dýmat}}
+* Danish: {{tt+|da|ryge}}
+* Dutch: {{tt+|nl|roken}}
+* Esperanto: {{tt|eo|fumi}}
+* Estonian: {{tt|et|suitsema}}
+* Finnish: {{tt+|fi|savuta}}, {{tt+|fi|savuttaa}}
+* French: {{tt+|fr|fumer}}
+* Friulian: {{tt|fur|fumâ}}
+* Galician: {{tt+|gl|fumear}}, {{tt|gl|fumegar}}
+* German: {{tt+|de|rauchen}}
+* Greek: {{tt+|el|καπνίζω}}
+* Hungarian: {{tt+|hu|füstölög}}
+* Interlingua: {{tt|ia|fumar}}
 {{trans-mid}}
-* Japanese: {{t|ja|煙る|tr=けむる, kemuru}}
-* Korean: {{t|ko|뿜다}}
+* Japanese: {{tt|ja|煙る|tr=けむる, kemuru}}
+* Korean: {{tt|ko|뿜다}}
 * Kurdish:
-*: Central Kurdish: {{t+|ckb|دووکەڵ کردن|tr=dûkeł kirdin}}
-* Latin: {{t+|la|fūmō}}
-* Latvian: {{t-simple|lv|kūpēt|langname=Latvian}}
-* Macedonian: {{t|mk|чади}}, {{t|mk|дими}}
-* Maori: {{t-simple|mi|ponguru|langname=Maori}}, {{t-simple|mi|whakapoa|langname=Maori}}
-* Norman: {{t-simple|nrf|feunmer|langname=Norman}} {{qualifier|Jersey}}
-* Old English: {{t|ang|rēocan}}
-* Polish: {{t+|pl|dymić|impf}}, {{t+|pl|kopcić|impf}}
-* Portuguese: {{t-simple|pt|fumegar|langname=Portuguese|interwiki=1}}
-* Romanian: {{t-simple|ro|fumega|langname=Romanian|interwiki=1}}, {{t-simple|ro|fuma|langname=Romanian|interwiki=1}}
-* Russian: {{t+|ru|дыми́ть|impf}}, {{t+|ru|дыми́ться|impf}}
-* Slovak: {{t-simple|sk|dymiť|langname=Slovak}}
-* Spanish: {{t-simple|es|humear|langname=Spanish|interwiki=1}}
-* Swedish: {{t-simple|sv|ryka|langname=Swedish|interwiki=1}}
-* Volapük: {{t-simple|vo|smokön|langname=Volapük|interwiki=1}}
-* Welsh: {{t-simple|cy|mygu|langname=Welsh|interwiki=1}}
-* Zealandic: {{t|zea|roôke}}
+*: Central Kurdish: {{tt+|ckb|دووکەڵ کردن|tr=dûkeł kirdin}}
+* Latin: {{tt+|la|fūmō}}
+* Latvian: {{tt|lv|kūpēt}}
+* Macedonian: {{tt|mk|чади}}, {{tt|mk|дими}}
+* Maori: {{tt|mi|ponguru}}, {{tt|mi|whakapoa}}
+* Norman: {{tt|nrf|feunmer}} {{qualifier|Jersey}}
+* Old English: {{tt|ang|rēocan}}
+* Polish: {{tt+|pl|dymić|impf}}, {{tt+|pl|kopcić|impf}}
+* Portuguese: {{tt+|pt|fumegar}}
+* Romanian: {{tt+|ro|fumega}}, {{tt+|ro|fuma}}
+* Russian: {{tt+|ru|дыми́ть|impf}}, {{tt+|ru|дыми́ться|impf}}
+* Slovak: {{tt|sk|dymiť}}
+* Spanish: {{tt+|es|humear}}
+* Swedish: {{tt+|sv|ryka}}
+* Volapük: {{tt+|vo|smokön}}
+* Welsh: {{tt+|cy|mygu}}
+* Zealandic: {{tt|zea|roôke}}
 {{trans-bottom}}
 
 {{trans-top|to preserve or prepare by treating with smoke}}
-* Aromanian: {{t-simple|rup|afum|langname=Aromanian}}
-* Catalan: {{t-simple|ca|fumar|langname=Catalan|interwiki=1}}
-* Czech: {{t-simple|cs|udit|langname=Czech|interwiki=1}}
-* Danish: {{t-simple|da|røge|langname=Danish|interwiki=1}}
-* Dutch: {{t-simple|nl|roken|langname=Dutch|interwiki=1}}
-* Estonian: {{t-simple|et|suitsutama|langname=Estonian}}
-* Finnish: {{t-simple|fi|savustaa|langname=Finnish|interwiki=1}}
-* French: {{t-simple|fr|fumer|langname=French|interwiki=1}}
-* Galician: {{t-simple|gl|afumar|langname=Galician|interwiki=1}}
-* German: {{t-simple|de|räuchern|langname=German|interwiki=1}}
-* Greek: {{t+|el|καπνίζω}}
-* Hungarian: {{t+|hu|füstöl}}
-* Italian: {{t-simple|it|affumicare|langname=Italian|interwiki=1}}, {{t-simple|it|affumare|langname=Italian|interwiki=1}}
-* Korean: {{t|ko|훈제하다}}
-* Latvian: {{t-simple|lv|kūpināt|langname=Latvian}}
+* Aromanian: {{tt|rup|afum}}
+* Catalan: {{tt+|ca|fumar}}
+* Czech: {{tt+|cs|udit}}
+* Danish: {{tt+|da|røge}}
+* Dutch: {{tt+|nl|roken}}
+* Estonian: {{tt|et|suitsutama}}
+* Finnish: {{tt+|fi|savustaa}}
+* French: {{tt+|fr|fumer}}
+* Galician: {{tt+|gl|afumar}}
+* German: {{tt+|de|räuchern}}
+* Greek: {{tt+|el|καπνίζω}}
+* Hungarian: {{tt+|hu|füstöl}}
+* Italian: {{tt+|it|affumicare}}, {{tt+|it|affumare}}
+* Korean: {{tt|ko|훈제하다}}
+* Latvian: {{tt|lv|kūpināt}}
 {{trans-mid}}
 * Low German:
-*: German Low German: {{t+|nds-de|rökern}} {{qualifier|Vest Recklinghausen}}
-* Macedonian: {{t|mk|чади}}, {{t|mk|дими}}, {{t|mk|пуши}}
-* Maori: {{t-simple|mi|whakapaoa|langname=Maori}}, {{t-simple|mi|whakaauau|langname=Maori}}, {{t-simple|mi|whakapua|langname=Maori}}, {{t-simple|mi|wāmu|langname=Maori}}
-* Norman: {{t-simple|nrf|feunmer|langname=Norman}} {{qualifier|Jersey}}
-* North Frisian: {{t|frr|riike}} {{qualifier|Föhr}}
-* Polish: {{t+|pl|wędzić|impf}}
-* Portuguese: {{t-simple|pt|defumar|langname=Portuguese|interwiki=1}}
-* Romanian: {{t-simple|ro|afuma|langname=Romanian|interwiki=1}}
-* Romansch: {{t-simple|rm|fimentar|langname=Romansch}} {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan}}, {{t-simple|rm|fimantar|langname=Romansch}} {{qualifier|Surmiran}}, {{t-simple|rm|fümanter|langname=Romansch}} {{qualifier|Puter}}, {{t-simple|rm|fümantar|langname=Romansch}} {{qualifier|Vallader}}
-* Russian: {{t+|ru|копти́ть|impf}}, {{t+|ru|закопти́ть|pf}}
-* Slovak: {{t-simple|sk|údiť|langname=Slovak}}
-* Spanish: {{t-simple|es|ahumar|langname=Spanish|interwiki=1}}
-* Swedish: {{t-simple|sv|röka|langname=Swedish|interwiki=1}}
-* Ukrainian: {{t|uk|копти́ти}}, {{t|uk|зако́пчувати|impf}}, {{t|uk|ву́дити|impf}}, {{t|uk|закопти́ти|pf}}
-* Welsh: {{t-simple|cy|mygu|langname=Welsh|interwiki=1}}
+*: German Low German: {{tt+|nds-de|rökern}} {{qualifier|Vest Recklinghausen}}
+* Macedonian: {{tt|mk|чади}}, {{tt|mk|дими}}, {{tt|mk|пуши}}
+* Maori: {{tt|mi|whakapaoa}}, {{tt|mi|whakaauau}}, {{tt|mi|whakapua}}, {{tt|mi|wāmu}}
+* Norman: {{tt|nrf|feunmer}} {{qualifier|Jersey}}
+* North Frisian: {{tt|frr|riike}} {{qualifier|Föhr}}
+* Polish: {{tt+|pl|wędzić|impf}}
+* Portuguese: {{tt+|pt|defumar}}
+* Romanian: {{tt+|ro|afuma}}
+* Romansch: {{tt|rm|fimentar}} {{qualifier|Rumantsch Grischun, Sursilvan, Sutsilvan}}, {{tt|rm|fimantar}} {{qualifier|Surmiran}}, {{tt|rm|fümanter}} {{qualifier|Puter}}, {{tt|rm|fümantar}} {{qualifier|Vallader}}
+* Russian: {{tt+|ru|копти́ть|impf}}, {{tt+|ru|закопти́ть|pf}}
+* Slovak: {{tt|sk|údiť}}
+* Spanish: {{tt+|es|ahumar}}
+* Swedish: {{tt+|sv|röka}}
+* Ukrainian: {{tt|uk|копти́ти}}, {{tt|uk|зако́пчувати|impf}}, {{tt|uk|ву́дити|impf}}, {{tt|uk|закопти́ти|pf}}
+* Welsh: {{tt+|cy|mygu}}
 {{trans-bottom}}
 
 {{trans-top|slang: to perform energetically}}
-* Finnish: {{t-simple|fi|antaa|langname=Finnish|interwiki=1}} {{t-simple|fi|palaa|langname=Finnish|interwiki=1}}, {{t-simple|fi|sauhuta|langname=Finnish|interwiki=1}}
+* Finnish: {{tt+|fi|antaa}} {{tt+|fi|palaa}}, {{tt+|fi|sauhuta}}
 {{trans-mid}}
 {{trans-bottom}}
 
 {{trans-top|slang: to kill, especially with a gun}}
-* Finnish: {{t-simple|fi|suolata|langname=Finnish|interwiki=1}}
+* Finnish: {{tt+|fi|suolata}}
 {{trans-mid}}
-* French: {{t-simple|fr|descendre|langname=French|interwiki=1}}
+* French: {{tt+|fr|descendre}}
+}}<!-- close {{multitrans}} -->
 {{trans-bottom}}
 
 {{checktrans-top}}
