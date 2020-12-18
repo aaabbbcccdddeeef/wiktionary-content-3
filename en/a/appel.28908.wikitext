@@ -169,7 +169,7 @@ From {{inh|dum|odt|appel}}, from {{inh|dum|gmw-pro|*applu}}, from {{inh|dum|gem-
 ==Middle English==
 
 ===Alternative forms===
-* {{q|Early ME}} {{l|enm|æppel}}, {{l|enm|æpple}}, {{l|enm|eappel}}
+* {{q|Early ME}} {{alter|enm|æppel|æpple|eappel}}
 * {{alter|enm|apple|appyl|appyll|appil|appill|appell|eppel|appul|appull|appulle|eappel}}
 
 ===Etymology===
@@ -177,13 +177,14 @@ Inherited from {{inh|enm|ang|æppel}}, from {{inh|enm|gmw-pro|*applu}}, from {{i
 
 ===Pronunciation===
 * {{IPA|enm|/ˈapəl/|/ˈɛpəl/}}
+* {{a|dialectal}} {{IPA|enm|/ˈɛpəl/}}
 
 ===Noun===
-{{enm-noun|pl=apples|pl2=applen}}
+{{enm-noun|pl=apples|pl2=applen|pl2_qual=rare}}
 
-# Any [[fruit]] or [[nut]].
-# An [[apple]] {{gloss|fruit of ''[[Malus domestica]]''}}.
-# A [[ball]]; a [[spheroid]].
+# [[fruit]], [[nut]]
+# [[apple]] {{gloss|fruit of ''[[Malus domestica]]''}}.
+# [[ball]]; [[spheroid]]
 
 ====Derived terms====
 * {{l|enm|appeltre}}
@@ -193,7 +194,7 @@ Inherited from {{inh|enm|ang|æppel}}, from {{inh|enm|gmw-pro|*applu}}, from {{i
 * {{desc|sco|aipple|alts=1}}
 
 ====References====
-* {{R:MED Online|entry=appel, -il, -ul n. |id=MED1901 |accessdate=2018-07-08}}
+* {{R:MED Online|entry=appel, -il, -ul|pos=n|id=MED1901|accessdate=2018-07-08}}
 
 [[Category:enm:Bible]]
 [[Category:enm:Fruits]]
