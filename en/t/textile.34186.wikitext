@@ -45,7 +45,7 @@ Borrowed from {{bor|en|la|textile}}, substantive use of {{m|la|textilis||woven}}
 * Spanish: {{t-needed|es}}
 {{trans-bottom}}
 
-{{trans-top|A non-[[nudist]]}}
+{{trans-top|non-nudist}}
 * French: {{t+|fr|textile|m|f}}
 * Russian: {{t+|ru|тексти́льщик|m}}, {{t+|ru|тексти́льщица|f}}, {{t+|ru|тексти́льник|m}}, {{t|ru|тексти́льница|f}}
 {{trans-bottom}}
@@ -99,30 +99,34 @@ From {{m|la|textilis||woven}}.
 {{la-ndecl|textile<3>}}
 
 ====Related terms====
-{{top2}}
-* {{l|la|texō}}
-* {{l|la|textilis}}
-* {{l|la|textor}}
-* {{l|la|textōrius}}
-{{mid2}}
-* {{l|la|textrīnus}}
-* {{l|la|textrīx}}
-* {{l|la|textum}}
-* {{l|la|textus}}
-{{bottom}}
+{{rel4|la
+|texō
+|textilis
+|textor
+|textōrius
+|textrīnus
+|textrīx
+|textum
+|textus
+}}
 
 ====Descendants====
 {{i|all borrowed}}
 {{top2}}
 * {{desc|ca|tèxtil}}
+* {{desc|da|tekstil}}
+* {{desc|nl|textiel}}
 * {{desc|en|textile}}
 * {{desc|fr|textile}}
-* {{desc|de|Textil}}
+* {{desc|de|Textil}}, {{l|de|Textilie}}
 * {{desc|lv|tekstils}}
+* {{desc|nb|tekstil}}
+* {{desc|nn|tekstil}}
 * {{desc|pt|têxtil}}
 * {{desc|ro|textil}}
 * {{desc|ru|текстиль}}
 * {{desc|es|textil}}
+* {{desc|sv|textil}}
 {{bottom}}
 
 ===Adjective===
