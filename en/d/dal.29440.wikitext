@@ -738,7 +738,6 @@ From {{der|tr|otk|-}} ''tal'', from {{der|tr|trk-pro|*tāl}}, {{m|trk-pro|*dal}}
 * {{IPA|cy|/dal/}}
 
 ===Etymology 1===
-
 From {{inh|cy|cel-bry-pro|*dalg-}}, from {{der|cy|ine-pro|*delgʰ-}}.<ref>{{R:cy:GPC}}</ref> Cognate with {{cog|la|indulgeo}}.<ref>J. Morris Jones, ''A Welsh Grammar, Historical and Comparative'' (Oxford 1913), [[s:A Welsh Grammar, Historical and Comparative/Phonology#s110-ii-2|§&nbsp;110 ii (2)]]</ref>
 
 ====Verb====
@@ -751,12 +750,19 @@ From {{inh|cy|cel-bry-pro|*dalg-}}, from {{der|cy|ine-pro|*delgʰ-}}.<ref>{{R:cy
 
 =====Conjugation=====
 {{cy-conj-i|dal|del|deil|imp=dal|nolong=3s}}
-{{cy-conj-colloquial|dali|cond-1s=daliwn|cond-1s-b=dalswn|cond-2s=daliet|cond-2s-b=dalset|cond-3s=daliai|cond-3s-b=dalsai|cond-1pl=dalien|cond-1pl-b=dalsen|cond-2pl=daliech|cond-2pl-b=dalsech|cond-3pl=dalien|cond-3pl-b=dalsen}}
+{{cy-conj-colloquial|dali|cond-1s=daliwn|cond-1s-b=dalswn
+|cond-2s=daliet|cond-2s-b=dalset
+|cond-3s=daliai|cond-3s-b=dalsai
+|cond-1pl=dalien|cond-1pl-b=dalsen
+|cond-2pl=daliech|cond-2pl-b=dalsech
+|cond-3pl=dalien|cond-3pl-b=dalsen}}
 {{cy-conj-colloquial|dal}}
 
+====Alternative forms====
+* {{alter|cy|dala||South Wales}}
+
 ====Derived terms====
-* {{l|cy|dalfa}}
-* {{l|cy|yn dal||still|pos=adverb}}
+{{der2|cy|dalfa|yn dal}}
 
 ====Mutation====
 {{cy-mut}}
