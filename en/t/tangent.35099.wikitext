@@ -47,7 +47,7 @@ Borrowed from {{bor|en|la|tangentem}}, the accusative of {{m|la|tangēns||touchi
 * Chinese:
 *: Mandarin: {{t+|cmn|切線|sc=Hani}}, {{t+|cmn|切线|tr=qiēxiàn|sc=Hani}}
 * Czech: {{t|cs|tečna|f}}
-* Danish: {{t|da|tangent}}
+* Danish: {{t|da|tangent|c}}
 * Dutch: {{t+|nl|raaklijn|f}}
 * Esperanto: {{t|eo|tanĝanto}}
 * Finnish: {{t+|fi|tangentti}}, {{t+|fi|sivuaja}}
@@ -93,7 +93,7 @@ Borrowed from {{bor|en|la|tangentem}}, the accusative of {{m|la|tangēns||touchi
 * Chinese:
 *: Mandarin: {{t+|cmn|正切|tr=zhèngqiē|sc=Hani}}
 * Czech: {{t+|cs|tangens|m}}
-* Danish: {{t|da|tangens}}
+* Danish: {{t|da|tangens|c}}
 * Dutch: {{t+|nl|tangens|m}}
 * Esperanto: {{t|eo|tangento}}
 * Finnish: {{t+|fi|tangentti}}
@@ -107,7 +107,9 @@ Borrowed from {{bor|en|la|tangentem}}, the accusative of {{m|la|tangēns||touchi
 * Korean: {{t|ko|탄젠트}}
 * Manx: {{t|gv|tanjent|m}}
 * Maori: {{t|mi|pātapa}}
-* Norwegian: {{t|no|tangens|m}}
+* Norwegian: 
+*: Bokmål: {{t|nb|tangens|m}}
+*: Nynorsk: {{t|nn|tangens|m}}
 * Polish: {{t+|pl|tangens|m}}
 * Portuguese: {{t+|pt|tangente|f}}
 * Romanian: {{t+|ro|tangentă|f}}
@@ -180,14 +182,14 @@ From {{der|ca|la|tangēns}}.
 ==Danish==
 
 ===Etymology===
-Ultimately from {{der|da|la|tangens}}; cf. German {{m|de|Tangente}}.
+Ultimately from {{der|da|la|tangēns}}; cf. German {{m|de|Tangente}}.
 
 ===Noun===
 {{da-noun|en|er}}
 
 # {{lb|da|geometry}} {{l|en|tangent}}
 #: {{ux|da|Differentialregning kan fortolkes som forsøget på at bestemme en '''tangents''' hældning.|Differential calculus may be interpreted as the attempt to determine the slope of a '''tangent'''.}}
-# a {{l|en|piano key}}
+# {{l|en|piano key}}
 
 ====Declension====
 {{da-noun-infl|en|er}}
@@ -205,7 +207,7 @@ Ultimately from {{der|da|la|tangens}}; cf. German {{m|de|Tangente}}.
 ==French==
 
 ===Etymology===
-Borrowed from {{bor|fr|la|tangens|tangens, tangentem}}.
+Borrowed from {{bor|fr|la|tangens|tangēns, tangentem}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
@@ -237,13 +239,13 @@ Borrowed from {{bor|fr|la|tangens|tangens, tangentem}}.
 {{wikipedia|lang=no}}
 
 ===Etymology===
-From {{der|nb|de|Tangente}}, {{m|de|Tangens}}, ultimately from {{der|nb|la|tangens}}.
+From {{der|nb|de|Tangente}}, {{m|de|Tangens}}, ultimately from {{der|nb|la|tangēns}}.
 
 ===Noun===
 {{nb-noun-m1}}
 
-# {{lb|nb|geometry}} a {{l|en|tangent}}
-# {{lb|nb|musical instruments}} a {{l|en|key}} {{q|e.g. on a piano}}
+# {{lb|nb|geometry}} {{l|en|tangent}}
+# {{lb|nb|musical instruments}} {{l|en|key}} (e.g., on a piano)
 
 ===References===
 * {{R:The Bokmål Dictionary}}
@@ -254,13 +256,13 @@ From {{der|nb|de|Tangente}}, {{m|de|Tangens}}, ultimately from {{der|nb|la|tange
 {{wikipedia|lang=nn}}
 
 ===Etymology===
-From {{der|nn|de|Tangente}}, {{m|de|Tangens}}, ultimately from {{der|nn|la|tangens}}.
+From {{der|nn|de|Tangente}}, {{m|de|Tangens}}, ultimately from {{der|nn|la|tangēns}}.
 
 ===Noun===
 {{nn-noun-m1}}
 
-# {{lb|nn|geometry}} a {{l|en|tangent}}
-# {{lb|nn|musical instruments}} a {{l|en|key}} {{q|e.g. on a piano}}
+# {{lb|nn|geometry}} {{l|en|tangent}}
+# {{lb|nn|musical instruments}} {{l|en|key}} (e.g., on a piano)
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
@@ -270,7 +272,7 @@ From {{der|nn|de|Tangente}}, {{m|de|Tangens}}, ultimately from {{der|nn|la|tange
 ==Romanian==
 
 ===Etymology===
-Borrowed from {{bor|ro|fr|tangent}}, {{bor|ro|la|tangens|tangens, tangentem}}.
+Borrowed from {{bor|ro|fr|tangent}}, {{bor|ro|la|tangens|tangēns, tangentem}}.
 
 ===Adjective===
 {{ro-adj}}
@@ -286,13 +288,13 @@ Borrowed from {{bor|ro|fr|tangent}}, {{bor|ro|la|tangens|tangens, tangentem}}.
 {{wikipedia|lang=sv}}
 
 ===Etymology===
-Ultimately from {{der|sv|la|tangens}}; cf. German {{m|de|Tangente}}.
+Ultimately from {{der|sv|la|tangēns}}; cf. German {{m|de|Tangente}}.
 
 ===Noun===
 {{sv-noun|c}}
 
-# a [[key]] (button on a typewriter, computer keyboard or [[piano]])
-# {{lb|sv|mathematics}} a [[#English|tangent]]
+# [[key]] (button on a typewriter, computer keyboard or [[piano]])
+# {{lb|sv|mathematics}} {{l|en|tangent}}
 
 ====Declension====
 {{sv-infl-noun-c-er}}
