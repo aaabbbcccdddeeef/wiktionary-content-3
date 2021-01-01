@@ -82,14 +82,17 @@ From {{inh|en|enm|informacion}}, {{m|enm|enformacion}}, borrowed from {{der|en|x
 * Armenian: {{t+|hy|տեղեկատվություն}}, {{t+|hy|տեղեկություն}}
 * Asturian: {{t|ast|información|f}}
 * Azerbaijani: {{t+|az|məlumat}}, {{t|az|informasiya}}
+* Bashkir: {{t|ba|мәғлүмәт}}
 * Basque: {{t|eu|informazio}}
 * Belarusian: {{t|be|інфарма́цыя|f}}
 * Bengali: {{t|bn|তথ্য}}
 * Breton: {{t|br|ditour|m}}, {{t+|br|keloù|m}}
 * Bulgarian: {{t+|bg|информа́ция|f}}
 * Burmese: {{t+|my|ပြန်ကြားရေး|sc=Mymr}}
+* Buryat: {{t|bua|мэдээсэл}}
 * Catalan: {{t+|ca|informació|f}}
 * Chamorro: {{t|ch|infotmasion}}
+* Chechen: {{t|ce|хаам}}
 * Chinese:
 *: Mandarin: {{t+|cmn|信息|tr=xìnxī|sc=Hani}}, {{t+|cmn|資訊|sc=Hani}}, {{t+|cmn|资讯|tr=zīxùn|sc=Hani}}, {{t+|cmn|情報|sc=Hani}}, {{t+|cmn|情报|tr=qíngbào|sc=Hani}}
 * Czech: {{t+|cs|informace|f}}
@@ -122,8 +125,8 @@ From {{inh|en|enm|informacion}}, {{m|enm|enformacion}}, borrowed from {{der|en|x
 * Kurdish:
 *: Northern Kurdish: {{t+|kmr|agahî|f}}
 * Kyrgyz: {{t+|ky|информация|sc=Cyrl}}, {{t+|ky|маалымат|sc=Cyrl}}
-* Lao: {{t+|lo|ຂ່າວ}}, {{t+|lo|ຂໍ້ມູນ}}
 {{trans-mid}}
+* Lao: {{t+|lo|ຂ່າວ}}, {{t+|lo|ຂໍ້ມູນ}}
 * Latgalian: {{t|ltg|zine|f}}, {{t|ltg|zinis|f|p}}, {{t|ltg|jaunums|m}}, {{t|ltg|jaunumi|m|p}}, {{t|ltg|informaceja|f}}
 * Latin: {{t+|la|nūntius|m}}, {{t+|la|scientia|f}}, {{t|la|doctrina|f}}, {{t|la|indicium|n}}, {{t|la|nuntii|m-p}}
 * Latvian: {{t|lv|informācija|f}}
@@ -141,12 +144,13 @@ From {{inh|en|enm|informacion}}, {{m|enm|enformacion}}, borrowed from {{der|en|x
 * Norwegian: {{t+|no|informasjon|m}}
 * Old English: {{t|ang|ġefrǣġe|n}}, {{t|ang|āscung|f}}
 * Pashto: {{t|ps|معلومات|m-p|tr=ma'lumãt}}, {{t+|ps|اطلاع|f|tr=etlã'}}
-* Persian: {{t+|fa|اطلاع|tr=etelâ'}}, {{t+|fa|آگاهی|tr=âgâhi}}, {{t+|fa|اخبار|tr=axbâr}}, {{t+|fa|استحضار|tr=estehzâr}}
+* Persian: {{t+|fa|اطلاع|tr=etelâ'}}, {{t+|fa|آگاهی|tr=âgâhi}}, {{t+|fa|اخبار|tr=axbâr}}, {{t+|fa|استحضار|tr=estehzâr}}, {{t+|fa|معلومات|tr=ma'lumât}}
 * Polish: {{t+|pl|informacja|f}}, {{t+|pl|wiadomość|f}}
 * Portuguese: {{t+|pt|informação|f}}
 * Romanian: {{t+|ro|informație|f}}
 * Romansch: {{t|rm|infurmaziun|f}}
 * Russian: {{t+|ru|информа́ция|f}}, {{t+|ru|инфа́|f}} {{qualifier|colloquial}}, {{qualifier|always plural}} {{t+|ru|све́дение}}, {{qualifier|always plural}} {{t+|ru|да́нные}}
+* Rusyn: {{t|rue|інформа́ція|f}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|информација|f}}
 *: Roman: {{t+|sh|informacija|f}}
@@ -156,10 +160,12 @@ From {{inh|en|enm|informacion}}, {{m|enm|enformacion}}, borrowed from {{der|en|x
 *: Lower Sorbian: {{t|dsb|informacija|f}}
 * Southern Altai: {{t|alt|јетирӱ}}
 * Spanish: {{t+|es|información|f}}
-* Swahili: {{t+|sw|habari}}
+* Swahili: {{t+|sw|habari}}, {{t+|sw|taarifa|cn}}
 * Swedish: {{t+|sv|information|c}}
 * Tagalog: {{t+|tl|impormasyon}}, {{t|tl|pabatid}}, {{t|tl|kabatiran}}
-* Tajik: {{t+|tg|маълумот|sc=Cyrl}}, {{t|tg|ахборот|sc=Cyrl}}
+* Tajik: {{t+|tg|маълумот|sc=Cyrl}}, {{t|tg|ахборот|sc=Cyrl}}, {{t+|tg|иттилоот}}
+* Tamil: {{t+|ta|தகவல்}}
+* Tatar: {{t+|tt|мәгълүмат}}
 * Telugu: {{t+|te|సమాచారం}}
 * Thai: {{t+|th|ข่าว}}, {{t+|th|ข้อมูล}}
 * Turkish: {{t+|tr|bilgi}}, {{t+|tr|malumat}}
@@ -171,6 +177,7 @@ From {{inh|en|enm|informacion}}, {{m|enm|enformacion}}, borrowed from {{der|en|x
 * Uzbek: {{t+|uz|maʻlumot}}, {{t+|uz|axborot}}, {{t+|uz|informatsiya}}
 * Vietnamese: {{t+|vi|thông tin}}
 * Welsh: {{t+|cy|gwybodaeth|f}}, {{t|cy|hysbysrwydd|m}}
+* Yiddish: {{t|yi|אינפֿאָרמאַציע|f}}
 {{trans-bottom}}
 
 {{trans-top|act of informing or imparting knowledge}}
