@@ -214,12 +214,24 @@ From {{inh|ca|la|grāmen}}. Previously applied to grasses in general but now  re
 
 ===Pronunciation===
 * {{cs-IPA}}
+* {{hyphenation|cs|gram}}
 * {{rhymes|cs|am}}
 
 ===Noun===
-{{cs-noun|g=m}}
+{{cs-noun|g=m-in}}
 
 # {{l|en|gram}} {{gloss|unit}}
+
+====Declension====
+{{cs-decl-noun
+|gram|gramu|gramu|gram|grame|gramu|gramem
+|gramy|gramů|gramům|gramy|gramy|gramech|gramy
+}}
+
+====Derived terms====
+* {{l|cs|miligram}}
+* {{l|cs|dekagram}}
+* {{l|cs|kilogram}}
 
 ===Further reading===
 * {{R:PSJC}}
