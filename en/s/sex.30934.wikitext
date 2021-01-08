@@ -487,25 +487,42 @@ Certain magazines use {{m|nl||sex}} instead of {{m|nl||seks}}, since the correct
 ==Icelandic==
 {{cardinalbox|is|5|6|7|fimm|sjö|ord=sjötti}}
 
-===Etymology===
-From {{der|is|non|sex}}.
+===Etymology 1===
+{{dercat|is|ine-pro}}
+From {{inh|is|non|sex}}, from {{inh|is|gem-pro|*sehs}}.<ref name=IOSB>{{R:is:IOSB|page=808}}</ref> Cognates include {{cog|fo|seks}} and {{cog|da|seks}}.
 
-===Pronunciation===
-* {{IPA|is|[sɛks]}}
-* {{IPA|is|[sɛxs]}}
-* {{IPA|is|[sɛɣs]}} {{a|regional}}
-* {{rhymes|is|ɛks}}
+====Pronunciation====
+* {{IPA|is|[sɛks]|[sɛxs]}}
+*: {{rhymes|is|ɛks|ɛxs}}
+* {{a|regional}} {{IPA|is|[sɛɣs]}}
 
-===Numeral===
-{{head|is|numeral|cardinal, indeclinable}}
+====Numeral====
+{{head|is|numeral|cat2=cardinal numbers}}
 
-# [[six]]; the cardinal number after {{m|is|fimm||five}} and before {{m|is|sjö||seven}}.
+# [[six]]
 
-====Derived terms====
+=====Derived terms=====
 * {{l|is|klukkan sex}}
 * {{l|is|sexa}}
 
-[[Category:Icelandic cardinal numbers]]
+===Etymology 2===
+{{dercat|is|itc-pro|ine-pro}}
+Borrowed from {{bor|is|en|sex}}, from {{der|is|enm|sexe}}, from {{der|is|fro|sexe}}, from {{der|is|la|sexus}}.<ref name=IOSB />
+
+====Pronunciation====
+* {{IPA|is|[sɛks]}}
+*: {{rhymes|is|ɛks}}
+
+====Noun====
+{{is-noun|n|sex|sex}}
+
+# {{lb|is|vulgar}} [[#English|sex]], [[sexual intercourse]]
+
+====Declension====
+{{is-decl-noun-n-s|s|e|x}}
+
+===References===
+<references/>
 
 ----
 
