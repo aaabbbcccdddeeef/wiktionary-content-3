@@ -53,12 +53,12 @@ From {{etyl|grc|en}} {{m|grc|ἅλμα||leap}}.
 {{swp|lang=hu}}
 
 ====Noun====
-{{hu-noun}}
+{{hu-noun|-|pl=halmák}}
 
 # {{lb|hu|board games|singular only}} {{l|en|halma}}
 
 =====Declension=====
-{{hu-infl-nom|halmá|o|n=sg}}{{hu-pos-tok|halmá|n=sg}}
+{{hu-infl-nom|halmá|o}}{{hu-pos-tok|halmá}}<!-- "halmák" can refer to the different types of the game -->
 
 ===Etymology 2===
 {{affix|hu|halom|t1=pile, heap|-a|id2=possessive|pos2=possessive suffix|nocat=y}}
