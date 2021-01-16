@@ -43,10 +43,11 @@ From {{inh|en|enm|armure}}, {{m|enm|armour}}, {{m|enm|armor}}, {{m|enm|armeure}}
 
 ====Translations====
 {{trans-top|protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces}}
-* Albanian: {{t+|sq|tarogzë}}, {{t+|sq|parzmore}}
+* Albanian: {{t+|sq|tarogzë}}, {{t+|sq|parzmore}}, {{t+check|sq|armor|?}}
 * Arabic: {{t|ar|دِرْع|m}}
 * Armenian: {{t+|hy|զրահ}}, {{t+|hy|պատյան}}
 * Avar: {{t|av|йарагъ-матахӏ}}
+* Azerbaijani: {{t|az|zireh}}, {{t|az|dəmir geyim}} {{qualifier|of a knight}}, {{t|az|yaraq-əsləhə}} {{qualifier|of a knight}}, {{t|az|yaraq-əsbab}} {{qualifier|of a knight}}, {{t|az|yaraq-yasaq}} {{qualifier|of a knight}}
 * Bashkir: {{t|ba|һауыт}}
 * Belarusian: {{t|be|браня́|f}}, {{t|be|даспе́хі|m-p}}
 * Bulgarian: {{t+|bg|броня́|f}}
@@ -54,15 +55,18 @@ From {{inh|en|enm|armure}}, {{m|enm|armour}}, {{m|enm|armor}}, {{m|enm|armeure}}
 * Chinese:
 *: Mandarin: {{t+|cmn|盔甲|tr=kuījiǎ}}, {{t+|cmn|鐵甲}}, {{t+|cmn|铁甲|tr=tiějiǎ}}, {{t+|cmn|鎧甲|tr=kǎijiǎ}}
 * Czech: {{t+|cs|brnění|n}}, {{t+|cs|zbroj|f}}, {{t+|cs|pancíř|m}}
+* Danish: {{t|da|rustning|c}}
 * Dutch: {{t+|nl|pantser|n}}, {{t+|nl|harnas|n}}
 * Esperanto: {{t+|eo|kiraso}}
-* Finnish: {{t+|fi|haarniska}}, {{t+|fi|panssari}}
+* Finnish: {{t+|fi|haarniska}} {{qualifier|body}}, {{t+|fi|panssari}} {{qualifier|vehicle etc.}}
 * French: {{t+|fr|armure|f}}
+* Galician: {{t|gl|armadura|f}}
 * Georgian: {{t|ka|ჯავშანი}}, {{t|ka|აბჯარი}}, {{t|ka|საჭურველი}}
 * German: {{t+|de|Rüstung|f}}
 * Greek: {{t+|el|θωράκιση|f}}, {{t+|el|πανοπλία|f}}, {{t+|el|οπλισμός|m}}
 * Hebrew: {{t+|he|שִׁרְיוֹן|m|tr=shiryon}}
 * Hindi: {{t+|hi|कवच|m}}
+* Hungarian: {{t+|hu|páncél}}, {{t+|hu|páncélok|p}}
 * Icelandic: {{t+|is|brynja|m}}
 * Indonesian: {{t+|id|zirah}}
 * Interlingue: {{t|ie|armatura}}
@@ -79,6 +83,9 @@ From {{inh|en|enm|armure}}, {{m|enm|armour}}, {{m|enm|armor}}, {{m|enm|armeure}}
 * Manchu: {{t|mnc|ᡠᡴ᠋ᠰᡳ᠍ᠨ}}
 * Maori: {{t|mi|pākai}}
 * Mongolian: {{t+|mn|хуяг}}
+* Norwegian:
+*: Bokmål: {{t|nb|rustning|m|f}} {{q|body}}
+*: Nynorsk: {{t|nn|rustning|f}} {{q|body}}
 * Persian: {{t+|fa|زره|tr=zereh}}
 * Polish: {{t+|pl|zbroja|f}}, {{t+|pl|pancerz|m}}
 * Portuguese: {{t+|pt|armadura|f}}
@@ -105,7 +112,7 @@ From {{inh|en|enm|armure}}, {{m|enm|armour}}, {{m|enm|armor}}, {{m|enm|armeure}}
 * Bulgarian: {{t|bg|защитна обвивка|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|鎧甲}}, {{t+|cmn|铠甲|tr=kǎijiǎ}}
-* Czech: {{t+|cs|krunýř|m}}, {{qualifier|colloquially}} {{t+|cs|pancíř|m}}
+* Czech: {{t+|cs|krunýř|m}}; {{t+|cs|pancíř|m}} {{qualifier|colloquial}}
 * Finnish: {{t+|fi|panssari}}
 * French: {{t+|fr|cuirasse|f}}
 * German: {{t|de|Panzerung|f}}
@@ -151,7 +158,7 @@ From {{inh|en|enm|armure}}, {{m|enm|armour}}, {{m|enm|armor}}, {{m|enm|armeure}}
 
 {{trans-top|military formation consisting primarily of tanks}}
 * Czech: {{t|cs|obrněné vojsko|n}}, {{t|cs|obrněná vojska|p}}
-* Finnish: {{t|fi|panssarijoukot|p}}
+* Finnish: {{t|fi|panssarijoukot|p}}, {{t-check|fi|panssariosasto}}
 * Georgian: {{t|ka|ჯავშან-ტექნიკა}}
 * Greek: {{t+|el|τεθωρακισμένα|n-p}}
 {{trans-mid}}
