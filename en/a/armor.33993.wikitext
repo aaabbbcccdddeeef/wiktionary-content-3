@@ -11,6 +11,7 @@ From {{inh|en|enm|armure}}, {{m|enm|armour}}, {{m|enm|armor}}, {{m|enm|armeure}}
 ===Pronunciation===
 * {{a|US}} {{IPA|en|/ˈɑːɹ.mɚ/}}
 ** {{audio|en|en-us-armor.ogg|Audio (US)}}
+** {{audio|en|En-us-armour.ogg|Audio (US)}}
 * {{a|UK}} {{IPA|en|/ˈɑː.mə/}}
 * {{rhymes|en|ɑː(ɹ)mə(ɹ)}}
 
@@ -18,10 +19,14 @@ From {{inh|en|enm|armure}}, {{m|enm|armour}}, {{m|enm|armor}}, {{m|enm|armeure}}
 {{en-noun|~}} {{tlb|en|chiefly|_|American spelling}}
 
 # {{lb|en|uncountable}} A protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces.
+#: {{hypo|en|body armor|mail|chain mail|plate|suit of armor}}
 # {{lb|en|uncountable}} A natural form of this kind of protection on an animal's body.
+#: {{syn|en|carapace|chitin|horn}}
 # {{lb|en|uncountable}} Metal plate, protecting a ship, military vehicle, or aircraft.
-# {{lb|en|countable}} A [[tank]], or other heavy mobile assault vehicle.
+#: {{syn|en|armor plate}}
+# {{lb|en|countable}}<!--?--> A [[tank]], or other heavy mobile assault vehicle.
 # {{lb|en|military|uncountable}} A [[military]] [[formation]] consisting primarily of [[tank|tanks]] or other [[armoured fighting vehicles]], collectively.
+#: {{syn|en|cavalry|mechanized}}
 # {{lb|en|hydrology|uncountable}} The naturally occurring surface of pebbles, rocks or boulders that line the bed of a waterway or beach and provide protection against [[erosion]].
 
 ====Synonyms====
@@ -31,7 +36,7 @@ From {{inh|en|enm|armure}}, {{m|enm|armour}}, {{m|enm|armor}}, {{m|enm|armeure}}
 * {{sense|military}} {{l|en|mechanized}}, {{l|en|cavalry}}
 
 ====Derived terms====
-{{der4|en|title=Terms derived from ''armour'' (noun)|appliqué armour|composite armour|armour-plated|armour plating|armoury|spaced armour|stand-off armour|suit of armour|reactive armour|explosive reactive armour}}
+{{der4|en|title=Terms derived from ''armour'' (noun)|appliqué armour|composite armour|armour-piercing|armour-plated|armour plating|armoury|spaced armour|stand-off armour|suit of armour|reactive armour|rock armour|explosive reactive armour}}
 
 ====Related terms====
 {{rel4|en|arm|arms|armament|armaments|armure}}
@@ -167,6 +172,19 @@ From {{inh|en|enm|armure}}, {{m|enm|armour}}, {{m|enm|armor}}, {{m|enm|armeure}}
 
 # {{lb|en|transitive}} To equip something with armor or a protective coating or hardening.
 # {{lb|en|transitive}} To provide something with an analogous form of protection.
+
+====Translations====
+{{trans-top|to equip with armour}}
+* Danish: {{t|da|pansre}}
+* Finnish: {{t+|fi|panssaroida}}; {{t|fi|haarniskoida}} {{qualifier|body armour}}
+{{trans-mid}}
+* German: {{t+|de|panzern}}
+{{trans-bottom}}
+
+{{trans-top|to provide something with an analogous form of protection}}
+* Finnish: {{t+|fi|panssaroida}}
+{{trans-mid}}
+{{trans-bottom}}
 
 ===Anagrams===
 * {{anagrams|en|a=amorr|Marro|Morar|Morra|maror|morra}}
