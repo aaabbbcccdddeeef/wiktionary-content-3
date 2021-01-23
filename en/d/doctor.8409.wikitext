@@ -44,7 +44,7 @@ From {{inh|en|enm||doctor|an expert, authority on a subject}}, {{m|enm||doctour}
 
 ====Derived terms====
 ''See also'' '''Types of academic doctor''' ''below''
-{{der4|en|title=Terms derived from ''doctor'' (noun)
+{{der4|en|title=terms derived from ''doctor'' (noun)
 |an apple a day keeps the doctor away
 |Angelic Doctor
 |barefoot doctor
@@ -120,7 +120,7 @@ From {{inh|en|enm||doctor|an expert, authority on a subject}}, {{m|enm||doctour}
 
 ====Related terms====
 * {{l|en|doctrix}}
-{{rel-top|Types of academic doctor}}
+{{rel-top|types of academic doctor}}
 * Doctor of Acupuncture and Oriental Medicine ([[D.A.O.M.]])
 * Doctor of Arts ([[D.A.]])
 * Doctor of Architecture ([[D.Arch.]])
@@ -230,9 +230,9 @@ From {{inh|en|enm||doctor|an expert, authority on a subject}}, {{m|enm||doctour}
 * Czech: {{t+|cs|doktor|m}}
 * Danish: {{t|da|doktor}}
 * Dutch: {{t+|nl|doctor|m|f}}
-* Esperanto: {{qualifier|♂♀}} {{t|eo|doktoro}}, {{qualifier|explicitly ♂}} {{t|eo|virdoktoro}}, {{qualifier|explicitly ♀}} {{t|eo|doktorino}}
+* Esperanto: {{t|eo|doktoro}}, {{t|eo|virdoktoro}} {{q|male}} {{t|eo|doktorino}} {{q|female}}
 * Finnish: {{t+|fi|tohtori}}
-* French: {{t+|fr|docteur}}
+* French: {{t+|fr|docteur|m}}, {{t+|fr|docteure|f}}, {{t+|fr|docteuse|f}}, {{t+|fr|doctoresse|f}}
 * Galician: {{t|gl|doutor|m}}
 * Georgian: {{t|ka|დოქტორი}}
 * German: {{t+|de|Doktor|m}}, {{t+|de|Doktorin|f}}
@@ -241,7 +241,7 @@ From {{inh|en|enm||doctor|an expert, authority on a subject}}, {{m|enm||doctour}
 * Hindi: {{t|hi|डॉक्टर|m}}
 * Hungarian: {{t+|hu|doktor}}
 * Icelandic: {{t+|is|læknir|m}}, {{t+|is|doktor|m}}
-* Ido: {{t+|io|doktoro}}
+* Ido: {{t+|io|doktoro}}, {{t+|io|doktorulo}} {{q|male}}, {{t+|io|doktorino}} {{q|female}}
 * Indonesian: {{t+|id|doktor}}
 * Irish: {{t+|ga|dochtúir|m}}
 * Italian: {{t+|it|dottore|m}}, {{t+|it|dottoressa|f}}
@@ -266,7 +266,7 @@ From {{inh|en|enm||doctor|an expert, authority on a subject}}, {{m|enm||doctour}
 * Polish: {{t+|pl|doktor|m}}, {{t+|pl|lekarz|m}}
 * Portuguese: {{t+|pt|doutor|m}}, {{t|pt|doutora|f}}
 * Romanian: {{t+|ro|doctor|m|f}}
-* Russian: {{t+|ru|до́ктор|m|f}} {{qualifier|both male and female}}, {{t+|ru|до́кторша|f}} {{qualifier|colloquial for female doctors, nonstandard}}
+* Russian: {{t+|ru|до́ктор|m|f}} {{q|male or female}}, {{t+|ru|до́кторша|f}} {{q|colloquial for female doctors, nonstandard}}
 * Scottish Gaelic: {{t|gd|ollamh|m}}
 * Serbo-Croatian:
 *: Roman: {{t+|sh|dȍktor|m}}, {{t+|sh|dȍktorica|f}}
@@ -285,7 +285,7 @@ From {{inh|en|enm||doctor|an expert, authority on a subject}}, {{m|enm||doctour}
 * Uzbek: {{t+|uz|doktor}}
 * Venetian: {{t|vec|dotor|m}}
 * Vietnamese: {{t+|vi|tiến sĩ}}
-* Volapük: {{qualifier|♂♀}} {{t+|vo|dokan}}, {{qualifier|♂}} {{t|vo|hidokan}}, {{qualifier|♀}} {{t|vo|jidokan}}, {{qualifier|older term}} {{t|vo|dokel}}
+* Volapük: {{t+|vo|dokan}}, {{t|vo|hidokan}} {{q|male}}, {{t|vo|jidokan}} {{q|female}}, {{t|vo|dokel}}, {{q|older term, obsolete}}
 * Walloon: {{t+|wa|docteur|m}}
 * Yiddish: {{t|yi|דאָקטאָר|m}}
 {{trans-bottom}}
@@ -415,7 +415,7 @@ From {{inh|nl|dum|doctor}}, from {{der|nl|la|doctor||teacher, instructor}}.
 ===Noun===
 {{nl-noun|m|-:en|pl2=-s|doctortje}}
 
-# {{l|en|doctor}} {{gloss|person who has attained a [[doctorate]]}}
+# {{l|en|doctor}} (person who has attained a [[doctorate]])
 
 ====Synonyms====
 * {{l|nl|dr.}}
@@ -456,19 +456,19 @@ From {{suf|la|doceō|tor|t1=I teach}}.
 * {{l|la|doctrīna}}
 
 ====Related terms====
-{{top2}}
-* {{l|la|doceō}}
-* {{l|la|docibilis}}
-* {{l|la|docibilitās}}
-* {{l|la|docilis}}
-* {{l|la|docilitās}}
-{{mid2}}
-* {{l|la|doctē}}
-* {{l|la|doctificus}}
-* {{l|la|doctiusculē}}
-* {{l|la|doctrīnālis}}
-* {{l|la|doctus}}
-{{bottom}}
+{{rel4|la
+|doceō
+|docibilis
+|docibilitās
+|docilis
+|docilitās
+|doctē
+|doctificus
+|doctiusculē
+|doctrīnālis
+|doctus
+}}
+
 
 ====Descendants====
 {{top2}}
@@ -520,7 +520,8 @@ From {{suf|la|doceō|tor|t1=I teach}}.
 * {{desc|lv|doktors|bor=1}}
 * {{desc|lt|daktaras|bor=1}}
 * {{desc|mk|доктор|bor=1}}
-* {{desc|no|doktor|bor=1}}
+* {{desc|nb|doktor|bor=1}}
+* {{desc|nn|doktor|bor=1}}
 * {{desctree|fro|doctur|bor=1}}
 * {{desc|pl|doktor|bor=1}}
 * {{desc|ru|до́ктор|bor=1}} {{see desc}}
