@@ -20,10 +20,13 @@
 ===Etymology 1===
 From {{af|enm|wroot|-en|t2=verbal plural marker}}.
 
+====Alternative forms====
+* {{alter|enm|wroten}}
+
 ====Verb====
 {{head|enm|verb form}}
 
-# {{alt form|enm|wrooten}}
+# {{senseid|enm|wrote}} {{inflection of|enm|writen||p|past|ind}}
 
 ===Etymology 2===
 From {{inh|enm|ang|wrōtan}}, from {{inh|enm|gem-pro|*wrōtaną}}.
@@ -37,7 +40,7 @@ From {{inh|enm|ang|wrōtan}}, from {{inh|enm|gem-pro|*wrōtaną}}.
 ====Verb====
 {{head|enm|verb}}
 
-# To use one's nose or snout to [[rummage]] or [[root]].
+# {{senseid|enm|root}} To use one's nose or snout to [[rummage]] or [[root]].
 # To extract with one's nose or snout; to have [[rooted]].
 # To remove soil, earth, or ground; to dig up.
 # {{lb|enm|rare}} To crawl or slither as a worm.
@@ -45,7 +48,7 @@ From {{inh|enm|ang|wrōtan}}, from {{inh|enm|gem-pro|*wrōtaną}}.
 # {{lb|enm|rare}} To till; to move soil for agriculture.
 
 =====Conjugation=====
-{{enm-conj|type=wkirreg|stem=wrot|10=(y)wroted, *(y)wrot|11= wrotede, wrot|12= *wrotede(n), *wrotte(n)|13= *wrotedest, *wrottest|15= wrotede, wrot|17=wrotede, wrote|18= *wrotede(n), *wrotte(n)}}
+{{enm-conj-wk|wrot|class=ed|class2=te|p_1s2=wrot|p_part2=wrot}}
 
 =====Related terms=====
 * {{l|enm|wrot}}
@@ -56,6 +59,6 @@ From {{inh|enm|ang|wrōtan}}, from {{inh|enm|gem-pro|*wrōtaną}}.
 * {{desc|sco|wrutt}}, {{l|sco|wort}}, {{l|sco|rute}}, {{l|sco|wirt}}, {{l|sco|ruit}}
 
 =====References=====
-* {{R:MED Online|entry=wrọ̄ten (v.) |id=MED53728|accessdate=2018-12-16}}
+* {{R:MED Online|entry=wrọ̄ten|pos=v|id=MED53728|accessdate=2018-12-16}}
 
 [[Category:enm:Agriculture]]
