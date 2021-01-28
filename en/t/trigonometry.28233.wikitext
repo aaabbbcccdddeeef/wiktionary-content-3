@@ -1,13 +1,29 @@
 ==English==
+{{wikipedia}}
 
 ===Etymology===
-From {{etyl|NL.|en}} {{m|la|trigōnometria}}, from {{etyl|grc|en}} {{m|grc|τρίγωνον||triangle}} + {{m|la|-metria||-metry}}.
+From 1610s, from {{etyl|NL.|en}} {{m|la|trigōnometria}}, from {{der|en|grc|τρίγωνον||triangle}} + {{m|grc|μέτρον||measure}}.<ref>{{EtymOnLine}}</ref>
 
 ===Noun===
-{{wikipedia}}
 {{en-noun|~}}
 
-# {{lb|en|mathematics}} The branch of [[mathematics]] that deals with the [[relationship]]s between the [[side]]s and the [[angle]]s of [[triangle]]s and the [[calculation]]s based on them, particularly the [[trigonometric function]]s.
+# {{lb|en|geometry|analysis}} The branch of [[mathematics]] that deals with the [[relationship]]s between the [[side]]s and [[angle]]s of (in particular) [[right-angled triangle]]s, as represented by the [[trigonometric function]]s, and with [[calculation]]s based on said relationships.
+#: {{ux|en|'''Trigonometry''' emerged in the Hellenistic world during the 3rd century BCE from applications of geometry to astronomy; the Greeks focused on the calculation of [[chord]]s, while mathematicians in India created the earliest known tables of values for [[trigonometric function]]s such as [[sine]].}}
+#: {{ux|en|Historically, '''trigonometry''' has been applied in areas such as [[geodesy]], [[surveying]], [[celestial mechanics]] and [[navigation]].}}
+#* '''1892''', Edward Albert Bowser, ''A Treatise on Plane and Spherical '''Trigonometry''''', D. C. Heath & Co., [https://books.google.com.au/books?id=9MlHAAAAIAAJ&pg=PA1&dq=%22trigonometry%22%7C%22trigonometries%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjHp-3-nr7uAhWewjgGHSmtBvcQ6AEwKXoECE0QAg#v=onepage&q=%22trigonometry%22%7C%22trigonometries%22&f=false page 1],
+#*: '''Trigonometry''' was originally the science which treated only of the sides and angles of plane and spherical triangles; but it has been recently extended so as to include the analytic treatment of all theorems involving the consideration of angular magnitudes.
+#* '''2013''', Paul Abbott, Hugh Neill, '''''Trigonometry''': A Complete Introduction'', Hachette, [https://books.google.com.au/books?id=qcGex5aKvF0C&pg=PP8&dq=%22trigonometry%22%7C%22trigonometries%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjHp-3-nr7uAhWewjgGHSmtBvcQ6AEwHHoECD8QAg#v=onepage&q=%22trigonometry%22%7C%22trigonometries%22&f=false unnumbered page],
+#*: In fact, the earliest practical uses of '''trigonometry''' were in the fields of astronomy and hence navigation.
+#* '''2016''', Carl F. Lorenzo, Tom T. Hartley, ''The Fractional '''Trigonometry''''', Wiley, [https://books.google.com.au/books?id=BftNDQAAQBAJ&pg=PA8&dq=%22trigonometry%22%7C%22trigonometries%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjHp-3-nr7uAhWewjgGHSmtBvcQ6AEwD3oECCQQAg#v=onepage&q=%22trigonometry%22%7C%22trigonometries%22&f=false page 8],
+#*: The properties of these new '''trigonometries''' and identities flowing from the definitions are then developed.
+#*: The '''trigonometries''' derived from these generalizations will be jointly termed "The Fractional '''Trigonometry'''."
+
+====Synonyms====
+* {{sense|branch of mathematics}} {{l|en|trig}} {{qualifier|informal|abbreviation}}
+
+====Derived terms====
+* {{l|en|plane trigonometry}}
+* {{l|en|spherical trigonometry}}
 
 ====Related terms====
 * {{l|en|geometry}}
@@ -56,3 +72,12 @@ From {{etyl|NL.|en}} {{m|la|trigōnometria}}, from {{etyl|grc|en}} {{m|grc|τρ�
 * Turkish: {{t+|tr|trigonometri}}
 * Vietnamese: {{t|vi|lượng giác học}}
 {{trans-bottom}}
+
+===Further reading===
+* {{pedialite|Trigonometric functions}}
+* {{pedialite|Trigonometric tables}}
+* {{pedialite|Pythagorean trigonometric identity}}
+* {{pedialite|List of trigonometric identities}}
+
+===References===
+<references />
