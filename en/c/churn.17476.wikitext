@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-Noun from {{inh|en|enm|cherne}}, {{m|enm|chrine}}, {{m|enm|chyrne}}, {{m|enm|kyrne}} ( > Scots {{m|sco|kirn}}), from {{inh|en|ang|ċyrn}}, {{m|ang|ċyrin}}, {{m|ang|ċirin||a churn}}, from {{der|en|gem-pro|*kernǭ||churn}}, verb from {{inh|en|enm|chernen}} from {{inh|en|ang|ċernan}}, from {{der|en|gem-pro|*kirnijaną||to churn, stir}}, of unknown origin. Cognate with {{cog|fy|tsjerne}}, {{cog|nl|karn}}, {{cog|wa|serene}}, {{cog|de|Karn}}, {{m|de|Kirne}}, {{cog|da|kjærne}}, {{cog|sv|kärna}}, {{cog|is|kirna||a churn}}.
+Noun from {{inh|en|enm|cherne}}, {{m|enm|chrine}}, {{m|enm|chyrne}}, {{m|enm|kyrne}} ( > Scots {{m|sco|kirn}}), from {{inh|en|ang|ċyrn}}, {{m|ang|ċyrin}}, {{m|ang|ċirin||churn}}, from {{der|en|gem-pro|*kernǭ||churn}}; verb from {{inh|en|enm|chernen}} from {{inh|en|ang|ċernan}}, from {{der|en|gem-pro|*kirnijaną||to churn, stir}}, of unknown origin. Cognate with {{cog|fy|tsjerne}}, {{cog|nl|karn}}, {{cog|wa|serene}}, {{cog|de|Karn}}, {{m|de|Kirne}}, {{cog|da|kjærne}}, {{cog|sv|kärna}}, {{cog|is|kirna}}.
 
 ===Pronunciation===
 * {{a|UK}} {{enPR|chû(r)n}}, {{IPA|en|/tʃɜː(ɹ)n/}}
@@ -34,7 +34,7 @@ Noun from {{inh|en|enm|cherne}}, {{m|enm|chrine}}, {{m|enm|chyrne}}, {{m|enm|kyr
 * Chinese:
 *: Mandarin: {{t+|cmn|攪}}, {{t+|cmn|搅|tr=jiǎo}}
 * Czech: {{t|cs|stloukat|impf}}, {{t|cs|stlouci|pf}}
-* Dutch: {{t+|nl|karnen}} {{qualifier|butter}}, {{t+|nl|agiteren}}, {{qualifier|fluid}}, {{t+|nl|klutsen}}
+* Dutch: {{t+|nl|karnen}} {{q|butter}}, {{t+|nl|agiteren}}, {{q|fluid}}, {{t+|nl|klutsen}}
 * Faroese: {{t|fo|kirna}}
 * Finnish: {{t+|fi|kirnuta}}
 * French: {{t+|fr|baratter}}
@@ -47,9 +47,9 @@ Noun from {{inh|en|enm|cherne}}, {{m|enm|chrine}}, {{m|enm|chyrne}}, {{m|enm|kyr
 * Maori: {{t|mi|pīkari}}
 * Norman: {{t|nrf|pêtri}}
 * Portuguese: {{t+|pt|agitar}}, {{t+|pt|bater}}
-* Russian: {{qualifier|creamy substance}} {{t+|ru|взбива́ть|impf}}, {{t+|ru|взбить|pf}}, {{qualifier|liquid}} {{t+|ru|взба́лтывать|impf}}, {{t+|ru|взболта́ть|pf}}, {{qualifier|butter}} {{t+|ru|сбива́ть|impf}}, {{t+|ru|сбить|pf}}
+* Russian: {{t+|ru|взбива́ть|impf}} {{q|creamy substance}}, {{t+|ru|взбить|pf}}, {{t+|ru|взба́лтывать|impf}} {{q|liquid}}, {{t+|ru|взболта́ть|pf}}, {{t+|ru|сбива́ть|impf}} {{q|butter}}, {{t+|ru|сбить|pf}}
 * Slovak: {{t|sk|tĺcť}}, {{t|sk|stĺkať}}
-* Spanish: {{t+|es|batir}} {{gloss|butter}}, {{t+|es|agitar}} {{gloss|water}}
+* Spanish: {{t+|es|batir}} {{q|butter}}, {{t+|es|agitar}} {{q|water}}
 * Swedish: {{t+|sv|kärna}}
 * Telugu: {{t+|te|చిలుకు}}
 * Welsh: {{t+|cy|corddi}}
@@ -90,16 +90,17 @@ Noun from {{inh|en|enm|cherne}}, {{m|enm|chrine}}, {{m|enm|chyrne}}, {{m|enm|kyr
 #*: {{quote|en|I wished my brain would shut up and knew that soon I'd have to start tidying, but first I needed to rest, so I tried to quell the pointless '''churn''' behind my eyes and kept on trying (in a minute) until Vicky came back home.}}
 
 ====Derived terms====
+* {{l|en|butter churn}}
 * {{l|en|churn rate}}
 * {{l|en|milk churn}}
 
 ====Translations====
 {{trans-top|vessel for churning}}
 * Albanian: {{t+|sq|dybek}}, {{t|sq|dylbek}}
-* Armenian: {{t+|hy|խնոցի}}, {{t+|hy|ձձում}} {{qualifier|dialectal}}
+* Armenian: {{t+|hy|խնոցի}}, {{t+|hy|ձձում}} {{q|dialectal}}
 * Azerbaijani: {{t|az|nehrə}}
 * Bulgarian: {{t|bg|буталка|f}}
-* Catalan: {{t|ca|manteguera|f}} {{qualifier|for butter}}, {{t|ca|lletera|f}} {{qualifier|for milk}}
+* Catalan: {{t|ca|manteguera|f}} {{q|for butter}}, {{t|ca|lletera|f}} {{q|for milk}}
 * Chinese:
 *: Mandarin: {{t|cmn|攪乳器}}, {{t|cmn|搅乳器|tr=jiǎorǔqì|sc=Hani}}
 * Danish: {{t|da|kjerne}}
@@ -107,7 +108,7 @@ Noun from {{inh|en|enm|cherne}}, {{m|enm|chrine}}, {{m|enm|chyrne}}, {{m|enm|kyr
 * Finnish: {{t+|fi|kirnu}}
 * French: {{t+|fr|baratte|f}}
 * Georgian: {{t|ka|სადღვებელი}}
-* German: {{t|de|Rührtrommel|f}}, {{t+|de|Butterfass|n}}, {{t|de|Butterfertiger|m}}, {{t+|de|Kerne|f}}
+* German: {{t|de|Rührtrommel|f}}, {{t+|de|Butterfass|n}}, {{t+|de|Butterfaß|n}} {{}}q|obsolete spelling, {{t|de|Butterfertiger|m}}, {{t+|de|Kerne|f}}
 *: Alemannic German: {{t|gsw|Niidleblääjer}}
 * Hebrew: {{t|he|נטישה|sc=Hebr}}
 * Icelandic: {{t|is|kirna|f}}
@@ -127,10 +128,10 @@ Noun from {{inh|en|enm|cherne}}, {{m|enm|chrine}}, {{m|enm|chyrne}}, {{m|enm|kyr
 * Portuguese: {{t|pt|batedeira|f}}
 * Romanian: {{t+|ro|putinei|n}}
 * Russian: {{t+|ru|маслобо́йка|f}}
-* Spanish: {{t|es|mantequera|f}} {{gloss|butter}}, {{t+|es|lechera|f}} {{gloss|milk}}
+* Spanish: {{t|es|mantequera|f}} {{q|butter}}, {{t+|es|lechera|f}} {{q|milk}}
 * Swedish: {{t+|sv|kärna|c}}
 * Udi: {{t|udi|буйкӏал}}, {{t|udi|хноцӏи}}
-* Walloon: {{t+|wa|serene|f}} {{qualifier|with wooden leg}}, {{t|wa|toûnwere|f}} {{qualifier|with crank}}, {{t|wa|bourtea|m}} {{qualifier|any system}}
+* Walloon: {{t+|wa|serene|f}} {{q|with wooden leg}}, {{t|wa|toûnwere|f}} {{q|with crank}}, {{t|wa|bourtea|m}} {{q|any system}}
 * Welsh: {{t|cy|buddai|f}}
 * West Frisian: {{t|fy|tsjerne|c}}
 {{trans-bottom}}
