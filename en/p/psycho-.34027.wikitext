@@ -2,14 +2,14 @@
 ==English==
 
 ===Alternative forms===
-* {{l|en|psych-}} (before a vowel)
+* {{alter|en|psych-||before a vowel}}
 
 ===Pronunciation===
 * {{a|UK|AU}} {{IPA|en|/ˈsaɪ̯.kəʊ̯/|}}
 * {{a|US|CA}} {{IPA|en|/ˈsaɪ̯.koʊ̯/}}
 
 ===Etymology===
-From {{etyl|grc|en}} {{m|grc|ψυχή||soul}}
+From {{der|en|grc|ψυχή|t=soul}}.
 
 ===Prefix===
 {{en-prefix}}
@@ -20,7 +20,7 @@ From {{etyl|grc|en}} {{m|grc|ψυχή||soul}}
 
 ====Derived terms====
 {{prefixsee|en}}
-{{der3|en|psychoclinical
+{{col4|en
 |psychonarration
 |psychonarrative
 |psychoverbal
@@ -56,7 +56,7 @@ From {{etyl|grc|en}} {{m|grc|ψυχή||soul}}
 ==Czech==
 
 ===Etymology===
-From {{der|cs|grc|ψυχή||soul}}
+From {{der|cs|grc|ψυχή|t=soul}}.
 
 ===Pronunciation===
 * {{cs-IPA}}
@@ -71,7 +71,7 @@ From {{der|cs|grc|ψυχή||soul}}
 
 ===Related terms===
 <!-- from AGr. ψυχή, keeping derived terms of psycho- only in DT -->
-{{rel3
+{{col4
 |cs|psýcha
 |Psýché
 |psychiatr
@@ -93,7 +93,7 @@ From {{der|cs|grc|ψυχή||soul}}
 ==Dutch==
 
 ===Etymology===
-From {{der|nl|grc|ψυχή||soul}}
+From {{der|nl|grc|ψυχή|t=soul}}.
 
 ===Pronunciation===
 * {{audio|nl|Nl-psycho-.ogg|Audio}}
@@ -103,6 +103,7 @@ From {{der|nl|grc|ψυχή||soul}}
 
 # {{l|en|psycho-}}
 
+====Derived terms====
 {{prefixsee|nl}}
 
 ----
@@ -110,7 +111,10 @@ From {{der|nl|grc|ψυχή||soul}}
 ==French==
 
 ===Etymology===
-From {{etyl|grc|fr}} {{m|grc|ψυχή||soul}}
+From {{der|fr|grc|ψυχή|t=soul}}.
+
+===Pronunciation===
+* {{IPA|fr|/psi.kɔ/}}
 
 ===Prefix===
 {{fr-prefix}}
@@ -118,25 +122,23 @@ From {{etyl|grc|fr}} {{m|grc|ψυχή||soul}}
 # {{l|en|psycho-}}
 
 ====Derived terms====
-{{der-top|psycho-}}
-* {{l|fr|psychiatre}}
-* {{l|fr|psychiatrie}}
-* {{l|fr|psychologie}}
-* {{l|fr|psychologique}}
-* {{l|fr|psychologue}}
-* {{l|fr|psychothérapeute}}
-* {{l|fr|psychothérapie}}
-{{der-bottom}}
+{{prefixsee|fr}}
+{{col4|fr
+|psychiatrie
+|psychologie
+|psychologique
+|psychologue
+}}
 
 ----
 
 ==German==
 
 ===Alternative forms===
-* {{l|en|psych-}} {{q|before a vowel}}
+* {{alter|en|psych-||before a vowel}}
 
 ===Etymology===
-Ultmimately from {{der|de|grc|ψυχή||soul}}.
+Ultimately from {{der|de|grc|ψυχή|t=soul}}.
 
 ===Pronunciation===
 * {{IPA|de|/ˈpsy(ː)ço/}}
@@ -161,6 +163,9 @@ Ultmimately from {{der|de|grc|ψυχή||soul}}.
 ----
 
 ==Polish==
+
+===Etymology===
+From {{der|pl|grc|ψυχή|t=soul}}.
 
 ===Prefix===
 {{head|pl|prefix}}
