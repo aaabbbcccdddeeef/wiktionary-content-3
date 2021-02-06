@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-Borrowed from {{bor|en|fro|damage}} (Modern French {{m|fr|dommage}}), from {{der|en|VL.|*damnaticum}} from Classical {{der|en|la|damnum}}.
+From {{inh|en|enm|damage}}, from {{der|en|fro|damage}} (Modern French {{m|fr|dommage}}), from {{der|en|VL.|*damnaticum}} from Classical {{der|en|la|damnum}}.
 
 ===Pronunciation===
 * {{IPA|en|/ˈdæmɪdʒ/}}
@@ -236,6 +236,37 @@ Currently it is only used as an uncountable noun,<ref>[https://dictionary.cambri
 
 ----
 
+==Middle English==
+
+===Alternative forms===
+* {{alter|enm|dampnage|dammage|domage|damege}}
+
+===Etymology===
+From {{bor|en|fro|damage}}, from {{der|en|VL.|*damnaticum}}.
+
+===Pronunciation===
+* {{IPA|enm|/damˈaːdʒ(ə)/|/dɔmˈaːdʒ(ə)/|/ˈdamadʒ(ə)/}}
+
+===Noun===
+{{enm-noun|damages}}
+
+# {{l|en|damage}}, [[harm]], [[injury]] 
+# {{l|en|loss}} {{gloss|of reputation, etc.}}
+# {{lb|enm|rare}} [[disability]], [[weakness]]
+# {{lb|enm|law|often|plural}} [[damages]] {{gloss|compensation for loss}}
+
+====Related terms====
+* {{l|enm|damagen}}
+
+====Descendants====
+* {{desc|en|damage}}
+* {{desc|sco|damage}}
+
+====References====
+* {{R:MED Online|damāǧe|n|MED10511}}
+
+----
+
 ==Old French==
 
 ===Etymology===
@@ -253,6 +284,6 @@ From {{inh|fro|VL.|*damnaticum}} from Classical {{inh|fro|la|damnum}}. Cognate w
 ====Descendants====
 * {{desc|fr|dommage}}
 * {{desc|nrf|dommage}}
-* {{desc|bor=1|en|damage}}
+* {{desctree|bor=1|enm|damage}}
 * {{desc|bor=1|ga|damáiste}}
 * {{desc|bor=1|scn|damaggiu}}
