@@ -1,37 +1,35 @@
 ==English==
 
 ===Alternative forms===
-* {{l|en|evangelise}} ''(not US)''
+* {{alter|en|evangelise||not US}}
 
 ===Etymology===
-From {{etyl|fro|en}} {{m|la|évangéliser}}, from {{etyl|la|en}} {{m|la|evangelizare}}, from {{etyl|grc|en}} {{m|grc|εὐαγγελίζω}}
+From {{der|en|fro|évangéliser}}, from {{der|en|LL.|evangelizare}}, from {{der|en|grc|εὐαγγελίζω}}
 
 ===Verb===
 {{en-verb}}
 
 # To tell people about (a particular branch of) [[Christianity]], especially in order to [[convert]] them; to [[preach]] the [[gospel]] to.
 #* {{RQ:Milton Paradise Lost|X|url=https://books.google.com/books?id=F08CAAAAQAAJ&pg=PP369|lines=1389–1390|text=his Apoſtles, whom he ſends To '''evangelize''' the Nations}}
+#: {{hyper|en|proselytize}}
 # To preach any ideology to those who have not yet been converted to it.
 #* '''2002''', Ergun Mehmet Caner, Emir Fethi Caner, ''Unveiling Islam: An Insider's Look at Muslim Life and Beliefs'', page 11:
 #*: {{...}} nor is it the task of the Muslim to '''"evangelize"''' the unbelieving world.
+#: {{syn|en|proselytize}}
 # To be [[enthusiastic]] about something, and to attempt to share that enthusiasm with others; to [[promote]].
 
-====Synonyms====
-* {{sense|preach any ideology}} {{l|en|proselytize}}
-
-====Hypernyms====
-* {{sense|tell people about Christianity}} {{l|en|proselytize}}
-
 ====Related terms====
-* {{l|en|angel}}
-* {{l|en|evangelism}}
-* {{l|en|evangelist}}
+{{col3|en
+|angel
+|evangelism
+|evangelist
+}}
 
 ====Translations====
 {{trans-top|tell people about Christianity}}
 * Arabic: {{t+|ar|بَشَّرَ}}
 * Catalan: {{t+|ca|evangelitzar}}
-* Dutch: {{t+|nl|evangeliseren}}, uitdragen van de [[blijde boodschap]]
+* Dutch: {{t+|nl|evangeliseren}}, {{t|nl|uitdragen van de [[blijde boodschap]]}}
 * Esperanto: {{t|eo|evangelizi}}
 * Finnish: {{t|fi|evankelioida}}
 * French: {{t+|fr|évangéliser}}
@@ -48,3 +46,12 @@ From {{etyl|fro|en}} {{m|la|évangéliser}}, from {{etyl|la|en}} {{m|la|evangeli
 * Spanish: {{t+|es|evangelizar}}
 * Swedish: {{t|sv|evangelisera}}
 {{trans-bottom}}
+
+----
+
+==Portuguese==
+
+===Verb===
+{{head|pt|verb form}}
+
+# {{pt-verb-form-of|evangelizar}}
