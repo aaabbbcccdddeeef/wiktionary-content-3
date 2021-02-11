@@ -41,9 +41,7 @@
 {{defdate|1525}} From the {{m|hu||fen}} variant of {{af|hu|fenn|-t|t1=above|pos2=locative suffix}}.<ref>{{R:Zaicz 2006}}</ref>
 
 ====Alternative forms====
-* {{l|hu|fönt}}
-* {{l|hu|fenn}}
-* {{l|hu|fönn}}
+* {{alter|hu|fönt|fenn|fönn}}
 
 ====Adverb====
 {{hu-adv|fent|ebb}}
@@ -73,10 +71,18 @@
 # {{participle of|hu|fen||past}}
 #: {{uxi|hu|Ez egy élesre '''fent''' kés.|It is a knife '''whetted''' sharp.}}
 
+===Etymology 3===
+{{affix|hu|fen|id1=currency|t1=fen|pos1=Chinese monetary subunit|-t|id2=accusative|pos2=accusative suffix|nocat=y}}
+
+====Noun====
+{{head|hu|noun form}}
+
+# {{inflection of|hu|fen|id=currency||acc|s}}
+
 ===References===
 <references/>
 
 ===Further reading===
 * {{R:ErtSz}}
 
-{{cln|hu|terms with lemma and non-lemma form etymologies|terms with adverb and verb form etymologies}}
+{{cln|hu|terms with lemma and non-lemma form etymologies|terms with adverb and verb form etymologies|terms with multiple non-lemma form etymologies|terms with adverb and noun form etymologies| terms with noun form and verb form etymologies}}
