@@ -126,7 +126,11 @@ From {{inh|en|enm|long}}, {{m|enm|lang}}, from {{inh|en|ang|long}}, {{m|ang|lang
 }}
 
 =====Translations=====
-See {{section link|long/translations#Adjective}}
+{{see translation subpage|Adjective}}
+
+=====See also=====
+* {{l|en|broad}}
+* {{l|en|wide}}
 
 ====Noun====
 {{en-noun}}
@@ -137,9 +141,9 @@ See {{section link|long/translations#Adjective}}
 # {{lb|en|prosody}} A long [[syllable]].
 # {{lb|en|music}} A [[note]] formerly used in music, one half the length of a [[large]], twice that of a [[breve]].
 # {{lb|en|programming}} A long [[integer]] variable, twice the size of an [[int]], two or four times the size of a [[short]], and half of a [[long long]].
-#: ''A '''long''' is typically 64 [[bit]]s in a 32-bit environment.''
+#: {{ux|en|A '''long''' is typically 64 [[bit]]s in a 32-bit environment.}}
 # {{lb|en|finance}} An entity with a long position in an asset.
-#: ''Every uptick made the '''longs''' cheer.''
+#: {{ux|en|Every uptick made the '''longs''' cheer.}}
 # {{lb|en|finance}} A long-term investment.
 #* '''1977''', Jerome B. Cohen, Edward D. Zinbarg, Arthur Zeikel, ''Guide to Intelligent Investing'' (page 203)
 #*: Likewise, if borrowers prefer to sell short-maturity issues at the time lenders prefer to invest in '''longs''', as is the case when interest rates are expected to fall, longer maturity issues will tend to yield less than shorter maturity issues.
@@ -151,10 +155,6 @@ See {{section link|long/translations#Adjective}}
 
 # {{lb|en|transitive|finance}} To take a long position in.
 #* {{quote-book|en|title=The Oxford Guide to Financial Modeling|page=84|author=Thomas S. Y. Ho|coauthors=Sang Bin Lee, Sang-bin Yi|year=2004|passage=The left panel shows the profile of a portfolio consisting of longing a call and shorting a put.}}
-
-=====See also=====
-* {{l|en|broad}}
-* {{l|en|wide}}
 
 ===Etymology 2===
 From {{inh|en|enm|longe}}, {{m|enm|lange}}, from {{inh|en|ang|longe}}, {{m|ang|lange}}, from the adjective (see above).
@@ -174,7 +174,7 @@ From {{inh|en|enm|longe}}, {{m|enm|lange}}, from {{inh|en|ang|longe}}, {{m|ang|l
 #: {{ux|en|Will this interview take '''long'''?}}
 #: {{ux|en|Paris has '''long''' been considered one of the most cultured cities in the world.}}
 #: {{ux|en|She has known us as '''long''' as you}}
-#: ''I haven't '''long''' to live''.
+#: {{ux|en|I haven't '''long''' to live.}}
 #* {{RQ:Spenser Faerie Queene|year=1596.2|book=VI|canto=XII|stanza=17|page=512|passage= My liefe (ſayd ſhe) ye know, that '''long''' ygo, / Whileſt ye in durance dwelt, ye to me gaue / A little mayde, the which ye chylded tho ; / The ſame againe if now ye liſt to haue, / The ſame is yonder Lady, whom high God did ſaue.}}
 #* {{RQ:Shakespeare Hamlet|act=I|scene=iii|page=156|column=1|passage=I ſtay too '''long'''&#8239;; but here my Father comes&#8239;:&nbsp;/ A double bleſſing is a double grace;&nbsp;/ Occaſion ſmiles vpon a ſecond leaue.}}
 #* {{quote-book|en|year=1922|author={{w|Michael Arlen}}|title=[http://openlibrary.org/works/OL1519647W “Piracy”: A Romantic Chronicle of These Days]|chapter=Ep./4/2
@@ -193,7 +193,7 @@ From {{inh|en|enm|longe}}, {{m|enm|lange}}, from {{inh|en|ang|longe}}, {{m|ang|l
 * {{sense|for a long duration}} an [[instant]], a [[minute]], a [[moment]], a [[second]], a short [[time]], not long
 
 =====Translations=====
-See {{section link|long/translations#Adverb}}
+{{see translation subpage|Adverb}}
 
 =====See also=====
 * {{l|en|far}}
@@ -223,7 +223,7 @@ From {{inh|en|enm|longen}}, from {{inh|en|ang|langian||to long for, yearn after,
 * {{l|en|longing}}<!--noun-->
 
 =====Translations=====
-See {{section link|long/translations#Verb}}
+{{see translation subpage|Verb}}
 
 ===Etymology 4===
 From {{inh|en|enm|long}}, {{m|enm|lang}}, an aphetic form of {{der|en|enm|ilong}}, {{m|enm|ylong}}, from {{inh|en|ang|ġelong}}, {{m|ang|ġelang|t=along, belonging, depending, consequent}}; the verb later reinterpreted as an aphetic form of {{m|en|belong}}.
@@ -258,7 +258,7 @@ Shortening of [[longitude]]
 ===Etymology 6===
 From {{inh|en|enm|longen}}, from {{inh|en|ang|langian|t=to belong, pertain}}, from {{der|en|ang|*lang}}, which is of uncertain origin yet related to {{cog|ang|ġelang|t=dependent, attainable, present, belonging, consequent}}, {{cog|osx|gilang|t=ready, available}}.
 
-===Verb===
+====Verb====
 {{en-verb}}
 
 # {{lb|en|obsolete}} To [[belong]].
