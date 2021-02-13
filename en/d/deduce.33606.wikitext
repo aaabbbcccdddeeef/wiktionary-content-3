@@ -1,39 +1,40 @@
 ==English==
+{{was wotd|2021|February|24}}
 
 ===Etymology===
 {{root|en|ine-pro|*dewk-}}
-Borrowed from {{bor|en|la|dēdūcere}}, present active infinitive of {{m|la|dēdūcō||lead from, escort}}; from {{m|la|dē-||of, from}} + {{m|la|dūcō||lead, pull}}.
+From Late {{inh|en|enm|deducen|t=to demonstrate, prove, show; to argue, infer; to bring, lead; to turn (something) to a use; to deduct}},<ref>{{R:MED Online|entry=dēdūcen|pos=v|id=MED10771}}</ref> borrowed from {{bor|en|la|dēdūcere}}, the {{glossary|present}} {{glossary|active}} {{glossary|infinitive}} of {{m|la|dēdūcō|t=to lead or bring out or away; to accompany, conduct, escort; (''figuratively'') to derive, discover, deduce}}; from {{m|la|dē-|pos={{glossary|prefix}} meaning ‘from, away from’}} + {{m|la|dūcere}} (the present active infinitive of {{m|la|dūcō|t=to conduct, guide, lead; to draw, pull; to consider, regard, think}}, ultimately from {{der|en|ine-pro|*dewk-|t=to lead; to draw, pull}}).<ref>Compare {{R:OED Online|pos=v|id=48578|date=1894|nodot=1}}; {{R:Lexico|pos=v}}</ref>
 
 ===Pronunciation===
-* {{a|UK}} {{IPA|en|/dɪˈdjuːs/}}, {{IPA|en|/dɪˈdʒuːs/}}
-* {{a|US}} {{IPA|en|/dɪˈduːs/}}
-* {{audio|en|en-us-deduce.ogg|Audio (US)}}
+* {{a|RP}} {{IPA|en|/dɪˈdjuːs/}}, {{IPA|en|/dɪˈdʒuːs/}}
+* {{a|GA}} {{IPA|en|/dɪˈd(j)us/|/də-/}}
+* {{audio|en|En-us-deduce.ogg|Audio (GA)}}
 * {{rhymes|en|uːs}}
+* {{hyphenation|en|de|duce}}
 
 ===Verb===
 {{en-verb}}
 
-# {{lb|en|transitive}} To reach a [[conclusion]] by applying rules of [[logic]] to given [[premises]].
+# {{lb|en|transitive}} To [[reach#Verb|reach]] (a [[conclusion]]) by [[apply]]ing [[rule#Noun|rules]] of [[logic]] or other [[form#Noun|forms]] of [[reasoning#Noun|reasoning]] to [[given#Adjective|given]] [[premises]] or [[known#Adjective|known]] [[fact]]s.
+#: {{synonyms|en|conclude|infer}}
+#: {{antonyms|en|induce}}
 #* '''1703''', {{w|Alexander Pope}}, ''Thebais''
 #*: O goddess, say, shall I '''deduce''' my rhimes / From the dire nation in its early times?
 #* {{RQ:Locke Human}}
 #*: Reason {{...}} is nothing but the faculty of '''deducing''' unknown truths from principles or propositions that are already known.
 #* {{RQ:Scott Peveril|passage=See what regard there will be paid to the old pedigree that '''deduces''' your descent from kings and conquerors.}}
-# {{lb|en|obsolete}} To [[take away]]; to [[deduct]]; to [[subtract]].
+# {{lb|en|transitive}} To [[examine]], [[explain]], or [[record#Verb|record]] (something) in an [[orderly]] [[manner]].
+# {{lb|en|transitive|archaic}} To [[obtain]] (something) from some [[source#Noun|source]]; to [[derive]].
+# {{lb|en|intransitive|archaic}} To be derived or obtained from some source.
+# {{lb|en|transitive|obsolete}} To [[take away]] (something); to [[deduct]], to [[subtract]] (something).
 #: {{ux|en|to '''deduce''' a part from the whole}}
 #* {{RQ:Jonson Staple of News}}
 #*: I have '''deduced''' her
-# {{lb|en|obsolete|Latinism}} To [[lead]] [[forth]].
+# {{lb|en|transitive|obsolete|based on the Latin word}} To [[lead#Verb|lead]] (something) [[forth]].
 #* {{RQ:Drayton Poly-Olbion|chapter=The Third Song|part=Illustrations|page=51|passage=''Richard'' of the ''Vies'' will that ''[[w:Penda of Mercia|Penda]]'', K[ing] of ''Mereland'', firſt '''deduced''' a colony of ''Cambridge'' men hither and cals it ''Crekelade'', as other ''Kirklade'' with variety of names: [...]}}
 
 ====Usage notes====
-* For example, from the premises "all good people believe in the tooth fairy" and "Jimmy does not believe in the tooth fairy", we deduce the conclusion "Jimmy is not a good person". This particular form of deduction is called a [[syllogism]]. Note that in this case we reach a false conclusion by correct deduction from a false premise.
-
-====Synonyms====
-* {{sense|reach a conclusion by applying rules of logic}} {{l|en|conclude}}, {{l|en|infer}}
-
-====Antonyms====
-* {{sense|reach a conclusion by applying rules of logic}} {{l|en|induce}}
+* Regarding sense 1 (“to reach (a conclusion)”), for example, from the premises “all good people believe in the tooth fairy” and “Jimmy does not believe in the tooth fairy”, we deduce the conclusion “Jimmy is not a good person”. This particular form of deduction is called a [[syllogism]]. Note that in this case we reach a false conclusion by correct deduction from a false premise.
 
 ====Related terms====
 {{rel-top|terms related to "deduce"}}
@@ -54,12 +55,12 @@ Borrowed from {{bor|en|la|dēdūcere}}, present active infinitive of {{m|la|dēd
 {{rel-bottom}}
 
 ====Translations====
-{{trans-top|reach conclusion by logic}}
+{{trans-top|to reach (a conclusion) by applying rules of logic or other forms of reasoning}}
 * Arabic: {{t|ar|إِسْتَنْتَجَ}}
 * Bulgarian: {{t+|bg|заключавам}}
 * Catalan: {{t+|ca|deduir}}
 * Chinese:
-*: Mandarin: {{t+|cmn|演繹|sc=Hani}}, {{t+|cmn|演绎|tr=yǎnyì|sc=Hani}}, {{t+|cmn|推理|tr=tuīlǐ|sc=Hani}}, {{t+|cmn|推斷|sc=Hani}}, {{t+|cmn|推断|tr=tuīduàn|sc=Hani}}
+*: Mandarin: {{t+|cmn|演繹}}, {{t+|cmn|演绎|tr=yǎnyì}}, {{t+|cmn|推理|tr=tuīlǐ}}, {{t+|cmn|推斷}}, {{t+|cmn|推断|tr=tuīduàn}}
 * Czech: {{t|cs|vyvodit}}
 * Dutch: {{t+|nl|afleiden}}, {{t+|nl|deduceren}}
 * Finnish: {{t+|fi|johtaa}}, {{t+|fi|päätellä}}, {{t|fi|[[vetää]] [[johtopäätös]]}}
@@ -71,13 +72,29 @@ Borrowed from {{bor|en|la|dēdūcere}}, present active infinitive of {{m|la|dēd
 * Italian: {{t+|it|dedurre}}
 * Maori: {{t|mi|hīkaro}}
 * Mizo: {{t|lus|chhuidawn}}
-* Persian: {{t|fa|استنتاج کردن|sc=fa-Arab}}
+* Persian: {{t|fa|استنتاج کردن}}
 * Portuguese: {{t+|pt|deduzir}}
 * Russian: {{t+|ru|де́лать вы́вод|impf}}, {{t|ru|сде́лать вы́вод|pf}}
 * Spanish: {{t+|es|deducir}}
 * Swedish: {{t+|sv|deducera}}, {{t+|sv|härleda}}
 * Vietnamese: {{t+|vi|suy đoán }}; {{t+|vi|suy lý }}
 {{trans-bottom}}
+
+{{trans-top|to examine, explain, or record (something) in an orderly manner}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|to obtain (something) from some source|derive}}
+
+{{trans-top|to be derived or obtained from some source}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{pedia|deductive reasoning}}
 
 ===Anagrams===
 * {{anagrams|en|a=cddeeu|deuced|educed}}
