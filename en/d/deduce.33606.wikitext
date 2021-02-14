@@ -18,14 +18,19 @@ From Late {{inh|en|enm|deducen|t=to demonstrate, prove, show; to argue, infer; t
 # {{lb|en|transitive}} To [[reach#Verb|reach]] (a [[conclusion]]) by [[apply]]ing [[rule#Noun|rules]] of [[logic]] or other [[form#Noun|forms]] of [[reasoning#Noun|reasoning]] to [[given#Adjective|given]] [[premises]] or [[known#Adjective|known]] [[fact]]s.
 #: {{synonyms|en|conclude|infer}}
 #: {{antonyms|en|induce}}
+#* {{RQ:Bacon Learning|book=2|folio=110|verso=1|passage=[T]hoſe principles or firſt poſitions, have no diſcordance with that reaſon, which draweth downe and '''diduceth''' the inferiour poſitions.}}
+#* {{quote-journal|en|author=[John] Wallis|authorlink=John Wallis|title=A Discourse Concerning the Air’s Gravity, Observd in the Baroscope, Occasioned by that of Dr. [[w:George Garden (minister)|[''George''] ''Garden'']];{{nb...|Presented to the Phil. Soc. of Oxford, by the Reverend Dr. Wallis, President of that Society. April 14, 1685 [Julian calendar].}}|journal=[[w:Philosophical Transactions of the Royal Society|Philosophical Transactions: Giving Some Accompt of the Present Undertakings, Studies and Labours of the Ingenious in Many Considerable Parts of the World]]|location=Oxford, Oxfordshire|publisher={{...|Printed at the Theater in Oxford, for}} Sam[uel] Smith {{nb...|at the Prince’s Arms in Paul’s Church-yard London}}; and Hen[ry] Clements{{nb...|Book-seller in Oxford.}}|date=24 April 1685<!--Gregorian calendar-->|year_published=20 May 1685 &#91;[[Julian calendar]]; 30 May 1685&#93;|volume=XV|issue=171|page=1007|pageurl=https://books.google.com/books?id=NNNeAAAAcAAJ&pg=PA1007|doi=10.1098/rstl.1685.0033|oclc=630046584|passage=From the comparative weight or lightneſs of the ''Air'' at different times, he '''deduceth''' alſo the riſing and falling of Vapours in it.}}
+#* {{RQ:Locke Human Understanding|chapter=No Innate Principles in the Mind|section=9|page=6|passage=But how then can thoſe Men think the ''uſe of Reaſon'' neceſſary to diſcover Principles that are ſupposed innate, when Reaſon (if we may believe them) is nothing elſe, but the Faculty of '''deducing''' unknown Truths from Principles or Propoſitions, that are already known?}}
 #* '''1703''', {{w|Alexander Pope}}, ''Thebais''
 #*: O goddess, say, shall I '''deduce''' my rhimes / From the dire nation in its early times?
-#* {{RQ:Locke Human}}
-#*: Reason {{...}} is nothing but the faculty of '''deducing''' unknown truths from principles or propositions that are already known.
-#* {{RQ:Scott Peveril|passage=See what regard there will be paid to the old pedigree that '''deduces''' your descent from kings and conquerors.}}
 # {{lb|en|transitive}} To [[examine]], [[explain]], or [[record#Verb|record]] (something) in an [[orderly]] [[manner]].
+#* {{RQ:Howell Epistolae|chapter=XXIX. To the Right Honourable Sir ''Peter Wichts'', Lord Ambassador at Constantinople.|date=5 June 1635|pages=249–250|pageref=250|passage=It ſeems there is ſome angry Star that hath hung over this Buſineſs of the ''Palatinate'' from the beginning of theſe ''German'' Wars to this very Day, which will too evidently appear, if one ſhould mark and '''deduce''' Matters from their firſt Riſe.}}
+#* {{RQ:Thomson Spring|page=23|lines=573–578|passage=Lend me your ſong, ye nightingales! oh pour / The mazy-running ſoul of melody / Into my varied verſe! while I '''deduce''', / From the firſt note the hollow cuckoo ſings, / The ſymphony of Spring, and touch a theme / Unknown to fame, ''the Paſſion of the groves''.}}
+#* {{RQ:Gibbon Roman Empire|volume=I|chapter=Reign of Claudius.—Defeat of the Goths.—Victories, Triumph, and Death of Aurelian.|page=296|passage=The general deſign of this work will not permit us minutely to relate the actions of every emperor after he aſcended the throne, much leſs '''deduce''' the various fortunes of his private life.}}
+#* {{RQ:Scott Peveril of the Peak|volume=II|chapter=I|page=26|passage=If you leave this Isle, and got to the court of England, see what regard there will be paid to the old pedigree that '''deduces''' your descent from kings and conquerors.}}
 # {{lb|en|transitive|archaic}} To [[obtain]] (something) from some [[source#Noun|source]]; to [[derive]].
 # {{lb|en|intransitive|archaic}} To be derived or obtained from some source.
+#* {{RQ:Blackstone Commentaries|book=II|chapter=Of Title by Purchase, and First by Escheat|page=256|passage=[B]y the ſtatute 7 Ann. c. 21 {{...}} it is enacted, that, after the death of the pretender, and his ſons, no attainder for treaſon ſhall extend to the diſinheriting any heir, nor the prejudice of any perſon, other than the offender himſelf: which proviſions have indeed carried the remedy farther, than was required by the hardſhip above complained of; which is only the future obſtruction of deſcents, where the pedigree happens to be '''deduced''' through the blood of an attainted anceſtor.}}
 # {{lb|en|transitive|obsolete}} To [[take away]] (something); to [[deduct]], to [[subtract]] (something).
 #: {{ux|en|to '''deduce''' a part from the whole}}
 #* {{RQ:Jonson Staple of News}}
@@ -35,6 +40,9 @@ From Late {{inh|en|enm|deducen|t=to demonstrate, prove, show; to argue, infer; t
 
 ====Usage notes====
 * Regarding sense 1 (“to reach (a conclusion)”), for example, from the premises “all good people believe in the tooth fairy” and “Jimmy does not believe in the tooth fairy”, we deduce the conclusion “Jimmy is not a good person”. This particular form of deduction is called a [[syllogism]]. Note that in this case we reach a false conclusion by correct deduction from a false premise.
+
+====Conjugation====
+{{en-conj-simple|stem=deduc}}
 
 ====Derived terms====
 * {{l|en|deducement}} {{qualifier|obsolete}}
