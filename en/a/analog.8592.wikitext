@@ -166,9 +166,13 @@ Early 19th century; from {{etyl|fr|en}} {{m|fr|analogue}}, from {{etyl|grc|en}} 
 ===Adjective===
 {{de-adj|-}}
 
-# [[analogous]]
-# [[analogue]]
-# {{q|colloquial}} not [[computerize|computerised]]
+# {{lb|de|formal}} [[analogous]]
+#: {{syn|de|ähnlich|vergleichbar|gleichartig}}
+# {{lb|de|physics|computing}} [[#English|analog]]
+#: {{ant|de|digital}}
+# {{lb|de|colloquial}} [[material]], not [[electronic]] or [[computerised]]
+#: {{syn|de|materiell}}
+#: {{uxi|de|Ich lese lieber ein anfassbares, '''analoges''' Buch als ein E-Book.}}
 
 ====Declension====
 {{de-decl-adj-notcomp|analog}}
