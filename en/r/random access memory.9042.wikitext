@@ -9,18 +9,12 @@
 
 # {{lb|en|computing|electronics}} Computer [[memory]], usually [[volatile]], that stores program and data values during operation and in which each [[byte]] of memory may be directly (randomly) accessed.
 #: {{syn|en|RAM|q1=abbreviation}}
-#: {{cot|en|read-only memory}}
+#: {{cot|en|read-only memory|flash memory|ROM}}
+#: {{hypo|en|static random access memory|dynamic random access memory|NVRAM}}
 
 ====Derived terms====
 * {{l|en|dynamic random access memory}}
 * {{l|en|static random access memory}}
-
-====Coordinate terms====
-* {{l|en|read-only memory}}, {{l|en|ROM}}
-* {{l|en|flash memory}}
-* {{l|en|NVRAM}}
-* {{l|en|SRAM}}, {{l|en|static random access memory}}
-* {{l|en|DRAM}}, {{l|en|dynamic random access memory}}
 
 ====Translations====
 {{trans-top-also|computer memory in which each byte of memory may be directly accessed|RAM}}
