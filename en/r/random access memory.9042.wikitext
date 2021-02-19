@@ -1,14 +1,13 @@
 {{also|random-access memory}}
 ==English==
-{{wikipedia}}
 
 ===Noun===
-{{en-noun|-}} (''abbreviation'' '''[[RAM]]''')
+{{en-noun|-}}
 
-# {{lb|en|electronics}} Computer memory that dynamically stores program and data values during operation and in which each byte of memory may be directly accessed.
-# {{lb|en|computing}} The main, usually [[volatile]], memory of a [[computer]] or [[smartphone]] available for program execution or data storage.
+# {{lb|en|computing|electronics}} Computer [[memory]], usually [[volatile]], that dynamically stores program and data values during operation and in which each [[byte]] of memory may be directly accessed.
+#: {{syn|en|RAM|q1=abbreviation}}
 
-====Related terms====
+====Coordinate terms====
 * {{l|en|read-only memory}}, {{l|en|ROM}}
 * {{l|en|flash memory}}
 * {{l|en|NVRAM}}
@@ -16,36 +15,26 @@
 * {{l|en|DRAM}}, {{l|en|dynamic random access memory}}
 
 ====Translations====
-{{trans-top|computer memory that dynamically stores program and data values during operation and in which each byte of memory may be directly accessed}}
+{{trans-top|computer memory in which each byte of memory may be directly accessed}}
 * Azerbaijani: {{t|az|operativ yaddaş qurğusu}}
+* Chinese:
+*: Cantonese: {{t|yue|隨機存取記憶體|sc=Hani}}, {{t|yue|随机存取记忆体|tr=ceoi4 gei1 cyun4 ceoi2 gei3 jik1 tai2|sc=Hani}}
+*: Mandarin: {{t+|cmn|隨機存取存儲器|sc=Hani}}, {{t+|cmn|随机存取存储器|tr=suíjī cúnqǔ cúnchǔqì, suíjī cúnqǔ cúnchúqì|sc=Hani}} {{qualifier|mainland China}}, {{t|cmn|隨機存儲器|sc=Hani}}, {{t|cmn|随机存储器|tr=suíjī cúnchǔqì, suíjī cúnchúqì|sc=Hani}} {{qualifier|mainland China}}, {{t+|cmn|隨機存取記憶體|sc=Hani}}, {{t+|cmn|随机存取记忆体|tr=suíjī cúnqǔ jìyìtǐ|sc=Hani}} {{qualifier|Taiwan}}, {{t|cmn|暫存記憶體|sc=Hani}}, {{t|cmn|暂存记忆体|tr=zàncún jìyìtǐ, zhàncún jìyìtǐ|sc=Hani}} {{qualifier|Taiwan}}
 * Czech: {{t|cs|paměť s náhodným přístupem}}
-* Finnish: {{t|fi|hajasaantimuisti}}
+* Finnish: {{t|fi|hajasaantimuisti}}, {{t+|fi|keskusmuisti}}
+* French: {{t+|fr|mémoire vive|f}}, {{t|fr|mémoire RAM|f}}, {{t|fr|mémoire à accès aléatoire|f}}, {{t|fr|mémoire à accès sélectif|f}}, {{t|fr|mémoire à accès direct|f}}
 * Galician: {{t|gl|memoria RAM|f}}, {{t|gl|memoria de acceso aleatorio|f}}
+* German: {{t+check|de|Arbeitsspeicher|m}}
+* Greek: {{t+|el|μνήμη τυχαίας προσπέλασης|f}}
 * Icelandic: {{t+|is|skyndiminni|n}}
+* Irish: {{t-check|ga|cuimhne randamrochtana|f}}
 {{trans-mid}}
 * Macedonian: {{t|mk|меморија за случаен пристап|f}}
 * Portuguese: {{t|pt|memória de acesso aleatório|f}}, {{t|pt|memória RAM|f}}
 * Spanish: {{t|es|memoria RAM|f}}, {{t|es|memoria de acceso aleatorio|f}}
+* Vietnamese: {{t|vi|bộ nhớ truy cập ngẫu nhiên}}
 * Welsh: {{t|cy|cof hapgyrch|m}}
 {{trans-bottom}}
 
-{{trans-top|the main memory of a computer available for program execution or data storage}}
-* Chinese:
-*: Cantonese: {{t|yue|隨機存取記憶體|sc=Hani}}, {{t|yue|随机存取记忆体|tr=ceoi4 gei1 cyun4 ceoi2 gei3 jik1 tai2|sc=Hani}}
-*: Mandarin: {{t+|cmn|隨機存取存儲器|sc=Hani}}, {{t+|cmn|随机存取存储器|tr=suíjī cúnqǔ cúnchǔqì, suíjī cúnqǔ cúnchúqì|sc=Hani}} {{qualifier|mainland China}}, {{t|cmn|隨機存儲器|sc=Hani}}, {{t|cmn|随机存储器|tr=suíjī cúnchǔqì, suíjī cúnchúqì|sc=Hani}} {{qualifier|mainland China}}, {{t+|cmn|隨機存取記憶體|sc=Hani}}, {{t+|cmn|随机存取记忆体|tr=suíjī cúnqǔ jìyìtǐ|sc=Hani}} {{qualifier|Taiwan}}, {{t|cmn|暫存記憶體|sc=Hani}}, {{t|cmn|暂存记忆体|tr=zàncún jìyìtǐ, zhàncún jìyìtǐ|sc=Hani}} {{qualifier|Taiwan}}
-* Finnish: {{t+|fi|keskusmuisti}}
-{{trans-mid}}
-* French: {{t+|fr|mémoire vive|f}}, {{t|fr|mémoire RAM|f}}, {{t|fr|mémoire à accès aléatoire|f}}, {{t|fr|mémoire à accès sélectif|f}}, {{t|fr|mémoire à accès direct|f}}
-* Galician: {{t|gl|memoria RAM|f}}, {{t|gl|memoria de acceso aleatorio|f}}
-* Greek: {{t+|el|μνήμη τυχαίας προσπέλασης|f}}
-* Macedonian: {{t|mk|меморија за случаен пристап|f}}
-* Spanish: {{t|es|memoria RAM|f}}, {{t|es|memoria de acceso aleatorio|f}}
-* Vietnamese: {{t|vi|bộ nhớ truy cập ngẫu nhiên}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* German: {{t+check|de|Arbeitsspeicher|m}}
-* Irish: {{t-check|ga|cuimhne randamrochtana|f}}
-{{trans-mid}}
-* Welsh: {{t-check|cy|cof hapgyrch|m}}
-{{trans-bottom}}
+===Further reading===
+* {{pedia}}
