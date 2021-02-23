@@ -817,31 +817,45 @@ From {{inh|sl|sla-pro|*listъ||leaf}}.
 
 ==Swedish==
 
-===Etymology===
-From {{inh|sv|gmq-osw|list}}, from {{inh|sv|non|list}}, from {{inh|sv|gem-pro|*listiz}}, from {{inh|sv|ine-pro|[[*leys-]], [[*leyǝs-]]}}. Cognate with {{cog|is|list}}.
-
 ===Pronunciation===
 * {{audio|sv|Sv-en list.ogg|Audio}}
 
-===Noun===
+===Etymology 1===
+From {{inh|sv|gmq-osw|list}}, from {{inh|sv|non|list}}, from {{inh|sv|gem-pro|*listiz}}, from {{inh|sv|ine-pro|[[*leys-]], [[*leyǝs-]]}}. Cognate with {{cog|is|list}}.
+
+====Noun====
 {{sv-noun|c}}
 
 # [[smartness]], [[trick]], [[cunning]]
+
+=====Declension=====
+{{sv-infl-noun-c-er}}
+
+=====Related terms=====
+* {{l|sv|listig}}
+
+====See also====
+* {{l|sv|lust}}
+
+===Etymology 2===
+From {{inh|sv|gmq-osw|lista}}, probably from {{der|sv|gml|lîste}}, from {{der|sv|gem-pro|*līstǭ}}. Cognate with {{cog|da|liste}}, {{cog|is|lista}}.
+
+====Noun====
+{{sv-noun|c}}
+
 # a [[strip]] (of wood or metal, a thin and long [[board]]), a [[border]], a [[beading]]
 # {{lb|sv|graphical user interface}} a [[bar]]
 
-====Declension====
+=====Declension=====
 {{sv-infl-noun-c-er}}
 
-====Related terms====
+=====Derived terms=====
 * {{l|sv|golvlist}}
 * {{l|sv|kromlist}}
-* {{l|sv|listig}}
 * {{l|sv|statuslist}}
 
 ====See also====
-* [[lista]]
-* [[lust]]
+* {{l|sv|lista}}
 
 ===References===
 * {{R:svenska.se|saol}}
