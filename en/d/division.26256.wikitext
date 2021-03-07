@@ -1,7 +1,6 @@
 {{also|Division|división}}
 ==English==
-{{wikipedia}}
-[[Image:Divide20by4.svg|right|thumb|200px|<math>20 \div 4=5</math>]]
+[[File:Divide20by4.svg|thumb|<math>20 \div 4=5</math>]]
 
 ===Etymology===
 From {{inh|en|enm|divisioun}}, from {{der|en|fro|division}}, from {{der|en|la|divisio|divisio, divisionem}}, noun of process form from perfect passive participle {{m|la|divisus||divided}}, from {{m|la|dīvidō||divide}}
@@ -15,11 +14,15 @@ From {{inh|en|enm|divisioun}}, from {{der|en|fro|division}}, from {{der|en|la|di
 {{en-noun|~}}
 
 # {{lb|en|uncountable}} The act or process of dividing anything.
+#: {{syn|en|split|lith}}
+#: {{ant|en|combination|fusion|merger|unification}}
 # Each of the separate parts of something resulting from division.
 # {{lb|en|arithmetic|uncountable}} The [[process]] of [[divide|dividing]] a number by another.
+#: {{ant|en|multiplication}}
 # {{lb|en|arithmetic}} A calculation that involves this process.
 #: {{ux|en|I've got ten '''divisions''' to do for my homework.}}
 # {{lb|en|military}} A [[formation]], usually made up of two or three [[brigade]]s.
+#: {{hypo|en|square division|triangular division}}
 # A usually high-level [[section]] of a large [[company]] or [[conglomerate]].
 # {{lb|en|taxonomy}} A [[rank]] below [[kingdom]] and above [[class]], particularly used of [[plant|plants]] or [[fungus|fungi]], also (particularly of [[animal]]s) called a [[phylum]]; a [[taxon]] at that rank.
 #: {{ux|en|Magnolias belong to the '''division''' Magnoliophyta.}}
@@ -29,31 +32,10 @@ From {{inh|en|enm|divisioun}}, from {{der|en|fro|division}}, from {{der|en|la|di
 # {{lb|en|music}} A florid instrumental variation of a melody in the 17th and 18th centuries, originally conceived as the dividing of each of a succession of long notes into several short ones.
 # {{lb|en|music}} A set of pipes in a [[pipe organ]] which are independently controlled and supplied.
 # {{lb|en|legal}} A concept whereby a common group of debtors are only responsible for their proportionate sum of the total debt.
-# {{lb|en|computing}} Any of the four major parts of a [[COBOL]] program source code
-# {{lb|en|UK|Eton College}} A [[lesson]]; a [[class]]. <!--informally "div"-->
-
-====Synonyms====
-* {{l|en|split}}, {{l|en|lith}}
-
-====Antonyms====
-* {{sense|making of one thing into two or more things}} {{l|en|combination}}, {{l|en|fusion}}, {{l|en|merger}}, {{l|en|unification}}
-* {{sense|arithmetic: calculation of the quotient}} {{l|en|multiplication}}
-
-====Hyponyms====
-{{col2
-|en|division of labour
-|subdivision
-}}
-{{col4|en|title=(COBOL) Hyponyms of ''division''
-|identification division
-|environment division
-|data division
-|procedure division
-}}
-{{col2|en|title=(military) Hyponyms of ''division''
-|square division
-|triangular division
-}}
+# {{lb|en|computing}} Any of the four major parts of a [[COBOL]] program source code.
+#: {{hypo|en|identification division|environment division|data division|procedure division}}
+# {{lb|en|UK|Eton College}} A [[lesson]]; a [[class]].
+#: {{syn|en|div|q1=informal}}
 
 ====Derived terms====
 {{der3
@@ -410,6 +392,9 @@ From {{inh|en|enm|divisioun}}, from {{der|en|fro|division}}, from {{der|en|la|di
 * {{l|en|denominator}}
 * {{l|en|fraction}}
 * {{l|en|numerator}}
+
+===Further reading===
+* {{pedia}}
 
 [[Category:en:Collectives]]
 
