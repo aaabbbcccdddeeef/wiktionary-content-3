@@ -44,7 +44,7 @@
 * {{alter|hu|fönt|fenn|fönn}}
 
 ====Adverb====
-{{hu-adv|fent|ebb}}
+{{head|hu|adverb|comparative|feljebb|or|fentebb|superlative|legfelül|or|legfentebb}}
 
 # [[above]], [[up]]
 #: {{syn|hu|fönt|fenn|fönn|felül|fölül}}
@@ -52,9 +52,16 @@
 # [[up]], [[awake]]
 #: {{syn|hu|ébren}}
 
+=====Usage notes=====
+The form {{m|hu||fentebb}} and the uncommon {{m|hu|legfentebb}} are only used in formal style with {{m|hu|említett}}, in the abstract sense of “{{m|en|above-mentioned}}”. In the literal sense, '''{{m|hu|feljebb}}''' (or its variant {{m|hu|följebb}}) and '''{{m|hu|legfelül}}'' (or its variant {{m|hu|legfölül}}) are used.
+
 =====Derived terms=====
-* {{l|hu|fenti}}
-* {{l|hu|odafent}}
+{{col4|hu
+|fenti
+}}
+{{col4|hu|title=Compound words
+|odafent
+}}
 
 ===Etymology 2===
 {{affix|hu|fen|-t|nocat=y}}
