@@ -5,7 +5,7 @@
 * {{alter|en|esoterick||obsolete}}
 
 ===Etymology===
-From {{etyl|grc|en}} {{m|grc|ἐσωτερικός||belonging to an inner circle}}, from {{m|grc|ἐσωτέρω||further inside}}, comparative of {{m|grc|ἔσω||within}}, from {{m|grc|ἐς}}, {{m|grc|εἰς||into}} (''esoteric'' originally referred to the secret teachings of Greek philosophers, versus public or [[exoteric]] ones).
+From {{bor|en|grc|ἐσωτερικός|t=belonging to an inner circle}}, from {{m|grc|ἐσωτέρω|t=further inside}}, comparative of {{m|grc|ἔσω|t=within}}, from {{m|grc|ἐς}}, {{m|grc|εἰς|t=into}} (''esoteric'' originally referred to the secret teachings of Greek philosophers, versus public or [[exoteric]] ones).
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|en|/ˌiːs.əʊˈtɛɹ.ɪk/}}
@@ -18,36 +18,36 @@ From {{etyl|grc|en}} {{m|grc|ἐσωτερικός||belonging to an inner circle
 {{en-adj}}
 
 # Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest, or an [[enlightened]] inner circle.
-#: ''The writing in this manual is very '''esoteric'''; I’d need a degree in engineering just to understand it!''
+#: {{ux|en|The writing in this manual is very '''esoteric'''; I’d need a degree in engineering just to understand it!}}
+#: {{syn|en|arcane|recondite}}
 # Having to do with [[concept]]s that are highly [[theoretical]] and without obvious practical application; often with mystical or religious connotations.
 #*'''1975''', {{w|Saul Bellow}}, ''Humboldt's Gift'' [Avon ed., 1976, p. 278]:
 #*: When he spoke to me of '''esoteric''' mysteries I wanted to say to him,"Don't give me that spiritual hokum, friend!"
+#: {{syn|en|cerebral}}
 # [[confidential|Confidential]]; [[private]].
-#: ''an '''esoteric''' purpose''
-#: ''an '''esoteric''' meeting''
-
-====Synonyms====
-* {{sense|understood only by a chosen few or an enlightened inner circle}} {{l|en|arcane}}, {{l|en|recondite}}
-* {{sense|highly theoretical; not practical}} {{l|en|cerebral}}
-* {{sense|confidential; private}} {{l|en|secretive}}
+#: {{ux|en|an '''esoteric''' purpose}}
+#: {{ux|en|an '''esoteric''' meeting}}
+#: {{syn|en|secretive}}
 
 ====Antonyms====
 * {{l|en|exoteric}}
 
 ====Related terms====
-* {{l|en|esoterica}}
-* {{l|en|esoterically}}
-* {{l|en|esotericism}}
-* {{l|en|esotericist}}
-* {{l|en|esoterism}}
+{{col3|en
+|esoterica
+|esoterically
+|esotericism
+|esotericist
+|esoterism
+}}
 
 ====Translations====
 {{trans-top|understood only by a chosen few}}
 * Afrikaans: {{t|af|geheimsinnig}}
-* Bulgarian: {{t+|bg|езотеричен|sc=Cyrl}}
+* Bulgarian: {{t+|bg|езотеричен}}
 * Catalan: {{t|ca|esotèric}}
 * Chinese:
-*: Mandarin: {{t|cmn|深晦|tr=shēnhuì|sc=Hani}}
+*: Mandarin: {{t|cmn|深晦|tr=shēnhuì}}
 * Czech: {{t+|cs|esoterický}}
 * Danish: {{t|da|esoterisk}}
 * Dutch: {{t+|nl|esoterisch}}
@@ -64,12 +64,13 @@ From {{etyl|grc|en}} {{m|grc|ἐσωτερικός||belonging to an inner circle
 * Lithuanian: {{t|lt|ezoterinis}}
 * Macedonian: {{t|mk|езотеричен}}
 * Norwegian: {{t+|no|esoterisk}}
-* Persian: {{t|fa|خواص‌فهم|tr=xavâs-fahm|sc=fa-Arab}}, {{t+|fa|غامض|tr=ğâmez|sc=fa-Arab}}
+* Persian: {{t|fa|خواص‌فهم|tr=xavâs-fahm}}, {{t+|fa|غامض|tr=ğâmez}}
 * Polish: {{t+|pl|ezoteryczny|m}}, {{t+|pl|tajemny|m}}
 * Portuguese: {{t+|pt|esotérico}}
 * Romanian: {{t+|ro|ezoteric}}
 * Russian: {{t+|ru|эзотери́ческий}}
-* Serbo-Croatian: {{t+|sh|ezotèričan}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|ezotèričan}}
 * Spanish: {{t+|es|esotérico}}
 * Swedish: {{t+|sv|esoterisk}}
 * Turkish: {{t+|tr|ezoterik}}, {{t+|tr|içrek}}, {{t+|tr|batıni|alt=bâtınî}} {{qualifier|archaic}}
@@ -93,11 +94,12 @@ From {{etyl|grc|en}} {{m|grc|ἐσωτερικός||belonging to an inner circle
 * Polish: {{t+|pl|zawiły}}, {{t+|pl|niezrozumiały}}
 * Portuguese: {{t+|pt|esotérico}}
 * Russian: {{t+|ru|эзотери́ческий}}
-* Serbo-Croatian: {{t+|sh|ezotèričan}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|ezotèričan}}
 {{trans-bottom}}
 
 {{trans-top|confidential; private}}
-* Bulgarian: {{t+|bg|таен|sc=Cyrl}}, {{t+|bg|поверителен|sc=Cyrl}}
+* Bulgarian: {{t+|bg|таен}}, {{t+|bg|поверителен}}
 * Catalan: {{t|ca|esotèric}}
 * Chinese:
 *: Mandarin: {{t-needed|cmn}}
@@ -111,17 +113,15 @@ From {{etyl|grc|en}} {{m|grc|ἐσωτερικός||belonging to an inner circle
 * Polish: {{t+|pl|ezoteryczny}}, {{t+|pl|tajny}}, {{t+|pl|skryty}}
 * Portuguese: {{t|pt|confidencial}}, {{t+|pt|secreto}}
 * Russian: {{t+|ru|эзотери́ческий}}, {{t+|ru|та́йный}}, {{t+|ru|скры́тый}}
-* Serbo-Croatian: {{t+|sh|ezotèričan}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|ezotèričan}}
 * Turkish: {{t+|tr|gizli}}, {{t+|tr|saklı}}
 {{trans-bottom}}
 
-{{checktrans-top}}
-* {{ttbc|ko}}: {{t-check|ko|비전}}
+{{trans-top}}
 * Latin: {{t-check|la|esōtericus}}
-* {{ttbc|cmn}}: {{t+|cmn|神秘|tr=shenmi}}
 {{trans-mid}}
 * Spanish: {{t+check|es|esotérico}}
-* {{ttbc|uk}}: {{t+|uk|езотеричний}}
 {{trans-bottom}}
 
 ====See also====
