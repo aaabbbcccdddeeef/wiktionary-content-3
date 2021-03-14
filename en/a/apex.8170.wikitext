@@ -152,7 +152,7 @@ Borrowed from {{bor|en|la|apex||point, tip, summit}}.
 {{wikipedia|lang=la}}
 
 ===Etymology===
-From {{der|la|ine-pro|*h₂ep-||to join, fit}}. Cognate with {{cog|la|apō}}.
+From {{der|la|ine-pro|*h₂ep-||to join, fit}}. Cognate with {{cog|la|apō||to fasten, join, tie to}}.
 
 ===Pronunciation===
 * {{la-IPA}}
@@ -160,28 +160,34 @@ From {{der|la|ine-pro|*h₂ep-||to join, fit}}. Cognate with {{cog|la|apō}}.
 ===Noun===
 {{la-noun|apex<3>|g=m}}
 
-# [[summit]]
-# [[top]]
-# [[cap]] of a priest (flamen); [[hat]], [[helmet]], [[crown]]
-# [[apex#English|apex]], [[macron]] (long mark over a vowel)
-# {{inflection of|la|apex||voc|s}}
+# The [[extreme]] [[end]] of a thing; the [[point]], [[summit]], [[top]].
+#: {{syn|la|cacūmen|summa|fastīgium|culmen|vertex}}
+# {{lb|la|literally}} The small [[rod]] at the top of the [[flamen]]'s [[cap]], [[wind#Verb|wound]] around with [[wool]].
+# {{lb|la|transferred sense}}:
+## The [[conical]] [[cap]] of a [[priest]] (the [[flamen]]), [[ornament]]ed with this [[rod]].
+## Any [[hat]] or [[helmet]]; a [[crown]].
+## {{lb|la|literally}} A [[project]]ing [[point]] or [[summit]].
+### {{lb|la|figurative}} The [[high]]est [[ornament]] or [[honor]]; the [[crown]] of a thing.
+## {{lb|la|grammar}} The [[macron]] {{gloss|long [[mark]] over a [[vowel]]}}.
+### The [[form]]s or [[outline]]s of the [[letter]]s.
+## A [[letter]] or any other [[writing]].
+## {{lb|la|Ecclesiastical Latin|figurative}} {{q|of the [[point]] or [[apex]] of a [[Hebrew]] [[letter]]}} The [[little|least]] [[particle]], [[tittle]].
 
-====Declension====
+====Inflection====
 {{la-ndecl|apex<3>}}
 
 ====Descendants====
-{{top2}}
-* {{desc|ca|àpex}}
-* {{desc|en|apex}}
-* {{desc|fr|apex}}
-* {{desc|gl|ápice}}
-* {{desc|de|Apex}}
-{{mid2}}
-* {{desc|it|apice}}
-* {{desc|pt|ápice}}, {{l|pt|ápex}}
-* {{desc|ro|apex}}
-* {{desc|es|ápice}}, {{l|es|ápex}}
-{{bottom}}
+{{des-top}}
+* {{desc|ca|àpex|bor=1}}
+* {{desc|en|apex|bor=1}}
+* {{desc|fr|apex|bor=1}}
+* {{desc|gl|ápice|bor=1}}
+* {{desc|de|Apex|bor=1}}
+* {{desc|it|apice|bor=1}}
+* {{desc|pt|[[ápice]], [[ápex]]|bor=1}}
+* {{desc|ro|apex|bor=1}}
+* {{desc|es|[[ápice]], [[ápex]]|bor=1}}
+{{des-bottom}}
 
 ===References===
 * {{R:L&S}}
@@ -190,5 +196,3 @@ From {{der|la|ine-pro|*h₂ep-||to join, fit}}. Cognate with {{cog|la|apō}}.
 * {{R:Gaffiot}}
 * {{R:Peck}}
 * {{R:Smith's Antiquities}}
-
-[[Category:Latin noun forms]]
