@@ -269,18 +269,27 @@ From {{der|en|enm|eccho}}, {{m|enm|ecco}}, {{m|enm|ekko}}, from {{der|en|ML.|ecc
 
 ==Dutch==
 
-===Etymology===
-From {{der|nl|la|echo}}, from {{der|nl|grc|ἠχώ}}, from {{m|grc|ἠχή||sound}}.
-
 ===Pronunciation===
+* {{IPA|nl|/ˈɛ.xoː/}}
 * {{audio|nl|Nl-echo.ogg|Audio}}
+* {{hyphenation|nl|echo}}
 
-===Noun===
+===Etymology 1===
+From {{inh|nl|dum|echo}}, from {{der|nl|la|ēchō}}, from {{der|nl|grc|ἠχώ}}, from {{m|grc|ἠχή||sound}}.
+
+====Noun====
 {{nl-noun|m|-'s|echootje}}
 
 # {{l|en|echo}}
+#: {{syn|nl|weergalm}}
 
-===Verb===
+=====Derived terms=====
+* {{l|nl|echoën}}
+
+===Etymology 2===
+{{nonlemma}}
+
+====Verb====
 {{head|nl|verb form}}
 
 # {{nl-verb form of|p=1|n=sg|t=pres|m=ind|echoën}}
