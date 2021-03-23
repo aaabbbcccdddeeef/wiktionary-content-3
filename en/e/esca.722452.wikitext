@@ -134,7 +134,10 @@ From {{inh|it|la|ēsca}}.
 ==Latin==
 
 ===Etymology===
-From {{m|la|edō||eat}}.
+For {{inh|la|itc-pro|*ēsskā}} with Lachmann's lengthening, from {{inh|la|ine-pro|*h₁ed-||eat}}, the root of {{m|la|edō||eat}}. Cognate to {{cog|lt|ėskà||food}}.
+
+===Alternative forms===
+* {{alt|la|isca||Medieval Latin}}
 
 ===Pronunciation===
 * {{la-IPA|ēsca}}
@@ -142,28 +145,37 @@ From {{m|la|edō||eat}}.
 ===Noun===
 {{la-noun|ēsca<1>}}
 
-# [[food]]; [[dish]] prepared for the [[table]]
-# [[bait]]
+# [[food]]
+#: {{syn|la|cibus|alimentum|vīctus|cibāria}}
+## an [[individual]] [[serving]]
+##: {{syn|la|ferculum|epulum}}
+# [[fodder]]
+#: {{syn|la|pābulum}}
+## {{lb|la|collective}} [[bait]]
+# [[fuel]], esp. [[firewood]]
+#: {{syn|la|māteria|nūtrīmentum}}
+## [[kindling]]. [[tinder]]
+##: {{syn|la|fōmentum|nūtrīmentum}}
 
 ====Declension====
-Note that there is the alternative form, {{m|la|ēscās}}, for the genitive singular, {{m|la|ēscae}}.
 {{la-ndecl|ēsca<1>}}
-
-====Synonyms====
-* {{sense|bait}} {{l|la|cibus}}
-* {{sense|food}} {{l|la|alimentum}}, {{l|la|cibāria}}, {{l|la|cibus}}, {{l|la|pulmentum}}
+* An archaic/dialectal form of the genitive singular, {{m|la|ēscās}} (for the classically usual {{m|la|ēscae}}) is cited by Priscian from [[w:Livius Andronicus|Livius Andronicus]].
 
 ====Derived terms====
-{{top2}}
-* {{l|la|escālis}}
-* {{l|la|escārius}}
-* {{l|la|escātilis}}
-{{mid2}}
-* {{l|la|escifer}}
-* {{l|la|esculentus}}
-{{bottom}}
+{{top3}}
+* {{l|la|ēsca}}
+* {{l|la|ēscālis}}
+* {{l|la|ēscārius}}
+{{mid3}}
+* {{l|la|ēscātilis}}
+* {{l|la|ēscifer}}
+* {{l|la|ēsculentus}}
+{{mid3}}
+* {{l|la|inēscāre}}
+{{bottom3}}
 
 ====Descendants====
+{{top3}}
 * Eastern Romance:
 ** {{desc|rup|eascã|alts=1}}
 ** {{desc|ro|iască}}
@@ -194,8 +206,12 @@ Note that there is the alternative form, {{m|la|ēscās}}, for the genitive sing
 * {{desc|bor=1|en|esca}}
 * {{desc|bor=1|el|ίσκα}}
 * {{desc|bor=1|es|esca}}
+{{bottom3}}
 
 ===References===
+{{R:TLL|ēsca|url=http://publikationen.badw.de/de/thesaurus/lemmata#39183}}
+
+===Furthe reading===
 * {{R:L&S}}
 * {{R:Elementary Lewis}}
 * {{R:du Cange}}
