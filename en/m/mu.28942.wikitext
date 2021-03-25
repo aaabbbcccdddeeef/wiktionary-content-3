@@ -459,20 +459,21 @@ Onomatopoeic.
 ==Scottish Gaelic==
 
 ===Etymology===
-From {{inherited|gd|sga|imb}} (compare {{cog|ga|um}}), from {{inherited|gd|cel-pro|*ambi}} (compare {{cog|cy|am}}), from {{inherited|gd|ine-pro|*h₂m̥bʰi|gloss=round about, around}}. Cognate with {{cog|la|ambi-}}, {{cog|sa|अभि|tr=abhí||towards, over, upon}}, {{cog|peo|𐎠𐎲𐎡𐎹||towards, against, upon|ts=abiy}}, {{cog|goh|umbi}}, {{cog|grc|ἀμφί||about, around}} and the first part of {{cog|xcl|ամբողջ|ամբ-ողջ|whole}}.
+{{dercat|gd|cel-pro|ine-pro|inh=2}}
+From {{inh|gd|sga|imb}}. Cognates include {{cog|ga|um}} and {{cog|gv|mysh}}.
 
 ===Preposition===
-{{head|gd|preposition}}
+{{gd-prep|dat|L=1}}
 
 # [[about]], [[around]]
-#: {{ux|gd|Bha craobhan '''mu''' ghàrradh an taighe.|inline=1|t=There were trees around the house's yard.}}
+#: {{uxi|gd|Bha craobhan '''mu''' ghàrradh an taighe.|There were trees '''around''' the house's yard.}}
 # [[about]], [[concerning]]
-#: {{ux|gd|Bha sinn a' bruidhinn '''mu''' làithean san sgoil againn.|inline=1|t=We were talking about our days at school.}}
+#: {{uxi|gd|Bha sinn a' bruidhinn '''mu''' làithean san sgoil againn.|We were talking '''about''' our days at school.}}
 # [[about]], [[approximately]]
-#: {{ux|gd|Bidh a' chuairt a' toirt '''mu''' thrì uairean.|inline=1|t=The trip will take about three hours.}}
+#: {{uxi|gd|Bidh a' chuairt a' toirt '''mu''' thrì uairean.|The trip will take '''about''' three hours.}}
 
-====Usage notes====
-* [[lenite|Lenites]] the following word.
+====Inflection====
+{{gd-prep-infl|1sg=umam|2sg=umad|3sgm=uime|3sgf=uimpe|1pl=umainn|2pl=umaibh|3pl=umpa}}
 
 ====Derived terms====
 {{der3|gd|{{l|gd|mu chuairt||around}}
@@ -480,16 +481,6 @@ From {{inherited|gd|sga|imb}} (compare {{cog|ga|um}}), from {{inherited|gd|cel-p
 |{{l|gd|mu dheidhinn||concerning}}
 |{{l|gd|mu dheireadh||last {{qualifier|adjective}}; at last}}
 |{{l|gd|mun cuairt||around}}}}
-* The following prepositional pronouns:
-{{gd-prep-infl
-|1sg=umam
-|2sg=umad
-|3sgm=uime
-|3sgf=uimpe
-|1pl=umainn
-|2pl=umaibh
-|3pl=umpa
-}}
 
 ----
 
