@@ -1,25 +1,64 @@
 ==English==
+{{was wotd|2021|April|21}}
 
 ===Etymology===
-{{suffix|en|transform|ative}}
+{{root|en|ine-pro|*terh₂-|*-wós}}
+From {{der|en|ML.|transformātīvus|t=transformative}}, from {{der|en|la|trānsfōrmātus|t=transformed}} + {{m|la|-īvus|pos={{glossary|suffix}} attached to the {{glossary|perfect}} {{glossary|passive}} {{glossary|participial}} {{glossary|stem}}s of {{glossary|verb}}s, forming {{glossary|deverbal}} {{glossary|adjective}}s meaning ‘doing or related to doing [''the verb'']’}}. {{m|la||Trānsfōrmātus}} is the perfect passive participle of {{m|la|trānsfōrmō|t=to transform}}, from {{m|la|trāns-|pos={{glossary|prefix}} meaning ‘across; beyond; through’}} + {{m|la|fōrmō|t=to fashion, form, format, shape}} (from {{m|la|fōrma|t=appearance, figure, form, shape}}; further etymology unknown, perhaps related to {{cog|grc|μορφή|t=a form, shape}}).<ref>{{R:OED Online|pos=v|id=204745|date=June 2018|nodot=1}}; {{R:Lexico|pos=v}}</ref> The English word is analysable as {{suffix|en|transform|ative}}.
 
 ===Pronunciation===
-* {{IPA|en|/tɹænsˈfɔː(ɹ)mətɪv/|/tɹænz-/|/tɹɑːns-/|/tɹɑːnz-/}}
-** {{audio|en|LL-Q1860 (eng)-Vealhurl-transformative.wav|Audio (UK)}}
+* {{a|RP}} {{IPA|en|/trɑːnsˈfɔːmətɪv/|/tɹæns-/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-transformative.wav|Audio (RP)}}
+* {{a|GA}} {{IPA|en|/tɹænsˈfɔɹmətɪv/|[-ɾɪv]}}
+* {{hyphenation|en|trans|form|a|tive}}
 
 ===Adjective===
 {{en-adj}}
 
-# That causes [[transformation]]
-#* {{quote-journal|en|date=2019 November 6|author=Graeme Pickering|title=New targets for Northumberland|journal=Rail|page=46|text="You'll know the '''transformative''' effect that the Metro has had on the whole of [[Tyneside]]," says NCC <small>[Northumberland County Council]</small> leader Peter Jackson. "This new passenger line will have the same effect on southeast [[Northumberland]]. It's a '''transformative''' project and we're going to make sure it happens."}}
+# That [[cause#Verb|causes]] [[transformation]].
+#: {{antonyms|en|nontransformative}}
+#* {{quote-journal|en|author=Graeme Pickering|title=New targets for Northumberland|magazine=[[w:Rail (magazine)|Rail]]|location=Peterborough, Cambridgeshire|publisher=[[w:Bauer Media Group|Bauer Media]]|date=6 November 2019|page=46|issn=0953-4563|oclc=999467860|passage="You'll know the '''transformative''' effect that the Metro has had on the whole of Tyneside," says NCC [Northumberland County Council] leader Peter Jackson. "This new passenger line will have the same effect on southeast Northumberland. It's a '''transformative''' project and we're going to make sure it happens."}}
+# {{lb|en|linguistics}} ''Chiefly in'' '''transformative-[[generative]]''': of or relating to a [[theory]] of [[generative grammar]] in which [[defined#Adjective|defined]] [[operation]]s [[call#Verb|called]] [[transformation]]s [[produce#Verb|produce]] [[new]] [[sentence#Noun|sentences]] from [[existing#Adjective|existing]] [[one]]s; [[transformational]].
 
 ====Derived terms====
-* {{l|en|transformative action}}
-* {{l|en|transformative economics}}
-* {{l|en|transformative justice}}
-* {{l|en|transformative learning}}
-* {{l|en|transformative planning}}
-* {{l|en|transformative research}}
+{{col3|en
+|nontransformative
+|transformative action
+|transformative economics
+|transformative justice
+|transformative learning
+|transformatively
+|transformative planning
+|transformative research
+|transformativity
+}}
+
+====Related terms====
+{{col3|en
+|transform
+|transformable
+|[[transformance]] {{qualifier|rare}}
+|transformant
+|transformation
+|transformational
+|[[transformator]] {{qualifier|archaic}}
+|[[transformed]] {{qualifier|adjective}}
+|transformer
+|transformerless
+|[[transforming]] {{qualifier|adjective|noun}}
+|transformism
+|transformist
+}}
+
+====Translations====
+{{trans-top|that causes transformation}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|of or relating to a theory of generative grammar in which defined operations called transformations produce new sentences from existing ones|transformational}}
 
 ===References===
-* {{R:Lexico}}
+<references/>
+
+===Further reading===
+* {{pedia|transformational grammar}}
+* {{pedia|transformation|transformation (disambiguation)}}
