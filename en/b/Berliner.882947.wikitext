@@ -11,7 +11,7 @@ The first sense is either from {{bor|en|de|Berliner|t=native or inhabitant of Be
 {{en-noun}}
 
 # A native or inhabitant of [[Berlin]].
-# A [[doughnut]] with a sweet [[filling]].
+# A [[doughnut]] ([[donut]]) with a sweet [[filling]].
 # {{lb|en|journalism}} A [[newspaper]] [[format]] with pages normally measuring about 315 by 470 millimetres (12.4 in × 18.5 inches), slightly taller and wider than a [[tabloid]] but narrower and shorter than a [[broadsheet]].
 #: {{synonyms|en|midi}}
 
@@ -37,14 +37,16 @@ The first sense is either from {{bor|en|de|Berliner|t=native or inhabitant of Be
 * German: {{t+|de|Berliner|m}}, {{t+|de|Berlinerin|f}}
 * Low German:
 *: German Low German: {{t|nds-de|Berlina|m}}
-* Norwegian: {{t+|no|berliner|m}}
+* Norwegian: 
+*: Bokmål: {{t+|no|berliner|m}}
+*: Nynorsk: {{t|nn|berlinar|m}}
 * Portuguese: {{t+|pt|berlinense|m|f}}, {{t+|pt|berlinês|m}}
 * Russian: {{t+|ru|берли́нец|m}}, {{t+|ru|берли́нка|f}}
 * Spanish: {{t+|es|berlinés|m}}, {{t+|es|berlinesa|f}}
 * Turkish: {{t|tr|Berlinli}}
 {{trans-bottom}}
 
-{{trans-top|doughnut}}
+{{trans-top|doughnut (donut) with a sweet filling}}
 * Bavarian: {{t|bar|Krapfen}}
 * Danish: {{t+|da|berliner|c}}, {{t|da|berlinerpfannkuchen|c}}
 * Dutch: {{t|nl|berlinerbol|m}}
@@ -55,12 +57,13 @@ The first sense is either from {{bor|en|de|Berliner|t=native or inhabitant of Be
 *: Alemannic German: {{t|gsw|Chrapfe|m}}
 {{trans-mid}}
 * Low German:
-*: German Low German: {{t|nds-de|Pankoeken|m}}
+*: German Low German: {{t|nds-de|Pannkoken|m}}, {{t|nds-de|Pannkauken|m}}, {{t|nds-de|Pannkook|m}}
 * Norwegian:
 *: Bokmål: {{t|nb|berlinerbolle|m}}
-* Portuguese: {{t+|pt|sonho|m}}, {{t|pt|bola de berlim}}
+*: Nynorsk: {{t|nn|berlinerbolle|m}}
+* Portuguese: {{t|pt|bola de berlim|f}}, {{t|pt|bola de Berlim|f}} {{q|both Portugal}}, {{t+|pt|sonho|m}} {{q|Brazil}}
 * Russian: {{t|ru|берлинер}}
-* Spanish: {{t+|es|berlinesa}}
+* Spanish: {{t+|es|berlinesa|f}}
 * Swedish: {{t|sv|berlinermunk|c}}, {{t|sv|berliner|c}}
 {{trans-bottom}}
 
@@ -72,7 +75,7 @@ The first sense is either from {{bor|en|de|Berliner|t=native or inhabitant of Be
 ==German==
 
 ===Pronunciation===
-* {{IPA|de|[bɛʁˈliːnɐ]}}
+* {{IPA|de|/bɛʁˈliːnɐ/}}
 * {{audio|de|De-Berliner.ogg|Audio}}
 
 ===Etymology 1===
@@ -81,23 +84,29 @@ From {{suffix|de|Berlin|er|id2=inhabitant}}.
 ====Noun====
 {{de-noun|m||Berliner|f=Berlinerin}}
 
-# a [[#English|Berliner]] {{gloss|native or inhabitant of Berlin}}
+# [[Berliner#English|Berliner]] (male or of unspecified sex) (a native or inhabitant of Berlin)
 
 =====Declension=====
 {{de-decl-noun-m|s}}
 
 =====Alternative forms=====
-* {{l|de|berliner}} {{qualifier|adjective; dated}}
+* {{l|de|berliner}} {{q|adjective, dated}}
 
 =====Derived terms=====
-* {{l|de|berlinerisch}}
-* {{l|de|Berlinerisch}}
-* {{l|de|berlinern||to speak the Berlin dialect or speak German with a Berlin accent}}
-* {{l|de|Berlinern}}
-* {{l|de|berlinernd}}
-* {{l|de|Ostberliner}}
-* {{l|de|Wahlberliner||Berliner by choice, [[Berliner-by-choice]]}}
-* {{l|de|Westberliner}}
+{{der4|de
+|berlinerisch
+|Berlinerisch
+|berlinern
+|Berlinern
+|berlinernd
+|Ostberliner
+|Wahlberliner
+|Westberliner
+}}
+
+=====Related terms=====
+* {{l|de|berlinisch}}
+* {{l|de|Berlinisch}}
 
 ===Etymology 2===
 From {{affix|de|Berlin|-er|id2=genitival}}.
@@ -123,7 +132,7 @@ From {{affix|de|Berlin|-er|id2=genitival}}.
 ====Noun====
 {{de-noun|m||Berliner}}
 
-# [[#English|Berliner]] {{gloss|pastry similar to a doughnut, with a sweet filling}}
+# [[Berliner#English|Berliner]] (a pastry similar to a [[doughnut]] ([[donut]]), with a sweet filling)
 #: {{syn|de|Berliner Ballen|Krapfen|Kräppel|Pfannkuchen|Berliner Pfannkuchen}}
 
 =====Usage notes=====
