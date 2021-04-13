@@ -13,7 +13,8 @@
 * Homophones: [[tear#Etymology 1|tear]]
 
 ===Etymology 1===
-From {{inh|en|enm|tare|t=vetch}}, from {{inh|en|ang|*taru}}, from {{inh|en|gmw-pro|*taru}} (compare {{cog|nl|tarwe||wheat}}), from {{der|en|ine-pro|*der-}} (compare {{cog|lt|dirvà||field}}, {{cog|ru|дере́вня||village, thorp}}, {{cog|grc|δάρατος||bread}}, {{cog|sa|दूर्वा|tr=dū́rvā||panic grass, millet}}, {{cog|cy|drewg||darnel}}).
+From {{inh|en|enm|tare|t=vetch}}, from {{inh|en|ang|*taru}}, from {{inh|en|gmw-pro|*taru}}.
+{{etymid|en|taru}}
 
 ====Noun====
 {{en-noun}}
@@ -35,7 +36,8 @@ From {{inh|en|enm|tare|t=vetch}}, from {{inh|en|ang|*taru}}, from {{inh|en|gmw-p
 {{trans-see|darnel}}
 
 ===Etymology 2===
-{{etyl|frm|en}} {{m|fr|tare}}, from {{etyl|it|en}} {{m|it|tara}}, from {{etyl|ar|en}} {{m|ar|طَرْحَة||that which is thrown away}}, a derivative of {{m|ar|طَرَحَ||to throw (away)}}.<ref>{{R:Online Etymology Dictionary}}</ref>
+{{bor|en|frm|tare}}, from {{der|en|it|tara}}, from {{der|en|ar|طَرْحَة|t=that which is thrown away}}, a derivative of {{m|ar|طَرَحَ|t=to throw (away)}}.<ref>{{R:Online Etymology Dictionary}}</ref>
+{{etymid|en|tara}}
 
 ====Noun====
 {{wikipedia|Tare weight}}
@@ -117,8 +119,9 @@ From {{inh|en|enm|tare|t=vetch}}, from {{inh|en|ang|*taru}}, from {{inh|en|gmw-p
 # {{lb|en|obsolete}} {{en-simple past of|tear}}
 
 ===Etymology 4===
-Borrowed from {{etyl|ja|en}} {{m|ja|垂れ}}.
+Borrowed from {{bor|en|ja|垂れ}}.
 {{wikipedia|Tare sauce}}
+{{etymid|en|垂れ}}
 
 ====Noun====
 {{en-noun|-}}
@@ -141,7 +144,7 @@ Borrowed from {{etyl|ja|en}} {{m|ja|垂れ}}.
 ==French==
 
 ===Etymology===
-From {{der|fr|ML.|tara}} or {{cog|it|tara}}, from {{etyl|ar|fr}} {{m|ar|طَرْح||rubbish, refuse}}, from {{m|ar|طَرَحَ||reject, deduct}}.
+From {{der|fr|ML.|tara}} or {{cog|it|tara}}, from {{der|fr|ar|طَرْح|t=rubbish, refuse}}, from {{m|ar|طَرَحَ|t=to reject, to deduct}}.
 
 ===Pronunciation===
 * {{fr-IPA}}
