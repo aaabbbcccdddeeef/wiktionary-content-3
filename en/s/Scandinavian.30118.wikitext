@@ -2,7 +2,7 @@
 {{wikipedia}}
 
 ===Etymology===
-{{suffix|en|Scandinavia|an}}
+From {{suffix|en|Scandinavia|an}}.
 
 ===Pronunciation===
 * {{IPA|en|/ˌskændɪˈneɪvi.ən/}}
@@ -20,12 +20,12 @@
 * Czech: {{t|cs|Skandinávec|m}}, {{t|cs|Skandinávka|f}}
 * Danish: {{t|da|skandinav|c}}
 * Dutch: {{t+|nl|Scandinaviër|m}}, {{t+|nl|Scandinaaf|m}}, {{t+|nl|Scandinavische|f}}, {{t+|nl|Scandinaafse|f}}
-* Esperanto: {{t|eo|skandinavo}} {{qualifier|man or woman}}, {{t|eo|skandinavino}} {{qualifier|woman}}
+* Esperanto: {{t|eo|skandinavo}}, {{t|eo|skandinavino}} {{q|female}}
 * Estonian: {{t|et|skandinaavlane}}
 * Faroese: {{t|fo|skandinavi|m}}
 * Finnish: {{t+|fi|skandinaavi}}
 * French: {{t+|fr|Scandinave|m|f}}
-* Galician: {{t|gl|escandinavo|m}}
+* Galician: {{t|gl|escandinavo|m}}, {{t|gl|escandinava|f}}
 * German: {{t+|de|Skandinavier|m}}, {{t+|de|Skandinavierin|f}}
 * Greek: {{t+|el|Σκανδιναβός|m}}
 * Hebrew: {{t+|he|סקנדינבי}}
@@ -34,15 +34,15 @@
 {{trans-mid}}
 * Ido: {{t+|io|Skandinaviano}}, {{t|io|Skandinavo}}
 * Irish: {{t|ga|Lochlannach|m}}
-* Italian: {{t+|it|scandinavo|m}}
+* Italian: {{t+|it|scandinavo|m}}, {{t+|it|scandinava|f}}
 * Latvian: {{t|lv|skandināvs|m}}, {{t|lv|skandināviete|f}}
 * Norwegian:
 *: Bokmål: {{t|nb|skandinav|m}}
 *: Nynorsk: {{t|nn|skandinav|m}}
-* Portuguese: {{t+|pt|escandinavo|m}}
+* Portuguese: {{t+|pt|escandinavo|m}}, {{t|pt|escandinava|f}}
 * Russian: {{t+|ru|скандина́в|m}}, {{t+|ru|скандина́вка|f}}
 * Scottish Gaelic: {{t|gd|Lochlannach|m}}
-* Spanish: {{t+|es|escandinavo|m}}
+* Spanish: {{t+|es|escandinavo|m}}, {{t+|es|escandinava|f}}
 * Swahili: {{t|sw|Mskandinavi}}
 * Swedish: {{t+|sv|skandinav|c}}
 * Turkish: {{t+|tr|İskandinav}}, {{t|tr|İskandinavyalı}}
@@ -51,17 +51,17 @@
 ===Adjective===
 {{en-adj}}
 
-# Of [[Scandinavia]].
+# Of or relating to [[Scandinavia]].
 #* {{quote-journal|en|date=2013-06-08|volume=407|issue=8839|page=55|magazine={{w|The Economist}}
 |title=[http://www.economist.com/news/business/21579011-president-proposes-new-round-intellectual-property-reform-obama-goes-troll-hunting Obama goes troll-hunting]
 |passage=The solitary, lumbering trolls of '''Scandinavian''' mythology would sometimes be turned to stone by exposure to sunlight. Barack Obama is hoping that several measures announced on June 4th will have a similarly paralysing effect on their modern incarnation, the patent troll.}}
-# (''Of a language'') Of the [[North Germanic]] family to which [[Swedish]], [[Norwegian]], [[Danish]], [[Icelandic]], and [[Faeroese]] belong.
+# (''Of a language'') Of or relating to the [[North Germanic]] family of [[language]]s to which [[Swedish]], [[Norwegian]] ([[Bokmål]], [[Nynorsk]]), [[Danish]], [[Icelandic]], and [[Faeroese]] belong.
 
 ====Derived terms====
 * {{l|en|Scandinavian Peninsula}}
 
 ====Translations====
-{{trans-top|of Scandinavia}}
+{{trans-top|of or relating to Scandinavia}}
 * Armenian: {{t+|hy|սկանդինավյան}}
 * Asturian: {{t|ast|escandinavu}}
 * Catalan: {{t|ca|escandinau}}
@@ -82,7 +82,9 @@
 * Italian: {{t+|it|scandinavo}}
 * Latvian: {{t|lv|skandināvu}}, {{t|lv|skandināvisks}}
 * Macedonian: {{t|mk|сканди́навски}}
-* Norwegian: {{t+|no|skandinavisk}}
+* Norwegian:
+*: Bokmål: {{t+|nb|skandinavisk}}
+*: Nynorsk: {{t|nn|skandinavisk}}
 * Polish: {{t+|pl|skandynawski|m}}
 * Portuguese: {{t+|pt|escandinavo}}
 * Romanian: {{t+|ro|scandinav}}
@@ -96,7 +98,7 @@
 * Ukrainian: {{t|uk|скандина́вський|m}}
 {{trans-bottom}}
 
-{{trans-top|of the North Germanic family of languages}}
+{{trans-top|of or relating the North Germanic family of languages}}
 * Danish: {{t|da|skandinavisk}}
 * Dutch: {{t+|nl|Scandinavisch}}
 * Faroese: {{t|fo|skandinaviskur|m}}
@@ -107,6 +109,9 @@
 * Icelandic: {{t|is|skandinavískur|m}}, {{t+|is|norrænn|m}}
 * Ido: {{t+|io|Skandinaviana}}, {{t|io|Skandinava}}
 * Latvian: {{t|lv|skandināvu}}, {{t|lv|skandināvisks}}
+* Norwegian:
+*: Bokmål: {{t+|nb|skandinavisk}}
+*: Nynorsk: {{t|nn|skandinavisk}}
 * Swahili: {{t|sw|-a Kiskandinavi}}
 * Swedish: {{t+|sv|skandinavisk}}
 {{trans-bottom}}
