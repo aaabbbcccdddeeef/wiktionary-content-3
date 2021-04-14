@@ -1,8 +1,7 @@
-{{wikipedia}}
 ==English==
 
 ===Alternative forms===
-* {{l|en|localisation}} {{qualifier|UK}}
+* {{alter|en|localisation||UK}}
 
 ===Etymology===
 From {{suffix|en|localize|ation}}; compare {{cog|fr|localisation}}.
@@ -12,6 +11,7 @@ From {{suffix|en|localize|ation}}; compare {{cog|fr|localisation}}.
 
 # The [[act]] of [[localize|localizing]].
 # {{lb|en|software engineering}} The act or process of making a product suitable for use in a particular country or region.
+#: {{cot|en|internationalization|i18n}}
 # The [[state]] of being [[localized]].
 # {{lb|en|algebra}} A [[systematic]] [[method]] of [[add]]ing [[multiplicative inverse]]s to a [[ring]].
 # {{lb|en|algebra}} A [[ring of fractions]] of a given ring, such that the complement of the set of allowed [[denominator]]s is an [[ideal]].
@@ -136,5 +136,5 @@ From {{suffix|en|localize|ation}}; compare {{cog|fr|localisation}}.
 * Turkish: {{t-check|tr|Bölge}}
 {{trans-bottom}}
 
-====See also====
-* {{l|en|internationalization}} / [[i18n]]
+===Further reading===
+* {{pedia}}
