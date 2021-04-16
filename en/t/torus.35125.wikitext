@@ -1,14 +1,15 @@
 {{also|Torus}}
 ==English==
 {{was wotd|2007|April|10}}
-{{wikipedia}}
-[[Image:Torus.png|thumb|A geometrical torus]]
+{{wikipedia|dab=torus (disambiguation)}}
+[[Image:Torus.png|thumb|A geometrical '''torus''']]
 
 ===Etymology===
-From {{etyl|la|en}} {{m|la|torus||swelling, protuberance}}
+Borrowed from {{bor|en|la|torus||a round, swelling, elevation, protuberance}}.
 
 ===Pronunciation===
-* {{IPA|en|/ˈtɔːɹəs/}}
+* {{a|RP}} {{IPA|en|/ˈtɔːɹəs/}}
+* {{a|GA}} {{IPA|en|/ˈtɔɹ.əs/}}
 * {{audio|en|en-us-torus.ogg|Audio (US)}}
 * {{audio|en|en-au-torus.ogg|Audio (AU)}}
 * {{rhymes|en|ɔːrəs}}
@@ -17,31 +18,34 @@ From {{etyl|la|en}} {{m|la|torus||swelling, protuberance}}
 ===Noun===
 {{en-noun|tori|+}}
 
-# {{lb|en|topology}} A [[topological space]] which is a [[product]] of two [[circle]]s.
-#: {{ux|en|A 4-variable Karnaugh map can be thought of, topologically, as being a '''torus'''.}}
-# {{lb|en|mathematics}} The standard representation of such a space in 3-dimensional Euclidean space: a [[shape]] consisting of a [[ring]] with a [[circular]] cross-section: the shape of an [[inner tube]] or hollow doughnut.
-# {{lb|en|topology|in combination|<nowiki/>'''''n''-torus'''|<nowiki/>'''4-torus'''|etc.}} The [[product]] of the specified number of [[circle]]s.
-# {{lb|en|architecture}} A [[molding]] which projects at the base of a [[column]] and above the [[plinth]].
-# {{lb|en|botany}} The end of the [[peduncle]] or [[flower]] [[stalk]] to which the [[floral]] parts (or in the [[Asteraceae]], the [[floret]]s of a [[flower head]]) are [[attach]]ed; [[receptacle]], [[thalamus]].
-# {{lb|en|anatomy}} A [[rounded]] [[ridge]], especially one on the [[occipital bone]].
+# {{lb|en|geometry}} {{ngd|The [[standard]] [[representation]] of such a [[space]] in [[3-dimensional]] [[Euclidean]] space:}} a [[surface]] or [[solid]] formed by [[rotate|rotating]] a [[closed]] [[curve]], especially a [[circle]], about a [[line]] which lies in the same [[plane]] but does not [[intersect]] it (e.g. like a [[ring doughnut]]).
+#: {{hyper|en|toroid}}
+## {{lb|en|topology}} A [[topological space]] which is a [[product]] of two [[circle]]s.
+##: {{ux|en|A 4-variable Karnaugh map can be thought of, topologically, as being a '''torus'''.}}
+##: {{hypo|en|solid torus}}
+### {{lb|en|topology|in combination|<nowiki/>'''''n''-torus'''|<nowiki/>'''4-torus'''|etc.}} The [[product]] of the specified number of [[circle]]s.
+## A [[ring-shaped]] object, especially a large ring-shaped [[chamber]] used in [[physical]] [[research]].
+# {{lb|en|architecture}} A large [[convex]] [[molding]], typically [[semicircular]] in [[cross section]], which commonly [[project]]s at the [[base]] of a [[column]] and above the [[plinth]].
+# {{lb|en|anatomy}} A [[rounded]] [[ridge]] of [[bone]] or [[muscle]], especially one on the [[occipital bone]].
+# {{lb|en|botany}} The end of the [[peduncle]] or [[flower]] [[stalk]] to which the [[floral]] parts (or in the [[Asteraceae]], the [[floret]]s of a [[flower head]]) are attached.
+#: {{syn|en|receptacle|thalamus}}
+# {{lb|en|botany}} The [[thickening]] of a [[membrane]] closing a [[wood]]-[[cell]] [[pit]] (as of [[gymnosperm]] [[tracheid]]s) having the [[secondary cell wall]] [[arch]]ed over the pit [[cavity]].
 
 ====Derived terms====
-* {{l|en|hypertorus}}
-* {{l|en|toric}}, {{l|en|toroid}}, {{l|en|toroidal}}
-* {{l|en|solid torus}}
+{{col3|en
+|toric
+|toroid
+|hypertorus
+|supertorus
+|subtorus
+|nanotorus
+|polytorus
+|keratotorus}}
+
+====Related terms====
+* {{l|en|torus tubarius}}
 
 ====Translations====
-{{trans-top|topological space}}
-* Esperanto: {{t+|eo|toro}}
-* Finnish: {{t+|fi|torus}}
-* French: {{t+|fr|tore}}
-* Japanese: {{t+|ja|トーラス|tr=tōrasu}}
-{{trans-mid}}
-* Polish: {{t+|pl|torus|m}}
-* Russian: {{t+|ru|тор|m}}
-* Spanish: {{t+|es|toro|m}}
-{{trans-bottom}}
-
 {{trans-top|shape in 3-dimensional Euclidean space}}
 * Albanian: {{t|sq|torusi}}
 * Arabic: {{t+|ar|طَارَة|m}}
@@ -76,7 +80,7 @@ From {{etyl|la|en}} {{m|la|torus||swelling, protuberance}}
 *: Bokmål: {{t|nb|torus|m}}
 *: Nynorsk: {{t|nn|torus|m}}
 * Polish: {{t+|pl|torus|m}}
-* Portuguese: {{t+|pt|toro|m}}
+* Portuguese: {{t+|pttoro|m}}
 * Romanian: {{t+|ro|tor|n}}
 * Russian: {{t+|ru|тор|m}}
 * Serbo-Croatian: 
@@ -91,13 +95,26 @@ From {{etyl|la|en}} {{m|la|torus||swelling, protuberance}}
 * Vietnamese: {{t|vi|khối xuyến}}
 {{trans-bottom}}
 
+{{trans-top|topological space}}
+* Chinese:
+*: Mandarin: {{t+|zh|環面|sc=Hani}}, {{t+|zh|环面|tr=huánmiàn|sc=Hani}}
+* Esperanto: {{t+|eo|toro}}
+* Finnish: {{t+|fi|torus}}
+* French: {{t+|fr|tore}}
+{{trans-mid}}
+* Japanese: {{t+|ja|トーラス|tr=tōrasu}}
+* Polish: {{t+|pl|torus|m}}
+* Russian: {{t+|ru|тор|m}}
+* Spanish: {{t+|es|toro|m}}
+{{trans-bottom}}
+
 {{trans-top|in combination, product of circles}}
 * Finnish: {{t+|fi|torus}}
 {{trans-mid}}
 * Polish: {{t+|pl|torus|m}}
 {{trans-bottom}}
 
-{{trans-top|molding}}
+{{trans-top|convex molding}}
 * Finnish: {{t+|fi|torus}}, {{t|fi|vannikka}}
 * French: {{t+|fr|tore|m}}
 {{trans-mid}}
@@ -105,24 +122,27 @@ From {{etyl|la|en}} {{m|la|torus||swelling, protuberance}}
 * Italian: {{t+|it|toro|m}}
 {{trans-bottom}}
 
-{{trans-top|end of a stalk}}
-* Finnish: {{t+|fi|kukkapohjus}}
+{{trans-top|receptacle}}
+* Chinese:
+*: Mandarin: {{t+|zh|花托|tr=huātuō|sc=Hani}}
 {{trans-mid}}
+* Finnish: {{t+|fi|kukkapohjus}}
 {{trans-bottom}}
 
 {{checktrans-top}}
 * Greek: {{t+check|el|τόρος|m}}
-{{trans-mid}}
 {{trans-bottom}}
 
-====See also====
+===See also===
 * {{l|en|annulus}}
 * {{l|en|hoop}}
 
+===References===
+* {{R:Lexico}}
+* {{R:MWO}}
+
 ===Anagrams===
 * {{anagrams|en|a=orstu|Rusto|Stour|Tours|roust|routs|stour|sutor|tours}}
-
-[[Category:English nouns with irregular plurals]]
 
 ----
 
