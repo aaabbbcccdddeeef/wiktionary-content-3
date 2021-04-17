@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-Borrowed from {{bor|en|la|vestibulum||forecourt, entrance court; entrance}}, from {{af|la|vestiō|-bulum|t1=to dress, clothe, vest|t2=place, location|pos2=nominal suffix|nocat=1}}. {{doublet|en|vestibule}}.
+Borrowed from {{bor|en|la|vestibulum||forecourt, entrance court; entrance}}. {{doublet|en|vestibule}}.
 
 ===Pronunciation===
 * {{a|GA}} {{IPA|en|/vɛˈstɪb.jəl.əm/}}
@@ -23,38 +23,39 @@ Borrowed from {{bor|en|la|vestibulum||forecourt, entrance court; entrance}}, fro
 ==Latin==
 
 ===Etymology===
-From {{suffix|la|vestio|bulum|alt1=vesti(ō)|gloss1=to dress}} (equivalent to English {{m|en|vest}} + {{m|en|-ible}}), probably from the sense of "a place to dress."
+From {{af|la|vestiō|-bulum|t1=to dress, clothe, vest|t2=place, location|pos2=nominal suffix}}, probably from the sense of "a place to dress."
 
 ===Pronunciation===
-* {{la-IPA|vestibulum}}
+* {{la-IPA}}
 
 ===Noun===
 {{la-noun|vestibulum<2>}}
 
-# [[vestibule]], [[forecourt]], an [[enclosed]] area at the front of a [[house]].
+# {{lb|la|literally}} [[enclosed]] space between the [[entrance]] of a [[house]] and the [[street]], [[forecourt]], entrance [[court]]
+#: {{cot|la|ātrium}}
+## {{lb|la|transferred sense}} [[entrance]] (to anything)
+# {{lb|la|figurative}} [[entrance]], [[opening]], [[beginning]]
 
-====Declension====
+====Inflection====
 {{la-ndecl|vestibulum<2>}}
 
 ====Descendants====
-{{top2}}
-* {{desc|ca|vestíbul}}
-* {{desc|en|vestibule}}
-* {{desc|fr|vestibule}}
-** {{desc|de|Vestibül}}
-** {{desc|ro|vestibul}}
-* {{desc|gl|vestíbulo}}
-* {{desc|it|vestibolo}}
-* {{desc|pl|westybul}}
-* {{desc|pt|vestíbulo}}
-* {{desc|pms|vestìbul}}
-* {{desc|ru|вестибюль}}
-* {{desc|sk|vestibul}}
-* {{desc|es|vestíbulo}}
-{{bottom}}
-
-===See also===
-* {{l|la|ātrium}}
+{{des-top}}
+* {{desc|ca|vestíbul|bor=1}}
+* {{desc|en|vestibulum|bor=1}}
+* {{desc|fr|vestibule|bor=1}}
+** {{desc|de|Vestibül|bor=1}}
+** {{desc|ro|vestibul|bor=1}}
+** {{desc|en|vestibule|bor=1}}
+* {{desc|gl|vestíbulo|bor=1}}
+* {{desc|it|vestibolo|bor=1}}
+* {{desc|pl|westybul|bor=1}}
+* {{desc|pt|vestíbulo|bor=1}}
+* {{desc|pms|vestìbul|bor=1}}
+* {{desc|ru|вестибюль|bor=1}}
+* {{desc|sk|vestibul|bor=1}}
+* {{desc|es|vestíbulo|bor=1}}
+{{des-bottom}}
 
 ===References===
 * {{R:L&S}}
