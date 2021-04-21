@@ -4,7 +4,7 @@
 {{wikipedia}}
 
 ===Etymology===
-From {{der|en|fro|eclipse}}, from {{der|en|la|eclīpsis}}, from {{der|en|grc|ἔκλειψις||eclipse}}, from {{m|grc|ἐκλείπω||I abandon, go missing, vanish}}, from {{m|grc|ἐκ||out}} and {{m|grc|λείπω||I leave behind}}.
+From {{der|en|fro|eclipse}}, from {{der|en|la|eclīpsis}}, from {{der|en|grc|ἔκλειψις|t=eclipse}}, from {{m|grc|ἐκλείπω|t=I abandon, go missing, vanish}}, from {{m|grc|ἐκ|t=out}} and {{m|grc|λείπω|t=I leave behind}}.
 
 ===Pronunciation===
 * {{IPA|en|/ɪˈklɪps/|/iˈklɪps/}}
@@ -28,14 +28,18 @@ From {{der|en|fro|eclipse}}, from {{der|en|la|eclīpsis}}, from {{der|en|grc|ἔ
 #*: Aubrey was rapturous. All her other playthings went into '''eclipse''' and the doings of the Geezenstacks occupied most of her waking thoughts.
 
 ====Derived terms====
-* {{l|en|lunar eclipse}}
-* {{l|en|solar eclipse}}
-* {{l|en|total eclipse}}
+{{col3|en
+|lunar eclipse
+|solar eclipse
+|total eclipse
+}}
 
 ====Related terms====
-* {{l|en|eclipsis}}
-* {{l|en|ecliptic}}
-* {{l|en|ecliptical}}
+{{col3|en
+|eclipsis
+|ecliptic
+|ecliptical
+}}
 
 ====Translations====
 {{trans-top|passage of a planetary object between others}}
@@ -53,7 +57,7 @@ From {{der|en|fro|eclipse}}, from {{der|en|la|eclīpsis}}, from {{der|en|grc|ἔ
 * Catalan: {{t+|ca|eclipsi|m}}
 * Cebuano: {{t|ceb|bakunawa}}
 * Chinese:
-*: Mandarin: {{qualifier|solar}} {{t+|cmn|日食|tr=rìshí|sc=Hani}}, {{qualifier|variant form}} {{t+|cmn|日蝕|sc=Hani}}, {{t+|cmn|日蚀|tr=rìshí|sc=Hani}}, {{qualifier|lunar}} {{t+|cmn|月食|tr=yuèshí|sc=Hani}}, {{qualifier|variant form}} {{t+|cmn|月蝕|sc=Hani}}, {{t+|cmn|月蚀|tr=yuèshí|sc=Hani}}
+*: Mandarin: {{qualifier|solar}} {{t+|cmn|日食|tr=rìshí}}, {{qualifier|variant form}} {{t+|cmn|日蝕}}, {{t+|cmn|日蚀|tr=rìshí}}, {{qualifier|lunar}} {{t+|cmn|月食|tr=yuèshí}}, {{qualifier|variant form}} {{t+|cmn|月蝕}}, {{t+|cmn|月蚀|tr=yuèshí}}
 * Crimean Tatar: {{t|crh|tutuluv}}
 * Czech: {{t+|cs|zatmění|n}}
 * Danish: {{t+|da|formørkelse|c}}
@@ -113,7 +117,7 @@ From {{der|en|fro|eclipse}}, from {{der|en|la|eclīpsis}}, from {{der|en|grc|ἔ
 * Santali: {{t|sat|ᱜᱚᱦᱚᱱᱚ}}
 * Scottish Gaelic: {{t|gd|dubhadh|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|помрчина|f}}
+*: Cyrillic: {{t|sh|по̏мрчина|f}}
 *: Roman: {{t+|sh|pȍmrčina|f}}
 * Slovak: {{t|sk|zatmenie|n}}
 * Slovene: {{t+|sl|mrk|m}}
@@ -141,7 +145,7 @@ From {{der|en|fro|eclipse}}, from {{der|en|la|eclīpsis}}, from {{der|en|grc|ἔ
 {{en-verb}}
 
 # {{lb|en|transitive}} Of astronomical bodies, to cause an eclipse.
-#: ''The Moon '''eclipsed''' the Sun.''
+#: {{ux|en|The Moon '''eclipsed''' the Sun.}}
 # {{lb|en|transitive|figurative}} To [[overshadow]]; to be better or more noticeable than.
 #* {{circa|1591}} {{w|William Shakespeare}}, ''{{w|Henry VI, Part 3}}'', Act 4, Scene 6, '''1869''', George Long Duyckinck (editor), ''The Complete Works of William Shakespeare'', [https://books.google.com.au/books?id=ackjAAAAMAAJ&pg=PA502&dq=%22liberty+is+half+eclipsed%22&hl=en&sa=X&redir_esc=y#v=onepage&q=%22liberty%20is%20half%20eclipsed%22&f=false page 502],
 #*: For, till I see them here, by doubtful fear / My joy of liberty is half '''eclips'd'''.
@@ -217,6 +221,9 @@ From {{der|gl|la|eclīpsis}}.
 
 ==Latin==
 
+===Pronunciation===
+* {{la-IPA|eclīpse}}
+
 ===Noun===
 {{la-noun-form|eclīpse}}
 
@@ -227,7 +234,7 @@ From {{der|gl|la|eclīpsis}}.
 ==Old French==
 
 ===Alternative forms===
-* {{l|fro|esclipse}}
+* {{alter|fro|esclipse}}
 
 ===Noun===
 {{fro-noun|m}}
@@ -241,24 +248,44 @@ From {{der|gl|la|eclīpsis}}.
 
 ==Portuguese==
 
-===Noun===
-{{pt-noun|m|eclipses}}
+===Pronunciation===
+* {{a|PT}} {{IPA|pt|/eˈklips(ə)/|/iˈklips(ə)/}}
+* {{hyph|pt|e|clip|se}}
+
+===Etymology 1===
+From {{der|pt|la|eclīpsis}}, from {{der|pt|grc|ἔκλειψις|t=eclipse}}.
+
+====Noun====
+{{pt-noun|m}}
 
 # {{l|en|eclipse}}
 
-====Related terms====
+=====Related terms=====
 * {{l|pt|eclipsar}}
 
-===Verb===
+===Etymology 2===
+{{nonlemma}}
+
+====Verb====
 {{head|pt|verb form}}
 
 # {{pt-verb-form-of|eclipsar}}
+
+===Further reading===
+* {{R:Aulete}}
+* {{R:Dicionário informal}}
+* {{R:pt:Infopédia}}
+* {{R:Michaelis}}
+* {{R:Priberam}}
 
 {{topics|pt|Astronomy}}
 
 ----
 
 ==Spanish==
+
+===Pronunciation===
+{{es-IPA}}
 
 ===Etymology 1===
 From {{der|es|la|eclīpsis}}.
