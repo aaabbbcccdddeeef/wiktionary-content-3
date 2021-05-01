@@ -1,9 +1,9 @@
 {{also|Gift|GIFT}}
 ==English==
-{{wikipedia|dab=gift (disambiguation)|gift}}
+{{wiki|dab=gift (disambiguation)|gift}}
 
 ===Alternative forms===
-* {{alter|en|yift}} {{q|dialectal}}
+* {{alt|en|yift||dialectal}} 
 
 ===Etymology===
 {{root|en|ine-pro|*gʰebʰ-}}
@@ -16,7 +16,7 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 * {{rhymes|en|ɪft}}
 
 ===Noun===
-{{wikipedia|gift|gift (present)}}
+{{wiki|gift|gift (present)}}
 {{en-noun}}
 
 # Something [[give]]n to another [[voluntarily]], without [[charge]].
@@ -29,8 +29,50 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 #: {{ux|en|The office is in the '''gift''' of the President.}}
 
 ====Synonyms====
-* {{sense|something freely given by another}} {{seeSynonyms|en|gift|sense=1}} ''For beneficial actions, see'' '''{{l|en|favor}}'''.
-* {{sense|something god-given}} {{l|en|ability}}, {{l|en|aptitude}}, {{l|en|knack}}, {{l|en|talent}}, {{l|en|strength}}
+* {{s|something freely given by another}} {{seeSynonyms|en|gift|sense=1}} ''For beneficial actions, see'' '''{{l|en|favor}}'''.
+* {{s|something god-given}} {{l|en|ability}}, {{l|en|aptitude}}, {{l|en|knack}}, {{l|en|talent}}, {{l|en|strength}}
+
+====Derived terms====
+{{der4|en
+|bride gift
+|countergift
+|foregift
+|fore-gift
+|gift bag
+|gift basket
+|giftbox
+|gift box
+|giftcard
+|gift card
+|gift certificate
+|gift from above
+|gift from the gods
+|gift giver
+|gift matching
+|gift of gab
+|gift of the gab
+|gift of tongues
+|giftpack
+|gift receipt
+|gift rope
+|gift set
+|gift shop
+|gift tax
+|gift that keeps on giving
+|gift voucher
+|giftware
+|giftwrap
+|gift-wrap
+|God's gift to man
+|God's gift to men
+|God's gift to women
+|Greek gift
+|morning gift
+|morning-gift
+|parting gift
+|regift
+|wedding gift
+}}
 
 ====Descendants====
 * {{desc|ja|ギフト|tr=gifuto|bor=1}}
@@ -73,7 +115,7 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 * Czech: {{t+|cs|dar|m}}, {{t+|cs|dárek|m}}
 * Danish: {{t+|da|gave|c}}
 * Dhivehi: {{t-needed|dv}}
-* Dutch: {{t+|nl|gift}}, {{t+|nl|geschenk|n}}, {{t+|nl|presentje|n}}, {{t+|nl|cadeau|n}}
+* Dutch: {{t+|nl|gift|m|f}}, {{t+|nl|geschenk|n}}, {{t+|nl|presentje|n}}, {{t+|nl|cadeau|n}}
 * Esperanto: {{t|eo|donaco}}
 * Estonian: {{t+|et|and}}, {{t|et|kingitus}}
 * Ewe: {{t-needed|ee}}
@@ -85,7 +127,7 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 * Friulian: {{t-needed|fur}}
 * Galician: {{t+|gl|regalo|m}}, {{t+|gl|agasallo|m}}
 * Georgian: {{t|ka|საჩუქარი}}, {{t|ka|ძღვენი}}, {{t|ka|ნაბოძები}}
-* German: {{t+|de|Geschenk|n}}, {{t+|de|Präsent|n}} {{qualifier|rarely}}, {{t+|de|Spende|f}}, {{t+|de|Gabe|f}}
+* German: {{t+|de|Geschenk|n}}, {{t+|de|Präsent|n}} {{q|rarely}}, {{t+|de|Spende|f}}, {{t+|de|Gabe|f}}
 * Gothic: {{t|got|𐌼𐌰𐌹𐌸𐌼𐍃|m}}, {{t|got|𐍆𐍂𐌰𐌲𐌹𐍆𐍄𐍃|f}}
 * Greek: {{t+|el|δώρο|n}}, {{t+|el|δωρεά|f}}, {{t+|el|χάρισμα|n}}
 *: Ancient: {{t|grc|δῶρον|n}}, {{t|grc|δώρημα|n}}
@@ -115,7 +157,7 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 * Ladin: {{t|lld|bonaman|f}}
 * Lao: {{t+|lo|ຂວັນ}}, {{t|lo|ຂອງຂວັນ}}
 * Latgalian: {{t|ltg|duovona|f}}
-* Latin: {{t+|la|dōnum|n}}, {{t+|la|mūnus|n}}, {{t|la|xenium|n}} (particularly from a guest to a host)
+* Latin: {{t+|la|dōnum|n}}, {{t+|la|mūnus|n}}, {{t|la|xenium|n}} {{q|particularly from a guest to a host}}
 * Latvian: {{t+|lv|dāvana|f}}
 * Ligurian: {{t|lij|regalu|m}}, {{t|lij|cadò}}
 {{trans-mid}}
@@ -128,16 +170,16 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 * Maltese: {{t|mt|rigal}}
 * Manx: {{t|gv|gioot|m}}, {{t|gv|tortys|f}}, {{t|gv|nastey|m}}
 * Maore Comorian: {{t|swb|zawadi|c9|c10}}
-* Maori: {{t|mi|koha}}, {{t|mi|kōpare}} {{qualifier|refers to food given to a host when visiting}}, {{t|mi|perehana}}
+* Maori: {{t|mi|koha}}, {{t|mi|kōpare}} {{q|refers to food given to a host when visiting}}, {{t|mi|perehana}}
 * Marathi: {{t|mr|भेटवस्तू|sc=Deva}}
 * Marsian: {{t|ims|dunom}}
 * Mirandese: {{t-needed|mwl}}
 * Mongolian: {{t+|mn|бэлэг|sc=Cyrl}}
 * Ngazidja Comorian: {{t|zdj|ɓambu|c5|c6}}, {{t|zdj|hiɗaya|c7|c8}}
-* Norman: {{t|nrf|persent|m}} {{qualifier|Guernsey}}, {{t|nrf|présent|m}} {{qualifier|Jersey}}
+* Norman: {{t|nrf|persent|m}} {{q|Guernsey}}, {{t|nrf|présent|m}} {{q|Jersey}}
 * Norwegian:
 *: Bokmål: {{t+|nb|gave|m|f}}, {{t+|nb|presang|m}}
-*: Nynorsk: {{t+|no|gåve|f}}, {{t+|no|presang|m}}
+*: Nynorsk: {{t|nn|gåve|f}}, {{t|nn|presang|m}}
 * Occitan: {{t+|oc|present|m}}, {{t+|oc|don|m}}
 * Old English: {{t+|ang|ġiefu|f}}
 * Old Norse: {{t|non|gipt|f}}, {{t|non|gáfa|f}}, {{t|non|gjǫf|f}}
@@ -163,7 +205,7 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 * Sicilian: {{t+|scn|rigalu|m}}, {{t+|scn|rijalu|m}}
 * Sindhi: {{t-needed|sd}}
 * Sinhalese: {{t|si|තෑග්ග|sc=Sinh}}
-* Slovak: {{t+|sk|dar|m}}, {{qualifier|diminutive}} {{t|sk|darček|m}}
+* Slovak: {{t+|sk|dar|m}}, {{q|diminutive}} {{t|sk|darček|m}}
 * Slovene: {{t+|sl|darilo|n}}
 * Somali: {{t-needed|so}}
 * Sotho: {{t+|st|mpho}}
@@ -222,7 +264,7 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 * Russian: {{t+|ru|пода́рок|m}}
 {{trans-bottom}}
 
-{{trans-top|a talent or natural ability}}
+{{trans-top|talent or natural ability}}
 * Afrikaans: {{t|af|gawe}}
 * Arabic: {{t|ar|قَرِيحَة|f}}
 * Armenian: {{t+|hy|ձիրք}}, {{t+|hy|շնորհք}}
@@ -252,7 +294,7 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 * Mongolian: {{t+|mn|авьяас}}
 * Norwegian:
 *: Bokmål: {{t+|nb|gave|m|f}}
-*: Nynorsk: {{t+|no|gåve|f}}
+*: Nynorsk: {{t|nn|gåve|f}}
 * Old English: {{t+|ang|ġiefu|f}}
 * Polish: {{t+|pl|dar|m}}, {{t+|pl|talent|m}}
 * Portuguese: {{t+|pt|dom|m}}, {{t+|pt|talento|m}}, {{t+|pt|engenho|m}}, {{t+|pt|jeito|m}}, {{t+|pt|mão|f}}, {{t+|pt|dedo|m}}, {{t+|pt|bossa|f}}, {{t+|pt|perícia|f}}
@@ -278,7 +320,7 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 * Latin: {{t-check|la|donatio|f}}, {{t+check|la|datus|m}}
 {{trans-bottom}}
 
-====See also====
+===See also===
 * {{l|en|lagniappe}}
 
 ===Verb===
@@ -301,6 +343,20 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 * {{l|en|donate}}
 * {{l|en|give}}
 
+====Related terms====
+{{rel4|en
+|begift
+|begive
+|giftable
+|giftee
+|gifter 
+|give out
+|give out stink
+|outgive
+|regift
+|re-gift
+}}
+
 ====Translations====
 {{trans-top|(transitive) to give as a gift}}
 * Armenian: {{t+|hy|նվիրել}}
@@ -317,7 +373,7 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 * Greek: {{t+|el|δωρίζω}}, {{t+|el|χαρίζω}}
 * Hungarian: {{t+|hu|ajándékoz}}
 * Italian: {{t+|it|regalare}}, {{t+|it|donare}}
-* Latin: {{t+|la|dare}}, {{t|la|donare}}
+* Latin: {{t+|la|dare}}, {{t|la|dōnāre}}
 * Luxembourgish: {{t|lb|schenken}}
 {{trans-mid}}
 * Manx: {{t|gv|gioot}}
@@ -336,47 +392,6 @@ From {{inh|en|enm|gift}} (also {{m|enm|yift}}, {{m|enm|yeft}}, {{m|enm|ȝift}}, 
 * Walloon: {{t+|wa|ofri}}, {{t+|wa|bistoker}}, {{t+|wa|sinker}}
 * Yiddish: {{t|yi|שענקען|}}
 {{trans-bottom}}
-
-===Derived terms===
-{{top2}}
-* {{l|en|begift}}
-* {{l|en|bride gift}}
-* {{l|en|countergift}}
-* {{l|en|foregift}}
-* {{l|en|giftable}}
-* {{l|en|gift bag}}
-* {{l|en|gift basket}}
-* {{l|en|gift box}}/{{l|en|giftbox}}
-* {{l|en|gift card}}/{{l|en|giftcard}}
-* {{l|en|gift certificate}}
-* {{l|en|morning economy}}
-* {{l|en|giftee}}
-* {{l|en|gift from above}}
-* {{l|en|gift from the gods}}
-* {{l|en|gift giver}}
-* {{l|en|gift horse}}
-* {{l|en|gift matching}}
-* {{l|en|gift of gab}}, {{l|en|gift of the gab}}
-* {{l|en|gift of tongues}}
-* {{l|en|giftpack}}
-* {{l|en|gift receipt}}
-* {{l|en|gift rope}}
-{{mid2}}
-* {{l|en|gift set}}
-* {{l|en|gift shop}}
-* {{l|en|gift tax}}
-* {{l|en|gift that keeps on giving}}
-* {{l|en|gift voucher}}
-* {{l|en|giftware}}
-* {{l|en|giftwrap}}, {{l|en|gift-wrap}}
-* {{l|en|God's gift to man}}
-* {{l|en|God's gift to women}}
-* {{l|en|Greek gift}}
-* {{l|en|morning gift}}
-* {{l|en|parting gift}}
-* {{l|en|regift}}
-* {{l|en|wedding gift}}
-{{bottom}}
 
 ===Anagrams===
 * {{anagrams|en|a=fgit|T.G.I.F.|TGIF}}
@@ -402,7 +417,7 @@ From {{der|da|de|Gift||poison}}. Similar to the archaic {{m|da||gift|gift}}, a v
 ====Derived terms====
 {{der3|da|giftig|giftgas|giftmord|giftsky|giftstof}}
 
-=====See also=====
+====See also====
 * {{pedialite|lang=da}}
 
 ===Etymology 2===
@@ -547,7 +562,7 @@ From {{der|nn|non|gipt}}.
 ====Noun====
 {{nn-noun-f1}}
 
-# a {{l|en|poison}}
+# {{l|en|poison}}
 
 =====Derived terms=====
 * {{l|nn|giftslange}}
@@ -576,7 +591,7 @@ Past participle of {{m|nn|gifta}}.
 # {{imperative of|nn|gifta}} ''and'' '''{{l|nn|gifte}}'''
 # {{supine of|nn|gifta}} ''and'' '''{{l|nn|gifte}}'''
 
-===References===
+====References====
 * {{R:The Nynorsk Dictionary}}
 
 ----
@@ -584,7 +599,7 @@ Past participle of {{m|nn|gifta}}.
 ==Old English==
 
 ===Alternative forms===
-* {{alter|ang|ġyft}}
+* {{l|ang|ġyft}}
 
 ===Etymology===
 {{root|ang|ine-pro|*gʰebʰ-}}
@@ -596,7 +611,7 @@ From {{inh|ang|gem-pro|*giftiz}}. Cognate with {{cog|ofs|jeft}}, {{cog|osx|*gift
 ===Noun===
 {{ang-noun|head=ġift|f|ġifta}}
 
-# payment for a [[wife]]
+# [[payment|Payment]] for a [[wife]].
 # {{lb|ang|in the plural}} [[marriage]], [[wedding]]
 
 ====Declension====
@@ -625,7 +640,7 @@ From {{der|sv|de|Gift}}.
 #*: Rådd-djuret gråter, sade Joxaren förebrående. Spöket har målat en dödskalle på kaffeburken och skrivit '''GIFT''' under och nu är Rådd-djuret utom sig och säger att har det inte gift sig förut så kommer det nu absolut aldrig att göra det!
 #*:: "The Muddler is crying," said the Joxter reproachfully. "The ghost has painted a skull and crossbones and the word '''POISON''' on the Muddler's coffee tin, and now the Muddler is beside himself and says that if it has not gotten married before it will absolutely never do it!"
 
-====Declension====
+=====Declension=====
 {{sv-infl-noun-n-r|gift|gifte}}
 
 ===Etymology 2===
@@ -643,10 +658,10 @@ From {{der|sv|non|gipta||give away in marriage}}, from {{der|sv|gem-pro|*giftiz}
 #*: Rådd-djuret gråter, sade Joxaren förebrående. Spöket har målat en dödskalle på kaffeburken och skrivit GIFT under och nu är Rådd-djuret utom sig och säger att har det inte '''gift''' sig förut så kommer det nu absolut aldrig att göra det!
 #*:: "The Muddler is crying," said the Joxter reproachfully. "The ghost has painted a skull and crossbones and the word POISON on the Muddler's coffee tin, and now the Muddler is beside himself and says that if it has not gotten '''married''' before it will absolutely never do it!"
 
-====Declension====
+=====Declension=====
 {{sv-adj-abs|gift|gift}}
 
-===Verb===
+====Verb====
 {{head|sv|verb form}}
 
 # {{sv-verb-form-imp|gifta}}
