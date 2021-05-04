@@ -3,7 +3,7 @@
 
 ===Etymology===
 {{root|en|ine-pro|*kʷyeh₁-}}
-From {{inh|en|enm|quiete}}, from {{der|en|fro|quiet|pos=adjective}} and {{m|en|fro|quiete|pos=noun}}, from {{der|en|la|quietus}}, past participle of {{m|la|quiescere||to keep quiet, rest}}. {{doublet|en|coy|quietus}}.
+From {{inh|en|enm|quiete}}, from {{der|en|fro|quiet|pos=adjective}} and {{m|en|fro|quiete|pos=noun}}, from {{der|en|la|quiētus}}, past participle of {{m|la|quiēscere||to keep quiet, rest}}. {{doublet|en|coy|quietus}}.
 
 ===Pronunciation===
 * {{enPR|kwī'ĭt}}, {{IPA|en|/ˈkwaɪ.ɪt/}}
@@ -39,11 +39,11 @@ From {{inh|en|enm|quiete}}, from {{der|en|fro|quiet|pos=adjective}} and {{m|en|f
 * {{seeCites|en}}
 
 ====Synonyms====
-* {{sense|with little sound}} See also [[Thesaurus:silent]]
-* {{sense|having little motion}} See also [[Thesaurus:calm]]
-* {{sense|not busy}} {{l|en|slow}}, {{l|en|unbusy}}
-* {{sense|not talking}} See also [[Thesaurus:taciturn]]
-* {{sense|not showy}} {{l|en|modest}}, {{l|en|plain}}, {{l|en|simple}}
+* {{s|with little sound}} See also [[Thesaurus:silent]]
+* {{s|having little motion}} See also [[Thesaurus:calm]]
+* {{s|not busy}} {{l|en|slow}}, {{l|en|unbusy}}
+* {{s|not talking}} See also [[Thesaurus:taciturn]]
+* {{s|not showy}} {{l|en|modest}}, {{l|en|plain}}, {{l|en|simple}}
 
 ====Antonyms====
 * {{l|en|loud}}
@@ -160,7 +160,7 @@ From {{inh|en|enm|quiete}}, from {{der|en|fro|quiet|pos=adjective}} and {{m|en|f
 * Urdu: {{t|ur|خاموش|tr=xāmoś}}
 * Uzbek: {{t+|uz|tinch}}
 * Venetian: {{t|vec|chieto}}, {{t|vec|chiet}}, {{t+|vec|cet}}, {{t|vec|poxado}}, {{t|vec|cucio}}
-* Vietnamese: {{t+|vi|yên tĩnh}} ({{t|vi|安靜}}), {{t+|vi|im lặng}} {{qualifier|of a person}}
+* Vietnamese: {{t+|vi|yên tĩnh}} ({{t|vi|安靜}}), {{t+|vi|im lặng}} {{q|of a person}}
 * Volapük: {{t+|vo|stilik}}
 * Walloon: {{t+|wa|påjhire|m|f}}, {{t+|wa|påjhûle|m|f}}
 * Yiddish: {{t|yi|שטיל}}
@@ -289,7 +289,7 @@ From {{inh|en|enm|quiete}}, from {{der|en|fro|quiet|pos=adjective}} and {{m|en|f
 #: {{syn|en|quiet down|quieten}}
 
 ====Translations====
-{{trans-top|to become quiet}}
+{{trans-top|become quiet}}
 * Dutch: {{t+|nl|kalmeren}}, [[rustig]] [[worden]]
 * Finnish: {{t+|fi|hiljentyä}}, {{t+|fi|rauhoittua}}
 * French: {{t+|fr|apaiser|alt=s'apaiser}}, {{t+|fr|calmer|alt=se calmer}}, {{t+|fr|taire|alt=se taire}}, {{t+|fr|tranquilliser|alt=se tranquilliser}}
@@ -304,7 +304,7 @@ From {{inh|en|enm|quiete}}, from {{der|en|fro|quiet|pos=adjective}} and {{m|en|f
 * Swedish: {{t+|sv|tystna}}
 {{trans-bottom}}
 
-{{trans-top|to cause someone to become quiet}}
+{{trans-top|cause someone to become quiet}}
 * Catalan: {{t+|ca|calmar}}
 * Dutch: {{t+|nl|kalmeren}}
 * Finnish: {{t+|fi|hiljentää}}, {{t+|fi|rauhoittaa}}
@@ -402,7 +402,38 @@ From {{inh|en|enm|quiete}}, from {{der|en|fro|quiet|pos=adjective}} and {{m|en|f
 #: {{ux|en|'''Quiet!''' The children are sleeping.}}
 
 ===Related terms===
-{{rel3|en|acquiesce|acquiet|disquiet|have a quiet word|inquietude|keep quiet|on the quiet|peace and quiet|quiesce|quiescent|quiet as a mouse|quiet coach|quiet down|quiet enjoyment|quiet lung|quiet down|quiet period|quietage|quieten|quietism|quietist|quietly|quietness|quietsom|quietude|requiem|so quiet|so quiet one can hear a pin drop|ultraquiet|unquiet}}
+{{rel4|en
+|acquiesce
+|acquiet
+|disquiet
+|have a quiet word
+|inquietude
+|keep quiet
+|on the quiet
+|peace and quiet
+|quiesce
+|quiescence
+|quiescent
+|quietage
+|quiet as a mouse
+|quiet coach
+|quiet down
+|quieten
+|quiet enjoyment
+|quietism
+|quietist
+|quiet lung
+|quietly
+|quietness
+|quiet period
+|quietsom
+|quietude
+|requiem
+|so quiet
+|so quiet one can hear a pin drop
+|ultraquiet
+|unquiet
+}}
 
 ===Further reading===
 * {{R:Webster 1913}}
@@ -426,7 +457,7 @@ From {{inh|en|enm|quiete}}, from {{der|en|fro|quiet|pos=adjective}} and {{m|en|f
 ==Catalan==
 
 ===Etymology===
-First attested 1490. From {{bor|ca|la|quietus}}, in this form probably a borrowing or a semi-learned term; cf. also the Old Catalan form {{m|roa-oca|quet|quet, queda}}, which was likely inherited.
+First attested 1490. From {{bor|ca|la|quiētus}}, in this form probably a borrowing or a semi-learned term; cf. also the Old Catalan form {{m|roa-oca|quet|quet, queda}}, which was likely inherited.
 
 ===Pronunciation===
 * {{ca-IPA}}
@@ -435,7 +466,7 @@ First attested 1490. From {{bor|ca|la|quietus}}, in this form probably a borrowi
 {{ca-adj}}
 
 # [[calm]], [[stopped]]
-# [[#English|quiet]]
+# {{l|en|quiet}}
 
 ====Synonyms====
 * {{l|ca|aturat}}
@@ -469,7 +500,7 @@ Borrowed from {{bor|fr|la|quiētus}}, from {{m|la|quiēs||rest}}. Doublet of {{d
 ===Adjective===
 {{fr-adj|f=quiète}}
 
-# {{lb|fr|rare|literary}} [[calm]], [[#English|quiet]], [[peaceful]], [[at ease]]
+# {{lb|fr|rare|literary}} [[calm]], {{l|en|quiet}}, [[peaceful]], [[at ease]]
 
 ====Synonyms====
 * ''See'' {{l|fr|calme}}
@@ -488,7 +519,7 @@ Its antonym {{m|fr|inquiet}} is much more common.
 ==Occitan==
 
 ===Etymology===
-From {{der|oc|la|quietus}}.
+From {{der|oc|la|quiētus}}.
 
 ===Pronunciation===
 * {{IPA|oc|[ˈkjet]}}
@@ -497,7 +528,7 @@ From {{der|oc|la|quietus}}.
 {{oc-adj|f=quieta|fpl=quiets}}
 
 # [[calm]], [[stopped]]
-# [[#English|quiet]]
+# {{l|en|quiet}}
 
 ====Synonyms====
 * {{l|oc|suau}}
