@@ -167,12 +167,12 @@ Borrowed from {{bor|en|fr|sofa}}, ultimately from {{der|en|ar|صُفَّة||a [[
 ----
 
 ==Danish==
-{{wikipedia|lang=da}}
+{{wp|lang=da}}
 
 ===Noun===
 {{da-noun|en|er}}
 
-# [[sofa#English|sofa]], [[couch]], [[divan]], [[settee]]
+# {{l|en|sofa}}, [[couch]], [[divan]], [[settee]]
 
 ====Inflection====
 {{da-noun-infl|en|er}}
@@ -228,7 +228,7 @@ Note casually that Arabic itself uses {{m|ar|كَنَبة}} for “sofa”, from
 
 ===Etymology===
 {{root|is|ine-pro|*swep-}}
-From {{der|is|non|sofa}}, from {{der|is|gem-pro|*swefaną}}.
+From {{inh|is|non|sofa}}, from {{inh|is|gem-pro|*swefaną}}.
 
 ===Pronunciation===
 * {{IPA|is|/ˈsɔːva/}}
@@ -294,7 +294,7 @@ Borrowed from {{bor|nrf|en|sofa}}.
 ----
 
 ==Norwegian Bokmål==
-{{wikipedia|lang=no}}
+{{wp|lang=nb}}
 
 ===Noun===
 {{nb-noun-m1}}
@@ -302,13 +302,17 @@ Borrowed from {{bor|nrf|en|sofa}}.
 # {{l|en|sofa}}, [[couch]]
 
 ===References===
-* {{R:The Bokmål Dictionary}}
+* {{R:BD}}
 
-{{topics|nb|Furniture}}
+{{c|nb|Furniture}}
 
 ----
 
 ==Norwegian Nynorsk==
+{{wp|lang=nn}}
+
+===Pronunciation===
+* {{IPA|nn|/ˈsuːfɑ/}} {{nn-pronu-note}}
 
 ===Noun===
 {{nn-noun-m2}}
@@ -316,9 +320,49 @@ Borrowed from {{bor|nrf|en|sofa}}.
 # a {{l|en|sofa}} or [[couch]]
 
 ===References===
-* {{R:The Nynorsk Dictionary}}
+* {{R:ND}}
 
-{{topics|nn|Furniture}}
+{{c|nn|Furniture}}
+
+----
+
+==Old Norse==
+
+===Etymology===
+{{root|nn|ine-pro|*swep-}}
+From {{inh|nn|gem-pro|*swefaną}}.
+
+===Verb===
+{{head|non|verb|singular present indicative|sefr|or|søfr|singular past indicative|svaf|plural past indicative|sváfu|or|sófu|past participle|sofinn}}
+
+# to [[sleep]]
+
+=====Conjugation=====
+{{non-conj_sofa}}
+
+====Related terms====
+* {{l|non|sofna}}
+* {{l|non|svefn}}
+
+=====Descendants=====
+{{top2}}
+* {{desc|is|sofa}}
+* {{desc|fo|sova}}
+* {{desc|nn|sova}}, {{l|nn|sove}}
+* {{desc|nb|sove}}
+* {{desc|gmq-bot|sȯfwa}}, {{l|gmq-bot|såva}}, {{l|gmq-bot|soa}}
+* {{desc|gmq-jmk|sovo}}
+* {{desc|ovd|såvå}}
+* {{desc|gmq-osw|sova}}
+** {{desc|sv|sova}}
+* {{desc|gmq-oda|souæ}}
+** {{desc|da|sove}}
+* {{desc|gmq-gut|syve}}
+* {{desc|gmq-scy|søva}}
+{{bottom}}
+
+===References===
+* {{R:Zoega}}
 
 ----
 
