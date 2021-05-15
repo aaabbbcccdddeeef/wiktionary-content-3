@@ -1,6 +1,6 @@
 {{also|File|filé|fíle}}
 ==English==
-{{wikipedia|dab=file}}
+{{wiki|dab=file}}
 
 ===Pronunciation===
 * {{a|UK|US}} {{IPA|en|/faɪl/|[faɪ̯ɫ]}}
@@ -8,7 +8,7 @@
 * {{rhymes|en|aɪl}}
 
 ===Etymology 1===
-From {{der|en|fro|fil||thread}}, from {{der|en|la|filum||thread}}. {{doublet|en|filum}}.
+From {{der|en|fro|fil||thread}}, from {{der|en|la|fīlum||thread}}. {{doublet|en|filum}}.
 
 ====Noun====
 {{en-noun}}
@@ -24,7 +24,7 @@ From {{der|en|fro|fil||thread}}, from {{der|en|la|filum||thread}}. {{doublet|en|
 #: ''I'm going to delete these unwanted '''files''' to free up some disk space.''
 
 =====Synonyms=====
-* {{sense|collection}} {{l|en|document}}, a [[paper]]
+* {{s|collection}} {{l|en|document}}, [[paper]]
 
 =====Hyponyms=====
 {{col4|en|title=Hyponyms of ''file'' (etymology 1)
@@ -134,7 +134,7 @@ From {{der|en|fro|fil||thread}}, from {{der|en|la|filum||thread}}. {{doublet|en|
 * Norwegian: {{t+|no|arkiv|n}}
 * Persian: {{t+|fa|پرونده|tr=parvande|sc=fa-Arab}}
 * Polish: {{t+|pl|kartoteka|f}}, {{t+|pl|katalog|m}}, {{t+|pl|plik|m}}
-* Portuguese: {{t+|pt|arquivo|m}} {{qualifier|Brazil}}, {{t+|pt|ficheiro|m}} {{qualifier|Portugal}}
+* Portuguese: {{t+|pt|arquivo|m}} {{q|Brazil}}, {{t+|pt|ficheiro|m}} {{q|Portugal}}
 * Romanian: {{t+|ro|fișier|n}}, {{t+|ro|dosar|n}}
 * Russian: {{t+|ru|де́ло|n}}, {{t+|ru|па́пка|f}}, {{t+|ru|досье́|n|sc=Cyrl}}
 * Serbo-Croatian:
@@ -199,7 +199,7 @@ From {{der|en|fro|fil||thread}}, from {{der|en|la|filum||thread}}. {{doublet|en|
 * Norwegian Bokmål: {{t+|nb|fil|m|f}}
 * Persian: {{t+|fa|پرونده|tr=parvande}}, {{t+|fa|فایل|tr=fâyl}}
 * Polish: {{t+|pl|plik|m}}
-* Portuguese: {{t+|pt|arquivo|m}} {{qualifier|Brazil}}, {{t+|pt|ficheiro|m}} {{qualifier|Portugal}}
+* Portuguese: {{t+|pt|arquivo|m}} {{q|Brazil}}, {{t+|pt|ficheiro|m}} {{q|Portugal}}
 * Romanian: {{t+|ro|fișier|n}}
 * Russian: {{t+|ru|файл|m}}
 * Scots: {{t|sco|fyle}}
@@ -221,7 +221,7 @@ From {{der|en|fro|fil||thread}}, from {{der|en|la|filum||thread}}. {{doublet|en|
 * Urdu: {{t|ur|فائل|f|tr=fāil|sc=ur-Arab}}
 * Uzbek: {{t+|uz|fayl}}
 * Vietnamese: {{t|vi|tệp}}, {{t+|vi|tập tin}}, {{t|vi|tệp tin}}
-* West Frisian: {{t+|fy|bestân|n}}, {{qualifier|neologism}} {{t+|fy|triem|c}}
+* West Frisian: {{t+|fy|bestân|n}}, {{t+|fy|triem|c}} {{q|neologism}} 
 * Yiddish: {{t|yi|טעקע|f}}
 {{trans-bottom}}
 
@@ -251,7 +251,7 @@ From {{der|en|fro|fil||thread}}, from {{der|en|la|filum||thread}}. {{doublet|en|
 * Czech: {{t+|cs|podat|pf}}
 * Danish: {{t+|da|arkivere}}
 * Estonian: {{t|et|esitama}}
-* Finnish: {{t+|fi|jättää}}; {{t+|fi|nostaa}} {{qualifier|of a lawsuit}}
+* Finnish: {{t+|fi|jättää}}; {{t+|fi|nostaa}} {{q|of a lawsuit}}
 * German: {{t|de|Antrag stellen}}, {{t+|de|einreichen}}, {{t+|de|eingeben}}
 * Greek: {{t+|el|καταθέτω}}
 * Italian: {{t+|it|archiviare}}
@@ -332,8 +332,8 @@ From {{der|en|fr|file}}, from {{m|fr|filer||to spin out, arrange one behind anot
 # {{lb|en|chess}} one of the eight vertical lines of squares on a chessboard (i.e., those identified by a letter). The analog horizontal lines are the ''[[rank]]s''.
 
 =====Derived terms=====
-{{der3
-|en|Indian file
+{{der3|en
+|Indian file
 |rank and file
 |single file
 }}
@@ -345,13 +345,13 @@ From {{der|en|fr|file}}, from {{m|fr|filer||to spin out, arrange one behind anot
 *: Mandarin: {{t+|cmn|列|tr=liè}}
 * Czech: {{t+|cs|zástup|m}}
 * Danish: {{t|da|kø|c}}
-* Dutch: {{t+|nl|rij}}, {{t|nl|kolonne}}, {{t+|nl|file}} (of cars)
+* Dutch: {{t+|nl|rij}}, {{t|nl|kolonne}}, {{t+|nl|file}} {{q|of cars}}
 * Esperanto: {{t+|eo|vico}}
 * Estonian: {{t|et|kolonn}}
 * Finnish: {{t+|fi|jono}}
 * French: {{t+|fr|file|f}}
 * German: {{t+|de|Reihe|f}}
-* Greek: {{t+|el|σειρά}}, {{t+|el|συστοιχία}}
+* Greek: {{t+|el|σειρά}}, {{t+|el|συστοιχία|f}}
 *: Ancient: {{t|grc|στοῖχος|m}}
 {{trans-mid}}
 * Italian: {{t+|it|fila|f}}
@@ -369,7 +369,7 @@ From {{der|en|fr|file}}, from {{m|fr|filer||to spin out, arrange one behind anot
 * Thai: {{t+|th|แถว}}
 {{trans-bottom}}
 
-{{trans-top|A small detachment of soldiers}}
+{{trans-top|small detachment of soldiers}}
 * Maori: {{t+|mi|kaha}}, {{t|mi|kaha tauā}}
 {{trans-mid}}
 {{trans-bottom}}
@@ -413,16 +413,16 @@ From {{der|en|fr|file}}, from {{m|fr|filer||to spin out, arrange one behind anot
 #: ''The applicants kept '''filing''' into the room until it was full.''
 
 =====Derived terms=====
-{{der2
-|en|file in
+{{der2|en
+|file in
 |file out
 }}
 
 ====Translations====
-{{trans-top|To move in a file or in a line}}
+{{trans-top|move in a file or in a line}}
 * Danish: {{t|da|defilere}}
-* Maori: {{t|mi|whakapinepine}}
 {{trans-mid}}
+* Maori: {{t|mi|whakapinepine}}
 {{trans-bottom}}
 
 ===Etymology 3===
@@ -503,7 +503,7 @@ From {{inh|en|enm|file}}, {{m|enm|fyle}}, from {{inh|en|ang|fēl}}, {{m|ang|fēo
 * Polish: {{t+|pl|pilnik|m}}
 * Portuguese: {{t+|pt|lima}}, {{t+|pt|lixa}}
 * Romanian: {{t+|ro|pilă|f}}
-* Russian: {{t+|ru|напи́льник|m}}, {{t+|ru|пи́лка|f}} {{qualifier|nail file}}, {{t+|ru|пи́лочка|f}} {{qualifier|nail file}}, {{t+|ru|на́дфиль|m}} {{qualifier|fine file}}
+* Russian: {{t+|ru|напи́льник|m}}, {{t+|ru|пи́лка|f}} {{q|nail file}}, {{t+|ru|пи́лочка|f}} {{qualifier|nail file}}, {{t+|ru|на́дфиль|m}} {{q|fine file}}
 * Serbo-Croatian:
 *: Cyrillic: {{t|sh|турпија|f|sc=Cyrl}}
 *: Roman: {{t+|sh|turpija|f}}
@@ -517,7 +517,7 @@ From {{inh|en|enm|file}}, {{m|enm|fyle}}, from {{inh|en|ang|fēl}}, {{m|ang|fēo
 * Thai: {{t|th|ตะไบ}}
 * Turkish: {{t+|tr|eğe}}, {{t+|tr|törpü}}
 * Turkmen: {{t|tk|ige}}
-* Ukrainian: {{t|uk|напи́лок|m|sc=Cyrl}}, {{t|uk|пи́лка|f|sc=Cyrl}} {{qualifier|nail file}}
+* Ukrainian: {{t|uk|напи́лок|m|sc=Cyrl}}, {{t|uk|пи́лка|f|sc=Cyrl}} {{q|for nails}}
 * Uzbek: {{t+|uz|egov}}
 * Venetian: {{t|vec|łima|f}}
 * Vietnamese: {{t+|vi|giũa}}
@@ -538,7 +538,7 @@ From {{inh|en|enm|file}}, {{m|enm|fyle}}, from {{inh|en|ang|fēl}}, {{m|ang|fēo
 * [[filing]]
 
 =====Translations=====
-{{trans-top|to smooth with a file}}
+{{trans-top|smooth with a file}}
 * Bulgarian: {{t+|bg|пиля|sc=Cyrl}}
 * Czech: {{t+|cs|pilovat}}
 * Danish: {{t+|da|file}}
@@ -578,9 +578,9 @@ From {{inh|en|enm|filen|t=to defile}}, from {{inh|en|ang|fȳlan|t=to defile, mak
 ====Verb====
 {{en-verb}}
 
-# {{lb|en|archaic}} to [[defile]]
+# {{lb|en|archaic}} To [[defile]].
 #* {{RQ:Shakespeare Macbeth|3|1|passage=for Banquo's issue have I '''fil'd''' my mind}}
-# to [[corrupt]]
+# To [[corrupt]].
 
 ===Anagrams===
 * {{anagrams|en|a=efil|Life|flie|lief|life}}
@@ -619,7 +619,7 @@ From {{der|nl|en|file||computer file}}, from {{der|nl|fro|fil||thread}}, from {{
 ====Noun====
 {{nl-noun|m|-s|filetje}}
 
-# {{lb|nl|computing}} {{l|en|file}} {{gloss|an [[aggregation]] of [[data]] on a [[storage]] [[device]] identified by a name}}
+# {{lb|nl|computing}} {{l|en|file}} (an [[aggregation]] of [[data]] on a [[storage]] [[device]] identified by a name)
 
 ===Anagrams===
 * {{l|nl|lief}}
@@ -672,7 +672,7 @@ From {{m|fr|fil}} or the verb {{m|fr|filer}}.
 # {{lb|fr|Belgium}} [[traffic jam]]
 
 ====Synonyms====
-* {{sense|jam}} {{l|fr|bouchon}}, {{l|fr|embouteillage}}
+* {{s|jam}} {{l|fr|bouchon}}, {{l|fr|embouteillage}}
 
 ====Derived terms====
 * {{l|fr|file d'attente}}
@@ -713,9 +713,9 @@ From {{inh|ga|sga|fili}}, from {{inh|ga|pgl|ᚃᚓᚂᚔᚈᚐᚄ}}, from {{inh|
 {{ga-decl-m4|f|ile|ilí}}
 
 ====Derived terms====
-{{der2
-|ga|filíocht
-|{{l|ga|pribhléid an fhile|t=poetic licence}}
+{{der2|ga
+|filíocht
+|{{l|ga|pribhléid an fhile||poetic licence}}
 }}
 
 ===Mutation===
@@ -730,7 +730,7 @@ From {{inh|ga|sga|fili}}, from {{inh|ga|pgl|ᚃᚓᚂᚔᚈᚐᚄ}}, from {{inh|
 ===Noun===
 {{it-noun|m|-}}
 
-# {{lb|it|computing}} [[file#English|file]]
+# {{lb|it|computing}} {{l|en||file}}
 
 ===Noun===
 {{head|it|noun plural form|g=f}}
@@ -745,7 +745,7 @@ From {{inh|ga|sga|fili}}, from {{inh|ga|pgl|ᚃᚓᚂᚔᚈᚐᚄ}}, from {{inh|
 ==Northern Kurdish==
 
 ===Alternative forms===
-* {{alter|kmr|fele|fileh|fillah|fille}}
+* {{alt|kmr|fele|fileh|fillah|fille}}
 
 ===Etymology===
 From {{bor|kmr|ar|فَلَّاح}}.<ref>{{R:ku:Chyet|page=195a}}</ref> Sedentary Armenians called so after their way of life by nomadic Kurds.<ref>{{R:ku:Cabolov|vol=II|page=354}}</ref>
@@ -779,14 +779,14 @@ From {{bor|kmr|ar|فَلَّاح}}.<ref>{{R:ku:Chyet|page=195a}}</ref> Sedentary
 From {{m|nn|fil|g=f||a file}}.
 
 ====Alternative forms====
-* {{alter|nn|fila||a infinitive}}
+* {{alt|nn|fila||a infinitive}}
 
 ====Verb====
 {{nn-verb-12}}
 
-# {{lb|nn|transitive}} to use a {{l|en|file}} to {{l|en|file}}
-# {{lb|nn|transitive}} to [[rub]] into making a [[sound]]
-# {{lb|nn|transitive|figurative}} to [[polish]], [[refine]]
+# {{lb|nn|transitive}} To use a {{l|en|file}} to {{l|en|file}}.
+# {{lb|nn|transitive}} To [[rub]] (making a [[sound]]).
+# {{lb|nn|transitive|figurative}} To [[polish]], [[refine]].
 
 ===Etymology 2===
 Probably related to {{cog|sv|fil}}.
