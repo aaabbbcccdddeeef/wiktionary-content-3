@@ -56,12 +56,12 @@ From {{inh|en|enm|thanken}}, {{m|enm|thankien}}, from {{inh|en|ang|þancian}}, {
 * Arabic: {{t|ar|شَكَرَ}}
 * Armenian: {{t|hy|շնորհակալություն հայտնել}}
 * Belarusian: {{t|be|дзя́каваць|impf}}, {{t|be|падзя́каваць|pf}}
-* Bulgarian: {{t+|bg|благодаря́|impf|sc=Cyrl}}
+* Bulgarian: {{t+|bg|благодаря́|impf}}
 * Burmese: {{t+|my|ကျေးဇူးတင်}}
 * Catalan: {{t+|ca|agrair}}
 * Cherokee: {{t|chr|ᎠᎵᎮᎵᏤᎭ}}
 * Chinese:
-*: Mandarin: {{t+|cmn|感謝|sc=Hani}}, {{t+|cmn|感谢|tr=gǎnxiè|sc=Hani}}, {{t+|cmn|道謝|sc=Hani}}, {{t+|cmn|道谢|tr=dàoxiè|sc=Hani}}, {{t+|cmn|謝}}, {{t+|cmn|谢|tr=xiè}}
+*: Mandarin: {{t+|cmn|感謝}}, {{t+|cmn|感谢|tr=gǎnxiè}}, {{t+|cmn|道謝}}, {{t+|cmn|道谢|tr=dàoxiè|sc=Hani}}, {{t+|cmn|謝}}, {{t+|cmn|谢|tr=xiè}}
 * Czech: {{t+|cs|děkovat|impf}}, {{t+|cs|poděkovat|pf}}
 * Danish: {{t+|da|takke}}
 * Dutch: {{t+|nl|danken}}
@@ -104,11 +104,11 @@ From {{inh|en|enm|thanken}}, {{m|enm|thankien}}, from {{inh|en|ang|þancian}}, {
 * Russian: {{t+|ru|благодари́ть|impf}}, {{t+|ru|поблагодари́ть|pf}}
 * Scottish Gaelic: {{t|gd|thoir taing do}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|захваљи́вати|impf}}, {{t|sh|захва́лити|pf}}
-*: Roman: {{t+|sh|zahvaljívati|impf}}, {{t+|sh|zahváliti|pf}}
+*: Cyrillic: {{t|sh|захваљи́вати|impf}}, {{t|sh|захва́лити|pf}}{{t|sh|благода́рити|impf}}, 
+*: Roman: {{t+|sh|zahvaljívati|impf}}, {{t+|sh|zahváliti|pf}}{{t+|sh|blagodáriti|impf}}, 
 * Shan: {{t-needed|shn}}
-* Slovak: {{t|sk|ďakovať}}, {{t|sk|poďakovať}}
-* Slovene: {{t|sl|zahvaliti}}, {{t|sl|zahvaljevati|impf|alt=zahvaljevati se}}, {{t|sl|zahvaliti|pf|alt=zahvaliti se}}
+* Slovak: {{t|sk|ďakovať|impf}}, {{t|sk|poďakovať|pf}}
+* Slovene: {{t|sl|zahvaljevati|impf|alt=zahvaljevati se}}, {{t|sl|zahvaliti|pf|alt=zahvaliti se}}
 * Spanish: {{t+|es|agradecer}}
 * Swahili: {{t|sw|shukuru|alt=-shukuru}}
 * Swedish: {{t+|sv|tacka}}
@@ -126,33 +126,26 @@ From {{inh|en|enm|thanken}}, {{m|enm|thankien}}, from {{inh|en|ang|þancian}}, {
 
 {{trans-top|credit or hold something responsible}}
 * American Sign Language: {{t|ase|OpenB@Chin-PalmBack OpenB@FromChin-PalmUp}}
-* Czech: {{t+|cs|poděkovat}}
+* Czech: {{t+|cs|děkovat|impf}}, {{t+|cs|poděkovat|pf}}
 * Finnish: {{t+|fi|kiittää}}
 * Greek: {{t+|el|ευχαριστώ}}
-* Hebrew: {{t+|he|הודה}}
+* Hebrew: {{t+|he|הוֹדָה|tr=hodá}}
 * Hungarian: {{t+|hu|köszön}}
 {{trans-mid}}
-* Japanese: {{t|ja|おかげ|tr=okage|sc=Jpan}}
+* Japanese: {{t|ja|おかげ|tr=okage}} {{q|noun}}
 * Norwegian: {{t+|no|takke}}
-* Slovak: {{t|sk|poďakovať}}
+* Slovak: {{t|sk|ďakovať|impf}}, {{t|sk|poďakovať|pf}}
 * Yiddish: {{t|yi|דאַנקען}}
 {{trans-bottom}}
 
 {{checktrans-top|express gratitude}}
-* Belarusian: {{t-check|be|дзя́каваць}}
 * Dutch: {{t+check|nl|bedanken}}
-* Hindi: {{t-check|hi|धन्यवाद देना}}, {{t-check|hi|शुक्रिया करना}}
 * Italian: {{t+check|it|ringraziare}}
 * Latin: {{t-check|la|grātiās agō}}
 * Romanian: {{t+check|ro|mulțumi}}
-* Serbo-Croatian:
-*: Cyrillic: {{t-check|sh|захвалити|sc=Cyrl}}
-*: Roman: {{t+check|sh|zahvaliti}}, {{t+check|sh|blagodariti}}
 {{trans-mid}}
-* Serbo-Croatian: {{t+check|sh|zahvaliti}}
-* Slovene: {{t-check|sl|zahvaliti}}
+* Russian: {{t+|ru|благодари́ть|impf}}, {{t+|ru|поблагодари́ть|pf}}
 * Spanish: {{t+check|es|agradecer}}
-* Ukrainian: {{t+check|uk|дя́кувати}}
 {{trans-bottom}}
 
 ----
