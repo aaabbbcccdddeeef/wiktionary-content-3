@@ -744,15 +744,17 @@ From {{inh|cy|wlm|am}}, from {{inh|cy|cel-pro|*ambi}} (compare {{cog|sga|imb}}),
 # {{qualifier|time}} [[at#English|at]]
 # {{lb|cy|with {{m|cy|siarad}}, {{m|cy|sôn}}, or {{m|cy|meddwl}}}} [[about]], [[concerning]]
 # {{q|in exclamations}} [[what a]] {{q|+noun}}, [[how]] {{q|+adjective}}
-#: {{uxi|cy|Am lanastr!|What a mess!}}
-#: {{uxi|cy|Am annheg!|How unfair!}}
+#: {{uxi|cy|'''Am''' lanastr!|What a mess!}}
+#: {{uxi|cy|'''Am''' annheg!|How unfair!}}
 
 ====Inflection====
 {{cy-personal-prep|amdana|amdanat|amdano|amdani|amdanon|amdanoch|amdanyn}}
 
 ====Derived terms====
-* {{l|cy|am byth||forever}}
-* {{l|cy|bod am||to want}}
+{{der2|cy
+|am byth<tr:forever>
+|bod am<tr:to want>
+}}
 
 ===Conjunction===
 {{head|cy|conjunction}}
