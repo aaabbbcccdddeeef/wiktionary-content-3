@@ -614,7 +614,7 @@ From {{der|nb|non|faðir}}, from {{der|nb|gem-pro|*fadēr}}, from {{der|nb|ine-p
 From {{inh|nn|non|faðir}}, from {{inh|nn|gem-pro|*fadēr}}, from {{inh|nn|ine-pro|*ph₂tḗr||father}}. Compare longer version {{m|nn|fader}}. Akin to {{cog|en|father}}.
 
 ===Noun===
-{{nn-noun|m|faren|fedrar|fedrane}}
+{{nn-noun-m1||fedr}}
 
 # {{l|en|father}}
 
@@ -622,8 +622,21 @@ From {{inh|nn|non|faðir}}, from {{inh|nn|gem-pro|*fadēr}}, from {{inh|nn|ine-p
 * {{l|nn|pappa}}
 * {{l|nn|fader}}
 
+====Inflection====
+{{nn-noun-infl
+|1901a=ein fâr
+|1901b=fâren
+|1901c=''feder'' or fedrar
+|1901d=''federne'' or ''fedrarne'' (fedrane)
+|1917d=''federne'' or fedrane
+|1938a=ein far
+|1938b=faren
+|1938c=fedrar
+|1938d=fedrane
+}}
+
 ====Derived terms====
-{{Template:User:Donnanz/der3-u|lang=nn
+{{der4|nn
 |aleinefar
 |allfar
 |bamsefar
@@ -690,7 +703,7 @@ From {{inh|nn|non|far}}, from {{inh|nn|gem-pro|*farą}}.
 * {{l|nn|laup|g=n}}
 
 ====Derived terms====
-{{Template:User:Donnanz/der3-u|lang=nn
+{{der4|nn
 |allfarveg
 |bekkefar
 |dyrefar
@@ -723,7 +736,6 @@ From {{inh|nn|non|far}}, from {{inh|nn|gem-pro|*farą}}.
 }}
 
 ===Etymology 3===
-{{nonlemma}}
 
 ===Verb===
 {{nn-verb-form}}
@@ -731,7 +743,7 @@ From {{inh|nn|non|far}}, from {{inh|nn|gem-pro|*farą}}.
 # {{infl of|nn|fara||imp}}
 
 ===References===
-* {{R:The Nynorsk Dictionary}}
+* {{R:ND}}
 
 {{topics|nn|Family|Family members|Male family members|Parents}}
 
