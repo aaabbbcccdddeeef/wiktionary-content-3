@@ -121,7 +121,7 @@ From {{inh|en|enm|souken}}, {{m|enm|suken|}}, from {{inh|en|ang|sūcan|t=to suck
 * {{l|es|sugescent}}
 
 ====Translations====
-{{trans-top|to use the mouth to pull in (liquid etc)}}
+{{trans-top|(transitive) to use the mouth to pull in (liquid etc)}}
 * Albanian: {{t+|sq|thith}}
 * Arabic: {{t+|ar|مَصَّ}}
 *: Egyptian Arabic: {{t|arz|مص|tr=maṣṣ}}
@@ -231,9 +231,15 @@ From {{inh|en|enm|souken}}, {{m|enm|suken|}}, from {{inh|en|ang|sūcan|t=to suck
 * Zulu: {{t|zu|ncela|alt=-ncela}}, {{t|zu|munca|alt=-munca}}, {{t|zu|munya|alt=-munya}}
 {{trans-bottom}}
 
-{{trans-top|to put the mouth or lips to a breast... to draw in milk}}
+{{trans-top|(intransitive) to perform such an action; to feed from a breast or teat}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|szopik}}
+{{trans-bottom}}
+
+{{trans-top|(transitive) to put the mouth or lips to (a breast, a mother) to draw in milk}}
 * French: {{t+|fr|téter}}
 * German: {{t+|de|saugen}}
+* Hungarian: {{t+|hu|szopik}}
 * Karakhanid: {{t|xqa|اَمّاكْ|tr=emmēk}}
 * Khmer: {{t+|km|អាំ}}, {{t+|km|ម៉ិម}}
 {{trans-mid}}
@@ -244,13 +250,29 @@ From {{inh|en|enm|souken}}, {{m|enm|suken|}}, from {{inh|en|ang|sūcan|t=to suck
 * Turkish: {{t+|tr|emmek}}
 {{trans-bottom}}
 
-{{trans-top|to work the lips and tongue on}}
+{{trans-top|to extract, draw in (a substance) from or out of something}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|szív|id=to suck}}, {{t+|hu|szippant}}
+{{trans-bottom}}
+
+{{trans-top|to work the lips and tongue on (an object) to extract moisture or nourishment; to absorb (something) in the mouth}}
 * German: {{t+|de|lutschen}}
 * Greek: {{t+|el|γλείφω|sc=Grek}}, {{t+|el|πιπιλίζω|sc=Grek}}
+* Hungarian: {{t+|hu|szopik}}
 * Portuguese: {{t+|pt|chupar}}
 {{trans-mid}}
 * Scottish Gaelic: {{t|gd|deoghail}}
 * Turkish: {{t+|tr|emmek}}
+{{trans-bottom}}
+
+{{trans-top|to pull (something) in a given direction, especially without direct contact}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|szív|id=to suck}}, {{t+|hu|szippant}}, {{t|hu|becsalogat}}, {{t|hu|bevonz}}
+{{trans-bottom}}
+
+{{trans-top|slang, vulgar: to perform fellatio}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|szop}}, {{t|hu|leszop}}
 {{trans-bottom}}
 
 {{trans-top|colloquial: term of general disparagement}}
