@@ -114,16 +114,16 @@ From {{der|da|gmq-oda|flughæ}}, from {{der|da|non|fluga}}.
 ----
 
 ==Norwegian Bokmål==
-{{wikipedia|lang=no|fluer}}
+{{wp|lang=nb|fluer}}
 
 ===Etymology===
-From {{der|nb|non|fluga}}
+From {{inh|nb|non|fluga|g=f}}, from {{inh|nb|gem-pro|*flugǭ}}.
 
 ===Noun===
 {{nb-noun-c}}
 
 # {{lb|nb|insect}} a {{l|en|fly}}
-#: '''''flue''' på veggen - fly on the wall''
+#: {{ux|nb|inline=1|'''flue''' på veggen|'''fly''' on the wall}}
 
 ====Derived terms====
 * {{l|nb|fluefiske}}
@@ -132,6 +132,21 @@ From {{der|nb|non|fluga}}
 * {{l-nn|fluge}}
 
 ===References===
-* {{R:The Bokmål Dictionary}}
+* {{R:BD}}
 
-[[Category:nb:Insects]]
+{{c|nb|Insects}}
+
+----
+
+==Norwegian Nynorsk==
+
+===Pronunciation===
+* {{IPA|nn|/²flʉː.ə/}} {{nn-pronu-note}}
+
+===Verb===
+{{nn-verb-1}}
+
+# {{alt form|nn|flu}}
+
+===Anagrams===
+* {{anagrams|nn|a=eflu|fule}}
