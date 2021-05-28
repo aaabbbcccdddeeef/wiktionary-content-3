@@ -924,24 +924,15 @@ From {{der|nb|non|mǫrk}}
 ----
 
 ==Norwegian Nynorsk==
-{{wikipedia|lang=nn|Makk}}
 
 ===Pronunciation===
-* {{IPA|no|/mɑrk/}}
+* {{IPA|nn|/mɑrk/}} {{nn-pronu-note}}
 
 ===Etymology 1===
-From {{der|nn|non|maðkr}}
+From {{inh|nn|non|mǫrk}}.
 
 ====Alternative forms====
-* {{l|nn|makk}}
-
-====Noun====
-{{nn-noun-m1}}
-
-# a [[worm]] (''invertebrate'')
-
-===Etymology 2===
-From {{der|nn|non|mǫrk}}
+* {{alter|nn|mork}} {{nn-fcon|1938}}
 
 ====Noun====
 {{nn-noun-f1}}
@@ -949,40 +940,139 @@ From {{der|nn|non|mǫrk}}
 # [[land]], [[ground]], [[field]]
 
 =====Derived terms=====
-{{Template:User:Donnanz/der3-u|lang=nn
+{{der3|nn
 |beitemark
+|berrmark
+|blokkmark
+|brakkmark
+|bymark
+|dyrkamark
+|engmark
+|fastmark
 |Finnmark
+|flatmark
+|gjetslemark
+|grasmark
+|hagemark
+|heimemark
+|hopemark
+|innmark
+|jaktmark
+|lyngmark
+|markadrakt
+|markadress
+|markblom
+|markebol
+|markeskil
+|markgreve
+|markjordbær
+|markkrypar
 |markmus
+|markstein
+|misjonsmark
+|paddemark
 |rismark
+|skrapmark
+|skredmark
 |slagmark
+|slåttemark
+|snaumark
+|stubbmark
+|Telemark
+|umark
+|upløgd mark
+|utmark
 |villmark
+|viltmark
 |våtmark
+|øydemark
 }}
 
+===Etymology 2===
+From {{inh|nn|non|mǫrk}}.
+
+====Alternative forms====
+* {{alter|nn|mork}} {{nn-fcon|1938}}
+
+====Noun====
+{{head|nn|noun|g=f|definite singular|marka|indefinite plural|merker|or|mark|f3qual=counting currency|definite plural|merker}}
+
+# a [[unit of measure]] equivalent to 250 [[gram]]s {{c|nn|Units of measure}}
+# {{lb|nn|currency|historic}} a {{l|en|mark}}
+#: {{ux|nn|inline=1|det kosta 50 '''mark'''|it cost 50 '''marks'''}}
+## any of various European monetary units, including in [[Finland]] (1861-1999) and [[Germany]] (1948-1999)
+## {{lb|nn|currency|historic}} an old [[Norwegian]] [[coin]]
+### {{lb|nn|in the middle ages}} a [[coin]] worth 8 [[øre]]
+### {{lb|nn|19th century}} a coin worth 24 [[shilling]]s or 1/5 [[taler]]
+###: {{syn|nn|ort}}
+# {{lb|nn|historic}} a Norwegian unit used to measure the [[taxability]] of [[property]]
+
+=====Usage notes=====
+* The indefinite plural is usually ''merker'', but in the sense of a unit of currency, ''mark'' might be used instead.
+
+=====Derived terms=====
+* {{l|nn|austmark}}
+* {{l|nn|skyldmark}}
+* {{l|nn|vestmark}}
+
 ===Etymology 3===
-From {{der|nn|non|mǫrk}}.
+{{wp|lang=nn|Makk}}
+From {{inh|nn|non|maðkr}}.
+
+====Alternative forms====
+* {{l|nn|makk}}
 
 ====Noun====
-{{nn-noun-irreg|f|marka|merker|merkene}}
+{{nn-noun-m1}}
 
-# {{rfdef|nn}}
+# a [[worm]] {{q|invertebrate}}
 
-====Noun====
-{{nn-noun-irreg|f|marka|mark|ip2=merker|markene|dp2=merkene}}
-
-# {{lb|nn|numismatics|historic}} old [[Norwegian]] [[coin]]
-# {{lb|nn|numismatics}} {{l|en|mark}}; Any of various European monetary units, including in [[Finland]] (1861-1999) and [[Germany]] (1948-1999)
+=====Derived terms=====
+{{der3|nn
+|agnmark
+|beitemark
+|bendelmark
+|bringebærmark
+|børstemark
+|fjøremark
+|flatmark
+|innvolsmark
+|jordmark
+|kjølmark
+|klåmark
+|kålmark
+|latmark
+|leddmark
+|leiremark
+|markefluge
+|markemjøl
+|markhol
+|meitemark
+|rundmark
+|sandmark
+|slimmark
+|spolmark
+}}
 
 ===Etymology 4===
-From {{der|nn|non|mark}}.
+From {{inh|nn|non|mark|g=n}}.
 
 ====Noun====
 {{nn-noun-n1}}
 
 # a {{l|en|mark}}
 
+=====Derived terms=====
+* {{l|nn|svalemark}}
+
+=====Related terms=====
+* {{l|nn|marke}}
+
 ===References===
-* {{R:Dokpro|lang=nn}}
+* {{R:ND}}
+
+===Anagrams===
+* {{anagrams|nn|a=akmr|karm|kram}}
 
 ----
 
