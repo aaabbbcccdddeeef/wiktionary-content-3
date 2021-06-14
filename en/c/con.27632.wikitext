@@ -689,7 +689,7 @@ From {{inh|vi|mkh-vie-pro|*kɔːn}}, from {{inh|vi|mkh-pro|*kuun|*kuun ~ *kuən}
 {{vi-IPA}}
 
 ===Noun===
-{{vi-noun|cls=đứa|[[昆]], [[𡥵]]}}
+{{vi-noun|cls=đứa|[[𡥵]], [[昆]]}}
 
 # a [[child]] {{gloss|daughter or son}}
 #:{{uxi|vi|con cái|children}}
@@ -702,24 +702,31 @@ From {{inh|vi|mkh-vie-pro|*kɔːn}}, from {{inh|vi|mkh-pro|*kuun|*kuun ~ *kuən}
 #:{{ant|vi|con gái}}
 
 ====Derived terms====
-{{vi-der|bà con|con cháu|con cái}}
-
-====Derived terms====
-* {{sense|reduplicated}} {{vi-l|cỏn con||tiny}}
-* {{sense|reduplicated}} {{vi-l|con con||rather small}}
+{{der3|vi
+|{{vi-l|bà con}}
+|{{vi-l|con cái}}
+|{{vi-l|con cháu}}
+|{{vi-l|con gái}}
+}}
 
 ===Noun===
-{{vi-noun|[[昆]], [[𡥵]]}}
+{{vi-noun|[[𡥵]], [[昆]]}}
 
 # {{lb|vi|rare|only in compounds}} a [[small]] [[thing]]
 #:{{uxi|vi|con quay|a spinning top}}
 #:{{uxi|vi|con lắc|a pendulum}}
 
+====Derived terms====
+{{der3|vi
+|{{vi-l|cỏn con||tiny}}
+|{{vi-l|con con||rather small}}
+}}
+
 ====See also====
 * {{vi-l|tử}}
 
 ===Pronoun===
-{{vi-pronoun|[[昆]], [[𡥵]]}}
+{{vi-pronoun|[[𡥵]], [[昆]]}}
 
 # {{l|en|I}}/[[me]], your child
 # {{lb|vi|familiar|or|dialectal|chiefly|_|central Vietnam|_|and|_|southern Vietnam}} {{l|en|I}}/me, someone a lot younger than you
@@ -755,10 +762,17 @@ From {{inh|vi|mkh-vie-pro|*kɔːn}}, from {{inh|vi|mkh-pro|*kuun|*kuun ~ *kuən}
 * Even though ''con người'' is used, it is generally thought of as a noun phrase on its own, and {{m|vi|người}} does not require a classifier because it is itself a classifier (compare {{cog|ja|人|tr=nin}}). ''Một '''con''' người'' "a person" does not sound dehumanizing, but literary even, while ''một người'' sounds casual enough.
 * The phrase ''con người'' is popularly employed as a philosophical trope or device to bring up discussions about what it means to be human as opposed to being an animal, even though it is not really semantically convincing given the fact that humans are, zoologically, animals, and there are non-animal things going with this classifier.
 
+====Derived terms====
+{{der3|vi
+|{{vi-l|con bạc}}
+|{{vi-l|con thú}}
+|{{vi-l|con vật}}
+}}
+
 ====See also====
 * {{l|vi|cái}}
-{{vi-der|con thú|con vật}}
-{{topics|vi|Family}}
+
+{{c|vi|Family members}}
 
 ----
 
