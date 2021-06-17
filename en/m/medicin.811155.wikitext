@@ -15,7 +15,8 @@ From {{der|da|la|medicīnus}}.
 ===Noun===
 {{da-noun|en|er}}
 
-# [[medicine]]
+# {{lb|da|uncountable}} [[medicine]]
+# [[medicine]], [[drug]] (a substance which promotes healing)
 
 ====Declension====
 {{da-noun-infl|en|er}}
@@ -30,7 +31,7 @@ From {{der|da|la|medicīnus}}.
 ===Noun===
 {{frm-noun|m}}
 
-# [[doctor]] {{gloss|medical professional}}
+# [[medical doctor]], [[doctor]], [[physician]] (a medical [[professional]])
 
 ====Descendants====
 * {{desc|fr|médecin}}
@@ -50,33 +51,35 @@ From {{der|sv|la|medicīna}}.
 {{sv-noun|c}}
 
 # {{lb|sv|uncountable}} [[medicine]] (the art of curing illness)
-# a [[medicine]], a [[drug]] (substance which promotes healing)
+# [[medicine]], [[drug]] (a substance which promotes healing)
 
 ====Declension====
 {{sv-infl-noun-c-er}}
 
+====Derived terms====
+{{col4-u|sv
+|allmänmedicin
+|alternativmedicin
+|biomedicin
+|folkmedicin
+|internmedicin
+|medicinsk
+|medicinstudium
+|medicinteknisk
+|rättsmedicin
+|skolmedicin
+|veterinärmedicin
+}}
+
 ====Related terms====
-{{top2}}
-* {{l|sv|allmänmedicin}}
-* {{l|sv|alternativmedicin}}
-* {{l|sv|biomedicin}}
-* {{l|sv|folkmedicin}}
-* {{l|sv|internmedicin}}
-* {{l|sv|livmedikus}}
-{{mid3}}
-* {{l|sv|medicinalråd}}
-* {{l|sv|medicinalväxt}}
-* {{l|sv|medicinare}}
-* {{l|sv|medicinera}}
-* {{l|sv|medicinering}}
-* {{l|sv|medicinsk}}
-{{mid3}}
-* {{l|sv|medicinstudium}}
-* {{l|sv|medicinteknisk}}
-* {{l|sv|medikus}}
-* {{l|sv|rättsmedicin}}
-* {{l|sv|skolmedicin}}
-* {{l|sv|veterinärmedicin}}
-{{bottom}}
+{{col4-u|sv
+|livmedikus
+|medicinalråd
+|medicinalväxt
+|medicinare
+|medicinera
+|medicinering
+|medikus
+}}
 
 [[Category:sv:Medicine]]
