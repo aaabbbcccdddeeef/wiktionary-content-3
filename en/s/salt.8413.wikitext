@@ -2,10 +2,10 @@
 ==English==
 {{wikipedia|lang=en}}
 
-===Etymology===
-From {{der|en|enm|salt}}, from {{der|en|ang|sealt}}, from {{der|en|gem-pro|*saltą}} (compare {{cog|nl|zout}}, {{cog|de|Salz}}, {{cog|nb|salt}} and {{cog|sv|salt}}), from {{inh|en|ine-pro|*séh₂ls||salt}} (compare {{cog|cy|halen}}, {{cog|ga|salann}}, {{cog|la|sal}}, {{cog|ru|соль}}, {{cog|grc|ἅλς}}, {{cog|sq|ngjelmë||salty, savory}}, {{cog|xcl|աղ}}, {{cog|xto|sāle}}, {{cog|sa|सलिल}}). {{doublet|en|sal}}.
+===Etymology 1===
+From {{der|en|enm|salt}}, from {{der|en|ang|sealt}}, from {{der|en|gem-pro|*saltą}}, from {{inh|en|ine-pro|*séh₂ls|t=salt}}. {{doublet|en|sal}}.
 
-===Pronunciation===
+====Pronunciation====
 * {{a|UK}} {{enPR|sŏlt}}, {{IPA|en|/sɒlt/}}
 ** {{a|Conservative RP}} {{enPR|sôlt}}, {{IPA|en|/sɔːlt/}}
 * {{a|US}} {{enPR|sôlt|sält}}, {{IPA|en|/sɔlt/|/sɑlt/}}
@@ -17,7 +17,7 @@ From {{der|en|enm|salt}}, from {{der|en|ang|sealt}}, from {{der|en|gem-pro|*salt
 
 [[Image:Sal (close).jpg|thumb|salt crystals]]
 
-===Noun===
+====Noun====
 {{en-noun|~}}
 
 # A common substance, chemically consisting mainly of [[sodium chloride]] ([[NaCl]]), used extensively as a [[condiment]] and [[preservative]].
@@ -44,19 +44,19 @@ From {{der|en|enm|salt}}, from {{der|en|ang|sealt}}, from {{der|en|gem-pro|*salt
 #: ''There was so much '''salt''' in that [[thread]] about the poor casting decision.''
 # {{lb|en|UK|historical}} The [[money]] demanded by [[Eton]] [[schoolboy]]s during the [[montem]].
 
-====Synonyms====
+=====Synonyms=====
 * {{l|en|sal}} {{q|obsolete}}
 
-====Derived terms====
+=====Derived terms=====
 {{col4-u|en|besalted|chicken salt|desalt|Epsom salt|Great Salt Lake|hair-salt|persalt|pinch of salt|protosalt|rock salt|rub salt in the wound|salt and pepper|saltcellar|salt-free|salt lake|Salt Lake City|Salt Lake County|salt marsh|salt of the earth|salt sea|saltspoon|saltwater|salty|sea salt|table salt|take with a pinch of salt|worth one's salt}}
 
-====Related terms====
+=====Related terms=====
 * {{l|en|salary}}
 
-====Translations====
+=====Translations=====
 {{see translation subpage|Noun}}
 
-===Adjective===
+====Adjective====
 {{en-adj}}
 
 # [[salty|Salty]]; [[salted]].
@@ -80,11 +80,11 @@ From {{der|en|enm|salt}}, from {{der|en|ang|sealt}}, from {{der|en|gem-pro|*salt
 #*: And when he saw that all the dogs were flocking about her, yarring at the retardment of their accesse to her, and every way keeping such a coyle with her, as they are wont to do about a proud or '''salt''' bitch, he forthwith departed {{...}}
 # {{lb|en|colloquial|archaic}} [[costly|Costly]]; [[expensive]].
 
-====Derived terms====
+=====Derived terms=====
 * {{l|en|saltness}}
 * {{l|en|salt spray}}
 
-====Translations====
+=====Translations=====
 {{trans-top|salty}}
 {{multitrans|data=
 * Aymara: {{tt|ay|jayuk'ara}}, {{tt|ay|jayuni}}
@@ -170,7 +170,7 @@ From {{der|en|enm|salt}}, from {{der|en|ang|sealt}}, from {{der|en|gem-pro|*salt
 * Telugu: {{t-check|te|ఉప్పగా|sc=Telu}}, {{t-check|te|ఉప్పటి|sc=Telu}}
 {{trans-bottom}}
 
-===Verb===
+====Verb====
 {{en-verb}}
 
 # {{lb|en|transitive}} To add salt to.
@@ -194,14 +194,14 @@ From {{der|en|enm|salt}}, from {{der|en|ang|sealt}}, from {{der|en|gem-pro|*salt
 ##: ''In this place were put to the ground and salted the houses of José Mascarenhas.''
 ## {{c|en|Wiki}} {{lb|en|[[wiki]]}} to lock a page so it cannot be [[create]]d
 
-====Antonyms====
+=====Antonyms=====
 * {{sense|add salt}} {{l|en|desalt}}
 
-====Derived terms====
+=====Derived terms=====
 * {{l|en|desalt}}
 * {{l|en|salt away}}
 
-====Translations====
+=====Translations=====
 {{trans-top|to add salt to}}
 {{multitrans|data=
 * Arabic: {{tt|ar|مَلَّحَ}}
@@ -292,6 +292,16 @@ From {{der|en|enm|salt}}, from {{der|en|ang|sealt}}, from {{der|en|gem-pro|*salt
 *: Roman: {{t+check|sh|soliti}}, {{t+check|sh|posoliti}}
 {{trans-mid}}
 {{trans-bottom}}
+
+===Etymology 2===
+Borrowed from {{bor|en|la|saltus}}.
+
+====Noun====
+{{en-noun}}
+
+# {{tlb|en|obsolete}} A [[bound|bounding]], [[leap|leaping]], [[prance]].
+#* {{RQ:Jonson The Devil Is an Ass}}, in Gifford’s 1816 edition volume V page [https://archive.org/details/worksbenjonsonw04giffgoog/page/n75 67]
+#*: {{quote|en|[…] he hath the skill to draw<br/>Their nectar forth, with kissing; and could make<br/>More wanton '''salts''' from this brave promontory,<br/>Down to this valley, than the nimble roe;}}
 
 ===Anagrams===
 * {{anagrams|en|a=alst|Alts|LTAs|TLAs|alts|last|lats|slat}}
