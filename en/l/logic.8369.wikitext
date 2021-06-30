@@ -5,21 +5,24 @@
 ===Alternative forms===
 * {{l|en|logick}} {{qualifier|archaic}}
 
-===Etymology===
-From {{bor|en|fro|logike}}, from {{der|en|la|logica}}, from {{der|en|grc|λογική||logic}}, from feminine of {{m|grc|λογικός||of or pertaining to speech or reason or reasoning, rational, reasonable}}, from {{m|grc|λόγος||speech, reason}}. Regarding the adjective, compare {{noncog|la|logicus}}. Displaced native {{ncog|ang|flītcræft}}.
-
 ===Pronunciation===
 * {{a|RP}} {{enPR|lŏj'ĭk}}, {{IPA|en|/ˈlɒdʒɪk/}}
 * {{a|US}} {{enPR|lŏj'ĭk}}, {{IPA|en|/ˈlɑdʒɪk/}}
 * {{audio|en|en-us-logic.ogg|Audio (US)}}
 * {{rhymes|en|ɒdʒɪk}}
 
-===Adjective===
+===Etymology 1===
+From {{inh|en|enm|logike}}, from {{der|en|fro|-}} and {{der|en|la|logicus}}, from {{der|en|grc|λογῐκός}}.
+
+====Adjective====
 {{en-adj|?}}
 
 # [[logical]]
 
-===Noun===
+===Etymology 2===
+From {{inh|en|enm|logik}}, from {{der|en|fro|logike}}, from {{der|en|la|logica}}, from {{der|en|grc|λογική||logic}}, from feminine of {{m|grc|λογικός||of or pertaining to speech or reason or reasoning, rational, reasonable}}, from {{m|grc|λόγος||speech, reason}}. Displaced native {{ncog|ang|flītcræft}}.
+
+====Noun====
 {{wikipedia}}
 {{en-noun|~}}
 
@@ -35,12 +38,12 @@ From {{bor|en|fro|logike}}, from {{der|en|la|logica}}, from {{der|en|grc|λογ�
 # {{lb|en|uncountable}} The part of a system (usually electronic) that performs the boolean logic operations, short for [[logic gate]]s or [[logic circuit]].
 #: ''Fred is designing the '''logic''' for the new controller.''
 
-====Synonyms====
+=====Synonyms=====
 * {{sense|mathematics, study}} {{l|en|formal logic}}, {{l|en|modern logic}}
 * {{sense|mathematics, system}} {{l|en|formal system}}
 * (''philosophy''): [[predicate logic]]
 
-====Derived terms====
+=====Derived terms=====
 {{rel-top|Derived terms}}
 * {{l|en|Aristotelian logic}}
 * {{l|en|Boolean logic}}
@@ -79,11 +82,11 @@ From {{bor|en|fro|logike}}, from {{der|en|la|logica}}, from {{der|en|grc|λογ�
 * {{l|en|unlogic}}
 {{rel-bottom}}
 
-====Related terms====
+=====Related terms=====
 * {{l|en|logician}}
 * {{l|en|logical}}
 
-====Translations====
+=====Translations=====
 {{trans-top|method of human thought}}
 * Albanian: {{t+|sq|logjikë|f}}
 * Arabic: {{t|ar|مَنْطِق|m}}
@@ -244,7 +247,7 @@ From {{bor|en|fro|logike}}, from {{der|en|la|logica}}, from {{der|en|grc|λογ�
 * Tagalog: {{t|tl|matwiran}}
 {{trans-bottom}}
 
-===Verb===
+====Verb====
 {{en-verb|logics|logicking|logicked}}
 
 # {{lb|en|intransitive|pejorative}} To engage in excessive or inappropriate application of logic.
@@ -254,7 +257,7 @@ From {{bor|en|fro|logike}}, from {{der|en|la|logica}}, from {{der|en|grc|λογ�
 # {{lb|en|transitive}} To overcome by logical argument.
 #* {{quote-book|en|title=Wicked Surrender|author=Jade Lee|year=2010|passage=If things had gone as usual this night, if Kit had not '''logicked''' her into agreement, then she probably would have opened the door tonight.}}
 
-====Further reading====
+===Further reading===
 * {{R:Webster 1913}}
 * {{R:Century 1911}}
 * {{R:OneLook}}
