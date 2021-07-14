@@ -1,13 +1,13 @@
 ==English==
 
-===Etymology===
-From {{inh|en|enm|worldly}}, {{m|enm|worldlich}}, from {{inh|en|ang|woruldlīċ}}, {{m|ang|worldlīċ}}, {{m|ang|weoroldlīċ|t=worldly; earthly; temporal; mundane; secular}}, from {{inh|en|gem-pro|*weraldilīkaz}}, equivalent to {{suffix|en|world|ly|id2=adjectival}}. Cognate with {{cog|nl|wereldlijk|t=worldly; secular}}, {{cog|nds-de|weltlik|t=worldly}}, {{cog|de|weltlich|t=worldly}}, {{cog|da|verdslig|t=worldly}}, {{cog|sv|världslig|t=worldly}}, {{cog|is|veraldlegur|t=worldly; secular}}.
-
 ===Pronunciation===
 * {{IPA|en|/ˈwɜː(ɹ)ldli/}}
 * {{audio|en|En-us-worldly.ogg|Audio (US)}}
 
-===Adjective===
+===Etymology 1===
+From {{inh|en|enm|worldly|id=adjective}}, {{m|enm|worldlich}}, {{m|enm|wordly|pos=adjective}}, from {{inh|en|ang|woruldlīċ}}, {{m|ang|worldlīċ}}, {{m|ang|weoroldlīċ|t=worldly; earthly; temporal; mundane; secular}}, from {{inh|en|gem-pro|*weraldilīkaz}}, equivalent to {{suffix|en|world|ly|id2=adjectival}}. Cognate with {{cog|nl|wereldlijk|t=worldly; secular}}, {{cog|nds-de|weltlik|t=worldly}}, {{cog|de|weltlich|t=worldly}}, {{cog|da|verdslig|t=worldly}}, {{cog|sv|världslig|t=worldly}}, {{cog|is|veraldlegur|t=worldly; secular}}.
+
+====Adjective====
 {{en-adj|er|more}}
 
 # Concerned with [[human]] or [[earthly]] matters, [[physical]] as opposed to [[spiritual]].
@@ -37,7 +37,7 @@ From {{inh|en|enm|worldly}}, {{m|enm|worldlich}}, from {{inh|en|ang|woruldlīċ}
 #: {{syn|en|sophisticated|street-smart}}
 #: {{ant|en|naive}}
 
-====Translations====
+=====Translations=====
 {{trans-top|concerned with the human, earthly or physical rather than spiritual}}
 * Arabic: {{t|ar|دُنْيَوِيّ}}
 * Catalan: {{t|ca|mundà}}, {{t|ca|terrenal}}, {{t|ca|terrè}}
@@ -97,15 +97,18 @@ From {{inh|en|enm|worldly}}, {{m|enm|worldlich}}, from {{inh|en|ang|woruldlīċ}
 * Swedish: {{t+|sv|världsvan}}, {{t+|sv|mondän}}
 {{trans-bottom}}
 
-===Adverb===
+===Etymology 2===
+From {{inh|en|enm|worldly|id=adverb}}, {{m|enm|worldliche}}, {{m|enm|wordly|pos=adverb}}, from {{inh|en|ang|woroldlīċe}}, {{m|ang|weoroldlīċe}}; equivalent to {{af|en|world|-ly|id2=adverbial|pos2=adverbial suffix}}.
+
+====Adverb====
 {{en-adv}}
 
 # In a worldly manner.
 
-====Derived terms====
+=====Derived terms=====
 * {{l|en|worldly-wise}}
 
-====Translations====
+=====Translations=====
 {{trans-top|In a worldly manner.}}
 * Esperanto: {{t+|eo|monde}}
 * Greek: {{t|el|κοσμικώς}}
@@ -113,3 +116,63 @@ From {{inh|en|enm|worldly}}, {{m|enm|worldlich}}, from {{inh|en|ang|woruldlīċ}
 * Italian: {{t+|it|mondanamente}}
 {{trans-bottom}}
 {{C|en|Personality}}
+
+----
+
+==Middle English==
+
+===Etymology 1===
+{{etymid|enm|adjective}}
+From {{inh|enm|ang|woruldlīċ}}, {{m|ang|worldlīċ}}, {{m|ang|weoroldlīċ}}, from {{inh|enm|gmw-pro|*weraldilīk}}, from from {{inh|enm|gem-pro|*weraldilīkaz}}; equivalent to {{af|enm|world|-ly|id2=adjectival|pos2=adjectival suffix}}.
+
+====Alternative forms====
+* {{alter|enm|wardly|warldely|warldly|werdely|werdly|werldly|wordeliche|wordlelich|wordli|wordlich|wordly|worldli|worldlich|worldliche|worlly|worly|wurdly|wurldly}}
+* {{a|Early ME}} {{alter|enm|weordlich|weoruldlic|werldlic|worlich|worltlich}}
+
+====Pronunciation====
+* {{IPA|enm|/ˈwu(r)ldliː/|/ˈwɛ(r)ldliː/|/-liːtʃ/}}
+* {{q|adverb only}} {{IPA|enm|/-liːtʃə/}}
+
+====Adjective====
+{{enm-adj}}
+
+# Of the [[material]] [[world]]: 
+## Made of matter; [[material]], [[physical]].
+## Not [[eternal]]; [[temporal]].
+## Subject to [[death]]; [[mortal]].
+# [[mundane|Mundane]], [[secular]]; unrelated to religion:
+## [[versed|Versed]] in the ways of the world.
+## [[impious|Impious]], [[irreverent]].
+
+=====Descendants=====
+* {{desc|en|worldly}}
+* {{desc|sco|warldly}}, {{l|sco|wardly}}
+
+=====References=====
+* {{R:MED Online|entry=worldlī|pos=adj|id=MED53434}}
+
+===Etymology 2===
+{{etymid|enm|adverb}}
+From {{inh|enm|ang|woroldlīċe}}, {{m|ang|weoroldlīċe}}; equivalent to {{af|enm|world|-ly|id2=adverbial|pos2=adverbial suffix}}.
+
+====Alternative forms====
+* {{alter|enm|werdely|werdly|wordliche|wordly|worldli}}
+* {{a|Early ME}} {{alter|enm|worldliche|worltliche}}
+
+====Pronunciation====
+* {{IPA|enm|/ˈwu(r)ldliː/|/ˈwɛ(r)ldliː/|/-liːtʃ(ə)/}}
+
+====Adverb====
+{{enm-adj}}
+
+# In the [[way]] of the [[material]] [[world]].
+# In a [[mundane]] or [[secular]] way.
+
+=====Descendants=====
+* {{desc|en|worldly}}
+
+=====References=====
+* {{R:MED Online|entry=worldlī|pos=adv|id=MED53435}}
+
+[[Category:enm:Earth]]
+[[Category:enm:Religion]]
