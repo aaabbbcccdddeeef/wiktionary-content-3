@@ -129,56 +129,73 @@ From {{af|fr|vent|-er|t1=wind}}, from {{der|fr|la|ventus}}.
 {{wikipedia|lang=la}}
 
 ===Etymology===
-From {{der|la|ine-pro|*wend-tri-}}, see also German {{m|de|Wanst||belly, paunch}}, Old High German {{m|goh|wanast}}, Sanskrit {{m|sa|वस्ति||bladder}}, Latin {{m|la|vēsīca||bladder}}<ref>{{R:Nocentini|hw=ventre}}</ref>
+From {{der|la|ine-pro|*wend-tri-}}, see also {{m+|de|Wanst||belly, paunch}}, {{m+|goh|wanast}}, {{m+|sa|वस्ति||bladder}}, {{m+|la|vēsīca||bladder}}<ref>{{R:Nocentini|hw=ventre}}</ref>
 
 ===Pronunciation===
-* {{la-IPA|venter|eccl=1}}
+* {{la-IPA}}
 
 ===Noun===
 {{la-noun|((venter<3.I>,venter<3>))|g=m}}
 
-# {{lb|la|anatomy}} [[belly]], [[abdomen]]
-# {{lb|la|anatomy}} [[body]], [[trunk]]
-# {{lb|la|anatomy}} [[stomach]]
-# {{lb|la|anatomy}} [[womb]]
-# [[unborn]] offspring, especially [[son]]
-# sensual [[lust]]
-# [[gluttony]]
+# {{lb|la|literal}}
+## the [[belly]]
+##: {{syn|la|alvus|abdōmen}}
+## a [[paunch]], [[maw]], {{ngd|[[convey]]ing the [[accessory]] idea of [[greediness]] or [[gormandizing]]}}
+## {{lb|la|anatomy}} the [[stomach]]
+## the [[body]], [[trunk]]
+# {{lb|la|transferred sense}}
+## the [[womb]]
+### an [[unborn]] [[offspring]], especially a [[son]]
+## the [[bowels]], [[entrails]]
+## a [[swelling]], [[protuberance]]
+# {{lb|la|figurative}}
+## [[sensual]] [[lust]]
+## [[gluttony]]
 
-====Declension====
+{{rfq|la}}
+
+====Inflection====
 * ''Venter'' has a shaky history, and some sources list it as a consonant stem, but more commonly (e.g. Allen & Greenough) it is listed as an i-stem.
 {{la-ndecl|((venter<3.I>,venter<3>))}}
 
 ====Derived terms====
-{{der3|la|ventrālis|ventricola|ventriculus|ventrifluus|ventriloquus|ventriōsus}}
+{{der3|la
+|ventrālis
+|ventricola
+|ventriculus
+|ventrifluus
+|ventriloquus
+|ventriōsus
+|ventricultor
+|subventrīle}}
 
 ====Related terms====
+* {{l|la|subventrālis}}
 * {{l|la|ventriculātiō}}
 * {{l|la|ventriculōsus}}
 
 ====Descendants====
-{{top3}}
+{{des-top}}
 * {{desc|ast|vientre}}
 * {{desc|ca|ventre}}
 * {{desc|dlm|viantro}}
-* {{desc|eo|ventro}}
-* {{desc|fr|ventre}}
+* {{desc|en|venter|bor=1}}
+* {{desc|eo|ventro|bor=1}}
+* {{desc|fr|ventre|bor=1}}
 * {{desc|fur|vintri}}
-{{mid3}}
-* {{desc|gl|ventre}}
-* {{desc|io|ventro}}
-* {{desc|it|ventre}}
-* {{desc|nrf|ventre}} {{qualifier|Jersey|Guernsey}}, {{l|nrf|vãtr}} {{qualifier|Sark}}
-* {{desc|oc|ventre}}, {{l|oc|vente}}
-* {{desc|pt|ventre}}
+* {{desc|gl|ventre|bor=1}}
+* {{desc|io|ventro|bor=1}}
+* {{desc|it|ventre|bor=1}}
+* {{desc|nrf|ventre|bor=1|alts=1}}
+* {{desc|oc|ventre|bor=1}}, {{desc|oc|vente|nolb=1}}
+* {{desc|pt|ventre|bor=1}}
 * {{desc|ro|vintre}}
-{{mid3}}
-* {{desc|rm|venter}}, {{l|rm|vainter}}
-* {{desc|sc|bentre}}, {{l|sc|bentri}}, {{l|sc|brente}}, {{l|sc|brenti}}
-* {{desc|scn|ventri}}
+* {{desc|rm|venter|bor=1}}, {{desc|rm|vainter|nolb=1}}
+* {{desc|sc|bentre}}, {{desc|sc|bentri|nolb=1}}, {{desc|sc|brente|nolb=1}}, {{desc|sc|brenti|nolb=1}}
+* {{desc|scn|ventri|bor=1}}
 * {{desc|es|vientre}}
 * {{desc|wa|vinte}}
-{{bottom}}
+{{des-bottom}}
 
 ===References===
 * {{R:L&S}}
@@ -186,7 +203,8 @@ From {{der|la|ine-pro|*wend-tri-}}, see also German {{m|de|Wanst||belly, paunch}
 * {{R:Gaffiot}}
 * {{R:M&A}}
 <references/>
-{{C|la|Pregnancy}}
+
+{{C|la|Body parts|Pregnancy|Babies|Mind}}
 
 ----
 
