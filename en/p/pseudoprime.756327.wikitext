@@ -8,6 +8,10 @@
 {{en-noun}}
 
 # {{lb|en|mathematics}} An [[integer]] that possesses at least one characteristic of a [[prime number]] without actually being [[prime]]. The characteristic is typically chosen to make such "false primes" very rare.
+# {{lb|en|mathematics|specifically}} A Fermat pseudoprime; a composite integer n satisfying <math>b^{n-1} \equiv 1 \pmod{n}</math> for some integer b such that b > 1.
+
+====Usage Notes====
+In the sense of a Fermat pseudoprime, if no base is specified, base two is assumed. Integers that satisfy the congruence for a particular b are referred to as "pseudoprimes ''to'' base b" or "pseudoprimes ''to the'' base b."
 
 ===Adjective===
 {{en-adj|-}}
