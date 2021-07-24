@@ -264,13 +264,13 @@ From {{inh|en|enm|draggen||to drag}}, early {{inh|en|enm|dragen||to draw, carry}
 * Azerbaijani: {{t+|az|sürümək}}, {{t+|az|dartmaq}}, {{t|az|sürükləmək}}, {{t|az|[[sürüyüb]] [[çəkmək]]}}
 * Basque: {{t-needed|eu}}
 * Belarusian: {{t|be|цяга́ць|impf}}, {{t|be|пацяга́ць|pf}}, {{t|be|валачы́ць|impf}}, {{t|be|валачы́|impf}}
-* Bulgarian: {{t+|bg|тегля}}, {{t+|bg|дърпам}}, {{t+|bg|вла́ча|impf}}, {{t+|bg|влека́|impf}}
+* Bulgarian: {{t+|bg|те́гля|impf}}, {{t+|bg|дъ́рпам|impf}}, {{t+|bg|вла́ча|impf}}, {{t+|bg|влека́|impf}}
 * Burmese: {{t+|my|ဆွဲ}}
 * Catalan: {{t+|ca|arrossegar}}
 * Chinese:
-*: Cantonese: {{t|yue|拖|tr=to1|sc=Hani}}
+*: Cantonese: {{t|yue|拖|tr=to1}}
 *: Mandarin: {{t+|cmn|拖|tr=tuō}}
-* Czech: {{t+|cs|táhnout}}, {{t+|cs|vléct}}
+* Czech: {{t+|cs|táhnout|impf}}, {{t+|cs|vléct|impf}}
 * Danish: {{t+|da|trække}}, {{t+|da|hal}}
 * Dutch: {{t+|nl|slepen}}
 * Esperanto: {{t|eo|treni}}
@@ -287,7 +287,7 @@ From {{inh|en|enm|draggen||to drag}}, early {{inh|en|enm|dragen||to draw, carry}
 * Hindi: {{t+|hi|घसीटना}}, {{t|hi|खींचना}}
 * Hungarian: {{t+|hu|húz}}
 * Italian: {{t+|it|trainare}}, {{t+|it|trascinare}}, {{t|it|strascinare}}, {{t+|it|strascicare}}
-* Japanese: {{t+|ja|引く|tr=[[ひく]], hiku|sc=Jpan}}, {{t|ja|引きずる|tr=ひきずる, hikizuru|sc=Jpan}}, {{t|ja|引き離す|tr=ひきはなす, hikihanasu|sc=Jpan}}
+* Japanese: {{t+|ja|引く|tr=ひく, hiku}}, {{t|ja|引きずる|tr=ひきずる, hikizuru}}, {{t|ja|引き離す|tr=ひきはなす, hikihanasu}}
 * Kaurna: {{t|zku|watunthi}}
 * Khmer: {{t+|km|ទាញ}}
 * Korean: {{t+|ko|끌다}}
@@ -295,7 +295,8 @@ From {{inh|en|enm|draggen||to drag}}, early {{inh|en|enm|dragen||to draw, carry}
 * Lao: {{t+|lo|ລາກ}}
 * Latin: {{t+|la|trahō}}
 * Macedonian: {{t|mk|влече|impf}}
-* Mongolian: {{t+|mn|чирэх}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|чирэх}}
 * Nepali: {{t|ne|तान्नु}}
 * Norman: {{t|nrf|traîner}}
 * Occitan: {{t+|oc|rebalar}}
@@ -309,9 +310,11 @@ From {{inh|en|enm|draggen||to drag}}, early {{inh|en|enm|dragen||to draw, carry}
 * Russian: {{t+|ru|таска́ть}}, {{t+|ru|тащи́ть}}, {{t+|ru|волочи́ть}}, {{t+|ru|тяга́ть|impf}}, {{t+|ru|воло́чь|impf}}
 * Sanskrit: {{t+|sa|कर्षति}}
 * Scottish Gaelic: {{t|gd|slaod}}, {{t|gd|tarraing}}
-* Serbo-Croatian: {{t|sh|вући|sc=Cyrl}}, {{t+|sh|vući}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|ву̑ћи|impf}}
+*: Roman: {{t+|sh|vȗći|impf}}
 * Sicilian: {{t+|scn|strascinari}}, {{t+|scn|trascinari}}
-* Slovak: {{t|sk|ťahať}}; {{t|sk|vláčiť|impf}} {{qualifier|abstract}}, {{t|sk|vliecť|impf}} {{qualifier|concrete}}
+* Slovak: {{t|sk|ťahať|impf}}, {{t|sk|vláčiť|impf}} {{qualifier|abstract}}, {{t|sk|vliecť|impf}} {{qualifier|concrete}}
 * Slovene: {{t+|sl|vleči|impf}}
 * Spanish: {{t+|es|arrastrar}}
 * Swahili: {{t|sw|buruta|alt=kuburuta}}
@@ -326,17 +329,17 @@ From {{inh|en|enm|draggen||to drag}}, early {{inh|en|enm|dragen||to draw, carry}
 {{trans-bottom}}
 
 {{trans-top|to move slowly}}
-* Bulgarian: {{t|bg|влача се}}, {{t|bg|мъкна се}}
-* Czech: {{t|cs|vléct se}}
+* Bulgarian: {{t+|bg|влача|impf|alt=вла́ча се}}, {{t+|bg|мъкна|impf|alt=мъ́кна се}}
+* Czech: {{t+|cs|vléct|impf|alt=vléct se}}
 * Danish: {{t|da|trække ud}}
 * Finnish: {{t|fi|[[raahautua]] ([[eteenpäin]])}}, {{t+|fi|laahustaa}}, {{qualifier|esp. of time}} {{t+|fi|madella}}, {{t+|fi|hidastella}}
 * Georgian: {{t|ka|სეირნობა}}
 * German: {{t|de|sich ziehen}}, {{t|de|sich dahinziehen}}
 {{trans-mid}}
 * Maori: {{t|mi|āwai}} {{q|refering to a song}}
-* Polish: {{t+|pl|wlec się|impf}}
-* Russian: {{t+|ru|тащи́ться}}, {{t+|ru|волочи́ться}}
-* Slovak: {{t|sk|ťahať sa}}, {{t|sk|vliecť sa}}
+* Polish: {{t+|pl|wlec|impf|alt=wlec się}}
+* Russian: {{t+|ru|тащи́ться|impf}}, {{t+|ru|волочи́ться|impf}}
+* Slovak: {{t|sk|ťahať|impf|alt=ťahať sa}}, {{t|sk|ťahať|impf|alt=ťahať sa}}
 * Swedish: {{t+|sv|krypa}}
 {{trans-bottom}}
 
