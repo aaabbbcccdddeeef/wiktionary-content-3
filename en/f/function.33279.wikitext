@@ -353,9 +353,9 @@ From {{bor|en|frm|function}}, from {{der|en|fro|fonction}}, from {{der|en|la|fun
 * Japanese: {{t+|ja|機能|tr=きのう, kinō}}
 * Kazakh: {{t|kk|функция}}
 * Korean: {{t+|ko|기능 (機能)}}
-{{trans-mid}}
 * Kurdish:
 *: Central Kurdish: {{t+|ckb|کار}}, {{t+|ckb|کاروبار}}
+{{trans-mid}}
 * Kyrgyz: {{t+|ky|функция}}
 * Latin: {{t+|la|pars}}
 * Latvian: {{t|lv|funkcija|f}}
@@ -364,6 +364,7 @@ From {{bor|en|frm|function}}, from {{der|en|fro|fonction}}, from {{der|en|la|fun
 * Malay: {{t|ms|fungsi}}
 * Maori: {{t|mi|taumahi}}
 * Norwegian: {{t+|no|funksjon|m}}
+*: Bokmål: {{t+|nb|funksjon|m}}
 * Persian: {{t+|fa|تابع|tr=tâbe'}}
 * Polish: {{t+|pl|funkcja|f}}
 * Portuguese: {{t+|pt|função|f}}
@@ -456,7 +457,9 @@ From {{bor|en|frm|function}}, from {{der|en|fro|fonction}}, from {{der|en|la|fun
 {{trans-top|mathematics: a relation between a set of inputs and a set of permissible outputs}}
 * Arabic: {{t+|ar|وَظِيفَة|f}}, {{t|ar|تَابِع|m}}, {{t|ar|دَالَّة|f}}
 * Armenian: {{t+|hy|ֆունկցիա}}
+* Belarusian: {{t|be|фу́нкцыя|f}}
 * Bulgarian: {{t+|bg|фу́нкция|f}}
+* Burmese: {{t|my|ဖန်ရှင်}}
 * Catalan: {{t+|ca|funció|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|函數}}, {{t+|cmn|函数|tr=hánshù}}
@@ -476,15 +479,19 @@ From {{bor|en|frm|function}}, from {{der|en|fro|fonction}}, from {{der|en|la|fun
 * Ido: {{t+|io|funciono}}
 * Indonesian: {{t+|id|fungsi}}
 * Irish: {{t|ga|feidhm|f}}
-{{trans-mid}}
 * Italian: {{t+|it|funzione|f}}
 * Japanese: {{t+|ja|関数|tr=かんすう, kansū}}, {{t+|ja|函数|tr=かんすう, kansū}}
 * Kazakh: {{t|kk|функция}}
 * Korean: {{t+|ko|함수}} ({{t+|ko|函數}})
+{{trans-mid}}
+* Kyrgyz: {{t+|ky|функция}}
+* Lao: {{t|lo|ຕຳລາ}}
 * Latin: {{t|la|fūnctiō|f}}
 * Malay: {{t|ms|fungsi}}
 * Maori: {{t|mi|pānga}}
 * Middle French: {{t|frm|fonction}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|функц}}
 * Norwegian: {{t+|no|funksjon|m}}
 * Old French: {{t|fro|function}}
 * Persian: {{t+|fa|تابع|tr=tâbe'}}
@@ -494,18 +501,24 @@ From {{bor|en|frm|function}}, from {{der|en|fro|fonction}}, from {{der|en|la|fun
 * Russian: {{t+|ru|фу́нкция|f}}
 * Serbo-Croatian:
 *: Roman: {{t+|sh|funkcija|f}}
+* Slovak: {{t|sk|funkcia|f}}
+* Slovene: {{t|sl|funkcija|f}}
 * Spanish: {{t+|es|función|f}}
 * Swedish: {{t+|sv|funktion}}
 * Tagalog: {{t|tl|kabisa}}
 * Thai: {{t+|th|ฟังก์ชัน}}
 * Turkish: {{t+|tr|fonksiyon}}
 * Ukrainian: {{t|uk|фу́нкція|f}}
+* Yiddish: {{t|yi|פונקציע|f}}
 {{trans-bottom}}
 
 {{trans-top|computing: routine that returns a result}}
-* Arabic: {{t+|ar|وَظِيفَة|f}}
-* Armenian: {{t-needed|hy}}
+* Arabic: {{t+|ar|وَظِيفَة|f}}, {{t|ar|دَالَّة|f}}
+* Armenian: {{t+|hy|ֆունկցիա}}
+* Azerbaijani: {{t+|az|funksiya}}
+* Belarusian: {{t|be|фу́нкцыя|f}}
 * Bulgarian: {{t+|bg|фу́нкция|f}}
+* Burmese: {{t|my|ဖန်ရှင်}}
 * Catalan: {{t+|ca|funció|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|函數}}, {{t+|cmn|函数|tr=hánshù}}, {{t|cmn|函式|tr=hánshì}}
@@ -513,39 +526,53 @@ From {{bor|en|frm|function}}, from {{der|en|fro|fonction}}, from {{der|en|la|fun
 * Danish: {{t|da|funktion|c}}
 * Dutch: {{t+|nl|functie|f}}
 * Esperanto: {{t-needed|eo}}
-* Estonian: {{t-needed|et}}
+* Estonian: {{t|et|funktsioon}}
 * Finnish: {{t+|fi|funktio}}, {{t+|fi|aliohjelma}}
 * French: {{t+|fr|fonction|f}}
-* Georgian: {{t-needed|ka}}
+* Georgian: {{t+|ka|ფუნქცია}}
 * German: {{t+|de|Funktion|f}}
 * Greek: {{t+|el|συνάρτηση|f}}
 * Hebrew: {{t+|he|פוּנְקְצִיָּה|f|tr=funktsiá}}
 * Hungarian: {{t+|hu|függvény}}
+* Icelandic: {{t+|is|fall|n}}
 * Irish: {{t|ga|feidhm|f}}
-{{trans-mid}}
 * Italian: {{t+|it|funzione|f}}
 * Japanese: {{t+|ja|関数|tr=かんすう, kansū}}
 * Kazakh: {{t|kk|функция}}
 * Korean: {{t+|ko|함수 (函數)}}
-* Latvian: {{t-needed|lv}}
-* Lithuanian: {{t-needed|lt}}
+* Kyrgyz: {{t+|ky|функция}}
+* Lao: {{t|lo|ຕຳລາ}}
+{{trans-mid}}
+* Latvian: {{t|lv|funkcija|f}}
+* Lithuanian: {{t+|lt|funkcija|f}}
+* Macedonian: {{t|mk|функција|f}}
 * Maori: {{t|mi|taumahi}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|функц}}
 * Norwegian: {{t+|no|funksjon|m}}
+*: Bokmål: {{t+|nb|funksjon|m}}
 * Persian: {{t+|fa|تابع|tr=tâbe'}}
 * Polish: {{t+|pl|funkcja|f}}
 * Portuguese: {{t+|pt|função|f}}
-* Romanian: {{t-needed|ro}}
+* Romanian: {{t+|ro|funcție|f}}
 * Russian: {{t+|ru|фу́нкция|f}}
 * Serbo-Croatian:
 *: Roman: {{t+|sh|funkcija|f}}
+* Slovak: {{t|sk|funkcia|f}}
+* Slovene: {{t|sl|funkcija|f}}
 * Spanish: {{t+|es|función|f}}
 * Swedish: {{t+|sv|funktion|c}}, {{t|sv|subrutin|c}}
+* Tajik: {{t+|tg|функсия}}
 * Thai: {{t+|th|ฟังก์ชัน}}
 * Turkish: {{t+|tr|işlev}}, {{t+|tr|fonksiyon}}
-* Vietnamese: {{t+|vi|hàm}}
+* Turkmen: {{t|tk|funksiýa}}
+* Ukrainian: {{t|uk|фу́нкція|f}}
+* Uzbek: {{t+|uz|funksiya}}
+* Vietnamese: {{t+|vi|hàm}}, {{t+|vi|hàm số}}
 {{trans-bottom}}
 
 {{trans-top|biology: physiological activity of an organ or body part}}
+* Belarusian: {{t|be|фу́нкцыя|f}}
 * Bulgarian: {{t+|bg|фу́нкция|f}}
 * Catalan: {{t+|ca|funció|f}}
 * Chinese:
@@ -557,24 +584,32 @@ From {{bor|en|frm|function}}, from {{der|en|fro|fonction}}, from {{der|en|la|fun
 * German: {{t+|de|Funktion|f}}, {{t+|de|Zweck|m}}
 * Greek: {{t+|el|λειτουργία|f}}
 * Hungarian: {{t+|hu|működés}}, {{t+|hu|funkció}}
-{{trans-mid}}
 * Indonesian: {{t+|id|fungsi}}, {{t+|id|faal}}
 * Irish: {{t|ga|feidhm|f}}
 * Italian: {{t+|it|funzione|f}}
 * Japanese: {{t+|ja|機能|tr=きのう, kinō}}
+{{trans-mid}}
 * Korean: {{t+|ko|기능 (機能)}}
+* Latvian: {{t|lv|funkcija|f}}
+* Lithuanian: {{t+|lt|funkcija|f}}
+* Macedonian: {{t|mk|функција|f}}
 * Norwegian: {{t+|no|funksjon|m}}
 * Portuguese: {{t+|pt|função|f}}
 * Russian: {{t+|ru|фу́нкция|f}}
 * Serbo-Croatian:
 *: Roman: {{t+|sh|funkcija|f}}
+* Slovak: {{t|sk|funkcia|f}}
+* Slovene: {{t|sl|funkcija|f}}
 * Spanish: {{t+|es|función|f}}
 * Swedish: {{t+|sv|funktion|c}}
 * Tagalog: {{t|tl|taan}}
 * Turkish: {{t+|tr|fonksiyon}}, {{t+|tr|işlev}}
+* Ukrainian: {{t|uk|фу́нкція|f}}
 {{trans-bottom}}
 
 {{trans-top|chemistry: characteristic behavior of a chemical compound}}
+* Belarusian: {{t|be|фу́нкцыя|f}}
+* Bulgarian: {{t+|bg|фу́нкция|f}}
 * Catalan: {{t+|ca|funció|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|官能|tr=guānnéng}}
@@ -582,13 +617,17 @@ From {{bor|en|frm|function}}, from {{der|en|fro|fonction}}, from {{der|en|la|fun
 * Finnish: {{t+|fi|käyttäytyminen}}
 * German: {{t+|de|Funktion|f}}
 * Italian: {{t+|it|funzione|f}}
-{{trans-mid}}
 * Japanese: {{t+|ja|機能|tr=きのう, kinō}}
+{{trans-mid}}
 * Korean: {{t+|ko|기능 (機能)}}
+* Macedonian: {{t|mk|функција|f}}
 * Russian: {{t+|ru|фу́нкция|f}}
 * Serbo-Croatian:
 *: Roman: {{t+|sh|funkcija|f}}
+* Slovak: {{t|sk|funkcia|f}}
+* Slovene: {{t|sl|funkcija|f}}
 * Swedish: {{t+|sv|funktion|c}}
+* Ukrainian: {{t|uk|фу́нкція|f}}
 {{trans-bottom}}
 
 ====References====
