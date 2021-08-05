@@ -31,11 +31,18 @@ From {{inh|id|ms|ter-}}, from {{inh|id|ms-cla|ter-}}, from {{inh|id|poz-mly-pro|
 * {{IPA|id|/tə(r)/}}
 
 ===Prefix===
-{{head|id|prefix}}
-#  for [[passive]] [[intransitive]] [[verb]], agentless actions, {{n-g|[[accidental]] [[aspect]] or [[momentane]] [[aspect]] [[verb|verbs]]}}.
-<!--such as those which are involuntary, sudden, or accidental.-->
+{{head|id|prefix|verb base}}
+#  {{n-g|[[accidental]] [[aspect]] of the [[passive]] [[intransitive]] [[verb]]}}
 #: {{prefixusex|id|tidur|t1=sleep|tertidur|t2='''(accidentally)''' {{l|en|slept}}}}
+#  {{n-g|[[momentane]] [[aspect]] of the [[passive]] [[intransitive]] [[verb]]}}
 #: {{prefixusex|id|jatuh|t1=fall|terjatuh|t2='''(suddenly)''' {{l|en|fall}}}}
+#  {{n-g|[[perfective]] [[aspect]] of the [[passive]] [[transitive]] [[verb]]}}
+#: {{prefixusex|id|letak|t1=to place|terletak|t2=have been placed}}
+#: {{prefixusex|id|sangka|t1=to suspect|tersangka|t2=to be suspected}}
+# {{lb|id|law}} {{n-g|[[noun]] derivative from [[perfective]] [[aspect]] of the [[passive]] [[transitive]] [[verb]]}}
+#: {{prefixusex|id|sangka|t1=to suspect|tersangka|t2=suspect}}
+
+{{head|id|prefix|adjective base, adverb base}}
 # {{n-g|used to form the [[superlative]] of [[adjective]]s and [[adverb]]s.}}
 #: {{prefixusex|id|besar|t1=big|terbesar|t2=bigg'''est'''}}
 #: {{prefixusex|id|panjang|t1=long|terpanjang|t2=long'''est'''}}
