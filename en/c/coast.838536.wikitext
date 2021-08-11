@@ -1,22 +1,21 @@
 {{also|Coast}}
 ==English==
-{{wikipedia|lang=en|dab=coast (disambiguation)|coast}}
-{{slim-wikipedia|lang=en}}
-
-===Etymology===
-From {{inh|en|enm|coste}}, {{m|enm|cooste|t=rib", also "shore}}, from {{der|en|fro|coste}}, from {{der|en|la|costa|t=rib, side, edge}}.
 
 ===Pronunciation===
-* {{a|GA}} {{enPR|kōst}}, {{IPA|en|/koʊst/}}
 * {{a|RP}} {{enPR|kōst}}, {{IPA|en|/kəʊst/}}
-* {{audio|en|en-us-coast.ogg|Audio (US)}}
+* {{a|GA}} {{enPR|kōst}}, {{IPA|en|/koʊst/}}
+* {{audio|en|en-us-coast.ogg|Audio (GA)}}
 * {{rhymes|en|əʊst}}
 
-===Noun===
+===Etymology 1===
+{{root|en|ine-pro|*kost-}}
+From {{inh|en|enm|coste|t=rib; side of the body, flank; side of a building; face of a solid figure; coast, shore; bay, gulf; sea; concavity, hollow; boundary, limit; land; country; district, province, region; locality, place; division of the heavens; compass direction; direction; location with reference to direction, side}}{{nb...|coest, cost, coost, cooste, kost, koste|otherforms=1}},<ref>{{R:MED Online|entry=cō̆ste|pos=n|id=MED9894}}</ref> from {{der|en|fro|coste|t=rib; side of an object; coast}} (modern {{cog|fr|côte|t=rib; coast; hill, slope}}), from {{der|en|la|costa|t=rib; side, wall}},<ref>{{R:OED Online|entry=coast|pos=n|id=35135|date=March 2021|nodot=1}}; {{R:Lexico|pos=n}}</ref> from {{der|en|ine-pro|*kost-}}.
+
+====Noun====
 {{en-noun}}
 
 # The edge of the [[land]] where it meets an ocean, sea, gulf, bay, or large lake. {{defdate|from 14th c.}}
-#: ''The rocky '''coast''' of Maine has few beaches.''
+#: {{ux|en|The rocky '''coast''' of Maine has few beaches.}}
 # {{lb|en|obsolete}} The [[side]] or [[edge]] of something. {{defdate|15th-18th c.}}
 #: {{rfquotek|en|Sir Isaac Newton}}
 # {{lb|en|obsolete}} A [[region]] of land; a [[district]] or [[country]]. {{defdate|14th-17th c.}}
@@ -28,25 +27,25 @@ From {{inh|en|enm|coste}}, {{m|enm|cooste|t=rib", also "shore}}, from {{der|en|f
 #* '''1590''', Edmund Spenser, ''The Faerie Queene'', III iii
 #*: the learned Merlin, well could tell, / Vnder what '''coast''' of heauen the man did dwell {{...}}
 
-====Hypernyms====
+=====Hypernyms=====
 * {{sense|edge of land meeting an ocean, sea, gulf, or bay}} {{l|en|shore}}, {{l|en|shoreline}}
 
-====Hyponyms====
+=====Hyponyms=====
 * {{sense|edge of land meeting an ocean, sea, gulf, or bay}} {{l|en|oceanfront}}, {{l|en|seashore}}
 
-====Derived terms====
-{{der3|en|
+=====Derived terms=====
+{{col3|en|
 |[[coast-to-coast]], [[coast to coast]]
 |coastal|coaster|coastguard|coastland|coastline|coastward|coastwatcher|coastwise
 |Coast|East Coast|West Coast|Coast Guard
 }}
 
 ====Related terms====
-{{rel3|en|
+{{col3|en
 |coast fox|coast guard|coast rat|the coast is clear
 }}
 
-====Translations====
+=====Translations=====
 {{trans-top|edge of land meeting ocean, sea, gulf, bay}}
 * Abkhaz: {{t-needed|ab}}
 * Afrikaans: {{t+|af|kus}}, {{t+|af|oewer}}
@@ -130,7 +129,10 @@ From {{inh|en|enm|coste}}, {{m|enm|cooste|t=rib", also "shore}}, from {{der|en|f
 * Zazaki: {{t|zza|kıste}}, {{t|zza|kuste}}
 {{trans-bottom}}
 
-===Verb===
+===Etymology 2===
+From {{inh|en|enm|costeien|t=to travel along a border or coast; to go alongside (something), skirt; to accompany, follow; to travel across, traverse; to be adjacent to, to border; }}{{nb...|cost, costay, coste, costey, costie, coost, coostie, costen, costien|otherforms=1}},<ref>{{R:MED Online|entry=cō̆steien|pos=v|id=MED9896}}</ref> from {{der|en|xno}}, {{der|en|fro|costoier|t=to be at the side of}}{{nb...|costeier, costier, costoiier}} (modern {{cog|fr|côtoyer|t=to pass alongside; (''figuratively'') to rub shoulders}}), from {{der|en|la|costicāre}}, from {{der|en|la|costa|t=rib; side, wall}}; see further at [[#Etymology 1|etymology 1]].<ref>{{R:OED Online|entry=coast|pos=v|id=35136|date=June 2021|nodot=1}}; {{R:Lexico|entry=coast|pos=v}}</ref>
+
+====Verb====
 {{en-verb}}
 
 # {{lb|en|intransitive}} To [[glide]] along without adding [[energy]]; to allow a [[vehicle]] to continue moving forward after [[disengaging]] the [[engine]] or ceasing to apply motive power.
@@ -152,7 +154,7 @@ From {{inh|en|enm|coste}}, {{m|enm|cooste|t=rib", also "shore}}, from {{der|en|f
 #*: The Indians {{...}} '''coasted''' me a long the river.
 # {{lb|en|US|dialect}} To [[slide]] [[downhill]]; to slide on a [[sled]] upon snow or ice.
 
-====Translations====
+=====Translations=====
 {{trans-top|to glide along with no added energy}}
 * Finnish: {{t+|fi|liukua}}
 * French: {{t|fr|aller en roue libre}}
@@ -180,6 +182,13 @@ From {{inh|en|enm|coste}}, {{m|enm|cooste|t=rib", also "shore}}, from {{der|en|f
 {{trans-mid}}
 * Spanish: {{t+|es|perecear}}
 {{trans-bottom}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{pedia}}
+* {{pedia|coast (disambiguation)}}
 
 ===Anagrams===
 * {{anagrams|en|a=acost|Ascot|Casto|Coats|Costa|Cotas|Sacto|ascot|catso|coats|costa|octas|scato-|scoat|tacos}}
