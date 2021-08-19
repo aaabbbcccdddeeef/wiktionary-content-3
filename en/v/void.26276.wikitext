@@ -65,7 +65,7 @@ From {{inh|en|enm|voide}}, {{m|enm|voyde}}, from {{der|en|fro|vuit}}, {{m|fro|vo
 * Georgian: {{t|ka|დაუკავებელი}}, {{t|ka|ვაკანტური}}
 {{trans-mid}}
 * German: {{t+|de|leer}}
-* Hungarian: {{t|hu|megüresedett}}, {{t|hu|megürült}}, {{t|hu|el nem foglalt}}
+* Hungarian: {{t|hu|megüresedett}}, {{t|hu|megürült}}, {{t|hu|[[elfoglalt|el]] [[nem]] [[elfoglalt|foglalt]]}}
 * Italian: {{t+|it|vuoto}}
 * Maori: {{t|mi|wātea}}
 * Russian: {{t+|ru|вакантный|m}}
@@ -76,7 +76,7 @@ From {{inh|en|enm|voide}}, {{m|enm|voyde}}, from {{der|en|fro|vuit}}, {{m|fro|vo
 * French: {{t+|fr|dépourvu}}, {{t+|fr|vide}}
 {{trans-mid}}
 * Gothic: {{t|got|𐍅𐌰𐌽𐍃}}
-* Hungarian: {{t+|hu|nélküli}}, {{t|hu|-talan/-telen}}, {{t+|hu|mentes}}, {{t+|hu|nélkülöző}}
+* Hungarian: {{t+|hu|nélküli}}, {{t|hu|[[-talan]]/[[-telen]]}}, {{t+|hu|mentes}}, {{t+|hu|nélkülöző}}
 * Italian: {{t+|it|privo}}
 {{trans-bottom}}
 
@@ -150,7 +150,7 @@ From {{inh|en|enm|voide}}, {{m|enm|voyde}}, from {{der|en|fro|vuit}}, {{m|fro|vo
 * {{sense|(astronomy) An extended region of space containing no galaxies}} [[Local Void]]
 
 =====Translations=====
-{{trans-top|An empty space; a vacuum}}
+{{trans-top|an empty space; a vacuum}}
 * Catalan: {{t+|ca|buit|m}}
 * Chinese:
 *: Mandarin: {{t+|cmn|空洞|tr=kōngdòng}}
@@ -185,12 +185,24 @@ From {{inh|en|enm|voide}}, {{m|enm|voyde}}, from {{der|en|fro|vuit}}, {{m|fro|vo
 * Spanish: {{t+|es|vacío|m}}
 * Swedish: {{t+|sv|tomrum|n}}
 {{trans-bottom}}
-{{trans-top|(astronomy) An extended region of space containing no galaxies}}
+{{trans-top|astronomy: an extended region of space containing no galaxies}}
 * Finnish: {{t+|fi|tyhjiö}}
 * Georgian: {{t|ka|სიცარიელე}}
 * German: {{t+|de|Hohlraum|m}} {{qualifier|rare}}, {{t|de|Void|m}}
 {{trans-mid}}
 * Turkish: {{t+|tr|boşluk}}
+{{trans-bottom}}
+
+{{trans-top|materials science: a collection of adjacent vacancies inside a crystal lattice}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|fluid mechanics: a pocket of vapour inside a fluid flow, created by cavitation}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|construction: an empty space between floors or walls, including false separations and planned gaps between a building and its facade}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ====Verb====
