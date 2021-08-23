@@ -6,7 +6,7 @@
 * {{l|en|Tōkyō}}, {{l|en|Tôkyô}}
 
 ===Etymology===
-Borrowed from {{bor|en|ja|-}} {{ja-r|東京|^とうきょう|gloss=eastern capital}}, as opposed to [[Kyoto]] in the west, from {{der|en|ltc|-}} {{ltc-l|東|gloss=east}} + {{ltc-l|京|gloss=capital}}.
+Borrowed from {{bor|en|ja|東京|tr=Tōkyō|lit=eastern capital}}, as opposed to [[Kyoto]] in the west, from {{der|en|ltc|東|tr=tuwng||east}} + {{m|ltc|京|tr=kjæng||capital}}.
 
 ===Pronunciation===
 * {{a|GA}} {{IPA|en|/toʊ.ki.oʊ/}}
@@ -33,7 +33,7 @@ Borrowed from {{bor|en|ja|-}} {{ja-r|東京|^とうきょう|gloss=eastern capit
 * Afrikaans: {{t|af|Tokio}}
 * Albanian: {{t|sq|Tokio}}
 * Amharic: {{t|am|ቶክዮ}}
-* Arabic: {{t|ar|طُوكِيُو|f|tr=ṭōkiyō}}, {{t|ar|تُوكِيُو|f|tr=tōkiyō}}
+* Arabic: {{t|ar|طُوكْيُو|m}}, {{t|ar|تُوكْيُو|m}}
 *: Hijazi Arabic: {{t|acw|طوكيو|tr=ṭōkyō}}
 *: Moroccan Arabic: {{t|ary|طوكيو|tr=ṭūkīū}}
 * Armenian: {{t|hy|Տոկիո}}
@@ -45,7 +45,7 @@ Borrowed from {{bor|en|ja|-}} {{ja-r|東京|^とうきょう|gloss=eastern capit
 * Bulgarian: {{t|bg|То́кио|n}}
 * Burmese: {{t|my|တိုကျို}}
 * Catalan: {{t|ca|Tòquio|m}}
-* Cherokee: {{t|chr|ᏙᎩᏲ}}
+* Cherokee: {{t|chr|ᏙᎩᏲ|sc=Cher}}
 * Chinese:
 *: Cantonese: {{t|yue|東京}}, {{t|yue|东京|tr=dung1 ging1}}
 *: Hakka: {{t|hak|東京}}, {{t|hak|东京|tr=Tûng-kîn}}
@@ -54,27 +54,27 @@ Borrowed from {{bor|en|ja|-}} {{ja-r|東京|^とうきょう|gloss=eastern capit
 *: Min Nan: {{t+|nan|東京}}, {{t+|nan|东京|tr=Tang-kiaⁿ}}
 *: Wu: {{t|wuu|東京}}, {{t|wuu|东京|tr=ton jin}}
 * Corsican: {{t|co|Tokiu}}, {{t|co|Tochiu|m}}
-* Cree: {{t|cr|ᑐᑭᔪ}}
+* Cree: {{t|cr|ᑐᑭᔪ|sc=Cans}}
 * Czech: {{t+|cs|Tokio|n}}
-* Danish: {{t|da|Tokyo|n}}
+* Danish: {{t|da|Tokyo}}
 * Dhivehi: {{t|dv|ޓޯކިޔޯ}}
 * Dutch: {{t+|nl|Tokio|n}}, {{t|nl|Tokyo|n}}
 * Dzongkha: {{t|dz|ཊོ་ཀི་ཡ}}
 * Esperanto: {{t+|eo|Tokio}}
 * Estonian: {{t+|et|Tokyo}}
 * Finnish: {{t+|fi|Tokio}}
-* French: {{t+|fr|Tokyo|f}}, {{t+|fr|Tōkyō|f}} {{q|academic spelling}}
+* French: {{t+|fr|Tokyo|m}}, {{q|academic spelling}} {{t+|fr|Tōkyō|m}}
 * Galician: {{t+|gl|Toquio|m}}
 * Georgian: {{t|ka|ტოკიო}}
 * German: {{t+|de|Tokio|n}}
 * Greek: {{t+|el|Τόκιο|n}}, {{t+|el|Τόκυο|n}}
 * Greenlandic: {{t|kl|Tokyo}}
-* Hebrew: {{t|he|טוֹקְיוֹ|f|tr=tokyo}}
-* Hindi: {{t|hi|टोक्यो|m}}, {{t|hi|तोक्यो|m}}
+* Hebrew: {{t|he|טוֹקְיוֹ|tr=tokyo}}
+* Hindi: {{t|hi|टोक्यो}}, {{t|hi|तोक्यो}}
 * Hungarian: {{t+|hu|Tokió}}
 * Icelandic: {{t|is|Tókýó}}, {{t|is|Tókíó}}
 * Indonesian: {{t|id|Tokyo}}
-* Inuktitut: {{t|iu|ᑑᑭᐅ}}
+* Inuktitut: {{t|iu|ᑑᑭᐅ|sc=Cans}}
 * Inupiaq: {{t|ik|Tokyo}}
 * Irish: {{t|ga|Tóiceo}}
 * Italian: {{t+|it|Tokyo|f}}, {{t+|it|Tokio|f}}, {{t|it|Tochio|m}}
@@ -82,12 +82,12 @@ Borrowed from {{bor|en|ja|-}} {{ja-r|東京|^とうきょう|gloss=eastern capit
 * Kannada: {{t|kn|ತೊಕ್ಯೋ}}
 * Kazakh: {{t|kk|Токио}}
 * Khmer: {{t+|km|តូក្យូ}}
-* Korean: {{t+|ko|^도쿄}}, {{t+|ko|^동경 (東京)}}, {{t+|ko|^토쿄}} {{qualifier|nonstandard}}
+* Korean: {{t+|ko|^도쿄}}, {{t+|ko|^동경}} ({{t+|ko|東京}}), {{t+|ko|^토쿄}}
+{{trans-mid}}
 * Kurdish:
 *: Central Kurdish: {{t|ckb|تۆکیۆ}}
 *: Northern Kurdish: {{t+|kmr|Tokyo}}
 * Kyrgyz: {{t|ky|Токио}}
-{{trans-mid}}
 * Ladino:
 *: Hebrew script: {{t|lad|טוקיו}}
 *: Roman: {{t|lad|Tokio}}
@@ -99,13 +99,12 @@ Borrowed from {{bor|en|ja|-}} {{ja-r|東京|^とうきょう|gloss=eastern capit
 * Malay: {{t|ms|Tokyo}}
 * Maltese: {{t|mt|Tokjo}}
 * Marathi: {{t|mr|टोकियो}}, {{t|mr|तोकियो}}
-* Mongolian:
-*: Cyrillic: {{t|mn|Токио}}
+* Mongolian: {{t|mn|Токио}}
 * Norwegian:
 *: Bokmål: {{t|nb|Tokyo}}
 * Okinawan: {{t|ryu|東京|tr=とーちょー, tōchō}}
 * Oriya: {{t|or|ଟୋକିଓ}}
-* Pashto: {{t|ps|توکيو|f|tr=tokyo}}
+* Pashto: {{t|ps|توکیو}}
 * Persian: {{t+|fa|توکیو|tr=tokyo}}
 * Polish: {{t+|pl|Tokio|n}}
 * Portuguese: {{t+|pt|Tóquio|f}}
@@ -127,7 +126,7 @@ Borrowed from {{bor|en|ja|-}} {{ja-r|東京|^とうきょう|gloss=eastern capit
 *: Lower Sorbian: {{t|dsb|Tokio|n}}
 *: Upper Sorbian: {{t|hsb|Tokio|n}}
 * Spanish: {{t+|es|Tokio|m}}, {{qualifier|rare}} {{t|es|Tokyo|m}}, {{t+|es|Tokío}}
-* Swedish: {{t+|sv|Tokyo|n}}
+* Swedish: {{t+|sv|Tokyo}}
 * Tagalog: {{t|tl|Tokyo}}
 * Tajik: {{t+|tg|Токио}}
 * Tamil: {{t|ta|தோக்கியோ}}
@@ -138,10 +137,10 @@ Borrowed from {{bor|en|ja|-}} {{ja-r|東京|^とうきょう|gloss=eastern capit
 * Turkish: {{t+|tr|Tokyo}}
 * Turkmen: {{t|tk|Tokio}}
 * Ukrainian: {{t+|uk|То́кіо|n}}
-* Urdu: {{t|ur|ٹوکیو|m|tr=ṭokiyo}}
+* Urdu: {{t|ur|ٹوکیو|tr=ṭokiyo}}
 * Uyghur: {{t|ug|توكيو}}
 * Uzbek: {{t|uz|Tokio}}
-* Vietnamese: {{t|vi|Tô-ki-ô}}, {{t|vi|Đông Kinh}} ({{t|vi|東京}})
+* Vietnamese: {{t|vi|Tô-ki-ô}}, {{t|vi|Đông Kinh}} ({{t|vi|東京|sc=Hani}})
 * Yiddish: {{t|yi|טאָקיאָ|n}}
 * Zhuang: {{t|za|Dunghgingh}}
 {{trans-bottom}}
