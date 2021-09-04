@@ -178,15 +178,17 @@ Depending on the context and intonation (especially with rising intonation), the
 ==Hawaiian==
 
 ===Etymology===
-From {{inh|haw|poz-pnp-pro|*afa}}, from {{inh|haw|poz-oce-pro|*apa}}, from {{inh|haw|pqe-pro|*apa}}, from {{inh|haw|poz-cet-pro|*apa}}, from {{inh|haw|poz-pro|*apa}}.
+{{dercat|haw|poz-oce-pro|pqe-pro|poz-cet-pro|poz-pro|inh=4}}
+From {{inh|haw|poz-pnp-pro|*afa}}. Cognates include {{cog|mi|aha}} and {{cog|rap|aha}}.
 
 ===Pronunciation===
-{{haw-IPA}}
+* {{haw-IPA}}
+* {{hyph|haw|a|ha}}
 
 ===Pronoun===
-{{head|haw|pronoun}}
+{{head|haw|pronoun|cat2=interrogative pronouns}}
 
-# [[what]] {{q|interrogative pronoun}}
+# [[what]]?
 #: {{uxi|haw|He '''aha''' kēlā?|'''What''' is that?}}
 
 ===References===
