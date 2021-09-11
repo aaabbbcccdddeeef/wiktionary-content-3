@@ -1,8 +1,10 @@
 ==English==
-[[File:Bezier_curve.svg|thumb|A '''Bézier curve''' with four control points]]
+{{wikipedia}}
+[[File:Bézier 2 big.gif|right|thumb|240px|Animation of the construction of a quadratic '''Bézier curve'''. The parameter ''t'' &isin; [0,1] defines by linear proportion the positions of the endpoints of the green line along the lines P<sub>0</sub>P<sub>1</sub> and P<sub>1</sub>P<sub>2</sub> as well as the point along the green line that is on the '''Bézier curve'''.]]
+[[File:Bezier_curve.svg|right|thumb|A '''Bézier curve''' with four control points (a cubic '''Bézier curve''')]]
 
 ===Etymology===
-Likely {{calque|en|fr|courbe de Bézier|nocap=1}}. {{named-after|en|occ=Renault engineer|Pierre Bézier|wplink==}} who popularized the curves developed earlier by {{w|Paul de Casteljau}}.
+Probably a {{calque|en|fr|courbe de Bézier|nocap=1}}. {{named-after|en|occ=Renault engineer|Pierre Bézier|wplink==}} who popularized the curves developed earlier by {{w|Paul de Casteljau}} and used them to design curves for the bodywork of cars.
 
 ===Pronunciation===
 * {{IPA|en|[bezje kɜːv]}}
@@ -10,12 +12,24 @@ Likely {{calque|en|fr|courbe de Bézier|nocap=1}}. {{named-after|en|occ=Renault 
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|mathematics|computer graphics}} A [[parametric]] curve defined by a set of [[control point]]s, two of which are the ends of the curve, and the others determine its shape. Bézier curves are applied e.g. in [[computer graphics]] to produce smooth, infinitely scalable curves. {{defdate|from 1960s}}
+# {{lb|en|mathematics|computer graphics}} A type of [[parametric]] curve defined by a set of [[control point]]s, two of which are the ends of the curve, while the others determine its shape. {{defdate|From 1960s.}}
+#: {{ux|en|'''Bézier curves''' are applied, for example in [[computer graphics]] and [[animation]], to produce smooth, infinitely scalable curves.}}
 #: {{syn|en|bezier}}
+#* '''2003''', {{w|Samuel Buss|Samuel R. Buss}}, ''3D Computer Graphics: A Mathematical Introduction with OpenGL'', {{w|Cambridge University Press}}, [https://books.google.com.au/books?id=LBm1khtUX0cC&pg=PA163&dq=%22B%C3%A9zier+curve%22%7C%22B%C3%A9zier+curves%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiPvu-Y3fPyAhUWq5UCHW6WDBAQ6AF6BAghEAI#v=onepage&q=%22B%C3%A9zier%20curve%22%7C%22B%C3%A9zier%20curves%22&f=false page 163],
+#*: So, instead, it is often better to combine multiple '''Bézier curves''' to form a longer, more complicated curve called a ''piecewise '''Bézier curve'''''.
+#*: This section discusses how to join '''Bézier curves''' together – especially how to join them so as to preserve continuity and smoothness (i.e., continuity of the first derivative).
+#* '''2008''', T. Theoharis, G. Papaioannou, N. Platis, N. M. Patrikalakis, ''Graphics & Visualization: Principles and Algorithms'', Taylor & Francis (A K Peters / CRC Press), [https://books.google.com.au/books?id=9UwhIdwmS9cC&pg=PA193&dq=%22B%C3%A9zier+curve%22%7C%22B%C3%A9zier+curves%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiPvu-Y3fPyAhUWq5UCHW6WDBAQ6AF6BAhTEAI#v=onepage&q=%22B%C3%A9zier%20curve%22%7C%22B%C3%A9zier%20curves%22&f=false page 193],
+#*: The initial points '''p'''<sub>0</sub>, '''p'''<sub>1</sub>, and '''p'''<sub>2</sub> are called ''control points'' of the '''Bézier curve.'''{{...}}The process outlined above for the generation of a quadratic '''Bézier curve''' from its three control points can be generalized for more control points in a straightforward manner.
+#* '''2012''', Frank Klawonn, ''Introduction to Computer Graphics: Using Java 2D and 3D'', Springer, 2nd Edition, [https://books.google.com.au/books?id=Kw4rxkDvDsIC&pg=PA151&dq=%22B%C3%A9zier+curve%22%7C%22B%C3%A9zier+curves%22&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiPvu-Y3fPyAhUWq5UCHW6WDBAQ6AF6BAhZEAI#v=onepage&q=%22B%C3%A9zier%20curve%22%7C%22B%C3%A9zier%20curves%22&f=false page 151],
+#*: When an affine transformation is applied to the control points, the resulting '''Bézier curve''' with respect to the new control points coincides with the transformed '''Bézier curve'''. Therefore, '''Bézier curves''' are invariant under affine transformations like rotation, translation or scaling. '''Bézier curves''' are also symmetric with respect to their control points.
 
-====Derived terms====
-{{der4|en
+====Related terms====
+{{rel4|en
 |bezier
+|Bézier coefficient
+|Bézier spline
+|Bézier surface
+|Bézier triangle
 }}
 
 ====Translations====
@@ -25,6 +39,7 @@ Likely {{calque|en|fr|courbe de Bézier|nocap=1}}. {{named-after|en|occ=Renault 
 * Czech: {{t|cs|Bézierova křivka|f}}
 * Finnish: {{t|fi|Bézier-käyrä}}
 * French: {{t|fr|courbe de Bézier|f}}
+* Italian: {{t|it|curva di Bézier|f}}
 {{trans-mid}}
 * German: {{t|de|Bézierkurve|f}}
 * Japanese: {{t|ja|ベジェ曲線|tr=Beje kyokusen|sc=Jpan}}
@@ -34,10 +49,13 @@ Likely {{calque|en|fr|courbe de Bézier|nocap=1}}. {{named-after|en|occ=Renault 
 {{trans-bottom}}
 
 ===See also===
+* {{l|en|Bernstein form}}
 * {{l|en|control point}}
 * {{l|en|spline}}
 
 ===Further reading===
-* {{pedia}}
+* {{pedialite|Bernstein polynomial}}
+* {{pedialite|De Casteljau's algorithm}}
+* [https://encyclopediaofmath.org/wiki/B%C3%A9zier_curve Bézier curve] on {{w|Encyclopedia of Mathematics}}
 
 [[Category:English terms spelled with É|bezier curve]]
