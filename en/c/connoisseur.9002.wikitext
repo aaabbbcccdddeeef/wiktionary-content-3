@@ -13,10 +13,10 @@ Around 1705–1715, from {{bor|en|fr|connoisseur}}, from the verb {{m|fr|connoî
 * {{rhymes|en|ɜː(ɹ)|ʊə(ɹ)}}
 
 ===Noun===
-{{wikipedia}}
+{{wp}}
 {{en-noun}}
 
-# A [[specialist]] in a given field whose opinion is highly valued, especially in one of the [[fine arts]] or in matters of [[taste]]
+# A [[specialist]] in a given field whose opinion is highly valued, especially in one of the [[fine arts]] or in matters of [[taste]].
 #* '''1883''', {{w|Robert Louis Stevenson}}, ''{{w|Treasure Island}}''
 #*: This, when it was brought to him, he drank slowly, like a '''connoisseur''', lingering on the taste...[http://www.gutenberg.org/files/120/120-h/120-h.htm#link2H_4_0004]
 
@@ -24,16 +24,15 @@ Around 1705–1715, from {{bor|en|fr|connoisseur}}, from the verb {{m|fr|connoî
 * {{l|en|cognoscente}}
 
 ====Derived terms====
-{{der-top}}
-* {{l|en|connoisseurdom}}
-* {{l|en|connoisseurial}}
-{{der-mid}}
-* {{l|en|connoisseurly}}
-* {{l|en|connoisseurship}}
-{{der-bottom}}
+{{der4|en
+|connoisseurdom
+|connoisseurial
+|connoisseurly
+|connoisseurship
+}}
 
-====Related terms====
-* {{l|en|connoisseuse}}
+====Coordinate terms====
+* {{l|en|connoisseuse}} {{q|informal, very rare}}
 
 ====Translations====
 {{trans-top|specialist whose opinion is valued}}
@@ -47,20 +46,20 @@ Around 1705–1715, from {{bor|en|fr|connoisseur}}, from the verb {{m|fr|connoî
 * Greek: {{t+|el|ειδήμων|m|f}}
 * Hebrew: {{t+|he|מומחה|m}}
 * Hungarian: {{t+|hu|műértő}}
-* Italian: {{t+|it|intenditore|m}}, {{t+|it|conoscitore|m}}; {{t+|it|esperto}}; {{t|it|connaisseur|m}}
+* Italian: {{t+|it|intenditore|m}}, {{t+|it|conoscitore|m}}; {{t+|it|esperto|m}}; {{t|it|connaisseur|m}}
 {{trans-mid}}
 * Japanese: {{t|ja|鑑定家|tr=[[かんていか]], kanteika}}, {{t|ja|目利き|tr=mekiki}}, {{t|ja|鑑識家}}
 * Korean: {{t|ko|감정가}}
 * Macedonian: {{t|mk|познавач|m}}
 * Polish: {{t+|pl|koneser|m}}, {{t+|pl|znawca|m}}
-* Portuguese: {{t+|pt|connaisseur}}; {{qualifier|Brazil}}: {{t+|pt|conhecedor}}, {{t+|pt|perito}}
+* Portuguese: {{t+|pt|connaisseur|m}}; {{q|Brazil}}: {{t+|pt|conhecedor|m}}, {{t+|pt|perito|m}}
 * Russian: {{t+|ru|знато́к|m}}, {{t+|ru|цени́тель|m|sc=Cyrl}}
 * Serbo-Croatian: {{t+|sh|znalac|m}}, {{t+|sh|ekspert}}
 * Slovak: {{t|sk|znalec|m}}
 * Spanish: {{t|es|connaisseur|m}}; {{t|es|connoisseur|m}}
 * Swedish: {{t+|sv|konnässör|c}}, {{t+|sv|kännare|c}}
-* Turkish: {{qualifier|taste}} {{t+|tr|meraklı}}, {{t+|tr|mütehassıs}}, {{t+|tr|uzman}}, {{qualifier|taste}} {{t+|tr|erbap}}
-* Ukrainian: {{t|uk|знаве́ць|m}}, {{t+|uk|ціни́тель|m}} {{qualifier|of art, beauty}}, {{t|uk|цінува́ч|m}}, {{t+|uk|цінува́льник|m}}
+* Turkish: {{t+|tr|meraklı}} {{q|taste}}, {{t+|tr|mütehassıs}}, {{t+|tr|uzman}}, {{qualifier|taste}} {{t+|tr|erbap}}
+* Ukrainian: {{t|uk|знаве́ць|m}}, {{t+|uk|ціни́тель|m}} {{q|of art, beauty}}, {{t|uk|цінува́ч|m}}, {{t+|uk|цінува́льник|m}}
 {{trans-bottom}}
 
 [[Category:en:People]]
@@ -73,6 +72,6 @@ Around 1705–1715, from {{bor|en|fr|connoisseur}}, from the verb {{m|fr|connoî
 * {{fr-IPA|connaisseur}}
 
 ===Noun===
-{{fr-noun|m}}
+{{fr-noun|m|f=connoisseuse}}
 
 # {{obsolete spelling of|fr|connaisseur}}
