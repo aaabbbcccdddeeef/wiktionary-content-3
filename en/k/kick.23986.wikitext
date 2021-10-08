@@ -39,7 +39,7 @@ From {{inh|en|enm|kiken|t=to strike out with the foot}}, from {{der|en|non|kikna
 #*: They are the ones who give hobbyists a bad name, and should be '''kicked''' out of any club meeting they show up at.
 #* {{quote-song|en|year=1992|publisher=Def American Recordings| composer=Rick Rubin and Sir Mix-a-Lot| lyricist={{w|Sir Mix-a-Lot}}| title={{w|Baby Got Back}}|album={{w|Mack Daddy}}| passage=Dial 1-900-Mix-a-Lot and '''kick''' them nasty thoughts.}}
 # {{lb|en|intransitive|Internet}} To forcibly remove a participant from an online activity.
-#: ''He was '''kicked''' by ChanServ for flooding.''
+#: ''He was '''kicked''' from the [[IRC]] server for flooding.''
 # {{lb|en|transitive|slang}} To [[overcome]] (a [[bothersome]] or [[difficult]] [[issue]] or [[obstacle]]); to free oneself of (a problem).
 #: ''I still smoke, but they keep telling me to '''kick''' the habit.''
 # To move or push suddenly and violently.
@@ -56,6 +56,11 @@ From {{inh|en|enm|kiken|t=to strike out with the foot}}, from {{der|en|non|kikna
 #: ''Contador '''kicks''' again to try to rid himself of Rasmussen.''
 # {{lb|en|intransitive}} To show [[opposition]] or [[resistance]].
 # {{lb|en|printing|historical}} To work a [[press]] by impact of the foot on a [[treadle]].
+# {{lb|en|computing|transitive}} To [[reset]] (a [[watchdog timer]]).
+#* '''1999''', Michael Barr, ''Programming Embedded Systems in C and C++'' (page 98)
+#*: In the meantime, it is possible for the embedded software to “'''kick'''” the watchdog timer, to reset its counter to the original large number.
+#* '''2012''', Tarek Sobh, ‎Khaled Elleithy, ''Emerging Trends in Computing, Informatics, Systems Sciences, and Engineering'' (page 763)
+#*: From now on the process has to periodically '''kick''' the watchdog timer in intervals shorter than the initialization interval.
 
 =====Descendants=====
 * {{desc|de|kicken|bor=1}}
