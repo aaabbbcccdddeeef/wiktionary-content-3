@@ -12,6 +12,8 @@ From {{inh|en|enm|tanglen}}, probably of {{der|en|gmq|}} origin, compare {{cog|s
 ====Verb====
 {{en-verb}}
 
+# {{lb|en|transitive}} To mix together or [[intertwine]].
+#: {{syn|en|entangle|knot|mat|snarl}}
 # {{lb|en|intransitive}} To become mixed together or intertwined.
 #: {{syn|en|dishevel|tousle}}
 #: {{ant|en|untangle|unsnarl}}
@@ -22,8 +24,6 @@ From {{inh|en|enm|tanglen}}, probably of {{der|en|gmq|}} origin, compare {{cog|s
 #: {{ux|en|Don't '''tangle''' with someone three times your size.}}
 #: {{ux|en|He '''tangled''' with the law.}}
 #* {{quote-journal|en|author=Daisuke Wakabayashi|title=Who Gets the L.L.C.? Inside a Silicon Valley Billionaire’s Divorce.|work=The New York Times|date=2021-08-20|url=https://www.nytimes.com/2021/08/20/technology/Scott-Hassan-Allison-Huynh-divorce.html|issn=0362-4331|passage=After a few attempts at counseling, they separated in January 2015. Since then, they have '''tangled''' in the courts.}}
-# {{lb|en|transitive}} To mix together or [[intertwine]].
-#: {{syn|en|entangle|knot|mat|snarl}}
 # {{lb|en|transitive}} To catch and hold.
 #: {{syn|en|ensnare|entrap}}
 #* {{RQ:Milton Paradise Regained|2|passage='''tangled''' in amorous nets}}
@@ -38,12 +38,32 @@ From {{inh|en|enm|tanglen}}, probably of {{der|en|gmq|}} origin, compare {{cog|s
 * {{l|en|entangle}}
 
 =====Translations=====
+{{trans-top|to mix together or intertwine}}
+* Arabic:
+*: Moroccan Arabic: {{t|ary|خبّل|tr=ḵəbbəl}}
+* Czech: {{t|cs|zamotat|pf}}, {{t|cs|splést|pf}}, {{t|cs|zaplést|pf}}
+* Esperanto: {{t|eo|konfuzi}}
+* Finnish: {{t+|fi|sotkea}}
+* French: {{t+|fr|emmêler}}, {{t+|fr|enchevêtrer}} {{qualifier|thread, wire}}, {{t+|fr|compliquer}} {{qualifier|situation}}
+* German: {{t+|de|verwirren}}, {{t+|de|verfitzen}} {{qualifier|coll.}}, {{t+|de|verfilzen}}
+* Greek: {{t+|el|πλέκω}}
+{{trans-mid}}
+* Ido: {{t-needed|io}}
+* Italian: {{t+|it|intrecciare}}
+* Khmer: {{t|km|ធ្វើឲ្យប្រទាក់ចំពាក់គ្នា|tr=tvəə aoy prɑteak cɑmpeak knie|sc=Khmr}}
+* Mirandese: {{t-needed|mwl}}
+* Portuguese: {{t+|pt|emaranhar}}, {{t+|pt|misturar}}
+* Spanish: {{t+|es|enmarañar}}
+* Swedish: {{t+|sv|trassla}} till, göra {{t+|sv|trasslig}}
+* Walloon: {{t+|wa|ecomeler}}, {{t+|wa|ecramyî}}, {{t+|wa|emacraler}}
+{{trans-bottom}}
+
 {{trans-top|to become mixed together or intertwined}}
 * Arabic:
 *: Moroccan Arabic: {{t|ary|تْخبّل|tr=tḵəbbəl}}
 * Bikol Central: {{t|bcl|gubot}}
 * Finnish: {{t+|fi|sotkeutua}}, {{t|fi|sotkuuntua}}
-* French: {{t+|fr|emmêler|alt=s'emmêler}}
+* French: {{t+|fr|emmêler|alt=s'emmêler}}, {{t+|fr|enchevêtrer|alt=s'enchevêtrer}} {{qualifier|pronominal}}
 * German: {{t+|de|verfitzen}} {{qualifier|coll.}}, {{t+|de|zerzausen}}
 * Greek: {{t+|el|εμπλέκω}}
 * Japanese: {{t|ja|縺れる|tr=もつれる, motsureru|sc=Jpan}}
@@ -79,26 +99,6 @@ From {{inh|en|enm|tanglen}}, probably of {{der|en|gmq|}} origin, compare {{cog|s
 {{trans-mid}}
 * German: {{t+|de|sich [[anlegen]] mit jmdn.}}, {{t+|de|sich [[verwickeln]] lassen}}
 * Swedish: {{t+|sv|gräla}}, {{t+|sv|bråka}}, {{t+|sv|tampas}}
-{{trans-bottom}}
-
-{{trans-top|to mix together or intertwine}}
-* Arabic:
-*: Moroccan Arabic: {{t|ary|خبّل|tr=ḵəbbəl}}
-* Czech: {{t|cs|zamotat|pf}}, {{t|cs|splést|pf}}, {{t|cs|zaplést|pf}}
-* Esperanto: {{t|eo|konfuzi}}
-* Finnish: {{t+|fi|sotkea}}
-* French: {{t+|fr|emmêler}} {{qualifier|thread, wire}}, {{t+|fr|compliquer}} {{qualifier|situation}}
-* German: {{t+|de|verwirren}}, {{t+|de|verfitzen}} {{qualifier|coll.}}, {{t+|de|verfilzen}}
-* Greek: {{t+|el|πλέκω}}
-{{trans-mid}}
-* Ido: {{t-needed|io}}
-* Italian: {{t+|it|intrecciare}}
-* Khmer: {{t|km|ធ្វើឲ្យប្រទាក់ចំពាក់គ្នា|tr=tvəə aoy prɑteak cɑmpeak knie|sc=Khmr}}
-* Mirandese: {{t-needed|mwl}}
-* Portuguese: {{t+|pt|emaranhar}}, {{t+|pt|misturar}}
-* Spanish: {{t+|es|enmarañar}}
-* Swedish: {{t+|sv|trassla}} till, göra {{t+|sv|trasslig}}
-* Walloon: {{t+|wa|ecomeler}}, {{t+|wa|ecramyî}}, {{t+|wa|emacraler}}
 {{trans-bottom}}
 
 {{trans-top|to catch and hold}}
