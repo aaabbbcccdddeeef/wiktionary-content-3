@@ -12,7 +12,10 @@ From {{inh|en|enm|duche}}, from {{der|en|xno|duché}}, from {{der|en|fro|duc}}, 
 {{wikipedia}}
 {{en-noun}}
 
-# A dominion or region ruled by a [[duke]] or [[duchess]]. {{qualifier|A [[grand duchy]] may be a self-governing state. A simple duchy tends to be a part of a larger [[kingdom]] or [[empire]].}}
+# A [[dominion]] or [[region]] ruled by a [[duke]] or [[duchess]]. 
+
+====Usage notes====
+A [[grand duchy]] may be a self-governing state. A simple duchy tends to be a part of a larger [[kingdom]] or [[empire]].
 
 ====Synonyms====
 * {{l|en|dukedom}}
@@ -20,23 +23,19 @@ From {{inh|en|enm|duche}}, from {{der|en|xno|duché}}, from {{der|en|fro|duc}}, 
 ====Hyponyms====
 * {{l|en|duchessdom}}
 
+====Derived terms====
+* {{l|en|grand duchy}}
+
 ====Related terms====
-* {{l|en|barony}}
-* {{l|en|bishop}}
-* {{l|en|county}}
-* {{l|en|ducal}}
-* {{l|en|duchess}}
-* {{l|en|duke}}
-* {{l|en|dukedom}}
-* {{l|en|march}}
-* {{l|en|marquess}}
-* {{l|en|marquessate}}
-* {{l|en|parish}}
-* {{l|en|shire}}
-* {{l|en|viscount}}
+{{rel4|en
+|duchess
+|ducal
+|duke
+|dukedom
+}}
 
 ====Translations====
-{{trans-top|a dominion or region ruled by a duke or duchess}}
+{{trans-top|dominion or region ruled by a duke or duchess}}
 * Afrikaans: {{t|af|hertogdom}}
 * Arabic: {{t|ar|دُوقِيَّة|f}}
 * Aragonese: {{t|an|ducato|m}}
@@ -72,11 +71,11 @@ From {{inh|en|enm|duche}}, from {{der|en|xno|duché}}, from {{der|en|fro|duc}}, 
 * Kalmyk: {{t|xal|нойлг}}
 * Kazakh: {{t|kk|герцогтық}}, {{t|kk|герцогтік}}
 * Khmer: {{t|km|អ្នកឧកញ៉ាណាខេត្ត|sc=Khmr|tr=neak oknyaa naa kʰaet}}, {{t|km|ចៅពញាណាខេត្ត|sc=Khmr|tr=chav pnyie naa kʰaet}}
-* Latin: {{t|la|ducatum}}
+* Latin: {{t|la|ducātus|m}}
 * Latvian: {{t|lv|hercogiste|f}}
 * Lithuanian: {{t|lt|hercogystė|f}}
 * Low German:
-*: Dutch Low Saxon: {{t|nds-nl|Hartogdom|n}}, {{t|nds-nl|hertogdom|n}}
+*: Dutch Low Saxon: {{t|nds-nl|hartogdom|n}}, {{t|nds-nl|hertogdom|n}}
 *: German Low German: {{t|nds-de|Hartogdom|n}}, {{t|nds-de|Hertogdom|n}}
 * Macedonian: {{t|mk|војводство|n}}
 * Norwegian:
@@ -97,11 +96,27 @@ From {{inh|en|enm|duche}}, from {{der|en|xno|duché}}, from {{der|en|fro|duc}}, 
 *: Lower Sorbian: {{t|dsb|wójwodstwo|n}}
 *: Upper Sorbian: {{t|hsb|wójwodstwo|n}}
 * Spanish: {{t+|es|ducado|m}}
-* Swedish: {{t+|sv|hertigdöme}}
+* Swedish: {{t+|sv|hertigdöme|n}}
 * Ukrainian: {{t|uk|ге́рцогство|n}}, {{t|uk|кня́зівство|n}}
 * Venetian: {{t+|vec|dogado|m}}
 * Welsh: {{t|cy|dugiaeth}}
 {{trans-bottom}}
+
+===See also===
+{{col4|en
+|barony
+|bishopric
+|county
+|march
+|margraviate
+|marquesate
+|marquessate
+|marquisate
+|parish
+|shire
+|viscountcy
+|viscounty
+}}
 
 ===Anagrams===
 * {{anagrams|en|a=cdhuy|Chudy}}
