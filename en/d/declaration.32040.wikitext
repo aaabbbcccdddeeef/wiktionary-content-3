@@ -42,12 +42,12 @@ From {{inh|en|enm|declaration}}, {{m|enm|declaracion}}, {{m|enm|declaracioun}}, 
 * Armenian: {{t+|hy|հայտարարություն}}
 * Asturian: {{t|ast|declaración|f}}
 * Azerbaijani: {{t+|az|bəyannamə}}
-* Belarusian: {{t|be|дэклара́цыя|f}}
+* Belarusian: {{t|be|дэклара́цыя|f}}, {{t|be|зая́ва|f}}
 * Bulgarian: {{t+|bg|заявление|n}}, {{t+|bg|декларация|f}}
 * Catalan: {{t+|ca|declaració|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|聲明}}, {{t+|cmn|声明|tr=shēngmíng}}
-* Czech: {{t+|cs|prohlášení|n}}
+* Czech: {{t+|cs|prohlášení|n}}, {{t|cs|vyhlášení|n}}
 * Danish: {{t|da|erklæring|c}}
 * Dutch: {{t+|nl|verklaring|f}}, {{t+|nl|declaratie|f}}
 * Esperanto: {{t|eo|deklaro}}, {{t|eo|deklaracio}}
@@ -58,21 +58,29 @@ From {{inh|en|enm|declaration}}, {{m|enm|declaracion}}, {{m|enm|declaracioun}}, 
 * Gothic: {{t|got|𐌹𐌽𐍃𐌰𐌷𐍄𐍃|f}}
 * Greek: {{t|el|κύρηξη}}, {{t|el|διακύρηξη}}
 * Hebrew: {{t|he|הצהרה|tr=hatzhara|f}}
+* Hungarian: {{t+|hu|nyilatkozat}}
 * Ido: {{t+|io|deklaro}}
 * Indonesian: {{t+|id|deklarasi}}
-{{trans-mid}}
 * Italian: {{t+|it|dichiarazione|f}}, {{t+|it|asserzione|f}}, {{t+|it|voto|m}}, {{t+|it|conferma|f}}, {{t+|it|enunciazione|f}}
+{{trans-mid}}
 * Japanese: {{t+|ja|宣言|tr=せんげん, sengen}}
 * Korean: {{t+|ko|선언}}
 * Latin: {{t|la|fatum|n}}
+* Macedonian: {{t|mk|изјава|f}}
 * Malay: {{t|ms|perisytiharan}}
 * Norwegian:
 *: Bokmål: {{t+|nb|erklæring|m|f}}, {{t+|nb|deklarasjon|m}}
 *: Nynorsk: {{t|nn|erklæring|f}}, {{t|nn|deklarasjon|m}}
+* Persian: {{t+|fa|اعلام|tr=e'lâm}}
 * Polish: {{t+|pl|deklaracja|f}}, {{t+|pl|oświadczenie}}
 * Portuguese: {{t+|pt|declaração|f}}
 * Romanian: {{t+|ro|declarație|f}}
 * Russian: {{t+|ru|заявле́ние|n}}, {{t+|ru|деклара́ция|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|и̏зјава|f}}
+*: Roman: {{t+|sh|ȉzjava|f}}
+* Slovak: {{t|sk|prehlásenie|n}}, {{t|sk|vyhlásenie|n}}
+* Slovene: {{t|sl|izjava|f}}
 * Spanish: {{t+|es|declaración|f}}
 * Swedish: {{t+|sv|tillkännagivande}}
 * Tatar: {{t|tt|декларация}}
@@ -86,20 +94,23 @@ From {{inh|en|enm|declaration}}, {{m|enm|declaracion}}, {{m|enm|declaracioun}}, 
 {{trans-top|list of items for various legal purposes}}
 * Armenian: {{t+|hy|հայտարարագիր}}
 * Azerbaijani: {{t+|az|bəyannamə}}
+* Belarusian: {{t|be|дэклара́цыя|f}}
 * Bulgarian: {{t+|bg|декларация|f}}
 * Catalan: {{t+|ca|declaració|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|報單}}, {{t+|cmn|报单|tr=bàodān}}
+* Czech: {{t+|cs|deklarace|f}}
 * Danish: {{t|da|deklaration|c}}
 * Finnish: {{t+|fi|selvitys}}
 * French: {{t+|fr|déclaration|f}}
 * German: {{t+|de|Erklärung|f}}, {{t+|de|Deklaration|f}}
 * Irish: {{t|ga|dearbhú|m}}
 * Italian: {{t+|it|elenco|m}}
-{{trans-mid}}
 * Kurdish:
 *: Central Kurdish: {{t|ckb|بەیان}}
+{{trans-mid}}
 * Latin: {{t|la|fatum|n}}
+* Macedonian: {{t|mk|декларација|f}}
 * Norwegian:
 *: Bokmål: {{t+|nb|deklarasjon|m}}
 *: Nynorsk: {{t|nn|deklarasjon|m}}
@@ -107,7 +118,9 @@ From {{inh|en|enm|declaration}}, {{m|enm|declaracion}}, {{m|enm|declaracioun}}, 
 * Portuguese: {{t+|pt|declaração|f}}
 * Romanian: {{t+|ro|declarație|f}}
 * Russian: {{t+|ru|деклара́ция|f}}
+* Slovak: {{t|sk|deklarácia|f}}
 * Turkish: {{t+|tr|beyanat}}, {{t+|tr|bildirge}}
+* Ukrainian: {{t|uk|деклара́ція|f}}
 {{trans-bottom}}
 
 {{trans-top|act or process of declaring}}
