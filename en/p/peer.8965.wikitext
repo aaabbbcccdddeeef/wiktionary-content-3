@@ -98,10 +98,10 @@ From {{inh|en|enm|pere}}, {{m|enm|per}}, from {{der|en|xno|peir}}, {{der|en|fro|
 
 =====Translations=====
 {{trans-top|someone or something of equal level}}
-* Bulgarian: {{t+|bg|равен|m}}, {{t+|bg|равностоен}}
+* Bulgarian: {{t+|bg|ра́вен|m}}, {{t+|bg|равносто́ен|m}}
 * Catalan: {{t+|ca|igual|m|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|同輩|sc=Hani}}, {{t+|cmn|同辈|tr=tóngbèi|sc=Hani}}, {{qualifier|age-mate}} {{t+|cmn|同齡人|sc=Hani}}, {{t+|cmn|同龄人|tr=tónglíngrén|sc=Hani}}
+*: Mandarin: {{t+|cmn|同輩}}, {{t+|cmn|同辈|tr=tóngbèi}}, {{qualifier|age-mate}} {{t+|cmn|同齡人}}, {{t+|cmn|同龄人|tr=tónglíngrén}}
 * Dutch: {{t+|nl|gelijke|m|f}}
 * Finnish: {{t+|fi|vertainen}}
 * French: {{t+|fr|pair|m}}, {{t+|fr|pareil|m}} ({{t+|fr|pareille|f}}), {{t+|fr|semblable}}
@@ -109,18 +109,20 @@ From {{inh|en|enm|pere}}, {{m|enm|per}}, from {{der|en|xno|peir}}, {{der|en|fro|
 * Hungarian: {{t+|hu|egyenrangú}}
 * Irish: {{t|ga|piara|m}}
 * Italian: {{t+|it|pari}}, {{t+|it|uguale}}, {{t|it|persona di pari condizione sociale}}
-* Japanese: {{t|ja|同輩|tr=どうはい, dōhai|sc=Jpan}}, {{t|ja|ピア|tr=pia|sc=Jpan}}, {{qualifier|age-mate}} {{t|ja|同年配の人|tr=どうねんぱいひと, dōnenpai no hito|sc=Jpan}}
+* Japanese: {{t|ja|同輩|tr=どうはい, dōhai}}, {{t|ja|ピア|tr=pia}}, {{qualifier|age-mate}} {{t|ja|[[同年配]]の[[人]]|tr=どうねんぱいひと, dōnenpai no hito}}
 * Maori: {{t|mi|aropā}}, {{t|mi|hoa aropā}}
-{{trans-mid}}
 * Middle English: {{t|enm|pere}}, {{t|enm|felawe}}
+{{trans-mid}}
 * Norwegian:
 *: Bokmål: {{t+|nb|jevnaldrende|m}} {{qualifier|age-mate, mostly used as an adjective}}
-* Persian: {{t+|fa|همتا|tr=hamtâ|sc=fa-Arab}}
+* Persian: {{t+|fa|همتا|tr=hamtâ}}
 * Polish: {{t+|pl|rówieśnik|m}} {{qualifier|age-mate male}}, {{t+|pl|rówieśniczka|f}} {{qualifier|age-mate female}}
 * Portuguese: {{t+|pt|par|m}}
 * Russian: {{t+|ru|ро́вня|m|f}}, {{qualifier|age-mate}} {{t+|ru|рове́сник|m}}, {{t+|ru|рове́сница|f}}, {{t+|ru|све́рстник|m}}, {{t+|ru|све́рстница|f}}
 * Scottish Gaelic: {{t|gd|leithid|f}}
-* Serbo-Croatian: {{t+|sh|vrsnik|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|вр̀снӣк|m}}
+*: Roman: {{t+|sh|vr̀snīk|m}}
 * Spanish: {{t+|es|par|m}}
 * Swedish: {{t+|sv|like|c}}, {{t+|sv|jämlike|c}}, {{t+|sv|gelike|c}}
 * Turkish: {{t+|tr|akran}}, {{t|tr|emsâl}}, {{t+|tr|taydaş}}, {{t+|tr|yaşıt}}
@@ -128,17 +130,19 @@ From {{inh|en|enm|pere}}, {{m|enm|per}}, from {{der|en|xno|peir}}, {{der|en|fro|
 {{trans-bottom}}
 
 {{trans-top|someone of same age}}
-* Bulgarian: {{t+|bg|връстник|m}}
+* Bulgarian: {{t+|bg|връстни́к|m}}
 * Danish: {{t|da|jævnaldrende}}
 * Finnish: {{t+|fi|ikätoveri}}
 * German: {{t|de|Gleichaltriger|m}}, {{t|de|Gleichaltrige|f}}
 * Hungarian: {{t+|hu|kortárs}}
 * Italian: {{t+|it|coetaneo|m}}
-{{trans-mid}}
 * Lushootseed: {{t|lut|ʔixʷəd}}
+{{trans-mid}}
 * Macedonian: {{t|mk|врсник|m}}
-* Russian: {{t+|ru|све́рстник|m}}, {{t+|ru|све́рстница|f}}
-* Serbo-Croatian: {{t+|sh|vršnjak|m}}, {{t+|sh|vršnjakinja|f}}
+* Russian: {{t+|ru|рове́сник|m}}, {{t+|ru|рове́сница|f}}, {{t+|ru|све́рстник|m}}, {{t+|ru|све́рстница|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|вр̀шња̄к|m}}, {{t|sh|вршња̀киња|f}}
+*: Roman: {{t+|sh|vr̀šnjāk|m}}, {{t+|sh|vršnjàkinja|f}}
 * Slovak: {{t|sk|rovesník|m}}, {{t|sk|rovesníčka|f}}
 {{trans-bottom}}
 
@@ -146,7 +150,7 @@ From {{inh|en|enm|pere}}, {{m|enm|per}}, from {{der|en|xno|peir}}, {{der|en|fro|
 * Bulgarian: {{t+|bg|пер|m}}
 * Catalan: {{t+|ca|par|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|貴族|sc=Hani}}, {{t+|cmn|贵族|tr=guìzú|sc=Hani}}
+*: Mandarin: {{t+|cmn|貴族}}, {{t+|cmn|贵族|tr=guìzú}}
 * Dutch: {{t+|nl|edelman|m}}, {{t+|nl|edele|m}}
 * Erzya: {{t|myv|мастачей}}
 * Finnish: {{t+|fi|pääri}}
@@ -157,10 +161,11 @@ From {{inh|en|enm|pere}}, {{m|enm|per}}, from {{der|en|xno|peir}}, {{der|en|fro|
 * Irish: {{t+|ga|tiarna|m}}, {{t|ga|bantiarna|f}}
 {{trans-mid}}
 * Italian: {{t+|it|pari}}, {{t+|it|nobile}}
-* Japanese: {{t+|ja|貴族|tr=きぞく, kizoku|sc=Jpan}}, {{t+|ja|華族|tr=かぞく, kazoku|sc=Jpan}}
+* Japanese: {{t+|ja|貴族|tr=きぞく, kizoku}}, {{t+|ja|華族|tr=かぞく, kazoku}}
+* Korean: {{t+|ko|귀족(貴族)}}
 * Latvian: {{t|lv|pērs|m}}
 * Middle English: {{t|enm|pere}}
-* Polish: {{t+|pl|par}}
+* Polish: {{t+|pl|par|m}}
 * Portuguese: {{t+|pt|par|m}}
 * Russian: {{t+|ru|пэр|m}} {{qualifier|UK}}, {{t+|ru|дворяни́н|m}}, {{t+|ru|дворя́нка|f}}
 * Spanish: {{t+|es|par|m}}, {{t+|es|noble|m}}
@@ -174,9 +179,11 @@ From {{inh|en|enm|pere}}, {{m|enm|per}}, from {{der|en|xno|peir}}, {{der|en|fro|
 * Hungarian: {{t+|hu|társ}}
 * Italian: {{t+|it|uguali|m-p}}
 * Middle English: {{t|enm|pere}}
-{{trans-mid}}
 * Polish: {{t+|pl|kolega|m}}, {{t+|pl|koleżanka|f}}
-* Serbo-Croatian: {{t+|sh|kolega|m}}, {{t+|sh|kolegica|f}}
+{{trans-mid}}
+* Russian: {{t+|ru|напа́рник|m}}, {{t+|ru|напа́рница|f}}, {{t+|ru|компаньо́н|m}}, {{t+|ru|колле́га|m|f}}, {{t+|ru|партнёр|m}}, {{t+|ru|партнёрша|f}}
+* Serbo-Croatian:
+*: Roman: {{t+|sh|kolega|m}}, {{t+|sh|kolegica|f}}
 * Tagalog: {{t|tl|kabarkada}}
 {{trans-bottom}}
 
