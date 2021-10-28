@@ -1,13 +1,13 @@
 {{also|collège}}
 ==English==
-{{wikipedia}}
+{{wp}}
 [[File:Stonyhurst college.jpg|right|thumb|[[w:Stonyhurst College|Stonyhurst College]], a private school in [[Lancashire]], [[England]]]]
 
 ===Alternative forms===
-* {{alter|en|colledg|colledge||obsolete}}
+* {{alt|en|colledg|colledge||obsolete}}
 
 ===Etymology===
-From {{inh|en|enm|college}}, from {{der|en|fro|college}}, from {{etyl|la|en}} {{m|la|collegium}}.
+From {{inh|en|enm|college}}, from {{der|en|fro|college}}, from {{etyl|la|en}} {{m|la|collēgium}}.
 
 ===Pronunciation===
 * {{a|UK}} {{IPA|en|/ˈkɒlɪd͡ʒ/}}
@@ -50,9 +50,15 @@ From {{inh|en|enm|college}}, from {{der|en|fro|college}}, from {{etyl|la|en}} {{
 * {{lb|en|specialized division of a university}} [[department]], [[faculty]], [[school]]
 
 ====Hyponyms====
-* {{l|en|community college}}
-* {{l|en|electoral college}}
-* {{l|en|junior college}}
+{{col4|en
+|community college
+|electoral college
+|junior college
+|residential college
+|senior college
+|technical college
+|university college
+}}
 
 ====Derived terms====
 * {{l|en|fresh-out-of-college}}
@@ -99,7 +105,7 @@ From {{inh|en|enm|college}}, from {{der|en|fro|college}}, from {{etyl|la|en}} {{
 * Chinese:
 *: Mandarin: {{t+|cmn|大學|sc=Hani}}, {{t+|cmn|大学|tr=dàxué|sc=Hani}}
 * Finnish: {{t+|fi|korkeakoulu}}, {{t+|fi|yliopisto}}
-* French: {{t+|fr|université|f}}, {{t+|fr|fac|f}}
+* French: {{t+|fr|université|f}}, {{t+|fr|fac|f}} {{q|short for [[faculté]]}}
 * German: {{t+|de|Fachhochschule|f}}
 * Greek: {{t+|el|κολέγιο|n}}
 * Hebrew: {{t+|he|מִכְלָלָה|f|tr=mikhlalá}}
@@ -169,7 +175,7 @@ From {{inh|en|enm|college}}, from {{der|en|fro|college}}, from {{etyl|la|en}} {{
 * Lithuanian: {{t|lt|koledžas|m}}
 * Macedonian: {{t|mk|институ́т|m}}
 {{trans-mid}}
-* Norman: {{t|nrf|collège|m}} {{qualifier|Jersey}}
+* Norman: {{t|nrf|collège|m}} {{q|Jersey}}
 * Persian: {{t+|fa|دانشکده|tr=dâneškade}}
 * Portuguese: {{t+|pt|setor|m}}
 * Romanian: {{t+|ro|facultate|f}}, {{t+|ro|institut|n}}
@@ -185,8 +191,8 @@ From {{inh|en|enm|college}}, from {{der|en|fro|college}}, from {{etyl|la|en}} {{
 *: Mandarin: {{t+|cmn|專科學校|sc=Hani}}, {{t+|cmn|专科学校|tr=zhuānkě xuéxiào|sc=Hani}}
 * Dutch: {{t+|nl|faculteit|f}}
 * Finnish: {{t+|fi|tiedekunta}}
-* French: {{t+|fr|faculté}}
-* Italian: {{t+|it|facoltà}}
+* French: {{t+|fr|faculté|f}}
+* Italian: {{t+|it|facoltà|f}}
 * Japanese: {{t|ja|学部|tr=がくぶ, gakubu|sc=Jpan}}, {{t+|ja|学科}}, {{t|ja|学類}}, {{t|ja|学群}}, {{t|ja|学術院}}, {{t|ja|学系}}
 * Macedonian: {{t|mk|факулте́т|m}}
 {{trans-mid}}
@@ -261,7 +267,7 @@ From {{inh|en|enm|college}}, from {{der|en|fro|college}}, from {{etyl|la|en}} {{
 * German: {{t|de|Berufskolleg|n}}, {{t+|de|Fachschule|f}}
 * Japanese: {{t+|ja|大学|tr=だいがく, daigaku|sc=Jpan}}
 * Lithuanian: {{t|lt|koledžas|m}}
-* Norman: {{t|nrf|collège|m}} {{qualifier|Jersey}}
+* Norman: {{t|nrf|collège|m}} {{q|Jersey}}
 {{trans-mid}}
 * Persian: {{t+|fa|آموزشگاه|tr=âmuzešgâh}}
 * Portuguese: {{t+|pt|faculdade|f}}
@@ -316,9 +322,9 @@ From {{inh|nl|dum|college}}, from {{der|nl|frm|college}}, from {{der|nl|la|coll�
 ===Noun===
 {{nl-noun|n|-s|collegetje}}
 
-# a [[collegial]] board, either advisory ([[committee]]) or as an [[authority]]
-# a [[secondary school]], a [[high school]], {{lb|nl|now|Belgium}} especially in [[Roman Catholic]] education
-# academical [[lecture]], [[class]]
+# A [[collegial]] board, either advisory ([[committee]]) or as an [[authority]].
+# A [[secondary school]], a [[high school]], {{lb|nl|now|Belgium}} especially in [[Roman Catholic]] education.
+# An academic [[lecture]], [[class]].
 
 ====Derived terms====
 * {{l|nl|collegejaar}}
@@ -346,8 +352,8 @@ From {{bor|fi|en|college}}. The "sweatshirt" sense is a [[pseudo-anglicism]] and
 ===Noun===
 {{fi-noun}}
 
-# [[sweatshirt]] {{gloss|especially one with text referring to a certain college}}
-# [[#English|college]] {{gloss|learning institution}}
+# [[sweatshirt]] (especially one with text referring to a certain college)
+# {{l|en|college}} (an institution of higher education)
 
 ====Declension====
 This table shows the spoken declension with IPA symbols, which falls nicely into ''risti'' -class.
@@ -381,11 +387,11 @@ This table shows the spoken declension with IPA symbols, which falls nicely into
 -->|com_pl=/ˈko̞lidse̞ine̞ːn/<!--
 -->}}
 
-Written declension is more complicated due to the difficulty of combining "college" with ''risti''-type endings. Therefore, it might be advisable to avoid inflecting this word in writing by using synonyms, when available. If one has to, one option is to write as if the pronunciation were finnicized to /ˈko̞lːe̞ge̞/, in which case the word would fall into ''nalle''-category with the exception that ''collegeiden'' seems to be more commonly used as genitive plural than ''collegejen'' and ''collegein'' is not used as genitive plural:
+Written declension is more complicated due to the difficulty of combining "college" with ''risti''-type endings. Therefore, it might be advisable to avoid inflecting this word in writing by using synonyms, when available. If one has to, one option is to write as if the pronunciation were [[Fennicize|Fennicize / Finnicize]]d to /ˈko̞lːe̞ge̞/, in which case the word would fall into ''nalle''-category with the exception that ''collegeiden'' seems to be more commonly used as genitive plural than ''collegejen'' and ''collegein'' is not used as genitive plural:
 {{fi-decl-nalle|colleg|||a}}
 
 ====Synonyms====
-* {{sense|sweatshirt}} {{l|fi|collegepusero}}
+* {{s|sweatshirt}} {{l|fi|collegepusero}}
 
 [[Category:Finnish pseudo-anglicisms]]
 
@@ -394,10 +400,10 @@ Written declension is more complicated due to the difficulty of combining "colle
 ==Middle English==
 
 ===Alternative forms===
-* {{alter|enm|colegg|colege|collage|colage|colegie}}
+* {{alt|enm|colegg|colege|collage|colage|colegie}}
 
 ===Etymology===
-From {{bor|enm|fro|college}}, from {{der|enm|la|collegium}}.
+From {{bor|enm|fro|college}}, from {{der|enm|la|collēgium}}.
 
 ===Pronunciation===
 * {{IPA|enm|/kɔlˈɛːdʒ(ə)/|/kɔlˈaːdʒ(ə)/|/ˈkɔlɛdʒ(ə)/}}
@@ -405,9 +411,9 @@ From {{bor|enm|fro|college}}, from {{der|enm|la|collegium}}.
 ===Noun===
 {{enm-noun|collegis}}
 
-# A grouping of clergy (usually relying on public funding).
+# A [[grouping]] of [[clergymen]] (usually relying on public funding).
 # A grouping of [[teachers]] and [[students]]; a [[university]] or part of one.
-# A grouping of [[colleagues]]; a team or [[organisation]].
+# A grouping of [[colleagues]]; a [[team]] or [[organisation]].
 
 ====Related terms====
 * {{l|enm|collegial}}
@@ -430,12 +436,12 @@ From {{bor|enm|fro|college}}, from {{der|enm|la|collegium}}.
 ==Old French==
 
 ===Etymology===
-Borrowed from {{bor|fro|la|collegium}}.
+From {{bor|fro|la|collēgium}}.
 
 ===Noun===
 {{fro-noun|m}}
 
-# [[institution]]; [[organization]] (establishment of people with similar aims/goals)
+# [[institution]]; [[organization]] (an establishment of people with similar aims/goals)
 #: [https://en.wikipedia.org/wiki/College_of_Cardinals {{ux|fro|'''college''' des Cardinaux|t=College of Cardinals|inline=1}}]
 
 ====Descendants====
