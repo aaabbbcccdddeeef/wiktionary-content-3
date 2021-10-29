@@ -18,20 +18,16 @@ From {{bor|en|la|vacuum||an empty space, void}}, noun use of neuter of {{m|la|va
 {{en-noun|s|vacua|pl2qual=rare}}
 
 # A [[region]] of [[space]] that contains no [[matter]].
+#: {{syn|en|vacancy|void}}
+#: {{ant|en|plenum}}
 # {{lb|en|plural only "vacuums"}} A [[vacuum cleaner]].
+#: {{syn|en|hoover|q1=British}}
 # The condition of [[rarefaction]], or reduction of pressure below that of the atmosphere, in a vessel, such as the [[condenser]] of a [[steam engine]], which is nearly exhausted of air or steam, etc.
-#: ''a '''vacuum''' of 26 inches of mercury, or 13 pounds per square inch''
-# {{lb|en|physics}} A [[spacetime]] having [[tensor]]s of [[zero]] magnitude
+#: {{ux|en|a '''vacuum''' of 26 inches of mercury, or 13 pounds per square inch}}
+# {{lb|en|physics}} A [[spacetime]] having [[tensor]]s of [[zero]] magnitude.
 
 ====Usage notes====
 * The Latin ''[[in vacuo]]'' is sometimes used instead of ''in a vacuum'' (in free space).
-
-====Synonyms====
-* {{sense|a region of space that contains no matter}} {{l|en|vacancy}}, {{l|en|void}}
-* {{sense|vacuum cleaner}} {{l|en|hoover}} (''British'')
-
-====Antonyms====
-* {{sense|region of space that contains no matter}} {{l|en|plenum}}
 
 ====Derived terms====
 {{der4|en|double Kerr vacuum
@@ -147,13 +143,11 @@ From {{bor|en|la|vacuum||an empty space, void}}, noun use of neuter of {{m|la|va
 {{en-verb}}
 
 # {{lb|en|transitive}} To clean (something) with a [[vacuum cleaner]].
+#: {{syn|en|hoover|q1=British}}
 #* {{quote-text|en|year=2016|author=Janice M. Whiteaker|title=Run|passage=“Who in the world cleans an attic? That's like '''vacuuming''' a shed.”}}
 # {{lb|en|intransitive}} To use a [[vacuum cleaner]].
+#: {{syn|en|to do the [[hoovering]]|to [[hoover]]|q1=British|q2=British}}
 # {{lb|en|transitive|databases}} To optimise a database or database [[table]] by physically removing deleted [[tuple]]s.
-
-====Synonyms====
-* {{sense|transitive sense}} to [[hoover]] {{qualifier|British}}
-* {{sense|intransitive sense}} to do the [[hoovering]], to [[hoover]] {{qualifier|British}}
 
 ====Translations====
 {{trans-top|transitive: to clean with a vacuum cleaner}}
