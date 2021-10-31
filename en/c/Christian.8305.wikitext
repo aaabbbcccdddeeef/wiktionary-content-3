@@ -64,10 +64,10 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Chechen: {{t|ce| Керста}}
 * Cheyenne: {{t|chy|E'óoestaáhe}}
 * Chinese:
-*: Mandarin: {{t+|cmn|基督徒|tr=jīdūtú|sc=Hani}}, {{t+|cmn|基督教徒|tr=jīdūjiàotú|sc=Hani}}
+*: Mandarin: {{t+|cmn|基督徒|tr=jīdūtú}}, {{t+|cmn|基督教徒|tr=jīdūjiàotú}}
 * Cornish: {{t|kw|Kristyon|m}}, {{t|kw|Kristones|f}}
 * Czech: {{t+|cs|křesťan|m}}, {{t+|cs|křesťanka|f}}
-* Danish: {{t|da|kristen}}
+* Danish: {{t|da|kristen|c}}
 * Dutch: {{t+|nl|christen|m}}, {{t+|nl|christin|f}}
 * Esperanto: {{t|eo|kristano}}
 * Estonian: {{t|et|kristlane}}
@@ -107,7 +107,7 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Marshallese: {{t|mh|Kūrjin}}
 * Middle Dutch: {{t|dum|kersten|m}}
 * Mongolian:
-*: Cyrillic: {{t|mn|христосын шажинтан|sc=Cyrl}}
+*: Cyrillic: {{t|mn|христосын шажинтан}}
 * Ngazidja Comorian: {{t|zdj|mnaswara|c1|c2}}
 * Norman: {{t|nrf|Chrêtchien}}
 * Norwegian:
@@ -126,7 +126,7 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Sardinian: {{t|sc|criltianu}}, {{t|sc|cristianu}}
 * Scottish Gaelic: {{t|gd|Crìosdaidh|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|хришћанин|m|sc=Cyrl}}, {{t|sh|хришћанка|f|sc=Cyrl}}, {{t|sh|кршћанин|m|sc=Cyrl}}, {{t|sh|кршћанка|f|sc=Cyrl}}
+*: Cyrillic: {{t|sh|хришћанин|m}}, {{t|sh|хришћанка|f}}, {{t|sh|кршћанин|m}}, {{t|sh|кршћанка|f}}
 *: Roman: {{t+|sh|hrišćanin|m}}, {{t|sh|hrišćanka|f}}, {{t+|sh|kršćanin|m}}, {{t+|sh|kršćanka|f}}
 * Sicilian: {{t+|scn|cristianu|m}}, {{t|scn|cristiana|f}}
 * Slovak: {{t|sk|kresťan|m}}, {{t|sk|kresťanka|f}}
@@ -135,11 +135,11 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Swahili: {{t|sw|Mkristo}}
 * Swedish: {{t+|sv|kristen|c}}
 * Tagalog: {{t|tl|Kristyano}}, {{t|tl|makakristo}}, {{t|tl|binyagan}}
-* Tajik: {{t|tg|насронӣ|sc=Cyrl}}, {{t|tg|исавӣ|sc=Cyrl}}, {{t|tg|масеҳӣ}}
+* Tajik: {{t|tg|насронӣ}}, {{t|tg|исавӣ}}, {{t|tg|масеҳӣ}}
 * Telugu: {{t+|te|క్రైస్తవుడు}}
 * Thai: {{t+|th|คริสเตียน}}, {{t+|th|คริสต์ศาสนิกชน|tr=krít săa-sà-ník-gà-chon}}
 * Turkish: {{t+|tr|Hristiyan}}
-* Turkmen: {{t|tk|Hristian}}, {{t|tk|hristian}}, {{t|tk|mesihi}}
+* Turkmen: {{t|tk|hristian}}, {{t|tk|mesihi}}
 * Ukrainian: {{t|uk|христия́нин|m}}, {{t|uk|християни́н|m}}, {{t|uk|христия́нка|f}}
 * Urdu: {{t|ur|عیسائی|tr=īsā'ī}}, {{t|ur|مسیحی|tr=masīhī}}, {{t|ur|کرشچین|tr=kariściyan}}
 * Uzbek: {{t+|uz|xristian}}
@@ -166,7 +166,7 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 
 ====Translations====
 {{trans-top|male given name}}
-* Bulgarian: {{t|bg|Кристиан|m}}, {{t|bg|Христо|m}}
+* Bulgarian: {{t|bg|Кристиа́н|m}}, {{t|bg|Хри́сто|m}}
 * Czech: {{t+|cs|Kristián}}
 * Danish: {{t|da|Christian}}
 * Dutch: {{t+|nl|Christiaan}}
@@ -263,7 +263,7 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Galician: {{t+|gl|cristián}}
 * Georgian: {{t|ka|ქრისტიანული}}
 * German: {{t+|de|christlich}}
-* Greek: {{t+|el|χριστιανικός|m}}
+* Greek: {{t+|el|χριστιανικός}}
 * Hebrew: {{t+|he|נוֹצְרִי|m|tr=notsrí}}, {{t|he|נוֹצְרִית|f|tr=notsrít}}
 * Hindi: {{t+|hi|ईसाई}}, {{t|hi|क्रिश्चियन}}, {{t+|hi|मसीही}}
 * Hungarian: {{t+|hu|keresztény}}
