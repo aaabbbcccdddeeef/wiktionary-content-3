@@ -32,9 +32,9 @@ A distinction is often made between {{m|en|Serbian||a person from Serbia}} and {
 * Bulgarian: {{t+|bg|съ́рбин|m}}, {{t|bg|сръбки́ня|f}}
 * Catalan: {{t+|ca|serbi|m}}, {{t+|ca|sèrbia|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|塞爾維亞人}}, {{t+|cmn|塞尔维亚人|tr=sài'ěrwéiyàyǔ, sài'ěrwéiyǎyǔ}}
+*: Mandarin: {{t+|cmn|塞爾維亞人}}, {{t+|cmn|塞尔维亚人|tr=sài'ěrwéiyàrén}}
 * Czech: {{t+|cs|Srb|m}}, {{t+|cs|Srbka|f}}
-* Danish: {{t|da|serber}}
+* Danish: {{t|da|serber|c}}
 * Dutch: {{t+|nl|Serviër|m}}, {{t+|nl|Servische|f}}
 * Esperanto: {{t|eo|serbo}} (1), {{t|eo|serbiano}} (2)
 * Estonian: {{t|et|serblane}}
@@ -44,16 +44,16 @@ A distinction is often made between {{m|en|Serbian||a person from Serbia}} and {
 * Galician: {{t+|gl|serbio|m}}, {{t|gl|serbia|f}}
 * German: {{t+|de|Serbe|m}}, {{t+|de|Serbin|f}}
 * Greek: {{t+|el|Σέρβος|m}}, {{t+|el|Σέρβα|f}}
-* Hebrew: {{t|he|סרבי|m|tr=servi|sc=Hebr}}, {{t|he|סרבית|f|tr=servít|sc=Hebr}}
-* Hindi: {{t|hi|सर्ब|sc=Deva}}
+* Hebrew: {{t|he|סרבי|m|tr=servi}}, {{t|he|סרבית|f|tr=servít}}
+* Hindi: {{t|hi|सर्ब}}
 * Hungarian: {{t+|hu|szerb}}
 * Icelandic: {{t|is|Serbi|m}}
 * Interlingua: {{t|ia|serbo}}
 * Irish: {{t|ga|Seirbiach|m}}
 * Italian: {{t+|it|serbo|m}}, {{t+|it|serba|f}}
-* Japanese: {{t|ja|セルビア人|tr=serubiajin}}
+* Japanese: {{t|ja|セルビア人|tr=セルビアじん, serubiajin}}
 * Kazakh: {{t|kk|серб}}
-* Korean: {{t|ko|^[[세르비아]] [[사람]]}}
+* Korean: {{t|ko|[[세르비아]] [[사람]]}}
 {{trans-mid}}
 * Kurdish:
 *: Central Kurdish: {{t|ckb|سربی}}
@@ -65,25 +65,25 @@ A distinction is often made between {{m|en|Serbian||a person from Serbia}} and {
 * Manx: {{t|gv|Serbagh|m}}
 * Mongolian:
 *: Cyrillic: {{t|mn|серб}}
-*: Uyghurjin: {{t|mn|ᠰᠡᠷᠪᠢ}}
+*: Mongolian: {{t|mn|ᠰᠡᠷᠪᠢ}}
 * Norwegian:
 *: Bokmål: {{t|nb|serber|m}}
 *: Nynorsk: {{t+|nn|serbar|m}}
-* Persian: {{t|fa|صربی|tr=serbi|sc=fa-Arab}}, {{t+|fa|صربستانی|tr=serbistâni|sc=fa-Arab}}
+* Persian: {{t|fa|صربی|tr=serbi}}, {{t+|fa|صربستانی|tr=serbistâni}}
 * Polish: {{t+|pl|Serb|m}}, {{t+|pl|Serbka|f}}
 * Portuguese: {{t+|pt|sérvio|m}}
 * Romanian: {{t+|ro|sârb|m}}, {{t+|ro|sârbă|f}}, {{t+|ro|sârboaică|f}}
 * Russian: {{t+|ru|серб|m}}, {{t+|ru|се́рбка|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|Ср̏бин|m|sc=Cyrl}}, {{t|sh|Ср̏пкиња|f|sc=Cyrl}}
+*: Cyrillic: {{t|sh|Ср̏бин|m}}, {{t|sh|Ср̏пкиња|f}}
 *: Roman: {{t+|sh|Sȑbin|m}}, {{t|sh|Sȑpkinja|f}}
 * Slovak: {{t|sk|Srb|m}}, {{t|sk|Srbka|f}}
 * Slovene: {{t+|sl|Sŕb|m}}, {{t|sl|Sŕbkinja|f}}
 * Spanish: {{t+|es|serbio|m}}, {{t+|es|serbio|m}}, {{t+|es|serbia|f}}
-* Swedish: {{t+|sv|serb|m}}, {{t+|sv|serbiska|f}}
+* Swedish: {{t+|sv|serb|c}}, {{t+|sv|serbiska|c}} {{q|female}}
 * Tagalog: {{t|tl|Serbyo}}
 * Turkish: {{t+|tr|Sırp}}, {{t|tr|Sırbistanlı}}
-* Ukrainian: {{t|uk|серб|m|sc=Cyrl}}, {{t|uk|се́рбка|f|sc=Cyrl}}, {{t|uk|се́рбин|m}}
+* Ukrainian: {{t|uk|серб|m}}, {{t|uk|се́рбка|f}}, {{t|uk|се́рбин|m}}
 * Uyghur: {{t|ug|سېرب}}
 * Uzbek: {{t+|uz|serb}}
 * Vietnamese: {{t|vi|người [[Xéc-bi]]}}
@@ -92,7 +92,7 @@ A distinction is often made between {{m|en|Serbian||a person from Serbia}} and {
 {{trans-see|Serb}}
 
 {{trans-top|the standardized variety of Serbo-Croatian}}
-* Albanian: {{t+|sq|serbisht}}, {{t+|sq|serbishte}}, {{t+|sq|gjuha serbe}} 
+* Albanian: {{t+|sq|[[gjuha]] [[serb|serbe]]|f}} 
 * Arabic: {{t|ar|الصِرْبِيَّة|f}}
 * Armenian: {{t|hy|սերբերեն}}
 * Asturian: {{t|ast|serbu|m}}
@@ -114,14 +114,14 @@ A distinction is often made between {{m|en|Serbian||a person from Serbia}} and {
 * Georgian: {{t|ka|სერბული}}
 * German: {{t+|de|Serbisch|n}}
 * Greek: {{t+|el|σερβικά}}
-* Hebrew: {{t|he|סרבית|f|tr=serbít|sc=Hebr}}
-* Hindi: {{t|hi|सर्बी|sc=Deva}}, {{t|hi|सर्बियाई|sc=Deva}}, {{t|hi|सर्बियन|sc=Deva}}
+* Hebrew: {{t|he|סרבית|f|tr=serbít}}
+* Hindi: {{t|hi|सर्बी}}, {{t|hi|सर्बियाई}}, {{t|hi|सर्बियन}}
 * Hungarian: {{t+|hu|szerb}}
 * Icelandic: {{t+|is|serbneska|f}}
 * Interlingua: {{t|ia|serbo}}
 * Irish: {{t|ga|Seirbis|f}}
 * Italian: {{t+|it|serbo}}
-* Japanese: {{t+|ja|セルビア語|tr=serubiago}}
+* Japanese: {{t+|ja|セルビア語|tr=セルビアご, serubiago}}
 * Korean: {{t+|ko|세르비아어}}
 * Kurdish:
 *: Central Kurdish: {{t|ckb|سربی}}
@@ -137,7 +137,7 @@ A distinction is often made between {{m|en|Serbian||a person from Serbia}} and {
 * Norwegian:
 *: Bokmål: {{t+|nb|serbisk|m}}
 *: Nynorsk: {{t+|nn|serbisk|m}}
-* Persian: {{t|fa|صربی|tr=sarbi|sc=fa-Arab}}
+* Persian: {{t|fa|صربی|tr=sarbi}}
 * Polish: {{t+|pl|serbski|m}}
 * Portuguese: {{t+|pt|sérvio|m}}
 * Romanian: {{t+|ro|sârbă|f}}
@@ -145,8 +145,8 @@ A distinction is often made between {{m|en|Serbian||a person from Serbia}} and {
 * Scots: {{t|sco|Serbie}}
 * Scottish Gaelic: {{t|gd|Sèarbais|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|српски|m|sc=Cyrl}}
-*: Roman: {{t+|sh|srpski|m|sc=Latn}}
+*: Cyrillic: {{t|sh|ср̏пскӣ|m}}
+*: Roman: {{t+|sh|sȑpskī|m}}
 * Sindhi: {{t|sd|سربي|alt=سَربِي|tr=sarbī}}
 * Slovak: {{t+|sk|srbčina|f}}
 * Slovene: {{t+|sl|sŕbščina|f}}
@@ -161,7 +161,7 @@ A distinction is often made between {{m|en|Serbian||a person from Serbia}} and {
 *: Cyrillic: {{t|tk|сербче}}
 *: Roman: {{t|tk|serbçe}}
 * Ukrainian: {{t|uk|[[сербський|се́рбська]] [[мо́ва]]|f}}, {{t+|uk|се́рбська|f}}
-* Urdu: {{t|ur|صربی|tr=sarbī|sc=ur-Arab}}
+* Urdu: {{t|ur|صربی|tr=sarbī}}
 * Uyghur: {{t|ug|سېرپچە}}
 * Uzbek:
 *: Cyrillic: {{t|uz|сербча}}
