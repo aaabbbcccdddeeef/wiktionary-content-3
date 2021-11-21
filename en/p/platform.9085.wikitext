@@ -19,7 +19,9 @@ From {{der|en|frm|plateforme||a [[flat]] [[form]]}}, from {{m|frm|plate||flat}} 
 #: {{syn|en|dais|podium|q2=speeches}}
 #* {{RQ:Maxwell Mirror and the Lamp|chapter=13|passage=“{{...}}&nbsp;They talk of you as if you were Croesus—and I expect the beggars sponge on you unconscionably.” And Vickers launched forth into a tirade very different from his '''platform''' utterances. He spoke with extreme contempt of the dense stupidity exhibited on all occasions by the working classes.}}
 # A raised floor for any purpose, e.g. for workmen during construction, or formerly for military cannon.
-# {{lb|en|figurative}} A place or an opportunity to express one's opinion; a [[tribune]].
+#: {{hypo|en|oil platform}}
+# {{lb|en|figurative}} A place or an opportunity to express one's opinion.
+#: {{syn|en|tribune}}
 #: {{ux|en|This new talk show will give a '''platform''' to everyday men and women.}}
 # {{lb|en|footwear}} {{ellipsis of|en|platform shoe}}: a kind of high [[shoe]] with an extra layer between the inner and outer soles.
 # {{lb|en|figurative}} Something that allows an enterprise to advance.
@@ -28,13 +30,15 @@ From {{der|en|frm|plateforme||a [[flat]] [[form]]}}, from {{m|frm|plate||flat}} 
 # {{lb|en|automobiles}} A set of [[component]]s [[share]]d by several [[vehicle]] models.
 # {{lb|en|computing}} A computer system used to deliver services to clients.
 #: {{syn|en|solution}}
+#: {{hypo|en|microservices platform}}
 # {{lb|en|computing}} A particular type of [[operating system]] or [[environment]] such as a [[database]] or other specific [[software]], and/or a particular type of [[computer]] or [[microprocessor]], used to describe a particular [[environment]] for running other software, or for defining a specific software or hardware environment for discussion purposes.
 #: {{ux|en|That program runs on the X Window System '''platform'''.}}
 #* {{quote-journal|en|date=2013-06-01|volume=407|issue=8838|page=71|magazine={{w|The Economist}}|title=End of the peer show|url=http://www.economist.com/news/finance-and-economics/21578670-peer-peer-lending-needs-new-name-end-peer-show |passage=Finance is seldom romantic. But the idea of peer-to-peer lending comes close. This is an industry that brings together individual savers and lenders on online '''platforms'''. Those that want to borrow are matched with those that want to lend.}}
 # {{senseid|en|geology}}{{lb|en|geology}} A flat [[expanse]] of [[rock]], often the result of [[wave]] [[erosion]].
 # {{lb|en|nautical}} A light [[deck]], usually placed in a section of the [[hold]] or over the floor of the [[magazine]].
 # {{lb|en|politics}} A political [[stance]] on a broad set of issues, which are called [[plank]]s.
-# {{lb|en|travel}} A raised [[structure]] from which [[passenger]]s can [[enter]] or leave a train, metro etc.
+# {{lb|en|railway}} A raised [[structure]] from which [[passenger]]s can [[enter]] or leave a train, metro etc.
+#: {{hypo|en|island platform}}
 #* {{RQ:Churchill Celebrity|chapter=5|passage=We expressed our readiness, and in ten minutes were in the station wagon, rolling rapidly down the long drive, for it was then after nine.{{...}}As we reached the lodge we heard the whistle, and we backed up against one side of the '''platform''' as the train pulled up at the other.}}
 #* {{quote-journal|en|title=Ideas coming down the track|date=2013-06-01|volume=407|issue=8838|page=13 (Technology Quarterly)|magazine={{w|The Economist}}|url=http://www.economist.com/news/technology-quarterly/21578516-transport-new-train-technologies-are-less-visible-and-spread-less-quickly
 |passage=A “moving '''platform'''” scheme{{...}}is more technologically ambitious than maglev trains even though it relies on conventional rails. {{...}} Stopping high-speed trains wastes energy and time, so why not simply slow them down enough for a moving '''platform''' to pull alongside?}}
@@ -44,9 +48,6 @@ From {{der|en|frm|plateforme||a [[flat]] [[form]]}}, from {{m|frm|plate||flat}} 
 ====Hyponyms====
 {{col4
 |en|container platform
-|island platform
-|microservices platform
-|oil platform
 |work platform
 }}
 
