@@ -2,7 +2,7 @@
 ==English==
 
 ===Etymology===
-From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Christianus}}, from {{der|en|grc|Χριστιανός}}, from {{m|grc|Χριστός||Christ, anointed one}} + {{der|en|la|-}} suffix {{m|la|-anus}}. The older form is {{m|en|Christen}}. {{doublet|en|cretin}}.
+From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Chrīstiānus}}, from {{der|en|grc|Χρῑστιᾱνός}}, from {{m|grc|Χρῑστός||Christ, anointed [one]}} + {{der|en|la|-}} suffix {{m|la|-ānus}}. The older form is {{m|en|Christen}}. {{doublet|en|cretin}}.
 
 ===Pronunciation===
 * {{IPA|en|/ˈkɹɪʃtʃən/|/ˈkɹɪstjən/|/ˈkɹɪstʃən/}}
@@ -34,12 +34,30 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * {{l|en|religionist}}, {{l|en|theist}}, {{l|en|monotheist}}, {{l|en|Abrahamist}}, {{l|en|People of the Book}}
 
 ====Hyponyms====
-* {{l|en|Christianess}}
-* {{l|en|Christianist}}
-* {{l|en|Catholic}}
-* {{l|en|Orthodox}}
-* {{l|en|Anglican}}
-* {{l|en|Protestant}}
+{{col4|en
+|Adventist
+|Amish
+|Amish man
+|Amish woman
+|Anglican
+|Armstrongite
+|Baptist
+|Campbellite
+|Catholic
+|Christianess
+|Christianist
+|Episcopalian
+|Hussite
+|Hutterite
+|Jehovah's Witness
+|Lutheran
+|Mennonite
+|Orthodox
+|Presbyterian
+|Protestant
+|Waldensian
+|Witness
+}}
 
 ====Coordinate terms====
 * {{list:religionists/en}}
@@ -69,7 +87,7 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Czech: {{t+|cs|křesťan|m}}, {{t+|cs|křesťanka|f}}
 * Danish: {{t|da|kristen|c}}
 * Dutch: {{t+|nl|christen|m}}, {{t+|nl|christin|f}}
-* Esperanto: {{t|eo|kristano}}
+* Esperanto: {{t|eo|kristano}}, {t|eo|kristanino}} {{q|female}}
 * Estonian: {{t|et|kristlane}}
 * Finnish: {{t+|fi|kristitty}}
 * French: {{t+|fr|chrétien|m}}, {{t+|fr|chrétienne|f}}
@@ -95,7 +113,7 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 *: Northern Kurdish: {{t|kmr|xirîstî}}, {{t+|kmr|file}}
 * Kyrgyz: {{t|ky|христианин}}, {{t+|ky|христиан}}
 {{trans-mid}}
-* Latin: {{t+|la|Christianus|m}}, {{t|la|Christiana|f}}
+* Latin: {{t+|la|Chrīstiānus|m}}, {{t|la|Chrīstiāna|f}}
 * Latvian: {{t|lv|kristietis|m}}
 * Lithuanian: {{t|lt|krikščionis|m}}, {{t|lt|krikščionė|f}}
 * Ma'anyan: {{t|mhy|Karistén}}
@@ -109,19 +127,20 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Mongolian:
 *: Cyrillic: {{t|mn|христосын шажинтан}}
 * Ngazidja Comorian: {{t|zdj|mnaswara|c1|c2}}
-* Norman: {{t|nrf|Chrêtchien}}
+* Norman: {{t|nrf|Chrêtchien|m}}, {{t|nrf|Chrêtchienne|f}}
 * Norwegian:
 *: Bokmål: {{t+|nb|kristen|m}}
-* Occitan: {{t+|oc|crestian}}
-* Old English: {{t|ang|cristen}}
-* Old Occitan: {{t|pro|Cristian}}
+*: Nynorsk: {{t|nn|kristen|m}}
+* Occitan: {{t+|oc|crestian|m}}
+* Old English: {{t|ang|cristen|m}}
+* Old Occitan: {{t|pro|Cristian|m}}
 * Old Portuguese: {{t|roa-opt|crischão|m}}
 * Pashto: {{t|ps|مسيحي|m|tr=masihí}}, {{t|ps|نصراني|m|tr=nasrāní}}
 * Persian: {{t+|fa|مسیحی|tr=masihi}}, {{t+|fa|ترسا|tr=tarsâ}}
 *: Middle Persian: {{t|pal|kristiyān}}, {{t|pal|tarsāg}}
 * Polish: {{t+|pl|chrześcijanin|m}}, {{t+|pl|chrześcijanka|f}}
 * Portuguese: {{t+|pt|cristão|m}}, {{t+|pt|cristã|f}}
-* Romanian: {{t+|ro|creștin|m}}, {{t+|ro|creștin|alt=creștină|f}}
+* Romanian: {{t+|ro|creștin|m}}, {{t+|ro|creștină|f}}
 * Russian: {{t+|ru|христиани́н|m}}, {{t+|ru|христиа́нка|f}}
 * Sardinian: {{t|sc|criltianu}}, {{t|sc|cristianu}}
 * Scottish Gaelic: {{t|gd|Crìosdaidh|m}}
@@ -146,8 +165,8 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Uzbek: {{t+|uz|xristian}}
 * Venetian: {{t|vec|cristian|m}}, {{t|vec|crestian|m}}, {{t|vec|cristcian|m}}
 * Vietnamese: {{t|vi|người theo đạo Cơ đốc}}
-* Volapük: {{t+|vo|kritan|m|f}}, {{t|vo|hikritan|m}}, {{t+|vo|jikritan|f}}
-* Walloon: {{t+|wa|crustin}}
+* Volapük: {{t+|vo|kritan}}, {{t|vo|hikritan}} {{q|male}}, {{t+|vo|jikritan}} {{q|female}}
+* Walloon: {{t+|wa|crustin|m}}
 * Welsh: {{t+|cy|Cristion|m}}
 * Yiddish: {{t|yi|קריסט|m}}
 {{trans-bottom}}
@@ -163,44 +182,46 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * {{l|en|Christian County}}
 
 ====Related terms====
-* ''feminine forms:'' [[Christiana]], [[Christina]], [[Christine]]
+* {{s|feminine forms}} [[Christiana]], [[Christina]], [[Christine]]
 
 ====Translations====
 {{trans-top|male given name}}
 * Bulgarian: {{t|bg|Кристиа́н|m}}, {{t|bg|Хри́сто|m}}
 * Czech: {{t+|cs|Kristián}}
-* Danish: {{t|da|Christian}}
-* Dutch: {{t+|nl|Christiaan}}
+* Danish: {{t|da|Christian|c}}
+* Dutch: {{t+|nl|Christiaan|m}}
 * Estonian: {{t|et|Kristjan}}
 * Finnish: {{t+|fi|Kristian}}, {{t+|fi|Risto}}
-* French: {{t+|fr|Christian}}
-* German: {{t+|de|Christian}}
+* French: {{t+|fr|Christian|m}}
+* German: {{t+|de|Christian|m}}
 * Greek: {{t+|el|Χριστιανός|m}}
 * Greenlandic: {{t|kl|Kajistiaat}}
 * Hebrew: {{t|he|כְּרִיסְטִיַאן|tr=krístiyan}}
 * Hungarian: {{t+|hu|Krisztián}}, {{t+|hu|Keresztély}}
-* Icelandic: {{t+|is|Kristján}}
+* Icelandic: {{t+|is|Kristján|m}}
 * Italian: {{t+|it|Cristiano|m}}
 {{trans-mid}}
-* Latin: {{t+|la|Chrīstiānus}}
-* Latin: {{t+|la|Chrīstiānus}}
+* Latin: {{t+|la|Chrīstiānus|m}}
 * Latvian: {{t|lv|Krišjānis|m}}, {{t|lv|Kristiāns|m}}
 * Low German: {{t|nds|Krischan|m}}
 * Macedonian: {{t|mk|Кри́стијан|m}}, {{t|mk|Хри́стијан|m}}
-* Norwegian: {{t+|no|Kristian}}
+* Norwegian: 
+*: Bokmål: {{t+|nb|Kristian|m}}
+*: Nynorsk: {{t+|nn|Kristian|m}}
 * Polish: {{t+|pl|Krystian|m}}
 * Portuguese: {{t+|pt|Cristiano|m}}
-* Romanian: {{t+|ro|Cristian|m}}, {{t|ro|Cristina|f}}, {{t|ro|Cristiana|f}}
+* Romanian: {{t+|ro|Cristian|m}}
 * Russian: {{t+|ru|Кристиа́н|m}}, {{t+|ru|Христиа́н|m}}
 * Scottish Gaelic: {{t|gd|Crìsdean|m}}
-* Spanish: {{t+|es|Cristián}}
-* Swedish: {{t+|sv|Kristian}}
+* Spanish: {{t+|es|Cristián|m}}
+* Swedish: {{t+|sv|Kristian|c}}, {{t+|sv|Christian|c}}
 {{trans-bottom}}
 
 {{trans-top|female given name}}
 * Greek: {{t+|el|Χριστιανή|f}}
 {{trans-mid}}
 * Latin: {{t|la|Chrīstiāna|f}}
+* Romanian: {{t|ro|Cristina|f}}, {{t|ro|Cristiana|f}}
 {{trans-bottom}}
 
 ===Adjective===
@@ -233,11 +254,11 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Use of the term "Christian" in the generalised approbative sense "kind, moral" may be displeasing to some non-Christians.
 
 ====Synonyms====
-* {{sense|kind}} {{l|en|charitable}}, {{l|en|helpful}}, {{l|en|kind}}, {{l|en|neighborly}}/[[neighbourly]], [[sweet]] {{qualifier|informal}}
+* {{s|kind}} {{l|en|charitable}}, {{l|en|helpful}}, {{l|en|kind}}, {{l|en|neighborly}}/[[neighbourly]], [[sweet]] {{qualifier|informal}}
 
 ====Antonyms====
-* {{sense|of or relating to Christianity or Christians}} {{l|en|agnostic}}, {{l|en|atheist}}, {{l|en|heathen}}, {{l|en|non-Christian}}, {{l|en|pagan}}
-* {{sense|charitable, moral}} {{l|en|corrupt}}, {{l|en|immoral}}, {{l|en|improper}}, {{l|en|unjust}}, {{l|en|savage}}, [[sinful]]
+* {{s|of or relating to Christianity or Christians}} {{l|en|agnostic}}, {{l|en|atheist}}, {{l|en|heathen}}, {{l|en|non-Christian}}, {{l|en|pagan}}
+* {{s|charitable, moral}} {{l|en|corrupt}}, {{l|en|immoral}}, {{l|en|improper}}, {{l|en|unjust}}, {{l|en|savage}}, [[sinful]]
 
 ====Translations====
 {{trans-top|of, like or relating to Christianity or Christians}}
@@ -257,7 +278,7 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Czech: {{t+|cs|křesťanský}}
 * Danish: {{t|da|kristen}}
 * Dutch: {{t+|nl|christelijk}}
-* Esperanto: {{t|eo|kristanisma}} {{qualifier|relating to Christianity}}; {{t|eo|kristana}} {{qualifier|relating to Christians}}
+* Esperanto: {{t|eo|kristanisma}} {{q|relating to Christianity}}; {{t|eo|kristana}} {{q|relating to Christians}}
 * Estonian: {{t+|et|kristlik}}
 * Finnish: {{t+|fi|kristillinen}}
 * French: {{t+|fr|chrétien}}
@@ -282,12 +303,13 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 {{trans-mid}}
 * Kyrgyz: {{t|ky|христиандык}}, {{t+|ky|христиан}}
 * Lao: {{t|lo|ຄິດຕະສາສນິກກະຊົນ}}
-* Latin: {{t+|la|Chrīstiānus}}
+* Latin: {{t+|la|chrīstiānus}}, {{t+|la|Chrīstiānus}}
 * Latvian: {{t|lv|kristīgs}}
 * Lithuanian: {{t|lt|krikščioniškas}}
 * Macedonian: {{t|mk|христијански}}
 * Norwegian:
-*: Bokmål: {{t+|nb|kristen}}
+*: Bokmål: {{t+|nb|kristen}}, {{t+|nb|kristelig}}
+*: Nynorsk: {{t+|nn|kristen}}, {{t+|nb|kristeleg}}
 * Old English: {{t|ang|cristen}}
 * Pashto: {{t|ps|مسيحي|tr=masihí}}, {{t|ps|نصراني|tr=nasrāní}}, {{t+|ps|عيسوي|tr=isawí}}
 * Persian: {{t+|fa|مسیحی|tr=masihi}}
@@ -314,7 +336,7 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 * Urdu: {{t|ur|عیسائی|tr='īsā'ī}}, {{t|ur|مسیحی|tr=masīhī}}
 * Uyghur: {{t|ug|خرىستىئان}}
 * Uzbek: {{t+|uz|xristianlik}}, {{t+|uz|xristian}}
-* Volapük: {{t+|vo|kritik}} {{qualifier|relating to Christianity}}; {{t|vo|kritanik}} {{qualifier|relating to Christians, ♂♀}}, {{t|vo|hikritanik}} {{qualifier|relating to Christians, ♂}}, {{t|vo|jikritanik}} {{qualifier|relating to Christians, ♀}}
+* Volapük: {{t+|vo|kritik}} {{q|relating to Christianity}}; {{t|vo|kritanik}} {{q|relating to Christians}}
 * Welsh: {{t+|cy|Cristnogol}}
 * Yiddish: {{t|yi|קריסטלעך}}
 {{trans-bottom}}
@@ -361,7 +383,7 @@ From {{inh|en|enm|Cristien}}, from {{der|en|fro|chrestien}}, from {{der|en|la|Ch
 ==Cebuano==
 
 ===Etymology===
-From {{der|ceb|en|Christian}}, from {{der|ceb|la|Christianus}}, from {{der|ceb|grc|Χριστιανός}}, from {{m|grc|Χριστός||Christ, anointed one}}.
+From {{der|ceb|en|Christian}}, from {{der|ceb|la|Chrīstiānus}}, from {{der|ceb|grc|Χρῑστιᾱνός}}, from {{m|grc|Χρῑστός||Christ, anointed [[one]]}}.
 
 ===Proper noun===
 {{head|ceb|noun}}
@@ -379,13 +401,13 @@ From {{der|ceb|en|Christian}}, from {{der|ceb|la|Christianus}}, from {{der|ceb|g
 * {{l|da|Kristian}}
 
 ===Etymology===
-{{der|da|la|Christianus}}.
+From {{der|da|la|Chrīstiānus}}.
 
 ===Pronunciation===
 * {{IPA|da|[ˈkʰʁɛsd̥jan]}}
 
 ===Proper noun===
-{{da-proper noun}}
+{{da-proper noun|g=c}}
 
 # {{given name|da|male}}.
 #* '''1778''', Johannes Ewald, Danish royal anthem
@@ -396,9 +418,9 @@ From {{der|ceb|en|Christian}}, from {{der|ceb|la|Christianus}}, from {{der|ceb|g
 * Traditionally popular in Denmark, as the name of ten ruling kings since the fifteenth century.
 
 ====Related terms====
-* (''male given names'') {{l|da|Carsten}}, {{l|da|Chresten}}, {{l|da|Chris}}, {{l|da|Christen}}, {{l|da|Karsten}}, {{l|da|Kresten}}, {{l|da|Kristen}}
-* (''feminine forms'') {{l|da|Christine}}, {{l|da|Kirstine}}, {{l|da|Kristine}}
-* (''surnames'') {{l|da|Christiansen}}, {{l|da|Kristiansen}}, {{l|da|Christensen}}, {{l|da|Kristensen}}
+* {{s|male given names}} {{l|da|Carsten}}, {{l|da|Chresten}}, {{l|da|Chris}}, {{l|da|Christen}}, {{l|da|Karsten}}, {{l|da|Kresten}}, {{l|da|Kristen}}
+* {{s|female given names}} {{l|da|Christine}}, {{l|da|Kirstine}}, {{l|da|Kristine}}
+* {{s|surnames}} {{l|da|Christiansen}}, {{l|da|Kristiansen}}, {{l|da|Christensen}}, {{l|da|Kristensen}}
 
 ===References===
 * [http://www.danskernesnavne.navneforskning.ku.dk/ ] Danskernes Navne, based on CPR data: 146 350 males with the given name Christian (compared to 72 098 named Kristian) have been registered in Denmark between about 1890 (=the population alive in 1967) and January 2005, with the frequency peak in the 19th century. Accessed on 19 June 2011.
@@ -412,12 +434,12 @@ From {{der|ceb|en|Christian}}, from {{der|ceb|la|Christianus}}, from {{der|ceb|g
 * {{audio|fr|LL-Q150 (fra)-Lepticed7-Christian.wav|Audio}}
 
 ===Proper noun===
-{{fr-proper noun}}
+{{fr-proper noun|m}}
 
 # {{given name|fr|male|eq=Christian}}.
 
 ====Related terms====
-* female given names: {{l|fr|Christiane}}, {{l|fr|Christine}}, {{l|fr|Christelle}}
+* {{s|female given names}} {{l|fr|Christiane}}, {{l|fr|Christine}}, {{l|fr|Christelle}}
 
 ----
 
@@ -430,7 +452,7 @@ From {{der|ceb|en|Christian}}, from {{der|ceb|la|Christianus}}, from {{der|ceb|g
 * {{hyphenation|de|Chris|ti|an}}
 
 ===Proper noun===
-{{head|de|proper noun}}
+{{head|de|proper noun|g=m}}
 
 # {{given name|de|male|f=Christiane|f2=Christina|f3=Christine}}
 
@@ -448,7 +470,7 @@ From {{der|ceb|en|Christian}}, from {{der|ceb|la|Christianus}}, from {{der|ceb|g
 From {{der|no|la|Chrīstiānus}}.
 
 ===Proper noun===
-{{head|no|proper noun}}
+{{head|no|proper noun|g=m}}
 
 # {{given name|no|male}}.
 
