@@ -12,13 +12,13 @@ From {{der|en|la|exhaustus}}, past participle of {{m|la|exhaurio|exhaurīre|to d
 ===Verb===
 {{en-verb}}
 
-# {{lb|en|transitive}} To draw or let out wholly; to [[drain off]] completely
+# {{lb|en|transitive}} To draw or let out wholly; to [[drain off]] completely {{q|:liquid}}
 #: {{ux|en|The water was '''exhausted''' out of the well.}}
 #: {{ux|en|Moisture of the earth is '''exhausted''' by evaporation.}}
-# {{lb|en|transitive}} To empty by drawing or letting out the contents
+# {{lb|en|transitive}} To [[empty]] by drawing or letting out the contents
 #: {{ux|en|to '''exhaust''' a well}}
 #: {{ux|en|to '''exhaust''' a treasury}}
-# {{lb|en|transitive|figuratively}} To drain; to [[use up]] or expend wholly, or until the supply comes to an end
+# {{lb|en|transitive|literally|figuratively}} To [[use up]]; to [[deplete]], [[drain]] or [[expend]] wholly, or until the supply comes to an end
 #: {{ux|en|My grandfather seemingly never '''exhausts''' his supply of bad jokes.}}
 #: {{ux|en|to '''exhaust''' one's resources}}
 #: {{ux|en|You're '''exhausting''' my patience.}}
@@ -38,11 +38,7 @@ From {{der|en|la|exhaustus}}, past participle of {{m|la|exhaurio|exhaurīre|to d
 * See also [[Thesaurus:fatigue]]
 
 ====Related terms====
-* {{l|en|exhausted}}
-* {{l|en|exhausting}}
-* {{l|en|exhaustion}}
-* {{l|en|exhaustive}}
-* {{l|en|exhaustible}}
+{{rel3|en|exhausted|exhausting|exhaustion|exhaustive|exhaustible}}
 
 ====Translations====
 {{trans-top|to draw or let out wholly; to drain off completely}}
@@ -50,26 +46,28 @@ From {{der|en|la|exhaustus}}, past participle of {{m|la|exhaurio|exhaurīre|to d
 * Cherokee: {{t|chr|ᎠᏒᎲᏍᎦ}}
 * Chinese:
 *: Mandarin: {{t|cmn|抽完}}
-* Czech: {{t+|cs|vyčerpat}}
+* Czech: {{t|cs|vyčerpávat|impf}}, {{t+|cs|vyčerpat|pf}}
 * Danish: {{t|da|udtømme}}, {{t|da|opbruge}}
-{{trans-mid}}
 * Finnish: {{t+|fi|tyhjentää}}, {{t+|fi|poistaa}}, {{t+|fi|kuivattaa}} {{q|to dry}}, {{t+|fi|loppua}}
 * Georgian: {{t|ka|ამოწურავს}}, {{t|ka|გამოლევს}}, {{t|ka|ამოხაპავს}}, {{t|ka|ამოცლის}}
+{{trans-mid}}
 * Latin: {{t|la|exhauriō}}
 * Maori: {{t|mi|kīrea}} {{qualifier|of soil fertlity}}
+* Polish: {{t+|pl|wyczerpywać|impf}}, {{t+|pl|wyczerpać|pf}}
 * Portuguese: {{t+|pt|esvaziar}}
-* Russian: {{t+|ru|исчерпывать|impf}}, {{t+|ru|исчерпать|pf}}
+* Russian: {{t+|ru|исче́рпывать|impf}}, {{t+|ru|исче́рпать|pf}}
 * Swedish: {{t|sv|uttömma}}, {{t+|sv|tömma}}
 * Turkish: {{t+|tr|salmak}}, {{t+|tr|eritmek}}
+* Ukrainian: {{t|uk|виче́рпувати|impf}}, {{t|uk|ви́черпати|pf}}
 {{trans-bottom}}
 
-{{trans-top|to empty by drawing or letting out the contents}}
+{{trans-top-also|to empty by drawing or letting out the contents|empty}}
 * Bulgarian: {{t+|bg|изчерпвам|sc=Cyrl}}, {{t+|bg|изразходвам|sc=Cyrl}}, {{t+|bg|изтощавам}}
 * Catalan: {{t+|ca|esgotar}}
 * Chinese:
 *: Mandarin: {{t+|cmn|用盡|sc=Hani}}, {{t+|cmn|用尽|tr=yòngjìn|sc=Hani}}, {{t+|cmn|盡|sc=Hani}}, {{t+|cmn|尽|tr=jìn|sc=Hani}}, {{t+|cmn|耗盡|sc=Hani}}, {{t+|cmn|耗尽|tr=hàojìn|sc=Hani}}
-* Czech: {{t+|cs|vyčerpat}}
-* Danish: {{t+|da|tømme}}
+* Czech: {{t|cs|vyčerpávat|impf}}, {{t+|cs|vyčerpat|pf}}
+* Danish: {{t|da|udtømme}}, {{t+|da|tømme}}
 * Dutch: {{t+|nl|uitputten}}, {{t+|nl|verminderen}}
 * Finnish: {{t+|fi|tyhjentää}}, {{t|fi|ehdyttää}}, {{t|fi|[[käyttää]] [[loppu|loppuun]]}}
 * French: {{t+|fr|épuiser}}
@@ -82,42 +80,53 @@ From {{der|en|la|exhaustus}}, past participle of {{m|la|exhaurio|exhaurīre|to d
 * Maori: {{t|mi|whakaporo}}, {{t|mi|whakataweke}}
 * Mongolian: {{t+|mn|барах|sc=Cyrl}}
 * Portuguese: {{t+|pt|esgotar}}, {{t+|pt|exaurir}}
-* Russian: {{t+|ru|исче́рпывать|impf}}, {{t+|ru|истоща́ть|impf}}, {{t+|ru|израсхо́довать|pf}}
+* Russian: {{t+|ru|истоща́ть|impf}}, {{t+|ru|истощи́ть|pf}}
 * Spanish: {{t+|es|agotar}}
 * Swedish: {{t|sv|uttömma}}, {{t+|sv|tömma}}
 * Turkish: {{t+|tr|tüketmek}}
 {{trans-bottom}}
 
-{{trans-top|to tire out}}
-* Azerbaijani: {{t|az|taqətdən salmaq}}, {{t+|az|üzmək}}, {{t|az|[[çox]] [[yormaq]]}}, {{t|az|əldən salmaq}}, {{t|az|əldən-ayaqdan salmaq}}, {{t+|az|əritmək}}
-{{trans-mid}}
-* Finnish: {{t|fi|väsyttää täysin}}, {{t|fi|kuluttaa loppuun}}
-* French: {{t+|fr|épuiser}}
-* Gothic: {{t|got|𐌿𐍃𐌰𐌲𐌻𐌾𐌰𐌽}}
-* Spanish: {{t+|es|cansar}}, {{t+|es|agotar}}
-* Swedish: {{t+|sv|utmatta}}
-* Ukrainian: {{t|uk|виснажувати|impf}}, {{t|uk|виснажити|pf}}
-{{trans-bottom}}
-
-{{trans-top|to drain, metaphorically; to wear out}}
+{{trans-top-also|to use up; to deplete, drain or expend wholly (''literally, figuratively'')}}
 * Arabic: {{t|ar|اِسْتَهْلَكَ}}, {{t|ar|اِسْتَنْفَدَ}}
-* Danish: {{t+|da|tømme}}, {{t|da|opbruge}}, {{t|da|løbe tør for}}, {{t|da|opslide}}
+* Catalan: {{t+|ca|esgotar}}
+* Danish: {{t|da|opbruge}}, {{t|da|udtømme}}, {{t+|da|tømme}}, {{t|da|løbe tør for}}, {{t|da|opslide}}
 * Dutch: {{t+|nl|uitputten}}
-* Finnish: {{t+|fi|uuvuttaa}}, {{t|fi|[[kuluttaa]] [[loppu|loppuun]]}}, {{t|fi|näännyttää}}
+* Finnish: {{t+|fi|uuvuttaa}}, {{t|fi|[[kuluttaa]] [[loppu|loppuun]]}}
+* French: {{t+|fr|épuiser}}
 * Georgian: {{t|ka|გადაიქანცება}}, {{t|ka|გადაიღლება}}, {{t|ka|გამოიფიტება}}, {{t|ka|გამოიცლება}}, {{t|ka|დაუძლურდება}}
 * Greek:
 *: Ancient: {{t|grc|κατατρύχω}}
-* Latin: {{t|la|dēfatīgō}}, {{t|la|lassō}}
 {{trans-mid}}
 * Lao: {{t|lo|ໝົດ}}
 * Maori: {{t|mi|whakaporo}}, {{t|mi|whakaruhi}}, {{t|mi|whakapeto}}
 * Middle English: {{t|enm|noyen}}
+* Polish: {{t+|pl|wyczerpywać|impf}}, {{t+|pl|wyczerpać|pf}}
 * Portuguese: {{t+|pt|esgotar}}, {{t+|pt|exaurir}}
+* Russian: {{t+|ru|исче́рпывать|impf}}, {{t+|ru|исче́рпать|pf}}, {{t+|ru|истоща́ть|impf}}, {{t+|ru|истощи́ть|pf}}
 * Sanskrit: {{t+|sa|जासयति}}
-* Spanish: {{t+|es|agotado|m}}, {{t+|es|agotada|f}}
+* Spanish: {{t+|es|agotar}}
 * Swedish: {{t+|sv|förbruka}}
 * Turkish: {{t+|tr|bitmek}}
+* Ukrainian: {{t|uk|виче́рпувати|impf}}, {{t|uk|ви́черпати|pf}}, {{t|uk|висна́жувати|impf}}, {{t|uk|ви́снажити|pf}}
 * Yiddish: {{t|yi|אויסמוטשן}}
+{{trans-bottom}}
+
+{{trans-top-also|to tire out, to wear out, to cause to be without any energy|tire out|wear out}}
+* Azerbaijani: {{t|az|taqətdən salmaq}}, {{t+|az|üzmək}}, {{t|az|[[çox]] [[yormaq]]}}, {{t|az|əldən salmaq}}, {{t|az|əldən-ayaqdan salmaq}}, {{t+|az|əritmək}}
+* Catalan: {{t+|ca|esgotar}}
+* Danish: {{t|da|udmatte}}
+* Dutch: {{t+|nl|uitputten}}
+* Finnish: {{t|fi|väsyttää täysin}}, {{t|fi|[[kuluttaa]] [[loppu|loppuun]]}}, {{t|fi|näännyttää}}
+* French: {{t+|fr|épuiser}}
+* German: {{t+|de|erschöpfen}}
+* Gothic: {{t|got|𐌿𐍃𐌰𐌲𐌻𐌾𐌰𐌽}}
+{{trans-mid}}
+* Latin: {{t|la|dēfatīgō}}, {{t|la|lassō}}
+* Polish: {{t+|pl|wyczerpywać|impf}}, {{t+|pl|wyczerpać|pf}}
+* Russian: {{t+|ru|изнуря́ть|impf}}, {{t+|ru|изнури́ть|pf}}
+* Spanish: {{t+|es|cansar}}, {{t+|es|agotar}}
+* Swedish: {{t+|sv|utmatta}}
+* Ukrainian: {{t|uk|висна́жувати|impf}}, {{t|uk|ви́снажити|pf}}
 {{trans-bottom}}
 
 {{trans-top|to bring out or develop completely; to discuss thoroughly}}
