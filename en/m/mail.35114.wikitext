@@ -87,16 +87,16 @@ In the United States, '''[[mails|the mails]]''' (with ''the'' and in the plural)
 * Armenian: {{t+|hy|փոստ}}
 * Assamese: {{t|as|ডাক}}
 * Azerbaijani: {{t|az|poçta}}
-* Belarusian: {{t|be|по́шта|f|sc=Cyrl}}
+* Belarusian: {{t|be|по́шта|f}}
 * Bengali: {{t+|bn|ডাক}}
 * Bikol Central: {{t|bcl|surat}}
 * Bulgarian: {{t+|bg|по́ща|f}}
 * Burmese: {{t+|my|စာပို့}}, {{t|my|[[စာပို့]][[ဆက်သွယ်ရေး]]}}, {{t|my|[[စာပို့]][[စနစ်]]}}
 * Catalan: {{t+|ca|correu|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|郵件|sc=Hani}}, {{t+|cmn|邮件|tr=yóujiàn|sc=Hani}}, {{t+|cmn|郵政}}, {{t+|cmn|邮政|tr=yóuzhèng}}
+*: Mandarin: {{t+|cmn|郵件}}, {{t+|cmn|邮件|tr=yóujiàn}}, {{t+|cmn|郵政}}, {{t+|cmn|邮政|tr=yóuzhèng}}
 * Czech: {{t+|cs|pošta|f}}
-* Danish: {{t+|da|post}}
+* Danish: {{t+|da|post|c}}
 * Dutch: {{t+|nl|post|f}}
 * Esperanto: {{t+|eo|poŝto}}
 * Estonian: {{t+|et|post}}
@@ -114,7 +114,7 @@ In the United States, '''[[mails|the mails]]''' (with ''the'' and in the plural)
 * Japanese: {{t+|ja|郵便|tr=ゆうびん, yūbin}}
 * Kazakh: {{t+|kk|пошта}}
 * Khmer: {{t+|km|ប្រៃសណីយ៍}}
-* Korean: {{t+|ko|우편}}
+* Korean: {{t+|ko|우편(郵便)}}
 * Kurdish:
 *: Northern Kurdish: {{t+|kmr|poste}}, {{t+|kmr|berîd}}
 {{trans-mid}}
@@ -123,12 +123,14 @@ In the United States, '''[[mails|the mails]]''' (with ''the'' and in the plural)
 * Latvian: {{t|lv|pasts|m}}
 * Lithuanian: {{t+|lt|paštas|m}}
 * Macedonian: {{t|mk|пошта|f}}
-* Mongolian: {{t+|mn|шуудан}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|шуудан}}
 * Norman: {{t|nrf|courrier|m}}
 * Norwegian:
 *: Bokmål: {{t+|nb|post|m}}
-* Pashto: {{t|ps|ډاګ|m|tr=ḍāg}}, {{t+|ps|پوسته|f|tr=postá}}
-* Persian: {{t+|fa|پست|tr=post|sc=fa-Arab}}
+*: Nynorsk: {{t|nn|post|m}}
+* Pashto: {{t|ps|ډاګ|m|tr=ḍāg}}, {{t+|ps|پوسته|f|tr=posta}}
+* Persian: {{t+|fa|پست|tr=post}}
 * Plautdietsch: {{t|pdt|Post|f}}
 * Polish: {{t+|pl|poczta|f}}
 * Portuguese: {{t+|pt|correio|m}}
@@ -143,12 +145,12 @@ In the United States, '''[[mails|the mails]]''' (with ''the'' and in the plural)
 * Spanish: {{t+|es|correo|m}}
 * Swedish: {{t+|sv|post|c}}
 * Tajik: {{t+|tg|почта}}
-* Telugu: {{t+|te|తపాలా|sc=Telu}}
+* Telugu: {{t+|te|తపాలా}}
 * Thai: {{t+|th|ไปรษณีย์}}
 * Turkish: {{t+|tr|posta}}
 * Turkmen: {{t|tk|poçta}}
 * Ukrainian: {{t+|uk|по́шта|f}}
-* Urdu: {{t|ur|ڈاک|f|tr=ḍāk|sc=ur-Arab}}
+* Urdu: {{t|ur|ڈاک|f|tr=ḍāk}}
 * Uyghur: {{t|ug|پوچتا}}
 * Uzbek: {{t+|uz|pochta}}
 * Vietnamese: {{t+|vi|bưu chính}}, {{t+|vi|bưu điện}}
@@ -157,7 +159,7 @@ In the United States, '''[[mails|the mails]]''' (with ''the'' and in the plural)
 
 {{trans-top|organisation}}
 * Armenian: {{t+|hy|փոստ}}
-* Bulgarian: {{t+|bg|по́ща|f}}, {{t|bg|по́щенска слу́жба|f}},
+* Bulgarian: {{t+|bg|по́ща|f}}, {{t|bg|по́щенска [[слу́жба]]|f}},
 * Czech: {{t+|cs|pošta|f}}
 * Danish: {{t|da|postvæsenet}}, {{qualifier|colloquial}} {{t|da|posten}}
 * Finnish: {{t+|fi|posti}}
@@ -185,7 +187,7 @@ In the United States, '''[[mails|the mails]]''' (with ''the'' and in the plural)
 * Catalan: {{t+|ca|correu|m}}, {{t|ca|correspondència|f}}
 * Chichewa: {{t|ny|kalata|alt=makalata}}
 * Chinese:
-*: Mandarin: {{t+|cmn|郵件|sc=Hani}}, {{t+|cmn|邮件|tr=yóujiàn|sc=Hani}}
+*: Mandarin: {{t+|cmn|郵件}}, {{t+|cmn|邮件|tr=yóujiàn}}
 * Czech: {{t+|cs|pošta|f}}
 * Danish: {{t+|da|post}}
 * Finnish: {{t+|fi|posti}}
@@ -197,9 +199,9 @@ In the United States, '''[[mails|the mails]]''' (with ''the'' and in the plural)
 * Interlingua: {{t|ia|posta}}
 {{trans-mid}}
 * Italian: {{t+|it|posta|f}}
-* Japanese: {{t+|ja|郵便|tr=ゆうびん, yūbin|sc=Jpan}}
+* Japanese: {{t+|ja|郵便|tr=ゆうびん, yūbin}}
 * Khmer: {{t+|km|សំបុត្រ}}
-* Korean: {{t+|ko|우편}}
+* Korean: {{t+|ko|우편(郵便)}}
 * Latvian: {{t|lv|pasts}}
 * Lithuanian: {{t+|lt|paštas|m}}
 * Maori: {{t|mi|mēra}}
@@ -226,7 +228,7 @@ In the United States, '''[[mails|the mails]]''' (with ''the'' and in the plural)
 * Italian: {{t+|it|posta elettronica|f}}, {{t+|it|e-mail|f}}, {{t+|it|mail|f}}
 * Latvian: {{t|lv|e-pasts}}, {{qualifier|qoloquial}} {{t|lv|mails}}
 * Lithuanian: {{t|lt|el-paštas}}
-* Persian: {{t+|fa|رایانامه|sc=fa-Arab}}
+* Persian: {{t+|fa|رایانامه|tr=râyânâme}}
 * Portuguese: {{t+|pt|correio eletrônico|m}}, {{t+|pt|e-mail|m}}
 * Russian: {{t+|ru|электро́нная по́чта|f}}, {{t+|ru|по́чта|f}}, {{t+|ru|мы́ло|n}} {{qualifier|slang}}
 * Spanish: {{t+|es|correo electrónico|m}}, {{t+|es|mail|m}}
@@ -234,10 +236,10 @@ In the United States, '''[[mails|the mails]]''' (with ''the'' and in the plural)
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Hebrew: {{t+check|he|דואר|tr=do'ar|sc=Hebr}}
+* Hebrew: {{t+check|he|דואר|tr=do'ar}}
 * Interlingua: {{qualifier|1|2|4}} {{t-check|ia|posta}}, {{t-check|ia|currero}}, {{qualifier|3}} {{t-check|ia|correspondentia}}, {{qualifier|5}} {{t-check|ia|malia}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-check|sh|пошта|f}} {{q|1|2|3|4}}, {{t-check|sh|поштански|tr=poštanski|sc=Cyrl}}
+*: Cyrillic: {{t-check|sh|пошта|f}} {{q|1|2|3|4}}, {{t-check|sh|поштански|tr=poštanski}}
 *: Roman: {{qualifier|1|2|3|4}} {{t+check|sh|pošta|f}}
 {{trans-mid}}
 * Serbo-Croatian: {{t+check|sh|pošta|f}} {{q|1|2|3|4}}, {{t+check|sh|poštanski}}
