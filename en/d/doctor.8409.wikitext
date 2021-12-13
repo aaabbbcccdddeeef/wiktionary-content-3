@@ -235,9 +235,9 @@ From {{inh|en|enm||doctor|an expert, authority on a subject}}, {{m|enm||doctour}
 * Bulgarian: {{t+|bg|до́ктор|m}}, {{t|bg|до́кторка|f}}
 * Chinese:
 *: Cantonese: {{t+|yue|博士|tr=bok3 si6}}
-*: Mandarin: {{t+|cmn|博士|tr=bóshì|sc=Hani}}
+*: Mandarin: {{t+|cmn|博士|tr=bóshì}}
 * Czech: {{t+|cs|doktor|m}}
-* Danish: {{t|da|doktor}}
+* Danish: {{t|da|doktor|c}}
 * Dutch: {{t+|nl|doctor|m|f}}
 * Esperanto: {{t|eo|doktoro}}, {{t|eo|virdoktoro}} {{q|male}} {{t|eo|doktorino}} {{q|female}}
 * Finnish: {{t+|fi|tohtori}}
@@ -246,7 +246,7 @@ From {{inh|en|enm||doctor|an expert, authority on a subject}}, {{m|enm||doctour}
 * Georgian: {{t|ka|დოქტორი}}
 * German: {{t+|de|Doktor|m}}, {{t+|de|Doktorin|f}}
 * Greek: {{t+|el|διδάκτορας|m|f}}
-* Hebrew: {{t+|he|דוֹקטוֹר|m|tr=dóktor|sc=Hebr}}
+* Hebrew: {{t+|he|דוֹקטוֹר|m|tr=dóktor}}
 * Hindi: {{t|hi|डॉक्टर|m}}
 * Hungarian: {{t+|hu|doktor}}
 * Icelandic: {{t+|is|læknir|m}}, {{t+|is|doktor|m}}
@@ -257,10 +257,10 @@ From {{inh|en|enm||doctor|an expert, authority on a subject}}, {{m|enm||doctour}
 * Japanese: {{t+|ja|博士|tr=はくし, hakushi, はかせ hakase}}
 * Kazakh: {{t|kk|доктор}}, {{t|kk|доқтыр}}
 * Khmer: {{t+|km|បណ្ឌិត}}
-* Korean: {{t+|ko|박사}}
+* Korean: {{t+|ko|박사(博士)}}
 * Kurdish:
 * Kashmiri: {{t+|ks|طبِیٖب/ڈَاکٹر}}}
-*: Central Kurdish: {{t|ckb|دکتۆر|sc=ku-Arab}}
+*: Central Kurdish: {{t|ckb|دکتۆر}}
 * Kyrgyz: {{t+|ky|доктор}}
 {{trans-mid}}
 * Latvian: {{t|lv|doktors|m}}, {{t|lv|doktore|f}}
@@ -278,7 +278,8 @@ From {{inh|en|enm||doctor|an expert, authority on a subject}}, {{m|enm||doctour}
 * Russian: {{t+|ru|до́ктор|m|f}} {{q|male or female}}, {{t+|ru|до́кторша|f}} {{q|colloquial for female doctors, nonstandard}}
 * Scottish Gaelic: {{t|gd|ollamh|m}}
 * Serbo-Croatian:
-*: Roman: {{t+|sh|dȍktor|m}}, {{t+|sh|dȍktorica|f}}
+*: Roman: {{t|sh|до̏ктор|m}}, {{t|sh|до̏кторица|f}}, {{t|sh|до̏кто̄рка|f}}
+*: Roman: {{t+|sh|dȍktor|m}}, {{t+|sh|dȍktorica|f}}, {{t|sh|dȍktōrka|f}}
 * Skolt Sami: {{t|sms|dåhttar}}
 * Slovak: {{t+|sk|doktor|m}}
 * Slovene: {{t|sl|doktor|m}}, {{t|sl|doktorica|f}}
@@ -296,7 +297,7 @@ From {{inh|en|enm||doctor|an expert, authority on a subject}}, {{m|enm||doctour}
 * Uyghur: {{t|ug|دوكتور}}
 * Uzbek: {{t+|uz|doktor}}
 * Venetian: {{t|vec|dotor|m}}
-* Vietnamese: {{t+|vi|tiến sĩ}}
+* Vietnamese: {{t+|vi|tiến sĩ}} ({{t|vi|進士}})
 * Volapük: {{t+|vo|dokan}}, {{t|vo|hidokan}} {{q|male}}, {{t|vo|jidokan}} {{q|female}}, {{t|vo|dokel}}, {{q|older term, obsolete}}
 * Walloon: {{t+|wa|docteur|m}}
 * Yiddish: {{t|yi|דאָקטאָר|m}}
