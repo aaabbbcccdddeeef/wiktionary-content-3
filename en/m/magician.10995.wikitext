@@ -49,17 +49,17 @@ From {{inh|en|enm|magicien}}, from {{der|en|frm|magicien}}.
 * Armenian: {{t+|hy|կախարդ}}, {{t+|hy|վհուկ}}
 * Azerbaijani: {{t+|az|sehrbaz}}, {{t+|az|cadugər}}
 * Baluchi: {{t|bal|سحرگو|tr=sahargo}}, {{t|bal|جادوگر}}, {{t|bal|سحر کنوخ|tr=sihr kanox}}
-* Bashkir: {{qualifier|black}} {{t|ba|сихырсы|sc=Cyrl}}, {{qualifier|white}} {{t|ba|тылсымсы|sc=Cyrl}}
+* Bashkir: {{qualifier|black}} {{t|ba|сихырсы}}, {{qualifier|white}} {{t|ba|тылсымсы}}
 * Basque: {{t-needed|eu}}
-* Belarusian: {{t|be|чараўні́к|m|sc=Cyrl}}, {{t|be|маг|m|sc=Cyrl}}
+* Belarusian: {{t|be|чараўні́к|m}}, {{t|be|маг|m}}
 * Bengali: {{t+|bn|জাদুকর}}
 * Breton: {{t|br|hudour|m}}
-* Bulgarian: {{t+|bg|вълше́бник|m|sc=Cyrl}}, {{t+|bg|чароде́й|m|sc=Cyrl}}, {{t+|bg|маг|m|sc=Cyrl}}, {{t+|bg|магьосник|m|sc=Cyrl}}, {{t+|bg|вещер|m|sc=Cyrl}}
+* Bulgarian: {{t+|bg|вълше́бник|m}}, {{t+|bg|чароде́й|m}}, {{t+|bg|маг|m}}, {{t+|bg|магьо́сник|m}}, {{t+|bg|ве́щер|m}}
 * Burmese: {{t+|my|မျက်လှည့်ဆရာ}}
 * Catalan: {{t+|ca|mag|m}}, {{t+|ca|màgic|m}}, {{t+|ca|fetiller|m}}
 * Chinese:
 *: Cantonese: {{t|yue|巫師}}, {{t|yue|巫师|tr=mou4 si1}}
-*: Mandarin: {{t+|cmn|巫師|sc=Hani}}, {{t+|cmn|巫师|tr=wūshī|sc=Hani}}, {{t+|cmn|覡|sc=Hani}}, {{t+|cmn|觋|tr=xí|sc=Hani}}, {{t+|cmn|魔術師|sc=Hani}}, {{t+|cmn|魔术师|tr=móshùshī|sc=Hani}}, {{t+|cmn|妖人|tr=yāorén|sc=Hani}}
+*: Mandarin: {{t+|cmn|巫師}}, {{t+|cmn|巫师|tr=wūshī}}, {{t+|cmn|覡}}, {{t+|cmn|觋|tr=xí}}, {{t+|cmn|魔術師}}, {{t+|cmn|魔术师|tr=móshùshī}}, {{t+|cmn|妖人|tr=yāorén}}
 * Czech: {{t+|cs|kouzelník|m}}
 * Danish: {{t|da|troldmand|c}}
 * Dutch: {{t+|nl|tovenaar|m}}, {{t+|nl|magiër|m}}
@@ -73,8 +73,8 @@ From {{inh|en|enm|magicien}}, from {{der|en|frm|magicien}}.
 * Georgian: {{t|ka|ჯადოქარი}}, {{t|ka|გრძნეული}}
 * German: {{t+|de|Magier|m}}, {{t+|de|Zauberer|m}}, {{t+|de|Zaubrer|m}}, {{t+|de|Magierin|f}}, {{t+|de|Zauberin|f}}, {{t+|de|Zaubrerin|f}}
 * Greek: {{t+|el|μάγος|m}}
-* Hebrew: {{t+|he|קוסם|m|tr=kosem}}
-* Hindi: {{t+|hi|जादूगर}}
+* Hebrew: {{t+|he|קוֹסֵם|m|tr=kosém}}
+* Hindi: {{t+|hi|जादूगर|m}}
 * Hungarian: {{t+|hu|varázsló}}
 * Icelandic: {{t|is|töframaður|m}}
 * Indonesian: {{t+|id|tukang sulap}}, {{t+|id|dukun}}
@@ -83,7 +83,7 @@ From {{inh|en|enm|magicien}}, from {{der|en|frm|magicien}}.
 * Japanese: {{t+|ja|魔法使い|tr=まほうつかい, mahō tsukai}}, {{t+|ja|魔術師|tr=まじゅつし, majutsushi}}
 * Kannada: {{t+|kn|ಮಾಂತ್ರಿಕ}}
 * Kazakh: {{t|kk|сиқыршы}}
-* Khmer: {{t|km|មនុស្សចេះឆ|tr=mɔnuh ceh cʰɑɑ|sc=Khmr}}
+* Khmer: {{t-needed|km}}
 * Korean: {{t+|ko|마술사(魔術師)}}
 * Kurdish:
 *: Northern Kurdish: {{t+|kmr|sihirbend}}
@@ -94,19 +94,20 @@ From {{inh|en|enm|magicien}}, from {{der|en|frm|magicien}}.
 * Latin: {{t|la|magus}}
 * Latvian: {{t|lv|burvis|m}}, {{t|lv|burve|f}}, {{t|lv|zintnieks|m}}
 * Lithuanian: {{t+|lt|magas|m}}, {{t|lt|burtininkas|m}}
-* Macedonian: {{t|mk|магио́ничар|m|sc=Cyrl}}, {{t|mk|волшебник|m}}
+* Macedonian: {{t|mk|магионичар|m}}, {{t|mk|волшебник|m}}
 * Manx: {{t|gv|druaightagh}}, {{t|gv|fer-obbee}}
 * Maori: {{t|mi|kaimākutu}}
 * Middle English: {{t|enm|magicien}}
-* Cyrillic: {{t+|mn|илбэчин}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|илбэчин}}
 * Norman: {{t|nrf|magicien|m}}
 * North Frisian: {{t|frr|Gögeler}} {{qualifier|Sylt}}
-* Norwegian: {{t|no|magiker|m}}
-*: Bokmål: {{t|nb|trollmann|m}}
+* Norwegian:
+*: Bokmål: {{t|nb|magiker|m}}, {{t|nb|trollmann|m}}
 *: Nynorsk: {{t|nn|trollmann|m}}
-* Ottoman Turkish: {{t|ota|سحرباز|tr=sihrbâz|sc=ota-Arab}}
+* Ottoman Turkish: {{t|ota|سحرباز|tr=sihrbâz}}
 * Pashto: {{t|ps|جادوګر|m|tr=jādugar}}, {{t|ps|ساحر|m|tr=sāher}}, {{t|ps|سحرګر|m|tr=sehrgar}}
-* Persian: {{t+|fa|جادوگر|tr=jâdugar|sc=fa-Arab}}, {{t+|fa|ساحر|tr=sâher|sc=fa-Arab}}
+* Persian: {{t+|fa|جادوگر|tr=jâdugar}}, {{t+|fa|ساحر|tr=sâher}}
 * Plautdietsch: {{t|pdt|Zaubra|n}}, {{t|pdt|Hajksenmeista|m}}
 * Polish: {{t+|pl|magik|m}}, {{t+|pl|czarodziej|m}}, {{t+|pl|czarownik|m}}
 * Portuguese: {{t+|pt|mago|m}}, {{t+|pt|bruxo|m}}, {{t+|pt|mágico|m}}, {{t+|pt|feiticeiro|m}}
@@ -114,8 +115,8 @@ From {{inh|en|enm|magicien}}, from {{der|en|frm|magicien}}.
 * Russian: {{t+|ru|волше́бник|m}}, {{t+|ru|колду́н|m}}, {{t+|ru|маг|m}}, {{t+|ru|чароде́й|m}}
 * Scottish Gaelic: {{t|gd|draoidh|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|мађионичар|m}}, {{t|sh|маг|m}}, {{t|sh|чаробњак|m}}
-*: Roman: {{t+|sh|mađioničar|m}}, {{t+|sh|mag|m}}, {{t+|sh|čarobnjak|m}}
+*: Cyrillic: {{t|sh|мађио̀нича̄р|m}}, {{t|sh|ма̑г|m}}, {{t|sh|чаро̀бња̄к|m}}
+*: Roman: {{t+|sh|mađiòničār|m}}, {{t+|sh|mȃg|m}}, {{t+|sh|čaròbnjāk|m}}
 * Slovak: {{t|sk|kúzelník|m}}
 * Slovene: {{t+|sl|čarovnik|m}}
 * Spanish: {{t+|es|mago|m}}
@@ -123,10 +124,10 @@ From {{inh|en|enm|magicien}}, from {{der|en|frm|magicien}}.
 * Tagalog: {{t|tl|salamangkero}}
 * Tajik: {{t|tg|ҷодугар}}, {{t|tg|соҳир}}, {{t|tg|афсунгар}}
 * Tamil: {{t-needed|ta}}
-* Thai: {{t|th|ผู้วิเศษ|tr=pôo-wí-sàyt}}
+* Thai: {{t|th|ผู้วิเศษ}}
 * Turkish: {{t+|tr|sihirbaz}}, {{t+|tr|büyücü}}
 * Turkmen: {{t+|tk|jadygöý}}
-* Ukrainian: {{t|uk|чарівни́к|m|sc=Cyrl}}, {{t+|uk|маг|m|sc=Cyrl}}
+* Ukrainian: {{t|uk|чарівни́к|m}}, {{t+|uk|маг|m}}
 * Urdu: {{t|ur|جادوگر|m|tr=jādūgar}}
 * Uyghur: {{t|ug|سېھىرگەر}}
 * Uzbek: {{t+|uz|sehrgar}}, {{t+|uz|jodugar}}, {{t+|uz|afsungar}}
@@ -158,10 +159,11 @@ From {{inh|en|enm|magicien}}, from {{der|en|frm|magicien}}.
 
 {{trans-top|performer of tricks}}
 * Armenian: {{t+|hy|աճպարար}}
-* Bulgarian: {{t+|bg|фокусник|m}}
+* Bulgarian: {{t+|bg|фо́кусник|m}}
 * Catalan: {{t+|ca|mag|m}}, {{t+|ca|màgic|m}}
 * Chinese:
 *: Cantonese: {{t|yue|魔術師}}, {{t|yue|魔术师|tr=mo1 seot6 si1}}
+*: Mandarin: {{t+|cmn|魔術師}}, {{t+|cmn|魔术师|tr=móshùshī}}
 * Danish: {{t|da|tryllekunstner|c}}, {{t|da|gøgler|c}}
 * Dutch: {{t+|nl|goochelaar|m}}, {{t+|nl|illusionist|m}}, {{t+|nl|magiër|m}}
 * Estonian: {{t|et|mustkunstnik}}, {{t+|et|illusionist}}
@@ -211,11 +213,10 @@ From {{inh|en|enm|magicien}}, from {{der|en|frm|magicien}}.
 * Indonesian: {{t+check|id|dukun}}
 * Italian: {{t+check|it|mago|m}}, {{qualifier|1}} {{t+check|it|maga|f}}
 * Latin: {{t-check|la|magus|m}}
-* Mandarin: {{t+check|cmn|魔术家|tr=mó shù jiā|sc=Hani}}
 {{trans-mid}}
 * Old English: {{t-check|ang|wiċċa|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t-check|sh|мађионичар|m|sc=Cyrl}}, {{t-check|sh|чаробњак|m|sc=Cyrl}}, {{t-check|sh|чаробница|f|sc=Cyrl}}
+*: Cyrillic: {{t-check|sh|мађионичар|m}}, {{t-check|sh|чаробњак|m}}, {{t-check|sh|чаробница|f}}
 *: Roman: {{t+check|sh|mađioničar|m}}, {{t+check|sh|čarobnjak|m}}, {{t+check|sh|čarobnica|f}}
 * Serbo-Croatian: {{t+check|sh|mađioničar|m}}, {{t+check|sh|čarobnjak|m}}, {{t+check|sh|čarobnica|f}}
 * Slovene: {{t-check|sl|čarodejník|m}}
