@@ -11,6 +11,8 @@
 {{en-adj|-}}
 
 # {{lb|en|statistics|of a process}} Exhibiting the [[w:Markov property|Markov property]], in which the conditional probability distribution of future states of the process, given the present state and all past states, depends only upon the present state and not on any past states.
+#* '''1992''', Casella and George, ''Explaining the Gibbs Sampler'', in: The American Statistician 46(3) 167&ndash;174
+#*: It is not immediately obvious that a random variable with distribution <math>f(x)</math> can be produced by the Gibbs sequence of (2.3) or that the sequence even converges. That this is so relies on the '''Markovian''' nature of the iterations, which we now develop in detail for the simple case of a 2 &times; 2 table with multinomial sampling.
 
 ====Derived terms====
 * [[Markovianity]]
