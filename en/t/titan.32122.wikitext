@@ -186,16 +186,29 @@ From {{etyl|fr|ro}} {{m|fr|titan}}.
 ===Pronunciation===
 * {{IPA|sv|/tɪˈtɑːn/}}
 
-===Noun===
-{{sv-noun|c|g2=n}}
+===Etymology 1===
+From {{bor|sv|grc|Τιτάν}}.
 
-# [[titanium]] {{g|n}}
-# {{lb|sv|mythology}} [[Titan]]; giant god {{g|c}}
-# a [[#English|titan]], a [[giant]], a great or important [[person]]; a nickname for [[w:August Strindberg|August Strindberg]] {{g|c}}
+====Noun====
+{{sv-noun|c}}
 
-====Declension====
-{{sv-noun-unc-irreg-n|2=titanet|definitions=1}}
-{{sv-infl-noun-c-er|definitions=2, 3}}
+# {{lb|sv|mythology}} [[Titan]]; giant god
+# a [[#English|titan]], a [[giant]], a great or important [[person]]
+## {{lb|sv|specifically}} a nickname for [[w:August Strindberg|August Strindberg]]
+
+=====Declension=====
+{{sv-infl-noun-c-er}}
+
+===Etymology 2===
+{{bor|sv|de|Titan}} (or {{cog|la|titanium}}), named by {{w|Martin Heinrich Klaproth}} after the Greek mythological [[Titan]]s (as Etymology 1).
+
+====Noun====
+{{sv-noun|n}}
+
+# [[titanium]]
+
+=====Declension=====
+{{sv-noun-unc-irreg-n|2=titanet}}
 
 ===Anagrams===
 * {{anagrams|sv|a=aintt|tinat}}
