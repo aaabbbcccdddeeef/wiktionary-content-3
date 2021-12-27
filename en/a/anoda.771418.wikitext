@@ -1,3 +1,4 @@
+{{also|anodą}}
 ==English==
 
 ===Determiner===
@@ -79,27 +80,33 @@ From {{inh|pcm|en|another}}.
 ----
 
 ==Polish==
-{{wikipedia|lang=pl}}
+{{wp|lang=pl}}
+
+===Etymology===
+From {{bor|pl|en|anode}}, from {{der|pl|grc|ἀνα}} + {{der|pl|grc|ὁδός}}.
 
 ===Pronunciation===
-* {{pl-IPA}}
-* {{audio|pl|Pl-anoda.ogg|Audio}}
+{{pl-p|a=Pl-anoda.ogg}}
 
 ===Noun===
 {{pl-noun|f}}
 
-# [[anode]]
+# {{lb|pl|chemistry}} {{l|en|anode}}
+#: {{ant|pl|katoda}}
+# {{lb|pl|electronics}} {{l|en|anode}}
+#: {{ant|pl|katoda}}
 
 ====Declension====
-{{pl-decl-noun-f|ano|d}}
+{{pl-decl-noun-f}}
 
-====Antonyms====
-* {{l|pl|katoda}}
+====Derived terms====
+* {{q|noun}} {{l|pl|anodyzacja}}
+* {{q|adjective}} {{l|pl|anodowy}}
+* {{q|verbs}} {{l|pl|anodować}}, {{l|pl|anodyzować}}
 
 ===Further reading===
+* {{R:pl:WSJP}}
 * {{R:PWN}}
-
-[[Category:pl:Physics]]
 
 ----
 
