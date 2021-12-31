@@ -1,12 +1,12 @@
 ==English==
 
 ===Etymology===
-Borrowed from {{bor|en|la|agricultor}}.
+From {{bor|en|la|agricultor}}.
 
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|archaic}} An [[agriculturist]]; a [[farmer]].
+# {{lb|en|archaic}} [[agriculturist]], [[farmer]]
 
 ----
 
@@ -60,10 +60,10 @@ From {{der|ca|la|agricultor}}.
 ==Latin==
 
 ===Alternative forms===
-* {{alter|la|agrī cultor}}
+* {{alt|la|agrī cultor}}
 
 ===Etymology===
-{{compound|la|agrī|cultor|t1=of the field|pos1=genitive singular of {{m|la|ager}}|t2=a cultivator}}
+From {{com|la|agrī|cultor|t1=of the field|pos1=genitive singular of {{m|la|ager}}|t2=cultivator}}
 
 ===Pronunciation===
 * {{la-IPA}}
@@ -71,19 +71,19 @@ From {{der|ca|la|agricultor}}.
 ===Noun===
 {{la-noun|agricultor<3>}}
 
-# an {{l|en|agriculturist}}, a {{l|en|farmer}}, a {{l|en|husbandman}}
+# [[agriculturist]], [[farmer]], [[husbandman]]
 
 ====Declension====
 {{la-ndecl|agricultor<3>}}
 
 ====Synonyms====
-* {{sense|farmer}} {{l|la|agricola}}
+* {{s|farmer}} {{l|la|agricola}}
 
 ====Derived terms====
-* {{l|la|agricultōrius}} {{qual|New Latin}}
+* {{l|la|agricultōrius}} {{q|[[New Latin]]}}
 
 ====Descendants====
-{{col-top|2}}
+{{top3}}
 * {{desc|ca|agricultor}}
 * {{desc|en|agricultor}}
 * {{desc|fr|agriculteur}}
@@ -92,7 +92,7 @@ From {{der|ca|la|agricultor}}.
 * {{desc|it|agricoltore}}
 * {{desc|pt|agricultor}}
 * {{desc|es|agricultor}}
-{{col-bottom}}
+{{bottom}}
 
 ===References===
 * {{R:L&S|agrĭcultor|agricultor}}
@@ -105,19 +105,21 @@ From {{der|ca|la|agricultor}}.
 ==Portuguese==
 
 ===Etymology===
-Borrowed from {{bor|pt|la|agricultor}}.
+From {{bor|pt|la|agricultor}}.
 
 ===Noun===
 {{pt-noun|m|es|agricultora|f=agricultora}}
 
-# {{l|en|farmer}} {{gloss|person who plants crops or keeps livestock}}
+# [[farmer]]
 #: {{syn|pt|fazendeiro|camponês|lavrador}}
 
 ====Related terms====
-* {{l|pt|agrícola}}
-* {{l|pt|agricultura}}
-* {{l|pt|agriculturismo}}
-* {{l|pt|agro-}}
+{{col4|pt
+|agrícola
+|agricultura
+|agriculturismo
+|agro-
+}}
 
 ===Further reading===
 * {{R:Priberam}}
@@ -129,7 +131,7 @@ Borrowed from {{bor|pt|la|agricultor}}.
 ==Romanian==
 
 ===Etymology===
-{{bor+|ro|fr|agriculteur}}, from {{der|ro|la|agricultor}}.
+From {{bor|ro|fr|agriculteur}}, from {{der|ro|la|agricultor}}.
 
 ===Pronunciation===
 * {{IPA|ro|/a.ɡri.kulˈtor/}}
@@ -137,7 +139,7 @@ Borrowed from {{bor|pt|la|agricultor}}.
 ===Noun===
 {{ro-noun|m|agricultori|f=agricultoare}}
 
-# {{l|en|farmer}} {{gloss|person who plants crops or keeps livestock}}
+# [[farmer]] 
 
 ====Declension====
 {{ro-noun-m}}
