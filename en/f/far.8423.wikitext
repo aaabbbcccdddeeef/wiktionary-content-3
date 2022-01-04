@@ -38,10 +38,10 @@ From {{inh|en|enm|ferre}}, {{m|enm|fer}}, {{inh|en|ang|feor}}, {{m|ang|feorr}}, 
 #: {{ux|en|'''far''' heap; '''far''' memory; '''far''' pointer}}
 
 =====Synonyms=====
-* {{sense|remote in space}} {{l|en|distant}}, {{l|en|far}}; see also [[Thesaurus:distant]]
+* {{sense-lite|remote in space}} {{l|en|distant}}, {{l|en|far}}; see also [[Thesaurus:distant]]
 
 =====Antonyms=====
-* {{sense|remote in space}} {{l|en|close}}, {{l|en|near}}; see also [[Thesaurus:near]]
+* {{sense-lite|remote in space}} {{l|en|close}}, {{l|en|near}}; see also [[Thesaurus:near]]
 
 =====Derived terms=====
 {{top2}}
@@ -102,7 +102,7 @@ From {{inh|en|enm|ferre}}, {{m|enm|fer}}, {{inh|en|ang|feor}}, {{m|ang|feorr}}, 
 * Catalan: {{tt+|ca|enllà}}, {{tt+|ca|ençà}}
 * Chinese:
 *: Mandarin: {{tt+|cmn|遠|alt=遠的|sc=Hani}}, {{tt+|cmn|远|alt=远的|tr=yuǎn de|sc=Hani}}, {{tt+|cmn|遠離|alt=遠離的|sc=Hani}}, {{tt+|cmn|远离|alt=远离的|tr=yuǎnlí de|sc=Hani}}, {{tt+|cmn|更遠|alt=更遠的|sc=Hani}}, {{tt+|cmn|更远|alt=更远的|tr=gèngyuǎn de|sc=Hani}}
-* Finnish: {{tt+|fi|kaukana}} {{q|adverb}}, {{tt+|fi|kauas}} {{q|adverb; to}}, {{tt+|fi|kaukaa}} {{q|adverb; from}}; {{tt+|fi|etäällä}} {{q|adverb}}, {{tt+|fi|etäälle}} {{q|adverb; to}}, {{tt+|fi|etäältä}} {{q|adverb; from}}; {{tt+|fi|kaukainen}} {{q|adjective}}, {{tt+|fi|etäinen}} {{q|adjective}}
+* Finnish: {{tt+|fi|kaukana}} {{q-lite|adverb}}, {{tt+|fi|kauas}} {{q-lite|adverb; to}}, {{tt+|fi|kaukaa}} {{q-lite|adverb; from}}; {{tt+|fi|etäällä}} {{q-lite|adverb}}, {{tt+|fi|etäälle}} {{q-lite|adverb; to}}, {{tt+|fi|etäältä}} {{q-lite|adverb; from}}; {{tt+|fi|kaukainen}} {{q-lite|adjective}}, {{tt+|fi|etäinen}} {{q-lite|adjective}}
 * French: {{tt+|fr|loin}}
 * Hungarian: {{tt+|hu|messze}}, {{tt+|hu|távol}}, {{tt|hu|messzire}}
 {{trans-mid}}
@@ -409,7 +409,7 @@ From {{inh|hu|urj-pro|*ponče||tail}}.<ref>{{R:Aikio 2018}}</ref> Older hypothes
 
 ====Derived terms====
 * {{l|hu|farol}}
-{{q|Compound words}}:
+{{q-lite|Compound words}}:
 * {{l|hu|farzseb}}
 
 ===References===
@@ -490,7 +490,7 @@ The nominative-accusative singular form scans as a long syllable in Ovid (cited 
 ===Noun===
 {{la-noun|far/farr<3.N>}}
 
-# [[farro]], a type of hulled wheat. {{gloss|Most likely [[emmer]] (''Triticum dicoccum'' or ''Triticum turgidum subsp. dicoccon'') but often mistranslated as [[spelt]]  (''[[Triticum spelta]]'')}}  <ref>[https://www.jstor.org/stable/703297 Thompson, D'Arcy W. “Wheat in Antiquity.” The Classical Review, vol. 60, no. 3, 1946, pp. 120–122. JSTOR. Accessed 6 June 2021.]</ref>  <ref>[https://www.eruditio-antiqua.mom.fr/vol6/EA6k.Glinister.pdf Glinister, Fay “Festus and Ritual Foodstuffs.” Eruditio Antiqua 6 (2014), pp. 215-227.]</ref>
+# [[farro]], a type of hulled wheat. {{gloss-lite|Most likely [[emmer]] (''Triticum dicoccum'' or ''Triticum turgidum subsp. dicoccon'') but often mistranslated as [[spelt]]  (''[[Triticum spelta]]'')}}  <ref>[https://www.jstor.org/stable/703297 Thompson, D'Arcy W. “Wheat in Antiquity.” The Classical Review, vol. 60, no. 3, 1946, pp. 120–122. JSTOR. Accessed 6 June 2021.]</ref>  <ref>[https://www.eruditio-antiqua.mom.fr/vol6/EA6k.Glinister.pdf Glinister, Fay “Festus and Ritual Foodstuffs.” Eruditio Antiqua 6 (2014), pp. 215-227.]</ref>
 #* {{Q|la|Ovid|Fasti|1|338|quote= ante, deos homini quod conciliare valeret, / '''far''' erat et puri lucida mica salis. |trans=of old, the means to win the goodwill of the gods were '''far''' and sparkling grains of pure salt}}<small>― Fay Glinister, “[https://www.eruditio-antiqua.mom.fr/vol6/EA6k.Glinister.pdf Festus and Ritual Foodstuffs]” p. 220</small>
 # coarse [[meal]]; [[grits]]
 
@@ -1024,7 +1024,7 @@ Borrowed from {{bor|tr|fr|fard}}.
 {{tr-infl-noun-c|a|poss=1}}
 
 =====Synonyms=====
-* {{sense|eye shadow}} {{l|tr|göz farı}}
+* {{sense-lite|eye shadow}} {{l|tr|göz farı}}
 
 [[Category:tr:Cosmetics]]
 [[Category:tr:Light sources]]
