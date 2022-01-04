@@ -11,10 +11,10 @@ From {{bor|mul|la||herba Paris (Herba Paris), Paris herba}}, from {{der|mul|la|h
 # {{taxon|genus|family|Melanthiaceae|[[herb Paris]] and its relatives, native to Asia and Europe}}
 
 ====Hypernyms====
-* {{sense|genus}} {{Melanthiaceae Hypernyms}}; {{taxlink|Parideae|tribe|ver=161027}}&nbsp;- tribe
+* {{sense-lite|genus}} {{Melanthiaceae Hypernyms}}; {{taxlink|Parideae|tribe|ver=161027}}&nbsp;- tribe
 
 ====Hyponyms====
-* {{sense|genus}} ''[[Paris quadrifolia]]''&nbsp;- type species; for other species see {{specieslite|i=1}}
+* {{sense-lite|genus}} ''[[Paris quadrifolia]]''&nbsp;- type species; for other species see {{specieslite|i=1}}
 
 ===References===
 * {{pedia|Paris (genus)|Paris|i=1}}
@@ -36,7 +36,7 @@ From {{bor|mul|la||herba Paris (Herba Paris), Paris herba}}, from {{der|mul|la|h
 * {{a|GA|Mmmm}} {{IPA|en|/ˈpɛɹ.ɪs/}}
 * {{audio|en|en-us-Paris.ogg|Audio (US)}}
 * {{audio|en|En-Paris.ogg|Audio}}
-* {{homophones|en|Perris}} {{q|in accents with the ''Mary–marry–merry'' merger}}
+* {{homophones|en|Perris}} {{q-lite|in accents with the ''Mary–marry–merry'' merger}}
 
 ===Etymology 1===
 From {{inh|en|enm|Parys}}, {{m|enm|Paris}}, from {{der|en|fro|Paris}}, from the {{cog|LL.|-}} name of an earlier settlement, {{m|la||{{w|Lutetia Parisiorum}}|Lutetia of the Parisii}}, from {{der|en|la|Parīsiī}}, a {{der|en|cel-gau|-}} tribe.
@@ -75,8 +75,8 @@ From {{inh|en|enm|Parys}}, {{m|enm|Paris}}, from {{der|en|fro|Paris}}, from the 
 # {{place|en|unincorporated community|s/Oregon|;|named for postmaster G. E. [[Parris]]}}.
 
 =====Alternative forms=====
-* {{sense|capital city of France}} {{alter|en|Paree||humorous|deliberate misspelling}}
-* {{sense|English habitational surname}} {{alter|en|Parish|Parris|Parrish|Pares}}
+* {{sense-lite|capital city of France}} {{alter|en|Paree||humorous|deliberate misspelling}}
+* {{sense-lite|English habitational surname}} {{alter|en|Parish|Parris|Parrish|Pares}}
 
 =====Derived terms=====
 {{der4|en
@@ -95,7 +95,7 @@ From {{inh|en|enm|Parys}}, {{m|enm|Paris}}, from {{der|en|fro|Paris}}, from the 
 * Albanian: {{t|sq|Paris|m}}
 * Amharic: {{t|am|ፓሪስ}}, {{t|am|ፓሪ}} {{a|French form}}
 * Antillean Creole: {{t|gcf|Pawi|m}}
-* Arabic: {{t|ar|بَارِيس|f}}, {{qualifier|archaic}} {{t|ar|بَارِيز|f}}
+* Arabic: {{t|ar|بَارِيس|f}}, {{qualifier-lite|archaic}} {{t|ar|بَارِيز|f}}
 *: Gulf Arabic: {{t|afb|باريس|f|tr=bārīs}}, {{t|afb|پاريس|f|tr=pārīs}}
 *: Hijazi Arabic: {{t|acw|باريس|f|tr=bārīs}}, {{t|acw|پاريس|f|tr=pārīs}}
 * Aragonese: {{t|an|París|m}}
@@ -151,12 +151,12 @@ From {{inh|en|enm|Parys}}, {{m|enm|Paris}}, from {{der|en|fro|Paris}}, from the 
 * Kashubian: {{t|csb|Pariz}}
 * Kazakh: {{t|kk|Париж}}
 * Khmer: {{t+|km|ប៉ារីស}}
-* Korean: {{t+|ko|^파리}}, {{t+|ko|^빠리}} {{qualifier|North Korea}}
+* Korean: {{t+|ko|^파리}}, {{t+|ko|^빠리}} {{qualifier-lite|North Korea}}
 * Kurdish:
 *: Northern Kurdish: {{t+|kmr|Parîs}}
 * Kyrgyz: {{t|ky|Париж}}
 * Lao: {{t|lo|ປາລີ}}
-* Latin: {{t|la|Parīsius|m}} {{qual|New Latin}}, {{t|la|Lutetia Parisiorum|f}}, {{t|la|Lutetia|f}} {{qual|Contemporary Latin}}
+* Latin: {{t|la|Parīsius|m}} {{q-lite|New Latin}}, {{t|la|Lutetia Parisiorum|f}}, {{t|la|Lutetia|f}} {{q-lite|Contemporary Latin}}
 {{trans-mid}}
 * Latvian: {{t|lv|Parīze|f}}
 * Lithuanian: {{t+|lt|Paryžius|m}}
@@ -216,13 +216,13 @@ From {{inh|en|enm|Parys}}, {{m|enm|Paris}}, from {{der|en|fro|Paris}}, from the 
 * Urdu: {{t|ur|پیرس|tr=peris}}
 * Uyghur: {{t|ug|پارىژ}}
 * Uzbek: {{t|uz|Parij}}
-* Vietnamese: {{t|vi|Pa-ri}}, {{t+|vi|Ba Lê}} {{qualifier|dated}}, {{t|vi|Pha Lí}}
+* Vietnamese: {{t|vi|Pa-ri}}, {{t+|vi|Ba Lê}} {{qualifier-lite|dated}}, {{t|vi|Pha Lí}}
 * Welsh: {{t|cy|Paris}}
 * West Flemish: {{t|vls|Parys|n}}
 * West Frisian: {{t|fy|Parys|n}}
 * Yakut: {{t|sah|Париж}}
 * Yiddish: {{t|yi|פּאַריז|n}}
-* Zazaki: {{qualifier|Southern Zazaki}} {{t|zza|Paris}}
+* Zazaki: {{qualifier-lite|Southern Zazaki}} {{t|zza|Paris}}
 * Zhuang: {{t|za|Bahliz}}
 {{trans-bottom}}
 
@@ -394,7 +394,7 @@ From {{bor|da|grc|Πάρις}}
 ====Proper noun====
 {{head|da|proper noun}}
 
-# {{lb|da|mythology}} Paris {{q|prince of Troy, abductor of Helen}}
+# {{lb|da|mythology}} Paris {{q-lite|prince of Troy, abductor of Helen}}
 
 ----
 
