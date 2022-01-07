@@ -1,31 +1,66 @@
 ==English==
+{{was wotd|2022|January|11}}
 
 ===Etymology===
-From {{etyl|la|en}} {{lena}} {{m|la|nummularius}}, from {{m|la|nummulus}}, diminutive of {{m|la|nummus||a coin}}: compare {{cog|fr|nummulaire}}.
+{{multiple images
+|direction = vertical
+|image1 = Early medieval, Enamelled nummular brooch (FindID 839240).jpg
+|caption1 = A nummular ''(sense 2)'' or [[coin#Noun|coin]]-[[shaped#Adjective|shaped]] [[brooch#Noun|brooch]] [[date#Verb|dating]] to 900–1100 {{C.E.}} [[unearth]]ed in [[Oxfordshire]], [[England]], [[United Kingdom]].
+|image2 = هذه بعض من اعراض المرض 2014-05-10 15-42.jpg
+|caption2 = Nummular [[dermatitis]] ''(sense 2.1)'', a [[skin#Noun|skin]] [[inflammation]], is [[characterize]]d by coin-shaped [[lesion#Noun|lesions]].
+}}
+
+{{root|en|ine-pro|*nem-}}
+From {{der|en|la|nummulus|t=(small amount of) money}} + [[w:English language|English]] {{m|en|-ar|pos={{glossary|suffix}} forming {{glossary|adjective}}s with the sense ‘of, pertaining to, or near’}}.<ref>{{R:OED Online|pos=adj|id=129155|date=December 2021|nodot=1}}; {{R:Lexico|pos=adj}}</ref> {{m|la||Nummulus}} is the {{glossary|diminutive}} of {{m|la|nummus|t=a coin; piece of money}} + {{m|la|-ulus|pos=diminutive suffix}}; while {{m|la||nummus}} is from {{der|en|grc-dor|νοῦμμος}}, from {{der|en|grc|νόμος|t=kind of coin}}, from {{m|grc|νέμω|t=to deal out, dispense, distribute}} (from {{der|en|ine-pro|*nem-|t=to distribute; to give; to take}}) + {{m|grc|-ος|pos=suffix forming {{glossary|noun}}s}}.
 
 ===Pronunciation===
-* {{IPA|en|/ˈnʌm.jʊ.lə(ɹ)/}}
-* {{audio|en|LL-Q1860 (eng)-Vealhurl-nummular.wav |Audio (Southern England)}}
+* {{a|RP}} {{IPA|en|/ˈnʌmjʊlə/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-nummular.wav|Audio (Southern England)}}
+* {{a|GA}} {{IPA|en|/ˈnʌmjʊlɚ/}}
+* {{hyphenation|en|num|mul|ar}}
 
 ===Adjective===
 {{en-adj}}
 
-# Of or relating to [[coin]]s or [[money]].
-# Coin-[[shaped]]; flattened, with a rounded form, as [[disk]].
-# {{lb|en|medicine}} Characterized by round lesions.
+# {{lb|en|obsolete|rare}} Of or relating to [[coin#Noun|coins]] or [[money]].
+#: {{synonyms|en|monetary|numismatic|nummary|nummulary}}
+# {{lb|en|by extension}} [[flattened#Adjective|Flattened]] with a [[rounded#Adjective|rounded]] [[form#Noun|form]], as a [[disc#Noun|disc]]; coin-[[shaped#Adjective|shaped]].
+#: {{synonyms|en|coinlike}}
+## {{lb|en|pathology}} [[characterize|Characterized]] by [[lesion#Noun|lesions]] (especially on the [[cornea]] or [[skin#Noun|skin]]) which are [[round#Adjective|round]] with [[well-defined]] [[border#Noun|borders]].
+## {{lb|en|pathology|obsolete}} Of [[sputum]] which has been [[spit#Verb|spat]] out: [[form#Verb|forming]] [[flat#Adjective|flat]], round [[shape#Noun|shapes]] ([[formerly]] [[think#Verb|thought]] to be a [[symptom]] of [[tuberculosis]]).
+##: {{synonyms|en|q1=obsolete, rare|nummulary|q2=obsolete|nummulated}}
 
 ====Related terms====
-* {{l|en|nummary}}
+{{col3|en
+|nummary
+|[[nummulary]] {{qualifier|obsolete or rare}}
+|[[nummulated]] {{qualifier|adjective|obsolete}}
+|[[nummuline]] {{qualifier|obsolete}}
+|nummulite
+|nummulitic
+|nummulitid
+|nummus
+}}
 
 ====Translations====
-{{trans-see|numismatic}}
-
-{{trans-top|coin-shaped}}
-* Portuguese: {{t|pt|numular}}
+{{trans-top|flattened with a rounded form; coin-shaped}}
+* French: {{t+|fr|nummulaire}}
 {{trans-mid}}
+* Portuguese: {{t|pt|numular}}
 {{trans-bottom}}
 
-{{trans-top|characterized by round lesions}}
-* Portuguese: {{t|pt|numular}}
+{{trans-top|characterized by lesions which are round with well-defined borders}}
+* French: {{t+|fr|nummulaire}}
 {{trans-mid}}
+* Portuguese: {{t|pt|numular}}
 {{trans-bottom}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{pedia|coin}}
+* {{pedia|2=nummular (disambiguation)}}
+
+[[Category:English words suffixed with -ar]]
+[[Category:Coins]]
