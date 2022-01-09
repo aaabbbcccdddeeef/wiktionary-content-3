@@ -15,8 +15,8 @@ From {{der|en|grc|εἰκοσάεδρον}}, from {{m|grc|εἴκοσι||twenty}
 ===Noun===
 {{en-noun|icosahedra|s}}
 
-# {{lb|en|geometry}} A [[polyhedron]] with [[twenty]] [[face]]s.
-# {{lb|en|geometry|specifically}} A [[regular]] icosahedron: one of the [[Platonic solid]]s, all of whose faces are [[regular]] ([[equilateral]]) triangles
+# {{lb|en|geometry|nocat=1}} A [[polyhedron]] with [[twenty]] [[face]]s.
+# {{lb|en|geometry|specifically|nocat=1}} A [[regular]] icosahedron: one of the [[Platonic solid]]s, all of whose faces are [[regular]] ([[equilateral]]) triangles
 
 ====Related terms====
 * {{l|en|icosahedral}}
@@ -38,7 +38,7 @@ From {{der|en|grc|εἰκοσάεδρον}}, from {{m|grc|εἴκοσι||twenty}
 * Icelandic: {{t|is|tuttuguflötungur|m}}
 {{trans-mid}}
 * Ido: {{t+|io|ikosaedro}}
-* Japanese: {{t|ja|二十面体|tr=にじゅうめんたい, nijūmentai}}, {{t|ja|正二十面体|tr=せいにじゅうめんたい, seinijūmentai}}
+* Japanese: {{t|ja|二十面体|tr=にじゅうめんたい, nijūmentai}}
 * Korean: {{t|ko|이십면체}}
 * Norwegian:
 *: Bokmål: {{t|nb|ikosaeder|n}}
@@ -48,5 +48,10 @@ From {{der|en|grc|εἰκοσάεδρον}}, from {{m|grc|εἴκοσι||twenty}
 * Spanish: {{t+|es|icosaedro|m}}
 * Swedish: {{t+|sv|ikosaeder|c}}
 {{trans-bottom}}
+{{trans-top|regular icosahedron}}
+* Japanese: {{t|ja|正二十面体|tr=せいにじゅうめんたい, seinijūmentai}}
+{{trans-mid}}
+{{trans-bottom}}
 
+[[Category:en:Shapes]]
 [[Category:en:Twenty]]
