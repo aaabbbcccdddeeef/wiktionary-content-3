@@ -16,8 +16,10 @@ From {{prefix|en|non|trivial}}
 {{en-adj}}
 
 # Not [[trivial]].
-# {{lb|en|mathematics}} Not obvious or easy to prove; sometimes specifically involving at least one [[non-zero]] value.
-# {{lb|en|computing}} Needing significant computing power to solve; [[intractable]].
+## {{lb|en|mathematics}} Not obvious or easy to prove; not [[self-evident]].
+## {{lb|en|mathematics}} Not being of the simplest kind; not being [[empty]] or a [[singleton]].
+##: {{uxi|en|'''nontrivial''' [[subgroup]]|t=a subgroup '''with more than one element'''}}
+## {{lb|en|computing}} Needing significant computing power to solve; [[intractable]].
 
 ====Derived terms====
 * {{l|en|nontrivially}}
@@ -32,6 +34,12 @@ From {{prefix|en|non|trivial}}
 
 {{trans-top|mathematics: not obvious or easy to prove}}
 * Finnish: {{t|fi|ei-triviaali}}
+{{trans-mid}}
+* German: {{t+|de|nichttrivial}}
+* Romanian: {{t|ro|netrivial}}
+{{trans-bottom}}
+
+{{trans-top|mathematics: not of the simplest kind}}
 {{trans-mid}}
 * German: {{t+|de|nichttrivial}}
 * Romanian: {{t|ro|netrivial}}
