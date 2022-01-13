@@ -1,6 +1,6 @@
 {{also|Sand|sänd}}
 ==English==
-{{wikipedia}}
+{{wp}}
 [[Image:Footprints in sand.JPG|thumb|right|200px|[[footprint|Footprint]]s in '''sand''']]
 
 ===Pronunciation===
@@ -204,7 +204,7 @@ From {{inh|enm|ang|sand}}, from {{inh|enm|gem-pro|*samdaz}}, from {{inh|enm|ine-
 ----
 
 ==Norwegian Bokmål==
-{{wikipedia|lang=nb|Sand (materiale)}}
+{{wp|lang=nb|Sand (materiale)}}
 
 ===Etymology===
 From {{inh|nb|non|sandr||sand, sandy ground, sandbanks}}, from {{inh|nb|gem-pro|*samdaz||sand}}, from {{inh|nb|ine-pro|*sámh₂dʰos||sand}}.
@@ -235,6 +235,9 @@ From {{inh|nb|non|sandr||sand, sandy ground, sandbanks}}, from {{inh|nb|gem-pro|
 |sandstrand
 }}
 
+===References===
+* {{R:BD}}
+
 ----
 
 ==Norwegian Nynorsk==
@@ -249,12 +252,13 @@ From {{inh|nn|non|sandr}}, from {{inh|nn|gem-pro|*samdaz}}, {{m|gem-pro|*sandaz}
 ===Noun===
 {{nn-noun-m1}}
 
-# {{lb|nn|collective|uncountable}} {{l|en|sand}}
+# {{senseid|nn|sand}} {{lb|nn|collective|uncountable}} {{l|en|sand}}
+#* {{quote-book|nn|year=1983|last=Kaldhol|first=Marit|authorlink=Marit Kaldhol|title=Lattermilde laken|location=Oslo|publisher=Samlaget|page=87|passage=når tårene renn vekk i '''sanda'''|translation=when the tears run away into '''the sand'''}}
 # {{lb|nn|countable}} a [[sandy]] [[riverbank]]
 #: {{syn|nn|sandøyr}}
 
 ====Usage notes====
-* In some dialects, especially in central Eastern Norway, feminine gender is used instead. Also using the definite singular form {{m|nn|sanda}}.
+* In some dialects, especially in central Eastern Norway, feminine gender is used instead. Also using the definite singular form {{m|nn|sanda}}. Confer with above quotations.
 
 ====Derived terms====
 {{Template:User:Donnanz/der3-u|lang=nn
@@ -270,6 +274,7 @@ From {{inh|nn|non|sandr}}, from {{inh|nn|gem-pro|*samdaz}}, {{m|gem-pro|*sandaz}
 |oljesand
 |renne ut i sanden
 |sandbakke
+|sandbakkels
 |sandbanke
 |sandblåse
 |sandbotn
@@ -346,7 +351,7 @@ From {{inh|ang|gem-pro|*samdaz}}, from {{inh|ang|ine-pro|*sámh₂dʰos}}. Compa
 ====Noun====
 {{ang-noun|n}}
 
-# [[#English|sand]], [[gravel]]
+# {{l|en|sand}}, [[gravel]]
 # sand by the sea, sands, [[seashore]], sandy shore, [[beach]]
 
 =====Derived terms=====
@@ -354,6 +359,15 @@ From {{inh|ang|gem-pro|*samdaz}}, from {{inh|ang|ine-pro|*sámh₂dʰos}}. Compa
 
 =====Descendants=====
 * {{desctree|enm|sand}}
+
+----
+
+==Old Norse==
+
+===Noun===
+{{head|non|noun form|g=m}}
+
+# {{infl of|non|sandr||acc|s}}
 
 ----
 
