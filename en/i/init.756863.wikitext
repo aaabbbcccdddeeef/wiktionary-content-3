@@ -32,24 +32,38 @@ See {{m|en|innit}}.
 
 ----
 
+==Bikol Central==
+
+===Pronunciation===
+* {{hyph|bcl|i|nit}}
+* {{bcl-IPA}}
+
+====Noun===
+{{head|bcl|noun}}
+
+# [[heat]]; [[warmth]]
+
+----
+
 ==Cebuano==
 
 ===Pronunciation===
-* {{hyphenation|ceb|i|nit}}
+* {{hyph|ceb|i|nit}}
+* {{ceb-IPA}}
 
 ===Noun===
-{{head|ceb|noun}}
+{{ceb-noun}}
 
-# [[heat]]; [[warmth]]; [[temperature]].
+# [[heat]]; [[warmth]]; [[temperature]]
 
 ===Adjective===
-{{head|ceb|adjective}}
+{{ceb-adj}}
 
 # [[hot]]; [[warm]]; [[humid]].
 # [[bright|Bright]] and [[sunny]].
 
 ===Verb===
-{{head|ceb|verb}}
+{{ceb-verb}}
 
 # To [[heat]].
 # To [[keep]] or [[make]] [[warm]].
@@ -132,18 +146,32 @@ From {{bor|sga|la|initium|t=beginning}}, as it refers to the beginning of Lent.
 ==Tagalog==
 
 ===Etymology===
-From {{der|tl|map-pro|*qaŋet}}
+From {{inh|tl|map-pro|*qaŋet}}. Compare {{cog|bcl|init}}, {{cog|ceb|init}}, {{cog|cyo|init}}, and {{cog|hil|init}}.
 
 ===Pronunciation===
-* {{IPA|tl|/ˈʔi.nit/}}
+* {{hyph|tl|i|nit}}
+* {{tl-IPA}}
 
 ===Noun===
-{{head|tl|noun}}
+{{tl-noun}}
 
-# [[heat]]; [[warmth]]; [[temperature]]
-#: ''Natuyo sa '''init''' ng apoy ang mga basa kong kamay.''
-#:: My wet hands got dry from the '''heat''' of the fire.
-# [[swelter]], sweltering conditions
-# [[ardor]], [[fervor]]
+# [[heat]]; [[hotness]]
+#: {{syn|tl|kainitan}}
+#: {{ux|tl|Natuyo sa '''init''' ng apoy ang mga basa kong kamay.|My wet hands got dry from the '''heat''' of the fire.}}
+# [[warmth]]; [[sultriness]] {{gl|of weather}}
+#: {{syn|tl|banas|alisis|alinsangan}}
+# [[temperature]]
+#: {{syn|tl|temperatura|kaintan}}
+# {{lb|tl|figurative}} [[ardor]]; [[fervor]]; [[excitement]]
+#: {{syn|tl|sigla|kasiglahan}}
+# {{lb|tl|figurative}} [[ire]]; [[anger]]; [[warth]]
+#: {{syn|tl|galit|ngitngit|poot}}
+# {{lb|tl|by extension}} [[sexual]] [[desire]]
+#: {{syn|tl|libog|kaibugan}}
+# {{lb|tl|by extension}} [rut]]; [[estrus]] {{gl|in animals}}
+#: {{syn|tl|kandi|pangangandi|landi|paglalandi}}
+
+====Derived terms====
+{{der3|tl|kainitan|magpainit|painitin|magkainitan|magpainit|mainit|initin|initan|mainit ang ulo|mapag-initan|napakainit|pampainit|tag-init|uminit|walang-init}}
 
 {{topics|tl|Energy}}
