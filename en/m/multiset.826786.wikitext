@@ -8,6 +8,7 @@
 {{en-noun}}
 
 # {{lb|en|set theory}} A generalized type of [[set]] in which multiple occurrences of an [[element]] are permitted.
+#: {{syn|en|bag|mset}}
 #: {{ux|en|Two words are anagrams if they are made up of the same '''multiset''' of letters.}}
 #* '''2002''', Gheorghe Pǎun, ''Membrane Computing: An Introduction'', Springer, [https://books.google.com.au/books?id=8CE3BZ7y_kIC&pg=PA50&dq=%22multiset%22%7C%22multisets%22&hl=en&sa=X&ved=0ahUKEwiFtLr20ZTcAhXGv7wKHYtBAdYQ6AEIZzAN#v=onepage&q=%22multiset%22%7C%22multisets%22&f=false page 49],
 #*: Membrane computing essentially deals with '''multisets''', which are sets with multiplicities associated with their elements.
@@ -15,12 +16,6 @@
 #*: A ''partition'' of a positive integer ''n'' is a '''multiset''' of positive integers that add up to exactly ''n'', and an ''integer partition'' of a '''multiset''' ''S'' of integers is defined as the '''multiset''' union of partitions of integers in ''S''.
 #* '''2012''', Edward A. Scheinerman, ''Mathematics: A Discrete Introduction'' Brooks/Cole (Cengage Learning), [https://books.google.com.au/books?id=DZBHGD2sEYwC&pg=PA102&dq=%22multiset%22%7C%22multisets%22&hl=en&sa=X&ved=0ahUKEwiFtLr20ZTcAhXGv7wKHYtBAdYQ6AEIYTAM#v=onepage&q=%22multiset%22%7C%22multisets%22&f=false page 102],
 #*: Two '''multisets''' are the same provided they contain the same elements with the same multiplicities. For example, {1, 2, 3, 3} = {3, 1, 3, 2}, but {1, 2, 3, 3} ≠ {1, 2, 3, 3, 3}.
-
-====Synonyms====
-* {{sense|generalized type of set that may contain multiple occurrences of elements}} {{l|en|bag}}, {{l|en|mset}}.
-
-====Hyponyms====
-* {{sense|generalized type of set that may contain multiple occurrences of elements}} {{l|en|set}}
 
 ====Related terms====
 * {{l|en|multisubset}}
