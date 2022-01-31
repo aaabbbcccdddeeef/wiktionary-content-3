@@ -338,11 +338,11 @@ Borrowed from {{bor|en|frm|masque|t=a covering to hide or protect the face}}, fr
 * {{l|en|mascara}}
 
 =====Translations=====
-{{trans-top|cover, as the face, by way of concealment or defense against injury}}
+{{trans-top|to cover, as the face}}
 * Bulgarian: {{t|bg|маскирам се}}
 * Catalan: {{t+|ca|emmascarar}}
 * Dutch: {{t+|nl|maskeren}}
-* Finnish: {{t+|fi|peittää}}
+* Finnish: {{t+|fi|peittää}}, {{t|fi|naamioida}}
 * German: {{t+|de|maskieren}}
 {{trans-mid}}
 * Icelandic: {{t+|is|gríma}}
@@ -351,7 +351,7 @@ Borrowed from {{bor|en|frm|masque|t=a covering to hide or protect the face}}, fr
 * Spanish: {{t+|es|enmascarar}}
 {{trans-bottom}}
 
-{{trans-top|disguise; to cover; to hide}}
+{{trans-top|to disguise as something else}}
 * Bulgarian: {{t+|bg|маскирам}}
 * Catalan: {{t+|ca|emmascarar}}
 * Finnish: {{t|fi|naamioida}}
@@ -363,27 +363,55 @@ Borrowed from {{bor|en|frm|masque|t=a covering to hide or protect the face}}, fr
 * Swedish: {{t+|sv|maskera}}
 {{trans-bottom}}
 
-{{trans-top|(military) conceal; also, to intervene in the line of}}
-* Finnish: {{t+|fi|kätkeä}}, {{t+|fi|peittää}}
+{{trans-top|to conceal from view or knowledge}}
+* Finnish: {{t+|fi|peittää}}, {{t+|fi|kätkeä}}, {{t|fi|salata}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|(military) cover or keep in check}}
+{{trans-top|military: to conceal}}
+* Finnish: {{t+|fi|kätkeä}}, {{t+|fi|peittää}}, {{t|fi|naamioida}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|military: to cover or keep in check}}
 * Finnish: {{t+|fi|pidätellä}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|take part as a masker in a masquerade}}
+{{trans-top|to take part as a masker in a masquerade}}
 * Finnish: {{t|fi|[[pitää]] [[naamio]]ta}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-top|wear a mask; to be disguised in any way}}
+{{trans-top|to wear a mask}}
 * Esperanto: {{t|eo|maski}}
-* Finnish: {{t|fi|[[pitää]] [[naamio]]ta}}, {{t|fi|[[pitää]] [[naamari]]a}}, {{t|fi|[[pitää]] [[maski]]a}}
-* German: {{t+|de|maskieren|alt=sich maskieren}}
+* Finnish: {{t|fi|[[käyttää]] [[maskia]]}}; {{t|fi|[[pitää]] [[naamio]]ta}}, {{t|fi|[[pitää]] [[naamari]]a}}
 {{trans-mid}}
+* German: {{t+|de|maskieren|alt=sich maskieren}}
 * Romanian: {{t+|ro|masca|alt=a se masca}}
+{{trans-bottom}}
+
+{{trans-top|to disguise oneself}}
+* Finnish: {{t|fi|naamioitua}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to conceal or disguise one's autism}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|to cover or shield a part of a design or picture}}
+* Finnish: {{t|fi|maskata}}, {{t|fi|peittää}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|computing: to use bitmask}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|computing: to disable by setting or unsetting the associated bit}}
+* Finnish: {{t|fi|piilottaa}}
+{{trans-mid}}
 {{trans-bottom}}
 
 {{checktrans-top}}
