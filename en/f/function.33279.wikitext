@@ -672,6 +672,7 @@ From {{bor|en|frm|function}}, from {{der|en|fro|fonction}}, from {{der|en|la|fun
 
 ====Translations====
 {{trans-top|to have a function}}
+* Czech: {{t+|cs|fungovat|impf}}
 * Danish: {{t|da|fungere}}
 * Dutch: {{t+|nl|fungeren}}, {{t+|nl|dienen}}
 * Finnish: {{t+|fi|toimia}}
@@ -683,16 +684,20 @@ From {{bor|en|frm|function}}, from {{der|en|fro|fonction}}, from {{der|en|la|fun
 {{trans-mid}}
 * Irish: {{t|ga|feidhmigh}}
 * Italian: {{t+|it|funzionare}}, {{t|it|fungere}}
-* Japanese: {{t|ja|作用する|tr=sayō-suru}}, {{t+|ja|動く|tr=[[うごく]], ugoku}}
+* Japanese: {{t+|ja|作用|tr=さよする, sadō suru|alt=作用する}}, {{t+|ja|動く|tr=うごく, ugoku}}
 * Portuguese: {{t+|pt|funcionar}}
+* Russian: {{t+|ru|функциони́ровать|impf}}
 * Spanish: {{t+|es|fungir}}, {{t+|es|servir}}
 * Swedish: {{t+|sv|fungera}}, {{t+|sv|tjänstgöra}}, {{t+|sv|verka}}
 {{trans-bottom}}
 
 {{trans-top|to carry on a function}}
 * Armenian: {{t+|hy|գործել}}, {{t+|hy|աշխատել}}, {{t+|hy|բանել}}
-* Bulgarian: {{t+|bg|функционирам|sc=Cyrl}}
+* Bulgarian: {{t+|bg|функциони́рам|impf|pf}}
+* Chinese:
+*: Mandarin: {{t+|cmn|工作|tr=gōngzuò}}, {{t+|cmn|運行}}, {{t+|cmn|运行|tr=yùnxíng}}, {{t+|cmn|運轉}}, {{t+|cmn|运转|tr=yùnzhuǎn}}
 * Catalan: {{t+|ca|funcionar}}
+* Czech: {{t+|cs|fungovat|impf}}
 * Danish: {{t|da|fungere}}, {{t|da|virke}}
 * Dutch: {{t+|nl|functioneren}}
 * Esperanto: {{t|eo|funkcii}}
@@ -707,7 +712,8 @@ From {{bor|en|frm|function}}, from {{der|en|fro|fonction}}, from {{der|en|la|fun
 * Irish: {{t|ga|feidhmigh}}
 {{trans-mid}}
 * Italian: {{t+|it|funzionare}}
-* Japanese: {{t|ja|機能する|tr=kinō-suru}}
+* Japanese: {{t+|ja|作動|tr=さどうする, sadō suru|alt=作動する}}, {{t+|ja|機能|tr=きのうする, kinō suru|alt=機能する}}, {{t+|ja|作用|tr=さようする, sayō suru|alt=作用する}}, {{t+|ja|動く|tr=うごく, ugoku}}
+* Korean: {{t+|ko|작동하다}}, {{t+|ko|작용하다}}
 * Malay: {{t|ms|berfungsi}}
 * Nepali: {{t+|ne|चल्नु}}
 * Norman: {{t|nrf|marchi}}
@@ -715,7 +721,7 @@ From {{bor|en|frm|function}}, from {{der|en|fro|fonction}}, from {{der|en|la|fun
 * Portuguese: {{t+|pt|funcionar}}
 * Quechua: {{t|qu|llamk'ay}}
 * Romanian: {{t+|ro|funcționa}}
-* Russian: {{t+|ru|функциони́ровать|impf|sc=Cyrl}}
+* Russian: {{t+|ru|функциони́ровать|impf}}, {{t+|ru|рабо́тать|impf}}, {{t+|ru|идти́|impf}} {{qualifier|clock, watch}}
 * Spanish: {{t+|es|funcionar}}, {{t+|es|fungir}}, {{t+|es|marchar}}
 * Swedish: {{t+|sv|fungera}}, {{t+|sv|tjänstgöra}}
 * Ukrainian: {{t|uk|функціонува́ти|impf}}
