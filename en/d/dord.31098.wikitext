@@ -58,28 +58,32 @@ From {{inh|ga|sga|dord|t=buzzing, humming, droning, intoning}}.
 
 ----
 
-==Middle Irish==
+==Old Irish==
 
 ===Etymology===
-From {{inh|sga|cel-pro|*dor-d-}}, from {{onomatopoeic|mga|title=imitative}} {{der|sga|ine-pro|-}} root {{m|ine-pro|*dʰer-}}, {{m|ine-pro|*dʰrēn-||drone; to murmur}}, see also {{cog|en|drone}}, {{m|en|dor}} and {{cog|grc|θρῆνος||dirge, lament}}.
+From {{inh|sga|cel-pro|*dor-d-}}, from {{onomatopoeic|sga|title=imitative}} {{der|sga|ine-pro|-}} root {{m|ine-pro|*dʰer-}}, {{m|ine-pro|*dʰrēn-||drone; to murmur}}, see also {{cog|en|drone}}, {{m|en|dor}} and {{cog|grc|θρῆνος||dirge, lament}}.
+
+===Pronunciation===
+* {{IPA|sga|[dor͈d]}}
 
 ===Noun===
-{{mga-noun}}
+{{sga-noun|m|duird}}
 
 # [[buzz]], [[hum]], [[drone]]
 
 ====Inflection====
-{{rfinfl|mga|noun}}
+{{sga-decl-o-masc|n=s|duird}}
 
 ====Derived terms====
 * {{l|sga|dordaid}}
+* {{l|sga|fodord}}
 
 ====Descendants====
 * {{desc|ga|dord}}
 
 ===Mutation===
-{{mga-mutation|d|ord}}
+{{sga-mutation|d|ord}}
 
-===References===
+===Further reading===
 * {{R:DIL|18319}}
 * {{R:cy:GPC|dwrdd}}
