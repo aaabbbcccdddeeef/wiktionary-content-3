@@ -32,62 +32,63 @@ In its primary sense of {{m-g|fork}}, {{cog|la|furca}} appears to be derived fro
 ====Noun====
 {{en-noun}}
 
-# A pronged [[tool]] having a long straight handle, used for [[dig]]ging, lifting, throwing etc.
-#: {{syn|en|pitchfork}}
-# A pronged tool for use in the [[garden]]; a smaller hand fork for [[weeding]] etc., or larger for turning over the soil.
-# {{lb|en|obsolete}} A [[gallows]].
-#* {{quote-book|en|a. 1680|{{w|Samuel Butler (poet)|Samuel Butler}}|Characters|passage=They had run through all punishments, and just 'scaped the '''fork'''}}
-# A [[utensil]] with [[spike]]s used to put [[solid]] [[food]] into the [[mouth]], or to hold food down while cutting.
-# A [[tuning fork]].
-# An [[intersection]] in a [[road]] or [[path]] where [[one]] road is [[split]] into [[two]].
-# One of the parts into which anything is furcated or divided; a prong; a branch of a stream, a road, etc.; a barbed point, as of an arrow.
-#* {{RQ:Addison Medals}}
-#*: a thunderbolt with three '''forks'''.
-# A point where a [[waterway]], such as a river, splits and goes two (or more) different directions.
-# {{lb|en|figuratively}} A point in time where one has to make a decision between two life paths.
-# {{lb|en|chess}} The [[simultaneous]] [[attack]] of two [[adversary]] pieces with one single attacking piece (especially a knight).
-# {{senseid|en|process}} {{lb|en|computing}} A splitting-up of an existing [[process]] into itself and a child process [[execute|executing]] parts of the same [[program]].
-# {{lb|en|software}} The splitting of a [[software]] [[development]] effort into two or more [[separate]] [[project]]s, especially in [[free software|free]] and [[open-source]] [[software]].
-# {{lb|en|software}} Any of the software projects resulting from such a split.
-#: {{ux|en|LibreOffice is a '''fork''' of OpenOffice.}}
-# {{lb|en|cryptocurrency|by extension}} A split in a [[blockchain]] resulting from [[protocol]] disagreements, or a branch of the blockchain resulting from such a split.
-#: {{hypo|en|hard fork|soft fork}}
-#* {{quote-web|en|url=http://www.theguardian.com/technology/2015/aug/17/bitcoin-xt-alternative-cryptocurrency-chief-scientist|title=Bitcoin's forked: chief scientist launches alternative proposal for the currency|date=2015-08-17|author=Alex Hern|work=The Guardian|passage=Known as a “'''fork'''”, the new version of bitcoin (dubbed Bitcoin XT) would support more transactions per hour, at the cost of increasing the amount of memory required to hold a full database of all the bitcoin transactions throughout history, known as the blockchain.}}
-# {{lb|en|British}} The [[crotch]]. {{rfex|en}}
-# {{lb|en|colloquial}} A [[forklift]].
+# Any of several types of {{l|en|prong|pronged}} ({{l|en|tine|tined}}) {{l|en|tool|tools}} (physical tools), as follows: 
+## {{senseid|en|utensil for food}} A [[utensil]] with [[spike]]s used to put [[solid]] [[food]] into the [[mouth]], or to hold food down while cutting.
+##: {{cot|en|spoon|knife|table knife|butter knife|steak knife|spork|foon|chork}}
+##: {{hypo|en|salad fork|cocktail fork|crab fork|pickle fork|chip fork}}
+## {{senseid|en|tool for laboring}} Any of several types of pronged tool for use on [[farm]]s, in [[field]]s, or in the [[garden]] or [[lawn]], such as a smaller hand fork for [[weeding]] or a larger one for turning over the [[soil]].
+### Such a pronged [[tool]] having a long straight handle, generally for two-handed use, as used for [[dig]]ging, [[lift]]ing, [[muck]]ing, [[throw]]ing, [[toss]]ing, etc.
+###: {{hypo|en|pitchfork|digging fork|spade fork|garden fork}}
+## {{senseid|en|tuning fork}} A [[tuning fork]].
+# {{senseid|en|fork in the road}} {{lb|en|by abstraction, from the tool shape}} A [[fork in the road]], as follows: 
+## {{lb|en|physical}} An [[intersection]] in a [[road]] or [[path]] where [[one]] road is [[split]] into [[two]]. 
+## {{lb|en|figurative}} A {{l|en|fork|id=decision-making|decision point}}. 
+# {{senseid|en|fork in a stream}} {{lb|en|by abstraction, from the tool shape}} A point where a [[waterway]], such as a [[river]] or other [[stream]], splits and flows into two (or more) different directions.
+#: {{ant|en|confluence}}
+# {{senseid|en|prong analogue}} {{lb|en|metonymically|and analogous to any [[prong]] of a pronged tool}} One of the parts into which anything is furcated or divided; a prong; a branch of a stream, a road, etc.; a barbed point, as of an arrow.
+#: {{ux|en|a thunderbolt with three '''forks'''}}
+#: {{ux|en|this '''fork''' of the river dries up during droughts}}
+# {{senseid|en|decision-making}} {{lb|en|figuratively|decision-making}} A point in time where one has to make a decision between two life paths.
+## {{lb|en|metonymically}} Either of the (figurative) paths thus taken. 
+# {{senseid|en|process}} {{lb|en|figuratively|by abstraction, from a physical fork}} {{lb|en|software development, content management, data management}} A departure from having a single source of truth (SSOT), sometimes intentionally but usually unintentionally. 
+## {{lb|en|metonymically}} Any of the pieces/versions (of [[software#Noun|software]], [[content#Noun|content]], or [[data sets]]) thus created. 
+##: {{ant|en|[[w:single source of truth|single source of truth]], [[w:single source of truth|SSOT]]}}
+## {{senseid|en|software}} {{lb|en|software}} The splitting of a [[software]] [[development]] effort into two or more [[separate]] [[project]]s, especially in [[free software|free]] and [[open-source]] [[software]].
+### {{lb|en|software}} Any of the software projects resulting from such a split.
+###: {{ux|en|LibreOffice is a '''fork''' of OpenOffice.}}
+## {{senseid|en|content management}} {{lb|en|[[content management system|content management]]}} The splitting of the coverage of a topic (within a corpus of content) into two or more pieces. 
+##: {{ux|en|A content '''fork''' may be intentional (as from a schism about goals) or unintentional (merely from a lack of reorganizing, so far).}}
+<!--For content forking in Wikimedia projects, see [[w:Wikipedia:Content forking]]-->
+### {{lb|en|[[content management system|content management]]}} Any of the pieces/versions of content thus created. 
+## {{senseid|en|cryptocurrency}} {{lb|en|cryptocurrency}} A split in a [[blockchain]] resulting from [[protocol]] disagreements, or a branch of the blockchain resulting from such a split.
+##: {{hypo|en|hard fork|soft fork}}
+##* {{quote-web|en|url=http://www.theguardian.com/technology/2015/aug/17/bitcoin-xt-alternative-cryptocurrency-chief-scientist|title=Bitcoin's forked: chief scientist launches alternative proposal for the currency|date=2015-08-17|author=Alex Hern|work=The Guardian|passage=Known as a “'''fork'''”, the new version of bitcoin (dubbed Bitcoin XT) would support more transactions per hour, at the cost of increasing the amount of memory required to hold a full database of all the bitcoin transactions throughout history, known as the blockchain.}}
+# {{senseid|en|chess}} {{lb|en|chess}} The [[simultaneous]] [[attack]] of two [[adversary]] pieces with one single attacking piece (especially a knight).
+# {{senseid|en|crotch vulgarly}} {{lb|en|British|vulgar}} The [[crotch]]. {{rfex|en}}
+# {{senseid|en|forklift colloquially}} {{lb|en|colloquial}} A [[forklift]].
 #: {{ux|en|Are you qualified to drive a '''fork?'''}}
-# The set of blades of a [[forklift]], on which the goods to be raised are loaded.
-# {{lb|en|cycling|motorcycles}} In a [[bicycle]] or [[motorcycle]], the portion of the [[frameset]] holding the front wheel, allowing the rider to [[steer]] and balance, also called '''front fork'''.
+# {{senseid|en|fork on a forklift}} The set of blades of a [[forklift]], on which the goods to be raised are loaded.
+# {{senseid|en|vehicle suspension part}} {{lb|en|cycling|motorcycles|by abstraction from a pronged tool's shape}} In a [[bicycle]] or [[motorcycle]], the portion of the [[frameset]] holding the front wheel, allowing the rider to [[steer]] and balance, also called '''front fork'''.
 #: {{ux|en|The '''fork''' can be equipped with a suspension on mountain bikes.}}
-# {{c|en|Horse tack}} The [[upper]] [[front]] [[brow]] of a [[saddle bow]], connected in the [[tree]] by the two [[saddle bar]]s to the [[cantle]] on the other end.
+# {{senseid|en|item of horse tack}} {{c|en|Horse tack}} The [[upper]] [[front]] [[brow]] of a [[saddle bow]], connected in the [[tree]] by the two [[saddle bar]]s to the [[cantle]] on the other end.
 #: {{syn|en|swell|pommel}}
+# {{senseid|en|gallows obsoletely}} {{lb|en|obsolete}} A [[gallows]].
+#* {{quote-book|en|a. 1680|{{w|Samuel Butler (poet)|Samuel Butler}}|Characters|passage=They had run through all punishments, and just 'scaped the '''fork'''}}
 
-=====Hyponyms=====
-{{col3|en|title=forks used for eating
-|chip fork
-|cocktail fork
-|crab fork
-|pickle fork
-}}
+<!-- =====Hyponyms===== * Place the hyponyms sense-wise, beneath each sense, using {{hypo|en|}}. -->
 
 =====Derived terms=====
 {{col3|en
-|chork
-|digging fork
 |fork bomb
 |fork buffet
 |fork dinner
 |fork F
 |forkhead
-|fork in the road
 |fork lunch
 |fork luncheon
 |fork supper
 |Grand Forks
-|pitchfork
 |Rolling Fork
-|spork
-|tuning fork
 }}
 
 =====Related terms=====
