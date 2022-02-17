@@ -239,16 +239,16 @@ From {{inh|en|enm|milken}}, from {{inh|en|ang|melcan}}, from {{inh|en|gem-pro|*m
 * Avar: {{t|av|бечӏчӏизе}}
 * Azerbaijani: {{t|az|sağmaq}}
 * Basque: {{t|eu|jetzi}}
-* Belarusian: {{t|be|даі́ць}}
-* Bulgarian: {{t+|bg|доя́}}
+* Belarusian: {{t|be|даі́ць|impf}}
+* Bulgarian: {{t+|bg|доя́|impf}}
 * Buryat: {{t|bua|һааха}}
 * Catalan: {{t+|ca|munyir}}
 * Cebuano: {{t|ceb|gatasan}}
 * Chechen: {{t|ce|детта}}
 * Chichewa: {{t|ny|kama|alt=-kama}}
 * Chinese:
-*: Mandarin: {{t+|cmn|擠奶|sc=Hani}}, {{t+|cmn|挤奶|tr=jǐnǎi|sc=Hani}}, {{t+|cmn|產乳|sc=Hani}}, {{t+|cmn|产乳|tr=chǎnrǔ|sc=Hani}}
-* Czech: {{t+|cs|dojit}}, {{t|cs|podojit}}
+*: Mandarin: {{t+|cmn|擠奶}}, {{t+|cmn|挤奶|tr=jǐnǎi}}, {{t+|cmn|產乳}}, {{t+|cmn|产乳|tr=chǎnrǔ}}
+* Czech: {{t+|cs|dojit|impf}}, {{t|cs|podojit|pf}}
 * Danish: {{t+|da|malke}}
 * Dolgan: {{t|dlg|ыак}}
 * Dutch: {{t+|nl|melken}}
@@ -269,8 +269,8 @@ From {{inh|en|enm|milken}}, from {{inh|en|ang|melcan}}, from {{inh|en|gem-pro|*m
 * Ido: {{t+|io|melkar}}
 * Irish: {{t|ga|crúigh}}
 * Italian: {{t+|it|mungere}}
-* Japanese: {{t|ja|乳を搾る|tr=ちちをしぼる, chichi o shiboru|sc=Jpan}}
-* Korean: {{t|ko|젖을 짜다|tr=jeoj'eul jjada}}
+* Japanese: {{t|ja|[[乳]]を[[搾る]]|tr=ちちをしぼる, chichi o shiboru}}
+* Korean: {{t|ko|[[젖]][[-을]] [[짜다]]}}
 * Kurdish:
 *: Central Kurdish: {{t+|ckb|دۆشین}}
 *: Northern Kurdish: {{t+|kmr|doşîn}}, {{t+|kmr|dotin}}
@@ -283,7 +283,7 @@ From {{inh|en|enm|milken}}, from {{inh|en|ang|melcan}}, from {{inh|en|gem-pro|*m
 *: German Low German: {{t|nds-de|melken}}
 * Luxembourgish: {{t|lb|sträichen}}
 {{trans-mid}}
-* Macedonian: {{t|mk|молзе}}
+* Macedonian: {{t|mk|молзе|impf}}
 * Maltese: {{t|mt|ħaleb}}
 * Maori: {{t|mi|kutētē}}, {{t|mi|whakatētē}}
 * Mongolian: {{t+|mn|саах}}
@@ -302,7 +302,7 @@ From {{inh|en|enm|milken}}, from {{inh|en|ang|melcan}}, from {{inh|en|gem-pro|*m
 * Old English: {{t+|ang|melcan}}, {{t|ang|meolcian}}
 * Ossetian: {{t|os|дуцын}}
 * Persian: {{t+|fa|دوشیدن|tr=dušidan}}, {{t+|fa|دوختن|tr=duxtan}}
-* Polish: {{t+|pl|doić}}
+* Polish: {{t+|pl|doić|impf}}
 * Portuguese: {{t+|pt|ordenhar}}
 * Quechua: {{t|qu|ch'away}}
 * Romanian: {{t+|ro|mulge}}
@@ -311,11 +311,11 @@ From {{inh|en|enm|milken}}, from {{inh|en|ang|melcan}}, from {{inh|en|gem-pro|*m
 * Sardinian: {{t|sc|múgghere}}, {{t|sc|múlghere}}, {{t|sc|mugi}}, {{t|sc|múrgere}}, {{t|sc|mulli}}, {{t|sc|múlliri}}
 * Scottish Gaelic: {{t|gd|bleoghainn}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|мусти}}, {{t|sh|помусти}}
-*: Roman: {{t+|sh|musti}}, {{t+|sh|pomusti}}
+*: Cyrillic: {{t|sh|мусти|impf}}, {{t|sh|помусти|pf}}
+*: Roman: {{t+|sh|musti|impf}}, {{t+|sh|pomusti|pf}}
 * Shor: {{t|cjs|сағарға|tr=sağarğa}}
 * Slovak: {{t|sk|dojiť|impf}}, {{t|sk|podojiť|pf}}
-* Slovene: {{t|sl|molsti}}
+* Slovene: {{t|sl|molsti|impf}}
 * Sorbian:
 *: Lower Sorbian: {{t|dsb|dojś|impf}}
 * Sotho: {{t+|st|hama}}
@@ -329,7 +329,7 @@ From {{inh|en|enm|milken}}, from {{inh|en|ang|melcan}}, from {{inh|en|gem-pro|*m
 * Tocharian B: {{t|txb|mālkant}}
 * Turkish: {{t+|tr|sağmak}}
 * Tuvan: {{t|tyv|саар}}
-* Ukrainian: {{t|uk|дої́ти}}
+* Ukrainian: {{t|uk|дої́ти|impf}}
 * Venetian: {{t|vec|molder}}, {{t|vec|mólzer}}, {{t|vec|mónzer}}, {{t|vec|mónxer}}, {{t|vec|mólzar}}, {{t|vec|mónzar}}
 * Vietnamese: {{t|vi|vắt sữa}} ({{t|vi|𢪱𣳪|sc=Hani}})
 * Walloon: {{t+|wa|mode}}, {{t|wa|traire}}
@@ -340,7 +340,8 @@ From {{inh|en|enm|milken}}, from {{inh|en|ang|melcan}}, from {{inh|en|gem-pro|*m
 {{trans-bottom}}
 
 {{trans-top|to draw from the breasts or udder}}
-* Bulgarian: {{t+|bg|доя}}
+* Belarusian: {{t|be|даі́ць|impf}}
+* Bulgarian: {{t+|bg|доя́|impf}}
 * Catalan: {{t+|ca|munyir}}
 * Cebuano: {{t|ceb|gatasan}}
 * Finnish: {{t+|fi|lypsää}}
@@ -348,7 +349,8 @@ From {{inh|en|enm|milken}}, from {{inh|en|ang|melcan}}, from {{inh|en|gem-pro|*m
 * Ngazidja Comorian: {{t|zdj|hama|alt=uhama}}
 * Slovak: {{t|sk|dojiť}}
 * Swahili: {{t+|sw|kama|alt=kukama}}
-* Russian: {{t+|ru|дои́ть|impf}}
+* Russian: {{t+|ru|дои́ть|impf}}, {{t+|ru|подои́ть|pf}}
+* Ukrainian: {{t|uk|дої́ти|impf}}
 {{trans-bottom}}
 
 {{trans-top|to express any liquid}}
