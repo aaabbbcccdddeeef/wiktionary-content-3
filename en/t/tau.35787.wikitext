@@ -1,53 +1,68 @@
 {{also|Tau|TAU|tàu|Tàu|tãu|tău|taʻu|ta'u|täü|тау}}
 ==English==
-{{letter_disp2|sigma|[[image:Greek_uc_tau.svg|35px]][[image:Greek_lc_tau.png|25px]]|upsilon|ταῦ|Τ|τ}}
-[[File:2pi-unrolled.gif|thumb|When a circle's [[radius]] is 1 unit, its circumference is τ units.]]
+{{was wotd|2022|June|28}}
 
 ===Etymology===
-Borrowed from {{bor|en|grc|ταῦ}}. The physics sense was {{coin|en|Martin Perl|nocap=1|nobycat=1|nat=American|occ=physicist}}.
+{{letter_disp2|sigma|[[File:Greek uc tau.svg|35px]][[File:Greek lc tau.png|25px]]|upsilon|ταῦ|Τ|τ}}
+{{multiple images
+|direction = vertical
+|image1 = Antoniterkloster Höchst Antoniterkreuz.jpg
+|caption1 = A tau ''(sense 2)'' used as the [[symbol#Noun|symbol]] of the {{w|Hospital Brothers of Saint Anthony}} in the [[w:de:Antoniterkloster Höchst|Antoniterkloster Höchst]], a [[former]] [[monastery]] in [[w:Höchst (Frankfurt am Main)|Höchst]], a [[quarter#Noun|quarter]] of [[Frankfurt am Main]], [[Hesse]], [[Germany]].
+|image2 = 2pi-unrolled.gif
+|caption2 = When a [[circle#Noun|circle]]’s [[radius]] is 1 [[unit]], its [[circumference]] is [[twice]] the [[value#Noun|value]] of [[pi]] ([[2]]{{lang|grc|[[π]]}}) or tau ({{lang|grc|[[τ]]}}; ''sense 6'') units.
+|image3 = MAP2-tau in neurons.jpg
+|caption3 = An [[image#Noun|image]] of [[neuron]]s. The taus or [[tau protein]]s ''(sense 7)'' are [[stain#Verb|stained]] [[red#Noun|red]].
+}}
+
+Borrowed from {{bor|en|grc|ταῦ}}.
+
+Sense 6 (“mathematical constant equal to 2{{lang|grc|π}}”) was {{coinage|en|Michael Hartl|nat=the American|occ=entrepreneur and programmer|nobycat=1|nocap=1}} in 2010 because {{lang|grc|τ}} is the Greek equivalent of {{m|en|t}}, the first letter of {{m|en|turn}}, and 2{{lang|grc|π}} is the number of radians in one turn; and because {{lang|grc|τ}} resembles {{lang|grc|π}}. Sense 8.1 (“''short for'' tau lepton ''or'' tau particle”) was {{coinage|en|Martin Lewis Perl|nat=the American|occ=physicist|nobycat=1|nocap=1}} (1927–2014) after the first letter of {{noncog|grc|τρίτον|t=third}}, since the tau lepton or tauon was the third charged lepton discovered.
 
 ===Pronunciation===
-* {{IPA|en|/taʊ/|/tɔː/}}
-* {{audio|en|En-us-tau.ogg|Audio (US)}}
+* {{a|RP}} {{IPA|en|/taʊ/|/tɔː/}}
+* {{a|GA}} {{IPA|en|/taʊ/|/tɔ/}}
+* {{audio|en|En-us-tau.ogg|Audio (GA)}}
 * {{rhymes|en|aʊ|ɔː}}
 
 ===Noun===
 {{en-noun}}
 
-# The letter [[Τ]]/[[τ]] in the Greek, Hebrew and ancient Semitic alphabets, being the nineteenth letter of the [[Classical Greek|Classical]] and [[Modern Greek]], the twenty-first letter of [[Old Greek|Old]] and [[Ancient Greek|Ancient]] Greek.
-# A {{lang|grc|Τ}}-shaped sign or structure; a [[Saint Anthony's cross]], sometimes regarded as a sacred symbol.
+# The [[letter#Noun|letter]] {{lang|grc|[[Τ]]}}/{{lang|grc|[[τ]]}} in the [[Greek#Adjective|Greek]], [[Hebrew#Adjective|Hebrew]], and [[ancient#Adjective|ancient]] [[Semitic#Adjective|Semitic]] [[alphabet#Noun|alphabets]]; being the [[nineteenth]] letter of the [[Classical Greek|Classical]] and [[Modern Greek]], and the [[twenty-first]] letter of [[Old Greek|Old]] and [[Ancient Greek]] alphabets.
+# A {{lang|grc|Τ}}-[[shaped#Adjective|shaped]] [[object#Noun|object]] or [[sign#Noun|sign]]; a [[Saint Anthony's cross]], sometimes [[regard#Verb|regarded]] as a [[sacred#Adjective|sacred]] [[symbol#Noun|symbol]].
 #* '''1658''': Nor shall we take in the mysticall '''''Tau''''', or the Crosse of our blessed Saviour, which having in some descriptions an ''Empedon'' or crossing foot-stay, made not one single transversion. — Sir Thomas Browne, ''The Garden of Cyrus'' (Folio Society 2007, p. 168)
-# {{lb|en|particle|dated}} A [[tau meson]], now usually known as a [[kaon]].
-# {{lb|en|particle}} An unstable heavy [[lepton]], which decays into a [[muon]] or [[electron]]; a [[tauon]].
-# {{lb|en|biology}} [[tau protein|Tau protein]], a type of [[protein]] that stabilizes [[microtubule]]s in the human central nervous system, failures of which are associated with forms of [[dementia]].
+## {{lb|en|Christianity}} A [[crosier]] with a {{lang|grc|Τ}}-shaped [[head#Noun|head]].
+# The [[ankh]] symbol ([[☥]]).
+#: {{synonyms|en|crux ansata}}
+# {{lb|en|astronomy}} ''Chiefly [[write#Verb|written]]'' '''{{lang|grc|τ}}''': {{non-gloss definition|used to [[designate#Verb|designate]] the nineteenth (usually the nineteenth [[bright#Adjective|brightest]]) [[star#Noun|star]] in a [[constellation]].}}
+# {{lb|en|finance}} A [[measurement]] of the [[sensitivity]] of the [[value#Noun|value]] of an [[option#Noun|option]] to [[change#Noun|changes]] in the [[implied]] [[volatility]] of the [[price#Noun|price]] of the [[underlying#Adjective|underlying]] [[asset]].
+#: {{synonyms|en|kappa|vega}}
+#: {{hypernyms|en|Greeks}} {{qualifier|includes a list of coordinate terms}}
+# {{lb|en|mathematics|neologism}} ''Often written'' '''{{lang|grc|τ}}''': an [[irrational#Adjective|irrational]] and [[transcendental#Adjective|transcendental]] [[constant#Noun|constant]] [[represent]]ing the [[ratio]] of the [[circumference]] of a [[Euclidean]] [[circle#Noun|circle]] to its [[radius]], [[equal#Adjective|equal]] to [[twice]] the [[value#Noun|value]] of [[pi]] ([[2]]{{lang|grc|[[π]]}}; [[approximately]] 6.2831853071). {{defdate|from 2010}}
+# {{lb|en|neurology}} {{short for|en|tau protein|t=a [[protein]] [[abundant]] especially in the [[neuron]]s of the [[human#Adjective|human]] [[central nervous system]] that [[stabilize]]s [[microtubule]]s, and when [[misfold#Verb|misfolded]] is [[associate#Verb|associated]] with [[form#Noun|forms]] of [[dementia]] such as [[Alzheimer's disease|Alzheimer's]] and [[Parkinson's disease|Parkinson's diseases]]}}
 #* '''1999''', {{w|Matt Ridley}}, ''Genome'', Harper Perennial 2004, p. 263:
 #*: Quite what that job is remains obscure, but one theory is that it is to stabilise another protein called '''tau''', which is supposed in turn to keep in shape the tubular ‘skeleton’ of a neuron.
-# {{lb|en|finance}} A measurement of the sensitivity of the value of an [[option]] to changes in the implied [[volatility]] of the price of the [[underlying]] [[asset]].
-# {{lb|en|mathematics|neologism}} An [[irrational]] and [[transcendental]] [[constant]] representing the [[ratio]] of the [[circumference]] of a [[Euclidean]] [[circle]] to its [[radius]], approximately 6.2831853071; equal to twice the value of [[pi]]. Often written [[τ]] or 2π.
-
-====Synonyms====
-* {{sense|measure of derivative price sensitivity}} {{l|en|kappa}}, {{l|en|vega}}
-
-====Hypernyms====
-* {{sense|measure of derivative price sensitivity}} {{l|en|Greeks}} {{qualifier|includes list of coordinate terms}}
-
-====Coordinate terms====
-* {{sense|Greek letter}} Previous: [[sigma]]. Next: [[upsilon]]
+# {{lb|en|particle}} ''Chiefly written'' '''{{lang|grc|τ}}'''.
+## {{short for|en|tau lepton|nodot=1}} ''or'' '''tau particle''' (“an [[unstable]] [[elementary particle]] which is a [[type#Noun|type]] of [[lepton]], [[have#Verb|having]] a [[mass#Noun|mass]] almost [[twice]] that of a [[proton]], a [[negative#Adjective|negative]] [[charge#Noun|charge]], and a [[spin#Noun|spin]] of [[½]]; it [[decay#Verb|decays]] into [[hadron]]s (usually [[pion]]s) or other leptons, and [[neutrino]]s; a [[tauon]]”).
+## {{lb|en|historical}} {{short for|en|tau meson|nodot=1}}, now [[know#Verb|known]] as a [[kaon]].
 
 ====Derived terms====
-* {{l|en|tauon}}
-* {{l|en|tauopathy}}
-* {{l|en|tau lepton}}
-* {{l|en|tau meson}}
-* {{l|en|tau neutrino}}
-* {{l|en|tau protein}}
+{{col3|en
+|tau cross
+|tauon
+|tauopathy
+|tau lepton
+|tau meson
+|tau neutrino
+|tau particle
+|tau protein
+}}
 
 ====Translations====
-{{trans-top|Greek letter}}
-* Arabic: {{t|ar|تَاو|m|tr=taw}}
+{{trans-top|the letter {{lang|grc|Τ}}/{{lang|grc|τ}} in the Greek, Hebrew, and ancient Semitic alphabets}}
+* Arabic: {{t|ar|تَاو|m}}
 * Catalan: {{t+|ca|tau|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|套|tr=tào|sc=Hani}}
+*: Mandarin: {{t+|cmn|套|tr=tào}}
 * Czech: {{t|cs|tau|n}}
 * Danish: {{t+|da|tau|n}}
 * Dutch: {{t+|nl|tau|m|f}}
@@ -64,7 +79,7 @@ Borrowed from {{bor|en|grc|ταῦ}}. The physics sense was {{coin|en|Martin Per
 * Icelandic: {{t+|is|tá|n}}
 * Interlingua: {{t|ia|tau}}
 * Italian: {{t+|it|tau|m|f}}
-* Japanese: {{t+|ja|タウ|tr=tau|sc=Jpan}}
+* Japanese: {{t+|ja|タウ|tr=tau}}
 * Korean: {{t+|ko|타우}}
 * Malay: {{t|ms|tau}}
 * Norwegian:
@@ -79,28 +94,48 @@ Borrowed from {{bor|en|grc|ταῦ}}. The physics sense was {{coin|en|Martin Per
 * Ukrainian: {{t|uk|та́у|n}}, {{t|uk|та́в|n}}
 {{trans-bottom}}
 
-{{trans-top|St. Anthony's cross}}
-* French: {{t|fr|croix en tau|f}}, {{t|fr|croix de Saint-Antoine|f}}
-{{trans-mid}}
-* German: {{t+|de|Taukreuz|n}}, {{t+|de|Antoniuskreuz|n}}, {{t|de|Antoniterkreuz|n}}, {{t|de|Ägyptisches Kreuz|n}}, {{t|de|Plattkreuz|n}} {{qualifier|heraldry}}
-{{trans-bottom}}
-
-{{trans-top|(dated) kaon}}
+{{trans-top|{{lang|grc|Τ}}-shaped object or sign}}
 {{trans-mid}}
 {{trans-bottom}}
 
-{{trans-see|tauon}}
-
-{{trans-top|protein that stabilises microtubules}}
-* French: {{t+|fr|protéine tau|f}}, {{t+|fr|tau|f}}
+{{trans-top|crosier with a {{lang|grc|Τ}}-shaped head}}
 {{trans-mid}}
-* German: {{t|de|Tau-Protein|n}}, {{t|de|Tauprotein|n}}
+{{trans-bottom}}
+
+{{trans-top-also|Saint Anthony’s cross|Saint Anthony's cross}}
+* French: {{t|fr|croix en tau|f}}
+{{trans-mid}}
+* German: {{t+|de|Taukreuz|n}}
+{{trans-bottom}}
+
+{{trans-see|ankh symbol|ankh}}
+
+{{trans-top|''used to designate the nineteenth (usually the nineteenth brightest) star in a constellation''}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|irrational and transcendental constant equal to twice the value of pi}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top-also|''short for'' tau protein|tau protein}}
+* French: {{t+|fr|tau|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-see|''short for'' tau lepton ''or'' tau particle|tauon}}
+
+{{trans-top-also|''short for'' tau meson|kaon}}
+{{trans-mid}}
 {{trans-bottom}}
 
 ===Further reading===
 * {{pedia}}
-* {{pedia|Tau (disambiguation)}}
-* {{pedia|Tau (protein)}}
+* {{pedia|tau cross}}
+* {{pedia|tau (particle)}}
+* {{pedia|tau protein}}
+* {{pedia|turn (angle)}}
+* {{pedia|tau (disambiguation)}}
 
 ===Anagrams===
 * {{anagrams|en|a=atu|AUT|UAT|UTA|Uta|aut-|uta}}
