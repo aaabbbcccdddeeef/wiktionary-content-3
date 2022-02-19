@@ -12,7 +12,7 @@
 ===Noun===
 {{en-noun|-|s}}
 
-# {{lb|en|number theory|analytic number theory|uncountable}} The function ''ζ'' defined by the [[Dirichlet series]] <math>\textstyle \zeta(s)=\sum_{n=1}^\infty \frac 1 {n^s} = \frac1{1^s} + \frac1{2^s} + \frac1{3^s} + \frac1{4^s} + \cdots</math>, which is summable for points ''s'' in the complex [[half-plane]] with real part > 1; the [[analytic continuation]] of said function, being a [[holomorphic]] function defined on the [[complex numbers]] with [[pole]] at [[one|1]].
+# {{lb|en|number theory|analytic number theory|uncountable}} The function ''ζ'' defined by the [[Dirichlet series]] <math>\textstyle \zeta(s)=\sum_{n=1}^\infty \frac 1 {n^s} = \frac1{1^s} + \frac1{2^s} + \frac1{3^s} + \frac1{4^s} + \cdots</math>, which is summable for points ''s'' in the complex [[half-plane]] with real part > 1; the [[analytic continuation]] of said function, being a [[holomorphic]] function defined on the [[complex numbers]] with [[pole]] at [[1]]. [[Category:en:Functions]]
 #* '''2004''', Paula B. Cohen, ''Interactions between number theory and operator algebras in the study of the '''Riemann zeta function''' (d'apres Bost-Connes and Connes)'', David Chudnovsky, Gregory Chudnovsky, Melvyn Bernard Nathanson (editors), ''Number Theory: New York Seminar 2003'', Springer, [https://books.google.com.au/books?id=paD8Uv5KkpIC&pg=PA87&dq=%22Riemann+zeta+function%22%7C%22Riemann+zeta+functions%22&hl=en&sa=X&ved=0ahUKEwjBk63K-fPdAhUUO30KHRoKBjoQ6AEIjwIwLQ#v=onepage&q=%22Riemann%20zeta%20function%22%7C%22Riemann%20zeta%20functions%22&f=false page 87],
 #*: It is straightforward to show that the '''Riemann zeta function''' has zeros at the negative even integers and these are called the trivial zeros of the '''Riemann zeta function'''.
 #* '''2008''', Sanford L. Segal, ''Nine Introductions in Complex Analysis'', Elsevier (North-Holland), Revised Edition, [https://books.google.com.au/books?id=NGR2rUAfyiQC&pg=PA397&dq=%22Riemann+zeta+function%22%7C%22Riemann+zeta+functions%22&hl=en&sa=X&ved=0ahUKEwjBk63K-fPdAhUUO30KHRoKBjoQ6AEIrAIwMQ#v=onepage&q=%22Riemann%20zeta%20function%22%7C%22Riemann%20zeta%20functions%22&f=false page 397],
@@ -32,9 +32,9 @@
 #*: Page 203 is an isolated page on which Ramanujan evaluates six quotients of either '''Riemann zeta functions''' or ''L''-functions.
 
 ====Usage notes====
-* The Riemann zeta function and generalisations comprise an important subject of research in {{w|analytic number theory}}.
-* There are numerous analogues to the Riemann zeta function: such a one may be referred to as a {{m|en|zeta function}}, and some are given names of the form ''X zeta function''. Many, but not all functions so named are generalisations of the Riemann zeta function. (See {{pedialite|List of zeta functions}})
-* The Riemann zeta function is used in physics (such as in the theory of heat kernels and wave propagation), apparently for reasons more to do with the function's behaviour than any approximation of reality.
+* The Riemann zeta function and generalizations comprise an important subject of research in {{w|analytic number theory}}.
+* There are numerous analogues to the Riemann zeta function: such a one may be referred to as a {{m|en|zeta function}}, and some are given names of the form ''X zeta function''. Many, but not all functions so named are generalizations of the Riemann zeta function. (See {{pedialite|List of zeta functions}})
+* The Riemann zeta function is used in physics (such as in the theory of heat kernels and wave propagation), apparently for reasons more to do with the function's behavior than any approximation of reality.
 
 ====Synonyms====
 * {{sense|analytic continuation of a function defined as the sum of a Dirichlet series}} {{l|en|Euler–Riemann zeta function}}
