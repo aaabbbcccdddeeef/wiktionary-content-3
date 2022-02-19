@@ -8,7 +8,7 @@
 ===Noun===
 {{en-noun}}
 
-# {{lb|en|calculus}} A [[function]] ''f'' : ''X''→'''R''' (where ''X'' is a [[subset]] of '''R''', possibly a [[discrete set]]) that either never decreases or never increases as its [[independent variable]] increases; that is, either ''x'' ≤ ''y'' implies ''f''(''x'') ≤ ''f''(''y'') or ''x'' ≤ ''y'' implies ''f''(''y'') ≤ ''f''(''x'').
+# {{lb|en|calculus}} A [[function]] ''f'' : ''X''→'''R''' (where ''X'' is a [[subset]] of '''R''', possibly a [[discrete set]]) that either never decreases or never increases as its [[independent variable]] increases; that is, either ''x'' ≤ ''y'' implies ''f''(''x'') ≤ ''f''(''y'') or ''x'' ≤ ''y'' implies ''f''(''y'') ≤ ''f''(''x''). [[Category:en:Functions]]
 #: {{ux|en|Where defined, the first derivative of a '''monotone function''' never changes sign, although it may be zero.}}
 #* '''2005''', Anthony W. Knapp, ''Basic Real Analysis'', Springer, [https://books.google.com.au/books?id=4ZZCAAAAQBAJ&pg=PA357&dq=%22monotone+function%22%7C%22monotone+functions%22&hl=en&sa=X&ved=0ahUKEwjk9oCWhunbAhXG2LwKHbCACD8Q6AEIpAEwGA#v=onepage&q=%22monotone%20function%22%7C%22monotone%20functions%22&f=false page 357],
 #*: Section 1 contains Lebesgue's main tool, a theorem saying that '''monotone functions''' on the line are differentiable almost everywhere.
