@@ -30,19 +30,19 @@ From substantive use of {{bor|de|LL.|prīmās||chief; noble}} (genitive {{m|la|p
 * {{rhymes|de|aːt|s=2}}
 
 ===Noun===
-{{de-noun|m|Primaten|Primaten|f=[[Primatin]] {{q|for the animal}}}}
+{{de-noun|m.weak|f=in[for the animal]}}
 
 # {{lb|de|ecclesiastical}} [[primate]]
 # {{lb|de|zoology}} [[primate]]
 
 ====Declension====
-{{de-decl-noun-m|en|en}}
+{{de-ndecl|m.weak}}
 
 ====Synonyms====
 * {{sense|ecclesiastical position}} {{l|de|Primas}}
 
 ===Noun===
-{{de-noun|n|g2=m|Primats|gen2=Primates|Primate}}
+{{de-noun|n:m,s:es}}
 
 # [[primacy]], [[supremacy]]
 #* '''2010''', ''{{w|Der Spiegel}}'', issue [http://www.spiegel.de/spiegel/print/index-2010-21.html 21/2010], page 37:
@@ -52,9 +52,7 @@ From substantive use of {{bor|de|LL.|prīmās||chief; noble}} (genitive {{m|la|p
 # {{lb|de|wine}} [[#English|Primat]]
 
 ====Declension====
-{{de-decl-noun-n|(e)s|e}}
-or
-{{de-decl-noun-m|(e)s|e}}
+{{de-ndecl|n:m,s:es}}
 
 ====Synonyms====
 * {{sense|ecclesiastical station}} {{l|de|Primas}}
