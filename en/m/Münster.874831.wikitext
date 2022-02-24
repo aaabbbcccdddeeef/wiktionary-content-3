@@ -69,29 +69,34 @@ Borrowed from {{bor|de|la|monastērium}}, from {{der|de|grc|μοναστήριο
 * {{R:Duden|Muenster_Stadt}}
 
 ===Noun===
-{{de-noun|n|g2=m||Münster}}
+{{de-noun|n:m}}
 
 # [[minster]] {{gloss|monastic church}}
 
 ====Declension====
-As a neuter noun:
-{{de-decl-noun-n|s}}
-As a masculine noun:
-{{de-decl-noun-m|s}}
+{{de-ndecl|n:m}}
 
 ====References====
 * {{R:Duden|Muenster_Kirche}}
 
 ===Noun===
-{{de-noun|m||Münster}}
+{{de-noun|m}}
 
 # [[muenster]] [[cheese]], {{m|de|Münsterkäse}}
 
 ====Declension====
-{{de-decl-noun-m|s}}
+{{de-ndecl|m}}
 
 ====References====
 * {{R:Duden|Muenster_Kaese}}
+
+===Proper noun===
+{{de-proper noun|surname}}
+
+# {{surname|de}}
+
+====Declension====
+{{de-ndecl|surname}}
 
 ===Further reading===
 * {{pedia|lang=de}}
