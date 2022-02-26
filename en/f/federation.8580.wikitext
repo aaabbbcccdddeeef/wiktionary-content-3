@@ -41,14 +41,14 @@ Borrowed from {{bor|en|fr|fédération}}, from {{der|en|LL.|foederatio}}, from {
 * Armenian: {{t+|hy|դաշնություն}}
 * Asturian: {{t|ast|federación|f}}
 * Azerbaijani: {{t|az|federasiya}}, {{t|az|ittifaq}}
-* Belarusian: {{t+|be|федэра́цыя|f|sc=Cyrl}}
-* Bengali: {{t|bn|ফেডারেশন|sc=Beng}}
-* Bulgarian: {{t+|bg|федера́ция|f|sc=Cyrl}}
+* Belarusian: {{t+|be|федэра́цыя|f}}, {{t|be|фэдэра́цыя|f}}
+* Bengali: {{t|bn|ফেডারেশন}}
+* Bulgarian: {{t+|bg|федера́ция|f}}
 * Burmese: {{t+|my|အဖွဲ့ချုပ်}}, {{t|my|ဖယ်ဒရေးရှင်း}}
 * Buryat: {{t|bua|федераци}}
 * Catalan: {{t+|ca|federació|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|聯邦|sc=Hani}}, {{t+|cmn|联邦|tr=liánbāng|sc=Hani}}
+*: Mandarin: {{t+|cmn|聯邦}}, {{t+|cmn|联邦|tr=liánbāng}}
 * Czech: {{t+|cs|federace|f}}
 * Danish: {{t+|da|føderation|c}}
 * Dutch: {{t+|nl|federatie|f}}, {{t+|nl|bondsstaat|m}}
@@ -61,8 +61,8 @@ Borrowed from {{bor|en|fr|fédération}}, from {{der|en|LL.|foederatio}}, from {
 * German: {{t+|de|Föderation|f}}, {{t+|de|Bund|m}}
 * Greek: {{t+|el|ομοσπονδία|f}}
 * Haitian Creole: {{t|ht|federasyon}}
-* Hebrew: {{t+|he|פֶדֶרַצְיָה|f|tr=federátsya|alt=פדרציה \ פֶדֶרַצְיָה}}
-* Hindi: {{t|hi|महासंघ|m|sc=Deva}}, {{t|hi|फ़ेडरेशन|sc=Deva}}
+* Hebrew: {{t+|he|פֶדֶרַצְיָה|f|tr=pederátsya}}
+* Hindi: {{t|hi|महासंघ|m}}, {{t|hi|फ़ेडरेशन}}
 * Hungarian: {{t+|hu|föderáció}}
 * Icelandic: {{t+|is|samband|n}}
 * Ido: {{t+|io|federuro}}
@@ -71,41 +71,42 @@ Borrowed from {{bor|en|fr|fédération}}, from {{der|en|LL.|foederatio}}, from {
 * Interlingua: {{t|ia|federation}}
 * Irish: {{t|ga|cónaidhm|f}}, {{t|ga|feidearálacht|f}}
 * Italian: {{t+|it|federazione|f}}
-* Japanese: {{t+|ja|連邦|tr=れんぽう, renpō}}, {{t+|ja|聯邦|tr=renpō|sc=Jpan}} {{qualifier|dated}}, {{t+|ja|連盟|tr=れんめい, renmei}}, {{t+|ja|聯盟|tr=renmei|sc=Jpan}} {{qualifier|dated}}, {{t+|ja|同盟|tr=どうめい, dōmei}}
-* Kazakh: {{t|kk|федерация|sc=Cyrl}}
+* Japanese: {{t+|ja|連邦|tr=れんぽう, renpō}}, {{t+|ja|聯邦|tr=renpō}} {{qualifier|dated}}, {{t+|ja|連盟|tr=れんめい, renmei}}, {{t+|ja|聯盟|tr=れんめい, renmei}} {{qualifier|dated}}, {{t+|ja|同盟|tr=どうめい, dōmei}}
+* Kazakh: {{t|kk|федерация}}
 * Khmer: {{t+|km|សហព័ន្ធ}}
-* Korean: {{t+|ko|연방(聯邦)}}, {{t+|ko|연합(聯合)}}, {{t+|ko|연맹(聯盟)}}, {{t+|ko|동맹(同盟)}}
-* Kyrgyz: {{t+|ky|федерация|sc=Cyrl}}
+* Korean: {{t+|ko|연방(聯邦)}}, {{t+|ko|련방(聯邦)}} {{qualifier|North Korea}}, {{t+|ko|연합(聯合)}}, {{t+|ko|련합(聯合)}} {{qualifier|North Korea}}, {{t+|ko|연맹(聯盟)}}, {{t+|ko|련맹(聯盟)}} {{qualifier|North Korea}}, {{t+|ko|동맹(同盟)}}
+* Kyrgyz: {{t+|ky|федерация}}
 * Lao: {{t+|lo|ສະຫະພັນ}}, {{t|lo|ສະຫະພັນຣັດ}}
-* Latin: {{t|la|foederātiō|f}}
 {{trans-mid}}
+* Latin: {{t|la|foederātiō|f}}
 * Latvian: {{t|lv|federācija|f}}
 * Lithuanian: {{t|lt|federacija|f}}
 * Low German:
 *: German Low German: {{t|nds-de|Föderatschoon|f}}
-* Macedonian: {{t|mk|федерација|f|sc=Cyrl}}
+* Macedonian: {{t|mk|федерација|f}}
 * Malay: {{t+|ms|persekutuan}}, {{t|ms|federasi}}
 * Maltese: {{t|mt|federazzjoni|f}}
-* Mongolian: {{t+|mn|холбоо}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|холбоо}}
 * Norwegian:
 *: Bokmål: {{t+|nb|føderasjon|m}}, {{t|nb|forbundsstat|m}}
 *: Nynorsk: {{t|nn|føderasjon|m}}, {{t|nn|forbundsstat|m}}
 * Occitan: {{t+|oc|federacion|f}}
-* Pashto: {{t|ps|فدارسيون|m|tr=ferāsyún}}, {{t|ps|فېډرېشن|m|tr=feḍeréšan}}, {{t+|ps|اتحاد|m|tr=etehãd}}
-* Persian: {{t+|fa|فدراسیون|tr=federâsyun|sc=fa-Arab}}, {{t+|fa|اتحاد|tr=ettehâd}}
+* Pashto: {{t|ps|فدارسيون|m|tr=federāsyun}}, {{t|ps|فېډرېشن|m|tr=feḍerēšan}}, {{t+|ps|اتحاد|m|tr=etehād}}
+* Persian: {{t+|fa|فدراسیون|tr=federâsyun}}, {{t+|fa|اتحاد|tr=ettehâd}}
 * Polish: {{t+|pl|federacja|f}}
 * Portuguese: {{t+|pt|federação|f}}
 * Romanian: {{t+|ro|federație|f}}
 * Russian: {{t+|ru|федера́ция|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|федерација|f}}
-*: Roman: {{t+|sh|federacija|f}}
+*: Cyrillic: {{t|sh|федера́ција|f}}
+*: Roman: {{t+|sh|federácija|f}}
 * Slovak: {{t|sk|federácia|f}}
 * Slovene: {{t|sl|federacija|f}}
 * Spanish: {{t+|es|federación|f}}
 * Swedish: {{t+|sv|federation|c}}
 * Tagalog: {{t|tl|kalipunan}}, {{t+|tl|pederasyon}}, {{t|tl|sampisanan}}
-* Tajik: {{t|tg|федерасия|sc=Cyrl}}, {{t|tg|иттиҳод}}
+* Tajik: {{t|tg|федерасия}}, {{t|tg|иттиҳод}}
 * Tatar: {{t|tt|федерация}}
 * Telugu: {{t+|te|సమాఖ్య}}
 * Thai: {{t|th|สหพันธรัฐ}}, {{t|th|สหพันธ์}}
@@ -113,11 +114,11 @@ Borrowed from {{bor|en|fr|fédération}}, from {{der|en|LL.|foederatio}}, from {
 * Turkish: {{t+|tr|federasyon}}, {{t+|tr|ittifak}}
 * Turkmen: {{t|tk|federasiýa}}
 * Tuvan: {{t|tyv|федерация}}
-* Ukrainian: {{t|uk|федера́ція|f|sc=Cyrl}}
-* Urdu: {{t|ur|فیڈریشن|tr=feḍareśan|sc=ur-Arab}}, {{t+|ur|اتحاد|tr=ittihād}}, {{t|ur|وفاق|tr=vifāq}}
+* Ukrainian: {{t|uk|федера́ція|f}}
+* Urdu: {{t|ur|فیڈریشن|tr=feḍareśan}}, {{t+|ur|اتحاد|tr=ittihād}}, {{t|ur|وفاق|tr=vifāq}}
 * Uyghur: {{t|ug|فېدېراتسىيە}}
 * Uzbek: {{t+|uz|federatsiya}}, {{t+|uz|ittifoq}}, {{t|uz|federasiya}}
-* Vietnamese: {{t+|vi|liên bang}} ({{t|vi|聯邦|sc=Hani}})
+* Vietnamese: {{t+|vi|liên bang}} ({{t|vi|聯邦}})
 * Volapük: {{t+|vo|fed}}
 * Votic: {{t|vot|federaattsija}}
 * Yakut: {{t|sah|бэдэрээссийэ}}, {{t|sah|федерация}}
@@ -127,7 +128,7 @@ Borrowed from {{bor|en|fr|fédération}}, from {{der|en|LL.|foederatio}}, from {
 
 {{trans-top|society or organisation formed from separate groups or bodies}}
 * Chinese:
-*: Mandarin: {{t+|cmn|聯合會|sc=Hani}}, {{t+|cmn|联合会|tr=liánhéhuì|sc=Hani}}
+*: Mandarin: {{t+|cmn|聯合會}}, {{t+|cmn|联合会|tr=liánhéhuì}}
 * Dutch: {{t+|nl|federatie|f}}
 * Finnish: {{t+|fi|liitto}}
 {{trans-mid}}
