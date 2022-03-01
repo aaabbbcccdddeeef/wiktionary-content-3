@@ -57,7 +57,7 @@ From {{der|en|la|fata||prediction}}, plural of {{m|la|fatum}}, from {{m|la|fatus
 * Armenian: {{t+|hy|ճակատագիր}}, {{t+|hy|բախտ}}
 * Aromanian: {{t|rup|soarti|f}}, {{t|rup|soarte|f}}, {{t|rup|lahno}}, {{t|rup|mirã}}, {{t|rup|nãfãcã}}, {{t|rup|scriatã}}, {{t|rup|tihi}}, {{t|rup|ursitã}}
 * Azerbaijani: {{t+|az|qədər}}, {{t+|az|bəxt}}, {{t|az|nəsib}}, {{t+|az|tale}}
-* Bashkir: {{t|ba|яҙмыш|sc=Cyrl}}
+* Bashkir: {{t|ba|яҙмыш}}
 * Basque: {{t+|eu|halabehar}}
 * Belarusian: {{t|be|лёс|m}}, {{t|be|до́ля|f}}
 * Bengali: {{t|bn|নসিব}}
@@ -66,10 +66,10 @@ From {{der|en|la|fata||prediction}}, plural of {{m|la|fatum}}, from {{m|la|fatus
 * Catalan: {{t+|ca|destí|m}}, {{t+|ca|fat|m}}
 * Cherokee: {{t|chr|ᎢᏳᏓᎵᏍᏓᏁᏗ}}
 * Chinese:
-*: Mandarin: {{t+|cmn|命運|sc=Hani}}, {{t+|cmn|命运|tr=mìngyùn|sc=Hani}}, {{t+|cmn|氣數|sc=Hani}}, {{t+|cmn|气数|tr=qìshu|sc=Hani}}, {{t+|cmn|宿命|tr=sùmìng|sc=Hani}}, {{t+|cmn|運命|sc=Hani}}, {{t+|cmn|运命|tr=yùnmìng|sc=Hani}}
+*: Mandarin: {{t+|cmn|命運}}, {{t+|cmn|命运|tr=mìngyùn}}, {{t+|cmn|氣數}}, {{t+|cmn|气数|tr=qìshu}}, {{t+|cmn|宿命|tr=sùmìng}}, {{t+|cmn|運命}}, {{t+|cmn|运命|tr=yùnmìng}}
 * Czech: {{t+|cs|osud|m}}, {{t+|cs|úděl|m}}
 * Dalmatian: {{t|dlm|suart}}
-* Danish: {{t|da|skæbne}}
+* Danish: {{t|da|skæbne|c}}
 * Dutch: {{t+|nl|lot|n}}, {{t+|nl|beschikking|f}}
 * Esperanto: {{t+|eo|sorto}}, {{t|eo|destino}}, {{t|eo|fatalo}}
 * Estonian: {{t|et|saatus}}
@@ -102,10 +102,11 @@ From {{der|en|la|fata||prediction}}, plural of {{m|la|fatum}}, from {{m|la|fatus
 * Latin: {{t|la|fatum|n}}, {{t+|la|sors}}, {{t|la|fatus|m}}, {{t+|la|pars|f}}
 * Latvian: {{t+|lv|liktenis|m}}
 * Lithuanian: {{t+|lt|likimas|m}}
-* Macedonian: {{t|mk|судбина|f|sc=Cyrl}}
+* Macedonian: {{t|mk|судбина|f}}
 * Malay: {{t|ms|nasib}}, {{t|ms|takdir}}
 * Mizo: {{t|lus|khúarèl}}, {{qualifier|literary}} {{t|lus|khúaléng}}
-* Mongolian: {{t|mn|хувь тавилан}}, {{t|mn|хувь зохиол}}, {{t|mn|хувь заяа}}, {{t+|mn|мөхөл}}, {{t+|mn|үхэл}}, {{t|mn|заяа тавилан}}
+* Mongolian:
+*: Cyrillic: {{t|mn|хувь тавилан}}, {{t|mn|хувь зохиол}}, {{t|mn|хувь заяа}}, {{t+|mn|мөхөл}}, {{t+|mn|үхэл}}, {{t|mn|заяа тавилан}}
 * Norman: {{t|nrf|destinné|f}}, {{t|nrf|sort|m}}
 * Norwegian:
 *: Bokmål: {{t+|nb|skjebne|m}}
@@ -124,8 +125,8 @@ From {{der|en|la|fata||prediction}}, plural of {{m|la|fatum}}, from {{m|la|fatus
 * Sardinian: {{t|sc|solte}}, {{t|sc|solte}}, {{t|sc|solti}}, {{t|sc|sorti}}
 * Scots: {{t|sco|weird}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|усуд|m|sc=Cyrl}}, {{t|sh|судбина|f|sc=Cyrl}}, {{t|sh|судба|f|sc=Cyrl}}
-*: Roman: {{t+|sh|usud|m}}, {{t+|sh|sudbina|f}}, {{t+|sh|sudba|f}}
+*: Cyrillic: {{t|sh|у̀суд|m}}, {{t|sh|су̏дбина|f}}, {{t|sh|су̀дба|f}}
+*: Roman: {{t+|sh|ùsud|m}}, {{t+|sh|sȕdbina|f}}, {{t+|sh|sùdba|f}}
 * Sicilian: {{t|scn|fatu|m}}, {{t+|scn|distinu|m}}, {{t|scn|sorti}}
 * Slovak: {{t|sk|osud|m}}
 * Slovene: {{t+|sl|usoda|f}}
@@ -145,7 +146,7 @@ From {{der|en|la|fata||prediction}}, plural of {{m|la|fatum}}, from {{m|la|fatus
 * Uyghur: {{t|ug|تەقدىر}}
 * Uzbek: {{t+|uz|taqdir}}, {{t+|uz|nasiba}}, {{t+|uz|qismat}}
 * Venetian: {{t|vec|sorte|f}}, {{t|vec|sort|f}}, {{t|vec|destìn}}
-* Vietnamese: {{t+|vi|số phận}} ({{t|vi|數分|sc=Hani}}), {{t|vi|số mạng}} ({{t|vi|數命|sc=Hani}}), {{t+|vi|vận mệnh}} ({{t|vi|運命|sc=Hani}})
+* Vietnamese: {{t+|vi|số phận}} ({{t|vi|數分}}), {{t|vi|số mạng}} ({{t|vi|數命}}), {{t+|vi|vận mệnh}} ({{t|vi|運命}})
 * Welsh: {{t+|cy|tynged|m|f}}
 * Yiddish: {{t|yi|גורל|m|tr=goyrl}}
 * Zazaki: {{t|zza|qeder}}, {{t|zza|qısmet}}
@@ -160,39 +161,39 @@ From {{der|en|la|fata||prediction}}, plural of {{m|la|fatum}}, from {{m|la|fatus
 * Finnish: {{t+|fi|kohtalo}}
 * Galician: {{t|gl|destino|m}}, {{t|gl|fado|m}}
 * Greek: {{t+|el|τύχη|f}}, {{t+|el|μοίρα|f}}, {{t+|el|πεπρωμένο|n}}
-* Hebrew: {{t+|he|מזל|tr=mazal|sc=Hebr|m}} {{q|luck}}, {{t+|he|גורל|tr=goral|sc=Hebr}}
+* Hebrew: {{t+|he|מַזָּל|m|tr=mazal}}, {{t+|he|גּוֹרָל|m|tr=gorál}}
 * Indonesian: {{t+|id|nasib}}
 * Italian: {{t+|it|destino|m}}, {{t+|it|fato|m}}
 * Kurdish:
 *: Central Kurdish: {{t+|ckb|چارەنووس}}
 {{trans-mid}}
 * Latin: {{t|la|fatum|n}}, {{t+|la|sors}}
-* Macedonian: {{t|mk|судбина|f-p|sc=Cyrl}}
+* Macedonian: {{t|mk|судбина|f-p}}
 * Norwegian:
 *: Bokmål: {{t+|nb|skjebne|m}}
 *: Nynorsk: {{t|nn|skjebne|m}}
 * Portuguese: {{t+|pt|sina|f}}
 * Russian: {{t+|ru|судьба́|f}}, {{t+|ru|до́ля|f}}, {{t+|ru|у́часть|f}}, {{t+|ru|рок|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|усуд|m|sc=Cyrl}}, {{t|sh|судбина|f|sc=Cyrl}}
-*: Roman: {{t+|sh|usud|m}}, {{t+|sh|sudbina|f}}
+*: Cyrillic: {{t|sh|у̀суд|m}}, {{t|sh|су̏дбина|f}}, {{t|sh|су̀дба|f}}
+*: Roman: {{t+|sh|ùsud|m}}, {{t+|sh|sȕdbina|f}}, {{t+|sh|sùdba|f}}
 * Swahili: {{t+|sw|majaliwa}}
 * Venetian: {{t+|vec|sòrt|f}}
-* Vietnamese: {{t+|vi|vận mệnh}} ({{t|vi|運命|sc=Hani}})
+* Vietnamese: {{t+|vi|vận mệnh}} ({{t|vi|運命}})
 {{trans-bottom}}
 
 {{trans-top|destiny}}
 * Arabic: {{t|ar|قِسْمَة|f}}, {{t|ar|مَصِير|m}}, {{t+|ar|قَدَر|m}}
 *: Hijazi Arabic: {{t|acw|مَصِير|m|tr=maṣīr}}, {{t|acw|قَدَر|m|tr=gadar}}, {{t|acw|نَصيب|m|tr=naṣīb}}, {{t|acw|قِسْمَة|f|tr=gisma}}
 * Armenian: {{t+|hy|ճակատագիր}}
-* Bashkir: {{t|ba|яҙмыш|sc=Cyrl}}
+* Bashkir: {{t|ba|яҙмыш}}
 * Basque: {{t+|eu|adur}}, {{t|eu|zori}}
-* Belarusian: {{t|be|лёс|m|sc=Cyrl}}
-* Bulgarian: {{t+|bg|съдба|f|sc=Cyrl}}, {{t+|bg|у́част|f|sc=Cyrl}}, {{t+|bg|орис|f|sc=Cyrl}}
+* Belarusian: {{t|be|лёс|m}}
+* Bulgarian: {{t+|bg|съдба́|f}}, {{t+|bg|у́част|f}}, {{t+|bg|о́рис|f}}
 * Catalan: {{t+|ca|destí|m}}, {{t+|ca|planeta|f}}
 * Cherokee: {{t|chr|ᎢᏳᏓᎵᏍᏓᏁᏗ}}
 * Chinese:
-*: Mandarin: {{t+|cmn|命運|sc=Hani}}, {{t+|cmn|命运|tr=mìngyùn|sc=Hani}}, {{t+|cmn|氣數|sc=Hani}}, {{t+|cmn|气数|tr=qìshu|sc=Hani}}, {{t+|cmn|宿命|tr=sùmìng|sc=Hani}}, {{t+|cmn|運命|sc=Hani}}, {{t+|cmn|运命|tr=yùnmìng|sc=Hani}}
+*: Mandarin: {{t+|cmn|命運}}, {{t+|cmn|命运|tr=mìngyùn}}, {{t+|cmn|氣數}}, {{t+|cmn|气数|tr=qìshu}}, {{t+|cmn|宿命|tr=sùmìng}}, {{t+|cmn|運命}}, {{t+|cmn|运命|tr=yùnmìng}}
 * Czech: {{t+|cs|osud|m}}
 * Danish: {{t|da|skæbne|c}}
 * Dutch: {{t+|nl|lot|n}}
@@ -204,7 +205,7 @@ From {{der|en|la|fata||prediction}}, plural of {{m|la|fatum}}, from {{m|la|fatus
 * German: {{t+|de|Schicksal|n}}
 * Greek: {{t+|el|μοίρα|f}}, {{t+|el|πεπρωμένο|n}}
 *: Ancient: {{t|grc|μοῖρα|f}}
-* Hebrew: {{t+|he|מזל|m|tr=mazal|sc=Hebr}}, {{t+|he|גורל|m|tr=gorál|sc=Hebr}}
+* Hebrew: {{t+|he|מַזָּל|m|tr=mazal}}, {{t+|he|גּוֹרָל|m|tr=gorál}}
 * Hindi: {{t|hi|क़िस्मत|f}}, {{t+|hi|किस्मत|f}}, {{t+|hi|नसीब|m}}, {{t|hi|तक़दीर|f}}, {{t+|hi|तकदीर|f}}, {{t+|hi|भाग्य|m}}, {{t+|hi|विधि|f}}, {{t+|hi|लेख|m}}, {{t+|hi|कर्म|m}}, {{t+|hi|करम|m}}, {{t+|hi|नसीब|m}}, {{t|hi|मुक़द्दर|m}}, {{t+|hi|मुकद्दर|m}}, {{t+|hi|भाग|m}}
 * Hungarian: {{t+|hu|végzet}}
 * Icelandic: {{t+|is|örlög|n-p}}
@@ -216,9 +217,9 @@ From {{der|en|la|fata||prediction}}, plural of {{m|la|fatum}}, from {{m|la|fatus
 * Kurdish:
 *: Central Kurdish: {{t+|ckb|چارەنووس}}, {{t|ckb|قەزا و قەدەر}}
 * Latin: {{t|la|fatum|n}}, {{t+|la|sors}}, {{t|la|fatus|m}}
-* Macedonian: {{t|mk|судбина|f|sc=Cyrl}}, {{t|mk|касмет|m|sc=Cyrl}}, {{t|mk|судбина|f|sc=Cyrl}}
+* Macedonian: {{t|mk|судбина|f}}, {{t|mk|касмет|m}}
 * Maori: {{t|mi|ara tātai}}, {{t|mi|mana matatuhi}}
-* Nepali: {{t|ne|भाग्य|sc=Deva}}
+* Nepali: {{t|ne|भाग्य}}
 * Norman: {{t|nrf|destinné|f}}
 * Norwegian:
 *: Bokmål: {{t+|nb|skjebne|m}}
@@ -230,18 +231,18 @@ From {{der|en|la|fata||prediction}}, plural of {{m|la|fatum}}, from {{m|la|fatus
 * Romanian: {{t+|ro|soartă}}
 * Russian: {{t+|ru|судьба́|f}}, {{t+|ru|до́ля|f}}, {{t+|ru|у́часть|f}}, {{t+|ru|рок|m}}, {{t+|ru|уде́л|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|судба|f|sc=Cyrl}}, {{t|sh|судбина|f|sc=Cyrl}}
-*: Roman: {{t+|sh|sudba|f}}, {{t+|sh|sudbina|f}}
+*: Cyrillic: {{t|sh|у̀суд|m}}, {{t|sh|су̏дбина|f}}, {{t|sh|су̀дба|f}}
+*: Roman: {{t+|sh|ùsud|m}}, {{t+|sh|sȕdbina|f}}, {{t+|sh|sùdba|f}}
 * Slovene: {{t+|sl|usoda|f}}
 * Spanish: {{t+|es|destino|m}}, {{t+|es|azar|m}}
 * Swahili: {{t+|sw|majaliwa}}
 * Swedish: {{t+|sv|öde|n}}
 * Thai: {{t|th|พรหมลิขิต}}, {{t+|th|โชคชะตา}}, {{t|th|เทวลิขิต}}
 * Tibetan: {{t|bo|ལས}}
-* Ukrainian: {{t+|uk|до́ля|f|sc=Cyrl}}, {{t|uk|льос|m|sc=Cyrl}}
+* Ukrainian: {{t+|uk|до́ля|f}}, {{t|uk|льос|m}}
 * Urdu: {{t|ur|قسمت|f|tr=qismat}}, {{t|ur|تقدیر|f|tr=taqdīr}}
 * Venetian: {{t+|vec|sòrt|f}}
-* Vietnamese: {{t+|vi|vận mệnh}} ({{t|vi|運命|sc=Hani}})
+* Vietnamese: {{t+|vi|vận mệnh}} ({{t|vi|運命}})
 * Volapük: {{t+|vo|fät}}
 * Welsh: {{t+|cy|tynged|m|f}}
 * Yiddish: {{t|yi|גורל|m|tr=goyrl}}
