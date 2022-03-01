@@ -12,8 +12,8 @@
 ===Etymology 1===
 Origin {{unk|en|title=uncertain}}; but probably of {{der|en|gmq}} origin. Probably either a back-formation from {{m|en|foggy||covered with tall grass; thick, marshy}}, from the earlier-attested {{m|en|fog||tall grass}} (see below),<ref>{{R:Dictionary.com|fog}}</ref><ref name="Etymonline">{{R:Etymonline}}</ref> or from or related to {{bor|en|da|fog|t=spray, shower, drift, storm}},<ref name="Etymonline"/> related to {{cog|is|fok|t=spray, any light thing tossed by the wind, snowdrift}}, {{cog|is|fjúka|t=to blow, drive}}, from {{der|en|gem-pro|*feukaną|t=to whisk, blow}}, from {{der|en|ine-pro|*pug-|t=billow, bulge, drift}}, from {{m|ine-pro|*pew-}}, {{m|ine-pro|*pow-|t=to blow, drift, billow}}, in which case related to {{cog|de|fauchen|t=to hiss, spit, spray}}.
 
-====Noun====
-{{en-noun|~}}
+===Noun===
+{{head|en|noun}}
 
 # {{lb|en|uncountable}} A thick [[cloud]] that forms near the ground; the [[obscurity]] of such a cloud. {{q|Compare {{m|en|mist}}, {{m|en|haze}}.}}
 #* {{RQ:Belloc Lowndes Lodger|I|0016}}
@@ -30,11 +30,11 @@ Origin {{unk|en|title=uncertain}}; but probably of {{der|en|gmq}} origin. Probab
 # {{lb|en|photography}} A [[silver]] [[deposit]] or other [[blur]] on a [[negative]] or developed photographic image.
 # {{lb|en|computer graphics}} [[distance fog|Distance fog]].
 
-=====Usage notes=====
+====Usage notes====
 * To count sense '''thick cloud''', [[bank]] of fog is usually used.
 * To count sense '''clouding a surface''', [[foggy]] [[patch]] is usually used.
 
-=====Hypernyms=====
+====Hypernyms====
 * {{l|en|fret}}, {{l|en|sea fret}}
 * {{l|en|garua}}
 * {{l|en|haar}}
@@ -45,7 +45,7 @@ Origin {{unk|en|title=uncertain}}; but probably of {{der|en|gmq}} origin. Probab
 * {{l|en|sea smoke}}
 * {{l|en|tule fog}}
 
-=====Derived terms=====
+====Derived terms====
 {{der4|en
 |{{l|en|fog bank}}, {{l|en|fogbank}}
 |{{l|en|fogbell}}/{{l|en|fog bell}}
@@ -66,7 +66,7 @@ Origin {{unk|en|title=uncertain}}; but probably of {{der|en|gmq}} origin. Probab
 |{{l|en|vog}}
 }}
 
-=====Translations=====
+===Translations===
 {{trans-top|cloud that forms at a low altitude and obscures vision}}
 * Adyghe: {{tt|ady|пшагъо}}
 * Afrikaans: {{tt+|af|mis}}
@@ -151,7 +151,7 @@ Origin {{unk|en|title=uncertain}}; but probably of {{der|en|gmq}} origin. Probab
 * Icelandic: {{tt+|is|þoka|f}}
 * Ido: {{tt+|io|nebulo}}
 * Indonesian: {{tt+|id|kabut}}
-* Ingush: {{t|inh|дохк}}
+* Ingush: {{tt|inh|дохк}}
 * Irish: {{tt+|ga|ceo|m}}
 * Italian: {{tt+|it|nebbia|f}}
 * Japanese: {{tt+|ja|霧|tr=きり, kiri}}, {{tt|ja|霞み|tr=かすみ, kasumi}}
@@ -168,7 +168,7 @@ Origin {{unk|en|title=uncertain}}; but probably of {{der|en|gmq}} origin. Probab
 * Latgalian: {{tt|ltg|mygla}}
 * Latin: {{tt|la|cālīgō|f}}, {{tt|la|nebula|f}}
 * Latvian: {{tt+|lv|migla|f}}, {{tt|lv|dūmaka|f}}
-* Lezgi: {{t|lez|циф}}
+* Lezgi: {{tt|lez|циф}}
 {{trans-mid}}
 * Limburgish: {{tt+|li|mès|m}}
 * Lithuanian: {{tt|lt|rūkas|m}}, {{tt|lt|migla|f}}, {{tt|lt|ūkana|f}}
@@ -176,20 +176,20 @@ Origin {{unk|en|title=uncertain}}; but probably of {{der|en|gmq}} origin. Probab
 * Luxembourgish: {{tt|lb|Niwwel|m}}, {{tt|lb|Donscht|m}}
 * Lü: {{tt|khb|ᦖᦸᧅᧈ}}
 * Macedonian: {{tt|mk|магла|f}}
-* Maguindanao: {{t|mdh|lekeb}}
+* Maguindanao: {{tt|mdh|lekeb}}
 * Malagasy: {{tt+|mg|zavona}}
 * Malay: {{tt+|ms|kabus}}, {{tt|ms|kabut}}
 * Malayalam: {{tt+|ml|മൂടൽമഞ്ഞ്}}
 * Maltese: {{tt+|mt|ċpar|m}}
 * Manchu: {{tt|mnc|ᡨᠠᠯᠮᠠᠨ}}, {{tt|mnc|ᠮᡝᠯᡴᡝᠨ}}
-* Mansaka: {{t|msk|gabon}}
+* Mansaka: {{tt|msk|gabon}}
 * Manx: {{tt|gv|kay|f}}
 * Maori: {{tt+|mi|kohu}}, {{tt|mi|tuarehu}}
-* Maranao: {{t|mrw|lekep}}
+* Maranao: {{tt|mrw|lekep}}
 * Mirandese: {{tt|mwl|nubrina|f}}
 * Mongolian: {{tt+|mn|манан}}
 * Nahuatl: {{tt+|nah|poctli}}
-* Nanai: {{t|gld|тамна}}
+* Nanai: {{tt|gld|тамна}}
 * Navajo: {{tt|nv|áhí}}
 * Neapolitan: {{tt|nap|négghia|f}}
 * Nepali: {{tt+|ne|कुहिरो}}, {{tt+|ne|हुस्सु}}
@@ -200,11 +200,11 @@ Origin {{unk|en|title=uncertain}}; but probably of {{der|en|gmq}} origin. Probab
 * Old Church Slavonic:
 *: Cyrillic: {{tt|cu|мьгла|f}}
 * Old English: {{tt|ang|mist|m}}
-* Old Javanese: {{t|kaw|limut}}
+* Old Javanese: {{tt|kaw|limut}}
 * Old Norse: {{tt|non|þoka|f}}
 * Oriya: {{tt+|or|କୁହୁଡ଼ି}}
 * Orok: {{tt|oaa|tamnaska}}
-* Ossetian: {{t|os|мигъ}}
+* Ossetian: {{tt|os|мигъ}}
 * Pashto: {{tt+|ps|خوپ|m|tr=xwap}}, {{tt|ps|خوپڼه|f|tr=xoрǝ́ṇa}}, {{tt|ps|خوپڼی|m|tr=xoрaṇay}}
 * Persian: {{tt+|fa|مه|tr=meh}}, {{tt+|fa|میغ|tr=miğ}}, {{tt|fa|تمن|tr=taman}}
 * Pipil: {{tt|ppl|mishti}}, {{tt|ppl|mixti}}
@@ -249,7 +249,7 @@ Origin {{unk|en|title=uncertain}}; but probably of {{der|en|gmq}} origin. Probab
 * Thai: {{tt+|th|หมอก}}
 * Tibetan: {{tt|bo|སྨུག་པ}}, {{tt|bo|རྨུ་བ}}
 * Tigrinya: {{tt|ti|ዕምብረ}}
-* Turkish: {{t+|tr|sis}}
+* Turkish: {{tt+|tr|sis}}
 * Turkmen: {{tt|tk|duman}}, {{tt|tk|ümez}}
 * Tuvaluan: {{t|tvl|asu}}
 * Ukrainian: {{tt+|uk|тума́н|m}}, {{tt|uk|імла́|f}}
