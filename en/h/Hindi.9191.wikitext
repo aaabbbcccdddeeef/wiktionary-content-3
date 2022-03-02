@@ -179,7 +179,7 @@ From {{der|en|fa|هندی|tr=hendi}}, from {{m|fa|هند|tr=hend||India}}, from 
 {{wikipedia|lang=de}}
 
 ===Etymology===
-From {{der|de|sa|सिन्धु}}.
+{{bor+|de|sa|सिन्धु}}.
 
 ===Pronunciation===
 * {{IPA|de|/ˈhɪndiː/}}
@@ -187,14 +187,19 @@ From {{der|de|sa|सिन्धु}}.
 * {{audio|de|De-Hindi2.ogg|audio}}
 
 ===Proper noun===
-{{de-proper noun|langname}}
+{{de-proper noun|n,-:s}}<!-- use {{de-proper noun|nname}} -->
 
 # the [[#English|Hindi]] language
 
 ===Noun===
-{{head|de|noun|g=m}}
+{{de-noun|m,-:s,-:s}}
 
-# a Hindi-speaking person
+# [[#English|Hindi]] [[speaker]] {{q|male or of unspecified gender}}
+
+===Noun===
+{{de-noun|f,-:s}}
+
+# [[female]] [[#English|Hindi]] [[speaker]]
 
 ===Further reading===
 * {{R:Duden}}
