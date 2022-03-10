@@ -1,74 +1,243 @@
 {{also|kérnél}}
 ==English==
+{{wikipedia|dab=kernel}}
+[[Image:Almond in an open shell.jpg|thumb|Almond fruit broken open, showing the edible '''kernel''' (''sense 2'').]]
+
 ===Etymology===
 {{root|en|ine-pro|*ǵerh₂-}}
-From , , , from , from , diminutive of , equivalent to . Cognate with , , , . Related also to .
+From {{inh|en|enm|kernel}}, {{m|enm|kirnel}}, {{m|enm|kurnel|kürnel}}, from {{inh|en|ang|cyrnel}}, from {{inh|en|gmw-pro|*kurnil}}, diminutive of {{der|en|gem-pro|*kurną|t=seed, grain, corn}}, equivalent to {{af|en|corn|-le}}. Cognate with {{cog|yi|קערנדל}}, {{cog|dum|kernel}}, {{m|dum|cornel}}, {{cog|gmh|kornel}}. Related also to {{cog|non|kjarni|t=kernel}}.
 
 ===Pronunciation===
-*
-*
-*
-*
-*
+* {{a|UK}} {{IPA|en|/ˈkɜːnəl/}}
+* {{a|US}} {{IPA|en|/ˈkɝnəl/}}
+* {{audio|en|En-au-kernel.ogg|Audio (AU)}}
+* {{rhymes|en|ɜː(ɹ)nəl|s=2}}
+* {{homophones|en|colonel}}
 
 ===Noun===
+{{en-noun}}
 
-# The center, or essence of an object or system.
-#:
-#:
-# The central (usually edible) part of a , especially once the hard  has been removed.
-# A single  or grain, especially of  or wheat.
-# The  of certain fruits, such as peaches or plums.
-# A small mass around which other matter is concreted; a ; a concretion or hard lump in the flesh.
-# The central part of many computer operating systems which manages the system's resources and the communication between hardware and software components.
-#:
-#:
+# The [[core]], [[center]], or [[essence]] of an object or system.
+#: {{ux|en|the '''kernel''' of an argument}}
+#: {{syn|en|crux|gist}}
+# {{lb|en|botany}} The central (usually edible) part of a [[nut]], especially once the hard [[shell]] has been removed.
+# {{lb|en|botany}} A single [[seed]] or [[grain]], especially of [[corn]] or [[wheat]].
+# {{lb|en|botany|US}} The [[stone]] of certain fruits, such as [[peach]]es or [[plum]]s.
+# A small mass around which other matter is concreted; a [[nucleus]]; a [[concretion]] or hard lump in the flesh.
+# {{lb|en|computing}} The central part of many computer [[operating system]]s which manages the system's [[resource]]s and the [[communication]] between [[hardware]] and [[software]] components.
+#: {{hypo|en|microkernel|unikernel}}
+#: {{ant|en|userland}}
 #: {{ux|en|The Linux '''kernel''' is open-source.}}
-# The core engine of any complex software system.
-# A function used to define an .
+# {{lb|en|computing}} The core engine of any complex software system.
+# {{lb|en|calculus}} A function used to define an [[integral transform]].
 #: {{ux|en|The Dirichlet '''kernel''' convolved with a function yields its Fourier series approximation.}}
-# A set of pairs of a mapping's domain which are mapped to the same value.
-# For a given  (especially a linear map between ), the set of elements in the  which are mapped to ; {{lb|en|formally}} given ''f''&nbsp;:&nbsp;''X''&nbsp;→&nbsp;''Y'', the set {''x''&nbsp;∈&nbsp;''X''&nbsp;:&nbsp;''f''(''x'')&nbsp;=&nbsp;0}.
-#:
-#:
-# ''For a category with'' : the equalizer of a given morphism and the zero morphism which is parallel to that given morphism.
-# The of members of a fuzzy set that are fully included (i.e., whose grade of membership is 1).
-# The human clitoris.
+# {{lb|en|mathematics}} A set of pairs of a mapping's domain which are mapped to the same value.
+# {{lb|en|mathematics|linear algebra|functional analysis}} For a given [[function]] (especially a [[linear map]] between [[vector space]]s), the set of elements in the [[domain]] which are mapped to [[zero]]; {{lb|en|formally}} given ''f''&nbsp;:&nbsp;''X''&nbsp;→&nbsp;''Y'', the set {''x''&nbsp;∈&nbsp;''X''&nbsp;:&nbsp;''f''(''x'')&nbsp;=&nbsp;0}.
+#: {{ux|en|If a function is continuous then its '''kernel''' is a closed set.}}
+#: {{ant|en|support}}
+#: {{meronyms|en|root|zero}}
+# {{lb|en|mathematics|category theory}} ''For a category with [[zero morphism]]s'': the [[equalizer]] of a given morphism and the zero morphism which is parallel to that given morphism.
+# {{lb|en|mathematics|fuzzy set theory}} The [[set]] of members of a [[fuzzy set]] that are fully included (i.e., whose grade of membership is 1).
+# {{lb|en|slang}} The human [[clitoris]].
 #* '''2014''', Karyn Gerrard, Irene Preston, Lotchie Burton ''et al'', ''Summer Heat: 10 Spicy Romances That Sizzle''
 #*: Using the blunt end of one of the vibraphone mallets, he pried open her folds. With the balled end of the other, he rhythmically rolled over her '''kernel'''.
-# The nucleus and electrons of an atom excluding its valence electrons.
+# {{lb|en|chemistry}} The nucleus and electrons of an atom excluding its valence electrons.
 #* '''1916''', Gilbert N. Lewis, “The Atom and The Molecule,” ''Journal of the American Chemical Society'' 38(4) p 768.
 #*: 1. In every atom is an essential '''kernel''' which remains unaltered in all ordinary chemical changes and which possesses an excess of positive charges corresponding in number to the ordinal number of the group in the periodic table to which the element belongs.
-* {{sense|core or essence}} See also Thesaurus:gist
+
+====Synonyms====
+* {{sense|core or essence}} See also [[Thesaurus:gist]]
 
 ====Derived terms====
-====Translations====
-===Verb===
+{{col4|en
+|cokernel
+|{{vern|kernel cowry}}, {{vern|kernel cowrie}} (''[[Nucleolaria nucleus]]'')
+|kernel function
+|kernel hacker
+|kernel of truth
+|kernel space
+|kernelization
+|positive-definite kernel
+}}
 
-# To enclose within a kernel
-# To crenelate
+====Translations====
+{{trans-top|core or essence of an object or system}}
+* Armenian: {{t+|hy|միջուկ}}, {{t+|hy|կորիզ}}
+* Bulgarian: {{t+|bg|ядро|n}}, {{t+|bg|същност|f}}
+* Chinese:
+*: Mandarin: {{t+|cmn|核心|tr=héxīn}}
+* Finnish: {{t+|fi|ydin}}
+* French: {{t+|fr|fond|m}}, {{t+|fr|cœur|m}}
+* Galician: {{t+|gl|cerne|m}}
+* Georgian: {{t|ka|მარცვალი}}, {{t|ka|გული}}, {{t|ka|არსი}}
+* German: {{t+|de|Kern|m}}
+* Greek: {{t+|el|πυρήνας|m}}
+* Irish: {{t|ga|eithne|f}}
+* Italian: {{t+|it|nucleo|m}}, {{t+|it|nocciolo|m}}
+* Japanese: {{t+|ja|核心|tr=かくしん, kakushin}}
+{{trans-mid}}
+* Korean: {{t+|ko|핵심}}
+* Macedonian: {{t|mk|јадро|n}}, {{t|mk|срж|f}}
+* Maori: {{t|mi|karihi}}
+* Polish: {{t+|pl|trzon|m}}, {{t+|pl|rdzeń|m}}, {{t+|pl|sedno|n}}
+* Portuguese: {{t+|pt|cerne|m}}
+* Russian: {{t+|ru|суть|f}}, {{t+|ru|су́щность|f}}
+* Scottish Gaelic: {{t|gd|eitean|m}}, {{t|gd|cridhe|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|jědro|n}}
+* Spanish: {{t+|es|núcleo|m}}
+* Swedish: {{t+|sv|kärna|?}}
+* Turkish: {{t+|tr|öz}}
+* Yiddish: {{t|yi|קערן|m}}
+{{trans-bottom}}
+
+{{trans-top|central part of a nut}}
+* Azerbaijani: {{t+|az|özək}}
+* Bulgarian: {{t+|bg|ядка|f}}
+* Czech: {{t+|cs|jádro|n}}
+* Finnish: {{t+|fi|pähkinä}}
+* French: {{t+|fr|amande|f}}, {{t+|fr|cerneau|m}}
+* Georgian: {{t|ka|გული}}
+* German: {{t+|de|Kern|m}}
+* Greek: {{t+|el|πυρήνας|m}}
+* Icelandic: {{t+|is|kjarni|m}}
+* Italian: {{t+|it|gheriglio|m}}
+* Macedonian: {{t|mk|срцевина|f}}
+* Maori: {{t|mi|karihi}}, {{t|mi|kiko}}, {{t|mi|kikokiko}}
+{{trans-mid}}
+* Old English: {{t|ang|cyrnel|m}}
+* Portuguese: {{t+|pt|miolo|m}}
+* Russian: {{t+|ru|ядро́|n}}, {{t+|ru|сердцеви́на|f}} {{qualifier|fruit}}
+* Scottish Gaelic: {{t|gd|eitean|m}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|jědro|n}}
+* Spanish: {{t+|es|almendra|f}}, {{t+|es|núcleo|m}}
+* Swedish: {{t+|sv|kärna|?}}
+* Turkish: {{t+|tr|göbek}}
+* Yiddish: {{t|yi|קערנדל|n}}
+{{trans-bottom}}
+
+{{trans-top|single seed of corn or wheat}}
+* Bulgarian: {{t+|bg|зърно́}}
+* Dutch: {{t+|nl|graan|?}}
+* Finnish: {{t+|fi|jyvä}}
+* French: {{t+|fr|grain|m}}
+* Georgian: {{t|ka|მარცვალი}}
+* Greek:
+*: Ancient: {{t|grc|κόκκος|m}}
+* Italian: {{t+|it|chicco|m}}
+{{trans-mid}}
+* Macedonian: {{t|mk|зрно|n}}
+* Polish: {{t+|pl|ziarno|n}}
+* Portuguese: {{t+|pt|grão|m}}
+* Russian: {{t+|ru|зерно́|n}}, {{t+|ru|зёрнышко|n}}
+* Scottish Gaelic: {{t|gd|sìol|m}}
+* Spanish: {{t+|es|grano|m}}
+* Swedish: {{t+|sv|korn|?}}
+* Turkish: {{t+|tr|tane}}
+* Yiddish: {{t|yi|קערנדל|n}}
+{{trans-bottom}}
+
+{{trans-top|(US) stone of certain fruits, such as peaches or plums}}
+* Armenian: {{t+|hy|կորիզ}}
+* Bashkir: {{t|ba|һөйәк}}
+* Czech: {{t+|cs|pecka|f}}
+* Finnish: {{t+|fi|kivi}}
+* French: {{t+|fr|noyau|m}}
+* Greek: {{t+|el|πυρήνας|m}}, {{t+|el|κουκούτσι|n}}
+* Italian: {{t+|it|nocciolo|m}}
+{{trans-mid}}
+* Kyrgyz: {{t+|ky|өзөк}}
+* Macedonian: {{t|mk|голушка|f}}, {{t|mk|коска|f}}
+* Polish: {{t+|pl|pestka|f}}
+* Portuguese: {{t+|pt|caroço|m}}
+* Russian: {{t+|ru|ко́сточка|f}}
+* Spanish: {{t+|es|hueso|m}}, {{t+|es|núcleo|m}}
+* Turkish: {{t+|tr|çekirdek}}
+{{trans-bottom}}
+
+{{trans-top|(computing) central part of many computer operating systems}}
+* Arabic: {{t|ar|نَوَاة|f}}
+*: Gulf Arabic: {{t|afb|نواة|f|tr=nuwāt}}
+* Czech: {{t+|cs|jádro|n}}
+* Danish: {{t|da|kerne|c}}
+* Finnish: {{t|fi|käyttöjärjestelmäydin}}, {{t+|fi|ydin}}, {{t|fi|kerneli}}
+* French: {{t+|fr|noyau|m}}
+* German: {{t|de|Betriebssystemkern|m}}, {{t+|de|Kernel|m}}
+* Greek: {{t+|el|πυρήνας|m}}
+* Icelandic: {{t+|is|kjarni|m}}, {{t|is|stýrikjarni|m}}
+* Italian: {{t+|it|kernel|m}}
+* Korean: {{t|ko|커널}}
+{{trans-mid}}
+* Kyrgyz: {{t+|ky|өзөк}}, {{t+|ky|дан}}
+* Macedonian: {{t|mk|јадро|n}}
+* Polish: {{t+|pl|jądro|n}}, {{t+|pl|jajko|n}}
+* Portuguese: {{t+|pt|kernel|m}}, {{t+|pt|núcleo|m}}
+* Russian: {{t+|ru|ядро́|n}}
+* Spanish: {{t+|es|núcleo|m}}, {{t|es|granelo|m}}
+* Swedish: {{t|sv|operativsystemkärna|?}}, {{t+|sv|kärna|c}}
+* Turkish: {{t+|tr|çekirdek}}
+* Vietnamese: {{t+|vi|nhân}}
+{{trans-bottom}}
+
+{{trans-top|(mathematics, algebra) set of elements mapped to zero}}
+* Czech: {{t+|cs|jádro|n}}
+* Danish: {{t|da|kerne|c}}
+* Dutch: {{t+|nl|kern|m|f}}
+* Finnish: {{t+|fi|ydin}}
+* French: {{t+|fr|noyau|m}}
+* German: {{t+|de|Kern|m}}
+* Greek: {{t+|el|πυρήνας|m}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|mag}}
+* Italian: {{t+|it|nucleo|m}}
+* Polish: {{t+|pl|jądro|n}}
+* Portuguese: {{t+|pt|núcleo|m}}
+* Russian: {{t+|ru|ядро́|n}}
+* Spanish: {{t+|es|núcleo|m}}
+{{trans-bottom}}
+
+{{trans-top|(mathematics, fuzzy set theory) Set of members of a fuzzy set that are fully included}}
+* Finnish: {{t+|fi|ydin}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Esperanto: {{t+check|eo|kerno}}
+{{trans-mid}}
+* Georgian: {{t-check|ka|მარცვალი}}
+{{trans-bottom}}
+
+===Verb===
+{{en-verb}}
+
+# To [[enclose]] within a [[kernel]]
+# To [[crenelate]]
 
 ===Anagrams===
-*
+* {{anagrams|en|a=eeklnr|kleren}}
 
 ----
 
 ==Hungarian==
 
 ===Etymology===
-From .
+From {{bor|hu|en|kernel}}. <ref>{{R:TotfalusiEty 2005}}</ref>
 
 ===Pronunciation===
-*
-*
-*
+* {{hu-IPA}}
+* {{hyphenation|hu|ker|nel}}
+* {{rhymes|hu|ɛl|s=2}}
 
 ===Noun===
+{{hu-noun|ek}}
 
-# {{gloss|the central part of many computer operating systems}}
-#:
+# {{lb|hu|computing}} [[kernel#English|kernel]] {{gloss|the central part of many computer operating systems}}
+#: {{syn|hu|rendszermag}}
 
 ====Declension====
+{{hu-infl-nom|kernele|e|-}}{{hu-pos-etek|kernel||ei}}
+
 ===References===
 <references/>
 
@@ -77,28 +246,35 @@ From .
 ==Middle English==
 
 ===Alternative forms===
-*
+* {{alter|enm|cernel|curnel|kernell|kirnel|karnel|kurnel|kurnele|kyrnel|kyrnell|cornel}}
 
 ===Etymology===
-From , from ; equivalent to . Some forms are influenced by .
+From {{inh|enm|ang|cyrnel}}, from {{inh|enm|gmw-pro|*kurnil}}; equivalent to {{af|enm|corn|-el|pos2=agentive suffix|id2=agentive}}. Some forms are influenced by {{m|enm|corn}}.
 
 ===Pronunciation===
-*
+* {{IPA|enm|/ˈkɛrnəl/|/ˈkirnəl/|/ˈkurnəl/|/ˈkɔrnəl/}}
 
 ===Noun===
+{{enm-noun|kerneles}}
 
-# The , grain or stone of a  or .
-# {{lb|enm|by extension}} A granule; a small , flake
-# The fundamental, superior or  part.
-# A  responsible for production of A distended .
+# The [[seed]], [[grain]] or [[stone]] of a [[fruit]] or [[nut]].
+# {{lb|enm|by extension}} A [[granule]]; a small [[grain]], [[flake]], or [[ball]].
+# {{lb|enm|figurative}} The [[fundamental]], [[superior]] or [[essential]] part.
+# {{lb|enm|anatomy}} A [[organ]] responsible for production of [[substances]].
+# {{lb|enm|medicine}} A [[distend]]ed [[organ]] or [[growth]].
 
 ====Derived terms====
+{{der2|enm
+|kernellen
+|kirnelly
+}}
+
 ====Descendants====
-*
-* ; 
+* {{desc|en|kernel}}
+* {{desc|sco|kirnel}}; {{l|sco|churnel}}
 
 ====References====
-*
+* {{R:MED Online|entry=kirnel|pos=n|id=MED24349 |accessdate=2018-07-06}}
 
 [[Category:enm:Fruits]]
 [[Category:enm:Grains]]
@@ -109,29 +285,32 @@ From , from ; equivalent to . Some forms are influenced by .
 ==Old French==
 
 ===Alternative forms===
-*
+* {{alter|fro|crenel}}
 
 ===Etymology===
-.
+{{rfe|fro}}.
 
 ===Noun===
+{{fro-noun|m}}
 
-# {{gloss|space in a battlement from which weapons may be used on an incoming enemy}}
+# [[crenel]] {{gloss|space in a battlement from which weapons may be used on an incoming enemy}}
 
 ====Descendants====
-*
-*
+* {{desc|en|crenel|bor=1}}
+* {{desc|fr|créneau}}
 
 ===References===
-*
+* {{R:Godefroy|crenel|supplement=1}}
 
 ----
 
 ==Portuguese==
 
 ===Etymology===
-.
+{{ubor|pt|en|kernel}}.
 
 ===Noun===
+{{pt-noun|m|s}}
 
-#:
+# {{lb|pt|computing}} {{l|en|kernel}} {{gloss|central part of certain operating systems}}
+#: {{syn|pt|núcleo}}
