@@ -54,8 +54,8 @@ In its primary sense of {{m-g|fork}}, {{cog|la|furca}} appears to be derived fro
 # {{senseid|en|process}} {{anchor|process}}<!--anchor needed for interwiki anchor links--> {{lb|en|figuratively|by abstraction, from a physical fork}} {{lb|en|software development, content management, data management}} A departure from having a single source of truth (SSOT), sometimes intentionally but usually unintentionally. 
 ## {{lb|en|metonymically}} Any of the pieces/versions (of [[software#Noun|software]], [[content#Noun|content]], or [[data sets]]) thus created. 
 ##: {{ant|en|[[w:single source of truth|single source of truth]], [[w:single source of truth|SSOT]]}}
-## {{senseid|en|software}} {{lb|en|software}} The splitting of a [[software]] [[development]] effort into two or more [[separate]] [[project]]s, especially in [[free software|free]] and [[open-source]] [[software]].
-### {{lb|en|software}} Any of the software projects resulting from such a split.
+## {{senseid|en|software}} {{lb|en|software}} The launch of one or more [[separate]] [[software]] [[development]] efforts based upon a [[modified]] [[copy]] of an existing [[project]], especially in [[free software|free]] and [[open-source]] [[software]].
+### {{lb|en|software}} Any of the software projects resulting from the launch of such separate software development efforts based upon a copy of the original project.
 ###: {{ux|en|LibreOffice is a '''fork''' of OpenOffice.}}
 ## {{senseid|en|content management}} {{lb|en|[[content management system|content management]]}} The splitting of the coverage of a topic (within a corpus of content) into two or more pieces. 
 ##: {{ux|en|A content '''fork''' may be intentional (as from a schism about goals) or unintentional (merely from a lack of reorganizing, so far).}}
@@ -516,7 +516,7 @@ In its primary sense of {{m-g|fork}}, {{cog|la|furca}} appears to be derived fro
 ## {{lb|en|ambitransitive|computing}} To [[spawn]] a new child [[process]] by [[duplicate|duplicating]] the existing process.
 ##* {{quote-book|en|author=Mark G. Sobell|title=A Practical Guide to Fedora and Red Hat Enterprise Linux|year=2008|publisher=Pearson Education|url=https://books.google.es/books?id=jKhMRtMpYgMC&pg=PT428&dq=%22fork%22+the+process&hl=&cd=12&source=gbs_api#v=onepage&q=%22fork%22%20the%20process&f=false|isbn=978-0-13-701854-3|passage=A parent process '''''forks''''' a child process, which in turn can '''fork''' other processes.}}
 ##* {{quote-book|en|author=W. Richard Stevens|title=Advanced Programming in the UNIX Environment|year=2013|edition=third|publisher=Addison-Wesley|pageurl=https://books.google.com/books?id=kCTMFpEcIOwC&pg=PA304&dq=process+has+forked&hl=es&sa=X&ved=2ahUKEwiAh6Hd-bn1AhWkzoUKHQKVAq4Q6AF6BAgFEAI#v=onepage&q=forks&f=false|isbn=978-0-321-63800-7|author2=Stephen A. Rago|page=304|passage=It appears that the shell '''forks''' a copy of itself and that this copy then '''forks''' to make each of the previous processes in the pipeline.}}
-## {{lb|en|ambitransitive|software development}} To [[split]] a (software) project into several projects.
+## {{lb|en|ambitransitive|software development}} To launch a separate software development effort based upon a [[modified]] [[copy]] of an existing software project, especially in [[free software|free]] and [[open-source]] software.
 ##* {{quote-book|en|author=Fadi P. Deek|title=Open Source: Technology and Policy|year=2007|publisher=Cambridge University Press|page=21|pageurl=https://books.google.com/books?id=PA-Rhb_QSAwC&pg=PA21&dq=%22project+forked%22&hl=&cd=5&source=gbs_api#v=onepage&q=%22forked%22&f=false|isbn=978-1-139-46873-2|author2=James A. M. McHugh|passage=For various reasons, McCool's server project subsequently '''forked''', leading to the development of the Apache Web Server.}}
 ##* {{quote-book|en|editors=Christian Bird et al.|title=The Art and Science of Analyzing Software Data|year=2015|publisher=Elsevier|pageurl=https://books.google.com/books?id=g-HIBAAAQBAJ&pg=PA77&dq=%22forked%22+webkit&hl=&cd=1&source=gbs_api#v=onepage&q=%22forked%22%20webkit&f=false|isbn=978-0-12-411543-9|page=77|passage=Google '''forked''' WebKit to create the Blink project in April 2013 because they wanted to make larger-scale changes to WebKit to fit their own needs that did not align well with the WebKit project itself.}}
 ## {{lb|en|transitive|software development}} To create a copy of a distributed [[version control]] repository.
@@ -568,7 +568,7 @@ In its primary sense of {{m-g|fork}}, {{cog|la|furca}} appears to be derived fro
 * German: {{t+|de|gabeln}}, {{t+|de|aufspalten}}, {{t+|de|spalten}}
 {{trans-bottom}}
 
-{{trans-top|computer science: to split a software project}}
+{{trans-top|computer science: to copy and separately develop a software project}}
 * Dutch: {{t|nl|afsplitsen}}
 {{trans-mid}}
 * German: {{t+|de|aufspalten}}, {{t+|de|spalten}}
