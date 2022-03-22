@@ -426,16 +426,13 @@ Borrowed from {{bor|nl|en|sail}}. {{doublet|nl|zeil}}
 
 ==Irish==
 
-===Alternative forms===
-* {{alter|ga|sal}}
-
-===Etymology===
-From {{inh|ga|sga|sal}}, from {{inh|ga|cel-pro|*salā}}.
-
 ===Pronunciation===
 * {{IPA|ga|/salʲ/}}
 
-===Noun===
+===Etymology 1===
+From {{inh|ga|sga|sal}}, from {{inh|ga|cel-pro|*salā}}.
+
+====Noun====
 {{ga-noun|f|saile|-}}
 
 # [[dirt]], [[dross]], [[impurity]]
@@ -443,32 +440,53 @@ From {{inh|ga|sga|sal}}, from {{inh|ga|cel-pro|*salā}}.
 # [[stain]], [[defilement]]
 #: {{uxi|ga|'''sail''' pheaca|the stain of sin}}
 
-====Declension====
+=====Declension=====
 {{ga-decl-f2-nopl|sa|il|ile}}
 
-====Derived terms====
-{{der4
-|ga|sail chnis
-|sail chluaise
-|sail chaorach
-|sailchuach
-}}
+=====Alternative forms=====
+* {{alter|ga|sal}}
 
-====Related terms====
-{{rel3
-|ga|salach
-|salachar
-|salaigh
-}}
+=====Derived terms=====
+* {{l|ga|sail chnis}}
+* {{l|ga|sail chluaise}}
+* {{l|ga|sail chaorach}}
+* {{l|ga|sailchuach}}
 
-===Mutation===
-{{ga-mut}}
+=====Related terms=====
+* {{l|ga|salach}}
+* {{l|ga|salachar}}
+* {{l|ga|salaigh}}
 
-===Further reading===
+====Further reading====
 * {{R:DIL|36074|head=sal}}
 * {{R:ga:Dinneen 1904|589|head=sal}}
 * {{R:ga:Ó Dónaill}}
 * {{R:ga:NEID}}
+
+===Etymology 2===
+From {{inh|ga|sga|sail}}, from {{inh|ga|cel-pro|*salixs}} (whence also {{cog|cy|helyg}}, {{cog|br|halegen}}), from {{der|ga|ine-pro|*sl̥H-ik-|t=willow}}. Cognate with {{cog|la|salix}}, {{cog|ang|sealh}} and {{cog|en|sallow}}.
+
+====Noun====
+{{ga-noun|f|saileach|saileacha}}
+
+# [[willow]] {{gloss|any of various trees or shrubs in the genus ''Salix''}}
+
+=====Declension=====
+{{ga-decl-f5|sa|il|ileach|ileacha|dat=iligh|datoc=a}}
+
+=====Derived terms=====
+* {{l|ga|saileach}}
+* {{l|ga|saileog}}
+
+====Further reading====
+* {{R:DIL|35973}}
+* {{R:ga:Dinneen 1904|587}}
+* {{R:ga:Ó Dónaill}}
+
+===Mutation===
+{{ga-mut}}
+
+{{C|ga|Willows and poplars}}
 
 ----
 
