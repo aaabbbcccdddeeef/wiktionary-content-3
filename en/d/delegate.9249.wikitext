@@ -14,10 +14,12 @@ From {{inh|en|enm|delegat}}, from {{der|en|fro|delegat}}, from {{der|en|la|dÄ“lÄ
 ===Noun===
 {{en-noun}}
 
-# a person [[authorized]] to act as [[representative]] for another; a [[deputy]]
-# a [[representative]] at a [[conference]], etc.
-# {{lb|en|US}} an [[appointed]] representative in some [[legislative]] [[bodies]]
-# {{lb|en|computing}} a type of [[variable]] storing a reference to a [[method]] with a particular [[signature]], analogous to a [[function]] [[pointer]]
+# A person [[authorized]] to act as [[representative]] for another; a [[deputy]].
+# A [[representative]] at a [[conference]], etc.
+# {{lb|en|US}} An [[appointed]] representative in some [[legislative]] [[body|bodies]].
+# {{lb|en|computing}} A type of [[variable]] storing a reference to a [[method]] with a particular [[signature]], analogous to a [[function pointer]].
+#* '''2010''', Trey Nash, ''Accelerated C# 2010'' (page xxvi)
+#*: Historically, all viable frameworks have always provided a mechanism to implement callbacks. C# goes one step further and encapsulates callbacks into callable objects called '''delegates'''.
 
 ====Synonyms====
 * See also [[Thesaurus:deputy]]
