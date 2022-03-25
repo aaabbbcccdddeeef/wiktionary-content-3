@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-From {{etyl|frm|en}} {{m|frm|impur}}, from {{etyl|la|en}} {{m|la|impurus}}
+From {{bor|en|frm|impur}}, from {{der|en|la|impūrus}}
 
 ===Pronunciation===
 * {{rhymes|en|ʊə(ɹ)|s=2}}
@@ -25,11 +25,13 @@ From {{etyl|frm|en}} {{m|frm|impur}}, from {{etyl|la|en}} {{m|la|impurus}}
 * {{l|en|pure}}
 
 ====Related terms====
-* {{l|en|impuration}}
-* {{l|en|impurely}}
-* {{l|en|impureness}}
-* {{l|en|impurify}}
-* {{l|en|impurity}}
+{{col3|en
+|impuration
+|impurely
+|impureness
+|impurify
+|impurity
+}}
 
 ====Translations====
 {{trans-top|not pure}}
@@ -94,23 +96,27 @@ From {{etyl|frm|en}} {{m|frm|impur}}, from {{etyl|la|en}} {{m|la|impurus}}
 ===Adjective===
 {{head|fr|adjective form}}
 
-# {{feminine singular of|fr|impur}}
+# {{adj form of|fr|impur||f|s}}
 
 ----
 
 ==Italian==
 
 ===Pronunciation===
-* {{rhymes|it|ure|s=3}}
+{{it-pr|^ù}}
 
 ===Adjective===
-{{head|it|adjective form|g=f-p}}
+{{head|it|adjective form}}
 
 # {{adj form of|it|impuro||f|p}}
 
 ----
 
 ==Latin==
+
+===Pronunciation===
+* {{la-IPA|ann=1|impūrē}}
+* {{la-IPA|ann=1|impūre}}
 
 ===Etymology 1===
 
@@ -121,6 +127,7 @@ From {{etyl|frm|en}} {{m|frm|impur}}, from {{etyl|la|en}} {{m|la|impurus}}
 # [[impurely]]
 
 ===Etymology 2===
+{{nonlemma}}
 
 ====Adjective====
 {{la-adj-form|impūre}}
