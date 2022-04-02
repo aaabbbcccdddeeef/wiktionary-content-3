@@ -55,16 +55,16 @@ From {{inh|en|enm|defeten}}, from {{der|en|enm|defet|t=disfigured|pos=past parti
 * Azerbaijani: {{t|az|məğlub etmək}}
 * Bashkir: {{t|ba|еңеү}}
 * Basque: {{t|eu|garaitu}}
-* Belarusian: {{t|be|паража́ць|impf}}, {{t|be|паразі́ць|pf}}
+* Belarusian: {{t|be|паража́ць|impf}}, {{t|be|паразі́ць|pf}}, {{t|be|перамага́ць|impf}}, {{t|be|перамагчы́|pf}}
 * Bengali: {{t|bn|হারানো}}
-* Bulgarian: {{t+|bg|разбивам}}, {{t+|bg|побеждавам}}
+* Bulgarian: {{t+|bg|поразя́вам|impf}}, {{t|bg|поразя̀|pf}}, {{t+|bg|побежда́вам|impf}}, {{t|bg|победя́|pf}}
 * Catalan: {{t|ca|vèncer, derrotar, batre}}
 * Cherokee: {{t-needed|chr}}
 * Chinese:
 *: Cantonese: {{t|yue|打敗}}, {{t|yue|打败|tr=daa2 baai6}}, {{t|yue|贏}}, {{t|yue|赢|tr=jeng4}}
 *: Mandarin: {{t+|cmn|打敗}}, {{t+|cmn|打败|tr=dǎbài}}, {{t+|cmn|贏}}, {{t+|cmn|赢|tr=yíng}}
 * Cornish: {{t|kw|tryghi}}
-* Czech: {{t+|cs|porazit}}, {{t+|cs|zvítězit|pf}}
+* Czech: {{t+|cs|porážet|impf}}, {{t+|cs|porazit|pf}}, {{t+|cs|vítězit|impf}}, {{t+|cs|zvítězit|pf}}
 * Danish: {{t|da|besejre}}, {{t|da|overvinde}}
 * Dutch: {{t+|nl|verslaan}}, {{t+|nl|overwinnen}}
 * Esperanto: {{t|eo|venki}}
@@ -77,8 +77,8 @@ From {{inh|en|enm|defeten}}, from {{der|en|enm|defet|t=disfigured|pos=past parti
 * German: {{t+|de|schlagen}}, {{t+|de|besiegen}}, {{t+|de|niederringen}}, {{t+|de|bewältigen}}, {{t+|de|bezwingen}}
 * Greek: {{t+|el|νικώ}}
 *: Ancient: {{t|grc|νικάω}}
-* Hebrew: {{t+|he|הביס|tr=hevís}}
-* Hindi: {{t+|hi|हराना|sc=Deva}}
+* Hebrew: {{t+|he|הֵבִיס|tr=hevís}}
+* Hindi: {{t+|hi|हराना}}
 * Hungarian: {{t+|hu|legyőz}}
 * Icelandic: {{t+|is|sigra}}, {{t+|is|vinna}}
 * Ido: {{t+|io|vinkar}}
@@ -86,8 +86,8 @@ From {{inh|en|enm|defeten}}, from {{der|en|enm|defet|t=disfigured|pos=past parti
 * Irish: {{t|ga|buaigh ar}}, {{t|ga|faigh an lámh in uachtar ar}}, {{t|ga|cloígh}}
 {{trans-mid}}
 * Italian: {{t+|it|sconfiggere}}, {{t+|it|battere}}, {{t+|it|vincere}}
-* Japanese: {{t+|ja|負かす|tr=まかす, makasu}}, {{t+|ja|やっつける|tr=yattsukeru}}, {{t+|ja|倒す|tr=taosu|sc=Jpan}}
-* Khmer: {{t+|km|ឈ្នះ|tr=cneah|sc=Khmr}}
+* Japanese: {{t+|ja|負かす|tr=まかす, makasu}}, {{t+|ja|やっつける|tr=yattsukeru}}, {{t+|ja|倒す|tr=たおす, taosu}}
+* Khmer: {{t+|km|ឈ្នះ}}
 * Korean: {{t+|ko|이기다}}
 * Latgalian: {{t|ltg|īveikt}}, {{t|ltg|puorveikt}}
 * Latin: {{t+|la|vincō}}
@@ -97,26 +97,30 @@ From {{inh|en|enm|defeten}}, from {{der|en|enm|defet|t=disfigured|pos=past parti
 * Maore Comorian: {{t|swb|shindra|alt=ushindra}}
 * Maori: {{t|mi|taiari}}, {{t|mi|taieri}}, {{t|mi|whakahinga}}
 * Mirandese: {{t-needed|mwl}}
-* Mongolian: {{t+|mn|ялах}}, {{t+|mn|дийлэх}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|ялах}}, {{t+|mn|дийлэх}}
 * Nepali: {{t|ne|हराउनु}}, {{t|ne|पराजित गर्नु}}
-* Norwegian: {{t+|no|overvinne}}, {{t|no|beseire}}
+* Norwegian:
+*: Bokmål: {{t+|nb|overvinne}}, {{t|nb|beseire}}
 * Occitan: {{t+|oc|vencir}}
 * Pashto: {{t-needed|ps}}
-* Persian: {{t+|fa|شکست دادن|tr=šekast dâdan|sc=fa-Arab}}, {{t|fa|مغلوب کردن|tr=mağlub kardan|sc=fa-Arab}}
-* Polish: {{t+|pl|pokonać}}
+* Persian: {{t+|fa|شکست دادن|tr=šekast dâdan}}, {{t|fa|مغلوب کردن|tr=mağlub kardan}}
+* Polish: {{t+|pl|pokonywać|impf}}, {{t+|pl|pokonać|pf}}
 * Portuguese: {{t+|pt|derrotar}}, {{t+|pt|vencer}}
 * Quechua: {{t|qu|llalliy}}
 * Romanian: {{t+|ro|învinge}}, {{t+|ro|înfrânge}}, {{t+|ro|bate}}
 * Russian: {{t+|ru|побежда́ть|impf}}, {{t+|ru|победи́ть|pf}}, {{t+|ru|разбива́ть|impf}}, {{t+|ru|разби́ть|pf}}, {{t+|ru|поража́ть|impf}}, {{t+|ru|порази́ть|pf}}
 * Sanskrit: {{t+|sa|जयति}}, {{t+|sa|सहते}}
-* Serbo-Croatian: {{t+|sh|poraziti}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|пора́зити|pf}}
+*: Roman: {{t+|sh|poráziti|pf}}
 * Spanish: {{t+|es|derrotar}}, {{t+|es|vencer}}
 * Swedish: {{t+|sv|besegra}}, {{t+|sv|övervinna}}
-* Telugu: {{t+|te|ఓడించు|sc=Telu}}
-* Thai: {{t|th|ความพ่ายแพ้}}
+* Telugu: {{t+|te|ఓడించు}}
+* Thai: {{t+|th|ชนะ}}, {{t+|th|เอาชนะ}}
 * Tocharian B: {{t|txb|yuk-}}
 * Turkish: {{t+|tr|yenmek}}, {{t+|tr|mağlup etmek}}
-* Ukrainian: {{t|uk|поража́ти|impf}}, {{t|uk|порази́ти|pf}}
+* Ukrainian: {{t|uk|поража́ти|impf}}, {{t|uk|порази́ти|pf}}, {{t|uk|перемага́ти|impf}}, {{t|uk|перемогти́|pf}}
 * Urdu: {{t|ur|شکست دینا|tr=šikast dēnā}}
 * Vietnamese: {{t+|vi|đánh bại}}
 * Volapük: {{t-needed|vo}}
