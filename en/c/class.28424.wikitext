@@ -148,16 +148,16 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 ====Translations====
 {{trans-top|group, collection, category or set sharing characteristics or attributes}}
 * Arabic: {{t|ar|صِنْف}}, {{t|ar|صَنْف|m}}
-* Armenian: {{t+|hy|դաս|sc=Armn}}
+* Armenian: {{t+|hy|դաս}}
 * Azerbaijani: {{t+|az|sinif}}
 * Belarusian: {{t|be|клас|m}}, {{t|be|разра́д|m}}
 * Bulgarian: {{t+|bg|клас|m}}
 * Burmese: {{t+|my|မျိုး}}
 * Catalan: {{t+|ca|classe|f}}
 * Central Melanau: {{t|mel|kelaih}}
-* Chechen: {{t|ce|класс|sc=Cyrl}}
+* Chechen: {{t|ce|класс}}
 * Chinese:
-*: Mandarin: {{t+|cmn|類|sc=Hani}}, {{t+|cmn|类|tr=lèi|sc=Hani}}, {{t+|cmn|種類|sc=Hani}}, {{t+|cmn|种类|tr=zhǒnglèi|sc=Hani}}
+*: Mandarin: {{t+|cmn|類}}, {{t+|cmn|类|tr=lèi}}, {{t+|cmn|種類}}, {{t+|cmn|种类|tr=zhǒnglèi}}
 * Czech: {{t+|cs|třída|f}}
 * Dutch: {{t+|nl|klasse|f}}
 * Esperanto: {{t+|eo|klaso}}
@@ -166,7 +166,7 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * French: {{t+|fr|classe|f}}
 * Galician: {{t|gl|clase|f}}
 * German: {{t+|de|Klasse|f}}
-* Greek: {{t+|el|τάξη|f|sc=Grek}}, {{t+|el|είδος|n|sc=Grek}}, {{t+|el|κατηγορία|f|sc=Grek}}
+* Greek: {{t+|el|τάξη|f}}, {{t+|el|είδος|n}}, {{t+|el|κατηγορία|f}}
 * Hungarian: {{t+|hu|osztály}}, {{t+|hu|kategória}}
 * Iban: {{t|iba|kelas}}
 * Icelandic: {{t+|is|flokkur|m}}
@@ -174,16 +174,17 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Irish: {{t|ga|aicme|f}}
 * Italian: {{t+|it|ceto|m}}, {{t+|it|classe|f}}
 {{trans-mid}}
-* Japanese: {{t+|ja|等級|tr=とうきゅう, tōkyū|sc=Jpan}}, {{t+|ja|種類|tr=しゅるい, shurui|sc=Jpan}}
+* Japanese: {{t+|ja|等級|tr=とうきゅう, tōkyū}}, {{t+|ja|種類|tr=しゅるい, shurui}}
 * Lao: {{t|lo|ຊະນິດ}}
 * Latvian: {{t|lv|klase|f}}
 * Luxembourgish: {{t|lb|Klass|f}}
-* Macedonian: {{t|mk|класа|f|sc=Cyrl}}
+* Macedonian: {{t|mk|класа|f}}
 * Malay: {{t+|ms|kelas}}
 * Norman: {{t|nrf|clâsse|f}}
-* Norwegian: {{t+|no|klasse|m|f}}
-* Pashto: {{t+|ps|صنف|tr=sinf|sc=ps-Arab}}
-* Persian: {{t+|fa|رده|tr=rade|sc=fa-Arab}}, {{t+|fa|رسته|tr=raste|sc=fa-Arab}}, {{t+|fa|دسته|tr=daste|sc=fa-Arab}}, {{t+|fa|کلاس|tr=kelâs|sc=fa-Arab}}, {{t+|fa|صنف|tr=senf|sc=fa-Arab}}
+* Norwegian:
+:* Bokmål: {{t+|nb|klasse|m|f}}
+* Pashto: {{t+|ps|صنف|tr=sinf}}
+* Persian: {{t+|fa|رده|tr=rade}}, {{t+|fa|رسته|tr=raste}}, {{t+|fa|دسته|tr=daste}}, {{t+|fa|کلاس|tr=kelâs}}, {{t+|fa|صنف|tr=senf}}
 * Polish: {{t+|pl|klasa|f}}
 * Portuguese: {{t+|pt|classe|f}}
 * Romanian: {{t+|ro|clasă|f}}
@@ -191,7 +192,7 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Sassarese: {{t|sdc|crassi|f}}
 * Scottish Gaelic: {{t|gd|clas|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|сталеж|m|sc=Cyrl}}, {{t|sh|разред|m|sc=Cyrl}}, {{t|sh|класа|m|sc=Cyrl}}
+*: Cyrillic: {{t|sh|сталеж|m}}, {{t|sh|разред|m}}, {{t|sh|класа|m}}
 *: Roman: {{t+|sh|stalež}}, {{t+|sh|razred|m}}, {{t+|sh|klasa|f}}
 * Spanish: {{t+|es|clase|f}}
 * Swahili: {{t+|sw|darasa}}
@@ -204,12 +205,12 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 {{trans-bottom}}
 
 {{trans-top|social grouping, based on job, wealth, etc.}}
-* Armenian: {{t+|hy|դաս|sc=Armn}}, {{t+|hy|դասակարգ|sc=Armn}}
+* Armenian: {{t+|hy|դաս}}, {{t+|hy|դասակարգ}}
 * Bashkir: {{t|ba|синыф}}
 * Belarusian: {{t|be|клас|m}}
 * Bulgarian: {{t+|bg|кла́са|f}}
 * Catalan: {{t+|ca|classe|f}}
-* Chechen: {{t|ce|класс|sc=Cyrl}}
+* Chechen: {{t|ce|класс}}
 * Chinese:
 *: Mandarin: {{t+|cmn|階級}}, {{t+|cmn|阶级|tr=jiējí}}
 * Czech: {{t+|cs|třída|f}}
@@ -219,24 +220,25 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Finnish: {{t+|fi|luokka}}, {{t+|fi|yhteiskuntaluokka}}
 * French: {{t+|fr|classe|f}}
 * German: {{t+|de|Klasse|f}}
-* Greek: {{t+|el|τάξη|f|sc=Grek}}
-* Hebrew: {{t+|he|מַעֲמָד|m|tr=ma'mad|sc=Hebr}}
+* Greek: {{t+|el|τάξη|f}}
+* Hebrew: {{t+|he|מַעֲמָד|m|tr=ma'mad}}
 * Hindi: {{t+|hi|वर्ग|m}}
 * Hungarian: {{t+|hu|osztály}}
 * Indonesian: {{t+|id|kelas}}
 * Irish: {{t|ga|aicme|f}}
 * Italian: {{t+|it|ceto|m}}, {{t+|it|classe|f}}, {{t+|it|rango|m}}, {{t|it|[[condizione]] [[sociale]]|f}}
-* Japanese: {{t+|ja|階級|tr=かいきゅう, kaikyū|sc=Jpan}}
+* Japanese: {{t+|ja|階級|tr=かいきゅう, kaikyū}}
 * Khmer: {{t+|km|កុលវគ្គ}}
-* Korean: {{t+|ko|계급}}
+* Korean: {{t+|ko|계급(階級)}}
 {{trans-mid}}
 * Lao: {{t|lo|ຊົນຊັ້ນ}}
 * Luxembourgish: {{t|lb|Klass|f}}
-* Macedonian: {{t|mk|сталеж|m|sc=Cyrl}}, {{t|mk|класа|f|sc=Cyrl}}
+* Macedonian: {{t|mk|сталеж|m}}, {{t|mk|класа|f}}
 * Mongolian: {{t+|mn|анги}}
 * Norman: {{t|nrf|clâsse|f}}
-* Norwegian: {{t+|no|klasse|m|f}}
-* Persian: {{t+|fa|دسته|tr=dasta|sc=fa-Arab}}, {{t+|fa|گروه|tr=gorōh|sc=fa-Arab}}, {{t+|fa|طبقه|tr=tabagheh|sc=fa-Arab}}, {{t+|fa|کلاس|tr=kelâs|sc=fa-Arab}}
+* Norwegian:
+:* Bokmål: {{t+|nb|klasse|m|f}}
+* Persian: {{t+|fa|دسته|tr=daste}}, {{t+|fa|گروه|tr=gorōh}}, {{t+|fa|طبقه|tr=tabagheh}}, {{t+|fa|کلاس|tr=kelâs}}
 * Polish: {{t+|pl|klasa|f}}
 * Portuguese: {{t+|pt|classe|f}}
 * Romanian: {{t+|ro|clasă|f}}
@@ -244,7 +246,7 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Sassarese: {{t|sdc|crassi|f}}
 * Scottish Gaelic: {{t|gd|clas|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|сталеж|m}}, {{t|sh|класа|f|sc=Cyrl}}
+*: Cyrillic: {{t|sh|сталеж|m}}, {{t|sh|класа|f}}
 *: Roman: {{t+|sh|stálež|m}}, {{t+|sh|klàsa|f}}
 * Spanish: {{t+|es|clase}}
 * Swahili: {{t+|sw|darasa}}
@@ -257,28 +259,29 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 {{trans-bottom}}
 
 {{trans-top|division of society into classes}}
-* Armenian: {{t+|hy|դաս|sc=Armn}}, {{t+|hy|դասակարգ}}
+* Armenian: {{t+|hy|դաս}}, {{t+|hy|դասակարգ}}
 * Azerbaijani: {{t+|az|sinif}}
 * Belarusian: {{t|be|клас|m}}
 * Bulgarian: {{t+|bg|кла́са|f}}
 * Catalan: {{t+|ca|classe|f}}
-* Chechen: {{t|ce|класс|sc=Cyrl}}
+* Chechen: {{t|ce|класс}}
 * Czech: {{t+|cs|třída|f}}
 * Esperanto: {{t+|eo|klaso}}
 * Estonian: {{t|et|seisus}}
 * Finnish: {{t|fi|luokkajako}}
 * French: {{t+|fr|classe|f}}
 * German: {{t+|de|Klasse|f}}
-* Greek: {{t+|el|τάξη|f|sc=Grek}}
-* Hebrew: {{t|he|מעמדות|m-p|tr=ma'amadot}}
+* Greek: {{t+|el|τάξη|f}}
+* Hebrew: {{t+|he|מעמד|m-p|tr=ma'amadot|alt=מעמדות}}
 * Hungarian: {{t+|hu|osztálytársadalom}}
 * Irish: {{t|ga|aicme|f}}
 * Italian: {{t+|it|ceto|m}}, {{t+|it|classe|f}}
 * Luxembourgish: {{t|lb|Klass|f}}
 {{trans-mid}}
-* Macedonian: {{t|mk|сталеж|m|sc=Cyrl}}, {{t|mk|класа|f|sc=Cyrl}}
+* Macedonian: {{t|mk|сталеж|m}}, {{t|mk|класа|f}}
 * Norman: {{t|nrf|clâsse|f}}
-* Norwegian: {{t+|no|klasse|m|f}}
+* Norwegian:
+:* Bokmål: {{t+|nb|klasse|m|f}}
 * Polish: {{t+|pl|klasa|f}}
 * Portuguese: {{t+|pt|classe|f}}
 * Russian: {{t+|ru|класс|m}}
@@ -289,28 +292,29 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Slovak: {{t|sk|trieda|f}}
 * Swahili: {{t+|sw|darasa}}
 * Swedish: {{t+|sv|klass|c}}
-* Ukrainian: {{t|uk|клас|m|sc=Cyrl}}
+* Ukrainian: {{t|uk|клас|m}}
 * Volapük: {{t|vo|sogät}}
 {{trans-bottom}}
 
 {{trans-top|admirable behavior; elegance}}
-* Armenian: {{t+|hy|մակարդակ|sc=Armn}}
+* Armenian: {{t+|hy|մակարդակ}}
 * Belarusian: {{t|be|клас|m}}
 * Bulgarian: {{t+|bg|кла́са|f}}
 * Catalan: {{t+|ca|classe|f}}
-* Chechen: {{t|ce|класс|sc=Cyrl}}
+* Chechen: {{t|ce|класс}}
 * Finnish: {{t+|fi|tyyli}}
 * French: {{t+|fr|classe|f}}
 * German: {{t+|de|Klasse|f}}, {{t+|de|Stil|m}}
-* Greek: {{t+|el|κομψότητα|f|sc=Grek}}
+* Greek: {{t+|el|κομψότητα|f}}
 * Hungarian: {{t+|hu|stílus}}, {{t+|hu|elegancia}}
 * Irish: {{t|ga|mianach|m}}
 * Italian: {{t+|it|classe|f}}
 {{trans-mid}}
-* Macedonian: {{t|mk|отменост|f|sc=Cyrl}}
+* Macedonian: {{t|mk|отменост|f}}
 * Norman: {{t|nrf|clâsse|f}}
-* Norwegian: {{t+|no|klasse|m|f}}
-* Persian: {{t+|fa|برازندگی|tr=barâzandagi|sc=fa-Arab}}
+* Norwegian:
+:* Bokmål: {{t+|nb|klasse|m|f}}
+* Persian: {{t+|fa|برازندگی|tr=barâzandagi}}
 * Polish: {{t+|pl|klasa|f}}
 * Portuguese: {{t+|pt|classe|f}}
 * Russian: {{t+|ru|класс|m}}
@@ -324,18 +328,18 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Abkhaz: {{t-needed|ab}}
 * Albanian: {{t-needed|sq}}
 * Arabic: {{t+|ar|فَصْل|m}}
-* Armenian: {{t+|hy|դասարան|sc=Armn}}
+* Armenian: {{t+|hy|դասարան}}
 * Bashkir: {{t|ba|синыф}} {{qualifier|in middle/high school}}
 * Basque: {{t-needed|eu}}
 * Belarusian: {{t|be|клас|m}}
 * Breton: {{t+|br|klas|m}}
 * Bulgarian: {{t+|bg|клас|m}}
-* Burmese: {{t+|my|အတန်း|sc=Mymr}}
+* Burmese: {{t+|my|အတန်း}}
 * Catalan: {{t+|ca|promoció|f}}
 * Central Dusun: {{t|dtp|kalas}}
-* Chechen: {{t|ce|класс|sc=Cyrl}}
+* Chechen: {{t|ce|класс}}
 * Chinese:
-*: Mandarin: {{t+|cmn|班|tr=bān|sc=Hani}}
+*: Mandarin: {{t+|cmn|班|tr=bān}}
 * Czech: {{t+|cs|třída|f}}
 * Danish: {{t+|da|klasse|c}}
 * Dutch: {{t+|nl|klas|f}}
@@ -345,9 +349,9 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * French: {{t+|fr|classe|f}}
 * Georgian: {{t-needed|ka}}
 * German: {{t+|de|Klasse|f}}
-* Greek: {{t+|el|τάξη|f|sc=Grek}}
+* Greek: {{t+|el|τάξη|f}}
 * Gujarati: {{t-needed|gu}}
-* Hebrew: {{t+|he|כיתה|f|tr=kita|alt=כיתה \ כִּתָּה|sc=Hebr}}
+* Hebrew: {{t+|he|כיתה|f|tr=kita|alt=כיתה \ כִּתָּה}}
 * Hindi: {{t+|hi|क्लास|m|f}}, {{t+|hi|कक्षा|f}}
 * Hungarian: {{t+|hu|osztály}}, {{t+|hu|csoport}}
 * Icelandic: {{t+|is|bekkur|m}}
@@ -356,23 +360,24 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Irish: {{t|ga|rang|m}}
 * Italian: {{t+|it|classe|f}}, {{t+|it|lezione}}
 {{trans-mid}}
-* Japanese: , {{t|ja|学級|tr=がっきゅう, gakkyū|sc=Jpan}}, {{t+|ja|クラス|tr=kurasu|sc=Jpan}}
-* Khmer: {{t|km|ថ្នាក់រៀន|tr=tnak riən|sc=Khmr}}, {{t+|km|ថ្នាក់|tr=tnak|sc=Khmr}}
+* Japanese: , {{t|ja|学級|tr=がっきゅう, gakkyū}}, {{t+|ja|クラス|tr=kurasu}}
+* Khmer: {{t|km|ថ្នាក់រៀន|tr=tnak riən}}, {{t+|km|ថ្នាក់}}
 * Korean: {{t+|ko|반(班)}}, {{t+|ko|클래스}}
 * Kurdish:
-*: Central Kurdish: {{t+|ckb|پۆل|sc=ku-Arab}}
+*: Central Kurdish: {{t+|ckb|پۆل}}
 * Lao: {{t|lo|ຊັ້ນ}}
 * Latvian: {{t-needed|lv}}
 * Lithuanian: {{t-needed|lt}}
 * Luxembourgish: {{t|lb|Klass|f}}
-* Macedonian: {{t|mk|одделение|n|sc=Cyrl}}, {{t|mk|клас|m|sc=Cyrl}}
+* Macedonian: {{t|mk|одделение|n}}, {{t|mk|клас|m}}
 * Maori: {{t|mi|karaehe }}
 * Mongolian: {{t+|mn|хичээл}}
 * Nepali: {{t+|ne|कक्षा}}
 * Norman: {{t|nrf|clâsse|f}}
-* Norwegian: {{t+|no|klasse|m|f}}
+* Norwegian:
+:* Bokmål: {{t+|nb|klasse|m|f}}
 * Pashto: {{t|ps|کلاس|m|tr=klās}}
-* Persian: {{t+|fa|کلاس|tr=kelâs|sc=fa-Arab}}
+* Persian: {{t+|fa|کلاس|tr=kelâs}}
 * Polish: {{t+|pl|klasa|f}}
 * Portuguese: {{t+|pt|classe|f}}, {{t+|pt|aula}}
 * Romanian: {{t+|ro|clasă|f}}
@@ -382,11 +387,11 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Spanish: {{t+|es|clase|f}}
 * Swahili: {{t+|sw|darasa}}
 * Swedish: {{t+|sv|klass|c}}
-* Tamil: {{t+|ta|வகுப்பு|sc=Taml}}
+* Tamil: {{t+|ta|வகுப்பு}}
 * Telugu: {{t-needed|te}}
 * Thai: {{t+|th|ระดับ}}, {{t+|th|ชั้น}}
 * Turkish: {{t+|tr|sınıf}}
-* Ukrainian: {{t|uk|клас|m|sc=Cyrl}}, {{t+|uk|гру́па|f}}
+* Ukrainian: {{t|uk|клас|m}}, {{t+|uk|гру́па|f}}
 * Urdu: {{t|ur|جماعت|tr=jamā'at}}, {{t+|ur|کلاس|tr=klās}}
 * Vietnamese: {{t+|vi|lớp}}
 * Volapük: {{qualifier|♂♀}} {{t|vo|kladanef}}, {{qualifier|♂}} {{t|vo|hikladanef}}, {{qualifier|♀}} {{t|vo|jikladanef}}
@@ -395,30 +400,31 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 {{trans-bottom}}
 
 {{trans-top|series of classes covering a single subject}}
-* Armenian: {{t+|hy|դաս|sc=Armn}}
+* Armenian: {{t+|hy|դաս}}
 * Belarusian: {{t|be|курс|m}}, {{t|be|заняцце|n-p|alt=заня́цці}}
 * Bulgarian: {{t+|bg|курс|m}}
 * Catalan: {{t+|ca|classe|f}}, {{t+|ca|curs|m}}
 * Chinese:
-*: Mandarin: {{t+|cmn|課|sc=Hani}}, {{t+|cmn|课|tr=kè|sc=Hani}}
+*: Mandarin: {{t+|cmn|課}}, {{t+|cmn|课|tr=kè}}
 * Esperanto: {{t+|eo|kurso}}
 * Estonian: {{t|et|kursus}}
 * Finnish: {{t+|fi|kurssi}}
 * French: {{t+|fr|cours|m}}
 * German: {{t+|de|Unterricht|m}}
-* Greek: {{t+|el|μάθημα|n|sc=Grek}}
-* Hebrew: {{t+|he|קוּרְס|m|tr=kurs|sc=Hebr}}
-* Hindi: {{t+|hi|क्लास|m|f|sc=Deva}}
+* Greek: {{t+|el|μάθημα|n}}
+* Hebrew: {{t+|he|קוּרְס|m|tr=kurs}}
+* Hindi: {{t+|hi|क्लास|m|f}}
 * Hungarian: {{q|period as a division into which a school day is split, allocated to a given subject}} {{t+|hu|óra}}, {{t+|hu|tanóra}}, {{q|activity}} {{t+|hu|foglalkozás}}, {{q|course}} {{t+|hu|kurzus}}, {{t+|hu|képzés}}
 * Irish: {{t|ga|cúrsa|m}}, {{t|ga|rang|m}}
 {{trans-mid}}
 * Italian: {{t+|it|corso|m}}
-* Japanese: {{t+|ja|授業|tr=じゅぎょう, jugyō|sc=Jpan}}
+* Japanese: {{t+|ja|授業|tr=じゅぎょう, jugyō}}
 * Korean: {{t+|ko|수업(授業)}}, {{t+|ko|클래스}}
 * Latin: {{t|la|schola|f}}
-* Macedonian: {{t|mk|курс|m|sc=Cyrl}}
-* Norwegian: {{t+|no|kurs|n}}
-* Persian: {{t+|fa|دوره|tr=dore|sc=fa-Arab}}
+* Macedonian: {{t|mk|курс|m}}
+* Norwegian:
+:* Bokmål: {{t+|nb|kurs|n}}
+* Persian: {{t+|fa|دوره|tr=dore}}
 * Polish: {{t+|pl|kurs}}
 * Portuguese: {{t+|pt|curso|m}}, {{t+|pt|aula|f}}
 * Russian: {{t+|ru|курс|m}}, {{t+|ru|занятие|alt=заня́тия|n-p}}
@@ -431,31 +437,32 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 {{trans-bottom}}
 
 {{trans-top|group of students who commenced or completed their education during a particular year}}
-* Armenian: {{t+|hy|դասարան|sc=Armn}}
+* Armenian: {{t+|hy|դասարան}}
 * Bulgarian: {{t+|bg|на́бор|m}}
 * Catalan: {{t+|ca|classe|f}}
-* Chechen: {{t|ce|класс|sc=Cyrl}}
+* Chechen: {{t|ce|класс}}
 * Chinese:
-*: Mandarin: {{t+|cmn|學年|sc=Hani}}, {{t+|cmn|学年|tr=xuénián|sc=Hani}}, {{t+|cmn|年级|tr=niánjí|sc=Hani}}
+*: Mandarin: {{t+|cmn|學年}}, {{t+|cmn|学年|tr=xuénián}}, {{t+|cmn|年级|tr=niánjí}}
 * Danish: {{t|da|årgang|c}}
 * Finnish: {{t+|fi|luokka}}, {{t+|fi|vuosikurssi}}
 * French: {{t+|fr|promotion|f}}
 * German: {{t+|de|Klasse|f}}
-* Greek: {{t+|el|τάξη|f|sc=Grek}}
-* Hebrew: {{t+|he|שִׁכְבָה|f|tr=shikhva|sc=Hebr}}
+* Greek: {{t+|el|τάξη|f}}
+* Hebrew: {{t+|he|שִׁכְבָה|f|tr=shíkhva}}
 * Hungarian: {{t+|hu|osztály}}, {{t+|hu|évfolyam}}
 * Icelandic: {{t+|is|árgangur|m}}
 * Irish: {{t|ga|rang|m}}
 * Italian: {{t+|it|classe|f}}
-* Japanese: {{t+|ja|学年|tr=がくねん, gakunen|sc=Jpan}}
+* Japanese: {{t+|ja|学年|tr=がくねん, gakunen}}
 {{trans-mid}}
-* Korean: {{t+|ko|학년}}
+* Korean: {{t+|ko|학년(學年)}}
 * Kurdish:
-*: Central Kurdish: {{t+|ckb|پۆل|sc=ku-Arab}}
+*: Central Kurdish: {{t+|ckb|پۆل}}
 * Latvian: {{t|lv|klase|f}}
-* Macedonian: {{t|mk|одделение|n|sc=Cyrl}}, {{t|mk|клас|m|sc=Cyrl}}
-* Norwegian: {{t+|no|kull|n}}, {{t|no|årskull|n}}
-* Persian: {{t+|fa|دوره|tr=dore|sc=fa-Arab}}
+* Macedonian: {{t|mk|одделение|n}}, {{t|mk|клас|m}}
+* Norwegian:
+:* Bokmål: {{t+|nb|kull|n}}, {{t|nb|årskull|n}}
+* Persian: {{t+|fa|دوره|tr=dore}}
 * Polish: {{t+|pl|klasa|f}}
 * Portuguese: {{t+|pt|turma|f}}
 * Russian: {{t+|ru|класс|m}}, {{t+|ru|курс|m}}
@@ -470,18 +477,18 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 {{trans-bottom}}
 
 {{trans-top|category of seats in an airplane, train or other means of mass transportation}}
-* Armenian: {{t+|hy|կարգ|sc=Armn}}
+* Armenian: {{t+|hy|կարգ}}
 * Bulgarian: {{t+|bg|кла́са|f}}
 * Catalan: {{t+|ca|classe|f}}
-* Chechen: {{t|ce|класс|sc=Cyrl}}
+* Chechen: {{t|ce|класс}}
 * Czech: {{t+|cs|třída|f}}
 * Esperanto: {{t+|eo|klaso}}
 * Estonian: {{t+|et|klass}}
 * Finnish: {{t+|fi|luokka}}
 * French: {{t+|fr|classe|f}}
 * German: {{t+|de|Klasse|f}}
-* Greek: {{t+|el|θέση|f|sc=Grek}}
-* Hebrew: {{t|he|מחלקה|f|tr=makhlaqa|sc=Hebr}}
+* Greek: {{t+|el|θέση|f}}
+* Hebrew: {{t|he|מחלקה|f|tr=makhlaká}}
 * Hungarian: {{t+|hu|osztály}}
 * Icelandic: {{t+|is|farrými|n}}
 * Indonesian: {{t+|id|kelas}}
@@ -490,9 +497,10 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Italian: {{t+|it|classe|f}}
 * Japanese: {{t+|ja|クラス|tr=kurasu}}
 * Luxembourgish: {{t|lb|Klass|f}}
-* Macedonian: {{t|mk|класа|f|sc=Cyrl}}
-* Norwegian: {{t+|no|klasse|m|f}}
-* Persian: {{t+|fa|درجه|tr=daraje|sc=fa-Arab}}
+* Macedonian: {{t|mk|класа|f}}
+* Norwegian:
+:* Bokmål: {{t+|nb|klasse|m|f}}
+* Persian: {{t+|fa|درجه|tr=daraje}}
 * Polish: {{t+|pl|klasa|f}}
 * Portuguese: {{t+|pt|classe|f}}
 * Russian: {{t+|ru|класс|m}}
@@ -508,37 +516,38 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 {{trans-top|taxonomy: classification below Phylum and above Order}}
 * Afrikaans: {{t+|af|klas}}
 * Arabic: {{t+|ar|طَائِفَة|f}}
-* Armenian: {{t+|hy|դաս|sc=Armn}}
+* Armenian: {{t+|hy|դաս}}
 * Bulgarian: {{t+|bg|клас|m}}
 * Catalan: {{t+|ca|classe|f}}
-* Chechen: {{t|ce|класс|sc=Cyrl}}
+* Chechen: {{t|ce|класс}}
 * Chinese:
-*: Cantonese: {{t|yue|綱|sc=Hani}}, {{t|yue|纲|tr=gong1|sc=Hani}}
-*: Mandarin: {{t+|cmn|綱|sc=Hani}}, {{t+|cmn|纲|tr=gāng|sc=Hani}}
-*: Min Nan: {{t|nan|綱|sc=Hani}}, {{t|nan|纲|tr=kong, kang|sc=Hani}}
+*: Cantonese: {{t|yue|綱}}, {{t|yue|纲|tr=gong1}}
+*: Mandarin: {{t+|cmn|綱}}, {{t+|cmn|纲|tr=gāng}}
+*: Min Nan: {{t|nan|綱}}, {{t|nan|纲|tr=kong, kang}}
 * Czech: {{t+|cs|třída|f}}
 * Esperanto: {{t+|eo|klaso}}
 * Finnish: {{t+|fi|luokka}}
 * French: {{t+|fr|classe}}
 * German: {{t+|de|Classis|f}}
-* Greek: {{t+|el|ομοταξία|f|sc=Grek}}
+* Greek: {{t+|el|ομοταξία|f}}
 * Hungarian: {{t+|hu|osztály}}
 * Icelandic: {{t+|is|flokkur|m}}
 * Irish: {{t|ga|rang|m}}
 {{trans-mid}}
 * Italian: {{t+|it|classe|f}}
-* Japanese: {{t+|ja|綱|tr=こう, kō|sc=Jpan}}
-* Khmer: {{t+|km|ថ្នាក់|tr=thnak|sc=Khmr}}
-* Macedonian: {{t|mk|класа|f|sc=Cyrl}}
-* Norwegian: {{t+|no|klasse|m|f}}
-* Persian: {{t+|fa|رده|tr=rade|sc=fa-Arab}}, {{t+|fa|طبقه|tr=tabaghe|sc=fa-Arab}}
+* Japanese: {{t+|ja|綱|tr=こう, kō}}
+* Khmer: {{t+|km|ថ្នាក់}}
+* Macedonian: {{t|mk|класа|f}}
+* Norwegian:
+:* Bokmål: {{t+|nb|klasse|m|f}}
+* Persian: {{t+|fa|رده|tr=rade}}, {{t+|fa|طبقه|tr=tabaghe}}
 * Portuguese: {{t+|pt|classe|f}}
 * Russian: {{t+|ru|класс|m}}
 * Spanish: {{t+|es|clase|f}}
 * Swahili: {{t+|sw|darasa}}
 * Swedish: {{t+|sv|klass|c}}
 * Tagalog: {{t|tl|lipihay}}
-* Telugu: {{t+|te|తరగతి|sc=Telu}}
+* Telugu: {{t+|te|తరగతి}}
 * Thai: {{t+|th|ชั้น}}
 * Turkish: {{t+|tr|sınıf}}
 * Ukrainian: {{t|uk|клас|m}}
@@ -547,7 +556,7 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 
 {{trans-top|best of its kind}}
 * Finnish: {{t+|fi|huippu}}
-* Greek: {{t+|el|κορυφή|f|sc=Grek}}
+* Greek: {{t+|el|κορυφή|f}}
 {{trans-mid}}
 * Hungarian: {{t|hu|világklasszis}}, {{t+|hu|klasszis}}
 * Thai: {{t|th|ชั้นหนึ่ง}}
@@ -559,21 +568,22 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 {{trans-bottom}}
 
 {{trans-top|set theory: collection of sets definable by a shared property}}
-* Armenian: {{t+|hy|դաս|sc=Armn}}
+* Armenian: {{t+|hy|դաս}}
 * Bulgarian: {{t+|bg|клас|m}}
 * Catalan: {{t+|ca|classe|f}}
-* Chechen: {{t|ce|класс|sc=Cyrl}}
+* Chechen: {{t|ce|класс}}
 * Finnish: {{t+|fi|luokka}}
 * French: {{t+|fr|classe}}
 * German: {{t+|de|Klasse|f}}
-* Greek: {{t+|el|κλάση|f|sc=Grek}}
+* Greek: {{t+|el|κλάση|f}}
 * Hungarian: {{t+|hu|osztály}}
 * Italian: {{t+|it|classe|f}}
 {{trans-mid}}
-* Japanese: {{t+|ja|集合|tr=しゅうごう, shuugou}}
-* Macedonian: {{t|mk|класа|f|sc=Cyrl}}
-* Norwegian: {{t+|no|klasse|m|f}}
-* Persian: {{t+|fa|کلاس|tr=kelâs|sc=fa-Arab}}
+* Japanese: {{t+|ja|集合|tr=しゅうごう, shūgō}}
+* Macedonian: {{t|mk|класа|f}}
+* Norwegian:
+:* Bokmål: {{t+|nb|klasse|m|f}}
+* Persian: {{t+|fa|کلاس|tr=kelâs}}
 * Portuguese: {{t+|pt|classe|f}}
 * Russian: {{t+|ru|класс|m}}
 * Spanish: {{t+|es|clase|f}}
@@ -587,7 +597,7 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Catalan: {{t+|ca|classe|f}}
 {{trans-mid}}
 * Finnish: {{t+|fi|saapumiserä}} {{q|those actually conscripted}}
-* Greek: {{t+|el|σειρά|f|sc=Grek}}
+* Greek: {{t+|el|σειρά|f}}
 {{trans-bottom}}
 
 {{trans-top|object-oriented programming: set of objects possibly differing in state but not behavior}}
@@ -595,7 +605,7 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Armenian: {{t-needed|hy}}
 * Bulgarian: {{t+|bg|клас|m}}
 * Catalan: {{t+|ca|classe|f}}
-* Chechen: {{t|ce|класс|sc=Cyrl}}
+* Chechen: {{t|ce|класс}}
 * Chinese:
 *: Mandarin: {{t+|cmn|类|tr=lèi}}
 * Czech: {{t+|cs|třída|f}}
@@ -605,7 +615,7 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * French: {{t+|fr|classe|f}}
 * Georgian: {{t-needed|ka}}
 * German: {{t+|de|Klasse|f}}
-* Greek: {{t+|el|κλάση|f|sc=Grek}}
+* Greek: {{t+|el|κλάση|f}}
 * Hebrew: {{t|he|מחלקה|f|tr=makhlaká}}
 * Hungarian: {{t+|hu|osztály}}
 * Icelandic: {{t|is|klasi|m}}
@@ -614,9 +624,10 @@ From {{bor|en|frm|classe}}, from {{der|en|la|classis||a class or division of the
 * Japanese: {{t+|ja|クラス|tr=kurasu}}
 * Korean: {{t-needed|ko}}
 * Luxembourgish: {{t|lb|Klass|f}}
-* Macedonian: {{t|mk|класа|f|sc=Cyrl}}
-* Norwegian: {{t+|no|klasse|m|f}}
-* Persian: {{t+|fa|کلاس|tr=kelâs|sc=fa-Arab}}
+* Macedonian: {{t|mk|класа|f}}
+* Norwegian:
+:* Bokmål: {{t+|nb|klasse|m|f}}
+* Persian: {{t+|fa|کلاس|tr=kelâs}}
 * Polish: {{t+|pl|klasa|f}}
 * Portuguese: {{t+|pt|classe|f}}
 * Romanian: {{t+|ro|clasă|f}}
