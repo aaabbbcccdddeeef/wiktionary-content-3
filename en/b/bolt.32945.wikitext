@@ -577,57 +577,32 @@ Borrowed from {{bor|hu|it|volta||vault}}.
 ===Noun===
 {{hu-noun|ok}}
 
-# {{l|en|shop}}, {{l|en|store}} {{gloss|especially applied to relatively small shops in the countryside}}
+# {{q|GB}} [[shop]], {{q|US}} [[store]] {{gloss|especially applied to relatively small shops in the countryside}}
 #: {{syn|hu|üzlet|áruház|kereskedés|árus|q6=the latter mostly in compounds}}
-# {{l|en|vault}}
+#: {{hypo|hu|ábécé|butik|cukrászda|diszkont|étterem|gyógyszertár|kávézó|kocsma|közért|papír-írószer|pékség|piac|pláza|presszó|[[szalon]] {{q|as a second element in compounds}}<!--e.g. szépségszalon, autószalon, kalapszalon-->|teázó|trafik|újságos|vendéglő|zöldséges}}<!-- stores for buying specific goods and stores with some specific profile/feature or additional services as in a shopping mall -->{{q|see also the compound words containing {{m|hu||-bolt}} with the sense of a shop [store] below}}
+# [[vault]]
 #: {{syn|hu|boltozat|boltív|bolthajtás}}
 
 ====Declension====
 {{hu-infl-nom|bolto|o}}{{hu-pos-otok|bolt|j|jai}}
 
-====Hyponyms====
-<!-- stores for buying specific goods and stores with some specific profile/feature or additional services as in a shopping mall -->
-{{der4|hu
-|ábécé
-|butik
-|cukrászda
-|diszkont
-|étterem
-|gyógyszertár
-|kávézó
-|kocsma
-|közért
-|papír-írószer
-|pékség
-|piac
-|pláza
-|presszó
-|szalon <!-- e.g. in szépségszalon, autószalon, kalapszalon -->
-|teázó
-|trafik
-|újságos
-|vendéglő
-|zöldséges
-}}
-: ''See also the compound words containing ''-bolt'' with the sense of a shop [store] below.''
-
 ====Derived terms====
-* {{l|hu|bolti}}
-* {{l|hu|boltos}}
-* {{l|hu|boltozat}}
-{{der4|hu|title=Compound words with a meaning unrelated to shops or stores}} 
+{{col4|hu
+|bolti
+|boltos
+|boltozat
+}}
+{{col4|hu|title=Compound words with a meaning unrelated to shops/stores
 |boltív
 |égbolt
 |mennybolt
 |sírbolt
 }}
-{{der4|hu|title=Compound words with the sense of a shop or a store}}
+{{col4|hu|title=Compound words with the sense ’shop/store’: types of shop [hyponyms aside from those supplied above]|collapse=n
 |adománybolt
 |ajándékbolt
 |autósbolt
 |barkácsbolt
-|boltkóros
-|boltvezető
 |cipőbolt
 |dohánybolt
 |édességbolt
@@ -649,7 +624,11 @@ Borrowed from {{bor|hu|it|volta||vault}}.
 |virágbolt
 |zöldségbolt
 }}
-{{q|Note: Most compounds with {{m|hu|üzlet}} as an affix in the sense of ’shop, store’ can be expressed with ''bolt.''}}
+{{col4|hu|title=Compound words with the sense ’shop/store’: other compounds
+|boltkóros
+|boltvezető
+}}
+{{q|Note: Most compounds with {{m|hu|üzlet}} as an affix in the sense ’shop/store’ can be expressed with ''bolt.''}}
 
 ===Further reading===
 * {{R:ErtSz|1|vault}}
