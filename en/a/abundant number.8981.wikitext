@@ -17,7 +17,7 @@
 #* '''1996''', Richard R. Hall, ''Sets of Multiples'', {{w|Cambridge University Press}}, [https://books.google.com.au/books?id=40g9YJIck0QC&pg=PR11&dq=%22abundant+number%22%7C%22abundant+numbers%22&hl=en&sa=X&ved=0ahUKEwiahfDN2cvdAhVnyVQKHWBkBcAQ6AEISzAH#v=onepage&q=%22abundant%20number%22%7C%22abundant%20numbers%22&f=false page xi],
 #*: We shall not be concerned with '''abundant numbers''' in this book, nevertheless it may be helpful to use this historical example as an illustration. We note the property that any multiple of an '''abundant number''' is abundant.
 
-====Notes====
+====Usage notes====
 * The requirement may be expressed as <math>s(n)>n</math>, where <math>s(n)</math> denotes the {{m|en|aliquot sum}} (sum of proper divisors) of <math>n</math>.
 ** It is also sometimes expressed as <math>\sigma(n)>2n</math>, where <math>\sigma(n)</math> (sometimes <math>\sigma_1(n)</math>) denotes the sum of ''all'' divisors of <math>n</math>.
 * Given an abundant number <math>n</math>, the amount, <math>s(n)-n,</math> by which the aliquot sum exceeds it may be called its {{m|en|abundance}}.
