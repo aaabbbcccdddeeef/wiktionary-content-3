@@ -1329,6 +1329,7 @@ From {{inh|gmq-osw|non|*barr}} (Old West Norse {{m|non|berr}}), from {{inh|gmq-o
 ----
 
 ==Polish==
+{{wp|lang=pl}}
 
 ===Pronunciation===
 {{pl-p|a=Pl-bar.ogg}}
@@ -1339,14 +1340,16 @@ From {{inh|gmq-osw|non|*barr}} (Old West Norse {{m|non|berr}}), from {{inh|gmq-o
 ====Noun====
 {{pl-noun|m-in}}
 
-# [[#English|bar]], [[luncheon bar]], [[buffet]]
-# [[#English|bar]] {{gl|a long table or counter where drinks are served}}
+# {{l|en|bar}}, [[luncheon bar]], [[buffet]]
+# {{l|en|bar}} {{gl|a long table or counter where drinks are served}}
+#: {{syn|pl|barek|bufet}}
 
 =====Declension=====
 {{pl-decl-noun-m-in}}
 
-=====Derived terms=====
-{{col3|pl|barowy}}
+====Derived terms====
+{{col3|pl|title=adjective|barowy}}
+{{col3|pl|title=nouns|bar mleczny|bar tlenowy|barek}}
 
 =====Related terms=====
 {{col3|pl|barman}}
@@ -1364,12 +1367,12 @@ From {{der|pl|la|barium}}.
 {{pl-decl-noun-m-in|tantum=s}}
 
 ===Etymology 3===
-From {{der|pl|grc|βάρος|t=weight}}, probably borrowed via science literature in another European language.
+{{bor+|pl|grc|βάρος|t=weight}}.
 
 ====Noun====
 {{pl-noun|m-in}}
 
-# [[#English|bar]] {{gl|unit of pressure equal to 100,000 pascals}}
+# {{l|en|bar}} {{gl|unit of pressure equal to 100,000 pascals}}
 
 =====Declension=====
 {{pl-decl-noun-m-in|||a}}
