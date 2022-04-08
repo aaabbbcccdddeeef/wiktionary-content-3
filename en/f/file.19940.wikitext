@@ -719,24 +719,31 @@ From {{m|fr|fil}} or the verb {{m|fr|filer}}.
 ==Irish==
 
 ===Etymology===
+{{root|ga|ine-pro|*wel-}}
 From {{inh|ga|sga|fili}}, from {{inh|ga|pgl|ᚃᚓᚂᚔᚈᚐᚄ}}, from {{inh|ga|cel-pro|*weless}}.
 
-===Noun===
-{{ga-noun|m|file|filí}}
+===Pronunciation===
+* {{IPA|ga|/ˈfʲɪlʲə/}}
+* {{a|Ulster|also}} {{IPA|ga|/ˈfʲɨ̞lʲə/}}
 
-# {{l|en|poet}}
+===Noun===
+{{ga-noun|m|~|filí}}
+
+# [[poet]]
 
 ====Declension====
 {{ga-decl-m4|f|ile|ilí}}
 
 ====Derived terms====
-{{der2|ga
-|filíocht
-|{{l|ga|pribhléid an fhile||poetic licence}}
-}}
+* {{l|ga|filíocht}}
+* {{l|ga|pribhléid an fhile||poetic licence}}
 
 ===Mutation===
 {{ga-mut}}
+
+===Further reading===
+* {{R:ga:Ó Dónaill}}
+* {{R:ga:Quiggin|39}}
 
 {{topics|ga|Literature|Occupations}}
 
