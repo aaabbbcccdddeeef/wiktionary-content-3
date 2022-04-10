@@ -50,7 +50,7 @@
 * Coptic: {{t|cop|ⲙⲉⲧⲣⲟⲡⲟⲗⲓⲥ|f}}
 * Crimean Tatar: {{t|crh|paytaht}}
 * Czech: {{t+|cs|hlavní město|n}}
-* Danish: {{t+|da|hovedstad}}
+* Danish: {{t+|da|hovedstad|c}}
 * Dutch: {{t+|nl|hoofdstad|m|f}}
 * East Central German: {{t|gmw-ecg|Hauptstoadt|f}} {{q|Silesian}}
 * Erzya: {{t|myv|прявтош}}
@@ -77,7 +77,7 @@
 * Ido: {{t+|io|chef-urbo}}
 * Indonesian: {{t|id|ibukota}}
 * Irish: {{t|ga|príomhchathair|f}}, {{t|ga|ceannphort|m}}, {{t|ga|ardchathair|f}}
-* Italian: {{qualifier|of nation}} {{t+|it|capitale|f}}, {{qualifier|of a state or ''regione''}} {{t+|it|capoluogo|m}}
+* Italian: {{qualifier|of nation}} {{t+|it|capitale|f}}, {{qualifier|of a state or ''regione''}} 
 * Japanese: {{t+|ja|首都|tr=しゅと, shuto}}, {{t+|ja|都|tr=miyako}}
 * Javanese: {{t|jv|ibu kutha}}
 * Kachchi: {{t|kfr|રાજધાની}}
@@ -93,14 +93,14 @@
 *: Central Kurdish: {{t+|ckb|پایتەخت}}
 *: Northern Kurdish: {{t+|kmr|paytext}}
 * Kyrgyz: {{t+|ky|борбор}}, {{t|ky|борбор шаар}}, {{t|ky|ордошаар}}, {{t|ky|башкалаа}}
-* Lao: {{t|lo|ນະຄອນຫລວງ}}, {{t+|lo|ກຸງ}}, {{t|lo|ເມືອງຫລວງ}}
+* Lao: {{t|lo|ເມືອງຫລວງ}}, {{t|lo|ນະຄອນຫລວງ}}, {{t+|lo|ກຸງ}}
 * Latin: {{t|la|archisolium|n}} {{qualifier|Medieval}}
 * Latvian: {{t|lv|galvaspilsēta|f}}
 * Lithuanian: {{t+|lt|sostinė|f}}
-{{trans-mid}}
 * Low German:
 *: Dutch Low Saxon: {{t|nds-nl|heufdstad|f}}
 *: German Low German: {{t|nds-de|Hööftstadt|f}}
+{{trans-mid}}
 * Lule Sami: {{t|smj|oajvvestáda}}
 * Luxembourgish: {{t+|lb|Haaptstad|f}}
 * Macedonian: {{t|mk|престолнина|f}}
@@ -113,7 +113,8 @@
 * Maori: {{t|mi|tino tāone}}, {{t|mi|tāone matua}}
 * Marathi: {{t|mr|राजधानी|f}}
 * Moksha: {{t|mdf|пряош}}
-* Mongolian: {{t+|mn|нийслэл хот}}, {{t+|mn|нийслэл}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|нийслэл хот}}, {{t+|mn|нийслэл}}
 * Moore: {{t|mos|na-tẽnga}}
 * Navajo: {{t|nv|Wááshindoon bikin}}
 * Northern Sami: {{t|se|oaivegávpot}}
@@ -144,8 +145,8 @@
 * Scots: {{t|sco|caipital ceety}}
 * Scottish Gaelic: {{t|gd|prìomh-bhaile}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|престоница|f}}, {{t|sh|главни град|m}}
-*: Roman: {{t+|sh|prestonica|f}}, {{t+|sh|glavni grad|m}}
+*: Cyrillic: {{t|sh|пре́сто̄ница|f}}, {{t|sh|прије́сто̄лница|f}}, {{t|sh|главни град|m}}
+*: Roman: {{t+|sh|préstōnica|f}}, {{t+|sh|prijéstōlnica|f}}, {{t+|sh|glavni grad|m}}
 * Shor: {{t|cjs|ӧӧн тура|tr=öön tura}}
 * Sicilian: {{t+|scn|capitali}}
 * Sinhalese: {{t+|si|අගනුවර}}
@@ -163,14 +164,14 @@
 * Tamil: {{t|ta|தலைநகர்}}
 * Tatar: {{t+|tt|башкала}}
 * Telugu: {{t+|te|రాజధాని}}
-* Thai: {{t+|th|เมืองหลวง}}, {{t+|th|กรุง}}, {{t+|th|นครหลวง}}
+* Thai: {{t+|th|เมืองหลวง}}, {{t+|th|นครหลวง}}, {{t+|th|กรุง}}
 * Tibetan: {{t|bo|རྒྱལ་ས}}
 * Tigrinya: {{t|ti|ርእሲ ከተማ}}
 * Turkish: {{t+|tr|başkent}}, {{t+|tr|başşehir}}, {{t|tr|asitane}}, {{t+|tr|paytaht}}, {{t+|tr|ken}}
 * Turkmen: {{t|tk|paýtagt}}
 * Udmurt: {{t|udm|шоркар}}
 * Ukrainian: {{t+|uk|столи́ця|f}}
-* Urdu: {{t|ur|دارالحکومت|tr=dār-ul-hukūmat}}
+* Urdu: {{t|ur|دارُالْحُکُومَت|m|tr=dār-ul-hukūmat}}
 * Uyghur: {{t|ug|پايتەخت}}
 * Uzbek: {{t+|uz|poytaxt}}
 * Venetian: {{t|vec|cavedal}}
