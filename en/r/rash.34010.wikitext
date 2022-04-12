@@ -1,40 +1,57 @@
 {{also|Rash}}
 ==English==
+{{was wotd|2022|April|18}}
 
 ===Pronunciation===
-* {{IPA|en|/ɹæʃ/}}
-* {{audio|en|en-us-rash.ogg|Audio (US)}}
+* {{a|RP|GA}} {{IPA|en|/ɹæʃ/}}
+* {{audio|en|En-us-rash.ogg|Audio (GA)}}
 * {{rhymes|en|æʃ|s=1}}
 
 ===Etymology 1===
-From {{inh|en|enm|rash}}, {{m|enm|rasch|t=hasty, headstrong}}, from {{inh|en|ang|*ræsc}} {{gloss|"rash"; found in derivatives: {{m|ang|ræscan|t=to move rapidly, flicker, flash, quiver, glitter}}, {{m|ang|ræscettan|t=to crackle, sparkle}}, etc.}}, from {{inh|en|gem-pro|*raskaz}}, {{m|gem-pro|*raskuz}}, {{m|gem-pro|*raþskaz}}, {{m|gem-pro|*raþskuz|t=rash, rapid}}, from {{der|en|ine-pro|*ret-|t=to run, roll}}. Cognate with {{cog|nl|rasch}}, {{m|nl|ras|t=rash, snell}}, {{cog|gml|rasch|t=rash}}, {{cog|de|rasch|t=rash, swift}}, {{cog|sv|rask|t=brisk, quick, rash}}, {{cog|is|röskur|t=strong, vigorous}}.
+{{root|en|ine-pro|*ret-}}
+The {{glossary|adjective}} is derived from {{inh|en|enm|rash}}, {{m|enm|rasch|t=hasty, headstrong, rash}}{{nb...|rashe, rassh, rasshe|otherforms=1}},<ref>{{R:MED Online|entry=rash(e|pos=adj|id=MED35947}}</ref> probably from {{inh|en|ang|*ræsc|t=rash}} (found in derivatives such as {{m|ang|ræscan|t=to move rapidly, flicker, flash, quiver, glitter}}, {{m|ang|ræscettan|t=to crackle, sparkle}}, etc.), from {{inh|en|gem-pro|*raskaz}}, {{m|gem-pro|*raskuz}}, {{m|gem-pro|*raþskaz}}, {{m|gem-pro|*raþskuz|t=rash; rapid}}, from {{der|en|ine-pro|*ret-|t=to run, roll}}. The Middle English word was probably influenced by the cognates listed below.<ref name="OED">{{R:OED Online|pos=adj.'' and ''adv|id=158316|date=March 2022|nodot=1}}; {{R:Lexico|alt=rash{{sup|1}}|pos=adj}}</ref>
+
+The {{glossary|adverb}} is derived from {{inh|en|enm|rashe|t=quickly, rapidly}}, from {{m|enm|rash}}, {{m|enm|rasch|pos=adjective}} (see above).<ref name="OED"/><ref>{{R:MED Online|entry=rashe|pos=adv|id=MED35948}}</ref>
+
+{{rel-top|cognates}}
+* {{cog|nl|ras}}, {{m|nl|rasch|t=rash}}
+* {{cog|gml|rasch|t=rash}}
+* {{cog|gmq-oda|rask|t=agile, nimble; fast; healthy, vigorous}} (modern {{cog|da|rask|t=agile, nimble; fast; healthy, vigorous; hasty, rash}})
+* {{cog|goh|reski|t=impetuous, rash}} ({{cog|gmh|rasch}}, {{m|gmh|resch|t=agile, nimble; fast; lively; healthy, vigorous}}, modern {{cog|de|rasch}}, {{m|de|räsch}}, {{m|de|resch|t=agile, nimble; fast; hasty, rash; healthy, vigorous; of food: crisp, crusty}})
+* {{cog|non|rǫskr|t=brave; healthy, vigorous}} ({{cog|is|röskur|t=strong; healthy, vigorous}})
+* {{cog|gmq-osw|rasker|t=agile, nimble; brave; fast; vigorous}} (modern {{cog|sv|rask|t=agile, nimble; fast; healthy, vigorous}})
+{{rel-bottom}}
 
 ====Adjective====
 {{en-adj|er}}
 
-# Acting too quickly without considering the risks and consequences; not [[careful]]; [[hasty]].
+# [[act#Verb|Acting]] too [[quickly]] without [[consider]]ing the [[consequence]]s and [[risk#Noun|risks]]; not [[careful]]; [[hasty]].
+#: {{synonyms|en|foolhardy|heady|impulsive|precipitate|Thesaurus:reckless}}
+#: {{antonyms|en|prudent|unrash}}
 #: {{ux|en|'''rash''' words spoken in the heat of debate}}
-# So dry as to fall out of the [[ear]] with handling, as [[corn]].
-# {{lb|en|obsolete}} Requiring sudden action; pressing; urgent.
-#* {{RQ:Shakespeare Troilus and Cressida|IV|ii|passage=I scarce have leisure to salute you, / My matter is so '''rash'''.}}
-# {{lb|en|obsolete}} Fast-acting.
-#* {{RQ:Shakespeare Henry 4-2|IV|iii|passage=Strong as aconitum or '''rash''' gunpowder.}}
-
-=====Synonyms=====
-{{checksense|en}}
-* {{l|en|brash}}
-* {{l|en|heady}}
-* {{l|en|hotheaded}}
-* {{l|en|impulsive}}
-* {{l|en|inconsiderate}}
-* {{l|en|precipitate}}
+#* {{RQ:Hobbes Leviathan|chapter=Of Imagination|page=7|passage=For ſitting in his &#91;{{w|Marcus Junius Brutus}}'s&#93; tent, penſive and troubled vvith the horrour of his '''raſh''' act, it vvas not hard for him, ſlumbering in the cold, to dream of that vvhich moſt affrighted him; {{...}}}}
+#* {{RQ:Livy Holland Romane Historie|book=X|page=310|passage=[T]hrough the '''raſh''' adventure and fool-hardineſs of ſome fevv, an overture only made, and ſome advantage got of performing a great piece of ſervice and vvorthy exploit.}}
+#* {{RQ:Milton Samson|page=57|lines=8–9|passage=I vvas a fool, too '''raſh''', and quite miſtaken / In vvhat I thought vvould have ſucceeded beſt.}}
+#* {{RQ:Sterne Tristram Shandy|volume=IV|chapter=Slawkenbergius’s Tale|page=65|passage=He will tell you in how few moments ſhe repented of the '''raſh''' meſſage ſhe had ſent you— {{...}}}}
+#* {{RQ:Cowper Poems|poem=Conversation|page=257|passage=So ſhould an ideot vvhile at large he ſtrays, / Find the ſvveet lyre on vvhich an artiſt plays, / VVith '''raſh''' and aukvvard force the chords he ſhakes, / And grins vvith vvonder at the jar he makes; {{...}}}}
+#* {{RQ:Dante Cary Vision|volume=III|canto=V|lines=63–68|pages=21–22|pageref=21|passage=Take then no vow at random: ta'en, with faith / Preserve it; yet not bent, as Jephthah once, / Blindly to execute a '''rash''' resolve, / Whom better it had suited to exclaim, / 'I have done ill,' than to redeem his pledge / By doing worse: {{...}}}}
+#* {{RQ:Lawrence Lady Chatterley's Lover|chapter=XVIII|page=283|passage=She did a '''rash''' thing. She sent a letter to Ivy Bolton, enclosing a note to the keeper, and asking Mrs Bolton to give it to him.}}
+# {{lb|en|Northern England|archaic}} Of [[corn#Noun|corn]] or other [[grain#Noun|grains]]: so [[dry#Adjective|dry]] as to [[fall out#Verb|fall out]] of the [[ear#Noun|ear]] with [[handling#Noun|handling]].
+# {{lb|en|obsolete|rare}}
+## [[require|Requiring]] [[swift#Adjective|swift]] [[action]]; [[pressing#Adjective|pressing]]; [[urgent]].
+##* {{RQ:Shakespeare Troilus and Cressida|act=IV|scene=ii|page=65|passage=My Lord, I ſcarce haue leiſure to ſalute you, / My matter is ſo '''raſh''': {{...}}}}
+## [[take effect|Taking effect]] [[quickly]] and [[strongly]]; [[fast-acting]].
+##* {{RQ:Shakespeare Henry 4-2|act=IV|scene=iii|page=69|passage=[T]he vnited veſſel of their bloud, / {{...}} / Shall neuer leake, though it doe vvorke as ſtrong, / As Aconitum, or '''raſh''' gunpovvder.}}
+##* {{RQ:Shakespeare Winter's Tale|act=I|scene=ii|page=280|column=1|passage=Sir (my Lord) / I could doe this, and that vvith no '''raſh''' Potion, / But with a lingring Dram, that ſhould not vvorke / Maliciouſly, like Poyſon.}}
+##* {{RQ:Hopkins Poems|poem=The Wreck of the Deutschland|part=2|stanza=19|page=17|passage=[T]he inboard seas run swirling and hawling; / The '''rash''' smart sloggering brine / Blinds her; {{...}}}}
 
 =====Derived terms=====
 * {{l|en|rashly}}
 * {{l|en|rashness}}
+* {{l|en|unrash}}
 
 =====Translations=====
-{{trans-top|hasty}}
+{{trans-top-also|acting too quickly without considering the consequences and risks|hasty}}
 * Bulgarian: {{t+|bg|прибързан}}, {{t+|bg|необмислен}}
 * Catalan: {{t|ca|arrauxat}}
 * Chinese:
@@ -43,37 +60,44 @@ From {{inh|en|enm|rash}}, {{m|enm|rasch|t=hasty, headstrong}}, from {{inh|en|ang
 * Danish: {{t|da|forhastet}}, {{t|da|uoverlagt}}
 * Dutch: {{t+|nl|onbezonnen}}
 * Esperanto: {{t|eo|temerara}}
-* Finnish: {{t+|fi|hätäinen}}, {{t+|fi|varomaton}}, {{t+|fi|ajattelematon}}
-* French: {{t+|fr|impulsif}}, {{t+|fr|hâtif}}
+* Finnish: {{t+|fi|ajattelematon}}, {{t+|fi|hätäinen}}, {{t+|fi|varomaton}}
+* French: {{t+|fr|hâtif}}, {{t+|fr|impulsif}}
 * German: {{t+|de|voreilig}}, {{t+|de|vorschnell}}
 * Greek:
-*: Ancient: {{t|grc|προπετής}}, {{t|grc|ἰταμός}}
+*: Ancient: {{t|grc|ἰταμός}}, {{t|grc|προπετής}}
 * Ido: {{t+|io|impulsiva}}, {{t+|io|temerara}}
 * Irish: {{t|ga|ainchríonna}}, {{t|ga|andána}}, {{t|ga|mear}}
 {{trans-mid}}
-* Italian: {{t+|it|imprudente}}, {{t+|it|impulsivo}}, {{t+|it|precipitoso|m}}, {{t+|it|frettoloso|m}}, {{t+|it|affrettato|m}}
+* Italian: {{t+|it|affrettato|m}}, {{t+|it|frettoloso|m}}, {{t+|it|imprudente}}, {{t+|it|impulsivo}}, {{t+|it|precipitoso|m}}
 * Maori: {{t|mi|matauaua}}
 * Norman: {{t|nrf|hardi}} {{qualifier|Jersey}}
-* Occitan: {{t|oc|precipitat}}, {{t|oc|inconsiderat}}, {{t|oc|precipitat}}, {{t|oc|impensat}}
-* Persian: {{t|fa|بی‌احتیاط|tr=bi-ehtiyât}}, {{t|fa|بی‌محابا|tr=bi-mohâbâ}}, {{t|fa|بی‌هوا|tr=bi-havâ}}
+* Occitan: {{t|oc|impensat}}, {{t|oc|inconsiderat}}, {{t|oc|precipitat}}
+* Persian: {{t|fa|بی‌احتیاط|tr=bi-ehtiyât}}, {{t|fa|بی‌هوا|tr=bi-havâ}}, {{t|fa|بی‌محابا|tr=bi-mohâbâ}}
 * Plautdietsch: {{t|pdt|onbesonnen}}
 * Portuguese: {{t+|pt|imprudente}}, {{t+|pt|precipitado}}
-* Russian: {{t+|ru|поспе́шный}}, {{t+|ru|опроме́тчивый}}
+* Russian: {{t+|ru|опроме́тчивый}}, {{t+|ru|поспе́шный}}
 * Slovak: {{t|sk|nepozorný}}
-* Spanish: {{t+|es|precipitado}}, {{t+|es|inconsiderado}}, {{t+|es|adelantado}}, {{t+|es|arrojado}}, {{t+|es|impulsivo}}
+* Spanish: {{t+|es|adelantado}}, {{t+|es|arrojado}}, {{t+|es|impulsivo}}, {{t+|es|inconsiderado}}, {{t+|es|precipitado}}
 * Swedish: {{t+|sv|förhastad}}
 * Turkish: {{t|tr|fazla aceleci}}
 {{trans-bottom}}
 
-=====See also=====
-* {{l|en|prudent}}
-* {{l|en|reckless}}
+{{trans-top|of corn or other grains: so dry as to fall out of the ear with handling}}
+{{trans-mid}}
+{{trans-bottom}}
+
+====Adverb====
+{{en-adv}}
+
+# {{lb|en|archaic}} {{synonym of|en|rashly|t=in a [[rash#Adjective|rash]] [[manner]]; [[hastily]] or without [[due#Adjective|due]] [[consideration]]}}
+
+=====Translations=====
+{{trans-see|''synonym of'' rashly|rashly}}
 
 ===Etymology 2===
 Likely from {{der|en|fro|rasche||rash, scurf}}, from {{der|es|VL.|-}} root {{m|la|*rāsicāre||to scrape}}, from {{der|es|la|rāsus||scraped, scratched}}, from Latin {{m|la|rādō||I scratch, scrape}}. More at [[raze]]/[[rase]].
 
 ====Noun====
-{{wikipedia|rash|rash (inflamed skin)}}
 {{en-noun}}
 
 # {{lb|en|symptom}} An area of reddened, irritated, and inflamed skin.
@@ -201,10 +225,13 @@ For {{m|en|arace}}
 # {{lb|en|obsolete}} To slash; to hack; to slice.
 #* {{RQ:Spenser Faerie Queene|book=V|canto=III|stanza=8|passage='''Rashing''' off helmes, and ryuing plates a sonder,}}
 
+===References===
+<references/>
+
 ===Further reading===
-* {{R:Webster 1913}}
+* {{pedia|rash (inflamed skin)}}
 * {{R:Century 1911}}
-* {{R:Lexico}}
+* {{R:Webster 1913}}
 
 ===Anagrams===
 * {{anagrams|en|a=ahrs|AHRS|SHRA|Sahr|hars|rahs}}
