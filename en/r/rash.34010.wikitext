@@ -98,26 +98,34 @@ The {{glossary|adverb}} is derived from {{inh|en|enm|rashe|t=quickly, rapidly}},
 {{trans-see|''synonym of'' rashly|rashly}}
 
 ===Etymology 2===
-Likely from {{der|en|fro|rasche||rash, scurf}}, from {{der|es|VL.|-}} root {{m|la|*rāsicāre||to scrape}}, from {{der|es|la|rāsus||scraped, scratched}}, from Latin {{m|la|rādō||I scratch, scrape}}. More at [[raze]]/[[rase]].
+[[File:Measles child Philippines.jpg|thumb|A rash ''(sense 1)'' on the [[face#Noun|face]] of a [[child#Noun|child]] [[cause#Verb|caused]] by [[measles]].]]
+
+{{root|en|ine-pro|*reh₁d-}}
+Probably from {{der|en|fro|rasche}}, {{m|fro|rache|t=skin eruption, rash; (''specifically'') scabies, scurf}} {{qualifier|obsolete}}, from {{m|fro|racher|t=to scrape; to scratch}} (although this is only directly attested later than the noun), from {{der|es|VL.|-}} root {{m|la|*rāsicāre|t=to scrape}}, from {{der|es|la|rāsus|t=scraped, scratched; shaved}}, the {{glossary|perfect}} {{glossary|passive}} {{glossary|participle}} of {{m|la|rādō|t=to scrape, scratch; to shave; to rub, smooth; to brush along, graze}},<ref>{{R:OED Online|pos=''n.''{{sup|4}}|noformat=1|id=158313|date=March 2022|nodot=1}}; {{R:Lexico|alt=rash{{sup|2}}|pos=n}}</ref> ultimately from {{der|en|ine-pro|*reh₁d-|t=to scrape, scratch; to gnaw}}. {{doublet|en|rase|raze}}.
+
+{{rel-top|cognates}}
+* {{cog|fr|rash}}, {{m|fr|rach|t=skin eruption, rash}} {{qualifier|rare}} (borrowed from English ''rash'')
+* {{cog|it|rasca}}, {{m|it|raschia|t=skin eruption like scabies}} {{qualifier|obsolete}} (both borrowed from Old Occitan)
+* {{cog|pro|rasca|t=skin eruption like scabies}}
+{{rel-bottom}}
 
 ====Noun====
 {{en-noun}}
 
-# {{lb|en|symptom}} An area of reddened, irritated, and inflamed skin.
-#: {{ux|en|He came out in a '''rash''' because an allergy.}}
-#: {{ux|en|She smeared '''rash''' cream on herself to reduce the irritation.}}
+# {{lb|en|symptom}} An [[area]] of [[inflamed#Adjective|inflamed]] and [[irritated#Adjective|irritated]] [[skin#Noun|skin]] [[characterize]]d by [[reddened#Adjective|reddened]] [[spot#Noun|spots]] that may be [[fill#Verb|filled]] with [[fluid#Noun|fluid]] or [[pus#Noun|pus]]; also ''preceded by a descriptive word'' {{lb|en|rare|or|obsolete}} an [[illness]] characterized by a [[type#Noun|type]] of rash.
+#: {{ux|en|He came out in a '''rash''' because of an allergy.}}
+#: {{ux|en|She applied '''rash''' cream on herself to reduce the irritation.}}
 #: {{ux|en|A wet cloth should help with the '''rash''' on your arm.}}
-# A [[surge]] in [[problem]]s; a [[spate]], [[string]] or [[trend]].
-#: {{ux|en|There has been a '''rash''' of vandalism lately.}}
-#* {{quote-journal|en
-|title=Hand dryers v paper towels: the surprisingly dirty fight for the right to dry your hands|author=Samanth Subramanian|date=April 25 2019|journal=The Guardian|passage=Science has tried and failed to come to a consensus about the hygienic superiority of one product over the other. Even so, the paper towel industry has funded or promoted a '''rash''' of studies claiming that hand dryers turn bathrooms into mosh pits of pathogens.
-|url=https://www.theguardian.com/society/2019/apr/25/hand-dryers-paper-towels-hygiene-dyson-airblade}}
-
-=====Synonyms=====
-* {{sense|a surge in problems}} [[epidemic]]
+# {{lb|en|figuratively}}
+## An [[irregular#Adjective|irregular]] [[distribution]] or [[sprinkling#Noun|sprinkling]] of [[object#Noun|objects]] [[resemble|resembling]] a rash ''(sense 1)''.
+## An [[outbreak#Noun|outbreak]] or [[surge#Noun|surge]] in [[problem#Noun|problems]]; a [[spate]], [[string#Noun|string]], or [[trend#Noun|trend]].
+##: {{synonyms|en|epidemic}}
+##: {{ux|en|There has been a '''rash''' of vandalism lately.}}
+##* {{RQ:Dickens Hard Times|chapter=Lower and Lower|page=252|passage=Wet through and through: with her feet squelching and squashing in her shoes whenever she moved; with a '''rash''' of rain upon her classical visage; {{...}}}}
+##* {{quote-journal|en|author=Samanth Subramanian|authorlink=Samanth Subramanian|title=Hand dryers v paper towels: the surprisingly dirty fight for the right to dry your hands|editor={{w|Katharine Viner}}|newspaper={{w|The Guardian}}|archiveurl=https://web.archive.org/web/20220131181528/https://www.theguardian.com/society/2019/apr/25/hand-dryers-paper-towels-hygiene-dyson-airblade|archivedate=31 January 2022|location=London|publisher=[[w:Guardian Media Group|Guardian News & Media]]|date=25 April 2019|issn=0261-3077|oclc=229952407|passage=Science has tried and failed to come to a consensus about the hygienic superiority of one product over the other. Even so, the paper towel industry has funded or promoted a '''rash''' of studies claiming that hand dryers turn bathrooms into mosh pits of pathogens.}}
 
 =====Derived terms=====
-{{der4|en
+{{col4|en
 |barber's rash
 |butterfly rash
 |canker rash
@@ -125,7 +133,7 @@ Likely from {{der|en|fro|rasche||rash, scurf}}, from {{der|es|VL.|-}} root {{m|l
 |drug rash
 |gum-rash
 |heat rash
-|[[hiker's rash|hiker’s rash]]
+|hiker's rash
 |malar rash
 |napkin rash
 |nappy rash
@@ -146,7 +154,7 @@ Likely from {{der|en|fro|rasche||rash, scurf}}, from {{der|es|VL.|-}} root {{m|l
 }}
 
 =====Translations=====
-{{trans-top|of skin}}
+{{trans-top|area of inflamed and irritated skin characterized by reddened spots; illness characterized by a type of rash}}
 * Arabic: {{t|ar|طَفْح|m}}, {{t|ar|طَفْح جِلْدِيّ|m}}
 * Armenian: {{t+|hy|ցան}}
 * Bulgarian: {{t+|bg|обрив|m}}
@@ -159,18 +167,18 @@ Likely from {{der|en|fro|rasche||rash, scurf}}, from {{der|es|VL.|-}} root {{m|l
 * Dutch: {{t+|nl|huiduitslag}}, {{t+|nl|uitslag}}
 * Esperanto: {{t-needed|eo}}
 * Finnish: {{t+|fi|ihottuma}}, {{t+|fi|ekseema}}
-* French: {{t+|fr|irritation|f}} (de la peau), {{t+|fr|éruption|f}}, {{t|fr|éruption cutanée|f}}
+* French: {{t+|fr|éruption|f}}, {{t|fr|éruption cutanée|f}}, {{t+|fr|[[irritation]] ([[de]] [[la]] [[peau]])|f}}
 * Galician: {{t+|gl|coxo|m}}, {{t+|gl|erupción|m}}
-* German: {{t+|de|Hautausschlag|m}}, {{t+|de|Ausschlag|m}}
+* German: {{t+|de|Ausschlag|m}}, {{t+|de|Hautausschlag|m}}
 * Ido: {{t|io|iritifo}}
-* Italian: {{t|it|sfogo cutaneo|m}}, {{t|it|eruzione cutanea|f}}
-* Japanese: {{t|ja|皮疹|tr=ひしん, hishin}}, {{t|ja|発疹|tr=はっしん, hasshin, ほっしん, hosshin}}
+* Italian: {{t|it|eruzione cutanea|f}}, {{t|it|sfogo cutaneo|m}}
+* Japanese: {{t|ja|発疹|tr=はっしん, hasshin, ほっしん, hosshin}}, {{t|ja|皮疹|tr=ひしん, hishin}}
 * Khmer: {{t-needed|km}}
 * Luhya: {{t|luy|ohuseruha}}
-* Maori: {{t|mi|tūtutupō}}, {{t|mi|kōpukupuku}}, {{t|mi|mahaki}}, {{t|mi|tongatonga uri}}, {{t|mi|hakihaki}}, {{t|mi|torotiti}}, {{t|mi|kirieke}}
+* Maori: {{t|mi|hakihaki}}, {{t|mi|kirieke}}, {{t|mi|kōpukupuku}}, {{t|mi|mahaki}}, {{t|mi|tongatonga uri}}, {{t|mi|torotiti}}, {{t|mi|tūtutupō}}
 {{trans-mid}}
 * Mongolian: {{t-needed|mn}}
-* Navajo: {{t|nv|naʼakǫs|sc=Latn}}
+* Navajo: {{t|nv|naʼakǫs}}
 * Norman: {{t|nrf|feu|m}} {{qualifier|Jersey}}
 * Norwegian:
 *: Bokmål: {{t|nb|utslett|n}}
@@ -191,13 +199,17 @@ Likely from {{der|en|fro|rasche||rash, scurf}}, from {{der|es|VL.|-}} root {{m|l
 * Yiddish: {{t|yi|קרעץ|m}}
 {{trans-bottom}}
 
-{{trans-top|surge in problems}}
+{{trans-top|irregular distribution or sprinkling of objects resembling a rash}}
+{{trans-mid}}
+{{trans-bottom}}
+
+{{trans-top|outbreak or surge in problems}}
 * Finnish: {{t+|fi|aalto}}, {{t+|fi|suma}}
 * French: {{t+|fr|épidémie|f}}, {{t+|fr|flambée|f}}
 * Polish: {{t+|pl|lawina|f}}
 * Portuguese: {{t+|pt|surto|m}}
 {{trans-mid}}
-* Russian: {{t+|ru|вспы́шка|f}}, {{t+|ru|всплеск|m}}
+* Russian: {{t+|ru|всплеск|m}}, {{t+|ru|вспы́шка|f}}
 * Spanish: {{t+|es|erupción|f}}
 * Swedish: {{t+|sv|våg|c}}, {{t+|sv|utbrott|n}}
 {{trans-bottom}}
