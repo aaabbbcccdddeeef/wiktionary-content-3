@@ -80,7 +80,6 @@ Cognate with {{cog|fy|molke}}, {{cog|nl|melk}}, {{cog|nds-nl|melk}}, {{cog|de|Mi
 |low-fat milk
 |malted milk
 |mare's milk
-|milkable
 |milk abscess
 |milk acid
 |[[milkaholic]], [[milkoholic]]
@@ -98,7 +97,6 @@ Cognate with {{cog|fy|molke}}, {{cog|nl|melk}}, {{cog|nds-nl|melk}}, {{cog|de|Mi
 |milk duct
 |[[Milkomeda]], [[Milkdromeda]]
 |milken
-|milker
 |milk factory
 |[[milkfat]], [[milk fat]]
 |[[milkfed]], [[milk-fed]]
@@ -112,8 +110,6 @@ Cognate with {{cog|fy|molke}}, {{cog|nl|melk}}, {{cog|nds-nl|melk}}, {{cog|de|Mi
 |milk ice
 |milkie
 |milkiness
-|milking
-|milking machine
 |milkish
 |milk jug
 |milklike
@@ -223,7 +219,13 @@ From {{inh|en|enm|milken}}, from {{inh|en|ang|melcan}}, from {{inh|en|gem-pro|*m
 #: {{rfquote-sense|en}}
 
 =====Derived terms=====
-* {{l|en|milking table}}
+{{derived terms|lang=en
+|milkable
+|milker
+|milking
+|milking machine
+|milking table
+}}
 
 =====Translations=====
 {{trans-top|to express milk from mammal}}
