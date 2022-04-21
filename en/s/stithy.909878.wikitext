@@ -1,7 +1,7 @@
 ==English==
 
 ===Etymology===
-From {{inh|en|enm|stethi}}, borrowed from {{der|en|non|steði}}.
+From {{inh|en|enm|stithy}}, ultimately from {{der|en|non|steði|id=anvil}}.
 
 ===Pronunciation===
 * {{IPA|en|/ˈstɪði/}}
@@ -16,12 +16,7 @@ From {{inh|en|enm|stethi}}, borrowed from {{der|en|non|steði}}.
 #* {{RQ:Shakespeare Hamlet|III|ii|passage=As foul as Vulcan's '''stithy'''.}}
 
 ====Translations====
-{{trans-top|an anvil}}
-* Bulgarian: {{t|bg|наковалня|f}}
-* Russian: {{t+|ru|накова́льня|f}}
-{{trans-mid}}
-{{trans-bottom}}
-
+{{trans-see|an anvil|anvil}}
 {{trans-top|smithy or forge}}
 * Bulgarian: {{t|bg|ковачница|f}}
 * Russian: {{t+|ru|ку́зница|f}}
@@ -32,3 +27,32 @@ From {{inh|en|enm|stethi}}, borrowed from {{der|en|non|steði}}.
 * {{anagrams|en|a=histty|shitty}}
 
 [[Category:en:Tools]]
+
+----
+
+==Middle English==
+
+===Alternative forms===
+* {{alter|enm|stedy|stethi|stethie|stethy|steþi|stidie|stidy|stithi|stithie|stithþi|stiþie|studee|stythie|stythy}}
+
+===Etymology===
+Either {{bor+|enm|non|steðja|nocap=1}}, oblique singular of {{m|non|steði}}, or a remodelling of {{m|enm|stith}} on the analogy of {{m|enm|smythy}}. {{doublet|enm|stith}}.
+
+===Pronunciation===
+* {{IPA|enm|/ˈstidiː/|/ˈstiðiː/|/ˈstɛ-/}}
+
+===Noun===
+{{enm-noun|stithies}}
+
+# [[anvil]] {{gloss|[[iron]] [[block]] for [[shape|shaping]] [[metal]]}}
+#: {{syn|enm|anvelt|stith}}
+
+====Descendants====
+* {{desc|en|stithy}}
+* {{desc|sco|studdy}}, {{l|sco|stiddy}}
+
+====References====
+* {{R:MED Online|stithī(e|n.(1)|MED43009}}
+
+[[Category:enm:Metallurgy]]
+[[Category:enm:Tools]]
