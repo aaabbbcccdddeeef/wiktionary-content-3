@@ -54,7 +54,7 @@ From {{bor|sq|it|bemolle}}.
 {{wp|lang=pl}}
 
 ===Etymology===
-{{bor+|pl|it|bemolle}}.
+{{bor+|pl|fr|bémol}}, from {{der|pl|it|bemolle}}.
 
 ===Pronunciation===
 {{pl-p|a=LL-Q809 (pol)-Olaf-bemol.wav}}
@@ -63,17 +63,14 @@ From {{bor|sq|it|bemolle}}.
 {{pl-noun|m-in}}
 
 # {{lb|pl|music}} [[flat]] {{gl|note played a semitone lower than a natural}}
+#: {{cot|pl|krzyżyk}}
 
 ====Declension====
-{{pl-decl-noun
-|bemol|bemole
-|bemola|bemoli
-|bemolowi|bemolom
-|bemol|bemole
-|bemolem|bemolami
-|bemolu|bemolach
-|bemolu|bemole
-}}
+{{pl-decl-noun-m-in|gens=bemola|genp=bemoli/bemolów}}
+
+====Derived terms====
+{{col3|pl|title=adjective|bemolowy}}
+{{col3|pl|title=noun|bemol podwójny}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
