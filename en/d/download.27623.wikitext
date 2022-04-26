@@ -2,6 +2,9 @@
 ==English==
 {{wikipedia|Download}}
 
+===Alternative forms===
+* {{l|en|DL}}, [[dl]], [[d/l]], [[D/L]]
+
 ===Etymology===
 From {{af|en|down|load}}.
 
@@ -15,15 +18,12 @@ From {{af|en|down|load}}.
 ===Noun===
 {{en-noun}}
 
-# A [[file]] [[transfer]] to the local computer.
-#: ''The '''download''' took longer than I expected.''
-# A [[file]] that has been, or will be transferred in this way.
-#: ''I got the '''download''' but it wouldn't work on my computer.''
+# A [[file]] [[transfer]] to a [[given]] [[computer]] or [[device]] from a [[remote]] [[one]] through a [[network]] [[connection]].
+#: {{ux|en|The '''download''' took longer than I expected.}}
+# A [[file]] that has been or is [[intend]]ed to be [[transfer]]red in [[this]] [[way]].
+#: {{ux|en|I got the '''download''' but it wouldn't work on my computer.}}
 
-====Derived terms====
-* {{l|en|DL}}, [[dl]], [[d/l]], [[D/L]] {{qualifier|abbreviation}}
-
-====Antonyms====
+====Coordinate terms====
 * {{l|en|upload}}
 
 ====Descendants====
@@ -103,17 +103,20 @@ From {{af|en|down|load}}.
 ===Verb===
 {{en-verb}}
 
-# {{lb|en|transitive|computing}} To transfer [[data]] from a remote computer ([[server]]) to a local [[computer]], usually via a [[network]].
-#: {{syn|en|copy|move|transfer}}
-#: {{ant|en|upload}}
+# {{lb|en|transitive|computing}} To [[transfer]] [[data]] to a [[given]] [[computer]] from a [[remote]] [[one]] [[via]] a [[network]].
+#* '''2007 September 7''', Graham Linehan, ''{{w|The IT Crowd}}'', Season 2, Episode 3:
+#*: ''Voiceover:'' You wouldn't steal a handbag. You wouldn't steal a car. You wouldn't steal a baby. You wouldn't shoot a policeman and then steal his helmet. You wouldn't [[go to the toilet]] in his helmet and then send it to the policeman's grieving widow and then steal it again. '''Downloading'''' films is stealing. If you do it you WILL face the consequences.<br>''Roy:'' Man, these anti-piracy ads are getting really mean.
 #: {{ux|en|You can '''download''' a trial version of the program for thirty days to determine whether you want to purchase the full version.}}
-# {{lb|en|transitive|nonstandard}} To [[upload]]; to copy a file from a local computer to a remote computer via a network.
-# {{lb|en|transitive|nonstandard}} To transfer a file to or from removable media.
-#: {{ux|en|I needed to '''download''' photos to a CD-ROM}}
-# {{lb|en|transitive|nonstandard}} To [[install]] software.
+# {{lb|en|transitive|nonstandard}} {{synonym of|en|upload}}: to [[send]] [[data]] from a [[given]] [[computer]] to a [[remote]] [[one]].
+# {{lb|en|transitive|nonstandard}} {{synonym of|en|copy}}: to [[transfer]] [[data]] to or from [[removable]] [[media]].
+#: {{ux|en|When I was your age, there were no [[flash drive]]s. I needed to '''download''' photos to a [[CD-ROM]].}}
+# {{lb|en|transitive|nonstandard}} {{synonym of|en|install}}: to [[load]] [[software]] [[forced]].
 
-====Synonyms====
-* {{l|en|DL}}, [[dl]], [[d/l]], [[D/L]] {{qualifier|abbreviation}}
+====Hypernyms====
+* {{l|en|copy}}, {{l|en|move}}, {{l|en|transfer}}
+
+====Coordinate terms====
+* {{l|en|upload}}
 
 ====Derived terms====
 * {{l|en|downloader}}
