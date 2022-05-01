@@ -404,7 +404,8 @@ From {{bor|id|nl|bus}}, from {{der|id|la|omnibus||for everything/all}}; dative p
 Borrowed from {{bor|ga|en|bus}}.
 
 ===Pronunciation===
-* {{IPA|ga|[bˠʊsˠ]}}
+* {{IPA|ga|/bˠʊsˠ/}}
+* {{a|Aran}} {{IPA|ga|/bˠɞsˠ/}}
 
 ===Noun===
 {{ga-noun|m|~|~anna}}
@@ -416,20 +417,23 @@ Borrowed from {{bor|ga|en|bus}}.
 {{ga-decl-m4|b|us|usanna}}
 
 ====Derived terms====
-{{der3
-|ga|{{l|ga|busáras}}, {{l|ga|stáisiún bus|t=bus station}}
-|{{l|ga|buslána}}, {{l|ga|lána bus|t=bus lane}}
-|{{l|ga|tiománaí bus|t=bus-driver}}
-|{{l|ga|bus tralaí|t=trolleybus}}
-|{{l|ga|stad bus|t=bus-stop}}
-|{{l|ga|stiúrthóir bus|t=bus conductor}}
-|{{l|ga|tairseach bus|t=platform of bus}}
-|{{l|ga|líne busanna|t=bus line}}
-|{{l|ga|bus altach|t=bendy bus}}
-|{{l|ga|pas bus|t=bus pass}}
-|{{l|ga|scáthlán bus|t=bus shelter}}
-|{{l|ga|bus dhá stór}}, {{l|ga|bus dhá urlár|t=double decker bus}}
-|{{l|ga|bus scoile|t=school bus}}
+{{der4|ga
+|busáras<t:bus station>
+|stáisiún bus<t:bus station>
+|buslána<t:bus lane>
+|lána bus<t:bus lane>
+|tiománaí bus<t:bus-driver>
+|bus tralaí<t:trolleybus>
+|stad bus<t:bus-stop>
+|stiúrthóir bus<t:bus conductor>
+|tairseach bus<t:platform of bus>
+|líne busanna<t:bus line>
+|bus altach<t:bendy bus>
+|pas bus<t:bus pass>
+|scáthlán bus<t:bus shelter>
+|bus dhá stór<t:double decker bus>
+|bus dhá urlár<t:double decker bus>
+|bus scoile<t:school bus>
 }}
 
 ===Mutation===
@@ -437,6 +441,7 @@ Borrowed from {{bor|ga|en|bus}}.
 
 ===Further reading===
 * {{R:ga:Ó Dónaill}}
+* {{R:ga:Finck|II|48}}
 * {{R:ga:Foras}}
 * {{R:ga:EID}}
 
