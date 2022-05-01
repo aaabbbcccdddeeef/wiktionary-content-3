@@ -6,7 +6,7 @@
 * {{alter|en|carbone||obsolete}}
 
 ===Etymology===
-Borrowed from {{bor|en|fr|carbone}}, coined by {{w|Antoine Lavoisier}}, from {{der|en|la|carbō|carbō, carbōnem|t=[[charcoal]], [[coal]]}}, from {{der|en|ine-pro|*kerh₃-|t=to [[burn]]}}.
+{{bor+|en|fr|carbone}}, coined by {{w|Antoine Lavoisier}}, from {{der|en|la|carbō|carbō, carbōnem|t=[[charcoal]], [[coal]]}}, from {{der|en|ine-pro|*kerh₃-|t=to [[burn]]}}.
 
 ===Pronunciation===
 * {{a|GenAm}} {{enPR|kärʹbən}}, {{IPA|en|/ˈkɑɹbən/}}
@@ -54,6 +54,10 @@ Borrowed from {{bor|en|fr|carbone}}, coined by {{w|Antoine Lavoisier}}, from {{d
 
 ====Related terms====
 {{rel4|en|carbonaceous|carbonade|carbonado|{{w|Carbonari}}|carbonate|carboniferous|carbonify|carbonigenous|carbuncle|carbonara}}
+
+====Descendants====
+* {{desc|bn|কার্বন|bor=1}}
+* {{desc|cy|carbon|bor=1}}
 
 ====Translations====
 {{trans-top|id=Q623|chemical element}}
@@ -370,11 +374,11 @@ From {{m|nl|carbonpapier}}.
 ----
 
 ==Romanian==
-{{wikipedia|lang=ro}}
+{{swp|lang=ro}}
 {{elements|ro|C|bor|B|azot|N}}
 
 ===Etymology===
-Borrowed from {{bor|ro|fr|carbone}}, coined by {{w|Lavoisier}}, from {{der|ro|la|carbō|carbō, carbōnem|charcoal, coal}}, from {{der|ro|ine-pro|*ker-||to burn}}. {{doublet|ro|cărbune}}, inherited from the same Latin source.
+{{bor+|ro|fr|carbone}}, coined by {{w|Lavoisier}}, from {{der|ro|la|carbō|carbō, carbōnem|charcoal, coal}}, from {{der|ro|ine-pro|*ker-||to burn}}. {{dbt|ro|cărbune}}.
 
 ===Pronunciation===
 * {{IPA|ro|/karˈbon/}}
@@ -383,12 +387,12 @@ Borrowed from {{bor|ro|fr|carbone}}, coined by {{w|Lavoisier}}, from {{der|ro|la
 ===Noun===
 {{ro-noun|n|-}}
 
-# {{l|en|carbon}} {{gloss|chemical element}}
+# {{l|en|carbon}} {{gl|chemical element}}
 
 ====Declension====
 {{ro-noun-n|n=sg}}
 
-===References===
+===Further reading===
 * {{R:DEX}}
 
 ----
@@ -418,7 +422,8 @@ From {{der|gd|la|carbo|carbō, carbōnem}}.
 ==Welsh==
 
 ===Etymology===
-Borrowed from {{bor|cy|en|carbon}}.
+{{dercat|cy|la}}
+{{bor+|cy|en|carbon}}, from {{der|cy|fr|carbone}}.
 
 ===Pronunciation===
 * {{IPA|cy|/ˈkarbɔn/}}
@@ -426,15 +431,13 @@ Borrowed from {{bor|cy|en|carbon}}.
 ===Noun===
 {{cy-noun|m|-}}
 
-# [[carbon]]
-
-====Synonyms====
-* {{q|obsolete}} {{l|cy|ulyfai}}
+# [[carbon#English|carbon]]
+#: {{syn|cy|ulyfai|q=obsolete}}
 
 ===Mutation===
 {{cy-mut}}
 
-===References===
+===Further reading===
 * {{R:cy:GPC}}
 
 [[Category:cy:Chemical elements]]
