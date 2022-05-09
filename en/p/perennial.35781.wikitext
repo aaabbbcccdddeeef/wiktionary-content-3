@@ -1,16 +1,29 @@
 ==English==
+{{was wotd|2022|May|18}}
 
 ===Etymology===
-1644, from {{bor|en|la|perennis||lasting through the whole year}} (itself from {{m|la|per-||through}} + {{m|la|annus||year}}) + {{af|en|-al}}; {{glossary|surface analysis}} {{confix|en|per|ennial}}.
+{{root|en|ine-pro|*per-|id=fare|*h₂et-}}
+The {{glossary|adjective}} is borrowed from {{bor|en|la|perennis|t=lasting through the whole year or for several years, perennial; continual, everlasting, perpetual}} + [[w:English language|English]] {{m|en|-al|pos={{glossary|suffix}} meaning ‘of or pertaining to’ forming adjectives}}. {{m|la||Perennis}} is derived from {{m|la|per-|t=completive or intensifying {{glossary|prefix}} with the sense of doing something all the way through or entirely}} + {{m|la|annus|t=year; season, time}}<ref>{{R:OED Online|pos=adj.'' and ''n|id=140686|date=March 2022|nodot=1}}; {{R:Lexico|pos=adj.'' and ''n}}</ref> (possibly ultimately from {{der|en|ine-pro|*h₂et-|t=to go}}). The English word is {{glossary|surface analysis|analysable}} as {{confix|en|per|ennial}}.
+
+The {{glossary|noun}} is derived from the adjective.
+
+{{rel-top|cognates}}
+* {{cog|frm|pérenne}} (modern {{cog|fr|pérenne|t=lasting through the whole year, perennial}})
+* {{cog|it|perenne|t=lasting for a long time}}
+* {{cog|es|perenne|t=eternal; permanent; a perennial plant}}
+{{rel-bottom}}
 
 ===Pronunciation===
-* {{IPA|en|/pəˈɹɛni.əl/}}
-* {{audio|en|en-us-perennial.ogg|Audio (US)}}
+* {{a|RP}} {{IPA|en|/pəˈɹɛn.ɪ.əl/}}
+* {{a|GA}} {{IPA|en|/pəˈɹɛn.j(ə)l/|/pəˈɹɛn.i.əl/}}
+* {{audio|en|En-us-perennial.ogg|Audio (GA)}}
+* {{hyphenation|en|per|en|ni|al}}
 
 ===Adjective===
 {{en-adj|-}}
 
 # Lasting or remaining active throughout the [[year]], or all the time.
+#: {{synonyms|en|q1=archaic or obsolete|perennal}}
 #: {{ux|en|a '''perennial''' stream}}
 # {{lb|en|botany|of a plant}} Having a [[life cycle]] of more than two years.
 #: {{cot|en|annual|biennial}}
@@ -26,7 +39,7 @@
 #: {{ux|en|a '''perennial''' candidate}}
 
 ====Derived terms====
-{{der4|en
+{{col4|en
 |perennate
 |perennation
 |perennialism
@@ -48,7 +61,7 @@
 * Finnish: {{t|fi|ympärivuotinen}}
 * French: {{t+|fr|pérenne}}
 * German: {{t+|de|ganzjährig}}
-* Greek: {{t+|el|αέναος|m|sc=Grek}}
+* Greek: {{t+|el|αέναος|m}}
 * Hungarian: {{t+|hu|állandó}}
 {{trans-mid}}
 * Icelandic: {{t+|is|fjölær|m}}
@@ -68,7 +81,7 @@
 * Bulgarian: {{t+|bg|многогоди́шен}}
 * Catalan: {{t|ca|perenne}}
 * Chinese:
-*: Mandarin: {{t+|cmn|多年生|tr=duōniánshēng|sc=Hani}}
+*: Mandarin: {{t+|cmn|多年生|tr=duōniánshēng}}
 * Czech: {{t+|cs|trvalka|f}}
 * Danish: {{t|da|flerårig}}
 * Dutch: {{t+|nl|meerjarig}}
@@ -82,13 +95,13 @@
 * Interlingua: {{t|ia|perenne}}
 * Irish: {{t|ga|ilbhliantúil}}
 * Italian: {{t+|it|perenne}}
-* Japanese: {{t|ja|多年生|tr=たねんせいの, tanensei no|alt=多年生の|sc=Jpan}}
+* Japanese: {{t|ja|多年生|tr=たねんせいの, tanensei no|alt=多年生の}}
 * Kazakh: {{t|kk|көпжылдық}}
 * Manx: {{t|gv|yl-vleeantagh}}, {{t|gv|yl-vleinoil}}
 * Norwegian:
 *: Bokmål: {{t|nb|flerårig}}
 *: Nynorsk: {{t|nn|fleirårig}}
-* Persian: {{t+|fa|چندساله|tr=čand-sâle|sc=fa-Arab}}
+* Persian: {{t+|fa|چندساله|tr=čand-sâle}}
 * Polish: {{t+|pl|wieloletni|m}}
 * Portuguese: {{t+|pt|perene}}, {{t+|pt|vivaz}}
 * Russian: {{t+|ru|многоле́тний}}
@@ -102,13 +115,13 @@
 * Danish: {{t+|da|evig}}
 * Dutch: {{t+|nl|voortdurend}}, {{t+|nl|eeuwig}}
 * Finnish: {{t+|fi|jatkuva}}
-* Greek: {{t+|el|αέναος|m|sc=Grek}}, {{t+|el|αιώνιος|m|sc=Grek}}, {{t+|el|διηνεκής|m|f|sc=Grek}}
+* Greek: {{t+|el|αέναος|m}}, {{t+|el|αιώνιος|m}}, {{t+|el|διηνεκής|m|f}}
 {{trans-mid}}
 * Interlingua: {{t|ia|perenne}}
 * Italian: {{t+|it|perpetuo}}
-* Japanese: {{t+|ja|永続|tr=えいぞくする, eizoku suru|alt=永続する|sc=Jpan}}
+* Japanese: {{t+|ja|永続|tr=えいぞくする, eizoku suru|alt=永続する}}
 * Maori: {{t|mi|tautini }}
-* Persian: {{t+|fa|جاوید|tr=jâvid|sc=fa-Arab}}
+* Persian: {{t+|fa|جاوید|tr=jâvid}}
 * Portuguese: {{t+|pt|perene}}
 * Russian: {{t+|ru|постоя́нный}}, {{t+|ru|ве́чный}}
 {{trans-bottom}}
@@ -121,7 +134,7 @@
 * Finnish: {{t+|fi|ajaton}}
 * German: {{t+|de|dauerhaft}}
 {{trans-mid}}
-* Greek: {{t+|el|διηνεκής|m|f|sc=Grek}}
+* Greek: {{t+|el|διηνεκής|m|f}}
 * Italian: {{t+|it|perenne}}, {{t+|it|eterno}}
 * Polish: {{t+|pl|odwieczny|m}}
 * Portuguese: {{t+|pt|perene}}
@@ -157,10 +170,10 @@
 * Dutch: {{t+|nl|meerjarig|alt=meerjarige}} {{t+|nl|plant|f}}
 * Finnish: {{t+|fi|perenna}}, {{t|fi|[[monivuotinen]] [[kasvi]]}}
 * French: {{t+|fr|vivace|m|f}}
-* Greek: {{t+|el|πολυετές|n|sc=Grek}}
+* Greek: {{t+|el|πολυετές|n}}
 * Hungarian: {{t+|hu|évelő}}
 {{trans-mid}}
-* Mandarin: {{t+|cmn|多年生|tr=duōniánshēng|sc=Hani}}
+* Mandarin: {{t+|cmn|多年生|tr=duōniánshēng}}
 * Polish: {{t+|pl|bylina|f}}, [[roślina]] [[wieloletnia]] {{g|f}}
 * Portuguese: {{t|pt|[[planta]] [[perene]]|f}}
 * Russian: {{t+|ru|многолетнее}} {{t+|ru|расте́ние|n}}
@@ -168,9 +181,12 @@
 * Swedish: {{t+|sv|perenn}}
 {{trans-bottom}}
 
+===References===
+<references/>
+
 ===Further reading===
-* {{pedia|perennial (disambiguation)|perennial}}
 * {{pedia|perennial plant}}
+* {{pedia|perennial (disambiguation)}}
 
 ===Anagrams===
 * {{anagrams|en|a=aeeilnnpr|-prenaline}}
