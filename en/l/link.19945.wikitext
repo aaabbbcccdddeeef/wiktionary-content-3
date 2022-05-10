@@ -536,7 +536,7 @@ From {{inh|de|gmh|linc}}, from {{inh|de|goh|*link}}; compare {{cog|goh|linka||th
 * {{audio|de|De-link.ogg|Audio}}
 
 ===Adjective===
-{{de-adj|linker|linkesten}}
+{{de-adj|comp.sup:+est:+st}}
 
 # {{lb|de|only|_|attributive|_|and|_|not comparable}} [[left]]
 #: {{uxi|de|auf der linken Seite|on the left}}
@@ -546,11 +546,7 @@ From {{inh|de|gmh|linc}}, from {{inh|de|goh|*link}}; compare {{cog|goh|linka||th
 # {{lb|de|colloquial}} [[sly]], [[cunning]]
 
 ====Declension====
-'''left'''
-{{de-decl-adj-notcomp|link|pred=links}}
-
-'''untrustworthy'''
-{{de-decl-adj|link|linker|linkest}}
+{{de-adecl|comp.sup:+est:+st}}
 
 ===Further reading===
 * {{R:Duden}}
