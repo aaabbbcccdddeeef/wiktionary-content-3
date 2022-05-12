@@ -250,6 +250,9 @@ The mathematics sense was {{coin|en|William Rowan Hamilton|nocap=1|in=1846}}.
 
 ==Catalan==
 
+===Etymology===
+{{lbor|ca|la|vector}}.
+
 ===Noun===
 {{ca-noun|m}}
 
@@ -261,7 +264,7 @@ The mathematics sense was {{coin|en|William Rowan Hamilton|nocap=1|in=1846}}.
 
 ===Etymology===
 {{root|nl|ine-pro|*weǵʰ-}}
-Borrowed from {{bor|nl|la|vector}}.
+{{lbor|nl|la|vector}}.
 
 ===Pronunciation===
 * {{IPA|nl|/ˈvɛk.tɔr/}}
@@ -331,10 +334,18 @@ definitions in this area need to be added yet-->
 * {{l|la|vectīgal}}
 
 ====Descendants====
+{{top2}}
+* {{desc|ca|vector|bor=1}}
 * {{desc|nl|vector|bor=1}}
 * {{desc|en|vector|bor=1}}
+* {{desc|fr|vecteur|bor=1}}
 * {{desc|gl|vector|bor=1}}
+{{mid2}}
+* {{desc|it|vettore|bor=1}}
+* {{desc|pt|vetor|bor=1}}
+* {{desc|ro|vector|bor=1}}
 * {{desc|es|vector|bor=1}}
+{{bottom}}
 
 ===Verb===
 {{la-verb-form|vector}}
@@ -360,7 +371,7 @@ definitions in this area need to be added yet-->
 ==Romanian==
 
 ===Etymology===
-From {{bor|ro|fr|vecteur}}.
+Borrowed from {{bor|ro|fr|vecteur}}, {{bor|ro|la|vector}}.
 
 ===Noun===
 {{ro-noun|m|vectori}}
@@ -375,7 +386,7 @@ From {{bor|ro|fr|vecteur}}.
 ==Spanish==
 
 ===Etymology===
-From {{der|es|la|vector }}.
+{{lbor|es|la|vector}}.
 
 ===Noun===
 {{es-noun|m}}
