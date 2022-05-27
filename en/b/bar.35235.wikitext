@@ -1393,9 +1393,9 @@ From {{der|pl|la|barium}}.
 ----
 
 ==Portuguese==
-{{wikipedia|lang=pt}}
-{{wikipedia|Bar (estabelecimento)|lang=pt}}
-{{wikipedia|Bar (unidade)|lang=pt}}
+{{wikipedia-slim|lang=pt}}
+
+
 
 ===Pronunciation===
 {{pt-IPA|barh}}
@@ -1404,7 +1404,8 @@ From {{der|pl|la|barium}}.
 * {{hyph|pt|bar}}
 
 ===Etymology 1===
-Borrowed from {{bor|pt|en|bar}}.
+{{wikipedia-slim|Bar (estabelecimento)|lang=pt}}
+{{bor+|pt|en|bar}}.<ref name="Infopédia">{{R:pt:Infopédia}}</ref><ref name="Priberam">{{R:Priberam}}</ref>
 
 ====Noun====
 {{pt-noun|m}}
@@ -1412,12 +1413,16 @@ Borrowed from {{bor|pt|en|bar}}.
 # [[pub]]; [[#English|bar]] {{gloss|establishment that serves alcoholic beverages primarily}}
 
 ===Etymology 2===
-Originally from {{der|pt|grc|βάρος|t=weight}}.
+{{wikipedia-slim|Bar (unidade)|lang=pt}}
+Originally from {{der|pt|grc|βάρος|t=weight}}.<ref name="Infopédia"/><ref name="Priberam"/>
 
 ====Noun====
-{{pt-noun|m|s}}
+{{pt-noun|m}}
 
 # [[#English|bar]] {{gloss|unit of pressure}}
+
+===References===
+<references/>
 
 [[Category:pt:Restaurants]]
 [[Category:pt:Units of measure]]
