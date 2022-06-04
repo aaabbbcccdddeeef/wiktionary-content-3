@@ -14,20 +14,18 @@ From {{inh|en|enm|glosarie}}, from {{der|en|la|glossārium}}, from {{der|en|grc|
 
 # A list of [[term]]s in a particular domain of knowledge with their [[definition]]s.
 #: {{ux|en|At the back of the book you can find the '''glossary'''.}}
-
-====Synonyms====
-* {{l|en|clavis}}
-* {{l|en|idioticon}}
-* {{l|en|vocabulary}}
-
-====Coordinate terms====
-* {{l|en|terminology}}
+#: {{syn|en|clavis|idioticon|vocabulary}}
+#: {{cot|en|terminology}}
 
 ====Derived terms====
-* {{l|en|bilingual glossary}}
+{{col4|en
+|bilingual glossary
+}}
 
 ====Related terms====
-* {{l|en|gloss}}
+{{col4|en
+|gloss
+}}
 
 ====Translations====
 {{trans-top|list of words with their definitions}}
