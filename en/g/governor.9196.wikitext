@@ -94,7 +94,7 @@ From {{inh|en|enm|governour}}, from {{der|en|fro|gouvreneur}}, from {{der|en|la|
 * Chichewa: {{t|ny|bwanamkubwa}}
 * Chickasaw: {{t|cic|minko'}}
 * Chinese:
-*: Mandarin: {{t+|cmn|省長|sc=Hani}}, {{t+|cmn|省长|tr=shěngzhǎng|sc=Hani}} {{qualifier|esp. of a province}}, {{t+|cmn|州長|sc=Hani}}, {{t+|cmn|州长|tr=zhōuzhǎng|sc=Hani}}
+*: Mandarin: {{t+|cmn|省長}}, {{t+|cmn|省长|tr=shěngzhǎng}} {{qualifier|esp. of a province}}, {{t+|cmn|州長}}, {{t+|cmn|州长|tr=zhōuzhǎng}}
 * Coptic: {{t|cop|ⲡⲁⲅⲁⲣⲭⲟⲥ}}, {{t|cop|ⲉⲡⲁⲣⲭⲟⲥ}}
 * Czech: {{t+|cs|guvernér|m}}, {{t|cs|guvernérka|f}}
 * Danish: {{t|da|guvernør|c}}
@@ -119,10 +119,10 @@ From {{inh|en|enm|governour}}, from {{der|en|fro|gouvreneur}}, from {{der|en|la|
 * Indonesian: {{t+|id|gubernur}}
 * Irish: {{t|ga|gobharnóir|m}}
 * Italian: {{t+|it|governatore|m}}, {{t+|it|governatrice|f}}
-* Japanese: {{t|ja|知事|tr=ちじ, chiji|sc=Jpan}}
+* Japanese: {{t|ja|知事|tr=ちじ, chiji}}
 * Kazakh: {{t|kk|губернатор}}
 * Khmer: {{t+|km|អភិបាល}}, {{t+|km|ទេសាភិបាល}}
-* Korean: {{t+|ko|지사(知事)}}, {{t|ko|도지사}}
+* Korean: {{t+|ko|지사(知事)}}, {{t|ko|도지사(道知事)}}, {{t|ko|주지사(州知事)}}
 * Kurdish:
 *: Northern Kurdish: {{t+|kmr|walî}}
 {{trans-mid}}
@@ -137,22 +137,22 @@ From {{inh|en|enm|governour}}, from {{der|en|fro|gouvreneur}}, from {{der|en|la|
 * Middle English: {{t|enm|governour}}
 * Mongolian:
 *: Cyrillic: {{t+|mn|удирдагч}}, {{t+|mn|захирагч}}
-*: Uyghurjin: {{t|mn|ᠤᠳᠤᠷᠢᠳᠤᠭᠴᠢ}}, {{t|mn|ᠵᠠᠬᠢᠷᠤᠭᠴᠢ}}
+*: Mongolian: {{t|mn|ᠤᠳᠤᠷᠢᠳᠤᠭᠴᠢ}}, {{t|mn|ᠵᠠᠬᠢᠷᠤᠭᠴᠢ}}
 * Navajo: {{t|nv|naatʼáanii}}
 * Norwegian:
 *: Bokmål: {{t|nb|guvernør|m}}, {{q|on Svalbard}} {{t+|nb|sysselmann|m}}
 *: Nynorsk: {{t|nn|guvernør|m}}, {{q|on Svalbard}} {{t|nn|sysselmann|m}}
 * Ojibwe: {{t|oj|odaake-ogimaa}}
 * Pashto: {{t|ps|والي|m|tr=wālí}}, {{t+|ps|حاکم|m|tr=hãkәm, hãkem}}
-* Persian: {{t+|fa|فرماندار|tr=farmândâr|sc=fa-Arab}}, {{t+|fa|والی|tr=vâli|sc=fa-Arab}}, {{t+|fa|حاکم|tr=hâkem}}
+* Persian: {{t+|fa|فرماندار|tr=farmândâr}}, {{t+|fa|والی|tr=vâli}}, {{t+|fa|حاکم|tr=hâkem}}
 * Polish: {{t+|pl|gubernator|m}}, {{t+|pl|guwerner|m}}
 * Portuguese: {{t+|pt|governador|m}}, {{t|pt|governadora|f}}
 * Romanian: {{t+|ro|guvernator|m}}, {{t+|ro|guvernant|m}}
 * Russian: {{t+|ru|губерна́тор|m}}
 * Scottish Gaelic: {{t|gd|riaghladair}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|гувернер|m}}
-*: Roman: {{t+|sh|guverner|m}}
+*: Cyrillic: {{t|sh|гувѐрне̄р|m}}
+*: Roman: {{t+|sh|guvèrnēr|m}}
 * Slovak: {{t|sk|guvernér|m}}
 * Slovene: {{t|sl|guverner|m}}
 * Sotho: {{t|st|mmusi}}
@@ -181,18 +181,13 @@ From {{inh|en|enm|governour}}, from {{der|en|fro|gouvreneur}}, from {{der|en|la|
 * Georgian: {{t|ka|რეგულატორი}}
 * German: {{t+|de|Regler|m}}
 {{trans-mid}}
-* Japanese: {{t|ja|調整器|tr=chousei ki}}, {{t|ja|調速機|tr=chōsokuki}}
+* Japanese: {{t|ja|調整器|tr=ちょうせいき, chōseiki}}, {{t|ja|調速機|tr=ちょうそくき, chōsokuki}}
 * Portuguese: {{t|pt|regulador|m}}
 * Romanian: {{t+|ro|regulator|m}}
 * Russian: {{t+|ru|регуля́тор|m}}
 * Scottish Gaelic: {{t|gd|rianadair|m}}
 * Swedish: {{t+|sv|regulator|c}}, {{t|sv|centrifugalregulator|c}}
 * Ukrainian: {{t|uk|регуля́тор|m}}
-{{trans-bottom}}
-
-{{checktrans-top}}
-* Korean: {{t-check|ko|주지사}}
-{{trans-mid}}
 {{trans-bottom}}
 
 [[Category:English 2-syllable words]]
