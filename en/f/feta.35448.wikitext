@@ -265,18 +265,45 @@ From {{der|sh|it|fetta}}.
 
 ==Swedish==
 
-===Adjective===
+===Etymology 1===
+{{nonlemma}}
+
+====Adjective====
 {{head|sv|adjective form}}
 
 # {{sv-adj-form-abs-def+pl|fet}}
 
-===Noun===
+===Etymology 2===
+{{bor+|sv|el|φέτα}}.
+
+====Noun====
 {{sv-noun|c}}
 
 # [[#English|feta]] (cheese)
 
-====Synonyms====
+=====Declension=====
+{{sv-noun-unc-irreg-c|2=fetan}}
+
+=====Synonyms=====
 * {{l|sv|fetaost}}
+
+===Etymology 3===
+{{blend|sv|fetstil|t1=boldface|-a}}
+
+====Verb====
+{{sv-verb-reg}}
+
+# {{lb|sv|colloquial}} [[boldface]] {{gloss|set or print in boldface}}
+#:{{ux|sv|hon '''fetade''' de viktiga orden|she '''boldfaced''' the important words}}
+
+=====Conjugation=====
+{{sv-conj-wk}}
+
+=====Synonyms=====
+* {{l|sv|fetmarkera}}
+
+=====Derived terms=====
+* {{l|sv|fetning}}
 
 [[Category:sv:Cheeses]]
 
