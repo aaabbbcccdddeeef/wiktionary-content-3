@@ -110,7 +110,7 @@ Superseded non-native {{noncog|enm|papilion|t=butterfly}} borrowed from {{noncog
 * Arabic: {{tt+|ar|فَرَاشَة|f}}
 *: Algerian Arabic: {{t|arq|بوفرفطو}}, {{t|arq|بابيو}}
 *: Egyptian Arabic: {{tt|arz|ابو دقيق|m|tr=ʾabu diʾīʾ}}, {{tt|arz|فراش|m|tr=farāš}}
-*: Gulf Arabic: {{tt|afb|طرفشانة|m|tr=ṭerfešaana}}
+*: Gulf Arabic: {{tt|afb|طرفشانة|m|tr=ṭerfešāna}}
 *: Hijazi Arabic: {{tt|acw|فراشة|f|tr=farāša}}
 *: Moroccan Arabic: {{tt|ary|فراشة|f|tr=farāša}}, {{t|ary|فرططو|m|tr=farṭuṭṭu}}
 *: Tunisian Arabic: {{tt|aeb|فرططو|tr=farṭaṭṭu}}
@@ -274,7 +274,7 @@ Superseded non-native {{noncog|enm|papilion|t=butterfly}} borrowed from {{noncog
 * Kanakanabu: {{tt|xnb|ta'anna}}
 * Kannada: {{tt+|kn|ಚಿಟ್ಟೆ}}, {{tt+|kn|ಹಾತೆ}}
 * Kapampangan: {{tt|pam|talúbang}}
-* Karachay-Balkar: {{tt|krc|дибилдирик|tr=dibildirik}}, {{tt|krc|гёбелекке|tr=göbelekke}}
+* Karachay-Balkar: {{tt|krc|дибилдирик}}, {{tt|krc|гёбелекке}}
 * Karaim: {{tt|kdr|kebalak}}
 * Karakalpak: {{tt|kaa|gu‘belek}}
 * Karelian: {{tt|krl|liipukkaine}}
@@ -321,7 +321,7 @@ Superseded non-native {{noncog|enm|papilion|t=butterfly}} borrowed from {{noncog
 * Livonian: {{tt|liv|libālabā}}, {{tt|liv|liblabbiņ}}, {{tt|liv|liepālinki}}, {{tt|liv|liepālind}}
 * Lombard: {{tt|lmo|parpai|m}}
 * Low German:
-*: Dutch Low Saxon: {{tt|nds-nl|pennevoegel}} {{qualifier|Achterhoeks, Drents, Sallands, Stellingwerfs, Twents, Urkers, Veluws}}, {{tt|nds-nl|vlinder}} {{qualifier|Achterhoeks, Drents, Gronings, Sallands, Stellingwerfs, Twents, Veluws}}; {{tt|nds-nl|bottervliege}} {{qualifier|Gronings, Sallands}}, {{tt|nds-nl|bottervoegel}} {{qualifier|Gronings, Sallands, Twents}}, {{tt|nds-nl|kepelle}} {{qualifier|Twents, Veluws}}, {{tt|nds-nl|zoemervoegel}} {{qualifier|Achterhoeks, Twents}}
+*: Dutch Low Saxon: {{tt|nds-nl|pennevoegel}} {{qualifier|Achterhoeks|Drents|Sallands|Stellingwerfs|Twents|Urkers|Veluws}}, {{tt|nds-nl|vlinder}} {{qualifier|Achterhoeks|Drents|Gronings|Sallands|Stellingwerfs|Twents|Veluws}}; {{tt|nds-nl|bottervliege}} {{qualifier|Gronings|Sallands}}, {{tt|nds-nl|bottervoegel}} {{qualifier|Gronings|Sallands|Twents}}, {{tt|nds-nl|kepelle}} {{qualifier|Twents|Veluws}}, {{tt|nds-nl|zoemervoegel}} {{qualifier|Achterhoeks|Twents}}
 *: German Low German: {{tt|nds-de|Bottervagel|m}}, {{tt|nds-de|Sommervagel|m}}; {{tt|nds-de|Botterlicker|m}}, {{tt|nds-de|Fleerling|m}}; {{tt|nds-de|Sommerlott|m}}; {{tt|nds-de|Pennvogel|m}}, {{tt|nds-de|Bottervögel|m}}
 * Luba-Kasai: {{tt|lua|bulubulu}}
 * Lubuagan Kalinga: {{tt|knb|kullapoy}}
@@ -470,7 +470,7 @@ Superseded non-native {{noncog|enm|papilion|t=butterfly}} borrowed from {{noncog
 *: Roman: {{tt+|sh|lȅptīr|m}}
 * Seri: {{tt|sei|seenel}}
 * Seychellois Creole: {{tt|crs|papiyon}}
-* Sherpa: {{t|xsr|བ་ལིབ|tr=phalip}}
+* Sherpa: {{t|xsr|བ་ལིབ}}
 * Shipibo-Conibo: {{tt|shp|pempén}}
 * Shona: {{tt|sn|shavishavi}}
 * Shoshone: {{tt|shh|a'yapodoongi}}, {{tt|shh|a'ipputoonkih}} {{qualifier|Western Shoshoni}}
@@ -618,8 +618,8 @@ Superseded non-native {{noncog|enm|papilion|t=butterfly}} borrowed from {{noncog
 {{en-verb}}
 
 # {{lb|en|transitive}} To cut (food) almost entirely in half and spread the halves apart, in a shape suggesting the wings of a butterfly.
-#: '''''butterflied''' shrimp''
-#: '''''Butterfly''' the chicken before you grill it.''
+#: {{ux|en|'''butterflied''' shrimp}}
+#: {{ux|en|'''Butterfly''' the chicken before you grill it.}}
 # {{lb|en|transitive}} To cut strips of surgical tape or plasters into thin strips, and place across (a gaping wound) to close it.
 #* {{quote-book|en|year=2006|author=Paul Garber|title=Newton's Force|page=256|passage=After everyone had obeyed his commands, the lieutenant motioned for two medics that now appeared to enter the room and attend to Dr. Carter. They bandaged him up, '''butterflying''' some of the deeper gashes and gave him a couple of shots.}}
 
