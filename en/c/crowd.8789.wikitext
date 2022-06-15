@@ -84,7 +84,7 @@ From {{inh|en|enm|crouden}}, from {{inh|en|ang|crūdan}}, from {{inh|en|gem-pro|
 * Azerbaijani: {{t|az|izdiham}}
 * Basque: {{t-needed|eu}}
 * Belarusian: {{t|be|нато́ўп|m}}
-* Bulgarian: {{t+|bg|навалица|f}}, {{t+|bg|тълпа́|f}}
+* Bulgarian: {{t+|bg|нава́лица|f}}, {{t+|bg|тълпа́|f}}
 * Burmese: {{t+|my|လူစုလူဝေး}}
 * Catalan: {{t+|ca|multitud|f}}, {{t+|ca|gentada|f}}, {{t+|ca|gernació|f}}
 * Cherokee: {{t|chr|ᎤᏂᏣᏘ}}
@@ -111,8 +111,8 @@ From {{inh|en|enm|crouden}}, from {{inh|en|ang|crūdan}}, from {{inh|en|gem-pro|
 * Italian: {{t+|it|folla|f}}, {{t+|it|turba|f}}, {{t+|it|torma|f}}, {{t+|it|fiumana|f}}, {{t+|it|stuolo|m}}, {{t+|it|massa|f}}, {{t+|it|moltitudine|f}}
 * Japanese: {{t|ja|人込み|tr=ひとごみ, hitogomi}}, {{t|ja|群衆|tr=ぐんしゅう, gunshū}}, {{t+|ja|大勢|tr=ōzei}}
 * Kazakh: {{t|kk|жиын}}, {{t|kk|жұрт}}, {{t|kk|тобыр}}, {{t+|kk|топ}}
-* Khmer: {{t|km|មនុស្សកុះករ|tr=mɔnuh koh kɑɑ}}, {{t|km|មនុស្សកកកុញ|tr=mɔnuh kɑɑ kɑɑ koɲ}}, {{t|km|មហាវគ្គ|tr=mɔhaa veak}}, {{t|km|ហ្វូងមនុស្ស|tr=vooŋ mɔnuh}}, {{t+|km|ហ្វូង|tr=vooŋ, fooŋ}}
-* Korean: {{t+|ko|군중}}
+* Khmer: {{t|km|មនុស្សកុះករ|tr=mɔnuh koh kɑɑ}}, {{t|km|មនុស្សកកកុញ|tr=mɔnuh kɑɑ kɑɑ kong}}, {{t|km|មហាវគ្គ|tr=mɔhaa vĕək}}, {{t|km|ហ្វូងមនុស្ស|tr=voung mɔnuh}}, {{t+|km|ហ្វូង}}
+* Korean: {{t+|ko|군중(群衆)}}
 * Kurdish:
 *: Central Kurdish: {{t|ckb|قەلەباڵغی}}
 * Kyrgyz: {{t+|ky|жыйын}}
@@ -125,10 +125,12 @@ From {{inh|en|enm|crouden}}, from {{inh|en|ang|crūdan}}, from {{inh|en|gem-pro|
 * Maltese: {{t-needed|mt}}
 * Maori: {{t|mi|mātoru}}, {{t|mi|nuipuku}}
 * Marathi: {{t|mr|जमाव}}, {{t|mr|समुह}}, {{t|mr|गर्दी}}
-* Mongolian: {{t|mn|бөөн хүн}}
+* Mongolian:
+*: Cyrillic: {{t|mn|бөөн хүн}}
 * Nepali: {{t|ne|जमात}}, {{t|ne|भीडभाड}}
 * Norman: {{t|nrf|foule|f}}, {{t|nrf|fliotchet|m}}
-* Norwegian: {{t+|no|flokk|m}}, {{t+|no|mengde|m}}, {{t|no|folkehav|n}}, {{t|no|folkemengde}}
+* Norwegian:
+*: Bokmål: {{t+|nb|flokk|m}}, {{t+|nb|mengde|m}}, {{t|nb|folkehav|n}}, {{t|nb|folkemengde}}
 * Persian: {{t+|fa|جمعیت|tr=jam'iyyat}}, {{t+|fa|انبوه|tr=ambuh}}
 * Plautdietsch: {{t|pdt|Menj|f}}
 * Polish: {{t+|pl|tłum|m}}
@@ -137,8 +139,8 @@ From {{inh|en|enm|crouden}}, from {{inh|en|ang|crūdan}}, from {{inh|en|gem-pro|
 * Romanian: {{t+|ro|mulțime|f}}, {{t|ro|masă de oameni|f}}, {{t+|ro|gloată}}, {{t+|ro|aglomerație|f}}
 * Russian: {{t+|ru|толпа́|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|гу̑жва|f}}, {{t|sh|свјѐтина|f}}, {{t|sh|ма̀са|f}}
-*: Roman: {{t+|sh|gȗžva|f}}, {{t+|sh|svjètina|f}}, {{t+|sh|màsa|f}}
+*: Cyrillic: {{t|sh|гу̑жва|f}}, {{t|sh|свѐтина|f}}, {{t|sh|свјѐтина|f}}, {{t|sh|ма̀са|f}}
+*: Roman: {{t+|sh|gȗžva|f}}, {{t+|sh|svètina|f}}, {{t+|sh|svjètina|f}}, {{t+|sh|màsa|f}}
 * Sinhalese: {{t-needed|si}}
 * Slovak: {{t+|sk|dav|m}}
 * Slovene: {{t|sl|množica|f}}
@@ -153,7 +155,7 @@ From {{inh|en|enm|crouden}}, from {{inh|en|ang|crūdan}}, from {{inh|en|gem-pro|
 * Tibetan: {{t|bo|མི་ཚོགས}}
 * Turkish: {{t+|tr|kalabalık}}, {{t+|tr|izdiham}}
 * Turkmen: {{t|tk|märeke}}
-* Ukrainian: {{t|uk|на́товп|m}}, {{t|uk|гурт}}
+* Ukrainian: {{t|uk|на́товп|m}}, {{t|uk|гурт|m}}
 * Urdu: {{t+|ur|بھیڑ|f|tr=bhīṛ}}
 * Uzbek: {{t+|uz|olomon}}
 * Vietnamese: {{t+|vi|đám đông}}
@@ -181,7 +183,8 @@ From {{inh|en|enm|crouden}}, from {{inh|en|ang|crūdan}}, from {{inh|en|gem-pro|
 * Latin: {{t+|la|multitūdō|f}}
 * Japanese: {{t|ja|積み重ね|tr=つみかさね, tsumikasane}}
 * Korean: {{t+|ko|무더기}}
-* Norwegian: {{t+|no|haug|m}}
+* Norwegian:
+*: Bokmål: {{t+|nb|haug|m}}
 * Portuguese: {{t+|pt|pilha|f}}, {{t+|pt|monte|m}}
 * Romanian: {{t+|ro|grămadă|f}}, {{t+|ro|mulțime|f}}, {{t+|ro|maldăr|n}}
 * Russian: {{t+|ru|ку́ча|f}}
@@ -209,8 +212,8 @@ From {{inh|en|enm|crouden}}, from {{inh|en|ang|crūdan}}, from {{inh|en|gem-pro|
 * Russian: {{t+|ru|толпа́|f}}, {{t+|ru|сброд|m}}
 * Scottish Gaelic: {{t|gd|gràisg|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|свјѐтина|f}}
-*: Roman: {{t+|sh|svjètina|f}}
+*: Cyrillic: {{t|sh|свѐтина|f}}, {{t|sh|свјѐтина|f}}
+*: Roman: {{t+|sh|svètina|f}}, {{t+|sh|svjètina|f}}
 * Swedish: {{t+|sv|massa|c}}, {{t+|sv|folkmassa|c}}
 * Turkish: {{t+|tr|avam}}
 * Welsh: {{t|cy|gwrengod|p}}
