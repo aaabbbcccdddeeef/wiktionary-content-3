@@ -12,7 +12,7 @@
 * {{homophones|en|baa|bah}} {{qualifier|in some pronunciations}}
 
 ===Etymology 1===
-From {{inh|en|enm|barre}}, from {{der|en|fro|barre|t=beam, bar, gate, barrier}}, from {{der|en|VL.|*barra}}, of uncertain origin. {{doublet|en|barre}}.
+From {{inh-lite|en|enm|barre}}, from {{der-lite|en|fro|barre|t=beam, bar, gate, barrier}}, from {{der|en|VL.|*barra}}, of uncertain origin. {{doublet|en|barre}}.
 
 ====Noun====
 {{en-noun|~}}
@@ -106,7 +106,7 @@ From {{inh|en|enm|barre}}, from {{der|en|fro|barre|t=beam, bar, gate, barrier}},
 * {{l-lite|en|barfly}}
 * {{l-lite|en|barful}}
 * {{l-lite|en|bar graph}}
-* {{l|en|Bar Hill}}
+* {{l-lite|en|Bar Hill}}
 * {{l-lite|en|bar iron}}
 * {{l-lite|en|barkeep}}
 * {{l-lite|en|barkeeper}}
@@ -263,12 +263,12 @@ From {{inh|en|enm|barre}}, from {{der|en|fro|barre|t=beam, bar, gate, barrier}},
 * {{R:Heraldry 1862}}
 
 ===Etymology 2===
-From {{inh|en|enm|barren}}, from {{der|en|fro|barrer}},<ref>{{R:MED Online|barren|v|MED3708|31 October 2019|date=2018}}</ref> from {{der|es|ML.|barrare||to bar}}, from the noun. Cognate {{cog|oc|barrar}}, {{cog|es|barrar}}, {{cog|pt|barrar}}.
+From {{inh-lite|en|enm|barren}}, from {{der-lite|en|fro|barrer}},<ref>{{R:MED Online|barren|v|MED3708|31 October 2019|date=2018}}</ref> from {{der|en|ML.|barrare||to bar}}, from the noun. Cognate to {{cog|oc|barrar}}, {{cog|es|barrar}}, {{cog|pt|barrar}}.
 
 Preposition properly imperative of the verb. Compare {{m|en|barring}}.
 
 ====Verb====
-{{en-verb}}
+{{head-lite|en|verbs|third-person singular simple present|bars|present participle|barring|simple past and past participle|barred|langname=English}}
 
 # {{lb|en|transitive}} To [[obstruct]] the [[passage]] of (someone or something).
 #: {{ux-lite|en|Our way was '''barred''' by a huge rockfall.}}
@@ -297,7 +297,7 @@ Preposition properly imperative of the verb. Compare {{m|en|barring}}.
 {{see translation subpage|Verb}}
 
 ====Preposition====
-{{en-prep}}
+{{head-lite|en|prepositions|langname=English}}
 
 # [[except|Except]], [[other than]], [[besides]].
 #: {{ux-lite|en|He invited everyone to his wedding '''bar''' his ex-wife.}}
@@ -326,7 +326,7 @@ Borrowed from {{bor|en|grc|βάρος|t=weight}}, coined circa 1900.
 {{wikipedia|Bar (unit)}}
 
 ====Noun====
-{{en-noun}}
+{{head-lite|en|nouns|plural|bars|cat2=countable nouns|langname=English}}
 
 # A non-[[SI]] [[unit]] of [[pressure]] equal to 100,000 [[pascal]]s, approximately equal to atmospheric pressure at sea level.
 
@@ -377,7 +377,8 @@ Borrowed from {{bor|en|grc|βάρος|t=weight}}, coined circa 1900.
 ==Afar==
 
 ===Pronunciation===
-* {{aa-IPA|bár}}
+* {{IPA-lite|aa|/ˈbʌɾ/}}
+* Hyphenation: {{lang-lite|aa|bar}}
 
 ===Noun===
 {{aa-noun|bár|g=m|pl=baritté|gpl=f}}
@@ -403,13 +404,13 @@ Borrowed from {{bor|en|grc|βάρος|t=weight}}, coined circa 1900.
 ==Afrikaans==
 
 ===Etymology===
-From {{inh|af|nl|bar}}.
+From {{inh-lite|af|nl|bar}}.
 
 ===Pronunciation===
 * {{IPA-lite|af|[bɑɾ]}}
 
 ===Adjective===
-{{af-adj|barre}}
+{{head-lite|af|adjectives|[[attributive]]|barre|[[Appendix:Glossary#comparative|comparative]]|barder|[[Appendix:Glossary#superlative|superlative]]|barste|langname=Afrikaans}}
 
 # [[barren]]
 
@@ -429,7 +430,7 @@ Alternatively from {{der|sq|ine-pro|*bʰars-|t=spike, prickle}}, {{m|ine-pro|*b�
 * {{IPA-lite|sq|/baɾ/}}
 
 ====Noun====
-{{sq-noun|m|barëra|bari|barërat}}
+{{head-lite|sq|nouns|g=m|indefinite plural|barëra|definite singular|bari|definite plural|barërat|langname=Albanian}}
 
 # [[grass]]
 # {{lb|sq|figurative}} [[tasteless]] food
@@ -440,7 +441,7 @@ Alternatively from {{der|sq|ine-pro|*bʰars-|t=spike, prickle}}, {{m|ine-pro|*b�
 ===Etymology 2===
 
 ====Noun====
-{{sq-noun|m|barna|bari|barnat}}
+{{head-lite|sq|nouns|g=m|indefinite plural|barna|definite singular|bari|definite plural|barnat|langname=Albanian}}
 
 # [[medicine]], [[medication]], medicinal plant
 # {{lb|sq|figurative|colloquial}} cure, palliative, solution
@@ -450,15 +451,15 @@ Alternatively from {{der|sq|ine-pro|*bʰars-|t=spike, prickle}}, {{m|ine-pro|*b�
 {{sq-noun-m|na}}
 
 =====Derived terms=====
-* {{l|sq|barna}}
-* {{l|sq|barnatore}}
-* {{l|sq|barnatar}}
-* {{l|sq|barnashitës}}
-* {{l|sq|barni}}
-* {{l|sq|barngrënës}}
-* {{l|sq|barishte}}
-* {{l|sq|barishtor}}
-* {{l|sq|barishtak}}
+* {{l-lite|sq|barna}}
+* {{l-lite|sq|barnatore}}
+* {{l-lite|sq|barnatar}}
+* {{l-lite|sq|barnashitës}}
+* {{l-lite|sq|barni}}
+* {{l-lite|sq|barngrënës}}
+* {{l-lite|sq|barishte}}
+* {{l-lite|sq|barishtor}}
+* {{l-lite|sq|barishtak}}
 
 ===References===
 <references/>
@@ -474,7 +475,7 @@ Alternatively from {{der|sq|ine-pro|*bʰars-|t=spike, prickle}}, {{m|ine-pro|*b�
 From {{bor|az|fa|بار}}.
 
 ====Noun====
-{{az-noun}}
+{{head-lite|az|nouns|definite accusative|barı|plural|barlar|langname=Azerbaijani}}
 
 # [[fruit]]
 #: {{syn|az|meyvə}}
@@ -486,15 +487,15 @@ From {{bor|az|fa|بار}}.
 #: {{syn|az|yük}}
 
 ===Etymology 2===
-Ultimately from {{der|az|en|bar}}.
+Ultimately from {{der-lite|az|en|bar}}.
 
 ====Noun====
-{{az-head-noun|a|r}}
+{{head-lite|az|nouns|definite accusative|barı|plural|barlar|langname=Azerbaijani}}
 
-# {{l|en|bar}} {{gl|a business selling alcoholic drinks}} [[Category:az:Restaurants]]
+# {{l-lite|en|bar}} {{gl|a business selling alcoholic drinks}} [[Category:az:Restaurants]]
 
 ===Etymology 3===
-{{intnat|az}}; ultimately from {{der|az|fr|bar}}, from {{der|az|grc|βάρος}}.
+{{intnat|az}}; ultimately from {{der-lite|az|fr|bar}}, from {{der|az|grc|βάρος}}.
 
 ====Noun====
 {{head-lite|az|nouns|langname=Azerbaijani}}
@@ -515,7 +516,7 @@ Ultimately from {{der|az|en|bar}}.
 From {{bor|ca|fr|barre}}
 
 ===Noun===
-{{ca-noun|m}}
+{{head-lite|ca|nouns|g=m|plural|bars|langname=Catalan}}
 
 # [[#English|bar]] {{gloss|establishment}}
 # [[#English|bar]] {{gloss|unit of measure}}
@@ -528,16 +529,16 @@ From {{bor|ca|fr|barre}}
 * {{alter|cim|biar||Luserna}}
 
 ===Etymology===
-From {{inh|cim|gmh|wir}}, from {{inh|cim|goh|wir}}, from {{inh|cim|gmw-pro|*wiʀ}}, from {{inh|cim|gem-pro|*wīz}}.
+From {{inh-lite|cim|gmh|wir}}, from {{inh-lite|cim|goh|wir}}, from {{inh|cim|gmw-pro|*wiʀ}}, from {{inh|cim|gem-pro|*wīz}}.
 
 ===Pronoun===
 {{head-lite|cim|pronouns|cat2=personal pronouns|langname=Cimbrian}} <!--/bar/-->
 
 # {{lb|cim|7}} [[we]]
 #: {{syn|cim|bandare}}
-#: {{uxi|cim|'''Bar''' zeinan bèllase.|'''We''' are Italians.}}
-#: {{uxi|cim|'''Bar''' zeinda.|'''We''' are here.}}
-#: {{uxi|cim|'''Bar''' habanze galummet.|'''We''' took them.}}
+#: {{ux-lite|inline=1|cim|'''Bar''' zeinan bèllase.|'''We''' are Italians.}}
+#: {{ux-lite|inline=1|cim|'''Bar''' zeinda.|'''We''' are here.}}
+#: {{ux-lite|inline=1|cim|'''Bar''' habanze galummet.|'''We''' took them.}}
 
 ====Inflection====
 {{cim-decl-personal pronouns}}
