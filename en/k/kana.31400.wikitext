@@ -183,7 +183,7 @@ From Proto-Central-Pacific ''*kani'', from {{inh|fj|poz-oce-pro|*kani}}, from {{
 ==Finnish==
 
 ===Pronunciation===
-{{fi-pronunciation|a=fi-kana.ogg}}
+{{fi-p|a=fi-kana.ogg}}
 
 ===Etymology 1===
 {{etymid|fi|chicken}}
@@ -193,13 +193,15 @@ From {{inh|fi|fiu-fin-pro|*kana}}, borrowed from {{der|fi|gem-pro|*hanô|t=roost
 ====Noun====
 {{fi-noun}}
 
-# [[chicken]] (domestic fowl of species ''[[Gallus gallus]]'', {{taxlink|Gallus domesticus|species}})
-# [[hen]] (female chicken)
-# chicken (meat from this bird eaten as food)
-#: {{syn|fi|broileri}}
-# {{lb|fi|taxonomy}} [[gallinaceous]] (when used as modifier in some compound terms)
+# [[chicken]], domestic fowl of species ''[[Gallus gallus]]'', {{taxlink|Gallus domesticus|species}}
+#: {{syn|fi|kaakattaja|munija|q3=collective|siipikarja}}
+## [[hen]] {{gl|female chicken}}
+## chicken {{gl|meat from this bird eaten as food}}
+#: {{syn|fi|kananliha}}
+# {{lb|fi|taxonomy|in compounds}} [[gallinaceous]]
 #: {{uxi|fi|'''kana'''lintu|'''gallinaceous''' bird}}
-# {{lb|fi|derogatory}} An unintelligent, talkative woman.
+# {{lb|fi|derogatory}} [[chicken]] {{gl|unintelligent, talkative woman}}
+#: {{syn|fi|[[kanamainen]] [[nainen]]
 # {{lb|fi|archaic}} [[woman]], [[sweetheart]]
 #* {{quote-book|fi
 |year=1835|author=Elias Lönnrot
@@ -207,13 +209,13 @@ From {{inh|fi|fiu-fin-pro|*kana}}, borrowed from {{der|fi|gem-pro|*hanô|t=roost
 |page=
 |passage=Sanoi Pohjolan emäntä, itse lausui, noin nimesi:/ Kummallenp' on mielit mennä, kun tulevat tahtomahan/ ikuiseksi ystäväksi, kainaloiseksi '''kanaksi'''?
 |translation=Said the mistress of Pohjola, stated herself, thus worded:/ To which one do you want to go, when they come to woo you/ to be their eternal friend, a '''chicken''' under their arm?}}
-#: {{syn|fi|vaimo|q1=archaic|nainen}}
-
-=====Declension=====
-{{fi-decl-kala|kan|||a}}
+#: {{syn|fi|kulta|rakastajatar|vaimo|q1=archaic|nainen}}
 
 =====Usage notes=====
 The word '''''kana''''' usually refers to a mature bird. The Finnish translation for "chicken" in the sense "young hen" is {{m|fi|kananpoika}} or {{m|fi|broileri}}.
+
+=====Declension=====
+{{fi-decl-kala|kan|||a}}
 
 =====Derived terms=====
 {{der4|fi
@@ -307,12 +309,12 @@ The word '''''kana''''' usually refers to a mature bird. The Finnish translation
 
 ===Etymology 2===
 {{etymid|fi|syllabary}}
-Borrowed from {{bor|fi|ja|-}} {{ja-r|仮名|かな}}.
+{{bor+|fi|ja|-}} {{ja-r|仮名|かな}}.
 
 ====Noun====
 {{fi-noun}}
 
-# [[#English|kana]] (Japanese syllabary)
+# [[#English|kana]] {{gl|Japanese syllabary}}
 
 =====Declension=====
 {{fi-decl-kala|kan|||a}}
