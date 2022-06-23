@@ -2,10 +2,10 @@
 ==English==
 
 ===Alternative forms===
-* {{alter|en|quadrat}} {{q|obsolete}}
+* {{alter|en|quadrat||obsolete}}
 
 ===Etymology===
-From {{inh|en|enm|quadrat}}, from {{der|en|fro|quadrat||a square}}, from {{der|en|la|quadrātus||square}}, past participle of {{m|la|quadrō||to make four-cornered, square, put in order, intransitive be square}}, from {{m|la|quadra||a square}}, later {{m|la|quadrus||square}}, from {{m|la|quattuor||four}}.
+From {{inh|en|enm|quadrat}}, from {{der|en|fro|quadrat|t=a square}}, from {{der|en|la|quadrātus|t=square}}, past participle of {{m|la|quadrō|t=to make four-cornered, square, put in order, intransitive be square}}, from {{m|la|quadra|t=a square}}, later {{m|la|quadrus|t=square}}, from {{m|la|quattuor|t=four}}.
 
 ===Pronunciation===
 * {{q|adjective|noun}}
@@ -35,9 +35,11 @@ From {{inh|en|enm|quadrat}}, from {{der|en|fro|quadrat||a square}}, from {{der|e
 #*: a generical description '''quadrate''' to both
 
 ====Related terms====
-* {{l|en|quadratic}}
-* {{l|en|quadration}}
-* {{l|en|quadrature}}
+{{col3|en
+|quadratic
+|quadration
+|quadrature
+}}
 
 ===Noun===
 {{en-noun}}
@@ -79,17 +81,20 @@ From {{inh|en|enm|quadrat}}, from {{der|en|fro|quadrat||a square}}, from {{der|e
 
 ==Italian==
 
+===Pronunciation===
+{{it-pr|quadràte}}
+
 ===Adjective===
 {{head|it|adjective form}}
 
-# {{feminine plural of|it|quadrato}}
+# {{adj form of|it|quadrato||f|p}}
 
 ----
 
 ==Latin==
 
 ===Etymology===
-From {{m|la|quadrō||make square}}, from {{m|la|quadrus||square, four-sided}}, from {{m|la|quattuor||four}}.
+From {{m|la|quadrō|t=make square}}, from {{m|la|quadrus|t=square, four-sided}}, from {{m|la|quattuor|t=four}}.
 
 ===Pronunciation===
 * {{la-IPA|quadrātē}}
@@ -100,15 +105,14 @@ From {{m|la|quadrō||make square}}, from {{m|la|quadrus||square, four-sided}}, f
 # [[fourfold]], [[four]] [[time]]s
 
 ====Related terms====
-{{top2}}
-* {{l|la|quadrātārius}}
-* {{l|la|quadrātiō}}
-* {{l|la|quadrātor}}
-{{mid2}}
-* {{l|la|quadrātus}}
-* {{l|la|quadrō}}
-* {{l|la|quadrus}}
-{{bottom}}
+{{col3|la
+|quadrātārius
+|quadrātiō
+|quadrātor
+|quadrātus
+|quadrō
+|quadrus
+}}
 
 ===References===
 * {{R:L&S}}
