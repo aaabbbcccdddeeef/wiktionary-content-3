@@ -68,7 +68,7 @@ Cognate with {{cog|sco|ain||own}}, {{cog|stq|oain||own}}, {{cog|nl|-}}, {{cog|de
 * Finnish: {{t+|fi|oma}}
 * French: {{qualifier|used before the noun}} {{t+|fr|propre|m|f}}
 * Georgian: {{t|ka|საკუთარი|sc=Geor}}
-* German: {{qualifier|used before the noun; declined according to gender and case}} {{t+|de|eigen}}
+* German: {{qualifier|used before the noun|declined according to gender and case}} {{t+|de|eigen}}
 * Gothic: {{t|got|𐍃𐍅𐌴𐍃}}
 * Greek:
 *: Ancient: {{t|grc|ἴδιος}}
@@ -82,7 +82,7 @@ Cognate with {{cog|sco|ain||own}}, {{cog|stq|oain||own}}, {{cog|nl|-}}, {{cog|de
 * Italian: {{qualifier|used before the noun}} {{t+|it|proprio}}
 * Japanese: {{t+|ja|自身|tr=じしんの, jishin no|alt=自身の|sc=Jpan}}
 * Khmer: {{t+|km|ឯង}}, {{t|km|ខ្លួនឯង}}
-* Korean: {{t+|ko|자기|tr=jagi-ui|alt=자기의}}
+* Korean: {{t+|ko|자기|alt=자기-의}}
 * Latin: {{t+|la|proprius}}
 * Latvian: {{t|lv|savs}}
 * Macedonian: {{t|mk|свој|sc=Cyrl}}, {{t|mk|сопствен|sc=Cyrl}}
@@ -118,12 +118,12 @@ A {{back-formation|en|owner|nocap=1}}, {{m|en|owning}} and {{m|en|own|id=belongi
 {{en-verb}}
 
 # {{lb|en|transitive}} To have [[rightful]] [[possession]] of ([[property]], [[goods]] or [[capital]]); to have [[legal]] [[title]] to; to acquire a [[property]] or [[asset]].
-#: ''I '''own''' this car.''
+#: {{ux|en|I '''own''' this car.}}
 # {{lb|en|transitive}} To have recognized political sovereignty over a place, territory, as distinct from the ordinary connotation of property ownership.
 #: {{ux|en|The United States '''owns''' Point Roberts by the terms of the Treaty of Oregon.}}
 # {{lb|en|transitive}} To defeat or embarrass; to overwhelm.
-#: ''I will '''own''' my enemies.''
-#: ''If he wins, he will '''own''' you.''
+#: {{ux|en|I will '''own''' my enemies.}}
+#: {{ux|en|If he wins, he will '''own''' you.}}
 # {{lb|en|transitive}} To virtually or figuratively [[enslave]].
 # {{lb|en|online gaming|slang}} To defeat, dominate, or be above, also spelled {{m|en|pwn}}.
 # {{lb|en|transitive|computing|slang}} To illicitly obtain [[superuser]] or [[root]] access to a computer system, thereby having access to all of the user files on that system; [[pwn]].
