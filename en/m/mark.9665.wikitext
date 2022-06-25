@@ -155,10 +155,10 @@ Cognate with {{cog|nl|mark}}, {{m|nl|merk||mark, brand}}, {{cog|de|Mark||mark; b
 =====Translations=====
 {{trans-top|indication for reference or measurement}}
 * Armenian: {{t+|hy|նշան}}
-* Bulgarian: {{t+|bg|знак|m}}, {{t+|bg|отметка|f}}
+* Bulgarian: {{t+|bg|знак|m}}, {{t+|bg|отме́тка|f}}
 * Catalan: {{t+|ca|marca|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|標記|sc=Hani}}, {{t+|cmn|标记|tr=biāojì|sc=Hani}}
+*: Mandarin: {{t+|cmn|標記}}, {{t+|cmn|标记|tr=biāojì}}
 * Czech: {{t+|cs|značka}}
 * Dutch: {{t+|nl|markering|f}}, {{t+|nl|aanduiding|f}}, {{t+|nl|teken|n}}
 * Finnish: {{t+|fi|merkki}}
@@ -168,9 +168,9 @@ Cognate with {{cog|nl|mark}}, {{m|nl|merk||mark, brand}}, {{cog|de|Mark||mark; b
 * German: {{t+|de|Zeichen|n}}
 * Hebrew: {{t+|he|סימן|m}}
 * Italian: {{t+|it|segno|m}}, {{t+|it|tacca|f}}
-* Japanese: {{t+|ja|標識|tr=ひょうしき, hyōshiki|sc=Jpan}}, {{t|ja|マーク|tr=māku|sc=Jpan}}
+* Japanese: {{t+|ja|標識|tr=ひょうしき, hyōshiki}}, {{t|ja|マーク|tr=māku}}
 {{trans-mid}}
-* Korean: {{t+|ko|마크}}, {{t|ko|표식}}
+* Korean: {{t+|ko|마크}}, {{t|ko|표식(標識)}}
 * Malay: {{t+|ms|tanda}}
 * Maori: {{t|mi|matohu }}
 * Norman: {{t|nrf|mèrque|m}}
@@ -193,28 +193,33 @@ Cognate with {{cog|nl|mark}}, {{m|nl|merk||mark, brand}}, {{cog|de|Mark||mark; b
 * Albanian: {{t+|sq|notë|f}}
 * Arabic: {{t|ar|دَرَجَة|f}}
 * Armenian: {{t+|hy|թվանշան}}, {{t+|hy|գնահատական}}
-* Belarusian: {{t+|be|ацэ́нка|f}}
+* Belarusian: {{t+|be|ацэ́нка|f}}, {{t|be|адзна́ка|f}}, {{t|be|бал|m}}
 * Bulgarian: {{t+|bg|оце́нка|f}}, {{t+|bg|беле́жка|f}}
 * Catalan: {{t+|ca|nota|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|成績|sc=Hani}}, {{t+|cmn|成绩|tr=chéngjì|sc=Hani}}
+*: Mandarin: {{t+|cmn|成績}}, {{t+|cmn|成绩|tr=chéngjì}}
 * Czech: {{t+|cs|známka}}
-* Dutch: {{t+|nl|punt|n}}, {{t+|nl|score|f}}
+* Dutch: {{t+|nl|cijfer|n}}, {{t+|nl|punt|n}}, {{t+|nl|score|f}}
 * Esperanto: {{t+|eo|noto}}
+* Estonian: {{t|et|hinne}}
 * Finnish: {{t+|fi|arvosana}}, {{t+|fi|numero}} {{qualifier|colloquial}}
 * French: {{t+|fr|note|f}}
 * German: {{t+|de|Note|f}}, {{t+|de|Zensur|f}}
-* Hebrew: {{t+|he|ציון|m}}
+* Hebrew: {{t+|he|צִיּוּן|m|tr=tsiyún}}
 * Hindi: {{t+|hi|अंक|m}}
 * Hungarian: {{t+|hu|jegy}}, {{t+|hu|osztályzat}}
 * Irish: {{t+|ga|marc|m}}, {{t|ga|grád|m}}
 * Italian: {{t+|it|voto|m}}
 {{trans-mid}}
-* Japanese: {{t+|ja|成績|tr=せいせき, seiseki|sc=Jpan}}
-* Korean: {{t+|ko|성적}}
+* Japanese: {{t+|ja|成績|tr=せいせき, seiseki}}
+* Kazakh: {{t+|kk|баға}}
+* Korean: {{t+|ko|성적(成績)}}
+* Latvian: {{t|lv|atzīme|f}}
+* Lithuanian: {{t+|lt|pažymys|m}}
 * Malay: {{t|ms|markah}}
 * Maori: {{t|mi|māka}}
-* Norwegian: {{t+|no|karakter}}
+* Norwegian:
+*: Bokmål: {{t+|nb|karakter|m}}
 * Polish: {{t+|pl|ocena|f}}
 * Portuguese: {{t+|pt|nota|f}}
 * Romanian: {{t+|ro|notă|f}}
@@ -222,7 +227,9 @@ Cognate with {{cog|nl|mark}}, {{m|nl|merk||mark, brand}}, {{cog|de|Mark||mark; b
 * Slovak: {{t|sk|známka|f}}
 * Spanish: {{t+|es|nota|f}}, {{t+|es|calificación|f}}
 * Swahili: {{t+|sw|maki}}
-* Ukrainian: {{t+|uk|оці́нка|f}}, {{t+|uk|бал}}
+* Swedish: {{t+|sv|betyg|n}}
+* Ukrainian: {{t+|uk|оці́нка|f}}, {{t|uk|відмі́тка|f}}, {{t+|uk|бал|m}}
+* Uzbek: {{t+|uz|baho}}
 * Uyghur: {{t|ug|نەتىجە}}
 * Vietnamese: {{t+|vi|điểm}}
 * Volapük: {{t+|vo|penet}}, {{qualifier|good}} {{t|vo|beopenet}}, {{qualifier|bad}} {{t|vo|mipenet}}
@@ -230,7 +237,7 @@ Cognate with {{cog|nl|mark}}, {{m|nl|merk||mark, brand}}, {{cog|de|Mark||mark; b
 
 {{trans-top|sporting score}}
 * Armenian: {{t+|hy|միավոր}}
-* Bulgarian: {{t+|bg|резултат|m}}
+* Bulgarian: {{t+|bg|резулта́т|m}}
 * Dutch: {{t+|nl|punt|n}}, {{t+|nl|score|f}}
 * French: {{t+|fr|score|m}}
 * Italian: {{t+|it|punteggio|m}}
@@ -238,7 +245,7 @@ Cognate with {{cog|nl|mark}}, {{m|nl|merk||mark, brand}}, {{cog|de|Mark||mark; b
 * Portuguese: {{t+|pt|pontuação|f}}
 {{trans-mid}}
 * Romanian: {{t+|ro|scor|n}}
-* Russian: {{t+|ru|счёт|m}}
+* Russian: {{t+|ru|счёт|m}}, {{t+|ru|результа́т|m}}
 * Spanish: {{t+|es|punto|m}}
 * Swahili: {{t+|sw|maki}}
 * Ukrainian: {{t|uk|раху́нок}}
@@ -249,7 +256,7 @@ Cognate with {{cog|nl|mark}}, {{m|nl|merk||mark, brand}}, {{cog|de|Mark||mark; b
 * Ainu: {{t|ain|ナイェ|tr=naye}}
 * Armenian: {{t-needed|hy}}
 * Basque: {{t-needed|eu}}
-* Bulgarian: {{t+|bg|петно|n}}, {{t+|bg|белег|m}}
+* Bulgarian: {{t+|bg|петно́|n}}, {{t+|bg|бе́лег|m}}
 * Catalan: {{t+|ca|marca|f}}
 * Chinese:
 *: Mandarin: {{t-needed|cmn}}
@@ -261,9 +268,10 @@ Cognate with {{cog|nl|mark}}, {{m|nl|merk||mark, brand}}, {{cog|de|Mark||mark; b
 * Georgian: {{t-needed|ka}}
 * Italian: {{t+|it|macchia|f}}
 {{trans-mid}}
-* Khmer: {{t+|km|រខិត|tr=rɔkʰət|sc=Khmr}}
+* Khmer: {{t+|km|រខិត}}
 * Mongolian: {{t-needed|mn}}
-* Norwegian: {{t+|no|flekk|m}}
+* Norwegian:
+*: Bokmål: {{t+|nb|flekk|m}}
 * Portuguese: {{t+|pt|mancha|f}}, {{t+|pt|marca|f}}
 * Romanian: {{t+|ro|urmă|f}}, {{t+|ro|pată|f}}
 * Russian: {{t+|ru|пятно́|n}}, {{t+|ru|след|m}}, {{t+|ru|отме́тина|f}}
@@ -271,7 +279,7 @@ Cognate with {{cog|nl|mark}}, {{m|nl|merk||mark, brand}}, {{cog|de|Mark||mark; b
 * Swahili: {{t+|sw|maki}}, {{t+|sw|alama}}
 * Tagalog: {{t|tl|gurlis}}, {{t|tl|alaal}}, {{t|tl|marka}}
 * Thai: {{t+|th|เครื่องหมาย}}
-* Ukrainian: {{t|uk|мі́тка}}, {{t|uk|по́значка}}
+* Ukrainian: {{t|uk|мі́тка|f}}, {{t|uk|по́значка|f}}
 * Uyghur: {{t|ug|ئىز}}
 * Vietnamese: {{t-needed|vi}}
 {{trans-bottom}}
