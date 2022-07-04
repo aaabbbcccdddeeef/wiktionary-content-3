@@ -5,6 +5,7 @@
 {{en-noun|head=[[higher-order]] [[function]]}}
 
 # {{lb|en|computer science}} A [[function]] that takes one or more functions as an input, and returns a function as a result.
+#: {{syn|en|HOF}}
 #* {{quote-book|en|year=2005|author=Mark Jason Dominus|title=Higher-Order Perl: Transforming Programs with Programs|publisher=Elsevier|isbn=9780080478340|page=325|pageurl=https://books.google.com/books?id=4_q8JJWNaTsC&pg=PA325&dq=%22higher-order+function%22&hl=&cd=2&source=gbs_api#v=onepage&q=%22higher-order%20function%22&f=false|text=A '''higher-order function''' is a function that operates on other functions instead of on data values. Some of these take data arguments and manufacture functions to order; others, like the <code>imap()</code> function of Chapter 4, transform one function into another one.}}
 
 ====Translations====
