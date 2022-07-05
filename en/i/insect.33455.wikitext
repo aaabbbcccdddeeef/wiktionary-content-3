@@ -51,7 +51,7 @@ C=[[abdomen]]<br>
 
 ===Etymology===
 {{root|en|ine-pro|*sek-}}
-From {{bor|en|frm|insecte}}, from {{der|en|la|īnsectum||with a notched or divided body, cut up}}, from perfect passive participle of {{m|la|īnsecō||I cut into, I cut up}}, from {{m|la|in-}} + {{m|la|secō||I cut}}, from the notion that the insect's body is "cut into" three sections. Calque of {{noncog|grc|ἔντομον||insect}}, from {{m|grc|ἔντομος||cut into pieces}}.
+From {{bor|en|frm|insecte}}, from {{der|en|la|īnsectum||with a notched or divided body, cut up}}, from perfect passive participle of {{m|la|īnsecō||I cut into, I cut up}}, from {{m|la|in-}} + {{m|la|secō||I cut}}, from the notion that the insect's body is "cut into" three sections ([[head]], [[thorax]], [[abdomen]]). {{cal|en|grc|ἔντομον||insect|nocat=1}}, from {{m|grc|ἔντομος||cut into pieces}}.
 
 ===Pronunciation===
 * {{IPA|en|/ˈɪnsɛkt/}}
@@ -76,16 +76,15 @@ From {{bor|en|frm|insecte}}, from {{der|en|la|īnsectum||with a notched or divid
 * {{l|en|bug}} {{q|colloquial}}
 
 ====Derived terms====
-* {{l|en|insectageddon}}
-* {{l|en|insecticidal}}
-* {{l|en|insecticide}}
-* {{l|en|insectiform}}
-* {{l|en|insectile}}
-* {{l|en|insectivore}}
-* {{l|en|insectivorous}}
-
-
-{{-}}
+{{der3|en
+|insectageddon
+|insecticidal
+|insecticide
+|insectiform
+|insectile
+|insectivore
+|insectivorous
+}}
 
 ====Translations====
 {{trans-top|arthropod of class Insecta}}
