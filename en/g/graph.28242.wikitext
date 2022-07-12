@@ -25,10 +25,10 @@ Shortening of {{m|en|[[graphic]] [[formula]]}}. From 1878; verb from 1889.<ref>{
 |magazine=[[w:American Scientist|American Scientist]]
 |url=http://www.americanscientist.org/issues/pub/pixels-or-perish
 |passage=Drawings and pictures are more than mere ornaments in scientific discourse. Blackboard sketches, geological maps, diagrams of molecular structure, astronomical photographs, MRI images, the many varieties of statistical charts and '''graphs''': These pictorial devices are indispensable tools for presenting evidence, for explaining a theory, for telling a story.}}
-# {{lb|en|mathematics}} A set of points constituting a graphical representation of a [[real function]]; {{lb|en|formally}} a set of [[tuple]]s <math>(x_1, x_2, \ldots, x_m, y)\in\R^{m+1}</math>, where <math>y=f(x_1, x_2, \ldots, x_m)</math> for a given function <math>f: \R^m\rightarrow\R</math>. See also {{pedialite|Graph of a function}} [[Category:en:Curves]] [[Category:en:Functions]]
+# {{lb|en|mathematics}} A set of points constituting a graphical representation of a [[real function]]; {{lb|en|formally}} a set of [[tuple]]s <math>(x_1, x_2, \ldots, x_m, y)\in\R^{m+1}</math>, where <math>y=f(x_1, x_2, \ldots, x_m)</math> for a given function <math>f: \R^m\rightarrow\R</math>. See also {{pedia|Graph of a function}} [[Category:en:Curves]] [[Category:en:Functions]]
 #* '''1969''' [MIT Press], Thomas Walsh, Randell Magee (translators), I. M. Gelfand, E. G. Glagoleva, E. E. Shnol, ''Functions and '''Graphs''''', 2002, Dover, [https://books.google.com.au/books?id=5GTDAgAAQBAJ&printsec=frontcover&dq=%22graph%22%7C%22graphs%22&hl=en&sa=X&ved=0ahUKEwjoo9Tsi5feAhWwHDQIHe6XANYQ6AEI5gEwHQ#v=onepage&q=%22graph%22%7C%22graphs%22&f=false page 19],
 #*: Let us take any point of the first '''graph''', for example, <math>\textstyle x=\frac 1 2, y=\frac 4 5</math>, that is, the point <math>\textstyle M_1(\frac 1 2,\frac 4 5)</math>.
-# {{lb|en|graph theory}} A set of ''vertices'' (or ''nodes'') connected together by ''edges''; {{lb|en|formally}} an [[ordered pair]] of sets <math>(V,E)</math>, where the [[element]]s of <math>V</math> are called ''[[vertex|vertices]]'' or ''[[node]]s'' and <math>E</math> is a set of pairs (called ''[[edge]]s'') of elements of <math>V</math>. See also {{pedialite|Graph (discrete mathematics)}}
+# {{lb|en|graph theory}} A set of ''vertices'' (or ''nodes'') connected together by ''edges''; {{lb|en|formally}} an [[ordered pair]] of sets <math>(V,E)</math>, where the [[element]]s of <math>V</math> are called ''[[vertex|vertices]]'' or ''[[node]]s'' and <math>E</math> is a set of pairs (called ''[[edge]]s'') of elements of <math>V</math>. See also {{pedia|Graph (discrete mathematics)}}
 #: {{hypo|en|directed graph|undirected graph|tree}}
 #* '''1973''', Edward Minieka (translator), {{w|Claude Berge}}, '''''Graphs''' and Hypergraphs'', Elsevier (North-Holland), [1970, Claude Berge, ''Graphes et Hypergraphes''], [https://books.google.com.au/books?id=Wy2mhanRnk4C&pg=PR7&dq=%22graph%22%7C%22graphs%22+%22category+theory%22&hl=en&sa=X&ved=0ahUKEwj1opeLjJfeAhUiFzQIHVfGDP8Q6AEIZzAL#v=onepage&q=%22graph%22%7C%22graphs%22%20%22category%20theory%22&f=false page vii],
 #*: Problems involving '''graphs''' first appeared in the mathematical folklore as puzzles (e.g. Königsberg bridge problem). Later, '''graphs''' appeared in electrical engineering (Kirchhof's Law), chemistry, psychology and economics before becoming a unified field of study.
@@ -59,7 +59,7 @@ Shortening of {{m|en|[[graphic]] [[formula]]}}. From 1878; verb from 1889.<ref>{
 
 ====Hyponyms====
 {{der4|en|acyclic graph|biased graph|biconnected graph|bipartite graph|complete graph|connected graph|dependency graph|directed graph|Eulerian graph|Hamiltonian graph|line graph|multigraph|nonoriented graph|object graph|oriented graph|Petersen graph|pseudograph|random graph|regular graph|signed graph|small world graph|strongly regular graph|subgraph|superregular graph|undirected graph|unicursal graph|voltage graph|weighted graph|title=Derived terms for types of graph}}
-* See also {{pedialite|Graph (discrete mathematics)#Types of graphs}}
+* See also {{pedia|Graph (discrete mathematics)#Types of graphs}}
 * See also [[Thesaurus:graph]]
 
 ====Derived terms====
@@ -215,15 +215,15 @@ Shortening of {{m|en|[[graphic]] [[formula]]}}. From 1878; verb from 1889.<ref>{
 <references />
 
 ===Further reading===
-* {{pedialite|Chart}}
-* {{pedialite|Graph of a function}}
-* {{pedialite|Graph theory}}
-* {{pedialite|Graph (discrete mathematics)}}
-* {{pedialite|Graph (topology)}}
-* {{pedialite|Graph (abstract data type)}}
-* {{pedialite|Conceptual graph}}
-* {{pedialite|Glyph (disambiguation)}}
-* {{pedialite|Tree (disambiguation)}}
+* {{pedia|Chart}}
+* {{pedia|Graph of a function}}
+* {{pedia|Graph theory}}
+* {{pedia|Graph (discrete mathematics)}}
+* {{pedia|Graph (topology)}}
+* {{pedia|Graph (abstract data type)}}
+* {{pedia|Conceptual graph}}
+* {{pedia|Glyph (disambiguation)}}
+* {{pedia|Tree (disambiguation)}}
 * [https://www.encyclopediaofmath.org/index.php/Graph Graph] on ''{{w|Encyclopedia of Mathematics}}''
 * [https://ncatlab.org/nlab/show/graph graph] on {{w|NLab|''n''Lab}}
 * [https://ncatlab.org/nlab/show/graph+of+a+function graph of a function] on {{w|NLab|''n''Lab}}
