@@ -45,7 +45,7 @@ From {{inh|en|enm|windowe}}, from {{der|en|non|vindauga|lit=wind eye}}. Cognate 
 #*: till he has '''windows''' on his bread and butter
 # {{lb|en|medicine}} The time between first infection and detectability.
 # {{lb|en|military|historical|uncountable}} {{synonym of|en|chaff||strips of material intended to confuse radar}} <!--this was the British code name-->
-# {{lb|en|signal processing}} A function convolved with a signal to reduce spectral leakage when performing a fourier transform.
+# {{lb|en|signal processing}} A function multiplied with a signal to reduce spectral leakage when performing a Fourier transform.
 
 ====Coordinate terms====
 * {{l|en|door}}
