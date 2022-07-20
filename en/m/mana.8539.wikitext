@@ -317,17 +317,51 @@ Borrowed from {{bor|is|en|mana}}, from {{der|is|poz-pol-pro|*mana}}, from {{der|
 
 ===Pronunciation===
 * {{IPA|id|/ma.na/}}
+* {{hyphenation|id|ma|na}}
+* {{rhymes|id|na|a|s=2}}
 
-===Adverb===
+===Etymology 1===
+From {{inh|id|ms|mana}}. Compare to {{ncog|poz-oce-pro|*mana|t=and}}.
+
+====Adverb====
 {{head|id|adverb}}
 
 # [[where]], [[which]]
 
 ====Derived terms====
-* {{l|id|dari mana}}
-* {{l|id|di mana}}
-* {{l|id|ke mana}}
-* {{l|id|yang mana}}
+{{der4|id|
+| mana-mana
+|}}
+{{der4|id|
+| mana bisa
+| mana boleh
+| mana dapat
+| mana lagi
+| mana pula
+| mana tahu
+|}}
+{{der4|id|
+| dari mana
+| di mana
+| ke mana
+| yang mana
+|}}
+
+===Etymology 2===
+From {{bor|id|en|mana}}, from {{der|id|mi|mana}}, ultimately from {{der|id|poz-pol-pro|*mana}}, from {{der|id|poz-oce-pro|*mana|t=natural power; thunder, storm wind}}.
+
+====Noun====
+{{id-noun|head=|pl=-}}
+
+# {{l|en|mana}}: A form of supernatural energy in Polynesian religion that inheres in things or people.
+
+===Etymology 3===
+From {{der|id|LL.|manna}}, from {{der|id|grc|μάννα}}, from {{der|id|he|מן|tr=mān||'manna}}.
+
+====Noun====
+{{id-noun|head=|pl=-}}
+
+# {{lb|id|biblical}} [[manna]]: Food miraculously produced for the Israelites in the desert in the book of Exodus.
 
 ===Further reading===
 * {{R:KBBI Daring}}
