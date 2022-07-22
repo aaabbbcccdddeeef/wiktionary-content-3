@@ -643,7 +643,7 @@ Cognate with {{cog|fy|wel|t=well}}, {{cog|nl|wel|t=well}}, {{cog|nds-de|Welle|We
 * German: {{t+|de|Brunnen|m}}, {{t+|de|Quelle|f}}, {{t|de|Brunnenschacht|m}}, {{t+|de|Bohrloch|n}}
 * Greek: {{t+|el|πηγάδι|n}}
 *: Ancient: {{t|grc|φρέαρ|n}}
-* Hebrew: {{t+|he|בְאֵר|f|tr=beér}}
+* Hebrew: {{t+|he|בְאֵר|f|tr=b'er}}
 * Hindi: {{t|hi|कूआँ|m}}
 * Hungarian: {{t+|hu|kút}}
 * Icelandic: {{t+|is|brunnur|m}}, {{t|is|borhola|f}}
@@ -676,13 +676,14 @@ Cognate with {{cog|fy|wel|t=well}}, {{cog|nl|wel|t=well}}, {{cog|nds-de|Welle|We
 * Lombard: {{t+|lmo|pozz}}, {{t|lmo|puss}}
 * Low German: {{t+|nds|Born}}
 * Luxembourgish: {{t|lb|Pëtz}}
-* Macedonian: {{t|mk|бу́нар|m}}
+* Macedonian: {{t|mk|бунар|m}}
 * Malay: {{t+|ms|perigi}} {{qualifier|water}}, {{t|ms|telaga minyak}} {{qualifier|oil}}, {{t|ms|telaga}}, {{t+|ms|sumur}}, {{t+|ms|luak}}
 * Malayalam: {{t+|ml|കിണർ}}, {{t+|ml|ഊറ്റ്}}, {{t+|ml|ഉറവ}}, {{t|ml|എന്തിന്റെയും വറ്റാത്ത ഉറവ}}
 * Maltese: {{t|mt|bir|m}}
 * Manchu: {{t|mnc|ᡥᡡᠴᡳᠨ}}
 * Maori: {{t|mi|puna}}
-* Mongolian: {{t+|mn|худаг}}, {{t+|mn|шанд}} {{attention|mn|Does "шанд" really mean the hole in the ground? I have a hunch it's really the adverb sense. It's not in the mn side of my dictionary. "худаг" was incorrectly in the adverb section until now.}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|худаг}}, {{t+check|mn|шанд}} {{attention|mn|Does "шанд" really mean the hole in the ground? I have a hunch it's really the adverb sense. It's not in the mn side of my dictionary. "худаг" was incorrectly in the adverb section until now.}}
 * Mwani: {{t|wmw|nrimbu}}
 * Neapolitan: {{t|nap|puzzo|m}}
 * Nepali: {{t|ne|ईनार}}
@@ -709,7 +710,7 @@ Cognate with {{cog|fy|wel|t=well}}, {{cog|nl|wel|t=well}}, {{cog|nds-de|Welle|We
 * Sardinian: {{t|sc|pussu|m}}, {{t|sc|putzu|m}}
 * Scottish Gaelic: {{t|gd|fuaran|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|бу̀на̄р|m}}, {{t|sh|зденац|m}}, {{t|sh|студенац|m}}
+*: Cyrillic: {{t|sh|бу̀на̄р|m}}, {{t|sh|зде́нац|m}}, {{t|sh|студе́нац|m}}
 *: Roman: {{t+|sh|bùnār|m}}, {{t+|sh|zdénac|m}}, {{t+|sh|studénac|m}}
 * Sicilian: {{t+|scn|puzzu|m}}
 * Slovak: {{t+|sk|studňa|f}}
@@ -748,7 +749,7 @@ Cognate with {{cog|fy|wel|t=well}}, {{cog|nl|wel|t=well}}, {{cog|nds-de|Welle|We
 {{trans-top|spring}}
 * Arabic: {{t+|ar|عَيْن|f}}, {{t|ar|بِئْر}}
 * Armenian: {{t+|hy|աղբյուր}}
-* Bulgarian: {{t+|bg|извор|m}}
+* Bulgarian: {{t+|bg|и́звор|m}}
 * Catalan: {{t+|ca|deu|m}}
 * Czech: {{t+|cs|studánka|f}}
 * Danish: {{t+|da|kilde|c}}
@@ -763,7 +764,7 @@ Cognate with {{cog|fy|wel|t=well}}, {{cog|nl|wel|t=well}}, {{cog|nds-de|Welle|We
 * Hebrew: {{t+|he|מעיין|m|tr=maayán}}
 * Hungarian: {{t+|hu|forrás}}
 * Luxembourgish: {{t|lb|Quell|f}}
-* Macedonian: {{t|mk|и́звор|m}}
+* Macedonian: {{t|mk|извор|m}}
 {{trans-mid}}
 * Maori: {{t|mi|puna}}, {{t|mi|matatiki}}
 * Mòcheno: {{t|mhn|prunn|m}}
@@ -787,19 +788,19 @@ Cognate with {{cog|fy|wel|t=well}}, {{cog|nl|wel|t=well}}, {{cog|nds-de|Welle|We
 {{trans-top|small depression for holding}}
 * Finnish: {{t+|fi|kuoppa}}; {{t+|fi|vesikuoppa}} {{q|waterhole}}
 * German: {{t+|de|Kuhle|f}}, {{t+|de|Delle|f}}
-* Hebrew: {{t+|he|גומה|f|tr=gumá}}
+* Hebrew: {{t+|he|גומה|f|tr=gumá|alt=גומה \ גֻּמָּה}}
 {{trans-mid}}
 * Hungarian: {{t+|hu|mélyedés}}
 * Venetian: {{t|vec|pos|m}}
 {{trans-bottom}}
 
 {{trans-top|figurative: source of supply}}
-* Bulgarian: {{t+|bg|източник|m}}
+* Bulgarian: {{t+|bg|и́зточник|m}}
 * Catalan: {{t+|ca|pou|m}}
 * Finnish: {{t+|fi|lähde}}
 {{trans-mid}}
 * German: {{t+|de|Quelle |f}}, {{t|de|Versorgungsquelle|f}}
-* Hebrew: {{t+|he|מקור|m|tr=makór}}, {{t+|he|מעיין|m|tr=maayán}}
+* Hebrew: {{t+|he|מָקוֹר|m|tr=makór}}, {{t+|he|מעיין|m|tr=ma'yán|alt=מעיין \ מַעְיָן}}
 * Hungarian: {{t|hu|tárház}}, {{t+|hu|kútfő}}
 {{trans-bottom}}
 
