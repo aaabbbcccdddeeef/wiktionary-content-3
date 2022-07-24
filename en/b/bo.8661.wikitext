@@ -701,7 +701,7 @@ From {{der|pap|pt|vós}} and {{der|pap|es|vos}} and {{der|pap|kea|bo}}.
 ==Polish==
 
 ===Etymology===
-{{inh+|pl|sla-pro|*bo}}.
+{{inh+|pl|zlw-opl|bo}}, from {{inh|pl|sla-pro|*bo}}. Cognates include {{cog|ru|ибо}}, {{cog|uk|бо}} and {{cog|cu|бо}}, {{m|cu|ⰱⱁ}}.
 
 ===Pronunciation===
 {{pl-p|a=Pl-bo.ogg}}
@@ -709,18 +709,31 @@ From {{der|pap|pt|vós}} and {{der|pap|es|vos}} and {{der|pap|kea|bo}}.
 ===Conjunction===
 {{head|pl|conjunction}}
 
-# [[because]], [[for]]
+# [[because]], [[for]] {{gl|by or for the cause that}}
 #: {{syn|pl|albowiem|bowiem|dlatego że|gdyż|jako że|ponieważ}}
-# [[or]] {{gl|[[or else|else]]}}
-#: {{uxi|pl|Wstawaj już, '''bo''' spóźnisz się do szkoły!|t=Get up now '''or''' you'll be late for school!}}
+#: {{uxi|pl|Nie zadzwoniłem, '''bo''' spałem.|I didn't call '''because''' I was sleeping.}}
+# [[or]], [[or else]]
+#: {{syn|pl|bo inaczej|inaczej}}
+#: {{coi|pl|'''Bo''' co?|'''Or else''' what?}}
+#: {{uxi|pl|Wstawaj już, '''bo''' spóźnisz się do szkoły!|Get up now '''or''' you'll be late for school!}}
+# [[because]] {{gl|as is known, inferred, or determined from the fact that}}
+#: {{uxi|pl|On nie jest miły, '''bo''' nie chciał dać mi swoich ciasteczek.|He isn't nice '''because''' he didn't want to give me his cookies.}}
+# [[because]], [[really]] [[why]] [[else]] {{gl|referring to previously mentioned information}}
 
 ===Particle===
 {{head|pl|particle}}
 
-# ''emphasizes the statement, usually in phrases of opposite meanings, or introduces a rhetorical question, denying its literal meaning''
-#: {{uxi|pl|Ładna, '''bo''' ładna, ale głupia.|t='''Well''', she might be pretty, but she is also stupid.}}
-#: {{uxi|pl|'''Bo''' to prawda?|t=Is this '''really''' true?}}
-#: {{uxi|pl|'''Bo''' ja wiem?|t='''How''' am I '''supposed''' to know that?}}
+# {{n-g|Emphasizes the statement, usually in phrases of opposite meanings, or introduces a rhetorical question, denying its literal meaning.}}
+#: {{syn|pl|bo i|bo niby}}
+#: {{uxi|pl|Ładna, '''bo''' ładna, ale głupia.|'''Well''', she might be pretty, but she is also stupid.}}
+#: {{uxi|pl|'''Bo''' to prawda?|Is this '''really''' true?}}
+#: {{uxi|pl|'''Bo''' ja wiem?|'''How''' am I '''supposed''' to know that?}}
+#: {{uxi|pl|Nigdy o tym nie mówiłem, '''bo''' i po co?|I never talked about it '''because''' why would I?}}
+# {{lb|pl|with [[ale]]}} [[may]] [[very well]], [[but]]
+#: {{uxi|pl|Trudno '''bo''' trudno, '''ale''' robi się łatwiej.|It '''may very well''' be hard, '''but''' it's getting easier.}}
+
+====Derived terms====
+{{col3|pl|title=interjections|bo ja wiem|bo nie|bo tak}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
