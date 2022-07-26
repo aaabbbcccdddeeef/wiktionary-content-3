@@ -39,7 +39,7 @@ From {{inh|en|enm|melodie}}, {{m|enm|melodye}}, from {{der|en|fro|melodie}}, fro
 *: Egyptian Arabic: {{t|arz|لحن|m|tr=laḥn}}
 * Armenian: {{t+|hy|մեղեդի}}
 * Azerbaijani: {{t|az|melodiya}}, {{t|az|təranə}}, {{t+|az|nəğmə}}
-* Bashkir: {{t|ba|көй|sc=Cyrl}}
+* Bashkir: {{t|ba|көй}}
 * Belarusian: {{t|be|мело́дыя|f}}
 * Bengali: {{t|bn|সুর}}
 * Breton: {{t|br|kerzenn|f}}
@@ -47,7 +47,7 @@ From {{inh|en|enm|melodie}}, {{m|enm|melodye}}, from {{der|en|fro|melodie}}, fro
 * Burmese: {{t+|my|တေးသွား}}
 * Catalan: {{t+|ca|melodia|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|曲調|sc=Hani}}, {{t+|cmn|曲调|tr=qǔdiào|sc=Hani}}, {{t+|cmn|曲子|tr=qǔzi|sc=Hani}}, {{t+|cmn|歌曲|tr=gēqǔ|sc=Hani}}, {{t+|cmn|旋律|tr=xuánlǜ}}
+*: Mandarin: {{t+|cmn|曲調}}, {{t+|cmn|曲调|tr=qǔdiào}}, {{t+|cmn|曲子|tr=qǔzi}}, {{t+|cmn|歌曲|tr=gēqǔ}}, {{t+|cmn|旋律|tr=xuánlǜ}}
 * Czech: {{t+|cs|melodie|f}}
 * Danish: {{t+|da|melodi|c}}
 * Dutch: {{t+|nl|melodie|f}}
@@ -61,7 +61,7 @@ From {{inh|en|enm|melodie}}, {{m|enm|melodye}}, from {{der|en|fro|melodie}}, fro
 * German: {{t+|de|Melodie|f}}
 * Greek: {{t+|el|μελωδία|f}}
 *: Ancient: {{t|grc|μελῳδία|f}}, {{t|grc|μέλος|n}}
-* Hebrew: {{t+|he|מַנגִינָה|f|tr=manginá}}, {{t+|he|לַחַן|m|tr=láẖan}}
+* Hebrew: {{t+|he|מַנגִינָה|f|tr=manginá}}, {{t+|he|לַחַן|m|tr=lákhan}}
 * Hindi: {{t+|hi|राग|m}}, {{t+|hi|लय|f}}, {{t+|hi|तराना}}, {{t+|hi|धुन|f}}
 * Hungarian: {{t+|hu|dallam}}, {{t+|hu|melódia}}
 * Hunsrik: {{t|hrx|Mëlotie|f}}
@@ -70,10 +70,10 @@ From {{inh|en|enm|melodie}}, {{m|enm|melodye}}, from {{der|en|fro|melodie}}, fro
 * Indonesian: {{t+|id|melodi}}
 * Irish: {{t|ga|séis|f}}
 * Italian: {{t+|it|melodia|f}}
-* Japanese: {{t+|ja|歌曲|tr=kakyoku}}, {{t|ja|調べ|tr=shirabe}}, {{t+|ja|旋律|tr=senritsu}}, {{t+|ja|メロディー|tr=merodī}}, {{t+|ja|曲|tr=きょく, kyoku}}
+* Japanese: {{t+|ja|歌曲|tr=かきょく, kakyoku}}, {{t|ja|調べ|tr=しらべ, shirabe}}, {{t+|ja|旋律|tr=せんりつ, senritsu}}, {{t+|ja|メロディー|tr=merodī}}, {{t+|ja|曲|tr=きょく, kyoku}}
 * Kazakh: {{t|kk|әуен}}, {{t|kk|мелодия}}, {{t|kk|күй}}, {{t|kk|саз}}
 * Khmer: {{t|km|បទភ្លេង}}
-* Korean: {{t+|ko|멜로디}}, {{t+|ko|곡}}, {{t+|ko|선율}}
+* Korean: {{t+|ko|멜로디}}, {{t+|ko|곡(曲)}}, {{t+|ko|선율(旋律)}}
 {{trans-mid}}
 * Kurdish:
 *: Central Kurdish: {{t+|ckb|ئاواز}}
@@ -86,12 +86,14 @@ From {{inh|en|enm|melodie}}, {{m|enm|melodye}}, from {{der|en|fro|melodie}}, fro
 * Macedonian: {{t|mk|мелодија|f}}
 * Malay: {{t|ms|melodi}}
 * Maori: {{t|mi|rangi}}
-* Mongolian: {{t+|mn|ая}}, {{t+|mn|аялгуу}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|ая}}, {{t+|mn|аялгуу}}
 * Norman: {{t|nrf|mélodie|f}}
-* Norwegian: {{t+|no|melodi|m}}
+* Norwegian:
+*: Bokmål: {{t+|nb|melodi|m}}
 * Old English: {{t|ang|swinn|m}}
-* Pashto: {{t|ps|آهنګ|m|tr=āháng}}, {{t|ps|اهنګ|m|tr=āháng}}, {{t|ps|لحن|m|tr=láhǝn}}
-* Persian: {{t+|fa|آهنگ|tr=âhang|sc=fa-Arab}}, {{t+|fa|ملودی|tr=melodi|sc=fa-Arab}}, {{t+|fa|لحن|tr=lahn}}
+* Pashto: {{t|ps|آهنګ|m|tr=āhang}}, {{t|ps|اهنګ|m|tr=āhang}}, {{t|ps|لحن|m|tr=lahǝn}}
+* Persian: {{t+|fa|آهنگ|tr=âhang}}, {{t+|fa|ملودی|tr=melodi}}, {{t+|fa|لحن|tr=lahn}}
 * Plautdietsch: {{t|pdt|Wies|f}}
 * Polish: {{t+|pl|melodia|f}}
 * Portuguese: {{t+|pt|melodia|f}}
@@ -99,8 +101,8 @@ From {{inh|en|enm|melodie}}, {{m|enm|melodye}}, from {{der|en|fro|melodie}}, fro
 * Russian: {{t+|ru|мело́дия|f}}, {{t+|ru|моти́в|m}}, {{t+|ru|напе́в|m}}
 * Scottish Gaelic: {{t|gd|fonn|m}}, {{t|gd|port|m}}, {{t|gd|mànran|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|мелодија|f|sc=Cyrl}}, {{t|sh|напев|m|sc=Cyrl}}
-*: Roman: {{t+|sh|melodija|f}}, {{t|sh|napev|m}}
+*: Cyrillic: {{t|sh|мѐло̄дија|f}}, {{t|sh|напев|m}}
+*: Roman: {{t+|sh|mèlōdija|f}}, {{t|sh|napev|m}}
 * Slovak: {{t|sk|melódia|f}}
 * Slovene: {{t|sl|melodija|f}}
 * Spanish: {{t+|es|melodía|f}}
