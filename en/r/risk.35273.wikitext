@@ -24,26 +24,36 @@ Cognate with {{cog|es|riesgo}}, {{cog|pt|risco}}
 ===Noun===
 {{en-noun|~}}
 
-# {{lb|en|countable}} A [[possible]] [[adverse]] [[event]] or [[outcome]]
-#: {{synonyms|en|danger|peril|hazard}}
-#* {{RQ:Macaulay History of England|chapter=7|passage=the imminent and constant '''risk''' of assassination, a risk which has shaken very strong nerves}}
-#* '''2006''', ''BBC News'' website, ''Farmers warned over skin cancer'' read at [http://news.bbc.co.uk/1/hi/northern_ireland/4764525.stm] on 14 May 2006
-#*: There was also a "degree of complacency" that the weather in the country was not good enough to present a health '''risk'''.
-# The [[probability]] of a negative outcome to a decision or event.
+# {{lb|en|uncountable}} The [[probability]] of a negative outcome to a decision or event.
 #: {{ux|en|There is '''risk''' of being brutalized, arrested, imprisoned and tortured, all because I want you to know the truth about this matter.}}
 #* {{quote-book|en|On-farm Reservoir Systems for Rainfed Ricelands| page=36| url=https://books.google.com/books?isbn=9712200663| author=S. I. Bhuiyan| year=1994| passage=What crop(s) to plant, how much area to devote to each crop, and how much '''risk''' to take with respect to rainfall during the season are some of the decisions that must be made.}}
 #* '''2006''', Trever Ramsey on ''BBC News'' website, ''Exercise 'cuts skin cancer '''risk'''' ''read at [http://news.bbc.co.uk/1/hi/health/4764535.stm] on 14 May 2006
 #* {{quote-journal|en|date=2013-06-22| volume=407| issue=8841| page=76| magazine={{w|The Economist}}| title=[http://www.economist.com/news/books-and-arts/21579801-making-sense-statistics-riddle-our-days-snakes-and-ladders Snakes and ladders]| passage='''Risk''' is everywhere. From tabloid headlines insisting that coffee causes cancer (yesterday, of course, it cured it) to stern government warnings about alcohol and driving, the world is teeming with goblins. For each one there is a frighteningly precise measurement of just how likely it is to jump from the shadows and get you.}}
 #*: Taking regular exercise, coupled with a healthy diet, reduced the '''risk''' of several types of cancer.
 #* {{quote-journal|en|date=2012-01| author=Stephen Ledoux| volume=100| issue=1| page=60|magazine={{w|American Scientist}}| title=[http://www.americanscientist.org/issues/feature/2012/1/behaviorism-at-100 Behaviorism at 100]|passage=Becoming more aware of the progress that scientists have made on behavioral fronts can reduce the '''risk''' that other natural scientists will resort to mystical agential accounts when they exceed the limits of their own disciplinary training.}}
-# The magnitude of possible loss consequent to a decision or event.
+# {{lb|en|uncountable}} The magnitude of possible loss consequent to a decision or event.
 #* {{quote-journal|en|title=American Families at Risk| journal=The American Prospect| url=https://prospect.org/article/american-families-risk| date=April 23, 2004| passage=Will they find the prospect of greater '''risk''' a cause for concern, rather than a gift from the right?}}
 #* {{quote-journal|en|title=Hekia Parata will not appeal Salisbury decision| journal=Manawatu Standard| date=December 12, 2012| passage=The decision was also unlawful in disregarding the prospect of greater '''risk''' of sexual or physical abuse to girls at a co-educational residential school}}
 #* {{quote-book|en| title=The Politics of BSE| page=196| url=https://books.google.com/books?isbn=0230504655| author=R. Packer| year=2006| passage=SEAC acknowledged that their recommendation was a somewhat uneasy compromise between the desire to protect the public from a small chance of a big '''risk''' and the desire not to ruin an industry, probably unnecessarily.}}
-# {{qualifier|formal use in business, engineering, etc.}} The [[potential]] ([[conventionally]] negative) [[effect#Noun|effect]] of an [[event]], determined by [[combining]] the [[likelihood]] of the event occurring with the [[effect#Noun|effect]] should it [[occur]].
+# {{lb|en|uncountable|economics|business|and|engineering}} The [[potential]] [[negative]] [[effect#Noun|effect]] of an [[event]], determined by [[multiplying]] the [[likelihood]] of the event occurring with its [[magnitude]] should it [[occur]].
 #* '''2002''', Decisioneering Inc website, ''What is '''risk'''?'' read at [http://www.decisioneering.com/risk-analysis.html] on 14 May 2006
 #*: If there is a 25% chance of running over schedule, costing you a $100 out of your own pocket, that might be a '''risk''' you are willing to take. But if you have a 5% chance of running overschedule, knowing that there is a $10,000 penalty, you might be less willing to take that '''risk'''.
-# {{lb|en|countable|insurance}} An entity insured by an insurer or the specific uncertain events that the insurer underwrites.
+# {{lb|en|countable}} A [[possible]] [[adverse]] [[event]] or [[outcome]]
+#: {{synonyms|en|danger|peril|hazard}}
+#* {{RQ:Macaulay History of England|chapter=7|passage=the imminent and constant '''risk''' of assassination, a risk which has shaken very strong nerves}}
+# {{lb|en|countable}} A [[thing]] (from the perspective of how likely or unlikely it is to cause an adverse effect).
+#: {{ux|en|That man is going to be a big '''risk''' once he's out of prison.}}
+#: {{ux|en|Those stairs are a '''major''' risk.}}
+#* '''2006''', ''BBC News'' website, ''Farmers warned over skin cancer'' read at [http://news.bbc.co.uk/1/hi/northern_ireland/4764525.stm] on 14 May 2006
+#*: There was also a "degree of complacency" that the weather in the country was not good enough to present a health '''risk'''.
+## {{lb|en|banking|finance}} A [[borrower]] (such as a [[mortgage]]-holder or person with a [[credit card]]).
+##: {{ux|en|A good credit rating indicates the customer is a desirable '''risk'''.}}
+## {{lb|en|finance}} A [[financial]] [[product]] (typically an [[investment]]).
+##: {{ux|en|Subprime mortgages are poor '''risks'''; especially for a pension scheme.}}
+## {{lb|en|insurance}} An [[entity]] [[insure]]d by an [[insurer]], or the specific uncertain events that the insurer [[underwrite]]s.
+
+====Usage notes====
+When referring to something as "a risk" (from the perspective of it causing a potential adverse effect), the default position is that one is referring to how <u>likely</u> it is to cause an adverse effect. Such use is qualified with adjectives that refer to magnitude, such as "major", "large" or "tiny". However, adjectives that refer to quality (such as "good" or "undesirable") indicate that one is referring to how <u>unlikely</u> the adverse effect is, and this usage is invariably restricted to financial adverse effects in a business context. On the other hand, the former sense may be used in any context (including business).
 
 ====Hyponyms====
 * {{sense|formal business and engineering}} [[variance]], [[standard deviation]], [[downside beta]]
