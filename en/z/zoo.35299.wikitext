@@ -70,10 +70,10 @@
 * Catalan: {{t|ca|zoològic|m}}
 * Central Dusun: {{t|dtp|zoo}}
 * Central Melanau: {{t|mel|zoo}}
-* Cherokee: {{t|chr|ᏧᎾᏓᎴᎸᏓᏧᏂᏙᏗ|sc=Cher}}
+* Cherokee: {{t|chr|ᏧᎾᏓᎴᎸᏓᏧᏂᏙᏗ}}
 * Chinese:
-*: Cantonese: {{t|yue|動物園|sc=Hani}}, {{t|yue|动物园|tr=dung6 mat6 jyun4|sc=Hani}}
-*: Mandarin: {{t+|cmn|動物園|sc=Hani}}, {{t+|cmn|动物园|tr=dòngwùyuán|sc=Hani}}
+*: Cantonese: {{t|yue|動物園}}, {{t|yue|动物园|tr=dung6 mat6 jyun4}}
+*: Mandarin: {{t+|cmn|動物園}}, {{t+|cmn|动物园|tr=dòngwùyuán}}
 * Cornish: {{t|kw|milva|f}}
 * Czech: {{t+|cs|zoo|f}}, {{t+|cs|zoologická zahrada|f}}
 * Danish: {{t|da|zoo|c}}, {{t|da|zoologisk have|c}}
@@ -88,8 +88,8 @@
 * German: {{t+|de|Zoo|m}}, {{t+|de|Tiergarten|m}}, {{t+|de|Tierpark|m}}
 * Greek: {{t+|el|ζωολογικός κήπος|m}}
 *: Ancient: {{t|grc|θηριοτροφεῖον|n}}, {{t|grc|ζωγρεῖον|n}}
-* Hebrew: {{t+|he|גַּן חַיּוֹת|m|tr=gan khayót|sc=Hebr}}, {{t|he|גן זואולוגי|m|tr=gan zo'ológi|sc=Hebr}}
-* Hindi: {{t+|hi|चिड़ियाघर|m|sc=Deva}}
+* Hebrew: {{t+|he|גַּן חַיּוֹת|m|tr=gan khayót}}, {{t|he|גן זואולוגי|m|tr=gan zo'ológi}}
+* Hindi: {{t+|hi|चिड़ियाघर|m}}
 * Hungarian: {{t+|hu|állatkert}}
 * Icelandic: {{t+|is|dýragarður|m}}
 * Ido: {{t+|io|zoo}}, {{t+|io|menajerio}}, {{t|io|animalparko}}
@@ -99,10 +99,10 @@
 * Italian: {{t+|it|zoo|m}}
 * Japanese: {{t+|ja|動物園|tr=どうぶつえん, dōbutsuen}}
 {{trans-mid}}
-* Kazakh: {{t|kk|хайуанаттар бағы|sc=Cyrl}}, {{t|kk|хайуанатхана}}
+* Kazakh: {{t|kk|хайуанаттар бағы}}, {{t|kk|хайуанатхана}}
 * Khmer: {{t|km|សួនសត្វ}}, {{t|km|ឧទ្យានសត្វ}}
 * Korean: {{t+|ko|동물원(動物園)}}
-* Kyrgyz: {{t+|ky|ажайыпкана|sc=Cyrl}}
+* Kyrgyz: {{t+|ky|ажайыпкана}}
 * Lao: {{t+|lo|ສວນສັດ}}
 * Latin: {{t|la|vīvārium|n}}
 * Latvian: {{t|lv|zooloģiskais dārzs|m}}, {{t|lv|zoodārzs|m}}
@@ -110,7 +110,8 @@
 * Macedonian: {{t|mk|зоолошка градина|f}}
 * Malay: {{t+|ms|zoo}}, {{t|ms|kebun binatang}}, {{t|ms|taman haiwan}}
 * Maltese: {{t|mt|żu|m}}
-* Mongolian: {{t|mn|амьтны хүрээлэн|sc=Cyrl}}
+* Mongolian:
+*: Cyrillic: {{t|mn|амьтны хүрээлэн}}
 * Norwegian:
 *: Bokmål: {{t|nb|dyrehage|m}}
 *: Nynorsk: {{t|nn|dyrehage|m}}
@@ -121,10 +122,10 @@
 * Portuguese: {{t+|pt|zoológico|m}}, {{t|pt|jardim zoológico|m}}, {{t+|pt|zoo|m}} {{qualifier|uncommon}}
 * Quechua: {{t|qu|k'ita uywap wasin}}
 * Romanian: {{t+|ro|zoo|f}}, {{t+|ro|parc zoologic|n}}, {{t+|ro|grădină zoologică|f}}, {{t+|ro|zooparc|n}}
-* Russian: {{t+|ru|зоопа́рк|m}}, {{t|ru|зоологи́ческий сад|m|sc=Cyrl}}, {{t+|ru|зооса́д|m|sc=Cyrl}}, {{t+|ru|звери́нец|m|sc=Cyrl}} {{qualifier|menagerie}}
+* Russian: {{t+|ru|зоопа́рк|m}}, {{t|ru|зоологи́ческий сад|m}}, {{t+|ru|зооса́д|m}}, {{t+|ru|звери́нец|m}} {{qualifier|menagerie}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|зоолошки врт|m}}, {{t|sh|зверињак|m}}
-*: Roman: {{t|sh|zoološki vrt|m}}, {{t|sh|zverinjak|m}}
+*: Cyrillic: {{t|sh|зоо̀лошкӣ вр̏т|m}}, {{t|sh|зверињак|m}}
+*: Roman: {{t|sh|zoòloškī vȑt|m}}, {{t|sh|zverinjak|m}}
 * Shan: {{t|shn|သူၼ်သတ်း}}
 * Slovak: {{t|sk|zoologická záhrada|f}}, {{t|sk|zoo|m}}
 * Slovene: {{t|sl|živalski vrt|m}}
@@ -138,7 +139,7 @@
 * Turkish: {{t+|tr|hayvanat bahçesi}}
 * Turkmen: {{t|tk|haýwanat bagy}}
 * Ukrainian: {{t|uk|зоопа́рк|m}}
-* Urdu: {{t|ur|چڑیاگھر|m|tr=ciṛiyāghar|sc=ur-Arab}}
+* Urdu: {{t|ur|چڑیاگھر|m|tr=ciṛiyāghar}}
 * Uzbek: {{t|uz|hayvonot bogʻi}}
 * Vietnamese: {{t+|vi|thảo cầm viên}}, {{t+|vi|sở thú}}
 * Walloon: {{t+|wa|zô|m}}, {{t|wa|djårdén zolodjike|m}}, {{t|wa|djårdén d' aclimataedje|m}}
