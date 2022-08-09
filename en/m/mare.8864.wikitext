@@ -165,7 +165,7 @@ Akin to Dutch (dial.) {{m|nl|mare}}, German (dial.) {{m|de|Mahr}}, {{cog|non|mar
 ====Noun====
 {{en-noun}}
 
-# {{lb|en|obsolete|or|historical}} A type of evil [[spirit]] formerly thought to sit on the chest of a sleeping person; also, the feeling of suffocation felt during sleep, attributed to such a spirit.
+# {{senseid|en|evil spirit}} {{lb|en|obsolete|or|historical}} A type of evil [[spirit]] formerly thought to sit on the chest of a sleeping person; also, the feeling of suffocation felt during sleep, attributed to such a spirit.
 # {{lb|en|UK|colloquial}} ({{clipping of|en|nightmare|nodot=1}}) A [[nightmare]]; a frustrating or terrible experience.
 #: {{ux|en|I'm having a complete '''mare''' today.}}
 
@@ -358,6 +358,7 @@ From {{inh|co|la|mare}}.
 ----
 
 ==Danish==
+{{wikipedia|Mare (folklore)}}
 
 ===Etymology===
 From {{inh|da|non|mara}}.
@@ -365,7 +366,7 @@ From {{inh|da|non|mara}}.
 ===Noun===
 {{da-noun|n|r}}
 
-# [[incubus]], [[succubus]]
+# {{lb|da|folklore}} a {{l|en|mare|id=evil spirit}} {{gloss|an evil spirit}}
 
 ====Declension====
 {{da-noun-infl|n|r}}
@@ -783,7 +784,7 @@ From {{inh|nb|non|mara}}.
 ===Noun===
 {{nb-noun-c}}
 
-# {{lb|nb|folklore}} a {{l|en|mare}}
+# {{lb|nb|folklore}} a {{l|en|mare|id=evil spirit}} {{gloss|an evil spirit}}
 
 ====Derived terms====
 * {{l|nb|mareritt||nightmare}}
@@ -808,7 +809,7 @@ From {{inh|nn|non|mara|g=f}}.
 ====Noun====
 {{nn-noun-f2}}
 
-# {{lb|nn|folklore}} {{sense|a spirit}} a {{l|en|mare}}
+# {{lb|nn|folklore}} a {{l|en|mare|id=evil spirit}} {{gloss|an evil spirit}}
 
 =====Derived terms=====
 * {{l|nn|mareritt||nightmare}}
