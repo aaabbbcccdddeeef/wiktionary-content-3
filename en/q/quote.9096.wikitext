@@ -188,11 +188,11 @@ Until the late 19th century, ''quote'' was exclusively used as a verb. Since the
 * Arabic: {{t|ar|اِسْتَشْهَدَ}}
 * Armenian: {{t+|hy|մեջբերել}}, {{t+|hy|ցիտել}}
 * Belarusian: {{t|be|цытава́ць|impf}}, {{t|be|зацытава́ць|pf}}
-* Bulgarian: {{t+|bg|цити́рам}}
+* Bulgarian: {{t+|bg|цити́рам|impf|pf}}
 * Chinese:
-*: Mandarin: {{t+|cmn|引用|tr=yǐnyòng|sc=Hani}}, {{t+|cmn|摘引|tr=zhāiyǐn|sc=Hani}}
+*: Mandarin: {{t+|cmn|引用|tr=yǐnyòng}}, {{t+|cmn|摘引|tr=zhāiyǐn}}
 * Cornish: {{t|kw|devynna}} {{qualifier|Revived Middle Cornish}}, {{t|kw|devydna}} {{qualifier|Revived Late Cornish}}
-* Czech: {{t+|cs|citovat}}
+* Czech: {{t+|cs|citovat|impf}}
 * Dutch: {{t+|nl|aanhalen}}, {{t+|nl|citeren}}
 * Esperanto: {{t|eo|citi}}
 * Estonian: {{t|et|osundama}}
@@ -201,7 +201,7 @@ Until the late 19th century, ''quote'' was exclusively used as a verb. Since the
 * Georgian: {{t|ka|ციტირება}}
 * German: {{t+|de|zitieren}}
 * Greek: {{t+|el|παραθέτω}}, {{t+|el|αναφέρω}}
-* Hebrew: {{t|he|ציטט|tr=tsitét}}
+* Hebrew: {{t|he|ציטט|tr=tsitét|alt=ציטט \ צִטֵּט}}
 * Hungarian: {{t+|hu|idéz}}
 * Icelandic: {{t|is|vitna í}}
 * Ido: {{t+|io|citar}}
@@ -209,15 +209,18 @@ Until the late 19th century, ''quote'' was exclusively used as a verb. Since the
 * Irish: {{t|ga|luaigh}}
 {{trans-mid}}
 * Italian: {{t+|it|citare}}, {{t+|it|riferire}}
-* Japanese: {{t+|ja|引用|alt=引用する|tr=いんようする, in'yō-suru}}
+* Japanese: {{t+|ja|引用|alt=引用する|tr=いんようする, in'yō suru}}
 * Malay: {{t|ms|memetik kata}}
 * Maori: {{t|mi|takitaki}}
-* Norwegian: {{t|no|sitere}}
+* Norwegian:
 *: Bokmål: {{t|nb|sitere}}
-* Polish: {{t+|pl|cytować}}
+* Polish: {{t+|pl|cytować|impf}}
 * Portuguese: {{t+|pt|citar}}
-* Russian: {{t+|ru|цити́ровать}}, {{t+|ru|ссыла́ться}} {{qualifier|+ на + accusative case}}, {{t+|ru|процити́ровать|pf}}, {{t+|ru|сосла́ться|pf}}
+* Russian: {{t+|ru|цити́ровать}}, {{t+|ru|процити́ровать|pf}}, {{t+|ru|ссыла́ться}}, {{t+|ru|сосла́ться|pf}} {{qualifier|+ на + accusative case}}
 * Serbo-Croatian: {{t+|sh|navod}}, {{t+|sh|citat}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|цити́рати|impf|pf}}
+*: Roman: {{t+|sh|citírati|impf|pf}}
 * Slovak: {{t|sk|citovať|impf}}
 * Spanish: {{t+|es|citar}}
 * Swedish: {{t+|sv|citera}}
@@ -228,14 +231,14 @@ Until the late 19th century, ''quote'' was exclusively used as a verb. Since the
 {{trans-bottom}}
 
 {{trans-top|to prepare a summary of work to be done and set a price}}
-* Bulgarian: {{t+|bg|нормирам}}
+* Bulgarian: {{t+|bg|норми́рам|impf|pf}}
 * Chinese:
-*: Mandarin: {{t+|cmn|報價|sc=Hani}}, {{t+|cmn|报价|tr=bàojià|sc=Hani}}, {{t+|cmn|開價|sc=Hani}}, {{t+|cmn|开价|tr=kāijià|sc=Hani}}
+*: Mandarin: {{t+|cmn|報價}}, {{t+|cmn|报价|tr=bàojià}}, {{t+|cmn|開價}}, {{t+|cmn|开价|tr=kāijià}}
 * Dutch: {{t|nl|een bestek [[opmaken]]}}, {{t|nl|[[een]] ([[prijs]])[[offerte]] [[doen]]}}
 * Finnish: {{t+|fi|tarjota}}
 * French: {{qualifier|colloquial}} {{t+|fr|deviser}}, {{t+|fr|coter}}
 * Georgian: {{t|ka|კოტირება}}
-* German: {{t|de|Preisangebot machen}}, {{t+|de|anbieten}}
+* German: {{t|de|[[Preisangebot]] [[machen]]}}, {{t+|de|anbieten}}
 {{trans-mid}}
 * Greek: {{t+|el|προσφέρω}}
 * Hungarian: {{t|hu|[[árajánlat]]ot [[ad]]/[[tesz]]}}, {{t+|hu|vállal}} {{q|the latter supplemented with the price affixed with {{m|hu|-ért}}}}
@@ -249,14 +252,14 @@ Until the late 19th century, ''quote'' was exclusively used as a verb. Since the
 {{trans-bottom}}
 
 {{trans-top|to name the current price}}
-* Bulgarian: {{t|bg|определям цена}}
+* Bulgarian: {{t|bg|[[определя́м]] [[цена́]]|impf}}
 * Czech: {{t|cs|kótovat}}, {{t|cs|kotovat}}
 * Dutch: {{t+|nl|quoteren}}
 * French: {{t+|fr|coter}}
-* German: {{t|de|Preis angeben}}
+* German: {{t|de|[[Preis]] [[angeben]]}}
 {{trans-mid}}
 * Portuguese: {{t+|pt|cotar}}
-* Russian: {{t|ru|назнача́ть це́ну}}, {{t|ru|дава́ть расце́нку}}
+* Russian: {{t|ru|[[назнача́ть]] [[цена|це́ну]]|impf}}, {{t|ru|[[дава́ть]] [[расценка|расце́нку]]|impf}}
 * Turkish: {{t|tr|fiyat söylemek}}
 {{trans-bottom}}
 
