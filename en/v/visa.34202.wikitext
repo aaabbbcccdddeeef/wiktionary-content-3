@@ -45,7 +45,7 @@ From 1831, "official signature or endorsement on a passport," from {{uder|en|fr|
 *: Min Nan: {{t+|nan|簽證}}, {{t|nan|签证|tr=chhiam-chèng}}
 *: Wu: {{t|wuu|簽證}}, {{t|wuu|签证|tr=qi tsen}}
 * Czech: {{t+|cs|vízum|n}}
-* Danish: {{t+|da|visum}}
+* Danish: {{t+|da|visum|n}}
 * Dutch: {{t+|nl|visum|n}}
 * Esperanto: {{t+|eo|vizo}}
 * Estonian: {{t|et|viisa}}
@@ -56,18 +56,18 @@ From 1831, "official signature or endorsement on a passport," from {{uder|en|fr|
 * German: {{t+|de|Visum|n}}
 * Greek: {{t+|el|βίζα|f}}
 * Hausa: {{t|ha|biza|f|alt=bīzā̀}}
-* Hebrew: {{t+|he|וִיזָה|f|tr=viza}}, {{t+|he|אֲשֵׁרָה|f|tr=ashera}}
+* Hebrew: {{t+|he|וִיזָה|f|tr=viza}}, {{t+|he|אֲשֵׁרָה|f|tr='ashrá}}
 * Hindi: {{t|hi|वीज़ा|m}}, {{t|hi|वीजा|m}}, {{t|hi|वीसा|m}}
 * Hungarian: {{t+|hu|vízum}}
 * Icelandic: {{t|is|vegabréfsáritun}}
 * Indonesian: {{t+|id|visa}}
 * Irish: {{t|ga|víosa|f}}
 * Italian: {{t+|it|vista|f}}, {{t|it|nulla osta|f}}, {{t+|it|permesso|m}}, {{t+|it|nullaosta|m}}, {{t+|it|visto|m}}
-* Japanese: {{t+|ja|査証|tr=さしょう, sashō}}, {{t+|ja|ビザ|tr=biza}}
-* Kazakh: {{t|kk|виза|sc=Cyrl}}
+* Japanese: {{t+|ja|ビザ|tr=biza}}, {{t+|ja|査証|tr=さしょう, sashō}}
+* Kazakh: {{t|kk|виза}}
 * Khmer: {{t+|km|ទិដ្ឋាការ}}
 * Korean: {{t+|ko|비자}}, {{t+|ko|사증(査証)}}
-* Kyrgyz: {{t|ky|виза|sc=Cyrl}}
+* Kyrgyz: {{t|ky|виза}}
 * Lao: {{t|lo|ວີຊ້າ}}
 {{trans-mid}}
 * Latvian: {{t|lv|vīza|f}}
@@ -76,9 +76,11 @@ From 1831, "official signature or endorsement on a passport," from {{uder|en|fr|
 * Malay: {{t|ms|visa}}
 * Maori: {{t|mi|kōkota}}, {{t|mi|pane uruwhenua}}
 * Marathi: {{t|mr|व्हिसा}}
-* Mongolian: {{t+|mn|виз}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|виз}}
 * Nepali: {{t|ne|भिसा}}
-* Norwegian: {{t|no|visum}}
+* Norwegian:
+*: Bokmål: {{t|nb|visum|n}}
 * Ottoman Turkish: {{t|ota|ویزه|tr=vize}}
 * Persian: {{t+|fa|روادید|tr=ravâdid}}, {{t+|fa|ویزا|tr=vizâ}}
 * Polish: {{t+|pl|wiza|f}}
@@ -86,19 +88,19 @@ From 1831, "official signature or endorsement on a passport," from {{uder|en|fr|
 * Romanian: {{t+|ro|viză|f}}
 * Russian: {{t+|ru|ви́за|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|виза|f|sc=Cyrl}}
-*: Roman: {{t+|sh|viza|f}}
+*: Cyrillic: {{t|sh|ви́за|f}}
+*: Roman: {{t+|sh|víza|f}}
 * Sindhi: {{t-needed|sd}}
-* Sinhalese: {{t|si|වීසා|sc=Sinh}}
+* Sinhalese: {{t|si|වීසා}}
 * Slovak: {{t|sk|vízum|n}}
 * Slovene: {{t+|sl|vizum|m}}
 * Spanish: {{t+|es|visa|f}} {{qualifier|Latin America}}, {{t+|es|visado|m}}
 * Swahili: {{t-needed|sw}}
 * Swedish: {{t+|sv|visum|n}}
 * Tagalog: {{t|tl|bisa}}
-* Tajik: {{t|tg|виза|sc=Cyrl}}
+* Tajik: {{t|tg|виза}}
 * Tamil: {{t|ta|விசா}}
-* Tatar: {{t|tt|виза|sc=Cyrl}}
+* Tatar: {{t|tt|виза}}
 * Telugu: {{t|te|వీసా}}
 * Thai: {{t|th|วีซา}}
 * Tibetan: {{t|bo|ཐོངས་མཆན}}, {{t|bo|ཝི་ཛ}}
@@ -108,7 +110,7 @@ From 1831, "official signature or endorsement on a passport," from {{uder|en|fr|
 * Urdu: {{t|ur|ویزا|m|tr=vīzā}}
 * Uyghur: {{t|ug|ۋىزا}}
 * Uzbek: {{t+|uz|viza}}
-* Vietnamese: {{t+|vi|thị thực}} ({{t|vi|視實|sc=Hani}}), {{t|vi|giấy xuất cảnh}}
+* Vietnamese: {{t+|vi|thị thực}} ({{t|vi|視實}}), {{t|vi|giấy xuất cảnh}}
 * Welsh: {{t|cy|teitheb|f}}
 * Yiddish: {{t|yi|וויזע|f}}
 * Yoruba: {{t-needed|yo}}
