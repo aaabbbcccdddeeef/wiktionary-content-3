@@ -54,7 +54,7 @@ From {{inh|en|enm|metal}}, a borrowing from {{der|en|fro|metal}}, from {{der|en|
 
 ====Translations====
 {{trans-top|atomic element''' or '''material made of such atoms}}
-* Abkhaz: {{t|ab|аметалл|sc=Cyrl}}
+* Abkhaz: {{t|ab|аметалл}}
 * Afrikaans: {{t+|af|metaal}}
 * Albanian: {{t+|sq|metal}}
 * Arabic: {{t|ar|فِلِزّ}}, {{t|ar|مَعْدِن|m}}
@@ -62,7 +62,7 @@ From {{inh|en|enm|metal}}, a borrowing from {{der|en|fro|metal}}, from {{der|en|
 * Armenian: {{t+|hy|մետաղ}}
 * Assamese: {{t|as|ধাতু}}
 * Asturian: {{t|ast|metal|m}}
-* Avar: {{t|av|металл|sc=Cyrl}}
+* Avar: {{t|av|металл}}
 * Azerbaijani: {{t+|az|metal}}
 * Basque: {{t+|eu|metal}}
 * Belarusian: {{t|be|мета́л|m}}, {{t|be|мэта́ль|m}} {{qualifier|Taraškievica}}, {{t|be|мэта́л|m|tr=felez}} {{qualifier|Taraškievica}}
@@ -107,13 +107,13 @@ From {{inh|en|enm|metal}}, a borrowing from {{der|en|fro|metal}}, from {{der|en|
 * Italian: {{t+|it|metallo}}
 * Japanese: {{t+|ja|金属|tr=きんぞく, kinzoku}}
 * Kalmyk: {{t|xal|төмрлг}}
-* Kazakh: {{t+|kk|металл|sc=Cyrl}}
+* Kazakh: {{t+|kk|металл}}
 * Khmer: {{t+|km|លោហៈ}}
 * Korean: {{t+|ko|금속(金屬)}}
 * Kurdish:
 *: Northern Kurdish: {{t+|kmr|kanza}}, {{t+|kmr|metal}}
+* Kyrgyz: {{t+|ky|металл}}
 {{trans-mid}}
-* Kyrgyz: {{t+|ky|металл|sc=Cyrl}}
 * Lao: {{t|lo|ໂລຫະ}}
 * Latin: {{t+|la|metallum|n}}
 * Latvian: {{t+|lv|metāls|m}}
@@ -122,17 +122,19 @@ From {{inh|en|enm|metal}}, a borrowing from {{der|en|fro|metal}}, from {{der|en|
 * Malay: {{t+|ms|logam}}
 * Maori: {{t|mi|maitai}}, {{t|mi|mētara}}
 * Middle English: {{t|enm|metal}}
-* Mongolian: {{t+|mn|металл|sc=Cyrl}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|металл}}
+*: Mongolian: {{t|mn|ᠮᠧᠲ᠋ᠠᠯ}}
 * Navajo: {{t|nv|béésh}}
 * Nepali: {{t+|ne|धातु}}
 * Norwegian:
 *: Bokmål: {{t+|nb|metall|n}}
 *: Nynorsk: {{t|nn|metall|n}}
 * Occitan: {{t+|oc|metal|m}}
-* Ossetian: {{t|os|згъӕр|sc=Cyrl}}, {{t|os|металл|sc=Cyrl}}
+* Ossetian: {{t|os|згъӕр}}, {{t|os|металл}}
 * Pali: {{t|pi|loha|n}}
-* Pashto: {{t+|ps|فلز|m|tr=feléz}}, {{t+|ps|زر|m|tr=zar}} {{q|metal, gold}}
-* Persian: {{t+|fa|فلز|tr=felez|sc=fa-Arab}}
+* Pashto: {{t+|ps|فلز|m|tr=felez}}, {{t+|ps|زر|m|tr=zar}} {{q|metal, gold}}
+* Persian: {{t+|fa|فلز|tr=felez}}
 * Plautdietsch: {{t|pdt|Mettol|n}}
 * Polish: {{t+|pl|metal|m}}
 * Portuguese: {{t+|pt|metal|m}}
@@ -142,8 +144,8 @@ From {{inh|en|enm|metal}}, a borrowing from {{der|en|fro|metal}}, from {{der|en|
 * Rusyn: {{t|rue|ков|m}}, {{t|rue|мета́л|m}}
 * Sanskrit: {{t+|sa|धातु|m}}, {{t+|sa|अयस्|n}}, {{t+|sa|लोह|m}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|метал|m}}, {{t|sh|ковина|f}}
-*: Roman: {{t+|sh|metal|m}}, {{t+|sh|kovina|f}}
+*: Cyrillic: {{t|sh|мѐта̄л|m}}, {{t|sh|ко̏вина|f}}
+*: Roman: {{t+|sh|mètāl|m}}, {{t+|sh|kȍvina|f}}
 * Slovak: {{t|sk|kov|m}}
 * Slovene: {{t+|sl|kovina|f}}
 * Southern Kalinga: {{t|ksc|aka}}
@@ -151,7 +153,7 @@ From {{inh|en|enm|metal}}, a borrowing from {{der|en|fro|metal}}, from {{der|en|
 * Swahili: {{t|sw|metali}}
 * Swedish: {{t+|sv|metall|c}}
 * Tagalog: {{t+|tl|bakal}}, {{t+|tl|metal}}, {{t+|tl|kansa}}
-* Tajik: {{t|tg|металл|sc=Cyrl}}, {{t+|tg|фулуз|sc=Cyrl}}
+* Tajik: {{t|tg|металл}}, {{t+|tg|фулуз}}
 * Telugu: {{t+|te|లోహము}}
 * Thai: {{t+|th|โลหะ}}
 * Tibetan: {{t|bo|ལྕགས་རིགས}}
@@ -173,13 +175,13 @@ From {{inh|en|enm|metal}}, a borrowing from {{der|en|fro|metal}}, from {{der|en|
 {{trans-bottom}}
 
 {{trans-top|certain category of rock music}}
-* Arabic: {{t|ar|ميتال|tr=mital}}
+* Arabic: {{t|ar|مِيتَال|m|tr=mital}}
 * Armenian: {{t+|hy|մետալ}}
 * Azerbaijani: {{t+|az|metal}}
-* Belarusian: {{t|be|метал}}
+* Belarusian: {{t|be|мета́л|m}}
 * Bengali: {{t|bn|মেটাল}}
 * Bishnupriya Manipuri: {{t|bpy|মেটাল|tr=meṭal}}
-* Bulgarian: {{t|bg|метъл}}
+* Bulgarian: {{t|bg|ме́тъл|m}}
 * Burmese: {{t|my|မက်တယ်လ်}}
 * Catalan: {{t+|ca|metal}}
 * Chinese:
@@ -217,7 +219,8 @@ From {{inh|en|enm|metal}}, a borrowing from {{der|en|fro|metal}}, from {{der|en|
 * Mingrelian: {{t|xmf|მეტალი}}
 * Nepali: {{t+|ne|धातु}}
 * Newar: {{t|new|मेटल}}
-* Norwegian: {{t|no|metal}}
+* Norwegian:
+*: Bokmål: {{t|nb|metal}}
 * Persian: {{t|fa|متال}}
 * Portuguese: {{t+|pt|metal}}
 * Punjabi: {{t|pa|ਮੈਟਲ}}
@@ -229,7 +232,7 @@ From {{inh|en|enm|metal}}, a borrowing from {{der|en|fro|metal}}, from {{der|en|
 * Slovene: {{t+|sl|metal}}
 * Swedish: {{t+|sv|metal}}
 * Tamil: {{t+|ta|மாழை}}
-* Thai: {{t|th|เมทัล|tr=methạl}}
+* Thai: {{t|th|เมทัล|tr=mee-tal}}
 * Turkish: {{t+|tr|metal}}
 * Ukrainian: {{t+|uk|метал|m}}
 * Uzbek: {{t+|uz|metal}}
