@@ -430,12 +430,21 @@ Borrowed from {{bor|nn|en|squash}}.
 ==Slovak==
 
 ===Etymology===
-From {{der|sk|en|squash}}.
+From {{bor|sk|en|squash}}.
+
+===Pronunciation===
+* {{sk-IPA|skvoš}}
 
 ===Noun===
-{{sk-noun|g=m}}
+{{sk-noun|g=m|gen=squashu|decl=stroj}}
 
 # {{l|en|squash}} {{gloss|sport}}
+
+====Declension====
+{{sk-decl-noun-sg|squash|squashu|squashu|squash|squashi|squashom}}
+
+====Derived terms====
+* {{l|sk|squashový}}
 
 ===Further reading===
 * {{R:SDK}}
