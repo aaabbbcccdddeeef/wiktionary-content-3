@@ -654,7 +654,7 @@ From {{inh|da|gmq-oda|bar}}, [[Old West Norse]] {{m-lite|non|berr|pos=with ʀ-um
 Borrowed from {{bor|da|en|bar}}.
 
 ====Noun====
-{{head-lite|da|nouns|g=c|singular definite|baren|plural indefinite|barer|langname=Danish}} <!-- {{da-noun|en}} -->
+{{head-lite|da|nouns|g=c|singular definite|baren|plural indefinite|barer|langname=Danish|nogposcat=1}} <!-- {{da-noun|en}} -->
 
 # [[#English|bar]] {{q|business licensed to sell intoxicating beverages, counter of such a premises}}
 
@@ -665,7 +665,7 @@ Borrowed from {{bor|da|en|bar}}.
 From {{der|da|grc|βάρος|t=weight}}.
 
 ====Noun====
-{{head-lite|da|nouns|g=c|singular definite|baren|plural indefinite|bar|langname=Danish}}
+{{head-lite|da|nouns|g=c|singular definite|baren|plural indefinite|bar|langname=Danish|nogposcat=1}}
 
 # [[#English|bar]] {{q|unit of pressure}}
 
@@ -1745,7 +1745,7 @@ See {{m-lite|sv|bära}}.
 {{ubor|sv|en|bar}}.
 
 ====Noun====
-{{head-lite|sv|nouns|g=c|langname=Swedish}} <!-- {{sv-noun|c}} -->
+{{head-lite|sv|nouns|g=c|langname=Swedish|nogposcat=1}} <!-- {{sv-noun|c}} -->
 
 # {{senseid|sv|pub}} a [[#English:_pub|bar]], [[pub]]; place where mainly alcoholic drinks are served.
 # a [[#English:_counter|bar]], a [[#English|bar]] [[counter]]
@@ -1760,7 +1760,7 @@ See {{m-lite|sv|bära}}.
 Originally from {{der|sv|grc|βάρος|t=weight}}.
 
 ====Noun====
-{{head-lite|sv|nouns|g=c|langname=Swedish}} <!-- {{sv-noun|c}} -->
+{{head-lite|sv|nouns|g=c|langname=Swedish|nogposcat=1}} <!-- {{sv-noun|c}} -->
 
 # A [[#English|bar]]; a unit of pressure
 
