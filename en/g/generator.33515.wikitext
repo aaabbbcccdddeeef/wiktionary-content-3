@@ -72,7 +72,7 @@ From {{der|en|la|-}}, from past participle of {{m|la|genero||beget, father}}.
 * Norwegian:
 *: Bokmål: {{t|nb|generator|m}}
 *: Nynorsk: {{t|nn|generator|m}}
-* Polish: {{t+|pl|prądnica|f}}
+* Polish: {{t+|pl|prądnica|f}}, {{t+|pl|generator|m}}
 * Portuguese: {{t+|pt|gerador|m}}
 * Romanian: {{t+|ro|generator|m}}
 * Russian: {{t+|ru|генера́тор|m}}
@@ -83,6 +83,10 @@ From {{der|en|la|-}}, from past participle of {{m|la|genero||beget, father}}.
 * Turkish: {{t+|tr|jeneratör}}
 * Vietnamese: {{t+|vi|máy phát điện}}
 * Welsh: {{t|cy|generadur|m}}
+{{trans-bottom}}
+{{trans-top|in programming}}
+{{trans-mid}}
+* Polish: {{t+|pl|generator|m}}
 {{trans-bottom}}
 
 [[Category:en:Electricity]]
@@ -210,6 +214,36 @@ From {{der|nn|la|generare}}.
 * {{R:The Nynorsk Dictionary}}
 
 [[Category:nn:Electricity]]
+
+----
+
+==Polish==
+{{wp|lang=pl}}
+
+===Etymology===
+{{bor+|pl|de|Generator}}, from {{der|pl|en|generator}}, from {{der|pl|fr|générateur}}, from {{af|pl|generō|lang1=la|-ator}}.<ref>{{R:pl:WSWO}}</ref><ref>{{R:pl:Bańkowski}}</ref>
+
+===Pronunciation===
+{{pl-p|a=LL-Q809 (pol)-Poemat-generator.wav}}
+
+===Noun===
+{{pl-noun|m-in}}
+
+# {{lb|pl|electricity}} {{l|en|generator}} {{gl|piece of apparatus, equipment, etc, to convert or change energy from one form to another or to create energy}}
+# {{lb|pl|programming}} {{l|en|generator}} {{gl| subordinate piece of code which, given some initial parameters, will generate multiple output values on request}}
+# {{l|en|generator}} {{gl| that which, generates, begets, causes, or produces social phenomena}}
+
+====Declension====
+{{pl-decl-noun-m-in|gens=generatora}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+
+{{C|pl|Machines}}
 
 ----
 
