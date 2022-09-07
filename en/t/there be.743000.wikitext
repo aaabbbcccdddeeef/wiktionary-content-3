@@ -23,37 +23,30 @@ The expletive ''[[there]]'', from {{inh|en|ang|þær}}, to fill the first positi
 *: '''''There is''' a swing and a seesaw for kids.''
 
 ====Conjugation====
-{{rfinfl|en|verb}}
-''infinitive'' '''[[there]] to [[be]]''', ''present singular'' '''[[there is]]''', ''plural'' '''[[there are]]''', ''gerund'' '''there being''', ''past singular'' '''[[there was]]''', ''plural'' '''[[there were]]''', ''present perfect singular'' '''[[there has been]]''', ''plural'' '''[[there have been]]'''
-{| class="wikitable collapsible collapsed" style="text-align:center"
-! colspan="3" |''there be'' conjugation
-|-
-! colspan="2" |infinitive
-|there to be
-|-
-! colspan="2" |present participle/gerund
-|there {{l|en|being}}
-|-
-! colspan="2" |past participle
-|there [[has]] {{l|en|been|||tr=}}
-|-
-! colspan="2" |past participle plural
-|there {{l|en|have|||tr=|pos=}} {{l|en|been|||tr=}}
-|-
-! rowspan="2" |
-! colspan="2" |indicative
-|-
-!singular
-!plural
-|-
-!present
-|there [[is]] ([[there's]])
-|there {{l|en|are}} ({{l|en|there're}}, {{l|en|there's}})
-|-
-!preterite
-|there {{l|en|was}}
-|there {{l|en|were}}
-|}
+{{en-conj
+|inf=-
+|pres_1sg=-
+|pres_2sg=-
+|pres_3sg=there is
+|pres_3sg2=there's
+|pres_pl=there are
+|pres_pl2=there're
+|pres_pl3=there's
+|pres_pl3_qual=note1
+|past_1sg=-
+|past_2sg=-
+|past_3sg=there was
+|past_pl=there were
+|past_sub=there were
+|pres_imp=-
+|pres_ptc=there being
+|past_ptc=there has been
+|past_ptc_qual=note2
+|past_ptc2=there have been
+|past_ptc2_qual=note3
+|note1=Nonstandard.
+|note2=Singular.
+|note3=Plural.}}
 
 ====Quotations====
 * {{seeCites|en}}
