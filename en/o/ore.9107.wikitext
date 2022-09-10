@@ -285,19 +285,21 @@ From {{inh|dum|odt|ōra}}, from {{inh|dum|gem-pro|*ausô}}.
 ==Middle English==
 
 ===Etymology 1===
-From the oblique forms of {{inh|enm|ang|ār}}, from {{inh|enm|gmw-pro|*airu}}, from {{inh|enm|gem-pro|*airō}}.
+{{etymid|enm|oar}}
+From the oblique forms of {{inh|enm|ang|ār|t=oar|id=oar}}, from {{inh|enm|gmw-pro|*airu}}, from {{inh|enm|gem-pro|*airō}}.
 
 ====Alternative forms====
-* {{alter|enm|hore}}
+* {{alter|enm|hore|oore}}
 * {{alter|enm|are|aurre||Northern}}
 
 ====Pronunciation====
 * {{IPA|enm|/ˈɔːr(ə)/}}
+* {{a|Northern}} {{IPA|enm|/aːr/}}
 
 ====Noun====
 {{enm-noun}}
 
-# [[oar]]
+# [[oar]] {{gloss|[[lever]] for propelling a [[boat]]}}
 
 =====Descendants=====
 * {{desc|en|oar}}
@@ -307,41 +309,97 @@ From the oblique forms of {{inh|enm|ang|ār}}, from {{inh|enm|gmw-pro|*airu}}, f
 * {{R:MED Online|entry=ōr(e|pos=n.(1)|id=MED30848}}
 
 ===Etymology 2===
+{{etymid|enm|honour}}
+From the oblique forms of {{inh|enm|ang|ār|t=honour|id=honour}}, from {{inh|enm|gmw-pro|*aiʀu}}, from {{inh|enm|gem-pro|*aizō}}.
+
+====Alternative forms====
+* {{alter|enm|oore|or|ȝore}}
+* {{alter|enm|aore|are|ære||early}}
+* {{alter|enm|ar|are||Northern}}
+
+====Pronunciation====
+* {{IPA|enm|/ˈɔːr(ə)/}}
+* {{a|early}} {{IPA|enm|/ˈɑːr(ə)/}}
+* {{a|Northern}} {{IPA|enm|/aːr/}}
+
+====Noun====
+{{enm-noun|-}}
+
+# [[honour]], [[respect]] {{gloss|[[recognition]] of [[value]]}}
+# [[grace]], [[favour]] {{gloss|positivity towards [[someone]]}}::
+## [[permission]], [[approval]] {{gloss|to engage in a [[behaviour]]}}
+## [[mercy]], [[clemency]] {{gloss|remission of [[punishment]]}}
+# [[respite]], [[security]] {{gloss|safety from harm}}
+
+=====Descendants=====
+* {{desc|en|oar}}
+* {{desc|sco|air}}
+
+=====References=====
+* {{R:MED Online|entry=ōr(e|pos=n.(2)|id=MED30849}}
+
+===Etymology 3===
+{{etymid|enm|ore}}
+Originally two distinct nouns:
+* {{inh|enm|ang|ōra}}, of unknown origin, perhaps connected to {{m|ang|ēar|t=earth}}.
+* {{inh|enm|ang|ār|id=brass|t=brass}}, from {{inh|enm|gmw-pro|*aiʀ}}, from {{inh|enm|gem-pro|*aiz}}, from {{inh|enm|ine-pro|*h₂éyos}}.
+
+====Alternative forms====
+* {{alter|enm|hure|oer|or|oor|oore|oure|ure}}
+
+====Pronunciation====
+* {{IPA|enm|/ˈoːr(ə)/|/ˈɔːr(ə)/}}
+
+====Noun====
+{{enm-noun}}
+
+# {{l|en|ore}} {{gloss|[[rock]] that contains [[metal]]}}
+
+=====Descendants=====
+* {{desc|en|ore}}
+* {{desc|sco|ure|uir}}
+
+=====References=====
+* {{R:MED Online|entry=ọ̄r(e|pos=n.(3)|id=MED30850}}
+
+===Etymology 4===
 
 ====Noun====
 {{head|enm|noun}}
 
 # {{alt form|enm|oure|id=aurochs|t=aurochs}}
 
-===Etymology 3===
+===Etymology 5===
 
 ====Determiner====
 {{head|enm|determiner}}
 
 # {{alt form|enm|oure|t=our|id=our}}
 
-===Etymology 4===
+===Etymology 6===
 
 ====Determiner====
 {{head|enm|determiner}}
 
 # {{alt form|enm|your}}
 
-===Etymology 5===
+===Etymology 7===
 
 ====Determiner====
 {{head|enm|determiner}}
 
 # {{lb|enm|chiefly|Early ME|and|West Midlands ME}} {{alt form|enm|here|t=their|id=their}}
 
-===Etymology 6===
+===Etymology 8===
 
 ====Noun====
 {{head|enm|noun}}
 
 # {{alt form|enm|hore|t=muck|id=muck}}
 
+[[Category:enm:Emotions]]
 [[Category:enm:Nautical]]
+[[Category:enm:Stones]]
 [[Category:enm:Tools]]
 
 ----
