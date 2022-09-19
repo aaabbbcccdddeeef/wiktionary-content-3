@@ -49,16 +49,16 @@ From {{inh|en|enm|influence}}, from {{der|en|fro|influence||emanation from the s
 * Armenian: {{t-needed|hy}}
 * Azerbaijani: {{t+|az|nüfuz}}, {{t+|az|təsir}}
 * Basque: {{t-needed|eu}}
-* Belarusian: {{t|be|уплы́ў|m|sc=Cyrl}}, {{t|be|ўплыў|m|sc=Cyrl}}
+* Belarusian: {{t|be|уплы́ў|m}}, {{t|be|ўплыў|m}}
 * Breton: {{t+|br|levezon|f}}
 * Bulgarian: {{t+|bg|влия́ние|n}}
 * Catalan: {{t+|ca|influència|f}}
 * Chinese:
-*: Cantonese: {{t|yue|影響|tr=jing2 hoeng2|sc=Hani}}
-*: Mandarin: {{t+|cmn|影響|sc=Hani}}, {{t+|cmn|影响|tr=yǐngxiǎng|sc=Hani}}
+*: Cantonese: {{t|yue|影響}}, {{t|yue|影响|tr=jing2 hoeng2}}
+*: Mandarin: {{t+|cmn|影響}}, {{t+|cmn|影响|tr=yǐngxiǎng}}
 * Czech: {{t+|cs|vliv|m}}
-* Danish: {{t|da|indflydelse}}
-* Dutch: {{t+|nl|invloed}}, {{t+|nl|impact}}
+* Danish: {{t|da|indflydelse|c}}
+* Dutch: {{t+|nl|invloed|m}}, {{t+|nl|impact|m}}
 * Esperanto: {{t|eo|influo}}
 * Estonian: {{t-needed|et}}
 * Finnish: {{t+|fi|vaikutus}}, {{t+|fi|vaikutusvalta}}
@@ -74,23 +74,26 @@ From {{inh|en|enm|influence}}, from {{der|en|fro|influence||emanation from the s
 * Indonesian: {{t+|id|pengaruh}}
 * Irish: {{t|ga|tionchar|m}}
 * Italian: {{t+|it|influenza|f}}, {{t+|it|ascendente|m}}
-* Japanese: {{t+|ja|影響力|tr=えいきょうりょく, eikyōryoku}}
+* Japanese: {{t+|ja|影響力|tr=えいきょうりょく, eikyōryoku}}, {{t+|ja|影響|tr=えいきょう, eikyō}}
 {{trans-mid}}
 * Khmer: {{t|km|ឥទ្ធិពល}}
 * Korean: {{t+|ko|영향력(影響力)}}, {{t+|ko|영향(影響)}}
 * Latvian: {{t|lv|ietekme|f}}, {{t|lv|iedarbība}}, {{t|lv|iedarbe|f}}
-* Lithuanian: {{t-needed|lt}}
+* Lithuanian: {{t|lt|įtaka|f}}
 * Macedonian: {{t|mk|влијание|n}}
 * Malagasy: {{t+|mg|fianjadiana}}
 * Malayalam: {{t+|ml|സ്വാധീനം}}
 * Maori: {{t|mi|awe}}, {{t|mi|aweawe}}, {{t|mi|awenga}}
-* Mongolian: {{t-needed|mn}}
+* Mongolian:
+*: Cyrillic: {{t-needed|mn}}
 * Polish: {{t+|pl|wpływ|m}}
 * Portuguese: {{t+|pt|influência|f}}
 * Romanian: {{t+|ro|influență|f}}
 * Russian: {{t+|ru|влия́ние|n}}, {{t+|ru|влия́тельность|n}}
 * Scottish Gaelic: {{t|gd|cumhachd|m|f}}
-* Serbo-Croatian: {{t+|sh|utjecaj}}, {{t|sh|утицај|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|у̏теца̄ј|m}}, {{t|sh|у̏тјеца̄ј|m}}, {{t|sh|у̏тица̄ј|m}}
+*: Roman: {{t+|sh|ȕtecāj|m}}, {{t+|sh|ȕtjecāj|m}}, {{t+|sh|ȕticāj|m}}
 * Slovak: {{t|sk|vplyv|m}}
 * Slovene: {{t|sl|vpliv|m}}
 * Sorbian:
@@ -102,7 +105,7 @@ From {{inh|en|enm|influence}}, from {{der|en|fro|influence||emanation from the s
 * Tagalog: {{t|tl|impluwensiya}}
 * Thai: {{t+|th|อิทธิพล}}
 * Turkish: {{t-needed|tr}}
-* Ukrainian: {{t|uk|вплив|m|sc=Cyrl}}, {{t|uk|упли́в|m|sc=Cyrl}}
+* Ukrainian: {{t|uk|вплив|m}}, {{t|uk|упли́в|m}}
 * Vietnamese: {{t+|vi|ảnh hưởng}}
 * Volapük: {{t+|vo|flun}}
 * Welsh: {{t-needed|cy}}
@@ -110,10 +113,10 @@ From {{inh|en|enm|influence}}, from {{der|en|fro|influence||emanation from the s
 
 {{trans-top|action exerted by a person or thing with power to cause change}}
 * Arabic: {{t|ar|تَأْثِير|m}}
-* Bulgarian: {{t+|bg|въздействие|n}}
+* Bulgarian: {{t+|bg|възде́йствие|n}}
 * Catalan: {{t+|ca|influència|f}}
 * Chinese:
-*: Mandarin: {{t+|cmn|影響|sc=Hani}}, {{t+|cmn|影响|tr=yǐngxiǎng|sc=Hani}}
+*: Mandarin: {{t+|cmn|影響}}, {{t+|cmn|影响|tr=yǐngxiǎng}}
 * Dutch: {{t+|nl|invloed}}, {{t+|nl|beïnvloeding}}
 * Finnish: {{t+|fi|vaikutus}}
 * French: {{t+|fr|influence|f}}
@@ -158,7 +161,7 @@ From {{inh|en|enm|influence}}, from {{der|en|fro|influence||emanation from the s
 * Romanian: {{t|ro|influențător|m|n}}
 * Slovene: {{t|sl|vpliv|m}}
 * Sorbian:
-*: Lower Sorbian: {{t|dsb| wliw |m}}
+*: Lower Sorbian: {{t|dsb|wliw|m}}
 * Spanish: {{t+|es|influencia|f}}
 * Swedish: {{t+|sv|inflytande|n}}
 * Vietnamese: {{t+|vi|ảnh hưởng}}
@@ -176,7 +179,7 @@ From {{inh|en|enm|influence}}, from {{der|en|fro|influence||emanation from the s
 {{trans-see|action of flowing in; influx|influx}}
 
 {{trans-top|electrostatic induction}}
-* Bulgarian: {{t+|bg|индукция|f}}
+* Bulgarian: {{t+|bg|инду́кция|f}}
 * Dutch: {{t+|nl|inductie}}
 * Finnish: {{t|fi|[[sähköstaattinen]] [[induktio]]}}
 * Greek: {{t+|el|επιρροή|f}}
@@ -187,11 +190,8 @@ From {{inh|en|enm|influence}}, from {{der|en|fro|influence||emanation from the s
 {{trans-bottom}}
 
 {{checktrans-top}}
-* Arabic: {{t-check|ar|تأثير}}
 * Ido: {{t+check|io|influo}}, {{t+check|io|influeso}}
-* Italian: {{t-check|it|Influenza}}
 {{trans-mid}}
-* Lithuanian: {{t-check|lt|įtaka|f}}
 * Swedish: {{t+check|sv|inflytande|n}}
 * Telugu: {{t+check|te|ప్రభావము}}
 {{trans-bottom}}
