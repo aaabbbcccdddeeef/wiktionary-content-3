@@ -170,9 +170,10 @@ From {{bor|en|hu|Budapest}}, from {{compound|hu|Buda|Pest|nocat=y}}.
 
 ==Hungarian==
 {{slim-wikipedia|lang=hu}}
+[[File:Budapest, Hungary (explored) (14995308504).jpg|thumb|Budapest]]
 
 ===Etymology===
-{{compound|hu|Buda|Pest|pos=noun}}
+From {{compound|hu|Buda|Pest|pos=proper noun}}.
 
 ===Pronunciation===
 * {{hu-IPA}}
@@ -184,12 +185,16 @@ From {{bor|en|hu|Budapest}}, from {{compound|hu|Buda|Pest|nocat=y}}.
 {{head|hu|proper noun}}
 
 # {{place|hu|capital city|c/Hungary|t1=Budapest}}
+#: {{syn|hu|Pest-Buda|q1=historical}}
 
 ====Declension====
 {{hu-infl-nom|Budapeste|e|n=sg}}{{hu-pos-etek|Budapest|j|jei|n=sg}}
 
 ====Derived terms====
-* {{l|hu|budapesti}}
+{{col4|hu
+|[[Bp.]] {{q|abbreviation}}
+|budapesti
+}}
 
 ----
 
