@@ -38,21 +38,31 @@
 ----
 
 ==Polish==
-{{wp|Armia Krajowa|lang=pl}}
-{{wp|Akcja Katolicka|lang=pl}}
 
 ===Pronunciation===
-{{pl-p|a'ka|h=A.K.}}
+{{pl-p|a'ka|a=Pl-AK.ogg|h=A.K.}}
 
-===Noun===
-{{pl-noun|n|indecl=1}}
+===Etymology 1===
+{{wp|Armia Krajowa|lang=pl}}
+{{initialism of|pl|Armia Krajowa}}
 
-# {{lb|pl|historical|military}} {{initialism of|pl|Armia Krajowa}}
-# {{lb|pl|Roman Catholicism}} {{initialism of|pl|{{w|Catholic Action|Akcja Katolicka}}}}
+====Noun====
+{{pl-noun|n|indecl=yes}}
 
-====Derived terms====
+# {{lb|pl|historical|military}} {{abbreviation of|pl|Armia Krajowa}}
+
+=====Derived terms=====
 {{col3|pl|title=adjective|akowski}}
 {{col3|pl|title=noun|akowiec}}
+
+===Etymology 2===
+{{wp|Akcja Katolicka|lang=pl}}
+{{initialism of|pl|{{w|Catholic Action|Akcja Katolicka}}}}
+
+====Noun====
+{{pl-noun|n|indecl=yes}}
+
+# {{lb|pl|Roman Catholicism}} {{abbreviation of|pl|{{w|Catholic Action|Akcja Katolicka}}}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
