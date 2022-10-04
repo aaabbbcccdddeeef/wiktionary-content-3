@@ -213,7 +213,7 @@ Borrowed from {{bor|nl|fr|alerte}}.
 {{wp|lang=pl}}
 
 ===Etymology===
-{{bor+|pl|fr|alerte}}, from {{bor|pl|it|all'erta}}.
+{{bor+|pl|fr|alerte|nocat=1}} or {{bor|pl|en|alert|nocat=1}}, from {{der|pl|it|all'erta}}.<ref>{{R:pl:WSWO}}</ref><ref name=R:pl:Bańkowski>{{R:pl:Bańkowski}}</ref> {{etydate|second half of the 20th century|refn=R:pl:Bańkowski}}
 
 ===Pronunciation===
 {{pl-p|a=LL-Q809 (pol)-Poemat-alert.wav}}
@@ -221,12 +221,18 @@ Borrowed from {{bor|nl|fr|alerte}}.
 ===Noun===
 {{pl-noun|m-in}}
 
-# {{l|en|alert}} {{gl|a device used to alarm people}}
+# {{l|en|alert}} {{gl|device used to alarm people}}
 #: {{syn|pl|alarm}}
-# {{l|en|alert}} {{gl|a sound used to alarm people}}
+#: {{coi|pl|antyterrorystyczny '''alert'''|a terrorist '''alert'''}}
+# {{l|en|alert}} {{gl|sound used to alarm people}}
 #: {{syn|pl|alarm}}
-# {{l|en|alert}} {{gl|the state of being alerted}}
-# {{lb|pl|military}} {{l|en|alert}} {{gl|a state of readiness for potential combat}}
+# {{l|en|alert}} {{gl|state of being alerted}}
+#: {{coi|pl|pomarańczowy '''alert'''|orange '''alert'''}}
+#: {{coi|pl|czerwony '''alert'''|red '''alert'''}}
+#: {{coi|pl|'''alert''' ekologiczny|an ecological '''alert'''}}
+#: {{coi|pl|ogłaszać/ogłosić '''alert'''|to declare '''alert'''}}
+#: {{coi|pl|'''alert''' obowiązuje|'''alert''' holds form/applies to}}
+# {{lb|pl|military}} {{l|en|alert}} {{gl|state of readiness for potential combat}}
 # {{lb|pl|technology}} {{l|en|alert}}
 #: {{syn|pl|powiadomienie}}
 
@@ -235,6 +241,10 @@ Borrowed from {{bor|nl|fr|alerte}}.
 
 ====Derived terms====
 {{col3|pl|title=adjective|alertowy}}
+
+===References===
+<references/>
+* {{R:pl:NKJP}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
