@@ -863,21 +863,72 @@ From {{der|pro|la|ille|t=that}}.
 
 ----
 
+==Old Polish==
+
+===Etymology===
+{{inh+|zlw-opl|sla-pro|*li}}.<ref>{{R:pl:Boryś}}</ref><ref>{{R:pl:Bańkowski}}</ref> {{etydate|1395}}
+
+===Particle===
+{{head|zlw-opl|particle}}
+
+# {{n-g|interrogative particle: introduces a [[yes-no question]]}}
+# {{lb|zlw-opl|when reduplicated}} [[whether]] … [[or]]
+# {{lb|zlw-opl|when reduplicated}} [[both]] … [[and]]
+
+===Conjunction===
+{{head|zlw-opl|conjunction}}
+
+# [[if]]
+
+====Derived terms====
+{{col3|zlw-opl|title=conjunctions|atoli|czyli|jeśli}}
+
+====Related terms====
+{{col3|zlw-opl|title=conjunction|albo|ale|le}}
+
+====Descendants====
+* {{desc|pl|li}}
+
+===References===
+* {{R:zlw-opl:SSP1953|li|4|33}}
+
+----
+
 ==Polish==
 
 ===Pronunciation===
 {{pl-p|a=LL-Q809 (pol)-Olaf-li.wav}}
 
 ===Etymology 1===
-{{inh+|pl|sla-pro|*li}}.
+{{inh+|pl|zlw-opl|li}}, from {{inh|pl|sla-pro|*li}}.<ref>{{R:pl:Boryś}}</ref><ref>{{R:pl:Bańkowski}}</ref> {{etydate|1395|ref={{R:zlw-opl:SSP1953|li|4|33}}}}
 
 ====Particle====
 {{head|pl|particle}}
 
-# {{lb|pl|obsolete}} [[only]]
+# {{lb|pl|archaic|literary}} {{n-g|interrogative particle: introduces a [[yes-no question]]}}
+#: {{syn|pl|czy}}
+# {{lb|pl|archaic|literary}} [[only]]
+# {{lb|pl|Middle Polish}} {{n-g|emphasis particle}}
+
+===Conjunction===
+{{head|pl|conjunction}}
+
+# {{lb|pl|Middle Polish}} [[if]]
+#: {{syn|pl|jeśli}}
+# {{lb|pl|Middle Polish}} [[since]], [[because]]
+#: {{syn|pl|skoro}}
+# {{lb|pl|Middle Polish}} [[though]]
+#: {{syn|pl|acz|aczkolwiek|chociaż|mimo że}}
+# {{lb|pl|Middle Polish}} [[when]]
+#: {{syn|pl|kiedy}}
+# {{lb|pl|Middle Polish}} [[or]]
+#: {{syn|pl|albo|bądź|czy|lub}}
 
 =====Derived terms=====
-{{col3|pl|title=conjunctions|aniżeli|aniżeliby|atoli}}
+{{col3|pl|title=conjunctions|aniżeli|aniżeliby}}
+
+=====Related terms=====
+{{col3|pl|title=conjunctions|albo|ale|atoli|czyli|jeśli|le}}
 
 ===Etymology 2===
 {{bor+|pl|cmn|-}} {{zh-l|里}}.
@@ -885,8 +936,8 @@ From {{der|pro|la|ille|t=that}}.
 ====Noun====
 {{head|pl|noun|g=n|indeclinable}}
 
-# [[#English|li]], Chinese unit of distance
-# [[#English|li]], Chinese unit of weight
+# {{l|en|li}} {{gl|Chinese unit of distance}}
+# {{l|en|li}} {{gl|Chinese unit of weight}}
 
 ===Etymology 3===
 From {{der|pl|cmn|-}} {{zh-l|禮}}.
@@ -894,11 +945,21 @@ From {{der|pl|cmn|-}} {{zh-l|禮}}.
 ====Noun====
 {{head|pl|noun|g=n|indeclinable}}
 
-# [[#English|li]], a meaningful ceremony or ritual
+# {{l|en|li}} {{gl|meaningful ceremony or ritual}}
+
+===References===
+<references/>
+* {{R:pl:SXVI|li|61888}}
 
 ===Further reading===
 * {{R:pl:WSJP}}
 * {{R:pl:PWN}}
+* {{R:pl:SJP1807}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900|li|2730|2}}
+* {{R:pl:SJPD}}
+* {{R:pl:NFJP}}
+* {{R:pl:NKJP}}
 
 {{C|pl|Units of measure}}
 
