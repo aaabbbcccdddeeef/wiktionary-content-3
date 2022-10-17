@@ -1,11 +1,309 @@
+{{also|Operator|operatör|operatőr|operatør|operátor}}
 ==English==
 
+===Etymology===
+{{root|en|ine-pro|*h₃ep-}}
+Borrowed from {{bor|en|la|operatōr}}, from {{m|la|operor||work, labour}}. Equivalent to {{suffix|en|operate|-or}}.
+
+===Pronunciation===
+* {{a|RP}} {{IPA|en|/ˈɒpəˌɹeɪtə/}}
+* {{a|GenAm}} {{IPA|en|/ˈɑpəˌɹeɪɾɚ/}}
+* {{audio|en|LL-Q1860 (eng)-Vealhurl-operator.wav|Audio (UK)}}
+* {{hyph|en|op|er|ator}}
+
+===Noun===
+{{en-noun|~}}
+
+# One who [[operate]]s.
+#* {{RQ:Churchill Celebrity|chapter=1|passage=The stories did not seem to me to touch life. […] They left me with the impression of a well-delivered stereopticon lecture, with characters about as life-like as the shadows on the screen, and whisking on and off, at the mercy of the '''operator'''.}}
+# A [[telecommunications]] [[facilitator]] whose job is to establish temporary network connections.
+# {{lb|en|mathematics}} A [[function]] or other [[mapping]] that carries [[variables]] [[defined]] on a [[domain]] into another variable or set of variables in a defined [[range]]. [[Category:en:Functions]]
+# {{lb|en|uncountable}} The game of [[Chinese whispers]].
+# {{senseid|en|person making deals}} {{lb|en|informal}} A person who is [[adept]] at making [[deal]]s or getting [[results]], especially one who uses [[questionable]] methods.
+#* '''1990''', ''[[w:House of Cards (UK TV show)|House of Cards]]'', Season 1, Episode 1:
+#*: ''Francis Urquhart:'' I think Lord Billsborough is starting to [[lose touch]] a bit.<br>''Tim Stamper:'' Shame. Used to be a hell of an '''operator''' in his day.
+# A member of a [[military]] special operations unit.
+# {{lb|en|computing}} The administrator of a [[channel]] or [[network]] on [[IRC]].
+# {{lb|en|computing}} A [[symbol]] that represents a [[construct]] in a [[programming language]] and differs from a normal [[function]] in its [[syntax]].
+# {{lb|en|linguistics}} A kind of [[expression]] that enters into an a-bar movement dependency and is said to [[bind]] a [[variable]].
+#: ''In the sentence "What did Bill say he wants to buy?", "what" is an '''operator''', binding a phonetically empty variable.''
+
+====Hyponyms====
+{{col4
+|en|arithmetic operator
+|assignment operator
+|binary operator
+|bitwise operator
+|conditional operator
+|comparison operator
+|differential operator
+|Elvis operator
+|infix operator
+|integral operator
+|lifted operator
+|logic operator
+|smooth operator
+|ternary operator
+|unary operator
+|walrus operator
+}}
+
+====Related terms====
+{{rel4|en
+|opera
+|operable
+|operand
+|operant
+|operate
+|operation
+|operational
+|operative
+|opus
+}}
+
+====Translations====
+{{trans-top|one who operates}}
+* Belarusian: {{t|be|апера́тар|m}}
+* Bulgarian: {{t+|bg|опера́тор|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|操作者|tr=cāozuòzhě|sc=Hani}}
+* Danish: {{t|da|operatør}}
+* Dutch: {{t+|nl|bediener|m}}
+* Finnish: {{t+|fi|toimija}}, {{t+|fi|operaattori}}; {{t+|fi|käyttäjä}}, {{t+|fi|koneenkäyttäjä}} {{qualifier|machine operator}}, {{t+|fi|kuljettaja}} {{qualifier|lit. driver}}; {{t+|fi|liikennöitsijä}} {{qualifier|transportation}}
+* French: {{t+|fr|opérateur|m}}
+* Galician: {{t+|gl|operador|m}}
+* German: {{t+|de|Betreiber|m}}
+* Greek: {{t+|el|χειριστής|m}}
+{{trans-mid}}
+* Hebrew: {{t|he|מפעיל|m|tr=maf3íl|sc=Hebr}}
+* Hungarian: {{t+|hu|kezelő}}, {{t+|hu|gépkezelő}}, {{t|hu|üzemeltető}}, {{t|hu|üzembentartó}}
+* Japanese: {{t|ja|操作者|tr=そうさしゃ, sōsasha|sc=Jpan}}, {{t|ja|オペレーター|tr=operētā|sc=Jpan}}
+* Korean: {{t|ko|조작자}}, {{t|ko|오퍼레이터}}
+* Polish: {{t+|pl|operator|m}}
+* Portuguese: {{t+|pt|operador|m}}
+* Romanian: {{t+|ro|operator|m}}
+* Russian: {{t+|ru|опера́тор|m}}
+* Serbo-Croatian: {{t+|sh|operater|m}}, {{t|sh|оператер|m}}
+* Spanish: {{t+|es|operador|m}}
+* Swedish: {{t+|sv|operatör|c}}
+* Turkish: {{t+|tr|operatör}}
+* Ukrainian: {{t|uk|опера́тор|m}}
+{{trans-bottom}}
+
+{{trans-top|telecommunications operator}}
+* Chinese:
+*: Mandarin: {{t+|cmn|話務員|sc=Hani}}, {{t+|cmn|话务员|tr=huàwùyuán|sc=Hani}}, {{t+|cmn|接線員|sc=Hani}}, {{t+|cmn|接线员|tr=jiēxiànyuán|sc=Hani}}
+* Danish: {{t|da|telefonist}}, {{t|da|telefonistinde}}
+* Finnish: {{t+|fi|operaattori}}, {{t+|fi|teleoperaattori}}; {{t|fi|keskuksenhoitaja}}, {{t|fi|vaihteenhoitaja}}
+* French: {{t+|fr|téléphoniste|m|f}}
+* Galician: {{t|gl|telefonista|m|f}}
+* German: {{t+|de|Telefonist|f}}, {{t+|de|Telefonistin|f}}, {{t+|de|Vermittlung|f}}
+* Greek: {{t+|el|τηλεφωνητής|m}}, {{t+|el|τηλεφωνήτρια|f}}
+* Hebrew: {{t|he|מרכזיה|f|tr=merkaziyá|sc=Hebr}}
+{{trans-mid}}
+* Hungarian: {{t+|hu|kezelő}}, {{t+|hu|operátor}}, {{q|archaic}} {{t|hu|[[telefonos]] [[kisasszony]]}}
+* Japanese: {{t|ja|交換手|tr=こうかんしゅ, kōkanshu|sc=Jpan}}
+* Persian: {{t+|fa|اپراتور|tr=operātor|sc=fa-Arab}}, {{t+|fa|تلفنچی|tr=telefonči|sc=fa-Arab}}
+* Polish: {{t+|pl|operator|m}}
+* Portuguese: {{t|pt|telefonista|m|f}}
+* Romanian: {{t+|ro|operator|m}}, {{t+|ro|operatoare|f}}, {{t+|ro|telefonistă|f}}
+* Russian: {{t+|ru|телефони́ст|m}}, {{t+|ru|телефони́стка|f}}, {{t+|ru|опера́тор|m}}
+* Serbo-Croatian: {{t+|sh|operater|m}}, {{t|sh|оператер|m}}
+* Swedish: {{t+|sv|telefonist|c}}, {{t|sv|telebolag|n}}, {{t+|sv|operatör|c}}
+* Turkish: {{t+|tr|operatör}}
+{{trans-bottom}}
+
+{{trans-top|mathematical operator}}
+* Chinese:
+*: Mandarin: {{t+|cmn|算子|tr=suànzi|sc=Hani}}
+* Czech: {{t+|cs|operátor|m}}
+* Danish: {{t|da|operator}}
+* Esperanto: {{t+|eo|operacio}}
+* Finnish: {{t+|fi|operaattori}}
+* French: {{t+|fr|opérateur|m}}
+* German: {{t+|de|Operator|m}}, {{t+|de|Rechenzeichen|n}}
+* Greek: {{t+|el|τελεστής|m}}
+* Hungarian: {{t+|hu|műveleti jel}}, {{t+|hu|operátor}}
+* Icelandic: {{t|is|virki|m}}
+* Italian: {{t+|it|operatore|m}}
+{{trans-mid}}
+* Japanese: {{t|ja|演算子|tr=えんざんし, enzanshi|sc=Jpan}}, {{t+|ja|作用素|tr=さようそ, sayōso|sc=Jpan}}
+* Kazakh: {{t|kk|оператор}}
+* Persian: {{t+|fa|عملگر|tr='amalgar|sc=fa-Arab}}
+* Polish: {{t+|pl|operator|m}}
+* Portuguese: {{t+|pt|operador|m}}
+* Romanian: {{t+|ro|operator|m}}
+* Russian: {{t+|ru|опера́тор|m}}
+* Serbo-Croatian: {{t+|sh|operator|m}}, {{t|sh|djelatelj|m}}
+* Swedish: {{t+|sv|operator|c}}
+* Tagalog: {{t|tl|pakilos}}
+* Turkish: {{t+|tr|operatör}}
+{{trans-bottom}}
+
+{{trans-see|Chinese whispers}}
+
+{{trans-top|the administrator of a channel or network on IRC}}
+* Greek: {{t+|el|διαχειριστής|m}}, {{t+|el|διαχειρίστρια|f}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===References===
+* {{pedia}}
+
+===Anagrams===
+* {{anagrams|en|a=aeooprrt|aeroport|aëroport|poor rate}}
+
+[[Category:en:People]]
+
+----
+
 ==Latin==
+
+===Etymology===
+{{suffix|la|operor|tor}}.
+
+===Pronunciation===
+* {{la-IPA|operātor}}
+
+===Noun===
+{{la-noun|operātor<3>}}
+
+# [[worker]], [[#English|operator]]
+
+====Declension====
+{{la-ndecl|operātor<3>}}
+
+====Descendants====
+{{top2}}
+* {{desc|ca|obrador}}
+* {{desc|en|operator|bor=1}}
+* {{desc|fr|opérateur|bor=1}}
+* {{desc|it|operatore}}
+* {{desc|fro|ovrëor}}
+** {{desc|fr|ouvreur}}
+* {{desc|pms|operator}}
+* {{desc|pt|obrador}}
+* {{desc|ro|operator|bor=1}}
+* {{desc|ru|опера́тор|bor=1}}
+* {{desc|es|obrador}}
+{{bottom}}
+
+===Verb===
+{{la-verb-form|operātor}}
+
+# {{inflection of|la|operor||2//3|s|futr|actv|impr}}
+
+===References===
+* {{R:L&S}}
+* {{R:du Cange}}
+* {{R:Gaffiot}}
+
+----
+
+==Northern Kurdish==
+
+===Etymology===
+* Ultimately from {{der|kmr|la|operātor|t=worker}}, probably through {{bor|kmr|en|operator}}.
+
+===Pronunciation===
+* {{kmr-IPA}}
+
+===Noun===
+{{kmr-noun}}
+
+# [[surgeon]]
+{{rfq|kmr}}
+
+----
 
 ==Polish==
 {{wp|lang=pl}}
 
+===Etymology===
+{{bor+|pl|fr|opérateur}}, from {{der|pl|la|operātor}}.
+
+===Pronunciation===
+{{pl-p|a=LL-Q809 (pol)-Poemat-operator.wav}}
+
+===Noun===
+{{pl-noun|m-pr|f=operatorka}}
+
+# [[machinist]], {{l|en|operator}}
+# {{lb|pl|medicine}} [[surgeon]]
+#: {{syn|pl|chirurg}}
+# {{lb|pl|cinematography}} [[cameraman]], [[cinematographer]]
+# {{lb|pl|telecommunications}} {{l|en|operator}} {{gl|company providing operator services}}
+
+====Declension====
+{{pl-decl-noun-m-pr}}
+
+===Noun===
+{{pl-noun|m-in}}
+
+# {{lb|pl|mathematics}} {{l|en|operator}}
+# {{lb|pl|linguistics}} {{l|en|operator}}
+
+====Declension====
+{{pl-decl-noun-m-in}}
+
+====Derived terms====
+{{col3|pl|title=adjectives|operatorski|operatorowy}}
+{{col3|pl|title=noun|operatornia}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+
+{{C|pl|Male people|Occupations}}
+
+----
+
+==Romanian==
+
+===Etymology===
+From {{bor|ro|fr|opérateur}} or {{bor|ro|la|operator}}.
+
+===Adjective===
+{{ro-adj}}
+
+# [[operating]]
+
+====Declension====
+{{ro-decl-adj}}
+
+===Noun===
+{{ro-noun|m|operatori}}
+
+# [[worker]], [[#English|operator]]
+
+====Declension====
+{{ro-noun-m}}
+
+----
+
 ==Serbo-Croatian==
+
+===Pronunciation===
+* {{IPA|sh|/opěraːtor/}}
+* {{hyphenation|sh|o|pe|ra|tor}}
+
+===Noun===
+{{sh-noun|g=m|head=opèrātor}}
+
+# {{lb|sh|mathematics}} [[#English|operator]]
+
+====Declension====
+{{sh-decl-noun
+|operator|operatori
+|operatora|operatora
+|operatoru|operatorima
+|operator|operatore
+|operatore|operatori
+|operatoru|operatorima
+|operatorom|operatorima
+}}
+
+----
 
 ==Swedish==
 
@@ -13,3 +311,6 @@
 {{sv-noun|c}}
 
 # {{lb|sv|mathematics|computing}} an [[#English|operator]]
+
+====Declension====
+{{sv-infl-noun-c-r|3=operatore}}
