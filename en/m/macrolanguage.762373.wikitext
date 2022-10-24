@@ -35,5 +35,8 @@ From {{prefix|en|macro|language}}.
 #*: For this reason, the Ethnologue (2009) recognizes Chinese in their list of languages of China not as a language, but as a '''macrolanguage''', i.e. multiple, closely related individual languages that are deemed in some usage contexts to be a {{...}}
 # {{lb|en|ISO|linguistics}} A group of mutually intelligible speech varieties that are sometimes considered distinct languages.
 
+====Usage notes====
+"Macrolanguage" is generally avoided in linguistics as it has no defined meaning. Its primary usage is a bureaucratic device, used by the [[ISO]] to coordinate between ISO 639-2 and ISO 639-3 when they have different definitions of a language: The ISO 639-2 definition of a language is based on a shared writing system and literature, while the ISO 639-3 definition is based on mutual intelligibility (with some exceptions such as [[Serbo-Croatian]], [[Hindustani]] and [[Malay]], which are single languages linguistically but which for political reasons have been assigned multiple ISO 639-3 codes). This results in e.g. Chinese, Arabic and Quechua being coded as languages under ISO 639-1 and ISO 639-2 but not under ISO 639-3, so they are assigned macrolanguage codes under ISO 639-3.
+
 ===Further reading===
 * {{pedia|ISO 639 macrolanguage}}
