@@ -128,7 +128,7 @@ From {{inh|en|enm|joinen}}, {{m|enm|joynen}}, {{m|enm|joignen}}, from {{der|en|f
 * Bulgarian: {{t+|bg|обединя́вам|impf}}, {{t|bg|обединя́|pf}}, {{t+|bg|съединя́вам|impf}}, {{t|bg|съединя́|pf}}
 * Chinese:
 *: Mandarin: {{t+|cmn|連接}}, {{t+|cmn|连接|tr=liánjiē}}
-* Czech: {{t+|cs|spojit}}, {{t+|cs|spojovat|impf}}
+* Czech: {{t+|cs|spojovat|impf}}, {{t+|cs|spojit|pf}}
 * Dutch: {{t+|nl|samenvoegen}}, {{t+|nl|verenigen}}
 * Finnish: {{t+|fi|liittää}}
 * French: {{t+|fr|joindre}}
@@ -139,14 +139,14 @@ From {{inh|en|enm|joinen}}, {{m|enm|joynen}}, {{m|enm|joignen}}, from {{der|en|f
 * Gothic: {{t|got|𐌲𐌰𐌷𐌰𐍆𐍄𐌾𐌰𐌽}}, {{t|got|𐌲𐌰𐍅𐌹𐌳𐌰𐌽}}
 * Greek:
 *: Ancient: {{t|grc|συνάπτω}}, {{t|grc|ἁρμόζω}}, {{t|grc|ζεύγνυμι}}
-* Hebrew: {{t|he|הצטרף|tr=hitstaréf}}
+* Hebrew: {{t|he|הִצְטָרֵף|tr=hitstaréf}}
 * Hungarian: {{t+|hu|összekapcsol}}, {{t+|hu|összeköt}}
 * Icelandic: {{t|is|sameina}}
 * Indonesian: {{t+|id|sambung}}
 * Irish:
 *: Old Irish: {{t|sga|ad·comla}}
 * Italian: {{t+|it|unire}}, {{t+|it|giuntare}}
-* Japanese: {{t+|ja|つなげる|tr=tsunageru}}, {{t|ja|[[接続]]する|tr=setsuzoku suru}}, {{t|ja|[[結合]]する|tr=ketsugō suru}}
+* Japanese: {{t+|ja|繋げる|tr=つなげる, tsunageru}}, {{t+|ja|接続|tr=せつぞくする, setsuzoku suru|alt=接続する}}, {{t+|ja|結合|tr=けつごうする, ketsugō suru|alt=結合する}}
 {{trans-mid}}
 * Javanese: {{t|jv|sambung}}
 * Kabuverdianu: {{t|kea|djunta}}
@@ -191,7 +191,7 @@ From {{inh|en|enm|joinen}}, {{m|enm|joynen}}, {{m|enm|joignen}}, from {{der|en|f
 * Hindi: {{t+|hi|जुड़ना}}
 * Hungarian: {{t+|hu|beletorkollik}}, {{t+|hu|találkozik}}
 * Italian: {{t+|it|incontrare}}
-* Japanese: {{t+|ja|つながる|tr=tsunagaru}}, {{t|ja|[[接続]]する|tr=setsuzoku suru}}; {{qualifier|for a river or road}} {{t|ja|[[合流]]する|tr=gōryū suru}}
+* Japanese: {{t+|ja|繋がる|tr=つながる, tsunagaru}}, {{t+|ja|接続|tr=せつぞくする, setsuzoku suru|alt=接続する}}; {{qualifier|for a river or road}} {{t+|ja|合流|tr=ごうりゅうする, gōryū suru|alt=合流する}}
 {{trans-mid}}
 * Latvian: {{t|lv|apvienoties}}, {{t|lv|vienoties}}, {{t|lv|savienoties}}
 * Macedonian: {{t|mk|се спојува|impf}}, {{t|mk|се спои|pf}}, {{t|mk|се здружува|impf}}, {{t|mk|се здружи|impf}}
@@ -218,13 +218,13 @@ From {{inh|en|enm|joinen}}, {{m|enm|joynen}}, {{m|enm|joignen}}, from {{der|en|f
 *: Mandarin: {{t+|cmn|參加}}, {{t+|cmn|参加|tr=cānjiā}}, {{t+|cmn|加入|tr=jiārù}}
 * Dutch: {{t+|nl|vervoegen}}
 * Finnish: {{t+|fi|liittyä}}
-* French: {{t|fr|se [[joindre]]}}
+* French: {{t+|fr|joindre|alt=se joindre}}
 * Galician: {{t+|gl|xuntar}}
 * Georgian: {{t|ka|შეერთება}}, {{t|ka|შემოერთება}}
-* German: {{t|de|sich [[anschließen]]}}
+* German: {{t+|de|anschließen|alt=sich anschließen}}
 * Hungarian: {{t+|hu|csatlakozik}}
 * Italian: {{t|it|aggregarsi}}
-* Japanese: {{t+|ja|加わる|tr=kuwawaru}}, {{t|ja|[[同伴]]する|tr=dōhan suru}}; {{qualifier|figurative}} {{t|ja|[[合流]]する|tr=gōryū suru}}, {{t+|ja|加入|tr=かにゅうする, kanyū suru|alt=加入する}}
+* Japanese: {{t+|ja|加わる|tr=くわわる, kuwawaru}}, {{t+|ja|同伴|tr=どうはんする, dōhan suru|alt=同伴する}}; {{qualifier|figurative}} {{t+|ja|合流|tr=ごうりゅうする, gōryū suru|alt=合流する}}, {{t+|ja|加入|tr=かにゅうする, kanyū suru|alt=加入する}}
 {{trans-mid}}
 * Korean: {{t+|ko|가입하다}}
 * Latvian: {{t|lv|pievienoties}}
@@ -261,7 +261,7 @@ From {{inh|en|enm|joinen}}, {{m|enm|joynen}}, {{m|enm|joignen}}, from {{der|en|f
 {{trans-mid}}
 * Hungarian: {{t+|hu|belép}}
 * Italian: {{t+|it|aderire}}, entrare a far parte
-* Japanese: {{t+|ja|加わる|tr=kuwawaru}}, {{t|ja|[[参加]]する|tr=sanka suru}}; {{qualifier|figurative}} {{t|ja|[[合流]]する|tr=gōryū suru}}
+* Japanese: {{t+|ja|加わる|tr=くわわる, kuwawaru}}, {{t+|ja|参加|tr=さんかする, sanka suru|alt=参加する}}; {{qualifier|figurative}} {{t+|ja|合流|tr=ごうりゅうする, gōryū suru|alt=合流する}}
 * Latvian: {{t|lv|iestāties}}
 * Lithuanian: {{t|lt|įstoti}}
 * Macedonian: {{t|mk|стапува}}, {{t|mk|се зачленува}}
