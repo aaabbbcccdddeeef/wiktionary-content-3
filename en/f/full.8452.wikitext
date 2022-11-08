@@ -9,7 +9,7 @@
 
 ===Etymology 1===
 {{root|en|ine-pro|*pleh₁-}}
-From {{der|en|enm|ful}}, from {{der|en|ang|full|t=full}}, from {{der|en|gmw-pro|*full}}, from {{der|en|gem-pro|*fullaz|t=full}}, from {{der|en|ine-pro|*pl̥h₁nós|t=full}}.
+From {{inh|en|enm|ful}}, from {{inh|en|ang|full|t=full}}, from {{inh|en|gmw-pro|*full}}, from {{inh|en|gem-pro|*fullaz|t=full}}, from {{inh|en|ine-pro|*pl̥h₁nós|t=full}}.
 
 Germanic cognates include {{cog|fy|fol}}, {{cog|nds|vull}}, {{cog|nl|vol}}, {{cog|de|voll}}, {{cog|da|fuld}}, and {{cog|no|-}} and {{cog|sv|full}} (the latter three via Old Norse). Proto-Indo-European cognates include {{cog|en|plenty}} (via Latin, compare {{m|la|plēnus}}), {{cog|cy|llawn}}, {{cog|ru|по́лный}}, {{cog|lt|pilnas}}, {{cog|fa|پر|tr=por}}, {{cog|sa|पूर्ण}}. See also {{m|en|fele}}.
 
@@ -514,7 +514,7 @@ From {{inh|en|enm|fulle}}, {{m|enm|fylle}}, {{m|enm|fille}}, from {{inh|en|ang|f
 ====Verb====
 {{en-verb}}
 
-# {{lb|en|of the moon}} To become full or [[wholly]] [[illuminate]]d.
+# {{senseid|en|to fill}} {{lb|en|of the moon}} To become full or [[wholly]] [[illuminate]]d.
 #* '''1888''' September 20, "[http://select.nytimes.com/gst/abstract.html?res=F40F15FA345C15738DDDA90A94D1405B8884F0D3 The Harvest Moon]," ''New York Times'' <small>(retrieved 10 April 2013)</small>:
 #*: The September moon '''fulls''' on the 20th at 24 minutes past midnight, and is called the harvest moon.
 #* '''1905''', [[w:Annie Fellows Johnston|Annie Fellows Johnston]], ''The Little Colonel's Christmas Vacation'', ch. 4:
@@ -523,7 +523,8 @@ From {{inh|en|enm|fulle}}, {{m|enm|fylle}}, {{m|enm|fille}}, from {{inh|en|ang|f
 #*: "The moon '''fulls''' to-night, don't it?"
 
 ===Etymology 3===
-From {{inh|en|enm|fullen}}, {{m|enm|fulwen}}, from {{inh|en|ang|fullian}}, {{m|ang|fulwian|t=to baptise}}, from {{inh|en|gem-pro|*fullawīhōną|t=to fully consecrate}}, from {{m|gem-pro|*fulla-|t=full-}} + {{m|gem-pro|*wīhōną|t=to hallow, consecrate, make holy}}. Compare {{cog|ang|fulluht}}, {{m|ang|fulwiht|t=baptism}}.
+{{etymid|en|to baptise}}
+From {{inh|en|enm|fullen|id=to baptise|t=to baptise}}, {{m|enm|fulwen}}, from {{inh|en|ang|fullian}}, {{m|ang|fulwian|t=to baptise}}, from {{m|ang|full-}} + {{m|ang||*wīhan}} (later {{m|ang||*wēon}}). Compare {{cog|ang|fulluht}}, {{m|ang|fulwiht|t=baptism}}.
 
 ====Verb====
 {{en-verb}}
@@ -539,15 +540,13 @@ From {{inh|en|enm|fullen}}, {{m|enm|fulwen}}, from {{inh|en|ang|fullian}}, {{m|a
 
 ===Etymology 4===
 {{etymid|en|to densen cloth}}
-From {{inh|en|enm}}, from {{der|en|fro|fuller}}, {{m|fro|fouler|t=to tread, to stamp, to full}}, from {{der|en|ML.|fullo|fullare}}, from {{der|en|la|fullo|t=a fuller}}.
+From {{inh|en|enm|fullen|id=to waulk|t=to full}}, from {{der|en|frm|fouler}}, from {{der|en|fro|foler}}, {{m|fro|fouler|t=to tread, to stamp, to full}}, from {{der|en|ML.|fullo|fullare}}, from {{der|en|la|fullo|t=a fuller}}.
 
 ====Verb====
 {{en-verb}}
 
-# To make [[cloth]] [[denser]] and [[firmer]] by [[soaking]], [[beating]] and [[pressing]], to [[waulk]], [[walk]]
-
-=====Synonyms=====
-* to [[walk]], [[waulk]]
+# To make [[cloth]] [[denser]] and [[firmer]] by [[soaking]], [[beating]] and [[pressing]]; to [[waulk]] or [[walk]].
+#: {{syn|en|walk|waulk}}
 
 =====Derived terms=====
 {{der2|en
@@ -640,6 +639,24 @@ From {{der|it|en|full house}}.
 {{it-noun|m|#}}
 
 # {{lb|it|card games|poker}} [[full house]], [[boat]]
+
+----
+
+==Middle English==
+
+===Etymology 1====
+
+====Adjective====
+{{head|enm|adjective}}
+
+# {{alt form|enm|ful}}
+
+===Etymology 2====
+
+====Verb====
+{{head|enm|verb}}
+
+# {{alt form|enm|ful|id=to waulk|t=to full}}
 
 ----
 
