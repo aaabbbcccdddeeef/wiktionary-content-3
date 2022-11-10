@@ -114,8 +114,8 @@ These terms often continue to be used by English speakers whose families came fr
 Definite form of {{m|sq|babë||dad, daddy, father}}. From {{inh|sq|sqj-pro|*baba}}, from {{der|sq|ine-pro|*baba||barbaric speech}}. See {{m|sq|babë||dad, daddy, father}} for more.
 
 ===Pronunciation===
-* {{IPA|sq|[baba]}} {{a|Tosk}}
-* {{IPA|sq|[bɑba]}} {{a|Gheg}}
+* {{IPA-lite|sq|[baba]}} {{a|Tosk}}
+* {{IPA-lite|sq|[bɑba]}} {{a|Gheg}}
 
 ===Noun===
 {{sq-noun|m||baba|babët, baballarët}}
@@ -138,7 +138,7 @@ Definite form of {{m|sq|babë||dad, daddy, father}}. From {{inh|sq|sqj-pro|*baba
 ==Atong (India)==
 
 ===Pronunciation===
-* {{IPA|aot|/baba/}}
+* {{IPA-lite|aot|/baba/}}
 
 ===Noun===
 {{aot-noun|বাবা}}
@@ -161,7 +161,7 @@ Definite form of {{m|sq|babë||dad, daddy, father}}. From {{inh|sq|sqj-pro|*baba
 {{az-variant|c=баба|r=baba|a=بابا}}
 
 ===Pronunciation===
-* {{IPA|az|[bɑˈbɑ]}}
+* {{IPA-lite|az|[bɑˈbɑ]}}
 * {{hyphenation|az|ba|ba}}
 * {{audio|az|LL-Q9292 (aze)-Zardabi Bakuvi-baba.wav|Audio (Baku)}}
 
@@ -323,7 +323,7 @@ Compare {{m|ceb|abaga}}.
 ==Crimean Tatar==
 
 ===Etymology===
-{{rfe|crh}}
+{{rfe-lite|crh|langname=Crimean Tatar}}
 
 ===Noun===
 {{crh-noun}}
@@ -386,7 +386,7 @@ From {{inh|cs|sla-pro|*baba}}.
 ===Noun===
 {{head-lite|dag|nouns|plural|babanima|langname=Dagbani}}
 
-# {{non-gloss|Title of the second chief butcher}}
+# {{n-g-lite|Title of the second chief butcher}}
 
 ===Noun===
 {{head|dag|noun plural form}}
@@ -457,7 +457,7 @@ Borrowed from {{bor|fr|pl|baba}}, introduced in France in the eighteenth century
 ====Noun====
 {{fr-noun|m}}
 
-# {{l|en|baba}} {{gloss|type of cake}}
+# [[#English|baba]] {{gloss|type of cake}}
 #: {{uxi|fr|[[baba au rhum|'''baba''' au rhum]]|rum baba}}
 
 ===Etymology 2===
@@ -482,7 +482,7 @@ Borrowed from {{bor|fr|pl|baba}}, introduced in France in the eighteenth century
 Attested since the 18th century. From the hypothesized {{inh|gl|VL.|*baba}}, ultimately {{onomatopoeic|gl|title=imitative}} of children speech on the pattern of the repeated syllable ''ba''.
 
 ===Pronunciation===
-* {{IPA|gl|[ˈbaβɐ]}}
+* {{IPA-lite|gl|[ˈbaβɐ]}}
 
 ===Noun===
 {{gl-noun|f}}
@@ -548,7 +548,7 @@ A link of the term with the {{cog|en|bye-bye}} is possible but not certain.
 From {{bor|de|tr|baba}}.
 
 ====Pronunciation====
-* {{IPA|de|/ˈbaba/}}
+* {{IPA-lite|de|/ˈbaba/}}
 
 ====Adjective====
 {{de-adj|predonly}}
@@ -572,10 +572,10 @@ A widespread areal word.
 {{ha-noun|m|bā̀ba}}
 
 # [[father]]
-# {{n-g|Used as a term of address for a man of appropriate age to be one's father, or who shares one's father's name.}}
+# {{n-g-lite|Used as a term of address for a man of appropriate age to be one's father, or who shares one's father's name.}}
 
 ===Etymology 2===
-{{rfe|ha}}
+{{rfe-lite|ha|langname=Hausa}}
 
 ====Pronunciation====
 * {{ha-IPA|bā̀bā}}
@@ -601,7 +601,7 @@ Probably an early borrowing from {{bor|ha|kr|báwà||paternal aunt}}.
 * {{R:WOLD|ha|4}}
 
 ===Etymology 4===
-{{rfe|ha}}
+{{rfe-lite|ha|langname=Hausa}}
 
 ====Pronunciation====
 * {{ha-IPA|bābā}}
@@ -765,7 +765,7 @@ From {{inh|ilo|poz-pro|*babaq}}.
 * {{l|ki|baaba}}
 
 ===Pronunciation===
-* {{IPA|ki|/βàːβǎꜜ/}}
+* {{IPA-lite|ki|/βàːβǎꜜ/}}
 : The first ''a'' is pronounced long.<ref>{{R:Benson1964|entry=baba|p=21}}</ref>
 : {{ki-tonal classes|-|2-6}}
 * {{qualifier|Kiambu}}
@@ -824,7 +824,7 @@ Borrowed from a {{bor|ltg|sla|-}} language, from {{der|ltg|sla-pro|*baba}}. {{do
 From {{inh|dsb|sla-pro|*baba}}.
 
 ===Pronunciation===
-* {{IPA|dsb|/ˈbaba/}}
+* {{IPA-lite|dsb|/ˈbaba/}}
 
 ===Noun===
 {{dsb-noun|f|dim=babka}}
@@ -862,8 +862,8 @@ From {{inh|dsb|sla-pro|*baba}}.
 Voiced {{m|ms|bapa}}.
 
 ===Pronunciation===
-* {{a|Johor-Selangor}} {{IPA|ms|/babə/}}
-* {{a|Riau-Lingga}} {{IPA|ms|/baba/}}
+* {{a|Johor-Selangor}} {{IPA-lite|ms|/babə/}}
+* {{a|Riau-Lingga}} {{IPA-lite|ms|/baba/}}
 * {{rhymes|ms|abə|bə|ə|s=2}}
 
 ===Noun===
@@ -1033,7 +1033,7 @@ From {{inh|bnt-phu|bnt-pro|*-bába}}.
 ====Noun====
 {{pl-noun|m-pr}}
 
-# {{lb|pl|Hinduism|Islam|Sikhism}} {{l|en|baba}} {{gl|a holy man, a spiritual leader}}
+# {{lb|pl|Hinduism|Islam|Sikhism}} [[#English|baba]] {{gl|a holy man, a spiritual leader}}
 
 =====Declension=====
 {{pl-decl-noun
@@ -1094,7 +1094,7 @@ From the hypothesized {{inh|pt|VL.|*baba}}, ultimately {{onomatopoeic|pt|title=i
 ==Romanian==
 
 ===Pronunciation===
-* {{IPA|ro|[ˈba.ba]}}
+* {{IPA-lite|ro|[ˈba.ba]}}
 
 ===Noun===
 {{head-lite|ro|noun forms|langname=Romanian}}
@@ -1109,7 +1109,7 @@ From the hypothesized {{inh|pt|VL.|*baba}}, ultimately {{onomatopoeic|pt|title=i
 Cognate with {{cog|az|baba}}.
 
 ===Pronunciation===
-* {{IPA|slr|[pɑpɑ]}}
+* {{IPA-lite|slr|[pɑpɑ]}}
 
 ===Noun===
 {{head-lite|slr|nouns|langname=Salar}}
@@ -1128,7 +1128,7 @@ Cognate with {{cog|az|baba}}.
 From {{inh|sh|sla-pro|*baba}}.
 
 ===Pronunciation===
-* {{IPA|sh|/bâba/}}
+* {{IPA-lite|sh|/bâba/}}
 * {{hyphenation|sh|ba|ba}}
 
 ===Noun===
@@ -1182,7 +1182,7 @@ From {{inh|sn|bnt-pro|*bààbá}}.
 From {{inh|sk|sla-pro|*baba}}.
 
 ===Pronunciation===
-* {{IPA|sk|/ˈbaba/}}
+* {{IPA-lite|sk|/ˈbaba/}}
 
 ===Noun===
 {{sk-noun|g=f|gen=baby|pl=baby|genpl=báb|decl=žena}}
@@ -1394,7 +1394,7 @@ From {{inh|tl|poz-pro|*baba}}, from {{inh|tl|map-pro|*baba}}.
 ==Ternate==
 
 ===Pronunciation===
-* {{IPA|tft|[ˈba.ba]}}
+* {{IPA-lite|tft|[ˈba.ba]}}
 
 ===Noun===
 {{head-lite|tft|nouns|langname=Ternate}}
@@ -1421,7 +1421,7 @@ Cognate with
 {{cog|az|baba|t=grandfather}}, etc.
 
 ===Pronunciation===
-* {{IPA|tr|/bɑˈbɑ/}}
+* {{IPA-lite|tr|/bɑˈbɑ/}}
 * {{hyphenation|tr|ba|ba}}
 
 ===Noun===
@@ -1528,7 +1528,7 @@ From {{inh|ve|bnt-pro|*bààbá}}.
 Together with the polite {{m|mqs|yaya|t=mother}}, likely borrowed from {{der|mqs|tft|baba|t=father}}.
 
 ===Pronunciation===
-* {{IPA|mqs|/ˈba.ba/}}
+* {{IPA-lite|mqs|/ˈba.ba/}}
 
 ===Noun===
 {{head-lite|mqs|nouns|langname=West Makian}}
