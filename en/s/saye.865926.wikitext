@@ -59,20 +59,53 @@
 
 ==Turkish==
 
+===Alternative forms===
+* {{alt|tr|sâye}}
+
 ===Etymology===
-From {{inh|tr|ota|سایه}}, from {{der|tr|fa|سایه|tr=sâye}}.
+{{inh+|tr|ota|سایه|tr=saye}}, from {{der|tr|fa|سایه|tr=sâye|t=shadow, shade}}.
+
+===Pronunciation===
+* {{IPA|tr|/saːˈje/}}
+* {{hyph|tr|sa|ye}}
 
 ===Noun===
-{{tr-noun|yi|ler}} {{tlb|tr|archaic}}
+{{tr-noun|yi|ler}}
 
-# shadow; shade
+# {{lb|tr|archaic}} shadow; shade
 #: {{synonyms|tr|gölge}}
-# {{lb|tr|figuratively}} [[protection]]
+# {{lb|tr|archaic|figuratively}} [[protection]]
+# {{lb|tr|in possessive with locative}} {{lb|tr|with our without possessive pronoun}} {{ng|Thanks to, credit goes to ... for this.}}
+#: {{uxi|tr|benim '''sayemde'''|'''thanks to me'''}}
+#: {{uxi|tr|'''sayemde'''|well, '''thanks to me'''}}
+#: {{uxi|tr|onların '''sayesinde'''|'''thanks to them'''}}
+#: {{uxi|tr|'''sayelerinde'''|'''thanks to them'''|q=rare}}
+#: {{ux|tr|Bizim '''sayemizde''' adam oldun!|You became a somebody '''thanks to us'''!}}
+#: {{ux|tr|'''Sayende''' kapıda kaldık.|'''Thanks to you''', we got locked out of the house.|footer=sometimes ironic}}
 
 ====Derived terms====
-* {{l|tr|sayesinde}}
+{{der4|tr
+|sayede
+|saye ocağı
+|saye salmak
+|sayesinde}}
+
+====Related terms====
+{{rel4|tr
+|sayeban
+|sayebar
+|sayedar
+|sayvan}}
+
+====See also====
+* {{l|tr|yüz}}
+
+===Further reading===
+* {{R:TDK|lang=tr}}
+* {{R:tr:Nişanyan}}
+* {{R:lugatim}}
+* {{R:tr:OTK|vol=5|page=4018}}
 
 ===References===
-* {{R:tr:Nishanyan|saye}}
 * {{R:ota:Redhouse|سایه|page=1033}}
 * {{R:tr:NewRedhouse|page=989}}
