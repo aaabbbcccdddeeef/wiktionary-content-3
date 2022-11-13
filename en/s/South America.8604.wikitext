@@ -14,21 +14,21 @@
 * Adyghe: {{t|ady|Къыблэ Америкэ}}
 * Afrikaans: {{t|af|Suid-Amerika}}
 * Akan: {{t|ak|Amerika Apueɛ}}
-* Albanian: {{t|sq|Amerika Jugore|f}}
+* Albanian: {{t|sq|Amerikë Jugore|f}}, {{t|sq|Amerika Jugore|f}} {{q|definite}}
 * Amharic: {{t|am|ደቡብ አሜሪካ}}
 * Arabic: {{t+|ar|أَمْرِيكَا الْجَنُوبِيَّة|f}}
 * Armenian: {{t|hy|Հարավային Ամերիկա}}
 * Assyrian Neo-Aramaic: {{t|aii|ܬܲܝܡܵܢ ܐܵܡܵܝܪܟܵܐ|f|tr=Tayman Amayrka}}
 * Azerbaijani: {{t+|az|Cənubi Amerika}}
-* Belarusian: {{t|be|Паўднёвая Аме́рыка|f|sc=Cyrl}}
-* Bengali: {{t|bn|দক্ষিণ মার্কিন|sc=Beng}}
-* Bulgarian: {{t|bg|Ю́жна Аме́рика|f|sc=Cyrl}}
-* Burmese: {{t|my|တောင်အမေရိက|sc=Mymr}}
+* Belarusian: {{t|be|Паўднёвая Аме́рыка|f}}
+* Bengali: {{t|bn|দক্ষিণ মার্কিন}}
+* Bulgarian: {{t|bg|Ю́жна Аме́рика|f}}
+* Burmese: {{t|my|တောင်အမေရိက}}
 * Catalan: {{t+|ca|Amèrica del Sud|f}}
 * Chinese:
 *: Mandarin: {{t+|cmn|南美|tr=Nán Měi}}, {{t+|cmn|南美洲|tr=Nán Měizhōu}}
 * Czech: {{t+|cs|Jižní Amerika|f}}
-* Danish: {{t+|da|Sydamerika}}
+* Danish: {{t+|da|Sydamerika|n}}
 * Dutch: {{t+|nl|Zuid-Amerika|n}}
 * Esperanto: {{t+|eo|Sudameriko}}
 * Estonian: {{t|et|Lõuna-Ameerika}}
@@ -43,8 +43,8 @@
 * Haitian Creole: {{t|ht|Amerik disid}}
 * Haryanvi: {{t|bgc|दखिण्यामरेख्या}}
 * Hawaiian: {{t|haw|ʻAmelika Hema}}
-* Hebrew: {{t+|he|אמריקה הדרומית|sc=Hebr}}
-* Hindi: {{t+|hi|दक्षिण अमेरिका|sc=Deva}}, {{t|hi|दक्षिण अमरीका|sc=Deva}}
+* Hebrew: {{t+|he|אָמֶרִיקָה הַדְּרוֹמִית|f|tr=amérika ha-dromít}}
+* Hindi: {{t+|hi|दक्षिण अमेरिका|m}}, {{t|hi|दक्षिण अमरीका|m}}
 * Hungarian: {{t+|hu|Dél-Amerika}}
 * Icelandic: {{t+|is|Suður-Ameríka|f}}
 * Ido: {{t+|io|Sud-Amerika}}
@@ -52,22 +52,23 @@
 * Italian: {{t|it|Sudamerica|f}}, {{t|it|America del sud|f}}
 * Japanese: {{t+|ja|南アメリカ|tr=Minami Amerika}}, {{t+|ja|南米|tr=なんべい, Nanbei}}
 * Kazakh: {{t|kk|Оңтүстік Америка}}
-* Khmer: {{t|km|អាមេរិកខាងត្បូង|tr=aameirik kʰaang tboong|sc=Khmr}}
+* Khmer: {{t|km|អាមេរិកខាងត្បូង}}
 * Korean: {{t+|ko|^남미(南美)}}, {{t+|ko|^남아메리카}}
+{{trans-mid}}
 * Kyrgyz: {{t+|ky|Түштүк Америка}}
 * Lao: {{t+|lo|ອາເມລິກາໃຕ້}}
-{{trans-mid}}
 * Latin: {{t|la|America Austrālis|f}}
 * Latvian: {{t|lv|Dienvidamerika|f}}
 * Lithuanian: {{t+|lt|Pietų Amerika|f}}
 * Macedonian: {{t|mk|Јужна Америка|f}}
 * Malay: {{t+|ms|Amerika Selatan}}
-* Mongolian: {{t|mn|Өмнөд Америк}}
+* Mongolian:
+*: Cyrillic: {{t|mn|Өмнөд Америк}}
 * Navajo: {{t|nv|Shádiʼááhjí Kéyah dah siʼánígíí}}
 * Norman: {{t|nrf|Améthique du Sud|f}} {{q|Jersey}}
 * Norwegian:
-*: Bokmål: {{t+|nb|Sør-Amerika}}
-*: Nynorsk: {{t+|nn|Sør-Amerika}}
+*: Bokmål: {{t+|nb|Sør-Amerika|n}}
+*: Nynorsk: {{t+|nn|Sør-Amerika|n}}
 * Occitan: {{t+|oc|America del Sud|f}}
 * Persian: {{t|fa|آمریکای جنوبی|tr=âmrikâ-ye jonubi}}
 * Polish: {{t+|pl|Ameryka Południowa}}
@@ -77,7 +78,7 @@
 * Sanskrit: {{t|sa|दक्षिणीयामरेखिका}}
 * Scottish Gaelic: {{t|gd|Aimeireaga-a-Deas|f}}
 * Serbo-Croatian:
-*: Cyrillic: {{t|sh|Јужна Америка|f|sc=Cyrl}}
+*: Cyrillic: {{t|sh|Јужна Америка|f}}
 *: Roman: {{t+|sh|Južna Amerika|f}}
 * Sinhalese: {{t|si|දකුණු ඇමෙරිකාව}}
 * Slovak: {{t+|sk|Južná Amerika|f}}
@@ -87,14 +88,14 @@
 * Swahili: {{t|sw|Amerika ya Kusini}}
 * Swedish: {{t+|sv|Sydamerika|n}}
 * Tagalog: {{t|tl|Timog Amerika}}
-* Tajik: {{t+|tg|Амрикои Ҷанубӣ|sc=Cyrl}}
+* Tajik: {{t+|tg|Амрикои Ҷанубӣ}}
 * Tatar: {{t|tt|Көньяк Америка}}
 * Telugu: {{t+|te|దక్షిణ అమెరికా}}
 * Thai: {{t|th|อเมริกาใต้}}
 * Turkish: {{t+|tr|Güney Amerika}}
 * Turkmen: {{t|tk|Günorta Amerika}}
-* Ukrainian: {{t|uk|Півде́нна Аме́рика|f|sc=Cyrl}}
-* Urdu: {{t|ur|جنوبی امریکہ|tr=janūbī amrīkā}}
+* Ukrainian: {{t|uk|Півде́нна Аме́рика|f}}
+* Urdu: {{t|ur|جنوبی امریکہ|m|tr=junūbī amrīkā}}
 * Uyghur: {{t|ug|جەنۇبىي ئامېرىكا}}
 * Uzbek: {{t+|uz|Janubiy Amerika}}
 * Vietnamese: {{t+|vi|Nam Mỹ}} ({{t|vi|南美}})
