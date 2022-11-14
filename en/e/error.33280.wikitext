@@ -105,7 +105,7 @@ From {{inh|en|enm|errour}}, from {{der|en|xno|errour}}, from {{der|en|fro|error}
 * Avar: {{t|av|гъалатӏ}}
 * Azerbaijani: {{t+|az|xəta}}, {{t+|az|səhv}}
 * Bashkir: {{t|ba|хата}}
-* Belarusian: {{t|be|памы́лка|f}}
+* Belarusian: {{t|be|памы́лка|f}}, {{t+|be|хі́ба|f}}
 * Bengali: {{t|bn|ভুল}}
 * Bulgarian: {{t+|bg|гре́шка|f}}
 * Burmese: {{t+|my|အမှား}}
@@ -143,6 +143,7 @@ From {{inh|en|enm|errour}}, from {{der|en|xno|errour}}, from {{der|en|fro|error}
 * Korean: {{t+|ko|실수(失手)}}, {{t+|ko|에러}}, {{t+|ko|오류(誤謬)}}
 * Kurdish:
 *: Central Kurdish: {{t+|ckb|ھەڵە}}
+*: Northern Kurdish: {{t+|kmr|xete}}, {{t+|kmr|şaşî}}
 {{trans-mid}}
 * Kyrgyz: {{t+|ky|жаңылыш}}, {{t+|ky|ката}}
 * Lao: {{t|lo|ຂໍ້ຜິດພາດ}}
@@ -163,7 +164,7 @@ From {{inh|en|enm|errour}}, from {{der|en|xno|errour}}, from {{der|en|fro|error}
 * Oromo: {{t|om|dogoggora}}
 * Persian: {{t+|fa|خطا|tr=xatâ}}, {{t+|fa|اشتباه|tr=eštebâh}}, {{t+|fa|غلط|tr=ğalat}}
 * Plautdietsch: {{t|pdt|Fäla|m}}
-* Polish: {{t+|pl|błąd|m}}
+* Polish: {{t+|pl|błąd|m}}, {{t+|pl|pomyłka|f}}, {{t+|pl|omyłka|f}}
 * Portuguese: {{t+|pt|erro|m}}
 * (New) Prussian: {{t|prg|blānda}}
 * Romanian: {{t+|ro|eroare|f}}
@@ -187,7 +188,7 @@ From {{inh|en|enm|errour}}, from {{der|en|xno|errour}}, from {{der|en|fro|error}
 * Tocharian B: {{t|txb|nāki}}, {{t|txb|triśalñe}}
 * Turkish: {{t+|tr|yanlış}}, {{t+|tr|hata}}, {{t+|tr|yanılgı}}
 * Turkmen: {{t|tk|ýalňyş}}
-* Ukrainian: {{t+|uk|поми́лка|f}}
+* Ukrainian: {{t+|uk|поми́лка|f}}, {{t|uk|хи́ба|f}}
 * Uyghur: {{t|ug|خاتا}}
 * Uzbek: {{t+|uz|xato}}, {{t+|uz|gʻalat}}
 * Vietnamese: {{t+|vi|lỗi}} ({{t|vi|纇}})
@@ -198,6 +199,7 @@ From {{inh|en|enm|errour}}, from {{der|en|xno|errour}}, from {{der|en|fro|error}
 {{trans-top|difference between a measured or calculated value and a true one}}
 * Armenian: {{t+|hy|սխալ}}
 * Asturian: {{t|ast|error|m}}
+* Belarusian: {{t|be|хі́бнасць|f}}, {{t+|be|хі́ба|f}}
 * Bulgarian: {{t+|bg|гре́шка|f}}, {{t+|bg|отклоне́ние|n}}
 * Chinese:
 *: Mandarin: {{t+|cmn|误差}}, {{t+|cmn|誤差|tr=wùchā}}
@@ -212,8 +214,9 @@ From {{inh|en|enm|errour}}, from {{der|en|xno|errour}}, from {{der|en|fro|error}
 * Hebrew: {{t+|he|שְׁגִיאָה|f|tr=shgi'á}}
 * Icelandic: {{t|is|skekkja|f}}
 * Italian: {{t+|it|errore|m}}
-{{trans-mid}}
 * Japanese: {{t+|ja|誤差|tr=ごさ, gosa}}
+{{trans-mid}}
+* Korean: {{t+|ko|오차(誤差)}}
 * Kurdish:
 *: Central Kurdish: {{t+|ckb|ھەڵە}}
 * Latvian: {{t|lv|novirze|f}}
@@ -227,6 +230,7 @@ From {{inh|en|enm|errour}}, from {{der|en|xno|errour}}, from {{der|en|fro|error}
 * Spanish: {{t+|es|error|m}}
 * Tagalog: {{t+|tl|kamalian}}, {{t|tl|mali}}
 * Thai: {{t|th|ค่าผิดพลาด}}
+* Ukrainian: {{t|uk|погрі́шність|f}}, {{t|uk|о́гріх|m}}, {{t|uk|відхи́лення|n}}, {{t|uk|по́хибка|f}}, {{t|uk|хи́ба|f}}
 * Vietnamese: {{t+|vi|sai số}} ({{t|vi|差數}})
 {{trans-bottom}}
 
