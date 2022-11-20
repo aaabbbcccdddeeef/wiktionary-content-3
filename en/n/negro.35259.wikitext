@@ -369,7 +369,7 @@ From {{inh|pt|roa-opt|negro}}, from {{inh|pt|la|nigrum}}, accusative of {{m|la|n
 #: {{syn|pt|afrodescendente|q1=formal|preto|nego|q3=Brazil, colloquial}}
 
 ===Adjective===
-{{pt-adj}}
+{{pt-adj|sup=+abs|dim=+|aug=+}}
 
 # {{lb|pt|somewhat|_|formal}} [[black]] in colour
 #: {{syn|pt|preto}} {{q|colloquial}}
@@ -377,9 +377,6 @@ From {{inh|pt|roa-opt|negro}}, from {{inh|pt|la|nigrum}}, accusative of {{m|la|n
 #: {{syn|pt|[[preto]]}}
 # {{lb|pt|literary}} [[dark]] {{gloss|associated with evil}}
 #: {{uxi|pt|Cavaleiro '''negro'''.|'''Dark''' knight.}}
-
-====Inflection====
-{{pt-adj-infl|negr|o|aug=1|dim=1}}
 
 ====Derived terms====
 {{der3|pt|negão|nego|negreiro|negroide|negrume|neguinho}}
