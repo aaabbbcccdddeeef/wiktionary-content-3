@@ -38,7 +38,7 @@ From {{inh|en|enm|rumour}}, from {{der|en|fro|rumeur}}, from {{der|en|la|rūmor|
 ====Translations====
 {{trans-top|statement or claim from no known reliable source}}
 * Albanian: {{t-needed|sq}}
-* Arabic: {{t|ar|إِشَاعَة}}
+* Arabic: {{t|ar|إِشَاعَة|f}}
 * Armenian: {{t-needed|hy}}
 * Assamese: {{t|as|উৰাবাতৰি}}
 * Azerbaijani: {{t+|az|dedi-qodu}}
@@ -50,7 +50,7 @@ From {{inh|en|enm|rumour}}, from {{der|en|fro|rumeur}}, from {{der|en|la|rūmor|
 * Chinese:
 *: Mandarin: {{t+|cmn|傳聞}}, {{t+|cmn|传闻|tr=chuánwén}}, {{t+|cmn|傳言}}, {{t+|cmn|传言|tr=chuányán}}
 * Chinese Pidgin English: {{t|cpi|bunder}}
-* Czech: {{t|cs|zvěst|f}}, {{t|cs|drby}}
+* Czech: {{t|cs|zvěst|f}}, {{t+|cs|drb|m-p|alt=drby}}
 * Danish: {{t|da|rygte|n}}, {{t|da|forlydende|n}}
 * Dutch: {{t+|nl|gerucht|n}}
 * Esperanto: {{t|eo|onidiro}}
@@ -76,8 +76,10 @@ From {{inh|en|enm|rumour}}, from {{der|en|fro|rumeur}}, from {{der|en|la|rūmor|
 * Malay: {{t|ms|khabar angin}}
 * Maltese: {{t|mt|xniegħa|f}}
 * Maori: {{t|mi|waha kau}}, {{t|mi|wawara}}, {{t|mi|kohimu}}, {{t|mi|tūtara}}
-* Mongolian: {{t-needed|mn}}
-* Norwegian: {{t+|no|rykte}}
+* Mongolian:
+*: Cyrillic: {{t-needed|mn}}
+* Norwegian:
+*: Bokmål: {{t+|nb|rykte|n}}
 * Polish: {{t+|pl|pogłoska|f}}, {{t+|pl|plotka|f}}
 * Portuguese: {{t+|pt|rumor|m}}, {{t+|pt|boato|m}}
 * Romanian: {{t+|ro|zvon|n}}, {{t+|ro|bârfă|f}}, {{t+|ro|rumoare|f}} {{qualifier|rare}}
@@ -95,7 +97,7 @@ From {{inh|en|enm|rumour}}, from {{der|en|fro|rumeur}}, from {{der|en|la|rūmor|
 * Thai: {{t+|th|ข่าวลือ}}
 * Tibetan: {{t|bo|དཀྲོག་གཏམ}}
 * Turkish: {{t+|tr|söylenti}}, {{t+|tr|rivayet}}
-* Ukrainian: {{t|uk|чу́тка|f}}, {{t|uk|слух|m}}
+* Ukrainian: {{t|uk|чу́тка|f}}, {{t|uk|чутка|f-p|alt=чутки́}}, {{t|uk|слух|m}}
 * Vietnamese: {{t+|vi|tin đồn}}, {{t+|vi|lời đồn}}
 * Westrobothnian: {{t|gmq-bot|snøk|m|n}}, {{t|gmq-bot|fnyk|n}}, {{t|gmq-bot|snöuk|n}}, {{t|gmq-bot|glångk|n}}
 * Yiddish: {{t|yi|פּליאָטקע|f}}, {{t|yi|פּאָטש|f}}, {{t|yi|שמועה|f|tr=shmue}}, {{t|yi|שלח־מנות|m|n|tr=sh(a)lakh-mones}}
@@ -103,10 +105,10 @@ From {{inh|en|enm|rumour}}, from {{der|en|fro|rumeur}}, from {{der|en|la|rūmor|
 
 {{trans-top|uncountable: information}}
 * Bengali: {{t+|bn|গুজব}}
-* Czech: {{t|cs|drby}}
+* Czech: {{t+|cs|drb|m-p|alt=drby}}
 * Dutch: {{t+|nl|geruchten|p}}
 * Finnish: {{t+|fi|huhu}}, {{t+|fi|kuulopuhe}}
-* German: {{t-check|de|[[Gerücht]]e|n-p}}, {{t+|de|Gerede|n}}
+* German: {{t+|de|Gerücht|n-p|alt=Gerüchte}}, {{t+|de|Gerede|n}}
 * Greek: {{t+|el|φήμες|f|p}}, {{t+|el|διαδόσεις|f|p}}
 * Japanese: {{t+|ja|噂|tr=うわさ, uwasa}}
 * Latvian: {{t|lv|baumas|f-p}}
