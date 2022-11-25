@@ -419,19 +419,32 @@ From {{der|gd|la|carbo|carbō, carbōnem}}.
 ----
 
 ==Welsh==
+{{elements|cy|C|boron|B|nitrogen|N}}
+{{wikipedia|lang=cy}}
 
 ===Etymology===
 {{dercat|cy|la}}
-{{bor+|cy|en|carbon}}, from {{der|cy|fr|carbone}}.
+{{bor+|cy|en|carbon}}, from {{der|cy|fr|carbone}} from {{der|cy|la|carbō|carbō, carbōnem|t=[[charcoal]], [[coal]]}}, from {{der|cy|ine-pro|*kerh₃-|t=to [[burn]]}}.
 
 ===Pronunciation===
 * {{IPA|cy|/ˈkarbɔn/}}
+* {{rhymes|cy|arbɔn|s=2}}
 
 ===Noun===
 {{cy-noun|m|-}}
 
 # [[carbon#English|carbon]]
 #: {{syn|cy|ulyfai|q=obsolete}}
+
+====Derived terms====
+{{der3|cy
+|{{l|cy|boron nitrid||boron nitride}}
+|{{l|cy|boron nitrid ciwbig||cubic boron nitride}}
+|{{l|cy|boron nitrid hecsagonol||hexagonal boron nitride}}
+|{{l|cy|boron trifflworid||boron trifluoride}}
+|{{l|cy|nanodiwb boron nitrideg||boron nitride nanotub(ul)e}}
+}}
+
 
 ===Mutation===
 {{cy-mut}}
