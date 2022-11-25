@@ -1,9 +1,8 @@
 {{also|Buffalo}}
 ==English==
 {{slim-wikipedia|lang=en}}
-
-[[Image:African Buffalo.jpg|thumb|A herd of [[African buffalo]] ({{taxlink|Syncerus caffer|species|ver=201128}})]]
-[[File:Bisó de bosc.jpg|thumb|An [[American bison]] (''[[Bison bison]]'') in British Columbia]]
+[[File:African Buffalo.jpg|thumb|A herd of [[African buffalo]] ({{taxlink|Syncerus caffer|species|ver=201128}}, {{senseno|en|old world mammal}})]]
+[[File:Bisó de bosc.jpg|thumb|An [[American bison]] (''[[Bison bison]]'', {{senseno|en|bison}}) in British Columbia]]
 
 ===Etymology===
 {{root|en|ine-pro|*gʷṓws}}
@@ -18,14 +17,13 @@ From {{bor|en|pt|-}} or {{bor|en|es|búfalo||buffalo}}, from {{der|en|LL.|būfal
 ===Noun===
 {{en-noun|buffaloes|s|buffalo}}
 
-# Any of the Old World mammals of the family [[Bovidae]], such as the [[Cape buffalo]], {{taxlink|Syncerus caffer|species}}, or the [[water buffalo]] ''[[Bubalus bubalis]]''.
+# {{senseid|en|old world mammal}} Any of the Old World mammals of the family [[Bovidae]], such as the [[Cape buffalo]], {{taxlink|Syncerus caffer|species}}, or the [[water buffalo]] ''[[Bubalus bubalis]]''.
+#: {{syn|en|buffle<q:obsolete>}}
 #* {{RQ:Haggard She|passage="It must be a very wild stretch of country, and full of big game. I have always wanted to kill a '''buffalo''' before I die."}}
-# A related North American animal, the [[American bison]], ''[[Bison bison]]''.
-# A buffalo robe.
+# {{senseid|en|bison}} A related North American animal, the [[American bison]], ''[[Bison bison]]''.
+# {{ellipsis of|en|buffalo robe}}
 # The [[buffalo fish]] (''[[Ictiobus]]'' spp.).
-
-====Synonyms====
-* {{l|en|buffle}} {{q|obsolete}}
+# {{lb|en|US|_|slang}} A [[nickel]].
 
 ====Derived terms====
 {{der3|en
@@ -267,6 +265,9 @@ From {{bor|en|pt|-}} or {{bor|en|es|búfalo||buffalo}}, from {{der|en|LL.|būfal
 
 ===References===
 * {{R:OneLook}}
+* {{R:Greens|id=n6qlbvy|pos=n|sense=1}}
+* {{R:Greens|id=zqrwsqa|pos=n|sense=2}}
+* {{R:Greens|id=w346pva|pos=v}}
 
 [[Category:English nouns with irregular plurals]]
 [[Category:en:Bovines]]
