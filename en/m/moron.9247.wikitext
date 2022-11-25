@@ -197,23 +197,33 @@ From {{der|tr|en|moron}}, from {{der|tr|grc|μωρός|t=slow, dull, foolish, st
 
 ==Welsh==
 
-===Etymology===
-From {{bor|cy|ang|moran}}, plural of {{m|ang|more|t=edible root, carrot, parsnip}}, from {{der|cy|gmw-pro|*morhā}}, from {{der|cy|gem-pro|*murhǭ}}, from {{der|cy|ine-pro|*mr̥k-|t=edible herb, root, tuber}}.
-
 ===Pronunciation===
 * {{a|cy-N}} {{IPA|cy|/ˈmɔrɔn/}}
 * {{a|cy-S}} {{IPA|cy|/ˈmoːrɔn/|/ˈmɔrɔn/}}
 * {{rhymes|cy|ɔrɔn|s=2}}
 
-===Noun===
+===Etymology 1===
+From {{bor|cy|ang|moran}}, plural of {{m|ang|more|t=edible root, carrot, parsnip}}, from {{der|cy|gmw-pro|*morhā}}, from {{der|cy|gem-pro|*murhǭ}}, from {{der|cy|ine-pro|*mr̥k-|t=edible herb, root, tuber}}.
+
+====Noun====
 {{cy-noun|f-p|moronen}}
 
 # [[carrot]]s
 
-===Mutation===
+====Mutation====
 {{cy-mut}}
 
+===Etymology 2===
+
+===Noun===
+{{head|cy|mutated noun}}
+
+# {{nasal mutation of|cy|boron}}
+
+===Mutation===
+{{cy-mut|boron}}
+
 ===Further reading===
-* "moron" in ''[http://welsh-dictionary.ac.uk/gpc/gpc.html Geiriadur Prifysgol Cymru]'' (''A Dictionary of the Welsh Language''). University of Wales Centre for Advanced Welsh & Celtic Studies, 2014.
+* {{R:cy:GPC}}
 
 {{topics|cy|Vegetables}}
