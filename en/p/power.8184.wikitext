@@ -71,7 +71,7 @@ From {{inh|en|enm|power}}, {{m|enm|poer}}, from {{der|en|fro|poeir}}, from {{der
 # {{lb|en|physical|uncountable}} [[effectiveness|Effectiveness]].
 ## [[physical|Physical]] [[force]] or [[strength]].
 ##: {{ux|en|He needed a lot of '''power''' to hit the ball out of the stadium.}}
-## [[electricity|Electricity]] or a [[supply]] of electricity.
+## {{senseid|en|electricity}} [[electricity|Electricity]] or a [[supply]] of electricity.
 ##: {{ux|en|After the pylons collapsed, this town was without '''power''' for a few days.}}
 ##* {{quote-book|en|year=1913|author=[[w:Robert Barr (writer)|Robert Barr]]|title=Lord Stranleigh Abroad|chapter=4|url=http://openlibrary.org/works/OL1796924W| passage=“My father had ideas about conservation long before the United States took it up.{{...}}You preserve water in times of flood and freshet to be used for '''power''' or for irrigation throughout the year. […]”}}
 ##* {{quote-journal|en|date=2013-07-20|volume=408|issue=8845|magazine={{w|The Economist}}| title=[http://www.economist.com/news/http://www.economist.com/news/asia/21582043-villagers-enjoy-sunlight-after-dark-out-gloom Out of the gloom]| passage=[Rural solar plant] schemes are of little help to industry or other heavy users of electricity. Nor is solar '''power''' yet as cheap as the grid. For all that, the rapid arrival of electric light to Indian villages is long overdue. When the national grid suffers its next huge outage, as it did in July 2012 when hundreds of millions were left in the dark, look for specks of light in the villages.}}
@@ -592,7 +592,7 @@ From {{inh|en|enm|power}}, {{m|enm|poer}}, from {{der|en|fro|poeir}}, from {{der
 * Yakut: {{t|sah|күүс}}
 {{trans-bottom}}
 
-{{trans-top|electricity, electricity supply}}
+{{trans-top|electricity, electricity supply|id=electricity}}
 * Arabic: {{t|ar|طَاقَة كَهْرَبَائِيَّة|f|tr=ṭāqa kahrabāʾiyya}}
 * Armenian: {{t+|hy|էլեկտրականություն}}, {{t+|hy|հոսանք}} {{qualifier|colloquially}}
 * Belarusian: {{t|be|электры́чнасць|f}}, {{t|be|эне́ргія|f}}, {{t|be|энэ́ргія|f}}, {{t|be|ток|m}}
