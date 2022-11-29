@@ -362,22 +362,21 @@ Borrowed from {{bor|fi|fr|menu}}.
 ===Pronunciation===
 {{fi-p||menyy}}
 
+===Alternative forms===
+* {{l|fi|menyy}}
+
 ===Noun===
 {{fi-noun}}
 
 # [[#English|menu]], [[bill of fare]] {{gloss|details of the food to be served at a banquet}}
-# menu {{gloss|printed list of dishes offered in a restaurant}}
-# {{lb|fi|computing}} menu {{gloss|list from which the user may select an operation to be performed}}
+#: {{syn|fi|menukortti|menyy}}
+# {{synonym of|fi|ruokalista||menu}} {{gloss|printed list of dishes offered in a restaurant}}
+# {{lb|fi|computing}} {{synonym of|fi|valikko||menu}} {{gloss|list from which the user may select an operation to be performed}}
 
 ====Declension====
 {{fi-decl-rosé|menu|a|ill_sg_vowel=y|ill_sg_vowel2=u}}
 {{fi-decl-rosé|menu|ä|ill_sg_vowel=y|ill_sg_vowel2=u}}
 {{fi-decl-valo|men|||u|a}}
-
-====Synonyms====
-* {{sense|banquet}} {{l|fi|menukortti}}, {{l|fi|menyy}}
-* {{sense|restaurant}} {{l|fi|ruokalista}}, {{l|fi|menyy}}
-* {{sense|computing}} {{l|fi|valikko}}
 
 ===Anagrams===
 * {{anagrams|fi|a=emnu|emun}}
