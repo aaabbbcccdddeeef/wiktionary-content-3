@@ -87,7 +87,7 @@ From {{der|da|non|halmr}}.
 {{wikipedia|lang=no}}
 
 ===Etymology===
-From {{der|nb|non|halmr}}.
+From {{der|nb|da|halm}}, from {{der|nb|non|halmr}}.
 
 ===Noun===
 {{head|nb|noun|g=m|definite singular|halmen}}
@@ -105,21 +105,24 @@ From {{der|nb|non|halmr}}.
 ==Norwegian Nynorsk==
 {{wikipedia|lang=nn}}
 
-===Etymology===
-From {{der|nn|non|halmr}}, from {{der|nn|gem-pro|*halmaz}}.
-
 ===Alternative forms===
-* {{l|nn|[[hålm]], [[hålm’e]], [[håm’e]], [[hælm|hæłm]], [[alm]]}} {{q|dialectal}}
+* {{alter|nn|halm’e|hålm’e|hålm|håm’e|håm|[[hælm]] {{q|hæłm}}|alm||dialectal}}
 
 ===Pronunciation===
-* {{IPA|nn|/hɑlm/|/hɑɽm/}} {{nn-pronu-note}}
+* {{IPA|nn|/halm/|/haɽm/}}
+
+===Etymology===
+From {{inh|nn|non|halmr}}, from {{inh|nn|gem-pro|*halmaz}}. Cognate with {{cog|fo,is|hálmur}}, {{cog|sv,da|halm}}, {{cog|de|Halm}} and {{cog|en|haulm}}.
 
 ===Noun===
-{{nn-noun-mu}}
+{{nn-noun-m1}}
 
-# {{lb|nn|collective}} [[straw]]
+# {{lb|nn|collective}} [[haulm]], [[straw]]
+# [[straw]] [[stubble]]
+#: {{syn|nn|halmstubb}}
 
 ===Derived terms===
+{{top3}}
 * {{l|nn|halmhatt}}
 * {{l|nn|halmseng}}
 * {{l|nn|halmstrå}}
@@ -127,6 +130,7 @@ From {{der|nn|non|halmr}}, from {{der|nn|gem-pro|*halmaz}}.
 * {{l|nn|helma}}
 * {{l|nn|helme}}
 * {{l|nn|marhalm}}
+{{bottom}}
 
 ===References===
 * {{R:The Nynorsk Dictionary}}
