@@ -546,26 +546,36 @@ From {{inh|scn|VL.|eo}}, from {{inh|scn|la|ego}}, from {{inh|la|itc-pro|*egō}},
 
 ===Alternative forms===
 * {{l|cy|’u}} {{qualifier|after vowels}}
-* {{l|cy|’w}} {{qualifier|after {{m|cy|i}}}}
+* {{l|cy|’w}} {{qualifier|after the preposition {{m|cy|i}}}}
 
 ===Pronunciation===
 * {{a|standard}} {{IPA|cy|/ei̯/}}
 ** {{a|colloquial}} {{IPA|cy|/iː/|/ɪ/}}
 * {{homophones|cy|ei}}
+* {{rhymes|cy|ei̯|s=1}}
 
 ====Usage notes====
-* Despite being written as ''u'', the vowel here is {{IPAchar|/i̯/}} in North Wales.
+* Despite being written as ''u'', the vowel here is {{IPAchar|/i̯/}} in North Wales and so is homophonous with singular {{m|cy|ei}} in all varieties of the spoken language.
 
 ===Determiner===
 {{head|cy|determiner|cat2=possessive determiners|triggers [[Appendix:Welsh mutations#H-prothesis|h-prothesis]] of a following vowel}}
 
 # [[their]]
 #: {{ux|cy|Cwynent am '''eu''' blinder a'''’u''' hafiechyd.|They complained of '''their''' weariness and '''their''' illness.}}
-# [[them]] {{qualifier|as the direct object of a verbal noun or of a personal verb after preverbal particles}}
-#: {{ux|cy|Datglôdd y drysau a'''’u''' hagor led y pen.|He/She unlocked the doors and opened '''them''' wide.}}
+
+===Pronoun===
+{{head|cy|pronoun|cat2=personal pronouns|triggers [[Appendix:Welsh mutations#H-prothesis|h-prothesis]] of a following vowel}}
+
+# [[them]] {{qualifier|as the direct object of a verbal noun}}
+#: {{ux|cy|Rhaid sganio’r ffeiliau cyn '''eu''' hagor a'''’u''' harchwilio.|You have to scan the files before opening '''them''' and exploring '''them'''.}}
 
 ====Usage notes====
-{{m|cy|nhw|Nhw}} is often added after the noun.
+* {{m|cy|nhw|Nhw}} is often added after the noun or verbnoun which {{m|cy|eu}} precedes. In formal language, this is done  to emphasise the determiner or pronoun. In colloquial language, it is not necessarily an indicator of emphasis, and is often included with the determiner and always included with the pronoun. The exception to the latter case is in passive constructions employing {{m|cy|cael}}, where {{m|cy|nhw}} is never used.
+* In formal Welsh, the contraction {{m|cy|’u}} is a valid form of {{m|cy|eu}} found after mostly functional vowel-final words. In colloquial Welsh, {{m|cy|eu}} is often contracted to {{m|cy|’u}} after almost any vowel-final word.
+* Pronomial {{m|cy|eu}} and {{m|cy|’u}} can occur before verbal nouns. Before verbs, pronomial {{m|cy|’u}} is found only in formal language after certain vowel-final preverbal particles. See entry for {{m|cy|’u}} for more information.
+
+===Further reading===
+* {{R:cy:GPC}}
 
 ----
 
