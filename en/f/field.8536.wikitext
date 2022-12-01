@@ -84,6 +84,9 @@ Cognate with {{cog|sco|feld}}, {{m|sco|feild|t=field}}, {{cog|frr|fjild|t=field}
 ###*: Read-only '''fields''' allow you to establish a point of data whose value is not known at compile time, but that should never change once established.
 ## {{lb|en|electronics|film|animation}} Part (usually one half) of a [[frame]] in an [[interlace]]d signal
 
+====Usage notes====
+In the mathematical sense, some languages, such as French, use a term that literally means "[[body]]". This denotes a [[division ring]] or [[skew field]], not necessarily [[commutative]]. If it is clear from context that the [[quaternion]]s and similar division rings are irrelevant, or that all division rings being considered are finite and therefore fields, this difference is ignored.
+
 ====Synonyms====
 * {{sense|course of study or domain of knowledge}} {{l|en|area}}, {{l|en|domain}}, {{l|en|sphere}}, {{l|en|realm}}
 * {{sense|area reserved for playing a game}} {{l|en|course}} {{qualifier|for golf}}, [[court]] {{qualifier|for racquet sports}}, [[ground]], [[pitch]] {{qualifier|for soccer, rugby, cricket}}
@@ -713,9 +716,6 @@ Cognate with {{cog|sco|feld}}, {{m|sco|feild|t=field}}, {{cog|frr|fjild|t=field}
 * Romanian: {{t+check|ro|câmp|n}} (1-7), {{t+check|ro|teren|n}} (3)
 {{trans-bottom}}
 
-====Usage notes====
-In the mathematical sense, some languages, such as French, use a term that literally means "[[body]]". This denotes a [[division ring]] or [[skew field]], not necessarily [[commutative]]. If it is clear from context that the [[quaternion]]s and similar division rings are irrelevant, or that all division rings being considered are finite and therefore fields, this difference is ignored.
-
 ===Verb===
 {{en-verb}}
 
@@ -840,11 +840,11 @@ From {{inh|ang|gmw-pro|*faldi}}, from {{inh|ang|gem-pro|*faldiz}}.
 ====Declension====
 {{ang-decl-noun-i-m|field}}
 
-====Related terms====
-* {{l|ang|fealdan}}
-
 ====Derived terms====
 * {{l|ang|fieldstōl}}
+
+====Related terms====
+* {{l|ang|fealdan}}
 
 ====References====
 * {{R:ang:BT|fyld|ref=12839}}
