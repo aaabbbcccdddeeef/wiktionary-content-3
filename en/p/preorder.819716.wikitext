@@ -86,9 +86,9 @@
 #* '''2011''', Ananda Rao Akepogu, Radhika Raju Palagiri, ''Data Structures and Algorithms Using C++'', Pearson Education India, [https://books.google.com.au/books?id=VRaxY61mw5cC&pg=SA9-PA16&dq=%22preorder%22%7C%22preorders%22&hl=en&sa=X&ved=0ahUKEwiLzvTciOzbAhUIpJQKHW5zBfAQ6AEI9gIwPA#v=onepage&q=%22preorder%22%7C%22preorders%22&f=false page 9.16],
 #*: The '''preorder''' traversal visits a node first after which it traverses its left subtree and then traverses its right subtree.
 
+====Hypernyms====
+* {{l|en|depth-first}}
+
 ====Coordinate terms====
 * {{l|en|inorder}}
 * {{l|en|postorder}}
-
-====Hypernyms====
-* {{l|en|depth-first}}
