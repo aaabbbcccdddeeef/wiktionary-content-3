@@ -190,7 +190,7 @@ From {{bor|en|NL.|helium}}, from {{der|en|grc|ἥλιος||sun}} (because its pr
 
 # {{l|en|helium}}
 
-[[Category:af:Noble gases]]
+{{c|af|Noble gases}}
 
 ----
 
@@ -215,19 +215,20 @@ From {{der|cs|la|helium}}.
 ====Declension====
 {{cs-decl-noun|helium|helia|heliu|helium|helium|heliu|heliem|helia|helií|heliím|helia|helia|heliích|helii}}
 
-[[Category:cs:Noble gases]]
+{{c|cs|Noble gases}}
 
 ----
 
 ==Danish==
 {{wikipedia|lang=da}}
+{{elements|nl|He|brint|H|lithium|Li}}
 
 ===Noun===
 {{head|da|noun|g=n|definite singular|heliummet|or|heliumet}}
 
 # {{lb|da|uncountable}} [[helium#English|helium]] (''chemical symbol '''[[He]]''''')
 
-[[Category:da:Noble gases]]
+{{c|da|Noble gases}}
 
 ----
 
@@ -253,7 +254,7 @@ Borrowed from {{bor|nl|en|helium}}. Derived from {{der|nl|grc|ἥλῐος}}.
 * {{l|nl|heliumballon}}
 * {{l|nl|heliumgas}}
 
-[[Category:nl:Noble gases]]
+{{c|nl|Noble gases}}
 
 ----
 
@@ -275,8 +276,7 @@ From {{der|fi|NL.|hēlium}}.
 ====Declension====
 {{fi-decl-risti|helium|||a|i=0}}
 
-[[Category:fi:Chemical elements]]
-[[Category:fi:Noble gases]]
+{{c|fi|Chemical elements|Noble gases}}
 
 ----
 
@@ -301,7 +301,7 @@ From {{der|la|grc|ἥλιος||sun}} {{suffix|la||ium|pos2=chemical element suff
 ====Descendants====
 * {{desc|it|elio|bor=1}}
 
-[[Category:la:Noble gases]]
+{{c|la|Noble gases}}
 
 ----
 
@@ -319,8 +319,7 @@ From {{der|la|grc|ἥλιος||sun}} {{suffix|la||ium|pos2=chemical element suff
 ====Inflection====
 {{li-decl-noun-um|heli}}
 
-[[Category:li:Chemical elements]]
-[[Category:li:Noble gases]]
+{{c|li|Chemical elements|Noble gases}}
 
 ----
 
@@ -343,7 +342,7 @@ From {{uder|ms|en|helium}}, from {{uder|ms|NL.|helium}}, from {{uder|ms|grc|ἥ�
 
 # [[#English|helium]] {{gloss|chemical element}}
 
-[[Category:ms:Noble gases]]
+{{c|ms|Noble gases}}
 
 ----
 
@@ -358,7 +357,7 @@ Borrowed from {{bor|se|no|helium}}.
 ===Noun===
 {{se-noun|head=hēlium}}
 
-# {{topics|se|Chemical elements}} [[#English|helium]]
+# [[#English|helium]]
 
 ====Inflection====
 {{se-infl-noun-odd-ng|hēlium|final=m}}
@@ -366,30 +365,38 @@ Borrowed from {{bor|se|no|helium}}.
 ====Further reading====
 * {{R:Álgu|88801}}
 
+{{c|se|Chemical elements|Noble gases}}
+
 ----
 
 ==Norwegian Bokmål==
-{{wikipedia|lang=no}}
+{{swp|lang=no}}
+{{elements|sv|He|hydrogen|H|litium|Li}}
 
 ===Noun===
 {{head|nb|noun|g=n|definite singular|heliumet}}
 
 # {{lb|nb|uncountable}} [[helium#English|helium]] (''chemical symbol '''[[He]]''''')
 
+{{c|nb|Noble gases}}
+
 ----
 
 ==Norwegian Nynorsk==
-{{wikipedia|lang=nn}}
+{{swp|lang=nn}}
+{{elements|sv|He|hydrogen|H|litium|Li}}
 
 ===Noun===
 {{head|nn|noun|g=n|definite singular|heliumet}}
 
 # {{lb|nn|uncountable}} [[helium#English|helium]] (''chemical symbol '''[[He]]''''')
 
+{{c|nn|Noble gases}}
+
 ----
 
 ==Swedish==
-{{wikipedia|lang=sv}}
+{{swp|lang=sv}}
 {{elements|sv|He|väte|H|litium|Li}}
 
 ===Pronunciation===
@@ -403,4 +410,4 @@ Borrowed from {{bor|se|no|helium}}.
 ====Declension====
 {{sv-noun-unc-irreg-n|2=heliumet}}
 
-[[Category:sv:Noble gases]]
+{{c|sv|Noble gases}}
