@@ -13,21 +13,22 @@ From {{w|Arthur Wellesley, 1st Duke of Wellington}}, British soldier and statesm
 * {{hyphenation|en|Wel|ling|ton}}
 
 ====Proper noun====
-{{en-proper noun}}
+{{en-proper noun|~}}
 
 # {{place|en|capital city|c/New Zealand}}.
 # {{lb|en|metonym}} by extension, the Government of New Zealand.
-# {{place|en|Several places in <<cc/England>>}}:
+# {{place|en|Several places in <<cc/England>>, <<c/UK>>}}:
 ## {{place|en|locality|near|vill/Gosforth|bor/Copeland|co/Cumbria}} {{q|OS grid ref NY0704}}.
 ## {{place|en|village|co/Herefordshire}} {{q|[[OS]] grid ref SO4948}}.
 ## {{place|en|market town|bor/Telford and Wrekin|co/Shropshire}} {{q|OS grid ref SJ6511}}.
 ## {{place|en|market town|dist/Somerset West and Taunton|co/Somerset}} {{q|OS grid ref ST1320}}.
 # Any of several places in a select number of countries, including:
-## {{place|en|town|co/Sumner County|s/New South Wales|c/Australia}}.
-## {{place|en|tiny township|s/South Australia}}.
 ## {{place|en|town|dist/The Nilgiris|s/Tamil Nadu|c/India}}.
 ## {{place|en|town|in the|p/Western Cape|c/South Africa}}.
-## [[Wellington Land District]], {{place|en|district|c/Tasmania}}.
+# {{place|en|number of places|c/Australia}}:
+## {{place|en|town|co/Sumner County|s/New South Wales}}.
+## {{place|en|tiny township|s/South Australia}}.
+## {{ellipsis of|en|Wellington Land District}}, {{place|en|district|c/Tasmania}}.
 # {{place|en|number of places|c/Canada}}:
 ## {{place|en|neighborhood|city/Nanaimo|p/British Columbia}}.
 ## {{place|en|A former name of a small incorporated fishing and lumbering <<village>> in <<isl/Newfoundland>>, <<p/Newfoundland and Labrador>>}}, now called {{w|Dover, Newfoundland and Labrador|Dover}}.
@@ -53,14 +54,26 @@ From {{w|Arthur Wellesley, 1st Duke of Wellington}}, British soldier and statesm
 ## {{place|en|small city|co/Carbon County|s/Utah}}.
 ## {{place|en|ghost town/and/railroad community|co/King County|s/Washington}}.
 ## {{place|en|small town|co/Monroe County|s/Wisconsin}}.
-# [[w:Arthur Wellesley, 1st Duke of Wellington|Arthur Wellesley, 1st Duke of Wellington]], British soldier and statesman.
-# {{surname|en|[[habitational]]|from=Old English}} from the places in England.
-# {{lb|en|card games}} In the game of [[nap]], a [[bid]] that results in the [[bidder]] winning [[quadruple]], or losing [[double]], the amount [[stake]]d.
+# {{w|lang=en|Arthur Wellesley, 1st Duke of Wellington}}, British soldier and statesman.
+# {{lb|en|countable}} {{surname|en|[[habitational]]|from=Old English}} from the places in England.
 
 =====Derived terms=====
-* {{l|en|Wellington County}}
+{{col3|en|
+|Wellington County
+|Wellington District
+|Wellington Land District
+|Wellington Station
+|Wellington's
+|Wellingtons
+|Wellingtons Station
+}}
 
-=====Translations=====
+====Noun====
+{{en-noun}}
+
+# {{lb|en|card games}} In the game of [[nap]], a [[bid]] that results in the [[bidder]] winning [[quadruple]], or losing [[double]], the amount [[stake]]d.
+
+====Translations====
 {{trans-top|capital of New Zealand}}
 * Albanian: {{t|sq|Wellington|m}}
 * Amharic: {{t|am|ዌሊንግተን}}
@@ -137,7 +150,7 @@ Named after Arthur Wellesley, 1st Duke of Wellington, who wore and popularised t
 ====Noun====
 {{en-noun}}
 
-# A [[Wellington boot]].
+# {{ellipsis of|en|Wellington boot}}
 
 =====Translations=====
 {{trans-see|Wellington boots}}
@@ -155,7 +168,8 @@ Generalization from {{m|en|beef Wellington}}.
 |beef Wellington
 |lamb Wellington
 |salmon Wellington
-|sausage Wellington}}
+|sausage Wellington
+}}
 
 [[Category:English eponyms]]
 [[Category:en:Footwear]]
