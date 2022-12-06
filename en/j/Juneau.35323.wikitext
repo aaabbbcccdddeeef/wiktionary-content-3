@@ -2,7 +2,8 @@
 {{wikipedia}}
 
 ===Etymology===
-The Alaskan city was named after [[w:Joe Juneau (prospector)|Joe Juneau]], whose {{der|en|fr|-}} surname derives from {{m|fr|jeune||young}}.
+{{bor|en|fr|Juneau}}. 
+The Alaskan city was named after {{w|lang=en|Joe Juneau (prospector)|Joe Juneau}}, whose {{der|en|fr|-}} surname derives from {{m|fr|jeune||young}}.
 
 ===Pronunciation===
 * {{a|GA}} {{IPA|en|/ˈd͡ʒunoʊ/}}
@@ -10,15 +11,18 @@ The Alaskan city was named after [[w:Joe Juneau (prospector)|Joe Juneau]], whose
 * {{rhymes|en|unoʊ|s=2}}
 
 ===Proper noun===
-{{en-proper noun}}
+{{en-proper noun|~}}
 
-# {{surname|en}}.
-# {{place|en|capital city|s/Alaska|c/USA}}.
-# {{place|en|city/county seat|co/Dodge County|s/Wisconsin|c/USA}}.
+# {{surname|en|from=French}}.
+# A [[placename]]
+## {{place|en|capital city|s/Alaska|c/USA}}.
+## {{place|en|city/county seat|co/Dodge County|s/Wisconsin|c/USA}}.
 
 ====Derived terms====
-* {{l|en|Juneau City and Borough}}
-* {{l|en|Juneau County}}
+{{col3|en|
+|Juneau City and Borough
+|Juneau County
+}}
 
 ====Translations====
 {{trans-top|capital of Alaska}}
@@ -49,17 +53,23 @@ The Alaskan city was named after [[w:Joe Juneau (prospector)|Joe Juneau]], whose
 ===Pronunciation===
 * {{fr-IPA}}
 
+===Etymology===
+{{suffix|fr|jeune|eau}}
+
 ===Proper noun===
 {{fr-proper noun}}
 
-# {{surname|fr}}
+# {{m|en|Juneau}}: {{surname|fr}}
+
+====Descendants====
+* {{desc|en|Juneau}}
 
 ----
 
 ==Portuguese==
 
 ===Etymology===
-{{ubor|pt|en|Juneau}}.
+{{ubor|pt|en|Juneau||city}}, from {{der|pt|fr|Juneau||surname}}, from {{m|fr|jeune||young}}
 
 ===Proper noun===
 {{pt-proper noun}}
