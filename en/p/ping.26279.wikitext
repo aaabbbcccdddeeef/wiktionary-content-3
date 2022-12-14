@@ -75,8 +75,8 @@ Partly {{onomatopoeic|en|nocap=1}}, and partly continuing {{inh|en|enm|pingen|t=
 # {{lb|en|submarine navigation}} To emit a signal and then listen for its echo in order to detect objects.
 # {{senseid|en|net-v}} {{lb|en|networking}} To send a [[packet]] in order to determine whether a [[host]] is present, particularly by use of the ping utility.
 #: {{cot|en|poll}}
-#* '''2008''', Allan Reid, Jim Lorenz, ''Working at a Small-to-Medium Business or ISP'', Cisco Press ({{ISBN|9780132877350}})
-#*: Just because you cannot '''ping''' a server or telnet to it does not mean that the server is down or inaccessible.
+#* {{quote-book|en|year=2008|author=Allan Reid|author2=Jim Lorenz|title=Working at a Small-to-Medium Business or ISP|publisher=Cisco Press|isbn=9780132877350
+|passage=Just because you cannot '''ping''' a server or telnet to it does not mean that the server is down or inaccessible.}}
 #: {{ux|en|I'm '''pinging''' their server.}}
 #: {{ux|en|The server '''pings''' its affiliates periodically.}}
 # {{lb|en|by extension}} To send an email or other message to someone in hopes of eliciting a response.
