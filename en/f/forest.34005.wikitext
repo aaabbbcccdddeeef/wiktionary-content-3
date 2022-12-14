@@ -46,8 +46,8 @@ In this sense, mostly displaced native {{ncog|ang|wudu}}, whence {{w|Modern Engl
 #* '''2000''', Victor N. Kasyanov, Vladimir A. Evstigneev, ''Graph Theory for Programmers: Algorithms for Processing Trees'', Springer Science & Business Media ({{ISBN|9780792364283}}), page 16:
 #*: Let ''H'' be a traversal of an undirected graph ''G'' = (''X'', ''U''). For given ''H,'' the set ''U'' can be split into set of ''tree edges'' from the '''forest''' ''G<sub>H</sub>'' and the  set of ''inverse'' edges that do not belong to this '''forest.'''
 # {{lb|en|computing|Microsoft Windows}} A [[group]] of [[domain]]s that are managed as a [[unit]].
-#* '''2008''', Laura E. Hunter, Robbie Allen, ''Active Directory Cookbook'', O'Reilly Media, Inc. ({{ISBN|9780596554446}}), page 17
-#*: '''Forests''' are considered the security boundary in Active Directory; by this we mean  that if you need to definitively restrict access to a resource within a particular domain so that administrators from other domains do not have any access to it  whatsoever, you need to implement a separate '''forest''' instead of using an additional domain within the current '''forest.'''
+#* {{quote-book|en|year=2008|author=Laura E. Hunter|author2=Robbie Allen|title=Active Directory Cookbook|publisher=O'Reilly Media, Inc.|isbn=9780596554446|page=17
+|passage='''Forests''' are considered the security boundary in Active Directory; by this we mean  that if you need to definitively restrict access to a resource within a particular domain so that administrators from other domains do not have any access to it  whatsoever, you need to implement a separate '''forest''' instead of using an additional domain within the current '''forest.'''}}
 # The colour [[forest green]].
 
 ====Hyponyms====
