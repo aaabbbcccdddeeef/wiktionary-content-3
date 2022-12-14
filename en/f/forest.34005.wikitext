@@ -43,8 +43,8 @@ In this sense, mostly displaced native {{ncog|ang|wudu}}, whence {{w|Modern Engl
 #* '''2013''', Alexander Tulloch, ''The Little Book of Lancashire'', The History Press {{ISBN|9780752497464}}
 #*: [...] in places such as the '''Forest''' of Bowland there is hardly a tree in sight and much of the area is a vast tract of almost barren gritstone hills and peat moorland.
 # {{lb|en|graph theory}} A [[graph]] with no [[cycle]]s; i.e., a graph made up of trees.
-#* '''2000''', Victor N. Kasyanov, Vladimir A. Evstigneev, ''Graph Theory for Programmers: Algorithms for Processing Trees'', Springer Science & Business Media ({{ISBN|9780792364283}}), page 16:
-#*: Let ''H'' be a traversal of an undirected graph ''G'' = (''X'', ''U''). For given ''H,'' the set ''U'' can be split into set of ''tree edges'' from the '''forest''' ''G<sub>H</sub>'' and the  set of ''inverse'' edges that do not belong to this '''forest.'''
+#* {{quote-book|en|year=2000|author=Victor N. Kasyanov|author2=Vladimir A. Evstigneev|title=Graph Theory for Programmers: Algorithms for Processing Trees|publisher=Springer Science & Business Media|isbn=9780792364283|page=16
+|passage=Let ''H'' be a traversal of an undirected graph ''G'' = (''X'', ''U''). For given ''H,'' the set ''U'' can be split into set of ''tree edges'' from the '''forest''' ''G<sub>H</sub>'' and the  set of ''inverse'' edges that do not belong to this '''forest.'''}}
 # {{lb|en|computing|Microsoft Windows}} A [[group]] of [[domain]]s that are managed as a [[unit]].
 #* {{quote-book|en|year=2008|author=Laura E. Hunter|author2=Robbie Allen|title=Active Directory Cookbook|publisher=O'Reilly Media, Inc.|isbn=9780596554446|page=17
 |passage='''Forests''' are considered the security boundary in Active Directory; by this we mean  that if you need to definitively restrict access to a resource within a particular domain so that administrators from other domains do not have any access to it  whatsoever, you need to implement a separate '''forest''' instead of using an additional domain within the current '''forest.'''}}
