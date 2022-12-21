@@ -678,9 +678,7 @@ Although both {{m|sh|k}} and {{m|sh|ka}} can be used synonymously, {{m|sh|k}} mu
 ===Etymology 1===
 
 ====Pronunciation====
-* {{qualifier|phoneme}} {{IPA|es|/k/}}
-{{es-IPA|ka|pre={{qualifier|letter name}}}}
-** {{audio|es|Letter k es es.flac|audio}}
+{{es-pr|raw:/k/<q:phoneme>|ka<q:letter name><audio:Letter k es es.flac>}}
 
 ====Letter====
 {{head|es|letter|lower case||upper case|K}}
@@ -690,7 +688,7 @@ Although both {{m|sh|k}} and {{m|sh|ka}} can be used synonymously, {{m|sh|k}} mu
 ===Etymology 2===
 
 ====Pronunciation====
-* {{IPA|es|/ke/}}
+{{es-pr|ke}}
 
 ====Conjunction====
 {{head|es|conjunction}}
