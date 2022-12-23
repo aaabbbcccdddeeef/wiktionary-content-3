@@ -142,7 +142,9 @@ From {{inh|en|enm|regretten}}, {{m|enm|regreten}}, from {{der|en|fro|regreter}},
 #*: From its peaceful bosom [the grave] spring none but fond '''regrets''' and tender recollections.
 # {{lb|en|obsolete}} Dislike; aversion.
 #* {{quote-book|en|1667|Richard Allestree|The Causes of the Decay of Christian Piety|passage=Is it a vertue to have some ineffective '''regrets''' to damnation, and such a Vertue too, as shall serve to ballance all our vices?}}
-# {{lb|en|decision theory}} {{rfdef|en}}
+# {{lb|en|decision theory}} The amount of avoidable loss that results from choosing the wrong action.
+#* {{quote-book|en|year=2002| title=On the Minimax Regret Estimation of a Restricted Normal Mean, and Implications|author=Bernd Droge | page=| passage=Under squared errorloss we show that there exists unique minimax '''regret''' solution for the problem of selecting the threshold. }}
+#* {{quote-book|en|year=2012| title=Elementary Decision Theory |author=Herman Chernoff, ‎Lincoln E. Moses | page=12| passage=Each loss then represents this unavoidable loss plus a '''regret''' (loss due to ignorance of Ө). Subtracting these unavoidable losses, we obtain the '''regret''' table, Table 1.7, and the average '''regret''' table, Table 1.8.}}
 
 ====Derived terms====
 * {{l|en|regretful}}
