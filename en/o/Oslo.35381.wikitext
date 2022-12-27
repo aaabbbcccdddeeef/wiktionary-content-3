@@ -382,7 +382,7 @@ From {{inh|nb|non|Ósló}}, {{m|non|Ásló}}, first part from {{m|non|áss||a go
 {{root|nb|ine-pro|*h₂ems-|*lewk-}}
 From {{inh|nn|non|Ósló}}, {{m|non|Ásló}}. The first element is disputed, but is likely from {{m|non|ǫ́ss}}, {{m|non|áss||god; one of the Æsir}}, from {{der|nn|gem-pro|*ansuz}}. Another theory is that it comes from {{m|non|áss||hill, beam}}, from {{der|nn|gem-pro|*ansaz}}, but this is unlikely. The second element is {{m|non|ló||meadow}}, from {{der|nn|gem-pro|*lauhaz}}. Cognate with {{cog|fo,is|Ósló}} and {{cog|nl|Ansloo}}, {{m|nl|Anslo}} (borrowed from {{m+|non|-}}).
 
-Between 1624 og 1925, ''Oslo'' referred to the {{w|Old Town, Oslo#Mediaeval Oslo|old town of Oslo}}, a mediaeval town that burnt down in 1624. When the city was rebuilt, king {{w|Christian IV}} of Denmark named the new city {{m|nn|Christiania}} (later spelling: {{m|nn|Kristiania}}) after himself. The city changed its name back to ''Oslo'' in 1925, and the location of the old town got the name {{m|nn|Gamlebyen}}, now a neighbourhood in the modern city.
+Between 1624 og 1925, ''Oslo'' referred to the {{w|Old Town, Oslo#Mediaeval Oslo|old town of Oslo}}, a mediaeval town that burnt down in 1624. When the city was rebuilt, king {{w|Christian IV}} of Denmark named the new city {{m|nn|Christiania}} (later spelling: {{m|nn|Kristiania}}) after himself. The city changed its name back to ''Oslo'' in 1925, and the location of the old town got the name {{m|nn|Gamlebyen|lit=Old Town}}, now a neighbourhood in the modern city.
 
 ===Pronunciation===
 * {{IPA|nn|/²uslu/}} {{nn-pronu-note}}
@@ -396,22 +396,31 @@ Between 1624 og 1925, ''Oslo'' referred to the {{w|Old Town, Oslo#Mediaeval Oslo
 
 # {{place|nn|county/and/municipality/capital city|c/Norway|t1=Oslo}}
 # {{lb|nn|historical}} {{place|nn|a <<mediaeval>> town to the east of <<bay/Bjørvika>>, now inside the modern city of <<city/Oslo>>, <<c/Norway>>}}
+#: {{syn|nn|Gamlebyen|q=modern name}}
+# {{clipping of|nn|Oslo bispedøme||{{w|Diocese of Oslo}}}}
 
 ====Derived terms====
-{{top2}}
-* {{l|nn|oslobu}}
-* {{l|nn|osloensar}}
-* {{l|nn|oslofolk}}
-* {{l|nn|oslogut}}
-* {{l|nn|oslojente}}
-* {{l|nn|oslomann}}
-* {{l|nn|Oslofjorden}}
-* {{l|nn|oslokvinne}}
-* {{l|nn|osloværing}}
-{{bottom}}
+* {{l|nn|osloborgar}}, {{l|nn|oslobu}}, {{l|nn|osloensar}}, {{l|nn|osloværing||someone from Oslo}}
+{{der3|nn
+|{{l|nn|oslobisp}}, {{l|nn|oslobiskop||bishop in the Diocese of Oslo}}
+|{{l|nn|Oslofeltet}}
+|{{l|nn|oslofolk||people from Oslo}}
+|{{l|nn|Oslogryta}}
+|{{l|nn|oslogut||boy from Oslo}}
+|{{l|nn|oslojente||girl from Oslo}}
+|{{l|nn|oslomann||man from Oslo}}
+|{{l|nn|oslomål||Oslo dialect}}
+|{{l|nn|Oslofjorden||the Oslo Fjord}}
+|{{l|nn|oslokvinne||woman from Oslo}}
+|{{l|nn|oslosildre||Saxifraga osloensis}}
+|{{l|nn|oslosk||of or pertaining to Oslo}}
+|{{l|nn|Oslotunnelen||the Oslo Tunnel}}
+}}
 
 ====Related terms====
 * {{l|nn|Christiania}}, {{l|nn|Kristiania}} {{q|former names of Norway’s capital city}}
+* {{l|nn|lo||a meadow, often by the water}}
+* {{l|nn|ås||a god, one of the Æsir}}
 
 ===References===
 * {{R:Norsk stadnamnleksikon}}
