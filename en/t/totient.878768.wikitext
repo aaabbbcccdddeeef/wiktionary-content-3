@@ -11,12 +11,6 @@ From {{der|en|la|tot||that many, so many}}.
 {{en-noun}}
 
 # {{lb|en|mathematics}} The [[number]] of [[positive]] [[integer]]s not [[more|greater]] than a specified integer that are [[relatively prime]] to it. [[Category:en:Functions]]
-===Explain===
-* For any number {{math| ''n''}}, it is the number of numbers that do not share any factor greater than 1 and less than {{math| ''n''}}, for example:
- if {{math| ''n''{{=}}''8''}}
- The numbers less than 8 are 1,2,3,4,5,6,7  but the numbers that have no shared factors greater than one are 1,3,5,7 so {{math| ''Φ(n)''{{=}} ''4''}}
 
-* Simply, for any prime number {{math| ''p''}} 
- {{math| ''Φ (p)'' {{=}} ''p-1''}}
 ====Related terms====
 * [[Euler's totient function]]
